@@ -1067,9 +1067,9 @@ Mannes Gehilfen …« rief sie uns noch zu …
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
-<h3>Jonathan Scrimax, der Alte …</h3>
+<h3>Jonathan Scrimax, der Affe …</h3>
 
-Frau Lina kehrte Luxus — ganz ängstlich …
+Frau Lina kehrte zurück — ganz ängstlich …
 
 »Oh — ein Fremder steht draußen … Er will mich
 nur etwas fragen, rief er mir durch die Tür zu … Aber
@@ -1085,12 +1085,12 @@ Und als Frau Lina wieder in den Flur geeilt war, als
 wir hinter der Speisekammertür standen, raunte Harald
 mir zu:
 
-»jede Wette: es ist der Alte, und er will sich hier nach
+»jede Wette: es ist der Affe, und er will sich hier nach
 uns erkundigen!«
 
 Da trat auch schon ein Mann in die Küche …
 
-Der Alte?! Der Oberboxer?!
+Der Affe?! Der Oberboxer?!
 
 Nein …
 
@@ -1104,15 +1104,15 @@ Und hinter ihm Frau Grull …
 »Danke …« Und er setzte sich, wandte uns das
 Profil zu …
 
-das »Danke« hatte genügt: es war doch der Alte!
+das »Danke« hatte genügt: es war doch der Affe!
 
 »Frau Grull,« begann er sehr höflich, »mein Name ist
 Jonathan Scrimax, Angestellter des Londoner Detektivinstituts
 <@pagebreak/>
-von Zaunes Watt und Kompagnie. Ich bin also
-Detektiv. Sie wissen doch, was das ist?k«
+von James Watt und Kompagnie. Ich bin also
+Detektiv. Sie wissen doch, was das ist?«
 
-»Ja,« nickte Frau Lina. »Sir Privatpolizist ist das!«
+»Ja,« nickte Frau Lina. »Ein Privatpolizist ist das!«
 
 »Gut. — Bei Ihnen wohnen zwei Leute, die ich beobachtet
 habe, zwei … Frauen, Diebinnen — sehr gefährliche
@@ -1126,7 +1126,7 @@ von Beruf Bildhauerinnen, nebenbei Diebinnen.«
 
 »Haben die beiden hier was gestohlen?«
 
-» Nein. In London, bei Sir John Mecrouw, und
+»Nein. In London, bei Sir John Mecrouw, und
 zwar aus dessen Münzsammlung die achtunddreißig wertvollsten
 Stücke, uralte Münzen, die nur in ganz wenig Exemplaren
 vorhanden sind …«
@@ -1135,7 +1135,7 @@ vorhanden sind …«
 Ehepaar aus …!«
 
 »Und jetzt als … Brüder, Frau Grull, denn die beiden
-wohnen nun seit heute nachmittag in Heringsdorsf in der
+wohnen nun seit heute nachmittag in Heringsdorf in der
 Waldstraße bei Neumann …«
 
 »Dann hat Herr Harst ja recht gehabt!« platzte Frau
@@ -1146,12 +1146,12 @@ hüstelte und den soeben begangenen Fehler dadurch
 gutzumachen suchte, daß sie eilends hinzufügte:
 
 »Nein — Herr … Herr Huber. Ich habe mich
-versprochen … Einen Herrn Harst kenne ich gar nicht
+versprochen … Einen Herrn Harst kenne ich gar nicht …«
 
 »doch, Sie kennen ihn,« meinte der Affe Jonathan
 freundlich. »Er hat mir nämlich vor einer Stunde selbst
-gesagt. daß Ihr Mann ihn der Möllers wegen hergerufen
-hat. Leider weiß ich jede nicht, wo Herr Harst hier wohnt.
+gesagt, daß Ihr Mann ihn der Möllers wegen hergerufen
+hat. Leider weiß ich jedoch nicht, wo Herr Harst hier wohnt.
 Ich möchte ihn gern sprechen, da ich vorhin, als ich in mein
 Logis kam, eine Depesche aus London vorfand, die auch
 Herrn Harst interessieren wird …«
@@ -1161,23 +1161,23 @@ Er wollte noch etwas erklären …
 Bückte sich jedoch plötzlich …
 
 <@pagebreak/>
-Hob … einen Zigarettenstummel aus …
+Hob … einen Zigarettenstummel auf …
 
-Schmnupperte …
+Schnupperte …
 
 Lächelte …
 
-»am — Herr Harst dürfte hier sein!« sagte er sehr
+»Hm — Herr Harst dürfte hier sein!« sagte er sehr
 laut und erhob sich. »Dies ist der Rest einer Mirakulum!«
 
 Schaute sich um …
 
-Trat rasch aus die Speisekammertür zu, riß sie auf …
+Trat rasch auf die Speisekammertür zu, riß sie auf …
 
 Verneigte sich höflich:
 
 »Jonathan Scrimax … Es ist mir eine Ehre, Ihre
-Bekanntschaft zu machen, meine Herren …
+Bekanntschaft zu machen, meine Herren …«
 
 Wir verließen das Versteck …
 
@@ -1186,19 +1186,19 @@ Und Harald meinte kühl:
 »Die erste Bekanntschaft mit Ihnen am Strande war
 etwas schmerzhaft für uns, Mr. Scrimax …«
 
-»Was ich unendlich betastete … Ein Menschen
+»Was ich unendlich bedauere … Ein Versehen
 meinerseits … Ich werde sofort alles richtig beleuchten,
 Herr Harst.“«
 
 Wir nahmen Platz …
 
 »Sie haben ja gehört, was ich Frau Grull mitteilte, meine
-Herren,« begann der Alte Jonathan mit einer Zungenfertigfeit,
+Herren,« begann der Affe Jonathan mit einer Zungenfertigfeit,
 die seiner sonstigen Gelenkigkeit durchaus entsprach.
-»Als ich nun dem peinlichen Zusammentreffen mit
-Ihnen beiden nach meinem Pensionat eilte, lag da auf! dem
+»Als ich nach dem peinlichen Zusammentreffen mit
+Ihnen beiden nach meinem Pensionat eilte, lag da auf dem
 Tisch eine inzwischen für mich eingetroffene Depesche … —
-Hier ist sie …
+Hier ist sie …«
 
 Wir lasen — englisch:
 
@@ -1210,7 +1210,7 @@ Sie daher Ermittlungen ein. Sache ist erledigt.
 »An der Echtheit dieser Depesche ist nicht zu zweifeln,
 Herr Harst.« meinte Jonathan eifrig. »Sie enthält das geheime
 Kennwort, daß uns Detektive des Instituts vor
-Fälschungen bewahren soll. Das Kennwort ist »Sacke«. —
+Fälschungen bewahren soll. Das Kennwort ist »Sache«. —
 mithin habe ich hier nichts mehr zu tun, da die Geschwister
 <@pagebreak/>
 Mergentin nun die Beute freiwillig herausgegeben haben.«
@@ -1218,12 +1218,12 @@ Mergentin nun die Beute freiwillig herausgegeben haben.«
 Harald hatte sich gemächlich eine Zigarette angezündet.
 
 »Sie wollen die beiden Diebinnen also nicht bestrafen
-lassen?« fragte er mit forschendem Bis auf den Londoner
+lassen?« fragte er mit forschendem Blick auf den Londoner
 Kollegen.
 
 »Nein. Sir John Mecrouw wünscht nicht, daß die Geschichte
 an die Öffentlichkeit kommt, da er seine Münzensammlung
-testamentarisM dem Londoner Museum zugesprochen
+testamentarisch dem Londoner Museum zugesprochen
 hat und da er sich nicht den Vorwurf machen lassen
 will, daß er so kostbare Stücke schlecht bewache.«
 
@@ -1238,10 +1238,10 @@ gibt …«
 Wie denken Sie über den unten am Wellenbrecher angebundenen
 Tümmler?«
 
-»am — ich glaubte, die Schwestern hätten vielleicht im
-Hautrolle des Riesenfisches die Münzen verborgen …«
+»Hm — ich glaubte, die Schwestern hätten vielleicht im
+Bauche des Riesenfisches die Münzen verborgen …«
 
-»Sie waren Hause auf der Brücke. Weshalb schritten
+»Sie waren heute auf der Brücke. Weshalb schnitten
 Sie dem Tümmler nicht den Leib auf?«
 
 »Weil ich den riesigen Kadaver morgens durch ein paar
@@ -1254,11 +1254,11 @@ worden sind?«
 
 Scrimax hob die Schultern bis über die Ohren …
 
-»Feine Ahnung …! Keine Ahnung!! — Ist mir
+»Keine Ahnung …! Keine Ahnung!! — Ist mir
 auch gleichgültig, der Tümmler, — jetzt gleichgültig geworden
-…« -
+…« —
 
-Frau Graf stand am Fenster …
+Frau Grull stand am Fenster …
 
 Der Sturm schien rasch an Stärke zuzunehmen. Die
 besorgte Frau wandte sich an Harst:
@@ -1268,7 +1268,7 @@ besorgte Frau wandte sich an Harst:
 <@pagebreak/>
 Wir brachen auf.
 
-Vor dem Hauses verabschiedete der Alte Jonathan sich,
+Vor dem Hauses verabschiedete der Affe Jonathan sich,
 
 »War mir eine Ehre, meine Herren … — Gute
 Nacht …«
@@ -1282,38 +1282,38 @@ Harst schaute ihm nach …
 Und wir eilten hinter Frau Lina drein …
 
 »Du nimmst an, daß die Schwestern dem Sir Mecrouw
-— Passierbare zugeschickt haben?« brüllte ich, da der Sturm
-uns bereits um die Ohren legte.
+— Falsifikate zugeschickt haben?« brüllte ich, da der Sturm
+uns bereits um die Ohren fegte.
 
-»Feine Rede! Nichts von Fälschungen. Und wo ist
+»Keine Rede! Nichts von Fälschungen. Und doch ist
 Jonathan eine mäßige Kraft. Welcher Detektiv, der Liebe
 zu seinem Beruf fühlt, wird an einem Problem wie dem
-Weibes gestohlenen toten Tümmlers vorübergehen?!«
+des gestohlenen toten Tümmlers vorübergehen?!«
 
 Jetzt hatten wir den Schutz des letzten Hauses verlassen
 …
 
-fest packte uns der Orkan …
+Jetzt packte uns der Orkan …
 
 Wir sahen unten die weißen Streifen einer wütenden
-Brandung, sahen auch zwei Hausen von Männern und Besitzern,
+Brandung, sahen auch zwei Haufen von Männern und Weibern,
 die gerade an Stricken zwei Fischerboote bargen …
 
-Und eins davon war August Grulli8 Boot … —
+Und eins davon war August Grulls Boot … —
 
-Wir beglückwünschten den braven Grull. Wir hatten
+Wir beglückwünschten den braven Grull. Wir halfen
 ihm die Netze in die Holzbude tragen …
 
-Und wenn ich Romanschreiber wäre, könnte ich hie!
+Und wenn ich Romanschreiber wäre, könnte ich hier
 nun drei Seiten lang schildern, wie der Strand sich immer
-mehr belebte, wie angastvolle Weiber auf das tobende Meer
-hinausgebauten und wie der seine vom Sturm hochgesegte
-Hand uns die Gesichter peitschte …
+mehr belebte, wie angstvolle Weiber auf das tobende Meer
+hinausschauten und wie der feine vom Sturm hochgefegte
+Sand uns die Gesichter peitschte …
 
 Ich bin nicht Romanschreiber. Ich erwähne nur, daß
 wir beide noch bis zur Seebrücke wanderten, daß auch hier
 Fischer, Weiber und Kinder sich drängten und daß ein
-Dutzend Männer von der Spitze des Steges mit Fern gläsern
+Dutzend Männer von der Spitze des Steges mit Ferngläsern
 nach den gefahrumdrohten Kameraden ausspähten …
 
 Auch wir betraten die Brücke …
@@ -1333,10 +1333,10 @@ Zwei mit auffallend kleinen Füßen und Händen: die
 Schwestern Mergentin!
 
 Dann sagte Harald zu mir im Schutze des Restaurants,
-Über das der Orkan hinwegpfsissf:
+Über das der Orkan hinwegpfiff:
 
 »Gehen, wir nach Hause … Wir werden mit diesen
-en uns augeinandersjetzen, wenn der Orkan vorüber
+Damen uns auseinandersetzen, wenn der Orkan vorüber
 ist …!«
 
 So kehrten wir denn heim in den Seeblick …
@@ -1362,7 +1362,7 @@ Ganz umsonst … — —
 Ist einer meiner Leserfreunde klüger als ich damals?
 Ahnt er schon, was es mit dem Riesenfisch auf sich hatte?
 
-Sollte tatsächlich ein solches Genick vorhanden sein, so
+Sollte tatsächlich ein solches Genie vorhanden sein, so
 würde ich mich freuen, wenn er mir unter der Adresse des
 Verlags mitteilte, wie er auf den Kern des Ganzen gekommen
 ist. Zum Dank soll er auch unsere Photographie
@@ -1374,19 +1374,19 @@ von 1,60 Mark jederzeit vom Verlag zu haben ist.
 <h2>5. Kapitel.</h2>
 <h3>Der Bauch des Tümmlers.</h3>
 
-Mittags sprang der Wind nach Süd um, flaute an, und
+Mittags sprang der Wind nach Süd um, flaute ab, und
 gegen drei Uhr nachmittags war das Meer wieder friedlich
 wie ein Ententeich.
 
-Und gegen drei Uhr standen wir mit August Grulls
-neben seinem Boot am Strande und kreuzen uns des warmen
+Und gegen drei Uhr standen wir mit August Grull
+neben seinem Boot am Strande und freuten uns des warmen
 Sonnenscheins.
 
 »Sagen Sie mal, Herr Grull,« meinte Harald plötzlich,
 »wenn irgendein Brett zum Beispiel durch die Wellen von
 der Seebrücke in Heringsdorf losgerissen worden ist, wo
 dürfte es dann nach Ihren Erfahrungen von der See wieder
-agusgespien werden …?«
+ausgespien werden …?«
 
 »Aha — Sie denken an den Tümmler,« nickte Grull,
 den wir in alles eingeweiht hatten und der vor einer
@@ -1410,16 +1410,16 @@ auf und ließen sich träge hinter uns wieder hernieder …
 Die Seetanghaufen waren noch größer geworden.
 
 <@pagebreak/>
-Seite, Balken, Bretter, ein Ruder, Weidenkörbe — allerlei
+Äste, Balken, Bretter, ein Ruder, Weidenkörbe — allerlei
 hatte das Meer bereits an Land geführt …
 
 Und wir sahen denn auch schon von weitem einen dichten
 Krähenschwarm über einem länglichen Körper kreisen,
-der noch4 halb im Wasser lag:
+der noch halb im Wasser lag:
 
 > der tote Tümmler!
 
-luftiger wurden unsere Schritte …
+Hurtiger wurden unsere Schritte …
 
 Krächzend stoben die Vögel davon …
 
@@ -1440,7 +1440,7 @@ Ein Schnitt — noch einer …
 
 Ekle Arbeit war’s …
 
-Und — unvorsichtig waren wir. Zu eifrig …!1
+Und — unvorsichtig waren wir. Zu eifrig …!
 Hätten die Gefahr wittern müssen …
 
 Schauten uns nur flüchtig um, als wir mit zwei
@@ -1448,13 +1448,13 @@ Knütteln nun aus dem Schlund des Tümmlers eine Schnur
 hervorzogen …
 
 Und an dieser Schnur hing ein Leinenbeutel, der im
-Bauche, im Magen des Tümmlers gesteckt hätte …
+Bauche, im Magen des Tümmlers gesteckt hatte …
 
 Ekelhaft …
 
 Pestilenzialischer Gestank …
 
-Duell ins Wasser mit dem Beutel — abgespült …
+Schnell ins Wasser mit dem Beutel — abgespült …
 gründlich …
 
 Und wie wir so dastanden mit dem Rücken nach den
@@ -1462,15 +1462,16 @@ Dünen — hinter uns ein gellender Schrei …
 
 Wir fuhren herum …
 
-Wir sahen oben auf dem Dünenrand zwei Männer wird
-einander ringen …
+Wir sahen oben auf dem Dünenrand zwei Männer miteinander
+ringen …
 
 Dann erhob der eine sich, winkte …!
 
 <@pagebreak/>
-Der Alte Jonathan!
 
-Winkte, riß seinen gefesselten Gefangenen he, hob eine
+> Der Affe Jonathan!
+
+Winkte, riß seinen gefesselten Gefangenen hoch, hob eine
 kurze Büchse empor — eine zusammenschraubbare Büchse —
 und kam zu uns herab.
 
@@ -1478,32 +1479,32 @@ und kam zu uns herab.
 
 Und — Julia war der Mann mit dem grünen Jägerhütchen!
 
-»Das Weib wollte auf Sie beide schicken,« fügte
+»Das Weib wollte auf Sie beide schießen,« fügte
 Jonathan noch triumphierender hinzu … Lachte … »Ja
 — ich hab’ nur so getan, als wollte ich schleunigst nach
 London zurück. So eilig war das nicht. Konnte doch den
 Tümmler nicht im Stich lassen, mußte doch wissen, was es
-mit dem Messerstich auf sich hatte …!«
+mit dem Riesenfisch auf sich hatte …!«
 
-Die verkleidete Julia Mergentin stand mit finsteren
+Die verkleidete Julia Mergentin stand mit finsterem
 Gesicht dabei …
 
 Und Harald schnitt nun den Leinenbeutel auf …
 
-Münzen sieben in den Sand — mindestens hundert alte
+Münzen fielen in den Sand — mindestens hundert alte
 Münzen — scheinbar alt …
 
 »Die Sache verhält sich so, lieber Scrimax,« erklärte
-Harst. »Die Schwestern Mergentin haben von den Toten
-seltenen Münzen Sir Mecrouws8 Abgüsse hergestellt und
+Harst. »Die Schwestern Mergentin haben von den echten
+seltenen Münzen Sir Mecrouws Abgüsse hergestellt und
 Fälschungen gefertigt, denen sie natürlich erst die Alterspatina
 verleihen mußten, bevor sie die Falschstücke reichen
 Sammlern andrehen konnten. Diese Patina ist nun am
-leichtesten durch Magensäure und Verweisungsgiste von
+leichtesten durch Magensäure und Verwesungsgifte von
 Fischen zu erreichen. Daher taten die Schwestern die
 Münzen zunächst in einen Eimer mit Fischabfällen, dann
 in den … Tümmler, wovon sie sich eine noch bessere Wirkung
-versprachen] — *Das* ist der Kern des Geheimnisses —
+versprachen — *Das* ist der Kern des Geheimnisses —
 also eine besondere Art von Chemie!« —
 
 Und der Schluß des toten Tümmlers?
@@ -1512,15 +1513,15 @@ Nun — so wie die Dinge jetzt lagen, wurden die beiden
 Mergentins doch der Polizei übergeben und haben nachher
 im Gefängnis darüber nachdenken können, daß man als
 <@pagebreak/>
-Bildhauerinnen nicht vom Stunde des Künstlertums abweichen
+Bildhauerinnen nicht vom Pfade des Künstlertums abweichen
 sollte … —
 
 Wir beide jedoch …
 
 Nein — das soll besser die Einleitung zum zweiten Teil
-des toten Tümmlersg werden …
+des toten Tümmlers werden …
 
-Denn — tote Geschichte ist noc&ch nicht aus, wie die
+Denn — die Geschichte ist noch nicht aus, wie die
 folgenden Seiten beweisen …
 
 <@pagebreak 35/>
@@ -1532,42 +1533,42 @@ folgenden Seiten beweisen …
 
 Die Verhaftung der Geschwister Mergentin hatte die
 ganze Küste der Insel Usedom, all die Badeorte ringsum
-aus dem Wintetscchlaf wachgerüttelt. Die Swinemünde
+aus dem Winterschlaf wachgerüttelt. Die Swinemünder
 Zeitung, das dort am meisten verbreitete Lokalblatt, hatte
 unser Erlebnis in Sperrdruck gebracht, hatte auch gleichzeitig
 erwähnt, daß der tote Tümmler bei Fischer August
 Grull gegen eine kleine Gebühr zu besichtigen sei.
 
-August Grull, der höchstselbst auf diesen geschäststühti-gen
+August Grull, der höchstselbst auf diesen geschäftstüchtigen
 Gedanken gekommen war, auf diese Weise aus unserem
 Erlebnis Kapital zu schlagen, mußte für acht Tage sein
-leuchtet Gewerbe ausgeben und Schaubudenbesitzer spielen.
+feuchtes Gewerbe aufgeben und Schaubudenbesitzer spielen.
 Der Zulauf war unglaublich.
 
-Auf dem Hose Grulls lag der Tümmler auf drei leeren
-Kisten, die mit einer alten Ermordete drapiert waren.
+Auf dem Hofe Grulls lag der Tümmler auf drei leeren
+Kisten, die mit einer alten Diwandecke drapiert waren.
 Neben dem Tümmler waren die anderen Schaustücke ausgestellt:
-die Leine, mit der der Riesenfisch)7; am Wellenbrecher
-festgebunden gewesen, dann die Seite, mit denen wir im
-Bauche des Kadavers umhergestochßert hatten, und schließlich
-be Leinenbeutel, der die falschen antiken Münzen enthalten
+die Leine, mit der der Riesenfisch am Wellenbrecher
+festgebunden gewesen, dann die Äste, mit denen wir im
+Bauche des Kadavers umhergestochert hatten, und schließlich
+der Leinenbeutel, der die falschen antiken Münzen enthalten
 hatte.
 
-C3 war selbstverständlich, daß all die Neugierigen, die
+Es war selbstverständlich, daß all die Neugierigen, die
 <@pagebreak/>
-von nach und sein herbeieilten, um den Riesenfisch anzustaunen,
+von nah und fern herbeieilten, um den Riesenfisch anzustaunen,
 auch zu gern die beiden »Berliner« sehen wollten,
 die den Geschwistern Mergentin das dunkle Geheimnis ihrer
 Fälscherkünste entrissen hatten.
 
 Kein Wunder, wenn der Strom der Neugierigen also
 von August Grulls Hofraum sich bis vor die Pension Seeblick
-wälzte und dort Ost zu dreißig, vierzig Personen sich
+wälzte und dort oft zu dreißig, vierzig Personen sich
 vor der Tür staute,
 
 Die meisten der braven Usedomer und Wolliner wurden
 jedoch enttäuscht. Die beiden Detektive hatten keine
-Luft, all die Tage am Fenster zu stehen und sich anstarren
+Lust, all die Tage am Fenster zu stehen und sich anstarren
 zu lassen. —
 
 Auch noch andere Folgen zeitigte der Bericht der Swinemünder
@@ -1575,36 +1576,36 @@ Zeitung.
 
 Harst erhielt Briefe …
 
-ganzen genau ein Dutzend …
+Im ganzen genau ein Dutzend …
 
 Alle von … Usedomern und Wollinern, die uns
 irgendein »Geheimnis« zur näheren Prüfung empfahlen
 oder aber unsere Hilfe in Anspruch nehmen wollten …
 
-So zum Beispiel: Bauer Kurth Fuße Abbau Bansin
-waren vierzehn Kaninchen gestohlen worden. Er wünschte.
-den Dieb bestraft zu sehen. — Gastwirt Emil Knall aus
+So zum Beispiel: Bauer Kurth aus Abbau Bansin
+waren vierzehn Kaninchen gestohlen worden. Er wünschte
+den Dieb bestraft zu sehen. — Gastwirt Emil Krull aus
 Stadt Usedom teilte uns mit, daß in der alten Usedomer
-Kirche machte Gespenster umgingen. Wir sollten die Sache
-doch aufklären. — Gärtner Leiche aus Bad Misdroy berichtete
-Ähnliches: in kein Moor westlich von Misdroy
-hause einer alten Mordsache nach ein schneeweißer Rehbock,
+Kirche nachts Gespenster umgingen. Wir sollten die Sache
+doch aufklären. — Gärtner Losche aus Bad Misdroy berichtete
+Ähnliches: in dem Moor westlich von Misdroy
+hause einer alten Volkssage nach ein schneeweißer Rehbock,
 der sich in hellen Mondnächten in ein blondes nacktes Mädchen
-verwundete. Er selbst habe dreimal von weitem das
+verwandele. Er selbst habe dreimal von weitem das
 Mädchen gesehen. Wir möchten diesen Dingen doch auf
 den Grund gehen …
 
 Und so fort …
 
-Jeder, der sedergewandt genug war, vier Briefbogenseiten
+Jeder, der federgewandt genug war, vier Briefbogenseiten
 zu füllen, schrieb an den berühmten Harst …
 
-Und dieser Harst war l’eben8würdig genug, jedem auch
-aus einer Postkarte zu antworten, — daß seine Zeit leider
+Und dieser Harst war liebenswürdig genug, jedem auch
+auf einer Postkarte zu antworten, — daß seine Zeit leider
 <@pagebreak/>
 durch anderes zu sehr in Anspruch genommen sei … —
 
-Immerhin: wir hatten unsere Freude an diesen dritten,
+Immerhin: wir hatten unsere Freude an diesen Briefen,
 bewunderten die schlichte Kunst der Briefschreiber, unsere
 Neugier reizen zu wollen.
 
@@ -1626,7 +1627,7 @@ Kaffee, rauchten meine Zigarren und ließen Gundler
 erzählen …
 
 »Meine Herren, wie Sie mich hier mit meinem weißen
-Bart und meinem braunen Gesicht Hirn sehen, bin ich fünfundsiebzig
+Bart und meinem braunen Gesicht sitzen sehen, bin ich fünfundsiebzig
 Jahre …«
 
 Wir staunten, und er lächelte …
@@ -1640,9 +1641,9 @@ Wir hüstelten, und er nickte uns zu — ganz ernst …
 
 »Als ich so ungefähr zwanzig war, meine Herren, da
 lernte ich auf der Försterei Riebenhorst, die ich jetzt selbst
-seit Jahrzehnten verwalte. das Gebiet der Försterei stößt!
+seit Jahrzehnten verwalte, das Gebiet der Försterei stößt
 in breitem Streifen bis an die See, und die steilen, bewaldeten
-Verrat hänge dort nennt man all dicke Riebenhorster
+Uferabhänge dort nennt man auch die Riebenhorster
 Hügel …«
 
 Er nahm einen Schluck Kaffee.
@@ -1650,13 +1651,13 @@ Er nahm einen Schluck Kaffee.
 »In einer Novembernacht nun hatte ich als Forstlehrling
 ein paar Wilddieben nachgespürt, die mit Stahlschlingen viel
 Wild erbeuteten. Ich kam auch bis an den Rand der Steilküste
-und schaute eine Meile auf das dunkle Meer hinaus,
+und schaute eine Weile auf das dunkle Meer hinaus,
 <@pagebreak/>
 das durch einen Herbstorkan zu Wogenbergen aufgetürmt
 wurde, wie ich sie nie wieder gesehen habe. Der Sturm
 wütete bereits seit dem Nachmittag, und zuweilen gingen
 Regengüsse nieder, die mich längst bis auf die Haut durchnäßt
-hätten, wenn ich nicht den alten Schreck meines Vaters,
+hätten, wenn ich nicht den alten Ölrock meines Vaters,
 der Steuermann gewesen, über der Joppe getragen haben
 würde.
 
@@ -1666,13 +1667,13 @@ den Riebenhorster Hügeln sich an mächtigen Steinblöcken
 bricht, ein kleineres Fahrzeug, das mit gestutzten Masten
 dem Strande zutrieb.
 
-Ich sah, daß nur reich ein einziger Mensch an Deck
+Ich sah, daß nur noch ein einziger Mensch an Deck
 war, eine Frau, die sich an den einen Maststumpf festgebunden
 hatte.
 
 Damals, meine Herren, hatte ich noch Augen wie ein
 Falke … Und wenn der Vollmond hin und wieder durch
-das gewollt grinste, lag die Brandung und das dem Verderben
+das Gewölk grinste, lag die Brandung und das dem Verderben
 geweihte Wrack klar und deutlich schräg unter mir …
 
 Daß ich beim Anblick des Weibes, die da dem Tode
@@ -1688,7 +1689,7 @@ auch mich beizeiten warnen sollen.
 Meine Aufmerksamkeit galt aber so vollständig dem
 Wrack, das jetzt wiederholt gegen die Steinblöcke prallte, daß
 ich an mich selbst überhaupt nicht mehr dachte. Und doch
-stand ich aus einem weit überhängenden Teil des Abhangs,
+stand ich auf einem weit überhängenden Teil des Abhangs,
 während unter mir die Wogen die Lehmwand immer mehr
 zernagten …«
 
@@ -1697,17 +1698,17 @@ frisches Gesicht war düster und wie schmerzlich bewegt …
 
 »Eine traurige Sache ist’s, meine Herren, so wie ich
 <@pagebreak/>
-damals Taschen zu müssen, wie ein Mensch kläglich dem Tode
+damals zusehen zu müssen, wie ein Mensch kläglich dem Tode
 ausgeliefert ist …
 
 Ja — ich konnte recht gut erkennen, daß die Frau immer
 wieder die Arme bewegte. Fraglos hat sie in ihrer Todesangst
-um Hilfe geraten … Aber der Orkan Übertönte alles.
-Und das war wohl gut, denn sonst hätte mich das Knistern
+um Hilfe gerufen … Aber der Orkan Übertönte alles.
+Und das war wohl gut, denn sonst hätte mich das Entsetzen
 davongescheucht …
 
 Ich blieb stehen. Ich wurde Zeuge, wie eine haushohe
-Woge das Wrack über die Ereignisse war’s und pfeilschnell
+Woge das Wrack über die Steinriffe warf und pfeilschnell
 dem Lande zujagte …
 
 Tobend und donnernd prallte die ungeheure Welle gegen
@@ -1724,25 +1725,25 @@ Nein — aus meinem eigenen …
 
 Denn urplötzlich sauste ich mitsamt dem ganzen Überhängenden
 Teil des Abhangs, der völlig unterwaschen war,
-Ei mitsamt uralten Eichen, Kiefern und Gestrüpp in die
+— mitsamt uralten Eichen, Kiefern und Gestrüpp in die
 Tiefe …
 
-Und — gerade auf das Wrack fiel die gewaltige Fettmasse,
-begrub es unter sich. türmte einen grünen Hügel darüber,
+Und — gerade auf das Wrack fiel die gewaltige Felsmasse,
+begrub es unter sich, türmte einen grünen Hügel darüber,
 wie … einen Grabhügel …
 
 Ein Wunder war’s, daß ich mit dem Leben davonkam.
 Ich war durch einen umstürzenden Baum niedergeschlagen
 worden, erwachte erst am hellen Morgen mitten auf dem
-Hügel —« zwischen wirr durcheinander liegenden Baumkronen.
+Hügel — zwischen wirr durcheinander liegenden Baumkronen.
 
 Der Sturm hatte inzwischen ausgetobt. Die See war
-zurückgetreten, und ich konnte von dem Grabhügel des Schlosses
+zurückgetreten, und ich konnte von dem Grabhügel des Schiffes
 und der unbekannten Frau unschwer zum Strande hinabklettern
 und nach der Försterei zurückwandern,
 
 Als ich dort mein Abenteuer erzählte, glaubte man mir
-nicht. Mein Lehrherr, der Förster ruft, meinte lachend, ich
+nicht. Mein Lehrherr, der Förster Ruff, meinte lachend, ich
 <@pagebreak/>
 hätte die Geschichte von dem Wrack des Zweimasters wohl
 nur geträumt.
@@ -1753,7 +1754,7 @@ Wrack und die Frau geschaut hätte.
 
 Bis dann nach einem halben Jahr bei einem Frühlingssturm
 das Meer mit abermals ungeheuren Wellenbergen
-einen Teil des Wracks, die Spitze, aus dem Grabhügel her-auswush
+einen Teil des Wracks, die Spitze, aus dem Grabhügel herauswusch
 …
 
 Und da stellten dann Fischer, die weit in der Welt
@@ -1762,58 +1763,58 @@ Wracks fest, daß das Schiff eine holländische Kuff, ein
 Zweimastschoner, gewesen sei.
 
 Andere Männer aus der Gegend wieder hatten es nun
-auf die Eichenplanken und die Inneneinrichtung der Auge
-abgesehen, Hieben mit Norden in mühseliger Arbeit ein Loch
+auf die Eichenplanken und die Inneneinrichtung der Kuff
+abgesehen, Hieben mit Äxten in mühseliger Arbeit ein Loch
 in die Bordwand und wollten so ins Innere eindringen, denn
-auf andere Weise war ja on das Wrack nicht heranzukommen.
+auf andere Weise war ja an das Wrack nicht heranzukommen.
 Meterhoch lagen Lehmmassen, Steine, Baumstämme, Buschwerk
 und noch eine Lehmschicht darüber.
 
 Diese Beutegierigen nun, die da in tagelanger Arbeit
-die hier Eichenplanken zersplittert hatten, krochen dann
-auch) mit Laternen in den WMrackrumpf hinein, kamen aber sofort
+die dicken Eichenplanken zersplittert hatten, krochen dann
+auch mit Laternen in den Wrackrumpf hinein, kamen aber sofort
 wieder blaß und verstört heraus, da ein furchtbarer
-Verwejungs8gestank, der einem am Fuße der einen Treppe
-liegenden Hausen von Leichen entströmte, sie rasch wieder
+Verwesungsgestank, der einem am Fuße der einen Treppe
+liegenden Haufen von Leichen entströmte, sie rasch wieder
 zurückgeschreckt hatte. —
 
-C8 blieb bei diesem einen Versuch, die Auge auszuplündern,
+Es blieb bei diesem einen Versuch, die Kuff auszuplündern,
 von der noch niemand Namen und Heimathafen
-erkannte.
+kannte.
 
 Ja, meine Herren, es blieb dabei, weil … die vier
 Männer, die das Wagnis unternommen, schon am nächsten
 Tage an der Beulenpest erkrankten und starben …
 
-Merkwürdig war, daß sie niemand weiter passierten,
+Merkwürdig war, daß sie niemand weiter ansteckten,
 daß gerade nur die vier Leute starben … Und die indische
-Beulenpest ist doch eine der schlimmsten früher.
+Beulenpest ist doch eine der schlimmsten Seuchen.
 
 <@pagebreak/>
 Kein einziger hat es seitdem gewagt, das Wrack zu betreten,
 nicht einer … Das halbe Jahrhundert, das seitdem
-verflossen, konnte an dem Hügel über der Auge nicht viel
-Ton Sträucher und Bäume wachsen jetzt dort oben —
-gern
+verflossen, konnte an dem Hügel über der Kuff nicht viel
+ändern. Sträucher und Bäume wachsen jetzt dort oben —
+gewiß …
 
 Und die Spitze des Wracks ist längst wieder unter Erdmassen
 verschwunden.
 
-Aber die Kugel selbst ruht noch immer wie ein Geheimnis
+Aber die Kuff selbst ruht noch immer wie ein Geheimnis
 unter ihrem Grabhügel, zweifellos gut erhalten, denn
-Sicherlich fault nicht so leicht …
+Eichenholz fault nicht so leicht …
 
 Noch immer weiß niemand, welchen Namen das Schiff
 trug, woher es kam, was für eine Ladung es führte und
 wer die Frau gewesen, die als einzige Person an Deck von
 den Erdmassen mit verschüttet wurde.
 
-Hier im Volke lebt die Erinnerung an die Auge nur noch
+Hier im Volke lebt die Erinnerung an die Kuff nur noch
 als halbe Sage, als die Sage vom *Riebenhorster
 Pestschiff* …
 
 Und doch — keine Sage, meine Herren. Denn einer,
-der alles miterlebte, si! hier vor Ihnen …«
+der alles miterlebte, sitzt hier vor Ihnen …«
 
 <h2>2. Kapitel.</h2>
 
@@ -1821,13 +1822,13 @@ der alles miterlebte, si! hier vor Ihnen …«
 
 Förster Gundler schwieg …
 
-Und Harald füllte die Kognakgläschen, sagte leise.
+Und Harald füllte die Kognakgläschen, sagte leise:
 
 »Ihr Wohl, Herr Förster … — Ich vermute, daß
-nun der moderne Teil der Geschichte des Pestschiffes sich anschließen
-wird.«
+nun der moderne Teil der Geschichte des Pestschiffes sich
+anschließen wird.«
 
-Gundler trank, hielt Harald das leere Glas? hin …
+Gundler trank, hielt Harald das leere Glas hin …
 
 »*Zwei* Beine hat der Mensch« — wenn ich bitten
 darf …«
@@ -1837,18 +1838,18 @@ Und wir tranken diesmal auf — den modernen Teil der
 Geschichte …
 
 »denn — nun kommt’s!« betonte der Förster …
-»Nun kommt das, was ich Blätter noch niemandem anvertraut
+»Nun kommt das, was ich bisher noch niemandem anvertraut
 habe, um — — mich nicht als Gespensterseher auslachen zu
 lassen …«
 
 Kein Wunder, daß selbst Harst sich jetzt vorbeugte und
 den Alten erwartungsvoll anschaute …
 
-»Ich gewahrte schon,« begann Gundler, »daß ich jetzt
-seit Jahrzehnen als Herr aus der Försterei Riebenhorst sitze.
+»Ich erwähnte schon,« begann Gundler, »daß ich jetzt
+seit Jahrzehnten als Herr auf der Försterei Riebenhorst sitze.
 Wenn ich nun bei meinen Gängen durch den Wald bis zum
-Abhang komme, wo etwa Fürst Meter unter dem Rande der
-Steilwand der Grabhügel der Auge sich erhebt, dann bleibe
+Abhang komme, wo etwa fünf Meter unter dem Rande der
+Steilwand der Grabhügel der Kuff sich erhebt, dann bleibe
 ich dort regelmäßig eine ganze Weile stehen und hänge so
 meinen Erinnerungen nach.
 
@@ -1862,7 +1863,7 @@ der Fischerboote draußen rosig färbte …
 
 Meine alte Jägerpfeife hatte ich im Munde, die Büchse
 über der Schulter und meinen armen klapprigen Jagdhund
-diese, der mit seinen fünfzehn Jahren bereits zu den Greisen
+Treff, der mit seinen fünfzehn Jahren bereits zu den Greisen
 gehört wie sein Herr, dicht neben mir …
 
 Und blickte hinab zu dem grünen Riesengrab, gedankenverloren
@@ -1873,17 +1874,17 @@ einmal wieder jung werden könnte …
 
 Dachte gar nicht an das Wrack …
 
-Und da — heulte plötzlich der diese neben mir laut ul
+Und da — heulte plötzlich der Treff neben mir laut auf.
 Wie Hunde heulen, wenn sie Leichen wittern oder — sonst
 etwas … —
 
 Ja — sonst etwas, meine Herren …!
 
-Und als mein diese nochmals herzzerbrechend jaulte
-und dabei den Kopf nach unten rechte und mit seinen milchigen
+Und als mein Treff nochmals herzzerbrechend jaulte
+und dabei den Kopf nach unten reckte und mit seinen milchigen
 <@pagebreak/>
-Augen auf den Hügel hinabstierte, da … sah auch ließ
-sonst etwas …«
+Augen auf den Hügel hinabstierte, da … sah auch ich
+… sonst etwas …«
 
 Er richtete sich plötzlich höher auf, der Alte, legte die
 Hände auf die Knäufe der Seitenlehnen seines Sessels und
@@ -1893,12 +1894,12 @@ schaute uns fest an …
 Jägerlatein, für Schwindel hatten konnte …
 
 Ich sah auf einem Steine der aus dem Grün des Hügels
-Hherau&8raate, eine Gestalt sitzen — ein Weib mit weißer
+herausragte, eine Gestalt sitzen — ein Weib mit weißer
 Haube, wie die Holländerinnen sie tragen, und unter der
-Haube hingen die erraten Messingplatten, wie sie ebenfalls
-in Holland Mode sind — die sogenannten Kruslctjses …
+Haube hingen die großen Messingplatten, wie sie ebenfalls
+in Holland Mode sind — die sogenannten Krulletjes …
 
-Aber — was ich un:er der Haube sonst noch sah, erschien
+Aber — was ich unter der Haube sonst noch sah, erschien
 mir im ersten Moment als — Hirngespinst, als Selbsttäuschung
 …«
 
@@ -1909,26 +1910,26 @@ noch weiter vor und fragte:
 
 Der Alte nickte …
 
-»In — einen grinsenden Skelettkopf — so war’s!«
+»Ja — einen grinsenden Skelettkopf — so war’s!«
 
 »Sie haben dann doch die Sache untersucht?«
 
-»Gewiß, wenn auch mit einigen Unbehagen, Herr Harst.
+»Gewiß, wenn auch mit einigem Unbehagen, Herr Harst.
 Ich kletterte an einer weniger abschüssigen Stelle zum
 Strande hinab, nachdem ich minutenlang die unheimliche
-regungslose Gestalt betrachtet hatte. Nacht zehn Minuten
+regungslose Gestalt betrachtet hatte. Nach zehn Minuten
 etwa langte ich am Fuße des Hügels an und — der Wahrheit
-die hier! — zauderte eine geraume Weile, bevor ich mich
-auslasse und den Hügel hinanklomm …«
+die Ehre! — zauderte eine geraume Weile, bevor ich mich
+aufraffte und den Hügel hinanklomm …«
 
 »Der natürlich leer war —«
 
 »Ja — die Holländerin war verschwunden … der
-Stein war da, auf dem sie gelassen … Und Buktershillen-papier
-und Eier’chalen lagen umher, die von Badegästen
-hier zurüccgelassen waren. &Hänfig keinen ’a die Fremden
-den Hügel, wenn ihren sie Mr Straße in Bansin von dem
-Weiterlief etwas erzählt haben …«
+Stein war da, auf dem sie gesessen … Und Butterstullenpapier
+und Eierschalen lagen umher, die von Badegästen
+hier zurückgelassen waren. Häufig besuchen ja die Fremden
+den Hügel, wenn ihnen ihre Wirtsleute in Bansin von dem
+Pestschiff etwas erzählt haben …«
 
 »Und dann …?«
 
@@ -1940,8 +1941,8 @@ als es bereits dunkelte …«
 »Und — —?«
 
 »Und — der Wahrheit die Ehre! — da bin ich mit
-meinem diese davongeschlichen, Herr Harst … eiskalt
-war’s mir über den Rücken gelaufen beim Anblick des Allerletzte
+meinem Treff davongeschlichen, Herr Harst … eiskalt
+war’s mir über den Rücken gelaufen beim Anblick des Skeletts
 in der holländischen Tracht, und so im stillen habe ich
 mir gesagt, daß es doch ein merkwürdiger Zufall sei, daß
 gerade auf dem Grabhügel einer holländischen Kuff, auf der
@@ -1949,7 +1950,7 @@ ein Weib den Tod fand, eine — Holländerin sitzt …«
 
 Er — langte nach der Kognakflasche …
 
-»Sie gestatten, Herr Harst … Wir ist so Frau im
+»Sie gestatten, Herr Harst … Mir ist so flau im
 Magen!«
 
 Füllte auch unsere Gläser …
@@ -1967,25 +1968,25 @@ Geschichte von dem toten Tümmler. Und da habe ich mich
 denn auf den Weg gemacht und bin zu Ihnen gekommen —
 als ein alter Mann, der viel Seltsames erlebt hat und der
 nicht zu jenen Spöttern gehört, die alles Übernatürliche anzweifeln
-und belächeln. Nein — daß tue gerade ich nicht.
+und belächeln. Nein — das tue gerade ich nicht.
 Denn — ich … leide seit meinem sechzigsten Jahre an Vorahnungen,
 Herr Harst … Eine unheimliche Gabe ist’s,
 wenn man so im Traum Dinge erlebt, die nachher —
 Wirklichkeit werden …«
 
-Er atmete schlauer …
+Er atmete schwer …
 
 »Ich könnte Ihnen fünf Fälle aufzählen, in denen ich
-den Tod von Bekannten vorau3ge … träumt habe. Der
-lebte Fall war der meines jungen Oberförsters, den eine
-umstürzende dieser erschlug … — Nein — doch wohl nicht
-»der lebte Fall …«
+den Tod von Bekannten vorausge…träumt habe. Der
+letzte Fall war der meines jungen Oberförsters, den eine
+umstürzende Kiefer erschlug … — Nein — doch wohl nicht
+der letzte Fall …«
 
 <@pagebreak/>
 Er sprach noch leiser …
 
-Und im stillen Zimmer war noch stärker daß unsichtbare
-Wehen des Unheimlichen, Übernatürlicher …
+Und im stillen Zimmer war noch stärker das unsichtbare
+Wehen des Unheimlichen, Übernatürlichen …
 
 »Nicht der letzte Fall, Herr Harst … Denn im Traume
 habe ich vor einem Monat, am 15. September, meinen
@@ -1996,33 +1997,33 @@ Er fuhr mit der Hand Über die Stirn …
 Auf dieser Stirn perlte Schweiß …
 
 »Meinen — eigenen — Tod — durch — einen —
-Messerstich, 6 Herr Harst, — ins Herz — auf dem Grabhügel
-er Kuff …«
+Messerstich, Herr Harst, — ins Herz — auf dem Grabhügel
+der Kuff …«
 
 Stille … Schweigen …
 
 Und die schweren stoßweisen Atemzüge des alten Mannes,
-der sein Schlaf mit dem eines unbekannten Wracks
-über ein halbes Jahrhundert hinweg befanden sah …
+der sein Schicksal mit dem eines unbekannten Wracks
+über ein halbes Jahrhundert hinweg verwoben sah …
 
-»Nur ein Traum, Herr Förster!« suchte Harald ’dann
+»Nur ein Traum, Herr Förster!« suchte Harald dann
 den in sich Versunkenen aufzumuntern.
 
 »Ein Traum, der — in Erfüllung gehen wird,« kam die
 tiefe Stimme des Greises aus dem Sessel … »Sie wollen
 mich trösten, Herr Harst… Dessen bedarf es nicht. Jeder
-muß mal sterben, und ich habe dem Tode Ost genug ins
+muß mal sterben, und ich habe dem Tode oft genug ins
 Auge geschaut … — Nur — nur eins wünschte ich: daß
 ich wüßte, ob Sie, meine Herren, eine natürliche Erklärung
 für dieses … dieses Gespenst haben. Gerade Sie beide
-sind Dom Männer, die wohl so ziemlich alles kennenlernten,
-was die Welt an Ungewöhnlichem bietet.«… Ich habe ja
+sind doch Männer, die wohl so ziemlich alles kennenlernten,
+was die Welt an Ungewöhnlichem bietet … Ich habe ja
 genug von Ihnen gelesen. Herrn Schrauts Schilderungen
 Ihrer indischen Abenteuer besitze ich sämtlich. Und in diesen
-Büchlein betont Herr Schraut doch) wiederholt, daß in Indien
-das Geheimniä8volle sich dem Europäer in so mannigfachen
+Büchlein betont Herr Schraut doch wiederholt, daß in Indien
+das Geheimnisvolle sich dem Europäer in so mannigfachen
 Form aufdrängt, daß ein jeder an den bekannten Spruch:
-»Goß gibt Dinge zwischen Himmel und Erde, von denen sich
+»Es gibt Dinge zwischen Himmel und Erde, von denen sich
 unsere Schulweisheit nichts träumen läßt« rasch glauben
 lernt. — Wie denken Sie beide also über … den Geist der
 Holländerin?«
@@ -2044,33 +2045,33 @@ Harald starrte zum Fenster hinaus …
 Dort draußen standen gerade wieder einige Neugierige,
 die von der Besichtigung des toten Tümmlers kamen,
 
-Und starrte so anhaltend aus die Straße hinaus, daß ich
+Und starrte so anhaltend auf die Straße hinaus, daß ich
 unwillkürlich aufmerksam wurde …
 
 Da wandte er den Kopf und sagte:
 
-»Ohne Zweifel ein shchltihter Scherz … Mithin ist es
+»Ohne Zweifel ein schlechter Scherz … Mithin ist es
 auch wohl ausgeschlossen, lieber Herr Gundler, daß Ihr
 Traum in Erfüllung geht … Dieser Witzbold, der da die
-Holländerin als Gesjpenst ausbaut, wird Ihnen kaum aus
-den Leib rücken … schlugen Sie sich all diese Gedanken
+Holländerin als Gespenst aufbaut, wird Ihnen kaum auf
+den Leib rücken … schlagen Sie sich all diese Gedanken
 nur aus dem Kopf … Und morgen früh besuchen wir beide
-Sie aus Ihrer Försterei und werden dann zusehen, ob wir
+Sie auf Ihrer Försterei und werden dann zusehen, ob wir
 den Witzbold nicht abfassen können …«
 
 Gundler saß gesenkten Kopfes da …
 
 »In Bansin wohnt auch nicht ein einziger Badegast
-mehr, Herr Harst …« warmes;ich er undeutlich, »Und hier
-aus Heringsdorf! oder Neuhof wird doch keiner stundenlang
-laufen, um … ein Gespenst auszubauen, wie Sie sich ausdrückten
+mehr, Herr Harst …« murmelte er undeutlich. »Und hier
+aus Heringsdorf oder Neuhof wird doch keiner stundenlang
+laufen, um … ein Gespenst aufzubauen, wie Sie sich ausdrückten
 …«
 
 »Es kann ja auch jemand aus der Gegend der Riebenhorster
 Hügel sein …«
 
 »Die Bauern etwa?! — Herr Harst, die wohnen auch
-sämtlich eine Meile ab und haben Besseres zu tun … -
+sämtlich eine Meile ab und haben Besseres zu tun … —
 Ich glaube nicht an einen Scherz …«
 
 »Was sonst, Herr Gundler?! Mag es Unerklärliches
@@ -2082,14 +2083,14 @@ Und das sage ich Ihnen als ein Mann, der schon genug
 »Dann — entlarven Sie auch diesen, Herr Harst!«
 
 »Wird geschehen! Schon morgen. Und auch das verspreche
-ich Ihnen, ein Wann, der nun einmal von Mutter -
-Natur ein irrig mehr Hirn und — geistige Augen mitbekommen
+*ich* Ihnen, ein Mann, der nun einmal von Mutter 
+Natur ein wenig mehr Hirn und — geistige Augen mitbekommen
 hat …« —
 
 Eine halbe Stunde später verabschiedete Gundler sich
 von uns in bester Laune. Der Druck von seiner Seele war
-gewichen. Er Freude sich auf morgen … wollte dem »Gespenst«
-gehörig ein paar mit dem Krückstock überziehen, mit
+gewichen. Er freute sich auf morgen … wollte dem »Gespenst«
+gehörig ein paar mit dem Krückstock überziehen, wie
 er lachend betonte.
 
 <h2>3. Kapitel.</h2>
@@ -2631,7 +2632,7 @@ Stimmengemurmel — das war alles …
 Und dann — ein Weinen — ein besinnungslose?
 Schluchzen …
 
-IJammernde Laute …
+Jammernde Laute …
 
 <@pagebreak/>
 Männerstimmen … Drohend! — bittend … ohne
