@@ -41,13 +41,12 @@
 ……	…
 €3	Es
 0h	Oh
-Oel	Öl
-Sate	Satze
 1«	!«
 1»	!«
 1ch	ich
 3a	Ja
 3eigt	Zeigt
+3m	Im
 5chraut	Schraut
 7«	?«
 7»	?«
@@ -121,6 +120,7 @@ alden	alten
 alfo	also
 Alfo	Also
 Alhairos	Albatros
+alien	alten
 Alien	Alten
 Alier	Aber
 alier	aller
@@ -515,6 +515,8 @@ Busett	Buffet
 Buveau	Bureau
 bvingen	bringen
 bwld	bald
+C3	Es
+C8	Es
 cady	Lady
 Casee	Cafee
 Cecjl	Cecil
@@ -843,6 +845,7 @@ drüdte	drückte
 dsann	dann
 dsas	das
 dsaß	daß
+ds	da
 dsem	dem
 dsen	den
 dser	der
@@ -2468,6 +2471,7 @@ lenlren	lenken
 Lente	Leute
 Lesezinrmer	Lesezimmer
 leßten	letzten
+leßter	letzter
 lette	letzte
 levten	letzten
 levter	letzter
@@ -2919,6 +2923,7 @@ Oandzunge	Landzunge
 Oarbatty	Warbatty
 Obr	Ohr
 odez	oder
+Oel	Öl
 Oelsleck	Ölfleck
 oem	dem
 oen	den
@@ -3255,6 +3260,7 @@ saszen	saßen
 saszest	saßest
 sasz	saß
 saszte	faßte
+Sate	Satze
 Saumetter	Sauwetter
 Säuser	Säufer
 saute	schaute

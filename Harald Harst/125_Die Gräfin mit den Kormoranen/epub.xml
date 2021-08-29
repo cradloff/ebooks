@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">e3683982-003c-11ec-9743-c7e673ee1efe</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Gräfin mit den Kormoranen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">125</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Gräfin mit den Kormoranen
+
+Von unserer Detektivtätigkeit her kannte ich einen Mann, der Geschäfte jeglicher Art erledigte.
+
+Das war Herr Moses Rubenstein, Alte Jakobstraße 228, Erdgeschoß rechts, — Uhren en groß, wie auf dem Holzschild über dem winzigen Schaufenster zu lesen war.
+
+Als ich Rubensteins Laden betrat, bot sich mir ein überraschendes Bild dar …
+
+Moses Rubenstein lag hinter dem Ladentisch leichenblaß, die große Nase mit feinen Schweißperlen besät, im alten Ohrensessel …
+
+Seine weißen Haupthaare hingen ihm wirr in die Stirn. Der Mund stand inmitten des ebenfalls schlohweißen Bartwaldes weit offen …
+
+Die Augen starrten zur Decke empor, und über den buschigen weißen Augenbrauen saß die goldene Brille auf der ebenfalls schweißfeuchten Stirn. —
+
+Die beiden Dreien
+
+Wir sausten durch den vornehmen stillen Berliner Westen … Wir hörten gespannt auf Nymegaards Bericht.
+
+»Ich bin erst seit vierundzwanzig Stunden in Berlin, Herr Harst,« begann er in seiner pomadigen Art. »Der Verband der Amsterdamer Diamantenhändler hat mich vor einer Woche beauftragt, einer Diebesbande nachzuspüren, die seit längerem die Angestellten der Großhändler ausplündert, sobald diese Steine ins Ausland bringen sollen.  Diese Diebstähle und Beraubungen sind so tadellos vorbereitet gewesen, daß ohne Zweifel eine wohlorganisierte Bande dabei die Hand im Spiele hat. Ich habe nun das Glück gehabt, auf eine Holländerin aufmerksam zu werden, die einer völlig verarmten Adelsfamilie angehört, eine Gräfin Wilhelmine van den Haag …«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (125) Die Gräfin mit den Kormoranen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
