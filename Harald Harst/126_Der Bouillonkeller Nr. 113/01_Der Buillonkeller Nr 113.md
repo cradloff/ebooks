@@ -131,7 +131,7 @@ Gitter dort zwischen den Eichen in der Waldeinsamkeit ein
 Grab umschließt,« sagte Harald und stopfte sich die kurze
 Stummelpfeife, die zu seiner Maske genau so gehörte wie
 die Schmutzpatina auf den Händen und im Gesicht. »Es
-gibt mehrere solchen Gräber dort in den Wäldern, zumeist
+gibt mehrere solcher Gräber dort in den Wäldern, zumeist
 von historischer Bedeutung. Es kann sich hier nur um das
 auch in dem Fremdenführer von Potsdam und Umgegend
 erwähnte Grab des Forstmeisters Joachim von Rocholz handeln,
@@ -174,7 +174,7 @@ Fahndungsblatt war Jack Barissas Bild zu finden.«
 »Die Polizei schiebt ihm den Mord an dem Geheimrat
 Horwiz in der Villenkolonie Dahlem in die Schuhe.«
 
-»Ja — Horwiz überraschte Einbrecher, und einer Schoß
+»Ja — Horwiz überraschte Einbrecher, und einer schoß
 ihn nieder.«
 
 »Barissa tat’s sicherlich nicht. Die Pinkertons aus Neuyork
@@ -582,7 +582,7 @@ wir Gewalt verabscheuen … Wenigstens Gewalt, die bis
 zum Blutvergießen geht …«
 
 Da wurde die Blonde ernst. »Das freut mich,« sagte
-sie, leicht mit dem Kopf nickend. »Ihr gefällt mir, Ihr
+sie, leicht mit dem Kopf nickend. »Ihr gefallt mir, Ihr
 beide …«
 
 Sie wandte sich an Jack Barissa:
@@ -819,7 +819,7 @@ Ganz plötzlich …
 
 Und Jacks rauhe Stimme polterte dazwischen:
 
-»Hören Sie auf mit dem verdammten Zeylon!? Sie
+»Hören Sie auf mit dem verdammten Zeylon! Sie
 sehen doch, es greift Mylady an —«
 
 »Oh, entschuldigen Sie!« murmelte Harald. »Entschuldigen
@@ -1105,7 +1105,7 @@ Ich kann mir daher wohl eine Schilderung des
 »Milieus« schenken.
 
 Wir standen am Schanktisch … Krawuschki dahinter —
-im Hemdsärmeln — mit Fuchsgesicht, mit Augen, die beständig
+in Hemdsärmeln — mit Fuchsgesicht, mit Augen, die beständig
 alle und alles sahen, nie zur Ruhe kamen.
 
 Harst verlangte zwei Kümmel, flüsterte:
@@ -1365,7 +1365,7 @@ Die Flurtür geht auf …
 
 »Spazieren gefahren …«
 
-»Na Nu?!«
+»Na nu?!«
 
 »Laß uns ein …«
 
@@ -1520,7 +1520,7 @@ Hand glitt in die Tasche …
 einer Ruhe, die stärker wirkte als tausend Schwüre. »Ich
 bin Harst … Aber ich bin nicht als Euer Gegner hergekommen.
 Ich will Euch berichten, weshalb wir, Schraut und
-ich, diese Verkleidung tragen und wie wir Jacke Bekanntschaft
+ich, diese Verkleidung tragen und wie wir Jacks Bekanntschaft
 machten …«
 
 Das, was er erzählte, enthielt auch nicht eine einzige

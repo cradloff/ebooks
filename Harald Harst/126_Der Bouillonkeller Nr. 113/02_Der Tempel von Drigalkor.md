@@ -420,7 +420,7 @@ des Gottes photographiert hatte.
 Die Erregung der Priester schwand. Sie lauschten dem,
 was Harald zu erklären hatte. Sie standen da und ihre
 faltigen Gesichter mit den weltfremden Fanatikeraugen
-drückten nur noch diese Trauer aus.
+drückten nur noch tiefe Trauer aus.
 
 Der Oberpriester gab dann bereitwillig Auskunft …
 
@@ -697,7 +697,7 @@ daß Lord Goßweac ein Edelmann in des Wortes bester
 Bedeutung gewesen und daß er seiner jungen Gattin in
 keiner Weise nachtrug, weil letzten Endes durch sie und ihre
 <@pagebreak/>
-dunkle Herkunft der Name Goßweac zum Gegenstand widerwärtigen
+dunkle Herkunft der Name Goßweac zum Gegenstand widerwärtiger
 Skandalgeschichten gemacht worden war. —
 
 Wenn ich jemals mit aller Deutlichkeit empfunden hatte,
@@ -1011,7 +1011,7 @@ ruht, nur deshalb hat Ansalmo-Baargen uns begleitet
 … Deshalb — und noch des … Sündenlohnes
 wegen …!«
 
-»Ab — man hat ihn als Mörder gedungen!« meinte
+»Ah — man hat ihn als Mörder gedungen!« meinte
 die Gräfin entsetzt. »Glauben Sie das wirklich, Herr
 Harst?«
 
@@ -1088,7 +1088,7 @@ Und — ob »dort« etwa die Kaschemme bedeute?!«
 
 »Vielleicht?!« Und die Gräfin hob die Schultern …
 
-»aussteigen!« befahl Harald nach kurzem Überlegen.
+»Aussteigen!« befahl Harald nach kurzem Überlegen.
 »Ich werde den Chauffeur ablohnen. Wir nehmen unser
 Handgepäck und gehen einzeln nach Krawuschkis Privatwohnung
 im Gartenhause …«
