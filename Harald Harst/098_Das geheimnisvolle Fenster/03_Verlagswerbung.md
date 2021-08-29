@@ -10,7 +10,7 @@
 <tr><td>5. Liu Sings Geheimnis.                   </td><td>36. Der Mord im Warenhause.</td></tr>
 <tr><td>6. Der Tigerwagen.                        </td><td>37. Der Spielklub W. W.</td></tr>
 <tr><td>7. Ruine Blinkenstein.                    </td><td>38. Ein gefährlicher Auftrag.</td></tr>
-<tr><td>8. Die Jagd auf einen Namen.              </td><td>39. Der sterbende Fechter.</td></tr>
+<tr><td>8. Der Mord ohne Toten.                   </td><td>39. Der sterbende Fechter.</td></tr>
 <tr><td>9. Die Augen der Jolante.                 </td><td>40. Die Gespenster-Rikscha.</td></tr>
 <tr><td>10. Der Fluch eines Geschlechts.          </td><td>41. Eine Löwenjagd im Sinai.</td></tr>
 <tr><td>11. Die verschwundene Million.            </td><td>42. Der Afghan-Teppich.</td></tr>

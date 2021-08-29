@@ -8,7 +8,7 @@ niedrigen Turm des Klubgebäudes gehißt.
 
 Harald Harst und ich hatten vom Vorstand eine schriftliche
 Einladung zu einem Abendessen erhalten und uns dazu auf
-Anraten unseres liebenswürdigen Wirtes und Landsmannes
+Anraten unseres liebenswürdigen Wirtes und Landsmannes,
 des Kriminalinspektors August Schliepner in Smoking und
 Lackschuhe geworfen.
 
@@ -25,7 +25,7 @@ ihm gegenüber zwischen zwei anderen Vorstandsmitgliedern.
 Die Unterhaltung war von Anfang an lebhaft und ungezwungen.
 Auf der früheren Estrade für den Thronsessel des Radschas
 konzertierte die Kapelle des in Semarang stationierten
-Kolonial-Infanfanterieregiments hinter einer Wand von jungen Palmen.
+Kolonial-Infanterieregiments hinter einer Wand von jungen Palmen.
 Die Weine waren vorzüglich; die Speisenfolge hätte jedem
 Welthotel Ehre gemacht.
 
@@ -60,7 +60,7 @@ Was ist nur aus ihm geworden! — ein reines Skelett
 mit blassem Leidensgesicht. Melprove muß irgend einen geheimen
 Kummer oder ein schweres körperliches Leiden haben!
 Er selbst behauptet ja, ihm fehle nichts. Aber — er lügt! Und
-daß er selbst mich, seinen besten Freund zu täuschen sucht,
+daß er selbst mich, seinen besten Freund, zu täuschen sucht,
 kränkt mich sehr.«
 
 »Am merkwürdigsten ist jedenfalls, daß er heute hier
@@ -122,7 +122,7 @@ kam nun auf uns zu, stellte sich vor und sagte zu Harst:
 das Haus zeigen würde. Wenn Sie mir nicht helfen, Herr
 Harst, bin ich in kurzem ein Bettler. Aber — ob Sie mir
 werden helfen können, ist sehr die Frage. Das, was mich seit
-acht Tagen bedrückt, ist mehr als ein einzelner
+acht Tagen bedrückt, ist mehr, als ein einzelner
 Mensch seelisch und körperlich zu ertragen vermag. Ich
 bin bereits halb verrückt, halb krank vor Angst und vor stetem
 Grübeln, wie ich mich und meine Kinder, meine Töchter,
@@ -200,7 +200,7 @@ Montag nachmittag von mir gekapert worden. Ich kann der
 Besatzung nur das Zeugnis ausstellen, daß sie sich bis zum
 Schiffsjungen herab tadellos bewährt hat. Nicht einer der
 acht Leute lebt mehr. Sie teilen das Schicksal aller Tapferen.
-Ehre ihrem Andenken — Ihre Töchter und die Engländerin
+Ehre ihrem Andenken. — Ihre Töchter und die Engländerin
 befinden sich jetzt bei mir und werden, falls Sie nicht bis
 zum übernächsten Montag zwei Millionen Gulden Lösegeld in
 größeren Banknoten in der unten angegebenen Weise gezahlt
@@ -208,7 +208,7 @@ haben, meinem Harem einverleibt werden. — Ich warne Sie
 davor, etwa die Polizei zu benachrichtigen oder sonstwie
 irgend welche Schritte zur Befreiung Ihrer Kinder zu tun.
 Ganz besonders warne ich Sie aber vor dem deutschen Detektiv
-Harald Harst, der jetzt im Batavia weilt, wie ich erfahren
+Harald Harst, der jetzt in Batavia weilt, wie ich erfahren
 habe. Sie könnten leicht auf den Gedanken kommen, ihn um
 Hilfe zu bitten. Wagen Sie dies — Sie werden beständig aufs
 schärfste beobachtet, — so leben Sie keine zwölf Stunden mehr.
@@ -232,7 +232,8 @@ sich dann von selbst ergeben.
 > Ich weiß, daß Ihnen zwei Millionen Gulden nichts ausmachen.
 Seien Sie nicht so töricht, des Geldes wegen Ihr Leben
 und die Zukunft dreier junger Weiber zu gefährden.
-Der Pirat von Kap Kotaringia (Kap a. d. Südküste Borneos).
+
+> Der Pirat von Kap Kotaringia. (Kap a. d. Südküste Borneos.)
 
 <@pagebreak/>
 Ich hatte Wort für Wort ebenso langsam wie Harst gelesen.
@@ -283,8 +284,8 @@ Er entnahm seiner Brieftasche ein quadratisches Stück
 weißes Papier, etwa 10 mal 10 Zentimeter groß, auf dem
 wieder in lila Maschinenschrift folgendes stand:
 
-
 <@pagebreak/>
+
 > »Harald Harst ist jetzt in Semarang. Sie haben gestern
 zu van Diemen geäußert, der Klub müßte ihm zu Ehren eigentlich
 ein Festessen geben. Sobald Sie mit Harst irgendwie
@@ -297,7 +298,7 @@ Als Harst diese Zeilen laut vorgelesen hatte, rief van
 Diemen halblaut:
 
 »Das ist in der Tat geradezu unheimlich! Ich besinne
-mich, wir waren doch Dienstag beide allein auf Deiner Veranda,
+mich, — wir waren doch Dienstag beide allein auf Deiner Veranda,
 als wir über das Festessen sprachen!«
 
 Melprove nickte. »Ja — und wir standen dicht an der
@@ -345,8 +346,8 @@ Jahren in meinem Dienst und ist die Harmlosigkeit selbst.
 Dann die Mutter der Gesellschaftsdame meiner Töchter, die
 alte Frau Backerley, ein unglückliches Wesen, stets kränklich
 und mit einem schrecklichen Gesichtsleiden, einer fressenden
-Flechte behaftet. Sie macht sich nützlich, wo sie nur kann. —
-Auch diese Personen sind über jeden Verdacht erhaben Herr
+Flechte, behaftet. Sie macht sich nützlich, wo sie nur kann. —
+Auch diese Personen sind über jeden Verdacht erhaben, Herr
 Harst.«
 
 Harst schaute mit halb zusammengekniffenen Lippen vor
@@ -408,7 +409,7 @@ wurde ich rasch munter. Harst sagte nämlich in der Vorhalle
 leise zu dem Inspektor:
 
 »Sie müssen mich noch ein wenig zum Chinesen umwandeln,
-bester Schliepner. Ich will noch ein Paar Stunden das
+bester Schliepner. Ich will noch ein paar Stunden das
 Nachtleben Semarangs kennen lernen.«
 
 In Schliepners Schlafzimmer entstanden dann bei dicht
@@ -430,12 +431,13 @@ war jetzt doch bei mir das Interesse für diesen unseren neuesten
 Fall unendlich gestiegen. Wenn Harst dem Bungalow
 Melproves zur Nachtzeit einen Besuch abstattete, dann vermutete
 er ja fraglos darin einen Verbündeten des Piratenführers;
-obwohl Melprove so nachdrücklich betont hatte, er hegt
+obwohl Melprove so nachdrücklich betont hatte, er hege
 gegen niemand von seinen Hausgenossen den geringsten Verdacht.
 Und — es mußte ja auch ein Mitschuldiger des Piraten
 im Hause sein! Wer sollte sonst die Uhrkettenglieder und den
 <@pagebreak/>
 Zettel auf den Nachttisch und in die Serviette gelegt haben?!
+
 Die Uhrkettenglieder! — Als wir jetzt die Mauer an der
 Rückseite des Parkes überklettert und rechts neben dem Bungalow
 in einem Gebüsch uns verborgen hatten, dachte ich seltsamerweise
@@ -446,7 +448,7 @@ gerade diese Teile eines billigen Schmucks für verbrecherische
 Zwecke zu benutzen, vielleicht war’s von dem Piraten
 so etwas wie Effekthascherei! Vielleicht wollte er dadurch
 dieser Entführung, die mit einer blutigen Wegnahme der
-Jacht begonnen hatte, seinen besonderen Anstrich geben. — Die
+Jacht begonnen hatte, einen besonderen Anstrich geben. — Die
 Uhrkettenglieder waren jetzt der Mittelpunkt, um den sich
 mein Denken drehte. — Sollten sie doch mehr darstellen als
 nur Sensationslust und Effekthascherei?! Sollten sie —
@@ -475,7 +477,7 @@ Drahtgaze überzogen sind! Wir müssen hinein! Aber —
 doppelte Vorsicht jetzt. Decke mir den Rücken, bis ich die
 Gaze zerschnitten und das untere Fenster aufgeriegelt habe.«
 
-Wir krochen weiter bis wir die beiden Schlafstubenfenster
+Wir krochen weiter, bis wir die beiden Schlafstubenfenster
 vor uns hatten. Harst stieg auf das Fenstergesims. Ich
 hörte das Knirschen der Drahtgaze unter der Messerklinge.
 Dann lag Harst mit dem halben Leib über dem Fensterkreuz,
@@ -518,20 +520,20 @@ daß wir hier in der Tat gegen eine unheimliche Macht
 ankämpften.
 
 Ich kam zu mir. Ich schlug die Augen auf. Ich saß auf
-einem Stuhl, war gefesselt, hatte einen Knebel im Munde
-und neben mir stand ein zweiter Stuhl. Harst saß darauf,
+einem Stuhl, war gefesselt, hatte einen Knebel im Munde.
+Und neben mir stand ein zweiter Stuhl. Harst saß darauf,
 wehrlos wie ich, genau wie ich so gebunden, daß wir uns
 nicht erheben, nicht uns drehen konnten.
 
 Und vor uns — kaum zwei Meter vor uns, erblickte ich
 nun im matten, rötlichen Lichtschein einer Laterne, die irgend
 jemand hinter uns hochhielt, auf seinem Bett den Herrn dieses
-Hauses, Armand Melprove lang ausgestreckt auf der Matratze
+Hauses, Armand Melprove, lang ausgestreckt auf der Matratze
 liegend, gefesselt wie wir. Und über ihm pendelte an
 einer langen Schnur, die oben an der Decke an einem Nagel
 <@pagebreak/>
 befestigt war, eine armlange, in der Mitte des Leibes festgebundene
-grün\-braune Schlange langsam hin und her.
+grünbraune Schlange langsam hin und her.
 
 Das Reptil machte verzweifelte Anstrengungen, freizukommen.
 Dadurch geriet die Schnur immer aufs neue ins
@@ -582,8 +584,8 @@ auf den Mund. Doch — ich hatte von früher her so manches
 gelernt. Ich war nicht so töricht, mich allzu kräftig durch
 <@pagebreak/>
 Kopfbewegungen zu wehren. Ich tat so, als wäre ich schnell
-betäubt worden, ließ den Kopf matt nach vorn sinken und erreichte,
-so daß der Rauschzustand nur Sekunden währte. Ich
+betäubt worden, ließ den Kopf matt nach vorn sinken und erreichte
+so, daß der Rauschzustand nur Sekunden währte. Ich
 wollte bei Besinnung sein, ich mußte es, denn ich sagte mir,
 daß die Leute, mit denen wir es hier zu tun hatten, uns nicht
 schonen würden.
@@ -593,7 +595,7 @@ mir um den Hals durch eine Schnur festgebunden war. Zwei
 Leute trugen mich davon. Ich erlangte die volle Besinnung
 wieder zurück, als ich eine Treppe emporgeschleppt wurde.
 Ich hörte das leise Knarren einzelner Stufen und jenes besonders
-geartete, knisternde Geräusch, das die aus Java so
+geartete, knisternde Geräusch, das die auf Java so
 viel verwandten Reisstrohläufer beim Darüberschreiten hervorrufen.
 Dann wurde ich auf kahle Dielen gelegt. Ich
 merkte, daß die beiden Leute sich entfernten. Sie erschienen
@@ -606,7 +608,7 @@ Beine wurden nacheinander von den Stricken befreit und anders
 gefesselt. Unter den Kopf schob man mir ein Bündel
 Stoff.
 
-Nach einer Weile wieder das vorsichtige schließen einer
+Nach einer Weile wieder das vorsichtige Schließen einer
 Tür. Dann Stille. Nur das Stroh unter mir raschelte. Meine
 Handgelenke waren jetzt bei zur Seite gestreckten Armen offenbar
 mit Riemen an Haken gebunden, die man in den Fußboden
@@ -616,8 +618,8 @@ Die Lage war nicht allzu unbequem.
 
 Genau vor mir dasselbe Rascheln von Stroh. Dort würde
 wohl Harst liegen. — Jetzt — ein leises Räuspern. Er war’s!
-Unsere Strohsäcke mußten sich an den Fußenden berühren —
-ich gab ebenso leise Antwort. Auf mein Hüsteln hin wurde
+Unsere Strohsäcke mußten sich an den Fußenden berühren. —
+Ich gab ebenso leise Antwort. Auf mein Hüsteln hin wurde
 jedoch rechts von mir eine Tür aufgerissen und eine Stimme
 flüsterte drohend:
 
@@ -625,11 +627,11 @@ flüsterte drohend:
 die Chloroformlappen auf den Mund!«
 
 Dann fühlte ich abermals den kühleren Luftzug, der durch
-das schließen der Tür entstand. In unserem Kerker herrschte
-nämlich eine fürchterliche stickige Hitze. Ich roch trotz des
+das Schließen der Tür entstand. In unserem Kerker herrschte
+nämlich eine fürchterliche, stickige Hitze. Ich roch trotz des
 <@pagebreak/>
 Tuches, das mich am Sehen hinderte und das recht dick war,
-ganz deutlich die Ausdünstungen harzigen von der Sonne erhitzten
+ganz deutlich die Ausdünstungen harzigen, von der Sonne erhitzten
 Holzes.
 
 Ich lag still. Ich war so müde und abgespannt, daß ich
@@ -685,7 +687,7 @@ wiederholen:
 »Gäste, — Gäste besonderer Art?«
 
 <@pagebreak/>
-»Tja, mein Alter,« meinte Harald, »es soll Leute geben,
+»Dja, mein Alter,« meinte Harald, »es soll Leute geben,
 die, wenn sie vor dem Konkurs stehen, auf die seltsamsten
 Tricks kommen, um einen guten Freund zur Hergabe eines
 ansehnlichen Darlehns zu bewegen. Van Diemen ist ja gleichfalls
@@ -803,7 +805,7 @@ auf sich?«
 
 »Hm — besinne Dich nur auf das, was Melprove über
 das Gespräch mit van Diemen hier auf der Veranda, als sie
-über das Festessen redeten so bestimmt äußerte. Erinnerst
+über das Festessen redeten, so bestimmt äußerte. Erinnerst
 Du Dich? Er sagte doch, niemand könnte ihn und van Diemen
 belauscht haben! Und trotzdem fand er am nächsten Morgen
 in der Serviette den Zettel, aus dessen Inhalt hervorging,
@@ -853,7 +855,7 @@ den Füßen zueinander in einer Linie lagen.
 
 Aber — ich sah auch, wie der Unbekannte jetzt oben am
 Dachbalken mit den Händen eine Schnur losband — eine
-Schnur, an der unten eine gelb\-braune Schlange hing — genau
+Schnur, an der unten eine gelbbraune Schlange hing — genau
 so wie über Melproves Bett!
 
 Ich sah — die Laterne stand links von mir auf einem
@@ -911,7 +913,7 @@ Schlangenbeschwörer, die vor der Vorstellung ihre Schlangen
 auf diese Weise so gut wie unschädlich machen.
 
 Harst packte jetzt plötzlich zu, indem er gleichzeitig dem
-kleinen Reptil das Tuch hinhielt bekam die Schlange auch
+kleinen Reptil das Tuch hinhielt, bekam die Schlange auch
 dicht hinter dem Kopf in die Hand, hielt sie fest, richtete sich vollends
 auf und faßte nun mit der Linken in die Tasche.
 
@@ -962,7 +964,7 @@ Ich glaubte, Harst würde nun sofort uns freimachen.
 Aber er rührte sich nicht. Der Mann hatte die Laterne mitgenommen.
 Wir lagen also wieder im dunkeln.
 
-Kurz nach ½ 12 erschien unser Wächter ganz plötzlich abermals.
+Kurz nach ½12 erschien unser Wächter ganz plötzlich abermals.
 Harst stellte sich schlafend. Der Mann besichtigte unsere
 Fesseln und ging. Er mochte wohl gedacht haben, daß, wenn
 wir überhaupt an Flucht dachten, wir jetzt versucht haben
@@ -1020,21 +1022,21 @@ Harst mir erklärt hatte, nach van Diemens Gebäudeskizze die
 Bibliothek Melproves war.
 
 Der Himmel war klar. Der Mond stand so, daß der Giebel
-des Hauptgebäude uns im Schatten ließ. Links von uns
+des Hauptgebäudes uns im Schatten ließ. Links von uns
 begann der Park mit einer weiten Rasenfläche. Mitten darin
 erhob sich ein Marmorspringbrunnen.
 
 Wir wollten also gerade wieder nach vorn schleichen, als
 Harst mir zuraunte: »Achtung!«
 
-Ich hörte jetzt schnelle Schritte von rechts von der Hintertür
+Ich hörte jetzt schnelle Schritte von rechts, von der Hintertür
 des Bungalows her. Auch dort war tiefer Schatten, so
 <@pagebreak/>
 daß ich zunächst nur etwas Langes, Hellschimmerndes erkannte.
 
 Harst preßte meinen Arm.
 
-Dicht an uns vorbeischritt eine weiße Gestalt, ein Mensch,
+Dicht an uns vorbei schritt eine weiße Gestalt, ein Mensch,
 der sich völlig in weiße Tücher eingewickelt hatte. Nicht genug
 damit: dieser »Geist« hatte als Kopf einen richtigen —
 Totenschädel! — Als er aus dem Schatten in das Mondlicht
@@ -1046,7 +1048,7 @@ hinter einer Gebüschgruppe.
 Harst lachte leise in sich hinein.
 
 »Begreifst Du, mein Alter?« flüsterte er. »Dieses Gespenst
-sprichst für Melproves Schuldlosigkeit — trotz der Bemerkung
+spricht für Melproves Schuldlosigkeit — trotz der Bemerkung
 unseres Wächters!«
 
 Nun — ich begriff nichts! — Ich schwieg.
@@ -1061,7 +1063,7 @@ Da ging mir ein Licht auf.
 erklärte ich leise. »Die Diener trauen sich nachts nicht ins
 Freie, weil —«
 
-Das Gespenst erschien wieder Harst zog mich schnell hinter
+Das Gespenst erschien wieder. Harst zog mich schnell hinter
 einen Stapel Kisten, der ein paar Schritte weiter an der
 Wand des Wirtschaftsanbaus lehnte. — Zum Glück hatte
 Harst daran gedacht, daß der Geist bei dem alten Javanen vielleicht
@@ -1096,7 +1098,6 @@ das Licht aus und öffnete dann erst das Fenster. Wir
 stiegen ins Zimmer, blieben im dunkeln am Fenster stehen.
 
 »Wo kommen Sie her?« flüsterte Melprove keuchend.
-
 »Mein Gott — wie freue ich mich, daß ich Sie beide lebend vor
 mir habe! Ich bin ja jetzt völlig von Sinnen vor Angst und all
 den Gedanken.«
@@ -1128,7 +1129,7 @@ richten Sie an Schliepner von mir am Montag früh, ebenfalls
 heimlich, folgendes aus. Er soll eine Polizeibarkasse als harmlosen
 Kutter in aller Stille herausstaffieren, soll sechs Beamte
 mitnehmen und drei Seemeilen westlich von Ihrem Kurs
-gleichfalls auf die Djawa-Inseln zuhalten, aber so,
+gleichfalls auf die Karimon Djawa-Inseln zuhalten, aber so,
 daß der Kutter keinerlei Verdacht erregt. Alles hängt von
 Schliepners Geschicklichkeit ab. Seien Sie doch außer Sorge!
 <@pagebreak/>
@@ -1174,7 +1175,7 @@ mich auf die Dielen.
 »Wir können jetzt noch ein wenig plaudern, mein Alter,«
 meinte er. »Sie schläft nämlich. Wir sind sicher vor ihr.«
 
-Ich hatte mir jetzt doch schon so allerlei unschwer zusammengereimt
+Ich hatte mir jetzt doch schon so allerlei unschwer zusammengereimt,
 was unseren Fall anbetraf.
 
 »Sie — also die Mutter der Miß Backerley!« erklärte ich
@@ -1189,7 +1190,7 @@ bei der Melprove außerhalb jedes Verdachts steht.«
 
 »Und die Tochter, die Gesellschafterin, war die andere,
 <@pagebreak/>
-zweite Person die gestern nacht uns den Streich spielte?«
+zweite Person, die gestern nacht uns den Streich spielte?«
 fragte ich jetzt.
 
 »Ja. Man muß es annehmen, denn es waren beides
@@ -1388,7 +1389,7 @@ von Chinesen zumeist bewohnte Hafenvorstadt. Hier rückten
 wir näher auf, gingen aber einzeln mit 20 Schritt Abstand
 etwa. Jetzt passierten wir eine schmutzige, schmale Gasse, in der
 es noch recht lebhaft war. Es gab hier allerlei verrufene
-Schenken und Singspielhallen niedriger Sorte. Allerlei abgerissene
+Schenken und Singspielhallen niedrigster Sorte. Allerlei abgerissene
 Melodien drangen an unser Ohr, Gelächter, Gekreisch.
 Trunkene torkelten vorüber. Eine Schar amerikanischer
 Seeleute kam Arm in Arm daher, versperrte Harst den
@@ -1403,7 +1404,7 @@ Polizisten zu, kehrte sofort zu mir zurück. — »Wir
 haben Glück gehabt. Der Polizist kennt unseren Mann offenbar
 sehr gut. Er behauptet, es sei ein Kapitän Bill Hamilton,
 Besitzer eines Schoners, der seit Jahren hier in der Java-See
-durch Frachtfahrten sein Brot verdient. Ahnst Du etwas,
+durch Frachtfahrten sein Brot verdient. — Ahnst Du etwas,
 mein Alter!« fügte er triumphierend hinzu. »Dieser Bill
 Hamilton und —«
 
@@ -1417,11 +1418,11 @@ denn — wir riskieren’s!«
 
 Was wollte er nur? Was?! — Mit drei Sätzen war er
 hinter der Frau. Ich blieb dicht hinter ihm. Er drängte sich
-an die verschleierte heran, sagte auf englisch: »Guten Abend,
+an die Verschleierte heran, sagte auf englisch: »Guten Abend,
 Mistreß Backerley!«
 
 Das Weib prallte zurück. — »Kommen Sie mit!« befahl
-Harst kurz. »Gehorchen Sie! Das Spiel ist aus! — Schraut
+Harst kurz. »Gehorchen Sie! Das Spiel ist aus! — Schraut,
 hole den Polizisten.«
 
 <@pagebreak/>
@@ -1467,7 +1468,7 @@ wahrer Riese mit dunkelgebräuntem, faltigem, bartlosem Gesicht:
 Bill Hamilton!
 
 Harst ging auf den Tisch zu, sagte sehr laut auf englisch:
-»Die Herren gestatten, daß sich mich vorstelle. Ich bin der
+»Die Herren gestatten, daß ich mich vorstelle. Ich bin der
 deutsche Detektiv Harald Harst. Ich habe hier mit Master
 Hamilton eine kleine Rechnung glatt zu machen.«
 
@@ -1478,7 +1479,7 @@ Ihre Uhrkette dort ist wohl der Ersatz für die, deren einzelne
 <@pagebreak/>
 Glieder Sie Armand Melprove zugehen ließen?! Diese Uhrkettenglieder
 haben Sie verraten. Bill Hamilton, Sie sind der
-Pirat der den Budda-Tempel in Bandjermasin geplündert
+Pirat, der den Buddha-Tempel in Bandjermasin geplündert
 hat, — Sie sind der berüchtigte, vielgesuchte Pirat von Kap
 Kotaringia!«
 
@@ -1505,7 +1506,7 @@ Schliepner, wir beide und acht Beamte eilten dann zum
 nahen Hafen, wo Hamiltons Schoner lag. In einem Verschlage
 im Vorschiff fanden wir Melproves Töchter; fanden in der Kajüte
 die sportgeübte Gesellschaftsdame, die angebliche Jane
-Backerley, wie sich dann herausstellte Jane Hamilton, des Piraten
+Backerley, wie sich dann herausstellte: Jane Hamilton, des Piraten
 Tochter, während deren Mutter Hamiltons zweites
 Kind, die ältere Tochter Ellen war, die tatsächlich an einem
 bösen Gesichtsausschlag litt.
@@ -1516,7 +1517,7 @@ dieselben Leute waren, die schon vor zwei Jahren dem Piraten
 von Kotaringia gedient und mit ihm ungezählte Morde verübt
 hatten. Weiter aber wurde auch noch ermittelt, daß Ellen
 und Jane Hamilton bereits damals die Raubzüge ihres
-Vaters als Malaien verkleidet mitgemacht hatten und daß
+Vaters als Malaien verkleidet, mitgemacht hatten, und daß
 Harsts Annahme, Ellen hätte die bereitgehaltenen zwei Millionen
 Melprove stehlen sollen, richtig gewesen war.
 

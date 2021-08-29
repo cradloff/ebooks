@@ -1,10 +1,4 @@
 !!"	!!«
-fteden	stecken
-wiffen	wissen
-Veine	Meine
-Nüden	Rücken
-worten	worden
-Nachi	Nacht
 !"	!«
 !“	!«
 !”	!«
@@ -26,12 +20,6 @@ Nachi	Nacht
 [»	!«
 ]«	!«
 ]»	!«
-1«	!«
-1»	!«
-7«	?«
-7»	?«
-k«	?«
-k»	?«
 «…	»…
 —!"	—!«
 —"	—«
@@ -53,16 +41,15 @@ k»	?«
 ……	…
 €3	Es
 0h	Oh
+1«	!«
+1»	!«
 1ch	ich
-Sab	Satz
-Jhnen	Ihnen
-Bilte	Bitte
-mürde	würde
-Zinner	Zimmer
-plöplichen	plötzlichen
-Jhneu	Ihnen
+3a	Ja
 3eigt	Zeigt
+3m	Im
 5chraut	Schraut
+7«	?«
+7»	?«
 aanz	ganz
 Abemnals	Abermals
 Abendftunde	Abendstunde
@@ -133,6 +120,7 @@ alden	alten
 alfo	also
 Alfo	Also
 Alhairos	Albatros
+alien	alten
 Alien	Alten
 Alier	Aber
 alier	aller
@@ -435,6 +423,7 @@ biieb	blieb
 Biindel	Bündel
 Biische	Büsche
 Biischen	Büschen
+Bilte	Bitte
 binein	hinein
 binterlistige	hinterlistige
 biöher	bisher
@@ -526,6 +515,8 @@ Busett	Buffet
 Buveau	Bureau
 bvingen	bringen
 bwld	bald
+C3	Es
+C8	Es
 cady	Lady
 Casee	Cafee
 Cecjl	Cecil
@@ -854,6 +845,7 @@ drüdte	drückte
 dsann	dann
 dsas	das
 dsaß	daß
+ds	da
 dsem	dem
 dsen	den
 dser	der
@@ -1210,6 +1202,7 @@ ftand	stand
 ftark	stark
 ftecke	stecke
 ftecte	steckte
+fteden	stecken
 ftede	stecke
 ftedie	steckte
 ftedten	steckten
@@ -2204,6 +2197,7 @@ jft	ist
 Jh	Ich
 Jhm	Ihm
 Jhnen	Ihnen
+Jhneu	Ihnen
 Jhn	Ihn
 Jhre	Ihre
 Jhren	Ihren
@@ -2320,6 +2314,8 @@ Jusze	Fuße
 Juszfesseln	Fußfesseln
 Jweifel	Zweifel
 JZnder	Inder
+k«	?«
+k»	?«
 Kabinentiir	Kabinentür
 Kadine	Kabine
 Kagnak	Kognak
@@ -2475,6 +2471,7 @@ lenlren	lenken
 Lente	Leute
 Lesezinrmer	Lesezimmer
 leßten	letzten
+leßter	letzter
 lette	letzte
 levten	letzten
 levter	letzter
@@ -2775,6 +2772,7 @@ Mugen	Augen
 Münden	München
 Mundung	Mündung
 murde	wurde
+mürde	würde
 murinelte	murmelte
 mur	nur
 Musliulatur	Muskulatur
@@ -2793,6 +2791,7 @@ nächfte	nächste
 nächften	nächsten
 nachgedunlielte	nachgedunkelte
 nachgespiirt	nachgespürt
+Nachi	Nacht
 Nachl	Nacht
 nachnrittag	nachmittag
 nachs	nachts
@@ -2912,6 +2911,7 @@ nsach	nach
 nsun	nun
 ntergebracht	untergebracht
 ntir	mir
+Nüden	Rücken
 nuf	auf
 Nuhe	Ruhe
 num	nun
@@ -2923,6 +2923,7 @@ Oandzunge	Landzunge
 Oarbatty	Warbatty
 Obr	Ohr
 odez	oder
+Oel	Öl
 Oelsleck	Ölfleck
 oem	dem
 oen	den
@@ -3050,6 +3051,7 @@ Plav	Platz
 Play	Platz
 pliindern	plündern
 plöglich	plötzlich
+plöplichen	plötzlichen
 plöslich	plötzlich
 plötziich	plötzlich
 plövlich	plötzlich
@@ -3219,6 +3221,7 @@ ruwde	runde
 saate	sagte
 Säben	Sätzen
 sab	sah
+Sab	Satz
 Sachse	Sache
 Säclien	Säcken
 Sade	Sache
@@ -3257,6 +3260,7 @@ saszen	saßen
 saszest	saßest
 sasz	saß
 saszte	faßte
+Sate	Satze
 Saumetter	Sauwetter
 Säuser	Säufer
 saute	schaute
@@ -3725,6 +3729,7 @@ tvefflichste	trefflichste
 tvenn	wenn
 tverde	werde
 Tvesor	Tresor
+twoir	wir
 Uachdrucb	Nachdruck
 Uachdruck	Nachdruck
 Uachen	Nachen
@@ -3989,6 +3994,7 @@ veges	reges
 vegnen	regnen
 veich	reich
 veil	weil
+Veine	Meine
 veizte	reizte
 vem	dem
 ven	den
@@ -4189,6 +4195,7 @@ wiar	war
 wias	was
 wicht	nicht
 widerstrebemd	widerstrebend
+wiffen	wissen
 Wiinschen	Wünschen
 wiinschte	wünschte
 wiinscht	wünscht
@@ -4235,6 +4242,7 @@ wol	wohl
 Woniit	Womit
 Worb	Wort
 Woriiber	Worüber
+worten	worden
 Wortfiihrer	Wortführer
 wos	was
 wovan	woran
@@ -4298,6 +4306,7 @@ Zimmertiir	Zimmertür
 Zimwer	Zimmer
 zinder	Inder
 Zinmern	Zimmern
+Zinner	Zimmer
 Zinnner	Zimmer
 Zinnnier	Zimmer
 zinn	zum
