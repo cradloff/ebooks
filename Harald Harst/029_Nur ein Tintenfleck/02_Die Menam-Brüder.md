@@ -10,7 +10,7 @@ der Madame Sarah Pordepierre, bei der Harst und ich
 in Bangkok, der Hauptstadt des Königreichs Siam, Wohnung
 genommen hatten. Ringsum lagen andere Wohnschiffe
 verankert, dazu noch große Bambusflöße, auf denen
-sich lustige Häuschen erhoben, Kramläden und Werkstätten
+sich luftige Häuschen erhoben, Kramläden und Werkstätten
 der einheimischen und chinesischen Kaufleute und Handwerker.
 Ein seltsames Bild bietet der große Strom, auf dessen
 beiden Ufern Bangkok sich endlos weit hinzieht mit seinen
@@ -112,6 +112,7 @@ und eilte davon.
 
 Harsts Augenbrauen hatten sich einander genähert.
 Auf seiner Stirn bildeten sich die bekannten drei Falten.
+
 »Frechheit!« sagte er jetzt halblaut und reichte mir den
 <@pagebreak/>
 Brief. »Da — lies! Von Eugenie Malcapier — eine
@@ -143,7 +144,7 @@ den Raub, die acht Edelsteine, wieder abzujagen. Sie werden
 also wohl zunächst sich die Mühe machen, Einzelheiten
 über meine Person und meine Vergangenheit zu ermitteln.
 Ich will Ihnen dies erleichtern. Charles und ich wohnten
-hier in Bangkok als angebliche Ehepaar Trouville möbliert
+hier in Bangkok als angebliches Ehepaar Trouville möbliert
 in der Bahnhofstraße Nr. 16. Sie werden in unseren Zimmern
 jedoch nichts Wichtiges mehr finden, da wir ja entschlossen
 waren, heute gleich nach dem Diebstahl dies Land
@@ -151,7 +152,7 @@ für immer zu verlassen. Jetzt freilich liegen die Dinge anders.
 Doch davon später. — Charles und ich sind die einzigen
 Kinder des in Khorat (Stadt im inneren Siams) verstorbenen
 Kaufmann Malcapier. Mein Vater war früher Kapitän
-und Besitzer einer Brigg die hauptsächlich Schmuggel
+und Besitzer einer Brigg, die hauptsächlich Schmuggel
 im großen trieb. Ich habe eine abenteuerliche Jugend auf
 dieser Brigg verlebt, habe wohl auch das unruhige Blut meines
 Vaters geerbt, dessen Lebensziel es war, unermeßlich
@@ -171,8 +172,8 @@ Ich werde Sie bestrafen, weil Sie unsere Pläne halb durchkreuzt
 haben. Wären Sie nicht dazwischen getreten, würden
 Onkel Trimal, Charles und ich jetzt auf einer malaiischen
 Prau im Golf von Siam in voller Sicherheit schwimmen.
-Ich verfüge hier über Hilfskräfte von denen auch Charles
-nichts ahnt, der stets nur mein blindes Werkzeug war —
+Ich verfüge hier über Hilfskräfte, von denen auch Charles
+nichts ahnt, der stets nur mein blindes Werkzeug war — —
 stets! Denn dieser Streich gegen das P’hrabat-Kloster ist
 nur einer von vielen — vielen tadellos gelungenen! Schonung
 haben Sie von mir nicht zu erwarten. Immerhin würde
@@ -275,7 +276,7 @@ und fragte daher:
 »Nein — nichts!«
 
 »Und doch ist etwas verändert worden, als wir mit
-dem Rücken nach jener Tür hin standen.« flüsterte er, um
+dem Rücken nach jener Tür hin standen,« flüsterte er, um
 sofort in gewöhnlichem Tone hinzuzufügen:
 
 »Ich glaube, wir hätten uns den Gang hierher sparen
@@ -295,7 +296,7 @@ aus Draht hing mit Fächern für jeden Wochentag.
 Im untersten Fach steckte ein dickes Bündel Zeitungen.
 Harst nahm es heraus und legte es auf die Schreibtischplatte,
 begann darin zu blättern, faltete einige Nummern
-— es waren sämtlich Exemplare des Bangkok-Rekorder auseinander
+— es waren sämtlich Exemplare des Bangkok-Rekorder — auseinander
 und packte nachher das Bündel wieder zusammen.
 
 Ich fand nichts in dem Schreibtisch, nicht mal einen
@@ -377,7 +378,7 @@ Schubladen auf. Leer. — Dann die zweite. Leer.
 
 Nun die unterste — aber nur halb. Denn mit einem
 Satz war er nach rückwärts gesprungen, hatte mich gleichzeitig
-arm Arm gepackt und so heftig zurückgerissen, daß ich
+am Arm gepackt und so heftig zurückgerissen, daß ich
 beinahe der Länge nach hingeschlagen wäre.
 
 Trotzdem hatte ich noch genug gesehen: aus der halb geöffneten
@@ -556,7 +557,7 @@ sofort die Zimmer bei der Stanton. Und deshalb
 dürften sie gerade diese Nummern des Rekorder gesammelt
 haben, in denen sich in jeder einzelnen etwas über die Menam-Brüder
 findet. — Höre nun, was der Rekorder vom
-2\. Januar schreibt. Ich lasse aber alles Unwichtige weg.
+2\. Januar schreibt. Ich lasse aber alles Unwichtige weg.«
 
 <@pagebreak/>
 
@@ -601,6 +602,7 @@ auf den Teller, aß ein paar Happen und sagte:
 
 »So — das wären die Zeitungen. Nun zu dem Kalenderblock.
 Bitte — da ist er, lieber Alter. Schau ihn Dir an.«
+
 Ich sah sofort, daß es ein Abreißkalender des vorigen
 Jahres war, von dem nur die Blätter bis zum 3. Februar
 fehlten. Als ich die noch vorhandenen durch die Finger gleiten
@@ -673,7 +675,7 @@ Kampf mit dem Wurf der Antwort-Flasche in den Menam!
 Diese Antwort werde ich jetzt sofort niederschreiben. Sie
 wird so lauten, wie ich vorhin andeutete, aber noch mit dem
 Zusatz: »Ich weiß mehr als Sie ahnen, Mademoiselle Malcapier!«
-— Und ich weiß tatsächlich mehr, als auch Du ahnst,
+— Und ich weiß tatsächlich mehr, als — auch Du ahnst,
 mein Alter. Doch davon später. — Jetzt werde ich Dir meinen
 Schlachtplan entwerfen, der von uns so allerlei Vorbereitungen
 verlangt.«
@@ -712,7 +714,7 @@ Die Detektive, sämtlich vielseitig gebildete Leute, versprachen
 Harst, den Auftrag gewissenhaft auszuführen. Sie
 schienen sich die Sache sehr leicht vorzustellen. Harst warnte
 sie noch, ja recht vorsichtig zu sein, damit sie keinen Verdacht
-erregten. — Dann verließen die vier den Klub wieder und
+erregten. — Dann verließen die vier den Klub wieder. Und
 auch wir kehrten um halb zwölf nach dem schwimmenden
 Pensionat zurück.
 
@@ -759,7 +761,7 @@ angezündet.
 er und deutete auf den offenen Koffer. »Chinesen fallen hier
 nicht weiter auf. Von der Sorte gibt’s hier ja übergenug.«
 
-Wir hatten Übung im Verkleiden und zehn Minuten
+Wir hatten Übung im Verkleiden, und zehn Minuten
 drauf waren wir zwei schmierige, armselige Kulis in Leinenkitteln
 und Bastschuhen. — Harst löschte nun die Lampe aus,
 öffnete leise die Tür und huschte auf Deck, kam sehr bald
@@ -844,7 +846,7 @@ Nun — diese Nacht auf dem Menam hatte mich angenehm
 enttäuscht. Es war sehr friedlich hergegangen. Ich
 hatte mir diesen »Besuch« ganz anders vorgestellt.
 
-Als wir uns entkleideten, sagte Harst mit einem Male;
+Als wir uns entkleideten, sagte Harst mit einem Male:
 
 »Weißt Du auch, wo die Prau ankert, die wir beobachtet
 haben?«
@@ -860,14 +862,14 @@ wir an Deck saßen; es ist der Neuling, mit dessen Eindringen
 die Nachbarn so wenig einverstanden waren.«
 
 Sehr gern hätte ich jetzt noch mehr gefragt. Aber Harst
-schlüpfte unter die Decke und rief mir sein »Angenehme
+schlüpfte unter die Decke und rief mir ein »Angenehme
 Ruhe!« zu.
 
 Die Prau so dicht bei uns —! Wer hätte das gedacht!
 — Es war recht beschämend für mich, daß ich dies nicht selbst
 herausgefunden hatte.
 
-<h2>4. Kapitel</h2>
+<h2>4. Kapitel.</h2>
 
 <h3>Der Detektiv Kong-Penj.</h3>
 
@@ -907,7 +909,7 @@ eins der scheußlichen Reptilhäupter.
 
 Ich erhob mich, kleidete mich schnell an. Da sah ich
 auf dem Tisch vor dem Rohrsofa, gegen den Fuß der Petroleumlampe
-gestützt, einen Brief liegen — der Umschlag Büttenpapier
+gestützt, einen Brief liegen — der Umschlag — Büttenpapier
 — Harsts Adresse darauf. Und die Schrift —
 die der Malcapier, unserer Feindin!
 
@@ -932,7 +934,7 @@ geraten? — Es mußte jemand eingedrungen sein — gewiß!
 Wie aber?!
 
 Die Tür war von innen verschlossen; der Schlüssel steckte,
-die beiden Fenster besaßen außen zierlich geschwungene Eisengitter
+die beiden Fenster besaßen außen zierlich geschwungene Eisengitter,
 deren Stäbe recht eng standen. — Ich schlug den
 Vorhang des linken Fensters zurück, bemerkte sofort, daß
 zwei Stäbe fehlten. Ah — also auf die Weise! — Ich befühlte
@@ -945,13 +947,13 @@ gewesen! Die Menam-Brüder schienen über alle modernen
 technischen Hilfsmittel zu verfügen.
 
 Ich beugte mich durch das Loch im Gitter hinaus. Bis
-zum Wasserspiegel waren etwa sechs Meter. Ich sah nichts.
+zum Wasserspiegel waren’s etwa sechs Meter. Ich sah nichts.
 Der breite Strom, die Nachbarschiffe — überall nächtliche
 Ruhe.
 
-Dann sah ich wieder etwas Neues: ganz unten wo das
+Dann sah ich wieder etwas Neues: ganz unten, wo das
 Gitter an die Holzwand des Deckaufbaus angeschraubt war,
-hatte Harst jene lange dünne Hanfleine festgeknotet, die wir
+hatte Harst jene lange, dünne Hanfleine festgeknotet, die wir
 in unseren Koffern stets mit uns führten. Die Leine hatte
 in Abständen von einem halben Meter eingeknüpfte Holzgriffe
 zur Erleichterung des Kletterns.
@@ -998,7 +1000,7 @@ Leib auf. Ich hab’s heute zum ersten Male versucht.«
 »Du folgtest dem Halunken also bis zur Prau?« fragte
 ich, um ihn zu einer Antwort zu zwingen.
 
-»Prau?! Mein Alter, da bist Du auf falscher Fährte.
+»Prau?! — Mein Alter, da bist Du auf falscher Fährte.
 Die Prau ist ein sehr offizielles schwimmendes Haus, gehört
 nämlich der Polizei, wie ich festgestellt habe.«
 
@@ -1092,7 +1094,7 @@ Der Detektiv freute sich offenbar sehr, daß er dem berühmten
 Harald Harst einen so guten Rat gegeben. Er verabschiedete
 sich bald und wurde von Harst höflich bis zur
 Schiffstreppe begleitet. Als Harald dann wieder unsere Kabine
-betrat, lag um seinen Mund sein so deutlich verächtliches
+betrat, lag um seinen Mund ein so deutlich verächtliches
 Lächeln, daß ich erstaunt fragte: »Wem gilt denn diese
 Miene?!«
 
@@ -1160,7 +1162,7 @@ um ein Stück Papier bitten? — So, danke. — Ich
 schreibe Ihnen einige Verhaltungsmaßregeln auf. Sollten
 wir heute bis 1 Uhr mittags nicht wieder hier bei Ihnen
 uns gemeldet haben, so entfalten Sie diesen Zettel, den ich
-versiegeln werde, und handeln Sie genau so wie ich’s hier
+versiegeln werde, und handeln Sie genau so, wie ich’s hier
 niedergeschrieben habe — genau so! Nicht eine winzige
 Kleinigkeit darf anders gemacht werden! — Den Zettel verwahren
 Sie bis dahin gut und — schweigen darüber! — Auf
@@ -1184,7 +1186,7 @@ mein geöffnetes Federmesser stecken. Tu’ dasselbe
 bitte. Man kann nie wissen, was passiert. Dann setzen wir
 unsere weichen Reisemützen auf, verbergen darunter unsere
 Pistolen und ziehen die Mützen recht fest über den Kopf. Ich
-denke das wird genügen.«
+denke, das wird genügen.«
 
 Ich hätte gern gefragt, wohin wir uns jetzt begeben
 würden. Aber ich fürchtete Harsts gewohntes, vorwurfsvolles:
@@ -1278,7 +1280,7 @@ Sie lachte kurz auf, warf die Tür zu, schob einen Riegel vor
 
 Harst saß ein paar Sekunden regungslos.
 
-»Sie ist theatralisch aber klüger, als ich sie einschätzte,«
+»Sie ist theatralisch, aber klüger, als ich sie einschätzte,«
 flüsterte er dann. »Schnell — Rücken an Rücken, Schraut,
 daß ich Dir das Federmesser herausnehmen kann.«
 
@@ -1415,7 +1417,7 @@ Da warf der Siamese sich aufheulend vor Walker auf
 den Boden und winselte um Gnade. Walker versetzte ihm
 einen Fußtritt.
 
-»Hund — Du und die fünf anderen der Sektion Ihr seid
+»Hund — Du und die fünf anderen der Sektion — Ihr seid
 die Menam-Brüder! Gestehe!« brüllte er.
 
 »Ja — aber wir sind verführt worden!« wimmerte der
@@ -1432,7 +1434,7 @@ Flecke auf Deiner Hand und Deiner Wange bemerkte,
 da wird sie Dich gefragt haben, wie die Flecke entstanden sind.
 Und Du wirst geantwortet haben:
 
-»Ich weiß nicht. Seit der vergangenen Nacht habe ich sie!
+»Ich weiß nicht. Seit der vergangenen Nacht habe ich sie!«
 — Und — das warnte das Weib. Sie ist klug. Sie ahnte,
 daß ich Euch zeichnen wollte. Nun — ist sie geflüchtet, und
 Ihr werdet allein für alles büßen.«
@@ -1464,14 +1466,14 @@ zu verlassen und in einer Verkleidung wiederzukehren.
 Es muß doch irgend etwas hier vorhanden sein, daß die Malcapier
 an diese merkwürdige Stadt fesselt. Der Brief ist um
 6 Uhr nachmittags zur Eilbeförderung am Schalter abgegeben.
-Um 4 Uhr sind zwei Passagierdampfer ausgelaufen
+Um 4 Uhr sind zwei Passagierdampfer ausgelaufen,
 und um 5 ging der Schnellzug ins Innere Siams ab. Also
-hat unsere Feindin diese drei Gelegenheiten von hier fortzukommen,
+hat unsere Feindin diese drei Gelegenheiten, von hier fortzukommen,
 natürlich in tadelloser Maske, vorübergehen lassen.
 Sie ist noch hier und wird auch vorläufig noch hier
 bleiben. Hm — ob sie etwa darauf hofft, daß die Priester des
 P’hrabat das tun werden, was mir Kong-Penj vorschlug:
-eine Million für Rückgabe der Edelsteine zu bieten? Der
+eine Million für Rückgabe der Edelsteine zu bieten? — Der
 famose Detektiv und Menam-Bruder dürfte mir den Vorschlag
 auf Anraten der Malcapier gemacht haben, damit die
 Bande vielleicht die Million und mich dazu bekam. Dieses

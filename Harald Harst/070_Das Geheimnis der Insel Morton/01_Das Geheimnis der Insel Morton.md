@@ -11,7 +11,7 @@ heiligen Ganges-Strome; damals, als es uns zu beschäftigen
 begann, funkelten die Sterne am nächtlichen Himmel
 in wunderbarer Pracht; in dem Parke des Bungalow, wo
 wir als alleinige Herren Unterkunft gefunden, kreischten
-schlaftrunkene Affen in den Baumkronen, rauschten
+schlaftrunkene Affen in den Baumkronen, rauschten riesige
 Fächerpalmen und schluchzten und schmetterten indische
 Nachtigallen ihre schmelzenden Lieder.
 
@@ -28,7 +28,7 @@ erwidert:
 »Verbrecher — Morton in —«
 
 Dann war er verschieden — als Opfer einiger Leute
-jener weißen Motorjacht, — als Opfer einiger Leute
+jener weißen Motorjacht, — als Opfer einiger Leute,
 bei dem auch wir fast das Leben eingebüßt hätten. —
 
 Diese Andeutungen mögen dem Leser genügen. —
@@ -76,7 +76,7 @@ der Gartenpforte draußen. Der Motor verstummte.
 »Hm,« meinte Harald dann, »vielleicht ist es gar Lord
 Ralbrout. Wir wissen, daß der Gouverneur von Benares
 Sir Collingham dem jungen Ehepaar zu Ehren ein
-Abschiedsfest gegeben hat. Möglich daß Ralbrout einen der
+Abschiedsfest gegeben hat. Möglich, daß Ralbrout einen der
 Kraftwagen des Gouverneurs benutzt hat.«
 
 Er stand auf und trat ans Fenster.
@@ -167,7 +167,7 @@ Rechenschaft zu ziehen?« fragte er nun.
 »Ja, das wollte Harst,« erwiderte ich. — Ich hielt es
 für richtig, diese Absicht zuzugeben. Allerdings: daß unsere
 Detektivarbeit sich in erster Linie gegen den Lord selbst
-richten sollte, erwähnte ich nicht
+richten sollte, erwähnte ich nicht!
 
 »Eigentlich selbstverständlich, daß Mr. Harst diese
 Schurken aufs Korn nimmt!« nickte Ralbrout. »Hat er
@@ -181,7 +181,7 @@ Ralbrout bat noch um einen Kognak.
 
 »Wir hätten eigentlich dem Flüchtling gleichfalls nacheilen
 sollen,« meinte er dann. »Hoffentlich faßt Ihr
-Freund den Revolverschützen noch ab. Die Kugel ging
+Freund den Revolverschützen noch ab. Die Kugel ging mir
 dicht am Ohr vorüber.« — Er schaute nach dem Bücherschrank
 hin. »Die Scheibe ist —«
 
@@ -208,12 +208,13 @@ Er fragte dann alles Mögliche, fragte nach Dingen, die
 recht überflüssig erschienen. — Wir erfuhren so, daß der
 Star of London insgesamt fünfzehn Mann Besatzung gehabt
 hatte, daß der Lord vor drei Monaten England verlassen
-und kurz vorher Miß Helena Crosbary, eine Dollarprinzessin
+und kurz vorher Miß Helena Crosbary, eine Dollarprinzessin,
 geheiratet hatte. Die Jacht war zuerst in Südafrika
 gewesen, war dann nach Australien gefahren und nun
 den Ganges aufwärts bis Benares gekommen.
 
 Lord Ralbrout gab bereitwilligst über alles Auskunft.
+
 So verstrich eine Stunde. Es war jetzt draußen ganz
 hell geworden.
 
@@ -238,7 +239,7 @@ der Mann. »Bitte — es ist eine Kabeldepesche mit Rückantwort
 Harst riß das Telegramm hastig auf. Man merkte,
 daß die Depesche ihn beunruhigte.
 
-Er laß. — Seine Hand sank matt herab.
+Er las. — Seine Hand sank matt herab.
 
 »Von der alten Köchin meiner Mutter,« sagte er tonlos.
 »Meine Mutter ist schwer erkrankt —«
@@ -255,7 +256,7 @@ Trinkgeld und meinte zu Ralbrout:
 »Mylord, ich muß nach Hause. Sie werden das begreifen.
 Wenn unsere brave Köchin »schwer erkrankt« depeschiert,
 dann ist Gefahr vorhanden. So sehr ich auch
-bedauere, ihnen nicht —«
+bedauere, Ihnen nicht —«
 
 »Aber ich bitte Sie, Mr. Harst!« rief Ralbrout. »Meine
 aufrichtigste Teilnahme. Hoffentlich stellt sich die Krankheit
@@ -301,7 +302,7 @@ eingeweiht werden.«
 <h2>2. Kapitel.</h2>
 <h3>Auf dem Star of London.</h3>
 
-Als wir um ¾ 7 auf den Bahnsteig kamen, erwarten
+Als wir um ¾7 auf den Bahnsteig kamen, erwarten
 uns dort bereits Lord Ralbrout, Sir Collingham, der
 Gouverneur von Benares, und Freund Worbler.
 
@@ -334,11 +335,11 @@ neben uns.«
 »Ganz sicher! Angebliche Deserteure! Der eine kann
 der Revolverattentäter von der verflossenen Nacht sein.
 Das war auch so ein hagerer Kerl mit wahren Affenarmen.
-— Wir haben über dieses Attentat auf den Lord
+— Wir haben über dieses Attentat auf den Lord noch
 nicht gesprochen. Es war natürlich bestellte Arbeit. Der
 Lord wußte, daß jemand auf ihn schießen würde. Er
-sagte zu Dir nachher, die Kugel sei ihm am Ohr vorüber
-gegangen. Schwindel! Die Kugel muß mindestens
+sagte zu Dir nachher, die Kugel sei ihm am Ohr vorübergegangen.
+Schwindel! Die Kugel muß mindestens
 dreißig Zentimeter von seiner Brust entfernt vorbeigesaust
 sein. Das war leicht festzustellen. Er ließ auf sich schießen,
 damit wir nicht etwa annähmen, er stecke mit den Deserteuren
@@ -403,7 +404,7 @@ die gut gepflegte Straße nach Benares entlang.
 
 Mr. Smithson, der Autobesitzer, war ein tadelloser
 Chauffeur und so vertrauenswürdig, daß Harald ihn in
-unsere Absichten einweihte. — Bereits um ¾ 9 kam Benares
+unsere Absichten einweihte. — Bereits um ¾9 kam Benares
 wieder in Sicht. Wir hielten vor der Stadt an einer
 der zahlreichen, uralten Tempelruinen an und nahmen unseren
 Requisitenkoffer in die Ruine mit. Selten haben wir
@@ -417,7 +418,7 @@ Benares.
 
 Den beiden sah man die Matrosen auf den ersten Blick
 an. Ihre sanft blaurot strahlenden Nasen verrieten eine
-gewisse Vorliebe für Spirituosen. An ihren Ohrläppchen
+gewisse Vorliebe für Spirituosen. In ihren Ohrläppchen
 glänzten kleine goldene Ringe. Der größere von ihnen
 hatte eine hohe Schulter. Der kleinere hinkte etwas. —
 
@@ -494,7 +495,7 @@ Kammer gebracht, wo wir wohnen sollten.
 Auch diese Zuweisung einer besonderen Kammer bewies,
 daß wir hier an Bord zunächst noch nicht ganz für
 gleichberechtigt angesehen wurden. Denn die übrigen
-Leute hatten einen gemeinsamen Wohnraum. Es gab
+Leute hatten einen gemeinsamen Wohnraum. Es gab hier
 an Bord außer dem Kapitän noch einen Steuermann namens
 Salforglay, einen Maschinist namens Long und fünf
 Matrosen. — Im Matrosenlogis wäre für uns noch genügend
@@ -520,7 +521,7 @@ Wir hatten inzwischen mit den fünf Matrosen gemeinsam
 Mittag gegessen. — Seltsam: der Steuermann Salforglay
 war gleichzeitig Schiffskoch! Noch seltsamer: wir
 bekamen ein Diner von drei Gängen! — Am seltsamsten:
-der Lord und die Lady aßen genau dasselbe wie wir!
+der Lord und die Lady aßen genau dasselbe wie wir! —
 Harst hatte dies sofort ausspioniert.
 
 Wir beide mußten dann im Schiffsraum die Ballastsandsäcke
@@ -769,7 +770,7 @@ uns allein.
 Wir schlenderten an der Reling auf und ab. Nach einer
 Weile rief Challier:
 
-»He, Pratt, versteht ihr was vom Steuern? Werdet
+»He, Pratt, versteht Ihr was vom Steuern? Werdet
 Ihr die Fahrrinne halten können?«
 
 »Wenn’s weiter nichts ist!« grunzte Harst. »Soll ich
@@ -826,7 +827,7 @@ nacht also —«
 »Halt! — Du bist einer der Besatzung der —«
 
 »Ja, ja — Tom Farting, der Schiffsjunge. Morgen
-komme ich in ihre Kammer —«
+komme ich in Ihre Kammer —«
 
 Er eilte wieder davon. Er verschwand in der vordersten
 Luke, deren Deckel er hinter sich wieder niederfallen
@@ -868,7 +869,7 @@ durch den Mittelaufgang an Deck und unterhielt sich
 mit mir eine Weile.
 
 Der Morgen kam. Long war wieder im Maschinenraum
-verschwunden. Gegen ½ 6 tauchte Lord Ralbrout
+verschwunden. Gegen ½6 tauchte Lord Ralbrout
 auf. Ich wünschte ihm guten Morgen. Er schaute zur
 Brücke empor und beobachtete Harst, rief dann:
 
@@ -882,7 +883,7 @@ gebracht!«
 Am rechten Ufer tauchte wieder eine Stadt auf. Schlanke,
 weiße Minaretts und golden leuchtende Kuppeln hoben sich
 scharf gegen den klaren Morgenhimmel ab. — Ralbrout
-hatte eine Karte hervorgeholt, breitete sie auf dem
+hatte eine Karte hervorgeholt. Er breitete sie auf dem
 Klapptisch auf dem Achterdeck aus. Ich mußte sie festhalten,
 denn es wehte ein recht frischer Wind auf dem Flusse.
 
@@ -890,7 +891,7 @@ Es war eine Karte des Unterlaufes des Ganges. —
 »Es kann Damraon sein,« murmelte Ralbrout nachdenklich.
 
 In demselben Moment erschien die Lady neben uns.
-Ich mache einen unbeholfener Kratzfuß.  Sie nickte mir zu.
+Ich machte einen unbeholfenen Kratzfuß. Sie nickte mir zu.
 Ich sah sie nun bei Tageslicht aus nächster Nähe. Sie
 war wirklich schön wie ein Gemälde, hatte einen wunderbar
 <@pagebreak/>
@@ -907,15 +908,15 @@ postlagernd für Lord Ernest Ralbrout. Ihr trefft die Jacht
 dann östlich der Stadt. Wir werden dort auf Euch
 warten.« —
 
-Um ¼ 8 waren wir auf dem Postamt in Damraon.
+Um ¼8 waren wir auf dem Postamt in Damraon.
 Harald ließ sich bei dem Postvorsteher melden, der im selben
 Gebäude wohnte. Der Herr war ein Engländer.
 Harst zog ihn vollständig ins Vertrauen und telephonierte
 dann an die Filiale der Bank von England nach Benares.
 Da in Indien die Geschäfte stets schon um 7 Uhr geöffnet
 werden, konnte er den Bankdirektor sprechen und erhielt die
-Auskunft, daß Lord Ralbrout von der Bank 30 000 Pfund
-Sterling abgehoben hatte. Das waren 600 000 Mark.
+Auskunft, daß Lord Ralbrout von der Bank 30&nbsp;000 Pfund
+Sterling abgehoben hatte. Das waren 600&nbsp;000 Mark.
 Harsts Vermutung stimmte also: der echte Lord hatte in
 Benares unbeschränkten Kredit gehabt, und der falsche Ralbrout
 hatte dies nach Kräften ausgenutzt. —
@@ -1054,7 +1055,7 @@ sofort wieder von Bord, nachdem sie die Schiffspapiere
 flüchtig eingesehen hatten.
 
 Gegen elf Uhr beenden Harst und ich unsere Wache.
-Auf der Brücke befand sich nur noch der Matrose Akupulos
+Auf der Brücke befand sich nur noch der Matrose Akupulos,
 der Grieche, der das Steuerruder bediente. — Um halb
 zwölf gewahrten wir beide gleichzeitig hinter der Jacht die
 Positionslaternen eines Fahrzeuges, das dem Star of
@@ -1150,7 +1151,7 @@ Da — die Stimme des Griechen von der Brücke —
 »Achtung — sie fliehen! Verrat! Hierher!«
 
 Der Regen hätte ein paar Minuten länger anhalten
-sollen. Ich hatte gerade die zweite Trosse weggeworfen,
+sollen. Ich hatte gerade die zweite Trosse losgeworfen,
 als Tobort von der obersten Stufe des Fallreeps auf mich
 feuerte. Die Kugel riß mir den Ölhut herunter.
 
@@ -1159,7 +1160,7 @@ Ich griff in die Tasche. Die Clement war entsichert.
 Ich drückte ab.
 
 »Knalle sie nieder!« brüllte Harst, der sich am Motor
-zu schaffen machte
+zu schaffen machte.
 
 Tobort war zurückgetaumelt.
 
@@ -1239,7 +1240,7 @@ Bord der Jacht blieb, obwohl uns dort jede Stunde der
 Tod drohte. Ich wollte mit nach der Morton-Insel. Ich
 bin überzeugt, daß die Piraten den Lord und seine Gattin
 <@pagebreak/>
-geschont haben. Ein Lord Ralbrout zahlt gern Ein immenses
+geschont haben. Ein Lord Ralbrout zahlt gern ein immenses
 Lösegeld. Solchen Fang schlachtet man nicht ab!«
 
 Ich nickte. »Das mag stimmen. — Wir werden also
@@ -1255,7 +1256,7 @@ Jetzt hatten wir Glück. Gegen Morgen klärte sich der
 Himmel auf. Es trat völlige Windstille ein. Wir lebten
 sehr behaglich an Bord. Es fehlte uns an nichts. Wir
 fanden in der Kajüte Papiere, die besagten, daß die Miranda
-dem Kaufmann Charles Bolbrinanx in Kalkutta
+dem Kaufmann Charles Bolbrinaux in Kalkutta
 gehörte. Wir entdeckten auch Zigarren und Zigaretten.
 Kurz: es ging uns prächtig. — Tom erholte sich in diesen
 zweieinhalb Tagen so gut, daß er die »Zuchthausfarbe«
@@ -1299,7 +1300,7 @@ Wir brauchten volle drei Stunden, bis wir endlich von
 Süden her dem Morton-Riff uns bis auf dreihundert Meter
 genähert hatten. Es war dies wahrlich nicht leicht gewesen.
 Wir hatten das Motorboot durch die Kanäle der
-kahlen Klippen hindurch schleppen müssen. Die Motoren
+kahlen Klippen hindurchschleppen müssen. Die Motoren
 durften wir nicht arbeiten lassen. Sie hätten uns verraten.
 So aber hofften wir, daß niemand uns bemerkt
 haben könnte — niemand von den Leuten, die auf dem
@@ -1341,17 +1342,17 @@ leise. Er schaute dabei gen Osten. »Der Tag naht. Und
 »Wir müssen einen Gewaltstreich wagen. Es müssen
 Leute hier sein. Ich werde rufen!«
 
-Er hob den Kopf nach oben, brüllte mit voller
+Er bog den Kopf nach oben, brüllte mit voller
 Lungenkraft:
 
 »Hallo! Hier zwei Neue vom Star of London! Meldet
-euch. Es droht Gefahr!«
+Euch. Es droht Gefahr!«
 
 Keine Antwort — nichts. Nur die Seevögel kreischten
 uns eine höhnische Erwiderung zu.
 
 Wir gingen nach der Nordseite. Dort war das Licht
-aufgeflammt: dort wiederholte Harst den Ruf — genau
+aufgeflammt; dort wiederholte Harst den Ruf — genau
 dieselben schlau berechneten Worte.
 
 Zweimal noch rief er hier.
@@ -1383,7 +1384,7 @@ Spalte erkannten.
 »Kommt herauf!« meinte er.
 
 »Ihr seid verrückt!« brüllte Harst scheinbar wütend.
-»Wir fahren ab, wenn ihr nicht sofort die Gefangenen hinablaßt!
+»Wir fahren ab, wenn Ihr nicht sofort die Gefangenen hinablaßt!
 Es ist höchste Zeit. Was sollen wir da oben!«
 
 Der Kerl, ein pockennarbiger rothaariger Schotte, kletterte
@@ -1427,7 +1428,7 @@ sich durch das Schwimmbad halb gelöst hatte.
 Der eine der vier legte schon auf uns an.
 
 Und ich — ich riß Harst lachend den falschen Bart völlig
-herunter, meinte recht frech und ruhig:
+herunter, meinte recht frech und rüdig:
 
 »Da — Das ist Peter Pratt, den die Polizei sucht! —
 Jungens, steckt die Knallbüchsen wieder ein! Einer, der
@@ -1520,9 +1521,9 @@ weiter südlich nichts mehr zu entdecken. Alle Häfen, alle
 Schiffe waren gewarnt worden. Die allgemeine Razzia auf
 den Star of London blieb ohne Erfolg. — In Kalkutta
 hatte der falsche Lord Ralbrout ebenfalls von der Bank
-35 000 Pfund Sterling abgehoben. Der echte Lord hatte
+35&nbsp;000 Pfund Sterling abgehoben. Der echte Lord hatte
 so den Verlust seiner Jacht und einer Summe von rund
-2 ¼ Millionen zu beklagen. —
+2¼ Millionen zu beklagen. —
 
 Die Fortsetzung dieses Abenteuers begann in Kalkutta.
 Wo und wie, wird der Leser sofort sehen.

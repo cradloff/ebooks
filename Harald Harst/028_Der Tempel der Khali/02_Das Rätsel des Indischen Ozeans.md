@@ -1,6 +1,6 @@
 <h1>Das Rätsel des Indischen Ozeans.</h1>
 
-Wer Indien bereist und sich die größte Moschee der Welt
+Wer Indien bereist und sich die größte Moschee der Welt,
 die Dschama Masdschid in Dehli, nicht ansieht, versäumt das
 Imposanteste, was es an orientalischen Baudenkmälern überhaupt
 gibt.
@@ -12,7 +12,7 @@ waren wir genau so hingerissen von der Wirkung dieser
 Mal. Wir standen jetzt und schauten zurück auf diesen großartigen
 Prachtbau, nahmen stumm Abschied davon, denn am
 anderen Morgen wollten wir weiter nach Norden, nach Nepal
-hinein, um uns den höchsten Berg der Welt, den Gaurisankar,
+hinein, um uns den höchsten Berg der Welt, den Gaurisankar<@refnote 1/>,
 aus nächster Nähe anzusehen.
 
 Die Freitreppe hinaus stürmte jetzt eine Schar von kleinen,
@@ -44,7 +44,7 @@ auseinander, indem er sich an die Sandsteinbrüstung der
 Treppe lehnte.
 
 »Aha — hier ist der Artikel schon!« meinte er dann. »Ich
-werde vorlesen.«
+werde vorlesen.
 
 > »Vor kaum einer Woche vergiftete sich, wie unseren Lesern
 noch erinnerlich sein wird, eine Europäerin, Mistreß
@@ -74,7 +74,7 @@ Anbeter der Blutgöttin Kali der irdischen Gerechtigkeit überliefert
 hat. Es wäre dankbar zu begrüßen, wenn Herr Harald
 Harst, der ja noch hier in Dehli weilt, sich dieser Sache
 annehmen wollte. Soweit uns bekannt, ist Lord Edward
-Wolpoore mit dem deutschen Meisterdetektiv befreundet und
+Wolpoore mit dem deutschen Meisterdetektiv befreundet. Und
 <@pagebreak/>
 gerade Seiner Lordschaft wird viel daran liegen, daß zunächst
 festgestellt wird, ob es sich hier wirklich um einen Mord handelt,
@@ -82,7 +82,7 @@ der auf das Konto der Thugs kommt. Sollte sich dies
 bestätigen, so müßte Seine Lordschaft nach wie vor sich auf
 jede nur mögliche Weise vor den Nachstellungen dieser wahnwitzigen
 Fanatiker zu schützen suchen, die ihm und allem,
-was Wolpoore heißt, den Tod geschworen haben.«
+was Wolpoore heißt, den Tod geschworen haben.««
 
 Harst faltete die Zeitung wieder zusammen und schaute
 mich ernst und nachdenklich an, sagte dann:
@@ -169,9 +169,9 @@ in Frage kommen. — Beeilen wir uns jetzt. Wir müssen
 pünktlich um 7 Uhr auf dem Bahnhof sein. Ich will jetzt sofort
 auch noch an Wolpoore depeschieren, daß wir morgen
 abend in Madras sind, daß er aber so tun soll, als käme ich
-nicht. Es ist sicherer, wenn wir dort wieder inkognito arbeiten.«
+*nicht*. Es ist sicherer, wenn wir dort wieder inkognito arbeiten.«
 
-Die Depesche an den Land ging eine halbe Stunde später
+Die Depesche an den Lord ging eine halbe Stunde später
 <@pagebreak/>
 ab. Harst hatte sie vorsichtigerweise selbst zum nahen Postamt
 gebracht. —
@@ -272,7 +272,7 @@ Rupien bezahlte — eine Summe, die für die verlangte Leistung
 viel zu hoch war.
 
 Wir verstauten unsere Koffer hinten im Wagenkasten,
-stapelten die Säcke anders auf, damit wir bequem sitzen
+schichteten die Säcke anders auf, damit wir bequem sitzen
 konnten, und dann ging’s hinauf auf die elende, aufgeweichte
 <@pagebreak/>
 Landstraße, die hier zumeist zwischen Indigofeldern hindurchführte.
@@ -329,7 +329,7 @@ halb das Bewußtsein verlor. Bevor ich mich noch zur
 <@pagebreak/>
 Wehr setzen konnte, rissen die beiden Halunken mich auf die
 Erde herab und banden mir die Arme auf dem Rücken zusammen.
-Der Hieb, mit dem Harst bedacht worden war, mußte
+— Der Hieb, mit dem Harst bedacht worden war, mußte
 wohl noch kräftiger gewesen sein, denn Harald kam erst wieder
 zu sich, als die Kerle uns schon in einen Keller der Ruine
 geschleppt hatten, wo sie uns nebeneinander an die Mauer
@@ -337,7 +337,7 @@ fesselten, so daß wir aufrecht mit seitwärts erhobenen Armen
 dastehen mußten.
 
 All das hatte sich so schnell abgespielt, daß ich mir über
-die Gefahr in der wir jetzt schwebten erst klar wurde, nachdem
+die Gefahr, in der wir jetzt schwebten, erst klar wurde, nachdem
 der Händler, der ja fraglos kein Händler war, uns höhnisch
 zugerufen hatte:
 
@@ -433,7 +433,7 @@ der rechte — und mit der rechten Hand konnte ich ja größere
 Kraft entwickeln — schien nicht so fest in der Mauerfuge zu
 sitzen.
 
-Ohne Rücksicht auf meine sehr bald stark schmerzte
+Ohne Rücksicht auf meine sehr bald stark schmerzende
 Hand arbeitete ich an dem Haken herum. Ich merkte, wie er
 sich immer mehr lockerte. Harst feuerte mich durch Zurufe an.
 
@@ -443,7 +443,7 @@ sich immer mehr lockerte. Harst feuerte mich durch Zurufe an.
 Endlich konnte ich den Haken herausziehen. Damit hatte
 ich mit dem rechten Arm volle Bewegungsfreiheit erlangt. Das
 weitere war ein Kinderspiel: ich holte mein Taschenmesser hervor,
-öffnete die große Klinge mit den Zähnen — ein paar
+öffnete die große Klinge mit den Zähnen, — ein paar
 Schnitte und — Harsts Taschenlampe blitzte auf. Er hielt
 sie in der Linken, in der Rechten aber die bewährte Waffe,
 die neunschüssige Repetierpistole.
@@ -512,13 +512,13 @@ Ich wurde aufmerksam. »Was behagt Dir nicht?« meinte
 ich gespannt.
 
 »Die Geschichte hat einen Haken!« erklärte er mit besonderer
-Betonung. »Eigentlich waren ja vier für jeden — vier
+Betonung. »Eigentlich waren’s ja vier für jeden — vier
 Haken in der Mauer! Einer genügt davon aber.«
 
 Ich zuckte die Achseln. »Zum Rätselraten habe ich heute
 weniger Lust denn je,« erwiderte ich.
 
-»Und doch würde ich’s Dir gerade heute empfehlen. —
+»Und doch würde ich’s Dir gerade heute empfehlen. — —
 Aber — da kommt ein Wagen die Straße entlang. Offenbar
 ein Gemüsehändler, der nach Madras will. Versuchen wir,
 ob er uns mitnimmt.«
@@ -610,7 +610,7 @@ verbracht hatten, die ich unter dem Titel »Die Siegellacktröpfchen«
 geschildert habe. — Harsts Rechnung stimmte:
 plötzlich kam ein elegantes Auto in schneller Fahrt daher und
 hielt vor dem stattlichen Hause. Wolpoore sprang eilig heraus.
-Er sah blaß und übernächtigt aus. Sein mißtrauischer Blick
+Er sah blaß und übernächtig aus. Sein mißtrauischer Blick
 ruhte ein paar Sekunden auf uns.
 
 Harst hatte dem Lord schon verstohlen ein Zeichen gegeben.
@@ -622,7 +622,7 @@ barsch nach unserem Begehr und sagte dann, wir sollten im
 Vorraum warten.
 
 Im Auto hatten auch noch Chester Blindley, der Chef der
-Sicherheitswache des Lords und ein Detektiv gesessen. Blindley
+Sicherheitswache des Lords, und ein Detektiv gesessen. Blindley
 holte uns fünf Minuten später durch den Garteneingang
 in das geräumige, luxuriös ausgestattete Privatkontor Wolpoores.
 — Ich will alles Nebensächliche weglassen und sofort
@@ -645,7 +645,7 @@ nach elf,« erzählte er weiter. »Bevor ich mich an meinen
 Schreibtisch setzte, ging ich einige Male auf und ab, da
 mir die Gedanken an Campells Ermordung keine Ruhe ließen.
 — Sie sehen nun dort links neben dem Fenster eine große, auf
-Leinwand ausgezogene Karte des Indischen Ozeans hängen,
+Leinwand aufgezogene Karte des Indischen Ozeans hängen,
 lieber Harst. Plötzlich fuhr ich zusammen. Meine Füße waren
 wie gelähmt. Mein Blick haftete stier auf der Karte. Zufällig
 nur hatte ich hingeschaut, hatte zunächst an eine Sinnestäuschung
@@ -659,7 +659,7 @@ Bezeichnung die Worte zu lesen:
 
 > Campells Schicksal wird das Deine sein!
 
-Diese Worte schimmerten silbernweiß und sahen etwa so
+Diese Worte schimmerten silbern-weiß und sahen etwa so
 aus, als hätte sie jemand mit einem Pinsel in Druckschrift
 hingemalt.
 
@@ -677,6 +677,7 @@ meine Blicke nicht losreißen von der Karte des Indischen
 Ozeans und von dieser furchtbaren Drohung, diesem unheimlichen
 Beweis, daß es Thugs waren, die Campell ermordet
 und sich jetzt sogar in diesen Raum eingeschlichen gehabt hatten.
+
 Mühsam nur gewann ich wieder die Herrschaft über meine
 Gedanken zurück. Ich wußte, daß Marbodly, der beste unserer
 Detektive, hier im Hause weilte. Ich ließ ihn rufen. Ich
@@ -717,7 +718,7 @@ Frage antwortete:
 
 »Nein,« erklärte der Lord. »Auch Blindley ist ja leider
 überzeugt, daß ich das Opfer einer Sinnestäuschung gewesen
-bin. Er läßt sich das nicht ausreden, obwohl es Unsinn ist!
+bin. Er läßt sich das nicht ausreden, obwohl es — Unsinn ist!
 Ich weiß, was ich gesehen habe. Die Worte waren so deutlich
 dort drüben auf der Karte zu lesen wie der Aufdruck in
 schwarz »Indischer Ozean«. Die Drohung war vorhanden,
@@ -725,7 +726,7 @@ bester Harst! Lassen Sie sich nicht durch Blindley etwa einreden,
 ich hätte etwas gesehen, was gar nicht da war!«
 
 Harst stand langsam auf und trat dicht an die Karte
-heran. Nach einer Weile fragte er dann ohne sich umzudrehen:
+heran. Nach einer Weile fragte er dann, ohne sich umzudrehen:
 
 »Haben Sie die Karte chemisch untersuchen lassen, Blindley?
 — Wenn hier mit einer besonderen Farbe, die bald wieder
@@ -762,8 +763,8 @@ gerade Dienst hatte. Sonst hat niemand hier unbemerkt
 hineingelangen können — niemand!«
 
 Harst murmelte jetzt irgend etwas vor sich hin, was wir
-nicht verstanden. Dann abermals ein paar gemurmelte Worte
-und jetzt glaubte ich, den Satz zu hören: »Ja — die Haken —
+nicht verstanden. Dann abermals ein paar gemurmelte Worte,
+und jetzt glaubte ich den Satz zu hören: »Ja — die Haken —
 die Haken —!«
 
 Was hatte er nur wieder mit den Haken?! Schon
@@ -805,7 +806,7 @@ tun.« — Das war wieder einmal so ganz eine Antwort a la
 Harst, — mystisch — dunkel, und doch fraglos sehr bedeutungsvoll.
 
 <@pagebreak/>
-»Mein lieber Alter. Du hast ja auch bemerkt,« sagte er
+»Mein lieber Alter, Du hast ja auch bemerkt,« sagte er
 nun leise, aber mit Nachdruck, »daß das Papier in breitem
 Strich gerade dort in Fältchen liegt, wo sich der Aufdruck
 »Indischer Ozean« befindet. Deshalb erklärtest Du auch:
@@ -883,7 +884,7 @@ und Harst schritt jetzt auf die Tür des Papiergeschäfts
 zu, trat ein und fragte das blonde, kräftige Mädchen hinter
 dem Ladentisch:
 
-»Miß Lydia Faringdall nicht wahr?«
+»Miß Lydia Faringdall, nicht wahr?«
 
 Ich war dicht hinter ihm geblieben. Ich sah, wie das
 Mädchen bei diesen höflichen Worten leicht zusammenzuckte.
@@ -902,7 +903,7 @@ lange versehe, bat uns, Platz zu nehmen und zeigte in ihrem
 ganzen Auftreten eine Sicherheit, die auf einen reifen, energischen
 Charakter schließen ließ. Sie trug ein dunkelgraues,
 schlichtes Kleid, sah trotzdem recht anziehend aus und hatte
-große klare Augen, in denen etwas wie schwermütiger Ernst
+große, klare Augen, in denen etwas wie schwermütiger Ernst
 lag.
 
 Nachdem wir uns gesetzt hatten, dankte sie Harst für seinen
@@ -931,7 +932,7 @@ dann:
 einst die Thugs fürchtet; ich kenne die Tragödie seines Lebens,
 diese seine ewige Angst vor der Rache der Mördersekte! Ich
 bin eine ehrliche Natur. Ich will nicht, daß er grundlos annimmt,
-es befanden sich noch Thugs in Freiheit. Robinson
+es befänden sich noch Thugs in Freiheit. Robinson
 Campell ist ihnen nicht zum Opfer gefallen.«
 
 Harst blickte das Mädchen freundlich an. »Miß Faringdall,
@@ -1059,7 +1060,7 @@ erdrosseln, der freiwillig aus dem Leben scheiden will.«
 die mir nicht zusagt. — Lassen wir das jetzt alles. Erst muß
 ich noch den Polizeidirektor sprechen.«
 
-Im Polizeigebäude gab es wieder allerlei Schwierigkeiten
+Im Polizeigebäude gab es wieder allerlei Schwierigkeiten,
 bevor Master Allan Tompsen die Gnade hatte, zwei Kulis in
 einer sehr wichtigen Angelegenheit selbst anzuhören.
 
@@ -1074,7 +1075,6 @@ annehmen.
 Seidentuch möchten Sie sehen, mit dem Campell erdrosselt
 wurde? Ich lasse es sofort bringen. — Auch den Stock, mit
 dem die Schlinge zugedreht worden war? Gut — auch den!«
-
 Er telephonierte sogleich nach der Kriminalabteilung hinüber.
 
 Dann fragte Harst ihn, ob der Polizeihund, der stets nur
@@ -1125,7 +1125,7 @@ Polizeidirektor sehr. — »Ich hoffte, Sie würden uns helfen,
 die Leute zu suchen, Master Harst,« meinte er zögernd. »Können
 Sie mir nicht einen Rat geben, wie —«
 
-Harst hatte ein Extrablatt des Madras Journal vom
+Harst hatte ein Extrablatt des Madras-Journal vom
 Tisch genommen und rief jetzt etwas unhöflich mitten in den
 Satz Tompsens hinein:
 
@@ -1138,7 +1138,7 @@ wobei sein Gesicht ebenfalls völlig verwandelt schien:
 »Vielleicht fällt die Entscheidung jetzt schon in der nächsten
 Nacht! Oder spätestens bis morgen mittag. Sie dürfte
 aber anders werden, als man nach dem bisherigen Tatsachenmaterial
-annehmen muß. Master Tompsen, ich bitte Sie nun
+annehmen muß. Master Tompsen, ich bitte Sie nun,
 <@pagebreak/>
 sofort den Polizeihund mit einem Beamten uns voraus nach
 dem Gehölz vor der Stadt zu schicken. — Auf Wiedersehen.«
@@ -1315,7 +1315,7 @@ wollen. Nein, für diese drei ineinandergreifenden Ereignisse
 müssen wir die Täter anderswo suchen.«
 
 Harst entstellte hier also das, was wir bereits als Tatsachenmaterial
-zur Verfügung hatten, vollständig und ließ
+zur Verfügung hatten, vollständig, und ließ
 besonders alles weg, was auf den Selbstmord Bezug hatte.
 Später, als »das Rätsel des Indischen Ozeans« uns nochmals
 beschäftigte, wurde mir klar, wie überaus fein gerade bei diesem
@@ -1357,7 +1357,7 @@ betont, er habe zu Harst volles Vertrauen und glaube jetzt
 selbst nicht mehr an Thugs.
 
 Wir verbrachten im Hotel eine ruhige Nacht. Als wir
-um ½ 10 vormittags im Speisesaal beim Frühstück saßen,
+um ½10 vormittags im Speisesaal beim Frühstück saßen,
 sagte Harst ganz unvermittelt: »Ich bin nur neugierig, in
 welcher Weise die Entscheidung sich anmelden wird. Große
 Ereignisse werfen ihre Schatten voraus. Wer weiß, welcher
@@ -1365,7 +1365,7 @@ Art diese Schatten —«
 
 Da kam schon der Hoteldirektor an unseren Tisch und
 sagte hastig: »Lord Wolpoore hat soeben aus dem Verwaltungsgebäude
-telephoniert. Master Harst möchten sofort dorthin
+telephoniert, Master Harst möchten sofort dorthin
 <@pagebreak/>
 eilen. Seine Lordschaft sind in großer Aufregung, weil
 die Inschrift sich abermals gezeigt hat.«
@@ -1385,7 +1385,7 @@ in dem Blau des Wassers die Worte deutlich zu lesen waren:
 kam ich hierher, sah die Inschrift, rief Blindley und seine
 Leute hierbei, und diese fanden dann dort hinter jenen Büchern
 auf dem Wandbrett eine Höllenmaschine mit einem Uhrwerk,
-das so eingestellt war, daß die Explosion um ½ 12 erfolgt wäre.
+das so eingestellt war, daß die Explosion um ½12 erfolgt wäre.
 — Harst, — es sind also doch wieder Thugs hinter mir her!
 Wer sollte auch sonst mir nach dem Leben trachten?!«
 
@@ -1439,7 +1439,6 @@ Arbeitsmangel! Unruhen im Eingeborenenviertel.
 
 Da — hatte ich das Motiv gefunden! Es heißt: Verhütung
 der drohenden Entlassung aus dem Dienste des Lords!
-
 — Sobald Wolpoore keine Thugs mehr zu fürchten brauchte,
 war ja seine Privatpolizei überflüssig. Er hatte ja auch schon
 in Dehli geäußert, er könne nun ohne seine Leibwache auskommen.

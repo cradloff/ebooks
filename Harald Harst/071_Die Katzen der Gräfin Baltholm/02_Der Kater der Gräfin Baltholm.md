@@ -8,7 +8,7 @@ Wir saßen auf dem Achterdeck der schlanken Motorbarkasse,
 an deren Heck die Polizeiflagge wehte.
 
 Wir waren unserer vier: der ernste Kriminalinspektor
-Löngard, der übernervöse, kleine Redakteur Jakoobsen,
+Löngaard, der übernervöse, kleine Redakteur Jakoobsen,
 Harst und ich.
 
 Die Polizeibarkasse kam von Homnäs, einem Dorfe
@@ -142,7 +142,7 @@ wir beide bisher nicht gedacht haben.«
 
 Da kam das Mädchen mit dem Lebensmittelkarton.
 
-Um ¼ 11 saßen wir in einem kleinen Motorboot und
+Um ¼11 saßen wir in einem kleinen Motorboot und
 fuhren zu Professor Söderbloom nach Sättra. Um elf Uhr
 landeten wir an der Nordwestseite des Inselchens, bezahlten
 den Motorbootsbesitzer und schritten dem Hause zu.
@@ -154,7 +154,7 @@ und enthielt nur Gartengeräte.
 Harald leise. »Zum Umkleiden genügt der Stall.«
 
 <@pagebreak/>
-Um ¾ 12 waren wir etwas abgerissene, bärtige Kerle,
+Um ¾12 waren wir etwas abgerissene, bärtige Kerle,
 denen niemand gern im Dunkeln begegnet wäre.
 
 Dann setzten wir mit des Professors Boot nach Gröndal
@@ -228,7 +228,7 @@ Regen und Wind schwiegen.
 Dann von oben etwas wie ein gurgelndes Ächzen.
 
 Ich eilte vorwärts — im Dunkeln, fand die erste
-Treppenstufe die zweite — die dritte.
+Treppenstufe, die zweite — die dritte.
 
 Und rannte gegen jemand an, der von oben kam.
 
@@ -266,7 +266,7 @@ zu stark zugedrückt hätte?!«
 »— Lassen Sie mich gefälligst zunächst aus dieser Babylage
 <@pagebreak/>
 auf meine ehrlichen Gehstelzen gleiten,« flüsterte Gunnar
-Jakoobsen. So. Danke! — Na, die Überraschung
+Jakoobsen. »So. Danke! — Na, die Überraschung
 wäre mir also geglückt. Ich ahnte, daß Sie nicht Kupferstiche
 sich ansehen wollten, sondern ganz was anderes und
 auch nicht am Tage. Kribbi, der Kater, hat sie hergelockt.
@@ -278,7 +278,7 @@ Wir drei standen dann in dem kleinen Salon. Harst
 leuchtete den Raum ab. Die dicken Damastvorhänge waren
 vorgezogen. Er schaltete daher die elektrische Krone ein.
 
-Wir blinzelten uns in der plötzlichem Helle mit zugekniffenen
+Wir blinzelten uns in der plötzlichen Helle mit zugekniffenen
 Augen an.
 
 »Weshalb ranntest Du so wild die Treppe hinab?«
@@ -438,7 +438,7 @@ Tür geöffnet hatte —«
 
 »Nur die drei scheußlichen Porzellanfiguren stehen hier.«
 
-»Dann kommen Sie Jakoobsen. Wir müssen feststellen,
+»Dann kommen Sie, Jakoobsen. Wir müssen feststellen,
 von wo das Blut an Kribbis Pfoten herrührt. Er muß
 doch offenbar in eine tüchtige Lache hineingetappt sein.«
 
@@ -458,7 +458,7 @@ zwischen den Fingern durch.
 In der Vorhalle lagen zwei Perser. Zwischen diesen
 und der linken Wand, also der Wand des Salons, war ein
 anderthalb Meter breiter Streifen frei. Auf diesem Parkettstreifen
-ließen ließen sich die Pfotenabdrücke bis dorthin verfolgen,
+ließen sich die Pfotenabdrücke bis dorthin verfolgen,
 wo rechts neben der Treppe der Mittelflur abbog.
 
 Daß der Kater in langen Sätzen hier dahingejagt war,
@@ -466,11 +466,11 @@ mußte selbst ein Laie an den Fährten erkennen.
 
 Nun schwenkten wir drei nach rechts in den Flur ab.
 Hier hörten die Spuren auf. Allerdings lag in der Mitte
-ein roter Plüschläufer, auf dem sich so schwache rötliche
+ein dunkelroter Plüschläufer, auf dem sich so schwache rötliche
 Fährten kaum abzeichnen konnten.
 
 Harald ging auf dem Läufer entlang. Der dünne Lichtstrahl
-tanzte vor uns auf diesen abgetretenen Läufer bis
+tanzte vor uns auf diesen abgetretenen Läufer, bis
 wir drei nach etwa acht Schritten ganz von selbst stehen
 blieben.
 
@@ -570,7 +570,7 @@ Harst beleuchtete jetzt die Wandtäfelung und deutete
 auf einen bogenförmigen Kratzer hin, der etwa in Brusthöhe
 sich befand und nach unten zu verlief.
 
-»Der Mann stolperte der Hast der Flucht über die
+»Der Mann stolperte in der Hast der Flucht über die
 eigenen Füße oder glitt auf dem Parkett aus,« sagte er sehr
 bestimmt. »Unwillkürlich suchte er mit der rechten Hand, die
 den Dolch hielt, irgendwo einen Halt, streifte so die Täfelung
@@ -602,7 +602,7 @@ entging, welches der Umsinkende doch fraglos hervorrief.«
 hinzu. »Aber der Schreck über die Verwundung, über das
 hervorspritzende Blut erzeugten bei ihm eine blitzartige
 Lähmung des Nervensystems. Er lag still und verblutete.
-Das er sich hier im Dunkeln zurechtfand, beweist seine Ortskenntnis.
+Daß er sich hier im Dunkeln zurechtfand, beweist seine Ortskenntnis.
 Ihm ist eben Schloß Gröndal nicht fremd gewesen.
 Und diese Tatsache wird es uns erleichtern, seine
 Persönlichkeit festzustellen, falls er nicht gerade Papiere bei
@@ -612,7 +612,7 @@ Der Inspektor durchsuchte die Taschen des Toten. Sie
 enthielten nur Kleinigkeiten, die nichts besagten. Aus dem
 Anzug war sogar das Firmenschildchen des Schneiders an
 der inneren Kragenseite und über der Schnalle der Beinkleider
-herausgetrennt worden. Und die Monogramme in
+herausgetrennt worden. Auch die Monogramme in
 der Wäsche waren herausgeschnitten.
 
 <h2>3. Kapitel.</h2>
@@ -807,7 +807,7 @@ Man zog den Strick fester an.
 Und — Harst schnellte empor. Harst hatte schon die
 Clement in der Hand.
 
-»Freundchen —Sie waren sehr dumm!« sagte er eisig.
+»Freundchen — Sie waren sehr dumm!« sagte er eisig.
 »Rühren Sie sich nicht!«
 
 Ich drehte mich um.
@@ -844,7 +844,7 @@ Fremden hinab, glitt wieder hoch.
 
 <@pagebreak/>
 »Ihre Schuhe und Ihr Anzug, Ihr Gesicht und die
-Mütze sind sind typisch englisch,« sagte er. »Am meisten interessiert
+Mütze sind typisch englisch,« sagte er. »Am meisten interessiert
 mich aber Ihre Gesichtshaut. Leute, die sich öfters schminken
 bekommen eine ganz besondere Art von Teint. Da Sie
 wohl kaum Schauspieler sein dürften, vermute ich hier etwas
@@ -977,7 +977,7 @@ tun zu haben, drückte mich in eine Ecke zwischen Schrank und
 Treppe und lauschte. Alles blieb still. Mir war’s jedoch so,
 als wäre jemand den Flur nach links hinabgehuscht. Dann
 blitzte ein Lichtschein auf, und ich bemerkte einen Menschen,
-der braune Segeltuchschuhe anhatte. Ich war abend um
+der braune Segeltuchschuhe anhatte. Ich war abends um
 neun noch bei Mr. Jakoobsen in der Redaktion gewesen.
 Wir kennen uns von London her. Und Jakoobsen hatte in
 seinem Büro ebenfalls braune Seglerschuhe an und trug
@@ -1036,7 +1036,7 @@ wies. Es schien wirklich, als hätte Olaf sich dorthin gewandt.
 Ich selbst fuhr hier nach Stockholm, um mich insgeheim
 an der Jagd nach den fünfen zu beteiligen. Ich
 hatte in London ein Bild Olaf Bränkyrs zu mir gesteckt.
-Kurz: Ich erkannte den Toten!«
+Kurz: ich erkannte den Toten!«
 
 »Mithin ist hier noch ein Mitglied der Fälscherbande
 in Stockholm in Freiheit,« meinte Harald nachdenklich.
@@ -1053,7 +1053,7 @@ denke, wir —«
 
 <h2>4. Kapitel.</h2>
 
-Wir drei fuhren erschrocken zusammen und Harsts
+Wir drei fuhren erschrocken zusammen, und Harsts
 »wir« blieb lediglich der Anfang eines Satzes.
 
 Kribbi war schuld daran: Kribbi, der mit elegantem
@@ -1084,7 +1084,7 @@ enges Loch im Boden und schicken Kater mit Zettel zurück,
 da hoffen, daß Zettel von Ihnen gefunden wird,
 Herr Harst.«
 
-»Eine große Unvorsichtigkeit!« rügte Harald diese
+Eine große Unvorsichtigkeit!« rügte Harald diese
 Dummheit der Beamten scharfen Tones und las weiter:
 
 > »Haben auf dem Fluß in verankertem Boot nördlich
@@ -1271,7 +1271,7 @@ einer Sekunde durch die Finger hindurch. Nein — ich
 bewegte mich völlig lautlos. Keine Diele, keine Tür knarrte,
 nichts verriet mich —«
 
-»Hm, wenn ich mir dessen nur sicher wäre, Jakoobsen! Dann
+»Hm, wenn ich dessen nur sicher wäre, Jakoobsen! Dann
 wäre das Unheil, das Sie angerichtet haben, noch nicht so
 groß. — Probieren wir’s! Verbergen Sie sich in der Vorhalle
 unter dem Sofa! Los doch! Verschwinden Sie! Und
@@ -1288,7 +1288,7 @@ Vertrauen habe!«
 
 <h2>5. Kapitel.</h2>
 
-Es war jetzt ½ 8 Uhr morgens, wie mir ein Blick auf
+Es war jetzt ½8 Uhr morgens, wie mir ein Blick auf
 meine Taschenuhr verriet. Seufzend fügte ich mich in das
 Unvermeidliche, setzte mich diesmal aber bequemer hin,
 streckte die Beine von mir und — war vor Übermüdung
@@ -1402,7 +1402,7 @@ suchen, mein Alter! Wir werden dort die Gräfin und
 Ersta finden — fraglos gefesselt! Bränkyr hat wie ein
 Schuft an ihnen gehandelt. Mir ist jetzt auch ein Gedanke
 gekommen, wer dieser Ersta ist. Nach Blubb sehen wir
-später. Er wird oben auf dem Boden schlafen.
+später. Er wird oben auf dem Boden schlafen.«
 
 Wir kehrten ins Schloß zurück, gingen sofort in das
 unbenutzte Schlafzimmer.
@@ -1411,8 +1411,8 @@ Harst kletterte auf das Schränkchen im Salon und hob
 den Deckel der Ventilationsklappe, hielt das Gesicht an das
 Mauerloch.
 
-»Mann spürt den Ylang-Ylangduft ganz deutlich,«
-meinte er. »Die Gräfin muß in der Nähe sein.«
+»Man spürt den Ylang-Ylangduft ganz deutlich,«
+meinte er. »Die Gräfin *muß* in der Nähe sein.«
 
 Dann brüllte er in die Röhre hinein, die zwischen den
 Deckenbalken weiterlief und fraglos so durch das Bibliothekszimmer
@@ -1457,13 +1457,13 @@ wachsender Ungeduld ab.
 
 Zehn Minuten waren verstrichen. Dann ein Geräusch, —
 dann sahen wir, wie die breite Türschwelle der Flurtür
-sich langsam senkte, nun links herunterklappte und so einen
+sich langsam senkte, nach links herunterklappte und so einen
 Schacht öffnete, aus dem jetzt Ersta — Ersta in Männerkleidern
 hervorkroch. Ihm folgte Kribbi; als letzte die
 Gräfin.
 
 Wir empfanden Mitleid mit dem armen Weibe, deren
-bleiches, verstörtes Gesicht Angst und tiefe Folterqualen
+bleiches, verstörtes Gesicht Angst und tiefe Seelenqualen
 verriet.
 
 Sie trat schnell auf Harald zu.

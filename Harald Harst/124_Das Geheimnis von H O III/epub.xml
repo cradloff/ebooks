@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">2bcf9f1e-fb90-11eb-a3c9-c731dab2c3fe</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis von H O III</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">124</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Geheimnis von H O III
+
+Gaspard schmunzelte.
+
+»Ich lüg’ immer nur gerade so viel, als unbedingt nötig ist, damit die Zuhörer nicht einschlafen, Mr. Harst … — Gewiß, ich hab’ viel durchgemacht … Wer vierzig Jahre auf Segelschiffen als Matrose gefahren ist, der muß was erleben oder — er ist ’n blindes Rindvieh!«
+
+Er hatte noch etwas hinzufügen wollen …
+
+Aber seine kleinen Schweinsäuglein schienen auf der Wasseroberfläche etwas entdeckt zu haben.
+
+Mit einem Male sprang er auf.
+
+Beugte sich über Bord.
+
+Drehte den Kopf …
+
+Rief: »Wenden — wenden, Mr. Harst! Bei allen Heiligen: Da war was dicht unter der Oberfläche verankert — ein Kasten — oder was ähnliches!«
+
+Die blonde Bestie
+
+Der Wind war jetzt abends wie zumeist völlig abgeflaut. Unser Kutter schaukelte träge auf den langen Wogen. Rundum nichts als Dunkelheit, jene zähe blaugraue Finsternis, die der Nachtbeleuchtung in den Tropen, dem Sternenschimmer, voranzugehen pflegt.
+
+Auch nicht ein einziges Licht eines anderen Fahrzeugs war sichtbar. Nur unsere Positionslaternen schickten ihre roten und grünen Strahlen mattglänzend in die Nacht hinaus …
+
+Plötzlich aber kam aus der Finsternis vor uns, aus dem dunklen Nichts, eine Reihe von Tönen, deren Eigenart uns ebenso sehr überraschte wie verwirrte …
+
+Töne waren’s, die an das Wimmern eines Kindes, das klägliche Schreien einer hungernden Katze oder das trunkene Gespräch eines verkommenen Weibes erinnerten. —
+
+»Was — was ist das …?« fragte unser abergläubischer Jan Maat entsetzt.
+
+Weder Harald noch ich antworteten.
+
+Wir lauschten nur …
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (124) Das Geheimnis von H O III.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">9123a11a-04de-11ec-b666-7b80cb70d08a</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Bouillonkeller Nr. 113</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">126</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Bouillonkeller Nr. 113
+
+An einem jener wenigen warmen Septembertage des Jahres 1923 fand sich abends gegen halb sieben in unserem gemeinsamen Heim in der Blücherstraße 10 in Schmargendorf ein ärmlich gekleideter, aber recht sympathisch aussehender junger Mensch ein, der uns folgendes in unverfälschtem Berliner Dialekt erzählte.
+
+Er hatte, um Pilze zu suchen, die Wälder westlich von Potsdam durchstreift und sich dabei verirrt. Während er eine hügelige ältere Schonung durchschritt, sah er an einem Baume inmitten einer kleinen Lichtung ein Fahrrad stehen, ohne den Besitzer in der Nähe zu bemerken. Während er sich noch das tadellos neue Rad anschaute, wurde er durch das Knacken eines brechenden trockenen Astes gewarnt und duckte sich hinter ein paar Brombeerstauden, die hier am Rande der Lichtung besonders üppig wucherten.
+
+Er gewahrte so einen zerlumpten Menschen und eine junge Dame in elegantem Radlerkostüm, die jetzt die Lichtung betraten und neben dem Rade stehen blieben.
+
+Der Strolch, ein älterer, bärtiger Kerl, behandelte die Dame mit großer Hochachtung.
+
+Der Tempel von Drigalkor
+
+Wir drei sicher wieder am Tisch — Emil und wir beide.
+
+»Hab ich’s doch gleich gemerkt, daß Sie was Besonderes sind,« sagt Krawuschki grinsend. »So, und nun fragen Sie, Herr Harst!«
+
+»Woher kennen Sie Jack Barissa?«
+
+»Von früher her — von vor zehn Jahren … — Eins möchte ich gleich richtigstellen, Herr Harst: der Jack hat hier in Berlin nichts berissen, gar nichts. Da täuscht sich die Polizei. Er kam lediglich auf eine Depesche Amelys von Neuyork nach England, denn Amelys Vater und er waren die dicksten Freunde. — Als er die Lady in London glücklich befreit hatte, flüchteten die beiden hierher, und ich wies ihnen die Erdhöhle als Versteck an. Dort hat schon mancher gehaust, der für ein paar Wochen völlig unsichtbar werden wollte …«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (126) Der Bouillonkeller Nr. 113.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

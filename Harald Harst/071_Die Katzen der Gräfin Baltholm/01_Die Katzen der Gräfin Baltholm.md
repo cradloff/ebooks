@@ -27,7 +27,7 @@ wiedergegeben. —
 > Sehr geehrter Herr Harst!
 
 Sie gestatten, daß ich Ihnen Mitteilung von einer
-Reihe von Geschehnissen mache, deren Gesamtheit mir völlich
+Reihe von Geschehnissen mache, deren Gesamtheit mir völlig
 unerklärlich ist, trotzdem aber bei mir von Tag zu Tag
 mehr den Eindruck verstärkt, daß es sich hier um Dinge
 handelt, die im Interesse der Allgemeinheit durch einen
@@ -65,7 +65,7 @@ aus Kalifornien, ist meine Inselnachbarin. Südlich von
 meinem Felseneiland Sättra liegt die etwas größere Insel
 Gröndal, auf der sich ein sehr altes, kleines Schloß erhebt,
 seit Jahrhunderten Eigentum der Grafen Baltholm,
-deren letzter Sproß, eben der Gatte der Amerikanerin bei
+deren letzter Sproß, eben der Gatte der Amerikanerin, bei
 einem Autorennen in England vor drei Jahren den
 Tod fand.
 
@@ -94,7 +94,7 @@ gegen die eisigen Winterstürme geschützt.
 
 Von den Fenstern meines Schlafzimmers kann ich die
 Insel der Gräfin, abgesehen von der Vorderfront des
-Schlosses bequem übersehen, da sie nur wenig Baumwuchs
+Schlosses, bequem übersehen, da sie nur wenig Baumwuchs
 hat. — Bald nach unserem Einzug machte Gunvor mich
 darauf aufmerksam, daß sich »drüben«, also auf Gröndal,
 sehr viel Katzen umhertrieben. Die Tiere wurden, wie ich
@@ -137,7 +137,7 @@ Und abermals erschlug er eine ganze Menge.
 
 Ich blieb, obwohl es bereits ein Uhr morgens geworden,
 am Fenster sitzen und richtete nun mein Glas auf die
-vier noch, erleuchteten Erdgeschoßfenster des Schlosses. Diese
+vier noch erleuchteten Erdgeschoßfenster des Schlosses. Diese
 Fenster gehörten zu zwei Zimmern, in denen Bränkyr und
 das eine Hausmädchen untergebracht sind. Dieses Hausmädchen,
 Ersta mit Namen, hatte die Fenster weit geöffnet
@@ -211,10 +211,10 @@ Ich gab Gunvor recht. —
 
 Unterm 8. März habe ich dann folgendes notiert:
 
-> ½ 12 nachts. — Ersta hat sich wieder rasiert, und
+> ½12 nachts. — Ersta hat sich wieder rasiert, und
 Bränkyr erschlug vierzehn Katzen.
 
-Unterm 14.
+Unterm 14. März:
 
 > Bränkyr und Ersta waren abends mit dem Motorboot
 in der Stadt und brachten einen Reisekorb mit, den
@@ -262,7 +262,7 @@ verhalten. —
 Daß dieser Brief geschrieben wurde, Herr Harst, ist
 hauptsächlich Gunvors Werk. Sie hat den Mann nicht
 vergessen, auf den Bränkyr feuerte; sie hat mich Tag für
-Tag gebeten, ihnen alles mitzuteilen, denn Sie würden
+Tag gebeten, Ihnen alles mitzuteilen, denn Sie würden
 von uns kein Honorar verlangen. — Ich schicke den Brief
 an Ihre Berliner Adresse, obwohl Sie ja in Indien weilen
 sollen. Er wird Sie hoffentlich erreichen.
@@ -347,7 +347,7 @@ den dunklen Fluten des Mälar-Flusses wider, und das
 Wasser erschien wie punktiert vom Widerschein des ausgestirnten
 Firmaments.
 
-»Unangenehm hell!« meinte Harald leise. »Diese unendlichen
+»Unangenehm hell!« meinte Harald leise. »Diese nordischen
 Sommernächte können Leuten wie uns verhängnisvoll
 werden. — Ah — drüben auf Gröndal verläßt
 jemand das Schloß. Es muß der fragwürdige Herr Bränkyr
@@ -357,7 +357,7 @@ trägt ja Weiberröcke —«
 »Ersta, das Hausmädchen?«
 
 »Wer sonst?! — Es ist der kleine Kastellan. Er
-kommt zum Ufer hinab. Bück’ Dich mehr zusammen, mein
+kommt zum Ufer hinab. Duck’ Dich mehr zusammen, mein
 Alter. Es ist nicht grade nötig, daß wir bemerkt werden.
 — Da, jetzt steht er und schaut sich des Professors Blockhaus
 an. Der Mensch steht wie eine Bildsäule. Was es
@@ -548,7 +548,7 @@ Jetzt knarrte draußen eine Treppenstufe — jetzt eine
 Diele dicht vor uns.
 
 Der Fremde hatte den oberen Flur erreicht. Harald
-drückte die Tür auf. Millimeter für Millimeter.
+drückte die Tür auf, Millimeter für Millimeter.
 
 Wir streckten die Köpfe vor, erblickten den Mann,
 <@pagebreak/>
@@ -627,7 +627,7 @@ wird man nicht verschwinden lassen wie —«
 »— den Katzendieb am achten April,« ergänzte Harst.
 
 »Sie räumen also ein, ihn beseitigt zu haben!« rief
-Fremde. »Dies Geständnis genügt! — Er legte die
+Fremde. »Dies Geständnis genügt!« — Er legte die
 Taschenlampe so auf den Tisch, daß der Lichtkegel unsere
 Hände traf, zog mit der Linken zwei Paar Stahlfesseln aus
 der Außentasche seiner Sportjacke und klappte das eine
@@ -828,7 +828,7 @@ dann?« fragte er gespannt.
 »Ja — dann, Herr Harst, — dann geschah das völlig
 Unbegreifliche: am selben Tage nachmittags traf ein Brief
 Hans Bertges bei seiner Braut in Hamburg ein, einem
-Fräulein Elke Schütte, dem einzigen Kinde eines schwerreichen
+Fräulein Else Schütte, dem einzigen Kinde eines schwerreichen
 Schlächtermeisters. Hans schrieb ihr, daß er die
 Verlobung hiermit löse, da er in Schweden sich in ein anderes
 Mädchen verliebt hätte und auch nie mehr nach Hamburg
@@ -837,7 +837,7 @@ diesen Brief sofort. Sie ist ein sehr verständiges Mädchen.
 Sie sagte mir, sie glaube nie und nimmermehr, daß wirklich
 Hans diesen Brief geschrieben hätte. Der Brief sei
 eine Fälschung, Ihr Vater wünsche, daß ich die Sache aufkläre.
-Er würde mir 10 000 Mark dafür zahlen. Ich solle
+Er würde mir 10&nbsp;000 Mark dafür zahlen. Ich solle
 keine Kosten scheuen. — Ich untersuchte den Brief. Die
 Handschrift war die Bertges, aber sie erschien mir doch verändert,
 nicht so recht flüssig. Jedenfalls lag meines Erachtens
@@ -860,15 +860,15 @@ Günther bat sich für seine ausgegangene Zigarette
 Feuer aus und fuhr dann fort:
 
 »Wir haben heute den 24. Juli. — Bis zum 20. Juli
-ruhte die Sache Bertge vollständig. Aber Elke Schütte
+ruhte die Sache Bertge vollständig. Aber Else Schütte
 konnte ihren Hans nicht vergessen, wollte, nachdem die
 erste Empörung vorüber und ihre Gedanken wieder ruhiger,
 durch mich feststellen lassen, in wessen Netze ihr Hans dort
 in Stockholm geraten sei. Am 20. Juli kam sie dieserhalb
 zu mir. Ein merkwürdiger Zufall war’s, daß da gerade
-ein Paket aus Stockholm bei uns anlangte, in dem mir
+ein Paket aus Stockholm bei mir anlangte, in dem mir
 der Stockholmer Privatdetektiv Roobsal, mit dem ich in
-Geschäftsverbindungen stehe und der auch Hans Bertge sehr gut
+Geschäftsverbindung stehe und der auch Hans Bertge sehr gut
 kannte, Bertges weichen Filzhut schickte, den dieser auf der
 Reise nach Stockholm getragen hatte und in dessen Schweißleder
 der Name »Hans Bertge, Hamburg« eingelocht war.
@@ -884,7 +884,7 @@ aber war, daß er zwei Löcher im Hutkopf hatte, die
 nur von einer Kugel, einem Schuß, herrühren konnten. —
 Ich will mich kürzer fassen, Herr Harst. Schlächtermeister
 Schütte zahlte mir 5000 Mark Vorschuß und versprach mir
-weitere 20 000 Mark, wenn ich heraus bekäme, wer Bertge beseitigt
+weitere 20&nbsp;000 Mark, wenn ich herausbekäme, wer Bertge beseitigt
 hätte, denn daß Bertge umgebracht sei, davon war
 er nun überzeugt. — Daraufhin fuhren Gabert und ich am
 22\. 7. nach Stockholm. Wir trafen am 23. abends ein und
@@ -914,16 +914,16 @@ kann doch nicht sein! Bränkyr soll —«
 
 »— Bränkyr hat es getan,« vollendete Harald. »Hören
 Sie mal zu, Kollege Günther. Sie werden staunen, wer
-uns nach Stockholm gerufen hat und was wir über die
+*uns* nach Stockholm gerufen hat und was wir über die
 Katzen der Gräfin Baltholm wissen.« — Er berichtete alles
 Nötige in seiner kurzen, übersichtlichen Art und sagte zum
 Schluß:
 
 »Herr Günther, daß die Belohnung von einem Herrn
 Schütte ausgesetzt war, die Sie gern allein verdienen wollten,
-konnte ich also nicht wissen. Nein ich glaubte, diese
+konnte ich also nicht wissen. Nein, ich glaubte, diese
 Belohnung hätten Ihnen ganz andere Leute versprochen
-— ganz andere. — Keine Leute, um es genauer auszudrücken,
+— ganz andere, — Keine Leute, um es genauer auszudrücken,
 sondern — eine Art Behörde, die Vertreter einer
 großen Gemeinschaft —«
 
@@ -951,13 +951,13 @@ unwahres Wort. Beweis: seine tote, ermordete Schwester
 <@pagebreak/>
 im Flur der ersten Etage und das, was Schraut und ich
 heute hier beobachteten, nämlich die Szene zwischen der
-Gräfin und Bränkyr. Ich behaupte Bränkyr ist der Mörder
+Gräfin und Bränkyr. Ich behaupte, Bränkyr ist der Mörder
 Gunvor Söderblooms! — Vielleicht finden wir auch
 den Professor hier ermordet auf. Die Geschwister lebten
 ganz zurückgezogen, hielten keine Dienstboten. Deshalb ist
 noch niemandem etwas von diesen Untaten hier bekannt
 geworden, zumal die Inselbewohner Stockholms sich ihre
-Zeitungen und Postsachen selbst einholen. Ich schätze, daß
+Zeitungen und Postsachen selbst abholen. Ich schätze, daß
 die Leiche Gunvor Söderblooms etwa zehn Tage bereits
 dort im Flur liegt. Mag sie noch einen Tag länger unberührt
 bleiben. Wir drei sind jetzt Herren dieses Hauses,
@@ -1003,7 +1003,7 @@ die in den Flur mündete und unserem Versteck
 schräg gegenüber lag, leise geöffnet wurde.
 
 Ein Mann mit leicht ergrautem Vollbart, klein, hager
-und sonngebräunt wurde sichtbar, blickte erst vorsichtig in
+und sonngebräunt, wurde sichtbar, blickte erst vorsichtig in
 das Laboratorium hinein und winkte dann nach rückwärts
 mit der rechten Hand, die einen Revolver umspannt hielt.
 
@@ -1050,7 +1050,7 @@ müssen ihn so hinüberschaffen, daß sie es nicht sieht,
 Bränkyr.«
 
 <@pagebreak/>
-Der Schloßvertwalter nickte. »Wird befolgt! — Die
+Der Schloßverwalter nickte. »Wird befolgt! — Die
 Geschichte hier hat ja nun ohnedies ein Ende. Der Boden
 wird uns zu heiß. Vielleicht hat dieser Günther dritten
 Leuten von seinem Argwohn etwas mitgeteilt. Jedenfalls:
@@ -1061,7 +1061,7 @@ Schloß und die Insel wert sind.«
 Er richtete sich wieder auf. Sie waren mit der Fesselung
 Gaberts fertig.
 
-»Wär’s dann nicht am besten, ihn hier liegen zu lassen.«
+»Wär’s dann nicht am besten, ihn hier liegen zu lassen,«
 meinte Ersta. »Man wird ihn ja bald finden, falls —«
 
 »Nein. Er könnte zu früh entdeckt werden. Ein Zufall
@@ -1069,7 +1069,7 @@ kann jemand schon heute nach der Insel führen. Dann
 beginnt die Polizei zu arbeiten, faßt uns vielleicht noch im
 letzten Moment ab!«
 
-Ersta seufzte vornehmlich. »Wenn Sie nur das nicht
+Ersta seufzte vernehmlich. »Wenn Sie nur das nicht
 getan hätten, Bränkyr! Nur das nicht!«
 
 Bränkyr lachte brutal auf. »Oh — das Weib war
@@ -1169,7 +1169,7 @@ Gröndal in jener Nacht, anstatt hier auf Sättra und geriet
 mit Bränkyr zusammen, der auf ihn schoß und ihn verwundet
 haben mag. — Sie zwangen ihn dann, den Brief
 und die Karte zu schreiben, damit sein Chef Günther nicht
-weiter nach ihm forschte. Seine Schrift war, infolge der
+weiter nach ihm forschte. Seine Schrift war infolge der
 Verwundung und der ganzen Umstände nicht so flüssig wie
 gewöhnlich. Aber Bertges Hut hatten Sie vergessen, den
 in den Fluß gefallenen Hut, und der wurde zum Verräter.
@@ -1179,7 +1179,7 @@ Sie, Bränkyr, damals im Fluß versenkten, wird Bertges
 Reisetasche gewesen sein, die er mitgenommen hatte, vielleicht,
 weil es ihm im Hause des Hofkürschnermeisters nicht
 behagte. — So, das wäre Hans Bertge. Haben Sie hier
-etwas zu bemerken?«
+zu etwas zu bemerken?«
 
 Bränkyr schwieg trotzig. Ersta nickte schwach, worauf
 der Kastellan ihn anfuhr: »Seien Sie vorsichtig!«
@@ -1188,7 +1188,7 @@ Harst blickte den Kastellan fest an. »Hier nützt alle Vorsicht
 nichts mehr! Das werden Sie bald einsehen. Ich weiß
 alles!«
 
-»So?!« grinste, Bränkyr. »Da bin ich neugierig!«
+»So?!« grinste Bränkyr. »Da bin ich neugierig!«
 
 »Und ich bin Harald Harst. Vielleicht ist Ihnen der
 Name bekannt —«
@@ -1196,7 +1196,7 @@ Name bekannt —«
 Bränkyr war deutlich zusammengezuckt. Ersta hatte die
 Augen wieder geschlossen.
 
-»Nun zu den Söderblooms.« fuhr Harald fort. »Der
+»Nun zu den Söderblooms,« fuhr Harald fort. »Der
 Professor hat am 5. Mai, also etwa vier Wochen nach dem
 Vorfall »Bertge« an mich geschrieben und mir seine
 Beobachtungen mitgeteilt, so auch die Tatsache, daß Sie,
@@ -1263,7 +1263,7 @@ und Schloß zusammen.«
 »Sie haben also drüben Katzenfelle bereit liegen zum
 Versand?«
 
-»Nein —« Blanker hüstelte. »Nein. Ich wollte jetzt
+»Nein —« Bränkyr hüstelte. »Nein. Ich wollte jetzt
 morgens vierzehn Katzen töten, abziehen und die Felle ungegerbt
 wegschicken.«
 
@@ -1300,8 +1300,8 @@ Da hatte Harst nach kurzer Pause schon Ersta sich zugewandt.
 verkleideter Mann, nennen sich als Weib Ersta und waren
 so unvorsichtig, sich bei offenen Fenstern zu rasieren —«
 
-Ersta, noch immer fahl wie ein Leiche und mit einem
-schmerzlich-gramvollen Zug um den Mund, öffnete matt die
+Ersta, noch immer fahl wie eine Leiche und mit einem
+schmerzlich gramvollen Zug um den Mund, öffnete matt die
 Augenlider. Ein todestrauriger, flehender Blick traf Harsts
 schmales, geistvolles Gesicht.
 
@@ -1350,7 +1350,7 @@ gelesen, nicht wahr?«
 das klang.
 
 »Nun, dann hätten Sie lieber alles zugeben sollen!
-Ich sagte ja schon: ich weiß *alles*!« Und er
+Ich sagte Ihnen ja schon: ich weiß *alles*!« Und er
 blickte jetzt den Schloßkastellan durchdringend an.
 
 Der hob die Schultern. »Tut mir leid. Dann wissen
@@ -1443,7 +1443,7 @@ Garnisonlazarett an, nahmen ein Auto und fuhren nach
 dem Polizeipräsidium, wo der Kommissar vom Nachtdienst
 erst unsere Legitimationen sehr genau prüfte und dann erklärte:
 »Ich soll Sie zu Herrn Ektory begleiten, weil dieser
-ihrer Meinung nach mit Bränkyr gemeinsame Sache gemacht
+Ihrer Meinung nach mit Bränkyr gemeinsame Sache gemacht
 hat?! Herr Harst, Ektory ist ein so angesehener Mann, daß
 ich —«
 
@@ -1547,7 +1547,7 @@ lautete:
 »Die Kiste ist ja bereits zugenagelt,« meinte Harst.
 »Prüft denn die hiesige Zollbehörde den Inhalt nicht noch?«
 
-»Nein. Ich bin als reell bekannt,« sagte Ektory
+»Nein. Ich bin als reell bekannt,« sagte Ektory fast
 stolz. »Ich hintergehe keinen Zoll.«
 
 »Und in London wird der Inhalt auch nicht mehr revidiert,«
@@ -1569,7 +1569,7 @@ in so tadelloser Ausführung, daß —«
 Eine Sekunde zu spät sprang ich zu.
 
 Ektory hatte Harst einen Stoß vor die Brust versetzt,
-hatte einen Revolvern herausgerissen, drückte auf seine
+hatte einen Revolver herausgerissen, drückte auf seine
 Schläfe ab.
 
 Ich fing nur noch einen Sterbenden auf. Ektory hatte
@@ -1585,12 +1585,12 @@ sei.
 
 <@pagebreak/>
 »Schon in Kalkutta vermutete ich, daß die Katzenfelle
-als für England zollfreie Ware zum Einschmuggeln anderer
+als für England zollfreie Ware zum Einschmuggeln andrer
 Dinge benutzt werden könnten,« sagte Harst hastig. »Außerdem
 fiel mir in Söderblooms Brief Bränkyrs Interesse
 für das Laboratorium auf. Dann las ich hier abermals
 in einer englischen Zeitung von den falschen Zehnpfundnoten,
-und von der Aufregung in der englischen Geschäftswelt
+von der Aufregung in der englischen Geschäftswelt
 und von der Belohnung von 5000 Pfund, die die Londoner
 Polizei für die Entdeckung der Falschmünzer ausgesetzt hatte.
 — So, nun entschuldigen Sie uns. Ich möchte nach Gröndal

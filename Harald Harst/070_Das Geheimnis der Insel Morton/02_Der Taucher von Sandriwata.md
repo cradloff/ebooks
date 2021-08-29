@@ -128,7 +128,7 @@ umständlich an.
 
 »Nicht wahr, mein Alter,« meinte er dann, »nun wirst
 Du mir Vorwürfe machen, weil ich Dich nicht sogleich eingeweiht
-habe. — Laß das bitte! Ich hätte Dir nämlich
+habe. — Laß’ das bitte! Ich hätte Dir nämlich
 heute alles ohnehin erzählt. — Ich bin natürlich in der
 zweiten Nacht nach unserer Ankunft nicht zufällig auf Deck
 gewesen. Nein, ich vermutete, daß Ralbrout das Wohnschiff
@@ -136,7 +136,7 @@ verlassen würde. Wir waren doch damals abends im
 Alhambra-Theater. Ich beobachtete, wie der Logenschließer
 dem Lord heimlich einen Zettel zusteckte, den er nachher,
 weil er sich vor spähenden Augen sicher wähnte, in unserer
-Loge zerriss und auf die Erde warf.«
+Loge zerriß und auf die Erde warf.«
 
 »Ah,« unterbrach ich ihn, »als wir fortgingen, kehrtest
 Du nochmals in die Loge zurück, weil Du Dein Opernglas
@@ -165,7 +165,7 @@ eine furchtbare Sorge ruhelos macht.«
 »Er wartete, bis die Filiale der Bank von England
 um 7 Uhr geöffnet wurde, und betrat das Bankgebäude.
 Ich aber ging hier nach dem Wohnschiff zurück und legte
-mich leise zu Bett. Du bist um Deinen Schlaf zu
+mich leise zu Bett. Du bist um Deinen festen Schlaf zu
 beneiden.«
 
 »Und die Polizei?«
@@ -275,7 +275,7 @@ wenn wir nicht sehr behutsam zu Werke gehen.«
 — Fahren wir nach der Bank.«
 
 Dort erklärte uns der erste Kassierer, daß Lord Ralbrout
-heute früh 25 000 Pfund Sterling abgehoben hätte.
+heute früh 25&nbsp;000 Pfund Sterling abgehoben hätte.
 Er versprach uns, dem Lord unsere Nachfrage zu verheimlichen.
 
 Wir fuhren weiter nach der Industriestadt Howrah
@@ -297,7 +297,7 @@ hob ihn auf, warf ihn wieder weg.
 
 »Sie können die Leiche fortschaffen lassen, Plamport,«
 meinte er. »Hier gibt es nichts mehr zu sehen. Schraut
-Und ich werden noch hier bleiben.«
+und ich werden noch hier bleiben.«
 
 <@pagebreak/>
 Nach einer Viertelstunde waren wir allein in dem
@@ -332,12 +332,12 @@ Sie war recht eigenartig geschliffen. Ich hatte noch nie eine
 solche Linse in der Hand gehabt. Am Rande war folgendes
 eingeritzt:
 
-> Syst. Rotax 18 ½, 7 plus 3.
+> Syst. Rotax 18½, 7 plus 3.
 
 »Eine Linse,« sagte ich und reichte sie Harst, der inzwischen
 den Hut gehalten hatte.
 
-Er betrachtete sie, hauchte hindurch und schob sie in die
+Er betrachtete sie, schaute hindurch und schob sie in die
 Tasche.
 
 »Hier nach Fußspuren zu suchen erübrigt sich,« meinte
@@ -393,9 +393,9 @@ herüber.
 Lady Mabels Augen hatten sich plötzlich mit Tränen
 gefüllt.
 
-»Sie mögen Sie recht haben, Mr. Harst,« sagte sie leise.
+»Da mögen Sie recht haben, Mr. Harst,« sagte sie leise.
 »Meine Nerven haben auch durch die Gefangenschaft in der
-Morton-Klippe sehr gelitten, es ist heiß hier an Deck. Die
+Morton-Klippe sehr gelitten. Es ist heiß hier an Deck. Die
 Herren entschuldigen mich —«
 
 Sie stand auf und ging die Treppe hinab.
@@ -427,7 +427,7 @@ in der Loge des Alhambra-Theaters —«
 »Ich weiß das alles, Mylord,« fiel Harst ihm ins Wort.
 »Sie trafen dreimal in dem Teehause mit dem verkleideten
 Steuermann der Piratenbande zusammen. Heute hoben Sie
-25 000 Pfund Sterling von der Bank ab. Zu welchem
+25&nbsp;000 Pfund Sterling von der Bank ab. Zu welchem
 Zweck?«
 
 »Es handelte sich um die Rückgabe der Juwelen meiner
@@ -455,19 +455,19 @@ bei sich?«
 »Wir haben sie nicht gefunden, Mylord. Es war sehr
 leichtsinnig von Ihnen, sich in den verwilderten Garten zu
 wagen — sehr leichtsinnig! Nun, die Sache ist für Sie
-ja glücklich abgelaufen. Es wäre empfehlenswert,
+ja noch glücklich abgelaufen. Es wäre empfehlenswert,
 wenn Sie den zuständigen Beamten, den Detektivinspektor
 <@pagebreak/>
 Plamport, herbitten und den Sachverhalt zu Protokoll geben
 würden. Damit wäre die Angelegenheit erledigt. Es
 liegt ja ohne Zweifel Notwehr vor. Totschweigen läßt
-sich der Vorfall nicht. Niemand kann Ihnen daraus Einen
+sich der Vorfall nicht. Niemand kann Ihnen daraus einen
 Vorwurf machen, daß Sie insgeheim sich mit einem
 der Piraten in Unterhandlungen einließen, um die Juwelen
 zurückzuerlangen.«
 
 Lord Ralbrout blickte Harst gespannt an. »Sie meinen
-also wirkliche, daß man mich nicht durch eine langwierige
+also wirklich, daß man mich nicht durch eine langwierige
 Untersuchung quälen wird?«
 
 »Nein — niemals, Mylord! Wenn es Ihnen recht ist,
@@ -498,7 +498,7 @@ nicht gedacht!
 »Ja — als Ganzes genommen sind die Angaben
 Ralbrouts überzeugend,« fuhr Harald fort. »Auch Plamport
 wird sich damit zufrieden geben. Nur wir nicht! Ich
-muß wissen, weshalb der Lord heute die 25 000 Pfund Salforglay
+muß wissen, weshalb der Lord heute die 25&nbsp;000 Pfund Salforglay
 aushändigen wollte und wer dieser H ist, der den
 Zettel dem Lord zustellen ließ! — Ich sagte Dir heute ja
 schon: ich ahne, weshalb Ralbrout der Aufforderung dieses
@@ -854,7 +854,7 @@ mich nichts angeht!« sagte er. »Ich werde untätiger Zuschauer
 bleiben, bis man mich bittet, einzugreifen. — Ich
 könnte die Situation zwischen uns mit einem Worte klären.
 Ich will dies später tun — im geeigneten Moment! Ich
-verarge ihnen, Kapitän, Ihre drohenden Worte keineswegs.
+verarge Ihnen, Kapitän, Ihre drohenden Worte keineswegs.
 Wir alle hier wollen gut Freund bleiben.«
 
 Er setzte sich an einen der Seitentische. »Mylord, spielen
@@ -927,7 +927,7 @@ der Bande?! Fuhr er jetzt mit der Thetis nur nach Chittagong,
 um wegen der Rückgabe der Juwelen zu verhandeln?!
 Die Jacht selbst schien ja tatsächlich für immer
 durch eine Katastrophe verloren gegangen zu sein! — Nur
-der Juwelen wegen dieses gesetzeswidrige Abenteuer?! Wirklich
+der Juwelen wegen dieses gesetzwidrige Abenteuer?! Wirklich
 nur der Juwelen wegen?! — Mir wollte das nicht in
 Kopf. —
 
@@ -946,7 +946,7 @@ kann Lord Ralbrout mit den Piraten sich verbrüdern! Ich
 lasse meine Finger davon weg! Diese — Verbrüderung
 kann böse auslaufen! Mir gleichgültig!«
 
-Ich merkte: diese Sätze hatten einen verborgenen Sinn,
+Ich merkte: diese Sätze hatten einen verborgenen Sinn.
 — So war es auch. Sogar einen doppelten Sinn, wie ich
 nachher erfuhr.
 
@@ -965,7 +965,7 @@ der Katastrophe entgangen sein. Nun sind es nur noch drei,
 da Salforglay in Kalkutta den Lohn für seine Schurkerei
 empfing.«
 
-»Er wollte also tatsächlich Ralbrout die 25 000 Pfund
+»Er wollte also tatsächlich Ralbrout die 25&nbsp;000 Pfund
 rauben?«
 
 »Ohne Zweifel.«
@@ -1024,7 +1024,7 @@ getreten war. — Ich sah, daß die Adresse mit Maschine geschrieben
 war.
 
 Lady Mabel nahm den Brief mit bebender Hand in
-Empfang. Dann wandte sie sich zu Harst. Ihre Augen
+Empfang. Dann wandte sie sich an Harst. Ihre Augen
 drückten eine solche Angst aus, daß ich das arme Weib ehrlich
 bemitleidete. Sie schien etwas sagen zu wollen. Da
 rief Keeger plötzlich herrischen Tones:
@@ -1054,7 +1054,7 @@ Teebrett auf den Tisch und sagte: »Gesegneten Appetit!
 Da — es gibt heute eine frische Büchse Hummer!«
 
 Er verschwand wieder. — Harald bog den aufgeschnittenen
-Deckel der Hummerbüchse doch und rief: »Das sieht
+Deckel der Hummerbüchse hoch und rief: »Das sieht
 lecker aus! Hummer ist mein Leibgericht!«
 
 Und ich — ich konnte von Hummer nichts wahrnehmen!
@@ -1075,11 +1075,11 @@ Harald besichtigte ihn. — »An Ernest Ralbrout adressiert,«
 flüsterte er. »Riegle die Tür ab!«
 
 Dann löste er das Siegel und öffnete die Briefklappe,
-indem er den Dampf ans der Teekanne den Klebstoff erweichen
+indem er den Dampf aus der Teekanne den Klebstoff erweichen
 ließ. — Der Briefbogen enthielt folgendes:
 
 > »Du hast Salforglay getötet. Ich werde Dich jetzt
-nicht mehr schonen, falls Du die Summe nicht auf 50 000
+nicht mehr schonen, falls Du die Summe nicht auf 50&nbsp;000
 Pfund erhöhst. Kehre nach Kalkutta zurück und besorge
 das Geld. Dann komm’ allein wieder nach Chittagong. H.«
 
@@ -1117,7 +1117,7 @@ Auskunftei lautete:
 > »Hektor Ralbrout vor fünf Jahren nach Amerika
 wegen Wechselfälschungen entflohen. Ein Jahr jünger
 als Lord Ernest. Nur diese zwei Söhne vorhanden.
-Hektor gilt für tot.«
+Hektor gilt für tot.««
 
 »Dann war der falsche Lord eben Hektor Ralbrout!«
 meinte ich etwas beschämt. »Ja — die Ähnlichkeit hätte
@@ -1164,7 +1164,7 @@ Stirn.
 »Ich — ich — darf nicht!« stieß er mühsam hervor.
 »Sie — Sie — wissen nicht alles! Auch Sie würden
 <@pagebreak/>
-schweigen wenn — wenn —« — Er zögerte. Seine Lippen
+schweigen, wenn — wenn —« — Er zögerte. Seine Lippen
 zuckten.
 
 »— wenn Sie selbst wie ich kein reines Gewissen
@@ -1176,10 +1176,10 @@ Ihres Bruders irgendwie beteiligt?!«
 habe nur davon gewußt und Hektor zur Flucht verholfen!
 Er sollte nicht ins Gefängnis kommen! Ein Ralbrout im
 Gefängnis! — Ich habe damals vor der Polizei eine falsche
-Aussage unterschrieben — das war’s! — ich hörte nie
+Aussage unterschrieben — das war’s! — Ich hörte nie
 wieder etwas von Hektor, bis er kurz vor meiner Hochzeit
 aus Kalkutta an mich schrieb und Geld verlangte — gleich
-20 000 Pfund! Ich schickte ihm einen Scheck. Und dann
+20&nbsp;000 Pfund! Ich schickte ihm einen Scheck. Und dann
 — dann überfiel er mit seiner Bande die Jacht! Er war
 Pirat geworden, nur um mich und Mabel in seine Gewalt
 zu bekommen. Er drohte mir, mich wegen falscher Zeugenaussage
@@ -1188,15 +1188,15 @@ und Kalkutta abzuheben und Mabels Juwelen zu behalten.
 Er war unersättlich. Er verlangte, ich solle auch
 den Kredit meines schwerreichen Schwiegervaters in Anspruch
 nehmen. — Dann hat er Salforglay als Unterhändler
-nach Kalkutta geschickt. Ich sollte 40 000 Pfund
+nach Kalkutta geschickt. Ich sollte 40&nbsp;000 Pfund
 Salforglay noch aushändigen. Er würde nach Empfang
 des Geldes für immer verschwinden, ließ er mir sagen. Ich
-hatte jedoch nur noch für 25 000 Pfund Kredit bei der
+hatte jedoch nur noch für 25&nbsp;000 Pfund Kredit bei der
 Bank in Kalkutta. Salforglay glaubte mir nicht. Wir gerieten
 in Streit. In meiner Wut wollte ich Salforglay,
 völlig besinnungslos vor Verzweiflung, niederstechen. Er
 schoß, traf. Da stach ich zu. Und nun — nun hat Hektor
-mir einen Brief geschickt und fordert 50 000 Pfund —«
+mir einen Brief geschickt und fordert 50&nbsp;000 Pfund —«
 
 Er stöhnte auf und rief: »Ich kann das Geld nicht
 mehr beschaffen! Ich kann es nicht! Und ich weiß nicht
@@ -1225,7 +1225,7 @@ Ralbrout drückte Harsts Hand. »Oh — wie gern
 nähme ich diesen Vorschlag an, wie gern würde ich von Ihrem
 hochherzigen Anerbieten Gebrauch machen,« sagte er
 bewegt. »Aber — ich darf nicht! Hektor hat mich durch
-Salforglay gewarnt, nicht etwa Sie, Mr. Harst ins Vertrauen
+Salforglay gewarnt, nicht etwa Sie, Mr. Harst, ins Vertrauen
 zu ziehen! Er ließ mir sagen, daß in demselben
 Augenblick, wo er merkte, daß Sie und Ihr Freund —«
 
@@ -1246,7 +1246,7 @@ längst tun sollen. Ich glaube, Sie beurteilen Ihre Gemahlin
 insofern falsch, als Sie annehmen, sie könnte sich von
 Ihnen abwenden, wenn sie erfährt, daß Sie damals eine
 falsche Zeugenaussage abgegeben haben. Lady Mabel wird
-in Gegenteil froh sein, daß diese Heimlichkeiten endlich völlig
+im Gegenteil froh sein, daß diese Heimlichkeiten endlich völlig
 geklärt werden.«
 
 Der Lord nickte. »Vielleicht haben Sie auch hierin
@@ -1367,7 +1367,7 @@ sehr energisch, daß wir den Kutter nicht unbewacht lassen
 könnten.
 
 Als wir beide dann die langgestreckte, etwa eine Viertelmeile
-breite Insel in tiefer Dunkelheit durchwanderten,
+breite Insel in tiefer Dunkelheit durchquerten,
 brach das Gewitter mit jener fürchterlichen Gewalt los, von
 der man sich bei uns daheim keine Vorstellung machen kann.
 Ganze Bündel von Blitzen fuhren herab. Wahre Wolkenbrüche
@@ -1380,7 +1380,7 @@ Zwischen der Inselküste und der Inneren Riffreihe lag ein
 großer Segelkutter in dem hier völlig ruhigen Wasser vor
 Anker. Und dieser Kutter leuchtete im weißen Lichte eines
 Sankt Elms-Feuers so intensiv, als wäre er mit Leuchtfarbe
-angestrichen worden. — Das schlanke Fahrzeug bot
+angestrichen worden. — Das schlanke Fahrzeug bot so
 einen gespenstischen Anblick dar. Auf dem Deck bewegte
 sich eine einzelne Gestalt hin und her. Es machte ganz den
 Eindruck, als ob der Mann dort sich in wilder Aufregung
@@ -1441,14 +1441,14 @@ Die Frau sprang von dem Stein herab.
 
 »Tobort — was ist mit Hektor?« fragte sie, als das
 Boot über die Muscheln knirschend hinglitt und dann
-stilllag.
+stillag.
 
 »Er — er beantwortet die Signale mit der Leine nicht
 mehr,« sagte Tobort dumpf. (Der Taucher verständigt sich
 mit den Leuten, die oben die Luftpumpe bedienen, durch
 <@pagebreak/>
 Rucke an einer Leine. Diese ist am Gürtel des Tauchers
-befestigt).
+befestigt.)
 
 »Antwortet nicht!« kreischte das blonde Weib auf.
 »Tobort, weshalb hast Du ihn denn nicht hochgezogen?!«
@@ -1482,7 +1482,7 @@ Gier verblendet!«
 Tobort lachte kurz auf. »Ellen, Du bist nicht bei Sinnen!
 Du weißt recht gut, daß ich Hektor warnte! Die nur
 gekittete Linse des Taucherhelmes hat dem Druck des Wassers
-nicht standgehalten. Deshalb mußte Hektor heute
+nicht standgehalten. Weshalb mußte Hektor heute
 abermals hinab, nachdem die Linse gestern schon undicht geworden
 war?! — Steck’ Deinen Revolver ein! Ich bin —«
 
@@ -1524,7 +1524,7 @@ Furche glitt durch die Oberfläche des Wassers: ein Hai!
 »Schieße — schieße!« rief Harald.
 
 Und ich feuerte auf das sich vorwärtsbewegende Ende
-der Furche — feuerte volle neun Schuß ab.
+der Furche — feuerte alle neun Schuß ab.
 
 Dann — ein entsetzlicher, die Nerven aufpeitschender
 Schrei.
