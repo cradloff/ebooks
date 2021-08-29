@@ -2101,7 +2101,7 @@ wahre Gesicht dieser Geistergeschichte zum Vorschein, da sagte
 Harald, während er ein Zündholz anrieb und die frische
 Mirakulum in Brand setzte:
 
-»Abends sieben Uhr brechen wir auf. Dann sind mit
+»Abends sieben Uhr brechen wir auf. Dann sind wir
 um halb zehn etwa an Ort und Stelle. Natürlich im Kostüm
 … mit ein paar Boden und Proviant, daß wir im Freien
 übernachten können …«
