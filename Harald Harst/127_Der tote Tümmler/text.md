@@ -2103,22 +2103,22 @@ Mirakulum in Brand setzte:
 
 »Abends sieben Uhr brechen wir auf. Dann sind wir
 um halb zehn etwa an Ort und Stelle. Natürlich im Kostüm
-… mit ein paar Boden und Proviant, daß wir im Freien
+… mit ein paar Decken und Proviant, daß wir im Freien
 übernachten können …«
 
 Und mir zunickend:
 
-»Es war gut, daß Du die Sache als Dunmenjungew
-Streich hinstelltest, mein Alter … Gundler hätte sich die
-trübsten Gedanken (gemacht, wenn Du ihm Deine wagte Ansicht
+»Es war gut, daß Du die Sache als Dummenjungenstreich
+hinstelltest, mein Alter … Gundler hätte sich die
+trübsten Gedanken gemacht, wenn Du ihm Deine wahre Ansicht
 mitgeteilt hättest.«
 
-Und ich …?! Ich — war ehrlich, erwiderte kleinlaut!
+Und ich …?! Ich — war ehrlich, erwiderte kleinlaut:
 
 »Erlaube, das ist ja meine wahre Ansicht …«
 
 »So?! —« Nicht möglich! Und dabei liegt der Fall doch
-klar …«
+so klar …«
 
 »Erlaube: für mich nicht!«
 
@@ -2126,7 +2126,7 @@ klar …«
 »Aber ich bitte Dich, lieber Alter: das Gespenst ist ein
 Schreckmittel für Neugierige. Das Gespenst soll jeden warnen,
 sich nicht etwa zur Nachtzeit auf den Hügel zu wagen.
-Das Gespenst ist der Wächter für die, denen sann heute nacht
+Das Gespenst ist der Wächter für die, denen wir heute nacht
 auf die Spur kommen werden …«
 
 »Und das wäre …?«
@@ -2134,17 +2134,17 @@ auf die Spur kommen werden …«
 »Das sind Leute, die vielleicht hier als Sommergäste
 etwa im Mai oder Juni von dem verschütteten Wrack des
 Pestschiffes erfuhren, die dann in Holland irgendwie genaue
-Nachforschungen anstellten, wo die Auge beheimatet gewesen
+Nachforschungen anstellten, wo die Kuff beheimatet gewesen
 und was sie geladen hatte. So brachten diese Schlauen heraus,
 daß es sehr wohl lohne, die Ladung des Wracks zu
-Abelsen. Und — das tun sie jetzt an den langen Abenden,
+bergen. Und — das tun sie jetzt an den langen Abenden,
 in den Herbstnächten, wo der Strand nirgends mehr von
 Spaziergängern bevölkert ist …«
 
-Fürwahr —« klarer und einleuchtender konnte die Lösung
-rann sein …
+Fürwahr — klarer und einleuchtender konnte die Lösung
+kaum sein …!
 
-»Bravo, Garalb! Und das kam aus ehrlichen Herzen.
+»Bravo, Harald!« Und das kam aus ehrlichem Herzen.
 
 Er saß mir gegenüber.
 
@@ -2152,12 +2152,12 @@ Und schüttelte jetzt langsam den Kopf.
 
 »Ich fürchte, Alterchen, Du nimmst die Sache zu leicht,
 viel zu leicht. Du darfst nie vergessen, daß ein angetriebenes
-Wrack belegtes ist, daß ein jeder in aller Öffentlichkeit davon
+Wrack herrenlos ist, daß ein jeder in aller Öffentlichkeit davon
 Besitz ergreifen kann, auch von der Ladung, so wie der
 Fall hier liegt. Mithin muß es schon einen ganz besonderen
 Grund haben, daß diese Leute so in aller Heimlichkeit vorgehen.
 Und weil sie es tun und weil sie sogar das an sich
-ganz anerkennenö8werte Mittel eines Gespenstes der toten
+ganz anerkennenswerte Mittel eines Gespenstes der toten
 Holländerin verwenden, werden sie auch fraglos vor einem
 Gewaltstreich nicht zurückschrecken. Ungefährlich ist die Geschichte
 nicht. Und wir beide müssen uns danach richten.«
@@ -2172,7 +2172,7 @@ der Straße zwei Herren bemerkte, die mir in dem Blick der
 Augen mehr als nur Neugier nach Harst und Schraut verrieten
 …«
 
-»Als Du so anhaltend hinausstarricst?«
+»Als Du so anhaltend hinausstarrtest?«
 
 »Ja … Und wenn Gundler nicht bei uns gewesen
 wäre, würde ich diesen Männern gefolgt sein … Ich
@@ -2192,11 +2192,11 @@ Nun war es halb zehn …
 Und ein Herbstabend, der die ganze trübe Poesie der absterbenden
 Natur in sich trug …
 
-Hohler Regenwind rief über die See …
+Hohler Regenwind pfiff über die See …
 
 Wolken zogen am Himmel hin, schwarze Kleckse, die
 Mond und Sterne verschluckten und stets nur für kurze Minuten
-sfreigaben.
+freigaben.
 
 Grollend rauschte die Brandung, und oben am Rande
 der Steilküste rauschte der Hochwald sein deutsches Lied,
@@ -2204,16 +2204,16 @@ wirbelte totes Laub von den Bäumen und flatterte über
 den hellen Sand des Eilandes hin gleich huschenden
 Ratten …
 
-Oben auch auf dem breiten mächtigen Grabe der Auge
-schwangen Eichen und diesem im Nachahmte hin und her.
+Oben auch auf dem breiten mächtigen Grabe der Kuff
+schwangen Eichen und diesem im Nachtwinde hin und her.
 
 Und wir beide, wir in unseren Stromerkostümen mit
-Bündeln auf dem Rücken lagen im Schafften der Steilwand
+Bündeln auf dem Rücken lagen im Schatten der Steilwand
 dicht am Fuße des Hügels, waren die letzten fünfhundert
 Meter mühselig auf allen vieren vorwärtsgekrochen, hatten
 nichts versäumt, um unsichtbar zu bleiben …
 
-Lagen hier erst kurze Zeit, schöpften Atem mit zurüdc-gebogenem
+Lagen hier erst kurze Zeit, schöpften Atem mit zurückgebogenem
 Kopf und starrten empor zu der Kuppe des
 Grabes des Pestschiffes …
 
@@ -2236,33 +2236,33 @@ Jaulen …
 
 »Ein Hund — ein Hund!« stieß Harst gepreßt heraus.
 
-»Wenn es Gundlers diese wäre …!! Wenn …«
+»Wenn es Gundlers Treff wäre …!! Wenn …«
 
 Und — da abermals das klagende Geheul — jetzt ohne
-Ende solcher — die Nerven aus peitschend, tausend Befürchtungen
+Ende schier — die Nerven aufpeitschend, tausend Befürchtungen
 weckend …
 
 Harst schnellte hoch …
 
-Geist in die Tasche …
+Griff in die Tasche …
 
 Und ich neben ihm — nun auch mit der treuen kleinen
 Clement in der vor Erregung heißen Hand.
 
-Wir beide herum um den Hügel — nach der Erreichte,
-wo er am flacheren …
+Wir beide herum um den Hügel — nach der Seeseite,
+wo er am flachsten …
 
-Hier Hohlweg neugierige Badegäste eine Art Pfad ausgetreten.
+Hier hatten neugierige Badegäste eine Art Pfad ausgetreten.
 Hier war man mit zehn langen Sprüngen oben
 unter den Bäumen, die aus den Wurzeln der vor fünfzig
-Jahren verscäütteien wieder emporsprossen …
+Jahren verschütteten wieder emporsprossen …
 
 Und hier auf der flachen Kuppe blitzten unsere
-Taschenlampen aus…
+Taschenlampen auf …
 
 Knurrend sprang uns ein dunkelbrauner Jagdhund an.
 
-»Zurück, diese!« rief Harald befehlend und stieß das
+»Zurück, Treff!« rief Harald befehlend und stieß das
 zahnlose Maul des alten Tieres beiseite …
 
 Eine leise Stimme von rechts — neben einem bemoosten
@@ -2270,12 +2270,12 @@ Riesenstein:
 
 »Hierher … zu — Hilfe!!«
 
-Gundler — — Förster Gundler
+Gundler — — Förster Gundler …
 
 Weiße Lichtkegel bestrahlten die hagere Gestalt, das verfallene
 Gesicht …
 
-Joppe und Weste hatte der Todwuyunde ausgerissen, hatte
+Joppe und Weste hatte der Todwunde aufgerissen, hatte
 <@pagebreak/>
 sein Taschentuch auf die Stichwunde gedrückt …
 
@@ -2286,10 +2286,10 @@ Wir knieten …
 Und aus den halb umflorten Augen des Greises ein
 dankbarer Blick …
 
-Die Lippen suchen … In das Konzert der Herbstnacht
+Die Lippen zuckten … In das Konzert der Herbstnacht
 hinein die geflüsterte Anklage gegen — die Mörder …
 
-»Ich — wollte der — Sache selbst — aus den Grund
+»Ich — wollte der — Sache selbst — auf den Grund
 gehen … Ein Mann stieß mich nieder … Zwei waren
 es … Dort ist der — der Eingang zum …«
 
@@ -2302,14 +2302,14 @@ keine Rückkehr gibt.
 
 »Tot!« sagte Harald …
 
-Der Hund beulte …
+Der Hund heulte …
 
 Mondlicht glitt über die Strandlandschaft, glitt durch
-die Baumkronen — — aus eine andere Gestalt dort halb
+die Baumkronen — — auf eine andere Gestalt dort halb
 unter den Büschen …
 
 Das Gespenst — — die Holländerin — lag im Grase.
-Die Haube zur Seite gerutscht, den grinsenden so:enschädel
+Die Haube zur Seite gerutscht, den grinsenden Totenschädel
 enthüllend — auch einen Teil des aus Rohr geflochtenen
 Oberkörpers …
 
@@ -2321,7 +2321,7 @@ rüstigen Greis hinweggemäht hatte. —
 
 Der Hund heulte …
 
-Brandung rauschte — deutschen Wald sang von der
+Brandung rauschte — deutscher Wald sang von der
 Treue des alten Gundler, von dem Sterben eines Braven.
 
 Unsere Taschenlampen erloschen. Der Mond verkroch
@@ -2339,7 +2339,7 @@ würde.
 Harald widersprach.
 
 »Wir bleiben … Die beiden Fremden werden sich
-nicht mehr zeigen. Sie haben erledigt, was sie hier vorhalten.
+nicht mehr zeigen. Sie haben erledigt, was sie hier vorhatten.
 Wir bleiben und suchen das, was Gundler andeutete:
 den Eingang!«
 
@@ -2348,19 +2348,19 @@ Und der Hund heulte …
 Heulte, daß es uns durch die Nerven schnitt.
 
 »Tragen wir die Leiche nach unten,« meinte Harald.
-»diese wird sie bewachen …«
+»Treff wird sie bewachen …«
 
-Die schauerliche Arbeit war bald getan. diese schlich
+Die schauerliche Arbeit war bald getan. Treff schlich
 hinterdrein … Und sein Heulen und Klagen begleitete uns,
 wie wir nun wieder den Hügel emporstiegen — immer noch
-vor in der Hand die Waffe, damit niemand uns Überraschte
+vorsichtig, in der Hand die Waffe, damit niemand uns Überraschte
 …
 
-Oben meinte Harald: »Du beobachtest. Ich suche =«
+Oben meinte Harald: »Du beobachtest. Ich suche —«
 
 Und so geschah’s
 
-Unsere Taschenlampen strahlten auf
+Unsere Taschenlampen strahlten auf …
 
 Harst beleuchtete den Boden — Schritt für Schritt …
 
@@ -2371,7 +2371,7 @@ Daß der Eingang zu dem verschütteten Wrack gut verborgen
 und schwer zu finden sein mußte, sagten wir uns
 selbst. Und hatten Geduld — Übereilten nichts …
 
-Meine Ritzen glitten andauernd hin und her. Niemand
+Meine Augen glitten andauernd hin und her. Niemand
 sollte uns hier unvermutet überfallen …
 
 So verging eine Viertelstunde. Die Kuppe des Hügels
@@ -2382,10 +2382,10 @@ abgesucht.
 
 Kam zu mir, zuckte die Achseln …
 
-»Ich linke nichts! — Es gibt noch eine Möglichkeit. —
+»Ich finde nichts! — Es gibt noch eine Möglichkeit. —
 Zwischen dem Hügel und der Steilküste liegt eine Spalte
 <@pagebreak/>
-von drei Meter Breite … Dort muß sich ’der Eingangs
+von drei Meter Breite … Dort muß sich der Eingang
 befinden. Komm’ nur mit, mein Alter …«
 
 Und wir standen nun an der steilsten Seite des Hügels.
@@ -2394,23 +2394,23 @@ lag uns gegenüber: der Abhang der Küste!
 
 Harst bückte sich, kniete …
 
-Da war ein Strauch, von ’Brombeerranken dicht durch
-zogen. Der hing über den Rand hinweg. Harald rüttelte
-ihn, zog ihn empor, schob sich vorwärts, leuchtete hinab
+Da war ein Strauch, von Brombeerranken dicht durchzogen.
+Der hing über den Rand hinweg. Harald rüttelte
+ihn, zog ihn empor, schob sich vorwärts, leuchtete hinab …
 
 »Gefunden! Ein Loch!!«
 
 Und — — im selben Moment hoch über uns ein
 dumpfer Knall …
 
-Ein Hagel von Lchmstüden kam herab …
+Ein Hagel von Lehmstücken kam herab …
 
 Und — eine Hand packte mich …
 
 Ich flog abwärts … Die Hand hielt mich … Kroch
 … in den engen Gang …
 
-Und hinter mir 18 hör Retter — trieb mich vorwärts
+Und hinter mir her mein Retter — trieb mich vorwärts
 …
 
 »Rasch — ein Erdrutsch … Ein Teil der Steilküste,
@@ -2425,28 +2425,28 @@ Prallten gegen die Kuppe des Hügels, hätten uns zerdrückt,
 wenn wir auch nur Sekunden später das Innere des
 Wracks erreicht haben würden …
 
-Hinter uns — schloß sich der enge Gang — wurde zU-sammengequetscht
-von der ungeheuren Wucht des Stoßes der
+Hinter uns — schloß sich der enge Gang — wurde
+zusammengequetscht von der ungeheuren Wucht des Stoßes der
 fallenden Massen … —
 
 Wir erholten uns. Die zitternden Nerven beruhigten
 sich …
 
-Wir sahen, daß der Gang durch den Hügel genau aus
+Wir sahen, daß der Gang durch den Hügel genau auf
 eine der Bordwandluken des Wrackes zugeführt hatte, und
 durch diese offene Luke waren wir in eine kleine Kajüte
 gelangt.
 
 Wir sahen mitten in der Kajüte auf einem zu Zunder
 <@pagebreak/>
-zerfallenen Teppich ein Skelett liegen, rote zum Teil bekleidet,
-—«+ einen Seemann, den blanken Knöpfen nach, die
+zerfallenen Teppich ein Skelett liegen, noch zum Teil bekleidet,
+— einen Seemann, den blanken Knöpfen nach, die
 offenbar vergoldet waren. Eine Seemannsmütze lag daneben.
 Sie war noch gut erhalten. Ein Leinwandstück war
-in das Müßgzenfutter eingenäht, und mit schwarzer Tinte,
+in das Mützenfutter eingenäht, und mit schwarzer Tinte,
 leicht zu entziffern, stand darauf:
 
-> van spannen,
+> van Kaampen,
 
 > Amsterdam.
 
@@ -2455,9 +2455,9 @@ wir im übrigen unterschätzt haben,« sagte Harald und
 wischte den Schweiß von der Stirn. »Der Erdrutsch ist
 absichtlich von den Schatten durch Sprengung verursacht
 worden, damit wir —« für immer verschwinden sollten. Sie
-waren heute Gundler bis matt Neuhof heimlich gefolgt und
-haben beobachtet, daß er uns aussuchte. Nun wollten sie
-Ad uns auslösten, nachdem sie den Förster abgetan
+waren heute Gundler bis nach Neuhof heimlich gefolgt und
+haben beobachtet, daß er uns aufsuchte. Nun wollten sie
+auch uns auslöschen, nachdem sie den Förster abgetan
 hatten …«
 
 Seine Taschenlampe blieb jetzt plötzlich in derselben
@@ -2466,17 +2466,17 @@ Seeleute sie früher in Kajüten bevorzugten.
 
 Ich schaute hin …
 
-Und ein farbiges Alter und Sprühen fesselte meinen
-Blick … Ein Sprühen wie das eines Tautropfsens im
+Und ein farbiges Blitzen und Sprühen fesselte meinen
+Blick … Ein Sprühen wie das eines Tautropfens im
 Morgensonnenschein …
 
 »Ein — Diamant,« sagte Harald leise …
 
 Und ging und hob den erbsengroßen Edelstein von der
-Schreibtischplatte auf
+Schreibtischplatte auf …
 
 »Also darum ging es — darum!!« meinte er. »Edelsteine
-sind wie das; Gold ein Quell alles Schlechten, Wecker
+sind wie das Gold ein Quell alles Schlechten, Wecker
 aller Begierden …«
 
 <@pagebreak/>
@@ -2485,30 +2485,30 @@ aller Begierden …«
 <h3>Das kalte Wasser.</h3>
 
 Er steckte den Edelstein zu sich. Dann gingen wir weiter
-durch das Peitschte — von Raum zu Raum …
+durch das Pestschiff — von Raum zu Raum …
 
 Fanden einen Haufen Skelette — fanden unten im
 Laderaum Faß an Faß …
 
-Der Geruch verriet’s: ’Heringe! Eine Ladung Heringe
-hatte die Auge! Nichts von Wert … Nur — die Diamanten
-hatten die Mörder herbeischoß.
+Der Geruch verriet’s: Heringe! Eine Ladung Heringe
+hatte die Kuff! Nichts von Wert … Nur — die Diamanten
+hatten die Mörder herbeigelockt.
 
-Wir kehrten in die Kapitänskajüte zurück legten die
-Gebeine aus eine unserer Schlafdecken und schossen sie in
-Brahmane Nebenkammer.
+Wir kehrten in die Kapitänskajüte zurück, legten die
+Gebeine auf eine unserer Schlafdecken und schafften sie in
+eine Nebenkammer.
 
 Ein kleines Ledersofa in der Kajüte diente uns zum
-ausruhten.
+ausruhen.
 
-Harald begann den Proviant auszupacken. Wir geraten
+Harald begann den Proviant auszupacken. Wir freuten
 uns, daß wir eine halbe Flasche Kognak nicht vergessen
 hatten,
 
 Eine ernste Mahlzeit …
 
 Denn wir waren ja eingeschlossen hier im Innern der
-aufs, Über uns lagerten meterstarke Erdmassen. Der
+Kuff. Über uns lagerten meterstarke Erdmassen. Der
 Gang war nicht mehr vorhanden …
 
 Ernste Mahlzeit in Gesellschaft so und so vieler Skelette.
@@ -2517,9 +2517,9 @@ Und doch war Harald keineswegs besorgt, daß es uns
 nicht gelingen sollte, wieder — auszubrechen, wie er sagte.
 
 »Nur Arbeit, Schweiß wird es kosten, mein Alter …
-Wenn wir uns gestärkt haben, sangen wir an — an der
+Wenn wir uns gestärkt haben, fangen wir an — an der
 richtigen Stelle, und das ist die Spitze des Wracks, wo die
-Männer vor einem halben Jahrhundert die Planken sofort
+Männer vor einem halben Jahrhundert die Planken zerstört
 haben. Dort kann nur wenig Erdreich uns von der
 Freiheit trennen.«
 
@@ -2531,7 +2531,7 @@ Eine halbe Stunde drauf arbeiteten wir uns mit einem
 Bootshaken und einem Handbeil wie die Maulwürfe durch
 die Erdschicht durch.
 
-Diese bestand zumeist aus Wohnbooten, mit Seesand
+Diese bestand zumeist aus Lehmbrocken, mit Seesand
 vermischt, aus kleineren Steinen, faulenden Tangpflanzen
 und Muscheln.
 
@@ -2541,22 +2541,22 @@ wir volle vier Stunden, hatten inzwischen noch zweimal
 längere Pausen gemacht.
 
 Als der erste frische Luftzug durch die sich schnell erweiternde
-Hoffnung strich, wandte Harald, der mir den
-an zuschob, damit ich ihn nach hinten besondere, rasch
-ich um …
+Öffnung strich, wandte Harald, der mir den
+Sand zuschob, damit ich ihn nach hinten befördere, rasch
+sich um …
 
 »Näher heran —« flüsterte er. »Da — es gibt draußen
 etwas zu sehen …«
 
-Ich sah … sah nun durch die kaum erst Kopfgröße
-Hoffnung den mondhellen Strandstreifen …
+Ich sah … sah nun durch die kaum erst kopfgroße
+Öffnung den mondhellen Strandstreifen …
 
 Und — — zwei Männer, die mehr nach rechts hin mit
 den Gesichtern nach dem Hügel hin dastanden …
 
 »Das sind sie!« lachte Harald lautlos. In diesem
-Lachen klang eine gefährliche drei;)nun mit. »Das sind sie
-—« und wir haben sie …! Wahrscheinlich haben sie by
+Lachen klang eine gefährliche Drohung mit. »Das sind sie
+— und wir haben sie …! Wahrscheinlich haben sie sich
 erst noch davon überzeugen wollen, ob wir uns nicht doch
 etwa gerettet haben, ob wir wieder zum Vorschein kommen
 würden. Oh — das werden wir …!! Aber erst, wenn sie
@@ -2577,26 +2577,26 @@ Er schob die Uhr wieder in die Tasche.
 
 »So — vorwärts! Sie haben genügend Vorsprung!«
 
-Und dann schlichen wir bald neben ihnen hin — ie
+Und dann schlichen wir bald neben ihnen hin — sie
 <@pagebreak/>
 am Wasser — wir in den Dünen … — gen Heringsdorf.
 
-Durch die Herbstnacht, durch die kühle keuchte Fieberluft
+Durch die Herbstnacht, durch die kühle feuchte Nebelluft
 der grollenden Ostsee …
 
 Vorbei an den Strandvillen von Heringsdorf, vorbei
 an der Seebrücke, deren Wellenbrecher dem toten Tümmler
 als Anker gedient hatte …
 
-Bis zum Nachbarorte »Ahlbeck, berühmt durch seine
+Bis zum Nachbarorte Ahlbeck, berühmt durch seine
 Flundernräuchereien, durch seine idyllische Schlichtheit …
 
-Und hier bogen die beiden, denen wir aus den Fersen
+Und hier bogen die beiden, denen wir auf den Fersen
 waren, rechts ab …
 
 Am Kurhaus gingen sie vorüber, bis zur Parkstraße.
 
-Keine Menschenseele ringsum. Alhlbeck schlief.
+Keine Menschenseele ringsum. Ahlbeck schlief.
 
 Da liegt in der Parkstraße ein kleines Pensionat mit
 dem stolzen Namen Quisisana …
@@ -2610,17 +2610,17 @@ lesen, wissen, was er bedeutet:
 
 Und in diesem Hause mit dem verheißungsvollen Spruch
 Über der Tür verschwanden die beiden, benutzten jedoch
-nicht die Tür, bewohnten Parterrezimmer und hatten he
+nicht die Tür, bewohnten Parterrezimmer und hatten den
 einen Fensterflügel nur angedrückt, stiegen durch das Fenster
 ein … —
 
 Wir im Schatten eines Hauses auf der anderen Straßenseite
-… — wir sahen hinter den Vorhängen zweier kennen
+… — wir sahen hinter den Vorhängen zweier Fenster
 Licht aufflammen, sahen Schatten auf diesen hellen
 Vorhängen, auch den Schatten einer Frau …
 
-»Wir dürfen es schon wagen,« meinte Harald. »Geben
-wir hinüber… Es sind einfache Fenster. Vielleicht erlauschten
+»Wir dürfen es schon wagen,« meinte Harald. »Gehen
+wir hinüber … Es sind einfache Fenster. Vielleicht erlauschten
 wir etwas!« —
 
 Wir drückten uns an die Hauswand …
@@ -2629,7 +2629,7 @@ Horchten — vergebens …
 
 Stimmengemurmel — das war alles …
 
-Und dann — ein Weinen — ein besinnungslose?
+Und dann — ein Weinen — ein besinnungsloses
 Schluchzen …
 
 Jammernde Laute …
@@ -2640,8 +2640,8 @@ Erfolg …
 
 Harst flüstert:
 
-»Die Frau ist’s… Sie weiß nun, was geschehen …
-Dr — horch …«
+»Die Frau ist’s … Sie weiß nun, was geschehen …
+Da — horch …«
 
 Eine helle Stimme — schrill — schreiend:
 
@@ -2667,26 +2667,26 @@ Bog nach dem Kurhause ein …
 Das Fenster schlug zu …
 
 Wir hinter dem Weibe drein — durch das schlafende
-Ahlbeck, daß nichts von dieser Tragödie ahnte …
+Ahlbeck, das nichts von dieser Tragödie ahnte …
 
-Zum Strande hinab lies die Frau … Ihr dunkles
-Haar hatte sich ausgelöst, flatterte hinter ihr her …
+Zum Strande hinab lief die Frau … Ihr dunkles
+Haar hatte sich aufgelöst, flatterte hinter ihr her …
 
-Der Wind sauste an dem hellen eleganten HauStkleid …
-Und blindlings lies sie … wie gelebt …
+Der Wind zauste an dem hellen eleganten Hauskleid …
+Und blindlings lief sie … wie gehetzt …
 
 Stand nun dicht am Ufer zwischen zwei Fischerbooten.
 Hob die Arme wie in stummer Klage gen Himmel …
 
 Warf sich in den kalten, feuchten Sand — wie eine
-Irre … wollte die Hände hinein … Weinte — —
-sIchluchhzte …
+Irre … Wühlte die Hände hinein … Weinte — —
+schluchzte …
 
 Sprang wieder auf …
 
 Und … begann in die See hineinzuwaten …
 
-Macdcchte halt …
+Machte halt …
 
 Stand regungslos … —
 
@@ -2695,15 +2695,15 @@ Stand regungslos … —
 Weise ertränkt sich niemand … Das eisige Wasser bringt
 jeden zur Vernunft.«
 
-Wir hatten hinter dem Boote …
+Wir hockten hinter dem Boote …
 
 Sahen, wie das Weib sich langsam umwandte, wieder
 trockenen Boden gewann, wieder stehenblieb — hilflos —
 den Kopf gesenkt, ein Bild ratloser Verzweiflung …
 
 Der Mond schien ihr ins Gesicht. Ein junges, hübsches
-Gesicht. Vielleicht nichtösagend, jetzt aber belebt durch den
-Aufruhr einer Seele, die vor dem Verbrechen zulächelte.
+Gesicht. Vielleicht nichtssagend, jetzt aber belebt durch den
+Aufruhr einer Seele, die vor dem Verbrechen zurückbebte.
 
 Da war’s daß Harald sich aufrichtete …
 
@@ -2717,7 +2717,7 @@ Freund Schraut …«
 
 Die Frau regte sich nicht …
 
-Ein tonlose8 Schluchzen kam über ihre Lippen …
+Ein tonloses Schluchzen kam über ihre Lippen …
 
 »Wer sind Sie?« fragte Harald ebenso freundlich, und
 er zog aus seinem Bündel eine der Schlafdecken heraus.
@@ -2729,12 +2729,12 @@ Menschen …! Auch hier zeigte es sich wieder, wie schnell
 er das Vertrauen anderer gewann …
 
 »Wer sind Sie?« Und er führte die Frau hinter eines
-der Nehbäusächhen, nahm noch eine zweite Decke, legte sie um
+der Netzhäuschen, nahm noch eine zweite Decke, legte sie um
 die Schultern der Fremden …
 
 Die Frau weinte leise …
 
-Beruhigte sich … traute Harald angstvoll an …
+Beruhigte sich … Schaute Harald angstvoll an …
 
 »Und — und der Förster« fragte sie stockend …
 
@@ -2750,6 +2750,8 @@ Keine Antwort …
 <@pagebreak/>
 »Waren Sie in diesem Sommer in Bansin?«
 
+»Ja …«
+
 »Und dort hörten Sie von dem Wrack …?«
 
 »Ja …«
@@ -2757,19 +2759,19 @@ Keine Antwort …
 »Erzählten es den beiden Männern …«
 
 »Ja — meinem Verlobten … Ich war Kellnerin in
-der Hafenort-Bar in Bansin …« Sie Kassette sich auf. »Ich
+der Splendid-Bar in Bansin …« Sie raffte sich auf. »Ich
 will alles sagen, wie es gewesen ist, Herr Harst … Mein
 Bräutigam war früher Steuermann auf einem Lloyddampfer.
-Jetzt ist er in Berlin Agent. Auch ich bin Betrügerin.
+Jetzt ist er in Berlin Agent. Auch ich bin Berlinerin.
 Als er mich im Juni in Bansin besuchte, erzählte
 ich ihm von dem Wrack, von der holländischen Kuff. Da
 ist er dann mit seinem Freunde, den ich gar nicht leiden
-mag, nun Amsterdam gereist. Ihm als früherem Seemann
+mag, nach Amsterdam gereist. Ihm als früherem Seemann
 fiel es nicht schwer, insgeheim herauszubringen, was
-für eine Ladung die Kuff gehabt hatte. Er erfuhr auch)
+für eine Ladung die Kuff gehabt hatte. Er erfuhr auch
 daß eine russische Fürstin, die wegen politischer Umtriebe
 aus Rußland verbannt worden war, die Reise mitgemacht
-und eine Menge Juwelen mitgenommen hatte. Die Auge
+und eine Menge Juwelen mitgenommen hatte. Die Kuff
 sollte Heringe nach Riga …«
 
 »Schon gut … — Die Juwelen waren in dem Wrack
@@ -2791,9 +2793,9 @@ das Wrack verließen …«
 »Und Sie fürchteten, daß auch wir dann durch den Erdrutsch
 getötet worden sein könnten …?«
 
-»Ja … Trawitßz hatte oben am Abhang schon vor
-Boden alles für eine Sprengung vorbereitet … für den
-Tal!, daß Gefahr drohe …«
+»Ja … Trawitz hatte oben am Abhang schon vor
+Wochen alles für eine Sprengung vorbereitet … für den
+Fall, daß Gefahr drohe …«
 
 Sie weinte wieder.
 
@@ -2804,25 +2806,25 @@ Wahrheit.
 Harsts Stimme war denn auch immer milder geworden
 …
 
-»Wie heißen Sie, Fräulein …„.?«
+»Wie heißen Sie, Fräulein …?«
 
-»Hilda Celsius …«
+»Hilda Gerling …«
 
-»Sie sind sich wohl darüber klar, Fräulein Celsius, daß
-vor Verlobter bestraft werden wird, wenn er auch nicht der
-Hauptschuldige ist. — Sein Name, Ergattern?«
+»Sie sind sich wohl darüber klar, Fräulein Gerling, daß
+Ihr Verlobter bestraft werden wird, wenn er auch nicht der
+Hauptschuldige ist. — Sein Name, Fräulein?«
 
 »Paul Münzer …«
 
-»Ah würde Ihnen nun raten, wieder in das Pensionat
+»Ich würde Ihnen nun raten, wieder in das Pensionat
 zurückzukehren, Trawitz aber zu verschweigen, daß Sie mit
 uns gesprochen haben. Ihr Verlobter kann seine Richter
 erheblich milder stimmen, wenn er uns freiwillig die ganze
-Beute au28händigt und sich selbst der Polizei stellt. Warnen
+Beute aushändigt und sich selbst der Polizei stellt. Warnen
 Sie ihn aber vor jedem Fluchtversuch.«
 
 »Oh — das würde ich niemals dulden, daß er flieht.
-Ich werde ihm treu bleiben, auch) wenn er ins Gefängnis
+Ich werde ihm treu bleiben, auch wenn er ins Gefängnis
 kommt … Der Trawitz ist ein schlechter Mensch … Paul
 hat …«
 
@@ -2833,10 +2835,10 @@ Sie schwieg jäh, hob den Arm …
 Münzer kam näher … Bemerkte uns nicht …
 
 Rief immer wieder den Vornamen seiner Braut …
-ballerte zum Strande hinab
+hastete zum Strande hinab
 
 Und Harst flüsterte rasch: »Gehen Sie zu ihm … Wir
-haben anderes vor …
+haben anderes vor …«
 
 Und er zog mich mit sich fort …
 
@@ -2856,7 +2858,7 @@ hineinpfropfte …
 »Er will — fliehen!« raunte Harald mir zu. »Den
 Freund um die Beute betrügen …« —
 
-Trawitz erschien am Fenster — Steg Manne, hatte vorher
+Trawitz erschien am Fenster — stieg hinaus, hatte vorher
 das Licht im Zimmer ausgedreht …
 
 Blicke sich scheu um …
@@ -2874,11 +2876,11 @@ Hand nehmen …
 ihm …
 
 Und gleichzeitig blitzte in meiner Hand die Taschenlampe
-aus … beleuchtete Harst, der dem Verbrecher die
+auf … beleuchtete Harst, der dem Verbrecher die
 Clement entgegenhielt …
 
-»drein Name ist Harst … Das genügt wohl …
-Nerven Sie voran … Die Polizeiwache liegt im Gemeindehaus
+»Mein Name ist Harst … Das genügt wohl …
+Gehen Sie voran … Die Polizeiwache liegt im Gemeindehaus
 …«
 
 Trawitz lachte …
@@ -2887,19 +2889,19 @@ Trawitz lachte …
 
 Das war alles …
 
-Ein kaltblütiger Schurke, — und selten Schrittes ging
+Ein kaltblütiger Schurke, — und festen Schrittes ging
 er vor uns her, bis die — Zelle der Polizeiwache ihn aufnahm,
 bis Harald ihm hier die in ein Taschentuch eingeknoteten
-Juwelen aus dem jede zog … —
+Juwelen aus dem Rocke zog … —
 
-Paul Stürzen wurde nicht verhaftet. Er ist später vor
+Paul Münzer wurde nicht verhaftet. Er ist später vor
 Gericht auch billig weggekommen. Die herrenlosen Juwelen
 (Verwandte der Fürstin waren nicht mehr zu ermitteln)
 zog der Staat ein. —
 
 Und am Morgen nach dieser Herbstnacht standen wir
 und mit uns die Gerichtskommission aus Swinemünde
-ne — zwei Leichen — neben dem Grabhügel des Pestschiffes
+vor — zwei Leichen — neben dem Grabhügel des Pestschiffes …
 
 Ein herabfallender Stein hatte auch den treuen Treff
 erschlagen. Verendet lag er neben seinem Herrn … — —
@@ -2912,8 +2914,8 @@ Neuhof erlebten.
 
 Neues trat an uns heran …
 
-Eine Seemannstragödie … Neue Menschenschhidsale
-konnten wir kennen, neue Ausgaben führten uns Über Länder
+Eine Seemannstragödie … Neue Menschenschicksale
+lernten wir kennen, neue Aufgaben führten uns Über Länder
 und Meere bis tief ins Innere des — schwarzen Erdteils —
 Afrikas …
 
@@ -2928,7 +2930,7 @@ __Das Erbe des Verschollenen.__
 
 <div style="font-size: large; text-align: center;">An unsere Leser!</div>
 
-Die glänzende Erzählerkunst *Master Kabels*, welcher doch nun schon seit
+Die glänzende Erzählerkunst *Walter Kabels*, welcher doch nun schon seit
 Jahren tausende Leser an die Detektiv-Abenteuer unseres Harald Harst fesselt,
 schenkt uns in dem soeben erscheinenden großen Sensationsroman
 
@@ -2947,12 +2949,12 @@ Vaterlande schenken. Ein deutsches U-Boot nimmt das Gold an Bord, um es nach
 Deutschland zu schaffen. Im Atlantischen Ozean aber erleidet das U-Boot einen
 Maschinendefekt, es wird von einem englischen Kriegsschiff verfolgt und in der
 Nähe der Azoren-Inseln in den Grund gesenkt. Nur ein einziger der Besatzung,
-der Steuermann Hart wich, kann sich auf die Insel Tag Miguel retten, wo er drei
-Jahre lang als Religion lebt. Als er dann nach Beendigung des Krieges in die
+der Steuermann Hartwich, kann sich auf die Insel San Miguel retten, wo er drei
+Jahre lang als Robinson lebt. Als er dann nach Beendigung des Krieges in die
 Heimat zurückkehrt, findet er sein Vaterland am Boden liegend, das deutsche
 Volk unsäglich an den Folgen des Krieges leidend. Nun beschließt er den
 gewaltigen Goldschatz zu heben, um damit die Leiden seiner deutschen
-Volksgenossen zu lindern. Er trifft mit seinem Jugendfreunde Mister v.
+Volksgenossen zu lindern. Er trifft mit seinem Jugendfreunde Viktor v.
 Gaupenberg zusammen, der ein ganz neuartiges Luftschiff konstruiert hat, und
 mit Hilfe dieses Luftschiffes wollen die Freunde den Schatz bergen. Doch durch
 einen Zufall haben andere von dem Goldschatz erfahren, die nun mit allen
@@ -2960,7 +2962,7 @@ Mitteln versuchen, für sich das Gold zu gewinnen. Und um diesen riesigen
 Goldschatz entbrennt nun einen Kampf, wie er gewaltiger und packender nicht
 geschildert werden kann.
 
-Wir alle kennen Walther Kabel aus seinen Harald Harst-Erzählungen
+Wir alle kennen Walter Kabel aus seinen Harald Harst-Erzählungen
 und wissen wie er zu erzählen und zu fesseln
 versteht. Im »Goldschatz der Azoren« aber hat er sich
 selbst übertroffen. Diese Erzählung ist von so eigenartiger
