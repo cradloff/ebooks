@@ -166,7 +166,7 @@ ironisch.
 Gropius lächelte blasiert. »Hm — möchte nämlich mal
 hineinklettern in den ollen Kasten … Ist Gefahr dabei?«
 
-»Kaum, Herr Baron …"
+»Kaum, Herr Baron …«
 
 »So … so … — Hm — und … und die Skelette
 in dem Wrack, — kann man sich auch die mal anschaun?«
@@ -285,17 +285,17 @@ Ließ mich allein mit dem Toten …
 <h3>Der Käfer mit den acht Beinen.</h3>
 
 Es war, als ob die Sonne sich scheute, an diesem
-Abend als ihre Pracht beim Versinken am seinen Horizont
+Abend all ihre Pracht beim Versinken am fernen Horizont
 zu entfalten …
 
-Der Wird sprang in einer Viertelstunde völlig um …
+Der Wind sprang in einer Viertelstunde völlig um …
 Kam von West, führte schwarzes Regengewölk herauf …
 
-Und ich neben dem Toten — ich beopachteie, wie der
+Und ich neben dem Toten — ich beobachtete, wie der
 Sonnenball allmählich von der finsteren Wolke verschluckt
-wurde … Bis nur noc& über den Rand des dunklen
+wurde … Bis nur noch über den Rand des dunklen
 ziehenden Gebirges dort am Horizont die Sonnenstrahlen
-in den Zettel hinausschaffen …
+in den Äther hinausschossen …
 
 Ein wundervolles Bild …
 
@@ -306,10 +306,10 @@ Und es war sieben Uhr abends am selben Tage …
 Da standen zwei Männer in Gummimänteln jenseits
 des wackligen Holzzaunes des Armenhauses am Rande des
 Waldes und ließen die Tropfenflut auf Mützen und Schultern
-klatschten …
+klatschen …
 
 Da flüsterte der eine in dieser Finsternis, die so dicht
-war die schwarze, ringsum gespannte Vorhänge:
+war wie schwarze, ringsum gespannte Vorhänge:
 
 »Wir müssen näher heran, mein Alter … Man sieht
 von dem Häuschen nichts mehr … Und erst recht nichts
@@ -317,36 +317,36 @@ von dem Giebelfenster oben, hinter dem Gottlieb Joost
 fünfzehn Jahre die Läuse am eigenen Leibe gefüttert hat.«
 
 Sprach’s und zog mich mit sich fort bis zum Zaun,
-falsche in die eintönige Musik des Regengusses hinaus und
+lauschte in die eintönige Musik des Regengusses hinaus und
 <@pagebreak/>
-kletterte über die Planken. Half mir, dem vierten, Schwerfälligeren
+kletterte über die Planken. Half mir, dem Dickeren, Schwerfälligeren
 … Zog mich weiter — bis zu einem winzigen
 Stall, der da links neben der armseligsten aller Armenhausbaracken
 windschief, wie gebeugt von Sorgen, sich an eine
 Kastanie lehnte.
 
 Hier hatten wir unter dem vorspringenden Dach ein
-wenig Schuß vor den sehen Spenden des schwarzen
+wenig Schutz vor den feuchten Spenden des schwarzen
 Abendhimmels. Hier harrten wir aus — mit jener unbegrenzten
 Geduld, die nun einmal mit zu unserem Beruf
 gehört …
 
-Harrten aus, — Und nach meiner Üeberzeugung ganz
-glwecflos …
+Harrten aus, — Und nach meiner Überzeugung ganz
+zwecklos …
 
 Allerdings: der Mann, der ein Dichter besonderen Art
 war und den Tragödien der Gesetzesverächter die Schlußszenen
-hinzufügte, der dem Gesetz Zeitung und der Gerechtigkeit
+hinzufügte, der dem Gesetz Geltung und der Gerechtigkeit
 Genüge verschaffte, der hatte vorhin, nachdem die
 Polizei, der Gendarm und einige zwanzig Heringsdorfer
 umsonst nach dem Baron Gropius und der eleganten Mörderin
 gesucht hatten, mir erklärt, wir würden die beiden
 bestimmt wiedersehen — hier am Armenhause …
 
-Und war »ach dabei geblieben, obwohl ich betonte, daß
-wir beide und der Gemeindevorsteher doch das Sträubten des
-Kapitäns durchsucht und nichts — nichts gefunden hatten
-außer einer alten Schiffsbibel nd Lumpen und Schraut
+Und war auch dabei geblieben, obwohl ich betonte, daß
+wir beide und der Gemeindevorsteher doch das Stübchen des
+Kapitäns durchsucht und nichts — nichts gefunden hätten
+außer einer alten Schiffsbibel und Lumpen und Schmutz
 und Gestank …
 
 Lächelte sein eigenes Lächeln und meinte:
@@ -359,9 +359,9 @@ Nässe und stierten rundum in die Finsternis …
 
 Erblickten mit Augen, die wie Katzenaugen an so geringe
 Beleuchtung gewöhnt waren, dort vor uns die graue
-Hau&Cwand und an dieser an zwei Hafen hängend die lange
-Feuerleiter, darüber aber das schwache Blinken des New
-Kerl des Giebelstübchens …
+Hauswand und an dieser an zwei Haken hängend die lange
+Feuerleiter, darüber aber das schwache Blinken des Fensters
+des Giebelstübchens …
 
 Warteten so bis zehn Uhr …
 
@@ -370,25 +370,25 @@ Mit jener Geduld, die gelernt sein will.
 
 Wurden … belohnt …
 
-Belohnt — — denn zwei dunkle Schnurren glitten jetzt
+Belohnt — — denn zwei dunkle Schatten glitten jetzt
 über die Wand hin …
 
 Die Leiter wurde losgehakt …
 
-An die Mauer gestützt … Und einer der beiden kloman
+An die Mauer gestützt … Und einer der beiden klomm
 empor …
 
 Oben dann ein leises Splittern von Glas …
 
-Unten jedoch die krampfhaften Bemühungen eines an
-deren, sich aus unseren Fäusten zu befreien.
+Unten jedoch die krampfhaften Bemühungen eines anderen,
+sich aus unseren Fäusten zu befreien.
 
 Gebunden, geknebelt lag der Mann nun neben der
 Stallwand, neben mir, der ich ihn bewachen sollte …
 
 Harst turnte an der Leiter hoch …
 
-Und ich sah, wie in dem Stübchen Licht ausleuchtete …
+Und ich sah, wie in dem Stübchen Licht aufleuchtete …
 
 Sah die Umrisse des Freundes, der sich rasch in den
 armseligen Raum hineinschwang …
@@ -403,30 +403,30 @@ Und — Haralds Stimme:
 
 »Ich komme … Wir bringen ihn hier hinauf …«
 
-Au das in Sekunden fast. Dich Szenen im Kino, die zu
-rasch geknebelt werden … —
+All das in Sekunden fast. Wie Szenen im Kino, die zu
+rasch gekurbelt werden … —
 
 Harst hob den gefesselten Mann empor, von dem wir
-dicksten nicht viel gesehen, nur geführt hatten.
+bisher nicht viel gesehen, nur gefühlt hatten.
 
 »Der andere liegt auf Joosts elendem Bett,« meinte er.
-»Oben werden wir uns die Vögel Gewinsel betrachten.
+»Oben werden wir uns die Vögel genauer betrachten.
 Jedenfalls sind es weder der Baron noch die Mörderin …«
 
 Und mit einer Kraft, wie man sie dem schlanken mageren
 Harst kaum zutraut, trug er den Mann die Leiter empor
 — hinein in das Stübchen, wo seine eingeschaltete Taschenlampe
-mit dem wackligen Tischen lag.
+auf dem wackligen Tischen lag.
 
 Minuten später, und wir wußten, daß diese beiden
 Männer da echte Stromer waren, Kerle, die für Geld alles
-nun. Kerle, die heute um Art Uhr abends zwischen Heringsdorf
-wo Bansin einem Auto mit Regenverdeck begegnet
+tun. Kerle, die heute um acht Uhr abends zwischen Heringsdorf
+und Bansin einem Auto mit Regenverdeck begegnet
 <@pagebreak/>
-waren und denen die beiden Insassen des Strick das An
-gebot gemacht hatten, für fünf amerikanische Dollar in das
-Giebelstübcgen des Armenhauses in Heringsdorf einzudringen
-und die alte Bibel vom Wandbrett bherauszuholen,
+waren und denen die beiden Insassen des Autos das Angebot
+gemacht hatten, für fünf amerikanische Dollar in das
+Giebelstübchen des Armenhauses in Heringsdorf einzudringen
+und die alte Bibel vom Wandbrett herauszuholen,
 
 Nur die Bibel — für fünf Dollar — im Oktober 1923,
 wo der Dollar vier Billionen bedeutete …!
@@ -434,7 +434,7 @@ wo der Dollar vier Billionen bedeutete …!
 Kein Wunder, daß diese beiden stoppelbärtigen Gesellen
 blindlings zugegriffen hatten …
 
-Fünf Doktor …!!
+Fünf Dollar …!!
 
 Und nun saßen die beiden dort auf dem jammervollen
 Holzbett und blickten uns bittend an …
@@ -442,14 +442,14 @@ Holzbett und blickten uns bittend an …
 »Wo solltet Ihr denn die Bibel den Autofahrern übergeben?«
 forschte Harald weiter.
 
-»Aus der Chaussee — dicht vor Bansin, wo ein großer
-Kies hausen liegt,« erklärte der eine Zimmer seufzend.
+»Auf der Chaussee — dicht vor Bansin, wo ein großer
+Kieshaufen liegt,« erklärte der eine Stromer seufzend.
 
 »Und wann?«
 
-»drangen sah nach Hellwerden.«
+»Morgen früh nach Hellwerden.«
 
-»So — so. sehr Ansichtig!« Und er blätterte die Bibel
+»So — so. sehr vorsichtig!« Und er blätterte die Bibel
 genauer durch, die ihm auf den Knien lag.
 
 Sie war leer. Auch nicht ein Blatt Papier war zwischen
@@ -460,11 +460,11 @@ Ein Käfer mit einem Rückenschild so groß wie ein
 Daumennagel.
 
 Dann sagte Harald wieder: »Ihr sollt fünf Dollar auch
-von mir, Harald Harst, bekommen, wenn fuhr getreulich
+von mir, Harald Harst, bekommen, wenn Ihr getreulich
 ausführt, was ich verlange … Ihr werdet nach fünf
 Stunden, also um drei Uhr morgens etwa, hier in Heringsdorf
-vor dem Eingang zur Zerdrückte auf uns warten. Wir
-werden Euch die Bibel und fünf Doktor aushändigen, und
+vor dem Eingang zur Seebrücke auf uns warten. Wir
+werden Euch die Bibel und fünf Dollar aushändigen, und
 Ihr tut dann den Autoinsassen gegenüber so, als ob alles
 völlig glatt gegangen sei. Ihr versteht: Ihr dürft nicht
 verraten, daß wir Euch abgefaßt haben …«
@@ -479,14 +479,14 @@ was Ihr wollt. Nur — das Maul müßt Ihr halten!«
 
 Harald nahm ihnen die Fesseln ab.
 
-»Verschwindet nun … Also um drei Uhr vor der Festdrückte
+»Verschwindet nun … Also um drei Uhr vor der Seebrücke
 …« —
 
 Kinoszenen …
 
 Blitzartiges Erleben …
 
-Wir beide eine halbe Stunde später in unserem Wohn-ziianmer
+Wir beide eine halbe Stunde später in unserem Wohnzimmer
 im Pensionat Seeblick am Tisch unter der Lampe,
 die alte Schiffsbibel vor uns …
 
@@ -503,7 +503,7 @@ Buchstaben:
 Zweite Eintragung:
 
 > Dreimaster Kordelia, am 5. Februar 1904 an den
-Rissen von deren Anita an der Kasamanze-Küste gestrandet,
+Riffen von Terra Batta an der Kasamanze-Küste gestrandet,
 in Brand geraten und durch Feuer vernichtet.
 
 > 16\. Juni 1904, Bremen.
@@ -511,7 +511,7 @@ in Brand geraten und durch Feuer vernichtet.
 > Gottlieb Joost, Kapitän.
 
 Sonst in dem heiligen Buche nichts mehr als der Druck
-und — der Platte Käfer …
+und — der platte Käfer …
 
 Nichts mehr … —
 
@@ -521,11 +521,11 @@ Auf seiner linken Hand lag der gepreßte große Käfer …
 
 »Zunächst, mein Alter …« und er sprach leise, als
 fürchtete er Lauscher, »ist dieser Käfer präpariert, und zwar
-mit — Lack. Plan hat ihn mit Tod, farblosen! Lack dick bestrichen,
-nachdem er so Blatt gedrückt worden war. Er sollte
-nicht — auseinanderhalten.«
+mit — Lack. Man hat ihn mit Lack, farblosem Lack dick bestrichen,
+nachdem er so platt gedrückt worden war. Er sollte
+nicht — auseinanderfallen.«
 
-»Stimmt,« bestätigte ich eifrig. »Man sieht die Wachsschicht
+»Stimmt,« bestätigte ich eifrig. »Man sieht die Lackschicht
 …«
 
 <@pagebreak/>
@@ -533,7 +533,7 @@ nicht — auseinanderhalten.«
 — Der Käfer verrät noch mehr. Was?«
 
 Ich schwieg. Wer nichts weiß, befolgt am besten den
-Spruch: Reden ist Silber, Sofasitzen ist Gold.
+Spruch: Reden ist Silber, Schweigen ist Gold.
 
 »Wieviel Beine?« fragte Harst …
 
@@ -559,7 +559,7 @@ mal die erste Textseite sorgfältig an …«
 
 »Wo?«
 
-»Unter dem Wort »*Menschen*« im 26. Verse des«
+»Unter dem Wort »*Menschen*« im 26. Verse des
 ersten Buches Moses.«
 
 »Gut. Blättere um. Beschaue Dir die zweite Seite!«
@@ -574,14 +574,14 @@ Seite wieder ein Tintenfleck befinden, — Bitte: Seite 3 —
 ein Klecks unter dem Wort »*nicht*« im 11. Verse. Und
 Seite 5: unter dem Wort »*Weibern*«, 7. Vers. — Nun
 die linken Beine: Stummel — also ungerade, also Seite 7.
-—« Bitte, ein Klecks unter »aufhören«, Vers 8. Aber
-das »auf« ist dvurchstrichen, mithin nur »*hören*«, — weiter:
+— Bitte, ein Klecks unter »aufhören«, Vers 8. Aber
+das »auf« ist durchstrichen, mithin nur »*hören*«, — weiter:
 langes Bein, gerade Seite, also Seite 8. Und wir finden
-hier das Wort »*verfluchen*«, Vers 38, ebenso gekennzeichnet
+hier das Wort »*verfluchen*«, Vers 3, ebenso gekennzeichnet
 … — Blättern wir jetzt weiter, da Kapitän Joosts
 <@pagebreak/>
-Harmlose Geheimschrift bereits geklärt ist … Wir sehen
-immer wieder auf den Seiten einzelne Worte durch steckte
+harmlose Geheimschrift bereits geklärt ist … Wir sehen
+immer wieder auf den Seiten einzelne Worte durch Kleckse
 hervorgehoben … Stellen wir also die Geheimschrift zusammen
 …«
 
@@ -592,39 +592,39 @@ Kapitän Gottliebs Beichte lautete:
 
 »Menschen, die Ihr nicht Weibern hört, verfluchen sollt
 Ihr dieses Geschlecht. Ich, ein Mann, der zwanzig Jahre
-ehrlich gelebt hat, bin in kundiger Liebe entbrannt zu der
+ehrlich gelebt hat, bin in sündiger Liebe entbrannt zu der
 Frau des ersten Steuermanns der Kordelia. Auf allen
 Fahrten nimmt er sie mit sich und sein Kind, ein Mädchen,
-da? damals im Februar 1904 anderthalb Jahre alt war.
-Meine Liebe wurde Wahnsinn. Ich wollte das Weib, das-mir
-nicht zu Willen, vernichten, samt ihrem Manne. An
-jenem Abend habe ich daß Schiff auf die Felsen laufen lassen,
+das damals im Februar 1904 anderthalb Jahre alt war.
+Meine Liebe wurde Wahnsinn. Ich wollte das Weib, das
+mir nicht zu Willen, vernichten, samt ihrem Manne. An
+jenem Abend habe ich das Schiff auf die Felsen laufen lassen,
 habe es vorher angezündet, habe die Rettungsboote leck geschlagen
 gehabt und nur eins übrig gelassen, mit dem ich
 an die Küste ruderte. Das Kind nahm ich mit, und zwar
 aus Erbarmen, verkaufte es an eine Schar wilder Reiter.
 Und als ich heimkehrte, erwachte mein Gewissen. Ich kaufte
-eine Hütte und trank, um mich) zu betäuben. Ich bin ein
+eine Hütte und trank, um mich zu betäuben. Ich bin ein
 Elender geworden, und diese Bibel ist mein einziges Gut.
 Niemand, der mich früher kannte, weiß, wo ich geblieben.
 Ich gelte in meiner Heimat als verschollen. Diese Bibel
-ist meine Erbschaft. Wer einst das Sei;:einigte dieser Zeilen.
+ist meine Erbschaft. Wer einst das Geheimnis dieser Zeilen
 entdeckt, mag den Käfer zerbrechen, und er wird darin drei
 <@pagebreak/>
 Edelsteine finden, die sehr selten sind: schwarze Diamanten!
-Er verkaufe sie und ziehe hinaus an die Küste Nordwefst-asriko8
+Er verkaufe sie und ziehe hinaus an die Küste Nordwestafrikas
 und suche das Kind, das ich den wilden Reitern
-für die drei Steine überließ. Mein Fluch Presse den, der mir
+für die drei Steine überließ. Mein Fluch treffe den, der mir
 nicht gehorcht.« — — —
 
-Harald hatte die einzelnen Worte auf ein Stü Papier
+Harald hatte die einzelnen Worte auf ein Stück Papier
 geschrieben.
 
 Nun hatten wir so das ganze Bekenntnis des — Verschollenen
 vor uns …
 
-Und zugleich auch die Pflicht, den Willen dieses Person
-Rendezvous wahnwitziger Leidenschaft nach Möglichkeit zu
+Und zugleich auch die Pflicht, den Willen dieses Verbrechers
+aus wahnwitziger Leidenschaft nach Möglichkeit zu
 erfüllen. —
 
 unter Harsts Fingern zerbröckelte der Käfer …
@@ -634,11 +634,11 @@ von überraschendem Feuer blitzten auf seiner flachen Hand.
 
 Und seine Stimme war noch leiser:
 
-»Mein lieber Alter, wenn im Dich nun frage, we2kbalb
+»Mein lieber Alter, wenn ich Dich nun frage, weshalb
 die beiden Autoinsassen den Verschollenen ermordet haben,
-dann — wirst Du mir die Antwort schuldig bleiben. Jacht
-müßte es auch. Ich ahne nur, daß die beiden doch Geheimnis
-gelangt haben und dazu ein zweites, das mit dem ersten
+dann — wirst Du mir die Antwort schuldig bleiben. Ich
+müßte es auch. Ich ahne nur, daß die beiden das Geheimnis
+gekannt haben und dazu ein zweites, das mit dem ersten
 eng verbunden sein muß und — von Wert sein dürfte. Du
 verstehst: das Motiv des Mordes wird letzten Endes Geldgier
 sein! Die meisten Morde werden ja …«
@@ -647,9 +647,9 @@ Und — da schwieg er plötzlich …
 
 Riß die Uhr aus der Tasche …
 
-Schien u rechnen …
+Schien zu rechnen …
 
-Nickte: »Ja — wir schaffen’8! Vorwärts — wir Wandsofa
+Nickte: »Ja — wir schaffen’s! Vorwärts — wir wandern
 gen Swinemünde, nehmen einiges mit … Der Nachtspaziergang
 am Strande entlang wird uns nichts schaden!«
 
@@ -660,13 +660,13 @@ morgens können wir wieder hier sein. Und wenn es hell
 geworden, werden wir verkleidet dem Auto folgen. Ich
 muß wissen, wer die Mörder sind. Ich muß den zweiten
 <@pagebreak/>
-Teil des Geheimnisses kennenlernen. Das wird nur gekrochen,
-wenn wir dem Auto aus den Fersen bleiben!«
+Teil des Geheimnisses kennenlernen. Das wird nur geschehen,
+wenn wir dem Auto auf den Fersen bleiben!«
 
 Er war lebendiger denn je.
 
 Das Problem reizte ihn. Und im Nu hatten wir die
-Bibel und anderes in einen Rucksack gepackt, brachen aus …
+Bibel und anderes in einen Rucksack gepackt, brachen auf …
 — verließen das Pensionat durch die Hintertür, über den
 Hof …
 
@@ -675,34 +675,34 @@ Besitzer zweier Motorräder, knatterten zurück gen Heringsdorf
 …
 
 Und — um einen langen, langen Sprung zu tun —
-waren nachmittags ein Uhr glücklich in =«- Stettin, aus der
+waren nachmittags ein Uhr glücklich in — Stettin, auf der
 Fährte des Autos, auf der Fährte der Mörder, die nun genau
-so völlig anders Steinchen wie wir …
+so völlig anders aussahen wie wir …
 
-Barett im D-Zug nach Berlin — dritter Klasse …
+Waren im D-Zug nach Berlin — dritter Klasse …
 hatten nebenan das Paar in einem Abteil zweiter Klasse:
 das Paar, ältere Leute scheinbar, maskiert wie wir … —
 
 Kinoszenen — Galopptempo …
 
-dazu soll ich hier mich mit Einzelheiten abgeben, wo
+Wozu soll ich hier mich mit Einzelheiten abgeben, wo
 doch noch so viel anderes zu berichten ist! —
 
 In Berlin dasselbe Spiel …
 
-Ob — vorsichtig waren die beiden, äußerst vorsichtig …
+Oh — vorsichtig waren die beiden, äußerst vorsichtig …
 
 Half ihnen alles nicht …
 
 Harst und Schraut wußten um neun Uhr abends, daß
-der Herr ein früherer Eqchisssarzt Doktor von Bößler und
-Bestie Mörderin seine Assistentin und Geliebte Anita Kutter
-wir. Bößler wohnte sehr vornehm im Berliner Westen in
+der Herr ein früherer Schiffsarzt Doktor von Bößler und
+die Mörderin seine Assistentin und Geliebte Anita Kurtor
+war. Bößler wohnte sehr vornehm im Berliner Westen in
 der Motzstraße am Viktoria-Luise-Platz, zweiter Stock, fünf
 Zimmer …
 
 Und wir … bezogen im selben Hause Quartier — als
-Harmlose Gutsbesitzer im Fremdenheim Dürr … Um halb
+harmlose Gutsbesitzer im Fremdenheim Dürr … Um halb
 zehn Uhr abends … Dritter Stock …
 
 Waren inzwischen in unserem Heim in der Blücherstraße
@@ -722,31 +722,31 @@ Was wir wagten? — Es ist kaum schwer zu erraten.
 Unsere alte solide Strickleiter bewährte sich wieder …
 
 Wir langten durch das offene Fenster im Schlafzimmer
-Kokain … Wir fanden vorn im Salon — eine Spielergesellschaft
-versammelt, warten nur einen Blick in das Zimmer
+an … Wir fanden vorn im Salon — eine Spielergesellschaft
+versammelt, warfen nur einen Blick in das Zimmer
 durch ein kleines Schlüsselloch und machten kehrt … Zogen
-die Strickleiter nach; oben an dem starken Bindfaden,
+die Strickleiter nach oben an dem starken Bindfaden,
 den wir neben dem Schlafzimmerfenster befestigten.
 
 Und — — lagen dann eng nebeneinander unter dem
-Bett des Herrn von Bößler, der jetzt ohne falschen Bar?
+Bett des Herrn von Bößler, der jetzt ohne falschen Bart
 mit Hornbrille da im Salon die Bank hielt …
 
 Kinoszenen …
 
-Szenen, die « hier so lesen, als ob vielleicht nichts von
+Szenen, die sich hier so lesen, als ob vielleicht nichts von
 Nervenkraft dabei verloren ging. Szenen, die an unsere
 Gewandtheit, Vorsicht und Umsicht die größten Anforderungen
 stellten …
 
-Die mich dort unter dem Bett Pro des offenen Fensters
-und der kühlen Herbstnacht haben — Schurken lassen …
+Die mich dort unter dem Bett trotz des offenen Fensters
+und der kühlen Herbstnacht haben — schwitzen lassen …
 
 Bis … drei Uhr morgens,
 
 Dann brachen die Spieler endlich auf. Dann dauerte
-es noch eine halbe Stunde, bis der Herr Doktor … herein
-taumelte, aus sein Bett fand … Und hinter ihm … die
+es noch eine halbe Stunde, bis der Herr Doktor …
+hereintaumelte, auf sein Bett sank … Und hinter ihm … die
 Mörderin Anita …
 
 Lachend — lachend schloß sie die Fenster …
@@ -755,9 +755,9 @@ Lachend — lachend schloß sie die Fenster …
 Liebling … Den Amerikaner haben wir gehörig geplündert.
 Es reicht zur Überfahrt …«
 
-Das Weib, von der wir nur die Lackscnihe, die seinen
-Knöchel und die seidenen Strümpfe saßen, setzte sich neben
-Bößler auf den Felswand …
+Das Weib, von der wir nur die Lackschuhe, die feinen
+Knöchel und die seidenen Strümpfe sahen, setzte sich neben
+Bößler auf den Bettrand …
 
 »Morgen abend reisen wir, Erwin … Es ist am
 <@pagebreak/>
@@ -765,10 +765,10 @@ besten … Man kann nie wissen, ob dieser Harst nicht doch
 unsere Fährte findet …«
 
 »Der?! — Anita, ich wette die Hälfte der Millionen,
-daß der noch in Herings2dorf umbherschnässelt …«
+daß der noch in Heringsdorf umherschnüffelt …«
 
-»lassen wir’s … — Also wir fahren, Erwin. Am
-bequemsten zunächst nach je Karte. Von dort bekommen
+»Hoffen wir’s … — Also wir fahren, Erwin. Am
+bequemsten zunächst nach Le Havre. Von dort bekommen
 wir schon einen Dampfer nach der Kasamanze-Küste …«
 
 »Gut … Ich will jetzt schlafen, Anita … Gute Nacht!
@@ -780,40 +780,40 @@ Fünf Minuten später schnarchte der Spieler wie eine
 Säge auf hartem Holz …
 
 Um Vormittag mag er sich gewundert haben, daß das
-eine Fenster nur anuclehnt war …
+eine Fenster nur angelehnt war …
 
-Durch diesen Fensterflügel hatten wir den Rückweg aufgetreten.
+Durch diesen Fensterflügel hatten wir den Rückweg angetreten.
 — —
 
 Und abermals nun bitte ich den Leser, drei Tage zu
-überspringen und mit mir an Bord des Damvpfers lockerte
-zu kommen, der von je Karte n«ch4 dem Hafen Karabare
-an der Kasamanze-sauste bestimmt war.
+überspringen und mit mir an Bord des Dampfers Rochette
+zu kommen, der von Le Havre nach dem Hafen Karabare
+an der Kasamanze-Küste bestimmt war.
 
-Aus der Röchelte, übrigens einen! Rattenkasten schlimm«-
-Hoftor Art, hatten zwei goemütlicb? holländische Kaufleute die
-Kabine neben der des »Ehepaares« Bößler belegt und kletterten
+Auf der Rochette, übrigens einem Rattenkasten schlimmster
+Art, hatten zwei gemütliche holländische Kaufleute die
+Kabine neben der des »Ehepaares« Bößler belegt und biederten
 sich mit den Bößlers rasch an.
 
 So rasch, daß wir bei der Ankunft in Karabare nach
 sechs Tagen mit den Herrschaften Bößler bereits so gut wie
-unzertrennlich waren, was lediglich Geschästskniss von seiten
-des Herrn Doktor war, denn Harald ließ sich taatäglich von
+unzertrennlich waren, was lediglich Geschäftskniff von seiten
+des Herrn Doktor war, denn Harald ließ sich tagtäglich von
 ihm im Hazard einige zwanzig Gulden abnehmen, wobei
 der ehrenwerte Bößler so ungeschickt betrog, daß er uns
-fraglos für die vümmsten Holländer hielt, die je auf Reisen
-gegangen Waren,
+fraglos für die dümmsten Holländer hielt, die je auf Reisen
+gegangen waren,
 
-tun diesem elenden Hafennest gab es nur ein einzige?
-sogenanntes Hotel. Köchin waren wir hier aberntals vereint:
+In diesem elenden Hafennest gab es nur ein einziges
+sogenanntes Hotel. Mithin waren wir hier abermals vereint:
 wir, die Jäger, und — das Wild!
 
 <@pagebreak/>
-Zu — wenn wir bei alledem nuür erst gewußt hätten,
+Ja — wenn wir bei alledem nur erst gewußt hätten,
 um was es hier eigentlich ginge.
 
 Millionen — von Millionen hatte Bößler damals in
-seinem Schlafzimmer gesprochen. Und nun merkten wir, daß:
+seinem Schlafzimmer gesprochen. Und nun merkten wir, daß
 die beiden Bößlers, dieses Pseudo-Ehepaar, hier genau dasselbe
 vorbereiteten wie wir: einen Ritt ins Innere!
 
@@ -824,22 +824,21 @@ das inzwischen zum Weibe herangereifte Kind des toten
 Steuermanns?!
 
 Auch Harst fand sich in all diesen Fragen nicht zurecht.
-Ich mehr es ihm an, daß er tatsächlich im Dunkeln tappte —
+Ich merkte es ihm an, daß er tatsächlich im Dunkeln tappte —
 wie ich! —
 
-Das famose Hotel he Paris in Karabare war abends
+Das famose Hotel de Paris in Karabare war abends
 der Sammelplatz der hier ansässigen achtzehn Europäer der
 »oberen Zehntausend«. Unter diesen achtzehn befanden sich
 fünf, die schon zwanzig Jahre der Fieberluft dieses Sumpfloches
 getrotzt hatten.
 
-
 Und zwei davon waren geborene Wiener, nette Herren,
-die uns gern alle Fragen beanttivorteten, denn sie wußten
+die uns gern alle Fragen beantworteten, denn sie wußten
 auch im Hinterlande gut Bescheid.
 
 Am zweiten Abend saßen wir mit ihnen und Bößlers
-aus der Terrasse des Hotels.
+auf der Terrasse des Hotels.
 
 Bößler, der noch immer völlig ahnungslos schien, daß
 wir alles andere nur nicht harmlos waren, begann mit
@@ -848,8 +847,8 @@ Kordelia zu sprechen, fragte die Wiener, ob sie wohl von dem
 nun zwanzig Jahre zurückliegenden Ereignis gehört hätten,
 erhielt bejahende Antwort und platzte kann mit einer anderen
 Frage heraus: ob den Wienern jemals Gerüchte zu
-Ohren gekommen, daß eine Europäerin bei einem der Es
-duinenstämntie am Südrande der Sahara lebe,
+Ohren gekommen, daß eine Europäerin bei einem der
+Beduinenstämme am Südrande der Sahara lebe,
 
 Und — auch jetzt bejahten die Wiener …
 
@@ -857,16 +856,16 @@ Der eine erklärte:
 
 »Der Tuaregstamm der Gaghos soll seit einigen Jahren
 <@pagebreak/>
-eine 1ww2iße Sultanin haben, von der man so allerlei Merkwürdigere
+eine weiße Sultanin haben, von der man so allerlei Merkwürdiges
 erzählt, — was daran wahr ist, weiß ich nicht.
-war! sagt, die Gut:ging sei eine geborene Deutsche und als
+Man sagt, die Sultanin sei eine geborene Deutsche und als
 kleines Kind an ein paar Gagho-Händler verkauft worden.
-Der Sultan denn zahm der Gaghos habe sie an Kindesstatt
+Der Sultan Temi Sabur der Gaghos habe sie an Kindesstatt
 angenommen, weil ihre Schönheit alle bezauberte. Jetzt
 ist sie Herrscherin im Gagho-Lande und soll — leider! —
-noch9 graus6cmer und blutgieriger sein, als die Tuaregs es
-für gewöhnlich sind, — eine Lahore Bestie in Menschengestalt,
-dazu berückend schön, schlau, wassengeübi und tapfer …«
+noch grausamer und blutgieriger sein, als die Tuaregs es
+für gewöhnlich sind, — eine wahre Bestie in Menschengestalt,
+dazu berückend schön, schlau, waffengeübt und tapfer …«
 
 Ah — da hätte man die Gesichter der Bößlers sehen
 sollen …!!
@@ -875,20 +874,20 @@ sollen …!!
 
 Und — sie schauten sich trübe an …
 
-Waren wie die Gerber, denen die Felle weggeschvommen
+Waren wie die Gerber, denen die Felle weggeschwommen
 sind …
 
 Genau so …!!
 
 Ich ahnte: sie hatten wohl gehofft, von der Sultanin
-Millionen zu ergaunern — irgendwie! Und nun diese Ende
-Täuschung, diese Gefahren für jeden, der sich nach Castle
-wagte …
+Millionen zu ergaunern — irgendwie! Und nun diese
+Enttäuschung, diese Gefahren für jeden, der sich nach Gagho
+wagte …!
 
 Ich — ahnte im übrigen daneben! Die Sache war ganz,
 ganz anders,
 
-*Wie* sie war, erfahren wir erst später.
+*Wie* sie war, erfuhren wir erst später.
 
 <@pagebreak/>
 
@@ -993,7 +992,7 @@ Woche überspringen.
 Wir drei aus tadellosen Reitdromedaren waren Platz
 vorwärt8ge!Sinnen, hatten den unnchsunden, sieberschwanne-ren
 Külstenstrich bald hinter uns, ebenso die weit langsamere
-Fselkarawane, deren Besitzer, ein Mauer, den beiden Bößlers
+Eselkarawane, deren Besitzer, ein Mauer, den beiden Bößlers
 gestattet hatte, sich ihm anzuschließen,
 
 Jenseits fruchtbare, dicht besiedelte Gebiete, kann Lieber
@@ -1362,7 +1361,7 @@ eroberten …
 
 gegangen also! Gesungen von den wilden Reitern, die
 noch nie den Franzosen als Herrn anerkannt haben, vor
-denen selbst die besten Afrikasorscer so wenig zu sagen
+denen selbst die besten Afrikaforscher so wenig zu sagen
 wissen, weil kein Tunarcqasstuamm Fremde bei sich duldet,
 
 gegangen — und … — welchem Lose entgegen?! Dem
@@ -1601,7 +1600,7 @@ Bericht …
 Die Gaqghos8 hatten den Raub ihrer Sultana sollen
 erfahren, als die Warangi dies vermuten Normalen, Bureau
 auch das Fenster der Sultana gefunden, sie befreit und sofort
-eine Abteilung Winter dem Scheich der Warangi drein-geschickt,
+eine Abteilung Winter dem Scheich der Warangi dreingeschickt,
 der mit zwanzig gestern den Stunußenbäündler nach
 Badumba begleitet hatte …
 
@@ -1827,7 +1826,7 @@ Schätzung es blitzschnell …
 
 Und — nur ein Tausthieb Haralds rettete hier Anita
 Kurtor vor sicherem Tode, ein Hieb, der die Waffe ablenkte,
-daß sie nur vom Schläsenhaar des Weibes eine der losen
+daß sie nur vom Schläfenhaar des Weibes eine der losen
 Strähnen abwärts …
 
 »Dalimbt,« rief Harald, »laß diese beiden wieder
@@ -2532,7 +2531,7 @@ nach Deutschland …! —
 Die gefesselten Verbreck’er schwiegen …
 
 Nur Perigord, der Sirmtßenhändler, rief gellend —
-nd in seiner Stimme klangen Frigbheit, Niedertracht,
+und in seiner Stimme klangen Frigbheit, Niedertracht,
 Verrat:
 
 »Schenken Sie mir die Freiheit, und ich will Ihnen
