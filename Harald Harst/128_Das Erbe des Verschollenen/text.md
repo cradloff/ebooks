@@ -896,28 +896,28 @@ ganz anders,
 
 Ohne Zweifel waren Anita Kurtor und Erwin von
 Bößler Verbrecher großen Stils. Sie hatten fraglos schon
-auf ihren Raubzügen einen großen Teil unseres Geballt
-abgeklappert, besaßen jene selbstsicheren internationalen Umgangsformen,
-die man nur in der Praxis sich aneignet, und
+auf ihren Raubzügen einen großen Teil unseres Erdballs
+abgeklappert, besaßen jene selbstsicheren internationalen
+Umgangsformen, die man nur in der Praxis sich aneignet, und
 hatten das Gewerbe als Falschspieler in Berlin nur so
 nebenbei betrieben.
 
 Für den holländischen Kaufmann van Haargen, und
 das war kein anderer als Freund Harald, langten in diesen
-Tagen zwei hinstierte Depeschen aus Amsterdam an, besser
+Tagen zwei chiffrierte Depeschen aus Amsterdam an, besser
 Über Amsterdam, denn Kriminalkommissar Bechert hatte sie
 nur aus Vorsicht von Amsterdam befördern lassen.
 
 Wer Fritz Bechert ist, weiß der Leser. Unser Intimus,
 der uns immer wieder hilfreich beispringt, wenn Ermittlungen
-zu erledigen sind, die uns selbst allzu lange aushalten
+zu erledigen sind, die uns selbst allzu lange aufhalten
 würden.
 
 Der Text der ersten Depesche lautete:
 
 > »Der Steuermann der Kordelia hieß Viktor Jester.
-Seine Frau war eine geborene Kurtor aus Hamburg. las
-Töchterchen des Ehepaares führte die Vornamen Mabel Mund
+Seine Frau war eine geborene Kurtor aus Hamburg. Das
+Töchterchen des Ehepaares führte die Vornamen Mabel Anni
 Margarete. Gruß Bechert.«
 
 Die zweite:
@@ -929,41 +929,41 @@ bestraft — Anita Kurtor, früher Stewardeß beim Lloyd,
 ist eine Nichte der Frau des Steuermanns Jester und mehrfach
 vorbestraft, darunter wegen Diamantendiebstahls mit
 zwei Jahren Gefängnis. — Bitte Bößler und Kurtor wegen
-Ermordung des Kapitäns baldigst verhassten zu lassen. —
+Ermordung des Kapitäns baldigst verhaften zu lassen. —
 Gruß Bechert.«
 
-Als Harald mir den dechissrierten Text dieser Telegramme
+Als Harald mir den dechiffrierten Text dieser Telegramme
 zum Lesen hinreichte, sagte er sehr zufrieden:
 
-»So, nun wissen; wir ganz genau, mit wem wir es zu
+»So, nun wissen wir ganz genau, mit wem wir es zu
 tun haben und wie das Paar gerade auf Kapitän Gottlieb
 Joost aufmerksam geworden ist.«
 
 »Leider aber nicht, was die beiden für ein Interesse an
 Mabel Jester, der jetzigen Sultanin von Gagho, haben …«
 
-»noch das werden wir schon herausbekommen. Morgen
-frütb brechen die beiden übrigens zu ihrem Ritt ins Innere
-auf. Sie schließen ein einer Karawane an, die nach der
-steht Badumba am oberen Senegal gebt. Wir werden
-ihnen folgen, der Karawane ausL2biegen und ihnen nach
-Badumba voroaus&eilen. Ich besorge uns noch heute Reit-kapiele
-und einen führen.«
+»Auch das werden wir schon herausbekommen. Morgen
+früh brechen die beiden übrigens zu ihrem Ritt ins Innere
+auf. Sie schließen sich einer Karawane an, die nach der
+Stadt Badumba am oberen Senegal geht. Wir werden
+ihnen folgen, der Karawane ausbiegen und ihnen nach
+Badumba vorauseilen. Ich besorge uns noch heute Reitkamele
+und einen Führer.«
 
 Und das erklärte er mit einer Selbstverständlichkeit, als
 handelte es sich um einen Ritt durch den Tiergarten in
 Berlin …
 
-Diese Euch:yitverständlichkeit hatte freilich ihre Berechtigung.
-Wer wie wir die Sandwüsten Südarabiens durch
-streift bot, wer wie wir in der indischen Thar-Wüste Verbrecher
+Diese Selbstverständlichkeit hatte freilich ihre Berechtigung.
+Wer wie wir die Sandwüsten Südarabiens durchstreift
+hat, wer wie wir in der indischen Thar-Wüste Verbrecher
 gejagt hat, der findet an einer wochenlangen Reise
 hoch zu Kamel nichts Besonderes. —
 
 Und an diesem Abend war’s denn auch, daß das Ehepaar
-Dosis von uns überaus herzlich verabschiedete, wobei Zugkraft
+sich von uns überaus herzlich verabschiedete, wobei Harald
 betonte, daß auch wir zwei holländische Faktoreien in
-der Nähe von Badvumba besuchen wollten und daß es mitten
+der Nähe von Badumba besuchen wollten und daß es mithin
 nicht ausgeschlossen, ob wir nicht nochmals zusammentrafen.
 —
 
@@ -973,82 +973,82 @@ sich dann bei uns der Führer, den einer der Wiener Herren
 uns warm empfohlen hatte. Es war ein Neger vom Stamm
 der Fulbo, ein breitschultriger kleiner Kerl mit Affenarmen
 und Gorillagesicht. Er radebrechte so ziemlich alle Sprachen,
-und wenn sein Deutsch sich mangelhaft war, so konnte er
-sich doch imimerhin auch in unserer Mititersprache mit uns
-verständigen. Wir Zuteilen uns natürlich, diesem Gurma
-gegenüber die Deutschen zu spielen und benutzten im verstehe
+und wenn sein Deutsch auch mangelhaft war, so konnte er
+sich doch immerhin auch in unserer Muttersprache mit uns
+verständigen. Wir hüteten uns natürlich, diesem *Gurma*
+gegenüber die Deutschen zu spielen und benutzten im Verkehr
 mit ihm stets das Englische,
 
-Über Guürma gibt es vor allerhand zu sagen. Wir
-haften ja bereits so manchen urkomischen Reisebegleiter gehabt.
+Über Gurma gibt es noch allerhand zu sagen. Wir
+hatten ja bereits so manchen urkomischen Reisebegleiter gehabt.
 Aber dieser Gurma stach doch alle aus. Dabei war
 er treu, zuverlässig, schloß mich sehr bald in sein Herz mit
 rührender Biederkeit fest ein und hatte vor Harald einen
 ungeheuren Respekt, —
 
-Ab will nun hier aberntals einen Zeitraum von einer
+Ich will nun hier abermals einen Zeitraum von einer
 Woche überspringen.
 
-Wir drei aus tadellosen Reitdromedaren waren Platz
-vorwärt8ge!Sinnen, hatten den unnchsunden, sieberschwanne-ren
-Külstenstrich bald hinter uns, ebenso die weit langsamere
-Eselkarawane, deren Besitzer, ein Mauer, den beiden Bößlers
+Wir drei auf tadellosen Reitdromedaren waren rasch
+vorwärtsgekommen, hatten den ungesunden, fieberschwangeren
+Küstenstrich bald hinter uns, ebenso die weit langsamere
+Eselkarawane, deren Besitzer, ein Maure, den beiden Bößlers
 gestattet hatte, sich ihm anzuschließen,
 
-Jenseits fruchtbare, dicht besiedelte Gebiete, kann Lieber
-euch; je Einöden hatten wir passiert, waren zahlloser düster.
-und Antilvopenherden aufrichtig geworden und hatten Los
+Äußerst fruchtbare, dicht besiedelte Gebiete, dann wieder
+endlose Einöden hatten wir passiert, waren zahlloser Büffel\-
+und Antilopenherden ansichtig geworden und hatten doch
 stets mit kleineres Wild für unsere Mahlzeiten geschossen.
-Die beiden Mauserbüchsen, die uns die Wiener Herren Stilleben,
+Die beiden Mauserbüchsen, die uns die Wiener Herren geliehen,
 bewährten sich trefflich. Auch Gurma war kein Übler
 Schütze. Nur mit seiner Tapferkeit haperte es. Als wir
 einmal nachts auf unserem Lagerplatz von einem Trupp
-von Wildschweinen regelrecht überlassen wurden, flüchtete
-Gurma affenartig flink aus den nächsten Baum und Überließ
-es uns beiden, die nicht ungefährlichen sprechen Borstentiere
+von Wildschweinen regelrecht überfallen wurden, flüchtete
+Gurma affenartig flink auf den nächsten Baum und Überließ
+es uns beiden, die nicht ungefährlichen frechen Borstentiere
 durch Feuerbrände zu vertreiben.
 
 So näherten wir uns denn schließlich der Negerstadt
 Badumba. Leider verbietet es mir hier der knappe Raum,
 <@pagebreak/>
-diesen interessanten Handel3platß eingehender zu schildern.
+diesen interessanten Handelsplatz eingehender zu schildern.
 Wir fanden die Bevölkerung, die stark mit Arabern vermischt
-ist, in heller Aufregung. E23 machte ganz den Eindruck, als
-8ob ein Volksfest gefeiert würde. Die meisten Männer waren
-—« — betrunken, waren voll des berauscrchcnden Ncgerbieres,
-des Monaten, eines … gelöst, das für eine ECuropäer-zunge
+ist, in heller Aufregung. Es machte ganz den Eindruck, als
+ob ein Volksfest gefeiert würde. Die meisten Männer waren
+— — betrunken, waren voll des berauschenden Negerbieres,
+des Manossu, eines … Gesöffs, das für eine Europäerzunge
 wie ein Gemisch von Petroleum, Wagenschmiere und
-leise schmeckt.
+Seife schmeckt.
 
-Unser Gurma führte uns sofort zu einem seiner - zahlreichen
-Bekannten, der uns dann eine Vorratk8hütte aus
+Unser Gurma führte uns sofort zu einem seiner zahlreichen
+Bekannten, der uns dann eine Vorratshütte aus
 Lehm in Bienenkorbform als Quartier überließ, wo wir
-es uns schnell behaglich) mochten.
+es uns schnell behaglich machten.
 
 Gurma, der Proviant einkaufen sollte, kehrte erst gegen
 Abend zurück — natürlich betrunken!
 
-Und das er uns dann lallend mitteilte, war so überaus
-Prächtig, daß die kommende Nacht eine der aufregendsten
+Und was er uns dann lallend mitteilte, war so überaus
+wichtig, daß die kommende Nacht eine der aufregendsten
 meines Lebens wurde.
 
-Fischer der Anlaß der allgemeinen Bekneiptheit in
-Baduriba: die Sultanin von Gagho, die gefürchtete Karawanenplünderin,
+Zunächst der Anlaß der allgemeinen Bekneiptheit in
+Badumba: die Sultanin von Gagho, die gefürchtete Karawanenplünderin,
 war von feindlichen Beduinen bei der Jagd
-gegenübersaßen und geraubt worden! erst gestern! Und heute
+überfallen und geraubt worden! erst gestern! Und heute
 früh war diese Freudenbotschaft mit Hilfe der Negertelegraphie,
 der riesigen Signaltrommeln, von Dorf zu
 Dorf weitergegeben worden — vom Rande der nahen
 Wüste Sahara bis hier nach Badumba! Und da hatte denn
 die ganze Bevölkerung ein wahrer Freudentaumel ergriffen.
 Da hatte man die Erdlöcher, in denen die Tongefäße mit
-Monaten gärten, geöffnet und … den Tod der weißen
+Manossu gärten, geöffnet und … den Tod der weißen
 Sultana gefeiert! Denn daß die Beduinen, die genau so
 Todfeinde der Tuaregs waren wie die Neger, die Sultana
-ie hatten, unterlag für niemanden hier dem’ geringsten
+erschossen hatten, unterlag für niemanden hier dem geringsten
 Zweifel.
 
-Das war des Bezechten Gurma erste Botschaft.
+Das war des bezechten Gurma erste Botschaft.
 
 Dann die zweite: er war Erwin von Bößler begegnet
 — hier in den engen Gassen der Negerstadt, und Bößler
@@ -1058,18 +1058,17 @@ zu erkennen gewesen …!! —
 
 Als wir es ebenfalls durch viele Zwischenfragen aus
 dem lallenden Gurma herausgeholt hatten, da war Harald,
-yvaichdem er mir einen Wink gegeben, vor die Lehmhiütte ge
-stehen.
+nachdem er mir einen Wink gegeben, vor die Lehmhütte getreten.
 
 Ich folgte ihm. Draußen war es bereits dunkel. Über
-den Hütten der Negers! ins lag der rötliche Schein zahllosen
+den Hütten der Negerstadt lag der rötliche Schein zahlloser
 Feuer, die in den schmalen schmutzigen Gassen vor den Lehmwohnungen
 brannten.
 
-hier als dem Hofe unseres Mittel blähten Tiefe,
-moderner Ziegen in weiten Umzäunungen. Hier verpestete
+Hier auf dem Hofe unseres Wirtes blökten Schafe,
+meckerten Ziegen in weiten Umzäunungen. Hier verpestete
 der Gestank aus den Tiergehegen die Luft, und hinzu kamen
-noch die pestilenzialischen Wüste des Abfallberges, der zu
+noch die pestilenzialischen Düfte des Abfallberges, der zu
 jeder Behausung genau so in Badumba gehört, wie der
 Düngerhaufen bei einem deutschen Bauern.
 
@@ -1078,16 +1077,16 @@ sagte Harald leise zu mir:
 
 »Die Bößlers müssen die Karawane sehr bald verlassen
 haben. Sie sind offenbar allein vorausgeritten. Gurma ist
-leider nicht fähig, uns irgendwie zu besten, das Quartier bei
+leider nicht fähig, uns irgendwie zu helfen, das Quartier der
 beiden zu finden. Nehmen wir also unsere Beduinenmäntel
-um, sieben wir die Kapuzen tief in die Gesichter und schlendern
-wir durch die Gassen. so naß Los Paar aufstöbern
-Ich imache mir so meine besonderen standen über den Raub
-der Fassung.«
+um, ziehen wir die Kapuzen tief in die Gesichter und schlendern
+wir durch die Gassen. Ich muß das Paar aufstöbern.
+Ich mache mir so meine besonderen Gedanken über den Raub
+der Sultana.«
 
 Und als er dies sagte, ging auch mir ein Licht auf …
 
-»Ah — Du ahntest, daß die beiden dabei ihre Hände
+»Ah — Du glaubst, daß die beiden dabei ihre Hände
 mit im Spiele haben?« fragte ich hastig.
 
 »Vielleicht … Zuzutrauen ist ihnen alles. Wenn
@@ -1097,85 +1096,85 @@ Vorwärts nun …« —
 
 Ein Gang durch die abendliche Negerstadt …
 
-Seiten, viele Seiten könnte ich Kisten mit interessanten
-Euch obuctungen, mit der Schilderung dieses Volkslebens, das
+Seiten, viele Seiten könnte ich füllen mit interessanten
+Beobachtungen, mit der Schilderung dieses Volkslebens, das
 <@pagebreak/>
-dem Europäer in all seinen Einzelheiten die Seele der
-Negers so getreulich offsenlart …
+dem Europäer in all seinen Einzelheiten die Seele des
+Negers so getreulich offenbart …
 
 Und von Gasse zu Gasse, von Feuer zu Feuer wanderten
-wir — ganz in der stolzen Haltung der Beduinen, der stehen
+wir — ganz in der stolzen Haltung der Beduinen, der freien
 Söhne der Wüste, die keinen Herrn über sich anerkennen.
 
-Was will es besagen, daß gz Zeiüegaumbien Frankreichs
-Kolonie ist, daß hier angeblich der Curopäxr Vorsicht
-Von dieser Herrschaft me: ’! man schon in Badumba spott-wenig,
-und je mehr nach Zi »1iden, der Sahara zu, wird dieser
+Was will es besagen, daß ganz Senegambien Frankreichs
+Kolonie ist, daß hier angeblich der Europäer herrscht:
+Von dieser Herrschaft merkt man schon in Badumba spottwenig,
+und je mehr nach Norden, der Sahara zu, wird dieser
 Einfluß immer geringer.
 
 Gewiß — hin und wieder trafen wir wohl einen farbigen
 französischen Soldaten. Doch der kümmerte sich weder
-um die harmlosen Prücelszenen zwischen den Trunkenen
-noch) um die maurischen Studien, die den halb unzurcehiungs-fähigen
-Schränken den by kam aus den Flußablagerungen
-herausgewaschenen Goldsiwmub abkauften und dabei … betrogen.
+um die harmlosen Prügelszenen zwischen den Trunkenen
+noch um die maurischen Händler, die den halb unzurechnungsfähigen
+Schwarzen den mühsam aus den Flußablagerungen
+herausgewaschenen Goldstaub abkauften und dabei … betrogen.
 
 Überall in den Gassen ein ungeheurer Lärm … Rasseln
-von kleinen Trommeln, Quieken von Negerflöten, da-Poltern
-die Töne europäischer Ziehhaumonikas und einer
-Stempels …
+von kleinen Trommeln, Quieken von Negerflöten, dazwischen
+die Töne europäischer Ziehharmonikas und einer
+Trompete …
 
 Überall eine kindliche Ausgelassenheit, die so recht bewies,
 wie verhaßt die Sultana von Gagho gewesen sein
 mußte.
 
-Und zwischen dem trunkenen Wölkchen Beduinen - echte
-Beduinen, unnahbar, kalt, mit blitzenden verachtuna23vollen
-Augen in tiefbraunen Gejicmnern …
+Und zwischen dem trunkenen Völkchen Beduinen — echte
+Beduinen, unnahbar, kalt, mit blitzenden verachtungsvollen
+Augen in tiefbraunen Gesichtern …
 
-Und wir, die unechten Beduinen, stets umbherjpätzend,
-mit einem Blick alles übergehend — und doch nicht Winkend,
+Und wir, die unechten Beduinen, stets umherspähend,
+mit einem Blick alles übersehend — und doch nicht findend,
 was wir suchten.
 
-Bis Harald einen älteren nüchternen Neger nach den!
+Bis Harald einen älteren nüchternen Neger nach dem
 Lager der Beduinen fragte …
 
-Sir Güter Gedanke, denn daß die freien Wüstensöhnge
-»ich! hier inmitten der stinkenden Lehmhütten für die Zeit
-drei Besuches der Stadt hausen würden, war eigentlich
-Mk poständlich.
+Ein guter Gedanke, denn daß die freien Wüstensöhne
+nicht hier inmitten der stinkenden Lehmhütten für die Zeit
+ihres Besuches der Stadt hausen würden, war eigentlich
+selbstverständlich.
 
 <@pagebreak/>
-Der alte grauköpfsige Nigger, den Harald in französischer
-Sprache angeredet hatte, gab Auskunfst, so gut er
+Der alte grauköpfige Nigger, den Harald in französischer
+Sprache angeredet hatte, gab Auskunft, so gut er
 konnte. Deutete nach Norden und bemühte sich, uns klarzumachen,
-daß die Beduinen dem Stamme der Warangi a.:gehörten,
-hier stets ihre Einkäufe besorgten und ihre Ta1in1ch-geschäfte
-abiwickelten und dann immer in einem Tale unord-wärts
+daß die Beduinen dem Stamme der Warangi angehörten,
+hier stets ihre Einkäufe besorgten und ihre Tauschgeschäfte
+abwickelten und dann immer in einem Tale nordwärts
 ihre Zelte errichteten.
 
 Eine Münze belohnte den Alten, und wir beide kehrten
 nun schleunigst nach unserer Hütte zurück, wo Gurma wie
-ein Toter seinen Negerbierrausch aufschloß.
+ein Toter seinen Negerbierrausch ausschlief.
 
 Wir weckten ihn, indem Harald ihm zwei Kürbisgefäße
 voll Wasser über den Schädel goß.
 
 Gurma nahm das nicht weiter übel. Bewundernswert
 schnell sattelte er unsere Reittiere, und gegen elf Uhr führten
-wir die Dromedare in oller Stille zum Ufer des Senegalflusses
-hinab, mieden die von sranzösislchen Pionieren gebaute
-Holzbrücke und benutzten eine Furt, dieunjerem Gurma
+wir die Dromedare in aller Stille zum Ufer des Senegalflusses
+hinab, mieden die von französischen Pionieren gebaute
+Holzbrücke und benutzten eine Furt, die unserem Gurma
 gut bekannt war.
 
-Als der wieder nüchterne Allertpeltökerl von Gurma
+Als der wieder nüchterne Allerweltskerl von Gurma
 nun jedoch hörte, daß wir das Lager der Warangi-Abteilung
-aussuchen wollten, machte er ein fürchterliches Gesicht, hielt
-sein Dromedar an, rollte im Mondsjcvein die Augen wie ein
-beißender Hammel und grunzte:
+aufsuchen wollten, machte er ein fürchterliches Gesicht, hielt
+sein Dromedar an, rollte im Mondschein die Augen wie ein
+sterbender Hammel und grunzte:
 
 »O Massa Harst, Warangi schlimme Kerle … Sind nur
-in Badumba so zahm … Sind Räuber und Diebe die die
+in Badumba so zahm … Sind Räuber und Diebe wie die
 bösen Targi (Targi: Mehrzahl von Tuareg) … Massa
 Harst, besser umkehren … Wenn Massa Harst denken, daß
 Massa Bößler dort bei Warangi, so bestimmt das falsch
@@ -1193,14 +1192,14 @@ es galt, seiner Feigheit ein Mäntelchen umzuhängen.
 
 <@pagebreak/>
 Und nach einer Viertelstunde erreichten wir eine steinige
-öde Hochebene, deren Vorbringt von einen Urwald und
+öde Hochebene, deren Nordrand von einem Urwald und
 Sümpfen begrenzt wurde. Hier zeigte Gurma auf einen
-im Mondlicht: deutlich zu erkennenden Hügelzug und meinte:
-»Dort Warangi hinunter lagern … -.- Gurma jetzt hier bleiben.
+im Mondlicht deutlich zu erkennenden Hügelzug und meinte:
+»Dort Warangi immer lagern … — Gurma jetzt hier bleiben.
 Massas können zu Fuß hinüber.«
 
 Wir stiegen ab, nahmen unsere Mauserbüchsen und
-wanderten den seinen Hügeln zu.
+wanderten den fernen Hügeln zu.
 
 <h2>5. Kapitel.</h2>
 <h3>Die Gagho-Tuaregs.</h3>
@@ -1209,28 +1208,28 @@ Beduinenlager …
 
 Erinnerungen für uns an Südarabien …
 
-Genau dasselbe Bild; braune Zelte, Pferde, Kamele,
-labende Feuer, stolze Gestalten im! Kreise um die Feuer
+Genau dasselbe Bild: braune Zelte, Pferde, Kamele,
+flackernde Feuer, stolze Gestalten im Kreise um die Feuer
 herum.
 
-Und ein felsiges, breites Tal mit wenigen nahmen und
-einigen Reichem von Dornenbüschen …
+Und ein felsiges, breites Tal mit wenigen Palmen und
+einigen Reihen von Dornenbüschen …
 
-Darüber der auösgesnrnte Nachthimmel, darüber des
-Mannes Silber; Erbe und milchige Dämmerung …
+Darüber der ausgestirnte Nachthimmel, darüber des
+Mondes Silberscheibe und milchige Dämmerung …
 
 und wir beide die Zelte zählend, die Männer, die
-feinere …
+Reittiere …
 
 Acht Zelte, neunzehn Warangi, zehn Dromedare, zwanzig
 Pferde …
 
 Wir beide halb über dem Lager auf einem Felsen
-Rezept, die Feinzgläser an den Augen …
+liegend, die Ferngläser an den Augen …
 
 Und — nichts von denen, die wir suchten, die in der
 Hafenstadt Karabare stets betont hatten, daß sie nur zum
-Vergnügen reisten, mir Land und Leute kennenlernen wollten.
+Vergnügen reisten, nur Land und Leute kennenlernen wollten.
 
 <@pagebreak/>
 »Schade!« flüsterte ich. »Den Ritt hierher hätten wir
@@ -1241,8 +1240,8 @@ Harald schwieg erst …
 Drehte den Kopf mehr nach rechts — mehr nach dem
 äußersten Winkel des Tales zu …
 
-Und — wer;: Blick, mein Glas folgte der Bewegung.
-Ich saß dort im Dunkel der Schatten der engen Felswände
+Und — mein Blick, mein Glas folgte der Bewegung.
+Ich sah dort im Dunkel der Schatten der engen Felswände
 ein helles Dreieck: ein innen erleuchtetes Zelt!
 
 Sah noch mehr …
@@ -1250,20 +1249,20 @@ Sah noch mehr …
 Neben dem Zelte weideten Tiere spärliche Gräser ab:
 Strauße — Riesenstrauße … Wohl zwanzig Stück …
 
-»Hinüber 1« raunte Harald mir zu.
+»Hinüber!« raunte Harald mir zu.
 
 Und wir krochen vorwärts …
 
-Erreichten den Rand der einen Felswand, hatten man
-das große erleuchtete Leinwandzelt und die mächtigen angegriffen
-Vögel acht Meter unter uns …
+Erreichten den Rand der einen Felswand, hatten nun
+das große erleuchtete Leinwandzelt und die mächtigen
+angeseilten Vögel acht Meter unter uns …
 
-Konnten jetzt auch an den aus das Zeltleinen fallenden
+Konnten jetzt auch an den auf das Zeltleinen fallenden
 Schatten sechs Leute unterscheiden …
 
-Darunter — ein Weib — eine Frau … — mit flachen
-breitrandigen Filzhut: Anita, Bößlers Geliebte, die — Mär-«
-Inderin des Kapitäns, des Verschollenen …!
+Darunter — ein Weib — eine Frau … — mit flachem
+breitrandigen Filzhut: Anita, Bößlers Geliebte, die —
+Mörderin des Kapitäns, des Verschollenen …!
 
 »Endlich!« atmete Harald auf. »Wir haben sie … —
 Warte jetzt hier. Ich muß näher an das Zelt heran —
@@ -1275,7 +1274,7 @@ Und er verließ mich.
 
 Ich wäre nur zu gern mit von der Partie gewesen.
 Aber ich sah ein, daß, wenn Harald etwas zustieß, noch
-immer die Möglichkeit gegeben war, daß ich ihn heraus hieb.
+immer die Möglichkeit gegeben war, daß ich ihn heraushieb.
 Wurden dagegen wir zwei gleichzeitig abgefaßt, so — —
 waren wir vielleicht verloren.
 
@@ -1287,57 +1286,57 @@ vermag.
 <@pagebreak/>
 Jedoch es ereignete sich nichts. Kaum zwanzig Minuten
 mochte Harald hinter dem Zelte gelegen haben, als
-er für mich wieder sichtbar wurde, dieser in eine schluchtartige
-Spalte hineinstahl und dann sehr bald wieder neben
+er für mich wieder sichtbar wurde, tiefer in eine schluchtartige
+Spalte hineinkroch und dann sehr bald wieder neben
 mir lag.
 
-»Wir haben Gllüick gehabt,« berichtete er eilends. »Vor!
-im Zelte liefen die Bößlers, dann ein Straußenhändler
+»Wir haben Glück gehabt,« berichtete er eilends. »Dort
+im Zelte stecken die Bößlers, dann ein Straußenhändler
 namens Perigord und vier Beduinen. Die Verhandlungen
 drehen sich um die Auslieferung der Sultana an die Bößlers.
-CZ stimmt nicht, daß die Bößlers die Suliana durch
+Es stimmt nicht, daß die Bößlers die Sultana durch
 die Warangi abfangen ließen. Der Straußenhändler Perigord
 hat die Tiere bei den Tuaregs gekauft und hat dann
-den Warangi verraten, daß die Suliana nur von sechs Mann
-begleitet in den Baisiku-Bergen einen Löwen schlichen wollte.
+den Warangi verraten, daß die Sultana nur von sechs Mann
+begleitet in den Bassiku-Bergen einen Löwen schießen wollte.
 Die Warangi benutzten die gute Gelegenheit und haben die
-- Begleiter der Stiftung abgeschossen, sie selbst aber nach einer
-versteckten Oase gebracht. Die Bößlers sind durch den G&
-schäsftsteilhaber Perigord mit diesen Ereignissen bekannt geworden
+Begleiter der Sultana abgeschossen, sie selbst aber nach einer
+versteckten Oase gebracht. Die Bößlers sind durch den
+Geschäftsteilhaber Perigord mit diesen Ereignissen bekannt geworden
 und haben nun wirklich den Scheich der Warangi
 durch allerlei Versprechungen zunächst dazu bewogen, sie
-nach jener Oase mitzunehmen. Die Warangi! wollen noch
-Monduntergang, also etwa um zwei Uhr morgens, aus
-brechen. Wir haben also noch Zeit. Entfernen wir uns
+nach jener Oase mitzunehmen. Die Warangi wollen nach
+Monduntergang, also etwa um zwei Uhr morgens, aufbrechen.
+Wir haben also noch Zeit. Entfernen wir uns
 vorsichtig, holen wir Gurma und unsere Tiere und reiten
 wir hinter den Warangi drein.«
 
 All das wieder so selbstverständlich — so ohne jede
 Wichtigkeit scheinbar …
 
-Und — wir kehrten um, Wir kamen an die Stelle, wo
-wir Gurma zurückgelassen Schatten zwischen mächtigen Felsbrocken
+Und — wir kehrten um. Wir kamen an die Stelle, wo
+wir Gurma zurückgelassen hatten zwischen mächtigen Felsbrocken
 und Buschwerk auf einem geradezu idealen Lagerplatz
 …
 
 Kein Gurma — keine Dromedare …
 
-Leer die Stierte …
+Leer die Stelle …
 
 Nein — nicht ganz leer …
 
-Harald bückte sich … Deutete auf € etwas, das selbst
+Harald bückte sich … Deutete auf etwas, das selbst
 <@pagebreak/>
-meine bebrillften Augen als frischen … Pferdemist erkannten
+meine bebrillten Augen als frischen … Pferdemist erkannten
 …
 
-»Not warm,« flüsterte Harald …
+»Noch warm,« flüsterte Harald …
 
 Richtete sich wieder auf …
 
 Nicht vollends …
 
-Lautlos wie weiße Geister waren h’nter den Steiner
+Lautlos wie weiße Geister waren hinter den Steinen
 Gestalten hervorgehuscht …
 
 Zwei Kolbenhiebe …
@@ -1348,38 +1347,38 @@ Und zwei Europäer, die lautlos umsanken …
 
 Wir … — —
 
-Und Stunden später in meinem müssen schmerzenden
-Hirn der erste klare Gedanke: daß mir die Augen verbinden
-waren, daß ich wie ein Bündel auf ein Dromedar gesärür:
-war, daß die heiße trockene Wüstenluft wie umwehte.
+Und Stunden später in meinem wüsten schmerzenden
+Hirn der erste klare Gedanke: daß mir die Augen verbunden
+waren, daß ich wie ein Bündel auf ein Dromedar geschnürt
+war, daß die heiße trockene Wüstenluft mich umwehte.
 
-uns weiter noch Gedanken an die letzten Vorgänge —
-an die ausstatten in verbrennen Mänteln mit Gesichtstüchern,
-wie mir die Tuaregs sich tragen, die intelligentesten
-Nachkommen jener Arahberscharen, die einst sogar Ssivbspanien
+und weiter noch Gedanken an die letzten Vorgänge —
+an die Gestalten in weißgrauen Mänteln mit Gesichtstüchern,
+wie nur die Tuaregs sie tragen, die intelligentesten
+Nachkommen jener Araberscharen, die einst sogar Südspanien
 eroberten …
 
-gegangen also! Gesungen von den wilden Reitern, die
+Gefangen also! Gefangen von den wilden Reitern, die
 noch nie den Franzosen als Herrn anerkannt haben, vor
 denen selbst die besten Afrikaforscher so wenig zu sagen
-wissen, weil kein Tunarcqasstuamm Fremde bei sich duldet,
+wissen, weil kein Tuaregstamm Fremde bei sich duldet,
 
-gegangen — und … — welchem Lose entgegen?! Dem
-Tode?! Der Efklavereik!
+Gefangen — und … — welchem Lose entgegen?! Dem
+Tode?! Der Sklaverei?!
 
 Denn das eine steht ja fest: die Tuaregs halten Sklaven,
 und unter diesen sind auch Weiße! Europäer, die
 nie mehr die Heimat wiedersehen, die nicht zu fliehen
-wagen, weil Flucht aussicht8lv ist …! —
+wagen, weil Flucht aussichtslos ist …! —
 
 Und so wurde ich denn weiter und weiter verschleppt
-— hinein in die Thronte der Sahara …
+— hinein in die Einöde der Sahara …
 
 Ich …
 
 Und — Harald?! war er bei mir? Lebte er noch?
 
-Ich hörte um mich her das Sätmmauben von Tierchen,
+Ich hörte um mich her das Schnauben von Pferden,
 das Knarren von Sätteln, gelegentlich Zurufe …
 
 <@pagebreak/>
@@ -1390,48 +1389,48 @@ Und weiter ging’s …
 Weiter …
 
 Durstend — hungernd — mit siedendem Hirn — mit
-brennender Htebwunde am Hinterkopfe …
+brennender Hiebwunde am Hinterkopfe …
 
 Übelkeit würgte in der Kehle. Wohltätige Ohnmacht
-Umging mich …
+Umfing mich …
 
 Stundenlang wieder …
 
-Bis ein gellender schriller Schrei mich aus liegen Hin.
-dämmern wachrüttelte … Ein Schrei, den niemand vergißt,
+Bis ein gellender schriller Schrei mich aus tiefem Hindämmern
+wachrüttelte … Ein Schrei, den niemand vergißt,
 der ihn je gehört …
 
-Mein Kopf Ruck empor. Ich reiße die geschwollenen
+Mein Kopf ruckt empor. Ich reiße die geschwollenen
 Lider auf …
 
 Und stehe an einer Palme …
 
 Gefesselt — aufrecht …
 
-Ecke mit umflorten Blick einen Tuareg mit kurzem,
-gleiten, krummem Schwert, dem gefürchteten Dschigalla der
-Lord …
+Sehe mit umflortem Blick einen Tuareg mit kurzem,
+breitem, krummem Schwert, dem gefürchteten Dschigalla der
+Targi …
 
-Ecke vor mir an den Bäumen sechH3s5 Beduinen …
+Sehe vor mir an den Bäumen sechs Beduinen …
 
 Gefesselt … Und — — zwei — — ohne Kopf …
 
-So: das Dschigalla durch den Sonnenschein bitten …
+Sah das Dschigalla durch den Sonnenschein blitzen …
 
 Höre wieder den Todesschrei …
 
 Und ein dritter Kopf rollt in den Sand …
 
-wird — — wohltätige CObhumacht trägt mich abermals
+Und — — wohltätige Ohnmacht trägt mich abermals
 pfeilschnell in den schwarzen Abgrund tiefster Bewußtlosigkeit
-. —
+… — —
 
 *Das* brachte *mir* das Erbe des Verschollenen ein …
 
 Und weiter?!
 
-Weiter? Oh — ein Inder Lied beginnt mit dem
-aöweiten Teile …
+Weiter? Oh — ein ander Lied beginnt mit dem
+zweiten Teile …
 
 Ein Traum — — so glaubte ich …
 
@@ -1840,7 +1839,7 @@ Selbst Gunrma hatte sich entfernen müssen.
 
 Valsimbu, der Alte, war jetzt wie verwandelt. Ohne
 Zeugen, nur in unserer GesellsHhast, versuchte er es mäht
-mehr, den gestrengen Oberbonzen horauszubeißen und uns
+mehr, den gestrengen Oberbonzen herauszubeißen und uns
 als Sklaven zu behandeln.
 
 »Sprich, wandte er sich an kannst. »Was Blatt Du
@@ -2406,7 +2405,7 @@ Zimmer klarer hinter die Umrisse des Bergkegels hervor
 …
 
 Ein Steingebilde war’s von abenteuerlichen Form …
-Wie eine alte Burgruine … Eines jener Naturaebilde,
+Wie eine alte Burgruine … Eines jener Naturgebilde,
 vor denen man immer wieder staunend verweilt in den entlegenen
 Stunden der Vergnügten. Wir nicht mehr fremd.
 denn in der Thar-Wüste, in Südarabien hatte ich Ähnliches
@@ -2626,7 +2625,7 @@ und ihnen in den Rücken zu kommen … —
 
 Es gelang uns …
 
-Als Fährtensucher haben die Beduinen sich noch nie her-vorgetan.
+Als Fährtensucher haben die Beduinen sich noch nie hervorgetan.
 Und jetzt bei dem ungewissen Mondlicht konnten
 sie, zumal ihre Reittiere den Boden weithin zerstampfsten.
 <@pagebreak/>
@@ -2802,7 +2801,7 @@ Wieder eine Stunde später dann große Ratseversamm-fung
 der Gaghos unter stehen Himmel …
 
 die Sultana aus einem Stuhl aus Elfenbein, aus zwöl
-Clesantensioßzähnen …
+Elefantenstoßzähnen …
 
 Und wir dicht neben ihr: Ehrenplätze!
 
