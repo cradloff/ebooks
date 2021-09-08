@@ -1439,44 +1439,44 @@ Ein Traum — — so glaubte ich …
 <h1>Der Dornenkerker</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Deutsche lange.</h3>
+<h3>Deutsche Klänge.</h3>
 
 Traum … Traum …
 
-Weiche Töne umrauschten mich, benutzen auf zu gewaltigen
+Weiche Töne umrauschten mich, brausten auf zu gewaltigen
 Akkorden, zu einer Jubelhymne deutscher Musik …
 
 Ich — lauschte … konnte wieder denken … Wurde
 mir klar, daß ich nicht träumte, daß die Musik in nächster
-Ruhe erklang …
+Nähe erklang …
 
 Ein Harmonium, — und was da von Meisterhand gespielt
 wurde, war der Feuerzauber aus Wagners Walküre.
 
 Matt öffnete ich die Lider …
 
-Ein großes dämntriges Zelt …
+Ein großes dämmriges Zelt …
 
 Kostbar eingerichtet … Seidenvorhänge, Teppiche,
-goldene Geräte, obere Ruhebetten, mit Löwenfellen belegt.
+goldene Geräte, niedere Ruhebetten, mit Löwenfellen belegt.
 
-Und ich ohne Fesseln auf einem dieser Lager, 7ine gesuchte
+Und ich ohne Fesseln auf einem dieser Lager, eine feuchte
 Kompresse auf dem Kopf, — hinter mir offenbar jemand,
 der dauernd einen Fächer bewegte und durch den Luftzug
-das seichte Tuch kühl erhielt …
+das feuchte Tuch kühl erhielt …
 
 Vor mir an einem Harmonium ein Europäer … einen
 Verband am Hinterkopf:
 
 Harst — Harald Harst, — den Feuerzauber spielend!
 
-Und rechts der weite offene »Zelteingang — und draußen
+Und rechts der weite offene Zelteingang — und draußen
 dicht gedrängt Tuaregs mit Gesichtstüchern … mit schwarzen
-Augen über dem Unterrande der Tücher
+Augen über dem Unterrande der Tücher ...
 
 Nackte Kinder dazu … zu Dutzenden …
 
-Ganz hinten Weiber, völlig vernimmt …
+Ganz hinten Weiber, völlig vermummt …
 
 <@pagebreak/>
 Und — — Harald spielte … spielte …
@@ -1491,30 +1491,30 @@ Und mein Denken glitt rückwärts …
 
 Kinobilder erschienen — rollten ab: Heringsdorf, der
 Platz vor dem Kurhaus, der Kapitän und wir … Und
-dann der angebliche Baron … dann der erreichen da-sikevrde
+dann der angebliche Baron … dann der erstochen daliegende
 Gottlieb Joost … Die beiden Stromer … Das
 Armenhaus … Die Bibel, der Käfer … Das Auto, die
-Wioioniaver … Berlin …
+Motorräder … Berlin …
 
 Kinobilder …
 
-Und nun: Sahara — — Tuyaregzelt, Harmonium …!
+Und nun: Sahara — — Tuaregzelt, Harmonium …!
 
 Aber — dazwischen lag ja noch die eine Szene entsetzlichen
 Grauens … Der Todesschrei — der Henker, der den
-Beduinen mit krümmen Schwert die Köpfe herunterschlug!
+Beduinen mit krummen Schwert die Köpfe herunterschlug!
 
 Da — brach die Musik plötzlich ab …
 
 Und hinter einem der Seidenvorhänge eine klangvolle
-weibliche Staune in mäßigem Cnräalisch:
+weibliche Stimme in mäßigem Englisch:
 
 »Ich danke Ihnen, Mr. Harst … Sie werden mich
 diese Kunst lehren …«
 
-Und Harald — Theater hat und klar:
+Und Harald — ebenso laut und klar:
 
-»T18 wird nicht gut möglich sein, Sultana … Sie
+»Das wird nicht gut möglich sein, Sultana … Sie
 müssen dazu notwendig neben mir hier am Instrument
 sitzen.«
 
@@ -1523,21 +1523,21 @@ Schweigen …
 Dann wieder die Frau:
 
 »Nein, das darf ich nicht … Keinem Sklaven der
-Gaaghos war es je vergönnt, meine Gestalt zu schauen.«
-Und 169ch etwas fügte sie hinzu, in der Sprache der Tuaregs.
+Gaghos war es je vergönnt, meine Gestalt zu schauen.«
+Und noch etwas fügte sie hinzu, in der Sprache der Tuaregs.
 
-Da kamen Fürst, sechs Leute, trugen mich davon, führten
-Harald neben mir her ins Freie — durch die Zelist’dt der
-Gaghos - bis an den haunshohen Dornenwall, seiner. ich hier
-eine Balkentür und Minister uns in unseren … allerlei,
-schlichen uns allein. —
+Da kamen fünf, sechs Leute, trugen mich davon, führten
+Harald neben mir her ins Freie — durch die Zeltstadt der
+Gaghos -- bis an den haushohen Dornenwall, öffneten hier
+eine Balkentür und schafften uns in unseren … Kerker,
+ließen uns allein. —
 
 <@pagebreak/>
 Unser Kerker …
 
 Vorher noch ein Wort Über die Tuaregstädte. Man
 kann getrost den Ausdruck Stadt gebrauchen, denn so weitläufig
-wie diese Hunderte von Zelten hier in der Niejen-lichtung
+wie diese Hunderte von Zelten hier in der Riesenlichtung
 des Buschwaldes standen, bildeten sie in Wahrheit
 eine Stadt.
 
@@ -1546,15 +1546,15 @@ umgeben und liegen ganz versteckt in bewaldeten
 Hochtälern der zahlreichen Bergzüge der südlichen Sahara.
 
 Unser Kerker nun war nichts anderes als eine Ausbuchtung
-Briefes Walles, rings von Dornen umgeben, die
-Gauner zu senkrechten Hecken verschnitten waren.
+dieses Walles, rings von Dornen umgeben, die
+sauber zu senkrechten Hecken verschnitten waren.
 
-Auf diesem runden große, der vielleicht acht Meter
-Durchmesser hatte, stand sind von der Balkentür ein Zelt,
+Auf diesem runden Platze, der vielleicht acht Meter
+Durchmesser hatte, stand links von der Balkentür ein Zelt,
 vor dem ein lieber Bekannter hockte: Gurma, der Tapfere!
 
 Er saß an einem kleinen Feuer und drehte über den
-Flammen am eisernen Spieße ein — Hühnern …
+Flammen am eisernen Spieße ein — Hühnchen …
 
 Ich selbst stand aufrecht da, von Harald gestützt.
 
@@ -1583,39 +1583,39 @@ meinte:
 
 »So, lehne Dich nur an, mein Alter … Mache es Dir
 <@pagebreak/>
-bequem … Ich will Dir jetzt Kur; berichten, was zu noch
+bequem … Ich will Dir jetzt kurz berichten, was Du noch
 nicht weißt.«
 
-Wir war leidlich frisch zu Mute. Und - Hunger hatte
-im! Gurmas &Hühnchen Ausrede sehr appetitlich. Vom
-Kochen verstand er was. Vom Fressen noch wer:1!
+Mir war leidlich frisch zu Mute. Und -- Hunger hatte
+ich! Gurmas Hühnchen duftete sehr appetitlich. Vom
+Kochen verstand er was. Vom Fressen noch mehr!
 
 Harald bemerkte meinen sehnsüchtigen Blick …
 
-»Wir werden sofort Dasein … Gedulde Dich nur noch
+»Wir werden sofort tafeln … Gedulde Dich nur noch
 wenige Minuten …« — Und dann begann er seinen
 Bericht …
 
-Die Gaqghos8 hatten den Raub ihrer Sultana sollen
-erfahren, als die Warangi dies vermuten Normalen, Bureau
-auch das Fenster der Sultana gefunden, sie befreit und sofort
-eine Abteilung Winter dem Scheich der Warangi dreingeschickt,
-der mit zwanzig gestern den Stunußenbäündler nach
+Die Gaghos hatten den Raub ihrer Sultana schneller
+erfahren, als die Warangi dies vermuten konnten, hatten
+auch das Versteck der Sultana gefunden, sie befreit und sofort
+eine Abteilung hinter dem Scheich der Warangi dreingeschickt,
+der mit zwanzig Reitern den Straußenhändler nach
 Badumba begleitet hatte …
 
-»Ich nehme nun an, daß auch Bößler. Anita un« Verriegelt
-tot und,« schloß … ’rald seine knappen Mitteilungen.
-»gekrümmt weiß ich es nicht, da die Gaghos sehr sciqveigsam
+»Ich nehme nun an, daß auch Bößler, Anita und Perigord
+tot sind,« schloß Harald seine knappen Mitteilungen.
+»Bestimmt weiß ich es nicht, da die Gaghos sehr schweigsam
 sind. Uns beiden und Gurma hat nur der Umstand das
-Leben gerettet, daß wir das Lager der Lorgnons beschlichen
-haben, wobei wir von den zuschoß Verdachts: wurden, so
-daß diese Anrennen mußten, wir gehörten nicht zu den
-Freunden der Warangi. — Sultana — jetzt her mit dem
-sehen! Etwas eilig, schwarzen Freßsack!«
+Leben gerettet, daß wir das Lager der Warangi beschlichen
+haben, wobei wir von den Gaghos beobachtet wurden, so
+daß diese annehmen mußten, wir gehörten nicht zu den
+Freunden der Warangi. — Gurma — jetzt her mit dem
+Essen! Etwas eilig, schwarzer Freßsack!«
 
-Und Gurma stille ins Zelt, holte sauber geschnitzte
-Holzteller, holte Schüsseln zu? Ton gebrannt und. Staunen
-aus Aufbieten und der Rinde der Kuka-Frucht.
+Und Gurma flitzte ins Zelt, holte sauber geschnitzte
+Holzteller, holte Schüsseln aus Ton gebrannt und Kannen
+aus Kürbissen und der Rinde der Kuka-Frucht.
 
 Wir aßen, tranken …
 
@@ -1625,15 +1625,15 @@ Wächtern: drei, die draußen vor der Balkentür standen …
 Von der Dicke des Dornenwalles — mindesten acht
 Meter …
 
-Und daß die Tuüuoreg3 diese Palmenstämme stets abends
-begossen, darf«? sie gut gediehen …
+Und daß die Tuaregs diese Dornenstämme stets abends
+begossen, damit sie gut gediehen …
 
-Bis ich Schuld fragte:
+Bis ich Harald fragte:
 
-»zu hast die Sultan noch nicht gesehen?
+»Du hast die Sultana noch nicht gesehen?"
 
 <@pagebreak/>
-»Rein …«
+»Nein …«
 
 »Woher mögen die Gaghos das Harmonium haben?«
 
@@ -1642,14 +1642,14 @@ Bis ich Schuld fragte:
 »Und wie kamst Du dazu, das Instrument zu benutzen?«
 
 »Die Sultana wollte uns sehen. Wir wurden in ihr
-sei gebracht. Da sah ich das Harmonium, setzte mich und
+Zelt gebracht. Da sah ich das Harmonium, setzte mich und
 spielte.
 
 Pause …
 
 Gurma trug neue Holzteller herbei. Zweiter Gang:
 weiche Eier und (bitte nicht zu erschrecken, denn es schmeckt
-vorzüglich!) … und gebackene Heuschrecken, dazu Tuareg-hier
+vorzüglich!) … und gebackene Heuschrecken, dazu Tuaregbier
 das nicht viel besser war als das der Fulbo in Badumba.
 —
 
@@ -1658,29 +1658,29 @@ Haralds Mirakulum.
 
 Wir rauchten … Und ich fragte wieder:
 
-»Da! Dich irgend jemand ins Verhör genommen,
+»Hat Dich irgend jemand ins Verhör genommen,
 Harald?«
 
 »Natürlich. Einer der Schamanen, der Priester. Es
-schien der Oberbonze zu sein. Er sprach leidlich Englisch;
-scheint auch lesen zu können, wurde aber natürlich »As unseren
+schien der Oberbonze zu sein. Er sprach leidlich Englisch,
+scheint auch lesen zu können, wurde aber natürlich aus unseren
 Papieren nicht klug. Ich erklärte ihm, wer wir seien:
 Detektive! Es war nicht leicht, ihm diesen Beruf verständlich
 zu machen. Ich sagte, daß wir eine Verbrecherin verfolgen,
 die sich bis nach Senegambien geflüchtet hat. Die
 Sache ging aber offenbar über seinen Horizont. Nur eins
-war ihm interessant: daß wir Deutsche sind. — Ich) hatte so
+war ihm interessant: daß wir Deutsche sind. — Ich hatte so
 das Empfinden, als ob er ganz genau wußte, daß die Sultana
 ebenfalls deutscher Abkunft ist, mochte aber natürlich
 nicht fragen.«
 
-»am — Woher sollte er das wissen?«
+»Hm — Woher sollte er das wissen?«
 
 »Nun, als Gottlieb Joost das Kind den Tuareghändlern
 für die drei Edelsteine Überließ, mag er ihnen vielleicht mitgeteilt
 haben, daß das Mädelchen eine Deutsche sei …«
 
-»Sehr unwahrscheinlich
+»Sehr unwahrscheinlich ..."
 
 »Ganz recht, aber — möglich ist’s!«
 
@@ -1688,20 +1688,20 @@ haben, daß das Mädelchen eine Deutsche sei …«
 »Wie denkst Du Dir nun das Ende dieses Abenteuers?«
 
 »Denken tue ich nur, wenn es Zweck hat zu denken.
-Hier »aber sind die Dinge noch so ungeklärt, daß ich vorläufig
+Hier aber sind die Dinge noch so ungeklärt, daß ich vorläufig
 abwarte.«
 
 »Bis — wir fliehen können …«
 
-Das täte ich nur im äußersten Notfall. Ich will her-ausb:
-übrigen, wesÖhalb die 2»streng die Sultana benutzen
+"Das täte ich nur im äußersten Notfall. Ich will herausbringen,
+weshalb die Bößlers die Sultana benutzen
 wollten — zu welcher Art Millionengeschäft. Das ist mit
 am wichtigsten, mein Alter. Wir sind doch keine Detektive,
 die Kleinkram erledigen. Für uns muß das Problem als
 solches der Hauptreiz sein.«
 
 »Na — eines Problems wegen hier die Sklaven zu
-spielen und vielleicht schwer Arbeiter zu müssen, das …«
+spielen und vielleicht schwer arbeiten zu müssen, das …«
 
 Ich hielt inne …
 
@@ -1714,17 +1714,17 @@ Anita …
 <h2>2. Kapitel.</h2>
 <h3>Die Tränen der Sultana.</h3>
 
-Während aber unsere Touristenanzüge sich voll in
+Während aber unsere Touristenanzüge sich noch in
 einigermaßen salonfähigem Zustand befanden, sahen die
 beiden Bößlers derart abgerissen und zerschunden aus, daß
-von Anitas Schönheit kaum noch ein kläglicher Rest üÜbrig-geblieben
+von Anitas Schönheit kaum noch ein kläglicher Rest übriggeblieben
 war und der Überpatente Erwin gänzlich einem
 seit Wochen unrasierten Vagabunden glich.
 
 Die Augen, mit denen das Paar uns beide jetzt musterte,
-waren sehenswert, In diesen Blicken spiegelte sich deutlich
+waren sehenswert. In diesen Blicken spiegelte sich deutlich
 alles wider, was sie empfanden, wie sie nun in uns Harald
-sonst und Max Schraut aus Heringsdorf wiedererkannten.
+Harst und Max Schraut aus Heringsdorf wiedererkannten.
 
 Das Gesicht der Mörderin wurde fahl. Das Gesicht
 Bößlers ward zur Fratze …
@@ -1738,62 +1738,62 @@ Fall!«
 
 Er hatte Deutsch gesprochen …
 
-Da fuhr schon der eine Trapez, der einen gelblichen
+Da fuhr schon der eine Tuareg, der einen gelblichen
 Mantel trug, dazwischen:
 
-»Ihr Sitzung redet nur, wenn ich frage!«
+»Ihr Giaurs redet nur, wenn ich frage!«
 
-Es war also der Schamane, der Oberpriester, heim sein
-Englisch verriet das, nicht Linden die Würde seiner Exr-scheinung.
+Es war also der Schamane, der Oberpriester, denn sein
+Englisch verriet das, nicht minder die Würde seiner Erscheinung.
 
 Harst erwiderte, indem er auf den sandigen Boden
 deutete:
 
-»Nimm Platz, Balimbhu … Du bist uns willkommen
-in unserem Zelt. Die Gustsreuindschaft ist eine Tugend selbst
+»Nimm Platz, Balimbu … Du bist uns willkommen
+in unserem Zelt. Die Gastfreundschaft ist eine Tugend selbst
 der Sklaven …«
 
-uns er öffnete sein Zigoarestenetiit und hielt es dem
-Karton Oberbonzen hin, unter dessen Vesictstuch ein faltiges
+Und er öffnete sein Zigarettenetui und hielt es dem
+alten Oberbonzen hin, unter dessen Gesichtstuch ein faltiges
 greisenhaftes Antlitz sich verbarg.
 
-Balimbu war sekfundenlong ungewiß, wie er sich verhalten
+Balimbu war sekundenlang ungewiß, wie er sich verhalten
 sollte. aber — auch hier wirkte die Macht der Persönlichkeit,
-wirkte Harald Harst als imponierende Lords Trennung
-selbstbewußter ManncsöiumsS.
+wirkte Harald Harst als imponierende Verkörperung
+selbstbewußten Mannestums.
 
-Der Priester ließ sich langsam nieder, griff zöncund in
-das Etui hinein und richte die Mirakfnlum an dem Ihm«-
-kommenden Mitglied an, das unser G’nrma ihm eilfertig Gericht
+Der Priester ließ sich langsam nieder, griff zögernd in
+das Etui hinein und rauchte die Mirakulum an dem glimmenden
+Aststück an, das unser Gurma ihm eilfertig gereicht
 hatte.
 
 Dann sagte Harald wieder, indem er aufs die Bößlers
-beutete:
+deutete:
 
-»Ah erklärte Dir schon, o Balimbiut, daß wir zwei
-Mörder verfolgen. hieß sind die Mörder.«
+»Ich erklärte Dir schon, o Balimbu, daß wir zwei
+Mörder verfolgen. Dies sind die Mörder.«
 
-Der Leser, der auch nur einige Fälbafeit besitzt, sich
-eine Situation auszumalen, wird begleiten, wie seltsam
+Der Leser, der auch nur einige Fähigkeit besitzt, sich
+eine Situation auszumalen, wird begreifen, wie seltsam
 diese Szene war:
 
 Wir drei — Harst, ich und der Schwarze — vor dem
-Zelte Bildend … Vor uns der Priester der Tuaregs, im
+Zelte sitzend … Vor uns der Priester der Tuaregs, im
 <@pagebreak/>
-Hände hockend … Neben ihm der andere Tuareg flehend,
+Sande hockend … Neben ihm der andere Tuareg stehend,
 und zwischen uns die Bößlers, fahl und mit Augen, die
 uns hätten erdolchen mögen … — Dazu eine runde
-Dornenwand, sechs Meter hoch, dazu ein klarer Mittags-hinanel
-und eine sengende Hitze … Dazu von allen Zeiten
-die vielfaczen Geräusche der Zeltstadt der Gaghos … Und
+Dornenwand, sechs Meter hoch, dazu ein klarer Mittagshimmel
+und eine sengende Hitze … Dazu von allen Seiten
+die vielfachen Geräusche der Zeltstadt der Gaghos … Und
 dazu der eine Zigarette rauchende Oberbonze, der sichtlich
-verlegen 1. ck sprachlos Ober die Keckheit des Giaur, des Ungläubigen,
+verlegen und sprachlos über die Keckheit des Giaur, des Ungläubigen,
 war …
 
 Und dieser Giaur fuhr fort:
 
 »Weshalb hast Du diese beiden hierher gebracht, o Badumba?
-eins, damit sie hier unseren Kerker mit uns
+Etwa, damit sie hier unseren Kerker mit uns
 teilen?«
 
 Da raffte sich der alte Tuareg auf …
@@ -1812,40 +1812,40 @@ Er verstummte …
 Starrte auf das Blatt …
 
 Und — im selben Moment sprang Anita Kurtor zu,
-versetzte Haralds Hand mit dem Strickes einen Schlag …
+versetzte Haralds Hand mit dem Stiefel einen Schlag …
 
 Der Zeitungsausschnitt flog in das Feuer — lohte auf
 — — verbrannte zu Asche …
 
-Der Priester war eimporgeschnellt … Der andere
-knarren hatte unter dem Mantel das kurze Hauschwert hervorgerufen
-…
+Der Priester war emporgeschnellt … Der andere
+Tuareg hatte unter dem Mantel das kurze Hauschwert
+hervorgerissen …
 
-Schätzung es blitzschnell …
+Schwang es blitzschnell …
 
-Und — nur ein Tausthieb Haralds rettete hier Anita
+Und — nur ein Fausthieb Haralds rettete hier Anita
 Kurtor vor sicherem Tode, ein Hieb, der die Waffe ablenkte,
 daß sie nur vom Schläfenhaar des Weibes eine der losen
-Strähnen abwärts …
+Strähnen abmähte …
 
-»Dalimbt,« rief Harald, »laß diese beiden wieder
+»Balimbu,« rief Harald, »laß diese beiden wieder
 <@pagebreak/>
 irgendwo sicher einsperren. Ich will mit Dir reden — mit
 Dir allein — — über die Sultana …« —
 
 Und wenige Minuten später waren wir beide in unserem
 Dornenkerker wirklich mit dem greisen Tuareg allein.
-Selbst Gunrma hatte sich entfernen müssen.
+Selbst Gurma hatte sich entfernen müssen.
 
-Valsimbu, der Alte, war jetzt wie verwandelt. Ohne
-Zeugen, nur in unserer GesellsHhast, versuchte er es mäht
+Balimbu, der Alte, war jetzt wie verwandelt. Ohne
+Zeugen, nur in unserer Gesellschaft, versuchte er es nicht
 mehr, den gestrengen Oberbonzen herauszubeißen und uns
 als Sklaven zu behandeln.
 
-»Sprich, wandte er sich an kannst. »Was Blatt Du
+»Sprich, wandte er sich an Harald. »Was hast Du
 mir mitzuteilen …«
 
-»zu fragen habe ich … Gute Sultana ist eine
+»zu fragen habe ich … Eure Sultana ist eine
 Europäerin. Weißt Du, welchem Volke sie entstammt?«
 
 Der Greis zauderte …
@@ -1854,28 +1854,28 @@ Und erwiderte dann doch:
 
 »Ich weiß es …«
 
-»Also — aus Germanisitan, aus Deutschland … Es
+»Also — aus Germanistan, aus Deutschland … Es
 ist so …«
 
 »Ja …«
 
-»quer Stamm hat die Sultana einst von einem Schiffskapitän
+»Euer Stamm hat die Sultana einst von einem Schiffskapitän
 gekauft — für drei schwarze Diamanten …«
 
-Balimbu nickte mir.
+Balimbu nickte nur.
 
-»sagte der Schiffskapitän Türen Händlern, daß das
+»sagte der Schiffskapitän Euren Händlern, daß das
 Kind eine Deutsche sei?«
 
 »Nein … Das Kind hatte eine Kapsel um den Hals
 an goldenem Kettchen, und in der Kapsel waren zwei Bilder
-und ein Papier. Auf dem Ps. 1 stand der Name der
-Kindes und vieles andere. Ein Gefangenen, einer unserer
-Sklaven, sagte, es sei ein Lauschern für ein Kind Mabel
+und ein Papier. Auf dem Papier stand der Name des
+Kindes und vieles andere. Ein Gefangener, einer unserer
+Sklaven, sagte, es sei ein Taufschein für ein Kind Mabel
 Jester aus Hamburg, aus Deutschland … Und das Kind
-sei wohl dasselbe, das wir gekauft hofften: Mabel Jester.«
+sei wohl dasselbe, das wir gekauft hatten: Mabel Jester.«
 
-»Du bist ehrlich, Balimbu … — Preis die Sultana,
+»Du bist ehrlich, Balimbu … — Weiß die Sultana,
 daß sie eine Deutsche ist?«
 
 »Nein … nein! Und nie wird sie es erfahren …«
@@ -1886,38 +1886,38 @@ könnte nach ihrer unbekannten Heimat? Leidet sie
 vielleicht zuweilen an trüben Stimmungen, die ihr dieses
 Leben als Eure Sultana in anderem Lichte zeigen?«
 
-Da so wies der Greis. Sein Kopf senkte sich …
+Da schwieg der Greis. Sein Kopf senkte sich …
 
 Hob sich mit einem Ruck…
 
-Und jetzt sprühten seine Augen in uväbeilvollem Feuer.
+Und jetzt sprühten seine Augen in unheilvollem Feuer.
 
-Er stand auf, liegt leise:
+Er stand auf, rief leise:
 
 »Es ist genug … Ihr werdet die Sultana nie wieder
 hören … Nie mehr wirst Du, Giaur, durch die Musik
 der Sultana Augen mit Tränen füllen …! Ihr werdet
 diesen Kerker lebend nicht mehr verlassen …!«
 
-Und rasch wandte er sich um, steuerte die Balkentür und
+Und rasch wandte er sich um, öffnete die Balkentür und
 schritt hinaus,
 
 Die schwere Tür fiel zu …
 
-Wir Waren äsein, wir beide …
+Wir waren allein, wir beide …
 
 Und Harald lächelte — sein feinstes Lächeln …
 
-»In des Kindes Seele sind all die Cupfindufigen mit
-vijzigepflanzt, die den Eltern dieses Kindes am meisten die
-eigene Seele zum Schwingen bringen … Ich habe echt nur
-Wagner damals im Zelte der Suliana gespielt. Rein, auch
-ein deutsches Leidlich, das schlichteste: Die Loreley! Und
-habe erreicht, 10as ich wollte: die schlafende Seele des deutschen
-Kindes ist gelauscht worden! Tränen Leuten die Pandora
-der grausamen Ausklang … Ihre Seele schluchzte in
-Sehnsucht nach dem, was sich nicht kennt: nach) einem anderen
-Leben — einem Leben anders igresgleichen, unter … Deutschen!«
+»In des Kindes Seele sind all die Empfindungen mit
+eingepflanzt, die den Eltern dieses Kindes am meisten die
+eigene Seele zum Schwingen bringen … Ich habe nicht nur
+Wagner damals im Zelte der Suliana gespielt. Nein, auch
+ein deutsches Volkslied, das schlichteste: Die Loreley! Und
+habe erreicht, was ich wollte: die schlafende Seele des deutschen
+Kindes ist geweckt worden! Tränen netzten die Wangen
+der grausamen Sultana … Ihre Seele schluchzte in
+Sehnsucht nach dem, was sie nicht kennt: nach einem anderen
+Leben — einem Leben unter ihresgleichen, unter … Deutschen!«
 
 Schwieg Sekunden …
 
@@ -1948,7 +1948,7 @@ Brüllte …:
 als die Dinner … Gurma werden dämpfen diese Huhn
 in heiße Erde …«
 
-»Du bist ein Knleiblichee Sessel,« meinte Harald. »Zunächst
+»Du bist ein unleidlicher Fresser,« meinte Harald. »Zunächst
 werden wir jetzt schlafen, und dann können wir über
 die Abendmahlzeit reden …«
 
@@ -1966,36 +1966,36 @@ Alterchen … Schlafen wir!«
 
 So fertigte er mich ab!
 
-Und ich blieb stumm — aus Morgen …
+Und ich blieb stumm — aus Ärger …
 
 <h2>3. Kapitel.</h2>
 <h3>Leere Patronenhülsen.</h3>
 
-Wir hatten anstrengende Tage und viele Aufreguüngen
+Wir hatten anstrengende Tage und viele Aufregungen
 hinter uns. Wir hatten infolge der Hiebwunden durch die
 Flintenkolben der Tuaregs leichtes Wundfieber durchgemacht
-und schließen nun zum ersten Male wieder tief und ruhig in
+und schliefen nun zum ersten Male wieder tief und ruhig in
 dem sauberen Zelt unseres Dornenkerkers.
 
-Schließen viele Stunden, treu behütet von Gurma, dem
+Schliefen viele Stunden, treu behütet von Gurma, dem
 Freßsack, der die gute Gelegenheit benutzte und alles an
-peisevorräten vertilgte, was noch) vorhanden war. Es ist
+Speisevorräten vertilgte, was noch vorhanden war. Es ist
 geradezu unglaublich, was so ein Negermagen aufzunehmen
 <@pagebreak/>
-verging …! Schon während unseres Rittes durch diesen
-Teil Senegambiens hatten wir Tag für Tag gestauiut, wo
-der neue Gurma all die Unmengen Wildbtaien eigentlich
-verstaute. Harald meinte, Gurma litte an Viagen-erweiterung.
+vermag …! Schon während unseres Rittes durch diesen
+Teil Senegambiens hatten wir Tag für Tag gestaunt, wo
+der treue Gurma all die Unmengen Wildbraten eigentlich
+verstaute. Harald meinte, Gurma litte an Magenerweiterung.
 
-Und als ich nahm als erster schwache und nach dann Brausenden
+Und als ich nun als erster erwachte und nach dem erquickenden
 Schlummer mich wie neugeboren und dazu noch
-einen gekrauster Hunger fühlte, als ich vor dem Zelte Töne
-leise in Rücksicht auf den noch fest iilaufenden Harald diesen
-Freßsack Gurma fragte, wo beim die rosa vorhin übrig:
-gebliebenen gefochten Hühnereier seien, da verzog unser
-schwarzen Diener sein Gorillagesicht zu einer tief schuldbewußten
+einen gesegneten Hunger fühlte, als ich vor dem Zelte ganz
+leise in Rücksicht auf den noch fest schlafenden Harald diesen
+Freßsack Gurma fragte, wo beim die noch vorhin übrig-
+gebliebenen gekochten Hühnereier seien, da verzog unser
+schwarzer Diener sein Gorillagesicht zu einer tief schuldbewußten
 kläglichen Grimasse und — rieb sich mit der rechten
-Hand eifrig den gingen.
+Hand eifrig den Magen.
 
 Ich verstand …
 
@@ -2003,35 +2003,35 @@ Und ich drohte ihm mit der Faust, tat sehr ergrimmt
 und flüsterte:
 
 »Ich habe Hunger …! Flink! Verschaffe mir etwas
-zu offen!«
+zu essen!«
 
 Gurmas Visage wurde noch jammervoller. Und langsam
 und vorsichtig näherte er sich der Balkentür, vor die man
 von außen noch eine schwere Matte gehängt hatte, damit wir
-nicht durch die Riten in die Gasse der Zeltstadt hinaustraten
+nicht durch die Ritzen in die Gasse der Zeltstadt hinausspähen
 könnten.
 
-Kläglich rief er nun einen der Wächter in der Fulbo-Kreatur
-an … Und was er rief, war wieder jede be-zeichneind
+Kläglich rief er nun einen der Wächter in der Fulbo-Sprache
+an … Und was er rief, war wieder sehr bezeichnend
 für ihn …
 
-»je Massas sein nicht satt geworden, tapferer Krieger
-der gar. o8! Die Lautlos bitten um Eier, Hirsebrot und
+»Die Massas sein nicht satt geworden, tapferer Krieger
+der Gaghos! Die Massas bitten um Eier, Hirsebrot und
 Früchte …« —
 
 Kleine Ursachen — große Wirkungen …
 
-Hätte Gumma mit alles Vorhandene bis auf das eine
-seien »er handelt Huhn verzehrt gehabt, so würden wir
-vier vt niemals mit der Sultana so rasch in nähere beruhigt:
-1 getreten sein …
+Hätte Gurma nicht alles Vorhandene bis auf das eine
+frisch geschlachtete Huhn verzehrt gehabt, so würden wir
+vielleicht niemals mit der Sultana so rasch in nähere Verbindung
+getreten sein …
 
-bei! also dem Freßsack Gurma!
+Heil also dem Freßsack Gurma!
 
 <@pagebreak/>
 Denn — jetzt wurde die Matte draußen angehoben,
 und auch ich erblickte vor der schweren Balkentür den in
-grinste Schleier gehüllten Kopf eines blonden Weibes …
+feinste Schleier gehüllten Kopf eines blonden Weibes …
 
 Und gerade da geschah es auch, daß Harald das Zelt
 verließ, die blonde Sultana bemerkte und mit wenigen
@@ -2040,16 +2040,16 @@ Sprache der Herrscherin von Gagho zuraunte:
 
 »Weißt Du, Herrin, daß um Deinen Hals einst als
 Kind ein Goldkettchen mit einer Kapsel hing? Weißt Du,
-daß in keinen Adern anderes Blut als das der Tuaregs
-stirbt? — Laß durch einen Vertrauten Balimbus Zelt heimlich
+daß in Deinen Adern anderes Blut als das der Tuaregs
+fließt? — Laß durch einen Vertrauten Balimbus Zelt heimlich
 durchsuchen. Dort wird die Kapsel verborgen sein, die
 Dir sagen wird, wer Deine Eltern waren und …«
 
 Weiter kam er nicht. Die Matte sank wieder herab …
 
 Wir hörten Stimmengewirr, unterschieden des Schamanen
-Balimbu dieses Organ und das hellere der Sultana,
-unserer Landsmänmnuin, einer Deutschen …
+Balimbu tiefes Organ und das hellere der Sultana,
+unserer Landsmännin, einer Deutschen …
 
 Dann wurde es still …
 
@@ -2057,10 +2057,10 @@ Harst wandte sich mir zu — sehr ernst …
 
 »Ich spiele da ein gefährliches Spiel, das nur zu leicht
 Uns verderben kann. Und doch muß es sein! Anders
-werden wir die Freiheit sie wiedererlangen — Mann …
+werden wir die Freiheit nie wiedererlangen — nur …
 zusammen mit Mabel Jester — nur so!«
 
-Wir setzten uns vor das Zelt. Tyrann hockte absetzte
+Wir setzten uns vor das Zelt. Gurma hockte abseits
 und — rupfte das Huhn.
 
 Harald zog sein Zigarettenetui hervor, rauchte …
@@ -2070,19 +2070,19 @@ Anhang des Schamanen uns jetzt zu ermorden versuchen
 würde. Ich rechne sogar damit. Wir werden vorsichtig sein
 müssen. Die Gaghos wollen ihre weiße Sultana nicht verlieren,
 die dem Stamme bisher nur Glück gebracht hat. Daß
-die Sultana sich bereits zu uns, den Europäern, hing zogen
+die Sultana sich bereits zu uns, den Europäern, hingezogen
 fühlt, dafür spricht ja deutlich dieser ihr Besuch vor unserer
 Kerkertür …«
 
-Und sein Vater scharfer Bis, der Blick dieser durch
+Und sein klarer scharfer Blick, der Blick dieser durch-
 dringenden Augen, denen nie etwas entging, schweifte über
 <@pagebreak/>
 den Rand der Dornenmauer hinweg und blieb auf einem
-uralten Baobab, einem Brotfruchtbaum, hatten, der, ein
-wahrer Riese von mindestens 1»eisig Meter Höhe und fünf
+uralten Baobab, einem Brotfruchtbaum, haften, der, ein
+wahrer Riese von mindestens sechzig Meter Höhe und fünf
 Meter Stammdurchmesser, unweit unseres Kerkers vereinzelt
-wuchs und seine Seite fast bis über unser Dornengehege
-hinwegschchob.
+wuchs und seine Äste fast bis über unser Dornengehege
+hinwegschob.
 
 Von diesem Baumriesen glitten die grauen Augen zu
 unserem Zelt …
@@ -2099,8 +2099,8 @@ Ich verstand ihn nicht.
 »Was wird reichen?«
 
 »Das Zeltleinen — zu einem geflochtenen Strick, zu
-einem Lasso … — Bitte, mein Alter, grau nicht zu den
-Baumästen empor. Verrate un& nicht. Glaube mir: wir
+einem Lasso … — Bitte, mein Alter, schau nicht zu den
+Baumästen empor. Verrate uns nicht. Glaube mir: wir
 sind dem Tode noch nie so nahe gewesen wie jetzt hier inmitten
 dieser undurchdringlichen Dornenwände. Wir werden
 fliehen — ohne die Sultana. Wir müssen zunächst für
@@ -2108,17 +2108,17 @@ uns selber sorgen …«
 
 Die Sonne sank bereits. Vielleicht noch eine Stunde,
 dann war die Dunkelheit da. Hier in den Tropen gab es
-Ja seine Dämmerung. Der Übergang vom Tag zur Nach!
-vollzog sich ohne jene längere Spanne Kapitel Abnahme der
-Tagesöhelle, wie wir dies in der deutschen Heimat gewohnt
+Ja keine Dämmerung. Der Übergang vom Tag zur Nacht
+vollzog sich ohne jene längere Spanne sanfter Abnahme der
+Tageshelle, wie wir dies in der deutschen Heimat gewohnt
 sind. —
 
 Eine nervöse Unruhe befiel mich.
 
-Harald saß regqung8lo8 da und rauchte — blickte den
+Harald saß regungslos da und rauchte — blickte den
 rasch zerflatternden Wölkchen seiner Mirakulum nach …
 
-Und ich überlegte, ob seine Befürchtungen wirklich des.
+Und ich überlegte, ob seine Befürchtungen wirklich be-
 gründet waren, ob der Priester es wagen würde, uns beseitigen
 zu lassen …
 
@@ -2131,56 +2131,56 @@ meine Gedanken kannte, gleichsam mein Denken verfolgt
 hatte.
 
 Leise sagte er: »Man wird uns auf eine Weise umbringen,
-daß es — »wie ein unglücklicher Zufall aussieht,
-mein Alter. Und konnte dcWbalb müssen wir all unsere
+daß es — wie ein unglücklicher Zufall aussieht,
+mein Alter. Und gerade deshalb müssen wir all unsere
 Schlauheit anwenden, dem Unheil zu entgehen …«
 
-Die Balkfentür knarrte …
+Die Balkentür knarrte …
 
-Zwei Gaghoweliber schlyppien Eßwaren herbei — stber-reichlich!
+Zwei Gaghoweiber schleppten Eßwaren herbei — überreichlich!
 Früchte in zierlich geflochtenen Körben, geröstetes
-HammielsileisM, das in die kühlenden großen Blätter des
-Bitte- ’Ziran-he8 gehüllt war dieses andere noch.
+Hammelfleisch, das in die kühlenden großen Blätter des
+Birja-Strauches gehüllt war -- vieles andere noch.
 
-Auch sechs Harzfackeln waren dabei, rief fast künstlerisch
-ge Fabafpfeifen und drei Rücken Tabak, dessen
-tavbientmbüllung eine Pariser Fabrik als Heaasiclierin
-bewies.
+Auch sechs Harzfackeln waren dabei, drei fast künstlerisch
+geschnitzte Tabakpfeifen und drei Päckchen Tabak, dessen
+Papierumhüllung eine Pariser Fabrik als Herstellerin
+verriet.
 
-Die Weiber verließen uns -… schweigend, wie sie gekommen.
+Die Weiber verließen uns -- schweigend, wie sie gekommen.
 
-Gurma bekleidete einen Freudenhaus. Und Harst lachte
-zwanglos … Ich versynchte kniete!hbe, obwohl ich das Gefischt
-hatte, 718 ob mir ein Tuaregschwert die Kehle kitzelte. —
+Gurma vollführte einen Freudentanz. Und Harst lachte
+zwanglos … Ich versuchte dasselbe, obwohl ich das Gefühl
+hatte, als ob mir ein Tuaregschwert die Kehle kitzelte. —
 
 Wir aßen …
 
-Ohrring sorgte dafür, daß wir scheinbar in harmloser
-Fröhlichkeit unsere Abenbmahl2cit einnahmen. Er Batterie
+Gurma sorgte dafür, daß wir scheinbar in harmloser
+Fröhlichkeit unsere Abendmahlzeit einnahmen. Er futterte
 für drei, nein, — — für sechs …!
 
-Diese Kerkerhaft war so ganz noch seinem gelangt:
-keine Arbeit, an! essen, gut trinken Mund keinerlei Sorgen!
+Diese Kerkerhaft war so ganz nach seinem Geschmack:
+keine Arbeit, gut essen, gut trinken und keinerlei Sorgen!
 
 Er redete wie ein Wasserfall. Erzählte …
 
 Und — er hatte viel erlebt und — die Hauptsache! —
-log nichts hinzu. Nein, das tat er … ist dem sehr einfachen
-Grunde nicht, weil e282 ihm an der nötigen Phantasie Hellste.
+log nichts hinzu. Nein, das tat er aus dem sehr einfachen
+Grunde nicht, weil es ihm an der nötigen Phantasie fehlte.
 
 Er hatte bereits vielen Reisenden als Führer gedient.
-Amerikanern, Engländern, Japanerin, einem indischen Fürsten
+Amerikanern, Engländern, Japanern, einem indischen Fürsten
 sogar, der auch mal einen Löwen schießen wollte und —
-natürlich auch schoß
+natürlich auch schoß ...
 
 Gurma krümmte sich vor Lachen, als er berichtete, wie
 man diesen Inder bei der Löwenjagd betrogen hatte. Ein
 <@pagebreak/>
-Verhüllen hatte man in ein Löwenfell eingenäht und in ein
+Eselfüllen hatte man in ein Löwenfell eingenäht und in ein
 Dornendickicht getrieben, wo Seine Hoheit der Radscha es
-mit fünf Schüssen erlegte und die Vorderhaus dann stolz mit
-Nr die Heimat nahm, Nachens er Gurma reich beschenkt
-Monate …
+mit fünf Schüssen erlegte und die Löwenhaut dann stolz mit
+in die Heimat nahm, nachdem er Gurma reich beschenkt
+hatte …
 
 Nein, er log nicht … Und sein Kauderwelsch machte
 seine Geschichten noch reizvoller … —
@@ -2190,30 +2190,30 @@ So kam denn der Abend herbei …
 In einer Viertelstunde war es finster. Gurma zündete
 eine der Fackeln an. Es mochte so ungefähr zehn Uhr sein.
 
-Und da — ereignete sich da&8, was wir am allerwenigsten
-erwarte! hatten …
+Und da — ereignete sich das, was wir am allerwenigsten
+erwartet hatten …
 
 Da tat sich die Balkentür abermals kreischend auf und
-Balimbu entfuhr zwei andere Würdenträger des Stammes
+Balimbu sowie zwei andere Würdenträger des Stammes
 erschienen mit der ganzen Feierlichkeit von Männern, die
-eine wichtige Festhälst auszurichten haben.
+eine wichtige Botschaft auszurichten haben.
 
-Wir wurde schwül zu Mute …
+Mir wurde schwül zu Mute …
 
-Ich dachte an die entietßzliche Szene, wie der Henker des
+Ich dachte an die entsetzliche Szene, wie der Henker des
 Stammes die gefangenen Warangi enthauptet hatte …
 
-Sollte uns etwa dasselbe Los beschieden Feind Hatte
+Sollte uns etwa dasselbe Los beschieden sein? Hatte
 vielleicht unser letztes Stündlein geschlagen?
 
-Doch — im irrte mich … Ich traute meinen. Ohren
-kaum, all? Balimbu erklärte:
+Doch — ich irrte mich … Ich traute meinen Ohren
+kaum, als Balimbu erklärte:
 
-»Sie Sultana schenkt Euch die Freiheit, verlangt jedoch,
+»Die Sultana schenkt Euch die Freiheit, verlangt jedoch,
 daß Ihr sofort von dannen reitet und nie mehr das
-Gebiet der spurlos Fenster!«
+Gebiet der Gaghos betretet!«
 
-Die flackernde qualmende fast beleuchtete die drei
+Die flackernde qualmende Fackel beleuchtete die drei
 Tuaregs, beleuchtete die Gesichter Harsts und Gurmas …
 
 Harald war aufgestanden, verbeugte sich …
@@ -2221,7 +2221,7 @@ Harald war aufgestanden, verbeugte sich …
 »Wir danken der Sultana …«
 
 Und Gurma?! Dessen Visage war ellenlang geworden.
-Die schräge Zeit des Schlaraffenlebens war ja vorüber!
+Die schöne Zeit des Schlaraffenlebens war ja vorüber!
 
 und — das stimmte auch: unsere Dromedare mußte er
 satteln, mußte den Proviant in die Ledersäcke verstauen,
@@ -2230,39 +2230,39 @@ mußte arbeiten, daß er nur so schwitzte …
 Und elf Uhr war’s, als wir drei dann von einem
 <@pagebreak/>
 Dutzend Tuaregs begleitet still gen Süden trabten — durch
-steinige Schläfen und Schluchten — bis zum Rande eines
-Plateaus das sanft in die endlose Wüste sich abstatte — in
+steinige Hochtäler und Schluchten — bis zum Rande eines
+Plateaus, das sanft in die endlose Wüste sich abstufte — in
 die Sahara …
 
-Im Wand- und Sternenschein lag die weite Sand-cinvde
+Im Mond- und Sternenschein lag die weite Sandeinöde
 da …
 
 Und hier trennten die zwölf Gaghos sich von uns,
-wünschten ins einen guten Ritt bis Badumba. Ihr Führer
-deutete noch auf einen selten einzelnen Berg. Dorthin sollten
+wünschten uns einen guten Ritt bis Badumba. Ihr Führer
+deutete noch auf einen fernen einzelnen Berg. Dorthin sollten
 wir uns wenden und dann das trockene Flußtal hinter
 dem Berge immer weiter verfolgen … —
 
 Die Tuaregs sprengten davon. Ihre kleinen Pferde
-legten wie Schatten über das Plateau …
+jagten wie Schatten über das Plateau …
 
 Und wir drei … waren wir wirklich frei, waren
-wieder im Besitz unserer Wasser, hatten unsere tadellosen
-Dromedare, reichlich Proviant und Tiuimkwasser.
+wieder im Besitz unserer Waffen, hatten unsere tadellosen
+Dromedare, reichlich Proviant und Trinkwasser.
 
 Also Grund genug eigentlich, in bester Stimmung in die
 Nacht hinauszureiten …
 
 Grund genug …
 
-Da? dachte auch Gurma, der sich mit dem rascher Ende
-der gern«.1icnschaft bereits abgefunden hatte und nun ein
-Negerlied flüsternd uns pvorauS3jagte …
+Das dachte auch Gurma, der sich mit dem rascher Ende
+der Gefangenschaft bereits abgefunden hatte und nun ein
+Negerlied trällernd uns vorausjagte …
 
-Wir beide aber, nun endlich sein und ohne Zeugen, —
+Wir beide aber, nun endlich allein und ohne Zeugen, —
 wir schauten uns an …
 
-Seltsam ernst … Mit Augen, in Venen allerlei Zweifel
+Seltsam ernst … Mit Augen, in denen allerlei Zweifel
 lauerten … —
 
 Harald nickte mir zu …
@@ -2278,8 +2278,8 @@ ließ die sechs Patronen nacheinander in seine Hand gleiten.
 Zog dann mit den Zähnen nacheinander die Nickelmantelkugeln
 aus den Patronenhülsen …
 
-Schüttelte diese … Bewies mir, daß das Parktor
-— herau8cenommen war
+Schüttelte diese … Bewies mir, daß das Pulver
+— heraugenommen war
 
 <@pagebreak/>
 »Unsere ganze Munition ist wertlos,« sagte er dumpf.
@@ -2289,27 +2289,27 @@ auch unsere Pistolen!«
 
 Ich begriff …
 
-Ich spähte hinweg über dem Sandiuvrer zu dem einzelnen
+Ich spähte hinweg über dem Sandmeer zu dem einzelnen
 Berge …
 
-Dort — — war der Hinterhalt! tot würde man uns
+Dort — — war der Hinterhalt! Dort würde man uns
 von den Dromedaren knallen, würde uns verscharren …
 
-So — — rächte ein Balimbu, der Schamane … Das
+So — — rächte sich Balimbu, der Schamane … Das
 war Priesterlist …
 
 <h2>4. Kapitel.</h2>
 <h3>Alte Gegner.</h3>
 
 Harald trieb sein Reittier vorwärts. Wir folgten
-Gurma, der bereits die Jelztcrrussen hinter sich hatte und
+Gurma, der bereits die Felsterrassen hinter sich hatte und
 unten am Rande der Wüste hielt.
 
-»List gegen bist,« meinte Harst nach kurzem Überlegen.
+»List gegen List,« meinte Harst nach kurzem Überlegen.
 »Wir werden ihnen trotz allem entkommen! Wir werden
-siegen, wenn Du ganz genau riet, was ich anordne, mein
-sich. Deine Rolle dabei ist nicht leicht, verlangt sehr viel
-Sclbsibehercrschung …«
+siegen, wenn Du ganz genau tust, was ich anordne, mein
+Alter. Deine Rolle dabei ist nicht leicht, verlangt sehr viel
+Selbstbeherrschung …«
 
 Und ich hörte zu … Staunte wieder über des Freundes
 regen Geist, der nie versagte. —
@@ -2317,17 +2317,17 @@ regen Geist, der nie versagte. —
 Wir hatten Gurma eingeholt, machten in einem Tale
 Halt, wo ein paar armselige Büsche wuchsen.
 
-Und stellten aus Zweigen eine Art Puppe her, der Dir
-Haralds Beduinenmantel umkippen, die wir auf Haralds
+Und stellten aus Zweigen eine Art Puppe her, der wir
+Haralds Beduinenmantel umlegten, die wir auf Haralds
 Dromedar banden.
 
 Gurma fragte — fragte … Harst schnauzte ihn an.
-Es mußte sein. Und der Neger verstummte, half mit blöden
+Es mußte sein. Und der Neger verstummte, half mit blödem
 Gesicht …
 
 So ritten denn anscheinend drei Reiter wieder gen
 <@pagebreak/>
-Süden, dem Berg, zu. Und einer der Reiter war doch nkU?
+Süden, dem Berge zu. Und einer der Reiter war doch nur
 eine Puppe. Der dritte aber eilte uns beiden, die wir ganz
 langsam im Schritt vorwärtsstrebten und immer wieder für
 Minuten anhielten, zu Fuße durch Täler und Sandschluchten
@@ -2339,30 +2339,30 @@ nur ein Harald Harst sie besitzt …
 Entschwand rasch im Dämmerlicht der Mondnacht unseren
 Blicken …
 
-Ein zu, jener, der nichts Geringeres vorhatte, als ganz
+Ein Tapferer, der nichts Geringeres vorhatte, als ganz
 allein den Hinterhalt der Feinde zu beschleichen, der mit mir
 ein bestimmtes Lichtsignal verabredet hatte, nach welcher
 Seite hin wir dicht vor dem Berge seitwärts durchbrechen
 wollten …
 
 Denn — hätten wir *nicht* die Richtung auf den Berg
-eingeschlagen, dann würden des Schamanen Meuchcelitiörder
+eingeschlagen, dann würden des Schamanen Meuchelmörder
 eben ihren Platz gewechselt haben, dann würden sie uns den
 Weg verlegt und anderswo uns niedergeknallt haben …!
 
-So aber durften wir lassen, einen Vorsprung zu gewinnen.
+So aber durften wir hoffen, einen Vorsprung zu gewinnen.
 So würden wir sie täuschen. Und ehe sie ihre
 Reittiere bestiegen hatten, mußten wir fraglos einige Hundert
 Meter zwischen uns und sie gelegt haben! — *Das* war
 Haralds Plan … Einfach, selbstverständlich fast … Und
-doch: ob ein anderer so leicht darauf gefoummen wäre, die
+doch: ob ein anderer so leicht darauf gekommen wäre, die
 Puppe Harald Harst spielen zu lassen …?! —
 
 Gurma und ich und die Puppe strebten so dem Berge
 zu …
 
 Erst schweigend … Bis Gurma die Stille nicht mehr
-ertrug … Sie er mich flehentlich bat, ihm doch zu erklären,
+ertrug … Bis er mich flehentlich bat, ihm doch zu erklären,
 was das alles bedeute.
 
 Ich hatte Erbarmen. Ich sagte ihm die Wahrheit.
@@ -2370,74 +2370,74 @@ Und Gurma, der Held im Fressen, klapperte nun vor Angst
 mit den prächtigen Raubtierzähnen, wollte nicht weiter,
 wollte umkehren …
 
-War aber doch schließlich einsichtisvoll zornig zu erkennen,
+War aber doch schließlich einsichtsvoll genug zu erkennen,
 daß unsere Rettung vor uns lag, nicht hinter uns …
 
 <@pagebreak/>
-Not langsamer ritten wir …
+Noch langsamer ritten wir …
 
-zweimal Augen — und er hatte bessere als ich! —
-zogen unausgesetzt in die Runde …
+Gurmas Augen — und er hatte bessere als ich! —
+flogen unausgesetzt in die Runde …
 
-»Jeden einsamen Fels! hoch hielt er jetzt für einen Gagho,
-der aus uns zielte …
+Jeden einsamen Felsblock hielt er jetzt für einen Gagho,
+der auf uns zielte …
 
-Jeden elenden Kanals-Strauch hielt er für einen Mörder
-… Jeden noch eleunveieit Ectinkal, der wie ein Begrenzt
-Über den Sand glitt, fürchtete er als »Nr ich!t:Sternchen Tuareg!
+Jeden elenden Karaki-Strauch hielt er für einen Mörder
+… Jeden noch elenderen Schakal, der wie ein Gespenst
+Über den Sand glitt, fürchtete er als anschleichenden Tuareg!
 
-Ich hatte andere Sorgen: Huralvy’ Ich ließ weine
+Ich hatte andere Sorgen: Harald! -- Ich ließ meine
 Augen aus anderem Grunde immer wieder über den Südrand
 der Wüste gleiten, wo die milchige Dämmerung mit
-dem könntet in eins verschmolz.
+dem Himmel in eins verschmolz.
 
-Ich bangte um dort Freund …
+Ich bangte um den Freund …
 
-Und — so ging es Weiter — zu dreien, und am sorg-kosesiten
-war die Puppe aus Haralds Dromedar …
+Und — so ging es Weiter — zu dreien, und am sorglosesten
+war die Puppe auf Haralds Dromedar …
 
 So näherten wir uns immer mehr dem Berge …
 Machten immer wieder halt, stiegen ab, taten, als ob wir
-die Kutter fester schnallten, rechneten eben damit, daß wir
+die Sättel fester schnallten, rechneten eben damit, daß wir
 beobachtet würden.
 
-Zimmer klarer hinter die Umrisse des Bergkegels hervor
+Immer klarer traten die Umrisse des Bergkegels hervor
 …
 
-Ein Steingebilde war’s von abenteuerlichen Form …
+Ein Steingebilde war’s von abenteuerlicher Form …
 Wie eine alte Burgruine … Eines jener Naturgebilde,
 vor denen man immer wieder staunend verweilt in den entlegenen
-Stunden der Vergnügten. Wir nicht mehr fremd.
+Einöden der Felswüsten. Mir nicht mehr fremd.
 denn in der Thar-Wüste, in Südarabien hatte ich Ähnliches
 geschaut. —
 
-zum, bisher vor Angst recht still, begann wieder zu
-schmaittern …
+Gurma, bisher vor Angst recht still, begann wieder zu
+schnattern …
 
 »Oh, Massa Schraut, das da sein der Berg Lokalla, der
 Berg der Toten, Massa … In allen Fulbo-Stämmen,
-denen einst auch diese Gebiete geborsten, kennt man den Lokalla
+denen einst auch diese Gebiete gehörten, kennt man den Lokalla
 … Massa Schraut, da ist eine Schlucht in dem Berge
 an der Südseite, wo Geister hausen …«
 
 Mit Geistern war Gurma Übergehend schnell bei jeder
 <@pagebreak/>
-Gelegenheit bei der Hand. Alles, was Über seinen Negep-horizont
+Gelegenheit bei der Hand. Alles, was Über seinen Negerhorizont
 ging, waren — Geister!
 
 Ich hörte nicht mehr hin. Sein Geschwärzt langweilte
 mich …
 
-Und — taxierte die Entfernung bis den Fels-ftrümmern,
+Und — taxierte die Entfernung bis den Felstrümmern,
 die unten am Fuße des Berges zu Hügeln sich
 auftürmten.
 
 Dort konnten die Gaghos stecken, dort gab es übergenug
 Stellen, wo ein Dutzend wilder Reiter sich verbergen
-Grunde …
+konnte …
 
 und — kaum gedacht — flammte gerade dort ein
-Feuerstrahl auf — ein trockenen Strauch, an dem die Flammen
+Feuerstrahl auf — ein trockener Strauch, an dem die Flammen
 blitzschnell hochleckten …
 
 Und — — erlosch wieder …!
@@ -2446,7 +2446,7 @@ Das Signal also …
 
 »Vorwärts …!!«
 
-Und mein Dromedar rechte sich lang …
+Und mein Dromedar reckte sich lang …
 
 Fegte dahin, warf den Sand hinter sich …
 
@@ -2477,7 +2477,7 @@ Drei — Riesenstrauße, gesattelt, — so wie die Tuaregs
 die Riesenvögel als Sportliebhaber zum Reiten benutzen …
 
 <@pagebreak/>
-und dazu auf dem Becherts drei Gefesselte, zwei Männer,
+und dazu auf dem Boden drei Gefesselte, zwei Männer,
 ein Weib:
 
 Die beiden Bößlers und Perigord, der Straußenhändler,
@@ -2489,25 +2489,25 @@ Feinden, die von den Gaghos offenbar nur zu dem Zweck
 gleichfalls freigelassen worden waren, damit sie uns aus dem
 Hinterhalt durch Kugeln — erledigten.
 
-Und daß, was mir dergestalt jetzt du!:h den Sinn schoß,
+Und das, was mir dergestalt jetzt durch den Sinn schoß,
 sprach nun Harst in knappen Worten aus …
 
 »Ich habe die drei belauscht, Henker wollten sie spielen
 an uns! Lagen dort weiter vorn, Büchsen im Anschlag …
-kehrten, uns beide stumm zu machen. Gurma war ihnen
+Hofften, uns beide stumm zu machen. Gurma war ihnen
 Nebensache …«
 
 Seine Stimme schwoll an …
 
 »Anita Kurtor, Mörderin Kapitän Joosts, — die Millionen,
-die Ihr gewinnen wolltet, waren die bisher hetren-sose
+die Ihr gewinnen wolltet, waren die bisher herrenlose
 Erbschaft des in Brasilien vor Jahresfrist verstorbenen
-Arbeit Jester, As Onkels vpäterlicherseit8 der Sultana von
+Albert Jester, des Onkels väterlicherseits der Sultana von
 Gagho …! Die Anzeige, die Sie, Anita, mir aus der
-Hand ins Feuer stießen, war ein Ausruf nach der Erbin
-Billett Jesters, naß Mabel Jester, Sultana von Seuche, die
-sich binnen Jahresfrist in Berlin bei der brasilianischen Gesandtschaft
-melden sollte, andernfalls die Erbschaft dem
+Hand ins Feuer stießen, war ein Aufruf nach der Erbin
+Albert Jesters, nach Mabel Jester, Sultana von Gagho, die
+sich binnen Jahresfrist in Berlin bei der brasilianischen
+Gesandtschaft melden sollte, andernfalls die Erbschaft dem
 Staate Brasilien zufallen würde!«
 
 Mond und Sterne schienen ebenso gespannt zu lauschen
@@ -2518,67 +2518,67 @@ Eine Millionenerbschaft — — für die Sultana!
 Nun war ja alles geklärt, nun war ja das Spiel der
 beiden Verbrecher offenkundig: Mabel Jester hatten sie aus
 der Sahara weglocken wollen, hatten ihr dann später irgendwie
-das Erbe wieder ab schwindeln wollen!
+das Erbe wieder abschwindeln wollen!
 
-Fürtwahr — ein gigantischer Plan, ein Unterfangen,
+Fürwahr — ein gigantischer Plan, ein Unterfangen,
 wozu Mut und Schlauheit gehörten! Ein Plan, der an den
 fernen Gestaden der Ostsee eingeleitet wurde, dessen Fäden
 <@pagebreak/>
 sich bis hier in die Sandwüste zogen und wieder zurückführten
 nach Deutschland …! —
 
-Die gefesselten Verbreck’er schwiegen …
+Die gefesselten Verbrecher schwiegen …
 
-Nur Perigord, der Sirmtßenhändler, rief gellend —
-und in seiner Stimme klangen Frigbheit, Niedertracht,
+Nur Perigord, der Straußenhändler, rief gellend —
+und in seiner Stimme klangen Feigheit, Niedertracht,
 Verrat:
 
 »Schenken Sie mir die Freiheit, und ich will Ihnen
 etwas mitteilen, was Sie nicht ahnen, Herr Harst …«
 
-Da meldete sich auch Bößler … Nistete sich auf …
+Da meldete sich auch Bößler … Richtete sich auf …
 
-»leiser Schuft!! Hätte ich; die Hände frei, ich wilde —«
+»Feiger Schuft!! Hätte ich die Hände frei, ich würde —«
 
-Gurma ganze ein …
+Gurma griff ein …
 
 Gerade Gurma …! Glaubte wohl, daß Bößler mit
-dem »reisen Schuft« Harald gemeint habe …
+dem »feigen Schuft« Harald gemeint habe …
 
-Holte aus und schlau Bößler mit der traten Noger-prnke
-so kräftig auf die geifernden Lippen, daß der Jämmer-br:
-3 mit gurgelnden Schrei zumwlsicl … —
+Holte aus und schlug Bößler mit der flachen Negerpranke
+so kräftig auf die geifernden Lippen, daß der Jämmerling
+mit gurgelndem Schrei zurückfiel … —
 
-Perigord lachte schavensroßh, iriederholte nochmals:
+Perigord lachte schadenfroh, wiederholte nochmals:
 
-»Geben Sie mich frei, vorn Harst … Cu geht um die
-Sultann…!!«
+»Geben Sie mich frei, Herr Harst … Es geht um die
+Sultana …!!«
 
 Da — — kreischte auch Anita, die Mörderin:
 
-»Geben Sie ihn nicht frei, den Fenster! Ich will selbst
-alles beichten … Ich Oh als Mabel Jester, die Sultana.,
+»Geben Sie ihn nicht frei, den Verräter! Ich will selbst
+alles beichten … Ich habe Mabel Jester, die Sultana,
 heute abend heimlich gesprochen … Sie ist das Leben unter
-den Ei aho8 satt … Sie hat Sehnsucht! nach ihrer Heimat
-Sie wird fliehen … ganz allein … Wir wollten Mr Ab?
+den Gaghos satt … Sie hat Sehnsucht nach ihrer Heimat.
+Sie wird fliehen … ganz allein … Wir wollten mit ihr
 zusammentreffen — weiter nach Osten zu am Rande einer
-Hochebene, die durch eine Reihe von na::Neureich! zu erkennen
-ist … Wir trafen aus dem Ritt hierher zehn Warangi,
-die als Späher in das Gebiet der (Saales gesetzt:t!
+Hochebene, die durch eine Reihe von Palmen leicht zu erkennen
+ist … Wir trafen auf dem Ritt hierher zehn Warangi,
+die als Späher in das Gebiet der Gaghos geschickt
 worden waren … diese Beduinen sollen die Sultana gefangennehmen,
 und …«
 
 Und — da war’s Harald, er mich plötzlich packte …
-Der wir eine der Büchsen der Gefangenen in die Sande
+Der mir eine der Büchsen der Gefangenen in die Hände
 drückte … rief:
 
-»Die Strauße …!? Unsere Dromedarte — dort — —
-ach hin …!«
+»Die Strauße …!? Unsere Dromedare — dort — —
+sieh hin …!«
 
 <@pagebreak/>
 Und ein Blick zeigte mir Gestalten in hellen Mänteln …
 
-Ein Ruck riß mich zu den zahmen Finanzen …
+Ein Ruck riß mich zu den zahmen Straußen …
 
 Unsere Reittiere, die wir außerhalb der Lichtung hatten
 stehen lassen, waren für uns verloren …
@@ -2588,13 +2588,13 @@ Renner bestiegen …
 
 Schüsse knallten …
 
-Gurma Stürzte hinter uns in wilder Angst …
+Gurma brüllte hinter uns in wilder Angst …
 
-Armer Gurma, Wir konnten ihm nicht helfen … Wir
-mußten groß sein, daß die Kugelsaat an uns vorüberfegte,
-daß wir enitkämen … — Der Sultana wegen, denn Gurma,
-der Schlosse, würde schon irgendwie entschlüpften, davon war
-ich erst überzeugt.
+Armer Gurma. Wir konnten ihm nicht helfen … Wir
+mußten froh sein, daß die Kugelsaat an uns vorüberfegte,
+daß wir entkämen … — Der Sultana wegen, denn Gurma,
+der Schlaue, würde schon irgendwie entschlüpften, davon war
+ich fest überzeugt.
 
 Wir beide auf den Riesenvögeln nun gen Osten — erst
 am Fuße des Berges entlang, dann in die offene Wüste
@@ -2604,7 +2604,7 @@ Hinter uns ein Schwarm von Reitern …
 
 Und ein Wettrennen — ums Leben …!
 
-Niemals hätte im acaglmtbt, daß Max Schraut je auf
+Niemals hätte im geglaubt, daß Max Schraut je auf
 dem Rücken eines Straußes die Sahara durchmessen würde.
 
 Nie hätte im es für möglich gehalten, daß diese Vögel
@@ -2613,13 +2613,13 @@ Geschwindigkeit entwickeln könnten …
 
 Freilich: niemals wären wir den Beduinen entgangen,
 wenn Harald nicht mit seltenem Geschick die Besonderheiten
-dieses Wüstenstriches att8genutt hätte.
+dieses Wüstenstriches ausgenutzt hätte.
 
 Gerade hier war der Sandboden Überall von tiefen,
-schluchtartigen Tälern durchsucht …
+schluchtartigen Tälern durchfurcht …
 
 Gerade hier war es ein Leichtes, in einem dieser sich
-kreuzenden Täler rasch und uitbeobachtet die Richtung zu
+kreuzenden Täler rasch und unbeobachtet die Richtung zu
 wechseln und den Verfolgern in einem Paralleltal entgegenzureiten
 und ihnen in den Rücken zu kommen … —
 
@@ -2627,66 +2627,66 @@ Es gelang uns …
 
 Als Fährtensucher haben die Beduinen sich noch nie hervorgetan.
 Und jetzt bei dem ungewissen Mondlicht konnten
-sie, zumal ihre Reittiere den Boden weithin zerstampfsten.
+sie, zumal ihre Reittiere den Boden weithin zerstampften,
 <@pagebreak/>
 erst recht nicht feststellen, wo wir beide geblieben waren.
 
 Und die, auf die sie es in der wilden Mordgier der
 freien Steppenbewohner abgesehen hatten, waren längst
-nach anderen weitergeritten, hatten längst in großen Bogen
+nach Norden weitergeritten, hatten längst in großem Bogen
 nach Osten einen solchen Vorsprung gewonnen, daß vorläufig
 jede Gefahr vorüber, —
 
-Wir zügelten unsere merfivüirdigen Reittiere …
+Wir zügelten unsere merkwürdigen Reittiere …
 
-Wir ließen sie im langen gravitätischen Schritt dahin-wweitdern,
+Wir ließen sie im langen gravitätischen Schritt dahinwandern,
 lernten es immer mehr, uns ihren Bewegungen
-anzupassen, um nicht allen stark gerüttelt zu werden. —
+anzupassen, um nicht allzu stark gerüttelt zu werden. —
 
-All diese Reiisuirauße ’der Tuaregs tragen über dem
-Kopf eine Art Zaumzeug, freilich ohne Gebißstange. Ei
+All diese Reitstrauße der Tuaregs tragen über dem
+Kopf eine Art Zaumzeug, freilich ohne Gebißstange. Es
 genügt, wenn man durch die Zügel den Kopf des Straußes
-noch rechts oder links drückt. Der Vogel biegt dann sofort
+nach rechts oder links drückt. Der Vogel biegt dann sofort
 in diese Richtung ein.
 
-Im klebrigen ist der Ritt auf dem Rücken eines Straußes
-(die Sättel haben »Bocksormnt«, also vorn und hinten hohe
-gepolsterte Wülste) für den verfing eine wahre Tortur. Ich
-glaube, wer fünf Stunden im Tiransßensa voll gesessen hat,
-ist As sein Fett los …
+Im übrigen ist der Ritt auf dem Rücken eines Straußes
+(die Sättel haben »Bockform«, also vorn und hinten hohe
+gepolsterte Wülste) für den Neuling eine wahre Tortur. Ich
+glaube, wer fünf Stunden im Straußensattel gesessen hat,
+ist all sein Fett los …
 
 Tortur oder nicht: für uns kam es darauf an, vor dem
-Haupishwaim der Warangi je::c Hochebene zu erreichen, wo
-die Sultana mit Anita und Erwin Bößler hatte zusatmmen-iressen
+Hauptschwarm der Warangi jene Hochebene zu erreichen, wo
+die Sultana mit Anita und Erwin Bößler hatte zusammentreffen
 wollen …
 
-Wir gönnten den Riesenvögeln Schall auch nur für
-karge Untaten eine Atempause …
+Wir gönnten den Riesenvögeln deshalb auch nur für
+karge Minuten eine Atempause …
 
 Und jagten dann weiter — gen Osten …
 
-Möchten zuweilen auf der Kuppe einer hoben Sand-düine
-holt …
+Machten zuweilen auf der Kuppe einer hohen Sanddüne
+halt …
 
-benutzten unsere Ferngläser … Stühlen nach einem
+Benutzten unsere Ferngläser … Suchten nach einem
 Höhenzug — nach Bergen — nach … der Sultana, der
 Landsmännin …
 
-Und fanden — — fanden endlich! dort im Mondlicht,
-steil ansteigend aus dem Wüstensand, eine endlose Westmauer,
+Und fanden — — fanden endlich: dort im Mondlicht,
+steil ansteigend aus dem Wüstensand, eine endlose Felsmauer,
 eine himmelhohe Felsbarriere …
 
-Sahen aus einer der Terrassen dieses düsteren. Höhenzuges
+Sahen auf einer der Terrassen dieses düsteren Höhenzuges
 <@pagebreak/>
-eine Reihe von Palmen — Schraut wie die Tote
-graphenstangen, mit bescheidenen Kronen …
+eine Reihe von Palmen — schlank wie die
+Telegraphenstangen, mit bescheidenen Kronen …
 
-landen noch mehr: im Sande hier einen breiten Strich,
+Fanden noch mehr: im Sande hier einen breiten Strich,
 eine Fährte von Reitern …
 
-»Die Warangi, die großer …!« sagte Harald nur.
+»Die Warangi, die Späher …!« sagte Harald nur.
 
-Und ich wußte: das waren die zehn, die Mabel Zettel
+Und ich wußte: das waren die zehn, die Mabel Jester
 gefangennehmen sollten!
 
 Da vergaß ich das qualvolle Auf und Ab in dem harten
@@ -2699,27 +2699,27 @@ nicht entleert waren: Anitas Winchesterbüchse!!
 
 Und so näherten wir uns der Bühne des letzten Aktes
 eines exotischen Dramas: den Höhenzügen — den Palmen,
-immer auf der Fährte der Waurangi reißend …
+immer auf der Fährte der Warangi reitend …
 
 <h2>5. Kapitel.</h2>
-<h3>las Urteil vor Sultana.</h3>
+<h3>Das Urteil vor Sultana.</h3>
 
-Ich halte es nicht für meine Ausgabe, hier Wildwestszenen
+Ich halte es nicht für meine Aufgabe, hier Wildwestszenen
 bis ins einzelne auszumalen. Ich halte es lediglich
-für meine Pflicht als Oberarzt Harstscher Abenteuer, das
+für meine Pflicht als Chronist Harstscher Abenteuer, das
 hervorzuholen, was meines Freundes Eigenart in das rechte
 Licht rückt.
 
 Ich könnte hier, wenn ich mich als Verfasser von
-IZmnndinnergeischichten oder Ähnlichem versuchen wollte, genau
+Indianergeschichten oder Ähnlichem versuchen wollte, genau
 schildern, wie wir durch die Fährte der Beduinen in ein
-Tal geführt würden, dessen aussetzen Winkel drei mächtige
+Tal geführt würden, dessen äußersten Winkel drei mächtige
 Palmen zierten.
 
 Nur ein flaches Tal war’s … Viele Felspartien darin.
 
 Und gerade diese waren es, die uns vor den Warangi
-by? zum helfen Moment fast verbargen …
+bis zum letzten Moment fast verbargen …
 
 Und doch nicht lange genug, um durch einen Überraschenden
 <@pagebreak/>
@@ -2727,30 +2727,30 @@ Angriff die an eine der Palmen gefesselte Sultana befreien
 zu können. —
 
 Ich will kurz erwähnen, daß es zu einem regelrechten
-Beuergeseht kam, daß einige der Beduinen mit unglaublicher
+Feuergefecht kam, daß einige der Beduinen mit unglaublicher
 Gewandtheit in die Kronen der Palmen kletterten, um uns
 beide, die wir hinter Felsen gut gedeckt waren, von dort
 oben beschießen zu können …
 
-Nachdem wir dann zwei! Warangi schwer verwundet und
+Nachdem wir dann zwei Warangi schwer verwundet und
 zwei Dromedare, hinter denen sie Schutz gesucht, erschossen
 hatten und gleichzeitig merkten, daß den Schützen in den
 Baumkronen die Patronen ausgegangen waren, hatten wir
-leichtes Spiel, stürmten vor, schritten die Sultana von kein
-Palmenstamm los und machten uns besser. beritten, indem
+leichtes Spiel, stürmten vor, schnitten die Sultana von dem
+Palmenstamm los und machten uns besser beritten, indem
 wir uns drei der besten Reitdromedare der Warangi aneigneten
 und sofort wieder mit unserem Schützling das Tal
 verließen, da wir ja jeden Augenblick das Eintreffen des
 Haupttrupps der Beduinen erwarten konnten,
 
-Erst als wir den Höhenzug weit hinter uns hat?Ton,
-fand Harald Zeit, sich mit Mabel Jester, die uns nur mit.
+Erst als wir den Höhenzug weit hinter uns hatten,
+fand Harald Zeit, sich mit Mabel Jester, die uns nur mit
 wenigen Worten bisher gedankt hatte, eingehender zu beschäftigen.
 
 Wir drei ritten nun im Schritt nebeneinander, die Sultana
 zwischen uns …
 
-Und — fürwahr: so, wie Mabel Jester hier stolz; und
+Und — fürwahr: so, wie Mabel Jester hier stolz und
 anmutig auf dem Dromedar im Sattel saß, war sie jeder
 Zoll die echte Herrscherin über wilde Karawanenräuber!
 
@@ -2761,60 +2761,60 @@ Ein Gesicht sah ich im Mondenschein, wie es kühner,
 reizvoller und stolzer kaum sein konnte …! —
 
 Harald schilderte ihr nun alles, was wir bisher erlebt:
-das Vorspiel in Horing8doarf — den verkommenen Kapitän
+das Vorspiel in Heringsdorf — den verkommenen Kapitän
 — Unsere Reise nach Senegambien …
 
-»Sultana, Sie wissen nun, daß Sie 1.«1€ Deutsche sind,«
+»Sultana, Sie wissen nun, daß Sie eine Deutsche sind,«
 schloß er seine Ausführungen. »Bei Ihnen liegt nun die
 Entscheidung, ob Sie mir helfen wollen, jene Anita Kurtor,
 <@pagebreak/>
 die sogar mit Ihnen verwandt ist, der gerechten Strafe, den
-irdischen Richtern, zu zuführen …«
+irdischen Richtern, zuzuführen …«
 
-Mabel Zettel, Ausklang von Gagho, hielt ihr Dvmedatr
+Mabel Jester, Sultana von Gagho, hielt ihr Dromedar
 an …
 
-»Meine Entscheidung ist schon gefallen, Herr Harst
-Arabern wi: die Richtung. Wenn wir scharf zureiten, sind
+»Meine Entscheidung ist schon gefallen, Herr Harst ...
+Ändern wir die Richtung. Wenn wir scharf zureiten, sind
 wir mittags in der Zeltstadt meines Stammes …
 
-las — war alles …
+Das — war alles …
 
 Und das hatte die Sultana von Gagho in einem so
-unheilverkündenden Tone gejagt, daß ich, Max Schraut, für
-das Leben des alten Schlampigen, des heimtückischen Priesters,
-keinen Psisseriling geweitet hätte. - —
+unheilverkündenden Tone gesagt, daß ich, Max Schraut, für
+das Leben des alten Schamanen, des heimtückischen Priesters,
+keinen Pfifferling gewettet hätte. -- —
 
 Mittags erreichten wir die Zeltstadt.
 
-ohne halbe Stunde später waren inmitten der Zeltstadt
-auf dem Beratungsplatz sünszelhn Flusse, auf Lanzen
-geliebte Menschenköpfe zu sehen: der Schamane und sein
-Zugang!
+Eine halbe Stunde später waren inmitten der Zeltstadt
+auf dem Beratungsplatz fünfzehn blutige, auf Lanzen
+gespießte Menschenköpfe zu sehen: der Schamane und sein
+Anhang!
 
-Wind am anderen Tage wieder brachte eine zweihundert
-Mann starke Reiterschar im Triumpf einige haltend Gefangene
-ein, darunter die Bößlers, Perigord und … umgedreht
+Und am anderen Tage wieder brachte eine zweihundert
+Mann starke Reiterschar im Triumpf einige Dutzend Gefangene
+ein, darunter die Bößlers, Perigord und … unseren
 Freßsack Gurma!
 
-Wieder eine Stunde später dann große Ratseversamm-fung
-der Gaghos unter stehen Himmel …
+Wieder eine Stunde später dann große Ratsversammlung
+der Gaghos unter freiem Himmel …
 
-die Sultana aus einem Stuhl aus Elfenbein, aus zwöl
+die Sultana auf einem Stuhl aus Elfenbein, aus zwölf
 Elefantenstoßzähnen …
 
 Und wir dicht neben ihr: Ehrenplätze!
 
 Was sie ihren wilden Gaghos hier mitteilte, wurde
-uns von Gurma vervolmitscht:
+uns von Gurma verdolmetscht:
 
-»34h wollte Gut verlassen, weil ich plötzlich Sehnsucht
-ja. meiner wahren Heimat hatte. Diese Sehnsucht ist Abstreite
-wieder tot. Abscheu erfüllt nicht vor dem Lande, in
-den. aus Goldgier dieses Leib da« — sich zeigte auf Anita —
-»na, die ich mit ihr verwandt bin, aufs schänvdlichste bei
-(rü wollte. Ah bleibe, was ich bin: Suliana von Gaghos
-Die d.:ei Verbrecher dort aber sollen in dem Sonnenzelt«
+»Ich wollte Euch verlassen, weil ich plötzlich Sehnsucht
+nach meiner wahren Heimat hatte. Diese Sehnsucht ist bereits
+wieder tot. Abscheu erfüllt mich vor dem Lande, in
+dem aus Goldgier dieses Weib da« — sie zeigte auf Anita —
+»mich, die ich mit ihr verwandt bin, aufs schändlichste betrügen
+wollte. Ich bleibe, was ich bin: Suliana von Gagho!
+Die drei Verbrecher dort aber sollen in dem Dornenkerker,
 <@pagebreak/>
 der vorgestern noch meine Retter beherbergte, bis an ihr
 Lebensende als Sklaven leben — in harter Arbeit!«
@@ -2824,20 +2824,22 @@ Schlicht war das alles … Ohne alle Redensarten …
 Und der Schluß? — Ich wiederhole hier nur wörtlich
 Teile eines Artikels einer Berliner Zeitung:
 
-> »Die Sunltanin von Gagho, bekanntlich eine Deutsche
-von Geburt, bat durch Vermittlung Harald Harsts das Erbe
-ihres Onkels Arbeit Jester, etwa sterben Millionen Goldmark,
+> »Die Sultanin von Gagho, bekanntlich eine Deutsche
+von Geburt, hat durch Vermittlung Harald Harsts das Erbe
+ihres Onkels Albert Jester, etwa sieben Millionen Goldmark,
 dem Deutschen Kinderhort, Berlin, zu wohltätigen
 Zwecken überwiesen. Im Übrigen weigert sich die Sultanin
 nach wie vor, die Mörderin jenes Kapitäns Joost, sowie
-deren Mittäter Erwin von Bößler atszuliesern. Da man
+deren Mittäter Erwin von Bößler auszuliefern. Da man
 mit Gewalt gegen die Tuaregfürstin nicht gut vorgehen kann,
-wird das Verbrecherpaar wohl in Gagho seine Straße verhüten.«
+wird das Verbrecherpaar wohl in Gagho seine Strafe verbüßen.«
 
 Als dieser Artikel veröffentlicht wurde, hatten wir mit
 Gurma, dem Freßsack, längst daß Geheimnis der Drabu-Fälle
 gelüftet … Und über dieses Geheimnis will ich im
-folgenden Band Näheres; »ihren.
+folgenden Band Näheres berichten.
+
+<@spacer 2/>
 
 An unsere Leser!
 
