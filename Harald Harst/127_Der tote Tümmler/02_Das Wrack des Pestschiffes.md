@@ -238,7 +238,7 @@ Zweimastschoner, gewesen sei.
 
 Andere Männer aus der Gegend wieder hatten es nun
 auf die Eichenplanken und die Inneneinrichtung der Kuff
-abgesehen, Hieben mit Äxten in mühseliger Arbeit ein Loch
+abgesehen, hieben mit Äxten in mühseliger Arbeit ein Loch
 in die Bordwand und wollten so ins Innere eindringen, denn
 auf andere Weise war ja an das Wrack nicht heranzukommen.
 Meterhoch lagen Lehmmassen, Steine, Baumstämme, Buschwerk
@@ -365,7 +365,7 @@ Hände auf die Knäufe der Seitenlehnen seines Sessels und
 schaute uns fest an …
 
 »Etwas, meine Herren, was jeder nur zu leicht für …
-Jägerlatein, für Schwindel hatten konnte …
+Jägerlatein, für Schwindel halten könnte …
 
 Ich sah auf einem Steine der aus dem Grün des Hügels
 herausragte, eine Gestalt sitzen — ein Weib mit weißer
@@ -495,7 +495,7 @@ was die Welt an Ungewöhnlichem bietet … Ich habe ja
 genug von Ihnen gelesen. Herrn Schrauts Schilderungen
 Ihrer indischen Abenteuer besitze ich sämtlich. Und in diesen
 Büchlein betont Herr Schraut doch wiederholt, daß in Indien
-das Geheimnisvolle sich dem Europäer in so mannigfachen
+das Geheimnisvolle sich dem Europäer in so mannigfacher
 Form aufdrängt, daß ein jeder an den bekannten Spruch:
 »Es gibt Dinge zwischen Himmel und Erde, von denen sich
 unsere Schulweisheit nichts träumen läßt« rasch glauben
@@ -679,10 +679,10 @@ den hellen Sand des Eilandes hin gleich huschenden
 Ratten …
 
 Oben auch auf dem breiten mächtigen Grabe der Kuff
-schwangen Eichen und diesem im Nachtwinde hin und her.
+schwangen Eichen und Kiefern im Nachtwinde hin und her.
 
 Und wir beide, wir in unseren Stromerkostümen mit
-Bündeln auf dem Rücken lagen im Schatten der Steilwand
+Bündeln auf dem Rücken, lagen im Schatten der Steilwand
 dicht am Fuße des Hügels, waren die letzten fünfhundert
 Meter mühselig auf allen vieren vorwärtsgekrochen, hatten
 nichts versäumt, um unsichtbar zu bleiben …
@@ -973,7 +973,7 @@ Gebeine auf eine unserer Schlafdecken und schafften sie in
 eine Nebenkammer.
 
 Ein kleines Ledersofa in der Kajüte diente uns zum
-ausruhen.
+Ausruhen.
 
 Harald begann den Proviant auszupacken. Wir freuten
 uns, daß wir eine halbe Flasche Kognak nicht vergessen
@@ -1210,7 +1210,7 @@ Die Frau weinte leise …
 
 Beruhigte sich … Schaute Harald angstvoll an …
 
-»Und — und der Förster« fragte sie stockend …
+»Und — und der Förster?« fragte sie stockend …
 
 »Ist leider — tot …«
 
@@ -1401,6 +1401,7 @@ Nächster Band:
 
 __Das Erbe des Verschollenen.__
 
+<@spacer 2/>
 
 <div style="font-size: large; text-align: center;">An unsere Leser!</div>
 

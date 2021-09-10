@@ -85,7 +85,7 @@ Da ich nun nachts regelmäßig erst so gegen zwölf Uhr
 mit meinem Boot vom Fischfang heimkehre, weiß ich, daß
 die Möllers immer noch auf sind. Sie haben die beiden
 Zimmer unten links im Erdgeschoß genommen, und wenn
-man auf den einen Pfahl der Vorgartentür erreicht, kann man
+man auf den einen Pfahl der Vorgartentür steigt, kann man
 über die oben etwas kurzen Fensterladen in die Zimmer
 hineinsehen.
 
@@ -417,7 +417,7 @@ das Meer.
 
 Muscheln zerknirschten unter unseren Sohlen.
 
-Möwen schwebten wie verschlossen dahin, und von hoch
+Möwen schwebten wie verschlafen dahin, und von hoch
 oben kam der Schrei gen Süden ziehender Wildgänse wie
 häßliche Geisterstimmen … —
 
@@ -551,7 +551,7 @@ ein Name vielleicht: Mecrouw!«
 »Und — was nun?«
 
 »Warten …! Bis wir die Gewißheit haben, daß
-die beiden nicht mehr in der Nähe. Dann Werden wir
+die beiden nicht mehr in der Nähe. Dann werden wir
 ebenfalls den Stegkopf besuchen und uns dort einmal umschauen
 …«
 
@@ -611,8 +611,8 @@ aufgerichtet …
 Einen Moment lang sah ich sein vom Monde beschienenes
 bartloses Gesicht …
 
-Faltig, bartlos, breite Kinnpartie, die blonde Augenbrauen,
-diese Augenhöhlen …
+Faltig, bartlos, breite Kinnpartie, dicke blonde Augenbrauen,
+tiefe Augenhöhlen …
 
 Jedenfalls ein Gesicht, das man nur ein einziges Mal
 zu betrachten braucht, um es nie wieder zu vergessen.
@@ -668,7 +668,7 @@ Schlag auf Schlag folgten die leisen Sätze …
 »Da — der weißliche Bauch des Tümmlers an der
 Oberfläche …«
 
-»Der — Alte läßt den Fisch wieder in die Tiefe gleiten.«
+»Der — Affe läßt den Fisch wieder in die Tiefe gleiten.«
 
 »Und wir — wir werden den Steg verlassen, dem
 Manne vorauseilen, damit wir ihm nachher folgen können.«
@@ -746,7 +746,7 @@ Wolke kroch …
 
 Nur zwei Minuten …
 
-Da war der — Alte verschwunden …
+Da war der — Affe verschwunden …
 
 Da lag der Strand wieder im fahlen Dämmerlicht da
 — — leer — leer …!
@@ -1188,7 +1188,7 @@ etwas schmerzhaft für uns, Mr. Scrimax …«
 
 »Was ich unendlich bedauere … Ein Versehen
 meinerseits … Ich werde sofort alles richtig beleuchten,
-Herr Harst.“«
+Herr Harst.«
 
 Wir nahmen Platz …
 
@@ -1335,7 +1335,7 @@ Schwestern Mergentin!
 Dann sagte Harald zu mir im Schutze des Restaurants,
 über das der Orkan hinwegpfiff:
 
-»Gehen, wir nach Hause … Wir werden mit diesen
+»Gehen wir nach Hause … Wir werden mit diesen
 Damen uns auseinandersetzen, wenn der Orkan vorüber
 ist …!«
 

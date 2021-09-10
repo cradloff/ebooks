@@ -11,7 +11,7 @@
 <tr><td>118. Das Geisterschiff.                          </td><td>147. Die Fürstin der Gwala-Berge.            </td></tr>
 <tr><td>119. Der Tennisschläger der Rani.                </td><td>148. Der Fakir ohne Arme.                    </td></tr>
 <tr><td>120. Der Mann im Monde.                          </td><td>149. Jo Billwakers Verbrechen.               </td></tr>
-<tr><td>121. Tama Barru, der Verrückte.                  </td><td>150. Das Geheimnis des Perlentauchers.       </td></tr>
+<tr><td>121. Tawa Barru, der Verrückte.                  </td><td>150. Das Geheimnis des Perlentauchers.       </td></tr>
 <tr><td>122. Das Piratendorf.                            </td><td>151. Burg Totenhall.                         </td></tr>
 <tr><td>123. Die Hexenküche.                             </td><td>152. Das Untergrundbahngespenst.             </td></tr>
 <tr><td>124. Das Geheimnis von H. O. III.                </td><td>153. Der Geisterberg Schara Schaka.          </td></tr>
