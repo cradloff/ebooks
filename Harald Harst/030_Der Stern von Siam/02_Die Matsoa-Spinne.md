@@ -11,7 +11,7 @@ untersetzten Detektivinspektor.
 Wir drei saßen auf dem zu unseren Zimmern gehörigen
 Balkon des Raffles-Hotel und genossen die frische Seebrise,
 die von Osten her über die Reede von Singapore strich, in
-langen Zügen nach diesem glutheißem erschlaffenden Tage,
+langen Zügen nach diesem glutheißen, erschlaffenden Tage,
 genossen weiter ein köstliches, eisgekühltes Getränk und ein
 paar vorzügliche Zigarren.
 
@@ -23,7 +23,7 @@ verabredet, denn Harst war ja bereits unterwegs auf dem
 Stern von Siam geradezu erpicht gewesen auf diesen Mord
 mit all seinen geheimnisvollen Begleitumständen.
 
-Detektivinspektor und Leiter der Detektivpolizei
+Der Detektivinspektor und Leiter der Detektivpolizei
 der bekannten hinterindischen Hafenstadt lehnte sich in seinem
 Korbsessel bequemer zurück und begann:
 
@@ -64,8 +64,8 @@ wie im Krampf angezogen waren.
 <@pagebreak/>
 Weiter aber bemerkte er gleichzeitig noch etwas: eine
 Spinne aus der Familie der Kreuzspinnen, die die Eingeborenen
-hier Matsoa nennen was etwa »Hausgeist« bedeutet.
-Die Matsoa wird bis zu 2 ½ cm lang und hält sich mit großer
+hier Matsoa nennen, was etwa »Hausgeist« bedeutet.
+Die Matsoa wird bis zu 2½ cm lang und hält sich mit großer
 Vorliebe in bewohnten Häusern auf. Ihr Biß ist giftig, aber
 merkwürdigerweise hat sie noch niemals einen Menschen mit
 ihren Beißkiefern angegriffen, im Gegenteil, sie hält die
@@ -109,7 +109,7 @@ gesehen?« fragte Harst wieder.
 — Bald nach mir traf unser Polizeiarzt Dartmoore
 ein. Er untersuchte die Wunde. Es handelte sich um eine
 <@pagebreak/>
-Hautwunde mit zackigen Rändern etwa 3 Zentimeter lang,
+Hautwunde mit zackigen Rändern, etwa 3 Zentimeter lang,
 die sich quer über die Luftröhre unterhalb des Kehlkopfes
 hinzog. Doktor Dartmoore erklärte, die Wunde sei etwa
 fünf Stunden alt, aber der Tod sei soeben erst eingetreten.«
@@ -125,7 +125,7 @@ um herauszufinden, ob zum Beispiel ein Füllen, dessen Gewicht
 dem eines erwachsenen Menschen gleichkommt, durch
 Matsoa-Gift getötet werden könnte. Er hat drei Füllen die
 Haut der Kehle in derselben Weise eingeritzt, wie wir
-dies bei Stevenpole fanden. Und das Spinnengift in drei
+dies bei Stevenpole fanden, und das Spinnengift in drei
 verschieden starken Dosierungen in die frische Wunde gestrichen.
 Zwei Füllen verendeten, eins davon nach zwei Tagen,
 das andere unter Lähmungserscheinungen nach sechs
@@ -183,7 +183,7 @@ nun gänzlich verwischt.«
 Harst beobachtete den Einwurf nicht.
 
 »Es ist schwer, nach einem Vierteljahr noch Licht in das
-Dunkel eines Mordes wie dieses zu bringen,« fügte er hinzu.
+Dunkel eines Mordes wie diesen zu bringen,« fügte er hinzu.
 »Immerhin will ich’s versuchen. Morgen früh werden
 wir uns im Bungalow Stevenpoles um 7 Uhr einfinden.
 Bitte, erwarten Sie uns dort, Jobster. Und besorgen Sie zu
@@ -198,7 +198,7 @@ Bevor Harst noch etwas erwidern konnte, erschien in der
 Balkontür ein farbiger Kellner und meldete den Detektiv
 Galling in sehr dringender Angelegenheit.
 
-Jobster sprang auf, meinte »Galling wußte, daß ich
+Jobster sprang auf, meinte: »Galling wußte, daß ich
 hier bin. Was mag nur passiert sein.«
 
 Da trat Galling auch schon ein. Er war klein und mager
@@ -283,7 +283,7 @@ im Orient kaum.«
 
 »Ganz recht — mit Leinenverdeck, anschnallbar. — Der
 falsche Aufseher hat die Malcapier sehr rasch an der Pförtnerloge
-vorbeigeführt. Beide stiegen ein und in demselben Augenblick
+vorbeigeführt. Beide stiegen ein, und in demselben Augenblick
 raste das Auto auch schon davon. Die Kinder haben
 dies mitangesehen.«
 
@@ -383,7 +383,7 @@ zieht sich die gleichnamige, teilweise ganz modern gebaute
 Hafenstadt 10 Kilometer weit am Meeresstrande hin.
 Die Einwohnerzahl beträgt etwa 230 000, darunter nur etwa
 4000 Europäer. Der Rest sind Chinesen, Malaien und
-Inder. Die Stadt ist, wie der ganze Südteil Malakkas englischer
+Inder. Die Stadt ist, wie der ganze Südteil Malakkas, englischer
 Kolonialbesitz. Singapore ist fraglos der belebteste
 Hafen des ganzen Ostens, ist die Durchgangstation nach China,
 Japan, den Südseeinseln und weiter nach den westamerikanischen
@@ -462,10 +462,10 @@ Ich werde die Straße schon finden.«
 
 Sehr bald saßen wir nun in einer verräucherten Gaststube
 an einem blendend weiß gescheuerten Tisch. Über uns
-an der Decke hingen ein Menge Schiffsmodelle, die bei jedem
+an der Decke hingen eine Menge Schiffsmodelle, die bei jedem
 Luftzug an ihren Bindfäden lautlos hin und her pendelten.
 
-Jan ten Hoorn, ein Holländer von gut 2 ½ Zentner Gewicht,
+Jan ten Hoorn, ein Holländer von gut 2½ Zentner Gewicht,
 bediente uns persönlich, empfahl uns das »echte Nürnberger«
 und ebenso ein warmes Abendgericht. Essen und
 Getränke waren tadellos.
@@ -503,7 +503,7 @@ an. Dann meinte einer:
 
 »Tom — was für ’n verdammter Witz war’s denn?«
 
-»Na — die Depesche, die mich nach Longkonk (Stadt an
+»Na — die Depesche, die mich nach Bokokang (Stadt an
 der Bahnlinie Singapore—Johore) rief.«
 
 Tom merkte bald, daß die Stammtischbrüder diese Depesche
@@ -563,7 +563,7 @@ großen Garten mit vielen alten Bäumen und zog sich in
 Terrassen bis in ein Palmenwäldchen hinein. Auf der
 <@pagebreak/>
 zweiten Terrasse stand der weiß gestrichene, niedrige Bungalow
-mit der üblichen, rings um das Haus herum sich erstreckenden
+mit der üblichen, rings um das Haus herum sich erstreckenden,
 überdachten, offenen Veranda.
 
 Der Mond enthüllte uns genug Einzelheiten der Örtlichkeit,
@@ -577,18 +577,19 @@ weißem Muschelgrand bestreut und endete vor einem schuppenartigen
 Holzbau. Weiter nach der Straße zu stand das
 zweite Wirtschaftsgebäude, in dem wohl die chinesischen Diener
 wohnten. Wir sahen, daß zwei Fenster erleuchtet waren.
+
 Plötzlich erlosch dieser Lichtschein. Harst hatte mich soeben
-auf einen großen dunklen Fleck am Boden des Vorplatzes
+auf einen großen, dunklen Fleck am Boden des Vorplatzes
 des Schuppens aufmerksam gemacht.
 
 Wir knieten hinter einer großen Tonne, deren Schatten
 uns genügend verbarg. Die Umgebung war in helles Mondlicht
-getaucht. Der dunkle Fleck da vor uns hatte merkwürdügerweise
+getaucht. Der dunkle Fleck da vor uns hatte merkwürdigerweise
 ungefähr Ringform. Weshalb Harst ihm irgendwelche
 Bedeutung beimaß, wußte ich nicht. Ich wollte gerade
 fragen, als die Tür des Dienerhauses sich öffnete und
 ein Chinese in weißem Leinenkittel heraustrat, zum Himmel
-emporblickte und langsam sich beständig scheu umblickend,
+emporblickte und langsam, sich beständig scheu umblickend,
 auf den Schuppen zu schlenderte. Sein Verhalten verriet,
 daß er kein reines Gewissen hatte. Dann öffnete er die
 breite Flügeltür, verschwand im Innern und polterte eine
@@ -728,7 +729,7 @@ quadratischer Raum von etwa fünf Meter Seitenlänge.
 Durch ein viereckiges Loch in der Decke lief die schmale Holzstiege
 hinab. Ein Tisch, drei Holzstühle, ein Bambussessel,
 der schon erwähnte Schrank und ein Bett hinter einem hohen
-Wandschirm machten das Mobilar aus.
+Wandschirm machten das Mobiliar aus.
 
 Was mir aber weit wichtiger war als all das: dort in
 dem Bambussessel saß Harst, dem man die Beine mit Draht
@@ -756,7 +757,7 @@ genau so wie Harst und spielte den Bedrückten, Ängstlichen
 und um mein Leben Besorgten.
 
 Außer uns befand sich nur noch unsere Feindin in diesem
-muffigen fensterlosen Gelaß. Sie stand leicht gegen den
+muffigen, fensterlosen Gelaß. Sie stand leicht gegen den
 Tisch gelehnt da und legte nun ihren Revolver neben sich
 auf die Tischplatte. Dann winkte sie mir mit gebieterischer
 Handbewegung zu.
@@ -780,7 +781,7 @@ mich schädigend in den Weg zu treten, tut es auf eigene Gefahr
 hin. Sie beide sind von mir sogar gewarnt worden.
 Trotzdem hat jetzt durch Ihre Schuld meines Verbündeten
 schnelles Schiff, das uns so wertvoll war, (— aha — sie meinte
-die Piratenprau) den Untergang gefunden, während mein
+die Piratenprau!) den Untergang gefunden, während mein
 Bruder gleichfalls durch Sie dem Richter überliefert wurde.
 Es ist also höchste Zeit, daß so lästige Menschen beseitigt
 werden.«
@@ -800,7 +801,7 @@ Ich hörte neben mir eine Bewegung. Harst hatte sich
 aufgerichtet. Ich schaute hin. Dann begann er schon zu
 sprechen.
 
-»Auszutauschen?« fragte er mit heiseren belegter
+»Auszutauschen?« fragte er mit heiserer, belegter
 Stimme. »Ich kann diesen Vorschlag nur so deuten, daß
 Schraut und ich Ihren Bruder befreien sollen.«
 
@@ -843,7 +844,7 @@ Da — die Malcapier fragte jetzt kurz:
 
 »Nun, Herr Harst?«
 
-»Sie unsterschätzen uns beide,« erklärte Harst verächtlich.
+»Sie unterschätzen uns beide,« erklärte Harst verächtlich.
 »Sogar sehr! Eher verhungern wir, als daß wir uns
 auf einen solchen Handel einlassen.«
 
@@ -902,7 +903,7 @@ zwischen Vorder- und Hinterleib geschlungen war.
 Damit sie an dem Faden nicht hochklettern konnte, war dieser
 durch ein Loch in ein rundes Glasstück geführt, das durch
 ein Streichholz am Tieferrutschen gehindert wurde. Diese
-Glasplatte war nur klein, hatte nur 1 ½ Zentimeter Durchmesser,
+Glasplatte war nur klein, hatte nur 1½ Zentimeter Durchmesser,
 so daß der Spinnenleib ein wenig darunter hinwegragte.
 
 Ich ahnte sofort: es konnte nur eine Matsoa-Spinne
@@ -952,7 +953,7 @@ einer halben Minute — zuckte das gepeinigte Tier ein
 paarmal wie im Krampf zusammen, wurde matter und matter
 und verendete unter schrecklichen Zuckungen.
 
-»Genug!« sagte Harst da ganz unvermittelt »Ich bin
+»Genug!« sagte Harst da ganz unvermittelt. »Ich bin
 soeben um vieles klüger geworden! Nennen Sie Ihre Bedingungen,
 Eugenie Malcapier! Mein Leben ist denn doch
 wertvoller als das Ihres Bruders!«
@@ -998,7 +999,7 @@ auch sofort die Treppe hinaufeilte.
 Dann begann sie:
 
 »Meine Bedingungen sind folgende: Sie beide geben
-mir Ihr Ehrenwort, daß Sie erstens: Niemandem verraten
+mir Ihr Ehrenwort, daß Sie erstens: Niemandem verraten,
 hier überfallen worden zu sein; zweitens: mich und meine
 Genossen fernerhin ganz unbehelligt lassen; drittens: meinen
 Bruder Charles möglichst bald und ohne daß auf Sie Verdacht
@@ -1142,7 +1143,7 @@ erhebt, mitten in die Stadt eingebettet, richtig wie eine Zwingburg.
 
 Harst hielt mir sein Zigarettenetui hin.
 
-»Bediene Dich. — War ganz interessant, dieser Zwischenfall
+»Bediene Dich. — War ganz interessant, dieser Zwischenfall,
 oder nicht?!«
 
 Ich konnte nun endlich meine Weisheit an den Mann
@@ -1174,7 +1175,7 @@ Allergeringste davon, daß eine Matsoa-Spinne und das Gift
 dieser Tiere bei dem Verbrechen eine bisher unaufgeklärte
 Rolle spielt, hat in die Öffentlichkeit dringen lassen. Die
 Zeitungen und das Publikum glauben noch heute die Geschichte
-von dem vergifteten Dolch oder Messer die Jobster erfunden
+von dem vergifteten Dolch oder Messer, die Jobster erfunden
 hat. Daß auch die Malcapier — und nun gib acht,
 mein Alter! — ebenfalls in keiner Weise ahnt, daß die Behörden
 in Wahrheit das Rätsel dieser Matsoa-Spinne, die
@@ -1189,7 +1190,7 @@ herabhängenden Matsoa eine gewisse Bedeutung
 beimißt. — Kurz das alles zusammengefaßt: Stevenpoles
 chinesische Diener sind Vertraute der Malcapier; Stevenpole
 wird ermordet, und mit dem Morde hängt eine Matsoa oder
-doch Matsoagift irgendwie zusammen; wir beide aber werden
+doch Matsoa-Gift irgendwie zusammen; wir beide aber werden
 gleichfalls durch Matsoas bedroht. Da ist also nun die Verbindung
 zwischen der Malcapier und dem Morde gegeben:
 die Matsoa-Spinne stellt diese Verbindung her!«
@@ -1200,7 +1201,7 @@ der hell erleuchteten Hauptstraßen ein.
 »Und nun das Belastendste für die Malcapier!« fuhr er
 fort und schob seinen Arm in den meinen. »Sie sprach von
 einer »*geladenen*« Matsoa, als sie den Chinesen ermahnte,
-ja vorsichtig zu sein, beim Hantieren mit den Spinnen.
+ja vorsichtig zu sein beim Hantieren mit den Spinnen.
 — Geladene Matsoa! Begreifst Du, was das bedeutet?
 — Nun, es kann nur eins bedeuten, und dies beweist die
 ganze Ruchlosigkeit dieses Weibes und auch die Art des Todes
@@ -1240,7 +1241,7 @@ etwas auf den Zahn fühlen. Vielleicht kennt er das Versteck
 seiner Schwester, die ja noch in Singapore sein kann;
 vielleicht kann ich aus ihm wenigstens ein paar unvorsichtige
 Bemerkungen herauslocken. Ich habe da so eine Idee, die
-vielleicht zum Ziele führt. Ich werde mich verkleiden als
+vielleicht zum Ziele führt. Ich werde mich verkleiden, als
 alter bärtiger Inder, werde dem Gefangenen dann eine gut
 erfundene Geschichte auftischen, als käme der Inder im Auftrag
 der Eugenie und als hätte er den Aufseher bestochen.
@@ -1252,7 +1253,7 @@ Jobster war sofort einverstanden, schrieb einen Zettel
 aus und besorgte nachher auch für Harst ein sehr echt aussehendes
 Kostüm.
 
-Mittags um ½ 12 betrat dann ein bärtiger, schmieriger
+Mittags um ½12 betrat dann ein bärtiger, schmieriger
 Hindu mit Zottelbart und schmutzigen Turban das Polizeigebäude.
 Der Pförtner und die Aufseher waren bereits von
 Jobster eingeweiht worden. Der Inder wurde zu Malcapier
@@ -1272,7 +1273,7 @@ Siegerlächeln gemeint: »Warte ab — es wird alles
 gut werden!«
 
 Ich saß wie auf Nadeln. Jobster — der Ahnungslose!
-war wieder hinter einem gelben Auto her, das im Hafenviertel
+… war wieder hinter einem gelben Auto her, das im Hafenviertel
 gesehen worden war. Er wußte nichts, gar nichts
 <@pagebreak/>
 von dem, was wir inzwischen erlebt und daß wir das Auto
@@ -1293,7 +1294,7 @@ Pendeltür und der Inder erschien, schritt dem Ausgang zu
 und ging, ohne mich zu beachten, auf die Straße hinaus.
 
 Ich hatte scharf hingeschaut. Ich sah, daß es nicht Harst
-war. Es war Charles Malcapier, den Harst glänzed
+war. Es war Charles Malcapier, den Harst glänzend
 zurechtgeschminkt hatte mit den mitgenommenen Hilfsmitteln.
 
 Und wieder schlichen die Minuten. Was würde nun
@@ -1416,7 +1417,7 @@ die dann immer mehr Faden aus ihrer Drüse hergeben
 müssen.
 
 Nun stellte Harst Tom Barbaley an die Tür. »Bitte,
-schauen Sie genau nach der hängenden Spinne hin,« sagte er.
+schauen Sie genau nach der hängenden Spinne hin!« sagte er.
 »Besinnen Sie sich ganz genau: sahen Sie damals morgens
 den Spinnwebfaden deutlicher als jetzt, wo man ihn doch
 hier von der Tür aus überhaupt nicht wahrnimmt?«
@@ -1432,7 +1433,7 @@ Sie zuckte nur die Achseln.
 
 Harst kletterte nun auf die Trittleiter, untersuchte die
 braun lackierte Holzdecke gerade über dem Billard, rief plötzlich:
-»Ah — ein Astloch in dem der Ast sich nach oben herausschieben
+»Ah — ein Astloch, in dem der Ast sich nach oben herausschieben
 läßt!«
 
 Er kam wieder die Leiter herunter, lehnte sich an das
@@ -1441,7 +1442,7 @@ Billard, sagte zur Malcapier: »Ich durchschaue jetzt alles.
 dabei vielleicht auf die Piratenprau aufmerksam geworden
 <@pagebreak/>
 sein, die gerade dort ankerte und die jetzt der Stern von Siam
-gerammt und zerstört hat. Sie Eugenie Malcapier waren
+gerammt und zerstört hat. Sie, Eugenie Malcapier, waren
 die Verbündete des Besitzers der Prau. Das ist ja längst erwiesen.
 Sie und die Diener des Admirals machten dann gemeinsame
 Sache. Stevenpole sollte schnell sterben, damit er
@@ -1458,7 +1459,7 @@ geladen, noch schnell benutzt, um ihn völlig zu töten. Hierbei
 Gesicht, eilte davon. Die Matsoa aber wurde schnell
 hochgezogen und konnte deshalb nirgends gefunden werden.
 — So erhielt der Tod Stevenpoles etwas Rätselhaftes, etwas
-geradezu Unerklärliches. — Wollen Sie noch weiter leugnen
+geradezu Unerklärliches. — Wollen Sie noch weiter leugnen,
 Eugenie Malcapier?!«
 
 Sie leugnete. Aber einer der chinesischen Diener gestand
@@ -1473,7 +1474,7 @@ uns Engländern doch über!« —
 Der Leser mag nun selbst entscheiden, ob Harst in diesem
 Falle nicht wirklich Bewundernswertes geleistet hat. Ich
 selbst halte dieses Problem für eins der vielseitigsten und
-merkwürdigsten, daß Harald je gelöst hat.
+merkwürdigsten, das Harald je gelöst hat.
 
 Was aus Eugenie Malcapier wurde, erzähle ich im folgenden
 Band:

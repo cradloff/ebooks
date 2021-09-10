@@ -2,14 +2,14 @@
  
 <h1>Der Stern von Siam.</h1>
 
-<h2>1. Kapitel</h2>
+<h2>1. Kapitel.</h2>
 
 <h3>Borderlebnisse.</h3>
 
 Die Sirene des »Stern von Siam« heulte ihren Abschiedsgruß
 über die Gärten, Häuser und zahllosen Tempel von
 Bangkok hin. Schwerfällig setzte sich dann der alte klapperige
-Raddampfer in Bewegung der den prahlerischen Namen
+Raddampfer in Bewegung, der den prahlerischen Namen
 »Stern von Siam« wahrlich nicht verdiente.
 
 Wir standen neben dem Eigentümer und Kapitän dieses
@@ -24,7 +24,7 @@ gebeten, ihm dort recht oft Gesellschaft zu leisten.
 
 Der Stern von Siam glitt langsam den Menam-Fluß
 hinab. Erst außerhalb der Stadt durften die Schaufelräder
-ihre volle Kraft entfalten. Schneller zogen nun die Ufer die
+ihre volle Kraft entfalten. Schneller zogen nun die Ufer, die
 Lastkähne und all die seltsamen Schifflein dieses Weltteils an
 uns vorüber, manche darunter anzusehen wie die Überbleibsel
 uralter Schiffbauversuche.
@@ -76,7 +76,7 @@ Master Harst, — ich hab mich sehr gewundert, als Sie
 heute an Bord kamen und eine Kabine bis Singapore belegten.
 Ich habe im Bangkok Rekorder die Geschichte von dem
 Diebstahl im P’hrabat-Kloster gelesen und weiß, daß die
-Haupttäterin, diese Miß Eugenie Malcapier mit acht Edelsteinen,
+Haupttäterin, diese Miß Eugenie Malcapier, mit acht Edelsteinen,
 darunter drei taubeneigroßen Smaragden von wundervollem
 Schliff, entkommen ist. Im Rekorder stand aber
 auch, daß Sie versuchen wollten, der Malcapier die Beute
@@ -87,15 +87,15 @@ habe mein Lebelang großes Interesse für alles gehabt, was
 so mit der Verfolgung von Verbrechern zusammenhängt.«
 
 »Allerdings — aufgegeben!« nickte Harst. »Wenn Sie
-mir auf Ihr Wort versprechen zu schweigen, dann —«
+mir auf Ihr Wort versprechen, zu schweigen, dann —«
 
 Tompson reichte Harst die Hand. »Ich bin kein altes
-Weib Master!«
+Weib, Master!«
 
-»Nun gut — dann will ich Ihnen nur sagen, daß ich’s
+»Nun gut, — dann will ich Ihnen nur sagen, daß ich’s
 nicht aufgegeben habe, sondern beabsichtige, in einer Verkleidung
 von Paknam (Ort am linken Menam-Ufer, eine Meile
-von der Mündung entfernt) aus nach Bangkok zurückkehren.
+von der Mündung entfernt) aus nach Bangkok zurückzukehren.
 In Paknam legt Ihr Dampfer doch hier im Flußgebiet
 des Menam zum letzten Male an, nicht wahr? — Nun,
 da könnten Sie mir und meinem Freunde einen Gefallen tun.
@@ -107,7 +107,7 @@ Koffer? Sollen die mit an Land?«
 
 »Gewiß, wenn’s sich machen läßt.«
 
-»Na, dann spielen Sie beide am besten ein Paar eingeborene
+»Na, dann spielen Sie beide am besten ein Paar eingeborene,
 verräucherte Heizer. Die Kostüme beschaffe ich Ihnen
 schon. Und dann mengen Sie sich —«
 
@@ -177,14 +177,14 @@ die Vererbungstheorie!«
 »Das tue ich. — Ihr Vater war eine Abenteurernatur.
 Die Tochter wurde Diebin und Anführerin einer Erpresserbande.
 Das wissen wir alles, das ist erwiesen. Du meinst
-nun noch, sie sei auch Schmugglerin nicht wahr?«
+nun noch, sie sei auch Schmugglerin, nicht wahr?«
 
 Er antwortete nicht. Er lauschte. Draußen auf Deck
 hörten wir lauten Lärm. Plötzlich sprang Harst auf und
 lief hinaus, winkte mir noch zu, ihm zu folgen.
 
 Auf dem Vorschiff hatten einige zwanzig chinesische Kulis
-sich gelagert die nach Lakon wollten und unter denen
+sich gelagert, die nach Lakon wollten und unter denen
 jetzt Streit entstanden war. Gerade als wir das Vorschiff
 <@pagebreak/>
 betraten, begann eine allgemeine Prügelei. Dann — warfen
@@ -198,7 +198,7 @@ der Prau emporkletterte und von der Besatzung beinahe wieder
 in den Strom gestoßen wurde.
 
 Kapitän Tompson fluchte jetzt in allen Tonarten auf die
-gelbe Vorschiff-Bande und drohte sie in Paknam von Bord
+gelbe Vorschiff-Bande und drohte, sie in Paknam von Bord
 zu weisen, wenn sie nicht Frieden hielten.
 
 Inzwischen war der Dampfer längst an der Prau vorüber,
@@ -221,10 +221,10 @@ was er denn in Paknam eingekauft habe, erwiderte er:
 
 »Das, was wir sehr bald brauchen werden.«
 
-Der Stern von Siam dampfte weiter. wir standen wieder
+Der Stern von Siam dampfte weiter. Wir standen wieder
 auf der Brücke.
 
-»Haben Sie ein paar Minuten Zeit Käp’ten?« fragte Harst.
+»Haben Sie ein paar Minuten Zeit, Käp’ten?« fragte Harst.
 
 Tompson nickte. »Für Sie immer.«
 
@@ -232,7 +232,7 @@ Tompson nickte. »Für Sie immer.«
 Kabine. Aber lassen Sie sich vor den chinesischen Kulis nicht
 sehen.«
 
-»Na Nu — was soll das?« meinte Tompson und blickte
+»Na nu — was soll das?« meinte Tompson und blickte
 Harst forschend an.
 
 »Nachher! — Auf Wiedersehen.« —
@@ -246,18 +246,18 @@ Und wie stark ist sie?«
 der Hälfte. Die anderen sind Gesindel.«
 
 <@pagebreak/>
-»Aha neun Mann, dazu wir drei und noch vier männliche
-Fahrgäste — macht sechzehn Leute. Das genügt —
-was haben Sie an Waffen an Bord?«
+»Also neun Mann, dazu wir drei und noch vier männliche
+Fahrgäste — macht sechzehn Leute. Das genügt. —
+Was haben Sie an Waffen an Bord?«
 
 »Waffen?! — Einen Revolver besitze ich, und mein erster
 Steuermann und der Maschinist haben auch noch so ’nen
-sechschüssigen Bulldogg. — Aber, zum Teufel, weshalb fragen
+sechsschüssigen Bulldogg. — Aber, zum Teufel, weshalb fragen
 Sie so merkwürdige —«
 
 Harst hatte schon das Paket geöffnet, das er vorhin
-mitgebracht hatte. Es war ein Pappkarton und darin lagen
-etwa fünfzehn Revolver verschiedenster Systeme nebst
+mitgebracht hatte. Es war ein Pappkarton, und darin lagen
+— etwa fünfzehn Revolver verschiedenster Systeme nebst
 Patronenschachteln.
 
 »Verdammt!« brummte Tompson bei diesem Anblick.
@@ -324,7 +324,7 @@ es nicht so aussehen sollte, daß er vor mir floh! Aber — es
 war eine Flucht, nur eine geschickt verhüllte. Und der
 Bursche war kein anderer als —«
 
-»Eugenie Malcapier!«, platzte ich heraus.
+»Eugenie Malcapier!« platzte ich heraus.
 
 <h2>2. Kapitel.</h2>
 
@@ -335,6 +335,7 @@ Wichtiges, Käp’ten. Die Malcapier schickte gestern an den
 Chinesen nach Paknam folgende Depesche:
 
 <@pagebreak/>
+
 > Bei klarem Sternhimmel heute Mond genau beobachten
 und Bewölkung abwarten — Eumalca.«
 
@@ -366,7 +367,7 @@ Prau an den Kragen wollten. Die Prau selbst dürfte uns in
 dem Hauptmündungsarm des Menam erwarten, wo ja das
 Gewirr der Deltakanäle mit ihren undurchdringlichen
 Mangrovendickichten hunderte von Schlupfwinkeln bieten. Doch
-— davon später! Nun vorwärts, Tompson wir haben keine
+— davon später! Nun vorwärts, Tompson, wir haben keine
 Zeit zu verlieren!«
 
 Der Käp’ten eilte davon. — Der Stern von Siam hatte
@@ -439,8 +440,8 @@ mit den Kulis hier fraglos ein Signal vereinbart, das
 anzeigen sollte, alles stehe gut. Das Signal ist ausgeblieben.
 Also zieht die Prau sich zurück! — Daran habe ich leider
 nicht gedacht, daß die Bande ein Signal verabredet hatte.
-Jetzt beweisen Sie der Prau mal, Käp’ten daß sie was gegen
-uns im Schilde führte! Wird Ihnen schwerfallen! Ja
+Jetzt beweisen Sie der Prau mal, Käp’ten, daß sie was gegen
+uns im Schilde führte! Wird Ihnen schwerfallen! Ja —
 die Halunken sind vorsichtig gewesen. Man kann ihnen
 unter diesen Umständen nichts anhaben. Unsere Kulis leugnen
 ja jede Gemeinschaft mit irgend welchen Piraten. Und
@@ -450,7 +451,7 @@ Gericht genügen.«
 Tompson zuckte die Achseln. »Das ist mir alles sehr
 gleichgültig. Ich werde die Sache in Lakon melden und dort
 auch die Chinesen der Behörde übergeben. Dann mögen die
-hohen Herren machen was sie wollen.«
+hohen Herren machen, was sie wollen.«
 
 Harst stimmte zu. — Der Raddampfer lief gleich darauf
 in den Golf von Siam hinaus und fuhr mit südlichem Kurs
@@ -482,7 +483,7 @@ lag jetzt still; die Trossen waren an den Kaipfählen befestigt.
 Zwei elektrische Bogenlampen beleuchteten die Anlegestelle.
 Wir traten beiseite. Die Matrosen schoben die Laufplanke
 aus. Kaum lag sie unten auf dem Bollwerk, als ein älterer
-Europäer hinaufeilte sich vor uns verbeugte und fragte, ob
+Europäer hinaufeilte, sich vor uns verbeugte und fragte, ob
 <@pagebreak/>
 eine Kabine frei wäre; er müsse seinen schwerkranken Sohn
 nach Singapore bringen, wo dieser operiert werden solle. Dabei
@@ -573,7 +574,7 @@ fest und würde sehr — *würde* sehr enttäuscht sein, wenn
 sie uns nicht mehr auf dem Stern von Siam fände! Aber
 — sie wird uns finden, oder besser — wir sie! — Bist Du von
 dieser Ergänzung meiner Schlüsse, die ich vorhin Tompson
-entwickelte befriedigt?«
+entwickelte, befriedigt?«
 
 <@pagebreak/>
 »Ja — bis auf einen Punkt: die Malcapier muß an
@@ -630,7 +631,7 @@ hier einfach an Land!«
 »Aber gewiß, — bitte, ich schreibe diese Zusicherung sofort.«
 
 Dann Stille. — Harst flüsterte jetzt: »Der andere ist ein
-Polizeibeamter von hier. Tompson hat ihm die Gefangenen
+Polizeibeamter von hier. Tompson hat ihm die gefangenen
 Kulis überantworten wollen, soll sie nun aber mit nach Singapore
 nehmen. Das kostet ihm natürlich ’ne Menge Proviant,
 und deshalb —«
@@ -639,7 +640,7 @@ Da — abermals Tompsons Grogbaß nebenan:
 
 »Gut denn. Ich bin zufrieden. ’n Abend, Master Primarieux.«
 
-Wir hörten die Tür öffnen und schießen. Dann kam
+Wir hörten die Tür öffnen und schließen. Dann kam
 Tompson in die Schlafkabine, warf aber nur seinen nassen
 Ölmantel in eine Ecke und wollte wieder verschwinden.
 
@@ -737,7 +738,7 @@ den Kessel hineinfragte:
 
 »Wie geht’s Dir?«
 
-Die Antwort konnte ich nicht hören, aber die Frau die
+Die Antwort konnte ich nicht hören, aber die Frau, die
 oben auf dem Kessel lang ausgestreckt liegen mußte, flüsterte
 nun:
 
@@ -854,7 +855,7 @@ würde.
 Wir rührten uns nicht, und der Kerl verschwand.
 
 »Vorwärts!« meinte Harst. »Ein Va Banque-Spiel
-bleibts ja, sich hier herauszuwagen. Aber es geht nicht anders!
+bleibt’s ja, sich hier herauszuwagen. Aber es geht nicht anders!
 Wir müssen’s riskieren. Da — der Regen ist noch
 stärker geworden.«
 
@@ -863,7 +864,7 @@ und winkte mir. Man konnte in dieser Sintflut keine drei
 Schritt weit sehen. Wir krochen auf allen Vieren dem
 Vorschiff zu. Harst immer ein paar Meter voraus.
 
-Da — ein Chinese war über Harst gestolpert schlug
+Da — ein Chinese war über Harst gestolpert, schlug
 lang hin.
 
 Harst hatte ihn schon an der Kehle. Ein Hieb mit dem
@@ -936,7 +937,7 @@ vor sich hin und leuchtete dann Harst ins Gesicht.
 Nun verstand ich, was der Mensch im Selbstgespräch
 murmelte:
 
-»Teufel — ob’s wirklich oder deutsche Detektiv ist?!
+»Teufel — ob’s wirklich der deutsche Detektiv ist?!
 Na — dann hätte ich ja einem Kollegen übel mitgespielt!
 Wer konnte aber auch denken, daß gerade —«
 
@@ -979,7 +980,7 @@ es zweckmäßig sein, daß wir die Sachlage schnell klären.«
 Er setzte sich völlig aufrecht.
 
 Der Fremde stellte erst die Laterne weg, faßte dann
-leicht an die Mütze sagte:
+leicht an die Mütze, sagte:
 
 <@pagebreak/>
 »Detektivinspektor Jobster aus Singapore. — Es tut
@@ -1056,7 +1057,7 @@ gewesen.
 
 Jobster teilte uns dann noch mit, daß, als wir vorhin
 in den Kessel hinabgestiegen waren, er notwendig hatte annehmen
-müssen es mit Pegrier und einem von dessen Helfershelfern
+müssen, es mit Pegrier und einem von dessen Helfershelfern
 zu tun zu haben. —
 
 Hierauf begann Harst zu erzählen, was wir in Bangkok
@@ -1077,7 +1078,7 @@ in das Licht der Lampe, ohne sich zu bewegen. »Allerdings,«
 wiederholte er ganz geistesabwesend. »In der Gewalt der
 Kulis. Aber — wer hat diese Kulis befreit?! Wer hat die
 beiden Wachen überwältigt, die vor deren Gefängnis Posten
-standen? Ich habe mir den Raum angesehen gehabt. Die
+standen?! Ich habe mir den Raum angesehen gehabt. Die
 Tür war mit Blech benagelt, hatte ein Schloß und zwei Riegel.
 Die Wachen hatte Kapitän Tompson so ausgesucht, daß
 sie absolut zuverlässig waren. Sie können also nur hinterlistig
@@ -1093,7 +1094,7 @@ zu stören.
 
 Wir schwiegen und warteten. — Ohne seine Stellung zu
 verändern, in der Tat wie ein Automat, mit fast ungelenken
-Bewegungen, nahm er jetzt sein goldenes Zigarettenetui aus
+Bewegungen nahm er jetzt sein goldenes Zigarettenetui aus
 der Tasche und schob eine Mirakulum zwischen die Lippen.
 
 Jobster reichte ihm ein brennendes Zündholz. Er langte
@@ -1164,7 +1165,7 @@ wir herausbekommen.«
 
 »Wie ist die Malcapier denn hier an Bord gelangt?«
 fragte Jobster nun. »Doch wohl unter den Passagieren, die
-in Lakon sich neu einschifften und natürlich verkleidet.«
+in Lakon sich neu einschifften, und natürlich verkleidet.«
 
 »Hm — diese Verkleidung hätte — und das sagte sie
 sich selbst — ihr meinen Augen gegenüber nicht viel genützt.
@@ -1179,7 +1180,7 @@ Weib ja —«
 
 »Oh — lassen wir das jetzt!« winkte Harst ab. »Sie
 müssen sich schon an meine Eigentümlichkeiten gewöhnen. Ich
-verspare mir mindestens eine Überraschung stets bis zur
+verspare mir mindestens eine Überraschung stets bis zur —
 Katastrophe auf! Jedenfalls: die Malcapier ist an Bord! Und
 ebenso sicher soll der Stern von Siam, in der kommenden
 Nacht vielleicht schon, ausgeplündert und als Massengrab in
@@ -1273,7 +1274,7 @@ Platz, Jobster. Ich habe Eile!«
 
 <h2>5. Kapitel.</h2>
 
-<h3>Der Trieb der Malcapier.</h3>
+<h3>Der Trick der Malcapier.</h3>
 
 Wir drei standen nun dicht beieinander im Kessel. Harst
 berichtete im Depeschenstil:
@@ -1299,7 +1300,7 @@ man mit der Waffe dazu zwingt. Ich nehme an, die drei im
 Speisesaal fehlenden Chinesen spielen im Maschinenraum die
 Wachen. Auf der Brücke des Stern von Siam befinden sich
 als Kapitän der Steward Pegrier und als seine Gehilfen zwei
-Matrosen des Dampfers zwei Siamesen, die also seine Verbündeten
+Matrosen des Dampfers, zwei Siamesen, die also seine Verbündeten
 sind!«
 
 »Und die Malcapier?« warf Jobster hastig ein.
@@ -1320,7 +1321,7 @@ Harald ins Wort. »Nun — das wird sich ja bald zeigen,
 ob ich recht habe, ob sie nämlich wirklich so überaus vorsichtig
 ist, daß sie —«
 
-Er machte eine kurze Handbewegung fügte hinzu: »Lassen
+Er machte eine kurze Handbewegung, fügte hinzu: »Lassen
 wir all die überflüssigen Worte. Wir müssen ans Werk.«
 
 Wir verließen gleich darauf unser Versteck. Der Dampfer
@@ -1442,7 +1443,7 @@ seinem Bett. Der zweite Matrose, den Revolver in der Hand,
 stand neben der Tür.
 
 Der alte Baron sprang sofort auf, rief Tompson erregt
-zu: »Kapitän, weshalb wenden wir hier wie die Verbrecher
+zu: »Kapitän, weshalb werden wir hier wie die Verbrecher
 bewacht?! Ich werde —«
 
 »Weil Sie Verbrecher sind!« schnitt Harst ihm schon das
@@ -1496,7 +1497,7 @@ Der graubärtige Herr senkte den Kopf und schwieg. —
 
 Jobster verhaftete die beiden. Bei der Durchsuchung ihres
 Gepäcks wurden auch die acht Edelsteine gefunden, die
-jetzt wieder den Baldachin der Buddha-Statue des P’hrabat—Klosters
+jetzt wieder den Baldachin der Buddha-Statue des P’hrabat-Klosters
 schmücken.
 
 <@pagebreak/>

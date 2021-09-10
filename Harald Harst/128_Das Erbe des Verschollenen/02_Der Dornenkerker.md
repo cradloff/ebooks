@@ -843,7 +843,7 @@ Zog dann mit den Zähnen nacheinander die Nickelmantelkugeln
 aus den Patronenhülsen …
 
 Schüttelte diese … Bewies mir, daß das Pulver
-— heraugenommen war.
+— herausgenommen war.
 
 <@pagebreak/>
 »Unsere ganze Munition ist wertlos,« sagte er dumpf.
