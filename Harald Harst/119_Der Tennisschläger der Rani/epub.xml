@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">5cfa5fb6-e641-11eb-b921-d73ca7706085</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Tennisschläger der Rani</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">119</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Tennisschläger der Rani
+
+Dort in weiter Ferne, wo der gelbfahle Wüstenrand am Horizont mit dem im Morgenzwielicht ebenfalls gelbfahlen Himmel in eins verschwamm, zog eine Kamelkarawane gemächlich dahin, ein seltsames Bild, da die Tiere bei dieser Beleuchtung samt ihren beturbanten Führern in der Luft zu schweben schienen.
+
+Wir, Harald Harst und ich, hatten soeben unser Frühstück beendet, und Harald war es gewesen, der mich auf die Lastkarawane, die da scheinbar in der Luft ihren Weg gen Süden nahm, aufmerksam gemacht hatte.
+
+Harald hatte jetzt sein Fernglas auf die Karawane eingestellt, die in der Tat einen seltsamen Anblick darbot, wie sie so scheinbar schwebend dahinzog.
+
+»Du könntest dasselbe tun,« meinte er nach einer Weile.  »Ich finde, das da drüben ist jetzt wichtiger als Deine Morgenzigarre …«
+
+Er hatte das scharfe Glas während dieser Worte nicht von den Augen genommen und rief nun schon nach wenigen Minuten, während ich noch die Schnalle meines Fernglasfutterals aufzog:
+
+»Wahrhaftig — das sieht wie ein Überfall aus!!«
+
+Der Mann mit den Handschuhen
+
+Wir vier saßen nun vor dem Tempel in bequemen Rohrsesseln.
+
+Ein sanfter, aber heißer Wind ließ die Parkbäume rauschen, und die wispernden Stimmchen von unzähligen Blättern waren die diskrete Begleitmusik zu der Fürstin offenem Geständnis.
+
+»Was wissen Sie, Mr. Harst, und was glauben Sie zu wissen?« begann die junge Rani von Gagawar mit ihrem angenehmen weichen Organ.
+
+Harald nickte. »Der Gagawar-Smaragd ist in Fachkreisen ebenso berühmt, Sir. Als ich in Berlin Ihr Schreiben mit der Aufforderung erhielt, den Smaragd zu suchen, habe ich mich an den besten Indienkenner Berlins, den Geheimrat Rüdinger, gewandt. Der konnte mir über den Smaragd folgendes angeben: Ein Stein von drei Zentimeter Länge, zwei Zentimeter Breite und von gleichmäßigem Schliff, tadelloser Reinheit, wunderbarem Feuer und nur mit einem Fehler behaftet, der das Kleinod jedoch eher noch wertvoller macht, denn — in der Mitte des Steines ist ein winziges Käferchen eingeschlossen und so gut zu erkennen, daß man sogar festgestellt hat, zu welcher Familie es gehört.  Einer uralten Sage nach soll nun zugleich mit dem Käferchen die Seele der ersten Fürstin von Gagawar in den Smaragd mit eingesperrt sein, angeblich zur Strafe dafür, daß jene Rani in heißer Liebe zu einem Fremden, einem Holländer entbrannt war. Und weiter heißt es in derselben Sage, daß der Edelstein einmal spurlos verschwinden würde, wenn abermals eine Fürstin von Gagawar ihr Herz einem Fremden schenken sollte und daß derjenige jedoch als Gemahl dieser Rani den Thron von Gagawar besteigen würde, der den Smaragd wieder herbeischaffen könnte. — Dies also war mir über den gestohlenen Stein bekannt, als ich mit Freund Schraut hier nach Indien reiste. Was uns dann in der Thar zustieß, wissen Hoheit bereits, und was hier im Schlosse sich abgespielt hat, haben Hoheit teilweise miterlebt. —«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (119) Der Tennisschläger der Rani.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
