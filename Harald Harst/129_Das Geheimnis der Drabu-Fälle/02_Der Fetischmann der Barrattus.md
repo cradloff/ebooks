@@ -499,7 +499,7 @@ Eine Fackel, die in eine Felsspalte gesteckt worden war.
 
 Daneben eine Gestalt – ein Mensch, der die Hand zum Munde führte, kaute, aß … fraß:
 
-> Gurma!
+<p class="centered">Gurma!</p>
 
 Natürlich unser Gurma! Natürlich!
 

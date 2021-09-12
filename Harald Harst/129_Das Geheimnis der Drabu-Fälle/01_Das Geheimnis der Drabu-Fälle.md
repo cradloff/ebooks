@@ -341,7 +341,7 @@ Harald wieder voran …
 
 Sehr vorsichtig – sehr langsam …
 
-Ich hinterdrein … Und mir war die Kehle wie zu geschnürt … Ich ahnte, daß ich noch Unerhörteres sehen würde … Noch andere Bilder des Schreckens, für die ich bisher keine Erklärung hatte.
+Ich hinterdrein … Und mir war die Kehle wie zugeschnürt … Ich ahnte, daß ich noch Unerhörteres sehen würde … Noch andere Bilder des Schreckens, für die ich bisher keine Erklärung hatte.
 
 Meter um Meter rutschten wir hinab …
 
@@ -485,14 +485,14 @@ Jetzt – sah auch ich, daß der schmierige Zettel doch sein Geheimnis hatte. Da
 
 Ich will diese beschriebene Seite hier genau wiedergeben, damit auch meine Leserfreunde Gelegenheit haben, sich im Entziffern einer Geheimschrift zu versuchen. Den im Original englisch abgefaßten Text habe ich ins Deutsche übertragen.
 
-<div class="pre" style="indent: 2em;">
+<div class="pre" style="margin: 1em 0 1em 2em;">
 Für   den   Di     Soll    len    su
-Mor    Dra    am    te    kön    chen,
-ton.     bu    an    ich    nen,     sie
-Ich    Fäl    ten    sie    so    Dir
-ha    len    ge    nicht    magst    an
-be    schwar    fun    mehr    Du    zu
-in    ze    den.     ho    ver    eig    nen.
+Mor    Dra    am     te    kön     chen,
+ton.  bu    an    ich    nen,     sie
+Ich   Fäl    ten    sie    so    Dir
+ha   len    ge    nicht    magst   an
+be   schwar    fun    mehr    Du    zu
+in   ze   den.   ho    ver   eig   nen.
 </div>
 
 Nun – diese »Geheimschrift« ist ja so überaus einfach zu lösen, daß ich wohl kaum eine Erklärung dazu abzugeben brauche. Der Leser wird sie genau so glatt entziffern können wie ich damals auf unserem Lagerplatz in der »Dunkelkammer«.
@@ -509,7 +509,7 @@ Harald meinte leise:
 
 »Und ein präparierter Käfer in einer Bibel!« nickte ich.
 
-»Ja, mein Alter … Auch das. Hier interessieren uns nur die Diamanten … Nur. Nicht aus Goldgier. Das brauche ich nichts zu betonen. – Ich habe mein Lebtag nichts von Drabu-Fällen gehört. Fragen wir mal Gurma …«
+»Ja, mein Alter … Auch das. Hier interessieren uns nur die Diamanten … Nur. Nicht aus Goldgier. Das brauche ich nicht zu betonen. – Ich habe mein Lebtag nichts von Drabu-Fällen gehört. Fragen wir mal Gurma …«
 
 Und er rief dem Freßsack zu:
 

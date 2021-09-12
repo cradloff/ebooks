@@ -62,6 +62,12 @@ blockquote {
 	text-align: left;
 }
 
+ol {
+	margin: 2pt 0 2pt;
+	padding-left: 1.3em;
+	text-align: justify;
+}
+
 /* Landmarks und Page-List ausblenden */
 #landmarks, #page-list {
 	display: none;
