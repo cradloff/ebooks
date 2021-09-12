@@ -55,7 +55,7 @@ Und fuhr fort:
 
 »Wenn die Herren sich nicht schämen, hier in den Anlagen
 eine Weile zusammenzustehen mit einem, dem jeder
-Hund ausweicht vor Ekel, dann … dann könnte im Ihnen
+Hund ausweicht vor Ekel, dann … dann könnte ich Ihnen
 eine Geschichte erzählen, bei der wohl jedem sich … das
 Haar sträuben muß vor Grauen und Entsetzen … So eine
 Geschichte, die noch kein … Ende hat … Die noch weiter
@@ -82,7 +82,7 @@ sehr gut, daß Sie beide in gewissem Sinne etwas
 schrille Lachen.
 
 »Original!! So haben mich hier die Heringsdorfer,
-die Ahlbecker, die Neuhofer und Bansiner gekauft! — Original
+die Ahlbecker, die Neuhofer und Bansiner getauft! — Original
 …!! Meinen Namen haben sie fast über dieser
 Bezeichnung vergessen. Die Kinder rufen mir höhnend nach:
 Orjinal — — Der alte Orjinal!! Und ahnen nicht, daß
@@ -155,7 +155,7 @@ Gegenstück zu Gottlieb Joost, wie es nicht krasser sein
 konnte.
 
 »Pardon — nur eine Frage, sehr verehrter Herr Harst.
-Ich habe da in der gestrigen Swinemünder Zeitung dort
+Ich habe da in der gestrigen Swinemünder Zeitung von
 ihrem Abenteuer im Wrack des holländischen Schoners gelesen
 … Kann man in das verschüttete Wrack tatsächlich
 hineingelangen?«
@@ -209,7 +209,7 @@ Lief mit einem Male …
 
 Lief zu dem Verkommenen hin … —
 
-Ich brauche wohl kaum mehr zu sagen daß Gottlieb
+Ich brauche wohl kaum mehr zu sagen, daß Gottlieb
 Joost tot war …
 
 Tot …
@@ -221,7 +221,7 @@ Jahren der Gemeinde als Ortsarmer zur Last fiel, — dieser
 Gescheiterte, dem alle Welt aus dem Wege ging, der ganz
 für sich allein lebte, den jeder mied:
 
-> ermordet!
+<p class="centered">ermordet!</p>
 
 Ermordet — durch einen Stich ins Herz …
 
@@ -334,7 +334,7 @@ gehört …
 Harrten aus, — und nach meiner Überzeugung ganz
 zwecklos …
 
-Allerdings: der Mann, der ein Dichter besonderen Art
+Allerdings: der Mann, der ein Dichter besonderer Art
 war und den Tragödien der Gesetzesverächter die Schlußszenen
 hinzufügte, der dem Gesetz Geltung und der Gerechtigkeit
 Genüge verschaffte, der hatte vorhin, nachdem die
@@ -779,7 +779,7 @@ Da küßte sie ihn flüchtig und eilte hinaus.
 Fünf Minuten später schnarchte der Spieler wie eine
 Säge auf hartem Holz …
 
-Um Vormittag mag er sich gewundert haben, daß das
+Am Vormittag mag er sich gewundert haben, daß das
 eine Fenster nur angelehnt war …
 
 Durch diesen Fensterflügel hatten wir den Rückweg angetreten.
@@ -845,7 +845,7 @@ wir alles andere nur nicht harmlos waren, begann mit
 einem Male von dem Untergang oder besser dem Brande der
 Kordelia zu sprechen, fragte die Wiener, ob sie wohl von dem
 nun zwanzig Jahre zurückliegenden Ereignis gehört hätten,
-erhielt bejahende Antwort und platzte kann mit einer anderen
+erhielt bejahende Antwort und platzte dann mit einer anderen
 Frage heraus: ob den Wienern jemals Gerüchte zu
 Ohren gekommen, daß eine Europäerin bei einem der
 Beduinenstämme am Südrande der Sahara lebe.
@@ -998,7 +998,7 @@ gestattet hatte, sich ihm anzuschließen.
 Äußerst fruchtbare, dicht besiedelte Gebiete, dann wieder
 endlose Einöden hatten wir passiert, waren zahlloser Büffel\-
 und Antilopenherden ansichtig geworden und hatten doch
-stets mit kleineres Wild für unsere Mahlzeiten geschossen.
+stets nur kleineres Wild für unsere Mahlzeiten geschossen.
 Die beiden Mauserbüchsen, die uns die Wiener Herren geliehen,
 bewährten sich trefflich. Auch Gurma war kein übler
 Schütze. Nur mit seiner Tapferkeit haperte es. Als wir

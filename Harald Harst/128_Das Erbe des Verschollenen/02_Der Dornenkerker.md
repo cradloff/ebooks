@@ -66,7 +66,7 @@ Und nun: Sahara — — Tuaregzelt, Harmonium …!
 
 Aber — dazwischen lag ja noch die eine Szene entsetzlichen
 Grauens … Der Todesschrei — der Henker, der den
-Beduinen mit krummen Schwert die Köpfe herunterschlug!
+Beduinen mit krummem Schwert die Köpfe herunterschlug!
 
 Da — brach die Musik plötzlich ab …
 
@@ -132,7 +132,7 @@ für uns gewinnen …«
 Und da erst fiel mir auf, daß Harst nicht mehr maskiert
 war …
 
-Er führte mich weiter. Ich setzte glich neben Gurma
+Er führte mich weiter. Ich setzte mich neben Gurma
 vor das Zelt, der Neger grinste mich an:
 
 »O Massa Schraut, hier sehr gut haben als Sklaven …
@@ -186,7 +186,7 @@ Wir aßen, tranken …
 Und Gurma schnatterte dabei, erzählte von unseren
 Wächtern: drei, die draußen vor der Balkentür standen …
 
-Von der Dicke des Dornenwalles — mindesten acht
+Von der Dicke des Dornenwalles — mindestens acht
 Meter …
 
 Und daß die Tuaregs diese Dornenstämme stets abends
@@ -331,7 +331,7 @@ das Etui hinein und rauchte die Mirakulum an dem glimmenden
 Aststück an, das unser Gurma ihm eilfertig gereicht
 hatte.
 
-Dann sagte Harald wieder, indem er aufs die Bößlers
+Dann sagte Harald wieder, indem er auf die Bößlers
 deutete:
 
 »Ich erklärte Dir schon, o Balimbu, daß wir zwei
@@ -555,7 +555,7 @@ Und als ich nun als erster erwachte und nach dem erquickenden
 Schlummer mich wie neugeboren und dazu noch
 einen gesegneten Hunger fühlte, als ich vor dem Zelte ganz
 leise in Rücksicht auf den noch fest schlafenden Harald diesen
-Freßsack Gurma fragte, wo beim die noch vorhin übriggebliebenen
+Freßsack Gurma fragte, wo denn die noch vorhin übriggebliebenen
 gekochten Hühnereier seien, da verzog unser
 schwarzer Diener sein Gorillagesicht zu einer tief schuldbewußten
 kläglichen Grimasse und — rieb sich mit der rechten
@@ -819,7 +819,7 @@ Nacht hinauszureiten …
 
 Grund genug …
 
-Das dachte auch Gurma, der sich mit dem rascher Ende
+Das dachte auch Gurma, der sich mit dem raschen Ende
 der Gefangenschaft bereits abgefunden hatte und nun ein
 Negerlied trällernd uns vorausjagte …
 
@@ -984,7 +984,7 @@ denen einst auch diese Gebiete gehörten, kennt man den Lokalla
 … Massa Schraut, da ist eine Schlucht in dem Berge
 an der Südseite, wo Geister hausen …«
 
-Mit Geistern war Gurma übergehend schnell bei jeder
+Mit Geistern war Gurma überraschend schnell bei jeder
 <@pagebreak/>
 Gelegenheit bei der Hand. Alles, was über seinen Negerhorizont
 ging, waren — Geister!
@@ -992,7 +992,7 @@ ging, waren — Geister!
 Ich hörte nicht mehr hin. Sein Geschwätz langweilte
 mich …
 
-Und — taxierte die Entfernung bis den Felstrümmern,
+Und — taxierte die Entfernung bis zu den Felstrümmern,
 die unten am Fuße des Berges zu Hügeln sich
 auftürmten.
 
@@ -1041,7 +1041,7 @@ Drei — Riesenstrauße, gesattelt, — so wie die Tuaregs
 die Riesenvögel als Sportliebhaber zum Reiten benutzen …
 
 <@pagebreak/>
-und dazu auf dem Boden drei Gefesselte, zwei Männer,
+Und dazu auf dem Boden drei Gefesselte, zwei Männer,
 ein Weib:
 
 Die beiden Bößlers und Perigord, der Straußenhändler,
@@ -1132,7 +1132,7 @@ die als Späher in das Gebiet der Gaghos geschickt
 worden waren … diese Beduinen sollen die Sultana gefangennehmen,
 und …«
 
-Und — da war’s Harald, er mich plötzlich packte …
+Und — da war’s Harald, der mich plötzlich packte …
 Der mir eine der Büchsen der Gefangenen in die Hände
 drückte … rief:
 
@@ -1168,10 +1168,10 @@ Hinter uns ein Schwarm von Reitern …
 
 Und ein Wettrennen — ums Leben …!
 
-Niemals hätte im geglaubt, daß Max Schraut je auf
+Niemals hätte ich geglaubt, daß Max Schraut je auf
 dem Rücken eines Straußes die Sahara durchmessen würde.
 
-Nie hätte im es für möglich gehalten, daß diese Vögel
+Nie hätte ich es für möglich gehalten, daß diese Vögel
 selbst mit der Last eines erwachsenen Mannes eine solche
 Geschwindigkeit entwickeln könnten …
 
@@ -1266,7 +1266,7 @@ eines exotischen Dramas: den Höhenzügen — den Palmen,
 immer auf der Fährte der Warangi reitend …
 
 <h2>5. Kapitel.</h2>
-<h3>Das Urteil vor Sultana.</h3>
+<h3>Das Urteil der Sultana.</h3>
 
 Ich halte es nicht für meine Aufgabe, hier Wildwestszenen
 bis ins einzelne auszumalen. Ich halte es lediglich
@@ -1399,7 +1399,7 @@ mit Gewalt gegen die Tuaregfürstin nicht gut vorgehen kann,
 wird das Verbrecherpaar wohl in Gagho seine Strafe verbüßen.«
 
 Als dieser Artikel veröffentlicht wurde, hatten wir mit
-Gurma, dem Freßsack, längst daß Geheimnis der Drabu-Fälle
+Gurma, dem Freßsack, längst das Geheimnis der Drabu-Fälle
 gelüftet … Und über dieses Geheimnis will ich im
 folgenden Band Näheres berichten.
 

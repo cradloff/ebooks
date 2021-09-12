@@ -6,7 +6,7 @@ von Harald Harst und Max Schraut bringen.
 Als sehr gut und spannend, stets ganz eigenartige
 Probleme behandelnd, empfehlen wir:
 
-<div style="font-size: large; white-space: pre-wrap; indent: 2em;">
+<div style="font-size: large; white-space: pre-wrap; margin: 2em;">
 Der Klub der Toten
 Die roten Briefe
 Die Rattenfalle
@@ -28,7 +28,7 @@ Kabels Kriminalbücher sind durch jede Buchhandlung
 zu beziehen, bei Voreinsendung des Betrages erhält man
 dieselben auch portofrei vom
 
-<div style="font-size: x-large;">
+<div style="text-align: center; font-size: large;">
 Verlag moderner Lektüre, Berlin
 </div>
 
