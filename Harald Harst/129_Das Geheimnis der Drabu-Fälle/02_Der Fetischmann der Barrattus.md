@@ -585,7 +585,7 @@ Der Fetischmann, der in seinem wunderlichen Aufputz wie ein Zirkusklown ausschau
 
 Miß Morton erklärte nun, daß ihr an den Edelsteinen früher wenig gelegen gewesen …
 
-»So lange Percy lebte, hat er Helen und mich stets reichlich mit Geld versorgt. Jetzt aber stehe ich völlig mittellos da, Mr. Harst, bin ja auch Waise, habe in Amerika nur noch ganz entfernte Verwandte.«
+»So lange Percy lebte, hat er Helene und mich stets reichlich mit Geld versorgt. Jetzt aber stehe ich völlig mittellos da, Mr. Harst, bin ja auch Waise, habe in Amerika nur noch ganz entfernte Verwandte.«
 
 »Also – suchen wir nachher!« meinte Harald nochmals. »Zunächst wollen wir Makirus Braten alle Ehre antun.«
 
