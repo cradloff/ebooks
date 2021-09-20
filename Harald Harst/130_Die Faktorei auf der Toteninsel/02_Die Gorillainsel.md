@@ -146,7 +146,7 @@ Man nahm uns jetzt die Baststricke von den Füßen ab und brachte uns an Land.
 
 Jeder von uns war von einem Dutzend bewaffneter Neger umringt. Ein Dutzend Lanzenspitzen umdrohten mich, und so schwankte ich, doch noch recht schwach und gepeinigt von wütenden Kopfschmerzen, dem ausgedehnten Dorfe zu, dessen Bienenkorbhütten sämtlich aus Steinen hergestellt waren. Als Mörtel benutzen die Biruwu Kuhdung und Lehm, eine Mischung, die steinhart wird und keine Feuchtigkeit anzieht.
 
-Begleitet von der heulenden Rotte, von Trommelschlägern und Antilopenhornbläsern ging’s durch die leidlich sauberen Straßen der Resident. Zum Teil trugen die Neger bereits brennende Fackeln, da die kurze Abenddämmerung sehr bald von der Nacht abgelöst werden mußte.
+Begleitet von der heulenden Rotte, von Trommelschlägern und Antilopenhornbläsern ging’s durch die leidlich sauberen Straßen der Residenz. Zum Teil trugen die Neger bereits brennende Fackeln, da die kurze Abenddämmerung sehr bald von der Nacht abgelöst werden mußte.
 
 Das große Dorf war rings von einer wohl fünf Meter hohen Mauer umgeben, und vor dieser war wieder ein Gürtel von Dornengestrüpp angelegt worden.
 
@@ -504,7 +504,7 @@ Während die Panzereidechse sich noch abmühte, die Decke wieder loszuwerden, ri
 
 »Drohen Sie Mandagossa, daß wir ihn dem Krokodil als Beute überlassen, wenn er nicht eingesteht, ob er Pittercray kennt.«
 
-Und – siehe da! –was die Clement nicht erreicht hatte, das bewirkte das Krokodil: Seiner Majestät Gedächtnis besserte sich, und er kreischte ein mehrfaches Ja …
+Und – siehe da! –, was die Clement nicht erreicht hatte, das bewirkte das Krokodil: Seiner Majestät Gedächtnis besserte sich, und er kreischte ein mehrfaches Ja …
 
 Auch hinsichtlich Carsons Uhr gab er nun der Wahrheit die Ehre: Carson war monatelang der Gefangene der Biruwu gewesen und ihnen dann entflohen! –
 
@@ -514,7 +514,7 @@ Mandagossas Gedächtnis blieb jetzt vorzüglich. Man muß bedenken, daß die Neg
 
 So erfuhren wir denn auch endlich die volle Wahrheit.
 
-Lionel Saunder hatte tatsächlich den Kapitän John Pittercray nach dem Manjemo geschickt, und Pittercray hatte mit einem mit Tauschartikeln gefüllten Boot sich bis nach Caradibu, der Hauptstadt der Biruwu, vorgewagt, war jedoch nachts an der belgischen Station vorübergefahren, um nichts bemerkt zu werden.
+Lionel Saunder hatte tatsächlich den Kapitän John Pittercray nach dem Manjemo geschickt, und Pittercray hatte mit einem mit Tauschartikeln gefüllten Boot sich bis nach Caradibu, der Hauptstadt der Biruwu, vorgewagt, war jedoch nachts an der belgischen Station vorübergefahren, um nicht bemerkt zu werden.
 
 Die außerordentlich reichhaltige Last des Kutters hatte denn auch Mandagossa dazu bestimmt, Pittercray zu versprechen, die drei Weißen, die, wie er sehr wohl wußte, noch weiter aufwärts am Manjemo auf einer Insel hausten, dort zu überfallen. – Die Insel hieß bei den umwohnenden Negern allgemein Tschikua-Insel, weil es dort früher sehr viel Gorillas gegeben hatte. Mandagossa schickte denn auch hundert seiner Krieger unter Führung Makobas in zwanzig Kähnen dorthin. Der Angriff auf die drei Holzhütten der neuen Faktorei mißglückte jedoch insofern, als es Kid Saunder und einem seiner Gefährten gelang, in den Urwald der Insel zu entfliehen. Die Biruwu nahmen nur Carson gefangen und machten alle schwarzen Diener der Faktorei, die einem anderen Volke angehörten, nieder. Über Kids und des zweiten Weißen weitere Schicksale wußte der Neger nichts. Und offenbar entsprach dies auch der Wahrheit. –
 

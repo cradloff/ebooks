@@ -33,7 +33,7 @@ Und Harst äußerte sich ebenso kurz und bündig.
 
 Saunder erhob sich, verbeugte sich steif:
 
-»Ich bin zufrieden, meine Herren. Also – – abends acht Uhr zum Souper auf meiner Manchester«.
+»Ich bin zufrieden, meine Herren. Also – – abends acht Uhr zum Souper auf meiner Manchester.«
 
 Und ging …, hager, steif, wie ein Ladestock …
 
@@ -95,7 +95,7 @@ Meine zweite Notiz lautet:
 
 > An Bord der Manchester,
 
-> nachts ½12 Uhr, 4. 11. 1923.
+> nachts ½12 Uhr, 4.11.1923.
 
 > Sind hierher übergesiedelt. Bewohnen große elegante Steuerbordkabine. Souper war um ½11 beendet. Saunder hat Einzelheiten über Bruder Kid erzählt.
 
@@ -119,7 +119,7 @@ Meine dritte Notiz:
 
 > Auf der Manchester,
 
-> 12\. 11. 1923.
+> 12.11.1923.
 
 > Wir schwimmen den Manjemo aufwärts. Ein lehmiger Urwaldfluß. – Wir tragen seit Tagen stets dicke lange Lederhandschuhe und Schutzschleier gegen die Glossina Palpalis-Stechfliegen<@refnote 2/>, die als Verbreiter der Schlafkrankheit hier sehr gefürchtet sind. – Stimmung flau. Sonst nichts Neues.
 
@@ -407,7 +407,7 @@ Die nächste meiner Notizen:
 
 > Auf der Manchester
 
-> 12\. 11. 23,
+> 12.11.23,
 
 > 11 Uhr nachts.
 
@@ -459,7 +459,7 @@ Um halb elf verabschiedeten die Belgier sich. Auch Doktor Jobbfiel und wir zogen
 
 Als wir beide im Schiffsgang dem kleinen Doktor gute Nacht wünschten, flüsterte er uns ganz überraschend zu: »Um elf bin ich bei Ihnen. Halten Sie sich bereit.«
 
-Dann verschwand er in seiner Kabine und schloß die Tür sehr geräuschvoll – absichtlich wohl, damit Saunder hörte, daß Jobbfiel tatsachlich seine Schiffskammer betreten hatte. Diese lag dicht neben der einen Wand des Salons.
+Dann verschwand er in seiner Kabine und schloß die Tür sehr geräuschvoll – absichtlich wohl, damit Saunder hörte, daß Jobbfiel tatsächlich seine Schiffskammer betreten hatte. Diese lag dicht neben der einen Wand des Salons.
 
 Kaum hatte Harald dann auch unsere Kabinentür ins Schloß gedrückt, als er sich jäh umwandte und mir scharf in die Augen sah, ganz so, als erwartete er von mir eine Äußerung.
 
@@ -557,7 +557,7 @@ Die Tür des kleinen Barackenraumes war weit offen. Neben der Tür erkannten uns
 
 Snider und ich traten ein. Ich zog die Tür mit einem Ruck zu, ohne sie einzuklinken. Der Inspektor hatte schon seine elektrische Laterne eingeschaltet.
 
-Da lag Bill Carson –oder besser das, was von Carson noch übrig war …
+Da lag Bill Carson – oder besser das, was von Carson noch übrig war …
 
 Mir lief’s kalt über den Rücken, als ich im blendenden Strahlenkegel der Laterne diese jammervolle Ruine, dieses verwahrloste, wundenbedeckte Etwas da auf dem Lager von Decken mitleidig musterte.
 
@@ -581,7 +581,7 @@ Dann …
 
 Doch wozu hier in Einzelheiten wühlen, die noch heute meine Seele mit Mitleid und Entsetzen erfüllen …?!
 
-Genug daran, daß ich hier berichte, was Snider fragte … immer nieder fragte, bis der sieche Verstand des Ärmsten die Frage begriff …
+Genug daran, daß ich hier berichte, was Snider fragte … immer wieder fragte, bis der sieche Verstand des Ärmsten die Frage begriff …
 
 »Wo befindet sich Kid Saunder …? – Wo befindet sich Kid Saunder …?«
 
@@ -715,7 +715,7 @@ Und als ich bereits unter meinem Moskitonetz im Bett lag, als Harald mir leise g
 
 Die nächste meiner Notizen:
 
-> 13\. 11. 23,
+> 13.11.23,
 
 > vormittags elf Uhr.
 
