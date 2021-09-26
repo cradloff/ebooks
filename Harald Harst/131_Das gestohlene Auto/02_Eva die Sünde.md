@@ -409,7 +409,7 @@ Wer da glaubt, daß ein Berliner Kriminalkommissar nur acht Stunden arbeitet, ir
 
 Wir sitzen in Becherts behaglichem Arbeitszimmer. Er hat gerade Abendbrot essen wollen. Wir tafeln zur Gesellschaft mit, und Harst erzählt.
 
-»Große Nummer – fraglos!« nickt Bechert in Bezug aus Eva Larda.
+»Große Nummer – fraglos!« nickt Bechert in Bezug auf Eva Larda.
 
 Dann holt Harst die Zeichnung hervor, die Bleistiftzeichnung: Kiefernwald und See, märkische Landschaft. – Wir beugen uns über das Quartblatt … Niemals hätte ich herausgefunden, daß die schlanken Kiefernstämme in schlauester Weise die Skizze, den Grundriß eines Hauses, verbergen.
 
@@ -666,7 +666,7 @@ Sie ist jetzt voller Möbel. Harst zwängt sich hinein, winkt mir …
 
 Und hier zieht er die Zeichnung aus der Tasche … Die märkische Landschaft …
 
-Hält sie mir hin, deutet aus den verborgenen Grundriß der Wohnung, auf das Viereck, das diese Plättstube vorstellt und auf ein kleines Kreuz an der einen Linie, die die eine Wand darstellt, deutet weiter auf – – den großen, weißen, halb in die Mauer eingelassenen Wäscheschrank und sagt:
+Hält sie mir hin, deutet auf den verborgenen Grundriß der Wohnung, auf das Viereck, das diese Plättstube vorstellt und auf ein kleines Kreuz an der einen Linie, die die eine Wand darstellt, deutet weiter auf – – den großen, weißen, halb in die Mauer eingelassenen Wäscheschrank und sagt:
 
 »Dieses Kreuz ist der Schrank … und der Weg hinüber zur armen Fiffi … Die beiden Wohnungen stoßen hier aneinander.«
 
@@ -710,7 +710,7 @@ Harst vergleicht mit Hilfe der Lupe …
 
 Und – in dem Moment fallen für mich die Schleier: Herr Theo von Balkwitz war in der Nacht ebenfalls in Fiffis Wohnung – durch den Wäscheschrank der Plättstube!
 
-Im großen Salon drei Hochs aus das junge Paar …
+Im großen Salon drei Hochs auf das junge Paar …
 
 Und wir – wir beide hier vor der Tatsache, daß Balkwitz – – ein Verbrecher – zum mindesten derjenige, der Eva Larda die Skizze lieferte, der fraglos weiß, was und wie gestohlen werden sollte!!
 

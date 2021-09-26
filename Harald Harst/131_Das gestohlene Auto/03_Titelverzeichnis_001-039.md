@@ -12,7 +12,7 @@ Eine Reihe höchst spannender Detektivabenteuer. Bisher sind folgende Bände ers
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">12:</td><td>Die Festung des Ali Azzim.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">13:</td><td>Die tote Lady Rockwell.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">14:</td><td>Der Fakir von Nagpur.</td></tr>
-<tr><td style="text-align: center;">  " </td><td style="text-align: right;">15:</td><td>Der blinde Brahman.</td></tr>
+<tr><td style="text-align: center;">  " </td><td style="text-align: right;">15:</td><td>Der blinde Brahmane.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">16:</td><td>Das Auge der Prinzessin Singawatha.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">17:</td><td>Das Löschblatt von Amritsar.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">18:</td><td>Die leuchtende Fratze.</td></tr>

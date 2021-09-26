@@ -133,12 +133,12 @@ Und ich flüsterte, während mir die Aufregung wie ein Kloß in der Kehle saß:
 
 Er hob die Schultern …
 
-»Alterchen, wir wollen uns den klaren Blick nicht trübem lassen … Jede Kombination wäre müßig – zwecklos … – Nach Tisch fahren wir gen Potsdam …«
+»Alterchen, wir wollen uns den klaren Blick nicht trüben lassen … Jede Kombination wäre müßig – zwecklos … – Nach Tisch fahren wir gen Potsdam …«
 
 <h2>2. Kapitel.</h2>
 <h3>Das Auto.</h3>
 
-Es war ein Glück, daß wir zu unseren Masken älterer würdiger Spießbürger Ledermäntel gewählt hatten … Denn der sonnige Septembertag zeigte nachmittags ein höchst unfreundliches Gesicht, und als wir so gegen acht Uhr vor der Villa Greiger in der Grünstraße standen, tröpfelte es rechte erheblich …
+Es war ein Glück, daß wir zu unseren Masken älterer würdiger Spießbürger Ledermäntel gewählt hatten … Denn der sonnige Septembertag zeigte nachmittags ein höchst unfreundliches Gesicht, und als wir so gegen acht Uhr vor der Villa Greiger in der Grünstraße standen, tröpfelte es recht erheblich …
 
 Die Villa lag hinter Fliederbüschen und Kastanienbäumen halb versteckt.
 
@@ -819,7 +819,7 @@ Und die Frau – – starr – – blaß:
 
 »Mein Gott! Sie sind – der Detektiv!«
 
-»Ja. Und Sie müssen jetzt ganz ehrlich sein. Dann wird alles gut werden. – Heißt Ihr Mann wirtlich Bahr?«
+»Ja. Und Sie müssen jetzt ganz ehrlich sein. Dann wird alles gut werden. – Heißt Ihr Mann wirklich Bahr?«
 
 Jähe Röte. Stammeln …
 
@@ -843,7 +843,7 @@ Da schlug sie die Hände vor das Gesicht.
 
 Weinte – weinte.
 
-Harald wartete, bis sie sich etwas beruhigt hatte. »Weshalb wurde das Auto Herrn Kotz geraubt? Sollte etwa Fräulein Marx damit in aller Heimlichkeit weggeschafft werden?«
+Harald wartete, bis sie sich etwas beruhigt hatte. »Weshalb wurde das Auto Herrn Kolz geraubt? Sollte etwa Fräulein Marx damit in aller Heimlichkeit weggeschafft werden?«
 
 »Ja. Aber – dann starb sie!«
 
@@ -873,7 +873,7 @@ Harst drückte ihr die Hand.
 
 »Schweigen Sie! Ich meine es gut mit Ihnen. Ihrem Manne soll nichts geschehen.« –
 
-Dann wanderten wir durch die kühle Septembernacht der Grünstraße zu. Wir beide – schweigend. Und ich doch mit vielen Fragen aus den Lippen.
+Dann wanderten wir durch die kühle Septembernacht der Grünstraße zu. Wir beide – schweigend. Und ich doch mit vielen Fragen auf den Lippen.
 
 Trafen einen Schupobeamten. Harald sprach mit ihm, zeigte ihm seine Legitimation. Der Beamte eilte zur Wache.
 
