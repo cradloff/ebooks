@@ -2,7 +2,7 @@
 
 <h1>Der Schatz der »Christine.«</h1>
 
-Im Speisesaal des Raffles-Hotels in Singapore spielte
+Im Speisesaale des Raffles-Hotels in Singapore spielte
 die ungarische Kapelle gerade den Walzer »Wenn die Liebe
 stirbt —«
 
@@ -10,7 +10,7 @@ Harald Harst summte die Melodie leise mit. Dann sagte
 er ganz unvermittelt zu mir:
 
 »Was meinst Du zu einem Abstecher nach der Insel Borneo
-hinüber? Es gibt da die berüchtigten Dajaks, die Kopfjäger
+hinüber? Es gibt da die berüchtigten Dajaks, die Kopfjäger,
 und manches andere Interessante. Eine Expedition ins
 Innere könnte mich reizen.«
 
@@ -100,13 +100,13 @@ bestiegen dann Jobsters vor dem Hotel wartendes Dienstauto.
 Wir fuhren in schnellstem Tempo davon.
 
 »Die Malcapier dürfte vor etwa drei Stunden, also etwa
-um ½ 7 Uhr, ausgekniffen sein,« begann Harst und zündete
+um ½7 Uhr, ausgekniffen sein,« begann Harst und zündete
 sich eine seiner Mirakulum an.
 
 »Woher wissen Sie denn auch das?« meinte Jobster. »Es
-stimmt nämlich so ziemlich. Um ¾ 7 entfloh sie aus dem Polizeilazarett,
-wo sie wegen hochgradigen Fibers am Nachmittag,
-etwa um ½ 6, eingeliefert worden war.«
+stimmt nämlich so ziemlich. Um ¾7 entfloh sie aus dem Polizeilazarett,
+wo sie wegen hochgradigen Fiebers am Nachmittag,
+etwa um ½6, eingeliefert worden war.«
 
 Harst lachte auf. »Fieber?! Na, das wird wohl nur ein
 künstliches Fieber gewesen sein.«
@@ -118,10 +118,10 @@ Sie erzählten ja vorgestern, daß man ihr absichtlich
 ihre Kleider weggenommen hätte, um ihre Flucht zu
 erschweren. Sie muß also zunächst sich irgendwo andere Kleidungsstücke
 verschafft haben. Dann aber muß sie, wahrscheinlich
-im Männerkostüm, mindestens seit ¼ 9 Uhr in unserer
+im Männerkostüm, mindestens seit ¼9 Uhr in unserer
 Nähe im Speisesaal des Raffles-Hotels gesessen haben. Denn
-gegen ¼ 9 stellte ich nach der Speisekarte für Schraut und mich
-das Menü zusammen und befahl dem Kellner, um ¼ 10 mit
+gegen ¼9 stellte ich nach der Speisekarte für Schraut und mich
+das Menü zusammen und befahl dem Kellner, um ¼10 mit
 dem Servieren zu beginnen. Sie muß gewußt haben, daß wir
 Hühnchen bestellten, saß also sicher an einem Nachbartisch.«
 
@@ -231,8 +231,8 @@ das Drahtgeflecht vor der Luftscheibe weit zurückgebogen war.
 Jobster schüttelte den Kopf. »Ich hätte nicht gedacht, daß
 ein Mann dort hindurchkönnte. Das Experiment war also
 sehr lehrreich. Aber — weshalb Harst gerade im Dunkeln
-hinaufklettern wollte, ist mir nicht ganz klar.« Die letzten
-Worte gehalten mir. Ich konnte nur die Achseln zucken. Ich
+hinausklettern wollte, ist mir nicht ganz klar.« Die letzten
+Worte galten mir. Ich konnte nur die Achseln zucken. Ich
 sah auch nicht recht ein, warum das Licht ausgeschaltet werden
 mußte.
 
@@ -276,7 +276,7 @@ still.«
 angegeben. Kaum war der Kraftwagen ordentlich in Fahrt,
 als der Inspektor fragte:
 
-»Nun, bester Harst wie denken Sie über diese Flucht?
+»Nun, bester Harst, wie denken Sie über diese Flucht?
 Was werden wir jetzt tun?«
 
 »Über diese Flucht?! — Genau wie Sie und Schraut
@@ -350,12 +350,12 @@ Freunde ausgekniffen!«
 
 »Donnerwetter,« entfuhr es dem Inspektor. »Das stimmt!«
 — Er überflog die Anzeige abermals, fügte hinzu: »Dieser
-»16.« wird auch Harst aufgefallen sein. Und wer weiß was
+»16.« wird auch Harst aufgefallen sein. Und wer weiß, was
 er sonst noch aus der Anzeige herausgefunden hat! Er findet
 ja stets mehr als andere.«
 
 Der Kellner brachte das bestellte Essen. — Mittlerweile
-war es ½ 12 geworden. Die Zeit verstrich. Das Gespräch
+war es ½12 geworden. Die Zeit verstrich. Das Gespräch
 zwischen Jobster und mir stockte immer mehr. Harst war jetzt
 bereits anderthalb Stunden fort.
 
@@ -427,7 +427,7 @@ Harst wollte nicht, daß Krellbram erfuhr, daß er inzwischen
 sich entfernt hatte. — Die Sache wurde interessant. Die Rolle,
 die Krellbram hier spielte, erschien mir etwas fragwürdig.
 
-»Ja,« meinte Jobster. »Zwei Stunden reden wir und nichts
+»Ja,« meinte Jobster. »Zwei Stunden reden wir, und nichts
 ist dabei herausgekommen.«
 
 Krellbrams Gesicht zeigte für einen Moment ein zufriedenes
@@ -458,6 +458,7 @@ geleistet haben.«
 
 Krellbram wurde bleich vor Wut. »Ich verbitte mir diesen
 höhnischen Ton,« sagte er ganz heiser und stand schnell auf.
+
 Er verbeugte sich, nahm seinen Hut und eilte hinaus.
 
 Jobster saß mit gerunzelter Stirn da. »Ich hätte meine
@@ -472,14 +473,14 @@ mit der Eisenbahn geflüchtet. Ich weiß, wo sie ist. Ich könnte
 sie jeden Augenblick verhaften lassen. Aber ich will damit
 <@pagebreak/>
 warten, bis ich das, was sie vorhat, genau durchschaue. — Hören
-Sie nun zu Jobster. Sie reichen noch heute nacht Urlaub
+Sie nun zu, Jobster. Sie reichen noch heute nacht Urlaub
 für 2 Wochen ein. Dann mieten Sie morgen in aller Frühe
-einen seetüchtigen schnellen Motorkutter, ohne daß dies jedoch
+einen seetüchtigen, schnellen Motorkutter, ohne daß dies jedoch
 bekannt wird. Mit diesem Kutter fahren Sie dann stets
 so hinter dem Motorschoner Christine —«
 
 »Christine?!« rief Jobster da. »Christine — das ist ja
-das Schiff, das ich nachmitttags bewachen mußte, weil —«
+das Schiff, das ich nachmittags bewachen mußte, weil —«
 
 »— auf den Schoner für sechs Millionen Pfund Goldbarren
 verladen wurden, die für die indische Kolonialregierung nach
@@ -534,9 +535,9 @@ Unser dritter Koffer blieb noch offen. Er enthielt unser Handwerkszeug:
 allerlei Kostüme, Perücken, Bärte, Schminken,
 Hautfärbemittel und ähnliches.
 
-Inzwischen hatte Harst mir folgendes mitgeteilt.
+Inzwischen hatte Harst mir folgendes mitgeteilt:
 
-Als er in der Zelle der Polizeilazaretts die Zeitungen
+Als er in der Zelle des Polizeilazaretts die Zeitungen
 flüchtig durchsah, war er, da er ja stets den Anzeigen unter
 Vermischtes besondere Beachtung schenkte, auf jene Annonce
 aufmerksam geworden, die sich in jeder Nummer wiederholte.
@@ -597,7 +598,7 @@ bis auf den Boden, wo ich eine Wäscheleine fand, an der ich
 vom Dache und dann von Balkon zu Balkon herabkletterte.
 Angenehm war dies nicht, und ob der Verfolger mich dabei
 bemerkt hat, weiß ich nicht recht. Er stand jedenfalls unten
-vor dem Hotel, deshalb wollte ich auch im Dunkeln ins Zimmer
+vor dem Hotel. Deshalb wollte ich auch im Dunkeln ins Zimmer
 schlüpfen.«
 
 So weit war ich nun in alles eingeweiht. Dann begannen
@@ -657,7 +658,7 @@ Farbigen das Mannschaftslogis teilen, hatten wir im Vorschiff
 eine kleine Kammer für uns allein. Im übrigen kümmerten
 sich unsere weißen Kollegen auch so gut wie gar nicht
 um uns. Wir wurden nur zu den niedrigsten Arbeiten an
-Bord verwandt und es gehörte schon etwas dazu, diese Behandlung
+Bord verwandt, und es gehörte schon etwas dazu, diese Behandlung
 und diese Anstrengungen zu ertragen, denn Landsmann
 Schubert sollte ja auf uns nicht die geringste Rücksicht
 nehmen, damit wir nicht vorzeitig durchschaut würden.
@@ -666,11 +667,11 @@ Die Christine hatte in Singapore um 7 Uhr morgens die
 <@pagebreak/>
 Anker gelichtet. Zwei Tage drauf verließ der Schoner die
 Straße von Malakka und steuerte ins offene Meer, in den
-Indischen Ozean hinaus. Am Abend des dritten Tages —
+Indischen Ozean, hinaus. Am Abend des dritten Tages —
 wir hatten am Nachmittag das Achterdeck scheuern müssen —
 lag ich halbtot vor Übermüdung in meiner Koje und schaute
 Harst zu, der sich rasierte und dann sein Gesicht frisch chinesisch
-färbte. Bisher hatten wir hier nichts unternommen und
+färbte. Bisher hatten wir hier nichts unternommen, und
 es war auch nicht das geringste geschehen.
 
 Harst hatte gerade das Färben beendet, als es klopfte
@@ -686,7 +687,7 @@ ab. Die Fenster hatte er bereits dicht verhängt.
 
 »Meine Herren,« sagte er dann, »nehmen Sie Platz. —
 Ich möchte Ihnen vorschlagen, jetzt sofort mit mir den Laderaum
-zu durchstreifen, ganz besonders aber die drei Ballen
+zu durchsuchen, ganz besonders aber die drei Ballen
 Seide einmal zu revidieren, ob wirklich in dem einen jenes
 Weib verborgen ist. Ich kann es nicht glauben. — Sie müssen
 doch selbst zugeben, Herr Harst, daß wir jetzt kaum mehr einen
@@ -757,7 +758,7 @@ Ich kann Ihnen nur meine Anerkennung aussprechen: beinahe
 hätten Sie mich auch dieses Mal erwischt! — Ich verlasse
 kurz nach Mitternacht das Schiff. Ich habe eine
 Schwimmweste und alles andere mit. Meine Freunde, die
-in der Nähe sind, werden mich aufnehmen — Auf Wiedersehen
+in der Nähe sind, werden mich aufnehmen. — Auf Wiedersehen
 — sehr bald! — Eugenie Malcapier.
 
 »Das Weib ist fraglos nicht mehr an Bord,« sagte Harst
@@ -773,7 +774,7 @@ Zehn Minuten drauf waren wir wieder in unserer Kammer.
 Harst war sehr verstimmt, sprach kein Wort, warf sich
 auf sein Bett und sagte nur: »Gute Nacht, mein Alter! —
 Ein schöner Reinfall! Nun können wir zusehen, wie wir die
-Malcapier wiederfinden — aber wo?!«
+Malcapier wiederfinden, — aber wo?!«
 
 Ich drehte die elektrische Birne aus und legte mich gleichfalls
 schlafen. Harald atmete sehr bald tief und ruhig. Ich
@@ -788,7 +789,7 @@ und aus einem Gefühl der Überlegenheit die Verhaftung
 hinausgeschoben zu haben. Und ich selbst mußte mir ja gleichfalls
 sagen, daß Harald hier wieder wie so oft den Gegner
 hatte glauben machen wollen, der Erfolg eines verbrecherischen
-Unternehmens sei schon gewiß und daß er abermals erst im
+Unternehmens sei schon gewiß, und daß er abermals erst im
 letzten Augenblick den Plan hatte vereiteln wollen. Doch —
 diesmal war er der — Betrogene! Und das würde er so leicht
 nicht verwinden.
@@ -796,7 +797,7 @@ nicht verwinden.
 Ich schlief dann ein. Ich besinne mich, daß plötzlich grauenvolle
 Träume mich ängstigten. Irgend ein Ungeheuer kniete
 auf meiner Brust; ich rang nach Atem. Das Ungetüm fesselte
-mir die Hände die Füße.
+mir die Hände, die Füße.
 
 Da erwachte ich. Aber nicht aus tiefem Schlaf, sondern
 aus einer kurzen Betäubung. Ich wurde sehr schnell wieder
@@ -811,6 +812,7 @@ Unter der weichen Reisemütze sah ich rötliches, kurz
 geschnittenes Haar.
 
 Eugenie Malcapier! — Blitzartig kam mir die Erkenntnis.
+
 <@pagebreak/>
 In ihrer Linken blitzte die lange Klinge eines malaiischen
 Dolches.
@@ -820,7 +822,7 @@ Dolches.
 Ich gehorchte mechanisch, und sie schob mir einen Knebel
 zwischen die Zähne, band ihn im Genick fest. Dann nahm sie
 eine Schwimmweste vom Boden auf, schnallte sie mir um die
-Brust und noch seine zweite darüber. Ich hatte mich hierzu
+Brust und noch eine zweite darüber. Ich hatte mich hierzu
 aufrecht setzen müssen. Ich sah jetzt, daß Harst bereits in derselben
 Weise für eine längere Schwimmpartie ausgerüstet worden
 war. Auch er war gefesselt und geknebelt.
@@ -874,7 +876,7 @@ Bastschuhe, die unsere Schritte unhörbar machten.
 Die Malcapier fand sich gut zurecht. Nach wenigen Minuten
 standen wir im vordersten Laderaum an der Steuerbordladeluke.
 Unsere Feindin öffnete die Riegel, die den
-Lukenverschluß oben festhielten und klappte die viereckige
+Lukenverschluß oben festhielten, und klappte die viereckige
 Eisenplatte nach unten.
 
 Der Schoner lief ruhige Fahrt. Die See war nur wenig
@@ -884,11 +886,11 @@ Meere lastete schwärzeste Finsternis.
 »Springen Sie recht weit vom Schiffe weg,« sagte die
 Malcapier jetzt. »Die Wellen kommen von Nordwest und
 werden uns dann aus dem Bereich der Schraubenstrudel tragen.
-— Zuerst Sie Master Harst!«
+— Zuerst Sie, Master Harst!«
 
 Harst kletterte auf den unteren Rand der Lukenöffnung,
 wobei die Malcapier ihm half. Dann tat er den Sprung und
-verschwand. Ich folgte sofort. Die Luke lag kaum 2 ½ Meter
+verschwand. Ich folgte sofort. Die Luke lag kaum 2½ Meter
 über dem Wasserspiegel. Ich versank, tauchte aber sogleich
 wieder auf. Die Korkwesten trugen mich so gut, daß
 ich nur bis zu den Achselhöhlen im Wasser lag.
@@ -934,6 +936,7 @@ einen Klumpen auf und ab schaukelten.
 
 »Es wird noch alles früh genug kommen!« meinte die
 Malcapier, und das war abermals eine versteckte Drohung.
+
 Dann schnallte sie die große Blechbüchse los, befestigte sie
 sich vor der Brust und hob mit einiger Mühe den Deckel ab,
 entnahm der Büchse einen länglichen Gegenstand, schraubte an
@@ -969,7 +972,7 @@ erklärte Harst in aller Seelenruhe, als ob weit und breit für
 uns nicht die geringste Gefahr vorhanden sei.
 
 Unsere rotblonde Feindin verhielt sich still. Jetzt aber
-riß ihr doch der Geduldsfaden. Sie ärgerte sich offenbar über
+riß ihr doch der Geduldfaden. Sie ärgerte sich offenbar über
 Harsts Gleichgültigkeit.
 
 »Schweigen Sie!« rief sie barsch. »Sie wollen ja doch
@@ -981,7 +984,7 @@ wir über Ihre Flucht aus dem Lazarett. Inspektor Krellbram
 hat Ihnen die Stahlsäge und auch die Schere geliefert, mit der
 Sie schon in der Zelle Ihr Haar kürzten. Ich fand das abgeschnittene
 Haar in der Emaillewasserkanne der Zelle. Ich
-ließ das Licht dort aufdrehen und steckte das Haar zu mir —
+ließ das Licht dort ausdrehen und steckte das Haar zu mir —
 als Andenken. Leider warf ich die Kanne um. Das polterte
 etwas.«
 
@@ -1013,13 +1016,13 @@ anlangten, telephonierte dieser gerade mit dem Chefarzt.
 <@pagebreak/>
 Krellbram war so erfreut über Ihre geglückte Flucht,
 daß er einen Ruf freudigster Genugtuung ausstieß und den
-Hörer sofort weglegte. Sie beide werden sich daran zärtlich
+Hörer sofort weglegte. Sie beide werden sich darauf zärtlich
 begrüßt haben. Diese Zärtlichkeit oder besser Ihre Reize als
 Weib haben Krellbram umgarnt. Er hatte Sie im Laufe der
 Untersuchung gegen Sie viermal vernehmen müssen, wie ich
 von Jobster erfuhr. Diese vier Verhöre genügten Ihnen,
 diesen charakterlosen Menschen in Ihre Netze zu locken. Sie
-beide verabredeten den ganzen Fluchtplan und Krellbram
+beide verabredeten den ganzen Fluchtplan, und Krellbram
 wird Ihnen auch ein Pulver verschafft haben, durch das ein
 Fieber bei Ihnen vorgetäuscht wurde. Außerdem haben Sie
 aber auch auf Krellbrams Geldgier spekuliert und ihn in den
@@ -1048,7 +1051,7 @@ Luft, schob die Waffe wieder in die Tasche und sagte:
 
 »Krellbram wird sich freuen, Sie beide wiederzusehen.
 Es wird für ihn eine nette Überraschung werden, — vielleicht
-die letzte angenehme die er erlebt!«
+die letzte angenehme, die er erlebt!«
 
 Gleich darauf schoß ein großer, gedeckter Motorkutter
 heran, stoppte bei uns, beschrieb einen Bogen und lag still.
@@ -1176,12 +1179,12 @@ Kutter an einer kleinen Anlegebrücke festgemacht wurde.
 
 Dann betrat ein langer Malaie mit blauen Tätowierungen
 auf Stirn und Wangen die Kajüte, wechselte mit unseren
-Männern ein paar Worte, verschwand. Die beiden Chinesen
+Wächtern ein paar Worte, verschwand. Die beiden Chinesen
 stellten Harst auf die Füße, nahmen ihm die Beinfesseln ab,
 brachten ihn hinaus. Nach einer Weile holten sie mich, führten
 mich über die roh aus Baumstämmen gezimmerte Brücke
-an Land, dann durch ein leichtes Gebüsch und eine enge Felsspalte
-in einen einen Talkessel mit schroffen Wänden, in
+an Land, dann durch ein dichtes Gebüsch und eine enge Felsspalte
+in einen kleinen Talkessel mit schroffen Wänden, in
 dem zwei halb verfallene Blockhütten standen, davor ein paar
 kümmerliche Kokospalmen. Nun sah ich Harst wieder. Er
 war aufrecht an eine der Palmen gebunden. — Vor der größeren
@@ -1200,11 +1203,11 @@ Eugenie Malcapier etwa einen Halbkreis bildeten.
 
 Ich sah jetzt, daß die Besatzung des Kutters nicht lediglich
 aus Chinesen bestanden hatte. Es waren auch fünf Malaien
-dabei, und zwei Siamesen. Die Leute gingen hin und her,
+dabei und zwei Siamesen. Die Leute gingen hin und her,
 rauchten und schwatzten und kümmerten sich kaum um uns.
 
 Die Malcapier warf ihre Zigarette weg, setzte sich aufrecht,
-rief den langen tätowierten Malaien herbei und sagte:
+rief den langen, tätowierten Malaien herbei und sagte:
 
 »Maukara, wir wollen beginnen —«
 
@@ -1223,11 +1226,11 @@ Master Harst, glaubten damals, als der »Stern von Siam«
 das Piratenschiff — mein Schiff! — in die Tiefe schickte,
 sämtliche meiner Getreuen unschädlich gemacht zu haben. Sie
 haben sich geirrt. Ich hatte in Singapore noch zahlreiche
-Verbündete wie Sie jetzt feststellen können. — Als Master
+Verbündete, wie Sie jetzt feststellen können. — Als Master
 Jobster damals morgens, stets beobachtet von meinen Leuten,
 einen Motorkutter mietete, hat mein Freund Krellbram« —
 sie verzog höhnisch die Lippen — »sofort vermutet, daß der
-Kurier der Christine folgen solle. Uns kam das sehr gelegen.
+Kutter der Christine folgen solle. Uns kam das sehr gelegen.
 Wir sparten dadurch die Ausgabe für das Fahrzeug, das, bemannt
 mit meinen Leuten, den Schoner nachher kapern
 sollte. Krellbram zeigte sich auch weiter sehr geschickt. Der
@@ -1295,7 +1298,7 @@ heran und fragte:
 
 * * *
 
-Später als alles glücklich vorüber, hat Harst mir erklärt,
+Später, als alles glücklich vorüber, hat Harst mir erklärt,
 daß er noch niemals so stark das Gefühl gehabt hätte, sich
 auf ein Va Banque-Spiel ums Leben eingelassen zu haben,
 wie damals auf der kleinen Andrew-Insel inmitten einiger
@@ -1303,7 +1306,7 @@ fünfzehn tadellos bewaffneter Piraten. Er wußte nicht, ob
 seine Vermutung zutraf. Irrte er sich, so waren er und wir
 anderen, den alten Chinesen miteingerechnet, fraglos verloren.
 
-Der Gedanke, diese lediglich aus Kombinationen gestützte
+Der Gedanke, diese lediglich auf Kombinationen gestützte
 Vermutung als Waffe gegen die Malcapier zu benutzen, war
 ihm bereits in unserer Kammer an Bord der Christine gekommen.
 Deshalb auch sein triumphierender Blick, als wir
@@ -1347,7 +1350,7 @@ legte auf Harst an.
 Der Malaie schlug zu. — Die Waffe flog ihr aus der Hand,
 entlud sich dabei.
 
-— Zufall oder Schicksalsfügung? —: Die Kugel traf Krellbram
+Zufall oder Schicksalsfügung? —: Die Kugel traf Krellbram
 von der Seite in die Brust. — Er brüllte auf. Doch
 niemand beachtete ihn.
 
@@ -1371,7 +1374,7 @@ hat Ihr erfinderisches Hirn denn nun ersonnen? Ich bin
 neugierig!« — Sie suchte eine Gelassenheit vorzutäuschen, die
 sehr unecht wirkte.
 
-»Erzähle Sahib,« sagte Maukara. »Was hat es mit den
+»Erzähle, Sahib,« sagte Maukara. »Was hat es mit den
 Perlen auf sich?«
 
 »Wir wollen vorher ein Übereinkommen treffen,« erklärte
@@ -1402,14 +1405,14 @@ Ebenso verlange ich, daß Ihr uns sofort die Fesseln abnehmt.«
 
 Die Piraten traten abseits und berieten. Sie waren
 bald einig. — Wir wurden losgeschnitten. Nur Krellbram
-lies man in den Stricken an der Palme hängen. Er war inzwischen
+ließ man in den Stricken an der Palme hängen. Er war inzwischen
 verschieden.
 
 Harst nahm in dem Liegestuhl der Malcapier Platz.
 
 »Die Sache ist folgendermaßen,« erklärte er nun und
 rauchte sich aus dem Etui der Malcapier eine Zigarette an.
-»Der Seidenhändler Kung Fo, gehört mit zu Euch. Er und die
+»Der Seidenhändler Kung Fo gehört mit zu Euch. Er und die
 Malcapier hatten den Plan gefaßt, die Christine zu kapern
 und das Gold zu rauben. Ihr solltet natürlich jeder Euren
 Anteil davon erhalten. Aber Kung Fo und Eure Anführerin
@@ -1473,7 +1476,7 @@ Bord der Christine verschwunden seien. —
 
 »Hätte mir Schubert nicht damals mitgeteilt, daß die
 Perlen sich in seinem Schreibtisch in einer sehr harmlosen
-Blechbüchse befanden,« erklärte mir Harst gelegentlich, »so
+Blechbüchse befänden,« erklärte mir Harst gelegentlich, »so
 würde ich den ganzen Schwindel nie durchschaut haben. So
 aber brauchte ich nur die Büchse in unserer Kammer auf dem
 Schoner im Besitze der Malcapier zu sehen, um mir sofort zu
@@ -1483,7 +1486,7 @@ zu sprechen. Sonst hätten sie ja sofort ohne mich die Perlen
 gefunden und wir — wären jetzt vielleicht längst auf chinesische
 Art hingerichtet.«
 
-Was die Piraten auf dem Andrew-Insel mit ihrer betrügerischen
+Was die Piraten auf dem Andrew-Inselchen mit ihrer betrügerischen
 Anführerin noch erlebten, will ich berichten in:
 
 __Der sprechende Kopf.__

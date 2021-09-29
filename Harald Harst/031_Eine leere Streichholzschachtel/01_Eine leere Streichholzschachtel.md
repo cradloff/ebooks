@@ -12,7 +12,7 @@ Weibes noch heller und gibt dem Leser eine interessante
 Ergänzung des Charakterbildes dieser fraglos hochintelligenten
 Frau.
 
-Daß wir in Singapore im Raffles-Hotel eingestiegen waren,
+Daß wir in Singapore im Raffles-Hotel abgestiegen waren,
 habe ich bereits im vorigen Abenteuer erwähnt. Nach
 der Verhaftung Eugenie Malcapiers im Parke des Admirals
 Stevenpole saßen wir abends im Speisesaale des Hotels mit
@@ -74,7 +74,7 @@ Blakang-Insel sei das reine Paradies, hat man mir erzählt.«
 »Hat er einen Sohn?« fragte Harst so überstürzt, daß
 ich erstaunt aufblickte.
 
-»Nicht daß ich wüßte.« erwiderte Jobster.
+»Nicht daß ich wüßte,« erwiderte Jobster.
 
 Diese Frage Harsts, ganz besonders aber die hastige Art,
 in der er sie stellte, fiel mir auf. — Wie kam er gerade
@@ -104,11 +104,11 @@ Blick nie sagen. — Darf ich Ihnen ein Glas Sekt einschenken?
 Ihre Nerven sind recht angegriffen, Master Boorstetten.
 Wenn ich mir einen wohlgemeinten Rat erlauben
 darf: Rauchen Sie weniger Zigaretten! Das nervöse
-Flattern Ihrer Augenlider und Hände hat bereits einen bedrohlicher
+Flattern Ihrer Augenlider und Hände hat bereits einen bedrohlichen
 Grad erreicht. Auch Ihre Gesichtsfarbe sollte Sie
 warnen.«
 
-Der Holländer nickte. »Ja ich bin mit den Nerven völlig
+Der Holländer nickte. »Ja, ich bin mit den Nerven völlig
 herunter. Doch daran sind nicht die Zigaretten schuld. Vor
 einem halben Jahre —« — seine Stimme vibrierte — »starb
 meine Frau, mit der ich überaus glücklich lebte. Seitdem
@@ -126,17 +126,17 @@ Ich ließ sie im Parke meiner Besitzung auf der Blakang-Insel
 in einem uralten, aber noch gut erhaltenen kleinen Hindu-Tempel
 bestatten. Der Sarg, aus einem der Fäulnis nicht
 ausgesetzten Holze gefertigt, hat im Deckel ein Glasfenster gerade
-über dem Kopfe, der mir so teuren Toten. Ich bin so oft
+über dem Kopfe der mir so teuren Toten. Ich bin so oft
 dort in jenem Tempel. Man kann das Gesicht durch die Glasscheibe
 ganz deutlich erkennen. Und — dieses Gesicht —«
 — wieder zitterte seine Stimme vor innerer Bewegung — »ist
-noch völlig unverändert, obwohl doch hier in Indien besonders
-noch auf einem vom Meere umspülten Inselchen jede Leiche
+noch völlig unverändert, obwohl doch hier in Indien, besonders
+noch auf einem vom Meere umspülten Inselchen, jede Leiche
 sehr schnell der Verwesung anheimfällt.«
 
 Harst beugte sich etwas über den Tisch und fragte leise:
 
-»Sie glauben Ihre Gattin sei keines natürlichen Todes
+»Sie glauben, Ihre Gattin sei keines natürlichen Todes
 gestorben?«
 
 Boorstetten erwiderte zögernd:
@@ -165,8 +165,8 @@ Harst freundlich. »Sie halten es trotz aller Unwahrscheinlichkeit
 für möglich, daß Ihre Gattin an einer Vergiftung gestorben
 ist und daß gerade dieses Gift den Leichnam konserviert.«
 
-Der Holländer nickte schwach. »Ja — Zuweilen kommen
-mir solche Gedanken.« —
+Der Holländer nickte schwach. »Ja — zuweilen kommen
+mir solche Gedanken.«
 
 »Deren Berechtigung ich nachprüfen werde,« erklärte
 Harst nun weit lebhafter als bisher. »Deshalb auch einige
@@ -184,7 +184,7 @@ sage ich gut. Im übrigen waren meine Frau und ich
 allein. Kinder haben wir nie gehabt.«
 
 Ich bemerkte jetzt, daß Harst den Holländer auffallend
-scharf, wenn auch ganz heimlich beobachtete.
+scharf, wenn auch ganz heimlich, beobachtete.
 
 Der niederländische Volksstamm zeichnete sich ja durch ein
 gewisses Phlegma aus. Man findet selten einen Holländer,
@@ -205,7 +205,7 @@ zu verfallen.
 Ich konnte nur vermuten, daß Harst Grund zu haben
 glaubte, Boorstetten irgendwie zu mißtrauen. Dieser wurde
 daher auch von mir jetzt mit einer Aufmerksamkeit bedacht,
-die, wenn der Holländer sie gespürt hätte, ihn fraglos veranlasst
+die, wenn der Holländer sie gespürt hätte, ihn fraglos veranlaßt
 haben würde, sich mehr zusammenzunehmen. Gerade
 durch dieses Belauern Boorstettens kam mir dann sehr bald
 der Gedanke, daß ein Mann durch die Trauer um den Verlust
@@ -242,7 +242,7 @@ Es blieb mithin die unerklärliche Tatsache bestehen:
 Ein Mann, dessen Benehmen sehr seltsam war und auf ein
 schuldbeladenes Gewissen hindeutete, rief Harst um Hilfe an
 und zwar in derselben Angelegenheit, die allein dieses Mannes
-Schuldbewußtsein veranlasst haben konnte. —
+Schuldbewußtsein veranlaßt haben konnte. —
 
 All dies war mir blitzschnell durch den Kopf geschossen.
 Ich als Privatsekretär und Freund Harald Harsts hatte mir
@@ -296,7 +296,7 @@ fremde Hände das Teuerste berühren, was ich auf Erden
 besaß.«
 
 Aha, dachte ich, er beginnt nun doch Haralds Einmischung
-zu fürchten! Er hat sich dem Verlauf dieser Hilfsaktion harmloser
+zu fürchten! Er hat sich den Verlauf dieser Hilfsaktion harmloser
 vorgestellt.
 
 »Ich verspreche Ihnen, den Inhalt des Sarges nicht zu
@@ -353,7 +353,7 @@ Möglichkeiten schweben auch Ihnen vor, bester Jobster.«
 »Möglichkeiten?! Hm —! Nein — ich habe mich bereits
 auf eine ganz bestimme Ansicht festgelegt.«
 
-»So so — etwas rasch! — Und diese Einsicht wäre?«
+»So so — etwas rasch! — Und diese Ansicht wäre?«
 
 »Boorstetten hat ein recht schwer belastetes Gewissen!«
 platzte der Inspektor heraus.
@@ -373,7 +373,7 @@ Nachsatz machte mich sofort aufmerksam.
 da,« erklärte Harald weiter und rückte näher an den Tisch
 heran. »Es kann folgendes vorliegen. Erstens: Boorstetten hat
 ein reines Gewissen, was den Tod seiner Frau anbetrifft,
-und — «
+und —«
 
 Er schwieg plötzlich, lehnte sich wieder zurück, streifte das
 Feuer von der erst halb aufgerauchten Zigarette und legte
@@ -381,7 +381,7 @@ deren Rest unauffällig in sein Taschentuch. Dann wandte er
 sich an Jobster.
 
 »Wissen Sie, ob es hier in der Stadt jemand gibt, der mit
-Boorstettens näher bekannt war?«
+dem Ehepaare näher bekannt war?«
 
 Jobster dachte nach. »Hm — da wäre der Nachbar der
 Boorstettens, der frühere Hauptmann Plavarston. Doch nein
@@ -451,7 +451,7 @@ Harst war neben uns erschienen, warf sich in seinen
 Sessel und rief lachend: »Dieser Advokat ist ein Original. Er
 hat mir anvertraut, daß auch er zu den Unzähligen gehörte,
 die in die engelsschöne Ellinor Boorstetten bis zum Wahnsinn
-verliebt wäre, ohne daß es auch nur einem dieser Unzähligen
+verliebt waren, ohne daß es auch nur einem dieser Unzähligen
 geglückt wäre, einen freundlicheren Blick aus den Engelsaugen
 zu erbetteln.«
 
@@ -520,7 +520,7 @@ von den Engländern stark befestigt worden sind.
 Das Felseneiland Blakang fand der Segelbootsbesitzer,
 dessen Fahrzeug wir am Hafen der Stadt für die Nacht gemietet
 hatten, trotz der tiefen Dunkelheit sehr sicher aus den benachbarten
-Inselchen heraus. Es war genau Mitternacht als
+Inselchen heraus. Es war genau Mitternacht, als
 wir an der Nordküste von Blakang in einer winzigen Bucht
 landeten. Das Boot sollte hier auf uns bis vier Uhr morgens
 warten. Waren wir bis dahin nicht wieder erschienen, konnte
@@ -549,7 +549,7 @@ eines kleinen Tempels mit Säulenvorbau abhoben.
 
 Wir standen jetzt auf einem sauber gepflegten, mit
 <@pagebreak/>
-Muschelgrand bestreuten Parkweg dem Tempel gerade gegenüber.
+Muschelgrand bestreuten Parkwege dem Tempel gerade gegenüber.
 Harst schaute zum Himmel empor. Das bisher gleichmäßige
 schwarze Gewölk zeigte einige lichtere Stellen. Es
 hatte sich etwas Wind erhoben, und wir durften damit rechnen,
@@ -601,7 +601,7 @@ geöffnet hatte.
 
 Harst schloß hinter uns wieder ab und ließ den Schlüssel
 stecken. Wir holten unsere Taschenlampen hervor, und deren
-weise Lichtkegel irrten nun langsam über eine Kuppelhalle
+weiße Lichtkegel irrten nun langsam über eine Kuppelhalle
 <@pagebreak/>
 hin, in deren Mitte auf einem Postament von weißem Marmor
 ein mit frischen Kränzen geschmückter Sarg stand.
@@ -620,7 +620,7 @@ Ich hatte sofort beim Eintritt einen ähnlich scheußlichen
 Geruch wahrgenommen, wie ihn die Sikandra-Blüten nachts
 ausströmen.
 
-»Ja — der Sarg kann nicht dicht sein, und es muß auch eine
+»Ja, — der Sarg kann nicht dicht sein, und es muß auch eine
 Leiche darin liegen, denn —«
 
 »Muß?!« meinte Harst schnell. »Muß?! — Dieser Geruch
@@ -629,7 +629,7 @@ einen Toten oder eine Tote enthält.«
 
 Er glitt vorwärts, stieg auf das Postament. Seine Taschenlampe
 senkte sich. Er beleuchtete das Glasfenster des
-Sarges.
+Deckels.
 
 Dann winkte er mir. Ich trat zögernd neben ihn. Und
 ich sah im Sarge — nichts als ein seidenes Kopfkissen unterhalb
@@ -709,7 +709,7 @@ Schloß hinein!
 
 Ich bückte mich und leuchtete das Schlüsselloch ab. Tatsächlich:
 da war von draußen her eine gewöhnliche, große Eisenschraube
-als Hindernis ganz fest aber auch ganz lautlos
+als Hindernis ganz fest, aber auch ganz lautlos
 und schnell angebracht worden.
 
 Und diese für den Zweck tadellos passende Schraube
@@ -740,7 +740,7 @@ ich leise. »Wer in aller Welt aber kann’s getan haben?«
 »Zunächst spare die Kraft Deiner Batterie und knipse
 Deine Lampe aus, mein Alter,« erwiderte er, und da erst sah
 ich, daß er eine leicht qualmende Zigarette zwischen den Fingern
-hielt. Beneidenswerte Gemütsruhe. Er rauchte und ich
+hielt. Beneidenswerte Gemütsruhe. Er rauchte, und ich
 — hatte Angst vor dem, was sich für uns hier noch weiter ereignen
 würde.
 
@@ -786,7 +786,7 @@ gelegt hatte, — und noch anderes mehr.
 »Hm — kannst Du es Dir nicht selbst sagen, wer der Attentäter
 ist,« erwiderte er nun. »Wenn Du auf alles, was sich im
 Hotel Raffles zutrug — auf alles! —, genau geachtet hättest,
-wüßtest Du —« Er führte den Satz nicht zu Ende, meinte lebhafter:
+müßtest Du —« Er führte den Satz nicht zu Ende, meinte lebhafter:
 »Beleuchte mal die Streichholzschachtel, während ich
 sie genauer untersuche. Es ist ratsam, dies sofort zu tun und
 sie dann verschwinden zu lassen.«
@@ -847,7 +847,7 @@ was wohl würde sich ereignen?!
 
 Unwillkürlich langte ich mit der Rechten nach der Schlüsseltasche
 meiner Beinkleider. Dort steckte die so harmlos aussehende,
-kleine, neunschüssige Klement-Repetier-Pistole, die
+kleine, neunschüssige Clement-Repetier-Pistole, die
 auch Harst seit einiger Zeit anstelle des früheren, umfangreicheren
 Systems benutzte. — Ich wußte: nichts beruhigte meine
 Nerven so sehr, als wenn ich diesen kugelspeienden Freund so
@@ -924,7 +924,7 @@ mich zu überrumpeln suchen! Ich werde Ihnen beweisen, daß
 und — wie ich schieße!«
 
 Die Pistole mit dem langen Lauf bewegte sich nicht mehr.
-Man ein schwaches Geräusch, kaum als Knall zu bezeichnen,
+Nun ein schwaches Geräusch, kaum als Knall zu bezeichnen,
 <@pagebreak/>
 und — Harsts Reisemütze flog ihm vom Kopf und fiel hinter
 ihm auf die Marmorfliesen.
@@ -953,7 +953,7 @@ hielt es gegen das Licht, sagte dabei:
 »Rühren Sie sich nicht! Diese Pistole ist ein Selbstlader,
 amerikanische Erfindung, fünfschüssig!«
 
-Er überflog den Zettel. — Ich atmete aus. Harst hatte
+Er überflog den Zettel. — Ich atmete auf. Harst hatte
 hier einmal wieder gezeigt, wie sehr er stets alles fein berechnete.
 Natürlich hatte er die ihm wertvolle Streichholzschachtel
 anderswo versteckt und den Lauscher genasführt!
@@ -1000,7 +1000,7 @@ zögernd. »Ich kann mich doch wohl auf Ihr Wort verlassen?«
 Boorstetten« ist bereits völlig aufgeklärt. Ich brauchte mich
 damit nicht weiter zu beschäftigen. Ich könnte den Schuldigen
 festnehmen. Ich ziehe es aber vor, mich hier nicht niederschießen
-zu lassen, denn ich hoffe der Menschheit noch gelegentlich
+zu lassen, denn ich hoffe, der Menschheit noch gelegentlich
 im Kampfe gegen das Verbrechertum so etwas nützen zu
 können.«
 
@@ -1062,7 +1062,7 @@ zeigte mir das noch im Tode liebreizende Antlitz einer jungen
 Frau. Es konnte nur Ellinor Boorstetten sein. Der Holländer
 hatte also die Leiche wieder in den Sarg gelegt. Mußte der
 Mann Nerven und — Körperkräfte haben! Eine Tote, die
-bereits so lange eingesargt war, und einen Sargdekel von
+bereits so lange eingesargt war, und einen Sargdeckel von
 solcher Schwere ganz allein zu bewältigen, — das machte Boorstetten
 so leicht keiner nach!
 
@@ -1163,7 +1163,7 @@ sanft an sich. Als ich ihn dann von der Seite prüfend musterte,
 erschrak ich fast über diesen Ausdruck rücksichtslosester Energie
 in seinem Gesicht. Daß diese Veränderung seiner Züge nur
 mit dem »Fall Nummer zwei« zusammenhängen konnte, war
-mir sofort klar. Ebenso klar war mir aber auch daß es sich
+mir sofort klar. Ebenso klar war mir aber auch, daß es sich
 hier um ein Verbrechen von ganz besonderer Heimtücke handeln
 müsse. Denn der Gesichtsausdruck Harsts war für gewöhnlich
 kaum der Veränderung unterworfen. Eine so
@@ -1237,12 +1237,12 @@ die mich zwingen, diesen Fall nicht weiter zu untersuchen. Welcher
 Art diese Umstände sind, darf ich nicht angeben. Schraut
 und ich sind da eine besondere Verpflichtung eingegangen.«
 
-Ich beobachtete Boorstetten unauffällig aber scharf. Er
+Ich beobachtete Boorstetten unauffällig, aber scharf. Er
 machte jetzt ein sehr enttäuschtes Gesicht und blickte Harst
 unsicher an.
 
 »So so, eine Verpflichtung. — Nun, ich muß mich damit
-zufrieden geben.« sagte er nachdenklich.
+zufrieden geben,« sagte er nachdenklich.
 
 »Zufrieden geben?!« flüsterte Harst und lächelte ganz
 wenig. »Das brauchten Sie nicht, bester Boorstetten, wenn Sie
@@ -1267,7 +1267,7 @@ und lachte mit, wenn auch etwas gezwungen.
 Dann flüsterte Harst, und er bewegte dabei kaum die
 Lippen:
 
-»Schicken Sie den Inder nach einem Gegenstand den er
+»Schicken Sie den Inder nach einem Gegenstand, den er
 nicht sofort findet.«
 
 Boorstetten benahm sich recht gewandt und erledigte dies
@@ -1279,10 +1279,10 @@ fragte Boorstetten sogleich.
 
 Harst deutete auf die Nickelteekanne, die gerade vor ihm
 stand und die eine eigenartige Form mit vielen ebenen Flächen
-hatte. Diese zeigte mir infolge ihrer besonderen Form
+hatte. »Diese zeigte mir infolge ihrer besonderen Form
 die Gestalt des Dieners recht deutlich. Der Mann versuchte zu
 lauschen, als wir leise sprachen. Er beugte sich weit vor. —
-»Ist dieser Prangar-Singh zuverlässig?«
+Ist dieser Prangar-Singh zuverlässig?«
 
 »Unbedingt. Es ist mein Kammerdiener und ein in jeder
 Hinsicht pflichttreuer Mensch, dabei intelligent und gebildet.«
@@ -1498,7 +1498,7 @@ Plavarstons Antlitz hatte jede Spur von Farbe verloren.
 
 »Nein — ich bin ein leidlich bekannter Liebhaberdetektiv,
 wie Sie alle wissen,« erwiderte Harst kalt. »Und wenn ich
-behaupte der Likör —«
+behaupte, der Likör —«
 
 Da hatte Plavarston bereits mit einem ironischen Auflachen
 das Glas Boorstettens ergriffen und — ich glaubte, er
@@ -1536,7 +1536,7 @@ Stuhl, auf dessen Lehne er sich mit den Händen stützte. »Ich
 möchte Sie dann weiter fragen, ob Sie Schraut und mir das
 Ihnen verpfändete Ehrenwort zurückgeben wollen? — Sie
 zucken die Achseln. Nun, Sie haben ein kurzes Gedächtnis.
-Wir versprachen Ihnen im Mausoleum den Fall Ellinor Boorstetten
+Wir versprachen Ihnen im Mausoleum, den Fall Ellinor Boorstetten
 nicht weiter zu untersuchen. Wir haben das auch nicht
 getan, da ich bereits vollständig Bescheid wußte.«
 
@@ -1557,7 +1557,7 @@ ihm dies auszureden suchte. Ich beobachtete weiter, daß der
 Jüngere seine Zigaretten stets mit einem Streichholz anzündete.
 Die Streichholzschachtel hatte ein grellgelbes Schildchen.
 Dann kam Boorstetten an unseren Tisch. Plavarston blieb
-nach eine Weile allein sitzen und blickte heimlich immer wieder
+noch eine Weile allein sitzen und blickte heimlich immer wieder
 zu uns hinüber. Darauf verließ er den Saal. Jedenfalls
 war mir sein Benehmen etwas auffällig vorgekommen. —
 Boorstetten bot mir nachher eine seiner Zigaretten an. Ich
@@ -1615,9 +1615,9 @@ Dann hat Plavarston Ihrer Gattin Nervensystem auf irgend
 eine Weise zerrüttet und ihr schließlich ein Gift beigebracht,
 des erst nach vielen Stunden eine Herzlähmung herbeiführte.
 Genau so ging er darauf gegen Sie vor. Die Zigaretten machten
-sie krankhaft nervös und heute mußte er dann schnell
+sie krankhaft nervös, und heute mußte er dann schnell
 vor Ihrer Abreise den Hauptschlag vorbereiten. Hätten Sie
-den Likör getrunken, denn wären Sie übermorgen an Herzschwäche
+den Likör getrunken, dann wären Sie übermorgen an Herzschwäche
 verschieden. — Jobster — verhaften Sie Plavarston!
 Sein Gesichtsausdruck spricht deutlicher als ein Geständnis.«
 
