@@ -4,7 +4,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Der Eckturm.</h3>
 
-Der Leser mag eine Wandkarte Vorderindiens zur Hand
+Der Leser mag eine Landkarte Vorderindiens zur Hand
 nehmen. Im nordwestlichen Teile des Riesenreiches Indien
 wird er auf der Karte einen großen, unbesiedelten,
 also fast gänzlich leeren Fleck finden: die Thar-Wüste!
@@ -22,7 +22,7 @@ modern umgebaute Radschputenburg Tallamara (Talla
 Mara, Adlerhorst).
 
 Den einzigen Zugang zu dieser Burg, deren Umfassungsmauer
-an den Eden vier schlanke Türme hat, die wieder
+an den Ecken vier schlanke Türme hat, die wieder
 <@pagebreak/>
 von den drei dicken Burgtürmen überragt werden, bildet
 eine eiserne Hängebrücke, die von der westlichen hohen
@@ -72,7 +72,7 @@ war, erhob sich eine Staubwolke, flogen Sträucher, Felsstücke
 und Steine in die Luft.
 
 »Die Brücke!« rief Harald und umklammerte meinen
-Arm.  »Da er hat sie gesprengt! Das Talende der
+Arm. »Da — er hat sie gesprengt! Das Talende der
 Brücke sinkt!«
 
 <@pagebreak/>
@@ -82,7 +82,7 @@ Mit einem furchtbaren Knall schlug jetzt das herabfallende
 Ende unten auf die Talsohle auf.
 
 Ein neuer Krach — eine seltsame Vermengung von
-nervenaufpeitschenden Geräuschen, und auch das hochstrebende,
+nervenaufpeitschenden Geräuschen, und auch das hochstehende,
 an dem Würfelfelsen verankerte Ende brach ab, und die
 ganze Brücke kippte nach Süden zu um.
 
@@ -122,7 +122,7 @@ Blicken.
 
 »So,« meinte Harald, »nun wird sich sofort herausstellen,
 wie die zahlreiche Dienerschaft der Burg sich uns
-gegenüber verhält. Ein Teil der Leute, die ja alle, wie bekannt
+gegenüber verhält. Ein Teil der Leute, die ja alle, wie bekannt,
 mit größter Hingabe Olgerdyn zugetan sind, ist ganz
 <@pagebreak/>
 sicher in seine Geheimnisse eingeweiht. Die Radschputen
@@ -159,8 +159,8 @@ Schlüssel von innen im Schloß und blieben tief aufatmend
 stehen.
 
 Ringsum tiefe Dunkelheit. Wir kannten die Burg
-erst seit heute, hatten sie vor kaum einer Stunde betreten,
-wußten nur, daß sich in den Ecktürmen der
+erst seit heute, hatten sie vor kaum einer Stunde betreten.
+Wir wußten nur, daß sich in den Ecktürmen der
 Umfassungsmauer Büroräume befanden, denn Olgerdyns Züchterei
 erforderte einen großen Verwaltungsapparat —
 
@@ -183,7 +183,7 @@ keinen Radschputen, der nicht Waffen besitzt.«
 
 Das waren ja wenig rosige Aussichten!
 
-Doch — was half’s ich packte mit zu und in wenigen
+Doch — was half’s. Ich packte mit zu und in wenigen
 Minuten hatten wir vor der starken Tür eine nur schwer
 wegzuräumende Barrikade errichtet.
 
@@ -214,7 +214,7 @@ Brücke und den Radschputen aus.
 
 Die Leute waren sämtlich verschwunden.
 
-»Ach sehr bedenklich!« sagte Harald sinnend. »Freilich
+»Auch sehr bedenklich!« sagte Harald sinnend. »Freilich
 — es wäre ja eigentlich eine ungeheure Dummheit von den
 Menschen, wenn sie ihre Mittäterschaft durch ein feindseliges
 Verhalten uns gegenüber verraten würden. Aber —«
@@ -226,7 +226,7 @@ Vom Hofe her eine Stimme, die des Dieners Robert.
 »Mr. Harst — Mr. Harst!«
 
 Harald trat an das Fenster heran, zeigte sich aber nicht,
-sondern rief zurück: —
+sondern rief zurück:
 
 »Hallo — was gibt’s?«
 
@@ -293,8 +293,8 @@ in der Thar-Wüste.
 
 »Die genannten drei Personen,« hieß es dort weiter,
 »waren vor drei Wochen mit fünf Radschputen und vier
-Dienern von Ghosgarh aus aufgebrochen, um in den Bergen
-von Kanod Bergziegen zu jagen, Lord Breßfort gehört
+Dienern von Ghoshgarh aus aufgebrochen, um in den Bergen
+von Kanod Bergziegen zu jagen. Lord Breßfort gehört
 zu den reichsten Aristokraten Englands und befand sich
 mit seiner sportliebenden Gattin, einer geborenen Miß
 Pancroof, auf der Hochzeitsreise. Die fünf von dem Lord
@@ -308,10 +308,10 @@ etwa mit einem Sandsturm, zu rechnen haben, denn eine
 vor anderthalb Wochen aus der Thar in Bikaner angelangte
 Karawane wurde südlich der wilden Kanod-Berge
 ebenfalls durch einen solchen Sandsturm in die größte
-Gefahr gebracht. Die von Ghosgarh aus abgeschickten
-Streifpatrouillen vom Kamelreiterkorps haben nicht die geringste
+Gefahr gebracht. Die von Ghoshgarh aus abgeschickten
+Streifpatrouillen vom 3. Kamelreiterkorps haben nicht die geringste
 Spur von den Verschwundenen entdeckt. Major
-Pancroof, Kommandeur der in Ghosgarh stehenden Abteilung
+Pancroof, Kommandeur der in Ghoshgarh stehenden Abteilung
 dieses Korps, war ebenfalls eifriger Jäger und
 wußte in der Thar gut Bescheid —«
 
@@ -326,7 +326,7 @@ Jagdgesellschaft überfallen hat.«
 »Ja. Lord Breßfort ist unermeßlich reich, und ein
 Mann von der Geldgier Olgerdyns ist nicht wählerisch,
 wird auch zum Erpresser eines Lösegeldes. Es sollte mich
-nicht wundern, wenn nicht plötzlich in Ghosgarh bei Pancroofs
+nicht wundern, wenn nicht plötzlich in Ghoshgarh bei Pancroofs
 Kameraden ein Brief eintrifft, in dem die Erpresser
 sich melden — natürlich unter xbeliebigen Namen.«
 
@@ -489,7 +489,7 @@ Harald trat tief gebückt ein, winkte.
 
 »Komm’!«
 
-Er der kräftigere von uns schulterte jetzt das Bündel.
+Er, der kräftigere von uns schulterte jetzt das Bündel.
 Draußen Abenddunkel, ein Kamelgehege mit jungen
 Tieren.
 
@@ -535,7 +535,7 @@ mich da nicht zurecht, mein Alter. Es scheint so, als ob
 Breßfort den Schurken entschlüpft ist und sich irgendwo verteidigt,
 also belagert wird.«
 
-»Das ist ist wohl ausgeschlossen,« erklärte ich. »Die
+»Das ist wohl ausgeschlossen,« erklärte ich. »Die
 Patrouillen des Kamelreiterkorps hätten dies wohl gemerkt —
 durch den Knall von Schüssen wären sie auf die nach Deiner
 Ansicht Umzingelten aufmerksam geworden.«
@@ -546,8 +546,8 @@ wenn Du es kannst!«
 
 »Vielleicht sollte Breßfort einen Brief des Lösegeldes
 wegen an irgend jemand schreiben und hat sich bisher
-geweigert. Man wird ihn nun vielleicht mit dem Tode bedrohen.
-So mag Greebraecs Äußerung zustande gekommen
+geweigert. Man will ihn nun vielleicht mit dem Tode bedrohen.
+So mag Greebracs Äußerung zustande gekommen
 sein.«
 
 Harald, der andauernd nach der Hütte hinübergespäht
@@ -571,7 +571,7 @@ nicht hinter, sondern neben ihnen. Das ist sicherer.«
 <h3>Als Fährtensucher.</h3>
 
 Wir waren an das Reiten im Kamelsattel gewöhnt.
-Auch nach Tallamara waren wir ja doch zu Kamel gelangt.
+Auch nach Tallamara waren wir ja hoch zu Kamel gelangt.
 
 Haralds kundiger Blick hatte wirklich erstklassige Tiere
 ausgewählt. Da die sechs Verfolgten mit Ihren bepackten
@@ -592,7 +592,7 @@ werden.
 In der Ferne tauchten jetzt vor uns die ersten kahlen
 Bergkuppen auf. Die Unwirklichkeit dieser wildzerklüfteten
 <@pagebreak/>
-Höhenzüge der Thar übertrifft noch an schauerlicher Düsterkeit
+Höhenzüge der Thar übertrifft noch an schauerlicher Düsterheit
 und Unfruchtbarkeit die Gebirgszüge der Sahara.
 
 Die sechs Reiter hatten morgens bei Sonnenaufgang
@@ -634,7 +634,7 @@ Harald stieg ab und untersuchte die Spuren, sagte
 dann:
 
 »Ich wette, sie haben sich getrennt. Drei sind nach anderer
-Richtung mit dem einen Lastkamel weiter geritten, die
+Richtung mit dem einen Lastkamel weitergeritten, die
 anderen drei mit dem zweiten Packtier haben wir hier vor
 uns. Rasten wir dort im Schatten der Felsen. Ich werde
 dieser Fährte eine Strecke zu Fuß folgen.«
@@ -668,7 +668,7 @@ steinigen Tal lebewohl. Noch ein Händedruck, und ich
 sprengte nach Süden zu, während Harald nach Norden davonritt.
 
 Die Spuren vor mir waren leicht zu erkennen. Mein
-Reittier, gut ausgeruht, schlug jenen flüchtigen Trab ein
+Reittier, gut ausgeruht, schlug jenen flüchtigen Trab ein,
 dem ein Pferd nur galoppierend gewachsen ist. Das Tal
 senkte sich, ging in die sandige Wüste über. Die Fährte bog
 allmählich mehr nach Osten um. Nach einer Stunde abermals
@@ -677,7 +677,7 @@ Steingeröll und ärmliche Wüstenpflanzen.
 
 Und hier — hier auf dem nackten Gestein waren die
 beiden Reiter abgestiegen. Hier wandte ich nun all meinen
-Scharfsinn an; hier entdecke ich im frischen Kamelkot zwei
+Scharfsinn an; hier entdeckte ich im frischen Kamelkot zwei
 Abdrücke verschieden großer Stiefelabsätze. Also — zwei
 Europäer, die Gesuchten!
 
@@ -692,7 +692,7 @@ Ich führte mein Tier am Zügel und ging tief gebückt
 
 <@pagebreak/>
 Nichts — nichts! Ich war förmlich verzweifelt.
-Noch ein paar Stunden dann kam die Nacht, dann verloren
+Noch ein paar Stunden, dann kam die Nacht, dann verloren
 wir kostbare, unwiederbringliche Zeit!
 
 Plötzlich hinter mir Hufschläge — ein lauter Ruf.
@@ -760,7 +760,7 @@ hinter ihm her sein werden.«
 »Wie — und Du bist dabei so ruhig?!« meinte ich
 kopfschüttelnd.
 
-»Gewiß. Der Radschpute fühlt ich ganz sicher. Daß
+»Gewiß. Der Radschpute fühlt sich ganz sicher. Daß
 wir ihm bereits im Nacken sitzen, kann er nicht im entferntesten
 ahnen. Morgen mag Olgerdyn und seine Bande uns
 hier vielleicht erwarten. Heute niemals.«
@@ -798,7 +798,7 @@ sprachlos.
 Er ließ mich nicht ausreden.
 
 »Die Kugel ist aus Breßforts Büchse gekommen. Der
-Radschpute mit dem durchschossenen Arm sagte es dem anderen.«
+Radschpute mit dem durchschossenen Arm sagte es dem andern.«
 
 Nun begriff ich alles: Der Lord und seine Begleiter
 befanden sich wirklich in der Nähe! — Das Abenteuer wurde
@@ -810,7 +810,7 @@ suchen, bevor es ganz dunkel ist,« meinte Harald nun.
 in die Berge hinein, wenden.«
 
 Bei schnell zunehmender Dämmerung bogen wir in eine
-langgereckte Schlucht ein, erkletterten dann linker Hand
+langgestreckte Schlucht ein, erkletterten dann linker Hand
 eine in Terrassen ansteigende Wand und gelangten, als wir
 um eine schmale Ecke bogen, neben der ein Abgrund in
 blauschwarzer Finsternis gähnte, in einen von hohen Wänden
@@ -954,7 +954,7 @@ In dieser Weise versuchten wir es wohl zwei Stunden
 lang, einen Zugang zu jener jetzt vom Nachtgestirn beschienen
 Felsterrasse zu finden.
 
-Es gab keinen Zugang. Wenigstens keinen solchen der
+Es gab keinen Zugang. Wenigstens keinen solchen, der
 nachts zu finden war.
 
 Still, einsam und großartig in seiner magischen Beleuchtung
@@ -962,7 +962,7 @@ durch den Mond lagen die zerklüfteten Berge da.
 Nirgends auch nur das geringste Anzeichen, daß Menschen
 in der Nähe waren.
 
-Der Berg, an dessen Ostseite die Terrasse lag, stellte wie
+Der Berg, an dessen Ostseite die Terrasse lag, stellte, wie
 wir bald erkannten, eine ungeheure sechseckige, abgestumpfte
 Pyramide dar. Diese Pyramide von gut vierhundert Meter
 Höhe suchten wir nun auch nach Norden zu umschreiten.
@@ -1026,7 +1026,7 @@ Wir brauchten ihn nicht mehr zu fürchten. Wir hatten
 jetzt die Schattenseite der westlichen Schluchtwand dicht
 <@pagebreak/>
 neben uns. Noch wenige Meter, und wir lagen am Rande
-jenes kleinen Abhangs. Gerade unter uns vier Feuer,
+eines kleinen Abhangs. Gerade unter uns vier Feuer,
 darum vierzehn Männer, von denen drei Europäer waren:
 Olgerdyn, Greebrac und der Diener Robert. Mehr im
 Hintergrund standen vier große braune Zelte. Dahinter
@@ -1100,8 +1100,8 @@ tiefste Finsternis. Es ging ziemlich steil abwärts. Ein
 fühlbarer Luftzug strich durch diese Grotte. Nach drei kurzen
 Biegungen ein schwacher Lichtschimmer vor uns.
 
-Und nun — nun erklärte uns der flackernde Schein
-qualmenden Fackeln, die in die Ritzen der Wände gesteckt
+Und nun — nun enthüllte uns der flackernde Schein
+qualmender Fackeln, die in die Ritzen der Wände gesteckt
 worden waren, das Geheimnis dieses Ortes: dort vor
 uns verengerte sich die Höhle bis auf vielleicht anderthalb
 Meter. An dieser Stelle war sie mit Felsblöcken verrammelt.
@@ -1176,7 +1176,7 @@ aussah, nickte.
 
 »Aber gewiß, Mr. Harst. Ich hole nur meine Büchse.«
 
-Er war im Augenblick zurück.
+Sie war im Augenblick zurück.
 
 Harst drängte zur Eile. Wir sechs begannen den Rückweg
 nach dem Lager der Tharräuber.
@@ -1184,7 +1184,7 @@ nach dem Lager der Tharräuber.
 Allan Breßfort fand jetzt Zeit, uns kurz seine Erlebnisse
 zu schildern.
 
-Die fünf Radschputen, die er als Führer in Ghosgarh
+Die fünf Radschputen, die er als Führer in Ghoshgarh
 angeworben gehabt hatte, waren nichts anderes als Banditen
 gewesen, die die ahnungslose Jagdgesellschaft zwar
 erst nach den Kanod-Bergen, dann aber bis hier in die

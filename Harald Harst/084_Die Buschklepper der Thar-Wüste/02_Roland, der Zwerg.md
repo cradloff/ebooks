@@ -44,7 +44,7 @@ Ihre Andeutungen sind mir ziemlich unverständlich.
 — Sie wollen aus meiner geringen Größe Kapital schlagen,
 wollen meine akrobatischen Fähigkeiten besser bezahlen
 als jeder andere? Ich soll lediglich durch eine enge
-Felsspalte kriechen und dafür 50 000 Rupien erhalten?!
+Felsspalte kriechen und dafür 50&nbsp;000 Rupien erhalten?!
 
 Entschuldigen Sie, Mr. Olgerdyn: daraus werde ich
 nicht klug! — Sie schreiben mir weiter, daß ich nichts fragen
@@ -60,7 +60,7 @@ mein strengstes Stillschweigen können Sie sich verlassen.
 
 > Ergebenst
 
-> Roland Hartleport.
+> Roland Hartleport,
 
 > zur Zeit Alhambra, Agra.
 
@@ -69,9 +69,9 @@ All dies stand auf der Vorderseite des Bogens.
 Als ich ihn nun umdrehte, fand ich auf der Rückseite
 folgende Bleistiftnotiz:
 
-> 11\. Januar 100 000 R. geboten,
+> 11\. Januar 100&nbsp;000 R. geboten,
 
-> 18\. Januar 50 000 voraus
+> 18\. Januar 50&nbsp;000 voraus
 
 > 26\. einverstanden.
 
@@ -94,7 +94,7 @@ Tabakröllchen sog er den Rauch dann ein und
 fügte hinzu:
 
 »Unklar ist meines Erachtens der Zweck dieses beabsichtigten
-Engagementsvertrages. 50 000 Rupien sind ein
+Engagementsvertrages. 50&nbsp;000 Rupien sind ein
 nettes Stück Geld. Ein Mann wie Olgerdyn opfert sie nur,
 wenn er weiß, daß er dadurch mindestens das zehnfache
 verdient. Also sollte — na, was sollte Roland Hartleport,
@@ -106,7 +106,7 @@ kein schlechter Witz von ihm ist!«
 »Im Gegenteil — von Witz kann hier keine Rede sein.
 Auf der Rückseite des Briefes steht ja, von Olgerdyns Hand
 geschrieben, daß er am 11. Januar sein Angebot auf
-100 000 Rupien erhöht, am 18. Januar 50 000 vorausbezahlt
+100&nbsp;000 Rupien erhöht, am 18. Januar 50&nbsp;000 vorausbezahlt
 und daß Roland Hartleport am 26. das Angebot angenommen
 hat.«
 
@@ -164,9 +164,9 @@ aber wollte gern den in der Felsspalte unerreichbaren
 Schatz heben. Als findiger Kopf kommt er auf den Gedanken,
 den Zwerg Roland Hartleport damit zu betrauen,
 die Edelsteine aus der Spalte herauszuholen. Er bietet
-ihm schließlich 100 000 Rupien, und Hartleport nimmt an,
+ihm schließlich 100&nbsp;000 Rupien, und Hartleport nimmt an,
 trifft sich mit Olgerdyn, erledigt seine Aufgabe und — wird
-beseitigt. So spart Olgerdyn die 100 000 Rupien und ist
+beseitigt. So spart Olgerdyn die 100&nbsp;000 Rupien und ist
 trotzdem in Besitz der Juwelen gelangt. Da Roland sein
 Versprechen, über das ganze Geschäft tiefstes Schweigen zu
 <@pagebreak/>
@@ -311,7 +311,7 @@ Die weitere Unterhaltung drehte sich um das Räuberunwesen
 in der Thar, wobei Harald auf des Majors Winchesterbüchse
 deutete, die Lord Breßfort ihm geschenkt hatte,
 und lachend erklärte, mit so einer Repetierbüchse sei man
-hier so sicher wie in Abrahams Schoß —
+hier so sicher wie in Abrahams Schoß. —
 
 Wenn ich nur begriffen hätte, was diese Komödie sollte!
 Weshalb sollten wir die Touristen spielen?! Weshalb sollte
@@ -350,7 +350,7 @@ kannst Du Dir denken.«
 wir noch auf dem Felsen lagen, so zu tun, als ob wir nicht
 wüßten, daß wir —«
 
-»Allerdings,« unterbrach er mich, »das wünschte ich,
+»Allerdings,« unterbrach er mich, »das wünsche ich,
 um mich nachher an der Überraschung des Kleinen zu
 weiden, wenn *wir* ihm sein Abenteuer mit dem Engagement
 bei Hektor Olgerdyn erzählen würden. Der Zweck,
@@ -367,7 +367,7 @@ Jeder Mensch, der derartiges hinter sich hat, jeder,
 der so aufregende Stunden als Verfolgter durchgemacht
 hat, wird niemals so vollständig jede Einzelheit umgehen,
 wie er es tat. Seine Schilderung war so gehalten, daß
-sich, falls *wir* nachher nach Einzelheiten fragten, nicht
+er sich, falls *wir* nachher nach Einzelheiten fragten, nicht
 in Widersprüche verwickeln konnte.«
 
 »Nun gut — das mag alles sein. Wo kam der Zwerg
@@ -382,7 +382,7 @@ unseres Lagerplatzes erreicht. Sie war von der
 Felsgruppe etwa tausend Meter entfernt.
 
 Mehr zum Schein blieben wir eine Weile stehen. Ich
-grübelte fortgesetzt über dem Rätsel Roland Hartleport genannt,
+grübelte fortgesetzt über dem Rätsel, Roland Hartleport genannt,
 nach.
 
 Auch Harald schwieg. Er hatte schon wieder eine
@@ -408,7 +408,7 @@ Nochmals schaute ich den zu den Felsen hinüber.
 »Gehen wir!« sagte Harald hastig. »So komm doch!
 Jetzt gibt es nichts mehr zu sehen.«
 
-Er zog mich halb nach Osten zu den Hügel hinab. Die
+Er zog mich halb nach Osten zu dem Hügel hinab. Die
 Felsgruppe erhob sich im Westen. Wir waren jetzt also
 gegen Sicht vom Lager aus gedeckt.
 
@@ -440,7 +440,7 @@ Nein — freiwillig ist er niemals über zwei Monate
 hier in der Thar geblieben. Er ist hier festgehalten worden.
 Und — dann kann er jetzt auch nicht von zwei Verbündeten
 des Mannes, der ihn in die Thar lockte und ihm
-die 100 000 Rupien nachher nicht ausgezahlt hat, etwa als
+die 100&nbsp;000 Rupien nachher nicht ausgezahlt hat, etwa als
 Spion benutzt worden sein — gegen uns beide! Nein,
 all das reimt sich nicht zusammen. Es muß da noch eine
 andere Lösung geben — muß! Ich finde sie nur nicht.«
@@ -499,7 +499,7 @@ Der Tee war wirklich angenehm kühl. Harst trank den
 Becher leer und stellte ihn in den Sand.
 
 Dann fügte er hinzu: »Mr. Hartleport, die beiden
-Männer von denen Sie in der verflossenen Nacht oder
+Männer, von denen Sie in der verflossenen Nacht oder
 heute früh befreit worden sind, haben Sie grob angelogen.
 Die beiden haben Sie angeblich zufällig gefunden — oder
 besser den Ort, wo Sie festgehalten wurden, haben sich Ihnen
@@ -509,7 +509,7 @@ des Buschklepperanführers Olgerdyn. — Ist es
 nicht so?«
 
 Der Zwerg war unruhig geworden. Die Blicke, die
-er jetzt über uns hinstreifen ließ, waren so merkwürdig
+er jetzt fortgesetzt über uns hinstreifen ließ, waren so merkwürdig
 im Ausdruck, daß ich daraus nicht klug wurde.
 
 Auch ich hatte meinen Becher geleert. Mit einem
@@ -573,7 +573,7 @@ Was war doch eigentlich geschehen?
 
 Langsam kam mir die Erinnerung.
 
-Hartleport — die vergrabene Teeflasche — Gift —
+Hartleport — die vergrabene Teeflasche — Gift. —
 Und nun — gefangen, in Greebracs Gewalt!
 
 Ich schloß die Augen.
@@ -650,7 +650,7 @@ aus einer jedem Erwachsenen unzugänglichen Felsspalte
 herausholen, nachher aber — beseitigt werden sollten. Sie
 taten nun das einzig Richtige: Sie entflohen! Aber Olgerdyn
 holte Sie ein und ließ Sie in der Nähe seines Schlupfwinkels,
-eines kraterählichen Felskessels, in einer nur von
+eines kraterähnlichen Felskessels, in einer nur von
 oben zugänglicher kleinen Höhle einsperren und dauernd
 durch einen seiner Leute bewachen.«
 
@@ -691,7 +691,7 @@ wieder, Sie blöder Narr, oder mein Revolver geht los!«
 Grimm.
 
 Sein Blick flog über uns hin. »Meine Herren, ich bin
-das Opfer zweier Schurken geworden, die mich verleiteten
+das Opfer zweier Schurken geworden, die mich verleiteten,
 Ihnen ein Schlafmittel —«
 
 <@pagebreak/>
@@ -778,7 +778,7 @@ Feind halt.
 
 Wir wurden roh auf den Boden geworfen.
 
-Dann deutete Greebrac auf ein paar armselige Balken
+Dann deutete Greebrac auf ein paar armselige Palmen,
 an deren Fuß einige Wüstenpflanzen sich angesiedelt
 hatten.
 
@@ -787,7 +787,7 @@ hatten.
 Scamarack nahm den Spaten und entfernte sich. —
 
 Wollte man uns hier etwa wie tolle Hunde niederschießen?
-Sollten wir darin gleich verscharrt werden?
+Sollten wir dann gleich verscharrt werden?
 
 Ich blickte Harald an. Er hatte die Augen geschlossen.
 
@@ -1014,7 +1014,7 @@ Harald rief den Hund leise an:
 Der Foxterrier war schon vor ihm. Leckte ihm das Gesicht,
 winselte — bellte nicht!
 
-Und — und beschnupperte unsere Köpfe. Dann nach
+Und — und beschnupperte unsere Köpfe dann nach
 Hundeart, legte sich, starrte seinen neuen Herrn an, sprang
 auf, begann — zu graben.
 
@@ -1053,7 +1053,7 @@ des Gestrüpps nieder und ruhte sich aus.
 Der Spaten machte auch mich frei. Aber — ich sank
 neben dem braven Hunde in den Sand.
 
-»Ich hole einen zweiten Waserschlauch,« sagte Harald.
+»Ich hole einen zweiten Wasserschlauch,« sagte Harald.
 »Da — nimm Deine Büchse — für alle Fälle —«
 
 Er hob sein Winchestergewehr auf, probierte, ob der
@@ -1096,7 +1096,7 @@ Der Kerl wollte ebenfalls hinter die Dromedare entwischen.
 
 Wieder das blecherne Peng.
 
-Scamarack warf die Arme in die Luft — stürzte vorüber.
+Scamarack warf die Arme in die Luft — stürzte vornüber.
 
 <@pagebreak/>
 Eine Stunde später war der Tote dort verscharrt, wo
@@ -1110,7 +1110,7 @@ unsere Reittiere. Wir ritten nicht weit — bis in ein tiefes
 Felsental, dessen Westseite Schatten und Kühle spendete.
 
 Hier schliefen wir bis tief in die Nacht, schliefen sorglos.
-Maniter wachte; Maniter hätte niemand herangelassen.
+Maniter wachte; Maniter hätte niemand herangelassen. —
 
 Als Harst mich weckte, war es zwei Uhr morgens.
 
@@ -1138,7 +1138,7 @@ kahlen Berge.
 Wir klommen höher und höher, führten die Tiere am
 Zügel. Maniter, die Nase am Boden, war stets ein Stück
 voraus. Er hatte schnell begriffen, daß er uns helfen sollte,
-auf dieser Fährte zu bleiben. Nun leitete er uns, — und
+auf dieser Fährte zu bleiben. Nun leitete *er* uns, — und
 er tat es sicherer und schneller als wir höchstorganisierten
 Wesen der Schöpfung mit unseren doch so stumpfen Sinnen.
 
@@ -1201,7 +1201,7 @@ das Greebrac ihm in die Innentasche der Jacke geschoben
 hatte, bevor wir eingegraben wurden.
 
 Eingegraben! Wie unendlich weit schien jene furchtbare
-Viertelstunde bereits, in das Reich der Vergangenheit
+Viertelstunde bereits in das Reich der Vergangenheit
 zurückgeglitten zu sein! Fast war’s schon wie etwas
 Unwirkliches, nie Gewesenes.
 
@@ -1233,7 +1233,7 @@ Nachmittags drei Uhr.
 
 Die Sonne war hinter Dunstmassen verschwunden.
 Wir lagen auf der Südseite eines breiten, flachen Tales,
-das, allmählich aufsteigend, im Hintergrunde von mächtigen
+das, allmählich ansteigend, im Hintergrunde von mächtigen
 Felskegeln begrenzt wurde. Unsere Reittiere standen weiter
 nach Süden in einer Schlucht. Steingeröll deckte uns.
 Maniter, den Harst an der Leine hatte, schlief zwischen uns.
@@ -1369,7 +1369,7 @@ zu:
 
 Roland riß ein paar armselige Stauden aus. Ich
 half. Wir banden sie zusammen. Aber sie brannten nicht.
-Es waren Salzstreucher: dazu noch regenfeucht.
+Es waren Salzsträucher, dazu noch regenfeucht.
 
 Harald trat zu:
 
@@ -1421,7 +1421,7 @@ Ich krieche tiefer — tiefer! Ich zerbeiße die Felsen, fresse
 sie auf —! Gold — Gold — alles mein!«
 
 Und so ging es fort — sinnlos, aberwitzig, die Gedanken
-eines kranken Hirns.
+eines kranken Hirns. —
 
 Um Mitternacht schoß Harst bei Mondlicht ein Bergschaf.
 
