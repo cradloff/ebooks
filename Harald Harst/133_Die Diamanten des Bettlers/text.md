@@ -6,43 +6,43 @@
 <h3>Ahmed Bissu, der Inder.</h3>
 
 Nie ist ein Weib so heiß begehrt worden wie Eva Larda,
-die als blonde schlanke E4vnbeit …
+die aschblonde schlanke Schönheit …
 
-Nie haben sich eines W2ives wegen gleichzeitig Hunderte
+Nie haben sich eines Weibes wegen gleichzeitig Hunderte
 von intelligenten Männern derart bemüht: die ganze Berliner
 Kriminalpolizei!
 
 Nie war ein Fangobjekt so schlau und so vielgestaltig wie
-Eva Larda, ließ sich von niemand anstreichen — — selbst von
+Eva Larda, ließ sich von niemand umstricken — — selbst von
 Harald Harst nicht!
 
 Zwei Morde auf dem Gewissen, dazu Diebstähle, Betrügereien,
 zuletzt den Juwelendiebstahl bei Generaldirektor
-Bemoost: kein Wunder, daß alle Welt nach) ihr suchte!
+Benatzki: kein Wunder, daß alle Welt nach ihr suchte!
 
 Auch wir — auch wir, ganz umsonst …
 
-Herr Benatzki hatte uns tausend Mark Honorar vIraus-bezahlt.
-Und am 1. Sepiemtber heute Harald ihm die
+Herr Benatzki hatte uns tausend Mark Honorar vorausbezahlt.
+Und am 1. September brachte Harald ihm die
 tausend Mark zurück. Ich war dabei. Er sagte:
 
 »Acht Tage sind wir hinter Eva Larda ohne jeden Erfolg
 <@pagebreak/>
-Her. gehetzt gebe im die lachte »uf. Ad weiß nicht einmal,
-06 Je noch) in Berlin steht. Nichts weiß ich. Und Honorar
-für negative Benüühungen nehme ich nie an.«
+her. Jetzt gebe im die Sache auf. Ich weiß nicht einmal,
+ob sie noch in Berlin steckt. Nichts weiß ich. Und Honorar
+für negative Bemühungen nehme ich nie an.«
 
 Benatzki wagte es nicht, hiergegen etwas einzuwenden.
 Mit einem Händedruck verabschiedeten wir uns. —
 
 Harald war damals durchaus nicht auf der Höhe. Die
 Grippe hatte wieder ihren Einzug in Berlin gehalten, und
-auch; wir beide fühlten uns nicht ganz auf dem Posten.
+auch wir beide fühlten uns nicht ganz auf dem Posten.
 
-Alle wir nun die Potsdamer Straße hinabgingen, sagte
-Harald plöbtlich:
+Als wir nun die Potsdamer Straße hinabgingen, sagte
+Harald plötzlich:
 
-»Zu habe Fieber. Ich4 werde mich daheim zu Bei!
+»Ich habe Fieber. Ich werde mich daheim zu Bett
 legen …«
 
 Er sah tatsächlich unnatürlich rot aus. Ich erschrak …
@@ -58,12 +58,12 @@ Es war ein geschlossenes Auto. Ein kühler Regentag
 lagerte über Berlin. Ein Tag, an dem alles Grau in Grau
 gemalt ist …
 
-Und im Auto wandte mir Harald sein wieder in gesund-inatürlicier
+Und im Auto wandte mir Harald sein wieder in gesund-natürlicher
 Farbe schimmerndes Gesicht zu …
 
 Lächelte …
 
-»Wir war nur das Blut in die Wangen geschossen …
+»Mir war nur das Blut in die Wangen geschossen …
 Eva ist doch noch in Berlin!«
 
 Das war wie eine belebende Dusche … Grippe —
@@ -72,22 +72,22 @@ alles war vergessen.
 »Du sahst sie?«
 
 »Nein … Ich sah nur etwas sehr Merkwürdiges an
-der Terrassenmauer des Tasche Josty …«
+der Terrassenmauer des Cafee Josty …«
 
-»Und —?1«
+»Und —?!«
 
 »Einen Bettler.«
 
 »Dort stehen immer mehrere …«
 
-»seinen gebeugten Mann mit einem kleinen Ausguck auf
+»Einen gebeugten Mann mit einem kleinen Rucksack auf
 <@pagebreak/>
 dem Rücken — gebräuntes Gesicht — schwarzer Schifferbart,
 so eine Art Stromer … Der Bart war angeklebt, der
 braune Teint Schminke … Der Mann bot — Similisteine
 mit weinerlicher Stimme an …«
 
-»Nun — und weiter?!« Ich war wie Quedsilber …
+»Nun — und weiter?!« Ich war wie Quecksilber …
 Ich ahnte: das Wichtigste kam noch …
 
 »Und — es waren Diamanten, große Diamanten, keine
@@ -96,16 +96,16 @@ Simili, die er auf der flachen Hand den Passanten anbot.«
 »Unmöglich …! — Pardon — Du bist Sachkenner …«
 
 »Das bin ich. Und ich bin auch wieder ganz gesund.
-Wenn ich daheim noch zwei Sherrygläser Kognak trinke, erkaufte
+Wenn ich daheim noch zwei Sherrygläser Kognak trinke, ersäufe
 ich die letzten Grippebazillen …«
 
 »Du — willst zurück zum Potsdamer Platz …«
 
-»Natürlidm. Die Diamanten waren gut erbsengroß und
-könnten dem Armband der Frau Generaldirektor entflammen
+»Natürlich. Die Diamanten waren gut erbsengroß und
+könnten dem Armband der Frau Generaldirektor entstammen
 …«
 
-»am — — entschuldige: ein verkleideter Kerl, der echte
+»Hm — — entschuldige: ein verkleideter Kerl, der echte
 Steine als Simili anbietet — — etwas unwahrscheinlich,
 wenn auch merkwürdig …«
 
@@ -116,20 +116,20 @@ wir das Harstsche Familienhaus wieder. das heißt:
 nicht wir, — bewahre! Zwei Herren gesetzten Alters, Typ
 Kleinrentner, etwas schäbig und gedrückt …
 
-Mit der Straßenbahn fuhren wir bis »zur Budapester
-Straße, stiegen aus. Ich war wie im Lieber. Das Problem
+Mit der Straßenbahn fuhren wir bis zur Budapester
+Straße, stiegen aus. Ich war wie im Fieber. Das Problem
 interessierte mich …
 
-Nr« fünfzig Schritte bis Josty …
+Noch fünfzig Schritte bis Josty …
 
-Kein Bettler mehr mit Sie keinen …
+Kein Bettler mehr mit Similisteinen …
 
 Nichts — nichts …
 
 Wir schlenderten weiter. Haralds Lebendigkeit ließ nach.
 Diese Enttäuschung traf ihn wie ein Schlag.
 
-und als wir gegen halb zwei wieder zu Hause in den
+und als wir gegen halb zwei wieder zu Hause in der
 Blücherstraße 10 in Schmargendorf eintrafen, da flüsterte
 uns Mathilde, die alte bewährte Köchin, hastig zu:
 
@@ -139,9 +139,9 @@ Karte!«
 
 Auf der Karte stand:
 
-<p class="pre centered abgesetzt">Jean Ahmed Bissu,
+<p class="pre centered abgesetzt"><em>Jean Ahmed Bissu</em>,
 Juwelier,
-Allahabad, Lord-Gaynor-Sir. 18.</p>
+Allahabad, Lord-Gaynor-Str. 18.</p>
 
 »ein Inder,« meinte Harald. »Hm — ob der Jean
 Ahmed Bissu aus Allahabad etwa die Simili gekauft hat?!«
@@ -156,7 +156,7 @@ gewirkt …
 Er war aus dem Sessel hochgeschnellt, musterte uns nun
 mit angstvollen Augen.
 
-»Ahmed Bissu!« stellte er sich als indischer Gentlemckn
+»Ahmed Bissu!« stellte er sich als indischer Gentleman
 vor. Sein Englisch war tadellos. Und seine Gestalt rief
 in mir sofort liebe, aufregende Erinnerungen wach …
 
@@ -178,11 +178,11 @@ beachten, begann er uns nun sein Leid zu klagen …
 
 Er hatte heute vormittag auf der Terrasse des Cafee Josty
 <@pagebreak/>
-gesessen, Blick an der Rampe, allein … Seit acht Tagen
+gesessen, dicht an der Rampe, allein … Seit acht Tagen
 war er in Geschäften in Berlin — von London aus — ein
 Abstecher … — Da war ihm denn mit einem Male der
-Mann mit den blitzenden Steinen auf der Hand ausgefallen.
-Als Juwelenhändler erkannte er an dem Feuer der seine,
+Mann mit den blitzenden Steinen auf der Hand aufgefallen.
+Als Juwelenhändler erkannte er an dem Feuer der Steine,
 daß es sich zum mindesten um tadellose Imitationen handele.
 Er hatte seine Zeche schnell bezahlt und war zu dem Manne
 hingegangen, hatte einen der Steine geprüft, sah, daß die
@@ -194,7 +194,7 @@ ihn mit in die nahe Pension in der Bellevuestraße, wo er
 abgestiegen war …
 
 Der Mann legte ihm hier fünfundzwanzig dieser Steine
-vor. Als Bissu diese nun vor mit der Lupe prüfte und auf
+vor. Als Bissu diese nun noch mit der Lupe prüfte und auf
 den Zerlumpten nicht achtete, erhielt er plötzlich von hinten
 einen solchen Schlag gegen den Schädel, daß er bewußtlos
 zusammenbrach …
@@ -203,17 +203,17 @@ Nach wenigen Minuten erwachend, fand er sich beraubt:
 er hatte um den Leib einen Ledergurt mit drei Taschen voll
 Diamanten getragen, und dieser Gurt sowie seine gut gefüllte
 Brieftasche waren ihm abgenommen worden. Der
-(also, hatte das Pensionat inzwischen längst unbehelligt verlassen.
+Dieb hatte das Pensionat inzwischen längst unbehelligt verlassen.
 
 Bissu telephonierte die Polizei an. Der Beamte riet ihm,
 sich an Harald Harst zu wenden. Natürlich würde auch die
 Polizei ihr Möglichstes tun, den Dieb zu ermitteln. — —
 
-Selten wohl ist ein Riesenrauv auf so raffinierte Art
-aufgestöhnt worden wie dieser.
+Selten wohl ist ein Riesenraub auf so raffinierte Art
+ausgeführt worden wie dieser.
 
 Es war ja klar, daß der verkleidete Kerl sich absichtlich
-vor Josty ausgestellt hatte, damit Bissu auf ihn aufmerksam
+vor Josty aufgestellt hatte, damit Bissu auf ihn aufmerksam
 würde. Der Plan mußte tadellos vorbereitet gewesen sein,
 und fraglos war der Inder schon vorher längere Zeit von
 den Gaunern — mehrere waren im Spiel, ohne Zweifel —
@@ -226,9 +226,9 @@ er seine Edelsteine und sein Geld nicht zurückerhielte.
 Harst winkte nach dem Sessel zu …
 
 »Setzen Sie sich, Ahmed Bissu … Etwas Derartiges
-matt in Ruhe erledigt werden. Uebershchäßen Sie mich auch
+muß in Ruhe erledigt werden. Überschätzen Sie mich auch
 nicht … Ich bin keiner der Fakire Ihrer Heimat, der
-Du der vollbringen kann. Ich arbeite lediglich mit einem
+Wunder vollbringen kann. Ich arbeite lediglich mit einem
 einzigen Hilfsmittel …«
 
 Und er tippte sich leicht gegen die Stirn …
@@ -251,17 +251,17 @@ Harald fragte weiter …
 
 doch — nirgends ergab sich ein Anhaltspunkt! Bissu
 war äußerst vorsichtig gewesen, hatte sich sogar im Pensionat
-Wende! in der Bellevuestraße nur als Kaufmann ausgegeben
+Wendel in der Bellevuestraße nur als Kaufmann ausgegeben
 und auch die drei Juweliere nur bei sich empfangen, mit
 denen er noch nicht handelseinig geworden. Er erklärte
 weiter, daß die drei Herren als alte Kunden von ihm durchaus
 verschwiegen seien und fraglos niemandem etwas von
-seinen Abhaben mitgeteilt hätten.
+seinen Schätzen mitgeteilt hätten.
 
 Kurz — die Sache sah für den Inder und für uns recht
 wenig aussichtsvoll aus.
 
-Trotzdem entließ Harald den gestrichen Bissu mit der
+Trotzdem entließ Harald den geknickten Bissu mit der
 Versicherung, er würde schon eine Spur entdecken.
 
 Und als der Inder dann gegangen, trank er wieder zwei
@@ -269,7 +269,7 @@ Und als der Inder dann gegangen, trank er wieder zwei
 Gläser von unserem uralten Kognak und pfiff die bekannten
 Takte aus Carmen:
 
-<p class="centered abgesetzt">»Auf in den Kampf, Torero …</p>
+<p class="centered abgesetzt">»Auf in den Kampf, Torero …«</p>
 
 Worüber ich mich reichlich wunderte …
 
@@ -279,29 +279,30 @@ Der Leser möge achtgeben: Der Fall Bissu ist geradezu
 ein Schulbeispiel für Haralds Arbeitsmethode!
 
 <@pagebreak/>
+
 <h2>2. Kapitel.</h2>
 <h3>Die Beichte in der Schreibmaschine.</h3>
 
 Kaum hatte er den allerletzten Rest der Grippebazillen
-Hergestalt in Alkohol ersäuft, als er sich an den Schreibtisch
+dergestalt in Alkohol ersäuft, als er sich an den Schreibtisch
 setzte, im Fernsprechverzeichnis blätterte und dann Juwelier
-Weißling, Unter den indem, unlautere …
+Weißling, Unter den Linden, anläutete …
 
 »Hier Harald Harst … Ich möchte Herrn Weißling
-Selbst sprechen … Ah — Sie sind’s, Herr Weißling“«
+selbst sprechen … Ah — Sie sind’s, Herr Weißling …
 Ja, wir haben uns lange nicht gesehen … Freuen Sie
-sich Dom darüber … Wer mich siehst, hat entweder gestellten
-oder ist bestohlexn worden … —“- Auf Ihre Diskretion
+sich doch darüber … Wer mich siehst, hat entweder gestohlen
+oder ist bestohlen worden … — Auf Ihre Diskretion
 kann ich Wolkenkratzer bauen — wie immer! —
 Heute nur eine Auskunft … Haben Sie in letzter Zeit
 neues Personal eingestellt oder daheim neue Dienstboten?
-— Nein …? — Dann danke iQ … Verzeihung, habe
+— Nein …? — Dann danke ich … Verzeihung, habe
 keine Zeit. Schluß!«
 
-Und — Juwelier Moses Form Leipziger Straße, kam
+Und — Juwelier Moses Jelling, Leipziger Straße, kam
 an die Reihe …
 
-Auch Herr Jelling war selbst an am Apparat — ein Zufall
+Auch Herr Jelling war selbst am Apparat — ein Zufall
 wohl …
 
 Die Unterhaltung spielte sich etwa im selben Wortlaut
@@ -309,21 +310,21 @@ ab …  Nur einige kleine Unterschiede:
 
 <@pagebreak/>
 »… Lieber Herr Jelling, wenn Sie nicht über das, was
-ich von Ihnen erfahren will. Ihren verehrten Schnabel halten,
-dann haben Sie nie mehr vorkommendensall38 auf meine
-Hilfe zu rechnen … — Schon gut, schon gut … Schworen
+ich von Ihnen erfahren will, Ihren verehrten Schnabel halten,
+dann haben Sie nie mehr vorkommendenfalls auf meine
+Hilfe zu rechnen … — Schon gut, schon gut … Schwören
 Sie nicht. Sie wissen: Dein Eid ist … mein Eid!! —
 Also: haben Sie in den letzten zwei Wochen neues Personal
-eingestellt? — Ja … k — Wen denn …? — ohne Fkorre-spondentin?
+eingestellt? — Ja …? — Wen denn …? — eine Korrespondentin?
 — Wann? — Vor zehn Tagen …? So …
 so … — Na, die interessiert mich nicht … — Was los
-ist?! Bissu, der Inder, ist beraubt worden — - total! Aber
+ist?! Bissu, der Inder, ist beraubt worden — total! Aber
 — das bleibt noch Geheimnis! Und wehe Ihnen, wenn
-Sie … — schon gut: Dein Eid ist … mein Licht — Halt
+Sie … — schon gut: Dein Eid ist … mein Eid! — Halt
 — hatte Bissu sich bei Ihnen angemeldet? Er kam doch von
-London …—« Is …?1 Und haben Sie ihm nach London
+London … — Ja …?! Und haben Sie ihm nach London
 Briefe geschickt? — Ja … Wer schrieb die? — So —
-das neue Fräulein … — Interessiert mich) nicht … -
+das neue Fräulein … — Interessiert mich nicht … —
 Schluß, und — Mund halten!«
 
 Harald nickte mir zu …
@@ -332,17 +333,17 @@ Harald nickte mir zu …
 Spur, dieses … neue Fräulein!«
 
 Trotzdem läutete er noch den dritten Juwelier an. Hier
-sich die Auskunft jedoch) genau so aus wie bei Weißling:
+fiel die Auskunft jedoch genau so aus wie bei Weißling:
 negativ!
 
 »Na — dann also das neue Fräulein,« meinte Harald.
-»Stürmischen wir das Eisen sofort …«
+»Schmieden wir das Eisen sofort …«
 
 »Zu Jelling?«
 
-»Ja — als Telephonarbeiter … nordwärts! Die
-Leitungen müssen nachgesehen werden …- Suche den Tisch
-vom Clektriziiät3werk heraus, der uns legitimiert …« —
+»Ja — als Telephonarbeiter … Vorwärts! Die
+Leitungen müssen nachgesehen werden … Suche den Wisch
+vom Elektrizitätswerk heraus, der uns legitimiert …« —
 
 Doch — es kam anders …
 
@@ -358,76 +359,76 @@ Harst schickte mich hin …
 »Hier Max Schraut!« meldete ich mich. »Ah — Herr
 Jelling — — Sie?!«
 
-Auto stotternd und stammelnd berichtete Moses Jelling,
+Und stotternd und stammelnd berichtete Moses Jelling,
 daß seine neue Korrespondentin Fräulein Anna Mack vor
 vier Minuten plötzlich vom Stuhl gefallen und tot gewesen
-se! …
+sei …
 
-»Mausetot, Herr Schraut … Ich) ließ nämlich gleich
+»Mausetot, Herr Schraut … Ich ließ nämlich gleich
 den hier im Hause wohnenden Sanitätsrat herunterbitten.
 Und der hat an der Erweiterung der Pupillen erkannt, daß
-die Ach sich vergiftet hat — mit irgend so ’nem aus (anbieten
-Gift, Herr Schraut … Und wie ich) nun die Mutter
+die Mack sich vergiftet hat — mit irgend so ’nem ausländischen
+Gift, Herr Schraut … Und wie ich nun die Mutter
 der Mack benachrichtigen wollte — sie hatte angegeben, sie
-wWobne mit ihrer Mutter zusammen in. der Wilhelmstraße
-im Gartenhaus —, da … war dort keine Frau Max zu
-Feinden … Und ich fürchte nun sehr, daß auch all die tadellosen
+wohne mit ihrer Mutter zusammen in der Wilhelmstraße
+im Gartenhaus —, da … war dort keine Frau Mack zu
+finden … Und ich fürchte nun sehr, daß auch all die tadellosen
 Zeugnisse und Empfehlungen der Mack gefälscht sind.
-Harst soll mir helfen, das ariszuklären … Stellen Sie sich
+Harst soll mir helfen, das aufzuklären … Stellen Sie sich
 vor: womöglich hatte ich eine Gaunerin bei mir aufgenommen
 …!!«
 
 Ich winkte Harald herbei.
 
-Nachdem auch er noch&ch mit Jelling gesprochen, warf er
+Nachdem auch er noch mit Jelling gesprochen, warf er
 sich in den Schreibsessel …
 
 »Mein Alter, — Evas Opfer, wette ich! Die Mack hat
 sich niemals selbst vergiftet. Du hörtest ja, wie ich Jelling
-fragte, in welcher Weise die Mack das Gift genommntien habe.
+fragte, in welcher Weise die Mack das Gift genommen habe.
 Das wisse man noch nicht … Sie habe gerade gefrühstückt.
 eine angebissene Semmel sei mit auf den Boden gerollt. —
-Jahren wir hin — wie wir sind …« —
+Fahren wir hin — wie wir sind …« —
 
 Die Leiche war bereits weggeschafft worden, als wir
 vorn den eleganten Laden betraten. Ein Verkäufer, der
 uns für das hielt, was wir darstellen wollten, erzählte uns
-flüsternd, die Kriminalpolizei sei in! Kontor, und war sehr
+flüsternd, die Kriminalpolizei sei im Kontor, und war sehr
 erstaunt, als wir ohne weiteres dort eindrangen.
 
 Jelling wollte uns hinausweisen.
 
-Harst nächste Dieners die gepolsterte Tür zu …
+Harst machte schnell die gepolsterte Tür zu …
 
 <@pagebreak/>
-»Harst … 1«
+»Harst …!«
 
-»Ab — sehr gut!« nickte Kriminalkommissar Rietmeyer.
-Tag, lieber r Harst-. Sie sind bereits injsormiert …«
+»Ah — sehr gut!« nickte Kriminalkommissar Rietmeyer.
+»Tag, lieber Harst … Sie sind bereits informiert …«
 
-»Ja …— Wo ist die angebissene Semmel?«
+»Ja … — Wo ist die angebissene Semmel?«
 
-»Hier — in meiner Tasche … Ich will sie dyjemisch
-untersuchen lassen. I4HZ nehme an, daß enttiveder in die
-Tempel, die Butter oder den Wurstbelag ein Körnchen Amyl-nitrat
+»Hier — in meiner Tasche … Ich will sie chemisch
+untersuchen lassen. Ich nehme an, daß entweder in die
+Semmel, die Butter oder den Wurstbelag ein Körnchen Amylnitrat
 hineingebracht …«
 
 »Ich auch … Dann wird die Untersuchung jedoch nichts
-ergeben. Von ’Amylnitrat reicht ein Körnchen wie ein
+ergeben. Von Amylnitrat reicht ein Körnchen wie ein
 Stecknadelkopf hin, ein Dutzend Menschen zu beseitigen. Die
-Obduktion wird sichereren Ausschluß geben. — Jelling, haben
+Obduktion wird sichereren Aufschluß geben. — Jelling, haben
 Sie eine Photographie der Mack?«
 
 »Natürlich … Juweliere verlangen das. — Bitte!«
 
 Wir schauten uns das Bild an …
 
-Ein hageres, älteres, reizloses Mädchen … Nu! die
+Ein hageres, älteres, reizloses Mädchen … Nur die
 großen Augen waren seelenvoll und schön.
 
 Harst drehte das Bild um …
 
-»Hm — keine Firma … »Sehr vorsichtig … Zeigen
+»Hm — keine Firma … Sehr vorsichtig … Zeigen
 Sie die Zeugnisse, Jelling …«
 
 Rietmeyer mischte sich ein …
@@ -437,9 +438,9 @@ Rietmeyer mischte sich ein …
 »Ja, bester Rietmeyer. Und ich habe Ihnen dieserhalb
 noch einiges unter vier Augen zu sagen.«
 
-Er zog ihn in eine Schrecks … Ich hörte mit zu, wie er
+Er zog ihn in eine Ecke … Ich hörte mit zu, wie er
 nun leise den Verdacht äußerte, daß der Simili-Händler
-genau [so einer von Eva Lardas Bande gewesen sein könnte
+genau so einer von Eva Lardas Bande gewesen sein könnte
 wie Eva die Mack hier vielleicht eingeschmuggelt hätte, um
 die Gelegenheit zu einem Einbruch auszubaldowern …
 
@@ -447,12 +448,12 @@ die Gelegenheit zu einem Einbruch auszubaldowern …
 und als Eva hiervon erfuhr, wird sie es nur noch auf Bissu
 abgesehen gehabt haben …«
 
-»Kurhaus klar!» nickte Rietmeyer. »Und —« was nun
+»Durchaus klar!« nickte Rietmeyer. »Und — was nun
 weiter?!«
 
 <@pagebreak/>
-»Für Sie der übliche Weg: Sie näüjjsen das Bild der
-Max an alle Anschlagijäulen beiden. » - vielleicht meldet
+»Für Sie der übliche Weg: Sie müssen das Bild der
+Mack an alle Anschlagsäulen heften … Vielleicht meldet
 sich jemand, der sie kennt …«
 
 »Hm — und Ihr Weg, Harst?«
@@ -463,15 +464,15 @@ Zeugnisse an …«
 Die waren echt. Nur — das Alter der Mack war in
 allen Papieren sehr geschickt geändert worden … —
 
-Harst hatte ich jetzt auf den Stuhl gesetzt, von dem die
-arme Anna Max tot niedergejunfen war …
+Harst hatte sich jetzt auf den Stuhl gesetzt, von dem die
+arme Anna Mack tot niedergesunken war …
 
 »Haben Sie die Kleider und das Handtäschchen genau
 durchsucht?« fragte er Rietmeyer nach längerer Pause …
 
 »Ja … Nichts gefunden, was über die Wohnung oder
 die Person dieser Unbekannten Ausschluß gegeben hätte …
-Denn: Mut heißt sie sicherlich nicht …«
+Denn: Mack heißt sie sicherlich nicht …«
 
 »Nein …« Und — da bückte er sich, hob einen zerknitterten
 Fahrschein der Straßenbahn auf …
@@ -489,7 +490,7 @@ Wieder Stille …
 Rietmeyer durchsuchte den Papierkorb neben dem Platz
 der Toten.
 
-»Tau zweiten Male tue ic’31» meinte er. »Man kann
+»Zum zweiten Male tue ich’s« meinte er. »Man kann
 nie wissen …«
 
 Harst starrte auf die Schreibmaschine …
@@ -500,22 +501,23 @@ Und — plötzlich fuhr er hoch …
 
 »Haben Sie gelesen, Rietmeyer?«
 
-»Rein … Ein Geschästöbrief doch …«
+»Nein … Ein Geschäftsbrief doch …«
 
-»So —?1« Und Harald löste den Bogen heraus …
+»So —?!« Und Harald löste den Bogen heraus …
 »Hier steht:
 
 <@pagebreak/>
 <p class="centered">Herrn M. Jelling …</p>
 
 > Das Gewissen läßt mir keine Ruhe. Ich habe mich
-zum ersten Male aus bitterster Not durch ein weißen
+zum ersten Male aus bitterster Not durch ein Weib
+zu …«
 
 Damit schloß dieses Bekenntnis … Vielleicht hatte
 der Tod die Hände gelähmt, die hier aus Reue eine Beichte
 niederschreiben wollten.
 
-»Ein — Weib!!1« sagte Harst mit Nachdruck und schaute
+»Ein — Weib!!« sagte Harst mit Nachdruck und schaute
 Rietmeyer an …
 
 »Ja — — Ev…«
@@ -526,7 +528,7 @@ Und gleich darauf gingen wir drei ungleiche Herren die
 Leipziger Straße entlang — zwei Telephonarbeiter und der
 elegante Rietmeyer … nicht zusammen, nein, er ging fünf
 Schritt voran. Erst in der stillen Wilhelmstraße, nachdem
-wir festgestellt, daß niemand hinter uns her war, gesellte
+wir festgestellt, daß niemand hinter uns her war, gesellten
 wir uns dem Kommissar wieder zu.
 
 »Sie sind also fest überzeugt, daß Eva Larda diese Geschichte
@@ -535,30 +537,30 @@ forschend an.
 
 Harst nickte. »Wen sollte diese angebliche Mack wohl
 sonst in ihrer begonnenen Beichte mit »dem Weibe« gemeint
-haben? Dieser kaltblütige Gifstmord sieht ihr ähnlich …«
+haben? Dieser kaltblütige Giftmord sieht ihr ähnlich …«
 
-Der Kommissar nagte unzufrieden die Unterlippe mit der
+Der Kommissar nagte unzufrieden die Unterlippe mit den
 Zähnen. »Wenn man nur wüßte, wie man sie aufstöbern
 könnte!« murmelte er. »Was haben wir nicht schon alles
 versucht! Die Berliner Zeitungen machen bereits spitze Bemerkungen
-Über unsere — Nützlichkeit! Infam ist das!?
+Über unsere — Nützlichkeit! Infam ist das!«
 
 »Allerdings! Diese Zeitungsschreiber sollten doch mal
 Eva suchen!« Harst stieß das gereizt hervor. »Eine Kriminalpolizei
-wie die unsrige gibt es kaum noch! Nur Strick«
+wie die unsrige gibt es kaum noch! Nur eins
 fehlt: Geld! Man knausert am unrechten Ende. Die Beamten
-sollten mehr Bewegungsfreiheit haben. Mit dort
+sollten mehr Bewegungsfreiheit haben. Mit dem
 <@pagebreak/>
 Pflichtgefühl allein ist nichts getan. Liebe zur Sache gehört
 dazu.«
 
-»Und ob!« Rietmeyer machte ein melanchholische3 Gesicht.
+»Und ob!« Rietmeyer machte ein melancholisches Gesicht.
 »Da haben Sie und Schraut es weit besser, lieber
 Harst … Sie beide sind Ihre eigenen Herren …«
 
 »Gott sei Dank!« rief ich …
 
-Der Kommissar schaute Harald wieder so etwas miß-trautisch-sorschend
+Der Kommissar schaute Harald wieder so etwas mißtrauisch-forschend
 an.
 
 »Sind Sie sich über einen Feldzugsplan nun vielleicht
@@ -566,32 +568,33 @@ schon schlüssig?« fragte er zaudernd …
 
 Harald blickte auf die Steinplatten des Bürgersteiges.
 
-»Ja, Rietmeyer, — ja …! Fisch will nicht lügen …
+»Ja, Rietmeyer, — ja …! Ich will nicht lügen …
 Aber mein Feldzugsplan ist für Sie ein Unding …«
 
 »weshalb?! weshalb denn?!«
 
 »Weil er — strafbar ist … Daher werde ich mich auch
-Hüten, etwas davon zu verraten …«
+hüten, etwas davon zu verraten …«
 
 »Strafbar — — strafbar?! — Das verstehe ich nicht …
 — reden Sie doch, Harst … reden Sie! Ich …«
 
-»… werde mich hüten, -Rietmeyer … — Mein Plan
-kann mißglückten. - - Ich blamiere mich nicht gern …
+»… werde mich hüten, Rietmeyer … — Mein Plan
+kann mißglücken … Ich blamiere mich nicht gern …
 Warten Sie ab …«
 
 Und er zog die Schirmmütze und machte als Telephonarbeiter
-vor dem seinen Herrn eine Art Kratzfuß …
+vor dem feinen Herrn eine Art Kratzfuß …
 
 So trennten wir uns von dem Kommissar.
 
 <@pagebreak/>
+
 <h2>3. Kapitel.</h2>
 <h3>Das Bild im Kino.</h3>
 
-Wir schlurften mit unseren Handwerk3zeugtaschen so recht
-gemächlich bis zum Wilhelms8platz. Hier kaufte Harald bei
+Wir schlurften mit unseren Handwerkszeugtaschen so recht
+gemächlich bis zum Wilhelmsplatz. Hier kaufte Harald bei
 einem Straßenhändler Zigaretten und begann ein Gespräch
 mit dem Manne. — Ich merkte: er beobachtete die Wilhelmstraße,
 wollte nochmals prüfen, ob wir nicht beobachtet
@@ -608,43 +611,43 @@ bei Jelling, aufgegeben hat?«
 Sie hat ja auch genug geerntet … Bissus Edelsteine waren
 an die dreimalhunderttausend Mark wert …«
 
-»Hm — oder sie versucht den Einbruch nachdem! Gerade
+»Hm — oder sie versucht den Einbruch trotzdem! Gerade
 weil sie sich sagt, daß die Polizei niemandem die Frechheit
-zutrauen wird, nach diesem Morde ein Geschäft heimzu-suchen,
-das die Polente umschnüsselt …«
+zutrauen wird, nach diesem Morde ein Geschäft heimzusuchen,
+das die Polente umschnüffelt …«
 
 Wir standen jetzt auf der anderen Seite der Leipziger
 <@pagebreak/>
-Straße vor dem Schaufenster von Herrscht und taten so, als
+Straße vor dem Schaufenster von Herpich und taten so, als
 ob wir die wundervollen Perser anstaunten.
 
 ich warf Harst einen fragenden Blick zu …
 
-»erfuhr *Dein* Plan auf der Möglichkeit dieses Einbruchs
-?« flüsterte ich.
+»Beruht *Dein* Plan auf der Möglichkeit dieses Einbruchs?«
+flüsterte ich.
 
-»Ja. — schlau mal das Spiegelsild des Jellingschen
-schwarzen Hauses an. Unten nur der TIZtitwvelierladen …
-links die Läadentür, rechts der HauZ2eingang … Erste
+»Ja. — Schau mal das Spiegelbild des Jellingschen
+schmalen Hauses an. Unten nur der Juwelierladen …
+Links die Ladentür, rechts der Hauseingang … Erste
 Etage: Damenmoden, Gebrüder Mandel … Zweite
-Etage ebenfalls Niesensirmet:Schilder: Aktiengesellschaft für
+Etage ebenfalls Riesenfirmenschilder: Aktiengesellschaft für
 Betonbau … — Vierte Etage: Photographisches Atelier
-Alexander niemand. — Dann — das flache Dach …«
+Alexander Wienand. — Dann — das flache Dach …«
 
 »Nun — und?!«
 
 »Das Haus ist mithin wahrscheinlich nur ganz oben bewohnt:
-der Photograph! Nacht dürfte man es nur mit
-niemand und dem Portier zu tun haben …«
+der Photograph! Nachts dürfte man es nur mit
+Wienand und dem Portier zu tun haben …«
 
 Ich begriff noch immer nicht recht.
 
 »Nun — und?!«
 
-»Wir werden — einbrechen, »mein Alter … Regelrecht
+»Wir werden — einbrechen, mein Alter … Regelrecht
 einbrechen … Mit allen Schikanen …«
 
-Ich lachte … »Deine Visite sind etwas Ende, lieber
+Ich lachte … »Deine Witze sind etwas fade, lieber
 Harald. Jede Sache muß einen Zweck haben! Dies wäre
 zwecklos!«
 
@@ -653,30 +656,30 @@ wir den Photographen. Ich will das Vorderhaus von
 innen kennenlernen …
 
 Wir wanden uns durch das Autogetute hindurch … Ich
-war nicht bei Laune. — Einbrechen? 1 Das war doch heller
+war nicht bei Laune. — Einbrechen?! Das war doch heller
 Unsinn!!
 
-Die Treppen eng und schmal … Ein alles Gebäude.
+Die Treppen eng und schmal … Ein altes Gebäude.
 Überall brannte Licht … Harald hatte die Augen hier
 und dort, stieg bis zur eisernen Vorbodentür empor …
 
 »Kunstschloß …!« — Und im Nu hatte er den Dietrich
-bei der Hand — den einstellbaren Patenentdietrich …
+bei der Hand — den einstellbaren Patentdietrich …
 
 <@pagebreak/>
-»Es gebt!« nickte er befriedigt. »Diese Kunstschlösser
-sind für die hab’ …«
+»Es geht!« nickte er befriedigt. »Diese Kunstschlösser
+sind für die Katz’ …«
 
-Nachdem er sich »nach die Bodenräume rasch angesehen,
+Nachdem er sich auch die Bodenräume rasch angesehen,
 während ich draußen Schmiere stehen mußte, verließen wir
-das Haus wieder. Der Besuch bei dem Lichtbildkünftler war
+das Haus wieder. Der Besuch bei dem Lichtbildkünstler war
 überflüssig geworden.
 
 Die Straßenbahn brachte uns heim. Wir wählten vorsichtshalber
 wieder den Weg am Laubengelände entlang bis
 zur Hinterpforte des Gemüsegartens. Und wir hielten die
 Augen gut offen … Niemand war in der Nähe, der nach
-einem Spion Graf ausschaute … —
+einem Spion Evas ausschaute … —
 
 Frau Harst, Haralds gütige Mutter, erwartete uns schon
 sehnsüchtig zum Mittagessen. Mathilde, die Köchin, maulte.
@@ -688,31 +691,31 @@ Der Apfelstrudel wurde wieder in den Ofen geschoben und
 Menschen …! Die Hohlheit zeigt sich, und man lächelt.«
 
 Er blickte mich scharf an und nahm eine zweite Portion
-Strudel. »Schraut hat mich beide auch ausgelacht …
+Strudel. »Schraut hat mich heute auch ausgelacht …
 Er wird bescheiden werden!«
 
 »Was habt Ihr denn?« fragte Frau Harst. »Wie steht’s
-mit »dem Inder?«
+mit dem Inder?«
 
 vor ihr hatten wir keine Geheimnisse, und auch die
-»die Mathilde strafte die Mär von der Geschwätzigkeit der
+dicke Mathilde strafte die Mär von der Geschwätzigkeit der
 Frauen Lügen …
 
 »Die Sache ist so ziemlich aufgeklärt,« antwortete Harald
 bereitwillig. »Nur die Anstifterin haben wir noch nicht,
-liebe Mutter … — Aber — lassen wir das … CZ ist
+liebe Mutter … — Aber — lassen wir das … Es ist
 kein Thema für eine Mahlzeit …«
 
-Er dachte an die arme Anna Mut — oder wie sie sonst
-beißen mochte … —
+Er dachte an die arme Anna Mack — oder wie sie sonst
+heißen mochte … —
 
-Mix aber gab diese Wortgeplänkel die Gewißheit, daß
-Harst durch den Einbruch bei Jelling unsere Eva langen
+Mir aber gab diese Wortgeplänkel die Gewißheit, daß
+Harst durch den Einbruch bei Jelling unsere Eva fangen
 <@pagebreak/>
 wollte. — *Wie* er dies erreichen wollte, blieb mir ein
 Rätsel. —
 
-Bis gegen sei Uhr abends schliefen wir dann Vorrat —
+Bis gegen sechs Uhr abends schliefen wir dann Vorrat —
 für die Nacht.
 
 Um sieben Uhr standen in unserem Ankleidezimmer zwei
@@ -721,38 +724,38 @@ Eleganz — Typ: Balkangauner!
 
 Die angeklebten Scheitel, die gewichsten Schnurrbärte
 und das ganze Kostüm paßten durchaus in das Milieu jener
-Salzsee und Kneipen des dunkelsten Berlins hinein, wo
-Taschendiebe, Einbrecher und sonstige Herrschaften Verwandter
-Spezialfäcßer der Gaunerzunft sich bemühen, die
+Cafees und Kneipen des dunkelsten Berlins hinein, wo
+Taschendiebe, Einbrecher und sonstige Herrschaften verwandter
+Spezialfächer der Gaunerzunft sich bemühen, die
 harmlosen biederen Bürger zu spielen.
 
-untere Masken wurden durch ein Paar schwarze steile
+Unsere Masken wurden durch ein Paar schwarze steife
 Filzhüte, leichte Gummimäntel und breite seidene farbige
 Kragenschoner, genial um den Hals geschlungen, vervollständigt
 …
 
-In unseren inneren Westentaschen aber steten die Leder-ctuis
+In unseren inneren Westentaschen aber steckten die Lederetuis
 mit dem allerfeinsten Einbrecherwerkzeug, das je in
-England heimlich hergestellt wurde. Dazu elektrische Leuchtfratze
+England heimlich hergestellt wurde. Dazu elektrische Leuchtstäbe
 mit Haken zum Anhängen, Ersatzbatterien, unsere
-Clementpistolen und je ein großes haarscharse8 Klappmesser.
+Clementpistolen und je ein großes haarscharfes Klappmesser.
 
 Harst musterte mich prüfend von oben bis unten …
 
 »Mehr Schatten unter die Augen — im übrigen gut!«
 nickte er und malte mir die gewünschten Schatten, so daß
-meine Sehorgane jetzt noch echter, echt balkancsisch, tief in
+meine Sehorgane jetzt noch echter, echt balkanesisch, tief in
 den Höhlen lagen …—
 
 In diesem Kostüm verließen wir das Haus durch den
-Gemüsegarten. untere Gummimäntel waren schwer durch
-die saßen eingewickelten Klappftullen, die Mathilde für uns
-zurechtgemacht hatte. Harst schien vorauZ3zusehen, daß es
-eine Länge Nacht werden würde.
+Gemüsegarten. Unsere Gummimäntel waren schwer durch
+die sauber eingewickelten Klappstullen, die Mathilde für uns
+zurechtgemacht hatte. Harst schien vorauszusehen, daß es
+eine lange Nacht werden würde.
 
-Wir Überzeugten uns bald, daß nichts Verdächtiges in
+Wir überzeugten uns bald, daß nichts Verdächtiges in
 der Nähe, sprangen in ein Auto und fuhren nach Tilsiter
-Straße — eine kleine TageSreise!
+Straße — eine kleine Tagesreise!
 
 <@pagebreak/>
 Cafee Olympia hieß das Lokal, in dem wir landeten.
@@ -766,52 +769,52 @@ Was wir heute hier sollten, war mir unklar. Harst hatte
 mir draußen noch zugeflüstert: »Also Ungarn, daß Du es
 weißt …!«
 
-Und »by — spielten wir wieder Billard. Das Caffee
+Und jetzt — spielten wir wieder Billard. Das Cafee
 war noch ziemlich leer. Ein Uneingeweihter hätte all diese
-Zeitung lesen!:en, plaudernden oder Skat dreschenden Leute
+Zeitung lesenden, plaudernden oder Skat dreschenden Leute
 fraglos für harmlose Müßiggänger gehalten.
 
 Niemand schien uns zu beachten …
 
-stehen … — Und doch worden wir andauernd belauert
+Schien … — Und doch wurden wir andauernd belauert
 … —
 
-Der bucklige alle Kellner brachte uns Rotwein, Zigaretten
+Der bucklige alte Kellner brachte uns Rotwein, Zigaretten
 und belegte Brötchen …
 
-Harald kleidete seinen Billardstock umständlich ein …
+Harald kreidete seinen Billardstock umständlich ein …
 
 »Sie, wir brauchen eine dritte Mann,« raunte er mit
 hartem Akzent dem Kellner zu. »Eine Mann, auf dem man
 haben kann Verrrtrauehn …«
 
-Der Buckel grinste. »Eenen Steher, wat?!! Oder eenen
+Der Buckel grinste. »Eenen Steher, wat?! Oder eenen
 Pfeifer?«
 
-Stellend — Steherr. ».« tuschelte Harst. »Mit sehrr
-Gatte Bezahlung. — Er beugte dem Buckel stört Mark
-in die Bieder saust.
+»Steherr — Steherr…« tuschelte Harst. »Mit sehrr
+gutte Bezahlung. — Er drückte dem Buckel fünf Mark
+in die Biederfaust.
 
-Der braunen floh ab und schlängelte ein Co einen blassen
-Mengen heran, der mit der Büsetidame philosophische Gedanken
-über Liebe&veriirungen auszutauschen schien — dem
+Der Kellner schob ab und schlängelte sich an einen blassen
+Menschen heran, der mit der Büfettdame philosophische Gedanken
+über Liebesverirrungen auszutauschen schien — dem
 Lachen nach zu urteilen …
 
 Der Blasse kam, lehnte sich an das Billard, wartete …
 
-Harald spielte eine Serie von fünfzehn Bällen wo verhandelte
-zwischenein mit dem Platten, der offenbar den ver-wüstceten
+Harald spielte eine Serie von fünfzehn Bällen und verhandelte
+zwischenein mit dem Blassen, der offenbar den verwüsteten
 <@pagebreak/>
-Körper nur noch durchs Alkohol vor dem völligen
+Körper nur noch durch Alkohol vor dem völligen
 Zusammenbruch bewahrte, — — wie lange noch?!
 
 »Also, Freinderl, wie haißt De?« war die Einleitung
-nach; dem dritten Ball gewesen …
+nach dem dritten Ball gewesen …
 
-»Der schöne Bodo … — Kerl«, was is ’s nu mit
+»Der schöne Bodo … — Mensch, was is ’s nu mit
 die Chose?«
 
-»Schmiere Stein sollst De …«
+»Schmiere stehn sollst De …«
 
 Und in dieser Art ging es weiter.
 
@@ -828,7 +831,7 @@ eins Ecke Friedrichstraße und Laipziger …«
 Der Blasse zog sich zurück.
 
 »Der Kerl ist tadellos,« meinte Harald leise und winkte
-dem Kellner. »Dem sieht man den Projsessional auf zehn
+dem Kellner. »Dem sieht man den Professional auf zehn
 Schritt an …«
 
 Er bezahlte …
@@ -836,23 +839,23 @@ Er bezahlte …
 Um die Zeit totzuschlagen, gingen wir nebenan in ein
 Kino. Loge natürlich …
 
-Und — Eiche da: Kommissar Rietmeyer hatte geradezu
+Und — siehe da: Kommissar Rietmeyer hatte geradezu
 bewundernswert schnell gearbeitet! In der zweiten Pause
-Tisch)her auf der Leinwand Anna machte Bild, darunter kurze
+erschien auf der Leinwand Anna Macks Bild, darunter kurze
 Angaben über den Giftmord, ein Hinweis auf die Belohnung
 von 500 Mark und die Aufforderung an alle, denen diese
-verbitte Person bekannt sei, sich im Polizeipräsidium, Zimmer
+weibliche Person bekannt sei, sich im Polizeipräsidium, Zimmer
 28, zu melden.
 
 Tatsächlich — Rietmeyer hatte hier Unglaubliches geleistet!
 Das Bild war tadellos scharf, und — — der Erfolg
 ebenso tadellos, wenn auch ein stiller Erfolg …
 
-Die sogenannte Loge war ein rechts an die Wand angebauten
-Holzläfig. Vor uns lagen die Parkettpläße —
+Die sogenannte Loge war ein rechts an die Wand angebauter
+Holzkäfig. Vor uns lagen die Parkettplätze —
 wenig belebt. Und da saßen auch zwei dicke Weiber, von
 <@pagebreak/>
-denen die eine beim Aufleuchten des polizeilichen Fahn-dung3bildes
+denen die eine beim Aufleuchten des polizeilichen Fahndungsbildes
 einen ganz leisen, grunzenden Ton ausgestoßen
 hatte …
 
@@ -878,11 +881,11 @@ Das Bild verschwand …
 Der letzte Akt des Dramas »Martha, die Enterbte …«
 begann zu rollen …
 
-Ein Kitsch sondergleiHhen. Aber vorn auf den billigen
+Ein Kitsch sondergleichen. Aber vorn auf den billigen
 Plätzen flossen Ströme von Tränen.
 
 Endlich dann das Ende. Martha, die Enterbte, heiratet
-ihren braven Franz, und der Verführer, der Herzog von blaurot
+ihren braven Franz, und der Verführer, der Herzog von Bratagio
 bricht in Hoppegarten beim Hindernisrennen das
 Genick …
 
@@ -900,12 +903,12 @@ Wir gehen vorüber … Und hören:
 Dann ist die Schmidten im Hause verschwunden …
 
 Und — wir auch … Haralds Dietrich hat uns die Tür
-geöffnet. — Wir beobachten die Schmidten. Im Hinter-aufe
+geöffnet. — Wir beobachten die Schmidten. Im Hinterhause
 drei Treppen rechts wohnt sie. Wir stehen vor ihrer
 Tür. Mein Leuchtstab bescheint das Pappschild:
 
 <@pagebreak/>
-<p class="pre centered abgesetzt">Mine. Emma Schmidt,
+<p class="pre centered abgesetzt">Wwe. Emma Schmidt,
 Masseuse.</p>
 
 Masseuse …!! Vielversprechend!!
@@ -915,7 +918,7 @@ Stimme:
 
 »Bist Du’s, Willem?«
 
-»Nee — een Freind vom Willem … ’8 is wat passiert,
+»Nee — een Freind vom Willem … ’s is wat passiert,
 Schmidten …«
 
 »Herr Jott …«
@@ -923,12 +926,12 @@ Schmidten …«
 Die Tür geht auf … Ich halte mich verborgen. Die
 Sperrkette bleibt vorgelegt …
 
-Und die fettige Stimme gewußt: »Ihnen kenn ikck nich.
-Wer sind Sie denn …
+Und die fettige Stimme grunzt: »Ihnen kenn ick nich.
+Wer sind Sie denn …«
 
 Da flüstert Harald:
 
-»Anna Mark!! Öffnen Sie!«
+»Anna Mack!! Öffnen Sie!«
 
 »Herr Jott — — Polente!!« (Polizei.)
 
@@ -941,11 +944,11 @@ Harst lüftet die Maske halb …
 
 »Wir sind nicht Polizeibeamte, Frau Schmidt … Aber
 wir haben ein Interesse daran, alles über Fräulein Mack
-zu erschien, was Sie wissen …«
+zu erfahren, was Sie wissen …«
 
 »Hm …« Ihre Schweinsäuglein werden ablehnend
 und tückisch. »Hm — damit Sie mir nachher die Belohnung
-wegschnappen … Ah nee — wir sind noch nich in Dumms-dorf
+wegschnappen … Ach nee — wir sind noch nich in Dummsdorf
 jeboren!«
 
 »Was ich nicht bezweifle, Frau Schmidt … Hier sind
@@ -964,35 +967,35 @@ Sie kann uns im übrigen jedoch herzlich wenig mitteilen.
 sehr solide gelebt … Und hat gut bezahlt. Nur polizeilich
 gemeldet wollte sie nicht werden …
 
-»leere Schwips hatte ick, daß sie bei ’n Juwelier in
-Stellung war,« betonte die T Die,
+»Keene Ahnung hatte ick, daß sie bei ’n Juwelier in
+Stellung war,« betonte die Dicke.
 
 »Lassen Sie uns hier allein,« meint Harald. »Wir sind
 Detektive … Oder bleiben Sie auch …«
 
-Er durchsucht das Zimmer. In dem lassen der Mack
+Er durchsucht das Zimmer. In dem Koffer der Mack
 findet er in einem Toilettenkasten mit doppeltem Boden eine
 schmale Brieftasche … Papiere darin, Legitimationen,
-allerlei — alle auf den Namen vorn von Peerland lautend.
+allerlei — alle auf den Namen Vera von Peerland lautend.
 
 Wir stehen am Tisch und sehen die Papiere durch. Über
-uns Flackert leise die Gaslampe. Die Schmidten ist hinau8—gegangen
+uns flackert leise die Gaslampe. Die Schmidten ist hinausgegangen
 …
 
 Harst horcht mit einem Male auf …
 
 Im Flur ein dumpfes Geräusch …
 
-Dann wird die nur angelehnte Tür ausgestoßen …
-Ein Mann tritt ein — Wagen, graubärtig, etwas zerlumpt …
+Dann wird die nur angelehnte Tür aufgestoßen …
+Ein Mann tritt ein — hager, graubärtig, etwas zerlumpt …
 halb zugekniffene Augen mustern uns …
 
-Der Üerl lacht leise …
+Der Kerl lacht leise …
 
-»ja haben wir sie ja …! Weiß der Teufel — Ihr
-seiner Riecher ist bewundernswert …«
+»Da haben wir sie ja …! Weiß der Teufel — Ihr
+feiner Riecher ist bewundernswert …«
 
-Das ist keine Männerstimme … Ein Weib töte …
+Das ist keine Männerstimme … Ein Weib ist’s …
 Aber nicht Eva Larda …
 
 Harald hat längst die Clement in der Hand … Hebt
@@ -1000,28 +1003,29 @@ sie etwas … Die Sicherung schnappt zurück …
 
 Die Verkleidete lacht wieder …
 
-»Das — müßt Ihnen hier nichts — gar nichts nüthti es
+»Das — nützt Ihnen hier nichts — gar nichts nützt es
 Ihnen …«
 
 Die Gaslampe brennt plötzlich dunkler … erlischt …
 
-Und im selben Moment gleitet mir etwas Über das Gereicht
+Und im selben Moment gleitet mir etwas Über das Gesicht
 — wird mit einem brutalen Ruck von hinten zugezogen
 — — eine Schlinge …
 
 <@pagebreak/>
-Ich will mich wehren … Da sind ebenso plöhblich auch
+Ich will mich wehren … Da sind ebenso plötzlich auch
 ein halbes Dutzend Hände, reißen mich zu Boden …
 
-Sekunden nur … Widerlich süßer Gefruchtet beizt mir die
+Sekunden nur … Widerlich süßer Geruch beizt mir die
 Nasenschleimhäute …: Chloroform! … Ein fettiges
 Kichern schlägt an mein bereits halb taubes Ohr: die
 Schmidt!! Sie hat uns hineingelegt! Sie war schlauer als
 wir! …
 
-wird dann — nichts mehr …
+Und dann — nichts mehr …
 
 <@pagebreak/>
+
 <h2>4. Kapitel.</h2>
 <h3>»Ich — habe telephoniert …«</h3>
 
@@ -1121,7 +1125,7 @@ sind ein erstklassiger Steherrr … Kommen Sie mit main
 Freind nur hinterherrr …«
 
 Wir gehen bis zur Wilhelmstraße, dann wieder aus der
-anderen Seite zurück. Der schöne Bodo erklärt geschäfts-mäßig:
+anderen Seite zurück. Der schöne Bodo erklärt geschäftsmäßig:
 »Also ich hab drei Mäntel an von verschiedene
 Kalühr … Wenn man so Sdcmiere steht, muß man alle
 Viertelstunde een anderet Jesicht und ne andre Kluft haben.
@@ -1156,7 +1160,7 @@ Herrenanzuüzen — bestimmt Weiber!«
 
 »Das — Gefühl sagt es mir …«
 
-Er zieht mich weiter … Bis zum Juwelierhau3,
+Er zieht mich weiter … Bis zum Juwelierhaus,
 schließt ohne Sehen die Tür mit dem Dietrich auf und läßt
 mich eintreten … Fragt gar nicht mehr, ob ich mitmachen
 will … Schließt von innen wieder ab …
@@ -1165,7 +1169,7 @@ Wir stehen im Dunkeln …
 
 »Der Portier wohnt im Hinterhaus,« erklärt er letzte.
 »Jelling hat uns ja ahnungslos vieles verraten. geht
-Stunde revidiert ein Beamter der uniformierten Nachttvach-Gesellschaft
+Stunde revidiert ein Beamter der uniformierten Nachdruck-Gesellschaft
 das Haus mit einem Hunde …«
 
 Ich erklärte …
@@ -1212,6 +1216,7 @@ Minuten nichts … Ein leiser Pfiff … Und Harald
 sagt: »Der Wächter! Die Komödie kann beginnen …«
 
 <@pagebreak/>
+
 <h2>5. Kapitel.</h2>
 <h3>Das Röllchen.</h3>
 
@@ -1239,7 +1244,7 @@ legt der Hund sich nieder: ein unschädliches starkes Schlafmittel!
 —
 
 *Ich selbst* bin nur Zuschauer wie bei einer echten
-Komödie … Ich weiß nichts von dem Inhalt des Schau-spiels,
+Komödie … Ich weiß nichts von dem Inhalt des Schauspiels,
 das hier gegeben wird …
 
 Der Wächter holt aus seinem Mantel drei Stricke hervor.
@@ -1440,7 +1445,7 @@ vermeiden …
 Ein Stromer war’s … Abgerissen — mit Schnialz-lode
 in der Stirn, beide Hände in den Hosentaschen — so
 <@pagebreak/>
-recht fest) und sorgenlos dahinschhlendernd, als ginge ihn die
+recht fest) und sorgenlos dahinschlendernd, als ginge ihn die
 ganze Welt nichts an …
 
 In drei Schritt Entfernung bummelte er an uns vorbei.
@@ -1530,7 +1535,7 @@ Ein Benzinfeuerzeug …
 Harst ließ unter der nächsten Laterne, der zweiten und
 letzten dieser Gasse der Finsternis, den Deckel zuspringen.
 
-Ich wußte noch immer nicht, was er von Bodos’ Ver-brecherschlauheit
+Ich wußte noch immer nicht, was er von Bodos’ Verbrecherschlauheit
 erwartete. Nun — — sah ich es: innen
 im Deckel lag ein ganz schmaler, vielfach zusammengetknisster
 Zettel!
@@ -1771,7 +1776,7 @@ grauem Haar …«
 »Und — Sie erraten mit der Dame ach über Edelsteine?«
 
 »Ja … Zufällig … Sie hatte unter dem linken
-Ärmel ihre? Spitzenkleide8 eine Perlenschnur um das Handgelenk
+Ärmel ihre? Spitzenkleides eine Perlenschnur um das Handgelenk
 geschlungen … Die Schnur sah ich erst, als der
 Ärmel sich verschob … Mein Sachkennerblick hing natürlich
 voller Interesse auf den kostbaren Perlen. Da sagte die
@@ -1817,7 +1822,7 @@ Und doch — er verlor kein Wort darüber.
 »schlagen wir!« meinte er nur. »Das ist uns am rührigsten.
 Ich wecke Dich schon.«
 
-Kein Wunder, daß ich nach Mathilden3 starkem Master
+Kein Wunder, daß ich nach Mathildens starkem Master
 nicht sofort in das unruhige Reich der Träume hinüberglitt.
 Nein — Ich lag noch mindestens eine Stunde nach. Meine
 beiden Zimmer, die im Erdgeschoß jenseits des Flures gelegen
@@ -1839,7 +1844,7 @@ Ich las:
 > »Lieber Alter, mir ist der Schlaf nicht so nötig wie Dir.
 Hätte ich Dir erklärt, daß ich auf das Bett verzichte, so
 würdest Du es ebenfalls getan haben. — Ich bin Wilhelmplatz.
-— Goß sofort zum Olymp, Abschaum Untergrund-bahnhof
+— Goß sofort zum Olymp, Abschaum Untergrundbahnhof
 Wilhelmplatz, wo ich Dich zwischen vier und fünf
 nachmittags erwarte. Sei sorgfältig bei Deiner Maske
 als Ungar! H.«
@@ -1875,7 +1880,7 @@ meine Rolle als ungarischer Kollege tadellos durchführen zu
 können.
 
 In einem Hinterzimmer fand ich fünf der Leute versammelt.
-Sie spielten Gottes Segen bei Sohn, auch Karten-lotterie
+Sie spielten Gottes Segen bei Sohn, auch Kartenlotterie
 genannt.
 
 Ich wurde sehr vertraulich empfangen. Als ich dann
@@ -1965,7 +1970,7 @@ Und — da packte auch schon einer zu …
 Meine Glatze leuchtete im Schein der elektrischen
 Lampen …
 
-Und — auf der Glatze klebten die fünf Stücke Perücken-wach3,
+Und — auf der Glatze klebten die fünf Stücke Perückenwachs,
 mit denen der Skalp wie üblich befestigt gewesen …
 
 Ein Wutgeheul erhob sich um mich her …
@@ -2054,7 +2059,7 @@ Juwelen wieder herbeizuschaffen!
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Der Sdnnetterlingskescher.</h3>
+<h3>Der Schmetterlingskescher.</h3>
 
 Ich möchte hier betonen, daß es das erstemal in außer
 nunmehr zehnjährigen Berufstätigkeit war, daß wo 4?
@@ -2067,9 +2072,9 @@ Sie gegen vier Uhr blieben wir in dem geheimen FeAer-raum
 zusammen. Dann verschwand ich durch eine Tinte:für
 des Hauses, die auf einen Nebenhof führt. So gut es
 ging hatte ich mein Äußeres verändert. Einer der »Kollegen«
-beschasste einen blonden dicken Schnurrbart, der in!
+beschaffte einen blonden dicken Schnurrbart, der in!
 denn auch zusammen mit einem biederen Nickelkneifer das
-Aussehen eines harmlosen Büromenschhen verlieh,
+Aussehen eines harmlosen Büromenschen verlieh,
 
 Mit der Untergrundbahn fuhr ich bis zum Wilhelmplatz,
 blieb auf dem Bahnsteig und schlenderte hin und her.
@@ -2167,7 +2172,7 @@ des Besitzers kannte er!een: Gremzig! Robert Gremzig
 …! — Das mußte doch etwas ganz Besonderes auf
 sich haben! Ob dieser Gremzig etwa einer jener dunklen
 Ehrenmänner war, die das Psandleihgeichäst nur als Deckmantel
-für das Hchlergewerbe benutzen?! Es etwa Eva
+für das Hehlergewerbe benutzen?! Es etwa Eva
 bei diesem Manne einen Teil der Juwelen in bare Münze
 umgesetzt hatte?!
 
@@ -2236,7 +2241,7 @@ Harald hatte einen Spazierstock mit. Im Hausflur zog
 er ihn auseinander …
 
 Und — es war ein Angelstock, an dem er nun einen —
-Schmeiterlingskescher befestigte …
+Schmetterlingskescher befestigte …
 
 <@pagebreak/>
 »Das Weib könnte die Steine noch im lebt?n Moment
@@ -2254,8 +2259,8 @@ hinein … ein Blick aus geradezu gierigen Augen …
 die mir gehörten …
 
 Ein Ladentisch … Dahinter ein Kerl mit einem
-Kürbisschädel — in Hemdärmeln … mehr einem Hau8-knecht
-eines Bauerngasthof3 als einem Berliner Pfandleiher
+Kürbisschädel — in Hemdärmeln … mehr einem Hausknecht
+eines Bauerngasthofs als einem Berliner Pfandleiher
 gleichend.
 
 Und — — vor dem Ladentisch …
@@ -2425,7 +2430,7 @@ vornehmen und kränklichen Oberst a. D. v. Stümmling verwandelt,
 war dann mit einem lassen vor der Pension Keller
 vorgefahren und hatte hier ein Zimmer belegt, angeblich«
 aus Perücken kommend, um einen Berliner Spezialarzt
-seines Beinleiden3 wegen zu konsultieren.
+seines Beinleidens wegen zu konsultieren.
 
 Das vtie Fräulein v. Keller, von ich:in ins Vertrauen
 <@pagebreak/>
@@ -2644,7 +2649,7 @@ vor dem Hause ein Auto hielt …
 Wir sahen es von dem Fenster Haralds aus …
 
 Sahen, wie — der gelbe Anton heraussprang, auf unser
-Haus lo2stürmte …
+Haus losstürmte …
 
 Taumelnd … Und doch wieder trotz seiner Trunkenheit
 leichenblaß …
