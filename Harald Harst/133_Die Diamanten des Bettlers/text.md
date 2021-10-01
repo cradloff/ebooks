@@ -1035,10 +1035,10 @@ gewesen sein …
 Die gewaltsame Narkose kann auch nur ganz leicht gewesen
 sein …
 
-Merkwürdig — ich sie in einer Sofaecke und blinzele
-etwas matt in das gelbliche Licht. einer Gashängelampe …
+Merkwürdig — ich sitze in einer Sofaecke und blinzele
+etwas matt in das gelbliche Licht einer Gashängelampe …
 Diese Lampe kommt mir so bekannt vor … Mein Kopf
-ruht auf der geschweiften Sofalehne … Und mein sprengten
+ruht auf der geschweiften Sofalehne … Und mein irrender
 Blick trifft drüben am Tisch ein liebes, bekanntes Gesicht:
 Harald! — In einem Schaukelstuhl lehnte er. Der Stuhl
 wippt langsam auf und ab … — Und noch mehr Gesichter
@@ -1056,13 +1056,13 @@ zum Glück bereits wach, Herr Harst …« — Es ist doch
 ein Mann. Er spricht das Deutsche mit fremdem Akzent.
 
 <@pagebreak/>
-»Dann darf is Ihnen woll ’ne Tasse schwarzen Kaffee
+»Dann darf ick Ihnen woll ’ne Tasse schwarzen Kaffee
 anbieten, Herr Schraut,« meint die Schmidten … »Een
 Momang … Er is schon uffjebrieht … Det wird
-Ihnen wieder als De Beene helfen …«
+Ihnen wieder uff de Beene helfen …«
 
-Harst nickt mir zu. »Js konnte den Herren hier zum
-Glück acht rechtzeitig meinen Namen zuraunen,« erklärt er.
+Harst nickt mir zu. »Ich konnte den Herren hier zum
+Glück noch rechtzeitig meinen Namen zuraunen,« erklärt er.
 »Die Schlinge war mir nur bis zum Kinn gerutscht …
 Die Herren sind — Politiker und hielten uns für Kriminalbeamte
 …«
@@ -1081,8 +1081,8 @@ Zentrum der Stadt zustrebten, sagte Harald lediglich:
 geraten … Ich merkte es, da ich gerade noch vor
 dem Erlöschen des Lichts in dem Spiegel der Waschtoilette
 die drei Schillerkragen hinter uns gewahrte, die bisher unter
-den Verkleideten gesteckt hatten … — Die Hauptsache:
-Anna Max oder besser vorn von Peerland hat mit diesen
+den Fensterdecken gesteckt hatten … — Die Hauptsache:
+Anna Mack oder besser Vera von Peerland hat mit diesen
 Leuten nichts zu tun gehabt, und ihre Papiere trage ich in
 der Tasche …! Den Überfall auf uns müssen wir schon
 hinnehmen … Er hat uns immerhin einen Vorteil gebracht:
@@ -1092,15 +1092,15 @@ Anna Mack lautet!«
 Daß meine Stimmung so ziemlich auf dem Gefrierpunkt
 stand, konnte Harald mir nicht verargen. Ich fühlte mich
 noch hundeelend. Der Hals tat mir weh, und mein Hirn
-glich infolge des überstarken Hasses der Schmidten etwa
-dem eines Studenten mit einem Mordöskater.
+glich infolge des überstarken Kaffees der Schmidten etwa
+dem eines Studenten mit einem Mordskater.
 
-»Gedenkst Du nun etwa wirklich) noch dieses unsinnige
-Stiulchen da bei Jelling auszuführen?« fragte ich kleinlaut.
+»Gedenkst Du nun etwa wirklich noch dieses unsinnige
+Stückchen da bei Jelling auszuführen?« fragte ich kleinlaut.
 
 <@pagebreak/>
-»Unter Umständen ja … Tage hängt von mancherlei
-und … Du, mein Alter, brauchst natürlich nicht mitzumachen
+»Unter Umständen ja … Das hängt von mancherlei
+ab … Du, mein Alter, brauchst natürlich nicht mitzumachen
 …!«
 
 Oh — dieser Filou!! Er wußte nur zu gut, daß ich ihn
@@ -1124,93 +1124,93 @@ losjehn …«
 sind ein erstklassiger Steherrr … Kommen Sie mit main
 Freind nur hinterherrr …«
 
-Wir gehen bis zur Wilhelmstraße, dann wieder aus der
+Wir gehen bis zur Wilhelmstraße, dann wieder auf der
 anderen Seite zurück. Der schöne Bodo erklärt geschäftsmäßig:
 »Also ich hab drei Mäntel an von verschiedene
-Kalühr … Wenn man so Sdcmiere steht, muß man alle
-Viertelstunde een anderet Jesicht und ne andre Kluft haben.
-sonst fällt man uff. — Hm, seid Ihr Decke denn noch
+Kalühr … Wenn man so Schmiere steht, muß man alle
+Viertelstunde een anderet Jesicht und ne andre Kluft haben,
+sonst fällt man uff. — Hm, seid Ihr beede denn ooch
 sicher, det Ihr nich jeklappt werdt? Habt Ihr allens jut
-a1it3baldowert …? Wißt Ihr noch, det da heite bei den
-Juwelier Jelling er Tippfräitscin vajiftet worden 132?«
+ausbaldowert …? Wißt Ihr ooch, det da heite bei den
+Juwelier Jelling een Tippfräulein vajiftet worden is?«
 
-Harst überh2obt mich jeder Antwort … Er winkt. Wir
-treten in eine Haustürnische
+Harst überhebt mich jeder Antwort … Er winkt. Wir
+treten in eine Haustürnische …
 
-»Also, Freinderl, Du kennst die Satz … Wenn’s was
-Verdäctgce3 beurteilst, steckst Dir a Zigarettel an und weiter
-das Zündhölzerl im Bogen Weg … — Verschwind,
+»Also, Freinderl, Du kennst die Sach’ … Wenn’s was
+Verdächtges bemerkst, steckst Dir a Zigarettel an und werfst
+das Zündhölzerl im Bogen weg … — Verschwind,
 Freinderl …«
 
 Und der schöne Bodo stelzt über die Leipziger Straße
-und baut sich vor Herrscht auf.
+und baut sich vor Herpich auf.
 
 Harald schaut ihm nach. »Nun sind’s drei,« meint er
 <@pagebreak/>
-zufrieden. »unter Steher und zwei andere — zwei von
+zufrieden. »Unser Steher und zwei andere — zwei von
 Eva … Du hast sie doch gesehen?«
 
 »Bedauere … Dazu ist es drüben noch zu belebt …
 Die Auswahl ist zu groß …«
 
 »Hm — die Gesichter verrieten viel: zwei Weiber in
-Herrenanzuüzen — bestimmt Weiber!«
+Herrenanzügen — bestimmt Weiber!«
 
-»Und — weshalb Gras Garde?!«
+»Und — weshalb Evas Garde?!«
 
 »Das — Gefühl sagt es mir …«
 
 Er zieht mich weiter … Bis zum Juwelierhaus,
-schließt ohne Sehen die Tür mit dem Dietrich auf und läßt
+schließt ohne Scheu die Tür mit dem Dietrich auf und läßt
 mich eintreten … Fragt gar nicht mehr, ob ich mitmachen
 will … Schließt von innen wieder ab …
 
 Wir stehen im Dunkeln …
 
-»Der Portier wohnt im Hinterhaus,« erklärt er letzte.
-»Jelling hat uns ja ahnungslos vieles verraten. geht
-Stunde revidiert ein Beamter der uniformierten Nachdruck-Gesellschaft
+»Der Portier wohnt im Hinterhaus,« erklärt er leise.
+»Jelling hat uns ja ahnungslos vieles verraten. Jede
+Stunde revidiert ein Beamter der uniformierten Nachtwach-Gesellschaft
 das Haus mit einem Hunde …«
 
-Ich erklärte …
+Ich erstarre …
 
-» Mit — einem — Hunde?!«
+»Mit — einem — Hunde?!«
 
-»»Ja … Was schadet da82?!«
+»Ja … Was schadet das?!«
 
-»Der Hund wird uns Prüfstein …!« Wir tritt der
+»Der Hund wird uns wittern …!« Mir tritt der
 Schweiß auf die Stirn! Das kann ja nette Unannehmlichkeiten
-geben!«
+geben!
 
-»Natürlich wird er uns wittern … I habe ja tele-bvhoniert,
-als Du nachmittags j[Schliefst …«
+»Natürlich wird er uns wittern … Ich habe ja telephoniert,
+als Du nachmittags schliefst …«
 
-»Dir wem?! Ich …«
+»Mit wem?! Ich …«
 
-»du scheinst noch) in:innen nicht zu kapieren: mit dem Direktor
-der Nachwuchs-Gesjelischaft … Der Wächter ist ein-veweiht
+»du scheinst noch immer nicht zu kapieren: mit dem Direktor
+der Nachtwach-Gesellschaft … Der Wächter ist eingeweiht
 … Er wird sehr bald erscheinen … Um halb
 zwei …«
 
-Ich bin viel zu überrascht, um aufbrausen zu können
-Viel zu überrascht …! Das war Wieder so recht Nil
+Ich bin viel zu überrascht, um aufbrausen zu können …!
+Viel zu überrascht …! Das war wieder so recht Harst!
 Läßt mich bis zuletzt im Ungewissen!!
 
-»Komm!« sagt er. »Beginnen wir je per rechts an der
+»Komm!« sagt er. »Beginnen wir hier rechts an der
 Tür, die in Jellings Kontor führt …«
 
 <@pagebreak/>
-Diese eiserne Tür hat drei Kunstschlösser. Unsere Leuchtfratze
-enthüllen all die Schwierigkeiten, diese erstklassiger«
+Diese eiserne Tür hat drei Kunstschlösser. Unsere Leuchtstäbe
+enthüllen all die Schwierigkeiten, diese erstklassigen
 Schlösser zu bewältigen.
 
-Harst arbeitet mit dem Dietrich, dann mit dem kroch
-Eisen, sprengt die Schlüssellochdeckel los und zerkratzt den Oel-sarbenanstrich
-nach Kräften …
+Harst arbeitet mit dem Dietrich, dann mit dem Brecheisen,
+sprengt die Schlüssellochdeckel los und zerkratzt den
+Ölfarbenanstrich nach Kräften …
 
 Dann — rüttelt jemand an der Haustür … Ein
 Schlüssel kreischt … Wir schlüpfen den Flurgang hinab in
-den Hof
+den Hof …
 
 Minuten nichts … Ein leiser Pfiff … Und Harald
 sagt: »Der Wächter! Die Komödie kann beginnen …«
@@ -1220,7 +1220,7 @@ sagt: »Der Wächter! Die Komödie kann beginnen …«
 <h2>5. Kapitel.</h2>
 <h3>Das Röllchen.</h3>
 
-Der Wächter ist ein junger kräftiger Kerl«, hält seinen
+Der Wächter ist ein junger kräftiger Kerl, hält seinen
 Schäferhund fest am Halsband. Seine Lampe bescheint uns.
 
 »Harald und Schraut,« flüstert Harst das vereinbarte
@@ -1233,10 +1233,10 @@ noch eine zweite. Auch diese Schlüssel hat der Wächter.
 
 Wir drei und der Hund sind nun im Kontor. Die Türen
 haben wir nur eingeklinkt. — Vor den Fenstern die Eisenladen
-… Harst schaltet das Licht jetzt voll ein … =«
+… Harst schaltet das Licht jetzt voll ein … —
 Strahlende Helle …
 
-»Ah war beim Tierarzt, Herr Harst,« sagt der Wächter.
+»Ich war beim Tierarzt, Herr Harst,« sagt der Wächter.
 »Der Doktor hat dieses Stück Wurst präpariert …«
 
 Er gibt es seinem Hunde. Schon nach drei Minuten
@@ -1250,27 +1250,27 @@ das hier gegeben wird …
 Der Wächter holt aus seinem Mantel drei Stricke hervor.
 
 »Am besten dort in jener Ecke,« meint Harald. »Legen
-Sie sich nur das Nuthekissen dort unter den Kopf …« —
+Sie sich nur das Ruhekissen dort unter den Kopf …« —
 
 *Ich selbst* — nur Zuschauer! — werde Zeuge, wie
 Harald den jungen Menschen fesselt, ihm einen Knebel in
-den Mund steckt, dann ein FläschGchhen aus der Tasche zieht
-und Stirn und Gesicht des Wehrlosen rot bestraft: Blut —
-— umschloß Blut!
+den Mund steckt, dann ein Fläschchen aus der Tasche zieht
+und Stirn und Gesicht des Wehrlosen rot befleckt: Blut —
+— unechtes Blut!
 
 <@pagebreak/>
-Den Hund schleppt Harst dann ebenfalls in die Ecke, Vorsicht
+Den Hund schleppt Harst dann ebenfalls in die Ecke, begießt
 ihn ebenfalls mit — Blut … —
 
 Ich habe als Haralds Freund schon allerlei mitgemacht.
 Dieses hier war doch so ziemlich das Tollste …!
 
-»So,« meint er mir und wirst die Dienstmütze des
-Fürchtete neben den scheinbar Bewußtlosen, der die Augen
+»So,« meint er nun und wirft die Dienstmütze des
+Wächters neben den scheinbar Bewußtlosen, der die Augen
 fest geschlossen hält, »jetzt kommt die Tür nach dem Laden an
 die Reihe …«
 
-Er schaltet die elektrisch gen Lampen wieder aus. Unsere
+Er schaltet die elektrischen Lampen wieder aus. Unsere
 Lampen strahlen auf. Und er breitet den Inhalt unserer
 Einbrecheretuis säuberlich vor der Tür auf dem Teppich aus
 … nimmt den Zentrumbohrer, setzt ihn zusammen und —
@@ -1287,7 +1287,7 @@ schieße nur im äußersten Notfall …«
 
 »Auf wen?! Würdest Du mir nicht endlich mal …«
 
-»Stopp — Morgen macht häßlich … — Die Sache ist
+»Stopp — Ärger macht häßlich … — Die Sache ist
 die: draußen stehen zwei verkleidete Weiber Schmiere …
 Sie haben gesehen, daß wir das Haus betraten, haben natürlich
 auch den Wächter beobachtet und werden sich wundern,
@@ -1298,14 +1298,14 @@ dessen Kumpane offenbar den Wächter schon stumm gemacht
 haben …! — Sie werden dies alles ihrer Auftraggeberin
 melden: Eva! Und Eva wird jetzt den allgemeinen Angriff
 gegen die Konkurrenz, das sind wir, befehlen … Falls
-Eva hier mit eindringt, haben wir sie. Falls nicht, Sichern
+Eva hier mit eindringt, haben wir sie. Falls nicht, biedern
 wir uns mit den Kollegen an und überreden sie, gemeinsame
 Sache zu machen und den Geldschrank dort aufzuknabbern,
 in dem Jelling auf meinen Vorschlag von heute nachmittag
 <@pagebreak/>
 lediglich eine große Schachtel mit unverspiegelten Similisteinen
 hineingestellt hat. Diese Steine halten wir für Diamanten,
-feilen mit der Konkurrenz den Raub und —
+teilen mit der Konkurrenz den Raub und —
 schleichen den Brüdern nachher vorsichtig nach … — Die
 Sache muß klappen! — Ich arbeite weiter …«
 
@@ -1317,7 +1317,7 @@ wo ein paar von Eva Lardas Bande wohnten, würden wir
 auch sehr bald Eva selbst haben!
 
 War’s da wunderbar, daß mich langsam eine Nervosität
-packte, die ich Traum mehr unterdrücken konnte?!
+packte, die ich kaum mehr unterdrücken konnte?!
 
 War’s ein Wunder, daß ich dauernd die Flurtür im
 Auge behielt …?! —
@@ -1325,11 +1325,11 @@ Auge behielt …?! —
 Harst ölte den Stahlbohrer …
 
 »Hm — sie läßt sich Zeit,« meinte er flüsternd. »Sie ist
-mißtrauisch und vorsichtig und
+mißtrauisch und vorsichtig und …«
 
 Pause …
 
-auch) ich hörte draußen ein Geräusch …
+auch ich hörte draußen ein Geräusch …
 
 Nahm die Clement in Augenhöhe … —
 
@@ -1354,9 +1354,9 @@ Mein Herz jagt … klopft mir bis in den Hals hinauf.
 Wieder ein Geräusch … Aber nicht mehr an der
 Außentür … Vielleicht die Haustür — vielleicht …
 
-Minuten vergehen … Ich werde ruhiger. Meine:
+Minuten vergehen … Ich werde ruhiger. Meine
 Nerven versagen nicht mehr. Ich freue mich auf den Strauß.
-Harst wird mit Evas Kumpatnen schon im Guten fertig werden
+Harst wird mit Evas Kumpanen schon im Guten fertig werden
 … Sie werden nicht ahnen, mit wem sie sich hier
 verbrüdern … Oder gar: wenn Eva dabei ist!! Das
 <@pagebreak/>
@@ -1380,14 +1380,15 @@ Und — — an der dunkelgelben Eisentür dort — der
 inneren Flurtür — hängt aus dem Schlüsselloch ein dünnes
 langes Papierröllchen heraus …
 
-Harald entlastet es:
+Harald entfaltet es:
 
 > »Bemühen Sie sich nicht weiter! Ich habe Sie erkannt
-… Ein Großer und ein Kleiner, selbst mit Ungarn-oder
-Italienermasken, »sind allemal Harst und Schraut!
-Eva.«
+… Ein Großer und ein Kleiner, selbst mit Ungarn\-
+oder Italienermasken, sind allemal Harst und Schraut!
 
-Hohn — wie immer! Und wir — — wieder die Blamierter!!
+> Eva.«
+
+Hohn — wie immer! Und wir — — wieder die Blamierten!!
 — —
 
 Nach ein paar Minuten verlassen wir beide die Stätte
@@ -1395,19 +1396,19 @@ unserer Niederlage …
 
 Von dem schönen Bodo nichts mehr zu sehen …
 
-Wir — wandern heim. Still ist die Leipziger Straße scheuenden.
-CS5 regnet sacht. Der Himmel weint … Der
+Wir — wandern heim. Still ist die Leipziger Straße geworden.
+Es regnet sacht. Der Himmel weint … Der
 Regen paßt zu unserer Stimmung … Wir nehmen ein
 Auto …
 
 Harst schweigt …
 
 Doch als das Auto uns dann am Anfang der Blücherstraße
-absehen will, da — ruft er dem Chauffeur zu:
+absetzen will, da — ruft er dem Chauffeur zu:
 
 »Cafee Olympia, Tilsiter Straße …« —
 
-und — — dieser auf entschied Eva Lardas Geschick …
+und — — dieser Ruf entschied Eva Lardas Geschick …
 
 <@pagebreak/>
 
@@ -1421,31 +1422,31 @@ Drei Uhr morgens …
 Das Cafee Olympia ist längst geschlossen. Alle Fenster
 dunkel …
 
-Aber wir kennen die Eigenart solcher Verbreherhöhlen.
+Aber wir kennen die Eigenart solcher Verbrecherhöhlen.
 Da gibt es stets Hinterzimmer, in denen man sich bis zum
-früher Morgen vergnügt. Da gibt es stets geheime Zeichen,
+frühen Morgen vergnügt. Da gibt es stets geheime Zeichen,
 die dem Eingeweihten Zutritt verschaffen …
 
 »Warten wir,« meint Harald …
 
-Endlich öfsjnet er also den Mund — endlich …
+Endlich öffnet er also den Mund — endlich …
 
 »Meine letzte Hoffnung ist der schöne Bodo …« fährt
 er ebenso leise fort. »Ich kann mir nicht recht denken, daß
-er seinen hatten als »Steher« ohne zwingende Gründe verlassen
-bat. Er bekommt doch vor; Geld von uns, und —«
+er seinen Posten als »Steher« ohne zwingende Gründe verlassen
+hat. Er bekommt doch noch Geld von uns, und —«
 
 »Achtung!« rief ich mit gedämpfter Stimme dazwischen.
-»Achtung!t! Da ist er schon!«
+»Achtung!! Da ist er schon!«
 
-Quer über die Straße kam ein Mensch, in dem nur ihr
+Quer über die Straße kam ein Mensch, in dem nur wir
 mit unseren geübten Augen den schönen Bodo wiederzuerkennen
-vermeiden …
+vermochten …
 
-Ein Stromer war’s … Abgerissen — mit Schnialz-lode
+Ein Stromer war’s … Abgerissen — mit Schmalzlocke
 in der Stirn, beide Hände in den Hosentaschen — so
 <@pagebreak/>
-recht fest) und sorgenlos dahinschlendernd, als ginge ihn die
+recht frech und sorgenlos dahinschlendernd, als ginge ihn die
 ganze Welt nichts an …
 
 In drei Schritt Entfernung bummelte er an uns vorbei.
@@ -1458,13 +1459,13 @@ Wir beachteten ihn nicht …
 
 Er bog in eine Seitenstraße ein, pfiff einen Gassenhauer:
 
-<p class="centered pre">… Wenn Du Luft hast anzubändeln,
+<p class="centered pre">… Wenn Du Lust hast anzubändeln,
 Ja — dann komme hinterdrein …«</p>
 
 Das galt ebenfalls uns … Und weshalb es uns galt,
 hatten wir längst gemerkt …
 
-Ein Auto fuhr in »auffallend langsamen Tempo die Tilsiter
+Ein Auto fuhr in auffallend langsamem Tempo die Tilsiter
 Straße hinab …
 
 Verfolger …!!
@@ -1477,16 +1478,16 @@ als Harald mir zuraunte:
 
 »Einzeln …! — Um jeden Preis dem Auto folgen!«
 
-Wir trennten uns. — Ad) schritt auf der rechten Seite der
+Wir trennten uns. — Ich schritt auf der rechten Seite der
 dunklen Gasse entlang, Harald auf der linken …
 
 Preis und Dank dem Berliner Magistrat, der mit der
 Straßenbeleuchtung so sparsam umgeht …!
 
-Niemals hätten wir uns ja so dicht an das Auto heratr-wagen
+Niemals hätten wir uns ja so dicht an das Auto heranwagen
 dürfen, wenn hier mehrere Straßenlaternen gebrannt
 hätten. Es waren nur zwei, und diese beiden armseligen
-bei den kämpften ganz vergeblich gegen die tiefe Dunkelheit
+Leuchten kämpften ganz vergeblich gegen die tiefe Dunkelheit
 an.
 
 So wurden wir denn Zeugen, wie der Kraftwagen
@@ -1500,19 +1501,19 @@ hinein — und, jetzt in wildester Gangart, sauste uns der
 Kraftwagen davon …
 
 <@pagebreak/>
-»geht!« meinte Harald …
+»Pech!« meinte Harald …
 
 Wir waren in einer Haustürnische wieder vereint. Eine
 Verfolgung wäre ja aussichtslos gewesen.
 
 »Pech!! Und — ich möchte tausend gegen eins wetten,
-daß Leine andere als Eva diesen Streich inszeniert hat. Sie
+daß keine andere als Eva diesen Streich inszeniert hat. Sie
 muß gemerkt haben, daß Bodo für uns Schmiere stand, daß
-… er ihr nachjschhlich und daß er mehr gesehen, als ihr lieb
+… er ihr nachschlich und daß er mehr gesehen, als ihr lieb
 sein konnte. Da hat sie eben nachher den Spieß umgedreht.«
 
-»am — das leuchtet mir durchaus ein … Vielleicht hat
-Bodo gar Graf neues Quartier gefunden …«
+»Hm — das leuchtet mir durchaus ein … Vielleicht hat
+Bodo gar Evas neues Quartier gefunden …«
 
 »Dasselbe vermute ich. Wenn er schlau gewesen wäre —
 er wußte doch, daß das Auto ihm folgte! —, dann würde
@@ -1533,17 +1534,17 @@ des Bürgersteiges etwas, das — matt glänzte.
 Ein Benzinfeuerzeug …
 
 Harst ließ unter der nächsten Laterne, der zweiten und
-letzten dieser Gasse der Finsternis, den Deckel zuspringen.
+letzten dieser Gasse der Finsternis, den Deckel aufspringen.
 
 Ich wußte noch immer nicht, was er von Bodos’ Verbrecherschlauheit
 erwartete. Nun — — sah ich es: innen
-im Deckel lag ein ganz schmaler, vielfach zusammengetknisster
+im Deckel lag ein ganz schmaler, vielfach zusammengekniffter
 Zettel!
 
 Harst schob Feuerzeug und Zettel in die Tasche …
 
 »Nicht hier!« sagte er kurz. »Prüfen wir, ob auch hinter
-uns jemand der ist …«
+uns jemand her ist …«
 
 Nun — nach zehn Minuten wußten wir, daß niemand
 uns auf den Fersen war.
@@ -1557,19 +1558,19 @@ Hier nun überflogen wir vor dem erleuchteten, stark vergitterten
 Schaufenster eines Uhrmachers die mit Bleistift gekritzelten
 Zeilen:
 
-> »Da waren zwee Weiber, die mir nich recht solcher
-[Schienen. Ick pendelte hinterdrein, und die Tone jing bis
+> »Da waren zwee Weiber, die mir nich recht koscher
+schienen. Ick pendelte hinterdrein, und die eene jing bis
 nach ’n Wilhelmplatz, wo sie in Nr. 16 verschwand. Die
 andre walzte nach die Charlottenstraße 102, und auch sie
-Hatte zu disses Haus ’n Schlüssel. Nu, wo ick nach ’n
-Cafee Olymp will, merk« ich, daß mir ’n Benzinstänker
+hatte zu disses Haus ’n Schlüssel. Nu, wo ick nach ’n
+Cafee Olymp will, merk’ ich, daß mir ’n Benzinstänker
 immer nachjondelt … Wir sind helle! Ich denk’, Sie
 beede werden vor’n Olymp uff mir lauern. — Bodo
 Jüllich, jenannt der schöne Bodo …«
 
 »Das kann wertvoll sein,« meinte Harald nachdenklich.
 »Am besten ist, wir spielen unsere Rolle als ungarische
-Einbrecher weiter und —“«
+Einbrecher weiter und —«
 
 Pause — — ein scharfer Blick zum Olympia hinüber.
 
@@ -1584,7 +1585,7 @@ Im Nu waren wir an der Tür.
 Harst rief leise:
 
 »Der schöne Bodo is soeben jeklappt worden … Wir
-sind« mit von der Kunst … Geöffnet
+sind mit von der Zunft … Öffnet …«
 
 Und — siehe da: es half!
 
@@ -1606,13 +1607,13 @@ Existenzen — alles Freunde Bodo Jüllichs …
 Merkwürdig: die ganze Korona war eingeweiht, daß wir
 bei Jelling hatten einbrechen wollen!
 
-»Wir verraten eener den andern nich,« meinte ein schielenden
+»Wir verraten eener den andern nich,« meinte ein schielender
 Kerl mit mächtigen Goldplomben in den Vorderzähnen.
 »Wir sind hier ein jeschlossener Klub, Jesangverein
-Olymp …« - Er grinste … »So een Klub, in den ooch
+Olymp …« — Er grinste … »So een Klub, in den ooch
 Ihr beede rinn kennt …«
 
-Harst mußte über daß verfehlte Unternehmen gegen
+Harst mußte über das verfehlte Unternehmen gegen
 Jelling Bericht erstatten. Er log, daß sich die Balken bogen.
 Seiner Schilderung nach waren wir dem Wächter mit genauer
 Not entkommen.
@@ -1630,7 +1631,7 @@ Niemand fragte nach unseren Namen. Das war hier nicht
 
 Schließlich erklärten sich dann vier der »Kollegen« bereit,
 die beiden Häuser Wilhelmplatz 16 und Charlottenstraße 102
-en: zu bewachen. Harst wollte mittags hier im
+unauffällig zu bewachen. Harst wollte mittags hier im
 »Olymp« sich Meldung holen.
 
 Erst gegen fünf brachen wir auf.
@@ -1646,7 +1647,7 @@ Wir nahmen ein Auto …
 Und in flottem Tempo gelangten wir so zum Wilhelmplatz,
 um hier daß Haus Nr. 16 von außen zu besichtigen.
 
-sind neben der mächtige:t Haustür ein Schild aus
+Links neben der mächtigen Haustür ein Schild aus
 schwarzem Sandstein:
 
 <p class="centered pre">Pension v. Keller.
@@ -1658,12 +1659,12 @@ Wir gingen weiter …
 
 gingen — nach der Charlottenstraße …
 
-»denn Eva etwa dort in dem vornehmen Pensionat.
+»Wenn Eva etwa dort in dem vornehmen Pensionat
 wohnte …!« meinte Harst sinnend. »Geld hat sie jetzt.
-Sie wird einen Teil des Schmutzes der Frau Generaldirektor
+Sie wird einen Teil des Schmuckes der Frau Generaldirektor
 Benatzki verkauft haben …«
 
-ch4 — — war hundemüde. Die letzten Tage hatten.
+Ich — — war hundemüde. Die letzten Tage hatten
 wieder Anforderungen an unsere geistige und körperliche
 Spannkraft gestellt, denen ich nicht mehr gewachsen war.
 Harald freilich schien noch immer frisch und rege zu sein wie
@@ -1673,21 +1674,21 @@ Ich gähnte verstohlen …
 
 Wir kamen in die Charlottenstraße …
 
-Und — schon von weitem sahen wir da vor dem Häusern.
-102 eine Menge Menschen stehen, sahen einen Löschzug
+Und — schon von weitem sahen wir da vor dem Hause
+Nr. 102 eine Menge Menschen stehen, sahen einen Löschzug
 der Feuerwehr und — oben im Giebel die letzten Anzeichen
-eines Dachsiuhlbrandes …
+eines Dachstuhlbrandes …
 
 Sehr bald erfuhren wir von einem der Neugierigen,
 daß ein Maleratelier dort oben durch Feuer vernichtet worden
-sei und daß man eine halb verkohlt? Leiche vorhin nach
+sei und daß man eine halb verkohlte Leiche vorhin nach
 dem Schauhaus geschafft habe … —
 
 Und — eine halbe Stunde drauf waren wir im Schauhause
 vor den traurigen Überresten eines Menschen, der —
 für uns gleichsam in den Tod gegangen: Bodo Jüllich!
 
-Nie werde ich vergessen, in welchem Tone Harald dann.
+Nie werde ich vergessen, in welchem Tone Harald dann
 draußen auf der Straße sagte:
 
 »Sie — haben ihn beseitigt! Der Brand ist angelegt
@@ -1697,7 +1698,7 @@ Und wieder eine Stunde drauf wußten wir, daß ein
 Maler namens Berthold Grimm das Atelier vor acht Tagen
 gemietet gehabt hatte und daß der Pförtner des Hauses
 Nr. 102 annahm, die halb verkohlte Leiche sei Grimm, der
-neue Mieter, —
+neue Mieter. —
 
 Wir fuhren heim …
 
@@ -1705,7 +1706,7 @@ Beim ersten Morgengrauen betraten wir das Harstsche
 Familienhaus durch den Gemüsegarten …
 
 <@pagebreak/>
-Und — im Flur trat uns die die Mathilde entgegen …
+Und — im Flur trat uns die dicke Mathilde entgegen …
 
 Flüsterte: »Der Inder ist wieder da … Er kam vor
 wenigen Minuten und ließ sich nicht abweisen …«
@@ -1718,7 +1719,7 @@ Dicken zu …
 Dann standen in wir in seinem Arbeitszimmer Jean Ahmed
 Bissu gegenüber …
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 <h3>In der Hölle …</h3>
 
 Der Inder erhob sich sehr matt aus dem Sessel …
