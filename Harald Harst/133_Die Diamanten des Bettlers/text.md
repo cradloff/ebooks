@@ -1739,19 +1739,19 @@ Bissu tat mir leid. Der arme Kerl sah wirklich fast wie
 ein Sterbender aus.
 
 <@pagebreak/>
-Harald drückte ihn in den Sessel zurück. »Bissu, ich Tiere
-eine Heimat … — Und weil Sie Inder sind, will ich alles
+Harald drückte ihn in den Sessel zurück. »Bissu, ich liebe
+Ihre Heimat … — Und weil Sie Inder sind, will ich alles
 daransetzen, Ihnen zu helfen …«
 
 Wir nahmen gleichfalls Platz. Harst fragte — fragte.
 — Bissu hatte auch nicht die leiseste Ahnung, wie jemand
-hatte hermtäbringen können, daß hinten im Westenfitter
+hatte herausbringen können, daß hinten im Westenfutter
 24 Edelsteine eingenäht waren …
 
 »Nicht einmal Ihnen habe ich dies verraten, Mr. Harst,«
 fügte er etwas verlegen hinzu.
 
-Auftische brachte Kaffee, Ausschnitt und anderes …
+Mathilde brachte Kaffee, Aufschnitt und anderes …
 
 Ich lebte nach der zweiten Tasse wieder auf. Auch Bissu
 wurde wieder Mensch.
@@ -1766,23 +1766,23 @@ Kleinigkeit …«
 Bissu verzagte. »Ich besinne mich auf nichts, was hier
 von Bedeutung sein könnte …«
 
-»Haben Sie hier in Berlin Damenbekann: glatten ang2-knüpft?«
+»Haben Sie hier in Berlin Damenbekanntschaften angeknüpft?«
 
 »Nein, nein … Nur heute abend, also gestern abend
-Massas ich mit einer älteren Dame im Weinrestaurant Frauen
+saß ich mit einer älteren Dame im Weinrestaurant Knauer
 an einem Tisch … Es war eine Holländerin, die aber
-auch) leidlich Englisch spricht, eine sehr vornehme Frau mit
+auch leidlich Englisch spricht, eine sehr vornehme Frau mit
 grauem Haar …«
 
-»Und — Sie erraten mit der Dame ach über Edelsteine?«
+»Und — Sie sprachen mit der Dame auch über Edelsteine?«
 
 »Ja … Zufällig … Sie hatte unter dem linken
-Ärmel ihre? Spitzenkleides eine Perlenschnur um das Handgelenk
+Ärmel ihres Spitzenkleides eine Perlenschnur um das Handgelenk
 geschlungen … Die Schnur sah ich erst, als der
 Ärmel sich verschob … Mein Sachkennerblick hing natürlich
 voller Interesse auf den kostbaren Perlen. Da sagte die
-Dame, sie habe leider das Schloß de23 Karriere verloren und
-trage es daher als Armband. Loch erklärte, ich hätte zufällig
+Dame, sie habe leider das Schloß des Kolliers verloren und
+trage es daher als Armband. Ich erklärte, ich hätte zufällig
 ein mit Brillanten besetztes Schloß bei mir, ging in die
 <@pagebreak/>
 Toilette und nahm das Stück aus dem Westenversteck heraus.
@@ -1796,7 +1796,7 @@ Platz genommen hatten?«
 »Ja — allerdings …«
 
 »Nun, dann wollte diese als ältere Frau verkleidete Verbrecherin
-lediglich feststellen, ob Sie noch) Juwelen bei sich
+lediglich feststellen, ob Sie noch Juwelen bei sich
 hatten … Und dies ersah sie daraus, daß Sie, lieber
 Bissu, eben die Toilette aufsuchten. Die Diebin wußte jetzt:
 Sie trugen die Juwelen in einem Versteck Ihrer Kleider,
@@ -1811,33 +1811,33 @@ ich mich abermals habe hineinlegen lassen …! Herr Harst
 — retten Sie mich! Ich habe jetzt nicht einmal mehr das
 Reisegeld, um die Heimreise bezahlen zu können!« —
 
-Gleich daraus ließen wir den Inder durch den Gemüsegarten
-hinaus. Harald hakte ihm versichert, daß er bestimmt
+Gleich darauf ließen wir den Inder durch den Gemüsegarten
+hinaus. Harald hatte ihm versichert, daß er bestimmt
 darauf rechnen könne, die Steine sämtlich zurückzuerhalten.
 
 Mithin mußte er bereits wieder einen festen Plan entworfen
-haben, Eva nun endqgültig einzukreisen.
+haben, Eva nun endgültig einzukreisen.
 
 Und doch — er verlor kein Wort darüber.
 
-»schlagen wir!« meinte er nur. »Das ist uns am rührigsten.
+»Schlafen wir!« meinte er nur. »Das ist uns am nötigsten.
 Ich wecke Dich schon.«
 
-Kein Wunder, daß ich nach Mathildens starkem Master
+Kein Wunder, daß ich nach Mathildens starkem Kaffee
 nicht sofort in das unruhige Reich der Träume hinüberglitt.
-Nein — Ich lag noch mindestens eine Stunde nach. Meine
+Nein — ich lag noch mindestens eine Stunde wach. Meine
 beiden Zimmer, die im Erdgeschoß jenseits des Flures gelegen
-sind, stoßen mit der einen Wand an die bückte. Merkwürdigerweise
-hörte ich Haralds Stimme in der Küche, nach
-dem ich schon längst mich niedergelegt hatte.
+sind, stoßen mit der einen Wand an die Küche. Merkwürdigerweise
+hörte ich Haralds Stimme in der Küche, nachdem
+ich schon längst mich niedergelegt hatte.
 
-Endlich schlief ich ein. Und — ein kräftiges Pocken gegen
+Endlich schlief ich ein. Und — ein kräftiges Pochen gegen
 <@pagebreak/>
-Bestie Dein wer?k’e mich dann gegen ein Uhr mittags. Mathilde
+die Tür weckte mich dann gegen ein Uhr mittags. Mathilde
 hatte mich geweckt. Und die dicke brave Köchin war es auch,
 die mir nun einen Zettel durch die Türspalte reichte.
 
-Ich ahnte: Harald war überhaupt nicht schlafen Gegangen!«
+Ich ahnte: Harald war überhaupt nicht schlafen gegangen!
 Er war — ausgeflogen!
 
 Ich las:
@@ -1845,34 +1845,34 @@ Ich las:
 > »Lieber Alter, mir ist der Schlaf nicht so nötig wie Dir.
 Hätte ich Dir erklärt, daß ich auf das Bett verzichte, so
 würdest Du es ebenfalls getan haben. — Ich bin Wilhelmplatz.
-— Goß sofort zum Olymp, Abschaum Untergrundbahnhof
+— Geh sofort zum Olymp, alsdann Untergrundbahnhof
 Wilhelmplatz, wo ich Dich zwischen vier und fünf
 nachmittags erwarte. Sei sorgfältig bei Deiner Maske
 als Ungar! H.«
 
-Nun — so in Eile, wie ich damals Mittag aß, habe ließ
-es selten getan. Wir saß die Sorge um Harald wie ein Gespenst
+Nun — so in Eile, wie ich damals Mittag aß, habe ich
+es selten getan. Mir saß die Sorge um Harald wie ein Gespenst
 im Nacken. Ich reimte mir leicht zusammen, daß er
 im Pensionat v. Keller jetzt abgestiegen war — natürlich
 zweckentsprechend verwandelt. Er hatte sich wahrscheinlich
 erst bei unserem Freunde, dem Kriminalkommissar Fritz
-Bechert, ma8s8kiert, denn sowohl seine Mutter als auch
+Bechert maskiert, denn sowohl seine Mutter als auch
 Mathilde betonten, daß er als gewöhnlicher Sterblicher, als
-Harald Harst, gegen acht Uhr davongegangen sel.
+Harald Harst, gegen acht Uhr davongegangen sei.
 
 bereits gegen halb zwei Uhr schlich auch ich durch den
-Gemüsegarten rasch in das Laubengelände hinüber. Bathilde
-Latte erst Ausschau! halten müssen, ob die Luft auch rein sei.
-Sie war mit dem Bescheid zurückgekehrt, daß sie nichts Dornbusch.
-irres wahrnehmen könne …
+Gemüsegarten rasch in das Laubengelände hinüber. Mathilde
+hatte erst Ausschau halten müssen, ob die Luft auch rein sei.
+Sie war mit dem Bescheid zurückgekehrt, daß sie nichts Verdächtiges
+wahrnehmen könne …
 
-Und doch …!! Und doch …!! I sollte nur zu bald
+Und doch …!! Und doch …!! Ich sollte nur zu bald
 merken, wie sehr Eva Larda sich jetzt anstrengte, uns beide,
-ihre gefährlichsten Gegner, aus8zuschal!en …
+ihre gefährlichsten Gegner, auszuschalten …
 
 Ich fuhr im Auto nach der Tilsiter Straße, stieg vor dem
-Cafee Olympia aus und ging das letzte Stü zu Fuß. Ein
-Motorratbler, der jetzt an mir vorbeiknatterte, kam mir ein
+Cafee Olympia aus und ging das letzte Stück zu Fuß. Ein
+Motorradler, der jetzt an mir vorbeiknatterte, kam mir ein
 wenig auffallend vor, da er sich wiederholt nach mir umdrehte.
 <@pagebreak/>
 Trotzdem war ich kaltblütig und völlig überzeugt,
@@ -1881,41 +1881,41 @@ meine Rolle als ungarischer Kollege tadellos durchführen zu
 können.
 
 In einem Hinterzimmer fand ich fünf der Leute versammelt.
-Sie spielten Gottes Segen bei Sohn, auch Kartenlotterie
+Sie spielten Gottes Segen bei Kohn, auch Kartenlotterie
 genannt.
 
 Ich wurde sehr vertraulich empfangen. Als ich dann
 berichtete, daß Bodo Jüllich tot sei, schlug der »gelbe Anton«
 mit der Faust auf den Tisch …
 
-»Das wird Zeichen …!! Die vafluchten Weiber!!«
+»Das wird jerochen …!! Die vafluchten Weiber!!«
 
 Der gelbe Anton war einer von den vier von uns bezahlten
 Aufpassern. — Er hatte nichts feststellen können,
 ebensowenig die anderen drei.
 
-Während nun an unserem Tische noch eifrig über Endes
+Während nun an unserem Tische noch eifrig über Bodos
 schreckliches Ende debattiert wurde, erschien das strohblonde
-Büfettfräulein »wund winkte »den selben Anton hinaus. Sie
-warf mir dabei einen ganz merkwürdigen Bis zu, so daß
+Büfettfräulein und winkte den gelben Anton hinaus. Sie
+warf mir dabei einen ganz merkwürdigen Blick zu, so daß
 ich schon in dem Moment recht unruhig wurde.
 
 Der gelbe Anton kam sehr bald zurück und flüsterte:
 
-»Die Polente is vorn im Lokal … Wir sein besser
-in den Keller «…«
+»Die Polente is vorn im Lokal … Wir jehn besser
+in den Keller …«
 
-Ich wollte mich verabschieden, da nfir etwas unheimlich
+Ich wollte mich verabschieden, da mir etwas unheimlich
 zumute ward. Und — wenn ich nur fest geblieben und
-wirklich gegangen wäre!; Hier in diesem Zimmer hätte mir
+wirklich gegangen wäre! Hier in diesem Zimmer hätte mir
 nichts geschehen können. —
 
-Der Zelle Anton meinte grinsend:
+Der gelbe Anton meinte grinsend:
 
 »Mensch, wir haben doch noch allerlei zu bereden …
-Komm man mit … Stock bejleite Dir nachher …«
+Komm man mit … Ick bejleite Dir nachher …«
 
-Und — eine Dummbpeit war’s, daß ich mich eine Memme
+Und — eine Dummheit war’s, daß ich mich eine Memme
 schalt, die nur Gespenster sehe!
 
 So — folgte ich den fünf Kollegen denn nach unten in
@@ -1929,27 +1929,27 @@ Denn kaum hatte sich die Tür hinter uns geschlossen, als
 der gelbe Anton alle Lampen einschaltete und — mir dann
 einen Revolver unter die Nase hielt
 
-»Spion …!!« zischte er. »Elender Spion. -.! Silber
-— — liest!«
+»Spion …!!« zischte er. »Elender Spion …! Hier
+— — lies!!«
 
-Die anderen vier hatten gleicßhsalls sehr wenig angenehme
-Instrumente hervorgeholt: zwei — — Browningpistiolen,
+Die anderen vier hatten gleichfalls sehr wenig angenehme
+Instrumente hervorgeholt: zwei — — Browningpistolen,
 einen Gummiknüttel und ein Dolchmesser …
 
 Ich ahnte: ich war verraten worden!
 
 Und etwas blaß nahm ich nun den Brief entgegen, den
-der gelbe Anton mir hinhielt
+der gelbe Anton mir hinhielt …
 
 Da stand mit Bleistift auf dem graublauen Geschäftsumschlag:
 
-> »An einen der Herren, mit denen der kleine die
+> »An einen der Herren, mit denen der kleine dicke
 Schwarzbärtige sich angefreundet hat.«
 
 »Der Brief is von einem Motorradler abjejeben worden,«
 erklärte der gelbe Anton grollend.
 
-Meine Stirn wurde leicht …
+Meine Stirn wurde feucht …
 
 Ich zog den Zettel aus dem Umschlag … Wieder Bleistiftzeilen
 …:
@@ -1961,10 +1961,10 @@ Weiter nichts …
 
 Und doch: übergenug!!
 
-Blitb’chInell überlegte ich
+Blitzschnell überlegte ich …
 
-Da rief der gelbe Anton: »Reißt ihm die Perücke ab?
-Der Schraut hat ’n kahlen Kopp … »! Det weeß jeder!«
+Da rief der gelbe Anton: »Reißt ihm die Perücke ab!
+Der Schraut hat ’n kahlen Kopp …! Det weeß jeder!«
 
 Und — da packte auch schon einer zu …
 
@@ -1979,7 +1979,7 @@ Ein Wutgeheul erhob sich um mich her …
 In *dem* Augenblick gab ich für mein Leben keinen
 Pfifferling …
 
-Aber — ich wollte Vier nicht abgekehlt werden!!
+Aber — ich wollte hier nicht abgekehlt werden!!
 
 Ich sprang zurück …
 
@@ -1992,7 +1992,7 @@ Ich brüllte:
 
 »Denkt an Bodo! Eva Larda ist seine Mörderin! Dieselbe
 Larda, die auch Fräulein Anna Mack-Peerland und
-roch zwei Personen beseitigt hat!« —
+noch zwei Personen beseitigt hat!« —
 
 Man muß hier berücksichtigen, daß Leute vom Schlage
 dieser fünf über neuere Verbrechen stets tadellos unterrichtet
@@ -2010,9 +2010,9 @@ verlor ich trotz allem diese Partie um Sein oder Nichtsein.
 Mit der Wahrheit kommt man am weitesten.
 
 Hiernach richtete ich mich, erzählte jetzt in aller Kürze,
-weshalb Harald und ich gestern in das Laster Olympia gekommen
+weshalb Harald und ich gestern in das Cafee Olympia gekommen
 waren und daß wir Bodo Jüllich lediglich dazu
-Hatten benutzen wollen, den Einbruch bei Jelling recht »sach-gemäß«,
+hatten benutzen wollen, den Einbruch bei Jelling recht »sachgemäß«,
 das heißt mit Schmieresteher, auszuführen.
 
 Nichts verschwieg ich — nichts …
@@ -2025,8 +2025,8 @@ und alles übrige …
 Die Mienen der fünf glätteten sich. Und als ich geendet,
 meinte der gelbe Anton bedächtig:
 
-»Hm — so seine Herren wie Sie beede, der Harst und
-ohne Wenigkeit, halten ja wohl stets ihr Ehrenwort, Herr
+»Hm — so feine Herren wie Sie beede, der Harst und
+Ihre Wenigkeit, halten ja wohl stets ihr Ehrenwort, Herr
 Schraut … Können Sie auf Ihr Ehrenwort vasichern,
 daß Sie uns nich wieder verkohlt haben?«
 
@@ -2036,24 +2036,24 @@ Und derselbe Inder war heute früh wieder bei uns …«
 Ich berichtete den Rest …
 
 <@pagebreak/>
-Da nickten die fünf sich zu … Und der, der meiner!
+Da nickten die fünf sich zu … Und der, der meinen
 Skalp in der Hand hatte, reichte ihn mir zurück …
 
 »Da — nehmen Sie man, Herr Schraut … Wir glauben
 Ihnen … Sie und Herr Harst sind ja als Schentelmen-Detektive
-bekannt und ooch Vater, daß Sie een Herz tot
+bekannt und ooch dafor, daß Sie een Herz for
 unsereiner haben …«
 
 *Das* war der Friedensschluß …
 
 Und fünf Minuten später hatte ich die Kollegen abermals
-»engagiert«, sollte ich ihre Hilfe nötig haben sollte. —
-Sie waren zuverlässig … Sie hätten mit mir kein unwohnlich
+»engagiert«, falls ich ihre Hilfe nötig haben sollte. —
+Sie waren zuverlässig … Sie hätten mit mir kein unehrlich
 Spiel getrieben … Sie wollten den schönen Bodo
 rächen … Und die Hauptsache: sie waren auch ein wenig
 stolz darauf, mit Harst und Schraut gemeinsam »arbeiten«
 zu können. Außerdem lockte das Geld! Sie wußten, daß
-sowohl Generaldirektor benutzt als auch der Inder mit
+sowohl Generaldirektor Benatzki als auch der Inder mit
 »Zaster« nicht knausern würden, wenn es uns gelang, die
 Juwelen wieder herbeizuschaffen!
 
@@ -2062,18 +2062,18 @@ Juwelen wieder herbeizuschaffen!
 <h2>3. Kapitel.</h2>
 <h3>Der Schmetterlingskescher.</h3>
 
-Ich möchte hier betonen, daß es das erstemal in außer
-nunmehr zehnjährigen Berufstätigkeit war, daß wo 4?
-gewerbsmäßigen Gaunern so völlig gemeinsame Wracks
+Ich möchte hier betonen, daß es das erstemal in unserer
+nunmehr zehnjährigen Berufstätigkeit war, daß wir mit
+gewerbsmäßigen Gaunern so völlig gemeinsame Sache
 machten. Die Umstände hatten uns dazu gezwungen, und
 dieses Bündnis sollte für uns alle nur zum Vorteil werden,
 wie die Weiterentwicklung der Dinge zeigte. —
 
-Sie gegen vier Uhr blieben wir in dem geheimen FeAer-raum
-zusammen. Dann verschwand ich durch eine Tinte:für
+Bis gegen vier Uhr blieben wir in dem geheimen Kellerraum
+zusammen. Dann verschwand ich durch eine Hintertür
 des Hauses, die auf einen Nebenhof führt. So gut es
 ging hatte ich mein Äußeres verändert. Einer der »Kollegen«
-beschaffte einen blonden dicken Schnurrbart, der in!
+beschaffte einen blonden dicken Schnurrbart, der mir
 denn auch zusammen mit einem biederen Nickelkneifer das
 Aussehen eines harmlosen Büromenschen verlieh,
 
@@ -2086,9 +2086,9 @@ Kein Harst ließ sich sehen …
 
 Es wurde ein Viertel sechs, und meine Angst wuchs …
 
-Wenn Eva Larda mich hatte verfolgen lassen, den
-waren ja auch fraglos hinter Harald Spione leer gewesen,
-und vielleicht hatte man ihn in einen Hinterhalt seiner, vielleicht
+Wenn Eva Larda mich hatte verfolgen lassen, dann
+waren ja auch fraglos hinter Harald Spione her gewesen,
+und vielleicht hatte man ihn in einen Hinterhalt gelockt, vielleicht
 war er längst in Evas Gewalt …!
 
 <@pagebreak/>
@@ -2097,17 +2097,17 @@ gesetzt. Ich hoffte noch immer …
 
 Und — — endlich, endlich: gegen halb sechs kam ein
 alter graubärtiger Herr mit goldener Brille, der sich schwer
-auf einen Stock krähte …
+auf einen Stock stützte …
 
 Der Herr machte den Eindruck eines Schwerkranken …
-Stöhnend ließ er sich neben mir nieder
+Stöhnend ließ er sich neben mir nieder …
 
 Ich lauerte auf ein Zeichen …
 
-Ich war mir meiner Sache wirklich nicht sicher … Es?
+Ich war mir meiner Sache wirklich nicht sicher … Es
 konnte Harald sein — konnte …!
 
-Und dann. — ein Flüstern:
+Und dann — ein Flüstern:
 
 »Sie ist tot …«
 
@@ -2119,13 +2119,13 @@ Ich erstarrte …
 
 »Unmöglich …!«
 
-»Sie hat sich vergiftet»… Sie merkte, daß sie nicht Welt
-entschlüpfen konnte … Ich hatte sie mit Schritt Hilfe vöoauig
-unzzingelt … Aber noch lebt ihre Bande — noch) sollen
+»Sie hat sich vergiftet … Sie merkte, daß sie nicht mehr
+entschlüpfen konnte … Ich hatte sie mit Becherts Hilfe völlig
+umzingelt … Aber noch lebt ihre Bande — noch fehlen
 uns die Juwelen … Der Kampf geht weiter … Daher
-—y» Vorsicht!! Du besteigst jetzt den nächsten Zug und stahlst
-bis zum Glei3dreieX. Dort verschwindest Du in der Menge.
-Jetzt um diese Zeit sind die Züge überfüllt. Ich Gewalt«
+— Vorsicht!! Du besteigst jetzt den nächsten Zug und fährst
+bis zum Gleisdreieck. Dort verschwindest Du in der Menge.
+Jetzt um diese Zeit sind die Züge überfüllt. Ich erwarte
 Dich vor der Pfandleihe von Robert Gremzig in der Klosterstraße
 — Nummer vierzehn ist’s …«
 
@@ -2140,19 +2140,19 @@ an. Es gehört nur ein wenig Übung dazu. —
 
 Daß ich das Wiedersehen mit Harald voll Spannung
 erwartete, wird jeder begreifen. — Eva Larda tot …!!
-Vergiftet hatte sie sich …! Ausgerechnet Gift gab ihr dein
-Tod! So Waren denn ihre Opfer bereits gerächt …! S?
+Vergiftet hatte sie sich …! Ausgerechnet Gift gab ihr den
+Tod! So waren denn ihre Opfer bereits gerächt …! So
 <@pagebreak/>
-hatte auch vorn von Peerlands heimtückisches Erde bereits
+hatte auch Vera von Peerlands heimtückisches Ende bereits
 seine Vergeltung gefunden.
 
 Und die näheren Umstände dieses Selbstmordes?! —
-Ungefähr konnte ich mir das Geschehene zu amtuücatreimen …
+Ungefähr konnte ich mir das Geschehene zu zusammenreimen …
 Harst war in der Pension v. Keller heute vormittag abgestiegen,
-hatte dort bald erwidert, daß Eva in irgendeinen
+hatte dort bald ermittelt, daß Eva in irgendeiner
 Maske dort weilte … Dann hatte er Bechert angerufen
 und zusammen mit ihm und dessen Beamten Eva verhaften
-wollen. als sie erkannte, daß es für sie kein Entsinne:ich mehr
+wollen. als sie erkannte, daß es für sie kein Entrinnen mehr
 gab, hatte sie den Tod durch Gift dem anderen ihr drohenden
 Tode, dem Henkerbeil, vorgezogen …
 
@@ -2168,12 +2168,12 @@ nach der Klosterstraße bestellt?!
 
 Weshalb …?!
 
-ohne Psfandleihe — — Nr. 14 … Und auch den Namen
-des Besitzers kannte er!een: Gremzig! Robert Gremzig
+Eine Pfandleihe — — Nr. 14 … Und auch den Namen
+des Besitzers kannte er schon: Gremzig! Robert Gremzig
 …! — Das mußte doch etwas ganz Besonderes auf
 sich haben! Ob dieser Gremzig etwa einer jener dunklen
-Ehrenmänner war, die das Psandleihgeichäst nur als Deckmantel
-für das Hehlergewerbe benutzen?! Es etwa Eva
+Ehrenmänner war, die das Pfandleihgeschäft nur als Deckmantel
+für das Hehlergewerbe benutzen?! Ob etwa Eva
 bei diesem Manne einen Teil der Juwelen in bare Münze
 umgesetzt hatte?!
 
@@ -2181,15 +2181,15 @@ In dieser zweiten Frage half kein Grübeln und Kombinieren.
 Da gab es zu viele Möglichkeiten … Da konnte
 gerade das Widersinnigste richtig sein. —
 
-GleiSdreieckd!!
+Gleisdreieck!!
 
-Aus drangvoll fürchterlichsten Enge hinaus aus dem
+Aus drangvoll fürchterlichster Enge hinaus aus dem
 Abteil auf den Bahnsteig …
 
-Und hinein in den dichtesten Mensichenstrom …
+Und hinein in den dichtesten Menschenstrom …
 
 Hinein in einen Zug, der nach der entgegengesetzten
-Nich uns subhr …
+Richtung fuhr …
 
 Dann — — die Klosterstraße …
 
@@ -2199,20 +2199,20 @@ ein engbrüstiges Haus, das nur einen kleinen Laden unten
 hatte: die Pfandleihe!
 
 Ein Riesenschild über dem Schaufenster, in dem ein
-grell beleucdytetes Plakat hing;
+grell beleuchtetes Plakat hing;
 
 <p class="pre indent2">Auch der Ärmste hier stets fand
 Geld für jeden Gegenstand.
-Arbeit Gremzig, treu und ehrlich,
+Robert Gremzig, treu und ehrlich,
 Macht’s Verpfänden nicht beschwerlich!</p>
 
 Dieser brave poetische Erguß war aber auch alles, was
 das Schaufenster zeigte. Es war stark vergittert, innen und
-außen, und innen schienen noch Metallischen vor den Fenstern
+außen, und innen schienen noch Metalläden vor den Fenstern
 befestigt zu sein.
 
 Unter diesem Verslein stand noch in ebenfalls handlangen
-Buchstaben: «
+Buchstaben:
 
 <p class="centered">Geöffnet von 9—7 durchgehend.</p>
 
@@ -2230,12 +2230,12 @@ Händedruck …
 
 »Wir sind zur rechten Zeit hier … Das Weib ist soeben
 in dem Laden verschwunden … Gremzig ist eingeweiht,
-hat die Ladentürglocke abgestellt; … — Vorwärts!«
+hat die Ladentürglocke abgestellt: … — Vorwärts!«
 
 Er war frisch und munter wie stets — und hatte doch
 seit vierundzwanzig Stunden kein Auge zugetan …
 
-Wir machten kehrt. Ich bat:e zu gern allerlei gefragt.
+Wir machten kehrt. Ich hätte zu gern allerlei gefragt.
 Aber ich fand keine Zeit dazu.
 
 Harald hatte einen Spazierstock mit. Im Hausflur zog
@@ -2245,9 +2245,9 @@ Und — es war ein Angelstock, an dem er nun einen —
 Schmetterlingskescher befestigte …
 
 <@pagebreak/>
-»Das Weib könnte die Steine noch im lebt?n Moment
-verschlafen … Das gäbe dann nur Weiterungen,«
-flüsterte er ganz ernst.«
+»Das Weib könnte die Steine noch im letzten Moment
+verschlucken … Das gäbe dann nur Weiterungen,«
+flüsterte er ganz ernst.
 
 Und legte die Hand auf den Drücker der Ladentür, die
 links in die Pfandleihe führte.
@@ -2256,7 +2256,7 @@ Ganz lautlos, mit äußerster Behutsamkeit, drückte er die
 Tür auf …
 
 Sie war gut geölt … Und — ein Blick in den Laden
-hinein … ein Blick aus geradezu gierigen Augen …
+hinein … ein Blick aus geradezu gierigen Augen …,
 die mir gehörten …
 
 Ein Ladentisch … Dahinter ein Kerl mit einem
@@ -2267,7 +2267,7 @@ gleichend.
 Und — — vor dem Ladentisch …
 
 Ja — der eine Blick genügte: Das war der Bettler mit
-gelbem Rucksack, der am Cafee Josty die »Simili« angeboten
+dem Rucksack, der am Cafee Josty die »Simili« angeboten
 hatte …
 
 Kein Weib! Ein Mann! — Oder — — doch ein Weib?!
@@ -2276,7 +2276,7 @@ Eine von Evas Bande?!
 Der Bettler hielt die rechte Hand vorgestreckt …
 
 Auf dieser Hand sprühte und funkelte es — genau wie
-damals, genau wie — gestern …!! — Tage alles lag doch
+damals, genau wie — gestern …!! — Was alles lag doch
 zwischen gestern und heute! Welche Überfülle von Ereignissen
 kann sich in einem Zeitraum von zweimal zwölf
 Stunden zusammendrängen …!
@@ -2298,19 +2298,19 @@ Manne über den Kopf …
 Und — — da merkte ich dann, weshalb er’s getan: der
 Kerl hatte die Linke in der Tasche gehabt, hatte jetzt blitzschnell,
 <@pagebreak/>
-nachdem er vor Schreck gegen den Ladentisch ge-taummelt
+nachdem er vor Schreck gegen den Ladentisch getaumelt
 war, diese Hand zum Munde führen wollen …
 
-Und — — fand den Eingang versperrt
+Und — — fand den Eingang versperrt …
 
 Ließ das Kügelchen Gift fallen …
 
 lachte schrill …
 
-hin Weiberlachen …
+Ein Weiberlachen …
 
 Und im selben Moment packte der stiernackige Gremzig
-Giaur schon zu … Von hinten — beide Handgelenke …
+auch schon zu … Von hinten — beide Handgelenke …
 
 Harst hatte die Handschellen schon bereit …
 
@@ -2319,39 +2319,39 @@ Ein metallisches Knacken …
 Und — ein tieferes Schluchzen stieg da aus der Kehle
 des Weibes hoch …
 
-»Der — spielt!« lallte sie …
+»Ver\—spielt!« lallte sie …
 
-Ich lachte, es müßte Eva sein …
+Ich dachte, es müßte Eva sein …
 
 Ich glaubte, Harald hätte mir auch, was Evas Tod anging,
 einen Bären aufgebunden …
 
-ftmmte nicht: als er der Frau nun Perücke und Bart
-ohnehin kam ein faltiges Gesicht zum Vorschein — graue
-Birne aarfträhnen dazu und eine breite rote Narbe am
+Es stimmte nicht: als er der Frau nun Perücke und Bart
+abnahm, kam ein faltiges Gesicht zum Vorschein — graue
+dünne Haarsträhnen dazu und eine breite rote Narbe am
 Kinn …
 
-»Die Giesecke!!« rief der Pfandleiher. »Charlotte Tiefste,
+»Die Giesecke!!« rief der Pfandleiher. »Charlotte Giesecke,
 die Hoteldiebin …!!«
 
 Und — das genügte, mein Gedächtnis aufzufrischen …
 
-Charlotte Giesecke war vor einem halben Jahr zu lang-jubel
+Charlotte Giesecke war vor einem halben Jahr zu langjähriger
 Zuchthausstrafe verurteilt worden. Ihr Name
-an berüchtigt. Sie war eine jener unverbesserlichen Viehhirten
+war berüchtigt. Sie war eine jener unverbesserlichen Diebinnen,
 die es vortrefflich verstehen, die alte würdige Dame
-er is in ein Stern am Verbrecherinnenhimmel, ein Typ
+zu spielen — ein Stern am Verbrecherinnenhimmel, ein Typ
 für sich …! —
 
-Fan begann sie genau zu durchsuchen …
+Harst begann sie genau zu durchsuchen …
 
-Und — — was dieses Weib, eingenäht in die Lederschäste
+Und — — was dieses Weib, eingenäht in die Lederschäfte
 der plumpen Männerstiefel, an Edelsteinen und Pretiosen
-bei fiel getragen hatte, war ein Vermögen wert!
+bei sich getragen hatte, war ein Vermögen wert!
 
 Was sage ich! Ein Vermögen!! Nein — für fast eine
-halbe Million Schmuck und Steine forderte der findige Operativ
-anginge.
+halbe Million Schmuck und Steine förderte der findige Harald
+zutage.
 
 <@pagebreak/>
 Dann drückte er die Giesecke auf einen Stuhl …
@@ -2361,16 +2361,16 @@ vor sich hin Starrende …
 
 Sie nickte nur …
 
-»Eva hat Ihnen bei der Flucht aus dem Zuchthaus geworfen?«
+»Eva hat Ihnen bei der Flucht aus dem Zuchthaus geholfen?«
 
-Abermals nur ein widerwilliges alten …
+Abermals nur ein widerwilliges Nicken …
 
 »Sie beide kennen sich schon länger … Eva hat ja
 ein Doppelleben geführt — als ehrbare Zeichnerin und als
 Verbrecherin …«
 
 Da lachte die Giesecke. »Doppelleben?! — Die Eva
-hatte sieben, acht Wohnungen, spielte sieben, acht voller …
+hatte sieben, acht Wohnungen, spielte sieben, acht Rollen …
 — Aber — mehr werden Sie von mir nicht erfahren, Herr
 Harst … Ich wandere wieder ins Zuchthaus …«
 
@@ -2390,7 +2390,7 @@ Brand?!«
 »Eva — — Eva …!! Gegen meinen Willen …!«
 
 Sie hob den Kopf … »Bei Gott, Herr Harst: gegen
-meinen Willen! sich bin stets gegen Gewalttaten gewesen!
+meinen Willen! Ich bin stets gegen Gewalttaten gewesen!
 Ich …«
 
 »das wird die Untersuchung klären … — Sie waren
@@ -2404,8 +2404,8 @@ steht nicht besonders günstig um Sie …!«
 
 Und die alte Verbrecherin flüsterte scheu:
 
-»G32 — es waren im ganzen sechs, die zu — zu Eva
-hielten »…
+»Es — es waren im ganzen sechs, die zu — zu Eva
+hielten …«
 
 <@pagebreak/>
 Dann kamen nähere Angaben … Adressen …
@@ -2416,7 +2416,7 @@ Und ich mußte auf seinen Wink hin Bechert telephonisch
 verständigen. —
 
 Während wir dann auf Becherts Eintreffen warteten,
-erzählte mir Agra leise seine mir bisher unbekannten Erlebnisse
+erzählte mir Harald leise seine mir bisher unbekannten Erlebnisse
 …
 
 <h2>4. Kapitel.</h2>
