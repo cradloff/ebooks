@@ -2423,28 +2423,28 @@ erzählte mir Harald leise seine mir bisher unbekannten Erlebnisse
 <h3>Evas Testament.</h3>
 
 Als Harald Harst gegen acht Uhr morgens sein Haus
-verlassen hatte, war er zunächst auf allerhand Umwegen
+verlassen hatte, war er zunächst auf allerhand Umwegen zu
 Fritz Bechert gefahren,
 
-rief hatte er sich, ganz wie ich vermutet, in den alten.
+Hier hatte er sich, ganz wie ich vermutet, in den alten,
 vornehmen und kränklichen Oberst a. D. v. Stümmling verwandelt,
-war dann mit einem lassen vor der Pension Keller
-vorgefahren und hatte hier ein Zimmer belegt, angeblich«
-aus Perücken kommend, um einen Berliner Spezialarzt
+war dann mit einem Koffer vor der Pension Keller
+vorgefahren und hatte hier ein Zimmer belegt, angeblich
+aus Dresden kommend, um einen Berliner Spezialarzt
 seines Beinleidens wegen zu konsultieren.
 
-Das vtie Fräulein v. Keller, von ich:in ins Vertrauen
+Das alte Fräulein v. Keller, von ihm ins Vertrauen
 <@pagebreak/>
 gezogen, hatte ihm die anderen Insassen des Pensionats sehr
 genau beschrieben. Notwendig mußte Haralds Verdacht auf
-eine Dame aus Wandung fallen, die erst zwei Tage hier
-wohnte und die sich als Den!ich-Amerikanerin namens Kabel
-Weber aussprachen hatte.
+eine Dame aus Hamburg fallen, die erst zwei Tage hier
+wohnte und die sich als Deutsch-Amerikanerin namens Mabel
+Weber ausgegeben hatte.
 
 Was diese Weber als recht zweifelhafte Persönlichkeit
-erscheinen ließ, war zuerst hie Vorliebe? für dichte Schleier
+erscheinen ließ, war zuerst ihre Vorliebe für dichte Schleier
 und dann ihre andere Vorliebe für Zimmer mit Flureingang.
-Sie hatte seiner auch sofort einen Hausschlüssel verlangt und
+Sie hatte ferner auch sofort einen Hausschlüssel verlangt und
 war erst spät in der Nacht heimgekehrt.
 
 Kleinigkeiten ergaben hier allerlei belastende Momente.
@@ -2454,13 +2454,13 @@ sehr wohl Eva Larda sein.
 Ein Vergleich ihrer Eintragung im Fremdenbuch des
 Pensionats mit den Schriftproben, die Harst von ihr besaß,
 gaben vollste Gewißheit: Eva war hier in dieses vornehme
-Heim für Reisende geflüchtet! —…
+Heim für Reisende geflüchtet! —
 
 Als Harald dies festgestellt hatte, legte er sich im Nebenzimmer
-auf die Lauer. Es war »dies ein Raum, den Fräulein
-v. Keller selbst bewohnte,«
+auf die Lauer. Es war dies ein Raum, den Fräulein
+v. Keller selbst bewohnte.
 
-So gelang es ihm denn, gegen halb knüllt kurz hinter
+So gelang es ihm denn, gegen halb zwölf kurz hinter
 »Miß Weber« das Haus zu verlassen und ihr dicht auf den
 Fersen zu bleiben.
 
@@ -2468,7 +2468,7 @@ Sie war außerordentlich vorsichtig und mißtrauisch.
 
 Dreimal wäre sie Harald beinahe entschlüpft. Nur seiner
 vielseitigen Erfahrung in dieser Art Verfolgungen hatte er
-es zu danken, »laß er ihre Spur stets wiederfand.
+es zu danken, daß er ihre Spur stets wiederfand.
 
 So kam er denn hinter ihr her bis in den hohen Norden
 Berlins — bis in die endlos lange Müllerstraße.
@@ -2481,12 +2481,12 @@ und benutzte dieses als Spiegel. So konnte er denn beobachten,
 wie Eva dem Bettler eine Münze reichte, die sie erst
 aus ihrem Handtäschchen hervorsuchte …
 
-Aber — zugleich mit der Münze fiel nacht etwas Weibes
+Aber — zugleich mit der Münze fiel noch etwas Weißes
 <@pagebreak/>
 in den schäbigen Filz des bärtigen Gauners: ein kleiner,
-eng zujsammengedrückter Zettel.
+eng zusammengedrückter Zettel.
 
-Eva ging wer;er, als sei nichts geschehen.
+Eva ging weiter, als sei nichts geschehen.
 
 Und — mein Harst nun humpelnd auch an dem Bettler
 vorüber …
@@ -2495,12 +2495,12 @@ Der Mann hatte inzwischen den Zettel überflogen.
 
 Hatte ihn noch in der Hand …
 
-Da — — enltglitt dem alten ’humpelnden Herrn der
-Spazierstockes, flog dem Bettler vor die Füße …
+Da — — entglitt dem alten humpelnden Herrn der
+Spazierstock, flog dem Bettler vor die Füße …
 
 Der Mann bückte sich …
 
-Und — warf dabei den! Bette! hinter sich durch das
+Und — warf dabei den Zettel hinter sich durch das
 Schutzgitter eines Kellers …
 
 Hob den Stock auf …
@@ -2516,21 +2516,21 @@ um seiner Rolle treu zu bleiben und auf ein Trinkgeld zu
 spekulieren, den Stock aufheben. Da war ihm der zusammengeknüllte
 Zettel hinderlich. — Freilich, daß er ihn in den
 Keller werfen würde, hatte ich nicht vorausgesehen. Nein,
-ich rechnete darauf, daß er ihn zunächst sollen lassen würde.
-Dann woll:e ich den einen Fuß wie unabsichtlich auf den
+ich rechnete darauf, daß er ihn zunächst fallen lassen würde.
+Dann wollte ich den einen Fuß wie unabsichtlich auf den
 Zettel stellen und hätte den Mann nach einem Auto geschickt,
 so tuend, als sei es mir unmöglich, mich zu bewegen. —
 Nun — all das war nicht nötig. Ich humpelte weiter …
 Und aus sicherer Entfernung beobachtete ich wieder, wie der
-Bettler davonschltrfte. Ich zurück — zum Portier jenes
+Bettler davonschlurfte. Ich zurück — zum Portier jenes
 Hauses … mich legitimiert … Und dann — hatte ich
-sehen Zettel … — Nase, was darauf zu lesen war?«
+den Zettel … — Rate, was darauf zu lesen war?«
 
 Ich zuckte die Achseln …
 
 »Nun, mein Alter, — — folgendes:
 
-> Abmarsch muß bald erfolgen. Zu Arbeit Gremzig,
+> Abmarsch muß bald erfolgen. Zu Robert Gremzig,
 Klosterstraße 14, erst abends — nur wenig. Morgen wie
 heute.
 
@@ -2542,7 +2542,7 @@ zu Gremzig, versetze oder verkaufe aber nur einen Teil
 der Beute. Morgen treffen wir uns wie heute zur
 selben Stunde und wieder in der Müllerstraße.
 
-Mein nächstes war nun, Bechert zu informieren. Grems-zig
+Mein nächstes war nun, Bechert zu informieren. Gremzig
 ist als Hehler längst verdächtig, war aber bisher nie zu
 fassen. Er ging auf alles ein. — Ich selbst war gegen halb
 drei wieder im Pensionat Keller. Und — mit mir Bechert
@@ -2550,37 +2550,37 @@ und zwei Beamte. Kaum hatten wir mein Zimmer beitreten,
 als Fräulein v. Keller hereinstürmte: »Die Larda geht wieder
 aus! Sie ist vor einer Stunde nach Hause gekommen.«
 — Wir also hinter ihr her … Einzeln natürlich …
-Und — — wohin ging sie? Nase mal?«
+Und — — wohin ging sie? Rate mal?«
 
-»schwor zu raten …«
+»Schwer zu raten …«
 
-»ins — Leichenschauhaus, mein Alter …! Sie wollte
-feststellen, ob etwa Bodo Jüllich: erkannt worden sei …«
+»Ins — Leichenschauhaus, mein Alter …! Sie wollte
+feststellen, ob etwa Bodo Jüllich erkannt worden sei …«
 
-»Ab … Und Ihr …?«
+»Ah … Und Ihr …?«
 
 »Wir ließen sie ruhig erst mit einem der Beamten dort
 sprechen … Sie tat so, als ob sie als Fremde lediglich
 aus allgemeinem Interesse, also Sensationsbedürfnis, das
 Schauhaus besuchte. Ich stand in der Nähe … vor der
 Abteilung, in der der arme Bodo lag, machte sie wieder halt.
-— »Wer ist das?« — »Sir Maler, der in seinem Atelier
-verbrannt ist …« — — Und da, da — gerissen wir zu …
+— »Wer ist das?« — »Ein Maler, der in seinem Atelier
+verbrannt ist …« — — Und da, da — griffen wir zu …
 Bechert trat vor … Es gab eine sehr dramatische Szene.
 Er sagte ihr den Mord auf den Kopf zu … Plötzlich —
 schob sie eine Giftpille in den Mund … Nach drei Minuten
 war sie tot … Ihre letzten Worte: »Ich habe ein
-Testament in meinem lassen …!« — Der Arzt konnte
-nur besjtätigen, daß sie tot war. Der scharfe Bittermandelgeruch
+Testament in meinem Koffer …!« — Der Arzt konnte
+nur bestätigen, daß sie tot war. Der scharfe Bittermandelgeruch
 aus ihrem Munde besagte ja auch genug: Zyankali!
--“-« Die Leiche blieb gleich im Schauhause. Bechert und ich
+— Die Leiche blieb gleich im Schauhause. Bechert und ich
 fuhren nach dem Wilhelmplatz zurück, wo wir auch das
 Testament fanden. Es War eine Niederschrift vom Juni
 <@pagebreak/>
 diese Jahres. Eva Larda wünscht im Falle ihres Todes
 eingeäschert zu werden. Sie hat die Beerdigungskosten von
 ihrem Verdienst bei der Firma zusammengespart, für die sie
-als Zeichnerin tätig war — also ehrlich) erworbenes Geld.
+als Zeichnerin tätig war — also ehrlich erworbenes Geld.
 Außerdem lag dem Testament noch die für die Einäscherung
 notwendige polizeiliche Bescheinigung bei. — Bechert meint,
 die Behörden würden gegen die Verbrennung der Toten
@@ -2607,7 +2607,7 @@ vom Olymp, denn — die vergaßen wir nicht!
 
 <@pagebreak/>
 Nein, am zweiten Tage nach Evas Tode besuchten wir
-das Cafee in der Tilsiter Straße unmastfkiert …
+das Cafee in der Tilsiter Straße unmaskiert …
 
 Saßen im Kreise der Olympier bei Rotwein und guten
 Zigarren …
@@ -2622,8 +2622,8 @@ Kneiperei heim. Der Abschied von den zumeist stark bezechten
 »Kollegen« war überaus herzlich gewesen. Der gelbe
 Anton hatte wiederholt noch seinem Bedauern darüber Ausdruck
 gegeben, daß wir beide leider »am anderen Ende des
-Strauches zogen«, wie er seine und unsere Tätigkeit sein
-umschrieb. Er war als »Klingelfahrer«, als Wohnung3-dieb
+Stranges zogen«, wie er seine und unsere Tätigkeit fein
+umschrieb. Er war als »Klingelfahrer«, als Wohnungsdieb
 berüchtigt. —
 
 So schien denn die Episode Eva Larda für uns erledigt
@@ -2631,7 +2631,7 @@ zu sein …
 
 schien …!!
 
-Auf die sfeuchhtfröhliche, komisch;e und auch wieder recht
+Auf die feuchtfröhliche, komische und auch wieder recht
 interessante Zusammenkunft mit unseren »Freunden vom
 anderen Strangende« folgte — das Grauen …
 
@@ -2640,8 +2640,8 @@ hatten um acht auf der Veranda gefrühstückt …
 
 Dann — rief Bechert uns an …
 
-Die Tiefere war — entflohen … Vor einer halben
-Stunde … instruiert und kühn wie ihre Diebereien war
+Die Giesecke war — entflohen … Vor einer halben
+Stunde … Raffiniert und kühn wie ihre Diebereien war
 ihre Flucht gewesen … —
 
 Und kaum hatte Bechert uns dies mitgeteilt, als draußen
@@ -2664,8 +2664,8 @@ Er lallte — schluckte …
 
 »Der — der Motorradler damals, der den Brief im
 Cafee abjab, Herr Schraut … Sie wissen schon … Der
-Motorradler war die Jiesecke … Und heit is so aus ’m
-Polizeipräsidium setürmt … Riß in ihrer Angst ins Caffee
+Motorradler war die Jiesecke … Und heit is se aus ’m
+Polizeipräsidium jetürmt … Is in ihrer Angst ins Cafee
 jekommen …«
 
 Er schnappte nach Luft …
@@ -2678,8 +2678,8 @@ wird … »Heite vormittag …« sagten wir ihr.
 Und da hat se losjebrüllt: »Sie is jar nich tot … Nee —
 se hat man ein Betäubungsmittel mit Bittermandelöl jenommen
 … Und ich sollte sie dann wieder aufwecken …!«
-= Und da, 5 Herr, Harst, — — da sind wir alle mit ’n Mal
-nüchtern jeworden. — »- Da haben se mir nu zu Ihnen jeschickt,
+— Und da, Herr Harst, — — da sind wir alle mit ’n Mal
+nüchtern jeworden … Da haben se mir nu zu Ihnen jeschickt,
 und —«
 
 Harald riß den gelben Anton mit sich …
@@ -2690,13 +2690,13 @@ In das wartende Auto …
 
 Zum Krematorium ging’s in der Berliner Straße …
 
-Der Chauffeur Stuhl wie der Teufel …
+Der Chauffeur fuhr wie der Teufel …
 
 Um neun sollte die Einäscherung erfolgen …
 
 Und jetzt: fünf Minuten vor neun …
 
-Blaß und still saßen wir drei in dem schillernden Auto.
+Blaß und still saßen wir drei in dem schüttelnden Auto.
 Und — das Grauen saß neben uns …
 
 Ein so ungeheures Grauen, daß mir der Unterkiefer
@@ -2705,13 +2705,13 @@ wenn auch bewußtlos, in die feurige Gruft hinabgesenkt
 würde …
 
 Gewiß: den Tod hatte sie verdient! Freventlich hatte
-ie Menschenleben vernichtet …
+sie Menschenleben vernichtet …
 
 Aber — — dieses Ende …!!
 
-Und — mir lief der eiskalte Schweiß von der trügen. —
+Und — mir lief der eiskalte Schweiß von der Stirn. —
 
-setzt der Fehrbelliner Platz …
+Jetzt der Fehrbelliner Platz …
 
 Jetzt die Berliner Straße …
 
@@ -2720,13 +2720,13 @@ Wir hatten es Ja nicht weit bis dahin …
 
 Noch zwei Minuten …
 
-Die rote Kirchhofs8mauer …
+Die rote Kirchhofsmauer …
 
 Ein Ruck …
 
-Wir springen alte dem also …
+Wir springen aus dem Auto …
 
-Harst läuft wie geholt durch das Tor — nach rechts …
+Harst läuft wie gehetzt durch das Tor — nach rechts …
 Und …: um eine halbe Minute kamen wir zu spät …
 Lehnten an der Tür der Halle …
 
@@ -2736,13 +2736,13 @@ Und der gelbe Anton — faltete unwillkürlich die Hände:
 
 »Jott sei ihr jnädig …!«
 
-Selbst ihn halte dies« alles bis ins tiefste Seeleninnere
-orschfittert … — —
+Selbst ihn hatte dies alles bis ins tiefste Seeleninnere
+erschüttert … — —
 
 *So* starb Eva Larda …
 
 Charlotte Giesecke stellte sich freiwillig der Polizei und
-— Wunsche in ihrer Zelle irrsinnig …
+— wurde in ihrer Zelle irrsinnig …
 
 Sie mußte Eva Larda auf ihre Art wie ein Kind geliebt
 haben, und der Gedanke, daß durch ihr zu spätes Geständnis
@@ -2753,11 +2753,11 @@ Hiermit schließe ich die Akten Eva Larda.
 
 Nicht die Jean Ahmed Bissus, des Inders …
 
-Darüber im folgenden, in *den* folgender Bänden:
-Inder, Land der Wunderträume, —« wir sahen Dich
-wieder
+Darüber im folgenden, in *den* folgenden Bänden:
+Indien, Land der Wunderträume, — wir sahen Dich
+wieder!
 
 Nächster Band:
 
-__Die Photographien des Sennor Schwalbe.__
+__Die Photographien des Sennor Trimaldo.__
 
