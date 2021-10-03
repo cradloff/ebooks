@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">e5440f34-2458-11ec-9158-8779fb31d84c</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Diamanten des Bettlers</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">133</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Diamanten des Bettlers
+
+Nie ist ein Weib so heiß begehrt worden wie Eva Larda, die aschblonde schlanke Schönheit …
+
+Nie haben sich eines Weibes wegen gleichzeitig Hunderte von intelligenten Männern derart bemüht: die ganze Berliner Kriminalpolizei!
+
+Nie war ein Fangobjekt so schlau und so vielgestaltig wie Eva Larda, ließ sich von niemand umstricken — — selbst von Harald Harst nicht!
+
+Zwei Morde auf dem Gewissen, dazu Diebstähle, Betrügereien, zuletzt den Juwelendiebstahl bei Generaldirektor Benatzki: kein Wunder, daß alle Welt nach ihr suchte!
+
+Auch wir — auch wir, ganz umsonst …
+
+Die Amazonen
+
+Drei Uhr morgens …
+
+Das Cafee Olympia ist längst geschlossen. Alle Fenster dunkel …
+
+Aber wir kennen die Eigenart solcher Verbrecherhöhlen.  Da gibt es stets Hinterzimmer, in denen man sich bis zum frühen Morgen vergnügt. Da gibt es stets geheime Zeichen, die dem Eingeweihten Zutritt verschaffen …
+
+»Warten wir,« meint Harald …
+
+Endlich öffnet er also den Mund — endlich …
+
+»Meine letzte Hoffnung ist der schöne Bodo …« fährt er ebenso leise fort. »Ich kann mir nicht recht denken, daß er seinen Posten als »Steher« ohne zwingende Gründe verlassen hat. Er bekommt doch noch Geld von uns, und —«
+
+»Achtung!« rief ich mit gedämpfter Stimme dazwischen. »Achtung!! Da ist er schon!«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (133) Die Diamanten des Bettlers.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
