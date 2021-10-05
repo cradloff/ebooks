@@ -426,9 +426,9 @@ Diese Flagge leitete Harald Harsts zweite Liebe ein …
 <h3>Der Geist des Dschebel Hagier.</h3>
 
 Die drei zum Sultanat Sokotra gehörigen Inseln liegen
-zwischen der Ostspitze Afrikas (Kap Guardasui) und Arabien.
-Die Hauptinsel Sokotra sowie die benachbarten (Eilande
-darin und Kamin stehen unter britischer Eheliches:. Der
+zwischen der Ostspitze Afrikas (Kap Guardafui) und Arabien.
+Die Hauptinsel Sokotra sowie die benachbarten Eilande
+Darsa und Samha stehen unter britischer Oberhoheit. Der
 Sultan erfreut sich jedoch großer Selbständigkeit, da sein
 Reich zu abgelegen ist, um für die Engländer als Kolonie
 in Betracht zu kommen. —
@@ -436,112 +436,112 @@ in Betracht zu kommen. —
 Nach diesen kurzen Vorbemerkungen zurück an Bord
 unserer schmucken, seetüchtigen Atlantis …
 
-Wir hatten außer John Trolby noch zwei Katholische
-Matrosen mitgenommen, junge, ihre Kerle, die uns in Kalkutta
+Wir hatten außer John Trolby noch zwei malaiische
+Matrosen mitgenommen, junge, fixe Kerle, die uns in Kalkutta
 warm empfohlen worden.
 
-Gitter und Atiru waren Brüder. Die Malaien sind als
+Sikiri und Atiru waren Brüder. Die Malaien sind als
 tadellose Seeleute sehr begehrt. Sie sind nüchtern, zuverlässig
 und anstellig. All ihre Vorfahren waren Piraten,
 und noch heute gibt es an den entlegenen Küsten Borneos
-Matlaiendörfer, die heimlich Seeraub treiben. —
+Malaiendörfer, die heimlich Seeraub treiben. —
 
-Wir stört verstanden uns sehr gut. Gitter und Atiru
+Wir fünf verstanden uns sehr gut. Sikiri und Atiru
 waren rasch für Harald derart begeistert, daß wir ihnen
-völlig trauen konnten, doch erst am fünften Reiset6ge anführen
-erste, wohin wir unterwegs wäret!,
+völlig trauen konnten. Doch erst am fünften Reisetage erfuhren
+sie, wohin wir unterwegs waren.
 
-Harst tote in Kalkutta mit einiger Mühe eine genaue
-Karte des Sultanats Sokotra ausgetrieben. Unser Ziel war
+Harst hatte in Kalkutta mit einiger Mühe eine genaue
+Karte des Sultanats Sokotra aufgetrieben. Unser Ziel war
 die Ostküste der Hauptinsel Sokotra, wo wir irgendwo insgeheim
 vor Anker gehen wollten.
 
 Am neunten Abend nach unserer Ausreise erreichten wir
 das Vorgebirge Tamaska mit seinen buchtenreichen benachbarten
-Küstenstrichen. Dieser achteckige und völlig unsruchtd-bare
-kleine Inselteil ist unbewohnt. Sokotra bat bei 3500
+Küstenstrichen. Dieser achteckige und völlig unfruchtbare
+kleine Inselteil ist unbewohnt. Sokotra hat bei 3500
 Quadratkilometer Größe rund zehntausend Einwohner, ist
 also sehr dünn besiedelt.
 
 <@pagebreak/>
 Bereits bei Dunkelheit steuerten wir auf gut Glück in
-eine der Buchten hinein und Falschem in deren äußersten
+eine der Buchten hinein und warfen in deren äußerstem
 Winkel Anker.
 
-Wir hatten es insofern an! getroffen, als hier in den
-Monaten April bis blieben der Nordositmonsun Zwerges
-und fühblerces Wetter bringt. Sokotra ist zur Regenzeit
-außerordentlich ungesund. Todes im Mai standen wir es in
-der stillen Bucht ich)1t angenehm, fanden auch ringesum eine
-Bergszeucrie, deren siellemweiter tropiji’ber Baumschmuck im
-Mondenlicht die Felswildnis Getreulich belebte.
+Wir hatten es insofern gut getroffen, als hier in den
+Monaten April bis Oktober der Nordostmonsun trockenes
+und kühleres Wetter bringt. Sokotra ist zur Regenzeit
+außerordentlich ungesund. Jetzt im Mai fanden wir es in
+der stillen Bucht recht angenehm, fanden auch ringsum eine
+Bergszenerie, deren stellenweiser tropischer Baumschmuck im
+Mondenlicht die Felswildnis erfreulich belebte.
 
-gern Mitternacht hatte Stiller, der nebenbei auch den
-so spielte, das Abendessen fertig. Am liebsten hatten wir
-ja aus Deck soupiert, da wir aber unbemerkt bleiben wollten,
-speisten wir in der kleinen Karte bei dicht verlangten ermitteln.
-Stirn und Atiru aßen zumeist gleich in der Kombüse.
+Gegen Mitternacht hatte Sikiri, der nebenbei auch den
+Koch spielte, das Abendessen fertig. Am liebsten hätten wir
+ja auf Deck soupiert, da wir aber unbemerkt bleiben wollten,
+speisten wir in der kleinen Kajüte bei dicht verhängten Fenstern.
+Sikiri und Atiru aßen zumeist gleich in der Kombüse.
 
-Während wir drei Europäer so dem schmachasten Flucht
-Gericht (E:still hatte mit oder WValaienacschiklichkeit schon
+Während wir drei Europäer so dem schmackhaften Fischgericht
+(Sikiri hatte mit echter Malaiengeschicklichkeit schon
 während der Einfahrt in die Bucht Angeln ausgeworfen
-und auch einen meterlangen ekßbaren Fisch erbeutet) mit
-allem Behagen zusprechen, erörterten wir nochmals unsere
-Pläne für die kommenden Tone.
+und auch einen meterlangen eßbaren Fisch erbeutet) mit
+allem Behagen zusprachen, erörterten wir nochmals unsere
+Pläne für die kommenden Tage.
 
 Am Morgen wollten Harald und ich verkleidet zu Fuß
-nach Tamrida, dem Hauptopfer und der Hauptstadt Sokotras,
-wandern und vor! nach Nr Maulfaul Erkundigungen eine
-sieben. Die Atlantis sollte derweil unter Trolbys und der
+nach Tamrida, dem Haupthafen und der Hauptstadt Sokotras,
+wandern und dort nach Ali Mansur Erkundigungen einziehen.
+Die Atlantis sollte derweil unter Trolbys und der
 Malaien Obhut hier in der Bucht bleiben, wo wir die Jacht
-bei Tageceanbruch noch) besser verbergen wollten.
+bei Tagesanbruch noch besser verbergen wollten.
 
-Trolby hatte sich dann gerade seine JY’jeise angezündet,
+Trolby hatte sich dann gerade seine Pfeife angezündet,
 und Harald hatte soeben die drei Likörgläser gefüllt, als
 irgendwoher von Land ein merkwürdig lauter und doch
 schwer bestimmbarer Schrei bis zu uns in die kleine Kajüte
-drang. die Tür Pracht dem Treppenniedergang stand weit
+drang. Die Tür nach dem Treppenniedergang stand weit
 offen und der Treppenschacht wirkte gleichsam als Schallverstärker
 …
 
 Der Schrei setzte ganz leise ein, schwoll an, behielt sekundenlang
 <@pagebreak/>
-dieselbe Tonstärke und verklang in einem ganz)
+dieselbe Tonstärke und verklang in einem ganz
 merkwürdigen Gurgeln.
 
-Wie die! schauten uns überrascht an …
+Wir drei schauten uns überrascht an …
 
 Da kamen auch schon die beiden Malaien die Treppe
-hinabgeslitt …
+hinabgeflitzt …
 
 Beide angstschlotternd …
 
-Beide vor unglaublicher »Furcht fast von Sinnen …
+Beide vor unglaublicher Furcht fast von Sinnen …
 
 Atiru, der ältere, fiel fast vor Harald auf die Knie.
 
 »Tuwan (Herr), wir müssen fliehen!« stammelte er …
 »Tuwan, mein Bruder und ich sind nicht zum ersten Male
-aus Sokotra … Tuwan, wir waren zwei Wochen in
-Tamrida … Alle Schaffner fürchten den Herrn der
-Dschebel Hagier (höchster Berg der Insel, war in der Fern!
-nach Süden zu im Mondlicht zu erkennen) … Denn der
-Herr des Dschebel Hagier durch die Insel fliegt verkriecht
+auf Sokotra … Tuwan, wir waren zwei Wochen in
+Tamrida … Alle Sokotraer fürchten den Herrn der
+Dschebel Hagier (höchster Berg der Insel, war in der Ferne
+nach Süden zu im Mondlicht zu erkennen) … Wenn der
+Herr des Dschebel Hagier durch die Insel fliegt, verkriecht
 sich alles … Damals vor einem Jahr hat er dicht bei
 Tamrida zehn Menschen getötet … Und da haben wir bis
-zum Hafen hinab sein Heulen gehört … Da erzählten und
+zum Hafen hinab sein Heulen gehört … Da erzählten uns
 die Leute, was es mit dem Herrn des Dschebel Hagier auf
-sich hat … Es ist ein böser Geist, Tuwan … Noch nie
-jemand hat ihn gesehen … Aber seine Stimme ist meilenweit
+sich hat … Es ist ein böser Geist, Tuwan … Noch niemand
+hat ihn gesehen … Aber seine Stimme ist meilenweit
 zu hören …«
 
-Er wollte noch mehr hinzufügen, der brave, abergläiw
-bitte Bursche … Doch schon von neuem echte jener merkwürdige
-Ton ein - ». Und jetzt horchte ich (Frauen bin
-Es klang in der Tat wie ein Schrei aus der Kehle eine0
+Er wollte noch mehr hinzufügen, der brave, abergläubische
+Bursche … Doch schon von neuem setzte jener merkwürdige
+Ton ein … Und jetzt horchte ich genauer hin.
+Es klang in der Tat wie ein Schrei aus der Kehle eines
 Riesen — wie ein Wutgebrüll … Und doch war auch
-etwas Unheimliches, Unrechtes dabei, besondere wenn die
-Töne leise vibrierten und so ganz alliniählich erstanden.
+etwas Unheimliches, Unirdisches dabei, besonders wenn die
+Töne leise vibrierten und so ganz allmählich erstarben.
 
 Harald war längst an Deck.
 
@@ -550,12 +550,12 @@ Treppe hinan …
 
 Und als nun wieder alles still geworden, folgte ich ihm.
 
-Er lehnte on der Backbordreling … Unsere Jacht lag
-genau in der Mitte des hier etwa zehn Meter breiten Buchs
-Schlupfwinkels vor Master.
+Er lehnte an der Backbordreling … Unsere Jacht lag
+genau in der Mitte des hier etwa zehn Meter breiten Buchtwinkels
+vor Anker.
 
 <@pagebreak/>
-Zu beiden Seiten rechten sich die Steilufer in unregelmäßigen
+Zu beiden Seiten reckten sich die Steilufer in unregelmäßigen
 Terrassen wohl hundert Meter hoch dem Firmament
 entgegen.
 
@@ -563,7 +563,7 @@ entgegen.
 
 Und da — begann diese Folge unheimlicher Töne von
 neuem … Und jetzt merkte ich, daß sie aus unendlicher
-Ferne kamen, daß der Wind sie uns von! Dschebel Hagier
+Ferne kamen, daß der Wind sie uns vom Dschebel Hagier
 zutrug und daß sie doch eine ungeheure Kraft hatten.
 
 Wir lauschten regungslos.
@@ -578,47 +578,47 @@ Mein erstaunter Blick machte ihn lächeln …
 »Natürlich ein Blasinstrument von ungeheuren Abmessungen,«
 ergänzte er.
 
-»am — und wer soll die nötige Lungenkraft haben, es
+»Hm — und wer soll die nötige Lungenkraft haben, es
 zu blasen?!«
 
 »Deine Ironie ist hier nicht am Platze,« erklärte er ernst.
 Du hörtest ja von Atiru, daß diese Töne stets den Tod von
 Menschen im Gefolge haben. Also liegt hier irgendeine
-Schurkerei vor …
+Schurkerei vor …«
 
 Ich schwieg … Diese Deutung erschien mir denn doch
 zu gewagt.
 
 »Von hier bis Tamrida, die Hauptstadt, sind’s etwa fünf
 Meilen,« fügte Harald wieder hinzu. »Der Wind steht so,
-blaß der Schall recht gut bis dorthin getragen. werden kann.
+daß der Schall recht gut bis dorthin getragen werden kann.
 Bei dieser fabelhaften Tonstärke wird dieses rätselhafte Instrument
 unglaubliche Entfernungen überbrücken …«
 
 Ich verzog das Gesicht …
 
 »Entschuldige, Harald: Wer sollte hier ein solches Instrument
-von diesen Dimensionen ausbauen und vielleicht
+von diesen Dimensionen aufbauen und vielleicht
 durch Dampfkraft oder durch elektrische Kraft zum Tönen
 bringen — hier in diesem halbzivilisierten Sultanat?!«
 
 »Du meinst, die technische Anlage würde bald entdeckt
-werden, weil Sokotra da schließlich nicht allzu ausgedehnt
+werden, weil Sokotra doch schließlich nicht allzu ausgedehnt
 <@pagebreak/>
 ist und weil der englische Resident in Tamrida sich längst
-der Sache angenommen hätte?! — Nun, wir werden mal
-gen in Tamrida sein, und wir haben nun auch einen guten
-Grund, Lord Geendet, den Postbeamten, in aller Stille zu versuchen
+der Sache angenommen hätte?! — Nun, wir werden morgen
+in Tamrida sein, und wir haben nun auch einen guten
+Grund, Lord Teepool, den Postbeamten, in aller Stille zu besuchen
 …« —
 
 John Trolby war neben uns erschienen …
 
-»ja, wie steht’s mit dem Geist des Dschebel Hagier?!«
-Und auch er hatte geringschäpig. »Unsere Malaien sind
-noch halb trank vor Angst … Ich habe jedem zwei
-Schnäpse eingeflößt … Auch das hat nichts gehalten!«
+»Na, wie steht’s mit dem Geist des Dschebel Hagier?!«
+Und auch er lachte geringschätzig. »Unsere Malaien sind
+noch halb krank vor Angst … Ich habe jedem zwei
+Schnäpse eingeflößt … Auch das hat nichts geholfen!«
 
-Harald schaute zum seinen Gipfel des 1400 Meter hohen
+Harald schaute zum fernen Gipfel des 1400 Meter hohen
 Berges hinüber.
 
 Sagte sinnend: »Gehen wir wieder hinab in die Kajüte.
@@ -631,7 +631,7 @@ Atiru berichtete ganz verständig folgendes:
 
 Er und sein Bruder waren damals vor einem Jahr
 Matrosen auf einem englischen Dampfer, der in Tamrida
-- einen Teil seiner Ladung gelöscht und dafür Landesprodukte
+einen Teil seiner Ladung gelöscht und dafür Landesprodukte
 an Bord genommen hatte. Auch damals waren die seltsamen
 Töne nach Mitternacht erklungen und auch nur dreimal
 kurz hintereinander. Am Morgen hatte man vor der
@@ -639,7 +639,7 @@ Stadt zehn tote Araber neben einem Steinhügel gefunden,
 denen sämtlich die Schädel eingeschlagen worden waren.
 Die Hafenkulis hatten der Besatzung des Dampfers erzählt,
 daß der Herr des Dschebel Hagier sich selten meldet,
-daß stets jedoch nach einer solchen Nacht irgendwo Tote Es
+daß stets jedoch nach einer solchen Nacht irgendwo Tote
 gefunden würden.
 
 Mehr wußte auch Atiru nicht.
@@ -647,19 +647,19 @@ Mehr wußte auch Atiru nicht.
 Immerhin hatte dieses »Nachtkonzert« die Folge, daß
 Harald zwischen uns fünf die Wachen ausloste, während er
 vorher nur bestimmt hatte, die beiden Malaien sollten abwechselnd
-an Dr« bleiben - bis zum Morgengrauen. Da
+an Deck bleiben — bis zum Morgengrauen. Da
 es gegen vier Uhr hell wurde, sollten immer zwei von uns
 <@pagebreak/>
-je anderthalb Stunden wachen. Atiru und!ich erwischten
+je anderthalb Stunden wachen. Atiru und ich erwischten
 die erste Nummer. Die anderen gingen schlafen.
 
 Der Malaie und ich lehnten uns nebeneinander an die
 Backbordreling und blickten eine Weile schweigend zum Bergmassiv
-des Dschebel Hagier hyinüber.
+des Dschebel Hagier hinüber.
 
 »Tuwan Schraut,« sagte Atiru dann leise, »Du solltest
 Tuwan Harst abraten, nach Tamrida zu gehen … Ihr
-weiter dort erkannt werden, und ein Giaur (Ungläubigen)
+werdet dort erkannt werden, und ein Giaur (Ungläubiger)
 ist dort nie seines Lebens sicher. Die Araber sind fanatische
 Mohammedaner, und …«
 
@@ -672,16 +672,16 @@ breiter war, beleuchtete der Vollmond noch die Hälfte der
 Wasserfläche.
 
 Und aus dieser hellen Dämmerung glitt ein kleines Boot
-in das Dunkel hinein … ohne Frau handhabte aufrecht
-stehend ein Ruder, bald Backbord, bald stieuerbord es eintauchend
-… ohne Europäerin … Blond, schlank, hell
+in das Dunkel hinein … Eine Frau handhabte aufrecht
+stehend ein Ruder, bald Backbord, bald Steuerbord es eintauchend
+… eine Europäerin … Blond, schlank, hell
 gekleidet …
 
 Dann war das Boot schon hinter einem Felsvorsprung
 im Schatten verschwunden …
 
 »Sie hat uns nicht bemerkt,« flüsterte der Malaie.
-»Sollen wir nicht Tuwan Harst! weder? Es ist hier nicht
+»Sollen wir nicht Tuwan Harst wecken? Es ist hier nicht
 geheuer …«
 
 Ich überlegte …
@@ -691,53 +691,53 @@ stutzig. Doch — deshalb Harald die Nachtruhe rauben?
 Nein — ich plante anderes … —
 
 Und sagte zu Atiru: »Der Mond wird bald vollständig
-hinter den Anhöhen versinken. Dann werde ich unser Vollbart
+hinter den Anhöhen versinken. Dann werde ich unser Beiboot
 nehmen und vorsichtig der Frau folgen …«
 
 Der Malaie beschwor mich geradezu, dieses Wagnis zu
-zu unterlassen. Ich blieb bei meinem Ciatschluß. Und schon
-zehn anrufen später hatten wir das leichte Beiboot, eine
+unterlassen. Ich blieb bei meinem Entschluß. Und schon
+zehn Minuten später hatten wir das leichte Beiboot, eine
 <@pagebreak/>
 Nußschale, zu Wasser gebracht und die Ruder hineingelegt
 
-Ich Blick von der Garantie ab, hatte meine 3cspanntt
-und entsicherte Clement in die rechte Jackentasche gesteckt!
-und eine brennende, mit einem Gute bedeckte ja:eine vor
-mich auf die andere Waterkant gestellt.
+Ich stieß von der Atlantis ab, hatte meine gespannte
+und entsicherte Clement in die rechte Jackentasche gesteckt
+und eine brennende, mit einem Tuche bedeckte Laterne vor
+mich auf die andere Ruderbank gestellt.
 
-Weit möglichst setzen schlagen trieb ich das Bot jenem
-Felevoispung zu.
+Mit möglichst leisen Schlägen trieb ich das Bot jenem
+Felsvorsprung zu.
 
 Hätte ich ahnen können, was meiner wartete, so wäre
-ich — beginnt an Bord der Jacht geblieben — bestimmt!
+ich — bestimmt an Bord der Jacht geblieben — bestimmt!
 
 <h2>4. Kapitel.</h2>
-<h3>Ein Höhlenabentkeuer.</h3>
+<h3>Ein Höhlenabenteuer.</h3>
 
-Daß kleine Vorgebirge hier an der Südseite der Bucht
-bildete ein Herr, das zwischen seiner Spitze und dem Ufer
-um eine Einfacher von etwa fünf wieder Breite freiließ. will
-aliermrößter Vorsicht drückte ich das Boot in diesen engen
-Kanal hinetimm (Co war hier so finster daß nur der Widerschein
+Das kleine Vorgebirge hier an der Südseite der Bucht
+bildete ein Horn, das zwischen seiner Spitze und dem Ufer
+nur eine Einfahrt von etwa fünf Meter Breite freiließ. Mit
+allergrößter Vorsicht drückte ich das Boot in diesen engen
+Kanal hinein. Es war hier so finster, daß nur der Widerschein
 des Sternenhimmels aus dem Wasser spärliches Licht
-sprudelte,
+spendete.
 
-Au meinem Eistannen merkte ich bald, daß der Kanal
+Zu meinem Erstaunen merkte ich bald, daß der Kanal
 in die Uferberge hineinführte, daß hier also eine mit Wasser
 gefüllte Höhle sich öffnete.
 
-Vor mir nun aller Schwärzeste Finsternis. Es war Mehl
+Vor mir nun allerschwärzeste Finsternis. Es war nicht
 einmal die Hand vor Augen zu sehen.
 
-Wenn ich kannte Harald bei mir gehabt hätte, wäre er
-wohl weniger verwauenseselig in diese unheimliche totenstille
-solle eingedrungen als ich, Er hätte sich schon früher als
-ich gesagt, daß der Eingang der teilte, den ich soeben passiert
-beide. immerhin so hell sich abzeichnete, daß mein Boot vom
+Wenn ich damals Harald bei mir gehabt hätte, wäre er
+wohl weniger vertrauensselig in diese unheimliche totenstille
+Höhle eingedrungen als ich. Er hätte sich schon früher als
+ich gesagt, daß der Eingang der Höhle, den ich soeben passiert
+hatte, immerhin so hell sich abzeichnete, daß mein Boot vom
 Innern der Grotte aus notwendig bemerkt werden mußte,
 
-Und ich?! — Ich bildete mir ein, hier in diesem laut-wien
-Schweigen, hier in dieser pechschwarzen Dunrkelbeit
+Und ich?! — Ich bildete mir ein, hier in diesem lautlosen
+Schweigen, hier in dieser pechschwarzen Dunkelheit
 <@pagebreak/>
 könnten doch unmöglich Menschen sich aufhalten … Ich
 vermutete, die Höhle würde sehr bald nach ein paar Biegungen
@@ -747,18 +747,18 @@ Weib, das bei Nacht hier auftaucht im kleinen Boot, kann
 ja nur Wege wandeln, die ebenso dunkel und undurchdringlich
 sind wie diese ganze seltsame Umgebung.
 
-Und ich trieb mein Boot jetzt noch4 latutkoser vorwärts.
+Und ich trieb mein Boot jetzt noch lautloser vorwärts.
 Zum Glück waren die Ruderdollen gut geölt. Sie kreischten
-nicht. Ganz langsam kam ist weiter und weiter in diese
+nicht. Ganz langsam kam ich weiter und weiter in diese
 unbekannte Höhlenwelt hinein …
 
 Als ich mich einmal umschaute, sah ich den bogenförmigen
 Eingang hinter mir wie einen verschwommenen Fleck undeutlich
 schimmern.
 
-Und wieder wagte ist zwei bedächtige Riuderschläge …
+Und wieder wagte ich zwei bedächtige Ruderschläge …
 
-Bis die Spie meines Bootes an irgendeinem Gegenstand
+Bis die Spitze meines Bootes an irgendeinem Gegenstand
 entlangschrammte.
 
 Und dann drei, vier Fäuste mich packten …
@@ -769,11 +769,11 @@ Fäuste, die unsichtbar nach mir griffen — wie Gespensterhände
 Die ich nicht sah, nur fühlte …
 
 Fäuste, deren Kraft mein lähmender Schreck fast überflüssig
-machte, denn ich — wehrte mich nicht. Ich war se-funbenlag
-nur ein willenloses Ständer …
+machte, denn ich — wehrte mich nicht. Ich war sekundenlang
+nur ein willenloses Bündel …
 
-Wurde emporgerissen, auf den Norden des Bootes ihn
-drückt, und etwas Kaffee legte sich mit scharfem Dja auf
+Wurde emporgerissen, auf den Boden des Bootes gedrückt,
+und etwas Kaltes legte sich mit scharfem Druck auf
 meine Kehle: eine Messerklinge …
 
 Eine Stimme dicht Über mir — heiser flüsternd, in
@@ -782,13 +782,13 @@ englischer Sprache:
 »Gib Antwort … Lüge nicht … Wenn Du lügst,
 ist es Dein Tod! — Wer bist Du?«
 
-Und wie stets, wenn die LebenI3gesahr gleichsam ihren
+Und wie stets, wenn die Lebensgefahr gleichsam ihren
 Höhepunkt erreicht, schwand auch das lähmende Entsetzen
-Über diesen so völlig znerwarteten Angriff.
+Über diesen so völlig unerwarteten Angriff.
 
 Mein Hirn wurde klar … Mein Hirn arbeitete mit
 <@pagebreak/>
-jener Fronarbeit, die in solchen Momenten geradezu erstaunlich
+jener Promptheit, die in solchen Momenten geradezu erstaunlich
 ist.
 
 Ich hatte im Nu mir alles überlegt, was ich sagen durfte
@@ -798,7 +798,7 @@ gewesen … Diese Leute hier würden bei ihrem dunkeln
 Treiben einen Detektiv als gefährlichsten Feind stets stumm
 machen …
 
-Also …!
+Also …:
 
 »Doktor Martin Schrott heiße Ich, bin Gelehrter, Privatdozent
 an der Universität Berlin …«
@@ -815,10 +815,10 @@ Eine Weile nichts …
 
 Es waren mindestens drei Kerle, die mich festhielten, und
 dem Geruch nach waren es fraglos Neger. Wer viel mit
-Farbigen zu tun gehabt hat, lernt die typischen Körper-ausdüinstungen
+Farbigen zu tun gehabt hat, lernt die typischen Körperausdünstungen
 unterscheiden. Ein Neger »riecht« anders
 als etwa ein Inder oder Chinese. Jede Rasse hatte in
-dieser Beziehung ihre Verseciiebenheiten, -
+dieser Beziehung ihre Verschiedenheiten.
 
 Und dann wieder das heisere Flüstern — eine verstellte
 Stimme, vielleicht sogar die der blonden Frau:
@@ -829,7 +829,7 @@ Rasch entschlossen, in unbewußtem Mißtrauen, daß diese
 Leute irgendwie zu Ali Mansur in Beziehungen stehen
 könnten, erwiderte ich:
 
-»Atlanta … Wir haben nur noch drei farbige Matrosen
+»Allania … Wir haben nur noch drei farbige Matrosen
 an Bord, sind also zu fünfen … — Ich bitte Sie,
 mich wieder freizugeben … Wir sind harmlose Gelehrte
 und erst abends hier in der Bucht vor Anker gegangen.« —
@@ -841,15 +841,15 @@ Und wieder die heisere Stimme
 »Wenn Sie Deutscher sind, so werden Sie mir auch
 deutsch antworten können.« Und — nun in meiner Muttersprache:
 »Wie lange bleiben Sie hier in der Bucht?« — Das
-Deutsch des Unsichtbaren hatte erbat Hartes, Flachbootes,
-so, als ob der Schließende Nase oder Pole sei. (Falls es
+Deutsch des Unsichtbaren hatte etwas Hartes, Abgehacktes,
+so, als ob der Betreffende Russe oder Pole sei. (Falls es
 eben nicht doch die Frau war!)
 
 »Wir wollten morgen abend weiter nach Süden,« erwiderte
 ich. »Die Pflanzenwelt des Dschebel Hagier soll
-mancherlei seltene Arten ausweisen …«
+mancherlei seltene Arten aufweisen …«
 
-Und ängstlich und stehend fügte ich hinzu:
+Und ängstlich und flehend fügte ich hinzu:
 
 »Bitte — lassen Sie mich frei … Mein Freund und
 Kollege wird meinetwegen sehr in Sorge sein, wenn —«
@@ -857,52 +857,52 @@ Kollege wird meinetwegen sehr in Sorge sein, wenn —«
 »Der Name Ihres Freundes?« unterbrach der Unsichtbare
 mich.
 
-»Professor. Hermann hier …«
+»Professor Hermann Hirt …«
 
 »Ich merke es Ihrem deutsch an: Sie sind Deutscher! —
 Verzeihen Sie, daß ich Sie so unliebenswürdig hier empfing.
-Geben Sie mir Tour Wort zu ich.1weigen, und Sie
+Geben Sie mir Ihr Wort zu schweigen, und Sie
 können zu Ihrer Jacht zurückkehren …«
 
-»Oh, mit Freuden gebe ich es - — mit Freuden! Was
+»Oh, mit Freuden gebe ich es — mit Freuden! Was
 gehen uns hier Ihre Angelegenheiten an?!«
 
 »Nun denn: Wir sind Schmuggler, Herr Doktor …
 Wir haben nichts dagegen, daß Sie bis zum Abend in der
-Bucht bleiben, verkauften nur, daß Sie und Ihr Freund
-meldete Abenteuer. niemandem erzählen, auch Ihren Matrosen
+Bucht bleiben, verlangen nur, daß Sie und Ihr Freund
+dieses Abenteuer niemandem erzählen, auch Ihren Matrosen
 nicht …«
 
 »Das hätte ich ohnedies nicht getan … Die Leute
-wären sonst noch sprechen geworden. Vor Gelehrten haben
-erste wenig Respekt!«
+wären sonst noch frecher geworden. Vor Gelehrten haben
+sie wenig Respekt!«
 
-Die Stimme sagte. nun etwas in einer mir unbekannten
+Die Stimme sagte nun etwas in einer mir unbekannten
 Sprache …
 
-Die F Fäuste ließen mich los …
+Die Fäuste ließen mich los …
 
 »Leben Sie wohl, Herr Doktor!«
 
-Und dann bekam mein Boot einen kräftigen Stoß
+Und dann bekam mein Boot einen kräftigen Stoß …
 
-Ich richtete mich aus, rief noch:
+Ich richtete mich auf, rief noch:
 
 »Ich danke Ihnen … danke Ihnen vielmals …«
 
 <@pagebreak/>
-griff zu den Rudern … Und trieb mein Boot schleunigst
+Griff zu den Rudern … Und trieb mein Boot schleunigst
 dem hellen Fleck des Einganges zu — ins Freie …
 
-Atmete erst aus, als ich dicht bei der Atlantis war …
+Atmete erst auf, als ich dicht bei der Atlantis war …
 
 Und fühlte, daß mir die Kleider förmlich am Körper
-hielten, daß ich unglaublich — geschafft hatte — vor Aufregung!
+klebten, daß ich unglaublich — geschwitzt hatte — vor Aufregung!
 
 Glück hatte ich gehabt …! Wenn die Kerle dort in der
-Grotte meine unter der Decke verborgene Laterne Stets
-meine gespannte und entsicherte Pistole bemerkt! hätten, ob
-erste dann wohl noch dem Doktor Schrott getraut haben
+Grotte meine unter der Decke verborgene Laterne oder
+meine gespannte und entsicherte Pistole bemerkt hätten, ob
+sie dann wohl noch dem Doktor Schrott getraut haben
 würden?! —
 
 Atiru rief mich jetzt an …
@@ -912,17 +912,17 @@ Frau gefunden?«
 
 »Nein …« — Ich stieg an Deck. Wir holten das Beiboot
 ein … Mit einem Male stand Harald neben uns —
-nur in seinen leichten seidenen Unterkleidern, fließend, als
-Dame er soeben aus dem Wasser.
+nur in seinen leichten seidenen Unterkleidern, triefend, als
+käme er soeben aus dem Wasser.
 
-»Goß schlafen, Atiru … Du brauchst Deinen Bruder
-nicht zu weder. sich übernehme allein die Wache,« sagte
+»Geh’ schlafen, Atiru … Du brauchst Deinen Bruder
+nicht zu wecken. Ich übernehme allein die Wache,« sagte
 er kurz.
 
 Der Malaie beugte sich vor und musterte ihn erstaunt,
-wollte noch etwas klingen …
+wollte noch etwas fragen …
 
-»Goß schlafen!« befahl Harald wieder.
+»Geh’ schlafen!« befahl Harald wieder.
 
 Atiru verschwand …
 
@@ -930,14 +930,14 @@ Und ich — ebenso erstaunt:
 
 »Harald, wo warst Du!«
 
-»Ebensa08 in der Grotte, mein Alter … — Ich konnte
-nicht einschlafen. Der Herr des D’chebel Hagier beschu!dicke
-mich allzu lebhaft. sich kam gerade in diesem Auszug an
+»Ebenfalls in der Grotte, mein Alter … — Ich konnte
+nicht einschlafen. Der Herr des Dschebel Hagier beschäftigte
+mich allzu lebhaft. Ich kam gerade in diesem Auszug an
 Deck, als das Boot mit der Frau durch den Mondschein
-tt. Ihr beide sah! mich nicht. Ich ließ mich ins Wasser
+glitt. Ihr beide saht mich nicht. Ich ließ mich ins Wasser
 hinab und schwamm drüben am Ufer entlang … War
 also vor Dir in der Höhle, konnte jedoch nichts entdecken.
-Dann kam Dein Boot. Dann der Überfall auf Dieb Ich
+Dann kam Dein Boot. Dann der Überfall auf Dich. Ich
 war in nächster Nähe, hörte alles mit an —«
 
 <@pagebreak/>
@@ -951,7 +951,7 @@ mich entfernt hatte?«
 
 »Nein … Ich hörte nur flüsternde Stimmen. Mit
 einem Male war alles still … Ich schwamm noch ein
-Stück vorwärts — stieß aus steinigen Boden, aus einen
+Stück vorwärts — stieß auf steinigen Boden, auf einen
 Felsblock mitten im Wasser. Die Leute waren nicht mehr
 da …«
 
@@ -959,38 +959,38 @@ Er sprach so, als ob er in Gedanken noch immer in der
 Grotte weilte …
 
 »Wir werden jetzt John Trolby wecken,« fügte er ebenso
-geistesabwesend Zirkus »Trolby mag hier wachen. Wir
-müssen die Grotte durchs neben. Das blonde Weib interessiert
-mich … JI wette, daß die Frau mit dem Geheimnis
-der Riesentrompete, des Geistes des Hagier - Berges,
+geistesabwesend hinzu. »Trolby mag hier wachen. Wir
+müssen die Grotte durchsuchen. Das blonde Weib interessiert
+mich … Ich wette, daß die Frau mit dem Geheimnis
+der Riesentrompete, des Geistes des Hagier-Berges,
 irgend etwas zu tun hat …«
 
-»am — der Beweis hierfür? Oder ist’s nur eine Art
+»Hm — der Beweis hierfür? Oder ist’s nur eine Art
 instinktiven Fühlens?«
 
 »Beweis?! Beweise?! Nein …! Der Instinkt sagt
 es mir. — Ich werde Trolby holen …« —
 
 Nach zehn Minuten ruderten wir, zwei brennende Laternen
-im Boot, in die (Grotte Kugeln.
+im Boot, in die Grotte hinein.
 
 John Trolby aber bewachte unsere Atlantis.
 
 <h2>5. Kapitel.</h2>
 <h3>Die zweite große Liebe …</h3>
 
-Fehlt bei Laternenlicht bot die Grotte nichts Besonderes.
+Jetzt bei Laternenlicht bot die Grotte nichts Besonderes.
 Sie war etwa zehn Meter breit, und das Wasser reichte
-etwa zwanzig Meter weit hinein. ’Dort, wo der Höhlenboden
+etwa zwanzig Meter weit hinein. Dort, wo der Höhlenboden
 anstieg und frei von Wasser war, lag etwa drei
 Meter vom Uferstreifen entfernt ein gewaltiger Felsblock
 <@pagebreak/>
-nicht rissiger Oberfläche. Das Wasser umspülte ihn, und
+mit rissiger Oberfläche. Das Wasser umspülte ihn, und
 seine Seitenwände ragten etwa zwei Meter hoch empor.
-Er hatte die Form eines unregelmäßigen Wunsch, und die
+Er hatte die Form eines unregelmäßigen Würfels, und die
 Oberseite war gut neun Quadratmeter groß.
 
-Harald, jetzt wieder in inneren Sachen, sprach absichtlich
+Harald, jetzt wieder in trockenen Sachen, sprach absichtlich
 ganz laut über Höhlenmolche, Höhlensalamander und anderes
 Getier, das im Dunkeln zu leben pflegt. Er tat so,
 als ob wir lediglich aus Forscherdrang hierher gekommen
@@ -1000,11 +1000,11 @@ Und doch fand er immer wieder Gelegenheit, mir irgend
 etwas zuzuraunen …
 
 »Wir müssen weiter in die Grotte eindringen,« flüsterte
-er. »später Du nicht die Zugluft? Sie hat einen zweiten
+er. »Spürst Du nicht die Zugluft? Sie hat einen zweiten
 Ausgang …«
 
 Dann folgten streng wissenschaftliche Bemerkungen Über
-Höhlenflora, Er riß eine an dem Gehen angewachsene also
+Höhlenflora. Er riß eine an dem Felsen angewachsene Alge
 ab — ein ganzes Pflanzenbüschel …
 
 Hielt Vortrag …
@@ -1012,13 +1012,13 @@ Hielt Vortrag …
 Wer uns beobachtete, mußte glauben, wir seien weltfremde
 Gelehrte, die nur für ihre Spezialwissenschaft Interesse
 hatten. Wir rechneten auch damit, beobachtet zu werden.
-Die an den Seiten stark zerklüftete Grotte. bot Übergenug
+Die an den Seiten stark zerklüftete Grotte bot Übergenug
 Verstecke.
 
 Und abermals flüsterte Harst: »Sie haben das Boot der
 Frau weggeschafft … Oder verborgen …
 
-Er schwang sich jetzt auf den Gebibbert hinauf …
+Er schwang sich jetzt auf den Felsblock hinauf …
 
 »Gib mir eine der Laternen …«
 
@@ -1034,54 +1034,54 @@ Dann — wieder Komödie!
 
 »Doktor, der Fels wackelt …! Was bedeutet das?!«
 
-Er kniete … Seine Hände hafteten … Und plötzlich
+Er kniete … Seine Hände tasteten … Und plötzlich
 <@pagebreak/>
 hob er wirklich eine große rauhe Platte empor, die tadellos
 in eine Öffnung paßte …
 
 »Ah — ein mächtiges Loch, Doktor … Und — ein
-Boot liegt darin … - Ein Zinkboot, ein winziges Ding …
+Boot liegt darin … Ein Zinkboot, ein winziges Ding …
 auch ein Ruder …«
 
-Er stieg plötzlich hinab, bückte sich, kam: wieder zum Vorschein
+Er stieg plötzlich hinab, bückte sich, kam wieder zum Vorschein
 …
 
 Lachte: »Wirklich ein Boot! Und ein Ruder … Sonst
 nichts! — Doktor, wir erleben hier merkwürdige Dinge!
 Das Boot gehört wohl den Schmugglern … — Nun —
-mag es!!« Und er legte den Deckel wieder aus. »Wir
-wollen jetzt dort weiterhin nach worden suchen, Doktor …
-Diese also gehört zu einer mir bisher unbekannten Art …
-Wenn wir nur Glück hätten und etwas Besonderes Händen.
-Es müßte hier doch tropische Arten von Höhleunsalamandern
+mag es!!« Und er legte den Deckel wieder auf. »Wir
+wollen jetzt dort weiterhin nach Molchen suchen, Doktor …
+Diese Alge gehört zu einer mir bisher unbekannten Art …
+Wenn wir nur Glück hätten und etwas Besonderes fänden.
+Es müßte hier doch tropische Arten von Höhlensalamandern
 geben, zum Beispiel den dreißig Zentimeter langen Baduba,
 der äußerst giftig ist und Giftzähne wie die Schlangen im
 Maule hat …«
 
 Inzwischen hatten wir unser Boot bereits an Land gezogen.
-Es galt nun. den anderen Ausgang der Grotte zu
-finden. Und dieses suchen mußte so unauffällig geschehen,
+Es galt nun, den anderen Ausgang der Grotte zu
+finden. Und dieses Suchen mußte so unauffällig geschehen,
 als ob lediglich der Zufall uns diesen Ausgang entdecken
 ließ. Wir nahmen eben immer noch an, daß wir beobachtet
 wurden.
 
-Ich will mich hier nicht weiter mit Einzelheiten aufhalten
-in welcher Weise wir unseren Zweck erreichen und da
+Ich will mich hier nicht weiter mit Einzelheiten aufhalten,
+in welcher Weise wir unseren Zweck erreichten und doch
 tadellos die salamandergierigen Gelehrten spielten. Jedenfalls:
 nach zehn Minuten hatten wir die immer enger
 werdende Grotte durchquert und standen nun im Freien auf
-einem Felsbalkon, unter dem ein Abhang senkfrecot und
+einem Felsbalkon, unter dem ein Abhang senkrecht und
 wohl dreißig Meter tief in einer Schlucht sich verlor.
 
 Jenseits dieser Schlucht erkannten wir Bergwälder mit
 eingestreuten grünen Matten: die Ostabhänge des Dschebel
 Hagier!
 
-Der neue Tag dämmerte schon heraus. Im Morgen
-äwielicht genossen wir von diesem Felsbalkon ’eine Aussicht,
+Der neue Tag dämmerte schon heraus. Im Morgenzwielicht
+genossen wir von diesem Felsbalkon eine Aussicht,
 <@pagebreak/>
 wie man sie wohl selten finden wird. Ganz links schnitt das
-Meer in breiter H1 echt tief ins Land hinein. Halb links lag
+Meer in breiter Bucht tief ins Land hinein. Halb links lag
 das Bergmassiv des Dschebel Hagier. Geradeaus tropische
 Urwälder, noch eine steinige, endlose Hochebene …
 
@@ -1094,10 +1094,10 @@ wir die Umrisse des fernen massigen Gebäudes.
 
 und da sagte Harald mit einem Male:
 
-»In der englischen Übersetzung des Buches unseres be-eihmten
-Landsmannes Echweinfuribh über Sokotra — er bemerkte
+»In der englischen Übersetzung des Buches unseres berühmten
+Landsmannes Schweinfurth über Sokotra — er bereiste
 und durchforschte die drei Inseln im Jahre 1881 —
-ist auch ein portugiesi:rief Kastell an der Ostküste erwähnt.
+ist auch ein portugiesisches Kastell an der Ostküste erwähnt.
 Die Portugiesen waren ja die ersten Herren der Inselgruppe.
 Jenes Bauwerk drüben muß das Kastell sein. Es heißt im
 Übrigen Castello Santa Virgo, also die Burg der Heiligen
@@ -1114,20 +1114,20 @@ ein Gesicht hinter den Eisenstäben des einen Fensters …
 
 Er gab mir das Glas …
 
-»sich doch einmal zu, mein Alter, ob Du dort etwas
+»Sieh doch einmal zu, mein Alter, ob Du dort etwas
 bemerkst …«
 
-Nun — mit meinen Augen ist es leider mir mäßig Wo
-stellt. Immerhin, auch ich glaubte hinter den Stäben eines
-er Turmfenster einen leer Fleck zu erkennen, der sehr
+Nun — mit meinen Augen ist es leider nur mäßig bestellt.
+Immerhin, auch ich glaubte hinter den Stäben eines
+der Turmfenster einen hellen Fleck zu erkennen, der sehr
 wohl ein Gesicht sein konnte.
 
 Dann meinte Harald:
 
 Kehren wir jetzt um … Wir werden uns all diese
 Erlebnisse den Tag Über durch den Kopf gehen lassen …
-Und abends werden wir das Castello Santa Virgo dssck-suchen.
-Es — interessiert Miß …«
+Und abends werden wir das Castello Santa Virgo besuchen.
+Es — interessiert mich …«
 
 <@pagebreak/>
 »Des Gesichts wegen?«
@@ -1145,7 +1145,7 @@ mehr vorhanden …
 Nämlich …
 
 Der freundliche Leser mag raten … Unser Boot —
-ja, das lag noch, wo und wie wir es zu.8 Trockene gezogen
+ja, das lag noch, wo und wie wir es aufs Trockene gezogen
 hatten … —
 
 Vielleicht — — war der mächtige hohle Felswürfel im
@@ -1153,37 +1153,37 @@ Wasser verschwunden?
 
 Nein — auch das nicht!
 
-Und doch — etwas fehlte, Fidibus das ich in der Nacht
-verschworimen als hellen Fleck wahrgenommen: *der
+Und doch — etwas fehlte, etwas das ich in der Nacht
+verschwommen als hellen Fleck wahrgenommen: *der
 Grotteneingang* …!!
 
-Der sollte …!! — Und wir beide standen und starrten
+*Der* fehlte …!! — Und wir beide standen und starrten
 geradeaus …
 
 Starrten dorthin, wo noch vor einer knappen Stunde der
 bogenförmige Eingang unser Boot hindurchgelassen hatte.
 
-Nichts mehr davon zu sehen —» nichts! Keinerlei Öffnung
-mehr — nur Gestein — rührend!
+Nichts mehr davon zu sehen — nichts! Keinerlei Öffnung
+mehr — nur Gestein — überall!
 
 Wie durch einen Zauberspruch war der Eingang verschwunden.
 Und niemals konnten hier Menschenhände am
 Werke gewesen sein. Das war unmöglich. Nur Naturgewalten
-hatten hier eingegossen …
+hatten hier eingegriffen …
 
 »Rasch ins Boot,« meinte Harald … »Ein Einsturz ist
-eifrigst … Die Umgegend des Dschebel Hagier zeigt noch
+erfolgt … Die Umgegend des Dschebel Hagier zeigt noch
 heute stellenweise vulkanischen Charakter. Schweinfurth
-fand heiße Quellen, starke (Hochquellen und ein! paar ESchlamm-geiser
+fand heiße Quellen, starke Gasquellen und ein paar Schlammgeiser
 … Nur eine Erschütterung aus dem Erdinnern
-kann hier Gesiteinsmassen zum Einbruch gebracht haben.«
+kann hier Gesteinsmassen zum Einbruch gebracht haben.«
 
-Wir schoben das kleine Beiboot ins Wasser … näherten
+Wir schoben das kleine Beiboot ins Wasser … Ruderten
 dorthin, wo jetzt im Lichte der Laternen immer deutlicher
 <@pagebreak/>
 die Größe dieser Katastrophe hervortrat. Eine mächtige
 Halde von Steinblöcken lag an jener Stelle, wo der Eingang
-sich befanden hatte. Geradezu ungeheure Blöcke waren:
+sich befunden hatte. Geradezu ungeheure Blöcke waren
 hier wirr übereinander geworfen. Nirgends schimmerte
 Tageslicht hindurch …
 
@@ -1199,116 +1199,114 @@ Steinzacke gebunden …
 
 Und nun — die Toten …
 
-Beide bis zum Leibe mit Geröll Bechert … Beide unten
+Beide bis zum Leibe mit Geröll bedeckt … Beide unten
 völlig zerquetscht. Und — — beide mit furchtbaren Schädelwunden
 … Beide mit zertrümmerten Schädeldecken.
 
 Dabei waren die Leichen völlig frisch … So frisch,
 daß der Tod erst vor Stunden eingetreten sein konnte.
 Jedenfalls aber nicht erst bei Gelegenheit dieser Einsturzkatastrophe
+…
 
 Harald kniete — untersuchte die Wunden … Richtete
 sich auf … 
 
-»Feulenhiebe — dergleichen,« erklärte er. —» Und leiser:
+»Keulenhiebe — dergleichen,« erklärte er. —» Und leiser:
 »Erinnere Dich, was der Malaie erzählte: Wenn der Geist
 des Dschebel Hagier seine Stimme ertönen läßt, findet man
 nachher stets Araber mit eingeschlagenem Schädel …
-Stets!1! Und hier — wieder zwei Opfer des seltsamen
+Stets!! Und hier — wieder zwei Opfer des seltsamen
 Geistes … Hier in der Höhle … Zwei Araber. Und
 gerade Araber bilden die Hauptmasse der hiesigen Bevölkerung.
 Außerdem gibt es im Westen der Insel noch Dörfer
-von Somali - Negern und im Innern Beduinen- Niederlassungen.
+von Somali-Negern und im Innern Beduinen-Niederlassungen.
 So steht’s in Schweinfurths Reisewerk …«
 
 Abermals kniete er da nieder … Befühlte die aus
 feinsten Schafwolle gewebten Mäntel der Toten …
 
 Und — holte aus dem zur Tasche umgearbeiteten Zipfel
-des einen wartete ein Elfenbeinplättchen hervor, auf dem
+des einen Mantels ein Elfenbeinplättchen hervor, auf dem
 <@pagebreak/>
 beiderseits arabische Buchstaben in Schwarz tief eingeritzt
 waren …
 
 »Das Ding sieht fast wie eine Spielmarke aus …«
-meinte er fotrsjäa üitesnd. »Leuchte mal … — Ah — katk-sächlich:
-beider erst steht »zehn« und dazu n9»ich etwas wie
-ein Namenc6züug … 7ch möchte Schnur:en: Es ist eine
-Spielmarke! Alle Löffel hastiger dem Spiel, selbst die
-unkultiviertesten. Und gerade die Araber sind von jeher Steinchen
-sehr komplizierter Ab ürselspielte gewesen …«
+meinte er kopfschüttelnd. »Leuchte mal … — Ah — tatsächlich:
+beiderseits steht »zehn« und dazu noch etwas wie
+ein Namenszug … Ich möchte behaupten: Es ist eine
+Spielmarke! Alle Völker huldigen dem Spiel, selbst die
+unkultiviertesten. Und gerade die Araber sind von jeher Erfinder
+sehr komplizierter Würfelspiele gewesen …«
 
-Abermals verstehe er die Hügel da … Und — fand
-so wirklich auch bei der anderen Leiche ein ähnliches Elsen-beinplättd
-en — nur mit »sünszebhn« beiderseits — aber mit
-demselben Verse Förderten Namenszug … —
+Abermals betastete er die Mäntel da … Und — fand
+so wirklich auch bei der anderen Leiche ein ähnliches
+Elfenbeinplättchen — nur mit »fünfzehn« beiderseits — aber mit
+demselben verschnörkelten Namenszug … —
 
-Er steckte die beiden Elsenbeinmar?en zu sich. Dann
-ruderten wir nieder Kanälen, zogen das Beiboot aufs
-Trockene und so musterten es auf Wir mitten es mitnehmen,
-Die Atlantis hatte nur. dieses Rettungsboot. Keuchend und
-schwitzend schleppten wir es bis hinaus aus den agelsbalkon,
-von dem nach regte hin ein breiter Felsgrat wie ein Pfad
-nach unten in d’e Schicht lies
+Er steckte die beiden Elfenbeinmarken zu sich. Dann
+ruderten wir wieder hinüber, zogen das Beiboot aufs
+Trockene und schulterten es auf. Wir mußten es mitnehmen.
+Die Atlantis hatte nur dieses Rettungsboot. Keuchend und
+schwitzend schleppten wir es bis hinauf auf den Felsbalkon,
+von dem nach rechts hin ein breiter Felsgrat wie ein Pfad
+nach unten in die Schicht lief.
 
-Hier in der Ohr echt ließen wir daß Boot zurück und
-Formen Mr 1 wen ie Bucht sahen nun zu unserer
-Beruhigung die Atlantis noch4 am soll;in Fleck ankern und
-an Ton bitterer schob Trolby im Besprach mit den
-Matrosen,
+Hier in der Schlucht ließen wir das Boot zurück und
+erklommen den Berg bis zu der Bucht<@refnote 1/>, sahen nun zu unserer
+Beruhigung die Atlantis noch am selben Fleck ankern und
+an Deck unseren Freund Trolby im Gespräch mit den
+Malaien.
 
-Eine Viertelstunde Täter waren wir an Bord …
+Eine Viertelstunde später waren wir an Bord …
 
-Trolby drückte manch sich Hände …
+Trolby drückte uns sich Hände …
 
-»Ich Durch tote schon, Sie beide wären mit verschüttet
-worden,« meinte er sehr ernst »Dort an der Wand drüben
-begann Tödlich das Gestein zu rutschen, nachdem das Wasser
-der B’cht mit einem Male sehr unruhig geworden war …
-So allmählich Fenster sich die Gesteinsmassen, daß nur wenig
-Lärm England …
+»Ich fürchtete schon, Sie beide wären mit verschüttet
+worden,« meinte er sehr ernst. »Dort an der Wand drüben
+begann plötzlich das Gestein zu rutschen, nachdem das Wasser
+der Bucht mit einem Male sehr unruhig geworden war …
+So allmählich senkten sich die Gesteinsmassen, daß nur wenig
+Lärm entstand …
 
 Und dann — holte er aus der Tasche — einen Zettel
 hervor …
 
 »Herr Harst, dieser Wisch lag auf der Achtertreppe …
 <@pagebreak/>
-Wie er dorthin gekommen, weiß ich nicht. Wir war’s ein
+Wie er dorthin gekommen, weiß ich nicht. Mir war’s ein
 mal so, als ob ein Schatten Über das Deck glitt … Es
 muß sich also jemand der Jacht schwimmend genähert haben.
-Die Schriftzeichen aus dem Zettel sind mir fremd …«
+Die Schriftzeichen auf dem Zettel sind mir fremd …«
 
 Harald entfaltete das Papier. Es war ein halber
 Bogen sehr teuren Leinenpapiers …
 
-»Das sind arabische Buchstaben. lieber Trolby,« sagte
-Harald sehr gedehnt. »Und hier sieht:
+»Das sind arabische Buchstaben, lieber Trolby,« sagte
+Harald sehr gedehnt. »Und hier steht:
 
-»Herr Harst, reisen Sie mich)! Ich liebe Sie! Ich
+»Herr Harst, retten Sie mich! Ich liebe Sie! Ich
 bin Ihre zweite große Liebe …«
 
 Der brave Trolby machte ein unglaubliches Gesicht …
 
-»ohne Frechheit!« brummte er …
+»Eine Frechheit!« brummte er …
 
 Und Harald ergänzte:
 
 »Vielleicht etwas ganz anderes als eine Frechheit …
 — Meine zweite große Liebe!! Woher weiß die Schreiberin
-dieser Zeilen, daß Harald besorgt hier an Bord der Jacht
+dieser Zeilen, daß Harald Harst hier an Bord der Jacht
 ist?! Und woher weiß sie, daß ich einst die Braut durch
-einen Mord verlor?! Und — dieser Mord an dem Liebsten«),
-das ich damals besaß, lich mich ja Detektiv werden.
-Sehr seltsam ist das alles. —
+einen Mord verlor?! Und — dieser Mord an dem Liebsten\*),
+das ich damals besaß, ließ mich ja Detektiv werden.
+Sehr seltsam ist das alles …« —
 
 Hiermit schließe ich den ersten Teil unserer Abenteuer
 im Sultanat Sokotra … Der zweite enthält eine Reihe
 raffinierter Verbrechen, bei denen der Geist des Hagier,
-das Kastell der Konto Virgo und noch manches andere eine
+das Kastell der Santa Virgo und noch manches andere eine
 wichtige Rolle spielten.
-
-») Vergleiche hierzu den ersten Band der Harald-Harst
-Genie: »Zwei Taschentücher.«
 
 <@pagebreak/>
 
@@ -1876,7 +1874,7 @@ war infolge der hohen Bäume wenig zu sehen.
 
 Die Umgebung des Kastells war eine kahle Steinwildnis.
 Eine Art Weg führte von sein her zur nordwestlichen Mauer.
-Dort befand sich auch der Eingang, ein mächtiges, verwitter-tes
+Dort befand sich auch der Eingang, ein mächtiges, verwittertes
 Holztor.
 
 Wir standen nun vor diesem Portal, über dem eine Hold-satue
@@ -2222,7 +2220,7 @@ Spur — — vielleicht …«
 
 Und — vielleicht hätte er noch nicht gesagt, wenn nicht
 jetzt vor mag ein kleiner Europäer mit Tropenhelm erschienen
-wäre, ganz in Weiß, eine mächtige Votanisiertrommel auf
+wäre, ganz in Weiß, eine mächtige Botanisiertrommel auf
 dem Rücken, in der Linken ein Schmeticelingsneß …
 auf dem Tropenhelm tote er mit langen dünnen Stecknade
 <@pagebreak/>
@@ -2392,7 +2390,7 @@ Garbatter suchte unter einem Steinhaufen seine Stricke
 hervor. Es waren geteerte Hanvsleinen von bester Arbeit,
 
 Der Mond leuchtete uns, wie wir nun hier oben gleich
-Gespenstern hin und her huschten, nach Möglichkeit uns zu-sammenduckend,
+Gespenstern hin und her huschten, nach Möglichkeit uns zusammenduckend,
 damit mit von unten aus dem Kastell nicht
 etwa bemerkt würden. Freilich — die Entfernung betrug
 bis dorthin wohl gut dreitausend Meter.
