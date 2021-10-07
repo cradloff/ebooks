@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">8e048e6a-278c-11ec-8f97-7f3df7fcbeef</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Harald Harsts zweite Liebe</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">136</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Harald Harsts zweite Liebe
+
+Neben Harald Harst stand die blonde Ellen Dagnaar, die dem Leser aus dem vorigen Band wohl bekannt sein dürfte. Ich selbst, Max Schraut, kniete am Fuße einer der Palmen, die hier unweit des Abhanges wuchsen, und prüfte die Befestigung der Strickleiter, an der Harald nun zum zweiten Male bis zu der Felszacke, dem Totenkopf und der Stahltrosse hinabsteigen wollte. —
+
+Der freundliche Leser merkt, daß ich jetzt hier die Lösung des Problems bringen werde von dem ich im vorigen Band die eine Frage offen ließ: Was war an der Stahltrosse, die in die Brandung hinabreichte, festgebunden?
+
+Castello Santa Virgo
+
+Trolby und wir beide saßen nun recht behaglich in bequemen Klappstühlen und sorgten für unseren sterblichen Leib. Auch das Geistige kam nicht zu kurz, denn der gute Trolby fragte Harald immer wieder nach diesem und jenem.  Besonders interessierte es ihn, wer die Absenderin des Zettels wohl sein mochte.
+
+Harald war ausnahmsweise redselig. Freilich — seine Antworten für den braven John glichen denen eines Orakels, waren also zumeist doppelsinnig und ließen sich so und so deuten.
+
+Trolby murrte schließlich: »Das nützt mir alles nichts, werter Harst … Sie reden wie die Katz um den heißen Brei herum … Äußern Sie sich genauer …«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (136) Harald Harsts zweite Liebe.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1925</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
