@@ -179,7 +179,7 @@ Und — siehe da: es half!
 
 Die Tür wurde wieder aufgeschlossen …
 
-Tür die handbreite Spalte musterte man uns. Dann
+Durch die handbreite Spalte musterte man uns. Dann
 eine weibliche Stimme, die des Büfettfräuleins:
 
 »Ja — es sind die Richtigen …«
@@ -233,7 +233,7 @@ Wir nahmen ein Auto …
 »Wilhelmplatz 14!« befahl Harald.
 
 Und in flottem Tempo gelangten wir so zum Wilhelmplatz,
-um hier daß Haus Nr. 16 von außen zu besichtigen.
+um hier das Haus Nr. 16 von außen zu besichtigen.
 
 Links neben der mächtigen Haustür ein Schild aus
 schwarzem Sandstein:
@@ -735,7 +735,7 @@ hatte auch Vera von Peerlands heimtückisches Ende bereits
 seine Vergeltung gefunden.
 
 Und die näheren Umstände dieses Selbstmordes?! —
-Ungefähr konnte ich mir das Geschehene zu zusammenreimen …
+Ungefähr konnte ich mir das Geschehene zusammenreimen …
 Harst war in der Pension v. Keller heute vormittag abgestiegen,
 hatte dort bald ermittelt, daß Eva in irgendeiner
 Maske dort weilte … Dann hatte er Bechert angerufen
@@ -787,7 +787,7 @@ ein engbrüstiges Haus, das nur einen kleinen Laden unten
 hatte: die Pfandleihe!
 
 Ein Riesenschild über dem Schaufenster, in dem ein
-grell beleuchtetes Plakat hing;
+grell beleuchtetes Plakat hing:
 
 <p class="pre indent2">Auch der Ärmste hier stets fand
 Geld für jeden Gegenstand.
@@ -818,7 +818,7 @@ Händedruck …
 
 »Wir sind zur rechten Zeit hier … Das Weib ist soeben
 in dem Laden verschwunden … Gremzig ist eingeweiht,
-hat die Ladentürglocke abgestellt: … — Vorwärts!«
+hat die Ladentürglocke abgestellt … — Vorwärts!«
 
 Er war frisch und munter wie stets — und hatte doch
 seit vierundzwanzig Stunden kein Auge zugetan …
@@ -907,7 +907,7 @@ Ein metallisches Knacken …
 Und — ein tieferes Schluchzen stieg da aus der Kehle
 des Weibes hoch …
 
-»Ver\—spielt!« lallte sie …
+»Ver-spielt!« lallte sie …
 
 Ich dachte, es müßte Eva sein …
 
@@ -1134,7 +1134,7 @@ Mein nächstes war nun, Bechert zu informieren. Gremzig
 ist als Hehler längst verdächtig, war aber bisher nie zu
 fassen. Er ging auf alles ein. — Ich selbst war gegen halb
 drei wieder im Pensionat Keller. Und — mit mir Bechert
-und zwei Beamte. Kaum hatten wir mein Zimmer beitreten,
+und zwei Beamte. Kaum hatten wir mein Zimmer betreten,
 als Fräulein v. Keller hereinstürmte: »Die Larda geht wieder
 aus! Sie ist vor einer Stunde nach Hause gekommen.«
 — Wir also hinter ihr her … Einzeln natürlich …

@@ -28,7 +28,7 @@ tausend Mark zurück. Ich war dabei. Er sagte:
 
 »Acht Tage sind wir hinter Eva Larda ohne jeden Erfolg
 <@pagebreak/>
-her. Jetzt gebe im die Sache auf. Ich weiß nicht einmal,
+her. Jetzt gebe ich die Sache auf. Ich weiß nicht einmal,
 ob sie noch in Berlin steckt. Nichts weiß ich. Und Honorar
 für negative Bemühungen nehme ich nie an.«
 
@@ -471,7 +471,7 @@ arme Anna Mack tot niedergesunken war …
 durchsucht?« fragte er Rietmeyer nach längerer Pause …
 
 »Ja … Nichts gefunden, was über die Wohnung oder
-die Person dieser Unbekannten Ausschluß gegeben hätte …
+die Person dieser Unbekannten Aufschluß gegeben hätte …
 Denn: Mack heißt sie sicherlich nicht …«
 
 »Nein …« Und — da bückte er sich, hob einen zerknitterten
@@ -710,7 +710,7 @@ kein Thema für eine Mahlzeit …«
 Er dachte an die arme Anna Mack — oder wie sie sonst
 heißen mochte … —
 
-Mir aber gab diese Wortgeplänkel die Gewißheit, daß
+Mir aber gab dieses Wortgeplänkel die Gewißheit, daß
 Harst durch den Einbruch bei Jelling unsere Eva fangen
 <@pagebreak/>
 wollte. — *Wie* er dies erreichen wollte, blieb mir ein
