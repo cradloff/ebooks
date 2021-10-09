@@ -15,7 +15,7 @@ Tag versprach, beleuchtete an der Steilküste der Nordseite
 von Groß-Coco, der nördlichsten der Andamanen-Inseln,
 eine Gruppe von Menschen, unter denen das ehrwürdige
 Antlitz des arabischen Kaufmanns Ali Mansur
-besonders ausfiel.
+besonders auffiel.
 
 Neben Harald Harst aber stand die blonde Ellen
 Dagnaar, die dem Leser aus dem vorigen Band wohl bekannt
@@ -36,7 +36,7 @@ Weshalb trachtete Jupp Palling seinem früheren
 Freunde Hektor Randell nach dem Leben, weshalb vergiftete
 er ihn schließlich? —
 
-Harsts stieg nun an der Strickleiter abwärts …
+Harst stieg nun an der Strickleiter abwärts …
 
 Und Ellen Dagnaar rief ihm noch nach:
 
@@ -110,7 +110,7 @@ vor einem heraufziehenden Orkan in die Bucht westwärts
 dieser Steilküste mit ihrer Jacht flüchteten, fanden drüben in
 den Büschen die Leichen von vier Arabern, die fraglos zu
 der auf den Klippen draußen gescheiterten Dschau Fatima
-anhört hatten. Außerdem aber fanden sie noch zwischen
+gehört hatten. Außerdem aber fanden sie noch zwischen
 Felsgeröll unten am Gestade diesen toten Hai, der noch
 die Leiche eines Mannes im Rachen hatte. — Der Haifisch
 wies am Schädel vier Schußwunden auf. Es lag nahe
@@ -128,19 +128,19 @@ der merkwürdigen Nummer wieder, das mit dem Hauptgewinn
 bereits gezogen war. Er wußte seinen Freund zu
 bestimmen, diesen Leichenfund zu verschweigen und das Los
 sich anzueignen. Der Freund verlangte jedoch, daß die Leiche
-und der Hai; die nur mit Gewalt zu trennen gewesen wären,
+und der Hai, die nur mit Gewalt zu trennen gewesen wären,
 auf die Art versenkt würden, wie es dann auch geschah. —
 Während die Freunde dann den Hai und den Toten mühsam
 auf einem alten Segel nach oben auf das Steilufer
 schafften, verschob sich die zerfetzte Kleidung des Toten, und
-ich, der Schreiben dieser Zeilen, bemerkte unter dem Hemde
+ich, der Schreiber dieser Zeilen, bemerkte unter dem Hemde
 auf der Brust einen Lederbeutel. Wir öffneten ihn. Er
 enthielt Perlen. Dieser Perlen wegen, die ich unbedingt
 dem Toten lassen wollte, da sie ja als Unglücksbringer, als
 die versteinerten Tränen irgendeiner Gottheit weit und breit
 berüchtigt sind, — dieser Perlen wegen kam es zwischen
 uns zu einem ernsten Streit. Ich setzte meinen Willen
-durch. Mein bisherigen Freund mußte mir schwören, daß
+durch. Mein bisheriger Freund mußte mir schwören, daß
 auch er die Perlen nicht anrühren würde und daß es mit
 dem Diebstahl des Loses genug sein sollte. Ich vermutete,
 daß die arabische Dschau von dem fernen Eigentümer
@@ -163,7 +163,7 @@ hierüber schweigen.«
 
 <@pagebreak/>
 So lautete Hektor Randells merkwürdiges Bekenntnis
-und nun wußten vier auch, warum Jupp Palling ihn vergiftet
+und nun wußten wir auch, warum Jupp Palling ihn vergiftet
 hatte und weshalb dieser hierher unterwegs gewesen:
 Palling hatte die Perlen holen wollen! — Und — — Palling
 war im Orkan ertrunken, wie Ellen Dagnaar uns mitgeteilt
@@ -286,10 +286,10 @@ Stein in den Schatten.
 
 <@pagebreak/>
 Wir sprangen gleichfalls auf den dürren Boden hinüber,
-und Harald sagte nun zu meinen Erstaunen:
+und Harald sagte nun zu meinem Erstaunen:
 
 »Lieber Trolby, daß Sie etwas Besonderes auf dem
-Herzen haben, spürte ich schon an Ihren Blicken die in den
+Herzen haben, spürte ich schon an Ihren Blicken, die in den
 letzten Stunden so häufig und so nachdenklich auf mir
 ruhten. Nicht wahr — auch Sie glauben nicht recht, daß
 der Kaufmann Ali Mansur aus Maskat stammt?«
@@ -318,11 +318,11 @@ unter anderem Namen angeboten.«
 ich als früherer Seemann möchte Ihnen nun noch etwas
 vorhalten: Welcher englische Kapitän wird sich so weit erniedrigen
 und Dienst auf einem elenden arabischen Schoner
-nehmend?! Das hatte Dagnaar nicht nötig … Seit
+nehmen?! Das hatte Dagnaar nicht nötig … Seit
 Jahren hat Dagnaar sich stets freilich in arabischen Gewässern
 mit Vorliebe herumgedrückt … Seit drei Jahren …«
 
-»Also hat er sich absichtlich bei Ali Mansur unter fremden
+»Also hat er sich absichtlich bei Ali Mansur unter fremdem
 Namen eingeführt und mithin auch durch die Übernahme
 dieses Kapitänpostens etwas Besonderes erreichen wollen.«
 
@@ -806,7 +806,7 @@ an der Universität Berlin …«
 
 »Ein Kollege und ich sind mit einer Jacht von Aden
 herübergekommen, um die Pflanzen- und Tierwelt Sokotras
-zu studieren … Unser Jacht ankert draußen in der Bucht.
+zu studieren … Unsere Jacht ankert draußen in der Bucht.
 Ich sah ein Boot mit einer einzelnen Frau hier in die
 Grotte hineinsteuern und wurde neugierig …«
 
@@ -914,14 +914,14 @@ ein … Mit einem Male stand Harald neben uns —
 nur in seinen leichten seidenen Unterkleidern, triefend, als
 käme er soeben aus dem Wasser.
 
-»Geh’ schlafen, Atiru … Du brauchst Deinen Bruder
+»Geh schlafen, Atiru … Du brauchst Deinen Bruder
 nicht zu wecken. Ich übernehme allein die Wache,« sagte
 er kurz.
 
 Der Malaie beugte sich vor und musterte ihn erstaunt,
 wollte noch etwas fragen …
 
-»Geh’ schlafen!« befahl Harald wieder.
+»Geh schlafen!« befahl Harald wieder.
 
 Atiru verschwand …
 
@@ -931,7 +931,7 @@ Und ich — ebenso erstaunt:
 
 »Ebenfalls in der Grotte, mein Alter … — Ich konnte
 nicht einschlafen. Der Herr des Dschebel Hagier beschäftigte
-mich allzu lebhaft. Ich kam gerade in diesem Auszug an
+mich allzu lebhaft. Ich kam gerade in diesem Aufzug an
 Deck, als das Boot mit der Frau durch den Mondschein
 glitt. Ihr beide saht mich nicht. Ich ließ mich ins Wasser
 hinab und schwamm drüben am Ufer entlang … War
@@ -1076,7 +1076,7 @@ Jenseits dieser Schlucht erkannten wir Bergwälder mit
 eingestreuten grünen Matten: die Ostabhänge des Dschebel
 Hagier!
 
-Der neue Tag dämmerte schon heraus. Im Morgenzwielicht
+Der neue Tag dämmerte schon herauf. Im Morgenzwielicht
 genossen wir von diesem Felsbalkon eine Aussicht,
 <@pagebreak/>
 wie man sie wohl selten finden wird. Ganz links schnitt das
@@ -1222,7 +1222,7 @@ von Somali-Negern und im Innern Beduinen-Niederlassungen.
 So steht’s in Schweinfurths Reisewerk …«
 
 Abermals kniete er da nieder … Befühlte die aus
-feinsten Schafwolle gewebten Mäntel der Toten …
+feinster Schafwolle gewebten Mäntel der Toten …
 
 Und — holte aus dem zur Tasche umgearbeiteten Zipfel
 des einen Mantels ein Elfenbeinplättchen hervor, auf dem
@@ -1249,17 +1249,17 @@ Trockene und schulterten es auf. Wir mußten es mitnehmen.
 Die Atlantis hatte nur dieses Rettungsboot. Keuchend und
 schwitzend schleppten wir es bis hinauf auf den Felsbalkon,
 von dem nach rechts hin ein breiter Felsgrat wie ein Pfad
-nach unten in die Schicht lief.
+nach unten in die Schlucht lief.
 
 Hier in der Schlucht ließen wir das Boot zurück und
-erklommen den Berg bis zu der Bucht<@refnote 1/>, sahen nun zu unserer
+erklommen die Uferberge der Bucht<@refnote 1/>, sahen nun zu unserer
 Beruhigung die Atlantis noch am selben Fleck ankern und
 an Deck unseren Freund Trolby im Gespräch mit den
 Malaien.
 
 Eine Viertelstunde später waren wir an Bord …
 
-Trolby drückte uns sich Hände …
+Trolby drückte uns die Hände …
 
 »Ich fürchtete schon, Sie beide wären mit verschüttet
 worden,« meinte er sehr ernst. »Dort an der Wand drüben
@@ -1273,8 +1273,8 @@ hervor …
 
 »Herr Harst, dieser Wisch lag auf der Achtertreppe …
 <@pagebreak/>
-Wie er dorthin gekommen, weiß ich nicht. Mir war’s ein
-mal so, als ob ein Schatten über das Deck glitt … Es
+Wie er dorthin gekommen, weiß ich nicht. Mir war’s einmal
+so, als ob ein Schatten über das Deck glitt … Es
 muß sich also jemand der Jacht schwimmend genähert haben.
 Die Schriftzeichen auf dem Zettel sind mir fremd …«
 

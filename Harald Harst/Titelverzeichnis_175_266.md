@@ -33,7 +33,7 @@
 <tr><td>201. Der leere Zettel.                  </td><td>247. Kastell Mondalar.</td></tr>
 <tr><td>202. Die Zigarren des Mister Goulderlay.</td><td>248. Das Gasthaus zur weißen Ratte.</td></tr>
 <tr><td>203.                                    </td><td>249. Die goldene Glocke.</td></tr>
-<tr><td>204. Der Mann m. den Mäusen.            </td><td>250. Der brennenden Wald.</td></tr>
+<tr><td>204. Der Mann m. den Mäusen.            </td><td>250. Der brennende Wald.</td></tr>
 <tr><td>205.                                    </td><td>251. Irinas Verhängnis.</td></tr>
 <tr><td>206. Das Höllentor von Adagaru.         </td><td>252. Die Hexe von Malvetta.</td></tr>
 <tr><td>207. Dschungelgeheimnisse.              </td><td>253. Chuna Dangi, das weiße Rätsel.</td></tr>

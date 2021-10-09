@@ -116,7 +116,7 @@ Trolby beschnupperte den halben Bogen …
 
 »Und die Absenderin ist gar keine »in«, sondern ein »er«,
 ein Absend*er* … Denn zunächst: eine Frau trägt kaum
-eine Brieftasche bei sich, und zweitens; die Schrift hat etwas
+eine Brieftasche bei sich, und zweitens: die Schrift hat etwas
 Männliches …«
 
 »Davon verstehe ich nichts,« meinte Trolby ehrlich. »Aber
@@ -452,8 +452,8 @@ Trolby fügte sich. Und gegen zehn Uhr vormittags
 brachen wir beide auf.
 
 Wie Harald diese Visite bei Miß Boeter nach der Gefahrenseite
-hin einschätzte, merkte ich an seinen Vorbereitungen
-nicht nur, daß er mir riet, mehrere Ersatzbatterien für
+hin einschätzte, merkte ich an seinen Vorbereitungen.
+Nicht nur, daß er mir riet, mehrere Ersatzbatterien für
 meine Taschenlampe und in dem Umschlag der Sportstrümpfe
 ein kleines Federmesser mitzunehmen, nein, er selbst zog noch
 jenes Paar brauner Schnürschuhe an, deren beide Absätze
@@ -494,7 +494,7 @@ Gesprächs:
 
 Man kann sich unschwer vorstellen, wie diese Worte auf
 mich wirkten. Mein erstauntes Gesicht änderte jedoch ebenso
-rasch den Ausdruck. Wir fielen die beiden Spielmarken ein,
+rasch den Ausdruck. Mir fielen die beiden Spielmarken ein,
 die Harald den Toten in der Grotte abgenommen hatte.
 Und als ich nun Harsts Behauptung in Gedanken näher
 prüfte, erschien mir die Spielhölle durchaus wahrscheinlich.
@@ -521,7 +521,7 @@ Vorfall überhoben.
 Von einer hohen Felsgruppe rechter Hand rollte plötzlich
 ein Stein herab — uns vor die Füße …
 
-Du und um den Stein war mit Bindfaden ein Zettel gebunden
+Und um den Stein war mit Bindfaden ein Zettel gebunden
 …
 
 »Ah — der Neger!« meinte Harald, hob rasch den Stein
@@ -719,7 +719,7 @@ sie nachdenklich. »Wer ist das?!«
 Harald stützte die Hände auf den Steintisch, beugte sich
 vor …
 
-»Das ist die Frau, die, im Westturm gefangengehalten
+»Das ist die Frau, die im Westturm gefangengehalten
 wird, Miß Boeter …«
 
 »Wie — hier im Kastell?!« Und dann — lachte sie hell
@@ -764,7 +764,7 @@ Harald verneigte sich leicht.
 
 <@pagebreak/>
 
-» Miß Boeter, wir erblickten drüben von dem Abhang
+»Miß Boeter, wir erblickten drüben von dem Abhang
 her diesen Frauenkopf — heute morgen, als wir in der
 Grotte waren …«
 
@@ -847,7 +847,7 @@ Sie drehte sich uns zu. Ihr Gesicht war wieder wie
 vorhin … Die Liebenswürdigkeit der großen Dame hatte
 wieder alles andere weggewischt …
 
-»Gehen wir … Ich hätte Ihnen gern ein Erfrischung
+»Gehen wir … Ich hätte Ihnen gern eine Erfrischung
 angeboten …«
 
 Wir waren nun wieder in dem schattigen Garten …
@@ -1024,7 +1024,7 @@ wurde.«
 
 »Bikri?«
 
-»Zu — eine geheime Gesellschaft in Südarabien, sehr
+»Ja — eine geheime Gesellschaft in Südarabien, sehr
 europäerfeindlich, will Arabien allein für die Araber haben.
 Alles Fremde soll beseitigt werden … So eine Art politischer
 Klub, der bis Persien und bis in die Türkei hin Mitglieder
@@ -1164,7 +1164,7 @@ Geist soll sich melden …«
 »Harald!«
 
 »Was denn?! — Du denkst, wir warnen Ethel Boeter
-aus diese Weise?! Ja — Sie soll gewarnt werden …
+auf diese Weise?! Ja — Sie soll gewarnt werden …
 *Die* Frau ist zu schade für den Galgen …«
 
 Ich leuchtete ihm ins Gesicht …
@@ -1380,7 +1380,7 @@ Seltsam farblos war seine Stimme, als er jetzt leise
 sagte:
 
 »Sie sind krank, Miß Boeter … Ihre Rache ging über
-das Maß eines gefunden Geistes weit hinaus … Nur
+das Maß eines gesunden Geistes weit hinaus … Nur
 eine kranke Phantasie konnte all das ersinnen … Sie
 sollen nicht sterben … Ich werde …«
 
@@ -1432,7 +1432,7 @@ und der Malerin sich abgespielt hat, weiß ich bis heute nicht.
 Das Zartgefühl verbietet mir, mich in Vermutungen zu ergehen.
 
 <@pagebreak/>
-später erfuhr ich aus den Zeitungen, daß Miß Boeters
+Später erfuhr ich aus den Zeitungen, daß Miß Boeters
 Neger sämtlich entflohen waren und daß Mary Dagnaar
 zu ihrer Schwester nach Kalkutta zurückgekehrt ist. Ethel
 Boeter aber wurde im Garten des Kastells begraben.
