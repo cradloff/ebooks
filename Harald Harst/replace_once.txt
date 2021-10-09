@@ -36,3 +36,4 @@
 \bvor!\b	dort
 \bwirft\b	wirst
 \bWir\.	Mr.
+nod)	noch
