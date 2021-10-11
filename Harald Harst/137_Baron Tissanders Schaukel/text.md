@@ -6,7 +6,7 @@
 
 <h3>Die Kartoffel.</h3>
 
-Acht Tage kreuzten wir damnals8 Ziel- und zwecklos in!
+Acht Tage kreuzten wir damals ziel- und zwecklos im
 Indischen Ozean …
 
 Damals …
@@ -21,11 +21,11 @@ Schönheit, dieses Weib mit der krankhaften verbrecherischen
 Phantasie, ja kaum gekannt …
 
 Sollte ihm ihr Tod wirklich so nahe gegangen sein, sollte
-das große Rätsel Menschenherz ihm einen so gegen Streich
+das große Rätsel Menschenherz ihm einen so argen Streich
 gespielt haben?!
 
-Genug: er« sprach nie mehr über das uralte portugiesische
-Kastell dort auf der Insel folgten und erst recht nicht über
+Genug: er sprach nie mehr über das uralte portugiesische
+Kastell dort auf der Insel Sokotra und erst recht nicht über
 Ethel. Er saß zumeist im Liegestuhl auf dem Achterdeck und
 kümmerte sich um nichts.
 
@@ -33,67 +33,67 @@ John Trolby, der alte Seebär, und ich und die beiden
 malaiischen Matrosen Atiru und Sikiri mußten zusehen, wie
 wir uns die Zeit vertrieben. Sobald ein Dampfer am
 <@pagebreak/>
-Horizont auftatnchhte, sobald ein Segel sichtbar wurde, befahl
-Harald stets, sofort entgegengesetzten kurz zu steuern.
+Horizont auftauchte, sobald ein Segel sichtbar wurde, befahl
+Harald stets, sofort entgegengesetzten Kurs zu steuern.
 Er wollte eben niemand sehen — nichts als diese Wasserwüste
 ringsum und den Himmel und uns, die er nicht unsichtbar
 machten konnte.
 
-Als so eine Woche daßinging, sagte der kleine Nußknacker
+Als so eine Woche dahinging, sagte der kleine Nußknacker
 Trolby am Morgen des neunten Tages zu mir:
 
-»Gott sei Dank — diese verrückte Gondelei Nuß jetzt ein
+»Gott sei Dank — diese verrückte Gondelei muß jetzt ein
 Ende haben. Unser Trinkwassertank ist leer …«
 
 Und er stampfte zum Achterdeck und pflanzte sich vor Haralds
 Liegestuhl auf.
 
-»Sir, das Trinkwasser geht zu Ende … Der machte
-Hafen ist Kolombo auf Ceylon … In zwei Tagen Tunnels
+»Sir, das Trinkwasser geht zu Ende … Der nächste
+Hafen ist Kolombo auf Ceylon … In zwei Tagen können
 wir dort sein.«
 
 Harst schaute den braven John nicht an, sondern weiter
 in die Ferne …
 
 Sagte: »Sie irren, lieber Trolby … Trinkwasser können
-wir binnen zwölf Stunden haben … Sie vorgestern
+wir binnen zwölf Stunden haben … Sie vergessen
 die Insel Taletta …«
 
 Trolby knurrte …
 
-»Ah so … Taletta! Stimmt … Die muß ja fid-warts
-liegen … Stimmt … Aber — ob c3 dort
+»Ah so … Taletta! Stimmt … Die muß ja südwärts
+liegen … Stimmt … Aber — ob es dort
 Trinkwasser gibt auf dem gottverlassenen Ding?!«
 
-»Verstarb nicht?! — Wir fahren nach Taletta …«
+»Weshalb nicht?! — Wir fahren nach Taletta …«
 
-Und mit einer rüuckartigen Kopfbewegung verabschiedet
+Und mit einer ruckartigen Kopfbewegung verabschiedete
 er den kleinen John, der nun wie ein begossener Pudel zu
 mir geschlichen kam.
 
-Ich lehnte mittschiffs an der niederen Neblig, hatte alles
+Ich lehnte mittschiffs an der niederen Reling, hatte alles
 mit angehört …
 
-»Höhe der Satan! Wie kommt er nur auf Taletta?!«
+»Hol’s der Satan! Wie kommt er nur auf Taletta?!«
 brummte John. »Das Häuflein Felsen kennt doch kaum ein
-Mensch, Sei’s Stetermann8eramen gemocht hat! Auf keiner
+Mensch, der’s Steuermannsexamen gemacht hat! Auf keiner
 Karte ist die Insel verzeichnet, weil sie ja erst vor drei
 Jahren infolge vulkanischer Vorgänge aufgetaucht sein kann.
 Genau weiß das niemand. Jedenfalls traf mal ein Australienfahrer
 so vor drei Jahren dieses Inselchen, stellte fest,
 <@pagebreak/>
 daß es erst neuerdings entstanden sein konnte und nannte es
-Taletta, — das heiß]: der Kapitän tat’s, der hieß nämlich
-selbst Taletta, und sein Schiff war ein ironisches … So
-gehört denn ’Taleita zu Spanien … — Mehr weiß ich
+Taletta, — das heißt: der Kapitän tat’s, der hieß nämlich
+selbst Taletta, und sein Schiff war ein spanisches … So
+gehört denn Taletta zu Spanien … — Mehr weiß ich
 nicht …«
 
 »Hm — und Sie werden’s finden, John?«
 
-»Und ob! Die Lage ist n mir nach Längen- und Vreiten-grad
+»Und ob! Die Lage ist mir nach Längen- und Breitengrad
 genau bekannt …« —
 
-hieß geschah morgens sieben Uhr …
+Dies geschah morgens sieben Uhr …
 
 Und abends acht Uhr tauchte am südlichen Horizont
 Taletta auf.
@@ -102,7 +102,7 @@ Nichts als ein Haufen Felsen, das stimmte.
 
 Wir umrundeten es … Ein langgestrecktes Inselchen,
 vielleicht eine halbe Meile, und die Breite ganz unregelmäßig
-… Überall! schnitten Buchten tief ins Land.
+… Überall schnitten Buchten tief ins Land.
 
 Traurig sah das Ding aus … Auch nicht ein grüner
 Busch war zu sehen. Nur schwarzes oder graues Gestein.
@@ -110,10 +110,10 @@ Man merkte, daß Taletta vulkanischen Ursprungs war.
 
 Unsere Atlantis wurde vorsichtig in eine Bucht hineingelotst.
 Kaum hatten wir Anker geworfen, als Harald
-Du seinen unvermeidlichen Liegestuhl verließ und uns
+elastisch seinen unvermeidlichen Liegestuhl verließ und uns
 zurief:
 
-»das Beiboot zu Wasser! Ich lautete allein an Land!«
+»das Beiboot zu Wasser! Ich rudere allein an Land!«
 
 »Hat der jetzt Schrullen!!« brummte John Trolby …
 »Wie ’ne alte Jungfer!«
@@ -125,69 +125,69 @@ Ich ging zu Harald …
 Er blickte mich an. »quäle mich nicht, mein Alter …
 Laß Vergangenes ruhen …«
 
-»Ob — das tue ich schon. — Wollte nur fragen, weshalb
+»Oh — das tue ich schon. — Wollte nur fragen, weshalb
 ich nicht mit an Land soll … Ich denke, wir beide
-sind doch brüsten immer …«
+sind doch bisher immer …«
 
 Er hatte mir die Hand auf die Schulter gelegt …
 
-»Ah — werde es Dir ein andermal erklären …«
+»Ich — werde es Dir ein andermal erklären …«
 
 Und da durchzuckte es mein Hirn wie ein greller Blitzstrahl:
-Ethel Boeter hatte ihm »irgend etwas über diese
+Ethel Boeter hatte ihm irgend etwas über diese
 <@pagebreak/>
-neue Insel dumpf? in ihrer letzten Lebensstunde mitgeteilt!
+neue Insel damals in ihrer letzten Lebensstunde mitgeteilt!
 — Der Leser, der den vorigen Band: »Harald Harsts zweite
-Liebe« kennt, weiß ja, daß ich nicht dabei war, als sicher
+Liebe« kennt, weiß ja, daß ich nicht dabei war, als Ethel
 starb … nur Harald allein …
 
 Inzwischen hatten die beiden Malaien und John das
 winzige Beiboot schon ausgeschwungen …
 
 Harald kletterte hinein, war sehr bald am Buchtufer, zog
-das Boot alles Trockene und verschwand zwisch2n den
+das Boot aufs Trockene und verschwand zwischen den
 Felsenhügeln … —
 
 Es war noch heller Tag. Erst gegen halb zehn setzte
 die Dämmerung ein …
 
-John Trolby stopfte sich eine frisch;spielte und meinte:
+John Trolby stopfte sich eine frische Pfeife und meinte:
 
-»Schraut, Schraut, die Geschichte hier ist nicht vierzig!
+»Schraut, Schraut, die Geschichte hier ist nicht richtig!
 Ich wette, daß irgend jemand irgend etwas Harald Harst
-von dieser verwünschten hinter erzählt hat …«
+von dieser verwünschten Insel erzählt hat …«
 
-Oh — er war n:echt auf den Kopf gefalle, der kleine
-John! Nein, durchaus nicht! Er hatte jetzt also Ichnliches
+Oh — er war nicht auf den Kopf gefallen, der kleine
+John! Nein, durchaus nicht! Er hatte jetzt also Ähnliches
 geäußert, wie es mir vorhin durch den Sinn gegangen …
 
 »schon möglich!« nickte ich.
 
-»Sie sind auch so’n aller Geheimniskrämer, Schraut!
-Den Teufel auch! Wir sind nun dort) wochenlang hier
+»Sie sind auch so’n alter Geheimniskrämer, Schraut!
+Den Teufel auch! Wir sind nun doch wochenlang hier
 Kameraden, und —«
 
 »Trolby,« unterbrach ich ihn, »ich weiß nicht mehr als
-Sie. Ich vermute jedoch dasselbe: ohne Grund machten wir
-Taletta bestimmt nicht Mulatten! Und noch mehr: Harst
+Sie. Ich vermute jedoch dasselbe: ohne Grund mußten wir
+Taletta bestimmt nicht anlaufen! Und noch mehr: Harst
 hat uns so ganz allmählich so weit südlich steuern lassen,
 bis wir eben dieser Insel recht nahe waren.«
 
-Arm Trolby qualmte dicke Wolken. ..
+John Trolby qualmte dicke Wolken …
 
-Schraut, Schraut, Ihr Freund ist ’n Mensch, den man
-nie ’danz begreift — — mich! — Hat er denn gesagt, wann er
+»Schraut, Schraut, Ihr Freund ist ’n Mensch, den man
+nie ganz begreift — — nie! — Hat er denn gesagt, wann er
 zurückkehrt? Ich habe Hunger …«
 
 »Den haben Sie immer, lieber John … Essen wir
 also!«
 
-die Malaien mußten den Tisch auf dem ächzender herrichten.
+die Malaien mußten den Tisch auf dem Achterdeck herrichten.
 
 Wir aßen … Allmählich wurde es dunkel …
 
 <@pagebreak/>
-Und mit jeder verrinnenden Minute twv1rvchs jetzt meine
+Und mit jeder verrinnenden Minute wuchs jetzt meine
 Angst um Harald …
 
 Auch John meinte, es könnte ihm vielleicht etwas zugestoßen
@@ -195,11 +195,11 @@ sein. Wir sollten am besten von Atiru das Beiboot
 holen lassen und dann zu zweien mit Laternen auf die Suche
 gehen.
 
-Die Dunkelheit nahm raste zu. So rasch, wie dies nur
-in den Tropen zu gesehen pflegt.
+Die Dunkelheit nahm rasch zu. So rasch, wie dies nur
+in den Tropen zu geschehen pflegt.
 
 »bis zehn Uhr warten wir noch,« entschied ich kurz.
-»Arm mag aber schon je?! an Land schwimmen und uns
+»Atiru mag aber schon jetzt an Land schwimmen und uns
 das Boot bringen.«
 
 Der Malaie warf seinen Leinenanzug ab …
@@ -209,12 +209,12 @@ zwei brennenden Laternen an Deck …
 
 »Schraut, ich für meine Person warte nicht länger …
 was treibt Harst bei der Finsternis in dem Steinhaufen,
-von Sujet! Sie werden’s erleben: ihm ist etwas zugestoßen!«
+von Insel?! Sie werden’s erleben: ihm ist etwas zugestoßen!«
 
 So kletterten wir denn schon um drei Viertel zehn ins
 Boot. Die Malaien sollten derweil die Jacht bewachen.
 
-Wir wußten, in Belegen Richtung Harald sich entfernt
+Wir wußten, in welcher Richtung Harald sich entfernt
 hatte, und wir schlugen dieselbe Richtung ein.
 
 Zum ersten Male betrat ich so den Boden einer Insel, die
@@ -228,16 +228,16 @@ eine trostlose Eintönigkeit. Und dabei eine Wildnis
 aus Fels: Hügel, Schlünde, Boden, Löcher, Steinhaufen —
 alles wirr durcheinander …
 
-»Hier können wir tagelang suchen,« knurrte treibt, »Nein
-—« solch eine Verrücktheit von Harst. Unglaublich!
-Wie leicht kann matt hier in eine der Schatten fallen!« —
+»Hier können wir tagelang suchen,« knurrte Trolby. »Nein
+— solch eine Verrücktheit von Harst. Unglaublich!
+Wie leicht kann man hier in eine der Spalten fallen!« —
 
 Um Mitternacht gaben wir das Suchen auf, kehrten zur
 Jacht zurück …
 
 Beide niedergeschlagen, beide halb verzweifelt. Sobald
 <@pagebreak/>
-es hell wurde, wollten wir von neuem die verwünschte.
+es hell wurde, wollten wir von neuem die verwünschte
 Insel durchstreifen.
 
 Und wir taten’s auch … Sikiri, der jüngere der Malaien,
@@ -247,11 +247,11 @@ Da das harte Gestein keinerlei Spuren annahm, war es
 unmöglich, Haralds Fährte etwa zu verfolgen. Wir mußten
 auf gut Glück suchen.
 
-In welcher Stimmung ich mich damal23 befand, wird
-jeder begreifen, der das innige Frcundschast5sverhältnis
+In welcher Stimmung ich mich damals befand, wird
+jeder begreifen, der das innige Freundschaftsverhältnis
 zwischen Harst und mir kennt.
 
-Bei jeder neuen Spalte, die dunkel und steil in die diese
+Bei jeder neuen Spalte, die dunkel und steil in die Tiefe
 ging, fürchtete ich das Schlimmste: daß unten Harald mit
 zerschmetterten Gliedern läge!
 
@@ -259,35 +259,35 @@ Fünf Stunden brachten wir in dieser traurigen Wildnis
 zu … Dann kam Sikiri plötzlich vom Ufer einer der
 südlichen Buchten zu Uns gerannt …
 
-»Sein Feuerzeug … »tl« brüllte er schon von weitem.
+»Sein Feuerzeug …!!« brüllte er schon von weitem.
 
-Wahrhaftig:- es war Haralds vernickeltes kleines Feuerzeug
+Wahrhaftig: es war Haralds vernickeltes kleines Feuerzeug
 …!
 
-»280 lag c8, Sikiri?«
+»Wo lag es, Sikiri?«
 
-»Dicht am Wasser zwischen den kleinen …«
+»Dicht am Wasser zwischen den Steinen …«
 
 Wir drei eilten zur Bucht hinab. Der Malaie mußte uns
 die Stelle zeigen, wo er das blanke Büchslein gefunden hatte.
 
 Wir durchstöberten die Umgebung aufs genaueste …
 
-»Und — da fand ich denn noch etwas: eine Frucht, eine
-Erdfrucht, etwas ganz Unscheinbares: eine Kartoffel! In.
+Und — da fand ich denn noch etwas: eine Frucht, eine
+Erdfrucht, etwas ganz Unscheinbares: eine Kartoffel! In
 einer Wasserpfütze! — Und diese Kartoffel war nicht etwa
-verfault, sondern frisch, so irisch, daß sie hier kaum ein paar
+verfault, sondern frisch, so frisch, daß sie hier kaum ein paar
 Tage gelegen haben konnte!
 
-»Es war ein Schiff hier!« platte John heraus …
+»Es war ein Schiff hier!« platzte John heraus …
 
 Ich nickte nur …
 
-Zog das Feuerzeug Haralds nochmals5 hervor, besichtigte
+Zog das Feuerzeug Haralds nochmals hervor, besichtigte
 es genauer …
 
 Und dann sah ich, daß in die eine breite Seite offenbar
-mit einer Steinsäule etwas eingerihit war …
+mit einer Steinkante etwas eingeritzt war …
 
 Ein — Wort …
 <@pagebreak/>
@@ -295,30 +295,30 @@ Ein — Name …! Mühsam entzifferte ich:
 
 <p class="centered"><em>Goa</em></p>
 
-»Goa … Goa?!« — unwillkürlich sprach ich es laut.
+»Goa … Goa?!« — unwillkürlich sprach ich es laut
 aus …
 
 »Portugiesische Kolonie und Hafenstadt an der Westküste
 Vorderindiens,« wollte John mich eifrig belehren.
 
-»Weiß Bescheid … Kenne c3 …« Ganz versonnen.
+»Weiß Bescheid … Kenne es …« Ganz versonnen
 sprach ich es hin … Dachte nur daran, weshalb Harald
 dieses »Goa« hier in das blanke Nickel eingekratzt haben
 könnte.
 
 Ich sah ja: diese primitive Gravierung war ganz frisch.
-So frisch, daß sie mir in der verflossenen Nacht hergestellt
+So frisch, daß sie nur in der verflossenen Nacht hergestellt
 sein könnte.
 
-Mancherlei Bedenken kamen mir gegen die einfache Zeitung,
+Mancherlei Bedenken kamen mir gegen die einfache Lösung,
 daß Harald etwa nach Goa gewaltsam verschleppt
 worden sein sollte …
 
 Und aus diesen Gedanken schreckte mich des Malaien
-Sikiri neuer Teller Schrei aus:
+Sikiri neuer geller Schrei aus:
 
 »Turban, Tuwan …!!« (Herr, Herr …!! — Nur
-mich redete Sikiri zuweilen mit diesem unterwürfigen Titel.
+mich redete Sikiri zuweilen mit diesem unterwürfigen Titel
 an — außer Harald.)
 
 »Was gibt’s, Sikiri?«
@@ -326,13 +326,13 @@ an — außer Harald.)
 Der Malaie stand auf einem Felsen, der wie eine Anlegebrücke
 weit in die Bucht hineinragte …
 
-»Turban — hier ist etwas geschrieben …«
+»Tuwan — hier ist etwas geschrieben …«
 
-Und ich letzte hin. Hinter mir l;er keuchte John Trolby.
+Und ich hetzte hin. Hinter mir her keuchte John Trolby.
 
 Sikiri tanzte vor Freuden auf dem Felsen …
 
-»Tuwan, eine Anblick von Tuwan Harst!«
+»Tuwan, eine Nachricht von Tuwan Harst!«
 
 Und er zeigte auf eine glatte Stelle an der Seite des
 Steines …
@@ -342,32 +342,32 @@ schimmernd, dick hingemalt — deutsche Buchstaben, deutsch:
 
 <p class="centered">»Nicht Goa. Erwarte mich in Bombay.«</p>
 
-Diese »Aufschrift war seltsam. Der Inhalt überraschte
-und verwirrte mich. — Das hieß das: »Nicht Goa«?!
+Diese Aufschrift war seltsam. Der Inhalt überraschte
+und verwirrte mich. — Was hieß das: »Nicht Goa«?!
 Sollte ich Harald nicht nach Goa folgen?! Oder — sollte
 <@pagebreak/>
-Ich erging (und hierfür sprachen die deutschen Buchstaben und
-der deutsche Text) vor unseren Begleitern Goa nicht exklusiven?!
+Ich etwa (und hierfür sprachen die deutschen Buchstaben und
+der deutsche Text) vor unseren Begleitern Goa nicht erwähnen?!
 
 Rätsel über Rätsel stürmten auf mich ein …
 
 Und John Trolby fragte:
 
-»Rat bedeutet das, Schraut?? Eure verfilzten deutschen
-Budjitaben sind mir fremd …«
+»Was bedeutet das, Schraut?? Eure verflixten deutschen
+Buchstaben sind mir fremd …«
 
-»Ob — — das bedeutet:
+»Oh — — das bedeutet:
 
 »Nicht in Goa, sondern sofort nach Bombay.« Rasch
 hatte ich so den Text geändert — aus Vorsicht …
 
 Trolby glaubte mir. »Nun, dann also nach Bombay,«
-meinte er. »Glauben Sie, daß Harst gegen seinen Villen
+meinte er. »Glauben Sie, daß Harst gegen seinen Willen
 von diesen Fremden mitgenommen wurde?«
 
 »Ja, das glaube ich …« —
 
-Zwei Stunden später hatten die Malaien den Trink-wasisertank
+Zwei Stunden später hatten die Malaien den Trinkwassertank
 aus einer natürlichen Zisterne frisch gefüllt.
 
 Die Atlantis stach wieder in See …
@@ -375,26 +375,26 @@ Die Atlantis stach wieder in See …
 Und ich saß in meiner winzigen Kabine und — hatte vor
 mir auf dem noch winzigeren Tische — die Kartoffel liegen.
 
-Wenn man Harald kennt, beachtet man oben alles …
+Wenn man Harald kennt, beachtet man eben alles …
 
 Und sehr bald fand ich auch an der Außenhaut der Erdfrucht
 einen Kreis, der sich als dunklere Linie markierte. In
 diesen Kreis stach ich die Spitze der kleinen Klinge meines
-Federmessers hinein und hob so ein kegelsörmige3 Stü heraus.
+Federmessers hinein und hob so ein kegelförmiges Stück heraus.
 Das Loch selbst war unten mehr ausgehöhlt und enthielt
-ein Papierkfügelchen.
+ein Papierkügelchen.
 
-Ich strich das Papier glatt, las die mit ersten Bleistift
+Ich strich das Papier glatt, las die mit spitzem Bleistift
 geschriebenen Sätze:
 
 > Erwarte Dich allein in Goa. Sei vorsichtig. Lasse
-die Jahr in Bombay zurück und verschwinde. Eine
+die Jacht in Bombay zurück und verschwinde. Eine
 Milliardensache!! Mündlich Näheres …
 
 > Dein H.
 
-nach fünf Lagert langten wir spät abends in L5inbay
-an.« Und morgens um fünf Uhr fuhr ich als Holländer verkleidet
+nach fünf Tagen langten wir spät abends in Bombay
+an. Und morgens um fünf Uhr fuhr ich als Holländer verkleidet
 mit einem Küstendampfer südwärts — nach Goa.
 
 <@pagebreak/>
@@ -547,7 +547,7 @@ unter war Beamten in portugiesischen Diensten …«
 
 »Zehn Jahre lang … Sein Tagebuch über diese Zeit
 war in einer Geheimschrift abgefaßt. Er hatte in letztens
-Testament bestimmt, daß c3 verbrannt werden sollte. Eis;cl
+Testament bestimmt, daß es verbrannt werden sollte. Eis;cl
 konnte sich jedoch nicht davon trennen. Sie versuchte ist.:wer
 wieder, den Schlüssel der Geheimschrift zu finden. Es gelang
 ihr nicht. Und doch vermutete sie, daß der Reichtum
@@ -1656,7 +1656,7 @@ von Siltara nordöstlich von Goa geschafft, wo wir
 der Sträflingsabteilung Nummer drei unter den Nummern
 101 und 102 eingereiht wurden …
 
-Siltara ist ein langgestrecktes Gebirgötal. In der Mitte
+Siltara ist ein langgestrecktes Gebirgstal. In der Mitte
 stehen drei Sträsling8barakcken, ein Verwaltungsgebäude und
 die Kaserne für die Polizeitruppe von vierzig Mann.
 
