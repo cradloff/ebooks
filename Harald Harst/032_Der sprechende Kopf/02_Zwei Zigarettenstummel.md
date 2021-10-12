@@ -101,11 +101,11 @@ ebenso frisch in aller Erinnerung wie dieser Anschlag auf die
 India-Bank mit Hilfe des sprechenden Kopfes. Beide Male
 hätte die Malcapier bei vorsichtigerer Handhabung des Ganzen
 unbedingt ergriffen werden müssen. — Wenn es ihr jetzt
-vielleicht einfallen würde — dies nur im Scherz gesagt! —
+vielleicht einfallen würde — dies nur im Scherz gesagt! —,
 etwa die acht Haupthaare Buddhas aus der Schwe Dagon-Pagode
 zu rauben, so wäre dies der beste Beweis dafür, daß
 hier mehr weibliche Eitelkeit als verbrecherischer Instinkt mitspricht.
-— Wir die Redaktion wollen zu diesen Ausführungen
+— Wir, die Redaktion wollen zu diesen Ausführungen
 <@pagebreak/>
 nur eins bemerken. Daß Master Harst der berühmteste
 Detektiv der Jetztzeit ist, daß sein Scharfsinn bereits unendlich
@@ -148,9 +148,9 @@ weder aus krankhafter Veranlagung noch aus »Eitelkeit«,
 und zwar durch mich »angereizt«, Millionenwerte zu stehlen
 sucht.«
 
-Das Haus der Expreß Post liegt am Soolar-Platz. Es
+Das Haus der Expreß Post liegt am Soolay<@refnote 2/>-Platz. Es
 war 10 Uhr vormittags, als wir uns bei dem Chefredakteur
-anmelden ließen. Dieser liebenswürdige ältere Herr schickte
+anmelden ließen. Dieser liebenswürdige, ältere Herr schickte
 uns zu dem Lokalredakteur, indem er erklärte, der Artikel sei
 ohne sein Wissen in das Blatt hineingekommen; er hätte dies
 nie gestattet, da der unbekannte Verfasser jener Ausführungen
@@ -181,16 +181,16 @@ gemäß: »Nein, ich weiß es nicht!«
 »Wie gelangte das Schreiben in Ihren Besitz? Kam
 es durch die Post? Fanden Sie es im Redaktionsbriefkasten?«
 
-»Beides nicht Mr. Harst. Ich hatte gestern noch spät
+»Beides nicht, Mr. Harst. Ich hatte gestern noch spät
 abends zu tun. Die Kollegen waren schon nach Hause gegangen.
 Mir fehlte für den lokalen Teil noch irgend etwas,
 das so ein bißchen nach Sensation schmeckte. Das Publikum,
 selbst die Eingeborenen, wollen mit Sensationellem gefüttert
 werden. Ich zerbrach mir den Kopf, was ich nur in den noch
-leeren Platz einfügen könnte. Es war mittlerweile ½ 10 geworden.
+leeren Platz einfügen könnte. Es war mittlerweile ½10 geworden.
 Um 12 beginnen wir mit dem Druck. — Da klopfte
 es plötzlich. Ich rief Herein. Es war ein junger Birmane
-(Bewohner Birmas, einer Provinz Indiens, deren Hauptstadt
+(Bewohner Birmas, einer Provinz Indiens, deren Haupthafen
 Rangun ist) in gelbem Leinenanzug. Er sprach ein
 schauderhaftes Englisch, legte mir den Brief dort auf den
 Schreibtisch und sagte, ich solle ihn mal gleich lesen. — Er setzte
@@ -270,11 +270,11 @@ will der Anregung des unbekannten Verfassers Folge leisten.
 Sie können in Ihrem Blatte veröffentlichen, daß ich mich um
 die Malcapier nicht weiter kümmern und morgen früh Rangun
 mit meiner Jacht verlassen werde. Ich bitte Sie aber im
-übrigen Einzelheiten dieses meines Besuches hier bei Ihnen
+übrigen, Einzelheiten dieses meines Besuches hier bei Ihnen
 für sich zu behalten. Ich darf wohl hoffen, daß Sie diesem
 Wunsche unbedingt nachkommen.«
 
-»Selbstverständlich Mr. Harst. Selbst meinen Kollegen
+»Selbstverständlich, Mr. Harst. Selbst meinen Kollegen
 werde ich nur mitteilen, daß Sie mir die Bekanntgabe
 der eben erwähnten Entschließungen gestattet haben.«
 
@@ -291,7 +291,7 @@ gelernt zu haben.«
 Pongardy dienerte. »Es war mir eine große Ehre, Mr.
 Harst —« —
 
-Als wir dann unten auf dem Soolar-Platz standen, als
+Als wir dann unten auf dem Soolay-Platz standen, als
 Harst sich eine frische Zigarette anzündete, sagte er leise:
 
 »Mein lieber Alter, dieser Pongardy sollte ahnen! —
@@ -300,7 +300,7 @@ ungeschickt ist. Man verbrennt sich sonst die Finger.«
 
 Er schob seinen Arm in den meinen. Wir schritten den
 Anlagen zu, von denen die in der Mitte des Platzes sich erhebende
-Soolar-Pagode umgeben ist.
+Soolay-Pagode umgeben ist.
 
 »Was heißt das: Finger verbrennen?« fragte ich. »Und
 weshalb Dein Interesse für die Zigarettenasche auf dem Bastteppich?«
@@ -312,7 +312,6 @@ Plötzlich ging mir ein Licht auf.
 
 »Du argwöhnst, daß die Malcapier der birmanische Bote
 war, der den Brief Pongardy brachte!« sagte ich eifrig.
-
 »Leugne es nicht. Du —«
 
 <@pagebreak/>
@@ -377,11 +376,11 @@ Um 12 Uhr waren wir wieder an Bord des Standard
 und setzten uns in den kleinen Salon, wo Harst nun den
 Zigarettenstummel aus der Tasche zog.
 
-<h2>2. Kapitel</h2>
+<h2>2. Kapitel.</h2>
 <h3>Das sinkende Frachtboot.</h3>
 
 Es war dies der Rest einer selbstgedrehten Zigarette, wie
-man auf den ersten Blick sah. Der Stummel war etwa 2 ½
+man auf den ersten Blick sah. Der Stummel war etwa 2½
 Zentimeter lang. Das zu der Zigarette benutzte Papier hatte
 eine gelbliche Färbung. Das Mundende des Stummels war
 breit gedrückt; ein paar Fasern des Tabaks ragten ein Stück
@@ -418,7 +417,7 @@ es ist eine Kreislinie von bläulicher Farbe in der Größe eines
 <@pagebreak/>
 Fünfpfennigstücks, darin das Bild zweier rechtwinklig
 übereinander liegender —, hm, was soll’s nun sein? Krokodile,
-Molche, Eidechsen? — Ich behaupte es sind Eidechsen!«
+Molche, Eidechsen? — Ich behaupte, es sind Eidechsen!«
 
 Ich beschaute mir den Stempel ganz genau. »Die Zeichnung
 ist zu verschwommen,« erklärte ich. »Es können ebenso
@@ -521,7 +520,7 @@ schlau berechneter Anschlag auf uns und unsere Jacht. —
 Bevor ich den weiteren Verlauf dieses Flußpiratenstückchens
 schildere, möchte ich noch einschalten, daß die Birmanen
 als Buddhisten (der Buddhismus, die Verehrung des Gottes
-Buddha, ist neben dem Brahmaismus die Hauptreligion in
+Buddha, ist neben dem Brahmanismus die Hauptreligion in
 Indien und im ganzen östlichen Asien) überaus abergläubisch,
 dabei noch recht feige sind. Ihnen fehlt zum Beispiel vollständig
 jene tollkühne Todesverachtung, die die Malaien auszeichnet
@@ -594,18 +593,18 @@ Lapo Tau-Tau nie bezahlen.«
 
 Der Alte lachte schrill auf.
 
-»Und wenn Du 100 000 Pfund bietest, wirst Du doch getötet.
+»Und wenn Du 100&nbsp;000 Pfund bietest, wirst Du doch getötet.
 Ihr alle müßt sterben. Euer Blut wird das Holzmehl
 färben, und Eure Seelen werden hinabfahren zu den bösen
 Geistern! — Was weißt Du weißer Mörder von der Macht
 der Lapo Tau-Tau?! Nichts — nichts!« Er grinste höhnisch-überlegen
 »Du wirst die Lapo Tau-Tau sehen, aber erst,
-wenn dein Fleisch und deine Knochen auseinanderfallen wie
+wenn Dein Fleisch und Deine Knochen auseinanderfallen wie
 wie —« Er konnte den Satz offenbar nicht recht beenden.
 
 »Wie — die Bretter eines Baumstammes,« sagte Harald
-da. »Ich kenne Rangun. Es besitzt gegen 50 Schneidemühlen
-und die Lapo Tau-Tau hat uns den Tod durch ein Säge-Gatter
+da. »Ich kenne Rangun. Es besitzt gegen 50 Schneidemühlen,
+und die Lapo Tau-Tau hat uns den Tod durch ein Sägegatter
 zugedacht.«
 
 Der alte Kerl riß den Mund auf.
@@ -634,12 +633,12 @@ Pi-Mano spielte den Mutigen und Klügeren.
 
 »Das ist nicht wahr. Die Lapo Tau-Tau bist Du nicht.
 Sie ist weit weg von hier.« Dann ging er und stieß die Tür
-auf. In dem kurzen Gange der zu jeder Seite zwei Kabinentüren
+auf. In dem kurzen Gange, der zu jeder Seite zwei Kabinentüren
 und geradeaus eine niedrige Tür zur Schiffsküche hatte,
 war kein Mensch zu sehen.
 
 Der Alte befahl jetzt seinen Leuten, die Kabinen zu durchsuchen.
-Sie taten’s durchstöberten auch die kleine Küche und
+Sie taten’s, durchstöberten auch die kleine Küche und
 kamen mit sehr langen, ängstlichen Gesichtern in den Wohnsalon
 zurück.
 
@@ -702,7 +701,7 @@ längst durchschaut hatte, unterlag keinem Zweifel. Ich war
 nun außerordentlich gespannt darauf, wie er unsere Befreiung
 ins Werk setzen würde. Mit Gewalt war ja für ihn als einzelnen
 der bewaffneten Übermacht der Piraten gegenüber
-nichts auszurichten: Nur List konnte hier helfen.
+nichts auszurichten. Nur List konnte hier helfen.
 
 Die Birmanen, ebenso auch wir fünf Deutschen, ließen
 jetzt die Tür nicht aus den Augen, hinter der Harst angeblich
@@ -725,7 +724,7 @@ Freund Schraut sprechen.«
 Der alte Birmane beeilte sich, auch meine Fesseln zu lösen.
 Wir traten in den Gang ein. Harst drückte hinter uns die
 <@pagebreak/>
-Tür zu. — Er tat’s mit der Linken. Mit der Rechten hielt er
+Tür zu. Er tat’s mit der Linken. Mit der Rechten hielt er
 Pi-Mano den Selbstlader vor die Stirn. Die Piraten hatten
 es wohl für überflüssig erachtet, uns die Waffen wegzunehmen.
 
@@ -735,7 +734,7 @@ blindlings tust, was wir verlangen, schieße ich Dich nieder!«
 Pi-Manos Gesicht wurde erdgrau vor Schreck und Angst.
 
 »Ich werde die Tür eine Handbreit aufmachen,« fuhr
-Harst fort. »Dann schickst Du deine Leute an Land. Sie
+Harst fort. »Dann schickst Du Deine Leute an Land. Sie
 können von dem Frachtboot aus bequem über die Sandbänke
 ans Ufer gelangen. Befiehl ihnen, sich irgendwo zu verbergen
 und sich bis auf weiteres vor niemand sehen zu lassen,
@@ -753,7 +752,7 @@ mitten in einem nahen Wäldchen angegeben.
 
 Wir waren also wieder frei und Herren der Jacht. Unsere
 vier Landsleute wollten jetzt Pi-Mano so etwas mit dem
-Bauchrednerkunststück aufziehen dem wir diesen schnellen
+Bauchrednerkunststück aufziehen, dem wir diesen schnellen
 Umschwung der Lage verdankten. Aber Harst rief sofort:
 »Bitte — kein Wort davon, Freunde! Man kann nie wissen,
 ob wir Kerstens Fertigkeit nicht nochmals brauchen können.«
@@ -766,7 +765,7 @@ fragte, wer die Lapo Tau-Tau sei, erwiderte der Birmane
 große Macht besäße.
 
 Harst drang nicht weiter in den Alten, sondern verlangte
-nur noch zu erfahren wann die Simlo Tau-Tau sich hier einfinden
+nur noch zu erfahren, wann die Simlo Tau-Tau sich hier einfinden
 würde.
 
 Pi-Mano mußte erst wieder mit dem Selbstlader bedroht
@@ -859,7 +858,7 @@ Weber trocknete sich den Schweiß von der Stirn.
 
 »Donner noch eins!« meinte er. »Ich habe doch schon so
 manches erlebt. Aber in Ihrer Gesellschaft Herr Harst, —
-da geht’s scheint’s, stets recht aufregend zu!«
+da geht’s, scheint’s, stets recht aufregend zu!«
 
 Harst beugte sich über den Malaien, der auf einem Sessel
 festgebunden worden war. Ich glaubte, er würde ihn ausfragen.
@@ -897,17 +896,17 @@ Was Tau-Tau ist, muß Dir bekannt sein.«
 
 »Allerdings. Wie sollte ich auch wohl schon das Eidechsen-Problem
 unseres vorigen Abenteuers vergessen haben! Tau-Tau
-ist eine gelbschwarze Rieseneideche.«
+ist eine gelbschwarze Rieseneidechse.«
 
 »Ganz recht. Mithin existiert eine große und eine kleine
-Eidechse; also zwei Menschen die unter diesem »Titel« in
+Eidechse; also zwei Menschen, die unter diesem »Titel« in
 hiesigen Verbrecherkreisen hohes Ansehen besitzen. Und diese
 Verbrecherkreise dürften keine willkürliche Anzahl von Personen
-sein, sondern eben eine Filiale jenes Geheimbundes
+sein, sondern eben eine Filiale jenes Geheimbundes,
 dem man in den indischen und indochinesischen Hafenstädten
 längst auf der Spur ist, ohne ihn jedoch unschädlich machen zu
 können. Man könnte von einem Eidechsen-Bunde sprechen.
-Wenn Du Dir nun vergegenwärtigst, wie der Firmenstempel
+Wenn Du Dir nun vergegenwärtigst, wie der »Firmenstempel«
 des Zigarettenpapiers aussah, das wir zusammen als zu
 jenem Zigarettenstummel gehörig besichtigten, dann —«
 
@@ -939,7 +938,7 @@ hier stehen noch ein paar Zeichen, darunter so etwas wie eine
 Skizze, ein Achteck darstellend, darin acht Häkchen. — Hm —
 hm, dies bestätigt meine Vermutung, daß die Malcapier schon
 wieder einen großen Streich plant, bei dem sie es diesmal auf
-etwas abgesehen hat, das vielleicht, nein ganz bestimmt, einzig
+etwas abgesehen hat, das vielleicht, nein, ganz bestimmt, einzig
 in seiner Art ist.«
 
 Ich nahm ihm das Blättchen Zigarettenpapier ab.
@@ -1006,8 +1005,8 @@ Harst forschend ins Gesicht. Und er — er lächelte ein wenig.
 
 Drei buddhistische Feiertage! Drei! Und — drei Umrisse
 von Buddha-Statuen enthielt das Blättchen Zigarettenpapier.
-Die ersten beiden waren durchstrichen ungültig! — Ich begriff
-plötzlich. Ich packte Harsts Arm drückte ihn.
+Die ersten beiden waren durchstrichen, ungültig! — Ich begriff
+plötzlich. Ich packte Harsts Arm, drückte ihn.
 
 »Du — die dritte Buddha-Statue, die noch »gültige«, bedeutet
 den dritten Feiertag, also morgen!« erklärte ich überstürzt.
@@ -1069,7 +1068,7 @@ dieses »blutgierigen Tigers«, wie Pi-Mano ihn bezeichnet
 hatte. Ich schaute genau hin. Es war derselbe Knopf,
 dieselbe vergoldete Gravierung.
 
-Harst nahm ihm nun das Tuch ab. Die jetzt vor maßlosen
+Harst nahm ihm nun das Tuch ab. Die jetzt vor maßloser
 Wut rot geäderten Augen des Malaien schienen mit ihren
 giftigen Blicken töten zu wollen.
 
@@ -1126,7 +1125,7 @@ rauchte eine lange, grünbraune Sumatra und zergrübelte sich
 den Kopf, wie und wo er Eugenie Malcapier fangen könnte.
 Vor ihm lag die neueste Nummer der Ranguner Expreß Post.
 Darin stand eine Notiz, daß Harald Harst die Verfolgung
-der hochintelligenten, vielseitigen und äußerlich so sehr anziehenden
+der »hochintelligenten, vielseitigen und äußerlich so sehr anziehenden«
 Verbrecherin endgültig aufgegeben hätte und daß
 es nunmehr Sache der Behörden sei, die Frau auf irgend eine
 Weise unschädlich zu machen.
@@ -1184,7 +1183,7 @@ Chatarsan schüttelte wiederholt den Kopf und warf ein
 »Unglaublich!« ein. Als Harald von dem Eidechsen-Bunde
 zu sprechen begann, rief der Inspektor leise:
 
-»Himmel — dann haben wir die ganze Bande fest! Welch
+»Himmel — dann haben wir die ganze Bande fest! Welch’
 ein Glück!«
 
 Harst entwickelte ihm dann des längeren seine Gegenmaßregeln
@@ -1195,7 +1194,7 @@ einverstanden.
 Dann gingen wir, taten ganz fremd miteinander. Chatarsan
 ließ uns durch den Polizisten auf die Straße geleiten.
 
-Es war jetzt ½ 12 nachts. Der Mond stand als fast volle
+Es war jetzt ½12 nachts. Der Mond stand als fast volle
 Scheibe am wolkenlosen Himmel. — Wir trugen Stöcke über
 der Schulter, an denen unsere Bündel hingen. Unsere nackten,
 braungefärbten, schmutzigen Füße steckten in Sandalen.
@@ -1212,14 +1211,14 @@ Frömmigkeit, trotteten neben uns die gläubigen
 Buddhisten einher. Ein wahrer Völkermischmasch
 war’s. Selbst Singhalesen von der Insel Ceylon, schlanke,
 edle Gestalten, sah man in Menge vertreten, daneben Malaien,
-die gefürchteten Atchinesen aus Sumatra, dann wieder Tongkinesen
+die gefürchteten Atchinesen aus Sumatra, dann wieder Tonkinesen<@refnote 3/>
 und was sonst alles noch an Asiaten Buddha als oberste
 Gottheit verehrt.
 
 Die Schwe Dagon-Pagode mit ihren Nebenbaulichkeiten
 liegt unweit der Militärkasernen, in denen England ständig
-eine Truppenmacht von 15 000 Mann unterhält und neben
-dem großen Königssee mit prachtvollen Anlagen und Promenaden.
+eine Truppenmacht von 15&nbsp;000 Mann unterhält, und neben
+dem Großen Königssee mit prachtvollen Anlagen und Promenaden.
 
 Die eigentliche Pagode, ein Bauwerk von 98 Meter Höhe,
 <@pagebreak/>
@@ -1227,10 +1226,10 @@ erhebt sich auf einem Hügel, der festungsartig ausgebaut ist.
 Als Material sind gebrannte, stark vergoldete Ziegel verwendet
 worden. Die Pagode ist mit einem kegelförmigen Schirm
 aus eisernem, ebenfalls vergoldeten Netzwerk umgeben. 1871
-wurde diese Vergoldung zuletzt erneuert und kostete 1 ½ Millionen
+wurde diese Vergoldung zuletzt erneuert und kostete 1½ Millionen
 Mark. Die Dächer sind überall mit großen und kleinen
 Bronzeglocken behangen. Die größte Glocke, ein Ungetüm
-von 25 000 kg Schwere, befindet sich an der Ostseite. Bei
+von 25&nbsp;000 kg Schwere, befindet sich an der Ostseite. Bei
 mäßigem Winde schon schwingen die Glocken von selbst hin und
 her und sollen dann einen gehörigen Lärm machen. Uns entging
 dieser Ohrenschmaus, da die Nacht ganz windstill war.
@@ -1253,7 +1252,7 @@ aber auch unser übliches Handwerkszeug.
 
 Man konnte hier Studien machen. Neben dem armseligen
 chinesischen Kuli hockte hier auf den Steinstufen der reiche
-malaische Kaufmann; neben dem edlen Gesicht der Singhalesen
+malaiische Kaufmann; neben dem edlen Gesicht der Singhalesen
 grinste der brutale Kopf des Atchinesen aus den Sümpfen
 Sumatras. — Alles unterhielt sich nur flüsternd.
 
@@ -1367,7 +1366,7 @@ undurchdringbar.«
 Harst hatte seine Taschenlampe eingeschaltet. »Ich will
 mir nur mal das Türschloß ansehen,« meinte er und bückte
 sich, beleuchtete die an der Innenseite der Tür offen, ohne
-Schutzblech angenieteten Riegel, Federn und anderen Schloßteile,
+Schutzblech, angenieteten Riegel, Federn und anderen Schloßteile,
 bat sich dann den Schlüssel von dem Oberpriester aus,
 steckte ihn in das Schlüsselloch und ließ das komplizierte Riegelsystem
 spielen.
@@ -1399,7 +1398,7 @@ sehr tiefe Nischen, in denen Götzenbilder, Glocken, Räucherpfannen
 und andere Tempelgeräte standen.
 
 Der Lichtkegel der Lampe glitt über die Decke hin. Ich
-sah, daß sie aus einer Lage sehr starker, tief nachgedunkelten
+sah, daß sie aus einer Lage sehr starker, tief nachgedunkelter
 Balken sich zusammensetzte. Zwischen den Balken waren gebrannte
 Steine eingefügt. Und — ich sah nun auch das quadratische
 Loch in der Decke.
@@ -1446,7 +1445,7 @@ kaum sprechen. Harst beruhigte ihn und bat ihn, uns hier
 einzuschließen, uns dann einige Lebensmittel zu bringen und
 uns wieder allein zu lassen.
 
-<h2>5. Kapitel</h2>
+<h2>5. Kapitel.</h2>
 <h3>Der zweite Zigarettenstummel.</h3>
 
 So geschah es auch. Inspektor Chatarsan blieb bei uns.
@@ -1462,7 +1461,7 @@ Ihr Euch nicht die Knochen wund drückt.«
 Chatarsan und ich schliefen dann auch wirklich ein. Ich
 fand dieses Abenteuer alles in allem wenig aufregend. Ich
 dachte mir den Abschluß so, daß wir die Malcapier hier in
-aller Ruhe abfassen würden, wenn sie mit ein Paar Helfershelfern
+aller Ruhe abfassen würden, wenn sie mit ein paar Helfershelfern
 den Schrein versenken und stehlen wollte. Hätte ich
 ahnen können, daß die Geschichte so ganz anders endete, würde
 ich kaum neben Chatarsan so behaglich eingeschlummert sein.
@@ -1612,13 +1611,13 @@ Harst hatte seine Lampe aufblitzen lassen. Wir liefen in
 den Hauptkeller. Linker Hand vor einer Nische lag regungslos
 Inspektor Chatarsan. Und — in der Nische, zu Füßen
 einer überlebensgroßen Buddha-Statue, fanden wir einen
-jungen schlanken Birmanen mit einer Schußwunde in der
+jungen, schlanken Birmanen mit einer Schußwunde in der
 linken Schläfe: Eugenie Malcapier, die sich selbst gerichtet
 hatte! — Aber — sie lebte noch, kam noch einmal zu sich. Ein
 Blick unauslöschlichen Hasses traf Harst.
 
-»Sie haben den falschen erschossen,« sagte Harald ernst.
-»Inspektor Chatarsans Kopfschuss war sofort tödlich.«
+»Sie haben den Falschen erschossen,« sagte Harald ernst.
+»Inspektor Chatarsans Kopfschuß war sofort tödlich.«
 
 »Auch Sie werden sterben!« stieß die Malcapier mühsam
 hervor. »Auch Sie! Und Sie werden um Gnade winseln
