@@ -6,7 +6,7 @@ Rangun.
 
 Die Straßen des Europäer- und Hafenviertels waren um
 die Mittagszeit wie ausgestorben. Nur an den Kais, wo die
-Tourdampfer nach den Nachbarhäfen ihre Liegeplatze hatten,
+Tourdampfer nach den Nachbarhäfen ihre Liegeplätze hatten,
 herrschte einiges Leben. Wer nicht unbedingt bei dieser Backofenhitze
 ins Freie mußte, blieb daheim.
 
@@ -39,7 +39,7 @@ Rangun.
 
 > Heute früh 6 Uhr von eingeborenen Arbeitern in der
 Nähe des Dorfes Prabang leicht verwester Kopf eines Europäers
-vorgefunden. Gesichtszüge offenbar absichtlich durch
+gefunden. Gesichtszüge offenbar absichtlich durch
 Schläge mit stumpfem Instrument völlig unkenntlich gemacht.
 Würde sehr dankbar sein für Besuch hier. —
 Detektivinspektor Bloosley, Akyab.
@@ -55,14 +55,14 @@ kleinen Hafenstadt, Mr. Harst,« suchte Worbster seinem Kollegen
 Bloosley zu Hilfe zu kommen. »Ich stelle Ihnen ein
 Dienstauto zur Verfügung, einen Rennwagen.«
 
-»Das sind mit Rückfahrt 32 Stunden und mit Aufenthalt
+»Das sind mit Rückfahrt 32 Stunden, und mit Aufenthalt
 in Akyab rund vierzig, lieber Worbster also fast zwei volle
 Tage!«
 
-»Ganz recht. Aber, Sie sind hier mit der Kuma Tawi-Geschichte
+»Ganz recht. Aber Sie sind hier mit der Kuma Tawi-Geschichte
 ja doch so etwas auf dem toten Punkt angelangt.
-Ich verspreche Ihnen auch, während Ihrer Abwesenheit eben
-so rührig zu sein wie bisher.«
+Ich verspreche Ihnen auch, während Ihrer Abwesenheit ebenso
+rührig zu sein wie bisher.«
 
 »Alles sehr schön. Tschong würde ein sehr langes Gesicht
 machen, wenn ich Rangun verließe. Er ist ein braver Mensch
@@ -87,16 +87,16 @@ Bloosleys Antworten unterrichtet. — Die Unterhaltung nahm
 folgenden Verlauf, nachdem Bloosley seiner Freude wortreich
 Ausdruck gegeben hatte, auf diese Weise den »weltberühmten
 Liebhaberdetektiv« kennen zu lernen. (Zu dieser faustdicken
-Schmeichelei schnitt Harst eine wütende Grimasse).
+Schmeichelei schnitt Harst eine wütende Grimasse.)
 
-*Harst* »Bevor ich mich entscheide, ob ich nach Akyab
+*Harst*. »Bevor ich mich entscheide, ob ich nach Akyab
 komme, einige Fragen, Mr. Bloosley. — Ist der Kopf auf
 freiem Felde gefunden worden?«
 
-*Bloosley* »Nein unter einem riesigen, uralten Baume
+*Bloosley*. »Nein, unter einem riesigen, uralten Baume
 in einer steinigen Wildnis.«
 
-*Harst* »Ist der Kopf vom Rumpfe durch Schnitte oder
+*Harst*. »Ist der Kopf vom Rumpfe durch Schnitte oder
 einen Hieb mit einem Messer, Schwert oder dergleichen abgetrennt?«
 
 *Bl.* »Das läßt sich kaum noch feststellen. Ameisen haben
@@ -124,6 +124,7 @@ winkte er ungeduldig ab.
 <@pagebreak/>
 Wir beide, der Inspektor und ich, saßen schweigend und
 erwartungsvoll da. Dann sagte Harald ganz unvermittelt:
+
 »Worbster, bitte die hiesige Expreß Post der letzten vier
 Tage.«
 
@@ -163,23 +164,23 @@ Er rief den Maschinisten Jürgensen herbei.
 »Bei Mutter Olderlong, Herr Harst, schätz’ ich. Dort
 nimmt er ja stets seinen Frühschoppen ein.«
 
-Es war jetzt genau 12 Uhr Mittags. Harst bat mich, alles
+Es war jetzt genau 12 Uhr mittags. Harst bat mich, alles
 zur Abreise vorzubereiten. »Unsere Koffer nehmen wir mit,«
 fügte er hinzu. »Ich gehe mal zu Mutter Olderlong hinüber.«
 
-Es war das eine kleine blitzsaubere Hafenkneipe in der
+Es war das eine kleine, blitzsaubere Hafenkneipe, in der
 nur Kapitäne und Steuerleute verkehrten.
 
 Ich begann sofort zu packen. Jürgensen half mir freiwillig.
 Ich erzählte ihm, daß wir nach Akyab im Auto wollten.
 
 Wir wurden in unserer Arbeit durch das Erscheinen
-Tschongs, des Kalkuttaer Edelsteinhändlers gestört.
+Tschongs, des Kalkuttaer Edelsteinhändlers, gestört.
 
 Tschong war furchtbar aufgeregt.
 
 <@pagebreak/>
-»Wo ist Harst?« rief er ohne sich Mühe zu geben, seine
+»Wo ist Harst?« rief er, ohne sich Mühe zu geben, seine
 völlige Verstörtheit zu verheimlichen.
 
 Ich schickte Jürgensen hinaus. Tschong sank auf das
@@ -228,7 +229,7 @@ dann wieder ein armer Mann fast. Mein Bruder hatte
 mich ja schon vorher gehörig ausgesogen.« Und Tschong seufzte
 wieder, nahm die goldene Brille ab und putzte umständlich die
 Gläser mit seinem Seidentüchlein. Sein bartloses Gesicht
-war ganz verfallen. Während er mit seinen trüben kurzsichtigen
+war ganz verfallen. Während er mit seinen trüben, kurzsichtigen
 Augen nun zu mir hinüberblickte, fügte er hinzu, wobei
 er nur flüsterte:
 
@@ -248,7 +249,7 @@ Tschong starrte vor sich hin. »Ich habe ja schon recht kopflos
 gehandelt, daß ich überhaupt herkam,« meinte er nach einer
 Weile.
 
-Diese Bemerkung genügte mir. »Ich verstehe Herr
+Diese Bemerkung genügte mir. »Ich verstehe, Herr
 Tschong. Die zweite Depesche warnte Sie davor, etwa unsere
 Hilfe in Anspruch zu nehmen gegenüber diesem Erpressungsversuch.«
 
@@ -282,7 +283,7 @@ und sende Warenschein an Konkurrenzfirma. Iwa
 Tamuk u. Co.«
 
 Der Sinn war klar: das vorgeschlagene Geschäft bedeutete
-die Erpressung: die deutschen Kompagnons waren Harst
+die Erpressung; die deutschen Kompagnons waren Harst
 und ich; der Warenschein aber das Schuldbekenntnis, und die
 Konkurrenzfirma die Polizei. Die Unterschrift war der Name
 von Tschongs Bruder von rückwärts gelesen. —
@@ -450,7 +451,7 @@ Telegraphenlinie nach Kalkutta geht über Mandalay. Und das
 Postamt in Mandalay ist gewarnt. Diese Telegraphenlinie
 endet in Akyab. — Die Halunken haben uns einfach zurücklocken
 wollen, damit wir Zeit verlieren. Jedenfalls sind wir
-aber ständig beobachtet worden und die »Eidechsen« müssen irgendwie
+aber ständig beobachtet worden, und die »Eidechsen« müssen irgendwie
 ausspioniert haben, daß unser nächstes Ziel Akyab
 <@pagebreak/>
 ist. Peinlich wäre es nur, wenn dies Verbrechergesindel hier
@@ -458,7 +459,7 @@ an der Bergstraße Freunde wohnen hätte, die uns auf
 telegraphische Weisung hin so ein wenig belästigen —«
 
 Er knöpfte den hellen Staubmantel auf, holte aus der
-Schlüsseltasche der Beinkleider die neunschüssige Klement-Pistole
+Schlüsseltasche der Beinkleider die neunschüssige Clement-Pistole
 hervor, schob die Sicherung zurück und steckte die Waffe in die
 rechte Manteltasche.
 
@@ -513,7 +514,7 @@ Er stieß einen gurgelnden Schrei aus. Von hinten waren
 ein paar gelbbraune Kerle auf das Auto geklettert. Einer
 hing wie eine Katze auf Harsts Rücken und würgte ihn.
 
-Blitzschnell folgte ich der Eingebung des Augenblicks warf
+Blitzschnell folgte ich der Eingebung des Augenblicks, warf
 mich nach vorn, fiel halb unter den Vordersitz.
 
 Nur so entging ich einem ähnlichen Angriff. Im Nu
@@ -527,7 +528,7 @@ Seite.
 
 Ich schoß nochmals — nochmals. Ich sah, wie Harst nun
 ebenfalls trotz der braunen Finger, die seinen Hals umkrallten,
-die Waffe hob nach hinten hielt, feuerte.
+die Waffe hob, nach hinten hielt, feuerte.
 
 Ein gellender Schrei.
 
@@ -566,7 +567,7 @@ leicht ergrautes, dunkles Haar. Von den Gesichtszügen war
 tatsächlich nichts mehr zu erkennen. Das Gesicht war nur noch
 eine formlose Masse.
 
-Haust scheute sich nicht, jetzt den Unterkiefer mit aller
+Harst scheute sich nicht, jetzt den Unterkiefer mit aller
 Kraft zu öffnen. Dann faßte er in den Mund, holte die Stücke
 eines künstlichen Gebisses heraus.
 
@@ -616,11 +617,11 @@ menschlicher Leichenteil.«
 Rumpf ist in nächster Nähe «
 
 Bloosley polterte sofort los: »Ausgeschlossen! Jede Wette
-gehe ein, daß —«
+gehe ich ein, daß —«
 
 Harst winkte mit der Hand. Bloosley schwieg. Dann
 <@pagebreak/>
-hob Harst den Art und deutete in das dichte Blätterdach des
+hob Harst den Arm und deutete in das dichte Blätterdach des
 Baumes hinauf.
 
 »Dort hängt der Rumpf, Mr. Bloosley. — Schicken Sie
@@ -668,7 +669,7 @@ Wir schritten dem Dorfe wieder zu. Unser Chauffeur
 Pennworld ging links neben uns. Er wiederholte mehrfach
 leise den Namen des Toten.
 
-— »Hm — Prestilant — Prestilant!« meinte er nun. »Der
+»Hm — Prestilant — Prestilant!« meinte er nun. »Der
 Name ist mir nicht unbekannt. — Halt, nun hab ich’s! Das
 ist ja der verrückte Erfinder, der einen Wagen konstruiert
 hatte, mit dem er die Treppen zur Schwe Dagon-Pagode hinauffuhr;
@@ -696,7 +697,7 @@ schlafen versuchen. Wir gehen bösen Stunden entgegen.«
 
 »In Kalkutta,« meinte ich kurz.
 
-»Nein, vorher. Wir bilden uns ein Kuma Tawi zu jagen,
+»Nein, vorher. Wir bilden uns ein, Kuma Tawi zu jagen,
 und wir werden selbst gejagt. Ein Kesseltreiben auf
 uns fand im Tunnel hinter Palembano schon statt. Wo droht
 uns das zweite — wo?! — Jedenfalls vor Kalkutta.«
@@ -742,7 +743,7 @@ in den Zeitungen durchsah.«
 redetest nur von Wetterberichten, während Du —«
 
 »Schon gut. Es waren wirklich die Wetterberichte. — Hast
-Du in Akyab, als wir die Benzinbehälter füllten, den Schieläugigen
+Du in Akyab, als wir die Benzinbehälter füllten, den schieläugigen
 Chinesen bemerkt, der Pennworld so gute Zigaretten
 so sehr billig verkaufte? Ich wette, dieser alte Halunke hat
 Pennworld ausgehorcht, wohin unsere Reise geht. Frage unseren
@@ -789,7 +790,7 @@ haben.«
 »Geographie schwach, mein Alter. Wir treiben uns doch
 schon lange genug in Indien herum. Da könntest Du Deine
 Schulkenntnisse längst wieder aufgefrischt haben. Der heilige
-Ganges bildet ein dreieckiges Delta, dessen Grundlinie der
+Ganges bildet ein dreieckiges Delta, dessen Grundlinie, der
 Küstenstrich, 164 Kilometer lang ist. Dieses riesige Gebiet ist
 eine Wildnis, bestehend aus unzähligen Inseln und Inselchen,
 aus Tausenden von morastigen Wasserläufen, aus tropischen Urwäldern,
@@ -798,7 +799,7 @@ im Norden wohnen dort Leute. Im übrigen hausen dort allerlei
 angenehme Tierarten in Überfülle: Tiger, Leoparden,
 Büffel, Nashörner, Krokodile, Giftschlangen und so weiter.
 Die Sunderbands sind ein Naturtierpark, wie die Welt keinen
-zweiten kennt. Jagdausübung verbietet sich dort von selbst,
+zweiten kennt. Jagdausübung verbietet sich dort von selbst
 der Fiebergefahr wegen. Lediglich Holzfäller wagen sich in die
 Wildnis, außerdem Leute, die Grund haben, sich zu verbergen.
 Wollten wir das Gangesdelta nach Norden zu umfahren, würden
@@ -806,13 +807,13 @@ wir 12 Stunden mehr brauchen. Wir müssen also durch die
 Sunderbands unseren Weg nehmen. Ich beabsichtige Port
 Canning, den einzigen größeren Ort in diesen Sümpfen und
 Wäldern, zu erreichen. Von dort führt eine Bahn nach Kalkutta,
-die wir benutzen werden — falls »man« uns eben bis
+die wir benutzen werden, — falls »man« uns eben bis
 Port Canning durchläßt. »Man« — das ist eben Kuma Tawi
 nebst Anhang.« —
 
 Um 8 Uhr abends waren wir in Dakka, einer uralten
 Stadt an einem Nebenfluß des Brahmaputra. Um 9 Uhr
-begann es zu dunkeln. Um ½ 10 glitten wir über die letzte
+begann es zu dunkeln. Um ½10 glitten wir über die letzte
 größere Brücke eines breiten Deltaarmes des Ganges hin, waren
 nun in den berüchtigten Sunderbands.
 
@@ -844,7 +845,7 @@ Stunde sei die gefährlichste für uns.
 Es ging jetzt etwas bergan. Die Wälder traten zurück.
 Neben der Straße gab es hier nur hellen Flugsand, eine seltene
 Erscheinung. Dann lag tief unter uns in der Ferne ein
-im Mondenlicht glitzernder breiter Strich, ein größerer Deltaarm.
+im Mondenlicht glitzernder, breiter Strich, ein größerer Deltaarm.
 
 Pennworld mäßigte das Tempo.
 
@@ -859,12 +860,12 @@ Hause hing in einem Gestell eine große Glocke.
 Wir hielten erst auf der Brücke an. Pennworld sprang
 ab, läutete die Glocke. Hinter den Fenstern des Fährhauses
 wurde es hell. Nach einer Weile traten zwei Inder heraus,
-lange kräftige Leute mit tiefschwarzen Vollbärten. Brummig
+lange, kräftige Leute mit tiefschwarzen Vollbärten. Brummig
 schoben sie die Geländerbalken weg. Pennworld lenkte
 das Auto vorsichtig auf die Fähre. Es war eine Zugfähre mit
 einer Kette, die von Ufer zu Ufer reichte. Der Deltaarm hatte
 etwa 80 Meter Breite. — Die beiden Inder hakten ihre Zugriemen
-in die Kette ein und die Fähre verließ die Brücke.
+in die Kette ein, und die Fähre verließ die Brücke.
 
 Harst stand auf dem Vordersitz und schaute sich argwöhnisch
 um. Pennworld kniete neben dem Auto und füllte die Ölkapseln
@@ -877,7 +878,8 @@ Die beiden Inder zogen langsam und gleichmäßig, sich weit
 vorbeugend, das flache, kastenähnliche Fahrzeug durch die kaum
 merkliche Strömung.
 
-»Ein Boot — sechs Leute darin!« flüsterte Harald da.
+»Ein Boot, — sechs Leute darin!« flüsterte Harald da.
+
 Mein Kopf schnellte hoch. Wirklich — von Norden her
 kam ein langer, schmaler indischer Nachen dahergeschossen. Vier
 Leute ruderten; zwei saßen am Steuer.
@@ -1011,7 +1013,7 @@ schoß, — ich weiß es nicht! Ich handelte wieder rein mechanisch,
 drückte mit dem linken Ellbogen den einen Türhebel herunter,
 kroch heraus, kroch nach dem anderen Ende der Fähre,
 ließ mich langsam von der durch Ketten festgehaltenen, in Angeln
-beweglichen ausklappbaren äußersten Spitze halb ins
+beweglichen aufklappbaren äußersten Spitze halb ins
 Wasser gleiten, indem ich dabei das Ende der einen Kette mit
 den zusammengebundenen Händen fest umklammerte.
 
@@ -1083,7 +1085,7 @@ in die Ecke der Hütte und brüllte Harst an:
 »Folge mir, — setz’ Dich dorthin!« Er wies auf einen
 Baumklotz neben dem Herde.
 
-Harst hatte eine breite rote Stelle auf der Stirn, offenbar
+Harst hatte eine breite, rote Stelle auf der Stirn, offenbar
 von einem Hiebe mit einem stumpfen Gegenstand.
 
 Er ging sehr elastisch, lächelte den vertrockneten Gelben
@@ -1121,13 +1123,13 @@ schaute gänzlich teilnahmlos in das Herdfeuer. — Der dürre
 Spitzbube räusperte sich, fragte dann: »Was ist in den Koffern
 drin?«
 
-»Gold,« erwiderte Harst ohne sich zu regen.
+»Gold,« erwiderte Harst, ohne sich zu regen.
 
 Der Chinese grinste selig.
 
 »Wirklich — Gold?«
 
-»Ja. Aber Du wirst es nie erhalten, « meinte Harst und
+»Ja. Aber Du wirst es nie erhalten,« meinte Harst und
 lächelte spöttisch. »Hast Du mal etwas von Sprengverschlüssen
 gehört?«
 
@@ -1222,7 +1224,7 @@ die zehn Gauner hier zu bewachen, bis wir ihnen aus Port
 Canning polizeiliche Hilfe geschickt hätten.
 
 Wir aber beeilten uns, ein primitives Baumfloß zu bauen,
-auf dem wir gegen Morgen unsere Koffer als Fracht mit uns
+auf dem wir gegen Morgen, unsere Koffer als Fracht mit uns
 führend, lediglich nach dem Kompaß und mit Hilfe der Stoßstangen
 der Fähre, die am Ufer gelegen hatten, die recht beschwerliche
 Wasserfahrt antraten.
@@ -1283,10 +1285,10 @@ schnell in Verbindung setzen?«
 »So, dann fragen Sie bitte an, ob nicht ein Fremder
 Palwsons Namen mißbraucht hat. Die Antwort wird so ausfallen,
 daß Sie uns beiden dann Glauben schenken werden.
-Außerdem haben Sie noch keine Meldung erhalten, daß die
+Außerdem: haben Sie noch keine Meldung erhalten, daß die
 Fähre östlich der Stadt verschwunden ist?«
 
-»Hm — das wohl Sie wird sich eben losgerissen haben.«
+»Hm — das wohl. Sie wird sich eben losgerissen haben.«
 
 »Telephonieren Sie!« sagte Harst kurz und zog sich einen
 Stuhl herbei.
@@ -1300,7 +1302,6 @@ Ausweis?« fragte ich leise. »Deine Photographie auf dem
 Ausweis —«
 
 »— würde uns auch nichts nützen!« vollendete Harald.
-
 »Der Mann will uns nicht glauben — sehr einfach! Merkst
 Du das nicht?! Er gehört eben auch mit zu den Treibern,
 die uns von Kalkutta fernhalten sollen. Ich werde ihm beweisen,
@@ -1322,7 +1323,7 @@ im Zimmer. — »Ich habe keinen Anschluß bekommen,«
 sagte er ärgerlich. »Sie beide müssen also schon hier bleiben.
 Morgen früh wird sich dann ja leicht herausstellen, ob —«
 
-Harst sprang auf. »Morgen früh?! — Ah das könnte
+Harst sprang auf. »Morgen früh?! — Ah — das könnte
 Ihnen wohl passen! — Führen Sie mich sofort an das Telephon.
 Sofort! Tun Sie es nicht, sind Sie Ihre Stellung los.
 Dafür werde ich sorgen!«
@@ -1361,7 +1362,7 @@ immer in Strömen, und hier würde man uns nicht finden. —
 
 Um zehn Uhr abends hörte der Regen auf. Bald darauf
 verließ ein Wagen einen entlegenen Maisschuppen. Auf dem
-Wagen standen hinten drei Koffer. Vorn saßen zwei Frauen
+Wagen standen hinten drei Koffer. Vorn saßen zwei Frauen,
 — besser zwei ältere Damen, beide mit leicht ergrautem Haar,
 auf dem schicke kleine Filzhütchen, mit Schleiern umwunden,
 thronten.
@@ -1377,7 +1378,7 @@ Der Beamte erlebte es zum ersten Male, daß ein Extrazug
 verlangt wurde. Schließlich erklärte er sich bereit, eine Maschine
 und einen Personenwagen in einer halben Stunde gegen
 Zahlung von 180 Pfund zu stellen. — Der Betrag wurde sofort
-beglichen und gerade als der Polizeimeister dann auf dem
+beglichen, und gerade als der Polizeimeister dann auf dem
 Bahnhof erschien, um auch hier nach den »Hochstaplern« zu
 forschen, dampfte die Lokomotive mit den beiden Damen davon.
 Der Polizeimeister stürzte auf den Bahnvorstand zu.
@@ -1435,7 +1436,7 @@ das ich im Feuer habe. — Unser Extrazug beeilt sich. Wir
 können gegen 1 Uhr in Kalkutta sein.«
 
 Harst hatte eine halbe Stunde zu viel gerechnet. Wir
-waren bereits um ½ 1 auf dem Hauptbahnhof, gaben unsere
+waren bereits um ½1 auf dem Hauptbahnhof, gaben unsere
 Koffer zur Aufbewahrung ab, nahmen ein Auto und ließen
 uns nach der Besitzung Tschongs fahren, die der Chauffeur
 kannte. —
@@ -1459,7 +1460,7 @@ Frau Helene Tschong.
 
 Harsts Fragen klärten die Sachlage im Nu. — Um zehn
 Uhr abends hatte der schuftige Kuma Tawi sich das Geld geholt.
-Es waren nur 820 000 Mark nach deutschem Gelde.
+Es waren nur 820&nbsp;000 Mark nach deutschem Gelde.
 Mehr hatte Frau Tschong nicht auftreiben können. Die Summe
 hatte in 500-Pfund-Noten und kleineren Noten bestanden.
 
@@ -1469,9 +1470,9 @@ hat dieser Elende mir noch nicht einmal das Schuldbekenntnis
 ausgehändigt!«
 
 »Fassen Sie Mut!« tröstete Harst. »Ich werde alles versuchen,
-den Schurken unschädlich zu machen.«
+den Schurken unschädlich zu machen.« —
 
-Als wir die Villa eilends verließen meinte Harald:
+Als wir die Villa eilends verließen, meinte Harald:
 
 »Nun kommt alles auf Worbster an!«
 
@@ -1483,11 +1484,11 @@ Der Beamte suchte im Regal, reichte Harst dann ein Telegramm.
 
 Harst riß es sofort auf, ließ mich mitlesen:
 
-»Singspielhalle Zur lustigen Jane, Hafen.«
+»Singspielhalle Zur lustigen Jane, Hafen«.
 
 Das war alles. — Harst zog mich hastig mit sich fort.
 
-»Wir werden siegen! Nun zu Inspektor Palwson.«
+»Wir werden siegen! — Nun zu Inspektor Palwson.«
 
 Eine halbe Stunde dauerte es, bevor wir den behäbigen
 Master Palwson zur Verfügung hatten. — Harst zeigte ihm
@@ -1517,7 +1518,7 @@ die Adresse hierher postlagernd für Howard Hasting senden.«
 »Und der Mord?« meinte der dicke Inspektor.
 
 »Darüber nachher, wenn wir den Burschen fest haben. —
-Bitte lassen Sie jetzt doch sofort die Singspielhalle durch Ihre
+Bitte, lassen Sie jetzt doch sofort die Singspielhalle durch Ihre
 Leute umstellen, Mr. Palwson.«
 
 »Oh — das ist in zwanzig Minuten geschehen.« —
@@ -1542,9 +1543,9 @@ Der Wirt beruhigte sich, faßte Vertrauen.
 »Tonga Lei ist nicht mehr hier. Er fiel hier auf. Er
 spendierte zu viel Wein. Er hat ein Frachtboot gekauft und
 will damit stromaufwärts. Das Boot liegt unter der großen
-Brücke am Westufer.«
+Brücke am Westufer.« —
 
-Um ½ 3 bereits stiegen Harst, Palwson und ich vom Ufer
+Um ½3 bereits stiegen Harst, Palwson und ich vom Ufer
 über die Laufplanke auf den großen Frachtkahn. In der kleinen
 Heckkajüte brannte Licht. Wir stießen die Tür auf. Am
 Tische saß ein schlafender, ärmlich gekleideter Chinese. Der
@@ -1597,7 +1598,7 @@ wirst gehängt werden! Du hast den Franzosen Prestilant ermordet.
 als ich festgestellt hatte, daß Du auf dem gewöhnlichen Wege
 nicht entwichen sein konntest, fiel mir rechtzeitig noch — der
 Luftweg ein! — Ich ersah aus den Wetterberichten, daß um
-die Zeit, als Du Rangun verlassen haben müßtest, Nordwestwind
+die Zeit, als Du Rangun verlassen haben mußtest, Nordwestwind
 geherrscht hatte. Es war also die Möglichkeit vorhanden,
 daß Du im Ballon entkommen warst. Mein Kapitän Weber
 wußte, daß in Rangun ein Erfinder wohnte, der auch einen
@@ -1611,11 +1612,11 @@ Durch die Wucht des Falles riß ein Ast den Kopf des
 Unglücklichen ab. Der Rumpf blieb in den Zweigen hängen.
 Du wirst dann gelandet sein, wirst den Ballon verbrannt und
 Deine Flucht zu Lande allein fortgesetzt haben. Jedenfalls
-bist Du des Erfinder’s Mörder und gehörst an den Galgen.«
+bist Du des Erfinders Mörder und gehörst an den Galgen.«
 
 Da — Kuma Tawi hatte sich losgerissen, hatte sich durch
 das Fenster in den Fluß gestürzt. Er hoffte wohl, in der
-Dunkelheit schwimmend zu entkommen, trotz der gefesselten
+Dunkelheit schwimmend zu entkommen trotz der gefesselten
 Hände.
 
 Palwson beugte sich zum Fenster hinaus. Der Chinese
@@ -1631,7 +1632,7 @@ Palwson zuckte die Achseln.
 »Auf diese Weise ist uns viel Arbeit und ein neuer Strick
 erspart worden,« sagte er. »Suchen wir nach dem Gelde —«
 
-Wir fanden es. Es fehlten gegen 10 000 Mark. —
+Wir fanden es. Es fehlten gegen 10&nbsp;000 Mark. —
 
 Als wir Frau Helene Tschong das Paket Banknoten
 überreichten und Harst ihr erzählte, daß das Bekenntnis und
