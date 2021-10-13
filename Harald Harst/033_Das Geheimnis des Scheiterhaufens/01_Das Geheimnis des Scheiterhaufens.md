@@ -4,7 +4,7 @@
 
 Der Oberpriester der Schwe Dagon-Pagode in der ostindischen
 Hafenstadt Rangun hatte Harst und mich zu einer
-genauen Besichtigung der weitläufigen mit zu dem Heiligtume
+genauen Besichtigung der weitläufigen, mit zu dem Heiligtume
 gehörigen Baulichkeiten eingeladen gehabt. Seine Exzellenz
 Scham Chulakawi war, wie ich bereits in der vorigen Erzählung
 erwähnt habe, ein feingebildeter, alter Herr, der sogar
@@ -31,11 +31,11 @@ Plötzlich Harsts leise Stimme:
 »Welcher Kerl?«
 
 »Hast Du ihn denn wirklich nicht bemerkt? Gestern bereits
-drückte er sich stets in unserer Nähe herum. — Bitte
+drückte er sich stets in unserer Nähe herum. — Bitte,
 schau’ nicht nach ihm aus. Du würdest ihn doch nur schwer
 entdecken. Es ist ein sehr elegant gekleideter Chinese von
 über Mittelgröße mit einer goldenen Brille, so ein Vertreter
-eines Chinesentyps, der sich jetzt überall hier breit macht; fraglos
+jenes Chinesentyps, der sich jetzt überall hier breit macht; fraglos
 ein reicher Kaufmann, der in Europa sich den nötigen
 <@pagebreak/>
 Schliff angeeignet hat und nun mit den faden Charakterschwächen
@@ -93,7 +93,7 @@ von fast Bohnengröße, von vorzüglichem, hohem Schliff.
 Harst. »Hole doch auch mal Dein Päckchen hervor —«
 
 Ich tat’s. Es war genau dasselbe Kästchen, nur der Inhalt
-war etwas weniger kostbar: ein indischer, ebenfalls altertümlichen
+war etwas weniger kostbar: ein indischer, ebenfalls altertümlicher
 Doppelschlangenring mit zwei linsengroßen Diamanten
 und zwei Smaragden.
 
@@ -123,7 +123,8 @@ meine Motorjacht Standard vor Anker liegt. Und abends
 saßen Sie im Savoy-Hotel am Nebentisch.«
 
 Der Diamantenhändler schaute Harst überrascht an. In seinem
-Blick<@refnote 1/> war, so schien es mir, versteckte Angst.
+Blick<@refnote 1/> lag aber auch noch etwas ganz anderes:
+Und dieses war, so schien es mir, versteckte Angst.
 
 »Das ist unmöglich, Herr Harst,« sagte er jetzt zögernd.
 »Ich bin erst heute früh mit dem Dampfer Godawari in Rangun
@@ -193,7 +194,7 @@ reichte uns hocherfreut die Hand.
 
 <@pagebreak/>
 »Ein Glück, daß ich Sie treffe, Mr. Harst. Zunächst:
-ich bin endgültig zu Chatarsans Nachfolger also zum Detektivinspektor
+ich bin endgültig zu Chatarsans Nachfolger, also zum Detektivinspektor
 von Rangun ernannt worden. Und — es gibt
 auch sofort neue Arbeit für mich. In der verflossenen Nacht
 ist in der Polizeidirektion ein Einbruchsdiebstahl verübt
@@ -229,7 +230,7 @@ lediglich einen anderen Zweck verschleiern soll.«
 »Ich auch,« meinte Harst. »Und — fanden Sie irgend
 welche Hinweise auf diesen verschleierten Zweck, Worbster?«
 
-»Nichts, Mr. Harst, nichts, ich wollte Sie daher auch
+»Nichts, Mr. Harst, nichts. Ich wollte Sie daher auch
 bitten, ob Sie nicht —«
 
 »Verstehe schon: ich soll die Geschichte aus nächster Nähe
@@ -447,7 +448,7 @@ Sie sie dem Chinesen übergeben haben. — Auf Wiedersehen.
 Und — schweigen Sie über meinen Besuch hier, verstanden?!«
 
 Worbster blieb mit sehr erstauntem Gesicht stehen. Er
-mußte ja ahnen, daß hier nicht alles so war wie es sein sollte.
+mußte ja ahnen, daß hier nicht alles so war, wie es sein sollte.
 
 * * *
 
@@ -592,7 +593,7 @@ zu rächen suchen. Ich bin darauf vorbereitet.«
 »Ich verstehe,« nickte Tschong wieder und lächelte etwas.
 »Nun — was den Doppelgänger betrifft, so kann ich Sie beruhigen.
 Der Mann ist ganz harmlos, mehr ein Sonderling,
-dem es Spaß macht mich zu kopieren.«
+dem es Spaß macht, mich zu kopieren.«
 
 Das war ohne Frage glatt gelogen! Ich hatte Tschongs
 ängstlichen Gesichtsausdruck von jener Parkbank her noch zu
@@ -614,7 +615,7 @@ Ein Kellner erschien. Tschong bestellte Eispunsch und eine
 Platte Erfrischungen. Von dem Doppelgänger war zunächst
 nicht mehr die Rede. Tschong bat, ob Harst ihm nicht nochmals
 den Feuerzauber aus der Walküre vorspielen wolle. Er
-hatte, wie er betonte die Festspiele in Bayreuth mitgemacht
+hatte, wie er betonte, die Festspiele in Bayreuth mitgemacht
 und war seitdem Wagnerschwärmer.
 
 Harst tat ihm gern den Gefallen. Ein zwanglos-gemütlicher
@@ -660,7 +661,7 @@ Dann wußte ich nichts mehr. —
 Als mir allmählich das Bewußtsein zurückkehrte, war der
 erste äußere Eindruck, den mein wieder erwachtes Empfinden
 mir vermittelte, der heftiger Schmerzen in den Beinen.
-Matt, noch halb betäubt riß ich die Augen auf. Tiefe Dunkelheit
+Matt, noch halb betäubt, riß ich die Augen auf. Tiefe Dunkelheit
 umgab mich. Ich merkte, daß ich irgendwo mit angezogenen
 Beinen in einem engen Behälter steckte. Die Schmerzen
 in den Beinen waren Wadenkrämpfe, hervorgerufen durch
@@ -695,7 +696,7 @@ Mein Kopf wurde immer klarer.
 »Wie — nicht Tschong, sondern —«
 
 »Ja ja, es ist so! Weiß der Himmel, was der Kerl mit
-Tschong aufgestellt hat. Vielleicht hat er ihn ermordet. Das
+Tschong angestellt hat. Vielleicht hat er ihn ermordet. Das
 werden wir schon noch herausbringen.«
 
 Mein Hirn arbeitete bereits recht genau. »Woher weißt
@@ -774,7 +775,7 @@ und —«
 »Verdirb mir doch nicht die Siegerlaune,« unterbrach
 Harald mich. »Was hätte es uns geholfen, wenn ich den
 Kerl überwältigt hätte? Wäre ich dann wohl in der Lage gewesen,
-alle Geheimnisse dieses gefährlichen Menschen aufzuklären?
+alle Geheimnisse dieses gefährlichen Menschen aufzuklären?!
 Er hätte sich in Schweigen gehüllt. Und wir — hätten
 dann mühsam ermitteln müssen, in welchen Beziehungen er
 zum echten Tschong steht, weshalb er in die Polizeidirektion
@@ -811,7 +812,7 @@ Was wollte er also in Rangun? Wozu lockte er den
 
 »Bedauere — die Fragen müssen noch offen bleiben. Ich
 kann sie wirklich noch nicht beantworten — noch nicht! —
-Weiter aber — der falsche Tschong hatte Kenntnis davon, daß
+Weiter aber. — Der falsche Tschong hatte Kenntnis davon, daß
 die Malcapier etwas bei sich trägt, das von Wert ist. Dieser
 »Wert« kann irgend welcher Art sein. Ich glaube nicht, daß es
 sich direkt um Geldwert handelt. Jedenfalls wollte der »Unechte«
@@ -899,7 +900,7 @@ jemand, der ein gutes Auto verleiht, und helfen Sie mir mit
 
 Genau um Mitternacht fuhren wir in einem tadellosen
 Rippley-Wagen von Pegu ab. Bis Rangun sind es 132 Kilometer.
-Das Auto schaffte sie in 1 ¼ Stunde. Der Chauffeur
+Das Auto schaffte sie in 1¼ Stunde. Der Chauffeur
 erhielt ein gutes Trinkgeld und machte sofort wieder kehrt. Wir
 hatten uns am Bahnhof absetzen lassen und schlichen nun durch
 enge Seitengassen zum Zollhafen hinunter. Auch hier in Rangun
@@ -1020,7 +1021,7 @@ mußte da eine Leiter geben. Dann zog er die tote Ziege hinterdrein.
 Mann und Tier verschwanden, und die steinerne
 Falltür schloß sich wieder völlig geräuschlos.
 
-»Na?« meinte Harst. »Ganz interessant, nicht wahr?!«
+»Na?!« meinte Harst. »Ganz interessant, nicht wahr?!«
 
 <@pagebreak/>
 »Etwas reichlich Proviant für einen einzelnen Mann,«
@@ -1068,7 +1069,7 @@ Klinge seines Taschenmessers in die Spalte eingeführt und nur
 leicht gedrückt hatte. Wir sahen jetzt das obere Ende einer
 Leiter. Harst stieg als erster in den engen Schacht ein. Dieser
 mündete in einen ausgemauerten Keller, der sich nach
-Westen zu, abgeteilt durch Zwischenwände gut fünfzig Meter
+Westen zu, abgeteilt durch Zwischenwände, gut fünfzig Meter
 weit hinzog.
 
 Der Keller war mit Ballen, Kisten, Tonnen und altertümlichen
@@ -1134,7 +1135,7 @@ Hand.«
 <@pagebreak/>
 Wir saßen in völliger Finsternis hinter den Kisten. Nicht
 ein Lichtstrahl des sonnigen Morgens drang in diese Räume
-hinein, in denen eine feuchtwarme stickige Luft lagerte.
+hinein, in denen eine feuchtwarme, stickige Luft lagerte.
 
 »Hörst Du?!« flüsterte Harst plötzlich.
 
@@ -1237,7 +1238,7 @@ Chinesen. Wir — Ah — er kommt.«
 Ja — er kam! Und er ging jetzt ganz anders als vorhin,
 <@pagebreak/>
 fuchtelte mit der rechten Hand herum und sprach laut und sehr
-erregt mit sich selbst
+erregt mit sich selbst.
 
 Harst schlüpfte hinter den Kisten hervor. Der Alte wollte
 gerade die Laterne auf das Faß setzen, als Harald ihm die
@@ -1302,8 +1303,8 @@ Lage befinden! «
 Doppelgänger den Diamantenhändler hier gefangen hält und
 daß der Reis für diesen Gefangenen bestimmt war. Als der
 alte Schuft von Birmane mit dieser Mahlzeit hier verschwand,
-dachte ich sofort an Tschong. Oder besser: ich dachte eher an
-ihn als ich das erste Stöhnen hörte.«
+dachte ich sofort an Tschong. Oder besser: ich dachte schon an
+ihn, als ich das erste Stöhnen hörte.«
 
 Da — wieder dieses entsetzliche Wimmern.
 
@@ -1337,13 +1338,13 @@ nicht eine Spur eines Eingangs.
 Da ging Harst nach vorn, setzte dem gefesselten alten Schuft
 die Pistole an die Schläfe und sagte:
 
-»Wo habt Ihr Tschong versteckt? — Willst Du uns hinführen
-ja oder nein? Ich zähle bis drei dann drücke ich ab!«
+»Wo habt Ihr Tschong versteckt? — Willst Du uns hinführen,
+ja oder nein? Ich zähle bis drei, dann drücke ich ab!«
 
 Der Kerl kreischte.
 
 »Ich weiß nichts von einem Tschong — gar nichts! Ich bin
-ein armseliger Flußfischer der —«
+ein armseliger Flußfischer, der —«
 
 »Schmuggler bist Du! Diese Waren hier sind geschmuggelt,«
 unterbrach Harst ihn kalt. »Ich beginne zu zählen: Eins
@@ -1354,7 +1355,7 @@ nach Luft. Aber auch jetzt verriet er nichts.
 
 Harst schob die Repetierpistole in die Tasche.
 
-»Ich biete Dir 300 Pfund, wenn Du uns Tschong’s Gefängnis
+»Ich biete Dir 300 Pfund, wenn Du uns Tschongs Gefängnis
 zeigst,« erklärte er dann. »Weißt Du, wer ich bin?«
 
 Der Alte hob den Kopf, grinste schlau.
@@ -1373,7 +1374,7 @@ auf eine große Kiste und öffnete über dieser eine in die Wand
 eingelassene Holztür, die täuschend ähnlich wie Mauerwerk
 dick mit Farbe bemalt war. — Harst schwang sich in das Loch
 hinein. Eine Steintreppe lief in einen kleinen Raum hinab,
-in dem in Drahtschlingen die um Hand- und Fußgelenke geschlungen
+in dem in Drahtschlingen, die um Hand- und Fußgelenke geschlungen
 waren, von der Decke ein Mensch herabhing, eng zusammengekrümmt,
 den Rücken nach unten mit einem Knebel
 im Munde.
@@ -1396,7 +1397,7 @@ Ich werde weder Ihnen noch sonst einem Menschen eine
 Erklärung über all diese Dinge abgeben. Verargen Sie mir
 diese Weigerung nicht. Ich — darf nicht sprechen!«
 
-Harst musterte Tschong durchdringend sagte dann:
+Harst musterte Tschong durchdringend, sagte dann:
 
 »Gut, wie Sie wollen. Ich erfahre die Wahrheit doch!
 — Gehen wir.«
@@ -1421,8 +1422,8 @@ sich gegangen sei.
 die Leiche in einem Wagen und fuhren hinter diesem her, —
 wir, das heißt Tschong, Detektivsergeant Willing, ich und zwei
 Birmanen, die Tschong mitgebracht hatte. In den Ruinen
-stand der Scheiterhaufen schon bereit. Die Tote wurde hinaufgelegt
-und bereits um ½ 10 Uhr war alles vorüber. Tschong
+stand der Scheiterhaufen schon bereit. Die Tote wurde hinaufgelegt,
+und bereits um ½10 Uhr war alles vorüber. Tschong
 sammelte die Asche zusammen, tat sie in eine silberne Büchse
 und fuhr mit uns nach der Stadt zurück.«
 
@@ -1441,14 +1442,14 @@ Wir haben’s eilig!«
 Worbster wollte uns zurückhalten, aber wir eilten schon
 den Flur entlang. Auf der Straße faßte ich Harald unter.
 
-»Du — das Geheimnis steckte in der Sohle der Sandale
+»Du — das Geheimnis steckte in der Sohle der Sandale,
 nicht wahr? — Du hast die Sohle damals im Sezierraum sicher
 nicht umsonst abgetrennt.«
 
 »Sehr richtig, mein Alter. Die Sohle war doppelt. Dazwischen
 lag noch eine weiße Sohle aus faserigen Stoff, den ein
 Dummer für Filz halten konnte. Aber — es war Asbest!
-Also ein Stoff dem weder Feuer noch Wasser etwas anhaben
+Also ein Stoff, dem weder Feuer noch Wasser etwas anhaben
 kann. Und — in dieser Zwischensohle liegt der Schlüssel aller
 Rätsel, liegen »die Werte«, wie ich mich ausdrückte. Wozu wohl
 eine Asbestsohle zwischen Ledersohlen, wenn sie nicht eine bestimmte
@@ -1457,7 +1458,7 @@ die man in dieser Art herstellt.«
 
 »Was vermutest Du?«
 
-»Eine Urkunde oder dergleichen geschrieben auf Asbestpapier
+»Eine Urkunde oder dergleichen, geschrieben auf Asbestpapier
 und nachher als scheinbar harmlose Filzsohle mehrfach
 zusammengelegt verarbeitet. — Ich weiß nicht, ob dies richtig
 ist. Ich — werde es aber wissen!«
@@ -1500,7 +1501,7 @@ Zwillingsbruder. Nur Zwillinge sehen sich derart ähnlich und
 haben auch dasselbe Organ. Ihr Bruder ist auf Abwege geraten
 und Verbrecher geworden, ein Helfershelfer der Malcapier
 gewesen, wahrscheinlich ein Mitglied des berüchtigten Eidechsen-Bundes.
-— Sie senken den Kopf Tschong. Also
+— Sie senken den Kopf, Tschong. Also
 stimmt das bisherige. — Nun weiter. — Die Malcapier war
 einst Erzieherin in Ihrem Hause in Kalkutta. Dort hat sie
 vielleicht Kenntnis erhalten von irgend einem — Geschäft,
@@ -1530,7 +1531,7 @@ auf einen Diamantenschmuggel eingelassen, habe dabei Millionen
 verdient. Die Malcapier als Erzieherin meiner Kinder
 kam dahinter. Ich erkaufte ihr Schweigen durch eine halbe
 Million, mußte ihr aber außerdem tatsächlich ein Bekenntnis
-meiner Verfehlungen aussetzen. Ich hörte dann sehr lange
+meiner Verfehlungen aufsetzen. Ich hörte dann sehr lange
 nichts von ihr, bis ich in den Zeitungen ihren Namen fand
 — als den einer gefährlichen Verbrecherin. — Mein Zwillingsbruder
 Kuma Tawi hatte inzwischen aus Hongkong, wo er ein
@@ -1553,7 +1554,7 @@ gehabt hätte. — Den Brief und den Ausweis vermißte ich
 nachher, als mein Bruder, reichlich mit Geld versehen, mich
 wieder verlassen hatte. Ich hatte Kuma Tawi nämlich zum Teil
 in jenes einstige Schmugglergeschäft eingeweiht gehabt und
-ihm auch von dem auf niedergeschriebenen Bekenntnis
+ihm auch von dem auf Asbest niedergeschriebenen Bekenntnis
 einiges angedeutet. Als er dann ohne mein Wissen den Brief
 der Malcapier gelesen hatte, mag er sich das, was ich ihm verschwiegen
 hatte, selbst zusammengereimt haben. Jedenfalls
@@ -1574,12 +1575,11 @@ Anlagen des Großen Königssees wurde ich bald nach unserem
 Gespräch auf jener Bank überfallen und niedergeschlagen. Ich
 erwachte in jenem Keller der Ruinen. Mein Bruder wollte von
 mir nun einen Scheck über eine Million erzwingen. Ich blieb
-fest. Dann befreiten Sie mich, Herr Harst — nun wissen
+fest. Dann befreiten Sie mich, Herr Harst. — Nun wissen
 Sie alles —«
 
 Das Geheimnis des Scheiterhaufens war jetzt aufgeklärt.
 Wir begannen Kuma Tawis Verfolgung, die uns nach Kalkutta
 führte, wo wir das gefährliche Wild auch zur Strecke
 brachten.
-
 
