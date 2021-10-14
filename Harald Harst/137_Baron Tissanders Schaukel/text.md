@@ -1525,33 +1525,33 @@ Es war nachher in allen Zeitungen zu lesen …
 
 nachher …
 
-Als 1;ne das nichts mehr nützte, als unsere Neider lediglich
-hohngrinjen konnten …
+Als uns das nichts mehr nützte, als unsere Neider lediglich
+hohngrinsen konnten …
 
-Ja — da. klingt’s zu (essen, daß durch ein bedauerlichcs
+Ja — da stand’s zu lesen, daß durch ein bedauerliches
 Versehen des Gerichte in Goa Harst und Schraut zu drei
 Jahren Zwangsarbeit wegen schweren Raubes verurteilt
 worden seien … —
 
-ZIrvotueriices Menschen?! — Nein, durch eine unglaub-like
+Bedauerliches Versehen?! — Nein, durch eine unglaubliche
 niederträchtige Intrige, durch ein satanisch-schlaues
-Possenspiel des Barons Tissander … »! —
+Possenspiel des Barons Tissander …! —
 
 <@pagebreak 34/>
 
 Wie die Dinge für uns standen, merkte ich schon am
 nächsten Morgen beim ersten Verhör.
 
-Der Herr Kommissar Staaten war an sich kein übler
+Der Herr Kommissar Atwarry war an sich kein übler
 Mensch. Nein — nur außerordentlich kurzsichtig war er.
 
 Ich wurde von ihm allein verhört. Harst war nicht dabei.
 Nur noch ein Schreiber.
 
-Als ich ihm erklärte, ich) hieße Max Schraut — und so
+Als ich ihm erklärte, ich hieße Max Schraut — und so
 weiter, da legte er mir die Brieftasche vor, die man mir in
 der Nacht bei meiner Verhaftung abgenommen und die nur
-der alte Schuft Tawu mir in die Tasche Segler?! haben
+der alte Schuft Tawu mir in die Tasche gesteckt haben
 konnte.
 
 Und in diesem schmierigen Portefeuille befanden sich Papiere
@@ -1564,28 +1564,28 @@ und unterlassen Sie die Frechheit, sich für Schraut auszugeben,«
 schnauzte mich der Kommissar an.
 
 Als ich ihm vorhielt, daß er doch aus dem einsamen
-Gehöft unsere lassen holen lassen möchte, in denen unsere
+Gehöft unsere Taschen holen lassen möchte, in denen unsere
 Ausweise nebst Photographie lägen, lachte er höhnisch …
 
 »Denselben Unsinn hat schon Ihr Genosse Horstmann
 geredet, der hier den Harst spielen möchte …! Nun —
-ich habe hingeschhic?!. Keine Spur von Koffern dort —
+ich habe hingeschickt. Keine Spur von Koffern dort —
 nichts! Sie schwindeln eben …«
 
-Und als ich etwas kleinlaut meinte, daß wir: doch wohl
+Und als ich etwas kleinlaut meinte, daß wir doch wohl
 kaum hier zur Polizei gekommen wären, wenn wir Gauner
 seien, schlug er mit der Faust auf den Tisch …
 
-»Gekommen — gefommenk! Die Leute des Barons
-haben Sie beide in dem Karren zur Wache gebracht! Gebrannt!!
-I habe die Leute schon vernommen …!«
+»Gekommen — gekommen?! Die Leute des Barons
+haben Sie beide in dem Karren zur Wache gebracht! Gebracht!!
+Ich habe die Leute schon vernommen …!«
 
-Ich war platt … Diese Gemeinheit war ja wweradezu
+Ich war platt … Diese Gemeinheit war ja geradezu
 zum Wildwerden!
 
 Und doch bezwang ich mich …
 
-»Sennor, was wirst man uns eigentlich vor?« fragte ich
+»Sennor, was wirft man uns eigentlich vor?« fragte ich
 bescheiden wie ein Lämmchen.
 
 <@pagebreak/>
@@ -1595,22 +1595,22 @@ Und er las aus seinem Aktenstück vor:
 
 > In der Nacht vom 15. zum 16. Juni 1924 faßten
 meine Parkwächter zwei Einbrecher ab, die in mein
-Schloß. eingedrungen waren, nachdem sie einen der
+Schloß eingedrungen waren, nachdem sie einen der
 Wächter niedergeschlagen hatten. In meinem Arbeitszimmer
 war ein Schränkchen gewaltsam geöffnet und ein
 Beutelchen mit ungeschliffenen Edelsteinen gestohlen
-worden …’E3 ist dies derselbe Beutel, der später in der
-Tasche des pp. Horstmann gefunden wurde
+worden. Es ist dies derselbe Beutel, der später in der
+Tasche des pp. Horstmann gefunden wurde …«
 
 Ich hörte gar nicht mehr hin …
 
-Eine Wut hatte mich sogar?!, die ’hier sehr unangebracht
+Eine Wut hatte mich gepackt, die hier sehr unangebracht
 war …
 
 Ich erkannte nun die Zusammenhänge: Tissander war
 durch Tawu sehr schnell von unserer Flucht benachrichtigt
-worden, hatte geahnt, daß wir die Hilfe der Polizei an
-rufen würden, und dann seine Gegenschachzüge getan, die
+worden, hatte geahnt, daß wir die Hilfe der Polizei anrufen
+würden, und dann seine Gegenschachzüge getan, die
 er bereits für alle Fälle vorbereitet hatte …!
 
 In meiner grenzenlosen Empörung brüllte ich den
@@ -1632,31 +1632,30 @@ Harald verteidigte uns …
 Als er dabei blieb, Harst zu sein, lächelten die Richter.
 
 Als er unsere Erlebnisse in der Ruine erzählte, unterbrach
-der Vorsithenwde ihn:
+der Vorsitzende ihn:
 
-»Den Unsinn haben Sie schon wiederholt geredet, Angeklagten
+»Den Unsinn haben Sie schon wiederholt geredet, Angeklagter
 … — Die Polizei hat die Ruine durchsucht …
-
 <@pagebreak/>
 Es gibt dort weder ein Brett mit einem Draht und einer
 Klingel, noch ein Telephon, noch drei lose Dornenbüsche!«
 
-»Weil der Baron das alles hat beseitigen lassen —.
-genau wie er unsere Koffer verschwinden ließ
+»Weil der Baron das alles hat beseitigen lassen —
+genau wie er unsere Koffer verschwinden ließ …«
 
 Man glaubte uns nicht.
 
 Als Schmieder und Horstmann erhielten wir jeder drei
 Jahre Zwangsarbeit. Harsts Anträge, Zeugen aus Bombay
-zu laden, die uns erkennen würden, wurden abgelchnt’
+zu laden, die uns erkennen würden, wurden abgelehnt.
 
-Und schon den Tag daraus wurden wir nach den Kupferminen
+Und schon den Tag darauf wurden wir nach den Kupferminen
 von Siltara nordöstlich von Goa geschafft, wo wir
 der Sträflingsabteilung Nummer drei unter den Nummern
 101 und 102 eingereiht wurden …
 
 Siltara ist ein langgestrecktes Gebirgstal. In der Mitte
-stehen drei Sträsling8barakcken, ein Verwaltungsgebäude und
+stehen drei Sträflingsbaracken, ein Verwaltungsgebäude und
 die Kaserne für die Polizeitruppe von vierzig Mann.
 
 Unsere Baracke Nr. 1 hatte Platz für 150 Sträflinge.
@@ -1665,45 +1664,45 @@ zumeist, außer uns nur noch ein Europäer. — Die anderen
 beiden Baracken waren noch weniger belegt. Alles in allem
 arbeiteten damals 288 Sträflinge in den Kupferminen. —
 
-Ich hatte mich sehr rasch in Wein Schicksal gefunden, da
-Harald mir während des Tran spotte nach Siltara zugeflüstert
+Ich hatte mich sehr rasch in mein Schicksal gefunden, da
+Harald mir während des Transports nach Siltara zugeflüstert
 hatte: »Ruhe …! Wir kneifen aus!«
 
 Nun — er hatte sich die Flucht denn doch etwas zu
-leicht vorgestellt. Die Bewachung war sehr streng. Dicke
+leicht vorgestellt. Die Bewachung war sehr streng. Die
 Baracken waren von Stacheldrahtzäunen umgeben, und
-konnten in den Fischer und Stollen des Veralberst Lot
-sich erst recht keine Gelegenheit zum fliehen.
+unten in den Schächten und Stollen des Bergwerks bot
+sich erst recht keine Gelegenheit zum Fliehen.
 
 Ein Glück war’s, daß man uns am zweiten Tage derselben
-Arbeitskolonne zuleibe und daß wir daher zu
+Arbeitskolonne zuteilte und daß wir daher auch
 nebeneinander unsere Schlafpritschen in der Baracke hatten.
 
 Gleich abends, als wir eine Weile unbeobachtet waren,
-konnten wir endlich eingehender miteinander sprechen. Wir
-trat ja bereits Haralds geradezu vergnügter GesichtEaudvruck
-aufgefallen, und wenn auch ich damit rechnete, blaß wir ja
+konnten wir endlich eingehender miteinander sprechen. Mir
+war ja bereits Haralds geradezu vergnügter Gesichtsausdruck
+aufgefallen, und wenn auch ich damit rechnete, daß wir ja
 über kurz oder lang entweder freigelassen werden müßten
 <@pagebreak/>
-oder aber enfkweicßtn würden, so hatte meine Stimmung
-noch mit stillem Behagen oder dergleichen verdammt wenig
+oder aber entweichen würden, so hatte meine Stimmung
+doch mit stillem Behagen oder dergleichen verdammt wenig
 tun.
 
 Wir Sträflinge Nr. 101 und 102 saßen also in unseren
-Frau und schwarz gestreiften Anzügen, die vorn auf der
-Brust und auf dem Rügen in unverwaschbarer Farbe unsere-Nummern
-trugen, auf Haralds Pritsche.
+grau und schwarz gestreiften Anzügen, die vorn auf der
+Brust und auf dem Rücken in unverwaschbarer Farbe unsere
+Nummern trugen, auf Haralds Pritsche.
 
 Zunächst tauschten wir einen festen Händedruck …
 
-»Mach ein Inder Gesicht, mein Alter!« sagte Harald
+»Mach ein ander Gesicht, mein Alter!« sagte Harald
 tröstend. »Unsere Tage hier sind gezählt, und auch Tissanders
 Uhr läuft langsam ab …«
 
 Ich glaubte, Harald wollte mir nur Mut zusprechen.
 
-»Harsts Du denn wirklich, fliehen zu können?« fragte ich
-unsicher. »Oder — heißt Du auf unseren John Trolby, der
+»Hoffst Du denn wirklich, fliehen zu können?« fragte ich
+unsicher. »Oder — hoffst Du auf unseren John Trolby, der
 doch fraglos nach unserem Verbleib forschen wird?«
 
 »Trolby hat schon einem Wink erhalten, hübsch geduldig
@@ -1730,14 +1729,14 @@ ist nämlich auf meine Vorschläge eingegangen …«
 
 Da — dämmerte es bei mir …
 
-»Herr Gott — er hat also …
+»Herr Gott — er hat also …«
 
-»Ja — er hat eingesehen,. daß wir Harst und Schraut
-sind … Na! der Urteilsfällung. kam er zu mir in die
+»Ja — er hat eingesehen, daß wir Harst und Schraut
+sind … Nach der Urteilsfällung kam er zu mir in die
 Zelle. Ihm waren so allerlei Zweifel aufgestiegen. Und
 bei dieser Unterredung unter vier Augen bewies ich ihm,
 <@pagebreak/>
-daß ich wohl kaum Keiner von Beruf und internationaler
+daß ich wohl kaum Kellner von Beruf und internationaler
 Gauner sein könnte …«
 
 »Wodurch?«
@@ -1746,25 +1745,25 @@ Gauner sein könnte …«
 Ich wollte Tissander jedoch in Sicherheit wiegen. Und der
 Beweis waren meine juristischen Kenntnisse, meine Vertrautheit
 mit dem alten römischen Recht und mit anderen
-Dingen, die nur der beherrscht, der wie ich Auto studiert
-hat und Assessor gewesen ist. =«- Sennor Torbido war geradezu
-bestürzt, al28 ich ihm so nachwies, daß — wir Kollegen
-seien, munter. Und dann riet ich ihm, da) einig! die
+Dingen, die nur der beherrscht, der wie ich Jura studiert
+hat und Assessor gewesen ist. — Sennor Torbido war geradezu
+bestürzt, als ich ihm so nachwies, daß — wir Kollegen
+seien, Juristen. Und dann riet ich ihm, doch einmal die
 englische Zeitschrift »London Magazine« vom Januar des
-Jahres durchzuvlälteim. Dort würde er eine Reihe Bilder
-von uns finden, die zu einem Artikel »Die Bersloiöumgs-funst
+Jahres durchzublättern. Dort würde er eine Reihe Bilder
+von uns finden, die zu einem Artikel »Die Verkleidungskunst
 des modernen Detektivs« gehörten. — Jedenfalls:
-Torbido kam am Abend wieder. Ich hatte ihn »gebeten,
+Torbido kam am Abend wieder. Ich hatte ihn gebeten,
 Über den Inhalt unserer Unterredung zu schweigen. Und
 nun erschien er ganz bestürzt mit der betreffenden Nummer
 des »Magazine« und drückte mir unter tausend Entschuldigungen
-die Hand. Ich erklärte, er solle sich dieses fix;Verbrechen
-TFehlsipriuche? nennen nicht weiter beunruhigen. Er sollte auch
-nicht etwa an der Sache etwas ändern, denn sonst! würde
+die Hand. Ich erklärte, er solle sich dieses richterlichen
+Fehlspruches wegen nicht weiter beunruhigen. Er sollte auch
+nicht etwa an der Sache etwas ändern, denn sonst würde
 Baron Tissander uns fraglos entschlüpfen, eben rechtzeitig
 gewarnt werden. — Mit einem Wort: Wir beide werden
-den übermorgen, so habe ich’s mit Torbido verabredet, als
-Schreiber in daß Verwaltungsgebäude kommandiert werden
+von übermorgen, so habe ich’s mit Torbido verabredet, als
+Schreiber in das Verwaltungsgebäude kommandiert werden
 und dort auch schlafen …«
 
 »Und — fliehen!«
@@ -1772,11 +1771,11 @@ und dort auch schlafen …«
 »Nein, mein Alter … Damit hat es noch Zeit …
 Sennor Torbido erwartet uns übermorgen abend halb
 zwölf mit einem Auto am Südausgang des Tales. In
-einer Stunde sind wir in der Nähe von Tissander« Schloß
+einer Stunde sind wir in der Nähe von Tissanders Schloß
 und können anderthalb Stunden für unsere Nachforschungen
 verwenden. Dann bringt der Oberrichter uns wieder zurück.«
 
-»am — etwas umständlich …« warf ich ein,
+»Hm — etwas umständlich …« warf ich ein,
 
 <@pagebreak/>
 »Allerdings. In diesem Falle aber das einzig Richtige.
@@ -1784,46 +1783,46 @@ Tissander soll ahnungslos bleiben. Würden wir tatsächlich
 fliehen, so könnte das nie geheim gehalten werden.«
 
 »Und — weiß der Oberrichter etwas von dem Tagebuch
-und — der Schhautkel?«
+und — der Schaukel?«
 
 »Nichts Genaues. Er läßt mir aber völlig freie Hand
-in allem. Wir scheint, daß er seinerseits gern erfahren
+in allem. Mir scheint, daß er seinerseits gern erfahren
 möchte, wer die blonde Europäerin ist, von der niemand in
 Goa bisher etwas gesehen hat. Und Tissanders Leute
 schweigen eben, leugnen, lügen, leisten kaltblütig Meineide.«
 
-»Merkwürdig! wer kann Tissander diese Frau so voll-siäwrdig
+»Merkwürdig! Wie kann Tissander diese Frau so vollständig
 verbergen?! Was hält denn Sennor Torbido von
 diesem Weibe?«
 
 »Ja — mir schien’s, als wollte er da nicht so recht mit
-der Sprache herausrücken 1!«
+der Sprache herausrücken!«
 
 »Also noch ein Geheimnis …«
 
-»Sir übles Wort: Geheimmni3z!1 Klingt so sehr nach
-Schauergeschichte … Immetrhin …«
+»Ein übles Wort: Geheimnis! Klingt so sehr nach
+Schauergeschichte … Immerhin …«
 
 »Immerhin ist es eins! — Und nun könntest Du mir
 wohl auch sagen, was Du von der — Schaukel weißt und
 inwiefern …«
 
 »Stopp, mein Alter … Die Schaukel ist auch mir
-noch4 — unklar. Meine Gedanken darüber berühren technische
+noch — unklar. Meine Gedanken darüber berühren technische
 Dinge und sind so phantastisch, daß ich sie lieber für
 mich behalte …« —
 
 Da die Freizeit der Sträflinge jetzt vorüber, kamen auch
 unsere Barackengenossen nun wieder hereingeströmt:
 Chinesen, Inder, Malaien, Neger — wahrhaftig ein buntes
-Knie und alles Kerle, die eigentlich an den Galgen gehalten
+Gelichter und alles Kerle, die eigentlich an den Galgen gehörten
 …
 
 Immerhin: eine ganz interessante Gesellschaft!
 
 <@pagebreak/>
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 <h3>Der Chinese Tuan Leng.</h3>
 
 Ich lag nun auf meiner harten Pritsche und überlegte
@@ -1833,46 +1832,46 @@ allen Seiten hin.
 Die ganze Art, wie mein Freund jetzt dem Baron Tissander
 an den Kragen wollte, gefiel mir nicht sonderlich.
 Besonders erschien es mir denn doch außerordentlich fraglich,
-ob wir wirklich Moderner?! aus dem Tale hinausgelangen
+ob wir wirklich unbemerkt aus dem Tale hinausgelangen
 würden, da, wie schon erwähnt, die Bewachung außerordentlich
 scharf war. Die Talränder oben waren ebenfalls
 mit doppelten Stacheldrahtzäunen umgeben und kaum zu
 überklettern.
 
-Eine Stunde machte ich so, gequält von allerlei Zweifeln,
+Eine Stunde mochte ich so, gequält von allerlei Zweifeln,
 mit offenen Augen auf dem harten Lager gelegen haben
-(das Einschlafen war bei dieser Hitze und der schichten Luft
-ohnedies ein zu«. Tuch), als ich) bei dem trüben Licht der
+(das Einschlafen war bei dieser Hitze und der schlechten Luft
+ohnedies ein Kunststück), als ich bei dem trüben Licht der
 auch nachts hier brennenden Lämpchen einen Menschen gewahrte,
 der auf allen vieren den Gang zwischen den Pritschen
 entlanggekrochen kam.
 
 Es war ein Chinese, ein alter Kerl, der wegen Straßenraubes
 auch erst kürzlich zu zehn Jahren Zwangsarbeit verurteilt
-worden war. der Mensch hatte sich schon  gestern
+worden war. der Mensch hatte sich schon gestern
 wiederholt an mich herangedrängt und mir etwas zuzuflüstern
 versucht.
 
 Jetzt nun lag er dicht vor meiner Pritsche, schob sich
 ebenso lautlos unter das Holzbett, so daß nur sein Kopf
-noch hervorragite, und raunte mir in denn Hafen-Kauderwelsch
-der zerrissen, das man halb erraten mußte, zu:
+noch hervorragte, und raunte mir in dem Hafen-Kauderwelsch
+der Goanesen, das man halb erraten mußte, zu:
 
-»Seite Mister auf Tuan Leng hören … Weiße Mister
-fliehen können … Tuan Trupp in Bergwerk Stelle wissen,
+»Weiße Mister auf Tuan Leng hören … Weiße Mister
+fliehen können … Tuan Leng in Bergwerk Stelle wissen,
 wo leicht zu verschwinden …«
 
 Ich horchte auf. Die Sache war interessant. weshalb
-wollte der Gelbe gerade mir sein Geheimnis preisgeben?!!
+wollte der Gelbe gerade mir sein Geheimnis preisgeben?!
 
 <@pagebreak/>
 Ich legte mit mehr zur Seite, um Tuan Leng besser
 verstehen zu können …
 
-»ohne Mann allein nicht dort fliehen können, Nr. 102.
+»Eine Mann allein nicht dort fliehen können, Nr. 102.
 Müssen mehrere sein … Müssen Stricke haben …«
 
-Da in der Baracke auch vier Aufseher schließen, konnte er
+Da in der Baracke auch vier Aufseher schliefen, konnte er
 nur ganz leise flüstern. Mein Gesicht war nun dicht über
 der faltigen Halunkenvisage des Chinesen.
 
@@ -1894,26 +1893,26 @@ anderen nicht traue …
 »Alles schlechte Kerle …« flüsterte er. »Weiße Mister
 ehrlicher und Tuan nicht verraten werden …«
 
-Ich versprach ihm, mit Nr. 101 alles Nähere zu veralteten.
+Ich versprach ihm, mit Nr. 101 alles Nähere zu verabreden.
 So sehr eilig sei’s mit der Flucht wohl nicht …
 
 Und er kroch befriedigt wieder zu seinem Lager zurück. —
 
-Am nächsten Abend saßen Harst und ich vor der Lahore.
+Am nächsten Abend saßen Harst und ich vor der Baracke.
 Ich erstattete Bericht und betonte, daß Tuan Leng ohne
-Zweifel zu Tissander Beziehungen Unterkaste, die doch be—ftimmt
+Zweifel zu Tissander Beziehungen unterhalte, die doch bestimmt
 höchst anrüchiger Natur sein müßten.
 
 Harst gab mir recht. Er war sehr nachdenklich und
 wortkarg.
 
-Gleich Warnruf kam ein Aufseher und rief uns in das Ver—waltungsgebäunrv?,
-wo der Direktor der Strafkolonie uns ex—össnete,
-wir soll:en fortan als Schreiber beschäftigt Bechert …
+Gleich darauf kam ein Aufseher und rief uns in das
+Verwaltungsgebäude, wo der Direktor der Strafkolonie uns eröffnete,
+wir sollten fortan als Schreiber beschäftigt werden …
 
-So wurde uns denn im Keller breites Hauses ein [seiner
-Raum als neue Schlafstelle angewiesen. Das einzige 7 Schuster.
-war stark vcergittiert und die Tür bestand aus C: je
+So wurde uns denn im Keller dieses Hauses ein kleiner
+Raum als neue Schlafstelle angewiesen. Das einzige Fenster
+war stark vergittert und die Tür bestand aus Eisenplatten.
 <@pagebreak/>
 Zur Nacht wurden vor das Fenster auch noch von außen
 eiserne Laden vorgelegt.
@@ -1924,7 +1923,7 @@ auch angenehm kühl.
 
 Um neun Uhr wurden wir eingeschlossen und die Laden
 vorgelegt. Die Lampe beließ man uns — auch eine Bevorzugung,
-die wir kennen Torbido zu danken hatten.
+die wir Sennor Torbido zu danken hatten.
 
 Wir saßen an dem kleinen Tische auf den Holzschemeln
 und sprachen leise über den nächsten Abend.
@@ -1935,7 +1934,7 @@ Direktor der Strafkolonie mit eingeweiht sei und daß er
 schon Vorkehrungen getroffen haben würde, die uns ein
 Entschlüpfen ermöglichten.
 
-»Harald lächelte und zeigte auf die Steinplatten des Fußbodens
+Harald lächelte und zeigte auf die Steinplatten des Fußbodens
 …
 
 »Die Keller haben zwei Stockwerke. Unter uns liegt
@@ -1947,7 +1946,7 @@ Direktors Sebastiano …«
 Er deutete nach oben. Und nun erst gewahrte ich in der
 gefärbten Decke die Umrisse einer Falltür …
 
-»Die Öffnungen für einen »Lastenaufzug, mein Alter.
+»Die Öffnungen für einen Lastenaufzug, mein Alter.
 Wir haben es sehr bequem …«
 
 Er nahm die Lampe und beleuchtete die Steinplatten
@@ -1970,7 +1969,7 @@ Jedes Jahr verreist er für mehrere Monate …«
 denn alle Beziehungen zu den früheren Kollegen abgebrochen?«
 
 »Diese Kollegen sind längst tot oder nicht mehr hier. Er
-ist lebt sechzig Jahre alt. Vor acht Jahren nahm er seinen
+ist jetzt sechzig Jahre alt. Vor acht Jahren nahm er seinen
 Abschied.«
 
 Ich schaute Harald prüfend an …
@@ -1978,7 +1977,7 @@ Ich schaute Harald prüfend an …
 »Du hegst irgendeinen Verdacht? Ich merke es Dir an.«
 
 »Oh — Tissander ist geradezu eine Sammlung von Verdachtsgründen
-. - - Fraglos ein ganz gefährlicher Mensch.
+… Fraglos ein ganz gefährlicher Mensch.
 Sein Reichtum macht ihn unangreifbar. Sein einziger
 Verkehr ist der neue Gouverneur von Goa, Graf Rapsoldi.«
 
@@ -1991,82 +1990,82 @@ werden wir wohl kaum die Augen zutun …« —
 
 Wir ahnten nicht, daß alles ganz anders kommen sollte.
 
-Als wir mittags oben im Bnreaitt Schreibarbeiten erledigten,
+Als wir mittags oben im Bureau Schreibarbeiten erledigten,
 erschien plötzlich ein Aufseher und befahl uns in
-das Zimmer des Direktors. Wir hatten maurischen von
+das Zimmer des Direktors. Wir hatten inzwischen von
 den »Kollegen« schon gehört, daß ein Auto des Gouverneurs
-ne mehreren Herren eingetroffen sei. Uns beiden schwante
+mit mehreren Herren eingetroffen sei. Uns beiden schwante
 Böses …
 
 Und es stimmte. Direktor Sebastiano war plötzlich nach
-der anderen Strafkolonie Verzogen versetzt worden, und sein
+der anderen Strafkolonie Merwara versetzt worden, und sein
 Nachfolger, dem wir nun gegenüberstanden, eröffnete uns,
 daß er den Befehl seines Vorgängers widerrufe …
 
 »Ihr seid mir als ganz geriebene Kerle — empfohlen
-worden, Nr. 101 und 102 … »Ihr tiefer sofort wieder
+worden, Nr. 101 und 102 … Ihr tretet sofort wieder
 in die Arbeitskolonne zurück …«
 
-Er sagte das mit einem kam merklichen Grinsen. Er
-war noch ein recht junger Mann, offenbar also ein Gsinst-ling
-des Gonwverneurs …
+Er sagte das mit einem kaum merklichen Grinsen. Er
+war noch ein recht junger Mann, offenbar also ein Günstling
+des Gouverneurs …
 
 Wir waren mit ihm allein in dem großen Zimmer.
-Den Aufseher hatte er hinaus8geschic?!,
+Den Aufseher hatte er hinausgeschickt.
 
 Harald stand ohne eine Miene zu verziehen da …
 
-Draußbern fuhr soeben daß Regierungs8auto davon. Sebastiano
+Draußen fuhr soeben das Regierungsauto davon. Sebastiano
 <@pagebreak/>
-saß mit darin, schaute goß in das Zimmer hinein,
-verzog ein wenig das ’Gesicht.
+saß mit darin, schaute noch in das Zimmer hinein,
+verzog ein wenig das Gesicht.
 
-Wir sahen’s … Der rote Direktor drehte sich zu spät
-um … Der Kraftwagen rollte ich;on davon.
+Wir sahen’s … Der neue Direktor drehte sich zu spät
+um … Der Kraftwagen rollte schon davon.
 
 Und gleich darauf brachte uns der Aufseher denn auch
 zur Arbeit in das Bergwerk hinab … —
 
-Ich könnte hier über diesen ganz modernen benahmen!5-
-betrieb mancherlei Bericht:en, was dem Leser vielle’; jene
-interessant wäre. Ich muß darauf verzichten. All:u viel
-habe ich noch zu erzählen, — Dinge, die weit merltvürdi- 70x
+Ich könnte hier über diesen ganz modernen Bergwerksbetrieb
+mancherlei Berichten, was dem Leser vielleicht ganz
+interessant wäre. Ich muß darauf verzichten. Allzu viel
+habe ich noch zu erzählen, — Dinge, die weit merkwürdiger
 sind als eine indische Kupfermine.
 
-Unsere »Kollegen«, die uns um die Bevorzugung unnatürlich
-in schäbigster Art beneidet hatten, empfinac:ich uns
-mit höhnischen Redensarten. Wir warten die Juen
-und griffen zu den Gattinnen. Harald wußte es so cin-zurich:
-en, daß wir mit Orkan Leng zusammen eine neue oder
+Unsere »Kollegen«, die uns um die Bevorzugung natürlich
+in schäbigster Art beneidet hatten, empfingen uns
+mit höhnischen Redensarten. Wir warfen die Jacken ab
+und griffen zu den Spitzhauen. Harald wußte es so einzurichten,
+daß wir mit Tuan Leng zusammen eine neue Ader
 abbauten.
 
 Der alte Chinese war hier der einzige, der sich aus anderen
-Gründen über unser Micdererseinen aufrichtig freute.
+Gründen über unser Wiedererscheinen aufrichtig freute.
 
 Als der Aufseher sich zu einer anderen Arbeitsgruppe
 entfernte, begann Harst mit dem Chinesen zu flüstern. Eine
 Stunde darauf war Mittagspause.
 
-Die Holztische zum Osten waren in einem breiten Sollen
-misgestellt. An den Ränder befanden sich Vorschläge Sir
-Geräte. Wie Harald es nachher fertiabrachte, aus einem
-der Verschlag? ein zehn Meter langes dünnes Tau zu Dickicht
-und sich um den Leib zu wickeln. so daß e32 niemand schon
+Die Holztische zum Essen waren in einem breiten Stollen
+aufgestellt. An den Ränder befanden sich Verschläge für
+Geräte. Wie Harald es nachher fertigbrachte, aus einem
+der Verschläge ein zehn Meter langes dünnes Tau zu stehlen
+und sich um den Leib zu wickeln, so daß es niemand sehen
 konnte, ist mir noch heute ein Rätsel
 
-Um acht Uhr abcn238 begann die Umkrallt aus dem Bergwerk.
-Die unsicher sollten ja vorichriftägemäß ihre besonnen
-zählen, sobald diese die Jörderiörbe bestiegen. Sie
-taten es jedoch Ritze. das Banditen wir.
+Um acht Uhr abends begann die Ausfahrt aus dem Bergwerk.
+Die Aufseher sollten ja vorschriftsgemäß ihre Kolonnen
+zählen, sobald diese die Förderkörbe bestiegen. Sie
+taten es jedoch nie. Das wußten wir.
 
-Und so hatten wir beide und hinan Leng denn beim
-Marsch nach dem Züördersckackcht uns als letzte ter Kolonne
-evoereibht und uns plötzlich in abgekauten Stollen verkrümelt.
+Und so hatten wir beide und Tuan Leng denn beim
+Marsch nach dem Förderschacht uns als letzte der Kolonne
+angereiht und uns plötzlich in abgebauten Stollen verkrümelt.
 
 <@pagebreak/>
 Unsere Grubenlampen leuchteten uns. Der Chinese
-machte den Führer. Wir liefen im schnellen Trckdb dahin.
-Tuan hatte hier vor zwei Wochen beim Absteigen des Gesteins
+machte den Führer. Wir liefen im schnellen Trab dahin.
+Tuan hatte hier vor zwei Wochen beim Absteifen des Gesteins
 helfen müssen und dabei jene Entdeckung gemacht, die
 uns nun die Freiheit verschaffen sollte …
 
