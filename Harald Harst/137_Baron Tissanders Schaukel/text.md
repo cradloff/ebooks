@@ -2076,18 +2076,18 @@ uns nun die Freiheit verschaffen sollte …
 Immer schneller eilte der Chinese dahin. Wir kamen in
 einen neuen Stollen, wieder in einen alten. Hier war das
 Gestein mit Balken abgestützt. Hier zeigte Tuan jetzt auf
-eine breite Spalte in der Wand, die sich Ertrag nach oben
+eine breite Spalte in der Wand, die sich schräg nach oben
 zog. Dort oben war sie mit Geröll gefüllt.
 
 »Klettere hinein, Nummer 101,« sagte er keuchend zu Harald.
-»Man führt die Luft oben … Sie pfeift durch die
-Löcher des Gefühls … Geröll muß werden weggeräumt!«
+»Man fühlt die Luft oben … Sie pfeift durch die
+Löcher des Gerölls … Geröll muß werden weggeräumt!«
 
 Harald arbeitete sich schon empor … Beleuchtete die
 Felsstücke …
 
-Ich Kiste ihm seine Spitzhacke reichen. In wenigen
-denn hatte er daß Geröll gelockert. Es stürzte polternd
+Ich mußte ihm seine Spitzhacke reichen. In wenigen
+Minuten hatte er das Geröll gelockert. Es stürzte polternd
 herab
 
 Und der Chinese flüsterte atemlos:
@@ -2100,7 +2100,7 @@ Harald rief uns zu:
 »Es stimmt — hier geht’s in eine natürliche Höhle
 hinab …«
 
-Ich sah, wie er 563 dazu. unter seiner Jacke loö8wicdelic.
+Ich sah, wie er das Tau unter seiner Jacke loswickelte.
 
 Und im selben Moment neben mir Tuan — zähneklappernd
 vor Angst:
@@ -2109,8 +2109,8 @@ vor Angst:
 die Aufseher …«
 
 <@pagebreak/>
-Auch ich hörte jetzt seines Brüllen … Unser Fehlen
-war also doch denen?! worden.
+Auch ich hörte jetzt fernes Brüllen … Unser Fehlen
+war also doch bemerkt worden.
 
 Im Nu war ich in der Spalte.
 
@@ -2123,7 +2123,7 @@ Harst hatte seine Grubenlampe an das Tau gebunden.
 
 »Löscht Eure Lampen!« befahl er leise.
 
-Wir drei hatten auf einem Felsgrat dicht nebeneinander.
+Wir drei hockten auf einem Felsgrat dicht nebeneinander.
 Hinter uns die Spalte, vor uns ein unbekannter Abgrund.
 
 Und die Rufe im Stollen kamen näher und näher …
@@ -2135,15 +2135,15 @@ Glück höchstens zwölf Meter tief …
 
 »Tuan als erster,« flüsterte Harst.
 
-gibt Chinese packte daß Tau, rutschte hinab. Harald
+Der Chinese packte das Tau, rutschte hinab. Harald
 hielt es.
 
 Dann kam ich an die Reihe.
 
-Unter uns im Stollen liegen die Aufseher hin und her.
+Unter uns im Stollen liefen die Aufseher hin und her.
 Verschwanden wieder …
 
-Als letzter folgte Harald uns. - Er hatte das Tau oben
+Als letzter folgte Harald uns. Er hatte das Tau oben
 festgeknotet.
 
 Nun waren wir vorläufig in Sicherheit — vorläufig!
@@ -2162,20 +2162,20 @@ Wir erkletterten eine terrassenförmige Wand …
 Und gerade als wir oben einen breiten, aber sehr niedrigen
 Gang gefunden hatten, knallte ein Schuß …
 
-Wir waren erste?! … Ein Aufseher hatte seinen
+Wir waren entdeckt … Ein Aufseher hatte seinen
 Revolver nach uns abgefeuert. Er saß oben auf dem Felsgrat.
 Ein zweiter rutschte schon am Tau abwärts.
 
 <@pagebreak/>
-Wir trocken in den Gang hinein. Es ganz steil aufwärts.
+Wir krochen in den Gang hinein. Es ging steil aufwärts.
 Stellenweise mußten wir uns hindurchzwängen.
 Dann eine neue Höhle …
 
-Aber — zu unseren hüten jetzt wieder eine Steilwand …
-undesten3 Je oder … Und keine Möglichkeit, hier
+Aber — zu unseren Füßen jetzt wieder eine Steilwand …
+Mindestens zehn Meter … Und keine Möglichkeit, hier
 hinabzugelangen … 
 
-Tuan biß sich vor Küste na die Fingernägel ab …
+Tuan biß sich vor Aufregung die Fingernägel ab …
 
 Stöhnte, jammerte …
 
@@ -2191,19 +2191,19 @@ fest …
 Und kaum war die Barrikade leidlich dicht, als drüben
 schon einer der Aufseher brüllte:
 
-»angeht Euch …!!«
+»Ergebt Euch …!!«
 
 Harst arbeitete weiter …
 
 Diese Steinkeile zu entfernen, mußte stundenlang
-davon …
+dauern …
 
 Dann wieder vorwärts — zu der Steilwand.
 
 Wir zerrissen unsere Leinenjacken. Das gab einen Strick
 von fünf Meter. Die letzte Strecke sprangen wir …
 
-Abernitals8 prüfte Harald den Luftzug. Abermals kletterten
+Abermals prüfte Harald den Luftzug. Abermals kletterten
 wir … Und jetzt in diesem neuen breiten Gang
 wehte schon andere Luft …
 
@@ -2211,7 +2211,7 @@ Wir — rochen die Freiheit!
 
 Wir rannten, kletterten, sprangen …
 
-Und dann mit einem Male über uns der im Abendrot:
+Und dann mit einem Male über uns der im Abendrot
 flammende Himmel …
 
 Ein Tal — ein Wald …
@@ -2225,14 +2225,14 @@ Tuan Leng zitterte. Seine alten Knochen hatten diese
 Hetzjagd kaum ausgehalten.
 
 <@pagebreak/>
-Kanals löschte unsere Grubenlampen aus …
+Harald löschte unsere Grubenlampen aus …
 
 »Allzu lange dürfen wir hier nicht bleiben,« meinte er.
 »Das Militär ist fraglos alarmiert worden … Man Wird
-Patrouillen ausacichicct nahen. Wir befinden uns hier im
-»höchsten Quertale — nach Norden zu …«
+Patrouillen ausgeschickt haben. Wir befinden uns hier im
+nächsten Quertale — nach Norden zu …«
 
-Unsere Lungen berührenden sich) …
+Unsere Lungen beruhigten sich …
 
 Tuan kaute vor Durst Blätter …
 
@@ -2248,104 +2248,104 @@ Alarm …
 
 Und wir drei rannten in den Wald hinein …
 
-Erst blindlings … Dann Pflock Harst sicher … am
-Fuße eines unser;Euren dazu-Baumes, von dessen Seiten
-ganze Bündel von Schlinggewächsen herabbij Augen …
+Erst blindlings … Dann blieb Harst stehen … am
+Fuße eines ungeheuren Taku-Baumes, von dessen Seiten
+ganze Bündel von Schlinggewächsen herabhingen …
 
 »Tuan — hinauf!«
 
 Der Chinese verstand …
 
-Er packte die Ranken, arbeitete sich ausivwärts …
+Er packte die Ranken, arbeitete sich aufwärts …
 
 Ich hinterdrein …
 
 Harald aber stellte eine deutliche Fährte her — bis zu
-einem Dickicht … Folgte uns dann erst, nacktem er die
-alte Fährte mit abgerissenen Blättern verdbecct hatte …
+einem Dickicht … Folgte uns dann erst, nachdem er die
+alte Fährte mit abgerissenen Blättern verdeckt hatte …
 
-Der Tasu-Baum Überragte alle anderen Wivpfel. Seine
--Seitenäste drängten sich in die der Nachbarstämme hinein.
+Der Taku-Baum Überragte alle anderen Wipfel. Seine
+Seitenäste drängten sich in die der Nachbarstämme hinein.
 
 Wir kletterten so von Baum zu Baum … stets über
-dem Erdboden. Zum Glück wurde es sehr bald dunkel. Sohn
-Worten wir auch sä Co das Rufen der Verfolger, sahen Fuchsbau
-ausleuchten, hörten auch Hundegebell …
+dem Erdboden. Zum Glück wurde es sehr bald dunkel. Dann
+Worten wir auch schon das Rufen der Verfolger, sahen Fackeln
+aufleuchten, hörten auch Hundegebell …
 
-Harst war stets voran. Harst suchte für uns den gang-darcsten
+Harst war stets voran. Harst suchte für uns den gangbarsten
 Weg durch die Baumkronen …
 
-G3 wurde wieder still …
+Es wurde wieder still …
 
 Die Verfolger hatten sich täuschen lassen. Der Wald zog
-ich die Ostwand Tee Tales hinan. Wir wagten uns wieder
+sich die Ostwand des Tales hinan. Wir wagten uns wieder
 auf den Boden, gelangten in das nächste Tal …
 
-Wir glaubten uns s[schon geborgen, schlichen jetzt nach
+Wir glaubten uns schon geborgen, schlichen jetzt nach
 <@pagebreak/>
-Westen zu, um in die Ebene, ist: die bebauten Felder entschlüpfen
+Westen zu, um in die Ebene, in die bebauten Felder entschlüpfen
 zu können …
 
-Zu früh gefreut …1!
+Zu früh gefreut …!!
 
-Lichtschein hinter uns — Fackeln, das Pflegte Ausheuleun
+Lichtschein hinter uns — Fackeln, das wütende Aufheulen
 der Rüden …
 
 Sie waren auf unserer Spur … Wir schienen verloren.
-Fein Baum — nur Büsche …
+Kein Baum — nur Büsche …
 
-Wir lassen weiter.
+Wir jagten weiter.
 
-zwar taumelte …
+Tuan taumelte …
 
-Harst gab ihn in die Meine …
+Harst nahm ihn in die Arme …
 
-»Abwärts ging’s …
+Abwärts ging’s …
 
-Ein nicht leuchtete dort in der Tiefe —“«+ ein Bauern-geboit
-… - Rechts davon eine Umzäunung … Tiere
-bewegten sich dort … Matriliiero, zwei Droittedare, ein
+Ein Licht leuchtete dort in der Tiefe — ein Bauerngehöft
+… Rechts davon eine Umzäunung … Tiere
+bewegten sich dort … Maultiere, zwei Dromedare, ein
 Pferd …
 
-Und links ein Gewässer, ein: Bach, von Gestrüpp umrahmt
+Und links ein Gewässer, ein Bach, von Gestrüpp umrahmt
 …
 
 Wir hinein in das Wasser …
 
 Weiter — weiter  …
 
-Hier würden die: Hunde. unsere Spur verlieren …
-Hier wateten wir fünf Minuten vorwarf …
+Hier würden die Hunde unsere Spur verlieren …
+Hier wateten wir fünf Minuten vorwärts …
 
-Ein breiterer Wasserlauf … E35 war die Dschamada,
+Ein breiterer Wasserlauf … Es war die Dschamada,
 der Nebenfluß des Mandawi …
 
-ein plumper Kahn lag an! Ufer … - Zwei Stoßstangen
+ein plumper Kahn lag am Ufer … Zwei Stoßstangen
 darin …
 
-Harst legte Tuan auf den Boden des verließ … Wir
+Harst legte Tuan auf den Boden des Bootes … Wir
 nahmen die Stangen …
 
 Und zwei Stunden später sahen wir in der Ferne die
 Hafenlichter von Goa … Lenkten in einen Bewässerungskanal
 ein, fanden inmitten von Reisfeldern eine verlassene
-Steinbütite …
+Steinhütte …
 
-Wir drei. Sträflinge waren nun wirklich geborgen.
+Wir drei Sträflinge waren nun wirklich geborgen.
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
 <h3>In der Mine Tissanders.</h3>
 
-Gegen ein Uhr n1iorgens war es jetzt. Wentisöstens der
-rechnete Harald diese Stunde aus dem Stand des mageres.
+Gegen ein Uhr morgens war es jetzt. Wenigstens
+berechnete Harald diese Stunde aus dem Stand des Mondes.
 Denn — Uhren?! Nein, die hatten wir in unseren Koffern
 gelassen, als wir vor vier Tagen das einsame verfallene
 Gehöft als Kulis verließen. Und unsere Koffer?! Nur
 der Baron Leo Tissander wußte, wo die geblieben!
 
-Nichts hätten wir in den Taschen unserer Sträflingsbeinkleider
+Nichts hatten wir in den Taschen unserer Sträflingsbeinkleider
 …
 
 Nichts hatten wir auf dem Oberkörper als unsere
@@ -2357,14 +2357,14 @@ ruhten aus. Tuan Leng war körperlich erledigt.
 »Ich tot sein … Tuan nicht mehr leben!« stöhnte er
 immer wieder.
 
-Der arme hielt konnte einem wirklich) leid tun.
+Der arme hielt konnte einem wirklich leid tun.
 
 Als Harst dann aber nach einer halben Stunde erklärte,
-wir beide wollten nun sofort wieder ausbrechen, um in Goa
-etwas Wichtiges zu besorgen, da schnellte der Chinese jöran-lj
+wir beide wollten nun sofort wieder aufbrechen, um in Goa
+etwas Wichtiges zu besorgen, da schnellte der Chinese förmlich
 hoch …
 
-»Tun mickommen … Tuan auch etwas besorgen.
+»Tun mitkommen … Tuan auch etwas besorgen.
 Freund besuchen … in sein Schloß …«
 
 »Heißt Dein Freund vielleicht Baron Tissander?« fragte
@@ -2381,7 +2381,7 @@ Freund sein … Oh — wenn Tuan reden wollten …
 Könnten viel erzählen …«
 
 Harald nickte. »Glaube ich gern, lieber Tuan … Der
-Tissander hat eben eine reichbeiwvwegte Vergangenheit …«
+Tissander hat eben eine reichbewegte Vergangenheit …«
 
 <@pagebreak/>
 Der alte Verbrecher grinste …
@@ -2391,26 +2391,26 @@ Aber Tuan nichts verraten … Tuan holen werden von
 seine Freund Geld und Kleider … Oh — Freund uns
 drei verbergen werden …«
 
-Er ahnte ja nacht immer mich?!, wer wir in Wirklichkeit
+Er ahnte ja noch immer nicht!, wer wir in Wirklichkeit
 waren. Für ihn blieben wir seinesgleichen, die Sträflinge
 Nummer 101 und 102 …
 
 »Nun gut — dann komm mit,« erklärte Harald nach
 kurzem Überlegen. »Aber ich warne Dich: Sage Tissander
-nichts davon, daß Du mit zwei Eitropäcrn entflohen bist.
+nichts davon, daß Du mit zwei Europäern entflohen bist.
 Sage, es sind Inder … Verspricht es mir …«
 
 »Oh — ganz wie Nr. 101 wollen,« versicherte Tuan.
 
 Wir stiegen in das Boot … Wir waren in dem Nachen
 am sichersten. Außerdem würden die Verfolger auch kaum
-annehmen, daß wir uns gerade hier naß Goa gewandt
+annehmen, daß wir uns gerade hier nach Goa gewandt
 hätten.
 
 Es mochte zwei Uhr morgens sein, als wir über die
-Schloßpar!Mauer kletterten. Tuan riet uns, hier oben auf
+Schloßparkmauer kletterten. Tuan riet uns, hier oben auf
 der Mauer zu warten. Er würde sehr bald zurück sein. —
-Irgendeine Verräterei von seiner Seite war mich?! zu fürchten.
+Irgendeine Verräterei von seiner Seite war nicht zu fürchten.
 
 »Geh nur … Wir warten,« flüsterte Harald.
 
@@ -2427,11 +2427,11 @@ Tuan gestellt …
 Wir standen fünfzehn Schritt zurück im Gebüsch …
 
 Tuan verlangte den Baron zu sprechen. Der Wächter
-wurde grob. Tuan drohte, daß der Wächter es sehr be
-dauern würde, ihn so übel behandelt zu Balken …
+wurde grob. Tuan drohte, daß der Wächter es sehr bedauern
+würde, ihn so übel behandelt zu haben …
 
-Jedenfalls: es wurde eine recht lebhafte S»:ne. Der
-Hund des Wächters bellte in einemsort … VW. ich-:e Parkwächter
+Jedenfalls: es wurde eine recht lebhafte Szene. Der
+Hund des Wächters bellte in einemfort … Andere Parkwächter
 kamen hinzu, und wir mußten in den Wassergraben
 flüchten …
 
@@ -2441,31 +2441,31 @@ Der ganze Trupp zog dann mit dem Chinesen dem
 Schlosse zu.
 
 Wir sahen, daß die unteren Fenster des Prachtbaus zum
-Teil erleuchtet waren. Das sich uns auf. So mitten in der
-Nacht eine Reihe erhellicx Fenster — daß war merkwürdig.
+Teil erleuchtet waren. Das fiel uns auf. So mitten in der
+Nacht eine Reihe erhellter Fenster — das war merkwürdig.
 
 Harald, in dem Graben neben mir kniend, flüsterte:
 
 »Wir hätten Tuan doch nicht gehen lassen sollen …
-Wenn Tissander womösglic schon telephonisch von unserer
-Tracht benachrichtigt worden ist — die Strafkolonie hat ja
-Ferneres Verbindung mit Goa —, dann wird der Chinese
+Wenn Tissander womöglich schon telephonisch von unserer
+Flucht benachrichtigt worden ist — die Strafkolonie hat ja
+Fernsprechverbindung mit Goa —, dann wird der Chinese
 bei seinem »Freunde« einen schweren Stand haben …«
 
 Und kaum hatte er diesen Satz beendet, da … tönte
-von dem wundervollen Marmorbait der harte Knall eines
+von dem wundervollen Marmorbau der harte Knall eines
 Schusses herüber …
 
-Die Hunde Fenster auf …
+Die Hunde heulten auf …
 
 Männerstimmen brüllten …
 
-Und über den Nasenplatz sahen wir Tuan wie gelebt
+Und über den Rasenplatz sahen wir Tuan wie gehetzt
 davonstürmen — hinter ihm die Hunde — und eine schlanke
 Gestalt in hellem Anzug: Tissander selbst!
 
-Allmacht: dieser Baron machte trotz seiner sechzig Jahre
-Sprünge wie ein Schnellänufer …
+Fürwahr: dieser Baron machte trotz seiner sechzig Jahre
+Sprünge wie ein Schnelläufer …
 
 Und dann — schoß er nochmals …
 
@@ -2473,23 +2473,23 @@ Und Tuan warf die Arme hoch …
 
 Stürzte …
 
-Und über. ihm nun ein Knäuel von Hunden …
+Und über ihm nun ein Knäuel von Hunden …
 
 »Fort mit uns …!!«
 
 Harst riß mich hoch …
 
-Wir krochen fast) quer über die Allee — hinein in die
+Wir krochen rasch quer über die Allee — hinein in die
 Büsche …
 
-Mein seitwärts irrender Blick umfing noch die Shautkel.
+Mein seitwärts irrender Blick umfing noch die Schaukel.
 
-Und — die Genusses war wieder besetzt … drei Inder
+Und — die Schaukel war wieder besetzt … drei Inder
 schwebten hin und her … —
 
 Wir liefen …
 
-Kletterten über die Morgen … Nannten durch die
+Kletterten über die Mauer … Rannten durch die
 Felder — abwärts Zur Stadt … —
 
 Harald fiel in Schritt …
@@ -2497,50 +2497,50 @@ Harald fiel in Schritt …
 <@pagebreak/>
 »Stopp — — genug …!«
 
-Ich konnte kaum mehr ahnen …- Ich hörte das Blut
-im weiter Ohren kraftlos 5 Mein Herz hämmerte
+Ich konnte kaum mehr atmen … Ich hörte das Blut
+in meinen Ohren brausen … Mein Herz hämmerte …
 
-»Schnurrte Torbido muß Felsen,« sagte. Harald. »dann.
-Seine Augen waren überall. 5 Er fürchtete heimliche -Verfolger
-Bestie famose, als ir um ersten Malt« in: Tissander?
+»Sennor Torbido muß helfen,« sagte Harald dann.
+Seine Augen waren überall. Er fürchtete heimliche Verfolger
+wie damals, als wir zum ersten Male in Tissanders
 Park gewesen.
 
-Wir schicken Dr Eiter, dort ’ seinen idyllischen Europöor-vi
-Viertel geht-Goas zu …
+Wir schlichen weiter, dem kleinen idyllischen Europäerviertel
+Neu-Goas zu …
 
 Der Morgen zog schon herauf.
 
-Und wieder sagte Harst: »Torbido 1 aß mir für alle Fälle
-die Rückseite seines Gartens. beschrieben Eine Kies8grube
-soll sich an das. Grundstür anschließen ck…«
+Und wieder sagte Harst: »Torbido hat mir für alle Fälle
+die Rückseite seines Gartens beschrieben. Eine Kiesgrube
+soll sich an das Grundstück anschließen …«
 
 Wir fanden uns Wirklich unrecht. Es war die höchste
-Zeit. Es wurde immer. bester …
+Zeit. Es wurde immer heller …
 
-Und als wir den Torheit - betraten, löste sich aus den
-Strichen eine hohe: Gestalt: der Oberlicht?r Torbido!
+Und als wir den Garten betraten, löste sich aus den
+Büschen eine hohe Gestalt: der Oberrichter Torbido!
 
-Er winkte … »Allahs Sie: erwartet.  Ihre Erfuhr
+Er winkte … »Ich habe Sie erwartet. Ihre Flucht
 ist längst gemeldet …«
 
-Er war erregt und gereizt, »Tissander hat seine Spione
-Überall … Der Gouverneunx, recht ganz unter seinem Einfluß,
+Er war erregt und gereizt. »Tissander hat seine Spione
+Überall … Der Gouverneur, steht ganz unter seinem Einfluß,
 ist blind …«
 
-Und er führte uns. in das »Stallgebäude … Er hatte
-für alles gesorgt, obwohl er selbst Gefahr Tief, unseretwegen
+Und er führte uns in das Stallgebäude … Er hatte
+für alles gesorgt, obwohl er selbst Gefahr lief, unseretwegen
 Unannehmlichkeiten zu haben.
 
 Harst drückte ihm die Hand. »Es, wird Ihr Schade nicht
-sein, Sennor-Torbido …: Tissander [all noch heute gestürzt
-nicht u … Der Gouverneur wird staunen. Fragen Sie
-Nichts …«
+sein, Sennor Torbido … Tissander soll noch heute gestürzt
+werden … Der Gouverneur wird staunen. Fragen Sie
+nichts …«
 
-Da sagen hier im »Stall. zwei. qulianzüge, »Perücken,
-Bärte, heutige Beize für die Haut …
+Da lagen hier im Stall zwei Kulianzüge, Perücken,
+Bärte, braune Beize für die Haut …
 
 Nicht zehn Minuten dauerte es, und wir waren so vollkommen
-verändert, daß wir uns getrost. überallhin wagen
+verändert, daß wir uns getrost überallhin wagen
 konnten
 
 »Wir brauchen noch zwei elektrische Taschenlampen,
@@ -2555,21 +2555,21 @@ Der Oberrichter hob den Deckel einer anderen Kiste.
 Selbst starke Taschenmesser hatte er besorgt. —
 
 Wir verabschiedeten uns. Und im Abstand von hundert
-Schritt wanderten wir nun einzeln wieder« den Bergen zu.
+Schritt wanderten wir nun einzeln wieder den Bergen zu.
 Die Straßen waren belebt. In den Feldern benutzten die
-Leute die Morgenkühle zur Arbeit. Niemand achtete a1rf
-uns. Gestalten wie wir waren hier keine Seltenheit: Knlis-ohne
-Arbeit — halbe Vagabunden …
+Leute die Morgenkühle zur Arbeit. Niemand achtete auf
+uns. Gestalten wie wir waren hier keine Seltenheit: Kulis
+ohne Arbeit — halbe Vagabunden …
 
-Harald bog dann nach echte ab — in die Berge hinein.
+Harald bog dann nach rechts ab — in die Berge hinein.
 — Die Sonne ging auf … Hinter uns leuchtete das
 Meer. Vom Hafen her das Heulen von Dampfersirenen …
 
-Ich wußte nicht recht, was Harst vorhatte. 39 ahnte
+Ich wußte nicht recht, was Harst vorhatte. Ich ahnte
 nur: es handelte sich um die Schaukel des Barons!
 
-Die Felder hörten auf … Die« Vorberge begannen.
-Und dort in einem Tale eine kleine Kapelle, uralt, ein;
+Die Felder hörten auf … Die Vorberge begannen.
+Und dort in einem Tale eine kleine Kapelle, uralt, ein
 Kreuz auf dem Dache …
 
 Harald verschwand hinter dem verwitterten Gebäude,
@@ -2577,140 +2577,140 @@ wartete auf mich. Ringsum Stille, Einsamkeit. Kein
 Mensch zu sehen — kein Gehöft … Nur nach Osten zu,
 wohl vierhundert Meter entfernt, der Park Tissanders …
 
-Harst sagte: »hieß ist die Kapelle des heiligen Franz
-Xaver. Sie stammt nahe aus dem Jahre 1721, als die
-Gestalten hier in Goa die erste Buchdruckerei eintrichteten.
+Harst sagte: »Dies ist die Kapelle des heiligen Franz
+Xaver. Sie stammt noch aus dem Jahre 1721, als die
+Jesuiten hier in Goa die erste Buchdruckerei einrichteten.
 Und dies ist dieselbe Kapelle, die auf dem Stein erwähnt
-war — also die in dem Tagebuch des alten Boeter 0c-
-genannt wird. fünfhundert Meter von hier nach Osten zu bat
+war — also die in dem Tagebuch des alten Boeter
+genannt wird. fünfhundert Meter von hier nach Osten zu hat
 Boeter »sein Geheimnis begraben«. Und wenn Du fünfhundert
-Meter in der angegebenen Richtung zurüclcast,
+Meter in der angegebenen Richtung zurücklegst,
 mein Alter, befindest Du Dich in des Barons Schloßpark.
 Mithin …«
 
 Ich schaute ihm an. Jetzt würde endlich wohl die
-Schaukel an die Reihe kann:er.
+Schaukel an die Reihe kommen.
 
-»… Mithin kann es sich nur um — eine Höhle Fenstern
+»… Mithin kann es sich nur um — eine Höhle handeln
 <@pagebreak/>
 — nur … Und in der Höhle um — Diamanten!
-Indien ist wie Brasilien und Südafrika von schon das Land
-dar Edelsteine gewesen. Und hier in Indien hat man früher
-racßtezemplare von Diamanten aus brüchigem Gestein gen
-— Suchen wir … Diese Höhle hat vier zu
-der Nähe ’der Kapelle einen Eingang, behaupte ich
+Indien ist wie Brasilien und Südafrika von jeher das Land
+der Edelsteine gewesen. Und hier in Indien hat man früher
+Prachtexemplare von Diamanten aus brüchigem Gestein geschürft …
+— Suchen wir … Diese Höhle hat hier in
+der Nähe der Kapelle einen Eingang, behaupte ich …
 Suchen wir …
 
 Er kletterte die Talwand nach Osten zu empor. Wenn
 ein Harald Harst etwas sucht, tut er es mehr mit dem Verstand
-alles mit den Augen.
+als mit den Augen.
 
 Da war nun auf halber Höhe der Talwand eine breite
 Terrasse, gestrüppbewachsen, schwer zugänglich … Und
-hier blieb Harst vor« einer bestimmten Stelle des Schrei]
+hier blieb Harst vor einer bestimmten Stelle des schroff
 ansteigenden Felsens stehen. Hier deutete er auf ein roh
 eingemeißeltes
 
-<p class="centered">B</p>
+<p class="centered">*B*</p>
 
 einen einzigen Buchstaben. — Man sah, daß unter dem
 Buchstaben noch etwas eingemeißelt gewesen … Man
-Jahre jedoch dieses Etwas wieder entfernt. Nur eine diese
+hatte jedoch dieses Etwas wieder entfernt. Nur eine tiefe
 lange Rille war übriggeblieben.
 
-»Es war ein … Pfeil,« nichts Harald. »Und er zeigte
+»Es war ein … Pfeil,« nickte Harald. »Und er zeigte
 abwärts — nach links …«
 
 langsam schritt er nach links …
 
-Sir hoher Hause von Steinen und Geröll lag hier —
+Ein hoher Haufe von Steinen und Geröll lag hier —
 wie zufällig entstanden … Und doch merkte man, daß
-die Seine aufgeschichtet waren, wenn man nur genauer
-heute.
+die Steine aufgeschichtet waren, wenn man nur genauer
+hinschaute.
 
-ir knieten … Das Gestrüpp deckte uns … Wir
+Wir knieten … Das Gestrüpp deckte uns … Wir
 legten Stein für Stein beiseite …
 
 Und unter dem Geröllhügel kam nun ein größerer Block
 zum Vorschein.
 
-Wir packten zu « … All unsere Kraft war nötig, un den
-Stein zu bewegen. Endlich hatten wir ihn berau84239gen.
+Wir packten zu … All unsere Kraft war nötig, um den
+Stein zu bewegen. Endlich hatten wir ihn herausgezogen.
 ein breites Loch … Wir schlüpften hinein, zogen den
-Stein wieder vor die Lump, so gut es ging … -
+Stein wieder vor die Öffnung, so gut es ging … —
 
-Die Ghats, die ebirg8züge der Westküste Vorderindiens,
+Die Ghats, die Gebirgszüge der Westküste Vorderindiens,
 <@pagebreak/>
 sind bekannt durch ihren Höhlenreichtum, durch ihre
 Höhlentempel …
 
-Und hier hatten wir eine Grotte Kutter?!, in der wir
+Und hier hatten wir eine Grotte entdeckt, in der wir
 dicht hinter dem Eingang an glatter Stelle der Wand abermals
-einen Beweis fanden, daß Eitel Boeters Vater hier
-der erste gewesen, der diese unterirdische Welt betreten hatte.,
+einen Beweis fanden, daß Ethel Boeters Vater hier
+der erste gewesen, der diese unterirdische Welt betreten hatte.
 
-Ein neues eingemeißeltes B, dahinter die Zahl 1899. —
+Ein neues eingemeißeltes *B*, dahinter die Zahl 1899. —
 
 Vorsichtig gingen wir vorwärts — nach Osten zu …
 
 Und waren noch nicht fünf Minuten beim Lichte der
-halb verkehren Taschenlampen gewandert, als wir hinter
-einer scharfen. Biegung. Geräusche hörten …
+halb verdeckten Taschenlampen gewandert, als wir hinter
+einer scharfen Biegung Geräusche hörten …
 
 »Licht aus!« flüsterte Harst …
 
-Und noch; behutsamer schlichen wir dahin …
+Und noch behutsamer schlichen wir dahin …
 
 Dann dicht vor uns Laternen, Gestalten …
 
-Vier Inder bedienten Gesjteinbohrer …
+Vier Inder bedienten Gesteinbohrer …
 
-Und von oben her durch) die Höhlendecke ragten eiserne
+Und von oben her durch die Höhlendecke ragten eiserne
 runde Stangen herab — zwei Eisenstangen, die sich drehten,
 die eine Anordnung von Zahnrädern bewegten …« 
 
 Und da — begriff ich …
 
-Die Eisenstangen mußten in ’dem hohlen Gerüst der:
-Schaukel entlanggeführt sein, wurden durch die obere Be-jeitigungsstange
-der Schaukel und durch Zahnräder besorgt.-
+Die Eisenstangen mußten in dem hohlen Gerüst der
+Schaukel entlanggeführt sein, wurden durch die obere
+Befestigungsstange der Schaukel und durch Zahnräder bewegt.
 
-Kurz: die Schaukel war eine besondere Art Kraftwerken,
+Kurz: die Schaukel war eine besondere Art Kraftmotor,
 und die Pendelbewegung der Schaukel wurde hier unten in
 eine rotierende umsetzt! —
 
-Wir lagen hinter einem Scutitberg und beobachteten
+Wir lagen hinter einem Schuttberg und beobachteten …
 
-Tissander hatte hier, ein? durch Ankauf und Aufitellung
-gesichert Maschinen Verdachts zu erregen, wohl seit Jahren
-das Gestein a6gebaut …
+Tissander hatte hier, ohne durch Ankauf und Aufstellung
+größerer Maschinen Verdacht zu erregen, wohl seit Jahren
+das Gestein abgebaut …
 
 Die Steinbohrer arbeiteten unausgesetzt: Das Gestein
-selbst war Flüchtig. K&einerlci Lärm konnte nach oben Grinsen.
+selbst war bröcklig. Keinerlei Lärm konnte nach oben dringen.
 Ohne viel Geräusch war hier eine kleine Diamantenmine
 im Betrieb.
 
-Mit einem habe erschienen von der anderen Seite her
-vier weitere »Alter mit TraGtoiben. Schaukelten das lo2-eclwucteia
-Vorfall in die Kopf? und verzog;flammten vier.
+Mit einem Male erschienen von der anderen Seite her
+vier weitere Inder mit Tragkörben. Schaufelten das losgewuchtete
+Geröll in die Körbe und verschwanden wieder.
 
 <@pagebreak/>
-»fehlt!« flüsterte Harald …
+»Kehrt!« flüsterte Harald …
 
 Wir traten den Rückweg an …
 
-Wir bauten draußen aus der Terrasse den Höhleneingang
+Wir bauten draußen auf der Terrasse den Höhleneingang
 wieder zu.
 
 »Und jetzt — zum Gouverneur,« sagte Harst. »Jetzt
-werde ich dem Grafen Rapsoldi etwas die Augen offenem!«
+werde ich dem Grafen Rapsoldi etwas die Augen öffnen!«
 
-Übermalt begaben wir uns in vorjichiigemt Abstand von
-hundert Schritt zur Stadt b;mal.
+Abermals begaben wir uns in vorsichtigem Abstand von
+hundert Schritt zur Stadt hinab.
 
-Das neue Gouvernementshaus liegt unweit des Hageres
-auf einem Hügel. Wozu der breiten Freitreppe kann matt
-den Gaunern Hafen überblicken.
+Das neue Gouvernementshaus liegt unweit des Hafens
+auf einem Hügel. Von der breiten Freitreppe kann man
+den ganzen Hafen überblicken.
 
 Und jetzt — entdeckte ich etwas, das den Dingen eine
 andere Wendung gab …
@@ -2733,18 +2733,18 @@ Er fuhr herum …
 Und doch — wir hatten kein Glück …
 
 Nein: die Sträflinge 101 und 102 waren trotz ihrer
-Verkleidung erkannt worden! Der Kommissario Ehrbares,
-der uns damals verhaftet hatte, mußte soeben das Go9ouver-ncments8haus
-verlassen haben … Wir standen mitten auf
-der Freitreppe, den Gläsern nach) dem Gebäude hin …
+Verkleidung erkannt worden! Der Kommissario Alvarez,
+der uns damals verhaftet hatte, mußte soeben das
+Gouvernementshaus verlassen haben … Wir standen mitten auf
+der Freitreppe, den Rücken nach dem Gebäude hin …
 
-wollten gerade trieben die flüstert Schwall, als ein lauter
-Ruf hinter uns mich zurüuschauen lich …
+wollten gerade wieder die Stufen hinab, als ein lauter
+Ruf hinter uns mich zurückschauen ließ …
 
 Alvarez …!! Und die beiden Posten vor dem Eingang
 …
 
-»Steht …! Ich lasse schießen!« brüllte der Kommis-jarw
+»Steht …! Ich lasse schießen!« brüllte der Kommissario
 …
 
 Harald begann zu laufen …
@@ -2758,42 +2758,42 @@ hinein …
 Ich hinterher … — Arbeiter, Stauer, Kulis — eine
 gröhlende Rotte verfolgte uns …
 
-Der lange Stangen war an der anderen Seite ebenfalls
+Der lange Schuppen war an der anderen Seite ebenfalls
 offen …
 
 Und doch schlüpften wir nur hinter einen Stapel Fässer,
-Blick?! die farbige Bande und Sennor Alvarez vorüber,
-sollen wieder. zur ersten Tür hinaus, sprangen in ein
+ließen die farbige Bande und Sennor Alvarez vorüber,
+schlichen wieder zur ersten Tür hinaus, sprangen in ein
 Boot …
 
-jetzt hatten wir Glück. Moderner?! kamen wir zur
-Atlantik. Unter dem Sonnensegel auf Achterdeck saß John-Trolby,
-rauchte … Und die Naturen brachten vorn ein
+jetzt hatten wir Glück. Unbemerkt kamen wir zur
+Atlantis. Unter dem Sonnensegel auf Achterdeck saß John
+Trolby, rauchte … Und die Malaien brachten vorn ein
 paar Taue in Ordnung.
 
 Trolby rief uns zu: »He, was wollt Ihr …?! Schert
-Euch zum Teufel. I4HDH brauche nichts …« — Er hielt uns
+Euch zum Teufel. Ich brauche nichts …« — Er hielt uns
 für Händler.
 
 Harst packte die Reling …
 
-»Morgen, aller Trolby!«
+»Morgen, alter Trolby!«
 
 Und dem braven Gefährten rutschte vor Schreck die
 Pfeife aus dem Munde … —
 
-Dann in der Kajüte große Begrüßungsszene … -Atiru
+Dann in der Kajüte große Begrüßungsszene … Atiru
 und Sikiri freuten sich wie die Kinder … 
 
 »Sind erst gestern abend hier eingetroffen,« erklärte
-Trolby. »Wußte ja, daß Sie hierher uns ausgerüc?! seien,
-leben Schraut …« —
+Trolby. »Wußte ja, daß Sie hierher uns ausgerückt seien,
+lieber Schraut …« —
 
-Unser hinter lassen war hier an Bord der Atlantis.
+Unser dritter Koffer war hier an Bord der Atlantis.
 
-ohne Stunde später begaben wir beide uns in tadellosen
+Eine Stunde später begaben wir beide uns in tadellosen
 weißen Leinenanzügen abermals nach dem Gouvernementshaus
-— als Curopäaer, als Harst und Schraut …
+— als Europäer, als Harst und Schraut …
 
 <@pagebreak/>
 
@@ -2805,19 +2805,19 @@ Die beiden Posten vor dem Haupteingang ließen uns
 ohne weiteres durch. Vielleicht waren es dieselben Leute,
 die vorhin auf die beiden »Sträflinge« geschossen hatten.
 
-»Unten in der Vorhalle empfing uns ein farbiger Portier
+Unten in der Vorhalle empfing uns ein farbiger Portier
 — sehr höflich …
 
-»Wir mochten Seine Exzellenz sprechen,« erklärte Harald.
+»Wir möchten Seine Exzellenz sprechen,« erklärte Harald.
 
 Der Portier schrieb unsere Namen auf einen Zettel und
 gab uns einen uniformierten Boy mit. Der kleine Kerl
 führte uns in den ersten Stock und in ein elegantes Wartezimmer.
-Mit dem Zettel in der. Hand verschwand er durch
+Mit dem Zettel in der Hand verschwand er durch
 eine Flügeltür.
 
 Was würde nun geschehen?! Und was beabsichtigte
-Harst?! — sehe war doch ein wenig beunruhigt.
+Harst?! — Ich war doch ein wenig beunruhigt.
 
 Harald selbst schaute zum Fenster hinaus, gähnte …
 wahrhaftig: er gähnte …!
@@ -2829,14 +2829,14 @@ Musterte uns …
 
 »Verzeihung, Sennor Harst …?«
 
-»Allerdinag8 …«
+»Allerdings …«
 
-»Exzellenz ist leider vorläufig leicht, Sennor Harst …«
+»Exzellenz ist leider vorläufig besetzt, Sennor Harst …«
 
 Er hatte den Zettel zwischen den Fingern.
 
 »In welcher Angelegenheit, Sennor Harst?« fragte er
-ebenso vertattlert.
+ebenso vertattert.
 
 »Persönlich … Wer ist bei Exzellenz?«
 
@@ -2844,51 +2844,51 @@ ebenso vertattlert.
 
 Harald winkte mir …
 
-»Damm …!«
+»Komm …!«
 
-Und an dem völlig versteinerte Herrn vorüber ging er
-in den Deltaarm — auf die Flügeltür zu — klopfte, öffnete.
+Und an dem völlig versteinerten Herrn vorüber ging er
+in den Vorraum — auf die Flügeltür zu — klopfte, öffnete.
 
 Ich drückte die Tür hinter uns ins Schloß … Ich sah,
 <@pagebreak/>
 daß die beiden Herren dort aus den Klubsesseln hochgeschnellt
 waren …
 
-Der Gottverneur freilich mit einem 66:3 Athleten Gesichtsausdruck
-als der vornehme grauklärtige Tissander.
+Der Gouverneur freilich mit einem ganz anderen Gesichtsausdruck
+als der vornehme graubärtige Tissander.
 
 Und Seine Exzellenz rief denn auch empört:
 
-Sennores, was erlauben Sie sich?! Ich 5egreise nicht,
-wie …
+»Sennores, was erlauben Sie sich?! Ich begreife nicht,
+wie …«
 
 Harald fiel ihm ins Wort …
 
-»Exzellenz verzeihen … Ein Blick auf den Baron tat
+»Exzellenz verzeihen … Ein Blick auf den Baron sagt
 Ihnen so ziemlich alles …«
 
 Tissander war in der Tat aschfahl geworden.
 
-Der Gouverneur, ebenfalls ein älterer Mann von frisch
-südländischem aussehen, schaute den Baron fragend und
+Der Gouverneur, ebenfalls ein älterer Mann von typisch
+südländischem Aussehen, schaute den Baron fragend und
 mit steigender Unsicherheit an.
 
 »Was — gibt es eigentlich, Leon?!« meinte er mißtrauisch.
 »Wer sind die Sennores?«
 
-»Harst »und Schraut, Exzellenz,« erwiderte Harald jetzt
-prompt. »Oder auch —« die Stkräflingae 101 und 102 …«
+»Harst und Schraut, Exzellenz,« erwiderte Harald jetzt
+prompt. »Oder auch — die Sträflinge 101 und 102 …«
 
 Graf Rapsoldi biß sich auf die Lippen. Ihm schien jetzt
-eine sehr unangenehme Erkenntnis auftauchen, zumal Harald
+eine sehr unangenehme Erkenntnis aufzugehen, zumal Harald
 ihm das Empfehlungsschreiben des Vizekönigs von
-Indien hinhielt, auf dem sich unsere. gestempelten Lichtbilder
+Indien hinhielt, auf dem sich unsere gestempelten Lichtbilder
 befanden.
 
-Tissander suchte zu retten, was noch zu retten war …„.
+Tissander suchte zu retten, was noch zu retten war …
 
-»Bitte — laß Dich durch diese beiden So;Mutter nicht
-täuschen,- Rapsoldi,« rief er in recht hochfahrendem Tone.
+»Bitte — laß Dich durch diese beiden Schwindler nicht
+täuschen, Rapsoldi,« rief er in recht hochfahrendem Tone.
 »Es sind in der Tat die flüchtigen Sträflinge, und —«
 
 Harald trat mit zwei raschen Schritten dicht vor ihn hin.
@@ -2896,40 +2896,40 @@ Harald trat mit zwei raschen Schritten dicht vor ihn hin.
 »Sie — sind nicht Baron Tissander!« sagte er eisig. »Sie
 sind — ein Betrüger, der hier nur seit Jahren diese Rolle
 spielt … Sie haben in der verflossenen Nacht den einzigen
-Mann, der ich Jahr Geheimnis kannte, kaltblütig erschossen
+Mann, der Ihr Geheimnis kannte, kaltblütig erschossen
 — den Chinesen Tuan Leng!«
 
 »Unerhört —! Unerhört!« fuhr der Baron auf. »Rapsoldi,
-ich verlange, daß Du diese Schufte sofort —"«
+ich verlange, daß Du diese Schufte sofort —«
 
-Da hatte Harald schon blitzschnell den Arm vorgeitrec?!.
+Da hatte Harald schon blitzschnell den Arm vorgestreckt.
 
 <@pagebreak/>
 Hatte dem angeblichen Tissander die Perücke vom Kopfe
 gerissen …
 
-»Dir kurz geschorener blonder Schädel kam so zum Vorschein
+Ein kurz geschorener blonder Schädel kam so zum Vorschein
 …
 
-»Bitte, Exzellenz, — so sieht daß natürliche Haar dieses
+»Bitte, Exzellenz, — so sieht das natürliche Haar dieses
 Burschen aus! Der Bart ist grau gefärbt … Dieser
 Mensch ist höchstens dreißig Jahre alt …«
 
 Und ebenso plötzlich hatte Harald einen Revolver in der
 Hand — drohte:
 
-»Rühren. Sie gibt nicht! Ich warne Sie! — Ich habe
+»Rühren Sie sich nicht! Ich warne Sie! — Ich habe
 im Verwaltungsgebäude der Sträflingsstation die Papiere
-Tuan Zeuge durchgesehen … der Chinese hatte bereits
-fünf Jahre Zwangszarbeit in Bombay hinter sich. Und dort
-in: Bombay werden Sie ihn kennengelernt Haben …«
+Tuan Lengs durchgesehen … der Chinese hatte bereits
+fünf Jahre Zwangsarbeit in Bombay hinter sich. Und dort
+in Bombay werden Sie ihn kennengelernt Haben …«
 
 Tissander lachte schrill …
 
 »Eine Unverschämtheit!«
 
 Und doch mußte jeder merken, daß er um eine verlorene
-Sache kämpfte. Diebe Schweißperlen standen ihm auf der
+Sache kämpfte. Dicke Schweißperlen standen ihm auf der
 Stirn, und sein verächtliches Lächeln war nur ein verzerrtes
 Grinsen …
 
@@ -2938,19 +2938,19 @@ Graf Rapsoldi stand mit ablehnend kalter Miene da.
 »Sprechen Sie bitte weiter, Sennor Harst,« sagte er
 höflich …
 
-»Wo und wie dieser Schwindler und Mörder den Per-JonenweHscl
-vorgenommen hat, weiß ich noch: nicht, Exzellenz.
-Jedenfalls hat er hier eine Diamantenfundstelle un-rccgtmäßig
+»Wo und wie dieser Schwindler und Mörder den Personenwechsel
+vorgenommen hat, weiß ich noch nicht, Exzellenz.
+Jedenfalls hat er hier eine Diamantenfundstelle unrechtmäßig
 und heimlich abgebaut. Diese Fundstelle wurde
-einst von dem früh;Ofen Kolonialbeamten Boeter Farbe?!, der
-später Komma England übersiedelte und seinem einzigen Kinde
+einst von dem früheren Kolonialbeamten Boeter entdeckt, der
+später nach England übersiedelte und seinem einzigen Kinde
 ein Tagebuch hinterließ, in dem er in einer Geheimschrift
 wahrscheinlich sein ganzes abenteuerliches Leben geschildert
-ja! … „«
+hat …«
 
-sahst erwähnte mir all die Ereignisse »auf folgten, erwähnte
-erster Boeters Tod ur.5 unsere eile nach der Vulkan:
-Kreisel Taletta, seine Citsührung und die Vorgänge in der
+Harst erwähnte nun all die Ereignisse auf Sokotra, erwähnte
+Ethel Boeters Tod und unsere Reise nach der Vulkaninsel
+Taletta, seine Entführung und die Vorgänge in der
 Tempelruine …
 
 <@pagebreak/>
@@ -2961,27 +2961,27 @@ bin Ethel Boeters Erbe … Ich —«
 
 Abermals ein schrilles Lachen …
 
-»Ohren Sie auf!« rief der angebliche Baron. »Hören
+»Hören Sie auf!« rief der angebliche Baron. »Hören
 Sie auf, Herr Harst … Ich gebe das Spiel verloren …
-Ich bin Baron Tissanders Kammerdiener Armand Dresseurs,
+Ich bin Baron Tissanders Kammerdiener Armand Bretteuil,
 den er in Paris vor vier Jahren engagierte. Kurz
-darauf verstarb der Baron in Trouville’ Und ich hatte die
-Kühnheit, mich an seine Stelle zu Seen … Er trank eines
-natürlichen Todes … Die Papiere breite ich noch …«
+darauf verstarb der Baron in Trouville. Und ich hatte die
+Kühnheit, mich an seine Stelle zu setzen … Er starb eines
+natürlichen Todes … Die Papiere besitze ich noch …«
 
 Der Gouverneur schaute den Schwindler mit einem vernichtenden
-Bis an …
+Blick an …
 
 Dann läutete er …
 
-Und Armand Dresseurs wurde von zwei Soldaten abgeführt.
+Und Armand Bretteuil wurde von zwei Soldaten abgeführt.
 — Vier Wochen später endete er — am Galgen. —
 
 Graf Rapsoldi entschuldigte sich bei uns, suchte gutzumachen,
 was er infolge der Beeinflussung durch den Betrüger
 grob versehen hatte.
 
-»Eine Frage müssen Sie mir beantworten, Gegnern
+»Eine Frage müssen Sie mir beantworten, Sennor
 Harst,« bat er dann. »Wie sind Sie dahintergekommen, daß
 dieser Verbrecher hier lediglich den Baron Tissander spielte
 und daß die Schaukel im Park nichts als einen Kraftmotor
@@ -2989,33 +2989,33 @@ darstellt?«
 
 »Sehr einfach,« erklärte Harald liebenswürdig. »Die
 Freundschaft zwischen Tuan Leng und diesem »Baron«
-deutete schon darauf hin, daß der »Baron« ebenfalls Dinge
+deutete schon darauf hin, daß der »Baron« ebenfalls eine
 sehr bewegte Vergangenheit haben müsse. Dann sah ich
 den angeblichen Tissander in dieser Nacht hinter dem Chinesen
-hberstürmen — und dies in so jugendlichen Mr?, daß
-die sechzig Jahre dies Barons doch sehr zweifelhaft waren.
-Und die Schaukel, Exzellenz, — tiefe famose Schaukel war
-ja stets in Betrieb, wenn ich) im Parke war — steter!1 Zum
+herstürmen — und dies in so jugendlichen Art, daß
+die sechzig Jahre des Barons doch sehr zweifelhaft waren.
+Und die Schaukel, Exzellenz, — diese famose Schaukel war
+ja stets in Betrieb, wenn ich im Parke war — stets! Zum
 Vergnügen für seine Diener konnte der Baron sie doch kaum
 haben errichten lassen …« —
 
 <@pagebreak/>
-Der Gouverneur lud uns zu sich in seine harmlose Wohnung
+Der Gouverneur lud uns zu sich in seine luxuriöse Wohnung
 ein, wo wir auch drei Tage als seine Gäste weilten. —
 
 Das Boetersche Riesenvermögen und die Diamantenmine
-hat Harst damals dem internationalen Hilss8komitee
-zu Bekämypsung der Säuglingssterblichkeit zur Verfügung
-Gesicht.
+hat Harst damals dem internationalen Hilfskomitee
+zu Bekämpfung der Säuglingssterblichkeit zur Verfügung
+gestellt.
 
 Durch Graf Rapsoldi kamen wir dann zu einem neuen
 interessanten Fall, der mit rätselhaften Vorfällen in der
 Familiengeschichte der Grafen Rapsoldi eng zusammenhing.
-Das Erbbegräöhnis der Ravjoldi3s führte uns in eine andere
+Das Erbbegräbnis der Rapsoldis führte uns in eine andere
 Gegend des indischen Märchenlandes und brachte uns die
 Bekanntschaft mit einem der elegantesten und vielseitigsten
 Hochstapler, die jemals die Welt des Reichtums in geradezu
-genialer Weise gebrandschhahzt haben.
+genialer Weise gebrandschatzt haben.
 
 Nächster Band:
 
