@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">f54df03c-2dc9-11ec-a8bc-87ebf00f2247</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Baron Tissanders Schaukel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">137</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Baron Tissanders Schaukel
+
+Acht Tage kreuzten wir damals ziel- und zwecklos im Indischen Ozean …
+
+Damals …
+
+Und das war nach jener Nacht, als Ethel Boeter, die Malerin, sich im Castello Santa Virgo vergiftet hatte … —
+
+Schwere Zeit für mich als Freund Harald Harsts. Um so schwerer, als eigentlich kein Anlaß vorlag, ihn zu trösten: höchstens der, ihn abzulenken. Denn — er hatte diese klassische Schönheit, dieses Weib mit der krankhaften verbrecherischen Phantasie, ja kaum gekannt …
+
+Sollte ihm ihr Tod wirklich so nahe gegangen sein, sollte das große Rätsel Menschenherz ihm einen so argen Streich gespielt haben?!
+
+Sträflinge Nr. 101 und 102
+
+Es war nachher in allen Zeitungen zu lesen …
+
+Nachher …
+
+Als uns das nichts mehr nützte, als unsere Neider lediglich hohngrinsen konnten …
+
+Ja — da stand’s zu lesen, daß durch ein bedauerliches Versehen des Gerichte in Goa Harst und Schraut zu drei Jahren Zwangsarbeit wegen schweren Raubes verurteilt worden seien … —
+
+Bedauerliches Versehen?! — Nein, durch eine unglaubliche niederträchtige Intrige, durch ein satanisch-schlaues Possenspiel des Barons Tissander …! —
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (137) Baron Tissanders Schaukel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1925</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
