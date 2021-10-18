@@ -6,8 +6,8 @@
 <h3>Graf Antonio Rapsoldi und der Likör.</h3>
 
 Graf Rapsoldi, der Gouverneur der portugiesisch-indischen
-Kolonie Goa, führte uns nach dem Abendessen in das Rauch
-Zimmer und schickte den aufwartenden Diener hinaus.
+Kolonie Goa, führte uns nach dem Abendessen in das Rauchzimmer
+und schickte den aufwartenden Diener hinaus.
 
 Rapsoldi war ein älterer vornehm aussehender Herr,
 dessen kleine schlanke Gestalt sich die straffe Haltung des
@@ -33,7 +33,7 @@ ganz zu verhehlen vermochte.
 Er setzte sich nun gleichfalls, füllte die geschliffenen Likörkelche
 und hob sein Glas gegen uns.
 
-»Ihre Gesundheit und langes Leben, Sennore31» sagte
+»Ihre Gesundheit und langes Leben, Sennores!« sagte
 er mit leicht erzwungener Heiterkeit.
 
 Wir tranken.
@@ -43,8 +43,8 @@ Wir tranken.
 und nahm die betreffende Flasche, um das Firmenschild zu
 prüfen
 
-Auch ich schaute hin. Der Likör Harst einen ganz eigentümlich
-aromatischen Gessc&mack.
+Auch ich schaute hin. Der Likör hatte einen ganz eigentümlich
+aromatischen Geschmack.
 
 Da sagte Rapsoldi schon:
 
@@ -53,7 +53,7 @@ Erbbegräbnis. — Nicht wahr?«
 
 »Allerdings,« nickte Harald.
 
-»Der Likör ist auch ein — »Familiengeheimnis,« erklärte
+»Der Likör ist auch ein — Familiengeheimnis,« erklärte
 der Graf merkwürdig ernst. »Ich beziehe ihn von dem Verwalter
 unseres Schlosses am Fuße des Dodabetta, von dem
 alten Guiseppe …«
@@ -67,57 +67,57 @@ meinte Harst. »Und die Aufschrift ist eigenartig genug:
 Weshalb dieses Datum, Exzellenz?«
 
 Rapsoldi nahm eine Zigarre, schnitt umständlich die
-alle ab …
+Spitze ab …
 
-»Es in der Todestag meines Vaters, Sennor Harst!«
+»Es ist der Todestag meines Vaters, Sennor Harst!«
 
-»Tod! Und — wie hängt dieser Tag mitten Likör
+»So?! Und — wie hängt dieser Tag mit dem Likör
 zusammen?«
 
 »Sehr eng: mein Vater verschwand am 15. Juni spurlos,
 als er aus den Weinkellern der alten indischen Burg
-eine Flasche dieses Likörs ha:te holen wollen …«
+eine Flasche dieses Likörs hatte holen wollen …«
 
-Unwillkürlich blickten Harald und ich den Grafen flackert
-an. Seine Sätze waren denn doch zu Wwiderspruchsvoll
+Unwillkürlich blickten Harald und ich den Grafen fragend
+an. Seine Sätze waren denn doch zu widerspruchsvoll
 gewesen.
 
 Er fuhr bereits fort:
 
 »Ich hatte ohnedies die Absicht, Ihnen beiden, Sennores
 — gerade Ihnen beiden diesen Teil unserer Familiengeschichte
-ja zu erzählen. Ich glaube, diese Vorfälle kamen
-dürften Sie interessieren, zumal seinerzeit die berühmtesteh
+zu erzählen. Ich glaube, diese Vorfälle damals
+dürften Sie interessieren, zumal seinerzeit die berühmtesten
 Londoner Detektive, die damals für unerreicht galten, sich mit
-dem »Fall des Grafen Antonio Rapsoldi«, und das wär
+dem »Fall des Grafen Antonio Rapsoldi«, und das war
 mein Vater, beschäftigt haben.«
 
 <@pagebreak/>
-Er rückte seinen Sessel näher an daß fischten heran,
-rauchte ein nacht Züge und begann:
+Er rückte seinen Sessel näher an das Tischchen heran,
+rauchte ein paar Züge und begann:
 
-»Ihnen ist bekannt, Sennores«, daß Portugal einst hier
-in Indien weite Kolonialgehiete besaß. Im Jahre 1712
-erwarb einer meiner Vorväter, damoal? Generalgouverneur
-von »Indien, von der Rani von Dodabetta die alte Fürsten-burg
-aus den Westabhängen dieses höchsten Berges Süd-vorderindien8.
-Der Herr, das Fürstentum und die Burg
-führten denselben man:en: Dodabetta. — Das uralte Schloß
-und der Herz heißen noch heute so. Das Fürstentum ist
+»Ihnen ist bekannt, Sennores, daß Portugal einst hier
+in Indien weite Kolonialgebiete besaß. Im Jahre 1712
+erwarb einer meiner Vorväter, damals Generalgouverneur
+von Indien, von der Rani von Dodabetta die alte Fürstenburg
+auf den Westabhängen dieses höchsten Berges Südvorderindiens.
+Der Berg, das Fürstentum und die Burg
+führten denselben Namen: Dodabetta. — Das uralte Schloß
+und der Berg heißen noch heute so. Das Fürstentum ist
 von den Engländern eingezogen worden. Im Jahre 1832
-mußte die ich!erregt von Dodabetta nach einem vergeblichen
-blutigen Aufgetaut gegen die Engländer flüchten. Sie ist verschollen
+mußte die letzte Rani von Dodabetta nach einem vergeblichen
+blutigen Aufstand gegen die Engländer flüchten. Sie ist verschollen
 — samt ihren Kindern …«
 
 Harald beugte sich vor …
 
 »Verzeihung, Exzellenz, — ich habe einmal in einem sehr
-umfangreichen Wort Süden Indien von dem tragischen Gesicht
-dieser letzten Rani nein Dodabetta einiges gelesen.
-Sie hieß Palazzos, und sie war mit einem Europäer vermählt,
+umfangreichen Werk über Indien von dem tragischen Geschick
+dieser letzten Rani von Dodabetta einiges gelesen.
+Sie hieß Balatavi, und sie war mit einem Europäer vermählt,
 einem — Portugiesen …«
 
-»Ganz recht, n:ist einem Lant8ämarin von mir, der schon
+»Ganz recht, mit einem Landsmann von mir, der schon
 vor der Flucht seiner Gattin starb. Im übrigen sind diese
 Einzelheiten für meine Geschichte nicht von Belang. — Jedenfalls:
 seit 1712 ist die Dodabetta-Burg, die kaum den
@@ -128,16 +128,16 @@ gehören. — Ich will mich nun kürzer fassen, weil wir uns
 sonst zu sehr in nebensächlichen Dingen verlieren …«
 
 Er stand auf und holte aus einem Schranke ein kleines
-Buch. blätterte darin und erklärte:
+Buch, blätterte darin und erklärte:
 
-»34H habe hier die wichtigsten Vorgänge und Daten zusammengestellt.
+»Ich habe hier die wichtigsten Vorgänge und Daten zusammengestellt.
 Ich will Ihnen vorlesen, was ich dergestalt
 Übersichtlich geordnet habe. — Mein Vater, der nach meiner
 Geburt Witwer wurde — ich bin das einzige Kind —, wollte
-im Jahre 1890 sich einmal persönlich um seine indischen Bemerkungen
+im Jahre 1890 sich einmal persönlich um seine indischen Besitzungen
 <@pagebreak/>
 kümmern und reiste nach Dodabetta. Ich war damals
-27 Jahre alt und Offizier in Lissabon. Dich Verwaltung
+27 Jahre alt und Offizier in Lissabon. Die Verwaltung
 Dodabettas hatte zu jener Zeit der alte Guiseppe Vandoni
 unter sich, der Vater des jetzigen, nun ebenfalls schon
 »alten« Guiseppe. Dieser erste Guiseppe war ein harmloser
@@ -145,35 +145,35 @@ Giftmischer, das heißt er braute Liköre. So hatte er denn
 auch diesen Prachtlikör hier »erfunden«, hielt das Rezept
 aber streng geheim und vererbte es nur auf seinen Sohn,
 den jetzigen Verwalter. — Als mein Vater Antonio etwa
-vierzehn Tage in der Burg weilte und als er eines Nach!(s,
+vierzehn Tage in der Burg weilte und als er eines Nachts,
 erschöpft von der Durchsicht der Rechnungen und sonstigen
 Papiere der ausgedehnten Ländereien und der beiden Zinngruben,
 Durst nach einem »Erbbegräbnis« verspürte, da —«
 
-»Eine Zwischenfrage, segelte:H3 … Wer hatte dem
-Likör denn diesen eigentümlichen innen gegeben?«
+»Eine Zwischenfrage, Exzellenz … Wer hatte dem
+Likör denn diesen eigentümlichen Namen gegeben?«
 
 »Der erste Guiseppe, der Erfinder … Und Zwar deshalb,
 weil er dadurch zum Ausdruck bringen wollte, daß das
 Rezept gerade dieses Likörs in seinem Hirn für alle Zeiten
-begraben sein sollte. — Es war ein schnmtrriger Kauz, dieser
+begraben sein sollte. — Es war ein schnurriger Kauz, dieser
 Giftmischer … Wenn er nachher dennoch seinem Sohne
 das Rezept hinterließ, so mag er lediglich aus Anhänglichkeit
 gegen seinen Herrn — und das war ich inzwischen geworden
-— so gehandelt haben. — im meist Vater wollte
+— so gehandelt haben. — Also mein Vater wollte
 zur Auffrischung einen Likör trinken, fand die Flasche aber
 leer mit läutete nach seinem Kammerdiener, der ebenfalls
 Portugiese war. Der Diener erschien, und mein Vater befahl
 ihm, in den Weinkeller hinabzugehen. Seltsamerweise
 machte der Diener Ausflüchte. Nachher hat er zugegeben,
-daß er von den anderen eingeborenen Dienern allerlei Spuk-Keschichten
-über die Kelleracwölbe gehört und sich — gefürchtet
+daß er von den anderen eingeborenen Dienern allerlei Spukgeschichten
+über die Kellergewölbe gehört und sich — gefürchtet
 habe. Mein Vater merkte, daß der Diener Angst
 hatte, ließ sich eine Laterne bringen und stieg selbst die
-Sehnerven Treppen hinab …«
+steinernen Treppen hinab …«
 
 Harald war jetzt weit lebhafter geworden. Seine
-Augen ruhten gespannt auf des Grasen vornehmem Gesicht.
+Augen ruhten gespannt auf des Grafen vornehmem Gesicht.
 
 <@pagebreak/>
 »Und von diesem Gang in den Weinkeller kehrte Ihr
@@ -184,35 +184,35 @@ Der Gouverneur nickte.
 »Niemand hat ihn seitdem gesehen … Der Diener
 war der letzte, der ihn sah. Auch er ist längst tot. Und
 von jenem Tage an, es war der 15. Juni 1890, rechne ich
-meinen Vater nicht mehr zu den Lodernden …«
+meinen Vater nicht mehr zu den Lebenden …«
 
-»der Diener schlug also Lärm, als sein Herr nicht wieder-fehrte«
+»der Diener schlug also Lärm, als sein Herr nicht wiederkehrte?«
 
-»Zu. Er Tasche den alten Guiseppe. Und der wieder
-weckte den Sekretär meines Vaters. Sie gingen in die Gewölk?
-Kinos und fanden nichts — nichts! — Am nächsten
-Tage deopeschierien sie mir nach Lissabon den Sachverhalt,
-hatten auch schon die Polizei in der nächsten Eroberers Stadt,
+»Ja. Er weckte den alten Guiseppe. Und der wieder
+weckte den Sekretär meines Vaters. Sie gingen in die Gewölbe
+hinab und fanden nichts — nichts! — Am nächsten
+Tage depeschierten sie mir nach Lissabon den Sachverhalt,
+hatten auch schon die Polizei in der nächsten größeren Stadt,
 in Bangalore, benachrichtigt. Auf meine Veranlassung begleiteten
 mich zwei Londoner Detektive nach Indien. Auch
-sich hatten keinen Erfolg. Nach einem halben Jahr reiste ich
+sie hatten keinen Erfolg. Nach einem halben Jahr reiste ich
 wieder nach Lissabon und nahm meinen Dienst als Offizier
 wieder auf. Zehn Jahre verstrichen. Ich war inzwischen
 rasch avanciert und Oberst geworden. Da erhielt ich aus
 Indien einen anonymen Brief des Inhalts, daß mein Vater
-lebe und unweit der. Burg Dodabetta in einem verlassenen
+lebe und unweit der Burg Dodabetta in einem verlassenen
 Bergwerk gefangengehalten würde. — Weiter stand nichts
-in diesem merkwürdigen Schreiben. Sicherste ihm zunächst
-keinerlei Beaktung. Dann aber träumte ich fast jede
+in diesem merkwürdigen Schreiben. Ich schenkte ihm zunächst
+keinerlei Beachtung. Dann aber träumte ich fast jede
 Nacht von meinem Vater. Meine Nerven litten darunter.
 Eine beständige innere Unruhe quälte mich. Ich nahm
 meinen Abschied und bat um Anstellung im Kolonialdienst.
 So schickte mich die Regierung nach Kolombo auf Ceylon als
 Generalkonsul. Bevor ich dort meinen Dienst antrat, fuhr
-ich nach Dodabetta.- Der alte Guiseppe Vandoni war seit
+ich nach Dodabetta. Der alte Guiseppe Vandoni war seit
 Jahren verstorben. Sein Sohn verwaltete meine Besitzungen.
 Ich zeigte ihm den anonymen Brief, und wir beide
-haben in in alter Stille das verlassene Bergwerk durchsucht
+haben in in aller Stille das verlassene Bergwerk durchsucht
 und …«
 
 »… natürlich nichts gefunden,« ergänzte Harald,
@@ -222,37 +222,37 @@ und …«
 mich nach Kolombo, und von dort kam ich vor drei
 Jahren hierher nach Goa als Gouverneur.«
 
-»Sie Wochen das Verschwinden Ihres Vaters gern aufgeklärt
+»Sie möchten das Verschwinden Ihres Vaters gern aufgeklärt
 haben, Exzellenz …«
 
 »Sehr gern. Und wenn ich Sie beide bitten dürfte, mich
 übermorgen nach Dodabetta zu begleiten, so würden Sie
 mich sehr zu Dank verpflichten. Ich werde eben das Gefühl
-nicht los, daß mein Vater »einem heimtückischen Verbrechen
+nicht los, daß mein Vater einem heimtückischen Verbrechen
 zum Opfer gefallen ist …«
 
-»Wie urteilten denn »’bainals die Londoner Detektive über
+»Wie urteilten denn damals die Londoner Detektive über
 den Fall?«
 
-»Sie — Urteilten gar nicht. Die Sache war eben so
-vollkommen dunkel, daß eine Vermutung nur leere Gerede
+»Sie — urteilten gar nicht. Die Sache war eben so
+vollkommen dunkel, daß eine Vermutung nur leeres Gerede
 gewesen wäre …«
 
-»und weshalb fügt Guiseppe jetzt auf diesen Flaschen-etiketten
-noc&ch das Datum jener Unalückänacht hinzu?«
+»und weshalb fügt Guiseppe jetzt auf diesen Flaschenetiketten
+noch das Datum jener Unglücksnacht hinzu?«
 
 »auch aus Anhänglichkeit an uns Rapsoldis. Der Likör
-hat meinen Vater gleichsam in den Tod Geschichte?!. — Ich
-wollte Guiseppe dies einmal verbieten. Wir kam dieses
-Datum auf einer Likörflasche pictätlos vor. Guiseppe blieb
-dabei: Zu dem »Erbbvegrävni3» gehöre auch das Unglücs-datum!«
+hat meinen Vater gleichsam in den Tod geschickt. — Ich
+wollte Guiseppe dies einmal verbieten. Mir kam dieses
+Datum auf einer Likörflasche pietätlos vor. Guiseppe blieb
+dabei: Zu dem »Erbbegräbnis« gehöre auch das Unglücksdatum!«
 
 Der Gouverneur klappte jetzt das Büchlein zu …
 
 »Übrigens, Sennor Harst: wir Rapsoldis haben in Dodabetta
 tatsächlich ein Erbbegräbnis, sogar ein sehr eigenartiges
 … Dort ruhen drei meiner Vorfahren in mächtigen
-eindrangen …«
+Zinksärgen …«
 
 Harald fragte hastig:
 
@@ -260,9 +260,9 @@ Harald fragte hastig:
 
 »Auf der Insel des Sees, der unweit des Schlosses liegt.
 Nur ein Inselchen, ein Felswürfel, der aus dem Wasser
-ragt. Der dessen ist hohl, war ursprünglich ein dem Gotte
+ragt. Der Felsen ist hohl, war ursprünglich ein dem Gotte
 Indra geweihter Tempel.« Mein Ahn, der die Burg kaufte,
-gestimmte ihn zum Erbbegräbnis und liegt dort ebenfalls
+bestimmte ihn zum Erbbegräbnis und liegt dort ebenfalls
 begraben.«
 
 <@pagebreak/>
@@ -271,21 +271,21 @@ Eine längere Pause folgte …
 Dann erhob Harald sich …
 
 »Exzellenz, wir begleiten Sie … Glauben Sie, daß
-die »Nachricht von den Ereignissen hier in Goa bereits bis
+die Nachricht von den Ereignissen hier in Goa bereits bis
 Dodabetta gelangt sein kann?«
 
 »Sie meinen, daß Sie beide hier in Goa weilen und
 leider, leider tagelang als Sträflinge …«
 
 »Oh — das ist doch erledigt, Exzellenz … Die Schaukel
-»des Barons Tissander ist jetzt außer Betrieb …« (Mal.
+des Barons Tissander ist jetzt außer Betrieb …« (Vgl.
 den vorigen Band »Die Schaukel des Barons Tissander«.)
 
 Der Gouverneur streckte Harald die Hand hin.
 
-»Ich weiß, Sie haben mir verzichten. — Nein, bis eine
+»Ich weiß, Sie haben mir verziehen. — Nein, bis eine
 Neuigkeit nach Dodabetta gelangt, vergehen Wochen. Die
-Melancholie Burg liegt ja inmitten einer Bergwildnis, deren meilenweite
+alte Burg liegt ja inmitten einer Bergwildnis, deren meilenweite
 Dickichte noch manchen Tiger und eine Unmenge Giftschlangen
 beherbergen. — Wenn Sie also nicht als Harst und
 Schraut mit mir nach Dodabetta reisen wollen, steht dem
@@ -302,10 +302,10 @@ Es geschah, wie Harst es wünschte.
 <h2>2. Kapitel.</h2>
 <h3>Die anderen Gäste.</h3>
 
-Ein Küstendampser brachte uns nach der weit südlicher
-gelegenen Hafenstadt Falltür. Vor dort fuhren wir mit der
-Eisenbahn über Vorplatz und Potamur nach Utakamand,
-einer kleinen Bergstadt, wo wir zwei Pferde käuflich Engländern.
+Ein Küstendampfer brachte uns nach der weit südlicher
+gelegenen Hafenstadt Kalikut. Vor dort fuhren wir mit der
+Eisenbahn über Palghat und Potamur nach Utakamand,
+einer kleinen Bergstadt, wo wir zwei Pferde käuflich erstanden.
 Der Ritt durch die einsamen Schluchten und Täler,
 auf recht beschwerlichen Wegen war für uns immerhin eine
 <@pagebreak/>
@@ -315,7 +315,7 @@ Verschwinden des Grafen Antonio äußerte er sich nicht weiter.
 
 Die indische Regierung hatte es auch hier in dieser Wildnis
 wie überall den Reisenden recht bequem gemacht. Es
-gab viele kleine Rasthäuser, die unter öffentlichen: Verwaltung
+gab viele kleine Rasthäuser, die unter öffentlicher Verwaltung
 stehen und die selbst dem Europäer genügen.
 
 Bis Dodabetta rechnete man zwei Tagereisen. Wir
@@ -332,25 +332,25 @@ Wir hatten unsere kleinen struppigen Bergponys angehalten
 und genossen schweigend diesen in seiner Art einzigen
 Anblick.
 
-Die Burg war aus rötlichen Sandstein errichtet, hatte
+Die Burg war aus rötlichem Sandstein errichtet, hatte
 zwei plumpe Ecktürme und in der Mitte eine hohe Kuppel.
 Links davon erkannte man einige neuere Gebäude, und
 rechts, durch eine schmale Waldkulisse getrennt, den langgestreckten
 See, der wie flüssiges Silber schimmerte …
 
-Der Hintergrund dieses Gemäldes wurde durch den Dodabetta-
-Gipfel gebildet, durch dunkle Wälder, phantastische
+Der Hintergrund dieses Gemäldes wurde durch den Dodabetta-Gipfel
+gebildet, durch dunkle Wälder, phantastische
 Felspartien und einige schlanke Bergkegel, um die wie
-dunkle Putikte indische Riesenadler ihre Kreise zogen.
+dunkle Punkte indische Riesenadler ihre Kreise zogen.
 
-Dich Stelzte lief von hier fast gradlinig auf die Burg zu.
-einen Park oder dergleiczen gab es nicht. Nur riesige
-Zypressen und schwarzgrüne Waren-Büsche umrahmten den
+Die Straße lief von hier fast gradlinig auf die Burg zu.
+einen Park oder dergleichen gab es nicht. Nur riesige
+Zypressen und schwarzgrüne Morca-Büsche umrahmten den
 mächtigen Bau.
 
 noch weiter nach links, wo dieses Tal in ein Quertal
-überging, sahen wir weiße niedere Baracken und zwei Holz
-4ürme: es mußten die beiden Zinnbergwerke sein.
+überging, sahen wir weiße niedere Baracken und zwei Holztürme:
+es mußten die beiden Zinnbergwerke sein.
 
 Während wir hier noch hielten und schauten, kamen von
 <@pagebreak/>
@@ -358,34 +358,34 @@ den weißen Baracken fünf Lastautos daher, die das gewonnene
 Zinn nach der nächsten Bahnstation schafften.
 
 Die Fahrer waren Inder. Sie musterten uns neugierig,
-und ohne Gruß ratterten sich Vorüber.
+und ohne Gruß ratterten sie Vorüber.
 
-»Weiße scheinen der nicht sehr beliebt zu sein,« meinte
+»Weiße scheinen hier nicht sehr beliebt zu sein,« meinte
 Harald. »Die Kerle sahen finster und fanatisch aus. Freilich:
 wir sind hier auch in einer Gegend, wo die Hindureligion
-sich in ihrer ursprünolichsten Form noch bewahrt
-bat.«
+sich in ihrer ursprünglichsten Form noch bewahrt
+hat.«
 
 Wir ritten weiter.
 
-Diese sonnige Landschaft Gesicht mir Ich pfiff vergnügt
+Diese sonnige Landschaft gefiel mir. Ich pfiff vergnügt
 vor mich hin …
 
 Harald räusperte sich …
 
-»Vögel, die mittags fingen, frißt abends die hab, mein
+»Vögel, die mittags singen, frißt abends die Katz, mein
 Alter!«
 
 »Oho — wer soll uns hier fressen ?» lachte ich.
 
-»Bitte — hörtest Du M: ab in der vergangenen Nach!
-vom schien Rösthaus im Eiskanzel die Tiger heulen?! Lag
+»Bitte — hörtest Du nicht in der vergangenen Nacht
+vom letzten Rasthaus im Dschungel die Tiger heulen?! Lag
 nicht vor einer Stunde mitten im Wege eine riesige Kobra,
-deren Giftzähne rasche Arbeit vertiertes hatten« Wir sind
-in Indien und nicht in Deutschland. Hier kannst zu im
-Salonwagen eines Zuges Hirn und zehn Minuten drauf
-von einem Tiger zerrissen werden. JI denke, Du kennst
-Indien...!« 
+deren Giftzähne rasche Arbeit verrichtet hätten?! Wir sind
+in Indien und nicht in Deutschland. Hier kannst Du im
+Salonwagen eines Zuges sitzen und zehn Minuten drauf
+von einem Tiger zerrissen werden. Ich denke, Du kennst
+Indien …!« 
 
 Ich pfiff nicht mehr …
 
@@ -395,38 +395,38 @@ Und fragte: »Mit einem Wort, Du witterst Gefahr?«
 
 »Und weshalb?! Wer weiß hier, wer wir sind?!«
 
-Er schwieg … Er schaute scharf wach rechts hinüber.
+Er schwieg … Er schaute scharf nach rechts hinüber.
 
-Und da erkannte auch ist drüben auf der winzigen
-Felseninsel. mitten im See ein helles Gewand — — ein
+Und da erkannte auch ich drüben auf der winzigen
+Felseninsel mitten im See ein helles Gewand — — ein
 Weib — eine Frau in europäischer Tracht …
 
-Es war zu weit, um Einzelheiten zu »unterscheiden.
+Es war zu weit, um Einzelheiten zu unterscheiden.
 Jedenfalls stand die Frau neben dem niederen Gemäuer
 des ehemaligen Indra-Tempels und jetzigen Erbbegräbnisses.
 
 <@pagebreak/>
-Ich wollte mein Fernglas gute dem Ledersnutteral nehmen.
+Ich wollte mein Fernglas aus dem Lederfutteral nehmen.
 »Laß es stecken,« meinte Harald.
 
 »Weshalb?«
 
 »Weil — wir beobachtet werden — vom linken Turme
-aus … — Bitte, große nicht hin … Da ist ein Mann
+aus … — Bitte, glotze nicht hin … Da ist ein Mann
 mit einem Fernrohr — ja, Fernrohr …«
 
-Und er ließ seinen Pony im Trab die lebte Strecke bis
+Und er ließ seinen Pony im Trab die letzte Strecke bis
 zur steinernen Treppe der Burg zurücklegen.
 
 Nun hatten wir diesen massigen Bau ganz dicht vor uns.
 
-Nun öffnete sich auch schon die fupferbeschlagene Flügeltür,
-und ein kleiner säbclbeiniaer Herr in weißem Leinenanzug
+Nun öffnete sich auch schon die kupferbeschlagene Flügeltür,
+und ein kleiner säbelbeiniger Herr in weißem Leinenanzug
 trat heraus, gefolgt von zwei indischen Dienern.
 
-Dieses nannten mit der ungeheuren Hakennase und
+Dieses Männchen mit der ungeheuren Hakennase und
 dem weißen, trübselig um die Mundwinkel herabhängenden
-Schnurrbart wirkte in der Tat so urkomisch, daß ich mir daß
+Schnurrbart wirkte in der Tat so urkomisch, daß ich mir das
 Lachen kaum verkneifen konnte, als er jetzt seinen Tropenhelm
 grüßend abnahm und so einen spitz zulaufenden absolut
 kahlen Schädel enthüllte …
@@ -439,7 +439,7 @@ Organ eines ganz jungen Ferkels erinnerte.
 
 Harald reichte ihm das Schreiben des Grafen.
 
-»Wir sind Bergingenicurc und sollen die Umgegend nach
+»Wir sind Bergingenieure und sollen die Umgegend nach
 neuen …«
 
 Der Kleine quäkte dazwischen:
@@ -450,7 +450,7 @@ Haus bemühen … Ich werde es an nichts fehlen lassen,
 Sennores …« —
 
 Und zehn Minuten drauf hatte er uns bereits zwei
-Räume im ersten Stock ’des Mittelbaus angewiesen.
+Räume im ersten Stock des Mittelbaus angewiesen.
 
 Räume — nicht Zimmer …
 
@@ -460,29 +460,29 @@ Nur Säle, breite Galerien, breite Treppen, breite Korridore
 …
 
 <@pagebreak/>
-Alles war hier unglaublich weitläufig In unserem
-Wrönsalon hätte eine Einfamilienvilla equcm Platz gehabt.
+Alles war hier unglaublich weitläufig. In unserem
+Wohnsalon hätte eine Einfamilienvilla bequem Platz gehabt.
 
-Wir hatten an Genährt nur das Allernotwendigste mitgebracht.
+Wir hatten an Gepäck nur das Allernotwendigste mitgebracht.
 Unsere Koffer wollte Graf Rapsoldi mitnehmen.
 nachdem wir uns gründlich gesäubert hatten, erschien auch
 schon ein Diener mit dem Frühstück. Die Hauptmahlzeit, so
-heute uns der alte Guiseppe mitgeteilt, wurde erst abends
-bald sieben eingenommen, und dann Schurken wir auch die
-beiden anderen Europäers, denn amerikanischen Maler Thomas
+hatte uns der alte Guiseppe mitgeteilt, wurde erst abends
+halb sieben eingenommen, und dann würden wir auch die
+beiden anderen Burggäste, den amerikanischen Maler Thomas
 Buccley nebst Gattin kennenlernen.
 
 Beim Frühstück bedienten wir uns lediglich der deutschen
-Stricke, um nicht ersann betonte»1 zu werden. Harald meinte,
+Sprache, um nicht etwa belauscht zu werden. Harald meinte,
 Guiseppe sei ein Clown — nichts weiter …
 
 Und ich meinte, Frau Buccley müsse die Dame gewesen
-sein, die wir auf der Mausolceumsinsel bemerkt hatten.
+sein, die wir auf der Mausoleumsinsel bemerkt hatten.
 
-Worauf Harald wieder,«erklärte, er sei auf diese Amerikaner
-sehr neuagieria die nach Guiseppps Angaben seit einer
-Woche hier Landschafisskizzet für ein Reisewerk über Indien
-unterrichten.
+Worauf Harald wieder erklärte, er sei auf diese Amerikaner
+sehr neugierig die nach Guiseppes Angaben seit einer
+Woche hier Landschaftsskizzen für ein Reisewerk über Indien
+anfertigten.
 
 Das Frühstück war erstklassig. Man merkte nicht, daß
 man sich hier in der Wildnis zwischen Tigern und Brillenschlangen
@@ -492,14 +492,14 @@ Dann erschien Sennor Guiseppe und erkundigte sich, wie
 es uns geschmeckt habe …
 
 Der kleine Kerl war wirklich ein Clown. Sein Gesicht
-zeigte eine Lebendigkeit des Au&ädruc»s, die fast verblüffte.
+zeigte eine Lebendigkeit des Ausdrucks, die fast verblüffte.
 
 Er strahlte, als Harald alles lobte.
 
 »Nur — haben Sie nicht andere Räume für uns, Sennor
 Vandoni? — Diese Reitställe sind höchst ungemütlich …«
 
-diese verzog sein Gesicht zu jämmerlichster Troft-ojigfeit
+Guiseppe verzog sein Gesicht zu jämmerlichster Trostlosigkeit
 …
 
 »Bedaure … Bedaure unendlich, Sennores. Die
@@ -514,15 +514,15 @@ rauchte sie an …
 
 »Ich denke, wir gehen ins Freie, mein Alter!«
 
-Wir gingen. Und kamen durch endlose Flure — Über
-wundervolle alte Teppiche — kamen in den linken Beißender
+Wir gingen. Und kamen durch endlose Flure — über
+wundervolle alte Teppiche — kamen in den linken Seitenflügel,
 wollten uns die Burg doch einmal erst flüchtig ansehen
 …
 
 Keiner Menschenseele begegneten wir …
 
-Hörten mit einem Male Stimmen, sähen, daß hier eine
-uralte Tür aus getriebenem Klingel in den Turm führte.
+Hörten mit einem Male Stimmen, sahen, daß hier eine
+uralte Tür aus getriebenem Kupfer in den Turm führte.
 
 Die Tür war nur angelehnt …
 
@@ -532,12 +532,12 @@ Und im Turme erklangen die Stimmen … Eine helle
 Englische Worte … Mit jenem Akzent, der den Amerikaner
 verrät …
 
-Also das Ehepaar Eidechsen …
+Also das Ehepaar Buccley …
 
 Wir standen sekundenlang auf demselben Fleck … Wir
 hatten nicht lauschen wollen … Und taten es doch.
 
-Biß Harald mich) rasch mit sich zog …
+Bis Harald mich rasch mit sich zog …
 
 Flüsterte:
 
@@ -553,71 +553,72 @@ Und die helle Stimme hatte erklärt:
 
 »Vielleicht täuschest Du Dich, Tom …«
 
-»ausgeschlossen! Es sind die werden Berühmtheiten.
+»ausgeschlossen! Es sind die beiden Berühmtheiten.
 Und wenn sie hier als Ingenieure erscheinen, dann haben
 Sie auch etwas vor …«
 
 Und da hatte Harald mich schnell mit sich genommen.
-wi »nun waren wir unten in der Vorhalle … Er flüsterte
+
+Nun waren wir unten in der Vorhalle … Er flüsterte
 wieder:
 
 »Pech — — übles Pech!! Ein Maler hat stets ein gutes
 Gedächtnis für Gesichter … Und dieser Thomas Buccley
 <@pagebreak/>
-war’s, der sich bei unserer Ankunft auf dem Turme mit dem-Fcrnrohr
-befand!«
+war’s, der sich bei unserer Ankunft auf dem Turme mit dem
+Fernrohr befand!«
 
-Harsts mertwüvrdiger Ton machte mich stutzig …
+Harsts merkwürdiger Ton machte mich stutzig …
 
 Und er legte mir da die Hand schwer auf die Schulter …
 
-»Lieber Alter, dieser Buccley hat unmöglich nach) uns
-mtögeschaut … Ich behaupte, er hat dort oben — Posten
-gellenden, während seine Frau auf der Insel irgend etwas.
+»Lieber Alter, dieser Buccley hat unmöglich nach uns
+ausgeschaut … Ich behaupte, er hat dort oben — Posten
+gestanden, während seine Frau auf der Insel irgend etwas
 Verbotenes trieb …«
 
-»Dich willst Du den Verdacht begründen, Harald?!«
+»Wie willst Du den Verdacht begründen, Harald?!«
 
-Durch die einfach:Blutlache, daß die Frau aus der
-Insel von dem Manne auf dem Turm. ein Zeichen erhielt.«
+»Durch die einfache Tatsache, daß die Frau auf der
+Insel von dem Manne auf dem Turm ein Zeichen erhielt.«
 
 »und — welch ein Zeichen?!«
 
-»Er hob das Fernrohr l;Loch empor … Und dieses
-lange ausgezogene Weisingrohr muß in der kann« wie ein
-greller Strich gebüßt haben … Die Sonne stand gerade
+»Er hob das Fernrohr hoch empor … Und dieses
+lange ausgezogene Messingrohr muß in der Sonne wie ein
+greller Strich geblitzt haben … Die Sonne stand gerade
 so, daß …«
 
 Er schwieg …
 
-Neben uns war — Frau Buccley aufgetanä)t …
+Neben uns war — Frau Buccley aufgetaucht …
 lächelte uns liebenswürdig an … rief:
 
-»Ab — die neuen Gäste …!«
+»Ah — die neuen Gäste …!«
 
-Ein reizende? Spaniern!
+Ein reizendes Frauchen!
 
-So machten wir hier in der Vorhalle Grita Barriere
+So machten wir hier in der Vorhalle Grita Buccleys
 Bekanntschaft
 
 <h2>3. Kapitel.</h2>
 
 <h3>Der Weinkeller,</h3>
 
-Auch Thomas Buccley fand sich ein. Ein Mann mit:
-sehr scharf markierten Zügen. und einer ungeheuren Po-madigfeit.
+Auch Thomas Buccley fand sich ein. Ein Mann mit
+sehr scharf markierten Zügen und einer ungeheuren Pomadigkeit.
 
 Als wir nun dem Ehepaar gegenüber dieselben Namen
-nannten, die wir Guiseppe als die unsrigen angegeben.
-ha:ten und die auch in dem Schreiben des Grafen standen,
-da lächelte der Maler ein wenig und sagte mit gedämpfter:
+nannten, die wir Guiseppe als die unsrigen angegeben
+hatten und die auch in dem Schreiben des Grafen standen,
+da lächelte der Maler ein wenig und sagte mit gedämpfter
 Stimme:
 
 <@pagebreak/>
-»Verzeihen Sie, Fürsten eignet: Ihr Gesicht ist doch zu
-»charakteristisch, als daß man es vergessen könnte. Sie sind
+»Verzeihen Sie, Mister Harst: Ihr Gesicht ist doch zu
+charakteristisch, als daß man es vergessen könnte. Sie sind
 der deutsche Detektiv Harald Harst … Und dies hier ist
-Ihre Freund Max Schraut. Lady uns haben Sie wirklich
+Ihre Freund Max Schraut. Von uns haben Sie wirklich
 keinen Verrat zu fürchten.«
 
 was half es?! Wir mußten unser Inkognito lüften.
@@ -626,10 +627,10 @@ Leugnen hätte hier keinen Zweck gehabt.
 Die Buccleys versprachen, unser Geheimnis zu wahren.
 
 Wir gingen nun zu vieren ins Freie. Das Ehepaar
-Sessel mir, besonders Frau Grita. Sie war vergnügt, witzig,
+gefiel mir, besonders Frau Grita. Sie war vergnügt, witzig,
 schlagfertig. Ihr keckes Bubengesicht, ihre dunklen Augen
-zu prachtvollen aschblonden Haar verriet Temperament und
-ungezügelie Leben-chlust.
+zu prachtvollem aschblonden Haar verriet Temperament und
+ungezügelte Lebenslust.
 
 Anderthalb Stunden durchstreiften wir die Umgebung,
 kamen auch zum steinigen Seeufer, sahen hier ein paar
@@ -637,7 +638,7 @@ Nachen liegen und ließen uns von Frau Grita erzählen, wie
 köstlich poetisch drüben die Felseninsel mit dem ehemaligen
 Indra-Tempel sei …
 
-Tom. Buccl2y lacht da nachsichtig …
+Tom Buccley lacht da nachsichtig …
 
 »Meine Frau ist in die Insel ganz verliebt … Dreimal
 Hat sie den kleinen Tempel schon gezeichnet …« —
@@ -645,19 +646,19 @@ Hat sie den kleinen Tempel schon gezeichnet …« —
 All das war so überaus harmlos. Ich meinerseits
 konnte an diesen Leuten wirklich nichts finden, was irgendwie
 Verdacht erregte. Besonders auch der Umstand, daß
-sie so ehrlich; uns vorgehalten ha:ten, wer wir in Wahrheit
+sie so ehrlich uns vorgehalten hatten, wer wir in Wahrheit
 seien, sprach doch durchaus für ihre Ehrlichkeit.
 
 Frau Buccley wollte dann gern wissen, was uns hierher
 geführt hatte. — Harald erklärte, Graf Rapsoldi wünsche das
 Verschwinden seines Vaters nochmals untersuchen zu lassen.
 
-»Ah — davon hat der alle Guiseppe uns bereits mancherlei
-erzählt,« rief Frau Grita in ihrer quecksilbrigen Wirt.
+»Ah — davon hat der alte Guiseppe uns bereits mancherlei
+erzählt,« rief Frau Grita in ihrer quecksilbrigen Art.
 »Eine recht geheimnisvolle Geschichte, Mister Harst …
 Wie denken Sie denn darüber?«
 
-»noch gar nicht,« lächelte Harald. »Das soll erst Romanen.
+»noch gar nicht,« lächelte Harald. »Das soll erst kommen.
 Das wird sich alles finden!«
 
 Hiermit war auch dieses Thema erledigt.
@@ -671,12 +672,12 @@ in die Burg aufgenommen habe.
 »Wir sind ganz zufällig hier nach Dodabetta gelangt.
 Und weil es hier doch so viel reizvolle landschaftliche Partien
 gibt, wollten wir gern ein paar Tage bleiben. Ein
-Hotel existiert nicht, also müssen wir schon den Schloßverwalter
+Hotel existiert nicht, also mußten wir schon den Schloßverwalter
 um Unterkunft bitten. Wer weiß, wie der Graf
 sich dazu stellen wird …«
 
 Harst beruhigte ihn. Rapsoldi sei Gentleman und sehr
-liebenswürdig. Und Frau Grita meinte darauf kokett: »Ob,
+liebenswürdig. Und Frau Grita meinte darauf kokett: »Oh,
 ich werde Seine Exzellenz schon für uns einnehmen …«
 
 Wir hatten inzwischen den See umrundet und näherten
@@ -689,7 +690,7 @@ ein wenig ruhen wollten.
 
 In unseren Räumen kaum angelangt, begann Harald
 eine ganz genaue Untersuchung der beiden Säle, die wie alle
-anderen Gemächer hier in der Burg mit einem seltsam an-mutenden
+anderen Gemächer hier in der Burg mit einem seltsam anmutenden
 Gemisch uralter indischer und ganz moderner
 Möbel ausgestattet waren.
 
@@ -698,7 +699,7 @@ wortlos …
 
 Ebenso wortlos durchstöberte er jetzt unseren Wohnsalon.
 
-Ich sah es seinem Geist an, daß die Bekanntschaft mit
+Ich sah es seinem Gesicht an, daß die Bekanntschaft mit
 Buccleys seinen Argwohn eher noch vergrößert hatte.
 
 Ich war ein wenig ärgerlich über sein Schweigen …
@@ -712,7 +713,7 @@ Riesenschränke geöffnet. Ich war dicht hinter ihn getreten.
 »Guiseppe hat uns belogen,« flüsterte er. »Frau Buccley
 <@pagebreak/>
 verplapperte sich. Es sind noch verschiedene kleinere Zimmer
-vorhanden. weshalb hat er uns gerade in diesen Reit-ftällen
+vorhanden. weshalb hat er uns gerade in diesen Reitställen
 untergebracht?!«
 
 »Du traust ihm nicht?! Dem — Clown?!«
@@ -724,7 +725,7 @@ gefährlicher Bursche …«
 
 Ich — — war platt …
 
-»Guiseppe — — Stattlich 2! Soll das ein mit sein?!«
+»Guiseppe — — gefährlich?! Soll das ein Witz sein?!«
 
 Ein merkwürdiger Blick traf mich …
 
@@ -734,7 +735,7 @@ eine Gänsehaut spürte.
 
 »Geh in den Flur und gib acht, daß niemand mich beobachtet,«
 fügte Harst hinzu. »Die alten Türen haben überall
-Risse, und ein paar dieser natürlichen Tückischer sind künstlich
+Risse, und ein paar dieser natürlichen Gucklöcher sind künstlich
 erweitert worden.«
 
 In meinem Innern hatte sich jäh eine Wandlung vollzogen.
@@ -742,7 +743,7 @@ Harst warnt nie ohne Grund.
 
 Etwas beklommen patrouillierte ich also im Flur auf
 und ab. Totenstill war’s in dem riesigen Bau. Unheimlich
-Stil … Ganz so, als ob hier niemand hauste, als ob’s ein
+still … Ganz so, als ob hier niemand hauste, als ob’s ein
 verwunschenes Schloß wäre.
 
 nach einer Stunde rief Harald mich in den Wohnsalon.
@@ -751,42 +752,42 @@ nach einer Stunde rief Harald mich in den Wohnsalon.
 bestimmt, daß es hier versteckte Türen geben würde. Nichts
 von alledem! Und das — beunruhigt mich noch mehr!«
 
-Er setzte sich. Seine Zigarette schickte einen seinen
-Qualmfaden zur getäfelten DeckXe empor. Sein schmales
+Er setzte sich. Seine Zigarette schickte einen feinen
+Qualmfaden zur getäfelten Decke empor. Sein schmales
 braunes Gesicht war geradezu düster und wie umwölkt.
 
-Ich lehnte neben ihm am Tisch, Die Sonne fiel in
+Ich lehnte neben ihm am Tisch. Die Sonne fiel in
 farbigen Streifen durch die bunten Fenster auf die kostbaren
-Teppiche. Von den Steinfliesen des Ei!ßboven8 waren nur
+Teppiche. Von den Steinfliesen des Fußbodens waren nur
 Teile zu sehen, so dicht lagen die Teppiche nebeneinander.
 
-»du steckst mich mit. Deinen Unkenrufen direkt an!«
+»du steckst mich mit Deinen Unkenrufen direkt an!«
 <@pagebreak/>
 meinte ich ein wenig gereizt. »Du weißt nun doch, daß
 hier nichts …«
 
 Er blickte auf. »Ich weiß, daß die beiden Buccleys
-uns mir als Harst und Schraut ansprachen, weil sie gemerkt
+uns nur als Harst und Schraut ansprachen, weil sie gemerkt
 haben, daß wir vor ihrer Turmtür gewesen …«
 
 »So?!«
 
-»Du bist eben blind … — Hast Du Dir die wtinder-hübschen
+»Du bist eben blind … — Hast Du Dir die wunderhübschen
 Bastläufer im Flur genauer angesehen? Sie
 haben so matte Farben … weil sie nämlich ganz, ganz
-sein mit einem grauweißen Pulver bestreut sind …«
+fein mit einem grauweißen Pulver bestreut sind …«
 
 »Nicht möglich!«
 
 »Jeder Fußtritt zeichnet sich in dieser harmlosen …
 Staubschicht ab — jeder … Man muß allerdings scharf
 hinschauen. Mit einem Wort: wir können hier in der Burg
-kaum einen Schritt in, der nicht nach kontrolliert werten
-lang … Und die Fliesen neben den Eofiläufscrn sind ähnlich
-präpariert, wenn auch Spur stellehweise … — Falls
+kaum einen Schritt tun, der nicht nachkontrolliert werden
+kann … Und die Fliesen neben den Bastläufern sind ähnlich
+präpariert, wenn auch nur stellenweise … — Falls
 zum Beispiel diese beiden Amerikaner mit Guiseppe unter
-einer Decke stehen. dann — gebe ich für unser Leben keinen
-Pfsisserling. Genau weiß ich’s freilich nicht. Auch die
+einer Decke stecken, dann — gebe ich für unser Leben keinen
+Pfifferling. Genau weiß ich’s freilich nicht. Auch die
 Buccleys können das grauweise Pulver gestreut haben —
 ohne Wissen des alten Verwalters.«
 
@@ -799,7 +800,7 @@ recht hatte …
 Und bückte mich, sah nun schräg auf die Bastläufer, sah
 so jeden meiner Schritte von vorhin — jeden!
 
-Und kam zu Harald Zuruf …
+Und kam zu Harald zurück …
 
 »Es stimmt leider,« sagte ich kleinlaut …
 
@@ -814,31 +815,31 @@ holte er die Flasche »Erbbegräbnis« — wollte sie holen —
 kehrte aus den Gewölben nicht zurück … Wenn nun zum
 Beispiel der Vater des jetzigen Verwalters ein Betrüger
 war und in die eigene Tasche gewirtschaftet hatte, wenn
-jener erste Guiseppe Vandoni die Aufsdeckdung von ’ Unterschlagungen
+jener erste Guiseppe Vandoni die Aufdeckung von Unterschlagungen
 fürchtete, dann — dann mußte Antonio Rapsoldi
 verschwinden …«
 
 Ich verstand … Und meine Gedanken prüften rasch
 nochmals alles, was der Gouverneur uns mitgeteilt hatte.
 
-So stieß ich denn auf »raus, das mich nun zu der Frage
+So stieß ich denn auf etwas, das mich nun zu der Frage
 bewog:
 
 »Wer mag jenen Brief an den Sohn des Verschwundenen
 geschrieben haben — jenen Brief, in dem ein Ungenannter
 behauptete, der Besitzer von Dodabetta würde in dem verlassenen
-Bergwerk gefangengehalient!«
+Bergwerk gefangengehalten?!«
 
-»3ch denke, der jetzige Guiseppe hat’s getan … Es
+»Ich denke, der jetzige Guiseppe hat’s getan … Es
 mögen hier Gerüchte entstanden sein … Und da wollte
 er denen zuvorkommen, die ihn vielleicht angeschwärzt
 hätten …«
 
-»am — nicht ausgeschlossen …«
+»Hm — nicht ausgeschlossen …«
 
 Harald rauchte drei Züge.
 
-»Wir werden uns hier sehr in acht nehmen. Näöchts8
+»Wir werden uns hier sehr in acht nehmen. Nachts
 wird nur immer einer von uns schlafen … Und deshalb
 wollen wir uns jetzt niederlegen und Vorrat schlafen …«
 
@@ -849,27 +850,27 @@ Es klopfte …
 Guiseppe, der Clown, war’s …
 
 Katzbuckelnd, lächelnd entschuldigte er sich, daß er uns zu
-Kisten wage. dann tat er nicht einem Male sehr geheimnisvoll
+stören wage. dann tat er mit einem Male sehr geheimnisvoll
 …
 
 Begann von — dem Vater seines jetzigen Herrn zu
 sprechen …
 
-»Sennores, Sie als Ingenieure sind doch gebildete -Herren,
+»Sennores, Sie als Ingenieure sind doch gebildete Herren,
 werden besser als unsereiner diese Dinge überschauen,«
 
 Und er berichtete, was sich damals in der Nacht des 15.
-Kurs zugetragen.
+Juni zugetragen.
 
 »Falls die Sennores sich einmal die Keller ansehen wollen
 <@pagebreak/>
 … Die Gewölbe sind in die Felsen eingemeißelt …
-Man stammt, was die Inder vor Jahrhunderten an Arbeit
+Man staunt, was die Inder vor Jahrhunderten an Arbeit
 geleistet haben …«
 
 Harald erhob sich …
 
-»Natürlich interesskert uns als Ingenieure schon allein
+»Natürlich interessiert uns als Ingenieure schon allein
 Die Anlage der Keller, Guiseppe … Gehen wir also!«
 
 Und als der Verwalter nun uns voran die Treppe zur
@@ -885,15 +886,15 @@ eine zweite Halle, und von hier ging eine breite Treppe, die
 mit einer runden Marmorbrüstung oben eingefaßt war, in
 die Gewölbe hinab.
 
-Ich habe schon viele Felsenkessel gesehen … Dies hier
+Ich habe schon viele Felsenkeller gesehen … Dies hier
 waren keine Keller, es waren acht Meter hohe Dome, verbunden
-durch Kreuzgänae.
+durch Kreuzgänge.
 
 Sauber war das Gestein poliert, ebenso sauber allerlei
 Reliefs eingehauen.
 
 das Licht der großen Karbidlaterne Guiseppes fiel auf
-Szenen aus der indischen Göttergesichichte, Szenen, die in
+Szenen aus der indischen Göttergeschichte, Szenen, die in
 merkwürdig primitiver und drastischer Art das Liebesleben
 behandelten.
 
@@ -911,15 +912,15 @@ Flaschen!«
 
 Und er nahm eine, entkorkte sie, nahm aus einem Kasten
 des Regals drei Gläschen und füllte sie. Goldgelb und dick
-wo der Likör … Der aromatische Duft stieg uns in die
+floß der Likör … Der aromatische Duft stieg uns in die
 Nase …
 
 <@pagebreak/>
 »Ihr Wohl, Sennores …«
 
-Und Ghiseppe trank — mit wahrer Andacht …
+Und Guiseppe trank — mit wahrer Andacht …
 
-Wir hielten unsere Tischen noch in den Händen …
+Wir hielten unsere Gläschen noch in den Händen …
 Ich traute dem Frieden nicht …
 
 Guiseppe schaute uns an …
@@ -932,16 +933,16 @@ Harald reichte ihm da sein Gläschen …
 drohend und hart.
 
 Der kleine Kerl grinste … »Wie Sie wünschen …«
-Und er faßte na dem Glase, war angezecht?! … Ecke sich
-zu Boden, zerjbellie auf dem Felsboden
+Und er faßte nach dem Glase, war ungeschickt … Es fiel
+zu Boden, zerschellte auf dem Felsboden …
 
 »Oh …!« rief Guiseppe. Bückte sich — war mit einem
 Satz zur Seite …
 
 Und — unter unseren Füßen klappte gleichzeitig ein
 Quadrat dieses scheinbar so festen Gesteins herab — blitzschnell
-— und so übcerrasvend, daß wir abwärts schossen —
-moderner … hinein in kühles aussprivendes Wasser …
+— und so überraschend, daß wir abwärts schossen —
+metertief … hinein in kühles aufspritzendes Wasser …
 
 <h2>4. Kapitel.</h2>
 <h3>Ratten im Wassertopf.</h3>
@@ -1213,7 +1214,7 @@ Und ganz oben nur schmale helle Streifen: Tageslicht!«
 Ich hob die Lampe höher …
 
 Mitten im See etwas wie ein Gerüst — bis zur Felsdecke
-emporreichend … Starke Balken, die eine Zickzack-treppe
+emporreichend … Starke Balken, die eine Zickzacktreppe
 umgaben.
 
 Harst watete schon ins Wasser …
@@ -1307,7 +1308,7 @@ eiserne Haken eingeknotet waren …
 Wir beide hier nun in stillen Schauen. Zunächst wortlos.
 Dann fügte Harald den Deckel der Fußbedenössnung
 wieder ein. dieser Deckel paßte so genau, daß von diesem
-Zugang zu dem Götßengemach und dem Kanal nichts mehr
+Zugang zu dem Götzengemach und dem Kanal nichts mehr
 zu bemerken war.
 
 Harst sagte leise: »Die Buccleys müssen irgendwie in Erfahrung
@@ -1530,7 +1531,7 @@ Sie, wenn Ihnen Ihr Leben lieb ist …«
 
 Er gröhlte sie — führte sich die Treppe empor …
 
-Oben knarrte die große Falltür... Schloß sich wieder.
+Oben knarrte die große Falltür… Schloß sich wieder.
 
 Der Alte kam langsam herab …
 
@@ -1612,7 +1613,7 @@ Harst flüsterte abermals:
 Inder bis dahin nicht zurück, greifen wir ein!«
 
 Und er zog vorsichtig seine Taschemthr. Die kleine runde
-Scheibe des Zisserblatte8 leuchtete gelb-grün …
+Scheibe des Zifferblattes leuchtete gelb-grün …
 
 (Es war genau halb drei — halb drei nachmittags …
 
@@ -1804,7 +1805,7 @@ versuchen, all dies als Träume hinzustellen …«
 »Das wäre ja …«
 
 »… unmöglich, glaubst Du?! .- Nun, verschaffen wir
-uns« Gewißheit... Das ist nicht schwer …«
+uns« Gewißheit … Das ist nicht schwer …«
 
 Er trat vor mich hin, befühlte seine Stirne …
 
@@ -2060,7 +2061,7 @@ Die Lederränder glitten nach unten …
 
 <@pagebreak/>
 Und — ich sah flüchtig das braune Gesicht eines indische:
-Knaben von vielleicht einem Jahr — sah einen zusammen-gekrümmten
+Knaben von vielleicht einem Jahr — sah einen zusammengekrümmten
 Leib … Und auf der Brust — drei rote
 Stellen …
 
@@ -2233,7 +2234,7 @@ massigen Schlichtheit wirkte er tatsächlich wie einer jener
 modernen Mausoleums&bauten, bei denen die Architekten dem
 Gedanken menschlicher irdischer Vergänglichkeit die Unvergänglichkeit
 menschlichen Schattens durch einen recht eindrucksvoller
-einfachen und kraftvollen Bauentwurf gegen-überstellen
+einfachen und kraftvollen Bauentwurf gegenüberstellen
 wollen.
 
 Die aus Schmiedeeisen gearbeiteten reich verzierten Türen
@@ -2242,7 +2243,7 @@ hatten nur einen künstlerischen Hebelverschluß.
 Wir traten ein. Die kleine Halle enthielt einen Altar,
 zwei große versilberte Leuchter auf schwarzen Marmorsäulen
 und als Erinnerungsstücke an die einstige heidnische Bestimmung
-zahlreiche Wandskulpturen von jener geradezu un-anständigen
+zahlreiche Wandskulpturen von jener geradezu unanständigen
 Art, wir man sie in Indien an den heiligsten
 Orten so häufig antrifft.
 
@@ -2299,8 +2300,8 @@ eingetrockneten Toter in reicher Uniform.
 Ich starrte auf diese Mumie wie auf ein Gespenst …
 
 »Nun?!« fragte der Graf. »Und Sie beide sahen hier
-nur Staub, der hochwirbelte. — Stören wir die Ruhe meineZ-Urgroßvaters
-nicht weiter …«
+nur Staub, der hochwirbelte. — Stören wir die Ruhe meines
+Urgroßvaters nicht weiter …«
 
 Der Deckel senkte sich …
 
@@ -2434,7 +2435,7 @@ nachdenkt …
 
 In meinen Nerven fiebert die Erwartung. Ich weiß!
 es wird etwas geschehen! Es muß etwas geschehen! Harst
-glaubt nicht an den »Weg Brahmas», der uns im Traume
+glaubt nicht an den »Weg Brahmas«, der uns im Traume
 Frau Grita im Sarge und uns als Ratten im Badebassin
 gezeigt haben soll.
 
@@ -2534,8 +2535,8 @@ Wir waten, schwimmen …
 <@pagebreak/>
 Sind an der Treppe …
 
-Aber Harald warnt: »Guiseppe dürfte «ließ hier — gearbeitet
-haben … Vielleicht hat er den Balkenturm praä-pariert
+Aber Harald warnt: »Guiseppe dürfte »ließ hier — gearbeitet
+haben … Vielleicht hat er den Balkenturm präpariert
 …«
 
 Ich begreife: die Balken durchgesägt! Einen Einsturz
@@ -2676,7 +2677,7 @@ Und nach kurzem Schweigen:
 
 »Würden Sie jetzt zurückfinden, Matarana?«
 
-»Ja... Und ich muß eilen … Mein Sohn wird
+»Ja … Und ich muß eilen … Mein Sohn wird
 mich suchen und nachher: sehr böse sein …«
 
 »Ist es weit bis zu der Hütte?«
@@ -2864,7 +2865,7 @@ Schrei …
 
 Ein Schuß …
 
-Und dann flog dort oben über die aus Felsstücken aus-geschichtete
+Und dann flog dort oben über die aus Felsstücken aufgeschichtete
 Randmauer ein menschlicher Körper hinweg …
 
 Flog ins Leere …
@@ -2873,7 +2874,7 @@ Fiel mit dumpfem Krachen unten auf das Geröll …
 
 Wir drei standen — hatten uns an den Händen gepackt
 — unwillkürlich … Wir drei starrten dorthin, wo sich
-ein letztes Mal ächzend der zerschmetterte Körper im Todes-kämpfe
+ein letztes Mal ächzend der zerschmetterte Körper im Todeskämpfe
 hochleckte …
 
 »Sadwitala,« flüsterte Harst …
@@ -3050,7 +3051,7 @@ Ich …«
 
 <@pagebreak/>
 »Schweigen Sie!« Harsts Stirnadern schneller an.
-»Ihr Possenspicl ist aus! Im Erbbegräbnis haben Sie die
+»Ihr Possenspiel ist aus! Im Erbbegräbnis haben Sie die
 Särge vertauscht, den mittleren nach rechts gestellt und die
 Löcher der Bolzen in den Füßen mit Zinn ausgefüllt …«
 
@@ -3136,7 +3137,7 @@ Und dann — ein neuer Kniefall vor dem Grafen Antonio
 …
 
 Es gab tatsächlim in den Gewölben zwei völlig gleiche
-Räume mit Flashenregalen, nur daß der Zugang des einen.
+Räume mit Flaschenregalen, nur daß der Zugang des einen.
 dicht neben dem anderen gelegen, durch eine Steinplatte
 <@pagebreak/>
 verdeckt werden konnte, die auch vor den ersten eingesü;
