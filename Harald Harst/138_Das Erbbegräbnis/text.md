@@ -949,43 +949,43 @@ metertief … hinein in kühles aufspritzendes Wasser …
 
 Ratten im Wassertopf …
 
-Etwa so war’s … Nu! ein recht großer Topf, ein
+Etwa so war’s … Nur ein recht großer Topf, ein
 Kanal mit glatten Wänden.
 
 Kaum hatte ich mir das Wasser aus den Augen geschüttelt,
 kaum zu schwimmen begonnen, als auch schon Haralds
-Taschenlampe ausleuchtete …
+Taschenlampe aufleuchtete …
 
 Ich sah, er hatte sie zwischen den Zähnen, schwamm
 langsam im Kreise, beleuchtete die Wände …
 
 Ein Kanal … Kaum anderthalb Meter über uns die
 grauschwarze Felsdecke … Ein Kanal, ausgehauen aus
-kurzem Gestein wie die Gewölbe …
+dem Gestein wie die Gewölbe …
 
-Meine Augen suchen - - suchten …
+Meine Augen suchen — suchten …
 
 <@pagebreak/>
 Irgendwo mußte es doch einen Halt für die Hände geben.
 Sonst — mußten wir hier ertrinken — wie die Ratten im
 Wassertopf, die immer mehr ermüden, die angstvoll an den
 platten Wänden entlangschwimmen, die nirgends Halt finden,
-schließlich untergraben und mit letzter Kraft nochmals
+schließlich untersinken und mit letzter Kraft nochmals
 emporkommen, um dann endgültig unterzutauchen …
 
-So würde es uns erschien …
+So würde es uns ergehen …
 
 Ein langgestrecktes Viereck war dieser Wasserbehälter
 hier. Drei Meter breit, vielleicht zwanzig lang …
 
 Einmal hatten wir ihn nun umrundet …
 
-ja nahm Harald die Taschenlampe in die Linke …
+Da nahm Harald die Taschenlampe in die Linke …
 
 Ich war neben ihm. Wir schwammen in ruhigen Stößen.
 
 »Hier muß es eine Verbindung mit dem See geben,«
-sagte er leise. »Da — das Wasser ist klar … CZ erneuert
+sagte er leise. »Da — das Wasser ist klar … Es erneuert
 sich … Dort nach Süden zu liegt der See …
 Schwimmen wir nochmals zu jener Schmalseite …«
 
@@ -994,16 +994,16 @@ Wir schwammen …
 Und als wir nun die schmale Felswand vor uns hatten,
 gab Harst mir die Taschenlampe.
 
-»IJ4Ö werde tauchen … Hier muß sich unter Wasser
+»Ich werde tauchen … Hier muß sich unter Wasser
 ein Loch befinden …«
 
-Und ehe ich ihn noch ermahnen konnte, doch ja recht Folgerichtig
+Und ehe ich ihn noch ermahnen konnte, doch ja recht vorsichtig
 zu sein, war er schon verschwunden.
 
 Das Wasser warf kleine Wellen …
 
 Angst preßte mir jäh das Herz zusammen … Todesangst
-… sich fühlte, daß meine Kleider schwerer und
+… Ich fühlte, daß meine Kleider schwerer und
 schwerer wurden … Meine braunen Sportschuhe wogen
 wie Blei …
 
@@ -1011,14 +1011,14 @@ Ich schwamm hin und her …
 
 Harald erschien nicht wieder …
 
-Meine Angst wurde zu sinnlosem Entsetzen
+Meine Angst wurde zu sinnlosem Entsetzen …
 
-Ertrinken müssen — — hier … wie eine armselig!
+Ertrinken müssen — — hier … wie eine armselige
 Ratte! Durch die Schurkerei Guiseppe Vandonis …!!
 
 Meine Kleider wogen Zentner …
 
-Meine Armmugskeln versagten fast …
+Meine Armmuskeln versagten fast …
 
 Nur Ruhe — — Ruhe!!
 
@@ -1035,9 +1035,9 @@ Oder — waren’s schon zweihundertfünfzig gewesen?!
 
 Ich wußte es nicht …
 
-Der kalte Schweiß lief mir Feixend in die Augen …
+Der kalte Schweiß lief mir beizend in die Augen …
 
-Ich versuchte mit den Füßen Grund zu finden, Roß mich
+Ich versuchte mit den Füßen Grund zu finden, ließ mich
 bis zum Kinn hinabsinken …
 
 Nichts — kein Halt!
@@ -1046,8 +1046,8 @@ Und schwamm von neuem …
 
 Ratte im Topf …
 
-Harald — — Harald?! Vielleicht schon tot … hielt
-[sich schon erst!?! … Vielleicht hatte er das setzte schon
+Harald — — Harald?! Vielleicht schon tot … Vielleicht
+schon erstickt … Vielleicht hatte er das Letzte schon
 hinter sich …
 
 Muskelkrampf lähmte mir den rechten Arm …
@@ -1056,11 +1056,11 @@ Ich fühlte: es war das Ende …
 
 Wadenkrämpfe meldeten sich mit wütenden Schmerzen.
 
-Meine Gedanken flatterten … Ich Schufte Wasser.
+Meine Gedanken flatterten … Ich schluckte Wasser.
 Kam wieder hoch … Sank abermals …
 
 Und spürte plötzlich unter den Stiefelspitzen etwas Rundes,
-Hartes … Fand einen Stütpun?!, reckte mich hoch,
+Hartes … Fand einen Stützpunkt, reckte mich hoch,
 — gerade noch mit dem Munde über die Wasseroberfläche.
 
 Ruhe — Ruhe …!!
@@ -1070,16 +1070,16 @@ zum Herzen …
 
 Ruhe — Ruhe …!!
 
-Und ich stand still — regungslos
+Und ich stand still — regungslos …
 
 Merkte, daß ich auf etwas Rundem stand — vielleicht
-einem Stein von Echöädelgröße …
+einem Stein von Schädelgröße …
 
-Meine Nerven zuckten nicht mehr. Ich hoffte … spielte
+Meine Nerven zuckten nicht mehr. Ich hoffte … Erholte
 mich, atmete gleichmäßig …
 
 Längst war mir die Taschenlampe entglitten … Brannte
-Zaun dort wo vor mir als matter Schein auf dem Grunde des
+nun dort vor mir als matter Schein auf dem Grunde des
 Kanals …
 
 <@pagebreak/>
@@ -1093,9 +1093,9 @@ Gerippe — menschliche Gerippe …
 
 Auf einem Totenschädel stand ich …
 
-Aus einem Haufen Gebeine …
+Auf einem Haufen Gebeine …
 
-Wir war’s gleichgültig … Ich konnte atmen. Die
+Mir war’s gleichgültig … Ich konnte atmen. Die
 Toten retteten einen Lebenden …
 
 Minuten schlichen …
@@ -1106,17 +1106,17 @@ Angst und Sorge: Harald — — Harald?!
 Ich — schämte mich plötzlich … Hatte ich den Freund
 nicht eigentlich treulos im Stiche gelassen?! Hätte ich ihm
 nicht folgen sollen?! Er mußte ja ein Loch gefunden haben,
-eine Vorstellung des Kanals!
+eine Fortsetzung des Kanals!
 
 Und dann — ein Entschluß …
 
-Herunter mit Jahr und Weste … Die Pistole in die
+Herunter mit Jacke und Weste … Die Pistole in die
 Hosentasche …
 
 Einen Fuß vorsichtig gehoben … Den Schuh wollte ich
 abstreifen, verlor den Halt — und tauchte nach der Lampe,
-packte sie, schoß doch, atmete tief ein, tauchte wieder — dicht
-an der Ehmalwand …
+packte sie, schoß hoch, atmete tief ein, tauchte wieder — dicht
+an der Schmalwand …
 
 Und meine Augen sahen beim trüben verschwommenen
 Schimmer eine bogenförmige Öffnung …
@@ -1142,33 +1142,33 @@ Die Brust wollte mir springen …
 
 Weiter — weiter …
 
-Und dann — mit einem Male flog Ab empor …
+Und dann — mit einem Male flog ich empor …
 
 <@pagebreak/>
 
 Luft — Luft …
 
 Zwei taumelnde Schritte … Und die Füße noch im
-Wasser kroch ich auf hatten Gestein zusammen …
+Wasser brach ich auf hartem Gestein zusammen …
 
 Nicht bewußtlos — nur vollkommen erschöpft …
 
-Satz nicht neben mir eine andere Gestalt: Harst …!
-Auch kenwck’cad — na Luft ringend …
+Sah dicht neben mir eine andere Gestalt: Harst …!
+Auch keuchend — nach Luft ringend …
 
 Seine Hand tastete hinüber, fand die meine …
 
 »Gott sei Dank …!«
 
-Und Hand in Hand erholten wir uns, sehen uns aufrecht
+Und Hand in Hand erholten wir uns, setzten uns aufrecht
 …
 
 »Ich war mit dem Kopf gegen eine Felskante gestoßen,«
 flüsterte er. »Ich — konnte Dich nicht holen. Ich habe hier
 Folterqualen ausgestanden …«
 
-Dich Taschenlampe drohte zu erlöschen. Die Batterie war
-verkennen.
+Die Taschenlampe drohte zu erlöschen. Die Batterie war
+verbraucht.
 
 Ich zog die meine hervor.
 
@@ -1183,30 +1183,30 @@ Ich erzählte … Von den Skeletten, von dem Totenschädel
 …
 
 »Hier ist auch Graf Antonio umgekommen,« sagte Harald
-dann. »Ich wußte es ja: der »sie Garten:1e hatte ihn
+dann. »Ich wußte es ja: der alte Guiseppe hatte ihn
 betrogen, und sein Sohn Guiseppe ist Mitschuldiger …«
 
 Dann befahl er: »Licht!«
 
 Und wir sahen, wo wir uns befanden: in einer engen,
-langen Höhle, in deren Mitte eine Krone für das Wasser
+langen Höhle, in deren Mitte eine Rinne für das Wasser
 ausgehauen war.
 
 Wir schritten nach Süden zu …
 
 Harald voran … Am linken Ufer des Wassers …
 
-Die Höhle hatte hie und da Ausbudznungen. Verengerte
+Die Höhle hatte hie und da Ausbuchtungen. Verengerte
 sich auch wieder.
 
 Harst sagte nach einer Weile: »Meiner Berechnung nach
 befinden wir uns schon unter dem »See … Gib acht: diese
-pro:te endet im Gestein der Felseninsel …«
+Grotte endet im Gestein der Felseninsel …«
 
 <@pagebreak/>
 Noch hundert Meter. Mit einem Male vor uns ein
 runder See von vielleicht fünfzig Meter Durchmesser. Rechts
-und links breite Öffnungen, fast bis oben von Wasser heute
+und links breite Öffnungen, fast bis oben von Wasser bespült.
 Und ganz oben nur schmale helle Streifen: Tageslicht!«
 
 »Die Insel!« meinte Harald wieder.
@@ -1219,27 +1219,27 @@ umgaben.
 
 Harst watete schon ins Wasser …
 
-Schwäamm … uns ich hinterdrein …
+Schwamm … und ich hinterdrein …
 
-Sie zu dem hier Balken, der Treppe, deren Holzstufen
-unten nur wer ich angekauft waren …
+Bis zu dem dicken Balken, der Treppe, deren Holzstufen
+unten nur wenig angefault waren …
 
-»Baron-Holz,« erklärte Harald. »Die indische Eiche —
+»Batna-Holz,« erklärte Harald. »Die indische Eiche —
 unverwüstlich …«
 
 Er kletterte höher …
 
-Und kann eine Platiforiil« darüber der Fels, in dem sich
-ein großes Opal abzeichnete: ein Loch, das mit einer Platte
+Und kann eine Plattform, darüber der Fels, in dem sich
+ein großes Oval abzeichnete: ein Loch, das mit einer Platte
 verschlossen war.
 
 »Indische Tempelgeheimnisse,« sagte Harst wieder.
 
-Und stemmte die Bar ne flach gegen den Brief, hob ihn
+Und stemmte die Hände flach gegen den Deckel, hob ihn
 empor, schob ihn zur Seite …
 
-Ich bückte mich … Von meinen Sanftem schwang er
-sich »in das ovale Loch hinein, zog die Beine nach, ließ sich
+Ich bückte mich … Von meinen Schultern schwang er
+sich in das ovale Loch hinein, zog die Beine nach, ließ sich
 die Taschenlampe geben …
 
 Half mir dann empor …
@@ -1248,12 +1248,12 @@ Wir standen in einem quadratischen Felsgemach …
 
 Nicht allein …
 
-Da waren drei Götzenbilder, überleben8groß — Statuen
+Da waren drei Götzenbilder, überlebensgroß — Statuen
 des Indra, die wie Gold funkelten …
 
 Drei Statuen mit wundervoll ausgeführten Köpfen …
 Nur daß überall breite Schrammen die Außenschicht durchzogen
-und flache kleine höher mit zackigen Rändern klafften.
+und flache kleine Löcher mit zackigen Rändern klafften.
 
 »Vergoldet, mein Alter …« sagte Harald. »Schau Dir
 die Augenhöhlen an, die anderen Löcher … Da waren
@@ -1263,28 +1263,28 @@ frisch … Diebe waren hier am Werk …«
 
 Und nach kurzer Pause:
 
-»Die Amerikaner — die Bncceloy2’«
+»Die Amerikaner — die Buccleys!«
 
-Das Ware wieder einer jener Lichtblitze, die das Dunkel
+Das war wieder einer jener Lichtblitze, die das Dunkel
 grell durchleuchteten …
 
-»Ja — die Buccleys!« meinte ich. »Also de8&halb sind
+»Ja — die Buccleys!« meinte ich. »Also deshalb sind
 sie nach Dodabetta gekommen!«
 
-»Deshalb war Frau Grita hier, und deä3hald paßte Tom
+»Deshalb war Frau Grita hier, und deshalb paßte Tom
 auf dem Turme auf …«
 
 »Nette Maler …!!«
 
 »Gauner!«
 
-Und er nahm mir die Taschenlampe ab … Sache
+Und er nahm mir die Taschenlampe ab … Suchte
 oben an der Decke nach dem Ausgang, der nicht schwer zu
-finden war … Denn at’ch dort ein Graf in dem Gestein,
+finden war … Denn auch dort ein Oval in dem Gestein,
 auch dort ein Deckel, ebenfalls eine Steinplatte — gerade
-Weiber dem Kopfe des einen Toten.
+über dem Kopfe des einen Götzen.
 
-Wir turnten nacheinander an der Stalle empor …
+Wir turnten nacheinander an der Statue empor …
 
 Nacheinander kletterten wir durch das Loch … Waren
 nun im — Erbbegräbnis der Grafen Rapsoldi …
@@ -1301,12 +1301,12 @@ gegenüber eine Steintreppe, oben in der Decke die Umrisse
 einer sehr großen Falltür …
 
 Und das Merkwürdigste: über dem mittleren Sarge an
-der Decke ein FlasCenzug mit dicken Tauen, an deren Ende
+der Decke ein Flaschenzug mit dicken Tauen, an deren Ende
 eiserne Haken eingeknotet waren …
 
 <@pagebreak/>
-Wir beide hier nun in stillen Schauen. Zunächst wortlos.
-Dann fügte Harald den Deckel der Fußbedenössnung
+Wir beide hier nun in stillem Schauen. Zunächst wortlos.
+Dann fügte Harald den Deckel der Fußbodenöffnung
 wieder ein. dieser Deckel paßte so genau, daß von diesem
 Zugang zu dem Götzengemach und dem Kanal nichts mehr
 zu bemerken war.
@@ -1327,13 +1327,13 @@ Ein Geräusch über uns ließ uns beide leicht zusammenfahren
 
 »Schritte!!« bestätigte ich
 
-Und Harst sah sich nach mein Versteck um …
+Und Harst sah sich nach einem Versteck um …
 
 »Dort — die Kränze … schnell!!«
 
 Schon bewegte sich über uns die große Falltür …
 
-Die Kränze knisterten, zensieren zum Teil. Aber sie deckten
+Die Kränze knisterten, zerfielen zum Teil. Aber sie deckten
 uns. Eng an die Wand gedrückt standen wir regungslos.
 
 Die Taschenlampe hatte ich ausgeschaltet.
@@ -1351,27 +1351,27 @@ photographische Momentkamera aussah. Sehr sicher kam sie
 die Treppe herab. Man merkte, daß sie hier nicht zum ersten
 Male weilte und daß sie sich auch ganz sicher wähnte.
 
-Ich war gespannt, ob sie etwa noch ein Stockwerk dieser
-in den Götzenraum hinabsteigen würde. Freilich: die Edels-steine
+Ich war gespannt, ob sie etwa noch ein Stockwerk tiefer
+in den Götzenraum hinabsteigen würde. Freilich: die Edelsteine
 aus den Statuen waren längst entfernt, und die
 <@pagebreak/>
-Götzen se!bist nur Vorgartens und doch kaum wegzuschleppen!
-— las drohte sie also hier?!
+Götzen selbst nur vergoldet und doch kaum wegzuschleppen!
+— Was wollte sie also hier?!
 
 Sie stellte ihre Laterne jetzt auf eine der Treppenstufen.
-dann ging sie zwischen den Z2inksärgen hindurch und reckte
-die Arme empor: sich langte nach; den Tauen des Flaschen-zugges!
+dann ging sie zwischen den Zinksärgen hindurch und reckte
+die Arme empor: sich langte nach den Tauen des Flaschenzuges!
 
 Ich begriff nicht recht, was sie damit wollte. etwa einen
-der Deckel der Sätze eingerieben?! Und überhaupt: wozu
-der Klaschenzug, der hier so ganz öffentlich angebracht war?!
+der Deckel der Sätze emporheben?! Und überhaupt: wozu
+der Flaschenzug, der hier so ganz öffentlich angebracht war?!
 
 Meine Vermutung stimmte: am Rande des Deckels des
-mittleren Sarges mußten sich gegen befinden, in die die
-Hafen der Taue hineinpaßten …
+mittleren Sarges mußten sich Ösen befinden, in die die
+Haken der Taue hineinpaßten …
 
 Die reizende Frau Buccley packte nun mit ihren schmalen
-ringgeichmücten Händen das Zugtau des Flaschenzuges
+ringgeschmückten Händen das Zugtau des Flaschenzuges
 und brachte so den Deckel in die Höhe. Er schwebte leicht
 über dem Unterteil des Sarges.
 
@@ -1386,16 +1386,16 @@ Sicherheit. Frau Buccley hatte nicht einmal flüchtig dorthin
 geschaut.
 
 Jetzt aber, wo wir beide fraglos dasselbe annahmen,
-nämlich, daß die Am:erikanerin aus dem Sarge einen Beutel
-mit Diamanten heram8änehmen würde (was sollte sonst wohl
+nämlich, daß die Amerikanerin aus dem Sarge einen Beutel
+mit Diamanten herausnehmen würde (was sollte sonst wohl
 dort verborgen sein?!), daß sie also die ganze Beute an
 Edelsteinen oder doch einen Teil davon mit nach der Burg
 Nehmen würde, — jetzt geschah etwas so Unglaubliches, daß
-wir uns alle Mütze geben mußten, weiter regungslos in
+wir uns alle Mühe geben mußten, weiter regungslos in
 Unserem Versteck zu verharren …
 
 Grita Buccley stieß plötzlich einen gellenden Schrei aus.
-Dieser Schrei Bestrafe schnell in einem dumpfen Röcheln —
+Dieser Schrei erstickte schnell in einem dumpfen Röcheln —
 ganz so, als würde der Amerikanerin die Kehle zugedrückt.
 
 Leider konnten wir aber von unserem Platze aus jetzt
@@ -1414,20 +1414,20 @@ haben!
 In demselben Moment, als der Sargdeckel mit leise
 hallendem metallischen Ton sich auf den Unterteil legte, —
 in diesem Moment, als auch die letzte Spur von Lichtschein
-seinem, wollte Harald mit einem mir hastig zugeflüsterten
+erlosch, wollte Harald mit einem mir hastig zugeflüsterten
 »Vorwärts …!« unser Versteck verlassen …
 
 Und — blieb doch ohne jede Bewegung neben mir, gleichsam
 gebannt durch den grellen Schimmer, der jäh vor den
 Särgen aus dem Steinplattenboden aufflammte — aus der
 nach unten führenden Öffnung, deren Deckel sich lautlos
-gehindert haben mußte …
+gehoben haben mußte …
 
 Eine große Laterne ward sichtbar — ein hagerer brauner
 Arm — der Kopf eines greisen weißbärtigen Inders mit
 dunklem Turban …
 
-Ein Gesicht, von Falten durchsucht … Aber ein Paar
+Ein Gesicht, von Falten durchfurcht … Aber ein Paar
 Augen, die in unheimlichem Glanze funkelten … —
 
 Der greise Inder stieg vollends aus der Öffnung …
@@ -1437,7 +1437,7 @@ Särge gleiten …
 Wir sahen genau, wie er plötzlich ruckartig den Kopf vorschob,
 auf den mittleren Sarg stierte …
 
-Er hatte bemerkt, Tasche Taue in den gegen befestigt
+Er hatte bemerkt, daß die Taue in den Ösen befestigt
 waren …
 
 Und da — — wie aus der Unterwelt ein dumpfer
@@ -1462,12 +1462,12 @@ Der Deckel hob sich …
 Und aus dem sich schnell verbreiternden Zwischenraum
 reckte sich der Amerikanerin schlanker Arm hervor …
 
-Und Arm und Hand — diese sj&chmale Hand mit den
+Und Arm und Hand — diese schmale Hand mit den
 blitzenden Ringen — bewegten sich in angstvoller, flehender
 Geste …
 
 Bis nun auch die Frau selbst sichtbar wurde … Tief
-zusammernigeduc?! kniete sie in dem Sarge … Ihr Kleid
+zusammengeduckt kniete sie in dem Sarge … Ihr Kleid
 war über und über beschmutzt … Ihr Gesicht verzerrt.
 Und kaum hatte sie jetzt den Greis erblickt, als ein wimmerndes
 »Gnade — — Erbarmen!« sich zitternd über ihre
@@ -1485,7 +1485,7 @@ Vor ihr stand der Alte …
 »Wo — sind die Diamanten der Statuen?« fragte er in
 geläufigem Englisch.
 
-Sie weinte … Ihre Nerven rebellierten noch … -
+Sie weinte … Ihre Nerven rebellierten noch … —
 Er wiederholte die Frage — lauter, eindringlicher …
 
 Und da antwortete sie — sinnlos noch vor Entsetzen:
@@ -1496,40 +1496,40 @@ Neues Schluchzen …
 
 »Lagen die Edelsteine in dem Sarge des ersten Rapsoldi,
 der hier beigesetzt wurde?« fragte der Greis wieder. »Im
-Sarge des Grasen Manuel Rapsoldi, der früher seine letzte
-Nuß gestatte in den Gewölben der Burg hatte, bis auch diese’
-»Insel Eigentum der Rapsoldis wurde?«
+Sarge des Grafen Manuel Rapsoldi, der früher seine letzte
+Ruhestätte in den Gewölben der Burg hatte, bis auch diese
+Insel Eigentum der Rapsoldis wurde?«
 
-»Sä — ja …!« — Grita Stückchen ward ruhiger.
+»Ja — ja …!« — Grita Buccley ward ruhiger.
 
 »Und — wer stahl sie?«
 
 <@pagebreak/>
-»Ab weiß es nicht … Der Mann wahrsdxinlich, der
-mia: -S n1ürgic. der mich in den Sarg hineingezogen hatte.«
+»Ich weiß es nicht … Der Mann wahrscheinlich, der
+mich — würgte, der mich in den Sarg hineingezogen hatte.«
 
-»vier!« Und der Inder beugte sich) zu ihr herab.
-»vier! Ein Mann =«- — im Sarge …! — Sie lügen!«
+»Wie?!« Und der Inder beugte sich zu ihr herab.
+»Wie?! Ein Mann — — im Sarge …! — Sie lügen!«
 
-»Bei der heiligen Madonna …! Ich lüge nicht
+»Bei der heiligen Madonna …! Ich lüge nicht …!«
 Ihr Gesicht bekam Farbe … Sie schaute den Inder an.
 »Ich wollte den Beutel mit den Steinen holen … Wir
 wollten die Burg verlassen, weil jetzt dort zwei neue Gäste
-eingekehrt sind … Und als ich) mich vorhin über den Sarg
-beugte, umkrallten zwei Hände meinen Hals, =« Hände, die
+eingekehrt sind … Und als ich mich vorhin über den Sarg
+beugte, umkrallten zwei Hände meinen Hals, — Hände, die
 unter den vermoderten Decken hervorschossen … — Mehr
 weiß ich nicht … Ich habe dann um Hilfe geschrien …
 Mehr weiß im nicht …«
 
-Der greise Vater schüttelte den Kopf …
+Der greise Inder schüttelte den Kopf …
 
-»Das — begreife ich nicht …« =« Er sprach wie zu sich
-selbst. —“- Und lauter: »Ich fühle, daß Sie nicht lügen …
+»Das — begreife ich nicht …« — Er sprach wie zu sich
+selbst. — Und lauter: »Ich fühle, daß Sie nicht lügen …
 Mag auch mein Hirn leer sein … Ich fühle es: Sie
 lügen nicht! Gehen Sie … gehen Sie — — und schweigen
 Sie, wenn Ihnen Ihr Leben lieb ist …«
 
-Er gröhlte sie — führte sich die Treppe empor …
+Er stützte sie — führte sich die Treppe empor …
 
 Oben knarrte die große Falltür… Schloß sich wieder.
 
@@ -1556,7 +1556,7 @@ er.
 
 Dann griff er hinein in den Unterteil, hob die zerschlissenen
 kehrten und Fetzen empor, an denen noch Reste breiter
-Goldstikereien zu erkennen waren …
+Goldstickereien zu erkennen waren …
 
 Der, dem einst dieser Sarg Zettel Lager gewesen, war
 längst zu Staub zerfallen …
@@ -2556,7 +2556,7 @@ Harst. »Nach dieser Seite hin muß das Gelaß liegen, zu
 dem man durch den Sarg …«
 
 … Schweigt Plötzlich, fährt mit dem Fingernagel in
-einer ’seinen Rille des gealätteten Felsens entlang — unterbleibt
+einer ’seinen Rille des geglätteten Felsens entlang — unterbleibt
 so die unregelmäßigen Umrisse dessen, was wir
 suchen: ein bewegliches Stück des Gesteins!
 
@@ -3062,7 +3062,7 @@ vor Harald knien …
 Seine müden Augen Ergrimmten auf … Seine Hände
 um krampften die Sessellehnen … So beugte er sich vor.
 In seinem Gesicht ging eine auffallende Veränderung vor
-Dosis … Es war, als ob all daß Unsichere, Ängstliche, Grüb-lerische
+Dosis … Es war, als ob all daß Unsichere, Ängstliche, Grüblerische
 plötzlich weggewischt war …
 
 »Guiseppe …!!« rief er. »Ah — mein Hirn ist von
