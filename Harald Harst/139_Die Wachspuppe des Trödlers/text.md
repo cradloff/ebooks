@@ -14,7 +14,7 @@ Folgen haben würde.
 
 Eine Depesche eines der hiesigen Großkaufleute, der den
 poetischen Namen Ali Akba Mansur-Chatta führte, hatte uns
-hierher geraten. Wir waren spät abends mit dem Zuge
+hierher gerufen. Wir waren spät abends mit dem Zuge
 von Madras eingetroffen, hatten im Hotel d’Angleterre gut
 geschlafen und wollten uns jetzt den interessantesten Teil von
 Haidarabad, die Basare, ansehen, bevor wir Mansur-Chatta
@@ -38,16 +38,17 @@ anzündete:
 
 Ich lachte …
 
-»Kehren wir um … Es stinkt fürchhterlim …!«
+»Kehren wir um … Es stinkt fürchterlich …!«
 
 Wir wollten umkehren …
 
 Wollten …
 
 Da sagte Harst in gänzlich verändertem Tone:
+
 »Sieh nur, mein Alter … Da lehnt neben der Ladentür
 eines Trödlers eine Wachspuppe im Kostüm einer
-Bierreise …! Tage ist eigentlich Rissig …! Das Ding
+Pierrette …! Das ist eigentlich ulkig …! Das Ding
 stammt doch sicher aus einem europäischen Wachsfigurenkabinett
 …«
 
@@ -65,11 +66,11 @@ Harald, die Zigarette im Mundwinkel, schaute sich nun
 auch die übrigen Dinge an, die der vorläufig unsichtbare
 Trödler auf langen Bänken ausgestellt hatte.
 
-Da gab es uralte silberne Teller und Krüge, Stein-Wassen,
-goldgewirkte große, Elfenbeinkästen, reich geschnitzte
+Da gab es uralte silberne Teller und Krüge, Steinwaffen,
+goldgewirkte Stoffe, Elfenbeinkästen, reich geschnitzte
 Truhen … Dicht dabei Körbe mit frischen Früchten, einen
-Käfig mit drei Brillenschlangen, einen andern mit einen!
-zahmen Ichhneumonpärchen …
+Käfig mit drei Brillenschlangen, einen andern mit einem
+zahmen Ichneumonpärchen …
 
 Der richtige Trödelkram …
 
@@ -77,7 +78,7 @@ Eine der vergoldeten roten Tonvasen erregte Harsts
 Interesse. Er nahm sie von dem Gestell herab und betrachtete
 sie …
 
-»Ohr, mein Alter … Und mindestens fünfhundert
+»Echt, mein Alter … Und mindestens fünfhundert
 Jahre gebe ich ihr … Hier siehst Du mitten in allerlei
 Blüten den Gott Buddha schweben …«
 
@@ -90,7 +91,7 @@ wäre …
 
 Das hieß: Herr, alles anschaun, nichts berühren!
 
-In der Tür, über der ein schadhastes Sonnensegel hing,
+In der Tür, über der ein schadhaftes Sonnensegel hing,
 war ein graubärtiger Inder mit mächtiger Hakennase
 erschienen.
 
@@ -111,7 +112,7 @@ Der Alte lächelte verächtlich …
 Dann nimm sie mit …«
 
 Harst hatte die Vase, die unten sehr dickbauchig war und
-deren schlanker Hals oben einen breiten vergoldeten ging
+deren schlanker Hals oben einen breiten vergoldeten Ring
 trug, nochmals genau geprüft.
 
 Zu meinem Erstaunen erklärte er nun, er würde zehn
@@ -122,15 +123,15 @@ Vase …
 
 »Sie ist in Golkonda von mir persönlich ausgegraben
 worden, Sahib,« meinte er gereizt. »Ich kenne ihren
-er! …«
+Wert …«
 
 Und mit einer Rücksichtslosigkeit, wie man sie sonst bei
 indischen Kaufleuten kaum findet, riß er sie Harst aus den
 Händen. —
 
 Einer jener Zufälle, die jeden denkenden Menschen
-immer von neuem an das Warten einer besonderen Vorsehung
-gemahnen, führte in diesem Augenblick einen reich-gekleideten
+immer von neuem an das Walten einer besonderen Vorsehung
+gemahnen, führte in diesem Augenblick einen reichgekleideten
 Inder vorüber, dem zwei eingeborene Diener
 folgten.
 
@@ -151,9 +152,9 @@ Mansur-Chatta?! — Also unser Mann — der Absender
 der kurzen und doch inhaltreichen Depesche …
 
 Schon wollte ich den reichen Kaufmann ansprechen, als
-Harst ihm den Rücken aufschrie und sehr laut sagte:
+Harst ihm den Rücken zukehrte und sehr laut sagte:
 
-»Günfzehn Pfund, Mawesa …! — Rache die Vase
+»Fünfzehn Pfund, Mawesa …! — Packe die Vase
 ein …«
 
 Mansur-Chatta war weitergegangen, hatte Harsts Worte
@@ -185,24 +186,24 @@ Krampf …
 Noch immer starrte er hinter Mansur-Chatta her …
 
 »Fünfzig Pfund, Sahib … fünfzig!« kreischte er dann
-»Jetzt fünfzig …!« Und ein diabolisches Lachen
+… »Jetzt fünfzig …!« Und ein diabolisches Lachen
 kollerte über seine Lippen …
 
 Harst blieb ruhig.
 
-»du hast vierzig gefordert … Du kannst steht nicht
+»du hast vierzig gefordert … Du kannst jetzt nicht
 aus … irgendwelchen Gründen den Preis willkürlich erhöhen
-… Bier sind vierzig Pfund …«
+… Hier sind vierzig Pfund …«
 
 <@pagebreak/>
 Der Trödler warf ihm einen Blick zu, der noch frecher
-war als vorhin dieses Ausschreiben der Vase …
+war als vorhin dieses Ansichreißen der Vase …
 
-»Ich habe mich geirrt, Sahib … sich meinte fünfzig
+»Ich habe mich geirrt, Sahib … Ich meinte fünfzig
 Pfund …« rief er keuchend. »Fünfzig Pfund habe ich
 stets gefordert …«
 
-»Jetzt entdeckt Du sie nur, Mawesa, weil Du Mansur-Chatta
+»Jetzt forderst Du sie nur, Mawesa, weil Du Mansur-Chatta
 haßt und weil Du ergrimmt bist, daß er für Dich
 eintrat …« Haralds Stimme war kühl und ohne Groll.
 »Dein Haß gegen ihn ist größer als Deine Vernunft. Zwar
@@ -213,7 +214,7 @@ Deine Vase …«
 Der Trödler hatte Harst verblüfft angeschaut. Er sah,
 daß hier jemand seine geheimsten Gedanken erraten hatte.
 Seine Schultern sanken herab. Die ganze hagere Gestalt
-bekam etwas Hilfloscs … Ein fast blödes rütteln spielte
+bekam etwas Hilfloses … Ein fast blödes Lächeln spielte
 um seinen Mund …
 
 »Sahib … Sahib, Du … Du scherzest … Mansur
@@ -221,15 +222,15 @@ und ich sind Hindu und gehören derselben Kaste an … Wir
 sind Freunde. Jeder weiß das hier …«
 
 Er log. Er suchte den Eindruck zu verwischen, als ob
-er den reichen Kaausmann mit häßlichen geheimen je
-Banken umgab …
+er den reichen Kaufmann mit häßlichen geheimen
+Gedanken umgab …
 
 »Mag sein,« sagte Harald. »Mansur wohnt hier in
 der Nähe?«
 
 »Es ist so, Sahib,« beeilte sich der Trödler zu erwidern.
-»Dort am Ende der Gasse sicher Du eine Gartenmauer
-Taktik … Dahinter liegt Mansurs Haus … Seinen
+»Dort am Ende der Gasse siehst Du eine Gartenmauer
+Sahib … Dahinter liegt Mansurs Haus … Seinen
 Laden hat er in der breiten Basarstraße …«
 
 Und nach kurzer Pause:
@@ -237,32 +238,32 @@ Und nach kurzer Pause:
 »Da — nimm die Vase, Sahib … zahle dreißig Pfund
 … Nimm sie … Ich bitte Dich …«
 
-Inzwischen hatte gibt um uns und den Trödler eine
-ganze Schar jener halbnackten indischen Augen versammelt,
-die in nichts von der Stiuraßenjugend »derer Erdteile
-sich unterscheiden. Sie lärmten und soll:1.Co und bettelten
+Inzwischen hatte sich um uns und den Trödler eine
+ganze Schar jener halbnackten indischen Rangen versammelt,
+die in nichts von der Straßenjugend anderer Erdteile
+sich unterscheiden. Sie lärmten und johlten und bettelten
 <@pagebreak/>
-uns um kleine Münzen an. Aber nach anderes taten sie, was
+uns um kleine Münzen an. Aber auch anderes taten sie, was
 uns bewies, daß Mawesa hier durchaus nicht beliebt war.
-Einige der hossnungö8vollen Bengel machten dem Alten —
+Einige der hoffnungsvollen Bengel machten dem Alten —
 genau wie bei uns daheim — lange Nasen und ahmten seine
 Handbewegungen und seine vorgestreckte Kopfhaltung nach.
 
 Der Trödler geriet plötzlich in Wut, als ihm nun einer
-der braunen Knirpse sogar ein Stück Anänasschale an den
+der braunen Knirpse sogar ein Stück Ananasschale an den
 Kopf warf.
 
 Mit einem schrillen Schrei packte er ein neben der Tür
-lehnendes langes Bambiusrohr und lies hinter der flüchtenden
+lehnendes langes Bambusrohr und lief hinter der flüchtenden
 Schar drein.
 
 Wir sahen jetzt: Mawesa hinkte stark!
 
-aber ich sah Notar mehr …
+aber ich sah noch mehr …
 
 Harald war rasch auf die Wachspuppe zugetreten und
-drohte mit dem Nagel des Zeigefingers die Oberschicht des
-Fuchses von dem nahten linken Unterarm ab …
+kratzte mit dem Nagel des Zeigefingers die Oberschicht des
+Wachses von dem nackten linken Unterarm ab …
 
 Ich wunderte mich …
 
@@ -283,9 +284,9 @@ sich ernstlich verletzt haben, da er sich gar nicht rührte …
 
 Die Kinder hatten inzwischen die Mauer des Gartens
 Mansur-Chattas erklettert und saßen auf der Mauerkrone
-aufgereiht wie sechs Knaben …
+aufgereiht wie freche Spatzen …
 
-Zwischen den Scherben der Vase aber dritte und
+Zwischen den Scherben der Vase aber blitzte und
 blinkte es …
 
 Harst hatte sich blitzschnell gebückt …
@@ -299,8 +300,8 @@ Laden. Obwohl in den Türen der anderen Häuschen der
 Gasse jetzt überall Leute erschienen waren, hatte auch nicht
 ein einziger Miene gemacht, dem Trödler beizuspringen.
 
-Wir beide legten den bei Du stiegen auf eines jener
-niederen Rohrsofas, wie sie im Teint gleichzeitig als Betten
+Wir beide legten den Bewußtlosen auf eines jener
+niederen Rohrsofas, wie sie im Orient gleichzeitig als Betten
 dienen.
 
 Harst wollte nach Wasser und einem Tuche sich umsehen,
@@ -309,22 +310,22 @@ um die Stirnwunde zu säubern …
 Er verschwand hinter einem Vorhang … Diese Tür
 ging offenbar in die anderen Räume des Häuschens.
 
-reich wartete und wartete …
+Ich wartete und wartete …
 
 Harald kehrte nicht zurück …
 
-Irr wurde unruübig …
+Ich wurde unruhig …
 
 Endlich erschien er mit einer Schüssel Wasser und einem
 sauberen Handtuch …
 
-»Wo warst Du?« platte ich heraus.
+»Wo warst Du?« platzte ich heraus.
 
-Ein merfwürdiager Blick traf mich …
+Ein merkwürdiger Blick traf mich …
 
-Dann öffnete er dem Trödler den schmierigen »Alter auf
+Dann öffnete er dem Trödler den schmierigen Kittel auf
 der Brust, holte ein Fläschchen aus der Tasche hervor, nahm
-sein eigenes bastseidenes Taschentuch, leuchtete es mit dem
+sein eigenes bastseidenes Taschentuch, feuchtete es mit dem
 Inhalt des Fläschchens an und rieb eine Stelle der Haut
 an den linken Rippen so lange, bis … das Braun der
 Haut heller und heller wurde.
@@ -332,26 +333,26 @@ Haut heller und heller wurde.
 Ich stand dabei und werde wahrscheinlich den Mund
 vor Staunen weit offen gehabt haben …
 
-Mawesa — — War kein Inder!
+Mawesa — — war kein Inder!
 
-Mawesa war ein alter gefärbten Europäer … [
+Mawesa war ein alter gefärbten Europäer …!!
 
 <h2>2. Kapitel.</h2>
 
 <h3>Das Kind mit dem Käfer-Mal.</h3>
 
 Harald zog wortlos den Kittel über der Brust des
-Trödlers wieder zusammen, stete sein beschmutbtes Taschen
-wich ein und legte vielsagend den Zeigefinger auf die
+Trödlers wieder zusammen, steckte sein beschmutztes Taschentuch
+ein und legte vielsagend den Zeigefinger auf die
 Lippen …
 
 <@pagebreak/>
 Zum Glück …
 
-Denn jetzt nahm ich etwas wahr, das dieses Erlebri9
-Satanas bedeutsamer machte: hinter dem Vorhang der Tür-öSisnung
+Denn jetzt nahm ich etwas wahr, das dieses Erlebnis
+noch bedeutsamer machte: hinter dem Vorhang der Türöffnung
 stand ein Mensch und horchte …! Ich sah unten
-ein paar dicbesohlte Schuhe, wie die Chinesen sie zu tragen
+ein paar dickbesohlte Schuhe, wie die Chinesen sie zu tragen
 pflegen … Der Vorhang bewegte sich ganz wenig.
 
 Da rief Harald schon:
@@ -360,52 +361,53 @@ Da rief Harald schon:
 
 Die Schuhe verschwanden …
 
-Eine setzte Stimme antwortete aus einiger Entfernung:
+Eine fette Stimme antwortete aus einiger Entfernung:
 
 »Tsundsi schon kommen, Mister … Tsundsi da sein …«
-Wind jetzt trat Herr Tsundsi hinter dem hier Vorhang
+
+Und jetzt trat Herr Tsundsi hinter dem dicken Vorhang
 hervor …
 
 Das heißt: er trat nicht! Nein, er wälzte seine fast
-drei Zentner Fettmasse keuchend und pustend vorwärts -.!—
+drei Zentner Fettmasse keuchend und pustend vorwärts …! —
 
 Es gibt unter den Chinesen ja manchen Fettwanst.
 Dieser hier war eine Klasse für sich …! Selbst auf deutschen
 Jahrmärkten dürfte man derartiges nie zu sehen bekommen
 …!
 
-Herr Tsundsi markierte je?! einen ungeheuren Schreck
+Herr Tsundsi markierte jetzt einen ungeheuren Schreck
 beim Anblick des ohnmächtigen, blutigen Trödlers, bei dem
 er, wie ich dann erfuhr, Koch, Hausdiener und Verkäufer —
 alles in einer Person — war.
 
 Herr Tsundsi wurde jedoch bei diesem kläglichen Versuch,
 rührende Teilnahme für den Unfall seines Herrn zu
-heucheln, durch Harald gestört, der ihn barsch auftaucht:
+heucheln, durch Harald gestört, der ihn barsch anfuhr:
 
 »Du hast gelauscht … Du standest hinter dem Vorhang
 … Der Vorhang hat ein Loch. Du sahst, daß ich …«
 
-Herr Eirunder röchelte dazwischen …
+Herr Tsundsi röchelte dazwischen.
 
 »Mister, — Vorhang keine Loch … Tsundsi ohne
 Brille blind …« — Und er zog aus seiner Leinenjacke, in
 der fünf normale Oberkörper Platz gehabt hätten, eine
-moderne Horinbrißse hervor und echte sie auf die
+moderne Hornbrille hervor und setzte sie auf die
 Stupsnase …
 
-»Hm …1« meinte Harald bedächtig, »wenn Du ohne
+»Hm …!« meinte Harald bedächtig, »wenn Du ohne
 Deine Brille so blind bist, weshalb hast Du dann soeben so
 <@pagebreak/>
 getan, als ob Deines Herrn Anblick Dich so ungeheuer
 entsetzt?!«
 
-Herr Tsundsi lächelte Hauch …
+Herr Tsundsi lächelte schwach …
 
-»Mister mir erzählten, was mit Mcwesa geschehen …
+»Mister mir erzählten, was mit Mawesa geschehen …
 Für treuen Diener Pflicht sein zu erschrecken …«
 
-»Ab so! — Zeig’ mal Deine Brille her …«
+»Ah so! — Zeig’ mal Deine Brille her …«
 
 Tsundsi gehorchte …
 
@@ -416,19 +418,19 @@ Und trat hinter den Vorhang, suchte dort nach einem
 Guckloch, kehrte beruhigt zurück und meinte:
 
 »Mawesa wird sehr bald wieder zu sich kommen …
-Kühle ihm nur die verletzte Stirn und sorge dafür, daß
-sich ein paar Tage schont …“«
+Kühle ihm nur die verletzte Stirn und sorge dafür, daß er
+sich ein paar Tage schont …«
 
-Herr Tsundsi katßzbuckelte, soweit ihm dies bei seiner
+Herr Tsundsi katzbuckelte, soweit ihm dies bei seiner
 Dicke möglich war …
 
 »Mister, wollen mir vielleicht sagen, wo Mawesa sich
 bedanken können, wenn wieder gesund sein …«
 
 »Wir sind … Amerikaner und reisen heute noch ab …
-Dein Herr braucht sich also nicht zu bemühen … y Hier
-— Übergib ihm diese dreißig Pfund … Es ist der Preis
-für die Buddhavase … — Leb’ wohl, Tsundsi.,.«
+Dein Herr braucht sich also nicht zu bemühen … Hier
+— übergib ihm diese dreißig Pfund … Es ist der Preis
+für die Buddhavase … — Leb’ wohl, Tsundsi .,.«
 
 Wir verließen den Laden …
 
@@ -437,18 +439,18 @@ der Vase die ganze Nachbarschaft versammelt hatte … Man
 redete da laut und eifrig, verstummte aber bei unserem
 Erscheinen …
 
-Harst winkte einen kleinen älteren Inder heran, bei
-noch das Zeichen seines Handtverk3, den Schusterhammer, in
+Harst winkte einen kleinen älteren Inder heran, der
+noch das Zeichen seines Handwerks, den Schusterhammer, in
 der Hand hielt …
 
 »Ist Mawesas Chinese kurzsichtig?« fragte er den
-Hindu, der die Brabhmanenschhnur um den Hals trug, also
+Hindu, der die Brahmanenschnur um den Hals trug, also
 der vornehmsten Kaste angehörte.
 
-»Wir kennen weder Malaria noch seinen Diener,« erklärte
+»Wir kennen weder Mawesa noch seinen Diener,« erklärte
 der Inder verächtlich.
 
-»je:t wann wohnt Mawesa in dieser Gasse?«
+»Seit wann wohnt Mawesa in dieser Gasse?«
 
 <@pagebreak/>
 »Zehn Jahre vielleicht, Sahib …«
@@ -464,16 +466,16 @@ Dieser Ausdruck war selbst Harald neu …
 
 »Barandi? Das bedeutet?«
 
-Der kleine Schuhmacher wurde Chinas verlegen …
+Der kleine Schuhmacher wurde etwas verlegen …
 
 »Sahib, wir nennen solche Leute Barandi, die es heimlich
 mit den Mohammedanern halten …«
 
 »Also — ein Abtrünniger?«
 
-Der Schulter schwieg und blickte zur Seite. Er war vornehmlich.
+Der Schuster schwieg und blickte zur Seite. Er war vorsichtig.
 Im Staate Haidarabad gibt es zwar unter den elf
-Millionen (Einwohnern nur anderthalb Millionen Mohammedaner.
+Millionen Einwohnern nur anderthalb Millionen Mohammedaner.
 Aber der Fürst, der Nizam, und die höchsten Beamten,
 sind sämtlich Anhänger der Lehre des Propheten. Und deshalb
 mochte der kleine brahmanische Schuhkünstler hier nicht
@@ -487,12 +489,12 @@ Wir kamen in die breiteren Gassen des Basarviertels.
 Hier herrschte ein anderes Leben und Treiben als dort
 in dem stinkenden Gäßchen Mawesas. Hier fluteten zwei
 Menschenströme aneinander vorüber, hier gaben sich alle die
-Volköstämme Indiens, all die verschiedenen Vertreter der
+Volksstämme Indiens, all die verschiedenen Vertreter der
 Nachbarländer und zahlreiche Touristen ein Stelldichein …
 
-Hier lag auch Mansur-Chattas Geschästö8haus — mit
-»drei Fenstern nach der Straße hin, in denen vom einfachsten
-stets bis zum kostbaren Kaschhmirschal alle Gewebe ausgelegt
+Hier lag auch Mansur-Chattas Geschäftshaus — mit
+drei Fenstern nach der Straße hin, in denen vom einfachsten
+Stoff bis zum kostbaren Kaschmirschal alle Gewebe ausgelegt
 waren. —
 
 Mansur-Chatta wurde erst aus den Lagerräumen herbeigeholt,
@@ -503,12 +505,12 @@ Es gibt unter den Indern viele mit sehr heller
 Hautfarbe und mit völlig europäischem Gesichtsschnitt.
 
 <@pagebreak/>
-Mansur hätte jeder bei flüchtigen Blick für einen Spanier
+Mansur hätte jeder bei flüchtigem Blick für einen Spanier
 oder Italiener gehalten. Sein grauer Bart war spitz
-geschnitten. sein Turban klein und unauffällig. Lediglich
+geschnitten, sein Turban klein und unauffällig. Lediglich
 seine indische Tracht verriet seine Herkunft.
 
-Als er uns nun, ohne aus Vüöflichkeit nach unseren
+Als er uns nun, ohne aus Höflichkeit nach unseren
 Namen zu fragen, in sein Privatkontor geführt hatte, als
 wir hier in dem ganz modern eingerichteten Räume allein
 waren, reichte Harald dem indischen Großkaufmann die
@@ -521,24 +523,24 @@ Das Telegramm lautete:
 <p class="right">Excelsior-Hotel.</p>
 
 > Ich bitte Sie, für mich in dringender Angelegenheit
-unauffällig tätig zu sein und Weise Ihnen gleichzeitig
+unauffällig tätig zu sein und weise Ihnen gleichzeitig
 fünfhundert Pfund an.
 
 <p class="right pre">Mansur-Chatta,
 Haidarabad,
-Exvportgechäft.</p>
+Exportgeschäft.</p>
 
 Was dieser Depesche für uns ein besonderes Gewicht
-verließen hatte, waren die fünfhundert Pfund und der
+verliehen hatte, waren die fünfhundert Pfund und der
 Ausdruck »unauffällig« … — Nur ein Mann, dem gleichsam
 das Feuer auf den Nägeln brennt, wird eine solche
 Summe so ohne weiteres hingeben. —
 
-Mansur war durchaus nicht- überrascht, Harst und
+Mansur war durchaus nicht überrascht, Harst und
 Schraut vor sich zu sehen.
 
 »Ich habe mir gedacht, daß Sie es seien, Mr. Harst,«
-meinte er mit der Liceben3wäürdigkeit des gewandten Weltmannes.
+meinte er mit der Liebenswürdigkeit des gewandten Weltmannes.
 
 »Wollen die Herren bitte Platz nehmen …«
 
@@ -558,23 +560,23 @@ uns drehte sich ein riesiger Ventilator …
 
 »Was ich erwartet hatte …!«
 
-»Ja — einer Nichtigkeit wegen hätte im Sie kaum her-bemüht
+»Ja — einer Nichtigkeit wegen hätte ich Sie kaum herbemüht
 …« nickte der Hausherr ernst. »Gestatten Sie,
 daß ich etwas weiter aushole, Mr. Harst … Ich heiratete
 mit dreißig Jahren eine Europäerin, eine Österreicherin …
 Sie war die Tochter eines Schiffskapitäns. Ich lernte sie
 in Madras kennen. Meine Ehe mit Anna Geldern war und
-ist noch: heute die denkbar glücklichste. Leider aber verloren
+ist noch heute die denkbar glücklichste. Leider aber verloren
 wir unsere beiden Kinder, zwei Töchter, vor zwölf Jahren …
-Dieser Schlag hat mich vorzeitig allein lassen. Ich bin
-Heute erst fünfzig Jahre alt und sehe fast wie ein Greis
+Dieser Schlag hat mich vorzeitig altern lassen. Ich bin
+heute erst fünfzig Jahre alt und sehe fast wie ein Greis
 aus …«
 
 »Sie irren,« warf Harald ein. »Ihre Augen sind
-jung. … Der graue Bart konnte mich nicht täuschen …«
+jung … Der graue Bart konnte mich nicht täuschen …«
 
 »Unsere Töchter waren damals sieben und acht Jahre
-alt, als sie uns kurz hintereinander durch) ein Nervenfieber
+alt, als sie uns kurz hintereinander durch ein Nervenfieber
 entrissen wurden … Weitere Kinder blieben uns versagt.
 Deshalb gingen meine Frau und ich — Anna ist übrigens
 zu meinem Glauben Übergetreten — längst mit der Absicht
@@ -588,7 +590,7 @@ enthielt:
 > »Dieses Kind soll Mansur-Chatta gehören, wenn er
 verschweigt, daß das Kind bei ihm ist.«
 
-Der Inhalt dieses Zettels Seite mich in Erstaunen.
+Der Inhalt dieses Zettels setzte mich in Erstaunen.
 Denn …«
 
 »Halt — haben Sie den Zettel noch?« fragte Harald
@@ -596,64 +598,64 @@ gespannt.
 
 »Bitte …«
 
-Ich Küche mit meinem 1 Sessel näher zu Harst heran.
+Ich rückte mit meinem Sessel näher zu Harst heran.
 
 Wir besichtigten das Blatt Papier. Die lila Maschinenschrift
 <@pagebreak/>
-war sehr fehlerhaft. Der Schreiber hatte Ost daneben
+war sehr fehlerhaft. Der Schreiber hatte oft daneben
 gehauen.
 
 »Weiter …« bat Harald …
 
-»Meine Frau war überglüc?! ich Mr. Harst, denn der
+»Meine Frau war überglücklich Mr. Harst, denn der
 Knabe war ein kleiner reizender blonder Europäer …
 Als er zum erstenmal gebadet wurde, ereignete sich etwas
 sehr Beunruhigendes: meine Frau fiel plötzlich in Ohnmacht!
-—“- Ich war dabei, und als ich sie wieder zum Bewußtsein
-gebracht hätte, sagte sie mir unter Tränen, der unbekannte
-Knabe hätte genau dasselbe Muttermal zwischen den Schul-terblättern
+— Ich war dabei, und als ich sie wieder zum Bewußtsein
+gebracht hatte, sagte sie mir unter Tränen, der unbekannte
+Knabe hätte genau dasselbe Muttermal zwischen den Schulterblättern
 auf dem Rücken wie sie selbst: ein Mal in Form
 eines Käfers mit sechs Beinen! — Und — es war Tatsache,
 Mr. Harst … Ich sah mir das Muttermal des Kindes
-an … 8 stimmte: genau dasselbe braune Mal in
+an … Es stimmte: genau dasselbe braune Mal in
 Daumengliedgröße!«
 
-bisher hatte mich diese Kindersund-Geschichte nicht allzu
-sehr interessiert. selbst aber sollte ich doch die Ohren …
+bisher hatte mich diese Kinderfund-Geschichte nicht allzu
+sehr interessiert. Jetzt aber spitzte ich doch die Ohren …
 
-Mansur sprach weiter: »Wir, haben das Kind behalten,
+Mansur sprach weiter: »Wir haben das Kind behalten,
 Mr. Harst … Unsere Dienerschaft ist verschwiegen …
 Und doch können wir nicht recht froh über diese unerwartete
-Erfüllung unseres scehnlichsten Wunsches werden … Ich
+Erfüllung unseres sehnlichsten Wunsches werden … Ich
 bitte Sie daher, feststellen zu wollen, woher das Kind
 stammt, wem es geraubt wurde, — denn ich kann ja nur
-annehmen, daß es gestohlen worden ist. Welch4 europäisches
+annehmen, daß es gestohlen worden ist. Welch europäisches
 Elternpaar entäußert sich freiwillig eines so reizenden
 Knäbleins?! — Erst wenn Ihre Bemühungen, Mr. Harst,
 erfolglos geblieben sind, werde ich mit ruhigem Gewissen der
 Polizei den Sachverhalt melden und beantragen, daß man
-mir das Kind befahl. Ich bemerke noch4, daß in den hiesigen
+mir das Kind beläßt. Ich bemerke noch, daß in den hiesigen
 Zeitungen nichts von einer Kindesentführung gestanden
-Tat Ah habe mir auch aus Kalkutta Zeitungen schicken
+hat. Ich habe mir auch aus Kalkutta Zeitungen schicken
 lassen …«
 
 Harald nickte …
 
 »Ich verstehe Sie, Mansur-Chatta … Wenn Sie der
-Polizei nachher beweisen können, daß ich erfolglos t:c Eltern
-des Knaben herauszufinden mich bemühte, kann innen niemand
+Polizei nachher beweisen können, daß ich erfolglos die Eltern
+des Knaben herauszufinden mich bemühte, kann ihnen niemand
 <@pagebreak/>
 den Vorwurf machen, unrecht gehandelt zu haben …
-— ich übernehme den Austrag … Ich möchte sowohl Ihre
+— Ich übernehme den Auftrag … Ich möchte sowohl Ihre
 Gattin als auch das Kind kennen lernen, möchte auch den
 Kasten und die Wäsche sehen, in die das Kind gehüllt war …
-—“- Wenn es Ihnen recht ist, begeben wir uns sofort nach
+— Wenn es Ihnen recht ist, begeben wir uns sofort nach
 Ihrem Wohnhause. dieser Fall erregt mein Interesse. Wenn
 das Muttermal, das doch offenbar eine sehr merkwürdige
 Form hat, bei Ihrer Gattin und dem Knäblein das gleiche
-ist, dürften hier Zusammenhänge vorhanden sein, die … -
+ist, dürften hier Zusammenhänge vorhanden sein, die … —
 doch — davon später … Gehen wir, Mansur … Aber
-getrennt … Es braunhcht niemand zu wissen, daß ich für
+getrennt … Es braucht niemand zu wissen, daß ich für
 Sie tätig bin. Wir sind auch im Hotel d’Angleterre hier
 unter anderen Namen als Kaufleute abgestiegen. Der
 Hoteldirektor, der uns allerdings kennt, verrät uns nicht …«
@@ -664,11 +666,11 @@ Hoteldirektor, der uns allerdings kennt, verrät uns nicht …«
 
 Mansur-Chattas großer Garten — nein, ein Park …
 
-Ein Märchen von Park … ohne Oase in diesen engen
+Ein Märchen von Park … Eine Oase in diesen engen
 winkligen Gassen …
 
 Mansurs enormen Reichtum bewies dieser Park. Auch
-seinen vowmnehmen Geschmack …
+seinen vornehmen Geschmack …
 
 Und im Nordwinkel dieses grünen Wunders ein großer
 Marmorpavillon … Dort wohnte das unbekannte Knäblein
@@ -687,10 +689,10 @@ berückender … —
 <@pagebreak/>
 Eine breite Marmortreppe führte zur Terrasse des sogenannten
 Pavillons empor … Sogenannten: es war
-nicht ein reizender winziger Palast!
+mehr ein reizender winziger Palast!
 
-Frau Anna und Harald verschwunden schon hinter der
-neben Glastür, als Mansur und ich erst die untersten
+Frau Anna und Harald verschwanden schon hinter der
+hohen Glastür, als Mansur und ich erst die untersten
 Treppenstufen erreicht hatten …
 
 Und dann — — dort oben ein Schrei …
@@ -699,13 +701,13 @@ Ein Schrei des Entsetzens — der Angst …
 
 Wir stürmen die Treppe empor …
 
-Frau Anna ruht bewußtlos in Harsts Amen …
+Frau Anna ruht bewußtlos in Harsts Armen …
 
-Auf dem kostbaren Basttieppich der Vorhalle aber liegen
+Auf dem kostbaren Bastteppich der Vorhalle aber liegen
 zwei Inderinnen — scheinbar tot — zusammengekrümmt …
 Die beiden Wärterinnen!
 
-Und daneben eine Kinderspielhürde, ein weißes Holz-girterviereck
+Und daneben eine Kinderspielhürde, ein weißes Holzgitterviereck
 …
 
 Spielzeug darin aller Art …
@@ -714,34 +716,34 @@ Aber — leer die Hürde …
 
 Das unbekannte Kind ist geraubt worden.
 
-Mansur-Chatta ist grau im Gesicht … Mit ankernden
-Höänden nimmt er Harald die Bewußtlose ab, trägt sich in
+Mansur-Chatta ist grau im Gesicht … Mit zitternden
+Händen nimmt er Harald die Bewußtlose ab, trägt sie in
 eins der drei Gemächer des kühlen Steinpavillons …
 
 Wir sind allein. Harald kniet neben einer der Wärterinnen
 …
 
-»Betäubt,« sagt er und deutet aus ein Tischchen, wo noch«
+»Betäubt,« sagt er und deutet auf ein Tischchen, wo noch
 zwei halb geleerte Gläser stehen.
 
 Limonade der Inhalt …
 
-Harst schmeckt vorsichtig, nie?! …
+Harst schmeckt vorsichtig, nickt …
 
 »Es stimmt schon …« meint er. »Es mußte ja auch
-Stimmen …
+stimmen …
 
-Mansur fehlt zurück … »Sie ist schon wieder erbaut,
+Mansur kehrt zurück … »Sie ist schon wieder erwacht,
 Mr. Harst … — Sie hat das Kind wie ihr eigen
 Fleisch und Blut geliebt …«
 
-»Trösten Sie sie, Mansur … — Sie wird das hin«
-aferhalien … — Und — schweigen Sie …! Tote
-Wärterinnen werden ebenfalls wieder zi: sich kommen
-See werden aber kaum erkannt aussaqQ « können. Irgend
+»Trösten Sie sie, Mansur … — Sie wird das Kind
+zurückerhalten … — Und — schweigen Sie …! Die
+Wärterinnen werden ebenfalls wieder zu sich kommen …
+Sie werden aber kaum etwas aussagen können. Irgend
 <@pagebreak/>
-jemand hat heimlich ein Betäubungsömittel in die Limonade
-getan … Irgend jemand … — Ah möchte Sie noch
+jemand hat heimlich ein Betäubungsmittel in die Limonade
+getan … Irgend jemand … — Ich möchte Sie noch
 etwas fragen, Mansur, bevor ich diese Halle hier genau
 durchsuche …«
 
@@ -752,13 +754,13 @@ ihnen …«
 
 »Nein …!«
 
-»las heißt: Sie wissen nichts davon … Ich unserer
+»Das heißt: Sie wissen nichts davon … Ich möchte
 Ihre Gattin dann besser persönlich fragen — nachher …
 — Woher kennen Sie den Trödler Mawesa?«
 
 »Eigentlich kenne ich ihn überhaupt nicht … Ich
-grüße ihn nur, weil ich jeden Tag daß Gäßchen Achtmal?
-passiere und weil er mir Weltruf … Seine Nachbarn hassen
+grüße ihn nur, weil ich jeden Tag das Gäßchen mehrmals
+passiere und weil er mir leidtut … Seine Nachbarn hassen
 ihn insgeheim …«
 
 Diese Antwort überraschte selbst Harald …
@@ -766,44 +768,44 @@ Diese Antwort überraschte selbst Harald …
 »Haben Sie denn noch nie mit dem Trödler gesprochen,
 nie etwas mit ihm zu tun gehabt?«
 
-»nein — nie … !“«
+»nein — nie …!«
 
 »Dann führen Sie uns bitte zu Ihrer Frau …« —
 
-Frau Anna Mansur saß aufrecht auf dem kostbares
+Frau Anna Mansur saß aufrecht auf dem kostbaren
 Ruhebett … Sie starrte uns in hilfloser Verzweiflung
-entgegen, hob stehend die Hände und rief klagend:
+entgegen, hob flehend die Hände und rief klagend:
 
 »Mr. Harst, ich … ich muß das Kind wiederhaben …
 Mein Leben ist zerbrochen, wenn der Knabe mir …«
 
 Harald gab ihr schlicht die Hand …
 
-»Beruhigen Sie sich,« unterbrach er ihre erschütterndea
+»Beruhigen Sie sich,« unterbrach er ihre erschütternden
 Worte … »Ich pflege niemals etwas zu versprechen, was
 ich nicht halten kann: der Knabe wird Ihnen zurückgegeben
 werden. Nur eines verlange ich: volle Offenheit! Hatten
 Sie außer Mansur noch einen anderen Bewerber?«
 
-»Mehrere, Mr. Harst … Ein paar Seeleute, außer
-dem in meiner Heimatstadt Triest auch Herren aus anderer
-Berufszweigen. Wobhlslverstanden: keiner von ihnen hat wurde
-ie einen Antrag gemacht. Aber bemüht haben sich Diele
+»Mehrere, Mr. Harst … Ein paar Seeleute, außerdem
+in meiner Heimatstadt Triest auch Herren aus anderen
+Berufszweigen. Wohlverstanden: keiner von ihnen hat mir
+je einen Antrag gemacht. Aber bemüht haben sich viele
 um mich …«
 
 <@pagebreak/>
-»Und war einer darunter, dem Sie sehr viel Leiden-schaftlichkeit
+»Und war einer darunter, dem Sie sehr viel Leidenschaftlichkeit
 zutrauen, also ein Charakter, der durch Ihre
-Heirat zu heißer Eifersucht ansässig Herr worden sein konnte?«
+Heirat zu heißer Eifersucht aufgestachelt worden sein könnte?«
 
-Erst schüttelte Frau Anna ich:n tiefen Nachsinnen verneinend
+Erst schüttelte Frau Anna im tiefen Nachsinnen verneinend
 den Kopf. Dann aber sagte sie zaudernd:
 
 »Ja — einer meiner eifrigsten Verehrer in Triest war
 ein Arzt namens Geßner. Dieser Geßner hat einmal meinem
 Vater erklärt, er würde jeden töten, dem ich meine Hand
 zum Ehebunde reichen würde. Mein Vater drang damals
-sehr in:mich, Geßner zu heiraten, denn der Arzt war reich
+sehr in mich, Geßner zu heiraten, denn der Arzt war reich
 und angesehen. Ich weigerte mich, da der Mann mir unsympathisch
 war …«
 
@@ -812,12 +814,12 @@ war …«
 »Vielleicht fünfundvierzig Jahre, Mr. Harst …« —
 
 In diesem Moment dachte ich an den Trödler Mawesa
-… Mawesa war Europäer, — ob er er. ’a Geßner
+… Mawesa war Europäer, — ob er er etwa Geßner
 sein konnte?
 
 Inzwischen hatte Harald das halbe Verhör fortgesetzt …
 
-»Prau Mansur, vor eine indiäkretere Frage … —
+»Frau Mansur, noch eine indiskretere Frage … —
 Wie stellte sich Ihr Vater zu Ihrer Heirat mit einem Inder?«
 
 Sie senkte den Kopf, seufzte leise …
@@ -826,24 +828,24 @@ Sie senkte den Kopf, seufzte leise …
 sein einziges Kind … Er hing mit großer Liebe an mir …
 Aber als ich ihm dann mitteilte, daß ich Mansurs Gattin
 werden wollte, kam es zu einer schrecklichen Szene zwischen
-uns in der Kapitänskajüte seine Dampfers. Ich … ich
+uns in der Kapitänskajüte seines Dampfers. Ich … ich
 habe ihn nie mehr wiedergesehen … Er starb vor dreizehn
-Jahren in Triest … als armer Mann … erst nach hinein
-halben Jahr hörte im ganz zufällig etwas von seinem Hinscheiden
+Jahren in Triest … als armer Mann … erst nach einem
+halben Jahr hörte ich ganz zufällig etwas von seinem Hinscheiden
 …«
 
-Harst hatte sich an einen Tisch; Frau Anna gegenüber
+Harst hatte sich an einen Tisch Frau Anna gegenüber
 gelehnt und die Arme leicht über der Brust verschränkt …
 
 Sein von der Sonne Indiens tief gebräuntes Gesicht
-hatte jenen weltentrückten Ausdruck unserer. Co, der ihm
-stets eigen, wenn nur sein Leib sich gleiche?“« un Ort und
+hatte jenen weltentrückten Ausdruck angenommen, der ihm
+stets eigen, wenn nur sein Leib sich gleichsam an Ort und
 <@pagebreak/>
-Stelle befindet, sein Geist aber seine, verschlungene Pfade
+Stelle befindet, sein Geist aber ferne, verschlungene Pfade
 wandelt …
 
 Und aus diesem tiefsten Nachdenken heraus fragte er
-nach einer geraumen Weile mit seltsam monotoner Hirn;me;
+nach einer geraumen Weile mit seltsam monotoner Stimme:
 
 »Sind Sie, Frau Anna, schon häufiger durch das
 Gäßchen gegangen, in dem der Trödler Mawesa wohnt?«
@@ -861,15 +863,15 @@ seinem Schiff?«
 
 »Dann — dann werde ich jetzt die Halle durchsuchen …
 — Mansur, Sie tragen wohl die Wärterinnen in eines der
-immer hier … Und dann stören Sie uns bitte nicht.
-Schraut und ich) arbeiten niemals in Zeugen Gegenwart.
+Zimmer hier … Und dann stören Sie uns bitte nicht.
+Schraut und ich arbeiten niemals in Zeugen Gegenwart.
 Wir haben unsere besonderen Methoden, die jeden Zuschauer
 nur zu Überflüssigen Fragen verleiten würden …« —
 
 Zehn Minuten drauf war auch diese unsere Arbeit in
 der Vorhalle beendet. Wir hatten nichts entdeckt, das auch
 nur im geringsten auf die unbekannte Person hingewiesen
-hätte, die hier den Wärterinnen das Betäubungsmiittel in
+hätte, die hier den Wärterinnen das Betäubungsmittel in
 die Limonade geschüttet hatte.
 
 Harst rief Mansur herbei …
@@ -877,13 +879,13 @@ Harst rief Mansur herbei …
 »Begleiten Sie uns bitte in den Park, Mansur …
 Ich möchte an der Parkmauer nach Spuren suchen …«
 
-»Die Wärterinnen sind erwacht, Yr. Harst,« beeilte der
+»Die Wärterinnen sind erwacht, Mr. Harst,« beeilte der
 Inder sich mit der wichtigen Meldung. »Ich habe sie bereits
-au6Ggefraat … Es ist wirklich ein Fremder hier im Pavillon
+ausgefragt … Es ist wirklich ein Fremder hier im Pavillon
 gewesen, ein Europäer … Er hat den beiden Mädchen
 erklärt, er sei von meiner Frau geschickt und sei Polizeibeamter,
 der sich den Knaben ansehen wolle. Der Fremde
-war blondbärtig, trug den üblichen weißen Leinenanzug
+war blondbärtig, trug den üblichen weißen Leinenanzug,
 Strohhut und hatte eine Hornbrille auf. Er entfernte sich
 nach kurzer Zeit …«
 
@@ -892,36 +894,36 @@ nach kurzer Zeit …«
 dieser Europäer sehr wenig in seine bisherigen Kombinationen
 zu passen …
 
-Wir verließen den Pavillon und stritten dem Teile
-der alten, hohen Parkmauer zu, die, »dem Pavillon am
-nächsten, vom Wohnhause aber an! weitesten entfernt lag.
+Wir verließen den Pavillon und schritten dem Teile
+der alten, hohen Parkmauer zu, die dem Pavillon am
+nächsten, vom Wohnhause aber am weitesten entfernt lag.
 
-Harald winkte:Mansur und Kamin, zurückzubleiben. Tief
+Harald winkte Mansur und mir, zurückzubleiben. Tief
 gebückt ging er dicht an der Mauer entlang. Wir folgten …
 
 Mit einem Male zeigte sich in der verwitterten Steinmauer,
 die oben noch ein Eisengitter mit schrägen Spitzen
 hatte, hinter einem von Gebüsch verdeckten Berg welken
-Laubes und anderer Gartenabsälle eine kleine Holztür, der
+Laubes und anderer Gartenabfälle eine kleine Holztür, der
 man das ehrwürdige Alter sofort ansah.
 
-Das noch immer Seite Holztürchen war stellenweise mit
-ZBinkblecstreisen ausgeslic?! und hatte ein großes Kastenschloß.
+Das noch immer feste Holztürchen war stellenweise mit
+Zinkblechstreifen ausgeflickt und hatte ein großes Kastenschloß.
 
 »Wohin führt dieser Durchgang?« fragte Harst den
-Hausheraxn.
+Hausherrn.
 
 »Auf einen uralten kleinen mohammedanischen Friedhof,
-der mit zu meinem Grundstück gehört
+der mit zu meinem Grundstück gehört …«
 
-»Es stoßen noch andere Garten an »diesen »Friedhof?«
+»Es stoßen noch andere Gärten an diesen Friedhof?«
 
-»Gewiß — mindestens acht, Mr. Harst
+»Gewiß — mindestens acht, Mr. Harst …«
 
-»Bitte — noch eine Frage, Mansur …« »Grenzt auch
+»Bitte — noch eine Frage, Mansur … Grenzt auch
 des Trödlers Häuschen an den Friedhof?«
 
-»Ja. — Verzeihen Sie, Mr. Harst, hegen Sie denn
+»Ja … — Verzeihen Sie, Mr. Harst, hegen Sie denn
 irgend einen Verdacht gegen Mawesa?«
 
 »Vielleicht … — Wir brauchen Sie jetzt nicht mehr,
@@ -933,13 +935,13 @@ Schaute Harald bittend an …
 
 »Mr. Harst, Sie können es mir nicht verdenken, wenn
 ich … ja — wenn ich gern erfahren möchte, ob etwa der
-blonde Europäer, der den beiden Mädchen die LimonadL
+blonde Europäer, der den beiden Mädchen die Limonade
 vergiftete, jener Doktor Geßner gewesen sein kann …«
 
 Harald schüttelte den Kopf …
 
-»Das war niemals Geßner... das war … der
-Vater des Kindes, lieber Mansur … Uhr — der tat
+»Das war niemals Geßner… das war … der
+Vater des Kindes, lieber Mansur … Aber — der tat
 <@pagebreak/>
 das Betäubungsmittel nicht in die Limonade … Nein,
 eine andere Hand ist dafür verantwortlich …«
@@ -947,16 +949,16 @@ eine andere Hand ist dafür verantwortlich …«
 Ich machte jetzt ein genau so verblüfftes Gesicht wie
 Mansur …
 
-Wir beide hatten nicht an das Tächsitlegende gedacht:
+Wir beide hatten nicht an das Nächstliegende gedacht:
 an den Vater des Knaben!
 
-Flurtür stammelte …
+Mansur stammelte …
 
 »Also — — also … der Vater hat sich sein Kind
 zurückgeholt?«
 
-»Nein … So einsah ist das Geschehnis doch nicht
-zu Toten … Das Kind nahm der mit sich, der das
+»Nein … So einfach ist das Geschehnis doch nicht
+zu lösen … Das Kind nahm der mit sich, der das
 Betäubungsmittel der Limonade beimischte …
 
 »Aber — aber, — — die Mädchen sahen doch nur den
@@ -965,10 +967,10 @@ blonden Europäer — sonst niemand …«
 »Gewiß … Der Pavillon hat jedoch ein flaches Dach,
 und in diesem Dach befinden sich über der Vorhalle drei
 Klappfenster mit matten Scheiben … Wenn jemand auf
-das Dach geklettert ist, was durchaus nicht Schimmer sein dürfte,
+das Dach geklettert ist, was durchaus nicht schwer sein dürfte,
 dann konnte er — vielleicht mit einem langen Gummischlauch
 — bei einiger Geschicklichkeit eine Flüssigkeit in die
-Gläser fliehen lassen …«
+Gläser fließen lassen …«
 
 Mansurs Gesicht drückte jetzt nichts als Unglauben
 aus … Ihm kam diese Theorie Harsts offenbar zu phantastisch
@@ -986,46 +988,46 @@ Das Kastenschloß zu öffnen, war kein Kunststück.
 Die Tür ging auf — ganz geräuschlos …
 
 »Gut geölt,« lächelte Harald mir zu und deutete auf
-die eisernen Angeln. »Das Öl ist sogar herabgetropft« …«
+die eisernen Angeln. »Das Öl ist sogar herabgetropft …«
 
 Und nun lag da vor uns der alte Mohammedaner-Friedhof
 — eine romantische Wildnis mit hohen windschiefen
-Grabsteinen, mit riesigen Zypressen, mit ernsten Trauer-weiden,
+Grabsteinen, mit riesigen Zypressen, mit ernsten Trauerweiden,
 <@pagebreak/>
-mit Grabtafeln, die fast senkfrcchht standen, mit
-Dornengesträuch, unzähligen ’Slumen, halbmannshohen
+mit Grabtafeln, die fast senkrecht standen, mit
+Dornengesträuch, unzähligen Blumen, halbmannshohen
 Grasbüscheln …
 
 »Wirklich romantisch,« nickte Harst. »Besonders diese
-Staunen da … Man könnte sie einen Pfad nennen …
-aber ist jemand sehr häufig hin und her gegangen — —
+Spuren da … Man könnte sie einen Pfad nennen …
+Hier ist jemand sehr häufig hin und her gegangen — —
 jemand! Wer wohl?!«
 
 »Vielleicht Mawesa …«
 
 »Irrtum …! Komm’ mal her … Bitte — hier
 ist eine einzelne deutlichere Spur … Was sagst Du zu
-diesen Elesantensfüßen, mein Alter?k«
+diesen Elefantenfüßen, mein Alter?«
 
-»Meer Gott — der dicke Tsundsi mit seinen Filzscuhen!«
+»Herr Gott — der dicke Tsundsi mit seinen Filzschuhen!«
 
-»Allerdings — verselbe11«
+»Allerdings — derselbe!!«
 
 Dann verschloß Harald die Mauerpforte wieder und
-Kiste hinzu: »Gehen wir Herrn Tsundsis Spuren nach …
-Schuh denke, wir werden das Kind sehr bald finden …«
+fügte hinzu: »Gehen wir Herrn Tsundsis Spuren nach …
+Ich denke, wir werden das Kind sehr bald finden …«
 
 Irrtum …!! Und — welch verhängnisvoller Irrtum
 sogar!
 
 Wir gingen also — tiefer hinein in die Wildnis — im
-Ladedeck …
+Zickzack …
 
-Und mit einem Male war es aus mit den Elcfanten-fährien
+Und mit einem Male war es aus mit den Elefantenfährten
 — gerade vor einer sehr großen Grabplatte …
 
-»am — vielleicht unterrichten weiter …!» meinte
-Harald güritgelaunt: … »Hilf mal …! Heben wir
+»Hm — vielleicht unterirdisch weiter …!« meinte
+Harald gutgelaunt … »Hilf mal …! Heben wir
 die Grabplatte empor …«
 
 Umsonst …! Das Ding wog Zentner …
@@ -1040,51 +1042,51 @@ Lachte leise …
 
 »Blendwerk der Hölle!! — Kehrt Marsch …! Herr
 Tsundsi ist so vorsichtig gewesen, stets bis hier an die Grabplatte
-zu watscheln, dann umzukehren und 3n einer anderen
+zu watscheln, dann umzukehren und an einer anderen
 Stelle unsichtbar abzubiegen …«
 
 Wir schritten den Pfad wieder hinab …
 
 <@pagebreak/>
-Und Vorort zeigte dann auf eine andere Grabplatte …
+Und Harald zeigte dann auf eine andere Grabplatte …
 
 »Bitte!«
 
-Ich sah, daß die beiden ganzen einer efeuähnlicen
-Pflanze, die sich über die Platte hinzogen, an einigen St- (her)
+Ich sah, daß die beiden Ranken einer efeuähnlichen
+Pflanze, die sich über die Platte hinzogen, an einigen Stellen
 halb zerdrückt waren.
 
-Nun — wir hatten jetzt die richtige Forisetungs des
+Nun — wir hatten jetzt die richtige Fortsetzung des
 Weges gefunden: von dieser Grabplatte zu einem umgesunkenen
 Grabstein, von diesem Stein zu einer zweiten
-Platte, und von dieser inmitten eines Dornendickichts Mund
-in eine eingaestürzte Gruft, die au8gematert war und in der
+Platte, und von dieser inmitten eines Dornendickichts hinab
+in eine eingestürzte Gruft, die ausgemauert war und in der
 eine Leiter von nur sechs Sprossen lehnte …
 
 <h2>4. Kapitel.</h2>
 <h3>Herr Tsundsi besucht uns …</h3>
 
-Harst war in die Ernst hinabgestiegen …
+Harst war in die Gruft hinabgestiegen …
 
-Sie war tief … Unten lag Laub, lagen Darstellt
-Drachen, zwei Totenschädel … An der einen Seite hingen)
-üer die Vater Schlingpflanzen hinweg — ein dichter Weg
-lang. — Als Harald diesen Vorhang lüftete, kam ein Lo4
+Sie war tief … Unten lag Laub, lagen Sargreste,
+Knochen, zwei Totenschädel … An der einen Seite hingen
+über die Mauer Schlingpflanzen hinweg — ein dichter Vorhang.
+— Als Harald diesen Vorhang lüftete, kam ein Loch
 zum Vorschein … —
 
-Ich möchte hier nun bereits eine technische Bemerung
+Ich möchte hier nun bereits eine technische Bemerkung
 einflechten, damit ich sie später nicht etwa an störender Stelle
 bringen müßte. — Daß die Inder früheren Zeiten sehr
-geniale Leite waren, beweisen ihre Riesenpaläste, ihrer
-Bewässerungsanlagen, ihre Kanäle, Springbrunnen hat:
+geniale Leute waren, beweisen ihre Riesenpaläste, ihre
+Bewässerungsanlagen, ihre Kanäle, Springbrunnen und
 sonstigen Wasserkünste.
 
-Haidarabad liegt am Flusse Mast, auf einer zum 7-8
-felsigen Hochebene. Zur Bewässerung des alten trieb -
-waren nun vom Flusse ehemals zwei verdeckte Kanäle
-hierher gezogen worden. Einen dieser Kanäle hatte t-««
-einer der Anwohner des Friedhofs für seine beißenden
-Anrede benutzt, da der Kanal seit langem am Flusse zugeschüttet
+Haidarabad liegt am Flusse Musi, auf einer zum Teil
+felsigen Hochebene. Zur Bewässerung des alten Friedhofs
+waren nun vom Flusse ehemals zwei verdeckte Kanäle bis
+hierher gezogen worden. Einen dieser Kanäle hatte dann
+einer der Anwohner des Friedhofs für seine besonderen
+Zwecke benutzt, da der Kanal seit langem am Flusse zugeschüttet
 <@pagebreak/>
 worden und daher trocken war — also ein unterirdischer,
 zum Teil ausgemauerter Gang. — Dies mag
@@ -1096,8 +1098,8 @@ Unserer Taschenlampen weiße Lichtstreifen zeigten uns,
 daß das zu dieser Bewässerungsanlage gehörige Bassin erst
 acht Meter hinter dem Erdloche sich befand, durch welches
 wir eingedrungen waren. Der eigentliche Kanal begann erst
-Jenseits des durch Bretter verdeckten Bassins. Diese Bretter
-untersuchte Harald aufs genaueste, bevor er sich hinauswagte.
+jenseits des durch Bretter verdeckten Bassins. Diese Bretter
+untersuchte Harald aufs genaueste, bevor er sich hinaufwagte.
 Ich war stets drei Schritt hinter ihm, hielt mich jeden Augenblick
 bereit, zuzuspringen, falls etwas Unvorhergesehenes sich
 ereignen sollte. Und hiermit schien Harald zu rechnen, da
@@ -1110,20 +1112,20 @@ breiten gemauerten Schacht hinab.
 
 Anderthalb Meter unter uns dicker schwarzer Morast …
 Ekelhaftes Getier kroch in dem schmutzigen Brei herum …
-Auf einem Stück Brett hockte eine knallrote, schiwarzgepunktete
-Feuerkröte. Gestank quoll empor … Rasch legte Harstsche
-Bretter wieder über die Öffnung …
+Auf einem Stück Brett hockte eine knallrote, schwarzgepunktete
+Feuerkröte. Gestank quoll empor … Rasch legte Harst
+die Bretter wieder über die Öffnung …
 
 Dann weiter … Mit derselben Vorsicht … Schritt
-Sir Schritt … — Zwei Meter breit war der Kanal, etwa
-drei Meter hoch. Die Augen des Mauerwerkes mit getrocknetem
+für Schritt … — Zwei Meter breit war der Kanal, etwa
+drei Meter hoch. Die Fugen des Mauerwerkes mit getrocknetem
 grünbraunen Schlamm ausgefüllt … Derselbe
 Schlamm bedeckte als harte Schicht den Boden …
 
 Zehn Meter von dem Bassin war die Kanaldecke eingestürzt
 gewesen … Man hatte die Trümmer beiseite geschafft
 und die Decke durch Bretter und Balken abgestützt.
-Durch die Fugen der Bretter hingen ein paar Schling-pslanzenranken
+Durch die Fugen der Bretter hingen ein paar Schlingpflanzenranken
 herab … Dünne Streifen Tageslicht grinsten
 dort oben …
 
@@ -1133,14 +1135,14 @@ Weiter …
 Nach abermals vielleicht fünfzehn Metern eine ähnliche
 Einbruchsstelle … Auch wieder Bretter und Balken …
 
-Dann eine lange Greis Strecke … Die dritte Einbriuchs3-stelle
-— ausgedehnten als die beiden anderen. « «» sechs
+Dann eine lange freie Strecke … Die dritte Einbruchsstelle
+— ausgedehnter als die beiden anderen … Sechs
 Balken stützten hier die Bretterlage …
 
 Harst blieb stehen, wandte den Kopf …
 
-»Wo nur das EdhlupflochHch nach Mawesas Grundstück
-Detektivin sein mag?« meinte er offenbar etwas beunruhigt …
+»Wo nur das Schlupfloch nach Mawesas Grundstück
+hin sein mag?« meinte er offenbar etwas beunruhigt …
 
 Ich war dicht bei ihm … Und er fügte ebenso nachdenklich
 hinzu: »Meinem Augenmaß nach haben wir die
@@ -1156,7 +1158,7 @@ eine Gefahr lauerte …
 
 Harsts Bewegungen wurden immer behutsamer …
 Seine Körperhaltung drückte gespannteste Aufmerksamkeit
-aus … Sein vorgestrekterKopf, der noch weiter vorgestreckte
+aus … Sein vorgestreckter Kopf, der noch weiter vorgestreckte
 Arm mit der Taschenlaterne glich einem lebendigen
 Warnungssignal …
 
@@ -1185,14 +1187,14 @@ ahnte etwas Ähnliches. Vielleicht hätte es in meiner Macht
 gelegen, dies zu verhindern … Man hat uns den Rückweg
 abgeschnitten …«
 
-Er eilte vorwärts — den Weg zurück … Biß Schuttmassen
+Er eilte vorwärts — den Weg zurück … Bis Schuttmassen
 den Kanal ausfüllten … Ein Schuttberg, der bis
-zur Decke reichte … C5 war die dritte, die größte Einbruchsstelle
+zur Decke reichte … Es war die dritte, die größte Einbruchsstelle
 … Man mußte die stützenden Balken entfernt
 haben …
 
 Harald erklomm den schrägen Wall von Sand, Ziegeln
-und Steinen … Eid oben kletterte er, schmiegte sich an die
+und Steinen … Bis oben kletterte er, schmiegte sich an die
 Kanaldecke, wühlte mit der rechten Hand in dem Schutt,
 rief mir zu: »Hier kommen wir nicht durch …! Oder doch
 nur nach stundenlanger Arbeit …«
@@ -1203,9 +1205,9 @@ Er sprang mit zwei Sätzen wieder herab …
 die Einmündungsstelle in den Fluß, an … Vielleicht ist
 dort etwas zu erreichen …«
 
-Und er Schritte sich in Trab …
+Und er setzte sich in Trab …
 
-Wir liegen … Vielleicht hundert Meter … dann
+Wir liefen … Vielleicht hundert Meter … Dann
 wurde der Boden des Kanals feucht … Kleine Wassergräben
 blinkten … Die Luft war dick und dumpfig, wurde
 immer schlechter …
@@ -1214,7 +1216,7 @@ Schlamm quoll unter den Sohlen unserer Stiefel hoch …
 Zuweilen mußten wir größere Tümpel überspringen …
 
 Und jetzt vor uns das zugemauerte Ende des Kanals …
-Dünne Wasserrinnsale drangen durch die Tagen der mit
+Dünne Wasserrinnsale drangen durch die Fugen der mit
 Pilzen bedeckten Ziegel … Diese Ziegel waren von jener
 Art, wie man sie hier im Staate Haidarabad brennt …
 glashart, glasiert, Jahrtausende überdauernd!
@@ -1228,8 +1230,8 @@ Also … kehrt! — Und was nun?!
 Ich fragte nicht … Wir mußten uns eben durch den
 Schuttwall hindurchzuwühlen suchen …!
 
-Aber es kam andere! — Harald ging »ringsum, des
-lkeudytete die Decke des Kanals — sehr gern!! …
+Aber es kam anders! — Harald ging langsam, beleuchtete
+die Decke des Kanals — sehr genau …
 
 <@pagebreak/>
 Und vielleicht zehn Meter vor dem Schuttwall blieb
@@ -1241,17 +1243,17 @@ Ich schaute nach oben …
 
 Sah, daß die Ziegeldecke des Kanals, die leicht gewölbt
 war, nach unten zu eine Ausbauchung hatte … Zwischen
-den Ziegeln blassen breite Lücken … Die« dieser hingen
-nur noch lose an einigen Mörtelstüken … — Ich sagte:
+den Ziegeln klafften breite Lücken … Die Ziegel hingen
+nur noch lose an einigen Mörtelstücken … — Ich sagte:
 
 »Du meinst, daß wir …«
 
 »… wir hier eine Stelle gefunden gaben, wo wir
 unschwer einen Einsturz der Decke und der sie drückenden
-Erdmassen herbeiführen können … — - Ich werde Dir auf
+Erdmassen herbeiführen können … — Ich werde Dir auf
 die Schultern steigen, mein Alter … Tritt mehr zurück …
-Die Ziegelsteine dort dürsten bei der ersten Berührung herab-poltern
-…«
+Die Ziegelsteine dort dürften bei der ersten Berührung
+herabpoltern …«
 
 Und — so war’s auch …
 
@@ -1264,19 +1266,17 @@ Filzsohlen, ein paar Beine … ein dicker Leib — ein Schädel
 von Eimergröße: Herr Tsundsi gab uns auf diese gewiß
 überraschende Art die Ehre seines Besuchs …!
 
-GZ chZ=Z-
-
 <h2>5. Kapitel.</h2>
 
 <h3>Das goldene Kettchen.</h3>
 
-»sich da — Tsundsi!« meinte Harald Stromer. »ins
+»Sieh da — Tsundsi!« meinte Harald ironisch. »Wo
 kommst Du denn her, mein Sohn …?!«
 
-Der Chinese war vor viel zu vertattert, um an’s
+Der Chinese war noch viel zu vertattert, um an’s
 Schwindeln zu denken …
 
-»Aus Küche, Mister … Ziliegelboden mit einem Male
+»Aus Küche, Mister … Ziegelboden mit einem Male
 brachen ein … Ich rutschen abwärts,« erklärte er nach
 Luft schnappend.
 
@@ -1284,14 +1284,14 @@ Luft schnappend.
 »Ja — Du hast Pech gehabt … Uns aber bist Du
 durchaus willkommen … — Wie geht es Deinem Herrn?«
 
-»Gut … Ellen auf Lavönschyelle …«
+»Gut … Sitzen auf Ladenschwelle …«
 
-»und — wo habt Ihr das Eid gelassen« Und wer
-brachte die Decke dort drüben zum »Einsturz?«
+»und — wo habt Ihr das Kind gelassen? Und wer
+brachte die Decke dort drüben zum Einsturz?«
 
-Tsundsis Gesicht bekam Plötzliche Witzirybierfarbe …
+Tsundsis Gesicht bekam bläßliche Braunbierfarbe …
 
-»Kind … Kind?! Welche gibt] nichts wissen
+»Kind … Kind?! Welche Kind?! nichts wissen
 von …«
 
 Da hatte Harald seine Clement schon in der Hand …
@@ -1299,10 +1299,10 @@ Da hatte Harald seine Clement schon in der Hand …
 Der Dicke verstummte … schluckte, würgte, stotterte,
 indem er nur immer die Pistole im Auge behielt:
 
-»Kind … Kind … bei Eltern sein … Wo hin-gehören
-… Tempels große Neue … große Angst …«
+»Kind … Kind … bei Eltern sein … Wo hingehören
+… Tsundsi große Reue … große Angst …«
 
-»Aha, Angst!! Mit der Neue wird es wohl nicht so arg
+»Aha, Angst!! Mit der Reue wird es wohl nicht so arg
 sein …! Ich kenne Euch Gelben …! — Also nun erzähle
 mal … Wenn Du lügst, schieße im Dir ein drittes Auge
 in den Kopf … — Weißt Du, wer wir sind?«
@@ -1311,12 +1311,12 @@ in den Kopf … — Weißt Du, wer wir sind?«
 
 »Vielleicht …! — Also wer sind des Knaben Eltern?«
 
-»Mister: Godweller, Doktor, Professor, wo leben in
+»Mister Godweller, Doktor, Professor, wo leben in
 Ruinen von Golkonda und Erde umschaufeln, alte Sachen
-suchen … Mister Godwellers Frau sehr schon …«
+suchen … Mister Godwellers Frau sehr schön …«
 
 »Die Schönheit ist augenblicklich Nebensache …
-Schwerste nicht ab mein Sohn …! Was weißt Du Über
+Schweife nicht ab mein Sohn …! Was weißt Du Über
 diese Kindesentführung?«
 
 »Nicht viel, Mister … Vor drei Wochen mir sagten
@@ -1325,22 +1325,22 @@ Mawesa …«
 »Halt — wie lange kennst Du Mawesa?«
 
 »Seit Mawesa hier kaufen Laden und Grundstück …
-Damals ich sein Lastträger am Bahnhof, aber schon zu dich
+Damals ich sein Lastträger am Bahnhof, aber schon zu dick
 für die Arbeit … Da mich Mawesa nahm zu sich …«
 
-»Nun gut … — Mawesa befahl Dir also vor die:
+»Nun gut … — Mawesa befahl Dir also vor drei
 Wochen, das Kind zu stehlen?«
 
-»So sein … Ich kennen Betonung von Doktor P1 …
-Professor Mr. Godweller … Ich tun wie ».sollen … Alles
-glücken … Und Kind in Kasten 1:«’ck Zettel legen vor
+»So sein … Ich kennen Wohnung von Doktor
+Professor Mr. Godweller … Ich tun wie befohlen … Alles
+glücken … Und Kind in Kasten und Zettel legen vor
 <@pagebreak/>
-Mansur Haustür … Aber viel Neue nachher. Und
+Mansur Haustür … Aber viel Reue nachher … Und
 heute …«
 
 »… bist Du, wie sehr oft schon, in Mansurs Park geschlichen,
 auf das Dach des Marmorpavillons, und hast mit
-einem Gummischlauch irgend ein Teufelszeug in die Limo-nadengläser
+einem Gummischlauch irgend ein Teufelszeug in die Limonadengläser
 geträufelt …«
 
 Tsundsi griente unendlich blöde. Seine Augen verrieten,
@@ -1354,7 +1354,7 @@ fragte Harst nun in demselben gemütlichen Tone.
 »Meine Freund Shamu es hinbringen in seinem Karren
 und laufen lassen …«
 
-»es kann also schon laufen — so … so! Serie es
+»es kann also schon laufen — so … so! Schrie es
 denn nicht, als Du es mit Dir nahmst?«
 
 »Schlafen, Mister … ganz fest schlafen … Gar nicht
@@ -1363,24 +1363,24 @@ schreien …«
 »Etwas anderes, mein Sohn: Wie lange besitzt Mawesa
 bereits die Wachspuppe?«
 
-»am — zwei Jahre vielleicht …«
+»Hm — zwei Jahre vielleicht …«
 
 »Und woher erwarb er sie?«
 
-»Das nicht wissen, Mister … Wach3öpuppe war mit
+»Das nicht wissen, Mister … Wachspuppe war mit
 einem Male da … Wirklich nichts wissen …«
 
-Harst beugte sich zu Tsundsi herab und schaute ihn durch
-dringend an … — »Not eine letzte Frage … Hält
+Harst beugte sich zu Tsundsi herab und schaute ihn
+durchdringend an … — »Noch eine letzte Frage … Hältst
 Du Mawesa für einen echten Inder?«
 
 Des Chinesen Kopf sank scheu auf die Brust …
 
 »Oh — — nicht fragen …!« — und jetzt war helle
-Angst in seiner Stimme. Nicht fragen … Mawesa große
-Zauberer … wandeln unsichtbare Diener haben … Oft
-mit ihnen reden. - » Vielleicht hier sein eine von diese
-Diener …
+Angst in seiner Stimme. »Nicht fragen … Mawesa große
+Zauberer … Mawesa unsichtbare Diener haben … Oft
+mit ihnen reden … Vielleicht hier sein eine von diese
+Diener …«
 
 Und sein Kopf schnellte wieder hoch … Seine Augen
 glitten umher, diese in Fettpolster eingebetteten Pünktchen,
@@ -1389,13 +1389,13 @@ suchten Gespenster …
 <@pagebreak/>
 Und merkwürdig: Gerade in dem Moment stand die
 Szene in dem kleinen übelduftenden Gäßchen mit aller Deutlichkeit
-in meiner Erinnerung wieder aus, wie Harald so
+in meiner Erinnerung wieder auf, wie Harald so
 blitzschnell zwischen den Scherben der Buddhavase etwas
-Grinsendes aufgelesen und in die Tasche setzte?! hatte!
+Blinkendes aufgelesen und in die Tasche gesteckt hatte!
 
-Seltsam: gerade jetzt! Und ich hatte doch genug so
-Gelegenheit in den letzten Stunden gehabt, mich darauf zu b&
-innen und ihn zu fragen, was es gewesen, das er so mit
+Seltsam: gerade jetzt! Und ich hatte doch genug
+Gelegenheit in den letzten Stunden gehabt, mich darauf zu
+besinnen und ihn zu fragen, was es gewesen, das er so mit
 Taschendiebgeschwindigkeit für sich beschlagnahmte … —
 
 Harsts Stimme rief mich in die ebenso interessante Gegenwart
@@ -1405,21 +1405,21 @@ wieder zurück.
 in die Küche emporklettern und mit Mawesa ein Wörtlein
 sprechen. — Nicht wahr, Du hast doch den Einsturz der Decke
 dort drüben herbeigeführt, weil Du fürchtetest, wir könnten
-Malaria verraten, daß Du das Kind zum zweiten Male —
+Mawesa verraten, daß Du das Kind zum zweiten Male —
 diesmal gegen seinen Willen — gestohlen hast … Du
 brauchst nicht zu antworten. Ihr Chinesen seid uns Europäern
 stets wandelnde Rätsel … Du bist das größte, das
 ich je antraf. Und daher ist es gut, daß Du hier unten
-eingesperrt bist … Aus Wiedersehen, mein Sohn …«
+eingesperrt bist … Auf Wiedersehen, mein Sohn …«
 
 Und er winkte mir …
 
 Ich kletterte auf seine Schultern …
 
-Ecke war eine ungemütliche Geschichte, bis nach oben in
+Es war eine ungemütliche Geschichte, bis nach oben in
 die Küche zu klettern. des öfteren rutschte ich zurück.
 
-Dann war’s ich für Harald eine Leine hinab, die ich in
+Dann warf ich für Harald eine Leine hinab, die ich in
 einer Kammer neben der Küche gefunden und die ich an den
 Türpfosten geknotet hatte.
 
@@ -1430,7 +1430,7 @@ erinnert an eine Schiffsküche … Herr Kapitän Geldern
 ist nur als Mawesa, als Trödler, ein Schmierfink … Im
 Übrigen befleißigt er sich der Seeleuten eigenen peinlichen
 Sauberkeit, was auch das Innere seines Ladens verriet.
-Diese Ordnungsliebe hatte mich sofort ne: Brust. E& war
+Diese Ordnungsliebe hatte mich sofort verblüfft. Es war
 überall Staub gewischt … Gehen wir …«
 
 <@pagebreak/>
@@ -1440,17 +1440,17 @@ Vater ist?«
 
 »Man könnte zweifeln, wenn man diesen wilden Haß
 kennt, den er gegen sein eigen Fleisch und Blut und gegen
-Mansur-Chatta betätigt hat. betätigt, mein Alter! —
-Komm’ jetzt … der Fall »Wachspuppe» ist Reis …«
+Mansur-Chatta betätigt hat … betätigt, mein Alter! —
+Komm’ jetzt … der Fall »Wachspuppe« ist reif …«
 
 Aus der Küche in einen langen Flur mit vier Türen …
 Geradeaus ging es in den Laden. Der die Vorhang ließ
 uns geräuschlos durch.
 
-Maweija saß auf der Schwelle im Schatten des Sonnen-segels
+Mawesa saß auf der Schwelle im Schatten des Sonnensegels
 … Vornübergebeugt … Die Ellbogen auf die
 Schenkel gestützt … Dem Turban hatte er ganz tief
-über den Kopf gezogen …« » Vielleicht um die Stirnwunde
+über den Kopf gezogen … Vielleicht um die Stirnwunde
 zu verdecken.
 
 In der Gasse brütete die Glut der Mittagshitze …
@@ -1462,9 +1462,9 @@ hielt die Clement bereit … Harald packte zu, riß Mawesa
 mit so brutalem Ruck nach innen, daß der Alte bis in die
 Mitte des Ladens flog.
 
-»Herr Geldern,« sagte Harst und ließ den Tränkten los,
+»Herr Geldern,« sagte Harst und ließ den Trödler los,
 »Sie dürften uns einiges erklären müssen … Holen Sie
-lich Wachs Puppe herein. Versuchen Sie aber nicht zu
+die Wachs Puppe herein. Versuchen Sie aber nicht zu
 fliehen …«
 
 Der Alte saß noch auf den Steinfliesen — zusammengekrümmt
@@ -1473,24 +1473,24 @@ Der Alte saß noch auf den Steinfliesen — zusammengekrümmt
 Und mein Freund fügte hinzu: »Damit Sie im Bilde
 sind: ich bin der deutsche Detektiv Harst … Das da mein
 Intimus Schraut. Also immerhin zwei Leute, mit denen
-allzu besser im Frieden auszukommen sucht …«
+man besser im Frieden auszukommen sucht …«
 
 Der frühere Schiffskapitän wurde plötzlich lebendig,
 erhob sich, verbeugte sich …
 
-»Wir werden uns einigen, Herr Harst … Was so!
+»Wir werden uns einigen, Herr Harst … Was soll
 aber die Wachspuppe?«
 
 <@pagebreak/>
-»Holen Sie sie herein … 1«
+»Holen Sie sie herein …!«
 
 Er tat’s sehr zögernd … Legte sie lang auf die
 Fliesen …
 
 »Herr Harst, ich möchte Ihnen …«
 
-»Später, Herr Geldern …! setzt möchte ich ich erfahren,
-woher Sie diese lebensgroße Wach z3puppe haben …«
+»Später, Herr Geldern …! Jetzt möchte ich ich erfahren,
+woher Sie diese lebensgroße Wachspuppe haben …«
 
 Ein halb irres Lächeln … »Ich … ich kaufte sie von
 … von …«
@@ -1500,15 +1500,15 @@ nicht … Die präpariert man selbst, wenn man einiges
 davon versteht … Ihre Tochter, Frau Anna Mansur, hat
 mir mitgeteilt, daß Ihr Vater Wachsfigurenfabrikant in
 Triest war. Ich nehme an, daß Sie als sein Sohn einiges
-davon vergitterten …«
+davon profitierten …«
 
 — Und ich, Max Schraut, ließ jetzt kein Auge von der
-Wachspuppe, deren geradezu auffallend tirenschenähnliche Gesichtszüge
+Wachspuppe, deren geradezu auffallend menschenähnliche Gesichtszüge
 so gar nichts von der Unvollkommenheit von gewöhnlichen
-Wachsköpsen an sich hatten … —
+Wachsköpfen an sich hatten … —
 
 Des alten Kapitäns Beine versagten plötzlich. Er tastete
-nach einem altertümlichen Elfsenbeinschemel und fiel schwer
+nach einem altertümlichen Elfenbeinschemel und fiel schwer
 auf den harten Tisch …
 
 »Herr Geldern, Sie geben also zu, diese … Puppe
@@ -1526,43 +1526,43 @@ Der Kapitän nickte …
 »So eine Mumie?! Aber eine aus neuester Zeit,
 jüngsten Datums?«
 
-»Ja … « Eine Tote aus dem sogenannten Höhlensricdhosf
-von Kantara in den Disteln-Bergen.«
+»Ja … Eine Tote aus dem sogenannten Höhlenfriedhof
+von Kantara in den Duscha-Bergen.«
 
-»ohne Tote, die … Sie kannten, die Sie dann aus Haß
-02704 Ihren Schwiegersohn und Ihre Tochter dort draußen
+»Eine Tote, die … Sie kannten, die Sie dann aus Haß
+gegen Ihren Schwiegersohn und Ihre Tochter dort draußen
 <@pagebreak/>
 an die Ladentür lehnten, wo Mansur jeden Tag vorüberging,
 ohne zu ahnen, daß …«
 
-Geldern hatte sich ruckweise erhoben … » Die stehenden
-Augen wollten sich in Harsts Gesicht …
+Geldern hatte sich ruckweise erhoben … Die stechenden
+Augen bohrten sich in Harsts Gesicht …
 
 »… daß … es eine seiner Töchter war, die dort als
-Wachspuppe lehnte. »« eine seiner angeblich im Alter von
-sieben und Art Jahren verstorbenen Töchter …«
+Wachspuppe lehnte … eine seiner angeblich im Alter von
+sieben und acht Jahren verstorbenen Töchter …«
 
-Sir blödes Lachen kam über Gelderns Lippen …
+Ein blödes Lachen kam über Gelderns Lippen …
 
-»Und zwar hieß das Mäd4en wahrscheinlich Fatima,«
+»Und zwar hieß das Mädchen wahrscheinlich Fatima,«
 sprach Harst unbeirrt weiter und holte aus der Tasche ein
 goldenes Kettchen mit einem runden goldenen Anhänger
 hervor …
 
 Das … entschied die Szene …
 
-Geldern warf sich ganz überraschend nach rückwärts
+Geldern warf sich ganz überraschend nach rückwärts …
 
 Ein hohes Gestell mit allerhand Raritäten sauste auf
-uns Berge … Harst hatte sich schützend über den Kopf
-der und elastischen Wachspuppe gebeugt … erging das
+uns herab … Harst hatte sich schützend über den Kopf
+der unheimlichen Wachspuppe gebeugt … Ich fing das
 schwere Gestell auf …
 
 Geldern war nach dem Friedhof zu entkommen … —
 
-Ich glaube nicht, daß menschliche Phantasie dazu zugereicht,
+Ich glaube nicht, daß menschliche Phantasie dazu ausreicht,
 den zweiten Teil dieses Abenteuers zu erraten …
-Das Leben ist der ausschweisendste Dichter — eine alte
+Das Leben ist der ausschweifendste Dichter — eine alte
 Wahrheit!
 
 <@pagebreak/>
@@ -1660,7 +1660,7 @@ handeln. Tsundsi kam ihm zuvor. »Der Chinese ahnt nichts
 von den wahren Zusammenhäng’ne … Er, tat, was ihm die
 sogenannte Reue eingab …«
 
-Ich mußte meine Gedanken erst sammeln. Wie Sturz-bäche
+Ich mußte meine Gedanken erst sammeln. Wie Sturzbäche
 flutete all das Neue über mich hin …
 
 Dann eine zweite schüchterne Frage:
@@ -1681,7 +1681,7 @@ eine mit Steinfarbe angestrichene geheime Tür hatte. In
 diesem Gelaß standen zahllose Kisten, außerdem eine …
 große Zinkbadewanne. Reste von Wachs am Boden und
 an den Wänden bewiesen zur Genüge, daß in diesem Behälter
-die mumisizierte Leiche Fatimas in heißes Wachs
+die mumifizierte Leiche Fatimas in heißes Wachs
 getaucht worden war.
 
 Die Kisten aber enthielten — und selbst Harst war über
@@ -1710,7 +1710,7 @@ Ecke waren acht der Steinfliesen durch einen unauffälligen
 Eisenrahmen zu einem Ganzen verbunden. Das war die
 Falltür. Als Harst sie öffnete, blickten wir in einen Schacht
 hinab, sahen unten Bretterstüke … Und diese gehörten
-zu der Absteisung der zweiten Einsturzstelle der Kanaldecke
+zu der Absteifung der zweiten Einsturzstelle der Kanaldecke
 … Diese Bretter Südstern die zweite Tür zum
 Kanal.
 
@@ -1986,7 +1986,7 @@ eingerichtet hat. Die Keller des Forts sollen acht
 Stockwerke haben. Ganz unten lagern des Nizam ungeheure
 Reichtümer, bewacht von arabischen Söldnern …
 
-Vorbei an den achtzehn ebenso alten prachtvollen Mau-soleen
+Vorbei an den achtzehn ebenso alten prachtvollen Mausoleen
 der früheren Könige von Golkonda …
 
 Sie und das Fort sind die einzigen Zeugen der Macht
@@ -2061,7 +2061,7 @@ Moscheen und mit den beiden hochragenden Prachtbauten:
 dem Schlosse des Nizam und. dem Palast des englischen
 Residenten …
 
-Näher vor uns die Ruinenselder von Golkonda ’— eine
+Näher vor uns die Ruinenfelder von Golkonda ’— eine
 buschreiche Wildnis … Dazu das Fort mit seinen Wällen
 und Gräben, mit verwitterten Mauern und blanken Beschhütb-rohren,
 die aus dunklen Mauerluken harmlos drohend ins
@@ -2147,7 +2147,7 @@ Und er leuchtete durch das breite Fenster in die Grabkammer
 hinein …
 
 Auf dem breiten niederen Gestell, das hier von ganzen
-Wolken schwarzen Schleierstofses umhüllt war, ruhten zwei
+Wolken schwarzen Schleierstoffes umhüllt war, ruhten zwei
 Gestalten mit verdeckten Gesichtern …
 
 Harald wandte sich dem Ehepaare zu …
@@ -2344,7 +2344,7 @@ Das erleuchtete Fenster einer Grabkammer!
 
 Wir schlichen darauf zu …
 
-»Vorsicht …!« hauchte Harald zum dritten Male...
+»Vorsicht …!« hauchte Harald zum dritten Male …
 
 Ich spähte hinein in die Grabkammer …
 
@@ -2410,7 +2410,7 @@ hinein in die Grabkammer!«
 Mawesa?! Unter uns können wir wohl den wahren Namen …«
 
 <@pagebreak/>
-»... den wir nicht kennen, mein Alter … Denn
+»… den wir nicht kennen, mein Alter … Denn
 meine schöne Theorie, Mawesa sei Kapitän Geldern, ist
 elend an einem Bilde zerschellt …«
 
@@ -2420,7 +2420,7 @@ elend an einem Bilde zerschellt …«
 kleine Photographie seines Schwiegervaters Geldern, weil
 ich fragte, ob er vielleicht eine besäße. Und diese 1hotographie
 zeigte mir einen Seemann mit Kapitänmüße, der mit Mawesa
-auch nicht die Spur von Ähnlichkeit in der Gesichts-sorm,
+auch nicht die Spur von Ähnlichkeit in der Gesichtsform,
 der Nasenform und der Stirnbildung hat … Ich
 verstehe mich doch auf solche Vergleiche … Mich täuscht
 Bart, keine Änderung der Augenbrauen … Tuareg
@@ -2507,7 +2507,7 @@ Nun konnten wir die Köpfe über den Abgrund schieben,
 konnten hinakschaan, konnten emporschaun, sahen, daß die
 Wassermassen dort oben scheinbar mus dem Nichts hervorkamen
 … Ein Wasserfall von vielleicht zwanzig Meter
-Breite senkrecht herabstürzerd in unbekannte diesen, aus unbekannte
+Breite senkrecht herabstürzend in unbekannte diesen, aus unbekannte
 Felszacken …
 
 Ein überwältigendes Bild … jetzt« weshalb, weil
@@ -2555,7 +2555,7 @@ erwische ich mit der Linken wirklich einen dicken großen
 Eisenhaken …
 
 Ich brülle: »Ich habe ihn!!« — Dann fällt mir ein,
-daß hier ein Elefant seine meilenweit hörbaren Trompeten-töne
+daß hier ein Elefant seine meilenweit hörbaren Trompetentöne
 hinausschmettern könnte und doch nichts gegen den
 Lärm der Wassermassen ausrichten würde …
 
@@ -2684,7 +2684,7 @@ Hemdschlitz gleiten … und erwischte auch Dich gerade noch
 im letzten Moment. alles andere ist Dir bekannt. Mawesa
 hält uns jetzt fraglos für erledigt. Und — d25 ist das Beste
 bei alledem. Wir sind tot — maunsetot! Wir werden hier
-warten, bis nachmittags die Hohlengräber hier von zahl-reicheren
+warten, bis nachmittags die Hohlengräber hier von zahlreicheren
 Personen besucht werden … dann verschwinden
 wir einzeln … Wir treffen uns in Nobbsams BB« Pankow …
 Aber Vorsicht … Keine Seele außer Nobbsam darf ahnen,
@@ -2698,7 +2698,7 @@ zwei braunen Hindus in gebildete Globetrotter in des In-spektiors
 Schlafzimmer zurückverwandelt haben.
 
 Es sind nicht Harst und Schraut. Äußerlich nicht …
-Blonde Bärte, blonde Perücäden und kleine kniete der Mas-kierungskunst
+Blonde Bärte, blonde Perücäden und kleine kniete der Maskierungskunst
 geben uns ein völlig verändertes Aussehen.
 
 Wir speisen mit Robbsam im Eßzimmer an gefällig gedeckten
@@ -2862,7 +2862,7 @@ Ein Diener kam und ließ uns riß:. Durch einen Vor
 Garten führte er uns zu einem zierlichen, villenartigen Hause,
 hinter dem sich noch ein größerer Park hinzog.
 
-»Reicht der Park bis an den alten Mohammedaner-Fricdhof?«
+»Reicht der Park bis an den alten Mohammedaner-Friedhof?«
 fragte Harst den Diener …
 
 Der bestätigte das …
@@ -3001,8 +3001,8 @@ Ich schreibe keine Familienromane. Die Szene zwischen
 Eltern, Tochter und Enkelkind kann sich jeder Leser unschwer
 selbst ausmalen … —
 
-Fatima Mansur nicht nun in der Grabkammer im Kantara-
-Berge an Stelle der beiden Puppen, die Geßners teusf-lischer
+Fatima Mansur nicht nun in der Grabkammer im Kantara-Berge
+an Stelle der beiden Puppen, die Geßners teusf-lischer
 Haß dort niedergelegt hatte …
 
 Ruhe sanft, kleine Fatima …
@@ -3012,7 +3012,7 @@ zu machen, die Dir die Nächsten waren … — —
 
 <@pagebreak/>
 Und wir beide, Harst und ich, wir ruhelosen Globetrotter,
-Insassen auf rollenden Ciseubahnrädern dem Lande
+Insassen auf rollenden Eisenbahnrädern dem Lande
 des ewigen Schweigens zu …
 
 Wir hatten eine rote Aufgabe gefunden, anders als
