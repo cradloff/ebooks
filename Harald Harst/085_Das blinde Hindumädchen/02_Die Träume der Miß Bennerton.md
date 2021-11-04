@@ -148,7 +148,7 @@ halten.
 
 Ich versprach mir sehr wenig davon, denn es schien
 mir ausgeschlossen, daß die Namenlose, die auch Harald
-für eine ganz gewiegte internationale Abenteuerin hielt,
+für eine ganz gewiegte internationale Abenteurerin hielt,
 so unvorsichtig gewesen sein und auch wirklich den Zug bis
 Agra benutzt haben sollte. Ohne Zweifel war sie auf einer
 größeren Station ausgestiegen, wo sie Anschluß an eine Nebenlinie
@@ -286,7 +286,7 @@ und da sie sich sofort sagte, es sei lohnender, diesem Geheimnis
 nachzuspüren. Das Pergament war damals noch unversehrt,
 und wenn die Norton wirklich die alten Schriftzeichen
 hat lesen können, so muß sie eben eine gebildete,
-sogar eine vielseitig gebildete Abenteuerin sein.«
+sogar eine vielseitig gebildete Abenteurerin sein.«
 
 Hier wurde unsere Unterhaltung auf eine sehr
 eigentümliche Weise unterbrochen.
@@ -294,7 +294,7 @@ eigentümliche Weise unterbrochen.
 <h2>2. Kapitel.</h2>
 
 Der Zug war soeben erst in den kleinen Bahnhof von
-Nagpur eingelaufen. Wir hatten kaum darauf geachtet.
+Nagaur eingelaufen. Wir hatten kaum darauf geachtet.
 
 Jetzt jedoch wurde im Gange des D-Wagens Harsts
 Name laut gerufen.
@@ -316,6 +316,7 @@ hier in Indien genau so bekannt wie drüben in Deutschland.
 Sein Name war Allgemeingut.
 
 Ein dürrer Major faßte an den Tropenhelm.
+
 »Wirklich Mr. Harst?« fragte er. »Gestatten — Major
 Dorbram. Es war da ein Depeschenbote im Gange,
 als ich einstieg. Ich wurde Zeuge, wie ein Herr über das
@@ -332,6 +333,7 @@ ein Herr mit »Harald Harst« quittiert, der sich auf
 den Ruf hin sofort gemeldet hätte.
 
 Harald zeigte ihm seine Legitimation mit Lichtbild.
+
 »Ich bitte, mir den Wortlaut der Depesche nochmals
 nach Jaipur vorauszusenden,« sagte er dann.
 
@@ -455,11 +457,11 @@ Kiste an. Sie war leer.
 »Du siehst, mein Alter, — alles war genau vorbereitet.
 Einer schaltete den Haupthebel der Lichtanlage aus,
 der zweite spielte den Gepäckträger und der dritte wird
-von Nagpur aus, wo er uns und den Depeschenboten belauschte,
+von Nagaur aus, wo er uns und den Depeschenboten belauschte,
 den telegraphischen Befehl zu diesem Streich gegeben
 haben. Wenn wir Zeit hätten, hier in Jaipur
 Erkundigungen einzuziehen, würden wir fraglos erfahren,
-daß eine Depesche aus Nagpur hier eingegangen ist — in
+daß eine Depesche aus Nagaur hier eingegangen ist — in
 Chiffreschrift. Also hat Miß Daisy Norton Verbündete
 — mindestens drei! Die Sache fängt nicht schlecht an.« —
 
@@ -524,7 +526,7 @@ während des großen indischen Aufstandes 1857 der Mittelpunkt
 der Rebellion. 2000 Engländer wurden damals
 niedergemetzelt. Das heutige Lucknow mit seiner Viertelmillion
 Einwohner ist in der Hauptsache ein elendes,
-schauriges Gewirr von Gassen und Gäßchen. Nur die
+schmutziges Gewirr von Gassen und Gäßchen. Nur die
 Neustadt hart am Flusse weist riesige Prachtbauten auf.
 Das Europäerviertel ist wie überall eine Villenstadt für sich.
 
@@ -679,7 +681,7 @@ Das Auto bog durch ein Gittertor in den Park Miß
 Bennertons ein.
 
 Wir waren angelangt — angelangt am Orte der
-Träume dieser — Hochstaplerin, dieser Abenteuerin. —
+Träume dieser — Hochstaplerin, dieser Abenteurerin. —
 
 *So* schätzte ich sie damals ein — *noch* ein.
 
@@ -703,9 +705,9 @@ war ja bis auf unsere Handtaschen auf dem Bahnhof
 geblieben.
 
 Der Bungalow tauchte auf. Ich erkannte sofort, daß
-das große Gebäude, wie alle diese Sommerhäuser nur
+das große Gebäude, wie alle diese Sommerhäuser, nur
 einstöckig und mit einer durchgehenden Veranda, älteren
-Datums war.
+Datums, war.
 
 Auf der breiten Freitreppe stand Lady Breßfort, und
 hinter ihr vier farbige Diener.
@@ -724,6 +726,7 @@ nur flüsterte, wollte nicht viel besagen. Haar
 läßt sich färben, und selbst eine stark gedämpfte Stimme verrät
 den Klang und die ganze Sprechweise. Jedenfalls:
 es war ohne Zweifel unser blindes Hindumädchen! —
+
 Sie hatte uns die Hand gereicht und uns dann gebeten,
 bei ihr zu wohnen. »Mein Haus ist so sehr groß. Ich
 habe acht Fremdenzimmer. Weshalb wollen Sie in ein
@@ -752,7 +755,7 @@ herausstaffiert hatte. Ein Affenfell dürfte wohl aufzutreiben
 sein.«
 
 Merkwürdig: Olivias stark gepudertes Gesicht (es
-sah durch den weißen Puder fast wie eine starre Stoffmaske
+sah durch den weißen Puder fast wie eine starre Gipsmaske
 aus) verzog sich plötzlich zu einer seltsamen Grimasse
 — nur für einen Moment. Es schien, als ob Haralds
 Andeutung, es könnte sich um einen verkleideten Menschen
@@ -904,6 +907,7 @@ Der Lord schritt der Parkpforte zu.
 Wir beide waren allein. Ich blickte Harald bittend
 an. Ich wollte nicht länger im Dunkeln umhertappen.
 Er sollte mir erklären, was er von Olivia hielte.
+
 Er schüttelte den Kopf. »Bist Du der Wahrheit wirklich
 noch nicht nahe gekommen, mein Alter?« meinte er.
 »Merkwürdig — es gibt doch nur eine Lösung, wenn man
@@ -942,7 +946,7 @@ Nächte hinter sich.« — Er wollte durch diese Worte uns gegenüber
 seine Vorsorge für den Schlaf Miß Bennertons
 begründen.
 
-»Tomaru, der Koch erzählte uns, daß die Keller sehr
+»Tomaru, der Lord erzählte uns, daß die Keller sehr
 luftig und kühl sein sollten,« meinte Harst. »Wir werden
 sie uns einmal ansehen.«
 
@@ -980,6 +984,7 @@ zuzuschlagen drohte.
 Tomaru griff hastig nach dem Drücker. »Sahib, der
 Knall würde im ganzen Hause gehört werden,« sagte er
 wie entschuldigend. »Die Memsahib würde erwachen.«
+
 Er ahnte nicht, daß Harst hier soeben eine wichtige
 Probe gemacht hatte.
 
@@ -989,16 +994,16 @@ zufallen hörte.
 Harald trat ein. Sofort roch ich, daß hier irgendwo
 ein oder mehrere Affen gehalten würden.
 
-»Du bist ein Selkedari, Tomaru?« fragte Harald.
+»Du bist ein Sekkedari, Tomaru?« fragte Harald.
 »Du hast einen Käfig mit heiligen Affen? — Freilich,
-dann mußt Du gut lüften.« (Die Selkedari sind eine besondere
+dann mußt Du gut lüften.« (Die Sekkedari sind eine besondere
 Kaste, die die Affen als heilige Tiere verehren und
 in dem großen Affen-Tempel in Benares die Priester
-spielen).
+spielen.)
 
 »Es ist so, Sahib. Ich habe vier Affen in einem Gelaß
 hinter meinem Schlafraum. Sie dürfen nur abends
-in den Park. Die Memsahib liebt die Selke (die graugrünen
+in den Park. Die Memsahib liebt die Sekke (die graugrünen
 indischen Affen) nicht.«
 
 »Zeige sie uns mal, Tomaru.«
@@ -1008,7 +1013,7 @@ Schlafstube ein und riß eine schmale Tür auf. Dahinter
 lag ein nur einfenstriger, halbdunkler Keller. Ein Drahtgitter
 teilte ihn und bildete einen sehr geräumigen Käfig.
 
-Nach dem Fenster zu hockten die hier Selke am Boden.
+Nach dem Fenster zu hockten die hier Sekke am Boden.
 
 Harst wollte näher herangehen. Da hielt der Alte ihn
 zurück.
@@ -1055,7 +1060,7 @@ und bebend.
 
 Haralds Augen ruhten gedankenvoll auf dem Menschenaffen,
 der sich jetzt den Schenkel kratzte und ein paar
-dumpfe Töne ausstieß;.
+dumpfe Töne ausstieß.
 
 »Sahib — gehen wir!« flehte Tomaru angstvoll. »Er
 tobt sonst!«
@@ -1145,7 +1150,7 @@ weitem wiederholt die Achseln und schüttelte den Kopf,
 machte vor uns halt, sagte:
 
 »Lieber Harst, sie war in Nepal! Sie kann die Blinde
-nicht gewesen sein. Weiß der Himmel, wer diese Abenteuerin
+nicht gewesen sein. Weiß der Himmel, wer diese Abenteurerin
 war!«
 
 <@pagebreak/>
@@ -1330,9 +1335,9 @@ Tür hin, die in den Käfigraum mündete.
 Aber — vor dieser Tür stand starr wie eine Bildsäule
 ein Mensch: Tomaru, der greise Hindu!
 
-Harald war mit einem Satz neben ihm, flüsterte eindringlich:
+Harst war mit einem Satz neben ihm, flüsterte eindringlich:
 
-»Tomaru, gib den Weg frei! Zum Besten Deiner Herrin!«
+»Gib den Weg frei! Zum Besten Deiner Herrin!«
 
 <@pagebreak/>
 
@@ -1394,12 +1399,12 @@ Ihre Schwester werde ich Sie schonen. Die Polizei draußen
 im Park sollte Ihre Flucht verhindern, weiß aber nicht,
 auf wen ich fahnde. Ich werde sie wegschicken.«
 
-Olivia ließ die Hände sinken. »Mr. Harst wollen Sie
+Olivia ließ die Hände sinken. »Mr. Harst, wollen Sie
 wirklich so großmütig sein?! Daisy wird tun, was Sie
 wünschen. Außerdem habe ich die Schmuckstücke selbst in
 Verwahrung genommen, habe sie Daisy mit Gewalt —«
 
-Da meldete die Abenteuerin sich. Da flog der Affenkopf
+Da meldete die Abenteurerin sich. Da flog der Affenkopf
 nach hinten. Ein wutverzerrtes Frauenantlitz kam
 zum Vorschein.
 
