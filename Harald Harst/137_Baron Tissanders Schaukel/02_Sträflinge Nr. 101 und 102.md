@@ -12,7 +12,7 @@ Als uns das nichts mehr nützte, als unsere Neider lediglich
 hohngrinsen konnten …
 
 Ja — da stand’s zu lesen, daß durch ein bedauerliches
-Versehen des Gerichte in Goa Harst und Schraut zu drei
+Versehen des Gerichts in Goa Harst und Schraut zu drei
 Jahren Zwangsarbeit wegen schweren Raubes verurteilt
 worden seien … —
 
@@ -348,7 +348,7 @@ Ich horchte auf. Die Sache war interessant. Weshalb
 wollte der Gelbe gerade mir sein Geheimnis preisgeben?!
 
 <@pagebreak/>
-Ich legte mit mehr zur Seite, um Tuan Leng besser
+Ich legte mich mehr zur Seite, um Tuan Leng besser
 verstehen zu können …
 
 »Eine Mann allein nicht dort fliehen können, Nr. 102.
@@ -445,7 +445,7 @@ könnte … Eine rätselhafte Persönlichkeit, dieser Baron!«
 »Inwiefern?«
 
 »Er lebt ganz für sich, pflegt keinerlei Verkehr. Und
-Jedes Jahr verreist er für mehrere Monate …«
+jedes Jahr verreist er für mehrere Monate …«
 
 »Er war doch hier in Goa Kolonialbeamter?! Hat er
 <@pagebreak/>
@@ -510,7 +510,7 @@ Und gleich darauf brachte uns der Aufseher denn auch
 zur Arbeit in das Bergwerk hinab … —
 
 Ich könnte hier über diesen ganz modernen Bergwerksbetrieb
-mancherlei Berichten, was dem Leser vielleicht ganz
+mancherlei berichten, was dem Leser vielleicht ganz
 interessant wäre. Ich muß darauf verzichten. Allzu viel
 habe ich noch zu erzählen, — Dinge, die weit merkwürdiger
 sind als eine indische Kupfermine.
@@ -554,7 +554,7 @@ uns nun die Freiheit verschaffen sollte …
 
 <h2>3. Kapitel.</h2>
 
-<h3>Gehetztes wird.</h3>
+<h3>Gehetztes Wild.</h3>
 
 Immer schneller eilte der Chinese dahin. Wir kamen in
 einen neuen Stollen, wieder in einen alten. Hier war das
@@ -752,7 +752,7 @@ Seitenäste drängten sich in die der Nachbarstämme hinein.
 
 Wir kletterten so von Baum zu Baum … stets über
 dem Erdboden. Zum Glück wurde es sehr bald dunkel. Dann
-Worten wir auch schon das Rufen der Verfolger, sahen Fackeln
+hörten wir auch schon das Rufen der Verfolger, sahen Fackeln
 aufleuchten, hörten auch Hundegebell …
 
 Harst war stets voran. Harst suchte für uns den gangbarsten
@@ -840,14 +840,14 @@ ruhten aus. Tuan Leng war körperlich erledigt.
 »Ich tot sein … Tuan nicht mehr leben!« stöhnte er
 immer wieder.
 
-Der arme hielt konnte einem wirklich leid tun.
+Der arme Kerl konnte einem wirklich leid tun.
 
 Als Harst dann aber nach einer halben Stunde erklärte,
 wir beide wollten nun sofort wieder aufbrechen, um in Goa
 etwas Wichtiges zu besorgen, da schnellte der Chinese förmlich
 hoch …
 
-»Tun mitkommen … Tuan auch etwas besorgen.
+»Tuan mitkommen … Tuan auch etwas besorgen.
 Freund besuchen … in sein Schloß …«
 
 »Heißt Dein Freund vielleicht Baron Tissander?« fragte
@@ -874,7 +874,7 @@ Aber Tuan nichts verraten … Tuan holen werden von
 seine Freund Geld und Kleider … Oh — Freund uns
 drei verbergen werden …«
 
-Er ahnte ja noch immer nicht!, wer wir in Wirklichkeit
+Er ahnte ja noch immer nicht, wer wir in Wirklichkeit
 waren. Für ihn blieben wir seinesgleichen, die Sträflinge
 Nummer 101 und 102 …
 
@@ -1007,14 +1007,14 @@ Er winkte … »Ich habe Sie erwartet. Ihre Flucht
 ist längst gemeldet …«
 
 Er war erregt und gereizt. »Tissander hat seine Spione
-überall … Der Gouverneur, steht ganz unter seinem Einfluß,
+überall … Der Gouverneur steht ganz unter seinem Einfluß,
 ist blind …«
 
 Und er führte uns in das Stallgebäude … Er hatte
 für alles gesorgt, obwohl er selbst Gefahr lief, unseretwegen
 Unannehmlichkeiten zu haben.
 
-Harst drückte ihm die Hand. »Es, wird Ihr Schade nicht
+Harst drückte ihm die Hand. »Es wird Ihr Schade nicht
 sein, Sennor Torbido … Tissander soll noch heute gestürzt
 werden … Der Gouverneur wird staunen. Fragen Sie
 nichts …«
@@ -1071,7 +1071,7 @@ Meter in der angegebenen Richtung zurücklegst,
 mein Alter, befindest Du Dich in des Barons Schloßpark.
 Mithin …«
 
-Ich schaute ihm an. Jetzt würde endlich wohl die
+Ich schaute ihn an. Jetzt würde endlich wohl die
 Schaukel an die Reihe kommen.
 
 »… Mithin kann es sich nur um — eine Höhle handeln
@@ -1475,7 +1475,7 @@ Freundschaft zwischen Tuan Leng und diesem »Baron«
 deutete schon darauf hin, daß der »Baron« ebenfalls eine
 sehr bewegte Vergangenheit haben müsse. Dann sah ich
 den angeblichen Tissander in dieser Nacht hinter dem Chinesen
-herstürmen — und dies in so jugendlichen Art, daß
+herstürmen — und dies in so jugendlicher Art, daß
 die sechzig Jahre des Barons doch sehr zweifelhaft waren.
 Und die Schaukel, Exzellenz, — diese famose Schaukel war
 ja stets in Betrieb, wenn ich im Parke war — stets! Zum
@@ -1488,7 +1488,7 @@ ein, wo wir auch drei Tage als seine Gäste weilten. —
 
 Das Boetersche Riesenvermögen und die Diamantenmine
 hat Harst damals dem internationalen Hilfskomitee
-zu Bekämpfung der Säuglingssterblichkeit zur Verfügung
+zur Bekämpfung der Säuglingssterblichkeit zur Verfügung
 gestellt.
 
 Durch Graf Rapsoldi kamen wir dann zu einem neuen

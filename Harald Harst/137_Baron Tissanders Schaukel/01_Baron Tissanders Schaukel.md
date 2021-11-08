@@ -317,7 +317,7 @@ worden sein sollte …
 Und aus diesen Gedanken schreckte mich des Malaien
 Sikiri neuer geller Schrei aus:
 
-»Turban, Tuwan …!!« (Herr, Herr …!! — Nur
+»Tuwan, Tuwan …!!« (Herr, Herr …!! — Nur
 mich redete Sikiri zuweilen mit diesem unterwürfigen Titel
 an — außer Harald.)
 
@@ -506,7 +506,7 @@ Scheiben mehr besaß, hingen wollene Decken. Eine stinkende
 Petroleumlaterne beleuchtete den Herd, einiges Geschirr, ein
 Strohlager und eine große Kiste …
 
-»Bitte, macht’s Dir bequem …« Und Harald deutete
+»Bitte, mach’s Dir bequem …« Und Harald deutete
 auf die Kiste.
 
 Ich war noch immer etwas benommen.
@@ -529,7 +529,7 @@ und anderes hervor, stellte es auf die große Kiste …
 
 »Unser Tisch, mein Alter!« Und er lächelte mir zu …
 »Gut, daß zu wieder bei mir bist. Ohne Dich war die Sache
-noch langweilig …«
+doch langweilig …«
 
 »Welche?«
 
@@ -712,7 +712,7 @@ Diamanten …
 »Alles also vage Gerüchte, mein Alter,« sagte Harald,
 der Kuli, indem er rechts in einen tadellos gepflegten Seitenweg
 einbog. »Ich für meine Person bleibe dabei: Tissander
-schöpft aus denselben Quelle, aus der schon Ethels Vater
+schöpft aus derselben Quelle, aus der schon Ethels Vater
 geschöpft hat, und er tut es unrechtmäßig.«
 
 <@pagebreak/>
@@ -773,7 +773,7 @@ unter Schlinggewächsen mit Riesenblättern …
 Vielleicht fünfzig Meter entfernt war die Ruine …
 Rundum ein Maisfeld. Ein Schöpfrad für die Bewässerung
 war zu erkennen. Zwei Dromedare drehten das mächtige
-Rad in gleich mäßigem Schritt. Daneben hockte ein Knabe
+Rad in gleichmäßigem Schritt. Daneben hockte ein Knabe
 mit einer langen Gerte …
 
 Und wie ich nun so diese Ruine mit liebevollen Blicken
@@ -839,7 +839,7 @@ gern zu schaukeln …«
 
 »Hm — ein Scherz?!«
 
-»Mit Nichten, Max Schraut, mit Nichten. — — Da ist
+»Mit nichten, Max Schraut, mit nichten. — — Da ist
 die weiße Frau …«
 
 Ich starrte hinüber zur Ruine. Wir standen hier am
@@ -1139,7 +1139,7 @@ Ich schwieg — schaute nur …
 Die blonde Europäerin besaß eine berückende Grazie …
 Etwas Traumhaftes, Unwirkliches lag in ihren Bewegungen
 … Hier konnte man begreifen lernen, daß die alten
-Götzendienste sich stets des Tanzes als eines Ausdruck
+Götzendienste sich stets des Tanzes als eines Ausdrucks
 religiöser Anbetung bedient hatten.
 
 Ich bog den Kopf zur Seite, flüsterte:
@@ -1183,14 +1183,14 @@ Dunkelheit …
 
 Und neben mir Harald — ganz leise:
 
-»Gas ist neu … Sollte etwa —?!«
+»Das ist neu … Sollte etwa —?!«
 
 Und er schaltete die Taschenlampe aus, die er bisher
 mit der hohlen Hand abgeblendet hatte.
 
 »Deine Clement!« kam sein geflüsterten Befehl.
 
-Wir wurde schwül … Ich ahnte …
+Mir wurde schwül … Ich ahnte …
 
 Die treue Neunschüssige schmiegte sich in meine Hand.
 
@@ -1462,9 +1462,9 @@ der Text englisch …«
 einen uralten Trick wieder aufgewärmt … Er wurde mit
 der Geheimschrift des Tagebuches nicht fertig. Da ließ er
 eine Stelle aus dem Tagebuch in die Platte meißeln. Ich
-sollte die Schritt entziffern … Ich tat es … Und ich
+sollte die Schrift entziffern … Ich tat es … Und ich
 weiß jetzt, daß das Tagebuch nicht mehr im Tresor der
-Bark ruht. Jetzt wird Tissander es herausgeben müssen.«
+Bank ruht. Jetzt wird Tissander es herausgeben müssen.«
 
 Wieder trieb er die Maultiere an …
 
@@ -1488,7 +1488,7 @@ verhaftet!«
 Harald lachte …
 
 »Weswegen, wenn ich fragen darf? — Ich bin der
-Deutsche Detektiv Harald Harst …«
+deutsche Detektiv Harald Harst …«
 
 Der Portugiese grinste …
 
