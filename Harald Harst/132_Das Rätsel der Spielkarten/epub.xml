@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">c25b56f1-de21-4883-bbb2-bafd9a055780</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Rätsel der Spielkarten</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">132</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Rätsel der Spielkarten
+
+Der Leser besinnt sich: Eva, die Sünde …! Die aschblonde Eva Larda, ein Satan in Weibsgestalt, Abenteurerin ganz großen Stils, Mörderin, ohne Erbarmen … Hatte die Freundin und Helfershelferin beseitigt, hatte die wertvollsten Hochzeitsgeschenke aus der Walldorfschen Wohnung, Uhlandstraße 18, unter unseren Augen gestohlen und die Beute dann im Heim des jungen Paares aus Eifersucht als ehemalige Geliebte Theo von Balkwitz’ nebst anderem als niederträchtige Überraschung aufgebaut …
+
+Nebst anderem: Liebesbriefen von einst, einer verräterischen Photographie und Dokumenten, die Herrn von Balkwitz ruiniert hätten!
+
+Wir waren in der Villa gewesen. Eva war uns entkommen. Und – das andere steckte nun in Haralds Taschen … –
+
+Wir stiegen ein …
+
+Doch halt: schon hier muß ich meine eigenen Worte bemängeln. Wir – – wurden eingestiegen, könnte ich scherzend sagen, wenn die Sache nicht so verdammt ernst gewesen …!
+
+Die Boxkämpferin
+
+Der Leser wird infolge dieses Titels nicht in den Fehler verfallen und annehmen, daß etwa Eva Larda als Boxkämpferin im Cafee Royal im Berliner Stadtteil Schöneberg aufgetreten ist und daß wir sie dort abfaßten.
+
+Nein – so geschmacklos wäre Eva niemals gewesen!
+
+Anderes ging mit dieser Boxkämpferin vor – ganz anderes.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (132) Das Rätsel der Spielkarten.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
