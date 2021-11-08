@@ -162,7 +162,7 @@ das Rezept hinterließ, so mag er lediglich aus Anhänglichkeit
 gegen seinen Herrn — und das war ich inzwischen geworden
 — so gehandelt haben. — Also mein Vater wollte
 zur Auffrischung einen Likör trinken, fand die Flasche aber
-leer mit läutete nach seinem Kammerdiener, der ebenfalls
+leer und läutete nach seinem Kammerdiener, der ebenfalls
 Portugiese war. Der Diener erschien, und mein Vater befahl
 ihm, in den Weinkeller hinabzugehen. Seltsamerweise
 machte der Diener Ausflüchte. Nachher hat er zugegeben,
@@ -212,7 +212,7 @@ Generalkonsul. Bevor ich dort meinen Dienst antrat, fuhr
 ich nach Dodabetta. Der alte Guiseppe Vandoni war seit
 Jahren verstorben. Sein Sohn verwaltete meine Besitzungen.
 Ich zeigte ihm den anonymen Brief, und wir beide
-haben in in aller Stille das verlassene Bergwerk durchsucht
+haben in aller Stille das verlassene Bergwerk durchsucht
 und …«
 
 »… natürlich nichts gefunden,« ergänzte Harald.
@@ -303,7 +303,7 @@ Es geschah, wie Harst es wünschte.
 <h3>Die anderen Gäste.</h3>
 
 Ein Küstendampfer brachte uns nach der weit südlicher
-gelegenen Hafenstadt Kalikut. Vor dort fuhren wir mit der
+gelegenen Hafenstadt Kalikut. Von dort fuhren wir mit der
 Eisenbahn über Palghat und Potamur nach Utakamand,
 einer kleinen Bergstadt, wo wir zwei Pferde käuflich erstanden.
 Der Ritt durch die einsamen Schluchten und Täler,
@@ -480,7 +480,7 @@ Und ich meinte, Frau Buccley müsse die Dame gewesen
 sein, die wir auf der Mausoleumsinsel bemerkt hatten.
 
 Worauf Harald wieder erklärte, er sei auf diese Amerikaner
-sehr neugierig die nach Guiseppes Angaben seit einer
+sehr neugierig, die nach Guiseppes Angaben seit einer
 Woche hier Landschaftsskizzen für ein Reisewerk über Indien
 anfertigten.
 
@@ -618,7 +618,7 @@ Stimme:
 »Verzeihen Sie, Mister Harst: Ihr Gesicht ist doch zu
 charakteristisch, als daß man es vergessen könnte. Sie sind
 der deutsche Detektiv Harald Harst … Und dies hier ist
-Ihre Freund Max Schraut. Von uns haben Sie wirklich
+Ihr Freund Max Schraut. Von uns haben Sie wirklich
 keinen Verrat zu fürchten.«
 
 Was half es?! Wir mußten unser Inkognito lüften.
@@ -1229,7 +1229,7 @@ unverwüstlich …«
 
 Er kletterte höher …
 
-Und kann eine Plattform, darüber der Fels, in dem sich
+Und dann eine Plattform, darüber der Fels, in dem sich
 ein großes Oval abzeichnete: ein Loch, das mit einer Platte
 verschlossen war.
 
@@ -1360,10 +1360,10 @@ Götzen selbst nur vergoldet und doch kaum wegzuschleppen!
 
 Sie stellte ihre Laterne jetzt auf eine der Treppenstufen.
 Dann ging sie zwischen den Zinksärgen hindurch und reckte
-die Arme empor: sich langte nach den Tauen des Flaschenzuges!
+die Arme empor: sie langte nach den Tauen des Flaschenzuges!
 
 Ich begriff nicht recht, was sie damit wollte. Etwa einen
-der Deckel der Sätze emporheben?! Und überhaupt: wozu
+der Deckel der Särge emporheben?! Und überhaupt: wozu
 der Flaschenzug, der hier so ganz öffentlich angebracht war?!
 
 Meine Vermutung stimmte: am Rande des Deckels des
@@ -1390,7 +1390,7 @@ nämlich, daß die Amerikanerin aus dem Sarge einen Beutel
 mit Diamanten herausnehmen würde (was sollte sonst wohl
 dort verborgen sein?!), daß sie also die ganze Beute an
 Edelsteinen oder doch einen Teil davon mit nach der Burg
-Nehmen würde, — jetzt geschah etwas so Unglaubliches, daß
+nehmen würde, — jetzt geschah etwas so Unglaubliches, daß
 wir uns alle Mühe geben mußten, weiter regungslos in
 unserem Versteck zu verharren …
 
@@ -1519,7 +1519,7 @@ eingekehrt sind … Und als ich mich vorhin über den Sarg
 beugte, umkrallten zwei Hände meinen Hals, — Hände, die
 unter den vermoderten Decken hervorschossen … — Mehr
 weiß ich nicht … Ich habe dann um Hilfe geschrien …
-Mehr weiß im nicht …«
+Mehr weiß ich nicht …«
 
 Der greise Inder schüttelte den Kopf …
 
@@ -1529,7 +1529,7 @@ Mag auch mein Hirn leer sein … Ich fühle es: Sie
 lügen nicht! Gehen Sie … gehen Sie — — und schweigen
 Sie, wenn Ihnen Ihr Leben lieb ist …«
 
-Er stützte sie — führte sich die Treppe empor …
+Er stützte sie — führte sie die Treppe empor …
 
 Oben knarrte die große Falltür… Schloß sich wieder.
 

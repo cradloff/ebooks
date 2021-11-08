@@ -353,7 +353,7 @@ den Kanal hinabbeförderte?«
 ein Kind dieses Landes, Sahib. Mein Vater, meine Väter
 waren Untertanen der Rani von Dodabetta. Meine Jugend
 habe ich hier verlebt, hatte im Inseltempel wochenlang gefastet
-und im Gebet vor Indras blitzenden Statuen aus
+und im Gebet vor Indras blitzenden Statuen auf
 spitzen Steinen gekniet … — Es gibt nur einen Kanal,
 Sahib …«
 
@@ -539,7 +539,7 @@ Bis Harald gezwungen auflachte …
 »Nicht schlecht, Sadwitala!! Der Trick ist neu!«
 
 »Es ist nur wieder der »Weg zu Brahma«, Sahib,« erklärte
-der Fakir ernst. »Du hast gezweifelt Sahib …
+der Fakir ernst. »Du hast gezweifelt, Sahib …
 Du hast ein Kind erschossen und doch nur geträumt … —
 da …!!«
 
@@ -693,7 +693,7 @@ Oberfläche des Inselchens ein. In seiner schmucklosen
 massigen Schlichtheit wirkte er tatsächlich wie einer jener
 modernen Mausoleumsbauten, bei denen die Architekten dem
 Gedanken menschlicher irdischer Vergänglichkeit die Unvergänglichkeit
-menschlichen Schattens durch einen recht eindrucksvollen
+menschlichen Schaffens durch einen recht eindrucksvollen
 einfachen und kraftvollen Bauentwurf gegenüberstellen
 wollen.
 
@@ -704,7 +704,7 @@ Wir traten ein. Die kleine Halle enthielt einen Altar,
 zwei große versilberte Leuchter auf schwarzen Marmorsäulen
 und als Erinnerungsstücke an die einstige heidnische Bestimmung
 zahlreiche Wandskulpturen von jener geradezu unanständigen
-Art, wir man sie in Indien an den heiligsten
+Art, wie man sie in Indien an den heiligsten
 Orten so häufig antrifft.
 
 In der Mitte hob sich deutlich im Plattenboden die große
@@ -855,7 +855,7 @@ Wie sehnsüchtig hatte ich auf diese erste Minute des
 Alleinseins mit Harald gewartet! Wie zahllose Fragen
 lagen mir auf der Zunge …!
 
-Wir sind in unserem Wohbngemach — in dem Reitstall,
+Wir sind in unserem Wohngemach — in dem Reitstall,
 der trotz aller exotischen Pracht so ungemütlich ist …
 
 Harald versperrt die Tür, geht in den zweiten Saal, wo
@@ -927,7 +927,7 @@ Schatten der nächsten Cypresse, huschen weiter — zum Seeufer
 
 Hier flimmert das stille Gewässer im Glanz des Nachtgestirns
 … Hier könnte man uns bemerken … Wir
-Ketten das eine Boot von dem Pfahle los, und Harst schwingt
+ketten das eine Boot von dem Pfahle los, und Harst schwingt
 sich hinein — tief gebückt, duckt sich wieder zusammen …
 Auch ich schiebe mich über den Bootsrand … Und der
 Nachtwind schaukelt den Kahn endlos langsam weiter …
@@ -1103,7 +1103,7 @@ lange …
 
 »Zwei deutsche Detektive, Graf Rapsoldi …«
 
-Der Greis schüttelt den weißen opf.
+Der Greis schüttelt den weißen Kopf.
 
 »Ich bin nicht Graf Rapsoldi … Ich bin Matarana,
 der Vater des Yogi Sadwitala, Sennor …«
@@ -1130,7 +1130,7 @@ weil mein Gedächtnis oft versagt … Dann finde ich
 nicht zurück nach unserer Hütte, und die Tiger würden mich
 fressen … Es gibt hier Tiger, Sennor …«
 
-»Wir haben sich nachts gehört … Ich weiß — ich
+»Wir haben sie nachts gehört … Ich weiß — ich
 weiß …«
 
 Und nach kurzem Schweigen:
@@ -1630,5 +1630,5 @@ folgenden Band bringen will.
 
 Nächster Band:
 
-___Die Wachspuppe des Trödlers,___
+___Die Wachspuppe des Trödlers.___
 
