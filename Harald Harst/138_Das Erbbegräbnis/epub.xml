@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">6d73969d-8c83-41c1-8a7a-d47c579992c2</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Erbbegräbnis</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">138</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Erbbegräbnis
+
+Graf Rapsoldi, der Gouverneur der portugiesisch-indischen Kolonie Goa, führte uns nach dem Abendessen in das Rauchzimmer und schickte den aufwartenden Diener hinaus.
+
+Harald Harst und ich hatten neben einem kleinen Rauchtischchen in bequemen weichen Klubsesseln Platz genommen.
+
+Der Graf brachte Likör, Zigarren und Zigaretten herbei und baute all die Herrlichkeiten mit einer liebenswürdigen Bemerkung vor uns auf.
+
+»Ein vorzüglicher Likör,« meinte Harald anerkennend und nahm die betreffende Flasche, um das Firmenschild zu prüfen.
+
+Da sagte Rapsoldi schon:
+
+»Für einen Likör ein sonderbarer Name, dieses … Erbbegräbnis. — Nicht wahr?«
+
+Der Greis ohne Hirn
+
+Also allein mit dem Greise, der soeben gesagt hatte: »Wenn auch mein Hirn leer ist …«
+
+Über diese seltsame Äußerung nachzugrübeln, hatte ich keine Zeit.
+
+Der Inder stand schon wieder vor dem mittleren Sarge und zog nun mit Hilfe des Flaschenzuges den Deckel noch höher.
+
+Dann griff er hinein in den Unterteil, hob die zerschlissenen Decken und Fetzen empor, an denen noch Reste breiter Goldstickereien zu erkennen waren …
+
+Der, dem einst dieser Sarg letztes Lager gewesen, war längst zu Staub zerfallen …
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (138) Das Erbbegräbnis.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1925</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
