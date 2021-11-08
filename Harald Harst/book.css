@@ -68,6 +68,11 @@ ol {
 	text-align: justify;
 }
 
+.abgesetzt {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
 /* Landmarks und Page-List ausblenden */
 #landmarks, #page-list {
 	display: none;
@@ -129,6 +134,10 @@ td, th {
 
 .indent {
 	margin-left: 1em;
+}
+
+.indent2 {
+	margin-left: 2em;
 }
 
 .monospace {

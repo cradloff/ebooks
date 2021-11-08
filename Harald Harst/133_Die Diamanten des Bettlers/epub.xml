@@ -3,13 +3,13 @@
 <properties>
 <comment>Eigenschaften für eBook</comment>
 <!-- eindeutige ID des Buchs (Pflichtangabe) -->
-<entry key="UUID">7c7fecee-1a25-11ec-aa94-3b91bd95dc49</entry>
+<entry key="UUID">e5440f34-2458-11ec-9158-8779fb31d84c</entry>
 <!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
 <entry key="secondaryID"></entry>
 <!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
 <entry key="secondaryIDType"></entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">Das gestohlene Auto</entry>
+<entry key="title">Die Diamanten des Bettlers</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
 <!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
@@ -17,47 +17,47 @@
 <!-- Sammlung, z.B. Titel einer Serie -->
 <entry key="collection">Harald Harst - aus meinem Leben</entry>
 <!-- Position innerhalb der Sammlung (Band-Nummer) -->
-<entry key="group-position">131</entry>
+<entry key="group-position">133</entry>
 <!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
 <entry key="edition"></entry>
 <!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
 <entry key="description">
-Das gestohlene Auto
+Die Diamanten des Bettlers
 
-Das – gestohlene Auto …
+Nie ist ein Weib so heiß begehrt worden wie Eva Larda, die aschblonde schlanke Schönheit …
 
-Gewiß kein Titel, der irgendwie Erfindungsgeist verrät.
+Nie haben sich eines Weibes wegen gleichzeitig Hunderte von intelligenten Männern derart bemüht: die ganze Berliner Kriminalpolizei!
 
-Nein, ein sehr alltäglicher Titel, denn in Berlin, kann man sagen, wird jede Woche ein Auto – geklaut … mindestens!
+Nie war ein Fangobjekt so schlau und so vielgestaltig wie Eva Larda, ließ sich von niemand umstricken — — selbst von Harald Harst nicht!
 
-Wenn aber ein Harald Harst sich mit einem gestohlenen Auto beschäftigt, so muß das schon eine ganz besondere Bewandtnis haben, denn für gewöhnlich gibt mein Freund Harald sich mit – alltäglichen Dingen nicht ab …
+Zwei Morde auf dem Gewissen, dazu Diebstähle, Betrügereien, zuletzt den Juwelendiebstahl bei Generaldirektor Benatzki: kein Wunder, daß alle Welt nach ihr suchte!
 
-Eva, die Sünde …
+Auch wir — auch wir, ganz umsonst …
 
-Etwas, das Musik sein soll, martert unsere Ohren mit groteskem Lärm.
+Die Amazonen
 
-Jazzbandkapelle …
+Drei Uhr morgens …
 
-Zigarettenrauch, süßlich und schwer, schwimmt in der Luft, mengt sich widrig mit modernen Wohlgerüchen.
+Das Cafee Olympia ist längst geschlossen. Alle Fenster dunkel …
 
-Bloße Frauenschultern leuchten matt als Sockel zu lebensgierigen Gesichtern.
+Aber wir kennen die Eigenart solcher Verbrecherhöhlen.  Da gibt es stets Hinterzimmer, in denen man sich bis zum frühen Morgen vergnügt. Da gibt es stets geheime Zeichen, die dem Eingeweihten Zutritt verschaffen …
 
-Halbwelt – Verbrechen – stumpfsinniges Behagen übersatter Männer.
+»Warten wir,« meint Harald …
 
-Zwischenein die halb verlegenen typischen Agrariervisagen, gesund, hochmütig, – Besucher der Weltstadt, die überall zu treffen sind.
+Endlich öffnet er also den Mund — endlich …
 
-Zwischenein ein paar Familien der guten Gesellschaft, die von der Neugier hier in den Pavillon Frou-Frou getrieben worden sind.
+»Meine letzte Hoffnung ist der schöne Bodo …« fährt er ebenso leise fort. »Ich kann mir nicht recht denken, daß er seinen Posten als »Steher« ohne zwingende Gründe verlassen hat. Er bekommt doch noch Geld von uns, und —«
 
-Und wir oben auf der schmalen Estrade am winzigen Tischchen in der Maske der Herren der Scholle, – Monokel im Auge, blasiert und doch so gesund aussehend, blondbärtig, feste Scheitel, – – nichts fehlt an der Maske.
+»Achtung!« rief ich mit gedämpfter Stimme dazwischen. »Achtung!! Da ist er schon!«
 </entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename">Kabel, Walther - (131) Das gestohlene Auto.epub</entry>
+<entry key="filename">Kabel, Walther - (133) Die Diamanten des Bettlers.epub</entry>
 <!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->

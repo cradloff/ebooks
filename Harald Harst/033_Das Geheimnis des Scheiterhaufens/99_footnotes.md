@@ -1,6 +1,6 @@
 <div class="anmerkungen">Anmerkungen:</div>
 
-<@footnote 1 "01_Das Geheimnis des Scheiterhaufens.md">Fehlendes Wort sinngemäß
+<@footnote 1 "01_Das Geheimnis des Scheiterhaufens.md">Fehlende Zeile sinngemäß
 ergänzt.</@footnote>
 
 <@footnote 2 "01_Das Geheimnis des Scheiterhaufens.md">übertragen, scherzhaft:

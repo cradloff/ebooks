@@ -30,7 +30,7 @@ min Jong!« Dann wandte er sich an Harst:
 einlaufen, in der damals die Piraten mit dem Kutter landeten.«
 
 Weber hatte zu viel versprochen. Wir mußten noch zwei
-Stunden suchen, bevor wir die durch Risse und Klippen verdeckte
+Stunden suchen, bevor wir die durch Riffe und Klippen verdeckte
 Buchteinfahrt fanden. Dann wurde der Standard an
 der uns bereits bekannten Landungsbrücke vertäut, die einst
 hier in der Weltabgeschiedenheit dieses unbewohnten Inselchens
@@ -128,11 +128,11 @@ bestimmt rechnete.
 Harst war jetzt in der engen Felsspalte verschwunden, die
 den Zugang zu dem kleinen Tale bildete.
 
-Plötzlich rief er uns zu. »Hierher — ich hab’s!«
+Plötzlich rief er uns zu: »Hierher — ich hab’s!«
 
 Wir bogen um das Gestrüpp herum, das vor der Spalte
 wuchs. Diese glich einem niedrigen Kanon und war an der
-Sohle durchschnittlich 1 ½ Meter breit und etwa fünf Meter
+Sohle durchschnittlich 1½ Meter breit und etwa fünf Meter
 hoch.
 
 Von Harst war jedoch nichts mehr zu sehen. Wir verfolgten
@@ -191,7 +191,7 @@ bleiben müßten. »Niemand darf etwas von unserer Anwesenheit
 hier ahnen. Es muß also jedes laute Wort, jeder Lärm
 vermieden werden. Ich verbiete, daß jemand die Jacht verläßt.
 So lange wir, Schraut und ich, anderswo zu tun haben,
-tragen Sie, lieber Weber die Verantwortung. — Wir beide
+tragen Sie, lieber Weber, die Verantwortung. — Wir beide
 <@pagebreak/>
 werden sofort nach dem Mittagessen aufbrechen und Proviant
 für mehrere Tage mitnehmen.«
@@ -244,7 +244,7 @@ Jetzt begann’s bei mir zu dämmern.
 hat es zurückgelassen,« meinte ich.
 
 »Ganz recht. Ein Zeichen. Sogar noch mehr: ein Wegweiser,
-ein geheimer Wink wo etwas Bestimmtes zu suchen
+ein geheimer Wink, wo etwas Bestimmtes zu suchen
 ist. — Die Lage der beiden Tiere fiel mir sofort auf. Weshalb
 hatte man sie durch Aststücke gerade in dieser Richtung zueinander
 aufgebaut?! — Ich überlegte mir: Wenn man die
@@ -253,7 +253,7 @@ sich diese Linien genau vor der Türschwelle. Vielleicht ist an
 diesem Ort irgend etwas versteckt worden, das ein guter Bekannter
 der Malcapier in Empfang nehmen soll. — Nun —
 ich habe, als Weber und Du nach der Jacht gingt, dort vorsichtig
-nachgegraben. Und — ich fand auch etwas. Rate mal
+nachgegraben. Und — ich fand auch etwas. Rate mal,
 was?«
 
 »Schwer zu raten. — Ein Schreiben?«
@@ -304,7 +304,7 @@ Wörter.«
 Harst schüttelte den Kopf. »Du irrst. Das Blatt besagte
 nichts. Das Fläschchen besagte alles.«
 
-»Ein leeres Fläschchen! — War denn auf das Glas
+»Ein leeres Fläschchen?! — War denn auf das Glas
 vielleicht etwas geschrieben oder —«
 
 »Auch das nicht. Dieses Medizinfläschchen unterschied sich
@@ -318,7 +318,7 @@ Aus der Richtung des Kanons kam unten im Talkessel
 ein langer, dünner Chinese in schmutzigem Leinenkittel und
 Bastschuhen dahergeschlichen.
 
-»Haben wir ein Glück gehabt!« frohlockte Harst leise. »Da
+»Haben wir ein Glück gehabt!« frohlockte Harst leise. »Da,
 schau’ Dir den Kerl genau an. Das verkniffene Spitzbubengesicht
 mit dem dünnen Schnurrbart vergißt man nicht so
 leicht! — Wie vorsichtig der Kerl ist! — Ah — nun schießt er
@@ -363,7 +363,7 @@ Ich nickte eifrig. Ob ich mich darauf besann!
 Bangkok-Rekorder, den ich vor kurzem las, ohne ihm Beachtung
 zu schenken,« fuhr Harst fort. »Da war gesagt, daß die
 Polizei einer Geheimorganisation von Verbrechern auf der
-Spur sei, die von Kalkutta bis Hongkonk »Filialen« in allen
+Spur sei, die von Kalkutta bis Hongkong »Filialen« in allen
 Hafenplätzen haben und deren Leiterin eine ältere Frau sein
 sollte. Mir schoß schon damals durch den Kopf, ob nicht unsere
 Eugenie diese »ältere Frau« vielleicht wäre. Der Artikel kam
@@ -450,8 +450,8 @@ fraglos für Verbündete der jetzt vielgenannten Verbrecherin.
 »Malcapier?« meinte Harst »Hm — den Namen habe
 ich letztens irgendwo gelesen —«
 
-»So — so!« grinste Chatarsan. »Gelesen! — Touristen
-die ausgerechnet dieses Inselchen besuchen, daß so weit ab von
+»So — so!« grinste Chatarsan. »Gelesen! — Touristen,
+die ausgerechnet dieses Inselchen besuchen, das so weit ab von
 jedem größeren Hafen liegt, sind wir noch nie begegnet. —
 Haben Sie Ausweispapiere bei sich?«
 
@@ -471,7 +471,7 @@ mit Ihren drei chinesischen Freunden längst unterwegs.«
 Der kleine Detektivinspektor biß sich erst ärgerlich auf die
 Lippen, meckerte dann wieder und meinte:
 
-»He he, — wollen Sie mich verhören?!«
+»He — he, — wollen Sie mich verhören?!«
 
 Es war jetzt klar: dieser Chatarsan glaubte tatsächlich, daß
 wir zu der Malcapier in näheren Beziehungen standen und
@@ -518,7 +518,7 @@ andere zum Vorschein kamen, meckerte Chatarsan abermals:
 so viel zu sehen, daß man sich für einen tagelangen Aufenthalt
 einrichten muß!«
 
-Harst schwieg. — Nun legten wir unsere Klement-Repetierpistolen
+Harst schwieg. — Nun legten wir unsere Clement-Repetierpistolen
 und unsere Taschenlampen nebst je drei Ersatzbatterien
 auf den Tisch. Das gab Chatarsan zu einer ähnlichen
 Bemerkung Veranlassung.
@@ -628,7 +628,7 @@ Harst.
 
 Chatarsan meckerte leise. »Sie sind ein komischer Mensch,
 Master Bark. Zu welchem Zweck wird einem wohl Reis mit
-Fleisch vorgesetzt he?! — Übrigens war es mein Freund
+Fleisch vorgesetzt, he?! — Übrigens war es mein Freund
 Limpo Ma, der daran erinnerte, daß Sie beide Hunger haben
 könnten.«
 
@@ -679,7 +679,7 @@ Wir stiegen hinter Chatarsan an Deck. Unter dem Sonnensegel
 saßen noch Limpo Ma und der Zolldirektor. Der Inspektor
 rief ihnen zu, daß er uns in den Talkessel schaffen
 lassen wolle. »Ich verfolge damit ganz bestimmte Absichten,«
-fügte er hinzu. —
+fügte er hinzu.
 
 Ich bemerkte, daß über des reichen Chinesen Gesicht ein
 hohnvolles Grinsen hinlief.
@@ -784,7 +784,7 @@ hatte er wieder halb scherzend allerlei Ausflüchte gemacht.
 Schließlich meinte er dann:
 
 »Du bist heute ja zäh wie Leder, mein Alter. Ein Weib
-könnte nicht neugierigen sein. Nun, Du sollst deinen Willen
+könnte nicht neugieriger sein. Nun, Du sollst Deinen Willen
 haben. — Was gehört zu einem Medizintropffläschchen?«
 
 Ich blieb die Antwort schuldig.
@@ -841,7 +841,7 @@ um zu sehen, was die Beamten auf der Andrew-Insel ausrichteten.«
 »Ganz recht. — Weil ich diesen Verdacht sehr bald geschöpft
 hatte, warnte ich Dich auch vor der Reismahlzeit. —
 Mir kam diese Sorge um unser leibliches Wohlbefinden sofort
-übertrieben vor. Und doch sagte ich mir, daß Limpo Ma
+übertrieben vor. Und doch sagte ich mir, daß Limpo Ma,
 der uns vielleicht in Singapore gesehen hat, ja keine bessere
 Gelegenheit hatte, uns aus dem Wege zu räumen, als diese.
 Er hätte, wenn wir an dem Reis gestorben wären, nie in Verdacht
@@ -899,7 +899,7 @@ lauern. Ich mußte dabei mithalten, ob ich wollte oder nicht.
 Plötzlich — es war gegen 1 Uhr mittags — sprang Harst
 aus dem Waggon heraus.
 
-»Komm, wir haben ihn!« sagte er nur.
+»Komm’, wir haben ihn!« sagte er nur.
 
 <@pagebreak/>
 Meine Müdigkeit war wie weggezaubert.
@@ -1003,7 +1003,7 @@ ein.
 Als die Bonne mit den Kindern gegangen war, rückte
 Harald ganz nahe an mich heran.
 
-»Werde munter, mein Alter« meinte er. »Wir können
+»Werde munter, mein Alter,« meinte er. »Wir können
 <@pagebreak/>
 jetzt befriedigt einen kühleren Ort aufsuchen. Eugenie Malcapier
 ist gefunden und der Zweck des sprechenden Kopfes liegt
@@ -1056,7 +1056,7 @@ offenes Auto den Engländer und die Lahme entführte.
 
 Harst stand da und starrte zu Boden.
 
-»Was hast du denn?« fragte ich leicht beunruhigt.
+»Was hast Du denn?« fragte ich leicht beunruhigt.
 
 »Ich weiß nicht recht, ob sie mich erkannt hat,« flüsterte
 er. »Es war unsere Eugenie. Ihr Interesse für den Tisch der
@@ -1201,7 +1201,7 @@ Die Wanduhr in der Kajüte zeigte Mitternacht. Ich
 konnte die Augen kaum mehr offen halten. Worauf warteten
 die Banditen eigentlich?
 
-Es wurde ½ 1. — Da — draußen ein besonderer Pfiff.
+Es wurde ½1. — Da — draußen ein besonderer Pfiff.
 Einer der Leute eilte hinaus. Und dann — dann trat Eugenie
 Malcapier ein — die grauhaarige Engländerin. Sie warf
 einen schnellen Blick auf uns. Sie setzte sich, lehnte sich zurück.
@@ -1225,7 +1225,7 @@ hat?«
 
 »Nun, ich lege auch keinen besonderen Wert darauf. Ich
 brauche Ihr Spürtalent nicht mehr zu fürchten. Tote denken
-— und handeln nicht mehr.«
+und handeln nicht mehr.«
 
 Sie wandte sich an den maskierten Europäer, flüsterte
 mit ihm. Zwei der Kerle gingen hinaus, kamen mit Stricken
@@ -1249,7 +1249,7 @@ der Kerle hatte einen langen Bootshaken genommen und maß
 die Tiefe. Da — da erst wurde mir klar, wie wir sterben
 sollten. Man wollte uns — ersäufen!
 
-Ein gurgelnden, erstickter Schrei drang aus meiner Kehle
+Ein gurgelnder, erstickter Schrei drang aus meiner Kehle
 hervor. Harst wandte den Kopf nach mir hin. Ein traurig-zärtlicher,
 so lieber Blick traf mich.
 
@@ -1279,9 +1279,9 @@ wird keinen Detektiv mehr besitzen wie Sie!«
 
 Ich beobachtete diese beiden Menschen, die Todfeinde waren
 und doch hier in höflichstem Tone miteinander verkehrten.
-Ich bemerkte wie Harsts Augen für einen Moment sich weiteten.
+Ich bemerkte, wie Harsts Augen für einen Moment sich weiteten.
 Auch ich hatte vom nahen Ufer her das Quaken eines
-Frosches gehört; und ich hatte an Fritz Kersten, den Berliner
+Frosches gehört; und ich hatte an Fritz Kersten, den Berliner,
 gedacht, der oft sich als Tierstimmenimitator vor uns produziert
 hatte.
 
@@ -1409,7 +1409,7 @@ Chatarsan tobte vor Wut und Enttäuschung. Harst
 zuckte die Achseln: »Pech!«
 
 Dann zeigte er in einem Zimmerchen hinter der Bühne
-auf ein offenes Fenster. »Diesen Weg nahm sie, vorläufig
+auf ein offenes Fenster. »Diesen Weg nahm sie. Vorläufig
 ist sie uns entschlüpft!«
 
 Er bückte sich, hob einen Bastteppich hoch. In den Dielen

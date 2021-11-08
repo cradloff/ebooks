@@ -19,6 +19,7 @@
 \bha!\b	hat
 \bHart\b	Harst
 \bis!\b	ist
+\bgesunden	gefunden
 \blebten	letzten
 \blett\b	jetzt
 \bLust\b	Luft
@@ -36,3 +37,4 @@
 \bvor!\b	dort
 \bwirft\b	wirst
 \bWir\.	Mr.
+nod\)	noch

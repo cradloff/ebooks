@@ -61,7 +61,7 @@ andere ist. Der Einfluß dieser Bhats, auch Tscharans
 genannt, übertrifft hier den der eigentlichen Priester, der
 Brahmanen, ganz bedeutend.
 
-»Gehen Sie, Jenningson,« lächelte Harst, »genau dasselbe
+»Sehen Sie, Jenningson,« lächelte Harst, »genau dasselbe
 wollte auch ich soeben tun: wir wollten nach Girwali.«
 
 Ah — nach Girwali! Es würde also fraglos kein
@@ -126,7 +126,7 @@ wurden wir gewahr, daß er offenbar die Absicht hatte, die
 beiden Hengste zu trennen.
 
 Unwillkürlich rief ich ihm eine Warnung zu. Die
-Kämpfer bearbeiteten sich jetzt, hinten austeilend und den
+Kämpfer bearbeiteten sich jetzt, hinten auskeilend und den
 Kopf tief gesenkt, mit den Hinterhufen.
 
 Seltsam genug: Harald legte mir rasch die Hand auf
@@ -169,7 +169,7 @@ Harald rief ihn an, schritt auf ihn zu.
 Jetzt erst sah ich so recht, wie hager und faltig das Gesicht
 des Greises und wie zerrissen sein mantelartiges,
 schmieriges Gewand war. Der weiße, lange Bart verlieh
-dem runzeligen Antlitz etwas Ehrwürdiges. Aus den großen
+dem runzligen Antlitz etwas Ehrwürdiges. Aus den großen
 <@pagebreak/>
 klaren Schwärmeraugen blitzten jedoch eine jugendliche
 Intelligenz und eine nicht alltägliche Energie.
@@ -226,7 +226,7 @@ Zugstrick ergriff, suchte ihn der Greis beiseite zu drängen.
 »Sahib, ein so berühmter Mann wie Du darfst Dich
 nicht so erniedrigen,« meinte der Alte rasch. »Ich weiß,
 wer Ihr seid. Ihr habt Sahib Olgerdyn in der Thar umzingelt
-und die Karrenstraßen wieder frei gemacht von
+und die Karawanenstraßen wieder frei gemacht von
 den Bedrohungen durch die Räuber.«
 
 Ich hatte schon mit angefaßt. Da Harald den Greis
@@ -323,7 +323,7 @@ Girwali hinabblicken.
 
 Wir hatten es vorgestern auf einem Spazierritt bereits
 kennengelernt. Es bestand aus dreißig Steinhütten, die
-sich um einen stark salzhaltigen Teich herum gruppierten.
+sich um einen stark salzhaltigen Teich herumgruppierten.
 Es wohnten hier alles radschputische Viehzüchter, zumeist
 recht begüterte Leute, was man schon an der Sauberkeit
 der einzelnen Gehöfte erkannte.
@@ -448,6 +448,7 @@ die Hütte und entschwanden unseren Blicken.
 So verstrichen gut zehn Minuten.
 
 Nichts geschah. Die beiden erschienen nicht wieder.
+
 »Seltsam,« sagte Harald. »Wirklich seltsam!«
 
 <@pagebreak/>
@@ -533,8 +534,8 @@ Seine Folgen aber können bis in die Gegenwart hineinreichen.
 »Ja — nichts regt sich. Nur aus dem Kamin steigt
 jetzt Rauch auf.«
 
-»Immerhin etwas! Wenn man nur näher heran
-könnte! Aber —«
+»Immerhin etwas! Wenn man nur näher herankönnte!
+Aber —«
 
 Ein Geräusch hinter uns ließ uns gleichzeitig die Köpfe
 drehen.
@@ -598,7 +599,7 @@ geben zu wollen.
 »Was wird nachher mit uns geschehen?« fragte er nach
 kurzer Pause.
 
-»Das werdet ihr später erfahren,« erklärte das Mädchen
+»Das werdet Ihr später erfahren,« erklärte das Mädchen
 genau so gelassen. »Zuerst muß Sahib Schraut sich
 binden lassen.«
 
@@ -720,7 +721,7 @@ hatte.
 Das Messer war zwischen zwei Steine gefallen. Niemand
 achtete auf mich. Die Füße waren mir nicht gefesselt
 worden, und so konnte ich denn mit dem linken Stiefel das
-Messer langsam zu mir herzuziehen, konnte es auch, etwas
+Messer langsam zu mir heranziehen, konnte es auch, etwas
 nach vorn rutschend, mit den gebundenen Händen ergreifen.
 
 Es war zum Glück sehr scharf und zweischneidig. —
@@ -745,6 +746,7 @@ Ich sah ihn nicht mehr.
 
 Ich versuchte die Riemen zu durchschneiden. Es war
 dies vielleicht die letzte Möglichkeit, frei zu kommen.
+
 Endlich — endlich war ich die Riemen los, konnte die
 Hände gebrauchen.
 
@@ -775,7 +777,7 @@ sich an das Dunkel mehr gewöhnt hatten, gewahrte ich doch
 links neben meinem Versteck einen ganz schwachen Lichtschimmer.
 
 Er konnte nicht durch den Höhlenausgang hereinfallen,
-dieser längliche Schimmer der Tageshelle! Nein — es
+dieser kärgliche Schimmer der Tageshelle! Nein — es
 mußte dort eine breite Spalte geben, die nach oben führte
 — nach oben über die Felskanzel, woher ja vorhin das Tau
 herabgeglitten war.
@@ -879,6 +881,7 @@ Abermals Jenningsons Stimme:
 »Teufel, was bedeutet das alles, Mr. Schraut?!«
 
 Dann hetzte er seine Doggen auf irgend eine Fährte. —
+
 Und eine halbe Stunde später trugen Jenningson und
 ich auf einer aus Baumzweigen hergestellten Bahre den
 mit bei meiner Jacke bedeckten toten Harst nach der Burg.
@@ -900,7 +903,7 @@ Kopf, als ich ihm nun alles mehr im Zusammenhang erzählte.
 »Die Blinde kenne ich, aber nur von ferne,« meinte
 er. »Omar hat sie erst vor zwei Monaten zu sich genommen.
 Bis dahin lebte er ganz allein in seiner Hütte. Das
-Mädchen heißt Sirischa.«
+Mädchen heißt Girischa.«
 
 Wir passierten jetzt mit der Bahre das Kamelgehege.
 Hier waren wir vor Spionen sicher. Ich konnte Harst die
@@ -910,7 +913,7 @@ Na — er sah nach allem anderen nur nicht nach einer
 Leiche aus.
 
 »Mr. Jenningson,« sagte er fast strahlend, »Sie werden
-sich wundern, wie diese Geschichte endet! Sirischa ist
+sich wundern, wie diese Geschichte endet! Girischa ist
 nämlich gar keine Inderin, ist auch nicht blind, sondern eine
 gefärbte Europäerin!«
 
@@ -942,7 +945,7 @@ wir beantworten. Jenningson wiederholte stets nur dasselbe:
 worden.«
 
 Vor der unlängst notdürftig wiederhergestellten Hängebrücke,
-die von der Talwand nach der auf einem ungeheuern
+die von der Talwand nach der auf einem ungeheuren
 Felsen erbauten Burg hinüberführte, empfingen uns
 der graubärtige Hausmeister Tossan und die jetzige Herrin
 der Burg, des toten Olgerdyn Tochter.
@@ -955,6 +958,7 @@ Oberleib bedeckte.
 So wurde er denn in das Erdgeschoß der Burg in die
 sogenannte kleine Bibliothek getragen, wo in der Mitte ein
 mächtiger Tisch stand. Auf diesen setzten wir die Bahre.
+
 Dieses große Zimmer hatte nur zwei Eingänge: einen
 vom Flur, den anderen durch Olgerdyns früheres
 Arbeitszimmer, das seine Tochter jetzt für immer abgeschlossen
@@ -1212,9 +1216,9 @@ nichts anderes als eine Mauer sein, ein Teil der Mauer des
 alten Schlosses, also ein Stück Ruinenmauer.«
 
 Wir hatten ja von dem kleinen Ziegenhirten die Auskunft
-erhalten, daß der Bhat Dauli Abek in dem Hügel
+erhalten, daß der Bhat Dauli Abek *in* dem Hügel
 wohnen sollte. Als ich Harald hieran erinnerte, sagte er
-nur: »Ganz recht! Dann wohnt er in der im Sande vergrabenen
+nur: »Ganz recht! Dann wohnt er in der im Sande begrabenen
 Ruine.«
 
 Wir waren den Hügel hinabgeeilt und bogen nun nach

@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-<h1>Die Buschklepper der Thar-Wüste.</h1>
+<h1>Roland, der Zwerg.</h1>
 <h2>1. Kapitel.</h2>
 <h3>Der Eckturm.</h3>
 
