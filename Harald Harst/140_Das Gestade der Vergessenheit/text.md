@@ -475,31 +475,31 @@ Margall …« —
 <h2>3. Kapitel.</h2>
 <h3>Der Schalltrichter.</h3>
 
-Das geruhsame Tempo des bisöherigen Verlaufes dieses
+Das geruhsame Tempo des bisherigen Verlaufes dieses
 Abenteuers, das meiner Bequemlichkeit recht gut bekam,
 sollte jetzt jedoch mit einem Schlage sich wandeln …
 
-Der Marsch zu unserem neuen Quartier verlief aller-dinag8
+Der Marsch zu unserem neuen Quartier verlief allerdings
 ohne jede Störung und bot uns beim Lichte des inzwischen
 aufgegangenen Vollmondes wahrhaft entzückende
 Winterbilder dieser großartigen Bergeinsamkeit.
 
 Nach knapp einunddreiviertel Stunden hatten wir die
-Höhle am Gestade der Vergessenheit erreicht Jetzt im
-NMondenglanz wirkte der stille ovale Bergsee noch bezaubernder.
-Diese grandiose Hochgebirgseinsamkeit wette geradezu
+Höhle am Gestade der Vergessenheit erreicht. Jetzt im
+Mondenglanz wirkte der stille ovale Bergsee noch bezaubernder.
+Diese grandiose Hochgebirgseinsamkeit weckte geradezu
 allerlei Gedanken an ein höheres Wesen, das dort irgendwo
 im Weltall über den Sternen thronen mußte.
 
-Eine Weile hielten wir zwi’cken den kolossalen Felsblöcken
-und bewunderten das LandschaftsLbild. Selbst Harald
+Eine Weile hielten wir zwischen den kolossalen Felsblöcken
+und bewunderten das Landschaftsbild. Selbst Harald
 schien ergriffen …
 
 <@pagebreak/>
 Schien …
 
 Man täuscht sich leicht, wenn man wie ich einen kleinen
-Schuß Poetenblut in den Adern hat
+Schuß Poetenblut in den Adern hat …
 
 Denn ganz unvermittelt bewies er mir, daß seine gespannte
 Aufmerksamkeit anderen Dingen galt.
@@ -514,14 +514,14 @@ Das Mondlicht verwandelte einen Teil der Wasseroberfläche
 in ein silbernes Viereck …
 
 Aber außerhalb dieses glänzenden Streifens gewahrte
-ich nun ebenfalls noch einen hellen Sieb … Es sah so aus
+ich nun ebenfalls noch einen hellen Fleck … Es sah so aus,
 als ob auf dem Grunde des See sich eine Lichtquelle befände,
-die bis nach oben hin das Master durchstrahlte. Daneben
-Lagerten leichte Nebelgebilde, die Douglas auf die heißen
+die bis nach oben hin das Wasser durchstrahlte. Daneben
+Lagerten leichte Nebelgebilde, die fraglos auf die heißen
 Quellen zurückzuführen waren.
 
 »Was hältst Du davon?« fragte Harst leise und stieg
-aus dem Sattel, nahm sein Fernglas und stellte es aus die
+aus dem Sattel, nahm sein Fernglas und stellte es auf die
 betreffende Stelle ein.
 
 Ich folgte seinem Beispiel …
@@ -539,13 +539,13 @@ wir uns das …«
 Dann begannen wir möglichst geräuschlos die Ponys
 in die schmale Grotte zu schaffen, was nicht ganz einfach
 war, da der Eingang etwa anderthalb Meter über dem
-Boden lag. Erst als wir aus Felsstiken eine Art Treppe
+Boden lag. Erst als wir aus Felsstücken eine Art Treppe
 aufgehäuft hatten, konnten wir die Pferdchen hineinbringen.
 Die Treppe warfen wir dann wieder auseinander. Inzwischen
-hatte der Wind neues gewollt herbeigeführt, das
+hatte der Wind neues Gewölk herbeigeführt, das
 <@pagebreak/>
 jetzt eine Menge Schnee über diese Eis- und Felswildnis
-ausstreute und all unsere Fährten handhoch bedrohte.
+ausstreute und all unsere Fährten handhoch bedeckte.
 
 Die neue Grotte erwies sich als ideale Unterkunft. Sie
 lag in dem größten der Felskolosse, und ihre Wände waren
@@ -557,18 +557,18 @@ Quellen,« meinte Harald vergnügt. »Unser Thermometer
 zeigt elf Grad … Dabei hält man es schon aus …«
 
 Unsere drei Ponys schienen gleichsam sehr zufrieden
-zu sein. Wir hatten sich in einer geräumigen Ausbuchtung
-des tiefsten Höhlenwinkels untergebracht, wo sich sich sehr
-bald friedlich und Haus niedertaten.
+zu sein. Wir hatten sie in einer geräumigen Ausbuchtung
+des tiefsten Höhlenwinkels untergebracht, wo sie sich sehr
+bald friedlich und faul niedertaten.
 
 Wir beide richteten uns dicht daneben unsere Lagerstätten
-her. Harst hatte den Spirituskocher, der mit Harst-spiritus
+her. Harst hatte den Spirituskocher, der mit Hartspiritus
 benutzt wurde, angezündet und wollte Tee aufbrühen.
 Ich selbst arbeitete vorn am Eingang, wo eine
-Menge Geröll unterlag. Es war mehr zeitraubend als
+Menge Geröll umherlag. Es war mehr zeitraubend als
 schwierig, den Eingang so zu versperren, daß niemand zu
-uns hereinkonnte, jedenfalls nicht ohne uns durch) das Herabpoltern
-von kleinen rechtzeitig zu warnen.
+uns hereinkonnte, jedenfalls nicht ohne uns durch das Herabpoltern
+von Steinen rechtzeitig zu warnen.
 
 Ich war nun mit der Barrikade fertig und kehrte zu
 Harald zurück. Die schmale Höhle beschrieb einen Bogen.
@@ -596,7 +596,7 @@ ich rief leise …
 Und da — — von oben her seine Stimme …
 
 Von oben, von der Höhlendecke, wo eine breite Felsspalte
-als s& Warze Kluft gähnte. In dieser Spalte nun
+als schwarze Kluft gähnte. In dieser Spalte nun
 sein Gesicht …
 
 Und seine merkwürdig erregte Stimme dazu, die mir
@@ -608,35 +608,35 @@ emporklettern. Ich reiche Dir dann die Hand und
 ziehe Dich vollends empor …«
 
 sehr bald war ich in der Felsspalte, die sich nach oben
-zu kügelsörmig erweiterte und uns beiden übergenug Raum
+zu kugelförmig erweiterte und uns beiden übergenug Raum
 bot …
 
 Kaum hatte ich hier nach ein paar tiefen Atemzügen
 meine Lungen wieder beruhigt, als ich auch schon irgendwoher
 merkwürdige Töne vernahm …
 
-»Bitte — stets den Kopf nur dort in das Felsloch,«
+»Bitte — stecke den Kopf nur dort in das Felsloch,«
 flüsterte Harald. Und er deutete auf eine enge Spalte,
 die er nun mit der elektrischen Taschenlampe beleuchtete.
-Dich Spalte setzte sich offenbar nach unten zu fort, und kaum
+Die Spalte setzte sich offenbar nach unten zu fort, und kaum
 hatte ich den Kopf hineingesteckt, als die seltsamen Töne
-Ji zu einem plärrenden Gesang verdichteten, der von einem
+sich zu einem plärrenden Gesang verdichteten, der von einem
 gleichmäßigen Geklapper begleitet war.
 
-»Gebetmühle — eine buddhistische Gebetmühtle,« sagte
+»Gebetmühle — eine buddhistische Gebetmühle,« sagte
 Harst hinter mir mit vorsichtig gedämpfter Stimme …
 
 Und ich zog den Kopf zurück …
 
-»Dann ist’s auf Mönchs8gesang,« meinte ich entschieden
+»Dann ist’s auch Mönchsgesang,« meinte ich entschieden
 …
 
 »Allerdings … — Du kennst ja die Gebetmühlen …
-Auf der Welle der müßte sind die rätselhaften Glaubensworte:
-am man! Fahne kam angebracht. Der fromme
+Auf der Welle der Mühle sind die rätselhaften Glaubensworte:
+Om mani padne hum angebracht. Der fromme
 Buddhist dreht die Welle mit einer Schnur, und mit jeder
-Umdrehung bat er den frommen sprach zum leise seiner
-»Seele Buddha zugerufen … Das geht flink und schont die
+Umdrehung hat er den frommen Spruch zum Heile seiner
+Seele Buddha zugerufen … Das geht flink und schont die
 Stimme …«
 
 »Ja — — aber der Gesang?!«
@@ -650,13 +650,13 @@ heiligen Berglandes Tibet, das noch weit mehr ein Land der
 Geheimnisse ist als Indien …«
 
 »am — und die Leute, die Colin Roß und die siebzehn
-Mitglieder der Expedition verschwinden ließen?x!
+Mitglieder der Expedition verschwinden ließen?!
 Hausen diese Schurken hier in voller Eintracht mit den
 Mönchen?!«
 
 »Es gibt da drei Lösungen, mein Alter. Erstens: die
 sogenannten unsichtbaren Teufel, wie Kollege Hektor Richard
-Lewis sie bezeichnet, haben sich mit den manchen friedlich
+Lewis sie bezeichnet, haben sich mit den Mönchen friedlich
 geeinigt und leben mit ihnen in den Höhlen, die wir noch
 nicht kennen …«
 
@@ -673,7 +673,7 @@ Es dämmerte jetzt bei mir …
 unsichtbaren Teufel haben die Mönche zu Gefangenen gemacht
 und bewachen sie dort unten. — Und drittens: die
 Schurken wissen noch nichts von dieser Mönchskolonie. Was
-ich jedoch als kaum möglich streichen möchte. Es bleibe
+ich jedoch als kaum möglich streichen möchte. Es bleiben
 also nur Fall eins und zwei übrig, von denen ich persönlich
 Nummer zwei den Vorzug gebe …«
 
@@ -681,62 +681,62 @@ Nummer zwei den Vorzug gebe …«
 
 »Ja …«
 
-Und er schob nun seinerseits den Kopf in die Felöspaiste
+Und er schob nun seinerseits den Kopf in die Felsspalte
 und horchte …
 
 Ich vernahm den Gesang, nun neben der Spalte stehend,
 ganz deutlich … Offenbar hatte Harald, unten in unserem
 Quartier neben dem Spirituskocher sitzend, gleichfalls mit
-Steinen seinen Ohren einzelne Laute des plärrenden Gesanges
+seinen feinen Ohren einzelne Laute des plärrenden Gesanges
 <@pagebreak/>
 vernommen und war so veranlaßt worden, hier nach oben
 zu klettern …
 
-Urplötzlich führte uns da der Schalltrichter der schon:
+Urplötzlich führte uns da der Schalltrichter der engen
 Felsspalte aus den unbekannten Tiefen anderes zu …
 
 Der Gesang war verstummt …
 
-Eine überlaute scharfe Männerstimme brüllte d2odout:
+Eine überlaute scharfe Männerstimme brüllte drohende
 abgerissene Worte in nepalesischer Sprache … Und ebenso
-plötzlich änderte der Mann das Nepalesische in fließenden
+plötzlich änderte der Mann das Nepalesische in fließendes
 Englisch …
 
-Manches von dem, was er in seiner Wut hervoosdzie,
+Manches von dem, was er in seiner Wut hervorschrie,
 entging uns …
 
-»Wir werden Euch die verdammten Mäuler zu waren
-wissen … Glaubt Ihr, daß wir Luft haben, uns durch Euch
+»Wir werden Euch die verdammten Mäuler zu stopfen
+wissen … Glaubt Ihr, daß wir Lust haben, uns durch Euch
 verraten zu lassen …?! …«
 
 Und in dieser Tonart ging es weiter …
 
 Jedenfalls: wir wußten nun Bescheid. Wir waren doch
-beobachtet worden! Der Mann fürchtete, der Gesang konnte
+beobachtet worden! Der Mann fürchtete, der Gesang könnte
 durch die Gesteinmassen bis in unser Quartier dringen …
-Daß es hier einen Schalltrichter, ein Sprachrohr, bis zu auch
+Daß es hier einen Schalltrichter, ein Sprachrohr, bis zu uns
 hinauf geben könnte, ahnte er nicht. —
 
 Es wurde jetzt wieder still …
 
 Die enge Spalte schwieg …
 
-»Gut, wir sind gewarnt,« meinte Harald. »droben
-bleibt unsere Lage höchst ungemütlich … Steigen Sir
+»Gut, wir sind gewarnt,« meinte Harald. »Trotzdem
+bleibt unsere Lage höchst ungemütlich … Steigen wir
 wieder abwärts …«
 
-Unten in unserer Höhle war noch alles in neblig.
-Ich eilte bis zu dem verrammelten Eingang. Die Funkelnde
-war unversehrt. Harald brühte Ecke aus, Wir s!Stirn
+Unten in unserer Höhle war noch alles in Ordnung.
+Ich eilte bis zu dem verrammelten Eingang. Die Barrikade
+war unversehrt. Harald brühte Tee auf. Wir setzten
 uns, rauchten und erörterten die Gefangennahme des Kollegen
-Halport und Claire Margalls … Harald war Eis wexig
+Halport und Claire Margalls … Harald war ein wenig
 bedrückt …
 
-»Wir kämpfen hier gegen Gespenster,« meinte &xr xb:
-sog verdrosch; an seiner Mirakulum. »Wagen wir uns »x
-Tage ins Freie, knallt man uns nieder. Und Kamt —
-wie sollen wir nachts nach dem Eingang zu dem dann
-Gebiet suchen, den nicht einmal Douglas, der Hund,
+»Wir kämpfen hier gegen Gespenster,« meinte er und
+sog verdrossen an seiner Mirakulum. »Wagen wir uns am
+Tage ins Freie, knallt man uns nieder. Und nachts —
+wie sollen wir nachts nach dem Eingang zu dem Höhlengebiet
+suchen, den nicht einmal Douglas, der Hund, gefunden
 <@pagebreak/>
 hat. Es ist eine ganz verwünschte Geschichte, und dieses
 Gestade der Vergessenheit wird …«
@@ -753,17 +753,17 @@ Ein Tierkörper schnellt herein: Douglas!
 
 Und Hektor Richard Lewis’ Stimme:
 
-»Ich bin’s - Lewis!! JIch4 … ich habe Halport gefunden
-… Er ist tot ermordet …!«
+»Ich bin’s — Lewis!! Ich … ich habe Halport gefunden
+… Er ist tot … ermordet …!«
 
-Wir hatten ihm …
+Wir halfen ihm …
 
 Er zitterte, war halb von Sinnen …
 
 Ein Schluck Whisky gab ihm leidlich das innere Gleichgewicht
 zurück. matt lag er auf der Wolldecke. Sein hageres,
 von einem Stoppelbart umrahmtes, typisches amerikanisches
-Gesicht zeigte eine: Verstörtheit ohnegleichen.
+Gesicht zeigte eine Verstörtheit ohnegleichen.
 
 Dann berichtete er …
 
@@ -775,23 +775,23 @@ mir, daß ich mir eine andere Unterkunft suchen müßte, da
 die Schufte ja meinen Lagerplatz kannten. Ihre Anwesenheit
 hier, Kollegen, hatte mir Mut gemacht und meinen
 Unternehmungsgeist verdoppelt. Ich wollte nicht hinter
-Ihnen beiden zurückziehen und mich näher an den See heranwagen.
+Ihnen beiden zurückstehen und mich näher an den See heranwagen.
 ich packte unsere Sachen zusammen, stellte aus
-einem Stück Leinwand eine Art Schlosse her und zog so
+einem Stück Leinwand eine Art Schleife her und zog so
 das Gepäck bis zum Südufer des Sees — bis zu dem einzelnen
 langen Felsen, der von den Randbergen wie ein erster
 Wall bis dicht ans Wasser reicht. Mein braver Douglas
-machte den Kundschafter und sicherte den Marsche). An jener
+machte den Kundschafter und sicherte den Marsch. An jener
 <@pagebreak/>
 Stelle des Felsenwalles, wo auch von hier aus die Steintrümmer
 zu erkennen sein müssen, warnte mich des Hundes
-einholen. Es schneite leicht. Ich konnte dabei kaum zehn
-Schritt weit Sehen. Douglas heulte dann kurz aus. Das
-konnte ich: ein Toter! Und banger Ahnung voll schlich ich
+Knurren. Es schneite leicht. Ich konnte dabei kaum zehn
+Schritt weit sehen. Douglas heulte dann kurz auf. Das
+kannte ich: ein Toter! Und banger Ahnung voll schlich ich
 näher an die Stelle heran, wo Douglas jetzt kläglich winselte
-… — Da … fand ich denn meinen alten Sinn Halport …
-tot … an einen senkrechten Felsblock gefessellt — - aufrecht
-— —“— ein nepalesisches Dolchmesser im Herzen — — noch
+… — Da … fand ich denn meinen alten Tim Halport …
+tot … an einen senkrechten Felsblock gefesselt — aufrecht
+— — ein nepalesisches Dolchmesser im Herzen — — noch
 warm die Leiche …
 
 Und wie ich so starr und entsetzt den armen Kollegen
@@ -799,26 +799,26 @@ anstarrte, dessen Gesicht bis zur Unkenntlichkeit verzerrt war
 — vielleicht vor Todesangst! —, da prallte dicht neben mir
 ein mächtiger Stein auf den Boden … ein zweiter, dritter
 folgten, und nur meine Geistesgegenwart und zwei Sprünge
-zu: Seite retteten mich vor sicherem Tode … Ich Bette
+zur Seite retteten mich vor sicherem Tode … Ich hetzte
 davon — floh … bis hierher … Ließ das Gepäck liegen
-— Eigentlich … eigentlich habe ich wie ein erbärmlicher
-Feigling gehandelt …« Und diesen Nachsatz sprach.
+… — Eigentlich … eigentlich habe ich wie ein erbärmlicher
+Feigling gehandelt …« Und diesen Nachsatz sprach
 er scheu und schuldbewußt …
 
 Aber Harald streckte ihm die Hand hin …
 
-»Reden Sie Erbin  Unsinn Lewis … — Wollten Sie
+»Reden Sie keinen Unsinn Lewis … — Wollten Sie
 sich zerschmettern lassen?!«
 
 Er war erregt, und in seinen grauen Augen leuchtete
 jene Tatkraft, die unseren Gegnern noch stets verderblich
 geworden
 
-»Dieses Steinbombardemertt, lieber Lewis, war im
+»Dieses Steinbombardement, lieber Lewis, war im
 Übrigen von den Burschen eine ungeheure Dummheit …
 Jetzt weiß ich, daß dieser gut sieben Meter hohe, spitze Felsenwall,
 der auch mir schon aufgefallen ist, den Schlüssel der
-Geheimnisse dieses Versteck enthält … Dort muß es
+Geheimnisse dieses Bergsees enthält … Dort muß es
 einen Zugang zu dem unterirdischen Kloster geben …«
 
 »Kloster?!« rief Lewis …
@@ -827,16 +827,16 @@ einen Zugang zu dem unterirdischen Kloster geben …«
 ahnen …!« Und er erzählte dem Newyorker Kollegen nun,
 wie wir den Gesang der Mönche belauscht hatten — von der
 <@pagebreak/>
-wütenden Männerstimme und. dann auch von dem Lichtschein,
-der aus den Tiefen des Sees empor drang,.
+wütenden Männerstimme und dann auch von dem Lichtschein,
+der aus den Tiefen des Sees empordrang.
 
 Hektor Richard Lewis fluchte …
 
 Wirklich — er fluchte …
 
-»Verdammt!! Sollte man’s glauben … 1 Halport,
+»Verdammt!! Sollte man’s glauben …! Halport,
 die Miß und ich spionieren hier nun bereits wochenlang
-umher und entdecken nichts!1 Und Sie, Mr. Harst, kommen
+umher und entdecken nichts! Und Sie, Mr. Harst, kommen
 als Nepalesen verkleidet und finden gleich in der ersten Nacht
 Dinge heraus, die so abenteuerlich und doch auch so über
 jeden Zweifler erhaben sind, daß …«
@@ -844,15 +844,15 @@ jeden Zweifler erhaben sind, daß …«
 Harald hatte abgewinkt …
 
 »Stopp, lieber Lewis …! Wir haben Glück gehabt,
-nichts weiter …! regt aber werden Sie beide und Douglas
+nichts weiter …! Jetzt aber werden Sie beide und Douglas
 hier unser Quartier bewachen und ich …«
 
-»Nein — wir beide!« fiel im ihm ins Wort. »Wir beide
-werden den Felsblock untersuchen! Niemals lasse ich sich
+»Nein — wir beide!« fiel ich ihm ins Wort. »Wir beide
+werden den Felsblock untersuchen! Niemals lasse ich Dich
 allein gehen! Niemals!«
 
 »Gut, mein Alter …! Obwohl es höchst unzweckmäßig
-ist, daß wirbelte unsere Haut zu Markte tragen … —
+ist, daß wir beide unsere Haut zu Markte tragen … —
 Gehen wir …«
 
 Lewis wollte nun gleichfalls mit. Harst blieb fest.
@@ -876,21 +876,21 @@ Wir hatten über unsere Lederjacken hellgraue lange
 Wollhemden gestreift … Unsere Gestalten konnten sich so
 von dem frischgefallenen Schnee kaum merklich abheben.
 
-Harst näherte sich; in großem Bogen dem Felsenwall.
+Harst näherte sich in großem Bogen dem Felsenwall.
 <@pagebreak/>
-So vorsichtig wie damals sind wir selten vorwärts-acjchlichen.
+So vorsichtig wie damals sind wir selten vorwärtsgeschlichen.
 
-Übermalt regte sich in mir der Dichter … Abermals
-spürte im das Erhabene dieser Gebirgslandshast
+Abermals regte sich in mir der Dichter … Abermals
+spürte im das Erhabene dieser Gebirgslandschaft …
 Drüben nach Norden zu stiegen die Berge immer höher an:
-Stufen zum Gipfel der-Welt, zum Gaurijankar, zum Straählen-den,
-dem nüchterne Wissenschaft jetzt den Namen Sprichst.
+Stufen zum Gipfel der Welt, zum Gaurisankar, zum Strahlenden,
+dem nüchterne Wissenschaft jetzt den Namen Everest
 aufzwingen will …
 
 Harst begann auf allen Vieren zu kriechen …
 
 So näherten wir uns dem einzelnen Felsen neben dem
-Falle …
+Walle …
 
 Der Mond blieb unverhüllt … Der Schnee glitzerte …
 
@@ -901,25 +901,25 @@ sehen … nirgends …
 
 Ich hatte die Augen anderswo …
 
-Ich Tote Bucklig Arm …
+Ich packte Harsts Arm …
 
-»Sir Boot ,..!!«
+»Ein Boot …!!«
 
 Es war so: dort auf dem See glitt ein kleines, mit drei
 Männern besetztes Boot durch die gleißende Mondbahn …
 
-»Ein Zinkboot …« weinte Harald atemlos … »Zwei
+»Ein Zinkboot …« meinte Harald atemlos … »Zwei
 Europäer und ein Nepalese sind darin … Sie kommen
 hier auf das Südufer zu …«
 
-Wir schlurfenden uns ganz tief in den Schnee …
+Wir schmiegten uns ganz tief in den Schnee …
 
-Beovbachteten … Sahen die Gesichter ganz deutlich …
+Beobachteten … Sahen die Gesichter ganz deutlich …
 Blonde Bärte, ungepflegt … Der Nepalese, ein kleiner
-Kerl im Terrasse …
+Kerl im Schafpelz …
 
 Und der sprang nun, als das Boot das Ufer erreicht
-Hatte, »ich) willst oben Stein, paar da auf den Wall
+Hatte, auf einen hohen Stein, und von da auf den Wall …
 Hatte zwei Leinen in der Hand … Die Europäer folgten
 auf demselben Wege … Und mit Hilfe der Leinen rissen
 sie das Boot zu sich empor, trugen es oben auf der schmalen
@@ -932,62 +932,62 @@ Bemerkten uns nicht …
 Tauchten plötzlich unter — verschwanden in dem Steinwall
 …
 
-Harst hatte wieder einmal recht gehabt: der Wall entflieht
+Harst hatte wieder einmal recht gehabt: der Wall enthielt
 den Schlüssel der Geheimnisse des Godwira-Sees! —
 
 Nun waren sie uns aus den Augen …
 
 »Sie fühlen sich sehr sicher …« flüsterte Harald …
-»Mr nehmen uns beide als Gegner nicht ernst … Weil
-genaue Douglas für flüchtige nepalesische Verbrecher halten …
-»Fuß mit bewies gedenken sie schon fertig zu werden … -
+»Sie nehmen uns beide als Gegner nicht ernst … Weil
+sie und fraglos für flüchtige nepalesische Verbrecher halten …
+Und mit Lewis gedenken sie schon fertig zu werden …
 — Folgen wir ihnen …«
 
-Ecken weiter dem Seeufer zu …
+Er kroch weiter dem Seeufer zu …
 
 Ich glaubte ihn warnen zu müssen …
 
-»Vaäarald, wir sollten lieber nicht so vorschnell
-Haxveln …«
+»Harald, wir sollten lieber nicht so vorschnell
+handeln …«
 
 Er hatte sich schon aufgerichtet …
 
 Sprang — erreichte die flache Spitze des Steines —
-ging zum zweiten Male, erkletterte die Höhe des Falsches
-zu … wwinfttie …
+sprang zum zweiten Male, erkletterte die Höhe des Walles
+und … winkte …
 
 »Kehre zu Lewis zurück, mein Alter …!«
 
-Aber — ich dachte nicht daran! Mit verzweifelten An-Üengungen
-suchte a1’ch ich die Spitze des Steinblockes zu
+Aber — ich dachte nicht daran! Mit verzweifelten Anstrengungen
+suchte auch ich die Spitze des Steinblockes zu
 gewinnen … Prallte mit der Brust auf, klammerte mich
-ich, frebbelte empor …
+fest, krabbelte empor …
 
 Ein zweiter ebenso verzweifelter Satz brachte mich in die
-teilweise von Haralds Händen …
+Reichweite von Haralds Händen …
 
 »du bist ein Narr, mein Alter!« sagte er grob und zog
-oho Birmane. »Wenn uns beiden nun etwas zustößt, so ist
-auch Lewis und Kleinen Claire Margall geliefert …!«
+mich empor. »Wenn uns beiden nun etwas zustößt, so ist
+auch Lewis und ebenso Claire Margall geliefert …!«
 
 »Redensarten!« meinte ich japsend. »Ich will mit von
-Partie sein …!«
+der Partie sein …!«
 
 »Unverbesserlich! — Legen wir jetzt die Schneehemden
-»S … Her damit, ich schiebe sie in dieses Loch …«
+ab … Her damit, ich schiebe sie in dieses Loch …«
 
 Dann weiter …
 
 Vor uns her liefen die Spuren im Schnee, die Spuren
-Gex drei Männer, die hier das leichte Zinkboot geschleppt
+der drei Männer, die hier das leichte Zinkboot geschleppt
 hatten …
 
 <@pagebreak/>
-»Nimm Deine Brille gefälligst ab,« größere Harst mich
+»Nimm Deine Brille gefälligst ab,« grobste Harst mich
 an …
 
-»Bitte — in Catmandit sah ich viele Nepalesen mit
-Hornbrillen …« — Ich behielt sie auf
+»Bitte — in Catmandu sah ich viele Nepalesen mit
+Hornbrillen …« — Ich behielt sie auf …
 
 Und dann ein breites Loch in der Krone des Felsenwalles
 … ein schräger Schacht …
@@ -999,12 +999,12 @@ ein … Wir tasteten uns vorwärts … Viele Biegungen
 machte der Gang … Wurde breiter … Die Finsternis
 war vollkommen …
 
-Dann rechter Hand ein ganz scnvacher heller Strich —
+Dann rechter Hand ein ganz schwacher heller Strich —
 ganz tief am Boden …
 
-»Wasser!« raunte Harald … »Sir Kanal, der vom
+»Wasser!« raunte Harald … »Ein Kanal, der vom
 Seegrunde hierher führt … Wir befinden uns also erst
-an Höhe des Wasscrspiegels …«
+in Höhe des Wasserspiegels …«
 
 Und … seine Taschenlampe blitzte auf, glitt mit weißem
 Kegel rasch über diese Ausbuchtung des Ganges hin …
@@ -1026,12 +1026,12 @@ Dann Haralds gedämpfte Stimme:
 »hier teilt sich der Gang … Wählen wir die rechte
 Abzweigung …«
 
-Schritt für Schritt, tastend, Kochherd — Schritt für
+Schritt für Schritt, tastend, horchend — Schritt für
 Schritt in völliger Stille …
 
 Bis wiederum der Freund raunte:
 
-»Hier ist eine Holztür … sich Höhle die Eisenbeschläge
+»Hier ist eine Holztür … Ich fühle die Eisenbeschläge
 … Riegel …«
 
 Die Lampe blitzte …
@@ -1039,19 +1039,19 @@ Die Lampe blitzte …
 <@pagebreak/>
 Eine Balkentür, hoch und breit, uralt … Drei Riegel
 aus Eisen, die in ebenso dicke Eisenkrampen im Gestein
-eingerissen, mit Blei eingegossen …
+eingriffen, mit Blei eingegossen …
 
-»am — ob das etwa hier der Eingang zum Tempel
+»Hm — ob das etwa hier der Eingang zum Tempel
 ist …?!« meinte Harald leise. »Wir könnten’s ergründen …
 Aber sicherer ist, wenn …«
 
 Wir beide prallten leicht zurück …
 
-Da war ein Loch in der Tür, kaum saust groß … Da
+Da war ein Loch in der Tür, kaum faustgroß … Da
 kam die Mädchenstimme hervor …
 
 »Wer sind Sie …?! Retten Sie mich! Sie sind doch
-keine Nepalesen …!««
+keine Nepalesen …!«
 
 So lernten wir Claire Margall kennen …
 
@@ -1060,15 +1060,15 @@ So unerwartet …
 Und Harst erwiderte:
 
 »Miß Margall? — Wir sind Harst und Schraut …
-Wir offenen …«
+Wir öffnen …«
 
-Und er schob die Riegel zwölf …
+Und er schob die Riegel zurück …
 
 Vor uns stand die schlanke, aschblonde Amerikanerin,
 die ausgezogen war, ihren Verlobten Colin Roß am Gestade
 der Vergessenheit zu suchen …
 
-Blaß und schmal das pikante Gesichter … Braune,
+Blaß und schmal das pikante Gesichtchen … Braune,
 matte Augen, — jetzt matt vor Angst, Aufregung und Übermüdung
 …
 
@@ -1077,16 +1077,16 @@ Stimme sagte sie: »Wie soll ich Ihnen danken, Mr. Harst …!
 Sie sind wirklich gekommen …!«
 
 Und Harald — ernst, höflich: »Miß Margall, diese
-Salongespräche für später … fest nur eine Frage: ist
+Salongespräche für später … Jetzt nur eine Frage: ist
 dies der Zugang zu dem Buddhistentempel?«
 
-»Ah — Sie wissen …?! Zu— ja, dort hinten in der
+»Ah — Sie wissen …?! Ja — ja, dort hinten in der
 großen Höhle liegt der Tempel … Vierzehn Mönche sind
 Gefangene wie ich …«
 
 »Nicht lange mehr … — Und die Feinde?!«
 
-»In bekam nur Nepalesen zu Gesicht, Mr. Harst …
+»Ich bekam nur Nepalesen zu Gesicht, Mr. Harst …
 Ich kann Ihnen sonst nichts berichten … Ich hatte mich
 mit zwei anderen amerikanischen Detektiven neuerdings …«
 
@@ -1094,26 +1094,26 @@ mit zwei anderen amerikanischen Detektiven neuerdings …«
 »Mir bekannt … Sie wurden überfallen, weggeschleppt
 … Halport ist tot, ermordet …«
 
-»Eurem Gott der Ärmste …!«
+»O mein Gott … der Ärmste …!«
 
 »Wo ist Ihr früherer Begleiter, der Nepalese, den Sie
 in Ihrer Depesche erwähnten?«
 
-»geschlossen — hier am See … Vor acht Wochen …
+»Erschossen — hier am See … Vor acht Wochen …
 Ich gelangte ganz allein wieder in die Ebene, in bewohnte
 Gegenden …«
 
 »Bleiben Sie vorläufig noch hier bei den Mönchen und
 … schweigen Sie … Wir kehren zurück … Ihr Leben
-ist nicht bedroht … Ich möchte diese Schurken bedrohten.
-Nichts von ihren Geheimnissen soll mir sprachen … Aus
-Wiedersehen, Miß Margall … Seien Sie Papier …!«
+ist nicht bedroht … Ich möchte diese Schurken beobachten.
+Nichts von ihren Geheimnissen soll mir entgehen … Auf
+Wiedersehen, Miß Margall … Seien Sie tapfer …!«
 
 »Ich bin es. Ich fürchte mich nicht … Nur möchte
-ich dabei sein, wenn Sie diejenigen gegangen nehmen, die
+ich dabei sein, wenn Sie diejenigen gefangen nehmen, die
 meinen Verlobten töteten …« — Ihre braunen Augen
 glühten. Mit einem Schlage war sie eine andere. Diesem
-Mädelchen, wie es jetzt vor uns stand, traute man sehr wohl
+Mädchen, wie es jetzt vor uns stand, traute man sehr wohl
 die Energie zu, ganz allein ohne jeden Begleiter durch die
 Schneeregion und die Bergwildnis den Weg hinab ins Tal
 zu finden …
@@ -1123,7 +1123,7 @@ Haralds, und wir verriegelten die Tür wieder …
 
 Durch das Loch in der Tür Claire Margalls Stimme:
 
-»Viel Glück … 1«
+»Viel Glück …!«
 
 Wir gingen …
 
@@ -1131,7 +1131,7 @@ Wir gingen …
 
 <h3>Überraschungen.</h3>
 
-ans Vorsicht tasteten wir uns im Dunkeln den Weg
+Aus Vorsicht tasteten wir uns im Dunkeln den Weg
 zurück …
 
 Lauschten angestrengt … Kamen zu der Gabelung
@@ -1718,7 +1718,7 @@ den er dann gar nicht zu Gesicht; bekam.
 
 Kollege Leute schimpfte auf Harst in allen Tonarten.
 Er fand es empörend, daß Harald die Verfolgung der flüchtigen
-Verbrecher von! Godwira-See so vollständig vernach-lässigte
+Verbrecher von! Godwira-See so vollständig vernachlässigte
 … Ich konnte ihm nur recht geben. Harst war mir
 unverständlich,
 
@@ -1933,7 +1933,7 @@ fühlen Klubsesseln und rauchten wundervolle Zigarren
 »Schraut ist nicht ganz um Bilde,« meinte Harald zu
 Codanoor »Er weiß nicht, das, ich mit Ihnen telephoniert
 <@pagebreak/>
-habe, als ich den Dampfersahrplan holte … Sie haben
+habe, als ich den Dampferfahrplan holte … Sie haben
 also drei tüchtige Leute den beiden seinen an die Felsen
 geheuer?«
 
