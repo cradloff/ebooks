@@ -1136,25 +1136,25 @@ zurück …
 
 Lauschten angestrengt … Kamen zu der Gabelung
 des Ganges … Wagten uns nun in den anderen Gang
-mein …
+hinein …
 
 <@pagebreak/>
-Doppelt behutsam hier daß Vordringen … Doppelt
+Doppelt behutsam hier das Vordringen … Doppelt
 scharf das Lauschen auf jedes verdächtige Geräusch …
 
 Stille … Finsternis …
 
-Zuweilen ein weißer Blitz: die Taschen Lampe — schnell
+Zuweilen ein weißer Blitz: die Taschenlampe — schnell
 wieder erlöschend …
 
 Dann Harald — mehr ein Hauch als Worte: »Hier hat
 der Gang ein Ende … Vor uns eine Höhle … Ich
-voller verschiedene Gerüche … Man hat hier Gefahr …«
+spüre verschiedene Gerüche … Man hat hier gekocht …«
 
 Minutenlang nichts …
 
 Und wieder Harst: »Sie werden jetzt schlafen … Und
-doch erscheint mir die Ruhe hier verdächtig sehr verdächtig
+doch erscheint mir die Ruhe hier verdächtig … sehr verdächtig
 … Warte an dieser Stelle …«
 
 Er entfernte sich offenbar … Ich hörte und sah
@@ -1162,19 +1162,19 @@ nichts …
 
 Plötzlich weit vor mir der Lichtkegel der Taschenlampe …
 
-Ein Glas: »Hierher, mein Alter … hierher!«
+Ein Ruf: »Hierher, mein Alter … hierher!«
 
 Und jetzt sah ich, jetzt hatte auch ich meine Lampe angeknipst
 …
 
 Sah, daß diese zwanzig Meter lange und etwas
-schmälere Grotte alles enthielt, was zum längeren Ausf-enthalt
+schmälere Grotte alles enthielt, was zum längeren Aufenthalt
 von Menschen notwendig ist: primitive Lagerstätten,
 einen Herd, einen Tisch mit einer Steinplatte, leere kleine
-Kisten, Hausen von Moos …
+Kisten, Haufen von Moos …
 
 Doch sonst: nur wir beide hier in der Höhle … Kein
-lebendes wegen außer uns …!
+lebendes Wesen außer uns …!
 
 Ich stand vor Harald …
 
@@ -1189,7 +1189,7 @@ Bleistiftzeilen — sehr flüchtig hingeworfen — englisch:
 > Mr. Harst, unsere Spione in Catmandu waren
 schlauer als die Polizei. Die beiden ermordeten Holländer
 erschienen uns sofort verdächtig. Claire Margalls
-Depesche an Sie lag uns in Abschrift vor — Die
+Depesche an Sie lag uns in Abschrift vor. — Die
 Höhle, die Sie jetzt bewohnen, hat eine Verbindung
 <@pagebreak/>
 zur Tempelgrotte, wie wir längst wußten … Und
@@ -1204,20 +1204,20 @@ auch nie herausbekommen, was wir hier getrieben
 haben. Wir sind auch nicht Mörder, wie Sie annehmen.
 Claire Margalls Nepalese fiel im Kampf Mann gegen
 Mann, und der Detektiv Halport desgleichen, weil er
-fliehen wollte … - Sollten Sie so leichtsinnig sein,
+fliehen wollte … — Sollten Sie so leichtsinnig sein,
 uns weiter nachzuspüren, so werden wir Sie beide nicht
 schonen. Unsere Macht reicht über den ganzen Erdball.
 Sie sind gewarnt. Einer der sieben Weisen.
 
 »Na, was sagst Du nun, mein Alter?« fragte Harald,
-als ich den Zettel sinken lich. »Diese Kerle spielen jetzt die
+als ich den Zettel sinken ließ. »Diese Kerle spielen jetzt die
 Geheimnisvollen … Die sieben Weisen …!! Ein ganz
 netter Witz!«
 
 Ich wunderte mich, wie kühl er die Flucht dieser
 Schurken hinnahm …
 
-»Jedenfalls sind Harst und Schraut die Blamierten!“«
+»Jedenfalls sind Harst und Schraut die Blamierten!«
 meinte ich ärgerlich. »Claire Margall wird uns kaum mehr
 so respektvoll als Wundertiere ansehen, nachdem ihr die
 Mörder des Colin Roß entwischt sind … Sie hatte mit
@@ -1236,12 +1236,12 @@ einiger Phantasie und unter Berücksichtigung dessen, was
 wir wissen, wird es Dir auch gelingen …«
 
 <@pagebreak/>
-»Anderen Dreh bringen?! Und umwickeln?’«
+»Anderen Dreh bringen?! Und … inwiefern?«
 
 »Nun, ich habe schon immer stark daran gezweifelt, daß
-die Expedition von achtzehn Teufelin von anderen kalt gemacht
-worden ist! Achtzehn Mann, dar!;oder drei Europäer, lassen
-sich) doch nicht so einfach niederknallen, ersäufen, vergiften
+die Expedition von achtzehn Leuten von anderen kalt gemacht
+worden ist! Achtzehn Mann, darunter drei Europäer, lassen
+sich doch nicht so einfach niederknallen, ersäufen, vergiften
 und dergleichen …«
 
 Ich war starr. »Du meinst also, daß …«
@@ -1254,10 +1254,10 @@ Claire nur deshalb den vielen Attentaten entging, weil es
 sich eben stets nur um Scheinattentate handelte, um sie zu
 verscheuchen …«
 
-Ich … lachte. —» Wahrhaftig: ich lachte! Dieser
+Ich … lachte … — Wahrhaftig: ich lachte! Dieser
 neue »Dreh« kam mir geradezu albern vor …
 
-Harst blieb kalt. »Komm, suchen wir die Buddhisten
+Harst blieb kalt. »Komm’, suchen wir die Buddhisten
 und Claire auf. Du wirst dieses Lachen einst bereuen, Max
 Schraut!« —
 
@@ -1265,11 +1265,11 @@ Zurück also in den Gang, der zur Balkentür führte …
 
 Hinein in das unbekannte Reich frommer Mönche …
 
-Eine Höhle hier vielleicht achtzehn Meter hoch …
+Eine Höhle hier … vielleicht achtzehn Meter hoch …
 Mitten darin das seltsamste Tempelchen, das ich je geschaut
 habe … Erbaut aus farbigen Steinen, verziert durch
-Wuscheln, Edelsteine … Beleuchtet durch etwa fünfzehn
-Decklampen primitivster Art. Umwogt von dem
+Muscheln, Edelsteine … Beleuchtet durch etwa fünfzehn
+Öllampen primitivster Art. Umwogt von dem
 wohlriechenden Qualm dieser Lampen …
 
 Und dann nebenan ein kleinerer Höhlenraum: die Wohnung
@@ -1278,7 +1278,7 @@ Schafstall, der auch Milchziegen enthielt. Ein vierter,
 die Vorratskammer!
 
 Und Überall als Beleuchtungsmittel dieselben flachen
-verschollen mit den wollenen Dochten … —
+Ölschalen mit den wollenen Dochten … —
 
 Im Nu hatten sich hier die Mönche um uns versammelt
 … Claire Margall mußte erst aus einer Kammer
@@ -1305,12 +1305,12 @@ der Zahl nach auf zehn bis zwölf Leute.
 
 Damit war’s mit der Weisheit des würdigen Alten aus.
 
-Also wenig — sehr. wenig, abgesehen davon, daß die
+Also wenig — sehr wenig, abgesehen davon, daß die
 Mönche betonten, Gold oder dergleichen gäbe es hier nicht.
 Was der Schwarzbärtige hier mit dem Taucheranzug begonnen,
 konnten sie in keiner Weise aufklären. — Über ihre
 Höhlenkolonie gaben sie an, daß sie vor zwanzig Jahren
-aus rosa in Tibet als Abtrünnige vertrieben worden
+aus Lasa in Tibet als Abtrünnige vertrieben worden
 waren, weil sie verschiedene religiöse Einrichtungen nicht
 anerkannten. Sie hatten dann hier in aller Stille sich niedergelassen
 und ihr Geheimnis bisher sorgsam gehütet. In
@@ -1323,7 +1323,7 @@ Nachdem er den Leuten versprochen, auch seinerseits ihr
 Geheimnis nach Möglichkeit zu wahren, verließen wir die
 Tempelhöhle in Begleitung Claire Margalls und begaben
 uns in die Wohngrotte der jetzt Geflüchteten hinüber. —
-Weise Steintisch lag noch der Zettel des einen der »sieben
+Auf dem Steintisch lag noch der Zettel des einen der »sieben
 Weisen …«
 
 <@pagebreak/>
@@ -1339,20 +1339,20 @@ Die Amerikanerin las …
 
 Plötzlich weiteten sich ihre Augen …
 
-Ihr Trick hing starr auf der Unterschrift …
+Ihr Blick hing starr auf der Unterschrift …
 
 Dann … wankte sie … fiel Harst ohnmächtig in die
 Arme …
 
-Harald hatte sie aufgegangen, meinte ohne Erregung:
+Harald hatte sie aufgefangen, meinte ohne Erregung:
 
-»Also dacht’! Süden wir Lewis aus…«
+»Also doch!! — Suchen wir Lewis auf …«
 
 Er trug Miß Margall …
 
 Wir kamen nach oben auf den Felsenwall … Der
 Mond stand tief … Am Ufer, unterhalb des Walles, lag
-das Zinkboot. Wir benutzen es, um schneller die Nordseite
+das Zinkboot. Wir benutzten es, um schneller die Nordseite
 zu erreichen, das Gestade der Vergessenheit …
 
 Landeten … Sahen Seltsames: dort im Schnee vor
@@ -1366,24 +1366,24 @@ angstvoll, flehend entgegen …
 
 Der eine hatte durch den Verkehr mit Europäern doch
 ein paar Worte englisch aufgeschnappt … Kläglich bat er,
-ist solle sie schonen … Sie seien Gefangene des schwarzen
+ich solle sie schonen … Sie seien Gefangene des schwarzen
 Masters gewesen, der nun auf und davon sei … —
 
 Ich will hier zum Schluß des ersten Teiles nur noch
-eins erwähnen: als wir Miß Margall glülich wieder in?
-Bewußtsein zu zurückgerufen hatten, galt ihre erste Trage dem
+eins erwähnen: als wir Miß Margall glücklich wieder ins
+Bewußtsein zurückgerufen hatten, galt ihre erste Frage dem
 … Zettel …
 
 Und da war’s, daß Harald fragte:
 
-»Sie wissen etwas über die sieben Weisen, Miß Maxr-gall
-…? Was wissen ließ«
+»Sie wissen etwas über die sieben Weisen, Miß Margall
+…? *Was* wissen Sie?«
 
 Sie erwiderte zögernd:
 
 <@pagebreak/>
 »Mein … mein Vater gehörte mit zu dieser merkwürdigen
-Vereinigung … ich) will nichts verschweigen …!
+Vereinigung … ich will nichts verschweigen …!
 Denn Colin Roß soll gerächt werden!«
 
 … Gerächt werden …?! — Nach Haralds Theorie
@@ -1397,7 +1397,7 @@ lebte Colin Roß …!!
 Ich hatte die beiden Nepalesen in die Höhle geführt.
 Einer von ihnen trug das Eisbärfell. Da es nun hier in
 den Bergwüsten keine Eisbären gibt, da andererseits doch
-kaum jemand sich mit einem solchen j!Schweren Fell behängen
+kaum jemand sich mit einem solchen schweren Fell behängen
 wird, war es eine recht interessante Frage, wie dieses zottige
 Kleid eines Polarbewohners ausgerechnet hier an den Godwira-See
 gelangt sein mochte.
@@ -1416,7 +1416,7 @@ wird in den Vorbergen des Himalaja an ganz bestimmten
 <@pagebreak 33/>
 Stellen gefunden, zumeist nach schweren Regengüssen oder
 nach der Schneeschmelze, wenn größere Rinnsale die tiefsten
-Spur:en der Felsen durchdringen und die Edelsteine mit ins
+Spalten der Felsen durchdringen und die Edelsteine mit ins
 Freie tragen. — Diese beiden Nepalesen waren vor drei
 Monaten hier an den See gelangt und dann nachts überfallen
 und gefangen genommen worden. Sie hatten stets
@@ -1430,23 +1430,23 @@ bestimmt, von seinem Vorhaben abzugeben.
 Als Harald wissen wollte, was dieser Europäer dort
 unten wohl getrieben haben mochte, schüttelte der Türkisensucher
 den Kopf und meinte, das könnte er doch nicht wissen
-… Er sei ja Gefangener gewesen und hätte sich mich frei
+… Er sei ja Gefangener gewesen und hätte sich nie frei
 in den Höhlen bewegen dürfen … —
 
 Hiermit war das Verhör zu Ende.
 
-Es ha:tc sowohl aus Hektor Richard Lewis als auch aus
+Es hatte sowohl auf Hektor Richard Lewis als auch auf
 Miß Margall und mich durchaus den Eindruck gemacht,
-als ob Harald den beiden harmlosen und dabei reichlich’
-starrte dreinschauenden Kerlen jedes Wort glaubte. Später
+als ob Harald den beiden harmlosen und dabei reichlich
+stupide dreinschauenden Kerlen jedes Wort glaubte. Später
 wurden wir eines besseren belehrt. —
 
 Und nun kam Claire Margall an die Reihe …
 
 Wir vier Europäer saßen auf Wolldecken um den
-tauchenden Spirituskocher herum … Neben Lewis lag der
+fauchenden Spirituskocher herum … Neben Lewis lag der
 brave Douglas. Claire Margall hatte den Ehrenplatz und
-lehnte an der durch ein Satielkissen gepolsterten Felswand,
+lehnte an der durch ein Sattelkissen gepolsterten Felswand,
 
 Die beiden Nepalesen wieder hatten sich in der Nähe
 der Ponys niedergestreckt und schienen zu schlafen.
@@ -1454,12 +1454,12 @@ der Ponys niedergestreckt und schienen zu schlafen.
 So begann denn nun die junge Amerikanerin ihre Erzählung
 …
 
-»Mein Vater, John Margall, wurde sehr früh Frisuren.
-Von Hause aus war er Steward bei einer Schissabrtslinie
+»Mein Vater, John Margall, wurde sehr früh Witwer.
+Von Hause aus war er Steward bei einer Schiffahrtslinie
 <@pagebreak/>
-nach China. Aber Abenteuerlust bewog ihn, sich) als Koch
-— auch) hiervon verstand er etwas — bei Forschungsreisen
-anwenden zu lassen: Oft war er so jahrelang von Neuyork
+nach China. Aber Abenteuerlust bewog ihn, sich als Koch
+— auch hiervon verstand er etwas — bei Forschungsreisen
+anwerben zu lassen: Oft war er so jahrelang von Neuyork
 abwesend, und meine Erziehung lag ganz in den Händen
 einer Schwester meines Vaters, der nebenbei eifriger
 Sammler ausländischer Kuriositäten war.
@@ -1467,21 +1467,21 @@ Sammler ausländischer Kuriositäten war.
 Als ich neunzehn Jahre alt wurde, begleitete mein Vater
 den englischen Forscher Lord Grimlay nach Alaska. Die
 kleine Expedition kam in einem Schneesturm um. Die Nachricht
-hiervon erreichte mich erst acht Wochen später. Wie ich)
-dann die Sachen meines Vaters, besonders seinen Schnell
-Tisch, nach; Papieren durch Rechte, die ich für meine Mündig
-keitserflärung brauchte, fand ich in einem primitiven Geheimfach
-des Schreibtisches eines jener schmalen, langen
+hiervon erreichte mich erst acht Wochen später. Wie ich
+dann die Sachen meines Vaters, besonders seinen Schreibtisch,
+nach Papieren durchsuchte, die ich für meine
+Mündigkeitserklärung brauchte, fand ich in einem primitiven
+Geheimfach des Schreibtisches eines jener schmalen, langen
 chinesischen Kästchen, die mit allerlei Verzierungen versehen
-sind und die einen sogenannten Vexierdecdel haben, das heißt
+sind und die einen sogenannten Vexierdeckel haben, das heißt
 sie lassen sich nur öffnen, wenn man nacheinander verschiedene
-der Blechnäpfe verschiebt.
+der Zierknöpfe verschiebt.
 
 Ich habe mich dann tagelang, mehr aus Sport, bemüht,
-das Geheimnis des Fäßchens herauszufinden. Schließlich
+das Geheimnis des Kästchens herauszufinden. Schließlich
 gelang es mir. Zu meinem Erstaunen entdeckte ich darin
 zwei durch Seidenband zusammengehaltene Papierröllchen.
-Ah wickelte sie auseinander und sah, daß sie mit Zahlen
+Ich wickelte sie auseinander und sah, daß sie mit Zahlen
 beschrieben waren. Nur das eine Papier enthielt unter
 den Zahlen eine Unterschrift, die folgendermaßen lautete:
 
@@ -1495,39 +1495,39 @@ So legte ich denn schließlich das Kästchen mit den beiden
 Papieren wieder beiseite …
 
 Meiner Tante hatte ich bisher nichts von diesem Fund
-erzählt. Als ich eines Abends dann daraus zu sprechen kam
+erzählt. Als ich eines Abends dann darauf zu sprechen kam
 und auch die … sieben Weisen erwähnte, rief das alte
 Fräulein entsetzt:
 
-»Ab — dann waren die sechs Kerle, die keinen Vater
+»Ah — dann waren die sechs Kerle, die Deinen Vater
 <@pagebreak/>
 nachts heimlich besuchten, sicherlich ebenfalls Mitglieder
-dieser Gebeimgesellschafst … Claire, Claire, daß Du ja
+dieser Geheimgesellschaft … Claire, Claire, daß Du ja
 niemandem jemals von diesen Dingen etwas erzählst!
-Schande nicht das Andenken Deines abenteuerlustigen Vaters!
+Schände nicht das Andenken Deines abenteuerlustigen Vaters!
 Diese »sieben Weisen« waren letztens in einen Prozeß verwickelt,
 und mehrere erhielten langjährige Zuchthausstrafen.«
 
 Daß diese Worte meiner sonst sehr kühl-verständigen
-Tante großen Eindruck auf mich machten, wird jeder verrosteten.
+Tante großen Eindruck auf mich machten, wird jeder verstehen.
 Ich richtete mich auch später nach dieser Warnung,
 und als ich mich mit Colin Roß sechs Monate darauf verlobt
 hatte, und er mir gelegentlich von dem Strafprozeß
-gegen eine Gebheimgesellschaft erzählte, die den merkwürdigen
+gegen eine Geheimgesellschaft erzählte, die den merkwürdigen
 Namen »Die sieben Weisen« geführt hatte, da blieb ich
 stumm und verriet auch nicht durch ein Wimperzucken, daß
-mein Vater mit zu diesem Bunde jedoch hatte Nur etwa
+mein Vater mit zu diesem Bunde gehört hatte. Nur etwas
 blaß mag ich geworden sein. Colin kam nie wieder auf diese
-Dinge zu sprechen Na! einem Monat starb meine Tante.
-Ich mußte abermals Papiere bhervorsuchen und öffnete wieder
-seit langem einmal das Geheimfach Es war leer. sich
-almtbe bestimmt, Tante wird das Kästchen mit den beiden
+Dinge zu sprechen. Nach einem Monat starb meine Tante.
+Ich mußte abermals Papiere hervorsuchen und öffnete wieder
+seit langem einmal das Geheimfach. Es war leer. Ich
+glaube bestimmt, Tante wird das Kästchen mit den beiden
 Papierröllchen verbrannt haben. Erst heute nacht bin ich
 dann wieder an die sieben Weisen erinnert worden. Nun
-wissen Sie, weshalb ich in Ohnmacht fiel Meine Nerven
+wissen Sie, weshalb ich in Ohnmacht fiel. Meine Nerven
 waren angegriffen, und wohl nur aus diesem Grunde wirkte
 die Unterschrift unter dem Zettel des Schwarzbärtigen so
-gar? auf mich.«
+stark auf mich.«
 
 Harald richtete keine weitere Frage an Miß Margall.
 
@@ -1537,25 +1537,25 @@ Nur der Kollege Lewis meinte:
 mich noch sehr gut … Ich kann mir gar nicht denken,
 Miß Margall, daß Ihr Vater mit solchen Schurken etwas
 gemein hatte. Nach Ihren Angaben war er doch höchst selten
-daheim, meist irgendiwvo in unerforschten Ländern. Die
+daheim, meist irgendwo in unerforschten Ländern. Die
 sechs dagegen waren berüchtigte Einbrecher und Diebe, die
-vor keiner &- abtrat zurückscheuten …«
+vor keiner Gewalttat zurückscheuten …«
 
 »O — ein Verbrecher war mein Vater niemals!« rief
 <@pagebreak/>
-Claire leidensastlich. »Nein — zu mir war er die Güte
-selbst, und seine Beorderten, die verschiedenen Tracht:Feuerleiter,
-haben ihm stets das alle!beste Zeugnis ausgestellt …«
+Claire leidenschaftlich. »Nein — zu mir war er die Güte
+selbst, und seine Brotherren, die verschiedenen Expeditionsleiter,
+haben ihm stets das allerbeste Zeugnis ausgestellt …«
 
-»Ob er auch Indien konnte?« fragte Harald nun ohne
+»Ob er auch Indien kannte?« fragte Harald nun ohne
 besonderes Interesse und füllte die Teebecher …
 
 »Ja, allerdings … Er war sogar mit dem Engländer
 Sandor ein Stück in Tibet eingedrungen …«
 
-»So … so … — Tibet!« Niete Harst und reichte
-Claire den Teebecher. »Park im Ihnen dazu auch ein paar
-Keks reichen, Miß Maragaall? Spuren wir uns zum Schlafe.
+»So … so … — Tibet!« nickte Harst und reichte
+Claire den Teebecher. »Darf ich Ihnen dazu auch ein paar
+Keks reichen, Miß Margall? Bevor wir uns zum Schlafe
 niederlegen, müssen wir uns etwas stärken … — Ich übernehme
 die erste Wache … Es ist jetzt vier Uhr morgens.
 Um sieben mag Schraut mich ablösen …«
@@ -1574,13 +1574,13 @@ Dann ging er und ließ mich mit meinen rebellischen
 Gedanken allein.
 
 Vorsichtig sollte ich sein?! Und — ernst lagen die
-Dinge?! — Das begriff so nicht …
+Dinge?! — Das begriff ich nicht …
 
-Draußen war es fragst hell gerundeten … über ein
-neuer Schneesturm legte über die heraus dahin …
+Draußen war es längst hell geworden … Aber ein
+neuer Schneesturm fegte über die Berge dahin …
 
 Ich beobachtete die tanzenden Flocken … Ich rief mir
-all das Erlebte nochMmals ins Gedächtnis zurück …
+all das Erlebte nochmals ins Gedächtnis zurück …
 
 Was — was wohl hatten wir zu fürchten?! Die Feinde
 waren … ausgekniffen! Und die Mönche dort unten?!
@@ -1588,84 +1588,84 @@ Sollten die etwa gefährlich sein?! — Ich mußte lächeln …
 
 Harald hatte heute offenbar seinen schlechten Tag …
 Erst der — Pardon! — Unsinn, daß Colin Roß noch lebe
-und seine Braut durch Scckeinattentate in unweit und
-Schrecken gesetzt habe!! wer absurde Idee!! Und jetzt
+und seine Braut durch Scheinattentate in Angst und
+Schrecken gesetzt habe!! Welch absurde Idee!! Und jetzt
 tat er so, als ob wir von Gefahren umlauert seien …!
 
 <@pagebreak/>
-Nun — Erdboden paßte ich gut auf. So lange ich hier
-den Eingang bewachte, sollte niemand uns belästigen
+Nun — trotzdem paßte ich gut auf. So lange ich hier
+den Eingang bewachte, sollte niemand uns belästigen …
 
-Aber — es na Stelle nichts natürlich nicht« Eine
-Stunde später doch:c der Wind, und strahlenden Sonnen.
-Schein zauberte neue Beize der Gebiralands« all hervor
+Aber — es passierte nichts — natürlich nicht! Eine
+Stunde später drehte der Wind, und strahlender Sonnenschein
+zauberte neue Reize der Gebirgslandschaft hervor
 
-Drüben am See hatten fünf Buckdbistenmonche eine Anzahl
+Drüben am See hatten fünf Buddhistenmönche eine Anzahl
 Schafe ins Freie getrieben damit die Tiere einmal
-wieder frische Luft Ad sollten Es war eine Freude, die Tiere
-im Schnee unverhohlen zu sehen
+wieder frische Luft schöpften. Es war eine Freude, die Tiere
+im Schnee umhertollen zu sehen
 
 Von Gefahr, von Feinden keine Spur!
 
-Und als seien zehn dann unsere  Fährten sich erhoben,
-als Harald mich auftauchende, ihn hinab in die HvHöbhse zu
-begleiten, da konnte icm nicht anders« ich machte eine Tropische
+Und als gegen zehn dann unsere Gefährten sich erhoben,
+als Harald mich aufforderte, ihn hinab in die Höhle zu
+begleiten, da konnte ich nicht anders: ich machte eine ironische
 Bemerkung über den »Ernst der Lage«
 
 Wir hatten das Zinkboot bestiegen. Harald ruderte.
-Harald schaute mich an und erwiderte«
+Harald schaute mich an und erwiderte:
 
-»Glaubst Du wirklich, daß Claires ahnte das Kästchen
-Samt dem Inhalt verbrannt Katz’ Ich behaupte, Colin Roß
-hat es gestohlen. Colin los: hat sich nur deshalb mit dem
-Mädchen verlobt, um das Kästchen ein anzueignen. Er
-wußte, daß es Wer! hatte. Er ist ein Lump ohnegleichen.«
+»Glaubst Du wirklich, daß Claires Tante das Kästchen
+Samt dem Inhalt verbrannt hat?! Ich behaupte, Colin Roß
+hat es gestohlen. Colin Roß hat sich nur deshalb mit dem
+Mädchen verlobt, um das Kästchen sich anzueignen. Er
+wußte, daß es Wert hatte. Er ist ein Lump ohnegleichen.«
 
-Nun — jetzt machte ich ein recht betretenes Gesicht diese
+Nun — jetzt machte ich ein recht betretenes Gesicht. Diese
 Angaben hatten Hand und Fuß, zumal der Ingenieur ja
-Claire von dem Prozeß gegen die »eigenen Weisen« erzählt
-hatte und dadurch Claire nur hatte angebrochen wollen
+Claire von dem Prozeß gegen die »sieben Weisen« erzählt
+hatte und dadurch Claire nur hatte aushorchen wollen
 
 Harald sprach schon weiter.
 
-»Abgesehen von alledem John Margall war in Tibet.
-Und sicherlich auch in Nepal Und vielleicht hier am Godwira-See
-… Wir werden den Oberbonzen fragen« -
+»Abgesehen von alledem: John Margall war in Tibet.
+Und sicherlich auch in Nepal. Und vielleicht hier am Godwira-See
+… Wir werden den Oberbonzen fragen …« —
 
-Wir trafen das Oberhaupt der Mönch s8kolonie im
+Wir trafen das Oberhaupt der Mönchskolonie im
 Tempel an, wo er gerade die Weihrauchschalen füllte. Er
 begrüßte uns sehr freundlich und erklärte dann auf Haralds
 Fragen nach einigem Nachdenken, daß allerdings vor drei
 Jahren etwa zwei Europäer einige Tage bei ihm hier zu
-Gast- gewesen. Der eine sei ein Engländer, der andere ein
-Amerkkaner: gewesen Auf die Namen besinne er sich leider
+Gast gewesen. Der eine sei ein Engländer, der andere ein
+Amerikaner gewesen. Auf die Namen besinne er sich leider
 <@pagebreak/>
 nicht mehr. Der Amerikaner habe aber Tag für Tag die
-Höhlen durchgefeilt. sei in alle Spalten geklettert und habe
+Höhlen durchgeforscht, sei in alle Spalten geklettert und habe
 auch in dem unterirdischen Kanal, der mit dem See in
 Verbindung steht, mehrmals gebadet.
 
 Harald warf mir einen langen Blick zu …
 
 Ich schlug beschämt die Augen nieder. Auch ich war
-nun überzeugt, daß Colin Roß seine Braut sjchändlich Beträge
+nun überzeugt, daß Colin Roß seine Braut schändlich betrüge
 und noch lebe … —
 
-Dann durchsunviten Harst und ich die Höhle, wo der
-Schwarzbärtige gehaust hatte Die Taucherausrüsiing war
+Dann durchsuchten Harst und ich die Höhle, wo der
+Schwarzbärtige gehaust hatte. Die Taucherausrüstung war
 nicht mehr da. Die Flüchtenden hatten sie mitgenommen.
 Wir entdeckten nichts Neues, und bereits mittags trat unsere
 kleine Reisegesellschaft, die aus sechs Personen, drei Ponys
 und dem Hunde bestand, den Rückmarsch an.
 
 Abends langten wir in einem Tale an, wo ein Nepalese,
-ein Bauer, ein armseliges Gehöft besaß. Dicke Schneegrenze
-lag längst hinter uns. Hier brachten wir die Nacht zu: Und
-drei Tage daraus waren wir wohlbehalten in Catmandu. —
+ein Bauer, ein armseliges Gehöft besaß. Die Schneegrenze
+lag längst hinter uns. Hier brachten wir die Nacht zu. Und
+drei Tage darauf waren wir wohlbehalten in Catmandu. —
 
-Hiermit nehme Aß und mit mir der Leser Abschied von
-der Bergwelt und kehre in eine andere Welt ein in die
-Welt verfeinerten Kultur — in ein modernes Luxushotel in
+Hiermit nehme ich und mit mir der Leser Abschied von
+der Bergwelt und kehre in eine andere Welt ein — in die
+Welt verfeinerter Kultur — in ein modernes Luxushotel in
 … Kalkutta …
 
 <h2>2. Kapitel.</h2>
@@ -1678,11 +1678,11 @@ Hektor Richard Lewis und Miß Claire erfahren.
 Über unseren kurzen Aufenthalt in Catmandu brauche
 ich nichts nachzuholen, höchstens das eine, daß wir die Pferdeangelegenheit
 in Ordnung brachten, das heißt, dem Buddhistenmönch
-seine Ponys zurückschicken, obwohl wir sie anständig
+seine Ponys zurückschickten, obwohl wir sie anständig
 <@pagebreak/>
-bezahlt hatten. Diesen Austrag führten unsere beiden
+bezahlt hatten. Diesen Auftrag führten unsere beiden
 Diener Lampa und Sapu aus, und das waren die beiden
-Türkisensucher, von deren absoluter Harmlosigkeit im nach
+Türkisensucher, von deren absoluter Harmlosigkeit ich nach
 wie vor fest überzeugt war, da sie mir für irgend eine Heimtücke
 viel zu dämlich erschienen.
 
@@ -1693,32 +1693,32 @@ ein schwarzbärtiger Europäer vor kurzem geweilt habe. Die
 Auskünfte lauteten überall verneinend.
 
 So brachen wir denn nach Rotamar, der indischen Grenzstadt
-aus, wo wir die Eisenbahn benutzen konnten.
+auf, wo wir die Eisenbahn benutzen konnten.
 
 Unsere Dienerperlen Lampa und Sapu begleiteten uns.
 Miß Margall war in trübster Stimmung. Die Erfolglosigkeit
 ihrer monatelangen Bemühungen konnte sie kaum verwinden.
 Harald verriet ihr gegenüber nichts von dem, was
-er verwahrte: daß Colin Roß lebe und ein ganz Übler
-Schurke sei! — Auch Kollege Lewis Beistand sich in trübster
+er vermutete: daß Colin Roß lebe und ein ganz übler
+Schurke sei! — Auch Kollege Lewis befand sich in trübster
 Laune. Der Verlust seines Freundes Halport ging ihm sehr
-nahe. Kurz — wir waren eine äußerst [!Schweigsame Reisegesellschaft.
+nahe. Kurz — wir waren eine äußerst schweigsame Reisegesellschaft.
 Nur Lampa und Sapu brachten zuweilen etwas
 Heiterkeit in unseren stillen Kreis, wenn sie mal wieder
 irgend eine Riesendummheit sich geleistet hatten. Daß
-braune Schnürschubke mit braunem und nicht mit schwarzem
-Schultern zu putzen seien, begriffen sie noch immer nicht.
+braune Schnürschuhe mit braunem und nicht mit schwarzem
+Schuhkrem zu putzen seien, begriffen sie noch immer nicht.
 Und daß unsere Zahnbürsten nicht als Einreibebürsten Verwendung
-finden dürsten, ging gleichfalls über ihren Horizont.
+finden dürften, ging gleichfalls über ihren Horizont.
 
 In Rotamar, einem elenden Bergnest, verweilten wir
 zwei Tage. Harst hatte sich ein Gewehr geliehen und war
 volle achtzehn Stunden abwesend, um einen Tiger zu erlegen,
-den er dann gar nicht zu Gesicht; bekam.
+den er dann gar nicht zu Gesicht bekam.
 
-Kollege Leute schimpfte auf Harst in allen Tonarten.
+Kollege Lewis schimpfte auf Harst in allen Tonarten.
 Er fand es empörend, daß Harald die Verfolgung der flüchtigen
-Verbrecher von! Godwira-See so vollständig vernachlässigte
+Verbrecher vom Godwira-See so vollständig vernachlässigte
 … Ich konnte ihm nur recht geben. Harst war mir
 unverständlich,
 
@@ -1728,12 +1728,12 @@ Gasthaus zurückkehrte, wo wir Quartier bezogen hatten,
 nahm ich ihn denn auch gehörig ins Gebet.
 
 Wir standen abseits vom Hause auf einem Hügel. Nie
-werde im) das Lächeln vergessen, nicht dem er erwiderte:
+werde ich das Lächeln vergessen, mit dem er erwiderte:
 »Lieber Alter, wenn Du glaubst, daß ich die Verfolgung der
-drei Schurken ausgegeben habe, irrst Du gewaltig! — Tigerjagd.
-?! — Ich hatte als Begleiter Leute, die verschwiegen
+drei Schurken aufgegeben habe, irrst Du gewaltig! — Tigerjagd …?!
+— Ich hatte als Begleiter Leute, die verschwiegen
 sind. Ich habe mich keine halbe Meile von der Stadt entfernt
-und habe nachts hier aus der Lauer gelegen …«
+und habe nachts hier auf der Lauer gelegen …«
 
 Mein Gesicht muß wenig geistreich gewesen sein …
 
@@ -1743,10 +1743,10 @@ unterrichtete ihn über den wahren Sachverhalt hinsichtlich
 der beiden »ermordeten« Holländer …
 
 Nachmittags bestiegen wir den Zug. Lampa und Sapu
-hatten so flehentlich gebeten, daß wir sich doch mit nach
-Kalkutta nehmen wohnen, daß Harald schließlich nachgab.
+hatten so flehentlich gebeten, daß wir sie doch mit nach
+Kalkutta nehmen möchten, daß Harald schließlich nachgab.
 
-In unserem Abteil erster Klasse herschickte Kampfsstim-mung.
+In unserem Abteil erster Klasse herrschte Kampfstimmung.
 Lewis und Miß Margall taten, als wäre Harald
 so ungefähr Luft für sie.
 
@@ -1760,46 +1760,46 @@ auf der Spur. Ich wußte schon in unserer Höhle
 am Godwira-See, wie ich diese Spur einzig und allein aufnehmen
 könnte …«
 
-fest — machten Lewis und Claire ähnliche Gesichter
+Jetzt — machten Lewis und Claire ähnliche Gesichter
 wie ich vor vier Stunden auf dem Hügel.
 
 Ein Schwall von Fragen ergoß sich über Harald.
 
-Ich welche lachen Harald und sich ausfragen lassen …!
+Ich mußte lachen. Harald und sich ausfragen lassen …!
 
 Natürlich erwiderte er nur:
 
-»Alt das hätte wenig Zweck. Wozu sollte ich Ihnen
-meine Vermutungen auftischen«?1 Warten Sie ab …! Und
-erwähnen Sie nie hiervon etwa— in Landrat und Sonne
+»All das hätte wenig Zweck. Wozu sollte ich Ihnen
+meine Vermutungen auftischen?! Warten Sie ab …! Und
+erwähnen Sie nie hiervon etwas in Lampas und Sapus
 <@pagebreak/>
 Gegenwart. Die beiden spielen nur die blöden Nepalesen,
-die beiden Entsetzen fertig englisch und französisch, waren
-lange Zeit Fremdenführer in der Sommerresidenz des in:
-Ei en Vizekönigs, in Spionage, und sind schlauer als
-mancher Europäern!«
+die beiden sprechen fertig englisch und französisch, waren
+lange Zeit Fremdenführer in der Sommerresidenz des indischen
+Vizekönigs, in Srinagar, und sind schlauer als
+mancher Europäer!«
 
-Bei dem letzten Satz warf er mir einen langen Blick zu.
+Bei dem letzten Satz warf er mir einen langen Blick zu,
 der geradezu beleidigend war. —
 
 Am folgenden Abend dann … Neun Uhr …
 
 Gartenterrasse des Hotels King Edward in Kalkutta …
-Aussicht auf einen wunderbaren Hotelpark, in dem Mumie
+Aussicht auf einen wunderbaren Hotelpark, in dem bunte
 elektrische Lämpchen glühten …
 
 Ringsum ein internationales Reisepublikum …
 
 Wir vier an einem winzigen Tischchen, umgeben von
-schnatternden Amerikanern, einer Horde, die das Logische
-Zieisebüro durch Indien führte …
+schnatternden Amerikanern, einer Horde, die das Coolsche
+Reisebüro durch Indien führte …
 
 Kultur — Überkultur ringsum …
 
-Parfüm aller Arien in der Luft … Herren im
-Abendbrot … Damen in dekollorierten Roben wie zum
-großen Ball … Auf der Estrade eine ungarische Zigeuner
-Kapelle, die einfach hinreißend spielte …
+Parfüm aller Arten in der Luft … Herren im
+Abenddreß … Damen in dekollorierten Roben wie zum
+großen Ball … Auf der Estrade eine ungarische Zigeunerkapelle,
+die einfach hinreißend spielte …
 
 Lautlose braune Kellner bedienten …
 
@@ -1808,13 +1808,13 @@ Hotel King Edward hatte nur noch Zimmer im Gartenhause
 frei … Wir vier wohnten im Erdgeschoß nebeneinander
 …: Nummer 6, 7, 8, 9.
 
-Und jetzt soupierten wir … Krone Margall machte
+Und jetzt soupierten wir … Claire Margall machte
 große Augen … Vieles hier war ihr neu. Ihre Kasse
 hatte ihr stets nur Hotels dritten Ranges gestattet …
 
 Hektor Richard Lewis machte ihr ein wenig den Hof.
 So ganz zart … Zu verdenken war es ihm nicht, daß er
-Feuer fing. Krone hatte verdammt hübsche Augen … —
+Feuer fing. Claire hatte verdammt hübsche Augen … —
 Wir beide kümmerten uns um das Paar nicht viel …
 Vorhin, als der Kellner den Braten servierte, hatte Harald
 mir »Achtung!« zugeflüstert …
@@ -1828,7 +1828,8 @@ beziehen können …
 Ich saß so, daß ich sie bequem beobachten konnte …
 
 Sie waren vollendete Gentlemen, trugen Smoking und
-zeigten die ruhige Sicherheit der Zugehörigen guter Gesell-schafstskreise.
+zeigten die ruhige Sicherheit der Zugehörigen guter
+Gesellschaftskreise.
 
 Wieder beugte sich Harald zu mir hin.
 
@@ -1841,12 +1842,12 @@ Das heißt: die Namen waren’s! Ob auch deren Besitzer?!
 — Aber ich wagte kaum zu zweifeln. Harald behauptet nichts,
 was er nicht beweisen kann.
 
-Alter … Delirium und Smitson …!! Also doch hier
-in Kalkutta!! Dann war auch Colin Roß nicht sein …!
+Also … Pellham und Smitson …!! Also doch hier
+in Kalkutta!! Dann war auch Colin Roß nicht fern …!
 
-Ein heiratet Jagdfieber bemächtigte sich meiner …
+Ein leichtes Jagdfieber bemächtigte sich meiner …
 
-Dann stand Harald aus, sagte laut:
+Dann stand Harald auf, sagte laut:
 
 »Ich will mal im Büro nach den Abfahrtzeiten der
 Dampfer mich erkundigen …«
@@ -1858,60 +1859,60 @@ aus …
 
 Lewis nickte mir zu …
 
-»Hören Sie, Schraut!! Die Boys schreien tollste
+»Hören Sie, Schraut!! Die Boys schreien Harsts
 Namen …!«
 
 Wir kauften zwei Blätter …
 
-Und darin stand lang und breit die Geschichte der »er
-mordeten« Holländer aus Catmandu mit der Überschrift:
+Und darin stand lang und breit die Geschichte der »ermordeten«
+Holländer aus Catmandu mit der Überschrift:
 
->!!Geheimnisvolles Auftauchen Harsts in Nepal!!
+!!Geheimnisvolles Auftauchen Harsts in Nepal!!
 
 Wir lächelten …
 
 Vom Godwira-See keine Silbe …
 
 Ja — wir hatten zu schweigen gewußt, und Lampa und
-Sapu  ebenfalls!
+Sapu ebenfalls!
 
-Harst kam zurück … mit einem Bestien, einem Fahzx-plan
+Harst kam zurück … mit einem Heftchen, einem Fahrplan
 der Dampferlinien …
 
-»Sir für Sie passender Dampfer geht morgen vormittag
+»Ein für Sie passender Dampfer geht morgen vormittag
 <@pagebreak/>
-elf Uhr ab,« sagte er zu Claire und Lewis »Über Singapore,
+elf Uhr ab,« sagte er zu Claire und Lewis. »Über Singapore,
 Hongkong, Yekobama, Panama … In zwölf Tagen
-sind Sie daheim in Neuyork …« Tod ganz leise »Sie
+sind Sie daheim in Neuyork …« Und ganz leise: »Sie
 werden abreisen … Wir ebenfalls eine Stunde später
-nach »Bombay … Aber wir kommen wieder …«
+nach Bombay … Aber wir kommen wieder …«
 
-Dich Zigeuner spielten einen Straußswen Walzer …
+Die Zigeuner spielten einen Straußschen Walzer …
 
-Lewis und Claire ahnten nicht, daß Colin Roß
+Lewis und Claire ahnten nicht, daß Colin Roß’
 Freunde drei Tische vor uns saßen …
 
-Wir schwammen wieder mitten im aussichtsvollsten Erflehen
+Wir schwammen wieder mitten im aussichtsvollsten Erleben
 … Kalkutta ließ sich gut an …
 
 Um elf Uhr suchten wir unsere Zimmer auf. Um halb
-zwölf schwangen sich zwei Kulis aus unseren Fenstern un
-den stillen Garten’ Harst und Schraut!
+zwölf schwangen sich zwei Kulis aus unseren Fenstern in
+den stillen Garten: Harst und Schraut!
 
 Wir verließen den Park durch eine Seitenpforte, zu der
 Harald vom Hoteldirektor in aller Stille den Schlüssel besorgt
 hatte.
 
-Wohin es geben sollte? — in wußte es nicht
+Wohin es geben sollte? — Ich wußte es nicht …
 Wir kannten Kalkutta
 
-Nördlich von dem »ausgedehnten Maidan, dem Messerscharfen
-mitten in der Stadt, fliegt an der Kreuzung zweier
-Hauptverkehrsstraßen der Poli1zeipalast
+Nördlich von dem ausgedehnten Maidan, dem Riesengarten
+mitten in der Stadt, liegt an der Kreuzung zweier
+Hauptverkehrsstraßen der Polizeipalast
 
 Der Pförtner wollte uns zurückweisen
 
-»Feine Dienststunden …!«
+»Keine Dienststunden …!«
 
 »Harst,« sagte mein Freund.
 
@@ -1920,38 +1921,38 @@ Das Zauberwort wirkte
 Der Pförtner dienerte: »Sahib, Sir Codanoor erwartet
 Euch …«
 
-Sir Schnur Codanoor, Polizeichef der Stadt von
-900&nbsp;000 Einwohnern, heute uns die Hände. Wir waren
+Sir Godwin Codanoor, Polizeichef der Stadt von
+900&nbsp;000 Einwohnern, drückte uns die Hände. Wir waren
 alte Bekannte …
 
-»Habe alles erledigt, lieber Harst,. Nehmen Sie
+»Habe alles erledigt, lieber Harst … Nehmen Sie
 Platz …«
 
 Und die beiden armseligen indischen Kulis saßen in
-fühlen Klubsesseln und rauchten wundervolle Zigarren
+kühlen Klubsesseln und rauchten wundervolle Zigarren …
 
-»Schraut ist nicht ganz um Bilde,« meinte Harald zu
-Codanoor »Er weiß nicht, das, ich mit Ihnen telephoniert
+»Schraut ist nicht ganz im Bilde,« meinte Harald zu
+Codanoor. »Er weiß nicht, daß ich mit Ihnen telephoniert
 <@pagebreak/>
 habe, als ich den Dampferfahrplan holte … Sie haben
-also drei tüchtige Leute den beiden seinen an die Felsen
-geheuer?«
+also drei tüchtige Leute den beiden Herren an die Fersen
+geheftet?«
 
 »Gewiß. Ich habe auch bereits Meldung erhalten …
 Diese Pellham und Smitson benahmen sich jedoch verteufelt
-schlau … Sieginaen zum Hugli hinab (Kalkutta liegt am
-Hugli-Fluß) und stiegen hier in ein Motorboot, das sich
-schnell nisührte.«
+schlau … Sie gingen zum Hugli hinab (Kalkutta liegt am
+Hugli-Fluß) und stiegen hier in ein Motorboot, das sie
+schnell entführte.«
 
 »Schade …!« sagte Harald gleichgültig. »Immerhin
 — sie sind in Kalkutta …«
 
 Sir Codanoor hüstelte:
 
-»Verzeihung, lieber Harst, was ist mit den beiden«
+»Verzeihung, lieber Harst, was ist mit den beiden?«
 
-»Mörder sind’s, Verbrecher größten Stils … — Eben
-Sie schon einmal von dem Newyorker Verbrecherbund »Dich
+»Mörder sind’s, Verbrecher größten Stils … — Haben
+Sie schon einmal von dem Newyorker Verbrecherbund »Die
 sieben Weisen« gehört?«
 
 »Nein — bedauere …«
@@ -1960,18 +1961,18 @@ sieben Weisen« gehört?«
 und Mitgliedern der gebildeten Stände in guten
 Lebensstellungen zusammensetzt. Diese sieben Weisen haben
 überall … Filialen sozusagen … Wahrscheinlich ist es die
-bestacleitete Organisation dieser Art … Vielleicht existiert
-auch) hier eine solche Filiale …«
+bestgeleitete Organisation dieser Art … Vielleicht existiert
+auch hier eine solche Filiale …«
 
 Sir Codanoor schüttelte den Kopf …
 
 »Ausgeschlossen, lieber Harst …!«
 
 »So?! — Sollten denn hier keine Vergehen gegen
-fremdes Eigentum vorgekommen sein, die unaufsgeklärt
-blieben?! Ich besinne mich, noch vor zwei Wochen in Dja.
+fremdes Eigentum vorgekommen sein, die unaufgeklärt
+blieben?! Ich besinne mich, noch vor zwei Wochen in
 Madras in einer Zeitung gelesen zu haben, daß hier im Hafen
-von dem englischen Dampfer »Golden Tau« eine ganze
+von dem englischen Dampfer »Golden Law« eine ganze
 Ladung Barrengold gestohlen worden ist.«
 
 »Hm — allerdings … Ein Objekt von zwei Millionen
@@ -1979,23 +1980,23 @@ Ladung Barrengold gestohlen worden ist.«
 nicht erwischt …«
 
 »Nun also …! Mit Kleinigkeiten gibt sich dieser Verbrecherbund
-nicht ab … 1«
+nicht ab …!«
 
 Dann begann Harst dem Polizeichef unsere Erlebnisse
 <@pagebreak/>
-in Nepal zu berichten — alle! — zeigte ihm auch den Zettel,
-den wir auf hin Steintisch in der Höhle gefunden hatten.
+in Nepal zu berichten — alles — zeigte ihm auch den Zettel,
+den wir auf dem Steintisch in der Höhle gefunden hatten.
 
-Sir Schnur Codanoor saß da und staunte …
+Sir Godwin Codanoor saß da und staunte …
 
 »Und — und was taten die Schurken dort?« fragte er
 nun atemlos. »Wozu der Taucheranzug?!«
 
-»Natürlich haben sie Co!wies vom Grunde des sechs qe:
-holt — vielleicht Gold, vielleicht Edelsteine … Bestimmt
+»Natürlich haben sie etwas vom Grunde des Sees geholt
+— vielleicht Gold, vielleicht Edelsteine … Bestimmt
 weiß ich es noch nicht …«
 
-»Und Sie glauben, daß die drei Ingenieurs Mitglieder
+»Und Sie glauben, daß die drei Ingenieure Mitglieder
 der sieben Weisen sind?«
 
 »Ganz sicher! Ich glaube sogar, daß Claire Margalls
@@ -2006,12 +2007,12 @@ sich bei Forschungsreisenden verdingte und daß er
 Codanoor und ich starrten Harst verblüfft an …
 
 »Bitte … !» fügte er kühl hinzu, »als ich scheinbar auf
-der Tigerjagd war, habe ich, in Wahrheit Lampa und Sapu
-beobachtet. Sie traten nach Mitternacht in einem Gehölz
+der Tigerjagd war, habe ich in Wahrheit Lampa und Sapu
+beobachtet. Sie trafen nach Mitternacht in einem Gehölz
 mit einem Manne zusammen, der als Inder verkleidet war.
 Sein Englisch hatte amerikanischen Akzent. Er war mittelgroß,
-sehr breitschultrig und hatte die graue Augenbrauen,
-die über der Nase fast zusammenstießen Die Nepaleiseu
+sehr breitschultrig und hatte dicke graue Augenbrauen,
+die über der Nase fast zusammenstießen. Die Nepalesen
 kannten ihn genau und redeten ihn mit dem malaiischen
 Ausdruck Tuwan an, was doch so viel wie »hoher Herr«
 bedeutet … — Ich konnte leider nicht alles verstehen, was
@@ -2019,30 +2020,30 @@ sie miteinander flüsterten. Jedenfalls erfuhr ich, daß der
 »Tuwan« in Kalkutta mit den beiden wieder zusammentreffen
 wollte und daß die Nepalesen ihm erklärten, ich hätte
 die Verfolgung der Leute vom Godwira-See so gut wie aufgegeben.
-— Ah wollte dem Tuwan dann nachschleichen,
+— Ich wollte dem Tuwan dann nachschleichen,
 mußte hiervon jedoch Abstand nehmen, da er zu vorsichtig
 war. Und nun ist festgestellt, daß auch Pellham und Smitson
 hier in Kalkutta weilen …«
 
 »Wie konnten Sie denn wissen, lieber Harst, daß es sich
-bei Kiefern seinen um die beiden Ingenieure handelte?«
+bei diesen Herren um die beiden Ingenieure handelte?«
 
 Ein Lächeln huschte über Harsts gefärbtes Gesicht …
 
 <@pagebreak/>
-»Weil … sich den … Tuwan mit Blicken grüßten,
-Sir Codanoor. Der Dünung saß rechts von uns allein
-an einem Tisch an der Rampe ein aratbärtiger würdiger
-Herr mit Briste’ Und doch verrieten ihn die dicken Augenbrauen,
+»Weil … sie den … Tuwan mit Blicken grüßten,
+Sir Codanoor … Der Tuwan saß rechts von uns allein
+an einem Tisch an der Rampe: ein graubärtiger würdiger
+Herr mit Brille! Und doch verrieten ihn die dicken Augenbrauen,
 die sich fast über der Nase berührten …«
 
 »Ah — — und …«
 
-» … Und Claire Margall hat mir einmal ihren Vater
+»… und Claire Margall hat mir einmal ihren Vater
 beschrieben und diese Augenbrauen erwähnt … — Im
 Übrigen habe ich die beiden Hoteldetektive Robertson und
-Dritten gebeten, den Tuwan und unsere Diener Lampa
-und Sapu nicht aus den Augen zu lassen … Das Not,
+Britton gebeten, den Tuwan und unsere Diener Lampa
+und Sapu nicht aus den Augen zu lassen … Das Netz,
 das ich jetzt schon um die sieben Weisen ausgespannt habe,
 dürfte sich bewähren, Sir Codanoor. — Morgen vormittag
 reisen wir ab. Ein von Ihnen besorgtes Motorboot wird
@@ -2056,13 +2057,13 @@ wiegte langsam den Kopf hin und her …
 zuhört, glaubt man einen Roman zu lesen …«
 
 »Diesmal einen sehr blutigen, Sir Codanoor, und einen
-sehr »traurigen. John Margall hat Colin Roß auf seine
-Tochter gelebt … Das chinesische Kästchen sollte durch
+sehr traurigen. John Margall hat Colin Roß auf seine
+Tochter gehetzt … Das chinesische Kästchen sollte durch
 Roß verschwinden. Margall hatte es vergessen, als er seinen
 Tod inszenierte — seinen Tod in Alaska …!! Es sind
 Schurken größten Kalibers. Und wehe uns, wenn wir ihnen
-je in die Hände sollen sollten. Die kennen kein Erbarmen.
-Die Sir« weise: Tote reden nicht mehr!« —
+je in die Hände fallen sollten. Die kennen kein Erbarmen.
+Die sind weise: Tote reden nicht mehr!« —
 
 Gleich darauf verabschiedeten wir uns …
 
@@ -2088,7 +2089,7 @@ Dicht vor ihnen lagen ebenso zerlumpte kleine Tücher, aus
 denen zerbeulte Fleckchen standen …
 
 So jämmerliHg auch diese beiden Kerle ausschauten:
-die übrigen Bettler, die hier auf der Brücke ihre Stammpläte
+die übrigen Bettler, die hier auf der Brücke ihre Stammplätze
 hatten, maßen die Neulinge mit wütenden Blicken … -
 
 Als dann um halb sieben die Brücke wir stets für eine
