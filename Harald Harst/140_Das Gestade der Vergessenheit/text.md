@@ -29,7 +29,7 @@ in das von innen versperrte Gemach ein.
 
 Die Holländer waren verschwunden. Blutspuren und
 andere Anzeichen, besonders die beiden gewaltsam erbrochenen
-und ausgeplünderten Koffer ließen ein Verbrechen vermuten,
+und ausgeplünderten Koffer ließen ein Verbrechen vermuten.
 
 <@pagebreak/>
 Man rief die Polizei herbei, die denn auch mit dem
@@ -90,7 +90,7 @@ Eine Unterschrift fehlte … —
 Mr. Thomas Longerpeek war jetzt fest überzeugt, daß
 die beiden Pferdediebe auch die Mörder der Holländer seien
 und daß dieses Geld eben aus der Beute stammte, die die
-Nepalesen durch ihre Untat sich verschafft hatten
+Nepalesen durch ihre Untat sich verschafft hatten.
 
 * * *
 
@@ -264,7 +264,7 @@ seine Begleiter in Catmandu ein, mieteten Arbeiter und
 Träger und brachen nach dem Godwira auf. Colins
 letzter Brief an mich war vom 18. September datiert
 und in einem Dorfe am Rande der Vorberge des Himalaja
-einem Boten Übergeben worden. Seitdem hat
+einem Boten übergeben worden. Seitdem hat
 niemand mehr etwas von der achtzehn Köpfe starken
 Expedition gehört.
 
@@ -292,7 +292,7 @@ falls Sie wirklich die lange Reise hierher antreten
 sollten. Schon in den indischen Grenzdörfern stecken
 Spione, die mir seitdem kaum von den Fersen gewichen
 sind. Es muß sich hier um ganz große Dinge handeln,
-Vielleicht um … — Doch nein, ich will mich nicht in
+vielleicht um … — Doch nein, ich will mich nicht in
 Phantasien ergehen. Nun nochmals: die Schurken, die
 meinen Verlobten und all die anderen beseitigt haben,
 verfügen über ungeheure Hilfsmittel! — Ich grüße
@@ -300,7 +300,7 @@ Sie … — Claire Margall.
 
 <@pagebreak/>
 Dieses Telegramm hatte Harald durch seine Mutter
-nachgeschickt erhalten und dann auch in kurzem entziffert
+nachgeschickt erhalten und dann auch in kurzem entziffert.
 
 Er fand diese Depesche für die Absenderin außerordentlich
 kennzeichnend …
@@ -317,10 +317,10 @@ unsern dicken Brei aus …
 Jetzt meinte Harald, indem er den Teekessel auf den
 Spirituskocher setzte:
 
-»nach Dunkelwerden brechen wir auf … Wir nehmen
+»Nach Dunkelwerden brechen wir auf … Wir nehmen
 nur das Nötigste mit. In drei Stunden können wir am
 See sein. Dort suchen wir einen neuen Lagerplatz, holen
-dann die Ponys und das Übrige Gepäck und bleiben in
+dann die Ponys und das übrige Gepäck und bleiben in
 dem neuen Versteck, bis wir irgend etwas bemerken.«
 
 Der Tee war fertig … Wir füllten die Thermosflaschen,
@@ -427,7 +427,7 @@ und Schraut …!«
 
 Lewis trat rasch hinter den Pferden vor …
 
-»beim General Jackson — das nenne ich eine Überraschung
+»Beim General Jackson — das nenne ich eine Überraschung
 …!!«
 
 Und er drückte unsere Hände, während Douglas uns
@@ -517,7 +517,7 @@ Aber außerhalb dieses glänzenden Streifens gewahrte
 ich nun ebenfalls noch einen hellen Fleck … Es sah so aus,
 als ob auf dem Grunde des See sich eine Lichtquelle befände,
 die bis nach oben hin das Wasser durchstrahlte. Daneben
-Lagerten leichte Nebelgebilde, die fraglos auf die heißen
+lagerten leichte Nebelgebilde, die fraglos auf die heißen
 Quellen zurückzuführen waren.
 
 »Was hältst Du davon?« fragte Harst leise und stieg
@@ -588,7 +588,7 @@ Was bedeutete das?! Machte er es etwa den Schurken
 nach, die hier am Godwira-See als unsichtbare Teufel hausten
 und keinerlei Fährten zurückließen?!
 
-ich rief leise …
+Ich rief leise …
 
 »Hallo — — Harald!«
 
@@ -607,7 +607,7 @@ andere Geheimnisse …! Dort links kannst Du an den Felszacken
 emporklettern. Ich reiche Dir dann die Hand und
 ziehe Dich vollends empor …«
 
-sehr bald war ich in der Felsspalte, die sich nach oben
+Sehr bald war ich in der Felsspalte, die sich nach oben
 zu kugelförmig erweiterte und uns beiden übergenug Raum
 bot …
 
@@ -649,7 +649,7 @@ befanden uns hier oben bereits dicht an der Grenze des
 heiligen Berglandes Tibet, das noch weit mehr ein Land der
 Geheimnisse ist als Indien …«
 
-»am — und die Leute, die Colin Roß und die siebzehn
+»Hm — und die Leute, die Colin Roß und die siebzehn
 Mitglieder der Expedition verschwinden ließen?!
 Hausen diese Schurken hier in voller Eintracht mit den
 Mönchen?!«
@@ -761,7 +761,7 @@ Wir halfen ihm …
 Er zitterte, war halb von Sinnen …
 
 Ein Schluck Whisky gab ihm leidlich das innere Gleichgewicht
-zurück. matt lag er auf der Wolldecke. Sein hageres,
+zurück. Matt lag er auf der Wolldecke. Sein hageres,
 von einem Stoppelbart umrahmtes, typisches amerikanisches
 Gesicht zeigte eine Verstörtheit ohnegleichen.
 
@@ -776,7 +776,7 @@ die Schufte ja meinen Lagerplatz kannten. Ihre Anwesenheit
 hier, Kollegen, hatte mir Mut gemacht und meinen
 Unternehmungsgeist verdoppelt. Ich wollte nicht hinter
 Ihnen beiden zurückstehen und mich näher an den See heranwagen.
-ich packte unsere Sachen zusammen, stellte aus
+Ich packte unsere Sachen zusammen, stellte aus
 einem Stück Leinwand eine Art Schleife her und zog so
 das Gepäck bis zum Südufer des Sees — bis zu dem einzelnen
 langen Felsen, der von den Randbergen wie ein erster
@@ -812,10 +812,10 @@ sich zerschmettern lassen?!«
 
 Er war erregt, und in seinen grauen Augen leuchtete
 jene Tatkraft, die unseren Gegnern noch stets verderblich
-geworden
+geworden.
 
 »Dieses Steinbombardement, lieber Lewis, war im
-Übrigen von den Burschen eine ungeheure Dummheit …
+übrigen von den Burschen eine ungeheure Dummheit …
 Jetzt weiß ich, daß dieser gut sieben Meter hohe, spitze Felsenwall,
 der auch mir schon aufgefallen ist, den Schlüssel der
 Geheimnisse dieses Bergsees enthält … Dort muß es
@@ -919,7 +919,7 @@ Blonde Bärte, ungepflegt … Der Nepalese, ein kleiner
 Kerl im Schafpelz …
 
 Und der sprang nun, als das Boot das Ufer erreicht
-Hatte, auf einen hohen Stein, und von da auf den Wall …
+hatte, auf einen hohen Stein, und von da auf den Wall …
 Hatte zwei Leinen in der Hand … Die Europäer folgten
 auf demselben Wege … Und mit Hilfe der Leinen rissen
 sie das Boot zu sich empor, trugen es oben auf der schmalen
@@ -966,7 +966,7 @@ fest, krabbelte empor …
 Ein zweiter ebenso verzweifelter Satz brachte mich in die
 Reichweite von Haralds Händen …
 
-»du bist ein Narr, mein Alter!« sagte er grob und zog
+»Du bist ein Narr, mein Alter!« sagte er grob und zog
 mich empor. »Wenn uns beiden nun etwas zustößt, so ist
 auch Lewis und ebenso Claire Margall geliefert …!«
 
@@ -1016,14 +1016,14 @@ ein kleiner Teich zu unseren Füßen … Und dicht daneben
 
 Die Lampe erlosch …
 
-»weiter, mein Alter …«
+»Weiter, mein Alter …«
 
 Also — weiter abwärts, wieder in scharfer Biegung —
 im Dunkeln …
 
 Dann Haralds gedämpfte Stimme:
 
-»hier teilt sich der Gang … Wählen wir die rechte
+»Hier teilt sich der Gang … Wählen wir die rechte
 Abzweigung …«
 
 Schritt für Schritt, tastend, horchend — Schritt für
@@ -1277,7 +1277,7 @@ der frommen Vierzehn … Ein dritter Raum: der
 Schafstall, der auch Milchziegen enthielt. Ein vierter,
 die Vorratskammer!
 
-Und Überall als Beleuchtungsmittel dieselben flachen
+Und überall als Beleuchtungsmittel dieselben flachen
 Ölschalen mit den wollenen Dochten … —
 
 Im Nu hatten sich hier die Mönche um uns versammelt
@@ -1315,7 +1315,7 @@ waren, weil sie verschiedene religiöse Einrichtungen nicht
 anerkannten. Sie hatten dann hier in aller Stille sich niedergelassen
 und ihr Geheimnis bisher sorgsam gehütet. In
 Nepal, betonte der Oberbonze, ahne niemand etwas von
-der Existenz dieses Tempels,
+der Existenz dieses Tempels.
 
 Harst zeigte für all dies wenig Interesse.
 
@@ -1446,7 +1446,7 @@ Und nun kam Claire Margall an die Reihe …
 Wir vier Europäer saßen auf Wolldecken um den
 fauchenden Spirituskocher herum … Neben Lewis lag der
 brave Douglas. Claire Margall hatte den Ehrenplatz und
-lehnte an der durch ein Sattelkissen gepolsterten Felswand,
+lehnte an der durch ein Sattelkissen gepolsterten Felswand.
 
 Die beiden Nepalesen wieder hatten sich in der Nähe
 der Ponys niedergestreckt und schienen zu schlafen.
@@ -1598,25 +1598,25 @@ den Eingang bewachte, sollte niemand uns belästigen …
 
 Aber — es passierte nichts — natürlich nicht! Eine
 Stunde später drehte der Wind, und strahlender Sonnenschein
-zauberte neue Reize der Gebirgslandschaft hervor
+zauberte neue Reize der Gebirgslandschaft hervor.
 
 Drüben am See hatten fünf Buddhistenmönche eine Anzahl
 Schafe ins Freie getrieben damit die Tiere einmal
 wieder frische Luft schöpften. Es war eine Freude, die Tiere
-im Schnee umhertollen zu sehen
+im Schnee umhertollen zu sehen.
 
 Von Gefahr, von Feinden keine Spur!
 
 Und als gegen zehn dann unsere Gefährten sich erhoben,
 als Harald mich aufforderte, ihn hinab in die Höhle zu
 begleiten, da konnte ich nicht anders: ich machte eine ironische
-Bemerkung über den »Ernst der Lage«
+Bemerkung über den »Ernst der Lage.«
 
 Wir hatten das Zinkboot bestiegen. Harald ruderte.
 Harald schaute mich an und erwiderte:
 
 »Glaubst Du wirklich, daß Claires Tante das Kästchen
-Samt dem Inhalt verbrannt hat?! Ich behaupte, Colin Roß
+samt dem Inhalt verbrannt hat?! Ich behaupte, Colin Roß
 hat es gestohlen. Colin Roß hat sich nur deshalb mit dem
 Mädchen verlobt, um das Kästchen sich anzueignen. Er
 wußte, daß es Wert hatte. Er ist ein Lump ohnegleichen.«
@@ -1624,7 +1624,7 @@ wußte, daß es Wert hatte. Er ist ein Lump ohnegleichen.«
 Nun — jetzt machte ich ein recht betretenes Gesicht. Diese
 Angaben hatten Hand und Fuß, zumal der Ingenieur ja
 Claire von dem Prozeß gegen die »sieben Weisen« erzählt
-hatte und dadurch Claire nur hatte aushorchen wollen
+hatte und dadurch Claire nur hatte aushorchen wollen.
 
 Harald sprach schon weiter.
 
@@ -1686,7 +1686,7 @@ Türkisensucher, von deren absoluter Harmlosigkeit ich nach
 wie vor fest überzeugt war, da sie mir für irgend eine Heimtücke
 viel zu dämlich erschienen.
 
-Im Übrigen gaben wir uns in Catmandu als Touristen
+Im übrigen gaben wir uns in Catmandu als Touristen
 aus, um allen Scherereien mit der Polizei zu entgehen.
 Wir erkundigten uns natürlich insgeheim, ob hier vielleicht
 ein schwarzbärtiger Europäer vor kurzem geweilt habe. Die
@@ -1720,7 +1720,7 @@ Kollege Lewis schimpfte auf Harst in allen Tonarten.
 Er fand es empörend, daß Harald die Verfolgung der flüchtigen
 Verbrecher vom Godwira-See so vollständig vernachlässigte
 … Ich konnte ihm nur recht geben. Harst war mir
-unverständlich,
+unverständlich.
 
 <@pagebreak/>
 Als er von der famosen Tigerjagd in das öffentliche
@@ -1819,7 +1819,7 @@ Wir beide kümmerten uns um das Paar nicht viel …
 Vorhin, als der Kellner den Braten servierte, hatte Harald
 mir »Achtung!« zugeflüstert …
 
-und da hatte ich zwei Herren mit blonden Spitzbärten
+Und da hatte ich zwei Herren mit blonden Spitzbärten
 und dunkel gebräunten Gesichtern bemerkt, die drei Tische
 <@pagebreak/>
 weiter Platz nahmen. Nur auf sie hatte sich dieses »Achtung!«
@@ -1835,7 +1835,7 @@ Wieder beugte sich Harald zu mir hin.
 
 »Pellham und Smitson …!« flüsterte er …
 
-Ich … fiel aus allen Wolken
+Ich … fiel aus allen Wolken.
 
 Das waren ja die beiden Kollegen des Colin Roß …!!
 Das heißt: die Namen waren’s! Ob auch deren Besitzer?!
@@ -1904,19 +1904,19 @@ Harald vom Hoteldirektor in aller Stille den Schlüssel besorgt
 hatte.
 
 Wohin es geben sollte? — Ich wußte es nicht …
-Wir kannten Kalkutta
+Wir kannten Kalkutta.
 
 Nördlich von dem ausgedehnten Maidan, dem Riesengarten
 mitten in der Stadt, liegt an der Kreuzung zweier
-Hauptverkehrsstraßen der Polizeipalast
+Hauptverkehrsstraßen der Polizeipalast.
 
-Der Pförtner wollte uns zurückweisen
+Der Pförtner wollte uns zurückweisen.
 
 »Keine Dienststunden …!«
 
 »Harst,« sagte mein Freund.
 
-Das Zauberwort wirkte
+Das Zauberwort wirkte.
 
 Der Pförtner dienerte: »Sahib, Sir Codanoor erwartet
 Euch …«
@@ -2006,7 +2006,7 @@ sich bei Forschungsreisenden verdingte und daß er
 
 Codanoor und ich starrten Harst verblüfft an …
 
-»Bitte … !» fügte er kühl hinzu, »als ich scheinbar auf
+»Bitte …!« fügte er kühl hinzu, »als ich scheinbar auf
 der Tigerjagd war, habe ich in Wahrheit Lampa und Sapu
 beobachtet. Sie trafen nach Mitternacht in einem Gehölz
 mit einem Manne zusammen, der als Inder verkleidet war.
@@ -2041,7 +2041,7 @@ die sich fast über der Nase berührten …«
 
 »… und Claire Margall hat mir einmal ihren Vater
 beschrieben und diese Augenbrauen erwähnt … — Im
-Übrigen habe ich die beiden Hoteldetektive Robertson und
+übrigen habe ich die beiden Hoteldetektive Robertson und
 Britton gebeten, den Tuwan und unsere Diener Lampa
 und Sapu nicht aus den Augen zu lassen … Das Netz,
 das ich jetzt schon um die sieben Weisen ausgespannt habe,
@@ -2078,59 +2078,59 @@ Auf der über den Hugli-Fluß führenden Schiffsbrücke,
 welche die Industrievorstadt Howrah mit dem eigentlichen
 Kalkutta verbindet, saßen im Sonnenbrand mit untergeschlagenen
 Beinen zwei indische Bettler — schmierige alte
-Kerle von jener Art, die dem Fremden einen Schauer Über
+Kerle von jener Art, die dem Fremden einen Schauer über
 den Rücken jagen …
 
-Zottige, vertilgte Haare hingen ihnen unter den schOmuß-starrenden
+Zottige, verfilzte Haare hingen ihnen unter den schmutzstarrenden
 Turbanen in die von Pockennarben zerrissenen
-Gesichter … Vertilgte Bärte erhöhten noch den abschreckender
+Gesichter … Verfilzte Bärte erhöhten noch den abschreckenden
 Eindruck dieser elenden, in Lumpen gehüllten Gestalten.
-Dicht vor ihnen lagen ebenso zerlumpte kleine Tücher, aus
-denen zerbeulte Fleckchen standen …
+Dicht vor ihnen lagen ebenso zerlumpte kleine Tücher, auf
+denen zerbeulte Blechbecken standen …
 
-So jämmerliHg auch diese beiden Kerle ausschauten:
+So jämmerlich auch diese beiden Kerle ausschauten:
 die übrigen Bettler, die hier auf der Brücke ihre Stammplätze
-hatten, maßen die Neulinge mit wütenden Blicken … -
+hatten, maßen die Neulinge mit wütenden Blicken … —
 
-Als dann um halb sieben die Brücke wir stets für eine
+Als dann um halb sieben die Brücke wie stets für eine
 Stunde geöffnet wurde, damit der Frachtverkehr auf dem
 Flusse in dieser Zeit erledigt werden könnte, verzogen sich die
 anderen Bettler, da die Fußgänger für diese eine Stunde
-aufblicken.
+ausblieben.
 
 Die beiden Neulinge blieben sitzen …
 
 Ihre Augen glitten unaufhörlich über das nahe linke
 Hugliufer hin — über die Warenspeicher und Häuser, über
-die Seemannskneipen und Teestuben mit den kleinen über-daccrten
+die Seemannskneipen und Teestuben mit den kleinen überdachten
 Vorgärten, die zumeist Chinesen gehörten …
 
 Die beiden alten zottigen Schmierfinken waren Harst
 und ich.
 
-Nadpmnittags drei Uhr hatte das Motorboot uns an einsamer
-Tierliebe weit südlich der Stadt abgelegt. Ein geschlossenes
-Auto hatte uns erwartet In diesem Auto hatten
+Nachmittags drei Uhr hatte das Motorboot uns an einsamer
+Uferstelle weit südlich der Stadt abgesetzt. Ein geschlossenes
+Auto hatte uns erwartet. In diesem Auto hatten
 <@pagebreak/>
 wir vier Verbündete uns gründlich verwandelt. Auch Kollege
 Lewis und Claire Margall waren zu Indern geworden.
-Ein einsames leeres Häuschen auf einem unbebauten Waldgrundstück,
-daß einem Freunde Sir Codanoors gehörte,
+Ein einsames leeres Häuschen auf einem unbebauten Parkgrundstück,
+das einem Freunde Sir Codanoors gehörte,
 wurde unser Quartier. Es lag in der Vorstadt Sibpur südlich
 von Howrah.
 
 Codanoor hatte für Harald dem Schofför einen Brief
-übergeben. Dieses Schreiben besagte, daß die von uns entlassener
+übergeben. Dieses Schreiben besagte, daß die von uns entlassenen
 Nepalesen Lampa und Sapu sich in einer Schifferkneipe
-Tabletten Ranges unweit der Pontonbrücke eingemietet
+letzten Ranges unweit der Pontonbrücke eingemietet
 hätten.
 
 Diese Nachricht war für uns überaus wertvoll, da auch
 die beiden Hoteldetektive in der vergangenen Nacht nichts
-auL8gerichtet hatten. Lampa und Sapu waren in ihrem
+ausgerichtet hatten. Lampa und Sapu waren in ihrem
 Dienerzimmer im Hotel geblieben, und der »Tuwan« hatte
 sich genau wie Pellham und Smitson sehr geschickt unsichtbar
-genähert, nachdem er das Hotel King Edward verlassen hatte.
+gemacht, nachdem er das Hotel King Edward verlassen hatte.
 
 Jetzt beobachteten wir die Schifferkneipe …
 
@@ -2138,25 +2138,25 @@ Freilich — da ich meine Brille in der Tasche hatte,
 konnte ich nicht gerade viel von den Leuten erkennen, die
 dort drüben ein- und ausgingen …
 
-Die Kneipe war eine elende Lehmbude, die Douglas noch
+Die Kneipe war eine elende Lehmbude, die fraglos noch
 aus jenen Zeiten stammte, wo Kalkutta nur als Fiebernest
-berüchtigt war. Der einstöd:ge Bau mit dem turmartigen
-Ziecoldach nahm sich inmitten der modernen Häuser recht
-sonderbar aus. Zwei Fersen und eine breite Tür hatte
+berüchtigt war. Der einstöckige Bau mit dem turmartigen
+Ziegeldach nahm sich inmitten der modernen Häuser recht
+sonderbar aus. Zwei Fenster und eine breite Tür hatte
 die Front, davor standen ein Dutzend Tische unter einem
-Kameltrab … Sie waren bis auf einen unbesetzt. Der
+Sonnendach … Sie waren bis auf einen unbesetzt. Der
 Betrieb in der Kneipe schien überhaupt recht mäßig zu sein.
-Der hagere Chinese, der Her Wirt, lungerte meist vor der
-Tür anlief. —
+Der hagere Chinese, der Herr Wirt, lungerte meist vor der
+Tür umher. —
 
 Harald seufzte …
 
-»arme Geduldsprobe … 1!«
+»Eine Geduldsprobe …!!«
 
 »Und die Hitze!« stöhnte ich …
 
-»Trotzdem müssen wir zu: halten,« flüsterte Harst. »Denn
-»Nr durch Lampa und Sapu werden wir …«
+»Trotzdem müssen wir aushalten,« flüsterte Harst. »Denn
+nur durch Lampa und Sapu werden wir …«
 
 <@pagebreak/>
 Er schwieg …
@@ -2164,19 +2164,19 @@ Er schwieg …
 Auch ich sah den Nachen, der soeben an der Treppe des
 Bollwerks unweit der Kneipe angelegt hatte …
 
-Ein Inder saß darin, außerdem ein gut gekfleideter
+Ein Inder saß darin, außerdem ein gut gekleideter
 Chinese …
 
 Dieser stieg aus, wandte den Kopf und rief dem Ruderer
 etwas zu …
 
-Da konnten wir sein Gesicht ließ des tief in die Stirn
+Da konnten wir sein Gesicht trotz des tief in die Stirn
 gedrückten Hutes genauer mustern …
 
 »Der Tuwan!!« — und in Haralds Stimme war Leben
 und Eifer …
 
-Pech) kniff die Augen zusammen … Und erkannte diese
+Ich kniff die Augen zusammen … Und erkannte diese
 auffälligen Augenbrauen … Wußte: wir hatten uns hier
 in der Sonne nicht umsonst braten lassen!
 
@@ -2191,7 +2191,7 @@ In der Nähe lag ein kleines Motorboot vertäut — zu
 unserer Verfügung, besetzt mit vier indischen verkleideten
 Geheimagenten …
 
-Und als wir an der Kneipe vorüberhumpeliten, flatterte
+Und als wir an der Kneipe vorüberhumpelten, flatterte
 uns plötzlich ein Stück Papier vor die Füße, das mit einem
 Steinchen beschwert und an dem mit einer Nadel ein indischer
 Geldschein beseitigt war …
@@ -2216,25 +2216,25 @@ genug angefangen haben …«
 Und als wir hinter einem Stapel Fässer das Papier
 prüften, fanden wir folgendes:
 
-> »Mr. Harst, wir haben Claire Margall und sowohl
-sicher untergebracht. Falls Sie Kalkutta nicht
-noch heute verlassen, werden die beiden morgen früh
-Leichen den Hugli hinabschwimmen. Auch der Poliert
-dürfen Sie nichts melden. Wir sind okktmächtig,
+> »Mr. Harst, wir haben Claire Margall und Lewis
+sicher untergebracht. Falls Sie Kalkutta nicht endgültig
+noch heute verlassen, werden die beiden morgen früh als
+Leichen den Hugli hinabschwimmen. Auch der Polizei
+dürfen Sie nichts melden. Wir sind allmächtig,
 Mr. Harst.«
 
-Diesmal fehlte eine Unterschrift
+Diesmal fehlte eine Unterschrift.
 
-Diesmal war selbst Harald ein wenig außer Vortrag
+Diesmal war selbst Harald ein wenig außer Fassung
 geraten …
 
 »Eine nette Bescherung …!« meinte er sehr gedehnt …
-»Wir hätten uns eben niemals mit der Offiziellen Wasser
+»Wir hätten uns eben niemals mit der offiziellen Polizei
 verbünden sollen …! Wir beide allein — dann brauchen
-wir keine Verräter zu fürchten … — Vorwärts — mach
+wir keine Verräter zu fürchten … — Vorwärts — nach
 unserem Quartier!«
 
-Wir ließen uns über den Fluß sehen … In einer
+Wir ließen uns über den Fluß setzen … In einer
 Viertelstunde waren wir in dem verwilderten Garten vor
 dem Häuschen …
 
@@ -2242,28 +2242,28 @@ Die elende Brettertür stand offen …
 
 Wir traten ein …
 
-Zwei mit geistiger Blindheit Geschlagene… Zwei!,
+Zwei mit geistiger Blindheit Geschlagene … Zwei,
 die sich hätten denken können, was unser wartete …
 
-Zwei, die jetzt von einem halben Dutzend falls angesprungen
-wurden — niedergerissen — — bald wir wer
-wehrlose Bündel, eingepackt in jene großen Körbe, mit Venen
-hier die indischen Bauern ihr Gemüse zu Markte beim:e; …
+Zwei, die jetzt von einem halben Dutzend Kulis angesprungen
+wurden — niedergerissen — — bald nur zwei
+wehrlose Bündel, eingepackt in jene großen Körbe, mit denen
+hier die indischen Bauern ihr Gemüse zu Markte bringen …
 
-Man trug den Korb, in dem ich, auch mit einem: oder
-Knebel im Munde, verstaut worden war, von darf …
+Man trug den Korb, in dem ich, auch mit einem dicken
+Knebel im Munde, verstaut worden war, von dannen …
 
 Ein Karren ratterte davon …
 
-Erst durch belebtere Straßen, dann durch Einiseratelt —
-Felder Wälder - Holzbrikkken … ihindexlang
+Erst durch belebtere Straßen, dann durch Einsamkeit —
+Felder — Wälder — Holzbrücken … stundenlang …
 
-Und schließlich wurde mein Mord emporgehoebew, nannte
+Und schließlich wurde mein Korb emporgehoben, wurde
 Treppen empor geschafft, wurde hart niedergestellt …
 
 Schritte entfernten sich …
 
-Stille … Ungeheure Hitze … Erstikungscrmfäte …
+Stille … Ungeheure Hitze … Erstickungsanfälle …
 
 <@pagebreak/>
 Mir drohten die Sinne zu schwinden … Und — —
@@ -2275,18 +2275,18 @@ Eine dumpfe Stimme …
 
 Antworten?! Mit dem Knebel zwischen den Zähnen?!
 
-Aber — bewegen kennt- ich mich …
+Aber — bewegen konnte ich mich …
 
 Warf mich nach hinten … Der Korb wippte, fiel langsam
 um …
 
 Und als ich mich dann mühsam unter den stinkenden
-Decken hervoracwühlt hatte, als ich sehen konnte, da erkannte
-ich beim bleiben Schimmer des Mondlichts, das durch ein
+Decken hervorgewühlt hatte, als ich sehen konnte, da erkannte
+ich beim bleichen Schimmer des Mondlichts, das durch ein
 trübes Dachfenster fiel, vor mir auf dem Bretterboden ein
-ähnliches menschlicxk3 Bündel: Harst!
+ähnliches menschliches Bündel: Harst!
 
-»Schafsköpfe!« meinte er leise
+»Schafsköpfe!« meinte er leise.
 
 Und das klang so unendlich verächtlich und doch so
 komisch, daß ich lächeln mußte, trotz der doch wahrlich ernsten
@@ -2300,11 +2300,11 @@ Stricke …
 Minuten später waren wir frei …
 
 Von unseren Bärten und Perücken war nichts mehr
-vorhanden … Unsere lassen, die in die Lumpen eingenäht
+vorhanden … Unsere Taschen, die in die Lumpen eingenäht
 waren, hatte man geleert … Die Pistolen fehlten
 — alles …!
 
-Harst schritt zur Tür dieses Dachbovdenverschlages …
+Harst schritt zur Tür dieses Dachbodenverschlages …
 
 Und — fuhr herum …
 
@@ -2316,29 +2316,29 @@ Es hatte einen Holzrahmen, ließ sich hochklappen …
 
 Harst zog sich nach oben.
 
-Half mir … Und wir saßen auf einem stellen, turmartigen
+Half mir … Und wir saßen auf einem steilen, turmartigen
 Dach …
 
 Unter uns schimmerte der Hugli …
 
-Es war daß Dach der Schifferkneipe
+Es war das Dach der Schifferkneipe.
 
 <@pagebreak/>
-Harald ließ sich abwärts gleiten … See Meter dieser
-Medizin zweites Dachfenster …
+Harald ließ sich abwärts gleiten … Sechs Meter tiefer
+ein zweites Dachfenster …
 
 Ich rutschte hinterdrein … Er fing mich auf …
 
-Vipern in das Fenster … Ich zuerst … Eine ähnliche
-Bodenkammnter … Über uns  Schritte — —« Poltern …
+Hinein in das Fenster … Ich zuerst … Eine ähnliche
+Bodenkammer … Über uns  Schritte — — Poltern …
 
-Und wir durch die Tür aus die dunkle Treppe …
+Und wir durch die Tür auf die dunkle Treppe …
 
 Huschten nach unten … Hörten wütende Stimmen …
 Kamen in einen langen Flur, in dem eine Petroleumlaterne
 mehr stank als leuchtete …
 
-Fluß Türen …
+Fünf Türen …
 
 Und Harald auf gut Glück die eine geöffnet …
 
@@ -2349,17 +2349,17 @@ mündete …
 Unsere Augen gewöhnten sich an das spärliche Licht …
 
 Das Gemach war offenbar des chinesischen Kneipwirtes
-Wohnstube … Neben dem Gudfenster ein billiger Schreibtisch,
+Wohnstube … Neben dem Guckfenster ein billiger Schreibtisch,
 ein Rohrsofa, zwei Schränke, ein paar Stühle …
 
-Plötzlich richtete sich aus dem Sofa eine Gestalt auf
+Plötzlich richtete sich aus dem Sofa eine Gestalt auf …
 
-»He — Wer sind Sie?!« grunzte eine tiefe Stimme,
+»He — wer sind Sie?!« grunzte eine tiefe Stimme,
 die bedenklich schwankte …
 
-gar war im Nu um den kleinen Herkulisch herum …
+Harst war im Nu um den kleinen Sofatisch herum …
 
-Ich hörte ein Rechten … einen dumpfen Schlag …
+Ich hörte ein Ächzen … einen dumpfen Schlag …
 
 Dann wandte er sich um …
 
@@ -2372,43 +2372,43 @@ Sandalen löste, fühlte ich, daß der Fußboden unter
 mir wippte …
 
 Das konnte mir eine Falltür sein … Ich bückte mich,
-Betastete die rissigen Dielen …
+betastete die rissigen Dielen …
 
 »Harald!«
 
-»das gibt’s?!«
+»Was gibt’s?!«
 
 »Eine Falltür …«
 
 Harst hob den Bewußtlosen sofort empor … Ich
 <@pagebreak/>
-klirrte die Motorboot e Fußbodenklappe … Eine Treppe
-lief hinab … Zufall stieg nach unten … Und na! nahen
-(Brief brachte ich) vom Schreibtisch des Chinesen eine Schachtel
-Zündhölzer und einen Porzellanleuchter mit fingerlangen
-Kerze in meinen Seite …
+öffnete die meterbreite Fußbodenklappe … Eine Treppe
+lief hinab … Harald stieg nach unten … Und mit raschem
+Griff brachte ich vom Schreibtisch des Chinesen eine Schachtel
+Zündhölzer und einen Porzellanleuchter mit fingerlanger
+Kerze in meinen Besitz …
 
-Die Fallttür echt ob sich … Das erste Zündholz
-ernannte auf …
+Die Falltür schloß sich … Das erste Zündholz
+flammte auf …
 
-Wir standen in 1e8 Chinesen Warenkeller …
+Wir standen in des Chinesen Warenkeller …
 
 <h2>4. Kapitel.</h2>
 <h3>Angeklebt!!</h3>
 
-Das Licht flackerte … Es gab hier genug Verehrer
+Das Licht flackerte … Es gab hier genug Verstecke …
 Wir krochen hinter ein paar leere Kisten, die offenbar Flaschen
-enthalten hatten. Die Holzwolle und die Strohtzülsen
+enthalten hatten. Die Holzwolle und die Strohhülsen
 bildeten nebenbei einen ganzen Berg.
 
-»Licht aus!« befahl Harst
+»Licht aus!« befahl Harst …
 
 Die Flamme erlosch knisternd …
 
-Wir hatten den Gefsangeneu uns über die Schenkel
+Wir hatten den Gefangenen uns über die Schenkel
 gelegt …
 
-»Binden und knebeln, mein Alter.« meinte Harald
+»Binden und knebeln, mein Alter,« meinte Harald
 wieder … »Ich besorge das … Wir sind hier vorläufig
 sicher … Man wird uns hier niemals vermuten …«
 
@@ -2417,8 +2417,8 @@ Schnüre meiner Sandalen …
 
 Und plötzlich …
 
-»Falle — der Kerl hat ja unsere Pistolen in der
-Um … Wahrhaftig …!! — Mache doch nochmals
+»Hallo — der Kerl hat ja unsere Pistolen in der
+Tasche … Wahrhaftig …!! — Mache doch nochmals
 Licht …«
 
 Die Kerze flackerte wieder …
@@ -2435,7 +2435,7 @@ Papiere, Geld waren darin …
 
 »Aha — Edward Pellham ist’s …! Und hier — das
 ist eine Skizze des Sees von Godwira — der Höhle …! —
-Armer Pellham, ich steckte, man wird Dich …«
+Armer Pellham, ich fürchte, man wird Dich …«
 
 Verstummte …
 
@@ -2450,7 +2450,7 @@ Treppe hinunter …
 
 Eine tiefe energische Stimme:
 
-»Wo nur der verdammte Säufer stellen mag!!«
+»Wo nur der verdammte Säufer stecken mag!!«
 
 Eine echt chinesische Kastratenstimme dann: »Vielleicht
 ist er vorausgegangen, Tuwan …!«
@@ -2460,15 +2460,15 @@ Wir hielten den Atem an …
 Eine dritte Stimme:
 
 »Los doch …! Weg von hier! Und dann Feuer in
-wandte Bude … Mag brennen was da brennen will …
+die Bude … Mag brennen was da brennen will …
 Du bist ohnedies als Kneipwirt nicht mehr möglich, Tsin Li!«
 
 Der Lichtschein der Laterne verlor sich nach der andern
 Kellerseite …
 
-Wir retten die Köpfe hoch … Es war ungefährlich
+Wir reckten die Köpfe hoch … Es war ungefährlich
 … Wir sahen fünf Männer drüben an der Kellerwand
-vor einem großen leise stehen …
+vor einem großen Fasse stehen …
 
 Mit einem Male klappte der Deckel des auf dicken
 niederen Böcken liegenden Fasses herab …
@@ -2486,12 +2486,12 @@ Holzwolle …
 Roter Lichtschein füllte den Keller …
 
 <@pagebreak/>
-Dahin sammelte sich unter der Holzdecke …
+Qualm sammelte sich unter der Holzdecke …
 
-»7: Minuten Vorsprung gebe ich ihnen …« sagte
+»Drei Minuten Vorsprung gebe ich ihnen …« sagte
 Harald … »So lange halten wir es hier schon aus …
 Vielleicht kehrt auch einer der fünf zurück, um nachzusehen,
-ob das Feuer auch Leitertritt …«
+ob das Feuer auch weiterfrißt …«
 
 Er hatte wieder einmal recht …
 
@@ -2501,17 +2501,17 @@ Wie ein Pfeil schoß er aus dem Fasse hervor … Jagte
 die Treppe hinan … Hatte sicherlich oben etwas Wertvolles
 vergessen …
 
-Und — — da — als er die Falltür heben wollte —« —
-ein hartes Peng … vom Falle her …
+Und — — da — als er die Falltür heben wollte — —
+ein hartes Peng … vom Fasse her …
 
-Der Chinese jshchlug schwer nach hinten, kollerte abwärts,
+Der Chinese schlug schwer nach hinten, kollerte abwärts,
 lag still …
 
-Der Mörder verschwand … Es war … John Malaga
-… Ganz deutlich hatte ich) ihn gesehen … —
+Der Mörder verschwand … Es war … John Margall
+… Ganz deutlich hatte ich ihn gesehen … —
 
 Harst erhob sich … Glitt aus dem Versteck hervor …
-der Leiche …
+zu der Leiche …
 
 »Kopfschuß …!«
 
@@ -2532,8 +2532,8 @@ verkleideten Gang, in dem wir zur Not gebückt gehen
 Spanier …
 
 Der Gang war gut dreißig Meter lang und endete in
-zwei ausgemauerten Müllgrube, in der eine Leiter lehnte.
-oder war die Grube völlig von Schlingpflanzen überwuchert
+einer ausgemauerten Müllgrube, in der eine Leiter lehnte.
+Oben war die Grube völlig von Schlingpflanzen überwuchert.
 Nur wo die Leiter sich befand, gab es eine Öffnung
 in dieser grünen Decke.
 
@@ -2541,95 +2541,95 @@ Ich hatte die Kerze wieder angezündet. Harst trug
 <@pagebreak/>
 den noch immer bewußtlosen Pellham die Leiter empor …
 Ich folgte, löschte das Licht aus … Wir standen im dicken
-gebückt in der Ecke eines Grafen, von hohen Mauer umfriedeten
+Gebüsch in der Ecke eines großen, von hoher Mauer umfriedeten
 Gartens mit sehr alten Bäumen …
 
-Der Mond lugte durch die Zweige: vor un? ein weiter
-Rasenplatz, zwei Marmorspringbrunnen mit dünnen, sonst
-plätschernden Strahlen … Jenseits des Rasens eine Bretter
+Der Mond lugte durch die Zweige: vor uns ein weiter
+Rasenplatz, zwei Marmorspringbrunnen mit dünnen, sanft
+plätschernden Strahlen … Jenseits des Rasens eine Zierhecke
 aus weißblühendem Indiadorn, dahinter, von Bäumen
 beschattet, eine moderne helle Villa mit großen Fenstern und
 spitzem Schieferdach …
 
-»John Margalls Heim, vermute ich …« Mestize
+»John Margalls Heim, vermute ich …« meinte
 Harald …
 
 Dann schleppten wir Pellham bis zur Mauer, banden
-ihn hier an einen Baumstumpf, indem wir seine Sack zu
-Streifen zertrennten … Der Gemälde stank widerlich nach
+ihn hier an einen Baumstumpf, indem wir seine Jacke zu
+Streifen zertrennten … Der Schurke stank widerlich nach
 Spirituosen …
 
 »Und jetzt?!« fragte ich zögernd …
 
-Ich ahnte ja: Harald würde niemals den einfachsiex
-Weg wählen und die Polizei holen niemals!
+Ich ahnte ja: Harald würde niemals den einfachsten
+Weg wählen und die Polizei holen — niemals!
 
 »Jetzt, mein Alter …?! Jetzt werden wir mal John
 Margall ein wenig auf den Zahn fühlen, was er denn eigentlich
 am Godwira-See getrieben hat. Vielleicht finden
 wir auch Claire und Hektor Richard Lewis … Vielleicht
 auch das, was die Schufte in Nepal mit Hilfe der Taucherausrüstung
-erschien … Komm’ nur, die Geschichte ist nun
+fischten … Komm’ nur, die Geschichte ist nun
 gänzlich ungefährlich … Wir haben jeder neun Schuß
 zur Verfügung … Und für gewöhnlich schießen wir nicht
 vorbei, schätze ich …!«
 
-»Halt - hast Du Dir auch schon überlegt, daß dicke arme
-Claire, wenn ihr Vater und Colin Stoß entstand: werden,
+»Halt — hast Du Dir auch schon überlegt, daß die arme
+Claire, wenn ihr Vater und Colin Roß entlarvt werden,
 unendlich leiden muß …?! Was wird sie …«
 
 »Beruhige Dich …! In solchen Fällen pflege ich die
 Leute zur Selbstjustiz zu zwingen … — Also vorwärts …!«
 
-er schritt voran, immer an der Mauer hin …
+Er schritt voran, immer an der Mauer hin …
 
 Wir hatten jedoch noch keine zehn Meter zurückgelegt, als
 vom Hause zwei Männer angelaufen kamen … Zwei, die
 <@pagebreak/>
-unsere Zahnbürsten zum Sticselschmieren benutzt hatten.
+unsere Zahnbürsten zum Stiefelschmieren benutzt hatten.
 Lampa und Sapu …!
 
-»Ob — — auf die habe ich gerade gewartet!« meinte
-Harald … » Undinjeiner Stimme war einbog, das für die
-beiden Nepalesen nichts Gutes verließ.
+»Oh — — auf die habe ich gerade gewartet!« meinte
+Harald … Und in seiner Stimme war etwas, das für die
+beiden Nepalesen nichts Gutes verhieß.
 
-Wir erwischen sie denn auch gerade vor der Grube …
+Wir erwischten sie denn auch gerade vor der Grube …
 Unser plötzliches Auftauchen ließ sie zu Bildsäulen erstarren.
-Sie hatten Spaten und andere Gepäck bei sich und wollten
-offenbar den Mauerdurd bei ich im Keller der Kneipe nach
+Sie hatten Spaten und andere Geräte bei sich und wollten
+offenbar den Mauerdurchbruch im Keller der Kneipe nach
 dem unterirdischen Gange hin zuschütten, damit dieser Verbindungsweg
-nach dem Villengrundsück hier auf keinen Fall
+nach dem Villengrundstück hier auf keinen Fall
 entdeckt würde.
 
-Unserer Pistolen im Mondlicht matt schimmernde Laufe
+Unserer Pistolen im Mondlicht matt schimmernde Läufe
 hatten eine verblüffende Redseligkeit der beiden verängstigten
 Schurken zur Folge.
 
-Es war so recht Nepalesenart, laß sie winselnd in die
+Es war so recht Nepalesenart, daß sie winselnd in die
 Knie sanken und weinerlich alles eingestanden, was Harald
 ihnen drohend vorhielt …
 
-Ja — sie ständen seit Jahren. mit dem Tuwan im
-Bunde … Sir sollten jetzt das Mauerloch zuschütten und
+Ja — sie ständen seit Jahren mit dem Tuwan im
+Bunde … Sie sollten jetzt das Mauerloch zuschütten und
 einen Teil des Ganges zum Einsturz bringen …
 
 Der Tuwan hatte sie auch nur deshalb gefesselt am Godwira-See
-zurückgelassen, damit sie uns dauernd verlohnen
+zurückgelassen, damit sie uns dauernd beobachten
 könnten … —
 
 Nur eins wußten sie angeblich nicht: den Namen des
-Turban! Sie behaupteten auch, daß nur drei Europäer am
-Godwira-See gewesen seien. Tiefe drei hatten sich jedoch nie
-mit Namen angeredet, sondern stets nur mit anderen Be-zeichmunnaen.
+Tuwan! Sie behaupteten auch, daß nur drei Europäer am
+Godwira-See gewesen seien. Diese drei hatten sich jedoch nie
+mit Namen angeredet, sondern stets nur mit anderen Bezeichnungen.
 
 »Und wozu die Taucherausrüstung?« forschte Harald
 weiter … »Ihr habt doch vom Grunde des Sees etwas
 geholt … Was also?«
 
-Lampa, der bisher hauptsächlich den Sprecher zeigte?!
+Lampa, der bisher hauptsächlich den Sprecher gespielt
 hatte und dessen blödes Gesicht weniger scharfe Beobachter
 noch immer über seine geistigen Fähigkeiten getäuscht hätte,
-dieser schlaue Fuchs Lampa winselte auch je?! händeringend.
+dieser schlaue Fuchs Lampa winselte auch jetzt händeringend:
 
 <@pagebreak/>
 »Nichts wissen wir, Master … gar nichts wissen wir …«
@@ -2640,13 +2640,13 @@ Es gibt Situationen, in denen eine kräftige Ohrfeige
 Wunder tut …
 
 So auch hier …! — Ich erlebte es zum ersten Male,
-daß Harald einen Menschen »in dieser Weise schlug
-Lampa fiel wie betäubt zur Seite Und sein Freund
-Sapu, eimnaeichüdnert bis zur schlotternden Angst, stieß trat
-hervor
+daß Harald einen Menschen in dieser Weise schlug …
+Lampa fiel wie betäubt zur Seite … Und sein Freund
+Sapu, eingeschüchtert bis zur schlotternden Angst, stieß jetzt
+hervor:
 
-»Der Tuwan heißt Colin Roß… Aus dem Grunde
-des Sees lagen in rötlichen Ton Diamanten …
+»Der Tuwan heißt Colin Roß … Auf dem Grunde
+des Sees lagen in rötlichem Ton Diamanten …«
 
 Harst starrte den Nepalesen an …
 
@@ -2662,22 +2662,22 @@ klärte die Dinge …
 »Der Tuwan hat auffallend starke graue Augenbrauen …
 Sind sie echt …?«
 
-»Angefleht …!« heulte der jämmerliche Sapu kläglich …
+»Angeklebt …!« heulte der jämmerliche Sapu kläglich …
 
-»Ab so …! Angeklebt!! Welch ein Schurke …!!
+»Ah so …! Angeklebt!! Welch ein Schurke …!!
 Welche Gemeinheit, gleichsam die Maske des Vaters seiner
-betrogenen Verlobten anzulegen.! — Schraut binden und
-Stacheln …! Jeden an einen Baum … Zerschneiden wir
+betrogenen Verlobten anzulegen …! — Schraut binden und
+knebeln …! Jeden an einen Baum … Zerschneiden wir
 ihre Kittel …«
 
 Die Nepalesen waren wie Schafe, die man zur Schlachtbank
-schleppt. alles ließen sie mit sich machen … — alles
+schleppt. Alles ließen sie mit sich machen … — alles
 … Mucksten nicht … Winselten nur um Gnade …
 
 Und als wir sie dann sicher hatten, als Harald die
 Fesseln nochmals prüfte, da gab der größere Feigling von
 beiden, der elende Sapu, durch allerlei Bewegungen und
-Grimassen zu verließen, daß er noch etwas verraten wollte …
+Grimassen zu verstehen, daß er noch etwas verraten wollte …
 
 Harst lächelte geringschätzig …
 
@@ -2700,11 +2700,11 @@ gemordet … Nur der Tuwan war unser Verführer …«
 
 Harst überlegt … fragt etwas anderes:
 
-»wart Ihr beide vielleicht mit unter den Teilnehmern
+»Wart Ihr beide vielleicht mit unter den Teilnehmern
 der Expedition Sandor? Befand sich auch ein
 Amerikaner John Margall dabei — als Koch?«
 
-Sapu nicht … »Ja, Master Harst«
+Sapu nickt … »Ja, Master Harst …«
 
 »Hat Margall vielleicht des öfteren in dem durch die
 heißen Quellen erwärmten Wasser gebadet?«
@@ -2715,12 +2715,12 @@ ins Wasser gefallen.«
 
 »Also so entdeckte Margall das Geheimnis des diamantenhaltigen
 Tonlagers!« sagte Harald zu mir in deutscher
-Sprache. »Es bleibt je?! nur noch zweierlei aufzuklären:
+Sprache. »Es bleibt jetzt nur noch zweierlei aufzuklären:
 erstens: wie erfuhr Colin Roß, der jetzt schon als Oberhaupt
 der sieben Weisen entlarvt ist, daß Margall seine damaligen
 Erlebnisse niedergeschrieben und in dem chinesischen Kästchen
-verwahrt hatte? — Zweitens. war Margall wirklich Mitglied
-des Bundes?! .- Ich bezweifle es fast … Es gibt
+verwahrt hatte? — Zweitens: war Margall wirklich Mitglied
+des Bundes?! — Ich bezweifle es fast … Es gibt
 da noch einige dunkle Punkte, die Colin Roß wird lichten
 müssen …« — Und zu Sapu: »Wieviel Leute befinden sich
 in der Villa?«
@@ -2731,35 +2731,35 @@ Nepalesen und vier indische Diener …«
 »Wem gehört die Villa?«
 
 <@pagebreak/>
-»ahnen Dr Inder, einem Kaufmatit! … Sawaru
+»Einem der Inder, einem Kaufmann! … Sawaru
 heißt er …«
 
-»Und Sawaru ist … Kläglich der sieben weiter?’
+»Und Sawaru ist … Mitglied der sieben Weisen?«
 
-»Ja … « was sehr zögernd klang …
+»Ja …« was sehr zögernd klang …
 
-»Hat Sawaru die Goldladung des Wannsees hier im
+»Hat Sawaru die Goldladung des Dampfers hier im
 Hafen stehlen lassen?«
 
 »Ja, Master Harst … Lassen Sie uns laufen …!
-Wir … wir … werden Fisch noch etwas verraten: das
-Gold ist hier im Garten vergraben … In der vorderste be
-findet sich ein großer Ameisenhügel … Unter diesem
-liegt das Gold … — Master Harst, lassen Sie uns.«
+Wir … wir … werden auch noch etwas verraten: das
+Gold ist hier im Garten vergraben … In der Nordecke
+befindet sich ein großer Ameisenhügel … Unter diesem
+liegt das Gold … — Master Harst, lassen Sie uns …«
 
-Harald wandte sich zu mir … »Zaun Grunde sind diese
-Kerle tatsächlich nur die Verführten …!« Und - — er
+Harald wandte sich zu mir … »Im Grunde sind diese
+Kerle tatsächlich nur die Verführten …!« Und — — er
 schnitt sie los …
 
-»Verschwindet! Lauf! zur Polizei und sagt, daß ich
-Euch echte … Die Polizei soll Sawarus Villa sofort
+»Verschwindet! Lauft zur Polizei und sagt, daß ich
+Euch schicke … Die Polizei soll Sawarus Villa sofort
 umzingeln …«
 
 Die beiden stammelten vor Freude allerlei Unverständliches
-… Dann kletterten sie wie die taten über die
+… Dann kletterten sie wie die Katzen über die
 Mauer …
 
-Ich mußte lachen … »Die werden sich bitten, die
+Ich mußte lachen … »Die werden sich hüten, die
 Polizei zu holen …!!«
 
 »Wollen sehen …!«
@@ -2770,66 +2770,66 @@ Polizei zu holen …!!«
 <h3>Der Tote auf dem Ameisenhügel.</h3>
 
 Es kam alles ganz anders, als wir uns das Ende dieses
-Kriminaldramas vielleicht aufgemalt hätten
+Kriminaldramas vielleicht ausgemalt hätten.
 
-Ganz anders. ’ So unerwartet waren die folgenden
-Ereignisse, daß wir beim besten Willen nicht hindernd ein
-greifen konnten
+Ganz anders …! So unerwartet waren die folgenden
+Ereignisse, daß wir beim besten Willen nicht hindernd eingreifen
+konnten.
 
-Wir waren näher an die Villa herangeschlichen Harst
-hatte die Absicht acht 1ibt zunächst einmal Claire Margall und
-den Kollegen Lewis zu befreien
+Wir waren näher an die Villa herangeschlichen. Harst
+hatte die Absicht gehabt, zunächst einmal Claire Margall und
+den Kollegen Lewis zu befreien.
 
 Und da, als wir hinter der Ecke vor dem Seiteneingang
-des Hauses lagen, da. erschienen auch dieser Tür drei
-Männer: Colin Roß, noch in der Verkleidung des wohl
-habenden Chinesen, seiner ein ebenso tadellos angezogener
-Inder und drittens der spitzbärtige Smitson un einem praktischen
-Sportanzug. - Sie schauten sich) mißtraumsch um.
-Unsere Tracht schien ihnen doch sehr auf die Nerven gefallen
+des Hauses lagen, da … erschienen aus dieser Tür drei
+Männer: Colin Roß, noch in der Verkleidung des wohlhabenden
+Chinesen, ferner ein ebenso tadellos angezogener
+Inder und drittens der spitzbärtige Smitson in einem praktischen
+Sportanzug. — Sie schauten sich mißtrauisch um.
+Unsere Flucht schien ihnen doch sehr auf die Nerven gefallen
 zu sein …
 
 Colin Roß trug einen Ledersack in der Hand, während
-Sawaru, der Inder. einen noch umfangreicheren auf dem
-Rücken hatte. Sie schlugen die Richtung nach der meldete
+Sawaru, der Inder, einen noch umfangreicheren auf dem
+Rücken hatte. Sie schlugen die Richtung nach der Nordecke
 des Gartens ein und verschwanden unter den Bäumen.
 
-»am — ob sie etwa die Edelsteine und die den Mönchen
-geraubten Tempelgeräte unter dem Ameisenvügel agleichsalls
-verscharren wollen? ’« meinte Harald. »Wir werden jeden:
-falls zunächst mal in die Vorhalle schleichen. Die Tür
-haben sie offen gelassen Vorwärts!«
+»Hm — ob sie etwa die Edelsteine und die den Mönchen
+geraubten Tempelgeräte unter dem Ameisenhügel gleichfalls
+verscharren wollen?!« meinte Harald. »Wir werden jedenfalls
+zunächst mal in die Vorhalle schleichen. Die Tür
+haben sie offen gelassen … Vorwärts!«
 
-In der Villa war es totenstill
+In der Villa war es totenstill.
 
-Ein langer Flur lief nach vorn Zwei elektrische
-Lampen brannten hier Die Marmorfliesen, die kostbaren
-Läufer, die geschmackvolle Einrichtung vor Vorhalle bewiesen
+Ein langer Flur lief nach vorn … Zwei elektrische
+Lampen brannten hier … Die Marmorfliesen, die kostbaren
+Läufer, die geschmackvolle Einrichtung der Vorhalle bewiesen
 <@pagebreak/>
 Sawarus Reichtum, der ja fraglos aus sehr unlauteren
 Quellen stammte …
 
 Und hier in der Vorhalle ein riesiger dunkler Schrank
-mit Glastüren und verscnedenen Querbrettern, auf denen
+mit Glastüren und verschiedenen Querbrettern, auf denen
 allerlei altertümliche Vasen, Gläser, Zinngegenstände und
-anderes zur Schau gestellt waren … Aber — die eine Tür,
+anderes zur Schau gestellt waren … Aber — die eine Tür
 des Schrankes war offen … Und unten, wo die Querbretter
-sollten, schauten wir in einen Raum hinein, der
+fehlten, schauten wir in einen Raum hinein, der
 sich bis in die Mauer fortsetzte … Er war leer …
 Und dieser Teil der Rückwand lag herabgeklappt nach vorn. —
-Nein — doch nicht ganz leer … Drei, vier Stehenden sahen
+Nein — doch nicht ganz leer … Drei, vier Strickenden sahen
 wir, dazu zwei Leinwandkugeln mit Schnüren daran:
 Knebel!
 
 »Sie sind bereits entwischt,“« flüsterte Harst … »Lewis
-wird« es gelungen sein, die Fesseln abzustreifen … — Das
+wird es gelungen sein, die Fesseln abzustreifen … — Das
 ist merkwürdig …!«
 
 Er schien mit einem Male etwas beunruhigt …
 
 Und zog mich plötzlich hastig mit sich fort …
 
-In den Garten — in die Büsche … zur meldete …
+In den Garten — in die Büsche … zur Nordecke …
 
 »Clement heraus, mein …«
 
@@ -2840,7 +2840,7 @@ Pistolenschüssen …
 
 Der Freund begann zu laufen …
 
-Wir besten weiter … Die Clement in der Hand …
+Wir hetzten weiter … Die Clement in der Hand …
 
 Brachen durch Gestrüpp … Hörten Rufe — Stimmen …
 drohende Schreie …
@@ -2848,14 +2848,14 @@ drohende Schreie …
 Und platzten auf eine kleine Lichtung hinaus, wo ein
 einsamer halb vertrockneter Riesenbaum stand, an dessen
 Fuß ein anderthalb Meter hoher Hügel jener rotbraunen
-indischen Ameisen sich befand, die jeder Parkbesiter sorgsam
-behütet, da sie die besten an ngeäieservertilger sind …
+indischen Ameisen sich befand, die jeder Parkbesitzer sorgsam
+behütet, da sie die besten an Ungeziefervertilger sind …
 
 Quer über dem Hügel lag ein Mann —: Colin Roß …
 
-Daneben ein zweiter: Smitson … ’!
+Daneben ein zweiter: Smitson …!
 
-Lob drei indische Polizisten hielten den Inder Sawaru
+Und drei indische Polizisten hielten den Inder Sawaru
 <@pagebreak/>
 fest, während Kollege Lewis die halb ohnmächtige Claire
 zärtlich stützte … Noch vier weitere Beamte waren zur
@@ -2870,14 +2870,14 @@ brüchiger Stimme rief:
 mir die Pistole aus der Hand … Dann kamen die Beamten
 auch schon über die Mauer …«
 
-Claire Margall machte sich aus Lewis’ Armen frei .-…
+Claire Margall machte sich aus Lewis’ Armen frei …
 Sie war unnatürlich bleich …
 
 »Ich … habe Colin Roß erkannt,« rief sie überlaut,
 fast schreiend … »Ich wußte nun, wie er mich hintergangen
 hat … Und — er hat alles zugegeben, Mr. Harst, hat mich
-noch verhöhnt … Mein Vater hatte durch einen ansah
-von Colin Katz’ Zugehörigkeit zu der Verbrecherbande erfahren
+noch verhöhnt … Mein Vater hatte durch einen Zufall
+von Colin Roß’ Zugehörigkeit zu der Verbrecherbande erfahren
 und eine ihrer schriftlichen Mitteilungen in seinem
 Besitz … Colin Roß wieder wußte, daß er ungeschliffene
 Diamanten in Neuyork veräußert hatte und daß diese nur
@@ -2888,7 +2888,7 @@ Ihre Nerven versagten … —
 
 Eine Stunde darauf hatte Edward Pellham, unser Gefangener,
 vor Sir Codanoor, um die eigene Haut als Kronzeuge
-zu reiten, so überreiche Einzelheiten über die sieben
+zu retten, so überreiche Einzelheiten über die sieben
 Weisen zu Protokoll gegeben, daß die weitverzweigte Bande,
 die stets nur Millionengeschäfte »erledigt« hatte, völlig kaltgestellt
 werden konnte. — —
@@ -2897,27 +2897,27 @@ Der unterirdische Buddhistentempel am Godwira-See
 ist heute kein Geheimnis mehr. In der Gerichtsverhandlung
 gegen Claire Margall wegen doppelten Totschlags kamen
 auch diese Dinge zur Sprache und fanden so den Weg in die
-Presse. Claire wurde freigesprochen? momentane Unzurechnungsfähigkeit!
+Presse. Claire wurde freigesprochen: momentane Unzurechnungsfähigkeit!
 — Claire ist heute Frau Lewis und
 <@pagebreak/>
-offenbar sehr glücklich Sie brachte ihrem Gatten ein Riesot1-vermögen
-mit in die Ehe: die Diamanten aus dem so«
-Godwira-See die man 1wbr als ihr Eigentum als Erbin sich
-Vaters, des Entbehrte der Fundstelle — überließ.
+offenbar sehr glücklich. Sie brachte ihrem Gatten ein Riesenvermögen
+mit in die Ehe: die Diamanten aus dem
+Godwira-See die man ihr als ihr Eigentum … als Erbin ihres
+Vaters, des Entdeckers der Fundstelle — überließ.
 
-Wir breiten von diesen Edelsteinen ein Dutzend in
+Wir besitzen von diesen Edelsteinen ein Dutzend in
 unserer Raritätensammlung. Mehr wert als diese Steine
-sind für mich die Erinnerungen an die verschneiten Berge -
-an eine der Stufen zum Glases der Welt —. an den Godwira-See
+sind für mich die Erinnerungen an die verschneiten Berge —
+an eine der Stufen zum Gipfel der Welt — an den Godwira-See
 und seine bezaubernde Umgebung — an das Gestade
 der Vergessenheit! —
 
 Und jetzt lege ich die Feder beiseite, nehme für heute
-Abschied von meinen Freunden und Lesern, jage — — ct:
+Abschied von meinen Freunden und Lesern, sage — — auf
 Wiedersehen beim
 
-__Mastkenball der Toten,__
+__Maskenball der Toten,__
 
-denn so will ich das folgende unserer umdrehen Tote. nie
+denn so will ich das folgende unserer indischen Erlebnisse
 betiteln …
 
