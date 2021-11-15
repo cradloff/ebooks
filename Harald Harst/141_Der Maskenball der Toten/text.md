@@ -1,60 +1,6 @@
-<@pagebreak/>
-Der MasKkenball der Toten
+<@pagebreak 3/>
 
- 
-
- 
-
- 
-
- 
-
-141
-<@pagebreak/>
-<@pagebreak/>
-Harald Harſt
-Aus meinem Leben
-
-Band: 141
-
-Der Maskenball
-der Toten
-
-Erzählt von
-Max Schraut
-
-S
-
- 
-
-Verlag moderner Lektüre G, m. db. H.
-Berlin SO 16, Michaelkir<ſtraße 23a
-<@pagebreak/>
-Nachdru> verboten. -- Alle Rechte, einſchl. das Verfikmungs-
-recht, vorbehalten. --- Copyright 1925 by Verlag moderner
-Lektüre G. m. b. H., Berlin.
-
-Druck: P. Lehmann G. m. b. H., Berlin.
-<@pagebreak/>
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[= w (Gu) m 7
+Der Maskenball der Toten
 
 1. Kapitel.
 Miß Simpſons Bewerber.
@@ -86,17 +32,14 @@ zwanzig Punkten . . .
 Der Major legte den Billardſto> aus der Hand und
 ſagte merkwürdig gepreßt:
 
-Det. 141 1
 <@pagebreak/>
-SSSSSSSSSSSS 4 DSSSSSSSSSSS
-
 „Sie ſind Sieger geblieben, Doktor . . .“ Und zu uns
 gewandt mit knapper Verbeugung:
 
 „Lcben Sie wohl, meine Herren . . . J<h Werde nie
 wieder Billard ſpiclen . . .“
 
-Dann verließ er den Saal .
+Dann verließ er den Saal ...
 
 Eine ſeltjam gedrückte Stimmung herrſchte plöblich an
 unſerem Tiſche . . .
@@ -111,16 +54,16 @@ Mikbehagen ...
 Schließlich ſagte Codanoor eigentümlich zaudernd:
 
 Der Major war ja ſo feierlich . . . Was fehlte ihm
-nurs!“
+nur?!“
 
 Alle Augen waren auf des Doktor3 gelbbraunes hageres
-Geſicht gerichtet .
+Geſicht gerichtet ...
 
 Wallace rieb ein Zündholz für ſeine Zigarette an , . .
 
 „Der aute Collerlund ärgert ſich ſtets, wenn er ver-
 liert . . .“ meinte er eiſig, und ein dünnes Lächeln glitt um
-die ſchmalen Lippen...
+die ſchmalen Lippen ...
 
 Harald fragte jetzt:
 
@@ -134,21 +77,19 @@ lächelte er kaum merklich.
 Sir Codanoor lachte gezwungen . . .
 
 „Sie waren in letzter Zeit nicht gerade Freunde,
-Wallace . . . =“ -- Miß Simpſon!1“
+Wallace . . . = -- Miß Simpſon!1“
 
 Das ſollte ſcherzhaft klingen . . .
 
-Und wirkte doch ganz anders...
+Und wirkte doch ganz anders ...
 
 Edward Wallace richtete ſich in feinem Seſſel kerzen-
 gerade auf . ..
 
 „Sir Codanoor, wir wollen hier doch eine Dame aus
 <@pagebreak/>
-2222222222020 3 2202222020200 020
-
 vem Spiel laſſen, die mir völlig gleichgültig iſt, die ich aber
-al3 Gentleman achte . . !“
+al3 Gentleman achte .. . !“
 
 „Verzeihung . . !“ Der Polizeichef verbeuate ſich. T<
 ſprach hier nur etwas aus, das die Spaten in Kallnita von
@@ -162,12 +103,13 @@ Thema . . .“ --
 Meine Detektivaugen kamen nicht zur Ruhe. Dieſer
 Wallace ſchauſpicelerte. Er fieberte vor Nervoſität, ſuchte das
 aber zu verbergen . . .
-| Und gerade jebt, als eine peinliche Stille einaetreten
+
+Und gerade jebt, als eine peinliche Stille einaetreten
 war, zog Wallace ſeine goldene Uhr, ließ den Deckel ſpringen
 und ſteckte ſie wieder nach einem ſlüchngen Blik auf das
 Zifferblatt in die Weſtentaſche . . .
 
-, Im ſelben Augenblik ſtürmte einer der Klubdiener
+Im ſelben Augenblik ſtürmte einer der Klubdiener
 erein . . .
 
 „Miſter . . . Miſter Collerlund . . . hat ... ſic...
@@ -177,26 +119,30 @@ Wir fuhren von den Seſſeln hoh...
 
 Und der Doktor war's, der heiſer rief:
 
-„Mt er tot, Sipadu?“
+„Ist er tot, Sipadu?“
 
-„Tot, Miſter Wallace . . . In die Stirn . . .*
+„Tot, Miſter Wallace . . . In die Stirn . . ."
 
 Sir Codanoor eilte voran . ..
 
 Im kleinen Salon umſtanden a<ht Herren den Klub-
 ſeſſel, in dem der Major mit weit ausgeſtre>ten Beinen
-
 lag .. .
+
 Edward Wallace fühlte nach dem Puls . . . zuckte die
 Achſeln...
+
 Rings8um eine Flut von Fragen, Vermutungen . . .
+
 Miß Simpſons Name wurde wieder genannt . ..
+
 „Sie hat ihn abgewieſen,“ ſagte einer der Herren . . .
+
 „Unmöalich!“ ein anderer . .. „I< ſah die beiden noch
 geſtern in einer Loge des Palace-Theaters . . .*
+
 „Und ich geſtern im Maidan-Park . . .*
 <@pagebreak/>
-20220202002020020000 6 22002020022022202
 
 So ſc<wirrten die Stimmen durchcinander . . . --
 
@@ -210,7 +156,6 @@ wer denn eigentlich dieje Miß <inpion ſci, die hier ja aanz
 Kalkutta auf den Kopf zu ſtelien jene ,
 
 Schen geht hier vor ſaaeit,“ cr: :viderte der Polize.chef
-
 etwas gedehnt . . . „Ein entzüctendes Frauenzimmer jeden»
 falls . . Und . .. blutarm, Yichte eines hieſigen amerika-
 niſchen Großzkauſmanns, der Yiiß Nelly vor einem halben
@@ -227,11 +172,11 @@ ganz kleine Rente ausgeſelzt . . !" =-- Der gute Simpſon
 Nur . . .“
 
 Rauſe . .
+
 Sir Godwin ſtrich ſich nachdenklich über die hohe
 Stirn . . . „Nur . . . nur in den letzten Monaten hat ſich
-
-der Anbeterſchwarm etwas verlaufen - » » Man hält Miß
-Nelly jetzt für eine Malugi .
+der Anbeterſchwarm etwas verlaufen ..... Man hält Miß
+Nelly jetzt für eine Malugi ..."
 
 „Woſür?!“ Karſt machte ein erſtauntes Geſicht. „Ma-
 lugi iſt doch ein Hiuduausdruck für ein alte8 Weib mit dem
@@ -243,8 +188,6 @@ wie Giftkröte bedeutet ...
 wie unſere hieſige giftige Rieſenkröte mit ihren gelben Gloh-
 augen jeten Käfer, jede Fliege bannt, dann mit der Aus-
 <@pagebreak/>
-| 0000000222022 7 20202002020202200202
-
 ſcheidung der Giftdrüſe beſpritt und tötet, -- genau ſo
 ſchlecht ſind drei von Nellys eifrigſten Bewerbern die braunen
 Neſly-Aeuglein bekommen: aus Liebesgram haben ſie ſich
@@ -263,49 +206,48 @@ Harald jchaute ſich um, ſtand auſ, öſfnete beide Türen,
 „Fürchten Sie Lauſcher, Harſt?“
 
 „Ja. . .“ Und ganz leiſe: „Sir Codanoor, die Billard-
-
 partie vorhin war ein Spiel um Leben und Tod . . . war
 eine Art Duell . . . Der Verlierer mußte ſich erichießen . . .
 So hatten Wallace und der Major es vereinbart . . .“
 
 Der Polizeichef von Kalkutta ſaß jetzt als Bildſäule
+da ...
 
 Sein vornehme8, kluges Geſicht war wie verſteinert. . .
+
 „Herr Gott, Sie haben recht . . !“ ſlüſterte er dann . . .
 „Das Benehmen der beiden war zu merkwürdig . . .“
 
 „Allerdings . . ! -- Ein paar Fragen . . . Hat Miß
 Nelly den Major irgendwie bevorzugt?“
-„Nein -- in keiner Weiſe . . . Man ſagt, daß ſie einen
 
+„Nein -- in keiner Weiſe . . . Man ſagt, daß ſie einen
 der Angeſtellien ihres Onkels liebe, einen ſlotten jungen
 Menſchen, der ihr aber geſliſſenilich ausweice . . . Das
 mag leeres Gerede ſein . .. I< weiß es nicht . . „
 
 „Und Doktor Edward Wallace?“
 
-„Dia =-- da bin ich mir nicht ſo recht im Klaren, liebe1
+„Dja -- da bin ich mir nicht ſo recht im Klaren, liebe1
 Harſt . . . Man munkelt, Nelly habe ihm einen Korb ge-
 geben . . . Wallace ſelbſt tat ſtet8 ſo, als belächele er dieſe
 allgemeine Schwärmerei für Miß Simpſon. Freilich iſt er
 ein Menſch, dem man kaum trauen darf . . . Für meinen
 Geſchmack iſt er zu . . . gewandt, zu ſehr moderner LebenZs-
 <@pagebreak/>
-DSSSSSSSSSSS € DSSSSSSSSSSS
-
 kämpfer . . .“ Und der Polizeichef griſf nach ſeinem Glaſe,
-trank bedächtig .
+trank bedächtig ...
 
 „Wie heißt der Angeſtellte Simpſon8?“" ſragt Harald
 nach einer Weile...
 
-- „John Gollipp . . . -- WeS8halb wollen Sie das wiſſen,
+„John Gollipp . . . -- WeS8halb wollen Sie das wiſſen,
 lieber Harſt? Mich intereſſiert jetzt ledig7i& die Billard-
-partie . . . Meinen Sie wirklich, daß .
+partie . . . Meinen Sie wirklich, daß ..."
 
-Die Tür war auſgeſlogen . .
+Die Tür war auſgeſlogen . ...
 
-Auf der Schwelle ſtand ein ſchlankes, junges Weib .
+Auf der Schwelle ſtand ein ſchlankes, junges Weib ...
 
 Ohne Hut . . . in einem ſeidenen Kimono . ..
 
@@ -315,9 +257,9 @@ wirkte . . .
 Nie ſah ich ſo viel pikanten Liebreiz . . . Nie ſo große
 braune Märchenaugen . . .
 
-Sir Godwin war emporgeſprungen . .
+Sir Godwin war emporgeſprungen . ...
 
-„Miß Simpſon, was iſt geſchehen . . 21“ rief er beſtürzt
+„Miß Simpſon, was iſt geſchehen . .. 21“ rief er beſtürzt
 und eilte ihr entgegen . . .
 
 Und Nelly kam näher . . .
@@ -328,26 +270,25 @@ Den Blik ſtarr auf Harſt gerichtet . . .
 
 Kümmerte ſich nicht um Sir Godwin . . .
 
-Harald erhob ſich .
+Harald erhob ſich ...
 
 Sagte mild: „Sie brauchen meine Hilfe, Miß Simpſon?
-Sie wußten, daß ich hier im Klub war .
+Sie wußten, daß ich hier im Klub war ..."
 
-Sie ſtand ſtill .
+Sie ſtand ſtill ...
 
-„Mein... Onkel . » . iſt . . . ermordet worden . . .*
+„Mein... Onkel . . . iſt . . . ermordet worden . . .*
 -- und ſie ſprac< es wie auswendig gelernt . .. „Im
 Garten . . . Erſchoſſen . . . Von. . . von John Gollipp . . .
 Und John Gollipp . . hat ſich ſelbſt . . . geſtellt . . . Aber
 . . . über . . . ich glaube es nicht . ... Dabei muß .. .
-etwas Rätſelhaftes mitſpielen . . . John Gollipp . . „iſt. . .
+etwas Rätſelhaftes mitſpielen . . . John Gollipp . . . iſt. . .
 ein Ehrenmann . . .*
 
-Tin Wunder, daß wir drei Herren nun wie entgeiſtert
+Ein Wunder, daß wir drei Herren nun wie entgeiſtert
 Miß Nelly anſtierten ?! --- Nein --- was in dieſer letzten
 Stunde geſchehen, war zu viel geweſen . . .
 <@pagebreak/>
-222222222222 9 222022202020 20020
 
 Daß wir Nelly Simpſon auf dieſe Weiſe kennenlernen
 würden, hätten wir niemals geahnt . . . --
@@ -355,9 +296,8 @@ würden, hätten wir niemals geahnt . . . --
 Wir ſubren nach der Badramar-Street -- zum toten
 Robert Simpſon. Es war jetzt genau Mitternacht.
 
-9. Kapitel.
-
-Das8 Teſtament.
+2. Kapitel.
+Das Teſtament.
 
 Im Auto wurde kein Wort geſprochen. Der geſchloſſene
 Kraftwagen jagte durch die nächtlich ſtillen Straßen mit der
@@ -379,13 +319,11 @@ Das Auto hielt -- nicht vor dem dicht an der Straße
 ſtehenden villenartigen Hauſe, ſondern zehn Meter vorher,
 wo die Gartenmauer einen portalähnlichen Eingang beſaß,
 der in Form eines nach der Straße zu offenen Pavillons
-vebaut war.
+gebaut war.
 
 Zwei Beaante der Detektivabteilung erwarteten uns hier
 und erſtatteten nun Sir Codanoor Meldung. Sie waren
 <@pagebreak/>
-DSSSSSSSSSSS 10 2200002020020 0202O
-
 über die Vorgänge gut unterrichtet, und die Anordnungen,
 die ſie getroſſen hatten, um den Tatort abzuſperren, ließen
 Hofſen, daß wir aus den Spuren ein Bild von den Vor-
@@ -426,23 +364,21 @@ Her kannten, hatte den Tatort dann im weiten Umkreis ab-
 ſperren laſſen und auf unſer Erſcheinen gewartet. John
 Gollipp wurde in einem nahen Gartenpavillon bewacht.
 <@pagebreak/>
-22020222202020D0S8 11 0202020200208 202020S
 
-Sir . Godwin Codanoor bat Harald jeht, ganz nach Gui-
+Sir Godwin Codanoor bat Harald jeht, ganz nach Gui-
 dünken zu handeln . . .
 
-„Sie, lieber Harſt, ſind in derlei Dingen Spezialiſt .
-
-Wir "tun, was Sie wünſchen.“
+„Sie, lieber Harſt, ſind in derlei Dingen Spezialiſt ...
+Wir tun, was Sie wünſchen.“
 
 „Dann bitte ich, daß der Tatort bis Taane3anbruch unbc-
 rührt bleibt, auch die Leiche . . . Daß Simpſon tot iſt, ho!
 Collins bereits feſtgeſtellt. Ein Schuß in die Schläſe iſi
 ja nur in den allcrſclitenſten Fällen nicht abſolut tödlich. --
-Befragen wir jezt John Gollipp . --
+Befragen wir jezt John Gollipp ..." --
 
-[ :: fleine Pavillon mit ſeinen vier bunten Fenſtern
-war in-en durch zwei Laternen erleuchtet. Vor der Tür
+Der fleine Pavillon mit ſeinen vier bunten Fenſtern
+war innen durch zwei Laternen erleuchtet. Vor der Tür
 ſtanden drei Beamte. Gollipp ſaß in einem der Korbſeſſel.
 den Kopf auf die Bruſt gelehnt, mit acſchloſſenen Augen. Als
 wir vier -- Harſt, Codanoor, Collins und ich -- eintraten
@@ -450,35 +386,33 @@ nahm er davon keinerlei Notiz.
 
 Harald rieſ ihn an . ..
 
-„Mr. Gollipp . . !!“
+„Mr. Gollipp . .. !!“
 
-Der junge Kaufmann, eitt'ſehr kräftiger, ſc<lanker Mann
+Der junge Kaufmann, eitt ſehr kräftiger, ſc<lanker Mann
 von vielleicht ac<zttundzwanzig Jahren, mit bartloſen, recht
 ſharfen Zügen, öffnete müde die Augen und hob etwas den
-
-o
+Kopf.
 
 Dieſe Augen ſchauten Harſt wie verträumt an.
 
 Ich war überraſcht. I< batte mir den Geſicht8ausdru>
-dieſes Mörders anders vorgeſtcllt .
+dieſes Mörders anders vorgeſtcllt ...
 
 Bevor Harald noch etwas jagen konnie, flüſterte Gollipy
 ganz geiſte8abweſend:
 
-„IO leugne nichts . . . Jh habe ihn erſchoſſen . . .
+„Ih leugne nichts . . . Jh habe ihn erſchoſſen . . .
 hatte mich heute vormittag im Geſchäft ſchwer beleidigt . . .
 Heute abend packte mich eine unſinnige Wut . . . I< ſchlich
 hier in den Park und habe ihm aufſgelauert . . . Es kam
 zum Streit zwiſchen uns . . . Er wollte mich ſchlagen . . .
 Wir rangen miteinander . . . Die Piſtole entlud ſich...
 dicht an Miſter Simpſons Sch<läſe . . . Ich habe ihn  er-
-ſchoſſen und bin doch unſchuldig .
+ſchoſſen und bin doch unſchuldig ..."
 
-Dieſes Geſtändnis machte 'auf "uns einen ganz merb-
-würdigen Eindruck .
+Dieſes Geſtändnis machte auf uns einen ganz merb-
+würdigen Eindruck ...
 <@pagebreak/>
-2222022222222 19 00202020200202202 2
 
 Wir ſchauten un8 kopſſchüttelnd an . ..
 
@@ -515,11 +449,9 @@ mir aber doch zu abenteuerlich erſchien . . .
 
 Harſt hatte jetzt eine Mirakulum angezündet . . .
 
-„» DU denkſt an Doktor Edward Wallace, mein Alter . . .*
+» DU denkſt an Doktor Edward Wallace, mein Alter . . .*
 
-“
-
-„30...
+“Ja ..."
 
 „Das iſt verkehrt . .. Man ſoll ſich auf nichts feſt
 beißen, ohne Beweiſe zu haben . . .*
@@ -527,28 +459,26 @@ beißen, ohne Beweiſe zu haben . . .*
 „Cs gibt hier mehrere Vorfälle, Harald . . . Erſtens
 die Selbſtmorde der drei Verehrer Nellys, dann des Majors
 ee mord und die Billardpartie, ſchließlich dieſen Mord
-
-er...“
+hier...“
 
 „Nein -- es gibt nur ein Geſchehen,“ erwiderte er leiſe
 und ſinnend. „All das hängt miteinander zuſammen . ..
 Al das ſind Strahlen, die von einem Mittelpunkt ausgehen!
 von Nelly Simpſon!“
 <@pagebreak/>
-D22SBSESE20SSSSDSES 13 DS020080 208020 0SB0SSSD
 
-„Das wohl . . ! Aber... .“
+„Das wohl .. . ! Aber... .“
 
 "Kein Aber . . . Laß es nur hell werden. Ich ſage
-Dir: "wir werden auf dem Turnplatz etwas ſinden --- unbe-
-binat . -- Und jetzt wollen wir ausruben. Ih fürchte,
-es oibt ſ& were Taace für uns ,
+Dir: wir werden auf dem Turnplatz etwas ſinden --- unbe-
+binat ... -- Und jetzt wollen wir ausruben. Ih fürchte,
+es oibt ſ& were Taace für uns ,.."
 
 Er ſetzte ſich bequemer ...
 
 Schlafen?! Für mich unmöalio! Anc< Harald ſc<lieſ
 niht. Nein, er rauchte bald die fünſte Mirakulum --- wie
-ein Automat .
+ein Automat ...
 
 Ih jah nicht viel von ihm . . . Beobachtete ihn troh-
 dem . . . Ih läite ſo acrn Gedankenleſer ſein möaen , . .
@@ -567,10 +497,10 @@ ein Lobaeſang auf einen tadelloſen Charakter geweſen.
 Gollipp lebte mit ſeiner Mutter zuſammen, war der zärte
 lic<ſte Sohn, war überall beliebt, trieb nur Sport, hatte
 ſonſt keine Leivenſchaf!en. An den Streit mit Simpſon im
-Geſchäft alaubte ich nicht .
+Geſchäft alaubte ich nicht ... --
 
 Draußen lichtete ſich "der Himmeßb, Der Glanz der
-Sterne erloſch .
+Sterne erloſch ...
 
 Und da -- da erſt gewahrte ich, daß Harald nun wirk-
 ließ ſc<lief --- aanz ſeſt ſc<lief, ſogar zuweilen raſſelnd-
@@ -578,15 +508,11 @@ Schnarchtöne ausſtieß . . .
 
 Ja -- Nerven kannie er kaum . . . Die meinigen waren
 weniger taktfcſt . . . Ic< ſah immer Nelly Simpſon vor mir
--- eine lodende Geiſha .
+-- eine lodende Geiſha ...
 
 Die Morgendännmerung verſcheuchte die Schatten der
 Nacht. Das Zwielicht mit ſeiner farbloſen kalten Helle
-
- 
 <@pagebreak/>
-DESESDSDSSESISSDS 141 SSSSSSSSEGEO ID
-
 Ingte durch die Bäume . . . Auf der Treppe tauchie Sir Co»
 danoor auf... Hinter ihm Collins. Ich weckie Harſt.
 
@@ -595,12 +521,12 @@ Wir gingen zum Turnplat.
 Am Nande des mit ſcinem weißen Zierkices beſtreuten
 Platzes blicb Harald ſtehen . . .
 
-„OF werde allein nir den Toten anſehen . .-“
+„Ih werde allein nir den Toten anſehen . ..“
 
 Der lag no< unter dem Re> =- halb auf der Seite . . .
 
 Ich ſah das gelb verfärbte Totengeſicht . . . Die hazcre,
-ſehnige Giſtalt .
+ſehnige Giſtalt ...
 
 Fünſzig Jahre war Robert Simpſon geworden . ..
 Er hätte noch dreißig Jahre leben können, wie Covanvoor
@@ -613,7 +539,7 @@ nennen. Kies verwiſcht jede Fährte.
 
 So vergingen ſünſ Minuten.
 
-Codanoor wurde ungeduldig. E
+Codanoor wurde ungeduldig.
 
 Da kam Harald zu uns zurüd, ſagte;
 
@@ -631,26 +557,27 @@ Gollipp für vollkommen ſchuldlos halte. Er hat dieſen 1 ord
 nie begangen.“
 
 Inſpeſtor Collins, ein kleiner korpuleunter Herr von qued-
-ſilhriger Beweglichkeit, lächelte etwas ſelbſtbewußt .
+ſilhriger Beweglichkeit, lächelte etwas ſelbſtbewußt ...
 
 „Daß Gollipp hypnotiſiert worden iſt und in Sypnoſe,
 alſo auf Beſehl eines anderen, den Mord beging, habe ich
-mir auc< ſchon gedacht, Mr. Harſt .
+mir auc< ſchon gedacht, Mr. Harſt ..."
 
 Harald nikte. „Der Gedanke lag nähe, iſt aber trohdem
 <@pagebreak/>
-2222222222202 135 2202202202020 2000
-
-trrig .- - - Eine hypnotiſche Beeinſluſſung bis zum Morde
+trrig ... Eine hypnotiſche Beeinſluſſung bis zum Morde
 ift einwandſrei mir in ganz wenigen Fällen ſecſtgeſtellt . . .*
+
 Codanoor rief kopſſ>üttielnd:
+
 „So hat jemand anders Simpſon erſchoſſen . . k1“
 
 „Beſtimmt!“
-Sir Godwin flüſterte jetzt:
-„Lieber Harſt, dann . . . war e8 Wallace . . ! Unbe»
 
-dingt Wallace! Jd) habe dieſe Nachtſtunden dazu benutzt,
+Sir Godwin flüſterte jetzt:
+
+„Lieber Harſt, dann . . . war e8 Wallace . . ! Unbe»
+dingt Wallace! Jch habe dieſe Nachtſtunden dazu benutzt,
 allerlei Erkundigungen einzuziehen. Wallace hat um Nekly
 bei Simpſon angehalten. Der lachte ihn aus. Wallace ifi
 über vierzig . . . Simpſon ſoll ihm zugerufen haben: „Dann
@@ -689,7 +616,6 @@ Soeben erft iſt'8 bemerkt worden . . .*
 
 Dicht vor uns machte ſie halt...
 <@pagebreak/>
-DSSSSSSSSSSS 16 SSSSSSSSSSSS
 
 Ihre Augen glitten zur Seite . . . Sie ſah den Toten,
 verfärbte ſich und brach in Tränen aus.
@@ -703,7 +629,7 @@ Als ſie ſich etwas beruhigt hatte, fragte Harald:
 Simpſon?“
 
 „Ia -- und Schmudſachen und Geld . . . Alles iſt ge»
-ſtohlen, Mr. Harſt .
+ſtohlen, Mr. Harſt ..."
 
 „War das Teſtament von einem Notar auſgeſetßtt
 worden?“
@@ -715,42 +641,41 @@ uabe daſür geſorgt, Nelly, daß Du arm bleibſt . . . Du ſollſt
 Deiner ſelbſt wegen geheiratet werden . . .“
 
 „Und ohne das Teſtament wären Sie die einzige Erbin,
-Iüß Simpſon?“
+Miß Simpſon?“
 
 „3a =- -- keider . . !“ --- Ihre ſchönen Augen füllten
 uH ſc<on wieder mit Tränen . . .
 
 Mit einem Male erſchien da um die Biegung des Park-
 weges der Kammerdiener Simpſon3, mit einem Brief in
-der Hand .
+der Hand ...
 
-Verneigte ſic) vor Nelky .
+Verneigte ſic) vor Nelky ...
 
 „Dies hier hat ſoeben ein zerlumpter Knabe ab-
-gegeben +...
+gegeben ..."
 
 Nelly las die Auſſchrift: Schreibmaſchine .
 
-Miß Nelly Simpſon. Eilt
-!
+Miß Nelly Simpſon.
+
+Eilt!
 
 Und riß den Umſchlag, ein gewöhnliches großes Go
 ſchäſtskuvert, auf. . .
 
 In dem Umſchlag lag ein dreimal geſalteter Bogen . . .
 
-Es war .** das eigenhändige Teſtament Robert
+Es war ... das eigenhändige Teſtament Robert
+Simpſons ...!
 
-Simpſons .
-<=
 <@pagebreak/>
-0222222222222 17 2022020202002020200
 
 3. Kapitel.
 
 Kampf gegen Wallace.
 
-Mit Schreibmaſchine war jedoch unter den handſchrift
+Mit Schreibmaſchine war jedoch unter den handſchrift-
 uche: Text noch geſchrieben:
 
 „Für mich wertlos. Daher zurück.“
@@ -760,74 +685,69 @@ Der Inhalt der Urkunde, deren Echtheit nicht anzu-
 WW3elt ſeine Nichte enterbt hatte. --- Cs hieß da:
 
 „Zh will nicht, daß Nelly das Opſer eines gewiſſen-
-(oien Mitgiſtjägers wird. Deshalb werde ich das Gerücht
-+-1breiten, ich hätte mein Vermögen, das ich auf drei Mil
-“toliEen fchäße, anderweit vermacht . . .“
+loien Mitgiſtjägers wird. Deshalb werde ich das Gerücht
+verbreiten, ich hätte mein Vermögen, das ich auf drei Mil
+toliEen fchäße, anderweit vermacht . . .“
 
 Minutenlang herrſchte Totenſtille . . . Keiner regte
-5G . . .- Nelly ſchluchzte leiſe...
+sich . . . Nelly ſchluchzte leiſe...
 
 Bis Harald den Diener wegſchi>te und ſehr energiſch
-"gate:
+sagte:
 
 »Wir müſſen die Dinge in die richtige Bahn leiten . . .
-'Li1ß Simpſon, was verbindet Sie mit John Gollipp . . k“
+Li1ß Simpſon, was verbindet Sie mit John Gollipp . . k“
 
 Nelly errötete. War aber tapſer und ehrlich. „Ich liebe
-<9n, Mr. Harft . . .“
+i9n, Mr. Harft . . .“
 
 „Und er?“
 
-„Ich . ich weiß nicht, was er gegen mich hat .
+„Ich ... ich weiß nicht, was er gegen mich hat ..."
 
 „Cs iſt richtig, daß Doktor Wallace Ihnen einen Antrag
 gemocht hat und auch mit Ihrem Onkel ſprach?“
 
 „Ia . IH wies ihn ab . . . Er iſt mir nicht gerade
-unſympathiſch . . Er iſt ein ſo tüchtiger Arzt . . . Er be&-
-
+unſympathiſch . . Er iſt ein ſo tüchtiger Arzt . . . Er be-
 andelt mich. Mein Herz ift nicht ganz in Ordnung . . .
-
-leide an Ohnmachtsanſällen .
+Ich leide an Ohnmachtsanſällen ..."
 
 „War Wallace auch der Arzt hres Onkels?“
 
-„Ja . . ſeit Jahren .
+„Ja . . ſeit Jahren ..."
+
 „Seit wann ſind Sie Hherzfrant?“
 <@pagebreak/>
-.2.2.20..d200020 18 290220208220D202205
 
-„Sit fann nach. „Vielleicht eit vier Monaten . .- Dat
+„Sit fann nach. „Vielleicht eit vier Monaten . .. Dat
 Leiden ſtellte ſich ganz plößlich ein, ſoll aber nur „nietvöſer
 Natur ſen...
 
-. „Entſchuldigen. Sie, Miß Simpſon: 'kw<< ein paar ir-
+„Entſchuldigen. Sie, Miß Simpſon: 'kw<< ein paar ir-
+diäkretere Fragen ..... Sie wiſſen, daß dr&-Ihrek Bötwerbet
+Selbſimoid, verübten ... Haben Sie diefe. drei irgead -e
+bevarzudt=- auch den Major Collerlund ?“
 
-%-
+Nelly weinte . . . Weinte . . .
 
-diäkretere Fragen .-:-. Sie wiſſen, daß dr&-Ihrek Bötwerbet
-Selbſimoid, verübten . Haben Sie diefe. drei irgead -e
-bevarzudt=- auch den Major Collerlund ?“;'
-
-Ney weinte - - . Weinte . . . "a
-
-„M... ja. ' Ich tat's nur aus . . . ais Bey
+„Ja ... ja. ' Ich tat's nur aus . . . ais Bey
 zw eil ung de. =
 
-„Wetl John Gollipp Sie überſah?“ 8
+„Wetl John Gollipp Sie überſah?“
 
-Sie niche . +. j
+Sie niche . ..
 
-„Dart“ . :5“ Fagte Harſt und holte tief Atem ...
-edann zuefben tir jeht Doktor Wallace gejugen, Sir Co-
-danoor- : “ „8 „7
+„Dannn ...“ sagte Harſt und holte tief Atem ...
+"dann zuefben tir jeht Doktor Wallace gejugen, Sir Co-
+danoor ..."
 
-„Alſo doh!“ triumphierte Collins . ds,
+„Alſo doh!“ triumphierte Collins ...
 
-Harald warf, ähm einen eigentümlichet: Bli Zu
-meinte: ..
+Harald warf, ähm einen eigentümlichet: Bli Zu --
+meinte:
 
-- „Sie, Mr. "Collina, könnten John Gällipp 'Zzu Wollace
+„Sie, Mr. Collina, könnten John Gällipp 'Zzu Wollace
 bringen. 3 «-- Aber vhne jedes Aufiehen +3, ==
 
 Sir Godwing Dienſtauto führte uns in weniäen M
@@ -839,7 +759,7 @@ wandelten Grundſtücs ſtieß an den Hugli.L Der Ein
 beſand ſich in der Temſar-Street, gegenüber einein -
 gebäude.
 
-Sir . Godwin und wir beide mußten an der- Borte
+Sir Godwin und wir beide mußten an der- Borte
 lange wärten, bevor ein verſc<hlafener Diener erſchien umd
 uns erflärte, Doktor Wallace ſei mit ſeinem Auto reeter»
 wegs . . . auf Praxis . . . Vor zwei Stunden ſei er telte-
@@ -848,26 +768,23 @@ rufen worden, die wieder einen Malariaanfall habe . . Der
 Doktor müſſe jedoch ſchr bald zurückkehren . . . Wenn die
 Herren alſo näbertreten wollten . . . |
 <@pagebreak/>
-2224220002222 15) 2000002020240
 
 Tiäjer tadellHs geſchulte Diener war kein Inder, ſondern
-
 aanz offenbar ein Malaie. Auj den Wangen hatte er kaum
 iichltbarte- TätowtEnungen, die jedoch dazu beitrugen, dieſes
-
-. erfide Scſicht noch widerwärticer zu machen.
+erfide Scſicht noch widerwärticer zu machen.
 
 „Bleiben wir,“ beſtimmte Harald . . .
 
 Gollipp war nicht geſeſſelt. Cr machte jeht einen ganz
 andoren. Cindrucd als nachts Eeine g:auen Augen- bliäten
-l«bsaft, und die Art, wie er uns grüztce, bewies ein gutes
-(Gewijjen.
+lebsaft, und die Art, wie er uns grüztce, bewies ein gutes
+Gewijjen.
 
 Wir ſchritten. hinier dem Diener drein. Goſtipp ging
 zwiſchen Harſt und- mir.
 
-Ich ſchaute "mich hier intercſſiert um. Eir Codanoor
+Ich ſchaute mich hier intercſſiert um. Eir Codanoor
 batte uns erzählt, daß Doktor Wallace am nächſten Abend
 cin Gartenfeſt vgranſtal1e, zu dem die Cinladungen ſchon
 vor einer Wotche “ergangen ſcien. Es ſollte ein Wasfenſcſt
@@ -875,10 +792,10 @@ werden, und nach. Codanoors Behauptung war alles an
 Europäern dazu gebeten, was in Kalkutta und Umgebung
 zur erſten Geſellſchaft gehörte.
 
-T Haßald- fragte denn auch John- Goltipp in höſlichſtem
-one:
+Haßald fragte denn auch John- Goltipp in höſlichſtem
+Tone:
 
-„Mr. 'Gollipp, Doktor Wallace iſt wohl ſchr vegütert?“
+„Mr. Gollipp, Doktor Wallace iſt wohl ſchr vegütert?“
 
 „Ih nehme "€8 van, Mr. Harſt . . . Er hat.die größte
 Praxis in der Stadt Dabei iſi er ein Wahkäccr der
@@ -886,22 +803,22 @@ Armen. Seine Honorarforderungen ſind beſcheiden vw “
 
 „Sie waren bej ihm in Behandlungt*
 
---- vor einem Monat . . Ich hatie. eine/Schnen-
-möge linken Fuß .
-kennen „ihn alſo 'genauer?- .
-Gwikß, Mr. Harſt . . . Er behandelt auch meine
-Mutter + . . Sie Äft ſeit Jahren gelähmt, .
+"Ja -- vor einem Monat . . Ich hatie eine Schnen-
+möge linken Fuß ..."
+
+"Sie kennen ihn alſo 'genauer?"
+
+"Gwikß, Mr. Harſt . . . Er behandelt auch meine
+Mutter . . . Sie Äft ſeit Jahren gelähmt ..."
 
 Wix hatten den weißen ſchmucken Bungalofo»-grreicht.
 Das Haus beſaß. die übliche offene Veranda, die. Reh rund
-um das Gebäudgs: herumzog . fe
+um das Gebäudgs: herumzog . ..
 
-Dex Diener.-mmit der Gaunerviſäge“ br: “uns “auf ver
+Dex Diener mit der Gaunerviſäge“ br: “uns “auf ver
 Veranda Platz zu nehmen . . . Korbmöbel Ee hier
 Überall zwanglo& verteilt. Unter dem Glasdach drehten ſich
 <@pagebreak/>
-DSSSSSSSSSSS 90 SSSSSSSSSSSSD
-
 jenc großen Ventilatoren, die im Verein mit der ſtändigen
 Beriejelung der Gla8däher angenehme Kühle verbreiten.
 
@@ -922,30 +839,38 @@ und fragte dann Gollipp plötblich:
 „Ia . . . I< hatte aber abgeſagt . . .*
 
 „Weshalb?“
+
 „Weil . . . weil . . . iG mit Miß Simpſon nicht gern
 zuſammentreſſe . .“
 
 Codanoor blickte ihn fragend an . . .
+
 Dann beugte ſim Harald etwas im Seſſel vor ...
+
 „Mr. Gollipp, Sie bleiben alſo dabei, Simpſon er-
 [choſen zu haben ?*
+
 „Ia...
+
 "Und Sie wollten ihn töten? --- Sie hatten ja Ihre
 Piſtole mitgenommen . . .“
+
 John Gollipp wurde unſicher. Ein nachdenklicher Zug
 trat in ſein Geſicht . . .
+
 Er ſenfte den Kopf in einer geradezu hilfloſen Art .
 Und erwiderte ſeltſam zerſtreut: „Ih weiß nicht recht .
 ich weiß eigentlich gar nicht, wie ich ſo plößlich
 in Simpſons Garien gekommen bin . . . Aber ... Sie
 werden mir das alles ja nicht glauben . . . Als der Schuß
 fiel, war's, als ob ich plötzlich erwachte . . .*
+
 Harald niete . ..
+
 Und da -- von der Straße her Signale einer ſchrillen
 Super . - - Der Diener mit dem perfiden Geſicht lief zum
 rfior . .
 <@pagebreak/>
-22SDSSSSSSSSS 21 DSSSSSSSSSSSSD
 
 Gleich darauf kam Doktor Edward Wallace den Haupy-
 weg enilang . . . Grüßte . . . Stand vor uns . ..
@@ -954,7 +879,7 @@ weg enilang . . . Grüßte . . . Stand vor uns . ..
 Gollipp . . ! ZI<h habc von Ihrem Pech ſchon achört . ..
 -- Sir Codanoor, ich biete jede Bürgſchaft ſür -meinen
 fungen Frcund . - Gollipp mordet nicht . . . Ein ſo guter
-Sohn wie er hat.
+Sohn wie er hat. .."
 
 Harſt unterbrach ihn . . . „Verzeibung, Mr. Wallace,
 Sir Codanoor hat mir „dieſen Fall übertragen . . . Wir
@@ -987,33 +912,30 @@ halten, denn es gibt noh übergenug zu berichten . . .
 Man denke ſih meine Verblüffung: Gollipp war im
 Nu in tieſſter Hypnoſe. Wallace hob ihm die Arme empor
 und ſie blieben in den unmöglichſten Verrenkungen wie
-gelähmt in der Luft -- wie im Nervenkrampf .
+gelähmt in der Luft -- wie im Nervenkrampf ...
 
 „Gollipp iſt fraglos heute nicht zum erſten Male hypno-
 tifiert worben,“ ſagte Wallace leicht erregt zu uns. „I<
 ahne jetzt ungefähr, was geſchehen . . . Sie haben ſich hier
 <@pagebreak/>
-22022056 200202202 229 2002020020 2222d2
-Fee
-
 bei mir an die richtige ' Adreſſe "gewandt, Mr. Harſt .
-Geben Sie acht . .“ |
+Geben Sie acht . .“
 
 Und er wandte ſich Gollipp wieder zu . . .
 
-„FIohn Gollipp, ich beſehle Ihnen, mir zu ſagen, wer
+„Iohn Gollipp, ich beſehle Ihnen, mir zu ſagen, wer
 Sic ſcon des öſteren gceaen Ihren Willen, ohne daß Sie
-es ahnten bypnotiſiert hat “
+es ahnten bypnotiſiert hat ...“
 
 Und laut und beſtimmt erwiderte Gollipp:
 
 „Wajor Harry Collerlund .,. !“
 
 „Und --- hat er Sie in Simpjons Park geſchit?
-„za us
+
+„Ja ..."
 
 Wir anderen waren wie entgeiſtert . . Selbfi Harald
-
 rief halblaut: „Unglaublich .
 
 Als Wallace nun aber noch weitere Fragen an Sollipp
@@ -1021,19 +943,18 @@ richteie, blicb jede Antwort aus.
 
 Der Doftor zuckte die Achſeln . . .
 
-"Mein Cinfluß verſagt. . . Ih werde ihn weden .
+"Mein Cinfluß verſagt. . . Ih werde ihn weden ..."
 
-Gollipp erwachte denn auch ſofort .
+Gollipp erwachte denn auch ſofort ...
 
 Harald meinte, wir müßten ihm nun erft einmal Rube
-gönnen . Vorläuſig ſolle man ihn in: Haft behalten . . .
+gönnen ... Vorläuſig ſolle man ihn in: Haft behalten . . .
 
 „I< ſelbſt, Sir Codanoor, bin zu müde, um jett nod
-etwas zu unternehmen , . - Ih will bis mittag hlafen .
-
+etwas zu unternehmen , . - Ih will bis mittag hlafen ...
 Ich finde mich: dann mit Schraut bei Ihnen ein . .. ."
 
-Wir verab <iedeten uns von :Wallace . . . Und als der
+Wir verabs<iedeten uns von Wallace . . . Und als der
 Doktor Harald die Hand drückte, hatte er wiederas dünne
 Lächeln um die ſchmalen Lippen . . . --
 
@@ -1048,38 +969,37 @@ Codanoor . . Edward Wallace hat Gollipp in ver “noſe
 ich Unglaublich!' rieſ, ſo galt das nur der Geriebenheit dieſes
 Schurken . . .
 
-Sir Codanoor ſtarrte Harft ſprachlos an .
+Sir Codanoor ſtarrte Harft ſprachlos an ...
 
 „Geben Sie mir noch achtundvierzig Siuiven,- fügte
 Sarald hinzu, „unnd ich werde den größten Verbrecher Kal-
 <@pagebreak/>
-DESEESDISNEN: 23 "0ESDSSSSSSSSSD
-
-n. NY "6. =. 63.
-
-'tüttas-5 entlarven, Sir '"Tödanoor - =. Und -- ſchweigen
+tüttas-5 entlarven, Sir '"Tödanoor - =. Und -- ſchweigen
 Sie. 8 ==
 
-* um*halb eins waren fir bei Sir Codanoor im Polizei-
+um halb eins waren fir bei Sir Codanoor im Polizei-
 valaſt.
 
-- Inzwiſchen war Simpſons Leiche obduziert worden.
--Tid.im Stvädel geſundente.Geſchoß paßte zu Gollipps Piſtole.
-x Is Dienſtzimmer Str Codanoors wurde nun hinter
+Inzwiſchen war Simpſons Leiche obduziert worden.
+Tid im Stvädel geſundente Geſchoß paßte zu Gollipps Piſtole.
+
+Is Dienſtzimmer Str Codanoors wurde nun hinter
 beit 1.cpolſterten Türen Kriegsrat gehyalten . Auch Inſpektor
 wollius war Dabei.
 
-' Haxtald behauptete, daß Doktor Wallace nicht nur den
+Haxtald behauptete, daß Doktor Wallace nicht nur den
 Maior Collerlund, ſondern auch Nellys andere drei Be-
 tber: und ihren Onkel auf demi Gewiſſen habe. Er deckte
 icht „alſo-ſeine Karten auf. -
-" Sir Godwin ſc<wieg.. Collins hob die Schultern bis
-zu“ den (Ohren . . ſagte; „Zunächſt: wes8halb dieſe vier
+
+Sir Godwin ſc<wieg.. Collins hob die Schultern bis
+zu den Ohren . . ſagte; „Zunächſt: wes8halb dieſe vier
 Norde,-MtiTHarſt, die an Nellys Verehrern?! Es fehlt iedes
 Motiv. .: Nelly hat die vier. doch nicht derart bevorzugt, daß
 Waßact ſirtehten mußte, fie. ſönnten ihm das Mädchen weg
 tivriappen ! !:- Und „dann 3%. . Simpſon?! Weghalb mußte
-Cimpſon ſterben 2?!“ EN
+Cimpſon ſterben 2?!“
+
 „Das alles werde 'ich Ihnen binnen achtundvierzig
 TL tunden erfläten,“ meinte. Harſt mit unerſc<hyütterlicher Rube.
 „Wallace hot in ällen, viet, Fällen nach derſelben Methode
@@ -1096,28 +1016,25 @@ Sie alſo, zwei von Ihren europäiſchen Beamten mit blonden
 Bärten zu verſehen, in unſere Anzüge zu ſtek>ken und zum
 Haupteingata hinauszulaſſen . . . Wenn ich dann von einem
 Fenſter aus geſehen habe, daß die Spione dieſen Pſeudo»
-
- 
 <@pagebreak/>
-SSSSSSSSSSSS 24 DSSSSSSSSSS SS
-
 arft und -Schraut folgen, werden die echten Harft unv
 aut als ſchlichte indiſche Kulis andere Weae wandeln..."
+
 Codanoor und der Inſpektor waren zunächſt platt. T*':7
 lachten ſie vergnügt, und die ſeine Komödie wurde v-: +--
 reitet. Unſere Stellvertreter erhielten Beſchl, mit e :! »
 Mietwagen nach der Vorſtadt Howrah zu ſahren und de"
 bis zum Abend zu bleiben und nachher zu verjchwinden . .
+
 Alles klappte . . .
+
 Um zwei Uhr nachmittags verduſteten auch wir .. .
+
 Wohin?
+
 Der Leſer wird es kaum ahnen . . .
 
-Cd
-"Er 3 m 3) "Win
-
 4. Kapitel.
-
 Tierftudien.
 
 IH wußte es ja ſelbſt nic<t . . . I< trottete nebew
@@ -1127,10 +1044,10 @@ gepſercht waren wie anderöwo in Weltſtädten . . .
 
 Bis wir ſchließlich die Felder vor uns hatten, das
 flache Land mit ſeinen Gehöften, ſeinen Waſſergräben, den
-Reisſeldern, den Gummibaumplantagen .
+Reisſeldern, den Gummibaumplantagen ...
 
 Auf ſtaubiger Straße immer weiter gen Nordoſt, wo
-in der Nerne bewaldete Hügel winkten .
+in der Nerne bewaldete Hügel winkten ...
 
 Dann nach einer guten Stunde -- er ſiebt dieſe Vulkfaw
 ausbrüche --- ſagte er:
@@ -1140,7 +1057,6 @@ ausbrüche --- ſagte er:
 I< ſtand ſtill . . . Mir ſchien jemand mit einem Bret
 vor die Stirn geſchlagen zu haben . . .
 <@pagebreak/>
-2220200202020 S020S8 95 0020020200020 00202D
 
 „Komm' nur, mein Alter . . . E38 iſt ſchon ſo . . . Der
 Tote, der Ermordete iſt nicht Simpſon . .-." -- Und er
@@ -1159,7 +1075,6 @@ Robert Simpſon ſjchr ähnlich geſchen vaben,“ wagte ich
 einzuwenden . . .
 
 „Natürlich . . . -- Als Du noc< ſchlieſſt, habe ich
-
 Miß Nelly telephoniſch angerufen und ſie ganz unaufſällig
 ausgehorcht, ſie auc>k um Verſchwiegenheit gebeten. Robert
 Simvſon hat einen Bruder namens Percy, einen Zwillings-
@@ -1192,7 +1107,6 @@ Edward Wallace .
 
 Und da -- ging mir ein Lict auf . . .
 <@pagebreak/>
-220202002020 2D02D022 96 000202 002002020
 
 „Harald, das da drübeu iſt die Jeſſar-Plantage der
 Miſtreß Gocknar . . .“
@@ -1233,7 +1147,7 @@ auſgetaucht, rief dem Greiſe etwas zu, verſchwand wieder .
 „grau Gocknar . . .“ flüſterte Harſt . . . „Hinein in die
 Büſche . . |! Laſſen wir den Alten vorüber . ..
 
-Der Greis humpelte vorbei .
+Der Greis humpelte vorbei ...
 
 Und -- wir blieben hinter ihm . ...
 
@@ -1242,8 +1156,6 @@ Lichtungen öffneten ſich, einzelne Tümpel glänzten +...
 Dann ſtieg der Boden an, wurde ſteinig . . . Felſen traten
 bervor . . . Mitten darin ein Haufen Jelſen, gefrönt von
 <@pagebreak/>
-2222220222222 27 220202002030 000005
-
 einem eigenartigen Bauwerk, einem Hindutempel kleinſtei
 Abmeſſungen . .
 
@@ -1267,7 +1179,7 @@ Garſt umrundete die Blöße, bis wir an einen Gebüſch»
 fühlen, “" ſag:e er. „I< glaube faſt, daß der Kerl die Ziege
 von Frau Goknar geſchenkt bekommen hat. Sie ſträubte
 ſich ſo ſehr, den Waldweg entlangzugehen. Der Greis iſt ihr
-ſremd. Wan merkte das .
+ſremd. Wan merkte das . .."
 
 Ia -- jetzt. wo Harald mich mit der Naſe auf dieſe
 ſiteinigfeiten ſtieß, erinnerte ich mich an mancherlei, was
@@ -1283,7 +1195,7 @@ Nun --- ich war plötzlich hellhörig geworden . . .
 „Du meinſt, Simpſon wird hier verborgen gehalten ?*
 
 „Möglich iſt es ſchon ... Gäbe es einen beſſeren Platz?!
--- Vorwärts nun -- auf allen Vieren .
+-- Vorwärts nun -- auf allen Vieren . .."
 
 Wir kamen denn auh, durch die Büſche gedeft, bis
 Rahe an die Felsblö>e heran.
@@ -1291,8 +1203,6 @@ Rahe an die Felsblö>e heran.
 Es waren im ganzen acht, kleinere und größere, beſſet
 dünnere und dickere, aber alle ſo ziemlih von derſelben
 <@pagebreak/>
-DSDSSSSSSSSS 28 SSSSSSSSSSSSD
-
 Höhe . . . Sie nahmen einen Flächenraum von etwa neunzig
 Quadratmeter ein, und oben ruhte auſ ihnen der feine
 Hindutempel. Unten aber war die Lücke 3zwiſcen ihnen
@@ -1305,28 +1215,28 @@ Harſt erhob ich... Wir dranaen in die Felſen cin,
 fanden mitten darin aus Steinen und Lehm eine kleine
 Hürde auſgemanert, in der . die Ziege unrubig hin und
 ver trat, den Kopſ bochreäte, leiſe mederte, den Kopf nieder
-ſenkte und das Echnränz>en ſpielen ließ .
+ſenkte und das Echnränz>en ſpielen ließ ...
 
 Als ſie uns aewahrte, meckerte ſie lebhafter, kam an
-die Solztür der Hürde heran und ſchruerte ſich den Hals .
+die Solztür der Hürde heran und ſchruerte ſich den Hals ...
 
 Der Steinboden der Hürde war dicht mit ſriſch abge-
 "äuſtem Gras bedeckt. In einer Ede ſtanden ein Trog und
 ein Waſſereimer.
 
-Harald ſtreichelte das Tier .
+Harald ſtreichelte das Tier ...
 
 Mit eincm Male ſprang ſie jedoch zurück, als ob irgend
-- was ſie erſchre>t bätte . . .
+etwas ſie erſchre>t bätte . . .
 
-„Hörteſt Du?!“ flüſterte Harſt .
+„Hörteſt Du?!“ flüſterte Harſt ...
 
-Ih batte nicht8 gehört .
+Ih batte nicht8 gehört ...
 
 Da war er ſchon in der "Hürde, ſchob mit dem rc&ten
-j5zuß das Gras zur Seite „,
+j5zuß das Gras zur Seite ...
 
-Schmutſtarrende8 Geſtein . - - Nichts weiter . . ,
+Schmutſtarrende8 Geſtein . . . Nichts weiter . . ,
 
 Dann jedoch . . . vernahm auch ich etwas . . .
 
@@ -1336,27 +1246,28 @@ Lauſchend . . .
 
 Die Ziege drängte ſic< an ihm vorüber und mochte an
 der Rückwand der Hürde halt. Dieſe Rückwand wurde
-mur die breite Seite eines der Blöde gebildet .
+mur die breite Seite eines der Blöde gebildet ...
 
 ier ſchnupperte die Ziege, mecerte, ſprang wieder
-
-+» - - E88 wasr| eine jener gelbbraunen halbwilden
+zurück ... E88 war eine jener gelbbraunen halbwilden
 Bergziegen, wie ſie aus den Hutia-Bergen nach überallhin
 alſ8 anſpruchsloſeſte und gutmilchende Tiere exportiert
 werden.
 <@pagebreak/>
-2222220222220 9) 20000000 0SS0SSD
 
 Harald drehte ſich nach mir um . .
-Simpſon . . !“
+
+"Simpſon . . !“
+
 Und er hob den Arm, taſtcte an dem Felſen entlang
 und . . - 30g einte klein» Zteintür auſ.
+
 Der Felſen war bobhl .
+
 Undeutlich erkannte id) in dem enaen Raum auf einem
-Lager von zerriſſenen Säcken einc menſchliche Geſtalt .
+Lager von zerriſſenen Säcken einc menſchliche Geſtalt ...
 
 5. Kapitel.
-
 Die drei ſtillen Gäſte.
 
 Als wir abends neun Uhr wieder als Harft und Schraut
@@ -1382,7 +1293,6 @@ Als wir im Auto nach Wallaces Bungalow ſuhren,
 Rauche auch Deine eigenen Zigarren . Der Schuft will
 uns fraglo8 zu frühzeitiger Himmelfahrt verhelſen . . .* =
 <@pagebreak/>
-DBE2T2G03CLISSCDSS 37) SSSSSSSSODOSOODD
 
 Es mochten gegen zehn Uhr in dem glänzend ev»
 leuchteten Park etwa hundert Perſonen verſammelt! ſcin.
@@ -1429,15 +1339,13 @@ fin, Ritter . . !* Er ſann nach, fügte no< lebhafter hinzu:
 als Ritter erſchienen, Longin als Türke und Malcokm als
 Harlekin . . .“
 <@pagebreak/>
-|S 2020222222002 31 2020202020220202000
 
 „Dann . . .“ ſagte Harſt gepreßt, „dann hat dieſer
 Sdcuft mid durch dieſe Skelette verhöhnen wollen ...
 Durch Skelette in der Tracht, die ſeine erſten drei Opfer
-
 damals anhatten . . . Zebt, heute . . . injzeniert er einen
 Maoskenball der Toten . . !! Nun -- wir werden ihm dieſen
-Edherz . . - verſalzen . . !“
+Edherz . . . verſalzen . . !“
 
 Er verließ uns, ging zu dem Podium einer der beiden
 Muſikkapellen und holte ſich einen Mann mit einer Trompete.
@@ -1448,7 +1356,7 @@ Alles ſnömt zuſammen . . Harſt klettert auf einen
 Tiſch . . . YVeimmt die Yiaske av, wirſt den Domino bei
 Seite...
 
-„Meine Damen und Herren . . !“ Seine Stimme ver-
+„Meine Damen und Herren . . !“ *Seine* Stimme ver-
 ſteht jeder . . . „Meine Damen und Herren . . ! Sie ge-
 ſtatten, daß ich mich Ibnen vorſiclle: Harald Harſt . . !"
 
@@ -1458,26 +1366,24 @@ Zuruſe, Händeklatichen unterbrechen ihn...
 Rolonäſe auffordern . . . Darf ich Doktor Wallace bitten,
 dicſe Polonäie mit mir zu eröffnen . . .“
 
-Ein Mönch drängt ſich vor .
+Ein Mönch drängt ſich vor ...
 
 Harald reicht ihm den Arm...
 
-Der Zua biegt nach dem Bungalow ab .
+Der Zua biegt nach dem Bungalow ab ...
 
 Die Muſik bleibt auf der Treppe . .
 
 Und . . . vor den drei Skeletten im bunten Flitter macht
-Harald. halt .
+Harald. halt ...
 
-Die Muſik bricht jäh ab .
+Die Muſik bricht jäh ab ...
 
 Harſt hat noch immer des Mönches Arm in dem ſeinen
+... Tritt nun etwas zur Seite...
 
-. Tritt nun etwas zur Seite...
-
-'Im Hintergrunde die Schar der Gäſte . . . Alle Fröh-
+Im Hintergrunde die Schar der Gäſte . . . Alle Fröh-
 Me ebenſo jäh erloſchen wie ſoeben der ſchmetternde
-
 aſh . . .
 
 Man ahnt irgend etwas . . .
@@ -1488,7 +1394,6 @@ männer ., . .
 Harald deutet jeht auf dieſe Skelette, ſagt, jedes Wort
 betonend:
 <@pagebreak/>
-SSSSSSSSSSSS 329 SSSSSSSSSSSSD
 
 „Viele von Jhnen, meine Damen und Herren, werden
 ſiH auf Wallaces cerſte8 Maskenfeſt beſinnen, auch darauſ,
@@ -1502,7 +1407,7 @@ ift, genau wie Major Collerlund ſpielte . . . Aber Wallace
 verſtand ſeine Spielwut zu verheimlichen, ſpielte nur im
 engſten Kreiſe . . . genau wie Robert Simpſon, von dem
 ich dies alles erfahren habe . . . Denn: Simpſon lebt --
-Robert Simpſon. . ! Ermordet wurde ſein verkommenetr
+*Robert* Simpſon. . ! Ermordet wurde ſein verkommenetr
 Zwillingöbruder Percy, dem . . . Doktor Wallace vorher
 genau dieſelben Kleivunesſrücke angezogen hatte, wie Robert
 Simpſon ſie trug . . .“
@@ -1521,17 +1426,15 @@ IH war vorgeſtern Zeuge, wie er beim Billardſpiel den
 Major Collerlund --- auch Spielſchulden wegen --- hypno-»
 tiſierte . . . Erſt aglaubte ich an eine Art amerikaniſchen
 Duells . . . Collerlund erſchoß ſich . . . --- auf WallaceskL
-hypnotiſchen Beſehl . . . So tilgte der Mörder ſeine Spiel-
+hypnotiſchen Beſehl . . . *So* tilgte der Mörder ſeine Spiel-
 ſchulden! Dieſe vier Morde hatten nichts mit Miß Nelly
-Simpſon zu tun . . . Aber der fünfte, der an Percy
+Simpſon zu tun . . . Aber der fünfte, der an *Percy*
 Simpſon, ſollte Wallace den Weg zu einer Heirat mit Nelly
 ebnen . . . Er hatte als gefährlichſten Nebenbuhler John
 Gollipp zu fürchten. Den wollte er dadurch vor Nelly un-
 möglich machen, daß er ihn den Mord an PBercy Simpſon
 eingeſtehen ließ -- durch Hypnoſe! --- Sie werden fragen:
 <@pagebreak/>
-2222222220222 33 2022020202020252020500
-
 Weshalb tötete er Percy Simpſon und nicht Nobert Simpſon?k
 Kun -- Nobert Simpſon ſollte leben bleiben, bis er ein
 Teſtament auſgeſebt batte, das Nelly zur Erbin beſtimmte,
@@ -1559,20 +1462,17 @@ Ein neuer allgemeiner Schrei . . .
 Es . . . war nicht Edward Wallace . ..
 
 Es . . . war ein Fremder, ein Europäer mit jungem
-
 Geſicht . . .
 
-Det. 141 9
 <@pagebreak/>
-DSSSSSSSSSSS 34 DSSSSSSSSSSS
 
-Doktor JDallaces Rache.
+Doktor Wallaces Rache.
 
 1. Kapitel.
 
 Unier Auftrag. . .
-Ein junges, friſQGe8 Geſicht war unter der Seidenmaske
 
+Ein junges, friſQGe8 Geſicht war unter der Seidenmaske
 zum Vorſchein gekommen . . . Ein junges, ſympathiſches
 Geſicht, das mehr Staunen und Verlegenheit als Angit
 geigte . . .
@@ -1598,7 +1498,7 @@ Sidney Rovell ſtotterte weiter:
 
 „Doktor Wallace trug ja ebenfalls Mönc<skutte und bat
 midh, einen kleinen Scherz mit Ihnen zu machen, Mr, Harfſt
-. - . So trat ich denn vor und ſpielte Wallace . . . Sie dürfen
+. . . So trat ich denn vor und ſpielte Wallace . . . Sie dürfen
 mir das nicht verargen, Mr. Harſt . . . I< habe mir dabei
 wirklich nichts gedacht . . .“
 
@@ -1608,15 +1508,16 @@ Robert Simpſon, der Wiederauferftandene, erklärte nun
 tagenbeſikerin, Mr. Harſt . . . Ein guter Junge . .. Ja,
 das ſind Sie, Rovell . . ! Das ſieht man Ihnen von
 <@pagebreak/>
-2222202222222 335 0200002002020202020S
-
 weitem an. Sie begehen keine Schurkereien wie Ihre Stieſ-
 mutter, die mich im ſogenannten Waldtempel gefangen
-jelt .
-) Die Gäſte umgaben uns jetzt in ganz engem Kreis .
+helt .
+
+Die Gäſte umgaben uns jetzt in ganz engem Kreis .
+
 Simpſons au&s8drucksvolles Antlivt war erregt und ver-
 zerrt. Man merkte, wie ſtark die Wut über die ihm ange»
 tane Gewalt in ihm kochte...
+
 „I< möchte Ihnen allen hier ſofort ſchildern, was vor-
 geſtern nacht in meinem Park aeſchah,“ ſuhr er mit ge-
 preßter Stimme ſort. „Als ich meinen üblichen Spaziergang
@@ -1627,40 +1528,47 @@ erade über die Mauer . . . I<) war gefeſſelt und „eknebelt.
 einem Auto brachte man mich dann nach dem Walde bei
 der Rlantage Jeſſar . . . -“- Nun, Mr. Harſt ſand mich, ließ
 mir ein Meſſer und eine Piſtole da, lo>erte meine Hand-
-
 feſſeln und beſtellte mich für heute hierher . . . Miſtreß
 Sonar w wird jezt von dem Dorſpoliziſten von Jeſſar be-
-wacht
+wacht ..."
 
 Er machte eine Art Verbeugung rundum . . .
+
 „Meine Damen und Gerren, Mr. Harſt hat es verdient:
-drei 'Hochs auf Mr. Harſt und ſeinen Freund . . u
-Aber dieſe Ovation ſollte niemals ſtattſinden .
-Ein Zwiſchenfall .
+drei 'Hochs auf Mr. Harſt und ſeinen Freund . . !"
+
+Aber dieſe Ovation ſollte niemals ſtattſinden ...
+
+Ein Zwiſchenfall ...
+
 Etwas, das.die verbrecheriſchen Qualitäten des Doktors
 in ein neues Licht rückte .
+
 Hinter der Bank der drei Skelette hatte ſich eine Geſtalt
-auſgerichtet .
+auſgerichtet ...
+
 Ein Mönch mit Seidenmaske vor dem Geſicht . . .
+
 „Einen Augenbli> . . 11“
+
 mitt Dieſe Stimme wirkte wie ein allgemeines Betäubungs-
-e
+e....
+
 No< mehr wirkte die Gelaſſenheit, mit der eine ſehnige
 Hand mit Spinnenfingern die Seidenmaske jetzt löſte und
 ſo das kühl-lächelnde Geſicht Doktor Wallaces enthüllte .
 <@pagebreak/>
-DSSSSSSSSSSS 36 SSSSSSSSSSSS
 
 „Cinen Augenbli>, meine Herrſchaften," ſagte er mit
 einem Hohn, der ungeahnte Schred>niſſe verhieß. „Hier habe
 ic) doch auch noc ein Wort mitzureden . . . Zunächſt: Nie-
 mand rühre ſich vom Platz! Yiein Diener und Vertrauter
 hat Beſchl, den elektrijichen Kontakt jofort zu ſchließen, ſalls
-man mir nicht gehorcht .
+man mir nicht gehorcht ..."
 
-Sein Lächeln wurde geradezu teufliſch .
+Sein Lächeln wurde geradezu teufliſch ...
 
-„CEinige meiner bisherigen Freunde fönnen beſtätigen,
+„Einige meiner bisherigen Freunde fönnen beſtätigen,
 daß ich nebenbei auc< Chemiker bin und bejonders mit den
 ſogenannten modernen Kampifgaſen experimentiert habe . . .“
 
@@ -1669,7 +1577,7 @@ Blechzylinder zum Vorſchein, der etwa ein halb Meter lang
 und zehn Zentimeter dic> war. In den Zylinder lieſen zwei
 iſolierte Drähte hinein . . .
 
-'„Dieje Gaspatrone, meine Herrſchaften . . .* =-“-+ und er
+„Dieje Gaspatrone, meine Herrſchaften . . .* =-“-+ und er
 legte ſie auf die Bank --- „würde genügen, Sie alle in Se-
 kunden ins Jenſeits zu beſördern . . . Jh ſehe da hinten
 Oberſt Ramdor ſtehen . . . Er hat vor acht Tagen beobachtet,
@@ -1691,24 +1599,21 @@ Sie bin ich trohdem. Ein Vink von mir, und Sie alle
 Sie hier aufführen, Wallace, iſt eine Poſſe für Narren .
 Ich könnte Sie ſoſort paden , . . Sie würden dann mit uns
 
-r n *“ 2 *.*
 <@pagebreak/>
-22222200022022 37 2020002020202202000
-
 „Was ich auch mar will," lachte Wallace höhriſch. „An
-meinem Leben liegt mir nichts mchr ,
+meinem Leben liegt mir nichts mchr ,.."
 
 Sein mageres Geſicht, das die Züge eines weltſremden,
 ganz auf geiſtige Betätigung eingeſtellien Asketen trug, wurde
-nwrfwürdig verträumt .
+nwrfwürdig verträumt ...
 
-„Rein -- mein Leben gehört nauir noF7 Nelly Simp-
+„Nein -- mein Leben gehört nauir noF7 Nelly Simp-
 ſon . . .“ ſagte er nun leiſer . . . weicher . . . „Die Leiden-
 ſc<ait eines reiſen Mannes für ein Weib iſt kein jugendlicher
 Rauſch . Dieſe Leidenſchaft hat mich beſicat . . . IH
 werde Nelly jezt niemals erobern -- niemals mehr! Des-
 halb iſt mir der Tod eine Erlöſung . . . das Leben gleich-
-gültig . . ." -
+gültig . . ." --
 
 Harald nickte dem zu allem ſähigen Verbrecher leicht
 zu...
@@ -1718,14 +1623,14 @@ Wallace . . . Trobpdem iſt dies hier ein Poſſenſpiel . . .
 Ihnen kann nur an meinem und Sc<rauts Tode etwas
 liegen. Weshalb wollten Sie ſich auc< an dieſen Herren
 und Damen dort rächen ? | Und -- auf Rache läuſt dieſe
-Szene doch hinaus .
+Szene doch hinaus ..."
 
-Der Doktor „lachte are.
+Der Doktor lachte grell...
 
 „Rache . Nein -- nennen „Sie es anſtändiger ==
-Vergeltung . 1. --“ Das iſts .
-„Nun alſo . .. = gut: Vergeltung! --“- Im Augen-
+Vergeltung . 1. --“ *Das* iſts ..."
 
+„Nun alſo . .. = gut: Vergeltung! --“- Im Augen-
 bli> ſind Sie Sieger . . . Wa8 fordern Sie?“
 
 „Etwas Selbſiverſtändlic>8: Sie beide! Sie und
@@ -1735,9 +1640,9 @@ ftandslos ſofort ſolgen . . !“
 Bisher hatte Sir Godwin Codanoor, der neben Robert
 Simpſon ſtand, noch an ſich gehalten . .
 
-Jetzt brach er los .
+Jetzt brach er los ...
 
-„Schurke, und Sie "denken, daß dieſe Gentlemen hier
+„Schurke, und Sie denken, daß dieſe Gentlemen hier
 dieſes Opfer eines Mannes annehmen Werden, der . . .*
 
 Harakd hatte ihm durch eine ſehr energiſche Handb
@@ -1745,13 +1650,11 @@ wegung Schweigen geboten . .
 
 erzeihen Sie, Sir Codanoor: hier handelt es ich um
 <@pagebreak/>
-DSSSSSSSSSSS 323 DSSSSSSSSSSS
-
 kein Opſer . . Doktor Wallace wird Schraut und mich wohl
 kaum faltblütig ermorden . . .“
 
 „Woher wiſſen Sie das ſo genau?!" höhnte Wallace.
-„Trauen Sie mir nicht den Mut zu, ſelbſt .
+„Trauen Sie mir nicht den Mut zu, ſelbſt ..."
 
 „Ih traue Ihnen alles zu, Wallace . . . I< weiß
 genau: Sie hätten uns ohne Erbarmen hier längſt durch
@@ -1764,7 +1667,7 @@ zwanzig Stunden nach dieſer Arbeit, die Sie verlanaen
 werden, am Leben laſſen und die Ga&8bombe ſofort unſchäd-
 lich machen . . . Mein Ehrenwort auf alles das!“ --
 
-(gleich darauſ eilten Wallace, ver Malaie und wir beide
+gleich darauſ eilten Wallace, ver Malaie und wir beide
 einer Seitenpſorte des ehemaligen Jeſuitenſricdhofſs zu . . .
 
 Ein Auto wartete hier in: der engen Seitengaſſe . . .
@@ -1788,7 +1691,7 @@ Das Signal wurde von See her beantwortet .
 
 Ein Sahrzeug ſchälte ſeine Konturen aus nächtlicher
 Dämmerung . . . eine ſchwerſällige malaiiſche Prau mit
-awei Maſten .
+awei Maſten ...
 
 Ein Boot ſtieß ab...
 
@@ -1796,17 +1699,16 @@ Kam heran...
 
 „DVitte,“ ſagte Wallace gleichmütig . .
 <@pagebreak/>
-2222020200 200DS2SüSS 39 002020202020 2020000
-Und das Boot kehrte um, brachte uns zur Prau hin-
+
+Und das Boot kehrte um, brachte uns zur Prau hin-über ...
 
 Hinter uns am Strande ſauſte das angekurbelte Auto
-
 ohne Führer ins Waſſer . . . arbeitete ſich weiter -- ſchwamm
-. und verſanf . . .
+... und verſanf . . .
 
 „Hiermit breche ich gleichſam die lebte Brücke hinter
-prir ab,“ meinte Wallace mit ſchrillem Auſlacheu . . . „Nun
-beginnt das . . . andere Leben . . .“ -
+mir ab,“ meinte Wallace mit ſchrillem Auſlacheu . . . „Nun
+beginnt das . . . andere Leben . . .“ --
 
 Wir kletterten an einer Strickleiter an De> der Handels-
 prau, die vorn und achtern mit Fäſſern und Tonnen be-
@@ -1839,17 +1741,16 @@ derer zu erraten . . . Alſo --- raten Sie . . .“
 danfengänge noch nicht „genügend hineinfinden. Ich kenne
 Sie noch zu wenig -
 
-„Nun . -- Sie ſollen . .
+„Nun ... -- Sie ſollen . .
 
-Pauſe . „.
+Pauſe . ..
 
 Ich hielt ven Atem an...
 
-- - . Sie ſollen, ſobald dieſe Prau ouf dem Huagli in-
+"... Sie ſollen, ſobald dieſe Prau ouf dem Huagli in-
 mitten des Häuſermeeres von Kalkutta ankert, verkleidet
 Miß Nelly Simpſon entführen und auf die Prau bringen ...“
 <@pagebreak/>
-DSSSSSSSSSSS 40 DSSSSSSSSSSSSD
 
 2. Kapitel.
 
@@ -1903,7 +1804,6 @@ leichtes . . .*
 
 Harald rauchte . . .
 <@pagebreak/>
-DSSSSSSSSSSS 41 DSSSSSSSSSSS
 
 Wallace hatte die ſchmalen Hände um die Querleifſte
 eines Bo1dſtuhles gelegt . . . I< ſah, wie die Adern dieſer
@@ -1918,35 +1818,34 @@ gegnen . . . Alles Nötige liegt dort im Schranke . . .“
 „20. ſo . . . -- im Echranke dort, Wallace . .
 Mithin haben Sie zuweilen ebenſall8 dieſe Maske ange-
 legt . Denn daß wir hier an Bord kommen  "vürden,
-konnten Sie vor drei Stunden noh nicht ahnen .
+konnten Sie vor drei Stunden noh nicht ahnen ..."
 
-„Allerdings nicht .
+„Allerdings nicht ..."
 
 „Und die Prau hielt ſich mithin wohl auc<ß zu anderem
 Zwe hier in der Nähe der Küſte bereit. . ?k“
 
 „Sehr richtig -- zu einem ganz anderen Zwekk . . . Ih
-
 benutzte nur die gute Gelcgenheit . . . -- Aber --- ſangen
 wir an . . . Auch ich muß ja vorläuſig den Doktor Wallace
-. ausziehen . “==
+... ausziehen ... “ ==
 
-"Komik? | Abenteuerliche Situation --- oder Tragi-
+Komik?! Abenteuerliche Situation --- oder Tragi-
 fomödie?!
 
-Zwei Detektive und ein fünſjacher Mörder mas-
+... Zwei Detektive und ein fünſjacher Mörder mas-
 kierten ſich, halfen ſich gegenſeitig, rieben ſich die Haut mit
 dem Safte der Sumga-Wurzel ein, wurden braun, wurden
 verwegene Kerle mit kurzen bunten Hoſen, Baſiſandalen,
 bunten Hemden und kühn geſchlungenen Kopſtüchern . . .
 
-Zu zehn Minuten war das alles erledigt.
+In zehn Minuten war das alles erledigt.
 
-ann führte Wallace uns zum Bugaufſbau des plumpen
+Dann führte Wallace uns zum Bugaufſbau des plumpen
 Fahrzeugs und wies uns bier eine Kammer an, in der
-nur ein paar Strohmatten lagen .
+nur ein paar Strohmatten lagen ...
 
-Die Tür ging nach draußen auf Ded .
+Die Tür ging nach draußen auf Ded ...
 
 Wir ſetzten uns . . . Die Tüx blieb offen. Von der
 Beſatzung kümmerte ſich "niemand um uns. E38 machte ganz
@@ -1955,8 +1854,6 @@ Leute ſein --- an die wunderlichſten Dinge gewöhnt wären.
 
 An der Reling rechts lehnten Wallaces Schofſör und
 <@pagebreak/>
-2220000202020 19 0000000200202
-
 der ekelhaſte Diener, beide auch bereit8 in Matroſen ver-
 wandelt. Zwiſchen den beiden kurzen Maſten aber ſtanden
 der Doktor und der Kapitän, der kein Malaie, ſondern ein
@@ -1997,13 +1894,14 @@ Alter . Rauche weiter . Das glühende Pünktchen iſt
 von draußen zu ſehen . . , Dann glaubt Wallace, ich ſäße
 noc auf „demſelben Fle>. Wenn jemand ſich nähert, huſt»
 
-nahm die igarette . .
-as fratzende Geräuſch war verſtummt . . .
+Ich nahm die igarette . .
+
+Das fratzende Geräuſch war verſtummt . . .
+
 OHarſt verichwand von meiner Seite.
+
 Nach einer Weile hörte ich, daß Harakd die Ribe zwiſchen
 <@pagebreak/>
-DEOESSSSSSSSSS 43 DSSSSSSSSSS-S
-
 zwei Brettern der Verbindungswand mit dem Meſſer er-
 weiterte , . .
 
@@ -2027,7 +1925,7 @@ iſt er geknebelt . . . “ |
 
 „Zs dürfte kaum möglich ſein, mein Alter . . .*
 
-„Soe!“
+„So?!“
 
 „Ja . . . Krieche mal und rieche . . |! Krieche -- rieche!
 Da8 reimt ſich . . . mit Nec<t! I< weiß Beſcheid . . .“
@@ -2050,7 +1948,7 @@ Sollte . . . ſollte dort etwa ein Tiger eingeſperrt ſein?!
 
 Im Nu war ich auf meinem Platz neben Harald . . .
 
-„NaL!1“ fragte er . . .
+„Na?!“ fragte er . . .
 
 „Tiger . . !“
 
@@ -2059,7 +1957,7 @@ Vielleicht lernen wir die Beſtie noch näher kennen . . .*
 
 „Meinſt Du etwa, daß . . .“
 
-„» * - . daß Wallace uns vierundzwanzig Stunden nad
+». . . daß Wallace uns vierundzwanzig Stunden nad
 getaner Arbeit als Raubtierfutter benutzen wird --- das
 glaube ic< ziemlich beſtimmt 1“
 
@@ -2068,13 +1966,10 @@ etagigen Kognak . . .
 
 „Und --- und wie denkſt Du Dir dieſe Geſchichte Über-
 <@pagebreak/>
-2DSSSSSSSESDSS (|; SSSSO0SBDEGOC OD
-
 haupt, Harald?“ lenkte iä&! mit tro>enen Lippen auf unſere
-
 Auſgabe über. „Wiuüſt Tu Nellv Simpjon dieſem . . .“
-„Stopp, Mas S«>kraut . . . Von Wollen oder Nicht-
 
+„Stopp, Mas S«>kraut . . . Von Wollen oder Nicht-
 wollen kann hier nicht die Rede fein. Wir baben einigen
 achtzig bis neunzig WVienſchen das Yeben gaercttet, indem wir
 uns zum Gehorjam verpflichteten . . . Sclbſt wenn Nell
@@ -2116,18 +2011,17 @@ Ein netter Schre>? Wenn ich Pech gehabt hätte, würde
 jeyt meine Z Zeigeſingerſpige in einem Tigermagen verdaut
 werden . .
 
-Ich nahm mir vor, do< etwas vorſichtiger zu ſein .
+Ich nahm mir vor, do< etwas vorſichtiger zu ſein ...
 
-Und horchte
+Und horchte....
 
-Aha --- das 'Kraven erflang hier weiter links .
+Aha --- das 'Kraven erflang hier weiter links ...
 
-Ih paßte genau auf .
+Ih paßte genau auf ...
 <@pagebreak/>
-DSSSSDSSSSSSS 45 200SSSSSSSSSDS
 
 Es erklang ſiet3 an derſelben Stelle des einen Brettes
-- dicht über dem Fußboden . ..
+-- dicht über dem Fußboden . ..
 
 Und ich --- tat nun da&ſelbe . ..
 
@@ -2145,7 +2039,8 @@ ein Menſc< -- ein vernunftbegabte8 Weſen, das ebenfalls
 mit drei Kratztönen auf meine drei reagierte!
 
 < verſuchte es no<mals.
-raß -- kraß -- kratß -- kratz...
+
+Kraß -- kraß -- kratß -- kratz...
 
 Und der Unbekannte, der Nachbar in der Tigerbox, ant-
 worteie genau ſo: vier Zeichen!
@@ -2157,9 +2052,9 @@ in dem andern ein Geſeſſelter und Geknebelier. der nur
 gerade mit dem einen Finger ſich auf dieſe Weiſe bemerkbar
 machen konnte . . !
 
-Was nunfk!
+Was nun?!
 
-Und da -- ein glorreicher Gedanke: ich probierte es mi!
+Und da -- ein glorreicher Gedanke: ich probierte es mit
 Morſezeichen!!
 
 Lang lang kurz -- durc< Kratztöne . ..
@@ -2170,19 +2065,17 @@ Glänzend ging das! Der Nachbar war nicht auf den
 Kopf gefallen. Wenn er das Morſcalphabet genau ſo gut
 beherrſchte wie ich, dann mußte er mich verſtehen!
 
-Alſo -- zunächſt der Anruf .
+Alſo -- zunächſt der Anruf ...
 
-' Dann der Buchſtabe a: kurz lang
+' Dann der Buchſtabe a: kurz lang....
 
 Siehe da: der Unbekannte telegräphierte als Antwort
-ß: lang furz furz furz .
+ß: lang furz furz furz ...
 
 Pauſe...
 
 Und ich: den Buchſtaben c: lang kurz lang kurz...
 <@pagebreak/>
-2SSSOSSSSSSS 16 D08020802002202022
-
 Pauſe . . . =- Nun wußten wir beide, wie wir mitein-
 ander daran waren. Nun begann der Herr von drüben:
 
@@ -2231,9 +2124,7 @@ Ginüber:
 
 „Wir belſen Ihnen . . . Wir befreien Sie . . .*
 
-<<<
 <@pagebreak/>
-DSSSDSSSSSSSS 47 DSSSSSSSSSSS
 
 3. Kapitel.
 
@@ -2247,7 +2138,7 @@ im Bereich ſeiner Hände.
 Der Tiger meldete ſich nicht.
 
 Harald zog die Kiſte mit aller Kraft ganz dicht vor das
-Loch und nahm nun die Kiſtenbreiter in Behandlung .
+Loch und nahm nun die Kiſtenbreiter in Behandlung ...
 -- mit der Stichſäge . .
 
 Auch hier [chuſ er ſo ein Loh, durch das er dann dem
@@ -2261,15 +2152,14 @@ ris ſich ſelbſt auſ.
 Ich kam nun herbei und hörte zu ...
 
 „Wir hatten auſ Sumatra an der Südküſte, unweit eine“
-Stußmöndung, für Hagenbek>k exotiſche Tiere geſangen . ..
-
+Stußmöndung, für Hagenbeck exotiſche Tiere geſangen . ..
 nſer Schoner wurde eines Nachts überfallen. Wir waren
 drei Deutſche und ſechs Inder aus Bombay. Meine weißen
 Kollegen konnten an Land flüchten. Mich nahmen die Ma-
 laien mit . . . Sie hatten e3 offenbar auf den Tiger ab-
 geſehew. Ich ſte>e ſeit acht Tagen in dieſem Kaſten, werde
 aber gut verpflegt. Wenn man mir Eſſen bringt, jagen die
-Malaien den Tiger in die dritte Kammer nebenan ....
+Malaien den Tiger in die dritte Kammer nebenan ...."
 
 Nun -- das war kurz und bündia . . !
 
@@ -2279,7 +2169,6 @@ Harald meinte:
 lauſen, Herr Dietrich. Trauen Sie es ſich zu, an Land
 fc<wimmen zu können?“
 <@pagebreak/>
-DSSSSSSSSSSS 48 020S0S0SSSSSSSS
 
 „Sanz gewiß, Herr Harſt .
 
@@ -2316,7 +2205,7 @@ Fritz Dietrichs ſtoppelbärtiges Geſicht war das eines
 Mannes von vielleicht dreißig Jahren -- ein fühnes, ener»
 giſches Geſicht mit graublauen, luſtigen Augen .
 
-Die Lampe erloſch .
+Die Lampe erloſch ...
 
 HändedrüFe dann . . . Herzliche Dankesworte des
 Landsmannes, der in keiner Weiſe verſucht hatte, uns aus-
@@ -2330,7 +2219,6 @@ Ih ſah einen Schatten über die Reling gleiten --- ſah
 zndeutlich in der Ferne das Licht einer Leuchtboje wie einen
 verſchwommenen Fle> . . .
 <@pagebreak/>
-DSSSSSSSSSSS 49 DSSSSSSSSSSSD
 
 „So,“ meinte Harald, „nun wird der Tanz mit den
 Malaien hier wohl ſehr bald lo8gehen. Dietrichs Flucht
@@ -2348,42 +2236,37 @@ einfügen . . . Hilf mir . .“
 
 Cs war nicht zu umgehen, daß wir hierbei wiederholt
 die Taſchenlampen einſchalieten. Als Harſt die herausge-
-
-aten Stücke der Kiſtenwand einpaßte, als ich ihm dabei
+säaten Stücke der Kiſtenwand einpaßte, als ich ihm dabei
 e, ſchnellte plötßzlich der Tiger mit kurzem Brüllen
-
 auf den hellen Fleck zu, ſtieß die Kiſte um und ſchob den
 Ro halb durch das viere>ige Loch in der Verbindungs-
+wand ...
 
 Vor dem grellen Lichtkegel der Taſchenlampe, die ich
 ihm raſch dicht vor die Augen hielt, wich er wieder zurück.
 Harald ſchob ſchnell das Brettſtück in die Oeſſnung und be-
-
 gte es, indem er ein paar Holzſtüdchen in die Riten
-
-te,
+klemmte,
 
 Die Beſtie meldete ſich nict mehr . ..
 
 „Gott [ſei Dank . . 1“ flüſterte Harald aufatmend. „Das
 hätte uns noch gerade geſehlt, daß wir den Tiger womöglich
-
-ten erſchießen müſſen . . !“
+hätten erſchießen müſſen . . !“
 
 Vir warteten . .
 
-Wir hörten die Beſtie unruhig hin und her gehen .
+Wir hörten die Beſtie unruhig hin und her gehen ...
 
-Und da hinter uns eine Stimme: Doktor Wallace! -
+Und da hinter uns eine Stimme: Doktor Wallace:
 
-„»DLe ==“ was treiben Sie denn dort, Mr. Harſt . . .*
+»He == was treiben Sie denn dort, Mr. Harſt . . .*
 --- Unſere Köpfe fuhren herum ...
 
 Wallace brachte unter ſeiner Leinenja>e eine kleine
 Karbidlaterne zum Vorſchein . Der Lichſtreiſen traf den
-Boden der Kammer, das helle Sägemehl .
+Boden der Kammer, das helle Sägemehl ...
 <@pagebreak/>
-SSDSSSSSSSSSS 30 DSSSSSSSSDST
 
 „Teufel --- was bedeutet das? 1“ rief Wallace ſihtliG
 mißtrauiſch . . .
@@ -2399,12 +2282,12 @@ wollte. .
 Und wir erhoben uns . . . Standen nun eng beiein-
 ander, wir diel . . .
 
-3) Wallace ſchien vollkommen verblüfft über Harſtk
-orte...
+Wallace ſchien vollkommen verblüfft über Harſtk
+Worte...
 
 „Wie -- ein Gefangener?!“ meinte er kopfſchüttelnd,
 „Dort im Nebenverſchlag ſteckt ein Tiger . . . Von einew
-Gefangenen weiß ich nichts .
+Gefangenen weiß ich nichts ..."
 
 „Und was wiſſen Sie aber den Tiger, Waklace?“
 
@@ -2428,13 +2311,12 @@ er den Deutſchen erſäuft --- gut -- die Sache wäre erledigt
 geweſen . . !“
 
 Er war wie ſinnlos in dieſem Moment . . . Er konnte
-fRch nicht beherrſchen . . . Sprudelte weiter hervor:
+sich nicht beherrſchen . . . Sprudelte weiter hervor:
 
 „Dieſer Sadato . . !! Und belogen hat er mich -- --
 belogen! Dieſer gelbe Affe --- --«: Sie beide hier in dieſer
 Kammer zu laſſen --- gerade Sie beide . . '!“
 <@pagebreak/>
-DSSSSSSSSSSS 31 09SSSSSSSSSSDSDS
 
 Harſt meinte mit einer Handbewegung nach dem Brett-
 früd hin:
@@ -2444,13 +2326,13 @@ aber an unſer Verſpre>en gehalten, Wallace . . . Frit Diet-
 rich weiß nichts von Ihnen, Wallace . Wir ſagten ihm
 nur, daß wir auſ der Prau bleiben müßten und daß er unjere
 Anweſenheit hier verſchweigen, ſonſt aber nach Gutdünken
-handcln jolle . ..
+handcln jolle . .."
 
 Wallace ſtarrte Harald an ...
 
 „Rach Gutdünken . . !!“ Seine Wut loderte wieder
 auf . . . „Ja -- nach Gutdünken . . 1! Die Prau wird alſo
-in Kalkutta von der Haſenpolizei . . .
+in Kalkutta von der Haſenpolizei . . ."
 
 Laute Stimmen auſ De> . . .
 
@@ -2465,10 +2347,10 @@ Wallace preßte hervor:
 ich erinnere Sie an Ihr Ehrenwort . . . Sie ſchweigen . . .
 Sie beide ſind Matroſen der Prau . . 1“
 
-„Dieſe Sätze waren überſlü ſig,“ erklärte Harald kalt...
+„Dieſe Sätze waren überſlüsſig,“ erklärte Harald kalt...
 
 Draußen an Dec rannten die Malaien durcheinander ...
-Der kleine vertrocknete Sadato ſluchte .
+Der kleine vertrocknete Sadato ſluchte ...
 
 Wir traten in die Tür...
 
@@ -2488,10 +2370,8 @@ Sie abgefaßt . . . Sie haben in dieſer Nacht weſtlich der
 Huglimündung beim Dorfe Makri Schmuggelware aus8ge
 bootet. Alles ift beſchlagnahmt . . . I< verhafte Sie und
 <@pagebreak/>
-2L0ü02L00DD0S00808000S8 5329 0000202022022 22
-
 die ganze Beſatzung . . . Jeder Widerſtand würde Ihre
-Lage nur verſchlimmern . . /“ = =--
+Lage nur verſchlimmern . . .“ = --
 
 Als die Conne ihre erſten Strahlen durch das ſich immer
 mehr lichtende Iegengewölk! ſandte, war die Prau im Hafen-
@@ -2503,12 +2383,12 @@ Wallace waren bi8ber als verkleidete Europäer nicht erfannt
 worden.
 
 Ih. Max Schraut, rieb mir heimlich die Hände vor
-Vergnügen . .
+Vergnügen . ..
 
 Mit dew Entführung Nelly Simpſons war es nun
-nichts .
+nichts ...
 
-Aber , 6...
+Aber ...
 
 Aber -- --- ich hatte mich zu früh gefreut. Kaum hatten
 die Zollbeamten, die gegen ſieben Uhr morgens die Prau
@@ -2521,9 +2401,9 @@ gerade ſrühſtückien . . .
 zur Flucht verhelfen . . . Ich muß in einer Stunde von
 Bord ſein . Gelingt es Ihnen, mir die Freiheit zu ver»
 ſchaffen, ſo entbinde ich Sie aller weiteren Verpflichtungen ..
-Ich bin nicht ſicher, ob Sadato mich jetzt nicht verrät .
+Ich bin nicht ſicher, ob Sadato mich jetzt nicht verrät ..."
 
-„Sie . . . verzichten alſo auf Nelly Simpſon . . u.
+„Sie . . . verzichten alſo auf Nelly Simpſon . . ."
 
 Wallace lächelte . . . Er war ganz ruhig . . . Er lächelte
 wieder wie im Klub ...
@@ -2538,7 +2418,6 @@ weiß" ic< nicht . . .“
 Und er ſtand auf, winkte mir. Wir gingen langſam
 an der Reling entlang. Waklace kam hinter uns her...
 <@pagebreak/>
-' S&ESSSSSSSSSS 33 2D00S0S0SSSSSSEDD
 
 Die Zollbeamten hatten die Prau von allen Seiten ge-
 ſichert. Auſ dem Bollwerk patronillierten vier der braunen
@@ -2551,8 +2430,6 @@ Bord ſein?! Jh kann doch nicht zaubern . . .“
 
 „Ich muß weg . . !“ Und des Mörders ſchmale Lippen
 zogen ſich wie im Krampſ zuſammen . . .
-
-ZZ ZT
 
 4. Kapitel.
 
@@ -2570,24 +2447,21 @@ Der Doktor beugte ſich vor. . .
 
 „Aber . . ?1 --- Reden Sie weiter . . 1!“
 
-„Aber „ch hätte dann Ungelegenheiten mit der
-Bolizei .
+„Aber ich hätte dann Ungelegenheiten mit der
+Bolizei ..."
 
 „Das ift in dieſem Falle wohl gleichgültig - - ! Ehv
-fiches Spiel, Mr. Harſt . Neden Sie .
+fiches Spiel, Mr. Harſt . Neden Sie ...!"
 
 Haralds Blicke Meiſten über die Umgebung des Zoll-
-
 baſſins hin ., . . Drüben ſtanden die Gebäude . . . Eine
-
 hohe Mauer begrenzte den weiten Platz . . . Warenſtapel
 lagen unter weißen Segeln . . . Arbeiter und Beamte eilten
-hin und her .
+hin und her ...
 
 „Gut -- gehen wir in die Heckkajüte . ; I< werde
-ſchreiben . ... Und Harft | ſ<lenderte zum Sed .
+ſchreiben . ... Und Harft | ſ<lenderte zum Sed ...
 <@pagebreak/>
-SüSSSSSSSSSSSS 31 DSCHSSSSISSSS
 
 In ver Kajüte fragte der Doktor argwöhniſch: „Was
 werden Sie ſchreiben ?“
@@ -2641,15 +2515,17 @@ einen Marſch auf der Tiſchplatte . . .
 
 Seine Augen irrten unſtät umher . . .
 <@pagebreak/>
-DSSSSSSSSSSS 533 SSSSSSSSSSSSD
 
 „Was haben Sie eigentlich, Wallace?“ fragte Harald
 Langſam. „Ihre Unruhe iſt ſchr meritwürdig . . .“
-„» Durchaus nicht . . 1!“ Und ex rauchte eine Zigarette
+
+»Durchaus nicht . . 1!“ Und ex rauchte eine Zigarette
+an ...
 
 Schweigen . . .
+
 Auf Dek lungerten ein paar Mann der Beſatzung um-
-"ver, Die Kajütentür ſtand oſſen . . . Die Malaien waren
+her, Die Kajütentür ſtand oſſen . . . Die Malaien waren
 ze genüber der Beichlagnahme der Prau ſchr hundeſchnäuzig.
 Z1te batten wenia zu fürchten -- vielleicht ein paar Wochen
 Geſängnis . . . Was machte ihnen das aus?!
@@ -2661,10 +2537,10 @@ Der Mann war mir in vielem noch ein Nätſel . . .
 Die Zeit verſtrich . . . Wir blieben ſtumm . . .
 
 Bis ganz plötlich der Tiger in ſeiner Vorſchiſſkammer
-„u ;aulen begann . . ,
+zu jaulen begann . . ,
 
 Vielleicht hatte ihn einer jener jähen Wutanſälle gepackt,
-'%te jedes wilde Tier in der erſten Zeit der Geſangenſchaft
+die jedes wilde Tier in der erſten Zeit der Geſangenſchaft
 IUrchzumachen hat . . .
 
 Das viere>ige Loch in der Zwiſchenwand war Übrigens
@@ -2697,11 +2573,8 @@ Er zute die Achſeln . . .
 I-ß habe das Meinige getan . . . Sobald er die Prau vev
 daſien hat, endet unſer Kontrakt . . .“
 
-an
 <@pagebreak/>
-DSSSDSDSSSSS 36 SSSES0ISSSSSSISS
-
-„» Nun ja . . . Und dann?!“
+» Nun ja . . . Und dann?!“
 
 „Das wirſt Du ja miterleben, mein Alter . . . =- Aba ---
 -- ein Beamter kommt gelauſen . . . ſpricht mit dem anderen,
@@ -2725,7 +2598,7 @@ Farbe geſänbert .
 
 In fünf Minuten waren wir Europäer geworden . . -
 
-Und ſo im Frack zeigten wir uns den Zollbeamten .
+Und ſo im Frack zeigten wir uns den Zollbeamten ...
 
 So rief Harald ſie an...
 
@@ -2737,7 +2610,7 @@ Harſt ſagte haſtig: „Wir ſind die deutſchen Detekttde
 Harſt und Schraut ... "Führen Sie uns zu einem enrso-
 päiſchen Veamten drüben in den Gebäuden . . .“
 
-Cs ge'hah .
+Cs ge'hah ...
 
 Von dem Büro aus 1telephonierte Harald an Robert
 Simpſon . . .
@@ -2755,7 +2628,6 @@ zu Ihnen . . .“
 6 Man hatte bereits ein Mietauto für uns herbed-
 geholt...
 <@pagebreak/>
-DSSSSSSSSSSS 37 00SSSSSSSSSSSD
 
 Als wir im Polizeigcbäude eintraſen, ſtand Inſpekto1
 Collins in der Vorhalle...
@@ -2784,7 +2656,7 @@ Er nahm Haralds Hand ...
 
 „Helfen Sie . . ! Dieſer Schurke von Wallace ftec>i
 dahinter . . - Weiß Gott, wie er das Mädel in den Garten
-gelockt hat .
+gelockt hat ...! --
 
 Wir durchſuchten den Garten . Wir entde>ten auc<
 nicht die allergeringſte Spur von FNußeindrücken -- weder
@@ -2806,7 +2678,6 @@ dem Hauſe zu loken?! Der Brieſ kann doch nur eine Fäl-
 
 Codanoor nicte . ..
 <@pagebreak/>
-2200022220222 53 0200020220202222 -
 
 Und Collins rief: „Der Scuft hat ſicherlih Ihren
 Namen mißbraucht, Mr. Harſt . . .“
@@ -2819,7 +2690,6 @@ Harſt blickte zu Boden . . . meinte nachvenklic<h: „Wal-
 lace war als Malaie verfleidet . E53 gibt nur eine Er-
 ärung: er hat Miß Simpſon hypnotiſiert . Und ſie iſt
 freiwillig mit ihm gegangen . . . Das Paar muß bemerkt
-
 worden ſein. Sie können den Garten nur durch die Hinter-
 pſorte verlaſſen haben . . Die iſt unverſchloſſen, wie wir
 ſchon ſahen . . .“ --
@@ -2857,16 +2727,15 @@ eigenen Heim vielleicht am ſicherſten iſt . . .“
 
 Zwei Autos jagten davon . . . Zum Fluſſe hinab . ..
 Nach dem Bungalow, der mitten auf dem ehemaligen Je-
-fuitenſriedhof ſtand .
+fuitenſriedhof ſtand ...
 
-Schon vorher ließ Harfſt die Wagen halten .
+Schon vorher ließ Harfſt die Wagen halten ...
 <@pagebreak/>
-2D22.0200D202002002S8D 539) 2000202020200 2000
 
 „Schraut und ich ſind genug, Sir Codanoor . . . Dieſe
 Sache erſordert ſubtile Behandlung . . . Cin Menſch wie
 Wallace würde ſich und Nelly erſchießen, wenn er ſich um-
-ſtellt ſicht .
+ſtellt ſicht ..."
 
 Wir beide gingen bis zum Parfgitter. Die Gitterpſorte
 neben der Einſahrt war verſchloſſen. Wir kletterten hin-
@@ -2875,18 +2744,18 @@ verſammelt --- johlte -- kreiſchte . . . Collins kam gelauſen
 und verſchceuchte ſie . . .
 
 Wir ſchlichen auf Umwegen dur< die Büſche dem Bun-
-galow zu .
+galow zu ...
 
 Die grünen Fenſterläden waren ſämtli< herabge-»
-laſſen . . . Still und tot lag das weiße Gebäude da .
+laſſen . . . Still und tot lag das weiße Gebäude da ...
 
 Wir näherien uns vorſichtig der Treppe der rückwärtigen
 Veranda...
 
-Lauſchten .
+Lauſchten ...
 
 Krochen die Stufen empor, dann auf der Veranda um
-das Haus herum .
+das Haus herum ...
 
 Lauſchten . . .
 
@@ -2897,7 +2766,7 @@ Wenn ich mir jemals eine brutale Situation tieriſcher
 Gewalttat gegen ein Weib ausgemalt habe -- hier dachte
 ich an das Grauenhafteſte . . !
 
-Alles ſtill . . . totenſtill .
+Alles ſtill . . . totenſtill ...
 
 Und Harald flüſterte, indem er auf die Schwelle der
 Vorvdertür deutete:
@@ -2906,17 +2775,17 @@ Vorvdertür deutete:
 Reſte einer großen Spinne, die von der Eidechſe verzehrt
 worden iſt . . . Hier iſt niemand innerhalb der lezten Stunde
 eingetreten . . . Auch die Siegel ſind unverletzt --- wie an
-der Hintertür . . Ich .
+der Hintertür . . Ich ..."
 
 Schritte rechts . . auf der Treppe . . . Ein blonder
-Mann im Sportanzug . . Ni>kt uns zu .
+Mann im Sportanzug . . Ni>kt uns zu ...
 
 „Richt wahr, Herr Harſt und Herr Schraut -. ?“ fragt
-er auf deutſch .
+er auf deutſch ...
 <@pagebreak/>
-SSSSSSSSSSSS 6) SSSSSSSSSSSS
 
-Dietrich!!" ruſt Harald. „Wo kommen Sie denn her?“
+"Dietrich!!" ruſt Harald. „Wo kommen Sie denn her?“
+
 Und Frith Dietrich erwidert:
 
 „Dort unten von der Waſſerpforte des RParke83, Herr
@@ -2925,18 +2794,14 @@ abgeiagt . ..“
 
 Wir beide ſind wie Salzſäulen . ..
 
-„Nelly Simpfon?“ fragt Harald .
+„Nelly Simpfon?“ fragt Harald ...
 
 „„SCdenſalls eine weiße Miß . . Wie ſie heißt --- keine
-Ahnung . . ! Sie iſt anſcheinend nicht recht bei Sinnen .
-
+Ahnung . . ! Sie iſt anſcheinend nicht recht bei Sinnen ...
 Sie ſit auf einer Bank neben der Waſſcrpſorte . . .“ und
 er zeigt nach Weſten . . .
 
-<==
-
 5. Kapitel.
-
 Als die Spinnenfinger abrutſchten . .
 
 So ſc<licht ſagt Fritz Dietrich das, als ob es ſich um
@@ -2955,7 +2820,6 @@ ein malaiiſcher Matroſe ....
 Wir hören nicht darauf . . . Der Scuft kann zurück
 kehren, und Nellys geiſtiger Zuſtand, wie Dietrich ihn ſo kurz
 gefennzeichnet hat, läßt nur die Deutung zu, daß das junge
-
 ädchen noh immer in hypnotiſchem Schlaf ſich beſindet . . .
 
 Wir biegen um eine Hecke . . . Dort die Waſſerpforte
@@ -2964,7 +2828,6 @@ Ein Malaie darin, der ſoeben anlegen will ....
 
 Sieht uns. .
 <@pagebreak/>
-220Sü0SSSSSSSSS 61 2200020202000 2000
 
 Wallace . . '!!
 
@@ -2980,9 +2843,9 @@ Nelly ſitt dort links auf eincr Bank -- in jich zuſammen-
 acſunfen . . .
 
 Und -- -- vor ihr -- -- bei Gott -- -- das iſt John
-Goll:izv . . . ſoeben aus den Büſchen ſpringend . .,
+Gollizv . . . ſoeben aus den Büſchen ſpringend . .,
 
-„ohn Gollipp, vor Nelly in die Knie ſinkend . ..
+John Gollipp, vor Nelly in die Knie ſinkend . ..
 
 Wir jagen durch die Pforte auf den Anlcaeſteg, der
 hier zum Grundſtück gehört . . . Zwei angckettete Boote. . .
@@ -3006,34 +2869,32 @@ Wallace bicgt jeht in einen Seitenarm ein . ..
 Oh --- den kennen wir . . . Es iſt die Einſahrt zum
 Zollbaſſin . . | -+ Zſt der Menſch wahnſinnig, dieſen Weg
 zu wählen?! Hier in dieſem gemauerten Binnenhafen gibt
-
 es für ihn keine Rettung . .
 
-Haralds ſchweißtriefendes Geſicht dreht ſich .
+Haralds ſchweißtriefendes Geſicht dreht ſich ...
 
-Wallace rudert der Prau zu .
+Wallace rudert der Prau zu ...
 
 Iſt der Menſch von Sinnen?!
 
 Und -- vorbei an den Wachtbooten der Zollbeamten
 ſchießt ſein Nachen . . . Hinein in den Winkel des Baſſins
---“- heran an die Prau .
+--“- heran an die Prau ...
 
 Wir keine fünf Meter mehr ab...
 <@pagebreak/>
-2000020202020 2020 62 0000002020220
 
 Da iſt er ſchon an De> . . . verſchwindet uns aus
 den Aunen
 
 Wi hnterdrein auf der Strickleiter . . . Wir ebenſall<
-an Teck . ,
+an Teck . ,.
 
 Schen Wallace . . . Er ſteht vor der Balkentür des
 Käinigs . . Cr reißt die Cuſenricgel zurück --- --- die Tür
-auf . Wil ſic) anj das Dahm des Bugauſbaus
-“ebwinaen. ſindet an dem Zinkblech mit den Spinnenfingern
-feinen Halt .
+auf ... Wil ſic) anj das Dahm des Bugauſbaus
+ebwinaen. ſindet an dem Zinkblech mit den Spinnenfingern
+feinen Halt ...
 
 Se.ne Beine, ſcin Umerleib baumeln gerade vor der
 vſſenen Tür , .
@@ -3041,16 +2902,16 @@ vſſenen Tür , .
 Mit dem linken Knie ſucht er ſich auf den Türrand zu
 ſtühen . . .
 
-Gleitet wieder zurück .
+Gleitet wieder zurück ...
 
-Seine Beine zucden .
+Seine Beine zucden ...
 
 Nochmals kommt er ein Stück empor, ſcheint jetzt einen
 Halt geſunden zu haben . ..
 
-Und -- ruticht doch zurück ,
+Und -- ruticht doch zurück ,..
 
-Hängt vor der Türöſſnung .
+Hängt vor der Türöſſnung ...
 
 Ein dunkelaclber Katzenleib Ichnellt aus der Dämmerung
 der Kammer hervor . . .
@@ -3058,35 +2919,37 @@ der Kammer hervor . . .
 Reißt den Doktor mit -- im Bogen mit auf die Ded>-
 planken . . .
 
-Ich wende mich ab .
+Ich wende mich ab ...
 
-Ein Schrei gellt auf .
+Ein Schrei gellt auf ...
 
 ſ vein Kreiſchen, das in die Nerven ſti<t wie glühende
 adelin . . .
-Dann ein noch entſetzlicheres Geräuſch .
+
+Dann ein noch entſetzlicheres Geräuſch ...
 
 Als ob ein halb gefüllter Topf zerſchlagen wird . . .
 
 Und Harſt ſteht neben mir, das Geſicht vem Furchtbaren
-ptgefehrt .
+ptgefehrt ...
 
 Sagt jebt:
 
 „Der Tiger hat die fünf gerächt --- die fünf Ermordeten
-
-. Der Tiger ſchleppt die Leiche in die Kammer . . .“
+... Der Tiger ſchleppt die Leiche in die Kammer . . .“
 
 Und er läuft vorwärts . . .
 
 Icy ſchaue hin...
 <@pagebreak/>
-DSSSSSSSSSSS (63 DSSSSSSSSSSDD
 
 Er ſ<mnettert die Tür zu, ſchiebt die Ricgel vor . ..
+
 Verſtörte Zollbeamte kommen an Dce> . . . Wollen die
 Beſtie durch das Türſenſter erſchießen . . .
+
 Harſt wehrt ab . . .
+
 „G8 wäre ſchade um das Tier . . . Der Menſch, den
 Ir Tiger jetzt zerreißt, war mehr Beſtie als die gelbe
 aße... “
@@ -3100,7 +2963,7 @@ Gollipp, ver zum Mörder geſtempelt werden ſollte -- an
 Edward Wallaces dünnes Mörderlächeln, in dem ſich die
 ungehceuerliche Gemeinheit einer Schurkenſecle ofſenbarte ...
 
-Mochte dem Tiger die Mahlzeit befonimen! Man wird
+Mochte dem Tiger *die* Mahlzeit befonimen! Man wird
 hart, wenn man die Abgründe menſchlicher Verworſenheit
 kennt . . . =
 
@@ -3127,16 +2990,14 @@ zum Tore hinaus . . . Es war ſo eine Eingebung des
 Augenbli>ks, daß ich ihm nachſ<hlih . .. So wurde id
 Zeuge der Entführung Miß Nellys . . . Aber erſt an der
 <@pagebreak/>
-DSS0802020220200Dd22 () 202000202022220202
-
 Waſſerpſorte merkte ich, daß cs eine Weiße war . . . Alk
 ich ihn nun zur Rede ſicllte, ſpiang er in einen Nachen . . .“
 
 Wir drei ſianden etwas avjeits . . .
 
-Und leiſe fügte Fritz Dic:rich hinzu“
+Und leiſe fügte Fritz Dictrich hinzu“
 
-- „Herr Harſt, ih möchte Jhbhnen noF<H etwas anver-
+„Herr Harſt, ih möchte Jhbhnen noF<H etwas anver-
 trauen . . . etwas, das gerade für Sie Intereſſe haben
 dürfte . . . Id ſagte Ihnen ja jhon, daß wir auſ Sumatra
 allerlet Viehzeug eingefangen baben . . . Und dabei habe
@@ -3155,186 +3016,9 @@ Jeder Dank iſt überflüſſig . . . Hier ſteht Ihr Retter: Lands-
 mann Fritz Dietrich!“ --
 
 Und dieſem friſchen vergnügten Fritz Dietrich verdankten
-wir das Abenteuer mit der
+*wir* das Abenteuer mit der
 
 Villa mit den vier Schornſteinen,
 
 das ich meinen Freunden und Leſern im folgenden Band
 ſchildern will.
-<@pagebreak/>
-<@pagebreak/>
-Titel- Verzeichnis der Harald Harst- Bändchen.
-
-114.
-115.
-116.
-117.
-
-118.
-119.
-
-122.
-123.
-124.
-125.
-
-126.
-127.
-128.
-
-129.
-
-133.
-139.
-
-140.
-
-141.
-142.
-
-Der Mann m. d. Glasauge.
-Der Kopf d. Maharadscha.
-Die Treppe des Todes.
-Doktor Groupys Ver-
-hängnis.
-
-Das Geisterschiff.
-
-Der Tennisschläger-
-Rani.
-
-Das Piratendorf.
-
-Die Hexcnküche.
-
-Das Geheimnis von H.O.3.
-Die Gräfin mit den Kor-
-moranen.
-
-der
-
-Der Bouillonkeller Nr.113. !
-
-Der tote Tümmler,
-
-Das Erbe des Verscholle-
-nen.
-
-Das Geheimnis der Drabu-
-Fälle.
-
-. Die Faktorei a. der Toten-
-
-insel.
-
-. Das gestohlene Auto.
-
-. Das KRätsel d. Spielkarten.
-. Die Diamanten d. Bettlers.
-. Die Photographien-d. Sen-
-
-nor Trimaldo.
-
-. Der Kokain-KAlub.
-. Harald Harsts zweite Lrebe.
-
-7i. Baron TisSsanders Schau-
-kel.
-
-Das Erbbegräbnis.
-
-Das Gestade der Ver-
-gesscnheit.
-
-Die Wachspuppe d. Tröd-
-lers.
-
-Der Maskenball d. Toten.
-Die YVilla mit den vier
-Schornsteinen.
-
-143.
-
-144.
-145.
-
-146.
-147.
-148.
-
-149.
-150.
-
-168.
-
-. Der
-
-. Das
-. Der
-. Der
-163.
-. Der
-165.
-. Miß Grandells letzte Nacht.
-167.
-
-Das Gespenst von Jan
-Maven.
-Das gebhemmmnisvolle lloß
-
-Dice Familientruhe der Dar-
-lmgtons.
-
-Die drei Finger Ben Ben:
-SONS.
-
-Die TFurstin der Gwala-
-Berve.
-
-Der Fakir obne Arme.
-Joe Billwakers Verbrechen.
-Das Geheimnis des Per:
-lentauchers.
-
-. Rurg Totenhal!.
-2. Das Untergrundbahnge-
-
-Spenst
-Geisterberg Schara
-Schaka.
-
-. Die rote Rakete.
-3. Der Traum der Ladv Gul.
-
-branor.
-
-. Der Geheimbund d. zwölt
-
-Schlüssdcl.
-
-. Das Geheimnis des Sana:
-
-toriums Waldesruh.
-
-. Die Insel d. Verstorbencen.
-. Miß Wells Seltsames
-
-Abenteuer.
-
-Haupt der Schinta.
-Spiritistenklub.
-
-Mann aus Eisen.
-Geheimnis d. Pagode.
-Gentlemen- Pirat.
-
-Das Rätsel d. 3 Schlüssel.
-
-Das
-
-Das Geheimnis des Insel:
-
-* forts.
-
-Das Wespennest von P0-
-tanur,
