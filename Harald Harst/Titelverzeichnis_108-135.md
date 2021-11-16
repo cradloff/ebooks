@@ -24,7 +24,7 @@ Eine Reihe höchst spannender Detektivabenteuer. Bisher sind folgende Bände ers
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">126:</td><td>Der Bouillonkeller 113.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">127:</td><td>Der tote Tümmler.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">128:</td><td>Das Erbe der Verschollenen.</td></tr>
-<tr><td style="text-align: center;">  " </td><td style="text-align: right;">129:</td><td>Das Geheimnis der Dabri-Fälle.</td></tr>
+<tr><td style="text-align: center;">  " </td><td style="text-align: right;">129:</td><td>Das Geheimnis der Drabu-Fälle.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">130:</td><td>Die Faktorei auf der Toteninsel.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">131:</td><td>Das gestohlene Auto.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">132:</td><td>Das Rätsel der Spielkarten.</td></tr>

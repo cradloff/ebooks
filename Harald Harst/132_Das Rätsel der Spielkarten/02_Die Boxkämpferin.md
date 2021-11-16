@@ -111,7 +111,7 @@ Loog: »Na – im Vertrauen, meine Herren: sie heißt eigentlich Nora Link … A
 
 Harst: »Und die Gilda?«
 
-Loog: »Bei Gott – keinen Schimmer, wer das ist! Aber – mein Star ist’s! Und – fraglos was Besseres – fraglos! Das merkt man …« – Und gedankenvoll rieb er seine Backe, was daraus schließen ließ, daß Gildas zarte Hand unzarte Zärtlichkeiten dieses kleinen Scheusals gebührend abgewehrt haben mochte.
+Loog: »Bei Gott – keinen Schimmer, wer das ist! Aber – mein Star ist’s! Und – fraglos was Besseres – fraglos! Das merkt man …« – Und gedankenvoll rieb er seine Backe, was darauf schließen ließ, daß Gildas zarte Hand unzarte Zärtlichkeiten dieses kleinen Scheusals gebührend abgewehrt haben mochte.
 
 Loog (fortfahrend): »Sie kriegt ihr Geld – und damit ist’s dann auch aus mit den Beziehungen … Mit den übrigen Mächens redet sie kaum ’n Ton … Aber boxen kann sie – – boxen!! Unglaublich!«
 
@@ -274,8 +274,8 @@ Wir kamen an Nummer 2 vorüber …
 
 Papptafeln hingen an der Haustür:
 
-<p class="centered pre"><em>Möbl. Zimmer
-zu vermieten!</em></p>
+<p class="centered pre"><em>Möbl. Zimmer</em></p>
+<p class="centered pre"><em>zu vermieten!</em></p>
 
 Ja – die möblierten Zimmer waren jetzt im Überfluß zu haben. Jede dritte Familie vermietet. Not schreit an allen Ecken und Enden … –
 
@@ -752,7 +752,7 @@ Wir hatten uns zu ihr an den Diwan gesetzt, hörten nun, daß Eva Larda in die V
 
 Unter häufigem Schluchzen und mit längeren Pausen erzählte sie dies alles im Tone tiefster Reue …
 
-Haralds zarte, menschenfreundliche Art gab ihr immer mehr die Gewißheit, daß für sie noch eine Umkehr ans diesem dunklen Pfade möglich sei …
+Haralds zarte, menschenfreundliche Art gab ihr immer mehr die Gewißheit, daß für sie noch eine Umkehr auf diesem dunklen Pfade möglich sei …
 
 »… Als Eva mir nun erklärte, sie wolle das daneben wohnende dicke Fräulein ausplündern, sah ich das Unheil für mich voraus … Ich flehte Eva an, auf mich Rücksicht zu nehmen … Die Polizei würde sich einmischen, und ich, die man ohnedies wegen meiner – Verfehlungen im Cafee Royal suchte, würde dieses Obdach verlieren und – verloren sein … Bevor ich noch recht wußte, was geschah, hatten dann schon die beiden Männer sich über mich geworfen … Ich atmete Chloroform ein – wollte um Hilfe rufen … – Mehr weiß ich nicht …«
 
