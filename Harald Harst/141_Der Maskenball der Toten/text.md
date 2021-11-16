@@ -1,32 +1,32 @@
 <@pagebreak 3/>
 
-Der Maskenball der Toten
+<h1>Der Maskenball der Toten</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Miß Simpsons Bewerber.</h3>
 
-Der farbige Diener in der blendend weißen Leinen-livree
+Der farbige Diener in der blendend weißen Leinenlivree
 der Angestellten des vornehmsten Klubs in Kalkutta
-reichte auf silbernen Platte ei8aekfühlte Liköre, ein besondere?
+reichte auf silberner Platte eisgekühlte Liköre, ein besonderes
 Gemisch, Erfindung Sir Godwin Codanoors, des Polizeichefs
 der Riesenstadt.
 
-Wir lassen zu sechs in einer Ecke des Billardsaale8 des
+Wir saßen zu sechs in einer Ecke des Billardsaales des
 Royal-Klubs und verfolgten von unseren erhöhten Plätzen
 aus mit aller Aufmerksamkeit eine Billardpartie zwischen
-Doktor Edward »Wallace und dem Major Collerlund vom
-5\. indischen Reiterrcnaiment.
+Doktor Edward Wallace und dem Major Collerlund vom
+5\. indischen Reiterregiment.
 
 Die beiden schlanken Engländer waren hier die besten
 Billardspieler. Sie spielten überaus vorsichtig, und wenn
 einer von ihnen eine längere Serie machte, schien die den
-(Gegner in einer bei einer harmlosen Billardpartie sonst ungewohnten
-Weise auszulegen. Wenigstens hatte ich diesen Eindruck
+Gegner in einer bei einer harmlosen Billardpartie sonst ungewohnten
+Weise aufzuregen. Wenigstens hatte ich diesen Eindruck
 sehr bald gewonnen, und auch Harald warf mir jetzt,
 als er sein Likörglas von der Platte nahm, einen besonderen
 Blick zu.
 
-Jetzt machte Doktor Wallace eine Serie von hundert-zwanzig
+Jetzt machte Doktor Wallace eine Serie von hundertzwanzig
 Punkten …
 
 Der Major legte den Billardstock aus der Hand und
@@ -45,15 +45,15 @@ Eine seltsam gedrückte Stimmung herrschte plötzlich an
 unserem Tische …
 
 Schweigend setzte sich Doktor Edward Wallace zu uns
-und drehte sich eine Zigarette
+und drehte sich eine Zigarette …
 
-Seine dünnen langen Finger erinnerten an Spinnen-beine
-… sich beobachtete diese Finger mit wachsendem
-Mitbringen …
+Seine dünnen langen Finger erinnerten an Spinnenbeine
+… Ich beobachtete diese Finger mit wachsendem
+Mißbehagen …
 
 Schließlich sagte Codanoor eigentümlich zaudernd:
 
-Der Major war ja so feierlich … Was fehlte ihm
+»Der Major war ja so feierlich … Was fehlte ihm
 nur?!«
 
 Alle Augen waren auf des Doktors gelbbraunes hageres
@@ -71,7 +71,7 @@ Harald fragte jetzt:
 Wallace …?«
 
 »Ja — gestern … Wir hatten sehr lange nicht miteinander
-Billard gespielt … — Billard …!!« Und wieder
+Billard gespielt … — Billard …!« Und wieder
 lächelte er kaum merklich.
 
 Sir Codanoor lachte gezwungen …
@@ -91,8 +91,8 @@ auf …
 dem Spiel lassen, die mir völlig gleichgültig ist, die ich aber
 als Gentleman achte …!«
 
-»Verzeihung …!« Der Polizeichef verbeugte sich. ich
-sprach hier nur etwas aus, das die Spaten in Kalkutta von
+»Verzeihung …!« Der Polizeichef verbeugte sich. »Ich
+sprach hier nur etwas aus, das die Spatzen in Kalkutta von
 den Dächern pfeifen … Miß Simpson wird viel umworben!«
 
 »Nicht von mir,« erklärte Wallace sehr kühl. »Ich bin
@@ -105,7 +105,7 @@ aber zu verbergen …
 
 Und gerade jetzt, als eine peinliche Stille eingetreten
 war, zog Wallace seine goldene Uhr, ließ den Deckel springen
-und steckte sie wieder nach einem slüchngen Blick auf das
+und steckte sie wieder nach einem flüchtigen Blick auf das
 Zifferblatt in die Westentasche …
 
 Im selben Augenblick stürmte einer der Klubdiener
@@ -138,34 +138,34 @@ Miß Simpsons Name wurde wieder genannt …
 »Sie hat ihn abgewiesen,« sagte einer der Herren …
 
 »Unmöglich!« ein anderer … »Ich sah die beiden noch
-gestern in einer Loge des Wallace-Theaters …«
+gestern in einer Loge des Palace-Theaters …«
 
 »Und ich gestern im Maidan-Park …«
 
 <@pagebreak/>
 So schwirrten die Stimmen durcheinander … —
 
-ohne halbe Stunde später war Harry Collerlunds Leiche
-nach seiner Wohnung geschafft worden. Im Klub wer es
-leer … Nur Sir Godwin und wir beide saßen noch; im
-kleinen Salon bei vorher mit Zeit
+Eine halbe Stunde später war Harry Collerlunds Leiche
+nach seiner Wohnung geschafft worden. Im Klub war es
+leer … Nur Sir Godwin und wir beide saßen noch im
+kleinen Salon bei Porter mit Sekt …
 
 Soeben hatte Harald unseren alten Bekannten gefragt,
 wer denn eigentlich diese Miß Simpson sei, die hier ja ganz
-Kalkutta auf den Kopf zu stellen jene
+Kalkutta auf den Kopf zu stellen scheine …
 
-Sehen geht hier vor lauert,« er::wickelte der Vorsteher
+»Sehen geht hier vor sagen,« erwiderte der Polizeichef
 etwas gedehnt … »Ein entzückendes Frauenzimmer jedenfalls
-… Und … blutarm, nichts eines hiesigen amerikanischen
-Großkaufmanns, der Gift Nelly vor einem halben
+… Und … blutarm, Nichte eines hiesigen amerikanischen
+Großkaufmanns, der Miß Nelly vor einem halben
 Jahre als Waise zu sich nahm … Immerhin: dieser Onkel
-Simpson ist Junggeselle und vielfacher Litlionär … Nur
-deshalb kann Miß Nelly sich so ziemlich aß:es leisten, wonach
-ihr letzten begehrt. Nur eine Mitgift erhält sie nicht
+Simpson ist Junggeselle und vielfacher Millionär … Nur
+deshalb kann Miß Nelly sich so ziemlich alles leisten, wonach
+ihr Herzchen begehrt. Nur eine Mitgift erhält sie nicht …
 Das erklärt Robert Simpson bei jeder Gelegenheit …
-»Meine Nichte soll nicht Spefitlationsovje?!, sondern aus
+»Meine Nichte soll nicht Spekulationsobjekt, sondern aus
 Liebe geheiratet werden …! Ich habe daher mein Vermögen
-wohltätigen Erhöhungen vermacht und ihr nur eine
+wohltätigen Stiftungen vermacht und ihr nur eine
 ganz kleine Rente ausgesetzt …!« — Der gute Simpson
 schwindelt nicht. Und doch hat Nelly ungezählte Bewerber …
 Nur …«
@@ -178,27 +178,27 @@ der Anbeterschwarm etwas verlaufen … Man hält Miß
 Nelly jetzt für eine Malugi …«
 
 »Wofür?!« Harst machte ein erstauntes Gesicht. »Malugi
-ist doch ein Hiuduausdruck für ein alles Weib mit dem
-bösen Blick … In Deutschland würde man früher »Hexe’
-gesagt haben …- - - Hier sagt man Malugi, was etwa so viel
+ist doch ein Hinduausdruck für ein altes Weib mit dem
+bösen Blick … In Deutschland würde man früher »Hexe«
+gesagt haben … Hier sagt man Malugi, was etwa so viel
 wie Giftkröte bedeutet …
 
 »Allerdings, lieber Harst …: Giftkröte! Und genau
 wie unsere hiesige giftige Riesenkröte mit ihren gelben Glotzaugen
-jeden Käfer, jede Fliege bannt, dann mit der Aus-scheidung
+jeden Käfer, jede Fliege bannt, dann mit der Ausscheidung
 <@pagebreak/>
 der Giftdrüse bespritzt und tötet, — genau so
 schlecht sind drei von Nellys eifrigsten Bewerbern die braunen
 Nelly-Äuglein bekommen: aus Liebesgram haben sie sich
-umgebracht! Da ist als erster der Rechtsanwalt Malcolm
-Er vergiftet« sich. — Als zweiter der Sekretär des Vizekönigs
-Bauart Longin. Er schnitt sich die Pulsadern durch. — Als
-dritter Lord Chesterbry — er ließ sich vom Cisenbahnzug
+umgebracht! Da ist als erster der Rechtsanwalt Malcolm …
+Er vergiftete sich. — Als zweiter der Sekretär des Vizekönigs
+Howard Longin. Er schnitt sich die Pulsadern durch. — Als
+dritter Lord Chesterbry — er ließ sich vom Eisenbahnzug
 überfahren … Und wenn wir nun den armen netten
 Major als vierten rechnen wollen, so werden wir wohl das
 Richtige treffen …«
 
-Harald schaute sich um, stand aus, öffnete beide Türen,
+Harald schaute sich um, stand auf, öffnete beide Türen,
 schloß sie wieder und setzte sich …
 
 »Was soll das?!« meinte Sir Godwin gespannt.
@@ -222,29 +222,29 @@ Nelly den Major irgendwie bevorzugt?«
 
 »Nein — in keiner Weise … Man sagt, daß sie einen
 der Angestellten ihres Onkels liebe, einen glatten jungen
-Menschen, der ihr aber geslissenilich Auguste … Das
+Menschen, der ihr aber geflissentlich ausweiche … Das
 mag leeres Gerede sein … Ich weiß es nicht …«
 
 »Und Doktor Edward Wallace?«
 
-»Dja — da bin ich mir nicht so recht im Klaren, liebe!
+»Dja — da bin ich mir nicht so recht im Klaren, lieber
 Harst … Man munkelt, Nelly habe ihm einen Korb gegeben
 … Wallace selbst tat stets so, als belächele er diese
 allgemeine Schwärmerei für Miß Simpson. Freilich ist er
 ein Mensch, dem man kaum trauen darf … Für meinen
-Geschmack ist er zu … gewandt, zu sehr moderner LebenZs-kämpfer
+Geschmack ist er zu … gewandt, zu sehr moderner Lebenskämpfer
 <@pagebreak/>
 …« Und der Polizeichef griff nach seinem Glase,
 trank bedächtig …
 
-»Wie heißt der Angestellte Simpsons?“« fragt Harald
+»Wie heißt der Angestellte Simpsons?« fragt Harald
 nach einer Weile …
 
 »John Gollipp … — Weshalb wollen Sie das wissen,
-lieber Harst? Mich interessiert jetzt ledig7i& die Billardpartie
+lieber Harst? Mich interessiert jetzt lediglich die Billardpartie
 … Meinen Sie wirklich, daß …«
 
-Die Tür war ausgeflogen …
+Die Tür war aufgeflogen …
 
 Auf der Schwelle stand ein schlankes, junges Weib …
 
@@ -258,7 +258,7 @@ braune Märchenaugen …
 
 Sir Godwin war emporgesprungen …
 
-»Miß Simpson, was ist geschehen …?!» rief er bestürzt
+»Miß Simpson, was ist geschehen …?!« rief er bestürzt
 und eilte ihr entgegen …
 
 Und Nelly kam näher …
@@ -280,7 +280,7 @@ Sie stand still …
 — und sie sprach es wie auswendig gelernt … »Im
 Garten … Erschossen … Von … von John Gollipp …
 Und John Gollipp … hat sich selbst … gestellt … Aber
-… über … ich glaube es nicht … Dabei muß …
+… aber … ich glaube es nicht … Dabei muß …
 etwas Rätselhaftes mitspielen … John Gollipp … ist …
 ein Ehrenmann …«
 
@@ -302,12 +302,12 @@ Im Auto wurde kein Wort gesprochen. Der geschlossene
 Kraftwagen jagte durch die nächtlich stillen Straßen mit der
 Eile eines von Furcht gehetzten Tieres.
 
-Miß Nelly lehnte in ihrem bunten Kimono wie ein«
-Tote in der einen PolstereXe. Sie hatte offenbar bereits zu
+Miß Nelly lehnte in ihrem bunten Kimono wie eine
+Tote in der einen Polsterecke. Sie hatte offenbar bereits zu
 Bett gehen wollen, hatte dann in aller Hast nur den Kimono
-ivbergeworfen. — Wir gingen mancherlei Gedanken durch den
-Kopf. Es war kaum mehr anzuzweiseln, daß Nelly diesen
-John Gollipp liebte, vielleicht um so leidenschaftlicher, weit
+übergeworfen. — Mir gingen mancherlei Gedanken durch den
+Kopf. Es war kaum mehr anzuzweifeln, daß Nelly diesen
+John Gollipp liebte, vielleicht um so leidenschaftlicher, weil
 er sie nicht beachtete. Und wenn sie sich in so auffallender
 Weise von anderen hatte den Hof machen lassen, so gab es
 hierfür nur eine Erklärung: sie hatte sich ablenken wollen,
@@ -320,29 +320,29 @@ wo die Gartenmauer einen portalähnlichen Eingang besaß,
 der in Form eines nach der Straße zu offenen Pavillons
 gebaut war.
 
-Zwei Brannte der Detektivabteilung erwarteten uns hier
+Zwei Beamte der Detektivabteilung erwarteten uns hier
 und erstatteten nun Sir Codanoor Meldung. Sie waren
 <@pagebreak/>
 über die Vorgänge gut unterrichtet, und die Anordnungen,
 die sie getroffen hatten, um den Tatort abzusperren, ließen
-lassen, daß wir aus den Spuren ein Bild von den Vorgängen
+hoffen, daß wir aus den Spuren ein Bild von den Vorgängen
 gewinnen könnten.
 
-Robert Simpson war nach der übcreinstimmenden Kunstlose
+Robert Simpson war nach der übereinstimmenden Aussage
 mehrerer Diener gegen ein Viertel zwölf aus seinem
 Arbeitszimmer in den Park gegangen, was er stets zu tun
 pflegte, bevor er sich zu Bett legte. Es war seine Gewohnheit,
 diesen Spaziergang in leichtester Bekleidung — nur in
 Beinkleidern, Sandalen und Seidenhemd — zu unternehmen.
 Er begab sich stets bis zu dem im Ostwinkel des Gartens
-gelegenen Turnplatz, wo er am Fleck noch ein paar Rehaugen
+gelegenen Turnplatz, wo er am Reck noch ein paar Übungen
 machte, dann seine Kleider abwarf und unter den Sprühregen
 eines nahen Springbrunnens trat …
 
 Simpsons Kammerdiener, ein älterer treuer Inder,
 hatte dann zehn Minuten später durch die offenen Fenster
 des Herrenzimmer, wo er auf dem Schreibtisch etwas Ordnung
-schaffte, im Garten einen Schuß gehört. Er lies
+schaffte, im Garten einen Schuß gehört. Er lief
 sofort nach dem Turnplatz und fand hier unter dem Reck
 seinen Herrn bewegungslos liegen, während drei Schritte
 weiter auf einer weißen Holzbank völlig zusammengesunken
@@ -353,7 +353,7 @@ erschossen …«
 Der Diener eilte zum Hause zurück und telephonierte
 an die Polizei, die denn auch in kürzester Zeit eintraf. John
 Gollipp saß noch immer auf derselben Bank und ließ sich
-ohne weiteres verhassten. Zu seinen Füßen hatte eine moderne
+ohne weiteres verhaften. Zu seinen Füßen hatte eine moderne
 kleine Mehrladepistole gelegen, aus der ein Schuß
 abgefeuert war. Sechs Patronen steckten noch im Laderahmen.
 
@@ -369,17 +369,17 @@ zu handeln …
 »Sie, lieber Harst, sind in derlei Dingen Spezialist …
 Wir tun, was Sie wünschen.«
 
-»Dann bitte ich, daß der Tatort bis Taane3anbruch unberührt
-bleibt, auch die Leiche … Daß Simpson tot ist, he!
-Collins bereits festgestellt. Ein Schuß in die Schüsse ist
-ja nur in den allcrsclitensten Fällen nicht absolut tödlich. —
+»Dann bitte ich, daß der Tatort bis Tagesanbruch unberührt
+bleibt, auch die Leiche … Daß Simpson tot ist, hat
+Collins bereits festgestellt. Ein Schuß in die Schläfe ist
+ja nur in den aller seltensten Fällen nicht absolut tödlich. —
 Befragen wir jetzt John Gollipp …« —
 
 Der kleine Pavillon mit seinen vier bunten Fenstern
 war innen durch zwei Laternen erleuchtet. Vor der Tür
-standen drei Beamte. Gollipp saß in einem der Korbsessel.
+standen drei Beamte. Gollipp saß in einem der Korbsessel,
 den Kopf auf die Brust gelehnt, mit geschlossenen Augen. Als
-wir vier — Harst, Codanoor, Collins und ich — eintraten
+wir vier — Harst, Codanoor, Collins und ich — eintraten,
 nahm er davon keinerlei Notiz.
 
 Harald rief ihn an …
@@ -387,8 +387,8 @@ Harald rief ihn an …
 »Mr. Gollipp …!!«
 
 Der junge Kaufmann, erst sehr kräftiger, schlanker Mann
-von vielleicht achzttundzwanzig Jahren, mit bartlosen, recht
-schaffen Zügen, öffnete müde die Augen und hob etwas den
+von vielleicht achtundzwanzig Jahren, mit bartlosen, recht
+scharfen Zügen, öffnete müde die Augen und hob etwas den
 Kopf.
 
 Diese Augen schauten Harst wie verträumt an.
@@ -396,16 +396,16 @@ Diese Augen schauten Harst wie verträumt an.
 Ich war überrascht. Ich hatte mir den Gesichtsausdruck
 dieses Mörders anders vorgestellt …
 
-Bevor Harald noch etwas jagen konnte, flüsterte Gollipp
+Bevor Harald noch etwas sagen konnte, flüsterte Gollipp
 ganz geistesabwesend:
 
-»Ich leugne nichts … Ich habe ihn erschossen …
+»Ich leugne nichts … Ich habe ihn erschossen … Er
 hatte mich heute vormittag im Geschäft schwer beleidigt …
 Heute abend packte mich eine unsinnige Wut … Ich schlich
-hier in den Park und habe ihm aufs gelauert … Es kam
+hier in den Park und habe ihm aufgelauert … Es kam
 zum Streit zwischen uns … Er wollte mich schlagen …
 Wir rangen miteinander … Die Pistole entlud sich …
-dicht an Mister Simpsons Schläfe … Ich habe ihn  erschossen
+dicht an Mister Simpsons Schläfe … Ich habe ihn erschossen
 und bin doch unschuldig …«
 
 Dieses Geständnis machte auf uns einen ganz merkwürdigen
@@ -420,14 +420,14 @@ Harald winkte uns …
 
 Wir traten leise hinaus, standen auf der Treppe …
 
-»Der Mann ist ein verkehrten Komödiant,« sagte Harst
+»Der Mann ist ein perfekter Komödiant,« sagte Harst
 achselzuckend. »Lassen Sie ihn ins Polizeigefängnis bringen
-und ständig überwachen, damit er nicht eng Selbstmord
+und ständig überwachen, damit er nicht etwa Selbstmord
 verübt …«
 
-Codanoor kannte Harst? Eigentümlichkeiten. Man ließ
+Codanoor kannte Harsts Eigentümlichkeiten. Man ließ
 uns beide allein. Gollipp wurde gefesselt weggeführt. Er
-ging schwankend wie ein Umrissenen.
+ging schwankend wie ein Trunkener.
 
 Die beiden Karbidlaternen löschte Harald jetzt aus …
 
@@ -436,32 +436,32 @@ Die beiden Karbidlaternen löschte Harald jetzt aus …
 Ich nahm dicht neben ihm Platz. Um uns lastete die
 Dämmerung der Tropennacht und eine Überfülle dunkler
 Geheimnisse. Die Pavillontür stand weit offen. Wir sahen
-draußen ein Stück Rasenfläche und wunderhübsche Zier-beete.
+draußen ein Stück Rasenfläche und wunderhübsche Zierbeete.
 Duftwellen der nachts ihre Wohlgerüche ausatmenden
 Pflanzen umschmeichelten uns. Durch die Bäume und
 Büsche schimmerten die Lichter der Fenster des Hauses …
 
-Auf Haralds Frage schwieg ich zunächst Ich wollte
-vorsichtig sein. Ich legte einen bestimmten Verdacht, der
+Auf Haralds Frage schwieg ich zunächst. Ich wollte
+vorsichtig sein. Ich hegte einen bestimmten Verdacht, der
 mir aber doch zu abenteuerlich erschien …
 
 Harst hatte jetzt eine Mirakulum angezündet …
 
-» du denkst an Doktor Edward Wallace, mein Alter …«
+»Du denkst an Doktor Edward Wallace, mein Alter …«
 
 »Ja …«
 
-»Das ist verkehrt … Man soll sich auf nichts fest
-beißen, ohne Beweise zu haben …«
+»Das ist verkehrt … Man soll sich auf nichts festbeißen,
+ohne Beweise zu haben …«
 
 »Es gibt hier mehrere Vorfälle, Harald … Erstens
 die Selbstmorde der drei Verehrer Nellys, dann des Majors
-er Mord und die Billardpartie, schließlich diesen Mord
+Selbstmord und die Billardpartie, schließlich diesen Mord
 hier …«
 
 »Nein — es gibt nur ein Geschehen,« erwiderte er leise
 und sinnend. »All das hängt miteinander zusammen …
-ab das sind Strahlen, die von einem Mittelpunkt ausgehen!
+All das sind Strahlen, die von einem Mittelpunkt ausgehen:
 von Nelly Simpson!«
 
 <@pagebreak/>
@@ -470,48 +470,48 @@ von Nelly Simpson!«
 »Kein Aber … Laß es nur hell werden. Ich sage
 Dir: wir werden auf dem Turnplatz etwas finden — unbedingt
 … — Und jetzt wollen wir ausruhen. Ich fürchte,
-es gibt s& Tore Tage für uns …«
+es gibt schwere Tage für uns …«
 
 Er setzte sich bequemer …
 
-Schlafen?! Für mich unmöalio! nach Harald schlief
+Schlafen?! Für mich unmöglich! Auch Harald schlief
 nicht. Nein, er rauchte bald die fünfte Mirakulum — wie
 ein Automat …
 
 Ich sah nicht viel von ihm … Beobachtete ihn trotzdem
 … Ich hätte so gern Gedankenleser sein mögen …
-Aber er wirklich Wallace mit diesen spürenden Gedanken
+Ob er wirklich Wallace mit diesen spürenden Gedanken
 nicht umgarnte?!
 
 Ich hatte Zeit genug, mir all die Einzelheiten dieser
-Massentragödie. die hier ein Weib verschuldet hatte ohne
+Massentragödie, die hier ein Weib verschuldet hatte ohne
 Absicht, genau zu sichten. Doktor Wallaces Spinnenfinger
-und das dünne ich Süßlich;e Lächeln kämen mir nicht aus dem
-Sinn. Und wenn ich mir: den seltsamen Zustand John
+und das dünne scheußliche Lächeln kamen mir nicht aus dem
+Sinn. Und wenn ich mir den seltsamen Zustand John
 Gollipps vorstellte, dann — — blieb nur eine Erklärung:
 Gollipp hatte in Hypnose gemordet! Es mußte so sein …
-Was Entgangen über Gollipp uns mitgeteilt, war ja geradezu
-ein Lobaesang auf einen tadellosen Charakter gewesen.
+Was Codanoor über Gollipp uns mitgeteilt, war ja geradezu
+ein Lobgesang auf einen tadellosen Charakter gewesen.
 Gollipp lebte mit seiner Mutter zusammen, war der zärtlichste
 Sohn, war überall beliebt, trieb nur Sport, hatte
-sonst keine Leivenschaf!en. An den Streit mit Simpson im
+sonst keine Leidenschaften. An den Streit mit Simpson im
 Geschäft glaubte ich nicht … —
 
-Draußen lichtete sich »der Himmeßb, Der Glanz der
+Draußen lichtete sich der Himmel. Der Glanz der
 Sterne erlosch …
 
 Und da — da erst gewahrte ich, daß Harald nun wirklich
-schlief — ganz fest schlief, sogar zuweilen rasselnd-Schnarchtöne
-ausstieß …
+schlief — ganz fest schlief, sogar zuweilen rasselnde
+Schnarchtöne ausstieß …
 
-Ja — Nerven konnte er kaum … Die meinigen waren
-weniger solltest … Ich sah immer Nelly Simpson vor mir
+Ja — Nerven kannte er kaum … Die meinigen waren
+weniger taktfest … Ich sah immer Nelly Simpson vor mir
 — eine lebende Geisha …
 
 Die Morgendämmerung verscheuchte die Schatten der
 Nacht. Das Zwielicht mit seiner farblosen kalten Helle
 <@pagebreak/>
-sagte durch die Bäume … Auf der Treppe tauchte Sir Codanoor
+lugte durch die Bäume … Auf der Treppe tauchte Sir Codanoor
 auf … Hinter ihm Collins. Ich weckte Harst.
 
 Wir gingen zum Turnplatz.
@@ -524,14 +524,14 @@ Platzes blieb Harald stehen …
 Der lag noch unter dem Reck — halb auf der Seite …
 
 Ich sah das gelb verfärbte Totengesicht … Die hagere,
-sehnige Eiskalt …
+sehnige Gestalt …
 
 Fünfzig Jahre war Robert Simpson geworden …
-Er hätte noch dreißig Jahre leben können, wie Covanvoor
+Er hätte noch dreißig Jahre leben können, wie Codanoor
 betont hatte.
 
-Harst lehnte sich an den einen Balken des Rechte und
-ließ die Blicke über den Platz schweigen. Der Zierkies zeigte
+Harst lehnte sich an den einen Balken des Recks und
+ließ die Blicke über den Platz schweifen. Der Zierkies zeigte
 zahllose Eindrücke, aber Spuren konnte man das nicht
 nennen. Kies verwischt jede Fährte.
 
@@ -539,10 +539,10 @@ So vergingen fünf Minuten.
 
 Codanoor wurde ungeduldig.
 
-Da kam Harald zu uns zurück, sagte;
+Da kam Harald zu uns zurück, sagte:
 
-»Ich« bitte Sie, Mr. Collins, nach dem Testament Simpsons
-zu suchen, aber ganz unauffällig. Ich Motive betonen,
+»Ich bitte Sie, Mr. Collins, nach dem Testament Simpsons
+zu suchen, aber ganz unauffällig. Ich möchte betonen,
 daß wir diese Dinge nie aufklären werden, wenn Sie nicht
 absolut verschwiegen sind.«
 
@@ -551,22 +551,22 @@ Er schaute Sir Godwin an …
 »Jedes Wort, jede Andeutung über das, was geheim
 bleiben muß, entfernt uns von dem Ziel, macht den Erfolg
 fraglich. Ich will Ihnen nicht verschweigen, daß ich John
-Gollipp für vollkommen schuldlos halte. Er hat diesen 1 oft
+Gollipp für vollkommen schuldlos halte. Er hat diesen Mord
 nie begangen.«
 
-Inspektor Collins, ein kleiner korpuleunter Herr von quecksilbriger
+Inspektor Collins, ein kleiner korpulenter Herr von quecksilbriger
 Beweglichkeit, lächelte etwas selbstbewußt …
 
 »Daß Gollipp hypnotisiert worden ist und in Hypnose,
 also auf Befehl eines anderen, den Mord beging, habe ich
 mir auch schon gedacht, Mr. Harst …«
 
-Harald nickte. »Der Gedanke lag Nähe, ist aber trotzdem
+Harald nickte. »Der Gedanke lag nahe, ist aber trotzdem
 <@pagebreak/>
-trotz … Eine hypnotische Beeinflussung bis zum Morde
-ist einwandfrei mir in ganz wenigen Fällen secstgestellt …«
+irrig … Eine hypnotische Beeinflussung bis zum Morde
+ist einwandfrei nur in ganz wenigen Fällen festgestellt …«
 
-Codanoor rief kopsscküttielnd:
+Codanoor rief kopfschüttelnd:
 
 »So hat jemand anders Simpson erschossen …?!«
 
@@ -580,8 +580,8 @@ allerlei Erkundigungen einzuziehen. Wallace hat um Nelly
 bei Simpson angehalten. Der lachte ihn aus. Wallace ist
 über vierzig … Simpson soll ihm zugerufen haben: »Dann
 könnte auch ich meine Nichte heiraten …! Ein Mann von
-vierzig und ein Mädchen von neunzehn — das ist ein Um
-Ding!« — Ein Diener hat diese Worte gehört … Ich habe
+vierzig und ein Mädchen von neunzehn — das ist ein Unding!«
+— Ein Diener hat diese Worte gehört … Ich habe
 denn auch Wallace … ein paar Beobachter gegeben …
 Er wird keinen Schritt mehr unbewacht tun …«
 
@@ -592,7 +592,7 @@ Sie, Wallace wird diese Spionage nicht merken?! — Ganz
 bestimmt merkt er es … Und er wird sich danach richten …
 — Mr. Collins, vielleicht suchen Sie nun das Testament …«
 
-Eine ungemütliche Stimmung hatten diese vorwurss-vollen
+Eine ungemütliche Stimmung hatten diese vorwurfsvollen
 Sätze Haralds erzeugt. Codanoor blickte ärgerlich zur
 Seite. Collins zögerte und fragte seinen Chef:
 
@@ -608,8 +608,8 @@ Augen waren tief umschattet …
 
 Schon von weitem rief sie:
 
-»Ein Einbruch — — ein Diebstahl … Das Wandfoack
-im Schlafzimmer meines Onkels ist gelernt — erbrochen …
+»Ein Einbruch — — ein Diebstahl … Das Wandfach
+im Schlafzimmer meines Onkels ist geleert — erbrochen …
 Soeben erst ist’s bemerkt worden …«
 
 Dicht vor uns machte sie halt …
@@ -629,20 +629,20 @@ Simpson?«
 »Ja — und Schmucksachen und Geld … Alles ist gestohlen,
 Mr. Harst …«
 
-»War das Testament von einem Notar ausgesetzt!
+»War das Testament von einem Notar aufgesetzt
 worden?«
 
 »Nein … es war ein eigenhändiges … Niemand
 hat es gelesen … Onkel zeigte es nur mir und seinem
 Kammerdiener und sagte dabei, als er es versiegelte: »Ich
-Male dafür gesorgt, Nelly, daß Du arm bleibst … Du sollst
+habe dafür gesorgt, Nelly, daß Du arm bleibst … Du sollst
 Deiner selbst wegen geheiratet werden …«
 
 »Und ohne das Testament wären Sie die einzige Erbin,
 Miß Simpson?«
 
-»Ja — — beiden …!« — Ihre schönen Augen füllten
-ah schon wieder mit Tränen …
+»Ja — — leider …!« — Ihre schönen Augen füllten
+sich schon wieder mit Tränen …
 
 Mit einem Male erschien da um die Biegung des Parkweges
 der Kammerdiener Simpsons, mit einem Brief in
@@ -655,12 +655,12 @@ Verneigte sich vor Nelly …
 
 Nelly las die Aufschrift: Schreibmaschine
 
-Miß Nelly Simpson.
+<p class="centered">Miß Nelly Simpson.</p>
 
-Eilt!
+<p class="right">Eilt!</p>
 
-Und riß den Umschlag, ein gewöhnliches großes so
-schästskuvert, auf …
+Und riß den Umschlag, ein gewöhnliches großes
+Geschäftskuvert, auf …
 
 In dem Umschlag lag ein dreimal gefalteter Bogen …
 
@@ -683,7 +683,7 @@ war, bewies, daß Robert Simpson nur vor der
 Werft seine Nichte enterbt hatte. — Es hieß da:
 
 »Ich will nicht, daß Nelly das Opfer eines gewissenlosen
-Mitgistjägers wird. Deshalb werde ich das Gerücht
+Mitgiftjägers wird. Deshalb werde ich das Gerücht
 verbreiten, ich hätte mein Vermögen, das ich auf drei mit
 wissen folgte, anderweit vermacht …«
 
@@ -709,7 +709,7 @@ gemocht hat und auch mit Ihrem Onkel sprach?«
 »Ja. Ich wies ihn ab … Er ist mir nicht gerade
 unsympathisch … Er ist ein so tüchtiger Arzt … Er behandelt
 mich. Mein Herz ist nicht ganz in Ordnung …
-Ich leide an Ohnmachtsansällen …«
+Ich leide an Ohnmachtsanfällen …«
 
 »War Wallace auch der Arzt hieß Onkels?«
 
@@ -809,7 +809,7 @@ linken Fuß …«
 »Gwikß, Mr. Harst … Er behandelt auch meine
 Mutter … Sie Äft seit Jahren gelähmt …«
 
-wir hatten den weißen schmucken Bangalore«gereicht.
+wir hatten den weißen schmucken Bangalore gereicht.
 Das Haus besaß. die übliche offene Veranda, die. Pech rund
 um das Gebäudgs: herumzog …
 
@@ -1162,7 +1162,7 @@ gelegt … Man konnte also stellenweise unter dem
 Tempel durch) die Steinblöcke hindurchsehen, dessen Front
 na. Süden zeigte. Vier kleine Marmorsäulen erkannte
 tch4). dahinter einen Türbogen, an jeder Seite bunt bemalte
-Vc abmostottuen. Das Kuppcldach war mit kurzer belegt
+Vc abmostottuen. Das Kuppeldach war mit kurzer belegt
 und grün hundert patinicxt. ohne Steintreppe mit auf
 dreißig erweisen führte na) oben. Diese Treppe ging des
 Alte jetzt empor. Die Ziege hatte er irgendwo unten
@@ -1499,9 +1499,9 @@ mich, einen kleinen Scherz mit Ihnen zu machen, Mr. Harst
 mir das nicht verargen, Mr. Harst … Ich habe mir dabei
 wirklich nichts gedacht …«
 
-Robert Simpson, der Wiederauferftandene, erklärte nun
+Robert Simpson, der Wiederauferstandene, erklärte nun
 
-»Es ist der Stiefsohn von Mistreß Gocknar der Plan-tagenbesikerin,
+»Es ist der Stiefsohn von Mistreß Gocknar der Plantagenbesitzerin,
 Mr. Harst … Ein guter Junge … Ja,
 das sind Sie, Robert …! Das sieht man Ihnen von
 <@pagebreak/>
@@ -1631,7 +1631,7 @@ Vergeltung. 1. —« »Das« ist’s …«
 sind Sie Sieger … was fordern Sie?«
 
 »Etwas Selbsiverständlick8: Sie beide! Sie und
-Ihren Freund — und Ihr Ehrenwort, daß Sie mir wider-ftandslos
+Ihren Freund — und Ihr Ehrenwort, daß Sie mir widerstandslos
 sofort folgen …!«
 
 Bisher hatte Sir Godwin Codanoor, der neben Robert
@@ -1707,7 +1707,7 @@ ohne Führer ins Wasser … arbeitete sich weiter — schwamm
 mir ab,« meinte Wallace mit schrillem Auflachen … »Nun
 beginnt das … andere Leben …« —
 
-Wir kletterten an einer Strickleiter an Deck der Handels-prau,
+Wir kletterten an einer Strickleiter an Deck der Handelsprau,
 die vorn und achtern mit Fässern und Tonnen beladen
 war.
 
@@ -1781,7 +1781,7 @@ Der Doktor beobachtete uns …
 
 »Wie soll ich dies auslassen?« fragte er unsicher …
 
-Harst ließ sein Taschenseuerzeug aufflammen …
+Harst ließ sein Taschenfeuerzeug aufflammen …
 
 »Als Antwort eines Mannes, der sein Wort zu halten
 pflegt …«
@@ -1828,7 +1828,7 @@ benutzte nur die gute Gelegenheit … — Aber — sangen
 wir an … Auch ich muß ja vorläufig den Doktor Wallace
 … ausziehen …« —
 
-Komik?! Abenteuerliche Situation — oder Tragi-fomödie?!
+Komik?! Abenteuerliche Situation — oder Tragikomödie?!
 
 … Zwei Detektive und ein fünffachen Mörder maskierten
 sich, halfen sich gegenseitig, rieben sich die Haut mit
@@ -1958,7 +1958,7 @@ Vielleicht lernen wir die Bestie noch näher kennen …«
 getaner Arbeit als Raubtierfutter benutzen wird — das
 glaube ich ziemlich bestimmt 1«
 
-Ich verspürte plötzlich Sehnsucht nach einem doppel-etagigen
+Ich verspürte plötzlich Sehnsucht nach einem doppeletagigen
 Kognak …
 
 »Und — und wie denkst Du Dir diese Geschichte Überhaupt,
@@ -2005,7 +2005,7 @@ ihn schnell wieder zurück: eine eisige Tiernase hatte meine
 Fingerspitze berührt!
 
 Ein netter Schreck? Wenn ich Pech gehabt hätte, würde
-jetzt meine Z Zeigesingerspige in einem Tigermagen verdaut
+jetzt meine Zeigefingerspitze in einem Tigermagen verdaut
 werden …
 
 Ich nahm mir vor, doch etwas vorsichtiger zu sein …
@@ -2242,7 +2242,7 @@ Ro halb durch das viereckige Loch in der Verbindungswand
 Vor dem grellen Lichtkegel der Taschenlampe, die ich
 ihm rasch dicht vor die Augen hielt, wich er wieder zurück.
 Harald schob schnell das Brettstück in die Öffnung und beugte
-es, indem er ein paar Holzstüdchen in die Ritzen
+es, indem er ein paar Holzstückchen in die Ritzen
 klemmte,
 
 Die Bestie meldete sich nicht mehr …
@@ -2352,7 +2352,7 @@ Der kleine vertrocknete Sadato fluchte …
 Wir traten in die Tür …
 
 Nicht ein Zollkutter — — drei …!! Drei der schlanken
-schnellen Motorsahrzeuge umringten die Prau …
+schnellen Motorfahrzeuge umringten die Prau …
 
 Sie stoppte ihren Motor … Einer der Kutter kam
 längsseit … Fünf Beamte, Pistolen in der Hand, kletterten
@@ -2889,7 +2889,7 @@ an Deck …
 
 Sehen Wallace … Er steht vor der Balkentür des
 Kasinos … Er reißt die Cusenricgel zurück — — die Tür
-auf … will sich ans das dahin des Bugausbaus
+auf … will sich ans das dahin des Bugaufbaus
 Klumpen. findet an dem Zinkblech mit den Spinnenfingern
 seinen Halt …
 
@@ -2910,7 +2910,7 @@ Und — Ansicht doch zurück …
 
 Hängt vor der Türöffnung …
 
-Ein dunkelaclber Katzenleib Schnellt aus der Dämmerung
+Ein dunkelgelber Katzenleib Schnellt aus der Dämmerung
 der Kammer hervor …
 
 Reißt den Doktor mit — im Bogen mit auf die Deckplanken
@@ -2958,7 +2958,7 @@ Ich denke an den Major Collerlund, an den anderen
 Toten unter dem Reck auf dem Turnplatz — und an John
 Gollipp, der zum Mörder gestempelt werden sollte — an
 Edward Wallaces dünnes Mörderlächeln, in dem sich die
-ungeheuerliche Gemeinheit einer Schurkensecle offenbarte …
+ungeheuerliche Gemeinheit einer Schurkenseele offenbarte …
 
 Mochte dem Tiger »die« Mahlzeit bekommen! Man wird
 hart, wenn man die Abgründe menschlicher Verworfenheit
