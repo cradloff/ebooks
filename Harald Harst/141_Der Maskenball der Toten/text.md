@@ -673,19 +673,19 @@ Simpsons …!
 
 <h3>Kampf gegen Wallace.</h3>
 
-Mit Schreibmaschine war jedoch unter den handschrift-uche:
+Mit Schreibmaschine war jedoch unter den handschriftlichen
 Text noch geschrieben:
 
 »Für mich wertlos. Daher zurück.«
 
-Der Inhalt der Urkunde, deren Echtheit nicht anzu-wveiseln
+Der Inhalt der Urkunde, deren Echtheit nicht anzuzweifeln
 war, bewies, daß Robert Simpson nur vor der
-Werft seine Nichte enterbt hatte. — Es hieß da:
+Welt seine Nichte enterbt hatte. — Es hieß da:
 
 »Ich will nicht, daß Nelly das Opfer eines gewissenlosen
 Mitgiftjägers wird. Deshalb werde ich das Gerücht
-verbreiten, ich hätte mein Vermögen, das ich auf drei mit
-wissen folgte, anderweit vermacht …«
+verbreiten, ich hätte mein Vermögen, das ich auf drei Millionen
+schätze, anderweit vermacht …«
 
 Minutenlang herrschte Totenstille … Keiner regte
 sich … Nelly schluchzte leise …
@@ -694,145 +694,144 @@ Bis Harald den Diener wegschickte und sehr energisch
 sagte:
 
 »Wir müssen die Dinge in die richtige Bahn leiten …
-Wirt Simpson, was verbindet Sie mit John Gollipp …?«
+Miß Simpson, was verbindet Sie mit John Gollipp …?«
 
-Nelly errötete. War aber Papier und ehrlich. »Ich liebe
-i9n, Mr. Harst …«
+Nelly errötete. War aber tapfer und ehrlich. »Ich liebe
+ihn, Mr. Harst …«
 
 »Und er?«
 
 »Ich … ich weiß nicht, was er gegen mich hat …«
 
 »Es ist richtig, daß Doktor Wallace Ihnen einen Antrag
-gemocht hat und auch mit Ihrem Onkel sprach?«
+gemacht hat und auch mit Ihrem Onkel sprach?«
 
 »Ja. Ich wies ihn ab … Er ist mir nicht gerade
 unsympathisch … Er ist ein so tüchtiger Arzt … Er behandelt
 mich. Mein Herz ist nicht ganz in Ordnung …
 Ich leide an Ohnmachtsanfällen …«
 
-»War Wallace auch der Arzt hieß Onkels?«
+»War Wallace auch der Arzt Ihres Onkels?«
 
 »Ja … seit Jahren …«
 
-»Seit wann sind Sie Hherzfrant?«
+»Seit wann sind Sie Herzkrank?«
 
 <@pagebreak/>
-»Sir kann nach. »Vielleicht riß vier Monaten … Da!
-Leiden stellte sich ganz plötzlich ein, soll aber nur »nietvöser
-Natur sen …
+Sie sann nach. »Vielleicht seit vier Monaten … Das
+Leiden stellte sich ganz plötzlich ein, soll aber nur nervöser
+Natur sein …
 
-»Entschuldigen. Sie, Miß Simpson: ’kw« ein paar ir-diäkretere
-Fragen … Sie wissen, daß die-Ihres Bötwerbet
-Selbstmord, verübten … Haben Sie diese. drei irgend -e
-verursacht— auch den Major Collerlund?«
+»Entschuldigen Sie, Miß Simpson: noch ein paar indiskretere
+Fragen … Sie wissen, daß drei Ihrer Bewerber
+Selbstmord verübten … Haben Sie diese drei irgendwie
+bevorzugt — auch den Major Collerlund?«
 
 Nelly weinte … Weinte …
 
-»Ja … ja. ’ Ich tat’s nur aus … als Boy
-zu elf uns he. -
+»Ja … ja …! Ich tat’s nur aus … aus Verzweiflung …«
 
 »weil John Gollipp Sie übersah?«
 
-Sie nichts …
+Sie nickte …
 
-»davon …« sagte Harst und holte tief Atem …
-»dann zueilen Dir jetzt Doktor Wallace grinsen, Sir Codanoor
+»Dann …« sagte Harst und holte tief Atem …
+»dann werden wir jetzt Doktor Wallace besuchen, Sir Codanoor
 …«
 
 »Also doch!« triumphierte Collins …
 
-Harald warf, ähm einen eigentümliche!: Bis Zu —
+Harald warf, ihm einen eigentümlichen Blick zu —
 meinte:
 
-»Sie, Mr. Gollipp, könnten John Gällipp ’Zzu Wallace
-bringen. 3 «— Aber ohne jedes Aufsehen +3, —
+»Sie, Mr. Collins, könnten John Gollipp zu Wallace
+bringen … Aber ohne jedes Aufsehen …« —
 
-Sir Godwing Dienstauto führte uns in wenigen
-Minuten nach der Wenige-Street, die auf den Hugli-ijluß
+Sir Godwins Dienstauto führte uns in wenigen
+Minuten nach der Temsar-Street, die auf den Hugli-Fluß
 mündet. Wallaces aus Holz gebauter Bungalow lag auf
 dem Gelände des früheren sogenannten Jesuitenfriedhofs.
 Die Westmauer dieses uralten, jetzt in einen Park umgewandelten
-Grundstück stieß an den Bucht Der Ein
-befand sich in der Wenige-Street, gegenüber einem -
-Gebäude.
+Grundstücks stieß an den Hugli. Der Eingang
+befand sich in der Temsar-Street, gegenüber einem
+Zollgebäude.
 
-Sir Godwin und wir beide mußten an der- Borte
+Sir Godwin und wir beide mußten an der Pforte
 lange warten, bevor ein verschlafener Diener erschien und
-uns erklärte, Doktor Wallace sei mit seinem Auto reeter-wegs
-… auf Praxis … Vor zwei Stunden sei er telte-phonisch
+uns erklärte, Doktor Wallace sei mit seinem Auto unterwegs
+… auf Praxis … Vor zwei Stunden sei er telephonisch
 nach der Plantage Jessar zu Mistreß Gocknar
-rufen worden, die wieder einen Malariaanfall habe … Der
+gerufen worden, die wieder einen Malariaanfall habe … Der
 Doktor müsse jedoch sehr bald zurückkehren … Wenn die
 Herren also nähertreten wollten …
 
 <@pagebreak/>
-Träger zuteilte geschulte Diener war kein Inder, sondern
+Dieser tadellos geschulte Diener war kein Inder, sondern
 ganz offenbar ein Malaie. auf den Wangen hatte er kaum
-iichltbarte- Tätowierungen, die jedoch dazu beitrugen, dieses
-sollte Gesicht noch widerwärticer zu machen.
+sichtbare Tätowierungen, die jedoch dazu beitrugen, dieses
+perfide Gesicht noch widerwärtiger zu machen.
 
 »Bleiben wir,« bestimmte Harald …
 
 Gollipp war nicht gefesselt. Er machte jetzt einen ganz
-anderen. Eindruck als nachts seine g:quer Augen- Piraten
-schläft, und die Art, wie er uns grüßte, bewies ein gutes
+anderen Eindruck als nachts. Seine grauen Augen blickten
+lebhaft, und die Art, wie er uns grüßte, bewies ein gutes
 Gewissen.
 
-Wir schritten. hinter dem Diener drein. Gollipp ging
-zwischen Harst und- mir.
+Wir schritten hinter dem Diener drein. Gollipp ging
+zwischen Harst und mir.
 
-Ich schaute mich hier interessiert um. Dir Codanoor
+Ich schaute mich hier interessiert um. Sir Codanoor
 hatte uns erzählt, daß Doktor Wallace am nächsten Abend
-ein Gartenfest vgranstal1e, zu dem die Einladungen schon
-vor einer Leiche »ergangen schien. Es sollte ein Maskenfest
-werden, und nach. Codanoors Behauptung war alles an
+ein Gartenfest veranstalte, zu dem die Einladungen schon
+vor einer Woche ergangen seien. Es sollte ein Maskenfest
+werden, und nach Codanoors Behauptung war alles an
 Europäern dazu gebeten, was in Kalkutta und Umgebung
 zur ersten Gesellschaft gehörte.
 
-Sobald fragte denn auch John- Gollipp in höflichstem
+Harald fragte denn auch John Gollipp in höflichstem
 Tone:
 
 »Mr. Gollipp, Doktor Wallace ist wohl sehr begütert?«
 
-»Ich nehme »€8 van, Mr. Harst … Er harkte größte
-Praxis in der Stadt Dabei ist er ein Wahkäccr der
-Armen. Seine Honorarforderungen sind bescheiden vw«
+»Ich nehme es an, Mr. Harst … Er hat die größte
+Praxis in der Stadt. Dabei ist er ein Wohltäter der
+Armen. Seine Honorarforderungen sind bescheiden …«
 
-»Sie waren bei ihm in Behandlung!«
+»Sie waren bei ihm in Behandlung?«
 
-»Ja — vor einem Monat … Ich hatte eine Schnen-möge
-linken Fuß …«
+»Ja — vor einem Monat … Ich hatte eine Sehnenzerrung
+am linken Fuß …«
 
-»Sie kennen ihn also ’genauer?«
+»Sie kennen ihn also genauer?«
 
-»Gwikß, Mr. Harst … Er behandelt auch meine
-Mutter … Sie Äft seit Jahren gelähmt …«
+»Gewiß, Mr. Harst … Er behandelt auch meine
+Mutter … Sie ist seit Jahren gelähmt …«
 
-wir hatten den weißen schmucken Bangalore gereicht.
-Das Haus besaß. die übliche offene Veranda, die. Pech rund
-um das Gebäudgs: herumzog …
+wir hatten den weißen schmucken Bungalow erreicht.
+Das Haus besaß die übliche offene Veranda, die sich rund
+um das Gebäude herumzog …
 
-der Diener mit der Gaunervisage« Dr: »uns »auf der
-Veranda Platz zu nehmen … Korbmöbel es hier
-Überall zwanglo& verteilt. Unter dem Glasdach drehten sich
+der Diener mit der Gaunervisage bat uns auf der
+Veranda Platz zu nehmen … Korbmöbel standen hier
+Überall zwanglos verteilt. Unter dem Glasdach drehten sich
 <@pagebreak/>
 jene großen Ventilatoren, die im Verein mit der ständigen
-Beriejelung der Großvater angenehme Kühle verbreiten.
+Berieselung der Glasdächer angenehme Kühle verbreiten.
 
 Wir setzten uns. John Gollipp benahm sich vollkommen
 zwanglos, trotzdem bescheiden … Codanoor winkte ihm.
-Er sagte freundliche: »Bitte — dort in den Sessel, Mr.
+Er sagte freundlich: »Bitte — dort in den Sessel, Mr.
 Gollipp …«
 
 Wir fünf waren jetzt allein. Der Diener hatte sich
 zurückgezogen …
 
-Harst gähnte verstohlen. Collins machte ein mißver-gnü«
-Vasallenstaates Gesicht. Sir Codanoor schaute in den Park hinab
+Harst gähnte verstohlen. Collins machte ein mißvergnügtes
+Gesicht. Sir Codanoor schaute in den Park hinab
 und fragte dann Gollipp plötzlich:
 
-»Waren Sie ebenfalls zu dem Mastkensest eingeladen?«
+»Waren Sie ebenfalls zu dem Maskenfest eingeladen?«
 
 »Ja … Ich hatte aber abgesagt …«
 
@@ -843,12 +842,12 @@ zusammentreffe …«
 
 Codanoor blickte ihn fragend an …
 
-Dann beugte ein Harald etwas im Sessel vor …
+Dann beugte sich Harald etwas im Sessel vor …
 
-»Mr. Gollipp, Sie bleiben also dabei, Simpson er
-[holen zu haben?«
+»Mr. Gollipp, Sie bleiben also dabei, Simpson erschossen
+zu haben?«
 
-»Ja …
+»Ja …«
 
 »Und Sie wollten ihn töten? — Sie hatten ja Ihre
 Pistole mitgenommen …«
@@ -856,35 +855,35 @@ Pistole mitgenommen …«
 John Gollipp wurde unsicher. Ein nachdenklicher Zug
 trat in sein Gesicht …
 
-Er senkte den Kopf in einer geradezu hilflosen Art
-Und erwiderte seltsam zerstreut: »Ich weiß nicht recht
+Er senkte den Kopf in einer geradezu hilflosen Art …
+Und erwiderte seltsam zerstreut: »Ich weiß nicht recht …
 ich weiß eigentlich gar nicht, wie ich so plötzlich
 in Simpsons Garten gekommen bin … Aber … Sie
 werden mir das alles ja nicht glauben … Als der Schuß
 fiel, war’s, als ob ich plötzlich erwachte …«
 
-Harald Niete …
+Harald nickte …
 
 Und da — von der Straße her Signale einer schrillen
-Augen. - - Der Diener mit dem perfiden Gesicht lief zum
-offen …
+Hupe … Der Diener mit dem perfiden Gesicht lief zum
+Parktor …
 
 <@pagebreak/>
 Gleich darauf kam Doktor Edward Wallace den Hauptweg
 entlang … Grüßte … Stand vor uns …
 
 »Guten Morgen, meine Herren … Ah — auch Sie,
-Gollipp …! sich habe von Ihrem Pech schon gehört …
+Gollipp …! Ich habe von Ihrem Pech schon gehört …
 — Sir Codanoor, ich biete jede Bürgschaft für meinen
-Vertiefungen Freund. - Gollipp mordet nicht … Ein so guter
+jungen Freund … Gollipp mordet nicht … Ein so guter
 Sohn wie er hat …«
 
 Harst unterbrach ihn … »Verzeihung, Mr. Wallace,
-Sir Codanoor hat mir »diesen Fall übertragen … Wir
+Sir Codanoor hat mir diesen Fall übertragen … Wir
 kommen zu Ihnen, um Sie zu fragen, ob Sie als Arzt es
 für möglich halten, daß Gollipp durch Suggestion gezwungen
 wurde, in der verflossenen Nacht Simpsons Park zu betreten
-… Das heißt, Sie sollen Gollipp hypnotisieren, soll?
+… Das heißt, Sie sollen Gollipp hypnotisieren, falls
 dieser eben für Suggestion empfänglich ist …«
 
 Wir standen im Halbkreis … In der Mitte Wallace …
@@ -895,7 +894,7 @@ Nein — er lächelte nur wieder …
 
 Genau so wie gestern abend im Billardsaal …
 
-Er trug einen. Kneifer ohne Fassung … Und die
+Er trug einen Kneifer ohne Fassung … Und die
 Augen hinter den blanken Gläsern schienen mir höhnisch
 mitzulächeln …
 
@@ -913,47 +912,47 @@ und sie blieben in den unmöglichsten Verrenkungen wie
 gelähmt in der Luft — wie im Nervenkrampf …
 
 »Gollipp ist fraglos heute nicht zum ersten Male hypnotisiert
-angeworben,« sagte Wallace leicht erregt zu uns. »Ich
+worden,« sagte Wallace leicht erregt zu uns. »Ich
 ahne jetzt ungefähr, was geschehen … Sie haben sich hier
 <@pagebreak/>
-bei mir an die richtige ’ Adresse »gewandt, Mr. Harst
+bei mir an die richtige Adresse gewandt, Mr. Harst …
 Geben Sie acht …«
 
 Und er wandte sich Gollipp wieder zu …
 
 »John Gollipp, ich befehle Ihnen, mir zu sagen, wer
 Sie schon des öfteren gegen Ihren Willen, ohne daß Sie
-es ahnten hypnotisiert hat …«
+es ahnten, hypnotisiert hat …«
 
 Und laut und bestimmt erwiderte Gollipp:
 
 »Major Harry Collerlund …!«
 
-»Und — hat er Sie in Simpsons Park Geschirr?
+»Und — hat er Sie in Simpsons Park geschickt?
 
 »Ja …«
 
 Wir anderen waren wie entgeistert … Selbst Harald
-rief halblaut: »Unglaublich
+rief halblaut: »Unglaublich …!«
 
 Als Wallace nun aber noch weitere Fragen an Gollipp
 richtete, blieb jede Antwort aus.
 
 Der Doktor zuckte die Achseln …
 
-»Mein Einfluß versagt … Ich werde ihn weder …«
+»Mein Einfluß versagt … Ich werde ihn wecken …«
 
 Gollipp erwachte denn auch sofort …
 
 Harald meinte, wir müßten ihm nun erst einmal Ruhe
-gönnen … Vorläufig solle man ihn in: Haft behalten …
+gönnen … Vorläufig solle man ihn in Haft behalten …
 
 »Ich selbst, Sir Codanoor, bin zu müde, um jetzt noch
-etwas zu unternehmen,. - Ich will bis mittag trafen …
-Ich finde mich: dann mit Schraut bei Ihnen ein …«
+etwas zu unternehmen … Ich will bis mittag schlafen …
+Ich finde mich dann mit Schraut bei Ihnen ein …«
 
 Wir verabschiedeten uns von Wallace … Und als der
-Doktor Harald die Hand drückte, hatte er niedrige dünne
+Doktor Harald die Hand drückte, hatte er wieder das dünne
 Lächeln um die schmalen Lippen … —
 
 Codanoor und wir beide benutzten das eine Auto und
@@ -962,65 +961,65 @@ fuhren zum King-Edward-Hotel, wo wir wohnten …
 Unterwegs erklärte Harald unvermittelt:
 
 »Das war natürlich in gewisser Weise Schwindel, Sir
-Codanoor … Edward Wallace hat Gollipp in der »Nase
+Codanoor … Edward Wallace hat Gollipp in der Hypnose
 schon vorher einmal diese Antworten anbefohlen … Wenn
-ich Unglaublich!’ rief, so galt das nur der Geriebenheit dieses
+ich »Unglaublich!« rief, so galt das nur der Geriebenheit dieses
 Schurken …
 
 Sir Codanoor starrte Harst sprachlos an …
 
-»Geben Sie mir noch achtundvierzig Statuen,- fügte
-Harald hinzu, »Wand ich werde den größten Verbrecher Kal-tüttas-5
+»Geben Sie mir noch achtundvierzig Stunden,« fügte
+Harald hinzu, »und ich werde den größten Verbrecher Kalkuttas
 <@pagebreak/>
-entlarven, Sir ’Tödanoor - =. Und — schweigen
-Sie. 8 —
+entlarven, Sir Codanoor … Und — schweigen
+Sie …!« —
 
-um halb eins waren Dir bei Sir Codanoor im Polizeipalast.
+um halb eins waren wir bei Sir Codanoor im Polizeipalast.
 
 Inzwischen war Simpsons Leiche obduziert worden.
-Eid im Kloster gefundente Geschoß paßte zu Gollipps Pistole.
+Das im Schädel gefundene Geschoß paßte zu Gollipps Pistole.
 
-As Dienstzimmer Sir Codanoors wurde nun hinter
-bei! 1.Grobheiten Türen Kriegsrat getroffen. Auch Inspektor
-Berlins war Dabei.
+Im Dienstzimmer Sir Codanoors wurde nun hinter
+den gepolsterten Türen Kriegsrat gehalten. Auch Inspektor
+Collins war Dabei.
 
-Zaghaft behauptete, daß Doktor Wallace nicht nur den
-Major Collerlund, sondern auch Nellys andere drei Bettler:
-und ihren Onkel auf dem! Gewissen habe. Er deckte
-ich! »also-seine Karten auf. -
+Harald behauptete, daß Doktor Wallace nicht nur den
+Major Collerlund, sondern auch Nellys andere drei Bewerber
+und ihren Onkel auf dem Gewissen habe. Er deckte
+jetzt also seine Karten auf.
 
 Sir Godwin schwieg … Collins hob die Schultern bis
-zu den Ohren … sagte; »Zunächst: weshalb diese vier
-Karte,-MtiTHarst, die an Nellys Verehrern?! Es fehlt jedes
-Motiv …: Nelly hat die vier. doch nicht derart bevorzugt, daß
-Tatort errichten mußte, sie. könnten ihm das Mädchen weg
-tivriappen! !:- Und »dann 3… Simpson?! Weshalb mußte
-Simpson sterben 2?!«
+zu den Ohren … sagte: »Zunächst: weshalb diese vier
+Morde, Mr. Harst, die an Nellys Verehrern?! Es fehlt jedes
+Motiv. Nelly hat die vier doch nicht derart bevorzugt, daß
+Wallace fürchten mußte, sie könnten ihm das Mädchen wegschnappen!!
+Und dann … Simpson?! Weshalb mußte
+Simpson sterben?!«
 
-»Das alles werde ’ich Ihnen binnen achtundvierzig
-Stunden erklären,« meinte. Harst mit unerschhyütterlicher Ruhe.
-»Wallace hat in allen, vier, Fällen nach derselben Methode
-gearbeitet: »Hypnose!« ’e »Ich möchte nun bitten, daß Sie
-an meine Herren, »mir: insofern behilflich sind, als Sie
--Schraut und mir Verkleidungen besorgen … Mein Freund
-und ich wollen verschmitztem — auch von hier aus dem
+»Das alles werde ich Ihnen binnen achtundvierzig
+Stunden erklären,« meinte Harst mit unerschütterlicher Ruhe.
+»Wallace hat in allen vier Fällen nach derselben Methode
+gearbeitet: Hypnose! — Ich möchte nun bitten, daß Sie
+beide, meine Herren, mir insofern behilflich sind, als Sie
+Schraut und mir Verkleidungen besorgen … Mein Freund
+und ich wollen verschwinden — auch von hier aus dem
 Polizeipalast — — unerkannt.« — Pause … »Wir
-»werden nämlich beobachtet … Vor unserem Hotel lungerten
-zwei« Inder heraus?. — Ja, mein Alter … Es
-Üt so …*. Es sind Watlküces Kreaturen … Der Diener
-mit dem Mephiftogesicht war auch dabei … — Ich bitte
+werden nämlich beobachtet … Vor unserem Hotel lungerten
+zwei Inder herum … — Ja, mein Alter … Es
+ist so … Es sind Wallaces Kreaturen … Der Diener
+mit dem Mephistogesicht war auch dabei … — Ich bitte
 Sie also, zwei von Ihren europäischen Beamten mit blonden
-Bärten zu versehen, in unsere Anzüge zu Kistchen und zum
-Haupteingata hinauszulassen … Wenn ich dann von einem
-Fenster aus gesehen habe, daß die Spione diesen Pseudo-arft
+Bärten zu versehen, in unsere Anzüge zu stecken und zum
+Haupteingang hinauszulassen … Wenn ich dann von einem
+Fenster aus gesehen habe, daß die Spione diesen Pseudo-Harst
 <@pagebreak/>
 und -Schraut folgen, werden die echten Harst und
-gut als schlichte indische Kulis andere Wege wandeln …«
+Schraut als schlichte indische Kulis andere Wege wandeln …«
 
-Codanoor und der Inspektor waren zunächst platt. T’:7
-lachten sie vergnügt, und die seine Komödie wurde v-: —
-reitet. Unsere Stellvertreter erhielten Befehl, mit e:! -
-Mietwagen nach der Vorstadt Kompaß zu fahren und he«
+Codanoor und der Inspektor waren zunächst platt. Dann
+lachten sie vergnügt, und die feine Komödie wurde vorbereitet.
+Unsere Stellvertreter erhielten Befehl, mit einem
+Mietwagen nach der Vorstadt Howrah zu fahren und dort
 bis zum Abend zu bleiben und nachher zu verschwinden …
 
 Alles klappte …
@@ -1032,7 +1031,7 @@ Wohin?
 Der Leser wird es kaum ahnen …
 
 <h2>4. Kapitel.</h2>
-<h3>Tierftudien.</h3>
+<h3>Tierstudien.</h3>
 
 Ich wußte es ja selbst nicht … Ich trottete neben
 Harald her durch enge Seitenstraßen, durch Vorstädte, in
@@ -1046,49 +1045,49 @@ Reisfeldern, den Gummibaumplantagen …
 Auf staubiger Straße immer weiter gen Nordost, wo
 in der Ferne bewaldete Hügel winkten …
 
-Dann nach einer guten Stunde — er sieht diese Auktion
-Ausbrüche — sagte er:
+Dann nach einer guten Stunde — er liebt diese Vulkanausbrüche
+— sagte er:
 
 »Lieber Alter, Robert Simpson lebt …!«
 
-Ich stand still … Wir schien jemand mit einem drei
+Ich stand still … Mir schien jemand mit einem Brett
 vor die Stirn geschlagen zu haben …
 
 <@pagebreak/>
 »Komm’ nur, mein Alter … Es ist schon so … Der
-Tote, der Ermordete ist nicht Simpson …-.« — Und er
-309 mich weiter …
+Tote, der Ermordete ist nicht Simpson …« — Und er
+zog mich weiter …
 
 »Miß Nelly hat mir in der Nacht erzählt, daß Wallace
-ihren Onkel einmal wegen eines sauberen Karbunkels um
+ihren Onkel einmal wegen eines schweren Karbunkels<@refnote 1/> im
 Genick behandelt und dieses geschnitten hat … Solche
-Schnitte hinterlassen Narben. Der Tote hatte im Genie
-völlig unverlehzte Dank …«
+Schnitte hinterlassen Narben. Der Tote hatte im Genick
+völlig unverletzte Haut …«
 
-Ich war noch immer wie versteinert
+Ich war noch immer wie versteinert …
 
-»Ja — — Ader … aber der Tote muß doch dann
-Robert Simpson steht ähnlich gesehen nahen,« wagte ich
+»Ja — — aber … aber der Tote muß doch dann
+Robert Simpson sehr ähnlich gesehen haben,« wagte ich
 einzuwenden …
 
-»Natürlich … — Als Du noch schließt, habe ich
+»Natürlich … — Als Du noch schliefst, habe ich
 Miß Nelly telephonisch angerufen und sie ganz unauffällig
 ausgehorcht, sie auch um Verschwiegenheit gebeten. Robert
 Simpson hat einen Bruder namens Percy, einen Zwillingsbruder,
 ein ganz übles Subjekt. Percy ist seit Jahren
 verschollen …«
 
-»Ab — — allerdings …«
+»Ah — — allerdings …«
 
-»Und wenn nun Doktor Wallace diesen Percy für sein
+»Und wenn nun Doktor Wallace diesen Percy für seine
 Zwecke benutzt hat, so …«
 
 Er brach jäh ab … machte halt …
 
 Rechts von uns am Waldesrande lag ein großes Gebäude
 — das Wohnhaus einer Gummibaumplantage …
-Wir standen gerade auf einem Hügel … Von dem Haust
-führte ein Weg aus die Straße zu, auf der wir uns befanden
+Wir standen gerade auf einem Hügel … Von dem Hause
+führte ein Weg auf die Straße zu, auf der wir uns befanden
 … Ein Auto kam den Weg entlang …
 
 »Rasch — — in das Feld …! So tun, als ob wir
@@ -1097,9 +1096,9 @@ arbeiten,« rief Harald …
 Und die beiden braunen Gesellen spielten denn auch
 tadellos Komödie …
 
-Das Auto rollte vorüber
+Das Auto rollte vorüber …
 
-trat Autobrille und Staubmantel erkannte ich Doktor
+Trotz Autobrille und Staubmantel erkannte ich Doktor
 Edward Wallace …
 
 Und da — ging mir ein Licht auf …
@@ -1111,81 +1110,81 @@ Mistreß Gocknar …«
 »Stimmt, mein Alter … Dieselbe Plantage, wo vielleicht
 der echte Robert Simpson gefangen gehalten wird, wohin
 Wallace ihn vielleicht in der Nacht hinausgeschafft hat,
-denn Frau Gocknar so! he? Doktors intimste Freundin sein,
+denn Frau Gocknar soll des Doktors intimste Freundin sein,
 eine ältere Witwe, über die mir unser Hoteldirektor so allerlei
 erzählte …«
 
 Tropfenweise erhielt ich so die Neuigkeiten wieder
-verzapft
+verzapft …
 
 Immerhin: Haralds geistige Regsamkeit mußte ich anerkennen
-. Er hatte das geschnittene Karbunkel tadellos
-ausgeschlachtet: Schnitinarben — falschen Simpson — echter
+… Er hatte das geschnittene Karbunkel tadellos
+ausgeschlachtet: Schnittnarben — falscher Simpson — echter
 Simpson weggebracht — Plantage Jessar … — eine Kette
 mit tadellosen Gliedern! —
 
 Das Gebäude der Plantage war der übliche Holzbau
 mit Steinfundament. Die Entfernung bis zum Walde beitrug
 etwa hundert Meter. — Wir waren auf einem Fußpfad in
-diese Wildnis eingedrungen. Wir wollten einen Baum exr-flimmen
+diese Wildnis eingedrungen. Wir wollten einen Baum erklimmen
 und bis zum Abend die Plantage beobachten.
 
-Es kam anders
+Es kam anders …
 
 Der Pfad kreuzte einen anderen, der breiter und ausgetretener
-war. Und dieser zweite lies schnurgerade auf die
+war. Und dieser zweite lief schnurgerade auf die
 Hofgebäude der Plantage zu … Von dorther nahte ein
-Fenster Inder, der eine Ziege am Strick hinter sich Herzen …
+uralter Inder, der eine Ziege am Strick hinter sich herzog …
 
 Plötzlich drehte er sich um … Hinter dem einen Stall
-war eine hagere grauhaarige Frau im weißen Leinrenkleid
-aufgetaucht, rief dem Greise etwas zu, verschwand wieder
+war eine hagere grauhaarige Frau im weißen Leinenkleid
+aufgetaucht, rief dem Greise etwas zu, verschwand wieder …
 
-»grau Gocknar …« flüsterte Harst … »Hinein in die
-Büsche …!! Lassen wir den Alten vorüber …
+»Frau Gocknar …« flüsterte Harst … »Hinein in die
+Büsche …! Lassen wir den Alten vorüber …
 
 Der Greis humpelte vorbei …
 
 Und — wir blieben hinter ihm …
 
 Der Waldpfad wurde immer schmaler … Einzelne
-Lichtungen öffneten sich, einzelne Tümpel glänzten +…
+Lichtungen öffneten sich, einzelne Tümpel glänzten …
 Dann stieg der Boden an, wurde steinig … Felsen traten
-hervor … Mitten darin ein Haufen Felsen, gefrönt von
+hervor … Mitten darin ein Haufen Felsen, gekrönt von
 <@pagebreak/>
-einem eigenartigen Bauwerk, einem Hindutempel kleinste!
+einem eigenartigen Bauwerk, einem Hindutempel kleinster
 Abmessungen …
 
-Tor!, wo die Felsblöcke gar zu breite Spalten oben
+Dort, wo die Felsblöcke gar zu breite Spalten oben
 bildeten, waren Steinplatten gleichsam als Fundament darüber
 gelegt … Man konnte also stellenweise unter dem
-Tempel durch) die Steinblöcke hindurchsehen, dessen Front
-na. Süden zeigte. Vier kleine Marmorsäulen erkannte
-tch4). dahinter einen Türbogen, an jeder Seite bunt bemalte
-Vc abmostottuen. Das Kuppeldach war mit kurzer belegt
-und grün hundert patinicxt. ohne Steintreppe mit auf
-dreißig erweisen führte na) oben. Diese Treppe ging des
+Tempel durch die Steinblöcke hindurchsehen, dessen Front
+nach Süden zeigte. Vier kleine Marmorsäulen erkannte
+ich, dahinter einen Türbogen, an jeder Seite bunt bemalte
+Brahmastatuen. Das Kuppeldach war mit Kupfer belegt
+und grünschwarz patiniert. Eine Steintreppe mit gut
+dreißig Stufen führte nach oben. Diese Treppe ging der
 Alte jetzt empor. Die Ziege hatte er irgendwo unten
-zwischen den Steinstüben untergebracht. Wahrscheinlich gab
-25 dort einen Stall oder dergleichen.
+zwischen den Steinstützen untergebracht. Wahrscheinlich gab
+es dort einen Stall oder dergleichen.
 
-sonst umrundete die Blöße, bis wir an einen Gebüsch-streisc:1
+Harst umrundete die Blöße, bis wir an einen Gebüschstreifen
 kamen, der sich bis zu den Felsblöcken hinzog.
 
-»Wir wollen dem Altan mal ein wenig aus den Zahn
-fühlen, “« lag:e er. »Ich glaube fast, daß der Kerl die Ziege
+»Wir wollen dem Alten mal ein wenig auf den Zahn
+fühlen,« sagte er. »Ich glaube fast, daß der Kerl die Ziege
 von Frau Gocknar geschenkt bekommen hat. Sie sträubte
 sich so sehr, den Waldweg entlangzugehen. Der Greis ist ihr
 fremd. man merkte das …«
 
-Ja — jetzt. wo Harald mich mit der Nase auf diese
-siteinigfeiten stieß, erinnerte ich mich an mancherlei, was
-seine Behauptung stützte. Es stimmte!oben: die Ziege hatte
+Ja — jetzt, wo Harald mich mit der Nase auf diese
+Kleinigkeiten stieß, erinnerte ich mich an mancherlei, was
+seine Behauptung stützte. Es stimmte schon: die Ziege hatte
 den Greis nicht gekannt!
 
 »Und solch ein Geschenk, mein Alter,« fügte Harst hinzu,
-»nun immerhin der Dank oder die Bezahlung für eine be
-sondere Leistung oder für … Stillschweigen sein …!«
+»kann immerhin der Dank oder die Bezahlung für eine besondere
+Leistung oder für … Stillschweigen sein …!«
 
 Nun — ich war plötzlich hellhörig geworden …
 
@@ -1194,30 +1193,30 @@ Nun — ich war plötzlich hellhörig geworden …
 »Möglich ist es schon … Gäbe es einen besseren Platz?!
 — Vorwärts nun — auf allen Vieren …«
 
-Wir kamen denn auch, durch die Büsche geholt, bis
-Ruhe an die Felsblöcke heran.
+Wir kamen denn auch, durch die Büsche gedeckt, bis
+nahe an die Felsblöcke heran.
 
 Es waren im ganzen acht, kleinere und größere, besser
 dünnere und dickere, aber alle so ziemlich von derselben
 <@pagebreak/>
 Höhe … Sie nahmen einen Flächenraum von etwa neunzig
-Quadratmeter ein, und oben ruhte aus ihnen der seine
-Hindutempel. Unten aber war die Lücke sausten ihnen
-zum Teil zwei bis drei Meter breit. Unkraut wackelt
+Quadratmeter ein, und oben ruhte auf ihnen der kleine
+Hindutempel. Unten aber war die Lücke zwischen ihnen
+zum Teil zwei bis drei Meter breit. Unkraut wucherte
 dort und es war ratsam, einen Knüttel mitzunehmen, denn
 leider gibt es in ganz Indien noch heute Giftschlangen im
-Ueberfsluß.
+Überfluß.
 
-Harst erhob ich … Wir drangen in die Felsen ein,
+Harst erhob sich … Wir drangen in die Felsen ein,
 fanden mitten darin aus Steinen und Lehm eine kleine
-Hürde ausgemauert, in der. die Ziege unruhig hin und
-der trat, den Kopf Wortreste, leise mehrere, den Kopf nieder
-senkte und das Echnränzcken spielen ließ …
+Hürde aufgemauert, in der die Ziege unruhig hin und
+her trat, den Kopf hochreckte, leise meckerte, den Kopf wieder
+senkte und das Schwänzchen spielen ließ …
 
 Als sie uns gewahrte, meckerte sie lebhafter, kam an
 die Holztür der Hürde heran und scheuerte sich den Hals …
 
-Der Steinboden der Hürde war dicht mit frisch abge-äustem
+Der Steinboden der Hürde war dicht mit frisch abgerauftem
 Gras bedeckt. In einer Ecke standen ein Trog und
 ein Wassereimer.
 
@@ -1230,10 +1229,10 @@ etwas sie erschreckt hätte …
 
 Ich hatte nichts gehört …
 
-Da war er schon in der »Hürde, schob mit dem rechten
-j5zuß das Gras zur Seite …
+Da war er schon in der Hürde, schob mit dem rechten
+Fuß das Gras zur Seite …
 
-Schmutstarrende8 Gestein … Nichts weiter …
+Schmutzstarrendes Gestein … Nichts weiter …
 
 Dann jedoch … vernahm auch ich etwas …
 
@@ -1241,13 +1240,13 @@ Harst stand mit vorgebeugtem Kopf …
 
 Lauschend …
 
-Die Ziege drängte sich an ihm vorüber und mochte an
+Die Ziege drängte sich an ihm vorüber und machte an
 der Rückwand der Hürde halt. Diese Rückwand wurde
-nur die breite Seite eines der Blöde gebildet …
+durch die breite Seite eines der Blöcke gebildet …
 
 hier schnupperte die Ziege, meckerte, sprang wieder
-zurück … E88 war eine jener gelbbraunen halbwilden
-Bergziegen, wie sie aus den Hurra-Bergen nach überallhin
+zurück … Es war eine jener gelbbraunen halbwilden
+Bergziegen, wie sie aus den Hutia-Bergen nach überallhin
 als anspruchsloseste und gutmilchende Tiere exportiert
 werden.
 
@@ -1257,9 +1256,9 @@ Harald drehte sich nach mir um …
 »Simpson …!«
 
 Und er hob den Arm, tastete an dem Felsen entlang
-und … — zog einte klein« Steintür aus.
+und … — zog eine kleine Steintür auf.
 
-Der Felsen war bellt …
+Der Felsen war hohl …
 
 Undeutlich erkannte ich in dem engen Raum auf einem
 Lager von zerrissenen Säcken eine menschliche Gestalt …
@@ -1807,7 +1806,7 @@ Wallace hatte die schmalen Hände um die Querleifste
 eines Bo1dstuhles gelegt … Ich sah, wie die Adern dieser
 brutalen Mörderhände anschwollen …
 
-»Sie werden sich natürlich bei dem Austrag die größte
+»Sie werden sich natürlich bei dem Auftrag die größte
 Mühe geben und kein Wort sprechen …« sagte der Doktor
 hastig. »Sie müssen sich auch jetzt gleich als malaiische Matrosen
 verkleiden … Wir könnten einem Zollkutter begegnen
