@@ -1267,7 +1267,7 @@ Lager von zerrissenen Säcken eine menschliche Gestalt …
 <h3>Die drei stillen Gäste.</h3>
 
 Als wir abends neun Uhr wieder als Harst und Schraut
-das vornehme hing-Schwankt-Hotel betraten, überreichte uns
+das vornehme King-Edward-Hotel betraten, überreichte uns
 der Portier zwei Briefe: Einladungen Doktor Edward Wallaces
 zum morgigen Maskenfest! — Er schrieb, er sei leider
 nicht mehr imstande, das Fest des Todes seiner lieben Bekannten
@@ -1277,53 +1277,53 @@ dürfte … —
 
 Der nächste Tag brachte bis zum Abend nichts Neues.
 Harald hatte Sir Godwin und Inspektor Collins vertröstet
-und sie gebeten, irgendwie ebenfalls bei Wallace zu er
-scheinen … Sie gehörten nicht zu den Geladenen. —
+und sie gebeten, irgendwie ebenfalls bei Wallace zu erscheinen
+… Sie gehörten nicht zu den Geladenen. —
 
 Um halb neun begannen wir mit der Toilette. Unsere
-Frackanzüge hatten wir frisch bügeln lassen und uns mir
-jeder einen Domino besorgt.
+Frackanzüge hatten wir frisch bügeln lassen und uns nur
+jeder einen Domino<@refnote 2/> besorgt.
 
 Als wir im Auto nach Wallaces Bungalow fuhren,
-sagte Harst nur: »Gewebe bei Wallace nichts — gar nichts!
+sagte Harst nur: »Genieße bei Wallace nichts — gar nichts!
 Rauche auch Deine eigenen Zigarren. Der Schuft will
 uns fraglos zu frühzeitiger Himmelfahrt verhelfen …« —
 
 <@pagebreak/>
 Es mochten gegen zehn Uhr in dem glänzend erleuchteten
-Park etwa hundert Personen versammelt! sein.
-Wir beide, Seidenmasken vor den Gesichtern, wurden :;zum
+Park etwa hundert Personen versammelt sein.
+Wir beide, Seidenmasken vor den Gesichtern, wurden kaum
 beachtet …
 
 Als wir in der Nähe eines der reichlich und appetitlich
-besetzten hügelig standen, schlängelten sich zwei Herren in
-schreiend bunten Giaerlanzügen an uns heran …
+besetzten Büffets standen, schlängelten sich zwei Herren in
+schreiend bunten Gigerlanzügen an uns heran …
 
 Ein verabredetes Erkennungswort fiel: es waren Codanoor
 und Collins …
 
 Der Inspektor lachte unter seiner Maske …: »Über
-die Parkmauer sind wir gekommen …!!«
+die Parkmauer sind wir gekommen …!«
 
-Sir Godwin flüsterte: »Dieses Bild hier erinnert mich zu
-mal Sees ersten Maskenball … vor vier Monaten …
-Das fest fand damals so viel Anklang und Beifall, daß er
-es jetzt in ähnlicher Weise wiederholt … Aber die S.:inmt-mung
+Sir Godwin flüsterte: »Dieses Bild hier erinnert mich an
+Wallaces ersten Maskenball … vor vier Monaten …
+Das Fest fand damals so viel Anklang und Beifall, daß er
+es jetzt in ähnlicher Weise wiederholt … Aber die Stimmung
 der Gäste kommt mir heute reichlich flau vor …«
 
-Harald fragte ebenso leise: »Haben Sie schon die ge-schmadlose
+Harald fragte ebenso leise: »Haben Sie schon die geschmacklose
 Herrichtung der Vorhalle des Bungalows gesehen,
 Sir Codanoor? — Wir beide waren soeben dort …
 Wallace hat da auf einer Bank drei Skelette zur Schau
-gestellt — in Maskenkoöstümen …: eins als Türke, eins
+gestellt — in Maskenkostümen …: eins als Türke, eins
 als Harlekin, das dritte in einer Ritterrüstung aus
 Pappe …«
 
-Sir Godwin entfuhr ein wverwundertes »Merkwürdig
+Sir Godwin entfuhr ein verwundertes »Merkwürdig
 …!«
 
 »Vielleicht ein … Hohn von Wallace, Sir Codanoor …
-Wissen Sie vielleicht, ob Malcolm, Longin und Lord Chefter-ory,
+Wissen Sie vielleicht, ob Malcolm, Longin und Lord Chesterbry,
 die drei Selbstmörder, den ersten Maskenball mitgemacht
 haben?«
 
@@ -1337,10 +1337,10 @@ Harlekin …«
 
 <@pagebreak/>
 »Dann …« sagte Harst gepreßt, »dann hat dieser
-Straff mich durch diese Skelette verhöhnen wollen …
+Schuft mich durch diese Skelette verhöhnen wollen …
 Durch Skelette in der Tracht, die seine ersten drei Opfer
-damals anhatten … geht, heute … inszeniert er einen
-Maoskenball der Toten …!! Nun — wir werden ihm diesen
+damals anhatten … Jetzt, heute … inszeniert er einen
+Maskenball der Toten …!! Nun — wir werden ihm diesen
 Scherz … versalzen …!«
 
 Er verließ uns, ging zu dem Podium einer der beiden
@@ -1348,19 +1348,19 @@ Musikkapellen und holte sich einen Mann mit einer Trompete.
 
 Der Trompeter blies ein Signal …
 
-Alles snömt zusammen … Harst klettert auf einen
-Tisch … Gemimt die Grotte an, wirst den Domino bei
+Alles strömt zusammen … Harst klettert auf einen
+Tisch … Nimmt die Maske ab, wirft den Domino bei
 Seite …
 
-»Meine Damen und Herren …!« »Seine« Stimme versteht
+»Meine Damen und Herren …!« *Seine* Stimme versteht
 jeder … »Meine Damen und Herren …! Sie gestatten,
 daß ich mich Ihnen vorstelle: Harald Harst …!«
 
 Zurufe, Händeklatschen unterbrechen ihn …
 
 »Meine Damen und Herren! Darf ich Sie zu einer
-Jalousie auffordern … Darf ich Doktor Wallace bitten,
-diese gelangte mit mir zu eröffnen …«
+Polonäse auffordern … Darf ich Doktor Wallace bitten,
+diese Polonäse mit mir zu eröffnen …«
 
 Ein Mönch drängt sich vor …
 
@@ -1371,16 +1371,16 @@ Der Zug biegt nach dem Bungalow ab …
 Die Musik bleibt auf der Treppe …
 
 Und … vor den drei Skeletten im bunten Flitter macht
-Harald. halt …
+Harald halt …
 
 Die Musik bricht jäh ab …
 
 Harst hat noch immer des Mönches Arm in dem seinen
 … Tritt nun etwas zur Seite …
 
-Im Hintergrunde die Schar der Gäste … Alle Kostüme
+Im Hintergrunde die Schar der Gäste … Alle Fröhlichkeit
 ebenso jäh erloschen wie soeben der schmetternde
-all …
+Marsch …
 
 Man ahnt irgend etwas …
 
@@ -1392,20 +1392,20 @@ betonend:
 
 <@pagebreak/>
 »Viele von Ihnen, meine Damen und Herren, werden
-sich auf Wallaces erstes Maskenfest besinnen, auch daraus,
+sich auf Wallaces erstes Maskenfest besinnen, auch darauf,
 daß Malcolm, Longin und Chesterbry als Türke, Harlekin
 und Ritter erschienen waren … Die drei sind tot … Und
-doch hier …! Das, was unsterblich an ihnen, schwebt all?
-Rächer über unsern Häuptern: Maäskenball der Toten, der
+doch hier …! Das, was unsterblich an ihnen, schwebt als
+Rächer über unsern Häuptern: Maskenball der Toten, der
 Opfer eines Schurken, den ich … nun entlarven werde …!
-— Die drei waren Spieler — genau wie Wallace ein Spiele!
+— Die drei waren Spieler — genau wie Wallace ein Spieler
 ist, genau wie Major Collerlund spielte … Aber Wallace
 verstand seine Spielwut zu verheimlichen, spielte nur im
 engsten Kreise … genau wie Robert Simpson, von dem
 ich dies alles erfahren habe … Denn: Simpson lebt —
-»Robert« Simpson …! Ermordet wurde sein verkommenste
+*Robert* Simpson …! Ermordet wurde sein verkommener
 Zwillingsbruder Percy, dem … Doktor Wallace vorher
-genau dieselben Kleivunessrücke angezogen hatte, wie Robert
+genau dieselben Kleidungsstücke angezogen hatte, wie Robert
 Simpson sie trug …«
 
 Die Gäste drängten näher heran …
@@ -1413,29 +1413,29 @@ Die Gäste drängten näher heran …
 Wallace stand regungslos … Die Maske noch vor
 dem Gesicht …
 
-»Malerin, Longin und Chesterbry mußten sterben, weil
+»Malcolm, Longin und Chesterbry mußten sterben, weil
 Wallace im Spiel ungeheure Summen an sie in unbar verloren
 hatte … Er hypnotisierte sie und befahl ihnen,
-Selbstmord zu begehen. Er ist ein Hypnotiseur von so um
-heimlicher Macht, wie ich noch keinen kennen gelernt habe …
+Selbstmord zu begehen. Er ist ein Hypnotiseur von so unheimlicher
+Macht, wie ich noch keinen kennen gelernt habe …
 Ich war vorgestern Zeuge, wie er beim Billardspiel den
 Major Collerlund — auch Spielschulden wegen — hypnotisierte
-… Erst Schraubte ich an eine Art amerikanischen
-Duells … Collerlund erschoß sich … — auf WallaceskL
-hypnotischen Befehl … »So« tilgte der Mörder seine Spielschulden!
+… Erst glaubte ich an eine Art amerikanischen
+Duells … Collerlund erschoß sich … — auf Wallaces
+hypnotischen Befehl … *So* tilgte der Mörder seine Spielschulden!
 Diese vier Morde hatten nichts mit Miß Nelly
-Simpson zu tun … Aber der fünfte, der an »Percy«
+Simpson zu tun … Aber der fünfte, der an *Percy*
 Simpson, sollte Wallace den Weg zu einer Heirat mit Nelly
 ebnen … Er hatte als gefährlichsten Nebenbuhler John
 Gollipp zu fürchten. Den wollte er dadurch vor Nelly unmöglich
 machen, daß er ihn den Mord an Herrn Simpson
 eingestehen ließ — durch Hypnose! — Sie werden fragen:
 <@pagebreak/>
-Weshalb tötete er Percy Simpson und nicht Robert Simpson?k
-tun — Robert Simpson sollte leben bleiben, bis er ein
-Testament ausgesetzt hatte, das Nelly zur Erbin bestimmte,
+Weshalb tötete er Percy Simpson und nicht Robert Simpson?
+Nun — Robert Simpson sollte leben bleiben, bis er ein
+Testament aufgesetzt hatte, das Nelly zur Erbin bestimmte,
 — denn Wallace glaubte, Nelly sei … enterbt worden!
-und als Wallace, nachdem er Simpsons Wandfach ausgeleert
+Und als Wallace, nachdem er Simpsons Wandfach ausgeleert
 hatte, das Testament mit den ganz anders lautenden
 Bestimmungen fand, da … schickte er es zurück …
 Seine Absicht war nun, Nelly ebenfalls durch Hypnose
@@ -1446,12 +1446,12 @@ Er schwieg …
 
 Ein Herr schob sich durch die Menge …
 
-Ein einziger Schrei sollte auf:
+Ein einziger Schrei gellte auf:
 
-»Robert Simpson …!«
+<p class="centered">»Robert Simpson …!«</p>
 
 Wir beide hatten Wallace jetzt gepackt … Harald riß
-rum die Maske vom Gesicht …
+ihm die Maske vom Gesicht …
 
 Ein neuer allgemeiner Schrei …
 
@@ -1460,26 +1460,26 @@ Es … war nicht Edward Wallace …
 Es … war ein Fremder, ein Europäer mit jungem
 Gesicht …
 
-<@pagebreak/>
+<@pagebreak 34/>
 
-Doktor Wallaces Rache.
+<h1>Doktor Wallaces Rache.</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>unter Auftrag …</h3>
+<h3>Unser Auftrag …</h3>
 
-Ein junges, frisQGe8 Gesicht war unter der Seidenmaske
+Ein junges, frisches Gesicht war unter der Seidenmaske
 zum Vorschein gekommen … Ein junges, sympathisches
 Gesicht, das mehr Staunen und Verlegenheit als Angst
-geigte …
+zeigte …
 
-Eine Stimme dann aus der Schar der Gäste!
+Eine Stimme dann aus der Schar der Gäste:
 
-»Das ist ja Sydney Robert …!1«
+»Das ist ja Sydney Rovell …!1«
 
-Und auch andere Riesen:
+Und auch andere riefen:
 
-»bei Gott — — Robert …!!«
+»Bei Gott — — Rovell …!!«
 
 Der junge Mensch stierte Harald ein wenig blöde an,
 sagte nun endlich:
@@ -1498,56 +1498,56 @@ mich, einen kleinen Scherz mit Ihnen zu machen, Mr. Harst
 mir das nicht verargen, Mr. Harst … Ich habe mir dabei
 wirklich nichts gedacht …«
 
-Robert Simpson, der Wiederauferstandene, erklärte nun
+Robert Simpson, der Wiederauferstandene, erklärte nun:
 
 »Es ist der Stiefsohn von Mistreß Gocknar der Plantagenbesitzerin,
 Mr. Harst … Ein guter Junge … Ja,
-das sind Sie, Robert …! Das sieht man Ihnen von
+das sind Sie, Rovell …! Das sieht man Ihnen von
 <@pagebreak/>
 weitem an. Sie begehen keine Schurkereien wie Ihre Stiefmutter,
 die mich im sogenannten Waldtempel gefangen
-lächelt
+hielt …«
 
-Die Gäste umgaben uns jetzt in ganz engem Kreis
+Die Gäste umgaben uns jetzt in ganz engem Kreis …
 
-Simpsons au&s8drucksvolles Ausübt war erregt und verzerrt.
-Man merkte, wie stark die Wut über die ihm Anschlage
+Simpsons ausdrucksvolles Antlitz war erregt und verzerrt.
+Man merkte, wie stark die Wut über die ihm angetane
 Gewalt in ihm kochte …
 
 »Ich möchte Ihnen allen hier sofort schildern, was vorgestern
-nacht in meinem Park geschah,« fuhr er mit gepreßten
+nacht in meinem Park geschah,« fuhr er mit gepreßter
 Stimme fort. »Als ich meinen üblichen Spaziergang
-unternahmen, überfielen mich hinterrücks ein paar Kerle …
-Ein Schlag aus den Kopf streckte mich nieder. Als ich erwachte,
-hörte ich einen Schuß sollen … Man hob mich
-gerade über die Mauer … Ich) war gefesselt und »stachelt.
-einem Auto brachte man mich dann nach dem Walde bei
+unternahm, überfielen mich hinterrücks ein paar Kerle …
+Ein Schlag auf den Kopf streckte mich nieder. Als ich erwachte,
+hörte ich einen Schuß fallen … Man hob mich
+gerade über die Mauer … Ich war gefesselt und geknebelt.
+In einem Auto brachte man mich dann nach dem Walde bei
 der Plantage Jessar … — Nun, Mr. Harst fand mich, ließ
 mir ein Messer und eine Pistole da, lockerte meine Handfesseln
 und bestellte mich für heute hierher … Mistreß
-Sonar w wird jetzt von dem Ortspolizisten von Jessar bewacht
+Gocknar wird jetzt von dem Dorfpolizisten von Jessar bewacht
 …«
 
 Er machte eine Art Verbeugung rundum …
 
-»Meine Damen und seinen, Mr. Harst hat es verdient:
-drei ’Hochs auf Mr. Harst und seinen Freund …!«
+»Meine Damen und Herren, Mr. Harst hat es verdient:
+drei Hochs auf Mr. Harst und seinen Freund …!«
 
 Aber diese Ovation sollte niemals stattfinden …
 
 Ein Zwischenfall …
 
-Etwas, Tasche verbrecherischen Qualitäten des Doktors
-in ein neues Licht rückte
+Etwas, das die verbrecherischen Qualitäten des Doktors
+in ein neues Licht rückte …
 
 Hinter der Bank der drei Skelette hatte sich eine Gestalt
-ausgerichtet …
+aufgerichtet …
 
 Ein Mönch mit Seidenmaske vor dem Gesicht …
 
-»Einen Augenblick …!1«
+»Einen Augenblick …!!«
 
-mit! Diese Stimme wirkte wie ein allgemeines Beraubungen
+Diese Stimme wirkte wie ein allgemeines Betäubungsmittel
 …
 
 Noch mehr wirkte die Gelassenheit, mit der eine sehnige
@@ -1558,25 +1558,25 @@ so das kühl-lächelnde Gesicht Doktor Wallaces enthüllte
 »einen Augenblick, meine Herrschaften,« sagte er mit
 einem Hohn, der ungeahnte Schrecknisse verhieß. »Hier habe
 ich doch auch noch ein Wort mitzureden … Zunächst: Niemand
-rühre sich vom Platz! Stein Diener und Vertrauter
-hat Befehl, den elektrijichen Kontakt sofort zu schließen, falls
+rühre sich vom Platz! Mein Diener und Vertrauter
+hat Befehl, den elektrischen Kontakt sofort zu schließen, falls
 man mir nicht gehorcht …«
 
 Sein Lächeln wurde geradezu teuflisch …
 
 »Einige meiner bisherigen Freunde können bestätigen,
 daß ich nebenbei auch Chemiker bin und besonders mit den
-sogenannten modernen Kampifgasen experimentiert habe …«
+sogenannten modernen Kampfgasen experimentiert habe …«
 
 Seine linke Hand griff hinter die Bank und brachte einen
 Blechzylinder zum Vorschein, der etwa ein halb Meter lang
-und zehn Zentimeter dick war. In den Zylinder liegen zwei
+und zehn Zentimeter dick war. In den Zylinder liefen zwei
 isolierte Drähte hinein …
 
 »diese Gaspatrone, meine Herrschaften …« — und er
 legte sie auf die Bank — »würde genügen, Sie alle in Sekunden
 ins Jenseits zu befördern … Ich sehe da hinten
-Oberst fanden stehen … Er hat vor acht Tagen beobachtet,
+Oberst Ramdor stehen … Er hat vor acht Tagen beobachtet,
 wie ich in meinen Laboratorium Ratten durch dieses Gift
 tötete. Die Wirkung ist blitzartig. — Es liegt also in Ihrem
 Interesse, meine Damen und Herren, sich nicht vom Fleck
@@ -1588,34 +1588,35 @@ Garten mit Sir Codanoor und mit Mr. Collins so eifrig
 geflüstert hätten, wäre ich jetzt ein verlorener Mann. So
 aber liegen die Dinge geradezu umgekehrt. Ich bin ein
 vielfacher Mörder — gut, zugegeben. Doch schlauer als
-Sie bin ich trotzdem. Ein Wind von mir, und Sie alle
+Sie bin ich trotzdem. Ein Wink von mir, und Sie alle
 sind hinüber …!!«
 
 »Und … Sie mit!« meinte Harald achselzuckend. »Was
-Sie hier aufführen, Wallace, ist eine Posse für Narren
+Sie hier aufführen, Wallace, ist eine Posse für Narren …
 Ich könnte Sie sofort packen … Sie würden dann mit uns
+sterben …«
 
 <@pagebreak/>
-»Was ich auch war will,« lachte Wallace höhnisch. »An
+»Was ich auch nur will,« lachte Wallace höhnisch. »An
 meinem Leben liegt mir nichts mehr …«
 
 Sein mageres Gesicht, das die Züge eines weltfremden,
 ganz auf geistige Betätigung eingestellten Asketen trug, wurde
-nwrfwürdig verträumt …
+merkwürdig verträumt …
 
-»Nein — mein Leben gehört Pause vor? Nelly Simpson
+»Nein — mein Leben gehört nur noch Nelly Simpson
 …« sagte er nun leiser … weicher … »Die Leidenschaft
-eines reisen Mannes für ein Weib ist kein jugendlicher
-Rausch. Diese Leidenschaft hat mich besiegt … Ich
+eines reifen Mannes für ein Weib ist kein jugendlicher
+Rausch … Diese Leidenschaft hat mich besiegt … Ich
 werde Nelly jetzt niemals erobern — niemals mehr! Deshalb
 ist mir der Tod eine Erlösung … das Leben gleichgültig
 …« —
 
-Harald nickte dem zu allem tätigen Verbrecher leicht
+Harald nickte dem zu allem fähigen Verbrecher leicht
 zu …
 
 »Mag sein, daß Ihre Worte keine leeren Phrasen sind,
-Wallace … Erdboden ist dies hier ein Possenspiel …
+Wallace … Trotzdem ist dies hier ein Possenspiel …
 Ihnen kann nur an meinem und Schrauts Tode etwas
 liegen. Weshalb wollten Sie sich auch an diesen Herren
 und Damen dort rächen?! Und — auf Rache läuft diese
@@ -1623,13 +1624,13 @@ Szene doch hinaus …«
 
 Der Doktor lachte grell …
 
-»Rache. Nein — nennen »Sie es anständiger —
-Vergeltung. 1. —« »Das« ist’s …«
+»Rache. Nein — nennen Sie es anständiger —
+Vergeltung …! — *Das* ist’s …«
 
 »Nun also … — gut: Vergeltung! — Im Augenblick
 sind Sie Sieger … was fordern Sie?«
 
-»Etwas Selbsiverständlick8: Sie beide! Sie und
+»Etwas Selbstverständliches: Sie beide! Sie und
 Ihren Freund — und Ihr Ehrenwort, daß Sie mir widerstandslos
 sofort folgen …!«
 
@@ -1639,10 +1640,10 @@ Simpson stand, noch an sich gehalten …
 Jetzt brach er los …
 
 »Schurke, und Sie denken, daß diese Gentlemen hier
-dieses Opfer eines Mannes annehmen Werden, der …«
+dieses Opfer eines Mannes annehmen werden, der …«
 
-Harald hatte ihm durch eine sehr energische Hand
-Bewegung Schweigen geboten …
+Harald hatte ihm durch eine sehr energische Handbewegung
+Schweigen geboten …
 
 Verzeihen Sie, Sir Codanoor: hier handelt es ich um
 <@pagebreak/>
@@ -1655,20 +1656,20 @@ kaum kaltblütig ermorden …«
 »Ich traue Ihnen alles zu, Wallace … Ich weiß
 genau: Sie hätten uns ohne Erbarmen hier längst durch
 Ihr Gas vergiftet, wenn Sie … mich nicht brauchen
-wären! Das ist 8! Sie brauchen meine Hilfe, meine
+würden! *Das* ist’s! Sie brauchen meine Hilfe, meine
 geringe Fähigkeit, schärfer zu denken als andere. Und — ich
 will Ihnen diese Hilfe nicht versagen, will tun, was Sie
 wünschen, wenn Sie uns, Schraut und mich, noch vierundzwanzig
 Stunden nach dieser Arbeit, die Sie verlangen
-werden, am Leben lassen und die Ga&8bombe sofort unschädlich
+werden, am Leben lassen und die Gasbombe sofort unschädlich
 machen … Mein Ehrenwort auf alles das!« —
 
-gleich daraus eilten Wallace, der Malaie und wir beide
+Gleich darauf eilten Wallace, der Malaie und wir beide
 einer Seitenpforte des ehemaligen Jesuitenfriedhofs zu …
 
-Ein Auto wartete hier in: der engen Seitengasse …
+Ein Auto wartete hier in der engen Seitengasse …
 Wir stiegen ein … Es war ein geschlossener Wagen …
-Der braune Schaltest fuhr wie der Teufel …
+Der braune Schofför fuhr wie der Teufel …
 
 Eine Stunde ging’s in demselben Tempo weiter …
 Dann glitten die Gummiräder über weichen Sand … Ich
@@ -1683,7 +1684,7 @@ Reizlosigkeit …
 
 Der Malaie schwang eine elektrische Lampe im Kreise …
 
-Das Signal wurde von See her beantwortet
+Das Signal wurde von See her beantwortet …
 
 Ein Fahrzeug schälte seine Konturen aus nächtlicher
 Dämmerung … eine schwerfällige malaiische Prau mit
@@ -1702,7 +1703,7 @@ Hinter uns am Strande sauste das angekurbelte Auto
 ohne Führer ins Wasser … arbeitete sich weiter — schwamm
 … und versank …
 
-»Hiermit breche ich gleichsam die lebte Brücke hinter
+»Hiermit breche ich gleichsam die letzte Brücke hinter
 mir ab,« meinte Wallace mit schrillem Auflachen … »Nun
 beginnt das … andere Leben …« —
 
@@ -1710,13 +1711,13 @@ Wir kletterten an einer Strickleiter an Deck der Handelsprau,
 die vorn und achtern mit Fässern und Tonnen beladen
 war.
 
-In der Hekajüte, deren elegante Einrichtung uns Überraschte,
-waren wir dann mit Wallace allein … ohne große
+In der Heckkajüte, deren elegante Einrichtung uns Überraschte,
+waren wir dann mit Wallace allein … Eine große
 Petroleumlampe pendelte über dem ovalen Tisch …
 
 »Setzen Sie sich …« sagte der Doktor.
 
-Sessel aus feinsten Gesicht der Padangwurzel nahmen
+Sessel aus feinstem Geflecht der Padangwurzel nahmen
 uns auf …
 
 Wallace blieb stehen …
@@ -1727,23 +1728,23 @@ Lächeln, wie ich es im Royal-Klub kennengelernt hatte …
 »Mr. Harst, ich will Ihnen Ihre Aufgabe sofort nennen,«
 begann er. »Ich habe Ihr Ehrenwort …«
 
-»Ja … Das beißt: keinen Mord!«
+»Ja … Das heißt: keinen Mord!«
 
 »Bewahre …! Mord!! Nein — etwas ganz Harmloses,
-Mr. Harst … — Sie gelegen ja die Gedanken anderer
+Mr. Harst … — Sie pflegen ja die Gedanken anderer
 zu erraten … Also — raten Sie …«
 
-»Bedauere, Wallace … Ich kann mich in Ihre Ge-danfengänge
-noch nicht »genügend hineinfinden. Ich kenne
-Sie noch zu wenig -
+»Bedauere, Wallace … Ich kann mich in Ihre Gedankengänge
+noch nicht genügend hineinfinden. Ich kenne
+Sie noch zu wenig …«
 
-»Nun … — Sie sollen …
+»Nun … — Sie sollen …«
 
 Pause …
 
 Ich hielt den Atem an …
 
-»… Sie sollen, sobald diese Prau auf dem Hauch inmitten
+»… Sie sollen, sobald diese Prau auf dem Hugli inmitten
 des Häusermeeres von Kalkutta ankert, verkleidet
 Miß Nelly Simpson entführen und auf die Prau bringen …«
 
@@ -1753,17 +1754,17 @@ Miß Nelly Simpson entführen und auf die Prau bringen …«
 
 <h3>Der Mann im Kasten.</h3>
 
-Ich hatte mir beiseite alles Mögliche ausgedacht gehabt,
-was Wallace von uns wohl sondern könnte.
+Ich hatte mir bereits alles Mögliche ausgedacht gehabt,
+was Wallace von uns wohl fordern könnte.
 
 Dies überstieg alle Erwartungen. Dies machte selbst
 Harald für Minuten stumm …
 
-Draußen auf Deck eilte die malaiische Besatzung bin
+Draußen auf Deck eilte die malaiische Besatzung hin
 und her …
 
-Segel klatschten, Raben knarrten … Gleichmäßig wiegte
-sich die Prau aus den Wellen …
+Segel klatschten, Rahen knarrten … Gleichmäßig wiegte
+sich die Prau auf den Wellen …
 
 »Werden Sie gehorchen?« fragte Wallace mit dem
 scheußlichen Zucken der Mundwinkel …
@@ -1778,7 +1779,7 @@ Er nahm eine Mirakulum und hielt mir das Etui hin …
 
 Der Doktor beobachtete uns …
 
-»Wie soll ich dies auslassen?« fragte er unsicher …
+»Wie soll ich dies auffassen?« fragte er unsicher …
 
 Harst ließ sein Taschenfeuerzeug aufflammen …
 
@@ -1802,8 +1803,8 @@ leichtes …«
 Harald rauchte …
 
 <@pagebreak/>
-Wallace hatte die schmalen Hände um die Querleifste
-eines Bo1dstuhles gelegt … Ich sah, wie die Adern dieser
+Wallace hatte die schmalen Hände um die Querleiste
+eines Bordstuhles gelegt … Ich sah, wie die Adern dieser
 brutalen Mörderhände anschwollen …
 
 »Sie werden sich natürlich bei dem Auftrag die größte
@@ -1812,39 +1813,39 @@ hastig. »Sie müssen sich auch jetzt gleich als malaiische Matrosen
 verkleiden … Wir könnten einem Zollkutter begegnen
 … Alles Nötige liegt dort im Schranke …«
 
-»20. so … — im schlanke dort, Wallace …
+»So … so … — im Schranke dort, Wallace …
 Mithin haben Sie zuweilen ebenfalls diese Maske angelegt
-. Denn daß wir hier an Bord kommen  »würden,
+… Denn daß wir hier an Bord kommen würden,
 konnten Sie vor drei Stunden noch nicht ahnen …«
 
 »Allerdings nicht …«
 
 »Und die Prau hielt sich mithin wohl auch zu anderem
-Zweck hier in der Nähe der Küste bereit …?k«
+Zweck hier in der Nähe der Küste bereit …?«
 
 »Sehr richtig — zu einem ganz anderen Zweck … Ich
-benutzte nur die gute Gelegenheit … — Aber — sangen
+benutzte nur die gute Gelegenheit … — Aber — fangen
 wir an … Auch ich muß ja vorläufig den Doktor Wallace
 … ausziehen …« —
 
 Komik?! Abenteuerliche Situation — oder Tragikomödie?!
 
-… Zwei Detektive und ein fünffachen Mörder maskierten
+… Zwei Detektive und ein fünffacher Mörder maskierten
 sich, halfen sich gegenseitig, rieben sich die Haut mit
-dem Karte der Sumga-Wurzel ein, wurden braun, wurden
+dem Safte der Sumga-Wurzel ein, wurden braun, wurden
 verwegene Kerle mit kurzen bunten Hosen, Bastsandalen,
 bunten Hemden und kühn geschlungenen Kopftüchern …
 
 In zehn Minuten war das alles erledigt.
 
-Dann führte Wallace uns zum Bugaufsbau des plumpen
+Dann führte Wallace uns zum Bugaufbau des plumpen
 Fahrzeugs und wies uns hier eine Kammer an, in der
 nur ein paar Strohmatten lagen …
 
 Die Tür ging nach draußen auf Deck …
 
 Wir setzten uns … Die Tür blieb offen. Von der
-Besatzung kümmerte sich »niemand um uns. Es machte ganz
+Besatzung kümmerte sich niemand um uns. Es machte ganz
 den Eindruck, als ob diese Malaien — es mochten vierzehn
 Leute sein — an die wunderlichsten Dinge gewöhnt wären.
 
@@ -1854,11 +1855,11 @@ der ekelhafte Diener, beide auch bereits in Matrosen verwandelt.
 Zwischen den beiden kurzen Masten aber standen
 der Doktor und der Kapitän, der kein Malaie, sondern ein
 Japaner war, ein ganz kleiner vertrockneter Kerl mit einem
-Knebelbart, der wie vertilgte Wolle aussah …
+Knebelbart, der wie verfilzte Wolle aussah …
 
-Die beiden sprachen sehr eifrig miteinander. Der Rani
-rührte dabei Hände und Arme wie ein sadistischen Steuermann
-… 8 schien sich um uns zu handeln, denn sie
+Die beiden sprachen sehr eifrig miteinander. Der Japs
+rührte dabei Hände und Arme wie ein galizischer Ghettomann
+… Es schien sich um uns zu handeln, denn sie
 blickten wiederholt nach der offenen Tür unserer Kammer,
 konnten uns aber unmöglich sehen, denn wir saßen im
 Dunkeln …
@@ -1866,18 +1867,18 @@ Dunkeln …
 Harald rauchte die fünfte Zigarette. jetzt nicht mehr
 Mirakulum, sondern opiumhaltige süßliche Dinger, die Wallace
 uns gespendet, jedem eine Schachtel zu zwanzig Stück …
-Wir schmeckten sie nicht.
+Mir schmeckten sie nicht.
 
 »Der Mensch hat noch mehr auf dem Gewissen,« sagte
 Harald ganz laut … Wir konnten getrost uns in deutscher
 Sprache unterhalten, von den Malaien verstand sicherlich
-seiner auch nur ein Wort davon …
+keiner auch nur ein Wort davon …
 
 Ich blieb stumm …
 
 Ich hatte etwas gehört: ein Kratzen an der Verbindungswand
 nach der Nebenkammer — ein Kratzen, wie wenn
-jemand mit dem Fingernagel über ein Brett Fahrt …
+jemand mit dem Fingernagel über ein Brett fährt …
 
 Ich lauschte …
 
@@ -1888,11 +1889,12 @@ schon eine ganze Weile. Natürlich ein Mann, der sich uns
 bemerkbar machen will … Hier, nimm die Zigarette, mein
 Alter. Rauche weiter. Das glühende Pünktchen ist
 von draußen zu sehen … Dann glaubt Wallace, ich säße
-noch auf »demselben Fleck. Wenn jemand sich nähert, hast
+noch auf demselben Fleck. Wenn jemand sich nähert, huste
+stark …«
 
-Ich nahm die rappelte …
+Ich nahm die Zigarette …
 
-Das flatterte Geräusch war verstummt …
+Das kratzende Geräusch war verstummt …
 
 Harst verschwand von meiner Seite.
 
@@ -1903,7 +1905,7 @@ zwei Brettern der Verbindungswand mit dem Messer erweiterte
 
 Dann rief er leise: »Hallo — ist dort jemand?«
 
-Ich bereits …
+Ich horchte …
 
 Nichts …
 
@@ -1914,12 +1916,12 @@ Nun kam er zu mir zurück …
 
 »Gib mir die Zigarette …«
 
-Ah hatte inzwischen eine neue angezündet …
+Ich hatte inzwischen eine neue angezündet …
 
-»Er antwortet nicht …« meinte ich … »vielleicht!
+»Er antwortet nicht …« meinte ich … »vielleicht
 ist er geknebelt …«
 
-»es dürfte kaum möglich sein, mein Alter …«
+»Das dürfte kaum möglich sein, mein Alter …«
 
 »So?!«
 
@@ -1930,7 +1932,7 @@ Ganz Harst …!!
 
 Ich kroch …
 
-Ich roh …
+Ich roch …
 
 Donnerwetter: das war Raubtierduft — sehr intensiv!
 
@@ -1955,25 +1957,25 @@ Vielleicht lernen wir die Bestie noch näher kennen …«
 
 »… daß Wallace uns vierundzwanzig Stunden nach
 getaner Arbeit als Raubtierfutter benutzen wird — das
-glaube ich ziemlich bestimmt 1«
+glaube ich ziemlich bestimmt!«
 
 Ich verspürte plötzlich Sehnsucht nach einem doppeletagigen
 Kognak …
 
 »Und — und wie denkst Du Dir diese Geschichte Überhaupt,
 <@pagebreak/>
-Harald?« lenkte iä&! mit trockenen Lippen auf unsere
-Ausgabe über. »Braust zu Nelly Simpson diesem …«
+Harald?« lenkte ich mit trockenen Lippen auf unsere
+Aufgabe über. »Willst Du Nelly Simpson diesem …«
 
-»Stopp, was Schraut … Von Wollen oder Nicht-wollen
+»Stopp, Max Schraut … Von Wollen oder Nichtwollen
 kann hier nicht die Rede sein. Wir haben einigen
-achtzig bis neunzig Menschen das neben gaercttet, indem wir
+achtzig bis neunzig Menschen das neben gerettet, indem wir
 uns zum Gehorsam verpflichteten … Selbst wenn Kerl
-hier an Bord sein wird, ist ja noch nicht aller Tage Abend
-In dem Moment, wo wir Geist dem Doktor übergeben, hat
-unser Kontrakt mit ihm ein Ende — Primitiv!«
+hier an Bord sein wird, ist ja noch nicht aller Tage Abend!
+In dem Moment, wo wir Nelly dem Doktor übergeben, hat
+unser Kontrakt mit ihm ein Ende — definitiv!«
 
-»Ab so …! Und …«
+»Ah so …! Und …«
 
 Sein lautes Gähnen ließ mich verstummen …
 
@@ -1984,15 +1986,15 @@ Fünf Minuten drauf schlief er …
 Ich starrte hinaus auf das mondhelle Deck …
 
 Es mochte halb zwei morgens sein … Genau konnte
-ich die Zeit nicht schätzen. ja — kratzte wieder die Bestie
-zu den breiten …
+ich die Zeit nicht schätzen. Da — kratzte wieder die Bestie
+an den Brettern …
 
 Zum Donner: das waren doch nicht Tigerkrallen …
 Ausgeschlossen! Waren Harst und ich denn vorhin begriffsstutzig
 gewesen, dieses Kratzen so falsch zu deuten?!
 
 Der Freund schlief … Aber — mein Ehrgeiz erwachte
-— wachte! — Zum Teufel — sollte ihm, Max Schraut, nicht
+— wachte! — Zum Teufel — sollte ich, Max Schraut, nicht
 auch einmal wieder auf eigene Faust etwas Großes zustande
 bringen?!
 
@@ -2003,7 +2005,7 @@ hatte … Ich fühlte es, steckte einen Finger hindurch, zog
 ihn schnell wieder zurück: eine eisige Tiernase hatte meine
 Fingerspitze berührt!
 
-Ein netter Schreck? Wenn ich Pech gehabt hätte, würde
+Ein netter Schreck! Wenn ich Pech gehabt hätte, würde
 jetzt meine Zeigefingerspitze in einem Tigermagen verdaut
 werden …
 
@@ -2011,7 +2013,7 @@ Ich nahm mir vor, doch etwas vorsichtiger zu sein …
 
 Und horchte …
 
-Aha — das ’Kraven entlang hier weiter links …
+Aha — das Kratzen erklang hier weiter links …
 
 Ich paßte genau auf …
 
@@ -2019,9 +2021,9 @@ Ich paßte genau auf …
 Es erklang stets an derselben Stelle des einen Brettes
 — dicht über dem Fußboden …
 
-Und ich — tat nun da&selbe …
+Und ich — tat nun dasselbe …
 
-Kratz — trat — trat — — mit dem Zeigefingernagel!
+Kratz — kratz — kratz — — mit dem Zeigefingernagel!
 Gott sei Dank: ich hatte den Zeigefinger soeben vor einem
 traurigen Schicksal bewahrt!
 
@@ -2031,20 +2033,20 @@ Und — siehe da:
 drüben …
 
 Also so standen die Dinge!! Dort drüben war doch
-ein Mensch — ein vernunftbegabte8 Wesen, das ebenfalls
-mit drei Stationen auf meine drei reagierte!
+ein Mensch — ein vernunftbegabtes Wesen, das ebenfalls
+mit drei Kratztönen auf meine drei reagierte!
 
 ich versuchte es nochmals.
 
-trat — trat — kratz — kratz …
+Kratz — kratz — kratz — kratz …
 
 Und der Unbekannte, der Nachbar in der Tigerbox, antwortete
 genau so: vier Zeichen!
 
 Zunächst mußte ich nun Ordnung in diese neuen Beobachtungen
-bringen, mir die Sache überlegen, Wabhricheinlich
-gab es nebenan zwei Verschläge. In he:n einen der Tiger,
-in dem andern ein Gefesselter und Geknebelten. der nur
+bringen, mir die Sache überlegen. Wahrscheinlich
+gab es nebenan zwei Verschläge. In dem einen der Tiger,
+in dem andern ein Gefesselter und Geknebelter, der nur
 gerade mit dem einen Finger sich auf diese Weise bemerkbar
 machen konnte …!
 
@@ -2066,7 +2068,7 @@ Also — zunächst der Anruf …
 Dann der Buchstabe a: kurz lang …
 
 Siehe da: der Unbekannte telegraphierte als Antwort
-ß: lang kurz kurz kurz …
+b: lang kurz kurz kurz …
 
 Pause …
 
@@ -2081,15 +2083,15 @@ Das hieß: Ich!
 
 Und so ging es weiter:
 
-Ich liege gebunden und geknebelt in einer engen Kiste
-mit Luftilöchern. Hier in der Kammer befindet sich ein
+> Ich liege gebunden und geknebelt in einer engen Kiste
+mit Luftlöchern. Hier in der Kammer befindet sich ein
 Sumatra-Tiger. Ich bin der Angestellte der Firma Hagenbeck,
 Fritz Dietrich. Ich vermute, daß Sie auch Gefangene
 dieser Schurken sind. Ich hörte vorhin undeutlich ein
 paar deutsche Worte. Wer sind Sie?
 
 Welchen Eindruck diese Mitteilung auf mich machte, kann
-jeder un;einer selbst ermessen …
+jeder unschwer selbst ermessen …
 
 Sofort depeschierte ich zurück:
 
@@ -2099,26 +2101,26 @@ Sofort depeschierte ich zurück:
 »Zu lang, um auf diese Weise zu berichten … — Meine
 Kiste steht mit der einen Schmalseite dicht an der Wand …
 Kann nur gerade den Zeigefinger durch ein Astloch des
-Kistenbrettes sicher …«
+Kistenbrettes stecken …«
 
 Ich mußte jetzt unbedingt Harald wecken …
 
 Und telegraphierte daher dem Landsmann:
 
-»Warten Sie ein paar Minuten … Ich4 will Harst
-Schweden …«
+»Warten Sie ein paar Minuten … Ich will Harst
+wecken …«
 
 Ich kroch zu Harald hin …
 
-Undeutlich sah ich, daß er aufrecht saß…
+Undeutlich sah ich, daß er aufrecht saß …
 
-»Sehr gut gemacht, mein Alter,« flüsterte er, »Ich
+»Sehr gut gemacht, mein Alter,« flüsterte er. »Ich
 bin im Bilde … Ich habe das Telegraphieren mitgehört …«
 
 Und jetzt spendete er Fritz Dietrich Trost, depeschierte
-Glauben:
+hinüber:
 
-»Wir Felsen Ihnen … Wir befreien Sie …«
+»Wir helfen Ihnen … Wir befreien Sie …«
 
 <@pagebreak/>
 
@@ -2231,7 +2233,7 @@ weggefegt werden … Die Wirtsstube werde ich wieder
 einfügen … Hilf mir …«
 
 Es war nicht zu umgehen, daß wir hierbei wiederholt
-die Taschenlampen einschalieten. Als Harst die herausgesägten
+die Taschenlampen einschalteten. Als Harst die herausgesägten
 Stücke der Kistenwand erprobte, als ich ihm dabei
 e, schnellte plötzlich der Tiger mit kurzem Brüllen
 auf den hellen Fleck zu, stieß die Kiste um und schob den
@@ -2965,7 +2967,7 @@ kennt … —
 
 Um es hier gleich zu erwähnen: der Tiger hat Wallace
 nicht gefressen. Wahrscheinlich störte ihn der Geruch des
-Hautsärbemittel8. Die prächtige Bestie lebt heute im hiernach
+Hautfärbemittels. Die prächtige Bestie lebt heute im hiernach
 in Stehkragen bei Hamburg, der Hagenbeckschen
 Schöpfung … —
 
