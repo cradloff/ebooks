@@ -106,7 +106,6 @@ Und — zog mit aller Kraft …
 
 Was vorhin noch Grita Buccleys Arme geschafft hatten,
 gelang nicht den trainierten Muskeln meines Freundes …
-
 Der Sargdeckel rührte sich nicht!
 
 Auch ich griff mit zu …
@@ -183,7 +182,7 @@ In — unserem Wohngemach …
 
 <@pagebreak/>
 Träumte ich?! Wo war ich doch zuletzt in wachem Zustand
-gewesen? Im — Erbbegräbnis … nein, im Raume
+gewesen? Im — Erbbegräbnis …, nein, im Raume
 der Statuen …
 
 Und — dort … dort waren wir doch … betäubt worden
@@ -545,7 +544,7 @@ da …!!«
 
 Und er riß die Schnur weg …
 
-Kehrte den Sack wieder, um …
+Kehrte den Sack wieder um …
 
 Das Becken und zwei Beutel fielen auf den Teppich …
 
@@ -577,7 +576,6 @@ Herren …« Er drückte uns die Hand. Nickte dann dem
 Yogi zu.
 
 »Sadwitala ist kein Schwindler, Sennor Harst …«
-
 <@pagebreak/>
 Und er lächelte fein. »Guiseppe hätte jedoch diesen Scherz
 mit Ihnen sich nicht erlauben dürfen … — Es gibt keine
@@ -663,7 +661,6 @@ Sie zweifeln noch immer?«
 
 »Ich zweifle nicht mehr …« Pause … »Wir haben
 *nicht* geträumt … Daran zweifle ich nicht …« Pause.
-
 »Guiseppe hatte uns beide vor ein anderes Flaschenregal und
 in einen anderen Keller geführt. Das war’s!«
 
@@ -852,7 +849,7 @@ uns. Der schwere Wein macht müde … Der Graf gähnt
 verstohlen. Und um Mitternacht trennen wir uns.
 
 Wie sehnsüchtig hatte ich auf diese erste Minute des
-Alleinseins mit Harald gewartet! Wie zahllose Fragen
+Alleinseins mit Harald gewartet! Wieviel zahllose Fragen
 lagen mir auf der Zunge …!
 
 Wir sind in unserem Wohngemach — in dem Reitstall,
@@ -878,7 +875,7 @@ Ich verstehe: ich soll nichts fragen!
 Und ich ahne: von Schlaf wird in dieser Nacht keine Rede
 sein!
 
-Unter gleichgültigen Bemerkungen entkleiden wir uns,
+Unter gleichgültigen Bemerkungen entkleiden wir uns.
 Harst schaltet das Licht aus.
 
 Trotzdem bleibt geheimnisvolle Dämmerung in unserem
@@ -890,7 +887,7 @@ Ich liege eine Weile still … Und als ich mich drehe,
 sitzt Harst aufrecht in seinem breiten Bett und hat den Kopf
 in die Hand gestützt …
 
-Regungslos ist er … Wie einer, der angestrengt
+Regungslos sitzt er … Wie einer, der angestrengt
 nachdenkt …
 
 In meinen Nerven fiebert die Erwartung. Ich weiß:
@@ -1007,7 +1004,7 @@ erschiene.
 
 Wir stehen oben, klettern durch die Falltür …
 
-Stehen in dem Räume der Statuen, der jetzt leer ist …
+Stehen in dem Raume der Statuen, der jetzt leer ist …
 
 Leuchten die Wände ab …
 
@@ -1021,6 +1018,7 @@ umschreibt so die unregelmäßigen Umrisse dessen, was wir
 suchen: ein bewegliches Stück des Gesteins!
 
 Er tastet weiter — stemmt die Knie gegen die Wand …
+
 Mit leisem Kreischen dreht sich die zackige Tür nach
 innen …
 
@@ -1120,7 +1118,7 @@ mir, als ich hier gebunden im Dunkeln lag …«
 Wir haben Sie belauscht … — Was wollten Sie oben
 bei den Särgen?«
 
-»Nichts … Ich bin oft dort, wenn Sadwitala
+»Nichts … Ich bin oft dort, … wenn Sadwitala
 nicht daheim ist und ich entschlüpfen kann …«
 
 »So läßt Ihr Sohn Sie nicht ungehindert umherwandern?«
@@ -1174,7 +1172,7 @@ an andere Temperaturen gewöhnt.
 
 Der alte Graf, der seine frühere Existenz so vollkommen
 vergessen hatte, schlug südliche Richtung ein. Wir klommen
-nach Durchquerung eines Buschstreifens die Talwand hinan
+nach Durchquerung eines Waldstreifens die Talwand hinan
 und stiegen abermals in ein bewaldetes Tal hinab.
 
 Die ganzen Umstände rieten zu allergrößter Vorsicht.
@@ -1182,7 +1180,7 @@ Wir hielten die Pistolen bereit. Ganz abgesehen von dem
 Getier der Bergwildnis, das jetzt auf Raub unterwegs war,
 mußten wir auch mit menschlichen Feinden rechnen. Guiseppe
 Vandoni hatte ja offenbar die ganze Dienerschaft der
-Burg, wahrscheinlich auch die farbigen Minenarbeiter auf
+Burg, wahrscheinlich auch die farbigen Minenarbeiter, auf
 seiner Seite. Und dann noch der Fakir, erst recht kein zu
 verachtender Gegner …! —
 
@@ -1411,7 +1409,7 @@ Und sie ritten mit ihrem Packpferd im Trab davon …
 <h3>Die Indra-Diamanten.</h3>
 
 Sadwitala war tot … Wir ließen die Leiche liegen,
-leuchteten mit unseren Taschenlampen nur flüchtig die Kellertreppe
+leuchteten mit unseren Taschenlampen nur flüchtig die Felsentreppe
 des Kegels ab …
 
 Brillenschlangen — ja, eine Unmenge … Regungslos
@@ -1433,7 +1431,7 @@ Wir schritten das Tal entlang. Die Nacht verblich. Im
 Osten dämmerte der neue Tag herauf …
 
 Unsere Kleider waren wieder trocken geworden. Fahles
-Morgenlicht drang in dicke Bergtäler ein …
+Morgenlicht drang in die Bergtäler ein …
 
 Dann der See — die Burg …
 
@@ -1453,7 +1451,7 @@ lassen …
 Der Graf hatte den weißen Kopf in die Hand gestützt …
 
 »Es lagert ein Druck auf meinem Hirn,« sagte er leise.
-»Und dieser Druck ist wie ein eisernes Tor, daß mir die Ansicht
+»Und dieser Druck ist wie ein eisernes Tor, das mir die Aussicht
 in das Einst verschließt … Ich weiß nicht, wer ich
 bin …«
 
@@ -1616,7 +1614,7 @@ Wir wollten diese Wiedersehensszene nicht stören. —
 
 Und drei Stunden später hatten wir dann bei einem Besuch
 des Inseltempels festgestellt, daß die Edelsteine aus den
-Indra-Steinen abermals verschwunden waren. Vor der
+Indra-Statuen abermals verschwunden waren. Vor der
 einen Krone lag ein Zettel: »Wir pflegen unser Ziel stets
 zu erreichen! — Die Buccleys.«
 
