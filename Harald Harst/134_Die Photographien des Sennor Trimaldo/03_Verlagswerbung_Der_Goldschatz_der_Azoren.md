@@ -6,5 +6,5 @@ Lomatz landet mit der Sphinx in der Nähe von Lissabon zu dem Zwecke, sich hier 
 
 Soweit der kurze Inhalt der Fortsetzung des Romanes. Die Handlung hat sich so interessant gestaltet, daß wir unseren Lesern nur dringend raten können, sich die Fortsetzung bei ihrem Buchhändler zum Preise von 30 Pf. Pro Band zu bestellen. Sollte derselbe die Bestellung nicht übernehmen, schreibe man an den
 
-<div style="font-size: x-large; text-align: center;">Verlag moderner Lektüre, Berlin 26, Elisabeth-Ufer 44.</div>
+<div style="font-size: large; text-align: center;">Verlag moderner Lektüre, Berlin 26, Elisabeth-Ufer 44.</div>
 

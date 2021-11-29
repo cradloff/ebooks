@@ -69,7 +69,7 @@ Ich richtete mich etwas auf.
 
 Er wollte noch etwas hinzufügen. Der Vorhang rauschte empor, und – Naida erschien … –
 
-Arme, arme Naida … Scheu nahm sie aus dem Rohrsofa Platz … Harst hatte sich erhoben.
+Arme, arme Naida … Scheu nahm sie auf dem Rohrsofa Platz … Harst hatte sich erhoben.
 
 »Ich – ich habe – das Bild hervorgesucht,« sagte sie in tadellosem Englisch. »Aber mein Vater darf nie erfahren, daß ich ein Bild des Mannes besitze, der mich mit seiner Liebe beglückte und dann mich verließ …«
 
@@ -164,7 +164,7 @@ Wir ruderten im ersten Morgengrauen über die Dschamna. Wir mußten uns beeilen,
 
 Der Fluß war recht belebt. Von einem schwerfälligen Lastsampan aus wurden wir angerufen. Grölendes Lachen scholl hinter uns drein. Die alte Jukara blieb nicht stumm. Ihre keifende Stimme scheuchte einen Schwarm Kraniche auf, der sich einen treibenden Baumstamm als Ruhesitz erkoren.
 
-Dann wies Jukara mit dem knochigen Arm mehr nach links, wo hinter einer Steinbuhne ein schmaler Kanal ins Land einschnitt. Reisfelder zogen sich bis dicht an diesen Kanal hin. Einzelne Lehmhütten belebten die einsame Landschaft. Bei der vierten dieser Hütten legten wir an. Am Ufer hockte ein uralter Hindu und angelte. Es war Tismara, der Semar-Yogi.
+Dann wies Jukara mit dem knochigen Arm mehr nach links, wo hinter einer Steinbuhne<@refnote 1/> ein schmaler Kanal ins Land einschnitt. Reisfelder zogen sich bis dicht an diesen Kanal hin. Einzelne Lehmhütten belebten die einsame Landschaft. Bei der vierten dieser Hütten legten wir an. Am Ufer hockte ein uralter Hindu und angelte. Es war Tismara, der Semar-Yogi.
 
 Nicht einen einzigen Blick schenkte er uns. Gerade in diesen höheren Hindu-Kasten lebt noch ein unauslöschlicher Weißenhaß.
 
@@ -818,5 +818,5 @@ Auch Mary Johnston, die Amerikanerin, war so vor einem entsetzlichen Schicksal b
 
 Hiermit muß ich mich für heute von den Lesern verabschieden. – Die Besichtigung des Höhlendorfes Lodwalla vermittelte uns unser nächstes Abenteuer:
 
-Der Kokain-Klub.
+__Der Kokain-Klub.__
 

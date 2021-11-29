@@ -154,7 +154,7 @@ Wie ich …
 
 Im Garten drüben schluchzte eine Bul-Bul, die indische Nachtigall, ihr Sehnsuchtslied zu den Sternen empor …
 
-Von einem Frachtboot, das in der Nähe ankerte, Gesang herüber …
+Von einem Frachtboot, das in der Nähe ankerte, kam Gesang herüber …
 
 Und – von ganz fern, aus dem Europäerviertel, drangen verschwommen Walzerklänge einer Militärkapelle bis zur murmelnden, gurgelnden Dschamna …
 
@@ -294,7 +294,7 @@ Harald bückt sich, leuchtet in das Loch hinab …
 
 Prallt leicht zurück …
 
-»Entsetzlich !!«
+»Entsetzlich!!«
 
 Und deckt die Platte über die quadratische Öffnung …
 
@@ -388,7 +388,7 @@ Bett, Tisch, Waschständer, zwei Stühle, eine Kiste für Kleider – aber elekt
 
 Und Meinas antwortet wieder auf Harsts Fragen:
 
-»Ja – Trimaldo hat mich in Kalkutta schon verkleidet empfangen … Hat schwarzen Vollbart gehabt … Wie Trimaldo sonst aussieht, weiß ich nicht … Ich spüre ihm, seit meine Kopfwunde geheilt ist, jede Nacht nach … Noch nie habe ich ihn wieder zu Gesicht bekommen … Ich liege an dem Tempelchen in Bissus Park allnächtlich auf der Lauer – umsonst …! Aber ich werde den Schuft finde, der mich ehrlos machte. Ich habe Ausdauer … Und wenn ich noch weitere drei Monate hier zubringen sollte –«
+»Ja – Trimaldo hat mich in Kalkutta schon verkleidet empfangen … Hat schwarzen Vollbart gehabt … Wie Trimaldo sonst aussieht, weiß ich nicht … Ich spüre ihm, seit meine Kopfwunde geheilt ist, jede Nacht nach … Noch nie habe ich ihn wieder zu Gesicht bekommen … Ich liege an dem Tempelchen in Bissus Park allnächtlich auf der Lauer – umsonst …! Aber ich werde den Schuft finden, der mich ehrlos machte. Ich habe Ausdauer … Und wenn ich noch weitere drei Monate hier zubringen sollte –«
 
 Er ballt die Fäuste …
 
@@ -557,7 +557,7 @@ Bissu nickt nur …
 
 »Bei einem Landsmann von Ihnen, Herr Harst … Bei Georg Heidurp in der sogenannten Basar-Karawanserei …«
 
-Selbst Harald fährt zusammen. »Also mit Meinas unter einem Dache …! Unglaublich!« Sein Gesicht verrät Unruhe und Besorgnis … Und er fügt hinzu: »Dies gibt zu denken …! Trimaldo weiß doch fraglos, daß Meinas bei Heidurp lebt … Weshalb beseitig er ihn nicht?! Er wird doch Meinas oft genug gefolgt sein, der nachts den kleinen Tempel umlauerte …!«
+Selbst Harald fährt zusammen. »Also mit Meinas unter einem Dache …! Unglaublich!« Sein Gesicht verrät Unruhe und Besorgnis … Und er fügt hinzu: »Dies gibt zu denken …! Trimaldo weiß doch fraglos, daß Meinas bei Heidurp lebt … Weshalb beseitigt er ihn nicht?! Er wird doch Meinas oft genug gefolgt sein, der nachts den kleinen Tempel umlauerte …!«
 
 Wir schweigen. Harsts Blick ruht auf mir … In seinen Augen ist mancherlei zu lesen. Und mir schießt’s durch den Kopf: »Wenn Trimaldo uns in der Nacht bei Meinas belauscht hat?!«
 
@@ -620,7 +620,7 @@ Dann sind wir allein. Harald geht ruhelos in dem dämmerigen Zimmer auf und ab �
 
 Nachher sitzen wir unten im Speisesaal … Alle Tische ringsum besetzt. Alle Nationen vertreten. Eine amerikanische Kapelle spielt … Dies hier ist nicht mehr Indien. Das ist europäische Überkultur …
 
-Harst ist schweigsam. Harst sinnt vor sich hin … Und sagt plötzlich: »Die sechs Photographien waren auf Kartons ohne Firmenaufdruck beklebt und stammten doch von einem Berufsphotographen …Wenn wir diesen Lichtbildkünstler ermitteln könnten!«
+Harst ist schweigsam. Harst sinnt vor sich hin … Und sagt plötzlich: »Die sechs Photographien waren auf Kartons ohne Firmenaufdruck geklebt und stammten doch von einem Berufsphotographen … Wenn wir diesen Lichtbildkünstler ermitteln könnten!«
 
 Ich mache Studien … Da ist dieselbe amerikanische Familie wieder, die mit uns in Bissus Laden war: die Eltern, zwei blonde Töchter … Da ist ein langer Tisch mit Balkangesichtern, rassigen Frauen: rumänische Kriegsgewinnler!
 
