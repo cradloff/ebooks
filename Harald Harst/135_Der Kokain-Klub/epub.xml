@@ -9,7 +9,7 @@
 <!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
 <entry key="secondaryIDType"></entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">Der Kokain</entry>
+<entry key="title">Der Kokain-Klub</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
 <!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
@@ -55,7 +55,7 @@ Dann holte Harald die Photographie aus der Tasche hervor, dieses unaufgezogene A
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename">Kabel, Walther - (135) Der Kokain.epub</entry>
+<entry key="filename">Kabel, Walther - (135) Der Kokain-Klub.epub</entry>
 <!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->

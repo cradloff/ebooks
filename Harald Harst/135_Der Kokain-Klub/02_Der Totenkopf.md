@@ -60,6 +60,9 @@ In dem Hause wohnten zumeist indische Tänzerinnen, die unter der poetischen Bez
 
 Und an Ellen Dagnaars Tür fanden wir auch die nähere Bezeichnung dieses Fleißes, ein Pappschild:
 
+<p class="centered">Ellen Dagnaar,<br />
+Modistin.</p>
+
 Harst setzte den ehrwürdigen Türklopfer in Bewegung. Ein blondes junges Weib öffnete, musterte uns erstaunt, fragte kühl, was wir wünschten …
 
 »Wir kommen Hektor Randells wegen, Miß Dagnaar,« erklärte Harald höflich.
@@ -224,7 +227,7 @@ Ich — noch sprachloser: »Woher wußtest Du es?«
 
 »Hm …!!«
 
-»Du bist ja der reine Gorlay, mein Alter!« lächelte Harald. »Zweifelst Du?! — Nun, dann will ich Dir noch etwas verraten: Jupp Palling hat bei Hektor Randell nach diesem Photographie gesucht, die — *wir* nicht finden sollten! In seiner Hast übersah er sie … — Einen zweiten Abzug des Bildes wird Ellen Dagnaar besitzen …«
+»Du bist ja der reine Gorlay, mein Alter!« lächelte Harald. »Zweifelst Du?! — Nun, dann will ich Dir noch etwas verraten: Jupp Palling hat bei Hektor Randell nach dieser Photographie gesucht, die — *wir* nicht finden sollten! In seiner Hast übersah er sie … — Einen zweiten Abzug des Bildes wird Ellen Dagnaar besitzen …«
 
 Ich schaute mir die Bilder von Nr. 46 nochmals an, und mit einem Male machte *ich* nun eine besondere Entdeckung: die mit Tinte geschriebenen Nummern 46, 47, 49 waren entschieden kräftiger, dicker geschrieben als die anderen.
 

@@ -218,7 +218,7 @@ Harald nahm eine neue Mirakulum …
 
 »So, — dann erzählen Sie …«
 
-»Hektor Randell ist fünfundzwanzig Jahre alt und hier in Kalkutta geboren, einziges Kind dazu, trat in ein hiesiges Bankhaus ein, weil sein Vater, stets kränklich, nicht die Mittel besaß, den Sohn studieren zu lassen … Vor drei Jahren starb dann Doktor Randell, und Mutter und Sohn lebten nun allein und noch bescheidener in der kleinen Villa in der Garden-Street. Hektor war solide, fleißig und hatte nur eine Leidenschaft: den Segelsport! Zusammen mit seinem Freunde Jobbfield baute er sich auf dem Hofe der Villa, deren Garten sich bis zum Gangesufer hinzieht, eine Segeljacht. Man denke: zwei Bankbeamte, die ohne jede Vorkenntnis sich an diese Arbeit wagten! — Und das Werk gelang. Im vorigen April war die Neun-Meter- Jacht fertig, wurde allseitig angestaunt — mit Recht! Sogar einen kleinen Hilfsmotor hatten die Freunde eingebaut. Und als sie dann ihren Urlaub bekamen, unternahmen sie für drei Wochen eine Seereise bis nach Singapore hinab. — Leider aber hat Hektor Randell sich nun völlig geändert. Er ist — Nichtstuer geworden. Ein Lotteriegewinn setzte ihn in den Stand, seinen Beruf aufzugeben.«
+»Hektor Randell ist fünfundzwanzig Jahre alt und hier in Kalkutta geboren, einziges Kind dazu, trat in ein hiesiges Bankhaus ein, weil sein Vater, stets kränklich, nicht die Mittel besaß, den Sohn studieren zu lassen … Vor drei Jahren starb dann Doktor Randell, und Mutter und Sohn lebten nun allein und noch bescheidener in der kleinen Villa in der Garden-Street. Hektor war solide, fleißig und hatte nur eine Leidenschaft: den Segelsport! Zusammen mit seinem Freunde Jobbfield baute er sich auf dem Hofe der Villa, deren Garten sich bis zum Gangesufer hinzieht, eine Segeljacht. Man denke: zwei Bankbeamte, die ohne jede Vorkenntnis sich an diese Arbeit wagten! — Und das Werk gelang. Im vorigen April war die Neun-Meter-Jacht fertig, wurde allseitig angestaunt — mit Recht! Sogar einen kleinen Hilfsmotor hatten die Freunde eingebaut. Und als sie dann ihren Urlaub bekamen, unternahmen sie für drei Wochen eine Seereise bis nach Singapore hinab. — Leider aber hat Hektor Randell sich nun völlig geändert. Er ist — Nichtstuer geworden. Ein Lotteriegewinn setzte ihn in den Stand, seinen Beruf aufzugeben.«
 
 »Wann war das, Doktor?« warf Harald ein.
 
@@ -372,7 +372,7 @@ An einem schlitzäugigen alten Chinesen, dem Türhüter, vorüber gingen wir dur
 
 Mitten in der Rückfront der Spelunke lief eine überdachte Treppe in den Keller hinab. Die Tür dieses Kellerhauses war neu und roch noch nach Ölfarbe.
 
-Harald hustete jetzt viermal, sagte dann zweimal Erkennungswort Koka.
+Harald hustete jetzt viermal, sagte dann zweimal das Erkennungswort Koka.
 
 Auch diese Tür tat sich auf. Wieder war’s ein Chinese, der hier den Wächter spielte.
 
@@ -800,7 +800,7 @@ Sie sank halb zurück … »Hektor — ist tot …?« rief sie klagend.
 
 Eine wohltätige Ohnmacht ließ die Ärmste völlig zusammensinken.
 
-Während Gorlay und die Dienerin sich um Fran Randell bemühten, drangen wir mit Hilfe des Patentdietrichs in Hektors Wohnzimmer ein.
+Während Gorlay und die Dienerin sich um Frau Randell bemühten, drangen wir mit Hilfe des Patentdietrichs in Hektors Wohnzimmer ein.
 
 Was wir hier fanden?!
 
