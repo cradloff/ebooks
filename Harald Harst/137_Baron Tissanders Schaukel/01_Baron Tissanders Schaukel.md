@@ -15,7 +15,7 @@ Und das war nach jener Nacht, als Ethel Boeter, die
 Malerin, sich im Castello Santa Virgo vergiftet hatte … —
 
 Schwere Zeit für mich als Freund Harald Harsts. Um
-so schwerer, als eigentlich kein Anlaß vorlag, ihn zu trösten:
+so schwerer, als eigentlich kein Anlaß vorlag, ihn zu trösten;
 höchstens der, ihn abzulenken. Denn — er hatte diese klassische
 Schönheit, dieses Weib mit der krankhaften verbrecherischen
 Phantasie, ja kaum gekannt …
@@ -208,7 +208,7 @@ Sehr bald ruderte er auf die Jacht zu. Trolby kam mit
 zwei brennenden Laternen an Deck …
 
 »Schraut, ich für meine Person warte nicht länger …
-was treibt Harst bei der Finsternis in dem Steinhaufen,
+Was treibt Harst bei der Finsternis in dem Steinhaufen
 von Insel?! Sie werden’s erleben: ihm ist etwas zugestoßen!«
 
 So kletterten wir denn schon um drei Viertel zehn ins
@@ -225,11 +225,11 @@ Nichts als Felsen, Steine …
 Nichts anderes …
 
 Eine trostlose Eintönigkeit. Und dabei eine Wildnis
-aus Fels: Hügel, Schlünde, Boden, Löcher, Steinhaufen —
+aus Fels: Hügel, Schlünde, Zacken, Löcher, Steinhaufen —
 alles wirr durcheinander …
 
 »Hier können wir tagelang suchen,« knurrte Trolby. »Nein
-— solch eine Verrücktheit von Harst. Unglaublich!
+— solch eine Verrücktheit von Harst …!! Unglaublich!
 Wie leicht kann man hier in eine der Spalten fallen!« —
 
 Um Mitternacht gaben wir das Suchen auf, kehrten zur
@@ -290,6 +290,7 @@ Und dann sah ich, daß in die eine breite Seite offenbar
 mit einer Steinkante etwas eingeritzt war …
 
 Ein — Wort …
+
 <@pagebreak/>
 Ein — Name …! Mühsam entzifferte ich:
 
@@ -315,7 +316,7 @@ daß Harald etwa nach Goa gewaltsam verschleppt
 worden sein sollte …
 
 Und aus diesen Gedanken schreckte mich des Malaien
-Sikiri neuer geller Schrei aus:
+Sikiri neuer geller Schrei auf:
 
 »Tuwan, Tuwan …!!« (Herr, Herr …!! — Nur
 mich redete Sikiri zuweilen mit diesem unterwürfigen Titel
@@ -358,7 +359,7 @@ Buchstaben sind mir fremd …«
 
 »Oh — — das bedeutet:
 
-»Nicht in Goa, sondern sofort nach Bombay.« Rasch
+»Nicht in Goa, sondern sofort nach Bombay.«« Rasch
 hatte ich so den Text geändert — aus Vorsicht …
 
 Trolby glaubte mir. »Nun, dann also nach Bombay,«
@@ -389,7 +390,7 @@ geschriebenen Sätze:
 
 > Erwarte Dich allein in Goa. Sei vorsichtig. Lasse
 die Jacht in Bombay zurück und verschwinde. Eine
-Milliardensache!! Mündlich Näheres …
+Milliardensache!! Mündlich Näheres.
 
 > Dein H.
 
@@ -401,13 +402,13 @@ mit einem Küstendampfer südwärts — nach Goa.
 
 <h2>2. Kapitel.</h2>
 
-<h3>Der Rikscha-Fall.</h3>
+<h3>Der Rikscha-Kuli.</h3>
 
 Diese portugiesische Besitzung Goa, ein Küstengebiet von
 der ungefähren Größe Sachsens, ist in vielfacher Beziehung
 recht interessant. Umgeben von Britisch-Indien, stellt Goa
 den letzten Rest der einstigen portugiesischen Kolonialherrlichkeit
-Ostindiens dar. Und doch ist es in mancher Beziehung
+Ostasiens dar. Und doch ist es in mancher Beziehung
 weit kultivierter als die angrenzenden anglo-indischen Gebiete.
 Die Bevölkerung (rund eine halbe Million) besteht
 aus Mischlingen, die fast sämtlich Christen sind. Der Hafen
@@ -422,7 +423,7 @@ zurückdenke.
 
 Vielleicht waren es diese Erinnerungen an jene Stunden
 gräßlichster Lebensgefahr … Vielleicht war es auch
-eine dumpfe Vorahnung, daß hierin Neu-Goa ähnliche
+eine dumpfe Vorahnung, daß hier in Neu-Goa ähnliche
 Schrecknisse meiner warteten … Jedenfalls: ich war mehr
 als vorsichtig, als ich nun den Küstendampfer abends zehn
 Uhr verließ und einen Rikscha-Kuli beauftragte, mich und
@@ -564,7 +565,7 @@ mir. Ich wollte es holen …«
 durch die Felswildnis der neuen Insel wanderte, überfielen
 mich ganz unerwartet vier Kerle … Warfen mich zu
 Boden … Verbanden mir die Augen … Schleppten
-mich weg … eine halbe Stunde lang lag ich am Ufer
+mich weg … Eine halbe Stunde lang lag ich am Ufer
 irgendeiner Bucht. Ich konnte mir die Hände freimachen,
 konnte die Augenbinde entfernen. Fünf Schritte weiter
 stand ein Wächter mit einem Revolver … Ein Inder —
@@ -583,7 +584,7 @@ geglaubt, ich verstünde nicht portugiesisch …«
 »Und dann?«
 
 <@pagebreak/>
-»Der Tee ist fertig. — Bitte, lange zu … Ich habe
+»Der Tee ist fertig … — Bitte, lange zu … Ich habe
 Hunger … — Also — dann brachte man mich, wieder
 gefesselt und blind, auf den Dampfer, sperrte mich ein …
 Ich wurde gut verpflegt, aber scharf bewacht. Kein Mensch
@@ -595,7 +596,7 @@ Ich hatte mir ungefähr berechnet, wann Du hier eintreffen
 könntest. Es klappte alles tadellos … Die Spione des
 Barons haben Dich laufen lassen, ahnten nichts …«
 
-»Barons?! Wer ist das?«
+»… Barons?! Wer ist das?«
 
 »Natürlich der alte Europäer: Baron Leo Tissander, geborener
 Wiener, pensionierter Distriktschef von Goa …«
@@ -908,7 +909,7 @@ umgab.
 
 Harald raunte mir zu:
 
-»Hier können uns die Hunde nicht wittern …
+»Hier können uns die Hunde nicht wittern … —
 Bitte — links die Schaukel …«
 
 Ich blickte hin …
@@ -981,7 +982,7 @@ Hinten im Wagen saß der Baron … Er hatte den
 Strohhut abgenommen … Ich sah sein Gesicht durch die
 Büsche ganz deutlich …
 
-Ein vornehmes Greisengesicht, ohne Zweifel … etwas
+Ein vornehmes Greisengesicht, ohne Zweifel … Etwas
 zusammengesunken lehnte er in den Lederpolstern …
 Merkwürdig jugendliche Augen blitzten in dem gebräunten
 frischen Gesicht …
@@ -1036,7 +1037,7 @@ flache Steine gelegt, damit der Fuß nicht im Morast versinke.
 
 Und mit einem Male hörte dieser Pfad nach kurzem Anstieg
 vor einem Dornenwall auf. Wir hatten die Ruine
-erreicht …
+erreicht.
 
 Harald war stehengeblieben, bückte sich …
 
@@ -1073,7 +1074,7 @@ ständig naß gehalten.
 
 Ich schlüpfte durch die Öffnung hinein. Harald folgte,
 zog die Büsche wieder vor das Loch und schaltete seine
-Taschenlampe ein …
+Taschenlampe ein.
 
 Ein Mauerrest erhob sich hier. Das Unkraut war entfernt
 worden. Eine kleine Tür aus rohen Brettern, die man
@@ -1249,7 +1250,7 @@ Sie sind Sennor Harald Harst …«
 
 »In wessen Auftrag handeln Sie?«
 
-»In eigener Angelegenheit, Sennor … Ich bin kein Goanese.
+»In eigener Angelegenheit, Sennor. Ich bin kein Goanese.
 Ich stamme von drüben aus dem Reiche der Fürstin
 von Kanara.« (Kleines Fürstentum südlich von Goa.)
 
