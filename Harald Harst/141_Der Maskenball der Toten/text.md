@@ -2128,8 +2128,8 @@ hinüber:
 
 <h3>Der Tigerfänger.</h3>
 
-Harst schuf eine viereFige Öffnung, durch die ein Mann
-sich zur bot hindurchzwängen konnte. Das Stück Brett
+Harst schuf eine viereckige Öffnung, durch die ein Mann
+sich zur Not hindurchzwängen konnte. Das Stück Brett
 hob er heraus und hatte nun die eine Schmalseite der Kiste
 im Bereich seiner Hände.
 
@@ -2139,17 +2139,17 @@ Harald zog die Kiste mit aller Kraft ganz dicht vor das
 Loch und nahm nun die Kistenbretter in Behandlung …
 — mit der Stichsäge …
 
-Auch hier [ohne er so ein Loch, durch das er dann dem
-Landsmann zunächst den Knebel entfernte, dann die Bau«-
-Sesseln zerschnitt. Die Stricke an den Füßen knotete hier
-Paris sich selbst aus.
+Auch hier schuf er so ein Loch, durch das er dann dem
+Landsmann zunächst den Knebel entfernte, dann die Handfesseln
+zerschnitt. Die Stricke an den Füßen knotete Dietrich
+sich selbst auf.
 
-»Bleiben Sei noch in Ihrem Kasten,« sagte Harald leise.
-»Erzählen Sw nur schnell das Nötigste …« —
+»Bleiben Sie noch in Ihrem Kasten,« sagte Harald leise.
+»Erzählen Sie nur schnell das Nötigste …« —
 
 Ich kam nun herbei und hörte zu …
 
-»Wir hatten aus Sumatra an der Südküste, unweit eine«
+»Wir hatten auf Sumatra an der Südküste, unweit einer
 Flußmündung, für Hagenbeck exotische Tiere gefangen …
 unser Schoner wurde eines Nachts überfallen. Wir waren
 drei Deutsche und sechs Inder aus Bombay. Meine weißen
@@ -2163,12 +2163,12 @@ Nun — das war kurz und bündig …!
 
 Harald meinte:
 
-»Wir werden sehr bald in die Bucht-Mündung einkaufen,
+»Wir werden sehr bald in die Bucht-Mündung einlaufen,
 Herr Dietrich. Trauen Sie es sich zu, an Land
 schwimmen zu können?«
 
 <@pagebreak/>
-»ganz gewiß, Herr Harst
+»Ganz gewiß, Herr Harst
 
 »Es regnet jetzt stark. »Das erleichtert Ihre Flucht.
 Wir müssen hier an Bord bleiben. Und Sie wieder müssen
@@ -2177,9 +2177,9 @@ der Prau sind … Was Sie sonst tun, ist Ihre Sache. Die
 Prau ist unterwegs nach Kalkutta …«
 
 »Gut — ich tue, wie Sie wünschen, Herr Harst
-=. Die Prau heißt im übrigen »Salarata’ und gehört einem
-Kaufmann in Batavia. Die Besatzung will den Tiger
-verkaufen und das Geld einstecken -. - Ich soll den Schuften
+-- Die Prau heißt im übrigen »Salarata<< und gehört einem
+Kaufmann in Batavia ... Die Besatzung will den Tiger
+verkaufen und das Geld einstecken .... Ich soll den Schuften
 schwören, daß ich sie nicht anzeigen werde. Bisher habe
 ich mich geweigert …«
 
@@ -2187,7 +2187,7 @@ Harst war zur Tür gehuscht. — Die Dunkelheit auf dem
 Deck, noch verstärkt durch den Regen, konnte durch die Laternen
 kaum gemildert werden.
 
-Es fiel mir auf, daß die Prau jetzt weit verloren
+Es fiel mir auf, daß die Prau jetzt weit weniger
 schwankte. Und Harald meldete denn auch, daß wir uns
 bereits in der Huglimüdung befänden …
 
