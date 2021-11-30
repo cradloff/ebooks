@@ -187,7 +187,7 @@ daß es sich zum mindesten um tadellose Imitationen handele.
 Er hatte seine Zeche schnell bezahlt und war zu dem Manne
 hingegangen, hatte einen der Steine geprüft, sah, daß die
 Unterseite zwar mit Spiegelfarbe wie bei den meisten Simili
-hinterlegt war, daß es aber doch fraglos echte Steine seien.
+unterlegt war, daß es aber doch fraglos echte Steine seien.
 
 Mühsam verständigte er sich mit dem Zerlumpten, nahm
 ihn mit in die nahe Pension in der Bellevuestraße, wo er
@@ -291,13 +291,13 @@ Weißling, Unter den Linden, anläutete …
 »Hier Harald Harst … Ich möchte Herrn Weißling
 selbst sprechen … Ah — Sie sind’s, Herr Weißling …
 Ja, wir haben uns lange nicht gesehen … Freuen Sie
-sich doch darüber … Wer mich siehst, hat entweder gestohlen
+sich doch darüber … Wer mich sieht, hat entweder gestohlen
 oder ist bestohlen worden … — Auf Ihre Diskretion
 kann ich Wolkenkratzer bauen — wie immer! —
 Heute nur eine Auskunft … Haben Sie in letzter Zeit
 neues Personal eingestellt oder daheim neue Dienstboten?
 — Nein …? — Dann danke ich … Verzeihung, habe
-keine Zeit. Schluß!«
+keine Zeit … Schluß!«
 
 Und — Juwelier Moses Jelling, Leipziger Straße, kam
 an die Reihe …
@@ -523,11 +523,11 @@ Rietmeyer an …
 
 »Ja — — Ev…«
 
-Da brach er ab, hüstelte …
+Da brach er ab, hüstelte … —
 
 Und gleich darauf gingen wir drei ungleiche Herren die
 Leipziger Straße entlang — zwei Telephonarbeiter und der
-elegante Rietmeyer … nicht zusammen, nein, er ging fünf
+elegante Rietmeyer, … nicht zusammen, nein, er ging fünf
 Schritt voran. Erst in der stillen Wilhelmstraße, nachdem
 wir festgestellt, daß niemand hinter uns her war, gesellten
 wir uns dem Kommissar wieder zu.
@@ -544,7 +544,7 @@ Der Kommissar nagte unzufrieden die Unterlippe mit den
 Zähnen. »Wenn man nur wüßte, wie man sie aufstöbern
 könnte!« murmelte er. »Was haben wir nicht schon alles
 versucht! Die Berliner Zeitungen machen bereits spitze Bemerkungen
-über unsere — Nützlichkeit! Infam ist das!«
+über unsere — Rührigkeit! Infam ist das!«
 
 »Allerdings! Diese Zeitungsschreiber sollten doch mal
 Eva suchen!« Harst stieß das gereizt hervor. »Eine Kriminalpolizei
@@ -578,7 +578,7 @@ Aber mein Feldzugsplan ist für Sie ein Unding …«
 hüten, etwas davon zu verraten …«
 
 »Strafbar — — strafbar?! — Das verstehe ich nicht …
-— reden Sie doch, Harst … reden Sie! Ich …«
+— Reden Sie doch, Harst … Reden Sie! Ich …«
 
 »… werde mich hüten, Rietmeyer … — Mein Plan
 kann mißglücken … Ich blamiere mich nicht gern …
@@ -746,7 +746,7 @@ Harst musterte mich prüfend von oben bis unten …
 »Mehr Schatten unter die Augen — im übrigen gut!«
 nickte er und malte mir die gewünschten Schatten, so daß
 meine Sehorgane jetzt noch echter, echt balkanesisch, tief in
-den Höhlen lagen …—
+den Höhlen lagen … —
 
 In diesem Kostüm verließen wir das Haus durch den
 Gemüsegarten. Unsere Gummimäntel waren schwer durch
@@ -792,8 +792,8 @@ haben kann Verrrtrauehn …«
 Der Buckel grinste. »Eenen Steher, wat?! Oder eenen
 Pfeifer?«
 
-»Steherr — Steherr…« tuschelte Harst. »Mit sehrr
-gutte Bezahlung.« — Er drückte dem Buckel fünf Mark
+»Steherr — Steherr …« tuschelte Harst. »Mit sehrr
+gutte Bezahlung …« — Er drückte dem Buckel fünf Mark
 in die Biederfaust.
 
 Der Kellner schob ab und schlängelte sich an einen blassen
@@ -854,7 +854,7 @@ ebenso tadellos, wenn auch ein stiller Erfolg …
 
 Die sogenannte Loge war ein rechts an die Wand angebauter
 Holzkäfig. Vor uns lagen die Parkettplätze —
-wenig belebt. Und da saßen auch zwei dicke Weiber, von
+wenig besetzt. Und da saßen auch zwei dicke Weiber, von
 <@pagebreak/>
 denen die eine beim Aufleuchten des polizeilichen Fahndungsbildes
 einen ganz leisen, grunzenden Ton ausgestoßen
@@ -886,12 +886,12 @@ Ein Kitsch sondergleichen. Aber vorn auf den billigen
 Plätzen flossen Ströme von Tränen.
 
 Endlich dann das Ende. Martha, die Enterbte, heiratet
-ihren braven Franz, und der Verführer, der Herzog von Bratagio
+ihren braven Franz, und der Verführer, der Herzog von Bratagio,
 bricht in Hoppegarten beim Hindernisrennen das
 Genick …
 
 Endlich sind wir im Freien — in der Tilsiter Straße,
-atmen die Nachtluft tief ein. — Vor uns schlüpfen die beiden
+atmen die Nachtluft tief ein. — Vor uns schlurfen die beiden
 Weiber dahin …
 
 Die Blonde, etwas Schlankere, bleibt vor Nr. 61a stehen,
@@ -950,11 +950,11 @@ zu erfahren, was Sie wissen …«
 
 »Hm …« Ihre Schweinsäuglein werden ablehnend
 und tückisch. »Hm — damit Sie mir nachher die Belohnung
-wegschnappen … Ach nee — wir sind noch nich in Dummsdorf
+wegschnappen … Ach nee — wir sind doch nich in Dummsdorf
 jeboren!«
 
 »Was ich nicht bezweifle, Frau Schmidt … Hier sind
-fünfhundert Mark … Wollen Sie jetzt reden!?«
+fünfhundert Mark … Wollen Sie jetzt reden?«
 
 Gier verdrängt die Tücke …
 
@@ -981,7 +981,7 @@ schmale Brieftasche … Papiere darin, Legitimationen,
 allerlei — alle auf den Namen Vera von Peerland lautend.
 
 Wir stehen am Tisch und sehen die Papiere durch. Über
-uns flackert leise die Gaslampe. Die Schmidten ist hinausgegangen
+uns gluckert leise die Gaslampe. Die Schmidten ist hinausgegangen
 …
 
 Harst horcht mit einem Male auf …
@@ -989,8 +989,8 @@ Harst horcht mit einem Male auf …
 Im Flur ein dumpfes Geräusch …
 
 Dann wird die nur angelehnte Tür aufgestoßen …
-Ein Mann tritt ein — hager, graubärtig, etwas zerlumpt …
-halb zugekniffene Augen mustern uns …
+Ein Mann tritt ein — hager, graubärtig, etwas zerlumpt.
+Halb zugekniffene Augen mustern uns …
 
 Der Kerl lacht leise …
 
@@ -1131,7 +1131,7 @@ anderen Seite zurück. Der schöne Bodo erklärt geschäftsmäßig:
 »Also ich hab drei Mäntel an von verschiedene
 Kalühr … Wenn man so Schmiere steht, muß man alle
 Viertelstunde een anderet Jesicht und ne andre Kluft haben,
-sonst fällt man uff. — Hm, seid Ihr beede denn ooch
+sonst fällt man uff … — Hm, seid Ihr beede denn ooch
 sicher, det Ihr nich jeklappt werdt? Habt Ihr allens jut
 ausbaldowert …? Wißt Ihr ooch, det da heite bei den
 Juwelier Jelling een Tippfräulein vajiftet worden is?«
@@ -1222,7 +1222,7 @@ sagt: »Der Wächter! Die Komödie kann beginnen …«
 <h2>5. Kapitel.</h2>
 <h3>Das Röllchen.</h3>
 
-Der Wächter ist ein junger kräftiger Kerl, hält seinen
+Der Wächter ist ein junger kräftiger Mensch, hält seinen
 Schäferhund fest am Halsband. Seine Lampe bescheint uns.
 
 »Harald und Schraut,« flüstert Harst das vereinbarte
@@ -1234,7 +1234,7 @@ Im Nu ist die eiserne Tür offen. Wir finden dahinter
 noch eine zweite. Auch diese Schlüssel hat der Wächter.
 
 Wir drei und der Hund sind nun im Kontor. Die Türen
-haben wir nur eingeklinkt. — Vor den Fenstern die Eisenladen
+haben wir nur eingeklinkt. — Vor den Fenstern dicke Eisenladen
 … Harst schaltet das Licht jetzt voll ein … —
 Strahlende Helle …
 
@@ -1257,7 +1257,7 @@ Sie sich nur das Ruhekissen dort unter den Kopf …« —
 *Ich selbst* — nur Zuschauer! — werde Zeuge, wie
 Harald den jungen Menschen fesselt, ihm einen Knebel in
 den Mund steckt, dann ein Fläschchen aus der Tasche zieht
-und Stirn und Gesicht des Wehrlosen rot befleckt: Blut —
+und Stirn und Gesicht des Wehrlosen rot bekleckst: Blut —
 — unechtes Blut!
 
 <@pagebreak/>
