@@ -2197,15 +2197,15 @@ sehen, damit ich Sie später wiedererkenne … Man weiß
 nie, was noch geschieht …«
 
 Wir drückten uns in die eine Ecke neben der Tür …
-Haralds Taschenlampe blitzte für Sekunden aus…
+Haralds Taschenlampe blitzte für Sekunden auf …
 
 Fritz Dietrichs stoppelbärtiges Gesicht war das eines
 Mannes von vielleicht dreißig Jahren — ein kühnes, energisches
-Gesicht mit graublauen, lustigen Augen
+Gesicht mit graublauen, lustigen Augen ...
 
 Die Lampe erlosch …
 
-HändedrüFe dann … Herzliche Dankesworte des
+Händedrücke dann … Herzliche Dankesworte des
 Landsmannes, der in keiner Weise versucht hatte, uns auszufragen,
 weshalb wir an Bord bleiben mußten …
 
@@ -2214,7 +2214,7 @@ weshalb wir an Bord bleiben mußten …
 Dann kroch er zur Tür hinaus …
 
 Ich sah einen Schatten über die Reling gleiten — sah
-Ladentisch in der Ferne das Licht einer Leuchtboje wie einen
+undeutlich in der Ferne das Licht einer Leuchtboje wie einen
 verschwommenen Fleck …
 
 <@pagebreak/>
@@ -2228,27 +2228,27 @@ behaglich zu Mute …
 
 »Entfernen wir nach Möglichkeit alle Spuren, die eine
 vorzeitige Entdeckung unserer nächtlichen Arbeit herbeiführen
-könnten, mein Alter … Die Säaesväne müssen sauber
-weggefegt werden … Die Wirtsstube werde ich wieder
+könnten, mein Alter … Die Sägespäne müssen sauber
+weggefegt werden … Die Brettstücke werde ich wieder
 einfügen … Hilf mir …«
 
 Es war nicht zu umgehen, daß wir hierbei wiederholt
 die Taschenlampen einschalteten. Als Harst die herausgesägten
-Stücke der Kistenwand erprobte, als ich ihm dabei
-e, schnellte plötzlich der Tiger mit kurzem Brüllen
+Stücke der Kistenwand einpaßte, als ich ihm dabei
+leutete, schnellte plötzlich der Tiger mit kurzem Brüllen
 auf den hellen Fleck zu, stieß die Kiste um und schob den
-Ro halb durch das viereckige Loch in der Verbindungswand
+Kopf halb durch das viereckige Loch in der Verbindungswand
 …
 
 Vor dem grellen Lichtkegel der Taschenlampe, die ich
 ihm rasch dicht vor die Augen hielt, wich er wieder zurück.
-Harald schob schnell das Brettstück in die Öffnung und beugte
+Harald schob schnell das Brettstück in die Öffnung und befestigte
 es, indem er ein paar Holzstückchen in die Ritzen
 klemmte,
 
 Die Bestie meldete sich nicht mehr …
 
-»Gott [sei Dank …!» flüsterte Harald aufatmend. »Das
+»Gott sei Dank …!» flüsterte Harald aufatmend. »Das
 hätte uns noch gerade gefehlt, daß wir den Tiger womöglich
 hätten erschießen müssen …!«
 
@@ -2269,41 +2269,41 @@ Boden der Kammer, das helle Sägemehl …
 »Teufel — was bedeutet das?!« rief Wallace sichtlich
 mißtrauisch …
 
-Er bückte sich … Sah nun auch den hellen gruseligen
+Er bückte sich … Sah nun auch den hellen faserigen
 Rand des herausgesägten Vierecks …
 
 »Das bedeutet, Wallace: wir haben einem Gefangenen
-zur Flucht verholfen, einem Lands&mann …« erklärte Harald,
+zur Flucht verholfen, einem Landsmann …« erklärte Harald,
 der offenbar die Dinge nun sofort ins Gleiche bringen
 wollte …
 
 Und wir erhoben uns … Standen nun eng beieinander,
-wir die! …
+wir drei …
 
 Wallace schien vollkommen verblüfft über Harsts
 Worte …
 
-»Wie — ein Gefangener?!« meinte er kopfschüttelnd,
-»Dort im Nebenverschlag steckt ein Tiger … Von einen
+»Wie — ein Gefangener?!« meinte er kopfschüttelnd.
+»Dort im Nebenverschlag steckt ein Tiger … Von einem
 Gefangenen weiß ich nichts …«
 
-»Und was wissen Sie aber den Tiger, Wallace?«
+»Und was wissen Sie über den Tiger, Wallace?«
 
 »Kapitän Sadato hatte ihn von Eingeborenen gekauft …
-—… Mr. Harst, weshalb haben Sie das Loch gesägt?«
+— Mr. Harst, weshalb haben Sie das Loch gesägt?«
 
 »Weil Kapitän Sadato Sie belogen hat … Weil der
-Tiger von einem Schoner der Tiefsinnig Hagenbeck gestohlen
+Tiger von einem Schoner der Tierfirma Hagenbeck gestohlen
 und ein deutscher Angestellter der Firma dort drinnen in
 einer Kiste gefangen gehalten wurde … Natürlich hätte
 ihn dort selbst ein Zollbeamter nicht gefunden … Wir
 haben ihn befreit … Er ist vor zehn Minuten an Land
 geschwommen …«
 
-Wallaces Gesicht zeigte absichtlich eine ungeheure Wut …
+Wallaces Gesicht zeigte plötzlich eine ungeheure Wut …
 
-»Ab — — dieser Sadato …!! Geldgier — — dieser
-gelbe Alte …! Solch ein Unklug …!! Alles sehr der
+»Ah — — dieser Sadato …!! Geldgier — — dieser
+gelbe Affe …! Solch ein Unfug …!! Alles setzt der
 Mann aufs Spiel … Und stets halbe Arbeit … Hätte
 er den Deutschen ersäuft — gut — die Sache wäre erledigt
 gewesen …!«
@@ -2312,19 +2312,19 @@ Er war wie sinnlos in diesem Moment … Er konnte
 sich nicht beherrschen … Sprudelte weiter hervor:
 
 »Dieser Sadato …!! Und belogen hat er mich — —
-belogen! Dieser gelbe Affe — —«: Sie beide hier in dieser
-Kammer zu lassen — gerade Sie beide … ’!«
+belogen! Dieser gelbe Affe — —: Sie beide hier in dieser
+Kammer zu lassen — gerade Sie beide …!«
 
 <@pagebreak/>
 Harst meinte mit einer Handbewegung nach dem Brettstück
 hin:
 
-»Wir haben den Landsmann befreit, uns im Übrigen
+»Wir haben den Landsmann befreit, uns im übrigen
 aber an unser Versprechen gehalten, Wallace … Fritz Dietrich
 weiß nichts von Ihnen, Wallace. Wir sagten ihm
-nur, daß wir aus der Prau bleiben müßten und daß er unsere
+nur, daß wir auf der Prau bleiben müßten und daß er unsere
 Anwesenheit hier verschweigen, sonst aber nach Gutdünken
-handeln Jolle …«
+handeln solle …«
 
 Wallace starrte Harald an …
 
@@ -2332,7 +2332,7 @@ Wallace starrte Harald an …
 auf … »Ja — nach Gutdünken …!! Die Prau wird also
 in Kalkutta von der Hafenpolizei …«
 
-Laute Stimmen aus Deck …
+Laute Stimmen auf Deck …
 
 Eine Pfeife schrillte …
 
@@ -2363,27 +2363,27 @@ Engländer von eherner Ruhe …
 Wir näherten uns, um besser hören zu können …
 
 »Kapitän Sadato,« sagte der Brite gleichmütig, »wir
-sind seit Monaten hinter Ihnen her … Jetzt haben mit
+sind seit Monaten hinter Ihnen her … Jetzt haben wir
 Sie abgefaßt … Sie haben in dieser Nacht westlich der
-Huglimündung beim Dorfe Vater Schmuggelware Masse
+Huglimündung beim Dorfe Makri Schmuggelware ausge-
 bootet. Alles ist beschlagnahmt … Ich verhafte Sie und
 <@pagebreak/>
 die ganze Besatzung … Jeder Widerstand würde Ihre
 Lage nur verschlimmern …« — —
 
 Als die Sonne ihre ersten Strahlen durch das sich immer
-mehr lichtende Iegengewölk! sandte, war die Prau im Hafenbassin
+mehr lichtende Regengewölk sandte, war die Prau im Hafenbassin
 der Zollstation in Kalkutta vertäut und wurde von acht
-Angetreten Beamten bewacht. Kapitän Sadato war ins
+bewaffneten Beamten bewacht. Kapitän Sadato war ins
 Polizeigefängnis gebracht worden. Niemand von der Besatzung
 durfte die Prau verlassen. Wir beide und der Mörder
 Wallace waren bisher als verkleidete Europäer nicht erkannt
 worden.
 
-Ich. Max Schraut, rieb mir heimlich die Hände vor
+Ich, Max Schraut, rieb mir heimlich die Hände vor
 Vergnügen …
 
-Mit den Entführung Nelly Simpsons war es nun
+Mit der Entführung Nelly Simpsons war es nun
 nichts …
 
 Aber …
@@ -2391,7 +2391,7 @@ Aber …
 Aber — — ich hatte mich zu früh gefreut. Kaum hatten
 die Zollbeamten, die gegen sieben Uhr morgens die Prau
 durchsucht hatten, das Schiff verlassen, als Wallace zu uns
-in die Kammer kam, wo wir aus den Bastmatten liegend
+in die Kammer kam, wo wir auf den Bastmatten liegend
 gerade frühstückten …
 
 »Mr. Harst,« sagte er mit gedämpfter Stimme, »ich
@@ -2406,19 +2406,19 @@ Ich bin nicht sicher, ob Sadato mich jetzt nicht verrät …«
 Wallace lächelte … Er war ganz ruhig … Er lächelte
 wieder wie im Klub …
 
-»Nein, Mr. Harst … Wir ist nur etwas Besseres
+»Nein, Mr. Harst … Mir ist nur etwas Besseres
 eingefallen …« meinte er mit unendlichem Hohn …
 »Wollen Sie mir also von hier forthelfen?«
 
-»Wollen?! Ich4 muß, Wallace … Ob es mir gelingt,
-weiß« ich nicht …«
+»Wollen?! Ich muß, Wallace … Ob es mir gelingt,
+weiß ich nicht …«
 
 Und er stand auf, winkte mir. Wir gingen langsam
 an der Reling entlang. Wallace kam hinter uns her …
 
 <@pagebreak/>
 Die Zollbeamten hatten die Prau von allen Seiten gesichert.
-Aus dem Bollwerk patrouillierten vier der braunen
+Auf dem Bollwerk patrouillierten vier der braunen
 Hünenkerle … Auf dem Wasser lagen zwei Boote, in jedem
 zwei Mann …
 
@@ -2433,8 +2433,8 @@ zogen sich wie im Krampf zusammen …
 
 <h3>Nelly verschwunden …</h3>
 
-Harald schaute nachdenklich in Wohliges gefärbtes so
-ausficht. Jetzt bei Tage sah man erst, wie sehr sich dieses hagere
+Harald schaute nachdenklich in Wallaces gefärbtes Gesicht.
+Jetzt bei Tage sah man erst, wie sehr sich dieses hagere
 Antlitz mit den vortretenden Backenknochen für eine solche
 Verkleidung eignete … Wallace war ein Malaie, dem
 niemand den Europäer angemerkt hätte …
@@ -2443,22 +2443,22 @@ Und Harst sagte nun: »Es gäbe ein Mittel … Aber …«
 
 Der Doktor beugte sich vor …
 
-»Aber …?1 — Reden Sie weiter …!!«
+»Aber …?! — Reden Sie weiter …!«
 
 »Aber ich hätte dann Ungelegenheiten mit der
 Polizei …«
 
-»Das ist in diesem Falle wohl gleichgültig - -! Ohr
-freches Spiel, Mr. Harst. reden Sie …!«
+»Das ist in diesem Falle wohl gleichgültig ...! Ehrliches
+Spiel, Mr. Harst ...! Reden Sie …!«
 
-Haralds Blicke Meisten über die Umgebung des Zoll-bassins
+Haralds Blicke schweiften über die Umgebung des Zollbassins
 hin … Drüben standen die Gebäude … Eine
 hohe Mauer begrenzte den weiten Platz … Warenstapel
 lagen unter weißen Segeln … Arbeiter und Beamte eilten
 hin und her …
 
-»Gut — gehen wir in die Heckkajüte.; Ich werde
-schreiben … Und Harst! schlenderte zum Deck …
+»Gut — gehen wir in die Heckkajüte ... Ich werde
+schreiben … Und Harst schlenderte zum Deck …
 
 <@pagebreak/>
 In der Kajüte fragte der Doktor argwöhnisch: »Was
@@ -2469,16 +2469,17 @@ Harald saß schon am Tisch und ließ einen Bleistift
 
 Er schrieb — und Wallace las mit:
 
-Sir Godwin Codanoor,
-Polizeichef.
-Gilt sehr!?1
+<p class="centered">Sir Godwin Codanoor,</p>
+<p class="centered">Polizeichef.</p>
 
-Sir, ich befinde mich auf der heute von der Zollbehörde
+Eilt sehr!!
+
+> Sir, ich befinde mich auf der heute von der Zollbehörde
 beschlagnahmten Prau. Wollen Sie bitte dafür
-seinen, daß ich die Prau sofort ohne jedes Aufsehen
+sorgen, daß ich die Prau sofort ohne jedes Aufsehen
 verlassen darf … Ich finde mich später bei Ihnen ein.
 
-Gruß Harald Harst.
+<p class="right">Gruß Harald Harst.</p>
 
 »So, Wallace, nun nehmen Sie diesen Zettel und rufen
 Sie einen der Beamten auf dem Bollwerk heran. Sprechen
@@ -2487,7 +2488,7 @@ solle sogleich Sir Codanoor überbracht werden …«
 
 Wallace stieß einen hörbaren Seufzer aus …
 
-»Ab — das wird klappen …«
+»Ah — das wird klappen …«
 
 Er eilte an Deck, an die Reling …
 
@@ -2505,7 +2506,7 @@ Wir saßen an dem Kajütentisch in den weichen Rohrsesseln
 … Wallace kehrte zurück …
 
 Er war erregt — so erregt und nervös, daß ich eine so
-geringe Sedbstbeherrschung nur auf ganz bestimmte schwerwiegende
+geringe Selbstbeherrschung nur auf ganz bestimmte schwerwiegende
 Ursachen zurückführen konnte.
 
 Auch er setzte sich … Seine Spinnenfinger trommelten
@@ -2515,17 +2516,17 @@ Seine Augen irrten unstät umher …
 
 <@pagebreak/>
 »Was haben Sie eigentlich, Wallace?« fragte Harald
-Langsam. »Ihre Unruhe ist sehr meritwürdig …«
+Langsam. »Ihre Unruhe ist sehr merkwürdig …«
 
-»Durchaus nicht …!!« Und er rauchte eine Zigarette
+»Durchaus nicht …!« Und er rauchte eine Zigarette
 an …
 
 Schweigen …
 
-Auf Deck lungerten ein paar Mann der Besatzung umher,
+Auf Deck lungerten ein paar Mann der Besatzung umher.
 Die Kajütentür stand offen … Die Malaien waren
-Je gerührt der Beschlagnahme der Prau sehr hundeschnäuzig.
-Alte hatten wenig zu fürchten — vielleicht ein paar Wochen
+gegenüber der Beschlagnahme der Prau sehr hundeschnäuzig.
+Sie hatten wenig zu fürchten — vielleicht ein paar Wochen
 Gefängnis … Was machte ihnen das aus?!
 
 Ich beobachtete den Doktor weiter …
@@ -2539,23 +2540,23 @@ zu jaulen begann …
 
 Vielleicht hatte ihn einer jener jähen Wutanfälle gepackt,
 die jedes wilde Tier in der ersten Zeit der Gefangenschaft
-Freizumachen hat …
+durchzumachen hat …
 
 Das viereckige Loch in der Zwischenwand war Übrigens
 durch ein paar Latten gesichert worden.
 
 Wallace schaute noch unruhiger umher …
 
-»Was hat das Vieh Park!« meinte er nervös …
+»Was hat das Vieh nur?!« meinte er nervös …
 
 »Vielleicht Hunger …« sagte Harald …
 
 Der Doktor erhob sich, ging hinaus und flüsterte mit
 den Matrosen.
 
-Tier darauf warf einer der Leute durch die Klappe
+Gleich darauf warf einer der Leute durch die Klappe
 der Balkentür des Käfigverschlages ein paar Stücke Fleisch
-mein …
+hinein …
 
 Und — — die Minuten schlichen weiter …
 
@@ -2565,19 +2566,19 @@ Ich wandte mich an Harald …
 
 »Was mag er wohl vorhaben?«
 
-Er gute die Achseln …
+Er zuckte die Achseln …
 
 »Was es auch sei: er wird uns nicht entgehen …
-I-ß habe das Meinige getan … Sobald er die Prau der
-hatten hat, endet unser Kontrakt …«
+Ich habe das Meinige getan … Sobald er die Prau verlassen
+hat, endet unser Kontrakt …«
 
 <@pagebreak/>
-» Nun ja … Und dann?!«
+»Nun ja … Und dann?!«
 
 »Das wirst Du ja miterleben, mein Alter … — Aha —
 — ein Beamter kommt gelaufen … spricht mit dem anderen,
-dem Wallace den Zettel gab. Und — dieser Wink! Mal
-Sache … Er klettert auf das Bollwerk … Er ist frei
+dem Wallace den Zettel gab. Und — dieser winkt Wallace
+… Er klettert auf das Bollwerk … Er ist frei ..."
 
 Der Doktor schritt den Gebäuden zu — ohne Eile …
 Verschwand zwischen den Zollhäusern …
@@ -2588,7 +2589,7 @@ Harst sprang auf …
 wir handeln …!«
 
 Und er trat an den Schrank heran, der die nötigen
-Requisiten zum Verkleiden enthielt … Vor: hingen unsere
+Requisiten zum Verkleiden enthielt … Dort hingen unsere
 Frackanzüge … Dort stand eine Flasche Spiritus …
 
 Im Nu hatten wir Gesichter, Hände von der braunen
@@ -2600,30 +2601,30 @@ Und so im Frack zeigten wir uns den Zollbeamten …
 
 So rief Harald sie an …
 
-»Hallo — einen Augenblick …« Zwei näherten sich
+»Hallo — einen Augenblick …« Zwei näherten sich.
 Ihre Mienen verrieten, wie dieses Wunder auf sie wirkte:
-zwei Gentlemen im Frack — — auf einer Shmugalervprauk
+zwei Gentlemen im Frack — — auf einer Schmugglerprau!
 
 Harst sagte hastig: »Wir sind die deutschen Detektive
-Harst und Schraut … »Führen Sie uns zu einem enrso-päischen
+Harst und Schraut … Führen Sie uns zu einem europäischen
 Beamten drüben in den Gebäuden …«
 
-Es ge’hah …
+Es geschah …
 
-Von dem Büro aus 1telephonierte Harald an Robert
+Von dem Büro aus telephonierte Harald an Robert
 Simpson …
 
 »warnen Sie Ihre Nichte … Wallace plant irgend
 etwas … Ich werde auch die Polizei benachrichtigen …«
 
-Simpson war in seinem Geschäft Er wollte noch alles
-sei fragen. Harst hängte ab und rief dann Codanoor an …
+Simpson war in seinem Geschäft. Er wollte noch allerlei
+fragen. Harst hängte ab und rief dann Codanoor an …
 
 »Lassen Sie Simpsons Villa sofort bewachen … Miß
 Nelly soll sich nicht auf die Straße wagen … Wir kommen
 zu Ihnen …«
 
-Man hatte bereits ein Mietauto für uns herbed-geholt
+Man hatte bereits ein Mietauto für uns herbeigeholt
 …
 
 <@pagebreak/>
@@ -2640,10 +2641,10 @@ Hinein in Collins Dienstauto …
 Es raste davon …
 
 Der Inspektor fragte uns aus, war sehr bald im Bilde.
-—« neben Nellys Verschwinden wußte er nicht viel anzugeben
+— Über Nellys Verschwinden wußte er nicht viel anzugeben
 … Die Diener hatten bisher nur aussagen können,
 daß Miß Nelly durch einen braunen Straßenjungen einen
-Brief erhalten hätte und dann sofort in den Garten Greis!
+Brief erhalten hätte und dann sofort in den Garten geeilt
 sei … Von dort war sie nicht zurückgekehrt … —
 
 In der Villa trafen wir Simpson, Codanoor und drei
@@ -2652,7 +2653,7 @@ und Angst …
 
 Er nahm Haralds Hand …
 
-»Helfen Sie …! Dieser Schurke von Wallace Fleck?!
+»Helfen Sie …! Dieser Schurke von Wallace steckt
 dahinter … — Weiß Gott, wie er das Mädel in den Garten
 gelockt hat …! —
 
@@ -2663,16 +2664,16 @@ die nichts bedeuteten …
 
 Harald war ratlos … Selbst Harald …
 
-»Ich begreife das nicht.« meinte er, als wir steht auf
-gelbem Turnplatz standen. »Als Wallace die Prau verließ,
+»Ich begreife das nicht,« meinte er, als wir jetzt auf
+dem Turnplatz standen. »Als Wallace die Prau verließ,
 war es genau drei Minuten nach elf Uhr. Ich sah nach
-der Uhr des Zollgebäudes. Um ein Viertel zwölf Welt
-telephonierte ich im Büro. Fünf Minuten vor halb waren mit
-im Polizeipalast. Wallace hatte also kaum eine Viertels tun«
+der Uhr des Zollgebäudes. Um ein Viertel zwölf
+telephonierte ich im Büro. Fünf Minuten vor halb waren wir
+im Polizeipalast. Wallace hatte also kaum eine Viertelstunde
 Vorsprung. was mag er angestellt haben, um Nelly aus
-dem Hause zu Toten?! Der Brief kann doch nur eine Fälschung
+dem Hause zu locken?! Der Brief kann doch nur eine Fälschung
 gewesen sein — vielleicht mit anderer Unterschrift —
-= vielleicht gar angeblich von mir …«
+-- vielleicht gar angeblich von mir …«
 
 Codanoor nickte …
 
@@ -2683,9 +2684,8 @@ Namen mißbraucht, Mr. Harst …«
 Simpson, dieser sonst so eiskalte Geschäftsmann, zitterte
 förmlich …
 
-Harst blickte zu Boden … meinte nachdenklich: »Wald
-
-Wallace war als Malaie verkleidet. Es gibt nur eine Brüstung:
+Harst blickte zu Boden … meinte nachdenklich: »Wallace
+war als Malaie verkleidet. Es gibt nur eine Erklärung:
 er hat Miß Simpson hypnotisiert. Und sie ist
 freiwillig mit ihm gegangen … Das Paar muß bemerkt
 worden sein. Sie können den Garten nur durch die Hinterpforte
@@ -2697,7 +2697,7 @@ zumeist indische Handwerker wohnten und, wie hier Üblich,
 halb im Freien, auf der Straße arbeiteten.
 
 Wir fragten die Leute aus. Miß Nelly war den meisten
-von Ansehen bekannt, Aber niemand hatte sie bemerkt …
+von Ansehen bekannt. Aber niemand hatte sie bemerkt …
 
 Der arme Simpson war mehr tot als lebendig …
 
@@ -2716,15 +2716,15 @@ Harald wandte sich an Codanoor …
 »Was ist mit Wallaces Bungalow geschehen? Sie haben
 das Haus versiegeln lassen?«
 
-»Ja. — Die Dienerschaft ist entlassen worden
+»Ja. — Die Dienerschaft ist entlassen worden ...
 Nur der indische Pförtner ist dort geblieben …«
-»Dann — — dorthin!« sagte Harst plötzlich mit größter
 
-Lebendigkeit. » »- »Wallace wird ahnen, daß er in seinem
+»Dann — — dorthin!« sagte Harst plötzlich mit größter
+Lebendigkeit .... »Wallace wird ahnen, daß er in seinem
 eigenen Heim vielleicht am sichersten ist …«
 
 Zwei Autos jagten davon … Zum Flusse hinab …
-Nach dem Bungalow, der mitten auf dem ehemaligen Je-fuitensriedhof
+Nach dem Bungalow, der mitten auf dem ehemaligen Jesuitenfriedhof
 stand …
 
 Schon vorher ließ Harst die Wagen halten …
@@ -2736,9 +2736,9 @@ Wallace würde sich und Nelly erschießen, wenn er sich umstellt
 sieht …«
 
 Wir beide gingen bis zum Polizisten. Die Gitterpforte
-neben der Einfahrt war verschlossen. Wir kletterten hinaufführt
+neben der Einfahrt war verschlossen. Wir kletterten hinüber
 … Im Nu hatte sich eine Schar brauner Gassenbuben
-versammelt — sollte — kreischte … Collins kam gelaufen
+versammelt — johlte — kreischte … Collins kam gelaufen
 und verscheuchte sie …
 
 Wir schlichen auf Umwegen durch die Büsche dem Bungalow
@@ -2767,9 +2767,9 @@ ich an das Grauenhafteste …!
 Alles still … totenstill …
 
 Und Harald flüsterte, indem er auf die Schwelle der
-Vorvdertür deutete:
+Vordertür deutete:
 
-»Hier kennt sich eine Eidechse. Daneben liegen die
+»Hier sonnt sich eine Eidechse. Daneben liegen die
 Reste einer großen Spinne, die von der Eidechse verzehrt
 worden ist … Hier ist niemand innerhalb der letzten Stunde
 eingetreten … Auch die Siegel sind unverletzt — wie an
@@ -2778,25 +2778,25 @@ der Hintertür … Ich …«
 Schritte rechts … auf der Treppe … Ein blonder
 Mann im Sportanzug … Nickt uns zu …
 
-»nicht wahr, Herr Harst und Herr Schraut -.?« fragt
+»nicht wahr, Herr Harst und Herr Schraut ...?« fragt
 er auf deutsch …
 
 <@pagebreak/>
-»Dietrich!!« fast Harald. »Wo kommen Sie denn her?«
+»Dietrich!!« ruft Harald. »Wo kommen Sie denn her?«
 
-Und frisch Dietrich erwidert:
+Und Fritz Dietrich erwidert:
 
 »Dort unten von der Wasserpforte des Parkes, Herr
-sonst … Ich habe da einem braunen Halunken ein Mädchen
+Harst … Ich habe da einem braunen Halunken ein Mädchen
 abgejagt …«
 
 Wir beide sind wie Salzsäulen …
 
 »Nelly Simpson?« fragt Harald …
 
-„«Jedenfalls eine weiße Miß … Wie sie heißt — keine
+>>Jedenfalls eine weiße Miß … Wie sie heißt — keine
 Ahnung …! Sie ist anscheinend nicht recht bei Sinnen …
-Sie ist auf einer Bank neben der Wasserpforte …« und
+Sie sitzt auf einer Bank neben der Wasserpforte …« Und
 er zeigt nach Westen …
 
 <h2>5. Kapitel.</h2>
@@ -2805,7 +2805,7 @@ er zeigt nach Westen …
 So schlicht sagt Fritz Dietrich das, als ob es sich um
 die größte Selbstverständlichkeit handelte.
 
-Nun — er ist Angestellter einer Tiefsinnig, er hat wohl
+Nun — er ist Angestellter einer Tierfirma, er hat wohl
 schon so manches erlebt …
 
 Er wundert sich auch nicht weiter, als wir beide nun
@@ -2829,24 +2829,24 @@ Sieht uns …
 <@pagebreak/>
 Wallace … ’!!
 
-Taucht die Ruder ein … Ruder! um sein erbärmliches
-Welt …
+Taucht die Ruder ein … Rudert um sein erbärmliches
+Leben …
 
 Harst — nur den Kopf zurückwendend:
 
-»Dietrich. bleiben Sie bei Miß Nelly … Rütteln Sie
-sie … Zeichen Sie ihr aufzuwachen …««
+»Dietrich, bleiben Sie bei Miß Nelly … Rütteln Sie
+sie … Befehlen Sie ihr aufzuwachen …«
 
 Nelly sitzt dort links auf einer Bank — in sich zusammengesunken
 …
 
 Und — — vor ihr — — bei Gott — — das ist John
-sollten … soeben aus den Büschen springend …
+Gollipp … soeben aus den Büschen springend …
 
 John Gollipp, vor Nelly in die Knie sinkend …
 
 Wir jagen durch die Pforte auf den Anlegesteg, der
-hier zum Grundstück gehört … Zwei umarbeitete Boote …
+hier zum Grundstück gehört … Zwei angekettete Boote …
 In einem zwei Ruder …
 
 Hinein …
@@ -2857,15 +2857,15 @@ dem Nachen näher …
 
 Der Fluß ist belebt …
 
-Dampfer, Kumpane, große Frachtboote: von Überall
-glatt man den beiden Gentlemen im Frack verwundert nach,
-die da wie unsinnig bei dessen Mittagshitze ihr Boot über
+Dampfer, Sampans, große Frachtboote: von Überall
+glotzt man den beiden Gentlemen im Frack verwundert nach,
+die da wie unsinnig bei dieser Mittagshitze ihr Boot über
 die gelbbraunen trüben Wasser tanzen lassen …
 
-Wallace liegt jetzt in einen Seitenarm ein …
+Wallace biegt jetzt in einen Seitenarm ein …
 
 Oh — den kennen wir … Es ist die Einfahrt zum
-Zollbassin …! — Ast der Mensch wahnsinnig, diesen Weg
+Zollbassin …! — Ist der Mensch wahnsinnig, diesen Weg
 zu wählen?! Hier in diesem gemauerten Binnenhafen gibt
 es für ihn keine Rettung …
 
@@ -2885,33 +2885,33 @@ Wir keine fünf Meter mehr ab …
 Da ist er schon an Deck … verschwindet uns aus
 den Augen
 
-Wi hnterdrein auf der Strickleiter … Wir ebensallch
+Wir hinterdrein auf der Strickleiter … Wir ebenfalls
 an Deck …
 
 Sehen Wallace … Er steht vor der Balkentür des
-Kasinos … Er reißt die Cusenricgel zurück — — die Tür
-auf … will sich ans das dahin des Bugaufbaus
-Klumpen. findet an dem Zinkblech mit den Spinnenfingern
-seinen Halt …
+Käfigs … Er reißt die Eisenriegel zurück — — die Tür
+auf … Will sich auf das Dach des Bugaufbaus
+schwingen, findet an dem Zinkblech mit den Spinnenfingern
+keinen Halt …
 
-jene Beine, sein Umerleib baumeln gerade vor der
-offenen Tür
+Seine Beine, sein Unterleib baumeln gerade vor der
+offenen Tür ...
 
 Mit dem linken Knie sucht er sich auf den Türrand zu
-früher …
+stützen …
 
 Gleitet wieder zurück …
 
-Seine Beine suchen …
+Seine Beine zucken …
 
 Nochmals kommt er ein Stück empor, scheint jetzt einen
 Halt gefunden zu haben …
 
-Und — Ansicht doch zurück …
+Und — rutscht doch zurück …
 
 Hängt vor der Türöffnung …
 
-Ein dunkelgelber Katzenleib Schnellt aus der Dämmerung
+Ein dunkelgelber Katzenleib schnellt aus der Dämmerung
 der Kammer hervor …
 
 Reißt den Doktor mit — im Bogen mit auf die Deckplanken
@@ -2921,15 +2921,15 @@ Ich wende mich ab …
 
 Ein Schrei gellt auf …
 
-Adern Kreischen, das in die Nerven sticht wie glühende
-Köchin …
+Ein Kreischen, das in die Nerven sticht wie glühende
+Nadeln …
 
 Dann ein noch entsetzlicheres Geräusch …
 
 Als ob ein halb gefüllter Topf zerschlagen wird …
 
 Und Harst steht neben mir, das Gesicht dem Furchtbaren
-ptgefehrt …
+zugekehrt …
 
 Sagt jetzt:
 
@@ -2941,16 +2941,16 @@ Und er läuft vorwärts …
 Ich schaue hin …
 
 <@pagebreak/>
-Er schmnettert die Tür zu, schiebt die Riegel vor …
+Er schmettert die Tür zu, schiebt die Riegel vor …
 
 Verstörte Zollbeamte kommen an Deck … Wollen die
 Bestie durch das Türfenster erschießen …
 
 Harst wehrt ab …
 
-»G8 wäre schade um das Tier … Der Mensch, den
-In Tiger jetzt zerfetzt, war mehr Bestie als die gelbe
-Straße …«
+»Es wäre schade um das Tier … Der Mensch, den
+der Tiger jetzt zerreißt, war mehr Bestie als die gelbe
+Katze …«
 
 Das klingt in diesem Augenblick allgemeiner wildester
 Aufregung vielleicht gefühllos …
@@ -2961,19 +2961,19 @@ Gollipp, der zum Mörder gestempelt werden sollte — an
 Edward Wallaces dünnes Mörderlächeln, in dem sich die
 ungeheuerliche Gemeinheit einer Schurkenseele offenbarte …
 
-Mochte dem Tiger »die« Mahlzeit bekommen! Man wird
+Mochte dem Tiger *die* Mahlzeit bekommen! Man wird
 hart, wenn man die Abgründe menschlicher Verworfenheit
 kennt … —
 
 Um es hier gleich zu erwähnen: der Tiger hat Wallace
 nicht gefressen. Wahrscheinlich störte ihn der Geruch des
-Hautfärbemittels. Die prächtige Bestie lebt heute im hiernach
-in Stehkragen bei Hamburg, der Hagenbeckschen
+Hautfärbemittels. Die prächtige Bestie lebt heute im Tierpark
+in Stellingen bei Hamburg, der Hagenbeckschen
 Schöpfung … —
 
-Und wir dann Luxus im Auto zu Wallaces Bungalow.
+Und wir dann zurück im Auto zu Wallaces Bungalow.
 Auf der Veranda finden wir eine große Versammlung …
-Als Mittelpunkt ein Brautpaar und den Landsmann frisch
+Als Mittelpunkt ein Brautpaar und den Landsmann Fritz
 Dietrich …
 
 Dietrich erzählt:
@@ -2993,20 +2993,20 @@ ich ihn nun zur Rede stellte, sprang er in einen Nachen …«
 
 Wir drei standen etwas abseits …
 
-Und leise fügte Fritz Dietrich hinzu«
+Und leise fügte Fritz Dietrich hinzu:
 
-»Herr Harst, ich möchte Abirren rasch etwas anvertrauen
+»Herr Harst, ich möchte Ihnen noch etwas anvertrauen
 … etwas, das gerade für Sie Interesse haben
-dürfte … Ich sagte Ihnen ja schon, daß wir aus Sumatra
+dürfte … Ich sagte Ihnen ja schon, daß wir auf Sumatra
 allerlei Viehzeug eingefangen haben … Und dabei habe
-ich bei einer Kreise durchs den Urwald eine ganz merkwürdige
+ich bei einer Streife durchs den Urwald eine ganz merkwürdige
 Entdeckung gemacht …«
 
-In Schießen Moment traten Nelly und John Gollipp Arm
+In diesem Moment traten Nelly und John Gollipp Arm
 in Arm an uns heran …
 
 Nelly mit einem lieben Lächeln auf dem reizenden
-Gesichter …
+Gesichtchen …
 
 Harst kam ihr zuvor … »Ich weiß schon, was Sie
 sagen wollen, Miß Simpson …! Sagen Sie nichts …
@@ -3014,9 +3014,9 @@ Jeder Dank ist überflüssig … Hier steht Ihr Retter: Landsmann
 Fritz Dietrich!« —
 
 Und diesem frischen vergnügten Fritz Dietrich verdankten
-»wir« das Abenteuer mit der
+*wir* das Abenteuer mit der
 
-Villa mit den vier Schornsteinen,
+<p class="centered">Villa mit den vier Schornsteinen,</p>
 
 das ich meinen Freunden und Lesern im folgenden Band
 schildern will.
