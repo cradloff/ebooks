@@ -36,7 +36,7 @@ sagte merkwürdig gepreßt:
 »Sie sind Sieger geblieben, Doktor …« Und zu uns
 gewandt mit knapper Verbeugung:
 
-»Leben Sie wohl, meine Herren … Ich Werde nie
+»Leben Sie wohl, meine Herren … Ich werde nie
 wieder Billard spielen …«
 
 Dann verließ er den Saal …
@@ -181,7 +181,7 @@ Nelly jetzt für eine Malugi …«
 ist doch ein Hinduausdruck für ein altes Weib mit dem
 bösen Blick … In Deutschland würde man früher »Hexe«
 gesagt haben … Hier sagt man Malugi, was etwa so viel
-wie Giftkröte bedeutet …
+wie Giftkröte bedeutet …«
 
 »Allerdings, lieber Harst …: Giftkröte! Und genau
 wie unsere hiesige giftige Riesenkröte mit ihren gelben Glotzaugen
@@ -358,7 +358,7 @@ kleine Mehrladepistole gelegen, aus der ein Schuß
 abgefeuert war. Sechs Patronen steckten noch im Laderahmen.
 
 Detektivinspektor Collins, den wir ebenfalls von früher
-Her kannten, hatte den Tatort dann im weiten Umkreis absperren
+her kannten, hatte den Tatort dann im weiten Umkreis absperren
 lassen und auf unser Erscheinen gewartet. John
 Gollipp wurde in einem nahen Gartenpavillon bewacht.
 
@@ -623,7 +623,7 @@ folgten …
 
 Als sie sich etwas beruhigt hatte, fragte Harald:
 
-»befand sich das Testament in dem Wandfach, Miß
+»Befand sich das Testament in dem Wandfach, Miß
 Simpson?«
 
 »Ja — und Schmucksachen und Geld … Alles ist gestohlen,
@@ -636,7 +636,7 @@ worden?«
 hat es gelesen … Onkel zeigte es nur mir und seinem
 Kammerdiener und sagte dabei, als er es versiegelte: »Ich
 habe dafür gesorgt, Nelly, daß Du arm bleibst … Du sollst
-Deiner selbst wegen geheiratet werden …«
+Deiner selbst wegen geheiratet werden …««
 
 »Und ohne das Testament wären Sie die einzige Erbin,
 Miß Simpson?«
@@ -653,7 +653,7 @@ Verneigte sich vor Nelly …
 »Dies hier hat soeben ein zerlumpter Knabe abgegeben
 …«
 
-Nelly las die Aufschrift: Schreibmaschine
+Nelly las die Aufschrift: Schreibmaschine …
 
 <p class="centered">Miß Nelly Simpson.</p>
 
@@ -720,7 +720,7 @@ Ich leide an Ohnmachtsanfällen …«
 <@pagebreak/>
 Sie sann nach. »Vielleicht seit vier Monaten … Das
 Leiden stellte sich ganz plötzlich ein, soll aber nur nervöser
-Natur sein …
+Natur sein …«
 
 »Entschuldigen Sie, Miß Simpson: noch ein paar indiskretere
 Fragen … Sie wissen, daß drei Ihrer Bewerber
@@ -731,7 +731,7 @@ Nelly weinte … Weinte …
 
 »Ja … ja …! Ich tat’s nur aus … aus Verzweiflung …«
 
-»weil John Gollipp Sie übersah?«
+»Weil John Gollipp Sie übersah?«
 
 Sie nickte …
 
@@ -767,7 +767,7 @@ Herren also nähertreten wollten …
 
 <@pagebreak/>
 Dieser tadellos geschulte Diener war kein Inder, sondern
-ganz offenbar ein Malaie. auf den Wangen hatte er kaum
+ganz offenbar ein Malaie. Auf den Wangen hatte er kaum
 sichtbare Tätowierungen, die jedoch dazu beitrugen, dieses
 perfide Gesicht noch widerwärtiger zu machen.
 
@@ -808,13 +808,13 @@ am linken Fuß …«
 »Gewiß, Mr. Harst … Er behandelt auch meine
 Mutter … Sie ist seit Jahren gelähmt …«
 
-wir hatten den weißen schmucken Bungalow erreicht.
+Wir hatten den weißen schmucken Bungalow erreicht.
 Das Haus besaß die übliche offene Veranda, die sich rund
 um das Gebäude herumzog …
 
-der Diener mit der Gaunervisage bat uns auf der
+Der Diener mit der Gaunervisage bat uns auf der
 Veranda Platz zu nehmen … Korbmöbel standen hier
-Überall zwanglos verteilt. Unter dem Glasdach drehten sich
+überall zwanglos verteilt. Unter dem Glasdach drehten sich
 <@pagebreak/>
 jene großen Ventilatoren, die im Verein mit der ständigen
 Berieselung der Glasdächer angenehme Kühle verbreiten.
@@ -928,7 +928,7 @@ Und laut und bestimmt erwiderte Gollipp:
 
 »Major Harry Collerlund …!«
 
-»Und — hat er Sie in Simpsons Park geschickt?
+»Und — hat er Sie in Simpsons Park geschickt?«
 
 »Ja …«
 
@@ -964,7 +964,7 @@ Unterwegs erklärte Harald unvermittelt:
 Codanoor … Edward Wallace hat Gollipp in der Hypnose
 schon vorher einmal diese Antworten anbefohlen … Wenn
 ich »Unglaublich!« rief, so galt das nur der Geriebenheit dieses
-Schurken …
+Schurken …«
 
 Sir Codanoor starrte Harst sprachlos an …
 
@@ -974,14 +974,14 @@ Harald hinzu, »und ich werde den größten Verbrecher Kalkuttas
 entlarven, Sir Codanoor … Und — schweigen
 Sie …!« —
 
-um halb eins waren wir bei Sir Codanoor im Polizeipalast.
+Um halb eins waren wir bei Sir Codanoor im Polizeipalast.
 
 Inzwischen war Simpsons Leiche obduziert worden.
 Das im Schädel gefundene Geschoß paßte zu Gollipps Pistole.
 
 Im Dienstzimmer Sir Codanoors wurde nun hinter
 den gepolsterten Türen Kriegsrat gehalten. Auch Inspektor
-Collins war Dabei.
+Collins war dabei.
 
 Harald behauptete, daß Doktor Wallace nicht nur den
 Major Collerlund, sondern auch Nellys andere drei Bewerber
@@ -1141,7 +1141,7 @@ war eine hagere grauhaarige Frau im weißen Leinenkleid
 aufgetaucht, rief dem Greise etwas zu, verschwand wieder …
 
 »Frau Gocknar …« flüsterte Harst … »Hinein in die
-Büsche …! Lassen wir den Alten vorüber …
+Büsche …! Lassen wir den Alten vorüber …«
 
 Der Greis humpelte vorbei …
 
@@ -1175,7 +1175,7 @@ kamen, der sich bis zu den Felsblöcken hinzog.
 fühlen,« sagte er. »Ich glaube fast, daß der Kerl die Ziege
 von Frau Gocknar geschenkt bekommen hat. Sie sträubte
 sich so sehr, den Waldweg entlangzugehen. Der Greis ist ihr
-fremd. man merkte das …«
+fremd. Man merkte das …«
 
 Ja — jetzt, wo Harald mich mit der Nase auf diese
 Kleinigkeiten stieß, erinnerte ich mich an mancherlei, was
@@ -1244,7 +1244,7 @@ Die Ziege drängte sich an ihm vorüber und machte an
 der Rückwand der Hürde halt. Diese Rückwand wurde
 durch die breite Seite eines der Blöcke gebildet …
 
-hier schnupperte die Ziege, meckerte, sprang wieder
+Hier schnupperte die Ziege, meckerte, sprang wieder
 zurück … Es war eine jener gelbbraunen halbwilden
 Bergziegen, wie sie aus den Hutia-Bergen nach überallhin
 als anspruchsloseste und gutmilchende Tiere exportiert
@@ -1475,7 +1475,7 @@ zeigte …
 
 Eine Stimme dann aus der Schar der Gäste:
 
-»Das ist ja Sydney Rovell …!1«
+»Das ist ja Sydney Rovell …!!«
 
 Und auch andere riefen:
 
@@ -1552,10 +1552,10 @@ Diese Stimme wirkte wie ein allgemeines Betäubungsmittel
 
 Noch mehr wirkte die Gelassenheit, mit der eine sehnige
 Hand mit Spinnenfingern die Seidenmaske jetzt löste und
-so das kühl-lächelnde Gesicht Doktor Wallaces enthüllte
+so das kühl-lächelnde Gesicht Doktor Wallaces enthüllte.
 
 <@pagebreak/>
-»einen Augenblick, meine Herrschaften,« sagte er mit
+»Einen Augenblick, meine Herrschaften,« sagte er mit
 einem Hohn, der ungeahnte Schrecknisse verhieß. »Hier habe
 ich doch auch noch ein Wort mitzureden … Zunächst: Niemand
 rühre sich vom Platz! Mein Diener und Vertrauter
@@ -1573,7 +1573,7 @@ Blechzylinder zum Vorschein, der etwa ein halb Meter lang
 und zehn Zentimeter dick war. In den Zylinder liefen zwei
 isolierte Drähte hinein …
 
-»diese Gaspatrone, meine Herrschaften …« — und er
+»Diese Gaspatrone, meine Herrschaften …« — und er
 legte sie auf die Bank — »würde genügen, Sie alle in Sekunden
 ins Jenseits zu befördern … Ich sehe da hinten
 Oberst Ramdor stehen … Er hat vor acht Tagen beobachtet,
@@ -1645,7 +1645,7 @@ dieses Opfer eines Mannes annehmen werden, der …«
 Harald hatte ihm durch eine sehr energische Handbewegung
 Schweigen geboten …
 
-Verzeihen Sie, Sir Codanoor: hier handelt es ich um
+»Verzeihen Sie, Sir Codanoor: hier handelt es ich um
 <@pagebreak/>
 kein Opfer … Doktor Wallace wird Schraut und mich wohl
 kaum kaltblütig ermorden …«
@@ -1711,7 +1711,7 @@ Wir kletterten an einer Strickleiter an Deck der Handelsprau,
 die vorn und achtern mit Fässern und Tonnen beladen
 war.
 
-In der Heckkajüte, deren elegante Einrichtung uns Überraschte,
+In der Heckkajüte, deren elegante Einrichtung uns überraschte,
 waren wir dann mit Wallace allein … Eine große
 Petroleumlampe pendelte über dem ovalen Tisch …
 
@@ -1769,7 +1769,7 @@ sich die Prau auf den Wellen …
 »Werden Sie gehorchen?« fragte Wallace mit dem
 scheußlichen Zucken der Mundwinkel …
 
-Harst setzte sich bequemer, schlug ein Bein Über das
+Harst setzte sich bequemer, schlug ein Bein über das
 andere, faßte in die linke Innentasche und holte sein goldenes
 Zigarettenetui hervor …
 
@@ -1864,7 +1864,7 @@ blickten wiederholt nach der offenen Tür unserer Kammer,
 konnten uns aber unmöglich sehen, denn wir saßen im
 Dunkeln …
 
-Harald rauchte die fünfte Zigarette. jetzt nicht mehr
+Harald rauchte die fünfte Zigarette. Jetzt nicht mehr
 Mirakulum, sondern opiumhaltige süßliche Dinger, die Wallace
 uns gespendet, jedem eine Schachtel zu zwanzig Stück …
 Mir schmeckten sie nicht.
@@ -1926,7 +1926,7 @@ ist er geknebelt …«
 »So?!«
 
 »Ja … Krieche mal und rieche …!! Krieche — rieche!
-das reimt sich … mit Recht! Ich weiß Bescheid …«
+Das reimt sich … mit Recht! Ich weiß Bescheid …«
 
 Ganz Harst …!!
 
@@ -1936,9 +1936,9 @@ Ich roch …
 
 Donnerwetter: das war Raubtierduft — sehr intensiv!
 
-Dann preßte Ich das Ohr an die Öffnung …
+Dann preßte ich das Ohr an die Öffnung …
 
-fuhr zurück …
+Fuhr zurück …
 
 Ein röchelndes Fauchen …
 
@@ -1962,7 +1962,7 @@ glaube ich ziemlich bestimmt!«
 Ich verspürte plötzlich Sehnsucht nach einem doppeletagigen
 Kognak …
 
-»Und — und wie denkst Du Dir diese Geschichte Überhaupt,
+»Und — und wie denkst Du Dir diese Geschichte überhaupt,
 <@pagebreak/>
 Harald?« lenkte ich mit trockenen Lippen auf unsere
 Aufgabe über. »Willst Du Nelly Simpson diesem …«
@@ -2036,7 +2036,7 @@ Also so standen die Dinge!! Dort drüben war doch
 ein Mensch — ein vernunftbegabtes Wesen, das ebenfalls
 mit drei Kratztönen auf meine drei reagierte!
 
-ich versuchte es nochmals.
+Ich versuchte es nochmals.
 
 Kratz — kratz — kratz — kratz …
 
@@ -2168,18 +2168,18 @@ Herr Dietrich. Trauen Sie es sich zu, an Land
 schwimmen zu können?«
 
 <@pagebreak/>
-»Ganz gewiß, Herr Harst
+»Ganz gewiß, Herr Harst …«
 
-»Es regnet jetzt stark. »Das erleichtert Ihre Flucht.
+»Es regnet jetzt stark … Das erleichtert Ihre Flucht.
 Wir müssen hier an Bord bleiben. Und Sie wieder müssen
 mir versprechen, niemandem zu verraten, daß wir hier auf
 der Prau sind … Was Sie sonst tun, ist Ihre Sache. Die
 Prau ist unterwegs nach Kalkutta …«
 
-»Gut — ich tue, wie Sie wünschen, Herr Harst
--- Die Prau heißt im übrigen »Salarata<< und gehört einem
-Kaufmann in Batavia ... Die Besatzung will den Tiger
-verkaufen und das Geld einstecken .... Ich soll den Schuften
+»Gut — ich tue, wie Sie wünschen, Herr Harst …
+— Die Prau heißt im übrigen »Salarata« und gehört einem
+Kaufmann in Batavia … Die Besatzung will den Tiger
+verkaufen und das Geld einstecken … Ich soll den Schuften
 schwören, daß ich sie nicht anzeigen werde. Bisher habe
 ich mich geweigert …«
 
@@ -2201,7 +2201,7 @@ Haralds Taschenlampe blitzte für Sekunden auf …
 
 Fritz Dietrichs stoppelbärtiges Gesicht war das eines
 Mannes von vielleicht dreißig Jahren — ein kühnes, energisches
-Gesicht mit graublauen, lustigen Augen ...
+Gesicht mit graublauen, lustigen Augen …
 
 Die Lampe erlosch …
 
@@ -2244,11 +2244,11 @@ Vor dem grellen Lichtkegel der Taschenlampe, die ich
 ihm rasch dicht vor die Augen hielt, wich er wieder zurück.
 Harald schob schnell das Brettstück in die Öffnung und befestigte
 es, indem er ein paar Holzstückchen in die Ritzen
-klemmte,
+klemmte.
 
 Die Bestie meldete sich nicht mehr …
 
-»Gott sei Dank …!» flüsterte Harald aufatmend. »Das
+»Gott sei Dank …!« flüsterte Harald aufatmend. »Das
 hätte uns noch gerade gefehlt, daß wir den Tiger womöglich
 hätten erschießen müssen …!«
 
@@ -2328,7 +2328,7 @@ handeln solle …«
 
 Wallace starrte Harald an …
 
-»nach Gutdünken …!!« Seine Wut loderte wieder
+»Nach Gutdünken …!!« seine Wut loderte wieder
 auf … »Ja — nach Gutdünken …!! Die Prau wird also
 in Kalkutta von der Hafenpolizei …«
 
@@ -2365,8 +2365,8 @@ Wir näherten uns, um besser hören zu können …
 »Kapitän Sadato,« sagte der Brite gleichmütig, »wir
 sind seit Monaten hinter Ihnen her … Jetzt haben wir
 Sie abgefaßt … Sie haben in dieser Nacht westlich der
-Huglimündung beim Dorfe Makri Schmuggelware ausge-
-bootet. Alles ist beschlagnahmt … Ich verhafte Sie und
+Huglimündung beim Dorfe Makri Schmuggelware ausgebootet.
+Alles ist beschlagnahmt … Ich verhafte Sie und
 <@pagebreak/>
 die ganze Besatzung … Jeder Widerstand würde Ihre
 Lage nur verschlimmern …« — —
@@ -2448,8 +2448,8 @@ Der Doktor beugte sich vor …
 »Aber ich hätte dann Ungelegenheiten mit der
 Polizei …«
 
-»Das ist in diesem Falle wohl gleichgültig ...! Ehrliches
-Spiel, Mr. Harst ...! Reden Sie …!«
+»Das ist in diesem Falle wohl gleichgültig …! Ehrliches
+Spiel, Mr. Harst …! Reden Sie …!«
 
 Haralds Blicke schweiften über die Umgebung des Zollbassins
 hin … Drüben standen die Gebäude … Eine
@@ -2457,15 +2457,15 @@ hohe Mauer begrenzte den weiten Platz … Warenstapel
 lagen unter weißen Segeln … Arbeiter und Beamte eilten
 hin und her …
 
-»Gut — gehen wir in die Heckkajüte ... Ich werde
-schreiben … Und Harst schlenderte zum Deck …
+»Gut — gehen wir in die Heckkajüte … Ich werde
+schreiben …« Und Harst schlenderte zum Deck …
 
 <@pagebreak/>
 In der Kajüte fragte der Doktor argwöhnisch: »Was
 werden Sie schreiben?«
 
 Harald saß schon am Tisch und ließ einen Bleistift
-Über ein Stück Papier gleiten …
+über ein Stück Papier gleiten …
 
 Er schrieb — und Wallace las mit:
 
@@ -2516,7 +2516,7 @@ Seine Augen irrten unstät umher …
 
 <@pagebreak/>
 »Was haben Sie eigentlich, Wallace?« fragte Harald
-Langsam. »Ihre Unruhe ist sehr merkwürdig …«
+langsam. »Ihre Unruhe ist sehr merkwürdig …«
 
 »Durchaus nicht …!« Und er rauchte eine Zigarette
 an …
@@ -2542,7 +2542,7 @@ Vielleicht hatte ihn einer jener jähen Wutanfälle gepackt,
 die jedes wilde Tier in der ersten Zeit der Gefangenschaft
 durchzumachen hat …
 
-Das viereckige Loch in der Zwischenwand war Übrigens
+Das viereckige Loch in der Zwischenwand war übrigens
 durch ein paar Latten gesichert worden.
 
 Wallace schaute noch unruhiger umher …
@@ -2578,7 +2578,7 @@ hat, endet unser Kontrakt …«
 »Das wirst Du ja miterleben, mein Alter … — Aha —
 — ein Beamter kommt gelaufen … spricht mit dem anderen,
 dem Wallace den Zettel gab. Und — dieser winkt Wallace
-… Er klettert auf das Bollwerk … Er ist frei ..."
+… Er klettert auf das Bollwerk … Er ist frei …«
 
 Der Doktor schritt den Gebäuden zu — ohne Eile …
 Verschwand zwischen den Zollhäusern …
@@ -2593,7 +2593,7 @@ Requisiten zum Verkleiden enthielt … Dort hingen unsere
 Frackanzüge … Dort stand eine Flasche Spiritus …
 
 Im Nu hatten wir Gesichter, Hände von der braunen
-Farbe gesäubert
+Farbe gesäubert.
 
 In fünf Minuten waren wir Europäer geworden … —
 
@@ -2614,7 +2614,7 @@ Es geschah …
 Von dem Büro aus telephonierte Harald an Robert
 Simpson …
 
-»warnen Sie Ihre Nichte … Wallace plant irgend
+»Warnen Sie Ihre Nichte … Wallace plant irgend
 etwas … Ich werde auch die Polizei benachrichtigen …«
 
 Simpson war in seinem Geschäft. Er wollte noch allerlei
@@ -2631,7 +2631,7 @@ Man hatte bereits ein Mietauto für uns herbeigeholt
 Als wir im Polizeigebäude eintrafen, stand Inspektor
 Collins in der Vorhalle …
 
-rief uns entgegen: »Miß Nelly ist verschwunden …
+Rief uns entgegen: »Miß Nelly ist verschwunden …
 Ich will gerade zur Villa Simpson …«
 
 »Wir begleiten Sie …« — und Harst machte kehrt …
@@ -2655,7 +2655,7 @@ Er nahm Haralds Hand …
 
 »Helfen Sie …! Dieser Schurke von Wallace steckt
 dahinter … — Weiß Gott, wie er das Mädel in den Garten
-gelockt hat …! —
+gelockt hat …! —«
 
 Wir durchsuchten den Garten. Wir entdeckten auch
 nicht die allergeringste Spur von Fußeindrücken — weder
@@ -2670,10 +2670,10 @@ war es genau drei Minuten nach elf Uhr. Ich sah nach
 der Uhr des Zollgebäudes. Um ein Viertel zwölf
 telephonierte ich im Büro. Fünf Minuten vor halb waren wir
 im Polizeipalast. Wallace hatte also kaum eine Viertelstunde
-Vorsprung. was mag er angestellt haben, um Nelly aus
+Vorsprung. Was mag er angestellt haben, um Nelly aus
 dem Hause zu locken?! Der Brief kann doch nur eine Fälschung
 gewesen sein — vielleicht mit anderer Unterschrift —
--- vielleicht gar angeblich von mir …«
+— vielleicht gar angeblich von mir …«
 
 Codanoor nickte …
 
@@ -2693,7 +2693,7 @@ verlassen haben … Die ist unverschlossen, wie wir
 schon sahen …« —
 
 Die Pforte mündete in eine enge Seitenstraße, in der
-zumeist indische Handwerker wohnten und, wie hier Üblich,
+zumeist indische Handwerker wohnten und, wie hier üblich,
 halb im Freien, auf der Straße arbeiteten.
 
 Wir fragten die Leute aus. Miß Nelly war den meisten
@@ -2716,11 +2716,11 @@ Harald wandte sich an Codanoor …
 »Was ist mit Wallaces Bungalow geschehen? Sie haben
 das Haus versiegeln lassen?«
 
-»Ja. — Die Dienerschaft ist entlassen worden ...
+»Ja. — Die Dienerschaft ist entlassen worden …
 Nur der indische Pförtner ist dort geblieben …«
 
 »Dann — — dorthin!« sagte Harst plötzlich mit größter
-Lebendigkeit .... »Wallace wird ahnen, daß er in seinem
+Lebendigkeit … »Wallace wird ahnen, daß er in seinem
 eigenen Heim vielleicht am sichersten ist …«
 
 Zwei Autos jagten davon … Zum Flusse hinab …
@@ -2778,7 +2778,7 @@ der Hintertür … Ich …«
 Schritte rechts … auf der Treppe … Ein blonder
 Mann im Sportanzug … Nickt uns zu …
 
-»nicht wahr, Herr Harst und Herr Schraut ...?« fragt
+»Nicht wahr, Herr Harst und Herr Schraut …?« fragt
 er auf deutsch …
 
 <@pagebreak/>
@@ -2794,7 +2794,7 @@ Wir beide sind wie Salzsäulen …
 
 »Nelly Simpson?« fragt Harald …
 
->>Jedenfalls eine weiße Miß … Wie sie heißt — keine
+»Jedenfalls eine weiße Miß … Wie sie heißt — keine
 Ahnung …! Sie ist anscheinend nicht recht bei Sinnen …
 Sie sitzt auf einer Bank neben der Wasserpforte …« Und
 er zeigt nach Westen …
@@ -2813,7 +2813,7 @@ die Treppe hinabstürzen …
 
 Er läuft hinter uns drein, ruft nur: »Die Miß ist ja
 außer Gefahr … Der Schuft ist ausgekniffen … Es war
-ein malaiischer Matrose …
+ein malaiischer Matrose …«
 
 Wir hören nicht darauf … Der Schuft kann zurück
 kehren, und Nellys geistiger Zustand, wie Dietrich ihn so kurz
@@ -2857,7 +2857,7 @@ dem Nachen näher …
 
 Der Fluß ist belebt …
 
-Dampfer, Sampans, große Frachtboote: von Überall
+Dampfer, Sampans, große Frachtboote: von überall
 glotzt man den beiden Gentlemen im Frack verwundert nach,
 die da wie unsinnig bei dieser Mittagshitze ihr Boot über
 die gelbbraunen trüben Wasser tanzen lassen …
@@ -2883,7 +2883,7 @@ Wir keine fünf Meter mehr ab …
 
 <@pagebreak/>
 Da ist er schon an Deck … verschwindet uns aus
-den Augen
+den Augen.
 
 Wir hinterdrein auf der Strickleiter … Wir ebenfalls
 an Deck …
@@ -2895,7 +2895,7 @@ schwingen, findet an dem Zinkblech mit den Spinnenfingern
 keinen Halt …
 
 Seine Beine, sein Unterleib baumeln gerade vor der
-offenen Tür ...
+offenen Tür …
 
 Mit dem linken Knie sucht er sich auf den Türrand zu
 stützen …
