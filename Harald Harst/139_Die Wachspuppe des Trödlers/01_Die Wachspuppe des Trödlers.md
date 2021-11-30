@@ -21,7 +21,7 @@ Haidarabad, die Basare, ansehen, bevor wir Mansur-Chatta
 unsere Aufwartung machten.
 
 Harald Harst bog jetzt in ein ganz schmales Gäßchen ein.
-Er befindet sich ja zumeist aus der Jagd nach Raritäten, und
+Er befindet sich ja zumeist auf der Jagd nach Raritäten, und
 diese trifft man gewöhnlich nur in kleineren Läden an, falls
 man sich eben nicht einen tadellos imitierten Gegenstand
 »made in Germany« anschmieren lassen will.
@@ -48,7 +48,7 @@ Da sagte Harst in gänzlich verändertem Tone:
 
 »Sieh nur, mein Alter … Da lehnt neben der Ladentür
 eines Trödlers eine Wachspuppe im Kostüm einer
-Pierrette …! Das ist eigentlich ulkig …! Das Ding
+Pierrette<@refnote 1/> …! Das ist eigentlich ulkig …! Das Ding
 stammt doch sicher aus einem europäischen Wachsfigurenkabinett
 …«
 
@@ -335,7 +335,7 @@ vor Staunen weit offen gehabt haben …
 
 Mawesa — — war kein Inder!
 
-Mawesa war ein alter gefärbten Europäer …!!
+Mawesa war ein alter gefärbter Europäer …!!
 
 <h2>2. Kapitel.</h2>
 
@@ -430,7 +430,7 @@ bedanken können, wenn wieder gesund sein …«
 »Wir sind … Amerikaner und reisen heute noch ab …
 Dein Herr braucht sich also nicht zu bemühen … Hier
 — übergib ihm diese dreißig Pfund … Es ist der Preis
-für die Buddhavase … — Leb’ wohl, Tsundsi .,.«
+für die Buddhavase … — Leb’ wohl, Tsundsi …«
 
 Wir verließen den Laden …
 
@@ -512,7 +512,7 @@ seine indische Tracht verriet seine Herkunft.
 
 Als er uns nun, ohne aus Höflichkeit nach unseren
 Namen zu fragen, in sein Privatkontor geführt hatte, als
-wir hier in dem ganz modern eingerichteten Räume allein
+wir hier in dem ganz modern eingerichteten Raume allein
 waren, reichte Harald dem indischen Großkaufmann die
 Depesche, die beste Legitimation unserer Persönlichkeiten.
 
@@ -607,7 +607,7 @@ gehauen.
 
 »Weiter …« bat Harald …
 
-»Meine Frau war überglücklich Mr. Harst, denn der
+»Meine Frau war überglücklich, Mr. Harst, denn der
 Knabe war ein kleiner reizender blonder Europäer …
 Als er zum erstenmal gebadet wurde, ereignete sich etwas
 sehr Beunruhigendes: meine Frau fiel plötzlich in Ohnmacht!
@@ -1034,7 +1034,7 @@ Umsonst …! Das Ding wog Zentner …
 
 »Nein — so wird das nichts, mein Alter,« sagte Harst
 jetzt mißmutig. »Die Sache muß anders angepackt
-Werden …!«
+werden …!«
 
 Und er wandte sich um und musterte den Pfad …
 
@@ -1076,7 +1076,7 @@ zum Vorschein … —
 
 Ich möchte hier nun bereits eine technische Bemerkung
 einflechten, damit ich sie später nicht etwa an störender Stelle
-bringen müßte. — Daß die Inder früheren Zeiten sehr
+bringen müßte. — Daß die Inder früherer Zeiten sehr
 geniale Leute waren, beweisen ihre Riesenpaläste, ihre
 Bewässerungsanlagen, ihre Kanäle, Springbrunnen und
 sonstigen Wasserkünste.
@@ -1248,7 +1248,7 @@ nur noch lose an einigen Mörtelstücken … — Ich sagte:
 
 »Du meinst, daß wir …«
 
-»… Wir hier eine Stelle gefunden gaben, wo wir
+»… wir hier eine Stelle gefunden haben, wo wir
 unschwer einen Einsturz der Decke und der sie drückenden
 Erdmassen herbeiführen können … — Ich werde Dir auf
 die Schultern steigen, mein Alter … Tritt mehr zurück …
@@ -1304,7 +1304,7 @@ indem er nur immer die Pistole im Auge behielt:
 
 »Aha, Angst!! Mit der Reue wird es wohl nicht so arg
 sein …! Ich kenne Euch Gelben …! — Also nun erzähle
-mal … Wenn Du lügst, schieße im Dir ein drittes Auge
+mal … Wenn Du lügst, schieße ich Dir ein drittes Auge
 in den Kopf … — Weißt Du, wer wir sind?«
 
 »Nein, Mister … Wohl amerikanische Detektive sein …«
@@ -1444,12 +1444,12 @@ Mansur-Chatta betätigt hat … betätigt, mein Alter! —
 Komm’ jetzt … der Fall »Wachspuppe« ist reif …«
 
 Aus der Küche in einen langen Flur mit vier Türen …
-Geradeaus ging es in den Laden. Der die Vorhang ließ
+Geradeaus ging es in den Laden. Der dicke Vorhang ließ
 uns geräuschlos durch.
 
 Mawesa saß auf der Schwelle im Schatten des Sonnensegels
 … Vornübergebeugt … Die Ellbogen auf die
-Schenkel gestützt … Dem Turban hatte er ganz tief
+Schenkel gestützt … Den Turban hatte er ganz tief
 über den Kopf gezogen … Vielleicht um die Stirnwunde
 zu verdecken.
 
@@ -1464,7 +1464,7 @@ Mitte des Ladens flog.
 
 »Herr Geldern,« sagte Harst und ließ den Trödler los,
 »Sie dürften uns einiges erklären müssen … Holen Sie
-die Wachs Puppe herein. Versuchen Sie aber nicht zu
+die Wachspuppe herein. Versuchen Sie aber nicht zu
 fliehen …«
 
 Der Alte saß noch auf den Steinfliesen — zusammengekrümmt
@@ -1489,7 +1489,7 @@ Fliesen …
 
 »Herr Harst, ich möchte Ihnen …«
 
-»Später, Herr Geldern …! Jetzt möchte ich ich erfahren,
+»Später, Herr Geldern …! Jetzt möchte *ich* erfahren,
 woher Sie diese lebensgroße Wachspuppe haben …«
 
 Ein halb irres Lächeln … »Ich … ich kaufte sie von
@@ -1523,7 +1523,7 @@ Der Kapitän nickte …
 
 »Es … es war eine Mumie, Herr Harst …«
 
-»So eine Mumie?! Aber eine aus neuester Zeit,
+»So — eine Mumie?! Aber eine aus neuester Zeit,
 jüngsten Datums?«
 
 »Ja … Eine Tote aus dem sogenannten Höhlenfriedhof

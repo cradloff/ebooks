@@ -27,7 +27,7 @@ gibt zu denken … — Übrigens — hier, schau’ Dir das
 goldene Kettchen mal an, mein Alter. Du siehst noch Spuren
 von Ton daran … Es war mit feuchtem Ton einst im
 Innern der Vase am Boden festgeklebt worden. Hier ist
-der Name Fatima aus der Rückseite des Anhängers eingraviert
+der Name Fatima auf der Rückseite des Anhängers eingraviert
 … Nehmen wir an, daß die beiden Töchter des
 Ehepaares Mansur damals nicht gestorben, sondern von
 ihrem Großvater Geldern irgendwie noch lebend irgendwo
@@ -245,7 +245,7 @@ Jetzt antwortete Mansur …
 
 »Nein, Mr. Harst … Auf Annas Wunsch setzten wir
 die lieben Toten in einer Grabkammer des Höhlenfriedhofs
-von Kantara, bei, wo die Leichen bekanntlich infolge der
+von Kantara bei, wo die Leichen bekanntlich infolge der
 trockenen Luft nicht verwesen, sondern zu Mumien werden.«
 
 »Wer behandelte Ihre Kinder während der Krankheit?«
@@ -285,7 +285,7 @@ zu Ende ging …«
 
 »Lebt Tagaro noch hier?«
 
-»Nein … Er ertrank vor einem Jahr im Mufi …«
+»Nein … Er ertrank vor einem Jahr im Musi …«
 
 »Schade …! — Weshalb stand Tagaro nicht im besten
 Rufe?«
@@ -387,7 +387,7 @@ jetzt nur noch als Ruinenfeld vorhandenen Residenz
 der mächtigen Könige aus der Dynastie Bardur-Schafir ist
 zu beiden Seiten von den villenartigen Häusern reicher
 Inder umsäumt. Nur dort, wo der Nebenfluß des
-Mufi kilometerbreite Sümpfe bildet, zeigt Indien sein
+Musi kilometerbreite Sümpfe bildet, zeigt Indien sein
 wahres Gesicht: dicht neben Europas Kulturerzeugnissen,
 elektrischem Licht, Straßenbahn und Antennenmasten, eine
 Wildnis, durch die ein aufgeschütteter Damm führt — eine
@@ -410,7 +410,7 @@ Harst winkte, rief.
 
 Mansur stoppte …
 
-Nun es mußte jetzt auf den Rücksitzen Platz nehmen.
+Nun mußten beide<@refnote 2/> auf den Rücksitzen Platz nehmen.
 Wir beide gehörten nach vorn. Harst spielte Schofför.
 
 Vorüber ging’s an dem uralten Fort von Golkonda,
@@ -430,7 +430,7 @@ Und nun in langsamem Tempo den Bergen zu …
 Auf miserabler Straße …
 
 Bis vor uns aus den bewaldeten Höhenzügen sich ein
-vereinzelter kahler Berg aus dunklen Gestein hervorschob:
+vereinzelter kahler Berg aus dunklem Gestein hervorschob:
 der Kantara!
 
 <@pagebreak/>
@@ -479,7 +479,7 @@ der Macht, diesen unseligen Vater, der aus blindem Haß so
 Ungeheuerliches ersann, nötigenfalls durch Drohungen für
 <@pagebreak/>
 immer aus dem Gesichtskreis Frau Annas zu verscheuchen.
-Geldern gilt ja für tot. Gut — er soll tot sein!«. Und
+Geldern gilt ja für tot. Gut — er soll tot sein!« Und
 das sprach er mit solcher Energie aus, daß ich nur vermuten
 konnte, er wußte schon, wo und wie wir den alten Kapitän
 stellen könnten.
@@ -504,7 +504,7 @@ Land schauten — harmlos, weil ganz veraltete Bronzegeschütze
 Und als weitere Umrahmung dieses Bildes tropische
 Wälder, sauber bebaute Felder, die in allen Farben prangten,
 und wie ein glänzender Silberstrich quer durch all dies den
-Blick Labende der Fluß Mufi mit seinen ruhigen Fluten …
+Blick Labende der Fluß Musi mit seinen ruhigen Fluten …
 
 Hinter mir schon Harsts Stimme:
 
@@ -549,7 +549,7 @@ Wenn ich meine eingeschaltete Taschenlampe dicht an
 die eingelassene Fensterscheibe hielt, konnte ich die Toten
 deutlich sehen. Bei den meisten (sie lagen alle auf flachen
 Gestellen, die mit schwarzem Stoff bespannt waren) war das
-Gesicht mit einem seinen Seidentuche bedeckt. Wo dies nicht
+Gesicht mit einem feinen Seidentuche bedeckt. Wo dies nicht
 der Fall, erkannte ich eingetrocknete Mumienzüge.
 
 Die Luft in diesen Gängen war erfüllt mit zarten Gerüchten
@@ -692,7 +692,7 @@ Sie suchte meinen Blick …
 
 Angst in den Augen, fast Grauen …
 
-Ich sollten trösten … Und war selbst benommen …
+Ich sollte trösten … Und war selbst benommen …
 
 Hörte noch immer dieses satanische Hohngelächter …
 Sah Mansurs verstörtes Gesicht … Und was an Gedanken
@@ -968,7 +968,7 @@ Dunkelheit …
 
 Ich falle … falle …
 
-In die Strudel dort unten … in den Abgrund, ins
+In die Strudel dort unten … in den Abgrund, wo
 die Wasser toben …
 
 <h2>4. Kapitel.</h2>
@@ -1022,7 +1022,7 @@ die mir gleichfalls Ruhe gab …
 Ich tat, wie er es angeordnet hatte. Mein aus einem
 vier Meter langen hellen Leinenstoff gewickelter Turban
 wurde unsere endgültige Rettung. Ich knotete das eine
-Erde an den Haken …
+Ende an den Haken …
 
 Verständigte Harst, daß es geschehen …
 
@@ -1214,10 +1214,10 @@ meine Bedienung. Das Mädchen kochte für uns. Es
 war eine Inderin von so heller Hautfarbe, daß man sie für
 eine Europäerin hätte halten können. Ich verliebte mich
 in ihre sanfte Schönheit, und in Madras ließen wir uns dann
-in alter Stille ehelich verbinden. Sie besaß keinerlei Papiere.
+in aller Stille ehelich verbinden. Sie besaß keinerlei Papiere.
 Der alte Inder behauptete, Naida sei ein Findelkind.«
 
-»Wie heißt denn Inder?«
+»Wie heißt der Inder?«
 
 »Er hieß Sagi Dau … Er ist vor sechs Wochen
 gestorben … sein Freund sorgte für seine Beisetzung in dem
@@ -1251,7 +1251,7 @@ Robbsam, können Sie mir sagen, ob Mawesa, der Trödler,
 den ganzen Tag auf der Schwelle seines Ladens hockte und
 Kauflustige erwartete?«
 
-»Nein — inzwischen habe im mich über Mawesas
+»Nein — inzwischen habe ich mich über Mawesas
 Lebenswandel informiert. Jeden Tag um elf Uhr vormittags
 übernahm der Chinese Tsundsi die Aufsicht über den
 Laden, und Mawesa ließ sich nicht mehr blicken … Erst
