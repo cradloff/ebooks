@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">f874cf97-e9c1-4108-b274-29f796bccbcb</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Wachspuppe des Trödlers</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">139</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Wachspuppe des Trödlers
+
+… Als wir damals an jenem glutheißen Vormittag durch die Basarstraßen von Haidarabad, Residenz des Fürsten des gleichnamigen indischen Vasallenstaates, wanderten, ahnten wir beide nicht, daß dieser Spaziergang für uns unabsehbare Folgen haben würde.
+
+Eine Depesche eines der hiesigen Großkaufleute, der den poetischen Namen Ali Akba Mansur-Chatta führte, hatte uns hierher gerufen. Wir waren spät abends mit dem Zuge von Madras eingetroffen, hatten im Hotel d’Angleterre gut geschlafen und wollten uns jetzt den interessantesten Teil von Haidarabad, die Basare, ansehen, bevor wir Mansur-Chatta unsere Aufwartung machten.
+
+Harald Harst bog jetzt in ein ganz schmales Gäßchen ein. Er befindet sich ja zumeist auf der Jagd nach Raritäten, und diese trifft man gewöhnlich nur in kleineren Läden an, falls man sich eben nicht einen tadellos imitierten Gegenstand »made in Germany« anschmieren lassen will.
+
+Da sagte Harst in gänzlich verändertem Tone:
+
+»Sieh nur, mein Alter … Da lehnt neben der Ladentür eines Trödlers eine Wachspuppe im Kostüm einer Pierrette …! Das ist eigentlich ulkig …! Das Ding stammt doch sicher aus einem europäischen Wachsfigurenkabinett …«
+
+Der Höhlenfriedhof von Kantara
+
+Ich richtete das schwere Holzgestell wieder auf. Wir standen inmitten von Scherben und allen möglichen Dingen. Kapitän Geldern hatte es mit seiner Flucht sehr schlau angefangen. Ihn sofort zu verfolgen, wäre zwecklos gewesen …
+
+Harst ging zur Ladentür und verschloß sie. Durch das Fenster — es war winzig — drang nur wenig Licht herein.
+
+»Nun werden wir uns hier im Hause erst einmal genauer umsehen,« meinte Harald. »Ich kann mir nicht recht denken, daß Geldern nur diese eine Rolle als Mawesa hier in Haidarabad gespielt hat …«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (139) Die Wachspuppe des Trödlers.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1925</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
