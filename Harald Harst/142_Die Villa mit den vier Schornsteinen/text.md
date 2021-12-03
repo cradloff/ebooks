@@ -5,10 +5,10 @@ Die Villa mit den vier Schornsteinen
 <h2>1. Kapitel.</h2>
 <h3>Was Fritz Nachschlüssel erzählte …</h3>
 
-Im Zollhafen von Kalkutta fand eine Schiffsversieige-
-rung statt. Am Bollwerk des Zollbassins lag eine malaiische
+Im Zollhafen von Kalkutta fand eine Schiffsversteigerung
+statt. Am Bollwerk des Zollbassins lag eine malaiische
 Prau vertäut, die man beim Schmuggeln erwischt hatte. Da
-die Besatzung und der Kapitän noch mancherlei anderes aus
+die Besatzung und der Kapitän noch mancherlei anderes auf
 dem Kerbholz hatten, wurde die Prau, ein plumper Zweimaster
 mit eingebautem Hilfsmotor, öffentlich versteigert.
 
@@ -21,7 +21,7 @@ Der Auktionator fragte den Herrn nach Namen, Wohnort
 und dergleichen …
 
 »Harald Harst, Berlin, zur Zeit King-Edward-Hotel,
-Kalkutta,« erklärte der schlanke mit dem scharsgeschrittenen
+Kalkutta,« erklärte der schlanke mit dem scharfgeschnittenen
 Gesicht. »Beruf Privatdetektiv … Ich will die Prau zu
 einer Vergnügungsreise nach den großen Sunda-Inseln
 erwerben. Ich bitte, die Schiffspapiere auf den Namen
@@ -31,13 +31,13 @@ wohne in Berlin-Schmargendorf in der Blücherstraße Nr. 10
 
 Er bezahlte den sehr mäßigen Versteigerungspreis,
 <@pagebreak/>
-witerschrieb ein paar Papiere und entfernte sich mit seinen
+unterschrieb ein paar Papiere und entfernte sich mit seinen
 Freunden.
 
 Diese Freunde waren der ehemalige Steuermann Fritz
 Dietrich, jetzt Angestellter der Tierfirma Hagenbeck, und ein
 zweiter Detektiv von behaglicher Leibesfülle und mit etwas
-feistem Gesicht, kleiner Nase, auf der eine Hornbrille
+feistem Gesicht, mit kleiner Nase, auf der eine Hornbrille
 saß, und einem vergnügten Schmunzeln um den ebenfalls
 etwas »verbauten« Mund … Der Mund hätte kleiner sein
 können, die Nase größer …
@@ -45,28 +45,28 @@ können, die Nase größer …
 Und dieser gutgenährte Max Schraut, also ich, Schreiber
 dieser unserer Erinnerungen, sagte nun:
 
-»Rein geschenkt haben wir der Blücher bekommen …
+»Rein geschenkt haben wir den Blücher bekommen …!
 — Was meinen Sie dazu, lieber Dietrich?«
 
 »Die Prau ist gut … Ein tipp toppes Geschäft …
-Gratuliere, Herr Harst …
+Gratuliere, Herr Harst …«
 
-Harald nickte den. »Hoffentlich verläuft das, was
+Harald nickte zufrieden. »Hoffentlich verläuft das, was
 wir mit dem Blücher vorhaben, ebenso tipp topp … —
 Sie werden jetzt also die nötige Besatzung besorgen, Dietrich,
-werden das Schiff für drei Wochen verproviant’cren,
+werden das Schiff für drei Wochen verproviantieren,
 und — wie lange brauchen Sie dazu?«
 
-»Zwei, Tage … Ich bin hier in Kalkutta gut Wo
-dann — —
+»Zwei, Tage … Ich bin hier in Kalkutta gut bekannt
+…« — —
 
 Zwei Tage später schwamm der Blücher auf den langen
 Wogen des Meerbusens von Bengalen.
 
 Wir waren jetzt zu zwölf an Bord: drei Europäer und
-wenn Singhalesen, bescheidene Kerle, die Dietrich absichtlich
+neun Singhalesen, bescheidene Kerle, die Dietrich absichtlich
 ausgewählt, weil die Singhalesen von der Insel Ceylon
-ehrlich, fleißig und zuverlässig sind. Die Malaiien sind bessere
+ehrlich, fleißig und zuverlässig sind. Die Malaien sind bessere
 Seeleute, aber ihnen ist nie recht zu trauen.
 
 Um noch ein paar Angaben Über die Prau zu machen:
@@ -80,26 +80,26 @@ Es waren wundervolle Tage, diese Fahrt zur Südwestküste
 Sumatras, der zweitgrößten der Sunda-Inseln …
 
 Es war eine angenehme Fortsetzung des weniger angenehmen
-Erlebnisses in Kalkutta, das ich ich 1 vorigen Band
-habe dem Titel »Der Maskenball der Toten« geschildert
+Erlebnisses in Kalkutta, das ich im vorigen Band
+unter dem Titel »Der Maskenball der Toten« geschildert
 habe …
 
 Der Leser kennt dies Abenteuer. Er weiß, daß wir in
-einer der Btglammern der Prau mit einem Tiger und einem
+einer der Bugkammern der Prau mit einem Tiger und einem
 in einen Kasten eingesperrten Manne Bekanntschaft gemacht
 hatten. Dieser Mann war Fritz Dietrich … jetzt Kapitän
 des Blücher …
 
 Am dritten Tage nach unserer Abreise von Kalkutta
-saßen wir abends auf dem Achterdeck unter dem Sonfnen-egel
-und lauschen den melancholischen gegangen unserer
+saßen wir abends auf dem Achterdeck unter dem Sonnensegel
+und lauschten den melancholischen Gesängen unserer
 Singhalesen, hörten dazu den Motor gleichsam den Takt
 schlagen und befanden uns in jener träumerischen Stimmung,
 die wohl jeden nach einer guten Mahlzeit bei völliger
-Sorgenfreiheit und beim. leisen Wiegen eines? dahingleitenden
+Sorgenfreiheit und beim leisen Wiegen eines dahingleitenden
 Schiffes überkommt …
 
-»Eigentlich könnten Sie uns Ihr Urwatlbverlehni8 jetzt
+»Eigentlich könnten Sie uns Ihr Urwalderlebnis jetzt
 nochmals erzählen, lieber Fritz Nachschlüssel,« sagte Harald
 Und streute die Asche seiner Mirakulum über Bord.
 
@@ -108,103 +108,103 @@ frischen, jungen Kapitän Dietrich stets Nachschlüssel,
 denn ein Dietrich — das ist ja ein Nachschlüssel …
 
 Und Harald fügte hinzu: »Ihr damaliges Abenteuer
-paßt mit seinen geheimnisvollen Begleitumständen sehr Du
+paßt mit seinen geheimnisvollen Begleitumständen sehr gut
 in unsere jetzige Stimmung hinein … Wenn man satt
 und müde ist, regt einen so leicht nichts auf …«
 
 Dietrich rauchte seine kurze Pfeife wie immer …
 
 »Nun — wenn’s sein muß,« meinte er … »Vielleicht
-fällt mir ah noch dabei diese oder jene Einzetkheit. ein, Herr
+fällt mir auch noch dabei diese oder jene Einzelheit ein, Herr
 Harst. — Es sind nun etwa zwei Wochen her … Da lag
 der Schoner, der von uns für Hagenbeck gemietet war, an
-der Südwestküste Sumatras, die sehr fertig und sehr buchten-rei)
+der Südwestküste Sumatras, die sehr felsig und sehr buchtenreich
 ist, in einer tief ins Land einschneidenden Bucht. Wir
 hatten mit Erlaubnis der holländischen Kolonialregierung
 <@pagebreak/>
 — Sumatra ist ja niederländischer Besitz — dort in dem
-völlig menschenarmen Landstrich allerlei Getier gegangen:
+völlig menschenarmen Landstrich allerlei Getier gefangen:
 Affen, zwei schwarze Panther, einen Tiger, Schlangen, —
 kurz, eine ganze Menagerie. Eines Nachts wurden wir drei
 Kollegen — sonst waren nur Malaien an Bord — durch die
-Wache jene?!, Der Mann behauptete, er habe am nahen
+Wache geweckt. Der Mann behauptete, er habe am nahen
 Ufer eine weißgekleidete Europäerin gesehen,
 
-Es war Vollmond. Als wir in unseren Sclasanzügen
+Es war Vollmond. Als wir in unseren Schlafanzügen
 an Deck eilten, war von einer Frau nichts mehr zu bemerken.
 Wir schnauzten den Malaien an, weil er sich durch irgend
-Chinas hatte Narren lassen, und krochen: wieder unter die
-MoStitonete.
+etwas hatte Narren lassen, und krochen wieder unter die
+Moskitonetze.
 
-Vormittags dann nahm Schenkel benutzte mich bei
+Vormittags dann nahm derselbe Malaie mich bei
 Seite … Ich habe die Farbigen stets anständig behandelt,
-und sie hatten zu mir das meiste Vertrauen, — »Mister Diet-rich’,
+und sie hatten zu mir das meiste Vertrauen, — »Mister Dietrich«,
 sagte der Malaie in seinem fürchterlichen Kauderwelsch,
-gestern war doch ein Trupp Orang-Kubu hier an
-der Bucht … ’ — Und er tauchte zum Zeichen
+»gestern war doch ein Trupp Orang-Kubu hier an
+der Bucht …« — Und er spuckte zum Zeichen
 der Verachtung aus, denn die Orang-Kubu werden
 von den Malaien kaum als Menschen angesehen,
-stehen. ja auch noch auf niederster Kulturstufe und führen
-in den Urwäldern ein Hauses Nomadenleben. »Einer der
-Orang-Kubu, dem ich etwas Tabak für. ein Stück Quarzgold
+stehen ja auch noch auf niederster Kulturstufe und führen
+in den Urwäldern ein faules Nomadenleben. »Einer der
+Orang-Kubu, dem ich etwas Tabak für ein Stück Quarzgold
 gab, erzählte mir, Mister Dietrich, daß drüben nach Norden
 zu, mitten im Walde ein großes Haus stehe, in dem Europäer
 wohnten … Also kann die weiße Frau, die ich nachts sah,
-zu diesen Europäern gehören’
+zu diesen Europäern gehören.«
 
 So sprach der Malaie, und ich lachte ihn aus, denn es
 erschien mir einfach unmöglich, daß hier, wo auf mindestens
 sechzig Meilen im Umkreis kaum ein Malaiendorf zu finden
-war, Europäer hausen sollten. -
+war, Europäer hausen sollten.
 
 Aber der Malaie schwor Stein und Bein, daß der
 Orang-Kubu ihn gewiß nicht belogen habe. Der Kubu
-habe das Haus ganz genau beschrieben … ’6s sei aus getrockneten
+habe das Haus ganz genau beschrieben … Es sei aus getrockneten
 Tonziegeln erbaut, habe Fenster, Türen, — kurz:
-ab dies machte mich stutzig, und ohne meinen beiden Kollegen
+all dies machte mich stutzig, und ohne meinen beiden Kollegen
 <@pagebreak/>
 etwas von meiner Absicht mitzuteilen, nahm ich meine
-Büchse, etwas Proviant und ein Busch’nesser und machte
+Büchse, etwas Proviant und ein Buschmesser und machte
 mich auf den Weg — angeblich zur Jagd …
 
-In die Bucht mündet ein von YJ’orven kummendes
+In die Bucht mündet ein von Norden kommendes
 Flüßchen. Bei unseren mannigfachen Streifzügen hatten wir
-die nördlichen Teile der Urwälder wegen ihres Piraten
+die nördlichen Teile der Urwälder wegen ihres dichten
 Unterholzes und wegen der zahllosen steilen Schluchten bisher
 gemieden,
 
-I9 watete jetzt in dem Flüßchen vorwärts und erforschte
+Ich watete jetzt in dem Flüßchen vorwärts und erforschte
 nach etwa einer Stunde eine große Lichtung, an
 deren Nordseite sich der Wasserlauf hinschlängelte,
 während an der Südseite hinter einer Kulisse von Palmen
-und Pflanze die Umrisse eines Gebäudes zu erkennen waren,
+und Pisangs<@refnote 1/> die Umrisse eines Gebäudes zu erkennen waren,
 
-Wein Erstaunen über diese Bestätigung der Angaben
+Mein Erstaunen über diese Bestätigung der Angaben
 des Orang-Kubu war geradezu grenzenlos,
 
 Man stelle sich vor, Herr Harst: mitten im Urwald ein
-er Wohnhaus mit Fenstern, flachem Dach, Schnurriger!
+europäisches Wohnhaus mit Fenstern, flachem Dach, Schornsteinen!
 
-Und dabei sah ich mir noch, mich näher schleichend, daß
-das Gebäude zierlich ausgeführt war und fast die Bezeich-mina
+Und dabei sah ich nun noch, mich näher schleichend, daß
+das Gebäude zierlich ausgeführt war und fast die Bezeichnung
 Villa verdiente …
 
 Meine Neugier, meine Abenteuerlust, die hier sozusagen
 den höchsten Grad erreicht hatten, ließen mich jeden Gedanken
 an Gefahr und unbekannte Schrecknisse vergessen. Trotzdem
 blieb ich vorsichtig. mit der gespannten Repetierbüchse im
-Arm kroch ich vor: näher an das Haus heran.
+Arm kroch ich noch näher an das Haus heran.
 
 Jetzt konnte ich Einzelheiten unterscheiden. Die Fenster
 des Erdgeschosses waren durch plumpe Holzläden geschützt.
 Über dem Eingang, zu dem fünf Stufen emporführten, war
 ein Balkon mit Holzgeländer angebracht. Auf diesem Balkon
-schlich ein scmvarzer Panther, der ein Halsband mit einer
-können Kette trug, unruhig hin und her, Die Balkotn-tür
+schlich ein schwarzer Panther, der ein Halsband mit einer
+dünnen Kette trug, unruhig hin und her. Die Balkontür
 stand halb offen,
 
 Nachdem ich so die Vorderfront wohl eine halbe Stunde
-kann beobachtet hatte, ohne eine Menschenseele gewahr zu
+lang beobachtet hatte, ohne eine Menschenseele gewahr zu
 <@pagebreak/>
 werden, kroch ich in den Büschen nach der Rückseite der Urwaldvilla.
 
@@ -214,78 +214,81 @@ zu jaulen.
 Ich hielt mich deshalb auch an der Rückfront nicht lange
 auf, vielleicht drei oder vier Minuten. Wie ich dann äußerst
 vorsichtig mich entfernen wollte, sauste plötzlich irgend etwas
-dicht. neben mir in die Sträucher. Es war ein Rohrpfeil
-mit Eisenspitze. Und die Spie war mit einer bräunlichen
-satanischen Masse überzogen: Pfeilgift!
+dicht neben mir in die Sträucher. Es war ein Rohrpfeil
+mit Eisenspitze. Und die Spitze war mit einer bräunlichen
+lackartigen Masse überzogen: Pfeilgift!
 
-Derartige Pfeile berühren, wie mir bekannt war, die
-Orang-fuhr …
+Derartige Pfeile benutzen, wie mir bekannt war, die
+Orang-Kubu …
 
-je machte nun, daß ich schiemnigast aus der Nähe des
-Hauses wegkam, denn der Pfeil konnte mir von dort auf
-mich abgeschossen zweiten sein — vielleicht aus einer Spalte
+Ich machte nun, daß ich schleunigst aus der Nähe des
+Hauses wegkam, denn der Pfeil konnte nur von dort auf
+mich abgeschossen worden sein — vielleicht aus einer Spalte
 der Fensterläden heraus.
 
-5\. ich den Waldjaum erreicht hatte, schaute im nochMmnials
-zurüä&.
+Als ich den Waldsaum erreicht hatte, schaute ich nochmals
+zurück.
 
 Und da war es mir, als ob hinter dem dicksten der
-vier Schornsteine der Urwaldvilla eine helle Gestalt der««
-schwand. Es kann ein weißgekicidete8 Weib gewesen sein,
-aber ebenso gut auch ein Mann in! weißen Leinenanzug.
+vier Schornsteine der Urwaldvilla eine helle Gestalt verschwand.
+Es kann ein weißgekleidetes Weib gewesen sein,
+aber ebenso gut auch ein Mann im weißen Leinenanzug.
 
-Während ich nun beim Flüßchen wieder zustrebte, wobei
-ich sehr oft das Buschmesser deuten mußte, um mir einen
-Weg durch Los Schlingpslanzengewirr zu Bahnen, glaubte
+Während ich nun dem Flüßchen wieder zustrebte, wobei
+ich sehr oft das Buschmesser benutzen mußte, um mir einen
+Weg durch das Schlingpflanzengewirr zu bahnen, glaubte
+ich nach einiger Zeit zuweilen neben mir im Dickicht einen
+Menschen zu bemerken, der jedoch stets wieder verschwand,
+wenn ich angestrengt hinstarrte. Diese Person, die ich nie
 deutlich zu Gesicht bekam, mußte einen Anzug tragen, der
-gewann in der Farbe zum Grün des Dickichts paßte.
+genau in der Farbe zum Grün des Dickichts paßte.
 
-Ein neuer Giftpfeil, der neben mir in einen Baum sacht,
+Ein neuer Giftpfeil, der neben mir in einen Baum fuhr,
 belehrte mich bald, daß es hier um mein Leben ging. Unter
-diesen Umständen tat ich als klctiergeübter Seemann das
+diesen Umständen tat ich als klettergeübter Seemann das
 Klügste: ich schwang mich rasch auf einen Baum, erklomm
-dann einen vielen Stamm und tauchte so in den Dialekt
-Patronen völlig unter.
+dann einen dickeren Stamm und tauchte so in den Blattkronen
+völlig unter.
 <@pagebreak/>
-Jüiunerhin zwang mich dieser Weg durch die Baumwipfel
-zu weiten und beschwerlichen Richtnungsänvd«: Lungen,
-so daß ich erst nach Stunden das Flüßchen her mir
+Immerhin zwang mich dieser Weg durch die Baumwipfel
+zu weiten und beschwerlichen Richtungsänderungen,
+so daß ich erst nach Stunden das Flüßchen hinter mir
 blinken sah.
 
 Um nicht noch jetzt einem heimtückischen Pfeile zum
-Opfer zu sollen, wartete ich eine weitere Stunde und musterte
+Opfer zu fallen, wartete ich eine weitere Stunde und musterte
 dauernd das Buschwerk. Dann erst machte ich mich hinab
-und kam auf diese Weise erst nach Danke!werden bei der Bucht
-an, sah den Schoner noch wie bisher vor Master liegen, pfiff
+und kam auf diese Weise erst nach Dunkelwerden bei der Bucht
+an, sah den Schoner noch wie bisher vor Anker liegen, pfiff
 ein Boot herbei und ließ mich an Bord bringen.
 
-Meine Kameraden schliefen schon. In derselben Furcht
+Meine Kameraden schliefen schon. In derselben Nacht
 überfiel uns dann die Prau, der jetzige Blücher. Die Matrosen
 nahmen mich gefangen und schleppten mich mit fort.
 Die beiden anderen Deutschen entkamen an Land. Was
 aus ihnen und dem Schoner geworden ist, weiß ich nicht. —
 
 So, Herr Harst, nun habe ich Ihnen nochmals alles berichtet
-… Nun will ich; Ihnen auch nochmals danken, weil
+… Nun will ich Ihnen auch nochmals danken, weil
 Sie so bereitwilligst mir Gelegenheit geben, nach meinen
 Kameraden zu suchen … Ich bin der Firma Hagenbeck
 gegenüber verpflichtet, alles zu tun, was in meinen Kräften
 steht, den Schoner mit seiner wertvollen Ladung zurückzugewinnen.
-N«+ Viereck aber muß ich meinen beiden Lords
-Piraten, Dir vielleicht irgendwo von Malaien gefangen Geck
-halten weiden, unbedingt Hilfe bringen …«
+Als Mensch aber muß ich meinen beiden Landsleuten,
+die vielleicht irgendwo von Malaien gefangen gehalten
+werden, unbedingt Hilfe bringen …«
 
 <h2>2. Kapitel.</h2>
-<h3>vor der Geheiimtlkte.</h3>
+<h3>Vor der Geheimtür.</h3>
 
 Das war’s, was Fritz Dietrich erzählte …
 
-Wir kann.;en tags alles schon …
+Wir kannten das alles schon …
 
-Nein — doch nicht alles … So hatte er bisher zu er
-wähnen vergessen, daß der Pfeilschüsse im Dickicht einen
-Narr Mr:Zug getragen haben müsse. Mithin konnte dies
-ein Orang-Kubu genossen sein.
+Nein — doch nicht alles … So hatte er bisher zu erwähnen
+vergessen, daß der Pfeilschütze im Dickicht einen
+grünen Anzug getragen haben müsse. Mithin konnte dies
+kein Orang-Kubu gewesen sein.
 
 <@pagebreak/>
 Der Gesang unserer Singhalesen war schon vor einer
@@ -295,7 +298,7 @@ Jetzt erhob sich plötzlich auf dem Vorderdeck Lärm …
 ein so wilder Lärm, daß wir aufsprangen und hinliefen.
 
 Salaru, unser baumlanger brauner Steuermann, hatte
-einen Menschen am Kragen und zäüttelte ihn d derb …
+einen Menschen am Kragen und schüttelte ihn derb …
 
 Ringsum standen die anderen Matrosen …
 
@@ -317,11 +320,11 @@ in die sogenannte Kapitänskajüte …
 Salaru, der Steuermann, zündete flink die Hängelampe
 an …
 
-Der kleine braune Strolch Eiland mit gesenktem Kopf vor
+Der kleine braune Strolch stand mit gesenktem Kopf vor
 dem Tische, an dem wir drei Platz genommen hatten. Das
 Verhör sollte beginnen.
 
-»»Durchsuche seine Taschen,« befahl Harst dem riesigen
+»Durchsuche seine Taschen,« befahl Harst dem riesigen
 Singhalesen.
 
 Der Kleine, der unserem Salaru kaum bis an die Rippen
@@ -332,64 +335,64 @@ Merkwürdige Dinge kamen da zum Vorschein …
 Erstens: eine Repetierpistole und zwei Schachteln Patronen,
 ein starkes Klappmesser, eine vernickelte Taschenlampe
 modernster Art, eine Brieftasche, die ungefähr 300
-Pfund Sterling enthielt (sonst nichts!), seiner ein goldener
+Pfund Sterling enthielt (sonst nichts!), ferner ein goldener
 Zahnstocher, eine Nagelfeile und … ein blauseidenes
 Taschentuch, das nach Parfüm duftete.
 
-Fürwahr: dieser kleine Kerl mit dem bartlosen dunkelbrauner
+Fürwahr: dieser kleine Kerl mit dem bartlosen dunkelbraunen
 <@pagebreak/>
-Gesicht und dem schhmilerigen Turban war gut ausgestattet!
+Gesicht und dem schmierigen Turban war gut ausgestattet!
 
 »Wer bist Du?« fragte Harald …
 
 Schweigen …
 
-Technik. hast Du Dich an Bord geschlichen?«
+»Weshalb hast Du Dich an Bord geschlichen?«
 
-Schweige …
+Schweigen …
 
-»Mister »Harst, ein Tauende wird ihn gesprächig
+»Mister Harst, ein Tauende wird ihn gesprächig
 machen …!!«
 
 Harst lächelte und meinte:
 
-»Man kann derartige körperliche Veberredungsmittel in
-diesem Falle nicht gut anwenden, Der Mann ist ein
+»Man kann derartige körperliche Überredungsmittel in
+diesem Falle nicht gut anwenden. Der Mann ist ein
 verkleideter Europäer … Salaru, Streife ihm das Hemd
-bis zum Bauche hinab … 1«
+bis zum Bauche hinab …!«
 
-Das war. »nicht mehr nötig …
+Das war nicht mehr nötig …
 
 Der Mensch begann zu reden — wie ein Wasserfall —
-tadelloses. Englisch …
+tadelloses Englisch …
 
 »Mister Harst, entschuldigen Sie mein unerlaubtes Eindringen
 in die Prau … Mein Name ist James Lollerby
 … Ich bin Angestellter der India-Bank in Kalkutta …
-Stein Beruf widert mich an. Der. Kontorschemel ist für
-mich eine wunderbar?! … Als ich in den Bestürzten las,
+Mein Beruf widert mich an. Der Kontorschemel ist für
+mich eine Marterbank … Als ich in den Zeitungen las,
 wie Sie den Mörder Doktor Wallace entlarvt haben, den
-dann der. Tiger zerriß, da packte mich die unwiderstehliche
-Sehnsucht, einmal mit Ihnen auf Abenteuer auszuziehen
-Ich hörte,daß Sie die Prau gekauft hatten, ich nahm Urlaub,
+dann der Tiger zerriß, da packte mich die unwiderstehliche
+Sehnsucht, einmal mit Ihnen auf Abenteuer auszuziehen …
+Ich hörte, daß Sie die Prau gekauft hatten, ich nahm Urlaub,
 steckte meine Ersparnisse zu mir und schlich mich hier
 an Bord, versehen mit Lebensmitteln für drei Tage …«
 
-»Genug … 1« ’unterbroh Harald ihn. »Ich verzeihe
-Ihnen, Mr. Lollerby. Hoffentlich haben Sie auch A1.3-
+»Genug …!« unterbrach Harald ihn. »Ich verzeihe
+Ihnen, Mr. Lollerby. Hoffentlich haben Sie auch
 Ausweispapiere bei sich?«
 
-»Natürliche — — natürlich, Mr. Harst …, Sie hätten
-mich sonst womöglich für einen Schwindler gehalten …
+»Natürlich — — natürlich, Mr. Harst … Sie hätten
+mich sonst womöglich für einen Schwindler gehalten …«
 
-Und er riß den Turban vom Kopfs, wickelte ihn auseinander
+Und er riß den Turban vom Kopf, wickelte ihn auseinander
 und reichte Harald zwei Zettel. Es waren Ausweise
-für den Bankbeamten James Wegbleibt, von der Polizei abgestempelt,
+für den Bankbeamten James Lollerby, von der Polizei abgestempelt,
 beide mit Personalbeschreibung …
 
 <@pagebreak/>
 »Nun ist die Sache in Ordnung,« meinte Harald. »Ich
-he Sie willkommen … Wer auf solche Weise ein Abelsen
+heiße Sie willkommen … Wer auf solche Weise ein Abenteuer
 erzwingt, verdient Anerkennung …«
 
 Und er gab ihm lachend die Hand …
@@ -397,49 +400,49 @@ Und er gab ihm lachend die Hand …
 Lollerby strahlte …
 
 Und nach einer halben Stunde saß er in einem meiner
-lanellanzüge, der ihm freilich noch zu groß war, mit am
-Tisch … Die Zigarre Hautfarbe hatten ihm unsere Singhalesen
+Flanellanzüge, der ihm freilich noch zu groß war, mit am
+Tisch … Die braune Hautfarbe hatten ihm unsere Singhalesen
 mit Spiritus abgerieben.
 
-Der kleine Lokllerby entpuppte sich als angenehmster
+Der kleine Lollerby entpuppte sich als angenehmster
 Gefährte. Für seine dreißig Jahre war er noch verblüffend
-Jahr und schwatßhafi, konnte aber unzählige Schnurren vortragen,
+naiv und schwatzhaft, konnte aber unzählige Schnurren vortragen,
 konnte geradezu verblüffende Kartenkunststücke und
-ßberraschte selbst Harst durch seine Fingerfertigkeit.
+überraschte selbst Harst durch seine Fingerfertigkeit.
 
 Gegen elf Uhr gingen wir zu Bett.
 
-Auch der Heckaufbau hatte drei Räume, Die Kajüte lag
-in der Mitte. Links schließen Harald und ich, in der rechten
-Kammer jetzt Dietrich und Lott1uhy.
+Auch der Heckaufbau hatte drei Räume. Die Kajüte lag
+in der Mitte. Links schliefen Harald und ich, in der rechten
+Kammer jetzt Dietrich und Lollerby.
 
-Als wir eine halbe Stunde unter unseren Moskitoneten
-geschwitzt hatten (der Wind da:ich von irgendwoher einen
-nach Legionen zählenden Müconschyovurm ausgerechnet auf
+Als wir eine halbe Stunde unter unseren Moskitonetzen
+geschwitzt hatten (der Wind hatte von irgendwoher einen
+nach Legionen zählenden Mückenschwarm ausgerechnet auf
 unseren Blücher geweht!), hörte ich, daß Harald wieder
-ausstand.
+aufstand.
 
-»Tag gibt’s?« fragte ich slüsivernd …
+»Was gibt’s?« fragte ich flüsternd …
 
 »Gefahr, mein Alter …«
 
 Er war dicht vor meinem Bett …
 
-»tiefer Lollerby ist nicht nur ein Schwindler, sondern
-wahrscheinlich noch etwas weit Schlimmeres … Ja will den
+»Dieser Lollerby ist nicht nur ein Schwindler, sondern
+wahrscheinlich noch etwas weit Schlimmeres … Ich will den
 Ballastraum des Blücher durchsuchen … Komme mit …
 Unsere Schlafanzüge genügen …«
 
-Ganz leise öffnete er die Dir …
+Ganz leise öffnete er die Tür …
 
-Wir traten auf Deck hinaus … Die Wache kam uns rot
-gegen. Harst winkte ab … Der rann wollte offenbar
-werden, daß nichts Neues zu- werden sei.
+Wir traten auf Deck hinaus … Die Wache kam uns entgegen.
+Harst winkte ab … Der Mann wollte offenbar
+melden, daß nichts Neues zu melden sei.
 
-Wir klappten die Luke zwischen den besten Masten hoch
+Wir klappten die Luke zwischen den beiden Masten hoch
 und stiegen mit einer Schiffslaterne die breite Leiter hinunter.
 <@pagebreak/>
-Die Prau war ja völlig für Frachtfahrten eingd-richtet
+Die Prau war ja völlig für Frachtfahrten eingerichtet
 und daher nur Ladedecks vorhanden.
 
 Als wir im Kielraum, wo die Ballastsäcke sauber verstaut
@@ -465,13 +468,13 @@ Ich sah zu — gähnte … gähnte herzhaft …
 Dachte: Zuweilen schießt der gute Harald doch weit
 über das Ziel hinaus!«
 
-weshalb dieser Verdacht gegen den gontorschemelreiter?!
-Da? war doch wirklich ein harmloses Gewächs …!
+weshalb dieser Verdacht gegen den Kontorschemelreiter?!
+Das war doch wirklich ein harmloses Gewächs …!
 
-Und — Eiche da — auf schlagende Art wurde ich nun
+Und — Siehe da — auf schlagende Art wurde ich nun
 jählings eines besseren belehrt …
 
-Harst hatte vor einer, der Zwischenwände der drei
+Harst hatte vor einer der Zwischenwände der drei
 Räume halt gemacht …
 
 Winkte …
@@ -480,63 +483,63 @@ Ich trat näher …
 
 »Mein Alter, man hat den Kopf nicht zu dem Zweck,
 damit die Hutmacher Verdienst haben, und die Augen nicht
-dazu, Brillengläser davor zu Pflanzen … —
-Prau ist wegen Sckmuggeln8 beschlagnahmt worden. Jedes
+dazu, Brillengläser davor zu pflanzen … — Die
+Prau ist wegen Schmuggelns beschlagnahmt worden. Jedes
 Schmugglerschiff hat Verstecke. Diese Wand hier vor uns
 erscheint als einfache Bretterwand — hier am Durchgang
-nach: dem Nebenraum. Nach der Bordwand hin aber verbreitert
-sie sich Rohrförmig. Das heißt: es ist hier ein Hohlraum
+nach dem Nebenraum. Nach der Bordwand hin aber verbreitert
+sie sich keilförmig. Das heißt: es ist hier ein Hohlraum
 vorhanden. Meinem Augenmaß nach hat er eine
-größte Breite von Brei Meter … Suchen wir die Tür …«
+größte Breite von drei Meter … Suchen wir die Tür …«
 
 <@pagebreak/>
-Und - siehe da!! muß ich hier abermals ausfragen! —
+Und — siehe da!! muß ich hier abermals ausrufen! —
 Harst fand diese Tür, wenigstens die Umrisse …
 
 Beleuchtete die Bretter …
 
-Sagte laut: »Sollte sich dort drinnen jemand aushalten,
+Sagte laut: »Sollte sich dort drinnen jemand aufhalten,
 so bitte ich höflichst, zum Vorschein zu kommen …
 
 Diese Worte waren eigentümlich,
 
-Harald lieferte so:der die Eilig uns. für diese ge-schraubte
+Harald lieferte sofort die Erklärung für diese geschraubte
 Ausdrucksweise …
 
-»Nämlich, mein Alter: wenn Du hin vor dieser Bretter-geheimtür
-Deine Nase ausgeheckt, die Luft recht genau zu
-injpizieren, so wirst Du …«
+»Nämlich, mein Alter: wenn Du hier vor dieser Brettergeheimtür
+Deine Nase aufforderst, die Luft recht genau zu
+inspizieren, so wirst Du …«
 
 Da — — ich:
 
-»Donnerwetter — es nichts nach deamnselben Parfüm, wie
-James Lollerby es bei seinem blanseidenen Taschentuch …«
+»Donnerwetter — es riecht nach demselben Parfüm, wie
+James Lollerby es bei seinem blauseidenen Taschentuch …«
 
 Harald:
 
 »Ja — das stimmt! Es war ein Damentüchlein …
-Und vielleicht steckt dort drinnen eine junge Dame, die Gleichklang:
-Luft verspürte, mit uns auf Abenteuer auszuziehen … 1«
+Und vielleicht steckt dort drinnen eine junge Dame, die gleichfalls
+Lust verspürte, mit uns auf Abenteuer auszuziehen …!«
 
 Er klopfte gegen die Tür …
 
 Er hat nie wieder gegen diese Tür geklopft …
 
-Der Hieb, der meinen fallen ahnungslosen Alphabet
+Der Hieb, der meinen kahlen ahnungslosen Schädel
 von hinten traf, hätte einen jungen Ochsen niedergestreckt.
-Ich bin weder jung noch ein Ochse. Aber ich spielte lautlos
-an« wie ein nasse Wöäschestück, das von der Trocdenleine
-…
+Ich bin weder jung noch ein Ochse. Aber ich knickte lautlos
+um wie ein nasses Wäschestück, das von der Trockenleine
+fällt …
 
 Und Harald erging es genau so …
 
 <h2>3. Kapitel.</h2>
-<h3>Der Co hmunglerköiig.</h3>
+<h3>Der Schmugglerkönig.</h3>
 
-Noch einem solchen Hieb mit einem Sandsack führt man,
-falls man nicht gerade !*: die gröhlte der Seligen abgewandert
-ist -.- infolge Gehirnerschütterung! —, nach dem Erwachen
-einiges Unbehagen. Damen gewogen das Migräne »un einer
+Nach einem solchen Hieb mit einem Sandsack fühlt man,
+falls man nicht gerade in die Gefilde der Seligen abgewandert
+ist — infolge Gehirnerschütterung! —, nach dem Erwachen
+einiges Unbehagen. Damen gewogen das Migräne. Zu einer
 <@pagebreak/>
 ordentlichen Migräne gehört auch Erbrechen. Und das trat
 denn auch bei mir ein …
@@ -544,7 +547,7 @@ denn auch bei mir ein …
 Immerhin: ich war wach und lag auf meinem Bett,
 allerdings gefesselt. Ein Malaie mit einem infamen Spitzbubengesicht
 spielte Krankenwärter und hielt mir ein Becken
-Bekannter …
+unter …
 
 Auf dem anderen Bett lag Harald …
 
@@ -556,145 +559,145 @@ Zwei Stunden später war mir ein wenig besser.
 Da trat der kleine James Lollerby ein. Der Lump
 trug noch immer meinen Flanellanzug.
 
-Er benahm sich jedoch sein anständig und sagte zu uns:
+Er benahm sich jedoch sehr anständig und sagte zu uns:
 
-»Meine Bechert, es tut mir merklich leid, daß die Malaien,
+»Meine Herren, es tut mir wirklich leid, daß die Malaien,
 die dort in dem Versteck saßen, mit Ihnen so brutal
 umgesprungen sind. Andererseits war es unbedingt nötig,
 daß ich wieder in Besitz meines Schiffes gelangte. Die
 Prau gehört nämlich mir und nicht etwa einem Manne aus
-Batavia. Z) heiße auch nicht Lollerby, sondern ganz anders.
+Batavia. Ich heiße auch nicht Lollerby, sondern ganz anders.
 Wie — das ist gleichgültig. — Die sechs Malaien, meine
-Sqdpvester und ich hatten uns in die Geheimkammer zurück«
-gezogen, als Doktor Wallace Sie beide an Bord brachte
+Schwester und ich hatten uns in die Geheimkammer zurückgezogen,
+als Doktor Wallace Sie beide an Bord brachte.
 Wir acht haben dort böse vier Tage verlebt. In Kalkutta
-dursten wir nicht heraus, du: wir sonst verhaftet worden
-wären. Jetzt bin ich wieder »er der Prau und jetzt, ins
+durften wir nicht heraus, da wir sonst verhaftet worden
+wären. Jetzt bin ich wieder Herr der Prau und jetzt, wo
 Ihr Freund Dietrich und die Singhalesen genau so wehrlos
-wie Sie sind, Frage H Sie, Mr. Harst: Was hatten Sie
-mit der Prau vor? Was war Ihr Ziel! — Ich warne Sie
+wie Sie sind, Frage ich Sie, Mr. Harst: Was hatten Sie
+mit der Prau vor? Was war Ihr Ziel? — Ich warne Sie
 vor jeder Unwahrheit, Mr. Harst … Von Ihrer Antwort
 hängt alles ab …«
 
-Harald, die Hände auf der Brust gefesselt, jede sich
-Hausrecht …
+Harald, die Hände auf der Brust gefesselt, setzte sich
+aufrecht …
 
 »Mr. Lollerby, Sie haben uns gestern abend belauscht,
 als Dietrich aus dem Achterdeck sein Erlebnis erzählte …
 Wenn Sie die Kellerluke etwas anhoben, konnten Sie jedes
 Wort verstehen … Ich hörte einmal ein Geräusch von der
 <@pagebreak/>
-Luke her, glaubte aber an eine Ratte. — weshalb fragen
+Luke her, glaubte aber an eine Ratte. — Weshalb fragen
 Sie also, wohin wir wollen?«
 
 Lollerby (weiß Gott, wie der Pirat in Wahrheit hieß!)
 erwiderte ebenso höflich:
 
-»Ich habe gelauscht … Ich hörte jedoch nicht alles
+»Ich habe gelauscht … Ich hörte jedoch nicht alles …
 Ich möchte die Urwaldvilla besuchen. Vielleicht gibt es dort
-etwas … zu finden, — Wenn Sie, Mr. Harst, mir gleich-itig
-im Namen aller ibr’ Co versprechen, Frieden zu halten,
-ollen Sie frei sein. na::5z3. ihrem verlange ich aber noch die
-zu Kursus.«
+etwas … zu finden. — Wenn Sie, Mr. Harst, mir gleichzeitig
+im Namen aller übrigen versprechen, Frieden zu halten,
+sollen Sie frei sein. Außerdem verlange ich aber noch die
+Prau zurück.«
 
 »Die sollen Sie haben, sobald die Sache erledigt ist,
 Mr. Lollerby … — Ich sage ganz offen: Ihre Art gefällt
-Bikanir. Wir sind einig … Wir sind Verbündete — gegen
+mir. Wir sind einig … Wir sind Verbündete — gegen
 die Urwaldvilla!«
 
 Lollerby verbeugte sich …
 
-»Einverstanden, Mr. Harst … Ich möchte noch bd
-betonen, daß Sie mich nicht falsch einschätzen dürfen … Gö&ck
-gewiß, ich bin Schmuggler … IJ bin sogar das Oberhaupt
-Her größten Schmugglerorganisation in den indischen Gewässern
-… Ich bin wie ein Gespenst … nie zu fassen und -
+»Einverstanden, Mr. Harst … Ich möchte noch betonen,
+daß Sie mich nicht falsch einschätzen dürfen … Gewiß,
+ich bin Schmuggler … Ich bin sogar das Oberhaupt
+der größten Schmugglerorganisation in den indischen Gewässern
+… Ich bin wie ein Gespenst … nie zu fassen und
 doch jedem bekannt — jeder Zollbehörde … Man hat hinter
 mir Steckbriefe erlassen, hat …«
 
 Harald fiel ihm ins Wort …
 
-»Dann — dann sind Sie der Holländer van Graaven …]
+»Dann — dann sind Sie der Holländer van Graaven …!
 Kein anderer!«
 
-»Zu Diener: von Graaven, Pieter van Graaven, der
-Schmugglerföniy …«
+»Zu dienen: von Graaven, Pieter van Graaven, der
+Schmugglerkönig …«
 
 Und er nahm uns die Fesseln ab … —
 
 Abermals eine Stunde darauf (es war sieben Uhr
 abends) lernten wir an Deck unter dem Sonnensegel van
-Staunens Schwester Antje kennen … —
+Graavens Schwester Antje kennen … —
 
 Antje van Graaven …!!
 
-Euch. Kapitel für sich! — Nein, was rede ich: ein Roman
-rT
+Ein Kapitel für sich! — Nein, was rede ich: ein Roman
+für sich …
 
 In einem bescheidenen Sportanzug mit Kniehosen stand
-He vor uns …
+sie vor uns …
 
 <@pagebreak/>
 Schlank, rank, schneidig …
 
-Nichts von holländischer Fishblütigkeilt …
+Nichts von holländischer Fischblütigkeit …
 
-Ein rassiges Mädel mit grauen Schclmenaugen …
+Ein rassiges Mädel mit grauen Schelmenaugen …
 
-Eine Abenteuer in besonderen still …
+Eine Abenteuerin besonderen Stils …
 
-Dietrich, Weib Nachselüssel, anpochte beliebte Augen …
+Dietrich, Fritz Nachschlüssel, machte verliebte Augen …
 
-Ich jede mir die Lippen …
+Ich leckte mir die Lippen …
 
 Harst reichte ihr die Hand …
 
 »Also so sehen Sie aus, Fräulein Antje van Graaven …
-zu der Kalkutta-Times las ich lehztiens so allerlei von
+In der Kalkutta-Times las ich letztens so allerlei von
 Ihnen …«
 
-Sie lachte. keck — aber ohne jede Unterricht …
+Sie lachte keck — aber ohne jede Unfeinheit …
 
-»Sicher lasen Sie nichts Gutes, L: rt Harst …« Sie
-Spion) ganz leidlich deutsch …
+»Sicher lasen Sie nichts Gutes, Herr Harst …« Sie
+sprach ganz leidlich deutsch …
 
 »Wie man’s nimmt … Sie haben da in Bombay Gold
-gerschmuggelt ein Meisterstück … !“«
+geschmuggelt — ein Meisterstück …!«
 
-»Ihre Anerkennung freut mich, Herr Harst … -
+»Ihre Anerkennung freut mich, Herr Harst … —
 Setzen wir uns … Der Abendbrottisch ist schon gedeckt …« —
 
 Nun — um es gleich zu sagen: diese Reise nach Sumatra
 werde ich schon Antjes wegen nicht vergessen …
 
-Überhaupt: es herirschtien zu Bord des Blücher ja recht
-alsonderliche Verhältnisse. Unsere Singhalesen und die sechs
-ruiniert- waren spinnefeind miteinander. Wie bissige
-4: oder, denen man Maulkörbe angelegt hat, schlichen sie auf
-dem Deck umher. Hinzu kam, daß die Singhalesen Mohan-wiedaner
+Überhaupt: es herrschten zu Bord des Blücher ja recht
+absonderliche Verhältnisse. Unsere Singhalesen und die sechs
+Malaien waren spinnefeind miteinander. Wie bissige
+Köter, denen man Maulkörbe angelegt hat, schlichen sie auf
+dem Deck umher. Hinzu kam, daß die Singhalesen Mohammedaner
 und die Malaien Buddhisten waren. Und was die
 verschiedene Religion in Asien ausmacht, habe ich hier schon
 wiederholt erwähnt. Aber zu Zank und Streit kam es nicht.
 Dazu waren unsere Singhalesen zu vernünftig, während
-Pieter van Graaven, der Schungglerkönig, seine Malaien zu
-an! unter der Fuchtel hatte. —
+Pieter van Graaven, der Schmugglerkönig, seine Malaien zu
+gut unter der Fuchtel hatte. —
 
-Um fünften Tage, so gegen sechs Uhr nachmittags,
+Am fünften Tage, so gegen sechs Uhr nachmittags,
 näherten wir uns unserem Ziel. Fritz Dietrich hatte sich als
 Kapitän bewährt. Er fand die betreffende Bucht ohne
-S4noterigkeiten, und zum ersten Male in ihrem Leben lernten
-wi Harst und Schraut, die Unzertrennlichen einen Teil der
-Spiel Sumatra kennen.
+Schwierigkeiten, und zum ersten Male in ihrem Leben lernten
+nun Harst und Schraut, die Unzertrennlichen, einen Teil der
+Insel Sumatra kennen.
 
 <@pagebreak/>
-Die Bucht zog sich etwa eine halbe Meile weil in vielfachen
+Die Bucht zog sich etwa eine halbe Meile weit in vielfachen
 Windungen ins Land hinein. Die Ufer waren zumeist
-steil, voller Schluchten, nur hier und da bawaldet.
+steil, voller Schluchten, nur hier und da bewaldet.
 Das kahle Gestein, ein grauschwarzer Granit, grinste überall
 unter der dünnen Schicht Erde hervor.
 
-Der äußerste Winkel der Bucht erweiterte sich zum seod-artigen
-Boden. Und hier umgab uns und die ankernde
+Der äußerste Winkel der Bucht erweiterte sich zum seeartigen
+Becken. Und hier umgab uns und die ankernde
 Prau die Überfülle tropischer Wunder mit all ihrer Mannigfaltigkeit,
 hier erhoben sich Urwaldriesen dicht am Wasser,
 hier zogen sich Lianen in dicken Girlanden von schrägen
@@ -703,35 +706,35 @@ Köstliche auf der stillen Oberfläche der Bucht mit allen Einzelheiten
 wieder …
 
 Nachdem die beiden Anker des Blücher ausgeworfen
-waren und unser Schiff zwanzig Meter vom Lampe entfernt
+waren und unser Schiff zwanzig Meter vom Lande entfernt
 fest vor diesen Ankern lag, wurde das eine Boot ausgeschwungen
-und einige Malaien und Pieter van Grauen
-ruderten ans Ufer, um im Walde frische drückte zu Zimmern.
+und einige Malaien und Pieter van Graaven
+ruderten ans Ufer, um im Walde frische Früchte zu sammeln.
 
-Wir beide, Dietrich und Antje standen an der Ehering
+Wir beide, Dietrich und Antje standen an der Reling
 und schauten dem Boote nach.
 
-Ich schwärmte in allerlei Erinnerungen an Ceylon, da,
+Ich schwärmte in allerlei Erinnerungen an Ceylon, da
 dieses Uferbild stark an eine Bucht der Westküste Singahalas
 (so nennen die Eingeborenen die Insel Ceylon) erinnerte.
 
 Antje van Graaven rauchte eine Zigarette und meinte:
 
-»Es ist hier wirklich sichön … Ich möchte nur …«
+»Es ist hier wirklich schön … Ich möchte nur …«
 
-Wie dieser Satz; beendet werden sollte, habe ich nie
+Wie dieser Satz beendet werden sollte, habe ich nie
 erfahren …
 
 Das Boot hatte soeben angelegt …
 
 Und im selben Moment hatten die Malaien gellend
-aufgeschrien, waren blitzschnell vom Boote ins Wasser ge
-sprangen …
+aufgeschrien, waren blitzschnell vom Boote ins Wasser gesprungen
+…
 
-Pieter van Graaven aber sank mit zwei langen Rohr-pseilen
-in der Brust langsam im Boote -:Summen …
+Pieter van Graaven aber sank mit zwei langen Rohrpfeilen
+in der Brust langsam im Boote zusammen …
 
-Vollständig lautlos war dieser Redensart erfolgt …
+Vollständig lautlos war dieser Überfall erfolgt …
 
 Aus dem Dickicht des Waldes kamen die Geschosse …
 
@@ -742,39 +745,39 @@ Und Dietrich brüllte ingrimmig:
 
 Ja — es mußten mindestens ein Dutzend Orang-Kubu
 gewesen sein, denn von den vier Malaien, die nun schwimmend
-die Frau zu erreichen suchten, waren drei verwundet
+die Prau zu erreichen suchten, waren drei verwundet
 und versanken, bevor wir ihnen Hilfe bringen konnten,
 
 Wir vier an der Reling waren einen Moment wie
 gelähmt …
 
 Gerade der Frieden dieser reizvollen Umgebung, gerade
-der Umstand;. daß überall am Waldrande Vögel und
-anderes Getier, darunter eine Herde zierlicher gegen von der
+der Umstand, daß überall am Waldrande Vögel und
+anderes Getier, darunter eine Herde zierlicher Affen von der
 Familie der Meerkatzen, in aller Ruhe uns beobachtet hatte,
 ohne zu fliehen, war für uns der — leider trügerische —
 Beweis völliger Sicherheit gewesen.
 
 Harst sprang als erster jetzt zum zweiten Boot, half es
-zu Wasser bringen und;befahl den Singhalesen, ein paar
-Bretter an der einen Seite als Schutzwände auszustellen.
-Es genügten grwvöhnliche Kistendeckel, die denn auch im Nu
+zu Wasser bringen und befahl den Singhalesen, ein paar
+Bretter an der einen Seite als Schutzwände aufzustellen.
+Es genügten gewöhnliche Kistendeckel, die denn auch im Nu
 zur Stelle waren,
 
-Wir beide und zwei Singhalesen ruderten an an
-und …
+Wir beide und zwei Singhalesen ruderten dann an
+Land …
 
-Die Singhalesen blickten die Kistendeckel fest. Es war
+Die Singhalesen hielten die Kistendeckel fest. Es war
 dies ein immerhin recht zweifelhafter Schutz gegen die Giftpfeile
 der braunen Urwaldnomaden.
 
-Inzwischen war der ynverwurndete Malaie an Bord
-der Prau zurückgekehrt. Meter van Graaven aber lag regungslos
-im Boot, das von einer sausten Strömung wieder
+Inzwischen war der unverwundete Malaie an Bord
+der Prau zurückgekehrt. Pieter van Graaven aber lag regungslos
+im Boot, das von einer sanften Strömung wieder
 vom Ufer abgetrieben worden war.
 
-Ich erwischte es mit dem Bootshaken, und [so ruderten
-wir wieder zur Platz.
+Ich erwischte es mit dem Bootshaken, und so ruderten
+wir wieder zur Prau.
 
 Graaven, der Schmugglerkönig, war tot. Der eine Pfeil
 hatte ihm von der Seite das Herz durchbohrt, der zweite
@@ -786,159 +789,159 @@ unnatürlich blaß, und ihre Augen wie erloschen …
 Als Graaven auf dem Achterdeck niedergelegt worden
 war, kniete sie neben ihm nieder und küßte ihn. Dann
 <@pagebreak/>
-erhob sie ich — alles mit seltsam automatenhaften steifen
+erhob sie sich — alles mit seltsam automatenhaften steifen
 Bewegungen.
 
 »Herr Harst,« sagte sie leise und in einem Übermaß
-von Schmerz, der uns erschsitterte, »Herr Harst, in bin nicht
+von Schmerz, der uns erschütterte, »Herr Harst, ich bin nicht
 Pieter van Graavens Schwester, sondern seine rechtmäßige
 Frau … eine geborene Schweizerin … Herr Harst —
-eine Frage: glauben Sie, daß die Goa::g-Kubu aus sich selbst
+eine Frage: glauben Sie, daß die Orang-Kubu aus sich selbst
 heraus diesen Überfall unternahmen oder ob die Bewohner
-der Urwaldvilla sie angestiftet haben?« -.
+der Urwaldvilla sie angestiftet haben?«
 
 Harald erklärte schlicht: »Das letztere, Frau Antje …«
-(Bisher hatte er sie!? Fräulein Antje gesagt.)
+(Bisher hatte er stets Fräulein Antje gesagt.)
 
-»Dann …« — und Antje starrte nach der Urtvakdstelle
-hinüber, 1. -Her die Pfeile gekommen waren, »wird meine
-Sache alle die auslöschen, die mir den Gatten mordeten …«
+»Dann …« — und Antje starrte nach der Urwaldstelle
+hinüber, woher die Pfeile gekommen waren, »wird meine
+Rache alle die auslöschen, die mir den Gatten mordeten …«
 
 Sie sprach es ohne jede besondere Erregung. Aber in
 dieser Stimme lag die ganze erprobte Energie der berühmten
-Abentenerin …
+Abenteuerin …
 
-Und ebenso leivenschaft8l108 fügte sie hinzu: »Herr
+Und ebenso leidenschaftslos fügte sie hinzu: »Herr
 Harst, was gedenken Sie jetzt zu tun?«
 
-»Das einzige, was wir tun Armen: diese Bucht der.
-fassen und nohchi18 in der Nähe in eine andere Bucht einlaufen,
+»Das einzige, was wir tun können: diese Bucht verlassen
+und nachts in der Nähe in eine andere Bucht einlaufen,
 wo wir den Blücher verbergen und unbemerkt die
 Expedition nach der Urwaldvilla vorbereiten können …« —
 
-Zehn Minuten später glitt die Frau mit Hilfe ihres
+Zehn Minuten später glitt die Prau mit Hilfe ihres
 Motors wieder ins offene Meer Hinaus, entfaltete ihre
 Segel und steuerte gen Westen … bis zum Anbruch der
 Dunkelheit.
 
 Dann kehrten wir um …
 
-Fritz DietrimH bewährte sich se?! noch besser … Er beide,
-als wir wie Flüchtlinge die "«Ohr verließen, unweit der
-Buchtnriiindung eine ganz enge, andere Einfahrt bemerkt und
+Fritz Dietrich bewährte sich jetzt noch besser … Er hatte,
+als wir wie Flüchtlinge die Bucht verließen, unweit der
+Buchtmündung eine ganz enge, andere Einfahrt bemerkt und
 hoffte, daß diese uns in eine für unsere Zwecke geeignete
 Wasserstraße führen würde.
 
 Bei Dunkelheit steuerte er diese Einfahrt an. Sie war
-wie eine enge Felsenchleuse. Der Gefahr, auf ein Riff oder
-eine Untiefe aufzulaufen, beugten wir dadurch vt, daß wir
+wie eine enge Felsenschleuse. Der Gefahr, auf ein Riff oder
+eine Untiefe aufzulaufen, beugten wir dadurch vor, daß wir
 <@pagebreak/>
 ein Boot mit fünf Singhalesen vorausfahren ließen, die
 dauernd loten mußten.
 
-Und gerade als dann der Mond he: kam und als der
+Und gerade als dann der Mond hochkam und als der
 Glanz der südlichen Sternenpracht zauberhafte Beleuchtung
 schuf, erlebten wir eins von jenen Wundern, die niemand
-vorait8chnen kann: diese Bucht war wie ein Kanal mit
-hinmmelhoben, hatten, steilen Ufern, war zumeist nur dreißig
-Meier breit und … endlos, — — endlos schnitt sie in das
+vorausahnen kann: diese Bucht war wie ein Kanal mit
+himmelhohen, kahlen, steilen Ufern, war zumeist nur dreißig
+Meter breit und … endlos, — — endlos schnitt sie in das
 Land ein, machte große Bogen, Winkel, erweiterte sich an
-höre! Stellen zu runden Seen und … endete schließlich in
-völlig flachem Urwald als verfrautetes, shilfumwogies
+drei Stellen zu runden Seen und … endete schließlich in
+völlig flachem Urwald als verkrautetes, schilfumwogtes
 Wasserbecken …
 
-Nur eine einzige Lücke gab es in diesen Baummatuern
+Nur eine einzige Lücke gab es in diesen Baummauern
 der Ufer …
 
 Und als jetzt einer der Singhalesen den Vordermast
 erklettert hatte, um von dort Ausschau zu halten, kam er
-plötzlich? sehr eilig wieder herab, meldete, daß drüben im
+plötzlich sehr eilig wieder herab, meldete, daß drüben im
 Schilf ein Fahrzeug mit gekappten Masten läge und daß er
-drei die Baumlüke ein Gebäude mit vier Schornsteinen
+durch die Baumlücke ein Gebäude mit vier Schornsteinen
 erspäht habe … mindestens dreihundert Meter entfernt. —
 
-Worauf Fritz Dietrich ebenfalls den Mast! erkletterte und
+Worauf Fritz Dietrich ebenfalls den Mast erkletterte und
 ein Fernglas mitnahm.
 
 Er bestätigte dann, was wir alle schon vermutet hatten:
 es war die Urwaldvilla! Und das Fahrzeug im Schilf
-konnte nur der S:Diener sein, der damals von den Malaien
-Überfallen worden war.
+konnte nur der Schoner sein, der damals von den Malaien
+überfallen worden war.
 
 <h2>4. Kapitel.</h2>
 <h3>Die Frau aus der Urwasldvilla.</h3>
 
-Ein Boot führte uns beide und zwei ein« lesen sowie
+Ein Boot führte uns beide und zwei Singhalesen sowie
 Fritz Dietrich zunächst nach dem Schoner.
 
-wie waren überaus vorsichtig, obwohl die Prau kaum
-bemerkt worden sein konnte. -
+Wir waren überaus vorsichtig, obwohl die Prau kaum
+bemerkt worden sein konnte.
 
 <@pagebreak/>
-In diesem sollte war die Vorsicht überflüssig. Wir
-kamen an Bord des sehr: ’rs, dessen Masten entfernt worden
+In diesem Falle war die Vorsicht überflüssig. Wir
+kamen an Bord des Schoners, dessen Masten entfernt worden
 waren, und fanden ihn vollständig ausgeplündert. Alle
-Eisenteile und Messinübeschläge waren losögerissen und gestohlen
+Eisenteile und Messingbeschläge waren losgerissen und gestohlen
 worden. Der Schoner war ein Wrack, nichts weiter.
 
-Hier in dem doppelt manttshohen Schilf hatte er ein
+Hier in dem doppelt mannshohen Schilf hatte er ein
 Versteck, wie es besser kaum sein konnte.
 
-Das wichtigste aber: von der Backbordreling er eine
+Das wichtigste aber: von der Backbordreling lief eine
 Planke zur Krone eines umgestürzten Urwaldriesen hinüber,
-so daß man auf diese Weise an Laut gelangen könnte.
+so daß man auf diese Weise an Land gelangen konnte.
 
-»Tischen Dietrich,« sagte Harald zu unserem Freunde,
+»Lieber Dietrich,« sagte Harald zu unserem Freunde,
 »Sie werden jetzt die Prau hier aus diesem Becken wieder ist
-den Kanal schleppen. lassen. Spannen Sie ein Boot vor den
-Blücher. Der Motor macht zu viel Lärm. Schraut und!ich
+den Kanal schleppen lassen. Spannen Sie ein Boot vor den
+Blücher. Der Motor macht zu viel Lärm. Schraut und ich
 werden mal auskundschaften, wie es um das Haus drüben
-durchsiebt. Wir werden bis. zum nächsten Abend wegbleiben,
+steht. Wir werden bis zum nächsten Abend wegbleiben.
 Morgen abend also holen Sie uns hier mit einem Boot in
 aller Stille wieder ab.«
 
 Dietrich wollte natürlich mit. Aber Harald machte ihm
-klar, daß wir Antje doch nicht ohne Schuß auf der Prau
+klar, daß wir Antje doch nicht ohne Schutz auf der Prau
 mit all den Farbigen zurücklassen könnten … Das sah er
 auch ein. Antje hatte ja fraglos in seinem braven Herzen
 allerlei Unheil angerichtet.
 
-Das Boot entfernte sich. Die Küstenort rauschten,
+Das Boot entfernte sich. Die Schilfstengel rauschten,
 als es sich hindurchdrängte.
 
-Wir standen an darfst des ausgeplünderten Schoners
-und … fühlten uns jetzt erst so rcch9t frei und behagt:ich.
+Wir standen an Deck des ausgeplünderten Schoners
+und … fühlten uns jetzt erst so recht frei und behaglich.
 Harald liebte keinen größeren Anhang.
 
-»Menschenballast — uns nur by« Strich,« sagte er stets,
+»Menschenballast — uns nur hinderlich,« sagte er stets,
 
 Der Schoner lag im Mondschatten. Das Nachtgestirn
-war hinter den Fragen der Walvpriesen versteckt.
+war hinter den Kronen der Waldriesen versteckt.
 
-»Warten wir noch,« meinte Zaghaft heißt … »Warten
+»Warten wir noch,« meinte Harald leise … »Warten
 wir, ob die Luft rein ist …«
 
-Wir setzten uns auf den Deckel der Vorderlitke, So
-ausgeprägten nur unsere Köpfe über die Tischtuch bis!:10eg.
-hast konnten nie Planke und den 1UUrwokck»groß,
+Wir setzten uns auf den Deckel der Vorderluke. So
+ragten nur unsere Köpfe über die Reling hinweg.
+Wir konnten die Planke und den Urwaldkoloss,
 <@pagebreak/>
-den ein Sturm gefällt und halb ins Wasser geschleudert Sache,
+den ein Sturm gefällt und halb ins Wasser geschleudert hatte,
 trotz der Dunkelheit übersehen.
 
 Harst hatte bisher über die Villa mit den vier Schornsteinen
-noch nicht viel geäußert. Aus Dich nichts Erzählung
+noch nicht viel geäußert. Aus Dietrichs Erzählung
 war ja auch wenig zu entnehmen gewesen. Daß die Bewohner
 des Hauses mit den Orang-Kubu im Bunde
-fanden, daß sie diese türkischen Wilden als Wache in mußten,
-war nicht mehr anzuzweiseln Der Trupp Orang Kubu,
+standen, daß sie diese tückischen Wilden als Wache benutzten,
+war nicht mehr anzuzweifeln. Der Trupp Orang-Kubu,
 der damals in der Nähe des ankernden Schoners erschienen
 war, hatte fraglos lediglich spionieren sollen.
 
 Weshalb wohnten die Leute hier in dieser gottverlassenen
 Einsamkeit?! Und wie viele waren es?! Weshalb hielten
-Eis jeden Fremden ans so mörderische Art von sich fern?!
+sie jeden Fremden auf so mörderische Art von sich fern?!
 
-Das alles war schwer zu veauntworten …
+Das alles war schwer zu beantworten …
 
 Harald sann vor sich hin. Aber seine Augen waren
 Wach …
@@ -947,68 +950,68 @@ Und dann kam’s … Wie immer gleich einer Explosion.
 
 Er sagte ohne besondere Betonung:
 
-»Arzt Gut die Urwaldvilla, und Pieter van! Graaven
-Kanne sie /auch … Sie haben uns beschwindelt …«
+»Antje kennt die Urwaldvilla, und Pieter van Graaven
+Kanne sie auch … Sie haben uns beschwindelt …«
 
 Ich war erschlagen …
 
-»Woraus schließt Du hierauf?« fragte ich zweifselnd
+»Woraus schließt Du hierauf?« fragte ich zweifelnd …
 
-»Bitte …!« Und er gab mir ein zusammeungefaltetes
-Dja:? Karten … »Wenn Du Dich hinter die Reling läßt,
-Schofför Du getrost seine Taschenlampe einschalten, mein
-Mister … Es ist ein Brief, den ich Pieter van Graaven aus
+»Bitte …!« Und er gab mir ein zusammengefaltetes
+Blatt Papier … »Wenn Du Dich hinter die Reling bückst,
+kannst Du getrost Deine Taschenlampe einschalten, mein
+Alter … Es ist ein Brief, den ich Pieter van Graaven aus
 der Brieftasche nahm — zwischen Futter und Leder …«
 
-Daß. ich es jetzt sehr eilig hatte, diesen Brief zu lesen,
-verständlich …
+Daß ich es jetzt sehr eilig hatte, diesen Brief zu lesen,
+ist verständlich …
 
-ob kniete hinter der Reling …
+Ich kniete hinter der Reling …
 
 Meine Taschenlampe flammte auf … —
 
 … Es gibt Zwischenfälle, die so verblüffend wirken,
-laß man zurück st kaum recht weiß, was geschehen ist …
+daß man zunächst kaum recht weiß, was geschehen ist …
 
 Und solches ereignete sich jetzt hier …
 
-Hof war plötzlich mit einem Sah neben Ufer …
+Harst war plötzlich mit einem Satz neben mir …
 
-eine Sportmütze flog Über meine Taschenlampe …
+Seine Sportmütze flog Über meine Taschenlampe …
 
 <@pagebreak/>
 Seine Hand preßte sich auf meinen Mund …
 
 Dann erst raunte er mir zu:
 
-»Feinen Laut … Es kommt jemand …«
+»Keinen Laut … Es kommt jemand …«
 
-Und schon hörte ich, wie die unter den Schotten eines
+Und schon hörte ich, wie die unter den Schritten eines
 Menschen wippende Planke leise knarzte …
 
 Schon kroch Harald näher an die Planke heran …
 
-Da erschien auch schon in meinem Gesichtskreis Eid
+Da erschien auch schon in meinem Gesichtskreis ein
 Weib im Sportanzug …
 
 Im grünbraunen Anzug mit Kniehosen …
 
 Eine Europäerin … blond, schlank, mittelgroß …
 
-Im selben Armen »hatte Harald sich ausgerichtet …
+Im selben Moment hatte Harald sich aufgerichtet …
 
-»Guten Abend, Miß Cotton,«« sagte er wird packte die
+»Guten Abend, Miß Cotton,« sagte er und packte die
 Frau beim linken Handgelenk …
 
 Sie schrie gellend auf.
 
-Ich war im Nu zur Stelle … Den Brief hatte ich
+Ich war im Nu zur Stelle … Den Brief hatte ich in
 die Tasche gestopft …
 
-Miß Cotton?! — Woher dieser Name?! Doktor kannte
-Harald sind! Etwa aus dem Brief?!
+Miß Cotton?! — Woher dieser Name?! Woher kannte
+Harald ihn?! Etwa aus dem Brief?!
 
-Er sagte schon, und seine Stimme war nicht oder.
+Er sagte schon, und seine Stimme war nicht eben
 freundlich:
 
 »Sie sind uns einige Aufklärungen schuldig, Miß
@@ -1019,80 +1022,80 @@ Cotton gibt einen sicheren Schild ab …«
 
 Ich sah nun das Gesicht des Weibes aus der Nähe …
 
-ohne Frau von vielleicht dreißig Jahren … Sonngebräunt
+Eine Frau von vielleicht dreißig Jahren … Sonngebräunt
 … aschblond … dunkle Augen und ein sonderbar
 kleiner Mund — fast ohne Lippen …
 
 Ein Mund, der mir nicht behagte … Noch weniger die
-starre Nu« - dieses Antlitzes …
+starre Ruhe dieses Antlitzes …
 
 Wir betraten die kleine Kajüte im Heckaufbau … Die
 Tür war nicht mehr vorhanden …
 
-am ad, die Clement in der Rechten, lehnte am Türen
+Harald, die Clement in der Rechten, lehnte am Türrahmen
 …
 
 Ich hatte die Taschenlampe wieder eingeschaltet …
 
 <@pagebreak/>
-Die Frau stand zwischen uns, um!; Zeit von dem weißen
-Lichtkegel … Ihre Augen hatten nur Interesse sitzt Harst …
+Die Frau stand zwischen uns, umspielt von dem weißen
+Lichtkegel … Ihre Augen hatten nur Interesse für Harst …
 
-»Wer sind Sie, Kastell« fragte sie durchaus höflich …
-wundere mich, daß einmal ein paar Europäer sich hier
-diese Wälder verirren …
+»Wer sind Sie, Master?« fragte sie durchaus höflich …
+»Ich wundere mich, daß einmal ein paar Europäer sich hier
+in diese Wälder verirren …
 
 »Ich denke, wir lassen jedes Komödienspiel, Miß Cotton,«
-erwiderte Harst und beobachtete das DeckX und die
+erwiderte Harst und beobachtete das Deck und die
 Planke. »Sie werden mir niemals einreden, daß ein Zufall
 Sie gerade jetzt hierher geführt hat …«
 
 »Und was sonst?!« Ihr Ausruf klang so erstaunt und
-steht, daß man Zweifelhaft werden konnte, ob sie wirklich
-log »Nur ein Zufall, Master, nur …!« Züge sie hinzu.
-»Ich liebe es, nachts umherzustreifen, denn am Tage pflegt
-ich meinen Vater und meinen Bruder …“« Ihre Stimme
+echt, daß man zweifelhaft werden konnte, ob sie wirklich
+log … »Nur ein Zufall, Master, nur …!« fügte sie hinzu.
+»Ich liebe es, nachts umherzustreifen, denn am Tage pflege
+ich meinen Vater und meinen Bruder …« Ihre Stimme
 wurde traurig und leiser. »Wir wohnen nur deshalb hier,
 weil meine beiden einzigen Angehörigen von der Insel
-Sultana entflohen sind … Falls Sie es nicht wissen: Sultana
-ist eine Insel im Süden von Sumatra. Ort hat die
-niederländische Kolonialregierung ein Verräter! eingerichtet.
-Alle vom Auslasse Begossener werden dort nterniert …
-Die Insel ist nur von Augßsätzigen besiedelt …«
+Gustara entflohen sind … Falls Sie es nicht wissen: Gustara
+ist eine Insel im Süden von Sumatra. Dort hat die
+niederländische Kolonialregierung ein Lepraheim eingerichtet.
+Alle vom Aussatz Befallenen werden dort interniert …
+Die Insel ist nur von Aussätzigen besiedelt …«
 
-Mit ließ es kühl über den Rücken …
+Mir lief es kühl über den Rücken …
 
-Lepra … 1 aussah …! Die entseblichste und dabei
-so sehr ansteckende Krankht;riß, die den Körper Künstlich verkaufen
-läßt …!!
+Lepra …! Aussatz …! Die entsetzlichste und dabei
+so sehr ansteckende Krankheit, die den Körper allmählich
+verfaulen läßt …!!
 
-Sperrte gelassene Stimme da:
+Harsts gelassene Stimme da:
 
 »Es ist möglich, daß Sie die Wahrheit sprechen … —
-Sie sind Miß Alice Cotton?k«
+Sie sind Miß Alice Cotton?«
 
-»Ja … - Und jetzt sagen Sie mir bitte, woher Sie
+»Ja … — Und jetzt sagen Sie mir bitte, woher Sie
 meinen Namen kennen?«
 
-»»Furcht einen Brief …«
+»Durch einen Brief …«
 
 »Einen Brief?!«
 
-Ah — sie zielte ankamen …
+Ah — sie zuckte zusammen …
 
-»Durch einen an Jahre Schwester gerichteten Brief, Miß
-hatten … — Sie haben also nicht nur einen Vater und
+»Durch einen an Ihre Schwester gerichteten Brief, Miß
+Cotton … — Sie haben also nicht nur einen Vater und
 <@pagebreak/>
-einen Bruder …« ». Ihre Schwester. ist Frau Antje von
+einen Bruder … Ihre Schwester ist Frau Antje von
 Graaven …«
 
 »Das ist richtig … — Ich habe Antje jedoch seit fünf
 Jahren nicht mehr gesehen … Wir … kennen uns auch
 nicht mehr … Antjes Lebenswandel stößt mich ab …
-Im Grunde ist sie nichts als eine Verbrecherin …-
-Aber Ihren. Namen weiß ich noch immer nicht, Raster … ««
+Im Grunde ist sie nichts als eine Verbrecherin … —
+Aber Ihren Namen weiß ich noch immer nicht, Master …«
 
-»Laärald Harsts …!«
+»Harald Harst …!«
 
 Das wirkte wie ein Peitschenhieb …
 
@@ -1105,52 +1108,51 @@ großen Vorderzähnen …
 Und der Kopf sank ihr auf die Brust …
 
 »Das … hätte ich nicht erwartet,« murmelte sie …
-
-»Nein … »… das nicht!« Sie schien mutlos und niedergeschlagen
+»Nein — — das nicht!« Sie schien mutlos und niedergeschlagen
 …
 
 »Wollen Sie das Märchen von den Leprakranken aufrecht
-erhalten, Miß Cotton?!« meinte Harald mit einer weg-wersenden
+erhalten, Miß Cotton?!« meinte Harald mit einer wegwerfenden
 Handbewegung. »Sie haben eben die Prau bemerkt
 … Ihre Leibgarde, die Orang-Kubu, mögen Ihnen
 das Wiederauftauchen meines Fahrzeugs gemeldet haben.
 Sie selbst haben uns dann beobachtet. Nun wollten Sie uns
-in Ihre Urialdvilla locken … uns beide … Und vielleicht
+in Ihre Urwaldvilla locken … uns beide … Und vielleicht
 beabsichtigen Sie, die Prau zu überfallen … — Sie sind
-unsere Gefangene, Miß Cotton … -“- Schraut, bewache
-diese … Dame, die von ihrer Schwester in so wegiversen-der
+unsere Gefangene, Miß Cotton … — Schraut, bewache
+diese … Dame, die von ihrer Schwester in so wegwerfender
 Weise spricht …«
 
-Ich zog die, Clement …
+Ich zog die Clement …
 
 Harald bückte sich und verschwand …
 
-… Da der Schoner noch ein Boot, ein ganz »winziges Ding
-vorn am Bug neben der Ankerwinde liegen hatte, da seiner
-an Deck zwei lange Booltshaken, freilich ohne die Eisen—spihen,
+Da der Schoner noch ein Boot, ein ganz winziges Ding
+vorn am Bug neben der Ankerwinde liegen hatte, da ferner
+an Deck zwei lange Bootshaken, freilich ohne die Eisenspitzen,
 vorhanden waren, konnten wir mit Miß Cotton sehr
 bald der Prau folgen …
 
 Daß wir beim Besteigen des Bootes die allergrößte
 <@pagebreak/>
 Vorsicht walten ließen und unsere Körper nach Möglichkeit
-Biß ne bei denn Gefährlichkeit der Giftpfeile selbstver-ndsli
-… —
+bedeckten, war bei der Gefährlichkeit der Giftpfeile
+selbstverständlich … —
 
 Eine halbe Stunde darauf hatten wir den im Kanal
 verankerten Blücher erreicht …
 
-du Es war hier zwischen den hoben Felsenufern sehr.
-nie …
+Es war hier zwischen den hoben Felsenufern sehr
+dunkel …
 
-Wir saßen eilten der Singhalesen mit seinem hellen
+Wir sahen einen der Singhalesen mit seinem hellen
 Turban an der Reling lehnen … —
 
-Miß Cotton mußte als erste an Deck — die Strickleiter.
+Miß Cotton mußte als erste an Deck — die Strickleiter
 empor …
 
-Als wir mir den Singhalesen anriefen, als Harst den
-»Mann, da er keine Auskunft gab, rüttelte, sank … - ein Toter
+Als wir nun den Singhalesen anriefen, als Harst den
+Mann, da er keine Auskunft gab, rüttelte, sank … ein Toter
 dumpf polternd auf die Planken …
 
 Man hatte die Leiche durch ein paar Baumäste gestützt …
@@ -1158,7 +1160,7 @@ Man hatte die Leiche durch ein paar Baumäste gestützt …
 Man … —: die Orang-Kubu …!!
 
 Und Miß Alice Cottons Hohnlachen belehrte uns, daß
-wir …; … die Partie vorläufig verloren hatten …
+wir … die Partie vorläufig verloren hatten …
 
 <h2>5. Kapitel.</h2>
 <h3>Der Sultan von Gadjanoor.</h3>
@@ -1171,98 +1173,97 @@ Wir sahen es …
 Dunkle Gestalten huschten aus dem Heckaufbau …
 
 »Das Wort können Sie sich sparen,« meinte Harald kühl.
-»Es sei denn, daß Ihnen Menschenleben wirklich so dar nichts
-geben, Miß Cotton …«
+»Es sei denn, daß Ihnen Menschenleben wirklich so gar nichts
+gelten, Miß Cotton …«
 
-»Da haben Sie recht, Herr Harst …*« Und sie sprach
-mit einem Male deutsch. »Menischenleben sind nicht mehr
+»Da haben Sie recht, Herr Harst …« Und sie sprach
+mit einem Male deutsch. »Menschenleben sind nicht mehr
 von Belang für mich wie eine Tigerkatze, die ich aus den
-Baumkronen herab schieße … — Sie beide werde ich
-schonen, weil im … Sie brauchen kann …«
+Baumkronen herabschieße … — Sie beide werde ich
+schonen, weil ich … Sie brauchen kann …«
 
 <@pagebreak/>
-»Und … unsere Gefährten? Frau Antjes« Harald
+»Und … unsere Gefährten? Frau Antje?« Harald
 rief es in jäher Angst …
 
-»Das müssen Sie die Orang-Kubu fragen … 1« — Ein
+»Das müssen Sie die Orang-Kubu fragen …!« — Ein
 Auflachen … Es schnitt mir ins Herz …
 
 Und dann …
 
-»soeben Sie Ihre Wasser ab, meine Herren … nach
+»Geben Sie Ihre Waffen ab, meine Herren … Auch
 Ihre Taschenmesser und die Taschenlampen …«
 
-Wir gehorthien …
+Wir gehorchten …
 
 Die braunschwarzen Kerle waren nun in nächster Nähe
-… Zum ersten Male sah im Orang: kühn
+… Zum ersten Male sah ich Orang-Kubu …
 
-einer von ihnen trat vor Miß Cotton bin …
+einer von ihnen trat vor Miß Cotton hin …
 
 Da sagte Harald auch schon:
 
-… pDas sind doch keine einig-Kubu … Das können nur
-Angehörige der Urbevölk-rung Sumatras, also Orang-Mamma
-sein Miß Cotton …«
+»Das sind doch keine Orang-Kubu … Das können nur
+Angehörige der Urbevölkerung Sumatras, also Orang-Mamma
+sein, Miß Cotton …«
 
 »Beides stimmt, Herr Harst,« erwiderte sie jetzt durchaus
 Höflich … »Es ist ein Mischstamm … daher erscheinen
-die Burschen. auch so zwergenhaft …
+die Burschen auch so zwergenhaft …
 
 Der Kerl vor Alice Cotton trug lediglich ein Lendentuch,
 dazu aber unzählige Ketten aus Zähnen um den Hals und
-Armbänder au&g Muscheln. Das Straße, schwarze Haar fiel
-Hm frei bis in den halben Rücken hinab und war mit Papa-gelfedern
-durchkreisen. Riß Waffen trug e! hatten, Pfeilköcher
+Armbänder aus Muscheln. Das straffe, schwarze Haar fiel
+ihm frei bis in den halben Rücken hinab und war mit Papageifedern
+durchflochten. Als Waffen trug er Bogen, Pfeilköcher
 aus Rinde, einen anderthalb Meter lagen Speer und
 einen langen plumpen Dolch in dem über das Lendentuch
 geschnallten Gürtel.
 
-Das Einsicht mit der eingedrückiten Nase wirkte neger-ächbnlich.
-Amen den Wuülstlippeon sah man, daß die oberen
-Schneidezähne kurz abgeseilt waren.
+Das Gesicht mit der eingedrückten Nase wirkte negerähnlich.
+Unter den Wulstlippen sah man, daß die oberen
+Schneidezähne kurz abgefeilt waren.
 
-Miß Cotton Sprache zu dem kleinen Halunken ein paar
-Worte in maloaiischer Sprache.
+Miß Cotton sprach zu dem kleinen Halunken ein paar
+Worte in malaiischer Sprache.
 
-Daraufhin trat der der! wieder Zuruf.
+Daraufhin trat der Kerl wieder zurück.
 
-»Wenn Sie mir ohne Gegenwehr soll::Co wollen,« meinte
-unsere Feindin jetzt, »so werde ich Sie nicht Sesseln lassen.
-39 möchte, mit Ihnen Frieden schließen, Her! Harst —. —
+»Wenn Sie mir ohne Gegenwehr folgen wollen,« meinte
+unsere Feindin jetzt, »so werde ich Sie nicht fesseln lassen.
+Ich möchte mit Ihnen Frieden schließen, Herr Harst — —
 später …«
 
 <@pagebreak/>
-»berieten?! =« »— Rat L immerhin: wir folgen frei-’
-will …«
+»Frieden?! — — Nun — immerhin: wir folgen freiwillig
+…«
 
-je brachte uns in ein Boot; … Es war keins bei
-Boote des Blücher. Schieß von den kleinen schwarzen Schuster
-fütterten. Miß Cotton saß neben uns am Steuer und
-handhabte die Nuderpirnne.
+Man brachte uns in ein Boot … Es war keins der
+Boote des Blücher. Sechs von den kleinen schwarzen Schuften
+ruderten. Miß Cotton saß neben uns am Steuer und
+handhabte die Ruderpinne.
 
 Das Boot schoß nur so dahin …
 
 Legte dann an dem ausgeplünderten Schoner an …
 
-Ein Marsch dachten nächtlichen Urwald folgte …
+Ein Marsch durch nächtlichen Urwald folgte …
 
 Eine Viertelstunde, und … die sogenannte Villa lag
 vor uns … genau so, wie Fritz Dietrich sie beschrieben
 hatte … genau so …
 
-Vor der Hintertür hockten drei der halsbnaten Wilden.
+Vor der Hintertür hockten drei der halbnackten Wilden.
 Miß Cotton ging voran, zündete im Flur eine Laterne an
 und winkte uns …
 
-Daß dieses Haus ließ des gefälligen Äußeren mit den
+Daß dieses Haus trotz des gefälligen Äußeren mit den
 primitivsten Mitteln hergestellt war, erkannte man hier im
 Innern nur zu deutlich. Ein elendes Bauernhaus, eine
-sogenanitte Male, konnte nicht jämmerlicher wissen.
+sogenannte Kate, konnte nicht jämmerlicher wirken.
 
-Der Fußboden aus gestampstem Lehm war rissig und
-holperig. Die Wände aus Tonziegeln nur roh abgeputt …
-
+Der Fußboden aus gestampftem Lehm war rissig und
+holperig. Die Wände aus Tonziegeln nur roh abgeputzt …
 Die Türen aus ungehobelten Brettern nur mit einer Wasserfarbe,
 ein Braunrot, gestrichen …
 
@@ -1272,11 +1273,11 @@ schauten …
 
 Man hat für Filmaufnahmen häufig zauberhaft schöne
 orientalische Gemächer aufgebaut, Filmregisseure haben
-einen phantastischen und doch erlesenen Geschmal be
-wiesen …
+einen phantastischen und doch erlesenen Geschmack bewiesen
+…
 
 So war es hier … Nur daß hier keines Filmmannes
-gesenkten Blick Farben sein abgetönt und orientalische
+geschulter Blick Farben fein abgetönt und orientalische
 Möbel mit Geschick zur Geltung gebracht hatte …
 
 Andere Augen hatten hier ein berückend farbenfrohes Bild
@@ -1285,55 +1286,54 @@ geschaffen …
 »Mein Werk …!« sagte Alice Cotton mit einem klingenden
 <@pagebreak/>
 Lachen, »Bitte, nehmen Sie Platz, meine Herren
-… tun erscheine Sofort wieder … Ich möchte wer
-bemerken, daß jeder Fluchtversuch aussichtslos ist …
+… Ich erscheine Sofort wieder … Ich möchte nur
+bemerken, daß jeder Fluchtversuch aussichtslos ist …«
 
 Sie ging …
 
-Und hinter einem golddurchwirkten Kaschmirvorhattg
-Pirat ein drang-Juli bringen, der in einer Art Livree steckte
-… Die Livree eines indischen Dieners aus begiüiertem
-Leute …
+Und hinter einem golddurchwirkten Kaschmirvorhang
+trat ein Orang-Kubu hervor, der in einer Art Livree steckte
+… Die Livree eines indischen Dieners aus begütertem
+Hause …
 
-Punktes zündete der kleine Teil, der gar nicht so über
-äüuSsaßh, mehrere Wandleuchter an …
+Lautlos zündete der kleine Kerl, der gar nicht so übel
+aussah, mehrere Wandleuchter an …
 
-Wir setzten uns nebencinamuer auf eine Ottomane …
+Wir setzten uns nebeneinander auf eine Ottomane …
 Sie war mit einem Tigerfell belegt … Neben der Ottomane
-Gestank sich an der Wand eine Wassendekoration, darunter
+befand sich an der Wand eine Waffendekoration, darunter
 auch zwei jener merkwürdigen chinesischen Rüstungen, die
-früher [so häufig noch Deutschland exportiert wurden und die
-das allerbeste genannte für chinesische Handsertig!riß ablegten
+früher so häufig nach Deutschland exportiert wurden und die
+das allerbeste Zeugnis für chinesische Handfertig ablegten
 …
 
-Die beiden- und Plattenpanzer mit Verschlossenen Helmen
-stiegen Harald kurze Zeit außerordentlich zu interessieren.
-Er schaute sie an … Ein hörte!Fakirs um seinen Mund …
+Die Ketten- und Plattenpanzer mit geschlossenen Helmen
+schienen Harald kurze Zeit außerordentlich zu interessieren.
+Er schaute sie an … Ein Lächeln glitt um seinen Mund …
 
-Dann trat der Diener wieder ein, stellte ein Elfenbein
-Tischen vor uns bin und kenterte uns Tee und allerlei kalte
-Speisen, die fraglos aus Konservenpüchien stammten …
+Dann trat der Diener wieder ein, stellte ein Elfenbeintischchen
+vor uns hin und servierte uns Tee und allerlei kalte
+Speisen, die fraglos aus Konservenbüchsen stammten …
 
-»im — sehr gastliche Aufnahme!« meinte Harald … +…
+»Hm — sehr gastliche Aufnahme!« meinte Harald …
 
-»Warten wir auf die Hans&8frau …«
+»Warten wir auf die Hausfrau …«
 
-Alice Toten kehrte nach etwa zehn Kinn?en zurück …
+Alice Cotton kehrte nach etwa zehn Minuten zurück …
 
-Jetzt Dame -… ganz Dame … In einem schlichten
-Gonöfleid ans bräunlicher Seide … Ganz modern peng«-
-gearbeitet, Dazu Lackschuhen, byurchbrocene Strümpfe …
+Jetzt Dame — ganz Dame … In einem schlichten
+Hauskleid aus bräunlicher Seide … Ganz modern
+gearbeitet … Dazu Lackschuhchen, durchbrochene Strümpfe …
 Die Finger voller kostbarer Ringe …
 
-Urwaldvilla … 1! — Jetzt oder war diese Bezeichnung
-
-berechtigt … Diese Frau erhob das Haus zu! Villa, mochte
+Urwaldvilla …!! — Jetzt aber war diese Bezeichnung
+berechtigt … Diese Frau erhob das Haus zur Villa, mochte
 sie auch eine Verbrecherin sein …
 
-Verbrecherin?! -… Und als mir dies durch den Kopf
-schob. da fragte ich mich, se immer noch auflauert: »Weshalb
+Verbrecherin?! — Und als mir dies durch den Kopf
+schoß, da fragte ich mich, sie immer noch anschauend: »Weshalb
 <@pagebreak/>
-verteidigt sie dieses Haus in so nachdrücklicher neues!
+verteidigt sie dieses Haus in so nachdrücklicher Weise?!
 Was gibt es hier zu verbergen?!«
 
 Sie setzte sich zu uns …
@@ -1342,7 +1342,7 @@ Mit einer reizenden Geste sagte sie:
 
 »Bitte — langen Sie zu, meine Herren …«
 
-Harald richtete sich. Straßen Zug …
+Harald richtete sich straffer auf …
 
 »Was ist aus der Besatzung meiner Prau geworden,
 Alice Cotton? Antworten Sie …!!«
@@ -1350,43 +1350,43 @@ Alice Cotton? Antworten Sie …!!«
 »In dem Kampf sind zwei Singhalesen und ein Malaie
 gefallen, Herr Harst … Die andern leben …«
 
-»Und — befinden sich was«
+»Und — befinden sich wo?«
 
-»Hier im Hause, Herr Harst … — Auch das sagte
+»Hier im Hause, Herr Harst …« — Auch das sagte
 sie im liebenswürdigen Plauderton …
 
-»Und — wozu brauchen Sie mich, Alice Cotton … k«
+»Und — wozu brauchen Sie mich, Alice Cotton …?«
 
-»Oh — vielleicht wäre es sogar für Sie ein zu starr
-dickes Unternehmen, Herr Harst … Ich habe …«
+»Oh — vielleicht wäre es sogar für Sie ein zu schwieriges
+Unternehmen, Herr Harst … Ich habe …«
 
-Und jetzt ging es diesem Weibe genau jv wie mir vorhin
+Und jetzt ging es diesem Weibe genau so wie mir vorhin
 auf dem Schoner. Ich hatte den Brief lesen wollen, den ich
-noch zusätraucngefnüllt in der Tasche trug. Alice Cotton
-hatte ebenfalls etwas außerordentlich Wichtiges uns Miß
-teilen wollen …
+noch zusammengeknüllt in der Tasche trug. Alice Cotton
+hatte ebenfalls etwas außerordentlich Wichtiges uns mitteilen
+wollen …
 
 Draußen plötzlich ein besonderer Pfiff …
 
-Draußen vor den dicht verhängten Verslein …
+Draußen vor den dicht verhängten Fenstern …
 
-wird dieser Pfiff ließ das Weib emporjahren … Sie
+Und dieser Pfiff ließ das Weib emporfahren … Sie
 wechselte die Farbe … Ein Ausdruck wilder Angst trat in
-ihre Züge … Und ebenso plötzlich; hob sie stehend die
+ihre Züge … Und ebenso plötzlich hob sie flehend die
 Hände …
 
-»Verbergen Sie sich … !“« staumnelte ie … »Verbergen
+»Verbergen Sie sich …!« stammelte sie … »Verbergen
 Sie sich irgendwo … Unter der Ottomane … Ich will
 versuchen, den … den Ankömmling noch ein paar Minuten
-draußen auszuhalten …«
+draußen aufzuhalten …«
 
 schon war sie hinaus …
 
 Harst schaute mich an … »Rätsel über Rätsel, mein
-Ellen … Unlösliche Rätsel … 1 Los denn … — Tote!
-die Ottomane … Wir werden dort gerade trat »den …«
+Alter … Unlösliche Rätsel …! Los denn … — unter
+die Ottomane … Wir werden dort gerade Platz haben …«
 
-zum hofften wir das Tigerfell und die« Scheibe
+Kaum hatten wir das Tigerfell und die seidene Decke
 <@pagebreak/>
 wieder zurechtgelegt, als auch schon die mißtönend kreischende
 Tür sich öffnete …
@@ -1396,20 +1396,20 @@ Stimmen …
 Eine tiefe Männerstimme:
 
 »du bist merkwürdig erregt, Alice …« — Das war
-kein Engländer trat der englischen Sprache …
+kein Engländer trotz der englischen Sprache …
 
 Alice Cotton lachte … »Bei einer solchen Überraschung
-soll ich gleichgültig bleiben, Sidar?k!!«
+soll ich gleichgültig bleiben, Sidar?!«
 
-Und … Harald, den Mund an meinem Ohr, flsisternd
-— honoriert: -
+Und … Harald, den Mund an meinem Ohr, flüsternd
+— hauchend:
 
-»Es ist Sidar Ma Tongi, der Sultan des Malaien-Kaantes
+»Es ist Sidar Ma Tongi, der Sultan des Malaienstaates
 Gadjanoor …«
 
 Er hatte mit der kleinen Klinge des Federmessers, das
-er nicht abgeliefert, ein Löchlein in die. Seidendecke gebohrt …
-Er sah den Mann …
+er nicht abgeliefert, ein Löchlein in die Seidendecke gebohrt …
+*Er* sah den Mann …
 
 Und ich mußte mich schon darauf verlassen, daß er sich
 nicht irrte …
@@ -1606,7 +1606,7 @@ Mönch kurzer Zeit bei Seite sei«9wbven hatte …! —
 
 Harald erwiderte rasch: »Dieses Versteck ist reichlich uv
 bequem, Alice Doktor … Bringen Sie uns andere was
-hin … Am besten in den Höblenkesler … Den wird der
+hin … Am besten in den Höhlenkeller … Den wird der
 Sultan kaum mehr betreten …«
 
 Sie war einverstanden …
@@ -1619,7 +1619,7 @@ Laterne und eine Schachtel Zündhölzer …
 
 Sperrte hinter uns wieder ab …
 
-So konnten wir den Höhlenkcller der Villa mit den vier
+So konnten wir den Höhlenkeller der Villa mit den vier
 Schornsteinen kennen …
 
 Und — — waren Überrascht über das, was wir fanden.
@@ -1673,7 +1673,7 @@ Harald senkte die Laterne schnell …
 Da schwieg die Bestie …
 
 Nur brummende Laute folgten uns beiden, die wir jetzt
-schleunigst in den Gang zwischen den Keltergelassen zurütk—traten,
+schleunigst in den Gang zwischen den Kellergelassen zurütk—traten,
 damit das Tier nicht nochmals einen Wutanfall des
 käme. Dieses Gebrüll mußte ja auch außerhalb des Hauses
 zu hören sein … —
@@ -1808,7 +1808,7 @@ wir oben die Kellertür …«
 Wir eilten davon …
 
 Wie Harald sich die Überwältigung der gefährlichen
-Bogenschüßen dachte, war mir unklar, zumal wir nicht ein
+Bogenschützen dachte, war mir unklar, zumal wir nicht ein
 mal unsere Pistolen hatten …
 
 <h2>2. Kapitel.</h2>
@@ -1904,7 +1904,7 @@ Knie sank der Orang-Kubu schwerfällig um …
 
 Jetzt stürmten auch die anderen kleinen Gesellen herbei
 … Ein Pfeilregen klatschte gegen die Tür, gegen die
-Kettenpanzerx, die WMetallhelme … — unschädlich …
+Kettenpanzerx, die Metallhelme … — unschädlich …
 
 Noch zwei Knieschüsse brachte Harald an …
 
@@ -2002,7 +2002,7 @@ Schlauester nennen soll …!«
 Alice Cotton lachte holend …
 
 »Schwester?f! Ob ich wohl! Wert darauf lege?! Was
-bist Du denn geworden?!? Frau eines Echmugglers, eines
+bist Du denn geworden?!? Frau eines Schmugglers, eines
 Betrügers!«
 
 »Schweig’ …!! Sweig’ …!! zu Bast ihn Ermorden
@@ -2183,7 +2183,7 @@ Alice Cotton kostete ihre höhnischen Blicke auf Harsts
 bezieht …
 
 »Nun — wo … ist der geräucherte Tote …?!!«
-»Weggeschafft … Reste des schwarz gestrichenen Holz-Jarges
+»Weggeschafft … Reste des schwarz gestrichenen Holz-Sarges
 fand ich in der oberen Küche unter dem Brennholz …
 Ich habe die Stücke zusammengesteckt … Sie stammen von
 einem Sarg … — Alice Cotton, wer war dieser Tote?«
@@ -2476,7 +2476,7 @@ Schädel, die wie die Lichter eines lauernden Wo
 Panthers waren …
 
 <@pagebreak/>
-Und — immer noch. die Pistole Harsts auf des Geheim-screibers
+Und — immer noch. die Pistole Harsts auf des Geheimschreibers
 Kopf ge: hier
 
 »Spricht der Halunke englisch? fragte Harald einen
@@ -2709,7 +2709,7 @@ Durch den Vordereingang verließen die beiden die Urwaldvilla
 und schritten dem Waldrande zu … —
 
 Es hat damals, im Dezember 1924, in allen Zeitungen
-gestanden: daß der Sultan von Südländer und sein Geheim-Ahreiber
+gestanden: daß der Sultan von Südländer und sein Geheim-Schreiben
 einem Attentat einer früheren Geliebten des Fürsten
 zum Opfer fielen …
 
@@ -2745,7 +2745,7 @@ Wir wie gespickt mit Glassplitterhen, …
 
 Ans Fenster-.
 
-Dort, wo die Bombe explodierte war, ein metertieses
+Dort, wo die Bombe explodierte war, ein metertiefes
 Loch …
 
 Von zwar und dem Geheimschreiber nichts — nichts …
@@ -2771,7 +2771,7 @@ Hat: Artisten …
 »wir trafen denn auch in Rücksicht hierauf allerlei Vor-Üremaßregeln,
 die sich nachher trefflich bewährten. So
 wurde schleunigst durch Dietrich und vier Singhalesen die
-Traum in den schilsumfkränzten See geschafft. Bei dieser
+Traum in den schilfumkränzten See geschafft. Bei dieser
 Gelegenheit entdeckte Lords Mann Dietrich hält am -Seeufer
 das Grab Pieter van Gartens, Frau Antje, hiervon in
 Kenntnis gesetzt, eilte sofort in Begleitung von Doktor Scholz
