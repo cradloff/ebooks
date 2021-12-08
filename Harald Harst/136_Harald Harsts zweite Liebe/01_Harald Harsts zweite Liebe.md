@@ -26,7 +26,7 @@ zum zweiten Male bis zu der Felszacke, dem Totenkopf und
 der Stahltrosse hinabsteigen wollte. —
 
 Der freundliche Leser merkt, daß ich jetzt hier die Lösung
-des Problems bringen werde von dem ich im vorigen Band
+des Problems bringen werde, von dem ich im vorigen Band
 die eine Frage offen ließ: Was war an der Stahltrosse, die
 in die Brandung hinabreichte, festgebunden?
 
@@ -142,7 +142,7 @@ berüchtigt sind, — dieser Perlen wegen kam es zwischen
 uns zu einem ernsten Streit. Ich setzte meinen Willen
 durch. Mein bisheriger Freund mußte mir schwören, daß
 auch er die Perlen nicht anrühren würde und daß es mit
-dem Diebstahl des Loses genug sein sollte. Ich vermutete,
+dem Diebstahl des Loses genug sein sollte. — Ich vermutete,
 daß die arabische Dschau von dem fernen Eigentümer
 gesucht werden würde. Deshalb auch dort an der Steilwand
 der Totenkopf und die Stahltrosse: Der Hai, der
@@ -159,11 +159,11 @@ Tiefe gegeben werden. — Wer wir beide sind, wird nie
 entdeckt werden. Dieser Küstenstrich dürfte kaum je besucht
 werden. Und der Eigentümer der gescheiterten Dschau
 mag, falls er diese Flasche findet, aus Dank gegen mich
-hierüber schweigen.«
+hierüber schweigen.« …
 
 <@pagebreak/>
-So lautete Hektor Randells merkwürdiges Bekenntnis
-und nun wußten wir auch, warum Jupp Palling ihn vergiftet
+So lautete Hektor Randells merkwürdiges Bekenntnis.
+Und nun wußten wir auch, warum Jupp Palling ihn vergiftet
 hatte und weshalb dieser hierher unterwegs gewesen:
 Palling hatte die Perlen holen wollen! — Und — — Palling
 war im Orkan ertrunken, wie Ellen Dagnaar uns mitgeteilt
@@ -206,7 +206,7 @@ Körper versteckt gewesen sein.
 und dem Toten mitgegeben hatte, ließ sich ebenfalls
 <@pagebreak/>
 aus den ganzen letzten Angaben im »Kokain-Klub« schließen.
-Ebenso daß Jupp Palling um dieser Perlen willen nach
+Ebenso, daß Jupp Palling um dieser Perlen willen nach
 Groß-Coco wollte. —
 
 Wenn also bei dem Problem eine Schwierigkeit zu überwinden
@@ -345,7 +345,7 @@ Frachtdampfer, und er hatte seine beiden Töchter mit an
 Bord … Als der Dampfer in Aden einen Teil seiner
 Ladung löschte, war Mary nach einer Gewitternacht nicht
 mehr zu finden. Zuletzt hatte ein Matrose sie um elf Uhr
-abends am Heck lehnen sehen … dann — — war sie
+abends am Heck lehnen sehen … Dann — — war sie
 eben spurlos verschwunden. Man glaubte, sie sei vom Blitz
 getroffen und ins Wasser geschleudert worden, denn ein
 Blitz traf das Heck des Dampfers … — Mein Freund
@@ -386,7 +386,7 @@ anderes, was ich nicht unterscheiden konnte …«
 Kreis … Die Farbe war nur sehr verschossen.
 Aber ein rotes Viereck und Halbmond stimmt …«
 
-»Nun ja. — Ob wir mal Miß Ellen fragen, ob sie
+»Nun ja … — Ob wir mal Miß Ellen fragen, ob sie
 nichts Näheres über die Absichten ihres Vaters weiß? —
 Deshalb wollte ich in Ruhe mit Ihnen reden, Herr Harst.
 — Ellen hat ihre Zwillingsschwester über alles geliebt.
@@ -457,7 +457,7 @@ vor Anker gehen wollten.
 
 Am neunten Abend nach unserer Ausreise erreichten wir
 das Vorgebirge Tamaska mit seinen buchtenreichen benachbarten
-Küstenstrichen. Dieser achteckige und völlig unfruchtbare
+Küstenstrichen. Dieser gebirgige und völlig unfruchtbare
 kleine Inselteil ist unbewohnt. Sokotra hat bei 3500
 Quadratkilometer Größe rund zehntausend Einwohner, ist
 also sehr dünn besiedelt.
@@ -500,7 +500,7 @@ und Harald hatte soeben die drei Likörgläser gefüllt, als
 irgendwoher von Land ein merkwürdig lauter und doch
 schwer bestimmbarer Schrei bis zu uns in die kleine Kajüte
 drang. Die Tür nach dem Treppenniedergang stand weit
-offen und der Treppenschacht wirkte gleichsam als Schallverstärker
+offen, und der Treppenschacht wirkte gleichsam als Schallverstärker
 …
 
 Der Schrei setzte ganz leise ein, schwoll an, behielt sekundenlang
@@ -522,7 +522,7 @@ Atiru, der ältere, fiel fast vor Harald auf die Knie.
 »Tuwan (Herr), wir müssen fliehen!« stammelte er …
 »Tuwan, mein Bruder und ich sind nicht zum ersten Male
 auf Sokotra … Tuwan, wir waren zwei Wochen in
-Tamrida … Alle Sokotraer fürchten den Herrn der
+Tamrida … Alle Sokotraer fürchten den Herrn des
 Dschebel Hagier (höchster Berg der Insel, war in der Ferne
 nach Süden zu im Mondlicht zu erkennen) … Wenn der
 Herr des Dschebel Hagier durch die Insel fliegt, verkriecht
@@ -536,7 +536,7 @@ zu hören …«
 
 Er wollte noch mehr hinzufügen, der brave, abergläubische
 Bursche … Doch schon von neuem setzte jener merkwürdige
-Ton ein … Und jetzt horchte ich genauer hin.
+Ton ein … Und jetzt horchte ich genauer hin:
 Es klang in der Tat wie ein Schrei aus der Kehle eines
 Riesen — wie ein Wutgebrüll … Und doch war auch
 etwas Unheimliches, Unirdisches dabei, besonders wenn die
@@ -607,7 +607,7 @@ werden, weil Sokotra doch schließlich nicht allzu ausgedehnt
 ist und weil der englische Resident in Tamrida sich längst
 der Sache angenommen hätte?! — Nun, wir werden morgen
 in Tamrida sein, und wir haben nun auch einen guten
-Grund, Lord Teepool, den Postbeamten, in aller Stille zu besuchen
+Grund, Lord Teepool, den Residenten, in aller Stille zu besuchen
 …« —
 
 John Trolby war neben uns erschienen …
@@ -680,13 +680,13 @@ Dann war das Boot schon hinter einem Felsvorsprung
 im Schatten verschwunden …
 
 »Sie hat uns nicht bemerkt,« flüsterte der Malaie.
-»Sollen wir nicht Tuwan Harst wecken? Es ist hier nicht
+»Wollen wir nicht Tuwan Harst wecken? Es ist hier nicht
 geheuer …«
 
 Ich überlegte …
 
 Das Auftauchen des kleinen Bootes machte auch mich
-stutzig. Doch — deshalb Harald die Nachtruhe rauben?
+stutzig. Doch — deshalb Harald die Nachtruhe rauben?!
 Nein — ich plante anderes … —
 
 Und sagte zu Atiru: »Der Mond wird bald vollständig
@@ -927,7 +927,7 @@ Atiru verschwand …
 
 Und ich — ebenso erstaunt:
 
-»Harald, wo warst Du!«
+»Harald, wo warst Du?!«
 
 »Ebenfalls in der Grotte, mein Alter … — Ich konnte
 nicht einschlafen. Der Herr des Dschebel Hagier beschäftigte
@@ -1022,6 +1022,7 @@ Er schwang sich jetzt auf den Felsblock hinauf …
 »Gib mir eine der Laternen …«
 
 Ich reichte sie ihm … Und er beleuchtete das Gestein.
+
 »Das ist Quarz … Viele Glimmerablagerungen
 darin …«
 
@@ -1029,7 +1030,7 @@ Und leise: »Der Stein ist hohl … Hier unter meinen
 Füßen bewegt sich ein Teil der Oberschicht … Ein Deckel
 aus Fels …«
 
-Dann — wieder Komödie!
+Dann — wieder Komödie:
 
 »Doktor, der Fels wackelt …! Was bedeutet das?!«
 
@@ -1252,7 +1253,7 @@ von dem nach rechts hin ein breiter Felsgrat wie ein Pfad
 nach unten in die Schlucht lief.
 
 Hier in der Schlucht ließen wir das Boot zurück und
-erklommen die Uferberge der Bucht<@refnote 1/>, sahen nun zu unserer
+erklommen die Uferhöhen der Bucht<@refnote 1/>, sahen nun zu unserer
 Beruhigung die Atlantis noch am selben Fleck ankern und
 an Deck unseren Freund Trolby im Gespräch mit den
 Malaien.
@@ -1285,7 +1286,7 @@ Bogen sehr teuren Leinenpapiers …
 Harald sehr gedehnt. »Und hier steht:
 
 »Herr Harst, retten Sie mich! Ich liebe Sie! Ich
-bin Ihre zweite große Liebe …«
+bin Ihre zweite große Liebe …««
 
 Der brave Trolby machte ein unglaubliches Gesicht …
 

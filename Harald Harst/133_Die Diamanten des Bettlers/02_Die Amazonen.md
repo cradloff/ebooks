@@ -124,7 +124,7 @@ Ein Benzinfeuerzeug …
 Harst ließ unter der nächsten Laterne, der zweiten und
 letzten dieser Gasse der Finsternis, den Deckel aufspringen.
 
-Ich wußte noch immer nicht, was er von Bodos’ Verbrecherschlauheit
+Ich wußte noch immer nicht, was er von Bodos Verbrecherschlauheit
 erwartete. Nun — — sah ich es: innen
 im Deckel lag ein ganz schmaler, vielfach zusammengekniffter
 Zettel!
@@ -151,7 +151,7 @@ schienen. Ick pendelte hinterdrein, und die eene jing bis
 nach ’n Wilhelmplatz, wo sie in Nr. 16 verschwand. Die
 andre walzte nach die Charlottenstraße 102, und auch sie
 hatte zu disses Haus ’n Schlüssel. Nu, wo ick nach ’n
-Cafee Olymp will, merk’ ich, daß mir ’n Benzinstänker
+Cafee Olymp will, merk’ ick, daß mir ’n Benzinstänker
 immer nachjondelt … Wir sind helle! Ich denk’, Sie
 beede werden vor’n Olymp uff mir lauern. — Bodo
 Jüllich, jenannt der schöne Bodo …«
@@ -185,7 +185,7 @@ eine weibliche Stimme, die des Büfettfräuleins:
 »Ja — es sind die Richtigen …«
 
 Man ließ uns ein … Und wenige Minuten später
-saßen wir in einem geheimen Kellerraum unter dem Caffee,
+saßen wir in einem geheimen Kellerraum unter dem Cafee,
 der vollständig als Schenke und Spielhölle eingerichtet war.
 
 Um uns herum am langen Tisch ein Dutzend dunkle
@@ -256,7 +256,7 @@ Ich — — war hundemüde. Die letzten Tage hatten
 wieder Anforderungen an unsere geistige und körperliche
 Spannkraft gestellt, denen ich nicht mehr gewachsen war.
 Harald freilich schien noch immer frisch und rege zu sein wie
-stets …
+stets.
 
 Ich gähnte verstohlen …
 
@@ -304,7 +304,7 @@ Morgens sieben Uhr war es jetzt …
 »Schwarzen Kaffee — schleunigst!« rief Harald der
 Dicken zu …
 
-Dann standen in wir in seinem Arbeitszimmer Jean Ahmed
+Dann standen wir in seinem Arbeitszimmer Jean Ahmed
 Bissu gegenüber …
 
 <h2>2. Kapitel.</h2>
@@ -346,7 +346,7 @@ wurde wieder Mensch.
 
 Nochmals fragte Harald …
 
-»Es *muß* einen Hinweis auf den Verrat Ihres Geheimnisse
+»Es *muß* einen Hinweis auf den Verrat Ihres Geheimnisses
 geben,« sagte er zu Bissu. »Strengen Sie Ihr Hirn
 an … Durchwühlen Sie Ihr Gedächtnis nach jeder
 Kleinigkeit …«
@@ -385,7 +385,7 @@ Platz genommen hatten?«
 
 »Nun, dann wollte diese als ältere Frau verkleidete Verbrecherin
 lediglich feststellen, ob Sie noch Juwelen bei sich
-hatten … Und dies ersah sie daraus, daß Sie, lieber
+hätten … Und dies ersah sie daraus, daß Sie, lieber
 Bissu, eben die Toilette aufsuchten. Die Diebin wußte jetzt:
 Sie trugen die Juwelen in einem Versteck Ihrer Kleider,
 das Sie im Lokal selbst nicht öffnen konnten — — also eingenäht.«
@@ -444,7 +444,7 @@ im Nacken. Ich reimte mir leicht zusammen, daß er
 im Pensionat v. Keller jetzt abgestiegen war — natürlich
 zweckentsprechend verwandelt. Er hatte sich wahrscheinlich
 erst bei unserem Freunde, dem Kriminalkommissar Fritz
-Bechert maskiert, denn sowohl seine Mutter als auch
+Bechert, maskiert, denn sowohl seine Mutter als auch
 Mathilde betonten, daß er als gewöhnlicher Sterblicher, als
 Harald Harst, gegen acht Uhr davongegangen sei.
 
@@ -627,10 +627,10 @@ Ich berichtete den Rest …
 Da nickten die fünf sich zu … Und der, der meinen
 Skalp in der Hand hatte, reichte ihn mir zurück …
 
-»Da — nehmen Sie man, Herr Schraut … Wir glauben
+»Da — nehmen Sie man, Herr Schraut … Wir jlauben
 Ihnen … Sie und Herr Harst sind ja als Schentelmen-Detektive
 bekannt und ooch dafor, daß Sie een Herz for
-unsereiner haben …«
+unsereinen haben …«
 
 *Das* war der Friedensschluß …
 
@@ -659,7 +659,7 @@ wie die Weiterentwicklung der Dinge zeigte. —
 
 Bis gegen vier Uhr blieben wir in dem geheimen Kellerraum
 zusammen. Dann verschwand ich durch eine Hintertür
-des Hauses, die auf einen Nebenhof führt. So gut es
+des Hauses, die auf einen Nebenhof führte. So gut es
 ging hatte ich mein Äußeres verändert. Einer der »Kollegen«
 beschaffte einen blonden dicken Schnurrbart, der mir
 denn auch zusammen mit einem biederen Nickelkneifer das
@@ -844,7 +844,7 @@ Ganz lautlos, mit äußerster Behutsamkeit, drückte er die
 Tür auf …
 
 Sie war gut geölt … Und — ein Blick in den Laden
-hinein … ein Blick aus geradezu gierigen Augen …,
+hinein …, ein Blick aus geradezu gierigen Augen …,
 die mir gehörten …
 
 Ein Ladentisch … Dahinter ein Kerl mit einem
@@ -904,10 +904,10 @@ Harst hatte die Handschellen schon bereit …
 
 Ein metallisches Knacken …
 
-Und — ein tieferes Schluchzen stieg da aus der Kehle
+Und — ein trockenes Schluchzen stieg da aus der Kehle
 des Weibes hoch …
 
-»Ver-spielt!« lallte sie …
+»Ver — spielt!« lallte sie …
 
 Ich dachte, es müßte Eva sein …
 
@@ -1111,7 +1111,7 @@ so tuend, als sei es mir unmöglich, mich zu bewegen. —
 Nun — all das war nicht nötig. Ich humpelte weiter …
 Und aus sicherer Entfernung beobachtete ich wieder, wie der
 Bettler davonschlurfte. Ich zurück — zum Portier jenes
-Hauses … mich legitimiert … Und dann — hatte ich
+Hauses … Mich legitimiert … Und dann — hatte ich
 den Zettel … — Rate, was darauf zu lesen war?«
 
 Ich zuckte die Achseln …
@@ -1123,7 +1123,7 @@ Klosterstraße 14, erst abends — nur wenig. Morgen wie
 heute.
 
 <@pagebreak/>
-Das stand auf dem Zettel … Und das hieß fraglos:
+*Das* stand auf dem Zettel … Und das hieß fraglos:
 
 > Wir müssen schleunigst aus Berlin fliehen. Gehe abends
 zu Gremzig, versetze oder verkaufe aber nur einen Teil
@@ -1150,7 +1150,7 @@ feststellen, ob etwa Bodo Jüllich erkannt worden sei …«
 »Wir ließen sie ruhig erst mit einem der Beamten dort
 sprechen … Sie tat so, als ob sie als Fremde lediglich
 aus allgemeinem Interesse, also Sensationsbedürfnis, das
-Schauhaus besuchte. Ich stand in der Nähe … vor der
+Schauhaus besuchte. Ich stand in der Nähe … Vor der
 Abteilung, in der der arme Bodo lag, machte sie wieder halt.
 — »Wer ist das?« — »Ein Maler, der in seinem Atelier
 verbrannt ist …« — — Und da, da — griffen wir zu …
@@ -1165,7 +1165,7 @@ aus ihrem Munde besagte ja auch genug: Zyankali!
 fuhren nach dem Wilhelmplatz zurück, wo wir auch das
 Testament fanden. Es war eine Niederschrift vom Juni
 <@pagebreak/>
-diese Jahres. Eva Larda wünscht im Falle ihres Todes
+dieses Jahres. Eva Larda wünscht im Falle ihres Todes
 eingeäschert zu werden. Sie hat die Beerdigungskosten von
 ihrem Verdienst bei der Firma zusammengespart, für die sie
 als Zeichnerin tätig war — also ehrlich erworbenes Geld.
@@ -1316,6 +1316,7 @@ Wir springen aus dem Auto …
 
 Harst läuft wie gehetzt durch das Tor — nach rechts …
 Und …: um eine halbe Minute kamen wir zu spät …
+
 Lehnten an der Tür der Halle …
 
 Harald trocknete den Schweiß von der Stirn …

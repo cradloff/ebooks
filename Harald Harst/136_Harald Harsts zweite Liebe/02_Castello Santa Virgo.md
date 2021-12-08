@@ -105,7 +105,7 @@ annehmen, ich wollte Sie ein wenig aufziehen …«
 Zigaretten und trägt diese zum Teil in der Brieftasche
 … Wenn Sie die Rückseite des Papiers genau betrachten,
 erkennen Sie drei gelbliche Striche … Und die
-rühren von Zigaretten her, die sich an das Papier gedrückt
+rühren von Zigaretten her, die eng an das Papier gedrückt
 in der Brieftasche längere Zeit lagen. Und wenn Sie den
 halben Bogen an die Nase führen, riechen Sie auch den
 Zigarettentabak, dessen Duft dem Papier anhaftet …«
@@ -122,7 +122,7 @@ Männliches …«
 »Davon verstehe ich nichts,« meinte Trolby ehrlich. »Aber
 — mag sein …!«
 
-»Und der Schreiber dieser Zeile und der Überbringer
+»Und der Schreiber dieser Zeilen und der Überbringer
 sind ein und dieselbe Person, ein Mann, der fraglos uns
 in der Nacht hier an Deck belauscht hat, der also zur Atlantis
 hinüberschwamm, um zu spionieren. So nur kann er gehört
@@ -299,7 +299,7 @@ ankere.«
 Ich saß neben Harst. Ich sah auf den ersten Blick, daß der
 Zettel die andere Hälfte des Briefbogens war, der mit den
 Zigaretten so innig vereint in einer Brieftasche gelegen haben
-mußte …
+mußte.
 
 Die Aufschrift war englisch, die Handschrift verstellt …
 
@@ -410,7 +410,7 @@ Tamrida melden. Ich hoffe, die Summe verdienen zu
 können.«
 
 Hiermit war der hohe Besuch beendet. Die Herren fuhren
-wieder davon …
+wieder davon.
 
 Als ihr Kutter verschwunden war, meinte unser John
 Trolby grinsend:
@@ -431,7 +431,7 @@ merkwürdiger, daß der durch den Stein beförderte zweite
 Zettel Mary Dagnaars Namen als Unterschrift trägt. Ich
 sehe da noch nicht völlig klar …«
 
-»Oho! Noch nicht völlig klar! — Was heißt das?!
+»Oho! Noch nicht völlig klar!! — Was heißt das?!
 Also — etwas ahnen Sie doch schon?«
 
 »Gewiß, lieber Trolby … Und deshalb werde ich mit
@@ -442,7 +442,7 @@ Besuch abstatten …«
 komme ich mit …«
 
 »Das geht nicht, bester John. Sie müssen die Atlantis
-bewachen … — schneiden Sie kein so wütendes Gesicht …
+bewachen … — Schneiden Sie kein so wütendes Gesicht …
 Bedenken Sie, daß unsere Malaien doch das Beiboot noch
 aus der Schlucht holen müssen. Das wird Stunden beanspruchen.
 Soll die Atlantis derweil ganz ohne Schutz
@@ -556,7 +556,7 @@ Dann nahm er sein Feuerzeug, verbrannte den Zettel …
 
 *So* begann unsere Visite bei Ethel Boeter — recht vielversprechend.
 
-Eine Viertelstunde später hatten wir das uralte Bollwerk
+Eine Viertelstunde später hatten wir das uralte Bauwerk
 dicht vor uns. — Mächtige, wenn auch verfallene Steinmauern
 umgaben das Kastell. Die Mauerwinkel wurden
 durch plumpe, runde Türme gebildet. Von dem Hause selbst
@@ -576,7 +576,7 @@ Bevor Harald jedoch die Glocke in Bewegung setzte, sagte
 er leise:
 
 »Sahst Du hinter den Gittern des einen Fensters des
-westlichsten Eckturmes die blonde Frau? Sie rührte sich nicht.
+westlichen Eckturmes die blonde Frau? Sie rührte sich nicht.
 Eine sehr verdächtige Unbeweglichkeit …«
 
 Und ich erwiderte: »Es ist dasselbe Fenster, das wir
@@ -604,7 +604,7 @@ Paar graue Augen musterten uns durchdringend …
 »Sie wünschen, meine Herrn?« fragte sie dann auf
 englisch …
 
-Wir grüßten, Harst erklärte …
+Wir grüßten. Harst erklärte …
 
 »Nicht wahr, ich habe die Ehre, Miß Boeter vor mir zu
 sehen …? — Der Polizeidirektor aus Tamrida und einige
@@ -619,6 +619,7 @@ nachspüren, Miß Boeter … ich will später dasselbe tun.«
 
 »Ich weiß … — Und Sie möchten mich mancherlei
 fragen, Herr Harst … Bitte, läuten Sie nochmals …«
+
 Sie ließ das Dromedar niederknien und glitt aus dem
 Sattel …
 
@@ -632,7 +633,7 @@ Herren …«
 
 Als das schwere alte Balkentor hinter uns zuschlug, da
 war es mir genau so, als ob es die Tür eines — Hinrichtungsraumes
-gewesen …
+gewesen … —
 
 Der Neger führte das Dromedar. Miß Boeter ging
 zwischen uns — einen gut gepflegten Weg hinab, bis ein
@@ -699,7 +700,7 @@ gegenüber in Korbsessel.
 
 Seltsam: sie lächelte noch immer. Aber dieses Lächeln
 erschien mir jetzt rätselvoll und fast verträumt. Ihre Augen
-ruhten erst auf Harald …
+ruhten fest auf Harald …
 
 Und dann sagte sie leise:
 
@@ -737,7 +738,7 @@ Und hier — — ein Atelier, ein Wunder von Geschmack,
 ein Museum kostbarster arabischer Altertümer …
 
 Fünf Staffeleien standen umher, hell beleuchtet durch das
-dem Garten zu in die Mauer neu eingefügte Riesenfenster
+nach dem Garten zu in die Mauer neu eingefügte Riesenfenster
 …
 
 Und dicht vor einem der alten vergitterten Fensterchen
@@ -797,7 +798,7 @@ Ethel Boeter trat mit einem Male dicht vor Harald hin.
 denn noch nicht ein?! Was wollen Sie?! Weshalb fragten
 Sie den Polizeidirektor nach mir aus?! Weshalb scheuten
 Sie sich, das Kastell zu betreten?! Glauben Sie etwa, daß
-ich der Geist des Dschebel Hagier bin?!«
+*ich* der Geist des Dschebel Hagier bin?!«
 
 Harald schüttelte den Kopf.
 
@@ -939,15 +940,15 @@ Und wandte sich Garbatter wieder zu …
 »Ich?! Keine Ahnung …!«
 
 »Vielleicht borgen Sie mir mal Ihren Füllfederhalter,
-Kollege!« lachte Harald. »Vielleicht schreiben Sie mir
+Kollege!« lachte Harald. »Vielleicht schreiben Sie mir noch
 mehr Liebeserklärungen …! Sie duften geradezu nach englischen
 Zigaretten, Sie … Neger mit dem Schönheitsfleck!
 Als Sie heute früh die Ufersteilwand hochkletterten, verschob
 sich Ihr rechter Ärmel bis zum Ellbogen … Und da kam
 der Schönheitsfleck zum Vorschein — die weiße Haut …
 Sie hatten Hand und Handgelenk nicht weit genug gefärbt,
-Kollege. — Sie sind Detektivinspektor Steward
-Garbatter aus London …«
+Kollege … — Sie sind Detektivinspektor Steward
+Garbatter aus London …!«
 
 Da lachte auch der kleine Herr, gab Harald die Hand …
 
@@ -1083,7 +1084,7 @@ hervor. Es waren geteerte Hanfleinen von bester Arbeit.
 
 Der Mond leuchtete uns, wie wir nun hier oben gleich
 Gespenstern hin und her huschten, nach Möglichkeit uns
-zusammenduckend, damit mit von unten aus dem Kastell nicht
+zusammenduckend, damit wir von unten aus dem Kastell nicht
 etwa bemerkt würden. Freilich — die Entfernung betrug
 bis dorthin wohl gut dreitausend Meter.
 
@@ -1092,7 +1093,7 @@ Harst prüfte die Taue sehr sorgfältig.
 »Es wäre ja möglich, daß jemand sie zur Hälfte durchschnitten
 hätte …«
 
-Dann knotete er sie zusammen und gab den Kollegen
+Dann knotete er sie zusammen und gab dem Kollegen
 und mir genaue Anweisungen. Nachher legte er sich an verschiedenen
 <@pagebreak/>
 Stellen der Länge nach am Rande der Steilwand
@@ -1185,7 +1186,7 @@ Sofort hatte auch der heulende Ton begonnen …
 Ein Getöse, daß uns die Ohren gellten …
 
 Kein Wunder, daß diese Töne meilenweit vom Winde
-fortgetragen wurden …
+fortgetragen wurden … —
 
 Harst zog mich mit sich fort … Die Höhle dehnte sich
 schräg ansteigend viele hundert Meter aus, öffnete sich
@@ -1224,7 +1225,7 @@ Wieder ein Anschleichen, das selbst ein berühmter Komanchenhäuptling
 nicht besser hätte machen können …
 
 Und über uns, die wir uns durch das Geröll auf den
-Westturm vorwärtstrieben, immer noch die gewaltige
+Westturm vorwärtschoben, immer noch die gewaltige
 Stimme des Geistes — wie eine Fanfare des Himmels —
 wie etwas Unirdisches …
 
@@ -1271,7 +1272,7 @@ Sahen nichts, hörten nur …
 Sahen doch etwas: da vor uns ein Gesicht unter den
 Eisenstäben … einen blonden Mädchenkopf …
 
-Mary Dagnaar, — — glaubten wir …!
+Mary Dagnaar, — — glaubten wir …!!
 
 Weiter — — Schritt für Schritt …
 
