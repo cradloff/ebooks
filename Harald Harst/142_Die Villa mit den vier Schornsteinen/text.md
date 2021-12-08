@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-Die Villa mit den vier Schornsteinen
+<h1>Die Villa mit den vier Schornsteinen</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Was Fritz Nachschlüssel erzählte …</h3>
@@ -1425,43 +1425,43 @@ Fürst hier für seine Geliebte erbaut hatte …!
 Vielleicht …!!
 <@pagebreak 33/>
 
-Der Orang-Utan des Sultans.
-1\. Kapitel.
-Die Schlucht unter der Villa.
+<h1>Der Orang-Utan des Sultans</h1>
+<h2>1. Kapitel.</h2>
+<h3>Die Schlucht unter der Villa.</h3>
 
-Wir unter der Oitöomane.
+Wir unter der Ottomane.
 
 Und als gefährlicheren Gegner jetzt den mächtigsten der
-zialalischen Vasaltensürsiten Sumatras …
+malaiischen Vasallenfürsten Sumatras …
 
-Sidar Ma Tongi war weit öden die Grenzen yx5 Suns-dbaarchipels
+Sidar Ma Tongi war weit über die Grenzen des Sundaarchipels
 und Indiens hinaus bekannt. Der reichste Mann
-Sumatras, hieß es von ihm … Und der jelbstvewußteste,
-brutiälste … dem Namen nach ein Vasall der Holländer —
-nur denn: Namen nach … Niemand wagte ihm in seine
-Tespotenlaunen hinemzureden. Letztens noch hatte in indischen
-Zeitungen ein zwangen Artikel. über ihn gestanden …«
-GC: hatte da zwei jeiner’ Hofbeamten hinrichten lassen …
-Sir sollten Tigern und Panthern zum Fraße vorgeworfen
-ahnen sein … Eine Untersuchtng verlief im Bande …
+Sumatras, hieß es von ihm … Und der selbstbewußteste,
+brutalste … dem Namen nach ein Vasall der Holländer —
+nur dem Namen nach … Niemand wagte ihm in seine
+Despotenlaunen hineinzureden. Letztens noch hatte in indischen
+Zeitungen ein langer Artikel über ihn gestanden …
+Er hatte da zwei seiner Hofbeamten hinrichten lassen …
+Sie sollten Tigern und Panthern zum Fraße vorgeworfen
+worden sein … Eine Untersuchung verlief im Sande …
 
-Auch Bilder von diesem zwar hatte das Kalkutta-Magen
+Auch Bilder von diesem Sidar hatte das Kalkutta-Magazin
 veröffentlicht. Nach diesen Bildern war Sidar Ma
-4m ein Farbiger mit einem Gesicht, in dem die wildesten
-He sich ausprägten …
+Tongi ein Farbiger mit einem Gesicht, in dem die wildesten
+Instinkte sich ausprägten …
 
-Grade uns Gott, dachte im, wenn dieser Tyrann uns
-hier befindet … 1! —
+Gnade uns Gott, dachte ich, wenn dieser Tyrann uns
+hier befindet …!! —
 
-All das schoß mir es in Sekunden durch den Kopf …
+All das schoß mir so in Sekunden durch den Kopf …
 
-Satanischen hatte Alice Cotton schon mit solchen
-Munterer Stimmte grinst:
+Inzwischen hatte Alice Cotton schon mit forciert
+munterer Stimmte gesagt:
 
-»Geben wir As Nebenzimmer, Stopft … Hier ist seit
-Wochen nicht gelüftet … Die Luft erstickt mich …
+»Gehen wir ins Nebenzimmer, Sidar … Hier ist seit
+Wochen nicht gelüftet … Die Luft erstickt mich …«
 
-Was der Sultan antwortete, konnte ich nicht 2. verstehen.
+Was der Sultan antwortete, konnte ich nicht mehr verstehen.
 <@pagebreak/>
 Der Vorhang zum Nebenraum war hinter den beiden
 zugefallen.
@@ -1469,7 +1469,7 @@ zugefallen.
 Ich atmete auf …
 
 Aber … Harald flüsterte: »Schade, nun entgeht uns
-vieles …«
+Vieles …«
 
 Und zu meinem Entsetzen kroch er unter der Ottomane
 hervor und auf den Türvorhang zu …
@@ -1485,41 +1485,41 @@ und ich gesellte mich zu ihm. Die Gefahr, hier erwischt zu
 werden, blieb sich gleich, ob einer oder zwei Männer
 lauschten …
 
-Ob — es gab allerlei zu erlauschen …
+Oh — es gab allerlei zu erlauschen …
 
 Alice Cotton bot dem Sultan eine Erfrischung an …
 
-»Was wünschest Du, Sidar …?k«
+»Was wünschest Du, Sidar …?«
 
 »Nichts, Alice, ich habe es eilig … Was machen die
 Gefangenen?«
 
-»Sie sind sicher ausgehoben …«
+»Sie sind sicher aufgehoben …«
 
 »Und der Orang-Utan?«
 
 »Ihm bekommt der dunkle Käfig ganz gut, Sidar …«
 
-»Ich wollte Dich ermahnen, doch) ja wachsam zu sein,
+»Ich wollte Dich ermahnen, doch ja wachsam zu sein,
 Alice,« erklärte der Sultan mit einer Stimme, die sorgenvoll
-klang … »Es treiben sich da in Paämelang (das war
-die Residenz des Despoten, die hoch in den Tanne-Bergen
+klang … »Es treiben sich da in Pamelang (das war
+die Residenz des Despoten, die hoch in den Gawur-Bergen
 liegt) ein paar Holländer herum, fraglos Spione der Kolonialregierung
 … Ich fühle mich dadurch beunruhigt. die
 Leute sind Überaus vorsichtig. Drei Anschläge sind schon
 mißglückt …«
 
-»Du Nichts Gespenster, Sidar …!« lachte Miß Cotton …
+»Du siehst Gespenster, Sidar …!« lachte Miß Cotton …
 »Was können denn auch ein paar Regierungsdetektive erreichen?!
 Dieses Haus hier ist eine Festung, weil es so
 mitten im Urwald liegt … — Habe keine Angst, nicht einer
 der Gefangenen entwischt mir …«
 
 <@pagebreak/>
-»An dem Orang-Utan« liegt mir am meisten, Alice …
-Das weißt Du … —« Ist denn hier etwas geschehen?
+»An dem Orang-Utan liegt mir am meisten, Alice …
+Das weißt Du … — Ist denn hier etwas geschehen?«
 
-»Meine Leibgarde t hat eine Prau geentert, Sidar …
+»Meine Leibgarde hat eine Prau geentert, Sidar …
 Diese Räuberstückchen sind den kleinen Schurken ja leider
 nicht abzugewöhnen …
 
@@ -1531,24 +1531,24 @@ so lange ich hier zu befehlen habe … — Eine Frage, die
 ich schon oft an Dich gerichtet habe: weshalb hältst Du den
 Riesenaffen hier mit gefangen?!«
 
-»Laß das, …! Die Zeiten sind vorbei, Alice, wo ich
-Dir alles anvertraute … - Ich bin argwöhnisch geworden …
-Und länger die ein Jahr fesselt mich keine Frau …«
+»Laß das …! Die Zeiten sind vorbei, Alice, wo ich
+Dir alles anvertraute … Ich bin argwöhnisch geworden …
+Und länger als ein Jahr fesselt mich keine Frau …«
 
 »Bitte — es waren nur zehn Monate, Sidar …! Doch
-…- darüber bin ich längst hinweg … längst! Ich bin nur
-sich Deine Kameradin, — und auf »mich ist Verlaß!«
+— darüber bin ich längst hinweg … längst! Ich bin nur
+noch Deine Kameradin, — und auf mich ist Verlaß!«
 
 »Ja — das sagst Du, Alice …! Das behauptet jedes
-Weib; … Weit natürlicher wäre es, wenn Du mich glühend
-Hassen würdest …! — Ich will jetzt in die Höhle hinab …
-Niemand begleite! mich … 1« Und dies sprach er [so - drohend,
+Weib … Weit natürlicher wäre es, wenn Du mich glühend
+hassen würdest …! — Ich will jetzt in die Höhle hinab …
+Niemand begleitet mich …!« Und dies sprach er so drohend,
 daß wohl jedem die Luft vergangen wäre ihm zu folgen …
 
-»Bitte —« hier sind die Schlüssel …«
+»Bitte — hier sind die Schlüssel …«
 
-und als Alice Cotton diese Worte recht laut rief (trug
-los um uns zu warnen], da 309g Harald mich rasch nach der
+und als Alice Cotton diese Worte recht laut rief (fraglos
+um uns zu warnen), da zog Harald mich rasch nach der
 Ottomane hin …
 
 Im Nu waren wir unter dem Ruhebett verschwunden …
@@ -1571,55 +1571,55 @@ Das Tigerfell und die Seidendecke wurden gelüftet …
 Alice flüsterte:
 
 <@pagebreak/>
-»Bleiben Sie, wo Sie sind … 1 Und Banken Sie wem
-Schöpfer, daß ich Ihre Anwesenheit verheimlichen Worte …
+»Bleiben Sie, wo Sie sind …! Und danken Sie Ihrem
+Schöpfer, daß ich Ihre Anwesenheit verheimlichen konnte …
 — Wir sprechen uns nachher …« —
 
-John Minuten der Wochen …
+Zehn Minuten verstrichen …
 
-Dann kehrte der klar zurück …
+Dann kehrte der Sultan zurück …
 
-dreimal blieb er mit Miß Cotton hier im Zimmer …
+Diesmal blieb er mit Miß Cotton hier im Zimmer …
 
-»Erledigt!« jagte er … »Lebe wohl, Alice … »Ich
-habe noch zwei Stunden Marsch bis an Bucht, wo mein
-Motorkutter liegt … je wohl … Und -. nochmals:
-läßt Du einen der drei entschlüpfen, ja …«
+»Erledigt!« sagte er … »Lebe wohl, Alice … »Ich
+habe noch zwei Stunden Marsch bis zur Bucht, wo mein
+Motorkutter liegt … Leb’ wohl …! Und — nochmals:
+läßt Du einen der drei entschlüpfen, so …«
 
-Und dieses »so« war eine brutale Drehbar …
+Und dieses »so« war eine brutale Drohung …
 
-Dann klappte aber mal? die Tür. Miß Co wo war mit
+Dann klappte abermals die Tür. Miß Cotton war mit
 hinausgegangen …
 
 Sie erschien nach wenigen Minuten …
 
-»bleiben Sie noch, wo Sie sind,« sagte He halblaut.
-»Ja habe dem Sultan ein paar Orang-Kubu nöchgeschiet,
-damit ich rechtzeitig gewarnt werde, falls er umhüllt …
+»bleiben Sie noch, wo Sie sind,« sagte sie halblaut.
+»Ich habe dem Sultan ein paar Orang-Kubu nachgeschickt,
+damit ich rechtzeitig gewarnt werde, falls er umkehrt …
 Zuzutrauen ist ihm alles, dem … dem lächerlichen farbigen
 Herrn mit seinen verrückten Geheimnissen …
 
 Ah — diese Sätze — — das war Haß, besinnungsloser
-Haß …! Also hatte der Sultan wo) richtig vermutet!
+Haß …! Also hatte der Sultan doch richtig vermutet:
 Alice Hatte es ihm nicht vergessen, daß er sie als seine Geliebte
-Mönch kurzer Zeit bei Seite sei«9wbven hatte …! —
+nach kurzer Zeit bei Seite geschoben hatte …! —
 
-Harald erwiderte rasch: »Dieses Versteck ist reichlich uv
-bequem, Alice Doktor … Bringen Sie uns andere was
-hin … Am besten in den Höhlenkeller … Den wird der
+Harald erwiderte rasch: »Dieses Versteck ist reichlich unbequem,
+Alice Cotton … Bringen Sie uns anders wohin
+… Am besten in den Höhlenkeller … Den wird der
 Sultan kaum mehr betreten …«
 
 Sie war einverstanden …
 
-Wir kamen hervor .-… Alice führte uns an der Hand
+Wir kamen hervor … Alice führte uns an der Hand
 durch den dunklen Flur bis an eine Balkentür …
 
-Schloß die beiden Schlösser au’ … Gab uns eine
+Schloß die beiden Schlösser auf … Gab uns eine
 Laterne und eine Schachtel Zündhölzer …
 
 Sperrte hinter uns wieder ab …
 
-So konnten wir den Höhlenkeller der Villa mit den vier
+So lernten wir den Höhlenkeller der Villa mit den vier
 Schornsteinen kennen …
 
 Und — — waren Überrascht über das, was wir fanden.
@@ -1631,51 +1631,51 @@ gelegt, und auf dieser Decke erhob sich diese Behausung der
 früheren Geliebten des Sultans …
 
 Die Schlucht bildete also gleichsam die Kellerräume. Hier
-waren, ebenfalls aus starken, roh behauenen. Bäumen,.
+waren, ebenfalls aus starken, roh behauenen Bäumen,
 Zwischenwände errichtet … Es gab mindestens ein Dutzend
-verschließbare Verschläge- …
+verschließbare Verschläge …
 
 Eine widerwärtige Luft erfüllte den Keller … Es stank
 nach Dingen, die man kaum recht bezeichnen kann.
 
 Aber — kühl war es hier, angenehm kühl, ganz im
-Gegnensatß zu den oberen Räumen … —
+Gegensatz zu den oberen Räumen … —
 
 Harald hielt die Laterne hoch …
 
-»Ob hier etwa unsere Freunde ’fledent1- meinte er
+»Ob hier etwa unsere Freunde stecken?!« meinte er
 kopfschüttelnd …
 
-Und er rief ’Frih Dietrichs Namen …
+Und er rief Fritz Dietrichs Namen …
 
 »Hallo — — Dietrich …!!«
 
-Keine unweit ,.
+Keine Antwort …
 
 Oder doch …!!
 
 Aus einem dunklen Winkel kam ein wildes Heulen hervor:
-die Töne eines bis zum Äußersten gereizten Riesenkasten!
+die Töne eines bis zum Äußersten gereizten Riesenaffen!
 
 Wir traten näher …
 
-Da war ein Verschlag, vorn mit hier Eisensitäben …
+Da war ein Verschlag, vorn mit dicken Eisenstäben …
 
-Da hockte in dem Käfig ein mächtiger Orang-Utan,. der
+Da hockte in dem Käfig ein mächtiger Orang-Utan, der
 jetzt, als der Laternenschein ihn traf, mit ungeheurer Kraft
 die Gitterstäbe rüttelte …
 
 Das Tier brüllte dabei, wie ich nie ein Geschöpf habe
-oben hören …
+toben hören …
 
 Harald senkte die Laterne schnell …
 
 Da schwieg die Bestie …
 
 Nur brummende Laute folgten uns beiden, die wir jetzt
-schleunigst in den Gang zwischen den Kellergelassen zurütk—traten,
-damit das Tier nicht nochmals einen Wutanfall des
-käme. Dieses Gebrüll mußte ja auch außerhalb des Hauses
+schleunigst in den Gang zwischen den Kellergelassen zurücktraten,
+damit das Tier nicht nochmals einen Wutanfall bekäme.
+Dieses Gebrüll mußte ja auch außerhalb des Hauses
 zu hören sein … —
 
 <@pagebreak/>
@@ -1684,47 +1684,47 @@ Harst flüsterte:
 »Tadellos …,!! Man wundert sich über diese Kraft
 der Kehle …!«
 
-Ich scharf: 51. an …
+Ich schaute ihn an …
 
-»Was soll 18, Harald?!«
+»Was soll das, Harald?!«
 
-Eine Tage« se Ahnung stieg in mir auf.
+Eine ungewisse Ahnung stieg in mir auf.
 
-»ob — ich erinnere mich an Miß Cottons Bitte …
-Wir hatten ihr helfen … Jetzt weiß ich, was sie heraus
-bringen möchte …!«
+»Oh — ich erinnere mich an Miß Cottons Bitte …
+Wir sollten ihr helfen … Jetzt weiß ich, was sie herausbringen
+möchte …!«
 
-»Und - das ist natürlich das Geheimnis dieses Orang-Utan
+»Und — das ist natürlich das Geheimnis dieses Orang-Utan
 …?«
 
-»nicht schwer zu raten …! - - Natürlich dieses Es
-grimmig? Und ich glaube, es fuhr! ich, daß wir mit damit
-übgugeben. Ich linke, diese Urwalsvvißa wird furchtsam aus
-einem vertvunschenen Schloß zu einer … politischen Ver-brecherbude
-…! — Suchen wir unsere Freunde ,.». Sie
-müssen hier irgendwo stecken … Sir -n wir Mr …
-Vielleicht hat diese Ketersichlucht eine Fortsetzung … Gehen
-wir den« na vollends hinab …«
+»nicht schwer zu raten …! — Natürlich dieses Geheimnis!
+Und ich glaube, es lohnt sich, daß wir uns damit
+abgeben. Ich finde, diese Urwaldvilla wird langsam aus
+einem verwunschenen Schloß zu einer … politischen Verbrecherbude
+…! — Suchen wir unsere Freunde … Sie
+müssen hier irgendwo stecken … Suchen wir nur …
+Vielleicht hat diese Kellerschlucht eine Fortsetzung … Gehen
+wir den Gang vollends hinab …«
 
 Wenn ein Mann von Haralds Qualitäten etwas sucht,
-so muß es schon überaus schlau verborgen sein, wenn er 28
-Nicht finden so! …
+so muß es schon überaus schlau verborgen sein, wenn er es
+Nicht finden soll …
 
-Vier in diesem sollte handelte es sich nur um die primitive
-Schlauheit jener Malaien, die sitzt dieses Gebäude
-auf Befehl ihres Zinksarg errichtet hatten.
+Hier in diesem Falle handelte es sich nur um die primitive
+Schlauheit jener Malaien, die einst dieses Gebäude
+auf Befehl ihres Sultans errichtet hatten.
 
 Am Ende des Ganges schien rissiger, unregelmäßiger
-Tote jeden weiteren Weg zu versperren …
+Fels jeden weiteren Weg zu versperren …
 
 Schien …
 
-Harald — »und ist im selben Kenners — sahen beim
+Harald — und ich im selben Moment — sahen beim
 Laternenlicht, daß hier ein Stein in eine Felsspalte eingeklemmt
-war, damit diese unauffällig verschlossen sei …
-ein Stein, der jetzt unter Harsts seltsamer und ziehender Hand
+war, damit diese unauffällig verschlossen sei … —
+ein Stein, der jetzt unter Harsts tastender und ziehender Hand
 sich zur Seite drehte. Er saß in zwei Zapfen, und diese
-harmlose Tür ging in eine kleinere Grotte mit nahe ver-pestiierer
+harmlose Tür ging in eine kleinere Grotte mit noch verpesteterer
 Luft …
 
 vier Verschläge …
@@ -1735,53 +1735,53 @@ Harald rief …
 Dietrich antwortete sofort …
 
 Aber auch Frau Antje van Graaven, die arme Witwe des
-Schmugsatcekönigs meldvcie sich, ebenso unsere großen Singhalesen
+Schmugglerkönigs meldete sich, ebenso unsere treuen Singhalesen
 und die Malaien …
 
 Wir stellten fest, daß Frau Antje in dem einen Verschlag
-eingesperrt war, Dietrich im streifen, andeuten die
+eingesperrt war, Dietrich im zweiten, im dritten die
 Farbigen. Der vierte war unverschlossen und leer …
 
-Während Harald vom die Vorlegeschlösser besichtigte,
-ei durch die Felsspalte ganz Überraschend Alice Cotton
+Während Harald noch die Vorlegeschlösser besichtigte,
+tauchte durch die Felsspalte ganz Überraschend Alice Cotton
 auf …
 
-Sie war im ersten Augenblick derart erlosch über unser
-eigeimächtiges Eindringen hier, daß sie Harald grob und
-drohend Ausfuhr …
+Sie war im ersten Augenblick derart empört über unser
+eigenmächtiges Eindringen hier, daß sie Harald grob und
+drohend anfuhr …
 
-»Ich lasse Sie beide fesseln … - 1! Ich werde meine
-Orang-Kubu müssen und …«
+»Ich lasse Sie beide fesseln …! Ich werde meine
+Orang-Kubu rufen und …«
 
 Harald lachte ihr ins Gesicht …
 
-»Alice Cotton, »un wollen die Dinge jetzt ein wenig
-auch dort aufrauchen … Sie wünschen, daß wir ermitteln, was
-es mit dem Riesenaffen auf sich hat 474 4 Sie hassen den
+»Alice Cotton, wir wollen die Dinge jetzt ein wenig
+anders anpacken … Sie wünschen, daß wir ermitteln, was
+es mit dem Riesenaffen auf sich hat … Sie hassen den
 Sultan … Ein Weib, das sich vernachlässigt sieht, wird
-zur … Tigerin …! Ich kann das verstehen … 1 — Geben
+zur … Tigerin …! Ich kann das verstehen …! — Geben
 Sie unsere Gefährten frei, lassen Sie uns Frieden schließen
-und Sie sollen binnen viecwuwzwanzig Standen volle Aus-fläring
+und Sie sollen binnen vierundzwanzig Standen volle Aufklärung
 Über des Sultans … Umtriebe erhalten … —
-Hier — — schlagen Sie ein … 1! Es ist der einzig mögliche
-James für Sie! Andernfalls würde ich …« =«- und er
-hatte blitzschnell ihre Handgelenke sogar?! — »… würde ich
+Hier — — schlagen Sie ein …! Es ist der einzig mögliche
+Ausweg für Sie! Andernfalls würde ich …« — und er
+hatte blitzschnell ihre Handgelenke gepackt — »… würde ich
 Sie zu meiner Gefangenen machen und dafür sorgen, daß
-die Orang-Kubu trotz ihrer Giftpfeile harmlose Nunmehr
+die Orang-Kubu trotz ihrer Giftpfeile harmlose Kaninchen
 werden …«
 
 Alice Cotton suchte sich loszureißen …
 
-Uhr GeosichiSausvrud sagte genug …
+Ihr Gesichtsausdruck sagte genug …
 
 Hier war im Guten nichts zu erreichen …
 
-Harald daß mir mit dem Kopfe ein Zeichen …
+Harald gab mir mit dem Kopfe ein Zeichen …
 
 Ich öffnete das leere Kellergelaß …
 
 <@pagebreak/>
-Alice Cotton flog umsonst hinein …
+Alice Cotton flog unsanft hinein …
 
 Harst verschloß die Tür …
 
@@ -1789,8 +1789,8 @@ Und hinter dieser Tür kreischte das Weib:
 
 »Sie werden sterben — — alle, alle …!«
 
-Die mit einem Lederriemen aneinandergebunde Omen
-Schlüssel der Kellerabteilungen lagen auf dem Geflohen,
+Die mit einem Lederriemen aneinandergebundenen
+Schlüssel der Kellerabteilungen lagen auf dem Felsboden,
 Waren Alice entfallen …
 
 Ich schloß die Kerker auf …
@@ -1799,8 +1799,8 @@ Unsere Gefährten umdrängten uns …
 
 Harald wehrte ab …
 
-»Wir müssen erst die Orang-Kuübu vertreiben,« sagte er
-wahrhaftig. »Die kleinen Kerle können uns jeden Augenblick
+»Wir müssen erst die Orang-Kubu vertreiben,« sagte er
+hastig. »Die kleinen Kerle können uns jeden Augenblick
 über den Hals kommen … — Wartet hier, Freunde …
 Wir sind bald wieder zurück … Zur Sicherheit verschließen
 wir oben die Kellertür …«
@@ -1808,30 +1808,30 @@ wir oben die Kellertür …«
 Wir eilten davon …
 
 Wie Harald sich die Überwältigung der gefährlichen
-Bogenschützen dachte, war mir unklar, zumal wir nicht ein
-mal unsere Pistolen hatten …
+Bogenschützen dachte, war mir unklar, zumal wir nicht einmal
+unsere Pistolen hatten …
 
 <h2>2. Kapitel.</h2>
 <h3>Der geräucherte Tote.</h3>
 
 Nun — die Dinge spielten sich in so eleganter Weise
-(der Ausdruck elegant trifft wirklich zu) darf Haralds seiner
-griff ab, daß ich, der mehr Zuschauer war, meine Zelle
+(der Ausdruck elegant trifft wirklich zu) dank Haralds feiner
+Taktik ab, daß ich, der mehr Zuschauer war, meine helle
 Freude daran hatte,
 
-Wir gingen also die Kellertreppe empor uns« schlossen
-die starke Tür, die in den Flur mündete, aus, denn Alice
+Wir gingen also die Kellertreppe empor und schlossen
+die starke Tür, die in den Flur mündete, auf, denn Alice
 Cotton hatte die Tür hinter sich abgesperrt …
 
 Im Flur brannten jetzt zwei Laternen. sechs der
 braunschwarzen Kerle lungerten hier herum. Der eine, den
-wir schon aus dem Schoner als den Häuptling erkannt hatten,
+wir schon auf dem Schoner als den Häuptling erkannt hatten,
 trat sofort an uns heran …
 
 <@pagebreak/>
 Harst sagte recht langsam auf englisch:
 
-»Die Miß ist unten bei den Gesangeauen geblieben … -
+»Die Miß ist unten bei den Gefangenen geblieben …
 Wir sollen ihr etwas bringen … — Ist der Sultan endgültig
 auf und davon?«
 
@@ -1840,24 +1840,24 @@ Der Orang-Kubu nickte …
 »Weg sein — ganz weg, Mister … Was Ihr bringen
 sollt?«
 
-»Ob — die hypnotischen Rüstungen aus dem Salon …
-Wir wollen den gegen binden …«
+»Oh — die chinesischen Rüstungen aus dem Salon …
+Wir wollen den Affen binden …«
 
-Das war eine Anttivport, die alles und gar nichts er-tw
+Das war eine Antwort, die alles und gar nichts erklärte
 …
 
-Wir schritten gelassen den Flur hinab und betraten saß
+Wir schritten gelassen den Flur hinab und betraten das
 Zimmer …
 
-Der Häuptling schien jedoch; mißtrauisch geworden zu
+Der Häuptling schien jedoch mißtrauisch geworden zu
 sein. Aber Harald packte ihm jetzt eine auf einem Gestell
-befestigte Füllung aus die Schulter und sagte: »Da — Du
+befestigte Rüstung auf die Schulter und sagte: »Da — Du
 kannst mitkommen …«
 
-Der brannte. Warze Herr stand mit ziemlich blödem Gesicht
+Der braunschwarze Herr stand mit ziemlich blödem Gesicht
 da …
 
-Die Rüstung war [schwer …
+Die Rüstung war schwer …
 
 Und mein Harald ging nun in das Nebengemach, suchte,
 fand: unsere Pistolen, unsere Taschenlampen!
@@ -1865,53 +1865,53 @@ fand: unsere Pistolen, unsere Taschenlampen!
 Und kehrte zurück, nahm die zweite Rüstung in den
 Arm …
 
-Ich leuchtete schloß die Kellertür aus …
+Ich leuchtete, schloß die Kellertür auf …
 
 Schloß wieder ab …
 
 Und kaum waren wir dann unten im Kellergang, als
-Harald die Rüstung hinlegte, sich wieder ausrichtete und
+Harald die Rüstung hinlegte, sich wieder aufrichtete und
 … dem Herrn Häuptling einen Jagdhieb vor den Schädel
-versetzte, woraus der Orang-Kubu vorschriftsmäßig bewußte
-los Zweck Lug.
+versetzte, worauf der Orang-Kubu vorschriftsmäßig bewußtlos
+hinschlug.
 
 Hiermit war der Sieg unser — endgültig! Ich brauche
-wohl kaum zu etwas ten, daß wir die Ketten- und Plattenpanzer
-anlegten, die leb’!e aussetzen … Etwas eng waren
-uns die Rüstungen ja, aber — was tat’s …?f! Sie [schützten
+wohl kaum zu erwähnen, daß wir die Ketten- und Plattenpanzer
+anlegten, die Helme aufsetzen … Etwas eng waren
+uns die Rüstungen ja, aber — was tat’s …?! Sie schützten
 uns tadellos …
 
 <@pagebreak/>
 Den gefesselten Häuptling ließen wir im Gang liegen …
 Kehrten nach oben zurück …
 
-Unser Erscheinen in diesem. Auszuge wirkte aus die
-Orang- Kubu etwa wie Geisterspuk …
+Unser Erscheinen in diesem Aufzuge wirkte auf die
+Orang-Kubu etwa wie Geisterspuk …
 
 Harald deutete durch Gesten an, daß die braunschwarzen
 Burschen ihre Bogen und Pfeile abliefern sollten …
 
-was — — natürlich nicht geschah … Die ’Kerle vorhanden
-zwar, was sie sollten, lassen aber noch immer, uns
+was — — natürlich nicht geschah … Die Kerle verstanden
+zwar, was sie sollten, hofften aber noch immer, uns
 durch ihre Giftpfeile verscheuchen zu können …
 
-Wir standen mit dem Nücken gegen die Kellertür …
+Wir standen mit dem Rücken gegen die Kellertür …
 Harald wartete noch … Ein Pfeil prallte ihm gegen die
 Brust …
 
-Sofort antw«-… ehe er mit einer Kugel … mit vurch-shchossenem
+Sofort antwortete er mit einer Kugel … mit durchschossenem
 Knie sank der Orang-Kubu schwerfällig um …
 
 Jetzt stürmten auch die anderen kleinen Gesellen herbei
 … Ein Pfeilregen klatschte gegen die Tür, gegen die
-Kettenpanzerx, die Metallhelme … — unschädlich …
+Kettenpanzer, die Metallhelme … — unschädlich …
 
 Noch zwei Knieschüsse brachte Harald an …
 
 Die Orang-Kubu hatten ihre Pfeile zwecklos vergeudet
 …
 
-Lord jetzt war’s Harst, der mit zwei Sätzen gegen die
+Und jetzt war’s Harst, der mit zwei Sätzen gegen die
 noch Stand haltenden heimtückischen Burschen vordrang …
 
 Im Nu waren sie zum Vordereingang hinaus — im
@@ -1920,29 +1920,29 @@ Nu im Walde verschwunden …
 Wir schlossen die Tür ab … Auch die Hintertür, nachdem
 wir die vier Verwundeten ins Freie getragen hatten …
 
-Daß die Orang-Kubu zurückkehren oder es gar fragen
+Daß die Orang-Kubu zurückkehren oder es gar wagen
 würden, das Haus anzugreifen, war kaum anzunehmen …
 
 Die Giftpfeile zerbrachen wir sämtlich, und die vergifteten
-Spitzen warten wir in einen Schrank im Flur, den
+Spitzen warfen wir in einen Schrank im Flur, den
 wir dann versperrten.
 
 Nun — das war wirklich alles wunderbar glatt gegangen
 … Es fragte sich nur, was nun Weiter werden
-sollte … Denn wir mußten damit rechnen, daß die Orang-Küubu,
+sollte … Denn wir mußten damit rechnen, daß die Orang-Kubu,
 die noch ihre Bogen hatten, die Pfeile in kurzem,
 wenn auch primitiv, ergänzen würden …
 
 <@pagebreak/>
-Schleunigst holte fuhr jetzt die Gefährten nach oben …
+Schleunigst holte wir jetzt die Gefährten nach oben …
 Den Häuptling sperrten wir in eines der Gelasse …
 
 Unsere Singhalesen und die Malaien hatten im Nu die
-oberen Räume rt hatten auch Brei Gewehre und
+oberen Räume durchsucht, hatten auch drei Gewehre und
 mehrere Revolver gefunden …
 
 Fritz Dietrich übernahm es, das Haus gegen jeden Angriff
-Es höher: So konnten denn wir beide uns mit Antje
+zu schützen. So konnten denn wir beide uns mit Antje
 van Graaven und mit ihrer Schwester beschäftigen.
 
 Wir stiegen in den Keller hinab und teilten Miß Cotton
@@ -1955,76 +1955,75 @@ Fehler gewesen.
 sie war jetzt die Bescheidenheit und Nachgiebigkeit in
 Person …
 
-Aber Harald traute ihr nicht
+Aber Harald traute ihr nicht …
 
-Wir hatten infolge der gaben Hast von Ereignissen noch
+Wir hatten infolge der jähen Hast von Ereignissen noch
 nicht Zeit gefunden, die Rüstungen abzulegen. Nur die
 Helme hatten wir abgenommen. Und — wie vorsichtig man
 diesem Weibe gegenüber sein mußte, zeigte sich jetzt mit erschreckender
-Deittlichfeit …
+Deutlichkeit …
 
 Kaum hatte Harald die Tür des Verschlages geöffnet,
 als Alice Cotton auch schon aus ihrem Revolver zwei
-billige auf Harst abgab …
+Schüsse auf Harst abgab …
 
 Schüsse, die mir fraglos den Freund für immer geraubt
 hätten, wenn nicht die Stahlplatten des Panzers die Kugeln
-abgefangen l:alten,
+abgefangen hätten.
 
-Diese niederträchtige Heimtüe ließ selbst Harald den
+Diese niederträchtige Heimtücke ließ selbst Harald den
 Kavalier, der er auch Verbrecherinnen gegenüber zu sein
 pflegte, völlig vergessen …
 
 Er sprang zu, riß Alice Cotton in den Gang, drückte
-erste zu Boden …
+sie zu Boden …
 
 selten habe ich ihn so erregt gesehen wie damals …
 
-Ich fesselte dem »Erde die Hände auf den Rücken …
+Ich fesselte dem Weibe die Hände auf den Rücken …
 
 Nicht sanft …!!
 
-Und schob sie ’vann vor mir her …
+Und schob sie dann vor mir her …
 
 <@pagebreak/>
-So betraten wir den orientalischen sofort, in dem Antje
-einsam aus der Ottomane saß …
+So betraten wir den orientalischen Salon, in dem Antje
+einsam auf der Ottomane saß …
 
-Frau Antje warf nur einen flüchtigen Blick aus die
+Frau Antje warf nur einen flüchtigen Blick auf die
 Schwester …
 
-»ohne würdige Lage für eine Cotton — — gefesselt!«
+»Eine würdige Lage für eine Cotton — — gefesselt!«
 sagte sie mit schneidender Schärfe … »Du bist tief gesunken,
+Alice … Ich weiß nicht, ob ich Dich Überhaupt noch
+Schwester nennen soll …!«
 
-Blicke … Ich weiß nicht, ob ich Dich Überhaupt noch
-Schlauester nennen soll …!«
+Alice Cotton lachte schallend …
 
-Alice Cotton lachte holend …
-
-»Schwester?f! Ob ich wohl! Wert darauf lege?! Was
+»Schwester?! Ob ich wohl Wert darauf lege?! Was
 bist Du denn geworden?!? Frau eines Schmugglers, eines
 Betrügers!«
 
-»Schweig’ …!! Sweig’ …!! zu Bast ihn Ermorden
-lassen …! Du … 1! Deine Orang-Kubu streckten ihn durch
-Pfeilsymisse nieder … Was hast Du mit seiner Leiche
+»Schweig’ …!! Schweig’ …!! Du hast ihn ermorden
+lassen …! Du …!! Deine Orang-Kubu streckten ihn durch
+Pfeilschüsse nieder … Was hast Du mit seiner Leiche
 getan?!«
 
-»Bestattet … 1 In allen Ehren … Ein Hilfst wölbt
+»Bestattet …! In allen Ehren … Ein Hügel wölbt
 sich über dem Grab … Obwohl Pieter van Graaven diese
 Rücksicht wahrlich nicht verdiente …!«
 
-Feindinnen waren’s, die hier auseinanderprafssten …
+Feindinnen waren’s, die hier aufeinanderprallten …
 
 Jedes verwandtschaftliche Band war zerschnitten …
 
 Wir beide standen abseits … Harald flüsterte: »In
 dieser gereizten Stimmung werden sie noch mehr enthüllen …
-Tier gibt es noch andere Geheimnisse …“«
+Hier gibt es noch andere Geheimnisse …«
 
 Doch — wir täuschen uns …
 
-Antje erwiderte aus diese lebte Acunßeiuung nichts mehr
+Antje erwiderte auf diese letzte Äußerung nichts mehr
 … Sie hatte den Kopf gesenkt und starrte zu Boden …
 
 Also schien es doch ganz so, als ob Pieter van Graaven
@@ -2034,86 +2033,85 @@ ruhig hingenommen haben …
 
 Und wieder raunte Harald mir zu:
 
-»in hatte mir mehr von diesem Wiedersehen der
+»Ich hatte mir mehr von diesem Wiedersehen der
 Schwestern versprochen … Schade …! Sie sind beide
-tet vorsichtig …«
+jetzt vorsichtig …«
 
-Art er Wirt auf Alice Cotton zu, sagte durchaus höflich:
+Und er schritt auf Alice Cotton zu, sagte durchaus höflich:
 
 <@pagebreak/>
-Wie denken Sie sich das Weitere nun, Alice Cottons!
-Ihre Revolverkugeln hatten mich erledigt … Dieser Angriff
+Wie denken Sie sich das Weitere nun, Alice Cotton?!
+Ihre Revolverkugeln hätten mich erledigt … Dieser Angriff
 war töricht und unüberlegt … Wir sind Herren des Hauses
-… Ihre Leibgarde ist in »den Wald geflüchtet … —
+… Ihre Leibgarde ist in den Wald geflüchtet … —
 Also — wie denken Sie sich unser gegenseitiges Verhältnis?!
-Ich bin hergelomitten, um einmal diese Urwaldvilla und ihre
+Ich bin hergekommen, um einmal diese Urwaldvilla und ihre
 Geheimnisse näher kennen zu lernen … Dann wollte ich
-den Schoner suchen … Ich habe diesen gefunden … » » Aber
-—«y 1vo sind die beiden Deutschen, die außer Fritz Dietrich
-noch4 auf dem Schiff weilten?, Beantworten Sie mir zunächst
+den Schoner suchen … Ich habe diesen gefunden … Aber
+— wo sind die beiden Deutschen, die außer Fritz Dietrich
+noch auf dem Schiff weilten? Beantworten Sie mir zunächst
 einmal diese Frage …«
 
-»Entflohen, Herr Harst, … Die Orang-Kubu haben sich
+»Entflohen, Herr Harst … Die Orang-Kubu haben sich
 gegen meinen Willen des Schoners bemächtigt und ihn
 ausgeplündert … Die beiden Deutschen entkamen in die
-Wildnis …, bisher konnte ich sie nirgends entdecken, obwohl
+Wildnis … bisher konnte ich sie nirgends entdecken, obwohl
 die Orang-Kubu vorzügliche Fährtensucher sind …«
 
 »Nun gut … Ich will annehmen, daß dies der Wahrheit
-entspricht … — Flur zu Punkt zwei: ich sollte Ihnen
-das Geheimnis? enthüllen, das mit dem Riesenaffen des
-Syltans5 sitzt verknüpft ist … Trotz dieses Ihres Wunsches
-geworfen Sie aus mich … Sie wollten also lieber mich
-tot als in Freiheit sehen. Als Ihr Gefangener sollte
-das Gebeinmnis enträtseln. — Weshalb dies?! Wohltat
-Ihre Angst! vor Harald Harsts voller Bewegungsfreiheit?!«
+entspricht … — Nun zu Punkt zwei: ich sollte Ihnen
+das Geheimnis enthüllen, das mit dem Riesenaffen des
+Sultans Sidar verknüpft ist … Trotz dieses Ihres Wunsches
+feuerten Sie auf mich … Sie wollten also lieber mich
+tot als in Freiheit sehen. Als Ihr Gefangener sollte ich
+das Geheimnis enträtseln. — Weshalb dies?! Weshalb
+Ihre Angst vor Harald Harsts voller Bewegungsfreiheit?!«
 
-Alice Cotton schaute flüchtig zu Braun Antje hinüber …
+Alice Cotton schaute flüchtig zu Frau Antje hinüber …
 
 Ich beobachtete scharf …
 
-Frau Antje blickte gleichfalls auf … Wir schien, daß
+Frau Antje blickte gleichfalls auf … Mir schien, daß
 die Schwestern sich irgendwie mit den Augen verständigten.
 
 Harald lächelte unmerklich …
 
-aber dieses Lächeln wich einem Ausdruck gesvanntester
-Ruinen!fandest …
+aber dieses Lächeln wich einem Ausdruck gespanntester
+Aufmerksamkeit …
 
 Vor den Fenstern hörte ich Lärm — Stimmen — einen
-schrillen Befehl Fritz Dietrichs … Dann ein paar trendige
-halbes … Dann … Stille …
+schrillen Befehl Fritz Dietrichs … Dann ein paar freudige
+Hallos … Dann … Stille …
 
 Bis die Tür aufflog …
 
 <@pagebreak/>
-
 Und in das prächtige Gemach traten Fritz Dietrich und
 zwei zerlumpte blondbärtige Weiße ein …
 
 »Meine Hagenbeck-Kollegen!!« rief Fritz »Nachschlüssel«
 freudig … »Hier der Geologe Doktor Erwin Scholz — —
-hier Kapitän sichert …«
+hier Kapitän Liebert …«
 
-Händeschütteln … - - Frohe Begrüßungsworte …
+Händeschütteln … Frohe Begrüßungsworte …
 
-Hoftor Scholz meinte vergnügt: »Herr Harst endlich
-eiserne ich Sie beide persönlich kennen, und dies unter an
-Händen, die ganz … »Harst!"«mäßig sind …«
+Doktor Scholz meinte vergnügt: »Herr Harst, endlich
+lerne ich Sie beide persönlich kennen, und dies unter
+Umständen, die ganz … »Harst«mäßig sind …«
 
-Sein Blick fiel auf Alte« sollen …
+Sein Blick fiel auf Alice Cotton …
 
 »Ah — da ist ja diese Kanaille von Weib …!!« fügte
-er in grimmiger Mut hinzu. »Herr Harst, sie hat den Ucebexr-ja
+er in grimmiger Mut hinzu. »Herr Harst, sie hat den Überfall
 auf den Schoner geleitet … Sie ließ uns hierher
 schleppen … Sie hat uns wie räudige Köter behandelt …
-hin Zufall war’&, daß wir flüchten konnten … Und bei
+Ein Zufall war’s, daß wir flüchten konnten … Und bei
 dieser Flucht kamen wir durch die oberen Zimmer …
-Vom Woche sprangen wir auf den Ast eines Urwaldriesen …
-oben, Herr Harst, .— dort oben sieht ein Sarg mit der
-4e eines Mannes, die offenbar nach Art der Süsce-insulaner
-… geräuchert und so vor dem verlassen gern
-by ist er«.«
+Vom Dache sprangen wir auf den Ast eines Urwaldriesen …
+Oben, Herr Harst, — dort oben steht ein Sarg mit der
+Leiche eines Mannes, die offenbar nach Art der Südseeinsulaner
+… geräuchert und so vor dem Verwesen geschützt
+ist …«
 
 <@pagebreak/>
 
@@ -2247,7 +2245,7 @@ Sir ’hn tue Dr. sie
 Platzten der Jubel Ei: Vogelwelt …
 
 hier drinnen zwei bl«.ich:c Frauen … Zwei, die jetzt
-en! As gefnitterte Papier richten …
+en! As geknitterte Papier richten …
 
 Paares las vor:
 
@@ -2741,7 +2739,7 @@ Stille …
 
 Dann das Geschrei« älterer Singhalesen wird » Malaien …
 
-Wir wie gespickt mit Glassplitterhen, …
+Wir wie gespickt mit Glassplitterchen, …
 
 Ans Fenster-.
 
