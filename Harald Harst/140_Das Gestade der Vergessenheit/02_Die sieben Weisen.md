@@ -34,7 +34,7 @@ waren in einer Nebengrotte streng bewacht, aber gut behandelt
 worden. Nur jetzt hatte der Schwarzbärtige sie vor
 dem Aufbruch erschießen und ihre Leichen im See versenken
 wollen. Lediglich ihr inständiges Bitten hatte den Mann
-bestimmt, von seinem Vorhaben abzugeben.
+bestimmt, von seinem Vorhaben abzusehen.
 
 Als Harald wissen wollte, was dieser Europäer dort
 unten wohl getrieben haben mochte, schüttelte der Türkisensucher
@@ -512,7 +512,7 @@ Wir verließen den Park durch eine Seitenpforte, zu der
 Harald vom Hoteldirektor in aller Stille den Schlüssel besorgt
 hatte.
 
-Wohin es geben sollte? — Ich wußte es nicht …
+Wohin es gehen sollte? — Ich wußte es nicht …
 Wir kannten Kalkutta.
 
 Nördlich von dem ausgedehnten Maidan, dem Riesengarten
@@ -1048,7 +1048,7 @@ Armer Pellham, ich fürchte, man wird Dich …«
 
 Verstummte …
 
-Poltern über uns … Schwere Schnitte …
+Poltern über uns … Schwere Schritte …
 
 Ich blies das Licht aus …
 
@@ -1138,7 +1138,7 @@ Ich schloß den Faßdeckel …
 
 Wir kamen durch die Kellermauer in einen mit Brettern
 verkleideten Gang, in dem wir zur Not gebückt gehen
-Spanier …
+konnten …
 
 Der Gang war gut dreißig Meter lang und endete in
 einer ausgemauerten Müllgrube, in der eine Leiter lehnte.
@@ -1296,7 +1296,7 @@ und Miß Margall irgendwo dort in der Villa gefangen
 gehalten werden, so kommst Du damit einen Posttag zu
 spät … — Stecken sie im Keller?«
 
-Sapu schüttelt Aden Kopf, schneidet noch wildere Gesichter
+Sapu schüttelt den Kopf, schneidet noch wildere Gesichter
 …
 
 Harald nimmt ihm den Knebel ab …
@@ -1430,7 +1430,7 @@ Nein — doch nicht ganz leer … Drei, vier Strickenden sahen
 wir, dazu zwei Leinwandkugeln mit Schnüren daran:
 Knebel!
 
-»Sie sind bereits entwischt,“« flüsterte Harst … »Lewis
+»Sie sind bereits entwischt,« flüsterte Harst … »Lewis
 wird es gelungen sein, die Fesseln abzustreifen … — Das
 ist merkwürdig …!«
 

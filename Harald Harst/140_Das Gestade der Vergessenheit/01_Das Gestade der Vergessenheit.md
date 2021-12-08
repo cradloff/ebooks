@@ -223,7 +223,7 @@ Und Douglas erinnert an Schottland und …«
 
 … Ein zweites ereignete sich da …
 
-Draußen ertönte ein gellender Pfiff…
+Draußen ertönte ein gellender Pfiff …
 
 Und auf diesen Pfiff hin schnellte Douglas von der
 Wolldecke zu Haralds Füßen hoch und … machte sich aus
@@ -256,7 +256,7 @@ ich für den Text der Depesche eine einfache Chiffreschrift
 gewählt, die Sie mühelos bewältigen werden. — Heute
 vor einem Jahr verließ mein Verlobter, der Ingenieur
 Colin Roß, Newyork, zusammen mit zwei anderen
-Mineningenieure, die in Nepal am Godwira-See im
+Mineningenieuren, die in Nepal am Godwira-See im
 <@pagebreak/>
 Auftrage einer Aktiengesellschaft nach Edelmetallen
 schürfen sollten. Zwei Monate später trafen Colin und
@@ -508,7 +508,7 @@ Aufmerksamkeit anderen Dingen galt.
 Wasser,« erwiderte er in jener geistesabwesenden Art, die
 bei ihm stets höchste Gedankenkonzentration vermuten läßt.
 
-Ich hat es …
+Ich tat es …
 
 Das Mondlicht verwandelte einen Teil der Wasseroberfläche
 in ein silbernes Viereck …
@@ -839,7 +839,7 @@ die Miß und ich spionieren hier nun bereits wochenlang
 umher und entdecken nichts! Und Sie, Mr. Harst, kommen
 als Nepalesen verkleidet und finden gleich in der ersten Nacht
 Dinge heraus, die so abenteuerlich und doch auch so über
-jeden Zweifler erhaben sind, daß …«
+jeden Zweifel erhaben sind, daß …«
 
 Harald hatte abgewinkt …
 
@@ -881,7 +881,7 @@ Harst näherte sich in großem Bogen dem Felsenwall.
 So vorsichtig wie damals sind wir selten vorwärtsgeschlichen.
 
 Abermals regte sich in mir der Dichter … Abermals
-spürte im das Erhabene dieser Gebirgslandschaft …
+spürte ich das Erhabene dieser Gebirgslandschaft …
 Drüben nach Norden zu stiegen die Berge immer höher an:
 Stufen zum Gipfel der Welt, zum Gaurisankar, zum Strahlenden,
 dem nüchterne Wissenschaft jetzt den Namen Everest
@@ -939,7 +939,7 @@ Nun waren sie uns aus den Augen …
 
 »Sie fühlen sich sehr sicher …« flüsterte Harald …
 »Sie nehmen uns beide als Gegner nicht ernst … Weil
-sie und fraglos für flüchtige nepalesische Verbrecher halten …
+sie uns fraglos für flüchtige nepalesische Verbrecher halten …
 Und mit Lewis gedenken sie schon fertig zu werden …
 — Folgen wir ihnen …«
 
