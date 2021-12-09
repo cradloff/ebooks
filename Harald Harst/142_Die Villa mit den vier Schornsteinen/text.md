@@ -2120,92 +2120,93 @@ ist …«
 
 Ah — — Miß Cotton war fahl geworden …
 
-Und — — lachte Boy höhnisch auf …
+Und — — lachte doch höhnisch auf …
 
-»Sie phantasieren — — ein Sarg?! ’Ein Toter? - —
+»Sie phantasieren — — ein Sarg?! Ein Toter? —
 Ich weiß nichts davon … Gehen Sie doch nach oben …
 Suchen Sie …!!«
 
-»Das wäre überflüssige Mühe,« meinte -. Harald gelassen.
-»Nämlich … - … das Suchen … Doktor Satz wird mir nur
+»Das wäre überflüssige Mühe,« meinte Harald gelassen.
+»Nämlich … das Suchen … Doktor Scholz wird mir nur
 das Zimmer zeigen, wo der Sarg gestanden hat … —
 Kommen Sie, Doktor …«
 
 Und leise zu mir: »Gib auf die beiden Frauen gut acht,
 mein Alter … Die Dinge hier sind doch schwieriger als
-wir annehmen konnten …
+wir annehmen konnten …«
 
 Und Doktor Scholz und Harst gingen hinaus …
 
-Wir drei — Dietrich, Kapitän Lieber! und ich — selten
-uns … Alice Entkommt ihren auf den Rücken gefesselten
-Algier lehnte an einem geschnitzten Schranke …
+Wir drei — Dietrich, Kapitän Liebert und ich — setzten
+uns … Alice Cotton mit ihren auf den Rücken gefesselten
+Armen lehnte an einem geschnitzten Schranke …
 
-Lieber! war ein Mann von gut vierzig Jahren, breit
-breitschultrig, derb, mit ungeheuren Händen +…
+Liebert war ein Mann von gut vierzig Jahren, breitschultrig,
+derb, mit ungeheuren Händen …
 
 »Dja,« meinte er nun, »das war ein tolles Dasein, das
-wir da wissen im Urwald geführt haben, Herr Schraut …
+wir da mitten im Urwald geführt haben, Herr Schraut …
 Drei Wochen lang … Man sieht es meinem Anzug an …
 
 Und heute hatten der Doktor und ich uns vorgenommen,
-irgend einen Küstenort aufzusuchen … - - Wohin wir in der
+irgend einen Küstenort aufzusuchen … Wohin wir in der
 Wildnis wanderten, wußten wir kaum … Wir kannten nur
-die ungefaßte Richtung … Und mit einem Male stießen
-wir so auf eine kleine Lichtung … » - Sahen diesen verdammten
-Mistisinken von Orang-Kubu dort hatten … Hatten
-vier Verwundete bei sich … —« Na — ir wichen ihnen
-ins … Und dann … hier das Haus … hier Freund
-Dietrich …!! War das eine Besudelt«
+die ungefähre Richtung … Und mit einem Male stießen
+wir so auf eine kleine Lichtung … Sahen diesen verdammten
+Mistfinken von Orang-Kubu dort hocken … Hatten
+vier Verwundete bei sich … — Na — wir wichen ihnen
+aus … Und dann … hier das Haus … hier Freund
+Dietrich …!! War das eine Freude!!«
 
 <@pagebreak/>
 Ich hörte wohl zu … Aber meine Augen glitten unablässig
-zwischen Antje und Alice hin und der …
+zwischen Antje und Alice hin und her …
 
 Ich sah auch, daß die beiden zuweilen sich anschauten …
 
-sich mehr voller Haß …
+Nicht mehr voller Haß …
 
 Nein — wie in versteckter Sorge …
 
 Fritz Dietrich meinte nun, daß die Orang-Kubu wohl
-kaum Fidibus unternehmen würden …
+kaum etwas unternehmen würden …
 
-»Wir müßten die Prau wollen und drüben in dem Schiffes
-verankern,« fuhr er fort … - »Die Nacht geht zu Ende …
-E88 wird bereits hell …
+»Wir müßten die Prau holen und drüben in dem Schilfsee
+verankern,« fuhr er fort … »Die Nacht geht zu Ende …
+Es wird bereits hell …«
 
 Harald und Doktor Scholz erschienen wieder …
 
-Alice Cotton kostete ihre höhnischen Blicke auf Harsts
-bezieht …
+Alice Cotton heftete ihre höhnischen Blicke auf Harsts
+Gesicht …
 
-»Nun — wo … ist der geräucherte Tote …?!!«
-»Weggeschafft … Reste des schwarz gestrichenen Holz-Sarges
+»Nun — wo … ist der geräucherte Tote …?!«
+
+»Weggeschafft … Reste des schwarz gestrichenen Holzsarges
 fand ich in der oberen Küche unter dem Brennholz …
 Ich habe die Stücke zusammengesteckt … Sie stammen von
 einem Sarg … — Alice Cotton, wer war dieser Tote?«
 
 Schweigen …
 
-»Trotzig« schaute das Weib zu Boden …
+*Trotzig* schaute das Weib zu Boden …
 
-»Frau Antje van Spuren,« wandte er sich an die junge«
+»Frau Antje van Graaven,« wandte er sich an die junge
 Witwe des Schmugglerkönigs, »wissen Sie es vielleicht?«
 
 Schweigen …
 
-»Verlegen« schaute Frau Antje zu Boden …
+*Verlegen* schaute Frau Antje zu Boden …
 
 Und still war’s in dem wunderschönen Raum …
 
-Draußen erwachte - das Leben des Urwaldes …
+Draußen erwachte das Leben des Urwaldes …
 
 Vogelstimmen … Das zärtliche Gurren von Wildtauben
 … Der heisere Ruf des großen Nashornvogels …
 Das Gezwitscher kleinerer Sänger …
 
-Dietrich zog die Vorhänge auf … Seekarte die Fenster,
+Dietrich zog die Vorhänge auf … Öffnete die Fenster,
 stieß die Läden zurück …
 
 Zwielicht drang ins Zimmer, kämpfte mit dem flackernden
@@ -2213,122 +2214,122 @@ Kerzenschein …
 
 Da sagte Harst — und wirklich fuhr von Osten her
 gerade das erste Strahlen der aufgehenden Sonne über den
-Urwald bin:
+Urwald hin:
 
 <@pagebreak/>
-»Blicke Toten, die Gute bringt ußrs an den Tag …
-en? werde Sie in eins der oberen gingen einspetucn und
-Art beobachten lassen … + — Lieber hilfreich, Augen € Sie das
+»Alice Cotton, die Sonne bringt alles an den Tag …
+Ich werde Sie in eins der oberen Zimmer einsperren und
+dort bewachen lassen … — Lieber Dietrich, ordnen Sie das
 Nötige an …«
 
 Fritz Dietrich winkte dem Weibe …
 
 »Folgen Sie mir …!«
 
-Sie rührte sich nicht … » Blieben blickte sie Harald an.
+Sie rührte sich nicht … Wieder blickte sie Harald an.
 
-Satze: »Antje wird »ir mich Meter 40 85m Ei - werde
-tun, was Sie wünschen, Her! Harst … Nur — lassen Sie
-mich rot … in! Speichern Ihr:
+Sagte: »Antje wird für mich bürgen … Ich werde
+tun, was Sie wünschen, Herr Harst … Nur — lassen Sie
+mich frei … in Freiheit …«
 
-Bürgen?! Antje … tt — Oh - - der geheimnmisvoße
-so!: gezeigt ja alten Graf: »Heiligen Haß ausgelöscht zu
-na 001-1«, 3 »Wehr je’idam das …!! -… diese Bücagschaft
-ab ich ablehnen. ich tue nichts halb. Acta will alles
-stahlen — alles«
+»Bürgen?! Antje …?! — Oh — der geheimnisvolle
+Tote scheint ja Ihren gegenseitigen Haß ausgelöscht zu
+haben …! Sehr seltsam das …!! — Diese Bürgschaft
+muß ich ablehnen. Ich tue nichts halb. Ich will alles
+erfahren — alles …«
 
-Mut zu mir:
+Und zu mir:
 
 »Du hast ja den Brief noch in der Tasche, mein Alter …
-Sir ’hn tue Dr. sie
+Gib ihn mal her …«
 
-Platzten der Jubel Ei: Vogelwelt …
+Draußen der Jubel der Vogelwelt …
 
-hier drinnen zwei bl«.ich:c Frauen … Zwei, die jetzt
-en! As geknitterte Papier richten …
+hier drinnen zwei blaße Frauen … Zwei, die jetzt
+auf das geknitterte Papier stierten …
 
-Paares las vor:
+Harst las vor:
 
-An Berrü allerlei Schiffes.
+<p class="centered">An Bord unseres Schiffes.</p>
 
-Ich hatte mir ja Kot Grimmig, hernieder on Dich
-zu zerreiben, Uhr … « Aber seine lebte Na!: Mr des.;acht
-eine Antwort. Sorge dafür, daß 01« 45 roh« 7707 Villa
-wie es für alle Fälle nötig ck… Im löst.-e1 ist Du
+> Ich hatte mir ja vorgenommen, nie wieder an Dich
+zu schreiben, Alix … Aber Deine letzte Nachricht verlangt
+eine Antwort. Sorge dafür, daß "*er*" so erhalten bleibt,
+wie es für alle Fälle nötig ist … Im übrigen bist Du
 mir unverständlich. Wenn der Sultan Dich nicht mehr als
-008 Geliebte bedeutet, — wes8hzalb bleibst Du dann in
-ein sichtbaren Hause?! Du würdest doch) mit dem, was
-Dir der Sultan geschöpft bat, in jeder Weltstadt ne 09a
-leben können Es würden ja genügen, wenn Du »191«
-Dover unrecht: galt
+seine Geliebte betrachtet, — weshalb bleibst Du dann in
+dem furchtbaren Hause?! Du würdest doch mit dem, was
+Dir der Sultan geschenkt hat, in jeder Weltstadt behaglich
+leben können. Es würden ja genügen, wenn Du *ihn*
+sicher unterbringst …
 
 <@pagebreak/>
 
-Frau Antje van Spuren war immer bleicher geworden.
+Frau Antje van Graaven war immer bleicher geworden.
 
-Ihre auf der Ottomane lockende Gestalt war völlig
-zusammengesunken - - - Ein Häuflein Unglück, sagt der
-olfsömund zu solchem Bilde.
+Ihre auf der Ottomane hockende Gestalt war völlig
+zusammengesunken … Ein Häuflein Unglück, sagt der
+Volksmund zu solchem Bilde.
 
 »Nicht wahr …« erklang da Haralds Stimme …
 »Dieser er, der … so erhalten bleiben sollte, wie es für
 alle Fälle nötig ist, kann doch nur der zur Mumie verwandelte
 Tote sein … — Nicht wahr, Frau Antje?«
 
-»»Quälen Sie mich nicht, Herr Harst …« rief sie jetzt
-leise … »Ich darf und werde nicht Wochen …!!«
+»Quälen Sie mich nicht, Herr Harst …« rief sie jetzt
+leise … »Ich darf und werde nicht sprechen …!!«
 
 Harald nickte. »Gut, — dann führen Sie, lieber Dietrich,
 Alice Cotton nun in eines der oberen Zimmer …
-Stelen Sie ein paar Singhalesen vor die offene Tür …«
+Stellen Sie ein paar Singhalesen vor die offene Tür …«
 
 Dietrich ergriff das Weib, das wahrlich übergenug auf
 dem Gewissen hatte, beim Arm und zog sie mit hinaus …
 
 »Wir,« meinte Harald nun, »wir drei könnten in den
-letzter hinabsteigen, Doktor … Kapitän Lieber! leistet wohl
-Frau Antje Gesellschaft …, Wir werden Ihnen der Orang-Utan
+Keller hinabsteigen, Doktor … Kapitän Liebert leistet wohl
+Frau Antje Gesellschaft … Wir werden Ihnen den Orang-Utan
 zeigen und auch die beiden anderen Gefangenen uns
-Ansehen … — Übrigens — falls Sie sich niederlegen
+ansehen … — Übrigens — falls Sie sich niederlegen
 wollen, Frau Antje … Im Nebenzimmer steht ein Bett
 … Sie müssen müde sein …«
 
 Die junge Witwe nickte zögernd …
 
 »Ja … Ich bedarf der Ruhe … Ich werde mich
-zurückziehen — Herr Harst, verargen Sei es mir nicht,
+zurückziehen … — Herr Harst, verargen Sie es mir nicht,
 daß ich …«
 
-»Ob —« durchaus nicht … „« fiel er ihr ins Wort
+»Oh —« durchaus nicht … „« fiel er ihr ins Wort …
 »Durchaus nicht … — Gute Nacht, Frau Antje …«
 
-Und Doktor Erwin Scholz und wir beide wiegen! in
+Und Doktor Erwin Scholz und wir beide stiegen in
 die Kellerschlucht hinab.
 
-Der Doktor war bereits von Harald von allem vorweg
-unterrichtet worden. Er hatte als Geologe und Angestellten
-Hagenbeck38 allerlei praktische Erfahrungen mit den verschiedenartigsten
+Der Doktor war bereits von Harald von allem Nötigen
+unterrichtet worden. Er hatte als Geologe und Angestellter
+Hagenbecks allerlei praktische Erfahrungen mit den verschiedenartigsten
 Tieren gesammelt …
 
 Als wir uns jetzt dem Orang-Utan-Käfig näherten,
-Älog die Bestie genau so grimmig. wie das erste Mal gegen
+flog die Bestie genau so grimmig wie das erste Mal gegen
 <@pagebreak/>
-das Glitter und rüttelte an den Stäben … heulte, brüllte,
-lobte …
+das Gitter und rüttelte an den Stäben … heulte, brüllte,
+tobte …
 
-Biß Doktor Scholz in ein herzliches Lachen ausbr«“.,
-da? mich angesichts dieses irrsinnigen Riesenaffen aufs höchste
+Bis Doktor Scholz in ein herzliches Lachen ausbrach,
+das mich angesichts dieses irrsinnigen Riesenaffen aufs höchste
 verblüffte …
 
 »Harald lachte gleichfalls, sagte dann, mir auf die Schulter
-Harrend:…
+klopfend:
 
-»Alterchen, das ist gar kein Alte … Das ist ein in ein
-Ruins genähter Mensch von kleinem Wuchs, aber großer
-rast …«
+»Alterchen, das ist gar kein Affe … Das ist ein in ein
+Affenfell genähter Mensch von kleinem Wuchs, aber großer
+Kraft …«
 
 Im ersten Moment glaubte ich, daß Harald mich lediglich
-ein wenig »fT03zzeln» wollte, wie die Münchener sagen.
+ein wenig »frozzeln« wollte, wie die Münchener sagen.
 
 Aber weil Doktor Scholz jetzt ganz nahe an den Käfig
 Heranging und dem Riesenvieh nochmals ins Gesicht lachte,
@@ -2339,197 +2340,197 @@ Zumal der Doktor nun auch in malaiischer Sprache rief:
 »Laß das Brüllen, Bursche … Du bist erkannt …
 Wir werden Dir Deinen Pelz schon abziehen!«
 
-Stammelnd und knurrend zog sich der falsche Orang-Utan
+Brummelnd und knurrend zog sich der falsche Orang-Utan
 da in den dunklen Hintergrund des Käfigs zurück.
 
-Harst hob die Laterne, hielt sie dicht an die Gitter«-
-gäbe …
+Harst hob die Laterne, hielt sie dicht an die Gitterstäbe
+…
 
 Wir sahen so einen Verschlag in dem Käfig, der mit
-Eigenem Gras gefüllt war …
+trockenem Gras gefüllt war …
 
-Der falsche — der nachts Alte hatte sich in diesen Verschlag
-verlieren.
+Der falsche — der unechte Affe hatte sich in diesen Verschlag
+verkrochen.
 
 Umsonst drohte Doktor Scholz ihm auf alle mögliche
 Art …
 
-»Und doch Anlässen wir ihn haben!« meinte Harst energisch
+»Und doch müssen wir ihn haben!« meinte Harst energisch.
 »Suchen wir jetzt erst die beiden anderen Gefangenen.«
 
 Wir brauchten nicht zu suchen … Wir vernahmen ihre
-Stimmen aus den NoHbarverschläpen, als Scholz auf moralisch
-rief, es sollten sich Leute melden, die hier einzelnen!
-beim …
+Stimmen aus den Nachbarverschlägen, als Scholz auf malaiisch
+rief, es sollten sich Leute melden, die hier eingesperrt
+seien …
 
 So fanden wir des Sultans beide Hofbeamten, die den
 <@pagebreak/>
-Zeitungsmeldungen nach wilden Tieren vorgeworfen ruderten
-Waren …
+Zeitungsmeldungen nach wilden Tieren vorgeworfen worden
+waren …
 
-Zwei Maikäfer Gesellen Alters mit intelligenten schüchtern
+Zwei Malaien gesetzten Alters mit intelligenten Gesichtern
 … Zwei, die uns dankbar die Hände drückten, die
-nur sehr wenig über den Grund ihrer Bosirafsunon durch den
-Sultan angebe: konnten. Sir hatten lediglich bei einer
-Barons, der wie immer der holländische Resident (Auf-vosser1i
-des Gutshaus beiwohnte, in einer Frage über Zölle
-dem Residenten du ehrlicher Überzeugung recht gegeben …
+nur sehr wenig über den Grund ihrer Bestrafung durch den
+Sultan angeben konnten. Sie hatten lediglich bei einer
+Beratung, der wie immer der holländische Resident (Aufpasser)
+des Sultans beiwohnte, in einer Frage über Zölle
+dem Residenten aus ehrlicher Überzeugung recht gegeben …
 
 Man hatte sie dann unter einem Vorwand vor Gericht
-gestellt. Sie lassen gemeinsam sitzen Diener des Sultans
-ermordet! haben eine voll!:9g ans der Luft agenriffene Be-scmsdioanug,
-die dann Nr behaftet erkaufte Belügen bestrafen
+gestellt. Sie sollten gemeinsam einen Diener des Sultans
+ermordet haben — eine völlig aus der Luft gegriffene Beschuldigung,
+die dann freilich durch erkaufte Zeugen beschworen
 wurde … —
 
-Diese Angaben schienen kannst nicht wesentlich zu Indiens
-errieten …
+Diese Angaben schienen Harst nicht wesentlich zu interessieren
+…
 
-Damm hatte der einte vor Männer seinen kurzen Bericht
-beendet, als Harst weh schon fragte, ob. sie irgend etwas
-über den Ofens- Plan müssen …
+Kaum hatte der eine der Männer seinen kurzen Bericht
+beendet, als Harst auch schon fragte, ob sie irgend etwas
+über den Orang-Utan wüßten …
 
-die bverninien …
+Sie verneinten …
 
-Wir bhequ en uns zusehen vor dein Käfig …
+Wir begaben uns wieder vor den Käfig …
 
-Nr vBahm seine Clement …
+Harald nahm seine Clement …
 
-»Doktor,« sagte er zu Lag d?. 10m Tote, »Ufer Ei
-dem 1 »schien- Vieh roch! laut zu, daß ich schieße, falls es
-mit herauskommt. Tote
+»Doktor,« sagte er zu Landsmann Scholz, »rufen Sie
+dem unechten Vieh recht laut zu, daß ich schieße, falls es
+nicht herauskommt …«
 
-Der Doktor tat’s … Er beherrschte das Warentische
-reiht gut.
+Der Doktor tat’s … Er beherrschte das Malaiische
+recht gut.
 
-Der Orang-!Satan blieb in Dom Gattin st: seiner Platz
-rum Mr Er
+Der Orang-Utan blieb in dem Holzkasten seiner Schlafhütte
+…
 
-Da … Gelenke Harald … je
+Da … feuerte Harald …
 
-Vororte durch eine jede des Rösten S8 See Ei
+Feuerte durch eine Ecke des Kastens …
 
-Das Geschoß zersplitterte hinter an« Felswand …
+Das Geschoß zersplitterte hinten an der Felswand …
 
-An jetzt, wo der in das Affenfell eingenäßte wen
-merkte, Mai; es ernst wurde, kroch der hervor Lord kam bis an
-die Bitterstäbe Mr
+Und jetzt, wo der in das Affenfell eingenähte Mensch
+merkte, daß es ernst wurde, kroch er hervor und kam bis an
+die Gitterstäbe …
 
-Doktor Scholz befahl«
+Doktor Scholz befahl:
 
 <@pagebreak/>
-»Lege das Fell ab) Na -… sofort!«
+»Lege das Fell ab … — sofort!«
 
-»Und. Harald zielte auf den unechten gegen Sie
+»Und Harald zielte auf den unechten Affen …
 
 Der gab seine Sache nun völlig verloren und zog sich
-In kurzem die können Schnüre aus den Nähten des Felles …
+In kurzem die dünnen Schnüre aus den Nähten des Felles …
 
-Ein verwachseiner zwergenhafter Farbiger kam zum
+Ein verwachsener zwergenhafter Farbiger kam zum
 Vorschein …
 
-Hinter uns gleichzeitig zweit Ausrufe:
+Hinter uns gleichzeitig zwei Ausrufe:
 
-»Wirt-Wirt …!1 Der Sie worden, des Sultans!!«
+»Tipi-Piti …!1 Der Geheimschreiber des Sultans!!«
 
-Die Hofbeamten riesen’8 …
+Die Hofbeamten riefen’s …
 
 Drängten näher heran …
 
-Der Verwachsene hatte dort abstoßend häßlichen Kopf
-vörgestrec?! … Staunte die beiden on …
+Der Verwachsene hatte den abstoßend häßlichen Kopf
+vorgestreckt … Starrte die beiden an …
 
 Man merkte, Daß er überrascht war, sie hier zu sehen …
 
-Er Kümmerte etwas …
+Er murmelte etwas …
 
 Seine Züge drückten Angst und Verlegenheit aus …
 
 Und Harald zu den beiden Befreiten:
 
-»Was riß Ihr über den Geheimschreiber? Ha!« er
-etwas um dem großen Bogen Euch zu tun? Hat er vielleicht
+»Was wißt Ihr über den Geheimschreiber? Hat er
+etwas mit dem Prozeß gegen Euch zu tun? Hat er vielleicht
 den Diener ermordet, und hat der Sultan ihn hier nur
-vor den holländischen »Teteitiven in Sicherheit - bringen
+vor den holländischen Detektiven in Sicherheit bringen
 wollen?«
 
-Das, was Harald ich? ausgesprochen hatte, war die
-einer mögliche Lösung des wo gewesen …
+Das, was Harald jetzt ausgesprochen hatte, war die
+einzig mögliche Lösung des Rätsels gewesen …
 
-ab — 408&nbsp;2700 0 M8 50: Die Hofbeamten bestätigten
-287 4;
+Und — sie traf zu: Die Hofbeamten bestätigten
+es …
 
-»ist die Person dieses Anwarb dem Sultan denn es
-wichtig ?*« fragte Harald »wieder …
+»ist die Person dieses Krüppels dem Sultan denn so
+wichtig?« fragte Harald wieder …
 
-»Wirt-Wirt ist des Sultans rechte Hand … Er kennt all
-sein« Geheimnisse …« Wirt-Wirt hat schon andere E hand-datei
-verargen als mir Briefen Mord …
+»Tipi-Piti ist des Sultans rechte Hand … Er kennt all
+seine Geheimnisse … Tipi-Piti hat schon andere Schandtaten
+begangen als nur diesen Mord …«
 
 Und immer noch bedrohte die Clementpistole den Verwachsenen
 …
 
-Weiß Gott: dessen Gesicht glich tatsächlich dem eine
-bösartiger offen … Augen füunkelten in diesem mißor-statteten
-Schädel, die wie die Lichter eines lauernden Wo
+Weiß Gott: dessen Gesicht glich tatsächlich dem eines
+bösartigen Affen … Augen funkelten in diesem mißgestalteten
+Schädel, die wie die Lichter eines lauernden
 Panthers waren …
 
 <@pagebreak/>
-Und — immer noch. die Pistole Harsts auf des Geheimschreibers
-Kopf ge: hier
+Und — immer noch die Pistole Harsts auf des Geheimschreibers
+Kopf gerichtet …
 
-»Spricht der Halunke englisch? fragte Harald einen
+»Spricht der Halunke englisch?« fragte Harald einen
 der Hofbeamten.
 
-»Sehr gut — —» auch niederländisch …
+»Sehr gut — auch niederländisch …«
 
-»Danke …*— Harst schaute den Mine drohend an …
-»Wenn Dir o4wa fügst, so werde im Dich töten … — Haft
+»Danke …« — Harst schaute den Gnom drohend an …
+»Wenn Du etwa lügst, so werde ich Dich töten … — Hast
 Du den Diener des Sultans in dessen Auftrag ermordet?«
 
 Der kleine Schuft mit dem lächerlichen Namen nickte …
 
-an Ende »deutlich ck.
+»Antworte deutlich …!«
 
-»Ja …
+»Ja …!!«
 
-Eine M. Stimme war’s …
+Eine heißere Stimme war’s …
 
-»Weshalb sollte der Diener selben? forschte Hotel.
+»Weshalb sollte der Diener sterben?« forschte Harald
 weiter …
 
-Der Bc Anschreiben Mond sich wie in Krämpfen …
+Der Geheimschreiber wand sich wie in Krämpfen …
 
 aber die Pistolenmündung war seinem Schädel zu nahe,
 
-»Der Sultan hatte das Weib des Dieners verführt … 1«
-rief der Gnom?forschend … un.
+»Der Sultan hatte das Weib des Dieners verführt …!«
+rief der Gnom kreischend … —
 
-wenn man bedenkt laß die Untertanen Dieses maäu-failschen
-Fürsten sirengasänbige Mohammedaner sind, wenn
-Dämon weiß, wie sehr der wollen die ohne seines Hauses zu
-wahren bestrebt ist, her wird begreifen, daß Sultan Sidar
-Ma sogar, der ohnedies nicht beliebt war, noch die Behauptung
+Wenn man bedenkt, daß die Untertanen Dieses malaiischen
+Fürsten strenggläubige Mohammedaner sind, wenn
+man weiß, wie sehr der Moslem die Ehre seines Hauses zu
+wahren bestrebt ist, der wird begreifen, daß Sultan Sidar
+Ma Tongi, der ohnedies nicht beliebt war, durch die Schändung
 einer fremden Ehe, die allgemeine Verachtung auf sich
-geraten haben würde … De&8halb mußte also der Tischgäste
-verschwinden — im gemacht werden … Diese
-Morvdpraxi8 war so recht Orient, war so roch! eines Sultans
-eines halbzivilisierten Maslatenstaates Türkin … ;-.
+geladen haben würde … Deshalb mußte also der Ehegatte
+verschwinden — stumm gemacht werden … Diese
+Mordpraxis war so recht Orient, war so recht eines Sultans
+eines halbzivilisierten Malaienstaates würdig …
 
-Doktor Erwin Scholz konnte sich noch immer nicht den
-seinem Erstaunen erholen Dieses Geoftändniä des Spionin
-Briefschreibers, also diese Bestätigung vc. Spalte Kombinationen
-hatte den guten Doktor total verwirrt …-
+Doktor Erwin Scholz konnte sich noch immer nicht von
+seinem Erstaunen erholen. Dieses Geständnis des Geheimschreibers,
+also diese Bestätigung von Haralds Kombinationen
+hatte den guten Doktor total verwirrt …
 
-»Ist das zu glauben …!!“« stammelte er … »Solchy’ ein
-Schrift von Sultan. Und — daß war Miß Alice Cottons
-Befiehlst 7 — Mr — Ab bis 5 19
+»Ist das zu glauben …!!« stammelte er … »Solch’ ein
+Schuft von Sultan. Und — daß war Miß Alice Cottons
+Geliebter …!! — Na — ich danke …!!«
 
-dieses »danke« wurde bereits Wald verschluckt …
+dieses »danke« wurde bereits halb verschluckt …
 
 <@pagebreak/>
-Ein Singhalese kam die Treppe herabgyestürmt …
+Ein Singhalese kam die Treppe herabgestürmt …
 
-»Mister Harst, — — der Sultan ist wieder da … 1;
+»Mister Harst, — — der Sultan ist wieder da …!!«
 keuchte der treue braune Bursche …
 
 <h2>4. Kapitel.</h2>
