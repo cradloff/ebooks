@@ -214,7 +214,7 @@ Myntor, zur Zeit in Goa wohnhaft. Es besteht aus:
 2. der Plantage Derryback bei Surat,
 3. Bargeld und Wertpapieren, deponiert in meinem
 Safe bei der hiesigen India-Bank, im Gesamtbetrage
-von 10000 Pfund Sterling.
+von 10&nbsp;000 Pfund Sterling.
 
 Meine Erbin hat meine Wirtschafterin Jane Busselt
 bis zu deren Tode bei sich aufzunehmen und ihr jährlich
@@ -279,7 +279,7 @@ Das ist alles, was ich wünsche.
 
 > Lady Maria Myntor,
 
-> geb. Bollerfetty.
+> geb. Bollersetty.
 
 <h2>2. Kapitel.</h2>
 
@@ -417,7 +417,7 @@ mit schwarzem Vollbart und gelbbrauner Gesichtsfarbe,
 die auf einen Mischling hindeutete.
 
 <@pagebreak/>
-»Ich habe Mr. Grosby von dieser meiner Vermutung
+»Ich habe vor Mr. Grosby von dieser meiner Vermutung
 absichtlich geschwiegen,« hatte Harald nach kurzer Pause
 hinzugefügt. »Ich kann mich ja auch irren. Vielleicht ist
 dieser »letzte Wunsch« ernst gemeint. Das wird sich ja herausstellen,
@@ -504,7 +504,7 @@ Also: »Wo ein Kreuz in Buchtfelsen eingemeißelt«. —
 Dann dasselbe am Querbalken von rechts nach links und
 am Längsbalken von unten nach oben:
 
-ist da li egt Blei Kap sel un ter den Stei nen,
+ist da li egt Blei kap sel un ter den Stei nen,
 
 also: »ist, da liegt Bleikapsel unter den Steinen«.
 
@@ -512,7 +512,7 @@ Freund Boßwell und alle anderen haben eben, wie ich
 schon Grosby gegenüber betonte, Schwierigkeiten gesucht,
 wo keine vorhanden sind, und daher keinen Erfolg gehabt.
 
-Um nun die Sachlage hier zu klären, schreibe Du
+Um nun die Sachlage hier zu klären, schreibe Du,
 scheinbar zur Unterstützung Deines Gedächtnisses, die Lösung
 auf ein anderes Blatt Papier und lasse das Papier
 <@pagebreak/>
@@ -551,7 +551,7 @@ Dazu das leise Surren der Ventilatoren und das
 ferne gleichmäßige Stampfen der Schiffsmaschinen.
 
 Ich hatte mich im Bett sofort aufrecht gesetzt. Wenn
-ich mich etwas nach links bog, konnte ich durch die obere
+ich mich etwas nach links bog, konnte ich durch die offene
 Schiebetür den Schreibtisch sehen. Das heißt: ich hätte
 ihn gesehen, wenn im Wohnraum Licht gebrannt hätte. —
 
@@ -679,13 +679,14 @@ mehrere Matrosen an der Backbordreling stehen.
 Einer der Matrosen beteuerte nochmals: »Es ist bestimmt
 ein Mann über Bord gesprungen. Ich sah, wie er
 sich auf die Reling schwang und sich in die See stürzte.«
+
 Die Nacht war außerordentlich dunkel. Der mit dichtem
 Gewölk bedeckte Himmel schien über dem dahingleitenden
 Schiffe wie eine schwarze Glocke zu schweben. Nur
 in nächster Nähe konnte man die Wellenkämme als helle,
 bewegliche Striche erkennen.
 
-Der Erste Offizier, wandte sich an Harald:
+Der Erste Offizier wandte sich an Harald:
 
 »Mr. Harst, was halten Sie von der Sache? Es hat
 wohl kaum Zweck, daß ich beidrehen lasse —« (Beidrehen
@@ -768,7 +769,7 @@ haben dürfte,« sagte er, als er jetzt die Seekarte von der
 Wand entfernte.
 
 In dem rotbraun lackierten Holze sah man die weißen
-Bänder eines quadratischen Loches, das gerade groß genug
+Ränder eines quadratischen Loches, das gerade groß genug
 war, um die Hand hindurchzuschieben.
 
 Harst hängte wortlos die Karte wieder an.
@@ -826,8 +827,8 @@ legten, schraken wir beide vor dem Gesichtsausdruck
 der noch warmen Leiche unwillkürlich zurück.
 
 Dieses Gesicht war wie eine Maske wildesten Entsetzens.
-Die herausgequollenen Augen, die etwas heraus
-hängende Zunge und die offenbar in höchster Todesangst
+Die herausgequollenen Augen, die etwas heraushängende
+Zunge und die offenbar in höchster Todesangst
 blutig gebissene Unterlippe wirkten mehr als abschreckend.
 
 Harst schaute mich an.
@@ -929,7 +930,7 @@ den Kaffee, um den Harst gebeten hatte. Der Steward
 verschwand, und ich füllte aus der großen Nickelkanne die
 beiden Tassen.
 
-Harald saß in der Sofacke mit der leicht qualmenden
+Harald saß in der Sofaecke mit der leicht qualmenden
 Mirakulum zwischen den Fingern und sagte nur:
 
 »Du solltest lieber schlafen gehen und Vorrat schlafen.
@@ -952,7 +953,7 @@ mit einem Schluck Kaffee hinab.
 
 »Ein Mann, der entweder Lady Myntor gut kannte
 oder den Advokaten. Jedenfalls ein Mann, der wußte,
-das die Lady bei Grosby ein Testament deponiert hatte
+daß die Lady bei Grosby ein Testament deponiert hatte
 und der sich vielleicht schon vor dem Tode der Lady Kenntnis
 von dem Inhalt des versiegelten Umschlags verschafft
 hatte, also vielleicht ein Angestellter des Anwalts oder gar
@@ -1005,7 +1006,7 @@ Testaments:
 > — der gleichzeitig für mich eine schwere Bloßstellung
 meines Charakters enthält. Ich überlasse es
 daher der Fügung des Schicksals, ob das, was mein
-Gewissen mir gebietet verwirklicht werden soll —
+Gewissen mir gebietet, verwirklicht werden soll —
 
 deuten mit aller Bestimmtheit darauf hin, daß Lady
 Maria Myntor einst eine schwere Schuld sich aufgeladen hat
@@ -1071,7 +1072,7 @@ hast. Du willst hinter Dracons Fahrzeug her.«
 »Natürlich.«
 
 »Wäre es nicht einfacher, an Inspektor Boßwell nach
-Bombay zu telegraphieren, daß er die Bucht bewachen so!?«
+Bombay zu telegraphieren, daß er die Bucht bewachen soll?«
 
 »Nein, mein Alter. Dracon hat fraglos auch in Bombay
 <@pagebreak/>
@@ -1084,7 +1085,7 @@ Wir mit der India fahren nordwärts. Auch Dracons
 Fahrzeug — ich halte es für eine kleine Dampfjacht —
 muß nordwärts nach Schotakadscha steuern, mithin kann
 Dracon nur einen geringen Vorsprung gewinnen, falls
-er nicht gerade über eine außerordentlich schnell laufende
+er nicht gerade über eine außerordentlich schnellaufende
 Jacht verfügt. Ich hoffe jedenfalls, wir werden ihn einholen.
 In Kalikut wohnen viele reiche Kaufleute, die sich
 Motorjachten halten und denen es eine Ehre sein wird,
@@ -1139,7 +1140,7 @@ Harald mich dann wachrüttelte, war es bereits heller
 Morgen.
 
 »Die Motorjacht ist da,« sagte er strahlend. »Und
-Dracon hat nicht depeschiert!«
+Dracon hat *nicht* depeschiert!«
 
 <h2>4. Kapitel.</h2>
 <h3>Miß Honoria Myntor.</h3>
@@ -1181,7 +1182,7 @@ hat ja Lady Myntors Erbin zuletzt gelebt, ihre Nichte Honoria
 Myntor.«
 
 »Ob ich Goa kenne — natürlich! Und auch die verrückte
-Miß. Sehr gut sogar. Sie war in Goa genau so
+Miß! Sehr gut sogar. Sie war in Goa genau so
 berühmt wie ihre Tante in Bombay!«
 
 »Erzählen Sie. Weshalb verrückt?«
@@ -1344,7 +1345,7 @@ drangen durch die zweite Tür ein, packten uns. Man
 fesselte uns mit feinem Kupferdraht an zwei Stühle. Wir
 konnten nur noch den Kopf bewegen.
 
-Uns gegenüber in in den weichen Schiffssesseln saßen
+Uns gegenüber in den weichen Schiffssesseln saßen
 nun die beiden hageren Männer. Nein — nicht zwei Männer.
 Der, der uns jetzt ansprach, hatte eine Weiberstimme,
 war Honoria Myntor.
@@ -1536,7 +1537,7 @@ Harald.
 Die Miß war aschfahl im Gesicht. Ihre Augen waren
 blutunterlaufen.
 
-»Ihr sollt es büßen!« kreischte sie den Indern
+»Oh — Ihr sollt es büßen!« kreischte sie den Indern
 zu und hob drohend die gefesselten Hände.
 
 Die braunen Matrosen, junge, kräftige Burschen, entfernten
