@@ -869,7 +869,7 @@ konnte nur der Schoner sein, der damals von den Malaien
 überfallen worden war.
 
 <h2>4. Kapitel.</h2>
-<h3>Die Frau aus der Urwasldvilla.</h3>
+<h3>Die Frau aus der Urwaldvilla.</h3>
 
 Ein Boot führte uns beide und zwei Singhalesen sowie
 Fritz Dietrich zunächst nach dem Schoner.
@@ -2191,7 +2191,7 @@ Schweigen …
 
 *Trotzig* schaute das Weib zu Boden …
 
-»Frau Antje van Graaven,« wandte er sich an die junge
+»Frau Antje van Graaven<@refnote 2/>,« wandte er sich an die junge
 Witwe des Schmugglerkönigs, »wissen Sie es vielleicht?«
 
 Schweigen …
@@ -2536,57 +2536,56 @@ keuchte der treue braune Bursche …
 <h2>4. Kapitel.</h2>
 <h3>Als der Ball herabflog …</h3>
 
-Der Sultan von Hadjanoor hat A- »nach auf das Pech
-sitzt Geleit … Die Königin der Niederlande hatte sitzt
-Ma Tongi- als ersten diesen direkt verliehen.
+Der Sultan von Hadjanoor hat Anspruch auf das Prädikat
+Hoheit … Die Königin der Niederlande hatte Sidar
+Ma Tongi als ersten diesen Titel verliehen.
 
-Nun — Seine Hoheit sollte in. der Urwaldvilla sehr
+Nun — Seine Hoheit sollte in der Urwaldvilla sehr
 wenig ehrerbietig empfangen werden. Diesen Empfang hatten
-Fritz Dietrich und Kapitän Lieber! besorgt …
+Fritz Dietrich und Kapitän Liebert besorgt …
 
-Als wir oben den Luitxussalon betraten, saß Seine
-Dabei!, der im. übrigen europäische Sportkleidung trug, aus
-einem Sessel, und dicht vor ihm saß der vierschrötige Lieber!,
-en der Rechten einen. Revolver. Seitwärts standen zwei
-Singhalesen mit Drama-Kubu-Speeren … Dietrich lehnte
+Als wir oben den Luxussalon betraten, saß Seine
+Hoheit, der im übrigen europäische Sportkleidung trug, auf
+einem Sessel, und dicht vor ihm saß der vierschrötige Liebert,
+in der Rechten einen Revolver. Seitwärts standen zwei
+Singhalesen mit Orang-Kubu-Speeren … Dietrich lehnte
 am Fenster …
 
 der Sultan machte ein Gesicht wie ein Nußknacker, als
-der Doktor und wir beide uns jetzt vor ihm aufvslanzten.
+der Doktor und wir beide uns jetzt vor ihm aufpflanzten.
 Die Hofbeamten hatten wir im Keller zur Bewachung des
-Sicheinisichreibers zurückgelassen …
+Geheimschreibers zurückgelassen …
 
 Sein überaus hageres Gesicht mit den vorspringenden
 Backenknochen und den kalten, dunklen Augen War, wie
-gesagt, im Übermaß lohenden ’Wut unglaublich verzerrt …
+gesagt, im Übermaß lohender Wut unglaublich verzerrt …
 
 Harald verbeugte sich …
 
-Wir hatten die chinesischen Rüstungen längst also
-
-legt … Unsere Sportanzüge glichen in Schnitt und Farbu
+Wir hatten die chinesischen Rüstungen längst abgelegt
+… Unsere Sportanzüge glichen in Schnitt und Farbe
 auffallend dem seiner Hoheit …
 
-Mein Name ist Harald ’Harst,« stellte der Freund!ck
+»Mein Name ist Harald Harst,« stellte der Freund sich
 <@pagebreak/>
-Ei farbigen Potentaten vor. »Detektiv Harald Harst,
+dem farbigen Potentaten vor. »Detektiv Harald Harst,
 Hoheit …«
 
 Die Augen des Sultans schlossen sich für einen Moment.
 
 Vielleicht um das jähe Erschrecken zu verheimlichen …
 
-»weshalb sind Sie umgekehrt, Hoheit?« sagte Kennst
-dann ziemlich unhöflich. »Deck möchte Sie vor jeder Unwahrheit
-warnen, Bechert … Sie werden von mir gehört
-haben … Ein Sultan von Hadjanoor gilt mir nicht mein
-als jeder andere Mensch. Ich Größe das Recht und bekämpfte
+»weshalb sind Sie umgekehrt, Hoheit?« sagte Harst
+dann ziemlich unhöflich. »Ich möchte Sie vor jeder Unwahrheit
+warnen, Hoheit … Sie werden von mir gehört
+haben … Ein Sultan von Hadjanoor gilt mir nicht mehr
+als jeder andere Mensch. Ich stütze das Recht und bekämpfte
 das Unrecht …«
 
-Sidar Ma langte Gesichtsmuskeln zuckten wie im
+Sidar Ma Tongis Gesichtsmuskeln zuckten wie im
 Krampf …
 
-»Antworten Sie!! 1« rief Harst, als der Sidar mit einem
+»Antworten Sie!!« rief Harst, als der Sidar mit einem
 verächtlichen Lächeln schwieg …
 
 Dieses Lächeln war ebenso hochmütig wie verächtlich …
@@ -2594,11 +2593,11 @@ Dieses Lächeln war ebenso hochmütig wie verächtlich …
 Verstärkte sich noch …
 
 Harald bekam die drei bekannten Falten auf der
-Stirn …-.
+Stirn …
 
-»Dietrich — Schraut!! Fesselt den Menschen, … 11«
+»Dietrich — Schraut!! Fesselt den Menschen, …!!«
 
-Und diese Harstsche Annahme war. scharf wie ein’
+Und diese Harstsche Stimme war scharf wie ein
 Messer …
 
 Da schnellte Hoheit denn doch empor …
@@ -2606,100 +2605,102 @@ Da schnellte Hoheit denn doch empor …
 Die Nüstern der schmalen großen Nase flatterten …
 
 »Sie sind wahnsinnig,« sagte er mit unnatürlicher Ruhe.
-»Sie« befinden sich hier innerhalb der Grenzen meines
+»Sie befinden sich hier innerhalb der Grenzen meines
 Staates, Mister Harst … Sie …«
 
-Haralds energische Handbewegung heute ihn doch aus
-dem Wort …
+Haralds energische Handbewegung brachte ihn doch aus
+dem Text …
 
 »Hoheit, Sie sind umgekehrt, weil Alice Cottons Erregung
-Ihren Verdacht geweckt hatte … Ist es so?k«
+Ihren Verdacht geweckt hatte … Ist es so?«
 
 »Ja …«
 
-»Ich habe Ihre Unterredung mit Miß Cotton belausäx,
-Hoheit. Ihr Geheimschreiber kann Sie. begleiten, wenn er
+»Ich habe Ihre Unterredung mit Miß Cotton belauscht,
+Hoheit. Ihr Geheimschreiber kann Sie begleiten, wenn er
 will … Die beiden Hofbeamten werde ich dem holländischen
-Bestreuten zuführen …«
+Residenten zuführen …«
 
 Des Sultans Antlitz war erdgrau geworden …
 
 <@pagebreak/>
-»39 habe sein Recht, Sie hier fesizubrnitun,« füge Harst
-hinzu. »Sie können geben … Art ich wandte Sie, eng
-das Haus zu umjehleicven … alle ich zu machen .-.
-hellen Sie den gedungenen Mörder also mir sich üichien?«
+»Ich habe sein Recht, Sie hier festzuhalten,« fügte Harst
+hinzu. »Sie können gehen … Aber ich warne Sie, etwa
+das Haus zu umschleichen … also kehrt zu machen …!
+Wollen Sie den gedungenen Mörder also mit sich nehmen?«
 
-Seine Hoheit wo? bin Üb: 8 klägliches Bild.
+Seine Hoheit bot ein überaus klägliches Bild …
 
-Ei stand da wie einer, beim übrige 935 Geist u nicht
-mehr arbeitet. Zu nieverschumelivrand »waren gar ihn diese
+Er stand da wie einer, dem jählings das Gehirn nicht
+mehr arbeitet. Zu niederschmetternd waren für ihn diese
 Eröffnungen …
 
-Seine Lippen bewegten sich … Er wollte [sprechen …
-Er ganz mich die Worte …
+Seine Lippen bewegten sich … Er wollte sprechen …
+Er fand nicht die Worte …
 
-Man denke; Sultan zwar Ma Tongi, reichster Fürst
+Man denke: Sultan Sidar Ma Tongi, reichster Fürst
 des Sunda-Archipels, — und hier wie ein gemeiner Halunke
-(1068 es auch) war!) durch) vereinen, Speere und die gern
-jviutichfeit- eines Deutschen in Schach gehalten …!!
+(was es auch war!) durch Revolver, Speere und die Persönlichkeit
+eines Deutschen in Schach gehalten …!!
 
-Man denke: ein fast »Allmählichen Tyrann, der sich von
-letzter was um die hvoüändische Mherbobei Scherze, er eine
-und hier ein Nichts, eine Null, en … Gefangener!1 …
+Man denke: ein fast allmächtiger Tyrann, der sich den
+Teufel was um die holländische Oberhoheit scherte, — —
+und hier ein Nichts, eine Null, ein … Gefangener!! —
 
-Langsam lebte er sich Diskret …
+Langsam setzte er sich wieder …
 
-Offenbar wollte er Zeit denn wo
+Offenbar wollte er Zeit gewinnen …
 
-Sein stopp! Jan?! aus. die Brust … Er stützte das bartlose
-hin in die Linke … Ich sah an dieser 3 und junge von
-Unerijöner Npftbarfpit Stützen …
+Sein Kopf sank auf die Brust … Er stützte das bartlose
+Kinn in die Linke … Ich sah an dieser Hand Ringe von
+unerhörter Kostbarkeit glänzen …
 
-Er saß minutenlang reguigslos …
+Er saß minutenlang regungslos …
 
-Datum — hob erholt: Kopf …
+Dann — hob er den Kopf …
 
-»30: Hirte. Zuge fünf Millionen wenn Sie
-schweigen … -.« Er sprach es hastig und Ei; mit aller Genua!
-Arbeit, daß wir diesem Autggeboi umnerlicccn würden …
-»ab werde Ihnen, Mr. Harst, einen Hotel auf die Bank
-hatten- ausstellen … Ich.
+»Ich biete Ihnen fünf Millionen … wenn Sie
+schweigen …« Er sprach es hastig und doch mit aller Gewißheit,
+daß wir diesem Angebot unterliegen würden …
+»Ich werde Ihnen, Mr. Harst, einen Scheck auf die Bank
+von London ausstellen … Ich …«
 
-»Sir beleidiven uns,« an! wertete jetzt Kapitän Lieber!
-giimtmig. »lassen Sie also besser das Maul, Hoheit …
-Wir ging nicht sämtlich … Wir nicht … Andere vielleicht …
+»Sir beleidigen uns,« antwortete jetzt Kapitän Liebert
+grimmig. »Halten Sie also besser das Maul, Hoheit …
+Wir sind nicht käuflich … Wir nicht … Andere vielleicht …«
 
-»Bravo!« nie]: Doktor Scholz …
+»Bravo!« rief Doktor Scholz …
 
-und Fritz Verschlusses: »Sie Lump haben anspornen?
-ah die mit ehrlichen Diensten verkehrt!!«
+und Fritz Nachschlüssel: »Sie Lump haben anscheinend
+noch nie mit ehrlichen Menschen verkehrt!!«
 
-Witwer überzog Erdloche des Sultans Gesicht …
+Wieder überzog Erdfarbe des Sultans Gesicht …
 
 <@pagebreak/>
 Harst tat so, als hätte er diesen Bestechungsversuch gar
 nicht gehört …
 
-»Soll ich »also Ihren Geheimschreiber herausholen
-Gen fragte er Stutze Ma Tongi …
+»Soll ich also Ihren Geheimschreiber herausholen
+lassen?« fragte er Sidar Ma Tongi …
 
-»349 tue es, obwohl ich weiß, daß der Verwachsene
+»Ja …!!«
+
+»Ich tue es, obwohl ich weiß, daß der Verwachsene
 natürlich … verunglücken wird, Hoheit … Er hat den
 Tod verdient. Ob die Holländer ihn aufknüpfen oder ob
-Sie ihn un:bringen lassen, ist mir im Grunde gleichgültig …
+Sie ihn umbringen lassen, ist mir im Grunde gleichgültig …«
 
-Er winkte Doktor Scholz und mir .,
+Er winkte Doktor Scholz und mir …
 
 Wir eilten in den Keller, holten den Geheimschreiber …
 
-Als wir, ihn zwischen uns führend, eintraten, ich gute
+Als wir, ihn zwischen uns führend, eintraten, schaute
 der Sultan den Buckligen mit einem durchaus gleichgültigen
 Blick an …
 
 Dann stand er auf …
 
-Und durch eine Kopfbewegung befahl er seinem! Vertrauten,
+Und durch eine Kopfbewegung befahl er seinem Vertrauten,
 ihm zu folgen …
 
 Von uns nahm er keine Notiz mehr …
@@ -2708,165 +2709,165 @@ Durch den Vordereingang verließen die beiden die Urwaldvilla
 und schritten dem Waldrande zu … —
 
 Es hat damals, im Dezember 1924, in allen Zeitungen
-gestanden: daß der Sultan von Südländer und sein Geheim-Schreiben
+gestanden: daß der Sultan von Hadjanoor und sein Geheimschreiber
 einem Attentat einer früheren Geliebten des Fürsten
-zum Opfer fielen …
+zum Opfer fielen …!
 
-»Nun — ein wenig anders war die Sache nun doch …
+Nun — ein wenig anders war die Sache nun doch …
 
 Wir standen alle am Fenster, als die beiden Malaien,
 Sultan und Schreiber, unten vorübergingen … Wir waren
-also Augenzeuge dessen, was hier [so unvermutet ’neimah …
-sind Glück hatten wir gehabt, weil die Splitter he: sei
-Je dringenden Fenster uns nur leicht die Gesichter verkehren …
+also Augenzeuge dessen, was hier so unvermutet geschah …
+Und Glück hatten wir gehabt, weil die Splitter der
+zerspringenden Fenster uns nur leicht die Gesichter verletzten …
 
-jedenfalls: der Sultan und der Verwachsene Kaiserreich
-etwa zehn Meter. vom Hause entcscernt, als etwas wie ein
-Wut hinter ihnen im Bogen von oben durch die Luft sauste
-und auf die Erde ausschlug …
+jedenfalls: der Sultan und der Verwachsene hatten sich
+etwa zehn Meter vom Hause entfernt, als etwas wie ein
+Ball hinter ihnen im Bogen von oben durch die Luft sauste
+und auf die Erde aufschlug …
 
 Im gleichen Moment hatte Harald, der als vorderster
 <@pagebreak/>
-neben Doktor Scholz am Fenster Siam, die Arme »(Sgebreitei
-und uns alle ins Zimmer zurückgeschleudert …« …
+neben Doktor Scholz am Fenster stand, die Arme ausgebreitet
+und uns alle ins Zimmer zurückgeschleudert …
 
-Ein donnernder Knall +…
+Ein donnernder Knall …
 
-Das Klirren der Fenster, …
+Das Klirren der Fenster …
 
-Zerrann! fiel in Stücken von her Decke …
+Tonputz fiel in Stücken von der Decke …
 
 Stille …
 
-Dann das Geschrei« älterer Singhalesen wird » Malaien …
+Dann das Geschrei unserer Singhalesen und Malaien …
 
-Wir wie gespickt mit Glassplitterchen, …
+Wir wie gespickt mit Glassplitterchen …
 
-Ans Fenster-.
+Ans Fenster …
 
-Dort, wo die Bombe explodierte war, ein metertiefes
+Dort, wo die Bombe explodiert war, ein metertiefes
 Loch …
 
-Von zwar und dem Geheimschreiber nichts — nichts …
+Von Sidar und dem Geheimschreiber nichts — nichts …
 
-In den nahen Sträuchern ein paar Kleiderschen … -
+In den nahen Sträuchern ein paar Kleiderfetzen … —
 
 Unsere Singhalesen sammelten dann zusammen, was
-von den errichten Körpern weit umhergestreut war … —’
+von den zerfetzten Körpern weit umhergestreut war … —
 
-Sobald und Fritz Dietrich verfolgten Alice Cotton, die
+Harald und Fritz Dietrich verfolgten Alice Cotton, die
 erst die Bombe geschleudert hatte und dann aus dem Fenster
-gesprungen wär … Ihrer Wächter Aufmerksamkeit hatte
-ne schlau abzulenken gewußt, … Wir fanden in dem Fimmel
-noch mehr Bomben — in einer Kiste … -…
+gesprungen war … Ihrer Wächter Aufmerksamkeit hatte
+sie schlau abzulenken gewußt … Wir fanden in dem Zimmer
+noch mehr Bomben — in einer Kiste … —
 
 Nach zwei Stunden kehrten Harald und Dietrich zurück
-— ohne Erfolg! Alice war entwischt … Freiheit hatte
+— ohne Erfolg! Alice war entwischt … Vielleicht hatte
 sie sich mit ihren Orang-Kubus vereinigt … Wir mußten
-sehr auf der Hut sein, Wenn sie nur zwei von den
-denken etwa Mitgenommen hatte, konnte sie das. ganze
-Hat: Artisten …
+sehr auf der Hut sein … Wenn sie nur zwei von den
+Bomben etwa mitgenommen hatte, konnte sie das ganze
+Haus zerstören …
 
-»wir trafen denn auch in Rücksicht hierauf allerlei Vor-Üremaßregeln,
-die sich nachher trefflich bewährten. So
+Wir trafen denn auch in Rücksicht hierauf allerlei
+Vorsichtsmaßregeln, die sich nachher trefflich bewährten. So
 wurde schleunigst durch Dietrich und vier Singhalesen die
-Traum in den schilfumkränzten See geschafft. Bei dieser
-Gelegenheit entdeckte Lords Mann Dietrich hält am -Seeufer
-das Grab Pieter van Gartens, Frau Antje, hiervon in
+Prau in den schilfumkränzten See geschafft. Bei dieser
+Gelegenheit entdeckte Landsmann Dietrich hart am Seeufer
+das Grab Pieter van Graavens. Frau Antje, hiervon in
 Kenntnis gesetzt, eilte sofort in Begleitung von Doktor Scholz
-dorthin und blieb nachher Rauch auf der Prau, beschützt von
-Fritz Dietrich, der die Witwe zu wo aufs zarteste zu trösten suchte
+dorthin und blieb nachher auch auf der Prau, beschützt von
+Fritz Dietrich, der die Witwe aufs zarteste zu trösten suchte …
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Der vierte Schöornftein.</h3>
+<h3>Der vierte Schornstein.</h3>
 
-In der Urwaldvilla befanden sich jetzt mir noch drei
-Ziuaboleosen, Doktor Scholz und wir beide. auch Dap’iän
-lieber? uvp die beiden malaiischen Hofpeamten waren auf
-die Plan ibargesionelt, da Harald dies gewünscht hatte.
+In der Urwaldvilla befanden sich jetzt nur noch drei
+Singhalesen, Doktor Scholz und wir beide. auch Kapitän
+Liebert und die beiden malaiischen Hofbeamten waren auf
+die Prau übergesiedelt, da Harald dies gewünscht hatte.
 
-… Weg Tag Vergleich, Nicht erstarrte sich. -… Abends
-gegen acht Uhr Schilde Gang!durch den Doktor und die
-drei Singhalesen sah der Prau und begründete hing hindurch,
-daß er nur mit mir allein hier noch den Nest der
-Geheimnisse enthüllen könnte: den Verbleib der Mumie, dies
-vorn in ersten sind in einem Zarge 028 Hatte …
+Der Tag verstrich. Nichts ereignete sich … Abends
+gegen acht Uhr schickte Harald auch den Doktor und die
+drei Singhalesen nach der Prau und begründete dies dadurch,
+daß er nur mit mir allein hier noch den Rest der
+Geheimnisse enthüllen könnte: den Verbleib der Mumie, die
+vorn im ersten Stock in einem Sarge gelegen hatte …
 
-Wir Kanon vor der Hinleitet des Hauses und gelangten
-den Abziehenden Dach, Doktor S;: Holz winkte eins noch
-wiederholt zu, mochte aber + sehr miriisichyes Gesicht, Es
-paßte ihm gar nicht, daß er ich! mit von der Partie 1c:n
-»sie … Er erwartete sicherlich aroßoarlige Erlebnisse, die
-im uns beiden vprrvehalten bleiben folgten.
+Wir standen vor der Hintertür des Hauses und schauten
+den Abziehenden nach. Doktor Scholz winkte uns noch
+wiederholt zu, machte aber ein sehr mürrisches Gesicht. Es
+paßte ihm gar nicht, daß er nicht mit von der Partie sein
+durfte … Er erwartete sicherlich großartige Erlebnisse, die
+nur uns beiden vorbehalten bleiben sollten.
 
-Harald sagte: »So, mein Alter, jetzt gehen wir
-las, verschieden die Türen und. b. »Ehen auf dein tauchte
-hatten He
+Harald sagte: »So, mein Alter, jetzt gehen wir ins
+Haus, verschließen die Türen und beziehen auf dem Dache
+Posten …«
 
-es Tränkte mich verhört zu haben …
+Ich glaubte mich verhört zu haben …
 
-»albern Dache, Harald?«
+»Auf dem Dache, Harald?«
 
-»Ja … Komm! mir, es wird Dich schon n’ex-eilleren
-…« 04
+»Ja … Komm’ nur, es wird Dich schon interessieren
+…«
 
-das stimmte, Er interessierte mich) sogar antraf?Ende
-Oh … in braimtte keinerlei vor Neugier, was wir auf
-dem Dache sollten … -
+Das stimmte. Er interessierte mich sogar außerordentlich
+… Ich brannte lichterloh vor Neugier, was wir auf
+dem Dache sollten … —
 
-sonst na!in aus der anderen Küche zwei große eiserne
-Schlaflosen mit, außerbvem eine Laterne und vier Polstep-kissen
-aus dem Orientjaion …
+Harst nahm aus der unteren Küche zwei große eiserne
+Schürhaken mit, außerdem eine Laterne und vier Polsterkissen
+aus dem Orientsalon …
 
-»Weshalb saßen wir uns auf Ei: Vriitorvoch Eier
-brüten «E19 meinte er …
+»Weshalb sollen wir uns auf dem Bretterdach Schwielen
+drücken …?!« meinte er …
 
 <@pagebreak/>
-Gegen halb neun hatten wir uns oben auf den trösten
-der vier Schornsteine gesetzt — oben aus den Rand, hatten
+Gegen halb neun hatten wir uns oben auf den dicksten
+der vier Schornsteine gesetzt — oben auf den Rand, hatten
 nun einen tadellosen Rundblick Über die Umgebung und
-worden vorläufig jeden sehen, der. sich dem Hause näherte.
-Bis halb zehn blieb es hell. Erst dann setzte die Abenddäm-Mmerung
+konnten vorläufig jeden sehen, der sich dem Hause näherte.
+Bis halb zehn blieb es hell. Erst dann setzte die Abenddämmerung
 ein …
 
-Wir konnten auch bis zur Prau hinfiberbliken … Die
-Entfernung betrug etwa zweihundert Meter. Freilich ’fian-
-den viel Bäume dazwischen, und nur einzelne Blatilücken
+Wir konnten auch bis zur Prau hinüberblicken … Die
+Entfernung betrug etwa zweihundert Meter. Freilich standen
+viel Bäume dazwischen, und nur einzelne Blattlücken
 zeigten uns unseren Blücher und die friedlich auf dem Achterdeck
 sitzenden Gefährten.
 
-… Harald spendete mir eine Mirakulum …
+Harald spendete mir eine Mirakulum …
 
-»Bitte — die Sache ist 8 wert … « „« — »Er gab. mir
+»Bitte — die Sache ist es wert …« — Er gab mir
 Feuer …
 
 Wir rauchten … Ich wartete …
 
-»u, sieh’ mal, mein Alter … Das Haus hat vier
+»Ja, sieh’ mal, mein Alter … Das Haus hat vier
 Schornsteine … Wir haben in die plumpen Dinger hineingeschaut,
 weil die Mumie dort verborgen sein konnte …«
 
-Pause … - - Ich wartete …
+Pause … — Ich wartete …
 
-»Hm — möchtest Da! Dir nicht die Schornsteine genauer
-anschauen, … 2! erklärte Harald nach einer Weile …
-»2 Der recht genau … Vielleicht merkst Du, was ich schon
-von indem gesehen habe …«
+»Hm — möchtest Du Dir nicht die Schornsteine genauer
+anschauen …?! erklärte Harald nach einer Weile …
+»Aber recht genau … Vielleicht merkst Du, was ich schon
+von unten gesehen habe …«
 
-Ich entlang von der klobigen Esse herab … und jetzt,
-wo Harst mich gleichsam mit der Nase aus. dieses Aussästlige
-gestoßen hatte, da erkannte ich, daß dieser tiefste Schornstein
+Ich sprang von der klobigen Esse herab … Und jetzt,
+wo Harst mich gleichsam mit der Nase auf dieses Auffällige
+gestoßen hatte, da erkannte ich, daß dieser dickste Schornstein
 weit jüngeren Datums war …
 
-kannst kam mir auch von dem luftigen Tisch herunter ward
+Harst kam nun auch von dem luftigen Sitz herunter und
 meinte:
 
-»Zu, mein lieber Alter, »leise dicke Ding ist Blendwert
-Hölle … Das ist nur eine Schornsteinatrappe, die in
-Dr Nebenöesse unten einmündet … Wie wär’s, wenn wir
-mal den Schornstein beklagten, um nach einem Hohlraum
+»Ja, mein lieber Alter, dieses dicke Ding ist Blendwerk
+der Hölle … Das ist nur eine Schornsteinattrappe, die in
+die Nebenesse unten einmündet … Wie wär’s, wenn wir
+mal den Schornstein beklopften, um nach einem Hohlraum
 zu suchen …
 
 Jetzt ging mir ein Licht auf.
@@ -2874,145 +2875,145 @@ Jetzt ging mir ein Licht auf.
 Und mit Feuereifer klopfte ich … horchte …
 
 <@pagebreak/>
-- Brigg — hier an dieser Seite gaben die in der Sonne
-erhärteten Ziegel einen dumpfserten Wo Ton je
+Aha — hier an dieser Seite gaben die in der Sonne
+gehärteten Ziegel einen dumpferen klingenden Ton …
 
-stellt Je Dar!
+»Los!!« rief Harst …
 
-Ziel er war leicht erregt …
+Auch er war leicht erregt …
 
-er Weitere nun. mit wahrer Mit!,
+Auch er arbeitete nun mit wahrer Wut …
 
-Wir wissen wir standen jetzt vor der Lösung des See
-je wirst! Hut ohne Tonziegolichicht flammte uns davon …
+Wir wußten: wir standen jetzt vor der Lösung des 
+Geheimnisses! Nur ohne Tonziegelschicht trennte uns davon …
 
-wartete Zt Erläutern rissen Teile der Ziegel befahl …
+Unsere Schürhaken rissen Teile der Ziegel heraus …
 
-Wasser Schfüibaken erweiterten die Öffnung …
+Unsere Schürhaken erweiterten die Öffnung …
 
-Apotheke poltern! auf das Dach …
+Ziegelstücke polterten auf das Dach …
 
-Hafen mehr …
+Immer mehr …
 
 Jetzt konnten wir schon einen Blick in den Hohlraum
-der So So örmsteitnanh weiter …
+der Schornsteinwand werfen …
 
-Jeu! noch ein paar Ziegel
+Jetzt noch ein paar Ziegel …
 
-Dann 275.3. oben Sie 5574.
+Dann … sahen wir …!!
 
-Die Mumie holte in dem Loche …
+Die Mumie hockte in dem Loche …
 
-… Die Mumie …!!
+Die Mumie …!!
 
--  Entsetzlich-: erstrebst die Ohne Haare, Löcher im »am
-die Nase gerissen …
+Entsetzlich entstellt … Ohne Haare, Löcher im Gesicht,
+die Nase zerrissen …
 
-- hin Anblick, daß einem graute …
+Ein Anblick, daß einem graute …
 
-ein richtiger, durch Roun-peutwicklung Depesche
-Wunsch Eure »5.154
+Ein richtiger, durch Rauchentwicklung hergestellter
+Mumienkopf …
 
-Darunter ein dieser Hals, regte eines Hemdes …
+Darunter ein dürrer Hals … Reste eines Hemdes …
 
-Neu Dach war noch zu erkennen, daß See Greis ein
-Not her gelassen 17-406
+Und doch war noch zu erkennen, daß der Greis ein
+Europäer gewesen …
 
-Da sagte Tote lese
+Da sagte Harald leise:
 
-»ne 2g108 der »vier Frau Antjes und ihrer zweiter.«
+»Fraglos der Vater Frau Antjes und ihrer Schwester …«
 
-Oh dachte an das, was »ihrer Fortan uns. auf dem
-sonst von der Leprakrankheit erzählt Alte …
+Ich dachte an das, was Alice Cotton uns auf dem
+Schoner von der Leprakrankheit erzählt hatte …
 
-Ich Tote etwas erwidern …
+Ich wollte etwas erwidern …
 
-Dir Stadt hell rechts von blaß - in Mai Blumen
+Ein Schuß fiel rechts von uns — in den Bäumen …
 
-hin Blick genügte …
+Ein Blick genügte …
 
-Alice Sektion …!! Er
+Alice Cotton …!!
 
-Alice Gatten drüben am vierten 7 ck all … mit
-e: anderen an u« »im der »Sand. Hut Bombe …
+Alice Cotton drüben am vierten Schornstein — mit
+erhobenem Arm … In der Hand … eine Bombe …
 
-Wairsbereit …
+Wurfbereit …
 
 <@pagebreak/>
-ne —) —» eint zweiter Schuß ans der näher Yaum-krone
-… Doktor Schatz Gesicht Flurs im Mittelfach …
+Aber — — ein zweiter Schuß aus der nahen Baumkrone
+… Doktor Scholz Gesicht dort im Blätterdach …
 
-Wind Alice Cotton Sprache …: … fünf Landgjam zuüd …
-Die Bombe fiel ihr auf den schoß, blieb licömm …
+Und Alice Cotton taumelte … sank langsam zurück …
+Die Bombe fiel ihr auf den schoß, blieb liegen …
 
-Mit drei — vier Süden war Bauart den ihr … Hob
-das gefährliche Geistes auf … 3H bittevdrein -
-Allee Cotton lebe noch … Die Horn Kugel hatte die Brust
+Mit drei — vier Sätzen war Harald neben ihr … Hob
+das gefährliche Geschoß auf … Ich hinterdrein … —
+Alice Cotton lebte noch … Die zweite Kugel hatte die Brust
 quer durchschlagen …
 
-Harst Knie: neben ihr, glühte Ihren möge?
+Harst kniete neben ihr, stützte ihren Kopf …
 
 Alice Cotton flüsterte mit letzter Kraft:
 
-Liebe 5 - Harst … Ma Atem: 05. Ei 5 — … Mißt 5 …
-wohnte hier …“. bei lich … Bat mich, seine Qualen zu
-konnten 5 ihn zu Tischchen … » » Dieses … verlangen
-war ernstlich, … Her! Harst … »ich; … hat E02
-… erschoß in im: von 4 Wollte sie
-sichern gegen … Mai. klage … Deshalb … ließ ließ
-»es: die Leiche: durch sprang-Kubu präparieren, damit
-422 Die Geriuitärben erhalten blieben …«
+»Herr … Harst … Mein … Vater … Lepra …
+Wohnte hier … heimlich … Bat mich, seine Qualen zu
+beenden … ihn zu erschießen … Dieses … Verlangen
+war ernstlich … Herr Harst … ich … tat … es …
+Ich … erschoß ihn im Schlaf … Wollte … mich …
+sichern gegen … Mordanklage … Deshalb … ließ ich
+… die Leiche … durch Orang-Kubu präparieren, damit
+… die Lepranarben erhalten blieben …«
 
-Die Ergraute mutlos anno:cstänrdlich … ck
+Die Stimme wurde unverständlich …
 
-»hie Augen bekämen wen übertrieben Auswurf, Her
-nahe ’nvbe Ende vieifündet …
+Ihre Augen bekämen jenen überirdischen Ausdruck, der
+das nahende Ende verkündet …
 
-Harst keuchte sich dieser … nahm ihre Hand.
+Harst beugte sich tiefer … nahm ihre Hand …
 
-»Alice Cotton, Was Sie auch getan haben: Gott fand
-Ihnen verzeihen, vergeben 457
+»Alice Cotton, Was Sie auch getan haben: Gott wird
+Ihnen verzeihen, vergeben …«
 
-»Ob sie diese gütigen Worte noch Herrn gen hatte, war
-erhoben zu ekiicheiden …
+Ob sie diese gütigen Worte noch verstanden hatte, war
+schwer zu entscheiden …
 
-Ganz läuft schlief sie dann ein …
+Ganz sacht schlief sie dann ein …
 
-Drei Uhr Aden die 20m.
+Drei umstanden die Tote …
 
-Der dritte war. unser Netter, letzter Scholz … blaß.
-ne Tatort
+Der dritte war unser Retter, Doktor Scholz … blaß,
+verwirrt …
 
-»Wein (voll, das erste Menschenleben, das 9 vernichte!
-Habt 75 folgte Dr.
+»Mein Gott, das erste Menschenleben, das ich vernichtet
+habe …« stöhnte er …
 
-Ha fort rauchte ihm die Sand …
+Harald drückte ihm die Hand …
 
-»Doktor — ein Lebens für zwei! Vergossen Sie das
-nicht …
+»Doktor — ein Leben für zwei! Vergessen Sie das
+nicht …!« — —
 
-um und! Co 1: Mögen verließ unser Blücher die lange
+Am anderen Morgen verließ unser Blücher die lange
 <@pagebreak/>
-Bucht - 2 Dr: nahmen Kurs auf Batavia, den Syupihälen
-von Java … - … Dort meldeten wir die Geschehnisse den voll
-hündischer Rekorder! Tor! verließen Fritz Dietrich mit
-Frau Antje heimlich die Prau, damit die Witwe« des
-Schmugaglerfönigs nicht etwa verhafte! würde …
+Bucht … Wir nahmen Kurs auf Batavia, den Haupthafen
+von Java … Dort meldeten wir die Geschehnisse den holländischen
+Behörden … Dort verließen Fritz Dietrich mit
+Frau Antje heimlich die Prau, damit die Witwe des
+Schmugglerkönigs nicht etwa verhaftet würde …
 
 Wir haben die Urwaldvilla nicht mehr wiedergesehen …
-Im Suülianat Hadjanoor herrscht jetzt der älteste Sohn des
-Sidar, ein Jüngling,. der vollständig unter Dom einmal des
-holländiicgen Residenten sieht — zum Glück, einer
+Im Sultanat Hadjanoor herrscht jetzt der älteste Sohn des
+Sidar, ein Jüngling, der vollständig unter Einfluß des
+holländischen Residenten sieht — zum Glück …! —
 
-Hiermit muß ich mich für heute von den öffnen Herr
-abschieden …
+Hiermit muß ich mich für heute von den Lesern verabschieden
+…
 
 wenn wir uns im nächsten Band wiedersehen, hat der
 Schauplatz gewechselt …
 
-Ein ruhelos, kleines Eiland im hoben Norden wurde
-Namen Tau! erquarkier 043.8
+Ein anderes, kleines Eiland im hohen Norden wurde
+unser Winterquartier …
 
-Nächster Band?
+Nächster Band:
 
-Das Gespenst von Jan Mayen.
+__Das Gespenst von Jan Mayen.__
