@@ -1163,7 +1163,7 @@ Und Miß Alice Cottons Hohnlachen belehrte uns, daß
 wir … die Partie vorläufig verloren hatten …
 
 <h2>5. Kapitel.</h2>
-<h3>Der Sultan von Gadjanoor.</h3>
+<h3>Der Sultan von Hadjanoor.</h3>
 
 »Ein Wort von mir, und Sie sind erledigt, meine
 Herren …« sagte sie spöttisch …
@@ -1405,7 +1405,7 @@ Und … Harald, den Mund an meinem Ohr, flüsternd
 — hauchend:
 
 »Es ist Sidar Ma Tongi, der Sultan des Malaienstaates
-Gadjanoor …«
+Hadjanoor …«
 
 Er hatte mit der kleinen Klinge des Federmessers, das
 er nicht abgeliefert, ein Löchlein in die Seidendecke gebohrt …
