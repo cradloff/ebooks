@@ -16,10 +16,11 @@
 \bfette\b	setzte
 \bfliegen\b	stiegen
 \bFusel\b	Insel
+\bgesunden	gefunden
 \bha!\b	hat
 \bHart\b	Harst
+\biM\b	ich
 \bis!\b	ist
-\bgesunden	gefunden
 \blebten	letzten
 \blett\b	jetzt
 \bLust\b	Luft
