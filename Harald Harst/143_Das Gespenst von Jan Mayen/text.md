@@ -4,7 +4,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Die acht Toten von Jan Mayen.</h3>
 
-Die Depsäsche erreichte uns ich Trafalgar-Hotel in Bombay.
+Die Depesche erreichte uns im Trafalgar-Hotel in Bombay.
 Wir waren den Tag über bei den Perlenfischern in
 der Gondabaar-Bucht gewesen, wo Harald Harst eine kleine
 Betrügerei aufdeckte, die uns immerhin eine Belohnung von
@@ -15,68 +15,68 @@ Es liegt hier neben mir, während ich mit der Niederschrift
 dieses Seeabenteuers beginne. Ich sammele jede
 Kleinigkeit, die mit den von uns erledigten Problemen zusammenhängt.
 
-Die Depesche hat - folgenden Wortlaut:
+Die Depesche hat folgenden Wortlaut:
 
-Harald Harst, Indien, über Kalkutta,
-Savoy-Hotel, nachsenden.
+<p class="centered">Harald Harst, Indien, über Kalkutta,</p>
+<p class="centered">Savoy-Hotel, nachsenden.</p>
 
-Bitte sofort wichtige dringende Angelegenheit gegen
+> Bitte sofort wichtige dringende Angelegenheit gegen
 Honorar in beliebiger Höhe zu übernehmen. Meine Jacht
 Mandragora wird in Genua für Sie bereitliegen. Keine
 Kosten scheuen. Alles Nähere an Bord der Jacht. Gleichzeitig
-Ihnen 25&nbsp;000 Mark durch Filiale Indra-Bank, Kcilntta,
-angewiesen. — Fürst Salvani, vom, Salvani-Fall.:sich.
+Ihnen 25&nbsp;000 Mark durch Filiale Indra-Bank, Kalkutta,
+angewiesen. — Fürst Salvani, Rom, Salvani-Palast.
 
 »Salvani — das ist der italienische Pierpont Morgan,
 der Milliardär mit dem Forscher-Spleen,« meinte Harst und
 <@pagebreak/>
-reihte mir die Depesche. »Übrigens noch ein junger Mann
+reichte mir die Depesche. »Übrigens noch ein junger Mann
 und der letzte seines Geschlechts, bisher unverheiratet …«
 
 Er kramte in den Zeitungen und Zeitschriften, die auf
 dem Sofatisch unseres gemeinsamen Wohnsalons lagen. »Ich
-hatte noch gestern in der BombaybkhWorld einen Artikel
-über Salvanis TIiefseeforsmhungen gefunden — mit Illustrationen
-… Aha — hier ist er »… Bitte, mein Alter, -
+hatte noch gestern in der Bombay-World einen Artikel
+über Salvanis Tiefseeforschungen gefunden — mit Illustrationen
+… Aha — hier ist er … Bitte, mein Alter, —
 ein Bild des Fürsten, zwei Aufnahmen seiner Luxusjacht
 und zwei Photographien von Riesentintenfischen, die er geangelt
-hat … — Hm — ein sehr chardakteristisches Gesicht …
+hat … — Hm — ein sehr charakteristisches Gesicht …
 Die starken Augenbrauen und die Falten über der Nasenwurzel
 geben diesem Antlitz etwas Strenges, fast Finsteres
-… ck« Da — schau Dir die Bilder an und dann packe
-unsere Koffer. Ich werde ich Hotelbüto die Fahrgelegenheit
-feststellen. Ich hoffe, wir können noch: heute nacht abreisen.«
+… — Da — schau Dir die Bilder an und dann packe
+unsere Koffer. Ich werde im Hotelbüro die Fahrgelegenheit
+feststellen. Ich hoffe, wir können noch heute nacht abreisen.«
 
 Und — es war so …
 
 Um elf Uhr gingen wir an Bord des englischen Passagierdampfers
 »Connaught«, und um halb zwölf sahen wir bereits
-hinter uns am Horizont ich Mondernschein die Türme des
-Schweigens auf der Malabar«-Halbinsel allmählich entschwinden.
+hinter uns am Horizont im Mondenschein die Türme des
+Schweigens auf der Malabar-Halbinsel allmählich entschwinden.
 —
 
-Über die Reise bis Genua ist nichts zu berichten, ich
-Roten Meer war es wie immer bacdofenheiß, und in der
-Kanalstadt Suez herrschte die Cholera. ich Mittelländischen
+Über die Reise bis Genua ist nichts zu berichten. Im
+Roten Meer war es wie immer backofenheiß, und in der
+Kanalstadt Suez herrschte die Cholera. Im Mittelländischen
 Meer wurde es dann behaglicher, und vier Tage später
 begrüßte uns das wohlbekannte Panorama des Hafens von
 Genua.
 
-Übends neun Uhr lief die »Connaught« ein. Harst hatte
+Abends neun Uhr lief die »Connaught« ein. Harst hatte
 von Suez aus an den Fürsten telegraphiert. Kaum hatte
-der Riesendampfer: am Kai festgemacht, als auch schon eine
+der Riesendampfer am Kai festgemacht, als auch schon eine
 elegante Motorbarkasse herbeigeschossen kam, die uns abholte
 und an Bord der weißen Luxusjacht brachte.
 
 Im Salon erwartete uns der Fürst — ganz allein …
 
 Er begrüßte uns sehr gemessen, aber liebenswürdig.
-Wir schien’s, als ob dieser italienische Aristokrat in uns nur
+Mir schien’s, als ob dieser italienische Aristokrat in uns nur
 zu sehr die für Geld arbeitenden Privatdetektive sah und
 <@pagebreak/>
-die ihm gesellschaftlich fast Gleichgestellten … übersah …)
-Seine Liebenswürdigkeit hatte etwas Gönnerhafte8 und
-Serablassendes. Einen Mann mit Forscherspleen hatte ich
+die ihm gesellschaftlich fast Gleichgestellten … übersah …!
+Seine Liebenswürdigkeit hatte etwas Gönnerhaftes und
+Herablassendes. Einen Mann mit Forscherspleen hatte ich
 mir anders vorgestellt.
 
 Im Salon war für drei Personen gedeckt. Wir nahmen
@@ -94,31 +94,31 @@ Salvani fest an.
 
 »Allerdings, Herr Harst …«
 
-Ich hörte jetzt ebenfalls die Schiffsmaschchinen arbeiten.
+Ich hörte jetzt ebenfalls die Schiffsmaschinen arbeiten.
 
-Harald lehnte sich etwas Zuruf …
+Harald lehnte sich etwas zurück …
 
 »Es wäre besser gewesen, Sie hätten uns vorher erklärt,
 was wir für Sie erledigen sollen, Durchlaucht …« meinte
 er etwas unwillig. »Ich habe Ihnen von Suez aus mitgeteilt,
-daß ich mir eine endgültige Entschließung noch vor-behalte.
+daß ich mir eine endgültige Entschließung noch vorbehalte.
 Ich kann nur annehmen, daß Sie bisher absichtlich
 das für mich wichtigste Thema, Ihren Auftrag, vermieden
 haben …«
 
-»Es ist so, Herr Harst,« Kiste der Italiener ernst.
+»Es ist so, Herr Harst,« nickte der Italiener ernst.
 
 »Weil … Sie voraussahen, daß ich den Auftrag ablehnen
-würde, DurFhlaucht, — nicht wahr?!«
+würde, Durchlaucht, — nicht wahr?!«
 
 »Es ist so, Herr Harst. Ich entführe Sie beide …
-Sie müssen jetzt mit mir nahm Jan Mayen …«
+Sie müssen jetzt mit mir nach Jan Mayen …«
 
-»Wohin?! ran Mayen?!« Und Harald dachte nach …
-»Ah — ran Mayen, die Insel ich nördlichen Atlantik …!«
+»Wohin?! Jan Mayen?!« Und Harald dachte nach …
+»Ah — Jan Mayen, die Insel im nördlichen Atlantik …!«
 
 »Es ist so, Herr Harst …« Der Fürst blieb ruhig
-und ernst. »Wissen Sie über ran Mayen Bescheid?«
+und ernst. »Wissen Sie über Jan Mayen Bescheid?«
 
 »Nicht viel, Durchlaucht …«
 
@@ -132,81 +132,81 @@ wieder …
 
 Der Fürst, der tadellos deutsch sprach, las vor:
 
-»Halbwegs zwischen Island und Spißbergen liegt das
-Inselchen ran Mayen mit seinen rund 4300 Quadratkilo—metern
-Grundfläße. »Eigentlich« hat es dort oben ich
+»Halbwegs zwischen Island und Spitzbergen liegt das
+Inselchen Jan Mayen mit seinen rund 4300 Quadratkilometern
+Grundfläche. »Eigentlich« hat es dort oben im
 Eismeer gar nichts zu suchen. Das Meer rings umher hat
 nämlich eine Tiefe von zweieinhalb- bis dreitausend Metern,
-und aus dieser tiefe schießt da mit:einem Male ein mächtiger,
+und aus dieser tiefe schießt da mit einem Male ein mächtiger,
 mehr als fünftausend Meter hoher Berg auf. Zur
-Kanaille stets er ich Wasser, zur anderen Hälfte ragt er mit
-2500 Meter Höhe über die Meeresoberflähe auf, und was
-da aus dem Wasser herausguckt, ist eben unser Inselchen.
-ran Mayen. Es ist die obere Hälfte eines gewaltigen Vulkanes.
-Seine höchste Erhebung =ck sie ist »Beerenberg«
-getauft — trägt eine mächtige Kräteröffnung. An einer
-Stelle wirbelt vor heute unaufhörlich heißer Dampf aus
+Hälfte steckt er im Wasser, zur anderen Hälfte ragt er mit
+2500 Meter Höhe über die Meeresoberfläche auf, und was
+da aus dem Wasser herausguckt, ist eben unser Inselchen
+Jan Mayen. Es ist die obere Hälfte eines gewaltigen Vulkanes.
+Seine höchste Erhebung — sie ist »Beerenberg«
+getauft — trägt eine mächtige Krateröffnung. An einer
+Stelle wirbelt noch heute unaufhörlich heißer Dampf aus
 dem Erdinnern auf; sonst ist alles vulkanische Leben hier
 erstorben — seit langem.
 
-Auf der Insel zu landen ist ein kleines Kunststück, Natur«-
-hie Häfen besitzt sie nicht. Die Küsten sind entweder steile
-Klippen oder trat — aber so Flucht, daß man ich Boot
-nur Eingefangen kann, wenn man zweihundert Meter vorher
-aussteigt und und das Boot schiebt. Mit dem Wachstum
-is’s auf dem Inselchen sehr schwach bestellt, ebenso mit dem
-Tierleben. Seevögel, Grau« und Silberfühse sind ein«heimlich,
-Eisbären kommen ab und zur auf Besuch — on
-Grönland, nämlich in strengen Wintern, wenn das andere
-eine feste Beute über diese Riesenentfernungen bildet. Regen
-(der meist Schnee ist) fällt in erträglihen Mengen; um so
-häufiger und langwieriger sind dicke: Nebel. Kurz, dieses
-ran Mayen ist ein herzlich ungemütlichen Aufenthalt.
+Auf der Insel zu landen ist ein kleines Kunststück. Natürliche
+Häfen besitzt sie nicht. Die Küsten sind entweder steile
+Klippen oder flach — aber so flach, daß man im Boot
+nur hingelangen kann, wenn man zweihundert Meter vorher
+aussteigt und das Boot schiebt. Mit dem Wachstum
+ist’s auf dem Inselchen sehr schwach bestellt, ebenso mit dem
+Tierleben. Seevögel, Grau- und Silberfüchse sind einheimisch,
+Eisbären kommen ab und zu auf Besuch — von
+Grönland, nämlich in strengen Wintern, wenn das Packeis
+eine feste Brücke über diese Riesenentfernungen bildet. Regen
+(der meist Schnee ist) fällt in erträglichen Mengen; um so
+häufiger und langwieriger sind dicke Nebel. Kurz, dieses
+Jan Mayen ist ein herzlich ungemütlicher Aufenthalt.
 
-Wem das Inselchen eigentlich) gehört, das steht noch: nicht
-fest, weder völkerreHtlich voll privattehtlih. ich 17. und
-18\. Jahrhundert gab Jan Master ich Sommer einen Stützpunkt
-für holländische Walfischfänger: ab (nach!) einem von
+Wem das Inselchen eigentlich gehört, das steht noch nicht
+fest, weder völkerrechtlich voll privatrechtlich. Im 17. und
+18\. Jahrhundert gab Jan Mayen im Sommer einen Stützpunkt
+für holländische Walfischfänger ab (nach einem von
 <@pagebreak/>
-denen ist sie aus benannt). Dann kümmerte 7iH lange
-niemand um- sie. 1882-83 hauste hier eine österreichische
+denen ist sie auch benannt). Dann kümmerte sich lange
+niemand um sie. 1882-83 hauste hier eine österreichische
 Polarexpedition, die unter andern eine Karte der Insel
-aufnahm. Ihr schönes? geräumiges Holzhaus steht noch. 1919
-erschien das dänische Fährschiff »Islands Fall«, nahm das
-Ganze in Besitz und man malte eine große käufliche Fahne
+aufnahm. Ihr schönes geräumiges Holzhaus steht noch. 1919
+erschien das dänische Fährschiff »Islands Falk«, nahm das
+Ganze in Besitz und man malte eine große dänische Fahne
 auf die Haustür. Dies hielt die Norweger nicht ab, ihrerseits
 zwei Jahre später mit einer Expedition hier aufzutauchen und
-sich auf Jan Maßen häuslich einzurichten, soweit dies dort
-möglich. Was die Norwegen trieb, war nicht Großmannssucht
-oder ein Wiederauflden von Wikingerinstinkten, sondern
-ein sehr praktischen Grund: Sie haben hier eine meteorologische
+sich auf Jan Mayen häuslich einzurichten, soweit dies dort
+möglich. Was die Norweger trieb, war nicht Großmannssucht
+oder ein Wiederaufleben von Wikingerinstinkten, sondern
+ein sehr praktischer Grund: Sie haben hier eine meteorologische
 Beobachtungsstation errichtet, die sie dringend nötig hatten,
 um ihren Sturmwarnungsdienst zu vervollkommnen. Der
 ist ja für Norwegen, wo drei Viertel der Bevölkerung vom
 Fischfang lebt, eine sehr notwendige und ernste Sache. Seit
-1921 ist ran Mayen also nun feinstes Eiland mehr, sondern
+1921 ist Jan Mayen also nun kein ödes Eiland mehr, sondern
 »bewohnt«. Von drei Mann — auf 800 Geviertkilometern (an
-Raum fehlt’s also nicht:); von drei Mann und — einem
+Raum fehlt’s also nicht!); von drei Mann und — einem
 Schwein, das freilich jährlich »erneuert« werden muß. Nicht,
 daß es etwa das Klima nicht vertrüge; aber der Mensch
 ist nun mal ein Raubtier, und die drei Norweger bilden
-gewiß keine Ausnahmte. Diese drei modernen Robinsons
-werden jedesmal nach« Ablauf eines Jahres abgelöst. Die
-Ablösung muß sich auskosteten wie eine Nordpolexpedition,
-das heißt: sie muß sich: alles Nötige mitbringen, einschließlich
+gewiß keine Ausnahme. Diese drei modernen Robinsons
+werden jedesmal nach Ablauf eines Jahres abgelöst. Die
+Ablösung muß sich ausstaffieren wie eine Nordpolexpedition,
+das heißt: sie muß sich alles Nötige mitbringen, einschließlich
 des Schweines. Solange es lebt, ist’s der erklärte Liebling
 aller und bringt als einziges Haustier »Leben in die Bude«;
-und nahe ich Tode ist’s der erfolgreichste Bekämpfen des
+und noch im Tode ist’s der erfolgreichste Bekämpfer des
 Skorbuts.«
 
 Der Fürst legte das Blatt beiseite.
 
 »Sehr interessant,« meinte Harst da mit einiger Ironie.
-»über — was sollen wir auf ran Mayen, Durchlaucht?«
+»Aber — was sollen wir auf Jan Mayen, Durchlaucht?«
 
 »Sofort, Herr Harst …«
 
-Er erhob sich und:trat an eins der Fenster des Salons
+Er erhob sich und trat an eins der Fenster des Salons
 <@pagebreak/>
 und schaute hinaus, kehrte dann zum Tische zurück, setzte
 sich wieder …
@@ -218,7 +218,7 @@ werde …«
 Der Steward trat ein und brachte den Mokka …
 
 »Dorthin!« befahl Salvani und zeigte auf eine behagliche
-Ecke mit drei Klubsesseln. -
+Ecke mit drei Klubsesseln.
 
 Wir erhoben uns …
 
@@ -226,7 +226,7 @@ Ich versank in einem der weichen Saffiansessel … Der
 Steward reichte Zigarren und Zigaretten, verschwand und
 kam nicht wieder …
 
-Harst mir gegenüber trank einen schwach Mokka …
+Harst mir gegenüber trank einen Schluck Mokka …
 
 Meinte unvermittelt:
 
@@ -237,32 +237,32 @@ Salvani schien verblüfft …
 
 »Woher wissen Sie das, Herr Harst?«
 
-»Ich denke es mir, Durchaus. Ich nehme an, Sie
-sind in diesem Frühjahr mit Ihrer Jacht auf ran Mayen
+»Ich denke es mir, Durchlaucht. Ich nehme an, Sie
+sind in diesem Frühjahr mit Ihrer Jacht auf Jan Mayen
 gewesen, haben die drei Norweger tot aufgefunden und
-nicht feststellen können, wer sie ermordet hat
+nicht feststellen können, wer sie ermordet hat …«
 
-Salvani nickte. »Herr Harst, das ist richtig .—. Nur
+Salvani nickte. »Herr Harst, das ist richtig … Nur
 liegen die Dinge doch nicht so einfach … — Ja, ich war
-ich Mai dieses Jahres dort, vor seit Wochen also. Die
-Landung war sehr schwierig. Als ich das Anschaut der
-drei Leute betrat, fand ich sie tot auf ihren Betten liegen,
-Jeder hatte ein Dolchmesser im Herzen. Die Leihen:ren
-noch warm. Da ich den Wetterdienst nicht Anteil;schon
-lassen wollte, bediente lohnt selbst zwei Tage mit meinen
+im Mai dieses Jahres dort, vor sechs Wochen also. Die
+Landung war sehr schwierig. Als ich das Blockhaus der
+drei Leute betrat, fand ich sie tot auf ihren Betten liegen.
+Jeder hatte ein Dolchmesser im Herzen. Die Leichen waren
+noch warm. Da ich den Wetterdienst nicht unterbrechen
+lassen wollte, bediente ich selbst zwei Tage mit meinen
 Assistenten die Apparate und auch den Funksender, der durch
-Morsezeichen die Berichte nach Oslo in Norwegen echt.
+Morsezeichen die Berichte nach Oslo in Norwegen schickt.
 Ich hatte den Ehrgeiz, die Mörder persönlich ausfindig zu
-machen und meldete das Borgefallene nicht. Als ich die
+machen und meldete das Vorgefallene nicht. Als ich die
 dritte Nacht an Bord zubrachte und meine beiden Assistenten
 <@pagebreak/>
-und Doktor Gulloni in der Einflüsse zurückgelassen hatte,
+und Doktor Gulloni in der Blockhütte zurückgelassen hatte,
 da …«
 
-»… waren Fuchs diese am nächsten Morgen tot — ermordet
+»… waren auch diese am nächsten Morgen tot — ermordet
 …«
 
-»Es ist so, Herr:Harst …«
+»Es ist so, Herr Harst …«
 
 »Sie hatten die Insel durchsucht?«
 
@@ -272,48 +272,48 @@ da …«
 … Mich auch.
 
 »Dann, Herr Harst, blieb ich mit zwei Leuten drei Nächte
-in der Hütte … In »der dritten Nacht erwachte ich … Ich
-sah eine schattenhafte: Gestalt neben meinem Bett … Meine
+in der Hütte … In der dritten Nacht erwachte ich … Ich
+sah eine schattenhafte Gestalt neben meinem Bett … Meine
 Pistole lag bereit … Ich rief — schoß … In dem halbdunklen
 Gemach verschwand die Gestalt …«
 
 »Und Ihre beiden Gefährten waren tot …«
 
-»Ja — Herzstiche; … 1 Mich hat nur mein leiser Schlaf
-gerettet. — Das BkoFhaus war verschlossen, die Fensterläden
+»Ja — Herzstiche …! Mich hat nur mein leiser Schlaf
+gerettet. — Das Blockhaus war verschlossen, die Fensterläden
 zugeschraubt … Wie der Mörder hat eindringen
-können, blieb ein Rätsel … — Meine abergläubische ne.
-Besatzung taufte den Mörder … Das Gespenst von ran Magen
-—. Keiner der Leute wagte sich mehr auf die Insel. — Ich
+können, blieb ein Rätsel … — Meine abergläubische
+Besatzung taufte den Mörder … Das Gespenst von Jan Mayen
+… Keiner der Leute wagte sich mehr auf die Insel. — Ich
 schickte eine Funkdepesche jetzt nach Oslo und berichtete alles.
 Die Regierung depeschierte zurück, daß sie mich bäte, meine
-Nachforschungen zu erneuern. Die Station auf ran Mayen
-solle der zu großen Kosten wegen ausgelöst werden. Falls
-ich nichts fände, würde ein die Absendung einer Expedition
-erübrigen. — Die Norweger müssen eben sparsam Wirtschaften
+Nachforschungen zu erneuern. Die Station auf Jan Mayen
+solle der zu großen Kosten wegen aufgelöst werden. Falls
+ich nichts fände, würde sich die Absendung einer Expedition
+erübrigen. — Die Norweger müssen eben sparsam wirtschaften
 …«
 
 »und — dann?«
 
 »Habe ich meine Leute durch hohe Belohnungen schließlich
-doch noch wieder an Land bekommen. Wie durchsuchten Jan
-Mayen abermals —:zwei Tage …«
+doch noch wieder an Land bekommen. Wir durchsuchten Jan
+Mayen abermals — zwei Tage …«
 
 »Umsonst …«
 
-»Umsonst! — Darauf telegraphierte (ich nach Oslo, daß
-ich mit Ihnen, Herr: Harst, dreißig zurückkehren würde …
+»Umsonst! — Darauf telegraphierte ich nach Oslo, daß
+ich mit Ihnen, Herr Harst, dorthin zurückkehren würde …
 Und jetzt wissen Sie auch, weshalb ich Sie aus dem Hafen
 <@pagebreak/>
 von Genua … entführt habe. Ich fürchtete, Sie würden
 ablehnen …«
 
 »Ein Irrtum …! Ich hätte nicht abgelehnt, Durchlaucht.
-ich Gegenteil ,.! Es gilt acht Ermordete zu rächen …
+im Gegenteil …! Es gilt acht Ermordete zu rächen …
 Jede Untat muß geahndet werden …«
 
 Mit einem Schlage verwandelte sich da das Benehmen
-des Fürsten. Er beugte uns fest die Hand …
+des Fürsten. Er drückte uns fest die Hand …
 
 »Ich danke Ihnen, meine Herren … Ich hatte der norwegischen
 Regierung zugesagt, diese Verbrechen durch Sie
@@ -325,49 +325,48 @@ Werden. Ich danke Ihnen …«
 
 »Nun möchte ich Sie einiges auf meine Art fragen,
 Durchlaucht … Und schon jetzt bemerke ich: Schraut und
-ist werden acht Tage allein auf Jan Mayen bleiben!«
+ich werden acht Tage allein auf Jan Mayen bleiben!«
 
 <h2>2. Kapitel.</h2>
 
-<h3>Die Verbündeten derer von ran Mayen.</h3>
+<h3>Die Verbündeten derer von Jan Mayen.</h3>
 
-»Fragen Sie,« meinte Halbpart.
+»Fragen Sie,« meinte Salvani.
 
 »Haben Sie das Blockhaus durchsucht?«
 
 »Gewiß … Es gibt dort keinerlei Falltüren oder sonstwie
-geheime Zugänge, durch;? die der Mörder hätte eindringen
+geheime Zugänge, durch die der Mörder hätte eindringen
 können …«
 
-Harst kürzeste ganz wenig …
+Harst lächelte ganz wenig …
 
-»Wenn Fenster und hören fest versperrt waren, muß
+»Wenn Fenster und Türen fest versperrt waren, muß
 es wohl einen Zugang geben …«
 
-Salvani schmchaute zur Seite …
+Salvani schaute zur Seite …
 
 »Wir leben in einem Zeitalter, Herr Harst, wo die
-alten Geheimwissenschaften wieder erweckt! worden sind, Der
+alten Geheimwissenschaften wieder erweckt worden sind. Der
 <@pagebreak/>
 Okkultismus gewinnt immer mehr Anhänger. Was man
 vor zwanzig Jahren als Aberglauben belächelte, gilt heute
 als Evangelium …«
 
-»Hm — glauben Sie an übernatürliHhe Dinge, Durchlaucht
-?«
+»Hm — glauben Sie an übernatürliche Dinge, Durchlaucht?«
 
 »Bis zu einem gewissen Grade — ja!«
 
-»Also halten Sie es für möglich, daß diese acht Mordq
+»Also halten Sie es für möglich, daß diese acht Morde
 von einem Wesen ohne Fleisch und Blut verübt worden
-sind — — von … dem Gespenst von ran Mayen?«
+sind — — von … dem Gespenst von Jan Mayen?«
 
 Der Fürst hob die Schultern …
 
-»Ersparen Sie mir eine Antwort, Herr Harst … -
+»Ersparen Sie mir eine Antwort, Herr Harst … —
 Wir haben auf der Insel keine lebende Seele gefunden …
 Wir haben, 24 Mann, gesucht, geforscht, beobachtet — immer
-wieder … 1! — »Ich weiß nicht, was ich davon halten soll …«
+wieder …! — Ich weiß nicht, was ich davon halten soll …«
 
 Harst hatte die Augen halb geschlossen …
 
@@ -391,7 +390,7 @@ Salvani empfand dasselbe.
 
 »Durchaus nicht. Also — lebte es noch?«
 
-»Ja … Die drei Leute waren ja erst vierzehn Tage zu
+»Ja … Die drei Leute waren ja erst vierzehn Tage auf
 der Insel.«
 
 »Danke, Durchlaucht … Und — Sie ließen das Schwein
@@ -401,96 +400,96 @@ dort?«
 … Es treibt sich frei auf der Insel umher.«
 
 »Wenn wir es nicht mehr vorfinden, Durchlaucht, dürfte
-das Gespenst es geschlachtet gaben,« sagte Harald gleichmütig.
+das Gespenst es geschlachtet haben,« sagte Harald gleichmütig.
 
 Salvani nickte …
 
 <@pagebreak/>
 »Wenn wir es nicht mehr vorfinden … Aber wir werden
-es vorfinden … Ein einzelner Wenig hat an den Konserven
+es vorfinden … Ein einzelner Mensch hat an den Konserven
 jahrelang zu zehren … — falls es ein Mensch ist,
 der … Mörder …«
 
 Harst langte nach einer Zigarette …
 
-»Es sind mehrere, Durchlaucht …: — Wir werden zunächst
+»Es sind mehrere, Durchlaucht … — Wir werden zunächst
 mal den Hafen von Oslo anlaufen …«
 
-»Ab — und wegshalb?«
+»Ah — und weshalb?«
 
 »Verzeihen Sie, Durchlaucht: ich spreche nie über meine
-Absichten. Sogar mein alter Freund. Schraut beklagt sich
+Absichten. Sogar mein alter Freund Schraut beklagt sich
 stets bitter darüber, daß ich so … zugeknöpft bin. — Der
-Fall Jan Master wäre hiermit vorläufig abgetan — bis
+Fall Jan Mayen wäre hiermit vorläufig abgetan — bis
 Oslo … — Sprechen wir von anderen Dingen …« —
 
-Tage wundervoller« Ruhe folgten nun … Eine Seereise
+Tage wundervoller Ruhe folgten nun … Eine Seereise
 auf einer Luxusjacht, wie die »Mandragora« es ist, dürften
 wir nie wieder erleben … —
 
 »Mandragora« — — seltsamer Name. War so recht
-der Geschimpft des Fürsten, der an allem. Geheimnisvollen Gefallen
+der Geschmack des Fürsten, der an allem Geheimnisvollen Gefallen
 fand — bei all seiner ernsthaften Forschertätigkeit.
 
 »Mandragora« ist bekanntlich eine Wurzel, die von
 Natur die Gestalt eines Menschen hat. Diesen Wurzeln
-schreibt man übernatürliche Kräfte tun — Die Jacht des
+schreibt man übernatürliche Kräfte zu. — Die Jacht des
 Fürsten besaß denn auch als Gallionsfigur eine kleine echte
-Mandragora — als TaliEgeman … —
+Mandragora — als Talisman … —
 
-Und Salvani selbst? — Nun, der entwi&elte sich immer
+Und Salvani selbst? — Nun, der entwickelte sich immer
 mehr zu einem guten zwanglosen Kameraden. Der war
 ein Gastgeber, wie man ihn selten findet …
 
 Jeder tat an Bord der Jacht, was er wollte … Jeder
 war sein eigener Herr …
 
-Ich habe damals unheimlich viel gelesen: über die Tier«-
-Welt der riesiger, über die Fortpflanzung der Polypen, über
-dieses andere …
+Ich habe damals unheimlich viel gelesen: über die Tierwelt
+der Tiefsee, über die Fortpflanzung der Polypen, über
+vieles andere …
 
-Harst dagegen tat absolut nichts. Zumeist lag er ich
+Harst dagegen tat absolut nichts. Zumeist lag er im
 Bordstuhl und … döste, wie das schöne vulgäre Wort für
 den höchsten Grad des Nichtdenkens lautet …
 
-Döste er nicht, dann turnte er, sHdöß noch der Scheibe,
+Döste er nicht, dann turnte er, schoß nach der Scheibe,
 <@pagebreak/>
-übte sich ich Lassowerfen und kletterte in den beiden Masten
+übte sich im Lassowerfen und kletterte in den beiden Masten
 der Jacht umher …
 
 Die Besatzung verehrte ihn. Es war eben die alte
 Geschichte: Harald fand für jeden Menschen den passenden
 Ton — für jeden! Und die Macht seiner Persönlichkeit tat
-das übrige. — all diese Italiener auf der »Mandragora«
+das übrige. — All diese Italiener auf der »Mandragora«
 wären für ihn durchs Feuer gegangen! Oft saß er mitten
-unter den Matrosen ich Mannschaftslogis am langen Tisch
-und erzählte ihnen Zeltreihe Abenteuer. Daß er dabei
-dann auch die Leute über die Ereignisse auf ran Mayen
+unter den Matrosen im Mannschaftslogis am langen Tisch
+und erzählte ihnen lehrreiche Abenteuer. Daß er dabei
+dann auch die Leute über die Ereignisse auf Jan Mayen
 ausforschte, merkten sie kaum. Und daß für sie ein Detektiv
 eine Art höheren Wesens vorstellte, ist ebenso selbstverständlich.
 
-KöstliHhe. Tage also … Tigers, Soupers — — mein
+Köstliche Tage also … Diners, Soupers — — mein
 Bäuchlein rundete sich!
 
 Und dann eines Morgens — — der Christiania-Fjord!
 
 Die Norweger haben ihre Hauptstadt Christiania leider
 vor einiger Zeit umgetauft: Oslo! — Leider! Christiania
-klang Portier. In dem Namen war Musik. Oslo, - —
-ich weiß nicht, — für mich bleibt Chriiiania eben Christiania.
+klang poetisch. In dem Namen war Musik. Oslo, — —
+ich weiß nicht, — für mich bleibt Christiania eben Christiania.
 
-Und als wir dann von Berg aus über die Stadt und
+Und als wir dann von Deck aus über die Stadt und
 den Fjord mit seinen Felseneilanden und der zartblauen
-Beleuchtung hinshauten und mit diesem nordischen Paradies
+Beleuchtung hinschauten und mit diesem nordischen Paradies
 ein freudiges Wiedersehen feierten, da bat Harald den Principe
 (Fürsten), die Mannschaft zusammenrufen zu lassen.
 
-Es geschah,. Harald trat vor die Leute hin, bat sie,
+Es geschah. Harald trat vor die Leute hin, bat sie,
 hier zu verschweigen, daß wir beide an Bord seien …
 
 »Ich habe hier einiges zu erledigen, was mit den Morden
-zusammenhängt. Ich werde nur Erfolg haben, wenn schlau!
-und ihr hier als harmlose Gelehrte gelten …«
+zusammenhängt. Ich werde nur Erfolg haben, wenn Schraut
+und ich hier als harmlose Gelehrte gelten …«
 
 Der Zweite Steuermann trat vor, ein kleiner stämmiger
 Korse, ein Landsmann des Weltbezwingers Napoleon,
@@ -503,7 +502,7 @@ Und dann machten wir beide uns an die Arbeit …
 <@pagebreak/>
 In einer Viertelstunde waren wir zwei ältere würdige Herren
 mit Brillen und leicht ergrauten Bärten. Ein Boot setzte
-uns weit unterhält der Stadt an Land. Zu Fuß wanderten
+uns weit außerhalb der Stadt an Land. Zu Fuß wanderten
 wir gen Oslo.
 
 Und jetzt unterwegs fragte ich den Freund, was er nun
@@ -521,71 +520,71 @@ auf Jan Mayen die Wetterstation bedient haben …«
 »Weil ich bestimmt annehme, daß das Gespenst von Jan
 Mayen einer der Vorgänger der drei ermordeten Norweger
 ist. Wir wenden uns am besten Sofort an die zuständige
-Regierungöstelle …«
+Regierungsstelle …«
 
 »Hm — ich sehe noch immer nicht recht klar …« erlaubte
 ich mir zu bemerken …
 
-»Weil Du Dich an Bord zu stark »gemästet hast, mein
-Alter … Fett lähmt den Verstand …
+»Weil Du Dich an Bord zu stark gemästet hast, mein
+Alter … Fett lähmt den Verstand …«
 
-Ich fachte herzlich.
+Ich lachte herzlich.
 
 Harst jedoch sagte plötzlich in sehr ernstem Tone: »Du
 unterschätzt die Gefahr, Max Schraut …! Leute, die acht
-Menschen ialtblütig erstehen, haben allerlei zu verheimlichen
+Menschen kaltblütig erstechen, haben allerlei zu verheimlichen
 — allerlei: natürlich ein äußerst wertvolles Geheimnis!
-48 geht hier ganz eilten um Millionenwerte …«
+Es geht hier ganz sicher um Millionenwerte …«
 
 Ich war so klug wie vorher … In Harsts Gedankengänge
-fix hHineinzufinden ist nicht ganz einfach.
+sich hineinzufinden ist nicht ganz einfach.
 
 Wir hatten die Stadt erreicht.
 
-Auf dem großen Shmudplaß vor dem schrak«: »lieb
-Harald sicher …
+Auf dem großen Schmuckplatz vor dem Theater blieb
+Harald stehen …
 
 Deutete auf den ernsten würdigen Bau und meinte:
 »Wir hätten uns die Maskerade schenken können … Die
-beiden Leute aus dem Boot, das: die Jacht beobachtete,
-sind hinter uns … — Bitte — Blicke dicht nicht etwa
-um … E& sind zwei Seeleute, ein junger und ein älterer …
+beiden Leute aus dem Boot, das die Jacht beobachtete,
+sind hinter uns … — Bitte — Blicke Dich nicht etwa
+um … Es sind zwei Seeleute, ein junger und ein älterer …
 <@pagebreak/>
-Natürlich weiß man hier in Oslo längst, laß der Fürs!
-mit uns zusammen ran Mayen wieder besuchen will. Vor
-drei Stunden sind wird dann hier eingetroffen. Das per«
-kleinen der Jacht hat sich rasch herumgesprochen. auch
-jene Leute erfuhren es, die mit dem Gespenst von ran
-Mayen hier verbündet) sind. — Wir müssen sie unbedingt
-loswerden. Komm — betreten wir das Theater …«’
+Natürlich weiß man hier in Oslo längst, daß der Fürst
+mit uns zusammen Jan Mayen wieder besuchen will. Vor
+drei Stunden sind wird dann hier eingetroffen. Das Erscheinen
+der Jacht hat sich rasch herumgesprochen. auch
+jene Leute erfuhren es, die mit dem Gespenst von Jan
+Mayen hier verbündet sind. — Wir müssen sie unbedingt
+loswerden. Komm — betreten wir das Theater …«
 
 Nur ein Seiteneingang war jetzt um acht Uhr früh
-geöffnet. Es war der »Zugang zur Bühne für die Schauspieler.
+geöffnet. Es war der Zugang zur Bühne für die Schauspieler.
 
 Ein endlos langer kühler Korridor … Keine Seele zu
-sehen … Es brannte: nur hier und dort eine elektrische
+sehen … Es brannte nur hier und dort eine elektrische
 Deckenlampe.
 
 Schwere Schritte hinter uns …
 
-Zwei Arbeiter …: offenbar Theaterpersonal …
+Zwei Arbeiter … offenbar Theaterpersonal …
 
 Harald spricht sie an, fragt, ob sie uns nicht durch
 eine andere Tür hinauslassen würden … Unterstützt die
 Bitte durch die Allmacht Geld.
 
-Die beiden mustern uns argwöhnisch. kleinlichen sich,
+Die beiden mustern uns argwöhnisch. Beruhigen sich,
 gehen voran …
 
 Über Treppen und Flure — durch das elegante Foyer
-… Öffnen eine Tür ’…
+… Öffnen eine Tür …
 
-Und … - wahrhaftig! — — springen uns an die Kehle
+Und … — wahrhaftig! — — springen uns an die Kehle,
 haben Riesenkräfte, die Burschen … haben nur nicht mit
 einem Harald Harst gerechnet …
 
 Harst versetzt seinem Angreifer einen Boxhieb in die
-Herzgrube. Der Kerl -sac?! zusammen …
+Herzgrube. Der Kerl sackt zusammen …
 
 Und meinem Gegner wird dieselbe Lektion zuteil …
 Nicht von mir … nein — — mich hatte der Schuft schon
@@ -594,47 +593,47 @@ halb erwürgt …
 Nun liegen sie da — nach Luft schnappend, stöhnend …
 winselnd,
 
-Die bunten, von der Sonne bestrahlten hohen Glas
-Fenster des Foyers werfen farbige Lichtstreifen auf die sie
-flammenden Gestalten …
+Die bunten, von der Sonne bestrahlten hohen Glasfenster
+des Foyers werfen farbige Lichtstreifen auf die sich
+krümmenden Gestalten …
 
 <@pagebreak/>
 Wir schleppen sie zu zwei Sesseln … Stehen vor ihnen
 … Harst holt die Clement hervor, spannt sie umständlich …
 
-Und die beiden stieren auf die kleine Waffe … -
+Und die beiden stieren auf die kleine Waffe … —
 Harst läßt ihnen Zeit, sich zu erholen … Fragt dann …
 
-Die Leute wogen nicht zu lügen …
+Die Leute wagen nicht zu lügen …
 
 Beschäftigungslose Hafenarbeiter sind es … Einer war
-mal aushilssweise hier beim Theater KulissenschHieber. Zwei
-Seeleute, ihnen [fremd, haben sie auf dem Theaterplatz für
+mal aushilfsweise hier beim Theater Kulissenschieber. Zwei
+Seeleute, ihnen fremd, haben sie auf dem Theaterplatz für
 dieses Bubenstück angeheuert … Hundert Kronen haben sie
-erhalten … ich Übrigen wissen sie nichts … Sie haben uns
-wollen gen fesseln, knebeln und irgendwo einsperren
+erhalten … im Übrigen wissen sie nichts … Sie haben uns
+niederschlagen, fesseln, knebeln und irgendwo einsperren
 sollen …
 
-Harst nicht … »Ihr seht verhungert aus … Ich glaube
-Euch … - Geht und sagt Euren Auftraggebern, daß der
+Harst nickt … »Ihr seht verhungert aus … Ich glaube
+Euch … — Geht und sagt Euren Auftraggebern, daß der
 Streich gelungen. Dann folgt ihnen, stellt fest, wo sie
 bleiben, was sie sind, und meldet es uns um elf Uhr draußen
-auf dem Theaterplatz »… Fünfzig Kronen sind Euch als
+auf dem Theaterplatz … Fünfzig Kronen sind Euch als
 Belohnung sicher …«
 
-Die Kerle stammeln Dank — reden von Kindern, Kiste
-schulden — — und verduften … —
+Die Kerle stammeln Dank — reden von Kindern, Mietschulden
+— — und verduften … —
 
-Vor einem der hoben Spiegel bringen wir uns wieder
+Vor einem der hohen Spiegel bringen wir uns wieder
 in Ordnung. Unseren angeklebten Bärten war der Überfall
 schlecht bekommen …
 
-zehn Minuten darauf sind wir wieder ich Freien …
+zehn Minuten darauf sind wir wieder im Freien …
 
 Und fragen uns bis zum Meteorologischen Institut durch.
 
-So begann für uns die Jagd auf das Gespenst von ran
-Waden …
+So begann für uns die Jagd auf das Gespenst von Jan
+Mayen …
 
 <@pagebreak/>
 
@@ -642,30 +641,30 @@ Waden …
 
 <h3>Das Haus auf der Fjord-Insel.</h3>
 
-Professor Jönling, verstehen des Instituts, war die
-Qiebenswürdigkeit selbst. Wir hatten uns als Kollegen an«
-Melden lassen. Als Harald dann die Maske lüftete, drückte
+Professor Jönling, Vorsteher des Instituts, war die
+Liebenswürdigkeit selbst. Wir hatten uns als Kollegen anmelden
+lassen. Als Harald dann die Maske lüftete, drückte
 Jönling uns immer wieder die Hände …
 
 Wir erfuhren von ihm folgendes:
 
 Im Mai 1921 war die Wetterstation auf Jan Mayen
-aingerichtet worden.: Die ersten drei Leute, die bis Mai
-1922 dort gehaust hatten, waren der Assistent sonst und
-die Institutsbiener Warten und Sinnlos. Diese drei wurden
+eingerichtet worden. Die ersten drei Leute, die bis Mai
+1922 dort gehaust hatten, waren der Assistent Tomsö und
+die Institutsdiener Warken und Simming. Diese drei wurden
 von einem anderen Assistenten und zwei früheren Studenten,
-armen TIeufeln, abgelöst. Nachdem diese auf ran
-Mayen ihr Jahr auß8gehalten hatten, traten dort abermals
-Tanzes, Warten und:Sinnlos den beschwerlichen Dienst an.
+armen Teufeln, abgelöst. Nachdem diese auf Jan
+Mayen ihr Jahr ausgehalten hatten, traten dort abermals
+Tomsö, Warken und Simming den beschwerlichen Dienst an.
 — So hatten sie sich bisher regelmäßig abgewechselt, diese
-sechs, und dieses Jahr ich Mai waren wieder sonst und
-seine Begleiter an der Reihe gewesen und — — ermorde!
+sechs, und dieses Jahr im Mai waren wieder Tomsö und
+seine Begleiter an der Reihe gewesen und — — ermordet
 worden.
 
 »Wie heißen die anderen drei, Herr Professor?« fragte
-kannst nun und hielt Bleistift und Notizbuch bereit,
+Harald nun und hielt Bleistift und Notizbuch bereit,
 
-»Es sind dies der Assistent Doktor Longby und die ver-H&ummelten
+»Es sind dies der Assistent Doktor Longby und die verbummelten
 Studenten Höörlan und Gussol …«
 
 »Wo beheimatet?«
@@ -676,11 +675,11 @@ Studenten Höörlan und Gussol …«
 
 »Nein … Die drei sind irgendwo in Schweden …«
 
-»So … so … — in Schweden ».! — Und - ihre
-mehr Augen hier in ’O8lo?"«
+»So … so … — in Schweden …! — Und — ihre
+Wohnungen hier in Oslo?«
 
 »Höörlan und Gussol wohnten bei ihren Eltern. Doktor
-Tongby Besitz ein Häuschen auf der Fjordinsel Sellenby.
+Longby besitzt ein Häuschen auf der Fjordinsel Sellenby.
 
 <@pagebreak/>
 Dort führt ihm seine Schwester die Wirtschaft. Aber wie
@@ -694,131 +693,131 @@ Dann schob er das Büchlein in die Tasche.
 Professor Jönling fragte nun abermals: »was halten
 Sie von diesen Verbrechen, Herr Harst?«
 
-Berlin hatte Harald die Frage überhört. Nun erwiderte
+Vorhin hatte Harald die Frage überhört. Nun erwiderte
 er:
 
 »Entschuldigen Sie, Herr Professor: ich äußere mich
 nie über meine Theorie hinsichtlich eines geheimnisvollen
 Falles. Und — andere Fälle erledige ich nicht. Ich bitte
-Sie, unseren Freut zu verschweigen. eins kann ich Ihnen
+Sie, unseren Besuch zu verschweigen. eins kann ich Ihnen
 schon jetzt versprechen: die Morde werden gesühnt werden.
-Das Gespenst von ran Mayen wird binnen vier Wochen samt
-Anhang ich Gefängnis sitzen!«
+Das Gespenst von Jan Mayen wird binnen vier Wochen samt
+Anhang im Gefängnis sitzen!«
 
 Er erhob sich …
 
-Der Professor schaute ihn mit besonderen Büschen an …
+Der Professor schaute ihn mit besonderen Blicken an …
 
-»Hegen Sie Verdacht gegen Doktor Longby?“« meinte er
-zögernd »…
+»Hegen Sie Verdacht gegen Doktor Longby?« meinte er
+zögernd …
 
-»Ob — wie kommen Sie gerade darauf, (Herr ’Professor?!«
+»Oh — wie kommen Sie gerade darauf, Herr Professor?!«
 Und — er schauspielerte glänzend …
 
 »Nun — — weil Longby genau wie Höörlan und Gussol
 zu den … gescheiterten Existenzen gehört, weil er … bereits
 vorbestraft ist … Jugendlicher Leichtsinn freilich — ein
 Gelegenheitsdiebstahl … — Wir hatten nicht viel Auswahl,
-Herr Harst … Ein Jahr auf ran machen zählt fünf andere
-… Schon im September liegt dort alles vier Eis und
-Schnee … Und erst ich Mai wird die Küste eisfrei …«
+Herr Harst … Ein Jahr auf Jan Mayen zählt fünf andere
+… Schon im September liegt dort alles unter Eis und
+Schnee … Und erst im Mai wird die Küste eisfrei …«
 
 »Ich weiß …« nickte Harald nur. »Und — nochmals,
-Herr Professor … Bitte: Diskretion!’
+Herr Professor … Bitte: Diskretion!«
 
-»SelbstverständliHh …«
+»Selbstverständlich …«
 
 Wir verabschiedeten uns …
 
-Halb elf war’s jetzt. Wir gingen in das deutsche Presse
-Haus und frühstüFten. Ich aß mit tadellosem Appetit ’-
+Halb elf war’s jetzt. Wir gingen in das deutsche Wirtshaus
+und frühstückten. Ich aß mit tadellosem Appetit —
 <@pagebreak/>
 wie immer. — Ich konnte nicht anders, ich mußte Harald
 ein Lob spenden …
 
-»Die Sache hast Du wieder großartig eingeleite! …«
-meinte ich leise. Denn es waren nahe andere Gäste da.
-»Ich möchte nur wissen, wie Du darauf gekommen. bist, daß
+»Die Sache hast Du wieder großartig eingeleitet …«
+meinte ich leise. Denn es waren noch andere Gäste da.
+»Ich möchte nur wissen, wie Du darauf gekommen bist, daß
 die Leute, die …«
 
 Er winkte ab …
 
 »Vergiß nicht, daß die drei Norweger soeben erst ermordet
-waren, als der Fürst die Einflüsse betrat … Das
-heißt also: die Mörder entschlossen ein erst zur Tat, als
-sie die Halt bemerkten, als diese ein Boot Rückseite …
+waren, als der Fürst die Blockhütte betrat … Das
+heißt also: die Mörder entschlossen sich erst zur Tat, als
+sie die Jacht bemerkten, als diese ein Boot aussetzte …
 Mithin …«
 
 »Mithin …?«
 
-»… mithin fürchteten die Mörder betrat vonseiten der
+»… mithin fürchteten die Mörder Verrat vonseiten der
 drei Robinsons …«
 
-Ich grübelte … grübelte, machte nichts mehr fragen …
+Ich grübelte … grübelte, mochte nichts mehr fragen …
 — Zum Teufel, war ich denn wirklich so begriffsstutzig, daß
-ich noch immer ich Dunkeln tappte?!
+ich noch immer im Dunkeln tappte?!
 
 Harst zahlte unsere Zeche …
 
 Und zehn Minuten darauf standen wir vor den beiden
-Hafenarbeitern, die sich tatsächlich auf dem Theaterplatz stattgefunden
-hatten …
+Hafenarbeitern, die sich tatsächlich auf dem Theaterplatz
+eingefunden hatten …
 
 Unter den Alleebäumen standen wir … Der eine der
 Leute sagte hastig:
 
 »Hier, Herr, — ich habe alles aufgeschrieben … Es ist
-geprüft …«
+geglückt …«
 
 Harst überflog den Zettel, gab dem Mann fünfzig Kronen
 …
 
 »Da — teilt es Euch …!«
 
-Die Kerle stilvollen, würgten, weinten fast …
+Die Kerle schluckten, würgten, weinten fast …
 
 »Herr, Sie haben uns gerettet,« murmelte der eine wieder.
 »Jetzt können wir auf Abzahlung ein Fischerboot kaufen …«
 
 Wir schritten weiter …
 
-Bis zur Endstation der Holmenkollen » Zahnradbahn …
+Bis zur Endstation der Holmenkollen-Zahnradbahn …
 Fuhren zum Holmenkollen empor … Der Wagen war leer.
 
 Lasen in Ruhe den Zettel, dessen Inhalt Harald mir
 <@pagebreak/>
-ins Deutsche übersetzte … Ich selbst: finde mich ich Norwegischen
+ins Deutsche übersetzte … Ich selbst finde mich im Norwegischen
 nur auf der Speisekarte zurecht. — Der Inhalt
-lautlose:
+lautete:
 
 > »Die beiden sind weggejagte Matrosen von einem englischen
-Kohlendampfer, Sie wohnen bei Fräulein Senta
-Longby auf der Fjordinsel Sellenby, Sie haben uns
+Kohlendampfer. Sie wohnen bei Fräulein Senta
+Longby auf der Fjordinsel Sellenby. Sie haben uns
 ohne weiteres geglaubt, daß wir die Herren niedergeschlagen
-und irgendwo ich Theater eingesperrt haben. Jetzt gaben
-sie uns nochmals fünfzig Kronen, dackmit wir auf die Jacht
+und irgendwo im Theater eingesperrt haben. Jetzt gaben
+sie uns nochmals fünfzig Kronen, damit wir auf die Jacht
 aufpassen sollen … Wir werden aufpassen, aber nichts
 sehen. Das ist selbstverständlich. Nun können wir das
-Boot Greis zu einem Drittel bezahlen. — Uwe Schlips.«
+Boot gleich zu einem Drittel bezahlen. — Uwe Kolling.«
 
 »Wußte ich’s doch!« meinte Harald und zerriß den
-Zettel, streute die Stücken zum Fenster des Aussicht8wagens
-hinaus … »Sie wohnen bei Senta Longby …! Und -
-weggejagte Matrosen …!! Oh — die Sache macht sich?!«
+Zettel, streute die Stücken zum Fenster des Aussichtswagens
+hinaus … »Sie wohnen bei Senta Longby …! Und —
+weggejagte Matrosen …!! Oh — die Sache macht sich!«
 
-Dann voll er mir eine seiner Mirakulum an. Wir
+Dann bot er mir eine seiner Mirakulum an. Wir
 rauchten … Schwiegen … Zuweilen öffnete sich zwischen den
 Baumkronen ein Ausblick auf den Fjord …
 
-Höher und höher trug uns die Zahnradbahn ».: Tier
-oben wehte ein Spielerei füllten als in der Stadt …
+Höher und höher trug uns die Zahnradbahn … Hier
+oben wehte ein frischeres Lüftchen als in der Stadt …
 
 Ich fröstelte leicht …
 
 Harald lächelte mich merkwürdig an …
 
-»Dich friert … mit Recht …! Sie. sind doch hinter uns
-der … Nur jetzt in anderer Aufmachung …!«
+»Dich friert … mit Recht …! Sie sind doch hinter uns
+her … Nur jetzt in anderer Aufmachung …!«
 
 Mein träges Hirn ermunterte sich …
 
@@ -826,29 +825,29 @@ Mein träges Hirn ermunterte sich …
 sofort ein … »Also die beiden Matrosen, Harald?«
 
 »Sind keine Matrosen, mein Alter … Weiß Gott,
-was sie sein mögen … Jedenfalls sind sie schlau und ich
-Verkleiden uns gewachsen … ich Wagen vor uns sitzen sie,
-— Herr und ältere Dame „«
+was sie sein mögen … Jedenfalls sind sie schlau und im
+Verkleiden uns gewachsen … im Wagen vor uns sitzen sie,
+— Herr und ältere Dame …«
 
 »Donnerwetter …!«
 
-»Ja — hoben sich anders kostümiert …- Ich kann sie
+»Ja — haben sich anders kostümiert … Ich kann sie
 durch die Glasfenster beobachten … Operieren mit einem
-Doblsptegel - — die Dame … Läßt: uns nicht aus den
+Hohlspiegel — — die Dame … Läßt uns nicht aus den
 <@pagebreak/>
 Augen … Fielen mir schon so etwas in der Allee am
-Theaterplatz auf … etwas … Spielten die inmitten —
+Theaterplatz auf … etwas … Spielten die Touristen —
 lasen in einem Reisehandbuch … Der Hohlspiegel hat sie
 jetzt entlarvt …«
 
-»Und woraus flieht, Du, daß es dieselben Leute sind?!
-Es können doch auch
+»Und woraus schließt, Du, daß es dieselben Leute sind?!
+Es können doch auch …«
 
 »Stopp, Alterchen, — es können nicht … nein, es sind
 dieselben … Der eine hatte nur vier Finger an der rechten
 Hand … der Graubart … Er spielt jetzt die würdige
 Dame, trägt Handschuhe … Der Zeigefinger des rechten
-Handschuhe ist ausgestopft und steif. Ich sehe das ganz
+Handschuhs ist ausgestopft und steif. Ich sehe das ganz
 genau …
 
 »Meine Hochachtung …!«
@@ -860,8 +859,8 @@ Es sind vielleicht Gauner erster Klasse oder …«
 »Oder …?!«
 
 »Na — das kannst Du auch allein herausfinden … —
-So — wir sind angelangt … Nun werden wir den Herrn
-schaffen eine Nase drehen …«
+So — wir sind angelangt … Nun werden wir den Herrschaften
+eine Nase drehen …«
 
 Und — wir stiegen aus, Harald fragte einen Beamten,
 wann der nächste Zug abwärts ginge …
@@ -869,7 +868,8 @@ wann der nächste Zug abwärts ginge …
 »In drei Minuten …«
 
 Wir verließen den Bahnhof … Das Paar war dicht
-vor uns. Ich sah ihre Rüdansichten: tadellose äußere Auf-madcung!
+vor uns. Ich sah ihre Rückansichten: tadellose äußere
+Aufmachung!
 
 Und wir machten kehrt, sprangen in den kleinen Zug …
 
@@ -878,23 +878,21 @@ Harald lachte … —
 Als wir wieder in Oslo waren, nahmen wir ein Auto
 — bis zum Hafen, mieteten ein Segelboot. Die beiden Besitzer
 waren ganz auf Fremdenverkehr eingestellt, zeigten
-uns die Sehenswürdigkeiten, nannten den Namen jeder Fjorde
-Insel …
+uns die Sehenswürdigkeiten, nannten den Namen jeder Fjordinsel
+…
 
 Wer den Christiania-Fjord kennt, vergißt sie nicht, diese
 Felseneilande mit dem dürftigen Baumwuchs, dem weidenden
 <@pagebreak/>
-222200&nbsp;2020220202 79&nbsp;2000020020280&nbsp;020SD
+Vieh, den blitzsauberen Häuschen, den Anlegebrücken, den
+schwankenden angeketteten Booten …
 
-Blech, den blitzijauberen Häuschen, den Anlegebrüden, den
-schwankenden angeketteten Booten .;.
-
-Die meisten sind Plan … Nur eine war da, abseits gelegen,
+Die meisten sind flach … Nur eine war da, abseits gelegen,
 mit hohem nördlichen Felsufer, Büschen und alten
 Eichen … Ein hellgrün gestrichenes Haus lugte durchs das
 dunklere Grün …
 
-Der eine Schiffen erklärte:
+Der eine Schiffer erklärte:
 
 »Das ist Sellenby, meine Herren … Dort wohnt das
 schönste Mädchen von Oslo …«
@@ -902,20 +900,19 @@ schönste Mädchen von Oslo …«
 Wir beide, entsprechend Graubärten und Brillen, legten
 auf Schönheit wenig Wert … schwiegen …
 
-»Senta Longby heißt das Mädchen fügte der Schiffer
+»Senta Longby heißt das Mädchen,« fügte der Schiffer
 hinzu — etwas ärgerlich über unsere Gleichgültigkeit …
 »Aber sie ist arm und stolz, meine Herren … Sie könnte
-längst verheiratet sein … Sie wartet „…«
+längst verheiratet sein … Sie wartet …«
 
 »Auf wen?« fragte Harald da …
 
-»Nun, auf einen ganz reihen Bewerber … Sie hat
+»Nun, auf einen ganz reichen Bewerber … Sie hat
 nur noch einen Bruder … Und vier Kühe und viele Hühner
-
-… Davon lebt sie … Manchmal: wohnen bei ihr auch
+… Davon lebt sie … Manchmal wohnen bei ihr auch
 Fremde — zur Erholung … Jetzt zwei Matrosen und
-zwei seine Leute, Mutter und Sohn .:… Der Sohn ist Maler
-—« aus London … Er malt die Senta …«
+zwei feine Leute, Mutter und Sohn … Der Sohn ist Maler
+— aus London … Er malt die Senta …«
 
 Das Boot umrundete die Insel halb …
 
@@ -923,46 +920,46 @@ Die Südseite war flacher. Wir sahen eine Wiese, vier
 weidende Kühe … Und ein blondes Mädchen, auf einem
 Schemel sitzend, melkte das eine Tier …
 
-»Senta …!« sagte der Schiffen: ehrfurchtsvoll …
+»Senta …!« sagte der Schiffer ehrfurchtsvoll …
 
-Das B. Dr glitt rauschend weiter … —
+Das Boot glitt rauschend weiter … —
 
-Um zwei Uhr nachmittags landeten wir wiederum Hafen,
-bestellten die beiden Schiffen zu zehn Ul« abends zu einen
+Um zwei Uhr nachmittags landeten wir wieder am Hafen,
+bestellten die beiden Schiffer zu zehn Uhr abends zu einer
 Mondscheinfahrt, gingen in ein Privathotel und blieben
 dort bis zur Dunkelheit. Inzwischen hatte Harald den Professor
 Jönling angeläutet. Er brachte uns, was wir wünschten.
-— Unsere beiden biederen Schlösser waren nicht schlecht
-erstaunt, als um zehn Uhr zwei waschechte ran Maate ihr
-»Boot bestiegen …
+— Unsere beiden biederen Schiffer waren nicht schlecht
+erstaunt, als um zehn Uhr zwei waschechte Jan Maate ihr
+Boot bestiegen …
+
 <@pagebreak/>
-0Dd2000009000025 senden;0006090093000
+»Wir sind’s …,« sagte Harald nur. »Wir pflegen abends
+nur anders auszusehen …«
 
-»Wir sind’s ,. „« sagte Harald nur. »Wir pflegen abends
-nur »anders auszusehen …«
 Die beiden waren nicht dumm. Ihnen ging ein Licht
+auf …
 
-»Ich so — von der Polizei sind die Herren,« grinste
-der Gesprähige …
+»Ach so — von der Polizei sind die Herren,« grinste
+der Gesprächige …
+
 Dann fuhren wir in den Fjord hinaus …
-
-auf
 
 <h2>4. Kapitel.</h2>
 
 <h3>»Der Bestellte«.</h3>
 
-Die MondshHeinfahrt ging ohne Mondschein vor sich.
+Die Mondscheinfahrt ging ohne Mondschein vor sich.
 Uns war’s nur angenehm. Ein kräftiger Wind stieß den
 Fjord hinab. Unser Boot schoß dahin wie ein Renner … Und
-Gefühl war’s … Der Juni in Oslo hat noch seine bedenklich
-falten Nächte +…
+kühl war’s … Der Juni in Oslo hat noch seine bedenklich
+kalten Nächte …
 
-ohne halbe Stunde … Harst hatte den Achseln Bescheid
+Eine halbe Stunde … Harst hatte den Schiffern Bescheid
 gesagt … Aus einer schwarzen Wolke begann’s zu tröpfeln.
 
-Harst am Steilufer ehrlich das Boot entlang … Wir
-prangen, erreichten einen mächtigen traten Stein …
+Hart am Steilufer strich das Boot entlang … Wir
+sprangen, erreichten einen mächtigen flachen Stein …
 
 Das Boot verlor sich in der Finsternis … Um Mitternacht
 sollte es uns wieder abholen …
@@ -970,219 +967,212 @@ sollte es uns wieder abholen …
 Zwischen dem flachen Felsblock und dem Ufer lag noch
 ein Wasserstreifen von gut drei Meter. Schäumend und
 gurgelnd wogten die Spitzen der Wellen um den Stein.
-— Harst musterte mißtrauisjH die schroffe Wand … viel
+— Harst musterte mißtrauisch die schroffe Wand … viel
 war davon nicht zu erkennen …
 
 Dann ein kräftiger Satz — und er hing drüben am
-fahlen Fels, kletterte Boden, kam mir aus den Augen. Ei
-wollte zunächst einmal: die Umgebung absuchen …
+kahlen Fels, kletterte höher, kam mir aus den Augen. Er
+wollte zunächst einmal die Umgebung absuchen …
 
 Das dauerte mir denn doch schließlich zu lange. Auch
-ist wagte den Sprung, rutschte ab — — lag ich Wasser
+ich wagte den Sprung, rutschte ab — — lag im Wasser
 <@pagebreak/>
-DLOSESEHSESDSSSSS schoben;240 ECSEESSDOSS
-
 … Bis zum Halse reichte es mir, war verdammt kalt, trieb
 mich schleunigst an der Steilwand empor …
 
-Zwei Hände streckten ein mir entgegen … Ein Ahnung.
-=« - oben, aber pudelnaß …
+Zwei Hände streckten sich mir entgegen … Ein Schwung
+— — oben, aber pudelnaß …
 
-Harald lächelte lautlos …
+Harald lachte lautlos …
 
 »Ein Schnupfen ist Dir sicher … Es sei denn, das
 meine Vermutung zutrifft …«
 
-»Welche?!« - Ich war gereizt … Ich fror …
+»Welche?!« — Ich war gereizt … Ich fror …
 
 »Daß das Haus leer ist, mein Alter … Ich war schon
-dort … Alles dunkel, totenstill … — Komm, wir werden.
+dort … Alles dunkel, totenstill … — Komm, wir werden
 ja sehen …«
 
-Er trabt. Ich neben ihm. Wir wurde wieder besticht
+Er trabte. Ich neben ihm. Mir wurde wieder leidlich
 warm … leidlich.
 
 an der Haustür standen wir unter Wind … Die Fensterladen
-sämtlich zu … ich Stalle nebenan meldeten sich die
-Füße … Die Wetterfahne auf dem das kreischte.
+sämtlich zu … im Stalle nebenan meldeten sich die
+Kühe … Die Wetterfahne auf dem Dache kreischte.
 
-Harst umschlich das kleine Haus, kehrte zurück, holte den.
+Harst umschlich das kleine Haus, kehrte zurück, holte den
 Patentdietrich hervor …
 
 »Licht!«
 
 Ich beleuchtete das Schlüsselloch …
 
-Das Schloß knackte … Die Tür ging auf … -
+Das Schloß knackte … Die Tür ging auf … —
 
-Ich will hier gleich bemerken, daß Harst recht gehabt: wir
-Hügel waren ausgeflogen! Allerlei Anzeichen sprachen für
-eiligen Aufbruch. In der einen Vorderstube lag ich mächtigen
-Kachelofen rosa; ein Berg warme Papierasche. zu
-einem Schrank fanden wir einen eleganten leeren Loder—koffer.
-In Doktor Longbys Stube nach hinten heraus eins«
-beiden wir ich Screibtis; fünf Photographieral 2n …
+Ich will hier gleich bemerken, daß Harst recht gehabt: die
+Vögel waren ausgeflogen! Allerlei Anzeichen sprachen für
+eiligen Aufbruch. In der einen Vorderstube lag im mächtigen
+Kachelofen noch ein Berg warme Papierasche. Auf
+einem Schrank fanden wir einen eleganten leeren Lederkoffer.
+In Doktor Longbys Stube nach hinten heraus entdeckten
+wir im Schreibtisch fünf Photographieralben …
 
-Harst nickte mir zu … »Senta hat alle Bilder .;r ich
-und ihrem Bruder vernichtet … In der ODfenasche kam:
-Du vor) regte der Photographien feststellen … Senta umtobte
-sogenannten Engländer sind nach ran Mayen unsern-.
-Wegs …«
+Harst nickte mir zu … »Senta hat alle Bilder von sich
+und ihrem Bruder vernichtet … In der Ofenasche kannst
+Du noch Reste der Photographien feststellen … Senta und
+die sogenannten Engländer sind nach Jan Mayen unterwegs
+…«
 
-Das&selbe hatte auch ich mir schon gedacht …
+Dasselbe hatte auch ich mir schon gedacht …
 
 »Als Warner,« meinte ich …
 
 »natürlich …«
-<@pagebreak/>
-DSSSESCSISESSSIS 2 2SSSISDISSSSSD
-Harald saß ich einfachen Schreibsessel vor Longbys schreibt
 
-»Dort ich Schrank ist. trockene Wäsche … Ziel einen Anzug
+<@pagebreak/>
+Harald saß im einfachen Schreibsessel vor Longbys Schreibtisch
+…
+
+»Dort im Schrank ist trockene Wäsche … Zieh einen Anzug
 Longbys an, mein Alter,« fügte er hinzu …
 
-Unsere eingeschalteten FJaschenlampen standen »auf der
+Unsere eingeschalteten Taschenlampen standen auf der
 Platte des Schreibtisches und warfen helle Lichtkreise auf
 die weiß getünchte Decke …
 
 Ich begann mich schleunigst zu entkleiden …
 
 Und als ich dann ausgerechnet ohne jede Hülle mich
-präsentierte und Seebär ein Wollhemd über den Kopf streifen
+präsentierte und soeben ein Wollhemd über den Kopf streifen
 wollte, ertönte an der Haustür der dröhnende Schlag des
 altehrwürdigen Türklopfers.
 
-»Alle guten Geister ., 1« rief ich leise …
+»Alle guten Geister …!« rief ich leise …
 
-pf hatte ich: Nu die beiden Taschenlampen Autos
-060206
+Harald hatte im Nu die beiden Taschenlampen ausgeknipst
+…
 
-»Sieb wenigstens ’ das Hemd über,« meinte er traten …
+»Ziel wenigstens das Hemd über,« meinte er trocken …
 
 Dann schlich er hinaus …
 
-Und ich ich Dunkeln … — fand natürliHh die Aermel-löHer
+Und ich im Dunkeln … — fand natürlich die Ärmellöcher
 nicht — fluchte: … Hatte endlich doch Erfolg … Tastete
 nach den Unterhosen: … Schlüpfte hinein … Strümpfe an
 … Beinkleider — — dann ebenfalls in den Flur …
 
-Harald sprach … rief durchs die Tür:
+Harald sprach … rief durch die Tür:
 
-»Wer sind Sie?
+»Wer sind Sie?«
 
 Ich tappte näher … Hörte die Antwort:
 
 »Der Bestellte!«
 
-Auch der Mann draußen bediente sich) des Englischen.
+Auch der Mann draußen bediente sich des Englischen.
 
 »Gut — ich öffne,« rief Harald wieder. Und zu mir —
-flüsternd: »Zünde in »Longbys Stube die Hängelampe any
+flüsternd: »Zünde in Longbys Stube die Hängelampe an.
+… Ich bin Longby …«
 
-- Ich bin Longby …
-
-Ich eilte zurü& an das kleine Zimmer … Fand mein
-Feuerzeug in den durchweichten sollen … Es brannte …
-Die Petroleumlampe glühte auf … Rötliches Licht falls«
+Ich eilte zurück in das kleine Zimmer … Fand mein
+Feuerzeug in den durchweichten Hosen … Es brannte …
+Die Petroleumlampe glühte auf … Rötliches Licht füllte
 den bescheidenen Raum.
 
-ich Nu raffte ich:meine Kleider zusammen und verschlang?
-ich Nebenzimmer. (Es war das der Schärpen bhellblonden
-
+im Nu raffte ich meine Kleider zusammen und verschwand
+im Nebenzimmer. Es war das der schönen hellblonden
 Senta …
 
 <@pagebreak/>
-0200202002008&nbsp;2282&nbsp;296 DOE0SELLELEEIDES
-
 Flink die Jacke über … Und wieder hinein zu Harst
 und dem Fremden …
 
 Ich war platt … Ein älterer Herr war’s … Typ des
-englisch;en Großkaufmanns …
+englischen Großkaufmanns …
 
 Harald stellte mich vor …
 
 »Mein Freund Gussol … Mister … — oh, nun habe
-ich Ihren Namen vergessen, Mr. „…«
+ich Ihren Namen vergessen, Mr. …«
 
 »Garrison … Edward Garrison, Mr. Longby …«
 
 Und Harst schlug sich gegen die Stirn …
 
 »Natürlich — — Garrison …! — Nehmen Sie bitte
-Platz, Mr. Garrison … Es ist also alles in Ordnung … 7«
+Platz, Mr. Garrison … Es ist also alles in Ordnung …?«
 
 So leitete er die Unterhaltung mit dem »Bestellten«
 ein, von dem wir absolut nichts wußten — nur jetzt den
-Namen. Aber ein Harst Lot schon heraus, was nötig ist.
+Namen. Aber ein Harst lockt schon heraus, was nötig ist.
 Und Edward Garrison war uns gegenüber absolut harmlos.
 
-Wir saßen um den Sofatische herum. Harald hatte
+Wir saßen um den Sofatisch herum. Harald hatte
 einem Schränkchen eine Flasche Kognak, Gläser und Zigarren
 entnommen und spielte den Hausherrn mit blendender Frechheit
 …
 
-»Ist habe mich ganz genau an Ihre Instruktionen gehalten,
+»Ich habe mich ganz genau an Ihre Instruktionen gehalten,
 Mr. Longby,« erklärte Garrison jetzt. »Sie können ganz
-ohne Sorge sein. Bei sollen Geschäften muß man jede
+ohne Sorge sein. Bei solchen Geschäften muß man jede
 Vorsichtsmaßregel anwenden. Niemand weiß, daß ich hier
-na&g volle gereist bin. Mein Personal vermutet mich in
+nach Oslo gereist bin. Mein Personal vermutet mich in
 Paris …«
 
 »Wie gehen die Geschäfte, Mr. Garrison?« fragte Harst-Longby
-und füllte die Spitzgläöchen …
+und füllte die Spitzgläschen …
 
-»Danke … Die Konjunktur ist leidlich) … Dir große
-Steine ist in Amerika viel Nachfrage … Nur der il -
+»Danke … Die Konjunktur ist leidlich … Für große
+Steine ist in Amerika viel Nachfrage … Nur der Zoll —
 — der Zoll!«
 
 Aha — Edelsteinhändler, Juwelier war dieser Garrison!
-— Und ich verhielt mich weiter ganz stirbt, machte nur den
-Hitze und tat dem Kognak alle Ehre an … Die Erkältung
-wollte mir fernbleiben … Dafür sorgte ich schon …
+— Und ich verhielt mich weiter ganz still, machte nur den
+Zuhörer und tat dem Kognak alle Ehre an … Die Erkältung
+sollte mir fernbleiben … Dafür sorgte ich schon …
 
-Harst nahm eine Zigarre. Garrison beschritten. Ich
+Harst nahm eine Zigarre. Garrison desgleichen. Ich
 <@pagebreak/>
-DPOSSSSSSSSDSS 27 DSSSSSSSSESSS
-
 hatte mich schon bedient. Ein tadelloses Kraut übrigens …
-Importe — mindestens sechzig Pfennig das Stü.
+Importe — mindestens sechzig Pfennig das Stück.
 
 »Sie fanden also am Hafen ein Boot, Mr. Garrison,«
 begann Harst abermals …
 
 »Mit Leichtigkeit … Und erklärte dem Bootsmann, ich
-seit der Gatte der alten Dame, die bei Fräulein Senta Longby
+sei der Gatte der alten Dame, die bei Fräulein Senta Longby
 wohne, — sagte also genau das, was Ihre Schwester mir
-briefliHh vorgeschrieben hatte …«
+brieflich vorgeschrieben hatte …«
 
 »Meine Schwester ist verreist,« warf Harald hin.
 
 Der Engländer verbeugte sich. »Was ich bedauere, Mr.
-Longby …« - Er hatte ein Gesicht, das kühl und undurchdringlich
-war. Die Augen Piraten etwas unstät. Ich gewann
+Longby …« — Er hatte ein Gesicht, das kühl und undurchdringlich
+war. Die Augen blickten etwas unstät. Ich gewann
 den Eindruck, daß Mr. Garrison häufiger seine wohlgepflegten
 Hände an dunklen Dingen teilnehmen ließ. — »Ich
-glaubte, ich würde mit Ihrer Schwester unterhandeln müssen’
+glaubte, ich würde mit Ihrer Schwester unterhandeln müssen,«
 fügte er hinzu. »So ist es mir lieber … — Würden Sie
 mir jetzt die Steine zeigen, Mr. Longby?« Sein Gesicht bekam
-plötzlich etwas FucSsähnliches …
+plötzlich etwas Fuchsähnliches …
 
 »Bedauere, Mr. Garrison … Das ist heute nicht möglich
--. Ich mußte meinen Vorrat leider hier von der Insel entfernen,
+… Ich mußte meinen Vorrat leider hier von der Insel entfernen,
 da die Sachlage etwas unsicher geworden …«
 
 »So?! Unsicher?! Inwiefern?«
 
 »Hm — kennen Sie den deutschen Detektiv Harst, Mr.
-Garrison?«’
+Garrison?«
 
-Der Juwelier ershHrak. »Gewiß — dem Namen nach …
+Der Juwelier erschrak. »Gewiß — dem Namen nach …
 — Was ist’s mit Harst?«
 
 »Er ist hier in Oslo …«
 
-»ob — — etwa … etwa der Diamanten wegen?! Das
+»Oh — — etwa … etwa der Diamanten wegen?! Das
 kann doch nicht sein …! Sie ließen mir doch mitteilen, daß
 die Steine aus einer Mine stammten, die nur Sie und
 ein paar Ihrer Freunde kennen …«
@@ -1190,173 +1180,168 @@ ein paar Ihrer Freunde kennen …«
 »Das stimmt auch, Mr. Garrison … Immerhin: ich
 habe bereits eine Anzahl ungeschliffener Diamanten anderswo
 abgesetzt … Und die Abnehmer mögen nun vielleicht
-gern ausspionieren wollen, woher ich sie habe … Technik
-mag Harst hier in Oslo weilen .:.«
-<@pagebreak/>
-20820200022000d22&nbsp;998 0000200000200,
+gern ausspionieren wollen, woher ich sie habe … Deshalb
+mag Harst hier in Oslo weilen …«
 
-»ah so … — verstehe … ’- ’Nun, Sie werden Ihr
-Geheime. ist wohl zu hüten wissen, Mr. Longby …
+<@pagebreak/>
+»Ach so … — verstehe …! — Nun, Sie werden Ihr
+Geheimnis wohl zu hüten wissen, Mr. Longby …«
 
 »Allerdings … — Dennoch muß ich vorsichtig sein …
-Die Steine sind jetzt an Land gut wollte?!. Morgen vormittag
+Die Steine sind jetzt an Land gut versteckt. Morgen vormittag
 treffen wir uns, Mr. Garrison … Tageslicht wird
 Ihnen als Juwelier zur Prüfung der Steine lieber sein.«
 
-Garrison lächelte dünn. »Wenn Ihr Vorrat den mir über-sandten
-Proben entspricht, werden wkr beide ein gutes Geschäft
+Garrison lächelte dünn. »Wenn Ihr Vorrat den mir übersandten
+Proben entspricht, werden wir beide ein gutes Geschäft
 machen …«
 
 Harald legte jetzt plötzlich die Zigarre weg und holte
-an. 8 der Brusttasche seiner blauen Seemannsjacke eine Schachtel
+aus der Brusttasche seiner blauen Seemannsjacke eine Schachtel
 Mirakulum hervor …
 
 Sagte zu seinem Gast:
 
 »Bitte — eine Zigarette gefällig, Mr. Garrison …?
-— Sie werden dergleichen nicht oft rauhen … Es ist meine
+— Sie werden dergleichen nicht oft rauchen … Es ist meine
 Spezialmarke, die ich mir in Berlin nur für mich herstellen
-lasse …
+lasse …«
 
 Garrison griff zu …
 
-»Ah — — Mylady …« - Die letzte Silbe verschluckte
-WW …
+»Ah — — Miraku…« — Die letzte Silbe verschluckte
+er …
 
-Ihm blieb dann der Mund offen … Stierte Harst»-Longby
-dann … ’ …
+Ihm blieb dann der Mund offen … Stierte Harst-Longby
+an …
 
-setzte die Lippen … Glotzte wieder. auf den Ausdruck der
+Leckte die Lippen … Glotzte wieder auf den Aufdruck der
 Zigarette …
 
 Und quetschte hervor …
 
 »Mirakulum …?! Das … das … soll doch … Harsts
-Marke sein … Letztens noch las ihre in einer Londoner
+Marke sein … Letztens noch las ich’s in einer Londoner
 Zeitung, die über Harsts letzte Abenteuer in Indien berichtete
 …«
 
-»Stimmt auffallend, Mr. Garrison … Harst:- Ursache
-—« meine Marke …! — Sie sind nun wohl ich Bilde, Mr.
+»Stimmt auffallend, Mr. Garrison … Harsts Marke
+— meine Marke …! — Sie sind nun wohl im Bilde, Mr.
 Garrison … Ich bin Harald Harst, und der Herr dort ist
 mein Freund Max Schraut, der leider die Schreibwut hat
-
-… Er Schriftstellers und macht Reklame für uns, womit ich
-durchs;aus nicht einverstanden bin …«
+… Er schriftstellert und macht Reklame für uns, womit ich
+durchaus nicht einverstanden bin …«
 
 Der Juwelier hatte sich verfärbt …
-<@pagebreak/>
-22 0D0SSSSSSOSSS 99&nbsp;2020020022202&nbsp;242.080
 
+<@pagebreak/>
 »Sie … Sie … haben … mich … hineingelegt!« rief
 er ganz fassungslos …
 
-- »steigt so, Mr. Garrison … — Und jetzt werden Sie
-uns ehrlich erzählen, wie Sie zu dieser Verbindung mit!
-Tongby gekommen sind — ehrlich, Mr. Garrison! - Dann
-werden wir Sie schonen. Andernfalls …!!’
+»Scheint so, Mr. Garrison … — Und jetzt werden Sie
+uns ehrlich erzählen, wie Sie zu dieser Verbindung mit
+Longby gekommen sind — ehrlich, Mr. Garrison! Dann
+werden wir Sie schonen. Andernfalls …!!«
 
-Garrison goß ein schnell einen Kognak ein … trank.
+Garrison goß sich schnell einen Kognak ein … trank.
 
 Schüttelte den Kopf … »Unglaublich, Mr. Harst …!
-Das haben Sie glänzend gemacht! ich übrigen können Sie
-mir nicht viel zunhaben, möchte ich gleich bemerken …«
+Das haben Sie glänzend gemacht! im übrigen können Sie
+mir nicht viel anhaben, möchte ich gleich bemerken …«
 
 »So?! Haben Sie denn die drei Probesteine verzollt,
 Mr. Garrison?!«
 
-»Cm … nein, — allerdings nicht …«
+»Hm … nein, — allerdings nicht …«
 
-»Na also .,! — Und nun — erzählen Sie …«
+»Na also …! — Und nun — erzählen Sie …«
 
-Garrison hatte stieß wieder beruhigt. Er rauchte die
-
+Garrison hatte sich wieder beruhigt. Er rauchte die
 Mirakulum an und legte los …
-- »Die Geschichte fing mit einem Brief vor drei Monaten
-en, Mr. Harst … Senta Longby fragte an, ob ich unge-sezliffene
+
+»Die Geschichte fing mit einem Brief vor drei Monaten
+an, Mr. Harst … Senta Longby fragte an, ob ich ungeschliffene
 erstklassige Diamanten unter der Hand erwerben
 wolle … — Antwort meinerseits: Ja, wenn es sich nicht
-um Diebesgut handele. — Darauf ein neuer Brief, daß exe
-ehrlich? erworbene Steine seien — aus einer Mine, die Doktor
-Longby, entdeckt habe. In einem altertümlichen KätytHen, das
-mir zugehen würde, lägen ich Doppelboden drei Probesteine.
-Preis dreihundert Pfund Sterling. — Das Kästchen kam,
+um Diebesgut handele. — Darauf ein neuer Brief, daß es
+ehrlich erworbene Steine seien — aus einer Mine, die Doktor
+Longby entdeckt habe. In einem altertümlichen Kästchen, das
+mir zugehen würde, lägen im Doppelboden drei Probesteine.
+Preis dreihundert Pfund Sterling. — Das Kästchen kam.
 Die Steine waren erstklassig. Ich zahlte und erhielt drei
 Wochen darauf einen neuen Brief, der mich hier nach Oslo
-rief. Ich sollte auf keinen Fall verraten, wohin ich führe
-sollte hier unter anderem Namen absteigen. und tausend
+rief. Ich sollte auf keinen Fall verraten, wohin ich führe,
+sollte hier unter anderem Namen absteigen und tausend
 Pfund Sterling bereithalten …«
 
-»gaben Sie etwa diese Unsumme in bar bei sich?*«
-»Bewahre … 1 Ich hatte sie bei mir, habe sie aber Opfer!
-ich Safe des Christian«»Hotels niedergelegt …« -
+»Haben Sie etwa diese Unsumme in bar bei sich?«
+
+»Bewahre …! Ich hatte sie bei mir, habe sie aber sofort
+im Safe des Christian-Hotels niedergelegt …«
 
 Harald blickte Garrison nachdenklich an …
 
 »Gegen die übliche Quittung?« meinte er sinnend …
 
 »Ja … natürlich …«
-<@pagebreak/>
-S0IDETDESDSESOS zu DESESISDEDI0 So
 
+<@pagebreak/>
 »Und die Quittung haben Sie bei sich?«
 
-»Gewiß, Mr. Harst …
+»Gewiß, Mr. Harst …«
 
-Harald formte vier, fünf Rauch hinge .-. Seine Stirn
-war kraus … Seine Gedanken arbeitditen offenbar mit Hochdruck
+Harald formte vier, fünf Rauchringe … Seine Stirn
+war kraus … Seine Gedanken arbeiteten offenbar mit Hochdruck
 …
 
-Dann —« ganz unvermittelt:
+Dann — ganz unvermittelt:
 
 »Mußten Sie vielleicht Senta Longby eine Photographie
-von sich errichten, damit das Mädchen Sie nach dem Bälde
-höher wiedererkenne?«
+von sich einschicken, damit das Mädchen Sie nach dem Bilde
+hier wiedererkenne?«
 
-Der Sauwetter war« »erpicht …
+Der Juwelier war überrascht …
 
 »Allerdings — sogar drei Bilder, Mr. Harst … Drei
 Aufnahmen — ganz neu …«
 
 »Dann …« sagte Harald, »dann … werden Sie einer
-großen Gefahr entronnen sein, Mr. Garrison … Durch uns?
-Man hätte Sie hier ermordet … kam hätte einen Menschen
+großen Gefahr entronnen sein, Mr. Garrison … Durch uns!
+Man hätte Sie hier ermordet … Man hätte einen Menschen
 als Garrison herausstaffiert und Ihre tausend Pfund
 holen lassen — aus dem Hotel … Die drei Photographien
-sollten es den Schurken erleichtern, e Maske recht genau
+sollten es den Schurken erleichtern, die Maske recht genau
 zu gestalten … — Wir werden Sie zurückbegleiten …
-Ihr Boot wartet wohl …«;’
+Ihr Boot wartet wohl …«
 
-5\. Kapitel …
-Kampf ich gegen.
+<h2>5. Kapitel.</h2>
+<h3>Kampf im Regen.</h3>
 
-Das Gesicht des Juweliers war bei diesen kühl-sachliden
+Das Gesicht des Juweliers war bei diesen kühl-sachlichen
 Eröffnungen Harsts geradezu versteinert. Fahle Blässe überzog
-die Wangen. Und erst naß einer Weile rief er keuchend:
+die Wangen. Und erst nach einer Weile rief er keuchend:
 
-»Ob — ich war mit Fürchtest geschlagen …!?«
+»Oh — ich war mit Blindheit geschlagen …!!«
 
-»Durchaus nicht, Mr. Garrison,« schwächte Ha« [ck diese
-Bemerkung ab. »Der Plan der Schurken war »er zu
-durchsHhauen. Sie hatten die geschickt sehr sein eingefädelt.
-Wenn ich nicht von vornherein an dieser Diamanutenmine
+»Durchaus nicht, Mr. Garrison,« schwächte Harald diese
+Bemerkung ab. »Der Plan der Schurken war schwer zu
+durchschauen. Sie hatten die Geschichte sehr fein eingefädelt.
+Wenn ich nicht von vornherein an dieser Diamantenmine
 Doktor Longbys gezweifelt hätte, würde ich kaum auf die
 Frage nach den Photographien gekommen sein. Zufällig ist
 <@pagebreak/>
-2022028002059 31 DES0S0CHSEIGCSEDS
-
 mir aber bekannt, wo. Longby die letzten Jahre zugebracht
-hat. Und kurz kann er keine Diamanten gefunden haben …«
+hat. Und dort kann er keine Diamanten gefunden haben …«
 
-Ich) horchte auf. I hatte fest angenommen, daß Tongby
-auf ran Master Edelsteine entdeckt hätte, eben eine Birne.
+Ich horchte auf. Ich hatte fest angenommen, daß Longby
+auf Jan Mayen Edelsteine entdeckt hätte, eben eine Mine.
 Und nun erklärte Harald hier mit größter Bestimmtheit, daß
 hiervon keine Rede sein könne. Und doch hatte er heute
-vormittag geäußert, Longby müsse auf ran Mayen Werts
-volles vorhaben, — —«so ähnlich hatte er sich ausgedrückt …
+vormittag geäußert, Longby müsse auf Jan Mayen Wertvolles
+vorhaben, — — so ähnlich hatte er sich ausgedrückt …
 
-Jedenfalls: ich war bitter enttäusHht. Der Fall »Gespenst
-von ran Maden« hätte auf diese Weise eine tadellose
+Jedenfalls: ich war bitter enttäuscht. Der Fall »Gespenst
+von Jan Mayen« hätte auf diese Weise eine tadellose
 Lösung gefunden — meines Erachtens! Nun war es nichts
 damit. Nun mußte man das Geheimnis doch in einer anderen
 Weise zu ergründen suchen,
@@ -1369,40 +1354,37 @@ Mr. Garrison, sind irgendwo gestohlen worden … Ich vermute
 in Kopenhagen, denn ich entsinne mich eines Einbruchs bei
 dem Juwelier Lörkin in Kopenhagen, der etwa ein Jahr zurückliegt.
 Lörkin wollte mir damals die Nachforschungen
-nach den Dieben übertragen, Schraut und ich) waren aber
-gerade in Afrika. Damals wurden auch. ungeschliffene Diamanten
-geraubt, und«: vielleicht hat der Erlös aus dieser
+nach den Dieben übertragen, Schraut und ich waren aber
+gerade in Afrika. Damals wurden auch ungeschliffene Diamanten
+geraubt, und vielleicht hat der Erlös aus dieser
 Diebesbeute Longby und Genossen erst die Mittel zu größeren
 Unternehmungen verschafft …«
 
-Harst heute den: Rest seiner Zigarette in der Aschen-KSale
+Harst drückte den Rest seiner Zigarette in der Aschenschale
 breit und erhob sich …
 
-»Es wird Zeit …:Sie werden vorangehen, Mr. Garrison
-
-Wir folgen Ihnen; — — unsichtbar … Hören Sie nur,
+»Es wird Zeit … Sie werden vorangehen, Mr. Garrison
+… Wir folgen Ihnen — — unsichtbar … Hören Sie nur,
 wie draußen der Regen plätschert. Es gießt … Sehr günstig
-für uns, wenn wir auch etwas naß werden …» Die lebte
-Strecke bis zum Bootsüsteg werden wir kriechen, Schraut und
+für uns, wenn wir auch etwas naß werden … Die letzte
+Strecke bis zum Bootssteg werden wir kriechen, Schraut und
 ich … Niemand darf sehen, daß wir Ihr Boot besteigen.
-Spione sind bestimmt »in der Nähe …«
+Spione sind bestimmt in der Nähe …«
 
 Garrison zauderte: … »Ich … ich habe nicht einmal
 <@pagebreak/>
-DE0ESSSSSCHEDS 32 EELEECHESSEIEDS
-
-eine Waffe bei mir … Nur eine Faschenlampe … und meinen
+eine Waffe bei mir … Nur eine Taschenlampe … und meinen
 Regenschirm …«
 
-Harald »lächelte flüchtig. »Schalten Sie Ihre Lampe
-ein und spannen Sie Ihren Schirm auf … (Gehen Sie
+Harald lächelte flüchtig. »Schalten Sie Ihre Lampe
+ein und spannen Sie Ihren Schirm auf … Gehen Sie
 getrost. Ich garantiere Ihnen dafür, daß Ihnen nichts zustoßen
 wird …
 
-Der Juwelier Billigte jetzt in Harsts Hand die Clementpistole
+Der Juwelier erblickte jetzt in Harsts Hand die Clementpistole
 …
 
-»Ah - dann ist es gut … Ich Dache …«
+»Ah — dann ist es gut … Ich gehe …«
 
 Harald schraubte schnell die Hängelampe aus …
 
@@ -1410,54 +1392,52 @@ Garrison schritt in die feuchte Finsternis hinaus … Es
 goß in Strömen …
 
 Wir beide benutzten die Hintertür … Ein mit hellem
-Kies bestreuter Pfad lief zum Bootssteg hinab, Wir sahen
+Kies bestreuter Pfad lief zum Bootssteg hinab. Wir sahen
 den Lichtkegel von Garrisons Taschenlampe als hellen Streifen
-zehn Schritt reichte von uns und blieben mit Film auf einer
+zehn Schritt rechts von uns und blieben mit ihm auf einer
 Höhe. Tief geduckt glitten wir vorwärts … Hinter uns
-erklang das dumpfe Brüllen der Kübeln Stalle -,
+erklang das dumpfe Brüllen der Kühe im Stalle …
 
 Nichts geschah …
 
-Wir krochen auf allen vielen den Bootssteg entlang -
-ins Boot hinein. Der. Schiffer saß ich Germanistan Heck.
+Wir krochen auf allen vielen den Bootssteg entlang —
+ins Boot hinein. Der Schiffer saß im Ölmantel am Heck.
 Die Bootslaterne war nur wie ein Pünktchen in dieser
 alles verschleiernden Regenflut …
 
-Wir lagen lang ich Boote … Garrison fütterte mit
-dem Schließen … Die Bootöskette klirrte …
+Wir lagen lang im Boote … Garrison flüsterte mit
+dem Schiffer … Die Bootskette klirrte …
 
-Ein Windstoß schien die vom ’ Zimmer herabstürzenden
+Ein Windstoß schien die vom Himmel herabstürzenden
 Wassermassen noch zu verdoppeln … Man sah kaum die Hand
 vor Augen …
 
-Der Schiffer ruderte … Das leite Boot kam;in
+Der Schiffer ruderte … Das leichte Boot kam in
 Fahrt …
 
-Und — — nach kaum drei Minuten van:. in heftiger
+Und — — nach kaum drei Minuten dann ein heftiger
 Stoß … Das Boot zitterte, prallte zurück … Wir hatten
-Radio Köpfe über die Bordwand gehoben … Wie ein langer
-erhalten da neben uns ein größeres Fahrzeug
+die Köpfe über die Bordwand gehoben … Wie ein langer
+Schatten da neben uns ein größeres Fahrzeug …
 
-und — vom hohen Bord dieses Gegners Ülchtblike ,.
-sprengen. die man plötzlich enthüllte …
+und — vom hohen Bord dieses Gegners Lichtblitze …
+Laternen, die man plötzlich enthüllte …
+
 <@pagebreak/>
-200000000000 33&nbsp;00000008 Orte
-vg
-
 Bootshaken sausten herab …
 
-alles blitzschnell ;… zu schnell, um sich wirksam verteidigen
+alles blitzschnell … zu schnell, um sich wirksam verteidigen
 zu können …
 
-Ein Hieb krachte: auf meinen Kopf … Traf mich, als
-ich; gerade aufgesprungen war …
+Ein Hieb krachte auf meinen Kopf … Traf mich, als
+ich gerade aufgesprungen war …
 
-Mit schwindendem Bewußtsein sah ich den Schiffen und
+Mit schwindendem Bewußtsein sah ich den Schiffer und
 Garrison über Bord taumeln …
 
 Dann … nichts mehr …
 
-Ich hatte das Gefühl, in unermeßliche Tiefen zu verbinden
+Ich hatte das Gefühl, in unermeßliche Tiefen zu versinken
 …
 
 Wir war’s, als ab die Krallen eines Ungeheuers sich in
@@ -1465,88 +1445,84 @@ mein Genick einschlugen …
 
 Das war die letzte Empfindung …
 
-Und die erste nach endloser Zeit - —« für mich endloser
-Zeit — war Bohren, … Brennen und Stechen unter der Hirn-schale
+Und die erste nach endloser Zeit — für mich endloser
+Zeit — war Bohren, Brennen und Stechen unter der Hirnschale
 … — Schmerzen …
 
 Das Nächste: mein Gehör arbeitete ebenfalls … Eine
-bekannte Stimme sprach dicht! über meinem Gesicht …
+bekannte Stimme sprach dicht über meinem Gesicht …
 
-Es war die des: Shiffsarztes der »Mandragora«, des
+Es war die des Schiffsarztes der »Mandragora«, des
 Signore Doktor Fallatti …
 
-»Wir Ellen ihn: schon wieder zurecht, Herr Harst …
+»Wir flicken ihn schon wieder zurecht, Herr Harst …
 Die Kopfwunde ist vernäht … Die Folgen der Gehirnerschütterung
-dürfte Ihr Freund bei seiner robusten Schädels-bauart
-leicht überstehen, und das überreim geschluckte Sees
-Wasser hat er von sich gegeben …«
+dürfte Ihr Freund bei seiner robusten Schädelbauart
+leicht überstehen, und das überreich geschluckte Seewasser
+hat er von sich gegeben …«
 
-Ich hatte die Augen noch geschlossen … heißt riß ich
-sie auf … Alles verschwamm jedoch in rötlichen Nebeln »…
+Ich hatte die Augen noch geschlossen … Jetzt riß ich
+sie auf … Alles verschwamm jedoch in rötlichen Nebeln …
 
 Lallend fragte ich: »Harald, — — ich … lebe?!«
 
 »Scheint so, mein Alter …! Halte jetzt aber gefälligst
-das M … Antwort … Wir haben ungeheuren Dusel gehabt,
+das M…undwerk … Wir haben ungeheuren Dusel gehabt,
 damit Du es weißt … Mich trafen die Halunken nur leicht
-… Und ich konnte Du beim Gen! und Garrison beim
-Mantelzipfel erwischen … 3z0og Euch an Land — auf die
-Insel Sellenby … I. das angetriebene Boot des leider
-um gekommenen Schiffers … brachte uns [so auf die Jacht,
-
-1683
+… Und ich konnte Dich beim Genick und Garrison beim
+Mantelzipfel erwischen … zog Euch an Land — auf die
+Insel Sellenby … Fand das angetriebene Boot des leider
+umgekommenen Schiffers … brachte uns so auf die Jacht,
 <@pagebreak/>
-SSSSSSESISISISDSS 341 DSSSSSBDISSSOIES
-
-die bereits den Christianiafjord hinter sich hat … Wir
-sind ich Atlantik … Es ist zehn Uhr vormittags. Und
+die bereits den Christiania-Fjord hinter sich hat … Wir
+sind im Atlantik … Es ist zehn Uhr vormittags. Und
 nun schlafe und liege still … Garrison geht es ebenfalls
 leidlich … Die Halunken, die uns überfielen, haben wir
-nicht weiter behelligt … haben nicht mal Anzeige Fritz!:er
--… Die Hauptsache für uns ist jetzt Jan Mayen … —
-Schlafe … 11«
+nicht weiter behelligt … haben nicht mal Anzeige erstattet
+… Die Hauptsache für uns ist jetzt Jan Mayen … —
+Schlafe …!!«
 
 Und ich schlief …
 
-Aber nachmittags. sechs Uhr lag ich neben Garrison auf
-dem AYAchterdeck sorgsam gebettet … Cis8übeutel auf dem
+Aber nachmittags sechs Uhr lag ich neben Garrison auf
+dem Achterdeck sorgsam gebettet … Eisbeutel auf dem
 Schädel …
 
 Um uns herum saßen Harald, Fürst Salvani, Doktor
 Fallatti und der Kapitän der »Mandragora« …
 
 »Das Fahrzeug der Schufte war ein Motorkutter,« meinte
-in »Fraglos ein Schifflein, das über erhebliche See
-Hwindigkeit verfügt … Wer sich dort an Bord befindet,
+Harald. »Fraglos ein Schifflein, das über erhebliche
+Geschwindigkeit verfügt … Wer sich dort an Bord befindet,
 ist leicht zu beantworten: Senta Longby, die beiden sogenannten
 Engländer und noch ein paar ähnliche Halunken …
-Die Bande will uns voraus nach ran Kratzen … Das
+Die Bande will uns voraus nach Jan Mayen … Das
 nehme ich mit aller Bestimmtheit an … Ob sie’s schaffen
-werden, sticht dahin …«
+werden, steht dahin …«
 
-»Ausgeschlossen!« rief Salvani. »Ganz aud8sgeschlossen!
+»Ausgeschlossen!« rief Salvani. »Ganz ausgeschlossen!
 Meine Jacht läuft jetzt neunzehn Knoten … Kein Motorkutter
 leistet das … Wir überholen die Schurken …!«
 
-»Werden sie trotzdem kaum sichten …/’ nickte Harald,
+»Werden sie trotzdem kaum sichten …," nickte Harald.
 »Dazu ist der Atlantik nun einmal zu groß … Aber
-Schraut und ich werden vor ihnen nachts in aller H:… Küche
-Möglichkeit auf ran Mayen landen … werden dort bleiben, bis
+Schraut und ich werden vor ihnen nachts in aller Heimlichkeit
+auf Jan Mayen landen … werden dort bleiben, bis
 … die Sache erledigt ist …«
 
-»Ich bin mit von der Partie … 1!« meinte der Fürst mit
-Nachtrug. »Sie dürfen mir das nicht abschlagen, Herr
-Harst … ich möchte auch einmal mit Ihnen und Schraut zusammen
+»Ich bin mit von der Partie …!« meinte der Fürst mit
+Nachdruck. »Sie dürfen mir das nicht abschlagen, Herr
+Harst … Ich möchte auch einmal mit Ihnen und Schraut zusammen
 etwas erleben …«
 
 »Bitte — wenn Sie das Leben riskieren wollen …! Sie
-werden es bereuen, Durchlaucht .,!«
+werden es bereuen, Durchlaucht …!«
 
 Salvani zuckte nur die Achseln …
-<@pagebreak/>
-2200000000022 35&nbsp;20020020002002000
 
-Die fünf Tage auf Jan Mayen …
+<@pagebreak/>
+
+<h1>Die fünf Tage auf Jan Mayen …</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1555,7 +1531,7 @@ Die fünf Tage auf Jan Mayen …
 Die »Mandragora« näherte sich bei starkem Nebel nachts
 elf Uhr der Westküste von Jan Mayen …
 
-Alle Lichter an Bord waren abgeblendet … ich Nebel
+Alle Lichter an Bord waren abgeblendet … im Nebel
 huschten die Matrosen wie Gespenster an Deck bin und her …
 jedes lautere Geräusch wurde vermieden «.,
 
@@ -1598,7 +1574,7 @@ fremd … Er war ein italienischer Fakirs in des Wortes
 bester Bedeutung. —
 
 Das Boot stieß ab … Die See ging ziemlich hoch.
-Schon diese Landung ich Finstern wär ein Wagnis …
+Schon diese Landung im Finstern wär ein Wagnis …
 
 Glühte trotzdem … Zwischen zwei Kisten hindurch kamen
 wir in stilles Wasser … Wir drei wateten die letzte Strecke,
@@ -1609,10 +1585,10 @@ wendete und zur Jacht zurükehrte, hatte ich das Gefühl,
 als ob wir drei nun für alle Zeit jede Verbindung mit der
 Außenwelt verloren hätten.
 
-Wer neblige Nähte kennt, wer jemals ich dicksten Nebel
+Wer neblige Nähte kennt, wer jemals im dicksten Nebel
 durch unbekannte Gegend gewandert ist, der wird leicht begreifen,
 welche Stimmung uns drei beherrschte, zumal wir
-ja genau wußten, daß hier auf ran Mayen irgendwo in der
+ja genau wußten, daß hier auf Jan Mayen irgendwo in der
 Verborgenheit Leute hausten, denen ein Menschenleben nicht
 mehr galt als eine Schnee, die man am Strande mit
 schweren Stiefel zerteilt …
@@ -1677,16 +1653,16 @@ trinken und … schlafen … Wenigstens Sie, Principe …«
 
 Er ging voran …
 
-Einen traten Abhang empor … An riesigen Granit-blöcken
+Einen traten Abhang empor … An riesigen Granitblöcken
 vorüber … Immer höher …
 
-Bis wir vor einer Felswand standen, die ich Nebel unendlich
+Bis wir vor einer Felswand standen, die im Nebel unendlich
 erschien …
 
 Am Fuße dieser Steilwand war ein großes, schmales
 Stück abgesplittert und bildete so einen schmalen Gang zwischen
-sich und Wand, verband gleichzeitig eine Aushöhlung ich
-Felsen, die vielleicht vier Meter ich Geviert, aber ziemlich
+sich und Wand, verband gleichzeitig eine Aushöhlung im
+Felsen, die vielleicht vier Meter im Geviert, aber ziemlich
 niedrig war.
 
 Harst hatte eine Laterne angezündet …
@@ -1695,7 +1671,7 @@ Harst hatte eine Laterne angezündet …
 wir vor den Eingang erst zwei Wolldecken gehängt, unsere
 Schätze ausgepackt und den Spirituskocher angezündet haben,
 wird es recht gemütlich werden. Für unsere Zwecke ist dies
-Anblick wie geschwollen. Es ist nur durch Zufall zu ent-DSSDSSODSSSSSSS
+Anblick wie geschwollen. Es ist nur durch Zufall zu rot-DSSDSSODSSSSSSS
 <@pagebreak/>
 28 DE020280200202054080
 
@@ -1705,9 +1681,9 @@ volle Sicherheit, dahinter vermutet niemand eine Höhle …
 — Also ans Werk …! Zwei Decken her … Stummeln Sie
 sich. Durchlaucht ,.! Wer rastet, der rostet »und friert …!«
 
-Und der Principe tummelte sich … Nein — ein un-praktischer
+Und der Principe tummelte sich … Nein — ein unpraktischer
 Mensch war er nicht … Er hatte auf seinen
-JorshHungsreisen mancherlei erlebt … Er griff tüchtig mit
+Forschungsreisen mancherlei erlebt … Er griff tüchtig mit
 zu. Nur große Ausdauer besaß er:nicht. Er war etwas
 verweihliHt. Seine wissenschaftliche … Betätigung blieb für
 ihn letzten Endes doch Spielerei …
@@ -1752,9 +1728,9 @@ Draußen — offenbar in nächster Nähe — erklang ein
 
 langgezogenes klagende Geheul.«… endete in einer Art!
 schrillen Schrei
-- Shhön war diese Musik nicht …
+- schön war diese Musik nicht …
 
-ich Gegenteil: sie ging einem an die Nerven, servierte
+im Gegenteil: sie ging einem an die Nerven, servierte
 an Menagerie, Urwald; Tropen …
 
 »Teufel, was war das?!« flüsterte Emanuele Salvani …
@@ -1816,7 +1792,7 @@ abwesend … ich) wurde unruhig …
 Und Salvani: »trinken wir erst noch rasch!« — Auch
 das war vernünftig. Wir tranken — halb auf halb. Es
 tat uns gut … — Dann erloschen die beiden Laternen.
-Ich hob den Deckenzipfel … Stuhle … ran Mayen zeigte
+Ich hob den Deckenzipfel … Stuhle … Jan Mayen zeigte
 uns die Unbeständigkeit seiner Witterung … Der Nebel
 war verschwunden, der Regen hatte aufgehört. Mondlicht
 schimmerte in dem schmalen Felsengang zwischen Wand und
@@ -1905,7 +1881,7 @@ vier Uhr morgens meldete ein das Wundfieber … Wir
 erneuerten die Verbände der tiefen Kraßwunden. Der Fürst
 suchte aus der Reiseapotheke faßte!ten hervor …
 
-So ging uns die erste Naß! auf ran Mayen bin …
+So ging uns die erste Naß! auf Jan Mayen bin …
 
 Um vier Uhr war’s draußen taghell … Die Sonne
 schien … Wir waren: ja an der Grenze des Polargebietel
@@ -1916,14 +1892,14 @@ schien … Wir waren: ja an der Grenze des Polargebietel
 
 <h3>ran Kikuwait.</h3>
 
-Ich war für Minuten ich Freien gewesen. Ich hatte
-einen Teil ran Mayens bei Tage gesehen — über dem
+Ich war für Minuten im Freien gewesen. Ich hatte
+einen Teil Jan Mayens bei Tage gesehen — über dem
 Ruüstenrand das blaugrüne Meer, die weißen Wolken von
 Möwen … von der Jacht nichts … Rein, die »Mandragora«
-sollte ja ich Westen der Insel kreuzen und nur nachts
+sollte ja im Westen der Insel kreuzen und nur nachts
 Bestie Barkasse herübersenden. So war’s vereinbart worden.
 
-als ich unser Felsloch wieder betrat, war der über-müdete
+als ich unser Felsloch wieder betrat, war der übermüdete
 Salvani eingenickt, hatte um auf die Decken hingestreckt
 und schnarchte leise …
 
@@ -1942,7 +1918,7 @@ ein schwarzer Panther, der mich angriff … Ich … ich habe
 ihn halb erwürgt … Er flüchtete … Ich wollte nicht
 schießen, unsere Anwesenheit nicht verraten … — Also —
 meine Vermutungen … Doktor Longby ist mit seinen Ber-bü
-verkleideten hier auf ran Mayen … Er … ist der … der
+verkleideten hier auf Jan Mayen … Er … ist der … der
 Führer, der Schuldige … Er muß hier etwas Kutters haben,
 das er nur mit Hilfe größerer Geldmittel ausbeuten kann
 …» Daher wurde Garrison ganz Oslo Geld?! … Schleiche
@@ -1962,12 +1938,12 @@ Tablette, fühlte den Puls und erschrak …
 
 Er schlief ein, warf sich hin und der …
 
-Salvani shHnarchte …
+Salvani schnarchte …
 
 Ich saß da und grübelte … grübelte …
 
 Ein schwarzen Panther,?! — Wie kam ein schlief
-Raubtier nach ran Mayen?!
+Raubtier nach Jan Mayen?!
 
 Und … die Laternen stanken … Ich lüftete den Vorhang,
 steckte ihn fest. löschte die Laternen … wagte mich
@@ -1992,7 +1968,7 @@ besiegt, bevor wir den Kampf noch eröffnet hatten .,!
 jäh preßte ich; da die Lider zusammen …
 
 Drüben - — zwischen dem Geröll — — ein Mann!
-Wahrhaftig — — ein graubärtiger kleiner Kerl ich Straße
+Wahrhaftig — — ein graubärtiger kleiner Kerl im Straße
 
 Pelz … Er kroch zwischen den Steinen dahin … Drüben am
 Ufer — am Küstenrand …
@@ -2089,7 +2065,7 @@ kleinen Höhle … Ich hatte mich wiederholt umgeschaut, nichts
 Verdächtiges bemerkt …
 
 Dann saß Jan Kikuwait, geborener Memeler, letzter
-Überlebenden des Hochseekutter8 Bremen XX, neben mir,
+Überlebenden des Hochseekutters Bremen XX, neben mir,
 neben Haralds Lager …
 
 trank Rum mit Tee, kaute Konservenfleisch. Ich störte
@@ -2107,7 +2083,7 @@ seiner Stirn seine Schhweißperlhen … Er atmete tief und
 ruhig … Die Gefahr war vorüber …
 
 Der alte ran Kikuwait erzählte. — Schade, daß ich
-hier nicht Wort für Wort genau sein »Garn« in ostpreußi-sHem
+hier nicht Wort für Wort genau sein »Garn« in ostpreußischem
 Dialekt wiederholen kann …
 
 »Also, Herr Schraut, =« - Sturm, tagelang … Unser
@@ -2148,7 +2124,7 @@ Rettung … Wußten, daß wir auf Jan ’ »Mayen waren, hofften
 Schraut … — Da war eine Stube und drei Betten … Aber
 auf den bunten Bettbezügen sah ich so merkwürdige Diebe
 —« schwarzbraun — — Blut, tote wer und … legte mich
-auf das Sofa in der Nebenstube … ch zum Glück … —
+auf das Sofa in der Nebenstube … ich zum Glück … —
 Das war [so gegen elf Uhr vormittags … Damit ich besser
 schlief, hatte ich die Läden der beiden Fenster angelehnt … Es
 war Dämmerung in der Stube …«
@@ -2208,7 +2184,7 @@ ich/e ZiäRzacktreppe.
 
 Harald hatte offenbar den letzten Zeit von Jan Kikuwaits
 Er:schlang mit angehört …
-Sein Wunder, daß er Schmerzen und Mattigkeit ve—Hus
+Sein Wunder, daß er Schmerzen und Mattigkeit ne—Hut
 +.
 Sagte nun; »Gratuliere Ihnen, Landsmann … ne
 ich Zeit?, wissen Sie;ja bereit Ah möchte Sie nur ei«::s
@@ -2278,9 +2254,9 @@ nur: den beiden wollenen Decken vor dem Eingang zu
 danken …
 
 Fleischbrühe …« — = und dann war draußen
-ich Gang ein ungeheurer Knall ertönt … Die Wolldecken
+im Gang ein ungeheurer Knall ertönt … Die Wolldecken
 flogen zu uns herein … Bedrückten uns … Wir selbst waren
-durchheinandergeworfen … Mk flog quer über Harald … Der
+durcheinandergeworfen … Mk flog quer über Harald … Der
 Spirituskocher war umgekippt … Kikuwait brüllte … Seine
 Kehrseite schmorte …:Salvani krabbelte als erster hervor …
 
@@ -2330,7 +2306,7 @@ Kies keuchend: »Jetzt feuern sie, Schraut »! Und liegen
 so gut gedeckt oben auf einer Terrasse der Wand, daß ihnen
 nicht beizukommen ist … in keiner Weise … — Harst
 schlich?! mich … Sie sollen mit mir dicht am Fuße des Abhangs
-entlangshleihen … Wir müssen den Schatten in
+entlangschleichen … Wir müssen den Schatten in
 den Rücken … Wenn wir irgendwo die Steilwand erklimmen
 können, werden wir …«
 
@@ -2342,7 +2318,7 @@ Kikuwaits erschien …
 ist vorüber …!!« Er brüllte es … Er war ein ganz anderer
 geworden … Geradezu jugendlich-frisch. Famos hatte er
 ich für seine Jahre gehalten. Offenbar hatte ihm nur der
-Schuß Rum ich Blute gefehlt. Als Seebär war er eben:
+Schuß Rum im Blute gefehlt. Als Seebär war er eben:
 an steifen Grog gewöhnt.
 
 »und gesehen haben wir die Lumpen nun auch …
@@ -2373,7 +2349,7 @@ Eine schroffe Jügelreih: schloß das linke Plateau, auf
 dem die Wetterstation sich befand, nach Süden zu gegen das
 Meer vollkommen ab. nachts Norden, etwa zwei Kilometer
 vom Ufer, erhob sich ein langgestreckter Berg, der an
-einer Stelle etwa zwanzig Meter tief tyenkrechßt abstürzie.
+einer Stelle etwa zwanzig Meter tief tyenkrechßt abstürzte.
 an dieser Stelle war das große Anschaut mit zwei kleineren
 Nebengebäuden errichtet Wie ich schon erwähnte, Küste
 ein das Anschaut mit der Rückseite an die schroffe Wand,
@@ -2398,11 +2374,11 @@ Dann winkte ich den Freunden.
 Wir durchsuchten nun erst einmal ganz gründlich das
 Haus. Jan Kikuwait hatte. überall die Fensterladen geöffnet.
 Die Leihe des Steuermannes Hinnerk war verschwunden. -
-Das Schwein folgte uns und mußte erst mit Gewalt hinaus-gejagt
+Das Schwein folgte uns und mußte erst mit Gewalt hinausgejagt
 werden,
 
 In dem Arbeitszimmer des jeweiligen Assistenten und
-Zettels der Station standen auch die ganz modernen Funk-apparate.
+Zettels der Station standen auch die ganz modernen Funkapparate.
 Harst prüfte sie, stellte fest, daß die Lampen
 entfernt waren … Die Apparate waren also unbrauche
 bar.
@@ -2419,11 +2395,11 @@ etwa fünf Meter Höhe hinzog.
 
 Harst und!H erstiegen die Treppe. Als wir das Wohnhaus
 gerade unter uns hatten, kniete Harald nieder und-besichtigte
-den Stüßbalken des Geländers. »Bitte, mein
+den Stützbalken des Geländers. »Bitte, mein
 Alter, — hier sind Druckstellen eines Taues … Hier ist
 ein lau befestigt gewesen. Der Mörder hat sich an diesem
 Tau auf das Dach hinabgelassen, ist durch die Dachluke
-in die Bodenräume gelangt und wovon über die Boden-treppe
+in die Bodenräume gelangt und wovon über die Bodentreppe
 nach unten … Das Rätsel seines Verschwindens ist
 also gelöst …«
 
@@ -2456,8 +2432,8 @@ nun werden?!«
 
 »Du meinst …
 
-»Ich meine, daß das Gespenst von: ran Mayen nachts
-ich Blockhaus erscheinen wird … Nachts ziehen wir Kajüte
+»Ich meine, daß das Gespenst von: Jan Mayen nachts
+im Blockhaus erscheinen wird … Nachts ziehen wir Kajüte
 (ich den Posten hier oben ein …
 
 »ich — — und wenn sie wieder Sprengkörper auf das
@@ -2468,7 +2444,7 @@ Daß etwa werfen?«
 »Ich glaube, ihr Vorrat ist erschöpft … Es waren
 Bomben, die sie selbst angefertigt haben Die Kraft der
 Sprengkörper war nicht allzu groß, sonst n en wir in dem
-Felsloch nicht so glimpfliß um: Kaschemmen „…«
+Felsloch nicht so glimpflich um: Kaschemmen „…«
 
 Das leuchtete mir ein …
 
@@ -2478,11 +2454,11 @@ ich. »Ich glaube, Jan Kikuwait prügelt ihn Winde!weich …«
 »Dazu wird er keine Gelegenheit haben, mein Alter …
 Der ganze wird entwischen — [soll entwischen …«
 
-»So ».?!«
+»So «.?!«
 
 »Natürlich … Damit ich ihm folgen kann … Einen
 Posten werden wir nicht nach Dunkelwerden oben belassen,
-aber … ich werde mit dort verbergen, und Ihr ich
+aber … ich werde mit dort verbergen, und Ihr im
 Hause verscheucht ihn …«
 
 Da begriff ich … »Sehr gut, Harald. Nur — Dein
@@ -2541,7 +2517,7 @@ Unterbrach mich …
 »Schraut — — dort draußen auf See — — ein großer
 Kutter ,.!t’
 
-Ich war sofort ich Bilde …
+Ich war sofort im Bilde …
 
 »sollen Sie Harst, Salvani … Galopp … »tt«
 
@@ -2596,7 +2572,7 @@ auch Harald lachte ;…
 
 Dann verabschiedete er sich. »Ich ich hoffe Dir nun wies
 der Seins? Durchlaucht, Alterchen … Dann will ich Dir
-unten ich Hause etwas zeigen … Wiedersehen …«
+unten im Hause etwas zeigen … Wiedersehen …«
 
 Salvani kam …
 
@@ -2615,7 +2591,7 @@ Harst mir zeigen wollte?! Was mochte er Neues entdeckt!
 haben?!
 
 Vor der Haustür saß Jan Kikuwait und … schälte
-Kartoffeln, eine Zigarre ich Mundwinkel
+Kartoffeln, eine Zigarre im Mundwinkel
 
 »Sind gut, Herr Schraut „…« nickte er …
 
@@ -2626,7 +2602,7 @@ TSISDTLSSECHEOSES 56 Es SHOESIDSELEISEBDS
 »As so … Na —!ich meinte des Fürsten Zigarren
 
 - Aber auch die Kartoffeln sind prima, das stimmt …
-um Abendbrot gibt es Bratkartosseln und Rührei mit
+um Abendbrot gibt es Bratkartoffeln und Rührei mit
 Pech …« — Er schielte zu dem Schwein hinüber, das in
 der Sonne lag und schlief … »Schweinebraten wär Sache
 nicht übel, Herr Schraut …
@@ -2682,10 +2658,10 @@ See gegangen. Zwölf! Monate werden wir drei nun zum
 zweiten Male hier hausen müssen. Ich werde meine Üus-flüge
 nun; dem vereisten Gipfel des erloschenen Vulkans
 wieder aufnehmen. Vielleicht habe ich diesmal Glück.
-es. Juli. - Der Beerenberg ist spröde wie eine tugend-same
+es. Juli. - Der Beerenberg ist spröde wie eine tugendsame
 Jungfrau. Er läßt sich nicht ins Herz schauen. Seine
-mit Grimassen gefüllte Rrateröffnung ist von unzähligen engen
-Spalten durchzogen, die ich Sonnenschein unten so geheimnisvoll
+mit Grimassen gefüllte Krateröffnung ist von unzähligen engen
+Spalten durchzogen, die im Sonnenschein unten so geheimnisvoll
 blaugrün schimmern. Heute habe ich mich abermals.
 an einem Tau in zwölf dieser Eisschlünde hinabgelassen.
 Aber — es waren wieder nicht die richtigen. Ich werde
@@ -2695,7 +2671,7 @@ meine Bemühungen fortsetzen …
 meiner Rüädkehr vom Gipfel habe ich in aller Stille das
 Geheimfach verbessert.: Meine Aufzeichnungen sollen eben
 ganz sicher verwahrt:werden. =« Mein Geruchssinn hat
-mich nicht getäuscht. ’Schon ich Jahre 1921 fiel mir bei
+mich nicht getäuscht. ’Schon im Jahre 1921 fiel mir bei
 bestimmter Windrichtung in der Nähe des Beerenberges stets
 ein schwacher Geruch nach Erdöl auf. Und oben am Krater
 war dieser Geruch noch; intensiver. Jetzt weiß ich: der heran
@@ -2709,7 +2685,7 @@ Unter steter Lebensgefahr bin ich) in dem erstickenden
 Geruch, in dem Dunst: des Erhöht hinabgestiegen bis zum
 Rande meines Petroleymsees — meines Sees! Denn ich
 bin der Entdecker … Ich habe das erste Unrecht auf dieses
-ungeheure Erdölreservoijr, das vollkommen genügt, die skan-dinavischen
+ungeheure Erdölreservoijr, das vollkommen genügt, die skandinavischen
 Länder mit diesem Brennstoff für alle Zeiten zu
 versorgen. — Ich will mir in Ruhe überlegen, was ich jetzt
 <@pagebreak/>
@@ -2741,7 +2717,7 @@ nicht ablösen. Dann werden wir gemeinsam in den Krater
 eindringen und den See untersuchen.
 
 9, Mai 19283. - Der Regierungsdampfer und die Ablösung
-sind da. Ich war heute mit Longby ich Krater. Der
+sind da. Ich war heute mit Longby im Krater. Der
 Kollege bewies mir, daß tatsächlich nur zehn Zentimeter
 Erdöl über dem Wasser des Sees vorhanden. Longby meint
 aber, man müßte Bohrversuche anstellen, vielleicht fände y:.:n
@@ -2749,7 +2725,7 @@ eine gesattelte. Wir werden also vorläufig schweigen
 Mag dieses Tagebuch liegen bleiben, wo es lag. Ich by.
 nicht mehr. Meine Braune von Reichtum sind zerronnen,
 Morgen kehre ich) nach Christiania für ein Jahr dafür, und
-erst ich Mai 1925 sieht mich? Jan Mayen wieder, falls
+erst im Mai 1925 sieht mich? Jan Mayen wieder, falls
 ich dann noch lebe. —
 
 Harald legte das Büchlein wieder auf den Tisch …
@@ -2760,7 +2736,7 @@ so: alt, Höörlan und Gussol ab. Diese drei sind dann heimlich
 <@pagebreak/>
 es DPEDTTTTTTZE ihnen WWTITTTTTERTEPT
 
-naß ran Mayen zurückgekehrt, denn der verräterische, betrüge-rischHe
+naß Jan Mayen zurückgekehrt, denn der verräterische, betrüge-rischHe
 Longby hatte tonlos belogen: der See enthält Nr
 Erdöl …!«
 
@@ -2809,16 +2785,16 @@ ja doch ganz anders …
 So auch heute — »hier auf Jan Mayen.
 
 Wir holten uns aus der Vorratskammer kalte Speisen,
-aßen ich Stehen … Tranken einen Schluß Kognak dazu,
+aßen im Stehen … Tranken einen Schluß Kognak dazu,
 und — sahen plötzlich durch die Fenster eines der Vorderzimmer,
 daß von Nordost her eine dicke Nebelbank über
 den Ozean hinwegz3o0g, — eines legten Nebelgebilde, wie sie
-in diesen Breiten infolge der plötzlichen Temperaturuntep-schiede
+in diesen Breiten infolge der plötzlichen Temperaturunterschiede
 so oft auftauchen und mit dem Winde wieder davonpy
 segeln. — Zehn Minuten lang war Jan machten in graue
 Schleier gehüllt, die Sonne spurlos verschwunden. Dann
 lag wieder greller Glanz über der Insel … Aber Harald
-meinte mit einiger Besorgnis: »Wenn die Leute ich Kutter
+meinte mit einiger Besorgnis: »Wenn die Leute im Kutter
 Flug gewesen sind, haben sie sich in dieser Dämmerung an
 die Insel herangeschlichen und sind gelandet. — Brechen
 wir auf, mein Alter … Wir haben alles mit, was
@@ -2837,7 +2813,7 @@ Harald schaute sich um …
 »Hm — merkwürdig …!1 Harsts unser Jan etwa auf
 denselben Gedanken gekommen sein wie ich?!« meinte er unruhig.
 »Ich habe mir nämlich vorhin folgendes überlegt,
-mein Alter … Jedes Haustier hat Sehnsucht nach Gesell-DSSSSSSSSSSS
+mein Alter … Jedes Haustier hat Sehnsucht nach Gesellt-DSSSSSSSSSSS
 <@pagebreak/>
 61  DS000SSTSTTESELDS
 
@@ -2848,7 +2824,7 @@ Roß es ihnen gleichsam näher, besucht sie richtete-)t in ihrem
 [upfwinkel, kehrt dann wieder hierher zurück … Und
 — vielleicht gibt es deshalb so eine Art Fährte, hervorgerufen
 durch das Borstentier — — bis zum Sportrock der Verdrehten,
-eine Fährte, die durch« zermalmte Steinchen, abge-rupfte
+eine Fährte, die durch« zermalmte Steinchen, abgerupfte
 Gräser, aufgewühltes Moos und anderes erkennbar
 sein dürfte. Möglich also, daß unserem ran derselbe »Gedanke
 gekommen, daß er das Borstentier davon wandern sah,
@@ -2870,7 +2846,7 @@ Und … Brust …
 
 Ich bin neben ihm …
 
-Er hat plökliHh die lange Leine von der Schulter genommen
+Er hat plötzlich die lange Leine von der Schulter genommen
 … matt eine Schlinge … Schwingt den Lasso,
 
 Und da sehe ich … sehe auf der anderen Seite des
@@ -2886,7 +2862,7 @@ Sie schwirrt durch die Luft …
 
 Die Schlinge fliegt dem Hunde über den Kopf …
 
-ich selben Moment, als Harald sie mit einem starken
+im selben Moment, als Harald sie mit einem starken
 Ruf zuzieht und die Bestie zur Seite reißt, ertönt Ding
 Frauenstimme …
 
@@ -2913,7 +2889,7 @@ straft …
 
 »ran — Sie nehmen das Weib mit … Binden Sie nur
 die Hände …« — ran zieht seine Pistole … Der Hund
-schießt plötzlich abermals hervor ». - ich Sprunge trifft ihn
+schießt plötzlich abermals hervor ». - im Sprunge trifft ihn
 meine Kugel …: Kopfschuß!
 
 Senta Longby wird zur winselnden Verräterin … Will
@@ -2962,11 +2938,11 @@ das Meer …
 
 Da ruft Salvani schon:
 
-»Dort =« — ein Fall ich Eise — — ein Tau daran!im«
+»Dort =« — ein Fall im Eise — — ein Tau daran!im«
 
 Und wir hinab — über Spalten und Schlünde mit vorsichtiger
 Sprüngen …:Wir drei, die wir genau wissen: die
-Verbrecher stecken noch dort unten ich Krater …!
+Verbrecher stecken noch dort unten im Krater …!
 
 Leichte Petroleumdünste umwehen uns …
 
@@ -3019,7 +2995,7 @@ Das Schwein von Jan Maden aber hat der Principe mit
 nur Italien genommen, als Erinnerung an die — wie er
 
 sich ausdrückte — unvergeßlichen Stunden auf der Insel
-am Rande der Polarzone. Das Schwein von ran Mayen
+am Rande der Polarzone. Das Schwein von Jan Mayen
 sollte auf Salvanis Gütern das Gnadenbrot fressen und dem
 üblichen Schlaf aller Borstentiere entgehen.
 
@@ -3036,7 +3012,7 @@ Dieser Urlaub endete durch ein Floß —.durch ein Messerstoß!
 — Freilich, dieses neue Abenteuer begann gänzlich auf
 dem »trockenen« …
 
-doch) — das mögen meine Freunde und Leser ich folgenden
+doch) — das mögen meine Freunde und Leser im folgenden
 Band selbst prüfen …
 
 Vielleicht lohnt O …

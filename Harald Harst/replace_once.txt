@@ -19,7 +19,6 @@
 \bgesunden	gefunden
 \bha!\b	hat
 \bHart\b	Harst
-\biM\b	ich
 \bis!\b	ist
 \blebten	letzten
 \blett\b	jetzt
