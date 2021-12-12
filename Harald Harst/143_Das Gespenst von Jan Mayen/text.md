@@ -212,7 +212,7 @@ und schaute hinaus, kehrte dann zum Tische zurück, setzte
 sich wieder …
 
 »Wir sind bereits weit genug vom Lande ab …« sagte
-er. Weit genug, daß ich auf keinen Fall mehr umkehren
+er. »Weit genug, daß ich auf keinen Fall mehr umkehren
 werde …«
 
 Der Steward trat ein und brachte den Mokka …
@@ -268,7 +268,7 @@ da …«
 
 »Ja, so weit dies möglich ist. Wir fanden nichts …«
 
-»und dann?« — Ich merkte: Harst interessierte der Fall
+»Und dann?« — Ich merkte: Harst interessierte der Fall
 … Mich auch.
 
 »Dann, Herr Harst, blieb ich mit zwei Leuten drei Nächte
@@ -293,7 +293,7 @@ ich nichts fände, würde sich die Absendung einer Expedition
 erübrigen. — Die Norweger müssen eben sparsam wirtschaften
 …«
 
-»und — dann?«
+»Und — dann?«
 
 »Habe ich meine Leute durch hohe Belohnungen schließlich
 doch noch wieder an Land bekommen. Wir durchsuchten Jan
@@ -309,7 +309,7 @@ von Genua … entführt habe. Ich fürchtete, Sie würden
 ablehnen …«
 
 »Ein Irrtum …! Ich hätte nicht abgelehnt, Durchlaucht.
-im Gegenteil …! Es gilt acht Ermordete zu rächen …
+Im Gegenteil …! Es gilt acht Ermordete zu rächen …
 Jede Untat muß geahndet werden …«
 
 Mit einem Schlage verwandelte sich da das Benehmen
@@ -492,7 +492,7 @@ zusammenhängt. Ich werde nur Erfolg haben, wenn Schraut
 und ich hier als harmlose Gelehrte gelten …«
 
 Der Zweite Steuermann trat vor, ein kleiner stämmiger
-Korse, ein Landsmann des Weltbezwingers Napoleon,
+Korse, ein Landsmann des Weltbezwingers Napoleon.
 
 »Signore,« sagte er feierlich, »für Sie tun wir alles!
 Ich lege für die Leute meine Hand ins Feuer! Sie werden
@@ -515,11 +515,11 @@ mich …
 einige Erkundigungen einziehen über die Leute, die bisher
 auf Jan Mayen die Wetterstation bedient haben …«
 
-»und — weshalb das?!«
+»Und — weshalb das?!«
 
 »Weil ich bestimmt annehme, daß das Gespenst von Jan
 Mayen einer der Vorgänger der drei ermordeten Norweger
-ist. Wir wenden uns am besten Sofort an die zuständige
+ist. Wir wenden uns am besten sofort an die zuständige
 Regierungsstelle …«
 
 »Hm — ich sehe noch immer nicht recht klar …« erlaubte
@@ -553,7 +553,7 @@ um … Es sind zwei Seeleute, ein junger und ein älterer …
 Natürlich weiß man hier in Oslo längst, daß der Fürst
 mit uns zusammen Jan Mayen wieder besuchen will. Vor
 drei Stunden sind wird dann hier eingetroffen. Das Erscheinen
-der Jacht hat sich rasch herumgesprochen. auch
+der Jacht hat sich rasch herumgesprochen. Auch
 jene Leute erfuhren es, die mit dem Gespenst von Jan
 Mayen hier verbündet sind. — Wir müssen sie unbedingt
 loswerden. Komm — betreten wir das Theater …«
@@ -591,7 +591,7 @@ Nicht von mir … nein — — mich hatte der Schuft schon
 halb erwürgt …
 
 Nun liegen sie da — nach Luft schnappend, stöhnend …
-winselnd,
+winselnd.
 
 Die bunten, von der Sonne bestrahlten hohen Glasfenster
 des Foyers werfen farbige Lichtstreifen auf die sich
@@ -610,7 +610,7 @@ Beschäftigungslose Hafenarbeiter sind es … Einer war
 mal aushilfsweise hier beim Theater Kulissenschieber. Zwei
 Seeleute, ihnen fremd, haben sie auf dem Theaterplatz für
 dieses Bubenstück angeheuert … Hundert Kronen haben sie
-erhalten … im Übrigen wissen sie nichts … Sie haben uns
+erhalten … im übrigen wissen sie nichts … Sie haben uns
 niederschlagen, fesseln, knebeln und irgendwo einsperren
 sollen …
 
@@ -628,7 +628,7 @@ Vor einem der hohen Spiegel bringen wir uns wieder
 in Ordnung. Unseren angeklebten Bärten war der Überfall
 schlecht bekommen …
 
-zehn Minuten darauf sind wir wieder im Freien …
+Zehn Minuten darauf sind wir wieder im Freien …
 
 Und fragen uns bis zum Meteorologischen Institut durch.
 
@@ -662,16 +662,16 @@ seine Begleiter an der Reihe gewesen und — — ermordet
 worden.
 
 »Wie heißen die anderen drei, Herr Professor?« fragte
-Harald nun und hielt Bleistift und Notizbuch bereit,
+Harald nun und hielt Bleistift und Notizbuch bereit.
 
 »Es sind dies der Assistent Doktor Longby und die verbummelten
 Studenten Höörlan und Gussol …«
 
 »Wo beheimatet?«
 
-»Ebenfalls hier In Oslo, Herr Harst …«
+»Ebenfalls hier in Oslo, Herr Harst …«
 
-»und jetzt hier anwesend?«
+»Und jetzt hier anwesend?«
 
 »Nein … Die drei sind irgendwo in Schweden …«
 
@@ -699,7 +699,7 @@ er:
 »Entschuldigen Sie, Herr Professor: ich äußere mich
 nie über meine Theorie hinsichtlich eines geheimnisvollen
 Falles. Und — andere Fälle erledige ich nicht. Ich bitte
-Sie, unseren Besuch zu verschweigen. eins kann ich Ihnen
+Sie, unseren Besuch zu verschweigen. Eins kann ich Ihnen
 schon jetzt versprechen: die Morde werden gesühnt werden.
 Das Gespenst von Jan Mayen wird binnen vier Wochen samt
 Anhang im Gefängnis sitzen!«
@@ -848,7 +848,7 @@ dieselben … Der eine hatte nur vier Finger an der rechten
 Hand … der Graubart … Er spielt jetzt die würdige
 Dame, trägt Handschuhe … Der Zeigefinger des rechten
 Handschuhs ist ausgestopft und steif. Ich sehe das ganz
-genau …
+genau …«
 
 »Meine Hochachtung …!«
 
@@ -997,7 +997,7 @@ ja sehen …«
 Er trabte. Ich neben ihm. Mir wurde wieder leidlich
 warm … leidlich.
 
-an der Haustür standen wir unter Wind … Die Fensterladen
+An der Haustür standen wir unter Wind … Die Fensterladen
 sämtlich zu … im Stalle nebenan meldeten sich die
 Kühe … Die Wetterfahne auf dem Dache kreischte.
 
@@ -1028,7 +1028,7 @@ Dasselbe hatte auch ich mir schon gedacht …
 
 »Als Warner,« meinte ich …
 
-»natürlich …«
+»Natürlich …«
 
 <@pagebreak/>
 Harald saß im einfachen Schreibsessel vor Longbys Schreibtisch
@@ -1081,7 +1081,7 @@ Feuerzeug in den durchweichten Hosen … Es brannte …
 Die Petroleumlampe glühte auf … Rötliches Licht füllte
 den bescheidenen Raum.
 
-im Nu raffte ich meine Kleider zusammen und verschwand
+Im Nu raffte ich meine Kleider zusammen und verschwand
 im Nebenzimmer. Es war das der schönen hellblonden
 Senta …
 
@@ -1246,7 +1246,7 @@ werden wir Sie schonen. Andernfalls …!!«
 Garrison goß sich schnell einen Kognak ein … trank.
 
 Schüttelte den Kopf … »Unglaublich, Mr. Harst …!
-Das haben Sie glänzend gemacht! im übrigen können Sie
+Das haben Sie glänzend gemacht! Im übrigen können Sie
 mir nicht viel anhaben, möchte ich gleich bemerken …«
 
 »So?! Haben Sie denn die drei Probesteine verzollt,
@@ -1344,7 +1344,7 @@ Jedenfalls: ich war bitter enttäuscht. Der Fall »Gespenst
 von Jan Mayen« hätte auf diese Weise eine tadellose
 Lösung gefunden — meines Erachtens! Nun war es nichts
 damit. Nun mußte man das Geheimnis doch in einer anderen
-Weise zu ergründen suchen,
+Weise zu ergründen suchen.
 
 Dies alles schoß mir so durch den Kopf, während Harald
 bereits weitersprach …
@@ -1379,7 +1379,7 @@ Regenschirm …«
 Harald lächelte flüchtig. »Schalten Sie Ihre Lampe
 ein und spannen Sie Ihren Schirm auf … Gehen Sie
 getrost. Ich garantiere Ihnen dafür, daß Ihnen nichts zustoßen
-wird …
+wird …«
 
 Der Juwelier erblickte jetzt in Harsts Hand die Clementpistole
 …
@@ -1420,13 +1420,13 @@ Stoß … Das Boot zitterte, prallte zurück … Wir hatten
 die Köpfe über die Bordwand gehoben … Wie ein langer
 Schatten da neben uns ein größeres Fahrzeug …
 
-und — vom hohen Bord dieses Gegners Lichtblitze …
+Und — vom hohen Bord dieses Gegners Lichtblitze …
 Laternen, die man plötzlich enthüllte …
 
 <@pagebreak/>
 Bootshaken sausten herab …
 
-alles blitzschnell … zu schnell, um sich wirksam verteidigen
+Alles blitzschnell … zu schnell, um sich wirksam verteidigen
 zu können …
 
 Ein Hieb krachte auf meinen Kopf … Traf mich, als
@@ -1504,7 +1504,7 @@ werden, steht dahin …«
 Meine Jacht läuft jetzt neunzehn Knoten … Kein Motorkutter
 leistet das … Wir überholen die Schurken …!«
 
-»Werden sie trotzdem kaum sichten …," nickte Harald.
+»Werden sie trotzdem kaum sichten …,« nickte Harald.
 »Dazu ist der Atlantik nun einmal zu groß … Aber
 Schraut und ich werden vor ihnen nachts in aller Heimlichkeit
 auf Jan Mayen landen … werden dort bleiben, bis
@@ -1628,7 +1628,7 @@ lagen in der Nähe, Kinder der Polarzone …
 Ich begann meine Kunst als Tierstimmenimitator zu beweisen
 …
 
-Helle Möwenschreie
+Helle Möwenschreie.
 
 So hell, daß sie Harald den Weg zu uns wiesen … daß
 sie sich abhoben von dem nächtlichen Konzert der düsteren
@@ -1688,7 +1688,7 @@ in den Ritzen des Gesteins. Salvani packte die Rucksäcke
 aus, breitete die übrigen Wolldecken auf den Boden, blies
 die Luftkissen auf …
 
-Ich Hatte eine zweite Karbidlaterne angezündet und
+Ich hatte eine zweite Karbidlaterne angezündet und
 kümmerte mich um den Tee …
 
 Der Spirituskocher erwärmte die feuchtkalte Luft in
@@ -1715,16 +1715,16 @@ Teebecher, mein Alter — halb Rum, halb …«
 
 Er wollte »Tee« sagen … wollte …
 
-Das Wörtchen blieb ihm zwischen den Lippen hängen,
+Das Wörtchen blieb ihm zwischen den Lippen hängen.
 
 Draußen — offenbar in nächster Nähe — erklang ein
 <@pagebreak/>
 langgezogenes klagende Geheul … endete in einer Art
 schrillen Schrei …
 
-schön war diese Musik nicht …
+Schön war diese Musik nicht …
 
-im Gegenteil: sie ging einem an die Nerven, erinnerte
+Im Gegenteil: sie ging einem an die Nerven, erinnerte
 an Menagerie, Urwald, Tropen …
 
 »Teufel, was war das?!« flüsterte Emanuele Salvani …
@@ -1772,7 +1772,7 @@ bekomme Kopfschmerzen … Ob wir nicht ein wenig lüften
 können?«
 
 Er hatte recht … unser Felsloch stank nach Acetylengas.
-Und nicht gerade Schwach.
+Und nicht gerade schwach.
 
 Freilich, ich hatte andere Sorgen … Ich schaute auf
 <@pagebreak/>
@@ -1830,7 +1830,7 @@ Halbrechts bewegte sich da etwas auf dem Steingeröll
 — — beinahe hätte ich »Überresten« geschrieben …
 
 <@pagebreak/>
-Nun, ganz so schlimm war es nicht. trotzdem schlimm
+Nun, ganz so schlimm war es nicht. Trotzdem schlimm
 genug …
 
 Ein blutiges Antlitz … Die Jacke zerfetzt — bis aufs
@@ -1888,7 +1888,7 @@ Möwen … von der Jacht nichts … Nein, die »Mandragora«
 sollte ja im Westen der Insel kreuzen und nur nachts
 die Barkasse herübersenden. So war’s vereinbart worden.
 
-als ich unser Felsloch wieder betrat, war der übermüdete
+Als ich unser Felsloch wieder betrat, war der übermüdete
 Salvani eingenickt, hatte sich auf die Decken hingestreckt
 und schnarchte leise …
 
@@ -1937,7 +1937,7 @@ Und … die Laternen stanken … Ich lüftete den Vorhang,
 steckte ihn fest, löschte die Laternen … wagte mich
 wieder bis an den Eingang, lugte um die Schutzmauer …
 
-Das Bild war dasselbe wie vordem … genau dasselbe
+Das Bild war dasselbe wie vordem … genau dasselbe.
 
 In tiefen Zügen atmete ich die frische Salzluft …
 
@@ -1949,7 +1949,7 @@ Bärennatur …
 
 Ich lehnte an der Felswand …
 
-Jan Mayen …!! — Oh — ich Hatte mir unsere Arbeit
+Jan Mayen …!! — Oh — ich hatte mir unsere Arbeit
 hier anders gedacht, ganz anders … Wir waren eigentlich
 besiegt, bevor wir den Kampf noch eröffnet hatten …!
 
@@ -2050,10 +2050,10 @@ Dann saß Jan Kikuwait, geborener Memeler, letzter
 Überlebenden des Hochseekutters Bremen XX, neben mir,
 neben Haralds Lager …
 
-trank Rum mit Tee, kaute Konservenfleisch. Ich störte
+Trank Rum mit Tee, kaute Konservenfleisch. Ich störte
 ihn vorerst nicht. Nachher bat er um eine Zigarre …
 
-»jetzt bin ich wieder Mensch!« erklärte er leise … »Und
+»Jetzt bin ich wieder Mensch!« erklärte er leise … »Und
 nun soll ich wohl erzählen, Herr Schraut … Wird geschehen
 …«
 
@@ -2080,7 +2080,7 @@ befanden … Wir wanderten landeinwärts, stießen auf ein
 großes Blockhaus mit Steinfundament, über dem oben aus
 der Felswand zwei Antennenmasten standen, deren Drähte
 <@pagebreak/>
-in das Blockhaus hinabführten. vor dem Blockhaus waren
+in das Blockhaus hinabführten. Vor dem Blockhaus waren
 allerlei meteorologische Instrumente aufgestellt …«
 
 »Und — Sie betraten das Haus?!«
@@ -2131,7 +2131,7 @@ Brust … Da … kniff er aus — huschte weg — — wie
 … ein Gespenst, Herr Schraut … Und ich zu Hinnerk … Der
 war tot … Ich raus ins Freie … Taumelte über ein
 Schwein, das vor der Tür vergnügt grunzte … Lief in die
-Berge, versteckte mich …
+Berge, versteckte mich …«
 
 Er griff nach dem Becher … Trank … zitterte …
 
@@ -2292,7 +2292,7 @@ sich für seine Jahre gehalten. Offenbar hatte ihm nur der
 Schuß Rum im Blute gefehlt. Als Seebär war er eben
 an steifen Grog gewöhnt.
 
-»und gesehen haben wir die Lumpen nun auch …«
+»Und gesehen haben wir die Lumpen nun auch …«
 fügte er hinzu … »Freilich nur ihre Schatten, wenn sie
 eine sonnige Stelle passierten — ihre Schatten auf den
 Felswänden … Drei waren es, bestimmt drei … — Herr
@@ -2311,7 +2311,7 @@ am Strande, um nach Möglichkeit heimtückischen Kugeln zu
 entgehen …
 
 Salvani stützte Harst. Dem ging es bereits staunenswert
-gut. »Kleine Anstrengungen sind die beste Medizin,« meinte er,
+gut. »Kleine Anstrengungen sind die beste Medizin,« meinte er.
 
 Eine schroffe Hügelreihe schloß das flache Plateau, auf
 <@pagebreak/>
@@ -2319,9 +2319,9 @@ dem die Wetterstation sich befand, nach Süden zu gegen das
 Meer vollkommen ab. Nach Norden, etwa zwei Kilometer
 vom Ufer, erhob sich ein langgestreckter Berg, der an
 einer Stelle etwa zwanzig Meter tief senkrecht abstürzte.
-an dieser Stelle war das große Blockhaus mit zwei kleineren
+An dieser Stelle war das große Blockhaus mit zwei kleineren
 Nebengebäuden errichtet. Wie ich schon erwähnte, stützte
-sich das Blockhaus mit der Rückseite an die schroffe Wand,
+sich das Blockhaus mit der Rückseite an die schroffe Wand.
 
 Die Station machte einen sauberen Eindruck. Und —
 jemand begrüßte uns hier denn auch mit freudigem Grunzen:
@@ -2344,7 +2344,7 @@ Wir durchsuchten nun erst einmal ganz gründlich das
 Haus. Jan Kikuwait hatte überall die Fensterladen geöffnet.
 Die Leiche des Steuermannes Hinnerk war verschwunden. —
 Das Schwein folgte uns und mußte erst mit Gewalt hinausgejagt
-werden,
+werden.
 
 In dem Arbeitszimmer des jeweiligen Assistenten und
 Leiters der Station standen auch die ganz modernen Funkapparate.
@@ -2400,7 +2400,7 @@ nun werden?!«
 
 »Ich meine, daß das Gespenst von Jan Mayen nachts
 im Blockhaus erscheinen wird … Nachts ziehen wir natürlich
-den Posten hier oben ein …
+den Posten hier oben ein …«
 
 »Hm — — und wenn sie wieder Sprengkörper auf das
 Dach etwa werfen?«
@@ -2438,9 +2438,9 @@ oben bei den Antennenmasten, und Harst stieg die Treppe
 wieder hinab — sehr langsam … Er sah aus wie ein bayrischer
 Bua nach einer handfesten Kirchweihprügelei …
 
-<h2>4. Kapitel</h2>
+<h2>4. Kapitel.</h2>
 
-<h3>Tomsös Tagebuch</h3>
+<h3>Tomsös Tagebuch.</h3>
 
 Der Tag verging. Es ereignete sich nichts. Um drei
 Uhr nachmittags löste Salvani mich ab. Inzwischen hatte
@@ -2456,9 +2456,9 @@ Kiste … Denken Sie, wir haben Verbindung mit der »Mandragora«
 <@pagebreak/>
 Ich schaute zu der Antenne empor …
 
-»tadellos ist das, Salvani …!«
+»Tadellos ist das, Salvani …!«
 
-»Und ob — und Ob!! Wir können die Jacht nun jederzeit
+»Und ob — und ob!! Wir können die Jacht nun jederzeit
 herbeirufen. Immerhin eine Beruhigung …«
 
 Ich lächelte selbstbewußt. »Wir werden mit den Kerlen
@@ -2492,7 +2492,7 @@ Ich fand den Kutter … Mein Fernglas zog nicht so
 gut wie das Salvanis … Ich erkannte nur einen dunklen
 Punkt … mindestens noch fünf Seemeilen entfernt …
 
-Aber das Schifflein näherte sich schnell … Immer Deutlicher
+Aber das Schifflein näherte sich schnell … Immer deutlicher
 wuchsen die Konturen in den Linsen … Ja — es
 war ein Motorkutter, es waren ohne Zweifel Senta Longby
 und die beiden fragwürdigen Engländer …
@@ -2512,7 +2512,7 @@ des Beerenberges, hinüber …
 Und — auch ich wurde so auf eine dünne Rauchsäule
 aufmerksam, die aus einer der Schluchten dort emporwirbelte,
 rasch dichter und stärker wurde … Die schwarzen Qualmwolken
-mußten von einem bedeutenden Brande herrühren,
+mußten von einem bedeutenden Brande herrühren.
 
 »Moos und Petroleum … — ein Signal …!« meinte
 Harald …
@@ -2539,7 +2539,7 @@ unten im Hause etwas zeigen … Wiedersehen …«
 
 Salvani kam …
 
-»Schlaue Hunde sind’s, Schraut …," meinte er. »Die
+»Schlaue Hunde sind’s, Schraut …,« meinte er. »Die
 Geschichte mit dem Signal imponiert mir … Wenn man
 nur erst wüßte, was die Halunken hier treiben … Mit
 Diamantenmine ist es nichts. Das lehnt Harst glatt ab.
@@ -2566,7 +2566,7 @@ Kartoffeln, eine Zigarre im Mundwinkel …
 Zum Abendbrot gibt es Bratkartoffeln und Rührei mit
 Speck …« — Er schielte zu dem Schwein hinüber, das in
 der Sonne lag und schlief … »Schweinebraten wär auch
-nicht übel, Herr Schraut …
+nicht übel, Herr Schraut …«
 
 Harst befand sich im Arbeitszimmer des Assistenten …
 Saß an dem einfachen Schreibtisch …
@@ -2581,7 +2581,7 @@ Nickte mir zu …
 … Dieser billige Fichtenschreibtisch besitzt nämlich
 ein Geheimfach …«
 
-»und dieses enthielt?!«
+»Und dieses enthielt?!«
 
 »Langsam, langsam …!! — Hier ist es …« Er drehte
 an dem linken dicken Zierknopf des Aufsatzes, und gleichzeitig
@@ -2653,7 +2653,7 @@ tun muß, damit ich auch die Vorteile meiner Entdeckung genießen
 kann. Am besten ist wohl, ich teile unserer Regierung
 den Sachverhalt mit. Man wird mich nicht betrügen oder
 beiseite schieben. — Ich will mir die Dinge doch erst noch
-ein paar Tage durch den Kopf gehen lassen,
+ein paar Tage durch den Kopf gehen lassen.
 
 19\. August. — Ich habe heute einem Robbenfangschiff,
 das auf der Rückreise nach Bergen hier vor der Insel
@@ -2669,7 +2669,7 @@ Ich soll abwarten, nichts überstürzen. Er sei so etwas
 Sachverständiger. Wahrscheinlich enthalte der See nur eine dünne
 Oberschicht Erdöl, deren Ausbeutung nicht lohne. — Ich
 bin niedergeschlagen, meine Hoffnungen zerrinnen. Wenn
-nur erst das Frühjahr da wäre ,.! Dann kommt Longby
+nur erst das Frühjahr da wäre …! Dann kommt Longby
 mich ablösen. Dann werden wir gemeinsam in den Krater
 eindringen und den See untersuchen.
 
@@ -2687,7 +2687,7 @@ ich dann noch lebe. —
 
 Harald legte das Büchlein wieder auf den Tisch …
 
-sagte: »Ja — er lebte noch … Aber er … fuhr in
+Sagte: »Ja — er lebte noch … Aber er … fuhr in
 den Tod … Er, Warken und Simming lösten in diesem Mai
 Longby, Höörlan und Gussol ab. Diese drei sind dann heimlich
 <@pagebreak/>
@@ -2722,7 +2722,7 @@ es noch hell ist! Mit aller Rücksichtslosigkeit gehen wir vor
 
 Nun — ich hatte meine sehr großen Bedenken gegen
 diese »Jagd« …!! Ein paar heimtückische Kugeln aus dem
-Hinterhalt, und wir waren erledigt! anderseits vertraute
+Hinterhalt, und wir waren erledigt! Anderseits vertraute
 ich auf Haralds Schlauheit. Er würde schon wissen, wie wir
 gefahrlos diese Räuberbrut ausheben konnten.
 
@@ -2787,7 +2787,7 @@ Und — — Harald fand …
 Winkte sehr bald … — Da war eine Schlucht, und da
 war tatsächlich etwas wie eine oft begangene Fährte …
 
-vor uns ein Steinhügel … Harst springt hinauf —
+Vor uns ein Steinhügel … Harst springt hinauf —
 von Felsblock zu Felsblock, hofft auf einen Rundblick von
 oben …
 
@@ -2796,7 +2796,7 @@ Und … stutzt …
 Ich bin neben ihm …
 
 Er hat plötzlich die lange Leine von der Schulter genommen
-… macht eine Schlinge … Schwingt den Lasso,
+… macht eine Schlinge … Schwingt den Lasso.
 
 Und da sehe ich … sehe auf der anderen Seite des
 Hügels Jan auf dem Bauche liegen … über ihm ein pechschwarzer
@@ -2811,7 +2811,7 @@ Sie schwirrt durch die Luft …
 
 Die Schlinge fliegt dem Hunde über den Kopf …
 
-im selben Moment, als Harald sie mit einem starken
+Im selben Moment, als Harald sie mit einem starken
 Ruck zuzieht und die Bestie zur Seite reißt, ertönt eine
 Frauenstimme …
 
@@ -2955,7 +2955,7 @@ Dieser Urlaub endete durch ein Floß — durch ein Riesenfloß!
 — Freilich, dieses neue Abenteuer begann gänzlich auf
 dem »Trockenen« …
 
-doch — das mögen meine Freunde und Leser im folgenden
+Doch — das mögen meine Freunde und Leser im folgenden
 Band selbst prüfen …
 
 Vielleicht lohnt es …
