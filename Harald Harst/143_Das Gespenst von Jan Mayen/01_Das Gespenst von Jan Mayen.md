@@ -434,7 +434,7 @@ fand — bei all seiner ernsthaften Forschertätigkeit.
 »Mandragora« ist bekanntlich eine Wurzel, die von
 Natur die Gestalt eines Menschen hat. Diesen Wurzeln
 schreibt man übernatürliche Kräfte zu. — Die Jacht des
-Fürsten besaß denn auch als Gallionsfigur eine kleine echte
+Fürsten besaß denn auch als Galionsfigur eine kleine echte
 Mandragora — als Talisman … —
 
 Und Salvani selbst? — Nun, der entwickelte sich immer
