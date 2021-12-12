@@ -28,7 +28,7 @@ Seine Stimme hatte in der Tat Ähnlichkeit mit der des
 Doktors, und die Maske hatte es noch begünstigt, daß Harald
 den Mönch bis zuletzt für Wallace gehalten hatte.
 
-Sydney Robert stotterte weiter:
+Sydney Rovell stotterte weiter:
 
 »Doktor Wallace trug ja ebenfalls Mönchskutte und bat
 mich, einen kleinen Scherz mit Ihnen zu machen, Mr. Harst
@@ -115,7 +115,7 @@ isolierte Drähte hinein …
 legte sie auf die Bank — »würde genügen, Sie alle in Sekunden
 ins Jenseits zu befördern … Ich sehe da hinten
 Oberst Ramdor stehen … Er hat vor acht Tagen beobachtet,
-wie ich in meinen Laboratorium Ratten durch dieses Gift
+wie ich in meinem Laboratorium Ratten durch dieses Gift
 tötete. Die Wirkung ist blitzartig. — Es liegt also in Ihrem
 Interesse, meine Damen und Herren, sich nicht vom Fleck
 zu rühren und mir geduldig zuzuhören, wie ich mich jetzt mit
@@ -507,8 +507,8 @@ Aufgabe über. »Willst Du Nelly Simpson diesem …«
 
 »Stopp, Max Schraut … Von Wollen oder Nichtwollen
 kann hier nicht die Rede sein. Wir haben einigen
-achtzig bis neunzig Menschen das neben gerettet, indem wir
-uns zum Gehorsam verpflichteten … Selbst wenn Kerl
+achtzig bis neunzig Menschen das Leben gerettet, indem wir
+uns zum Gehorsam verpflichteten … Selbst wenn Nelly
 hier an Bord sein wird, ist ja noch nicht aller Tage Abend!
 In dem Moment, wo wir Nelly dem Doktor übergeben, hat
 unser Kontrakt mit ihm ein Ende — definitiv!«
@@ -773,7 +773,7 @@ einfügen … Hilf mir …«
 Es war nicht zu umgehen, daß wir hierbei wiederholt
 die Taschenlampen einschalteten. Als Harst die herausgesägten
 Stücke der Kistenwand einpaßte, als ich ihm dabei
-leutete, schnellte plötzlich der Tiger mit kurzem Brüllen
+leuchtete, schnellte plötzlich der Tiger mit kurzem Brüllen
 auf den hellen Fleck zu, stieß die Kiste um und schob den
 Kopf halb durch das viereckige Loch in der Verbindungswand
 …
@@ -1365,7 +1365,7 @@ Ein Malaie darin, der soeben anlegen will …
 Sieht uns …
 
 <@pagebreak/>
-Wallace … ’!!
+Wallace … !!
 
 Taucht die Ruder ein … Rudert um sein erbärmliches
 Leben …
@@ -1537,7 +1537,7 @@ Und leise fügte Fritz Dietrich hinzu:
 … etwas, das gerade für Sie Interesse haben
 dürfte … Ich sagte Ihnen ja schon, daß wir auf Sumatra
 allerlei Viehzeug eingefangen haben … Und dabei habe
-ich bei einer Streife durchs den Urwald eine ganz merkwürdige
+ich bei einer Streife durch den Urwald eine ganz merkwürdige
 Entdeckung gemacht …«
 
 In diesem Moment traten Nelly und John Gollipp Arm

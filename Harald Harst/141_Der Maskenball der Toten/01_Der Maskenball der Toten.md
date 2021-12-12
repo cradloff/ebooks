@@ -118,7 +118,7 @@ Wir fuhren von den Sesseln hoch …
 
 Und der Doktor war’s, der heiser rief:
 
-»Ist er tot, Brandy?«
+»Ist er tot, Sipadu?«
 
 »Tot, Mister Wallace … In die Stirn …«
 
@@ -386,7 +386,7 @@ Harald rief ihn an …
 
 »Mr. Gollipp …!!«
 
-Der junge Kaufmann, erst sehr kräftiger, schlanker Mann
+Der junge Kaufmann, ein sehr kräftiger, schlanker Mann
 von vielleicht achtundzwanzig Jahren, mit bartlosen, recht
 scharfen Zügen, öffnete müde die Augen und hob etwas den
 Kopf.
@@ -741,7 +741,7 @@ Sie nickte …
 
 »Also doch!« triumphierte Collins …
 
-Harald warf, ihm einen eigentümlichen Blick zu —
+Harald warf ihm einen eigentümlichen Blick zu —
 meinte:
 
 »Sie, Mr. Collins, könnten John Gollipp zu Wallace
