@@ -135,7 +135,7 @@ zu laden, die uns erkennen würden, wurden abgelehnt.
 Und schon den Tag darauf wurden wir nach den Kupferminen
 von Siltara nordöstlich von Goa geschafft, wo wir
 der Sträflingsabteilung Nummer drei unter den Nummern
-101 und 102 eingereiht wurden …
+101 und 102 eingereiht wurden … —
 
 Siltara ist ein langgestrecktes Gebirgstal. In der Mitte
 stehen drei Sträflingsbaracken, ein Verwaltungsgebäude und
@@ -203,7 +203,7 @@ bei der gegen uns stattgehabten Verhandlung …«
 Ich war sprachlos …
 
 »Entschuldige, das verstehe ich nicht,« platzte ich nach einer
-Weile heraus …
+Weile heraus.
 
 Er nickte …
 
@@ -421,7 +421,7 @@ Harald lächelte und zeigte auf die Steinplatten des Fußbodens
 …
 
 »Die Keller haben zwei Stockwerke. Unter uns liegt
-ein Vorratsraum … Sennor Torbido ist ein Freund des
+ein Vorratsraum …: Sennor Torbido ist ein Freund des
 Direktors Sebastiano …«
 
 »Der Zugang nach unten ist also schon fertig?«
@@ -530,7 +530,7 @@ entfernte, begann Harst mit dem Chinesen zu flüstern. Eine
 Stunde darauf war Mittagspause.
 
 Die Holztische zum Essen waren in einem breiten Stollen
-aufgestellt. An den Ränder befanden sich Verschläge für
+aufgestellt. An den Wänden befanden sich Verschläge für
 Geräte. Wie Harald es nachher fertigbrachte, aus einem
 der Verschläge ein zehn Meter langes dünnes Tau zu stehlen
 und sich um den Leib zu wickeln, so daß es niemand sehen
@@ -575,7 +575,7 @@ herab.
 
 Und der Chinese flüsterte atemlos:
 
-»Tuan hat Stein durchs Loch geworfen … Hinter
+»Tuan hat Stein durch Loch geworfen … Hinter
 Spalte Abgrund … Tau wir gut brauchen …«
 
 Harald rief uns zu:
@@ -652,9 +652,10 @@ Ein zweiter rutschte schon am Tau abwärts.
 <@pagebreak/>
 Wir krochen in den Gang hinein. Es ging steil aufwärts.
 Stellenweise mußten wir uns hindurchzwängen.
+
 Dann eine neue Höhle …
 
-Aber — zu unseren Füßen jetzt wieder eine Steilwand …
+Aber — zu unseren Füßen jetzt wieder eine Steilwand.
 Mindestens zehn Meter … Und keine Möglichkeit, hier
 hinabzugelangen … 
 
@@ -676,7 +677,7 @@ schon einer der Aufseher brüllte:
 
 »Ergebt Euch …!!«
 
-Harst arbeitete weiter …
+Harst arbeitete weiter.
 
 Diese Steinkeile zu entfernen, mußte stundenlang
 dauern …
@@ -732,7 +733,7 @@ Alarm …
 Und wir drei rannten in den Wald hinein …
 
 Erst blindlings … Dann blieb Harst stehen … am
-Fuße eines ungeheuren Taku-Baumes, von dessen Seiten
+Fuße eines ungeheuren Taku-Baumes, von dessen Ästen
 ganze Bündel von Schlinggewächsen herabhingen …
 
 »Tuan — hinauf!«
@@ -904,7 +905,7 @@ Wir blieben Tuan auf den Fersen …
 Wir waren vorsichtiger denn je. Heute ging es für uns
 um Leben und Freiheit. Das wußten wir.
 
-Und sehr bald hatte denn auch einer der Nachtwächter
+Und sehr bald hatte denn auch einer der Parkwächter
 Tuan gestellt …
 
 Wir standen fünfzehn Schritt zurück im Gebüsch …
@@ -1048,7 +1049,7 @@ Harald bog dann nach rechts ab — in die Berge hinein.
 — Die Sonne ging auf … Hinter uns leuchtete das
 Meer. Vom Hafen her das Heulen von Dampfersirenen …
 
-Ich wußte nicht recht, was Harst vorhatte. Ich ahnte
+Ich wußte nicht recht, was Harst vorhatte … Ich ahnte
 nur: es handelte sich um die Schaukel des Barons!
 
 Die Felder hörten auf … Die Vorberge begannen.
@@ -1094,7 +1095,7 @@ hier blieb Harst vor einer bestimmten Stelle des schroff
 ansteigenden Felsens stehen. Hier deutete er auf ein roh
 eingemeißeltes
 
-<p class="centered"><em>B</em></p>
+<p class="centered"><em>B,</em></p>
 
 einen einzigen Buchstaben. — Man sah, daß unter dem
 Buchstaben noch etwas eingemeißelt gewesen … Man
@@ -1260,7 +1261,7 @@ für Händler.
 
 Harst packte die Reling …
 
-»Morgen, alter Trolby!«
+»’n Morgen, alter Trolby!«
 
 Und dem braven Gefährten rutschte vor Schreck die
 Pfeife aus dem Munde … —
@@ -1386,7 +1387,6 @@ Mann, der Ihr Geheimnis kannte, kaltblütig erschossen
 ich verlange, daß Du diese Schufte sofort —«
 
 Da hatte Harald schon blitzschnell den Arm vorgestreckt.
-
 <@pagebreak/>
 Hatte dem angeblichen Tissander die Perücke vom Kopfe
 gerissen …

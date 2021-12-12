@@ -106,7 +106,7 @@ weiter:
 und zwei Beamten sofort nach der Insel Schotakadscha,
 fand auch das eingemeißelte Kreuz in der Ostwand der
 steilen Buchtfelsen und suchte in dem unterhalb des Kreuzes
-lagernden Steingeröll nach der Bleikapsel, suchte
+lagernden Steingeröll nach der Bleikapsel, suchte freilich
 ohne rechte Hoffnung, etwas zu finden, da ihm allerlei Anzeichen
 schon vorher verraten hatten, daß der Steinhaufen
 vor kurzem durchwühlt war. Er entdeckte denn auch nichts,
@@ -255,7 +255,7 @@ Dann sagte er, indem er mir den Kopf langsam zuwandte:
 »Nun, den Kurs geändert.«
 
 Ich verstand ihn nicht. »Auf fünf Minuten kommt es
-doch nicht an!« meinte ich. »Wir haben hier fünfundzwanzig,
+doch nicht an!« meinte ich. »Wir haben hier fünfundzwanzig
 Tage ausgeharrt! Da spielen doch fünf Minuten keine
 Rolle!«
 
@@ -307,6 +307,7 @@ der doch vorhin der fünf Minuten wegen so seltsame Bemerkungen
 gemacht hatte, war derjenige von uns dreien,
 der jetzt dem nahenden Boote am eifrigsten zuwinkte und
 eine Freude heuchelte, die niemals echt sein konnte.
+
 Ich begriff ihn nicht. Weshalb diese Komödie?! Sie
 hatte ja fraglos einen Zweck, genau so wie sie einen sehr
 triftigen Grund haben mußte.
@@ -319,7 +320,7 @@ alt sein und sah so etwas heruntergekommen aus. Sein
 blonder Spitzbart war offenbar durch Spirituosenreste
 stellenweise ganz fuchsig geworden.
 
-»Verdammt!« brüllte er mit einen waschechten Whisky-Baß.
+»Verdammt!« brüllte er mit einem waschechten Whisky-Baß.
 »Verdammt, was treiben Sie denn hier auf dem
 gottverlassenen Kiltara?! Schiffbrüchige können Sie kaum
 sein! Dazu sehen Sie zu patent angezogen aus!«
@@ -333,7 +334,7 @@ Ehre?«
 Kastens von Schoner da. El Toro heißt der Kahn — El
 Toro, weil er mal unter spanischer Flagge segelte! Na —
 mit einem Stier hat das wracke Ding wenig Ähnlichkeit!«
-(»El Toro« heißt »Der Stier«).
+(»El Toro« heißt »Der Stier«.)
 
 »Harst heiße ich,« stellte Harald sich vor, indem er seinen
 Namen undeutlich aussprach. »Das da sind meine Gefährten
@@ -444,7 +445,7 @@ Schiebladen hatte.
 »Ich denke, ich hab’s in die mittelste gelegt.«
 
 Harst zog die Schieblade auf, faßte hinein und rollte
-ein Blatt von Quartgröße glatt, setzte sich dann und
+ein Blatt Papier von Quartgröße glatt, setzte sich dann und
 betrachtete das Blatt.
 
 »Soll ich nachher mal versuchen, das Geschriebene zu
@@ -543,7 +544,7 @@ glatt herunterlesen wie das Silbenkreuz.«
 Nun — ich versuchte es! Aber es glückte mir nicht.
 
 <@pagebreak/>
-»Die ersten Reihen enthalten den Anfang und das Ende
+»Die ersten Zeilen enthalten den Anfang und das Ende
 des Textes,« half Harald mir. »Oder noch genauer: das
 Ende und den Anfang! »Torria Mynma« ist eben die
 Unterschrift, also Maria Myntor. Und »iches« ist der Anfang
@@ -551,20 +552,20 @@ des Ganzen. Lies jetzt mal zuerst von den Wörtern
 
 > iches wardie ausgier Habed wardnen
 
-immer von je zweien die ersten Silben dann die zweiten,
+immer von je zweien die ersten Silben, dann die zweiten,
 und Du erhältst:
 
-> ich war es die aus Hab Gier ed ward,
+> ich war es die aus Hab gier ed ward,
 
-also: »Ich war es, die aus Habgier Edward —«,
+also: »Ich war es, die aus Habgier Edward —«,<br/>
 und, wenn Du genau so bei den anderen Wörtern vorgehst,
-findet Du als Schluß des Textes:
+findest Du als Schluß des Textes:
 
 > Myntor Maria kommen zugute Allgemeinheit der
 sie —
 
 also: »— sie der Allgemeinheit zugute kommen. Maria
-Myntor.«
+Myntor.««
 
 Jetzt kannte ich den Schlüssel, jetzt vermochte auch ich
 den Text herunterzulesen, wenn auch langsam:
@@ -697,8 +698,8 @@ entzifferst!«
 Schlaftrunk, dann wendete der Schoner und fuhr nach Kiltara
 <@pagebreak/>
 zurück! Oh — mich so hineinzulegen! So —! Argwöhnisch
-war ich zuerst ja, weil es mir schien, als beachte
-der Schoner das Rauchsignal absichtlich so spät, damit
+war ich zuerst ja, weil es mir schien, als beachtete
+der Schoner das Rauchsignal absichtlich erst so spät, damit
 wir nicht etwa auf den Gedanken kämen, das Schiff führe
 zu unserer Befreiung in Sicht der Insel vorüber. Aber
 nachher schwand jedes Mißtrauen. Der Schoner war ja
@@ -903,7 +904,7 @@ Floß gerade in einem langen Wellental schwamm.
 
 <@pagebreak/>
 Wir saßen in den Schleifen bis zum Halse im Wasser,
-trieben die beiden Stämme nun durch Ruderbewegungen,
+trieben die beiden Stämme nun durch Ruderbewegungen
 mit den Armen aus der Nähe des Floßes fort.
 
 Es ging dies ziemlich leicht. Honoria arbeitete wacker
@@ -916,7 +917,7 @@ bemerkt werden konnten. Die ganze Aufmerksamkeit der
 Leute der Jacht würde sich ja auf das Floß richten.
 
 Nun trieben wir, etwa fünfhundert Meter nach Norden
-zu seitlich vom Flosse mit der Meeresströmung weiter.
+zu, seitlich vom Floße mit der Meeresströmung weiter.
 
 Die Jacht kam rasch näher, glitt an uns vorüber. Wir
 erkannten auf Deck sechs Männer; fünf davon waren Eingeborene.
@@ -1134,7 +1135,7 @@ Piraten genommen und dessen Besatzung in einem Boot
 ihrem Schicksal überlassen wurde, bedarf ja noch um so dringender
 der Aufklärung, als man den Schoner dann zwei
 Tage später treibend und ohne eine lebende Seele an Bord
-unweit Goa auffand, ohne daß von der Fellladung auch
+unweit Goa auffand, ohne daß von der Felladung auch
 nur ein einziger Ballen geraubt worden war. Man kann
 mit Recht behaupten, daß die rätselhaften Ereignisse, die mit
 der Ermordung des Advokaten Grosby begannen, sich
@@ -1152,7 +1153,7 @@ hat.«
 Harald legte die Zeitung weg und lächelte.
 
 »Das Genie lebt, Herr Redakteur!« meinte er gut
-gelaunt. »Albert Dracon wird es sehr bald merken!«
+gelaunt. »Albert Dracon wird es sehr bald merken!« —
 
 Leider sollten aber auch wir merken, daß der trunkfeste
 Kapitän Boltrell den Zollbeamten auf dem Kutter recht
@@ -1181,7 +1182,7 @@ Taktmäßig arbeiteten unten die Maschinen. Die Luke
 des Maschinenraumes vor der Brücke stand offen. Ich hörte
 Harald Kohlen schaufeln. Er pfiff dabei einen Marsch.
 
-Ein paar große Haubenmöven begleiteten uns schon
+Ein paar große Haubenmöwen begleiteten uns schon
 seit einigen Stunden. Zuweilen ruhten sie sich auf der
 Spiere des Fockmastes aus. So auch jetzt. Ich wandte den
 Kopf und sah die sechs weißen Flecken. Ein Zufall war’s,
@@ -1231,7 +1232,7 @@ Matrosen wecken.«
 
 Mir begann das Herz rascher zu klopfen.
 
-Wenn es Boltrell war, dann würde es einen häßlichen
+Wenn es Boltrell war, dann würde es einen bößen
 <@pagebreak/>
 Tanz geben. Und er war es fraglos. Die beiden Schornsteine
 verrieten sich jetzt abermals durch zwei Funkengarben.
@@ -1370,7 +1371,7 @@ vorausschicken. —
 
 Abends gegen sieben Uhr ging ein recht schweres Gewitter
 nieder. Der das Unwetter begleitende Orkan zwang
-uns im Osten der Insel Schotakadscha hinter den hohen
+uns, im Osten der Insel Schotakadscha hinter den hohen
 Ufern Schutz zu suchen. Um halb neun hatte das Gewitter
 ausgetobt. Der Wind sprang um, und bei sanftem Regen
 konnten wir nun nach Norden zu die Insel umrunden.
@@ -1385,7 +1386,7 @@ Mit halber Kraft dampften wir die Westküste entlang.
 Dann öffnete sich nach links in den bewaldeten Ufern eine
 breite Lücke. Es konnte nur die Bucht sein.
 
-Die Shallow glitt in elegantem Bogen in die Bucht-Mündung
+Die Shallow glitt in elegantem Bogen in die Buchtmündung
 ein. Da die Bucht zuerst verschiedene kurze Krümmungen
 hatte, ließ Harst die Jacht an der Nordseite sehr
 bald Anker werfen.
@@ -1477,7 +1478,7 @@ ostwärts das Ufer erreichen.
 »Dracon, der schwer verwundet ist! Fangen wir ihn ab!«
 
 Wir schlichen auf dem Baumstamm dem Ufer zu, schlichen
-in den Büschen entlang, warteten bis Dracon, den auch ich
+in den Büschen entlang, warteten, bis Dracon, den auch ich
 jetzt erkannte, mühsam das Wasser verließ und auf allen
 Vieren dem Buschstreifen zukroch. Plötzlich schienen ihn die
 Kräfte zu verlassen. Er blieb liegen. Ein qualvolles
@@ -1502,8 +1503,8 @@ indem er des Verwundeten Kopf etwas hob.
 »Perlenschmuggler — haben die Muschelbank — zufällig
 entdeckt,« quälte Dracon hervor. »Chinesen — etwa
 zwanzig. Und alle — niedergemacht — heute nacht —
-fanden — das Schriftstück aus der Bleikapsel und —
-wollen — Blechkiste herausholen. — Wir haben diese
+Fanden — das Schriftstück aus der Bleikapsel und —
+wollen — Blechkiste heraufholen. — Wir haben diese
 — noch nicht gefunden. — Ich — fühle, daß ich sterben muß.
 Eine Bitte, Mr. Harst. In Battikaloa — Bat—ti—ka—loa
 — Ostküste von Ceylon wird Miß Lydia —« — Da — ein
@@ -1575,7 +1576,7 @@ und hielt den Inder mit der Pistole in Schach.
 Ein lauter Zuruf vom Buchteingang machte mich erst
 jetzt auf einen kleinen Dampfer aufmerksam, der mit der
 Bombayer Polizeiflagge am Heck rasch näherkam. Vorn
-stand Inspektor Boßwell rief nun abermals:
+stand Inspektor Boßwell, rief nun abermals:
 
 »Hallo — hier Boßwell!«
 

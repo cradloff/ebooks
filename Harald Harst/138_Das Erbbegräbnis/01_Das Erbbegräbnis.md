@@ -49,7 +49,7 @@ aromatischen Geschmack.
 Da sagte Rapsoldi schon:
 
 »Für einen Likör ein sonderbarer Name, dieses …
-Erbbegräbnis. — Nicht wahr?«
+Erbbegräbnis … — Nicht wahr?«
 
 »Allerdings,« nickte Harald.
 
@@ -106,7 +106,7 @@ führten denselben Namen: Dodabetta. — Das uralte Schloß
 und der Berg heißen noch heute so. Das Fürstentum ist
 von den Engländern eingezogen worden. Im Jahre 1832
 mußte die letzte Rani von Dodabetta nach einem vergeblichen
-blutigen Aufstand gegen die Engländer flüchten. Sie ist verschollen
+blutigen Aufstand gegen die Engländer fliehen. Sie ist verschollen
 — samt ihren Kindern …«
 
 Harald beugte sich vor …
@@ -376,7 +376,7 @@ Harald räusperte sich …
 »Vögel, die mittags singen, frißt abends die Katz, mein
 Alter!«
 
-»Oho — wer soll uns hier fressen?« lachte ich.
+»Oho — wer soll uns hier fressen?!« lachte ich.
 
 »Bitte — hörtest Du nicht in der vergangenen Nacht
 vom letzten Rasthaus im Dschungel die Tiger heulen?! Lag
@@ -407,6 +407,7 @@ des ehemaligen Indra-Tempels und jetzigen Erbbegräbnisses.
 
 <@pagebreak/>
 Ich wollte mein Fernglas aus dem Lederfutteral nehmen.
+
 »Laß es stecken,« meinte Harald.
 
 »Weshalb?«
@@ -774,7 +775,7 @@ haben, daß wir vor ihrer Turmtür gewesen …«
 
 »Du bist eben blind … — Hast Du Dir die wunderhübschen
 Bastläufer im Flur genauer angesehen? Sie
-haben so matte Farben … weil sie nämlich ganz, ganz
+haben so matte Farben, … weil sie nämlich ganz, ganz
 fein mit einem grauweißen Pulver bestreut sind …«
 
 »Nicht möglich!«
@@ -1154,7 +1155,7 @@ Wasser brach ich auf hartem Gestein zusammen …
 Nicht bewußtlos — nur vollkommen erschöpft …
 
 Sah dicht neben mir eine andere Gestalt: Harst …!
-Auch keuchend — nach Luft ringend …
+— Auch keuchend — nach Luft ringend …
 
 Seine Hand tastete hinüber, fand die meine …
 
@@ -1509,7 +1510,7 @@ Insel Eigentum der Rapsoldis wurde?«
 mich — würgte, der mich in den Sarg hineingezogen hatte.«
 
 »Wie?!« Und der Inder beugte sich zu ihr herab.
-»Wie?! Ein Mann — — im Sarge …! — Sie lügen!«
+»Wie?! Ein Mann — — im Sarge …?! — Sie lügen!«
 
 »Bei der heiligen Madonna …! Ich lüge nicht …!«
 Ihr Gesicht bekam Farbe … Sie schaute den Inder an.

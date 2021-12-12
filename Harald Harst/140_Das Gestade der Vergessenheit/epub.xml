@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">2175ff30-abf9-4efd-903d-4262d010afd1</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Gestade der Vergessenheit</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">140</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Gestade der Vergessenheit
+
+Am Nordrande des indischen Kaiserreichs, des Märchenlandes Indien, liegt der Staat Nepal, das Einfallstor für das geheimnisvolle Tibet.
+
+In der Hauptstadt Catmandu trafen eines Abends zwei Europäer in Begleitung von drei nepalesischen Dienern zu Pferde ein und fanden bei einem Verwandten eines der Diener ein Unterkommen, weil sie angeblich eine Abneigung gegen Hotels und öffentliche Gasthäuser hatten.
+
+Der gastfreundliche Nepalese wies den beiden blondbärtigen holländischen Kaufleuten das beste Zimmer im Erdgeschoß seines bescheidenen Hauses an und bewirtete sie auf’s beste, zumal sie für mehrere Tage im voraus bezahlten.
+
+Am Morgen aber fand der Nepalese vor dem einen Fenster des Zimmers eine Blutlache und die blutbefleckte Reisemütze eines der Europäer. Er weckte sofort die Diener der Fremden, und gemeinsam drang man durch das Fenster in das von innen versperrte Gemach ein.
+
+Die sieben Weisen
+
+Ich hatte die beiden Nepalesen in die Höhle geführt.  Einer von ihnen trug das Eisbärfell. Da es nun hier in den Bergwüsten keine Eisbären gibt, da andererseits doch kaum jemand sich mit einem solchen schweren Fell behängen wird, war es eine recht interessante Frage, wie dieses zottige Kleid eines Polarbewohners ausgerechnet hier an den Godwira-See gelangt sein mochte.
+
+Aber dies alles trat gegenüber Claire Margalls Erzählung völlig in den Hintergrund.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (140) Das Gestade der Vergessenheit.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1925</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
