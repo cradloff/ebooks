@@ -5,148 +5,139 @@
 <h2>1. Kapitel.</h2>
 <h3>Die geplünderte Villa.</h3>
 
-Die Tage auf der unwirtlichen Insel Ran Mayen dort
-Alkoven an der Grenze des Polargebietes (der Leser wird sich
-noch auf den vorigen Band »Gespenst von Ran Mayen« des
-sinnen) hatten Haralds robuster Gesundheit doch geschadet.
+Die Tage auf der unwirtlichen Insel Jan Mayen dort
+oben an der Grenze des Polargebietes (der Leser wird sich
+noch auf den vorigen Band »Gespenst von Jan Mayen« besinnen)
+hatten Haralds robuster Gesundheit doch geschadet.
 Gewiß, die Verletzungen durch die Zähne der Bestie waren
 tadellos verheilt, aber der starke Blutverlust und die körperlichen
 Anstrengungen sofort hinterher machten sich nun nach
 unserer Heimkehr in recht unangenehmer Weise bemerkbar.
 
-Außerdem gerieten wir auch) in jene Hitzewelle in Berlin
+Außerdem gerieten wir auch in jene Hitzewelle in Berlin
 hinein, die tagelang die Bewohner der Reichshauptstadt aufs
 qualvollste peinigte.
 
-In unserem Heim in der Blücherstraße 10 in Shchmargens-dorf
-ging es denn auch recht still her. Harald lag zumeist.
+In unserem Heim in der Blücherstraße 10 in Schmargendorf
+ging es denn auch recht still her. Harald lag zumeist
 in seinem verdunkelten Arbeitszimmer auf dem Diwan und
 tat absolut nichts. Er schlief, las ein wenig, rauchte kaum
 fünf Zigaretten am Tage (ein schlechtes Zeichen!) und ließ
 alle Besucher abweisen. Die alte Köchin Mathilde hatte die
 strenge Instruktion erhalten: wir sind nicht daheim, sondern
-noch in Verwegen! …
+noch in Norwegen! …
 
 So gingen fünf Tage hin. Am Morgen des sechsten
-Tages nach unserer rührte (es war der 14 … Juni) saßen
+Tages nach unserer Rückkehr (es war der 14. Juni) saßen
 wir in der Veranda beim Frühstück, freuten uns über den
-betreten Himmel und den Temperatursturz und beobachteten
-
-Art. 184.
+bedeckten Himmel und den Temperatursturz und beobachteten
 <@pagebreak/>
-2022022200220 41&nbsp;8200200282020
-
 unsere Hühner und Tauben, die auf dem blitzsauberen Hofe
-eifrig das Futter aufrichten.
+eifrig das Futter aufpickten.
 
-Frau Auguste Harst, Haralds Master und meine mütterliche
-Freundin, hatte soeben den frisch ’gebadenen Sonntagskuchen
+Frau Auguste Harst, Haralds Mutter und meine mütterliche
+Freundin, hatte soeben den frisch gebackenen Sonntagskuchen
 angeschnitten, als ich drüben in unserem großen Gemüsegarten
 einen gutgekleideten Herrn bemerkte, der den
 Hauptweg entlang auf das Haus zukam und uns bereits
 gesehen haben mußte.
 
-»Eine Frechheit!« meinte ichG. »Er ist über den Zaun
-geklettert. Die, Hinterpforte ist verschlossen.«
+»Eine Frechheit!« meinte ich. »Er ist über den Zaun
+geklettert. Die Hinterpforte ist verschlossen.«
 
-Frau Harst und Harald? schauten hin.
+Frau Harst und Harald schauten hin.
 
-Der Herr hatte »es eilig, grüßte schon von weitem, jagte —
-unsere Hühner und Tauben … auseinander und blieb dann
+Der Herr hatte es eilig, grüßte schon von weitem, jagte
+unsere Hühner und Tauben auseinander und blieb dann
 unterhalb der Veranda neben der Treppe stehen, grüßte
-wieder und zeigte. uns sein hageres, blasses Gesicht, das
-deutlich die Spuren. starker seelischmer Erregungen trug …
+wieder und zeigte uns sein hageres, blasses Gesicht, das
+deutlich die Spuren starker seelischer Erregungen trug …
 
 »Verzeihen Sie, Herr Harst,« sagte er atemlos … »Ich
-konnte aber nicht anders … Zweimal hat mich Ihre Wirte
-Fensterln bereits abgewiesen. Haben Sie Nachsicht mit mir
+konnte aber nicht anders … Zweimal hat mich Ihre Wirtschafterin
+bereits abgewiesen. Haben Sie Nachsicht mit mir
+… Mein Name ist Falk — Kommerzienrat Falk …«
 
-… Mein Name ist Falk —. Kommerzienrat Falk …
-
-— »Harald hatte sich erhoben. und war an, das offene Verandafenster
+»Harald hatte sich erhoben und war an das offene Verandafenster
 getreten …
 
 Bevor er jedoch noch etwas erwidern konnte, geschah etwas
-»Seltsames …
+Seltsames …
 
-Ich muß »noch anführen, daß der Hofraum von dem Gemüsegarten
-durch eine’ Unzahl alter Linden und Kastanien
-sowie HaselnußsträucFßer abgeschlossen ist.
+Ich muß noch anführen, daß der Hofraum von dem Gemüsegarten
+durch eine Unzahl alter Linden und Kastanien
+sowie Haselnußsträucher abgeschlossen ist.
 
 Plötzlich hörten wir hinter den Büschen hervor eine
-weibliche Stimme … einen zweimaligen Ruf …- Anscheinend
+weibliche Stimme … einen zweimaligen Ruf … Anscheinend
 war es ein Vorname …
 
-Daraufhin dreht? der Besucher sich wie entsetzt um und
+Daraufhin drehte der Besucher sich wie entsetzt um und
 rannte davon — wieder den Hauptweg hinab und verschwand.
 
 Frau Harst war gleichfalls aufgestanden.
 
-»Unglaublich!« rief sie … »Schraut, das ist doch …
+»Unglaublich!« rief sie … »Schraut, das ist doch …«
 
-— Harald fiel ihr ins Wort …
+Harald fiel ihr ins Wort …
 
-»Triebe Mutter, das ist … das Ende meines Erholungs-OD202d2020020002000
+»Liebe Mutter, das ist … das Ende meines Erholungsurlaubs
 <@pagebreak/>
-senden;200020002&nbsp;2028200
-
-Urkunde … Ich habe den Kommerzienrat Justus Falk des
-stimmt erwartet … Mathilde hat mir die Namen der als
-gewiesenen Klienten nicht genannt, ich ahnte aber, daß Falk.
+… Ich habe den Kommerzienrat Justus Falk bestimmt
+erwartet … Mathilde hat mir die Namen der abgewiesenen
+Klienten nicht genannt, ich ahnte aber, daß Falk
 mit dabeigewesen.«
 
-Da besann im mich …
+Da besann ich mich …
 
 »Ah — die Diebstähle in der Falkschen Villa in Wannsee!«
 meinte ich. »Die Zeitungen berichteten darüber …«
 
-Frau Harst Niete eifrig. »Stimmt — drei Diebstähle an.
+Frau Harst nickte eifrig. »Stimmt — drei Diebstähle an
 drei aufeinander folgenden Tagen …«
 
-Harald setzte sich und nahm ein Flur Mohnkuchen, der
-geradezu … köstlich duftete …
+Harald setzte sich und nahm ein Stück Mohnkuchen, der
+geradezu köstlich duftete …
 
-»Lassen wir uns vorerst beim FrühstüFck nicht stören …
+»Lassen wir uns vorerst beim Frühstück nicht stören …
 Die Sache Falk hat Zeit … — Ich möchte nur wissen, wer
 ihn zweimal beim Vornamen rief, ihn also von hier …«
 
-Mathilde wie immer recht geräushvolles Erscheinen-zwang
-ihn, den Satz nicht zu beenden.
+Mathilde wie immer recht geräuschvolles Erscheinen
+zwang ihn, den Satz nicht zu beenden.
 
 Die dicke Köchin rief:
 
-»Herr Harald, ein Herr von der Polizei … Sehr drin«-
-irgend 3 … Ich habe ihn in Ihr Arbeitszimmer geführt …
-Ein Kriminalbeamter … Er zeigte mir seine Aus8weisnarke-
+»Herr Harald, ein Herr von der Polizei … Sehr dringend
+… Ich habe ihn in Ihr Arbeitszimmer geführt …
+Ein Kriminalbeamter … Er zeigte mir seine Ausweismarke
+… Sehr dringend …«
 
-— Sehr dringend …«
-
-»Damm, mein Alter … 8 Hilft nichts … Wir sind
+»Komm, mein Alter … Es hilft nichts … Wir sind
 nicht Rentner …«
 
 Wir durchschritten den langen Flur, stießen die Windtür
 auf und fanden die Haustür weit offen …
 
-»rann?!« meinte Harald. »Sollte Mathilde die Tür
-nicht wieder geschlossen haben 21«
+»Nanu?!« meinte Harald. »Sollte Mathilde die Tür
+nicht wieder geschlossen haben?!«
 
 Dann öffnete er die nach links in sein Arbeitszimmer
 führende …
 
-… Das Zimmer war leer …
+Das Zimmer war leer …
 
 Harald schüttelte den Kopf …
 
-»Wo ist der Beamte?! Siehst Du ihn … 2?!«
+»Wo ist der Beamte?! Siehst *Du* ihn …?!«
 
-»Er wird wieder davongegangen sein …: Die offene
-Hausflur … Ui«
+»Er wird wieder davongegangen sein … Die offene
+Haustür …!!«
 
-»Ja — und dann war’s natürlich Sache kein Kriminalbeamter
-«…!!«
+»Ja — und dann war’s natürlich auch kein Kriminalbeamter
+…!!«
+
 <@pagebreak/>
-2222020220202 56 2D220220020202022
-
 Ich warf die Haustür zu und riegelte ab …
 
 Wir kehrten in die Veranda zurück. Die dicke Mathilde
@@ -158,52 +149,49 @@ Backen Mohnkuchen.
 »Er fragte, ob Sie zu sprechen seien, Herr Harald …«
 Unsere Köchin war sehr kleinlaut geworden … »Und fügte
 gleich hinzu, er sei Beamter und käme vom Polizeipräsidium
-
 … Ob Sie vielleicht Besuch hätten … Dann würde er später
-wiederkommen … Und da sagte ich, denn.4M hatte ja vom
+wiederkommen … Und da sagte ich, denn ich hatte ja vom
 Küchenfenster den Herrn beobachtet, der denn wieder weglief…
+— da sagte ich, nein, Herr Harst hat keinen Besuch. Es
+war jemand da, der ist aber mit ’n Mal wieder umgekehrt,
+ohne Sie recht gesprochen zu haben …«
 
-— da sagte ich, nein, Herr Harst hat keinen Besuch. Es«.
-war jemand da, der ist aber mit ’n Mal wieder umgekehrt, …
-ohne Sie recht gesprochen zu haben …
+»Ah so!!« Und Harald nickte mir zu … »Du begreifst,
+Mein: Alter …: Sache Falk …!!«
 
-»Ah tot!“« Und Harald nickte mir« Ei …: »Du begreifst,
+Frau Harst fragte rasch: »Du glaubst, daß der junge
+Mensch …«
 
-Mein: Alter …: Sache Falk »1« …
-… Frau Harst fragte fast: »Du glaubst, daß der junge
-»Mensch.«
+»… ja, Mutter, — der junge Mensch war ein Spion,
+wollte feststellen, ob ich Falk annehmen würde. Es muß
+wohl so sein …«
 
-… ja, Mutter, —« der junge Mensch war ein ’Spion,
-wollte feststellen, wo ich Falk »annehmen würde. Es muß
-noch! so sein …«
+Und er griff nach dem zweiten Stück Mohnkuchen …
 
-Und er’ kniff naß dem »weiten. Stück Mohnkuchen …
+Mathilde zog sich kauend und geknickt zurück.
 
-Mathilde 30a sich) kauend und geknickt zurück. ob
-
-Frau Auguste Harst aber seufzte und. jagte vorwurfsvoll:
+Frau Auguste Harst aber seufzte und sagte vorwurfsvoll:
 
 »Du hättest Dir getrost noch ein paar Tage Urlaub gönnen
-Jollen, Harald … Du bist …
+sollen, Harald … Du bist …«
 
-« »Aber Mutter — Mr wächst ja schon- vor … Langerweile
-Unkraut im Hirn …! ’TatsaHhe! Ich bin eingerostet …
+»Aber Mutter — mir wächst ja schon vor Langerweile
+Unkraut im Hirn …! Tatsache! Ich bin eingerostet …
 Außerdem: Du siehst ja, daß Falk von uns nichts wissen
-»bist! Er ist umgekehrt … — Und wir bleiben vorläufig noch
+will! Er ist umgekehrt … — Und wir bleiben vorläufig noch
 Nichtstuer!«
 
-— »Und — — das soll ich Dir glauben, Du Schwindler?1’«
-lächelte »Frau Auguste, die ja doch so stolz auf ihren Sohn
+»Und — — das soll ich Dir glauben, Du Schwindler!!«
+lächelte Frau Auguste, die ja doch so stolz auf ihren Sohn
 War. »Ich kenne Dich doch, mein Junge … In Gedanken
-»Geschäftigst Du- Dich jetzt schon mit den drei Einbrüchen …«
-»Irrtum« schmunzelte Harald. »Ich sinne darüber nach,
-<@pagebreak/>
-20222DSES00S030200 (/ 2020000 S0000202002
+beschäftigst Du Dich jetzt schon mit den drei Einbrüchen …«
 
+»Irrtum!!« schmunzelte Harald. »Ich sinne darüber nach,
+<@pagebreak/>
 wer zweimal dort hinter den Büschen den Vornamen Justus
-»gerufen haben mag und wer der … Spion war, der unserer
+gerufen haben mag und wer der … Spion war, der unserer
 Mathilde so gefallen hat … — Jetzt aber: Schluß damit!
-Diese FrühstüFsstunde wollen wir in Andacht genießen „…«
+Diese Frühstücksstunde wollen wir in Andacht genießen …«
 Und er begann von allem Möglichen zu reden. Daß er
 dabei trotzdem mit dem Falle Falk sich beschäftigte, merkte
 ich an seinem zerstreuten Blick. —
@@ -213,188 +201,181 @@ Wir beide gingen in Haralds Arbeitszimmer hinüber. Harald
 suchte die drei Zeitungsnummern hervor, in denen die Artikel
 über die drei Einbrüche gestanden hatten.
 
-In der Abendausgabe vom 9.- Juni war zu lesen:
+In der Abendausgabe vom 9. Juni war zu lesen:
 
-Großer Einbruchsdiebstahl. Der Villa des
+> *Großer Einbruchsdiebstahl.* Der Villa des
 bekannten Großindustriellen Kommerzienrat Justus Falk
-haben Einbrecher in der vergangenen Naht einen Besuch
+haben Einbrecher in der vergangenen Nacht einen Besuch
 abgestattet und verschiedene Kostbarkeiten gestohlen. Näheres
-über den Einbruch war nicht zu erfahren. Die Po«-
-Polizei hüllt sich. in Schweigen.«
+über den Einbruch war nicht zu erfahren. Die
+Polizei hüllt sich in Schweigen.«
 
 vom 10. Juni:
 
-Abermaliger Einbruch in eine Waun-see=Villa.
+> *Abermaliger Einbruch in eine Wannsee-Villa.*
 — Der Großindustrielle Kommerzienrat Justus
 Falk ist erneut durch Diebe schwer geschädigt worden. Diese
 benutzen die Abwesenheit des Ehepaares F. und drangen
-trotz der beiden Fahrkarte in die Villa ein, stahlen Brillanten
-und eine Münzensammlung und entkamen unbemerkt!:.
-Wahrscheinlich handelt es sich rum Dieselben Diebe, die schon
-gestern mit unbegreiflicher Fischer: den Silberschrank des
+trotz der beiden Wachthunde in die Villa ein, stahlen Brillanten
+und eine Münzensammlung und entkamen unbemerkt.
+Wahrscheinlich handelt es sich um dieselben Diebe, die schon
+gestern mit unbegreiflicher Frechheit den Silberschrank des
 Kommerzienrats geplündert haben. — Auch diesmal haben
-die Kriminalpolizei und der Geschädigte alle. näheren Angaben
+die Kriminalpolizei und der Geschädigte alle näheren Angaben
 verweigert.
 
 vom 11. Juni:
 
-Zum dritten Male eingebrochen! Niemand
-scheint damit gerechnet zu hoben, daß Fiebers Lagert
+*Zum dritten Male eingebrochen!* Niemand
+scheint damit gerechnet zu haben, daß Diebe es wagen
 würden, dreimal hintereinander ein und derselben Villa einen
 Besuch abzustatten. Dieser Fall hat sich jetzt ereignet.
 <@pagebreak/>
-2002222222202 senden;2200202002202022
-
 Vorgestern und gestern mußten wir leider melden, daß
-dem durch) seine Wohltätigkeit und seinen Kunstsinn bestens
+dem durch seine Wohltätigkeit und seinen Kunstsinn bestens
 bekannten Kommerzienrats Justus Falk durch Einbrecher
-überaus wertvolle Kostbarkeiten und DKunstgegen-stände
-gestohlen worden sind. In der voerflosse-nen
-Nacht. haben die Diebe sich auf genau demselben Wege
-—Über einen Balkon des ersten Stockwerks — Eingang in
+überaus wertvolle Kostbarkeiten und Kunstgegenstände
+gestohlen worden sind. In der verflossenen
+Nacht haben die Diebe sich auf genau demselben Wege
+— über einen Balkon des ersten Stockwerks — Eingang in
 das vornehme Heim des Großindustriellen zu verschaffen
 gewußt und mit einer grenzenlosen Gewandtheit und Verwegenheit
-den Wandsafe im Schlafzimmer des Kommen
-
-… Liegendes ausgeräumt, während dieser fest schlief. — Die
-Zurü&haltung der Kriminalpolizei »den Pressevertretern gegenüber
-ist nun gleichfalls geklärt ck die Beamten glaubten,
+den Wandsafe im Schlafzimmer des Kommerzienrates
+ausgeräumt, während dieser fest schlief. — Die
+Zurückhaltung der Kriminalpolizei den Pressevertretern gegenüber
+ist nun gleichfalls geklärt: die Beamten glaubten,
 ein Hausdieb sei hier an der Arbeit gewesen, da mancherlei
 darauf hinzudeuten schien, daß das Eindringen über den
-Balkon nur vorgetäuschmt sei. Jetzt steht einwandfrei fest,
+Balkon nur vorgetäuscht sei. Jetzt steht einwandfrei fest,
 daß die Einbrecher vom Gartenzaun an durch die Baumwipfel
 ihren Weg genommen haben, indem sie lange Stangen
 von Baumkrone zu Baumkrone legten. Die hierzu
 benutzen langen Stangen stammten von einem nahen
-Neubau. Der anfängliche« Verdacht der Kriminalpolizei
-hatte sich gegen einen der HauSkZangestellten gerichtet, ist
-nun jedoch) völlig hinfällig geworden. Zweifellos waren
+Neubau. Der anfängliche Verdacht der Kriminalpolizei
+hatte sich gegen einen der Hausangestellten gerichtet, ist
+nun jedoch völlig hinfällig geworden. Zweifellos waren
 zünftige Einbrecher hier an der Arbeit, die das Terrain
 vorher aufs sorgfältigste ausgekundschaftet hatten. Auch die
-einzelnen geraubten WertstüFe sind jetzt durch Säulen
-Anschlag dem Publikum zugleich mit einer Belohnung von
-ein Viertel des Gesamtwerte8 (etwa 580&nbsp;000 Mark) bekanntgegeben
+einzelnen geraubten Wertstücke sind jetzt durch Säulenanschlag
+dem Publikum zugleich mit einer Belohnung von
+ein Viertel des Gesamtwertes (etwa 580&nbsp;000 Mark) bekanntgegeben
 worden.
 
 <h2>2. Kapitel.</h2>
 <h3>Die Bewohner der Villa …</h3>
+
 Harald hatte die vierte Mirakulum angezündet — die
+vierte nach dem Frühstück.
 
-vierte noch) dem Frühstück.
 <@pagebreak/>
-DOSOSODIOSGEGSSSSSOS  ODOEOSSOESGDEODSSSS
-
-Er ging jetzt im Arbeitszimmer hin und her … I4ßh
-hatte die drei Artikel bedächtig gelesen, sagte nun;
+Er ging jetzt im Arbeitszimmer hin und her … Ich
+hatte die drei Artikel bedächtig gelesen, sagte nun:
 
 »Irgend etwas stimmt bei diesen drei Einbrüchen natürlich
 nicht …!«
 
 Harst war am rechten Fenster stehen geblieben, schaute
-auf die düstere Straße hinaus. Am Himmel hing schOwarzes
-Gewölk. Jeden Jugendlich mußte ein starker Regenguß beginnen
+auf die düstere Straße hinaus. Am Himmel hing schwarzes
+Gewölk. Jeden Augenblick mußte ein starker Regenguß beginnen
 …
 
-»Natürlich nicht!« meinte er, mir weiter seine Rü-ansicht
+»Natürlich nicht!« meinte er, mir weiter seine Rückansicht
 zeigend … »Aha — der Schofför betritt den Vorgarten
-… Ein Mann in Scofförtracht … Er zögert …
-Macht wieder kehrt … Zögert, abermals, Jetzt eilt er rast
+… Ein Mann in Schofförtracht … Er zögert …
+Macht wieder kehrt … Zögert abermals. Jetzt eilt er rasch
 auf die Haustür zu … Er … läutet …«
 
-Die Flurglo&e draußen schlug an …
+Die Flurglocke draußen schlug an …
 
-Ich wollte öffnen gehen. Harald war schon draußen;
+Ich wollte öffnen gehen. Harald war schon draußen,
 ließ die Tür weit offen …
 
 Ein junger bartloser Mensch verbeugte sich vor Harst …
 
-». »Treten Sie nur näher, Herr Otto Schmiedeck,« sagte
+»Treten Sie nur näher, Herr Otto Schmiedeck,« sagte
 Harald freundlich. »Wundern Sie sich nicht, daß ich Ihren
 Namen kenne. Ich hatte in der Zeitung von den Einbrüchen
-bei Ihrem Herrn gelesen und habe mich daher üben
-die Insassen der: Villa unter der Hand erkundigt …«
+bei Ihrem Herrn gelesen und habe mich daher über
+die Insassen der Villa unter der Hand erkundigt …«
 
 Der Schofför Otto Schmiedeck hatte sich dann kaum
 gesetzt, als draußen eine wahre Sintflut niederging … Es
 wurde so dunkel, daß Harst die Fenstervorhänge zuzog und
-das Klosters;Mr Licht einschaltete.
+das elektrische Licht einschaltete.
 
 Harst hatte ihm gegenüber Platz genommen und ihm die
-— Silberschale mit Zigaretten hin geschoben …
+Silberschale mit Zigaretten hin geschoben …
 
-»Bedienen Sie sich nur, Herr Schmiedes … Sie sind
-leidenschaftlicher Zigarettenrauch2r … Ihr Blick nach der
-Silberschale hin war vielsagend geistig, ganz abgesehen- von
+»Bedienen Sie sich nur, Herr Schmiedeck … Sie sind
+leidenschaftlicher Zigarettenraucher … Ihr Blick nach der
+Silberschale hin war vielsagend genug, ganz abgesehen von
 Ihren gelblichen Fingernägeln an der linken Hand … Sie
-sind finster, nicht wahr?«
+sind Linkser, nicht wahr?«
 
 »Ja, Herr Harst … — Ich bin so frei und greife zu.«
 
-… »Bitte … Hier ist Feuer … — Sie sind derjenige, den
+»Bitte … Hier ist Feuer … — Sie sind derjenige, den
 die Polizei zunächst im Verdacht hatte?«
-<@pagebreak/>
-Dir Eis SDEOBDSSESSE 1( Sie SIO0ODEL0OG0O
 
+<@pagebreak/>
 »Leider, Herr Harst … Und dieser Verdacht besteht
-sanft immer … Ich fühle das … Die Polizei hat wegwischt;
-en mein Vorleben dachten!ihr … Ich … im bin
-nämlich vor sechs Monaten unter einem Namen Ankunft
-Bitte von Papieren, die mir nicht gehören, bei Herrn Fall
-»Schofför geworden. Herr Falk hat mich heute sei) entlassen,
+noch immer … Ich fühle das … Die Polizei hat inzwischen
+mein Vorleben durchforscht … Ich … ich bin
+nämlich vor sechs Monaten unter einem Namen und mit
+Hilfe von Papieren, die mir nicht gehören, bei Herrn Falk
+Schofför geworden. Herr Falk hat mich heute früh entlassen,
 und … und … ich bin eigentlich … ein Flüchtling …
 Wenn die Polizei mich findet, werde ich verhaftet …«
 
-… Haralds Gesicht verrät selten eine bestimmte Empfindung,-
-Dazu hat er. sich zu gut in der Gewalt … Arzt schien auch
-Er Überrascht
+Haralds Gesicht verrät selten eine bestimmte Empfindung.
+Dazu hat er sich zu gut in der Gewalt … Jetzt schien auch
+Er Überrascht …
 
-»Wie heißen Sie denn in Wirklichkeit, Herr Schmiedeck?"«
-»Fragte er recht gedehnt …
+»Wie heißen Sie denn in Wirklichkeit, Herr Schmiedeck?«
+fragte er recht gedehnt …
 
-»Verzeihen Sie, Herr Harst,« erwiderte der Kopflose
+»Verzeihen Sie, Herr Harst,« erwiderte der Schofför
 sehr bestimmt … »Meinen wahren Namen werde ich unter
-allen Umständen verheimlichen, mag man mich auch verlassen
+allen Umständen verheimlichen, mag man mich auch verhaften
 …«
 
-»Weshalb in aller Welt sind Sie dann aber zu: uns.
-gekommen 21«
+»Weshalb in aller Welt sind Sie dann aber zu uns
+gekommen?!«
 
-»Weil ich Sie bitten möchte, mit zu verbergen, und
-weil im Ihnen Dinge mitteilen »kann, die weit seltsamer als
-»diese drei Eindruck)e sind … — Glauben Sie denn daran,
-Herr Harst, daß gewerbsmäßige Einbrecher dreimal hinter-ginander
+»Weil ich Sie bitten möchte, mich zu verbergen, und
+weil ich Ihnen Dinge mitteilen kann, die weit seltsamer als
+diese drei Einbrüche sind … — Glauben Sie denn daran,
+Herr Harst, daß gewerbsmäßige Einbrecher dreimal hintereinander
 derselben Villa einen Besuch abstatten werden?!«
 
-»Rein!«
+»Nein!«
 
 »Ich auch nicht, Herr Harst … Ich noch weniger, denn
-— im weiß, daß der Dieb im Hause zu suchen ist!«
+— ich weiß, daß der Dieb im Hause zu suchen ist!«
 
 »Ah — das wissen Sie?! Woher?!«
 
 »Durch meine Beobachtungen, Herr Harst, — durch das,
-was ich hier mit … dem Auftrag »seltsame Dinge« begehrt
-rote …«
+was ich hier mit … dem Ausdruck »seltsame Dinge« bezeichnete
+…«
 
 Er rauchte hastig ein paar Züge …
 
 Dann: …
 
-»Ich) will erzählen, Herr Harst, ganz kurz … Die Garage
+»Ich will erzählen, Herr Harst, ganz kurz … Die Garage
 der Villa liegt jenseits der Waldstraße, dem Villengrundstück
-gegenüber … Meine beiden Student wieder be-DSODSDSSOSSSOSOS
+gegenüber … Meine beiden Stuben wieder befinden
 <@pagebreak/>
-(! Tod CSOOSOSOEOO
-
-finden ein über der Garage. Die Fenster gehen nach der
+sich über der Garage. Die Fenster gehen nach der
 Straße hinaus. Da die Villa selbst auf einem Hügel am
-Wannseeufer sich erhebt, konnte ich die Borderseaite des Hauses
-aus) nachts überlisten, denn Herr Falk läßt die große
+Wannseeufer sich erhebt, konnte ich die Vorderseite des Hauses
+auch nachts überblicken, denn Herr Falk läßt die große
 Bogenlampe über dem Haupteingang selbst nachts bis zum
 Morgen brennen — eine Eigentümlichkeit von ihm …«
 
-»Bitte — berichten Sie alles recht genau,« war’s Harald
-ein. »Wir scheint, die Villa ist nicht nur durch die drei
+»Bitte — berichten Sie alles recht genau,« warf Harald
+ein. »Mir scheint, die Villa ist nicht nur durch die drei
 Einbrüche für mich interessant …«
 
 »Die Villa wird erst für Sie interessant werden, Herr
@@ -404,41 +385,39 @@ Villa bietet überreichlich Stoff zum Nachdenken. — Außer
 dem Ehepaare Falk — der Kommerzienrat hat vor einem Jahr
 zum zweiten Male geheiratet — wohnen dort noch die Tochter
 aus erster Ehe, Fräulein Felizitas Falk, dann der bejahrte
-Diener Gustav Lord, der schon zwanzig Jahre bei Herrn
+Diener Gustav Lorb, der schon zwanzig Jahre bei Herrn
 Falk ist, ferner die Köchin, das Stubenmädchen und der
 Gärtner, letzterer im Pförtnerhäuschen. — Ich habe nun
-folgendes beobachtet, und zwar singen die merkwürdigen
+folgendes beobachtet, und zwar fingen die merkwürdigen
 nächtlichen Vorgänge vor etwa Zwei Monaten im April
-an … Wir sieben eines Abends gegen halb zwölf eine
+an … Mir fielen eines Abends gegen halb zwölf zwei
 Leute auf, die vor der Gitterpforte auf der Straße hin und
 her schlenderten. Die Waldstraße ist sehr still und vornehm,
 Herr Harst …«
 
-» »Ihr kenne sie …«
+»Ihr kenne sie …«
 
--  »diese beiden Fremden waren ein Chinese und ein braunhäutiger
+»diese beiden Fremden waren ein Chinese und ein braunhäutiger
 Mann, vielleicht ein Inder … Ich hatte mein Fernglas
 zu Hilfe genommen. Beide waren sehr gut angezogen.
 Dann kam von der Villa her — ich stand im Dunkeln am
-offenen Fenster — der Diener Lord den Hauptweg entlang.
+offenen Fenster — der Diener Lorb den Hauptweg entlang.
 Seine ganzen Bewegungen waren vorsichtig und scheu —
 wie die eines Menschen, der auf verbotenen Pfaden wandelt.
-=«- II wunderte mich, denn der alte Diener ist ein biederer,
-offenen Charakter. Desto sorgfältiger verfolgte ich sein Tun.
+— Ich wunderte mich, denn der alte Diener ist ein biederer,
+offener Charakter. Desto sorgfältiger verfolgte ich sein Tun.
 Es gab jedoch nicht viel zu sehen … Er schritt bis zur
 <@pagebreak/>
-2002022220202020’ 19&nbsp;0000080222202
-
 Gitterpforte, die beiden Fremden gingen draußen vorüber
-und — Lord machte kehrt.«
+und — Lorb machte kehrt.«
 
 »Wie — sie sprachen nicht miteinander? Oder vielleicht
-reihten sie sich etwas zu? Ein Stück Papier — wiegend
-etwas …?« …
+reichten sie sich etwas zu? Ein Stück Papier — irgend
+etwas …?«
 
-»Nichts, Herr Harst, n;Ht8 … Ich habe ja dieselbe
-Szene ein dutzendmal beobachtet, nur — die Personen wes
-selten, das heißt, anstatt des Dieners kamen »Herr Falk
+»Nichts, Herr Harst, nichts … Ich habe ja dieselbe
+Szene ein dutzendmal beobachtet, nur — die Personen wechselten,
+das heißt, anstatt des Dieners kamen Herr Falk
 oder die gnädige Frau oder die Köchin, das Stubenmädchen,
 der Gärtner … Immer jedenfalls ein Bewohner der Villa
 und die beiden Asiaten … Nur Fräulein Felizitas machte
@@ -448,102 +427,96 @@ Harald schüttelte leicht den Kopf …
 
 »Konnten Sie die Personen denn stets so genau
 erkennen?! Es gibt doch auch im Frühjahr sehr dunkle
-dachte! Und — erschienen die Asiaten und je einer aus
+Nächte! Und — erschienen die Asiaten und je einer aus
 der Villa stets etwa um dieselbe Zeit?«
 
 »Die Bogenlampe brennt ja regelmäßig, Herr Harst …
 Und die Stunde — die wechselte allerdings. Manchmal
-mußte ich bis ein Uhr »morgens warten …
+mußte ich bis ein Uhr morgens warten …«
 
 »Ist Ihnen denn nie der Gedanke gekommen, den beiden
 Fremden nachzuschleichen?«
 
-»Gewiß, Herr Hart! Ich habe es dreimal versucht.
-Bevor … ich jedem die Straße erreicht hatte, waren die Leute.
-verschwunden l.
+»Gewiß, Herr Harst! Ich habe es dreimal versucht.
+Bevor ich jedoch die Straße erreicht hatte, waren die Leute
+verschwunden …«
 
-Harald Küste die Stirn »leicht in die Sand und dachte
-angestrengt nach).
+Harald stützte die Stirn leicht in die Hand und dachte
+angestrengt nach.
 
 Eine ganze Weile verging, bevor er wieder fragte:
+
 »Bringen Sie das von Ihnen Beobachtete, das ja in
 der Tat recht seltsam ist, mit diesen drei Einbrüchen in
-Zusammenhang, Herr Schmiede?« …
+Zusammenhang, Herr Schmiedeck?«
 
-Der hob die Heu:sein … »Schwer zu sagen, Herr
+Der hob die Schultern … »Schwer zu sagen, Herr
 Harst …«
 
-»Im -« der Gärtner wohnt- doch im Pförtnerhäuschen
-am ’Gittertor« … Rom denn auch der Gärtner von der
+»Hm — der Gärtner wohnt doch im Pförtnerhäuschen
+am Gittertor … Kam denn auch der Gärtner von der
 Villa her?«
+
 <@pagebreak/>
-DSSSESOS0SOSD0202802 13 DESOSDEOGEEGOO
-
 »Ja — und das ist auch mir aufgefallen, Herr Harst
-
-… Zweimal habe im den Gärtner in ’diejer Weise belausdzt.
-
+… Zweimal habe im den Gärtner in dieser Weise belauscht.
 Beide Male erschien er von der Villa her und kehrte auch
-
 dorthin zurück. Ich nehme an, er hat Herrn Falk etwas
-
 gemeldet, was die Asiaten ihm im Vorübergehen zugeflüstert
-hatten — nur so ist all dies zu erklären …
+hatten — nur so ist all dies zu erklären …«
 
-»Allerdings … — weshalb hat: sich denn nun gerade
+»Allerdings … — weshalb hat sich denn nun gerade
 auf Sie der Verdacht gelenkt, Herr Schmiedeck?«
 
 »Weil ich erst ein halbes Jahr bei Herrn Falk bin …
-Alle übrigen aber schon weit länger. Sogar das Stuben
-Knacken dient dort bereits im sechsten sagte. Da hat denn
+Alle übrigen aber schon weit länger. Sogar das Stubenmädchen
+dient dort bereits im sechsten Jahre. Da hat denn
 die Polizei mir so etwas nachgespürt. Man fragte mich
-aus. Ich) verriet mich dadurch, daß ihr unrichtige Angaben
-über die SHofförsHule machte, die der wahre Otto ’Schmiedck,
-von dem 1ich4 die Papiere gekauft habe, besucht hatte …«
+aus. Ich verriet mich dadurch, daß ich unrichtige Angaben
+über die Schofförschule machte, die der wahre Otto Schmiedeck,
+von dem ich die Papiere gekauft habe, besucht hatte …«
 
-»und wo befindet ein dieser Schmiede jetzt?«
+»und wo befindet sich dieser Schmiedeck jetzt?«
 
-»In Amerika, Herr Harst … Ich] gab ihm ’…« —
-Er stets … fügte hinzu: »Nein, im will Sie nicht belügen:
-ich? gab ihm fünfzehntausend Mark für, die Papiere … Mit
-Dieser Summe konnte er sich;drüben eine kleine Farm kaufen.«
+»In Amerika, Herr Harst … Ich gab ihm …« —
+Er stockte … fügte hinzu: »Nein, ich will Sie nicht belügen:
+ich gab ihm fünfzehntausend Mark für die Papiere … Mit
+Dieser Summe konnte er sich drüben eine kleine Farm kaufen.«
 
-Harald meinte erstaunt:’ »Wie — fünfzehntausend Mark?!
+Harald meinte erstaunt: »Wie — fünfzehntausend Mark?!
 Ja, woher hatten Sie denn das Geld?!«
 
-Der Schossen schaute Harst, mit einem eigentümlichen
-Absicht an …
+Der Schofför schaute Harst, mit einem eigentümlichen
+Blick an …
 
 »Oh — ich habe noch mehr ehrlich verdientes Geld, Herr
-Harst … Ich biete Ihnen 25000 Mark, wenn Sie die
-Diebe entdecken und mich bis dahin hier bei sich Tempelchen.
+Harst … Ich biete Ihnen 25&nbsp;000 Mark, wenn Sie die
+Diebe entdecken und mich bis dahin hier bei sich verbergen.
 Und — — ich gebe Ihnen mein Wort: ich bin ein ehrlicher,
 anständiger Kerl, von kleinen Lumpereien abgesehen, die
-jeder in seiner Jugend mal bereits — nichts Ehrenrühriges,
+jeder in seiner Jugend mal bereißt — nichts Ehrenrühriges,
 Dummheiten mehr …«
 
-Harald lauerte jetzt …
+Harald lächelte jetzt …
 
 »Wie Sie auch heißen mögen, Herr: Sie sind niemals
 ein einfacher Schofför! Ich bin so etwas Menschenkenner …
-weshalb haben Sie, den im für einen NMaschineningenieur
+weshalb haben Sie, den ich für einen Maschineningenieur
 <@pagebreak/>
-DSSDTSSDSSOSSOSSES 141&nbsp;00900D0SSSSISSBS0D3DSOSO
-
 halte, sich bei Falk als Schofför verdingt?! — Die Wahrheit
 bitte …!!«
 
-Der, der nicht ’Shmiedeck hieß, verbeugte ein jetzt mit
+Der, der nicht Schmiedeck hieß, verbeugte sich jetzt mit
 der nachlässigen Sicherheit des Weltmannes …
 
 »Im Vertrauen, Herr Harst: weil ich Felizitas Falk
-liebe und in ihrer. Nähe sein wollte …! — Fragen Sie
-hierüber jedoch nichts »mehr …» Ich müßte die Antwort
-verweigern … Ich …
+liebe und in ihrer Nähe sein wollte …! — Fragen Sie
+hierüber jedoch nichts mehr … Ich müßte die Antwort
+verweigern … Ich …«
 
-Er schwieg -.
+Er schwieg …
 
-— Nebenan in ’Haralds Schlafzimmer hatte ein Fenster
+Nebenan in Haralds Schlafzimmer hatte ein Fenster
 geklirrt …
 
 Harst schnellte hoch …
@@ -555,23 +528,23 @@ Umsonst …
 Die Schlafzimmertür war von innen verriegelt …
 
 Und als wir beide jetzt in den Hof hinabeilten, prallten
-wir. fast mit Mathilde zusammen +…
+wir fast mit Mathilde zusammen …
 
 Die kreischte:
 
-…« »Der Kerl ist aus dem Fenster gesprungen … der junge
-Kerl — — der sollte Kriminalbeamte … Durch den Gemüsegarten
-ist er entwischt .*-« Ich wollte ihn festhalten
-+… Gestoßen hat er mich, der« Lump ne
+»Der Kerl ist aus dem Fenster gesprungen … der junge
+Kerl — — der falsche Kriminalbeamte … Durch den Gemüsegarten
+ist er entwischt … Ich wollte ihn festhalten
+… Gestoßen hat er mich, der Lump …«
 
 Als wir in wilder Jagd hinten am Zaun des Gemüsegartens
 angelangt waren, konnten wir von dem frechen
 Spion, der sich in Harsts Schlafzimmer verborgen und nur
-scheinbar das Haus sofort wieder verlassen. hatte, nichts mehr
-entdecken 1 …
+scheinbar das Haus sofort wieder verlassen hatte, nichts mehr
+entdecken …
 
-8\. »Kapitel.
-Die beiden Asiaten,
+<h2>3. Kapitel.</h2>
+<h3>Die beiden Asiaten.</h3>
 
 — Wenn der freundliche Leser nun etwa annimmt, daß wir
 bei unserer Rückkehr in Haralds Arbeitszimmer den Mann,
@@ -584,7 +557,7 @@ hätte man immerhin auf die Vermutung kommen [können, doch
 Mann sei mittlerweile gleichfalls verduftet,
 
 Wir waren nicht etwa durch den Flur in das Urbeit&-zimmer
-zurü&gekommen. Nein, wir hatten eine-Leiter vom
+zurückgekommen. Nein, wir hatten eine-Leiter vom
 Hofe aus an das Schlafstubenfenster gelehnt und waren ir.
 dieses Zimmer eingestiegen, wo der Spion sich versteckt ge
 habt und uns natürlich) belauscht hatte.
@@ -595,7 +568,7 @@ ausgestatteten Raume, dessen Tür Harald nun aufriegelte,
 
 Ein Duft, der uns beiden fremd …
 
-es war ein aufdringlihes und doch zu, wieder sehr
+es war ein aufdringliches und doch zu, wieder sehr
 eigenartiges Parfüm, — etwa wie feinsten chinesischer Tee,
 der nur mit Handschuhen gezupft wird, und dazu etwas wie.
 
@@ -745,7 +718,7 @@ auch?!« ich
 Der Kommerzienrat mischte sich) ein …«
 
 »Juana war’s in der Tat, Herr Harst … Sie wollte
-von der ganzen Diebstahl8gesHichte nichts mehr wissen …
+von der ganzen Diebstahlsgeschichte nichts mehr wissen …
 Sie ist überaus nervöo8 und … und …« Er bekam plötzlich?
 das Stottern
 
@@ -792,7 +765,7 @@ verbindlich … Spürte in Frau Juanas Antlitz nach jeder
 Veränderung …
 
 Deren Wangen von leichtem Bronzeton (ob sie wohl ein
-wenig indianischhes Blut in den Adern hatte?!) spielten mit
+wenig indianisches Blut in den Adern hatte?!) spielten mit
 einem Male ins Grünlich-Blasse …
 
 … Ihr Bruder!! — Harst hatte da lediglich so etwas auf
@@ -818,8 +791,8 @@ Nacht im Gange des Wagens flüsterte Harald mir zu:
 Und wieder dann: »Wir trennen« uns, mein Alter …
 Du nimmst den Chinesen aufs Korn, ich den Mexikaner …
 Wiedersehen …! Und … Vorsicht …! Der Chinese ist
-ein kleiner quittengelber Kerl mit einem pechschwarzen Strauch-besenshHnurrbart
-…«
+ein kleiner quittengelber Kerl mit einem pechschwarzen
+Strauchbesenschnurrbart …«
 
 Ich mußte lange suchen, bis ich meinen Chinamann fand.
 Der Kerl saß wahrhaftig mit im Zuge — NRVaudqderabteil
@@ -832,7 +805,7 @@ paar getreulich begleiten …!! Gut — ich tat dasselbe …
 Ich4 hatte gerade noch Zeit, »mir eine Fahrkarte zu holen …
 bis Mündjen zunähst … Und ohne grau, ohne alles —
 mit nur noch sechzig Mark in der Tasche begann ich diese …
-Vergnügungstour, die … bis zu seinen Inscelgestaden des
+Vergnügungstour, die … bis zu seinen Inselgestaden des
 Weltmeeres sich ausdehnen sollte.
 
 Der zur verließ den Anhalter Bahnhof …
@@ -1117,7 +1090,7 @@ Wir sind in einer breiten Straße … Ich) kenne Bamberg,
 nicht :… Der Kollege meint:
 
 »Übrigens heiße im Winfried von Rutar, Herr Schraut
-… Medlenburger … Kleinere Ausgabe eines Odysseus …
+… Mecklenburger … Kleinere Ausgabe eines Odysseus …
 Habe mich überall in der Welt umhergetrieben — war alles,
 nur noch nicht im Gefängnis … —
 
@@ -1149,7 +1122,7 @@ Baron Baldwin, den Auftrags erhalten, sich; nach. den Vermögens«
 und sonstigen Verhältnissen he? Kommerzienrates
 Justus Falk, Berlin, zu erkundigen, da Falk mit der genannten
 Firma vor anderthalb Fahren größere Lieferungsverträge über
-kalisornische Kiefern abgeschlossen hatte. Diese Kiefern wer-«
+kalifornische Kiefern abgeschlossen hatte. Diese Kiefern wer-«
 den ihres Harzreichtums wegen zu besonderen Zwecken verehrte
 <@pagebreak/>
 solchen 96. — DSSEEODEGSOCOOO
@@ -1365,7 +1338,7 @@ Er drückte ihr kräftig die Hand … ck
 Und als wir draußen im Junisonnenschein … durch die
 Straßen unserem kleinen Hotel zuwanderten, blieb er vor
 einem großen Hause stehen, neben dessen Portal zu beiden
-Seiten flache Zeitungsfästen- angebracht waren …
+Seiten flache Zeitungskästen- angebracht waren …
 
 Deutete auf ein« Stelle der in dem Kasten ausgespannten
 
@@ -1380,7 +1353,7 @@ im dichten Nebel gegen ein Floß von Rundhölzern und
 des Hektor, die auf dem Floß Löwen bemerkt haben
 wollen, klingt sehr unglaubwürdig und unwahrscheinlich.
 Immerhin ist das auftauchen des Riesenfloßes in jener
-Meere8gegend insofern beachtenswert, als vor einiger ’ Zeit
+Meeresgegend insofern beachtenswert, als vor einiger ’ Zeit
 … aus Mexiko der Verlust von drei Flößen Lalifornisher Kiefern
 gemeldet wurde.
 
@@ -1525,7 +1498,7 @@ sind wie gelähmt … Keine Möglichkeit, ein Wort hervorzubringen
 … «-
 
 Erst abends in einer Privatklinik werden wir wieder
-durch GSauerstoffzufuhr langsam zu Menschen mit Muskeln
+durch Sauerstoffzufuhr langsam zu Menschen mit Muskeln
 und Hirn …
 
 Ein Kriminalkommissar sitzt neben unseren Betten …
@@ -1668,8 +1641,8 @@ Motorkutter, der mit halber »Kraft die Riffe der kleinen
 
 für«Oer=Insel. Göstöla passierte, von der Spitze eines machte
 
-beseitigen, im Nebel wie ein kratzendes Gespenst sich hohreckenden
-Felsblo&es angerufen wurde«.
+beseitigen, im Nebel wie ein kratzendes Gespenst sich hochreckenden
+Felsblockes angerufen wurde«.
 
 An Deck des Kutters’ befanden sich zwei Herren mit
 Seglermützen und Tiger gefükterken Sportjacken.
@@ -1678,7 +1651,7 @@ Als die Mäninerstimme aus dem trüben feuchten Dunst
 
 »sich: geisterhaft haltend meldete, hatte der schlanke Herr am
 
-Steuer gerade durch- den Mascinentelegraphen nach unten
+Steuer gerade durch- den Maschinentelegraphen nach unten
 Befehl »gegeben, die Motoren des Kutters abzustellen …
 
 ans
@@ -1708,7 +1681,7 @@ Stoppte hier vollends …
 <@pagebreak/>
 2DO2O2022202000202 37&nbsp;822088 GGSSBDSOISC
 
-bärtiger stäammiger Fischer auf … Die Heklaterne beleuchtete
+bärtiger stäammiger Fischer auf … Die Hecklaterne beleuchtete
 sein von Falten zerrissenes, wie gegerbtes Gesicht …
 
 In einem Englisch, das als solches kaum zu verstehen
@@ -2124,7 +2097,7 @@ Wasser …
 Flüstert: »Ein Baumstamm !?«
 
 Und — zieht unser Boot weiter, die Finger in die rissige
-Borke des Langholzes einfrallend …
+Borke des Langholzes einkrallend …
 
 Flüstert wieder:
 
@@ -2258,7 +2231,7 @@ ein zu unserer Gefangenen hinunter … Flüsterte drohend:
 »Wir werden keinerlei Rücksichten nehmen, ’Fräulein Falk
 … Ich kenne Sie zur Genüge … Sie waren als Spionin
 bei mir, Sie haben in der Villa Ihres Adoptivvaters nacht«-
-lich Maskeuschherze getrieben … Und Ihr Hohnlachen im
+lich Maskenscherze getrieben … Und Ihr Hohnlachen im
 Pensionat in Bremen vergesse ich ebenfalls nicht …
 Sie wissen jetzt, woran Sie sind …« — Er wollte noch
 mehr hinzufügen …
@@ -2293,7 +2266,7 @@ Das Mädchen- erhob sich matt …
 vorsichtig … Ich muß den Mantel haben …
 
 Seine Hand zog bereits die lange Nadel aus dem schlichten,
-von einem dunklen Schleier umshHlungenen Lederhut …
+von einem dunklen Schleier umschlungenen Lederhut …
 
 Felizitas Falk miterlebte sich nicht. Ich sah ihr Gesicht
 aus nächster Nähe … Und doch war’s zu dunkel. Die
