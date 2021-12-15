@@ -546,117 +546,109 @@ entdecken …
 <h2>3. Kapitel.</h2>
 <h3>Die beiden Asiaten.</h3>
 
-— Wenn der freundliche Leser nun etwa annimmt, daß wir
+Wenn der freundliche Leser nun etwa annimmt, daß wir
 bei unserer Rückkehr in Haralds Arbeitszimmer den Mann,
 der nicht Schmiedeck hieß, nicht mehr vorfanden, so ist dies
-ein verzeihlicher … Irrtum. Nach allem Vorausgegangenen
+ein verzeihlicher Irrtum. Nach allem Vorausgegangenen
 <@pagebreak/>
-O2020200202022202 1, 2202202202002&nbsp;020
-
-hätte man immerhin auf die Vermutung kommen [können, doch
+hätte man immerhin auf die Vermutung kommen können, der
 Mann sei mittlerweile gleichfalls verduftet,
 
-Wir waren nicht etwa durch den Flur in das Urbeit&-zimmer
-zurückgekommen. Nein, wir hatten eine-Leiter vom
-Hofe aus an das Schlafstubenfenster gelehnt und waren ir.
-dieses Zimmer eingestiegen, wo der Spion sich versteckt ge
-habt und uns natürlich) belauscht hatte.
+Wir waren nicht etwa durch den Flur in das Arbeitszimmer
+zurückgekommen. Nein, wir hatten eine Leiter vom
+Hofe aus an das Schlafstubenfenster gelehnt und waren in
+dieses Zimmer eingestiegen, wo der Spion sich versteckt gehabt
+und uns natürlich belauscht hatte.
 
-Ein ganz schwacher besonderer Duft hing in diesem schlich?
+Ein ganz schwacher besonderer Duft hing in diesem schlicht
 ausgestatteten Raume, dessen Tür Harald nun aufriegelte,
 öffnete und weit offen ließ …
 
 Ein Duft, der uns beiden fremd …
 
-es war ein aufdringliches und doch zu, wieder sehr
-eigenartiges Parfüm, — etwa wie feinsten chinesischer Tee,
-der nur mit Handschuhen gezupft wird, und dazu etwas wie.
-
-…!a, wie Waldmeister und Harzgeruch …
+es war ein aufdringliches und doch auch wieder sehr
+eigenartiges Parfüm, — etwa wie feinster chinesischer Tee,
+der nur mit Handschuhen gezupft wird, und dazu etwas wie
+… ja, wie Waldmeister und Harzgeruch …
 
 Harald hatte nur prüfend die Luft eingesogen und mir
 zugenickt …
 
-Seite sich« nun dem angeblichen Schofför wieder gegenüber
-und schaute ihn an
+Setzte sich nun dem angeblichen Schofför wieder gegenüber
+und schaute ihn an …
 
-Der lächelte noch immer wie verträumt. Sein sympa«
-stilles Gesicht bekam dadurch& Streit aufgetriebenen »Zug
+Der lächelte noch immer wie verträumt. Sein sympatisches
+Gesicht bekam dadurch einen ausgesprochenen Zug
 von Schwärmerei — man könnte sagen: Verliebtheit!
 
-Harst. erzählte dann: von dem Menschen, der hier der
+Harst erzählte dann von dem Menschen, der hier bei
 uns als Kriminalbeamter sich eingeschlichen hatte …
 
 Der Duft aus dem Schlafzimmer, diese flüchtige Erinnerung
-an »den. Spion, drang durch die offene Tür immer
+an den Spion, drang durch die offene Tür immer
 stärker herein …
 
 »Sie kennen diesen Geruch?« fragte Harald dann …
 
-Unser Gast nichts … »Ja, Herr Harst … Es ist Bad
+Unser Gast nickte. … »Ja, Herr Harst … Es ist das
 Parfüm, das von Fräulein Felizitas Falk benutzt wird …
-Ein Parfüm aus Mexiko im übrigen … Chuala beißt es
-
-— Fräulein Felizitas erhielt es vor zwei Jahren von einen?
+Ein Parfüm aus Mexiko im übrigen … Chuala heißt es
+… Fräulein Felizitas erhielt es vor zwei Jahren von einem
 Freunde ihres Vaters geschenkt, der lange Zeit in Mexiko
 gelebt hat.« —
 
 »Hat Fräulein Falk Ihnen das erzählt, Herr
 Schmiedeck?«
-<@pagebreak/>
-DEGOSOSSSBDDSDESGEGSSO 16 Decke IDIES5OEI00O
 
+<@pagebreak/>
 Der Mann, der nicht Schmiedeck hieß, wurde verlegen
 …
-»Im … — ersparen Sie mir besser die Antwort …
-Jagte er dann, und sein Gesicht veränderte sich mit jedem
+
+»Hm … — ersparen Sie mir besser die Antwort …
+sagte er dann, und sein Gesicht veränderte sich mit jedem
 Wort immer mehr ins Tragische … Es war, als ob eine
+Wolke über sein frisches Antlitz hinzog …
 
-»Wolke über sein frisches Antlitz hinzog …
-
-»Sie waren also in Mexiko,« meinte »Harald da, und
+»Sie waren also in Mexiko,« meinte Harald da, und
 — dies war der erste Angriff auf des angeblichen Schofförs
 Geheimnisse. »Sie haben Fräulein Felizitas das Chuala
-sprechen?!, und Ihre Erinnerungen an Mexiko können nur
-umgedreht trauriger Art Sohn … Wäre es nicht besser, Sie rüsteten
-die Master?«
+geschenkt, und Ihre Erinnerungen an Mexiko können nur
+recht trauriger Art sein … Wäre es nicht besser, Sie lüfteten
+die Maske?«
 
 Aber der Gast wollte nicht. Er starrte in das Schlafzimmer
-Kugeln. Die Augen hatte er halb zugekniffen …
-»Sein Gesicht veränderte wiederum den Ausdruck,
+hinein. Die Augen hatte er halb zugekniffen …
+Sein Gesicht veränderte wiederum den Ausdruck,
 
 Harald meinte da: »Sie überlegen nun, ob vielleicht
-gar Fräulein Falk hier in einer Verkleidung sich€ Zutritt
+gar Fräulein Falk hier in einer Verkleidung sich Zutritt
 verschafft haben könnte … Weil doch ihr Parfüm zurück
-blieb … — Nun, wir haben im Garten. Spuren gefunden
+blieb … — Nun, wir haben im Garten Spuren gefunden
 — Spuren von Männerstiefeln …«
 
 Und der Schofför sagte kopfschüttelnd:
 
-»Nein, ’ sie hat sehr zierliche Füßchen … Auch winzige
+»Nein, sie hat sehr zierliche Füßchen … Auch winzige
 Hände … Nein, sie würde nie Derartiges tun … Weshalb
-denn auch?!« …
+denn auch?!«
 
-»Allerdings — weshalb?li« »ihr Harald ernst«
+»Allerdings — weshalb?!« nickte Harald ernst …
 
-Wir aber wurde immer klarer: dieser Mann war durch)
+Mir aber wurde immer klarer: dieser Mann war durch
 eine starke Leidenschaft an Felizitas Falk gekettet … Dieser
 Mann war auch von der jungen Dame bereits erhört Worden
-
-Wie hätte sie sonst das Chuala »von ihm angenommen?!
+… Wie hätte sie sonst das Chuala von ihm angenommen?!
 Und — er hatte doch in keiner Weise bestritten, daß das
 Parfüm von ihm stammte …! —
 
-Ein längeres Schweigen entstand. Feder von uns dreien
-hing seine n eigenen Gedanken nach) …
+Ein längeres Schweigen entstand. Jeder von uns dreien
+hing seine eigenen Gedanken nach …
 
-bis Harst sich erhob und zum Schnellstem ging
--Den Hörer vom Fernsprecher nahm und im Verzeichnis der
+bis Harst sich erhob und zum Schreibtisch ging …
+Den Hörer vom Fernsprecher nahm und im Verzeichnis der
 Teilnehmer blätterte …
 
 <@pagebreak/>
-SEe2005020203500050200 17 S&CGSGOSOODEDEGSOSO
-
 Unser Gast wandte ruckartig den Kopf, als Harald die
 Nummer 143, Wannsee, verlangte …
 
@@ -665,21 +657,21 @@ Herr Harst …?!«
 
 Harald meldete sich schon …
 
-»Hier Harald Harst … Wer?! — So, danke … »Also
-der Diener Gustav Lord … Ist der Herr Kommerzienrat
+»Hier Harald Harst … Wer?! — So, danke … Also
+der Diener Gustav Lorb … Ist der Herr Kommerzienrat
 zu Hause? Nein?! Verreist? — Vor zehn Minuten?!
 Wohin denn …?! — So — — nach Oberbayern? … — Danke
-—« Schluß …««
+— Schluß …«
 
 Und legte den Hörer weg …
 
-Zu uns dann: »Falk und, Frau verreisen … Merkwürdig
+Zu uns dann: »Falk und Frau verreisen … Merkwürdig
 ist das … Sehr merkwürdig …! — Schraut, wir
 werden sofort nach dem Anhalter Bahnhof fahren. Ein —
-Zug na; Münden geht um elf Uhr ab … Den erreichen
+Zug nach München geht um elf Uhr ab … Den erreichen
 wir noch … Bleiben Sie getrost hier, Herr … Schmiedeck.«
 
-Ein Auto trug uns durch den Berliner: Westen zum
+Ein Auto trug uns durch den Berliner Westen zum
 Zentrum …
 
 Harst war schweigsam. Ich überlegte mir vielerlei …
@@ -687,94 +679,91 @@ Ich war überzeugt, daß Falk und Frau vor uns das Weite
 suchten …
 
 Und als wir den Bahnsteig dann genau um drei Viertel
-elf betraten und am Tage entlanggingen, bemerkte Harald
+elf betraten und am D-Zuge entlanggingen, bemerkte Harald
 die Gesuchten in einem Abteil erster Klasse …
 
 Wir betraten den Wagen …
 
-Falls waren allein in dem Abteil … Als Harst die
+Falks waren allein in dem Abteil … Als Harst die
 Schiebetür öffnete, als der Kommerzienrat ihn erkannte,
 wechselte er die Farbe und warf seiner Gattin, die bedeutend
-jünger war und der man sofort die. Anusländerin ansah,
-einen — eigentümlichen Blick zu …
+jünger war und der man sofort die Ausländerin ansah,
+einen eigentümlichen Blick zu …
 
-Harst grüßte Bottichs … »Sie vergesse?, Herr Mann:er
-Armut … Ich. wollte Sie nur einiges fragen …«
+Harst grüßte höflich … »Sie verzeihen, Herr Kommerzienrat
+… Ich wollte Sie nur einiges fragen …«
 
 Falk erhob sich, stellte uns seiner Frau vor, schon wieder
-völlig gefaßt: …
+völlig gefaßt …
 
 Und Harald?! Der hatte es weit mehr auf Frau
 Falk abgesehen …
-<@pagebreak/>
-GEIDISEüSLOOIESOOE0OSO [schoben;2000020050020&nbsp;0202
 
+<@pagebreak/>
 »Gnädige Frau, Sie geben wohl zu, daß Sie es waren,
 die heute früh hinter den Büschen hervor Ihren Herrn
-Gemahl … zurüd&rief … Wir fanden dort Spuren — von
-Damenschuhen … nicht wahr, Sie leugnen nich’ … Wozu
-auch?!« ich
+Gemahl … zurückrief … Wir fanden dort Spuren — von
+Damenschuhen … nicht wahr, Sie leugnen nicht … Wozu
+auch?!«
 
-Der Kommerzienrat mischte sich) ein …«
+Der Kommerzienrat mischte sich ein …
 
 »Juana war’s in der Tat, Herr Harst … Sie wollte
 von der ganzen Diebstahlsgeschichte nichts mehr wissen …
-Sie ist überaus nervöo8 und … und …« Er bekam plötzlich?
-das Stottern
+Sie ist überaus nervös und … und …« Er bekam plötzlich
+das Stottern …
 
-»Gnädige Frau sind Merxikanerin?’« meinte Harald sehr
-liebenswürdig
+»Gnädige Frau sind Mexikanerin?« meinte Harald sehr
+liebenswürdig …
 
 »Ja …« erwiderte die junge reizvolle Frau ablehnend.
 »Justus hat im übrigen ganz recht: ich mag nichts mehr von
-der Dach hören, Herr Harst …! Die Kriminalpolizei wird
+der Sache hören, Herr Harst …! Die Kriminalpolizei wird
 die Einbrecher schon ermitteln, und …«
 
 »Gnädige Frau haben Verwandte Hier in Berlin?!« fiel
 Harst ihr unhöflich ins Wort … Es war keine Frage
-sondern mehr eine Behauptung …«
+sondern mehr eine Behauptung …
 
-Siehe da: Juana Falk verfärbte sich …«
+Siehe da: Juana Falk verfärbte sich …
 
-Ihre: dunklen Augen flammten auf …
+Ihre dunklen Augen flammten auf …
 
-»Wie kommen Sie denn darauf, Herr Harst 2?!« sagte
-sie noch kälter und feindseliger —. »Ich habe in ganz
+»Wie kommen Sie denn darauf, Herr Harst?!« sagte
+sie noch kälter und feindseliger … »Ich habe in ganz
 Europa keine Angehörigen …«
 
 Und mein alter Harald — mit äußerst respektvoller
-Verbeugung: “«
+Verbeugung:
 
-»by — entschuldigen Sie, gnädige Frau … Ich weiß
-nicht, wer 68 mir erzählt hat: ein Bruder von Ihnen soll
-nur hier in Berlin aushalten … —
+»Oh — entschuldigen Sie, gnädige Frau … Ich weiß
+nicht, wer es mir erzählt hat: ein Bruder von Ihnen soll
+sich hier in Berlin aufhalten …« —
 
-»Ich warf einen prüfenden ’BliE auf des Kommerzienrats
+Ich warf einen prüfenden Blick auf des Kommerzienrats
 Gesicht …
 
 Der Blick verlohnte … Falk achtete nicht auf mich …
 In seinen Augen lauerte die peinvollste ungewisse Angst …
-Diese Augen hingen an den seinen Zügen seines Weibes,
-das Grwindestens Zwanzig Jahre jünger als er sein mußte.
+Diese Augen hingen an den feinen Zügen seines Weibes,
+das mindestens zwanzig Jahre jünger als er sein mußte.
 
-Und der tote Schwindler Harst lächelte weltmännisch-ODODSSSSSSSSSSO
+Und der kecke Schwindler Harst lächelte weltmännisch-verbindlich
 <@pagebreak/>
-19 SOSCSSESBDSSSOIOSO
-
-verbindlich … Spürte in Frau Juanas Antlitz nach jeder
+… Spürte in Frau Juanas Antlitz nach jeder
 Veränderung …
 
 Deren Wangen von leichtem Bronzeton (ob sie wohl ein
 wenig indianisches Blut in den Adern hatte?!) spielten mit
 einem Male ins Grünlich-Blasse …
 
-… Ihr Bruder!! — Harst hatte da lediglich so etwas auf
+Ihr Bruder!! — Harst hatte da lediglich so etwas auf
 den Strauch geschlagen. Aber — um im Bilde zu bleiben —
-es hatte im Strauche verdächtig gerasdzelt!
+es hatte im Strauche verdächtig geraschelt!
 
 Und ich, Max Schraut, war nun felsenfest überzeugt,
 daß einer der beiden Orientalen unbedingt ein Mexikaner
-sei, eben tatsäachmiM ein Bruder der verführerischen Juana!
+sei, eben tatsächlich ein Bruder der verführerischen Juana!
 
 Dann verbeugte sich Harald schon von neuem, bat um
 Verzeihung, die Herrschaften hier belästigt zu haben …
@@ -784,110 +773,109 @@ Wir verschwanden …
 Ließen in dem Abteil erster Klasse zwei Menschen zurück,
 die ohne Frage jetzt einander nicht anzusehen wagten …
 
-Nacht im Gange des Wagens flüsterte Harald mir zu:
+Noch im Gange des Wagens flüsterte Harald mir zu:
 
 »Sie sind draußen auf dem Bahnsteig — jeder einzeln.«
 
-Und wieder dann: »Wir trennen« uns, mein Alter …
+Und wieder dann: »Wir trennen uns, mein Alter …
 Du nimmst den Chinesen aufs Korn, ich den Mexikaner …
 Wiedersehen …! Und … Vorsicht …! Der Chinese ist
 ein kleiner quittengelber Kerl mit einem pechschwarzen
 Strauchbesenschnurrbart …«
 
 Ich mußte lange suchen, bis ich meinen Chinamann fand.
-Der Kerl saß wahrhaftig mit im Zuge — NRVaudqderabteil
+Der Kerl saß wahrhaftig mit im Zuge — Raucherabteil
 dritter Klasse …
 
-Harst hatte im aus den Augen verloren …
+Harst hatte ich aus den Augen verloren …
 
-Aha — — der Chinese wollte also offenbar das Ehe«-
-paar getreulich begleiten …!! Gut — ich tat dasselbe …
-Ich4 hatte gerade noch Zeit, »mir eine Fahrkarte zu holen …
-bis Mündjen zunähst … Und ohne grau, ohne alles —
+Aha — — der Chinese wollte also offenbar das Ehepaar
+getreulich begleiten …!! Gut — ich tat dasselbe …!
+Ich hatte gerade noch Zeit, mir eine Fahrkarte zu holen …
+bis München zunächst … Und ohne Gepäck, ohne alles —
 mit nur noch sechzig Mark in der Tasche begann ich diese …
-Vergnügungstour, die … bis zu seinen Inselgestaden des
+Vergnügungstour, die … bis zu fernen Inselgestaden des
 Weltmeeres sich ausdehnen sollte.
 
-Der zur verließ den Anhalter Bahnhof …
+Der Zug verließ den Anhalter Bahnhof …
 
 Ich hatte im Abteil nebenan noch einen Platz erwischt,
 <@pagebreak/>
-DSDSSOOLSSDSSO 90 DS0ESSESE02020E0200
-
-warf also dem Chinamann dicht auf … der Pelle, wie der
+war also dem Chinamann dicht auf … der Pelle, wie der
 Berliner sagt … Und ich ließ ihn nicht aus den Augen …
-sehr bald merkte im: der Gelbe kannte mich nicht einmal
+sehr bald merkte ich: der Gelbe kannte mich nicht einmal
 von Ansehen! Ich war nun noch kühner … Ich wollte den
 anderen Burschen suchen, den Mexikaner … Ob der etwa
 in Berlin zurückgeblieben war?! Wohl kaum anzunehmen …
 
-Ich) schlenderte durch den Z1J …
+Ich schlenderte durch den Zug …
 
 Da versperrte mir ein Fahrkartenrevisor den Weg …
 Ein Mann mit Dienstmütze, Rotweinnase, Klemmer und
-struppigem Schnurrbart … ck
+struppigem Schnurrbart …
 
-»Goß in den Gepäckwagen „…« flüsterte der Beamte …
+»Geh in den Gepäckwagen …« flüsterte der Beamte …
 
-Ich riß den Mund vor Staunen auf, klappte ihn aber:
-Schnell wieder zu …
+Ich riß den Mund vor Staunen auf, klappte ihn aber
+schnell wieder zu …
 
-Harst — — »mein Freund Harald!!
+Harst — — mein Freund Harald!!
 
-Und — im 9 Ja …
+Und — ich ging …
 
-Freute mich« diebisch, daß auch er mit von der Partie
-»war
+Freute mich diebisch, daß auch er mit von der Partie
+war …
 
 Im Gepäckwagen, im Postraum, fragte mich der eine
-Beamte nach prüfendem Bis:
+Beamte nach prüfendem Blick:
 
-»Dein Schraut?« 1-7
+»Herr Schraut?«
 
-»Max Schraut u — he
+»Max Schraut …«
 
-Die anderen Beamten schauten mich an … Harsts nahm
-warf ein paar Strahlen auf meine Wenige.
+Die anderen Beamten schauten mich an … Harsts Ruhm
+warf ein paar Strahlen auf meine Wenigkeit …
 
-»Hier — ein Brief für Sie, Herr Schraut, —« und
-diese Dinge, die Herr Harst rote schnell aus dem »nächsten
-Friseurladen am! Anhalter Bahnhof holen sich … Er
+»Hier — ein Brief für Sie, Herr Schraut, — und
+diese Dinge, die Herr Harst noch schnell aus dem nächsten
+Friseurladen am Anhalter Bahnhof holen ließ …« — Er
+gab mir Brief, Perücke, Bart, Tube mit Klebstoff und zwei
+Schminkstifte …
 
-gab mir Brief, Perücke, Bart, Fuße mit Klebstoff und zwei
-… Schminkstifte …
-Ich öffnete den frisch zugeklebten Briefumschlag, (As den
+Ich öffnete den frisch zugeklebten Briefumschlag, las den
 Zettel — Bleistiftzeilen:
+
 »Verändere Dich Juanas wegen … Auch ihr Bruder
 im Zuge … Große Sache …!! H.« —
--. Große Sache! —« Woher in aller Welt wußte Harald
-das so plötzlich?! — Große Sache …!!.Das klang ver-beißungö8voll
-…’!t — …
-Und. =. ich veränderte mich …, Einer der Beamten hielt
-<@pagebreak/>
-OD2022000202020 91 0OSSOEBEODEGEO
 
+Große Sache!! — Woher in aller Welt wußte Harald
+das so plötzlich?! — Große Sache …!! Das klang verheißungsvoll
+…!!
+
+Und — ich veränderte mich … Einer der Beamten hielt
+<@pagebreak/>
 mir einen Taschenspiegel … Die anderen waren andächtige
 Zuschauer. Und — waren verblüfft, wie schnell ich alter
-früherer Schmierenkomödiant meine Visage total umknetcte.
+früherer Schmierenkomödiant meine Visage total umknetete.
 
-»Unglaublich!« meinte der Postassijtent … »Ich habe all
-das bisher für Romanhumbug gehalten …’«
+»Unglaublich!« meinte der Postassistent … »Ich habe all
+das bisher für Romanhumbug gehalten …!«
 
-Dann schlenderte im wieder durch) den Zug …
+Dann schlenderte ich wieder durch den Zug …
 
-Und in der Nähe des Abteils des Chinesen mußte ich.
-mich an einer Dame vorbeidrängen, die hier im Wagengang.:
-einen Roman las — eine ältere Dame mit schwarzen Schleier.
+Und in der Nähe des Abteils des Chinesen mußte ich
+mich an einer Dame vorbeidrängen, die hier im Wagengang
+einen Roman las — eine ältere Dame mit schwarzem Schleier.
 
-Zwei Schritte weiter stand ein greisenhafter Herr und-rauchte
-eine Zigarette …
+Zwei Schritte weiter stand ein greisenhafter Herr und
+rauchte eine Zigarette …
 
-Und — — dieser Fremde raste rasch) meine Hand, schob
-mir ein Zettelchen zwischen die Fingeär …
+Und — — dieser Fremde packte rasch meine Hand, schob
+mir ein Zettelchen zwischen die Finger …
 
 Teufel — war das etwa Harald in neuer Aufmachung?!
 
-Nein  — ausgeschlossen! — Und ich; nun  1Sleunigst in
+Nein  — ausgeschlossen! — Und ich nun schleunigst in
 einen Waschraum … Entfaltete den Zettel …
 
 Eine ganz unbekannte energische Schrift:
@@ -896,10 +884,10 @@ Eine ganz unbekannte energische Schrift:
 …! Die ganze Sache dreht sich um das Floß
 Mr. Harry Baldwins …«
 
-d. Kapitel.
-— Die Dingewerdenetwa38klarer …
+<h2>4. Kapitel.</h2>
+<h3>Die Dinge werden etwas klarer …</h3>
 
-soll der Geier — unsereiner ist doch wahrhaftig oft:
+Hol’s der Geier — unsereiner ist doch wahrhaftig an
 Überraschungen aller Art gewöhnt …!
 
 »Daß mir hier aber im Passus ein wildfremder alter«
@@ -1964,7 +1952,7 @@ Eine große Grotte, Mr. Harst, mit Wasser gefüllt … Und
 in dieser Grotte soll der Wikingerkönig Frithjof bei einem«
 Orkan Zuflucht gesucht haben, soll dort gefangene Feinde
 entlang?! haben … ohne Sage, Mr. Harst … Jedes Kind
-der Wunder kennt sie … Man hat sie ausgeshmüdt …
+der Wunder kennt sie … Man hat sie ausgeschmückt …
 Die Jahrhunderte haben allerlei hinzugedichtet …«
 
 Um uns her ist’s wie das Wehen einer sagenreichen Betr-gangenheit
@@ -1979,7 +1967,7 @@ Harald hat das Notizbuch jetzt aufgeschlagen …
 Da hat der Landsmann, mit müder linker Hand- etwas
 Hineingekritzelt — kaum lesbar …
 
-Harst buchstabtert, rät die Hälfte:
+Harst buchstabiert, rät die Hälfte:
 
 »Wer dies findet, Nachtlicht an Detektiv Harst, Bein,
 — Harald Harst … Dardero und andere hier auf Auge.
@@ -2076,7 +2064,7 @@ uns einen Wald von Klippen … Finden einen schmalen
 »Durchschlupf …
 
 Mach’- —« werden, daß nach rechts zu der dunkle Schatten
-»der Steilküste zurükweicht, biegen rum ein schmales hohes
+»der Steilküste zurückweicht, biegen rum ein schmales hohes
 -Vorgebirge … biegen! wieder nach rechts …
 
 Das Brandungsgeräusch verklingt … Wir sind in einer
@@ -2627,7 +2615,7 @@ Dann … nichts mehr …
 
 Das war kein Regen, der Bett aus den Wolken herab
 stürzte … Das waren die Schleusen des Himmels, aus denen’
-ununterbrochen Giceßbäche herabstürzten … Das war Inder
+ununterbrochen Gießbäche herabstürzten … Das war Inder
 Tat ein Wolkenbruch …
 
 Zum Glut hatten wir ein« Dach aus Steinen über uns
