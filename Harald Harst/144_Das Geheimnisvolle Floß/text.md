@@ -890,69 +890,65 @@ Mr. Harry Baldwins …«
 Hol’s der Geier — unsereiner ist doch wahrhaftig an
 Überraschungen aller Art gewöhnt …!
 
-»Daß mir hier aber im Passus ein wildfremder alter«
-Herr einen Zettel zusteckt, auf dem etwas von einem Floß.
+Daß mir hier aber im D-Zug ein wildfremder alter
+Herr einen Zettel zusteckt, auf dem etwas von einem Floß
 eines Mr. Harry Baldwin zu lesen war, — das ging denn
-doch über die sogenannte Hutschnur!’
+doch über die sogenannte Hutschnur!
 
 Ein Floß?! — Was Teufel hatte ein Floß mit den
-Vorgängen in der Wannsee-Villa zu schossen?! Man denke
-= ein Floß ich — und drei Einbrüche, zwei sogenannte Asiaten
+Vorgängen in der Wannsee-Villa zu schaffen?! Man denke
+— ein Floß — — und drei Einbrüche, zwei sogenannte Asiaten
 und der Schofför, der viel Geld hatte, der nicht Otto
-Heimischer hieß und der Felizitas Falk liebte, die Tochter
+Schmiedeck hieß und der Felizitas Falk liebte, die Tochter
 <@pagebreak/>
-GBSBSSDSBSSISOSGSIOO2E0 29 Tote SDSEDELISDSSSASDO
-
 aus der ersten Ehe des Kommerzienrats! Das war doch
 in der Tat so allerhand …!! Das war ein netter Knäuel
 von bunten Fäden!! Wie wir uns da herausfinden würden,
 mochte ein anderer wissen! Und — — dieser andere würde
-Harald sein …’!!
+Harald sein …!!
 
 Ich also raus aus dem Waschraum …
 
 Ich wollte zweierlei: erstens Harst den Zettel geben und
-ihm das Nötige zuflüstern; zweitens den alten Herrn erledigen.
+ihm das Nötige zuflüstern; zweitens den alten Herrn sprechen.
 Der mußte mir sagen, wer er war — unbedingt!
 
 Ich suchte Harald im Vorderteil des Zuges … Fand
 ihn auch … Er unterhielt sich mit einem Schaffner …
 
-Ich winkte … Er kam … Rasch den Zettel ihm sei
-
-reiht, rasch geraunt, was ihm die« Herkunft der Nachricht
+Ich winkte … Er kam … Rasch den Zettel ihm gereicht,
+rasch geraunt, was ihm die Herkunft der Nachricht
 erklären sollte …
+
 Er las … zerriß das Papier ;…
-…  “«Weinte leise: »Der alte Herr?!« — Grüße ihn von,
-mir … Es ist ein Kollege … Es ist der Gast, »es ist der
-Mann, der angeblich Schmiedes — Papiere kaufte …«
+
+Meinte leise: »Der alte Herr?!« — Grüße ihn von
+mir … Es ist ein Kollege … Es ist der Gast, es ist der
+Mann, der angeblich Schmiedecks — Papiere kaufte …«
 
 Donnerwetter — eine nette Überraschung! Der Schofför
 ein Detektiv!! Nun — ich zweifelte kaum mehr, daß es so
-… War …
+war …
 
-Und schlenderte davon — nach hinten zu »…
+Und schlenderte davon — nach hinten zu …
 
 Bemerkte plötzlich die Dame mit dem schwarzen Schleier,
 die vorhin im Gange den Roman gelesen … Es machte auf
 mich den Eindruck, als ob sie Harald und mich beobachtet
-Hatte. — Wer war das nun wieder?! Und ich nahm. mir
+Hatte. — Wer war das nun wieder?! Und ich nahm mir
 vor, auch sie fortan scharf zu beäugen …
 
 Zunächst aber der Kollege … Der sollte nun endlich die
 Maske lüften. Leider — — er war spurlos verduftet …
-Spurlos … Zweimal durchsuchte ich den Zug … Traf zwei
-mal Harald, der jedoch keinerlei Notiz von mir nahm, sah
-den Chinamann, sah nun auch den Mexikaner im Speisewagen«
-Stabjalousien … — tadellos angezogen … mit schwarzen Spitzbart
+Spurlos … Zweimal durchsuchte ich den Zug … Traf zweimal
+Harald, der jedoch keinerlei Notiz von mir nahm, sah
+den Chinamann, sah nun auch den Mexikaner im Speisewagen
+sitzen … — tadellos angezogen … mit schwarzem Spitzbart
 Bronzegesicht, Brille, — sehr harmlos … Und zweimal
-kann im auch an der grauhaarigen Verschleierten vorüber.
+kam ich auch an der grauhaarigen Verschleierten vorüber.
 
-1
 <@pagebreak/>
-SESGSEISEOBSESOE vv) Sees SESOESOSE0O?
-
-Sie trug einen langen Seidenmantel, war stand, satt Zierlich
+Sie trug einen langen Seidenmantel, war stand, fast Zierlich
 … beachtete mich scheinbar nicht …
 
 Der Kollege war wie weggeblasen. Natürlich hatte er
@@ -963,24 +959,24 @@ Weiter jagte der D-Zug …
 
 Nichts geschah … Ich war in den Gepäckwagen gegangen
 … Stunden verrannen. Auf jeder Station, wo der Zug
-hielt, gab im? genau acht, ob einer der Herrschaften etwa
+hielt, gab ich genau acht, ob einer der Herrschaften etwa
 ausstieg …
 
 Dann — — Bamberg … Vier Minuten Aufenthalt …
 
-Talks gingen auf dem »Bahnsteig auf und ab … Er
-sauste Zeitungen … Und Frau Juana — — ah ’— —
-sie ;… drückte sich heimlich … Und da … waren ja aus
+Falks gingen auf dem Bahnsteig auf und ab … Er
+kaufte Zeitungen … Und Frau Juana — — ah — —
+sie … drückte sich heimlich … Und da … waren ja auch
 die beiden sogenannten Asiaten … Ebenso die grauhaarige
-VBVerschleierte …
+Verschleierte …
 
-also — so ziemlich allgemeiner Aufs und Ausbruch …
-Da war auch) Harald mit der Rotweinnase und dem je
-besenschHnurrbart …!
+also — so ziemlich allgemeiner Auf- und Ausbruch …!
+Da war auch Harald mit der Rotweinnase und dem
+Strauchbesenschnurrbart …!
 
 Ich schleunigst gleichfalls hinaus …
 
-»Hier im Gedränge des Bahnsteigs (man denke Juni,
+Hier im Gedränge des Bahnsteigs (man denke Juni,
 Reisezeit!!) war es weiter nicht gefährlich, dicht hinter den
 vier Herrschaften zu bleiben …
 
@@ -988,35 +984,34 @@ Frau Juana lief fast …
 
 Ihr folgten einzeln die beiden farbigen Ehrenmänner
 China und Mexiko … Dann kam die Dame mit dem Schleier
-… lang ich — zwei Schritt neben mir Harald »…
+… Dann ich — zwei Schritt neben mir Harald …
 
-Hinaus zur Sperre … durch. das Bahnhofsgebäude …
+Hinaus zur Sperre … durch das Bahnhofsgebäude …
 
-Autos Fürsten davon …
+Autos töfften davon …
 
-Vorn Juana … —
+Vorn Juana …
 
 Eigentlich zum Lachen, diese Jagd … Man stelle sich
-or: sechs Autos, die eins dem andern nachjagten …
+vor: sechs Autos, die eins dem andern nachjagten …
 
-Tod) — das leise Lächeln über diese Hetze verging mir.
+Doch — das leise Lächeln über diese Hetze verging mir.
 
-Mein Esel von Schofför mußte ausgerechnet an ’einer
-StraßeneXe gegen die Bordsichwelle rasen … Ein Krach —
+Mein Esel von Schofför mußte ausgerechnet an einer
+Straßenecke gegen die Bordschwelle rasen … Ein Krach —
 ein Knall … Der eine Hinterreifen hatte die Puste verloren.
-<@pagebreak/>
-DSDSSSSOSDSDSDSO 51 SGSSSSSSSSSOSOS0ck
 
-Ich raus aus dem Benzinkarren … Steckte dem Dieb
-drei Mark zu … Nannte weiter, suchte Ersatz …
+<@pagebreak/>
+Ich raus aus dem Benzinkarren … Steckte dem Esel
+drei Mark zu … Rannte weiter, suchte Ersatz …
 
 Harald war mit seinem Auto weit voraus …
 
-Und — kein anderes in der Nahe …
+Und — kein anderes in der Nähe …
 
-Sold ein Pech …!!
+Solch ein Pech …!!
 
-Da — eine Stimme vom Fahrdamm +…
+Da — eine Stimme vom Fahrdamm …
 
 Da saß in einer Autotaxe ein blonder Herr mit Monokel
 …
@@ -1024,19 +1019,19 @@ Da saß in einer Autotaxe ein blonder Herr mit Monokel
 rief, winkte …
 
 Ich hinein zu ihm … Ahnte … Es stimmte: es war
-der Kollege, der nicht ScmiedeckX hieß …
+der Kollege, der nicht Schmiedeck hieß …
 
 »Gott sei Dank!« stöhnte ich keuchend …
 
 Weiter … weiter …
 
-Der Kollege Druck mir die Hand …
+Der Kollege drückt mir die Hand …
 
 »Ich wollte Sie nicht in der Patsche sitzen lassen, Herr
-Schraut …!’«
+Schraut …!«
 
 »Sehr nett von Ihnen! Sie sind unser Gast — der
-tollste Schofför, sind Kollege »… Harald behauptet es.8…«
+Falksche Schofför, sind Kollege … Harald behauptet es …«
 
 »Und hat recht, Herr Schraut … Eigentlich sollte ich
 ja mein Inkognito noch nicht gelüftet haben … Bin Ausgestellter
@@ -1048,34 +1043,33 @@ diesen Fall die goldenen Sporen verdienen …«
 »und ob — abgesägter Offizier … Tolle Geschichte, das
 alles … Werde nicht klug daraus … Sie etwa?!«
 
-»Wie sollte ich?! Fahrt dazu, wo Sie uns das Floß
+»Wie sollte ich?! Noch dazu, wo Sie uns das Floß
 Mr. Harry Baldwins servieren! Was ist’s mit dem Floß?!«
 
-»Keinen Schimmer … 2’
+»Keinen Schimmer …!«
 
-Ich) starre ihn an …
+Ich starre ihn an …
 
-»rann?! Keinen Schimmer?! Sie haben doch auf
+»Nanu?! Keinen Schimmer?! Sie haben doch auf
 dem Zettel …«
+
 »Stimmt, — aber: ich weiß zu wenig … Ist verflucht
-verzwickt, die Chose, Herr Schraut …
+verzwickt, die Chose, Herr Schraut …«
 
-»und die grauhaarige Verschleierte?! Etwa Kollegin?
+»und die grauhaarige Verschleierte?! Etwa Kollegin?!«
 
-— »Nein — niemals! Weiß nicht, wer es ist … —
+»Nein — niemals! Weiß nicht, wer es ist … —
 <@pagebreak/>
-2222222222020 55&nbsp;0020022000020
-
 Aha — — dort hält Harsts Auto … Da — — er winkt …
-— Schofför, ran zu den Wagen da vor uns … t«
+— Schofför, ran zu den Wagen da vor uns …!«
 
 Wir drei stehen auf dem Bürgersteig … Harst sagt
 leise: »Einer muß zu Fuß weiter …! Ich! Wartet hier.«
 
 Und geht hastig davon …
 
-Wir sind in einer breiten Straße … Ich) kenne Bamberg,
-nicht :… Der Kollege meint:
+Wir sind in einer breiten Straße … Ich kenne Bamberg,
+nicht … Der Kollege meint:
 
 »Übrigens heiße im Winfried von Rutar, Herr Schraut
 … Mecklenburger … Kleinere Ausgabe eines Odysseus …
@@ -1084,8 +1078,8 @@ nur noch nicht im Gefängnis … —
 
 Harst erschien nach fünf Minuten …
 
-Die Autos rollten weiter … Frau Juana hatte ledig
-kurz in einem Warenhaus sich »ausstaffiert: kleiner Handkoffer,
+Die Autos rollten weiter … Frau Juana hatte lediglich
+in einem Warenhaus sich ausstaffiert: kleiner Handkoffer,
 Schirm, Gummimantel … —
 
 Nun — ich kann hier unmöglich all die Einzelheiten der
@@ -1093,81 +1087,77 @@ weiteren Jagd wiedergeben …
 
 Jedenfalls: wir landeten nach anderthalb Tagen in Bremen!!
 Wir drei, Rutar und wir beide, hatten gemeinsam
-weiter operiert, hatten uns zweimal gründlich verwandelt unbekannten
-hoffen, daß die anderen Herrschaften nichts von uns
-unserer Nähe ahnten …
+weiter operiert, hatten uns zweimal gründlich verwandelt und
+konnten hoffen, daß die anderen Herrschaften nichts von unserer
+Nähe ahnten …
 
 Inzwischen hatte Winfried von Rutar uns auch über
 das Floß mancherlei berichtet, das heißt, so viel er davon
 wußte. Auf Kombinationen ließ er sich nicht ein. Er war
-dazu doch noch zu sehr Neuling. — Ich will, bevor unser-Abenteuer
-nun den Schauplatz gänzlich wechselt, des jungen
+dazu doch noch zu sehr Neuling. — Ich will, bevor unser
+Abenteuer nun den Schauplatz gänzlich wechselt, des jungen
 Kollegen Mitteilungen hier wiedergeben.
 
-Die Filiale des Detektivinsitut8 Pinkerton in Mexiko-hatte
-von der Holzgroßhandlung Baldwin u. Co… Inhaber
-Baron Baldwin, den Auftrags erhalten, sich; nach. den Vermögens«
-und sonstigen Verhältnissen he? Kommerzienrates
+Die Filiale des Detektivinstituts Pinkerton in Mexiko
+hatte von der Holzgroßhandlung Baldwin u. Co., Inhaber
+Harry Baldwin, den Auftrag erhalten, sich nach den Vermögens\-
+und sonstigen Verhältnissen des Kommerzienrates
 Justus Falk, Berlin, zu erkundigen, da Falk mit der genannten
 Firma vor anderthalb Fahren größere Lieferungsverträge über
-kalifornische Kiefern abgeschlossen hatte. Diese Kiefern wer-«
-den ihres Harzreichtums wegen zu besonderen Zwecken verehrte
+kalifornische Kiefern abgeschlossen hatte. Diese Kiefern werden
+ihres Harzreichtums wegen zu besonderen Zwecken verarbeitet
 <@pagebreak/>
-solchen 96. — DSSEEODEGSOCOOO
-
-arbeitet und stets in Form von Riesenflößen unter Fortgang
+und stets in Form von Riesenflößen unter Vorspann
 eines Schleppdampfers über den Ozean geschafft. Zwei
 Der für die Firma Falk bestimmten Flöße waren während
-der?jedenfalls verschollen. Das dritte hatte während eines
+der Überfahrt verschollen. Das dritte hatte während eines
 Sturmes die Verbindungstaue mit dem Schlepper kappen
 müssen und war dann gleichfalls verloren gegangen. — Mr.
-Harry Baldwin aber hatte als jmarkter Amerikaner darauf?
-hin Verdacht geschöpft. Dich Geschichte mit den drei Viesen-flößen
+Harry Baldwin aber hatte als smarter Amerikaner daraufhin
+Verdacht geschöpft. Die Geschichte mit den drei Riesenflößen
 kam ihm nicht ganz sauber vor. Er hatte große
 Verluste durch diese Lieferungen erlitten und vermutete, Falk
 müsse bei alledem die Hand im Spiele haben, da hohe Konventionalstrafen
 zu zahlen waren, wenn die Rundhölzer nicht
 zu einem bestimmten Termin in Hamburg eingetroffen waren.
 Diese Konventionalstrafen betrugen rund eine halbe Million
-Park, und das Geld war inzwischen dem Kommerzienrat
+Mark, und das Geld war inzwischen dem Kommerzienrat
 auch angewiesen worden. — Rutar wieder hatte sich dann in
-Berlin als Schofför bei Falk verdingt, weil er so am schnellsten.
-Juni Ziele zu kommen hoffte. Als Schofför verliebte er
-sich in Felizitas Falk, die im übrigen aus nur ein adop=«
-Viertes Kind war. — Was er dann beobachtete, ist bekannt«
+Berlin als Schofför bei Falk verdingt, weil er so am schnellsten
+zum Ziele zu kommen hoffte. Als Schofför verliebte er
+sich in Felizitas Falk, die im übrigen auch nur ein adoptiertes
+Kind war. — Was er dann beobachtete, ist bekannt:
 die beiden Asiaten, die mit allen Bewohnern der Wannsee-Villa
 heimlich sich am Gittertor trafen, mit einer Ausnahme:
-Felizitas Falk?! “«
+Felizitas Falk?!
 
-Das war’s, was der Landsmann und Kollege uns Bezahlte
+Das war’s, was der Landsmann und Kollege uns erzählte
 …
 
 Der Leser sieht: die ganzen Dinge hingen sozusagen
 noch in der Luft. Die drei Einbrüche und alles andere
 Hatten gleichsam … weder Anfang von Ende. Nirgends war
-von: einem der Vorgänge zum andern eine Brücke zu schlagen.
+von einem der Vorgänge zum andern eine Brücke zu schlagen.
 
 Hierüber unterhielten wir drei uns jetzt zum so und so
-vierten Male, als wir Frau Juana Falk nachgeschlichen
-Waren, die ein heute vormittag zum erster Male ’am Hafenkai
-Fremden mit ihrem Bruder und dem Chinesen ein stets-dickes:
-t gegeben hatte …
+vielten Male, als wir Frau Juana Falk nachgeschlichen
+waren, die sich heute vormittag zum erster Male am Hafenkai
+in Bremen mit ihrem Bruder und dem Chinesen ein Stelldichein
+gegeben hatte …
 
-»hier zwischen »Stapeln von Kisten und Fässern begrüßten
+Mitten zwischen Stapeln von Kisten und Fässern begrüßten
 sie sich …
 
 <@pagebreak/>
-22OSSDSSSSSSSSSO 77 SSSDELOSSESOSCSG
-
 Wir drei hatten einen sehr guten Beobachtungsplatz
 gefunden: oben auf der Plattform einer Dampferwinde,
-eines jener modernen. riesigen Türme, die jeder Last ge
-wachsen sind …
+eines jener modernen riesigen Türme, die jeder Last gewachsen
+sind …
 
-Wir erlebten aus achtzig Meter Entfernung diese Bes-grüßung
+Wir erlebten aus achtzig Meter Entfernung diese Begrüßung
 mit … Wir sahen, wie Frau Juana flehend vor
 dem Bruder die Hände erhob, wie sie zu weinen begann,
-wie der schwarzbärtige Sennor Gustavo Dardero (Iuanita-Ruppig
+wie der schwarzbärtige Sennor Gustavo Dardero (Juanita-Juana
 war eine geborene Dardero) unverschämt grinste, wie
 der kleine Chinamann noch stärker grinste …
 
@@ -1177,313 +1167,295 @@ umspannte …
 
 »Ich … ich bin blind gewesen bisher!« sagte er mit
 rauher Stimme. »Erzählten Sie nicht, Rutar, daß Falk und
-Tochter persönlich in Mexiko waren, daß Fall dort mit
+Tochter persönlich in Mexiko waren, daß Falk dort mit
 Baldwin … die Lieferungsverträge abschloß und daß er dort
-auch Juana Dardero kennenlernte …?! — Ja, so war’s »…
-Und — — wir tun jetzt einer Fernsten bisher unrecht …!
-Wir roten hin und her, suchen nun den Verbindungsgliedern
+auch Juana Dardero kennenlernte …?! — Ja, so war’s …!
+Und — — wir tun jetzt einer Ärmsten bitter unrecht …!
+Wir raten hin und her, suchen nach den Verbindungsgliedern
 der einzelnen Geschehnisse und … — Ah — —
 Juana … Juana …«
 
 Wir stierten hinüber …
 
-Frau wann Falk hatte eine winzige Pistole in der
+Frau Juana Falk hatte eine winzige Pistole in der
 Rechten … vor ihr lag Gustavo Dardero auf den Knien
-
-neben ihm im Schmutz und Staub des Hafendammes9
-der Chinese — — auf dem Bauche … Und beide setz)herein
+… neben ihm im Schmutz und Staub des Hafendammes
+der Chinese — — auf dem Bauche … Und beide schienen
 von entsetzlicher Angst gefoltert, beider Handbewegungen waren
-die von Leuten, die irgend etwas besessen … bis Sandberg
+die von Leuten, die irgend etwas beteuern … Bis Dardero
 die rechte Hand zum Schwur hochreckte … und in dieser
 Stellung eine Weile verharrte. — Dann wandte Frau Juana
-Sinn mit einer Geste unendlichen Ekels ab, schob die Waffe
-in die Tasche ihres leichten Gummimantel8 und Dehli?! davon.
+sich mit einer Geste unendlichen Ekels ab, schob die Waffe
+in die Tasche ihres leichten Gummimantels und schritt davon.
 
 Sie wohnte in einem Fremdenheim. Eine halbe Stunde
 <@pagebreak/>
-DISDEDESSESSOSSSODISOS0O 29 DSSSSGSSOSSDEGESISDSS
-
 drauf standen Harald und ich ihr gegenüber — jetzt als
 Harst und Schraut. Der Kollege Rutar war hinter Dardero
 und dem Chinesen her,
 
-Nr am IJ
-
 <h2>5. Kapitel.</h2>
 
-<h3>… Wiemanunsschnappte …</h3>
+<h3>Wie man uns schnappte …</h3>
 
-Wir hatten uns durch ein- Stubenmädchen bei Frau Falk
-anmelden lassen, und sie hatte uns: ohne weiteres angenommen.
+Wir hatten uns durch ein Stubenmädchen bei Frau Falk
+anmelden lassen, und sie hatte uns ohne weiteres angenommen.
 
 »Herr Harst,« begann sie ohne Umschweife in ihrem etwas
-
-gebrochenen Deutsch, »ich weiß jetzt, daß ’Sie und Ihr
-Gesund von Bamberg an hinter mir her sind. Sie befinden.
-sich jedoch im Irrtum, wenn-Sie, wie auch ich es tat, meinen
-Bruder und den Chinesen für die Einbrecher- halten …
-Leider glaubte ie) es, leider beging ich dann in meiner
+gebrochenen Deutsch, »ich weiß jetzt, daß Sie und Ihr
+Freund von Bamberg an hinter mir her sind. Sie befinden
+sich jedoch im Irrtum, wenn Sie, wie auch ich es tat, meinen
+Bruder und den Chinesen für die Einbrecher halten …
+Leider glaubte ich es, leider beging ich dann in meiner
 Verstörtheit die große …«
 
 Harald unterbrach sie … »Verzeihung, gnädige Frau.
+Schraut und ich haben sehr wenig Zeit … — Würden Sie
+mir einige Fragen beantworten …«
 
-Schraut und ich haben sei? wenig Zeit … — Würden Sie
-mir einige Fragen beantworten …“.
 »Gern — jetzt sehr gern, denn Gustavo, mein Bruder,
-
-hat mir beim hinkenden an unsere toten Eltern geschworen,
-laß weder er rosa der Chinese Singlu die Diebe gewesen
+hat mir beim Andenken an unsere toten Eltern geschworen,
+daß weder er noch der Chinese Singlu die Diebe gewesen
 sind … Und dieser Schwur ist keine Lüge … Mag mein
 Bruder auch noch so verkommen sein: ein Mexikaner schwört
-in dieser Form niemals spielt — Also — fragen Sie …«
+in dieser Form niemals falsch! — Also — fragen Sie …«
 
 »Wußten Sie, daß Ihr Bruder in Berlin weilte?«
 
-»Nein … Ich bin seit Jahren völlig mit ihm ’ausein-
-nebeneinander, Herr Harst …
+»Nein … Ich bin seit Jahren völlig mit ihm auseinander,
+Herr Harst …«
 
 »Er war aber in Mexiko, als Herr Falk nebst Tochter
 dort weilten?«
 
-»Ja … Er hat Falks jedoch nie kennengelernt …
+»Ja … Er hat Falks jedoch nie kennengelernt …«
 
 »Haben Sie eine Ahnung davon gehabt, daß Ihr Bruder
 häufig nachts vor der Villa hin und her schlenderte?«
 
-«
 <@pagebreak/>
-DE0DS020SSESDSS 997 OOLDEGDOEGOSOOS
-
 »Nein — wirklich nicht! Erst Ihre Fragen in unserem
 Wagenabteil auf dem Anhalter Bahnhof machten es mir
 zur Gewißheit, daß Gustavo die Hand im Spiel gehabt haben
 müßte. — Vermutet hatte ich es schon an jenem Morgen, als
-mein Mann zu Ihnen gefahren war … Ich hatte ihn des
-gleitet. Als er das Auto verlassen hatte — es hielt in
-Ihrer Straße weit vor Ihrem hatte, da — glaubte ich
+mein Mann zu Ihnen gefahren war … Ich hatte ihn begleitet.
+Als er das Auto verlassen hatte — es hielt in
+Ihrer Straße weit vor Ihrem Hause, da — glaubte ich
 meinen Bruder in der Ferne zu erkennen, und da bin ich
-Justus — nachgeeilt, habe ihn zurüsgerufen …« …
+Justus — nachgeeilt, habe ihn zurückgerufen …«
 
-Harst Kiste … »Danke, … gnädige Frau … Das wäre
-geklärt … — Und im D—Zuge sahen Sie Gustavo dann
-wieder?« in
+Harst nickte … »Danke, gnädige Frau … Das wäre
+geklärt … — Und im D-Zuge sahen Sie Gustavo dann
+wieder?«
 
-“« »Ja« 6 …
+»Ja …«
+
 »Und trennten sich heimlich von Ihrem Gatten, aus
-Siam darüber, daß Ihr Bruder der Dieb gewesen …«
+Scham darüber, daß Ihr Bruder der Dieb gewesen …«
 
-»Es ist so, Herr Harst … Bedenken Sie, daß Aussah
+»Es ist so, Herr Harst … Bedenken Sie, daß Justus
 mich in Mexiko gleichsam von der Straße auflas … Ich war
-bettelarm, hatte freilich eine gute ’Erziehung genossen …
+bettelarm, hatte freilich eine gute Erziehung genossen …
 Die Existenz meines Bruders hatte ich ihm verschwiegen.
 Durch Gustavos Auftauchen stürzte gleichsam alles um mich
 her zusammen … Ich bin auf gut Glück hier nach Bremen
 gereist … Ich wollte verschwinden — für immer …«
 
 »Und jetzt werden Sie Ihrem Gatten depeschieren, daß
-Sie zurükehren, gnädige Frau … Ich werde Ihnen ein
+Sie zurückkehren, gnädige Frau … Ich werde Ihnen ein
 paar Zeilen mitgeben. Falk wird meiner Menschenkenntnis
-trauen …«’
+trauen …«
 
-Juana reihte ihm die Hand …
+Juana reichte ihm die Hand …
 
-»Ich danke Ihnen,« sagte sie schlicht. »I4 liebe Justus
-trotz des großen UlterSuntersaiedes … Er wird mir verzeihen
-„…«
+»Ich danke Ihnen,« sagte sie schlicht. »Ich liebe Justus
+trotz des großen Altersunterschiedes … Er wird mir verzeihen
+…«
 
 Harst küßte respektvoll ihre Finger …
 
-»Ja, er wird verstehen und verzeihen … — Nr eins,
+»Ja, er wird verstehen und verzeihen … — Noch eins,
 gnädige Frau: wissen Sie irgend etwas über die drei
 Riesenflöße?«
 
-»sein „-.« Sie war sichtlich erstaunt und beunruhigt.
-<@pagebreak/>
-0000000020200\. 30&nbsp;2000000002002
+»Nein …« Sie war sichtlich erstaunt und beunruhigt.
 
+<@pagebreak/>
 »Was ist’s mit den Flößen, Herr Harst? Gibt es da
 etwa …«
 
-»Gnädige Frau, — es gibt da leider noch) andere Dinge,
+»Gnädige Frau, — es gibt da leider noch andere Dinge,
 die mit in diese Einbruchssache hineinspielen … Ich sehe
-in diesem Punkte noch nicht vollkommen stand
+in diesem Punkte noch nicht vollkommen klar …«
 
 »Ah — — die Einbrecher aber kennen Sie?«
 
-… Ja … ich kenne sie …« Er betonte dieses »sie«
+»… Ja … ich kenne sie …« Er betonte dieses »sie«
 ein wenig … »Unter Ihren Antworten war mir am wichtigsten,
-daß Sie nie am Parktor der Villa nachts ’mit
+daß Sie nie am Parktor der Villa nachts mit
 Gustavo zusammenkamen …«
 
-»Sie …!» …
+»Nie …!!«
 
 »Dann leben Sie wohl, gnädige Frau … Den Brief
-für Ihren Gatten schicke ich Ihnen in einer Stunde zu »…
-—« Alles Gute …
+für Ihren Gatten schicke ich Ihnen in einer Stunde zu …
+— Alles Gute …«
 
-Er drückte ihr kräftig die Hand … ck
+Er drückte ihr kräftig die Hand … —
 
-Und als wir draußen im Junisonnenschein … durch die
+Und als wir draußen im Junisonnenschein durch die
 Straßen unserem kleinen Hotel zuwanderten, blieb er vor
 einem großen Hause stehen, neben dessen Portal zu beiden
-Seiten flache Zeitungskästen- angebracht waren …
+Seiten flache Zeitungskästen angebracht waren …
 
-Deutete auf ein« Stelle der in dem Kasten ausgespannten
-
+Deutete auf eine Stelle der in dem Kasten ausgespannten
 Zeitung …:
-Geiffsnachrichten.
 
-Der seit fünf Tagen überfällige Dampfer Hektor der
-Reederei Bremeniia ist heute hier mit schwerer Havarie
-eingelaufen. Unweit der Fär=Oer»Inseln« rannte: der Dampfer
+<p class="centered"><em>Schiffsnachrichten.</em></p>
+
+> Der seit fünf Tagen überfällige Dampfer Hektor der
+Reederei Bremensia ist heute hier mit schwerer Havarie
+eingelaufen. Unweit der Fär-Oer-Inseln rannte der Dampfer
 im dichten Nebel gegen ein Floß von Rundhölzern und
-… Prüfte sich den Bug ein. Die Behauptung einiger Matrosen
+drückte sich den Bug ein. Die Behauptung einiger Matrosen
 des Hektor, die auf dem Floß Löwen bemerkt haben
 wollen, klingt sehr unglaubwürdig und unwahrscheinlich.
-Immerhin ist das auftauchen des Riesenfloßes in jener
-Meeresgegend insofern beachtenswert, als vor einiger ’ Zeit
-… aus Mexiko der Verlust von drei Flößen Lalifornisher Kiefern
+Immerhin ist das Auftauchen des Riesenfloßes in jener
+Meeresgegend insofern beachtenswert, als vor einiger Zeit
+aus Mexiko der Verlust von drei Flößen Kalifornischer Kiefern
 gemeldet wurde.
 
-— »Dies, meist« Alter,« »sagte Harald, als er. mich jetzt
+»Dies, mein Alter,« sagte Harald, als er mich jetzt
 weiterzog, »las ich schon morgens beim Frühstück und machte
 <@pagebreak/>
-OSSOGEAFISOSESO5IESESO zu DOESSIOISOSOSCOSCSOD
-
 mir meine besonderen Gedanken darüber. — Beeilen wir
-uns … Wir müssen sehen, was Kollege Rutar zu nach«.
-richten mitbringt …«
+uns … Wir müssen sehen, was Kollege Rutar an Nachrichten
+mitbringt …«
 
 Und — er schwieg sich nunmehr völlig aus … Ich konnte
-anfangen, was ich) wollte: es war nichts mehr aus ihm
+anfangen, was ich wollte: es war nichts mehr aus ihm
 herauszupressen …
 
 Im Hotel schrieb er an Falk. Ein Dienstmann brachte
 den Brief Frau Juana. Die reiste abends ab. Wir sahen
-sie erst nun Boden wieder.
+sie erst nach Wochen wieder.
 
-Gegen seit Uhr nachmittags erschien der Kollege —
-sehr aufgeregt «„…
+Gegen sechs Uhr nachmittags erschien der Kollege —
+sehr aufgeregt …
 
-»Dardero Nu der Chinese haben Dampferpläe nach.
-Bergen in. Norwegen genommen,« meldete er … »Es ist ein
+»Dardero und der Chinese haben Dampferplätze nach
+Bergen in Norwegen genommen,« meldete er … »Es ist ein
 Frachtdampfer … Er geht abends elf Uhr in See …«
 
-»Und Felizitas Fall?«
+»Und Felizitas Falk?«
 
-Rutar größte Harald verständnislos an …
+Rutar glotzte Harald verständnislos an …
 
-… »Wer?! Felizitas Falk?! -Was soll denn …
+»Wer?! Felizitas Falk?! Was soll denn …«
 
-»Oh — damit Sie es wissen, lieber Rutar: »die grau
-haarige Dame setz’ ’Felizitas Falk …
+»Oh — damit Sie es wissen, lieber Rutar: die grauhaarige
+Dame ist Felizitas Falk …«
 
 Der Kollege sank in den nächsten Sessel …
 
 »Unmöglich …! Sie scherzen, Herr Harst!«
 
-»Mit sollen ’-Dingen niemals! Es ist Fräulein Falk.«
+»Mit solchen Dingen niemals! Es ist Fräulein Falk.«
 
-… Rutar steht sich wie blöde über die Stirn …
+Rutar strich sich wie blöde über die Stirn …
 
-»Aber … aber … weshalb. und wie …« wie kommt
-Fräulein Falk. dazu, ein …«
+»Aber … aber … weshalb und wie … wie kommt
+Fräulein Falk dazu, ein …«
 
-»Davon später, lieber Nuütar … *« Übler — was mach!
+»Davon später, lieber Rutar … — Also — was macht
 sie jetzt?! Sie wohnt doch unter dem Namen Frau Müller
 in einem Pensionat hier ganz in der Nähe — genau gegenüber
 dem Hause, wo Dardero und Singlu ein Zimmer gemietet
 haben …«
 
-»Ich) habe nichts von ihr bereits, per Harst …« —
+»Ich habe nichts von ihr bemerkt, Herr Harst …« —
 Der gute Rutar war noch vollkommen verstört …
 
-»Dann werden Schraut und ich einmal zu ihr gehen +…
+»Dann werden Schraut und ich einmal zu ihr gehen …
 — Wo sind die beiden Halunken jetzt?«
 
-»In einer Kneipe … Wenigstens saßen sie dort noch«
-vor fünf. Minuten …«
-<@pagebreak/>
-DSSSSSSOSSSESOSO 29 SSSSSSSSDOSD
+»In einer Kneipe … Wenigstens saßen sie dort noch
+vor fünf Minuten …«
 
-»Dann rasch, mein Alter …! Flink ein wenig Mast
-Rade …
+<@pagebreak/>
+»Dann rasch, mein Alter …! Flink ein wenig Maskerade …«
 
 Der Kollege sagte da sehr bestimmt:
 
 »Ich komme mit — auf jeden Fall …! Ich …«
 
-»Sie werden hierbleiben, Rutar? Auf jeden Fall! Ode
-—» wir trennen uns! Ich pflege mir meine Dispositionen nicht
+»Sie werden hierbleiben, Rutar! Auf jeden Fall! Oder
+— wir trennen uns! Ich pflege mir meine Dispositionen nicht
 verderben zu lassen …!«
 
 Rutar wandte sich ärgerlich ab …
 
-Vier Minuten später eilten wir beide aus dem leichter
-denen Hotel in die nächste Querstraße, in das Fenstern
+Vier Minuten später eilten wir beide aus dem bescheidenen
+Hotel in die nächste Querstraße, in das Pensionat
 Liebemühl …
 
 Fragten nach Frau Therese Müller … Sprachen mit Frau
 Liebemühl, der Pensionsinhaberin, persönlich …
 
-»Bitte — eine Treppe höher, meine Herren …-. trat
+»Bitte — eine Treppe höher, meine Herren … Frau
 Müller ist unpäßlich und …«
 
 »Danke … Wir sind alte Bekannte …« —
 
-Wir klopften oben an. Das Zimmer hatte Flureingan
+Wir klopften oben an. Das Zimmer hatte Flureingang.
 
-» Ein schwaches Herein …
+Ein schwaches Herein …
 
-Harst öffnet … Die beiden Fenster sind verhängt 2!
+Harst öffnet … Die beiden Fenster sind verhängt …
 Halbdunkel … Auf dem Diwan links … — Frau Müller …
-Ich volle die Tür zu …
+
+Ich drücke die Tür zu …
 
 Leider …
 
-Da ist rechts vor dem Bett ein Wandschirm …
+Da ist rechts vor dem Bett ein Wandschirm … Und
 wir sind … zu sicher …
 
-Ein kleiner Kerl springt mich an, Brust mir etwa
+Ein kleiner Kerl springt mich an, drückt mir etwas
 Feuchtes auf Mund und Nase …
 
-Ein Taumel reißt mich in die Abgründe tiefster By
+Ein Taumel reißt mich in die Abgründe tiefster
 Bewußtlosigkeit …
 
-St falle um — wie ein Kloß …
+Ich falle um — wie ein Klotz …
 
-vom Diwan her ein schrilles Lachen-.ck.
+vom Diwan her ein schrilles Lachen …
 
-Das lebte, was ich höre … —
+Das letzte, was ich höre … —
 
-Und — = ein erst wer sich …
+Und — — ein Schrei weckt …
 
-Ein gellender Schrei, — nachdem der Stoß mit eine
-Besen nicht ins Gesicht getroffen hat …
+Ein gellender Schrei, — nachdem der Stoß mit einem
+Besen mich ins Gesicht getroffen hat …
 
-Gift Besen, mit dem ein Stubenmädchen Frau Qiebemühl
-
-X
-
+Ein Besen, mit dem ein Stubenmädchen Frau Liebemühl
 <@pagebreak/>
-Och2202800202002022 33 DIOOCODODOIODOS
-
-am anderen Morgen unter dem Diwan den Staub forthelfen
-will … ’«
+am anderen Morgen unter dem Diwan den Staub fortkehren
+will …
 
 Unter diesem Diwan liegen Harst und Schraut — seit
 dreizehn Stunden … ohne Besinnung …
 
-Das Mädchen hat uns Entdecker, rennt davon, erfüllt
+Das Mädchen hat uns entdeckt, rennt davon, erfüllt
 das ganze Haus mit ihrem Kreischen …
 
 Ich bin noch zu benommen, um mich regen zu können.
 
 Polizei erscheint. Man zerrt uns hervor … Man
-flößt uns Kognak ein … Ein Arzt bemüht sich? um die
-beiden von immer Halbtoten … Unsere Schlundmuskeln
+flößt uns Kognak ein … Ein Arzt bemüht sich um die
+beiden noch immer Halbtoten … Unsere Schlundmuskeln
 sind wie gelähmt … Keine Möglichkeit, ein Wort hervorzubringen
-… «-
+… —
 
 Erst abends in einer Privatklinik werden wir wieder
 durch Sauerstoffzufuhr langsam zu Menschen mit Muskeln
@@ -1491,38 +1463,33 @@ und Hirn …
 
 Ein Kriminalkommissar sitzt neben unseren Betten …
 
-Und als er nun endlich unsere Namen ’hört (wir hatten
-Keinerlei Papiere bei uns gehabt, … und man hatte uns für
+Und als er nun endlich unsere Namen hört (wir hatten
+keinerlei Papiere bei uns gehabt, … und man hatte uns für
 ganz gefährliche Gauner gehalten!), da — — verlangt Harald
--… nochmals Kognak
+… nochmals Kognak …
 
-Sagt zu dem Kommissar: …
+Sagt zu dem Kommissar:
 
 »Besorgen Sie uns ein schnelles seetüchtiges Fahrzeug
-
-… Und — fragen Sie gar nichts … Ich muß in einen
+… Und — fragen Sie gar nichts … Ich muß in einer
 Stunde unterwegs sein …«
 
-Der Beamte macht Einwendungen -… Er kennt Harald
+Der Beamte macht Einwendungen … Er kennt Harald
 nicht … Der steht taumelnd auf, geht zum Tisch und …
 führt die Kognakflasche zum Munde … —
 
 Dreißig Minuten später sind wir in dem kleinen Hotel
--… Rutar ist nicht mehr dort … Keiner weiß, wo er geblieben
-ist … Gestern abend hat man ihr telephonisch angerufen.
-Dann ist er auqgegqguiger: …
+… Rutar ist nicht mehr dort … Keiner weiß, wo er geblieben
+ist … Gestern abend hat man ihn telephonisch angerufen.
+Dann ist er ausgegangen …
 
-— Harst sagt zu mir: »Dardero hat ihn geschnappt —
+Harst sagt zu mir: »Dardero hat ihn geschnappt —
 wie uns!!« — —
 
 Und hiermit schließe im den ersten Teil des geheimnisvollen
 Floßes …
 
-der. 183,
-<@pagebreak/>
-DEGLISOSESODOOSDODSESO 3.4 00S0SSSOEOSBSO0ED0S
-
-“«
+<@pagebreak 34/>
 
 <h1>Die Frithjof-Höhle</h1>
 
