@@ -58,7 +58,7 @@ konnte aber nicht anders … Zweimal hat mich Ihre Wirtschafterin
 bereits abgewiesen. Haben Sie Nachsicht mit mir
 … Mein Name ist Falk — Kommerzienrat Falk …«
 
-»Harald hatte sich erhoben und war an das offene Verandafenster
+Harald hatte sich erhoben und war an das offene Verandafenster
 getreten …
 
 Bevor er jedoch noch etwas erwidern konnte, geschah etwas
@@ -157,7 +157,7 @@ war jemand da, der ist aber mit ’n Mal wieder umgekehrt,
 ohne Sie recht gesprochen zu haben …«
 
 »Ah so!!« Und Harald nickte mir zu … »Du begreifst,
-Mein: Alter …: Sache Falk …!!«
+mein Alter …: Sache Falk …!!«
 
 Frau Harst fragte rasch: »Du glaubst, daß der junge
 Mensch …«
@@ -183,7 +183,7 @@ Nichtstuer!«
 
 »Und — — das soll ich Dir glauben, Du Schwindler!!«
 lächelte Frau Auguste, die ja doch so stolz auf ihren Sohn
-War. »Ich kenne Dich doch, mein Junge … In Gedanken
+war. »Ich kenne Dich doch, mein Junge … In Gedanken
 beschäftigst Du Dich jetzt schon mit den drei Einbrüchen …«
 
 »Irrtum!!« schmunzelte Harald. »Ich sinne darüber nach,
@@ -208,9 +208,9 @@ bekannten Großindustriellen Kommerzienrat Justus Falk
 haben Einbrecher in der vergangenen Nacht einen Besuch
 abgestattet und verschiedene Kostbarkeiten gestohlen. Näheres
 über den Einbruch war nicht zu erfahren. Die
-Polizei hüllt sich in Schweigen.«
+Polizei hüllt sich in Schweigen.
 
-vom 10. Juni:
+Vom 10. Juni:
 
 > *Abermaliger Einbruch in eine Wannsee-Villa.*
 — Der Großindustrielle Kommerzienrat Justus
@@ -329,7 +329,7 @@ Wenn die Polizei mich findet, werde ich verhaftet …«
 
 Haralds Gesicht verrät selten eine bestimmte Empfindung.
 Dazu hat er sich zu gut in der Gewalt … Jetzt schien auch
-Er Überrascht …
+er überrascht …
 
 »Wie heißen Sie denn in Wirklichkeit, Herr Schmiedeck?«
 fragte er recht gedehnt …
@@ -389,15 +389,15 @@ Diener Gustav Lorb, der schon zwanzig Jahre bei Herrn
 Falk ist, ferner die Köchin, das Stubenmädchen und der
 Gärtner, letzterer im Pförtnerhäuschen. — Ich habe nun
 folgendes beobachtet, und zwar fingen die merkwürdigen
-nächtlichen Vorgänge vor etwa Zwei Monaten im April
+nächtlichen Vorgänge vor etwa zwei Monaten im April
 an … Mir fielen eines Abends gegen halb zwölf zwei
 Leute auf, die vor der Gitterpforte auf der Straße hin und
 her schlenderten. Die Waldstraße ist sehr still und vornehm,
 Herr Harst …«
 
-»Ihr kenne sie …«
+»Ich kenne sie …«
 
-»diese beiden Fremden waren ein Chinese und ein braunhäutiger
+»Diese beiden Fremden waren ein Chinese und ein braunhäutiger
 Mann, vielleicht ein Inder … Ich hatte mein Fernglas
 zu Hilfe genommen. Beide waren sehr gut angezogen.
 Dann kam von der Villa her — ich stand im Dunkeln am
@@ -476,12 +476,12 @@ aus. Ich verriet mich dadurch, daß ich unrichtige Angaben
 über die Schofförschule machte, die der wahre Otto Schmiedeck,
 von dem ich die Papiere gekauft habe, besucht hatte …«
 
-»und wo befindet sich dieser Schmiedeck jetzt?«
+»Und wo befindet sich dieser Schmiedeck jetzt?«
 
 »In Amerika, Herr Harst … Ich gab ihm …« —
 Er stockte … fügte hinzu: »Nein, ich will Sie nicht belügen:
 ich gab ihm fünfzehntausend Mark für die Papiere … Mit
-Dieser Summe konnte er sich drüben eine kleine Farm kaufen.«
+dieser Summe konnte er sich drüben eine kleine Farm kaufen.«
 
 Harald meinte erstaunt: »Wie — fünfzehntausend Mark?!
 Ja, woher hatten Sie denn das Geld?!«
@@ -552,7 +552,7 @@ der nicht Schmiedeck hieß, nicht mehr vorfanden, so ist dies
 ein verzeihlicher Irrtum. Nach allem Vorausgegangenen
 <@pagebreak/>
 hätte man immerhin auf die Vermutung kommen können, der
-Mann sei mittlerweile gleichfalls verduftet,
+Mann sei mittlerweile gleichfalls verduftet.
 
 Wir waren nicht etwa durch den Flur in das Arbeitszimmer
 zurückgekommen. Nein, wir hatten eine Leiter vom
@@ -566,7 +566,7 @@ ausgestatteten Raume, dessen Tür Harald nun aufriegelte,
 
 Ein Duft, der uns beiden fremd …
 
-es war ein aufdringliches und doch auch wieder sehr
+Es war ein aufdringliches und doch auch wieder sehr
 eigenartiges Parfüm, — etwa wie feinster chinesischer Tee,
 der nur mit Handschuhen gezupft wird, und dazu etwas wie
 … ja, wie Waldmeister und Harzgeruch …
@@ -604,7 +604,7 @@ Schmiedeck?«
 Der Mann, der nicht Schmiedeck hieß, wurde verlegen
 …
 
-»Hm … — ersparen Sie mir besser die Antwort …
+»Hm … — ersparen Sie mir besser die Antwort …«
 sagte er dann, und sein Gesicht veränderte sich mit jedem
 Wort immer mehr ins Tragische … Es war, als ob eine
 Wolke über sein frisches Antlitz hinzog …
@@ -618,7 +618,7 @@ die Maske?«
 
 Aber der Gast wollte nicht. Er starrte in das Schlafzimmer
 hinein. Die Augen hatte er halb zugekniffen …
-Sein Gesicht veränderte wiederum den Ausdruck,
+Sein Gesicht veränderte wiederum den Ausdruck.
 
 Harald meinte da: »Sie überlegen nun, ob vielleicht
 gar Fräulein Falk hier in einer Verkleidung sich Zutritt
@@ -636,7 +636,7 @@ denn auch?!«
 
 Mir aber wurde immer klarer: dieser Mann war durch
 eine starke Leidenschaft an Felizitas Falk gekettet … Dieser
-Mann war auch von der jungen Dame bereits erhört Worden
+Mann war auch von der jungen Dame bereits erhört worden
 … Wie hätte sie sonst das Chuala von ihm angenommen?!
 Und — er hatte doch in keiner Weise bestritten, daß das
 Parfüm von ihm stammte …! —
@@ -644,7 +644,7 @@ Parfüm von ihm stammte …! —
 Ein längeres Schweigen entstand. Jeder von uns dreien
 hing seine eigenen Gedanken nach …
 
-bis Harst sich erhob und zum Schreibtisch ging …
+Bis Harst sich erhob und zum Schreibtisch ging …
 Den Hörer vom Fernsprecher nahm und im Verzeichnis der
 Teilnehmer blätterte …
 
@@ -721,7 +721,7 @@ liebenswürdig …
 der Sache hören, Herr Harst …! Die Kriminalpolizei wird
 die Einbrecher schon ermitteln, und …«
 
-»Gnädige Frau haben Verwandte Hier in Berlin?!« fiel
+»Gnädige Frau haben Verwandte hier in Berlin?!« fiel
 Harst ihr unhöflich ins Wort … Es war keine Frage
 sondern mehr eine Behauptung …
 
@@ -922,7 +922,7 @@ erklären sollte …
 
 Er las … zerriß das Papier ;…
 
-Meinte leise: »Der alte Herr?!« — Grüße ihn von
+Meinte leise: »Der alte Herr?! — Grüße ihn von
 mir … Es ist ein Kollege … Es ist der Gast, es ist der
 Mann, der angeblich Schmiedecks — Papiere kaufte …«
 
@@ -935,7 +935,7 @@ Und schlenderte davon — nach hinten zu …
 Bemerkte plötzlich die Dame mit dem schwarzen Schleier,
 die vorhin im Gange den Roman gelesen … Es machte auf
 mich den Eindruck, als ob sie Harald und mich beobachtet
-Hatte. — Wer war das nun wieder?! Und ich nahm mir
+hatte. — Wer war das nun wieder?! Und ich nahm mir
 vor, auch sie fortan scharf zu beäugen …
 
 Zunächst aber der Kollege … Der sollte nun endlich die
@@ -948,7 +948,7 @@ Bronzegesicht, Brille, — sehr harmlos … Und zweimal
 kam ich auch an der grauhaarigen Verschleierten vorüber.
 
 <@pagebreak/>
-Sie trug einen langen Seidenmantel, war stand, fast Zierlich
+Sie trug einen langen Seidenmantel, war stand, fast zierlich
 … beachtete mich scheinbar nicht …
 
 Der Kollege war wie weggeblasen. Natürlich hatte er
@@ -970,7 +970,7 @@ sie … drückte sich heimlich … Und da … waren ja auch
 die beiden sogenannten Asiaten … Ebenso die grauhaarige
 Verschleierte …
 
-also — so ziemlich allgemeiner Auf- und Ausbruch …!
+Also — so ziemlich allgemeiner Auf- und Ausbruch …!
 Da war auch Harald mit der Rotweinnase und dem
 Strauchbesenschnurrbart …!
 
@@ -1016,7 +1016,7 @@ Da — eine Stimme vom Fahrdamm …
 Da saß in einer Autotaxe ein blonder Herr mit Monokel
 …
 
-rief, winkte …
+Rief, winkte …
 
 Ich hinein zu ihm … Ahnte … Es stimmte: es war
 der Kollege, der nicht Schmiedeck hieß …
@@ -1034,13 +1034,13 @@ Schraut …!«
 Falksche Schofför, sind Kollege … Harald behauptet es …«
 
 »Und hat recht, Herr Schraut … Eigentlich sollte ich
-ja mein Inkognito noch nicht gelüftet haben … Bin Ausgestellter
+ja mein Inkognito noch nicht gelüftet haben … Bin Angestellter
 der Pinkerton-Filiale in Mexiko … Wollte mir durch
 diesen Fall die goldenen Sporen verdienen …«
 
 »Landsmann sind Sie doch, Deutscher!« —
 
-»und ob — abgesägter Offizier … Tolle Geschichte, das
+»Und ob — abgesägter Offizier … Tolle Geschichte, das
 alles … Werde nicht klug daraus … Sie etwa?!«
 
 »Wie sollte ich?! Noch dazu, wo Sie uns das Floß
@@ -1056,7 +1056,7 @@ dem Zettel …«
 »Stimmt, — aber: ich weiß zu wenig … Ist verflucht
 verzwickt, die Chose, Herr Schraut …«
 
-»und die grauhaarige Verschleierte?! Etwa Kollegin?!«
+»Und die grauhaarige Verschleierte?! Etwa Kollegin?!«
 
 »Nein — niemals! Weiß nicht, wer es ist … —
 <@pagebreak/>
@@ -1074,7 +1074,7 @@ nicht … Der Kollege meint:
 »Übrigens heiße im Winfried von Rutar, Herr Schraut
 … Mecklenburger … Kleinere Ausgabe eines Odysseus …
 Habe mich überall in der Welt umhergetrieben — war alles,
-nur noch nicht im Gefängnis … —
+nur noch nicht im Gefängnis …« —
 
 Harst erschien nach fünf Minuten …
 
@@ -1109,7 +1109,7 @@ ihres Harzreichtums wegen zu besonderen Zwecken verarbeitet
 <@pagebreak/>
 und stets in Form von Riesenflößen unter Vorspann
 eines Schleppdampfers über den Ozean geschafft. Zwei
-Der für die Firma Falk bestimmten Flöße waren während
+der für die Firma Falk bestimmten Flöße waren während
 der Überfahrt verschollen. Das dritte hatte während eines
 Sturmes die Verbindungstaue mit dem Schlepper kappen
 müssen und war dann gleichfalls verloren gegangen. — Mr.
@@ -1136,7 +1136,7 @@ Das war’s, was der Landsmann und Kollege uns erzählte
 
 Der Leser sieht: die ganzen Dinge hingen sozusagen
 noch in der Luft. Die drei Einbrüche und alles andere
-Hatten gleichsam … weder Anfang von Ende. Nirgends war
+hatten gleichsam … weder Anfang noch Ende. Nirgends war
 von einem der Vorgänge zum andern eine Brücke zu schlagen.
 
 Hierüber unterhielten wir drei uns jetzt zum so und so
@@ -1192,7 +1192,7 @@ Sie wohnte in einem Fremdenheim. Eine halbe Stunde
 <@pagebreak/>
 drauf standen Harald und ich ihr gegenüber — jetzt als
 Harst und Schraut. Der Kollege Rutar war hinter Dardero
-und dem Chinesen her,
+und dem Chinesen her.
 
 <h2>5. Kapitel.</h2>
 
@@ -1429,7 +1429,7 @@ Bewußtlosigkeit …
 
 Ich falle um — wie ein Klotz …
 
-vom Diwan her ein schrilles Lachen …
+Vom Diwan her ein schrilles Lachen …
 
 Das letzte, was ich höre … —
 
@@ -1547,7 +1547,7 @@ geerbt haben?! Falksches Blut floß nicht in ihren Adern
 … Welches Blut sonst wohl?! —
 
 Jedenfalls — wir blieben … blieben in Bremen bis
-zum nächsten Mittag. schliefen uns erst einmal gründlich
+zum nächsten Mittag. Schliefen uns erst einmal gründlich
 aus …
 
 Und morgens acht Uhr gingen wir an die Arbeit —
@@ -1679,7 +1679,7 @@ Sollerby, bei dem wir in Thorshavn, dem Hauptort der
 weit zerstreuten Inselgruppe, Erkundigungen eingezogen hatten,
 nichts von unseren wahren Absichten mitgeteilt, hatten so
 getan, als ob wir nach Schiffbrüchigen suchten. Und da
-Hatte der alte Fischer gemeint, wenn sich irgendwo auf den
+hatte der alte Fischer gemeint, wenn sich irgendwo auf den
 Fär-Oer wirklich Schiffbrüchige befinden sollten, dann könnte
 es nur auf Göstöla sein, weil diese Insel unbewohnt und
 auch meilenweit von der übrigen Gruppe entfernt sei. —
@@ -1699,7 +1699,7 @@ Unser Kutter lag jetzt also in der großen Bucht vertäut
 … Es war ein Uhr morgens, als Harald Sollerby und
 Learat nach vorn in ihre kleine Kabine schickte …
 
-»Schlafen Sie sich aus,« meinte er … Bei diesem Nebel
+»Schlafen Sie sich aus,« meinte er … »Bei diesem Nebel
 Können wir doch nichts unternehmen …«
 
 Unsere Gefährten ließen sich das nicht zweimal sagen
@@ -1820,7 +1820,7 @@ die Gestalt eines Mannes …
 dem armseligen Menschlein …
 
 <@pagebreak/>
-»Gott sei Dank …!» stöhnt der Landsmann … Sein
+»Gott sei Dank …!« stöhnt der Landsmann … Sein
 Oberkörper sinkt zurück … Er ist ohnmächtig geworden, —
 — Wohltat für ihn, der hier mit zerschmetterten Gliedern
 liegt …
@@ -1830,10 +1830,10 @@ liegt …
 
 Harst untersucht ihn. Das linke Bein ist zweimal
 gebrochen, der rechte Arm einmal. Gesicht und Hals sind
-mit einer Blutkruste bedeckt …« …
+mit einer Blutkruste bedeckt …
 
 Harald klettert zum Boote hinab. Zum Glück haben
-wir für alle Fälle zwei Taue mitgenommen,
+wir für alle Fälle zwei Taue mitgenommen.
 
 So können wir Rutar denn vorsichtig von der Spitze
 des Felsens hinablassen — ins Boot legen …
@@ -1918,7 +1918,7 @@ Das Weitere war nicht mehr zu entziffern …
 
 Der alte Sollerby hat gespannt zugehört … nickt …
 
-»vor drei Tagen herrschte hier ein wütender Orkan —
+»Vor drei Tagen herrschte hier ein wütender Orkan —
 Nordsturm, Mr. Harst … Dann steigt die See um sechs
 bis sieben Meter. Es ist schon möglich, daß der Herr von
 der Brandung auf den Felsblock geschleudert wurde … —
@@ -2110,7 +2110,7 @@ Und behielt doch die Clement schußbereit …
 »Fräulein Falk?« fragte er leise …
 
 »Felizitas Falk …« erwiderte das Mädchen ebenso leise.
-»Wer sind Sie?« — Deutsche — das höre ich …! fliehen
+»Wer sind Sie? — Deutsche — das höre ich …! Fliehen
 Sie …! Was wollen Sie hier?! — Wie sind Sie hierher
 gelangt?!«
 
@@ -2235,7 +2235,7 @@ Ich schaute zur Seite … Mich widerte diese Heuchelei
 derart an, daß ich lieber den prachtvollen Kampf der Sonne
 gegen die Nebelmassen beobachtete …
 
-auch der Wind frischte immer mehr auf … Einzelne
+Auch der Wind frischte immer mehr auf … Einzelne
 Windstöße rissen klaffende Lücken in die feuchten Vorhänge.
 Aber diese Risse schlossen sich sofort wieder, und nur für
 Sekunden sah ich den blauen, sonndurchleuchteten Himmel.
@@ -2250,7 +2250,7 @@ Ich fiel ins Wasser …
 Packte den Bootsrand … Ahnte, daß es hier um Sein
 oder Nichtsein ging …
 
-mit den Füßen bearbeitete das Weib meine krallenden
+Mit den Füßen bearbeitete das Weib meine krallenden
 Finger … Das Boot neigte sich, schwankte …
 
 Felizitas Falk verlor das Gleichgewicht … Die gefesselten
@@ -2301,7 +2301,7 @@ es nichts als himmelhohe Wände, nirgends eine Seitenbucht.«
 
 Die Sonne lachte auf uns herab … Und doch fror ich.
 
-»aber — die Baumsperre!!« meinte ich nur …
+»Aber — die Baumsperre!!« meinte ich nur …
 
 Er hob die Schultern …
 
@@ -2315,7 +2315,7 @@ der Bucht gleichsam abgrenzte …
 
 Und ruderte abermals herbei, meinte mit einer kurzen
 Handbewegung: »es war ein Irrtum … Die Balkensperre
-hat keinerlei Einrichtung, die Warnungssignale geben könnte,«
+hat keinerlei Einrichtung, die Warnungssignale geben könnte.«
 
 Ich begriff ihn nicht recht …
 
@@ -2327,7 +2327,7 @@ alles hören …
 Und er dann — in derselben Weise:
 
 »Wir können das Mädchen nicht mitnehmen … Wir
-müssen schon das Boot Über die Riffe tragen … Am besten
+müssen schon das Boot über die Riffe tragen … Am besten
 ist, wir binden ihr noch die Füße und legen sie in den
 Nachen. Sie wird schon wieder zu sich kommen. Den Nachen
 binden wir an die Sperre fest. Nachher holen wir sie mit
@@ -2381,7 +2381,7 @@ hinein, Steine, von denen keiner unter fünf Zentner wog.
 Hier hatten wir ein Versteck, wie es besser nicht sein
 konnte …
 
-von hier aus — denn der Hügel von Granitstücken
+Von hier aus — denn der Hügel von Granitstücken
 lag dicht am Rande der Buchtwand — sahen wir vierzig
 Meter schräg unter uns den Nachen und … Felizitas
 Falk …
@@ -2444,7 +2444,7 @@ Umrisse seines nackten Körpers waren im Wasser als heller
 Fleck sichtbar … Im Munde hatte der Schlitzäugige ein langes
 leicht gekrümmtes Messer.
 
-so hielt er auf den an der Balkensperre festgebundenen
+So hielt er auf den an der Balkensperre festgebundenen
 Nachen zu …
 
 Jedenfalls ein Bild, das in dieser düsteren Umgebung
@@ -2681,13 +2681,13 @@ Sollerby stoppt den Motor.
 
 Immer toller wird der Orkan …
 
-Wir beobachten den Schlepper .. Der scheint die Taue
+Wir beobachten den Schlepper … Der scheint die Taue
 gekappt zu haben … Scheint flüchten zu wollen …
 
 Der Mann mit den Löwen reißt plötzlich die Waffe
 hoch …
 
-Schießt … nicht auf uns — — auf den kleinen Dampfer
+Schießt … nicht auf uns — — auf den kleinen Dampfer.
 
 Muß ein Repetiergewehr sein, das er da an der Schulter
 hat …
@@ -2751,7 +2751,7 @@ Wir verstehen, was er meint: der Orkan treibt das
 Floß nordwärts, und dort fängt die hohe Insel die Hauptwucht
 der Sturmstöße ab …
 
-noch eine Viertelstunde …
+Noch eine Viertelstunde …
 
 Dann wirft der Mann uns eine Stahltrosse zu …
 
@@ -2860,7 +2860,7 @@ der Höhle …«
 
 »Und auch die beiden Flöße waren in der Grotte?«
 
-»nicht mehr als Flöße, Herr Harst … Die Langhölzer
+»Nicht mehr als Flöße, Herr Harst … Die Langhölzer
 waren bereits zu Grubenholz zerschnitten, außerdem zum
 Teil für das Tor der Höhle verwendet worden … Zwei
 von Darderos Kumpanen und ich mußten in der Höhle
@@ -2895,7 +2895,7 @@ Gliedern … hatte den Kopf der Wand zugekehrt …
 
 Armer Landsmann …! —
 
-Der Bändiger sprach weiter
+Der Bändiger sprach weiter.
 
 »Dardero hat große Mengen Holz mit Hilfe des Dampfers
 nach England verkauft … Teilweise wurde das Grubenholz
@@ -2948,9 +2948,9 @@ Riffreihen ruderten, meinte der stille Schotte Learat bedächtig:
 entdeckt habe … trotz des Nebels …«
 
 <@pagebreak/>
-»Allerdings …
+»Allerdings …«
 
-»Nun — — die Felswände der Bucht waren überall ziemlich
+Nun — — die Felswände der Bucht waren überall ziemlich
 glatt … Nur an der einen Stelle sah man die Risse
 … Als ich mit dem Nachen, als Felizitas zur Not verkleidet,
 dort entlang ruderte, kratzte ich mit dem Fingernagel
@@ -2962,7 +2962,7 @@ Da wußte ich Bescheid …
 
 Learat nickte …
 
-»Freilich — Ölfarbe …!!« — Und sein Arg hing an
+»Freilich — Ölfarbe …!!« — Und sein Blick hing an
 Haralds Gesicht … »Ölfarbe — ja, — so mußten Sie
 wohl darauf kommen, daß … es künstliche Felswand war …
 Ich … ich möchte gerade Ihnen, Herr Harst, der Sie doch
@@ -2983,7 +2983,7 @@ Das eine dieser Telegramme lautete:
 
 > Tochter tödlich verunglückt. Brief folgt. — Harst.
 
-das zweite an die Firma Baldwin:
+Das zweite an die Firma Baldwin:
 
 > Drittes Floß geborgen … Wird nach Thorshavn, Fär-Oer,
 geschleppt. Dispositionen dorthin an Fischer Sollerby.
