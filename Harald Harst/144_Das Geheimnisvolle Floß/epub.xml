@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">7e5dec6e-7f84-4ce2-98d5-09eb7366ab99</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnisvolle Floß</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">144</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das geheimnisvolle Floß
+
+Frau Auguste Harst, Haralds Mutter und meine mütterliche Freundin, hatte soeben den frisch gebackenen Sonntagskuchen angeschnitten, als ich drüben in unserem großen Gemüsegarten einen gutgekleideten Herrn bemerkte, der den Hauptweg entlang auf das Haus zukam und uns bereits gesehen haben mußte.
+
+»Eine Frechheit!« meinte ich. »Er ist über den Zaun geklettert. Die Hinterpforte ist verschlossen.«
+
+Frau Harst und Harald schauten hin.
+
+Der Herr hatte es eilig, grüßte schon von weitem, jagte unsere Hühner und Tauben auseinander und blieb dann unterhalb der Veranda neben der Treppe stehen, grüßte wieder und zeigte uns sein hageres, blasses Gesicht, das deutlich die Spuren starker seelischer Erregungen trug …
+
+»Verzeihen Sie, Herr Harst,« sagte er atemlos … »Ich konnte aber nicht anders … Zweimal hat mich Ihre Wirtschafterin bereits abgewiesen. Haben Sie Nachsicht mit mir … Mein Name ist Falk — Kommerzienrat Falk …«
+
+Die Frithjof-Höhle
+
+Es war eine neblige, kalte Nacht, als ein sehr großer Motorkutter, der mit halber Kraft die Riffe der kleinen Fär-Oer-Insel Göstöla passierte, von der Spitze eines mächtigen, im Nebel wie ein kratzendes Gespenst sich hochreckenden Felsblockes angerufen wurde …
+
+An Deck des Kutters befanden sich zwei Herren mit Seglermützen und dicken gefütterten Sportjacken.
+
+Als die Männerstimme aus dem trüben feuchten Dunst sich geisterhaft hallend meldete, hatte der schlanke Herr am Steuer gerade durch den Maschinentelegraphen nach unten Befehl gegeben, die Motoren des Kutters abzustellen …
+
+»Hallo — — Hallo …!« kam die Stimme zum zweiten Male …
+
+Und dann — — folgte ein Schrei — — überlaut … überlaut …
+
+Jäh abbrechend …
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (144) Das Geheimnisvolle Floß.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1925</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
