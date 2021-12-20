@@ -577,7 +577,7 @@ zugenickt …
 Setzte sich nun dem angeblichen Schofför wieder gegenüber
 und schaute ihn an …
 
-Der lächelte noch immer wie verträumt. Sein sympatisches
+Der lächelte noch immer wie verträumt. Sein sympathisches
 Gesicht bekam dadurch einen ausgesprochenen Zug
 von Schwärmerei — man könnte sagen: Verliebtheit!
 
@@ -2098,235 +2098,229 @@ Aufrecht darin ein Weib … ein einzelnes Ruder handhabend
 <h2>3. Kapitel.</h2>
 <h3>Die Langholzsperre.</h3>
 
-Lautlos kam« der ’Nachhen heran … Man hörte das
-Wasser leise sjhaumen, wenn das Weib. das. Ruder eintauchte
+Lautlos kam der Nachen heran … Man hörte das
+Wasser leise schäumen, wenn das Weib das Ruder eintauchte
 und langsam durchzog …
 
-Harald bückte ein, bekam die Spitze des Bretterkahns
-zu Nachen …
+Harald bückte sich, bekam die Spitze des Bretterkahns
+zu packen …
 
 Und behielt doch die Clement schußbereit …
 
-»Fräulein Falk?« fragte er. leise …
+»Fräulein Falk?« fragte er leise …
 
-»Felizitas Falk …„« erwiderte das Mädchen ebenso leise.
-»Wer sind Sie?« — Deutsche — das höre im …! fliehen
+»Felizitas Falk …« erwiderte das Mädchen ebenso leise.
+»Wer sind Sie?« — Deutsche — das höre ich …! fliehen
 Sie …! Was wollen Sie hier?! — Wie sind Sie hierher
-gelangt?!« …
+gelangt?!«
 
 Ihre Fragen waren berechtigt … Die grauen Schleier
-»dürften uns: wie in Rauchwolken …«
-<@pagebreak/>
-2SOSOSSGSOEEGESODSEE (17 Dir dies Expreß
+hüllten uns wie in Rauchwolken …
 
-Dann trat Felizitas Falk in ihrem schmalen Katzen
+<@pagebreak/>
+Dann trat Felizitas Falk in ihrem schmalen Nachen
 zwei Schritt nach vorn. Gleichzeitig hatte Harst sich wieder
-ausgerichtet …
+aufgerichtet …
 
 Und — — — griff abermals zu … Brutal gegenüber einem
 Weibe … Notwendig in dieser Lage …
 
-Ein halb Besitzer Ausruf …:
+Ein halb erstickter Ausruf …:
 
 »Harst …!«
 
-Dann war sie wehrlos, rang naß Atem, wurde emporgehoben
+Dann war sie wehrlos, rang nach Atem, wurde emporgehoben
 … Fiel in unser Boot …
 
-Ich nahm sie in Empfang, hatte schon mein Taschentuche
+Ich nahm sie in Empfang, hatte schon mein Taschentuch
 zum Knebel geschlungen …
 
-Der Schrei lähmte das Weib … Für uns zum Glü
+Der Schrei lähmte das Weib … Für uns zum Glück
 … Mit uns hatte sie nicht gerechnet … Sie war gefesselt,
 geknebelt, bevor sie noch recht wußte, was geschah.
 
-Harald leerte den harten Griff um den zarten Hals.
+Harald lockerte den harten Griff um den zarten Hals.
 
-»Warte hier!« befahl er. »Ich werde den Nahen besteigen
+»Warte hier!« befahl er. »Ich werde den Nachen besteigen
 … Und …«
 
-Ihm. schien etwas anderes einzufallen … Er beugte
-ein zu unserer Gefangenen hinunter … Flüsterte drohend:
+Ihm schien etwas anderes einzufallen … Er beugte
+sich zu unserer Gefangenen hinunter … Flüsterte drohend:
 
-»Wir werden keinerlei Rücksichten nehmen, ’Fräulein Falk
+»Wir werden keinerlei Rücksichten nehmen, Fräulein Falk
 … Ich kenne Sie zur Genüge … Sie waren als Spionin
-bei mir, Sie haben in der Villa Ihres Adoptivvaters nacht«-
-lich Maskenscherze getrieben … Und Ihr Hohnlachen im
+bei mir, Sie haben in der Villa Ihres Adoptivvaters nächtlich
+Maskenscherze getrieben … Und Ihr Hohnlachen im
 Pensionat in Bremen vergesse ich ebenfalls nicht …
 Sie wissen jetzt, woran Sie sind …« — Er wollte noch
 mehr hinzufügen …
 
-Ein leises, wehes Schluchzen li:ß ihn verstummen …
+Ein leises, wehes Schluchzen ließ ihn verstummen …
 
 Felizitas weinte … Felizitas trug noch Mantel, Perücke
 und Reisehut der grauhaarigen älteren Dame … Und ein ganz
-seiner Duft nach Chuala-Parfüm entströmte der zusammengesunkenen
+feiner Duft nach Chuala-Parfüm entströmte der zusammengesunkenen
 Gestalt …
 
-Sie weinte … es war wie das klägliche Wimmevxn
-eines bei einer Witternd ertappten Kindes …
+Sie weinte … es war wie das klägliche Wimmern
+eines bei einer Missetat ertappten Kindes …
 
 Harst blieb in seiner gebückten Haltung …
 
-»Tränen können Lügen sein,« meinte er kalt, »was ich
-bisher von Ihnen erfahren, läßt die Wahrscheinlichkeit voll-’d0&nbsp;0000000002802
+»Tränen können Lügen sein,« meinte er kalt. »Was ich
+bisher von Ihnen erfahren, läßt die Wahrscheinlichkeit vollendeter
 <@pagebreak/>
-48&nbsp;2000S0S0SES0020022O
+Heuchelei zur Gewißheit werden …! Sparen Sie
+sich die Komödie …!!«
 
-vollendeter Heuchelei zur Gewißheit werden …! Sparen Sie
-sich die Komödie …!!» …
-
-Und noch schärfer: »ziehen Sie auf!«
+Und noch schärfer: »Stehen Sie auf!«
 
 Das Wimmern versiegte …
 
-Das Mädchen- erhob sich matt …
+Das Mädchen erhob sich matt …
 
-»nahe ihr die Hände frei,« sagte Harald. »Aber sei
-vorsichtig … Ich muß den Mantel haben …
+»Mache ihr die Hände frei,« sagte Harald. »Aber sei
+vorsichtig … Ich muß den Mantel haben …«
 
 Seine Hand zog bereits die lange Nadel aus dem schlichten,
 von einem dunklen Schleier umschlungenen Lederhut …
 
-Felizitas Falk miterlebte sich nicht. Ich sah ihr Gesicht
+Felizitas Falk widersetzte sich nicht. Ich sah ihr Gesicht
 aus nächster Nähe … Und doch war’s zu dunkel. Die
-Züge verschwommen … —
+Züge verschwammen … —
 
 Ich hielt ihre Handgelenke … Als Harst den Mantel über
 dem Arm hatte, knotete ich den Strick wieder zusammen.
-Felizitas ließ gibt auf die Ruderbank- sinken. Sie war
-wehrlos, ergab sich in ihr Sisal …
+Felizitas ließ sich auf die Ruderbank sinken. Sie war
+wehrlos, ergab sich in ihr Schicksal … —
 
-Der Seelenverkäufer verschwand »mit Harald, der nun
-
+Der Seelenverkäufer verschwand mit Harald, der nun
 Mantel, Perücke und Lederhut trug.
-Ich hatte unser Boot an dem shchwimmenden Baumstamm
-der Sperre befestigt, hatte die Bootsleine nur unter dem
-Langholz durchgezogen, damit im jeden Moment wieder ab
-stoßen könnte …
 
-Nahm Felizitas gegenüber auf der »anderen Ruderbank
+Ich hatte unser Boot an dem schwimmenden Baumstamm
+der Sperre befestigt, hatte die Bootsleine nur unter dem
+Langholz durchgezogen, damit ich jeden Moment wieder abstoßen
+könnte …
+
+Nahm Felizitas gegenüber auf der anderen Ruderbank
 Platz …
-Ein »Bis ringsum ’ zeigte mir nach Osten zu in den
-Nebelmassen eine ’ bis;tote Stelle. Der Morgen kam …
+
+Ein Blick ringsum zeigte mir nach Osten zu in den
+Nebelmassen eine lichtere Stelle. Der Morgen kam …
 Der neue Tag brach an …
 
 Ein Windhauch strich über die Insel und die Randhöhen
 dieser Bucht hin … In die grauen Vorhänge kam
-Bewegung … Leben … — Lange Nebelstreifsen täuschten Rauchsäulen
+Bewegung … Leben … — Lange Nebelstreifen täuschten Rauchsäulen
 vor … Und mit einem Male erschien da schräg über
 mir wie ein blasser Opal die Sonne, die mit aller Macht
 die feuchten Schleier bekämpfte …
 
 Es wurde zusehends heller …
 
-Und mir. gegenüber, daß unsere Knie sich berührten, dieses
-»Rätsel von Weib … Felizitas Falk …! Wir gegenüber
+Und mir gegenüber, daß unsere Knie sich berührten, dieses
+Rätsel von Weib … Felizitas Falk …! Mir gegenüber
 <@pagebreak/>
-OEGE002O0202022E220 19) Dr 02000020000
-
-jetzt ein zartes, frisches Mädchengesicht, von aschblonden
+jetzt ein zartes, frisches Mädchengesicht, von aschblondem
 Haar umrahmt … Graublaue große Augen musterten mich.
 
-Und ich … prüfte diese jungen Züge … In den Augen
-Winkeln schimmerten von Tränen … — Lügen! — Es
+Und ich … prüfte diese jungen Züge … In den Augenwinkeln
+schimmerten noch Tränen … — Lügen! — Es
 mußten Lügen sein … Lüge war auch der jammervolle
-flehende Bis, diese ruFartige Kopfbewegung, als ob — Welt«.
-alias den Himmel als Zeugen ihrer Schuldlosigkeit anrufen
+flehende Blick, diese ruckartige Kopfbewegung, als ob Felizitas
+den Himmel als Zeugen ihrer Schuldlosigkeit anrufen
 wollte …
 
-Ich schaute zur Seite … Wich widerte diese Heuchelei
+Ich schaute zur Seite … Mich widerte diese Heuchelei
 derart an, daß ich lieber den prachtvollen Kampf der Sonne
-gegen. die Nebelmassen beobachtete …
+gegen die Nebelmassen beobachtete …
 
-auch der Wind spielte immer mehr auf … Einzelne
-Windstöße rissen klaffende Türen in die feuchten Vorhänge.
-Aber diese Kiste schlossen sich sofort wieder, und nur für
+auch der Wind frischte immer mehr auf … Einzelne
+Windstöße rissen klaffende Lücken in die feuchten Vorhänge.
+Aber diese Risse schlossen sich sofort wieder, und nur für
 Sekunden sah ich den blauen, sonndurchleuchteten Himmel.
-— Gerade als abermals ein solcher Riß in der grauen
-NebeldeF&e entstanden, gerade da schnellte das Weib sich
+
+Gerade als abermals ein solcher Riß in der grauen
+Nebeldecke entstanden, gerade da schnellte das Weib sich
 vorwärts, traf mit dem Kopf meine Schulter — kräftig
 genug, um mich über Bord zu werfen …
 
-»Ich fiel ins Wasser … —! …
-x. Rache den Bootsrand … Ahnte, daß es hier um Sein
-»oder Nichtsein ging …
+Ich fiel ins Wasser …
+
+Packte den Bootsrand … Ahnte, daß es hier um Sein
+oder Nichtsein ging …
 
 mit den Füßen bearbeitete das Weib meine krallenden
 Finger … Das Boot neigte sich, schwankte …
 
 Felizitas Falk verlor das Gleichgewicht … Die gefesselten
-Hände machten es ihr unmöglics, den St: uns über Bord zu
+Hände machten es ihr unmöglich, den Sturz über Bord zu
 mildern. — Sie schlug mit der Stirn auf den Baumstamm
-auf, Ware unter gesunken, wenn im) mischt ihren Arm gepackt
-hätte … Mühsam schob ich die Bewußtlose ins Boot Stück,
-konnte nicht verhindern, Post eine Menge -Wasser über
-den Rand flutete, — lange umso oh hinein »… trug
-Schient, — heiß vor Anstrengung und 90h pudelnaß …
+auf, wäre untergesunken, wenn ich nicht ihren Arm gepackt
+hätte … Mühsam schob ich die Bewußtlose ins Boot zurück,
+konnte nicht verhindern, daß eine Menge Wasser über
+den Rand flutete, — schwang mich selbst hinein … keuchend,
+heiß vor Anstrengung und doch pudelnaß …
 
 Japsend saß ich auf der Ruderbank …
 
 Ein neuer Windstoß …
 
-Wieder ein Riß im Nebelschleier … Diesmal siegte bis.
+Wieder ein Riß im Nebelschleier … Diesmal siegte die
 <@pagebreak/>
-DSDEODSODIESDOEOS Z0 SSSSSSSSS0DSS
-
-Sonne … Der Miß schloß sich nicht wie bisher, klaffte
+Sonne … Der Riß schloß sich nicht wie bisher, klaffte
 weiter und weiter …
 
 Mit einem Schlage saß ich im Sonnenschein … Und
-neben mir vor«; die grauen Mauern, aber langsam jetzt
-zurüFweichend, wankend und wogend, immer mehr sei
-flatternd
-
-318 im drüben ein Felsgestade erkannte — dort, woher
-der Nacxgen mit Felizitas gekommen und wohin Harald gerudert
+neben mir noch die grauen Mauern, aber langsam jetzt
+zurückweichend, wankend und wogend, immer mehr zerflatternd
 …
 
-Minuten noch — und die halbe Bucht war geleistet …
+Bis ich drüben ein Felsgestade erkannte — dort, woher
+der Nachen mit Felizitas gekommen und wohin Harald gerudert
+…
+
+Minuten noch — und die halbe Bucht war nebelfrei …
 
 Eine Bucht, weit größer als die, in der unser Kutter
 lag … Sollerby hatte jene Bucht auf dreihundert Meter
 Länge und achtzig Meter Breite geschätzt. Diese hier maß
-das Fünssjache … Hatte Steilufer, die senkrecht ins Wasser
+das Fünffache … Hatte Steilufer, die senkrecht ins Wasser
 tauchten …
 
-Dann schlichte ich auch) Haralds Seelenverkäufer, ihn
+Dann erblickte ich auch Haralds Seelenverkäufer, ihn
 selbst, stehend rudern …
 
-Die letzten — Nebelgebilde schwanden … ’.
+Die letzten Nebelgebilde schwanden …
 
-Harst näherte sich fast-“…
+Harst näherte sich rasch …
 
-»Fritz!« sagte er und warf nur einen flüchtigen Bis
-auf die Bewußtlose … »Du siehst ja, mein Alter, hier gibt.
+»Nichts!« sagte er und warf nur einen flüchtigen Blick
+auf die Bewußtlose … »Du siehst ja, mein Alter, hier gibt
 es nichts als himmelhohe Wände, nirgends eine Seitenbucht.«
 
 Die Sonne lachte auf uns herab … Und doch fror ich.
 
 »aber — die Baumsperre!!« meinte ich nur …
 
-Er hob die Sdcultern …
+Er hob die Schultern …
 
 »Und … die Geräusche!!« fügte ich hinzu …
 
-Er nahm den Bootshaken, 3o0g sich mit seinem Nahen
+Er nahm den Bootshaken, zog sich mit seinem Nachen
 an den zusammengeketteten Langhölzern entlang …
 
-Co stellte er fest, daß die Sperre den tiefsten Winkel
-der Hütte gleichsam abgrenzte …
+So stellte er fest, daß die Sperre den tiefsten Winkel
+der Bucht gleichsam abgrenzte …
 
-Deck ruderte abermals herbei, meinte mit einer kurzen
+Und ruderte abermals herbei, meinte mit einer kurzen
 Handbewegung: »es war ein Irrtum … Die Balkensperre
-Hat kostenlos Einrichtung, die Warnungssignale geben könnte,«
+hat keinerlei Einrichtung, die Warnungssignale geben könnte,«
 
-Tc) begriff. ihn nicht recht …
+Ich begriff ihn nicht recht …
 
-Boot ein Blinzeln klärte mich auf: Harald schauspielerte!
+Aber ein Blinzeln klärte mich auf: Harald schauspielerte!
 <@pagebreak/>
-DSSSSSSSSSSS 531 00EO0EOS0BESEDESOS
-
 Felizitas Falk war nicht mehr bewußtlos … Sie sollte
 alles hören …
 
@@ -2335,35 +2329,34 @@ Und er dann — in derselben Weise:
 »Wir können das Mädchen nicht mitnehmen … Wir
 müssen schon das Boot Über die Riffe tragen … Am besten
 ist, wir binden ihr noch die Füße und legen sie in den
-Nahen. Sie wird schon wieder zu sich kommen. Den. Nahen
-binden wir an die Sperre fest. Tochter holen wir sie mit
+Nachen. Sie wird schon wieder zu sich kommen. Den Nachen
+binden wir an die Sperre fest. Nachher holen wir sie mit
 dem Kutter ab und durchsuchen diese Bucht genauer …« —
 
 So geschah’s denn auch …
 
-Felizitas Falk lag im Nahen …
+Felizitas Falk lag im Nachen …
 
 Unser Boot entfernte sich nach Osten … Dort war die
 Einfahrt, dort schob sich das schmale Vorgebirge wie eine
-Kulisse vor die Bucht, und draußen ragten die Kiste in
-»drei unregelmäßigen Gürteln über daß brandende Meer …
+Kulisse vor die Bucht, und draußen ragten die Riffe in
+drei unregelmäßigen Gürteln über das brandende Meer …
 
 Der Morgenwind kam von Nordost … Die Wogen
-»wuchsen … Der Lärm an den Kisten, diese gewaltige Musik
+wuchsen … Der Lärm an den Riffen, diese gewaltige Musik
 des Atlantik, schwoll immer mehr an … Die Sonne stach
-… ohne seltsame Schwüle lastete über Insel und Meer
-
+… Eine seltsame Schwüle lastete über Insel und Meer
 … Heiße Luftwellen schienen gegen den Wind anzurennen
-… Hohns im Aether segelten Wolkenfetzen in verschiedener
+… Hoch im Äther segelten Wolkenfetzen in verschiedener
 Richtung. Zwei Luftströmungen prallten aufeinander …
-—« alles recht bedrohliche Anzeichen … —
+— alles recht bedrohliche Anzeichen … —
 
 Harald winkte …
 
-»Unser Boot glitt nach Süden am ’Inselgestade hin, bog in
-einen engen Wasserlauf ein, auch) eine Bucht, kaum drei
+Unser Boot glitt nach Süden am Inselgestade hin, bog in
+einen engen Wasserlauf ein, auch eine Bucht, kaum drei
 Meter breit … Zwei kurze Biegungen — und wir sahen
-eine steile Geröllhalde vor uns. hier zogen wir daß Boot an
+eine steile Geröllhalde vor uns. Hier zogen wir daß Boot an
 Land und verbargen es zwischen größeren Steinblöcken … —
 
 Es war inzwischen sieben Uhr geworden …
@@ -2373,20 +2366,19 @@ ein steiniges Plateau …
 
 Beeilten uns …
 
-Ich ahnte, was kommen würde
+Ich ahnte, was kommen würde …
 
-Wir traten wie Karl Maus berühmte Westmänner +…
-Jede Deck&ung benutzen wir … Wir machten Umwege …
+Wir krochen wie Karl Mays berühmte Westmänner …
+Jede Deckung benutzen wir … Wir machten Umwege …
+
 <@pagebreak/>
-DSO00DESIOO00O2002 59 SESODESLDEOBDDOISD
-
 Liefen, wenn wir in einer Mulde waren … Krochen dann
 abermals …
 
-Und schließlich sieben wir uns in einen Steinhaufen
+Und schließlich schoben wir uns in einen Steinhaufen
 hinein, Steine, von denen keiner unter fünf Zentner wog.
 
-Hier hatten wir ein Fenster, wie es besser nicht sein
+Hier hatten wir ein Versteck, wie es besser nicht sein
 konnte …
 
 von hier aus — denn der Hügel von Granitstücken
@@ -2397,69 +2389,70 @@ Falk …
 <h2>4. Kapitel.</h2>
 <h3>Die Tragödie ist aus.</h3>
 
-Sie saß aufrecht in den! schmalen Zahn, das Gesicht
+Sie saß aufrecht in dem schmalen Kahn, das Gesicht
 nach einer Stelle des Steilufers gerichtet, wo das Gestein
-in einer Breite von zwar. sich Arten durch lange Risse wie
-unregelmäßig Gekerbt erschien, »Sie wandte’uns den Rücken
-zu -… Ihr Kopf bewegte sich dauernd, — Auto nach hinten.
+in einer Breite von zwanzig Meter durch lange Risse wie
+unregelmäßig gekerbt erschien … Sie wandte uns den Rücken
+zu … Ihr Kopf bewegte sich dauernd, ruckte nach hinten.
+
 Sie … winkte mit dem Kopfe …
 
-Wir beide, durch? enge Spalten lugend, waren sicher,
+Wir beide, durch enge Spalten lugend, waren sicher,
+hier nicht entdeckt zu werden … Warteten … Es mußte
+etwas geschehen … sich ereignen, etwas Ungeahntes — von
+mir Ungeahntes …
 
-hier nicht denken?! zu werden … Warteten … Es mußte
-etwas gesichert … sich ereignen, etwas Ungeahntes — von
-mir. Ungeahntes …
-— »Harald mochte voraussehen, was Felizitas — bezweckte …
+Harald mochte voraussehen, was Felizitas bezweckte …
 Er schwieg nicht umsonst so beharrlich. — Er wollte mir die
-Überraschung nicht verdorben — so hatte er vorhin im Boot
+Überraschung nicht verderben — so hatte er vorhin im Boot
 gesagt …
-Und ’das Mädchen ruckte mit dem Kopf — in kurzen
-Pausen … Müßte sich ab, die. Fesseln loszuwerden …
+
+Und das Mädchen ruckte mit dem Kopf — in kurzen
+Pausen … Mühte sich ab, die Fesseln loszuwerden …
+
 Ein dumpfes Grollen kam von fernher … Die Sonne
 tauchte hinter Wolken unter … Der Wind schlief ein.
-Nur die Schwüle blies …
+Nur die Schwüle blieb …
 
-Im Westen zog ein Gewitter — »auf …- Post war es
+Im Westen zog ein Gewitter — auf … Noch war es
 <@pagebreak/>
-D2SSSSSSDSOESSOSOSO 533 SESEGSOSESEEGOS
-
-taghell … Aber diese Helle hatte etwas Stalles, Unnatürliches
+taghell … Aber diese Helle hatte etwas Fahles, Unnatürliches
 … Man spürte die Elektrizität der Luft in den Nerven.
 
-»klang …!!« — und Harald stieß mich an …
+»Achtung …!!« — und Harald stieß mich an …
 
 Ich strengte meine Augen über Gebühr an …
 
 Und sah — nichts Neues … Das Bild blieb dasselbe:
-das Mädchen im Nahen — Gewitterstimmung über ’der
+das Mädchen im Nachen — Gewitterstimmung über der
 Insel …
 
-»Er ist unter dem Tor -hinweggesmchwommen,« sagte Harst
-leise -…
+»Er ist unter dem Tor hinweggeschwommen,« sagte Harst
+leise …
 
-»Wer? t’
+»Wer?!«
 
-»Gast Du denn keine Augen?!«
+»Hast Du denn keine Augen?!«
 
-Und da — hatte hing Augen …
+Und da — hatte ich Augen …
 
-Sah einen Kopf — den Kopf eines Gmywtmmers …
+Sah einen Kopf — den Kopf eines Schwimmers …
 des Chinesen …
 
-Der Kerl schloß vorwärts wie ein Tisch … Die verzerrten
-Umrisse seines nahen Körpers waren im Wasser als heller
-Allee sichtbar … Im Munde hatte der Schlitzäugige ein langes
+Der Kerl schoß vorwärts wie ein Fisch … Die verzerrten
+Umrisse seines nackten Körpers waren im Wasser als heller
+Fleck sichtbar … Im Munde hatte der Schlitzäugige ein langes
 leicht gekrümmtes Messer.
 
-— so hielt er auf den an der Balkensperre festgebundenen
+so hielt er auf den an der Balkensperre festgebundenen
 Nachen zu …
 
 Jedenfalls ein Bild, das in dieser düsteren Umgebung
 einen gewissen Reiz nicht entbehrte.
 
-»Und doch war mir anderes weit interessanter. Harst
+Und doch war mir anderes weit interessanter. Harst
 hatte von einem Tor gesprochen, unter dem der Chinamann
-hinweggesHwommen sein sollte …
+hinweggeschwommen sein sollte …
 Von einem Tor …!!
 
 Wo in aller Welt war hier ein Tor — hier inmitten
@@ -2468,133 +2461,131 @@ dieser in Fels erstarrten Umgebung?!
 Ich fragte denn auch — und mit einigem Recht: »Was
 für ein Tor, Harald?!«
 
-»Selbst Tor …!!» meinte er bissig, und er gebrauchte
-diesen Ausbeute jetzt in der anderen Bedeutung»…
+»Selbst Tor …!!« meinte er bissig, und er gebrauchte
+diesen Ausdruck jetzt in der anderen Bedeutung …
 
 Meine Aufmerksamkeit wurde nun jedoch durch die Szene
 auf dem stillen Wasser der Bucht abgelenkt …
 
 Der Chinese hatte den Seelenverkäufer erreicht, schwang
 sich hinein …
-<@pagebreak/>
-0220200002020&nbsp;2022&nbsp;531 d002000080020000
 
-Er war nur mit einen! HüfttucFh bekleidet, das die
-Schwimmhose ersetzen sollte. Er befreite Felizitas Fassung.
+<@pagebreak/>
+Er war nur mit einem Hüfttuch bekleidet, das die
+Schwimmhose ersetzen sollte. Er befreite Felizitas Falk von
 dem Knebel und den Fesseln …
 
 Sie sprachen miteinander — hastig, erregt … Das
-Mädchen deutete nun dem Buchtaus8gang … Die Handbewegung
+Mädchen deutete nach dem Buchtausgang … Die Handbewegung
 galt uns … Felizitas erzählte fraglos, daß wir sie
 später hatten holen wollen, daß wir jetzt aber auf und davon
-Seiten …
+seien …
 
 Dann löste der Gelbe die Bootsleine von dem Baumstamm,
 nahm das Ruder und trieb den Kahn mit raschen
-Schlägen jener Stelle der Steilwand zu, die durch Marsches«.
-mäßige Längsrisse wie gekerbt erschien …?
+Schlägen jener Stelle der Steilwand zu, die durch unregelmäßige
+Längsrisse wie gekerbt erschien …
 
 »Achtung!!« — — und Harald stieß mich abermals an.
 
 Hätte er sich schenken können … — Ich war ohnedies aufs
 äußerste gespannt, was sich nun ereignen würde … —
 
-Der Seelenverkäufer. hatte die Steilwand erreicht …
+Der Seelenverkäufer hatte die Steilwand erreicht …
 
 Zweierlei geschah …
 
 Ein stärkerer Donner dröhnte anhaltend über die öde
 Insel hin … Der Blitz, der ihn hervorrief, flammte über
 die finstere Wolkenwand wie ein grell leuchtendes verschlungenes
-Tat! …«
+Tau …
 
 Das war das Eine …
 
-Und das Andere: Ein Zauberer (hier die Felsmassen
+Und das Andere: Ein Zauberer schien die Felsmassen
 drüben zu bewegen … Ein Zauberer aus dem bekannten
-»Märchen: Sesam, öffne Dich?!
+Märchen: Sesam, öffne Dich!!
 
 Meine Augen wurden weit …
 
-Langsam — unendlich langsam schob »ist drüben das
+Langsam — unendlich langsam schob sich drüben das
 Gestein auseinander …
 
-Gestein?! — Nein — jetzt erkannte im, was es war …
+Gestein?! — Nein — jetzt erkannte ich, was es war …
 
 Ein ungeheures Tor — zwei ungeheure Torflügel, hergestellt
-aus Baumijiämmen, benagelt mit dünnen Steinplatten.
-Und deshalb die Liste dort, deshalb hob sich die eine sei
-kerbte Stelle dort so scharf von der Umgebung ab …
+aus Baumstämmen, benagelt mit dünnen Steinplatten.
+Und deshalb die Riffe dort, deshalb hob sich die eine
+gekerbte Stelle dort so scharf von der Umgebung ab …
 
 Ein Tor, das vielleicht zehn Meter hoch war, gut zwanzig
 Meter breit …
 
 Immer weiter öffneten sich die Flügel …
-<@pagebreak/>
-OSODSDOGOGDEGOGO 1,1, sehe G0IGEOECGO
 
-Leider wurde es jetzt zu) immer dunklen … Das Gewitter
-stand nun über Göstöola … Blitz auf Blitz fuhr
+<@pagebreak/>
+Leider wurde es jetzt auch immer dunkler … Das Gewitter
+stand nun über Göstöla … Blitz auf Blitz fuhr
 herab …
 
 Bevor dann die Regenfluten herabzuprasseln begannen,
-sah ich noch, wie der Kahn in der Grotte verschwand -…
+sah ich noch, wie der Kahn in der Grotte verschwand …
 
 Sah auch noch die Umrisse eines kleinen Dampfers und
 die Stirnseite eines gewaltigen Holzfloßes …
 
 Dann … nichts mehr …
 
-Das war kein Regen, der Bett aus den Wolken herab
-stürzte … Das waren die Schleusen des Himmels, aus denen’
-ununterbrochen Gießbäche herabstürzten … Das war Inder
+Das war kein Regen, der jetzt aus den Wolken herabstürzte
+… Das waren die Schleusen des Himmels, aus denen
+ununterbrochen Gießbäche herabstürzten … Das war in der
 Tat ein Wolkenbruch …
 
-Zum Glut hatten wir ein« Dach aus Steinen über uns
--… Um un1n8 her tropfte und rieselte es … Unaufhörlich
-flammte der Himmel im Lichtschein elektrisMer Entladungen
+Zum Glück hatten wir ein Dach aus Steinen über uns
+… Um uns her tropfte und rieselte es … Unaufhörlich
+flammte der Himmel im Lichtschein elektrischer Entladungen
 auf … Und wenn ein ganzes Bündel von Blitzen unter
-ohrbetäubenden Krachen selbst die dichten Massen der stürzenden
+ohrbetäubendem Krachen selbst die dichten Massen der stürzenden
 Regenfluten mit fahler Helle durchflammten, dann
 konnte ich unklar wie in weiter Ferne drüben das geöffnete
-Tor der Frithjof Höhle erkennen — der sagenhaften Grotte
+Tor der Frithjof-Höhle erkennen — der sagenhaften Grotte
 des Wikingerkönigs, die jetzt aus Sage Wirklichkeit geworden.
+
 Diesen sekundenlangen fahlen, unheimlichen Bildern folgte
-stets wieder, tiefe Finsternis …«
+stets wieder tiefe Finsternis …
 
-Bis ein neues Bündel Bitte abermals das Seltsame,
-Unfaßbare zeigte: das Fenster der Flöße …
+Bis ein neues Bündel Blitze abermals das Seltsame,
+Unfaßbare zeigte: das Versteck der Flöße …
 
-Bis nach endlosen Minuten ein Neues zu sehen:« der
+Bis nach endlosen Minuten ein Neues zu sehen: der
 kleine Dampfer, der jetzt auf der Bucht schwamm, der ein
 Floß schleppte … der Einfahrt zu …
 
-Da zog Harst mich rückwärts, brüllte »mir unter dem
-Getöse des Donners in die Ohren: …
+Da zog Harst mich rückwärts, brüllte mir unter dem
+Getöse des Donners in die Ohren:
 
-»Zum Kutter zurück!! Sie fliehen!!! Zum Kutter »H
+»Zum Kutter zurück!! Sie fliehen!! Zum Kutter …!«
 
-Wir also heraus aus. dem Steinhaufen
+Wir also heraus aus dem Steinhaufen …
 
 Hinein in das Unwetter …
 
-Im Nu waren wir bis auf die. Haut durchnäßt …
+Im Nu waren wir bis auf die Haut durchnäßt …
 
-… Fanden: unser Boot … Schleppten es ins Wasser …
-stießen ab, waren draußen. zwischen den Wissen …
+Fanden unser Boot … Schleppten es ins Wasser …
+stießen ab, waren draußen zwischen den Riffen …
+
 <@pagebreak/>
-SSEOGOEODEOIDOEOS 5 SEDOI0202000200
-
 Und — urplötzlich, wie ja zumeist bei Gewittern, hörte
 die Sintflut auf … Nur die Blitze und der rollende Donner
 blieben …
 
-Harst ruderte, daß ein die Riemen bogen …
+Harst ruderte, daß sich die Riemen bogen …
 
-Zweimal schrammten wir haarscharf an einem Riff vor«.
-über …«
+Zweimal schrammten wir haarscharf an einem Riff vorüber
+…
 
-Ich schwitzte vor Aufregung … Ich) hatte die Verantwortung,
+Ich schwitzte vor Aufregung … Ich hatte die Verantwortung,
 steuerte — steuerte mit feuchten Brillengläsern, die
 mir das genaue Sehen erschwerten …
 
@@ -2602,34 +2593,34 @@ Endlich unsere Bucht …
 
 Der Kutter … Der alte Sollerby ruft uns an …
 
-»Falle — gut, daß Sie wieder zurück sind!«
+»Hallo — gut, daß Sie wieder zurück sind!«
 
-»Lo8wersen die Taue!« brüllt Harald … »Wir müssen …«
+»Loswerfen die Taue!« brüllt Harald … »Wir müssen …«
 
 Ein ungeheurer Donnerschlag übertönt seine Stimme …
 
 Gleich darauf gleitet der Kutter seewärts …
 
-Draußen an den äußeren wissen tobt eine böse Brandung
-… «
+Draußen an den äußeren Riffen tobt eine böse Brandung
+…
 
 Sollerby steht am Steuer — Statue aus Erz … die
-Augen verlassen … ’«
+Augen verkniffen …
 
-sieht spritzt mir ins Gesicht »… —
+Gischt spritzt mir ins Gesicht …
 
-Der Kutter torkelt, bäumt sich, [hießt weiter …
+Der Kutter torkelt, bäumt sich, schießt weiter …
 
 Die Brandung liegt hinter uns …
 
-Gen Osten geht’s …« Mr
+Gen Osten geht’s …
 
 Und bald — eine Feuerlinie zerreißt das schwarze Firmament
-… wir sehen den Dampfer, das Floß …-
+… wir sehen den Dampfer, das Floß …
 
 Und fiebern …
 
-Der Schotte Learat selbst verliert seine stumpfe Ruhe »…
+Der Schotte Learat selbst verliert seine stumpfe Ruhe …
 
 Näher kommen wir …
 
@@ -2639,35 +2630,34 @@ Wieder ein Blitz …
 
 Hundert Meter vor uns das Floß …
 
-Das Messerstoß … träge schGaukelnd auf … den langen
+Das Riesenfloß … träge schaukelnd auf den langen
 Wogen …
 
-Oben darauf eine Einflüsse …
+Oben darauf eine Blockhütte …
 
 Daneben ein kleiner stämmiger Kerl mit wirrem Bart
 und Haar …
-<@pagebreak/>
-22222020200202000 57&nbsp;002085820200&nbsp;02202
 
+<@pagebreak/>
 Rechts von ihm — — man traut den eigenen Augen
-nicht mehr!! — — drei Löwen … mächtige tiefe — Post
+nicht mehr!! — — drei Löwen … mächtige Tiere — drei
 männliche Löwen …
 
 Dann wieder Dunkelheit …
 
 Ein heulender Windstoß fährt über den Ozean …
 
-Der Gewittersturm bricht los … Man merkt förmlich.
+Der Gewittersturm bricht los … Man merkt förmlich,
 wie die Wellenberge anschwellen … Sturzseen kommen über
-Bord … sollen Unwetter ist der Kutter nicht gewachsen.
+Bord … Solchem Unwetter ist der Kutter nicht gewachsen.
 
-Wir haben das Floß inzwischen umrundet … ließen
+Wir haben das Floß inzwischen umrundet … Schießen
 an dem Schleppdampfer vorüber …
 
 Ein seines Loch in den schwarzen Vorhängen des Himmels
 läßt Dämmerlicht hindurch …
 
-An Wehr des Sdleppers fünf — sechs Gestalten …
+An Wehr des Schleppers fünf — sechs Gestalten …
 Ein Weib darunter …
 
 Die Schufte schießen, haben Gewehre … Eine Kugel
@@ -2675,40 +2665,39 @@ zerschlägt die Steuerbordlaterne …
 
 Der Kutter taumelt, schießt in Wogentäler …
 
-Wir klammern uns an die Verlag — ducken uns …
+Wir klammern uns an die Reling — ducken uns …
 
 Der alte Sollerby am Steuer bleibt Statue …
 
 Der Kutter wendet, kommt unter Wind des Riesenfloßes,
-ja stilles Wasser …
+in stilles Wasser …
 
-Der stämmige Kerl. steht noch. neben der Blechkiste,
-neben den drei prachtvollen Bestien .-
+Der stämmige Kerl steht noch neben der Blockhütte,
+neben den drei prachtvollen Bestien …
 
-Hat jetzt eine Flinte in der Sand …
+Hat jetzt eine Flinte in der Hand …
 
-Sollerby stopp! den Motor.
+Sollerby stoppt den Motor.
 
 Immer toller wird der Orkan …
 
-Wir beobachten den Schlepper :. »Der scheint die Taue
-gekappt zu haben -… Scheint flüchten alt wollen »…
+Wir beobachten den Schlepper .. Der scheint die Taue
+gekappt zu haben … Scheint flüchten zu wollen …
 
-Der Wann mit »den Löwen reißt — plötzlich die Waffe
-hoch) …
+Der Mann mit den Löwen reißt plötzlich die Waffe
+hoch …
 
-Schießt … nicht auf uns — — auf den kleinen Dampfe,
+Schießt … nicht auf uns — — auf den kleinen Dampfer
 
-»Muß ein. -Repetiergew« ’hr sein, 588 er da an der so; her
+Muß ein Repetiergewehr sein, das er da an der Schulter
 hat …
 
-Und der ’ Dampfer treibt mit einem Male quer ge gen
+Und der Dampfer treibt mit einem Male quer gegen
 die anstürmende See … —
 
-Ein. Besondere begräbt ihn, gibt ihn wieder frei,?
-<@pagebreak/>
-GOOOOOIGBOBA20S 538 Es 0003002020020
+Ein Wogenberg begräbt ihn, gibt ihn wieder frei …
 
+<@pagebreak/>
 Der nächste reißt ihn mit fort …
 
 Oben auf dem Wellenkamm tanzt das armselige Schifflein
@@ -2717,16 +2706,15 @@ Oben auf dem Wellenkamm tanzt das armselige Schifflein
 Auf die Stirnseite des Floßes zu …
 
 Unser Kutter — unter Wind … Und wir Zeugen der
-Katastrophe … Wir sehen die Menschen an der — —
-Verbrecher … Sehen weiße Dampswölkchen aus den Luken
+Katastrophe … Wir sehen die Menschen an Deck — —
+Verbrecher … Sehen weiße Dampfwölkchen aus den Luken
 hochquellen … Glauben die Verzweifelten schreien zu hören
+… glauben …
 
-… glauben …-.
+Dann … prallt der Schlepper gegen das Floß, fällt
+zurück …
 
-Dann … prallt der Schlepper gegen das Floß, fällt …
-Zuruf …«
-
-Eine neue Woge nach ihn …
+Eine neue Woge packt ihn …
 
 Wirft ihn abermals gegen die Stirnseite …
 
@@ -2737,71 +2725,68 @@ Der Dampfer ist verschwunden …
 
 Die Tragödie ist aus …
 
-Eiitageneun Zunge See« re
+<h2>5. Kapitel.</h2>
+<h3>Der berühmte Dallison.</h3>
 
-5\. Kapitel…
-Der berühmte Dallison.
-
-Aber der Sturm nimmt an Stärke zu … Das je«-
+Aber der Sturm nimmt an Stärke zu … Das
 Gewitter zieht davon. Der Orkan bleibt …
 
-Sollerby hält den Kutter stets auf der dem Winde als
-gelehrten Seite des Floßes.
+Sollerby hält den Kutter stets auf der dem Winde
+abgekehrten Seite des Floßes.
 
-Das Floß dreht Sir) … Wir müssen vorsichtig manövrieren
+Das Floß dreht sich … Wir müssen vorsichtig manövrieren
 … Bekommt die See uns zu packen, ist auch der
-Kutter verloren
+Kutter verloren …
 
-Der Mann mit den Löwen täuscht mit uns Zeichen.
+Der Mann mit den Löwen tauscht mit uns Zeichen.
 Eine Verständigung von Mund zu Mund ist unmöglich …
-Selbst durch) ein Megaphon hätte man sich bei diesem Heulen
-1d Brausen des Sturmes mochte zurufen können.
+Selbst durch ein Megaphon hätte man sich bei diesem Heulen
+und Brausen des Sturmes nichts zurufen können.
 
 Der Mann wünscht Frieden mit uns … Winkt immer
-wieder … Deutet zuweilen zur Insel Göstöla hinüber »…
-<@pagebreak/>
-DSDSDSSSSSOELDSSS 597 SSSSDSDOSISDSOESOS
+wieder … Deutet zuweilen zur Insel Göstöla hinüber …
 
+<@pagebreak/>
 Wir verstehen, was er meint: der Orkan treibt das
 Floß nordwärts, und dort fängt die hohe Insel die Hauptwucht
 der Sturmstöße ab …
 
 noch eine Viertelstunde …
 
-Dann wirst der Mann uns eine Stahltrosse zu …
+Dann wirft der Mann uns eine Stahltrosse zu …
 
 Wir befestigen sie am Bug des Kutters. Der Kutter
 versucht das Floß unter Wind von Göstöla zu bringen …
 
 Harte Arbeit …
 
-Unser Schifflein — — und dieses Messerstoß! Aber
+Unser Schifflein — — und dieses Riesenfloß! Aber
 — — es gelingt …
 
-Langsam glätten sich hier die Wogen -… Langsam nähern
+Langsam glätten sich hier die Wogen … Langsam nähern
 wir uns den Außenriffen …
 
-Not zwei Stahltrossen schleudert- der Mann …
+Noch zwei Stahltrossen schleudert der Mann …
 
 Wir finden zwei Klippen, die wie Pfähle am Rande eines
 Hafenbollwerks sind …
 
 Vertäuen das Floß … den Kutter …
 
-Dann kommt der Verwilderte an einer Trittleiter zu uns
+Dann kommt der Verwilderte an einer Strickleiter zu uns
 an Bord …
 
 Ein Mensch von vielleicht fünfzig Jahren … Harte
-Augen, eigentümlichen. Blick …
+Augen, eigentümlicher Blick …
 
 »Dallison,« nennt er seinen Namen. »Edward Dallison
 aus New Orleans …«
 
-Harst gibt ihm die Hand ;…
+Harst gibt ihm die Hand …
 
-»Der Tierbändiger Dallison — ich weiß …
+»Der Tierbändiger Dallison — ich weiß …«
 
-»Dann werden Sie auch) überzeugt sein, daß ich mit
+»Dann werden Sie auch überzeugt sein, daß ich mit
 diesen Verbrechern nichts gemein hatte, meine Herren …«
 
 Wir vier stehen um ihn herum …
@@ -2810,129 +2795,122 @@ Wir vier stehen um ihn herum …
 mir. »Der Lump von Dardero hatte Angst vor Ihnen
 beiden … Harst und Schraut, die deutschen Detektive …«
 
-Harald, meint, wir könnten besser in die Kajüte hinabsehen
+Harald, meint, wir könnten besser in die Kajüte hinabgehen
 … Rutar würde mit anhören wollen, was der Tierbändiger
 zu erzählen hätte …
 
 Rutar geht es leidlich. Wir haben uns in der letzten
 Stunde nicht um ihn kümmern können …
 
-Wir Hirn dann an seinem Bett, wir fünf …
-<@pagebreak/>
-2002002000200&nbsp;200 (( 0000000202202
+Wir sitzen dann an seinem Bett, wir fünf …
 
-Edward Farbigen, der berühmte amerikanismche Dompteur,
+<@pagebreak/>
+Edward Dallison, der berühmte amerikanische Dompteur,
 erzählt:
 
 »Ich hatte in letzter Zeit schlechte Engagements gehabt.
-Das Gold war mir knapp. In Mexiko hörte ich, daß die
-Firma Baldwin ein Floß über. den Ozean schicken wollte,
+Das Geld war mir knapp. In Mexiko hörte ich, daß die
+Firma Baldwin ein Floß über den Ozean schicken wollte.
 Ich machte mich an den Kapitän des Schleppdampfers heran,
-die Ueberfahrit nach Europa sollte.- nicht viel kosten. Der
+die Überfahrt nach Europa sollte nicht viel kosten. Der
 Kapitän war einverstanden. In aller Stille verlud ich meine
-drei Löwen und zwei Tiger auf das Floß. — »Alles ging
+drei Löwen und zwei Tiger auf das Floß. — Alles ging
 zunächst gut …«
 
-»gefunden sich Dardero und der Chinese« unter der Besatzung?«
+»Befanden sich Dardero und der Chinese unter der Besatzung?«
 warf Harald ein.
 
-»Ja … Dardero als- Steward, Singlu als Koch …
-
-Wie gesagt, — wir hatten prächtiges Wetter … Das »Floß
+»Ja … Dardero als Steward, Singlu als Koch …
+Wie gesagt, — wir hatten prächtiges Wetter … Das Floß
 besaß zwei Masten und zwei Segel. Bei günstigem Wind
-halfen die Segel, erleichterten die Arbeit des Scleppers,
-Meine Tiere waren in ihren Käfigen hinter der Einflüsse
-gut untergebracht, — Als wir zehn Tage unterwegs waren,
-meuterte die Mannschckaft. Dardero hatte sie aufgehetzt, hatte
-ihnen hohen Lohn versprochen. Aden der Kapitän und der
+halfen die Segel, erleichterten die Arbeit des Schleppers,
+Meine Tiere waren in ihren Käfigen hinter der Blockhütte
+gut untergebracht. — Als wir zehn Tage unterwegs waren,
+meuterte die Mannschaft. Dardero hatte sie aufgehetzt, hatte
+ihnen hohen Lohn versprochen. Aber der Kapitän und der
 Steuermann hatten wohl Verdacht geschöpft, knallten fünf
-der Burschen nieder, bevor man sie ’mit eingeschlagenen
-Schädeln in die See schleuderte … =« Mich ließen die
-Kerle in Ruhe. Ich hatte mit) gut mit allen gestanden …
-Außerdem fürchteten sie wohl auch) meine fünf Bestien …«
+der Burschen nieder, bevor man sie mit eingeschlagenen
+Schädeln in die See schleuderte … — Mich ließen die
+Kerle in Ruhe. Ich hatte mit gut mit allen gestanden …
+Außerdem fürchteten sie wohl auch meine fünf Bestien …«
 
-»Und dann wurde das Floß hier naß Göstöla geschleppt?«
+»Und dann wurde das Floß hier nach Göstöla geschleppt?«
 kürzte Harst des Bändigers Angaben ab …
 
 »Ja — so war’s … Sie können sich mein Erstaunen
-denken, als im eines Morgens Gewächse und das Floß in
-einer Riesenhöhle vorfinde — in einer Wassergrotte …
+denken, als ich eines Morgens erwache und das Floß in
+einer Riesenhöhle vorfinde — in einer Wassergrotte …«
 
-Übermalt unterbrach Harald den Dompteur: —«
+Abermals unterbrach Harald den Dompteur:
 
-»Ihr klar. war das erste, das die Firma Flechte?«
+»Ihr Floß war das erste, das die Firma abschickte?«
 
-»Nein, das dritte, Herr Harst
+»Nein, das dritte, Herr Harst …«
 
-»Der Schleppdampfer kehrte dann zurück?« all
+»Der Schleppdampfer kehrte dann zurück?«
 
-»Ja .». Mit dem Rest der Besatzung, aber ohne handelt
+»Ja … Mit dem Rest der Besatzung, aber ohne Dardero
 <@pagebreak/>
-DSSSSSDSDSSSSS 6! DE0B8E50585880502
+und Singlu … Es war jedoch noch ein Schleppdampfer in
+der Höhle …«
 
-und Singlu … Es war jedoch) noch ein Schleppdampfer in
-der Höhle es
+»Ah — der Schlepper eines der beiden ersten Flöße …«
 
-»Ah — der Schlepper. eines der beiden ersten Flöße …«
+»Ganz recht …«
 
-»Ganz recht …
-
-»Und auch. die beiden Flöße waren in der Grotte?«
+»Und auch die beiden Flöße waren in der Grotte?«
 
 »nicht mehr als Flöße, Herr Harst … Die Langhölzer
-waren bereits — zu Grubenhyolz zerschnitten, außerdem zum
-Zeit für das Tor der »Höhle verwendet worden … Zwei
-von Darderos Kumpanen und ich mußten in der Kürbis
+waren bereits zu Grubenholz zerschnitten, außerdem zum
+Teil für das Tor der Höhle verwendet worden … Zwei
+von Darderos Kumpanen und ich mußten in der Höhle
 ständig die Motorkreissäge bedienen. Dardero und der Chinese
 waren längere Zeit abwesend …«
 
-»Ja — in Berlin … Und erschienen« dann vor kurzem
+»Ja — in Berlin … Und erschienen dann vor kurzem
 wieder in der Höhle — mit dem jungen Mädchen …«
 
-— »Der Geliebten Darderos,« nickte der Bändiger. »Weg
-
-Verlag Falk — Sie kennen den Namen ja … Ein merkwürdiges
+»Der Geliebten Darderos,« nickte der Bändiger. »Felizitas
+Falk — Sie kennen den Namen ja … Ein merkwürdiges
 Geschöpf, Herr Harst … Junge Dame und doch
 mit den Instinkten einer Verbrecherin belastet … Sie hatte
-
-längst heimlich ermittelt, wer ihre ’ wahren Eltern gewesen:’
+längst heimlich ermittelt, wer ihre wahren Eltern gewesen:
 ein Hamburger Einbrecher und eine Hafendirne …! — Die
-Frau, die dann das Kind an Falks abgab, hat den Rom
-mexrzienrat belogen, hat diese Herkunft des Mädchens verschwiegen
-…«/S.
+Frau, die dann das Kind an Falks abgab, hat den Kommerzienrat
+belogen, hat diese Herkunft des Mädchens verschwiegen
+…«
+
 »Was ich vermutet habe …« meinte Harald ernst. »Man
 sieht an diesem Beispiel wieder einmal, daß die allersorgfältigste
-Erziehung das Beerbte Blut, die vererbten Charaktereigenschaften
-niemals ändern kann, — Felizitas stammte aus
-dem Sumpf und … versank im Sumpf …
+Erziehung das ererbte Blut, die vererbten Charaktereigenschaften
+niemals ändern kann. Felizitas stammte aus
+dem Sumpf und … versank im Sumpf …«
 
-Ich Blicke scheu zu Winfried von Rutar hinüber …
+Ich blickte scheu zu Winfried von Rutar hinüber …
 
-»Er: hatte Felizitas geliebt … ehrlich Gesicht …
+Er hatte Felizitas geliebt … ehrlich geliebt …
 
-Und … jetzt lag er dort auf dem Bett mit IgebroHenen
-Gliedern. ;… hatte den Kopf der Wand zugekehrt …
+Und … jetzt lag er dort auf dem Bett mit gebrochenen
+Gliedern … hatte den Kopf der Wand zugekehrt …
 
-Armer: Landsmann …! —
+Armer Landsmann …! —
 
 Der Bändiger sprach weiter
 
 »Dardero hat große Mengen Holz mit Hilfe des Dampfers
-nach England verkauft … Teilweise wurde das Gruben-O2DDSOE0IOI0O0&nbsp;00200
+nach England verkauft … Teilweise wurde das Grubenholz
 <@pagebreak/>
-(schoben;000800 I0ES2I2L0I002
-
-Holz auch) abgeholt … — Als Ihre Anwesenheit hier auf
+auch abgeholt … — Als Ihre Anwesenheit hier auf
 der Insel den Schurken dann durch das Mädchen bekannt
 wurde, wollte Dardero wenigstens dies eine Floß retten
-»… Und — mich wollten die Halunken beseitigen — fürchteten
-betrat von mir … Ich) hatte mich jedoch rechtzeitig in der
+… Und — mich wollten die Halunken beseitigen — fürchteten
+Verrat von mir … Ich hatte mich jedoch rechtzeitig in der
 Blockhütte auf dem Floße verrammelt … Und sie wieder
-hatten nicht die Zeit, mich auszuräuchern, wie sie- drohten.
+hatten nicht die Zeit, mich auszuräuchern, wie sie drohten.
 Ich war bewaffnet … So ließen sie mich in Ruhe … Alles
 andere haben Sie miterlebt, meine Herren … Meine Tiere
 — mein Vermögen! Haben zwar nur Möwen gefressen, sind
-aber wohlauf … —
+aber wohlauf …« —
 
 Vormittags zehn Uhr war der Orkan vorüber …
 
@@ -2950,88 +2928,87 @@ den Motor, die Säge, ganze Stapel von zurechtgeschnittenen
 Grubenhölzern …
 
 Ein Vermögen lagerte hier noch. Ein zweites Vermögen
-stellte das geleitete Floß dar … —
+stellte das gerettete Floß dar … —
 
-Unser alter für-Der-Fischer war einfach sprachlos …
+Unser alter Fär-Oer-Fischer war einfach sprachlos …
 Er hatte nie im entferntesten vermutet, daß die Sage von
-der Frithjofs-Höhle einen tatsächlichen Hintergrund haben
+der Frithjof-Höhle einen tatsächlichen Hintergrund haben
 könnte … —
 
-Wir kehrten zum Kutter Zuruf. Als wir durch die
-mitteilen ruderten, meinte der stille Schotte Learat bedächtig:
+Wir kehrten zum Kutter zurück. Als wir durch die
+Riffreihen ruderten, meinte der stille Schotte Learat bedächtig:
 
 »Sie gestatten mir wohl eine Frage, Herr Harst …«
 
-»Gewiß … Ich) weiß auch, was Sie fragen wollen …«
+»Gewiß … Ich weiß auch, was Sie fragen wollen …«
 
 »So?!«
 
 »Ja — Sie möchten gern wissen, wie ich … das Tor
 entdeckt habe … trotz des Nebels …«
-<@pagebreak/>
-ODSSSDSSSSSDSS 63 2E3S5G3SSOOEDEIOS&
 
+<@pagebreak/>
 »Allerdings …
 
-»Nun — — die ’Selswände« der Bucht waren überall ziemlich
-glatt ’… Nur an der einen Stelle sah man die Risse
--… Als ich »mit dem Nahen, als Felizitas zur Not wer«.
-Kleider, dort entlang ruderte, kratzte im mit dem Fingernagel
-in einer der alten- entlang und … spürte Holz, das
+»Nun — — die Felswände der Bucht waren überall ziemlich
+glatt … Nur an der einen Stelle sah man die Risse
+… Als ich mit dem Nachen, als Felizitas zur Not verkleidet,
+dort entlang ruderte, kratzte ich mit dem Fingernagel
+in einer der Ritzen entlang und … spürte Holz, das
 mit Ölfarbe gestrichen war … Die Farbschicht ließ sich
-wegsinken … Nachher«: besah ich mir das, was noch unter
-dem Fingernagel Wassers geblieben: dunkle trockene Ölfarbe!
+wegkratzen … Nachher besah ich mir das, was noch unter
+dem Fingernagel haften geblieben: dunkle trockene Ölfarbe!
 Da wußte ich Bescheid …
 
-Learat niste …
+Learat nickte …
 
 »Freilich — Ölfarbe …!!« — Und sein Arg hing an
 Haralds Gesicht … »Ölfarbe — ja, — so mußten Sie
-wohl darauf kommen, daß … es längliche Posaunt war …
+wohl darauf kommen, daß … es künstliche Felswand war …
 Ich … ich möchte gerade Ihnen, Herr Harst, der Sie doch
 so leicht dunkle Geschehnisse aufbrechen, gelegentlich etwas
 von einem alten Schloß in Schottland erzählen — etwas,
-das voll kein Mensch aufgeklärt hat … gelegentlich «.
-Jetzt werden wir uns wohl alle erst einmal ausschlafen er
+das noch kein Mensch aufgeklärt hat … gelegentlich …
+Jetzt werden wir uns wohl alle erst einmal ausschlafen …«
 
 »Und ob, bester Learat, und ob …! Und dann werden
-wir nach Ihoröhavn fahren, werden Sollerby nach Hause
-bringen und ein paar Depeschen ausgeben — Kadbeltele-gramme
+wir nach Thorshavn fahren, werden Sollerby nach Hause
+bringen und ein paar Depeschen aufgeben — Kabeltelegramme
 …« —
 
-Das eine dieser Telegramme — lautete:
-Kommerzienrat Falk,
-Berlin-Wannsee.
+Das eine dieser Telegramme lautete:
 
-Tochter tödlich verunglüt. Brief folgt. — Harst.
+<p class="centered">Kommerzienrat Falk,</p>
+<p class="right">Berlin-Wannsee.</p>
+
+> Tochter tödlich verunglückt. Brief folgt. — Harst.
 
 das zweite an die Firma Baldwin:
-Drittes Floß geborgen … Wird nach Thorshavn, hinter,
-geschleppt. Dispositionen dorthin an Fischer Sollerbty.
+
+> Drittes Floß geborgen … Wird nach Thorshavn, Fär-Oer,
+geschleppt. Dispositionen dorthin an Fischer Sollerby.
 — Harald Harst.
 
 Und zwei Tage später waren dann alle englischen Zeitungen
 voll von Berichten über die Frithjof-Grotte … Eine
 <@pagebreak/>
-2DSSEDED00200 64&nbsp;20290000000202002
+schneidige Reederei in Edinbourgh schickte einen Touristendampfer
+dorthin … Hunderte haben seitdem die Höhle besucht
+…
 
-fIhneidige Reederei in Edinbourgh) schickte einen Touristendampfer
-dorthin .„… Hunderte haben seitdem die Höhle be
-sucht …
+Wir aber — besuchten etwas anderes …
 
-Wir aber — besuchten etwas anderes»…
+Uns hatte Learat auf der Rückfahrt nach Edinbourgh die
+Geschichte des Darlington-Schlosses erzählt …
 
-Uns hatte Learat auf der Ausfahrt nach Edinbourgh die
-Geschichte des Darlington-Schlosses erzählt
-
-Ein Honorar winkte uns nicht, und da reisten wir dort
-nach dem einsamen Schwede, wo das uralte, halb verfallene
-Stammschloß der Lords Darlington seine Steinmauern fertig
-»und geheimnisvoll gen Himmel recht …
+Ein Honorar winkte uns nicht, und doch reisten wir dort
+nach dem einsamen Hochmoor, wo das uralte, halb verfallene
+Stammschloß der Lords Darlington seine Steinmauern trotzig
+und geheimnisvoll gen Himmel reckt …
 
 Wir haben diese Reise nicht bedauert …
 
 Und meine Freunde und Leser werden im folgenden
 Bande die Geschichte hören von der
 
-Familientruhe der Darlingtons
+__Familientruhe der Darlingtons__
