@@ -5,7 +5,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Der gefälschte Zettel.</h3>
 
-Ende Februar 19.. brachte die indische Zeitung »Bombay
+Ende Februar 19… brachte die indische Zeitung »Bombay
 Post« folgenden Artikel:
 
 Dem Leben wiedergegeben. Der hier bei uns in Indien
@@ -63,7 +63,7 @@ deren Wortlaut sehr geheimnisvoll gewesen sein soll.
 
 Zum Schluß das wichtigste, unerklärlichste: Harst und
 Schraut sind in der verflossenen Nacht spurlos aus ihrem
-Schlafzimmer im Erdgeschoß des Myntor-Palais verschwunden,
+Schlafzimmer im Erdgeschoß des Myntor-Palais verschwunden.
 Ihre Anzüge, ihre Uhren, ihre Pistolen, kurz alles,
 was sie mit in das gastfreie Haus Miß Honoria
 Myntors gebracht hatten, ist noch vorhanden, mit Ausnahme der
@@ -79,7 +79,7 @@ Detektive hat entführen lassen.
 
 Man kann gespannt sein, welche weiteren Überraschungen
 der Fall Lydia Ramand noch bringen wird. Zur Zeit
-ist die Polizei fieberhaft tätig, des Verschwinden des Freundespaares
+ist die Polizei fieberhaft tätig, das Verschwinden des Freundespaares
 <@pagebreak/>
 aufzuklären. Jeder, der auch nur irgend eine
 auffällige Wahrnehmung in der verflossenen Nacht gemacht
@@ -110,7 +110,7 @@ nur das Papier mit folgender Aufschrift:
 ras Chil weis es ber ka die weit ühm Rag Blei ere test
 an mün mit em und ze tei Schlan zei Chil len gen ge ka
 
-> Wer ist nun der Sieger, Mr. Harst?! Sie oder ich?
+> Wer ist nun der Sieger, Mr. Harst?! Sie oder ich?!
 Wem werden nun die fünf goldenen Götzen gehören?!
 Miß Lydia oder mir?!
 
@@ -118,7 +118,7 @@ Miß Lydia oder mir?!
 
 Harald saß in der Sofaecke, rauchte eine Mirakulum
 und sagte nun leise, als ich dieses Papier wieder zur Hand
-nahm, über dessen ersten Teil, die Geheimschrift Freund
+nahm, über dessen ersten Teil, die Geheimschrift, Freund
 Boßwell wohl eine halbe Stunde lang ohne Erfolg nachgegrübelt
 hatte:
 
@@ -159,9 +159,9 @@ Anfänger in der Kunst des —«
 »Lies vor!« unterbrach Harald mich.
 
 Ich tat es. Denn der Anfang, das »Geh«, das doch
-als »Gehe!« zu denken war, hatte mich vorhin nach einer
+als »Gehe!« zu deuten war, hatte mich vorhin nach einer
 diesem »Gehe!« entsprechenden Silbe suchen lassen. So war
-ich auf die fünfte Silbe »zu« gestoßen, »Gehe zu« — das
+ich auf die fünfte Silbe »zu« gestoßen. »Gehe zu« — das
 hatte Sinn. Als ich dann von »zu« gerechnet stets wieder
 die jeweils fünften Silben vereinigte, fand ich folgendes
 heraus:
@@ -558,7 +558,7 @@ beiden. »Gehen Sie zu Boßwell. Er hat Befehle für Sie.«
 Der Inspektor hatte uns auch mit Wäsche, Taschenlampen,
 Revolvern und je einem kleinen Handkoffer ausgeholfen.
 Wir nahmen Fahrkarten erster Klasse bis Agra.
-Wir wußten nun ja, daß der Rubinring, dem wir nachjagten
+Wir wußten nun ja, daß der Rubinring, dem wir nachjagten,
 dorthin unterwegs war, denn Sistris Depesche hatte folgenden
 Wortlaut gehabt, war aber nicht abgegangen:
 
@@ -587,7 +587,7 @@ seine Begleiterin nicht etwa den Zug auf einer Station
 wechselten.
 
 Nein — sie taten es nicht. Sie taten gar nichts. Sie
-waren ganz arglos und offenbar bester Laune. In Ibansi,
+waren ganz arglos und offenbar bester Laune. In Ihansi,
 dem großen Eisenbahnknotenpunkt, konnte sich Harald am
 Bahnhofsbüfett dicht an sie heranpirschen. Als er zu mir
 in unser Abteil zurückkehrte, sagte er kopfschüttelnd:
@@ -801,7 +801,7 @@ Herrschaften. Hole sie!«
 
 Der braune Athlet eilte die Kajüttreppe hinan.
 
-Dann Poltern auf der Treppe: dann flog die Tür
+Dann Poltern auf der Treppe; dann flog die Tür
 wieder auf. Eine Kugel rollte herein, von Tamar Daks
 Fußtritt getrieben, eine menschliche Kugel, — prallte gegen
 Haralds Stuhl, ward zum Menschen, entknäulte sich, stand
@@ -865,7 +865,7 @@ oder ich werde —«
 Man hörte einen gräßlichen Ton. Sistri hatte die
 Zähne so fest aufeinander gebissen, daß sie knirschten.
 
-»Ah, — Du willst nicht! — Das Kohlenbecken, Tamar
+»Ah — Du willst nicht! — Das Kohlenbecken, Tamar
 Dak —!«
 
 Sistri war ungefesselt.
@@ -894,7 +894,7 @@ Harst ab. Sahib Harst wird Dich bestrafen!«
 Er beugte die Knie, hockte sich auf den Teppich hin,
 schaute auf die Fremde, sagte lauter — wie befehlend:
 
-»Schweig! Verstehst Du mich, — schweige! Erkaufe
+»Schweig’! Verstehst Du mich, — schweige! Erkaufe
 Dir Dein Leben durch das Geheimnis, das ich nicht kenne!«
 
 Sein Oberleib begann hin und her zu pendeln. Ein
@@ -971,7 +971,7 @@ Eines Tages erschienen Kriminalbeamte in unsere
 Wohnung. Wir weilten damals in Dresden, waren bei
 Sarrasani engagiert. Die Beamten wollten meinen Vater
 verhaften. Man beschuldigte ihn, vor sechs Jahren nach
-einer Zauberfoiree im Schlosse der Herzogin von Ixstadt
+einer Zaubersoiree im Schlosse der Herzogin von Ixstadt
 die Perlenkette der Herzogin gestohlen zu haben, eine Doppelkette
 von 72 Perlen, deren Wert schon zu jener Zeit auf
 acht Millionen geschätzt wurde.
@@ -1080,7 +1080,7 @@ Zimmer versteckt hatte —«
 »Schon gut,« rief Austin Greebrac da. »Schon gut!
 Und die Lösung? Sie lautet?«
 
-»— Geh’ zu Agras berühmtestem Schlangenbeschwörer
+»»— Geh’ zu Agras berühmtestem Schlangenbeschwörer
 Chilka Ragan und zeige ihm als Ausweis die Bleimünze.
 <@pagebreak/>
 Chilka wird Dir alles weitere mitteilen.« So lautet die
@@ -1178,10 +1178,10 @@ meinte sie.
 
 Und sie fand die Notiz, las vor:
 
-> Der Schlangenbeschwörer Chilka Ragan wurde vorgestern,
+> »Der Schlangenbeschwörer Chilka Ragan wurde vorgestern,
 als er eine besonders kostbare Perle zu veräußern
 suchte, verhaftet, da er den rechtmäßigen Erwerb der
-Perle nicht nachweisen konnte.
+Perle nicht nachweisen konnte.«
 
 »Verdammt!« fluchte Greebrac.
 
@@ -1231,7 +1231,7 @@ unterschätzen mich, Greebrac. Auch ich habe stets Reservetruppen
 in Bereitschaft. Ich bin also bereit, Ihnen die
 Perlenkette zu verschaffen. Ich werde bis zu dem Zeitpunkt,
 wo ich sie Ihnen — sagen wir nach zwei Tagen
-abends neun Uhr am Bahnhof aushändige, nichts gegen
+abends neun Uhr am Bahnhof — aushändige, nichts gegen
 Sie unternehmen. Auch Sie müssen aber samt Ihrer Bande
 uns in Ruhe lassen. Drei Stunden nach Aushändigung der
 Kette beginnt der Kampf zwischen uns von neuem. Ich
@@ -1241,7 +1241,7 @@ Greebrac war blaß geworden. Er fürchtete sich. Man
 sah es ihm an.
 
 Er schaute vor sich hin. Seine Hände öffneten und
-ballten sich
+ballten sich.
 
 »Tu’s!« riet Adi eindringlich. Auch ihr Gesicht war
 farblos.
@@ -1381,7 +1381,7 @@ nachgeschlichen. Es war ein Knabe auf der Veranda. Er
 entfloh. Es war ein Spion.«
 
 »Ganz recht,« nickte Harald. »Es war *mein* Spion.
-— Also bester Lockpor, wohin mit uns?«
+— Also, bester Lockpor, wohin mit uns?«
 
 Frau Lockpor rief jetzt: »Ein Gedanke: unsere Motorjacht!
 — Wie wär’s damit?«
@@ -1389,7 +1389,7 @@ Frau Lockpor rief jetzt: »Ein Gedanke: unsere Motorjacht!
 »Sehr gut. Ich kenne sie ja. Liegt sie noch vor dem
 Wasserpavillon vertäut?«
 
-»Ja. Soll Amibar Sie sofort hinführen?! —«
+»Ja. Soll Amibar Sie sofort hinführen? —«
 
 Amibar brachte uns durch den Garten, der sich bis zum
 Dschamnaufer hinzog, an die Wassertreppe, kettete das
@@ -1453,7 +1453,7 @@ Haussuchung abgehalten?«
 »Ja, aber nichts Belastendes gefunden.«
 
 »Könnten wir nachher Chilka mal im Polizeigefängnis
-besuchen. Ich mochte ihn allein sprechen, das heißt,
+besuchen? Ich möchte ihn allein sprechen, das heißt,
 Schraut soll mit dabei sein.«
 
 »Aber gewiß. Ich fürchte nur, er wird nicht verraten,
@@ -1476,7 +1476,7 @@ im Büro des Verwalters.
 »Denken Sie, Harst, der Kerl hat sich aufgeknüpft!« rief
 er. »Das kann erst vor zwei Stunden etwa geschehen sein.
 Jedenfalls ist er tot. Aber — er hat etwas sehr Merkwürdiges
-in die Wände der Zellenwand eingekratzt. —
+in die Tünche der Zellenwand eingekratzt. —
 Kommen Sie. Sehen Sie selbst. Die Leiche habe ich ebenfalls
 hängen lassen, wie sie hing.«
 
