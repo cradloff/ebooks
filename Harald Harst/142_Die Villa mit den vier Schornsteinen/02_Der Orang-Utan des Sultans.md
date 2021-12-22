@@ -118,7 +118,7 @@ noch Deine Kameradin, — und auf mich ist Verlaß!«
 Weib … Weit natürlicher wäre es, wenn Du mich glühend
 hassen würdest …! — Ich will jetzt in die Höhle hinab …
 Niemand begleitet mich …!« Und dies sprach er so drohend,
-daß wohl jedem die Luft vergangen wäre ihm zu folgen …
+daß wohl jedem die Lust vergangen wäre ihm zu folgen …
 
 »Bitte — hier sind die Schlüssel …«
 
@@ -366,7 +366,7 @@ Und hinter dieser Tür kreischte das Weib:
 
 Die mit einem Lederriemen aneinandergebundenen
 Schlüssel der Kellerabteilungen lagen auf dem Felsboden,
-Waren Alice entfallen …
+waren Alice entfallen …
 
 Ich schloß die Kerker auf …
 
@@ -509,7 +509,7 @@ die noch ihre Bogen hatten, die Pfeile in kurzem,
 wenn auch primitiv, ergänzen würden …
 
 <@pagebreak/>
-Schleunigst holte wir jetzt die Gefährten nach oben …
+Schleunigst holten wir jetzt die Gefährten nach oben …
 Den Häuptling sperrten wir in eines der Gelasse …
 
 Unsere Singhalesen und die Malaien hatten im Nu die
@@ -677,7 +677,7 @@ Umständen, die ganz … »Harst«mäßig sind …«
 Sein Blick fiel auf Alice Cotton …
 
 »Ah — da ist ja diese Kanaille von Weib …!!« fügte
-er in grimmiger Mut hinzu. »Herr Harst, sie hat den Überfall
+er in grimmiger Wut hinzu. »Herr Harst, sie hat den Überfall
 auf den Schoner geleitet … Sie ließ uns hierher
 schleppen … Sie hat uns wie räudige Köter behandelt …
 Ein Zufall war’s, daß wir flüchten konnten … Und bei
@@ -691,7 +691,7 @@ ist …«
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Der Geheimschreiber des Auftrag.</h3>
+<h3>Der Geheimschreiber des Sultans.</h3>
 
 Ah — — Miß Cotton war fahl geworden …
 
@@ -829,7 +829,7 @@ Harst las vor:
 
 > Ich hatte mir ja vorgenommen, nie wieder an Dich
 zu schreiben, Alix … Aber Deine letzte Nachricht verlangt
-eine Antwort. Sorge dafür, daß "*er*" so erhalten bleibt,
+eine Antwort. Sorge dafür, daß »*er*« so erhalten bleibt,
 wie es für alle Fälle nötig ist … Im übrigen bist Du
 mir unverständlich. Wenn der Sultan Dich nicht mehr als
 seine Geliebte betrachtet, — weshalb bleibst Du dann in
@@ -907,7 +907,7 @@ Im ersten Moment glaubte ich, daß Harald mich lediglich
 ein wenig »frozzeln« wollte, wie die Münchener sagen.
 
 Aber weil Doktor Scholz jetzt ganz nahe an den Käfig
-Heranging und dem Riesenvieh nochmals ins Gesicht lachte,
+heranging und dem Riesenvieh nochmals ins Gesicht lachte,
 verwarf ich diesen Gedanken schleunigst …
 
 Zumal der Doktor nun auch in malaiischer Sprache rief:
@@ -1005,7 +1005,7 @@ Vorschein …
 
 Hinter uns gleichzeitig zwei Ausrufe:
 
-»Tipi-Piti …!1 Der Geheimschreiber des Sultans!!«
+»Tipi-Piti …!! Der Geheimschreiber des Sultans!!«
 
 Die Hofbeamten riefen’s …
 
@@ -1199,7 +1199,7 @@ Residenten zuführen …«
 Des Sultans Antlitz war erdgrau geworden …
 
 <@pagebreak/>
-»Ich habe sein Recht, Sie hier festzuhalten,« fügte Harst
+»Ich habe kein Recht, Sie hier festzuhalten,« fügte Harst
 hinzu. »Sie können gehen … Aber ich warne Sie, etwa
 das Haus zu umschleichen … also kehrt zu machen …!
 Wollen Sie den gedungenen Mörder also mit sich nehmen?«
@@ -1260,7 +1260,7 @@ lassen?« fragte er Sidar Ma Tongi …
 
 »Ja …!!«
 
-»Ich tue es, obwohl ich weiß, daß der verwachsene
+»Ich tue es, obwohl ich weiß, daß der Verwachsene
 natürlich … verunglücken wird, Hoheit … Er hat den
 Tod verdient. Ob die Holländer ihn aufknüpfen oder ob
 Sie ihn umbringen lassen, ist mir im Grunde gleichgültig …«
@@ -1460,7 +1460,7 @@ Auch er war leicht erregt …
 Auch er arbeitete nun mit wahrer Wut …
 
 Wir wußten: wir standen jetzt vor der Lösung des 
-Geheimnisses! Nur ohne Tonziegelschicht trennte uns davon …
+Geheimnisses! Nur eine Tonziegelschicht trennte uns davon …
 
 Unsere Schürhaken rissen Teile der Ziegel heraus …
 
@@ -1519,7 +1519,7 @@ Aber — — ein zweiter Schuß aus der nahen Baumkrone
 … Doktor Scholz Gesicht dort im Blätterdach …
 
 Und Alice Cotton taumelte … sank langsam zurück …
-Die Bombe fiel ihr auf den schoß, blieb liegen …
+Die Bombe fiel ihr auf den Schoß, blieb liegen …
 
 Mit drei — vier Sätzen war Harald neben ihr … Hob
 das gefährliche Geschoß auf … Ich hinterdrein … —
@@ -1541,7 +1541,7 @@ sichern gegen … Mordanklage … Deshalb … ließ ich
 
 Die Stimme wurde unverständlich …
 
-Ihre Augen bekämen jenen überirdischen Ausdruck, der
+Ihre Augen bekamen jenen überirdischen Ausdruck, der
 das nahende Ende verkündet …
 
 Harst beugte sich tiefer … nahm ihre Hand …
@@ -1578,7 +1578,7 @@ Schmugglerkönigs nicht etwa verhaftet würde …
 Wir haben die Urwaldvilla nicht mehr wiedergesehen …
 Im Sultanat Hadjanoor herrscht jetzt der älteste Sohn des
 Sidar, ein Jüngling, der vollständig unter Einfluß des
-holländischen Residenten sieht — zum Glück …! —
+holländischen Residenten steht — zum Glück …! —
 
 Hiermit muß ich mich für heute von den Lesern verabschieden
 …

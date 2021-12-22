@@ -57,7 +57,7 @@ Sie werden jetzt also die nötige Besatzung besorgen, Dietrich,
 werden das Schiff für drei Wochen verproviantieren,
 und — wie lange brauchen Sie dazu?«
 
-»Zwei, Tage … Ich bin hier in Kalkutta gut bekannt
+»Zwei Tage … Ich bin hier in Kalkutta gut bekannt
 …« — —
 
 Zwei Tage später schwamm der Blücher auf den langen
@@ -70,7 +70,7 @@ ehrlich, fleißig und zuverlässig sind. Die Malaien sind bessere
 Seeleute, aber ihnen ist nie recht zu trauen.
 
 Um noch ein paar Angaben über die Prau zu machen:
-Länge 21 Meter, Breite 7 weiter, zwei Masten mit Schonertakelung,
+Länge 21 Meter, Breite 7 Meter, zwei Masten mit Schonertakelung,
 am Bug und Heck je ein Aufbau mit drei Kammern.
 Als Ballast hatten wir Sandsäcke unten im Raum, als
 Waffen für jeden Matrosen einen Revolver, für uns Repetierpistolen.
@@ -358,7 +358,7 @@ Harst lächelte und meinte:
 
 »Man kann derartige körperliche Überredungsmittel in
 diesem Falle nicht gut anwenden. Der Mann ist ein
-verkleideter Europäer … Salaru, Streife ihm das Hemd
+verkleideter Europäer … Salaru, streife ihm das Hemd
 bis zum Bauche hinab …!«
 
 Das war nicht mehr nötig …
@@ -539,7 +539,7 @@ Und Harald erging es genau so …
 Nach einem solchen Hieb mit einem Sandsack fühlt man,
 falls man nicht gerade in die Gefilde der Seligen abgewandert
 ist — infolge Gehirnerschütterung! —, nach dem Erwachen
-einiges Unbehagen. Damen gewogen das Migräne. Zu einer
+einiges Unbehagen. Damen nennen das Migräne. Zu einer
 <@pagebreak/>
 ordentlichen Migräne gehört auch Erbrechen. Und das trat
 denn auch bei mir ein …
@@ -574,7 +574,7 @@ Wir acht haben dort böse vier Tage verlebt. In Kalkutta
 durften wir nicht heraus, da wir sonst verhaftet worden
 wären. Jetzt bin ich wieder Herr der Prau und jetzt, wo
 Ihr Freund Dietrich und die Singhalesen genau so wehrlos
-wie Sie sind, Frage ich Sie, Mr. Harst: Was hatten Sie
+wie Sie sind, frage ich Sie, Mr. Harst: Was hatten Sie
 mit der Prau vor? Was war Ihr Ziel? — Ich warne Sie
 vor jeder Unwahrheit, Mr. Harst … Von Ihrer Antwort
 hängt alles ab …«
@@ -583,7 +583,7 @@ Harald, die Hände auf der Brust gefesselt, setzte sich
 aufrecht …
 
 »Mr. Lollerby, Sie haben uns gestern abend belauscht,
-als Dietrich aus dem Achterdeck sein Erlebnis erzählte …
+als Dietrich auf dem Achterdeck sein Erlebnis erzählte …
 Wenn Sie die Kellerluke etwas anhoben, konnten Sie jedes
 Wort verstehen … Ich hörte einmal ein Geräusch von der
 <@pagebreak/>
@@ -620,7 +620,7 @@ Harald fiel ihm ins Wort …
 »Dann — dann sind Sie der Holländer van Graaven …!
 Kein anderer!«
 
-»Zu dienen: von Graaven, Pieter van Graaven, der
+»Zu dienen: van Graaven, Pieter van Graaven, der
 Schmugglerkönig …«
 
 Und er nahm uns die Fesseln ab … —
@@ -670,7 +670,7 @@ Setzen wir uns … Der Abendbrottisch ist schon gedeckt …« —
 Nun — um es gleich zu sagen: diese Reise nach Sumatra
 werde ich schon Antjes wegen nicht vergessen …
 
-Überhaupt: es herrschten zu Bord des Blücher ja recht
+Überhaupt: es herrschten an Bord des Blücher ja recht
 absonderliche Verhältnisse. Unsere Singhalesen und die sechs
 Malaien waren spinnefeind miteinander. Wie bissige
 Köter, denen man Maulkörbe angelegt hat, schlichen sie auf
@@ -951,7 +951,7 @@ Und dann kam’s … Wie immer gleich einer Explosion.
 Er sagte ohne besondere Betonung:
 
 »Antje kennt die Urwaldvilla, und Pieter van Graaven
-Kanne sie auch … Sie haben uns beschwindelt …«
+kannte sie auch … Sie haben uns beschwindelt …«
 
 Ich war erschlagen …
 
@@ -1086,7 +1086,7 @@ Ah — sie zuckte zusammen …
 »Durch einen an Ihre Schwester gerichteten Brief, Miß
 Cotton … — Sie haben also nicht nur einen Vater und
 <@pagebreak/>
-einen Bruder … Ihre Schwester ist Frau Antje von
+einen Bruder … Ihre Schwester ist Frau Antje van
 Graaven …«
 
 »Das ist richtig … — Ich habe Antje jedoch seit fünf
@@ -1142,7 +1142,7 @@ selbstverständlich … —
 Eine halbe Stunde darauf hatten wir den im Kanal
 verankerten Blücher erreicht …
 
-Es war hier zwischen den hoben Felsenufern sehr
+Es war hier zwischen den hohen Felsenufern sehr
 dunkel …
 
 Wir sahen einen der Singhalesen mit seinem hellen
@@ -1285,7 +1285,7 @@ geschaffen …
 
 »Mein Werk …!« sagte Alice Cotton mit einem klingenden
 <@pagebreak/>
-Lachen, »Bitte, nehmen Sie Platz, meine Herren
+Lachen … »Bitte, nehmen Sie Platz, meine Herren
 … Ich erscheine sofort wieder … Ich möchte nur
 bemerken, daß jeder Fluchtversuch aussichtslos ist …«
 
