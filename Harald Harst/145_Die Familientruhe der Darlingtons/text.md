@@ -1,147 +1,97 @@
-<@pagebreak/>
-es
+<@pagebreak 3/>
 
-Mr
-Hof an! Nr
+<h1>Die Familientruhe der Darlingtons</h1>
 
-es
-ach 0 38 Mr Art ihn:
-M
+<h2>1. Kapitel.</h2>
 
-2]
+<h3>Die Frau mit dem großen Federhut.</h3>
 
-wie 0 7 DD 98.5.4004
-» „« wo.«
-!
-
-Du
-
-wo?
-
-es Akt wo
-
-ie
-
-<@pagebreak/>
-Harald Harst
-Aus meinem Leben
-
-Band: 145
-
-Die Familientruhe
-der Darlingtons
-
-Erzählt von —
-Max Schraut
-
-So
-
-Verlag moderner Lektüre G. in. b. Öl.
-Berlin so 16, Michaelkirchstraße so
-<@pagebreak/>
-Nachdruck nervösem. — Alle Rechte, einschl. das Vergilmungs-eecht,
-vorbehalten. — Copyright 19256 by Verlag moderner
-Gestüte GG. in. 6. H… Berlin.
-
-Druck: B. Lehmann Gurt H, Berlin.
-
-<@pagebreak/>
-A
-
-1\. Kapitel.
-
-DieFraumit dem großen Fedeohutk
-
-Daß ein mit außerordentlichen Raffinement begangenetd
-Verbrechen erst nach Jahrzehnten aufgeklärt wird ’d seine
+Daß ein mit außerordentlichem Raffinement begangenes
+Verbrechen erst nach Jahrzehnten aufgeklärt wird und seine
 Sühne findet, ist in der Kriminalgeschichte der Kulturstaaten
-häufig vorgekommen. Daß aber ein Mord mit einem See geheimnisvollen
+häufig vorgekommen. Daß aber ein Mord mit einem so geheimnisvollen
 Schimmer umkleidet war wie der im Schlosse
 Darlington verübte, dürfte bestimmt, was die einzelnen seltsamen
 Vorgänge und Nebenumstände betrifft, einzig dastehen.
 
-Wir, Harst und!ich, Besitzer in derlei Dingen doch einige
-Erfahrung, Noch nie zeigte sich uns ein Verbrechen anfänglich
-so vollständig in Dunkel geballt wie dieses, das!hier
-nun sc&ildern will, —
+Wir, Harst und ich, besitzen in derlei Dingen doch einige
+Erfahrung. Noch nie zeigte sich uns ein Verbrechen anfänglich
+so vollständig in Dunkel gehüllt wie dieses, das ich hier
+nun schildern will. —
 
-Kneipe Freunde und Leser haben uns Im vorigen Band
-nach den Für-Meer-Inseln begleitet gehabt, wo eine uralte
-Sage vom Wiklkingerkönig Frithjof neues modernes Leben
-gewann, wo »Das geheimnisvolle Floß« sie als nichts anderes
-entpuppte wie Harald dies vermutet: großzügigen Raub,
+Meine Freunde und Leser haben uns Im vorigen Band
+nach den Fär-Oer-Inseln begleitet gehabt, wo eine uralte
+Sage vom Wikingerkönig Frithjof neues modernes Leben
+gewann, wo »Das geheimnisvolle Floß« sich als nichts anderes
+entpuppte wie Harald dies vermutet: großzügiger Raub,
 großzügige Spekulation in Grubenholz!
 
 Der Leser dürfte daher auch den Namen Learat noch im
 Gedächtnis haben, den Namen jenes stillen, melancholischen
 Schotten, von dem wir den großen Motorkutter gemietet
-
 hatten.
-135\.
-<@pagebreak/>
-0000020020020 4&nbsp;20020200202080E0E022
 
-Als wir nun die für-Herr-Inseln wieder verließen und
-naß Edinbourgh zurückkehrten, erzählte uns Learat die Geschichte
+<@pagebreak/>
+Als wir nun die Fär-Oer-Inseln wieder verließen und
+nach Edinbourgh zurückkehrten, erzählte uns Learat die Geschichte
 des Darlington-Stammschlosses, uns dreien … Der
-dritte war der Landä8ömann Winfried von Kultur, Kollege von
+dritte war der Landsmann Winfried von Rutar, Kollege von
 der Detektivfirma Pinkerton. Auch ihn kennt der Leser bereits
 als den Mann, der »nicht Otto Schmiedeck hieß« …
 
 Es lag in Learats ganzer Veranlagung, daß er seine
-Erzählung sehr breit Ausgang. I will sie hier bedeutend
+Erzählung sehr breit ausspann. Ich will sie hier bedeutend
 kürzen und mich auf die Hauptsachen beschränken. —
 
 Learats Oheim väterlicherseits war seit zwanzig Jahren
 Kastellan auf dem halb verfallenen Darlington-Stammsitz,
-einem burgähnlichen Schreck, das im nördlichen Schottland
+einem burgähnlichen Schloß, das im nördlichen Schottland
 mitten im Braby-Hochmoor auf einem einzelnen Felsrücken
-sie erhebt.
+sich erhebt.
 
-Im Jahre 1928 hatte Learat diesen Onkel dort befand,
+Im Jahre 1928 hatte Learat diesen Onkel dort besucht,
 weil er sich nach einer schweren Lungenentzündung einige
 Wochen in anderer Luft erholen sollte …
 
-Seinen Oheim hatte er seit fünf Jahren nicht! gesehen.
+Seinen Oheim hatte er seit fünf Jahren nicht gesehen.
 Der empfing ihn wortkarg und fast unfreundlich, erklärte
 ihm gleich nach der ersten Mahlzeit, daß er das
 Schloß selbst nicht betreten dürfe. Lord Percy Darlington
 habe es verboten,
 
-Der alte John Learat bewohnte im sogenannten Gäste-pays,
-das ein Stü vom Schlosse entfernt im Parke lag, im
-Erdgeschoß zwei Zimmer und hatte Ebenholz am drittes für
-den Felsen hergerichtet, dessen Bitte um Aufnahme für einige
-Wochen er nicht gut hakte ablehnen können. Jedenfalls gewann
+Der alte John Learat bewohnte im sogenannten Gästehaus,
+das ein Stück vom Schlosse entfernt im Parke lag, im
+Erdgeschoß zwei Zimmer und hatte ebendort ein drittes für
+den Neffen hergerichtet, dessen Bitte um Aufnahme für einige
+Wochen er nicht gut hatte ablehnen können. Jedenfalls gewann
 unser Learat schon am ersten Tage den Eindruck, daß
 irgend etwas mit dem alten Stammschloß nicht recht stimmen
+könnte.
 
-konnte.
-Der Speisenkarte, aber noch rüstige John Learat hauste
-dort auf dem einsamen Herrensitz ganz allein, lachte sich
-selbst seine Mahlzeiten und hatte auch keinerlei Bericht mit
+Der greisenhafte, aber noch rüstige John Learat hauste
+dort auf dem einsamen Herrensitz ganz allein, kochte sich
+selbst seine Mahlzeiten und hatte auch keinerlei Verkehr mit
 den Leuten aus dem freilich zwei Meilen entfernten Dorfe
-Braby, nach dem das Hochmoor vor! seinen Namen erhalten
-
+Braby, nach dem das Hochmoor dort seinen Namen erhalten
 hat.
-<@pagebreak/>
-DSSSSSSSSSSS !] DSSSSSDSSSSS
 
-Johns einzige Gefährten waren drei mächtige Rücken,
-eine Mischlingspark von Wolfshund und Leonberger, Tiere
+<@pagebreak/>
+Johns einzige Gefährten waren drei mächtige Rüden,
+eine Mischlingsart von Wolfshund und Leonberger, Tiere
 mit breitem Brustkasten, hochbeinig, riesig, unfreundlich und
 bissig.
+
 Unser Learat beobachtete am zweiten Abend, daß sein
 Oheim diese mächtigen Bestien abends in das Schloß eingesperrte.
 Und dies geschah dann jeden Abend. — Am fünften
 Tage seiner Anwesenheit wagte er den finsteren Alten zu
-fragen, Technik die tiefe die Nacht im Schlosse zubringen
-müßten. John erwiderte kurz, das gehe den Felsen gar
+fragen, weshalb die Tiere die Nacht im Schlosse zubringen
+müßten. John erwiderte kurz, das gehe den Neffen gar
 nichts an … Er solle sich nicht um Dinge kümmern, die
 »traurig genug seien,« — so drückte er sich wörtlich aus. —
 
 Unser Kutterbesitzer pflegte nun bei offenen Fenstern zu
-spürbaren. Die beiden Fenster seines Zimmers im Gästehaus
+schlafen. Die beiden Fenster seines Zimmers im Gästehaus
 gingen nach Norden zu, und nur ein Streifen Buschwerk
 und eine Allee von Eichen trennten das schlichte Gästehaus
 von dem Schlosse.
@@ -149,148 +99,143 @@ von dem Schlosse.
 In der sechsten Nacht stürmte es kräftig. Die Parkbäume
 rauschten, und unser Learat konnte nicht sofort einschlafen.
 
-Gegen Mitternachut erhob er sich, um die Fenster zu
+Gegen Mitternacht erhob er sich, um die Fenster zu
 schließen. Er zog seinen Mantel über, schlüpfte in die
 Morgenschuhe und trat an das eine Fenster,
 
-er Vollmond lugte Eure die Baumkronen, wurde aber
+Der Vollmond lugte durch die Baumkronen, wurde aber
 immer wieder von jagenden Wolkenfetzen verhüllt,
 
-glücklich vernahm Learat! da vom Schlosse her das wütende
-Bellen der Rücken
+Plötzlich vernahm Learat da vom Schlosse her das wütende
+Bellen der Rüden.
 
 Die Tiere vollführten einen Höllenlärm, und zwischenein
 hörte Learat auch eine kreischende Stimme, die niemals die
-eines Oheims sein konnte.
+seines Oheims sein konnte.
 
-Dieser Lärm machte auf ihn einen unheimlichen Eindruck,
-Er als Grotte war abergläubisch. Er dachte an seines
+Dieser Lärm machte auf ihn einen unheimlichen Eindruck.
+Er als Schotte war abergläubisch. Er dachte an seines
 Oheims Weigerung, ihm das Innere des Schlosses zu zeigen,
 dachte auch an die vielen anderen Seltsamkeiten in der
 Lebensführung des alten Mannes …
-<@pagebreak/>
-SSSSSSSSSSSS 6 SSSSSSSSSSSS
 
-Das Bellen und Leuten der Hunde wollte nicht verstummen
+<@pagebreak/>
+Das Bellen und Heulen der Hunde wollte nicht verstummen
 …
 
 Dann sah Learat plötzlich eine Gestalt, die den Weg
 vom Gästehaus zum Schlosse entlanglief: sein Onkel! —
 Er erkannte, daß der alte John in der Linken eine abgeblendete
 Laterne und in der Rechten eine klobige doppelläufige
-worden!adepisiole lag.
+Vorderladepistole trug.
 
-Duell entschlossen sprang er da aus dem Fenster und
-schrieb dem Greise noch …
+Schnell entschlossen sprang er da aus dem Fenster und
+schlich dem Greise nach …
 
-Als er so den Gebüschstreifen passiert tote und nun die
+Als er so den Gebüschstreifen passiert hatte und nun die
 Westfront des Schlosses überblicken konnte, blieb er überrascht
 stehen …
 
-Im er!!en Stock, vor dem ein von Säulen gestützter breiter
-Altan lag, waren fünf Fenster erleuchtet, Deutlich gewahrte
+Im ersten Stock, vor dem ein von Säulen gestützter breiter
+Altan lag, waren fünf Fenster erleuchtet. Deutlich gewahrte
 er dann auch auf den zugezogenen hellen Vorhängen des
 einen Fensters den scharf umrissenen, rasch vorübergleitenden
 Schatten einer Frau mit großem Federhut auf dem Kopfe
 — einer schlanken Frau, die einen langen Stock in den Händen
 zu tragen schien.
 
-Der Schatten schwand, aber die Hunde tobten noc& Füße
+Der Schatten schwand, aber die Hunde tobten noch
 wütender — offenbar oben In den erleuchteten Zimmern,
 
-Inzwischen hafte der alte John den Seiteneingang erreicht
-und die Ruf binden sich wieder versperrt. Unser
-Legen) drückte vorsichtig auf die Wachhunde, kannte aber nicht
-Minen und trat daher in den Baumschatten der Eichenallee
-zur
-noch: wer Minuten vielleicht, und die Zimmer oben
-wurden mit einem Schlage dunkel … Die Hunde rote
+Inzwischen hatte der alte John den Seiteneingang erreicht
+und die Tür hinter sich wieder versperrt. Unser
+Learat drückte vorsichtig auf die Türklinke, konnte aber nicht
+öffnen und trat daher in den Baumschatten der Eichenallee
+zurück.
 
+Noch zwei Minuten vielleicht, und die Zimmer oben
+wurden mit einem Schlage dunkel … Die Hunde
 verstummten,
 
-Nach einer Welle wieder huschte der matte Schein einer
+Nach einer Weile wieder huschte der matte Schein einer
 Laterne über jene Fenstervorhänge hin …
 
 Unsere Learat wartete …
 
 Seine Geduld wurde auf eine harte Probe gestellt. Es
-dauerte eine voll!e« Stunde, bevor der Alte wieder das Schloß
-
+dauerte eine volle Stunde, bevor der Alte wieder das Schloß
 verließ. Die Hunde blieben …
+
 Langsam schritt der alte Mann an dem hinter einer Eiche
 <@pagebreak/>
-2S0SSSSSSSISSS 7 DSSSSSSSSSSS
-
-stehender: Felsen vorüber. Er hatte die Eigentümlichkeit, lau!
-vor sich bin zu reden. Das tat er ewig jetzt. Learat hörte,
+stehenden Neffen vorüber. Er hatte die Eigentümlichkeit, laut
+vor sich bin zu reden. Das tat er auch jetzt. Learat hörte,
 wie er in verbissener Wut hervorstieß:
-darf — ich fasse Die schon von all! ;. ist 34 hab:
-Schuld »…
-dann rauchte der alle Schloßkastellan in der Finsternis
-der alles unter.
 
-Unser Learat wartete abermals Ding Halde Stunde …
+»Oh — ich fasse Die schon noch ab …! Ich habe
+Geduld …«
 
-hier!s8 gesmab mehr …
+dann tauchte der alte Schloßkastellan in der Finsternis
+der Allee unter.
+
+Unser Learat wartete abermals eine halbe Stunde …
+
+Nichts geschah mehr …
 
 Dunkel lag der verfallene Bau da …
 
-Learat kehrte Suchst das Fenster in sein Zimmer Zuruf,
+Learat kehrte durch das Fenster in sein Zimmer zurück,
 schlief ein und fragte dann den Oheim morgens beim Frühstück
-ganz offen nach der Bedeutung der Zuschlichen Bord
+ganz offen nach der Bedeutung der nächtlichen Vorgänge.
 
-Gänge.
 Das verwitterte Gesicht des Kastellans wurde aschfahl
-
 … verzerrte sich …
 
-Und grollend schrie er den Felsen an: »Tode Deine
+Und grollend schrie er den Neffen an: »Packe Deine
 Sachen — reise ab! Ich wußte ja, daß Du mich nur
-stören würdest …! Ich werde Dir Geld geben … Goß in
-ein Seebad, erhole Sinn dort … Und solltest Du je einem
+stören würdest …! Ich werde Dir Geld geben … Geh in
+ein Seebad, erhole Dich dort … Und solltest Du je einem
 Menschen auch nur ein Sterbenswörtchen von alledem erzählen,
-[so … trifft Dich mein Fluch!«
+so … trifft Dich mein Fluch!«
 
-Learat starrte den halb Sinnlosen verständunislos an und
-fluchte ihn dann. zu begütigen …
+Learat starrte den halb Sinnlosen verständnislos an und
+suchte ihn dann zu begütigen …
 
 Der Greis wurde ruhiger, verlangte aber trotzdem, daß
-sein Reise abreise,!Gehenkte ihm eine größere Summe Geld
-und meinte beim Abschied traurig:.
+sein Neffe abreise, schenkte ihm eine größere Summe Geld
+und meinte beim Abschied traurig:
 
-»Glaube mir: es ist Besitzer, daß Du mich hier allein
-läßt … Ich bin nicht ohne Grund mit meinen Beweis Jahren
-satt schneeweiß … — Frage nichts — und schweige …« —
+»Glaube mir: es ist besser, daß Du mich hier allein
+läßt … Ich bin nicht ohne Grund mit meinen sechzig Jahren
+schon schneeweiß … — Frage nichts — und schweige …« —
 
 Learat begab sich denn auch mit seinem Rucksack und
-Kleinen lassen zu Fuß nach dem Dorfe Braby. Von bhiu«
+kleinen Koffer zu Fuß nach dem Dorfe Braby. Von hier
 konnte er die Eisenbahn benutzen. Auf dem Bahnhof sprach
-er mit dem Wirt, verschwieg, daß er ein Weise des Schloßkastellans
-sel und hörte von diesem, daß man den alten
-Learat hier in der Gegend allgemein für geistesfirank halte.
-<@pagebreak/>
-0dSDSSSSSSSSS 8 SSDSSSSSSSSD
+er mit dem Wirt, verschwieg, daß er ein Neffe des Schloßkastellans
+sei und hörte von diesem, daß man den alten
+Learat hier in der Gegend allgemein für geisteskrank halte.
 
+<@pagebreak/>
 Dann bestieg er den Zug. —
 
 Und heute nun auf seinem Kutter erzählte er uns, was
 ich hier soeben geschildert habe.
 
 Nachdem er geendet, fragte Harald ihn allerlei über die
-
 Familie Darlington.
-Das alte Geschlecht zählte zurzeit drei männliche Sprossen;
 
+Das alte Geschlecht zählte zurzeit drei männliche Sprossen:
 Lord Percy Darlington, verheiratet, fünfzig Jahre, zumeist
-in London lebend. Sein Sohn und Erde des Lordtitels, Edward,
-achtzehn Jahre, und kaum der ältere Bruder des
+in London lebend. Sein Sohn und Erbe des Lordtitels, Edward,
+achtzehn Jahre, und dann der ältere Bruder des
 Lords, Daniel Darlington, der an religiösem Wahnsinn litt
 und in einer Privatheilanstalt untergebracht war.
 
 Jedenfalls konnten auch Haralds Fragen die dunklen
-Geschehnisse jener Nacht in keiner Weise !.ich…u.
+Geschehnisse jener Nacht in keiner Weise klären.
 
-Learat behauptete noch4, daß die Erscheinung der Frau
+Learat behauptete noch, daß die Erscheinung der Frau
 mit dem großen Federhut ohne Zweifel im Schlosse häufiger
 auftauchte und daß er überzeugt sei, die Hunde würden nur
 deshalb dort allnächtlich eingesperrt, um diese Person zu
@@ -298,49 +243,48 @@ verscheuchen.
 
 Harald äußerte sich nicht weiter dazu.
 
-In Edinbourgh angelangt, schossen wir den Landsmann
-Natur in ein Sanatorium und reisten südwärts — nach
-
+In Edinbourgh angelangt, schafften wir den Landsmann
+Rutar in ein Sanatorium und reisten südwärts — nach
 London …
 
-Angeblich … nackt Hause …
-Harst hatte zu Learat geäußert, das Schloß Darlington
+Angeblich … nach Hause …
 
+Harst hatte zu Learat geäußert, das Schloß Darlington
 interessiere ihn doch nicht so sehr, daß er deshalb ein paar
 Tage opfern wolle …
 
 Hatte geäußert …
-Wie er in Wahrheit dachte, wußten Rutar und ich ganz
 
-genau. Vor Natur hatten wir keine Geheimnisse »…
+Wie er in Wahrheit dachte, wußten Rutar und ich ganz
+genau. Vor Rutar hatten wir keine Geheimnisse …
+
 <@pagebreak/>
-»SSSSSSSBDSSSP 9 DSSSSSSSSSSTS
 
 <h2>2. Kapitel.</h2>
 
 <h3>Unser Sommerpalast.</h3>
 
-»Manuela!« kreischte die entsetzlich [Schmierige Alte, die
-da vor der Jorftzükte des Zigeunerdorfes hockte und in einem
-Rest«!l rührte, unter dem ein gerissener stimmte …
+»Manuela!« kreischte die entsetzlich schmierige Alte, die
+da vor der Torfhütte des Zigeunerdorfes hockte und in einem
+Kessel rührte, unter dem ein Torffeuer glimmte …
 
-»Manuela, so Stamm da … Es sind zwei Herren da?«
+»Manuela, so komm doch … Es sind zwei Herren da!«
 
 Die beiden Herren, die vom Dorfe Braby aus hier nach
-der Zigeunerniederlassung gewandert waren, trugen dick sie
-packte Rucksäcke, über die noch je eine Klappstaffelei und ein
-Zeicyenbrett geschnallt waren.«
+der Zigeunerniederlassung gewandert waren, trugen dick gepackte
+Rucksäcke, über die noch je eine Klappstaffelei und ein
+Zeichenbrett geschnallt waren.
 
-Mal sah es den beiden auch sonst schon von weitem
-zu, daß sie zur Zunft der Maler gehörten … jener Maler, die
-selbst in England von« das Haar genial lang wachsen (alten,
-wehende Krawatten und weiche Kragen lieber und zumeist zu
-einem Nebenfluß zu Mangel an Geld leiden …
+Man sah es den beiden auch sonst schon von weitem
+an, daß sie zur Zunft der Maler gehörten … jener Maler, die
+selbst in England noch das Haar genial lang wachsen lassen,
+wehende Krawatten und weiche Kragen lieben und zumeist an
+einem Überfluß an Mangel an Geld leiden …
 
 Diese derart herausstaffierten Kürbissen waren wir beide,
 Harst und ich.
 
-In Brabyy hatten wir gehört, daß in einer Schlucht
+In Braby hatten wir gehört, daß in einer Schlucht
 westlich des Schlosses seit einem halben Jahrhundert Zigeuner
 hausten — kaum eine halbe Meile von Darlington entfernt. —
 Was konnte uns angenehmer sein als dies?! Wir hofften
@@ -351,330 +295,322 @@ meisten Weiber und Kinder des Stammes jetzt wie stets
 auf der Sommerwanderung begriffen seien.
 
 Aus der offenen, aber mit einem Zeugfetzen verborgenen
-Für der elenden Stallhütte trat jetzt Manuela hervor …
+Tür der elenden Stallhütte trat jetzt Manuela hervor …
 
 Wir staunten …
+
 <@pagebreak/>
-SSSSSSSSSSSS 10&nbsp;0000000000202
+Es gibt gewiß unter den Zigeunern Mädchen von überraschender
+Schönheit. Manuela aber war in ihrer Art
+einzig …
 
-Es gibt gewiß unter den Zigeunern Mädchen von über«
-ziehender Schönheit. Manuela aber war in ihrer Art
-
-0020
-
-»Donnerwetter?« sagte Harald zu mir auf deutsch. »Eine
+»Donnerwetter!« sagte Harald zu mir auf deutsch. »Eine
 Hochmoorperle, mein Alter …! Und dazu noch dieses Kostüm!
 Das sind wahrhaftig kostbare alte Brokatstoffe, und der Schleier
-ist tunesischGe Arbeit — künstlerisch!
+ist tunesische Arbeit — künstlerisch!«
 
-Manuela mochte sünszebhn Jahre sein, war aber bereits
-voll Gebrüll. Zigeunerinnen können ja leider mit Türrand«-
-zwanzig bereits als alt gelten.
+Manuela mochte fünfzehn Jahre sein, war aber bereits
+voll erblüht. Zigeunerinnen können ja leider mit fünfundzwanzig
+bereits als alt gelten.
 
-»ck Sie lächelte kokett …
-mit der alten Vettel dort am Kochtopf hatten wir
+Sie lächelte kokett …
 
-uns nur mühsam verständigen können. Manuela sprach)
+Mit der alten Vettel dort am Kochtopf hatten wir
+uns nur mühsam verständigen können. Manuela sprach
 tadellos englisch, immerhin mit dem harten Beiklang, der
 auf ihre Muttersprache zurückzuführen war.
 
 Harald trug unser Anliegen vor … Wir seien Maler
-aus Holland, aus Amsterdam, wollten Ungebildet malen
+aus Holland, aus Amsterdam, wollten Moorbilder malen
 und am liebsten hier mitten im Hochmoor einige Zeit wohnen.
 Vielleicht könnte man uns eine gerade leerstehende Hütte
 vermieten. Wir würden gut zahlen …
 
 Das kokette Lächeln auf Manuelas reizvollem Gesicht
-jemand … Ihre [Schränkte wundervolle Gestalt sank gleichsam
+schwand … Ihre schlanke wundervolle Gestalt sank gleichsam
 in sich zusammen … In die schwarzen Augen trat ein
-Ausdruck des Wikßtrauens …
+Ausdruck des Mißtrauens …
 
-Sie [schüttelte energisch den Kopf …
+Sie schüttelte energisch den Kopf …
+
 »Mein Vater ist der Patron des Dorfes, der Häuptling
-
--… Er hat es verboten … Drüben in Braby gibt es zwei
+… Er hat es verboten … Drüben in Braby gibt es zwei
 Gasthäuser …«
+
 »Braby ist weit entfernt, Manuela …«
+
 Harald zog seine Brieftasche und spielte mit einer Fünfzigpfundnote
 …
+
 Die Augen des Mädchens hingen an dem Geldschein …
+
 auch das alte Weib stierte auf Harsts Hand …
-Manuela …!!» rief sie leise …
-Und das hieß: »echte die Herren nicht weg …!’«
+
+»Manuela …!!« rief sie leise …
+
+Und das hieß: »Schicke die Herren nicht weg …!«
+
 Inzwischen waren aus den benachbarten Hütten noch
 <@pagebreak/>
-SSSSSSSSSSSS 11 SSSSSSSSSSSSD
-
 einige andere weibliche Gestalten aufgetaucht — alle von
 demselben »Liebreiz« und derselben Sauberkeit wie Manuelas
 »Großmütterchen« …
+
 Denn die schmierige Vettel war Manuelas »Großmama«.
+
 Das erfuhren wir nun, als die junge Zigeunerin der
-
 Alten zurief:
-»Wenn die Herren Maler sind, =« — man könnte es
 
+»Wenn die Herren Maler sind, — — man könnte es
 wohl tun …« …
+
 Das bedeutete doch nur: »Maler sind harmlos …
+Mit denen darf man eine Ausnahme machen …«
 
-Mit denen darf man eine Ausnahmte machen …«’
 Aus dem Chor der übrigen Huldinnen rief jetzt eine
-
 Stimme:
 
 »Das Geld wird verteilt, Manuela … Die Männer
 erfahren nichts …«
 
-Man sieht: Haralds Praxis hatte gesiegt? Die Fünfzigpfundnote
+Man sieht: Haralds Praxis hatte gesiegt! Die Fünfzigpfundnote
 zerstreute die Bedenken, — und unser erlogenes
-
 Metier half mit! —
+
 Manuela wurde wieder holdselig-liebenswürdig … winkte
+uns …
 
-uns
 Wir betraten die Hütte …
-Nun — im Interesse des guten Einvernehmens mit Max
 
-Manuela vermied!ich es, mir die Nase zuzuhalten, obwohl hier
-in der Spitzbube ein Odeur herrschte, gegen das Kuhstallduft
-einfach Rosenduft ist …
+Nun — im Interesse des guten Einvernehmens mit
+Manuela vermied ich es, mir die Nase zuzuhalten, obwohl hier
+in der Torfbude ein Odeur herrschte, gegen das Kuhstallduft
+einfach Rosenduft ist …!
 
-— Licht Harald machte in ganz merkwürdiges Gesicht
-0, als ob er vielen müßte Ii dies ich »! Anwalt zurück;
+Auch Harald machte in ganz merkwürdiges Gesicht, —
+so, als ob er niesen müßte und dies mit Gewalt zurückdrängte
+…
 
-drängte …
-
-Die Hütte hakte zwei Stuben, Der Fußboden bestand
-aus gessampftem Lehm. Die sogenannten Möbel waren
-Nur als Gerümpel zu bezeichnen.
+Die Hütte hatte zwei Stuben. Der Fußboden bestand
+aus gestampftem Lehm. Die sogenannten Möbel waren
+nur als Gerümpel zu bezeichnen.
 
 Manuela bat uns Platz zu nehmen …
 
-Wir saßen an einem Tisch dicht an ’dem kleinen halb
-
+Wir saßen an einem Tisch dicht an dem kleinen halb
 erblindeten Fenster …
-Harald verhandelte »mit Manuela -… Vierzehn Jage —
 
-eine Hütte für uns =« möglichst ruhig …
+Harald verhandelte mit Manuela … Vierzehn Tage —
+eine Hütte für uns — möglichst ruhig …
+
 <@pagebreak/>
-DüDSSSSSSSSSSS 1292 Sessels
+Oh — Manuela war gerissen wie ein Pferdeschacherer
+… Das liegt den Zigeunern im Blute …
 
-O5 — Mänteln war gerissen wie ein Pferdeschacherer
-
-— Das liegt den Zigeunern im Blute …
-
-Sie verlangte sfünszig Pfund für Zwei Wochen … Man
+Sie verlangte fünfzig Pfund für zwei Wochen … Man
 denke …!! Fünfzig Pfund!
 
-Zum Scheine tat Harald so, als ob ihm dies Ernst doch
+Zum Scheine tat Harald so, als ob ihm dies denn doch
 zu reichlich sei … zum Schein … Arme Maler — — —
 und so weiter … — Schließlich wanderte die Fünfzigpfundnote
-dann doch in Manuelas reizend-schmutziges Händen,
-Und als sie das Geld erst hatte, Thar ihre nächste Frage:
+dann doch in Manuelas reizend-schmutziges Händchen.
+Und als sie das Geld erst hatte, war ihre nächste Frage:
 »Können Sie mir vielleicht Kleingeld geben? Und — würden
 Sie der Großmutter und den anderen Frauen vielleicht sagen,
 daß Sie nur zehn Pfund gezahlt haben?«
 
 »Aber gewiß, Manuela … Hier ist kleines Geld … —
 Wo haben Sie denn die prächtigen Brokatstoffe und den
-Schleier her, Manuela …? Uhr« Maler habe ich ein Auge
+Schleier her, Manuela …? Als Maler habe ich ein Auge
 für derlei Gewebe … Der Brokat ist alt … Man dürfte
 Derartiges kaum zu kaufen bekommen …«
 
 Siehe da: Manuela ward blutrot … schaute zur Seite,
+platzte heraus:
 
-Platte heraus:
-»Oh — das … das lag in einer all!en Truhe, die mein
-
+»Oh — das … das lag in einer alten Truhe, die mein
 Vater mal gekauft hat …«
 
-»So … so … 5« nickte Harald. »Und nun könnten Sie
-As unser Qutartler zeigen, Mantielita …’ Er lächelte
-an tot
+»So … so …,« nickte Harald. »Und nun könnten Sie
+uns unser Quartier zeigen, Manuelita …« Er lächelte
+sie an …
 
-Welt der Teufel: är ist eben in ällfen schildern fest, und
-als Liebhaber, als von Juan … Und dabei hat es doch)
-nur ein einziges Mädchen in seinem Leben gesehen, die sein
-kühles Herz je mit der Karten Wärme wahr. Liebe Grub!te:
+Weiß der Teufel: er ist eben in allen Sätteln fest, und
+als Liebhaber, als Don Juan … Und dabei hat es doch
+nur ein einziges Mädchen in seinem Leben gegeben, die sein
+kühles Herz je mit der zarten Wärme wahrer Liebe erfüllte:
 seine Braut, die ihm durch Mörderhand entrissen wurde!
-Kreis Freunde und Verehrer, die vielleicht! den Inhalt zu
-einem Berufswechsel nicht kennen, mache il) mit den ersten
+Harsts Freunde und Verehrer, die vielleicht den Anlaß zu
+seinem Berufswechsel nicht kennen, mache ich auf den ersten
 Band »Zwei Taschentücher« hiermit aufmerksam.
 
-Harald lächelte … Und Mänteln wurde wieder sicherer
-und Meter, erhob sich, Fenster!Co das Lächeln und meinte:
-»Wenn he Herren mir bitte folgen wollen …«
+Harald lächelte … Und Manuela wurde wieder sicherer
+und kecker, erhob sich, erwiderte das Lächeln und meinte:
+»Wenn die Herren mir bitte folgen wollen …«
 
-Wir grunzte Im betonte
+Wir graute im voraus
+
 <@pagebreak/>
-202D0SSSSEDSSODOS 13 DSSSSSESSSBEIE
-
 Und — mit Recht, wie wir dann sahen …
 
-wundere führte uns durch das Dorf bis in den tiefsten
-Winkel der felsigen ShchHluchgt. Ein Dutzend kleiner Zigeunerrangen,
+Manuela führte uns durch das Dorf bis in den tiefsten
+Winkel der felsigen Schlucht. Ein Dutzend kleiner Zigeunerrangen,
 die meisten splitternackt, gab uns das Geleit …
 
 Dicht an einer schroffen Stelle der Schluchtwand lehnte
-hier eine Westküste mit schrägem Dach aus Baumästen, die
-mit Moos belegt waren. Sehr malerisch;) — ohne Frage …
-
+hier eine Torfhütte mit schrägem Dach aus Baumästen, die
+mit Moos belegt waren. Sehr malerisch — ohne Frage …
 Eine Holztür — zwei Fensterchen … Innen ein einziger
-Kultur, halbdunkel trotz »des hellen Sonnenscheins draußen.
+Raum, halbdunkel trotz des hellen Sonnenscheins draußen.
+
 Und … Gestank … — — Gestank, zum Gotterbarmen!
-
-Vsfjenbar hatten hier die Ziegenbocke der Niederlassung ihr
-
+Offenbar hatten hier die Ziegenböcke der Niederlassung ihr
 Quartier gehabt …! Und Ziegenböcke duften bekanntlich stark
-
 und nachhaltig …!
 
 Mobiliar?!
-Nun ja — da waren Zwei Holzbetten, ein Schrank und
 
+Nun ja — da waren zwei Holzbetten, ein Schrank und
 so weiter … Da war auch ein offener Herd … Aber alles
 starrte von Schmutz … Auf dem Lehmboden lagen Ziegenunrat,
 Stroh und Blätter umher …
 
 Harst rieb sich die Hände …
 
-»Sehr ![Schön, liebe Manuelita … — Prachtvoll einfach …
+»Sehr schön, liebe Manuelita … — Prachtvoll einfach …!
 Bitte — bringen Sie uns einen Besen und einen Scheuerlappen
 …«
 
-»ob — die Großmutter wird hier aufräumen … wenn
-die Herren ihr ins Kleinigkeit zahlen …«
+»Oh — die Großmutter wird hier aufräumen … wenn
+die Herren ihr eine Kleinigkeit zahlen …«
 
-Die halbe Mutigere verschwand,
+Die holde Manuela verschwand,
 
-»Tun wir alles selbst, Manuelita … also Bogen und
-Scxeterlappen …!«
+»Tun wir alles selbst, Manuelita … also Besen und
+Scheuerlappen …!«
 
 Harst setzte sich vorsichtig auf einen Schemel und holte
-sein Zigarettenetui hervor
+sein Zigarettenetui hervor …
 
-»Donner nahe eins, mein Alter, — bevor wir den
+»Donner noch eins, mein Alter, — bevor wir den
 Gestank hier herauskriegen, werden wir …«
 
 Und — verstummte …
-Starrte auf eine Stelle der Wand … Neben dem
 
+Starrte auf eine Stelle der Wand … Neben dem
 Schranke …
+
 Dort — wahrhaftig — dort hing ein großer schwarzer
 <@pagebreak/>
-SSSSSSSSSSSS 14 SSDSSDSSDSSSS
-
-verblichener Damenhuk aus Kammer mit zwei mächtigen
-
+verblichener Damenhut aus Sammet mit zwei mächtigen
 Straußenfedern daran …
 
 Harst stand langsam auf …
 
-Harst ging auf den Hut zu wie ein angrissbereiter Indianer
+Harst ging auf den Hut zu wie ein angriffbereiter Indianer
 — den Oberkörper halb vorgereckt …
 
-Und nahm das Huilgebäude von dem in die Torfziegel
-Hineingetriedenen Pflock …
+Und nahm das Hutgebäude von dem in die Torfziegel
+hineingetriebenen Pflock …
 
 Drehte sich um, wollte etwas sagen …
 
-Fuhr wieder herum, hängte den Hut Zuruf und war
+Fuhr wieder herum, hängte den Hut zurück und war
 mit einem Satz auf seinem Schemel, sog an der Zigarette,
-deutete auf die offene Dir unseres Sommerpalastes …
+deutete auf die offene Tür unseres Sommerpalastes …
 
 Ich merkte: er hatte jemand am Fenster vorübergehen
-Sehen, hatte deshalb den Hut wieder zurü&gehängt …
+sehen, hatte deshalb den Hut wieder zurückgehängt …
 
 Dann verdunkelte sich der Eingang bereits … Eine
 hagere Frau erschien, keine Zigeunerin … Eine Frau im
-schlichten grauen Kleid, auf dem Kopf einen kleinen Filz
+schlichten grauen Kleid, auf dem Kopf einen kleinen Filzhut
+…
 
-du! …
 Sah uns beide … stutzte … — nein, mehr noch: prallte
-
 zurück …
+
 Und im gleichen Augenblick von ferne Manuelas gellende
-
 Stimme …
-Die Frau mochte hastig kehrt, lief am Fenster vorüber.
+
+Die Frau machte hastig kehrt, lief am Fenster vorüber.
 Leider waren die Fensterscheiben derart schmutzig, daß
+man unmöglich hindurchschauen konnte …
 
-man unmöglich hindyrhschauen sonnte +
-
-»Kleid sitzen, hinein Älter, flüsterte Harald … »Es
-genügt … I! Und sein Blick wanderte zu dem Sammethu?!
-in …
+»Bleib sitzen, mein Älter, flüsterte Harald … »Es
+genügt …!! Und sein Blick wanderte zu dem Sammethut
+hin …
 
 Indem kam Manuelita mit Besen und einem sogenannten
 Scheuertuch. Sie war erregt, verlegen …
 
 Rief mit gemachter Munterkeit:
 
-»Die Herren könnten einen kleinen Spaziergang untere
-nehmen … Ich werde hier alles säubern … Auch einen
-verriet bringe ich und ganz neue Bettwäsche …«
+»Die Herren könnten einen kleinen Spaziergang unternehmen
+… Ich werde hier alles säubern … Auch einen
+Teppich bringe ich und ganz neue Bettwäsche …«
 
 Harald nickte …
-»Gut … besseren Sie aber auch die Fenster, Manuelita
-Und verbrennen Sie auf dem Herd Pfefferminzkräuter
+
+»Gut … Öffnen Sie aber auch die Fenster, Manuelita
+… Und verbrennen Sie auf dem Herd Pfefferminzkräuter
 <@pagebreak/>
-2E2BDSSSSSSSSS 15 0DSSSSSSSSSSSD
+… Es riecht hier stark nach Ziegen … — Die Frau soeben
+war wohl aus dem Dorfe Braby …«
 
-— Es riecht hier stark nach Ziegen … — Die Frau l(soeben
-war wohl Lug dem Dorfe Braby …«
-
-»38 … ja — eine Händlerin … Ganz recht, Herr, —
-—« aus Braby …«
+»Ja … ja — eine Händlerin … Ganz recht, Herr, —
+— aus Braby …«
 
 Sie log natürlich …
 
-Wir verließen die Hätte und schauten uns erst mal
+Wir verließen die Hütte und schauten uns erst mal
 draußen in Ruhe um. — Das Zigeunerdorf bestand aus
 etwa zwanzig Hütten. Die Schlucht war vielleicht fünfhundert
 Meter lang und eine jener felsigen Einkerbungen, wie sie
-in den schritten)en endlosen Hochmooren [so häufig anzutreffen
-und als Bergrücken zu deuten sind, die durch die Mook-schichten
-bis ans Tageslicht sich emporlecken.
+in den schottischen endlosen Hochmooren so häufig anzutreffen
+und als Bergrücken zu deuten sind, die durch die Moorschichten
+bis ans Tageslicht sich emporrecken.
 
-Neben unserer Hütte zog ein an der Steilwand eine Art
-Pfad nach« oben zum Rande des Moors und zu einigen
+Neben unserer Hütte zog sich an der Steilwand eine Art
+Pfad nach oben zum Rande des Moors und zu einigen
 Bäumen und Büschen.
 
 Diesen Pfad kletterten wir empor und hatten nun einen
-weiten Rüundblie, saßen drüben ganz deutlich das alte Schloß
-zwischen Bäumen hervorclugen, traten die Thar- und Ziegenherden
+weiten Rundblick, sahen drüben ganz deutlich das alte Schloß
+zwischen Bäumen hervorlugen, sahen die Schaf- und Ziegenherden
 der Zigeuner, die von Kindern gehütet wurden.
 
 »Legen wir uns hier nieder,« meinte Harst und nahm den
-Rucdksack ab … »Ich wette, Manuela wird den Federhut eingewickelt
-davontragen -… Und das will ich feststellen …«
+Rucksack ab … »Ich wette, Manuela wird den Federhut eingewickelt
+davontragen … Und das will ich feststellen …«
 
 Wir lagen zwischen den Sträuchern, umweht von dem
 würzigen Duft des Moores …
 
-Oh — ein Genuß war das nach dem entsetzlichen Schraut
+Oh — ein Genuß war das nach dem entsetzlichen Gestank
 in der elenden Bude …!
 
 Ich rauchte mir eine Zigarre an. Wir konnten die ganze
 Schlucht überblicken … —
 
 Harald behielt recht …
-nach fünf Minuten kam Manuela aus unserer Hütte
 
+Nach fünf Minuten kam Manuela aus unserer Hütte
 mit einem in schmierige Leinwand gehüllten Packen im linken
-Arm, im rechten Besen, Scheuertuch und rote ein Paket …
-Das Reinemachen war verdammt … flink gegangen …!!!
+Arm, im rechten Besen, Scheuertuch und noch ein Paket …
+
+Das Reinemachen war verdammt flink gegangen …!!
+
 <@pagebreak/>
-DSODDEPSSDSISOOS i6 DESDSISDSPSDEEDSOSG
 
 <h2>3. Kapitel.</h2>
-<h3>DieIruheinderBodenkammer.</h3>
+<h3>Die Truhe in der Bodenkammer.</h3>
 
 Wir blieben noch eine Weile am Rande der schlich!
 Kollegen. Es war hier so wunderschön idyllisch, so friedlich …
 
 Aus den Schornsteinen der Zigeunerhütten Augen Eile
-Rauchsahnen in die stille Abendluft empor. Die Sonne
+Rauchfahnen in die stille Abendluft empor. Die Sonne
 neigte sich bereits den Kuppen der fernen Höhenzüge zu …
 
 Harald Spion über Schloß Darlington, über Learats
@@ -1037,7 +973,7 @@ hatten uns überfallen, die, wenn man sie zerdrückt, so uns
 angenehm hatten …
 
 Wir suchten uns gegenseitig die Flöhe und Läuse As
-Veranstalteten förmliche Ireibjagden …
+Veranstalteten förmliche Treibjagden …
 
 So wurde es elf Uhr. Wir schworen uns zu, die
 werden nicht mehr zu benutzen. Harst meinte, wir sollten uns
@@ -1787,7 +1723,7 @@ der Feind der Frau mit dem Federhut …« er
 
 ergänzt »Harald. »Diese Frau fürchten Sie … Dieser Frau
 feststellen Sie nach … Dieser Frau wegen haben Sie die
-Alingelleitung nach dem Schloß gelegt …«
+Klingelleitung nach dem Schloß gelegt …«
 
 <@pagebreak/>
 2222200002080002 39&nbsp;2000020000000
@@ -1940,7 +1876,7 @@ Leitung, eingerichtet?« fragte Harald nach einer längeren
 
 Hause.
 
-»Sehr einfach, Herr Harst … Ich habe einen der Par-kettstäbe
+»Sehr einfach, Herr Harst … Ich habe einen der Parkettstäbe
 vor der Für des grünen Salons gelodert, so
 daß er wippt, wenn jemand vom Flur den Salon betritt.
 Der Draht geht bis zu diesem Parkettstab. Damit die Glocke
@@ -2590,7 +2526,7 @@ Der alte Mann hatte da nach Haralds Hand getastet …
 flehend fang jetzt die brüchige Stimme …
 
 »Herr )Harst, wer … wer war der Begleiter der trank!
-Um Christi Barmderzigkeit: Sagen Sie mir die Wahrheit?«
+Um Christi Barmherzigkeit: Sagen Sie mir die Wahrheit?«
 
 »Kommen Sie …? John! Learat — und hüten Sie
 
@@ -2907,7 +2843,7 @@ ein Mann — Arme und Beine gefesselt …
 
 Meine Taschenlampe zeigt mir ein krankhaft Streiches
 Gesicht, Frauen Spitzbart, helle verzweifelte Augen … Einen
-Iouristenanzug trägt der Mann … Stiert zu uns empor.
+Touristenanzug trägt der Mann … Stiert zu uns empor.
 
 Ohnmächtiger Grinst verzerrt das hochmütige blasse Antlitz…
 »Lord Percy Darlington, falls Sie uns freiwillig folgen,
@@ -2918,7 +2854,7 @@ aussichtslos ist: ich bin Harald Harst, der deutsche Detektiv
 
 Darlingtons Kopf sinkt … Ein Stöhnen erst — dann
 
-ein festes entschledenes:
+ein festes entschiedenes:
 »Ich werde nicht fliehen … Das Spiel ist eng … Ich
 
 weiß es … —
