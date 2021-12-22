@@ -1,5 +1,8 @@
+[-—]“[-—]	—
 °	«
-\.\.\.1	…!
+!1	!!
+…1	…!
+1!	!!
 \bAch\b	Ich
 \bAhnen\b	Ihnen
 \bau!	auf
@@ -16,10 +19,10 @@
 \bfette\b	setzte
 \bfliegen\b	stiegen
 \bFusel\b	Insel
+\bgesunden	gefunden
 \bha!\b	hat
 \bHart\b	Harst
 \bis!\b	ist
-\bgesunden	gefunden
 \blebten	letzten
 \blett\b	jetzt
 \bLust\b	Luft
@@ -37,4 +40,16 @@
 \bvor!\b	dort
 \bwirft\b	wirst
 \bWir\.	Mr.
-nod\)	noch
+i[cd]\)	ich
+no[cd]\)	noch
+»Ob	»Oh
+…\s-	… —
+…\s\?	…?
+…«\s-	…« —
+\?\s[1!]	?!
+…\s[1!]	…!
+…\s[2k][!1]	…?!
+si[cd]\)	sich
+…\sk\b	…?
+ßz	tz
+tß	tz
