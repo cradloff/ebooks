@@ -5,6 +5,7 @@
 h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 	font-weight: normal;
+	line-height: 100%;
 }
 
 h1 {
@@ -45,6 +46,7 @@ blockquote {
 	font-size: 1.25em;
 	font-size: large;
 	line-height: 100%;
+	margin-bottom: 0.5em;
 }
 .toc#title, .toc #title {
 	text-align: center;
