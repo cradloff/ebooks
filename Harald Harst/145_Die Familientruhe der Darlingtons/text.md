@@ -1164,7 +1164,7 @@ Mich überläuft es kalt …
 Auch Harald raunt mir zu:
 
 »Unheimlich …! Womit wohl mag das Gewissen dieses
-Greises belastet sein …?1«
+Greises belastet sein …?!«
 
 John Learat beginnt abermals zu schnarchen … Die
 Träume haben sich zurückgezogen in das dunkle Reich der
@@ -1570,59 +1570,58 @@ auf das Skelett …
 
 John Learat hat uns besiegt … Siebzig Jahre gegen
 zweimal fünfunddreißig … Und doch verloren wir die Partie
-… Der silberbeschlagene Kolben der alten RNeiterpistole hatte
+… Der silberbeschlagene Kolben der alten Reiterpistole hatte
 unsere Hirnschalen böse zugerichtet … —
 
 Als wir wieder zu uns kommen, sitzen wir jeder in
 einem bescheiden und altertümlich eingerichteten Zimmer.
 
-Ellen wehrlos — [so eng an die Sessel gefesselt, daß
-wir kein Glied rühren könne«
+Sitzen wehrlos — so eng an die Sessel gefesselt, daß
+wir kein Glied rühren können …
 
-Eine Petroleumhängelampe Stern?! schraäg über uns …
+Eine Petroleumhängelampe brennt schräg über uns …
 Und im Zimmer wandert der Schloßkastellan in einer grünen
 Joppe langsam auf und ab …
 
-Auf dem Fische vor dem Rokokososa stehen zwei Schüsseln
-mit Wasser, liegt Berbyndzeug +;
+Auf dem Tische vor dem Rokokosofa stehen zwei Schüsseln
+mit Wasser, liegt Verbandzeug …
 
 Es riecht nach Karbol …
 
-John Legen! hat uns verbunden.
+John Learat hat uns verbunden.
 
 Ich blinzele mit schmerzenden Augen in das Lampenlicht.
 
-Learat sieht es, macht halt, stand uns an …
+Learat sieht es, macht halt, schaut uns an …
 
-Seine hagere sehnige Gefror! erinnert an einen werde
-Mann … Das Gesicht an das eines stillen Gelehrten, dem
+Seine hagere sehnige Gestalt erinnert an einen Weidmann
+… Das Gesicht an das eines stillen Gelehrten, dem
 nichts Menschliches fremd, der alle Abgründe der Menschenseele
 durchforscht hat …
 
 Unter buschigen weißen Brauen ein Paar traurige ernste
 Augen … Diese Augen gleiten hin und her, prüfen unsere
+Gesichtszüge …
 
-Pesichtszüge …
 <@pagebreak/>
-SSSSSSSSSSSS 37 DSSSSSSSSSSS
 
-Dann sog! er: »Was soll nun werden, meine Herren?!«
+Dann sagt er: »Was soll nun werden, meine Herren?!«
 Merkwürdig genug, diese Einleitung …
 
 Learat seufzt …
 
 »Ich kann Sie nicht freilassen … Ich darf es nicht …
-Sie müssen noch4) drei Monate hier unter meiner Obhut
+Sie müssen noch drei Monate hier unter meiner Obhut
 als Gefangene bleiben …«
 
 Und seufzt wieder …
-»Dann … von werde ich Sie beide freigeben, meine
 
-Herren, falls Sie mir »ehrenwörtlich versprechen, über diese
+»Dann … von werde ich Sie beide freigeben, meine
+Herren, falls Sie mir ehrenwörtlich versprechen, über diese
 Nacht und alles übrige zu schweigen … — Ich weiß, wer
 Sie sind … Ich habe Ihre Brieftaschen durchgesehen, Ihre
 Ausweise gefunden … — Harst und Schraut … Gerade
-Sie beide …ck«
+Sie beide …!«
 
 Er steht da, die Fäuste in den Joppentaschen, vornüber
 gebeugt …
@@ -1630,172 +1629,164 @@ gebeugt …
 Pause …
 
 Harald sagt:
-»Glauben Sie denn, daß wir die einzigen [lud, die das
 
+»Glauben Sie denn, daß wir die einzigen sind, die das
 Skelett gesehen haben, John Learat?! — Wir sind nicht
 die einzigen …! Die Frau im Federhut hat …«
 
 Da schnellen die Fäuste des Greises aus den Taschen
-»… werden drohend in der Luft! geschüttelt … Sein Gesicht
-verändert sich … Fall das Schwermütige, Grüblerische verschwindet
+… werden drohend in der Luft geschüttelt … Sein Gesicht
+verändert sich … All das Schwermütige, Grüblerische verschwindet
 aus den zerfurchten Zügen …
 
-»nur Deinen ist’s, der etwas verraten ’haben kann,« geeilt
-er mit verbissener Mit: »Oh — ich lese Zeitungen; Her!
-Harst … Mein Reise war mit Ihnen auf den für«-
-Herr-Inseln …!!«
+»Nur einer ist’s, der etwas verraten haben kann,« grollt
+er mit verbissener Wut. »Oh — ich lese Zeitungen; Herr
+Harst … Mein Neffe war mit Ihnen auf den Fär-Oer-Inseln
+…!!«
 
-Harald erwidert kühl: »Uhr Reise hat uns das Lord
-sprechen abgenommen, daß wir schweigen sollen, was wir
-
-hier und) finden …«
+Harald erwidert kühl: »Ihr Neffe hat uns das Versprechen
+abgenommen, daß wir schweigen sollen, was wir
+hier auch finden …«
 
 Und Harsts graue Augen bezwingen des Greises blindes
 Aufbrausen …
 
 John Learats Arme sinken … Etwas Hilfloses liegt in
-
 seinen Zügen, seiner ganzen Haltung …
+
 Sein greiser Kopf fällt auf die Brust …
+
 <@pagebreak/>
-Sessels Es 39 SSSSSSSSSSSD
-
-»Es komm? ja doch alles an den lag — ich wußte
+»Es kommt ja doch alles an den Tag — ich wußte
 es … längst …!« — Das Murmeln der welken Lippen klingt
-
 wie Selbstanklagen …
-Vaters ruhige Stimme stöhnt den Gedankengang des
 
+Harsts ruhige Stimme führt den Gedankengang des
 Alten fort …
 
-»Die machte ist mein — spricht der Herr! — Sie ’haden
-reißt, John Learat: auch) dieser Mord wird seine Sühne
-finden. — Wer ist der Tote, von dem nur nahe die See
+»Die Rache ist mein — spricht der Herr! — Sie haben
+recht, John Learat: auch dieser Mord wird seine Sühne
+finden. — Wer ist der Tote, von dem nur noch die Gebeine
+übrig sind?«
 
-Beine übrig sind?«
 Der Kastellan von Schloß Darlington steht noch immer
-
 in derselben Haltung da …
+
 Seine Hände öffnen und schließen sich … In dem Antlitz
 arbeitet es, als ob er mit sich kämpft, als ob er die
-
 Wahrheit uns anvertrauen wollte …
-Und doch — nur ein Seufzer wird’s, ein energisches
 
+Und doch — nur ein Seufzer wird’s, ein energisches
 Kopfschütteln …
 
 Sein Entschluß ist gefaßt …
 
 »Sie bleiben hier als meine Gefangenen …« sagt er
 rauh … »Ich habe geschworen … Meinen Eid halte ich …!
-Von Ihnen, meine Herren, hängt es einzig und allein ab!
+Von Ihnen, meine Herren, hängt es einzig und allein ab,
 ob Sie wie … Zuchthäusler im Turme des Schlosses hausen
-wollen 6 oder ob Ihre las! gewisse Erleichterungen finden
-wir …«
+wollen oder ob Ihre Haft gewisse Erleichterungen finden
+wird …«
 
-Harst he -» mild und Abstechend:
+Harst da — mild und überredend:
 
-»Widerlegen Sie sich’s, John Learat … überlegen Sie
-sich’s recht genau … Ich) werde Ihnen nie versprechen, daß
-wir auf jeden Fluchtversuch verzichten wollen … nie …]
-Und deshalb sind Sie unser … Feind …!’
+»Überlegen Sie sich’s, John Learat … überlegen Sie
+sich’s recht genau … Ich werde Ihnen nie versprechen, daß
+wir auf jeden Fluchtversuch verzichten wollen … nie …!
+Und deshalb sind Sie unser … Feind …!«
 
 Der Kastellan lächelt müde …
 
-»Feind — Feind?! 34 bin keines Menschen Feind …
-Quer … nur …«
+»Feind — Feind?! Ich bin keines Menschen Feind …
+Nur … nur …«
 
-der Feind der Frau mit dem Federhut …« er
-
-ergänzt »Harald. »Diese Frau fürchten Sie … Dieser Frau
-feststellen Sie nach … Dieser Frau wegen haben Sie die
+»… der Feind der Frau mit dem Federhut …«
+ergänzt Harald. »Diese Frau fürchten Sie … Dieser Frau
+stellen Sie nach … Dieser Frau wegen haben Sie die
 Klingelleitung nach dem Schloß gelegt …«
 
 <@pagebreak/>
-2222200002080002 39&nbsp;2000020000000
+Learat stützt sich schwer auf den Tisch … In seinen
+Augen lauert die Angst … Er starrt Harald an …
 
-Legen; stützt sich schwer auf den Tisch … In sein«+
-Angeln jener? die Angst … Er starrt Harald an …
+»Sie … Sie waren also auch hier im Gästehaus …?!«
+sagt er mit schweren Zunge … »Sie scheinen … noch mehr
+zu wissen … Oh — — mein Gott …!!« Ein verzweifelter
+Schrei ist’s … »Was … was soll ich tun …?! Fünfzig
+Jahre diene ich den Darlingtons … Und jetzt … jetzt
+soll ich …«
 
-»Sie … Sie waren also auch hier lin Gästehaus … 0,«
-jagt er mit schweren Zunge … »Sie scheinen … noch mehr
-zu wissen … Oh — = nein Gott …!!» Ein verzweifelten
-Schrei ist’s … »Was … was soll ich fuhr …?! Fünfzig
-Jahre diene im den Darlingtons … Und jetzt … jetzt
-bin; …
 Schwieg … merkte wohl, daß er nahe daran gewesen,
 zu viel zu verraten …
 
-Ich; beobachtete ihn unawusSzgeseß! …
+Ich beobachtete ihn unausgesetzt! …
 
-Daß dieser Greis niemals selbst eine Bläatschchuld!ich
+Daß dieser Greis niemals selbst eine Blutschuld sich
 aufgeladen, war mir gewiß …
 
-Darlinztion — Lord Percy Darlington mußte der näher
+Darlington — Lord Percy Darlington mußte der Täter
 sein … Nur er!
 
 Aber — wer war das Opfer, das man dort in der
-Familientruhe so feierlich geleitet hatte … h1 —
+Familientruhe so feierlich gebettet hatte …?! —
 
 Wieder eine Weile Schweigen … Jenes Schwelgen, das
-sich) um das Herz wie Eisenklammern legt und es langsam zus-sammenpreßt,
-als ob einem der Atem versehen gallig …
+sich um das Herz wie Eisenklammern legt und es langsam
+zusammenpreßt, als ob einem der Atem vergehen sollte …
 
-Dann Harald — jetzt drohend und brutal:«
+Dann Harald — jetzt drohend und brutal:
 
-»John Learat, geben Sie uns frei! Wir… Eiland und
+»John Learat, geben Sie uns frei! Wir, Schraut und
 ich, sind außer Ihrem Neffen nicht die einzigen, die um
-das Geheimnis dieses alten Schlosses wissen …! Ich lüge.
-Seite …?! Jemand weiß davon, der ’ uns vermietet wird …
-Geben Sie uns frei, und leicht) verspreche Ihnen, daß der
+das Geheimnis dieses alten Schlosses wissen …! Ich lüge
+nie …! Jemand weiß davon, der uns vermissen wird …
+Geben Sie uns frei, und ich verspreche Ihnen, daß der
 Mörder niemals den Gerichten überliefert werden wird!«
 
 Der greise Kastellan rang abermals mit sich …
 
-Dann … »Ich …!4 … will’s tun, d)ein Harst …
+Dann … »Ich … ich … will’s tun, Herr Harst …
 Unter einer Bedingung …«
 
 »und die wäre?«
 
-»Die Frau will ich … verscheuchen — = die Frau …!!
+»Die Frau will ich … verscheuchen — — die Frau …!!
 Falls — falls sie eben ein Wesen von Fleisch und Blut.
 
-»Verscheuchen?f! =« Dann müßten Sie uns erst einmal …«
+»Verscheuchen?! — Dann müßten Sie uns erst einmal …«
 
-»Rein, nein, — = die Wahrheit hören Sie wie von
-mir …! Meinen Eid halte ich …!? Nur —.nur von dem
+»Nein, nein, — — die Wahrheit hören Sie nie von
+mir …! Meinen Eid halte ich …!? Nur — nur von dem
 <@pagebreak/>
-DSSSSESDIDISDSDSDS 1) SSDSSSSESDSSD
-
 Weibe will ich Ihnen erzählen, was ich … zu erzählen
 habe … viel ist es nicht …«
 
-»Gut denn …!! — John Learat, wir werden Sie von
-dieser Frau befreien … Und Erscholl nehmen Sie uns
+»Gut denn …! — John Learat, wir werden Sie von
+dieser Frau befreien … Und deshalb nehmen Sie uns
 die Fesseln ab …!«
 
 Der Alte tat’s …
 
-Rosa immer zaudernd …
+Noch immer zaudernd …
 
-Entschuldigte sich angezecht?! … Wir sollten ihm die
+Entschuldigte sich ungeschickt … Wir sollten ihm die
 beiden Schüsse in der Bodenkammer nicht weiter nachtragen
-… Er sei trotz seiner robusten meinem in Momenten der
+… Er sei trotz seiner robusten Nerven in Momenten der
 Erregung nicht ganz Herr seiner selbst …
 
 Wir fühlten: John Learat war ein guter Mensch. Er
 wollte jedem gerecht werden: seinem Herrn, zu dem er
-mit der neue eines alten bewährten Dieners hing, und
+mit der Treue eines alten bewährten Dieners hing, und
 auch uns, denen er sich von einer so brutalen Seite gezeigt
 hatte, wie dies seiner Charakterveranlagung so gar nicht
-entspräche. — Daher auch) die Unsicherheit in seinem Benehmen,
-daher auch) jetzt seine Cilfertigkeit, mit der er
+entsprach. — Daher auch die Unsicherheit in seinem Benehmen,
+daher auch jetzt seine Eilfertigkeit, mit der er
 Erfrischungen hervorbrachte und immer wieder betonte, wir
 sollten ihm den Angriff auf uns verzeihen …
 
-Wir saßen jetzt in denselben Gesicht, tranken Tee, aßen
-ein köstliches derbes Landbrot! mit goldgelber Butter und
-vergaßen darüber die Schmerzen und das Stehen und
+Wir saßen jetzt in denselben Sesseln, tranken Tee, aßen
+ein köstliches derbes Landbrot mit goldgelber Butter und
+vergaßen darüber die Schmerzen und das Stechen und
 Brennen in den Augen
 
 Der greise Kastellan erzählte …
@@ -1804,66 +1795,61 @@ Nur von der Frau mit dem Federhut … Alles übrige
 blieb unberührt …
 
 »Fünf Jahre sind es her …« begann er mit müder
-Stimme … »Da hörte ich in einer stürmisch)Du Novembernacht
-die Hunde im Schlosse zum erlitten Male lärmen und
-toben … Es waren nicht! dieselben Hunde wie heute, waren
-auch nur … Ich) schaffte später andere Tiere an … Die
+Stimme … »Da hörte ich in einer stürmischen Novembernacht
+die Hunde im Schlosse zum ersten Male lärmen und
+toben … Es waren nicht dieselben Hunde wie heute, waren
+auch nur … Ich schaffte später andere Tiere an … Die
 beiden von damals waren mir nicht scharf genug …
-In jener Nacht sah) ich den Schatten der Frau zum ersten
+In jener Nacht sah ich den Schatten der Frau zum ersten
 Male auf den Fenstervorhängen des grünen Salons … Dieser
 <@pagebreak/>
-02200002000000 41 0 DSOPDEBESDSSDSS
-
-Dann über dem Altar hat drei Fenster. Daneben liegt
+Raum über dem Altan hat drei Fenster. Daneben liegt
 das Arbeitszimmer Lord …«
 
-er stockte … hüstelte =ck verbesserte sich: »Daneben
-legt ein z3weifenstriges Zimmer … auch das war erleuchtet.
+er stockte … hüstelte — verbesserte sich: »Daneben
+legt ein zweifenstriges Zimmer … auch das war erleuchtet.
 — Ich betrat das Schloß durch den Seiteneingang
-… Und — — fand nichts — nickte … Dar die beiden
-Hunde … mit, … blutenden Mäulern … noch tagelang
-waren den liefen die Gaumen und Zungen heran? vorschnellen,
-daß sie nicht fressen konnten. =« Wie da
-Herr Harst: im fand arme …! Ich durchsuchte das
-alle Räume waren dunkel …«
+… Und — — fand nichts — nichts … Nur die beiden
+Hunde … mit … blutenden Mäulern … noch tagelang
+waren den Tieren die Gaumen und Zungen derart verschwollen,
+daß sie nicht fressen konnten. — Wie gesagt,
+Herr Harst: ich fand nichts …! Ich durchsuchte das Schloß
+… alle Räume waren dunkel …«
 
 Er machte eine halb verzweifelte Handbewegung …
 
-»So … los fing es an, Herr Harst … So- blieb es
-Die Frau habe ich nie zu Gesicht bekommen zz … nie
+»So … so fing es an, Herr Harst … So blieb es
+… Die Frau habe ich nie zu Gesicht bekommen … nie
 … Sie war stets in den beiden Zimmern … Sie erschien
-jede Tee einmal … Zuweilen vergingen auch vierzehn
-Tag« … Ich habe mich im Schloß auf die Lauer gelegt
-— nächtelang … — Dann geschah nichts … Und gestiegen denn
-in mir langsam »allerlei Zweifel auf, ob es sich auch wirklich
-um ein Wesen von Freitag und Blut handelte … Wie
-Schotten neigen zum Aberglauben. Die einsame Menge«
-Landschaft ringsum verdüstert die Seelen. Die Menschen,
+jede Woche einmal … Zuweilen vergingen auch vierzehn
+Tage … Ich habe mich im Schloß auf die Lauer gelegt
+— nächtelang … — Dann geschah nichts … Und so stiegen denn
+in mir langsam allerlei Zweifel auf, ob es sich auch wirklich
+um ein Wesen von Fleisch und Blut handelte … Wir
+Schotten neigen zum Aberglauben. Die einsame Moorlandschaft
+ringsum verdüstert die Seelen. Die Menschen,
 die hier ihre Heimat haben, sind meist still und nachdenklich
-
-— Sehen Sie, Herr Harst, das ist nun alles, was ich
+… — Sehen Sie, Herr Harst, das ist nun alles, was ich
 Ihnen über die Frau zu berichten weiß. Ich lüge nicht:
 ich habe keine Ahnung, wer diese Frau sein kann und was
 sie im Schlosse sucht … was sie nächtlicherweile dorthin
 treibt, — — falls es eben … ein Mensch ist …«
 
 »Es gibt keine Gespenster, lieber Learat,« meinte Harald
-freundlich. »Haben Sie denn nie in der Umgegend machte
-geforscht, ob nicht irgendwo eine Fremde wohnt, die mit
+freundlich. »Haben Sie denn nie in der Umgegend nachgeforscht,
+ob nicht irgendwo eine Fremde wohnt, die mit
 dieser Frau identisch sein könnte?«
 
-»Gewiß habe ich nachgeforscht — überall … Es was
-
+»Gewiß habe ich nachgeforscht — überall … Es war
 vergebliche Mühe …«
-»Wie haben Sie denn die Alarmleitung, die Klingel
-<@pagebreak/>
-2220020020222 49&nbsp;0000020020020
-Leitung, eingerichtet?« fragte Harald nach einer längeren
 
-Hause.
+»Wie haben Sie denn die Alarmleitung, die Klingelleitung,
+<@pagebreak/>
+eingerichtet?« fragte Harald nach einer längeren
+Pause.
 
 »Sehr einfach, Herr Harst … Ich habe einen der Parkettstäbe
-vor der Für des grünen Salons gelodert, so
+vor der Tür des grünen Salons gelockert, so
 daß er wippt, wenn jemand vom Flur den Salon betritt.
 Der Draht geht bis zu diesem Parkettstab. Damit die Glocke
 kräftiger anschlägt, habe ich noch ein Eisengewicht angebracht,
@@ -1871,189 +1857,188 @@ das von einem Hebel herabgleitet … Sie können sich den
 Mechanismus ansehen, wenn Sie wollen …«
 
 Harald nahm eine seiner Zigaretten … Aber er rauchte
-nur zwei Züge und legte sie wieder weg … Er) sah und
-gegriffen und blaß aus … auch) in meinem Schaukel Antworten
-die Schwirrten …
+nur zwei Züge und legte sie wieder weg … Er sah angegriffen
+und blaß aus … auch in meinem Schädel rumorten
+die Schmerzen …
 
-Dann schaute er den greisen Kastellan staunend an …
+Dann schaute er den greisen Kastellan sinnend an …
 
 »Und sonst ist nie jemand in das Schloß eingestiegen,
-genial?« meinte er bedächtig …
+Learat?« meinte er bedächtig …
 
-»Nie, Herr Harst … Das heißt: Kleinigkeiten ein«
+»Nie, Herr Harst … Das heißt: Kleinigkeiten sind
 einmal gestohlen worden — nicht der Rede wert …«
 
-»Ein Mission-Teppich …«
+»Ein Afghan-Teppich …«
 
-Seltsam: der Alte zuckte zusammen
+Seltsam: der Alte zuckte zusammen …
 
 »Afghan-Teppich?! — Wie kommen Sie gerade … gerade
-darauf, Herr Harst …?1«
+darauf, Herr Harst …?!«
 
-»Oh — ich … dachte es mir … Der Zerrieb hat am
-Rande einen schwärzlichen Sie … im glaube, es ist
+»Oh — ich … dachte es mir … Der Teppich hat am
+Rande einen schwärzlichen Fleck … im glaube, es ist
 eingetrocknetes Blut …«
 
-Learat senkte die Lider über die Erschrockenen Augen …
+Learat senkte die Lider über die erschrockenen Augen …
 
 Sein Gesicht war blaß geworden …
 
-Über — er schwieg beharrlich …
+Aber — er schwieg beharrlich …
 
-» »Der Zerrieb,« meinte Harald wieder, »- dieser Teppich
+»Der Teppich,« meinte Harald wieder, »— dieser Teppich
 dürfte wohl mit dem Skelett in Zusammenhang stehen …
-Der Zerrieb war ebenfalls in der Bodenkammer verwahrt
-
+Der Teppich war ebenfalls in der Bodenkammer verwahrt
 worden …«
+
 Learat leckte die Lippen … Hilflos blickte er an Harald
-
 vorüber …
-»Sie … Sie haben den Teppich gesehen, Herr HarstY’’
 
+»Sie … Sie haben den Teppich gesehen, Herr Harst?«
 flüsterte er scheu …
-<@pagebreak/>
-dieses Stein 43. DSSSSSSSSSSS
 
+<@pagebreak/>
 »Vielleicht … Sie sagen uns ja auch nicht alles …
-jedenfalls ist der Teppich gestohlen worden … Die
-fühlen sich sehr sicher und benutzen ihn … Über die Bei
-Deutung he schwarzen Fleckes wissen sie »nichts -… Selbst
+jedenfalls ist der Teppich gestohlen worden … Die Diebe
+fühlen sich sehr sicher und benutzen ihn … Über die Bedeutung
+des schwarzen Fleckes wissen sie nichts … Selbst
 mein Freund Schraut hat den Fleck nicht beachtet …«
 
 Das stimmte … leider …!
-Der Kastellan trocknete seine Schweißperlen von der
 
+Der Kastellan trocknete seine Schweißperlen von der
 Stirn …
-Harst! fügte hinzu:«
+
+Harst fügte hinzu:
+
 »In dieser Nacht, Learat, war die Frau nicht im Schlosse
 … Ein anderer war dort … Ein Motorradler, ein junger
+Mensch …«
 
-Mensch) …«
 Learat beugte sich vor …
-»Ein … junger … Morsche … Oh — das
+
+»Ein … junger … Mensch …?! … Oh — das
 … das …«
 
 Die Stimme versagte ihm plötzlich …
-Ich) war überzeugt: er wußte, wer »der Modtorradler
+
+Ich war überzeugt: er wußte, wer der Motorradler
 gewesen!
+
 Aber — nichts war aus ihm herauszuholen — nichts
-— Harald versuchte alles mögliche … vergebens! —
+… Harald versuchte alles mögliche … vergebens! —
+
 Um fünf Uhr morgens verabschiedeten wir uns von
 Learat und wanderten zum Schein den Weg nach Braby
+entlang …
 
-Arena +,
-Qs war bereits heller Tag.
+Es war bereits heller Tag.
+
 <@pagebreak/>
-2222202222020D 44&nbsp;0020000022224
 
 <h2>2. Kapitel.</h2>
-<h3>Der Sohn Lord Reiche.</h3>
+<h3>Der Sohn Lord Percys.</h3>
 
-Bart Umwegen gelangten wir dann in die Nähe he
-Zigeunerschlucht zurück, mußten weite Strecken Zeichen
-und erreichten auch) wirklich unbemerkt die dichten Büsche
-am Rande der Schlucht, stiegen in das Felsloch) hinab und
-wann gegen halb sieben in unsere Hütte … mehr tot arge
-[Freudig …
+Auf Umwegen gelangten wir dann in die Nähe der
+Zigeunerschlucht zurück, mußten weite Strecken kriechen
+und erreichten auch wirklich unbemerkt die dichten Büsche
+am Rande der Schlucht, stiegen in das Felsloch hinab und
+waren gegen halb sieben in unsere Hütte … mehr tot als
+lebendig …
 
 Harald stellte dann aus Bettlaken und Stricken rasch
 zwei Hängematten her. In diesen waren wir vor dem
-kleinen Blutsaugergesindel sicher, schliefen bis ein Uhr mißtraue,
-erneuerfen die kleinen Verbände unserer geehrten Schädel!
+kleinen Blutsaugergesindel sicher, schliefen bis ein Uhr mittags,
+erneuerten die kleinen Verbände unserer geehrten Schädel
 und winkten dann Manuela herbei, die sich bereits draußen
 vor der Hütte umhertrieb, heute in schlichterem Gewande,
-heute n!ihr mehr Zigeunerprinzeßchen in Brokat …
+heute nicht mehr Zigeunerprinzeßchen in Brokat …
 
 »Morgen, liebe Manuelita …« begrüßte Harald sie
-harntlo8-verqnügt … »Wir haben sehr lange geschlafen,
+harmlos-vergnügt … »Wir haben sehr lange geschlafen,
 nicht wahr …? — Wie steht’s mit Hühnereiern … Wir
-haben Hunger …
+haben Hunger …«
 
-Ich rasierte ach Im Hintergennhe unseres Salons ;…
+Ich rasierte mich im Hintergrunde unseres Salons …
 
-Manuela halte sich von draußen in das offene Fenster
-
+Manuela hatte sich von draußen in das offene Fenster
 gelehnt …
-Naturkind — =! ihre Augen verließen Mißtrauen und
 
+Naturkind — —: ihre Augen verrieten Mißtrauen und
 Neugier …!
-»oh — Sie haben ja ein Pflaster uns dem Kopf, Herr,«
 
+»oh — Sie haben ja ein Pflaster auf dem Kopf, Herr,«
 meinte sie zu Harald …
+
 »Ja, mein Freund und ich sind in der Nacht über den
 einen Schemel gestolpert und haben uns die Köpfe verletzt …
 Nicht weiter schlimm … — Holen Sie uns jetzt ein Dutzend
 Eier, Manuela …«
-es hatte es Betont nur nicht eilig … Im Gegenteil …
+
+Sie hatte es jedoch gar nicht eilig … Im Gegenteil …
+
 Sie blieb am Fenster … Ihre Blicke hingen wiederholt
-
 <@pagebreak/>
-2022222202002&nbsp;2080 45 2DSSSSSSLSDEDS
-
 an dem Schranke, der den verstellten Zugang zu dem Quartier
 der »Frau« verbarg …
 
-Naives Kind …!! =« Wir merkten genau: sie traute
+Naives Kind …!! — Wir merkten genau: sie traute
 uns nicht, sie glaubte nicht an den langen Schlaf … Vielleicht
-hatte sie in unsere Hütte hineingespöäht, als wir noch
+hatte sie in unsere Hütte hineingespäht, als wir noch
 nicht daheim waren … — Aber wir hatten die Fenster
 geschlossen, bevor wir aufgebrochen waren … Sie konnte
-kaum gesehen haben, »daß die Betten leer waren …
+kaum gesehen haben, daß die Betten leer waren …
 
 »So gehen Sie doch, Manuela!« sagte Harald wieder.
 
 Und da stieß sie hervor:
 
-»über — hier haben Sie ihr Geld zurück, Herr …
-Sie dürfen nicht länger bei uns wohnen … Wir … wie
+»Hier — hier haben Sie ihr Geld zurück, Herr …
+Sie dürfen nicht länger bei uns wohnen … Wir … wir
 … haben Nachricht erhalten, daß die Männer abends zurückkehren,
 auch mein Vater … bestimmt zurückkehren …
 Er würde mich schlagen, wenn er Sie beide hier vorfände
 … Herr … Sie müssen fort — gleich, gleich … Da —
-nehmen Sie Ihr Geld … Au die Großmutter Rat Eis
+nehmen Sie Ihr Geld … Auch die Großmutter läßt Sie
 bitten, uns nicht Ungelegenheiten zu bereiten, Herr …
-Sie können andersöwo im Moor wohnen … Es gibt dort
+Sie können anderswo im Moor wohnen … Es gibt dort
 drüben eine zweite Schlucht … Dort steht eine verlassene
 Hütte aus Steinen, die zum Schlosse gehört … Ein Schäfer
-bat dort einst gehaust … Die Hütte ist besser als diese
-
-Nur die Fenster fehlen und … und die Tür ’… hab
-Dach ist sch&adbast — nicht sehr … »Ich werde Sie hinführen,
-… E78 sind nur zwanzig Minuten Wegs, Der 1. "« Bitte —» —
-
-baden Sie Ihre Sachen … Die Großmutter und ich haben
+hat dort einst gehaust … Die Hütte ist besser als diese hier
+… Nur die Fenster fehlen und … und die Tür … Das
+Dach ist schadhaft — nicht sehr … Ich werde Sie hinführen,
+… Es sind nur zwanzig Minuten Wegs, Herr … — Bitte — —
+packen Sie Ihre Sachen … Die Großmutter und ich haben
 so große Angst …«
 
-Harald lachte … »Nun — unseretwegen sollt Uhr Euch
-nicht Sorgen machen … Das Geld behalte nur, Manuellita
+Harald lachte … »Nun — unseretwegen sollt Ihr Euch
+nicht Sorgen machen … Das Geld behalte nur, Manuelita
 … Hole die Eier — recht viel … dann gehen wir …«
 
 Manuela war selig … Sie sprang davon, war gelenkig
 wie eine Wildkatze …
 
 Harst wandte sich mir zu …
-»Die Frau!!’’ sagte er mit Betonung … »Die Frau
 
-stet dahinter …! Schadet nichts! Wir werden sehr bald
+»Die Frau!!« sagte er mit Betonung … »Die Frau
+steckt dahinter …! Schadet nichts! Wir werden sehr bald
 <@pagebreak/>
-SSSSSSDSSSSS 46 SDSSSSSSISSSSSD
-
 alles geklärt haben … Hier sind wir von Spionen umgeben
-… In der Schäferhütte sind wir freier „…«
+… In der Schäferhütte sind wir freier …«
 
 Er begann zu packen …
-Manuela kam mit einem Weidenkörbchen: dreißig Ellen,
 
-ein frisch geschlachtetes Huhn, eine Hammelkeule und Liegeplatze
-=« ihr Abschiedsgeschenk «…!
-Er begleitete uns nicht. Harst meinte, sie solle uns
+Manuela kam mit einem Weidenkörbchen: dreißig Eier,
+ein frisch geschlachtetes Huhn, eine Hammelkeule und Ziegenkäse
+— ihr Abschiedsgeschenk …!
 
+Sie begleitete uns nicht. Harst meinte, sie solle uns
 nur die Richtung zeigen …
-So wanderten wir. denn in der Mittaq&hitze über das
 
-Kaffee endlose Hochmoor. Natürlich hatte die süße Manuelita
+So wanderten wir denn in der Mittagshitze über das
+stille endlose Hochmoor. Natürlich hatte die süße Manuelita
 geschwindelt: eine halbe Stunde war’s bis zu jener kleinen
-Schlucht, in der eine erbärmlicge Steinbude einsam zwischen
+Schlucht, in der eine erbärmliche Steinbude einsam zwischen
 Sträuchern von vergangenen besseren Zeiten träumte …
 
 Die Schlucht war schmal und tief, kaum siebzig Meter
@@ -2068,15 +2053,16 @@ Die Spur war neu …
 
 »Der Motorradler!« meinte Harald … »Die Hütte ist
 bewohnt … Der junge Mensch hat sie mit Beschlag belegt,«
-er Wir näherten uns behutsam …
 
-Es war so: durch; die Türöffnung blickten wir hinein,
+Wir näherten uns behutsam …
 
-Auf einem Vortragen schlief da ein blonder frischer
-Jüngling … Neben ihm an der Wand lehnte das — tadellose
-Malgerät
+Es war so: durch die Türöffnung blickten wir hinein,
 
-Aber — manche« etwas Lebendes enthielt die Hütte, etwas,
+Auf einem Mooslager schlief da ein blonder frischer
+Jüngling … Neben ihm an der Wand lehnte das tadellose
+Motorrad!
+
+Aber — noch etwas Lebendes enthielt die Hütte, etwas,
 das feinere Sinne als der Schläfer besaß, ein hochbeiniger
 Foxterrier!
 
@@ -2084,213 +2070,204 @@ Der kleine kräftige Köter fuhr hoch — klaffte … war
 mit einer Lederleine angebunden, sonst hätte er uns wohl
 attackiert …
 
-Der Schlüssel setzte sich mit einem Ruck aufrecht …
+Der Schläfer setzte sich mit einem Ruck aufrecht …
 
-Und jetzt erlebte ich wieder einmal eine jener neben
-
-gesungen, die Harald so sehr liebt …
+Und jetzt erlebte ich wieder einmal eine jener Überraschungen,
+die Harald so sehr liebt …
 
 <@pagebreak/>
-Ce2O20DSSSSSSS 47 SSSESSSSSSSSS
-
 Er grüßte — sagte zu dem blonden Radler;
-»Ei? Cdw.:ich Dahinging, wenn ich:ich mich nicht jede
 
-€ »…
+»Sir Edward Darlington, wenn ich ich mich nicht sehr
+irre …«
 
 Das frische Gesicht drüben nahm einen Ausdruck an,
-der die Mitte zurecht)en Ehre und Verwirrung hielt …
+der die Mitte zwischen Schreck und Verwirrung hielt …
 
-Und 139! — Mein rundliches angibt kann damals
-kaum geißstsprühend gewesen sein. Ich wette sogar: es war
-reichliches) blöde!
+Und ich?! — Mein rundliches Antlitz kann damals
+kaum geistsprühend gewesen sein. Ich wette sogar: es war
+reichlich blöde!
 
-Sir Edward Darlington …! also das einzige Kind Lord
-Percys, des Shloßherrun …!
+Sir Edward Darlington …! Also das einzige Kind Lord
+Percys, des Schloßherrn …!
 
-großer Sir Edward hatte sich nun langsam erhoben, verneigte
+Dieser Sir Edward hatte sich nun langsam erhoben, verneigte
 sich … Die gesellschaftliche Sicherheit des einzigen
-Erben des alten Namens gewann die Oberhand Über Ihre
+Erben des alten Namens gewann die Oberhand Über Schreck
 und Verwirrung …
 
-»Edward Darliugtoi! …’ sagte er höflich … Ein etwas
-erzwuirtgenes Lächeln erschien um den hübschen Mund …
-»Ich habe vor vierzehn Jagen die Schule mit dem Reisezeugnis
-verlassen.« erklärte er … »Vitrine Eltern erlaubten
+»Edward Darlington …," sagte er höflich … Ein etwas
+erzwungenes Lächeln erschien um den hübschen Mund …
+»Ich habe vor vierzehn Tagen die Schule mit dem Reifezeugnis
+verlassen,« erklärte er … »Meine Eltern erlaubten
 mir, bevor ich die Universität beziehe, eine größere Radtour
--. Ha liebe die Romantik … Deshalb habe sich hier
-übernachtet, obwohl im es drüben im Schlosse Darlington
+… Ich liebe die Romantik … Deshalb habe ich hier
+übernachtet, obwohl ich es drüben im Schlosse Darlington
 bequemer gehabt hätte …«
 
 Der Foxterrier hatte sich jetzt beruhigt …
 
-Harald nannte nun auch unsere Namen — das beißt:
-unsere jetzigen Namen: Kunstmaler van Spalten und Schrauben
-aus Yummsterdam, — berichtete in humorvoller Weise über
+Harald nannte nun auch unsere Namen — das heißt:
+unsere jetzigen Namen: Kunstmaler van Haalden und Schraaken
+aus Amsterdam, — berichtete in humorvoller Weise über
 unser Nachtquartier im Zigeunerdorf und über Manuelas
 Vorschlag, wir möchten diese alte Schäferhütte mit Beschlag
-legen …
+belegen …
 
 So kam denn eine zwanglose Unterhaltung in Fluß, im
-Verlauf derer Sir Edward wiederholt einsieht, daß er noch
-ein paar Jage diese Romantik weiter durchkosten wolle …
+Verlauf derer Sir Edward wiederholt einflocht, daß er noch
+ein paar Tage diese Romantik weiter durchkosten wolle …
 Wir drei würden uns hier in der Hütte schon vertragen …
-Hoffentlich würde es uns nicht stören, daß er nachts ebens-falls
+Hoffentlich würde es uns nicht stören, daß er nachts ebenfalls
 Ausflüge mit seinem Rade unternähme. Vorläufig
-gedenke er jedenfalls dem Schloßkastellan Learat Leine An-SSSSSSSSSESDS
+gedenke er jedenfalls dem Schloßkastellan Learat seine Anwesenheit
 <@pagebreak/>
-48 DSO0OSSSSSSSSS
-
-Anwesenheit zu verheimlichen, da dieser es sonst kaum dulden
+zu verheimlichen, da dieser es sonst kaum dulden
 würde, daß er in so bescheidener Weise nächtige … —
 
 Es war klar: Edward Darlington konnte nur aus demselben
 Grunde hierher gekommen sein wie wir …: eines
-Geheimnisses wegen, von dem er vielleicht! weniger wußte
-als wir… die er tatsächlich für holländisch)e Maultier hielt.
+Geheimnisses wegen, von dem er vielleicht weniger wußte
+als wir, die er tatsächlich für holländische Künstler hielt.
 
-alles in allem war Sir Cdwracd ein munterer, liebenswürdiger
+alles in allem war Sir Edward ein munterer, liebenswürdiger
 junger Mensch, bei dem nur eins immer stärker
 hervortrat: eine gewisse Schwermut, ein für seine Jahre
 allzu nachdenklicher Ernst, gepaart mit einer geistigen Reife,
-wie sie Kindern zumeist eigen, die in einer traurigen Umo-gebung
+wie sie Kindern zumeist eigen, die in einer traurigen Umgebung
 aufwachsen.
 
 Nachdem wir drei uns dergestalt so etwas angefreundet
-hatten, machten wir uns auch Jjemeinsam an die Arbeit,
+hatten, machten wir uns auch gemeinsam an die Arbeit,
 unsere Hütte ein wenig auszubessern und zu säubern.
 
 Sir Edward belegte das schadhafte Dach mit Zweigen
 und großen Moosstückchen, Harald bemühte sich um den verfallenen
-Herd und ich klein aus dünnen Seiten eine Flur,
-die wir dann mit Klemmen an dem Türpfosten befestigten.
+Herd und ich flocht aus dünnen Ästen eine Tür,
+die wir dann mit Riemen an dem Türpfosten befestigten.
 
-Gegen seit Uhr war dann auf unsere Abendmahlzeit
+Gegen sechs Uhr war dann auch unsere Abendmahlzeit
 fertig. Sir Edward führte wie wir einen vollgepackten
 Rucksack mit sich, hatte wie wir Aluminiumgeschirr und
 Konserven zur Verfügung und war in vielem besser ausgerüstet.
 
-Wir aßen vor der Hütte auf einem Tisch), dessen Platte
-aus einem unserer Zeichenbretter bestand. Der junge Lordsgs-sohn
-wich jedoch bei unseren Gesprächen ängstlich dem Firma
+Wir aßen vor der Hütte auf einem Tisch, dessen Platte
+aus einem unserer Zeichenbretter bestand. Der junge Lordssohn
+wich jedoch bei unseren Gesprächen ängstlich dem Thema
 Schloß Darlington immer wieder aus. Als Harald erzählte,
 wir hatten in Braby erfahren, daß eine Besichtigung des
-alten historischen Bauwerks verboten sei, meinte Sir Edward.
+alten historischen Bauwerks verboten sei, meinte Sir Edward
 nur ablenkend:
 
 »Ja, mein Vater besitzt einige Eigentümlichkeiten …«
 — Dabei wurden seine klaren Augen aber so traurig und
 verzagt, daß es mir geradezu ins Herz schnitt. Ich konnte
 nicht länger zweifeln: Edward ahnte etwas von dem Morde,
-von der Familientruhe und ihrem naäaheimlichen Inhalt!
+von der Familientruhe und ihrem unheimlichen Inhalt!
+
 <@pagebreak/>
-S0DS000000D0OS 49. 0000000080000
+Wieder vergingen so zwei Stunden,
 
-Wieder vergingen so zwei Kuriosum,
-
-Die Sonate Saal? … Ein kühler Luftzug strich die kleine
+Die Sonne sank … Ein kühler Luftzug strich die kleine
 Schlucht entlang …
 
-Hapert gähnte … gähnte immer wieder … Warf mir
-einen Blick zu … Ab gzgähnte ebenfalls … Ich verstand
-ihn: Sie Edward sollte!’n Sicherheit gewirkt werden …
+Harald gähnte … gähnte immer wieder … Warf mir
+einen Blick zu … Ich gähnte ebenfalls … Ich verstand
+ihn: Sir Edward sollte in Sicherheit gewiegt werden …
 Wir wollten uns frühzeitig niederlegen, damit unser junger
-Gefährte fiel? Hand für seine Unternehmungen Fälle.
+Gefährte freie Hand für seine Unternehmungen hätte.
 
-Segelt ein Viertel zehn, als bereits leichte Nebel Über
-dem t)Hochmoor lagerten!, erklärte Edward, er wolle sich jetzt!
-genug etwas Beweguitg machen — ein Stü wandern
-=ck» zu Fuß … sein Rad und seinen Hund, den er Überallcd
-liebe, wüßte er nun ja in bester Schuß.
+Gegen ein Viertel zehn, als bereits leichte Nebel Über
+dem Hochmoor lagerten, erklärte Edward, er wolle sich jetzt
+noch etwas Bewegung machen — ein Stück wandern
+— zu Fuß … sein Rad und seinen Hund, den er über alles
+liebe, wüßte er nun ja in bester Obhut.
 
-»Und wir sei…a schlafen …« meinte Harald und war’s
+»Und wir gehen schlafen …« meinte Harald und warf
 den Zigarettenrest zwischen die Steine. »Morgen in aller
-Frühe beginnen wir zu malen — UYquarellslizzen … —
-ahnte Nacht also, Sir Edward …«
+Frühe beginnen wir zu malen — Aquarellskizzen … —
+Gute Nacht also, Sir Edward …«
 
 Und er gab dem schlanken Jüngling die Hand …
 
 Edward Darlington verließ die Schlucht …
 
 Drei Minuten später lagen wir oben am Rande der
-Schlucht mit unseren Ferngläsern und beobachteten denn Davonschreitenden
-…
+Schlucht mit unseren Ferngläsern und beobachteten den
+Davonschreitenden …
 
-<h2>8. Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 
 <h3>Edward und die Zigeunerin.</h3>
 
-Wir hatten die neue Hüttentür kniete zwei Festsaßen von
-außen verschlossen. Der verriet genügte als Wächter unserer
+Wir hatten die neue Hüttentür durch zwei Aststützen von
+außen verschlossen. Der Terrier genügte als Wächter unserer
 Habe.
+
 Wir ließen Sir Edward einen großen Vorsprung. Er
-hatte Dir Richtung nach dem Zigeunerdorf eingeschlagen.
-Der leite Nebel begünstigte unser Vorhaben.
+hatte die Richtung nach dem Zigeunerdorf eingeschlagen.
+Der leichte Nebel begünstigte unser Vorhaben.
 
 als er dann in einer Mulde des Hochmoors, in der
 drei einzelne mächtige Birken wuchsen, halt gemacht und sich
 <@pagebreak/>
-SSSSSSSSGESDSE zu EDESVEBDISSH Ei
-
-in der Nähe der weißen Stämme niedergesetzt hatte. welch’ wi
-keine zwanzig Meter entkommt im hohen Heidekraut! gut
+in der Nähe der weißen Stämme niedergesetzt hatte, waren wir
+keine zwanzig Meter entfernt im hohen Heidekraut gut
 verborgen …
 
 Harald flüsterte mir nach einer Weile zu:
 
-»Er erwartet hier jemand … Er ist hierher bestell!
-— worden … — Da — er Schraut zum dritten Male nach
+»Er erwartet hier jemand … Er ist hierher bestellt
+— worden … — Da — er schaut zum dritten Male nach
 der Uhr … Er wird ungeduldig … springt auf, wandert
+hin und her …«
 
-bin und her …
 Nun — zuweilen funktioniert auch mein Hirn nach
-
 Wunsch …
 
 Ich erklärte leise: »Es kann vielleicht die Frau mit
-dem Federhut sein, die ihn hierher berief … Die Frau nach
+dem Federhut sein, die ihn hierher berief … Die Frau mag
 ihn auch zu dieser Radtour veranlaßt haben …«
 
 »Das hat sie …! Bestimmt, mein Alter …! Die
-Frau wird ihm, dem Erben des Verbittert, nahm London
+Frau wird ihm, dem Erben des Lordtitels, nach London
 geschrieben haben, daß Schloß Darlington ein Geheimnis
-Berge, daß dieses Geheimnis seinen Vater [einer besagte,
+berge, daß dieses Geheimnis seinen Vater schwer belaste,
 und …«
 
-»Still — — ein Zigeuunerweib …!» Und ich drückte in:
+»Still — — ein Zigeunerweib …!« Und ich drückte mich
 tiefer in das hohe Kraut …
 
 Drüben kam eine Zigeunerin über das Moor …
 
-Ein hageres Weib … Ein Baumes Kopftuch« verhüllte
+Ein hageres Weib … Ein buntes Kopftuch verhüllte
 ihr Haar … —
 
-Es war noch nicht völlig dunkel Das Abendrot durch«-
-tränkte die leiten Vebelschleter mit rosigen Farben
-Rot leuchtete der kurze noch der Zigeunerin …
+Es war noch nicht völlig dunkel. Das Abendrot durchtränkte
+die leichten Nebelschleier mit rosigen Farben …
+Rot leuchtete der kurze Rock der Zigeunerin …
 
 Leichtfüßig, aufrecht kam sie daher … Mein Fernglas
-zeigte mir ein braunltichesg, faltiges Gesicht … Etwas Stolzes
-lag über der Ershyeinung dieses Weibes …
+zeigte mir ein bräunliches, faltiges Gesicht … Etwas Stolzes
+lag über der Erscheinung dieses Weibes …
 
 »Die … Frau verkleidet!« flüsterte Harst hastig
-… alle ist’s …! Co ist die »Händlerin« …
+… »Sie ist’s …! Es ist die »Händlerin« …«
 
-»Ja — bestimmt …!« — auch) ich hatte sie nun erkannt …
+»Ja — bestimmt …!« — auch ich hatte sie nun erkannt …
 
 Sie stieg jetzt in die Mulde hinab. Sir Edward hatte sich
 an eine der drei Birken gelehnt … Seine Haltung war
 gemacht-nachlässig … Er wollte seine Erregung bemänteln.
 
 Die Frau stand vor ihm …
-<@pagebreak/>
-DSSSSSSSSSSS!! »DSSSSSSSSSSS
 
+<@pagebreak/>
 Er faßte nur an die Ledermütze — fast hochmütig …
 
 Harst stieß mich in die Seite …
 
-»Wir wagen es … Näher …!? Das Heidekraut bilde!
+»Wir wagen es … Näher …! Das Heidekraut bildet
 drüben eine breite Zunge … Ein paar Erlenbüsche sind
 ebenfalls vorhanden …«
 
@@ -2300,151 +2277,143 @@ Sir Edward und die Frau sprachen laut und erregt …
 Einzelne Worte fingen wir auf, bevor wir noch das Erlengestrüpp
 erreicht hatten …
 
-Leider — leider: wir erreichen &ck zu spät …
+Leider — leider: wir erreichen es zu spät …
 
 Wir sahen Sir Edward in ungeheurer Erregung mit
 vorgebeugtem Oberkörper, die Fäuste halb erhoben …
 
 »Sie … phantasieren …!! All das ist gemeine Lüge!
-—« Wer sind Sie denn, daß Sie Dinge zu wissen behaupten,
-die so!; schwere Anschuldigungen enthalten …?!«
+— Wer sind Sie denn, daß Sie Dinge zu wissen behaupten,
+die solch schwere Anschuldigungen enthalten …?!«
 
 Wir sahen die beiden nur von der Seite …
 
 Die Frau lächelte traurig — unendlich traurig …
 
-»Wer ich bin, Sir Darlington?kt Nur ein Weib, das
-ihn über alles Gesicht hat … ihn, den Toten, den er
-mordeten!?«
+»Wer ich bin, Sir Darlington?! Nur ein Weib, das
+ihn über alles geliebt hat … ihn, den Toten, den Ermordeten!«
 
-»Er ist nicht tot!« schrie der Jüngling wie derzweisel
+»Er ist nicht tot!« schrie der Jüngling wie verzweifelt
+… »Er lebt …! Das wissen Sie …! Jeder weiß es …!«
 
-… »an Bett …! Das wissen Sie …: Jeder weiß es …!«
-Ja — jeder wird« von Ihrem verbrecherischen. t Vater
-
-getäuscht 1:1 nur alten je den na. die wohnte es
-Learat! Konzert Sie ihn 68 »Gläschen &
-
-er Ihnen bei seiner Seele Seligkeit zuschwört, daß 0;
+»Ja — jeder wird von Ihrem verbrecherischen Vater
+getäuscht …! Nur einer kennt noch die Wahrheit: John
+Learat! Fragen Sie ihn doch …! Verlangen Sie doch, daß
+er Ihnen bei seiner Seele Seligkeit zuschwört, daß hier kein
 unerhörter Betrug verübt ist …! — Und damit Sie auch
-das Letzte erfahren! Ich habe ’den andern gesehen =« den
-andern, der wie ein wildes hier gehalten wird! Er ist es
+das Letzte erfahren! Ich habe den andern gesehen — den
+andern, der wie ein wildes Tier gehalten wird! Er ist es
 nicht! Niemals ist er’s — niemals! — Fragen Sie doch
 Learat …!«
 
 Sir Edward hatte plötzlich das Gesicht mit den Händen
-steht …
+bedeckt …
 
-Sein Körper schOwankte …
+Sein Körper schwankte …
+
 Die Frau trat noch näher … Ihre Stimme wurde weich.
 
 »Armer Junge, Sie sind zu bedauern …! Sie sind
 <@pagebreak/>
-SSSSSSLDESSSS! EDEE00IELIDESEDSE
-
-nicht verantwortlich dafür. saß Ihr hatten ein worden und
-Betrüger … Und doch sind ehe der eigene alle des
-Titels und der Güter der Darlingtons .; Oberhalb. habe
-ich Sie hierüber bestellt … Sie sollen mir helfen, die Beweise
-für die unerhörten Cahändlichkeiton herbeizuschafen
-… Sie sollen Ihren Vater dann veranlassten, ans England
-für Immer zu verschwinden …! Ich) will keine Sühne vor
-dem irdischen Richter, will nicht, daß der Dame Darlington
-entehrt wird? Dazu habe ich diesen Namen zu lieb, der
-einst für wie) den Mann verkörperte, der — — mein
-Geliebter gewesen? — so, nun wissen Sie an hat, Sir
-Edward …! Nun verstehen Stile mich vielleicht: Ihr Vater
-so!! auf den Lordtitel verzichten, soll als Verbannter in der
+nicht verantwortlich dafür, daß Ihr Vater ein Mörder und
+Betrüger … Und doch sind Sie der einzige Erbe des
+Titels und der Güter der Darlingtons .. Deshalb habe
+ich Sie hierher bestellt … Sie sollen mir helfen, die Beweise
+für die unerhörten Schändlichkeiten herbeizuschaffen
+… Sie sollen Ihren Vater dann veranlassen, aus England
+für immer zu verschwinden …! Ich will keine Sühne vor
+dem irdischen Richter, will nicht, daß der Name Darlington
+entehrt wird! Dazu habe ich diesen Namen zu lieb, der
+einst für mich den Mann verkörperte, der — — mein
+Geliebter gewesen! — So, nun wissen Sie auch das, Sir
+Edward …! Nun verstehen Sie mich vielleicht: Ihr Vater
+soll auf den Lordtitel verzichten, soll als Verbannter in der
 Fremde leben! Und Sie sollen, reinen Herzens, Herr der
 Darlingtonschen Besitzungen sein — Sie, der Sie ihm, der
 mir einst das Glück bedeutete, so auffallend ähnlich sehen!«
 
-Sir Edward lehnte an der Birke — weinte … Feinste.
+Sir Edward lehnte an der Birke — weinte … weinte.
 
 Und die Frau fuhr ihm mit der rechten Hand wie
 tröstend über Arm und Schulter — streichelte ihn …
 
-»Weinen Sie nicht?!, armer Junge … Helfen Sie mir
-suchen … Wir werden es finden … Selen Sie ein echter
-Darlington … Denken Sie an den Spruch) in Ihrem Wappen
-»Das Recht über alles .;!!« — Beweisen Sie, daß Sie in
-Wahrheit ein NReittafrat sind 1:1
+»Weinen Sie nicht, armer Junge … Helfen Sie mir
+suchen … Wir werden es finden … Seien Sie ein echter
+Darlington … Denken Sie an den Spruch in Ihrem Wappen
+»Das Recht über alles …!« — Beweisen Sie, daß Sie in
+Wahrheit ein Aristokrat sind …!«
 
-Sir Edwards Hände sanken herab »…
+Sir Edwards Hände sanken herab …
 
-Sein blasses Gesicht! schien die Frau tief zu erschüttern.
+Sein blasses Gesicht schien die Frau tief zu erschüttern.
 
 Sie nahm seine Hand …
 
-»Helfen Sie mir suchen »! Seit Jahren suche (H …
-Stellen Sie sich vor: seit Jahren tue hohe das, war Sie in
+»Helfen Sie mir suchen …! Seit Jahren suche ich …
+Stellen Sie sich vor: seit Jahren tue ich das, war Sie in
 der verflossenen Nacht taten … — dringe in das Schloß
-ein, durchwübhble jeden Winkel der beiden Räume — — unermüdlich
+ein, durchwühle jeden Winkel der beiden Räume — — unermüdlich
 …! — Folgen Sie mir … Wir werden heute
 gemeinsam die beiden Zimmer nochmals …«
 
 Sir Edward rief:
-»Ich … will …!! Ich … will …!! Das reich über
 
-alles …! — Ob — Sie ahnen nicht, was!ich gelitten habe,
+»Ich … will …!! Ich … will …!! Das Recht über
+alles …! — Oh — Sie ahnen nicht, was ich gelitten habe,
 <@pagebreak/>
-DSSDSSDSSSSSSS 533 SSSSSSSSSSSS
-
 nachdem der Zigeuner mir Ihren ersten Brief heimlich zugesteckt
-hatte …! — I will …!? Ich könnte ja doch keine
+hatte …! — Ich will …! Ich könnte ja doch keine
 ruhige Minute mehr haben, bevor ich nicht Gewißheit hätte!
-Noch4 qalanbe ich nichts von alledem! Sie müssen sich irren!
-
+Noch glaube ich nichts von alledem! Sie müssen sich irren!
 Obwohl …«
+
 Und er schwieg und ließ wie mutlos den Kopf wieder
+sinken …
 
-Inder …
-»Dann ging die Prosa voran …
+Dann ging die Frau voran …
+
 Stolpernd und unsicher folgte Sir Edward … Es war,
-
 als ob die Füße ihn nicht mehr tragen wollten …
 
-Und wir htlüuter den beiden der …
+Und wir hinter den beiden her …
 
 Dichter waren die Moornebel geworden … Der Himmel
-hatte sich mit Gemüt? bedeckt … Das Abendrot war verglommen
+hatte sich mit Gewölk bedeckt … Das Abendrot war verglommen
 …
 
 So schritten wir dahin durch die rasch zunehmende
-Dunkelheit …; Ich vor mich hin grübelnd — prüfend, kam
-binierend, — und doch keinen Zusammenhang findend …
+Dunkelheit … Ich vor mich hin grübelnd — prüfend, kombinierend,
+— und doch keinen Zusammenhang findend …
 
 Harst gleichfalls stumm …
 
 Vor uns undeutlich zwei verschwommene Gestalten …
 
 Mit schrillem Schrei stieg hin und wieder neben uns
-ein Kiebitz von seinem versteckten regte hoch … Wilde
-Ruanindien schossen wie Schatten durch die Kräuter … Der
+ein Kiebitz von seinem versteckten Neste hoch … Wilde
+Kaninchen schossen wie Schatten durch die Kräuter … Der
 Nachtwind säuselte in Gräsern und Büschen …
 
-Es begann löscht zu regnen
+Es begann leicht zu regnen …
 
-mit beide stellen näher als ;; mit besorgten rieb!
-zu fürchten, daß die Voranügehenden uns gewährten …
+Wir beide rückten näher auf … Wir brauchten nicht
+zu fürchten, daß die Vorausgehenden uns gewahrten …
 
 Sie schritten jetzt nebeneinander — stumm — eilig —
 getrieben von dem gleichen Wunsche … —
 
-Gegen elf Uhr waren sie alt der Parkpforte. Sir Keck«
-ward schloß auf, drückte die Gittertür wieder zu …
+Gegen elf Uhr waren sie an der Parkpforte. Sir Edward
+schloß auf, drückte die Gittertür wieder zu …
 
-Wir warteten, bis die Finsterni&e der Eichenallee die
-beiden umhüllte … Dann setzten wir.
+Wir warteten, bis die Finsternis der Eichenallee die
+beiden umhüllte … Dann folgten wir.
 
 Ganz fraglos war ich auf die Weiterentwicklung der
 Dinge viel gespannter als Harald. Wir wußten noch immer
-nicht, wie die Frau in das Schloß hinelngeolangte. Wollte
-sie heute auch etwa in ihrem Rigennerfnnenanspuß den drei
+nicht, wie die Frau in das Schloß hineingelangte. Wollte
+sie heute auch etwa in ihrem Zigeunerinnenaufputz den drei
 <@pagebreak/>
-DSSSSSSDSSSSS Z1i/ »ADSSSSSSSSSSLD
-
-bissigen ’Nüden gegenübertreten? Und — weshalb hakte sie
+bissigen Rüden gegenübertreten? Und — weshalb hatte sie
 bisher stets den Mantel, den Federhut und den langen
 Stecken getragen?! Wie hatte sie sich die Hunde vom
 Leibe gehalten, die oben im ersten Stock offenbar nur ganz
@@ -2455,206 +2424,198 @@ Dinge, die mich jetzt für den Augenblick interessierten …
 
 Inzwischen waren wir den beiden wieder bis auf wenige
 Meter nahegekommen … Standen still … denn die Frau
-hatte soeben aus der ausgcesankten Höhlung einer der trösten
-Eichen etwas hervorgezogen: Mantel, Hut, langen Steg …!
+hatte soeben aus der ausgefaulten Höhlung einer der dicksten
+Eichen etwas hervorgezogen: Mantel, Hut, langen Stock …!
 
 Freilich — man mußte raten, daß es gerade diese Sachen
-waren … mußte man, daß die Frau in diesem Kostüm
+waren … Wußte man, daß die Frau in diesem Kostüm
 und mit dem Stecken das Schloß besuchte, so erkannte man
-auch, was sie hier nun in der dunklen alle das: sie wechselte
-das bunte Kopftuch gegen den Federhut ans … Dir Ed.
-ward half ihr galant in den langen Mantel, und dann schritt
+auch, was sie hier nun in der dunklen Allee tat: sie wechselte
+das bunte Kopftuch gegen den Federhut aus … Sir Edward
+half ihr galant in den langen Mantel, und dann schritt
 die Frau wieder voraus, verließ den Schatten der Eichen und
 umschritt das Schloß bis zur Westseite, wo der älteste Teil
-des Bauwerks, ein plumper Farm, sein verwittertes Mauer«-
-Werk hinter dichtestem Escybehang verbarg …
+des Bauwerks, ein plumper Turm, sein verwittertes Mauerwerk
+hinter dichtestem Efeubehang verbarg …
 
 Was weder Harst noch ich vermutet hatten: es gab hier
-eine kleine eiserne Tür, von steht vollkommen überwiücher?.
+eine kleine eiserne Tür, von Efeu vollkommen überwuchert.
 
-Die Frau hatte die dicken Ranken beiseite geschabön
+Die Frau hatte die dicken Ranken beiseite geschoben
+und die Tür, die nur angelehnt gewesen, nach außen aufgezogen
+…
 
-und die Für, dies nur angelehnt gewesen, nach außen aufs
-
-gezogen …
-
-Sie und Sir Edward traten ein … Die für glitt
+Sie und Sir Edward traten ein … Die Tür glitt
 wieder zu …
 
-Ich stand hinter Harald neben einer See …
+Ich stand hinter Harald neben einer Hecke …
 
-Eine!schwere Hand legte sich da plötzlich auf meine
+Eine schwere Hand legte sich da plötzlich auf meine
 Schulter …
 
 Ich fuhr herum … Das geisterbleiche Gesicht John
-
 Learats leuchtete mir förmlich entgegen …
+
 Mit schwerer Zunge fragte der Greis stammelnd:
 »Wer — — wer war der … Begleiter des Weibes,
-
-Herr Schraut … 7«
+Herr Schraut …?«
 
 <@pagebreak/>
-SDILDISISSSSSSSS 535 SSSSSSSSSSSSD
+Harald drängte mich etwas zur Seite …
 
-Sarg!drängte mich etwas zur Seite …«
-»Rani Sie mit, genial,« flüsterte er hastig … »Zu
-tiefer Ungut soll die Familiearuhe der Darlingtons all ihre
-Geheimnis? hergeben … Au«
+»Kommen Sie mit, Learat,« flüsterte er hastig … »In
+dieser Nacht soll die Familientruhe der Darlingtons all ihre
+Geheimnisse hergeben …!«
 
-»gebe gingt Gunst
-
-<h2>8. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
 <h3>Die roten Zungen …</h3>
 
 Der alte Mann hatte da nach Haralds Hand getastet …
-flehend fang jetzt die brüchige Stimme …
+flehend klang jetzt die brüchige Stimme …
 
-»Herr )Harst, wer … wer war der Begleiter der trank!
-Um Christi Barmherzigkeit: Sagen Sie mir die Wahrheit?«
+»Herr Harst, wer … wer war der Begleiter der Frau?!
+Um Christi Barmherzigkeit: Sagen Sie mir die Wahrheit!«
 
-»Kommen Sie …? John! Learat — und hüten Sie
+»Kommen Sie …! John Learat — und hüten Sie
+sich, irgendwie einzugreifen … Hier sind Dinge geschehen,
+weit schlimmer, als ich anfänglich vermutete …«
 
-» irgendwie einzugreifen … Hier sind Dinge geschehen.
-weit schlimmer, a!sich anjtanglich vermutete …«
-Er schritt über den breiten Weg die tun Ruine …
-Sennor stützte sich auf mich, [schwankte wie trunken, raunte
+Er schritt über den breiten Weg bis zum Turme …
+Learat stützte sich auf mich, schwankte wie trunken, raunte
 mir zu:
-— »War’s etwa der … der junge Herr … Li«
-— 3d) schwieg … Ich durfte nicht antworten, durfte mich(
+
+»War’s etwa der … der junge Herr …?!«
+
+Ich schwieg … Ich durfte nicht antworten, durfte nicht
 Haralds Absichten stören …
 
-Der hatte die eiseruüe für vorn aufgezogen … Seine
+Der hatte die eiserne Tür schon aufgezogen … Seine
 Taschenlampe flammte auf …
 
 eine kurze Steintreppe — eine schwere Eichentür — —
 wir waren im Hauptflur des Erdgeschosses …
-Und vernahmen jetzt bereits das geben der Hunde …
-ersten die breite Treppe hinan, die aus der Halle
 
-ach oben führte …
-— Sahen die beiden Glastüren … Die linke war nur
+Und vernahmen jetzt bereits das Toben der Hunde …
 
+Eilten die breite Treppe hinan, die aus der Halle
+nach oben führte …
+
+Sahen die beiden Glastüren … Die linke war nur
 angelehnt …
-iz Das Denken und Wüten der Hunde wurde noch lauter.
-— Kam aus dem dritten Zimmer linker Hand, tönte durch
-je hohe Flügeltür …
+
+Das Heulen und Wüten der Hunde wurde noch lauter.
+
+Kam aus dem dritten Zimmer linker Hand, tönte durch
+die hohe Flügeltür …
+
 Harst schritt weiter …
 
-d
-
 <@pagebreak/>
-DSSSSSSSSDSSS 56 ü0SSSSSSSSSSSD
-
-Bar nachsehen Für … Ich ahnte: es war die des grünen
+Zur nächsten Tür … Ich ahnte: es war die des grünen
 Salons … Und nebenan lag des Lords Arbeitszimmer …
 
-Harald drückte die kunstvolle Messingklinke vourjichtig herab
-…» Die Für ging auf …
+Harald drückte die kunstvolle Messingklinke vorsichtig herab
+… Die Tür ging auf …
 
-Der große dreifenstrige Raum war erleuchtet … E’ne
-elektrische Laterne stand auf dem Kaminsimsg und war’s ihre
-grelles Licht über altertümliche grüne Poltjiermöbel, über
-Bilder und Wasser an den Wanden, über Glasoschränldien
+Der große dreifenstrige Raum war erleuchtet … Eine
+elektrische Laterne stand auf dem Kaminsims und warf ihr
+grelles Licht über altertümliche grüne Polstermöbel, über
+Bilder und Waffen an den Wänden, über Glasschränkchen
 mit geschweiften Beinen, die mit kostbarem Porzellan gefüllt
 waren …
 
-Grüne, golddurFHwirkte Versuche verhüllten die Rufe
-Öffnung zum Nebenzimmer … 5.
+Grüne, golddurchwirkte Vorhänge verhüllten die Türöffnung
+zum Nebenzimmer …
 
 Und dort schienen alle Teufel der Hölle ein infernalisches
 Fest zu feiern …
 
-Dort jaulten, blassen, heulten, winselten die Rücken
-mit einer unbeschreibliä)en Wut … Man hörte das Keuchen
-der Bestien, wenn sie zu einem neuen Angriff sich anschließen.
+Dort jaulten, blafften, heulten, winselten die Rüden
+mit einer unbeschreiblichen Wut … Man hörte das Keuchen
+der Bestien, wenn sie zu einem neuen Angriff sich anschickten.
 
 Gellendes Schmerzgeheul zwischenein … Und hin und
-wieder die harte unbeugsame GStimime der Frau, kurze Worte
+wieder die harte unbeugsame Stimme der Frau, kurze Worte
 ausstoßend …
 
 Oh — das alles fiel einem auf die Nerven …
 
 Das alles regte die Phantasie an … Unglaublich erschien’s,
-daß diese tollwütigen Köter wohl angriffen, aber da) nichts
-augßrichteten wo
+daß diese tollwütigen Köter wohl angriffen, aber doch nichts
+ausrichteten …
 
 Dann — — war Harald an den grünen Vorhängen …
 
-Spähte hindurch … winkte uns — mir und den Greise,
+Spähte hindurch … winkte uns — mir und dem Greise,
 der mich umklammert hielt …
 
 Wir sahen …
 
 Ich sah ein Bild, das ich nie vergessen werde … Es
-war wie eine Szene aus den ersten Zeiten des Christentums,-
-als römische Kaiser die neue Glaubenslehre dadurch auszudrücken
-suchten, daß sie deren Irländer im Zirkus wilden
-korrigieren preisgaben … Einer jener verlangten, von römischen
-Historikern geschilderten unerfllärlichen Vorgänge, bei den die
-Wunderkraft des menschlichen Auges die Bestien in sollte
+war wie eine Szene aus den ersten Zeiten des Christentums,
+als römische Kaiser die neue Glaubenslehre dadurch auszutilgen
+suchten, daß sie deren Anhänger im Zirkus wilden
+Tieren preisgaben … Einer jener verbürgten, von römischen
+Historikern geschilderten unerklärlichen Vorgänge, bei den die
+Wunderkraft des menschlichen Auges die Bestien in seltsamer
+Furcht zurückscheuchte …
 
-kamen Furcht zurücdschente …
 <@pagebreak/>
-22220202000002002 37&nbsp;0000000202022
-
 So war es auch hier …
 
-Drei Riesenhunde, tiefe groß wie Kaliber, waren da
+Drei Riesenhunde, Tiere groß wie Kälber, waren da
 in einer Ecke zusammengedrängt … Vor ihnen stand die
-Frau mit dem Scheint, einen langen sind in der Hand,
-der am unteren, den Hunden zugekehrten Ende »inne wie
-»eine stachlig« Kugel trug …
+Frau mit dem Federhut, einen langen Stab in der Hand,
+der am unteren, den Hunden zugekehrten Ende etwas wie
+eine stachlige Kugel trug …
 
-Die blutunterlaufenen ’Uugen der drei rasenden Köter.
+Die blutunterlaufenen Augen der drei rasenden Köter
 stierten abwechselnd auf diese Kugel und in das Gesicht
-»der Frau …
+der Frau …
 
-Mit gesträubtem Rückenhaar standen sie wie s[prung-bereit
-… — sprangen aber nicht — zitterten — hatten …
-Und dieses Bild blieb, bis die Frau einen Stuhl Kerkers
-430g und den Stetem mit der stachligen kindskopfgroßen Kugel
-so auf den Stuhlsitz legte, daß der wie mit Dornen leck
-wachsene Ball kaum ein halbes Meter von den Schnauzen
+Mit gesträubtem Rückenhaar standen sie wie sprungbereit
+… — sprangen aber nicht — zitterten — tobten …
+
+Und dieses Bild blieb, bis die Frau einen Stuhl herbeizog
+und den Stecken mit der stachligen kindskopfgroßen Kugel
+so auf den Stuhlsitz legte, daß der wie mit Dornen bewachsene
+Ball kaum ein halbes Meter von den Schnauzen
 der Bestien entfernt war …
 
 Hinter mir flüsterte Harald:
 
-»Das Fell eines schob … Ein uralter Zigeunerdorf …
-Ein Hund, der einmal in die IgelitacHeln hineingebissen bat,
+»Das Fell eines Igels … Ein uralter Zigeunertrick …
+Ein Hund, der einmal in die Igelstacheln hineingebissen hat,
 tut es nie wieder … Hinzu kommt noch der Moschusgeruch,
-der jedem Acker anhaftet und der den Hunden widerwärtig …«
+der jedem Igel anhaftet und der den Hunden widerwärtig …«
 
 Und neben mir stöhnte der greise John Learat:
 
-»Es … ist der junge Herr … Es ist S:;Antwort
+»Es … ist der junge Herr … Es ist Sir Edward
 Darlington, der Erbe …«
 
-Sir Edward aber stand vor dem großen Diplomaten-scHreiviisy)
-— tief Gehör, hatte die Seitenschubfächer heraus
+Sir Edward aber stand vor dem großen Diplomatenschreibtisch
+— tief gebückt, hatte die Seitenschubfächer herausgezogen
+…
 
-gezogen …
 Auf der Schreibtischplatte brannte eine zweite große
-
 Laterne …
-Die Frau trat zu dem Jüngling heran, Spruches etwas,
 
+Die Frau trat zu dem Jüngling heran, sprach etwas,
 kniete nieder …
+
 Ihre Worte blieben bei dem Heulen und Bellen der
-
 Hunde unverständlich …
-Sie kniete und zog die Schubfächer vollends heraus …
 
-tastete in die Weismachen hinein …
+Sie kniete und zog die Schubfächer vollends heraus …
+tastete in die Öffnungen hinein …
 
 <@pagebreak/>
-22HSSSSSDSESDISS 35 DESEIOSEDSDSS
+Der greise Kastellan hing an meinem Arm wie ein kraftloses
+Bündel …
 
-Der greise Kastellan hing an meinen beim Die eint Spalte
-loses Bündel …
-
-Harst — hinter uns — flüsterte abermals;
+Harst — hinter uns — flüsterte abermals:
 
 »Hinein jetzt …!! Wir werden …«
 
@@ -2663,15 +2624,15 @@ hielt in der Rechten einen großen versiegelten Umschlag …
 
 Die Hunde verstummten für Sekunden …
 
-… »Bucklig — endlich!« rief die Frau wiederum … »Es
-sind die Papiere …!«’
+»Endlich — endlich!« rief die Frau wiederum … »Es
+sind die Papiere …!«
 
-Sie war aufs gesprungen …
+Sie war aufgesprungen …
 
-Auge in Auge mit Sir Edward nun …-
+Auge in Auge mit Sir Edward nun …
 
-»Endlich …’! — jetzt kann ich beweisen, daß iF nicht
-nur Bessie Park bin, Geliebte Lord Daniel Darlingtons,
+»Endlich …! — jetzt kann ich beweisen, daß ich nicht
+nur Bessie Dark bin, Geliebte Lord Daniel Darlingtons,
 sondern ein …«
 
 Die Bestien begannen von neuem zu lärmen … Schossen
@@ -2684,31 +2645,29 @@ Lüftete die Vorhänge …
 
 Ein Schuß da — ein doppeltes Klirren …
 
-Not, ein Schuß … Die beiden Patronen erloschen jäh …
+Noch ein Schuß … Die beiden Laternen erloschen jäh …
 
 Dunkelheit … Die drei Riesenhunde schienen toll geworden
-zu sein»…
+zu sein …
 
 Und als Haralds Taschenlampe dann aufblitzte, war
 das Zimmer leer — die Frau und Sir Edward geflüchtet
-… Die Hunde hatten der Cltiuihl Autos:wollen … Der
-Stern lag auf dem Teppich … Cx wolltest Harst anspringen
-… John Learats Zeit:per Zuruf secyenchte sie zurück
+… Die Hunde hatten den Stuhl umgeworfen … Der
+Stecken lag auf dem Teppich … Sie wollten Harst anspringen
+… John Learats heiserer Zuruf scheuchte sie zurück
 … Er brachte sie zur Ruhe …
 
-nicht aber meine zitternden Nerven … Erde Schweiße
-Perlen standen mir acht der Stirn …
+Nicht aber meine zitternden Nerven … Dicke Schweißperlen
+standen mir auf der Stirn …
 
-Zu schnell hatte all das ein abgespielt … Zu furchtbar
-waren dies? Sekunden gewesen … — Wer hatte geschossen
-—« wer den beiden die Flucht ermöglicht …?!
+Zu schnell hatte all das sich abgespielt … Zu furchtbar
+waren diese Sekunden gewesen … — Wer hatte geschossen
+— wer den beiden die Flucht ermöglicht …?!
 
 Harst war bereits mit drei raschen Schritten an der
+Tür, die auf den Altan hinausführte.
 
-Für, die auf den allzu hinausführte.
 <@pagebreak/>
-DSDSSSSSSSSS 59 SSSSSSSSSSD-D
-
 Als er die Vorhänge zurückzog, sahen wir, daß die
 Glasscheiben der Doppeltür ein faustgroßes Loch hatten …
 
@@ -2717,23 +2676,22 @@ Harst riß die Türen auf …
 Verschwand draußen …
 
 Die Hunde lagen zusammengeduckt vor Learat — winselten
-— feuchten …
+— keuchten …
 
 Der Greis bebte … schwankte … Ich schob ihm den
-Schreibsessel bin. Er »sank hinein …
+Schreibsessel hin. Er sank hinein …
 
-Harald kam zurück «.
+Harald kam zurück …
 
 »Die Schüsse wurden vom Altan aus abgegeben …«
-
-sagte er nur … Stürmte weiter — in den Fluß »… Ließ
-den Alten und mich hier Zuruf — mit all dem Unheimlichen,
+sagte er nur … Stürmte weiter — in den Flur … Ließ
+den Alten und mich hier zurück — mit all dem Unheimlichen,
 Ungeklärten, das uns wie unsichtbare Schrecknisse
 umgab …
 
-»Dein … Herr Schraut, das … das »… das war …«
+»Herr … Herr Schraut, das … das … das war …«
 
-John Legen! blickte mich an »… «.
+John Learat blickte mich an …
 
 Er rang nach Luft …
 
@@ -2747,34 +2705,32 @@ Die Altantüren waren offen geblieben …
 
 Meine Taschenlampe beleuchtete, das Zimmer — die
 drei Hunde — — und warf eine Lichtbahn hinaus in die
-Oiniernig der wolkigen Nacht, auf die im Winde schwärzester
-Zweigs der Eichen ;; deren Feierliches Rauschen
-drang zu uns herein, war wie das nervenberuhigends Brausen
+Finsternis der wolkigen Nacht, auf die im Winde schwankenden
+Zweige der Eichen … deren feierliches Rauschen
+drang zu uns herein, war wie das nervenberuhigende Brausen
 eines fernen Meeres …
 
-»Mein Gott …!f« flüsterte der verstörte Greis von
+»Mein Gott …!!« flüsterte der verstörte Greis von
 neuem … »Mein Gott — soll denn die Qual dieser Jahre
 noch größer werden …!! Was — was ist nun eigentlich
-geschehen, Herr Schraut «.?!
+geschehen, Herr Schraut …?! Ich …«
 
-Verstummte — war der Richtung »meinen Blicke gefolgt,
+Verstummte — war der Richtung meiner Blicke gefolgt.
 Die hingen draußen an den Baumästen — dem dunklen
-Grün des Blätterwaldes … Eine seltsamrötlihe Lichtquelle
-hafte die Bäume mit mildem Glanz übergossen …
+Grün des Blätterwaldes … Eine seltsam-rötliche Lichtquelle
+hatte die Bäume mit mildem Glanz übergossen …
+
 <@pagebreak/>
-… SSSSSSSSSSSS 60 DSSSSSSSSSSS
+John Learat packte die Armstützen des Sessels … richtete
+sich ruckweise auf …
 
-John Learat Tote die Zinkfüßen des Sessels … nicht
-
-deutete sich ruckweise auf …
-
-Ein gleißenden Laut kam über die welken Lippen —
+Ein pfeifender Laut kam über die welken Lippen —
 wurde zu Worten … zu einem unnatürlichen Schrei:
 
 »Das Schloß — — brennt … brennt …!«
 
-Er Sprache nur aus, was auch mir bereits klar geworden:
-das Fall des Schlosses stand in Flammen!
+Er sprach nur aus, was auch mir bereits klar geworden:
+das Dach des Schlosses stand in Flammen!!
 
 Und wir nun hinaus …
 
@@ -2782,32 +2738,33 @@ Learat scheuchte die Hunde vor sich her …
 
 Hinaus ins Freie …
 
-Ein Blick nach abriß …
-Das Dach brannte … Ans den Bodenfenstern schossen
+Ein Blick nach oben …
 
-rate Feuerzungen … Der Nacdhtwind spielte mit ihnen,
+Das Dach brannte … Aus den Bodenfenstern schossen
+rote Feuerzungen … Der Nachtwind spielte mit ihnen,
 drückte sie nieder, fachte sie an … Schwarzer Qualm ballte
-Na zusammen, zerflatterte …
+sich zusammen, zerflatterte …
 
 Plötzlich Harald neben mir … Legt mir die Hand
-auf die Schulter … 2« »Co«
+auf die Schulter …
 
-»Damm …ck«
-Der Greis stiert wie gebannt dorthin, wo jetzt die vorn
+»Komm …!«
 
-trockene Bodenkammer von der roten Glut umspielt wird, wo
-die Familentruhe der Darlingtons sehr bald zu Asche zerfallen
+Der Greis stiert wie gebannt dorthin, wo jetzt die verborgene
+Bodenkammer von der roten Glut umspielt wird, wo
+die Familientruhe der Darlingtons sehr bald zu Asche zerfallen
 wird …
 
 Lautlos entfernen wir uns …
 
-Die links withseiti vor Angst vor dein hier 664
+Die Hunde winseln vor Angst vor dem Feuer …
 
-John genial, Bildsäule geworden, Per?! nicht; laß mit
-gerschwinden …
+John Learat, Bildsäule geworden, merkt nicht, daß wir
+verschwinden …
 
-<h2>3. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 <h3>Sonnenaufgang …</h3>
+
 Wir eilen die Allee hinab …
 Harsts sagt nur:
 
@@ -3013,7 +2970,7 @@ Wie Sonnenaufgang … — —
 Dies ist die Sees)ihre der Familientruhe der Darlingtons
 Was im darüber noch zu sagen wußte, ist belanglos.
 
-»eziäägen auuetnsiides jene
+»Behagen auuetnsiides jene
 
 Nächster Band:
 Die drei Finger den Benson
