@@ -7,6 +7,7 @@
 \bAhnen\b	Ihnen
 \bau!	auf
 \bBann\b	Dann
+\b[bdh]in [nu][nu]d [bdh]er\b	hin und her
 \bBieter\b	Meter
 \b(\d+)[l1i]en\b	$1ten
 \bElement\b	Clement
@@ -42,10 +43,12 @@
 \bWir\.	Mr.
 i[cd]\)	ich
 no[cd]\)	noch
+nod\)	noch
 »Ob	»Oh
 …\s-	… —
 …\s\?	…?
 …«\s-	…« —
+\.\.\.\s?1	…!
 \?\s[1!]	?!
 …\s[1!]	…!
 …\s[2k][!1]	…?!
