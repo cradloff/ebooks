@@ -19,7 +19,7 @@ Erfahrung. Noch nie zeigte sich uns ein Verbrechen anfänglich
 so vollständig in Dunkel gehüllt wie dieses, das ich hier
 nun schildern will. —
 
-Meine Freunde und Leser haben uns Im vorigen Band
+Meine Freunde und Leser haben uns im vorigen Band
 nach den Fär-Oer-Inseln begleitet gehabt, wo eine uralte
 Sage vom Wikingerkönig Frithjof neues modernes Leben
 gewann, wo »Das geheimnisvolle Floß« sich als nichts anderes
@@ -57,7 +57,7 @@ Seinen Oheim hatte er seit fünf Jahren nicht gesehen.
 Der empfing ihn wortkarg und fast unfreundlich, erklärte
 ihm gleich nach der ersten Mahlzeit, daß er das
 Schloß selbst nicht betreten dürfe. Lord Percy Darlington
-habe es verboten,
+habe es verboten.
 
 Der alte John Learat bewohnte im sogenannten Gästehaus,
 das ein Stück vom Schlosse entfernt im Parke lag, im
@@ -101,10 +101,10 @@ rauschten, und unser Learat konnte nicht sofort einschlafen.
 
 Gegen Mitternacht erhob er sich, um die Fenster zu
 schließen. Er zog seinen Mantel über, schlüpfte in die
-Morgenschuhe und trat an das eine Fenster,
+Morgenschuhe und trat an das eine Fenster.
 
 Der Vollmond lugte durch die Baumkronen, wurde aber
-immer wieder von jagenden Wolkenfetzen verhüllt,
+immer wieder von jagenden Wolkenfetzen verhüllt.
 
 Plötzlich vernahm Learat da vom Schlosse her das wütende
 Bellen der Rüden.
@@ -145,7 +145,7 @@ Schatten einer Frau mit großem Federhut auf dem Kopfe
 zu tragen schien.
 
 Der Schatten schwand, aber die Hunde tobten noch
-wütender — offenbar oben In den erleuchteten Zimmern,
+wütender — offenbar oben in den erleuchteten Zimmern.
 
 Inzwischen hatte der alte John den Seiteneingang erreicht
 und die Tür hinter sich wieder versperrt. Unser
@@ -155,7 +155,7 @@ zurück.
 
 Noch zwei Minuten vielleicht, und die Zimmer oben
 wurden mit einem Schlage dunkel … Die Hunde
-verstummten,
+verstummten.
 
 Nach einer Weile wieder huschte der matte Schein einer
 Laterne über jene Fenstervorhänge hin …
@@ -172,10 +172,10 @@ stehenden Neffen vorüber. Er hatte die Eigentümlichkeit, laut
 vor sich bin zu reden. Das tat er auch jetzt. Learat hörte,
 wie er in verbissener Wut hervorstieß:
 
-»Oh — ich fasse Die schon noch ab …! Ich habe
+»Oh — ich fasse die schon noch ab …! Ich habe
 Geduld …«
 
-dann tauchte der alte Schloßkastellan in der Finsternis
+Dann tauchte der alte Schloßkastellan in der Finsternis
 der Allee unter.
 
 Unser Learat wartete abermals eine halbe Stunde …
@@ -344,7 +344,7 @@ Harald zog seine Brieftasche und spielte mit einer Fünfzigpfundnote
 
 Die Augen des Mädchens hingen an dem Geldschein …
 
-auch das alte Weib stierte auf Harsts Hand …
+Auch das alte Weib stierte auf Harsts Hand …
 
 »Manuela …!!« rief sie leise …
 
@@ -448,7 +448,7 @@ Harald lächelte … Und Manuela wurde wieder sicherer
 und kecker, erhob sich, erwiderte das Lächeln und meinte:
 »Wenn die Herren mir bitte folgen wollen …«
 
-Wir graute im voraus
+Mir graute im voraus.
 
 <@pagebreak/>
 Und — mit Recht, wie wir dann sahen …
@@ -484,7 +484,7 @@ Bitte — bringen Sie uns einen Besen und einen Scheuerlappen
 »Oh — die Großmutter wird hier aufräumen … wenn
 die Herren ihr eine Kleinigkeit zahlen …«
 
-Die holde Manuela verschwand,
+Die holde Manuela verschwand.
 
 »Tun wir alles selbst, Manuelita … also Besen und
 Scheuerlappen …!«
@@ -537,8 +537,8 @@ Die Frau machte hastig kehrt, lief am Fenster vorüber.
 Leider waren die Fensterscheiben derart schmutzig, daß
 man unmöglich hindurchschauen konnte …
 
-»Bleib sitzen, mein Älter, flüsterte Harald … »Es
-genügt …!! Und sein Blick wanderte zu dem Sammethut
+»Bleib sitzen, mein Alter,« flüsterte Harald … »Es
+genügt …!!« Und sein Blick wanderte zu dem Sammethut
 hin …
 
 Indem kam Manuelita mit Besen und einem sogenannten
@@ -631,7 +631,7 @@ das tun … Und doch: die Sache kann nicht stimmen …«
 
 »Weshalb nicht?!«
 
-»kann vorläufig nicht stimmen,« ergänzte Harald und
+»Kann vorläufig nicht stimmen,« ergänzte Harald und
 nahm eine neue Zigarette. »Zunächst müssen wir doch feststellen,
 ob der alte Schloßkastellan die drei Hunde wirklich
 dieser Frau mit dem Federhut wegen dort allnächtlich einsperrt
@@ -652,7 +652,7 @@ vorgehen! Deshalb habe im ja auch in Braby mich so
 genau danach erkundigt, wann Lord Percy Darlington das
 Verbot erlassen hat …«
 
-»vor fünfzehn Jahren bereits …«
+»Vor fünfzehn Jahren bereits …«
 
 »Ja — eine lange Zeitspanne … — Niemand aber
 vermochte zu sagen, weshalb das Verbot erging und weshalb
@@ -733,7 +733,7 @@ Manuela wandte den Kopf vom Lichte weg …
 »Nein, der Vater hat sie wieder verkauft …« meinte sie
 achselzuckend … »Sie war sehr reich geschnitzt und …«
 
-»an wen verkauft? Vielleicht an Lord Percy Darlington?«
+»An wen verkauft? Vielleicht an Lord Percy Darlington?«
 fiel Harald der schlanken Schwindlerin ins Wort …
 
 Ah — das saß …! Das traf wie ein Hieb …!
@@ -741,7 +741,7 @@ Ah — das saß …! Das traf wie ein Hieb …!
 Die junge Zigeunerin fuhr herum … Sie war ein
 Naturkind, sie war einem Harst in keiner Weise gewachsen
 … Gerissen, schon — gewiß! Aber nicht gewöhnt, sich
-zu beherrschen, vorschnell mit der Zunge
+zu beherrschen, vorschnell mit der Zunge.
 
 <@pagebreak/>
 »Sie … Sie waren im Schloß, Herr …« stieß sie
@@ -827,7 +827,7 @@ von John Learat und den Hunden bewacht wir?! Ob
 die Frau mit dem Federhut dieses Skelett sucht …?!«
 
 Dann ging er zum Herd, wo das Torffeuer brannte,
-wo Über der Glut die Pfefferminzkräuter verkohlten und den
+wo über der Glut die Pfefferminzkräuter verkohlten und den
 Ziegenbockgeruch wirksam bekämpften …
 
 Unseren kleinen Aluminiumtiegel setzte er auf den
@@ -908,7 +908,7 @@ Unsere erste Mahlzeit in der Blockhütte …
 
 Eier, Dauerwurst, Brot und Butter … Es schmeckte …
 
-Die Würze des Mahles war Haralds Nachtprogramm,
+Die Würze des Mahles war Haralds Nachtprogramm.
 
 »Wir werden bis halb zwölf schlafen,« schlug er vor.
 »Dann werden wir Schloß Darlington einen Besuch abstatten
@@ -1016,7 +1016,7 @@ einen Kistendeckel, der in die Wand eingefügt zu sein schien.
 
 Ein Blick genügte …
 
-es war ein großer Kistendeckel … Links war er durch
+Es war ein großer Kistendeckel … Links war er durch
 Lederstücke, die hier die Türgelenke ersetzten, an einen Pfosten
 genagelt …
 
@@ -1036,7 +1036,7 @@ waren: gegen Flöhe und Läuse!!
 Dann waren da noch ein Schränkchen, eine Kiste, ein
 Rohrstuhl, ein kleiner Tisch, eine Petroleumlampe …
 
-»hier schlief die Frau,« sagte Harald …
+»Hier schlief die Frau,« sagte Harald …
 
 Und ich: »Ja — hier schlief sie …!« Und ich zog
 zwischen den sauberen Kissen des Bettes … ein Damennachthemd
@@ -1048,7 +1048,7 @@ hervor …
 Das ist eine Dame — — die »Frau« … — Dame! —
 Und hier — — ein Stückchen Polierstein für Fingernägel!
 Schraut, Schraut, — »die Frau« gibt uns mancherlei
-zu raten auf …
+zu raten auf …«
 
 »Ja — und wir bleiben eingesperrt — leider!« nickte
 ich …
@@ -1072,12 +1072,12 @@ dort nur mit einem Deckel aus Baumästen, durch die
 Moosstücke geflochten waren, verschlossen. —
 
 Eine halbe Stunde später lagen wir im kleinen Park
-von Darlington hinter einer Hecke unweit des Gästehauses,
+von Darlington hinter einer Hecke unweit des Gästehauses.
 
 Ein hohler Wind fuhr durch die Kronen der uralten
 Parkbäume …
 
-rechts von uns schimmerten die Fenster über dem Altan
+Rechts von uns schimmerten die Fenster über dem Altan
 an der Seitenfront des Schlosses — jene Fenster also, die
 damals erleuchtet gewesen, als unser Learat sein nächtliches
 Abenteuer durchlebte …
@@ -1154,7 +1154,7 @@ Worte, die immer deutlicher werden …
 
 Wie ein heißes Flehen klingt’s …
 
-»Mylord … Familientruhe … nicht … nicht …
+»Mylord … Familientruhe … nicht … nicht …«
 
 Und — wieder ein röchelnder Schrei — — ein
 Aufstöhnen …
@@ -1275,7 +1275,7 @@ Schlosses und die Vorderfront, Du die andere Seite und
 die Rückfront … Stelle Dich an der Westecke auf … Der
 <@pagebreak/>
 Efeu ist dicht … Drücke Dich hinein … — Siehst Du etwas
-so ahme das Krächzen einer Krähe nach …
+so ahme das Krächzen einer Krähe nach …«
 
 Ich eile davon … Wir haben insofern Glück, als rund
 um die Mondsichel das Firmament wolkenfrei ist … Mildes
@@ -1297,7 +1297,7 @@ Nichts geschieht … Nichts erscheint … Keine Menschenseele
 Weg und verschwindet in einem vergitterten, zertrümmerten
 Kellerfenster …
 
-Minuten reihen sich zu einer Viertelstunde aneinander,
+Minuten reihen sich zu einer Viertelstunde aneinander.
 
 Ich sehe auf das Zifferblatt meiner Uhr … Es schimmert
 grünlich-gelb wie das Auge eines Raubtiers …
@@ -1319,7 +1319,7 @@ Harsts Signal …
 
 Und ich tief geduckt vorwärts — der Allee zu …
 
-an einer der Eichen ein Schatten …
+An einer der Eichen ein Schatten …
 
 Harald winkt …
 
@@ -1328,7 +1328,7 @@ Harald winkt …
 
 Ich sehe den dunklen gleitenden Schatten weit voraus.
 
-von Baum zu Baum springen wir … Nähern uns
+Von Baum zu Baum springen wir … Nähern uns
 dem eilig Davonschreitenden …
 
 <@pagebreak/>
@@ -1748,15 +1748,15 @@ Der greise Kastellan rang abermals mit sich …
 Dann … »Ich … ich … will’s tun, Herr Harst …
 Unter einer Bedingung …«
 
-»und die wäre?«
+»Und die wäre?«
 
 »Die Frau will ich … verscheuchen — — die Frau …!!
-Falls — falls sie eben ein Wesen von Fleisch und Blut.
+Falls — falls sie eben ein Wesen von Fleisch und Blut.«
 
 »Verscheuchen?! — Dann müßten Sie uns erst einmal …«
 
 »Nein, nein, — — die Wahrheit hören Sie nie von
-mir …! Meinen Eid halte ich …!? Nur — nur von dem
+mir …! Meinen Eid halte ich …! Nur — nur von dem
 <@pagebreak/>
 Weibe will ich Ihnen erzählen, was ich … zu erzählen
 habe … viel ist es nicht …«
@@ -1787,7 +1787,7 @@ sollten ihm den Angriff auf uns verzeihen …
 Wir saßen jetzt in denselben Sesseln, tranken Tee, aßen
 ein köstliches derbes Landbrot mit goldgelber Butter und
 vergaßen darüber die Schmerzen und das Stechen und
-Brennen in den Augen
+Brennen in den Augen.
 
 Der greise Kastellan erzählte …
 
@@ -1806,7 +1806,7 @@ Male auf den Fenstervorhängen des grünen Salons … Dieser
 Raum über dem Altan hat drei Fenster. Daneben liegt
 das Arbeitszimmer Lord …«
 
-er stockte … hüstelte — verbesserte sich: »Daneben
+Er stockte … hüstelte — verbesserte sich: »Daneben
 legt ein zweifenstriges Zimmer … auch das war erleuchtet.
 — Ich betrat das Schloß durch den Seiteneingang
 … Und — — fand nichts — nichts … Nur die beiden
@@ -1967,7 +1967,7 @@ gelehnt …
 Naturkind — —: ihre Augen verrieten Mißtrauen und
 Neugier …!
 
-»oh — Sie haben ja ein Pflaster auf dem Kopf, Herr,«
+»Oh — Sie haben ja ein Pflaster auf dem Kopf, Herr,«
 meinte sie zu Harald …
 
 »Ja, mein Freund und ich sind in der Nacht über den
@@ -2052,11 +2052,11 @@ hier war ein Motorrad in die Schlucht hinabgeführt worden!
 Die Spur war neu …
 
 »Der Motorradler!« meinte Harald … »Die Hütte ist
-bewohnt … Der junge Mensch hat sie mit Beschlag belegt,«
+bewohnt … Der junge Mensch hat sie mit Beschlag belegt.«
 
 Wir näherten uns behutsam …
 
-Es war so: durch die Türöffnung blickten wir hinein,
+Es war so: durch die Türöffnung blickten wir hinein.
 
 Auf einem Mooslager schlief da ein blonder frischer
 Jüngling … Neben ihm an der Wand lehnte das tadellose
@@ -2093,10 +2093,10 @@ Percys, des Schloßherrn …!
 
 Dieser Sir Edward hatte sich nun langsam erhoben, verneigte
 sich … Die gesellschaftliche Sicherheit des einzigen
-Erben des alten Namens gewann die Oberhand Über Schreck
+Erben des alten Namens gewann die Oberhand über Schreck
 und Verwirrung …
 
-»Edward Darlington …," sagte er höflich … Ein etwas
+»Edward Darlington …,« sagte er höflich … Ein etwas
 erzwungenes Lächeln erschien um den hübschen Mund …
 »Ich habe vor vierzehn Tagen die Schule mit dem Reifezeugnis
 verlassen,« erklärte er … »Meine Eltern erlaubten
@@ -2130,7 +2130,7 @@ Grunde hierher gekommen sein wie wir …: eines
 Geheimnisses wegen, von dem er vielleicht weniger wußte
 als wir, die er tatsächlich für holländische Künstler hielt.
 
-alles in allem war Sir Edward ein munterer, liebenswürdiger
+Alles in allem war Sir Edward ein munterer, liebenswürdiger
 junger Mensch, bei dem nur eins immer stärker
 hervortrat: eine gewisse Schwermut, ein für seine Jahre
 allzu nachdenklicher Ernst, gepaart mit einer geistigen Reife,
@@ -2166,7 +2166,7 @@ nicht länger zweifeln: Edward ahnte etwas von dem Morde,
 von der Familientruhe und ihrem unheimlichen Inhalt!
 
 <@pagebreak/>
-Wieder vergingen so zwei Stunden,
+Wieder vergingen so zwei Stunden.
 
 Die Sonne sank … Ein kühler Luftzug strich die kleine
 Schlucht entlang …
@@ -2177,7 +2177,7 @@ ihn: Sir Edward sollte in Sicherheit gewiegt werden …
 Wir wollten uns frühzeitig niederlegen, damit unser junger
 Gefährte freie Hand für seine Unternehmungen hätte.
 
-Gegen ein Viertel zehn, als bereits leichte Nebel Über
+Gegen ein Viertel zehn, als bereits leichte Nebel über
 dem Hochmoor lagerten, erklärte Edward, er wolle sich jetzt
 noch etwas Bewegung machen — ein Stück wandern
 — zu Fuß … sein Rad und seinen Hund, den er über alles
@@ -2208,7 +2208,7 @@ Wir ließen Sir Edward einen großen Vorsprung. Er
 hatte die Richtung nach dem Zigeunerdorf eingeschlagen.
 Der leichte Nebel begünstigte unser Vorhaben.
 
-als er dann in einer Mulde des Hochmoors, in der
+Als er dann in einer Mulde des Hochmoors, in der
 drei einzelne mächtige Birken wuchsen, halt gemacht und sich
 <@pagebreak/>
 in der Nähe der weißen Stämme niedergesetzt hatte, waren wir
@@ -2317,7 +2317,7 @@ Die Frau trat noch näher … Ihre Stimme wurde weich.
 <@pagebreak/>
 nicht verantwortlich dafür, daß Ihr Vater ein Mörder und
 Betrüger … Und doch sind Sie der einzige Erbe des
-Titels und der Güter der Darlingtons .. Deshalb habe
+Titels und der Güter der Darlingtons … Deshalb habe
 ich Sie hierher bestellt … Sie sollen mir helfen, die Beweise
 für die unerhörten Schändlichkeiten herbeizuschaffen
 … Sie sollen Ihren Vater dann veranlassen, aus England
@@ -2493,7 +2493,7 @@ Haralds Absichten stören …
 Der hatte die eiserne Tür schon aufgezogen … Seine
 Taschenlampe flammte auf …
 
-eine kurze Steintreppe — eine schwere Eichentür — —
+Eine kurze Steintreppe — eine schwere Eichentür — —
 wir waren im Hauptflur des Erdgeschosses …
 
 Und vernahmen jetzt bereits das Toben der Hunde …
@@ -2631,7 +2631,7 @@ Sie war aufgesprungen …
 
 Auge in Auge mit Sir Edward nun …
 
-»Endlich …! — jetzt kann ich beweisen, daß ich nicht
+»Endlich …! — Jetzt kann ich beweisen, daß ich nicht
 nur Bessie Dark bin, Geliebte Lord Daniel Darlingtons,
 sondern ein …«
 
@@ -2766,86 +2766,83 @@ verschwinden …
 <h3>Sonnenaufgang …</h3>
 
 Wir eilen die Allee hinab …
-Harsts sagt nur:
+
+Harst sagt nur:
 
 »Ich habe ihn …!«
+
 Er kann nur den Mann meinen, der mit so verblüffender
-
 Sicherheit die beiden elektrischen Laternen durch Kugelschüsse
-zertrümmert ha! …
+zertrümmert hat …
+
 <@pagebreak/>
-S0SSSEDSSSSSS 81 DESSSBEESDIGDS
-
 Am Parktor steht in der Wildnis von Büschen das
-unbenutzte Jorwärterhäukßhen … Wildnis —« wie der ganze
-
+unbenutzte Torwärterhäuschen … Wildnis — wie der ganze
 Park …
 
 Und hier in dem kleinen Vorflur des Häuschens liegt
 ein Mann — Arme und Beine gefesselt …
 
-Meine Taschenlampe zeigt mir ein krankhaft Streiches
-Gesicht, Frauen Spitzbart, helle verzweifelte Augen … Einen
+Meine Taschenlampe zeigt mir ein krankhaft bleiches
+Gesicht, grauen Spitzbart, helle verzweifelte Augen … Einen
 Touristenanzug trägt der Mann … Stiert zu uns empor.
 
-Ohnmächtiger Grinst verzerrt das hochmütige blasse Antlitz…
+Ohnmächtiger Grimm verzerrt das hochmütige blasse Antlitz …
+
 »Lord Percy Darlington, falls Sie uns freiwillig folgen,
 werde ich Ihnen die Fesseln abnehmen …« — So spricht
 Harst … »Und damit Sie wissen, daß jeder Fluchtversuch
 aussichtslos ist: ich bin Harald Harst, der deutsche Detektiv
-». Vielleicht hoben Sie von mir gehört …«
+… Vielleicht haben Sie von mir gehört …«
 
 Darlingtons Kopf sinkt … Ein Stöhnen erst — dann
-
 ein festes entschiedenes:
-»Ich werde nicht fliehen … Das Spiel ist eng … Ich
 
-weiß es … —
+»Ich werde nicht fliehen … Das Spiel ist aus … Ich
+weiß es …« —
+
 Dann gehen wir, den Lord in der Mitte, über das
-
 Hochmoor — schweigend …
-Hinter uns lebt der ganze Dachstuhl des Schlosses …
-Die Nebel leuchten rosig … Es ist wie Sonaenuntere-
 
-jemandem Das Erfolge Gut je 34
+Hinter uns loht der ganze Dachstuhl des Schlosses …
 
-Roß =ck Warten, daß Lord Percy gesiedan soll …
+Die Nebel leuchten rosig … Es ist wie Sonnenuntergang …
+
+Wir wandern der kleinen Schlucht zu …
+
+Und — Warten, daß Lord Percy gestehen soll …
 
 Er bleibt stumm …
 
-Harald beginnt dann! »Wie denken Sie sich nun …
-das Ende, Mylord«?! Sie sagten vorhin selbst, daß
-das Spiel aus sel … Und das ist richtig … Es ist aus
-
+Harald beginnt dann: »Wie denken Sie sich nun …
+das Ende, Mylord?! Sie sagten vorhin selbst, daß
+das Spiel aus sei … Und das ist richtig … Es ist aus
 … Fünfzehn Jahre haben Sie vor aller Welt die Täuschung
 aufrecht erhalten, daß Ihr Bruder Daniel, der vor Ihnen
 Lord Darlington und Erbe der Güter war, als Geisteskranker
 in einer Privatheilanstalt untergebracht sei … Ich hatte schon
-im Dorfe Braby allerlei! über Lord Daniel gehört … alle
-waren der jüngere … Aber nach ihrem Hausgesch konnte
+im Dorfe Braby allerlei über Lord Daniel gehört … Sie
+waren der jüngere … Aber nach ihrem Hausgesetz konnte
 <@pagebreak/>
-DSSSESSSSDSSOSD 69&nbsp;6200 B80B052L808022080
-
-kein Geisteskranker Fragen des alten Namens bleiben. Sie
-fanden sehr schlecht mit Ihrem Bruder, waren nur auf
+kein Geisteskranker Träger des alten Namens bleiben. Sie
+standen sehr schlecht mit Ihrem Bruder, waren nur auf
 geringe Einkünfte angewiesen …«
 
 Harst schwieg eine Weile … Ließ nachwirken, was er
-
 soeben Lord Percy vorgehalten …
-mit da — bequemte der in die Enge Getriebene [ich
 
-bald zum Sprechen …
+Und da — bequemte der in die Enge Getriebene sich
+doch zum Sprechen …
 
-»Dein Harst, vielleicht hatten Sie mich für einen Mörder
-… Ich — bin es nicht …? Ich habe einen Zeugen —
+»Herr Harst, vielleicht halten Sie mich für einen Mörder
+… Ich — bin es nicht …! Ich habe einen Zeugen —
 John Learat! — Damals vor fünfzehn Jahren kam es in
 dem Arbeitszimmer meines Bruders drüben im Schloß spät
-abends zwischen uns zu einem erregten Streit. Ich) hakte
-Daniel um Geld gebeten, hatte ihm gleichzeitig vorschnellen,
-daß Dr seine Geliebte, Bessie Park, im Schlosse beherbergte
+abends zwischen uns zu einem erregten Streit. Ich hatte
+Daniel um Geld gebeten, hatte ihm gleichzeitig vorgeworfen,
+daß er seine Geliebte, Bessie Dark, im Schlosse beherbergte
 … Ich gebe zu: ich bedrohte ihn mit einem Revolver …
-Aber —!ich hätte nie abgedrückt … Learat fiel mir in
+Aber — ich hätte nie abgedrückt … Learat fiel mir in
 den Arm, wollte mir die Waffe entwinden. Sie entlud
 sich … Daniel sank mit Kopfschuß vornüber auf den Teppich.«
 
@@ -2853,103 +2850,98 @@ sich … Daniel sank mit Kopfschuß vornüber auf den Teppich.«
 
 Lord Percy achtete nicht darauf …
 
-». — Learats war’s, der als treuer Diener unseres Borneos
+»… — Learats war’s, der als treuer Diener unseres Hauses
 den Unglücksfall vertuschen wollte … Er hatte gerade in
-jener Nacht einem geiste&gestörten Landstreicher, der hier
-in der Gegend per dem Namen »der bitte Zu« bekannt
-War und der einige Üchnlichfelt mit Panther herab, unsere
-Punkt gewährt. Satz litt an religiösem Wahnsinn und nannte
-ich stets »Erzengel Gabriel« … Ihn schossen wir in derselben
-Nacht im Auto nach Kennywort in eine Privakt-heilanstalt
+jener Nacht einem geistesgestörten Landstreicher, der hier
+in der Gegend unter dem Namen »der blöde Jack« bekannt
+war und der einige Ähnlichkeit mit Daniel besaß, Unterkunft
+gewährt. Jack litt an religiösem Wahnsinn und nannte
+sich stets »Erzengel Gabriel« … Ihn schafften wir in derselben
+Nacht im Auto nach Kennywort in eine Privatheilanstalt
 … Dem Chefarzt erklärte ich, bei meinem Bruder
 sei plötzlich religiöser Irrsinn zum Ausbruch gekommen …
-Niemand schöpfte Verdacht … Jacht war fortan Dunkel
+Niemand schöpfte Verdacht … Jack war fortan Daniel
 Darlington, wurde entmündigt, und ich trat in seine Rechte
-— in die Rechte des Toten, den wir in der Familtientruhe
+— in die Rechte des Toten, den wir in der Familientruhe
 zur letzten Ruhe bestattet hatten … — Seitdem habe ich
 Schloß Darlington nicht mehr betreten. Meines Bruders
-Geliebte verschwand … Ist habe nie mehr von ihr qe
+Geliebte verschwand … Ich habe nie mehr von ihr gehört,
 <@pagebreak/>
-»’S0DEOSIISSSSSISSO 639 2DSSSSSSSSSSS
+bis … bis ich vor vierzehn Tagen bei meinem Sohne
+Edward einen Brief fand … Es war ein Schreiben Bessie
+Darks. Ich erkannte die Handschrift …«
 
-… hört, bis … bis iQ) vor vierzehn Tagen bei meinem Sohns
-Edward einen wird fand … S8 war ein Schreiben hell
-Danke. Ich erkannte die Handschrift …
+»Und — Sie sind Edward jetzt heimlich gefolgt …«
 
-»Und — Sie sind Edward ich! heimlich gefolgt …
+»Ja … Ich kam jedoch … zu spät … Seine
+Unterredung mit Bestie Dark hatte bereits stattgefunden …«
 
-»Ja … Ich kam geben … zu spät … Seine viele
-Unterredung wir Bestie Park hatte bereits stattgefunden …
-»Sie waren es, der das Schloß in Brand steckte … 7«
+»Sie waren es, der das Schloß in Brand steckte …?«
+
 Da blieb Lord Percy stehen …
 
-»Ich tat es nicht …!? Mein Wort darauf, Herr Harst!«
-Harald amurimielte etwas vor sich b!= … Es!lang wie
-… »Manuela War’s aus Unvorsichtigkeit gewesen sein …«
+»Ich tat es nicht …! Mein Wort darauf, Herr Harst!«
 
-Lord Dich fügte schon hinzu:
+Harald murmelte etwas vor sich hin … Es klang wie
+… »Manuela kann’s aus Unvorsichtigkeit gewesen sein …«
 
-»Ich bis klar die Weit erledigt, Herr Harst … 5-H
-möchte nur eins noch«: mich vor meinem Sohne rechtfertigen
+Lord Percy fügte schon hinzu:
 
-Dann …« — Und er machte eine Handbewegung, die
+»Ich bin für die Welt erledigt, Herr Harst … Ich
+möchte nur eins noch: mich vor meinem Sohne rechtfertigen
+… Dann …« — Und er machte eine Handbewegung, die
 alles besagte …
 
 Wir schritten weiter …
 
-Wir näherten uns der Schlucht, der alten Scöäferbütte
-
-… Licht schimmerte durch« die Fensteröffnungen … Die gestohlene
+Wir näherten uns der Schlucht, der alten Schäferhütte
+… Licht schimmerte durch die Fensteröffnungen … Die geflochtene
 Tür stand offen …
 
 Auf Steinen saßen da Sir Edward Darlington und
-Bessie Park …
+Bessie Dark …
 
-Der blonde schlanke Junge weinte. Sein Reittier hatte
+Der blonde schlanke Junge weinte. Sein Terrier hockte
 neben ihm, leckte ihm die Hand …  auf dem Herd loderte
 ein Reisigfeuer …
 
-Harald war’s, der die Frau mit dem Federhut berauts-rief
-… Wir wollten Vater und Sohn allein lassen, »wollten
-durch »Bessie aufgeklärt haben, was an geringfügigen Nebenumständen
-vor dunkel … —
+Harald war’s, der die Frau mit dem Federhut herausrief
+… Wir wollten Vater und Sohn allein lassen, wollten
+durch Bessie aufgeklärt haben, was an geringfügigen Nebenumständen
+noch dunkel … —
 
-Bessie Park tat, als ob Lord Percy für sie Luft wäre
--« schritt an ihm vorüber …
+Bessie Dark tat, als ob Lord Percy für sie Luft wäre
+— schritt an ihm vorüber …
 
-Tier traten abseits … Und sofort begann sie da:
+Wir traten abseits … Und sofort begann sie da:
 
 »Wer Sie beide auch sein mögen: Maler sind Sie niemals
-…! Das ahne ich schon, als Manuela Sie beide
+…! Das ahnte ich schon, als Manuela Sie beide
 gerade in meinem Schlupfwinkel untergebracht hatte — aus
-
 Geldgier …«
 
 <@pagebreak/>
-00DS00EDSSSS 64. 00&nbsp;0080ES0EDEISSE
+Harald nannte unsere Namen …
 
-Harald nannte unsere Amen …
-
-»Üb — Herr Harst »1 Das hätte ich doch nicht der
-mutet …!« rief sie leise … Und in einem »Atem; »Sie sollen
+»Ah — Herr Harst …! Das hätte ich doch nicht vermutet
+…!« rief sie leise … Und in einem Atem: »Sie sollen
 alles erfahren … Ich bin Daniel Darlingtons rechtmäßige
-Gattin … fest habe ich die Papiere gefunden … Wir
+Gattin … Jetzt habe ich die Papiere gefunden … Wir
 ließen uns in Irland trauen … Das Gemeindeamt des
-Meinen Dörfchens dort brannte ad … Ich konnte nicht beweisen,
+kleinen Dörfchens dort brannte ab … Ich konnte nicht beweisen,
 daß ich Daniels Frau … Jetzt erst habe ich die
-Papiere gefunden, von denen ich keine Duplikate scharfem
-konnte … Daß im das Schloß stets in diesem Mantel und
-Hut betrat, daß seinen Grund darin, daß mein Gatte diesen
+Papiere gefunden, von denen ich keine Duplikate erhalten
+konnte … Daß ich das Schloß stets in diesem Mantel und
+Hut betrat, hat seinen Grund darin, daß mein Gatte diesen
 Anzug an mir besonders liebte … Und — was Lord
 Percy betrifft: ich verzeihe ihm — seines Sohnes wegen!
 Aber sehen und sprechen will ich ihn nicht … — Leben
 Sie wohl, meine Herren … Ich habe jahrelang mein Recht
-gesucht … jetzt bin ich; Lady Darlington — keine Dinge
-
+gesucht … jetzt bin ich Lady Darlington — keine Dirne
 mehr …!«
+
 Sie schritt in die neblige Nacht hinaus … Ihre hagere
 Gestalt wurde immer undeutlicher … — Wir sind ihr
-
 nicht mehr begegnet …
 
 Und Arm in Arm traten dann Vater und Sohn aus
@@ -2960,17 +2952,16 @@ Lord Percy erklärte feierlich:
 »Ich habe eingesehen, das Selbstmord Feigheit wäre …
 Ich werde mich den Gerichten stellen … Denn — ich habe
 mein Kind nicht verloren! Edward hat mir verziehen …
-Edward wird das alte Geschlecht wieder zu ansehen bringen.«
+Edward wird das alte Geschlecht wieder zu Ansehen bringen.«
 
 Fern — ganz fern leuchtete der rötliche Fleck in den
 Nebelschwaden …
 
 Wie Sonnenaufgang … — —
 
-Dies ist die Sees)ihre der Familientruhe der Darlingtons
-Was im darüber noch zu sagen wußte, ist belanglos.
-
-»Behagen auuetnsiides jene
+Dies ist die Geschichte der Familientruhe der Darlingtons.
+Was ich darüber noch zu sagen wüßte, ist belanglos.
 
 Nächster Band:
-Die drei Finger den Benson
+
+__Die drei Finger Ben Benson.__
