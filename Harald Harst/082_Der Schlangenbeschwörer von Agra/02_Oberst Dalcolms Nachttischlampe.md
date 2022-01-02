@@ -244,7 +244,7 @@ Nein, da sind nasse Sachen eine Wohltat.«
 Auch Ozeana nahm eine Zigarette. Dann begann
 der Detektivinspektor:
 
-»Oberst a. D. Dalcolm ist einer der vielen Engländer,
+»Oberst a.&nbsp;D. Dalcolm ist einer der vielen Engländer,
 die durch den Dienst auf einsamen Posten schließlich zu
 Sonderlingen werden. Er wohnt hier in Agra weit draußen
 in der Nähe des Seuchenlazaretts dicht am Fluß in
@@ -310,7 +310,7 @@ gewesen sein müsse, dem er infolge eigener Nachlässigkeit
 Zeit zum Entschlüpfen ließ. Als ihm einfiel, außer
 dem Diebe, der vor dem offenen Schranke kniete, sei doch
 fraglos noch ein weiterer Eindringling dagewesen, war es
-zu spät nachzusuchen.«
+zu spät, nachzusuchen.«
 
 »Wie war der Einbrecher ins Zimmer gelangt?«
 
@@ -496,7 +496,7 @@ sich hier ebenfalls um einen gewerbsmäßigen Einbrecher,
 der auch zu Chilka Ragans nächtlichen Besuchern gehört
 hätte.
 
-Als wir nun in Dalcolms Schlafzinmer standen, fragte
+Als wir nun in Dalcolms Schlafzimmer standen, fragte
 Harald den Oberst:
 
 »Haben Sie diesmal nach dem Manne gesucht, der die
@@ -551,13 +551,13 @@ nähergerückt.
 Harald hatte meinen Blick aufgefangen und durch ein
 unmerkliches Kopfschütteln erwidert. Ich verstand, was
 er damit ausdrücken wollte: der Ring sollte nicht erwähnt
-werden! Ich hätte es auch ohne diesen Wink nicht getan.
+werden! — Ich hätte es auch ohne diesen Wink nicht getan.
 
 »Ich begreife nicht, was der Dieb oder die beiden
 Diebe hier stehlen wollten,« sagte Harald nun und drehte
 sich langsam um. »Es ist ja klar, daß sie es auf denselben
 Gegenstand abgesehen hatten. Sind in diesem Schranke
-vielleicht Wertsachen verborgen. Mr. Dalcolm?«
+vielleicht Wertsachen verborgen, Mr. Dalcolm?«
 
 Harst spielte Komödie. Er wußte ebenso gut wie ich,
 worauf die Einbrecher es abgesehen gehabt hatten. Sie
@@ -684,7 +684,7 @@ Haralds Hieb hatte also gesessen. Der Oberst fürchtete
 nun, daß der Inder unter dem Zwange der Hypnose alles
 beantworten würde, was Harst ihn fragte.
 
-Dalcolm war jetzt bis wir uns verabschiedeten, sehr
+Dalcolm war jetzt, bis wir uns verabschiedeten, sehr
 zerstreut. Es fiel ihm schwer, sich nicht anmerken zu lassen,
 wie stark ihn Harsts Äußerung beunruhigte.
 
@@ -719,7 +719,7 @@ geschehen, Harst?«
 »Ich möchte ihn nochmals ausforschen. Am besten ist,
 Sie nehmen Miß Ozeana gleich mit.«
 
-Bereits fünf Minuten später warten wir auf der Jacht
+Bereits fünf Minuten später waren wir auf der Jacht
 mit dem Verwundeten in der Kajüte allein. Der Mann
 lag noch immer mit geschlossenen Augen da. Harst sprach
 ihn an, erhielt keine Antwort.
@@ -836,7 +836,7 @@ auf dem Flusse überfallen worden waren.
 »Ich hatte mich von meinen Dienern bis in die Nähe der
 India-Bank rudern lassen, wo ich Geld abhob. Das Gespräch
 mit dem Bankdirektor zog sich etwas in die Länge.
-Als ich wieder im Boot heimkehrte, muß ich doch ziemlich
+Als ich, wieder im Boot, heimkehrte, muß ich doch ziemlich
 zur selben Zeit dort an jener Stelle gewesen sein, wo das
 Motorboot Sie rammen wollte.«
 
@@ -914,7 +914,7 @@ zu haben.
 <@pagebreak/>
 er. »Ich habe die Kämpfe gegen Afghanistan seiner Zeit
 mitgemacht und in einer Nacht etwas erlebt —« — er
-kauerte zusammen — »etwas erlebt, das mich als Schreckgesicht
+schauerte zusammen — »etwas erlebt, das mich als Schreckgesicht
 noch heute verfolgt. Entschuldigen Sie, daß ich mich
 nicht besser zusammennehmen konnte. Auf Wiedersehen!«
 
@@ -1051,7 +1051,7 @@ geschickt arbeitete, konnten wir uns noch auf mehr derartige
 warf mir einen besonderen Blick zu. »Das heißt: ein ganz
 leichtes Betäubungsmittel, also unschädlich!«
 
-Nun wurde ich aus alledem erst recht wieder nicht klug,
+Nun wurde ich aus alledem erst recht wieder nicht klug.
 
 »Woraus schließt Du auf ein *leichtes* Betäubungsmittel?«
 meinte ich gespannt.
@@ -1143,7 +1143,7 @@ Verwundeten!«
 »Ja. — Wir werden jetzt folgendes tun: Drüben ist
 eine Autohaltestelle. Wir besteigen eines und lassen uns über
 die Dschamna-Brücke nach dem rechten Ufer des Flusses
-zum Tadschmachal fahren, dem Mausoleum Schah Dschehans
+zum Tadschmahal fahren, dem Mausoleum Schah Dschehans
 und seiner Gattin. In der rosigen Abendbeleuchtung habe
 ich dieses berühmteste Bauwerk der ganzen Welt noch nicht
 genossen. Außerdem können wir dort in der Touristenmenge
@@ -1222,7 +1222,7 @@ spielte.
 ist eine scheußliche Bestie! Das gefährlichste an ihm ist
 aber, daß seine Macht über seine Kreaturen so weit geht,
 daß sie gern für ihn sterben. Dieses Lächeln da gilt uns,
-will wohl andeuten: »Nun fragt mich doch!« —
+will wohl andeuten: »Nun fragt mich doch!« —«
 
 Wir verließen die Polizeidirektion. Es war inzwischen
 dunkel geworden. Der Kastellan hatte Harald auf dessen
@@ -1237,7 +1237,7 @@ aus dem Ring zum Vergrößern gegeben hat?«
 »Diese Ironie kannst Du Dir sparen. Du weißt am
 besten, daß Greebrac das nie tun würde. Der Photograph
 würde ja sonst die Vergrößerung lesen. Nein, ich vermute
-nur einen ähnlichen Auftrag.«
+nur einen ähnlichen Auftrag.« —
 
 Mr. Blunc war daheim. Harst nannte seinen Namen.
 »Wir wohnen hier bei Inspektor Lockpor, Mr. Blunc. Ich
@@ -1327,7 +1327,7 @@ ein alter Bekannter von uns vom Ellora-Tempel her.
 
 Lautlos, aber ohne jede Scheu schritt er auf den
 Vergrößerungsapparat zu. Dann schaltete er unbesorgt
-Licht ein, zog den Apparat mehr nach vorn und nahm das
+das Licht ein, zog den Apparat mehr nach vorn und nahm das
 Tuch ab, das den Kasten und das Objektiv bedeckte. —
 
 Alles ging ganz programmäßig. Blunc und sein
@@ -1356,7 +1356,7 @@ sich nicht. Er hoffte, das schwarze kleine Knäuel durch einen
 seiner Helfershelfer holen lassen zu können.
 
 Doch — *Harst* holte es nun hervor! Es war ein
-schwarzes Tuchsäckchen. Und darin lag —
+schwarzes Tuchsäckchen. Und darin lag —:
 
 > der Rubinring!
 
@@ -1370,7 +1370,7 @@ Anruf hin nach kurzem Verhör von der Polizei gleich wieder
 entlassen.
 
 Drei Stunden später versuchte ein Inder in das Atelier
-einzudringen. Aber Blunc, der dort aufpaßte verscheuchte
+einzudringen. Aber Blunc, der dort aufpaßte, verscheuchte
 ihn.
 
 Als wir um sechs Uhr morgens uns bei Freund
@@ -1467,7 +1467,7 @@ fast krankhaft.
 Greebrac. Ich werde hinter ihnen bleiben, und wenn
 Sie bis ans Ende der Welt fliehen sollten!«
 
-»Und ich — ich werde Sie morgen den Dschamna-Krokodilen
+»Und ich — ich werde Sie morgen den Dschamnakrokodilen
 als Nachtmahl servieren! Auf Wiedersehen.« —
 
 Wir gingen heim. — Kurz vor elf Uhr begaben wir
@@ -1595,7 +1595,7 @@ schwer verwundet. Er starb vier Stunden später.
 
 Austin und seine Schwester waren unser. Und Austin
 hatte die Perlenkette bei sich — diese kostbare Kette, die
-dann die Not so vieler gelindert hat.
+dann die Not so vieler gelindert hat. —
 
 Unser Kampf gegen Greebrac ging weiter. Ein Austin
 Greebrac findet leicht ein Loch zum Entschlüpfen.
