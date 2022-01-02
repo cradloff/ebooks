@@ -137,7 +137,7 @@ Inselchen Jan Mayen mit seinen rund 4300 Quadratkilometern
 Grundfläche. »Eigentlich« hat es dort oben im
 Eismeer gar nichts zu suchen. Das Meer rings umher hat
 nämlich eine Tiefe von zweieinhalb- bis dreitausend Metern,
-und aus dieser tiefe schießt da mit einem Male ein mächtiger,
+und aus dieser Tiefe schießt da mit einem Male ein mächtiger,
 mehr als fünftausend Meter hoher Berg auf. Zur
 Hälfte steckt er im Wasser, zur anderen Hälfte ragt er mit
 2500 Meter Höhe über die Meeresoberfläche auf, und was
@@ -164,13 +164,13 @@ häufiger und langwieriger sind dicke Nebel. Kurz, dieses
 Jan Mayen ist ein herzlich ungemütlicher Aufenthalt.
 
 Wem das Inselchen eigentlich gehört, das steht noch nicht
-fest, weder völkerrechtlich voll privatrechtlich. Im 17. und
+fest, weder völkerrechtlich noch privatrechtlich. Im 17. und
 18\. Jahrhundert gab Jan Mayen im Sommer einen Stützpunkt
 für holländische Walfischfänger ab (nach einem von
 <@pagebreak/>
 denen ist sie auch benannt). Dann kümmerte sich lange
 niemand um sie. 1882-83 hauste hier eine österreichische
-Polarexpedition, die unter andern eine Karte der Insel
+Polarexpedition, die unter anderm eine Karte der Insel
 aufnahm. Ihr schönes geräumiges Holzhaus steht noch. 1919
 erschien das dänische Fährschiff »Islands Falk«, nahm das
 Ganze in Besitz und man malte eine große dänische Fahne
@@ -318,7 +318,7 @@ des Fürsten. Er drückte uns fest die Hand …
 »Ich danke Ihnen, meine Herren … Ich hatte der norwegischen
 Regierung zugesagt, diese Verbrechen durch Sie
 beide aufklären zu lassen. Ich wollte nicht gern wortbrüchig
-Werden. Ich danke Ihnen …«
+werden. Ich danke Ihnen …«
 
 »Ganz unnötig …!« Und Harald nahm eine Zigarette
 … Nach den ersten Zügen dann:
@@ -552,7 +552,7 @@ um … Es sind zwei Seeleute, ein junger und ein älterer …
 <@pagebreak/>
 Natürlich weiß man hier in Oslo längst, daß der Fürst
 mit uns zusammen Jan Mayen wieder besuchen will. Vor
-drei Stunden sind wird dann hier eingetroffen. Das Erscheinen
+drei Stunden sind wir dann hier eingetroffen. Das Erscheinen
 der Jacht hat sich rasch herumgesprochen. Auch
 jene Leute erfuhren es, die mit dem Gespenst von Jan
 Mayen hier verbündet sind. — Wir müssen sie unbedingt
@@ -801,7 +801,7 @@ sehen. Das ist selbstverständlich. Nun können wir das
 Boot gleich zu einem Drittel bezahlen. — Uwe Kolling.«
 
 »Wußte ich’s doch!« meinte Harald und zerriß den
-Zettel, streute die Stücken zum Fenster des Aussichtswagens
+Zettel, streute die Stückchen zum Fenster des Aussichtswagens
 hinaus … »Sie wohnen bei Senta Longby …! Und —
 weggejagte Matrosen …!! Oh — die Sache macht sich!«
 
@@ -840,7 +840,7 @@ Theaterplatz auf … etwas … Spielten die Touristen —
 lasen in einem Reisehandbuch … Der Hohlspiegel hat sie
 jetzt entlarvt …«
 
-»Und woraus schließt, Du, daß es dieselben Leute sind?!
+»Und woraus schließt Du, daß es dieselben Leute sind?!
 Es können doch auch …«
 
 »Stopp, Alterchen, — es können nicht … nein, es sind
@@ -1053,7 +1053,7 @@ altehrwürdigen Türklopfers.
 Harald hatte im Nu die beiden Taschenlampen ausgeknipst
 …
 
-»Ziel wenigstens das Hemd über,« meinte er trocken …
+»Zieh wenigstens das Hemd über,« meinte er trocken …
 
 Dann schlich er hinaus …
 
@@ -1330,7 +1330,7 @@ Wenn ich nicht von vornherein an dieser Diamantenmine
 Doktor Longbys gezweifelt hätte, würde ich kaum auf die
 Frage nach den Photographien gekommen sein. Zufällig ist
 <@pagebreak/>
-mir aber bekannt, wo. Longby die letzten Jahre zugebracht
+mir aber bekannt, wo Longby die letzten Jahre zugebracht
 hat. Und dort kann er keine Diamanten gefunden haben …«
 
 Ich horchte auf. Ich hatte fest angenommen, daß Longby
@@ -1400,7 +1400,7 @@ erklang das dumpfe Brüllen der Kühe im Stalle …
 
 Nichts geschah …
 
-Wir krochen auf allen vielen den Bootssteg entlang —
+Wir krochen auf allen Vieren den Bootssteg entlang —
 ins Boot hinein. Der Schiffer saß im Ölmantel am Heck.
 Die Bootslaterne war nur wie ein Pünktchen in dieser
 alles verschleiernden Regenflut …
@@ -1440,7 +1440,7 @@ Dann … nichts mehr …
 Ich hatte das Gefühl, in unermeßliche Tiefen zu versinken
 …
 
-Wir war’s, als ab die Krallen eines Ungeheuers sich in
+Mir war’s, als ab die Krallen eines Ungeheuers sich in
 mein Genick einschlugen …
 
 Das war die letzte Empfindung …

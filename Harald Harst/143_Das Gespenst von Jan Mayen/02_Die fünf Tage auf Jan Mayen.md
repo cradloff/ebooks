@@ -67,7 +67,7 @@ welche Stimmung uns drei beherrschte, zumal wir
 ja genau wußten, daß hier auf Jan Mayen irgendwo in der
 Verborgenheit Leute hausten, denen ein Menschenleben nicht
 mehr galt als eine Schnecke, die man am Strande mit
-schweren Stiefel zertritt …
+schwerem Stiefel zertritt …
 
 Selbst Harald war ungewöhnlich ernst. — Wir drei standen
 nun oben am Rande des Felsgerölls der Küste und
@@ -231,7 +231,7 @@ Das heißt: der Strand war ja kaum dreihundert Meter
 entfernt … Wir hörten die Brandung, die Seevögel, zuweilen
 auch das seltsame Bellen von Walrossen …
 
-Nacht bangen Minuten in weiter Ferne nochmals das
+Nach bangen Minuten in weiter Ferne nochmals das
 Heulen … dieses halbe Winseln, anschwellend zu schrillem
 Kreischen …
 
@@ -461,7 +461,7 @@ Sollte das etwa einer von Doktor Longbys Leuten sein?!
 
 Und — — ich riskierte es …
 
-Ich tat dasselbe wie er ich kroch vorwärts — auf ihn
+Ich tat dasselbe wie er: ich kroch vorwärts — auf ihn
 zu — stets in Bergung bleibend — stets bereit, meine Clement
 das letzte Wort sprechen zu lassen …
 
@@ -695,7 +695,7 @@ Salvani schob sich näher an den Spirituskocher heran …
 ein warmes Frühstück herrichten … Ihnen, lieber Harst,
 <@pagebreak/>
 geht es ja Gott sei Dank so vortrefflich, daß man auch für
-Sie eine kräftige Fischbrühe …«
+Sie eine kräftige Fleischbrühe …«
 
 Nun — ihm sollte der Appetit gründlich vergehen … So
 gründlich wie uns allen …
@@ -1049,7 +1049,7 @@ nicht übel, Herr Schraut …«
 Harst befand sich im Arbeitszimmer des Assistenten …
 Saß an dem einfachen Schreibtisch …
 
-»Da bist Du ja mein Alter …«
+»Da bist Du ja, mein Alter …«
 
 Nickte mir zu …
 
@@ -1118,7 +1118,7 @@ gibt es einen Erdölsee von gewaltiger Ausdehnung, —
 heute habe ich die richtige Eisspalte entdeckt, die mich zu dem
 Felsenschacht führte, aus dem einst die flüssige Lava hervordrang
 und die Abgründe dann mit schillernden, schnell erstarrenden
-Massen anfühlte … — Ich bin noch völlig erschöpft.
+Massen anfüllte … — Ich bin noch völlig erschöpft.
 Unter steter Lebensgefahr bin ich in dem erstickenden
 Geruch, in dem Dunst des Erdöls hinabgestiegen bis zum
 Rande meines Petroleumsees — *meines* Sees! Denn ich
@@ -1142,7 +1142,7 @@ Drahtlos soll er mir in Chiffren Antwort geben. Ich bin
 gespannt, ob nicht auch er den geraden Weg für den besten
 hält: Nachricht an die Regierung!
 
-3\. September, — Longbys Antwort ist soeben eingetroffen.
+3\. September. — Longbys Antwort ist soeben eingetroffen.
 Ich soll abwarten, nichts überstürzen. Er sei so etwas
 Sachverständiger. Wahrscheinlich enthalte der See nur eine dünne
 Oberschicht Erdöl, deren Ausbeutung nicht lohne. — Ich
@@ -1278,7 +1278,7 @@ Er hat plötzlich die lange Leine von der Schulter genommen
 
 Und da sehe ich … sehe auf der anderen Seite des
 Hügels Jan auf dem Bauche liegen … über ihm ein pechschwarzer
-Hund, der merkwürdig einem Panther gleiche …
+Hund, der merkwürdig einem Panther gleicht …
 
 Das war der schwarze Panther aus der vergangenen Nacht!
 Also doch nur ein Hund … Nur?! — Nein — die Bestie sieht
@@ -1397,10 +1397,10 @@ kommt der Wind. Dort sind wir sicher …
 Rauchmassen verhüllen alles ringsum …
 
 Hinter uns sinkt die Fontäne zusammen … Aber die
-Spalte bleibt Riesenesse des unten wütenden Brandes ., —
+Spalte bleibt Riesenesse des unten wütenden Brandes … —
 
 Wir beginnen den Abstieg. Doktor Longby und die anderen
-vier sind gerichtet … — durch eigene Schuld …
+vier sind gerichtet … — durch eigene Schuld 
 <@pagebreak/>
 haben nicht mit den Gasen gerechnet, die über dem Erdölsee
 lagerten … —
