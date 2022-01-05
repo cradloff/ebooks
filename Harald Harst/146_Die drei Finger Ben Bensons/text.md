@@ -918,30 +918,30 @@ ich dann sehr bald ein …
 Am nächsten Vormittag …
 
 auch die zweite Kajüte hat ihr Promenadendeck …
-Das Ehchpaar Paalsen liegt in Sektkühler und freut sich
+Das Ehepaar Paalsen liegt in Deckstühlen und freut sich
 über das heitere Antlitz des sonst so ungezogenen Golfes
 von Biscaya …
 
 Fünf Schritt seitwärts zwei andere Personen: Patterson,
 der jetzt den rechten Arm verbunden in der Schlinge trägt,
 plötzlich hellblondes Haar und einen ebensolchem Spitzbart
-bekommen bat und um fünfzehn Jahre jünger Rücksicht …
+bekommen hat und um fünfzehn Jahre jünger aussieht …
 Neben ihm meine Irina … Reizend, frisch, vergnügt …
 
-Kanaille — kleine Kanaille …!!! —
+Kanaille — kleine Kanaille …!! —
 
 Inzwischen wissen wir durch unseren Steward: die beiden
 Herrschaften aus Kabine Nr. 8 und 5 sind die Geschwister
 Robertson …
 
-Ausgerechnet Robertson — — und Geschwister!! See
-neidenäwerter Bruder! Mit der Ekhwester führe auch ich
-Zündhölzern gen Bombay …! Nur müßte die Schwester in Punkto
+Ausgerechnet Robertson — — und Geschwister!! Beneidenswerter
+Bruder! Mit *der* Schwester führe auch ich
+gern gen Bombay …! Nur müßte *die* Schwester in Punkto
 Moral weniger mit Hoteltüren bewandert sein! —
 
 Das Pärchen fühlt sich offenbar vollkommen sicher …
-Bensons verräteris;He Hand liegt in einem schönen weißen
-Gazeverband … Ganz nett, der Tricks …
+Bensons verräterische Hand liegt in einem schönen weißen
+Gazeverband … Ganz nett, der Trick …
 
 Das Pärchen flüstert viel … Benson sieht jetzt gar
 nicht so übel aus … Ein strammer Bursche, und Augen
@@ -949,69 +949,70 @@ besitzt er, — ähnlich wie Harst … ein Blick, der alles zu
 durchdringen scheint … —
 
 Harald schmökert … Er hat sich aus der Schiffsbibliothek
-vier neueste englisch;e Kriminalromane geholt …
+vier neueste englische Kriminalromane geholt …
 
 Ich halte den Schreibblock im Schoße und lasse den
-sollen harten Bleistift eilig über das Papier gleiten …
-sdrweibe mit meiner leider recht Intrigen Schrift unser vorletztes
+spitzen harten Bleistift eilig über das Papier gleiten …
+schreibe mit meiner leider recht kritzligen Schrift unser vorletztes
 <@pagebreak/>
-Nbentketter nieder, »Das Gespenst so! Tag Mayen«
-»… In Gorilla, wo die Otranto anlockt, soll das Manuskript
+Abenteuer nieder, »Das Gespenst von Jan Mayen«
+… In Genua, wo die Otranto anlegt, soll das Manuskript
 zur Post …
 
 So kommt es, daß meine Gedanken im hohen Norden
-weilen, auf der einsamen Insel, wo des Beerenberges eisstarrenden
+weilen, auf der einsamen Insel, wo des Beerenberges eisstarrender
 Gipfel und das Blockhaus der Wetterstation Zeugen
 einer blutigen Tragödie wurden … In diese Erinnerungen
-versenke ich mich, vergesse darüber fast Ben Benson-Arbeit«
-schon und sein ÜcHwesterlein, die so geschickt mit Drahtschlingen
+versenke ich mich, vergesse darüber fast Ben Benson-Robertson
+und sein Schwesterlein, die so geschickt mit Drahtschlingen
 Türriegel zu öffnen versteht …
 
 Ja — eine seltsame Freundin für eine Herzogin, diese
 Doris Gwendoll! Eine unbegreifliche Freundschaft …! —
-Ob die schöne »Herzogin von Lancire, die Harald so keck
-angeschwindelt hat, wirklich nicht ahnt, weiße Art von
+Ob die schöne Herzogin von Lancire, die Harald so keck
+angeschwindelt hat, wirklich nicht ahnt, welche Art von
 Schattenpflänzchen diese Doris ist?!
 
-Das geht mir plötzlich so durchs Ben Kopf, während mein
+Das geht mir plötzlich so durch den Kopf, während mein
+versonnener Blick auf dem heiteren Pärchen ruht …
 
-versonnener Blick auf dem heiteren Pärchen fuhr …
-— Ich darf es schon wagen, häufiger hinüber zuschauen …
-Meine nächste als fünfzigjährige Frau Gutübesitzer Paalsen
+Ich darf es schon wagen, häufiger hinüberzuschauen …
+Meine Maske als fünfzigjährige Frau Gutsbesitzer Paalsen
 ist tadellos … Ich weiß auch mein Benehmen danach einzurichten
 …
 
-Und — mein versonnener Blick, der so halb rote im
-Geiste die düsteren Landschaft&bilder auf Tag Mayen schaut,
+Und — mein versonnener Blick, der so halb noch im
+Geiste die düsteren Landschaftsbilder auf Jan Mayen schaut,
 wird mit einem Male lebhafter …
 
 Ich — beobachte etwas …
 
 Harst liest …
 
-Ich sehe da einen europäisch gekleideten Inder, der seit
+Ich sehe da einen europäisch gekleideten Inder, der sechs
 Schritt jenseits des Pärchens in einem Liegestuhls ruht und
-mit einer Momentkamera ein beschäftigt — wie spielend …
+mit einer Momentkamera sich beschäftigt — wie spielend …
 
 Die schwarzen Augen in dem kaffeebraunen Gesicht sind
+weniger harmlos … Unter gesenkten Lidern schießen eigentümliche
+Blicke zu Robertson und Schwester hin …
 
-weniger harmlos … Unter gaesonkten Lidern schießen eigen
-altertümliche Blicke zu Robertson und schneller hin …
 Und dann — wahrhaftig, keine Täuschung! — dann
-
 hat der Inder die beiden geknipst — ganz heimlich
+
 Eine Weile vergeht …
-Doris Spender den Kopf
+
+Doris wendet den Kopf
 
 <@pagebreak/>
-Da läßt der Inder zum zweiten Male den Momente
-Verschluß arbeiten …
+Da läßt der Inder zum zweiten Male den Momentverschluß
+arbeiten …
 
 Ich … nehme schnell einen Zettel, schreibe nieder, was
-ich belauert habe, Reihe Harald meinen Schreibblock und
+ich belauert habe, reiche Harald meinen Schreibblock und
 den Zettel …
 
-Er liest, knüllt den Zettel zusammen und Maat nur …
+Er liest, knüllt den Zettel zusammen und nickt nur …
 
 Ich merke, wie er jetzt den Inder scharf im Auge behält.
 
@@ -1022,79 +1023,77 @@ Und wieder eine halbe Stunde später hat Harst ermittelt,
 daß der Inder ein Kaufmann namens Schama Semli aus
 Bombay ist, daß er in der allen Passagieren zur
 Verfügung stehenden Dunkelkammer sofort seine Rollfilms
-martert hat und nun in seiner Kabine Nr, 12a (die
-Nummer 13 sollte auf der Otranto — = wberglaube!) weilt,
+entwickelt hat und nun in seiner Kabine Nr. 12a (die
+Nummer 13 fehlte auf der Otranto — — Aberglaube!) weilt,
 
 Wir essen in unserer Kabine … auch die Robertsons
-»Gesichter auf die gemeinsame Tafel im Speisesaal … Sie
-lassen sich das Diner in Doris Qwendolls Kabine servieren,
-— Unser Guckloch) bewährt sich wieder …
+verzichten auf die gemeinsame Tafel im Speisesaal … Sie
+lassen sich das Diner in Doris Gwendolls Kabine servieren,
+— Unser Guckloch bewährt sich wieder …
 
 Wir stehen abwechselnd an dem Löchlein … Die Geschwister
-sind recht zärtlich … Meine Irina sitzt eine Weile!
+sind recht zärtlich … Meine Irina sitzt eine Weile
 auf des Bruders Schoß und küßt ihn …
 
 Wir stellen fest, daß der Verband um den Unterarm
 Ben Bensons eine feste Röhre ist, die er im Moment herunterziehen
 kann …
 
-Mr sehen seine verstümmelte Hand … Er hat an der
+Wir sehen seine verstümmelte Hand … Er hat an der
 Rechten nur zwei Finger — es stimmt! — Daumen und
-keinen Finger … —
+kleinen Finger … —
 
-Jedenfalls — wir werden uns? kaum langweilten … Zumal
-der Inder als dritte Person Üüberwachht werden muß
-Harald ist ’ich über den schwarzbärtigen Gentleman noch
+Jedenfalls — wir werden uns kaum langweilen … Zumal
+der Inder als dritte Person überwacht werden muß.
+Harald hat sich über den schwarzbärtigen Gentleman noch
 nicht geäußert …
 
-Nachmittags fünf Uhr hat der kaffeebraune Amateurphotko-graph
-vier Kopterrahmen neben [seinem Liegestuhl in bis
+Nachmittags fünf Uhr hat der kaffeebraune Amateurphotograph
+vier Kopierrahmen neben seinem Liegestuhl in die
 Sonne gestellt …
 
 <@pagebreak/>
-schaut hin und wieder nackt, ob die Abzüge schon genügend
+schaut hin und wieder nach, ob die Abzüge schon genügend
 getönt sind …
 
-Dann packt er seine Kopterrahmen in einen Bogen Papier
+Dann packt er seine Kopierrahmen in einen Bogen Papier
 und verschwindet.
 
-Unsere Liegestühle stehen jetzt bis nebeneinander …
+Unsere Liegestühle stehen jetzt dicht nebeneinander …
 
 Harald sagt unvermittelt:
 
-»Ich werde Dir hier ein paar Säße aus diesem tadellosen
+»Ich werde Dir hier ein paar Sätze aus diesem tadellosen
 Roman vorlesen … Der Autor verfügt als Kriminalschriftsteller
 über einen außerordentlich trockenen Humor …«
 
-Und tut, als ob er vorliegt:
+Und tut, als ob er vorliest:
 
 »Vielleicht ist es ratsam, mein Alter, Dir schon jetzt zu
 sagen, daß der Inder für mich keine Neuerscheinung ist …
 Er lungerte in anderer Aufmachung, als farbiger Straßenhändler,
 vor dem Hotel Garrick umher … Mithin hat er
-es in der Satz auf das Pärchen abgesehen, ist ein Spion
-dessen Persönlihchkeit den Fall Ben Benson noch mehr kompliziert.
-Die heimlichen Aufnahmen des Barriere müssen
+es in der Tat auf das Pärchen abgesehen, ist ein Spion
+dessen Persönlichkeit den Fall Ben Benson noch mehr kompliziert.
+Die heimlichen Aufnahmen des Pärchens müssen
 einen ganz bestimmten Zweck haben. Ich werde versuchen,
 in die Kabine 12a einzudringen … Die Otranto legt in
 Gibraltar an. Dann werden alle Fahrgäste an Deck sein.«
 
 Die … Vorlesung ist beendet …
 
-en zu als ob er über einen Scherz des Autors
+Harst tut, als ob er über einen Scherz des Autors
 lachte …
 
 Damit ist dieses Intermezzo erledigt, und ich versuche
-
-weiterzuschreiben — Tag Mayen … Aber es gelingt nicht
-
+weiterzuschreiben — Jan Mayen … Aber es gelingt nicht
 recht … Mein Hirn ist jetzt zu sehr auf Ben Benson eingestellt
 …
-Der Inder — — und das Pärchen fährt nach Indien
 
+Der Inder — — und das Pärchen fährt nach Indien
 … — Wo ist da Anfang und Ende?! Ist meine Theorie etwa
-Harst?! Haben die Robertsons die Riesenbeute gar nicht
-bei gibt! Sollte Harald etwa die Dinge ebenfalls ganz
+falsch?! Haben die Robertsons die Riesenbeute gar nicht
+bei sich?! Sollte Harald etwa die Dinge ebenfalls ganz
 anders beurteilen?!
 
 Und dies Letzte läßt mir keine Ruhe …
@@ -1108,13 +1107,13 @@ Ich beuge mich zu meinem Herrn Gemahl hinüber …
 sind Dänen …«
 
 »Entschuldige, Sven … in wollte nur etwas fragen
-… selbst Du meine Ansicht, daß die Robertsons die Familienjuwelen
+… Teilst Du meine Ansicht, daß die Robertsons die Familienjuwelen
 bei sich haben?«
 
-»Diese Ansicht ist Blödsinn …"« Er schau! gar nicht
+»Diese Ansicht ist Blödsinn …« Er schaut gar nicht
 von seinem Schmöker auf … »Störe mich nicht … Dieses
 Kapitel ist außerordentlich interessant … Der Detektiv dieses
-Romans liegt gerade in einen Zerrieb eingerollt in einem
+Romans liegt gerade in einen Teppich eingerollt in einem
 Möbelwagen, in dem sich zwischen Hausgerät auch eine Kiste
 befindet, in der zwei flüchtige Verbrecher stecken …«
 
@@ -1128,27 +1127,27 @@ Die Familienjuwelen der Herzogin von Lancire sind aus
 dem Palast gestohlen worden — so beginne ich dem Rätsel
 von neuem auf den Leib zu rücken … Die Polizei findet
 im Palast »das Wappen« des Juwelendiebes Ben Benson …
-Benson wird Buche einen Zufall verhaftet, leugnet, nennt
+Benson wird durch einen Zufall verhaftet, leugnet, nennt
 sich Patterson und verweigert nähere Angaben Über seine
 Person, wird verurteilt, entflieht …
 
-+ gebe frech die Ereignisse von Anfang an nochmals
+So gehe ich die Ereignisse von Anfang an nochmals
 durch …
 
-Weine Arbeit, Tag Mayen, muß sehr zurückstehen …
-Haralds »Blödsinn!« hat mich schwer geärgert … Ich hin
-doch« schließlich auch nicht gerade auf den Kopf gefallen …!
-Es müßte doch mit dem Fenster zugehen, wenn ich nicht das
-Richtige Herausgabe …
+Meine Arbeit, Jan Mayen, muß sehr zurückstehen …
+Haralds »Blödsinn!« hat mich schwer geärgert … Ich bin
+doch schließlich auch nicht gerade auf den Kopf gefallen …!
+Es müßte doch mit dem Teufel zugehen, wenn ich nicht das
+Richtige herausfände …
 
-Ich Sinne, kombinsere, baue Theorien auf, reiße sie
+Ich sinne, kombiniere, baue Theorien auf, reiße sie
 wieder nieder und komme endlich zu der unumstößlichen Gewißheit,
 daß es Zeitverschwendung ist, fernerhin mit diesen
 ungereimten Dingen in Gedanken zu jonglieren …
 
-Seufzend greise ich zum Bleistift und schreibe — schreibe
+Seufzend greife ich zum Bleistift und schreibe — schreibe
 immer flotter, wie Harald auf der Felsentreppe über dem
-Stationshaus in Jan Mayen am Holzgeländer die Einträfe
+Stationshaus in Jan Mayen am Holzgeländer die Eindrücke
 <@pagebreak/>
 des Taues findet, an dem »das Gespenst« sich auf das
 Dach der Hütte hinabgelassen hat … —
@@ -1157,51 +1156,51 @@ Auch dieser Tag vergeht …
 
 Spät abends ist Mr. Robertson bei seiner Schwester …
 
-Wir scheint, er hat der Schwester bis zum Morgen G6&-sellsHaft
-geleistet, Er ist eben ein sehr zärtlicher Bruder
+Mir scheint, er hat der Schwester bis zum Morgen Gesellschaft
+geleistet. Er ist eben ein sehr zärtlicher Bruder …
 
-Irina …!!! —
+O Irina …!!! —
 
-Und dann Gibraltar … Riesenfelsen, gespickt mit je
-süßen … englischen Besitz auf spanisHchem Boden …
+Und dann Gibraltar … Riesenfelsen, gespickt mit Geschützen
+… Englischer Besitz auf spanischem Boden …
 
 Die Mittelmeerflotte Britanniens ankert hier … Harst
-macht eine bissige Bemerkung über den Ubrüstungösschwindel
+macht eine bissige Bemerkung über den Abrüstungsschwindel
 und … verschwindet von Deck …
 
 Sonnenuntergang … Alle Passagiere an der Reling
 … Auch der indische Gentleman …
 
 Ich beobachte ihn … Sobald er etwa Miene macht,
-in seine Kabine hinabzusteigen, werde im Harald warnen
-— Über er bleibt oben …
+in seine Kabine hinabzusteigen, werde ich Harald warnen
+… Aber er bleibt oben …
 
-Die Otranto wirst Anker …
+Die Otranto wirft Anker …
 
-Passagiere kommen an Bord … Gerade …
+Passagiere kommen an Bord … Gepäck …
 
-Zwei Stunden bleibt der Dampfer unter Wind der Felsen
-feste … Dann das Mittelmeer … Meeresleuchten, Mond
-Stein, milde Luft, Hitzewellen von der afrikanischen Küste,
-wo der Fährte ab Eltern die Spanier und Franzosen arg
-»zur Ader läßt …
+Zwei Stunden bleibt der Dampfer unter Wind der Felsenfeste
+… Dann das Mittelmeer … Meeresleuchten, Mondschein,
+milde Luft, Hitzewellen von der afrikanischen Küste,
+wo der Kabyle Abd el Krim<@refnote 1/> die Spanier und Franzosen arg
+zur Ader läßt …
 
 Ich betrete unsere Kabine … Der Tisch ist gedeckt … Das
-… Abendessen steht seit einer halben Stunde bereit …
+Abendessen steht seit einer halben Stunde bereit …
 
 Harald liegt auf seinem Bett — angekleidet, Zigarette
-im Munde, nicht mir zu …
+im Munde, nickt mir zu …
 
 »Erledigt …!!«
 
 »Nun — — und!«
-»Die Bilder sind fertig … Bier verschiedene Aufnahmen
-der Zeit«: … Und dann fand ich noch ein Schreiben an
 
-die voll in Genua — sehr eingehend … Eine anonyme
+»Die Bilder sind fertig … Vier verschiedene Aufnahmen
+der beiden … Und dann fand ich noch ein Schreiben an
+die Polizei in Genua — sehr eingehend … Eine anonyme
 Anzeige, daß sich auf der Otranto der entsprungene Zuchthäusler
-Ben Benson befinde, Kabine Nr. 4 … Die bei
-liegenden Photographien seiten der beste Beweis, zeigten
+Ben Benson befinde, Kabine Nr. 4 … Die beiliegenden
+Photographien seien der beste Beweis, zeigten
 <@pagebreak/>
 Bensons verbundenen rechten Arm … — also dazu hat
 der Kerl das Pärchen geknipst … dazu! Er will, daß sie
@@ -1209,17 +1208,17 @@ verhaftet werden … Und es wird ihm natürlich gelingen …
 — Ich habe Hunger … Wir wollen soupieren …«
 
 Und weiter redet er nichts mehr über die Sache …
-Lehnt jede Aussprache ad …
+Lehnt jede Aussprache ab …
 
-So ist er … Weiß Gott: leiht ist’s nicht, mit Film
+So ist er … Weiß Gott: leicht ist’s nicht, mit ihm
 umzugehen …
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
-<h3>Harsts dritter Zeit.</h3>
+<h3>Harsts dritter Trick.</h3>
 
-Ist’s ein Wunder, daß ich unter diesen Umständen Form
-(ich fiebere, als wir in Genua anlegen?k!
+Ist’s ein Wunder, daß ich unter diesen Umständen förmlich
+fiebere, als wir in Genua anlegen?!
 
 Ein Wunder, daß ich Schama Semli stets im Auge
 behalte?! — Er geht an Land … Harald bleibt auf der
@@ -1229,34 +1228,34 @@ Brief und Geld, spricht eindringlich mit dem schmierigen
 Italiener … Der rennt davon … Der Inder geht wieder
 an Bord …
 
-3H auch …
+Ich auch …
 
-Ich fiebere … sichere …
+Ich fiebere … fiebere …
 
-Sitze im Erdfrucht …
+Sitze im Deckstuhl …
 
 Neben uns das Pärchen — vergnügt wie immer …
 
-Arme Irina …! Not eine halbe Stunde vielleicht, und
+Arme Irina …! Noch eine halbe Stunde vielleicht, und
 Du wirst den Kriminalbeamten folgen müssen … Mit den
 Flitterwochen ist’s aus …
 
 Sie tut mir leid, die kleine Kanaille … Sie hat wirklich
-etwas Liebes an sich … Und wenn ich packte Szene denke,
-Pistole sie mir gerührt für die Fünfzigpfundnote dankte (die
+etwas Liebes an sich … Und wenn ich an die Szene denke,
+wie sie mir gerührt für die Fünfzigpfundnote dankte (die
 <@pagebreak/>
-erste dann wieder durch das Schlüsselloch zurüFgab!), bedauere
-im sie noch mehr … —
+sie dann wieder durch das Schlüsselloch zurückgab!), bedauere
+ich sie noch mehr … —
 
 Die halbe Stunde verstreicht …
 
-sehr müssen die Herzen jeden Augenblick auftauchen.
+Jetzt müssen die Schergen jeden Augenblick auftauchen.
 
 Harst liest den letzten seiner vier Kriminalromane — mit
-einer abshHeulihen Bierruhe … Er hat kein Mitleid mit
+einer abscheulichen Bierruhe … Er hat kein Mitleid mit
 Irina … offenbar auch nicht die Spur von Mitleid …
 
-Dann Kutters ich auch) den braunen Verräter, den
+Dann entdecke ich auch den braunen Verräter, den
 Denunziant Schama Semli — an der Reling, etwas abseits
 …
 
@@ -1265,11 +1264,11 @@ Lump … Lump …!
 Er schielt zu den Robertsons hinüber …
 
 Ein Steward kommt und überreicht mir die Postquittung
-über den eingeschriebenen Brief an meinen Abgerissen …
+über den eingeschriebenen Brief an meinen Verleger …
 dankt für das Trinkgeld … Mein Jan-Mayen-Manuskript
 wird pünktlich in Berlin sein.
 
-Über — unpünktliH sind die italienisHchHen Kriminalbeamten
+Aber — unpünktlich sind die italienischen Kriminalbeamten
 …
 
 Sie kommen immer noch nicht …
@@ -1278,22 +1277,26 @@ Der Lump wird unruhig …
 
 Nach einer halben Stunde geht die Otranto wieder in
 See …
+
 Der Lump schielt immer häufiger zu dem Pärchen hin.
+
 Wird nervöser … Rennt auf und ab …
 
-Ich Bittere — innerlich …
-Meine Irina sieht ihren zwelifingerigen Geliebten so
-sHwärmerisM an … Sie ist heute so entzüend in dem
-weißen schritten Kleidchen …
+Ich zittere — innerlich …
 
-Aber — ich Bittere ob;ne Grund …
+Meine Irina sieht ihren zweifingerigen Geliebten so
+schwärmerisch an … Sie ist heute so entzückend in dem
+weißen schlichten Kleidchen …
+
+Aber — ich zittere ohne Grund …
 
 Die Ankerwinden rasseln …
 
 Signalpfeifen schrillen …
 
-Die vier Riesenschlote spuken schwarzen Qualm aus …
-of Der Lump macht ein Gesicht, als hätte er eilig gewesen
+Die vier Riesenschlote spucken schwarzen Qualm aus …
+
+Der Lump macht ein Gesicht, als hätte er Essig gesoffen
 …
 
 Ich gönne ihm ein ganzes Wasserglas Essig …
@@ -1301,7 +1304,7 @@ Ich gönne ihm ein ganzes Wasserglas Essig …
 Die Otranto dampft davon …
 
 <@pagebreak/>
-Und — ich arme auf] — — hörbar …
+Und — ich atme auf — — hörbar …
 
 Harald wendet den Kopf, lächelt …
 
@@ -1310,12 +1313,12 @@ leise …
 
 Ich starre ihn an … Er lächelt und liest weiter …
 
-Wir geht ein Licht auf …
+Mir geht ein Licht auf …
 
 Harst hat den bereits versiegelten Brief damals in Gibraltar
 geöffnet und die Denunziation und die Bilder gegen
 die Zeitung vertauscht, den Umschlag dann wieder versiegelt!!
-Deshalb kamen die Beamten nicht — deshalb …!
+Deshalb kamen die Beamten nicht — deshalb …!!
 
 Ich flüstere ihm wütend zu:
 
@@ -1323,19 +1326,19 @@ Ich flüstere ihm wütend zu:
 
 Und er:
 
-»Dann hätte ich Sinn um ein paar nette Beilen in
+»Dann hätte ich Dich um ein paar nette Zeilen in
 Deiner späteren Schilderung des Falles Benson gebracht,
-verehrte Gemahlin …!! Du wirst jetzt Deinen Lesern recht
+verehrte Gemahlin …! Du wirst jetzt Deinen Lesern recht
 hübsch ausmalen können, wie Dein halb verliebtes Herze um
 Irina sich sorgte … Und Deine Leserinnen werden diese
 bangen Minuten mitfühlend mit erleben …! — Jetzt müssen
-wir in Suez »aufpassen, ob der Bursche es d4rt nochmals
+wir in Suez aufpassen, ob der Bursche es dort nochmals
 versucht …«
 
 Und Schama Semli versuchte es …
 
 Er hatte offenbar neue Abzüge von den Filmen hergestellt,
-hatte zackig wieder einen Brief bereit, Diesmal
+hatte auch wieder einen Brief bereit. Diesmal
 aber gelang es Harald nicht, in die Kabine 12a einzudringen.
 
 als wir in Suez anlegten, kam der Inder jedoch merkwürdigerweise
@@ -1343,16 +1346,16 @@ nicht an Deck …
 
 Harald beruhigte mich …
 
-»Vielleicht bat er sich’s anders überlegt … Vielleicht
-fürchtet er, daß er als Absender der Denunziation doch Ende
-he! werden könnte. Und das mußte er vermeiden … auch
+»Vielleicht hat er sich’s anders überlegt … Vielleicht
+fürchtet er, daß er als Absender der Denunziation doch entdeckt
+werden könnte. Und das mußte er vermeiden … auch
 sein Konto ist fraglos nicht ganz sauber. Im Gegenteil …«
 
-Rad zwei Stunden fuhr die Otranto den Riesenkanal
+Nach zwei Stunden fuhr die Otranto den Riesenkanal
 weiter hinab — dem Roten Meere zu …
 
 Alle Passagiere waren wieder an Deck … Nur der
-Inder mich
+Inder nicht …
 
 <@pagebreak/>
 Und als eine halbe Stunde vergangen, sahen wir ein
@@ -1360,36 +1363,36 @@ paar Stewards erregt zur Kommandobrücke eilen …
 
 Der Kapitän verschwand dann mit ihnen im Kabinengang
 … Dort lag auch unsere Kabine — im selben Gang
-en Backbordseite.
+an Backbordseite.
 
 Harald rauchte seine Mirakulum … Wir beide waren in
-unseren Liegestühlen geblieben
+unseren Liegestühlen geblieben …
 
 Er schaute sich um …
 
-Flüsterte mir zu …!:
+Flüsterte mir zu …:
 
 »jetzt haben sie ihn gefunden …«
 
 »Wen?!«
 
 »Törichte Frage: den Inder! — Ich habe den Steward
-im Gang angehalten, der ihm Eislimonade brachte … Bier
+im Gang angehalten, der ihm Eislimonade brachte … Vier
 Kügelchen fielen in das Glas … Der Steward sah nichts
 davon … Herr Schama Semli dürfte bewußtlos auf dem
 Teppich gelegen haben, als wir in Suez waren … Nun
-ist aus diese Gelegenheit für ihn verpaßt, und Jetzt wird
-er’s in Bombay) zum dritten Male versuchen … Früher Weg!
-die Otranto nickt an …«
+ist auch diese Gelegenheit für ihn verpaßt, und Jetzt wird
+er’s in Bombay zum dritten Male versuchen … Früher legt
+die Otranto nicht an …«
 
-Und jetzt — sagte ich gar nichts … Jetzt war ich (lediglich
-gespannt darauf, wie Schama Semli dieses kleine Mattrosa!
+Und jetzt — sagte ich gar nichts … Jetzt war ich lediglich
+gespannt darauf, wie Schama Semli dieses kleine Attentat
 auf seine Person deuten würde und ob man nicht doch
 gegen Herrn Gutsbesitzer Paalsen Verdacht schöpfte … —
 
-sehr bald war denn Milch auf dem ganzen Schiffe bekannt,
+sehr bald war denn auch auf dem ganzen Schiffe bekannt,
 daß der indische Passagier Schama Semli das Opfer
-eines sprechen Anschlages geworden … Man hakte ihn irgendwie
+eines frechen Anschlages geworden … Man hatte ihn irgendwie
 betäubt und offenbar berauben wollen …
 
 Irgendwie betäubt …
@@ -1401,33 +1404,34 @@ war …
 Vielleicht machte es diese Backofenglut: die Geschichte
 geriet schnell in Vergessenheit … —
 
-Im Indischen Ozean hatten wir sei Sturmtage … nie
-Hälfte der Fahrgäste war vertraut …
+Im Indischen Ozean hatten wir zwei Sturmtage … Die
+Hälfte der Fahrgäste war seekrank …
 
-auch die arme Vor!&-Prinz Robertson
+auch die arme Doris-Irina Robertson …
 
 <@pagebreak/>
-Ich sah sie durch das aussah im Bett liegen und immer
+Ich sah sie durch das Guckloch im Bett liegen und immer
 wieder Neptun opfern … Ihr zärtlicher Bruder hielt ihr
-das Puppenköpfchen, wenn der Magen abermals sich ums
-krempelte …
+das Puppenköpfchen, wenn der Magen abermals sich umkrempelte
+…
 
-Arme Irina! Grünbleih war sie … Schweißperlen aus
+Arme Irina! Grünbleich war sie … Schweißperlen auf
 der Stirn … Nichts half … —
 
 Ich konnte diesen Anblick nicht ertragen … Denn mir
 ging es so unverschämt gut … Wir waren seefest … Wir
-standen abermals an der Reling und schauten den Wogen«-
-bergen entgegen, die immer wieder gegen den scharfen Bug
-anrannten und dem PrahtschHiff doch nicht8& anhaben konnten.
+standen abermals an der Reling und schauten den Wogenbergen
+entgegen, die immer wieder gegen den scharfen Bug
+anrannten und dem Prachtschiff doch nichts anhaben konnten.
 
-Fünf Schritt seitwärt? lehnte der kaffeebraune Lump …
-Schade — der Kerl war ebenso seien und munter wie
+Fünf Schritt seitwärts lehnte der kaffeebraune Lump …
+
+Schade — der Kerl war ebenso frisch und munter wie
 wir …
 
 Dann ging er an uns vorüber …
 
-Die Otranto verneigte sich gerade vor einer Riesen-Woge
+Die Otranto verneigte sich gerade vor einer Riesenwoge
 …
 
 Schama taumelte …
@@ -1441,25 +1445,25 @@ Reling, hinkte davon …
 verraten … Er hat Verdacht gegen mich … wollte probieren,
 ob mein Vollbart echt … Er taumelte mit Absicht
 … Seine Hand hätte mir den Bart abgerissen …
-— Sehr gut so, Herr Schama Semli …! Ich) werde mich
-danach richten …!!«
+— Sehr gut so, Herr Schama Semli …! Ich werde mich
+danach richten …!«
 
 Von dem Augenblick an fühlte ich mich auf der Otranto
 nicht mehr behaglich …
 
-Ich kenne Indien, die Inder und die indische Berbrechere-welt,
+Ich kenne Indien, die Inder und die indische Verbrecherwelt,
 indische Methoden. Auch Harald war jetzt die Vorsicht
 selbst … Trotzdem beachteten wir Schama Semli nicht
 … hüteten uns, Irgendwie zu zeigen, daß wir … Bescheid
-wußten
+wußten …
 
-So kam der Abend heran, an dem die Küste Vorderindien!
+So kam der Abend heran, an dem die Küste Vorderindiens
 <@pagebreak/>
 am Horizont auftauchte. Gegen elf Uhr sollten wir in
 den Hafen der Inselstadt einlaufen …
 
-Gegen neun Uhr saß ich in unserer Kabine und nahe
-die lassen … Harald war noch an Deck …
+Gegen neun Uhr saß ich in unserer Kabine und packte
+die Koffer … Harald war noch an Deck …
 
 Es nahte also für die »Geschwister« Robertson abermals
 eine Entscheidungsstunde. Harst hatte sich in keiner Weise
@@ -1469,61 +1473,61 @@ schwieriger als anderswo, da die Otranto einen vollen Tag
 im Hafen blieb, bevor sie ihren Weg nach Ostasien fortsetzte.
 Außerdem hatten wir sowohl als die Robertsons und Schama
 Semli nur Fahrkarten bis Bombay. Irgend etwas in der
-Tat Entscheiden des mußte sich also unbedingt ereignen … —
+Tat Entscheidendes mußte sich also unbedingt ereignen … —
 
-Ich war mit dem Norden fertig …
+Ich war mit dem Packen fertig …
 
 Es klopfte … Ein Steward erschien und bat Frau
-Paalsen in die Kapitänskajüte. Etwas beunruhigt! betrat
+Paalsen in die Kapitänskajüte. Etwas beunruhigt betrat
 ich zum ersten Male diesen Raum, wo mir der Kapitän
 jedoch sofort sehr höflich entgegenkam …
 
 Harald war nicht zu sehen …
 
 »Mr. Schraut,« sagte der allgewaltige Beherrscher der
-Otranto, »Ihr Freund hat stieß mir anvertraut und auch für
+Otranto, »Ihr Freund hat sich mir anvertraut und auch für
 Ihre Bekannten, die Geschwister Robertson, gebeten … Ich
-werde es also so einrichten, daß Sie vier in aller Stille Au
-Ihrem Geröll auf den Polizeidampfer übergesetzt werden, der
+werde es also so einrichten, daß Sie vier in aller Stille mit
+Ihrem Gepäck auf den Polizeidampfer übergesetzt werden, der
 den Quarantänearzt an Bord bringt … Sie sollen hier
-so lange in meiner Kajüte bleiben, Mr. Schraut … Ha
-werde im übrigen schweigen — selbstverständlihb «! Ihr
-Freund verhandelt mit den Robertson& …“« —
+so lange in meiner Kajüte bleiben, Mr. Schraut … Ich
+werde im übrigen schweigen — selbstverständlich …! Ihr
+Freund verhandelt mit den Robertsons …« —
 
 Um zehn Uhr nahte der kleine Dampfer der Hafenpolizei
 
 alles ging glatt … Der Dampfer legte kurze Zeit am
-Fallreep an … Der Arzt und drei Beamte kamen an Bord,
+Fallreep an … Der Arzt und drei Beamte kamen an Bord.
 Ich verließ die Otranto … In der kleinen Kajüte traf ich
-mit Harald und den Robertsons wieder zusammen »… Wir
+mit Harald und den Robertsons wieder zusammen … Wir
 <@pagebreak/>
 vier waren allein … Der Dampfer jagte dem Hafen wieder
 zu …
 
 Harald wendete sich an Benson-Robertson-Patterson:
 
-»jetzt will ich Ihnen erklären, wer ich hin und weshalb
+»jetzt will ich Ihnen erklären, wer ich bin und weshalb
 ich Sie beide vor dem Inder gewarnt habe …« — Er zog
-eine englisMe Zeitung aus der Tasche … Im Anzeigenteil
-waren zwei Steckbriefe mit Bildern veröfssentlicht …
+eine englische Zeitung aus der Tasche … Im Anzeigenteil
+waren zwei Steckbriefe mit Bildern veröffentlicht …
 
-»d«? — das sind wir, Mr. Robertson … Das hoch«-
-Hochstaplerehepaar John begriff und Frau … Der Inder ist
+»Hier — das sind wir, Mr. Robertson … Das
+Hochstaplerehepaar John Bennit und Frau … Der Inder ist
 Detektiv und war auch uns auf der Spur …«
 
-Ich sagte gar nichts — absolut gar nichts … Wir vormittag
+Ich sagte gar nichts — absolut gar nichts … Mir verschlug
 diese Frechheit die Sprache … —
 
 Und damit beginnt der indische Teil von … Ben Bensons
 drei Fingern …
 
-<@pagebreak/>
+<@pagebreak 35/>
 
-<h1>Ben Bensons große Stricke …</h1>
+<h1>Ben Bensons große Liebe …</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>John begriff und Frau.</h3>
+<h3>John Bennit und Frau.</h3>
 
 Die »Geschwister« waren außerordentlich erregt, wenn
 erste dies zum recht gut zu verbergen wußten … Sie trauten
@@ -1740,7 +1744,7 @@ Nachdem wir uns mühsam einen Weg gesucht und etwa
 zehn Minuten gewandert waren, stellten wir aus Seiten
 eine Tragbahre her, auf die wir das gesamte Gepäck verluden.
 Harald und Robertson trugen die schwere Last, während
-!ich nun Vsadfinder spielte. Den Beschluß des Zuges
+!ich nun Pfadfinder spielte. Den Beschluß des Zuges
 machte Irina-Paris …
 
 Da! Mondlicht? hatte uns getäuscht. Der stumpfe Bet’ge
@@ -1760,7 +1764,7 @@ die über dem Dschungel sich nachts zusammengeballt hatten.
 
 Das Bild dieses Sonnenausgangs war einzig schön …
 
-Irina und ich standen auf der zertrümmerten Jempel-treppe
+Irina und ich standen auf der zertrümmerten Tempeltreppe
 zwischen hohen Unkrautstauden und genossen schweigend
 die wundervolle Szenerie … Die Nebel zerflatterten
 -… Die Landschaft zu unseren Füßen enthüllte all ihre
@@ -2200,7 +2204,7 @@ kleinste indische Arbeit … —
 Dann kehrten wir in unseren Hallenwinkel zurück …
 Ring und Stein hatte ich in der Hand …
 
-Während nun das Wasser im Sessel über dem Spiritu8-sämmchen
+Während nun das Wasser im Sessel über dem Spiritusflämmchen
 leise sang und sich zum Kochen ausschickte, legten
 
 <@pagebreak/>
@@ -2384,7 +2388,7 @@ Zunächst werden wir nach Bombay zurückkehren, Dich aber
 sorgsam hier unterbringen …« —
 
 Eine Viertelstunde drauf stand Übdullah gefesselt und
-geknebelt in dem Brunnen der Jempelruine. Das Wasser
+geknebelt in dem Brunnen der Tempelruine. Das Wasser
 reihte ihm nur bis zum Bauchnabel … Er konnte hier
 <@pagebreak/>
 unmöglich entfliehen … Und man würde ihn auch
@@ -2936,7 +2940,7 @@ Wir vier eilten« ins Hotel d’Angeterre … —
 Die Juwelen sind später der Herzogin vom Gericht ausgesprochen
 worden … — Und ich mache nun Schluß mit
 Ben Bensons Geschichte … Im folgenden Band wird der
-Leser die Jempelruine, den großen Edelstein und die halbe
+Leser die Tempelruine, den großen Edelstein und die halbe
 Mumie am Tau des Brunnenbalkens nochmals wiederfinden.
 
 Nächster Band:
