@@ -97,7 +97,7 @@ und weil man nichts von der Riesenbeute gefunden hat, die
 er im Palast der Herzogin von Lancire vor acht Wochen
 gemacht hat: für zwei Millionen Familienjuwelen!«
 
-»Ah — »verstehe … Du hoffst, daß Benson diese Beute
+»Ah — verstehe … Du hoffst, daß Benson diese Beute
 holen wird — aus dem Versteck …«
 
 »Ich hoffe vorläufig auf nichts … Ich sage mir nur,
@@ -842,7 +842,7 @@ Sehfeld …
 Die Kabine war hell erleuchtet … Mit einem Male
 erschien jemand im Bereich des Guckloches — — eine
 Dame … hellblond, hohe Frisur … — kein Bubikopf
-— — und doch: Irina — meine Irina …!«
+— — und doch: Irina — meine Irina …!
 
 Ich rieb mir die Augen …
 
@@ -1566,7 +1566,7 @@ festnehmen lassen können. Nein — wir sind wirklich John
 Bennitt und Frau … Da — hier steht: »John Bennitt,
 achtunddreißig Jahre, hager, etwas über Mittelgröße, starke,
 leicht gekrümmte Nase, graue Augen, volles dunkelblondes
-Haar, trägt aber zumeist blonde Perücke …«
+Haar, trägt aber zumeist blonde Perücke …««
 
 Er lächelte stolz …
 
@@ -2012,7 +2012,7 @@ und John begann:
 »Herr Harst, Sie dürften sich, was Doris und mich
 betrifft, in einem großen Irrtum befinden …«
 
-»Durchaus nicht,« warf Harald kühl ein …«
+»Durchaus nicht,« warf Harald kühl ein …
 
 »so?!« — Patterson wurde verwirrt, erklärte dann
 jedoch energisch: »Sie müssen sich in einem Irrtum befinden
@@ -2104,59 +2104,58 @@ Und es war jetzt genau sechs Uhr morgens …
 Allein …
 
 Harald gähnt herzhaft … »Eigentlich habe ich Hunger
-… Rache mal unsere Aluminiumgeschirre und die Konserven
-aus, mein älter … Nachher werden wir abwechselnd schlafen.«
+… Packe mal unsere Aluminiumgeschirre und die Konserven
+aus, mein Alter … Nachher werden wir abwechselnd schlafen.«
 
-3H, sehr bestimmt: »Keinen Finger rühre ich, bevor
+Ich, sehr bestimmt: »Keinen Finger rühre ich, bevor
 <@pagebreak/>
-Du mir nicht sagst, wo? all das leidendes! Es ist ein
+Du mir nicht sagst, was all das bedeutet! Es ist ein
 Skandal, daß …«
 
-»-. daß Du nachts immer im Dunkeln tappst — allere-hings,
-ein Skandal! Auch! Jahre habe im Dich in der
+»… daß Du noch immer im Dunkeln tappst — allerdings,
+ein Skandal! Acht Jahre habe im Dich in der
 Lehre. Dein Verstand ist nicht gewachsen, nur Dein Bäuchlein,
 mein Alter … Deine Figur als Frau Paalsen ließ
-jede EdHlankheit vermissen … — Und im Interesse der
-Leser Deiner mir höher unangenehmen scrisftstellerischen der«-
-suche über unsere Abenteuer — sie riechen nachx Reklame —
-werde ich Dich zappeln lassen … Wenn!ich Dir jetzt des
+jede Schlankheit vermissen … — Und im Interesse der
+Leser Deiner mir höchst unangenehmen schriftstellerischen Versuche
+über unsere Abenteuer — sie riechen nach Reklame —
+werde ich Dich zappeln lassen … Wenn ich Dir jetzt des
 Pudels Kern enthüllte, würde der Leser gähnend — wie
-im zurzeit — den Rest dieses Problems genießen — wie
-ehrbares Bier … Ein Problem ist’s nämlich … Eine Herschickte,
+ich zurzeit — den Rest dieses Problems genießen — wie
+schales Bier … Ein Problem ist’s nämlich … Eine Geschichte,
 die nicht alle Tage passiert, die ein kennzeichnendes
-Licht auf gewisse Kreise wirst … — Tode das Geschirr ans.
-den Spirituskocher … Ich werde mal dort durch&9 den Mauerriß
-in den Nebenraum der Ruine fliehen … Jeder Tempel
+Licht auf gewisse Kreise wirft … — Packe das Geschirr aus,
+den Spirituskocher … Ich werde mal dort durch den Mauerriß
+in den Nebenraum der Ruine kriechen … Jeder Tempel
 hat einen Brunnen … Wir brauchen frisches Wasser …«
 
 Und er kroch und verschwand …
 
-Was sollte ich tun?! Harald ist schwer etwas übel«
-annehmen … Ich Tote aus …
+Was sollte ich tun?! Harald ist schwer etwas übelzunehmen
+… Ich packte aus …
 
-Nach zehn Minuten kam er Zuruf …
+Nach zehn Minuten kam er zurück …
 
 »Hat ihm schon, mein Alter … Da ist hinten ein kleiner
-Hofraum und ein Brunnen … Gib nach den Kessel her
+Hofraum und ein Brunnen … Gib mal den Kessel her
 und eine lange Schnur … Du kannst übrigens mitkommen
 … Der Hof ist ganz interessant …«
 
 Wir wanden uns durch Gestrüpp, Mauertrümmer und
 enge Mauerspalten …
 
-Plötzlich vor uns ein von Gras überwucherter quadratische!
-Hofraum … in Sonnenlicht gebadet … In der Bitte
-ein Brunnen mit hoher Marmoreinfassung — ein Vormarsches
+Plötzlich vor uns ein von Gras überwucherter quadratischer
+Hofraum … in Sonnenlicht gebadet … In der Mitte
+ein Brunnen mit hoher Marmoreinfassung — ein vermorschter
+Ziehbalken mit einem mürben Tau … Und — — an diesem
+Tau hing ein menschliches Skelett …
 
-Riehbalken mit einem mürben Tau … Und — — an diesem
-Sau hing ein menschliches Skelett …
 Nein — kein Skelett … Eine Mumie mehr, noch
-
-da! von Zeugfetzen bedeckt — etwa vier Meter über dem
+halb von Zeugfetzen bedeckt — etwa vier Meter über dem
 Boden …
 
 <@pagebreak/>
-»Ein Inder …« sagte Harst. »Oh der sich hier wohl
+»Ein Inder …« sagte Harst. »Ob der sich hier wohl
 eigenhändig aufgeknüpft hat?! — Kaum …!! Eine Tragödie,
 die uns nichts angeht …«
 
@@ -2166,17 +2165,18 @@ hinab, holte ihn wieder empor …
 Ich schaute mir die kläglichen menschlichen Überreste
 dort oben an … Es war ein Inder … Der Turban
 hing ihm tief in das entsetzlich entstellte Gesicht … Ein
-Teil des Unterkiefer8 war nur noch weißer Knochen …
+Teil des Unterkiefers war nur noch weißer Knochen …
 
 Kein schöner Anblick vor dem Frühstück …!
 
 schon wollte ich mich wegwenden, als ich im Grase
-unterhalb der vertrockneten Leihe etwas blinken sah
+unterhalb der vertrockneten Leiche etwas blinken sah …
 etwas wie einen Tautropfen im Sonnenlicht … Es funkelte,
 gleißte, sprühte …
 
 Vorsichtig bog ich die Gräser auseinander und bückte
 mich …
+
 »Was gibt’s?« fragte Harald …
 
 Da hob ich schon den wunderbarsten Diamant auf, den
@@ -2191,51 +2191,51 @@ Der stellte den Aluminiumkessel hin …
 
 »Donnerwetter — interessant!« — Nahm den Stein …
 
-»Erstklassig — fehlerfrei, keine Trübung, kein Risse …!«
+»Erstklassig — fehlerfrei, keine Trübung, kein Riß …!«
 
 Ich durchwühlte das Gras, die Steine …
 
 Harald lachte … »Du, so etwas findet man nicht gleich
-zu Dutzenden «…!!«
+zu Dutzenden …!«
 
 Ich — mit ruhigem Stolz: »Bitte — hier — dies dürfte
-er zu dem Stein gehörige ging sein …’«
+der zu dem Stein gehörige Ring sein …«
 
-Und ich betrachtete den breiten, altertümliche Goldreis,
-kleinste indische Arbeit … —
+Und ich betrachtete den breiten, altertümliche Goldreif,
+feinste indische Arbeit … —
 
 Dann kehrten wir in unseren Hallenwinkel zurück …
 Ring und Stein hatte ich in der Hand …
 
 Während nun das Wasser im Sessel über dem Spiritusflämmchen
-leise sang und sich zum Kochen ausschickte, legten
-
+leise sang und sich zum Kochen anschickte, legten
 <@pagebreak/>
 wir beide unsere Kostüme ab, wuschen uns und schlüpften
 in unsere Sportanzüge …
 
-Harald Försters gerade die Zähne, und der Geruch des
-Mundwassers mischte sich mit den Düften des bereits aufgeblähten
-sechs, als von der Seite her, hinter einem Vorhang
+Harald bürstete gerade die Zähne, und der Geruch des
+Mundwassers mischte sich mit den Düften des bereits aufgebrühten
+Tees, als von der Seite her, hinter einem Vorhang
 von Schlinggewächsen hervor eine tiefe ruhige Stimme
-uns anrief;
+uns anrief:
 
 »Greifen Sie nicht etwa nach Ihren Waffen … Wir
-müßten sonst erreichen werden …!!«
+müßten sonst energisch werden …!«
 
-Daß unsere Köpfe herunmflogen, ist wohl selbstverständlich
+Daß unsere Köpfe herumflogen, ist wohl selbstverständlich
+…
 
 Und daß diese Überraschung nicht angenehm war, ist
-noch selbstverständlichen, zumal dort zwei Hände sichtbar waren,
+noch selbstverständlicher, zumal dort zwei Hände sichtbar waren,
 die keineswegs nur Kinderflinten, sondern regelrechte Browningpistolen
 hielten, also Instrumente, denen gegenüber eine
-gewisse Vorerst geboten erscheint …
+gewisse Vorsicht geboten erscheint …
 
 Mit einem Wort: wir waren vollständig überrascht worden
 …
 
 Harald stand da, Zahnbürste in der Rechten. Glas mit
-Zahnwasser in der Linken … Und dieses Stach war zu drei
+Zahnwasser in der Linken … Und dieses Glas war zu drei
 Viertel mit der milchigen duftenden Flüssigkeit gefüllt …
 
 Ich selbst war ähnlich bewaffnet — mit Kamm und
@@ -2251,61 +2251,61 @@ Semli und ein zweiter Inder …
 Zeigten uns aber auch ihre Browningpistolen und ließen
 uns durch die ganze Art, wie sie die ungemütlichen Knallbüchsen
 auf uns gerichtet hielten, keinen Augenblick darüber
-im Zweifel, daß wir als tote Leihname hier an Ort und
+im Zweifel, daß wir als tote Leichname hier an Ort und
 Stelle unser Frühstück einnehmen würden, wenn wir auch
-nur zu Mutter wagten …-
+nur zu mucksen wagten …
 
-Der zweite Inder, der nicht einmal so viel Leben&Lart
+Der zweite Inder, der nicht einmal so viel Lebensart
 <@pagebreak/>
 besaß, sich uns vorzustellen, befahl jetzt, wir sollten regungslos
-stechen bleiben, andernfalls er für nichts garanticren
-könnte — eine nahm … 3, die gänzlich überflüssig war, da
+stehen bleiben, andernfalls er für nichts garantieren
+könnte — eine Mahnung, die gänzlich überflüssig war, da
 wir ohnedies wie Statuen verharrten …
 
 Der Gentleman Nr. 2 hatte in tadellosem Englisch
 gesprochen … Das Halbdunkel unseres Quartiers verhinderte
-leider eine genauere Prüfung seines Äußeren
+leider eine genauere Prüfung seines Äußeren …
 Immerhin war die Stimme brutal, scharf und die eines
-Mengen, der nicht lange zögert, eine Drohung in die Tat
-umzusehen.
+Menschen, der nicht lange zögert, eine Drohung in die Tat
+umzusetzen.
 
-»Dich, Mr. Harst, und Ihr Freund, haben sich sehr
+»Sie, Mr. Harst, und Ihr Freund, haben sich sehr
 Überflüssigerweise in Dinge eingemischt, die Sie absolut nichts
-angehen. Sie haben nicht nur in Genua die AbsiH/:11
-meines Dieners Schama Semli durchkreuzt, sondern zu«)
-in Suez ein Attentat auf ihn verübt … — Sie stören in?*:“:
-auch) jetzt … Ich werde Sie beide auf ein Schiff bringen
+angehen. Sie haben nicht nur in Genua die Absichten
+meines Dieners Schama Semli durchkreuzt, sondern auch
+in Suez ein Attentat auf ihn verübt … — Sie stören mich
+auch jetzt … Ich werde Sie beide auf ein Schiff bringen
 lassen, das Sie an einem Orte absetzen wird, wo Sie jahrelang
-darüber nachdenken können, ob es zweckmäßigen ist;
-seine Nase in Fremden Leute Angelegenheiten zu steigen —
-man:lich auf eine jener spielt;en zwischen Australien 1v:’:
+darüber nachdenken können, ob es zweckmäßiger ist,
+seine Nase in fremder Leute Angelegenheiten zu stecken —
+nämlich auf eine jener Inselchen zwischen Australien und
 den Sunda-Inseln, die nie ein Schiff zu sehen bekommen.«
 
-So sprach) er … Mit unendlichen Hohn … Dir«
-verriet durch) seine ganze AusdruFs8weise, daß er alles Inder«
-nur kein echter Inder war — genau wie sein Englisch a’’
+So sprach er … Mit unendlichen Hohn … Und
+verriet durch seine ganze Ausdrucksweise, daß er alles andere
+nur kein echter Inder war — genau wie sein Englisch all
 die Merkmale des Londoner Dialektes trug …
 
-Nein, niemals war das ein Inder …! Das war e!:!
-waschechter, mit TJemsewasser getaufter britisMer Halme.!«
-schlimmsten stilles …
+Nein, niemals war das ein Inder …! Das war ein
+waschechter, mit Themsewasser getaufter britischer Halunke
+schlimmsten Stiles …
 
 Harst sagte da: »Es ist sehr liebenswürdig von Ihnen,
-daß Sie uns zu einer Robinsonade vielleiHmt recht interessanter
+daß Sie uns zu einer Robinsonade vielleicht recht interessanter
 Art verhelfen wollen … Und ich bedauere unendlich,
 daß die Familienjuwelen der Herzöge von Lancire es
 leider unmöglich machen, Ihre freundliche Einladung zu
-einer kostenlosen Seereise anzunehmen …« — Er kopiert:
-die Anü&drud3weise des verkleideten Schurken tadellos, wo!
+einer kostenlosen Seereise anzunehmen …« — Er kopierte
+die Ausdrucksweise des verkleideten Schurken tadellos, war
 <@pagebreak/>
-dabei so seelenruhig, daß dieser gefärbte Inder ct:das außer
-Fassung kam … Dann aber polterte der Kerl heraus;
+dabei so seelenruhig, daß dieser gefärbte Inder etwas außer
+Fassung kam … Dann aber polterte der Kerl heraus:
 
-»Unmöglich?! Sie vergessen, daß im hier jetzt die Oberteil
+»Unmöglich?! Sie vergessen, daß ich hier jetzt die Oberhand
 habe und daß die geringste verdächtige Bewegung Ihrerseits
 …«
 
-schwang … blutet …
+Schwapp … klatsch …
 
 Diese verdächtige Bewegung war schon erfolgt …
 
@@ -2313,97 +2313,97 @@ Harald hatte mit einem kurzen Ruck der Hand den beißenden
 Inhalt des Glases, das scharfe Mundwasser, den
 beiden Herrschaften in die Gesichter und Augen geschleudert.
 
-War auch [oben zugesprungen …
+War auch schon zugesprungen …
 
-Hatte jetzt gehören Pech …
+Hatte jetzt jedoch Pech …
 
-Hatte im Eifer des Gefehlt den einen Koffer übersehen
+Hatte im Eifer des Gefechts den einen Koffer übersehen
 — den flachen Kabinenkoffer, stolperte, riß lediglich
 Schama Semli zu Boden …
 
 Der zweite riß aus — rannte, halb blind, gegen die
-Mauer, prallte zurück, schoß wieder vorwärts und … kollert«
-draußen die brüchige Steintreppe hinab
+Mauer, prallte zurück, schoß wieder vorwärts und … kollerte
+draußen die brüchige Steintreppe hinab …
 
 Ich war leider nicht flink genug …
 
-Es half nichts, daß ich das Geist riskierte und die
-Stufen hinabraste … Der Lump war schlug in die Busch.
-entwischt, und eine Kugel, die recht dicht an meinem Oh!
-vorbeipfiff, zwang mich dann zu ebenso schleunige im Rückkehr
-in die Ruine, wobei voll vier weitere Gurgeln mir Beine
+Es half nichts, daß ich das Genick riskierte und die
+Stufen hinabraste … Der Lump war schon in die Büsche
+entwischt, und eine Kugel, die recht dicht an meinem Ohr
+vorbeipfiff, zwang mich dann zu ebenso schleunigem Rückzug
+in die Ruine, wobei noch vier weitere Kugeln mir Beine
 machten …
 
-Ein Segen, daß der Halunke [so miserabel mit der
+Ein Segen, daß der Halunke so miserabel mit der
 Browning zu hantieren wußte … Ich hätte sonst kaum
 mehr miterlebt, wie Harald unseren alten Bekannten Schama
 Semli an einen Mauerblock fesselte, seine Taschen durchsuchte
 und mancherlei fand, was nicht gerade in die Taschen
 eines angeblich harmlosen Kaufmannes hineingehört, also:
 noch eine Browning, zwei Schachteln Patronen, einen Dolch
-mit Scheibe, ein Fragen mit Chloroform, ein seidenes
-Taschentuchs, zwei Kunstschlösser, eine Brieftasche mit Inhalt.
+mit Scheide, ein Fläschchen mit Chloroform, ein seidenes
+Taschentuch, zwei Kunstschlüssel, eine Brieftasche mit Inhalt.
 
-als Harald jetzt diese Briestaschme öffnete, während ich
+als Harald jetzt diese Brieftasche öffnete, während ich
 <@pagebreak/>
-am Eingang Male Arbeit, brüllte Schama Semli in ohnmächtiger
+am Eingang Wache hielt, brüllte Schama Semli in ohnmächtiger
 Wut:
 
-»Sie werden es bereuen, Mr. Harst …?k Geben Tote
-mich frei …! Sie werden es [so bestimmt bereuen, wie ich …«
+»Sie werden es bereuen, Mr. Harst …! Geben Sie
+mich frei …! Sie werden es so bestimmt bereuen, wie ich …«
 
-»„“… soeben Mundwasser als Augenwasser verabreicht
-bekam …« setzte Harald den begonnenen Satz fort und …
+»… soeben Mundwasser als Augenwasser verabreicht
+bekam …,« setzte Harald den begonnenen Satz fort und …
 stopfte Schama Semli das seine seidene Taschentuch gewaltsam
 als Knebel in den Mund …
 
 In aller Ruhe besichtigte er dann die Papiere, nickte
 befriedigt und rief mir zu:
 
-»Schama Semli heißt in Wahrheit Abdullah Wir
-Scharren, ist Diener und Schofför bei Mr. Lewis Balland
-in Bombay), der hier auf dem Schofsörausweis nebst Lichte-bild
+»Schama Semli heißt in Wahrheit Abdullah Mir
+Schamsa, ist Diener und Schofför bei Mr. Lewis Balland
+in Bombay, der hier auf dem Schofförausweis nebst Lichtbild
 als »Rentier« bezeichnet ist und auf den Malabar Hills
 in der Villa Balland-Castle wohnt … Dieser Lewis Balland
-dürfte der verkleidete Wann mit dem Londoner Klang
+dürfte der verkleidete Mann mit dem Londoner Slang
 gewesen sein …«
 
 Er wandte sich an Abdullah …
 
-»Es ist so, Ubdullabh, nicht wahr?«
+»Es ist so, Abdullah, nicht wahr?«
 
 Der schwieg …
 
-Da nahm Harald seine Clement, schob die Sicherunhg
-Zuruf und hielt die Mündung Abdullah gegen die Stirn.
+Da nahm Harald seine Clement, schob die Sicherung
+zurück und hielt die Mündung Abdullah gegen die Stirn.
 
 »Ich zähle bis drei …!« sagte er kalt …
 
 »Zähle bis dreißig!« kreischte der Inder, dem Harst mit
 der Linken den Knebel herausgerissen hatte … »Zähle bis
-dreißig, ungläubiger Hund …!!! Ich werde sterben — gut
-». Das Fatum hat es gewollt … Ich fürchte den Roß nicht
-… Du aber wirst hundertfach sterben „…«
+dreißig, ungläubiger Hund …!! Ich werde sterben — gut
+… Das Fatum hat es gewollt … Ich fürchte den Tod nicht
+… Du aber wirst hundertfach sterben …«
 
-»Dann eben nicht,« lachte Harald … »Und — hunderte
-Fach sterben?! Lieber Abdullah, so flink geht das nicht …
+»Dann eben nicht,« lachte Harald … »Und — hundertfach
+sterben?! Lieber Abdullah, so flink geht das nicht …
 Zunächst werden wir nach Bombay zurückkehren, Dich aber
 sorgsam hier unterbringen …« —
 
-Eine Viertelstunde drauf stand Übdullah gefesselt und
+Eine Viertelstunde drauf stand Abdullah gefesselt und
 geknebelt in dem Brunnen der Tempelruine. Das Wasser
-reihte ihm nur bis zum Bauchnabel … Er konnte hier
+reichte ihm nur bis zum Bauchnabel … Er konnte hier
 <@pagebreak/>
 unmöglich entfliehen … Und man würde ihn auch
 kaum finden, falls man nach ihm suchte …
 
-Über ihm aber hing an dem morschen Tau des sich«
-Balkens die vertrocknete Leiche … — drei über dem Brunnenrand.
-Harald hatte den Ziehbalken er!was heruntergeschwentkt,
+Über ihm aber hing an dem morschen Tau des Ziehbalkens
+die vertrocknete Leiche … — dicht über dem Brunnenrand.
+Harald hatte den Ziehbalken etwas heruntergeschwenkt,
 
-tü Kapitel.
+<h2>4. Kapitel.</h2>
 
-Die Broncestatuen,
+<h3>Die Broncestatuen,</h3>
 
 Malabar Hills, — Halbinsel im Westen des Welthafens
 Bombay, Villenvorstadt, schroffe Anhöhen, liebliche Gärten,
@@ -2412,21 +2412,21 @@ umspült … An der Südspitze die Türme des Schweigens,
 die Begräbnisstelle der Parsen …
 
 Ich habe Bombay, seine Lage, Eigenart und Bevölkerung
-hier schon so oft geschildert, daß im diese Andeutungen
+hier schon so oft geschildert, daß ich diese Andeutungen
 über die Örtlichkeit für genügend erachte … —
 
 Nacht war’s — Mitternacht …
 
 Wir hatten getreulich unserem Robertson-Patterson gegebenen
-VBVersprehen gemäß bis sieben Uhr in der Ruine
-gewartet … Hatten inzwisMen mehrmals den braunen
+Versprechen gemäß bis sieben Uhr in der Ruine
+gewartet … Hatten inzwischen mehrmals den braunen
 Schofför Abdullah aus dem Brunnen emporgezogen und ihn
 gefragt, ob er nunmehr genügend durchkältet und bereit sei,
 einige Fragen zu beantworten …
 
 Er hatte uns lediglich beschimpft und uns gedroht, wir
-würden »den Verstand und vor mehr verlieren« — wie
-er sich aufgehellt hatte …
+würden »den Verstand und noch mehr verlieren« — wie
+er sich ausgedrückt hatte …
 
 Dann waren wir mit unserem Gepäck durch eine Mauerspalte
 an der dem Ruineneingang entgegengesetzten Seite
@@ -2434,27 +2434,27 @@ den Bergkegel hinabgeklettert … Ein Bauerngehöft fanden
 wir … Mieteten dort einen elenden Karren, der mit einem
 altersschwachen Kamel bespannt war …
 
-Um zehn Uhr waren wir in Bombay, tote! t’ Angleterre.
+Um zehn Uhr waren wir in Bombay, Hotel d’Angleterre.
 
 Und jetzt war es Mitternacht …
 
 <@pagebreak/>
 Jetzt lagen wir dicht an der Parkmauer von Balland-Castle
 — übrigens das nördlichste Villengrundstück an den
-Westabhängen der Malabar«-Hills …
+Westabhängen der Malabar-Hills …
 
-Eine beiße Naht … sternenklar. Nur der Seewind milderte
-die Schwüle -… Wir hörten das Meer in der Ferne
+Eine heiße Nacht … sternenklar. Nur der Seewind milderte
+die Schwüle … Wir hörten das Meer in der Ferne
 rauschen, sahen auch den endlosen, matt schillernden Spiegel
 des Indischen Ozeans … —
 
 Wir hatten uns bei Detektivinspektor Perkins, Bombay,
 (alter Bekannter von uns), vorsichtig nach Lewis Balland
-erkundigt, und Perkins hatte voller Hochmachtung gesagt: »Ein
-früherer Edelsteinhändler, sehr reich, sehr wohltätig und ans
-gesehen … Ist im übrigen heute mittag mit der Bahn nach
+erkundigt, und Perkins hatte voller Hochachtung gesagt: »Ein
+früherer Edelsteinhändler, sehr reich, sehr wohltätig und angesehen
+… Ist im übrigen heute mittag mit der Bahn nach
 Dehli gereist. Ich traf ihn auf dem Bahnhof … Haben
-Sie etwas gegen den Herrn, lieber Harst?’
+Sie etwas gegen den Herrn, lieber Harst?«
 
 »Durchaus nicht … Ich wollte nur einen Diamant von
 ihm abschätzen lassen …«
@@ -2468,29 +2468,29 @@ tun hatte — ich ahnte es nicht …
 
 ich war wie meist blindes Werkzeug — gut genug, mitzumachen
 … schlecht genug, mich über Harsts Verschwiegenheit
-innerlich grimmig zu wüten … — oder dann genug:
-Mensch), ärgere Du nicht! —
+innerlich grimmig zu wüten … — oder dumm genug:
+Mensch, ärgere Dich nicht! —
 
-Die Parkmauer war recht halb … Aber Harald hatte
+Die Parkmauer war recht hoch … Aber Harald hatte
 eine Leine mit eisernem Doppelhaken bei sich …
 
-Diese Leine warf er jetzt in die Seite eines mächtigen
-Baumes jenseitä3 der Mauer. Der Haken faßte, und er
+Diese Leine warf er jetzt in die Äste eines mächtigen
+Baumes jenseits der Mauer. Der Haken faßte, und er
 kletterte empor …
 
-In folgte … schwitzte … keuchte … als im; neben
-ihm auf dann Ast hockte … Ließ sie hinab auf den Weg
-sollen, der sich hier innen an der Mauer entlangzog —
+Ich folgte … schwitzte … keuchte … als ich neben
+ihm auf dem Ast hockte … Ließ sie hinab auf den Weg
+fallen, der sich hier innen an der Mauer entlangzog —
 ein Weg, mit Muschelkies betreut …
 
-Tier schien dem noch« immer unsichtbaren Hause zu
+Wir schlichen dem noch immer unsichtbaren Hause zu …
 
 <@pagebreak/>
 Haus?! Villa?! — Nein — ein förmlicher Palast, der
-die Bezeichnung Castle durchaus rechtfertigte »…
+die Bezeichnung Castle durchaus rechtfertigte …
 
-nach) englischem Geschmack lag das zierliche, phantastische
-Schlößchen auf einer weiten Terrasse inmitten einer stehen
+nach englischem Geschmack lag das zierliche, phantastische
+Schlößchen auf einer weiten Terrasse inmitten einer freien
 Rasenfläche …
 
 Nur niedere Hecken, Marmorspringbrunnen und Marmorbänke
@@ -2503,8 +2503,8 @@ Eine breite Freitreppe führte zu einer Terrasse empor,
 deren Hintergrund wieder riesige Türfenster bildeten,
 
 Auf den Absätzen der Marmorbrüstung der Treppe
-erhoben sich dunkle Broncefiguren — die Statuen nachher
-Inder in den verschiedensten Stellungen … Wohnliche Figuren
+erhoben sich dunkle Broncefiguren — die Statuen nackter
+Inder in den verschiedensten Stellungen … Ähnliche Figuren
 standen auf Steinsockeln auch dicht an den Grundmauern
 der Villa — bis zur Hintertür verteilt …
 
@@ -2512,10 +2512,9 @@ Die klare Tropennacht gestattete uns alles deutlich zu
 erkennen …
 
 Harst verharrte regungslos neben mir im Schatten der
-See …
+Hecke …
 
-Merkwürdig lange … Dann flüsterte er: »Nette vor«
-loreitungen!!«
+Merkwürdig lange … Dann flüsterte er: »Nette Vorbereitungen!!«
 
 »Inwiefern?!«
 
@@ -2525,18 +2524,18 @@ Ich wurde noch stutziger …
 
 »Wie meinst Du das?«
 
-»So, wie ich es sage … genau so! lebende Bilder —
-alle! Man braucht nur scharf hinzusetzen …«
+»So, wie ich es sage … genau so: lebende Bilder —
+alle! Man braucht nur scharf hinzusehen …«
 
 Und da wußte ich’s …!
 
 Keine Broncestatuen all das — lebende Gestalten, lebende
-Löscher, lauernde Hüter, Kreaturen Lewis Ballands …!
+Wächter, lauernde Hüter, Kreaturen Lewis Ballands …!
 
-»Er ist natürlich; gar nicht verreist oder vielmehr umgekehrt,«
+»Er ist natürlich gar nicht verreist oder vielmehr umgekehrt,«
 flüsterte Harald wieder … »Ich ahnte das, und
-es ist mir nur lieb … Die Geschichte muß erledigt werde«
-»… Und wir sind im BVBorteil … Die Partie steht ist
+es ist mir nur lieb … Die Geschichte muß erledigt werden
+… Und wir sind im Vorteil … Die Partie steht für
 Balland sehr schlecht …«
 
 <@pagebreak/>
@@ -2544,17 +2543,17 @@ Ich schwieg …
 
 Und er — ebenso gelassen:
 
-»Wir werden jetzt die Treppe emporblicken … Wir
-werden überfallen werden … Wir wehren uns nur mäßig 0.
-Balland wird, uns nicht gleicht abschlachten lassen …«
+»Wir werden jetzt die Treppe emporkriechen … Wir
+werden überfallen werden … Wir wehren uns nur mäßig …
+Balland wird uns nicht gleich abschlachten lassen …«
 
-»Hm «. It«
+»Hm …!!«
 
 »Hast Du Angst, mein Alter …?«
 
 »Angst?! — Ich möchte den sehen, dem es Vergnügen
 macht, Stufen emporzukriechen und zu wissen, daß ihm
-bestimmt ein paar nahe Kerle in den Rücken springen
+bestimmt ein paar nackte Kerle in den Rücken springen
 werden …«
 
 »Stimmt — kein Vergnügen, aber in Irinas Interesse
@@ -2568,23 +2567,23 @@ müssen …«
 Das ging mir wie ein elektrischer Schlag durch den
 Körper …
 
-»Wie — — Balland hat die In …«
+»Wie — — Balland hat die Ju…«
 
 Ich stoppte …
 
-Harst! war schön hinter der Hecke hervor … Wüste sich
-»vor über den Nasen — auf die Treppe zu …
+Harst war schon hinter der Hecke hervor … duckte sich,
+kroch über den Rasen — auf die Treppe zu …
 
-las blieb mir anderes übrig, als ihm zu folgen?! —
-Es war ja fraglos eine Benutztest, sich selbst einem Menschen
-in die Hände zu spielen, der uns meiner Ansicht nac9 kaum
+Was blieb mir anderes übrig, als ihm zu folgen?! —
+Es war ja fraglos eine Verrücktheit, sich selbst einem Menschen
+in die Hände zu spielen, der uns meiner Ansicht nach kaum
 mehr schonen würde. Aber — Harald hatte die Verantwortung
 übernommen … Wenn wir hier elend abgewürgt werden
 sollten, dann kündigte ich ihm die Freundschaft … ganz
 bestimmt!
 
 Jedenfalls: ich folgte, kroch, schwitzte, schielte zu den
-nahten Kerlen nach oben, als wir uns auf allen vielen
+nackten Kerlen nach oben, als wir uns auf allen Vieren
 die Stufen emporarbeiteten …
 
 Ich vergoß Ströme von Schweiß …
@@ -2593,31 +2592,31 @@ Ich fühlte jeden Moment in Gedanken das, was dann
 <@pagebreak/>
 seltsamerweise nicht geschah: wie ein Kerl mir ins Genick
 sprang, wie ein paar andere mich gleichfalls auf die Stufen
-quetschen und ein indischer voll ein Loch in meine Bußene-baut
-und in die inneren edlen leise machte …
+quetschen und ein indischer Dolch ein Loch in meine Außenhaut
+und in die inneren edlen Teile machte …
 
 Nichts von alledem …
 
 Wir waren bereits oben auf der Terrasse …
 
-Nichts 0e.
+Nichts …
 
 Und da wagte ich einen Blick nach rückwärts …
 
 Erschrak … Das Herz setzte einen Schlag aus …
 
-Hinter uns her kam lautlos eine machte Leibgarde —
+Hinter uns her kam lautlos eine nackte Leibgarde —
 an die fünfzehn Kerle — jeder mit einem Revolver in der
-drehten Pfote …
+rechten Pfote …
 
 Lautlos — wie Gespenster …
 
-Eine unheimliche Wade …
+Eine unheimliche Wache …
 
 Eine Bande, gegen die wir nichts ausrichten konnten …
 
-Und als Harald nun vor einem der hohen Bogentür«-
-Fenster haltmachte, flüsterte iF ihm zu:
+Und als Harald nun vor einem der hohen Bogentürfenster
+haltmachte, flüsterte ich ihm zu:
 
 »Eingekreist!«
 
@@ -2639,10 +2638,10 @@ gehabt und der sich uns nun in tadellos weißem
 Gewande präsentierte …
 
 Er kreuzte vor uns die Arme Über der Brust, verneigte
-sinnt tief und sagte mit eisiger Höflichkeit:
+sich tief und sagte mit eisiger Höflichkeit:
 
-»Sahib Harst, mein Herr erwartet Du, und Deinen
-Freund … Ich4 werde mir erlauben, voranzugehen …«
+»Sahib Harst, mein Herr erwartet Dich, und Deinen
+Freund … Ich werde mir erlauben, voranzugehen …«
 
 Gleichzeitig wurde die Vorhalle, in die diese vier Türfenster
 <@pagebreak/>
@@ -2651,23 +2650,23 @@ worden …
 
 Wir folgten Abdullah …
 
-Und hinter un& her kamen wie Gespenster diese splitternackter
+Und hinter uns her kamen wie Gespenster diese splitternackten
 Kerle, die nur Turban und Revolver trugen, —
 Kerle, von denen jeder einzelne tadellos gewachsen war …
 
 So ging’s denn durch die märchenhafte Pracht dieser
-Räume, in denen Orient und Abendland sich in der phan-tastisch-geschmackvollen
-Einrichtung aufs glüFlichste vereinigten,
+Räume, in denen Orient und Abendland sich in der phantastisch-geschmackvollen
+Einrichtung aufs glücklichste vereinigten,
 in einen Saal, der von einer Glaskuppel überwölbt
 war …
 
-Diese Kuppel strahlte ein mildes Witz aus, ließ jede
+Diese Kuppel strahlte ein mildes Licht aus, ließ jede
 Einzelheit des großen Raumes erkennen …
 
 Aus einem diesen Klubsessel erhob sich ein kahlköpfiger
 Europäer in weißem Leinenanzug … Ein hageres, bartloses
 Gesicht mit merkwürdig glanzlosen Augen, — Augen,
-die wie zum trüben Eizxstücken erstarrt zu sein schienen
+die wie zu trüben Eisstücken erstarrt zu sein schienen …
 
 Ein Lächeln umspielte die dünnen Lippen …
 
@@ -2675,18 +2674,19 @@ Er winkte … Und das galt den nackten lebenden Statuen
 …
 
 Man packte uns … Und im Nu saßen wir an der
-anderen Seite des Fisches auf niederen Hockern — fest«
-Gespräch wie Kerle, denen man Riesenkräfte zutraut …!
+anderen Seite des Tisches auf niederen Hockern — festgeschnürt
+wie Kerle, denen man Riesenkräfte zutraut …!
 
 Wieder winkte Lewis Balland …
 
 Die braune Garde verließ den Saal …
 
 Auch Abdullah … — Balland setzte sich wieder, lächelte
-weiter. blieb stumm …
+weiter, blieb stumm …
 
-»Und da — — gab ich für unser Leben keinen Pfifferling
+Und da — — gab ich für unser Leben keinen Pfifferling
 mehr …
+
 Gegenüber diesem satanischen Grinsen traute ich Haralds
 Trümpfen nicht mehr …
 
@@ -2694,18 +2694,18 @@ Trümpfen nicht mehr …
 
 <h2>5. Kapitel.</h2>
 
-<h3>Die drei Finger und der Familtienschmud.</h3>
+<h3>Die drei Finger und der Familienschmuck.</h3>
 
 Schweigen herrschte in dem prächtigen Saale …
 
-Waffen, kostbare Service hingen an den Wänden …
-Seidig glänzten Kaschmirgewebe, vertraten die Tapeten »…
-—« Ein Blick ringsum genügte: Lewis Balland mußte ungeheuer
-reich sein …!! Detektivinspektor Perkins hatte nicht
-übertrieben …- Dieser ehemalige Juwelenhändler war ein
-Krösus … Seine Dienerschaft — das waren die Statuen
-bestand aus ausgesuchter Leuten und war ihm fraglos blind
-ergeben »…
+Waffen, kostbare Teppiche hingen an den Wänden …
+Seidig glänzten Kaschmirgewebe, vertraten die Tapeten …
+— Ein Blick ringsum genügte: Lewis Balland mußte ungeheuer
+reich sein …! Detektivinspektor Perkins hatte nicht
+übertrieben … Dieser ehemalige Juwelenhändler war ein
+Krösus … Seine Dienerschaft — das waren die Statuen —
+bestand aus ausgesuchten Leuten und war ihm fraglos blind
+ergeben …
 
 Schweigen …
 
@@ -2719,7 +2719,7 @@ eines toten Fisches aus — ruhten abwechselnd auf Harald
 und mir …
 
 Im Hintergrunde plätscherte ein Springbrunnen … ganz
-leise … träumerisM … Das Wasser war offenbar nach
+leise … träumerisch … Das Wasser war offenbar nach
 indischer Sitte parfümiert …
 
 Wie eine Entspannung aller Nerven war’s für mich, als
@@ -2727,19 +2727,19 @@ endlich Abdullah wieder eintrat …
 
 Und hinter ihm ein zweiter Diener …
 
-Übdullah trug vor der Brust, mit beiden Händen sie
+Abdullah trug vor der Brust, mit beiden Händen sie
 haltend, eine silberne Platte … Der andere trug genau
-so sofort ich eins jener breiten altindischen Schwerter, die
+so feierlich eins jener breiten altindischen Schwerter, die
 von Kennern mit Unsummen bezahlt werden, aber höchst
 selten sind …
 
-Übdullah trat neben uns … Der andere stellte sich
+Abdullah trat neben uns … Der andere stellte sich
 hinter Harald, indem er die Haltung der chinesischen Scharfrichter
 <@pagebreak/>
 einnahm, die gewohnt sind, dem knienden Delinquenten
-den Kopf abzusdjlagen …
+den Kopf abzuschlagen …
 
-Ich) fühlte, daß iF jäh erbleichte …
+Ich fühlte, daß ich jäh erbleichte …
 
 Und doch vergaß ich den Mann mit dem Schwerte
 über dem Anblick, den Abdullahs silberne Platte darbot,
@@ -2748,65 +2748,64 @@ Auf dieser reich gravierten Platte lagen drei Finger.
 
 Drei präparierte Finger — so tadellos präpariert, daß
 sie den Eindruck machten, als wären sie ganz frisch von
-einer wegschicken Hand abgetrennt worden …
+einer menschlichen Hand abgetrennt worden …
 
-Und an dem einen Finger steten vor zwei Brillantringe
-—« wirkten geradezu abschreckend an diesen toten Gliedern
+Und an dem einen Finger steckten noch zwei Brillantringe
+— wirkten geradezu abschreckend an diesen toten Gliedern
 …
 
 Harald schaute gleichfalls scharf hin …
 
 Lewis Balland rauchte … grinste … Es gibt eben
-ein Lächeln, das von der Seele gleichsam alle Schleier hin«-
-Bestrebt, das alle Abgründe enthüllt …
+ein Lächeln, das von der Seele gleichsam alle Schleier hinwegzieht,
+das alle Abgründe enthüllt …
 
 Jetzt begann Balland zu sprechen …
 
 »John Pattersons drei Finger …« sagte er, und ein
-Haß zitterte in seiner Stimme, als müßte er an diesen!
+Haß zitterte in seiner Stimme, als müßte er an diesem
 Haß ersticken …
 
-Bevor er noch hinzufügen konnte, was ihm [schon auf
+Bevor er noch hinzufügen konnte, was ihm schon auf
 der Zunge schwebte, sagte Harald mit einer gewissen ironischen
 Höflichkeit:
 
-»Ich danke Ihnen, Mr. Balland … Nun wo!lß ich auch
+»Ich danke Ihnen, Mr. Balland … Nun weiß ich auch
 das Letzte … Der Fall Ben Benson war anfänglich doch
-seit undurchsichtig … Erst als ihm? in London am Tage
-nach meinem Aufenthalt im Hotel Garn über Doris 4 wertvoll
+recht undurchsichtig … Erst als ich in London am Tage
+nach meinem Aufenthalt im Hotel Garrick über Doris Gwendoll
 nähere Erkundigungen einzog — bei der Polizei in
-Ackerland Yard —, als ich ferner berücksichtigte, daß der
+Scotland Yard —, als ich ferner berücksichtigte, daß der
 sogenannte Ben Benson als Zuchthäusler nur flüchten konnte,
 weil er sich eines Autos bemächtigte, kam mir allmählich
-die Erkenntnis „…«
+die Erkenntnis …«
 
 Ein schneidendes Auflachen Ballands …
 
-»Da hin ir wirklich neugierig, Mr. Harst …!!! Sollten
+»Da bin ich wirklich neugierig, Mr. Harst …!! Sollten
 Sie in der Tat die Zusammenhänge richtig durchschaut haben,
-so will ich Sie beide freigeben, Atem Wort darauf …"«
+so will ich Sie beide freigeben, mein Wort darauf …«
 
 <@pagebreak/>
 »Danke …« meinte Harst kühl. »Sie werden sowohl
 uns als auch das Ehepaar Patterson freigeben müssen —
-aus ohne mein Zutun … Ich pflege mir stets den Rücken
+auch ohne mein Zutun … Ich pflege mir stets den Rücken
 zu decken, Lewis Balland … Ich tappe nicht so ohne
-weiteres ins Verderben hinein „…«
+weiteres ins Verderben hinein …«
 
-Balland krümmte sich; jetzt vor Lachen … »Ah —
-Sie haben vielleicht Mr. Perkins gebeten, Balland Castle
-in dieser Nacht zu umstellen?! — verehrten Mr. Harst,
+Balland krümmte sich jetzt vor Lachen … »Ah —
+Sie haben vielleicht Mr. Perkins gebeten, Balland-Castle
+in dieser Nacht zu umstellen?! — Verehrter Mr. Harst,
 meine Spione haben mir längst mitgeteilt, daß die hiesige
 Polizei sich heute ebensowenig um mich kümmert wie früher
-
-… — Sie, Schraut und die beiden Pattersons sind mein!
+… — Sie, Schraut und die beiden Pattersons sind mein!!«
 Er kreischte förmlich … »Mein, — — und niemand wird
-je erfahren, wo …
+je erfahren, wo …«
 
 »Sie irren sich, Lewis Balland … Aber — davon später
-+… Ich will Ihnen kurz die Zusammenhänge, die Ihnen ja am
+… Ich will Ihnen kurz die Zusammenhänge, die Ihnen ja am
 besten bekannt sind, schildern … Ich erzähle also Ihnen
-nichts Neues … =« — Wie Perkins uns mitteilte, sind
+nichts Neues … — — Wie Perkins uns mitteilte, sind
 Sie vor zweieinhalb Jahren hier in Bombay aufgetaucht,
 Sie kamen aus London, wo Sie einem Ihrer Angestellten
 durch einen … unglücklichen Zufall mit einem kleinen
@@ -2814,7 +2813,7 @@ Handbeil drei Finger abgehackt hatten … Sie wurden wegen
 fahrlässiger Körperverletzung mit einem Monat Gefängnis
 bestraft …«
 
-»Sehr richtig!« höhnte Balland … »über nun — —
+»Sehr richtig!« höhnte Balland … »Aber nun — —
 bitte weiter …!«
 
 »Dieser Angestellte war John Patterson … In Ihrem
@@ -2825,53 +2824,52 @@ verliebt … Doris wies Ihre Anträge zurück. Ihr Herz
 gehörte John Patterson … Und deshalb haben Sie bei
 guter Gelegenheit Patterson verstümmelt, hieben ihm die
 drei Finger ab, hatten es wahrscheinlich auf die ganze Hand
-
-abgesehen, damit Doris sich; von dem Krüppel dann Momente
-…«’
+abgesehen, damit Doris sich von dem Krüppel dann abwende
+…«
 
 <@pagebreak/>
 Ich beobachtete Balland … Sein Gesicht war starr
 geworden, das Lächeln eingefroren …
 
-»Über Sie hatten sich getäuscht, Balland,« fuhr Harald
+»Aber Sie hatten sich getäuscht, Balland,« fuhr Harald
 fort. »Doris hielt weiter treu zu John Patterson … Sie
 aber wanderten ins Gefängnis und verließen dann England
-—« Rache brütend, das Herz voller finsterer Gedanken …
+— Rache brütend, das Herz voller finsterer Gedanken …
 Doris Gwendoll war die große Leidenschaft Ihres Lebens
 … Doris Gwendoll war Ihr Verhängnis … — Sie waren
-es, der dann den Juwelendieb Ben Benson erfand« … Ei
-bat nie einen Ben Benson gegeben … Nur einen Einbrecher,
+es, der dann den Juwelendieb Ben Benson erfand … Es
+hat nie einen Ben Benson gegeben … Nur einen Einbrecher,
 der noch zu ermitteln ist und der Ihr Werkzeug war,
 den Sie bestochen, der überall »Ben Bensons Wappen«
-zurücklassen mußte, wo er eingebrochen war … Eine deutlichen?
+zurücklassen mußte, wo er eingebrochen war … Eine teuflische
 Schlauheit lag in diesem Ihren Racheplan … Sie
-wußten, daß es John Patterson schlecht ging … daß zu
+wußten, daß es John Patterson schlecht ging … daß auch
 Doris Gwendoll nur durch Ihre Freundin, der Herzogin
-von Lancire, vor Elend und Not bewahrt wurda … Sie
+von Lancire, vor Elend und Not bewahrt wurde … Sie
 hofften darauf, daß die Polizei eines Tages auf John Patterson
 aufmerksam werden würde …«
 
-Ich) … stierte dieses Scheusal von Balland geradezu
+Ich … stierte dieses Scheusal von Balland geradezu
 entsetzt an …
 
-sollte — konnte dies alles denn richtig sein?’ Konnte
-ein Mensch auf Derartiges aus Cifsersucht verfallen?!
+sollte — konnte dies alles denn richtig sein? Konnte
+ein Mensch auf Derartiges aus Eifersucht verfallen?!
 
 Lewis Ballands Gesicht aber war noch starrer geworden.
 
-Harst wandte den Kopf nach dem Inder mit kein Hauschwert
+Harst wandte den Kopf nach dem Inder mit dem Hauschwert
 und befahl sehr energisch:
 
-»Herr Dich weg …!! Diese Komödie ist lächerlich …!!«
+»Schere Dich weg …!! Diese Komödie ist lächerlich …!«
 
 Seine Augen drohten …
 
 Und — wahrhaftig! — Der Inder warf einen scheuen
 Blick auf seinen Herrn und … schlich davon, denn Lewis
-Balland war wie geistesabwesend =« — hatte den Kopf
+Balland war wie geistesabwesend — — hatte den Kopf
 gesenkt …
 
-Harald nun — noch eindringlicher als bisher!:
+Harald nun — noch eindringlicher als bisher:
 
 »Dann kam die Tragödie der Herzogin von Lancire …
 Sie, die aus gut bürgerlichen Kreisen stammte, war nach
@@ -2879,41 +2877,39 @@ Sie, die aus gut bürgerlichen Kreisen stammte, war nach
 dem Tode ihres Gatten durch die Verwandten ihres Mannes
 In niederträchtige Prozesse verwickelt worden … Diese ganze
 »vornehme« Verwandtschaft hatte ihr den Krieg erklärt …
-Man recht die Rechtsgültigkeit der Ehe richtet nachträglich
-nahe an … Man suchte das Testament des Herzogs, das
-der Witwe eine jährliche regte sicherte — denn Titel und
-Güter des Herzogs sieben mangels leidlicher Erben an eine
-Nebenlinie =, als Fälschung hinzustellen … Insübesondere
+Man focht die Rechtsgültigkeit der Ehe nachträglich
+noch an … Man suchte das Testament des Herzogs, das
+der Witwe eine jährliche Rente sicherte — denn Titel und
+Güter des Herzogs fielen mangels leiblicher Erben an eine
+Nebenlinie —, als Fälschung hinzustellen … Insbesondere
 wollte man den Familienschmuck, den der Herzog seiner
 Frau notariell geschenkt hatte, beschlagnahmen lassen …
-Da kam die Herzogin und Doris Gwendoll, die irgend«
-Freundinnen waren, auf den Gedanken, den Schmuck stehlen
-zu lassen.« John Patterson gab sich dazu her, Einbrecher
-zu spielen … Aber als er mit der Beute kaum den Packst
-verlassen hakte, wurde er von Ihrem Diener Abdullah,
-Ihrem Spion, niedergesmhlagen und beraubt … Abdullah
+Da kam die Herzogin und Doris Gwendoll, die Jugendfreundinnen
+waren, auf den Gedanken, den Schmuck stehlen
+zu lassen. John Patterson gab sich dazu her, Einbrecher
+zu spielen … Aber als er mit der Beute kaum den Palast
+verlassen hatte, wurde er von Ihrem Diener Abdullah,
+Ihrem Spion, niedergeschlagen und beraubt … Abdullah
 denunzierte ihn dann der Polizei … Patterson wird verhaftet:
 endlich glaubt man »Ben Benson« erwischt zu haben
-+. Er wird verurteilt … Im Zuchthaus läßt er sich mit
+… Er wird verurteilt … Im Zuchthaus läßt er sich mit
 Doris trauen … Die Herzogin gibt ihr Auto her, damit
 Patterson fliehen kann, und er und Doris reisen hier nach
 Bombay, um Ihnen den Familienschmuck wieder abzunehmen
-
-— — Ich aber, Lewis Balland, habe dem Doktor he«
+… — Ich aber, Lewis Balland, habe dem Schofför des
 Autos, das uns vor einer Stunde hier nach den Malabar
 Hills brachte, einen Zettel für Inspektor Perkins zugleich
 mit einem reichlichen Trinkgeld in die Hand gedrückt …
 — Bitte — horchen Sie Lewis Balland … Sie hören wohl
-ebenso wie schlich draußen im Park das heisere Schreien der
-Indischen Nebelkrähe: ein Signal von Perkins …! — Geben
-Sie den Schmuck heraus + geben Sie uns und die Pattersons
-umgehend frei, und Sie werden unbelästigt bleiben.
+ebenso wie ich draußen im Park das heisere Schreien der
+indischen Nebelkrähe: ein Signal von Perkins …! — Geben
+Sie den Schmuck heraus — geben Sie uns und die Pattersons
+umgehend frei, und Sie werden unbelästigt bleiben,
 weil die Herzogin nicht mit in diese Sache hineinverwickelt
 werden soll …«
 
 Balland biß die Zähne in ohnmächtigem Grimm so scharf
-
-In die Unterlippe, daß ein paar Blutstropfen heworspran-gest
+In die Unterlippe, daß ein paar Blutstropfen hervorsprangen
 …
 
 <@pagebreak/>
@@ -2923,24 +2919,24 @@ Und drei Minuten später stand das Ehepaar Patterson
 neben uns … Doris trug den eleganten Lederkasten, der
 die Juwelen … und die drei Finger Ben Bensons enthielt,
 
-»Begleiten Sie uns die zum Parktor …’ befahl Harst
+»Begleiten Sie uns die zum Parktor …,« befahl Harst
 dem bleichen Balland …
 
 Wir gingen …
 
-Um Parktor sagte Harald mit seinem Lächeln:
+Am Parktor sagte Harald mit feinem Lächeln:
 
 »Leben Sie wohl, Lewis Balland … Die Nebelkrähe
 war ein Vogel und kein Mensch … Ich habe diesen schrillen
-Wagerechter nur benutzt, um Sie zu täuschen …«
+Vogelschrei nur benutzt, um Sie zu täuschen …«
 
 Balland wollte vorstürzen-…
 
-Harsts Clement trieb ihn Zuruf …
+Harsts Clement trieb ihn zurück …
 
-Wir vier eilten« ins Hotel d’Angeterre … —
+Wir vier eilten ins Hotel d’Angleterre … —
 
-Die Juwelen sind später der Herzogin vom Gericht ausgesprochen
+Die Juwelen sind später der Herzogin vom Gericht zugesprochen
 worden … — Und ich mache nun Schluß mit
 Ben Bensons Geschichte … Im folgenden Band wird der
 Leser die Tempelruine, den großen Edelstein und die halbe
