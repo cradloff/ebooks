@@ -169,10 +169,10 @@ verließ. Die Hunde blieben …
 Langsam schritt der alte Mann an dem hinter einer Eiche
 <@pagebreak/>
 stehenden Neffen vorüber. Er hatte die Eigentümlichkeit, laut
-vor sich bin zu reden. Das tat er auch jetzt. Learat hörte,
+vor sich hin zu reden. Das tat er auch jetzt. Learat hörte,
 wie er in verbissener Wut hervorstieß:
 
-»Oh — ich fasse die schon noch ab …! Ich habe
+»Oh — ich fasse Dich schon noch ab …! Ich habe
 Geduld …«
 
 Dann tauchte der alte Schloßkastellan in der Finsternis
@@ -281,7 +281,7 @@ selbst in England noch das Haar genial lang wachsen lassen,
 wehende Krawatten und weiche Kragen lieben und zumeist an
 einem Überfluß an Mangel an Geld leiden …
 
-Diese derart herausstaffierten Kürbissen waren wir beide,
+Diese derart herausstaffierten Künstler waren wir beide,
 Harst und ich.
 
 In Braby hatten wir gehört, daß in einer Schlucht
@@ -387,7 +387,7 @@ Manuela vermied ich es, mir die Nase zuzuhalten, obwohl hier
 in der Torfbude ein Odeur herrschte, gegen das Kuhstallduft
 einfach Rosenduft ist …!
 
-Auch Harald machte in ganz merkwürdiges Gesicht, —
+Auch Harald machte ein ganz merkwürdiges Gesicht, —
 so, als ob er niesen müßte und dies mit Gewalt zurückdrängte
 …
 
@@ -435,7 +435,7 @@ Vater mal gekauft hat …«
 uns unser Quartier zeigen, Manuelita …« Er lächelte
 sie an …
 
-Weiß der Teufel: er ist eben in allen Sätteln fest, und
+Weiß der Teufel: er ist eben in allen Sätteln fest, auch
 als Liebhaber, als Don Juan … Und dabei hat es doch
 nur ein einziges Mädchen in seinem Leben gegeben, die sein
 kühles Herz je mit der zarten Wärme wahrer Liebe erfüllte:
@@ -613,7 +613,7 @@ Aus den Schornsteinen der Zigeunerhütten zogen dünne
 Rauchfahnen in die stille Abendluft empor. Die Sonne
 neigte sich bereits den Kuppen der fernen Höhenzüge zu …
 
-Harald Spion über Schloß Darlington, über Learats
+Harald sprach über Schloß Darlington, über Learats
 Beobachtungen, über den Schatten der Frau mit dem Federhut
 … Und über Manuela …
 
@@ -648,7 +648,7 @@ Verbot besteht. Das haben wir in Braby erfahren …«
 »Ganz recht … Und Du rührst da an einen weiteren
 ungeklärten Punkt …! Gegenüber einer solchen Fülle von
 noch offenen Fragen kann man nur eins: ganz systematisch
-vorgehen! Deshalb habe im ja auch in Braby mich so
+vorgehen! Deshalb habe ich ja auch in Braby mich so
 genau danach erkundigt, wann Lord Percy Darlington das
 Verbot erlassen hat …«
 
@@ -740,7 +740,7 @@ Ah — das saß …! Das traf wie ein Hieb …!
 
 Die junge Zigeunerin fuhr herum … Sie war ein
 Naturkind, sie war einem Harst in keiner Weise gewachsen
-… Gerissen, schon — gewiß! Aber nicht gewöhnt, sich
+… Gerissen, schlau — gewiß! Aber nicht gewöhnt, sich
 zu beherrschen, vorschnell mit der Zunge.
 
 <@pagebreak/>
@@ -762,7 +762,7 @@ Herr …?«
 
 »Natürlich …«
 
-»Bekamen Sie nicht einen Schreck …!?«
+»Bekamen Sie nicht einen Schreck …?«
 
 »Und ob, Manuela …! Wir warfen den Deckel schnell
 wieder zu …«
@@ -772,7 +772,7 @@ Skelett …!«
 
 Harst warf weitere Fangleinen aus …
 
-»Wir waren entsetzt, Manuelita … Wer wohl der tote
+»Wir waren entsetzt, Manuelita … Wer wohl der Tote
 dort in der Truhe sein mag …?«
 
 Die junge Zigeunerin ließ sich auf den Schemel sinken
@@ -823,7 +823,7 @@ Sie lief leichtfüßig davon …
 Und Harald sagte zu mir:
 
 »Ein Skelett, mein Alter …! Ob etwa dieses Skelett
-von John Learat und den Hunden bewacht wir?! Ob
+von John Learat und den Hunden bewacht wird?! Ob
 die Frau mit dem Federhut dieses Skelett sucht …?!«
 
 Dann ging er zum Herd, wo das Torffeuer brannte,
@@ -1274,7 +1274,7 @@ Harst raunt mir zu …
 Schlosses und die Vorderfront, Du die andere Seite und
 die Rückfront … Stelle Dich an der Westecke auf … Der
 <@pagebreak/>
-Efeu ist dicht … Drücke Dich hinein … — Siehst Du etwas
+Efeu ist dicht … Drücke Dich hinein … — Siehst Du etwas,
 so ahme das Krächzen einer Krähe nach …«
 
 Ich eile davon … Wir haben insofern Glück, als rund
@@ -1390,7 +1390,8 @@ hineingelangt … Seien wir ihm dankbar …«
 
 <@pagebreak/>
 Besserer Laune?! Und — — die drei Hunde?! Wenn
-in an den Höllenlärm der Bestien denke, wird mir schwach.
+ich an den Höllenlärm der Bestien denke, wird mir schwach.
+
 Ich halte mich für verpflichtet, Harst zu warnen …
 
 Er meint achselzuckend: »Wir werden uns doch nicht

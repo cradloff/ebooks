@@ -78,7 +78,7 @@ verändert sich … All das Schwermütige, Grüblerische verschwindet
 aus den zerfurchten Zügen …
 
 »Nur einer ist’s, der etwas verraten haben kann,« grollt
-er mit verbissener Wut. »Oh — ich lese Zeitungen; Herr
+er mit verbissener Wut. »Oh — ich lese Zeitungen, Herr
 Harst … Mein Neffe war mit Ihnen auf den Fär-Oer-Inseln
 …!!«
 
@@ -168,7 +168,7 @@ sein … Nur er!
 Aber — wer war das Opfer, das man dort in der
 Familientruhe so feierlich gebettet hatte …?! —
 
-Wieder eine Weile Schweigen … Jenes Schwelgen, das
+Wieder eine Weile Schweigen … Jenes Schweigen, das
 sich um das Herz wie Eisenklammern legt und es langsam
 zusammenpreßt, als ob einem der Atem vergehen sollte …
 
@@ -315,7 +315,7 @@ Seltsam: der Alte zuckte zusammen …
 darauf, Herr Harst …?!«
 
 »Oh — ich … dachte es mir … Der Teppich hat am
-Rande einen schwärzlichen Fleck … im glaube, es ist
+Rande einen schwärzlichen Fleck … ich glaube, es ist
 eingetrocknetes Blut …«
 
 Learat senkte die Lider über die erschrockenen Augen …
@@ -444,8 +444,8 @@ drüben eine zweite Schlucht … Dort steht eine verlassene
 Hütte aus Steinen, die zum Schlosse gehört … Ein Schäfer
 hat dort einst gehaust … Die Hütte ist besser als diese hier
 … Nur die Fenster fehlen und … und die Tür … Das
-Dach ist schadhaft — nicht sehr … Ich werde Sie hinführen,
-… Es sind nur zwanzig Minuten Wegs, Herr … — Bitte — —
+Dach ist schadhaft — nicht sehr … Ich werde Sie hinführen.
+Es sind nur zwanzig Minuten Wegs, Herr … — Bitte — —
 packen Sie Ihre Sachen … Die Großmutter und ich haben
 so große Angst …«
 
@@ -504,7 +504,7 @@ Aber — noch etwas Lebendes enthielt die Hütte, etwas,
 das feinere Sinne als der Schläfer besaß, ein hochbeiniger
 Foxterrier!
 
-Der kleine kräftige Köter fuhr hoch — klaffte … war
+Der kleine kräftige Köter fuhr hoch — kläffte … war
 mit einer Lederleine angebunden, sonst hätte er uns wohl
 attackiert …
 
@@ -514,7 +514,7 @@ Und jetzt erlebte ich wieder einmal eine jener Überraschungen,
 die Harald so sehr liebt …
 
 <@pagebreak/>
-Er grüßte — sagte zu dem blonden Radler;
+Er grüßte — sagte zu dem blonden Radler:
 
 »Sir Edward Darlington, wenn ich ich mich nicht sehr
 irre …«
@@ -788,7 +788,7 @@ Sein blasses Gesicht schien die Frau tief zu erschüttern.
 Sie nahm seine Hand …
 
 »Helfen Sie mir suchen …! Seit Jahren suche ich …
-Stellen Sie sich vor: seit Jahren tue ich das, war Sie in
+Stellen Sie sich vor: seit Jahren tue ich das, was Sie in
 der verflossenen Nacht taten … — dringe in das Schloß
 ein, durchwühle jeden Winkel der beiden Räume — — unermüdlich
 …! — Folgen Sie mir … Wir werden heute
@@ -995,7 +995,7 @@ war wie eine Szene aus den ersten Zeiten des Christentums,
 als römische Kaiser die neue Glaubenslehre dadurch auszutilgen
 suchten, daß sie deren Anhänger im Zirkus wilden
 Tieren preisgaben … Einer jener verbürgten, von römischen
-Historikern geschilderten unerklärlichen Vorgänge, bei den die
+Historikern geschilderten unerklärlichen Vorgänge, bei dem die
 Wunderkraft des menschlichen Auges die Bestien in seltsamer
 Furcht zurückscheuchte …
 
@@ -1141,7 +1141,7 @@ erloschen …
 
 Die Altantüren waren offen geblieben …
 
-Meine Taschenlampe beleuchtete, das Zimmer — die
+Meine Taschenlampe beleuchtete das Zimmer — die
 drei Hunde — — und warf eine Lichtbahn hinaus in die
 Finsternis der wolkigen Nacht, auf die im Winde schwankenden
 Zweige der Eichen … deren feierliches Rauschen
@@ -1248,7 +1248,7 @@ Die Nebel leuchten rosig … Es ist wie Sonnenuntergang …
 
 Wir wandern der kleinen Schlucht zu …
 
-Und — Warten, daß Lord Percy gestehen soll …
+Und — warten, daß Lord Percy gestehen soll …
 
 Er bleibt stumm …
 
@@ -1288,7 +1288,7 @@ sich … Daniel sank mit Kopfschuß vornüber auf den Teppich.«
 
 Lord Percy achtete nicht darauf …
 
-»… — Learats war’s, der als treuer Diener unseres Hauses
+»… Learat war’s, der als treuer Diener unseres Hauses
 den Unglücksfall vertuschen wollte … Er hatte gerade in
 jener Nacht einem geistesgestörten Landstreicher, der hier
 in der Gegend unter dem Namen »der blöde Jack« bekannt
@@ -1402,4 +1402,4 @@ Was ich darüber noch zu sagen wüßte, ist belanglos.
 
 Nächster Band:
 
-__Die drei Finger Ben Benson.__
+__Die drei Finger Ben Bensons.__
