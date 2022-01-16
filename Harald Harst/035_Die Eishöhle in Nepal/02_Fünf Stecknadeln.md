@@ -38,7 +38,7 @@ Inhalts:
 > »Zu fahnden ist auf zwei Verbrecher, die von Betija aus
 mit ungeschliffenen Edelsteinen im Werte von 50 Millionen
 ihre Flucht nach Süden, nach Patna, fortgesetzt haben dürften.
-Es handelt sich um zwei frühere Artisten, Mautley und Bickpool.
+Es handelt sich um zwei frühere Artisten Mautley und Bickpool.
 Ersterer groß, schlank, blond, ohne besondere Kennzeichen; letzterer
 unter Mittelgröße, zart, weiche, frauenhafte Züge, sehr
 spärliches, blondes Haar. Beide vorzügliche Verkleidungskünstler.
@@ -46,14 +46,14 @@ Bickpool tritt gern in Frauenkleidern auf. Die
 Verbrecher werden wahrscheinlich nur in größeren Hotels
 <@pagebreak/>
 absteigen, wo sie unter der Menge der Gäste mehr verschwinden,
-und vielleicht einen kleinen festen Koffer, der die Diamanten
+und vielleicht einen kleinen, festen Koffer, der die Diamanten
 enthält, im Hoteltresor aufbewahren lassen. Man achte besonders
 auf diesen Umstand. Der deutsche Liebhaberdetektiv
 Harald Harst und sein Freund Schraut haben die Verfolgung
 aufgenommen. Man unterstütze Mr. Harst in jeder Weise.
 Für sachdienliche Mitteilungen, die an Polizeiamt Betija,
-Nord-Bengalen zu richten sind, setzt Mr. Harst eine Belohnung
-bis zu 1000 Pfund aus.«
+Nord-Bengalen, zu richten sind, setzt Mr. Harst eine Belohnung
+bis zu 1000 Pfund aus.««
 
 Wir saßen auf der nach dem Garten hinausgehenden Veranda,
 als diese Unterhaltung stattfand. Wir hatten soeben
@@ -72,7 +72,7 @@ Arbeit.«
 
 Harsts Gleichgültigkeit setzte mich wirklich in Erstaunen.
 Gewiß, er hatte erklärt: »Mautley und Bickpool irren sich.
-Wir werden uns wiedersehen!« Und das hieß eben: »er
+Wir werden uns wiedersehen!« Und das hieß eben: »Ich
 jage ihnen den Raub wieder ab!« — Doch — sehr eilig schien
 er es damit nicht zu haben. Auch jetzt rauchte er mit einem
 Behagen seine Zigarette, wie ein ganz gewöhnlicher Globetrotter,
@@ -80,7 +80,7 @@ der nichts zu versäumen hat. Sein schmales, bartloses
 Gesicht hatte die Sonne Indiens tief gebräunt. Die weiße
 Stirn hob sich scharf gegen die braune Unterpartie ab.
 
-Doorball war ins Haus geeilt um die Depesche sofort zu
+Doorball war ins Haus geeilt, um die Depesche sofort zu
 besorgen. Ich konnte nicht anders: ich mußte Harald das vorhalten,
 was ich mir da soeben überlegt hatte.
 
@@ -107,7 +107,7 @@ Er schwieg plötzlich. Und dieser Satz sollte so bald auch
 nicht vollendet werden.
 
 »Frau Marry Conning,« flüsterte er dann und schaute
-scharf in die dichten typischen Büsche des Gartens hinein,
+scharf in die dichten, tropischen Büsche des Gartens hinein,
 über die sich ein paar mächtige Zedern geradezu majestätisch in
 die Luft reckten.
 
@@ -132,10 +132,10 @@ lassen.
 
 Erst an der Pforte trafen wir mit Marry Conning zusammen.
 Wir waren jetzt ja bereits neun Tage bei Doorball
-zu Gaste und da hatten wir natürlich auch die Gattin des
+zu Gaste, und da hatten wir natürlich auch die Gattin des
 Inspektors kennengelernt und ebenso von Doorball ihre und ihres
 Mannes Lebensgeschichte erfahren. Sir Edward Conning
-war bis vor drei Jahren Hauptmann in der indischen Kalonialarmee
+war bis vor drei Jahren Hauptmann in der indischen Kolonialarmee
 und sehr reich gewesen. Vor sechs Jahren hatte er
 Marry Braacer, die Tochter seines Obersten, geheiratet. Und
 dieses bildhübsche, temperamentvolle, verwöhnte Frauchen war
@@ -145,7 +145,7 @@ hinschwinden zu lassen, sondern erregte auch durch ihr Auftreten
 <@pagebreak/>
 in Connings neuer Garnison so viel Ärgernis, daß er
 den Abschied nehmen mußte. So wurde er, nachdem Frau
-Marry auch den Rest des Vermögens noch in goldenem Leichtsinn
+Marry auch den Rest des Vermögens noch in goldenen Leichtsinn
 vergeudet hatte, Polizeiinspektor in Betija, was etwa
 dasselbe bedeutet, als wenn ein Beamter plötzlich in ein
 ostpreußisches Grenznest verbannt wird.
@@ -192,9 +192,9 @@ daran schuld, daß er nicht mehr Offizier ist und sich nun hier
 mit Doorball herumärgern muß, der ja sonst sehr nett, aber
 als Vorgesetzter sehr unbequem ist.«
 
-»Gut, Mistreß — gehen wir also zu Ihnen,« sagte Harst
+»Gut, Mistreß, — gehen wir also zu Ihnen,« sagte Harst
 freundlich. »Wir, Schraut und ich, haben gerade nichts vor.
-Und beruhigen Sie sich nur. Die Sache wird wohl so schlimm
+Und — beruhigen Sie sich nur. Die Sache wird wohl so schlimm
 nicht sein.«
 
 Marry Conning hatte gleichfalls einen Schlüssel zu der
@@ -224,7 +224,7 @@ ebenso leise hinausgeschlichen. — Sie schlief wieder ein und
 erwachte erst gegen 7 Uhr morgens. Da ihr Mann auch jetzt
 noch nicht zurück war, wurde sie doch unruhig und kleidete sich
 schnell an. Sie fand dann auf dem Schreibtische Connings
-einen an sie adressierten versiegelten Brief. —
+einen an sie adressierten, versiegelten Brief. —
 
 Diesen Brief bekamen wir nun zu sehen. Die Anschrift
 war ebenso flüchtig mit Bleistift auf den Umschlag hingeworfen
@@ -234,7 +234,7 @@ wie die Zeilen auf dem Briefbogen. Sie lauteten:
 wegbleiben müssen. Gehe zu Doorball und sage ihm, ich hätte
 ihn nicht mehr um Urlaub bitten können. Eine peinliche
 Familienangelegenheit hätte mich nach Dehli gerufen. —
-Zeige niemandem diesen Brief, wer es auch sei, und erfinde
+Zeige *niemandem* diesen Brief, wer es auch sei, und erfinde
 irgend welche Einzelheiten, die mein plötzliches Verschwinden
 ganz unauffällig machen. Sei vorsichtig! Für uns hängt von
 <@pagebreak/>
@@ -244,7 +244,7 @@ und wirst bald merken, was das Spektrum bedeutet. —
 Stets in alter Liebe — Dein E.«
 
 Harst blickte von dem Briefbogen auf und schaute Frau
-Marry an. —
+Marry an.
 
 »Sie sollten doch niemandem den Brief zeigen,« meinte er.
 »Und nun haben Sie —«
@@ -258,7 +258,7 @@ unter der letzten Zeile zehn Löcher und zwar in zwei Reihen
 untereinander. Man sieht es den Löchern an, daß sie dadurch
 entstanden sind, daß hier fünf Stecknadeln durch das Papier
 gestochen wurden. Man sagt wohl besser in dem Papier
-festgestochen wurden, die Spitzen der fünf Nadeln zeigten
+festgestochen wurden. Die Spitzen der fünf Nadeln zeigten
 nach unten. Sie müssen ziemlich große Köpfe gehabt haben.
 Als Ihr Gatte den Brief zuklebte und mit dem Handballen die
 Briefklappe festdrückte, preßten sich die Köpfe der Stecknadeln
@@ -267,7 +267,7 @@ zehn sind es, denn der Briefbogen wurde einmal gefaltet, und
 so kamen auch fünf Eindrücke in die Schrift hinein. — Bitte,
 Schraut, sieh Dir das nur an. Es ist ganz interessant —«
 
-Marry Conning platzte jetzt in naiven Staunen mit der
+Marry Conning platzte jetzt in naivem Staunen mit der
 Bemerkung heraus:
 
 »Nein — was Sie auch gleich alles herausfinden, Master
@@ -277,13 +277,13 @@ Dort liegen sie noch.«
 
 Wirklich — dort neben dem Schreibzeug lagen die fünf
 Stecknadeln. Es waren ganz gewöhnliche Stahlnadeln von
-3 ¼ Zentimeter Länge mit bunten Glasköpfen.
+3¼ Zentimeter Länge mit bunten Glasköpfen.
 
 Harst saß jetzt in dem Schreibsessel vor Connings Diplomatenschreibtisch.
 Ich stand hinter ihm; Frau Marry links
 neben Harst.
 
-Dieser hatte die Nadeln aufgehoben und sah sie sich genau
+Dieser hatte die Nadeln aufgehoben und sah sie sich so genau
 an, als ob es überaus wichtige Gegenstände wären. Dann
 gewahrte ich, daß er in Wahrheit gar nicht auf die Nadeln
 schaute, sondern an ihnen darüber auf die lederbezogene
@@ -327,7 +327,7 @@ noch ein paar Fragen gestatten, Mistreß Conning? — Haben
 Sie schon durch Besichtigung der Kleidungsstücke Ihres Gatten
 festgestellt, was er für diese Reise mitgenommen hat?
 Denn verreist dürfte er doch fraglos sein. — Was für einen
-Anzug trug er gestern abends?«
+Anzug trug er gestern abend?«
 
 Marry Conning machte jetzt wieder ein ganz weinerliches
 Gesicht. »Ach, Mr. Harst, — er hatte gestern einen weißen
@@ -346,7 +346,7 @@ diesen Bund etwas unternehmen wollte, würde er es mir gesagt
 haben. Nein — hierum handelt es sich bei dieser Reise
 niemals!«
 
-»Danke Mistreß Conning,« nickte Harst. »Das genügt
+»Danke, Mistreß Conning,« nickte Harst. »Das genügt
 mir. Ich hatte bereits vermutet, daß Ihr Gatte sich verkleidet
 hätte. Sehen Sie — hier auf dem Lederbezug des Schreibtisches
 sind ein paar matte Stellen wie von verwischten
@@ -362,7 +362,7 @@ Sie deutete auf einen großen, in die Wand halb eingebauten
 Schrank. »Dort, Mr. Harst.«
 
 Harald schritt auf den Schrank zu, öffnete ihn. Er war
-voller Kleider, die teilweise auf Bügeln hingen — Harst bückte
+voller Kleider, die teilweise auf Bügeln hingen. — Harst bückte
 sich und wühlte am Boden des Schrankes umher, richtete sich
 wieder auf, drückte die Tür zu und sagte: »So — nun wollen
 wir nicht mehr stören, Mistreß Conning. Sie brauchen
@@ -396,7 +396,7 @@ Arm in den meinen.
 »Die arme Frau,« sagte er leise.
 
 Ich schrak förmlich zusammen. »Arme — Frau?! — Was
-soll das Harald?«
+soll das, Harald?«
 
 »Mein Alter, es wird sehr schwer sein, diese Sache noch
 leidlich einzurenken, fürchte ich, — sehr schwer! Du hast die
@@ -415,7 +415,7 @@ sei wie Marry Conning. Ich hatte ja keinen Schimmer, was
 es mit den fünf Stecknadeln auf sich hatte.
 
 Ich schwieg zunächst. Später konnte ich ja noch immer
-zugeben, daß ich — die Geschichte nicht durchschaut hätte.
+zugeben, daß ich — die Geschichte *nicht* durchschaut hätte.
 
 Inzwischen sprach Harald weiter. »Ich rechne ganz bestimmt
 auf einen zweiten Brief. Es ist nur die Frage, ob
@@ -475,7 +475,7 @@ und meinte:
 
 »Du Schwindler, Du! Keine Ahnung hast Du! Ich roch
 den Braten längst! Wollte Dich nur zu einer ähnlichen Äußerung
-verführen — Also so reimst Du Dir alles zusammen
+verführen. — Also so reimst Du Dir alles zusammen
 — so! Da bist Du aber gründlich auf dem Holzwege! Gründlich!
 — Sei mal ehrlich: Du weißt auch jetzt noch nicht, wie die
 <@pagebreak/>
@@ -508,7 +508,7 @@ daß er nach Patna gereist sei.«
 »Das hat für uns erst Interesse, wenn ein zweiter Brief
 einläuft, den Marry Conning mir dann ja zusenden will.
 Es mag sein, daß ich mich in dieser Hinsicht irre und daß meine
-Theorie sich als falsch erweist. Jedenfalls: vollständig falsch
+Theorie sich als falsch erweist. Jedenfalls: *vollständig* falsch
 kann sie nicht sein!«
 
 »Und diese Theorie wäre?«
@@ -556,7 +556,7 @@ ihnen; seine amtliche Stellung deckt ihnen den Rücken; er kann
 sie stets für seine Untergebenen oder sonstwen ausgeben, er hat
 ja seine Legitimation, die ihm Tor und Tür öffnet, auch wenn
 er als Inder verkleidet ist. Na — und Mautley und Bickpool
-werden auch Papiere haben — gefälschte wie ich schon andeutete,
+werden auch Papiere haben — gefälschte, wie ich schon andeutete,
 durch ihn! — So, mein Alter, das wäre so meine Theorie!
 Und Du wirst jetzt ohne weiteres einräumen, daß in diese
 Theorie der Brief Edward Connings sehr gut hineinpaßt,
@@ -578,7 +578,7 @@ schreiben, ihm in aller Stille zu folgen, und er selbst wird —
 vielleicht — später von irgendwo sein Abschiedsgesuch einreichen,
 denn er braucht dann, wie er hofft, nicht mehr Polizeiinspektor
 zu spielen, wenn Mautley und Bickpool ihn bezahlt haben! —
-Wenn —! Und bei diesem »Wenn« beginnt das — lebensgefährliche
+Wenn —! Und bei diesem »Wenn« beginnt das — Lebensgefährliche
 dieser moralischen Entgleisung für Conning. Es ist
 nämlich meines Erachtens wahrscheinlicher, daß diese beiden
 Schurken, denen doch Menschenleben ein Nichts gelten, ihn beseitigen,
@@ -599,18 +599,18 @@ Beweis dafür, daß zum mindesten Mautley bei Conning
 in der verflossenen Nacht sich einige Zeit aufgehalten hat,«
 sagte Harst jetzt, als wir auf das Haus zuschritten. »Mautley
 »priemt« leidenschaftlich und zwar stets englischen Twist (ein
-milder, in Staniol eingewickelten Kautabak.) Auf der Aschenschale
-des Schreibtisches lag Staniolpapier, zu einer Kugel zusammengedrückt.
+milder, in Stanniol eingewickelten Kautabak). Auf der Aschenschale
+des Schreibtisches lag Stanniolpapier, zu einer Kugel zusammengedrückt.
 Du wirst wohl gesehen haben, daß ich es wie
 spielend auseinanderfaltete. Sowohl der Geruch als auch die
-an dem Staniol haften gebliebenen winzigen, braunen Tabakreste
+an dem Stanniol haften gebliebenen winzigen, braunen Tabakreste
 verrieten mir die Twist-Umhüllung. Da Conning bestimmt
 *nicht* priemt — denn das würde er, der zärtliche Gatte,
 schon aus Rücksicht auf seine Frau nicht tun —, liegt es den
 ganzen Umständen nach nahe, daß Mautley nachts dort weilte.
-Das Staniol lag ja *auf* einer Anzahl Zigarettenstummel und
+Das Stanniol lag ja *auf* einer Anzahl Zigarettenstummel und
 Asche. Also war der Aschbecher seit dem vorigen Morgen nicht
-entleert, und das Staniol war hinzugekommen, als die 32
+entleert, und das Stanniol war hinzugekommen, als die 32
 Stummel schon die Aschenschale gefüllt hatten.«
 
 »Sehr gut,« nickte ich. »Hm — und der Kleiderschrank?«
@@ -679,7 +679,7 @@ fühlte mich schon den Tag über wie zerschlagen, hatte nicht Lust,
 auch nur einen Schritt zu tun. — Gute Nacht. Du bleibst
 wohl noch auf, mein Alter.«
 
-Ich verstand den Wink. Erst gegen ½ 11 betrat ich dann
+Ich verstand den Wink. Erst gegen ½11 betrat ich dann
 unser gemeinsames Wohnzimmer und schaltete das Licht ein.
 Harald saß in der Sofaecke, flüsterte:
 
@@ -740,7 +740,7 @@ Es dürfte das sein
 
 Es kamen also folgende Buchstaben in Betracht:
 
-<p class="centered">k o m m F t r s o o p t n a a E e d n</p>
+<p class="centered">__k o m m F t r s o o p t n a a E e d n__</p>
 
 Das gab keinen Sinn. Nur die ersten vier Buchstaben
 konnten »komm« bedeuten, also in der richtigen Reihenfolge.
@@ -753,7 +753,7 @@ wurde ich leider um nichts klüger. Aber — ich wollte mich
 nicht nochmals blamieren wie am Vormittag! — Die Sache
 konnte ja nicht allzu verzwickt sein, wenn Conning seiner Frau
 zutraute, die 19 Buchstaben in die richtige Anordnung zu bringen.
-Was er seiner Gattin zumutete, würde ich doch wohl herauskriegen!
+Was er seiner Gattin zumutete, würde *ich* doch wohl herauskriegen!
 
 Ich zündete mir eine Zigarre an. Tabak belebt den Geist.
 Aber — ich hätte, glaube ich, eine ganze Kiste aufrauchen können,
@@ -765,7 +765,7 @@ fragte: »Erledigt?«
 
 »Nein— zum Teufel! Frage nicht so — so spitzen Tones.«
 
-»Ha — bist Du gereizt! Und dazu liegt gar kein Grund
+»Hu — bist Du gereizt! Und dazu liegt gar kein Grund
 <@pagebreak/>
 vor. Edward Conning hat sich sehr verrechnet. Frau Marry
 hat den »Schlüssel« im ersten Briefe, also die fünf Nadeln,
@@ -816,20 +816,20 @@ r. Das ergibt »sofor«. Dann bleibt noch ein Lila t übrig.
 Reihe das hinten an, und Du hast »sofort« entziffert. In
 <@pagebreak/>
 derselben Weise wirst Du aus den weiteren Stecknadelköpfen »Patna«
-und »Eden« zusamenstellen. Das Ganze lautet mithin:
-»Komm sofort Patna Eden«. Was »Eden« heißen soll darauf
+und »Eden« zusammenstellen. Das Ganze lautet mithin:
+»Komm sofort Patna Eden«. Was »Eden« heißen soll, darauf
 deutet der Satz in dem Briefe hin: »Es dürfte hier das beste
 *Hotel* sein«. Also Eden-Hotel! — Kurz: Frau Marry soll
-sofort, und zwar ohne viel Gepäck nach Patna reisen und dort
+sofort, und zwar ohne viel Gepäck, nach Patna reisen und dort
 ihren Gatten im Eden-Hotel aufsuchen. — Siehst Du, mein
 Alter, das ist die Bedeutung der bunten Stecknadeln. Eine
 ganz hübsche Idee. Nur — für ein Frauenhirn, wie Marry
 Conning es besitzt, zu schwierig. — Wir werden jetzt schlafen
-gehen um ½ 4 wieder aufstehen und mit dem Morgenzuge abreisen.
+gehen, um ½4 wieder aufstehen und mit dem Morgenzuge abreisen.
 Aber nicht allein. Frau Marry muß mit. Ich werde
 sie morgens herausklopfen und ihr die ganze Geschichte sehr
 vorsichtig beibringen. Sie wird uns dankbar sein, wenn wir
-ihr helfen, Conning wieder moralisch »zurechtzurucksen« wie
+ihr helfen, Conning wieder moralisch »zurechtzurucksen«, wie
 man zu sagen pflegt. Es wird natürlich von ihrer Seite viel
 Tränen geben. Sie wird ahnen, weshalb ihr Edward sich auf
 so unsaubere Dinge eingelassen hat: eben um sie wieder mit
@@ -855,26 +855,26 @@ von Grund auf geändert hätte. Er glaubte sicherlich, mir
 mißfalle dieses bescheidene Leben! Und — das ist doch keineswegs
 so. Ich arbeite gern. Mir macht das Sparen und
 Wirtschaften Freude. — Oh Mr. Harst — helfen Sie, retten
-Sie. Edward darf meinetwegen nicht ehrlos bleiben. Er muß
-diese schmachvolle Belohnung, diese Diamanten Ihnen ausliefern.
+Sie ihn. Edward darf meinetwegen nicht ehrlos bleiben. Er muß
+diese schmachvolle Belohnung, diese Diamanten, Ihnen ausliefern.
 Und dann wollen wir weiter hier in Betija in Ruhe
 und Zufriedenheit leben wie bisher —«
 
 <@pagebreak/>
 Schließlich ließ sie sich dann trösten, faßte wieder Mut und
 begleitete uns zum Bahnhof. Harald nahm ein Abteil für
-uns allein. So blieben wir drei ungestört und das arme,
+uns allein. So blieben wir drei ungestört, und das arme,
 einst so verschwenderische Frauchen konnte unbelästigt durch
 fremde Neugier ihren trüben Gedanken nachhängen. —
 
-Patna mit seinen 140 000 Einwohnern liegt am rechten
+Patna mit seinen 140&nbsp;000 Einwohnern liegt am rechten
 Ufer des heiligen Ganges-Flusses in einer überaus fruchtbaren
 Ebene. Der Ganges strömt hier durch die Provinz Bengalen
 in der Hauptrichtung von West nach Ost, so daß die uralte
 Stadt mit ihren 30 Kilometer weit am Flusse sich hinziehenden
 Basarstraßen auf dem künstlich erhöhten südlichen Ufer sich erhebt.
 
-Die Eisenbahnlinie Betija-Patna endet deshalb auch eigentlich
+Die Eisenbahnlinie Betija—Patna endet deshalb auch eigentlich
 schon in dem Patna gegenüber liegenden Städtchen
 Hadschipur. Ein Fährschiff bringt den Zug jedoch über den
 Ganges bis nach Patna. Eine Brücke existiert hier nicht. Dazu
@@ -931,7 +931,7 @@ ja alles verderben —«
 Sie riß sich los. »Ich werde Edward schon allein zu bestimmen
 wissen, diesen Fehltritt wieder gutzumachen.«
 
-Sie rannte weiter. Die Anlagen in denen sich diese peinliche
+Sie rannte weiter. Die Anlagen, in denen sich diese peinliche
 Szene abspielte, gehörten zum Vorplatz des Gouverneurpalastes.
 Eingeborene, Soldaten und ein paar Europäer beobachteten
 uns. Ich kehrte ärgerlich um, setzte mich wieder
@@ -956,7 +956,7 @@ meinte er lächelnd. »Ich hab’s mir beinahe gedacht. Ja, ja,
 »Wo hast Du Deine Handtasche?« fragte ich.
 
 »Auf dem Hauptbahnhof in Verwahrung gegeben, nachdem
-ich mich im Waschraum etwas verändert hatte. Ich glaubte
+ich mich im Waschraum etwas verändert hatte. Ich glaubte,
 Bickpool oder Mautley würden vielleicht zur Ankunft des Betija-Zuges
 sich einfinden, um festzustellen, ob wir die Jagd
 schon begonnen hätten. Es war jedoch niemand dort. Viel
@@ -967,6 +967,7 @@ haben.«
 <@pagebreak/>
 Wir kannten Patna noch nicht, fragten also einen der
 sehr höflichen eingeborenen Polizisten nach dem Eden-Hotel.
+
 Er musterte uns erstaunt. Ich wußte nicht recht, weshalb.
 Er beschrieb uns den Weg. Wir waren bisher falsch gegangen
 und kamen wieder am Hauptbahnhof vorbei. — »Da kannst
@@ -976,7 +977,7 @@ Beeile Dich aber. Der Blick des Straßenpolizisten gefiel
 mir nicht. Dieses Eden-Hotel scheint eine üble Spelunke zu
 sein. Da tut man besser, unerkannt sich dort zunächst umzusehen.
 Der Polizist war doch offenbar sehr überrascht, daß
-zwei weiße Gentleman dorthin wollten. Wenn Edward Conning
+zwei weiße Gentlemen dorthin wollten. Wenn Edward Conning
 seine Frau in eine solche fragwürdige Art von Gasthaus
 bestellt, müssen notwendig so allerlei Befürchtungen wieder in
 uns aufleben. Aber — vorwärts, mein Alter. Klebe Dir einen
@@ -1001,7 +1002,7 @@ Eden-Hotel, sondern einzeln. In Abständen von hundert Meter.
 Das genügt. Ich werde dort nach Mr. Smith fragen und
 so tun, als hätte ich nicht ganz reinliche Geschäfte vor. Du bist
 dann Mr. Smith. Ich werde mich nötigenfalls als Parker
-dem Wirt vorstellen. Alles weitere findet sich an Ort und
+dem Wirt vorstellen. Alles Weitere findet sich an Ort und
 Stelle.« —
 
 Patna hat nur im sogenannten Regierungsviertel neue,
@@ -1044,7 +1045,7 @@ Mr. Parker-Harst brummte: »Ja — ich hab’ sie. Und wie
 steht’s mit der Bezahlung? Faule Aktien und so was — damit
 bleib’ mir vom Leibe. — Wie ist’s, Smith, nehmen wir ein
 Zimmer hier oder willst Du abends schon wieder zurück, weil’s
-hier so’n bißchen ungemütlich zur Zeit ist. Am Bahnhof
+hier so ’n bißchen ungemütlich zur Zeit ist. Am Bahnhof
 schnüffelten so ’n paar Geheime rum, die verdammte Brut!
 — Ist hier denn was passiert?« wandte er sich an den Chinesen,
 der verständnisinnig grinsend zugehört hatte.
@@ -1054,7 +1055,7 @@ geführt.
 
 Ich fragte nun auch sofort recht hastig: »Ja — was ist
 denn eigentlich in Patna los? Ich habe ebenfalls auf dem
-— Bahnhof Angst geschwitzt.« Dabei drückte ich die Handtasche,
+Bahnhof Angst geschwitzt.« Dabei drückte ich die Handtasche,
 <@pagebreak/>
 in der der Chinese fraglos jetzt weiß der Himmel was für
 Schätze vermutete, noch fester an mich.
@@ -1064,7 +1065,7 @@ Tuan — grinste noch immer. Wir hatten diese Szene soeben
 so erstklassig gespielt, daß selbst seine Gaunerseele überzeugt
 sein mußte, hier zwei oberfaule Ehrenmänner vor sich zu haben.
 Wenigstens gewann ich diesen Eindruck aus seinem
-Lächeln und seine Antwort schien dies zu bestätigen:
+Lächeln, und seine Antwort schien dies zu bestätigen:
 
 »Seien Sie vorsichtig. Selbst hier bei mir ist man jetzt
 nicht sicher.«
@@ -1128,7 +1129,7 @@ Stelle heran, wo der Chinese kniete. Und gleichzeitig schaute
 er mich in einer Weise an, die wie ein Warnungssignal wirkte.
 
 Ich war jetzt auf meiner Hut. Mir fiel plötzlich wieder
-ein, das ich ja vorhin eine Veränderung in Tuans Blick wahrzunehmen
+ein, daß ich ja vorhin eine Veränderung in Tuans Blick wahrzunehmen
 geglaubt hatte. Sollte Tuan wissen, wer wir waren?
 Sollte er nur so tun, als wüßte er es *nicht*?!
 
@@ -1207,7 +1208,7 @@ erwähnte absichtlich zwei Artisten, die uns an Sie empfohlen
 hätten. Ich wartete darauf, daß Sie sich eine Blöße gaben.
 Sie taten es. Sie schauten zu Boden, um mir nicht das Aufleuchten
 in Ihren Augen zu zeigen. — Zwei Artisten! Und
-Mautley und Bickpool waren früher Artisten. Sie aber Mr.
+Mautley und Bickpool waren früher Artisten. Sie aber, Mr.
 Tuan, sind Besitzer eines Varietee-Theaters, und dieses Varietee
 war die Brücke, die ich in Gedanken von den beiden
 <@pagebreak/>
@@ -1313,7 +1314,7 @@ Brand war dann in kurzem erstickt. Das Gemach hatte sich
 jedoch bereits so stark mit stinkenden Qualm gefüllt, daß mir
 die Augen tränten.
 
-Harsts Taschenlampe beleuchtete jetzt die Stelle wo Mautley
+Harsts Taschenlampe beleuchtete jetzt die Stelle, wo Mautley
 vorhin gesessen hat. Der Korbstuhl und auch das Rauchtischchen
 waren verschwunden.
 
@@ -1377,7 +1378,7 @@ Bild anschaut, von dem er Hilfe erhofft.
 Und — Harald lächelte jetzt! — Er — lächelte!
 
 Das Wasser stand jetzt schon so hoch, daß es uns bis an
-die Schenkel reichte.
+die Enkel<@refnote 2/> reichte.
 
 »Wir werden die Gnadenfrist für uns verlängern,« sagte
 Harald lebhaft. »Nimm das Bett dort auseinander. Wir
@@ -1394,7 +1395,7 @@ daß wir unseren Pfropfen festkeilen können! — Warte
 — ich klettere auf den Tisch. Halte die beiden Stützen bereit.«
 
 Sechs Versuche mißglückten. Beim siebenten gelang es.
-Der mit den Decken umhüllte Unterteil der Blechkanne,
+Der mit den Decken umhüllte Unterteil der Blechkanne
 schmiegte sich so gut in das Loch ein und saß so fest, daß jetzt
 nur einige fingerdicke Strahlen sich an dem Pfropfen vorbeidrängen
 konnten und mit großer Kraft überall umherspritzten.
@@ -1405,7 +1406,7 @@ stand.
 
 »So — jetzt haben wir mindestens fünf Stunden gewonnen,«
 lächelte Harald und klopfte mir auf die Schulter. Wir
-waren beide pudelnaß. »Und jetzt kommt Teil 2 des Progamms:
+waren beide pudelnaß. »Und jetzt kommt Teil 2 des Programms:
 der Ausbruch!«
 
 <h2>5. Kapitel.</h2>
@@ -1432,7 +1433,7 @@ die Schublade regelrecht aus dem Leim ging.
 
 Ich will mich nicht zu sehr bei Einzelheiten aufhalten.
 Jedenfalls stellten wir uns aus den Brettern handliche, spitze
-Werkzeuge her. Als wir erst einen der Ziegel zerstückelt hatten
+Werkzeuge her. Als wir erst einen der Ziegel zerstückelt hatten,
 war das Schwerste überstanden.
 
 Zehn Minuten drauf waren wir, längst wieder bartlos

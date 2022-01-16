@@ -30,7 +30,7 @@ gegangen? Hatte er noch etwas mit Frau Helene Tschong
 zu besprechen?
 
 Alles blieb still. Ich drückte sacht auf die Klinke. Die
-Verbindungstür war verriegelt. —
+Verbindungstür war verriegelt —!
 
 Was bedeutete das?! Harst schloß sich nie ein, wenn wir
 nebeneinander wohnten! Nie!
@@ -45,14 +45,14 @@ Da — meine Gedanken wurden abgelenkt: in Harsts Zimmer
 hatte das Scharnier eines Koffers leise gequietscht —!
 
 <@pagebreak/>
-Des Koffers?! Nun, da konnte nur unser Requisiten-Koffer
+Des Koffers?! Nun, da konnte nur unser Requisitenkoffer
 in Betracht kommen! Also: Harst dachte gar nicht daran,
 schlafen zu gehen, sondern — »machte Maske«!
 
 Ich lächelte. — Warte, diesmal entwischt Du mir nicht!
 
 Meine Müdigkeit war verflogen. In wenigen Minuten
-hatte ich mich wieder fertig angekleidet, nahm meinen Strohut,
+hatte ich mich wieder fertig angekleidet, nahm meinen Strohhut,
 öffnete lautlos die in unseren Wohnsalon führende Tür und
 gelangte dann ebenso lautlos in den Flur.
 
@@ -66,7 +66,7 @@ sehr würdigen Inder.
 
 »Die Mem Sahib ist nach der Stadt gefahren,« erklärte er.
 Er glaubte, ich wollte Frau Tschong sprechen. (Mem Sahib,
-Herrin).
+Herrin.)
 
 Ich bat ihn, Harst gegenüber zu verschweigen, daß ich die
 Villa verlassen hätte. — Ich ging dann auf Umwegen nach dem
@@ -163,7 +163,7 @@ Der Inder neben dem Chauffeur warf dabei mit kaum merklicher
 Handbewegung ein Papierkügelchen zwischen die Früchte.
 
 Der dürre Karrenbesitzer tat, als hätte er nichts davon gesehen.
-Aber er tat nur so. Seine Augen hatten nur einen
+Aber — er tat nur so. Seine Augen hatten nur einen
 Moment den Flug des Papierkügelchens belauert. Er rauchte
 ruhig seine Zigarette weiter, wandte aber beständig den Kopf
 bald hierhin, bald dorthin. Er mochte noch immer hoffen, Harst
@@ -198,7 +198,6 @@ Endlich gab er’s auf; setzte sich wieder auf den Karren und
 stierte nun fast stumpfsinnig vor sich hin.
 
 Nach einer Weile stellten sich die Sackträger bei ihm ein.
-
 <@pagebreak/>
 Die drei flüsterten, gestikulierten und — fingen von neuem zu
 suchen an!
@@ -257,7 +256,7 @@ Harst lag in seinem Bett und atmete tief und ruhig.
 <@pagebreak/>
 Ich stand in der halb geöffneten Tür und lauschte. Schlief
 Harald wirklich? Verstellte er sich nur? — Ich hüstelte. Er
-regte sich nicht. Und ich wußte Bescheid: er schlief nicht! Denn
+regte sich nicht. Und ich wußte Bescheid: er schlief *nicht*! Denn
 er wäre bei seinem leisen Schlaf durch das Räuspern sofort geweckt
 worden. Er wollte also nicht gestört sein.
 
@@ -301,7 +300,7 @@ Ja — das Papierkügelchen! — Ich zweifelte nicht im geringsten
 mehr: es war dasselbe, das mir schon vorhin so viele
 Rätsel aufgegeben hatte!
 
-Dasselbe! Alsso hatte Harst es irgendwie an sich gebracht!
+Dasselbe! Also hatte Harst es irgendwie an sich gebracht!
 
 Ich lächelte plötzlich. Ich dachte an die beiden kleinen braunen
 Spitzbuben, die das Obst mit hastigem Griff zusammengerafft
@@ -314,11 +313,11 @@ ganz andere Dinge fertiggebracht!
 <@pagebreak/>
 Diese Überzeugung, daß Harald jetzt fraglos bereits wieder
 irgend einer sich anspinnenden Schurkerei (denn was diese Gelben
-unternahmen, war ja zumeist eine gerissene Teufelei) auf
+unternahmen, war ja zumeist eine gerissene Teufelei!) auf
 die Spur gekommen sein mußte, beruhigte mich so sehr, daß ich
 dann in kurzem einschlief.
 
-»Bitte beeile Dich mit Deiner Toilette, mein Alter« sagte
+»Bitte beeile Dich mit Deiner Toilette, mein Alter,« sagte
 er und zog die Fenstervorhänge auf. »Sofort wird die Polizei
 hier sein. Um Deine Gedanken schleunigst aus dem Traumreich
 in die Wirklichkeit hinüberzulenken, will ich Dir nur mitteilen,
@@ -349,7 +348,7 @@ mit auf den Zettel gerichteten Augen.
 nicht zurückgekehrt,« erklärte er leise. »Natürlich steckt Kuma
 Tawi dahinter. Er war einer der beiden chinesischen Sackträger.«
 
-»Woher weit Du denn, daß Frau Tschong verschwunden
+»Woher weißt Du denn, daß Frau Tschong verschwunden
 ist?« fragte ich.
 
 »Der indische Hausmeister der Tschongs weckte mich vor einer
@@ -359,9 +358,9 @@ erzählte er mir dann, daß er soeben die Polizeidirektion telephonisch
 davon verständigt hätte, Frau Tschong sei aus einem
 kleinen Hotel am Hafen nicht wieder herausgekommen. Sie
 hatte dem Kutscher ihres eleganten Wagens befohlen, an der
-nächsten Straßenecke auf sie zu warten, sie würde in einer halben
+nächsten Straßenecke auf sie zu warten; sie würde in einer halben
 <@pagebreak/>
-Stunde spätestens wieder da sein. Als nun 2 ½ Stunden
+Stunde spätestens wieder da sein. Als nun 2½ Stunden
 verflossen waren, schickte der unruhig gewordene Kutscher, der
 seine Herrin im Hotel d’Angleterre hatte verschwinden sehen, einen
 Polizeibeamten in das betreffende Haus. Dieser kehrte
@@ -381,7 +380,7 @@ noch eine Fortsetzung haben würde, befürchtete ich bereits
 morgens, als wir hierher kamen und Frau Tschong das Geld
 brachten. Ich bemerkte nämlich auf der Straße nach Süden
 unweit der Villa zwei Chinesen, die ihre Rückenlast, vollgepackte
-Säcke, wie um sich auszuruhen auf die Bordschwelle gestellt
+Säcke, wie um sich auszuruhen, auf die Bordschwelle gestellt
 hatten. Die beiden standen mit dem Rücken nach der
 Parkpforte hin. Aber sie sahen trotzdem ganz genau, wer die
 Pforte passierte, — genau so, wie ich sah, daß der eine von
@@ -472,11 +471,11 @@ acht Jahre diese Stellung innehat und einen vorzüglichen
 Eindruck macht. — Eine meiner Fragen lautete: »Sahen
 Sie von der Straßenecke aus ein Geschäftsauto in der Nähe
 des Hotels halten, als Sie auf Ihre Herrin warteten?« —
-Und der Kutscher, ein Eurasier (Mischling zwischen Europäer
+Und der Kutscher, ein Eurasier, (Mischling zwischen Europäer
 und Inderin) antwortete: »Jawohl, Master Harst, nachdem
 ich eine Stunde etwa gewartet hatte, verließ ein Geschäftsauto,
 das jedoch keinen Firmennamen zeigte, die Hofeinfahrt des
-Hotels.« — Begreifst Du die Sache nun, mein Alter? Man
+Hotels«. — Begreifst Du die Sache nun, mein Alter? Man
 hat Frau Tschong dort in das Hotel gelockt, hat sie überfallen
 und — in dem Auto verschleppt. Die Papierkugel kann
 nur die Nachricht von dem geglückten Streich enthalten, bei
@@ -596,7 +595,7 @@ der Hausmeister geleitete den Inspektor dann hinunter.
 
 * * *
 
-Der Hausmeister hatte nun schon vorher gebeten, ganz
+Der Hausmeister hatte uns schon vorher gebeten, ganz
 zwanglos auch in Abwesenheit Frau Tschongs über die Villa
 und deren Dienerschaft zu verfügen. Wir begaben uns nun
 <@pagebreak/>
@@ -613,7 +612,7 @@ was für uns recht interessant war. Büngli betonte, daß
 Frau Helene Tschong sowohl bei der Dienerschaft und den Eingeborenen,
 als auch bei der Europäerkolonie Kalkuttas sehr
 beliebt sei. Ihre Ehe mit dem Edelsteinhändler sei die denkbar
-glücklichste und Frau Tschong würde wohl restlos zufrieden
+glücklichste. Und Frau Tschong würde wohl restlos zufrieden
 sein, wenn sie nicht so sehr um den Verlust ihrer Schwester
 trauerte, die vor zwei Jahren während der Überfahrt von
 Bremen nach Kalkutta tödlich verunglückte.
@@ -636,6 +635,7 @@ Rettungsboote fischten dann lediglich eine Ölkappe auf,
 die als Fräulein Mirzbach gehörig erkannt wurde. Sie selbst
 war ertrunken. Ihr Körper wurde nie gefunden, obwohl der
 Unglücksfall sich dicht vor der Hugli-Mündung ereignete.
+
 Harst hatte bisher still zugehört.
 
 »War damals denn starker Seegang?« fragte er jetzt.
@@ -691,7 +691,7 @@ monatelang aus, erschienen dann wieder. So geht das schon
 ein paar Jahre. Wir haben uns schließlich daran gewöhnt.«
 
 Pfara Donki flüsterte jetzt hastig: »Und in der verflossenen
-Nacht, etwa morgens um 4 Uhr kurz vor Tagesanbruch habe
+Nacht, etwa morgens um 4 Uhr kurz vor Tagesanbruch, habe
 ich das Licht abermals seit längerer Zeit gesehen. — Es gibt
 übrigens nur einen Schlüssel zu dem kleinen Häuschen, das
 aus den Resten eines verfallenen Hindutempelchens errichtet
@@ -706,7 +706,7 @@ und verbieten Sie den Dienern, fortan den hinteren Teil des
 Parkes zu betreten. Sagen Sie nur gleich, daß ich auf jeden
 Menschen schieße, der sich in der Nähe des Pavillons herumdrückt.«
 
-Um ½ 5 nachmittags gingen wir in unser neues Heim hinüber.
+Um ½5 nachmittags gingen wir in unser neues Heim hinüber.
 
 Der viereckige Raum war bereits als gemeinsames Schlafzimmer
 für uns hergerichtet. Nachdem Pfara Donki sich überzeugt
@@ -727,7 +727,7 @@ als Zugabe! — So, nun wollen wir uns ein wenig kostümieren.
 Ich werde ein älterer, würdiger Engländer werden und
 Du mein indischer Diener, auch schon gesetzteren Alters.«
 
-Um ½ 6 gelangten wir durch die hintere Parkpforte, deren
+Um ½6 gelangten wir durch die hintere Parkpforte, deren
 Schlüssel uns der Hausmeister aus eigenem Antrieb gegeben
 hatte, auf einen schmalen Fußweg, der zwischen Gärten eine
 Strecke entlanglief und schließlich dicht vor dem Maidan in eine
@@ -743,7 +743,7 @@ namens Meidinger. Es war peinlich sauber bei aller Einfachheit.
 Harst verstand es dann, den in Österreich bekannten
 Engländer zu spielen, begann über Wien zu sprechen und machte
 Meidinger schnell vertraulich. Dieser erzählte ihm schon in der
-Vorhalle, das er heute viel Ärger gehabt hätte. Die Polizei
+Vorhalle, daß er heute viel Ärger gehabt hätte. Die Polizei
 <@pagebreak/>
 suche eine Dame, die hier in seinem Hotel verschwunden sein
 solle, und das sei ein Unsinn.
@@ -774,7 +774,7 @@ den Nerven.«
 Hier gab er sich dem Wiener zu erkennen. »Wenn ich Sie
 für mitschuldig hielte,« erklärte er, »würde ich Mr. Steward
 geblieben sein. So aber arbeiten wir besser gemeinsam. Kann
-ich mir mal das Auto an sehen?«
+ich mir mal das Auto ansehen?«
 
 Wir gingen durch den Hinterausgang auf den langgestreckten
 Hof und in den Schuppen. Harst besichtigte die Gummireifen
@@ -809,7 +809,7 @@ schaute in den Nachbarhof hinab. Dann turnte er über die
 Mauer und verschwand.
 
 Wir mußten eine Viertelstunde warten, bevor wir Harald
-wieder erblickten. Aber er kam durch die Hofeinfahrt von
+wieder erblickten. Aber — er kam durch die Hofeinfahrt von
 der Straße her.
 
 »Na — dieser Teil der Sache ist nun geklärt,« sagte er mit
@@ -817,7 +817,7 @@ jener Lebhaftigkeit, die stets verriet, daß er dem Endziele recht
 nahe war. »Frau Tschong ist nie hier im Hotel gewesen. Der
 Kutscher hat nicht genau beobachten können, welches Haus seine
 Herrin betrat. Der Hoteleingang liegt an der linken Hausseite,
-und die Haustür der Baracke nebenan liegt rechts, also
+und die Haustür der Baracke nebenan liegt rechts; also
 beide Eingänge dicht nebeneinander. Da Frau Tschong dem
 Kutscher befahl, nach dem Angleterre-Hotel zu fahren, nahm
 dieser an, die Dame wäre auch ins Hotel eingebogen, während
@@ -840,14 +840,14 @@ Arbeit fertig.«
 »In das amerikanische Warenhaus, wo Frau Tschong zuletzt
 war, bevor sie dem Kutscher hierher zu fahren befahl. Ich
 nehme an, daß man ihr dort auf irgend eine Weise nahegelegt
-hat, das rote Haus neben dem d’Angleterre aufzusuchen. Vielleicht
+hat, das leere Haus neben dem d’Angleterre aufzusuchen. Vielleicht
 erinnert einer der Verkäufer sich, daß Frau Tschong von
 <@pagebreak/>
 jemand angesprochen wurde. — Leben Sie wohl, Herr Meidinger.
 Und — schweigen Sie!« —
 
 Wir machten uns zu Fuß nach dem Kaufhaus auf. Wir
-hatten nur fünf Minuten zu gehen. Es war jetzt ½ 7, und um
+hatten nur fünf Minuten zu gehen. Es war jetzt ½7, und um
 7 war Geschäftsschluß.
 
 Das Warenhaus, ein riesiger Neubau mit breitem Portal,
@@ -930,9 +930,9 @@ hatten Besuch bekommen!
 Wahrhaftig — im Sessel Harst gegenüber hatte kein anderer
 als unser Hausherr, der Edelsteinhändler, Platz genommen.
 
-Er erhob sich jetzt schnell, eilte mir entgegen rief:
+Er erhob sich jetzt schnell, eilte mir entgegen, rief:
 
-»Lieber Herr Schraut, welches Unheil. Meine Frau ist
+»Lieber Herr Schraut, welches Unheil! Meine Frau ist
 verschwunden!«
 
 Er reichte mir die Hand. Er sprach das Deutsche fast fehlerfrei.
@@ -1018,7 +1018,7 @@ Zigaretten rauchte.«
 
 »Und wo war Harst?«
 
-»Schon zu Hause: er kroch auf einen Lastwagen unter ein
+»Schon zu Hause; er kroch auf einen Lastwagen unter ein
 paar Bündel Heu und fuhr so an Ihnen vorüber. Er wußte
 eben, daß ich das Weitere erledigen würde und besser wie er,
 den Sie doch trotz der Verkleidung erkannt hatten.«
@@ -1047,7 +1047,7 @@ Morgen nicht mehr erleben. Im Hugli-River ist noch viel
 Platz für steinbeschwerte Säcke, in denen sich deutsche Schnüffler
 befinden, und die Krokodile wollen doch auch mal Europäerfleisch
 kosten. — Ja — ich werde mir jetzt sogar noch die
-810 000 Mark holen, die Sie mir gestern abjagten. Ich weiß
+810&nbsp;000 Mark holen, die Sie mir gestern abjagten. Ich weiß
 in der Villa meines Bruders Bescheid. Frau Helene hat das
 Geld sicher in das Geheimfach im Arbeitszimmer Tschongs
 <@pagebreak/>
@@ -1058,7 +1058,7 @@ vorreden, wir seien Harst und Schraut und wir wollten nur
 mal die Zimmer durchsuchen. Ich wette, wir haben das Geld in
 spätestens einer Stunde. Dann nehmen wir Sie beide mit und
 — bereiten den Hugli-Krokodilen eine kleine Freude. — Was
-sagen Sie zu dem Plänchen Herr Harald Harst, Überdetektiv
+sagen Sie zu dem Plänchen, Herr Harald Harst, Überdetektiv
 auf dem — Aussterbeetat?«
 
 »Es wird gelingen. Der Hausmeister wird sich täuschen
@@ -1074,7 +1074,7 @@ führten. Sie waren der Geist, den die Dienerschaft Tschongs
 fürchtet. Es muß hier einen unterirdischen Gang noch aus den
 Zeiten des alten Hindutempels geben. Mit Hilfe dieses Ganges
 und einer Geheimtür konnten Sie dieses Quartier unbemerkt
-verlassen und betreten und auf diese Weise haben Sie
+verlassen und betreten, und auf diese Weise haben Sie
 sich in unserer Abwesenheit hier auch eingeschlichen, sahen unsere
 Koffer und die Betten und merkten zu Ihrer Freude, daß
 Schraut und ich hier logieren wollten. Dann verbargen Sie
@@ -1094,11 +1094,12 @@ Inder der reicheren Stände in die Halle zurück. Die Masken
 waren tadellos. — Kuma Tawi untersuchte unsere Fesseln,
 die aus Stricken bestanden, die aus Pferdehaaren gedreht waren
 — also unzerreißbar. Auch ich erhielt jetzt einen Knebel.
-Dann rückte man die Sessel mit dem Rücken aneinander und
+Dann rückte man die Sessel mit dem Rücken aneinander, und
 San Pio wickelte eine Pferdehaarschnur mehrfach um unsere
 <@pagebreak/>
 Hälse. Wenn wir jetzt die Sessel umgekippt hätten, würden
 wir uns der Gefahr ausgesetzt haben, uns selbst zu erwürgen.
+
 Diese Stellung der Korbsessel war schlau durchdacht. Die
 Schnur um unsere Hälse machte uns völlig wehrlos.
 
@@ -1142,7 +1143,7 @@ rüttelte er nur an dem Knoten, ließ wieder los, wiederholte das
 mehrmals, bis ich ihn endlich verstand: ich sollte ihm die Hände
 freimachen!
 
-Und ich versuchte es. — Wir husteten, krächzten abwechselnd.
+Und ich versuchte es. — Wir hüstelten, krächzten abwechselnd.
 Unser Wächter lachte schadenfroh. Und diese Geräusche
 <@pagebreak/>
 übertönten das Knistern der Korbsessel, wenn wir die Arme zu stark
@@ -1150,7 +1151,7 @@ bewegten.
 
 Dann — der Knoten war gelöst! Ich wickelte noch die
 Schnur ab. Harst hatte die Hände zur Verfügung. Ich atmete
-auf. Ich wußte: bald würden wir die Sieger sein!
+auf. Ich wußte: bald würden *wir* die Sieger sein!
 
 Harst rutschte jetzt sehr auffällig auf seinem Stuhle hin
 und her. Der Gelbe fiel prompt darauf herein, stand auf,
@@ -1187,9 +1188,9 @@ bärtiges, geschminktes Gesicht.
 
 Ich nahm zuerst Kuma Tawi vor. Er wurde an den einen
 Sessel gefesselt, San Pio an den anderen. — Die beiden
-kannten Harst, wußten daß er nie vorbeischoß.
+kannten Harst, wußten, daß er nie vorbeischoß.
 
-»So,« meinte Harald nun. »Jetzt wollen wir Ihnen die
+»So,« meinte Harald nun, »jetzt wollen wir Ihnen die
 Freude machen, zusehen zu dürfen, wie wir eine rote Ziffernschrift
 enträtseln.« Er rückte den Tisch so, daß die drei Verbrecher
 auf der einen Längsseite saßen, wir auf der anderen.
@@ -1204,6 +1205,7 @@ als Papierkugel gefunden,« sagte Harst so nebenbei.
 <@pagebreak/>
 Kuma Tawis Augen waren ganz weit aufgerissen — vor
 Angst! Schweißperlen erschienen auf seiner Stirn.
+
 Harst deutete jetzt auf den Zettel. »Lieber Alter, sieh Dir
 mal die Zahlen genau an. Es sind:
 
@@ -1214,7 +1216,7 @@ die die Ziffernreihe enthält. Dann — und dies ist ebenfalls
 sehr wichtig — kannst Du, wenn Du die Ziffern zum Teil zu
 zweien gruppierst, zweimal die Zahl 26 finden. Und — 26
 Buchstaben hat das Alphabet! Das mag ein Zufall sein. Ich
-glaube es aber nicht und will daher mal das Alphabet aufschreiben
+glaube es aber nicht, und will daher mal das Alphabet aufschreiben
 und die Buchstaben numerieren. So —«
 
 <table style="border-style: none; border-spacing: 0; padding: 1; text-align: center;">
@@ -1226,16 +1228,16 @@ und die Buchstaben numerieren. So —«
 
 »Wenn wir nun anstelle der beiden 26 den Buchstaben Z
 setzen, so können wir auch gleich die beiden ersten Ziffern 7 und
-9 durch die Buchstaben ergänzen, was dann so aussieht: G J
+9 durch die Buchstaben ergänzen, was dann so aussieht: G I
 Z 23 Z — usw. Diese 23 hinter dem ersten Z kann nun sein
 entweder 9 und 3 oder 23, also entweder B C oder W — Fügen
-wir mal versuchsweise beides ein — G Z Z B C und G J
-Z W worauf dann beide Male das zweite Z folgen würde.
+wir mal versuchsweise beides ein — G Z Z B C und G I
+Z W, worauf dann beide Male das zweite Z folgen würde.
 Das aber ergibt keinen Sinn. — Nehmen wir nun die durch die
 Dreieckspitze gekennzeichnete 7 zu Hilfe. Mit dieser Zahl muß
 es ja eine besondere Bewandtnis haben. Sie entspricht dem
 Buchstaben G. Mit diesem G haben wir kein Glück gehabt, wie
-das G J Z B C Z beweist. Drehen wir also den Spieß um und
+das G I Z B C Z beweist. Drehen wir also den Spieß um und
 zählen wir im Alphabet den siebenten Buchstaben von hinten ab.
 Dann haben wir T. Machen wir’s genau so mit den andern.
 Nun sieht die Sache schon vernünftiger aus:
@@ -1257,7 +1259,7 @@ Der Bruder des Edelsteinhändlers schaute vor sich hin.
 Sein Gesicht war förmlich erstarrt. Auch die beiden anderen
 stierten an uns vorbei.
 
-Harald lächelte »Ihre Mienen besagen genug. Trawalkor
+Harald lächelte. »Ihre Mienen besagen genug. Trawalkor
 ist der Ort, wohin Frau Tschong gebracht wurde.«
 
 Da fuhr Kuma Tawis Kopf in die Höhe. »Suchen Sie doch
@@ -1328,7 +1330,7 @@ sei ihnen dann allein in einem Personenauto gefolgt. Das
 sei alles, was er wisse. Die beiden Inder kenne er persönlich
 nicht. Es dürften aber wohl Leute aus Trawalkor sein. — Er
 zeigte uns dann noch die Geheimtür im Fußboden der Halle und
-erklärte der unterirdische Gang münde 200 Meter weiter nach
+erklärte, der unterirdische Gang münde 200 Meter weiter nach
 Westen in den Ruinen eines anderen kleinen Hindutempels.
 — Auf Harsts Bitte ließ Blosley den Kerl dann laufen. Wir
 drei aber und noch ein Geheimpolizist machten uns nun auf
@@ -1337,11 +1339,11 @@ den Weg nach Trawalkor.
 Dieses Miniatur-Fürstentum liegt östlich von Kalkutta.
 Die Straße dorthin war in leidlich gutem Zustand. Unser
 Auto schaffte die zwei Meilen in weniger als zwanzig Minuten,
-hielt genau um ½ 9 abends vor dem Polizeigebäude der Residenz,
+hielt genau um ½9 abends vor dem Polizeigebäude der Residenz,
 wo uns der dortige Polizeidirektor, ein Engländer namens
 Champlay, nach Anhören des Sachverhalts bedeutete, es
 sei ganz ausgeschlossen, daß hier in der Stadt mit ihren nur
-10 000 Einwohnern zwei Europäerinnen gefangengehalten
+10&nbsp;000 Einwohnern zwei Europäerinnen gefangengehalten
 würden. — Harst behauptete nämlich, auch Fräulein Mirzbach
 müsse sich hier befinden, was Champlay ungläubig belächelte.
 
@@ -1410,7 +1412,7 @@ werden wir mit Helene beraten, wie wir am besten die Öffentlichkeit
 darüber aufklären, daß Du noch am Leben, daß Du
 mir verziehen und mich lieben gelernt hast und nun mein angebetetes
 Weib werden willst. Kuma Tawi wird Helene schon
-sicher hierher geleiten. Er hat das Geld bereits erhalten und er
+sicher hierher geleiten. Er hat das Geld bereits erhalten, und er
 ist schlau.« Er streichelte ihre zarten Hände, fuhr fort: »In
 dieser Beziehung müssen wir Deine Krankheit beinahe segnen,
 da sie es gewesen, die uns nun endlich zu dem Entschluß kommen
@@ -1438,7 +1440,7 @@ bürgt Ihnen für die Wahrheit meiner Worte. Ich bin der Liebhaberdetektiv
 Harald Harst.«
 
 Gleich darauf stellte uns Vinzelle seine Braut, Fräulein
-Anna Mirzbach vor. Wir erfuhren nun die abenteuerliche
+Anna Mirzbach, vor. Wir erfuhren nun die abenteuerliche
 Geschichte dieser Liebe, die bei Vinzelle auf dem Dampfer begonnen
 hatte, der Anna Mirzbach nach Kalkutta geführt hatte.
 Vinzelle war in seiner tollen Leidenschaft, die die Geliebte damals
