@@ -12,7 +12,7 @@ Kognak die Folgen einer so schweren Betäubung, wie
 wir sie hatten durchmachen müssen, nicht beseitigen kann.
 Außerdem galt es ja auch, einwandfrei festzustellen, wohin
 sich Dardero, der Chinese Singlu und Felizitas Falk geflüchtet
-hatten. Und — die, Hauptsache: es war unsere
+hatten. Und — die Hauptsache: es war unsere
 Pflicht, dem Verbleib des Kollegen Rutar nachzuforschen.
 Auch galt es, den Kommerzienrat vorsichtig und zartfühlend
 darauf vorzubereiten, daß seine Adoptivtochter von dem Mexikaner
@@ -34,7 +34,7 @@ als »Felizitas« war sie niemals an der Pforte erschienen!
 Und gerade das war Harald aufgefallen … Gerade das
 hatte ihn schon in Berlin bei Rutars Schilderung der nächtlichen
 Vorgänge stutzig gemacht … So war sein erster
-Verdacht gegen die jung Dame entstanden … Und dieser
+Verdacht gegen die junge Dame entstanden … Und dieser
 <@pagebreak/>
 Verdacht war dann bereits bei uns daheim durch das Chuala-Parfüm
 im Schlafzimmer zur Gewißheit geworden.
@@ -150,9 +150,9 @@ An die Stimme — an den Schrei …
 Denn die Stimme war uns nicht fremd gewesen …
 Es war … Winfried von Rutars Stimme …
 
-Und der alte Seebär meinte dann: »Wir war’s doch
+Und der alte Seebär meinte dann: »Mir war’s doch
 so, als ob ich einen Schrei gehört hätte … Haben Sie
-denn nichts Derartiges vernommen, Mr… Harst?!«
+denn nichts Derartiges vernommen, Mr. Harst?!«
 
 Harald schüttelte den Kopf … »Eine Möwe, Sollerby
 … Nur eine Möwe …! Was sonst wohl?!«
@@ -209,7 +209,7 @@ Unser Kutter lag jetzt also in der großen Bucht vertäut
 Learat nach vorn in ihre kleine Kabine schickte …
 
 »Schlafen Sie sich aus,« meinte er … »Bei diesem Nebel
-Können wir doch nichts unternehmen …«
+können wir doch nichts unternehmen …«
 
 Unsere Gefährten ließen sich das nicht zweimal sagen
 und verschwanden.
@@ -416,7 +416,7 @@ hineingekritzelt — kaum lesbar …
 
 Harst buchstabiert, rät die Hälfte:
 
-> »Wer dies findet, Nachtlicht an Detektiv Harst, Berlin,
+> »Wer dies findet, Nachricht an Detektiv Harst, Berlin,
 — Harald Harst … Dardero und andere hier auf Insel
 … Mein Segelboot durch Sturm an Klippen zerschellt
 <@pagebreak/>
@@ -631,7 +631,7 @@ Dann trat Felizitas Falk in ihrem schmalen Nachen
 zwei Schritt nach vorn. Gleichzeitig hatte Harst sich wieder
 aufgerichtet …
 
-Und — — — griff abermals zu … Brutal gegenüber einem
+Und — — griff abermals zu … Brutal gegenüber einem
 Weibe … Notwendig in dieser Lage …
 
 Ein halb erstickter Ausruf …:
@@ -644,7 +644,7 @@ Dann war sie wehrlos, rang nach Atem, wurde emporgehoben
 Ich nahm sie in Empfang, hatte schon mein Taschentuch
 zum Knebel geschlungen …
 
-Der Schrei lähmte das Weib … Für uns zum Glück
+Der Schreck lähmte das Weib … Für uns zum Glück
 … Mit uns hatte sie nicht gerechnet … Sie war gefesselt,
 geknebelt, bevor sie noch recht wußte, was geschah.
 
@@ -865,7 +865,7 @@ Harald winkte …
 Unser Boot glitt nach Süden am Inselgestade hin, bog in
 einen engen Wasserlauf ein, auch eine Bucht, kaum drei
 Meter breit … Zwei kurze Biegungen — und wir sahen
-eine steile Geröllhalde vor uns. Hier zogen wir daß Boot an
+eine steile Geröllhalde vor uns. Hier zogen wir das Boot an
 Land und verbargen es zwischen größeren Steinblöcken … —
 
 Es war inzwischen sieben Uhr geworden …
@@ -878,7 +878,7 @@ Beeilten uns …
 Ich ahnte, was kommen würde …
 
 Wir krochen wie Karl Mays berühmte Westmänner …
-Jede Deckung benutzen wir … Wir machten Umwege …
+Jede Deckung benutzten wir … Wir machten Umwege …
 
 <@pagebreak/>
 Liefen, wenn wir in einer Mulde waren … Krochen dann
@@ -923,7 +923,7 @@ Ein dumpfes Grollen kam von fernher … Die Sonne
 tauchte hinter Wolken unter … Der Wind schlief ein.
 Nur die Schwüle blieb …
 
-Im Westen zog ein Gewitter — auf … Noch war es
+Im Westen zog ein Gewitter auf … Noch war es
 <@pagebreak/>
 taghell … Aber diese Helle hatte etwas Fahles, Unnatürliches
 … Man spürte die Elektrizität der Luft in den Nerven.
@@ -1024,7 +1024,7 @@ Gestein?! — Nein — jetzt erkannte ich, was es war …
 
 Ein ungeheures Tor — zwei ungeheure Torflügel, hergestellt
 aus Baumstämmen, benagelt mit dünnen Steinplatten.
-Und deshalb die Riffe dort, deshalb hob sich die eine
+Und deshalb die Risse dort, deshalb hob sich die eine
 gekerbte Stelle dort so scharf von der Umgebung ab …
 
 Ein Tor, das vielleicht zehn Meter hoch war, gut zwanzig
@@ -1163,10 +1163,10 @@ Bord … Solchem Unwetter ist der Kutter nicht gewachsen.
 Wir haben das Floß inzwischen umrundet … Schießen
 an dem Schleppdampfer vorüber …
 
-Ein seines Loch in den schwarzen Vorhängen des Himmels
+Ein fernes Loch in den schwarzen Vorhängen des Himmels
 läßt Dämmerlicht hindurch …
 
-An Wehr des Schleppers fünf — sechs Gestalten …
+An Deck des Schleppers fünf — sechs Gestalten …
 Ein Weib darunter …
 
 Die Schufte schießen, haben Gewehre … Eine Kugel
@@ -1332,7 +1332,7 @@ warf Harald ein.
 »Ja … Dardero als Steward, Singlu als Koch …
 Wie gesagt, — wir hatten prächtiges Wetter … Das Floß
 besaß zwei Masten und zwei Segel. Bei günstigem Wind
-halfen die Segel, erleichterten die Arbeit des Schleppers,
+halfen die Segel, erleichterten die Arbeit des Schleppers.
 Meine Tiere waren in ihren Käfigen hinter der Blockhütte
 gut untergebracht. — Als wir zehn Tage unterwegs waren,
 meuterte die Mannschaft. Dardero hatte sie aufgehetzt, hatte
@@ -1340,7 +1340,7 @@ ihnen hohen Lohn versprochen. Aber der Kapitän und der
 Steuermann hatten wohl Verdacht geschöpft, knallten fünf
 der Burschen nieder, bevor man sie mit eingeschlagenen
 Schädeln in die See schleuderte … — Mich ließen die
-Kerle in Ruhe. Ich hatte mit gut mit allen gestanden …
+Kerle in Ruhe. Ich hatte mich gut mit allen gestanden …
 Außerdem fürchteten sie wohl auch meine fünf Bestien …«
 
 »Und dann wurde das Floß hier nach Göstöla geschleppt?«
@@ -1459,7 +1459,7 @@ entdeckt habe … trotz des Nebels …«
 <@pagebreak/>
 »Allerdings …«
 
-Nun — — die Felswände der Bucht waren überall ziemlich
+Nun — die Felswände der Bucht waren überall ziemlich
 glatt … Nur an der einen Stelle sah man die Risse
 … Als ich mit dem Nachen, als Felizitas zur Not verkleidet,
 dort entlang ruderte, kratzte ich mit dem Fingernagel
@@ -1475,7 +1475,7 @@ Learat nickte …
 Haralds Gesicht … »Ölfarbe — ja, — so mußten Sie
 wohl darauf kommen, daß … es künstliche Felswand war …
 Ich … ich möchte gerade Ihnen, Herr Harst, der Sie doch
-so leicht dunkle Geschehnisse aufbrechen, gelegentlich etwas
+so leicht dunkle Geschehnisse aufdecken, gelegentlich etwas
 von einem alten Schloß in Schottland erzählen — etwas,
 das noch kein Mensch aufgeklärt hat … gelegentlich …
 Jetzt werden wir uns wohl alle erst einmal ausschlafen …«

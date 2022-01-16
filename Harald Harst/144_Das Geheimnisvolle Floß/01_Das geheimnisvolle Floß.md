@@ -103,7 +103,7 @@ geradezu köstlich duftete …
 Die Sache Falk hat Zeit … — Ich möchte nur wissen, wer
 ihn zweimal beim Vornamen rief, ihn also von hier …«
 
-Mathilde wie immer recht geräuschvolles Erscheinen
+Mathildes wie immer recht geräuschvolles Erscheinen
 zwang ihn, den Satz nicht zu beenden.
 
 Die dicke Köchin rief:
@@ -233,7 +233,7 @@ Besuch abzustatten. Dieser Fall hat sich jetzt ereignet.
 <@pagebreak/>
 Vorgestern und gestern mußten wir leider melden, daß
 dem durch seine Wohltätigkeit und seinen Kunstsinn bestens
-bekannten Kommerzienrats Justus Falk durch Einbrecher
+bekannten Kommerzienrate Justus Falk durch Einbrecher
 überaus wertvolle Kostbarkeiten und Kunstgegenstände
 gestohlen worden sind. In der verflossenen
 Nacht haben die Diebe sich auf genau demselben Wege
@@ -250,7 +250,7 @@ Balkon nur vorgetäuscht sei. Jetzt steht einwandfrei fest,
 daß die Einbrecher vom Gartenzaun an durch die Baumwipfel
 ihren Weg genommen haben, indem sie lange Stangen
 von Baumkrone zu Baumkrone legten. Die hierzu
-benutzen langen Stangen stammten von einem nahen
+benutzten langen Stangen stammten von einem nahen
 Neubau. Der anfängliche Verdacht der Kriminalpolizei
 hatte sich gegen einen der Hausangestellten gerichtet, ist
 nun jedoch völlig hinfällig geworden. Zweifellos waren
@@ -304,7 +304,7 @@ wurde so dunkel, daß Harst die Fenstervorhänge zuzog und
 das elektrische Licht einschaltete.
 
 Harst hatte ihm gegenüber Platz genommen und ihm die
-Silberschale mit Zigaretten hin geschoben …
+Silberschale mit Zigaretten hingeschoben …
 
 »Bedienen Sie sich nur, Herr Schmiedeck … Sie sind
 leidenschaftlicher Zigarettenraucher … Ihr Blick nach der
@@ -361,7 +361,7 @@ was ich hier mit … dem Ausdruck »seltsame Dinge« bezeichnete
 
 Er rauchte hastig ein paar Züge …
 
-Dann: …
+Dann:
 
 »Ich will erzählen, Herr Harst, ganz kurz … Die Garage
 der Villa liegt jenseits der Waldstraße, dem Villengrundstück
@@ -459,7 +459,7 @@ Villa her?«
 
 <@pagebreak/>
 »Ja — und das ist auch mir aufgefallen, Herr Harst
-… Zweimal habe im den Gärtner in dieser Weise belauscht.
+… Zweimal habe ich den Gärtner in dieser Weise belauscht.
 Beide Male erschien er von der Villa her und kehrte auch
 dorthin zurück. Ich nehme an, er hat Herrn Falk etwas
 gemeldet, was die Asiaten ihm im Vorübergehen zugeflüstert
@@ -642,7 +642,7 @@ Und — er hatte doch in keiner Weise bestritten, daß das
 Parfüm von ihm stammte …! —
 
 Ein längeres Schweigen entstand. Jeder von uns dreien
-hing seine eigenen Gedanken nach …
+hing seinen eigenen Gedanken nach …
 
 Bis Harst sich erhob und zum Schreibtisch ging …
 Den Hörer vom Fernsprecher nahm und im Verzeichnis der
@@ -920,7 +920,7 @@ Ich winkte … Er kam … Rasch den Zettel ihm gereicht,
 rasch geraunt, was ihm die Herkunft der Nachricht
 erklären sollte …
 
-Er las … zerriß das Papier ;…
+Er las … zerriß das Papier …
 
 Meinte leise: »Der alte Herr?! — Grüße ihn von
 mir … Es ist ein Kollege … Es ist der Gast, es ist der
@@ -948,7 +948,7 @@ Bronzegesicht, Brille, — sehr harmlos … Und zweimal
 kam ich auch an der grauhaarigen Verschleierten vorüber.
 
 <@pagebreak/>
-Sie trug einen langen Seidenmantel, war stand, fast zierlich
+Sie trug einen langen Seidenmantel, war schlank, fast zierlich
 … beachtete mich scheinbar nicht …
 
 Der Kollege war wie weggeblasen. Natürlich hatte er
@@ -1071,7 +1071,7 @@ Und geht hastig davon …
 Wir sind in einer breiten Straße … Ich kenne Bamberg,
 nicht … Der Kollege meint:
 
-»Übrigens heiße im Winfried von Rutar, Herr Schraut
+»Übrigens heiße ich Winfried von Rutar, Herr Schraut
 … Mecklenburger … Kleinere Ausgabe eines Odysseus …
 Habe mich überall in der Welt umhergetrieben — war alles,
 nur noch nicht im Gefängnis …« —
@@ -1129,7 +1129,7 @@ sich in Felizitas Falk, die im übrigen auch nur ein adoptiertes
 Kind war. — Was er dann beobachtete, ist bekannt:
 die beiden Asiaten, die mit allen Bewohnern der Wannsee-Villa
 heimlich sich am Gittertor trafen, mit einer Ausnahme:
-Felizitas Falk?!
+Felizitas Falk!
 
 Das war’s, was der Landsmann und Kollege uns erzählte
 …
@@ -1433,12 +1433,12 @@ Vom Diwan her ein schrilles Lachen …
 
 Das letzte, was ich höre … —
 
-Und — — ein Schrei weckt …
+Und — — ein Schrei weckt mich …
 
 Ein gellender Schrei, — nachdem der Stoß mit einem
 Besen mich ins Gesicht getroffen hat …
 
-Ein Besen, mit dem ein Stubenmädchen Frau Liebemühl
+Ein Besen, mit dem ein Stubenmädchen Frau Liebemühls
 <@pagebreak/>
 am anderen Morgen unter dem Diwan den Staub fortkehren
 will …
@@ -1486,7 +1486,7 @@ Dann ist er ausgegangen …
 Harst sagt zu mir: »Dardero hat ihn geschnappt —
 wie uns!!« — —
 
-Und hiermit schließe im den ersten Teil des geheimnisvollen
+Und hiermit schließe ich den ersten Teil des geheimnisvollen
 Floßes …
 
 
