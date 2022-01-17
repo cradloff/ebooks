@@ -1404,7 +1404,7 @@ daß wir dem Manne am Brunnenbalken mehr Beachtung
 schenkten als Ihnen lieb sein konnte, haben Sie sich überzeugen
 wollen, ob unser Interesse für den Toten rege genug
 sei, nochmals nach der Ruine zurückzukehren … — Kurz,
-Sie wußten, daß wir jetzt in der Tempellhalle übernachteten
+Sie wußten, daß wir jetzt in der Tempelhalle übernachteten
 … Ihre Spione mögen auch belauscht haben, daß wir …
 — Doch nein, ich will nicht zu ehrlich sein, Rani Raßmalar.
 Das ist Ihnen gegenüber kaum angebracht. Sie sollen im
@@ -2389,11 +2389,11 @@ pfeife …
 <h2>3. Kapitel.</h2>
 <h3>Der Gefangene der Rani.</h3>
 
-Der Mond lugt über: die Talränder … Sein blasser
+Der Mond lugt über die Talränder … Sein blasser
 Schein kriecht am Boden vorwärts …
 
-Ich bin nicht mehr müde … Ich weiß recht, was in der
-nächsten Stunde für uns aus dem Spiele steht …
+Ich bin nicht mehr müde … Ich weiß jetzt, was in der
+nächsten Stunde für uns auf dem Spiele steht …
 
 Seltsam ist’s, wie die Aussicht auf eine abenteuerliche
 Rettung dem Geist zum Siege über den Körper verhilft …
@@ -2402,26 +2402,26 @@ Der Mondschein kriecht …
 
 Erreicht die Kobras …
 
-Nun — beginnt das Spiel
+Nun — beginnt das Spiel …
 
 Harald schiebt den rechten Fuß vor, läßt die eine Kobra,
-öde am weitesten links, zuschnappen …
+die am weitesten links, zuschnappen …
 
 Stellt fest, bis zu welchem Punkt die Kobra mit dem
 Maule reicht …
 
-Und schiebt den Fritz wieder vor — bis zu diesem Punkt
+Und schiebt den Fuß wieder vor — bis zu diesem Punkt
 — ganz wenig über ihn hinaus …
 
-Das Reptil schnellt vorwärts, beißt in die Stiesel-spie
+Das Reptil schnellt vorwärts, beißt in die Stiefelspitze
 …
 
 Harst — ein Ruck …
 
-Die beiden Giftzähne stehen im Leder der Vorderkappe
+Die beiden Giftzähne stecken im Leder der Vorderkappe
 …
 
-Harald entfernt sie mit ’ der Sohle des anderen
+Harald entfernt sie mit der Sohle des anderen
 Stiefels … —
 
 Und das Spiel geht weiter …
@@ -2429,33 +2429,33 @@ Und das Spiel geht weiter …
 Kobra Nummer zwei kommt an die Reihe …
 
 Im Mondlicht sehen wir, daß diesmal nur ein Zahn
-im Felsenrande stet …
+im Sohlenrande steckt …
 
 Also — nochmals …
 
 Aber die Kobra ist ängstlich geworden. Der Verlust
-der einen ihrer beiden Gistwassen hat sie gewarnt …
+der einen ihrer beiden Giftwaffen hat sie gewarnt …
 
-Harst muß sie rotten …
+Harst muß sie reizen …
 
 Wagt sich mit dem Fuß weiter vor …
 
-Ein Spiel um- Leben …
+Ein Spiel ums Leben …
 
 <@pagebreak/>
-Denn — falls die BrillenschOlange in die nicht durch
-Leder geschübzten Teile des Beines beißt, ist die Bandit
+Denn — falls die Brillenschlange in die nicht durch
+Leder geschützten Teile des Beines beißt, ist die Partie
 verloren …
 
 Harald gewinnt …
 
-Fall Die Kobra s[Schnappt — und verliert den zweiten
-Ahn … —
+Die Kobra schnappt — und verliert den zweiten
+Zahn … —
 
 Vorläufig bin ich nur Zuschauer …
 
 Einer, dem es bei alledem wiederholt eiskalt über den
-Rücken läuft, dem kalter Schweiß aus der Stirn steht …
+Rücken läuft, dem kalter Schweiß auf der Stirn steht …
 
 Kobra Nummer drei … Hier gelingt’s wieder auf
 Anhieb …
@@ -2463,10 +2463,10 @@ Anhieb …
 Und jetzt soll ich das Spiel fortsetzen …
 
 denn Harst erreicht die beiden anderen Reptile nicht
-mehr … einst von diesen hat nur noch einen Giftzahn …
+mehr … Eines von diesen hat nur noch einen Giftzahn …
 
 Ich bin nur Nachahmer der Taktik des Freundes. Leider
-ein weit weniger gewandter —. Mein Lord … Bäuchlein
+ein weit weniger gewandter … Mein verd… Bäuchlein
 behindert mich …
 
 Viermal gelingt’s vorbei …
@@ -2474,42 +2474,42 @@ Viermal gelingt’s vorbei …
 Dann endlich: meine erste Kobra ist erledigt, hat auch
 den zweiten Giftzahn eingebüßt …
 
-Boot der anderen geht es rascher «…« Das beißt: sie
+Bei der anderen geht es rascher … Das heißt: sie
 schnappt zu — — und hätte beinahe meine Achillesferse
-frisch, — die Stelle, wo die Wickelgamasche sich
-den wdailbschuh schmiegt …
+erwischt, — die Stelle, wo die Wickelgamasche sich über
+den Halbschuh schmiegt …
 
 Beinahe …
 
-Tue List den Lederschnürsenkel — die Schlosse oben …
+Sie trifft den Lederschnürsenkel — die Schleife oben …
 
-Die Bäume hängen in dem Lederstreifen …
+Die Zähne hängen in dem Lederstreifen …
 
 Ich bin blaß geworden …
 
-»beinahe, mein Alter …!!« —« und Harst aimett
-tief aus…
+»beinahe, mein Alter …!!« —« und Harst atmet
+tief auf …
 
-unser giftigen Wächter sind jetzt nicht mehr wert als
-bkarmlose Blindschleichen …
+Unsere giftigen Wächter sind jetzt nicht mehr wert als
+harmlose Blindschleichen …
 
 Harald flüstert:
 
-»Tun der Pfahl …! Unsere Hände berühren die
-Ende … Hilf mir, den Pfahl zu locken … Wühle die
-Erde wir …«
+»Nun der Pfahl …! Unsere Hände berühren die
+Erde … Hilf mir, den Pfahl zu lockern … Wühle die
+Erde auf …«
 
 <@pagebreak/>
 Es geht …
 
-Die Ernährt spitzen sind in den Zelten verschwunden
-Nur ein einzelner Wächter gibt bei den Dromvdaren um
-lohenden jener … der Tiger und Panther wegen …
+Die Gwali drüben sind in den Zelten verschwunden …
+Nur ein einzelner Wächter sitzt bei den Dromedaren um
+lohenden Feuer … der Tiger und Panther wegen …
 
 Wir wühlen …
 
 Drehen die gefesselten Unterarme, schieben die Schleifen
-der Riemen am Blinkte tiefer …
+der Riemen am Pfahle tiefer …
 
 Er lockert sich … Wir strecken getrost die Beine lang …
 Die Kobras liegen still … Arme Kreaturen!
@@ -2518,20 +2518,20 @@ Dann heben wir ihn heraus — langsam — allmählich …
 
 Haben mehr Bewegungsfreiheit …
 
-Not) ein paar Minuten …
+Noch ein paar Minuten …
 
-Harst spricht die Riemen auf …
+Harst knotet die Riemen auf …
 
 Auch ich werde die Fesseln los …
 
-Wir schieben den Pfahl wieder in das Tote und sitzen
+Wir schieben den Pfahl wieder in das Loch und sitzen
 still, als ob sich nichts geändert hätte …
 
 »Der Mond wird sehr bald den Schatten der Zeltspitze
-über uns weiter …« flüstert Harst … »Dann kann
+über uns werfen …« flüstert Harst … »Dann kann
 ich den Wächter erledigen …«
 
-Wir verbrachten den Schatten … Er leicht endlos
+Wir beobachten den Schatten … Er kriecht endlos
 langsam …
 
 Dann — — schiebt sich Harald auf allen Vieren davon,
@@ -2539,26 +2539,26 @@ Dann — — schiebt sich Harald auf allen Vieren davon,
 In das Zelt hinein … Will durch die Zeltrückwand
 weiter am Talwandrande zu den Zelten der Gwali …
 
-Erbe still … Lausche, beobachte … Drehe den
+Ich sitze still … Lausche, beobachte … Drehe den
+Kopf …
 
-op]…
 Und — höre plötzlich das Fauchen des zahmen
-Panthern …
+Panthers …
 
 Es verstummt wieder …
 
-Ein Treibendes Stimmen folgt …
+Ein grollendes Knurren folgt …
 
-Eine Frauenstimme weiß daß Tier zur Ruhe, Die
+Eine Frauenstimme weist das Tier zur Ruhe. Die
 Fürstin!
 
-Ich arme auf … Ich merke, daß die Rani es für völlig
-mit&geschlossen hält, daß wir uns befreien könnten … Sie
-fühlt sich allzu sicher. Sie hätte sich als den feineren Instinkt
-de8a Panthers verlassen sollen … Dann wär«? alles
+Ich atme auf … Ich merke, daß die Rani es für völlig
+ausgeschlossen hält, daß wir uns befreien könnten … Sie
+fühlt sich allzu sicher. Sie hätte sich auf den feineren Instinkt
+des Panthers verlassen sollen … Dann wäre alles
 <@pagebreak/>
-anders gekommen … Dann Matrosen unsere machen irgendwo
-in den Einzig-Morgen … Dann … wären wir tot und
+anders gekommen … Dann moderten unsere Knochen irgendwo
+in den Gwala-Bergen … Dann … wären wir tot und
 Raßmalar lebte …
 
 Nun — anders ist’s mir lieber … —
@@ -2566,7 +2566,7 @@ Nun — anders ist’s mir lieber … —
 Der Panther verhielt sich still …
 
 Ein schwärzlicher Schatten glitt drüben an den Felswänden
-entlang: Harst …! —
+entlang: Harst …!
 
 Die Dromedare dienten ihm als weitere Deckung …
 
@@ -2576,7 +2576,7 @@ Der Gwali sank plötzlich hintenüber … Zwei Gestalten
 verschmolzen in eins … Schienen zu kriechen — —, und doch
 zog Harald nur den bewußtlosen Inder hinter sich her …
 
-Abeamals8 sah ich ihn …
+Abermals sah ich ihn …
 
 Drei Dromedare sattelte er …
 
@@ -2588,48 +2588,48 @@ zu … hinter das leere Zelt …
 
 Winkte dann …
 
-FJ) eilte näher … Er war’s mir die Zügel in die Hand,
+Ich eilte näher … Er warf mir die Zügel in die Hand,
 schlüpfte in das Zelt, kam … mit einem gefesselten Inder
 zum Vorschein …
 
 das Zelt war nicht leer gewesen … Zum Fragen hatte
 ich keine Zeit …
 
-Harst hob den Mann in den Sattel des einen Tiere,
+Harst hob den Mann in den Sattel des einen Tieres,
 nachdem er seine Lederriemen zerschnitten … Der Ärmste
 hatte kaum die Kraft, sich im Sattel zu halten …
 
 Wir nahmen ihn in die Mitte …
 
-Im Schritt ging es dem Talaus8gang zu …
+Im Schritt ging es dem Talausgang zu …
 
 Im Schritt in ein Nebental …
 
 Hinter uns her das jäh zu wildem Heulen erwachende
 Jaulen des Panthers …
 
-»Galopp 7.!!« rief Harald …
+»Galopp …!!« rief Harald …
 
 Die Dromedare waren ausgeruht … Und nur ein
-einziges Mal in der Thar-Wüste hatten wir so vorzsgiiche
+einziges Mal in der Thar-Wüste hatten wir so vorzügliche
 <@pagebreak/>
-Tiere unter uns gehabt … Ihr langer Trab war wie vor
-Renüngalopp eines trainierten Luftlinie …
+Tiere unter uns gehabt … Ihr langer Trab war wie der
+Renngalopp eines trainierten Vollbluts …
 
-Der Etsangene der Rani erholte sich rasch … Ich sah,
+Der Gefangene der Rani erholte sich rasch … Ich sah,
 daß er im Kamelsattel noch mehr zu Hause war als wir …
 
-Dann tat er auch) den Mund aus …
+Dann tat er auch den Mund auf …
 
-»Tod danke Ihnen, meine Herren …« — tadelloses
+»Ich danke Ihnen, meine Herren …« — tadelloses
 Englisch, eine angenehme Stimme …
 
 Und hinzufügend:
 
-»H werde die Führung übernehmen … Ich bin hier
+»Ich werde die Führung übernehmen … Ich bin hier
 zu Hause — noch mehr: mir gehören die Gwala-Berge!!«
 
-Er jagte jetzt? voran …
+Er jagte jetzt voran …
 
 Ein merkwürdiger Ausspruch, den der Mann soeben
 getan hatte: mir gehören die Gwala-Berge!
@@ -2637,108 +2637,110 @@ getan hatte: mir gehören die Gwala-Berge!
 Seltsam …
 
 Und doch war etwas in dem Ton seiner Stimme gewesen,
-das herrisch) und selbstbewußt klang — ohne jene
-Wichtigtuerei …“.
+das herrisch und selbstbewußt klang — ohne jene
+Wichtigtuerei …
 
 Wir rasten weiter …
 
-frei — drei Stunden machen verstohlen sein …
-Der Morgen zog heraus … Das Mondlicht verblaßte
-… Der [alte Wind wurde noch frischer …
+Zwei — drei Stunden mochten verflossen sein …
+
+Der Morgen zog herauf … Das Mondlicht verblaßte
+… Der kalte Wind wurde noch frischer …
 
 Im Osten am Himmel ein heller Schein … Immer
-höher erstrahlenv … Die Sonne rückte über:2n Ernst des
-Horizontes … Wir waren gerade auf einem Hvchplascau …
-In der Ferne unnudlicve grüne Flächen: Dschungel!
+höher erstrahlend … Die Sonne rückte über den Dunst des
+Horizontes … Wir waren gerade auf einem Hochplateau …
+In der Ferne unendliche grüne Flächen: Dschungel!
 
-Aber noch erwacht schlichten wir … Noch etwas
+Aber noch erwacht erblickten wir … Noch etwas
 
-meinte Inder R …
+Gerade unter uns …
 
-In einem valwmeintmmantschien weiten Tale …: die Haupt-stad!
-von Gwala, da: fast sagenhafte Gwalanda — sagenhaft
-wir eins! Lhasa, die verbotene Stadt im Himalaya …
+In einem palmenumrauschten weiten Tale …: die Hauptstadt
+von Gwala, das fast sagenhafte Gwalanda — sagenhaft
+wie einst Lhasa, die verbotene Stadt im Himalaya …
 
-melden uns sagte der Ersonnene der an!:
+Neben uns sagte der Gefangene der Rani:
 
-»Gwalanda …!’«
+»Gwalanda …!«
 
-Sonnengold, cr’es Sommergast ließ die schlanken
-Minaretts der Dir Co! vusleickrten … Heller Marmor erstrahlte
-»… Und bitten In dieser Märchenstadt auf der
+Sonnengold, erstes Sonnengold ließ die schlanken
+Minaretts der Tempel aufleuchten … Heller Marmor erstrahlte
+… Und mitten in dieser Märchenstadt auf der
 <@pagebreak/>
-flachen Spie einer ossenbaw künstlichen Pyramide aus
-weißem Marmor eine findige Burg …
+flachen Spitze einer offenbar künstlichen Pyramide aus
+weißem Marmor eine trutzige Burg …
 
-las Fürstenschloß von Gwalanda ist so und so oft
-photographiert worden … Reisende Aauflmite hatten heimlich
-Momentkameras in das Bergland hineinaeschmugaelt …
+Das Fürstenschloß von Gwalanda ist so und so oft
+photographiert worden … Reisende Kaufleute hatten heimlich
+Momentkameras in das Bergland hineingeschmuggelt …
 Aber nur zu früh nahm man ihnen regelmäßig wieder die
 Apparate ab … Zertrümmerte die Platten …
 
-Der englische 9 Reisende Farblos hat noch 1924 dasselbe
+Der englische Reisende Darbing hat noch 1924 dasselbe
 Pech gehabt …
 
-Und — Frieden sagte unser Führer:
+Und — wieder sagte unser Führer:
 
-gSwalanbatt Und reckte den Arm empor zum
-ruße …
-»Gwalanda, …!!!« — jetzt wie ein Jubelschrei …
+»Gwalanda!!« Und reckte den Arm empor zum
+Gruße …
+
+»Gwalanda …!!« — jetzt wie ein Jubelschrei …
 
 Einen Irren glaubte ich vor mir zu haben … einen
-Menschen, der hier vor uns seine krankhafter Heimatgefühle
+Menschen, der hier vor uns seine krankhaften Heimatgefühle
 preisgab …
 
 Denn — ein Blick in sein Gesicht zeigte mir junge,
-verklärte Hitze … Ein Gesichter, von Leiden gebleicht, mit
-den Falten des Du!»»elf … Umwuchert von dunklem Bart-gelod,
-gekleidet in Lumpen — grinsend von Schweiß
+verklärte Züge … Ein Gesicht, von Leiden gebleicht, mit
+den Falten des Dulders … Umwuchert von dunklem Bartgelock,
+gekleidet in Lumpen — stinkend von Schweiß
 
-Und doch ein Gleiten in den Augen, Übermächtig für
-einen gefunden Verstand … — meiner Ansicht nach …
+Und doch ein Gleißen in den Augen, Übermächtig für
+einen gesunden Verstand … — meiner Ansicht nach …
 
-»Hinab!!1« rief der Mann … »Hinab …!!! Wir
+»Hinab!!« rief der Mann … »Hinab …!! Wir
 werden …«
 
-Harsts Stamme Fahrt dazwischen …
+Harsts Stimme fährt dazwischen …
 
 »Die … Verfolger …!«
 
 <h2>4. Kapitel.</h2>
 
-<h3>sitzt Lampsa Bakur.</h3>
-Dort ans der Talmündung brechen sie hervor — zwölf
+<h3>Sidar Lampsa Bakur.</h3>
 
+Dort aus der Talmündung brechen sie hervor — zwölf
 Gwali, hinter ihnen Schafhirten aus den Bergen … Zu
-Pferde … Zu Dromedar … eine Schar — lang Inseln
-andergezogen … mindestens fünfzig Leute … vor ihnen
-
-die Rani — den Fenster an langer Leine …
+Pferde … Zu Dromedar … eine Schar — lang auseinandergezogen
+… mindestens fünfzig Leute … vor ihnen
+die Rani — den Panther an langer Leine …
 
 <@pagebreak/>
-Unser Führer preßt die Lippen zusammen … »nur
-geballten Fäuste droben hinüber
+Unser Führer preßt die Lippen zusammen … Seine
+geballten Fäuste drohen hinüber …
+
 Dann — wie ein Schrei:
 
 »Ein Wettlauf um das Fürstentum Gwala …!! —
-Meine Herren, jetzt gilti’8 … Fängt uns gen«« wir, so
+Meine Herren, jetzt gilt’s … Fängt uns jenes Weib, so
 werden wir von Kugeln durchsiebt werden! Vorwärts …!«
 
 Und die Jagd beginnt …
 
-Ein nennen über das steinige Plateau …
+Ein Rennen über das steinige Plateau …
 
-Ein Rasen — ohne Rücksicht aus die Tiere und die
+Ein Rasen — ohne Rücksicht auf die Tiere und die
 eigenen Knochen …
 
 Ein Wettlauf ums Leben …
 
-Hinter uns her trat der Panther — — frei von jeder
+Hinter uns jetzt trat der Panther — — frei von jeder
 Fessel …
 
-Der Panther nimmt Riesensaale … Selbst den Kameltrab
+Der Panther nimmt Riesensätze … Selbst den Kameltrab
 überwindend … Eine Bestie, die blindlings gehorcht
-+… Blindlings …
+… Blindlings …
 
 Ich als schlechtester Reiter der letzte von uns dreien …
 
@@ -2746,39 +2748,39 @@ Ich schaue mich immer wieder um …
 
 dann bleibt Harald zurück …
 
-fast mir zu:
+Ruft mir zu:
 
-»uUcberlaß ihn nur mir …!!«
+»Überlaß ihn nur mir …!«
 
-Und er — Wasserglas wie ich … Er nur auf eins an:
-gewiesen: seine eisernen Muskeln, seine Gewandtheit und?
-fuhr …
+Und er — waffenlos wie ich … Er nur auf eins angewiesen:
+seine eisernen Muskeln, seine Gewandtheit und
+Ruhe …!
 
 Eine enge Schlucht nimmt uns auf … Der Führer
-wirst einen Blick nach rückwärts … Im Nu zügelt or
-sein Tier, reißt es herum … jagt an mir vorüber — on
-Harald vorüber — auf die schwarze Bestie zu, die mir noch
+wirft einen Blick nach rückwärts … Im Nu zügelt er
+sein Tier, reißt es herum … jagt an mir vorüber — an
+Harald vorüber — auf die schwarze Bestie zu, die nur noch
 fünfzig Meter entfernt …
 
 Harst und ich halten, wenden die Köpfe …
 
-Der Unbekannte stößt einen eigentimnlichen Schrei ans
-— langgezogen, in einer Art stiller entlarvt …
+Der Unbekannte stößt einen eigentümlichen Schrei aus
+— langgezogen, in einer Art Triller endigend …
 
-Der Panther stutzt merklich. Seine Sprünge welch
+Der Panther stutzt merklich. Seine Sprünge werden
 kürzer …
 
-Abermals ruft der Führer etwas — in der (Gwali-Sprache
-… Und der Panther heult aus, rast vorwärts …
+Abermals ruft der Führer etwas — in der Gwali-Sprache
+… Und der Panther heult auf, rast vorwärts …
 
 <@pagebreak/>
 Das Dromedar des Unbekannten kniet jetzt … Die
-Bestie ist bei ihm, richtet sich an dem Manne empor, stößt
-die Vordeapranken auf dessen linken Senkel … — und
-— — ich sehe es genau — — ist dem Führer die Hand …
+Bestie ist bei ihm, richtet sich an dem Manne empor, stützt
+die Vorderpranken auf dessen linken Schenkel … — und
+— — ich sehe es genau — — leckt dem Führer die Hand …
 
-Harald sagt vba mehr wie zu sich selbst: »Das ist der
-sicherste Beweis!!«
+Harald sagt da mehr wie zu sich selbst: »Das ist der
+sicherste Beweis!«
 
 Ich hätte vieles zu fragen …
 
@@ -2786,7 +2788,7 @@ doch wir flüchten weiter … Der Führer wieder voran
 … Neben ihm der Panther, stets gleichen Schritt mit
 dem Reittier haltend …
 
-Kein Zweifel: die Zeit:.: sieht auch diesen Gwali als
+Kein Zweifel: die Bestie sieht auch diesen Gwali als
 ihren Herrn an, scheint an ihm noch treuer zu hängen als
 an der Rani.
 
@@ -2795,52 +2797,52 @@ paar Steinhütten — an Kindern und Weibern und
 Männern …
 
 Schüsse knallen plötzlich … Die Leute feuern auf uns
--… hinterrücks …
+… hinterrücks …
 
 Weiter … Hinein in ein großes Tal … Vor uns
 Weideflächen, Palmen, Gebüsch, ein langgestrecktes Dorf …
 
-Die Bewohner verirrten uns … Schon von ferne
-sehen wir, wie sie sich zuscmmenrotten …
+Die Bewohner bemerken uns … Schon von ferne
+sehen wir, wie sie sich zusammenrotten …
 
 Der Führer biegt nach links ab … Und — — sein
 Tier hinkt plötzlich … stolpert … Er reißt es vorn hoch
-… Minutenlang müht es sich, trotz der Schnußverlezungen
+… Minutenlang müht es sich, trotz der Schußverletzungen
 neben uns zu bleiben … Stolpert abermals … Sinkt auf
 der Hinterhand zusammen … kommt nicht mehr hoch …
 
-Zwanzig Meter vor uns an der Talwand ein sein, her
+Zwanzig Meter vor uns an der Talwand ein schmaler
 Pfad, der die steile Anhöhe in Zickzacklinie emporläuft …
 Der Führer springt aus dem Sattel des wunden
 Dromedars …
 
-»Tor! hinauf, meine Herren …«
+»Dort hinauf, meine Herren …«
 
 Eilt zu Fuß voran … Der Panther dicht neben ihm …
 
-Und mit wiederum …
+Und ruft wiederum …
 
 »Geben Sie Ihre Tiere frei, meine Herren … Oben
-trieb wir vorläufig im Sicherheit …«
+sind wir vorläufig im Sicherheit …«
 
 <@pagebreak/>
-Wir gleichfalls aus dem Sattel … Der Pfad ist cf:
-so schOchmal, daß man nkht in die Tiefe hinabschmen darf,
+Wir gleichfalls aus dem Sattel … Der Pfad ist oft
+so schmal, daß man nicht in die Tiefe hinabschauen darf,
 um nicht schwindlig zu werden …
 
-Der schwere Rucksack hindert mich … Schweiß fünf
+Der schwere Rucksack hindert mich … Schweiß rinnt
 mir in die Augen. Die Sonne hat den kühlen Wind der
-Berge längst besiegt … Die Felsen hauchen Feuer aus? …
+Berge längst besiegt … Die Felsen hauchen Feuer aus …
 Um uns her klatschen Kugeln gegen das Gestein … Ein
 Schlag gegen meinen Rucksack — ein blecherner Ton: ein
-Geschoß hat den Aluminiumslessel durchschlagen …
+Geschoß hat den Aluminiumkessel durchschlagen …
 
-Satz Die Verfolger schießen in blinder Wut — noch aus dem
+Die Verfolger schießen in blinder Wut — noch aus dem
 Sattel …
 
-ch4 sehe, wie die Rani sich ein Gewehr reichen läßt …
+Ich sehe, wie die Rani sich ein Gewehr reichen läßt …
 
-ie Sonne blendet sie … Vielleicht unsere Rettung …
+Die Sonne blendet sie … Vielleicht unsere Rettung …
 
 Das andauernde Peng, Peng der Schüsse ist die Begleitmusik
 unseres Anstiegs …
@@ -2850,63 +2852,64 @@ Der Führer, ohne Last auf dem Rücken, ist bereits verschwunden
 
 Endlich — — endlich eine Terrasse, hineingewölbt in
 das Gestein … Die Rückwand noch vierzig Meter hoch —
-mindestens … An dieser Rückwand greift heller Marmor
-… Ein zierliches phantastisches Schlößchen erlebt sich hier
-… Ein paar Palmen, grüne Büsche … ohne Freitreppe
+mindestens … An dieser Rückwand gleißt heller Marmor
+… Ein zierliches phantastisches Schlößchen erhebt sich hier
+… Ein paar Palmen, grüne Büsche … Eine Freitreppe
 läuft zu der Flügeltür empor … Sie schillert grünlich —
 Kupferpatina …
 
-Der eine Titrflügel offen … der Führer tritt heraus
+Der eine Türflügel offen … der Führer tritt heraus
 — drei Doppelbüchsen in der einen Hand, in der anderen eine
 längliche Pappschachtel mit Patronen …
 
 Der Panther ist hinter ihm wie ein treuer Hund …
 
-Wortlos gibt er: un die Vergessen … Es sind amerikanisches
+Wortlos gibt er uns die Waffen … Es sind amerikanische
 Browningbüchsen, Repetiergewehre …
 
 Und verschwindet wieder in dem kleinen Marmorschloß
 …
 
-Wir weiter un& am Rande der Terrasse nieder …
-Der Zickzackpfad ist in allen seinen Winvbungen zu Überschauen
-… Eine Schlange den Männern steigt empor …
+Wir werfen uns am Rande der Terrasse nieder …
+Der Zickzackpfad ist in allen seinen Windungen zu Überschauen
+… Eine Schlange von Männern steigt empor …
 
 <@pagebreak/>
 Harst atmet bereits ruhiger … Häuft Steine als
-Brustwehr auf … sagt ganz kalt!
+Brustwehr auf … sagt ganz kalt:
 
-» »Hier kommt seine Sätze gegen unseren Willen nach
+»Hier kommt keine Katze gegen unseren Willen nach
 oben …!«
 
 Zielt … feuert …
 
 Und der Kopf der Menschenschlange, ein bärtiger
-Gwali mit Wwassenstarrendem Gürtel, taumelt mit zerschossenen
+Gwali mit waffenstarrendem Gürtel, taumelt mit zerschossenem
 Knie nach hinten … Ein anderer fängt ihn auf …
 
 Die Menschenschlange gerät ins Stocken.
 
-Noch zwei Schüsse —« — und die Masse der Verfolger
+Noch zwei Schüsse — — und die Masse der Verfolger
 wendet sich, macht kehrt …
 
-Unten — achtzig Meter unter uns im Tale — die Ran!
+Unten — achtzig Meter unter uns im Tale — die Rani
 inmitten eines Kreises von Weibern und Kindern …
 
-Harald hakt den Rucksack los, entnimmt ihm sein Ferne
+Harald hakt den Rucksack los, entnimmt ihm sein Fernglas
+…
 
-Schraut hindurch und gibt es mir …
+Schaut hindurch und gibt es mir …
 
-Ich drehe die Stellshnaube, bis Ab daß Gesicht der
+Ich drehe die Stellschraube, bis ich daß Gesicht der
 Rani dicht vor mir habe …
 
-Ein Gesicht, das einer aschgrauen Fraße gleicht …
+Ein Gesicht, das einer aschgrauen Fratze gleicht …
 
 Regungslos steht die Fürstin Raßmalar, die Zähne in
-Timbre Unterlippe gepreßt … ein Bild ohnmächtiger Wut …
+die Unterlippe gepreßt … ein Bild ohnmächtiger Wut …
 
-Aber in diesem leidenschaftlicher Frauenantlitz ist noch
-ein anderer Nachdruck …: Angst — unverkennbare Angst!
+Aber in diesem leidenschaftlichen Frauenantlitz ist noch
+ein anderer Ausdruck …: Angst — unverkennbare Angst!
 
 Ich lasse das Glas sinken …
 
@@ -2914,34 +2917,33 @@ Ich lasse das Glas sinken …
 
 Er schnitt mich an …
 
-»Der Führer, mein Alter, — und jetzt wird Dir manckchckes
+»Der Führer, mein Alter, — und jetzt wird Dir manches
 klar werden — der Führer ist der Vorgänger der Rani
-von Gwala, Fürst sitzt Lampsa hoffte … angeblich vor
+von Gwala, Fürst Sidar Lampsa Bakur … angeblich vor
 drei Jahren an der Cholera verstorben … Seine älteste
-Schwester Raßmalar wurde bestimmungsgemäß seine NaM-solgerin
+Schwester Raßmalar wurde bestimmungsgemäß seine Nachfolgerin
 …«
 
-Er sc’aut mich an …
+Er schaut mich an …
 
-Und — Ich starre ihm in die Augen …
+Und — ich starre ihm in die Augen …
 
-Wir verschlägt diese Mitteilung die Rede … Ich bin
-derart vorbsitsst, daß ich minutenlang schweigt …
+Mir verschlägt diese Mitteilung die Rede … Ich bin
+derart verblüfft, daß ich minutenlang schweige …
 
 <@pagebreak/>
-geulkt nimmt mir das Glas ab …
+Harald nimmt mir das Glas ab …
 
-lernt: »Der Panther erkannte den früheren Herrn, den
+Mein: »Der Panther erkannte den früheren Herrn, den
 die Rani im Tale der Schlangen von zwölf Vertrauten
 gefangen halten ließ …«
 
-ich nie nur automatenhaft … So ganz begreife (ah
+ich nicke nur automatenhaft … So ganz begreife ich
 noch immer nicht …
 
-»Und jetzt, mein Alter, dürfte sitzt Lampsa Bakur sich
-sei in seinem Jagdschloß etwas fürstlichen herrichten, die
-
-Taschenlampen ablegen und sich seinem Volke in geeigneterer Aufmachung
+»Und jetzt, mein Alter, dürfte Sidar Lampsa Bakur sich
+hier in seinem Jagdschloß etwas fürstlichen herrichten, die
+Lumpen ablegen und sich seinem Volke in geeigneterer Aufmachung
 zeigen … Dann erst wird man den Totgeglaubten
 wiedererkennen. Er war sehr beliebt — ganz im Gegensatz
 zu der Rani … Ich fürchte, die Fürstin Raßmalar wird
@@ -2955,37 +2957,36 @@ Harst schaut zu der Volksmenge hinab … beobachtet …
 Ich denke an den Fakir, an die namenlose junge
 Inderin …
 
-Und da jählings ein neuer kritzlich: das Gesicht der
+Und da jählings ein neuer Lichtblitz: das Gesicht der
 Rani kam mir so bekannt vor!! Nun weiß ich, wem sie
 gleicht: der Toten, die wir auf dem Felsen der Lagune
+begraben haben!
 
-graben haben!
-
-»Harald — die beiden sind Schwestern …« entführt
+»Harald — die beiden sind Schwestern …« entfährt
 es mir …
 
 »Das wußte ich schon, als wir die Entenjägerin kennen
-lernten … Das Mädchen hieß Barmalar,:denn Du willst:
-Prinzessin Barmalar …!!«
+lernten … Das Mädchen hieß Barmalar, wenn Du willst:
+Prinzessin Barmalar …!«
 
-»und — Mitschuldige der Rani!«
+»und — Mitschuldige der Rani?!«
 
 »Ja — Mitwisserin … genau wie der Yogi, der der
-Großvater mütiterlidjerseits ist … oder war … Man weiß
+Großvater mütterlicherseits ist … oder war … Man weiß
 ja nicht, ob er noch lebt …«
 
 Die Schleier des Geheimnisses sinken …
 
-Alles wird Licht … klar …
+Alles wird licht … klar …
 
-Und wie einfach Trick einen nun all die Rätsel …
+Und wie einfach erscheinen nun all die Rätsel …
 
-Wie begreiflich ist es nun, daß die arme hübsc4 nein-SSDSSS&SESDSSSSS
+Wie begreiflich ist es nun, daß die arme hübsche Prinzessin
 <@pagebreak/>
-Prinzessin Barmalar in dem Hofe der Tempelruine erklärte, daß
-se … büßen müßte …
+Barmalar in dem Hofe der Tempelruine erklärte, daß
+sie … büßen müßte …
 
-Füßen — das an ihrem Bruder begangene Verbrechen,
+Büßen — das an ihrem Bruder begangene Verbrechen,
 den Volkesbetrug …! Fraglos hatte man vor drei Jahren
 einen Fremden als den toten Fürsten bestattet … Machthunger
 hatte Raßmalar zu dem unerhörten Verbrechen
@@ -2993,16 +2994,16 @@ verleitet …!
 
 Da — hinter uns Schritte …
 
-Und ein seines zärtliches Schnurren — nach Katzenart;
+Und ein feines zärtliches Schnurren — nach Katzenart:
 der Panther!
 
 Neben uns steht jetzt nicht mehr der zerlumpte Führer …
 
-Der Bart ist versqwunden — bis auf einen kurzen
-schwarzen Schnurrbart … sitzt Lampsa Bakur trägt ein
-reicxaesticktes Gewand aus hellem weichen Leder — Golde
-gestickte Sandalen, einen schneeweißen Zwingt an dem
-vorn, in einer Brillantagraffe ad! Schwungfedern eines
+Der Bart ist verschwunden — bis auf einen kurzen
+schwarzen Schnurrbart … Sidar Lampsa Bakur trägt ein
+reichgesticktes Gewand aus hellem weichen Leder — goldgestickte
+Sandalen, einen schneeweißen Turban, an dem
+vorn, in einer Brillantagraffe acht Schwungfedern eines
 Bergadlers strahlenförmig befestigt sind …
 
 Unten im Tale erst ein einzelner Schrei … Dann ein
@@ -3012,36 +3013,33 @@ Es schwillt an — klingt zu uns empor …
 
 Wir haben uns erhoben …
 
-Grüßen Seine Hoheit, den Fürsten von Gala …
+Grüßen Seine Hoheit, den Fürsten von Gwala …
 
-»Meine Herren …« — und er steckt uns Weib« Hände
-entgegen — »ich danke Ihnen «! Sie haben mir die Freiheit
+»Meine Herren …« — und er streckt uns beide Hände
+entgegen — »ich danke Ihnen …! Sie haben mir die Freiheit
 verschafft … Ich bin Fürst Bakur von Gwala …«
 
-T7—
-
 <h2>5. Kapitel.</h2>
-<h3>Bolköägericht …</h3>
+<h3>Volksgericht …</h3>
 
 Der Panther reibt sich liebkosend an seinen Beinen —
-Iduuurt …
+schnurrt …
 
-Unten im Tale lebt das Brüllen imnmner wieder auf …
+Unten im Tale lebt das Brüllen immer wieder auf …
 
 »Ich danke Ihnen …« wiederholt der Fürst … »Sie
-sind Ruine Brüder … Alles was nicht besitze, gehört
-Witz.«
+sind meine Brüder … Alles was ich besitze, gehört
+Ihnen …«
 
 <@pagebreak/>
 Diese etwas feierliche Szene wird durch das Erscheinen
-vorn drei — uralten Gwali unterbrochen, die sich uns vom
+von drei uralten Gwali unterbrochen, die sich uns vom
 Schlosse her langsam nähern …
 
 Es sind Diener des Fürstenhauses der Lampsa, eines
 Geschlechtes, das seine Abstammung bis auf den Gott Indra
-zurücsührt …-. Es sind die Hüter dieses Lieblingsschlosses
-
-es totgeglaubten Radjah von Gwala …
+zurückführt … Es sind die Hüter dieses Lieblingsschlosses
+des totgeglaubten Radjah von Gwala …
 
 Sie tragen goldene Platten, auf denen altindische hohe
 Trinkbecher stehen …
@@ -3049,22 +3047,21 @@ Trinkbecher stehen …
 der Fürst trinkt uns zu …
 
 »Mr. Harst, — das Wohl meiner Brüder Harst und
-Schraut „…!«
+Schraut …!«
 
 Gegorene Kamelmilch ist’s, mit Honig vermischt …
 angenehm kühl und erfrischend …
 
-na stellen die goldenen Becher auf die goldenen Platten
+Wir stellen die goldenen Becher auf die goldenen Platten
+zurück …
 
-zu +…
-
-Vor Radjah bestellt einem der drei Alten:
+Der Radjah bestellt einem der drei Alten:
 
 »Geh’ hinab und erkläre den Leuten, daß ich lebe …«
 
 Dabei deutet er in das Tal …
 
-Wir sehen, daß Raßnvalsar aus einem Dromedar davonsprengt
+Wir sehen, daß Raßmalar auf einem Dromedar davonsprengt
 …
 
 Wir sehen eine Reiterschar, die dicht hinter ihr …
@@ -3088,20 +3085,20 @@ Langt unten an … Man umringt ihn …
 
 Man schleppt Raßmalar dicht vor ihn …
 
-Bewegung zitiert durch die Menschenmassen … Knäuel
-bilden sich … Man hat der Rani zwölf besser Helfer niedergerungen,
+Bewegung zittert durch die Menschenmassen … Knäuel
+bilden sich … Man hat der Rani zwölf Helfershelfer niedergerungen,
 gefesselt …
 
 <@pagebreak/>
 Ein ungeheurer Tumult …
 
-Küste … Schreie …
+Schüsse … Schreie …
 
-Wir Frauen hinab …
+Wir staunen hinab …
 
 Um Raßmalar jetzt ein freier Kreis …
 
-Weiber Rassen Steine empor …
+Weiber raffen Steine empor …
 
 Männer schleudern Felsbrocken …
 
@@ -3109,56 +3106,56 @@ Man — — steinigt die Betrügerin …
 
 Sie sinkt zu Boden …
 
-Steine hausen sich über sie …
+Steine häufen sich über sie …
 
 Wieder ein paar Schüsse …
 
 Raßmalar ist gerichtet …
 
-Mr Dann Könnt die Menschenschlange die Talwand
-nebenan …
+Dann stürmt die Menschenschlange die Talwand
+hinan …
 
 Wir beide treten zurück …
 
 Werden Zeugen einer Szene, wie sie kein Filmoperateur
-stellen« kann.
+»stellen« kann.
 
 die Dorfbewohner, Hirten, Bauern sind nicht mehr das
-ruhige, genussene, stolze Bergvolk …
+ruhige, gemessene, stolze Bergvolk …
 
-Tee Freude hat sie verwandelt.«. Männer, Weiber,
-Kinder Leuten sich vor dem Radjah auf der Terrasse nieder,
+Die Freude hat sie verwandelt … Männer, Weiber,
+Kinder werfen sich vor dem Radjah auf der Terrasse nieder,
 berühren mit der Stirn den Boden, springen empor …
 
-Ein jubelndes Augen dringt zum sonnigen Zettel
+Ein jubelndes Rufen dringt zum sonnigen Äther
 empor …
 
 Bis der Fürst zu sprechen beginnt …
 
-Wir bezeichnen nichts … Wir sehen nur seine … and-c.
-»Augen entnehmen aus dem verschiedenen Klang seiner
+Wir verstehen nichts … Wir sehen nur seine … Handbewegungen,
+entnehmen aus dem verschiedenen Klang seiner
 Stimme, daß er seine Gefangenschaft schildert …
 
-Harald wende! sich um und winkt einem der alten Diener
-… Legt auf die goldene Platte den alte Pünktchen Brillant-vizxg
+Harald wendet sich um und winkt einem der alten Diener
+… Legt auf die goldene Platte den altertümlichen Brillantring
 mit den eingravierten Schriftzeichen …
 
-Ich beurteile auch dies mir: der Ring ist ein Zeichen
-vor Fürstenwürde von Gwala …
+Ich begreife auch dies nun: der Ring ist ein Zeichen
+der Fürstenwürde von Gwala …
 
-Ich sehe, wie der alte Diener gleilchsaan verzaubert auf
-mit Kleinod blieb
+Ich sehe, wie der alte Diener gleichsam verzaubert auf
+das Kleinod blickt …
 
-Wie er nachweist, die der Fürst gleichfalls ungläubig den
-Bach beleuchtet …
+Wie er vortritt, wie der Fürst gleichfalls ungläubig den
+Ring betrachtet …
 
 <@pagebreak/>
-kam nimmt er ihn von der goldenen Platte, steckt ihn
-ein den Zeigefinger der rechten Hand …
+Dann nimmt er ihn von der goldenen Platte, steckt ihn
+an den Zeigefinger der rechten Hand …
 
 Der Edelstein gleißt im Sonnenschein …
 
-Die Menge brüllt … wirst sich nieder …
+Die Menge brüllt … wirft sich nieder …
 
 Der Radjah zieht uns neben sich …
 
@@ -3173,39 +3170,39 @@ wenig theatralisch …
 Und packt doch …
 
 Wir spüren die freudige Erregung dieser Stunde …
-Wir führen mit, was in diesen schlichten Menschen vorgeht,
+Wir fühlen mit, was in diesen schlichten Menschen vorgeht,
 die einer Despotin harte Hand jahrelang Über sich wußten
 und nun den geliebten Herrn wiedergefunden haben … — —
 
 Ich komme zum Ende …
 
 Mittags traf in dem Tale eine Abteilung der Leibwache
-des Fü:Hirn in Stärke von fünfhundert Wann ein — prächtige
-Gestalten, modern bewaissinet, Ladestock beritten …
+des Fürsten in Stärke von fünfhundert Mann ein — prächtige
+Gestalten, modern bewaffnet, tadellos beritten …
 
 Mit ihnen die Würdenträger von Gwala und an die
 tausend andere Reiter …
 
-der Radjah sollte in feierlichen Zuge zur Haupsstsäd«
+der Radjah sollte in feierlichem Zuge zur Hauptstadt
 geleitet werden,
 
 Inzwischen hatten wir jedoch dem Fürsten von den
-Vorgängen aus dem Felsen der Laune berichtet.
+Vorgängen auf dem Felsen der Laune berichtet.
 
 Der Radjah wieder hatte uns erklärt, daß seine Schwester
-Barmalar ihn wabrijcbeimlich gleichfalls zunäl&st für 101 gehalten
-habe, da die ehrgeizige Nochmal schoß Verbrechen,
-seine Gefangennahme, sehr Schlamm ins Werk Sessel hätte …
+Barmalar ihn wahrscheinlich gleichfalls zunächst für tot gehalten
+habe, da die ehrgeizige Raßmalar das Verbrechen,
+seine Gefangennahme, sehr schlau ins Werk gesetzt hätte …
 
-»Die volle Wahrheit werden wir mir von meinen!
-Großvater erfahren … Wir müssen Doktors zur braune …«
+»Die volle Wahrheit werden wir nur von meinem
+Großvater erfahren … Wir müssen sofort zur Lagune …«
 
 Er nahm nur fünfzig Mann seiner Leibwache mit …
 
-Abends gegen sicher Uhr erreichten wir den Fluß und
-den segelten Seitenarm.
+Abends gegen sieben Uhr erreichten wir den Fluß und
+den seeartigen Seitenarm.
 
-Aus einem Baumfloß setzten wir drei nach hm Felsen
+Auf einem Baumfloß setzten wir drei nach dem Felsen
 über …
 
 <@pagebreak/>
@@ -3213,32 +3210,31 @@ Vorsichtig zogen wir den Yogi aus dem Schacht empor,
 nachdem wir das Seil gründlich desinfiziert hatten.
 
 Wir brauchten den Leib des Fakirs nicht mehr aus
-den Decken zu schälen. Voerwesungsdülnste stiegen uns entgegen
+den Decken zu schälen. Verwesungsdünste stiegen uns entgegen
 … Der Alte war tot … Und niemals ist die Frage
 daher gelöst worden, inwieweit Barmalar und der Yogi an
-beim Verbrechen der Rani beteiligt waren, — Der Führst
-hat die beiden trotzdem in der Hauptstadt Gwalanda gesellte
-bestatten lassen. Naßmalars Leiche blieb in Jenem Tale
+dem Verbrechen der Rani beteiligt waren. — Der Fürst
+hat die beiden trotzdem in der Hauptstadt Gwalanda feierlich
+bestatten lassen. Raßmalars Leiche blieb in Jenem Tale
 unter dem Steinhaufen — an jener Stelle, wo das Volk
 Über sie Gericht gehalten. —
 
-Wind beide haben dann zwei wundervolle Wochen in
-Gralanda verbracht … mit unserem Bruder sitzt Lampsa
-
+Wir beide haben dann zwei wundervolle Wochen in
+Gwalanda verbracht … mit unserem Bruder Sidar Lampsa
 Bakur …
 
-Jagten Bergziegen, Tiger, Panther … schien in Wahrheit
+Jagten Bergziegen, Tiger, Panther … Lebten in Wahrheit
 wie die Fürsten …
 
-Fuß dann auch für uns die Tienmugsstunde schlug …
+Bis dann auch für uns die Trennungsstunde schlug …
 
 Zum Abschied schenkte der Radjah jedem von uns eine
-verstehe Nachbildung seines Jagdschlosses in Gold … etwa
+zierliche Nachbildung seines Jagdschlosses in Gold … etwa
 dreißig Zentimeter hoch …
 
 Erst im Hotel d’Angleterre in Bombay fand Harald
-dann hera1i8, daß sich das Dach des goldenen Schlößchens
-abheben ließ und daß im Innern in feinsten Seide verpackt
+dann heraus, daß sich das Dach des goldenen Schlößchens
+abheben ließ und daß im Innern in feinster Seide verpackt
 je acht Diamanten lagen, von denen jeder eine Rarität
 darstellte …
 
@@ -3246,6 +3242,6 @@ Selbst wenn unser Beruf uns fortan nichts mehr an
 Honorar abgeworfen hätte: daß wir niemals mehr Not
 leiden werden, dafür hat unser Bruder Bakur gesorgt!
 
-Nächster Band!
+Nächster Band:
 
-Der Fakir ohne Arme,
+__Der Fakir ohne Arme.__
