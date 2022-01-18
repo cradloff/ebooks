@@ -43,12 +43,12 @@ Bis zum Abend gab ich mich dieser trügerischen Hoffnung
 mit vollem Behagen hin, arbeitete, rauchte, hörte
 die Jazzbandkapelle im Speisesaal sehr gedämpft und schaute
 nur hin und wieder zu Harald hinüber, der in einem
-Schaukelstuhl ruhte und zu schlafen schien — stundenlang,
+Schaukelstuhl ruhte und zu schlafen schien — stundenlang.
 
 Abends gegen sieben Uhr brachte ein frischer Seewind
 willkommene Abkühlung.
 
-Harst erhob sich und beugte sich über meine Schreiberei,
+Harst erhob sich und beugte sich über meine Schreiberei.
 
 »Packe ein!« sagte er. »Wir reisen …!«
 
@@ -125,7 +125,7 @@ meinte:
 sind, so lüge den Betreffenden an … Und dann geh
 zu Detektivinspektor Perkins und gib ihm diesen Brief. —
 Forscht Dich aber niemand aus, so verbrenne den Brief
-und Schweige.«
+und schweige.«
 
 Der Inder, ein Mohammedaner, schwor bei Allah und
 <@pagebreak/>
@@ -156,7 +156,7 @@ Ringsum Totenstille …
 
 Und acht Meter weiter hing im Tempelhofe noch immer
 der Tote am Brunnenbalken. Harald war durch die Mauerspalten
-gekrochen und hatte nachgesehen,
+gekrochen und hatte nachgesehen.
 
 Totenstille …
 
@@ -183,7 +183,7 @@ Steinbombardement, traf auch, schlug ihr den Schwanz ab
 und verjagte sie. Der Schwanz würde von selbst nachwachsen.
 Die Eidechsen haben es eben besser als wir
 Menschen. Haut man uns ein Bein ab, bleiben wir
-Krüppel,
+Krüppel.
 
 Nun hatten wir Ruhe …
 
@@ -282,7 +282,7 @@ Worte … —
 Und — wenn ich hier nun weiterhin dem Leser schildern
 muß, was auf diese in ihrer Art ebenso phantastische wie nervenaufpeitschende
 Beschwörungsszene folgte, kann ich nur
-vorausschicken: auch Harald war minutenlang wie gelähmt,
+vorausschicken: auch Harald war minutenlang wie gelähmt.
 
 Ich schaute ihn an …
 
@@ -347,9 +347,9 @@ als der wahre, echte Yogi aus der Yogi-Kaste mit einem
 Taschenspieler etwa so viel gemein hat wie ein auf niederster
 Kulturstufe stehenden Orang-Kubu von der Insel Borneo
 mit einem der gebildeten Malaien aus den Hafenstädten
-derselben Insel,
+derselben Insel.
 
-der echte Yogi ist ein Mann, der durch jahrelanges
+Der echte Yogi ist ein Mann, der durch jahrelanges
 Training des Geistes und damit des Willens in einem Maße
 Herr der Organe seines Leibes geworden, daß er deren
 Funktion für längere Zeit auszuschalten vermag. Ich erinnere
@@ -373,7 +373,7 @@ Fleisches dort oben am Brunnenbalken hatte Leben bekommen!!
 
 Etwas Unerhörtes war geschehen …
 
-Und noch mehr geschah
+Und noch mehr geschah.
 
 <@pagebreak/>
 
@@ -431,7 +431,7 @@ Hin und wieder sprach die Frau zu dem Aussätzigen …
 Der antwortete nur durch Zeichen mit den schrecklichen
 Skeletthänden …
 
-nun schien er gesättigt …
+Nun schien er gesättigt …
 
 Und — kroch durch das Gras … kroch gerade an der
 Stelle wie suchend umher, wo ich vorgestern den losen Edelstein
@@ -568,7 +568,7 @@ willst …«
 
 »… nur?!«
 
-»du darfst nichts fragen, was den Großvater und mich
+»Du darfst nichts fragen, was den Großvater und mich
 betrifft … Wir büßen, o Sahib …«
 
 Harald wandte sich an mich …
@@ -650,7 +650,7 @@ Und dann Harald — ganz sachlich:
 »Die Rani der Gwala-Berge, mein Alter, — die Fürstin
 Raßmalar … Wir werden sie besuchen … Der Yogi und
 seine Enkelin sind Gwali, Bewohner des kleinsten selbständigen
-indischen Fürstentums Gwali …
+indischen Fürstentums Gwali …«
 
 Und da — wußte ich …
 
@@ -715,7 +715,7 @@ gestattet sich Harald Scherze, die nicht ganz nach
 meinem Geschmack sind …
 
 <@pagebreak/>
-»Du kannst Ja nachsehen, mein Alter,« erwiderte er
+»Du kannst ja nachsehen, mein Alter,« erwiderte er
 nur … »Ich war soeben im Tempelhofe … Der Brunnenbalken
 trägt nur noch das Tau mit der Schlinge … Und
 auch Stein und Ring sind futsch …«
@@ -791,7 +791,7 @@ Wir stehen noch zu sehr am Anfang der Dinge …
 Wir müßten uns aufs Herumraten verlegen, könnten all
 die Widersprüche niemals ausgleichen …«
 
-Er rauchte, und auch ich nahm eine Zigarre
+Er rauchte, und auch ich nahm eine Zigarre.
 
 Dann packten wir unsere Rucksäcke …
 
@@ -826,7 +826,7 @@ Stundenlang … Harald stets fünf Schritt voran …
 Fährtensucher, die etwas von der alten Indianerromantik
 spürten …
 
-bis gegen fünf Uhr nachmittags ein Fluß uns den
+Bis gegen fünf Uhr nachmittags ein Fluß uns den
 Weg versperrte …
 
 Ein träger schlammiger Fluß von vielleicht dreißig
@@ -849,7 +849,7 @@ Hängebrücken aus Tauen und Baumästen …«
 Und er nahm die Landkarte des Gouvernements Bombay
 zur Hand und vertiefte sich in deren Einzelheiten …
 
-sagte: »Es ist der Gwala-Fluß … Kommt aus den
+Sagte: »Es ist der Gwala-Fluß … Kommt aus den
 Gwala-Bergen … Hier ungefähr befinden wir uns …
 Und hier diese punktierten Linien sind Hängebrücken …
 Außerdem ist hier links an diesem Ufer ein schwarzes Viereck:
@@ -884,7 +884,7 @@ Beute …
 Wir — oder vielmehr Harald — hatte natürlich andere
 Namen genannt … Schraut war ein Mr. Schmidt und
 Harst ein Mr. Harmer geworden … Deutsche Zoologen —
-— Studienreise — — und so Weiter — ein harmloser
+— Studienreise — — und so weiter — ein harmloser
 Schwindel … —
 
 Miß Baacer war sofort bereit, uns überzusetzen …
@@ -1079,7 +1079,7 @@ Preßte sie an sich …
 Und — ich, ein gelehriger Nachahmer des Freundes,
 war ebenso ungalant …
 
-packte zu … hielt der Fürstin Beine an meinen Leib
+Packte zu … hielt der Fürstin Beine an meinen Leib
 gedrückt: als Schild …
 
 Und mit der Rechten heraus die Clement …
@@ -1109,7 +1109,7 @@ Körper …
 
 Aber ein Harst scherzt nicht …
 
-»liegen Sie still!« fuhr er die Fürstin an … »Ich
+»Liegen Sie still!« fuhr er die Fürstin an … »Ich
 schlage Ihnen den Pistolenkolben vor die Stirn, wenn Sie
 sich nicht ruhig verhalten …!«
 
@@ -1124,7 +1124,7 @@ die Erdfarbe der Wangen nicht völlig verdecken — jenes
 schmutzige Grau, das bei den dunkel getönten Rassen das
 Erbleichen ersetzt …
 
-Die ohnmächtige Wut Über diese schmachvolle Behandlung
+Die ohnmächtige Wut über diese schmachvolle Behandlung
 hatte ihr alles Blut aus dem Antlitz gedrängt … Sie
 zitterte … Die Augen flammten … Sie, die Rani von
 Gwala, sie, die Despotin Raßmalar, hier von zwei verhaßten
@@ -1179,9 +1179,9 @@ Peng — peng … — Harald hatte zwei Schüsse abgegeben
 Luft …
 
 Die Gwali hüpften ins Wasser — sehr zögernd …
-Das Badebedürfnis ist bei diesem Bergvolk nicht allzu groß
+Das Badebedürfnis ist bei diesem Bergvolk nicht allzu groß.
 
-Die Kerle stanken bis zu uns hin
+Die Kerle stanken bis zu uns hin.
 
 <@pagebreak/>
 Wateten zu dem Baumstamm … Schoben ihn aus
@@ -1241,11 +1241,11 @@ von grauem Gestein überragt … — eine Insel — kaum
 ein Inselchen, eine Klippe nur, von Gebüsch und Röhricht
 umrankt, aber steil und gut acht Meter hoch …
 
-nach Norden zu fanden wir eine lichtere Stelle im
+Nach Norden zu fanden wir eine lichtere Stelle im
 Schilf, landeten, banden das Boot fest. Harald erkletterte
 den Felsen, kehrte sehr bald zurück …
 
-»oben gibt es eine Vertiefung — einen bequemen
+»Oben gibt es eine Vertiefung — einen bequemen
 Lagerplatz, mein Alter … Dort werden wir über den nächtlichen
 Fiebernebeln ruhen können … Trotzdem nehmen wir
 jetzt eine Dosis Chinin …«
@@ -1282,7 +1282,7 @@ untergetaucht war …
 
 Harald kletterte noch dreimal zum Boote hinab, brachte
 die Büchsen der Gwali, ein Segel, zwei Bootshaken, unsere
-Rucksäcke und einige Baumäste,
+Rucksäcke und einige Baumäste.
 
 So wurde aus diesem Segel, den Bootshaken und Ästen
 <@pagebreak/>
@@ -1290,7 +1290,7 @@ in dem tiefsten Winkel der Einbuchtung für die Fürstin ein
 Zelt errichtet, Decken hineingelegt … —
 
 Die Dunkelheit kam … Und die Nebelschleier wallten
-unten Über der Lagune in immer dichteren Schwaden …
+unten über der Lagune in immer dichteren Schwaden …
 
 Die Rani saß jetzt nach Art der Orientalinnen in ihrem
 Zelte, dicht am Eingang … Speise und Trank lehnte sie
@@ -1310,7 +1310,7 @@ Panthers …
 Wie in einer Wüste … Als ob unter uns ein endloses
 Sandmeer sich erstreckte …
 
-als wir gegessen und getrunken und jeder eine Kapsel
+Als wir gegessen und getrunken und jeder eine Kapsel
 Chinin als Vorbeugungsmittel geschluckt hatten, als Harald
 die Leine, die von der Kette und vom Boote bis hier nach
 oben reichte, noch straffer gespannt und an einen Stein
@@ -1365,7 +1365,7 @@ dazu gehabt … Sie wissen wohl, daß in Bombay vor
 kurzem ebenfalls ein indischer Fürst, der seine Geliebte
 ermorden lassen wollte, durch die polizeilichen Ermittlungen
 arg kompromittiert worden ist … Auf Ihre Person ist man
-Überhaupt schon schlecht zu sprechen, Rani Raßmalar …
+überhaupt schon schlecht zu sprechen, Rani Raßmalar …
 Sie regieren dort in Ihren Bergen noch allzu mittelalterlich
 … — Wie gesagt: Sie haben die Wahl: entweder antworten
 Sie oder — Sie sind von morgen eine Gefangene …«
@@ -1384,7 +1384,7 @@ nicht auf …
 Bombay, das Sie bisher nie oder doch nur in inkognito
 besucht haben? Weshalb ins Hotel d’Angleterre …«
 
-»um Sie zu beobachteten …!«
+»Um Sie zu beobachteten …!«
 
 »Danke … — Und weshalb dies Interesse für meine
 Person?«
@@ -1395,7 +1395,7 @@ Schweigen …
 
 Schweigen …
 
-»Ah — Sie Wollen nicht lügen, Rani Raßmalar …
+»Ah — Sie wollen nicht lügen, Rani Raßmalar …
 Immerhin ein anerkennenswerter Charakterzug … Darf
 ich Ihnen dann den Grund nennen?! Ihre Spione waren
 bereits in der Umgebung der Tempelruine tätig, als wir
@@ -1449,7 +1449,7 @@ Und blickte auf Harald …
 Der hatte den Kopf wie angestrengt lauschend etwas
 zur Seite geneigt …
 
-ich hörte nur den Lärm der Wasservögel …
+Ich hörte nur den Lärm der Wasservögel …
 
 Diese vielfachen Vogelstimmen, die unaufhörlich in
 mißtönendem Chor durch die Nebeldünste drangen …
@@ -1536,7 +1536,7 @@ hatte …
 in die Tiefe hinabgesprungen sein …! Höchstens — — man
 hat hier etwa einen entästeten Baum gegen den Felsen
 gelehnt … Sie könnte so hinabgeklettert sein … doch —
-Ich sehe nichts von einem Baum … Und in den wenigen
+ich sehe nichts von einem Baum … Und in den wenigen
 <@pagebreak/>
 Sekunden wird sie wohl kaum bis unten gelangt …«
 
@@ -1598,7 +1598,7 @@ Statue gesessen, ein Geräusch …
 Wir starrten hin … die Decken bewegen sich, werden
 emporgehoben … Eine Steinplatte fällt zur Seite …
 
-Ein Kopf erscheint aus einer uns unbekannten Spalte,
+Ein Kopf erscheint aus einer uns unbekannten Spalte.
 
 Ein Kopf — — der des Mädchens ohne Namen …
 
@@ -1665,7 +1665,7 @@ anders aufzufassen als in der Art, wie ich es tat?!
 
 Ich starrte aus die Tote hinab …
 
-Jetzt hatten ihre Züge einen Ausdruck Überirdischen
+Jetzt hatten ihre Züge einen Ausdruck überirdischen
 Friedens angenommen … Jetzt war nichts mehr von der
 wilden Angst und dem grauenvollen Flehen um Hilfe in
 diesem schmalen Antlitz …
@@ -1821,7 +1821,7 @@ den Fakir, diesen armen Aussätzigen, nicht länger neben
 uns dulden können …
 
 Harald schnürt die Decke um die kläglichen Überreste
-eines Mannes, der uns beiden in allem fraglos weit Überlegen
+eines Mannes, der uns beiden in allem fraglos weit überlegen
 …
 
 »Wir werden ihn vorsichtig in das Felsloch hinablassen,«
@@ -1856,7 +1856,7 @@ Die Steinplatte liegt wieder über der Öffnung …
 In einem Winkel der muldenartigen Vertiefung betten wir
 die junge Inderin zur letzten Ruhe. Die Hälfte des Segelleinens
 wird ihr Bahrtuch. Dann häufen wir Steine und
-Geröll behutsam Über die Leiche, bauen eine Art hohlen
+Geröll behutsam über die Leiche, bauen eine Art hohlen
 Hügels …
 
 Es ist jetzt ein Uhr morgens …
@@ -1883,7 +1883,7 @@ Boote?! —
 
 Harald … bückt sich plötzlich …
 
-Und auch Ich habe da am Boden zwischen dem Geröll
+Und auch ich habe da am Boden zwischen dem Geröll
 — dort, wo die Tote gelegen, wo das bedauernswerte Kind
 gestorben, etwas funkeln sehen … gleißen, sprühen …
 
@@ -1897,18 +1897,18 @@ Ring des Unheils … Mir ist als ob das ganze Geheimnis
 dieses Yogi und seiner Enkelin sich um das uralte Schmuckstück
 mit den eingravierten Schriftzeichen dreht. Ich kann
 mich täuschen … Vielleicht ist’s ein Ring, der zu dem
-Fürstengeschlecht der Beherrschen der Gwala-Berge irgendwie
+Fürstengeschlecht der Beherrscher der Gwala-Berge irgendwie
 in Beziehung steht …«
 
 <@pagebreak/>
 Und er steckt den Ring in die innere Tasche seiner
 Weste …
 
-Nimmt das Stück Leine, das uns Über die Steilwand
+Nimmt das Stück Leine, das uns über die Steilwand
 hinab in das Gestrüpp am Fuße der Klippe tragen soll …
 
 Er knotete das eine Ende um den Bootshaken und
-drückt diesen in eine tiefe Ritze des Gesteins,
+drückt diesen in eine tiefe Ritze des Gesteins.
 
 Wir Schultern unsere Rucksäcke …
 
@@ -1947,7 +1947,7 @@ Endlos langsam verrinnen die Minuten … Ich glaube
 Geräusche in der Tiefe zu hören … Es sind nur Täuschungen
 …
 
-dann — — drei Rucke …
+Dann — — drei Rucke …
 
 Hinab also …
 
@@ -1962,7 +1962,7 @@ ergreift die meine …
 »Schritt für Schritt …!« raunt Harald …
 
 <@pagebreak/>
-zieht mich vorwärts …
+Zieht mich vorwärts …
 
 Nasse Zweige streichen über mein Gesicht …
 
@@ -1982,7 +1982,7 @@ Hinein …
 
 Harsts Gestalt nimmt im Nebel Riesenmaße an …
 
-lautlos taucht er das plumpe Blattruder ein … Lautlos
+Lautlos taucht er das plumpe Blattruder ein … Lautlos
 gleitet der gestohlene Kahn …
 
 Mein jagendes Herz beruhigt sich …
@@ -2015,7 +2015,7 @@ Insekten schnappen …
 
 Reißen Harst zu Boden …
 
-Rückwärts schlägt er nieder … Halb Über mich …
+Rückwärts schlägt er nieder … Halb über mich …
 
 Eine Holzkeule kracht auf meinem Schädel … Gesegnet
 die Sportmütze: ohne sie wäre mein Hirn für alle Zeit endgültig
@@ -2023,9 +2023,9 @@ ramponiert gewesen!
 
 <@pagebreak/>
 
-<h2>2. Kapitel,</h2>
+<h2>2. Kapitel.</h2>
 
-<h3>Der Kobrazahn,</h3>
+<h3>Der Kobrazahn.</h3>
 
 Es gibt angenehmeres Erwachen aus langer Bewußtlosigkeit
 als das uns von einem mißgünstigen Schicksal bescherte
@@ -2084,7 +2084,7 @@ Die halb verschleierten Blicke prüfen die weitere Umgebung:
 die Zelte, die weidenden Dromedare, die bewaffneten
 Inder …
 
-viel der Eindrücke sind’s …
+Viel der Eindrücke sind’s …
 
 Ich spüre einen neuen Ohnmachtsanfall … Das Tal,
 die Zelte — alles kreist um meine Person …
@@ -2098,7 +2098,7 @@ Er spricht laut und energisch …
 
 Den Anfang verstehe ich nicht …
 
-… Sie würden es büßen. Rani Raßmalar … Harst
+»… Sie würden es büßen. Rani Raßmalar … Harst
 und Schraut werden gesucht werden. Wir haben Freunde,
 die ihr Leben für uns wagen — zum Beispiel Detektivinspektor
 Perkins in Bombay …«
@@ -2119,7 +2119,7 @@ Lachen …
 
 Erwidert dann:
 
-»Glauben Sie etwa, Mr. Harst, daß England Ihretwegen
+»Glauben Sie etwa, Mr. Harst, daß England ihretwegen
 gegen mich einen Feldzug unternehmen wird?! Heute
 — wo Indien einem offenen Pulverfasse gleicht?!«
 
@@ -2164,7 +2164,7 @@ Und wieder schrillt das Lachen der Rani …
 finden, hier im wildesten Teile der Gwala-Berge?! Niemand
 — — niemand!! Wie lange hoffen Sie denn noch
 den gekrümmten Giftzähnen Ihrer Wächter zu entgehen?!
-Vielleicht noch zwölf Stunden — — vielleicht!! und dann
+Vielleicht noch zwölf Stunden — — vielleicht!! Und dann
 werden Sie beide verscharrt werden — irgendwo …! Mag
 man nach Ihnen nur suchen … Suchen und finden — —
 hier in meinen Bergen, wo ich nicht einmal englische Bergingenieure
@@ -2263,14 +2263,14 @@ gut bei unserer einheimischen Kreuzotter beobachten, deren
 Giftzähne bis zu sechs Millimeter lang werden. Die einer
 Kobra werden etwa anderthalb Zentimeter lang und liegen,
 wenn das Tier seine Nahrung verschlingt, umgeklappt nach
-innen am Gaumen an,
+innen am Gaumen an.
 
 Jedenfalls: die eine der Kobras war aus diese Weise
 um einen Giftzahn gekommen, ohne mir etwas anzutun …
 Mein Stiefel würde an dem Schlangengift nicht krepieren …
 
 <@pagebreak/>
-Ich wollte Über diesen Zwischenfall noch eine Bemerkung
+Ich wollte über diesen Zwischenfall noch eine Bemerkung
 machen, aber Harald flüsterte:
 
 »Still — —! Streife den Zahn mit dem anderen
@@ -2278,7 +2278,7 @@ Fuße ab!«
 
 Ich tat es …
 
-und dann erst wandte ich mich abermals um und sah
+Und dann erst wandte ich mich abermals um und sah
 nun dicht hinter uns ein Zelt mit geschlossenen Vorhängen
 … Sonst nichts …
 
@@ -2315,7 +2315,7 @@ Krampf …
 
 Müde — so müde war ich …
 
-schlafen — — schlafen dürfen …
+Schlafen — — schlafen dürfen …
 
 Und — — ein Blick nach Harald hin … Ein Lauschen
 — ungläubiges Staunen: wahrhaftig — er schlief!! Er
@@ -2343,7 +2343,7 @@ Sie zog sich dann in ihr Zelt zurück …
 Die Dämmerung kam … Über dem westlichen Waldrand
 schillerte der Himmel in wunderbaren Farben …
 
-Und die Schatten hier im Schlangentale wurden tiefer
+Und die Schatten hier im Schlangentale wurden tiefer.
 
 Die Dromedare hatten sich niedergetan … käuten
 wieder, rieben mahlend die Unterkiefer …
@@ -2462,7 +2462,7 @@ Anhieb …
 
 Und jetzt soll ich das Spiel fortsetzen …
 
-denn Harst erreicht die beiden anderen Reptile nicht
+Denn Harst erreicht die beiden anderen Reptile nicht
 mehr … Eines von diesen hat nur noch einen Giftzahn …
 
 Ich bin nur Nachahmer der Taktik des Freundes. Leider
@@ -2487,7 +2487,7 @@ Die Zähne hängen in dem Lederstreifen …
 
 Ich bin blaß geworden …
 
-»beinahe, mein Alter …!!« —« und Harst atmet
+»Beinahe, mein Alter …!!« — und Harst atmet
 tief auf …
 
 Unsere giftigen Wächter sind jetzt nicht mehr wert als
@@ -2534,7 +2534,7 @@ ich den Wächter erledigen …«
 Wir beobachten den Schatten … Er kriecht endlos
 langsam …
 
-Dann — — schiebt sich Harald auf allen Vieren davon,
+Dann — — schiebt sich Harald auf allen Vieren davon.
 
 In das Zelt hinein … Will durch die Zeltrückwand
 weiter am Talwandrande zu den Zelten der Gwali …
@@ -2592,7 +2592,7 @@ Ich eilte näher … Er warf mir die Zügel in die Hand,
 schlüpfte in das Zelt, kam … mit einem gefesselten Inder
 zum Vorschein …
 
-das Zelt war nicht leer gewesen … Zum Fragen hatte
+Das Zelt war nicht leer gewesen … Zum Fragen hatte
 ich keine Zeit …
 
 Harst hob den Mann in den Sattel des einen Tieres,
@@ -2652,7 +2652,7 @@ höher erstrahlend … Die Sonne rückte über den Dunst des
 Horizontes … Wir waren gerade auf einem Hochplateau …
 In der Ferne unendliche grüne Flächen: Dschungel!
 
-Aber noch erwacht erblickten wir … Noch etwas
+Aber noch erwacht erblickten wir … Noch etwas.
 
 Gerade unter uns …
 
@@ -2694,9 +2694,9 @@ preisgab …
 Denn — ein Blick in sein Gesicht zeigte mir junge,
 verklärte Züge … Ein Gesicht, von Leiden gebleicht, mit
 den Falten des Dulders … Umwuchert von dunklem Bartgelock,
-gekleidet in Lumpen — stinkend von Schweiß
+gekleidet in Lumpen — stinkend von Schweiß.
 
-Und doch ein Gleißen in den Augen, Übermächtig für
+Und doch ein Gleißen in den Augen, übermächtig für
 einen gesunden Verstand … — meiner Ansicht nach …
 
 »Hinab!!« rief der Mann … »Hinab …!! Wir
@@ -2746,7 +2746,7 @@ Ich als schlechtester Reiter der letzte von uns dreien …
 
 Ich schaue mich immer wieder um …
 
-dann bleibt Harald zurück …
+Dann bleibt Harald zurück …
 
 Ruft mir zu:
 
@@ -2784,7 +2784,7 @@ sicherste Beweis!«
 
 Ich hätte vieles zu fragen …
 
-doch wir flüchten weiter … Der Führer wieder voran
+Doch wir flüchten weiter … Der Führer wieder voran
 … Neben ihm der Panther, stets gleichen Schritt mit
 dem Reittier haltend …
 
@@ -2871,7 +2871,7 @@ Und verschwindet wieder in dem kleinen Marmorschloß
 …
 
 Wir werfen uns am Rande der Terrasse nieder …
-Der Zickzackpfad ist in allen seinen Windungen zu Überschauen
+Der Zickzackpfad ist in allen seinen Windungen zu überschauen
 … Eine Schlange von Männern steigt empor …
 
 <@pagebreak/>
@@ -2938,7 +2938,7 @@ Mein: »Der Panther erkannte den früheren Herrn, den
 die Rani im Tale der Schlangen von zwölf Vertrauten
 gefangen halten ließ …«
 
-ich nicke nur automatenhaft … So ganz begreife ich
+Ich nicke nur automatenhaft … So ganz begreife ich
 noch immer nicht …
 
 »Und jetzt, mein Alter, dürfte Sidar Lampsa Bakur sich
@@ -2969,7 +2969,7 @@ es mir …
 lernten … Das Mädchen hieß Barmalar, wenn Du willst:
 Prinzessin Barmalar …!«
 
-»und — Mitschuldige der Rani?!«
+»Und — Mitschuldige der Rani?!«
 
 »Ja — Mitwisserin … genau wie der Yogi, der der
 Großvater mütterlicherseits ist … oder war … Man weiß
@@ -3044,7 +3044,7 @@ des totgeglaubten Radjah von Gwala …
 Sie tragen goldene Platten, auf denen altindische hohe
 Trinkbecher stehen …
 
-der Fürst trinkt uns zu …
+Der Fürst trinkt uns zu …
 
 »Mr. Harst, — das Wohl meiner Brüder Harst und
 Schraut …!«
@@ -3120,7 +3120,7 @@ Wir beide treten zurück …
 Werden Zeugen einer Szene, wie sie kein Filmoperateur
 »stellen« kann.
 
-die Dorfbewohner, Hirten, Bauern sind nicht mehr das
+Die Dorfbewohner, Hirten, Bauern sind nicht mehr das
 ruhige, gemessene, stolze Bergvolk …
 
 Die Freude hat sie verwandelt … Männer, Weiber,
@@ -3171,7 +3171,7 @@ Und packt doch …
 
 Wir spüren die freudige Erregung dieser Stunde …
 Wir fühlen mit, was in diesen schlichten Menschen vorgeht,
-die einer Despotin harte Hand jahrelang Über sich wußten
+die einer Despotin harte Hand jahrelang über sich wußten
 und nun den geliebten Herrn wiedergefunden haben … — —
 
 Ich komme zum Ende …
@@ -3183,8 +3183,8 @@ Gestalten, modern bewaffnet, tadellos beritten …
 Mit ihnen die Würdenträger von Gwala und an die
 tausend andere Reiter …
 
-der Radjah sollte in feierlichem Zuge zur Hauptstadt
-geleitet werden,
+Der Radjah sollte in feierlichem Zuge zur Hauptstadt
+geleitet werden.
 
 Inzwischen hatten wir jedoch dem Fürsten von den
 Vorgängen auf dem Felsen der Laune berichtet.
@@ -3215,9 +3215,9 @@ den Decken zu schälen. Verwesungsdünste stiegen uns entgegen
 daher gelöst worden, inwieweit Barmalar und der Yogi an
 dem Verbrechen der Rani beteiligt waren. — Der Fürst
 hat die beiden trotzdem in der Hauptstadt Gwalanda feierlich
-bestatten lassen. Raßmalars Leiche blieb in Jenem Tale
+bestatten lassen. Raßmalars Leiche blieb in jenem Tale
 unter dem Steinhaufen — an jener Stelle, wo das Volk
-Über sie Gericht gehalten. —
+über sie Gericht gehalten. —
 
 Wir beide haben dann zwei wundervolle Wochen in
 Gwalanda verbracht … mit unserem Bruder Sidar Lampsa
