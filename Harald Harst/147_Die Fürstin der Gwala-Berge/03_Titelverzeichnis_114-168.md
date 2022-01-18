@@ -3,7 +3,7 @@
 <div style="font-size: large; text-align: center;">Titel-Verzeichnis der Harald Harst-Bändchen.</div>
 
 <table style="table-layout:fixed; font-size: x-small;">
-<tr><td style="width:50%">114. Der Mann m. d. Glasauge.  </td><td rowspan="2" style="width:50%">143. Das Gespenst von Jan Mayen.</td>
+<tr><td style="width:50%">114. Der Mann m. d. Glasauge.  </td><td rowspan="2" style="width:50%">143. Das Gespenst von Jan Mayen.</td></tr>
 <tr><td>115. Der Kopf d. Maharadscha.                    </td></tr>
 <tr><td>116. Die Treppe des Todes.                       </td><td>144. Das geheimnisvolle Floß.                </td></tr>
 <tr><td>117. Doktor Groupys Verhängnis.                  </td><td>145. Die Familientruhe der Darlingtons.      </td></tr>
@@ -36,7 +36,7 @@
 <tr>                                                          <td>165. Das Rätsel d. 3 Schlüssel.              </td></tr>
 <tr><td rowspan="2">140. Die Wachspuppe d. Trödlers.     </td><td>166. Miß Grandells letzte Nacht.             </td></tr>
 <tr>                                                          <td rowspan="2">167. Das Geheimnis des Inselforts.</td></tr>
-<tr><td>141. Der Maskenball d. Toten.                    </td>
+<tr><td>141. Der Maskenball d. Toten.                    </td></tr>
 <tr><td>142. Die Villa mit den vier Schornsteinen.       </td><td>168. Das Wespennest von Potanur.             </td></tr>
 </table>
 
