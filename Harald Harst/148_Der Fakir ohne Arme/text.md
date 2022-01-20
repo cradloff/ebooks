@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-Der Fakir ohne Arme
+<h1>Der Fakir ohne Arme</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Die Taubenpost.</h3>
@@ -8,39 +8,34 @@ Der Fakir ohne Arme
 Wir wohnten damals im Hotel d’Angleterre in Bombay.
 Inkognito. Wir wollten uns ausruhen und Bombay dann
 in aller Stille verlassen. Wir hatten uns als holländische
-Kaufleute ausgcageben, und unsere Masken waren ebenso
-bieder und unauffällig wie unsere Namen van konnten
-und Schreckten …
+Kaufleute ausgegeben, und unsere Masken waren ebenso
+bieder und unauffällig wie unsere Namen van Hoonler
+und Schreetjen …
 
 Niemand beobachtete uns. Wir schlenderten am zweiten
-Tage gern sechs Uhr nachmittags am Hafen entlang und
-wurden so seinen, wie eine große überaus elegante Privatjacht
-am Kai jetzt:’ »hie. Die Jacht hieß Hudson, und am
-&Leck webte stolz das Sternenbanner.
+Tage gegen sechs Uhr nachmittags am Hafen entlang und
+wurden so Zeugen, wie eine große überaus elegante Privatjacht
+am Kai festmachte. Die Jacht hieß Hudson, und am
+Heck wehte stolz das Sternenbanner.
 
-Harald sagte lebvbbaft:
+Harald sagte lebhaft:
 
-»Ab — Hudson! Sie gehört den größten Kriegsgewinnler
+»Ah — Hudson! Sie gehört dem größten Kriegsgewinnler
 der Vereinigten Staaten, Thomas Orlington,
-Paket Milliardär, im Jahr 1914 noch Besitzer eines kleinen
-Kramladens auf Manhattan ’… Muß ein Genie sein
+jetzt Milliardär, im Jahr 1914 noch Besitzer eines kleinen
+Kramladens auf Manhattan … Muß ein Genie sein
 dieser Orlington … Man sagt, daß er verschiedene
 europäische Staaten bankerott machen kann, wenn er will …
 Über die Größe seines Vermögens gehen die tollsten Gerüchte
 um … An der Neuyorker Börse schätzt man ihn auf
-
-in Milliarden Dollar … jene Dir mal aus, mein
-
-er, was das in Reichsmark bedeutet …! Wenn ich so
-reich wäre, wartete ich meinen Ernst endgültig cm den Nagel
+zehn Milliarden Dollar … Rechne Dir mal aus, mein
+Alter, was das in Reichsmark bedeutet …! Wenn ich so
+reich wäre, würde ich meinen Beruf endgültig an den Nagel
 hängen …«
 
-148
 <@pagebreak/>
-00SSSSSSSSSS 4 SDSSDSSSSDSSSSD
-
-»Na — na …!!« Und ich lachte … »Du und an den;
-Nagel hängen, Du und faulenzen …! Dazu hast Du unseren:
+»Na — na …!« Und ich lachte … »Du und an den
+Nagel hängen, Du und faulenzen …! Dazu hast Du unseren
 Beruf doch viel zu lieb …!«
 
 Er nahm eine frische Mirakulum aus dem Etui und
@@ -52,14 +47,13 @@ des Kais …
 »Vorsicht ist stets bekannt …« warf er so im Plaudertone
 hin … »Meine Mirakulum sind zu bekannt … Und
 drüben die beiden Leute wandeln auf faulen Pfaden …
-großen uns mißtrauisch an, obwohl ihr Hauptinteresse der
+glotzen uns mißtrauisch an, obwohl ihr Hauptinteresse der
 Jacht sich zuwendet … Bitte, schau nicht hin, mein Alter
-… « Die beiden Kerle sehen wie Matrosen aus und halten
+… Die beiden Kerle sehen wie Matrosen aus und halten
 sich hinter einem Stapel Kisten halb verborgen … — Wir
-
-wollen weitergeben … Ich habe absolut keine Luft, hier
-etwas zu beobachten, das mach zeigen könnte, unsere Ferien
-bewilligen und …
+wollen weitergeben … Ich habe absolut keine Lust, hier
+etwas zu beobachten, das mich reizen könnte, unsere Ferien
+abzukürzen und …«
 
 Und — schwieg …
 
@@ -75,12 +69,12 @@ holländische Großkaufleute, schlenderten wir davon …
 Ich aber wußte genau, daß die Ferien nun in der
 Tat vorüber. Ich kannte meinen Harald … Wenn der
 »etwas höchst Merkwürdiges« beobachtet hatte, so hieß das
-mit aller Bestimantheit, daß er diesem »höchst Merkwürdigen«
+mit aller Bestimmtheit, daß er diesem »höchst Merkwürdigen«
 auf den Grund gehen würde …
 
 Wir bogen in die breite Edward-Street ein …
 
-fragte: »und — was sahst Du, Harald?«
+Ich fragte: »Und — was sahst Du, Harald?«
 
 »Daß eine blonde Dame aus einem der runden Heckfenster
 der Jacht den beiden Matrosen Zeichen gab und
@@ -88,64 +82,61 @@ der Jacht den beiden Matrosen Zeichen gab und
 
 »Hm — und einen Zettel auf den Kai warf — ein
 Papierkügelchen — dergleichen …«
-<@pagebreak/>
-SSSSSDSSDSSS 3 DSSSSSSSSSSDS
 
-»Nicht erlebt nicht schlecht … — Du bemerktest Dock
+<@pagebreak/>
+»Nicht schlecht, nicht schlecht … — Du bemerktest doch
 die vielen Möwen, die die ankernden Schiffe und auch
 die Hudson umschwärmten …«
 
-… Und …?!«
+»Ja … Und …?!«
 
-»Nun, weil so zahlreiche Möwen in der Lust schwebten,
-konnte niemand auf die graue Brieftaube aufsmerksan!
-werden …“«
+»Nun, weil so zahlreiche Möwen in der Luft schwebten,
+konnte niemand auf die graue Brieftaube aufmerksam
+werden …«
 
 »Also — die blonde Frau ließ eine Brieftaube aus
-dem »Fenster emporstiegen Y«
+dem Fenster emporfliegen?«
 
 »Ja … Sie tat es aber erst, nachdem einer der Matrosen
-ihr zugewinkt hatte … — So, hier wollen wir ir
+ihr zugewinkt hatte … — So, hier wollen wir in
 diese Seitenstraße einschwenken, die wieder zum Hafen hinabläuft
 und die uns den beiden Matrosen näherbringen
 wird — von hinten …«
 
 Er seufzte … »Mein Alter — ade Ferien!! Eine
 Milliardärsjacht, zwei schäbige Matrosen, ein blondes, hübsches
-Weib und eine Brieftaube: sollen wir uns das entgehen
+Weib und eine Brieftaube: sollen wir uns *das* entgehen
 lassen?!«
 
 Und ich — lachend: »Allerdings nicht …! Milliardäre
 sind lohnende Objekte, sowohl für uns wie für unsere verehrten
 Freunde, die Herren Gauner aller Arten …«
 
-Da öffnete sich die Straße bereits aus den Kai …
+Da öffnete sich die Straße bereits auf den Kai …
 
 Das wundervolle Bild eines der schönsten und sichersten
 Häfen der Welt lag vor uns …
 
 Links am Kai die schneeweiße Jacht mit dem Sternenbanner
-am weh — — Und dreißig Schritt halbrechts der
+am Heck — — Und dreißig Schritt halbrechts der
 Stapel Kisten … Die beiden Matrosen — noch immer auf
-ihrem wollen …
+ihrem Posten …
 
-»Glück muß der Morsche haben …!!« meinte Harald,
-»Drüben die kleine Kneipe mit dem Zelt vor der Tür biete!
-uns einen bequemen Beobachtungsftand …«
+»Glück muß der Mensch haben …!« meinte Harald.
+»Drüben die kleine Kneipe mit dem Zelt vor der Tür bietet
+uns einen bequemen Beobachtungsstand …«
 
-Und wir gingen, fanden ein Tischchen hinter grüne
-Schutzwand, bestellten bei dem katzbucelten Chinesen Dich
-Getränke und lugten »durch das Grün hinaus in das noch
-krummer grelle Sonnenlicht …
+Und wir gingen, fanden ein Tischchen hinter grüner
+Schutzwand, bestellten bei dem katzbuckelten Chinesen
+Eisgetränke und lugten durch das Grün hinaus in das noch
+immer grelle Sonnenlicht …
 
 Um uns her saßen Seeleute, Kapitäne, Schiffsoffiziere
 <@pagebreak/>
-SSSSSSSSSSSS 6 28SSSSSSSSSSD
-
-… — … E32 war eine bessere Kneipe, An zwei Tischen wurde
+… Es war eine bessere Kneipe. An zwei Tischen wurde
 sogar Sekt getrunken …
 
-Man benahm sich hier allgemein sehr zwanglos … — —
+Man benahm sich hier allgemein sehr zwanglos …
 Für völlig nüchterne Gäste, wie wir es waren, ging es reichlich
 lärmend her …
 
@@ -158,18 +149,18 @@ einer brüllte:
 »Kommt aus Kolombo, die Schieber-Jacht …!! Sah
 sie dort im Hafen ankern … Macht seine Hochzeitsreise,
 der Orlington …! Kenne den Kerl von früher her …
-Gabe so manchmal bei ihm Kleinigkeiten gekauft, als er
-noch die Hasenstore in Neuyork hatte …«
+Habe so manchmal bei ihm Kleinigkeiten gekauft, als er
+noch die Hafenstore in Neuyork hatte …«
 
 Unsere beiden Matrosen kamen jetzt gleichfalls auf die
-bissige zu. Ich konnte mir die Gesichter in Ruhe anschauen.
+Kneipe zu. Ich konnte mir die Gesichter in Ruhe anschauen.
 
-Der eine war lang, lagen, bartlos, sonngebräunt —
-»ins Visage wie ein Sammler, — verwegen, frech, blitzende
+Der eine war lang, hager, bartlos, sonngebräunt —
+eine Visage wie ein Cowboy, — verwegen, frech, blitzende
 Augen unter dicken Brauen …
 
 Der andere einen Kopf kleiner, schmal in den Schultern,
-gleichfalls sehnig. um Das Gesicht einen blonden kurzen
+gleichfalls sehnig, um Das Gesicht einen blonden kurzen
 Bart … Und auch dieses Gesicht verdiente Beachtung …
 Es war nicht weniger intelligent, nicht weniger kühn als
 das des Langen …
@@ -183,75 +174,70 @@ nicht recht stimmte …
 
 Erstens: ihr Gang!
 
-Das war niemals der Gang von vergessen Jan
-waren …!
+Das war niemals der Gang von seefesten Jan
+Maaten …!
 
-Und dann die Haltung …!! Etwas Stolzes, Selbst-Genusses
+Und dann die Haltung …! Etwas Stolzes, Selbstbewußtes
 kam in der Art zum Ausdruck, wie die beiden
 die Köpfe trugen … Nichts Faules, Nachlässiges war in
 <@pagebreak/>
-2222220200202202 7&nbsp;220020202080&nbsp;2020202202
-
-ihren Bewegungen … Sie hielten sich straff, fast mili-täriji?)
+ihren Bewegungen … Sie hielten sich straff, fast militärisch
 … —
 
-Sachen sie dann einen Blick auf die besetzten Tisch
+Nachdem sie dann einen Blick auf die besetzten Tische
 geworfen hatten, schwenkten sie ab und schritten davon …
-Dicke Gäste hier waren zu sein für sie …
+Die Gäste hier waren zu fein für sie …
 
 Wir hatten unsere Getränke sofort bezahlt und erhoben
-
 uns nun …
 
 Hörten aber noch, wie derselbe Kapitän mit seiner
-Orkanstimme seinen Freunden zurück:
+Orkanstimme seinen Freunden zurief:
 
-»Verdammt — die beiden Boys, die da soeben vorn
-
-übergingen, sind ein paar seltsame Vögel … Kamen in
-Kolonmibo zu mir an Bord … Bezahlten die Passage bis
-hier … Wurde nicht recht schlau aus den Brüdern …
+»Verdammt — die beiden Boys, die da soeben vorübergingen,
+sind ein paar seltsame Vögel … Kamen in
+Kolombo zu mir an Bord … Bezahlten die Passage bis
+hier … Wurde nicht recht schlau aus den Brüdern …«
 
 Mehr hörten wir nicht …
 
 Aber — auch das genügte ja …
 
 Wir nun hinter den beiden her … Mit aller Vorsicht
-
 … Immer in Deckung bleibend …
 
-Und die Boys waren mißtrauisch wie zwei fteckbriese-lic
+Und die Boys waren mißtrauisch wie zwei steckbrieflich
 Verfolgte … Schließlich nahmen wir einen Wagen,
 und Harald sagte dem braunen Kutscher Bescheid, der denn
-auch infolge eines im voraus gezahlten Trinkgeldes üÜber-aus
+auch infolge eines im voraus gezahlten Trinkgeldes überaus
 gewandt seine Aufgabe erledigte …
 
 Freilich — wir mußten Geduld haben …
 
 Bis weit über die Eingeborenenstadt hinaus wanderten
 die beiden, bis zum Eingang des jetzt völlig verwilderten
-Parkes des ehemaligen hiervon-Schlosses, einer höchst malerischen
+Parkes des ehemaligen Djeibar-Schlosses, einer höchst malerischen
 Ruine inmitten von dornenumwehrten Felsmassen.
 
 Wir fuhren im dichten Strome anderer Fuhrwerke aller
-An! über den Park hinaus, entlohnten dann den braunen
+Art über den Park hinaus, entlohnten dann den braunen
 Kutscher und wanderten auf einem schmalen Fußweg dem
 Parke wieder zu, gelangten an die Westseite der verfallenen
 Mauer und drangen hier trotz der auch an dieser Stelle
-eindringlich die Touristen warnenden Insel
+eindringlich die Touristen warnenden Tafel
 
-!! Vorsicht!!
-!! Giftschlangen!!
-im diese seine pfadlose Wildnis ein …
+<p class="centered">!! Vorsicht !!</p>
+<p class="centered">!! Giftschlangen !!</p>
+
+in diese grüne pfadlose Wildnis ein …
+
 <@pagebreak/>
-DSSSSSSSSSSS € DSSSSDSSSSSSD
-
 Nur Indien zeigt dem Fremden in der Nähe der Großstädte
 ein solches Doppelgesicht …
 
 Nur in Indien findet man vier Kilometer von modernen
 Bahnhöfen, von tadellosen Straßenbahnen und abends in
-Licmsluten arstrahlenden Riesenhotels entfernt derartige dem
+Lichtfluten erstrahlenden Riesenhotels entfernt derartige dem
 Verfall preisgegebene, einstmals hervorragende Baudenkmäler
 und Parkanlagen …
 
@@ -260,21 +246,21 @@ Tritt, daß dieses ungeheure Land mit seinen zweihundert
 Millionen Einwohnern noch vor kaum zwei Jahrhunderten
 eine Epoche unerhörten Glanzes durchlebt hat … —
 
-Wir drangen in die Chronik ein …
+Wir drangen in die Wildnis ein …
 
 Wir, denen dieses Indien nichts Neues mehr bieten
-konnte … Denen die Kobra mit der briklengeschmücten
-aufgeblasener Haube kaum mehr eine Gefahr bedeutete …
+konnte … Denen die Kobra mit der brillengeschmückten
+aufgeblasenen Haube kaum mehr eine Gefahr bedeutete …
 
 Fanden schließlich eine Art Pfad, der sich durch das
 Gestrüpp schlängelte … Fanden unter Unkraut vergrabene
-Marmonsprinagbrunmren mit köstliken Marmorfiguren, die
-selbst in ihrer Verwitteruna noch das Auge entzückten …
+Marmorspringbrunnen mit köstlichen Marmorfiguren, die
+selbst in ihrer Verwitterung noch das Auge entzückten …
 
-Fanden eingestürzte Marmorpavillons, zusammenge
-Gartens Wardelhallen, deren Wände noch die Spuren von
-Goldeinlagen zeigten … Das Gold selbst war bärtiger ge
-stehlen worden, brutal hernousgekrabt …
+Fanden eingestürzte Marmorpavillons, zusammengesunkene
+Wandelhallen, deren Wände noch die Spuren von
+Goldeinlagen zeigten … Das Gold selbst war längst gestohlen
+worden, brutal herausgekratzt …
 
 Dann eine Lichtung … Und drüben der Hauptweg —
 die Allee, die vom Parktor hierher führte …
@@ -283,33 +269,32 @@ Und ringsum die feierliche Totenstille abgestorbener
 Herrlichkeit …
 
 Ringsum nur das ebenso feierliche Rauschen tropischer
-Riesenbaume … Und das vielstimmige Konzert der Es
+Riesenbäume … Und das vielstimmige Konzert der
 gefiederten Bewohner der Wildnis …
 
 Hin und wieder das grelle Aufkreischen der hier in voller
-Freiheit hausenden graugrünen gegen …
+Freiheit hausenden graugrünen Affen …
 
 Und — noch etwas …
 
-Etwas — auf das Harald mich aufmerksam-machte …
+Etwas — auf das Harald mich aufmerksam machte …
 
 Links von uns ein geradezu ungeheurer, in diesen
-rechten sonst sehr seltener Rasamala-Baum …
-<@pagebreak/>
-SSSSSSDSDSSSSS 9  S0DSSSSSSSSSSD
+Breiten sonst sehr seltener Rasamala-Baum …
 
+<@pagebreak/>
 Über diesem Riesen in der klaren Luft ein Schwarm
 Tauben …
 
 Tauben …!!
 
-Und — als ich nun, was so ruhelos, eine Vermutung
+Und — als ich nun, was so nahelag, eine Vermutung
 hinsichtlich dieser zahmen, kreisenden Vögel aussprechen
 wollte, zog Harald mich rasch in die Büsche zurück …
 
 Ich sah … sah, daß die beiden schäbigen Matrosen
-auf einer Leiter aus den untersten Seiten des Rasamala
-hevabstiegen …
+auf einer Leiter auf den untersten Ästen des Rasamala
+herabstiegen …
 
 Daß sie der Allee zuschritten …
 
@@ -322,32 +307,28 @@ gebracht und dort der Blonden Übergeben worden …«
 
 So sprach er …
 
-Und kurzer und übersichtlicher konnten wohl kaum unsere
+Und kürzer und übersichtlicher konnten wohl kaum unsere
 einzelnen Beobachtungen zu einem Ganzen zusammengeschmiedet
-weitere … — …
-
-kg ha
+werden …
 
 <h2>2. Kapitel.</h2>
 <h3>Gräfin Wera …</h3>
 
 Drei Stunden später …
 
-Ein Anden Bild: die Vorderseite der Medaikle von
+Ein ander Bild: die Vorderseite der Medaille von
 Bombay, wenn man so sagen will …
 
-Hotel Excelsior — auf den Malabar Stils … Kein
+Hotel Excelsior — auf den Malabar Hills … Kein
 Hotel — ein Palast … Ein Bauwerk, bei dessen Entwurf
 der Künstler alles vermieden hatte, was auch nur entfernt
 an ein Massenlogierhaus erinnern konnte …
 
 In diesem modernen, stilvollen Prachthotel, bei dessen
-Inneneinrichtung überwiegend deutsche Raumkunft Triumphe
+Inneneinrichtung überwiegend deutsche Raumkunst Triumphe
 gefeiert hat, war der amerikanische Großmogul Mr. Thomas
 Orlington nebst Gattin und Gefolge abgestiegen, obwohl
 <@pagebreak/>
-22\.000000 Solde 10&nbsp;0202020200020&nbsp;220222
-
 er vielleicht auf seiner Jacht bequemer gewohnt hätte. Aber
 es gehörte nun einmal zum guten Ton, das Excelsior zu
 besuchen … Außerdem will man doch schließlich als Milliardär
@@ -357,31 +338,30 @@ Zehn Uhr abends also … Im Speisesaal des
 Excelsior …
 
 Eine erstklassige Jazzkapelle macht Geräusche. Je erstklassiger
-Jazzkapcllen sind, desto weniger Musik im alten
-überlebten Sinne … Da? heißt: diese alte überlebte Musik
+Jazzkapellen sind, desto weniger Musik im alten
+überlebten Sinne … Das heißt: diese alte überlebte Musik
 wird wieder zu Ehren kommen. Die Hälfte der Menschheit
-ist eben nach; dem Weltkrieg ein wenig außer Rand und
+ist eben nach dem Weltkrieg ein wenig außer Rand und
 Band geraten, was den Geschmack betrifft … Bubiköpfe,
-Knicrökchen, Damen um die Vierzig, die wie Babys von
-hinten anschaun, — — Weltfkrarkbeit — wie manches andere
+Knieröckchen, Damen um die Vierzig, die wie Babys von
+hinten ausschaun, — — Weltkrankheit — wie manches andere
+… All das renkt sich von selbst wieder ein …
 
-All das renkt sich von selbst wieder ein …
-
-vi Die Jazzkapelle gab vor, den Donauwellen-Walzer zu
+Die Jazzkapelle gab vor, den Donauwellen-Walzer zu
 spielen …
 
 An der Tafel neben dem Marmorspringbrunnen wiegt
-sich Mr. Ton Banknoten im Korbsessel nach dem wver-schwonmnmenen
+sich Mr. Tom Orlington im Korbsessel nach dem verschwommenen
 Takt grunzender Instrumente …
 
 Neben ihm sitzt seine blonde Gattin … Und weiter
-hiesigen am selben Tisch des Dollarkönigs Gefolge: Privatsekretär,
+sitzen am selben Tisch des Dollarkönigs Gefolge: Privatsekretär,
 Leibarzt, der Kapitän der Jacht und ein paar
 Freunde … — Milliardäre haben immer Freunde …
 
 Und drei Tische weiter zwei blondbärtige Herren mit
-Hornbrillen … Herren, die mit Andacht das Menü her-unteressen
-und die sHcheinbar für nichts anderes Interesse
+Hornbrillen … Herren, die mit Andacht das Menü herunteressen
+und die scheinbar für nichts anderes Interesse
 haben …
 
 Wir …
@@ -391,35 +371,33 @@ hier den Abend zubringen …
 
 Ringsum eine Gesellschaft, die geradezu nach Gold
 riecht … Hier wie überall Herr und Frau Raffke und
-Familie »Neureich aller Nationalitäten Üppig vertreten …
+Familie Neureich aller Nationalitäten üppig vertreten …
 
 Armes Hotel Excelsior …!
 
 Da ist ein Oberkellner, der still hin und her geht — mit
 <@pagebreak/>
-22SESDSSSSSSSS 11 SSSSSSSSSSSS
-
-einem Gang merkwürdigen Gesichtsausdruck … So, all?
+einem ganz merkwürdigen Gesichtsausdruck … So, als
 ob er immerfort innerlich grinse …
 
-Wir kennen ihn … Der Oberkellner hieß einst fünf!
-Sergius in Frau und war der drittreichste Mann Europas
-— —« einst …
+Wir kennen ihn … Der Oberkellner hieß einst Fürst
+Sergius Tschergin und war der drittreichste Mann Europas
+— — einst …
 
-Und fraglos grinst er innerlich … Denn er kann beur-keine
+Und fraglos grinst er innerlich … Denn *er* kann beurteilen,
 was vornehmes Getue ist und was wahre Bildung
 heißt … —
 
 Die beiden Holländer haben längst festgestellt, daß Frau
-Orlington, seit fünf Wochen glückliche Gattin des Neozuyorker
-Nabobs, dieselbe Dame ist die aus dem runden Kabinenfenster
-die Brieftaube aussteigen ließ … Der Gang hier
+Orlington, seit fünf Wochen glückliche Gattin des Neuyorker
+Nabobs<@refnote 1/>, dieselbe Dame ist, die aus dem runden Kabinenfenster
+die Brieftaube aufsteigen ließ … Der Gang hier
 ins Excelsior hat also gelohnt …
 
-Ich präpariere mir ein RöstschhnittHen mit Kaviar und
+Ich präpariere mir ein Röstschnittchen mit Kaviar und
 nehme den ersten Bissen, als Harald, der mir soeben einen
 Vortrag über die verschiedenen Sorten Kaviar hält, plötzlich
-mitten im Satz steht und dann … »Donnerwetter!!«
+mitten im Satz stockt und dann … »Donnerwetter!!«
 sagt — und dies in einem Tone, als ob er so ziemlich aus
 allen Wolken falle …
 
@@ -428,8 +406,8 @@ allen Wolken falle …
 Da sagt er: »Gegenüber — genau unter dem großen
 Ventilator …«
 
-Ich beeile mich keineswegs hinzusetzen … So allmählich
-visierxe ich …
+Ich beeile mich keineswegs hinzusehen … So allmählich
+visiere ich …
 
 Und — — falle genau so aus den Wolken …
 
@@ -443,84 +421,82 @@ Lange trägt sogar Monokel …
 Ich schüttele den Kopf …
 
 »Harald, soll man so was für möglich halten …!!
-Die Boys Schnur vornehmer aus als das ganze Schiebergesindel
+Die Boys schaun vornehmer aus als das ganze Schiebergesindel
 hier rundum!«
 
-»Dja — geahnt hat« ich das …
+»Dja — geahnt hab’ ich das …«
 
-»Die Geschichte macht mir Spaß, mein Alter … Satz
+»Ich auch …«
+
+»Die Geschichte macht mir Spaß, mein Alter … Das
 <@pagebreak/>
-D0S00ü0OSSSSSSSSS 19 SSSSSSSSSSSS
+wird eine feine Arbeit, das wird ein »großer Fall« …!«
 
-Bild eine seine Arbeit, das wird ein »großer Fall« …!«
-
-»Ast es schon, wenn man bedenkt, daß die beiden Genie
+»Ist es schon, wenn man bedenkt, daß die beiden Gents
 bei dem armlosen Fakir, dem Taubenzüchter, waren — in
 seiner Baumhütte …«
 
 »Stimmt — der Schmierfink von Fakir im Park von
-Drehbar … Auch ein wandelndes Rätsel … Soll mit
+Djeibar … Auch ein wandelndes Rätsel … Soll mit
 seiner Enkelin dort erst seit zwei Wochen hausen, wie der
 Bettler vor dem Parktor uns zu erzählen wußte … In
 zwei Wochen haben sich Tauben an einen Schlag und an
 eine Umgebung völlig gewöhnt …«
 
-»und — das Ganze?« fragte ich leise. »Oh etwa des
+»und — das Ganze?« fragte ich leise. »Ob etwa des
 Nabobs junges Weib zweifelhafter Herkunft ist und etwas
-gegen Orlington plant, gegen seine Milliarden« 1«
+gegen Orlington plant, gegen seine Milliarden?!«
 
 Er … winkte einem Kellner …
 
-»Die India-merkt von Der vorigen Woche …« Deck
-stellte er …
+»Die India-World von Der vorigen Woche …« bestellte
+er …
 
-Und. da wußte ich daß ich in dem illustrierten Heft
+Und, da wußte ich, daß ich in dem illustrierten Heft
 etwas über Frau Orlington finden würde.
 
 Der Kellner brachte die Zeitschrift. Ich blätterte darin,
-Rand auch …: Photographien, acht Stück — von der Hochzeit
+fand auch …: Photographien, acht Stück — von der Hochzeit
 des Neuyorker Großmoguls …
 
 In dem Begleitartikel:
 
-»Miß Lydia Alexandra Wera Gräfin Oligow, Male
-russischer General von den Bolschewisten standrechtlich er
-schossen, flüchtete aus Sewastopol in der Verkleidung eine
+> »Miß Lydia Alexandra Wera Gräfin Oligow, Vater
+russischer General von den Bolschewisten standrechtlich erschossen,
+flüchtete aus Sewastopol in der Verkleidung eines
 Heizers und rettete sich nach Konstantinopel. Hier ersah
-sie, daß auch ihre Mutter und ihre Geschwister hinge
-mordet worden waren. Arm, krank und weltfremd, vorn
-lich verwöhnt und doch beseelt von einer Tatkraft, d!
-… durch die unerhörten Gefahren in ihr geweckt worden?
-schlug sie sich stets in Männerkleidung bis Neuyork durch:
+sie, daß auch ihre Mutter und ihre Geschwister hingemordet
+worden waren. Arm, krank und weltfremd, unendlich
+verwöhnt und doch beseelt von einer Tatkraft, die
+durch die unerhörten Gefahren in ihr geweckt worden,
+schlug sie sich stets in Männerkleidung bis Neuyork durch,
 wo andere russische Flüchtlinge des früheren Regimes
-für sie sorgten. Sie trat in eins der großen geringe
-
-Umrissen Orlingtons als Stenotypistin ein. reinigte
-sah sie zwei Jahre später, machte sie zu seiner Beiboot
+für sie sorgten. Sie trat in eins der großen Unternehmungen
+Orlingtons als Stenotypistin ein. Orlington
+sah sie zwei Jahre später, machte sie zu seiner
 <@pagebreak/>
-220020202000 0S2080 (senden;000080202888&nbsp;22080
-
-Privatsekretärin und heiratete sie, als er auf andere Weise nicht!
+Privatsekretärin und heiratete sie, als er auf andere Weise nicht
 zum Ziele kam …«
 
-Ich legte das Zeit aus der Hand. Unwillkürlich suchte
-mein Bis den Oberkellner, den Fürsten Sergius Tschergin.
+Ich legte das Heft aus der Hand. Unwillkürlich suchte
+mein Blick den Oberkellner, den Fürsten Sergius Tschergin.
 
 Auch er Russe … Auch er, wie wir durch den Direktor
 des d’Angleterre unter dem Siegel der Verschwiegenheit
 erfahren hatten, ein Flüchtling aus jenen Zeiten des
 Schreckens …
 
-Der Oberkellner stand hinter vor einem großen Spiegel,
-schien seine Krawatte zurechtznzupsen …
+Der Oberkellner stand hinten vor einem großen Spiegel,
+schien seine Krawatte zurechtzuzupfen …
 
 Schien …
 
-Der Spiegel gab zwei den Tisch Orlingtons wieder, …
+Der Spiegel gab auch den Tisch Orlingtons wieder …
 Und Wera Orlington — ich sah es ganz genau — führte
 die Hand an die Stirn, ballte diese Hand zur Faust und
 spreizte dann nur den Mittelfinger ab …
-gelb Dieselbe Hamwdbewegung tat der Fürst — genau dieselbe
+
+Dieselbe Handbewegung tat der Fürst — genau dieselbe
 …
 
 Dann wandte er sich um und schlenderte wieder durch
@@ -535,35 +511,34 @@ Ganz Oberkellner …
 
 Sprach ein paar Worte … schritt weiter … —
 
-Harald — ganz leise zu mir
+Harald — ganz leise zu mir:
 
-»So denke, mein Alter, wir lassen die Finger von
-dieser Geschichte weg … Das nicht mir nach Politik …
-Und zu weißt: mit derlei besagte ich mich nicht …!! Das ist
+»Ich denke, mein Alter, wir lassen die Finger von
+dieser Geschichte weg … Das riecht mir nach Politik …
+Und Du weißt: mit derlei befasse ich mich nicht …! Das ist
 stets ein Kampf gegen ein ganzes System …«
 
 »Du meinst, die beiden Gentlemen sind ebenfalls Russen,
 und Wera Orlington …«
 
-»- « … könnte Kraft der Milliarden ihres Mannes ins
-geheim Rachepläne schmieden — das meine il Wenn
+»… könnte Kraft der Milliarden ihres Mannes insgeheim
+Rachepläne schmieden — *das* meine ich! Wenn
 wir also die Sache weiterverfolgen wollen — aus Sport,
-bleiben wir nur Zuschauer und greifen auf keinen Fall ein«
+bleiben wir nur Zuschauer und greifen auf keinen Fall ein.«
 
-Ab scharfe mir nochmals Thomas Orlington an …
+Ich schaute mir nochmals Thomas Orlington an …
+
 <@pagebreak/>
-220020002&nbsp;2020S 14&nbsp;0000020222022
-
 Nun, für einen Kriegsgewinnler sah er überaus manierlich
-aus. Vierzig Jahre zählte en Dem mageren faltigen
+aus. Vierzig Jahre zählte er. Dem mageren faltigen
 Gesicht sah man die Intelligenz und die brutale Energie
 an. Sein Benehmen seiner Frau gegenüber war geradezu
-von Widerlicher Zärtlichkeit. Alles in allem eine sympathische
+von ritterlicher Zärtlichkeit. Alles in allem eine sympathische
 Erscheinung …
 
-dd schaute hin und beobachtete auch die geborene Gräfin
-etwas jichärfer … Ein sädönce8, kaltes Gesicht mit dünnen
-melancholischen Augen … Um den üÜppigen Mund ein
+Ich schaute hin und beobachtete auch die geborene Gräfin
+etwas schärfer … Ein schönes, kaltes Gesicht mit dünnen
+melancholischen Augen … Um den üppigen Mund ein
 rätselhafter Zug … schwer zu sagen, ob Seelenleid oder
 verbitterter Haß … Wenn sie mit Orlington sprach, lächelte
 sie ein wenig — ein ebenso fragwürdiges Lächeln …
@@ -574,31 +549,29 @@ mögen … Ich hätte mich vor diesem Sphinxlächeln gefürchtet
 
 Harald raunte nur:
 
-»Medusa — — das Lächeln der Brutaler …! — Mein
-Alter, ich möchte die Gedanken lesen, die in diesem Braucht,-
-Hirn sich jagen … Wehe denen, die Wera Oligows Familie
+»Medusa — — das Lächeln der Blutgier …! — Mein
+Alter, ich möchte die Gedanken lesen, die in diesem Frauenhirn
+sich jagen … Wehe denen, die Wera Oligows Familie
 hinschlachteten …! Wir … werden die Zuschauer bleiben,
-Zuschauer, die nahe heute das d’Angleterre verlassen und
+Zuschauer, die noch heute das d’Angleterre verlassen und
 einen kleinen Bungalow mieten werden — in der Nähe
-des Dijeibar-Parkes … — Komm, für heute Abend ist’s
+des Djeibar-Parkes … — Komm, für heute Abend ist’s
 genug … Wir finden schon noch einen Agenten, der uns
-einen Bungalow veamittelt …«
+einen Bungalow vermittelt …«
 
 So verließen wir den Hotelpalast. Der Direktor im
 d’Angleterre wies uns an einen Inder, den er telephonisch
-anrief Um elf Uhr bereits fuhren wir im Auto und mit
-unseren Koffern in Begleitung des Wassers Selim Darba
-nach dem winzigen weißen Lawdhäus8chen, das zwischen den
-Hügeln westlich vom Dijeibar-Park unter alten Bäumen in
+anrief. Um elf Uhr bereits fuhren wir im Auto und mit
+unseren Koffern in Begleitung des Maklers Selim Darba
+nach dem winzigen weißen Landhäuschen, das zwischen den
+Hügeln westlich vom Djeibar-Park unter alten Bäumen in
 einem tadellos gepflegten Gärtchen lag. Drei Zimmer und
 reichlich Nebengelaß — dazu zwei Diener und einen Koch,
 all das für vierzig Mark pro Woche, — so etwas gibt es
 nur in Indien … —
 
-Die Diener und der Koch trafen um Mitternacht ein
+Die Diener und der Koch trafen um Mitternacht ein.
 <@pagebreak/>
-2F222020202002202082 13&nbsp;2020020220202280282
-
 Der Makler garantierte für ihre Ehrlichkeit. Es waren der
 Religion nach Hindus, ältere, bescheidene Leute, an den
 Umgang mit Europäern gewöhnt …
@@ -610,16 +583,16 @@ Möbel, alles peinlich sauber, das ganze ein Schmuckkästchen
 Selim Darba verabschiedete sich, nachdem er die Vorauszahlung
 für eine Woche in Empfang genommen hatte …
 
-Wär begleiteten ihn noch bis zur Gartenpforte …
+Wir begleiteten ihn noch bis zur Gartenpforte …
 Zu unseren Füßen jenseits des Weges breitete sich im klaren
-Mondlicht der weite Drehbar-Park aus …
+Mondlicht der weite Djeibar-Park aus …
 
 »Sagen Sie mal, Selim,« begann Harald, als der
-Makler sich schon zum Gehen wandte … »Wie kommt es.
+Makler sich schon zum Gehen wandte … »Wie kommt es,
 daß der Bungalow so spottbillig vermietet wird, daß er
-überhaupt leer steht? Da scheint mir irgend etwas nicht!
+überhaupt leer steht? Da scheint mir irgend etwas nicht
 so ganz zu stimmen, Selim … Uns gegenüber können
-Sie ganz stieg sein …«
+Sie ganz offen sein …«
 
 Selim wurde sichtlich verlegen …
 
@@ -638,7 +611,6 @@ ein Mord gewesen sein …«
 Er irrte sich … Es war kein Mord … Es war
 etwas ganz anderes …
 
-er
 <h2>3. Kapitel.</h2>
 
 <h3>Ein Irrtum in der Person …</h3>
@@ -1132,7 +1104,7 @@ Harald beugte sich über den Kopf des Tieres …
 »Nun ist es klar: sie haben ihn mit Chloroform zugesandt
 …! Was wir für ein Aussicht hielten, war eine
 Spritze, eine aus einem Blasrohr hergestellte lange Spitze,
-aus der die beiden Gentlemen den Hund mit Chloroform ein-sprengten
+aus der die beiden Gentlemen den Hund mit Chloroform einsprengten
 … — Vielseitige Herrschaften, weiß Gott!! —
 Nun in die Garagen, mein Alter … Aber Vorsicht …
 Der Boden hier ist vorkommt gefährlich … Die Villa im
@@ -2335,7 +2307,7 @@ schon zu Hunderten gesehen, aber nie geahnt, daß es so
 komische Vögel sind — die reinen Spaßmacher …
 
 Man hat ihnen die Flügel so weit gestutzt, daß sie nur
-bis zu ihrem ruppigen, struppigen Riesennest emvorflattern
+bis zu ihrem ruppigen, struppigen Riesennest emporflattern
 können …
 
 Mit den Fischen spielen sie förmlich Ball, bevor sie sie

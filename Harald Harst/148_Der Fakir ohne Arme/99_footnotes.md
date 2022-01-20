@@ -1,0 +1,4 @@
+<div class="anmerkungen">Anmerkungen</div>
+
+<@footnote 1 "01_Der Fakir ohne Arme.md">Nabob bezeichnet einen Menschen mit großem Reichtum und Einfluss, abgeleitet von einem historischen Herrschertitel in Südasien. (Wikipedia)</@footnote>
+
