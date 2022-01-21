@@ -617,12 +617,12 @@ etwas ganz anderes …
 
 Wir kehrten ins Haus zurück. Harald rief den Koch
 auf die Veranda, Der machte den intelligentesten Eindruck.
-Ahmed hieß er. Der Zuname tut nichts zur Sache.
-<@pagebreak/>
-2020020020028022222 16 20SSS0SS0000D200
 
+Ahmed hieß er. Der Zuname tut nichts zur Sache.
+
+<@pagebreak/>
 Harst hat seine besondere Art mit Farbigen umzugehen.
-Hirn, wo wir Holländer spielten — und die Niederländer
+Hier, wo wir Holländer spielten — und die Niederländer
 haben noch stets infolge ihrer ganzen Charakter-Veranlagung
 die Eingeborenen ihrer Kolonien friedlich für sich zu gewinnen
 gewußt, die Atchinesen ausgenommen — konnte er
@@ -630,69 +630,74 @@ seine Methoden unbeschadet unseres Aussehens als Europäer
 abermals anwenden,
 
 »Setz Dich, Ahmed …« Und er wies auf den dritten
-Korbsessel +…
+Korbsessel …
+
 Ahmed verneigte sich. »Das gebührt mir nicht, Sahib
-— — Was bestellt Du?«
+… — Was befiehlst Du?«
 
 »Nichts. Ich bitte Dich nur die Wahrheit zu sprechen …
 — Was ist in diesem Bungalow unlängst vorgegangen?
 Selim Darba wollte nicht recht mit der Sprache herausrücken,
 weil er fürchtete, wir könnten sofort wieder ausziehen
-… Wir sind jedoch keine alten Feuer. Also sprich
-ganz offen …
-he Ahmed ’ Wache ein? hilflose Handbewegung, schielte
+… Wir sind jedoch keine alten Weiber. Also sprich
+ganz offen …«
 
-op
+Ahmed machte eine hilflose Handbewegung, schüttelte
+den Kopf …
 
 »Sahib, ich und die beiden Diener, wir sind erst vorgestern
 hier in Bombay eingetroffen … Wir waren bis
 vorhin in Goa bei einem Portugiesen in Stellung. Wir
 wissen nichts, wirklich gar nichts … Es ist die Wahrheit …«
 
-Harald nahm die Zigarette aus dem Munde
+Harald nahm die Zigarette aus dem Munde …
 
 »Mein guter Ahmed, Du gestattest: Du lügst! Du
 hast von Selim Verhaltungsmaßregeln bekommen …
 Wenn Du in Goa gewesen bist, so beschreibe mir einmal das
-Zollhaus am Hafen …
-Der gute Ahmed ließ den Kopf auf die Brust warten
-(ins aber zog eine Zehnpfundnote aus — vor Stiefeln
+Zollhaus am Hafen …«
 
-»Da, Ahmed, das Seite mit den beiden Dienern …
-Zehn Pfund sind Dir Euch ein kleines Vermögen …«
+Der gute Ahmed ließ den Kopf auf die Brust sinken …
 
-Der Koch wand sich, als ob er Leib grimmen hätte …
+Harald aber zog eine Zehnpfundnote aus — der Brieftasche …
 
-Dann … »griff er nach der Banknote … Stieß hervor!
+»Da, Ahmed, das teile mit den beiden Dienern …
+Zehn Pfund sind für Euch ein kleines Vermögen …«
 
-»Sahib, in diesem Bungalow sind drei Männer der
+Der Koch wand sich, als ob er Leibgrimmen hätte …
+
+Dann … griff er nach der Banknote … Stieß hervor:
+
+»Sahib, in diesem Bungalow sind drei Männer verschwunden,
 <@pagebreak/>
-22DSSSOESSSSS 17&nbsp;0002000080080 00
-
-wunden, drei Europäer und ein junges Mädchen …
-or drei Wochen … Sie haben hier nur fünf Tage ge
-wohnt … Eines Morgens fanden wir — denn Rangun,
-dahin und ich waren gleichfalls diesen Europäern durch
+drei Europäer und ein junges Mädchen …
+Vor drei Wochen … Sie haben hier nur fünf Tage gewohnt
+… Eines Morgens fanden wir — denn Ramsur,
+Bahla und ich waren gleichfalls diesen Europäern durch
 Selim zugeteilt worden — dort im Wohnsalon alles mit
-Blut bespritzt und eine wilde Unordnung … Die lassen
+Blut bespritzt und eine wilde Unordnung … Die Koffer
 der Europäer waren erbrochen und alles daraus gestohlen,
 die Europäer selbst verschwunden … — Die Polizei kam
 und stellte fest, daß das Blut nichts als Ziegenblut war und
-laß die Leute offenbar nur so getan hatten, als seien sie
+daß die Leute offenbar nur so getan hatten, als seien sie
 ermordet und beraubt worden. Die Polizei hat sich nicht
-weiter um die Angelegenheit bemüht, Sahib …
+weiter um die Angelegenheit bemüht, Sahib …« —
+
 Ich war im ersten Moment enttäuscht … Andererseits
 aber auch beruhigt.
-Harald schien der Sache jedoch weit mehr Gewicht betrog
+
+Harald schien der Sache jedoch weit mehr Gewicht beizulegen
 …
+
 »Wie hießen die Leute?« fragte er, indem er eifrig
-82\. ahnte und sich halb in blaugraue Wolken hüllte …
+qualmte und sich halb in blaugraue Wolken hüllte …
+
 »Verzeih, Sahib … Die Namen waren sehr schwer
-
 … Ich habe sie vergessen … Es waren Russen …«
-Oh — da fuhr ich doch zusammen …
-Russen =«- —!! Und ich dachte an »Frau Orlington,
 
+Oh — da fuhr ich doch zusammen …
+
+Russen — —!! Und ich dachte an Frau Orlington,
 den Oberkellner-Fürsten und die beiden Gentlemen mit den
 kühnen Gesichtern …
 
@@ -702,44 +707,39 @@ Auch Harald beugte sich vor …
 
 »Ja, Sahib … Musiker … Sie spielten hier im
 Hotel Esplanade … Es waren Künstler … Die Polizei
-nimmt an, daß sie wegen zu geringer Bezahlung Kontrakt
-brüchig geworden sind … Sie wollten ihre Abreise bei
-
+nimmt an, daß sie wegen zu geringer Bezahlung kontraktbrüchig
+geworden sind … Sie wollten ihre Abreise
 bemänteln …«
 
-»So … es … — Hat die Polizei ermittelt, wohin
-erste gereist links
+»So … so … — Hat die Polizei ermittelt, wohin
+sie gereist sind?«
 
 »Ja … Auf einem Frachtdampfer, der nach Madras
 bestimmt war, waren heimlich vier Kabinenplätze belegt
+worden …«
 
-…
 <@pagebreak/>
-DSSSSSVPSSSSS [8 SSSSSSSSSSSS
-
 »Und die Russen haben diesen Dampfer auch wirklich
-mußt?«
+benutzt?«
 
-»Man nimmt es am, Sahib …«
+»Man nimmt es an, Sahib …«
 
 »So … so … — nimmt es an …! — Waren die
-vier aniteinander verwandt?«
+vier miteinander verwandt?«
 
-»30 … Es war ein Vater mit zwei Söhnen und
+»Ja … Es war ein Vater mit zwei Söhnen und
+Tochter … — Oh — jetzt fällt mir auch der Vatername
+ein Ursichow, — — Künstlerkapelle Ursichow — so
+war’s …!«
 
-7vchier … =ck Du — jetzt fällt mir auch der Vatername
-
-in? Vorschein, — — Künstlerkapelle weißen — so
-war’s …«
-
-»Dann — Durfte Nacht, Ahmed … Vor Selim ist ein
+»Dann — gute Nacht, Ahmed … Der Selim ist ein
 Narr, daß er uns dies verschweigen wollte …! Ziegenblut
 — — natürlich sind die vier ausgerückt! Ihre Instrumente
 waren wohl ebenfalls verschwunden?«
 
-»Es ist so, Sahib …
+»Es ist so, Sahib …«
 
-Ahmed bücektlingte und zog sich zurück.
+Ahmed bücklingte und zog sich zurück.
 
 Ich blickte Harald an …
 
@@ -748,57 +748,58 @@ große Nachtfalter …
 
 Nachtfalter mit dicken Köpfen … Wenn sie gegen die
 Glühbirne flogen, gab es einen leise klingenden Ton …
-jetzt beobachtete diesen Flattertanz ums Licht …
 
-»Alles drängt dem Lichte zu,« weinte er. »Und wenn
+Harst beobachtete diesen Flattertanz ums Licht …
+
+»Alles drängt dem Lichte zu,« meinte er. »Und wenn
 Jahrzehnte verflossen: jedes Verbrechen kommt einmal an
 den Tag. Die Fälle, in denen eine Untat unentdeckt bleibt,
-sind aufstellt Selten …«
+sind äußerst selten …«
 
-Ich wußte, dank er auf die vier Russen anspielte …
+Ich wußte, daß er auf die vier Russen anspielte …
 
-»du glaubst also doch, daß sie € ermordet worden sind?«
+»du glaubst also doch, daß sie ermordet worden sind?«
 fragte ich mit gedämpfter Stimme …
 
-»neun!«
+»Nein!«
 
 Ich war mehr als überrascht …
 
-»Was glaubst Du denn, Spruch?!«
+»Was glaubst Du denn, Harald?!«
 
 »Das werde ich Dir vielleicht zwei Stunden später
-rasch können …“« nickte en und erhob sich. Und — ganz
-»4.07 »jetzt gehen wir zum Schein schlafen … In Bohrer
-— neue Maskerade =. =… Dann der Fakir ohne
-Knie …
+sagen können …« nickte er und erhob sich. Und — ganz
+leise: »Jetzt gehen wir zum Schein schlafen … In Wahrheit
+— neue Maskerade … Dann der Fakir ohne
+Arme …!
+
 <@pagebreak/>
-0222222220220 1) 2200202022020
-
 Er schaltete das Licht aus …
-Und — im selben Moment ein anderen klingender
 
-an …
-so So, als ob ein Nachtfalter mit besonders hartem Kopf
-gegen die Birne der Lampe geklungen war …
+Und — im selben Moment ein anderer klingender
+Ton …
 
-Harst =«- aus dem Dunkel heraus:
+So, als ob ein Nachtfalter mit besonders hartem Kopf
+gegen die Birne der Lampe geflogen war …
+
+Harst — aus dem Dunkel heraus:
 
 »Gerade zur rechten Zeit …! das galt mir … —
-Bücke Dich, mein Alter … Krieche im Schuß der Veraida-brüstung
-zur Treppe … Und — Ruine dort auf … Es
+Bücke Dich, mein Alter … Krieche im Schutz der Verandabrüstung
+zur Treppe … Und — passe dort auf … Es
 war keine Riesenmotte, sondern ein Blasrohrpfeil … Ich
-hätte ihn ins Gesicht bekommen, wenn ich nicht im Ausfiel;
-en gegen die Lampenglocke gestoßen haben würde …
+hätte ihn ins Gesicht bekommen, wenn ich nicht im Aufstehen
+gegen die Lampenglocke gestoßen haben würde …
 Sie pendelte …«
 
 Daß ich unter diesen Umständen zunächst völlig vergaß,
 meinen Oberkörper in Sicherheit zu bringen, ist wohl verständlich
 …
 
-sich war tatsächlich wie gelähmt. Wenn man aus einem
-Gefühl vollkommener Sicherheit in solcher Weise Autos
-schlecht wird, wenn man bisher auch nicht im geringsten
-geahnt hat, daß jemand irgendwie Attentatspläne schmliedet,
+Ich war tatsächlich wie gelähmt. Wenn man aus einem
+Gefühl vollkommener Sicherheit in solcher Weise aufgeschreckt
+wird, wenn man bisher auch nicht im geringsten
+geahnt hat, daß jemand irgendwie Attentatspläne schmiedet,
 wenn man auch nicht im entferntesten ahnt, wer dieser oder
 diese Attentäter sein könnten, dann braucht man Zeit, sich
 in den jähen Umschwung der Dinge hineinzufinden …
@@ -808,157 +809,149 @@ Haralds Stimme da — ärgerlich, warnend:
 »Willst Du Dich morgen vielleicht als tote Leiche
 wiedersehen!«
 
-Und — da: duckte ich mich schleunigst … Haralds
+Und — da duckte ich mich schleunigst … Haralds
 billiger Kalauer war verdammt ernst gemeint …
 
-Duckte mich und kroch wie besohlen zur Treppe …
+Duckte mich und kroch wie befohlen zur Treppe …
 Draußen im Garten lugte der tief stehende Mond durch
 die Bäume und warf nur hier und dort helle Flecke auf
-den Boden — aus den Kies der Wege und den Rasenplatz
+den Boden — auf den Kies der Wege und den Rasenplatz
 … Alles andere lag im Schatten der heißen Tropennacht …
-… Meine Augen suchten und fanden nichts … Es war
-ja mit Sicherheit anzunehmen, daß der Blasrobricbühze na
-gelbem einen Schuß das Weite gesucht hatte …«
+
+Meine Augen suchten und fanden nichts … Es war
+ja mit Sicherheit anzunehmen, daß der Blasrohrschütze nach
+dem einen Schuß das Weite gesucht hatte …
+
 <@pagebreak/>
-S0SSSSSSSSSSSS 79) SSSSSSSSSSSS
-
 Zehn Minuten vergingen …
-on Harst sah) und hörte ich nichts …
 
-Nocknmmnals zehn Minuten …
+Von Harst sah und hörte ich nichts …
+
+Nochmals zehn Minuten …
 
 Ich schaute auf das grüngelb schimmernde Zifferblatt
 meiner Uhr … Die schwarzen Zeiger standen auf ein
 halb eins …
 
-Ich- wurde besorgt …
+Ich wurde besorgt …
 
-ja — kam eine schlanke Gestalt von der Gartenpforte
-her die kleine alle entlang …
+Da — kam eine schlanke Gestalt von der Gartenpforte
+her die kleine Allee entlang …
 
-Harald — …!! — Und mitten auf dem Rasenplatz machte
+Harald …!! — Und mitten auf dem Rasenplatz machte
 er halt … Winkte …
 
-Ich zu »ihm …
+Ich zu ihm …
 
-Er. einen anderthalb Meter langen Stock in der Hand
-sOHwenkend:
+Er, einen anderthalb Meter langen Stock in der Hand
+schwenkend:
 
-»zu kannst ihn Dir ansehen, mein Alter … Es ist
+»Du kannst ihn Dir ansehen, mein Alter … Es ist
 der … armlose Fakir …«
 
-Meine Überraschung war jetzt vielleicht noch Händen
+Meine Überraschung war jetzt vielleicht noch stärker
 als vorhin …
 
 »Wir gehen am besten um den Bungalow herum, wie
-ich es vorhin tat,« fügte er hin … »Entschuldige schon,
+ich es vorhin tat,« fügte er hinzu … »Entschuldige schon,
 daß ich Dich ein wenig beschwindelte … Ich wollte den
-Kerl Fäusten … Er sollte glauben, ich vermutete den
+Kerl täuschen … Er sollte glauben, ich vermutete den
 Schützen im Garten … Ich wußte genau, daß der Pfeil
-aus dem Hause gekommen — durch das offene Fenster +…
+aus dem Hause gekommen — durch das offene Fenster …
 Der Pfeil fuhr an meinem Hinterkopf und an meinem Ohr
 vorüber — von rückwärts … durch das Fenster des Schlafzimmers
-stieg ich ein …, Und erwischte den Burschen auch
+stieg ich ein … Und erwischte den Burschen auch
 wirklich … Damit, daß einer von uns ihn dort im Hinterzimmer
 suchen würde, rechnete er nicht …«
 
-Er zog mich mit sich so! …
+Er zog mich mit sich fort …
 
-»Hier ist das Blasrohr … Für alle Fälle habe Ei
-es mitgenommen … Übrigens ein tadelloses Blasrohr
+»Hier ist das Blasrohr … Für alle Fälle habe ich
+es mitgenommen … Übrigens ein tadelloses Blasrohr …«
 
 Ich kam jetzt etwas zu Atem …
 
 »Du hast den Fakir also gefesselt?« fragte ich zögernd …
 
 »Ja — und so sicher, daß er unmöglich entschlüpfen
-kaum … Auf einen Stuhl habe ich ihn festgebunden …
-<@pagebreak/>
-d0.2222222202 2] 220002202022222
+kann … Auf einen Stuhl habe ich ihn festgebunden …
 
-wir waren an der Rückseite des Partie»!das angelangt.
-Die Lintertür hatte Harald nur eingekflint. Im Flur
-schaltete er jetzt das Licht ein … die eilte Ei! links
-führte in das Hinterzimmer) das als Bibliowyet eins errichtet
+<@pagebreak/>
+wir waren an der Rückseite des Bungalows angelangt.
+Die Hintertür hatte Harald nur eingeklinkt. Im Flur
+schaltete er jetzt das Licht ein … die erste Tür links
+führte in das Hinterzimmer, das als Bibliothek errichtet
 war …
 
 Diese Tür stand weit diesen …
 
 Harald stutzte …
 
-Wind drei 1ichnellen Schritten war er im Zimmer …
+Mit drei schnellen Schritten war er im Zimmer …
 
-Licht flammte aus…
+Licht flammte auf …
 
-der Mitte ein Fahrstuhl … Um ihn herum auf
-dem Bastteppich Stücke einer seiten Gardinenschnur …
+In der Mitte ein Rohrstuhl … Um ihn herum auf
+dem Bastteppich Stücke einer festen Gardinenschnur …
 
-Harst bückt sich, nimmt vom Biß des Stalles einen
-Zettel aus …
+Harst bückt sich, nimmt vom Sitz des Stuhles einen
+Zettel auf …
 
-Ich stelle mich hinter ihr »die die mit verstellter Schrift
+Ich stelle mich hinter ihn, lese die mit verstellter Schrift
 geschriebenen Bleistiftzeilen:
 
-»Entschuldigen Sie, Harst ’… Es war ein
+»Entschuldigen Sie, Herr Harst … Es war ein
 Irrtum in der Person.«
 
-Nichts weiter als hin
+Nichts weiter als dies …
 
-Und — dies von dem es … oberen Fakir …!! Woher
-
-mußte der Mann, daß der blondbäurtige Holländer der
-
-Deutsche Detektiv Harald Harst war?! wollen?k!
+Und — dies von dem entflohenen Fakir …!! Woher
+wußte der Mann, daß der blondbärtige Holländer der
+Deutsche Detektiv Harald Harst war?! Woher?!
 
 Auch Harald schüttelt den Kopf …
 
-»Wir unverständlich …!« meint er … »Vollkommen
-
-selbstverständlich …!!« Und er hebt die Kur der Gardinen
-
-Dr empor …
+»Mir unverständlich …!« meint er … »Vollkommen
+unverständlich …!!« Und er hebt die Stücke der Gardinenschnur
+empor …
 
 »Zerschnitten — mit einem Messer … Der Fakir kann
-
-durch eine zweite Person befreit worden sein … Und
+nur durch eine zweite Person befreit worden sein … Und
 diese zweite Person war ein Europäer. Der schrieb den
 Zettel … Es ist eine Männerhandschrift … — Hattest
-
-etwa geglaubt, der Fakir sei der Schreiber gewesen,
-ein Alter?! Dann müßte der Mann Fußkünstler sein …!
+Du etwa geglaubt, der Fakir sei der Schreiber gewesen,
+mein Alter?! Dann müßte der Mann Fußkünstler sein …!
 Ohne Arme — — Fußkünstler … Außerdem der Inhalt des
-Zettels: das Englisch stammt von keinem Inder! — Au
+Zettels: *das* Englisch stammt von keinem Inder! — All
 das ist auch gleichgültig … Die Hauptsache: Wem galt
-der Giftpfeil?! Wen glaubte der Blasrobrschühe vor sich
-Du haben?! Ich denke, wir fragen ihn persönlich danach.
+der Giftpfeil?! Wen glaubte der Blasrohrschütze vor sich
+zu haben?! Ich denke, wir fragen ihn persönlich danach.
 <@pagebreak/>
-DSSSSSSSSSSS 99 SSSSSSSSSSSS
-
 Er dürfte kaum ahnen, daß wir seine Baumwohnung im
-Drehbar-Parke kennen … schon kennen! Daß wir sie er
-Mitteln, daß wir ihn ins Gebet nehmen wollen, weiß
+Djeibar-Parke kennen … schon kennen! Daß wir sie ermitteln,
+daß wir ihn ins Gebet nehmen wollen, weiß
 er natürlich. Harst und Schraut lassen solche Vorgänge
-mit unaufgeklärt. Aber in dieser Nacht wird er sich noch
+nicht unaufgeklärt. Aber in dieser Nacht wird er sich noch
 sicher wähnen … Also — gehen wir zum Schein zu Bett.
-unter Programm bleibt dasselbe …«
+Unser Programm bleibt dasselbe …«
 
 und er schritt auf die Veranda hinaus …
 
-Ab ahnte, den Blasrohrpfeil wollte er holen. Der
-log auch aus dem Tisch in Haralds ausgeklapptem Zigaretten-etu
+Ich ahnte, den Blasrohrpfeil wollte er holen. Der
+lag auch auf dem Tisch in Haralds ausgeklapptem Zigarettenetui …
 
 Ein Pfeil — unten ein Büschel bunter Seidenfäden,
 oben eine haarscharfe Stahlspitze …
 
 »merkwürdig!« meinte Harald. »Siehst Du etwas von
-Gift?! Ich nicht …
+Gift?! Ich nicht …«
 
 Und er nahm sein Taschenmesser und kratzte über die
-Stackljipiße hin — wollte etwas abschaben, was nicht vorhanden:
-eingetrodnuetes Gift!
+Stahlspitze hin — wollte etwas abschaben, was nicht vorhanden:
+eingetrocknetes Gift!
 
-Schabte nur winzige Stahlteil&en auf das Blatt Papier,
-das ich Spannten hielt …
+Schabte nur winzige Stahlteilchen auf das Blatt Papier,
+das ich darunter hielt …
 
 »Merkwürdig …!! — Dann also — zu Bett …!«
 
@@ -966,58 +959,53 @@ Es war jetzt ein Uhr …
 
 Bis halb zwei blieb es in unserem gemeinsamen Schlafzimmer
 dunkel … Dann erhoben wir uns, verhängten die
-beiden Fenster aus das sorgsältigsbe mit Decken und verwandelten
+beiden Fenster auf das sorgfältigste mit Decken und verwandelten
 uns in zwei ärmliche indische Kulis.
 
 Harald schrieb noch für alle Fälle einen Zettel, den
-er aus den Schreibtisch legte:
+er auf den Schreibtisch legte:
 
-»Ahmed, wir haben einen Ausflug unternommen und
-seinen vielleicht erst morgen zurück.«
+> »Ahmed, wir haben einen Ausflug unternommen und
+kehren vielleicht erst morgen zurück.«
 
 Sollten wir nun irgendwie verhindert werden, noch in
-liefern Nacht unseren Bungalow wieder aufzusuchen, so
+dieser Nacht unseren Bungalow wieder aufzusuchen, so
 würden Ahmed, der Koch, und die Diener sich nicht weiter
 beunruhigen.
 
 Gegen zwei Uhr verließen wir den Bungalow durch eins
 der Fenster, die auf die Terrasse hinausgingen … Kriechend
 <@pagebreak/>
-222S0SSSESESES 993. 08E Co ISLI2L2L20ESISDSD
-
 erreichten wir die Büsche, und bereits eine Viertelstunde
-später standen wir an der eingestürzten Diner der Rü
-Front des Dijeibar-Parkes …
-
-by ck Du
+später standen wir an der eingestürzten Mauer der Rückfront
+des Djeibar-Parkes …
 
 <h2>4. Kapitel.</h2>
 <h3>In der Garage.</h3>
 
-Standen im Schatten einer Gerößhalde, zwischen PaH-dagen
-Baron-Sträuchern, deren köstlich Witterte Breitet): sich
-nur nachts seinen, umgeben von einem Tomenqaehege wie
+Standen im Schatten einer Geröllhalde, zwischen stachligen
+Papor-Sträuchern, deren köstlich duftende Blüten sich
+nur nachts öffnen, umgeben von einem Dornengehege wie
 gut gehütete zarte Jungfrauen …
 
-Zehn Spritzt vor uns die Vildmnis 72 Parkes …
-Uralte Baumriesen, die im Viacwinde zurief:d hin und
-her schwangen … Um uns her Raunen und Wispeau von
-tausend seinen Stimmchen der Gräser und Master …
+Zehn Schritt vor uns die Wildnis des Parkes …
+Uralte Baumriesen, die im Nachtwinde knarrend hin und
+her schwangen … Um uns her Raunen und Wispern von
+tausend feinen Stimmchen der Gräser und Blätter …
 
-Und ein Chaos von Gerüchen, von all der! tropischen
+Und ein Chaos von Gerüchen, von all den tropischen
 Pflanzen, die hier so ungestört gediehen und ihre Farbenpracht
-selbst nachts offenbaren …
+selbst nachts offenbarten …
 
 Leuchtkäfer am Rande des Parkes — kleine fliegende
 Laternchen, zuweilen in ganzen Wolken aus dem dichten
 Unterholz emporschießend — ein kleines Feuerwerk …
 
 »Achtung …!!« raunte Harald mir zu … »Näher
-an das Geröll bekam …!«
+an das Geröll heran …!«
 
-Und da sah auch ich in einer Luke der Bäume eine
-wandernde Lichtbahn — den Leuchtkegel einer Taschen
-
+Und da sah auch ich in einer Lücke der Bäume eine
+wandernde Lichtbahn — den Leuchtkegel einer Taschenlampe
 …
 
 Zwei Gestalten dahinter — zwei Männer …
@@ -1028,95 +1016,91 @@ Matrosen vom Hafenkai …!!
 Arglos schritten sie vorüber … Der, der die Taschenlampe
 trug, hatte in der Rechten einen Knüttel — gegen
 die Kobras … Der andere aber hielt ein Blasrohr wie
-ein Gewehr über vor Schulter …
+ein Gewehr über der Schulter …
 
 Vielleicht wären wir ihnen nicht gefolgt, wenn sie nicht
 <@pagebreak/>
-02 dDSSSSSSSSSS 24  DSSSSSSSSSSSD
-
 das Blasrohr bei sich gehabt hätten … Das — gab den
 Ausschlag …
 
 Ein weiter Weg wurde es … Bis zu den Villen der
-Ostabhänge der Malabar Hilfe …
+Ostabhänge der Malabar Hills …
 
 Ein doppelt schwieriger Weg, da wir uns hüten mußten,
 den beiden allzu nahe zu rücken …
 
-Dann eine Terrasse mit Parkanlagen … Ein Gitter-zaunt
+Dann eine Terrasse mit Parkanlagen … Ein Gitterzaun
 … Ein Landhaus in ganz anderem Stil als die
 sonstigen Bauten ringsum — mehr blockhausähnlich, dunkel
 lackiert die runden Stämme der Wände …
 
-Woran erinnerte mich nur dieses große Anklang, das
+Woran erinnerte mich nur dieses große Blockhaus, das
 doch trotz allem den Villencharakter gewahrt hatte?!
 
 Ich fand keine Zeit zu längerem Nachdenken …
 
 Die beiden unechten Matrosen waren bereits Über den
-Zaun hinters …
+Zaun hinweg …
 
-Aber — sie hielten sich mehr rxeht8, wo die Stallgebäude
-
+Aber — sie hielten sich mehr rechts, wo die Stallgebäude
 lagen … Plötzlich schlug ein Hund an … es mußte
-sehr großes Tier sein … — Dann wurde es wieder
-ich
+ein sehr großes Tier sein … — Dann wurde es wieder
+still …
 
 Die beiden waren verschwunden …
+
 Harald half mir … Ich überkletterte den Zaun …
 Er folgte … Wir dann dicht am Zaune entlang — bis
-zu einer Stelle, wo wir den zementierten Vorplatz eine
-ppelgarage Überblicken konnten …
+zu einer Stelle, wo wir den zementierten Vorplatz einer
+Doppelgarage Überblicken konnten …
 
-Und — sahen noch Gerede die beiden Gentlemen Mk
+Und — sahen noch gerade die beiden Gentlemen mit
 den kühnen Gesichtern aus der einen Garagentür schlüpfen,
-fallen sie die andere vorsichtig öffnen … Sie traten ein,
-blieben etwa vier Kingston und erschienen wieder, drückten
+sahen sie die andere vorsichtig öffnen … Sie traten ein,
+blieben etwa vier Minuten und erschienen wieder, drückten
 die Tür zu und schlüpften nach dem Zaune hin … Keine
 sechs Meter neben uns stiegen sie über das Gitter und eilten
+davon — denselben Weg offenbar zurück …
 
-on — denselben Weg offenbar zurück …
-Harald, der neben mir hinter einem großen Mütllkasten
+Harald, der neben mir hinter einem großen Müllkasten
+kniete, flüsterte:
 
-kniete, flüsterte
+»Merkwürdig!! Weshalb mögen sie nur das Blasrohr
+mitgehabt haben?!«
 
-»Mertwitrdtg!! Weshalb mögen sie nur das Blasrohr
-mitgehabt haben?!2
+»Vielleicht … der Hund …?!«
 
-» Vielleicht … der Hund …?!«
 <@pagebreak/>
-2222202202020020S8 senden;000B0S008020202020
-
 »Getötet?! — Ausgeschlossen — ausgeschlossen! So
 schnell wirkt kein Gift … — Nein — immerhin, suchen
-wir den Hund … dort tauben schlug er an … Wir
-werden ihn schon finden … „«
+wir den Hund … dort drüben schlug er an … Wir
+werden ihn schon finden …«
 
 Und — wir fanden ihn …
 
 Bewußtlos nur — halb schon wieder bei Besinnung
 … Eine dänische Dogge, ein Prachttier … Dort, wo der
 Hund am Rande eines Gartenweges lag, ein aufdringlicher
-Geawchckch nach Chloroform …
+Geruch nach Chloroform …
 
 Harald beugte sich über den Kopf des Tieres …
 
-»Nun ist es klar: sie haben ihn mit Chloroform zugesandt
-…! Was wir für ein Aussicht hielten, war eine
-Spritze, eine aus einem Blasrohr hergestellte lange Spitze,
+»Nun ist es klar: sie haben ihn mit Chloroform angespritzt
+…! Was wir für ein Blasrohr hielten, war eine
+Spritze, eine aus einem Blasrohr hergestellte lange Spritze,
 aus der die beiden Gentlemen den Hund mit Chloroform einsprengten
 … — Vielseitige Herrschaften, weiß Gott!! —
 Nun in die Garagen, mein Alter … Aber Vorsicht …
-Der Boden hier ist vorkommt gefährlich … Die Villa im
+Der Boden hier ist verdammt gefährlich … Die Villa im
 Stil der russischen Bauernhäuser läßt es als gewiß erscheinen,
 daß hier ein Russe wohnt, vielleicht gar der russische
 Generalkonsul, der hier in Bombay amtiert … — Also:
 Augen und Ohren auf, Max Schraut!«
 
-An mir sollte es nicht ihren … Ich strengte meine
+An mir sollte es nicht liegen … Ich strengte meine
 Sinne über Gebühr an … Ich stand Posten, während
 Harald das Innere der ersten Garage untersuchte … Was
-exr dort eigentlich wollte, wußte ich nicht …
+er dort eigentlich wollte, wußte ich nicht …
 
 Nichts geschah …
 
@@ -1124,8 +1108,8 @@ So kam die zweite Garage heran …
 
 Ich wieder hinter der nur angelehnten Tür …
 
-Hinausspähend in die nächtliche Dämmerung, der b&
-rechts der erste bleiche Schimmer des neuen Tages etwas
+Hinausspähend in die nächtliche Dämmerung, der bereits
+der erste bleiche Schimmer des neuen Tages etwas
 Gespenstisch-Fahles gab …
 
 Drüben die Villa …
@@ -1135,12 +1119,10 @@ Gestalten … Männer, klein, affenflink …
 
 Noch vier … Jetzt zehn im ganzen … Zehn, die
 <@pagebreak/>
-SSSSSSSSSSSS 296 SSSSSSSSSSSS
-
-viel zu eilig machten, als daß wir; noch hätten flüchten
+viel zu eilig nahten, als daß wir noch hätten flüchten
 können …
 
-Ich drücke die Tür ins Schloß…
+Ich drücke die Tür ins Schloß …
 
 Harst schon neben mir …
 
@@ -1153,10 +1135,10 @@ Im gleichen Moment wird die Tür aufgerissen …
 
 Laternenschein trifft uns …
 
-ohne wir noch zurückspringen können, können die gelben
-Kerle an unserem Halse wie eine Freude von Hunden …
+Ehe wir noch zurückspringen können, hängen die gelben
+Kerle an unserem Halse wie eine Meute von Hunden …
 
-Harst fast:
+Harst ruft:
 
 »Wir ergeben uns …!! Wir sind die Falschen!!«
 
@@ -1164,50 +1146,54 @@ Seine paar Brocken Russisch hat er zusammengesucht …
 Es war die höchste Zeit …
 
 Mich hatten sie bereits niedergerissen … Einer der
-kleinen gelben Teufel hatte schon mit einem krummen Tee)er-fessenvolch
-ausgeholt …
+kleinen gelben Teufel hatte schon mit einem krummen
+Tscherkessendolch ausgeholt …
 
 Wir wären hier stumm gemacht worden für alle Zeit,
-wenn Harsts nicht als Rucksack gebrüllt hätte:
+wenn Harst nicht als Nachsatz gebrüllt hätte:
 
-»Ich bin der Detektiv Harald Harst, ein Deutschen …!
+»Ich bin der Detektiv Harald Harst, ein Deutscher …!«
 
 Und da — aus dem Rudel die Stimme eines Europäers,
-wer ein schriller Befehl in chinesischer Sprache …
+aber ein schriller Befehl in chinesischer Sprache …
 
 Die Gelben ließen von uns ab … Umstanden uns
 wie sprungbereite Bulldoggen …
 
-Ein breitschultnäger Herr trat vor uns hin. Ich war
-schnell aufgestamwden …
+Ein breitschultriger Herr trat vor uns hin. Ich war
+schnell aufgestanden …
 
 Der Mann hielt einen Browning schußbereit … Seine
 Augen bohrten sich prüfend in Harsts gefärbtes Gesicht
+ein …
 
 »Näher die Laternen!« rief er … Und zu Harald:
-»Wenn Sie rum Harst sind, — was suchen Sie hier?!«
+
+»Wenn Sie Mr. Harst sind, — was suchen Sie hier?!«
+
 »Ich bin »Harald Harst … Sprechen Sie deutsch?«
 
-»also: meinem Deutsch hören Sie wohl an, daß
-ich kein Russe bin … — Mit wem habe ich die Ehre?«
-<@pagebreak/>
-222220202020&nbsp;2020200 97&nbsp;020020202020202022-0
+»Ja …«
 
-»Komsulatsösekretär Dolgurow …
+»Dann also: meinem Deutsch hören Sie wohl an, daß
+ich kein Russe bin … — Mit wem habe ich die Ehre?«
+
+<@pagebreak/>
+»Konsulatssekretär Dolgurow …«
 
 »Gut, Herr Dolgurow, dem Generalkonsul werde ich
 Rede und Antwort stehen … Ihnen nicht. Dazu sind
 die Dinge zu wichtig, die ich mit Ihrem Chef zu besprechen
+habe …«
 
-habe …
-? Dolgurow verneigte sich.
+Dolgurow verneigte sich.
 
-»Ganz wie Sie wünschen, Kerl Harst … Der Generalkonsul
-dürfte sich inzwischen 6&ngekleidet haben … Aber
-— eine Frage gestatten Sie mir wohl: Sind Sie im Ausgange
+»Ganz wie Sie wünschen, Herr Harst … Der Generalkonsul
+dürfte sich inzwischen angekleidet haben … Aber
+— eine Frage gestatten Sie mir wohl: Sind Sie im Auftrage
 anderer hier?«
 
-»Nein … aus eigenen! Antrieb. — Bitte — lassen
+»Nein … aus eigenem Antrieb. — Bitte — lassen
 Sie Ihren Chef hierher holen … Nur hier kann ich ihm
 das zeigen, was ihm wichtig sein dürfte …«
 
@@ -1216,11 +1202,11 @@ Der Generalkonsul brauchte nicht geholt zu werden …
 Er war von selbst gekommen, hatte Haralds letzte Sätze
 mit angehört und schickte nun die Chinesen hinaus …
 
-»treibt vor der Tür!!« befahl er …
+»Bleibt vor der Tür!!« befahl er …
 
 Und zu uns:
 
-»weil Name ist Urtschoff …« — durchaus höflich,
+»Mein Name ist Urtschoff …« — durchaus höflich,
 fast liebenswürdig — durchaus Mann von Welt …
 
 Dolgurow hatte jetzt das elektrische Licht in der Garage
@@ -1228,103 +1214,99 @@ eingeschaltet …
 
 Ich sah mir Urtschoff genauer an …
 
-» War ein hagerer Herr, bartlos, das schwarze Kopfhaar
-glatt zurückgestrichen — ein Fanmatikergesicht, blaß — Augen
+War ein hagerer Herr, bartlos, das schwarze Kopfhaar
+glatt zurückgestrichen — ein Fanatikergesicht, blaß — Augen
 wie glühende Kohlen …
 
-Aber Diplomat, sehr beherrscht … Ein gegähmtes
+Aber Diplomat, sehr beherrscht … Ein gezähmtes
 Raubtier … Ich traute seiner Freundlichkeit nicht …
 
 Harst hatte unsere Namen genannt und hinzugefügt:
-»Sie hatten Ihre Diener offenbar schon bereitgehalten, Her
+»Sie hatten Ihre Diener offenbar schon bereitgehalten, Herr
 Urtschoff. Rechneten Sie mit ungebetenen Gästen?«
 
 Der Generalkonsul krauste ein wenig die hohe Stirn …
 
 »Nein, Herr Harst …!«
 
-»Verzeihen Sie, das ist wohl kaum der Wahrheit rot
-sprechend, Herr Urtschoff. Wenn Sie von mir die Wahr-DSSSSSSSSSSS
+»Verzeihen Sie, das ist wohl kaum der Wahrheit entsprechend,
+Herr Urtschoff. Wenn Sie von mir die Wahrheit
 <@pagebreak/>
-578 SSSSSSSSSSSSD
-
-ne erfahren wollen, müssen auch Sie bei der Wahrheit
+erfahren wollen, müssen auch Sie bei der Wahrheit
 bleiben …«
 
 »Weshalb vermuten Sie, daß ich fremde Eindringlinge
-erwartete?« erwiderte Urtschoffs kühl …
+erwartete?« erwiderte Urtschoff kühl …
 
-»Weil zu dieser Stunde kaum die »gesamte Dienerschaft
-eine? Hauses wach und fix und fertig angezogen »sein dürfte,
-dazu noch Ihr Vertrauten, Herr Dolgurow …
+»Weil zu dieser Stunde kaum die gesamte Dienerschaft
+eines Hauses wach und fix und fertig angezogen sein dürfte,
+dazu noch Ihr Vertrauter, Herr Dolgurow …«
 
 Der Generalkonsul war offensichtlich mit seiner Diplomatie
 nun in einer bösen Sackgasse … Ein Diplomat
 ohne Lügen ist eben wie ein Schuh ohne Sohlen: ein
 Unding!!
 
-»Es … ist ein Zufall.« erklärte er ohne jede Ueber-zeuguna8treue
+»Es … ist ein Zufall,« erklärte er ohne jede Überzeugungstreue
 — ein kläglicher Versuch, sich erneut herauszulügen
 …
 
-»aus dieser Grundlage werden wir uns kaum einigen,«
+»Auf dieser Grundlage werden wir uns kaum einigen,«
 meinte Harald da … »Die einzig mögliche Grundlage
 wäre … Hudson …«
 
-Hudson — die Milliardärsjacht … «!! — Die Anspielung
+Hudson — die Milliardärsjacht …!! — *Die* Anspielung
 wirkte …
 
 Herr Urtschoff fuhr leicht zusammen … Dolgurow
-aber, weniger qaeistesgegenwärtig, rief:
+aber, weniger geistesgegenwärtig, rief:
 
 »Was Teufel, — Sie wissen Bescheid, Herr Harst?!«
 
 Harald nickte. »Scheint so, meine Herren … Ich
 weiß jedenfalls eine ganze Menge … — Nochmals, Herr
-Urtschoff: wollen wir nicht …
+Urtschoff: wollen wir nicht …«
 
 Der Generalkonsul unterbrach ihn …
 
 »Es stimmt, so kommen wir nicht weiter, Herr Harst.
-Also« gut, wir waren auf ungebetene Gäste gleichsam vorbereitet
+Also gut, wir waren auf ungebetene Gäste gleichsam vorbereitet
 …«
 
 »Die … es auf Ihre Person abgesehen hatten, Herr
 Urtschoff …
 
-»3 — ’ wie ich annehmen muß …
+»Ja — wie ich annehmen muß …
 
-»las politischen Gründen?«
+»Aus politischen Gründen?«
 
 »Hm — ist diese Frage nötig, Herr Harst?«
 
-»Unbedingt … — Also doch nicht Politik, Herr Liftboy
-… Da setzt mich etwas in Erstaunen … Immer-D2DSSSSSSSSSSDS
+»Unbedingt … — Also doch nicht Politik, Herr Urtschoff
+… Das setzt mich etwas in Erstaunen … Immerhin:
 <@pagebreak/>
-53) 0SSSSSSSSSSS
-
-hin: die Jacht Hudson ist beteiligt … Mehr brauche ich
+die Jacht Hudson ist beteiligt … Mehr brauche ich
 wohl nicht anzudeuten … Und jetzt bitte ich um die reine
-Wahrheit, Herr Urtschoff … Andernfallgs … sind Sie
+Wahrheit, Herr Urtschoff … Andernfalls … sind Sie
 morgen ein toter Mann, und das so gewiß, wie wir hier
 jetzt lebend neben diesem Ihrem Auto stehen …«
 
 Der Generalkonsul lächelte überlegen …
 
-»Meine Vorsichtsmaßregeln erhöhen mich, Herr Harst …«
+»Meine Vorsichtsmaßregeln schützen mich, Herr Harst …«
 
 »Ein Irrtum … Ich warne Sie! Sie sind verloren,
 wenn Sie nicht auf mich hören … So gewiß verloren, daß
 selbst ein Regiment Truppen den Tod nicht von Ihnen
-fernhalten konnte …«
+fernhalten könnte …«
 
 Urtschoff lächelte weiter …
 
 »Ich habe achtzehn Diener … Dieses geschlossene Auto
-ist gepanzert … Ich benutze es nur zur Fahrt bis zum:
-Konsulatsögebäude im Geschäftsäviertel … Mit Bomben
-werden meine Gegner niemals operieren, nur mit Schuß:
-Lassen … im äußersten Notfalle … Ich bin auq kein
+ist gepanzert … Ich benutze es nur zur Fahrt bis zum
+Konsulatsgebäude im Geschäftsviertel … Mit Bomben
+werden meine Gegner niemals operieren, nur mit Schußwaffen
+… im äußersten Notfalle … Ich bin auch kein
 Feigling, Herr Harst … Meine Chinesen sind treu und
 wachsam und schlau …«
 
@@ -1332,38 +1314,34 @@ wachsam und schlau …«
 … Die Treue ist bei den Gelben lediglich Geldsache …
 Die Wachsamkeit ist mit der Schlauheit eng verwandt, bei
 Ihren Leuten aber nur spärlich vorhanden, da diese nicht
-einmal wissen, daß vor uns schon zwei Leute hier ein:
-gedrungen waren, zwei, die den Hund mit einer Chloro-somprihe
-erledigten und dann die Garagen hier bei
+einmal wissen, daß vor uns schon zwei Leute hier eingedrungen
+waren, zwei, die den Hund mit einer Chloroformspritze
+erledigten und dann die Garagen hier besuchten
+…«
 
-ten …“«
+Der Generalkonsul rief: »Dann haben die Schufte …
+je eine Höllenmaschine mit einem Uhrwerk in die Autos gestellt
+…! Wir werden …«
 
-Der Generalkonsul rief: »Dann haben die Schnalle …
-je eine Höllenmaschine mit einem Uhrwerk in die Autos ge
-Besitz …!! Wir werden …«
+»… nichts finden,« fiel Harst ihm ins Wort. »So
+bestimmt nichts finden, daß es Zeitvergeudung wäre, danach
+zu suchen … Trotzdem: suchen Sie!«
 
-„»« — — Nichts finden,« fiel Harst ihm ins Wort. »je
-bestinmmt nichts finden, daß es Zeitvergeudung wäre, danach
-suchen … Trotzdem: suchen Sie!«
-
-Da ne
 <@pagebreak/>
-SSSSSSSSSSSS FP) SSSSSSSD0SSSSSD
 
-<h2>6. Kapitel.</h2>
-<h3>Des Todes Spitzen …«.</h3>
+<h2>5. Kapitel.</h2>
+<h3>Des Todes Spitzen …</h3>
 
-Dolmtrow rief vier der Diener herein …
+Dolgurow rief vier der Diener herein …
 
-Ich kann mich in diesem Punkte ganz kurz »fassen: von
+Ich kann mich in diesem Punkte ganz kurz fassen: von
 Höllenmaschine oder dergleichen natürlich keine Spur!
 
 Wir standen dicht dabei, als die Schlitzäugigen suchten
-
 … Beide Autos nahmen sie vor …
 
 Dann schickte Urtschoff sie wieder hinaus … Wir
-waren in die Garage Nr. 1 zuüdgekehrt, wo der gepanzerte
+waren in die Garage Nr. 1 zurückgekehrt, wo der gepanzerte
 Wagen seinen Platz hatte …
 
 Die beiden Russen schauten Harst etwas ratlos an.
@@ -1371,35 +1349,33 @@ Der lehnte an der Seite des Autos und schwieg …
 
 »Herr Harst, ich …«
 
-»Herr Urtschoff — die Wahrheit! Es acht um Leben
+»Herr Urtschoff — die Wahrheit! Es geht um Leben
 oder Tod … — Waren Sie mal in Sewastopol?«
 
-»30 … — Aber — ich habe mit der … Katastrophe
+»Ja … — Aber — ich habe mit der … Katastrophe
 der Familie Oligow nichts zu schaffen, mein Wort
-sprang, Herr Harst …! Ich verabscheue derartige Schläirt-tereien
-… Das ist keine Redensart. Wenn Sie viellci’bt
+darauf, Herr Harst …! Ich verabscheue derartige Schlächtereien
+… Das ist keine Redensart. Wenn Sie vielleicht
 im Auftrage der Gräfin Wera …«
 
-— — Weder in deren noch im Auftrage eines anderen
-— ich Tale es schon … Ich bin durch Zufall auf die
+"— — weder in deren noch im Auftrage eines anderen
+— ich sagte es schon … Ich bin durch Zufall auf die
 jetzige Frau Orlington aufmerksam geworden, gleichzeitig
 auf verschiedene merkwürdige Dinge, die mich als Detektiv
 reizten … Mein Freund und ich folgten vorhin den beiden
 Männern, die hier … den Tod für Sie zurückgelassen
 haben … Nachdem die beiden verschwunden, habe ich mir
-Ihrer Autos angesehen und — ich habe etwas gefunden …
+Ihre Autos angesehen und — ich habe etwas gefunden …
 — Also bitte — sprechen Sie!«
 
 Urtschoff schaute zu Boden …
 
 offenbar kämpfte er mit sich … Dann hob er den
+Kopf …
 
-op …
 »Herr Harst, ich habe vor zwei Wochen etwa Drohbriefe
 erhalten,« erklärte er hastig. »Aus diesen Briefen
 <@pagebreak/>
-222202020202&nbsp;22282! LSOLEGSSSSOSS
-
 ging hervor, daß man mich irrtümlicher Weise für den Tod
 der Familie Oligow verantwortlich macht. In den drei
 Briefen hieß es, daß ich sterben müsse … Das ist die
@@ -1408,26 +1384,24 @@ Wahrheit …«
 Harald wiegte den Kopf hin und her …
 
 »Das kann nur die halbe Wahrheit sein, Herr Urtschoff
-
-… Wie soll ich wohl glauben, daß Leute, die Sie bei
-
-beseitigen wollen, Sie gleichsam warnen weitere! Tanzenden:
+… Wie soll ich wohl glauben, daß Leute, die Sie
+beseitigen wollen, Sie gleichsam warnen werden?! Außerdem:
 Sie widersprechen sich … Vorhin erklärten Sie,
 Politik scheide hier aus … — Nein, Herr Urtschoff …
 so kommen wir wirklich nicht von der Stelle …«
 
 Der Generalkonsul hatte sich auf die Lippen gebissen
-… Er war mit seiner. Diplomatie abermals in der Sackgasse
+… Er war mit seiner Diplomatie abermals in der Sackgasse
 … In dieser Not nahm er Dolgurow beiseite. Sie
 flüsterten miteinander … eine geraume Weile …
 
 Dann trat Urtschoff wieder vor Harald hin …
 
-»Ich werde Ihnen die Briefe seinen, Herr Harst …«
+»Ich werde Ihnen die Briefe zeigen, Herr Harst …«
 meinte er sehr höflich. »Das wird Ihre Zweifel zerstreuen
-…- Wenn Sie mich bitte begleiten wollen … Ich habe
-die Briefe in einem geheimen Wandfach mein?38 Arbeitszimmers
-„…« …
+… Wenn Sie mich bitte begleiten wollen … Ich habe
+die Briefe in einem geheimen Wandfach meines Arbeitszimmers
+…«
 
 Und er machte eine auffordernde Handbewegung nach
 der Garagentür, die Dolgurow bereits geöffnet hatte …
@@ -1438,22 +1412,21 @@ Die beiden Russen warteten …
 
 Ich war stummer, aufmerksamer Zuschauer …
 
-Dann Harald: »Halten Sie mich für dumm, Her!
+Dann Harald: »Halten Sie mich für dumm, Herr
 Urtschoff?! — Sie spielen hier ein sehr gefährliches Spiel
 … Sie wollen Schraut und mich in die Villa locken und
 dort festhalten, bis ich Ihnen die Gefahr näher bezeichnet
 habe, die Ihnen droht … — Sie lügen beständig …
-Daß die Drohbriefe existieren, bezweifele ich nicht … Nu!
-wollte der Inhalt ganz anders lauten — ganz anders! —
-
-so …«
+Daß die Drohbriefe existieren, bezweifele ich nicht … Nur
+dürfte der Inhalt ganz anders lauten — ganz anders! —
+Also …«
 
 Dolaqurow hatte die Tür wütend wieder zugeworfen,
 <@pagebreak/>
-DSSSSSSSSSSS )) DSSSSSSSSSSS
-trat näher. Er und Landschaft rauschten einen hilflosen
+trat näher. Er und Urtschoff tauschten einen hilflosen
+Blick …
 
-»Sehen Sie,« meinte Harst … »Sie geben Ihre Heim-tüfe
+»Sehen Sie,« meinte Harst … »Sie geben Ihre Heimtücke
 ja bereits zu … Unter diesen Umständen werden wir
 uns verabschieden. Unser Freund Goddwell erwartet uns.
 Er wird neugierig sein, was wir entdeckt haben …«
@@ -1461,62 +1434,59 @@ Er wird neugierig sein, was wir entdeckt haben …«
 Der Generalkonsul machte eine erschrockene Handbewegung
 …
 
-»Detektivinspektor Goddwell, Herr Harst …
+»Detektivinspektor Goddwell, Herr Harst …?«
 
-»Es gibt nur einen Goddwell in Bombay, nicht dem uns
-Heimtücke Freundschaft verbindet … — Gute Nacht, Herr
+»Es gibt nur einen Goddwell in Bombay, mit dem uns
+berufliche Freundschaft verbindet … — Gute Nacht, Herr
 Urtschoff … Wenn es Ihnen übrigens lieber ist, werde
-ich Goddwell nichts von diesem kleinen Abenteuer exr-zählen
+ich Goddwell nichts von diesem kleinen Abenteuer erzählen
 …«
 
 Urtschoff war jetzt derart verlegen, daß er die Hände
-dauernd aneinander rieb. als ob ihn fröre …
+dauernd aneinander rieb, als ob ihn fröre …
 
 »Herr … — Herr Harst …« stammelte er … »Ist
-… — ist es denn wahr, daß … daß … Wirklich Lebensgefahr
-für mich besteht … vw
+… ist es denn wahr, daß … daß … wirklich Lebensgefahr
+für mich besteht …?«
 
-»Ich … lüge nicht …
+»Ich … lüge nicht …«
 
-»Gut — dann … denn werde ich eben die Lord
+»Gut — dann … denn werde ich eben die
 verdammten Autos nicht mehr benutzen — tagelang nicht …
-Nachher wird wohl jede Gefahr, daß …
+Nachher wird wohl jede Gefahr, daß …«
 
-»Ein Irrtum, — die Gefahr schwindet nie, Her!
+»Ein Irrtum, — die Gefahr schwindet nie, Herr
 Urtschoff …«
 
 Der Russe war bleich geworden. Das Temperament
+ging mit ihm durch …
 
-Ding mit ihm durch …
-
-»kam — werde ich die Autos zerschlagen lassen —
+»Dann — werde ich die Autos zerschlagen lassen —
 oder ins Meer werfen …!«
 
-»Dazu kann ich Ihren nur raten, Am besten zerschlagen,
-Herr Urtschoff — mit allem Zubehör -«! Und
+»Dazu kann ich Ihren nur raten. Am besten zerschlagen,
+Herr Urtschoff — mit allem Zubehör …! Und
 verbrennen …!«
 
 Urtschoff schnappte förmlich nach Luft, schaute seinen
 Vertrauten an …
 
-»Dolgurow, rate mir …!« rief er … »Zum Deutsch
+»Dolgurow, rate mir …!« rief er … »Zum Teufel,
 … so mach doch den Mund auf …!«
+
 <@pagebreak/>
-2222020002202 80 33&nbsp;0000000200202
+Dolgurow verbeugte sich vor seinem Chef …
 
-Dolgurow verbetügte sich vor seinem Chef …
-
-»Ad) würde Herrn Harst bitten, sich um diese Dinge
+»Ich würde Herrn Harst bitten, sich um diese Dinge
 nicht weiter zu kümmern und Goddwell gegenüber zu schweigen
-… Die Autos bleiben hier in den Garagen eingee-schlossen,
+… Die Autos bleiben hier in den Garagen eingeschlossen,
 werden nicht mehr benutzt, nicht mehr angerührt,
 und wir kaufen zwei neue Wagen, die drüben im Schuppen
 untergestellt werden können …«
 
 Er blickte fragend Harald an …
 
-Der nickte … »Von mir Auge — gebilligt und zugesagt,
-
+Der nickte … »Von mir aus — gebilligt und zugesagt,
 meine Herren … Bis auf einen Punkt: ich werde mich
 weiter darum bemühen, dieser Angelegenheit auf den Grund
 zu kommen … — Gute Nacht …«
@@ -1525,7 +1495,7 @@ Und — schritt zur Tür …
 
 Ich neben ihm … Öffnete die Tür …
 
-Ins Freie hinaus u.
+Ins Freie hinaus …
 
 Morgendämmerung … trübe Helle … Mein Herz
 klopfte … klopfte … Jeden Moment erwartete ich, daß
@@ -1541,37 +1511,33 @@ Wir kletterten hinüber …
 Gingen die Villenstraße hinab — schweigend …
 
 Dir Motorsprengwagen kam uns entgegen … Bäche
-von Wasser müßten das Zementpflaster …
+von Wasser näßten das Zementpflaster …
 
 Nichts geschah …
 
 Harald schaut sich um …
 
-Sagt: »Natürlich — vier der Gelben hinter uns …
+Sagt: »Natürlich — vier der Gelben hinter uns …«
 
-Und ich: »Was … was war’s mit den He
+Und ich: »Was … was war’s mit den Autos?!«
 
 Er — ganz schlicht:
 
-»In den ledernen Sitzpolstern stehen je sechs Blasrohrpfeile,
+»In den ledernen Sitzpolstern stecken je sechs Blasrohrpfeile,
 mit den Spitzen nach oben … Und diese Spitzen,
 mein Alter, sind vergiftet … Hätte Urtschoff in einem der
 Wagen Platz genommen, würden die Spitzen das Leder
 und Urtschoffs Beinkleider und Schenkelhaut durchbohrt
-
-148
 <@pagebreak/>
-22SSSSSSSSSS 31 SSSSSSSSSSSS
-
 haben … Er würde emporgefahren sein … In wenigen
 Minuten jedoch … Leiche …«
 
-I4:YP … sagte gar nichts …
+Ich … sagte gar nichts …
 
-Wir war ganz wirr im Kopfe …
+Mir war ganz wirr im Kopfe …
 
 Wir schritten immer weiter … Die erste elektrische
-Straßenbahn brachte uns nach Bombay — uns im Forderungen,
+Straßenbahn brachte uns nach Bombay — uns im Vorderwagen,
 die vier Spione im Anhänger …
 
 Dann schlug Harald die Richtung nach dem Hafen
@@ -1582,19 +1548,17 @@ uns auf ein paar Balken …
 
 Wir, die beiden indischen Hafenkulis …
 
-— Und hinter uns … lungerten die vier Chinesen
+Und hinter uns … lungerten die vier Chinesen
 umher …
 
 So … kam der neue Tag …
 
-Und so — — — beginnt der neue »zweite Abschnitt des
-
+Und so — — — beginnt der neue zweite Abschnitt des
 »armlosen Fakirs« — ein neues Geschehen …
+
 Der Leser wird auch damit zufrieden sein, hoffe ich …
 
-ch=ch=ch=ch—
-
-Das Kranichnest.
+<h1>Das Kranichnest.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Wera Orlingtons Besuch.</h3>
@@ -1609,7 +1573,7 @@ das, was nun geschehen würde …
 
 Harst spielte Statue …
 schlagen auf die Knie gestemmt, den Kopf in
-<@pagebreak/>
+<@pagebreak 35/>
 2220202020S00202D02080 35&nbsp;0000020200202 80S
 
 beide Hände gestützt, die Augen geschlossen: so verhielt er
