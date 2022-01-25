@@ -4,11 +4,11 @@
 
 <h2>1. Kapitel.</h2>
 
-<h3>Die Geschichte der Familienkleinodien des Fürsten.</h3>
+Die Geschichte der Familienkleinodien des Fürsten
 Tschergin hatte, wie der Leser noch in der Erinnerung haben
-dürfte, eine Überaus besriedigende Lösung gefunden. Gent-ralkonsul
-Verschafft hatte uns gebeten, über die Vorgänge
-der ereignisreichen Nacht Stillschweigen zu bewahren =ch-
+dürfte, eine Überaus befriedigende Lösung gefunden. Generalkonsul
+Urtschoff hatte uns gebeten, über die Vorgänge
+der ereignisreichen Nacht Stillschweigen zu bewahren —
 eigentlich etwas Selbstverständliches, denn allen Beteiligten
 war daran gelegen, daß die Dinge der Öffentlichkeit vorenthalten
 blieben.
@@ -18,47 +18,46 @@ auf die Jacht Hudson zu schaffen — für alle Fälle!
 
 »Das internationale Gaunertum, das ja auch hier in
 der Weltstadt Bombay reichlich vertreten ist, bekommt stets
-Überraschend schnell Frommes von derartigen lohnenden
-Objekten,« hatte er seinen Vorschlag begründet. »ohne Jacht
+Überraschend schnell Kenntnis von derartigen lohnenden
+Objekten,« hatte er seinen Vorschlag begründet. »Eine Jacht
 wie die des Gatten Ihrer Kusine ist der sicherste Tresor für
 solche Pretiosen …«
 
 »Zumal, warf Frau Wera Orlington ein, »an Bord
 der Hudson sich ein kleiner ganz moderner Panzerschrank
-mit Kombinationsschloß befindet. — verging, wir täten
+mit Kombinationsschloß befindet. — Sergius, wir täten
 gut, die Juwelen sofort dorthin zu bringen.«
 
 So fuhren wir denn zu sechs Personen zum Hafen
-hinab, wo, die elegante Jacht am Kai lag. Die Familien
-Kleinodien folgten in einen mittelgroßen Lederkoffer Dinge
-un den der Fürst während der Fahrt auf dem Schoße
-
+hinab, wo die elegante Jacht am Kai lag. Die Familienkleinodien
+waren in einen mittelgroßen Lederkoffer eingeschlossen,
+den der Fürst während der Fahrt auf dem Schoße
 hielt
 
-Außer Frau Orlington uns beiden. und dem Fürsten
+Außer Frau Orlington uns beiden und dem Fürsten
 <@pagebreak/>
 waren noch die Brüder der Millionärin dabei. Orlington
 selbst befand sich im Innern auf der Tigerjagd.
 
-Wir begaben uns vom Auto aus in die Hofraums der
-Hinzogen, in Orlingtons große Kabine, die als Arbeitszimmer
-eingerichtet war. hier stand der Leser in vornehmer
+Wir begaben uns vom Auto aus in die Heckräume der
+Hudson, in Orlingtons große Kabine, die als Arbeitszimmer
+eingerichtet war. Hier stand der Tresor in vornehmer
 Schrankform.
 
-Frau Wera stellte die am Buchstaben des Kombinationsschlosses
-aus das Wort »Flugsand« ein und öffnete
-den: Panzerschrank.
+Frau Wera stellte die acht Buchstaben des Kombinationsschlosses
+aus das Wort »*Kingland*« ein und öffnete
+den Panzerschrank.
 
-inzwischen hatte verging Tschergin den Koffer ausgeschlossen
-und den groben, schäbigen Sack, im den! die
-Kleinodien noch« ruhten, herausgenommen …
+inzwischen hatte Sergius Tschergin den Koffer aufgeschlossen
+und den groben, schäbigen Sack, im dem die
+Kleinodien noch ruhten, herausgenommen …
 
 Plötzlich stieß er einen merkwürdig heiseren Schrei
 aus …
 
 Wir alle schnellten herum …
 
-Er stand tief Vorbeugt Über den aus einem Sessel liegenden
+Er stand tief gebeugt Über den auf einem Sessel liegenden
 Sack da und hatte mit der Rechten … einen gewöhnlichen
 Feldstein hervorgeholt …
 
@@ -66,41 +65,40 @@ Sein schmales Gesicht war erblaßt … Seine entsetzten
 Augen starrten Harald an …
 
 »Nur … noch … Steine …« stammelte er …
-»Herr Harst — — alles gestohlen … Ihres …!! Wie ist
-das mir möglich?! Wir haben doch weder den Sack noch
-den lassen auch nur eine Sekunde aus den Augen gelassen!
+»Herr Harst — — alles gestohlen … alles …!! Wie ist
+das nur möglich?! Wir haben doch weder den Sack noch
+den Koffer auch nur eine Sekunde aus den Augen gelassen!
 Gegen zehn Uhr kamen wir im Hotel Esplanade an … Da
 waren die Kleinodien vorhanden … Ich zeigte sie Ihnen
-
-… Wir saßen dann in Weras Salon und sniühstückten …
+… Wir saßen dann in Weras Salon und frühstückten …
 Vor Ihren Augen tat ich den Sack in diesen Koffer, verschloß
 ihn und stellte ihn neben den Frühstückstisch … Wir
 blieben im Salon, bis wir den Koffer ins Auto trugen …
 Und doch: jetzt nur Steine — nichts wie Steine …!«
 
 Er war völlig niedergeschmettert … Die Kleinodien
-hätten ihm wieder ein unabhängiges, stanbe8gemäßes Leben
+hätten ihm wieder ein unabhängiges, standesgemäßes Leben
 ermöglicht … Nun war er wieder bettelarm, der russische
-Art, den wir wegen seiner liebenswürdigen Umaana&-ormen
-so sehr in unser Herz Verschlossen hatten
+Fürst, den wir wegen seiner liebenswürdigen Umgangsformen
+so sehr in unser Herz geschlossen hatten
 
 <@pagebreak/>
-Harald ber’’higte ihn …
+Harald beruhigte ihn …
 
-»Das hohe tun kann, wird gescheheit …« meinte er.
+»Was ich tun kann, wird geschehen …« meinte er.
 »Die Hauptsache: wir dürfen uns nichts anmerken lassen …
 Wir alle müssen so tun, als ob dieser in der Tat äußerst
-rätselhafte Diebstahl noch nicht entdeckt sel … Haben Sie
-Vertrauen zu mir, Fürst … Schraut und 1H werden Ihnen
-Ihr Eigentum zurück verschlossen … — Nehmen wir Platz
+rätselhafte Diebstahl noch nicht entdeckt sei … Haben Sie
+Vertrauen zu mir, Fürst … Schraut und ich werden Ihnen
+Ihr Eigentum zurück verschaffen … — Nehmen wir Platz
 … Ich möchte Sie einiges fragen … Auch Sie, Frau
 Orlington. Von Ihren Antworten hängt sehr viel ab …
 Lassen Sie sich Zeit, überlegen Sie sich diese Antworten …
-— — Fürst Tschergin hat die Sachlage bereits kurz und treffend
+— Fürst Tschergin hat die Sachlage bereits kurz und treffend
 gekennzeichnet. Die Juwelen sind nicht einen Moment ohne
-Aussicht geblieben, das ist richtig. Niemand außer uns
-sechs und Urtschoff bat die Pretiosen im Salon gesehen.
-Während des Frühstück bediente uns Ihr Kammteerdiener,
+Aufsicht geblieben, das ist richtig. Niemand außer uns
+sechs und Urtschoff hat die Pretiosen im Salon gesehen.
+Während des Frühstücks bediente uns Ihr Kammerdiener,
 Frau Orlington. Nur er ging im Salon aus und ein.
 Aber auch in seiner Gegenwart waren wir vorsichtig und
 erwähnten die Kleinodien in keiner Weise. — Frau Orlington,
@@ -108,99 +106,97 @@ ist der Diener zuverlässig?«
 
 »Durchaus, Herr Harst. Mein Mann hat ihn bereits
 drei Jahre in seinem Dienst. Der Diener ist von Geburt
-Grieche, aber schon seit zehn Jahren in Amerika, Ein Brüllten,
-pslichttreter Mensch … Nein, Theophilos Krokodil müssen
+Grieche, aber schon seit zehn Jahren in Amerika. Ein stiller,
+pflichttreuer Mensch … Nein, Theophilos Krakotis müssen
 wir ausscheiden …«
 
 Harald nickte …
 
 »Möglich, Frau Orlington … Ein Mann, der drei
-Jahre ehrlich war, kann immerhin einer Versuchung uniter-liegen,
-kann am Schlüsselloch beobachtet haben, daß der Dach
+Jahre ehrlich war, kann immerhin einer Versuchung unterliegen,
+kann am Schlüsselloch beobachtet haben, daß der Sack
 Juwelen enthielt, kann der Versuchung unterliegen … —
-Und ließ; Fürst Tschergin — Sie waren doch ein volles
-Rat Oberkellner im Hotel Esplanade … Sie kennen das
-
-Personal … C:außen Sie, daß unter den Kellnern fragwürdige
+Und Sie, Fürst Tschergin — Sie waren doch ein volles
+Jahr Oberkellner im Hotel Esplanade … Sie kennen das
+Personal … Glauben Sie, daß unter den Kellnern fragwürdige
 Elemente sich befinden?«
 
-»Nein, bestimmt nicht, Herr Harst … Ein LuxuS8hote!
-wie das Esplanade ist in der Wahl selbst der KitHenbedien-fteten
-anißerordentlich vorsichtig. Wir waren Jeden, der neu
+»Nein, bestimmt nicht, Herr Harst … Ein Luxushotel
+wie das Esplanade ist in der Wahl selbst der Küchenbediensteten
+außerordentlich vorsichtig. Wir haben Jeden, der neu
 <@pagebreak/>
-eingestellt wurde, auf Herz und. Nieren geprüft … jeden!
+eingestellt wurde, auf Herz und Nieren geprüft … jeden!
 Der Hoteldirektor und ich waren zusammen mit den beiden
-Hoteldetcktiven beständig auf der Lauer, ob wir irgendwo
+Hoteldetektiven beständig auf der Lauer, ob wir irgendwo
 auch nur die geringste Unregelmäßigkeit bemerkten. Das
 Hotel wurde erst vor zwei Jahren eröffnet. Obwohl dort
 nun ausschließlich vielfache Millionäre absteigen, ist noch
 nie ein Diebstahlsversuch gewagt worden. Unser Betrieb
 ist mustergültig. Es gibt auf der Welt kein Hotel, das derartige
 Sicherheitsmaßnahmen für seine Gäste getroffen hat.
-Die Türschlösser der Doppelitüren sind erstklassige Kunstschlösser.
+Die Türschlösser der Doppeltüren sind erstklassige Kunstschlösser.
 Um die Schlösser herum sind die Innentüren
 unsichtbar gepanzert. Die Außentüren haben Stahlblecheinlagen.
-die Fenster besitzen sämtlich geschweifte Ziergitter
+Die Fenster besitzen sämtlich geschweifte Ziergitter
 … Kurz: das Esplanade ist fast ein Gefängnis —
-— einbrüchssicher, ausbruchsicher …!«
+— einbruchssicher, ausbruchsicher …!«
 
-Front Orlington brachte Zigaretten …
+Frau Orlington brachte Zigaretten …
 
-»Herr Harst. bitte … Ich kenne Ihre Leidenschaft …«
+»Herr Harst, bitte … Ich kenne Ihre Leidenschaft …«
 
-Harald dunkle …
+Harald dankte …
 
-»Verzeihen Sie, in so schmierigen Fällen rauche ich
+»Verzeihen Sie, in so schwierigen Fällen rauche ich
 zur Anregung nur meine Mirakulum … Sie gestatten …«
 
-»Gewiß … gewiß…“«
+»Gewiß … gewiß …«
 
-seine Augen Dingen an dem neuen Lederkoffer und
+seine Augen hingen an dem neuen Lederkoffer und
 dem schäbigen Leinwandsack, der jetzt nur Steine enthielt …
 
-»Wann haben Sie den lassen gekauft, Fürst Tschergin?«
+»Wann haben Sie den Koffer gekauft, Fürst Tschergin?«
 fragte er sinnend …
 
-»Vor vierzehn Tagen … Hier in der Bahnhof-Street,
-
-bei dem Versteck en Händler Termin — das größte Ledexr-warengeschäst
-in Bombay …«
+»Vor vierzehn Tagen … Hier in der Bakalar-Street,
+bei dem persischen Händler Selmin — das größte
+Lederwarengeschäft in Bombay …«
 
 »Persönlich?«
 
-»na, natürlich …«
+»Ja, natürlich …«
 
-»Und der Koffer Winde Eimer zugeschickt?«
+»Und der Koffer wurde Ihnen zugeschickt?«
 
-»Wein … Ein Kellner dritte ihn ab …«
+»Nein … Ein Kellner holte ihn ab …«
 
-»Metall?! Ein Kelinerk’«
+»Weshalb? Ein Kellner?«
 
-»Du ja — ne elegantione unserer Kellner, Joe Billwaker
-… Er ist sehr gefällig und hatte sich! zur selben Zeit
-bei Termin eine Verdrosch? erstanden«
+»Nun ja — der eleganteste unserer Kellner, Joe Billwaker
+… Er ist sehr gefällig und hatte sich zur selben Zeit
+bei Selmin eine Brieftasche erstanden …«
 
 <@pagebreak/>
 Harald schaute den Fürsten an …
 
 »Sie können es sich wohl selbst sagen, Fürst, daß der
-lassen und der Ja unmöglich dieselben sind, die im Salon
+Koffer und der Sack unmöglich dieselben sind, die im Salon
 Ihrer Frau Kusine neben dem Frühstückstisch hinter dem
 kleinen kostbaren Wandschirm standen … Unmöglich dieselben!
-Der Master ist eben vertauscht Orden, muß vertauscht
+Der Koffer ist eben vertauscht worden, muß vertauscht
 worden sein …«
 
 Frau Orlington rief: »Das ist Ja aber doch ausgeschlossen,
-Herr kamst …! Im Salon waren nur wir sechs
+Herr Harst …! Im Salon waren nur wir sechs
 und Urtschoff anwesend, dann noch der Diener Theophilos,
 den wir James nennen, weil die meisten Diener so genannt
-werden … James kann doch) nicht mit einem Koffer hereingekommen
-sein und den Wunsch unter unseren Augen vorgenommen
+werden … James kann doch nicht mit einem Koffer hereingekommen
+sein und den Tausch unter unseren Augen vorgenommen
 haben!«
 
-»Über das »wie’s? dieses Diebstahls läßt sich bis jetzt
-nur das eine bestimmt sagen, Frau Orlington; es ist weder
-derselbe lassen noch derselbe Leinensack. — Hatte Ihr
+»Über das »Wie«? dieses Diebstahls läßt sich bis jetzt
+nur das eine bestimmt sagen, Frau Orlington: es ist weder
+derselbe Koffer noch derselbe Leinensack. — Hatte Ihr
 Koffer, Fürst, besondere Kennzeichen?«
 
 »Nein … Ich hatte ihn noch nicht benutzt …«
@@ -208,38 +204,38 @@ Koffer, Fürst, besondere Kennzeichen?«
 Harald nahm die zweite Mirakulum …
 
 »Ich wiederhole,« sagte er, »wir müssen so tun, als sei
-nicht geschehen … Sie kehren ins Esplanade zurück …
+nichts geschehen … Sie kehren ins Esplanade zurück …
 Wir verabschieden uns auf dem Kai draußen und begeben
 uns in unser Fremdenheim. Mittags ein Uhr reisen wir
 zum Schein ab … Und Sie kümmern sich bitte um nichts —
-um gar nichts. Sie sollen den Eindruck entdecken, als ob
+um gar nichts. Sie sollen den Eindruck erwecken, als ob
 Sie die Juwelen in guter Hut glauben … Sie haben
 auch keinen Grund zur Beunruhigung … Und wenn ich ein
 ganzes Jahr dem Diebe durch alle Weltteile nachjagen sollte:
-ich werd? ihm die Beute Ahn. Omen!«
+ich werde ihm die Beute abnehmen!«
 
-Und er reich 2« Tschergin die Hand, fügte hinzu:
+Und er reichte Tschergin die Hand, fügte hinzu:
 
-»Ein andere« Gesicht also, Fürst …! Nur wenn wir
+»Ein anderes Gesicht also, Fürst …! Nur wenn wir
 die Gauner in Sicherheit wiegen, werden wir raschen Erfolg
-geschahen …!! Ich hoffe …«
+haben …! Ich hoffe …«
 
-Es Haus geklopft …
+Es hatte geklopft …
 
-Frau Destillation eilte zur Tür
+Frau Orlington eilte zur Tür
 
 <@pagebreak/>
-Gesuchte nur handbreit …
+Öffnete nur handbreit …
 
 Eine rauhe Stimme von draußen …
 
 »Einer der Hoteldetektive aus dem Esplanade möchte
-Sie sprechen, Frau Orlington …
+Sie sprechen, Frau Orlington …«
 
-Harst klappte schnell den erster zu und schob ihn unter
+Harst klappte schnell den Koffer zu und schob ihn unter
 den Diwan …
 
-»Der Detektiv mag eintreten …!« tiefer …
+»Der Detektiv mag eintreten …!« rief er …
 
 Der kleine Herr mit dem verkniffenen Gesicht trat ein
 — schwitzend, keuchend …
@@ -252,15 +248,15 @@ Sein Blick schnellte zu Harald hinüber …
 
 »Unser … unser Hotel ist ruiniert, wenn … wenn
 die Sache an die Öffentlichkeit kommt … Herr Harst, der
-Hoteldirektor läßt Sie inständig bitten, sich des Falles anzunehmen
+Hoteldirektor läßt Sie inständig bitten, sich des Falles annehmen
 zu wollen … Dann brauchen wir die Polizei nicht
 zu benachrichtigen … Ihr Name …«
 
-»Wer hat den Mord sofort?« fragte Harald …
+»Wer hat den Mord entdeckt?« fragte Harald …
 
-»Der Kellner Billwaker …
+»Der Kellner Billwaker …«
 
-Totenstille +…
+Totenstille …
 
 Zum zweiten Male fiel hier dieser Name …
 
@@ -273,27 +269,26 @@ Dann sagte er — noch immer ganz verstört:
 
 »bisher wissen nur der Hoteldirektor, Billwaker, mein
 Kollege und ich davon, Herr Harst … Verlangen Sie,
-was Sie wollen — nur helfen Sie uns …,! Es ist jetzt
-Reisezeit, und wenn der Mord in die Deskfentlichkeit
+was Sie wollen — nur helfen Sie uns …! Es ist jetzt
+Reisezeit, und wenn der Mord in die Öffentlichkeit
 dringt …«
 
 Harald stand auf …
 
 »Gut — in fünf Minuten sind Schraut und ich dort
+… bestimmt … Schweigen Sie, bewahren Sie die Ruhe
+… — Haben Sie den Salon verschlossen?«
 
-… bestimmt … E44 meinen Sie, bewahren Sie die Ruhe
-Haben Sie den Salon verschlossen?«
-»ja auch die Nebeonacemäcer Frau Orlingtons. +«
+»Ja … auch die Nebengemächer Frau Orlingtons …«
 
 <@pagebreak/>
 »Dann fahren Sie voraus … Die Herrschaften bleiben
-hier an Bord … Schraut und ich kommen durch den«
-Hotelpark. Erwarten Sie uns an einem Seiteneingang …
-—
+hier an Bord … Schraut und ich kommen durch den
+Hotelpark. Erwarten Sie uns an einem Seiteneingang …«
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 
-<h3>Der Hotelflur im ersten Stock des Hauptflügel8 war.</h3>
+Der Hotelflur im ersten Stock des Hauptflügels war
 leer …
 
 Sechs Herren traten rasch durch die Doppeltür in den
@@ -305,9 +300,9 @@ Aber — von einem Toten nirgends eine Spur —
 nirgends …
 
 Detektiv Roussell, der Hoteldirektor, der andere Detektiv
-und Billwaker Riesen wie aus einem Munde:
+und Billwaker riefen wie aus einem Munde:
 
-»Verschwunden, …!!«
+»Verschwunden …!!«
 
 Roussell — vollkommen verwirrt, fügte hinzu:
 
@@ -323,41 +318,40 @@ in der Wunde … Die weiße Leinenjacke war blutdurchtränkt,
 das Gesicht fahl und verzerrt, die Augen entsetzlich
 verdreht …«
 
-»haben Sie nach dem Pulsschlag gefühlt …?k«
+»haben Sie nach dem Pulsschlag gefühlt …?«
 
 »Ja … Es war nichts mehr zu spüren …«
 
 Harald wandte sich an den Kellner Joe Billwaker …
 
-Der war -«er für mich die interessanteste Person …
+Der war hier für mich die interessanteste Person …
 
-Nun — — alle gestanden: Billwaker machte einen Gabel
-losen Eindruck …
+Nun — — offen gestanden: Billwaker machte einen tadellosen
+Eindruck …
 
-Ein junger schlanker Mensch von vielleicht siinsund-ziwanzia
+Ein junger schlanker Mensch von vielleicht fünfundzwanzig
 Jahren, regelmäßige, energische Züge, klare offene
-Augen, sehr bescheiden und doch in keiner Weise krieherith …
+Augen, sehr bescheiden und doch in keiner Weise kriecherisch …
 
 <@pagebreak/>
 »Wie entdeckten Sie den Mord?« fragte Harst ganz
 freundlich …
 
 »Ich bin hier im ersten Stock Etagenkellner, Mr. Harst
-
 … James begegnete mir, nachdem Frau Orlington sich
 mit ihren Gästen entfernt hatte, im Flur und bat mich,
-ihm beim Abräumen des Frühstückstische8 zu helfen …
+ihm beim Abräumen des Frühstückstisches zu helfen …
 Ich erklärte, ich würde sofort kommen. Ich hatte nur noch
 für einen anderen Gast ein Glas Eislimonade zu holen.
-Das dauerte Leine vier Minuten Ich vbötrat hier den
-Salon durch die Flurtür und sah ganzes dort in seinem
+Das dauerte keine vier Minuten Ich betrat hier den
+Salon durch die Flurtür und sah James dort in seinem
 Blute liegen, lief sofort zu Mr. Roussell … — Mehr kann
 ich nicht angeben …«
 
 Ich beobachtete ihn heimlich …
 
 Nein — er machte auch nicht im geringsten den Eindruck,
-als ob er ein schlechtes Gewissen hätt. es war
+als ob er ein schlechtes Gewissen hätte. Er war
 nur gerade so weit durch diese Untat erregt, wie es auch die
 Detektive und der Hoteldirektor waren.
 
@@ -365,10 +359,10 @@ Harald nickte ihm denn auch zu und meinte:
 
 »Sie waren dann wohl mit Ausnahme des Mörders
 der letzte, der den Diener James lebend gesehen hat …
-— Bemerkten Sie vielleicht im Flur irgend jemand, der,
+— Bemerkten Sie vielleicht im Flur irgend jemand, der
 irgendwie Ihren Verdacht erregte?«
 
-»Nein — niemand, Mr. Harst … Jedenfalls herum
+»Nein — niemand, Mr. Harst … Jedenfalls kein
 fremdes Gesicht …«
 
 »Begegneten Sie einem Hotelgast oder Hotelangestellten
@@ -377,21 +371,20 @@ James zu helfen?«
 
 Billwaker dachte nach …
 
-»Nur Frau Major Wandfach aus dem Hochparterre, Mr.
-
-Harst …: … Frau Laimnbrock hat unten die Zimmer Nr.
+»Nur Frau Major Lambrock aus dem Hochparterre, Mr.
+Harst … Frau Lambrock hat unten die Zimmer Nr. 2
 und 3 …«
-»Gas Witwe,« war’s der Hoteldirektor ein … »Witwe
 
-Weibes amerikanischen Majors Wandfach, seit acht Tagen nebst
-Wesellsciästerin hier abgestiegen …«
+»Eine Witwe,« warf der Hoteldirektor ein … »Witwe
+des amerikanischen Majors Lambrock, seit acht Tagen nebst
+Gesellschafterin hier abgestiegen …«
 
-Palast wandte sich der Stelle zu, wo der tote James
-Kolonien hatte …
+Harald wandte sich der Stelle zu, wo der tote James
+gelegen hatte …
 
 <@pagebreak/>
 »Wenn die Türen verschlossen waren,« meinte er, »kann
-noch die Leiche nicht gut weggeschafft worden sein …
+doch die Leiche nicht gut weggeschafft worden sein …
 Suchen wir mal in den beiden Nebenräumen.«
 
 Links lag das Schlafzimmer Frau Orlingtons, rechts
@@ -409,8 +402,8 @@ auch der Diebstahl des Koffers noch geheimnisvoller geworden
 … —
 
 Harald sagte zu dem Hoteldirektor, daß man Uns beide
-jetzt hier allein lassen Wege … Wir würden ihn nachher
-im Büro aussuchen …
+jetzt hier allein lassen möge … Wir würden ihn nachher
+im Büro aufsuchen …
 
 Die anderen entfernten sich. Harst schloß hinter
 ihnen ab …
@@ -420,52 +413,52 @@ kostbare Stickerei … Auf schwarzen Seide war da in den
 vier Teilen des Schirmes eine ganze Szenenreihe aus der
 indischen Göttersage eingestickt …
 
-Harald ließ den Schlüssel der Innentür Kehren und
+Harald ließ den Schlüssel der Innentür stecken und
 drehte sich langsam um … Unsere Blicke trafen sich …
-Und — er senkte den Kopf, zwinkerte. mir zu …
+Und — er senkte den Kopf, zwinkerte mir zu …
 
 Ich wurde aufmerksam …
 
 Dann sagte er ganz laut:
 
 »Ein böser Fall, mein Alter … Der Hoteldirektor
-verläßt sich auf uns … Wenn wir uns nun blamieren?!
+verläßt sich auf uns … Wenn wir uns nun blamieren?!«
 
 Und er warf sich in einen Sessel und starrte vor sich
-hin. Ich hatte daß Gefühl, daß er Komödie spielte, daß
+hin. Ich hatte das Gefühl, daß er Komödie spielte, daß
 er bestimmt annahm, wir würden beobachtet und belauscht …
 
 Und weiter fühlte ich unklar, daß er diesen beiden Rätseln
-doch scharf auf der Spur war …«
+doch scharf auf der Spur war …
 
 Ich richtete mich nach seinem Verhalten …
 
-»In der Tal, Harald ein böser Fall … Rnmuhmord
+»In der Tat, Harald ein böser Fall … Raubmord
 <@pagebreak/>
-(trat nicht vor … — Roussell erwähnte, daß James die Briefe
-Tasche, Uhr und …
+liegt nicht vor … — Roussell erwähnte, daß James die Brieftasche,
+Uhr und …«
 
 Harst hob die Schultern …
 
-»Ein Denkfehler, Mag Schraut …! James’ Leiche ist
-weg … völlig auch der Inhalt seiner Taschen … Er
+»Ein Denkfehler, Max Schraut …! James’ Leiche ist
+weg … Mithin auch der Inhalt seiner Taschen … Er
 war gleichzeitig Orlingtons Reisemarschall, muß bedeutende
-Summen bei sich gehabt haben …„.
+Summen bei sich gehabt haben …«
 
 »Hm — allerdings … —« Ich war etwas kleinlaut
-geworden. Man macht doch stets noch Gehirnschmniter, und
+geworden. Man macht doch stets noch Gehirnschnitzer, und
 dann meist ganz grobe.
 
 Harst hatte die Augen geschlossen. Er lehnte im Sessel
-und machte ganz den Eindruck, als ob er schließe …
+und machte ganz den Eindruck, als ob er schliefe …
 
-Auch ich setzte mich auf einen der Brofkatstühle neben den
+Auch ich setzte mich auf einen der Brokatstühle neben den
 Wandschirm …
 
 Unklar erwachte in mir da die Vorstellung, daß dieser
-Wandschirm bei dem Diebstahl sowohl als H1:Co bei diesem
+Wandschirm bei dem Diebstahl sowohl als auch bei diesem
 Morde eine besondere Rolle gespielt haben müsse … Es
-Bild eben Augenblickseinfälle, über die man kaum sollst,
+gibt eben Augenblickseinfälle, über die man kaum selbst,
 was ihre Entstehung betrifft, irgendwie Rechenschaft ablegen
 könnte …
 
@@ -476,31 +469,31 @@ Da — von Haralds Sessel her:
 
 »Nicht doch …!!«
 
-Genau verstand los … Er hatte mich gewarnt, hatte
+Genau verstand ich’s … Er hatte mich gewarnt, hatte
 mich abgelenkt …
 
 Und fügte hinzu:
 
 »Richtstock — ja, der Fall Richtstock damals in Berlin
-erinnert stark an diese mysteriöse Teich echte …«
+erinnert stark an diese mysteriöse Geschichte …«
 
 Es hat nie einen »Fall Richtstock« gegeben … Nur
 in Haralds Phantasie war dieser soeben entstanden, um
 das warnende »Nicht doch!« zu bemänteln …
 
-»Allerdings,« erwiderte ließ, und der Wandschirm war
+»Allerdings,« erwiderte ich, und der Wandschirm war
 für mich Luft. »Allerdings — große Ähnlichkeit …«
 
-»T9 — dort verschwand diese Leiche des Fräulein Richtstock
-zu 8 der Mansardenstube Und selbst wir konnten
+»Ja — dort verschwand diese Leiche des Fräulein Richtstock
+aus der Mansardenstube … Und selbst wir konnten
 <@pagebreak/>
-nicht ermitteln, wo je geblieben … Post heutigen Tages
-harrt der Fall der Aufklärung … Vielleicht wird es bis!
-ebenso … Wer kann’s wissen …
+nicht ermitteln, wo sie geblieben … Noch heutigen Tages
+harrt der Fall der Aufklärung … Vielleicht wird es hier
+ebenso … Wer kann’s wissen …«
 
-Aha —« nun begriffst ich …! Es stimmte schon: wir
+Aha — nun begriff ich …! Es stimmte schon: wir
 wurden belauscht! Natürlich von dem Mörder — natürlich!
-Und dieser Schilde durch den »bisher unaufgeklärten Fall
+Und dieser sollte durch den »bisher unaufgeklärten Fall
 Richtstock« noch mehr in Sicherheit gewiegt werden!!
 
 Aber — was war’s mit dem Wandschirm?! Was gab
@@ -509,11 +502,11 @@ Zweifel etwas Wichtiges zu bemerken sein …!
 
 Harald erhob sich …
 
-»Alles Grübeln hilft hier nichts, mein Alter … Wirt
+»Alles Grübeln hilft hier nichts, mein Alter … Wir
 müssen ganz systematisch vorgehen … Es ist ja ganz klar,
 daß jemand Nachschlüssel zu diesen Zimmern besitzt und daß
-der tote James nur in die Zimmer gegenüber gebrach!
-worden sein kann. Also fragen wie den Direktor, Zwei dort!
+der tote James nur in die Zimmer gegenüber gebracht
+worden sein kann. Also fragen wir den Direktor, wer dort
 wohnt …«
 
 Natürlich war auch das … Schwindel … Harald
@@ -523,52 +516,50 @@ dicke Stickerei …
 
 Dann geschah etwas Unerwartetes …
 
-Harst, der mich noch soeben von dem Wandschirm gleich
-langsam ferngehalten, bückte sich, rief …
+Harst, der mich noch soeben von dem Wandschirm gleichsam
+ferngehalten, bückte sich, rief …
 
 »Hallo — hier — dies scheinen ein paar blutige Fingerabdrücke
 zu sein … — hier auf der Rahmenleiste … Doch
 — dafür haben wir jetzt keine Zeit … Wir wollen …
 oder besser, ich will den Direktor wegen der Zimmer gegenüber
-befragen gehen … Du kannst derweil zusehen, ob e?
+befragen gehen … Du kannst derweil zusehen, ob es
 wirklich Fingerabdrücke sind … Auf Wiederschaun, mein
 Alter … auf Wiederschaun …«
 
-Nun — ich bin mit Harald bereits lang« genug zusammen
+Nun — ich bin mit Harald bereits lange genug zusammen
 gewesen, um zu wissen, daß … ich die sogenannten
 Fingerabdrücke auch als solche erkennen sollte …
 
 Harald verließ den Salon …
 
-Ich war allein … unsere vor dem Wandschirm
-
+Ich war allein … Kniete vor dem Wandschirm.
 <@pagebreak/>
-Und — sah allerdings Blut an der hätte — drei merkwürdig
-dicke Spritzer — etwas verlaufen, alle gleich groß…
+Und — sah allerdings Blut an der Leiste — drei merkwürdig
+dicke Spritzer — etwas verlaufen, alle gleich groß …
 
 Das — waren keine Spritzer … Nein!, das waren
 Tropfen von einer überraschenden Größe … — Wie konnten
-die hier an die Unterleiste des Rahmens des Landseite».es
-gelangt sein?k! Wie nun?k! Aus der Wunde des ECrmoxr-deten?!
+die hier an die Unterleiste des Rahmens des Wandschirmes
+gelangt sein?! Wie nur?! Aus der Wunde des Ermordeten?!
 Unmöglich! Nicht einmal der Teppich war beschmutzt
 worden …! Und so dicke Tropfen — nur gerade
-drei?! Augsgeschlossen! Dafür war ich Detektiv. Niemals
+drei?! Ausgeschlossen! Dafür war ich Detektiv. Niemals
 rührten die Tropfen direkt von der Wunde her!
 
 Ich setzte mich wieder …
 
-Ich vergaß seinen Augenblick, Daß ich bvbelausci,
+Ich vergaß keinen Augenblick, Daß ich belauscht,
 beobachtet wurde …
 
 Ich spielte die Komödie weiter … genau wie Harst …
 
 Und — der erschien sehr bald — sehr eilig — in Begleitung
-Nousjell8, des Hotelkollegen …
+Roussells, des Hotelkollegen …
 
 »Mein Alter, Roussell wird hier bleiben … Komm
-Dr … — Wir wollen die Herrschaften von gegenüber vorn
-
-vier …«
+nur … — Wir wollen die Herrschaften von gegenüber verhören
+…«
 
 Roussell nahm meinen Platz ein … Wir gingen hinaus
 … Harald klopfte gegenüber an. Der Hoteldirektor
@@ -576,21 +567,21 @@ Roussell nahm meinen Platz ein … Wir gingen hinaus
 Dame standen in der Mitte des eleganten Raumes. Der
 Direktor stellte uns vor:
 
-»Lord und Lady Carnavoor, Mr. Jenning, PRPrivat-sekretär
+»Lord und Lady Carnavoor, Mr. Jenning, Privatsekretär
 — — Mr. Harst und Mr. Schraut, die deutschen
 Detektive …«
 
-Die rote) junge Lady schaute uns neugierig an …
+Die noch junge Lady schaute uns neugierig an …
 Seine Lordschaft war ganz kühle Ablehnung. Der Sekretär
 machte ein durchaus indifferentes Gesicht …
 
-»ZL — soll das?« fragte Carnavoor von oben herab.
+»Was — soll das?« fragte Carnavoor von oben herab.
 
-Harald hatte sich außerordentlich höflich Beckens! …
+Harald hatte sich außerordentlich höflich verbeugt …
 
-»Mylord, es hat sich hier im Hotel ohne kleine Unregelmäßigkeit
+»Mylord, es hat sich hier im Hotel eine kleine Unregelmäßigkeit
 ereignet …« (Ein Mord — — sehr bescheiden
-war diese Bezeichnung »kleine Unregelmäßkiakeity … ’«!
+war diese Bezeichnung »kleine Unregelmäßigkeit …!!)
 
 <@pagebreak/>
 »Drüben in den Zimmern der Frau Orlington, die Mylord
@@ -598,12 +589,11 @@ wohl schon bemerkt haben …«
 
 »Bedaure — nein!«
 
-» « … in diesen Zimmern ist — osfenbaw ein gegen
-He Wera Orlington, geborene Gräfin Strom, gerichtete
-
+»… in diesen Zimmern ist — offenbar ein gegen
+Frau Wera Orlington, geborene Gräfin Olygin, gerichteter
 Schabernack verübt worden …«
 
-»Das ist doch uns sehr gleichgültig, rum Harst …«
+»Das ist doch uns sehr gleichgültig, Mr. Harst …«
 
 »Immerhin könnten Mylord dazu beitragen, den Täter
 zu ermitteln … Haben Sie vielleicht — oder Ihre Frau
@@ -611,60 +601,58 @@ Gemahlin oder Mr. Jenning, in der Zeit zwischen zwölf
 und ein Uhr auf dem Korridor draußen etwas Besonderes
 bemerkt?«
 
-»Ich jedenfalls nicht, Mr. Harst …
+»Ich jedenfalls nicht, Mr. Harst …«
 
 Auch Mylady schüttelte den Kopf …
 
 Nur Jenning, ein älterer Herr mit dem typischen
-Äußeren des verfnöcherten Büromenschen, erklärte zögernd:
+Äußeren des verknöcherten Büromenschen, erklärte zögernd:
 
 »Ich weiß nicht, ob meine Bekundung für Sie irgendwie
 von Wert ist, Mr. Harst … Es mag zwölf Uhr gewesen
 sein, als ich den Flur entlang kam … Ich sah, daß jemand
-die äußere Tür des Salons der trat Orlington öffnete …
+die äußere Tür des Salons der Frau Orlington öffnete …
 Ein Männerkopf wurde einen Augenblick sichtbar und verschwand
 sofort wieder, die Tür aber wurde rasch und leise
 zugezogen. Leider bin ich kurzsichtig … Ich könnte Ihnen
-
 daher diesen Mann kaum beschreiben … Das heißt: das
 Gesicht war bärtig — ein schwarzer Spitzbart — das dürfte
 stimmen … Und außerdem … — der Mann trug eine
-
-Brille wie im, Mr. Harst. — Immerhin war das Verhalten
-dieses Mannes so merkwürdig gewesen, als ob er mit
+Brille wie ich, Mr. Harst. — Immerhin war das Verhalten
+dieses Mannes so merkwürdig gewesen, als ob er mir
 nicht begegnen wollte, und dabei habe ich im Flur eine
-Weile mich ausgehalten, nachdem ich. die Außentür von
-Mylords Zimmer zum Schein geöffnet und geschlossen hatte
+Weile mich aufgehalten, nachdem ich die Außentür von
+Mylords Zimmer zum Schein geöffnet und geschlossen hatte.
 Da geschah dann auch genau dasselbe, Mr. Harst: der
-Mann Trollte den Sauwetter betreten, prallte jedoch zurück
+Mann wollte den Korridor betreten, prallte jedoch zurück
 und riß die Tür abermals zu, wobei ihm etwas aus der
-Hand Adel — dies hier, ein seltsam geformter Schlüssel, wie
+Hand fiel — dies hier, ein seltsam geformter Schlüssel, wie
 Sie sehen …«
 
 <@pagebreak/>
 Er gab Harald den kleinen Schlüssel …
 
-»Ich hob ihn auf und hätte ihn längst in! Hotelblro
+»Ich hob ihn auf und hätte ihn längst im Hotelbüro
 abgeliefert, wenn Mylord nicht für mich so sehr dringende
-Arbeit gehabt hätte …
+Arbeit gehabt hätte …«
 
 Worauf Carnavoor erklärte:
 
 »Sehr verständig von Ihnen, Jenning, daß Sie mich
-mit diesem nicht Ragenden Zeug verschont haben … —
+mit diesem nichtssagenden Zeug verschont haben … —
 Noch etwas, Mr. Harst?«
 
-»Nein, ’Mylord … Ich möchte Sie nur bitten, daß
-Mr. Jennings wichtige Beobachtungen unbedingt geheim
+»Nein, Mylord … Ich möchte Sie nur bitten, daß
+Mr. Jennings *wichtige* Beobachtungen unbedingt geheim
 bleiben — unbedingt. Und ich will diese Forderung dadurch
 begründen, daß das, was ich als Schabernack bezeichnete,
 in Wahrheit das spurlose Verschwinden des Kammerdieners
-der Frau Orlington ist …“«
+der Frau Orlington ist …«
 
-er hochmütige Lord machte plötzlich ein anderes
+Der hochmütige Lord machte plötzlich ein anderes
+Gesicht …
 
 »Oh — dann … dann … — natürlich, Mr. Harst
-
 … Unter den Umständen werden wir selbstverständlich
 schweigen …«
 
@@ -673,9 +661,7 @@ Harald verbeugte sich …
 Wir gingen. Des Hoteldirektor entschuldigte sich noch
 der Störung wegen … Das war seine Pflicht …
 
-acht
-
-d. Kapitel.
+<h2>3. Kapitel.</h2>
 
 Wir drei begaben uns in das Privatvilla des Direktors.
 »Mr. Doktor,« sagte Harald, nachdem wir hier an einem
@@ -1064,7 +1050,7 @@ Wir hatten das Nachsehen … Er hatte selbst Harald
 
 <h2>4. Kapitel.</h2>
 
-<h3>Die Polizei erschien … Inspektor Sheffield mit zwei.</h3>
+Die Polizei erschien … Inspektor Sheffield mit zwei
 Beamten — in aller Stille. Jedes Aussehen sollte vermieden
 werden. Ein Arzt bemühte sich um die beiden b&
 Betäubten Damen … Polizeistreifen durchsuchten die Stadt
@@ -1128,7 +1114,7 @@ herausgewagt … Wer also war der Spitzbärtige?!«
 Sheffield runzelte unzufrieden die Stirn …
 
 »warst, Sie verderbeis all das, was Sie soeben noch
-zurehtgezimmert haben …«
+zurechtgezimmert haben …«
 
 »Fix — einen schiefen Bau — das stimmt! Schrei!!
 Ich muß ihn gerade richten … Billwaker entfloh, weil
@@ -1490,7 +1476,7 @@ ganz frische Spuren …
 »James, Thomas Orlington und der bestochene Pilot,«
 sagte Harst leise …
 
-Es war eine seiner bekannten Geiste3raketen …
+Es war eine seiner bekannten Geistesraketen …
 
 Ich glaubte nicht recht verstanden zu haben …
 
@@ -1592,8 +1578,8 @@ Unterkunft im Dschungel gesorgt …!!
 
 <h2>1. Kapitel.</h2>
 
-<h3>Harald bleibt unheimlich glich … Oh bin blaß ge.</h3>
-worden … Ich schwitze … Der Tiger rast … Die Nähe
+Harald bleibt unheimlich glich … Oh bin blaß geworden
+… Ich schwitze … Der Tiger rast … Die Nähe
 der Menschen hat seine Wut aufs Höchste angestachelt. Er
 springt gegen das Gitter … Er brüllt in kurzen Pausen.
 
@@ -1899,7 +1885,7 @@ Wir warteten +…
 
 <h2>2. Kapitel.</h2>
 
-<h3>Joe Augapfel …</h3>
+Joe Augapfel …
 
 Wer hätte das gedacht!! Gerade er unser Befreier … l!
 Ausgerechnet der Mann, den Harald erst beschuldigt
@@ -2255,7 +2241,7 @@ nachts böserer Dinge ständen …
 
 <h2>3. Kapitel.</h2>
 
-<h3>Ich muß hier etwas nachholen, um nachher nicht den.</h3>
+Ich muß hier etwas nachholen, um nachher nicht den
 Gang der Ereignisse durch Bemerkungen, die nicht recht in
 die Schilderung hineinpassen, aufzuhalten … — Thomas
 Orlington hatte auf seiner Jagdpartie aus jede Bealtitung
@@ -2376,7 +2362,7 @@ Danke ärgerliche Stirn:sich: »Das war mein beides Hühnerauge!!«
 
 Also — beieinander waren wir drei — — wenigstens
 ein Trost …
-So begann der nächtliche Elesantenritt … Vielleicht
+So begann der nächtliche Elefantenritt … Vielleicht
 
 eine Stunde … Vor uns auf dem Halse des Dickhäuters
 der Mahut, der Lenker … Seine lauten Zurufe waren die
@@ -2621,7 +2607,7 @@ selbst ausmalen …
 
 <h2>4. Kapitel.</h2>
 
-<h3>Wir zogen sie empor …</h3>
+Wir zogen sie empor …
 
 Erst den Diener James … Der arme Teufel war halb
 irrsinnig von Angst und übergenug schon durch diese Angst
