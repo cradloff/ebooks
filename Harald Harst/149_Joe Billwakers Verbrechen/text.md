@@ -664,66 +664,67 @@ der Störung wegen … Das war seine Pflicht …
 <h2>3. Kapitel.</h2>
 
 Wir drei begaben uns in das Privatvilla des Direktors.
-»Mr. Doktor,« sagte Harald, nachdem wir hier an einem
-Seitentische Platz genommen hatten. »Mr. Doktor lassen
+
+»Mr. Doobler,« sagte Harald, nachdem wir hier an einem
+Seitentische Platz genommen hatten. »Mr. Doobler, lassen
 Sie jetzt Roussell herbeirufen — durch den anderen Detektiv
 … Ich möchte die Probe aufs Stempel machen …«
 
-Der Direktor Beamte Harst dieser letzten Bemerkung
-wegen fragend an, nahm dann aber doch wortlos den Telos-phonhörer
-und verständigte sich mit dem zweiten Hotel
-
-eins.
+Der Direktor schaute Harst dieser letzten Bemerkung
+wegen fragend an, nahm dann aber doch wortlos den Telephonhörer
+und verständigte sich mit dem zweiten Hoteldetektiv.
 
 Wenige Minuten später erschienen die beiden Kollegen
 
 <@pagebreak/>
-»Sehen Sie sich bitte,« meinte Harst. »wir sind hier
+»Setzen Sie sich bitte,« meinte Harst. »wir sind hier
 wohl vor Lauschern sicher … Ich habe Ihnen etwas mitzuteilen,
 was Ihnen den Mord von James in neuem Lichte
 zeigen dürfte …
 
 Nun erst erwähnte er den Diebstahl der Familienkleinodien
 des Fürsten, den rätselhaften Austausch der beiden
-lassen und fügte Hinzu
+Koffer und fügte hinzu:
 
-»So gewiß also der. Diebstahl unter den Augen der im
+»So gewiß also der Diebstahl unter den Augen der im
 Salon Frau Orlingtons Versammelten stattgefunden hat,
 ebenso gewiß ist es, daß James … nicht ermordet worden
+ist …«
 
-… Die Gesichter von uns vier, denen Harald dies Umstand-Also.
-kaltblütig verzapfte, waren ebenso griff unendlich eine
+Die Gesichter von uns vier, denen Harald dies Unglaubliche
+kaltblütig verzapfte, waren ebenso gewiß unendlich einfältig
+…
 
-Harst, ließ sich dadurch nicht stören …
+Harst ließ sich dadurch nicht stören …
 
-»Mr. Doktor, ich sprach vorhin von einer Probe aufs
+»Mr. Doobler, ich sprach vorhin von einer Probe aufs
 Exempel …« wandte er sich an den Direktor … »Nach
-einer halben Stunde kann ich Ihnen genau sagen, wie he:
+einer halben Stunde kann ich Ihnen genau sagen, wie der
 Koffer vertauscht wurde und wie der »tote« James die
 verschlossenen Gemächer verlassen hat … An der unteren
-Rahmentleiste des Wandschirmes im Salon sah ich drei dicke
+Rahmenleiste des Wandschirmes im Salon sah ich drei dicke
 Blutstropfen … Ich habe Schraut recht laut auf Fingerabdrücke
 an diesem Rahmen aufmerksam gemacht … Wir
 sind dabei wahrscheinlich belauscht worden. Und um diese
 nicht vorhandenen Fingerabdrücke zu entfernen, wird der
-Katzenvieh, der mit ganzes unter einer Decke steckt, den Salon
+Kofferdieb, der mit James unter einer Decke steckt, den Salon
 wieder betreten …«
 
 der Kollege Roussell lächelte jetzt …
 
-»über Mr. Harst — entschuldigen Sie schon — — ich
+»Aber Mr. Harst — entschuldigen Sie schon — — ich
 habe doch den Toten …«
 
 »Irrtum, Mr. Roussell … Es war ein Messer, das
 da scheinbar im Herzen James’ steckte, wie Sie es in jedem
-besseren Zauberkasten für Kind.: vorfinden — mit einer
+besseren Zauberkasten für Kinder vorfinden — mit einer
 Klinge, die im Messerheft verschwindet …«
 
 »Bitte — der Puls schlug nicht …«
 
-raffte — eine Täuscumng, Mr. Roussell … Er schlug
+»Bitte — eine Täuschung, Mr. Roussell … Er schlug
 <@pagebreak/>
-… Sie waren erregt, als Sie dem »Ermordeten« den Ruhe
+… Sie waren erregt, als Sie dem »Ermordeten« den Puls
 fühlten … In der Erregung ist man den seltsamsten Täuschungen
 unterworfen … Das können Sie mir schon
 glauben …«
@@ -731,60 +732,56 @@ glauben …«
 Der Hoteldirektor meinte schüchtern:
 
 »Mr. Harst, ich möchte Roussell beipflichten … Die
-Gesichtsfarbe und die Augen
+Gesichtsfarbe und die Augen …«
 
-Schminke und trieb, Mr. Doktor …«
+»Schminke und Trick, Mr. Doobler …«
 
-»Und das Blut …
+»Und das Blut …«
 
-»- « — Farbe, Mr. Doktor, genau wie auf dem Rahmen
+»… Farbe, Mr. Doobler, genau wie auf dem Rahmen
 des Wandschirms … Die drei Tropfen sind aus dem
 Farbentopf übergelaufen oder von dem Finger herabgefallen,
 mit dem die weiße Dienerjacke des famosen James rot gefärbt
-wurde … — Überlegen Sie doch einmal die Zusammen!:
-Vorhänge, meine Herren … Nur James kann durch
-das Schlüsselloch. beobachtet haben, wie Tschergin uns die
+wurde … — Überlegen Sie doch einmal die Zusammenhänge,
+meine Herren … Nur James kann durch
+das Schlüsselloch beobachtet haben, wie Tschergin uns die
 Kleinodien zeigte … Nur er … Und er mußte künstlich
-sterben, weil er eben der einzige war, der im Salon eintrat
-ausgegangen war, also der einzige, auf den ein Motorjacht
+sterben, weil er eben der einzige war, der im Salon ein\-
+und ausgegangen war, also der einzige, auf den ein Verdacht
 fallen konnte. Er »starb«, und die »Leiche« verschwand
+… Alles tadellos fein ausgeklügelt … Daß den schlauen
+Herrschaften ein Fehler mit unterlief, ist eben Pech. Der
+Fehler waren … die drei Tropfen Farbe …«
 
-… Alles tadellos sein ansgekflügelt … Daß den schlauen
-Fortschaffen ein Fehler mit unterlief, ist eben Pech. Der
-sicher waren … die drei Tropfen Farbe …«
-
-aha — jetzt machten die Hotelkollegen und der Direktor
+Oha — jetzt machten die Hotelkollegen und der Direktor
 andere Gesichter — ganz andere … Und ich desgleichen.
 Jetzt wurden uns die Zusammenhänge klar …
 
 Harald lächelte nachsichtig und rauchte die dritte Mirakulum
 …
 
-Jahr noch einer Weile fort: »Natürlich ist der Kellner
+Fuhr noch einer Weile fort: »Natürlich ist der Kellner
+Joe Billwaker mit von der Partie … Er mag sich mit
+James angefreundet gehabt haben …«
 
-Joe Will: der mit von der Partie … Er mag sich mit
-James anscsreimTet gehabt haben …«
+»Und dann noch  — — der Mann mit dem schwarzen
+Spitzbart!« platzte der Direktor heraus …
 
-»uns du acht  — — der Mann mit dem schwarzen
-Spitzbart!« Karte der Direktor heraus …
-
-»Gewiß — der fehlt mir am schlechtesten in die ganze
-Geschichte hinein,« nickte Harald und zog den kleinen verdunkelten
+»Gewiß — *der* paßt mir am schlechtesten in die ganze
+Geschichte hinein,« nickte Harald und zog den kleinen vernickelten
 <@pagebreak/>
 Schlüssel aus der Westentasche. »Kennen Sie diesen
 Schlüssel vielleicht, Mr. Roussell?«
 
-Die beiden Kollegen besichtigten ihn, warten dann aber
+Die beiden Kollegen besichtigten ihn, warfen dann aber
 dem Direktor einen eigentümlichen Blick zu …
 
 Roussell meinte zögernd: »Das … das ist der Schlüssel
-
-dem Wandtresor, der sich in dem Schlafzimmer neben
+zu dem Wandtresor, der sich in dem Schlafzimmer neben
 dem Salon befindet, im rechten Schlafzimmer, wo Mr.
-Geringsten schlägt … Hie! ist die eingestanzte Nummer …«
+Orlington schläft … Hier ist die eingestanzte Nummer …«
 
-Doktor rief entsetzt: »Herrgott, das habe ich übersehen
-
+Doobler rief entsetzt: »Herrgott, das habe ich übersehen
 … — Wahrhaftig — — der Tresorschlüssel!«
 
 Er sprang auf und lief zu einem Schrank an der Wand,
@@ -792,68 +789,65 @@ Er sprang auf und lief zu einem Schrank an der Wand,
 Darin lagen fünfzig ähnliche Tresorschlüssel — sauber geordnet,
 manche doppelt vorhanden, die meisten nur einzeln …
 
-»Hier ist der Duplikatschlüssel,"« erklärte der Direktor.
-
-»Mithin ist dieser Schlüsse, den der Schwarzbärtige sollen
+»Hier ist der Duplikatschlüssel,« erklärte der Direktor.
+»Mithin ist dieser Schlüssel, den der Schwarzbärtige fallen
 ließ, derjenige, den ich Mr. Orlington ausgehändigt habe
-
-— Um alles in der Welt: wie kommt der Schlüssel
+… — Um alles in der Welt: wie kommt der Schlüssel
 in die Hand eines Fremden?! Das verstehe ein anderer!«
 
 Harald hatte sichtlich gespannt zugehört …
 
 »Der Fall liegt doch weit komplizierter als ich glaubte,«
-nunmehr er mehr für sich … »Der Schlüssel paßt noch
+murmelte er mehr für sich … »Der Schlüssel paßt noch
 weniger in meine bisherige Theorie hinein als der Mann
-mit dem dunklen Spitzbart … „«
+mit dem dunklen Spitzbart …«
 
 Roussell erlaubte sich die Bemerkung:
-»Wenn James sich verkleidet hätte, Mr. Harst?!! Wenn
+
+»Wenn James sich verkleidet hätte, Mr. Harst?! Wenn
+er …«
 
 aber Harald schüttelte den Kopf …
-»James hätte sich gehütet, noch; die Zeit dazu zu verschwenden,
-sich als »tote Leiche«. die allen Grund zum Verduften
-hat, einen falschen Bart voraussehen …! Nein, meine
+
+»James hätte sich gehütet, noch die Zeit dazu zu verschwenden,
+sich als »tote Leiche«, die allen Grund zum Verduften
+hat, einen falschen Bart vorzukleben …! Nein, meine
 Herren, dieser Spitzbärtige kann nur …«
 
-Er steckte plötzlich …
+Er stockte plötzlich …
 
-Irgend ein besonderer »Gedanke war ihm gekommen …
+Irgend ein besonderer Gedanke war ihm gekommen …
 
 Er schaute mich versonnen an, bewegte die Lippen, kniff
-
 die Augen zu und sprang auf …
-
-er …
 
 <@pagebreak/>
 »Mr. Roussell, bitte — nach oben in den Salon …
-Tun Sie so, als ob Sie auf dem noch immer nicht abgebrannten
+Tun Sie so, als ob Sie auf dem noch immer nicht abgeräumten
 Frühstückstisch etwas suchen … Und schielen Sie
-vorsichtig nach der unteren Leiste des Mittelstücke des Wandschirmes
+vorsichtig nach der unteren Leiste des Mittelstücks des Wandschirmes
 … Sind auf dem schwarz polierten Holz keinerlei
 Flecke, keine roten Tropfen mehr zu bemerken, so telephonieren
-Joe hier nach unten ins Büro: »Alles in Ordnung!«
+Sie hier nach unten ins Büro: »Alles in Ordnung!«
 — Und dann bleiben Sie im Salon und tun abermals so,
 als ob Sie noch etwas suchten … — Sie haben mich doch
-nichtig verstanden?
+richtig verstanden?
 
-»Gewiß, Mr. Harst …« …
+»Gewiß, Mr. Harst …«
 
 Und er eilte davon …
 
-Wir warteten … Doktor ging erregt auf und ab …
+Wir warteten … Doobler ging erregt auf und ab …
 
 Blieb stehen …
 
 »Mr. Harst, und wenn die roten Tropfen nun verschwunden
 sind — was dann?!«
 
-»Dann, Mr. Doktor, muß es eine Verbindung zwischen
+»Dann, Mr. Doobler, muß es eine Verbindung zwischen
 den Räumen Frau Orlingtons und den entsprechenden im
-
-ochvarterue geben … — eine direkte Verbindung, Mr.
-voller …!! — Übrigens: haben Sie noch die Baupläne
+Hochparterre geben … — eine direkte Verbindung, Mr.
+Doobler …! — Übrigens: haben Sie noch die Baupläne
 des Hotels, die Grundrisse und so weiter?«
 
 »Natürlich, Mr. Harst … Wollen Sie dieselben
@@ -861,47 +855,47 @@ sehen?«
 
 »Bitte …«
 
-Doktor holte einen hohen Pappzylinder und entnahm
+Doobler holte einen hohen Pappzylinder und entnahm
 ihm die sauberen Zeichnungen.
 
 Harald hatte diese kaum einige Minuten studiert, als
-er auch schon 7 ist: »Da haben wir’s ja!«
+er auch schon rief: »Da haben wir’s ja!«
 
-Im gleichen Augenblick schlug die Telepyhongloke an …
+Im gleichen Augenblick schlug die Telephonglocke an …
 
 Der andere Kollege nahm den Hörer …
 
 Wir schauten ihn gespannt an …
 
 »Alles in Ordnung!!« — seine Stimme klang ganz
-schrill, als er diese Meldung Rentiers wiederholte …
+schrill, als er diese Meldung Roussells wiederholte …
 
-»Also doch!« meinte der Direktor schwer atmend. »uns
+»Also doch!« meinte der Direktor schwer atmend. »Und
 Ihre Entdeckung, Mr. Harst?« …
 
-»Sehr einfach — die Erklärung für alles, Mr. Doktor
+»Sehr einfach — die Erklärung für alles, Mr. Doobler
 <@pagebreak/>
-… « … Bitte — schauen Sie her … Hier auf dieser Besinnung
-erkennen Sie, daß man ursprünglich einen Speisenaufszug
+… Bitte — schauen Sie her … Hier auf dieser Zeichnung
+erkennen Sie, daß man ursprünglich einen Speisenaufzug
 aus den im Keller gelegenen Küchen nach den Salons der sogenannten
 »Prachtgemächer« geplant hatte … Der Schacht
-dazu wurde auch eingebaut und befindet sich in ’der Ecke,
+dazu wurde auch eingebaut und befindet sich in der Ecke,
 wo oben der Wandschirm steht … Mithin zieht sich dieser
 Schacht, der freilich keinerlei Zugang haben sollte, auch an
-dem Salon der Frau Major Wandfach vorüber, die im
+dem Salon der Frau Major Lambrock vorüber, die im
 Hochparterre dieselben Gemächer wie Frau Orlington innehat.
-— Begreifen Sie nun, Mr. Doktor …?!«
+— Begreifen Sie nun, Mr. Doobler …?!«
 
--4 »Allerdings …«
+»Allerdings …«
 
-»So wollen wir: denn dieser Frau Major einen Besuch
+»So wollen wir denn dieser Frau Major einen Besuch
 abstatten — sofort … Kommen Sie … Beeilen wir uns
 … Ich fürchte, der Vogel wird ausgeflogen sein …«
 
 vom Büro hatten wir nur wenige Schritte den Flur
 entlangzugehen …
 
-Doktor klopfte an, nachdem er die äußere Tür des
+Doobler klopfte an, nachdem er die äußere Tür des
 Salons geöffnet hatte …
 
 Niemand meldete sich …
@@ -916,134 +910,135 @@ Leer der Salon …
 Hier fast dieselbe Einrichtung wie oben bei Frau
 Orlington …
 
-Rechts und links die beiden Schlafzimmer — rate
-oben
+Rechts und links die beiden Schlafzimmer — wie
+oben …
 
 Harst nach rechts … schaut hinein …
+
 »Leer!«
+
 Ich nach links … Aber diese Tür ist verschlossen, …
 Kein Schlüssel im Schloß — auch von der Innenseite nicht …
-Doktor rennt davon … »Ich rote den Duplikatschlüssel
-…!!«
+
+Doobler rennt davon … »Ich hole den Duplikatschlüssel
+…!«
+
 Ist in drei Minuten wieder zur Stelle … Inzwischen
 hat Harald die Wandtäfelung in der linken Ecke der Flurwand
 besichtigt …
 
 <@pagebreak/>
-Doktor schließt auf …
+Doobler schließt auf …
 
 Wir vier hinein …
 
 Auf dem Bett eine angekleidete Dame — auf dem
-Diwan ebenso: Frau Major Wandfach und ihre Gesellschafterin
-— beide in dieser Betäubung …
+Diwan ebenso: Frau Major Lambrock und ihre Gesellschafterin
+— beide in tiefer Betäubung …
 
 Wir stehen starr …
 
 Harald schüttelt den Kopf … Wir … fahren herum
-—.« … Hinter uns eine Stimme …
+… Hinter uns eine Stimme …
 
 Joe Billwaker, der elegante bescheidene Kellner …
 
 Ganz bescheiden wie immer …
 
-»Entschuldigen die Herren — ich fand draußen
+»Entschuldigen die Herren — ich fand draußen die
 Salontür offen … Ich wollte nur zusehen, ob hier nicht
 etwas geschehen sei …«
 
 Er stiert auf die beiden Frauen … Sein Gesicht verrät
 Schreck und Entsetzen … Seine Lippen zittern …
 
-»Mein Gott, was … was bedeutet das …?!!«
+»Mein Gott, was … was bedeutet das …?!«
 
 Harald tritt dicht vor ihn hin …
 
 »Billwaker, ich denke, Sie geben diese Komödie nunmehr
 auf …! Glauben Sie nicht auch, daß es besser wäre, Sie
 würden ein Geständnis ablegen?! Ich habe in der Wandtäfelung
-hier unten die Geheimtür zu dem Aufzugsschachht
-
+hier unten die Geheimtür zu dem Aufzugsschacht
 schon entdeckt … Oben bei Frau Orlington werde ich dieselbe
-Tür finden … Ihr Spiel war Schraut, Billwaker …
-Wo ist der lassen, wo ist … James mit dem Koffer
+Tür finden … Ihr Spiel war schlau, Billwaker …
+Wo ist der Koffer, wo ist … James mit dem Koffer
 geblieben?!«
 
-Hof Der schlanke Kellner hebt die Arme zu einer verzweifelten
+Der schlanke Kellner hebt die Arme zu einer verzweifelten
 Geste …
 
-»Mr. Harst, Sie … Sie nmn mir unrecht … bisher
-unrecht!!! Verhaften Sie mich meinetwegen! Ich bin schuldlos
-— absolut schuldlos … Ich weiß nichts von eilten
-lassen jedenfalls nichts, was …
+»Mr. Harst, Sie … Sie tun mir unrecht … bitter
+unrecht!! Verhaften Sie mich meinetwegen! Ich bin schuldlos
+— absolut schuldlos … Ich weiß nichts von einem
+Koffer … jedenfalls nichts, was …«
 
-»Billwaker, haben Sie nicht seinerzeit für den Oberlehrer,
+»Billwaker, haben Sie nicht seinerzeit für den Oberkellner,
 der sich nun als ein Fürst Tschergin entpuppt hat,
-den Feuer Koffer hierher gebracht?!«
+den neuen Koffer hierher gebracht?!«
 
 Joe Bilstwaker wird bleich …
 
-»IQ Aber Nr
+»Ja … Aber …«
 
 <@pagebreak/>
 »Und — haben Sie vielleicht heute bei dem Perser
-genau denselben lassen gekauft?«
+genau denselben Koffer gekauft?«
 
-Joe Billwaker wird noch bleicher … Siam:Welt:
+Joe Billwaker wird noch bleicher … stammelt:
 
 »James … James bat mich, ihm telephonisch einen
 solchen Lederkoffer zu bestellen, Mr. Harst …«
 
 »Wann war das?«
 
-»als die Herrschaften bei Frau Orlington beim Früh.
-Stück saßen …“« ck …
+»als die Herrschaften bei Frau Orlington beim Frühstück
+saßen …« —
 
-»ab) — — und wann kam der Koffer?«
+»Ah — — und wann kam der Koffer?«
 
 »Sofort — nach zehn Minuten … Der Perser schickte
-fein durch einen besonderen Boten … an mich, und James
-holte ihm aus meinem Zimmer … — sofort …«
+ihn durch einen besonderen Boten … an mich, und James
+holte ihn aus meinem Zimmer … — sofort …«
 
 »Nun — die Dinge sind nun wohl geklärt,« wandte sich
-Harald an, den Hoteldirektor. »Stufen Sie die Polizei herbei
-… « … Joe Billwaker zieht es vor, sich einsperren zu lassen,
+Harald an den Hoteldirektor. »Rufen Sie die Polizei herbei
+… Joe Billwaker zieht es vor, sich einsperren zu lassen,
 anstatt der Wahrheit die Ehre zu geben … Wir haben jetzt
 kein Interesse mehr daran, den Diebstahl der Kleinodien
-geheim zum hatten
+geheim zu halten …«
 
-rieb alt,« Strauche sich plötzlich sind, zu) …
+Billwaker richtete sich plötzlich stolz auf …
 
-»Mr. Harst, es Kind Ihnen eines Tags leidtun, daß
-Sie einen ehrenwerten Menschen derart blosiuiollt haben
-
+»Mr. Harst, es wird Ihnen eines Tags leidtun, daß
+Sie einen ehrenwerten Menschen derart bloßgestellt haben
 … Der Tag wird bestimmt kommen, wo Sie einsehen
 müssen, sich diesmal geirrt zu haben! Sie wissen recht gut:
 wer auch nur in Untersuchungshaft gesessen hat, wird den
-Kabel nie mehr los! Ich bin ruiniert für mein ganzes
+Makel nie mehr los! Ich bin ruiniert für mein ganzes
 Leben …!«
 
-Seine Gestalt sank wieder in sich zusamnmea … Etwas
+Seine Gestalt sank wieder in sich zusammen … Etwas
 unendlich Hilfloses zeigte sich in seiner ganzen Haltung …
 
-Er … tat mir aufrichtig leid — schon ie: … Und
-hatte so eindrucksvoll zu Harald gesagt, daß es diesem
-leidtun prüfte — — einst!!
+Er … tat mir aufrichtig leid — schon jetzt … Und
+hatte so eindrucksvoll zu Harald gesagt, daß … es diesem
+leidtun würde — — einst!!
 
-Aber — wir eile kannten Joe Billwaker 1v’cht …
+Aber — wir alle kannten Joe Billwaker nicht …
+Wir alle nicht …
 
-Wir alle mich:t …
-
-Denn urplötzlich Andrang er 3: »?ück — Strich die Miene
-Schlafzimmertür in den Salon … Die Tür »uns zu
-Der außen stehende Schlüssel Mund« wmmacdrel 4 TD, »Der
+Denn urplötzlich sprang er zurück — durch die offene
+Schlafzimmertür in den Salon … Die Tür sprang zu …
+Der außen steckende Schlüssel wurde umgedreht … Doobler
 <@pagebreak/>
 warf sich mit voller Wucht gegen die Füllung … Diese
 flog heraus …
 
-Und doch: Brillanter war entkommen!
+Und doch: Billwaker war entkommen!
 
-War in den Park geeilt, dessen Rückseite an die Busch
-Wildnis der Abhänge der Malabar Hilfe stieß …
+War in den Park geeilt, dessen Rückseite an die Buschwildnis
+der Abhänge der Malabar Hills stieß …
 
 Wir hatten das Nachsehen … Er hatte selbst Harald
 überlistet …
@@ -1159,7 +1154,7 @@ Und — mit einem Satz war er auf dem Bettrand, nahm
 vom Nachttischken den Hörer des Fernsprechers, ließ sich
 mit dem Hotel Esplanade verbinden und fragte:
 
-»Hallo — hier Harst, Mr. Doktor … Ist Frau Orlington
+»Hallo — hier Harst, Mr. Doobler … Ist Frau Orlington
 schon im Hotel? — So — schon dort?! — Bitte —
 
 langsamer … Ich verstehe nicht … Es sind so viel Trauerte
@@ -1249,7 +1244,7 @@ um …«
 
 Harald war’s einen Bis auf die Adresse …
 
-»Danke, MrDoobler … — Wir haben es eilig …
+»Danke, Mr. Doobler … — Wir haben es eilig …
 Wollen in die Polizeidirektion … Lassen Sie doch ein
 Auto holen …«
 
@@ -1269,7 +1264,7 @@ darunter zwei Buchstaben:
 O.
 Was mag das bedeuten?!«
 
-Doktor erschien wieder …
+Doobler erschien wieder …
 
 Gas Auto ist vorgefahren, Mr. Harst …
 
@@ -1480,7 +1475,7 @@ Es war eine seiner bekannten Geistesraketen …
 
 Ich glaubte nicht recht verstanden zu haben …
 
-»Orlington?!« fragte ich verblüssft.
+»Orlington?!« fragte ich verblüfft.
 
 »30a — der Spitzbärtige … Natürlich steckt Thomas
 Orlington als treibende Kraft hinter alledem … Er heim
@@ -1877,7 +1872,7 @@ Pferden die raunende Stimme!
 
 <@pagebreak/>
 »Warten Sie aber noch, bis Sie den Ruf der großen
-Sumpfströte fünfmal vernehmen … — ««
+Sumpfkröte fünfmal vernehmen … — ««
 
 Stille …
 
@@ -1897,7 +1892,7 @@ Irgendwo, nicht allzu weit entfernt, jaulte ein Tiger :.
 
 Unser Nachbar antwortete natürlich …
 
-Die seuchchtheiße Dschungelluft trieb mir den Schweiß
+Die feuchtheiße Dschungelluft trieb mir den Schweiß
 aus allen Poren … Hinzu kam noch die Aufregung …
 Wenn nur Billwaker von den Wächtern nicht bemerkt wurde!
 Das wäre nicht auszubeuten gewesen! Dann saßen wir
@@ -2179,7 +2174,7 @@ Orlington zu dieser Torheit … Eifersucht machte ihn blind
 … Eifersucht entschuldigt vieles … Nur Schraut und mich
 hätte er nicht so rabiat behandeln sollen …«
 
-»zierlich — der Tigerkfäsig war eine … Ungehceuer-lichkeit,
+»zierlich — der Tigerkäfig war eine … Ungehceuer-lichkeit,
 »Mr. Harst! Wie denkt Orlington sich wohl den
 Ausgang »der Sache?!«
 
@@ -2307,7 +2302,7 @@ aus der Schwert hervor an den Rand der vorgelagerten
 Terrasse trat und einen Feuerbrand im Kreise schwenkte …
 —« eine ganze Weile …
 
-Sir Archibald hatte rasch einen nahen Baum erkflettert
+Sir Archibald hatte rasch einen nahen Baum erklettert
 
 … Ich) sah im Mondenlicht, wie er das Glas nach Süden,
 richtete und starr in die Wildnis hinabschaute …
@@ -2315,7 +2310,7 @@ richtete und starr in die Wildnis hinabschaute …
 Dann kam er wieder herab …
 
 »Das Signal wurde beantwortet,« meinte er erregt,
-Meiner Ansicht nach aus der Gegend der Fangkäsige her …
+Meiner Ansicht nach aus der Gegend der Fangkäfige her …
 Irgend etwas hat das zu bedeuten …«
 
 Aberimals beobachteten wir das Lager … Wir mußten
@@ -2696,7 +2691,7 @@ Weile. »alles ist so unalaunblich verworren … Ich …
 schwindelt zur Hälfte mir … Natürlic’ ist er in Bombay
 gewesen, natürlich hat er auch) den lassen und die
 Juwelen seiner Frau verschwinden lassen, ist im Eindecker
-mit James entflohen … Aber dann beginnt das Unbegreif-liche
+mit James entflohen … Aber dann beginnt das Unbegreifliche
 … Dann scheint er tatsächlich mit James in dieselbe
 Tigerfalle geraten zu sein lasse wir … — Ich Gabe zu,
 mein Alter, ich; bin nun selbst vorläufig noch ein wenig
