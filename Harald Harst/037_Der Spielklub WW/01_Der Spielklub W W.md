@@ -1,13 +1,13 @@
 <@pagebreak 3/>
 
-<h1>Der Spielklub W. W.</h1>
+<h1>Der Spielklub W.&nbsp;W.</h1>
 
 <h2>Erstes Kapitel.</h2>
 
 <h3>Der ermordete Inder.</h3>
 
 »Wir wollen zu Fuß nach Hause gehen,« meinte Harald
-Harst, als wir mittags nach dem Besuche bei Frau Ly v. Bloswick
+Harst, als wir mittags nach dem Besuche bei Frau Ly v.&nbsp;Bloswick
 die vornehme Mietskaserne in der Fasanenstraße in
 Berlin W. verlassen hatten. »Dieser Maitag ist ja so wundervoll.
 Die Dreiviertelstunde Marsch bis zu unserem Heim in
@@ -20,7 +20,7 @@ einer Weile:
 
 »Die Diamanten, die die beiden jetzt in Untersuchungshaft
 sitzenden Verbrecher Mautley und Bickpool unrechtmäßig
-an sich gebracht und Frau v. Bloswick in Verwahrung
+an sich gebracht und Frau v.&nbsp;Bloswick in Verwahrung
 gegeben hatten, befinden sich nun in meinem Besitz. Ich
 werde natürlich mein Versprechen halten und diese Frau, die
 lediglich aus Liebe zu ihrem Gatten ihr seltsames Doppelleben
@@ -39,7 +39,7 @@ Der Leser wird sich auf die genaueren Einzelheiten
 dieser Ereignisse, die Harald Harst hier nur andeutete, aus
 den letzten Bänden besinnen. In der »Eishöhle in Nepal«
 <@pagebreak/>
-begann unser Kampf um den Millionenschatz, der dort gefundenen
+begann unser Kampf um den Millionenschatz der dort gefundenen
 ungeschliffenen Diamanten. Dieser Kampf war nun
 beendet. In Harsts Bücherschrank, im rechten Seitenspinde,
 war der kleine, gelbe Lederkoffer eingeschlossen, in dem
@@ -69,9 +69,9 @@ wirklich bis daheim in Deiner Tasche bleibt —«
 
 »Hm — reize mich nicht! Ich will wenigstens versuchen,
 mich bis zur Blücherstraße zu beherrschen. — Der
-Klub »Weite Welt«, der stets nur »Klub W. W.« genannt
+Klub »Weite Welt«, der stets nur »Klub W.&nbsp;W.« genannt
 wird, weil man dort bequem in einer Nacht sich
-ruinieren kann — daher »Klub W. W.« oder »Wehe
+ruinieren kann — daher »Klub W.&nbsp;W.« oder »Wehe
 Wehe« — ist eine Vereinigung von Herren aller Länder,
 die Geld im Überfluß haben und unter der biederen Maske
 einer »Gesellschaft zur Förderung internationaler Geistesbestrebungen«
@@ -105,7 +105,7 @@ den einzigen, den ich habe: Dich!«
 Er schwieg eine Weile. Seine Gedanken waren bei der
 geliebten Toten. Dann begann er wieder:
 
-»Der Klub W. W. ist recht exklusiv. Die Mitgliederzahl
+»Der Klub W.&nbsp;W. ist recht exklusiv. Die Mitgliederzahl
 darf 32 nicht übersteigen. Die Aufnahmebedingungen
 sind sehr scharf. Die Mitglieder duzen sich untereinander.
 Verheiratete werden zumeist abgelehnt. Die Polizei kümmert
@@ -141,11 +141,11 @@ Zeitung heraus und las halblaut:
 
 <@pagebreak/>
 
-> »Mord im Klub »Weite Welt«. Der Ermordete
-ein Inder. Rätselhafte Begleitumstände.
+<p class="centered strong">»Mord im Klub »Weite Welt«. Der Ermordete
+ein Inder. Rätselhafte Begleitumstände.</p>
 
 > In der vergangenen Nacht war das Haus des Klubs
-W. W. am Savignyplatz in Charlottenburg der Schauplatz
+W.&nbsp;W. am Savignyplatz in Charlottenburg der Schauplatz
 eines Verbrechens, das in der Chronik der sensationellen
 Morde fraglos mit zu den eigenartigsten zu rechnen
 ist. Der Klub Weite Welt ist im allgemeinen wenig bekannt.
@@ -183,7 +183,7 @@ Neben ihm bemerkten sie jedoch auch einen Revolver, und
 dieser Umstand veranlaßte sie, sofort hinab in das Spielzimmer
 zu eilen, wo noch neun Herren, sämtlich Klubmitglieder,
 <@pagebreak/>
-versammelt waren. Unter diesen Herren befand sich auch
+versammelt waren. Unter diesen befand sich auch
 der als Strafverteidiger sehr bekannte Rechtsanwalt Schobert.
 Er war es, der nun das Präsidentenzimmer betrat und
 festgestellt, daß der Inder durch einen Schuß in den Hinterkopf
@@ -271,7 +271,7 @@ Kriminalpolizei haben nur das eine ergeben: Der Täter
 dem Schuß wieder hinausgeschlüpft sein. Wohin er sich
 dann wandte, ist nicht nachzuweisen.
 
-> Schließlich noch als wichtigster und fraglos geheimnisvollsten
+> Schließlich noch als wichtigster und fraglos geheimnisvollster
 <@pagebreak/>
 Punkt: Wie schon erwähnt, war der Inder gegen
 ein Uhr morgens aus dem Spielzimmer verschwunden. Er
@@ -291,7 +291,7 @@ Deutsche fast fehlerfrei. Er muß also die Worte des Dieners
 verstanden haben, durch die Reimer ihn auf das doch wohl
 nur versehentlich so hohe Trinkgeld hinwies. — Jedenfalls:
 Gegen ein Uhr hat der Inder, ohne sich von den
-Klubmitgliedern zu verabschieden, sich entfernt. Nur
+Klubmitgliedern zu verabschieden, sich entfernt. Nur —
 hierauf gebe der Leser besonders acht! — niemand hat
 ihm dann wieder die Haustür geöffnet und ihn eingelassen;
 niemand der im Klubhause gestern nacht Anwesenden weiß,
@@ -313,12 +313,12 @@ nacht nach ein Uhr einen in einen Smokinganzug und mit
 dunkelgrauem leichten Ulster sowie hellem Velourshut bekleideten,
 dunkelhäutigen Herrn mit bartlosem Gesicht irgendwo
 gesehen haben, im Interesse der Aufdeckung dieses Verbrechens
-und unter Hinweis auf die von dem Klub W. W.
-bereits ausgesetzte Belohnung von 10 000 Mark für irgendwelche
+und unter Hinweis auf die von dem Klub W.&nbsp;W.
+bereits ausgesetzte Belohnung von 10&nbsp;000 Mark für irgendwelche
 sachdienlichen Angaben dringend auf, sich auf Zimmer
 <@pagebreak/>
-Nr. 206 des Chalottenburger Polizeipräsidiums bei Kriminalkommissar
-v. Meyberg zu melden.
+Nr. 206 des Charlottenburger Polizeipräsidiums bei Kriminalkommissar
+v.&nbsp;Meyberg zu melden. —
 
 > Nach Redaktionsschluß erfahren wir noch, daß man vor
 dem Präsidentenzimmer auf dem Flurläufer noch ein Stückchen
@@ -360,13 +360,13 @@ daß ich mich in dieser Annahme geirrt haben sollte, würde
 dieser Fall für uns als ohne Zweifel recht eigenartiges
 Problem in Betracht kommen. Gehen wir heim. Sonst
 <@pagebreak/>
-wartet meine Mutter auf uns mit dem Mittagessen und
+wartet meine Mutter auf uns mit dem Mittagessen, und
 wir sind schuld an ihrer schlechten Laune. Wir wollten
 ja pünktlich sein.«
 
 Haralds »Berufsscherze« haben sehr oft einen für mich
 recht bitteren Beigeschmack. Und einer dieser Berufsscherze
-waren diese Sätze, die er soeben gesprochen hatte. Was
+waren diese Sätze, die er soeben gesprochen hatte. — Was
 ich hiermit meine, wird der Leser erst merken, wenn ich
 es merkte. Und das war eigentlich recht spät.
 
@@ -391,7 +391,7 @@ Fenster offen gelassen.«
 »Allerdings. Aber — geschlafen habe ich nur drei
 Stunden, dafür aber um so fester und traumloser. Wir
 hatten ja bis vierteldrei Uhr morgens Besuch, — Frau
-Ly v. Bloswick. Ich erzählte Dir ja schon davon. Sie
+Ly v.&nbsp;Bloswick. Ich erzählte Dir ja schon davon. Sie
 hatte uns den gelben kleinen Koffer mit den Diamanten
 gebracht — ganz heimlich! Und als sie gegangen war,
 habe ich noch die Diamanten durchgezählt. Es sind genau
@@ -410,7 +410,7 @@ den Schlüsselbund, und ich holte den kleinen Lederkoffer aus
 dem Seitenspind des Bücherschrankes.
 
 <@pagebreak/>
-Der Schlüssel zu dem Koffer fehlte. Frau v. Bloswick
+Der Schlüssel zu dem Koffer fehlte. Frau v.&nbsp;Bloswick
 hatte das Schloß erbrochen. Der Leser wird sich an in diese
 Einzelheit aus unserem vorigen Abenteuer besinnen.
 
@@ -468,7 +468,7 @@ logisch in seine einzelnen Tatmerkmale zu zerlegen.
 
 So wurde mir bald klar, daß der Dieb bereits in
 diesem Zimmer, also in der Bibliothek, sich befunden haben
-mußte, als Frau Ly v. Bloswick so überraschend erschien.
+mußte, als Frau Ly v.&nbsp;Bloswick so überraschend erschien.
 Er mußte dann beobachtet haben, wie Harald den Koffer
 wegschloß und wartete, bis Harst eingeschlafen war, suchte
 sich in aller Ruhe die beiden Beutel mit den wertvollsten
@@ -480,7 +480,7 @@ Nur so konnte der Diebstahl ausgeführt worden sein
 — nur so. Jede andere Möglichkeit war der Sachlage nach
 ausgeschlossen.
 
-Aber — weshalb hatte der Dieb nicht den ganze Koffer
+Aber — weshalb hatte der Dieb nicht den ganzen Koffer
 mitgehen heißen?! — Das war eine Frage, die mir
 viel Kopfzerbrechen machte.
 
@@ -501,7 +501,7 @@ mir diesen Diebstahl inzwischen zurechtgelegt hätte.
 
 »Ja — nur so kann es gewesen sein,« meinte er
 darauf. »Der Dieb war bereits im Bibliothekzimmer, als
-wir mit Ly v. Bloswick verhandelten. — Aber — jetzt
+wir mit Ly v.&nbsp;Bloswick verhandelten. — Aber — jetzt
 kein Wort mehr von alledem! Ich habe augenblicklich nur
 Gedanken für diese scheußlichen Schmerzen —«
 
@@ -653,7 +653,7 @@ ein Neuling auf der Verbrecherlaufbahn!«
 Ich glaubte zu wissen, worauf er anspielte.
 
 »Möckern wollte irgendwie herausbekommen, ob Du
-schon Kenntnis von dem Morde im W. W. hättest,« sagte
+schon Kenntnis von dem Morde im W.&nbsp;W. hättest,« sagte
 ich schnell.
 
 »Ja — das wollte er. Und anscheinend ist er jetzt
@@ -896,12 +896,12 @@ wie ein junger, recht verwahrlost aussehender Bursche dort
 etwas vergrub. Er hüllte die Gegenstände in sein Taschentuch
 ein. Und, ich glaube, es befand sich eine Uhr nebst
 Kette und eine Brieftasche darunter. Ich könnte Ihnen die
-Stelle auch genau angeben, Herr Harst. Vielleicht sind es
+Stelle noch genau angeben, Herr Harst. Vielleicht sind es
 die Sachen, die man bei dem ermordeten Inder vermißt
 hat. Es ist das freilich nur eine Vermutung von mir.«
 
 Diese Mitteilungen machten auf mich einen ganz besonderen
-Eindruck. War schon ihr Auftritt recht merkwürdig,
+Eindruck. War schon ihr Inhalt recht merkwürdig,
 so wurde dieses noch durch die Art und Weise erhöht,
 wie die Dame das alles vorbrachte. Noch nie hatte ich
 jemand in gleichmäßig-singendem Tonfall so lange sprechen
@@ -965,10 +965,10 @@ Er reichte mir das Bündel, öffnete die Brieftasche.
 Sie war jedoch bis auf ein Heftchen mit blauem Deckel<@refnote 2/>
 leer.
 
-»Nun — ein Militärpaß — für den Kellner Erich Franz
-Wurmke,« sagte Harald. Dann blickte er sich um
+»Ah — ein Militärpaß — für den Kellner Erich Franz Eduard
+Wurmke,« sagte Harald. Dann blickte er sich um.
 <@pagebreak/>
-und da erst merkte ich, daß sich die Verschleierte entfernt
+Und da erst merkte ich, daß sich die Verschleierte entfernt
 hatte.
 
 »Mag sie entwischen!« meinte Harst. »Wir haben ihr
@@ -1104,6 +1104,7 @@ hätten eine Explosion erlebt, die nicht nur die Fensterscheiben
 zertrümmert hätte.«
 
 Ich verstand: wir beide wären mit erledigt gewesen.
+
 Harst hob nun äußerst vorsichtig den Deckel von dem
 Pappkarton ab. In diesem befanden sich in Watte verpackt
 eine Batterie einer gewöhnlichen Taschenlampe und
@@ -1117,7 +1118,7 @@ Wir stellten es in den Schuppen für die Gartengeräte
 und schlossen diesen ab.
 
 Harst war jetzt völlig verstummt. Ich mußte an Rechtsanwalt
-Schobert und auch an Kriminalkommissar v. Meyberg
+Schobert und auch an Kriminalkommissar v.&nbsp;Meyberg
 telephonieren und die Herren für neun Uhr abends
 zu uns bestellen, sie auch gleichzeitig bitten, niemandem, sei
 es, wer es sei, von dieser Zusammenkunft etwas mitzuteilen
@@ -1208,7 +1209,7 @@ und Zigaretten standen schon bereit.
 Herr von Meyberg. Ihnen ist ja der Fall Marauwara
 übertragen worden. — Wo ist der Inder beheimatet?«
 
-»In Padna, Provinz Bengalen, Britisch-Indien.«
+»In Patna, Provinz Bengalen, Britisch-Indien.«
 
 »Ist bereits festgestellt, wo der Inder sich hier in Europa
 aufgehalten hat, bevor er vor acht Tagen nach Berlin kam?«
@@ -1291,7 +1292,7 @@ Kraft treten.«
 »Ja. Ehrlich: seine Verluste gehen in die Hunderttausende.«
 
 Harst nickte. »Also auch das stimmt. — Nun möchte
-ich Ihnen beiden, meine Herren, meine erste, teils als
+ich Ihnen beiden, meine Herren, meine erste, bereits als
 unrichtig erkannte Theorie entwickeln.«
 
 Er führte genau dasselbe aus, was er mir über den
@@ -1393,7 +1394,7 @@ wirklich, Herr Harst?«
 Schobert kopfschüttelnd.
 
 »Gewiß. Und diesen Selbstmord kann ich ebenfalls
-in der Wohnung Möckerns nachweisen. — Wenn Sie
+in der Wohnung Möckerns nachweisen. — Wenn Sie mir
 helfen, Herr von Meyberg, werden Schraut und ich ganz
 bequem in die Wohnung hineingelangen.«
 
@@ -1566,7 +1567,7 @@ Doktor schnellte empor. Ich sah, daß er auf den Knopf der
 Birne drückte —
 
 Ein eisiger Schauer ging mir über den Leib. Der Tod
-mußte ja kommen — der Strom von 900 Volt! — Aber
+mußte ja kommen — der Strom von 900 Volt! — Aber —
 nichts geschah — nichts!
 
 Harst stand jetzt dicht vor Möckern, sagte kalt:
@@ -1678,7 +1679,7 @@ Möckern in so scheußlicher Weise für seine Zwecke ausgenutzt
 hatte. Es war die Frau eines reichen Kaufmanns
 aus dem Vorort Steglitz. Sie besann sich in der Tat auf
 nichts. Nur ihre neue, große Handtasche war ihr irgendwie
-abhanden gekommen. Möckern hatte ihr also befohlen,
+abhanden gekommen. — Möckern hatte ihr also befohlen,
 diesen Besuch bei Harst völlig zu vergessen.
 
 Niemand zweifelte jetzt mehr daran, daß Harsts Theorie
