@@ -1046,53 +1046,53 @@ Wir hatten das Nachsehen … Er hatte selbst Harald
 <h2>4. Kapitel.</h2>
 
 Die Polizei erschien … Inspektor Sheffield mit zwei
-Beamten — in aller Stille. Jedes Aussehen sollte vermieden
-werden. Ein Arzt bemühte sich um die beiden b&
-Betäubten Damen … Polizeistreifen durchsuchten die Stadt
-… « — Ganz Bombay wurde gleichsam abgesperrt … —
+Beamten — in aller Stille. Jedes Aufsehen sollte vermieden
+werden. Ein Arzt bemühte sich um die beiden
+betäubten Damen … Polizeistreifen durchsuchten die Stadt
+… Ganz Bombay wurde gleichsam abgesperrt … —
 
 Die beiden Geheimtüren in der Wandtäfelung der
-beiden Übereinander liegenden Salons wurden genau ge
-prüft. Sie waren fraglos schon vor längerer Zeit Berge
-stellst worden. Von wem — das ist nie recht ermittelt worden
-und für den Fall Billwaker auch belanglos, — Billwaker
+beiden Übereinander liegenden Salons wurden genau geprüft.
+Sie waren fraglos schon vor längerer Zeit hergestellt
+worden. Von wem — das ist nie recht ermittelt worden
+und für den Fall Billwaker auch belanglos. — Billwaker
 mußte sie gefunden haben … Und er und James hatten
-dann den seinen Plan in aller Eile entworfen. Der Kofsser-aun
-8tmusch war ganz geräuschlos erfolgt — und wir hatten
+dann den feinen Plan in aller Eile entworfen. Der Kofferaustausch
+war ganz geräuschlos erfolgt — und wir hatten
 drei Schritt daneben am Frühstückstisch gesessen … —
 
 Harald zeigte sich jetzt, wo Sheffield die Sache in die
 Hand genommen hatte, merkwürdig teilnahmlos. Nur als
-Frau Major Wandfach zu sich kam und dann zu Protokoll
+Frau Major Lambrock zu sich kam und dann zu Protokoll
 gab, daß James ihr anstelle des zuständigen Kellners Eislimonade
 gebracht habe, nach deren Genuß sie und ihre
-(Fosellichafterin benutzte? umgesunken seien, sagte Harst
+Gesellschafterin bewußtlos umgesunken seien, sagte Harst
 nachher zu Sheffield;
 
-»Entsetzter, so ganz kla ist diese Geschichte doch noch
-»nicht …!«
+»Inspektor, so ganz klar ist diese Geschichte doch noch
+nicht …!«
 
-Ad unser Freund Sbhesfield, den wie genau wie seine
+Und unser Freund Sheffield, den wir genau wie seine
 <@pagebreak/>
 anderen hiesigen Kollegen seit Jahren kannten, meinte verwundert:
 
 »Lieber Harst, ich glaube, Sie suchen hier Schwierigkeiten,
 die nicht vorhanden sind …«
 
-Und! Harst — außerordentlich ernst:
+Und Harst — außerordentlich ernst:
 
 »Ich suche nur die Wahrheit, Sheffield! Und ich überlege
-mir folgendes: Wenn James und Billwaker unter eine!
+mir folgendes: Wenn James und Billwaker unter einer
 Decke gesteckt hätten …«
 
 »Himmel — zweifeln Sie daran?!«
 
 »Jetzt ja … — Also — wenn sie Verbündete gewesen
 wären, dann hätte doch Billwaker fraglos nicht erwähnt,
-daß ihm Frau Major Wandfach im oberen Flur begegnet
+daß ihm Frau Major Lambrock im oberen Flur begegnet
 wäre — eine Begegnung, die Übrigens irrtümlich von ihm
 auf eine spätere Stunde verlegt worden ist …! — Wie
-hätte Billwaker uns wohl auf Frau Wandfach aufmerksam
+hätte Billwaker uns wohl auf Frau Lambrock aufmerksam
 gemacht, wenn er mit im Komplott gewesen wäre! Wie
 hätte er dies tun dürfen, da er doch befürchten mußte, daß
 dann die beiden betäubten Damen allzu früh aufgefunden
@@ -1100,32 +1100,32 @@ würden! — Nein, Sheffield, bei alledem stimmt etwas
 nicht …! Durchaus nicht! Da ist irgendwo ein grober
 Fehler im Exempel — irgendwo …! Bedenken Sie auch:
 Billwaker hat seinen Dienst ruhig weiter versehen … James
-steckte hier im Salon der Frau Wandfach, steckte aus der Leiter
+steckte hier im Salon der Frau Lambrock, steckte auf der Leiter
 im Schacht … Er kann der Spitzbärtige niemals gewesen sein,
-der aus Frau Orlingtons Baronin kam und den Tresorschlüssel
+der aus Frau Orlingtons Salontür kam und den Tresorschlüssel
 verlor … James hätte sich nie zu dieser Tür
 herausgewagt … Wer also war der Spitzbärtige?!«
 
 Sheffield runzelte unzufrieden die Stirn …
 
-»warst, Sie verderbeis all das, was Sie soeben noch
+»Harst, Sie verderben all das, was Sie soeben noch
 zurechtgezimmert haben …«
 
-»Fix — einen schiefen Bau — das stimmt! Schrei!!
+»Ja — einen schiefen Bau — das stimmt! Schief!!
 Ich muß ihn gerade richten … Billwaker entfloh, weil
-er sich nicht einsperren. lassen wollte … Billwaker wird sich
-melden … Passen Sie auf, Sheffield — 1:1) behalte recht …!«
+er sich nicht einsperren lassen wollte … Billwaker wird sich
+melden … Passen Sie auf, Sheffield — ich behalte recht …!«
 
-Und dann gingen wir beide in unser nicht allzu weit!
-ratterndes Fremdenheim … Zwei Uhr nachmittags war
+Und dann gingen wir beide in unser nicht allzu weit
+entferntes Fremdenheim … Zwei Uhr nachmittags war
 <@pagebreak/>
 es jetzt. Bombay schwamm in einer unerträglichen Hitzewelle
 … Die Straßen leer … Überall Sprengwagen
 … Was half’s?! So gut wie nichts …
 
 Und in unserem Pensionat, wo wir am Tage zuvor
-als Ehepaar Doktor Wannsee abgestiegen waren, große Auf?-
-Regung … Das Ehepaar verschwunden — Das Ehepaar
+als Ehepaar Doktor Woringer abgestiegen waren, große Aufregung
+… Das Ehepaar verschwunden — Das Ehepaar
 erschien jetzt als … Freundespaar! Wir lüfteten die
 Maske … Wir wurden angestaunt … Hatten doch nur
 einen Wunsch — zu schlafen!! Zu schlafen!
@@ -1133,7 +1133,7 @@ einen Wunsch — zu schlafen!! Zu schlafen!
 Legten uns nieder …
 
 Aber — einschlafen, ein Kunststück! Mehr als ein
-Kunststück …!! =“-« Ich lag mit offenen Augen da, vergegens-wärtigte
+Kunststück …! — Ich lag mit offenen Augen da, vergegenwärtigte
 mir immer wieder die Szene, die der Sekretär
 Lord Carnavoors uns geschildert hatte: der Spitzbärtige,
 der sich heimlich aus dem Salon der Frau Orlington entfernen
@@ -1146,25 +1146,23 @@ wach … Er langte gerade nach einer Zigarette … zündete
 sie an, nickte mir zu …
 
 Sagte: »Der Tresorschlüssel — — der Tresorschlüssel!
-Wir will’s nicht aus dem Kopf, daß wir verabsäumt haben,
+Mir will’s nicht aus dem Kopf, daß wir verabsäumt haben,
 den Tresor mit dem Duplikatschlüssel in Gegenwart Frau
 Orlingtons zu öffnen …«
 
 Und — mit einem Satz war er auf dem Bettrand, nahm
-vom Nachttischken den Hörer des Fernsprechers, ließ sich
+vom Nachttischen den Hörer des Fernsprechers, ließ sich
 mit dem Hotel Esplanade verbinden und fragte:
 
 »Hallo — hier Harst, Mr. Doobler … Ist Frau Orlington
 schon im Hotel? — So — schon dort?! — Bitte —
-
-langsamer … Ich verstehe nicht … Es sind so viel Trauerte
-in der Leitung … —« Wie?! — Ah) — Sie haben
+langsamer … Ich verstehe nicht … Es sind so viel Geräusche
+in der Leitung … — Wie?! — Ah — Sie haben
 den Tresor geöffnet — — alle Juwelen Frau Orlingtons
-gestohlen …?! Frau Orlington verzweifelt …?!! — Trösten
+gestohlen …?! Frau Orlington verzweifelt …?! — Trösten
 Sie sie … Ich wollte ein paar Stunden ausruhen …
-
-Unter diesen vorhanden bin ich in einer halben Stunde im
-Hotel Lackhut … Wiedersehen …«
+Unter diesen Umständen bin ich in einer halben Stunde im
+Hotel. Schluß … Wiedersehen …«
 
 <@pagebreak/>
 Und — gleich darauf standen wir beide im Badezimmer
@@ -1174,30 +1172,30 @@ Erfrischt kleideten wir uns an, rasierten uns, wurden
 nun vollends Harst und Schraut …
 
 In aller Hast aßen wir noch eine Kleinigkeit. Dann
-im Auto zum Hotel … Dann fanden wir in Dja Orlingtons
+im Auto zum Hotel … Dann fanden wir in Frau Orlingtons
 Salon alle versammelt, die zu ihr gehörten: ihre
 Brüder, den Fürsten Tschergin und noch einen Herrn, Orlingtons
-Leibarzt, Doktor Morgen …
+Leibarzt, Doktor Macson …
 
 Frau Wera sah verweint aus … Fürst Tschergin
 schaute uns recht unfreundlich an …
 
 »Herr Harst, so sehr leicht scheint es doch nicht zu sein,
 meine Familienjuwelen zurückzuerhalten!« meinte er. »Nun
-sind auch noch Weras Pretiosen gestohlen worden … Or-linagton
-wird ein nettes Gesicht machen. wenn er von seiner
+sind auch noch Weras Pretiosen gestohlen worden … Orlington
+wird ein nettes Gesicht machen, wenn er von seiner
 Tigerjagd heimkehrt! Er hätte besser hier bleiben sollen …
-Hier gibt es anderes Wild zu jagen … „«
+Hier gibt es anderes Wild zu jagen …«
 
 Harald war in keiner Weise verletzt …
 
-»Was ich verspreche. halte ich auch, Fürst Tschergin …
+»Was ich verspreche, halte ich auch, Fürst Tschergin …
 … Ich möchte Frau Orlington ohne Zeugen sprechen …
 — Gnädige Frau … nur ein paar Minuten … Vielleicht
 treten wir auf den Balkon hinaus …«
 
-Und ich — ich war ausgeschaltet … « .- schien genug
-geschah das … — Selten genug … Ich war wie die anderen,
+Und ich — ich war ausgeschaltet … Selten genug
+geschah das … Selten genug … Ich war wie die anderen,
 nur Zuschauer …
 
 Wir sahen die beiden auf dem Balkon stehen …
@@ -1206,7 +1204,7 @@ Sahen, daß Frau Wera plötzlich wie verwirrt den Kopf
 senkte … daß sie errötete …
 
 Harald sprach offenbar sehr eindringlich … Sie hob
-den Topf wieder … nickte …
+den Kopf wieder … nickte …
 
 Dann reichte sie ihm die Hand …
 
@@ -1214,19 +1212,19 @@ Und sie kehrten unbefangen in den Salon zurück …
 
 Harst wandte sich an Tschergin …
 
-»Fürst, ich hoffe, Ihnen morgen mittag zwölf Uhr end-aÜltingen
+»Fürst, ich hoffe, Ihnen morgen mittag zwölf Uhr endgültigen
 Bescheid geben zu können …«
 
-»Ab — heißt das, Sie werden mir die Kleinodien …«
+»Ah — heißt das, Sie werden mir die Kleinodien …«
 
 <@pagebreak/>
-» — — Vielleicht überreichen können … Auch Frau Ok-sington8
+»… vielleicht überreichen können … Auch Frau Orlingtons
 Juwelen werden dann sicher zur Stelle sein …«
-Tschergin en:’huldigte sich jetzt bei Harald …
 
-»Herr Harst, ich war »vorhin etwas gereizt — überreizt
+Tschergin entschuldigte sich jetzt bei Harald …
 
-… daher unhöflich …
+»Herr Harst, ich war vorhin etwas gereizt — überreizt
+… daher unhöflich …«
 
 »Verständlich, Fürst … Kein Wort mehr davon …
 Glauben Sie mir, Joe Billwakers Verbrechen wird eine
@@ -1235,128 +1233,127 @@ James — doch nein — — morgen hoffentlich!«
 
 Wir verabschiedeten uns …
 
-Unten im Vorraum stand Doktor +… Mr
+Unten im Vorraum stand Doobler …
 
-Mr. Harst, hier — dieser Brief ist für Sie soeben
-Wege geben worden … Ein kleiner zerlumpter Bengel brachte
+»Mr. Harst, hier — dieser Brief ist für Sie soeben
+abgegeben worden … Ein kleiner zerlumpter Bengel brachte
+ihn …«
 
-um …«
-
-Harald war’s einen Bis auf die Adresse …
+Harald warf einen Blick auf die Adresse …
 
 »Danke, Mr. Doobler … — Wir haben es eilig …
 Wollen in die Polizeidirektion … Lassen Sie doch ein
 Auto holen …«
 
 Er schnitt den Umschlag auf …
-je Der Briefbogen enthielt nichts als eine grobe Bleistift
 
-z3e …
+Der Briefbogen enthielt nichts als eine grobe Bleistiftskizze
+…
 
--Darunter mir zwei Worte:
+Darunter nur zwei Worte:
 
-Eilt sehr!
+<p class="centered">Eilt sehr!</p>
 
-»Der Flughafen von Bombay, mein Alter …« Seekarte
+»Der Flughafen von Bombay, mein Alter …« erklärte
 Harald … »Und hier — ein Eindecker eingezeichnet,
 darunter zwei Buchstaben:
 
-O.
+<p class="centered">O. J.</p>
+
 Was mag das bedeuten?!«
 
 Doobler erschien wieder …
 
-Gas Auto ist vorgefahren, Mr. Harst …
+»Das Auto ist vorgefahren, Mr. Harst …«
 
-… hinein …
+Wir … hinein …
 
-Flughafen!« flüstert Harst dem indischen Fahrer zu …
+»Flughafen!« flüstert Harst dem indischen Fahrer zu …
 »Und — Galopp!! Eiltempo!«
 
 Der Mann raste mit uns davon …
 
-Keine zehn Minister später lagen auch die letzten Vor
-Städte hörten uns …
+Keine zehn Minister später lagen auch die letzten Vorstädte
+hinter uns …
 
 <@pagebreak/>
-Drüben tx der Luft vier Flugzeuge, oaemächlic
-treffend …
+Drüben in der Luft vier Flugzeuge, gemächlich
+kreisend …
 
 Und das Auto hält …
 
-Am Eingang ein kurzer Aufenthalt … —. Harst fragt
-den Pförtner, ob man jeder Zeit einen Passagierslug unternehmen
+Am Eingang ein kurzer Aufenthalt … Harst fragt
+den Pförtner, ob man jeder Zeit einen Passagierflug unternehmen
 könne … Ob vielleicht zwei Herren vor nicht langer
 Zeit den Eingang passiert hätten …
 
 Der Pförtner bejaht …
 
 Ob einer mit schwarzem Spitzbart dabei gewesen?
-toten Harst weiter.
+forscht Harst weiter.
 
-— Auch das wird bejaht.
+Auch das wird bejaht.
 
 Und wie der Begleiter ausgesehen habe?
 
-»Ein. älterer Sahib schon — grauer Bart, und gehinkt
-habe ox,« erklärt der Pförtner …
+»Ein älterer Sahib schon — grauer Bart, und gehinkt
+habe er,« erklärt der Pförtner …
 
-Wir dann weiter … Biegen um ein paar Flugzeug
-Schuppen herum … Vor uns das Greis Feld mit der miedder-getretenen
-Graxnarbe …
+Wir dann weiter … Biegen um ein paar Flugzeugschuppen
+herum … Vor uns das freie Feld mit der niedergetretenen
+Grasnarbe …
 
 Mehrere Flugzeuge startbereit … Menschengruppen
+… Piloten im Dreß …
 
-… Piloten im hieß …
-
-»Ein weißer Eindecker rollt an … Die Bedienungsleute
+Ein weißer Eindecker rollt an … Die Bedienungsleute
 springen zurück … Wir sind bei ihnen …
 
-Harald ohne Hast: »Zwei Herren stiegen mit auf, nicht!
+Harald ohne Hast: »Zwei Herren stiegen mit auf, nicht
+wahr?«
 
-Da drängt sich ein Inder an uns heran, modern g&
-Kleider, flüstert:
+Da drängt sich ein Inder an uns heran, modern gekleidet,
+flüstert:
 
 »Mr. Harst — Kriminalpolizei …«
 
 Harald nickt … »Ich erkenne Sie wieder, Abdullah
-Wer waren die Herren? Haben Sie Ausweise verlangt
+… — Wer waren die Herren? Haben Sie Ausweise verlangt?«
 
-»Gewiß, Mr. Harst … Es waren zwei Kaufleute zu? —
-heran …
+»Gewiß, Mr. Harst … Es waren zwei Kaufleute aus
+Chotar …«
 
-»Er Sohn?«
+»Chotar?«
 
 »Ja … zwei Engländer …«
 
 »Abdullah, hatten sie Gepäck mit?«
 
-»Nur … einen Koffer, … „«
+»Nur einen Koffer …«
 
 <@pagebreak/>
-»Lederkoffer =“« ja … gelbbraun, sehr zerkratzt, ein alter
-lassen …«
+»Lederkoffer — ja … gelbbraun, sehr zerkratzt, ein alter
+Koffer …«
 
-»Am — sehr zerkratzt … Waren die Krater vielleicht
+»Hm — sehr zerkratzt … Waren die Kratzer vielleicht
 sehr auffallend — sehr frisch?«
 
-Dr Geheimpolizist stutzt …
+Der Geheimpolizist stutzt …
 
-…-. Oh … ich hätte … — … ja, die Schrammen
-und großer waren sehr neu … Wo habe ich nur meine
+»Oh … oh … ich hätte … ja, die Schrammen
+und Kratzer waren sehr neu … Wo habe ich nur meine
 Augen gehabt …?!«
 
 Harst — jetzt sehr hastig:
 
 »Lassen Sie sofort einen anderen Eindecker für uns
-reservieren, Abdullah … Wir müssen hinterdaein …“« —
+reservieren, Abdullah … Wir müssen hinterdrein …«
 
 Die beiden Flieger kommen, stellen sich vor …
 
 »Mr. Harst, der Eindecker dort oben,« sagte der eine,
-»ist ein ganz neuer Typ … Eine Verfolgung ist Aussicht
-
-los … Wenn die beiden Passagiere, die ja flüchtige Verbrecher
+»ist ein ganz neuer Typ … Eine Verfolgung ist aussichtslos
+… Wenn die beiden Passagiere, die ja flüchtige Verbrecher
 sein sollen, den Piloten zwingen, sie irgendwohin
 zu bringen, dann …«
 
@@ -1370,102 +1367,98 @@ Zehn Minuten darauf stiegen wir empor …
 
 Der andere Eindecker ist längst verschwunden …
 
-Ast
-
-3\. Kapitel.
+<h2>5. Kapitel.</h2>
 
 Fahrt ins Blaue, dachte ich … Denn daß James und
-der andere niemals nach heran unterwegs waren, sondern
-in der Tat den Flugzeugführer zwingen würden, unterste
-zu landen, bedurfte ja keinerlei Erörterung, denn ersten? —
-handelte es sich nicht um Kaufleute »aus heran«, und
+der andere niemals nach Chotar unterwegs waren, sondern
+in der Tat den Flugzeugführer zwingen würden, anderswo
+zu landen, bedurfte ja keinerlei Erörterung, denn erstens —
+handelte es sich nicht um Kaufleute »aus Chotar«, und
 zweitens war dieses am Rande endloser Dschungel gelegene
-Städtchen der Ausgangspun?! der Jagdexpedition Thomas
-Orlingtons, des Milliardärs … Ramses würde sich schwer
+Städtchen der Ausgangspunkt der Jagdexpedition Thomas
+Orlingtons, des Milliardärs … James würde sich schwer
 <@pagebreak/>
-hüten, seinem Herrn dort in die Arme« zu laufen -«y« —
-Ihnen hüten würde er sich!
+hüten, seinem Herrn dort in die Arme zu laufen — —
+schwer hüten würde er sich!
 
 Unser Pilot war ein Mischling, ein Eurasier, ein Mann,
-dessen Äußeres kaum nebst verriet, daß er indisches Blut
+dessen Äußeres kaum mehr verriet, daß er indisches Blut
 in den Adern hatte … — Nachdem wir uns etwa tausend
-Meter rasch Norden zu empor geschraubt hatten, eine Richtung,
-die die Frühzuge eingeschlagen hatten, wandte der
+Meter nach Norden zu empor geschraubt hatten, eine Richtung,
+die die Flüchtlinge eingeschlagen hatten, wandte der
 Eurasier sich an Harald … »Wohin, Mr. Harst?«
 
-»heran …!« erwiderte der lakonisch …
+»Chotar …!« erwiderte der lakonisch …
 
-Ich war« reichlich erstaunt … Mein Blick verriet dies
-
+Ich war reichlich erstaunt … Mein Blick verriet dies
 … — Harald gähnte. In der Gondel war gerade so viel
 Platz, daß wir beide uns hätten niederlegen können … Und
 wirklich, Harst richtete sich ein Lager her, meinte: »Ich würde
-Dir raten, dasselbe zu tun, mein Aber … In heran wird
+Dir raten, dasselbe zu tun, mein Alter … In Chotar wird
 sich noch manches ereignen, zumal zur Zeit drei Eindecker
 dorthin unterwegs sind …«
 
-»Drei?!
+»Drei?!«
 
-»Ja — wenn Du einmal zurückschauen willst …
+»Ja — wenn Du einmal zurückschauen willst …«
 
 Und da sah auch ich denn den dritten Flieger …
 
-»Etwa … Joe Billwalser?!«
+»Etwa … Joe Billwaker?!«
 
 »Wer sonst, mein Alter …« Er gähnte und streckte sich
 lang hin … »Billwaker wird uns noch viel zu raten aufgeben
-… Und der Spitzbärtige …« =«- er blinzelte mir
+… Und der Spitzbärtige …« — er blinzelte mir
 zu — »der Spitzbärtige ist ebenso interessant …«
 
-Meine Gedanken waren bei Frau Wera Orlington,: …
+Meine Gedanken waren bei Frau Wera Orlington …
 
-»Was besprachst Du mit der Milliardärsgattin aus dem
+»Was besprachst Du mit der Milliardärsgattin auf dem
 Balkon, Harald?«
 
-»Aha — Du erkennst den Zusammenhang mit heran!«
+»Aha — Du erkennst den Zusammenhang mit Chotar!«
 nickte er …
 
-»Leiter nein …!«
+»Leider nein …!«
 
 »Dann — — ist Dir vorläufig nicht zu helfen … Gute
-Nacht, Max Schläfst …«
+Nacht, Max Schraut …«
 
-Wir waren nynmwen’tide … Wir selbst:n ein
+Wir waren hundemüde … Wir schliefen ein …
 
-ins als wir gegen liegen Uhr Glaub’«. trug unter uns
-ein anderes Linojwastebid — unendlicher Dsumngel —
-bebdische Erlebnis
+Und als wir gegen sieben Uhr erwachten, lag unter uns
+ein anderes Landschaftsbild — unendlicher Dschungel —
+indische Wildnis
 
 <@pagebreak/>
 Der Pilot rief uns zu …
 
-»Der Eindecker ist [geben »niiedergegangen, Mr. Harst —
-dort »auf der Lichtung halb rechts …
+»Der Eindecker ist soeben niedergegangen, Mr. Harst —
+dort auf der Lichtung halb rechts …«
 
-»Dann — gleichfalls abwärts … Platz genug ist tot!
-21H »fuhr uns zum Landen …«
+»Dann — gleichfalls abwärts … Platz genug ist dort
+auch für uns zum Landen …«
 
 Harald beugte sich dann zum Kabinenfenster hinaus …
-über von dem dritten Flieger war nichts mehr zu erspähen.
+Aber von dem dritten Flieger war nichts mehr zu erspähen.
 
 Wir landeten …
 
 Die Dschungelwiese mit ihrem teilweise manneshohen
 Gras bremste unseren auslaufenden Eindecker sehr schnell …
 
-Wir beide aus der Gondel … Im Trab auf das?
-andere Flugzeug zu … Es stand dicht am Waldrande .“…
+Wir beide aus der Gondel … Im Trab auf das
+andere Flugzeug zu … Es stand dicht am Waldrande …
 
 »Vorsicht!« rief Harald im Laufen … »Vorsicht …!!«
-— Ei hatte die Clement zur Hand genommen … Ich da!
+— Er hatte die Clement zur Hand genommen … Ich tat
+ein gleiches …
 
-ein gleiches
-
-Dann waren wir nicht vor dem Eindecker … Kein«
+Dann waren wir dicht vor dem Eindecker … Keine
 Menschenseele mehr — leer die Gondel …
 
-halber hinter dem Flugzeug, wo die unberührte Wildnis
-begann, sahen wir Spuren, die in das Dickicht liegen —
+Aber hinter dem Flugzeug, wo die unberührte Wildnis
+begann, sahen wir Spuren, die in das Dickicht liefen —
 ganz frische Spuren …
 
 »James, Thomas Orlington und der bestochene Pilot,«
@@ -1477,21 +1470,19 @@ Ich glaubte nicht recht verstanden zu haben …
 
 »Orlington?!« fragte ich verblüfft.
 
-»30a — der Spitzbärtige … Natürlich steckt Thomas
-Orlington als treibende Kraft hinter alledem … Er heim
-heran gewesen, ist sofort zurückgekehrt, hat mit James
+»Ja — der Spitzbärtige … Natürlich steckt Thomas
+Orlington als treibende Kraft hinter alledem … Er ist in
+Chotar gewesen, ist sofort zurückgekehrt, hat mit James
 den Koffer vertauscht und auch den Tresor ausgeräumt …
 Ich kam recht spät auf diese Lösung …«
 
-Ich war zu verdutzt, im irgend etwas sagen zu können
-
-… Ein Milliardär als sich?! Das war mir denn Dock
+Ich war zu verdutzt, um irgend etwas sagen zu können
+… Ein Milliardär als Dieb?! Das war mir denn doch
 etwas zu kühn …!!
 
 Harald schaute die Spuren an … Meinte wieder:
-»wohin wir ihnen folgen, weiß ich genau, was geschieht.
-Wir lauerten überrumpelt werden Aber —. es schade!
-
+»Wenn wir ihnen folgen, weiß ich genau, was geschieht.
+Wir werden überrumpelt werden … Aber — es schadet
 <@pagebreak/>
 nichts … Unser Pilot mag hier warten … Ich werde
 ihm Bescheid sagen …«
@@ -1510,26 +1501,25 @@ einzelne Spur sich mit der der drei Männer vereinigte …
 
 »Ein Inder — Sandalen!« meinte Harald nur …
 
-Bett hatten wir vier Mann vor uns … —
+Jetzt hatten wir vier Mann vor uns … —
 
-Ich dar! mit Recht behaupten. daß ich dieses Eindringen
+Ich darf mit Recht behaupten, daß ich dieses Eindringen
 in den Dschungel zu dieser Abendstunde für groben Unfug
 hielt … für ganz groben Unfug …! Wenn uns die Nacht
-hier Überraschte, trafen uns entweder die Vollstes oder
-die Tiger auf … Beides nicht angenehm … Die Choral-Dschungel
-sind die tiaerreichste Gegend Indiens …
+hier Überraschte, fraßen uns entweder die Moskitos oder
+die Tiger auf … Beides nicht angenehm … Die Chotar-Dschungel
+sind die tigerreichste Gegend Indiens …
 
-uns doch: Harald schien keinerlei Bedenken zu hegen,
-was mich sehr in Erstaunen setzte — sehr sogar … ’!
+Und doch: Harald schien keinerlei Bedenken zu hegen,
+was mich sehr in Erstaunen setzte — sehr sogar …!
 
 Jetzt vor uns ein förmlicher Dornenwall … Nur ein
 schmaler Durchschlupf … Wir Drängten uns leise hinein
-… Laschen — lauschen … Nichts — — Kulisse …
+… Lauschen — lauschen … Nichts — — Stille …
 
 Weiter …
 
 Der schmale, dornenumhegte Pfad wird breiter … Ein
-
 freier Fleck von etwa vier Meter im Quadrat …
 
 Hier — endet die Fährte …
@@ -1540,8 +1530,8 @@ Hinter uns ein Rauschen und Knacken … Über uns
 ähnliche Geräusche …
 
 Aus den Kronen der Bäume fällt … ein Eisengitter
-herab … falls auf ein im Gestrüpp verstecktes anderes
-Gitter, das die kleine Lichtung unsichtbar zu: tätig macht …
+herab … Fällt auf ein im Gestrüpp verstecktes anderes
+Gitter, das die kleine Lichtung unsichtbar zum Käfig macht …
 
 Ich begreife im Moment …
 
@@ -1549,24 +1539,23 @@ Ich begreife im Moment …
 Wir sind … in eine Tigerfalle hineingetappt …
 
 Früher stellte man diese aus Pfählen her … Jetzt
-läßt man durch Jagdelefanten die Teile der Gitter in- die
+läßt man durch Jagdelefanten die Teile der Gitter in die
 Wildnis schleppen … Das ist bequemer …
 
 Und wie wir noch diese Gitterwände hinter den zurückgebogenen
 Zweigen mustern, ertönt dicht vor uns das heisere
 Wutgebrüll eines Tigers …
 
-Wir … haken einen … frisch gefangenen Tiger als
+Wir … haben einen … frisch gefangenen Tiger als
 Nachbar — — in der zweiten Abteilung des tückischen
 Käfigs …
 
 Wir sehen die Bestie … Sind von ihr nur durch eine
-
 Reihe von Eisenstäben getrennt …
 
 So wurden wir überrumpelt …
 
-So …!!— So hatte Milliardär Orlington für unsere
+So …!! — So hatte Milliardär Orlington für unsere
 Unterkunft im Dschungel gesorgt …!!
 
 <h1>Der Tigergraben</h1>
@@ -2242,7 +2231,7 @@ die Schilderung hineinpassen, aufzuhalten … — Thomas
 Orlington hatte auf seiner Jagdpartie aus jede Bealtitung
 verzichtet. Er hatte von Bombay nur zwei Inder, bejahrte
 und erfahrene Jäger, mitgenommen, die ihm empfohlen
-worden waren. Der Kapitän seiner Jacht und der Schisfs-ingenieur
+worden waren. Der Kapitän seiner Jacht und der Schiffsingenieur
 hätten den Jagdausflug sehr gern mitgemacht.
 Orlington verstand es, sie auf »ein andermal zu vertrösten.
 Nicht einmal der Kammerdiener James, auf den er sehr
@@ -2737,7 +2726,7 @@ mir so viel imponieren — — so viel!!! — Ein kompletter
 Idiot!!«
 
 »Was ich nicht unterschreiben möchte, Sir Hasting,« sagte
-ich ernst. »Orlington ist doch schließlich ein faufmännisches
+ich ernst. »Orlington ist doch schließlich ein kaufmännisches
 (Genie, und ein solcher Mann …
 
 Da trat Harst zu uns … Leider noch immer mit sehr
@@ -2880,7 +2869,7 @@ breit war, hinüber — in das Gestrüpp … Und da erkannte
 auch ich hinter geknickten Zweigen rohe Baumstämme, durch
 Querhölzer verbunden: die Schiebebrüce! —
 
-Als wir dann eine halbe Stunde später das Pflanzen-tau,
+Als wir dann eine halbe Stunde später das Pflanzentau,
 das an einem Ende mit einem langen schmalen Stein
 beschwert war, über den Wall schleuderten, als es nach mehrfachen
 Versuchen sich im Wurzelwerk der Büsche verging, da
