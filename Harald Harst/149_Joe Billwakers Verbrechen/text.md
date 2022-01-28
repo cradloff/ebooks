@@ -1562,76 +1562,79 @@ Unterkunft im Dschungel gesorgt …!!
 
 <h2>1. Kapitel.</h2>
 
-Harald bleibt unheimlich glich … Oh bin blaß geworden
+Harald bleibt unheimlich ruhig … Ich bin blaß geworden
 … Ich schwitze … Der Tiger rast … Die Nähe
 der Menschen hat seine Wut aufs Höchste angestachelt. Er
-springt gegen das Gitter … Er brüllt in kurzen Pausen.
+springt gegen das Gitter … Er brüllt in kurzen Pausen …
 
 Harald zieht mich nach der anderen Seite der Lichtung
 hinüber …
 
 die Bestie wird still …
 
-Dann … fast Harst —« mehrmals dasselbe — mit
+Dann … ruft Harst — mehrmals dasselbe — mit
 voller Lungenkraft:
 
-»Mr. reinigten, im habe nicht die Absicht, Sie bloßzustellen!
+»Mr. Orlington, im habe nicht die Absicht, Sie bloßzustellen!
 Sie brauchen auch von seiten Ihrer Gattin nichts
-Du fürchten …«
+zu fürchten …«
 
 <@pagebreak/>
-Wir erscheinen diese Sätze außerordentlich merkwürdig.
+Mir erscheinen diese Sätze außerordentlich merkwürdig.
 
 Niemand meldet sich … Nur unser Nachbar … Der
 tobt von neuem …
 
-Harst meint unzufriedett:
+Harst meint unzufrieden:
 
-»Orlington sollte den Scherz nicht Übertreiben … ’!«
+»Orlington sollte den Scherz nicht Übertreiben …!!«
 
-»»Scherz?! Ich danke …!!«
+»Scherz?! Ich danke …!!«
 
 »Allerdings, wenn wir die Nacht hier zubringen müssen,
 wird es eine Tragödie, mein Alter … — Halten wir uns
 also mit Worten nicht lange auf … Handeln wir! Das
 Gitter oben muß sich anheben lassen … Dann klettern
-wir hinaus
+wir hinaus …«
 
-Ab! — die Gitterdecke ist mit fingerdicken Stahltrossen,
+Aber — die Gitterdecke ist mit fingerdicken Stahltrossen,
 die schräg nach außen in das Dickicht laufen, befestigt …
 
 Harald, der emporgeklettert ist, kommt wieder herab …
 
-»Nichts zu machen …!! Wir sind gefangen … Wir
-könnten ja die Stahltrossen zerschießen … Dann hatten
-wir nicht mehr eine einzige Patrone zur Verfügung … Au
+»Nichts zu machen …! Wir sind gefangen … Wir
+könnten ja die Stahltrossen zerschießen … Dann hätten
+wir nicht mehr eine einzige Patrone zur Verfügung … Auch
 wäre der Erfolg zweifelhaft … — Offen gesagt mein Alter:
 Orlington wird mir jetzt denn doch etwas rätselhaft …
 Wenn der Mann in seiner Eifersucht als Jungverheirateter
-aus derartige verrückte Streiche verfärbt — nun gut, in Es
+auf derartige verrückte Streiche verfällt — nun gut, in
 gewissem Grade ist das entschuldbar! Aber wenn er diese
-
-Streiche tatsächlich zu Verbrechen ausbauscht — und uns hie!
-
+Streiche tatsächlich zu Verbrechen aufbauscht — und uns hier
 einzusperren ist ein Verbrechen! dann — — hört sich doch
-verschiedenes auf …
-staune »… staune …
+verschiedenes auf …!«
 
-Eifersucht?! — Und Anfrage verwundert:
-»Orlington ist auf seine fuhren eifersüchtig, und Technik
-aß er …«
-»x. »Du — deshalb …! — Ich bin zu einem Entschluß
+Ich … staune … staune …
+
+Eifersucht?! — Und ich frage verwundert:
+
+»Orlington ist auf seine Frau eifersüchtig, und deshalb
+hat er …«
+
+»Ja — deshalb …! — Ich bin zu einem Entschluß
 gelangt … Wir opfern unsere Patronen … Wir müssen
-sechs Stahltrossen zerschießen … Gib mir Deine Steinen!
-mit … Jede fragte ist durch das Decengitter durchgezogen
+sechs Stahltrossen zerschießen … Gib mir Deine Clement
+mit … Jede Trosse ist durch das Deckengitter durchgezogen
 … Vielleicht genügen für jede Stelle zwei Kugeln …«
+
 Er klettert wieder empor …
+
 Der erste Schuß …
 
 <@pagebreak/>
 Der Tiger rast …
 
-Und — dann eine Stimme aus dem Dickicht: —
+Und — dann eine Stimme aus dem Dickicht:
 
 »Sahib Harst, ich habe Befehl, zu schießen … Ihr
 müßt hier drei Tage bleiben …«
@@ -1640,26 +1643,26 @@ Ein Inder …! Man merkt es seinem Englisch an …
 
 Harald brüllt — und jetzt ist er wütend:
 
-»Ich werde schießen, Du Lump!!! Auf Dich …!«
+»Ich werde schießen, Du Lump!! Auf Dich …!«
 
 Und — er drückt nochmals ab … auf die Stahltrosse
 …
 
 Da — prasselt eine lange Stange durch die Zweige,
-trifft seinen rechten Arm …«
+trifft seinen rechten Arm …
 
-je Pistole fliegt ihm aus der Hand …
+Die Pistole fliegt ihm aus der Hand …
 
-… flucht … — sehr selten, daß ihm eine Herr
-Täuschung Über die Lippen kennt …
+Er … flucht … — sehr selten, daß ihm eine Verwünschung
+Über die Lippen kommt …
 
 Er springt herab …
 
-Die Clement ist nach) außen ins Gestrüpp geflogen …
+Die Clement ist nach außen ins Gestrüpp geflogen …
 
 Er steht vor mir — bleich, finster …
 
-Orlington, das wird ein böser Handel!« sagt er
+»Orlington, das wird ein böser Handel!« sagt er
 gepreßt …
 
 Wieder da das Rauschen der Zweige …
@@ -1681,18 +1684,18 @@ geöffnet …
 
 Ausgepackt:
 
-Kollege Decken, aufbla&äbare Kissen, ein Kocher für Harst-spiritus,
-Aluminiumaesö&irr, Konserven, Tee, zwei Thepv-moösflaschen,
+Wollene Decken, aufblasbare Kissen, ein Kocher für Hartspiritus,
+Aluminiumgeschirr, Konserven, Tee, zwei Thermosflaschen,
 Trinkwasser, Zündhölzer, Moskitonetze — und
 anderes!
 
 Kurz, all das, was man zum Lagern in der Wildnis
-Braut. Nichts ist vergessen worden — gar nichts …
+braucht. Nichts ist vergessen worden — gar nichts …
 
 <@pagebreak/>
-Unsere Laune bessert ein. Harald meint:
+Unsere Laune bessert sich. Harald meint:
 
-»Nun schaut die Geschichte schon ’ander8 aus, mein
+»Nun schaut die Geschichte schon anders aus, mein
 Alter … Orlington ist ein sorgsamer Mann … — Gut
 denn, machen wir es uns bequem …«
 
@@ -1703,7 +1706,7 @@ In der Tat: wir haben es nicht schlecht!
 
 Es wird dunkel … Wir soupieren, während der Tiger
 nebenan offenbar gleichfalls versorgt ist … Wir hören
-Knoten knacken, hören ihn schwarzen …
+Knochen knacken, hören ihn schmatzen …
 
 Und da … lächelt Harald …
 
@@ -1719,33 +1722,33 @@ Und er deutete seitwärts, wo die grünen Knollen des
 Alter,« flüsterte er weiter … »Und das Schloß werden wir
 schon öffnen … Wir legen uns nachher nieder und lassen
 das Feuer erlöschen … Schlafen scheinbar … Es muß
-geben … Wir müssen freikommen … Es wäre ja noch
-besser. wenn wir beide nicht trat der Wächter da draußen
+gehen … Wir müssen freikommen … Es wäre ja noch
+besser, wenn wir beide nicht trotz der Wächter da draußen
 entschlüpfen könnten!«
 
-Lixmer Tiger …! Gestern war er vielleicht noch Herr
-bei Urteils gewesen … Dann heimtückisch in die Gitterwände
-gelockt worden, dann — — vergiftet …!’
+Armer Tiger …! Gestern war er vielleicht noch Herr
+der Wildnis gewesen … Dann heimtückisch in die Gitterwände
+gelockt worden, dann — — vergiftet …!
 
-Das Yiderstreble mir …
+Das widerstrebte mir …
 
 Und ehrlich erwiderte ich mit gedämpfter Stimme:
 
-»klar 219, geht’s denn nicht ohne Gift?! Das arme
-sich …!«
+»Harald, geht’s denn nicht ohne Gift?! Das arme
+Vieh …!«
 
-»Flur tut’s ebenfalls leid … Aber — es gibt keinen
-ren Maschinen
+»Mir tut’s ebenfalls leid … Aber — es gibt keinen
+anderen Ausweg …«
 
-Gut in Hals … Ich stellte das Geschirr
-weg. Das Seewasser kochte … —
+Er rauchte eine Zigarette … Ich stellte das Geschirr
+weg. Das Teewasser kochte … —
 
-man denke sich unsere Lage: uns Schritt entfernt ein
-Tier nicht im nötig« Kumpan Dornen Büsche —
+man denke sich unsere Lage: fünf Schritt entfernt ein
+Tiger … auch im Käfig! Rundum Dornen … Büsche —
 <@pagebreak/>
 Bäume … In der Nähe die Wächter … Und — in noch
-weiterem Umkreis Wildnis, Dschungel … Eine halbe-Stunde
-nach Süden zu die Lichtung mit den beiden Doppeldeckern
+weiterem Umkreis Wildnis, Dschungel … Eine halbe
+Stunde nach Süden zu die Lichtung mit den beiden Doppeldeckern
 …
 
 Und — urplötzlich dachte ich an unseren Flugzeugführer
@@ -1759,20 +1762,20 @@ Fragte Harald:
 
 »Mit dem Eurasier …«
 
-»Ich so … — Nun, wenn wir bis Mitternacht nicht
-zurück sind, soll er nach heran stiegen und die dortige Polizei
-verständigen … “«
+»Ach so … — Nun, wenn wir bis Mitternacht nicht
+zurück sind, soll er nach Chotar fliegen und die dortige Polizei
+verständigen …«
 
 »Nun also …! Dann brauchen wir doch den Tiger …«
 
-»Harmlose« Gemüt!« unterbrach) er mich … »gering«-
-Ton hat den Ei, leise dort längst ausgeschaltet … Orlingtons
-Milliarden sind für uns die gefährlichsten Wasser,
+»Harmloses Gemüt!« unterbrach er mich … »Orlington
+hat den Eurasier dort längst ausgeschaltet … Orlingtons
+Milliarden sind für uns die gefährlichsten Waffen,
 besonders hier in Indien, wo die Hauptmasse der Bevölkerung
 so überaus arm ist … All diese armen Teufel sind
 der Bestechung zugänglich … Wenn einem Flugzeugführer
-tausend Pfund gebeten werden — für Orlington eine Kleot-nigkeit!
-—, kommen die sichersten Grundsäte ins Wanken,
+tausend Pfund geboten werden — für Orlington eine Kleinigkeit!
+—, kommen die ehernsten Grundsätze ins Wanken,
 mein Alter …«
 
 Ich nickte. Harald hatte recht: von unserem Piloten
@@ -1781,42 +1784,42 @@ hatten wir keine Hilfe zu erwarten …!
 Ich zündete mir eine Zigarre an. Auch dafür hatte
 Orlington gesorgt …
 
-Dicke Zeit verstrich …
+Die Zeit verstrich …
 
 Der Tiger hielt sich ruhig — verdaute … Aber nun
 erwachte der Dschungel ringsum …
 
-Und Kratzen hatten. unsere ausschlafen Hüter gleiche
-Anblick F« her angezündet … Lichtschein blinkte durch die
-Büsche
+Und draußen hatten unsere unsichtbaren Hüter gleichfalls
+Feuer angezündet … Lichtschein blinkte durch die
+Büsche …
 
-vier Feuer genial:vier wir so … Es mußten doch) weit
+vier Feuer gewahrten wir so … Es mußten doch weit
 mehr Wächter sein, als wir glaubten … —
 
-John Uhr.
+Zehn Uhr …
 
 <@pagebreak/>
-Die Mathilde kamen … In ’n Wolken … Flink
-stellten wir aus Zweigen die für t. Netze nötigen Bügel
+Die Moskitos kamen … In dicken Wolken … Flink
+stellten wir aus Zweigen die für die Netze nötigen Bügel
 her, krochen dann unter die durchsichtigen Schutzhüllen …
 
-Unser Feuer brannte niedriger … immer dunkler, …
+Unser Feuer brannte niedriger … immer dunkler …
 
 Glühte nur noch …
 
 Der Tiger nebenan gähnte … Sein Gebiß klappte …
 
-Nette Nachbarschaft … U!las-Sah
+Nette Nachbarschaft …!!
 
 Harald sprach über alles Mögliche …
 
 Dann lauschten wir wieder eine Weile auf die Stimmen
 der Wildnis …
 
-Eine Schlange kroch zwischen unseren Lagerstätten hin
-durch … Schnellte vorwärts …
+Eine Schlange kroch zwischen unseren Lagerstätten hindurch
+… Schnellte vorwärts …
 
-Ein Quieken — sie hatte eine Munde erwischt, erdrückte
+Ein Quieken — sie hatte eine Maus erwischt, erdrückte
 die Beute …
 
 Es war eine kleine Kobra … Sie verschwand …
@@ -1829,7 +1832,7 @@ Ich flüsterte Harald zu:
 
 Ich horchte …
 
-Ich — — da waren dicht am Gitter Geräusche …
+Ja — — da waren dicht am Gitter Geräusche …
 
 Ganz leise …
 
@@ -1845,81 +1848,82 @@ Stille …
 
 Minutenlang …
 
-Wir hielten den Atem an … «
+Wir hielten den Atem an …
 
 dann:
 
 »Ich habe sechs der Stahltrossen von den Pfählen
-gelöst … Sie brauchen nur die Hübsche des Käfigs empor
+gelöst … Sie brauchen nur die Südecke des Käfigs emporzuheben
+… Dann können Sie unten durchschlüpfen …
+Dort ist eine freie Stelle in den Dornen …«
 
-Maul eben … Dann können Sie unten durchschlüpfen, …
-Dort ist eine Greis Stelle in den Dornen …«
 Stille …
 
-Mumiensarg …
-Pferden die raunende Stimme!
+Minutenlang …
+
+Wieder die raunende Stimme:
 
 <@pagebreak/>
 »Warten Sie aber noch, bis Sie den Ruf der großen
-Sumpfkröte fünfmal vernehmen … — ««
+Sumpfkröte fünfmal vernehmen …«
 
 Stille …
 
-Wir warteten +…
+Wir warteten …
 
 <h2>2. Kapitel.</h2>
 
-Joe Augapfel …
+Joe Billwaker …!!
 
-Wer hätte das gedacht!! Gerade er unser Befreier … l!
+Wer hätte das gedacht!! Gerade er unser Befreier …!!
 Ausgerechnet der Mann, den Harald erst beschuldigt
 hatte …!!
 
 Wir warteten …
 
-Irgendwo, nicht allzu weit entfernt, jaulte ein Tiger :.
+Irgendwo, nicht allzu weit entfernt, jaulte ein Tiger …
 
 Unser Nachbar antwortete natürlich …
 
 Die feuchtheiße Dschungelluft trieb mir den Schweiß
 aus allen Poren … Hinzu kam noch die Aufregung …
 Wenn nur Billwaker von den Wächtern nicht bemerkt wurde!
-Das wäre nicht auszubeuten gewesen! Dann saßen wir
+Das wäre nicht auszudenken gewesen! Dann saßen wir
 noch übler in der Patsche, denn dann würden die Wächter
 doppelt scharf aufpassen …
 
 Wir warteten …
 
-Die lieben Mathilde summten außerhalb des rotes
+Die lieben Moskitos summten außerhalb des Netzes
 wie ein Bienenschwarm und lauerten offenbar nur darauf,
 daß wir die schützende Hülle verließen … Wozu der liebe
-Herrgott diese Bestien geschaffen hat, ist auch noch nijemaß-vem
-so recht! klar geworden …
+Herrgott diese Bestien geschaffen hat, ist auch noch niemandem
+so recht klar geworden …
 
 Plötzlich … Der Krötenruf …
 
-Ab — tadellos nachgeahmt — tadellos … Dieses
-dumpfe Euch — bat — durch, das wie aus dem Erdinnern
-beraufzudumncen scheint, klang so echt wie nur möglich …
+Ah — tadellos nachgeahmt — tadellos … Dieses
+dumpfe Buh — buh — buh, das wie aus dem Erdinnern
+heraufzudringen scheint, klang so echt wie nur möglich …
 
-Aber —. was bewertete ck82?! Die Kröte hatte nur drei
-was gerufen …!! Vielleicht war’s gar eine wirklich
-gewesen … 5.
+Aber — was bedeutete das?! Die Kröte hatte nur drei
+mal gerufen …!! Vielleicht war’s gar eine wirklich
+gewesen …
 
-»= 2a Nein — es war Au gleichsam das Prülsndium …
+Doch nein — es war nur gleichsam das Präludium …
 
-Jetzt fünfmal ’"“«
+Jetzt … fünfmal …!!
 
 <@pagebreak/>
-T. galt uns …
+Das galt uns …
 
-Harst flüsterte …! »Schneide das Netz entzwei und
-Fidele es Dir ums Gesicht …«
+Harst flüsterte …: »Schneide das Netz entzwei und
+wickele es Dir ums Gesicht …«
 
-Nun — das hätte ich auch ohnedies;Star …
+Nun — das hätte ich auch ohnedies getan …
 
-Und dann hinaus — in die Käfigecke … Dann paar.
-wir beide die untere Querstange des Gitters, das vielleicht:
+Und dann hinaus — in die Käfigecke … Dann packten
+wir beide die untere Querstange des Gitters, das vielleicht
 ein halb Meter im Boden steckte …
 
 Ein Ruck — noch einer …
@@ -1930,10 +1934,10 @@ Harald hielt es hoch … Ich kroch darunter hinweg,
 packte es von der anderen Seite … Die Eisenstange schnitt
 in die Handflächen ein … —
 
-Gott! sei Dank — Harald war neben mir … Wir
-ließen die Märkische langsam herab …
+Gott sei Dank — Harald war neben mir … Wir
+ließen die Käfigecke langsam herab …
 
-Dann in das Schlupfloch) des Dornenwalles hinein …
+Dann in das Schlupfloch des Dornenwalles hinein …
 Harald voran …
 
 Finsternis ringsum …
@@ -1941,58 +1945,57 @@ Finsternis ringsum …
 Harst nimmt meine Hand … Undeutlich sehe ich, daß
 ihn jemand führt …
 
-Wir kriechen … Ich merke, hier ist ein stürmischen
-Bogengang in das Streich geschnitten … Dann schwacher
+Wir kriechen … Ich merke, hier ist ein förmlicher
+Bogengang in das Dickicht geschnitten … Dann schwacher
 Lichtschein — eine Waldblöße … Der Mond grinst durch
 die Bäume …
 
 Joe Billwaker flüstert:
 
-»33YH werde Sie nach Grüngraues Lagerplatz geleiten
-+… Sie sind doch bereits im Bilde, Mr. Harst?«
+»Ich werde Sie nach Orlingtons Lagerplatz geleiten
+… Sie sind doch bereits im Bilde, Mr. Harst?«
 
-»Gewiß, Billwaker … — Wo Ist der lassen?«
+»Gewiß, Billwaker … — Wo Ist der Koffer?«
 
 »Den hat Orlington versteckt … Er traut den Indern
 nicht, die er gemietet hat … Sind alles Kerle wie die
-Seaßenräuber … Tigerjäger, Mr. Harst vertuvegenes
-
+Straßenräuber … Tigerjäger, Mr. Harst … verwegenes
 Volk …«
 
-Er geh! voran … Er trägt einen blonden Bart, einen
-grüngrauen Leinenanzug Sportmütze, Mückenschleier …
+Er geht voran … Er trägt einen blonden Bart, einen
+grüngrauen Leinenanzug, Sportmütze, Mückenschleier …
 
-Scoeigend Wandern wir einer hinter dem andern …
+Schweigend wandern wir einer hinter dem andern …
 
-STimveigend …
+Schweigend …
 
-Burg kam und Busch …
+Durch Baum und Busch …
+
 <@pagebreak/>
 Die Gegend wird bald hügelig … Felspartien treten
-
 auf …
 
-Brillanter hat in der Rechten eine lange Cold-Repetierpistole
-… Einer jene Pistolen, die in sicherer Hand einen
+Billwaker hat in der Rechten eine lange Cold-Repetierpistole
+… Eine jener Pistolen, die in sicherer Hand einen
 Karabiner ersetzen …
 
 Ich beobachte diesen Kellner …
 
-Ein Kellner, der sich hier in der Wildnis wie ein erfahrenen
+Ein Kellner, der sich hier in der Wildnis wie ein erfahrener
 Jäger bewegt … Überraschend sicher ist sein
-ganzes Austreten … Ein Kellner — — man staunt …
+ganzes Auftreten … Ein Kellner — — man staunt …
 
-Und — wie genau er sich in dieser pfadlosen Firma zu
-polternder — — erstaunlich!!
+Und — wie genau er sich in dieser pfadlosen Dickung zurechtfindet
+— — erstaunlich!!
 
 Freilich, Harald hat ja schon gesagt, daß Joe Billwaker
 uns noch allerlei Rätsel aufgeben wird! Das stimmt —
 das stimmt! Ich bin jetzt schon überzeugt, daß dieser Mann
-früher etwas anderes gewesen sein muß
+früher etwas anderes gewesen sein muß …
 
-Wieder eine größere Lichtung …, Jenseits der Bäume
-drüben ein langgestreckter Felsenhügel … — Und dort oben
-glühen drei rote flimmernde Pünktchen —« Lagerfeuer,
+Wieder eine größere Lichtung … Jenseits der Bäume
+drüben ein langgestreckter Felsenhügel … Und dort oben
+glühen drei rote flimmernde Pünktchen — Lagerfeuer,
 fraglos!
 
 Harst ruft unseren Führer leise an …
@@ -2003,9 +2006,9 @@ Der dreht sich um …
 
 »Mr. Harst, Sie wünschen?« …
 
-Wir sicher neben einem einzelnen Dschingar-Baum …-
-Huf Deutsch: Baum des Gestanks! Und das stimmt. Die«
-geborgen lanzettsörmigen Blätter »duften« wie ein Meterweit
+Wir stehen neben einem einzelnen Dschingar-Baum …
+Auf Deutsch: Baum des Gestanks! Und das stimmt. Die
+klebrigen lanzettförmigen Blätter »duften« wie ein Rieselfeld
 …
 
 »Bevor wir Thomas Orlingtons Lager beschleichen, ein
@@ -2014,12 +2017,12 @@ paar Fragen …« sagt Harald …
 »Bitte, Mr. Harst …«
 
 Wir schienen die Schleier hoch, denn jegliches Getier
-Büfett die Nähe eines Dschingar … Zu Tausenden kleben
-Spitze kleinen Insekten an seinen Blättern … Der Gestank
+flieht die Nähe eines Dschingar … Zu Tausenden kleben
+die kleinen Insekten an seinen Blättern … Der Gestank
 hat für nur sein Gutes,
 
-Wirt Besitzer uns nebeneinander aus eine Luftwurzel des
-Haus Der Mond Erscheint uns …
+Wir setzen uns nebeneinander auf eine Luftwurzel des
+Baumes. Der Mond bescheint uns …
 
 <@pagebreak/>
 »Billwaker, wer sind Sie?« fragt Harald. »Oder besser:
@@ -2028,64 +2031,62 @@ kamen? Gewiß — Ihre Papiere als Joe Billwaker sind
 tadellos in Ordnung … Aber Papiere und Zeugnisse kann
 man kaufen oder erben …« …
 
-»Allerdings, Mr. Harst, das kann nun,« nicht der
+»Allerdings, Mr. Harst, das kann man,« nickt der
 Rätselhafte, sichert seine Pistole und steckt sie in die Tasche …
-»Sie gestatten, daß ich rauche .-… Ich bin sehr empfindlich
+»Sie gestatten, daß ich rauche … Ich bin sehr empfindlich
 gegen schlechte Gerüche … Auf meinem elterlichen Schlosse
-an Schottland ging ich jedem Düngerhaufen aus dem
-
-ge«
+in Schottland ging ich jedem Düngerhaufen aus dem
+Wege …«
 
 Er schneidet einer Zigarre umständlich die Spitze ab …
 
 »Ich bin der dritte Sohn Lord Hastings, Mr. Harst …«
 erklärt er dann. »Also Sir Archibald Hasting, Mr. Harst
-… — … von meiner Familie vor drei Jahren als Vierundzwanzigjähriger
+… von meiner Familie vor drei Jahren als Vierundzwanzigjähriger
 verstoßen … Ich hatte heimlich ein armes
-einfaches Mädchen geheiratet Tochter eines Hotelportier?
-aus London …
+einfaches Mädchen geheiratet. Tochter eines Hotelportiers
+aus London …«
 
 Ich bin starr …
 
-Ich habe noch nie einen Mann sein Schlaf mit diese:
+Ich habe noch nie einen Mann sein Schicksal mit dieser
 Gelassenheit erzählen hören …
 
 »Sie kennen ja wohl den Stolz und den Hochmut des
-schottischen Erbadels, Mr. Harst … Meine Familie zeichne!
+schottischen Erbadels, Mr. Harst … Meine Familie zeichnet
 sich in dieser Beziehung noch besonders aus … Jedenfalls
-mußte ich mich na; einem Erwerb umsehen. Mein
+mußte ich mich nach einem Erwerb umsehen. Mein
 Schwiegervater besorgte mir die Papiere Joe Billwakers,
-und Jenny und ich gingen nun Bombay …
+und Jenny und ich gingen nach Bombay …
 
 »So befindet sich Ihre Gattin noch in Bombay, Sir
 Hasting?«
 
 »Bitte — nicht Hasting … Ich bin Joe Billwaker …
-… I, meine Frau wohnt in Bombay … Da aber so
-Billwaker unverheiratet war, mußten Jenny und ich sei
-Vorsichtig sein. Wir haben uns trotzdem täglich gesehen
-Jenny hat eine Plättstube in der sollten-Street unweit des
+… Ja, meine Frau wohnt in Bombay … Da aber Joe
+Billwaker unverheiratet war, mußten Jenny und ich sehr
+Vorsichtig sein. Wir haben uns trotzdem täglich gesehen.
+Jenny hat eine Plättstube in der Goldon-Street unweit des
 Esplanade …«
 
 »Und — Sie leben glücklich?«
 
 <@pagebreak/>
-»Sehr gräflich, Mr. Harst … wir haben ein reizendes
+»Sehr glücklich, Mr. Harst … wir haben ein reizendes
 Kindchen, und das zweite wird nicht mehr lange auf sich
 warten lassen … Unser Glück wäre vollkommen, wenn wir
-uns eine Franzose laufen Körnlein, dann ich bin leidenschaftlicher
+uns eine Plantage laufen könnten, denn ich bin leidenschaftlicher
 Naturfreund und Jäger …«
 
-»Das merkt man … duitlitiict Stück ein guter Schüsse?«
+»Das merkt man … Natürlich auch ein guter Schütze?«
 
-»Ich könnte als Kunstschüpe auftreten, Mr. Harst
-
+»Ich könnte als Kunstschütze auftreten, Mr. Harst
 Ich habe als Zwanzigjähriger in Afrika Löwen erlegt, habe
 … — aber das interessiert Sie nicht …«
 
-»» Wie haben Sie in Bombay gestern nachmittag nach.
+»Wie haben Sie in Bombay gestern nachmittag nach
 Ihrer Flucht festgestellt, daß Orlington und James den
-Flugplatz aussuchen würden?«
+Flugplatz aufsuchen würden?«
 
 »Durch einen Zufall, Mr. Harst …«
 
@@ -2094,33 +2095,33 @@ Spitzbärtige Orlington war?!«
 
 »Das habe ich erst hier erfahren, Mr. Harst … Sie
 können sich denken, wie überrascht ich hierüber war …
-Ein Milliardär ein Dieb — Anlaß bar — unveriständlicy!«
+Ein Milliardär ein Dieb — unfaßbar — unverständlich!«
 
-»Genau so gebt’s mir, Mr. Billwaker …« sagte ich
+»Genau so geht’s mir, Mr. Billwaker …« sagte ich
 freundlich. »Harst allerdings durchschaut die Dinge besser.«
 
-Archibald Hasting blickte Harald von der Seite an
+Archibald Hasting blickte Harald von der Seite an …
 
-»Oh — da bin ich wirklich neugierig, Mr. Harst
+»Oh — da bin ich wirklich neugierig, Mr. Harst …
 Neugier ist sonst nicht gerade meine Schwäche …«
 
-»Das nehme ich an … Sie haben eine bewunders-werte
-A! 1ieklärtheit …«
+»Das nehme ich an … Sie haben eine bewundernswerte
+Abgeklärtheit …«
 
 »Was im Blute liegt, Mr. Harst … Der schottische
-Adel ist seit Jahrhunderten durch Inzucht immer mehr he.
-generiert, Wie gerade ich mit so vernünftigen unsicher uj
+Adel ist seit Jahrhunderten durch Inzucht immer mehr degeneriert.
+Wie gerade ich mit so vernünftigen Ansichten auf
 die Welt kommen konnte, ist mir schleierhaft — gänzlich
-schleierhaft …
+schleierhaft …«
 
-Wir wußten laden … Dieser Archibald war ein Unsinn,
+Wir mußten lachen … Dieser Archibald war ein Unikum,
 aber überaus sympathisch …
 
-»Sind Sir eifersüchtig?« fragte Harald dann ganz
-unverwiwlt …
+»Sind Sie eifersüchtig?« fragte Harald dann ganz
+unvermittelt …
 
-»Ii — sehr »Schritt im könnte es sein! Sie
-der hv; »in seinen um Dr
+»Ja — sehr …! Das heißt ich könnte es sein! Bisher
+gab es keinen Grund dazu …«
 
 <@pagebreak/>
 »Nehmen Sie dann einmal folgenden Fall an … —
@@ -2137,55 +2138,54 @@ Und ich jetzt: »Das hat Frau Wera Dir auf dem Balkon
 eingestanden, Harald …!«
 
 »Ja — das hat sie! Hat aber auch sofort hinzugefügt,
-daß diese Ich«&wärmerei längst vorüber und daß sie die
+daß diese Schwärmerei längst vorüber und daß sie die
 innige Liebe ihres Mannes ebenso aufrichtig erwidere …«
 
 Archibald Hasting rief nun:
 
-»Wir’… wird alles klar … Orlington fürchtete,
+»Mir … wird alles klar … Orlington fürchtete,
 daß seine Frau sich von ihm jetzt abwenden könnte, nachdem
 Tschergin durch die Familienkleinodien reich geworden …«
 
 »So ist’s … So muß es sein … Thomas Orlington
 ist ein Mann der Tat. Er gewann James für seine Pläne
-
-Er hörte von James, daß ich mitteilen würde, die …«
+… Er hörte von James, daß ich mithelfen würde, die …«
 
 Hasting wurde lebhaft …
 
-Und um den wahren Sachverhalt zu verschleiern,
-räumte Orlington noch den Wandtresor aus …
+»… Und um den wahren Sachverhalt zu verschleiern,
+räumte Orlington noch den Wandtresor aus …«
 
-»Ja … Und hatte Pech), verlor den Schlüssel … —. Der
+»Ja … Und hatte Pech, verlor den Schlüssel … Der
 Schlüssel war auch für mich der Schlüssel dieses Geheimnisses
 … — Also Angst, seine Frau zu verlieren, trieb
 Orlington zu dieser Torheit … Eifersucht machte ihn blind
 … Eifersucht entschuldigt vieles … Nur Schraut und mich
 hätte er nicht so rabiat behandeln sollen …«
 
-»zierlich — der Tigerkäfig war eine … Ungehceuer-lichkeit,
+»Freilich — der Tigerkäfig war eine … Ungeheuerlichkeit,
 »Mr. Harst! Wie denkt Orlington sich wohl den
-Ausgang »der Sache?!«
+Ausgang der Sache?!«
 
 »Das weiß ich nicht … Er wollte uns drei Tage
 gefangen halten … was dann geworden wäre — mir
-unklar! Jedenfalls sollte zunächst Firnis Tschergin arm
-bleiben, damit Frau rudern nicht etwa dachte, sie könnte nun
-Fürstin Tschergin, geschiedene: Orlington, werden … Wie
+unklar! Jedenfalls sollte zunächst einmal Tschergin arm
+bleiben, damit Frau Wera nicht etwa dachte, sie könnte nun
+Fürstin Tschergin, geschiedene Orlington, werden … Wie
 <@pagebreak/>
-der Milliardär sich jedoch mit Schraut und mir auseinander-zusehen
+der Milliardär sich jedoch mit Schraut und mir auseinanderzusetzen
 gedenkt — — eine Preisfrage!«
 
 Wir schwiegen eine Weile …
 
-Um uns her die Dschungellichting … Drüben arm
+Um uns her die Dschungellichtung … Drüben am
 Felsenhügel die glühenden Pünktchen …
 
-Dann wieder Harald: »Ich werde Orlington fest in
-seinem Jagdlager aussuchen … Ich werde ihm beweisen,
+Dann wieder Harald: »Ich werde Orlington jetzt in
+seinem Jagdlager aufsuchen … Ich werde ihm beweisen,
 daß Frau Wera auch mit dem Herzen sein ist … In Frau
-Weras Interesse werde im Nachsicht üben … Schließlich
-war ja das Käsigabcnteuer eine Abwechslung …«
+Weras Interesse werde ich Nachsicht üben … Schließlich
+war ja das Käfigabenteuer eine Abwechslung …«
 
 »Auch für mich!« nickte Sir Archibald … »Immerhin
 — ich rate zur Vorsicht, Mr. Harst … Ob Orlington an
@@ -2197,29 +2197,27 @@ Schlamm geschoben …«
 wiederhole, was seine Frau mir auf dem Balkon sagte,
 wird er vernünftig werden …«
 
-Hm … 2?!« machte Sir Hasting zweifelnd. »Ich bin
-
+Hm …?!« machte Sir Hasting zweifelnd. »Ich bin
 anderer Ansicht … Orlington wird seine Teilnahme an
 diesem doppelten Diebstahl und an diesem »Morde« niemals
-zugeben … Selbst dann nicht, wenn Sie ihm der«-
-
-gesprochen, die Sache totzuschweigen — selbst dann nicht! Bedenken
+zugeben … Selbst dann nicht, wenn Sie ihm versprechen,
+die Sache totzuschweigen — selbst dann nicht! Bedenken
 Sie, Mr. Harst: die Polizei ist doch hinter mir
 her!! Wie soll ich denn rehabilitiert werden, wenn all das
 Seltsame in Dunkel gehüllt bleibt …!«
 
 »Dafür lassen Sie nur mich sorgen …! — Brechen
-wir auf … In der Nähe des Laac1iplatzes bleiben Sie und
-Schraut zurück … Das ist Schuß genug für mich …
+wir auf … In der Nähe des Lagerplatzes bleiben Sie und
+Schraut zurück … Das ist Schutz genug für mich …
 Sollte Orlington wider Erwarten sich starrköpfig zeigen,
 sollte er etwa an mir sich nochmals vergreifen wollen, so
-werde ich ihn durch) den Hinweis aus S:e und Schraut
+werde ich ihn durch den Hinweis auf Sie und Schraut
 schon umstimmen … — Gehen wir also …«
 
 Wir gingen …
 
 … Ich mit dem unklaren Gefühl, daß wir erst am Beginn
-nachts böserer Dinge ständen …
+noch böserer Dinge ständen …
 
 <@pagebreak/>
 
