@@ -78,7 +78,7 @@ Wir lesen die noch frischen Zeilen — — deutsch …
 
 > »Herr Harst, ich biete Ihnen 10&nbsp;000 Pfund, wenn
 Sie sofort Bombay verlassen. Sofort …! — Glauben
-Sie mir, daß ich von der Familie Orligow keinen Tropfen
+Sie mir, daß ich von der Familie Oligow<@refnote 2/> keinen Tropfen
 Blut vergossen habe. Mein Ehrenwort darauf. Mischen
 Sie sich nicht in Dinge, die Ihnen nur gefährlich werden
 können — nicht von meiner Seite! Genau wie Sie mich
@@ -201,7 +201,7 @@ lernen … Außerdem hält ein falschen Bart auf Bartstoppeln
 sehr schlecht …«
 
 Nach einer Viertelstunde waren die beiden Holländer
-Hoonler<@refnote 2/> und Schreetjen fix und fertig …
+Hoonler<@refnote 3/> und Schreetjen fix und fertig …
 
 Gingen die Veranda hinab, bogen links ein …
 
@@ -525,7 +525,7 @@ man ihn zu etwas zwingen …«
 
 »Bravo …!«
 
-»Vielleicht lebt noch ein Mitglied der Familie Orligow
+»Vielleicht lebt noch ein Mitglied der Familie Oligow
 in Gefangenschaft, irgendwo … Und Urtschoff soll entweder
 den Ort angeben, wo der Gefangene weilt, oder gar dessen
 Freilassung erwirken …«
@@ -719,7 +719,7 @@ Und sinnend schaue ich hinüber …
 Dann … kommt mir die Erleuchtung … Harald
 hat gesagt, daß ich beinahe die Wahrheit getroffen hätte
 — beinahe … das noch lebende und gefangene Mitglied
-der Familie Orligow kann vielleicht dort unter dem Zementboden
+der Familie Oligow kann vielleicht dort unter dem Zementboden
 des Kranichhauses stecken … Es kann da eine gemauerte
 unterirdische Zelle geben … kann … Der dicke
 Baumstumpf mit seinen Astresten zum Beispiel ist in den
