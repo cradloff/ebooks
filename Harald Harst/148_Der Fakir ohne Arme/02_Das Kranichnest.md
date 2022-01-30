@@ -78,7 +78,7 @@ Wir lesen die noch frischen Zeilen — — deutsch …
 
 > »Herr Harst, ich biete Ihnen 10&nbsp;000 Pfund, wenn
 Sie sofort Bombay verlassen. Sofort …! — Glauben
-Sie mir, daß ich von der Familie Orligow seinen Tropfen
+Sie mir, daß ich von der Familie Orligow keinen Tropfen
 Blut vergossen habe. Mein Ehrenwort darauf. Mischen
 Sie sich nicht in Dinge, die Ihnen nur gefährlich werden
 können — nicht von meiner Seite! Genau wie Sie mich
@@ -230,7 +230,7 @@ Frau Wera war schön … Gerade diese blonden
 Russinnen mit den melancholischen Augen sind ein Frauentyp,
 der jeden besticht …
 
-Sie lehnte zwanglos und mit vornehmer Ruhe in den
+Sie lehnte zwanglos und mit vornehmer Ruhe in dem
 tiefen Korbsessel … Sie musterte uns mit einem halben
 Lächeln … Unsere Masken schienen ihr Interesse wachzurufen.
 
@@ -408,7 +408,7 @@ glitt über Haralds Züge …
 Frau Orlington aber fuhr fort:
 
 »Ich habe bereits alles für Ihren Auftrag vorbereiten
-Lassen, Herr Harst. Die Villa neben der Urtschoffs ist ein
+lassen, Herr Harst. Die Villa neben der Urtschoffs ist ein
 Fremdenheim, das vornehmste Bombays … Von den nach
 Osten zu gelegenen Zimmern im zweiten Stock kann man
 Urtschoffs Grundstück bequem überblicken. Wenn Sie und
@@ -1039,7 +1039,7 @@ andere wurde durch eine kleine, am Balkongitter festgebundene
 Rolle gezogen und ebenfalls nach unten geworfen.
 
 Ich kletterte flink hinab, hißte die Strickleiter mit Hilfe
-eines Bindfadens empor und schlang diesen so um einen
+des Bindfadens empor und schlang diesen so um einen
 Strauch, daß er nicht bemerkt werden konnte.
 
 Bereits um drei Viertel zwölf kauerte ich an der Ostecke
@@ -1191,7 +1191,7 @@ Harst hob die Rechte, spreizte den Zeigefinger ab …
 Auf dem Sitzbrett war nichts als ein Stückchen Goldpapier
 und ein brauner Strich zu bemerken …
 
-»Nichts …!« erwiderte im … »Nichts sehe ich …!«
+»Nichts …!« erwiderte ich … »Nichts sehe ich …!«
 
 »Und das Stückchen Goldpapier?«
 
@@ -1340,7 +1340,7 @@ Packt das Obergewand des Fakirs …
 
 Reißt es herab …
 
-Oben in den Seiten ein gellender Schrei … Oben
+Oben in den Ästen ein gellender Schrei … Oben
 auf der Plattform aus Ästen vor der Hütte steht zusammengeduckt,
 wie sprungbereit, des Fakirs Tochter …
 
@@ -1420,7 +1420,7 @@ Brüder, die damals doch dem Blutbade entgingen … Weras
 Mutter war die Schwester meines Vaters … Die Familienjuwelen
 hatte Urtschoff hier in dem Nest der …«
 
-»… Der beiden Kraniche versteckt, — das weiß ich,
+»… der beiden Kraniche versteckt, — das weiß ich,
 Fürst … Und ich war’s, der den kostbaren Sack von dort
 raubte — für Frau Orlington … Dieser Kollege aber schlug
 Schraut und mich nieder und …«
@@ -1459,7 +1459,7 @@ Salon Frau Orlingtons …
 Dort saßen Wera und Urtschoff am Frühstückstisch …
 
 Der Generalkonsul erhob sich, lächelte ein wenig verlegen
-und meinte: …
+und meinte:
 
 »Ich habe mit meinen Landsleuten Frieden geschlossen,
 Herr Harst … Ich wollte die Familienkleinodien herausgeben
@@ -1482,7 +1482,7 @@ Urtschoff zu richten:
 »Gestern abend wurde doch ein sehr schwerer großer
 Koffer in Ihre Villa geschleppt …?!«
 
-»Ja, Herr Schraut … Es waren Aktienbündel aus
+»Ja, Herr Schraut … Es waren Aktenbündel aus
 dem Konsulat darin … Was glaubten Sie?«
 
 »Hm — ehrlich: ich fürchtete, Harald sei in dem Koffer
