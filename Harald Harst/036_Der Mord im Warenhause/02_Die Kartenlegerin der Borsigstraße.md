@@ -2,7 +2,7 @@
 
 <h1>Die Kartenlegerin der Borsigstraße.</h1>
 
-<h2>1.Kapitel.</h2>
+<h2>1. Kapitel.</h2>
 
 Wir saßen zu dreien morgens am Kaffeetisch auf der nach
 dem Garten hinausgehenden Veranda des Harstschen Hauses.
@@ -13,7 +13,7 @@ sechs Tagen wieder in die Arme schließen dürfen. Die Jagd
 nach den Edelsteindieben Mautley und Bickpool hatte uns ja
 von Indien nach Berlin zurückgeführt. Auch ich, Harsts
 Privatsekretär und Freund, war von Frau Auguste mit mütterlicher
-Herzlichkeit empfangen worden. —
+Herzlichkeit empfangen worden.
 
 Wie schön war’s doch in der Heimat! Wie schön in dem
 alten, behaglichen Hause in der Blücherstraße in Berlin-Schmargendorf!
@@ -68,7 +68,7 @@ Harst winkte mir, und wir gingen nach vorn in sein Arbeitszimmer.
 
 Dort saß Herr Juwelier Siegfried Löwenstein, ein vertrocknetes,
 kleines Männchen, mit sehr verlegenem Gesicht im
-Klubsessel schnellte sofort hoch und haspelte folgendes herunter:
+Klubsessel, schnellte sofort hoch und haspelte folgendes herunter:
 
 »Entschuldigen Sie schon, Herr Harst, daß ich Sie belästige.
 Man rennt aber doch nicht jeder Kleinigkeit wegen
@@ -122,7 +122,7 @@ der Frau vorgeschlagen, mit in meine Wohnung zu kommen.
 Ich würde die Steine genau untersuchen und ihr dann ’n anständjen
 Preis zahlen, wenn sie wirklich echt wären. — Sie
 kam auch mit. In zehn Minuten waren wir einig. Ich gab
-ihr 8500 Mark, und sie war zufrieden und ging. Beim Abendbrot
+ihr 3500 Mark, und sie war zufrieden und ging. Beim Abendbrot
 erinnerte mich meine Tochter dann an den Zeitungsartikel
 über den Mord im Warenhause. Da kriegte ich ’n bösen
 Schreck! Ich dachte mir: womöglich hast Du ’n paar von den
@@ -239,7 +239,7 @@ ging zur Tür, öffnete sie, wollte hinaus.
 »Herr Löwenstein — auf ein Wort bitte,« sagte Harald
 da und erhob sich. »Nehmen Sie wieder Platz. Was ich mir
 hier soeben und Ihnen erlaubt habe, war kein unziemlicher
-Scherz, sondern lediglich eine Probe aus Ihren Charakter.
+Scherz, sondern lediglich eine Probe auf Ihren Charakter.
 Sie sind mir gänzlich unbekannt. Ich mußte mir
 doch also zunächst über Ihre Denkungsart Aufschluß verschaffen,
 bevor — bevor ich Ihnen die dritte Möglichkeit — und
@@ -292,7 +292,7 @@ mit sich führt, als sie — gerade einem als recht bekannten Juwelier
 gegenübersitzt, dessen Aufmerksamkeit sie dann recht
 plump auf diese Steine lenkt. — Nein, dieser Zufall ist zu
 seltsam, als daß man daran glauben könnte, zumal die Frau
-Ihnen nachher einen falschen Namen angibt und sich hütet
+Ihnen nachher einen falschen Namen angibt und sich hütet,
 ihr Gesicht sehen zu lassen.«
 
 »Hm,« meinte Löwenstein nachdenklich, »diese Ihre
@@ -338,7 +338,7 @@ Wir begleiteten ihn bis an die Gitterpforte des Vorgartens.
 »Vor anderthalb Jahren hatte ich hier als Gegenüber nur
 einen Holzzaun,« meinte Harst seufzend. »Jetzt, Herr
 Löwenstein, hat man mir da fünf vornehme Mietskasernen vor
-die Nase gesetzt — scheußlich!.«
+die Nase gesetzt — scheußlich!«
 
 Der Juwelier packte plötzlich Haralds Arm.
 
@@ -351,14 +351,14 @@ der schwarzen Mantille und dem unglaublichen Hut —«
 Tatsächlich: Da stand schräg gegenüber unserem Hause
 eine weißhaarige Frau vor der Eingangstür eines der Mietpaläste!
 Und — dieses ärmlich gekleidete Weiblein hinkte nun
-die vier Stufen zu jener Hausflur empor und verschwand
+die vier Stufen zu jener Haustür empor und verschwand
 im Flur.
 
 Harst sagte schnell: »Starren Sie nicht so auffällig hinüber,
 Herr Löwenstein. Gehen Sie nur getrost heim. Das
 Weib dort werden wir schon erledigen.«
 
-Er gab dem Juwelier die Hand und gleich darauf schritt
+Er gab dem Juwelier die Hand, und gleich darauf schritt
 unser Gast der nächsten Straßenbahnhaltestelle unweit des
 Ringbahnhofs Schmargendorf zu.
 
@@ -374,7 +374,7 @@ Geschichte wird jetzt immer spannender —«
 Wir lauerten hinter den Gardinen zwei volle Stunden.
 Das Weiblein erschien nicht. Nur ein paar andere Leute verließen
 das betreffende Haus, auch drei Frauen. Aber von
-diesen Frauen glich auch nicht eine her weißhaarigen Alten.
+diesen Frauen glich auch nicht eine der weißhaarigen Alten.
 
 Dann gingen wir zu dem Portier der Mietskaserne. Harst,
 den der Mann sofort erkannte, hatte nach wenigen Fragen
@@ -391,7 +391,7 @@ unbekannt gewesen. Sie hatte ihr nachgeschaut, weil die
 Fremde so sehr stark nach Parfüm roch.
 
 Auch wir hatten diese Dame gesehen. Sie hatte ein in
-Packpapier eingeschnürtes länglich-rundes Bündel in der Linken
+Packpapier eingeschnürtes, länglich-rundes Bündel in der Linken
 <@pagebreak/>
 gehabt und war in ein blaues Kostüm gekleidet gewesen,
 hatte dazu einen kleinen englischen Strohhut getragen und
@@ -423,7 +423,7 @@ Harald wieder stehen und fragte:
 Er deutete auf die eine der Stufen, die hier keine Läufer
 mehr hatten, kniete nieder und beroch das Holz.
 
-»Bitte überzeuge Dich,« sagte er und richtete sich auf.
+»Bitte — überzeuge Dich,« sagte er und richtete sich auf.
 »Hier hat die Frau sich parfümiert. Ein paar Tropfen sind
 vorbeigespritzt. — Oh — es ist eine ganz Geriebene, diese
 Blonde! Das Parfüm sollte sie uns unkenntlicher machen!
@@ -431,13 +431,13 @@ Blonde! Das Parfüm sollte sie uns unkenntlicher machen!
 
 Gleich darauf standen wir in seinem Arbeitszimmer am
 Fenster und besichtigten den Hut, den Harst scherzend mit
-»Kiepe<@refnote 2/>« bezeichnete.
+»Kiepe<@refnote 3/>« bezeichnete.
 
 Doch — die Kiepe verriet nichts — nichts! Sie hatte
 zwar ein Futter, aber ohne Firmenaufdruck.
 
 Harst schloß den Hut weg. »Vielleicht brauchen wir ihn
-noch gelegentlich.« meinte er und lächelte dazu.
+noch gelegentlich,« meinte er und lächelte dazu.
 
 »Du hast doch etwas gefunden, das —« — Er ließ mich
 nicht aussprechen.
@@ -450,18 +450,19 @@ mir’s ja doch vorenthalten mit seiner unausrottbaren Sucht,
 Geheimniskrämerei zu treiben. —
 
 <@pagebreak/>
-So begann für uns das Problem das ich »Die Kartenlegerin
+So begann für uns das Problem, das ich »Die Kartenlegerin
 der Borsigstraße« betitelt habe. Weshalb — das wird
 der Leser sehr bald sehen. Ich bitte ihn nur jetzt schon, sich
 alle Einzelheiten des Vorausgegangenen genau einzuprägen
 und ebenso genau auf die folgenden zu achten, denn diese
-»Kartenlegerin« gehört zu den verwickeltsten Fällen die Harald
+»Kartenlegerin« gehört zu den verwickeltsten Fällen, die Harald
 Harst je zu bearbeiten und die er doch bereits im
 Anfangsstadium in der Hauptsache lediglich auf Grund allerfeinster
 Geistesarbeit durchschaut hatte. —
 
 Harst hatte die Kiepe verwahrt, kehrte nun zu mir an das
 Fenster zurück und legte mir die Hand leicht auf die Schulter.
+
 »Die Frau mit den »ererbten« Diamanten und den
 verarbeiteten, aber schön geformten Händen und die Besitzerin
 der Kiepe dürften ein und dieselbe Person sein, mein Alter,«
@@ -484,12 +485,12 @@ so tadellos eine Greisin darstellt und fünf Minuten drauf eine
 schicke junge Dame, ist als Gegnerin nicht zu verachten. Wir
 werden jetzt zunächst zu Löwenstein nach der Invalidenstraße
 fahren. Ich möchte ihn noch einiges fragen. Vielleicht hat
-er doch noch mehr Einzelheiten an der Person festgestellt
+er doch noch mehr Einzelheiten an der Person festgestellt,
 ähnlich der von dem rissigen Zeigefinger, der doch auf gröbere
 Hausarbeit hindeutet und unsere Gegnerin in solidere Kreise
 einreiht. Sie gehört sicherlich nicht zu den gewerbsmäßigen
 Hochstaplerinnen und ähnlichen »Damen«, da diese Sorte sich
-schwer hütet die Hände zu einer Arbeit zu rühren, bei der
+schwer hütet, die Hände zu einer Arbeit zu rühren, bei der
 die Fingerchen leiden. Ja — ich wiederhole: diese Verschleierte
 verkaufte die Diamanten aus Not, aus Geldmangel, denn
 <@pagebreak/>
@@ -591,7 +592,7 @@ Stimme:
 
 »Wenn Sie beide mir ehrenwörtlich versichern, nicht um
 Hilfe zu rufen, nehme ich Ihnen die Knebel ab. Sie dürfen
-auch nur flüsternd mit mir verhandeln und missen sich nachher
+auch nur flüsternd mit mir verhandeln und müssen sich nachher
 die Knebel wieder in den Mund schieben lassen.«
 
 Ich fühlte, daß Harst eifrig nickte. Ich bekundete daher
@@ -625,7 +626,7 @@ viel bewegen!
 
 »Wie gesagt,« fügte der Schnapsduftende hinzu, »wenn
 Sie nicht tun, was meine Auftraggeberin verlangt, lasse ich
-Sie hier so lange stellen, bis Sie vor Ermüdung von der Kiste
+Sie hier so lange stehen, bis Sie vor Ermüdung von der Kiste
 fallen und dann — Ihr eigenes Todesurteil sprechen! Glauben
 Sie nicht, daß wir umsonst drohen. Für uns steht hier
 zu viel auf dem Spiel!«
@@ -663,7 +664,7 @@ dieser leeren Wohnung zur Zeit uns erzwungenerweise
 aufhalten. Ich durchschaue auch das ziemlich kecke
 Räuberstückchen, dem wir zum Opfer fielen. Die, die mich
 und Schraut telephonisch zu Löwensteins bestellte, ist ebensowenig
-Frau Löwenstein gewesen, wie die Frau, die uns dann
+Frau Löwenstein gewesen wie die Frau, die uns dann
 dort empfing und uns den Malaga so vollendet harmlos aufdrängte.
 Frau Löwenstein und ihre Tochter wird man durch
 einen ähnlichen Schwindel vorher aus der Wohnung entfernt
@@ -717,12 +718,12 @@ Wir schlüpften in die Stiefel und gingen.
 
 <h2>3. Kapitel.</h2>
 
-Es war ½ 1 Uhr morgens, als uns ein Auto dann vor
+Es war ½1 Uhr morgens, als uns ein Auto dann vor
 Blücherstraße 10 absetzte. Harst hatte bisher hartnäckig
 geschwiegen. Erst als wir in seinem Arbeitszimmer saßen und
 die Kaffeemaschine vor uns auf dem Tische summte, als ich
 aus der Speisekammer allerlei gute Sachen geholt hatte und
-wir unseren knurrenden Wagen etwas zukommen ließen,
+wir unseren knurrenden Mägen etwas zukommen ließen,
 meinte er:
 
 »Schade, daß wir das Weib unbehelligt lassen müssen. Ich
@@ -744,8 +745,8 @@ ich suche sie Dir heraus. Da — bitte, hier ist der Artikel.«
 
 Da stand:
 
-> Ein geheimnisvoller Selbstmord und das Verschwinden einer
-bekannten Kartenlegerin.
+<p class="centered strong">Ein geheimnisvoller Selbstmord und das Verschwinden einer
+bekannten Kartenlegerin.</p>
 
 > Vor drei Tagen, also am 18. Mai, ließen die Bewohner
 des Gartenhauses Borsigstraße 221 abends vom Polizeirevier
@@ -754,7 +755,7 @@ der dort im Erdgeschoß rechts wohnenden Witwe Anita
 Paszenski geöffnet würde. Seit dem 11. Mai hatte niemand
 <@pagebreak/>
 die Paszenski und ihren Aftermieter, den unverehelichten
-Musiker Friedrich Reinke gesehen. Niemand hatte auch irgend
+Musiker Friedrich Reinke, gesehen. Niemand hatte auch irgend
 ein Geräusch in der aus zwei Stuben bestehenden Wohnung
 der Paszenski gehört.
 
@@ -805,7 +806,7 @@ ihm gehörigen Dinge von Wert verschwunden sind.
 > Über die Paszenski konnten die Hausbewohner mancherlei
 angeben. Sie ist polizeilich als Opernsängerin gemeldet,
 lebte aber lediglich von ihren Einnahmen als Kartenlegerin.
-Sie wohnte im Gartenhause Nr. 221 seit 1 ¾ Jahren. Zunächst
+Sie wohnte im Gartenhause Nr. 221 seit 1¾ Jahren. Zunächst
 hatte sie nur wenig Kundschaft. Sie verstand es aber,
 für sich Reklame zu machen. Es ging mit ihrem Geschäft dann
 immer besser. Sie hatte schließlich Kundinnen in den feinsten
@@ -813,14 +814,14 @@ Kreisen. Sie verlangte nie Geld für ihre etwas fragwürdige
 Kunst. Jeder gab, was er geben wollte. Und doch muß
 die Paszenski sehr viel verdient haben.
 
-> Das Zimmer in dem sie aus den Karten Vergangenheit
+> Das Zimmer in dem sie aus den Karten Vergangenheit,
 Gegenwart und Zukunft enthüllte, war von ihr — wohl absichtlich
 — auf das ärmlichste eingerichtet worden. Die Möbel
 waren nur altes zusammengewürfeltes Gerümpel. Sie
 selbst ist jetzt ihrem polizeilichen Meldeschein nach 43 Jahre
 alt. Ihr Mann war Schauspieler, ist aber früh verstorben.
 Die Ehe war kinderlos. Die Paszenski zog von München aus
-vor 1 ¾ Jahren nach Berlin. Sie wird als etwas über mittelgroß,
+vor 1¾ Jahren nach Berlin. Sie wird als etwas über mittelgroß,
 schlank und rothaarig geschildert. Sie trug stets eine
 goldene Brille und puderte sich stark. Ihr Gesicht fiel wegen
 der dicken, geraden, dunklen Augenbrauen auf. Das rötlich-braune
@@ -832,10 +833,10 @@ lose, bunte Gewänder.
 noch ausging. Einer Hausbewohnerin hat sie anvertraut, sie
 hätte eine Anstellung als Garderobenfrau in einem Nachtlokal.
 Die Kriminalpolizei hat jedoch bereits festgestellt, daß dies
-nicht der Fall gewesen ist. Auf der Straße ging die Paszenski
+nicht der Fall gewesen ist. — Auf der Straße ging die Paszenski
 nur verschleiert und trug ganz unmoderne Sachen, die
 sie für alt irgendwo kaufte. Die Mittagsmahlzeit nahm sie
-stets außerhalb ein. Von ¼ 12 bis ½ 2 mittags war sie nie
+stets außerhalb ein. Von ¼12 bis ½2 mittags war sie nie
 daheim. —
 
 > Wir enthalten uns hier jedes Urteils, ob man dieser
@@ -862,7 +863,7 @@ Ich zuckte leicht die Achseln. »Der Redakteur hat ganz
 recht: man muß sich hier jedes Urteils vorläufig enthalten.«
 
 »So?!« Er stand auf und füllte unsere Kaffeetassen.
-»So — enthalten?! Hm nachdem jetzt erwiesen ist, daß diese
+»So — enthalten?! Hm, nachdem jetzt erwiesen ist, daß diese
 Kartenlegerin unter falscher Flagge segelte, gewinnt die Sache
 doch ein ganz anderes Aussehen.«
 
@@ -893,7 +894,7 @@ Herr Siegfried Löwenstein ein, hinter ihm Harald.
 Der alte Herr war erregt, drückte mir die Hand, begann
 sofort:
 
-»Ich habe Sie gestern um ¼ 1 Uhr mittags telephonisch
+»Ich habe Sie gestern um ¼1 Uhr mittags telephonisch
 angerufen, Herr Harst. Ihre Frau Mutter erklärte, sie hätte
 soeben eine Depesche erhalten, daß Sie beide plötzlich verreist
 seien. Wenn ich nun jetzt in der Nacht trotzdem versuchen
@@ -922,7 +923,7 @@ Regierungsbaumeister Meier oder Beier vor, und seine Gattin
 das ich suchte. Ich wollte dann noch dem anderen Paare nach,
 fand es aber nicht mehr. Außerdem ist gestern vormittag
 meiner Frau und meiner Tochter ebenfalls etwas sehr Sonderbares
-passiert. So gegen ½ 12 wurde meine Privatwohnung
+passiert. So gegen ½12 wurde meine Privatwohnung
 angerufen, angeblich vom Polizeipräsidium aus. Ein
 Kommissar Lehnert bat meine Frau und meine Tochter, sofort
 auf Kosten der Polizei im Auto nach dem Präsidium am
@@ -963,7 +964,7 @@ Strohhut herausnahm.
 
 »Vielleicht siehst Du ihn Dir nochmals an,« sagte er und
 legte ihn mir auf den Schoß. »Ich empfehle die Unterseite
-des Randes deiner Beachtung. Die Frau, von der die Diamanten
+des Randes Deiner Beachtung. Die Frau, von der die Diamanten
 verkauft wurden und die nachher eine gebückte Greisin
 spielte, hat bei alter Schlauheit eins nicht bedacht: daß
 ein Strohgeflecht wie dies da sehr leicht Haare festhält, die
@@ -1137,7 +1138,7 @@ Mautley und Bickpool weiter kümmern. Lediglich die Kartenlegerin
 als solche ist jetzt unser Jagdobjekt. Von ihr wissen
 wir, daß sie hier in Berlin wohnt. Und wir werden sie so
 suchen, daß wir dabei alles das aus unserem Gedächtnis ausschalten,
-was sie mit der Diamantenverkäuferin gemeinsam hat
+was sie mit der Diamantenverkäuferin gemeinsam hat;
 also die schönen Hände zum Beispiel! Lediglich auf Grund
 des Zeitungsberichtes und des Steckbriefs gehen wir an diese
 neue Aufgabe heran, werden also nicht wortbrüchig werden.«
@@ -1190,7 +1191,7 @@ Durchschlagskraft, die jedem Revolver gleichkommt.«
 Harst fixierte den Mann scharf, sagte dann:
 
 »Obwohl ich weiß, daß Sie nicht schießen werden, will ich
-doch tun, uns Sie wünschen. Ich bin Damen gegenüber stets
+doch tun, was Sie wünschen. Ich bin Damen gegenüber stets
 höflich.«
 
 Er nahm in der Sofaecke Platz.
@@ -1210,7 +1211,7 @@ zu Boden schaute und dann wirklich Platz nahm.
 
 In wenigen Fällen habe ich die Macht von Harsts überragender
 Persönlichkeit so deutlich gespürt wie damals in jener
-laufen Mainacht. Auch der Fremde konnte sich diesem Einfluß
+lauen Mainacht. Auch der Fremde konnte sich diesem Einfluß
 nicht ganz entziehen. Als er jetzt mit höhnischem Auflachen
 sagte: »Zum Scherzen bin ich nicht hergekommen!«
 klang das auffallend unsicher.
@@ -1246,7 +1247,7 @@ Mann ein Weib war. Sie sind niemand anderes als die Kartenlegerin
 der Borsigstraße, also auch die Diamantenverkäuferin.
 Sie sind eine Frau, die mir imponiert. Sie besitzen Erfindungsgabe,
 Energie, hohes schauspielerisches Geschick und Mut.
-Ich möchte so gern Wissen, wer je in Wahrheit sind.«
+Ich möchte so gern wissen, wer Sie in Wahrheit sind.«
 
 In der ganzen Haltung der Frau trat jetzt deutlich etwas
 wie Hilflosigkeit zu Tage. Sie ließ die Blicke unruhig
@@ -1259,7 +1260,7 @@ weicher und lebender Stimme.
 kurz, jedoch nicht unfreundlich. »Es steht Ihnen jeden
 Augenblick frei, mein Haus wieder zu verlassen. Wir werden
 Ihnen auch bestimmt nicht Nachschleichen. Ich würde Ihnen jedoch
-raten lieber uns gegenüber alles einzugestehen. Ich vermute,
+raten, lieber uns gegenüber alles einzugestehen. Ich vermute,
 daß Bickpool und Mautley die Diamanten Ihnen in
 Verwahrung gegeben haben. Diese Diamanten gehören mir.
 Der Eigentümer der Edelsteine ist tot und hat gewünscht, daß
@@ -1282,17 +1283,17 @@ zur Tür.
 Nach wenigen Minuten war Harald wieder bei mir. Wir
 trennten uns. Meine Zimmer liegen jenseits des Flurs. Als
 <@pagebreak/>
-ich gerade die Krawatte los band, erschien Harst nochmals und
-— trug in der Hand einen kleinen gelben Lederkoffer.
+ich gerade die Krawatte losband, erschien Harst nochmals und
+— trug in der Hand einen kleinen, gelben Lederkoffer.
 
 »Der Koffer stand vor meinem Bett,« sagte er. »Er enthält
 — die Diamanten. Die Frau hat ihn mir gebracht. Die
 Sache ist jetzt wieder etwas unklar geworden. Doch — darüber
 Näheres morgen.« —
 
-Ich wachte erst gegen ½ 10 Uhr auf. Als ich zum Frühstück
+Ich wachte erst gegen ½10 Uhr auf. Als ich zum Frühstück
 auf die Veranda kam, teilte mir Harsts Mutter mit,
-daß er bereits um ½ 8 das Haus verlassen hätte.
+daß er bereits um ½8 das Haus verlassen hätte.
 
 Wir saßen dann noch beim Frühstück, als er sehr eilig
 erschien.
@@ -1313,7 +1314,7 @@ Der Fall ist nun völlig geklärt. Der Prinz heiratete in München
 vor vier Jahren die englische Varietee-Soubrette Ly
 Livingstone. Er war schon damals lungenkrank. Seine Familie
 sagte sich völlig von ihm los. Seine Frau, mit der er
-in glücklichster Ehe lebte, ist seit 1 ¾ Jahren angeblich Tippdame
+in glücklichster Ehe lebte, ist seit 1¾ Jahren angeblich Tippdame
 in einem Holzgeschäft und hat den arbeitsunfähigen
 Prinzen und sich durch ihre Arbeit ernährt. Diese Arbeit war
 jedoch eine etwas andere, als Ly Livingstone die Welt glauben
@@ -1327,7 +1328,7 @@ Das Auto hielt. Harsts stieg aus. Dann durchschritten
 wir den Hof der eleganten Mietskaserne, stiegen im Gartenhause
 vier Treppen empor. Dort hing an der Flurtür einer
 Zweizimmerwohnung eine Karte mit der Aufschrift in Tinte:
-»v. Bloswick«.
+»v.&nbsp;Bloswick«.
 
 Harst läutete. Die Flurtür öffnete sich sehr bald.
 
@@ -1337,7 +1338,7 @@ Haar taumelte bei unserem Anblick zurück.
 
 Wir traten schnell ein; ich drückte die Tür zu.
 
-»Fürchten Sie nichts Frau von Bloswick,« sagte Harst
+»Fürchten Sie nichts, Frau von Bloswick,« sagte Harst
 gütig. »Wir werden Ihr Geheimnis nicht verraten. Nur ein
 paar Fragen beantworten Sie mir bitte —«
 
@@ -1354,8 +1355,8 @@ eines Morgens ihren Mieter Reinke tot aufgefunden. Sie
 fürchtete die Einmischung der Polizei und beschloß, ihr Leben
 als Kartenlegerin endgültig aufzugeben. Zur Irreführung
 der Polizei nahm sie Reinkes Wertgegenstände mit, ebenso
-den Koffer den sie nun gewaltsam erbrach. Sie ahnte, daß
-die vermißte Edelsteine sieh darin befinden würden. Ihr
+den Koffer, den sie nun gewaltsam erbrach. Sie ahnte, daß
+die vermißten Edelsteine sich darin befinden würden. Ihr
 Gatte war schwer leidend und hätte längst ein Sanatorium
 aufsuchen müssen. Um hierzu die Mittel zu beschaffen, verkaufte
 sie fünf der Steine an den Juwelier, den sie von Ansehen
@@ -1376,6 +1377,5 @@ Jahren getrost veröffentlichen. —
 Der gelbe Koffer mit den Diamanten spielte dann noch
 eine Rolle in unserem nächsten Erlebnis. Ich will es nennen:
 
-__Der Spielklub WW.__
-
+__Der Spielklub W. W.__
 
