@@ -2191,7 +2191,7 @@ schließen, mein Alter …!«
 
 Und schaute wieder auf die Skelette …
 
-»Die sind, behaupte ich, aus dem Wrack herausaehol!
+»Die sind, behaupte ich, aus dem Wrack herausgeholt
 worden,« meinte er nun. »Sind Angehörige des Greises,
 der dem Matrosen drohte …«
 
@@ -2202,23 +2202,22 @@ Ich nickte …
 »Ich habe recht … Der Greis hat die beiden Gerippe
 an besonderen Kennzeichen herausgefunden … Er muß
 Taucher sein … Er muß gewußt haben, das der Orinoko
-hier gesunken ist … Nur Ramsa Kari nun es ihm Alte
-geteilt haben. Vielleicht ist Ramsa dort ein Verwandter von
+hier gesunken ist … Nur Ramsa Kari kann es ihm mitgeteilt
+haben. Vielleicht ist Ramsa Kari ein Verwandter von
 ihm gewesen …«
 
-Nur ein Harst wird mit so verblüffender Schlösser«
-ftändlichkeit solche Schlüsse ziehen …
+Nur ein Harst wird mit so verblüffender Selbstverständlichkeit solche Schlüsse ziehen …
 
-»Es müssen Angehörige von ihm sein … fügte er
+»Es müssen Angehörige von ihm sein …« fügte er
 hinzu. »Er hat ihnen hier die kleinen Altäre errichtet …
 Er brennt Weihrauch für sie ab …«
 
 Dann bückte er sich über die Skelette, beleuchtete sie …
 
-»Tier — ein Merkmal, mein Alter … — Hier —
+»Hier — ein Merkmal, mein Alter … — Hier —
 <@pagebreak/>
-diesem Manne haben zwei Finger an der rechten Hand gestellt
-… ja — schau her …«
+diesem Manne haben zwei Finger an der rechten Hand gefehlt
+… Da — schau her …«
 
 Es stimmte …
 
@@ -2226,15 +2225,15 @@ Und wieder noch einer Weile …
 
 »Dies zweite Gerippe stammt von einer Frau … Die
 Zeugfetzen verraten es, außerdem die Backenknochen …
-die sei Frau sollen sämtliche oberen Vorderzähne …«
+dieser Frau fehlen sämtliche oberen Vorderzähne …«
 
 »Allerdings …«
 
-»Wenn der Greis ein Verwandter Namen Karis, etwa
-der Großvater gewesen ist, dann hat er auch) Kenntnis von
-bei Rerlmuüschelvbank … Und weil der Mann sich vor uns
+»Wenn der Greis ein Verwandter Ramsa Karis, etwa
+der Großvater gewesen ist, dann hat er auch Kenntnis von
+der Perlmuschelbank … Und weil der Mann sich vor uns
 verbirgt, treibt er hier Dinge, die er verheimlichen will …
-Mr werden vorsichtig sein müssen … Gehen wir …«
+Wir werden vorsichtig sein müssen … Gehen wir …«
 
 Wir kletterten zum Beiboot hinab, ruderten zum
 Kutter …
@@ -2245,80 +2244,86 @@ aus und einen anderen an …
 Halb zwei Uhr war’s, als wir wieder im Bett lagen.
 Jetzt schlief ich ein. Nichts störte uns mehr. —
 
-Mai sieben Uhr saßen wir mit Hastings beim Frühstück
+Um sieben Uhr saßen wir mit Hastings beim Frühstück
 und sprachen über unser nächtliches Erlebnis …
 
 Sir Archi ließ durch seine Inder die Klippe absuchen.
-N, höflich ohne Ergebnis. Nach dem Frühstück, als die
-Sonne die zerklüftete Beschmutzte in Besitzes Licht tauchte,
+Natürlich ohne Ergebnis. Nach dem Frühstück, als die
+Sonne die zerklüftete Felsmasse in hellstes Licht tauchte,
 suchten Harst, Hasting und ich … natürlich ohne Ergebnis.
 
 Dann begannen wir mit den Vorbereitungen für Haralds
 ersten Abstieg zum Wrack.
 
 Der Kutter wurde genau über dem Wrack verankert.
-In dem klaren Wasser sah n:an die Mensch wommenen Umrisse
+In dem klaren Wasser sah man die verschwommenen Umrisse
 des Pestschiffes … Wenn nicht ein Schleier von Wasserpflanzen
-das Wrack umgeben hätte, worden wir es noch
-verstrichen gesehen haben, —
+das Wrack umgeben hätte, würden wir es noch
+deutlicher gesehen haben, —
 
-Harald ließ sich nicht zum ersten Male den wasscrdvichien
-Taucheranzug anlegen, nicht zum er Atem Male den schweren
+Harald ließ sich nicht zum ersten Male den wasserdichten
+Taucheranzug anlegen, nicht zum ersten Male den schweren
 Kupferhelm über den Kopf stülpen …
 
 <@pagebreak/>
-Lächelnd sagte 0x noch, bevor der Helm festgeschraubt
+Lächelnd sagte er noch, bevor der Helm festgeschraubt
 wurde:
 
-»Nach mir kann Schraut hinab … Er liebt Untere
-wasserspazigrgänge …«
+»Nach mir kann Schraut hinab … Er liebt
+Unterwasserspaziergänge …«
 
-a) + + lächelte ebenfalls, nur sehr süßsauer … Denn
-wo eine unüberwindliche Abneigung gegen Taucher-nuftftüce
+Ich … lächelte ebenfalls, nur sehr süßsauer … Denn
+ich habe eine unüberwindliche Abneigung gegen
+Taucherkunststücke …
 
 Dann kletterte Harald langsam Über Bord … Die
 Strickleiter reichte fast bis zur Bordwand des Wracks, das
-völlig auf der Seite Kg.
+völlig auf der Seite lag.
 
 Wir sahen den Lichtschein der ihm vor der Brust befestigten
 Laterne in der Tiefe immer schwächer werden …
 
 Ich hielt die Signalleine … Drei Inder bedienten
-die Luftpumpe …«
+die Luftpumpe …
 
-Wir starrten ins Wasser … Wir konnten nichts exr-fennen
+Wir starrten ins Wasser … Wir konnten nichts erkennen
 … Harald mußte neben dem Wrack den felsigen
 Grund erreicht haben,
 
-Vier Pflaumen vergingen …
+Vier Minuten vergingen …
 
 Hasting hielt die Taschenuhr in der Hand …
 
 dann spürte ich an der Leine einen scharfen Ruck …
 
-Das ließ: »Gefahr! Schleunigst emporziehen …!«
+Das hieß: »Gefahr! Schleunigst emporziehen …!«
 
-ich nie] den Indern zu …
-je zogen am dem starken Tau, …
-Und brüllten grünlich:
-Kein Gewicht mehr …,!!«
-sagen … das Tat nach oder, …
-war … abgeschnitten vv …
+Ich rief den Indern zu …
+
+Sie zogen am dem starken Tau …
+
+Und brüllten plötzlich:
+
+»Kein Gewicht mehr …!!«
+
+Zogen … das Tau nach oben …
+
+Es war … abgeschnitten …
 
 Ich riß in meiner Angst um Harst an der Signalleine,
 
-Buch sie kam empor: abgeschnitten!! — ebenso der Luft
-Schlauch,
+Auch sie kam empor: abgeschnitten!! — ebenso der
+Luftschlauch,
 
-Wir oben an Deck des Kutters starrten uns aus ertötenden
+Wir oben an Deck des Kutters starrten uns aus entsetzten
 Augen an …
 
 Frau Jenny standen Tränen in den Wimpern …
-Armreif war vielleicht noch blasser als ich, …
+
+Sir Archi war vielleicht noch blasser als ich …
 
 »was … bedeutet das?!« — und er bekam die Worte
-
-kaum Bibel die Lippen …
+kaum über die Lippen …
 
 <@pagebreak/>
 Unsere Inder waren gleichfalls völlig verstört …
@@ -2328,27 +2333,27 @@ des Schlauches. Ein haarscharfes Messer hatte hier gearbeitet
 …
 
 »Ein … Überfall!« sagte ich dumpf … »Harst war
-Kranich allein dort unten … Man hat ihn angegriffen …«
+nicht allein dort unten … Man hat ihn angegriffen …«
 
 Und ich fühlte, wie mir das heiße Naß in die Augen
 stieg … Harald war verloren — war tot …!
 
-Hasting rief;
+Hasting rief:
 
 »Wenn dort noch andere Taucher unten waren, müssen
-sie auch wieder empor …! Gebt aus das Wasser rund um
+sie auch wieder empor …! Gebt auf das Wasser rund um
 den Kutter acht, Leute! Und wir, lieber Schraut, wir
-steigen ins Beiboot und suche! die Klippen ab, die dieses
-Deck!’en einrahmen!« Diners — damit die Schufte uns nicht
+steigen ins Beiboot und suchen die Klippen ab, die dieses
+Becken einrahmen! Schnell — damit die Schufte uns nicht
 entwischen …! Harst soll gerächt werden, so wahr ich
-Arckibaldv. Hasting heiße!«
+Archibald Hasting heiße!«
 
 Wir sprangen ins Boot …
 
 Sir Archis Tatkraft verscheuchte meine trostlose Schwäche,
 
-Nun — wir haben damals alles getan, das wir tun
-konnten, um die Leute abzusjangen, die diesen zeigen Mord
+Nun — wir haben damals alles getan, was wir tun
+konnten, um die Leute abzufangen, die diesen feigen Mord
 begangen hatten …
 
 Wir stellten einen Posten auf das Plateau der großen
@@ -2357,26 +2362,25 @@ Klippe …
 Wir suchten unermüdlich …
 
 Wir müßten doch wenigstens irgendwo Spuren auf den
-Rissen finden — Spuren, daß dort ein Fahrzeug gelandet
-
-an …
+Riffen finden — Spuren, daß dort ein Fahrzeug gelandet
+war …
 
 Nichts — nichts …
 
-Es wurde drei Uhr nachmittaga … Ich gab alle leise
-ganz auf. dieses Verbrechen unter Wasser drohte all
-Nase: en Bemühungen … Es blieb ein Rätsel — mehr als
-ein Stalles … Es war unfaßbar … Wenn, woran ja
-nicht zu zweifeln — ein oder mehrere Taucher, Inder natitlr-fich,
-Horcht aus diese entsetzliche Weise ermordet hatten. indem
-sie tun in seiner Auferstehung erwränfien — so waren
-diese Mörder geblieben« Sie hätten doch wieder empor
+Es wurde drei Uhr nachmittags … Ich gab alle Hoffnung
+auf. Dieses Verbrechen unter Wasser trotzte all
+unseren Bemühungen … Es blieb ein Rätsel — mehr als
+ein Rätsel … Es war unfaßbar … Wenn, woran ja
+nicht zu zweifeln — ein oder mehrere Taucher, Inder natürlich,
+Harald auf diese entsetzliche Weise ermordet hatten, indem
+sie ihn in seiner Ausrüstung ertränkten — wo waren
+diese Mörder geblieben?! Sie hätten doch wieder empor
 <@pagebreak/>
-kommen müssen aus der Tiefe — wir hätten sich sehen müssen!
+kommen müssen aus der Tiefe — wir hätten sie sehen müssen!
 
 Alle Hoffnung gab ich auf …
 
-Der Kutter lag wieder in der schmalen Sikh! Proviant …
+Der Kutter lag wieder in der schmalen Bucht vertäut …
 
 An Bord unheimliche Ruhe, bedrückte Gesichter —
 Grabesstimmung …
@@ -2386,77 +2390,76 @@ mich und weinte viel …
 
 Alle hatten Harald liebgewonnen. Er versteht es ja,
 sich die Herzen zu erobern … Er war stets noch Sieger
-in dem!Schweren Kampf, Menschenseelen zu gewinnen, die
+in dem schweren Kampf, Menschenseelen zu gewinnen, die
 vielleicht sogar in Haß seiner zunächst gedachten … Er war
-der große Zauberer, der jedes Dunkel mit dem Licht seine«
+der große Zauberer, der jedes Dunkel mit dem Licht seines
 Geistes erfüllte …
 
 Ich saß in dem Liegestuhl auf dem Achterdeck … Stierte
 ins Leere …
 
-Mein Hirn war heiß — heiß vom ewigen Grübeln
+Mein Hirn war heiß — heiß vom ewigen Grübeln …
 
-… Wenn wir nur einen zweiten Taucheranzug an Bord
+Wenn wir nur einen zweiten Taucheranzug an Bord
 gehabt hätten! Ich wäre zum Wrack hinabgestiegen …
+Ich wollte Gewißheit haben …
 
-ich wollte Gewißheit haben …
-
-Aber — ohne Ausrüstung war’s unmöglich! Respekt
-unserer Matrosen konnte tauchen, wie es etwa die Perlen.
-Taucher verstehen, die nackt in die Tiefe schießen, indem sich
+Aber — ohne Ausrüstung war’s unmöglich! Keiner
+unserer Matrosen konnte tauchen, wie es etwa die Perlentaucher
+verstehen, die nackt in die Tiefe schießen, indem sie
 sich an einem Seil festhalten, an dem ein Stein befestigt ist.
 
 Ich saß … grübelte …
 
-ah doch litt es mich nicht untätig … Ich bestieg
-
+Und doch litt es mich nicht untätig … Ich bestieg
 das Beiboot …
-Allein entfernte ich mich, umrundete die große Klirrte.
-Eine Unnütze war in mir, als ob ich einer schweren
-Krankheit entgegenginge … Ich hatte keine Hoffnung mehr
-— — … Und doch hoffte ich — Diwan so, als wenn man nach der
-Tode8änacht eines teuren Menschen erwacht und sich sagt:
-Nein — es kann nicht wahr, es muß ein Wunder geschehen
-ein, er muß; noch leben — wieder leben, …!!« …
 
-Es war nicht das erste Gut. daß ich in dieser Weise
-um Harald troic1ute, daß ich ihn für tot ge. hier … Boden
-freilich waren die Begleitumstände Turme günstiger alle bist
+Allein entfernte ich mich, umrundete die große Klippe.
+
+Eine Unruhe war in mir, als ob ich einer schweren
+Krankheit entgegenginge … Ich hatte keine Hoffnung mehr
+… Und doch hoffte ich — etwa so, als wenn man nach der
+Todesnacht eines teuren Menschen erwacht und sich sagt:
+Nein — es kann nicht wahr, es muß ein Wunder geschehen
+sein, er muß noch leben — wieder leben …!!«
+
+Es war nicht das erste Mal, daß ich in dieser Weise
+um Harald trauerte, daß ich ihn für tot gehalten … Bisher
+freilich waren die Begleitumstände immer günstiger als hier
 <@pagebreak/>
 gewesen … Denn — wie soll ein Mensch unter Wasser
-ohne Zufuhr frischer Luft weiterleben?! «= Unmöglich —
+ohne Zufuhr frischer Luft weiterleben?! — Unmöglich —
 unmöglich!
 
 Ich trieb das kleine Boot in eine Bucht der Nordseite
 der Klippe — keine Bucht, eine enge Rinne … Das Boot
 konnte gerade passieren …
 
-geh stieg an Land, Ich wollte von hier aus das Plateau
-erklettern und in den Kamin eindringen … Ein des
+Ich stieg an Land. Ich wollte von hier aus das Plateau
+erklettern und in den Kamin eindringen … Ein
 besonderer Gedanke war mir gekommen …
 
 So betrat ich denn die Felsspalte, beleuchtetes die
+Wände …
 
-na e60
+Ah — die beiden Gerippe waren noch vorhanden …
 
-Ah — die beiden Gerippe waren noch vorhanden, … «
-
-Ebenso die Süden …
+Ebenso die Götzen …
 
 Ebenso das Räucherbecken …
 
 Und — es qualmte …
 
-Würzige Rauchwölkchen See firm …
+Würzige Rauchwölkchen entstiegen ihm …
 
-Meine Augen hingen an dem schwvelenden Räucherwerk,
-das zu einem Häuschen in dem Bocken ausgeschüttet war …
+Meine Augen hingen an dem schwelenden Räucherwerk,
+das zu einem Häufchen in dem Becken aufgeschüttet war …
 
-Und — ganz frisches Räucherwerk,,! Dasjenige, was
+Und — ganz frisches Räucherwerk …! Dasjenige, was
 nachts hier geglüht hatte, war längst verkohlt …
 
-Dieses Häuschen war erst unlängst angezündet worden!
-Und — das hatte ich gekritzelten wollen — — gerade das!!
+Dieses Häufchen war erst unlängst angezündet worden!
+Und — das hatte ich feststellen wollen — — gerade das!!
 
 Denn — Jetzt war’s ja klar, daß der weißbärtige Inder
 noch Immer in der Nähe … da er hier auf der Klippe ein
@@ -2464,69 +2467,66 @@ sicheres Versteck hatte …
 
 Langsam zog ich meine Zigarrentasche hervor …
 
-legte mich aus ein Steinstück …
+Setzte mich auf ein Steinstück …
 
-Rauchte
+Rauchte …
 
 Nein — ich qualmte …
 
 Und wandte den uralten Trick an, der schon in Sherlock
-Riemen genialen Abenteuern eine Rolle spielt …
+Holmes’ genialen Abenteuern eine Rolle spielt …
 
 Ich bestreute den glatten Felsboden, der keine Spuren
 annahm, mit Zigarrenasche …
 
 Rund um die Gerippe …
 
-Drei Zigarren paßte ich in die Luft … Meine Zunge
+Drei Zigarren paffte ich in die Luft … Meine Zunge
 brannte …
 
 <@pagebreak/>
-Drei genfiaten …
+Drei genügten …
 
 dann kehrte ich zum Boote zurück …
 
-will ich mich an Bord des Kutters wieder einfand, half
-mir Sir nicht an Dr …
+Als ich mich an Bord des Kutters wieder einfand, half
+mir Sir Archi an Deck …
 
-Sagte!
+Sagte:
 
 »Lieber Schraut, wir werden hier auf der Klippe bleiben
-und den Master nach Nawqanagar schielen, den dortigen Hafen
-Bahnhof samt Yunerlisiung zu holen …«
+und den Kutter nach Nawanagar schicken, den dortigen
+Hafentaucher samt Ausrüstung zu holen …«
 
-Und ich sagte!
+Und ich sagte:
 
 »Nein, Sir Hasting, wir alle werden davonfahren …
-wenn es dunkel geworden … Tod aber werde mich in
+wenn es dunkel geworden … Ich aber werde mich in
 einiger Entfernung von der Klippe über Bord gleiten lassen
-— gar) heimlich … Ich werde die Nacht allein hier verbringen
-… Sinn Morgen können Sie wieder zurief sein
-— +. Und bis dahin hoffe ich mehr zu wissen als jetzt …
-Ich habe Asche gestreut,,!
+— ganz heimlich … Ich werde die Nacht allein hier verbringen
+… Am Morgen können Sie wieder zurück sein
+… Und bis dahin hoffe ich mehr zu wissen als jetzt …
+Ich habe Asche gestreut …«
 
-bist Ich ihm dies näher erstarrte, drückte er nur stumm
+Als ich ihm dies näher erklärte, drückte er nur stumm
 und fest meine Hand …
 
-Darin
-
-4, Kapitel,
-Der Mann, der mir den Pistolen zeigte …
+<h2>4. Kapitel.</h2>
+<h3>Der Mann, der mir den Rücken zeigte …</h3>
 
 Und wie geplant, so geschah’s …
 
-Bevor der Mond noch ausging, war ich, ein kleines
-Blinde! aus dem Kopf festgebunden, schwimmend wieder an
-der wechselte der Klippe — in dem einen Käfigs …
+Bevor der Mond noch aufging, war ich, ein kleines
+Bündel auf dem Kopf festgebunden, schwimmend wieder an
+der Nordseite der Klippe — in dem engen Kanal …
 
 Bevor ich an Land stieg, schaute ich mich vorsichtig um,
 
 Splitternackt …
 
-solch das in Tesseinwanvd gaehlilste Blinder geöffnet
-
-— « Wusch ein Hemd Über — rasch den Punkten Zhlasatzyg,
-halb die weichen Wiorgenschihe
+Rasch das in Ölleinwand gehüllte Bünden geöffnet
+… Rasch ein Hemd Über — rasch den dunklen Schlafanzug,
+rasch die weichen Morgenschuhe …
 
 <@pagebreak/>
 Und die Clement in die Tasche — die kleine elektrische
@@ -2556,87 +2556,88 @@ Wieder beobachtend — lauschend — spähend …
 
 Nichts …
 
-sei Naäachtwind mir …
+Der Nachtwind nur …
 
 Brandungsgeräusch …
 
-Heiserer Schreie von Seevögeln
+Heiserer Schreie von Seevögeln …
 
-Wäsche …
+Nichts …
 
 Weiter also …
 
 Dem Felskamin zu …
 
-Dja Clement leicht …
+Die Clement bereit …
 
 Wehe dem, der mir hier in den Weg trat …
 
 Ich würde feuern …
 
-eine Bedenken …
+Ohne Bedenken …
 
-Bord öden … — Blut um Blut, …! Lächerlich
-alle Gefährt?verlor … Ein Fingerdenl — und Harst war
-nicht der winzige Tote!
+Harald rächen … — Blut um Blut …! Lächerlich
+alle Gefühlsduselei … Ein Fingerdruck — und Harst war
+nicht der einzige Tote!
 
-Nervenkitzel Pro. aus die Felskluft zu …
+Ich kroch auf die Felskluft zu …
 
-Erreichte den Einamng — die Verwesung … Schräg
-abwärts macht …
+Erreichte den Eingang — die Vertiefung … Schräg
+abwärts ging’s …
 
-Gesellschaft pechscliparze Finsternis hinein
+In pechschwarze Finsternis hinein …
 
-War mir um lieb …
+War mir nur lieb …
 
-wahr lieb … Schimpft wie meine WGiudantken
+Nur lieb … Schwarz wie meine Gedanken …
 
 <@pagebreak/>
 Fester die Finger um die Pistole …
+
 Und nun mit tastendem Schritt abwärts …
 
-aß für Fuß …
+Fuß für Fuß …
 
-hne= das geringste Geräusch … Zur Biegung des
-samt … — « hinter dieser die Stelle, wo die Gerippe
-aßen …
+Ohne das geringste Geräusch … Zur Biegung des
+Kamins … Hinter dieser die Stelle, wo die Gerippe
+saßen …
 
 Wo die Räucherschale schwelte … Wo der aromatische
 Rauch mich umwehte …
 
-noch lugte um die Ecke
+Ich lugte um die Ecke
 
 Ich prallte zurück …
 
-Neben dem Räucherwerk hatte ein Inder — mit dem
-Rückert nach mir hin …
+Neben dem Räucherwerk hockte ein Inder — mit dem
+Rücken nach mir hin …
 
-Ein Kerl mit schmierigem Turban, Annoncen Mit Mittel …
+Ein Kerl mit schmierigem Turban, schmierigem Kittel …
 
-Neuheit ihm Ding große brennende issslaterne
+Neben ihm eine große brennende Schiffslaterne …
 
 Der Lump saß wie eine Statue …
 
-Ah — dort, »wohin der Laternenschein nicht reichte,
-hatte eine zweite Gestalt …
+Ah — dort, wohin der Laternenschein nicht reichte,
+hockte eine zweite Gestalt …
 
-Das wär der weißbärtige Greis …
+Das war der weißbärtige Greis …
 
 Ebenfalls Statue …
 
 Der andere rauchte … Hatte eine kurze Seemannspiep
-im Munde … Ich sah nur die Tabakswöl!oben hoch
-Blättern …
+im Munde … Ich sah nur die Tabakswölkchen hochflattern
+…
 
-Ah stand — Überlegte …
+Ich stand — überlegte …
 
-er Greis, mit dem Gesicht nach mir hin, konnte mich
+Der Greis, mit dem Gesicht nach mir hin, konnte mich
 unmöglich bemerken … Der andere erst recht nicht …
 
 Ob ich jedem der beiden eins auf den Pelz brannte?!
 
-Wir war ganz danach zu Mute … Mein rechter Zeigefinger
-duckte förmlich, sich um den Abzug der Pistole zu
+Mir war ganz danach zu Mute … Mein rechter Zeigefinger
+zuckte förmlich, sich um den Abzug der Pistole zu
 krümmen …
 
 Zuckte …
@@ -2644,91 +2645,108 @@ Zuckte …
 Jetzt regte sich der, der mir den Rücken zukehrte …
 
 Er nahm die Pfeife aus dem Munde … Sein Schädel
-mit dem unförmigen kostbar lag im Halbschatten +…
+mit dem unförmigen Turban lag im Halbschatten …
 
-Er klopfte die Rechte aus, stopfte sie von neuem, ri’:
-ein Feuerzeitq an und … rauchte …
+Er klopfte die Pfeife aus, stopfte sie von neuem, rieb
+ein Feuerzeug an und … rauchte …
 
-erregt Wien im wo »richtige Reglostiakeilt …
+Versank wieder in die bisherige Reglosigkeit …
 
 <@pagebreak/>
-In alten Inders Augen aber glühten förmlich im
-unke
-Dir nie habe ich Menschenaugen derart feuchten sehen,
-Diese Augen hingen an dem anderen runder — Schrie 10
-abzufhnzveisen
-Ich spürte komisch, laß diese beiden Männer dort einen
-Brunnen ja ausfochten
-geh war [es durch dieses Bild in Dann geschlagen, daß
-ich nicht ebenso wenig legte.
+Des alten Inders Augen aber glühten förmlich im
+Dunkel …
+
+Noch nie habe ich Menschenaugen derart leuchten sehen,
+
+Diese Augen hingen an dem anderen Inder — Ohne je
+abzuschweifen …
+
+Ich spürte förmlich, daß diese beiden Männer dort einen
+stummen Kampf ausfochten …
+
+Ich war so durch dieses Bild in Bann geschlagen, daß
+ich mich ebenso wenig regte.
+
 So … verging wohl eine halbe Stunde …
-hatte Geduld … Sagte mir, daß diese Fuße
+
+Ich hatte Geduld … Sagte mir, daß diese Schufte
 doch schließlich einmal den Mund öffnen würden …
-Über … sie blieben Kamin …
+
+Aber … sie blieben stumm …
+
 Seltsam das alles …
+
 Der mit der Pfeife legte diese jetzt zur Seite …
+
 Gähnte laut …
-Echten sich erheben zu wollen …
-Schrei …
-ich zauderte nicht länger … Ziele …
 
-Zelle.
-uf den rechten Ellenbogen des Rauchers …
-wandte er den Kap! …
+Schien sich erheben zu wollen …
 
-a: sah sein Profil … Ich war wie versteinert …
+Schien …
 
-Dieses P Profil,!! Eine Eingebung war ausgeschlossen,
+ich zauderte nicht länger … Zielte …
 
-Dieses Profil fand man nicht Ost
+Zielte …
+
+Auf den rechten Ellenbogen des Rauchers …
+
+Da — wandte er den Kopf …
+
+Ich sah sein Profil … Ich war wie versteinert …
+
+Dieses Profil …!! Eine Täuschung war ausgeschlossen,
+
+Dieses Profil fand man nicht oft …
 
 Es war … Harald!! Der tote Harald!! Und — —
 wie lebendig er war, sollte ich nun mit eigenen Ohren hören,
-hi Er wandte den Kopf wieder nach dem greisen Inder
 
-e0
-»Ich Leute, Du gibst diese Versuche, mich zu Krone
-Pistolen, Dickicht auf …« sagte er gleichmütig, Öl
-farblos, Du magst ja ein sehr hereinrufen »zur sein,
-er vieles kann, was anderen ein Rätsel … bei mir vorn
-fängt das nicht … Wein! wir beide unsere Willenösfraft
-gegeieinandei zu spielen wollten, wlirbvesi Du unterliegen.«
+Er wandte den Kopf wieder nach dem greisen Inder
+hin …
+
+»Ich denke, Du gibst diese Versuche, mich zu hypnotisieren,
+endlich auf …« sagte er gleichmütig … »Es ist
+zwecklos … Du magst ja ein sehr berühmter Fakir sein,
+der vieles kann, was anderen ein Rätsel … bei mir verfängt
+das nicht … Wenn wir beide unsere Willenskraft
+gegeneinander ausspielen wollten, würdest Du unterliegen.«
 
 Und jetzt endlich erkannte ich, der heimliche Beobachter
 <@pagebreak/>
 dieser Szene, daß der alte Inder gefesselt war — — endlich!
-Ein Gefangener war er … Haralds Gefangener …
-Und sagte nun seinerseits — mit einer hochmütigen
 
+Ein Gefangener war er … Haralds Gefangener …
+
+Und sagte nun seinerseits — mit einer hochmütigen
 Verachtung, wie sie selten ein Inder einem Europäer gegenüber
 zu äußern wagt:
 
 »Wer Du auch bist, Sahib … Du wirst diese Stunden,
-wo Du Dich an mir vergessen hast, bitter bereuen … Nie
+wo Du Dich an mir vergriffen hast, bitter bereuen … Nie
 wirst Du die Wahrheit ermitteln … Nie werde ich auch
 nur eine einzige Deiner Fragen beantworten … Und wenn
-Du mich der Polizei übergibst. wenn man mich auffnüpft an
-einen, Galgen zur Strafe dafür, daß ich Dir scheinbar ans
+Du mich der Polizei übergibst, wenn man mich aufknüpft an
+einem Galgen zur Strafe dafür, daß ich Dir scheinbar ans
 Leben wollte: ich werde nicht sterben! Was man vom
 Galgen abschneidet ist nur das Unwesentliche von mir, die
 äußere Hülle … Was weiterlebt, ist der innere Mensch, die
-»Seele, das Unsterbliche … Und — die Seele wird Dich
+Seele, das Unsterbliche … Und — die Seele wird Dich
 bestrafen! Ihr Europäer dünkt Euch erhaben über uns
 Farbige, und doch seid Ihr nur armselige Nichtwisser …!
 Nur wer zu Füßen Brahmas, des Weltodems, gekniet und
-seine Seele durch; Wanderung von Leib zu Leib geläutert
-bat, ist ein wahrer weiter … — Ich warne Dich …!«
+seine Seele durch Wanderung von Leib zu Leib geläutert
+hat, ist ein wahrer Weiser … — Ich warne Dich …!«
 
 Harst erwiderte nichts …
 
 Ich wollte mich schon melden, wollte in der Freude
-meines Herzens hervortreten und den Totgeglaubten bd
-graben, als ein einziges Wort durch den kleinen Raum
-alte …
+meines Herzens hervortreten und den Totgeglaubten begrüßen,
+als ein einziges Wort durch den kleinen Raum
+hallte …
 
 Ein Wort von Haralds Lippen …
 
-Sakirawa!!
+<p class="centered">Sakirawa!!</p>
 
 Ich horchte auf …
 
@@ -2737,18 +2755,21 @@ der Stadt der Wallfahrer, unweit des heiligen Dehli …
 
 Sakirawa — das war die Sehnsucht aller Hindus —
 das war der Ort, wo ein Gebet zu Brahma die Anwartschaft
-aus das glückselige Jenseits gab …
+auf das glückselige Jenseits gab …
 
-starrte in das Halbdunkel, wo der hagere Greis
+Ich starrte in das Halbdunkel, wo der hagere Greis
+hockte …
 
-»Dar hatte sich jäh vorgebeugt …
+Der hatte sich jäh vorgebeugt …
 
 <@pagebreak/>
-Ganz Welt …
+Ganz weit …
 
 Ein pfeifender, zischender Laut kam Über seine Lippen.
+
 Aber — — nichts mehr …
-Er! beherrschte sich, bog den Oberleib wieder zurück …
+
+Er beherrschte sich, bog den Oberleib wieder zurück …
 
 »Es genügt mir trotzdem …« meinte Harald und
 nickte dem Greise zu … »Es genügt vollauf … Sakirawa
@@ -2768,13 +2789,13 @@ Jetzt schnellte der Greis empor …
 
 Sank wieder zurück …
 
-Ah -.- das hatte gesessen … —!! Der Name hatte noch
-Ärger gewirkt als Sakirawa …!!
+Ah — das hatte gesessen …!! Der Name hatte noch
+ärger gewirkt als Sakirawa …!!
 
-»Wo. woher … kennst Du Ramsa Kari?« fragte
+»Wo … woher … kennst Du Ramsa Kari?« fragte
 der Alte stockend …
 
-»Ramsa Kari im Dein Enkel … Auch das weiß ich
+»Ramsa Kari ist Dein Enkel … Auch das weiß ich
 nun … Und die beiden Gerippe dort sind die Überreste
 von Ramsa Karis Eltern … — Bestätige es, und ich will
 Dir erzählen, wie Dein Enkel den Tod fand … Denn —
@@ -2784,15 +2805,17 @@ Ein dumpfes Stöhnen kam aus dem Halbdunkel …
 
 Ein Stöhnen, das mich erschütterte …
 
-Der Greis verlor seine Straße, stolze Haltung … Wie
+Der Greis verlor seine straffe, stolze Haltung … Wie
 kraftlos sackte der Leib in sich zusammen …
 
 »Es … waren … seine Eltern,« flüsterte er leise
+und trostlos … »Es war mein Sohn und sein Weib …«
 
-sind trostlos … »Es war mein Sohn und sein Weib …’
 »Gut … Ehrlichkeit gegen Ehrlichkeit … — Wie
-heißt Fuß«
+heißt Du?«
+
 »Mansur Kari, Sahib …«
+
 »Nun denn, Mansur, Dein Enkel wurde auf einem
 <@pagebreak/>
 Schiffe von Doktor Lampetter erschlossen — auf der Jacht
@@ -2801,19 +2824,19 @@ Hudson, wo er sich eingeschlichen hatte …«
 Mansur nickte wie ein Automat …
 
 »Ja, Sahib … Er wollte Lampetter bestrafen …
-Er wollte sich nun einen berühmten Sahib aus Europa
+Er wollte sich an einen berühmten Sahib aus Europa
 wenden, der alle Geheimnisse aufdeckt … Dieser Sahib
-sollte Lampetter zwingen …, -«
+sollte Lampetter zwingen …«
 
-»- « — die Perlen herau&zugeben …« vollendete Harald.
+»… die Perlen herauszugeben …« vollendete Harald.
 »Und Dein Enkel wollte diesen Sahib belügen und ihm erklären,
 die Perlen stammten von ihrer Perlmuschelbank,« —
 
 Ich, Max Schraut, unsichtbarer Lauscher, verlor in
-diese Augenblick die Herrschaft über meine hastenden See
+diese Augenblick die Herrschaft über meine hastenden
+Gedanken …
 
-unten …
-Was in. meinem Hirn als dunkle Frage brannte, vermuten
+Was in meinem Hirn als dunkle Frage brannte, formten
 die Lippen unwillkürlich zur Frage:
 
 »Wie — es gibt keine Perlmuschelbank?«
@@ -2823,12 +2846,12 @@ Der Greis stieß vor Schreck einen leisen Schrei aus …
 Harald wandte gemächlich den Kopf …
 
 »Du hättest Dich schon früher melden können, mein
-Alter … Dein Hoteldiebkostüm ist ja ganz schön, nur Eile
+Alter … Dein Hoteldiebkostüm ist ja ganz schön, nur die
 Perlmutterknöpfe Deines bastseidenen Hemdes an der Brust
 glitzerten zu sehr im Widerschein der Laterne … Und diese
-beruhte Scheibe der Laterne wirkte als Spiegel … Ich habe!
-Dich längst bemerkt … — Nein — es gibt keine Weib
-Muschelbank, … „«
+berußte Scheibe der Laterne wirkte als Spiegel … Ich habe
+Dich längst bemerkt … — Nein — es gibt keine Perlmuschelbank
+…«
 
 <@pagebreak/>
 
@@ -2846,12 +2869,11 @@ Ich ließ mich neben Harald nieder …
 Und er, als ob nichts geschehen, wiederholte:
 
 »Nein, es gibt keine Perlmuschelbank in der Nähe, die
-von Lampetter und Namen Kari ausgebeutet worden wäre
-— — … Es gab aber trotzdem Perlen hier — die köstlichsten
+von Lampetter und Ramsa Kari ausgebeutet worden wäre
+… Es gab aber trotzdem Perlen hier — die köstlichsten
 Perlen, die je von fremden Pilgern vor der Statue Brahmas
-Dir Sakirawa-Tempel als Opfergabe niedergeleagi worden
-
-und …«
+im Sakirawa-Tempel als Opfergabe niedergelegt worden
+sind …«
 
 Aus dem Halbdunkel erneutes Stöhnen …
 
@@ -2860,71 +2882,69 @@ Der Greis murmelte wie geistesabwesend:
 »Sahib, Sahib, wer bist Du, daß Deine Augen in die
 Vergangenheit dringen und …«
 
-»Ah bin der, den Dein Enkel auf der Jacht Hudson
+»Ich bin der, den Dein Enkel auf der Jacht Hudson
 sprechen wollte, Mansur Kari … Ich bin Harald Harst,
 der Detektiv …«
 
 Der Alte seufzte tief auf … »Ich ahnte es — seit
 kurzem, Sahib … — Gestatte, Sahib, daß ich jetzt von dieser
-Welt Ab’lied nehme und meine Seele zu meinem unwürdigen,
+Welt Abschied nehme und meine Seele zu meinem unwürdigen,
 verdammten Leibe hinüberwandern lasse in ein Tier,
 das jeder verachtet … Das soll meine Strafe sein …«
-(Die Hindu-Religion, der Brahmani&ämus, bat bekanntlich
+(Die Hindu-Religion, der Brahmanismus, hat bekanntlich
 die Seelenwanderung als wesentlichstes Merkmal in ihr
-Glaubenssystem ausgenommen. Je nach dem Verdienst
-ihrer Toten Fahrt die Seele in den Leib eines höheren öde)
+Glaubenssystem aufgenommen. Je nach dem Verdienst
+ihrer Toten fährt die Seele in den Leib eines höheren oder
 niederen Tieres.)
 
 <@pagebreak/>
-Harst griff schnell naß der Laterne, beicinch’lete den
-Preis …
+Harst griff schnell nach der Laterne, beleuchtete den
+Greis …
 
 Der lehnte an der Felswand mit geschlossenen Augen,
 
-— Plötzlich fiel sein Kopf zur Seite … sein Oberkörper
+Plötzlich fiel sein Kopf zur Seite … sein Oberkörper
 glitt nach vorn …
 
-Er lag regungslos
+Er lag regungslos …
 
 Ich war aufgesprungen …
 
-»Harald, er muß Gift genommen haben …!« nie) ich.
+»Harald, er muß Gift genommen haben …!« rief ich.
 
-» Gift?! Seine Hände sind im Schoße iestuchunden
+»Gift?! Seine Hände sind im Schoße festgebunden …
 Er ist tot, weil er … ein Yogi ist … Er hat seinem
-Herzen geboten stille zu sicher … sein Herz schlägt nicht
+Herzen geboten stille zu stehen … Sein Herz schlägt nicht
 mehr. Bemühe Dich nicht, mein Alter … Mansur ist
-tot, hat sich selbst gerichtet …
+tot, hat sich selbst gerichtet …«
 
 Und in anderem Tone:
 
 »Ich will Dir nun des Rätsels Lösung dort mitteilen,
 wo ich mich wiederfand, nachdem Mansur mich überfallen
-
-hatte …
+hatte …«
 
 Ich war dennoch zu dem Greise herangetreten und hatte
 mich über ihn gebeugt. Als ich nach seinem Puls fühlte, war
-die Hand bereits eiskalt und nicht mehr von Herzschlag
+die Hand bereits eiskalt und nichts mehr von Herzschlag
 zu spüren. Ich drehte seinen Kopf zur Seite. Auch die
 Augen waren glasig und leicht verdreht. — Ich richtete mich
 wieder auf.
 
 Harald nickte mir zu … »Das Leben ist entflohen.
-Mansur Kari hat eins der sblimmsten Verbrechen begangen,
-die ein Hindu begehen kann … — So, nun solche mir …«
+Mansur Kari hat eins der schlimmsten Verbrechen begangen,
+die ein Hindu begehen kann … — So, nun folge mir …«
 
 Ich war ein wenig verstört, dachte trotzdem an die
 Zigarrenasche, die ich hier verstreut hatte …
 
-»Ah weiß, daß Mansur hier einen Schlupfwinkel besaß
-
+»Ich weiß, daß Mansur hier einen Schlupfwinkel besaß
 … Ich wollte …«
 
-… dieses Versteck finden … — ja, mein Alter, es
+»… dieses Versteck finden … — ja, mein Alter, es
 war sehr klug von Dir, die Asche umherzustreuen, zumal
-der Eingang zu dem wollte keine fünf Meter entfernt ist.
-Du hättest ihn auch ohne mich gefunden … So gebt es
+der Eingang zu dem Versteck keine fünf Meter entfernt ist.
+Du hättest ihn auch ohne mich gefunden … So geht es
 schneller …«
 
 <@pagebreak/>
@@ -2934,10 +2954,10 @@ unregelmäßige Steinplatte heraus, die in Farbe und
 Struktur genau der Umgebung entsprach und ein Loch verdeckt
 hatte, das uns das Hindurchschlüpfen gestattete. Harst
 ging mit der Laterne voran. die Klippe war zum Teil
-nach Osten hin hohl, und diese Höhle erstreckte sich abwarte
+nach Osten hin hohl, und diese Höhle erstreckte sich abwärts
 und mündete im Wasser, so daß man, wenn man
 tauchte und eine Strecke unter Wasser schwamm, in das von
-Rissen eingeschlossene Boden gelangen konnte, wo wir vormittags
+Riffen eingeschlossene Becken gelangen konnte, wo wir vormittags
 den Kutter über dem Wrack vertäut hatten.
 
 Nachdem Harst mir dies erklärt und mir in dieser Höhle
@@ -2947,40 +2967,39 @@ hatte, fügte er hinzu:
 »Kaum war ich in der Taucherausrüstung zum Wrack
 hinabgestiegen, kaum hatte ich mich unten mit Hilfe der
 elektrischen Laterne etwas umgesehen und in der Bordwand
-des Dampfers ein kratzendes Loch denen?!, hinter dem
-ein ganzer Hausen menschlicher Gebeine zu erkennen war,
-als ganz unvermutet Mansur Kari mich Angriff … Blick
-schnell hatte er die Signalleine zerschnitten, auch das Tau
-und den Lusitschlauch. Im Taucheranzug ist man so sehr
+des Dampfers ein klaffendes Loch bemerkt, hinter dem
+ein ganzer Haufen menschlicher Gebeine zu erkennen war,
+als ganz unvermutet Mansur Kari mich angriff … Blitzschnell
+hatte er die Signalleine zerschnitten, auch das Tau
+und den Luftschlauch. Im Taucheranzug ist man so sehr
 unbeholfen. Bevor ich das Dolchmesser, das ich für alle
-
-Fälle zur Abwehr von Quietschen mitgenommen, aus der
-beide gezogen hatte, riß der nackte, sehr kräftige und gewandte
+Fälle zur Abwehr von Haifischen mitgenommen, aus der
+Scheide gezogen hatte, riß der nackte, sehr kräftige und gewandte
 Mansur mich hintenüber … Wasser drang mir
 in den Mund … Ich hätte ertrinken müssen, wenn der
 Inder mich nicht ebenso rasch mit fortgezogen hätte — das
-heißt, er brachte mich unter Wasser hier in sein Versteck,
-Inzwischen hatte ich tatsächlich das Bewußtsein verloren,
+heißt, er brachte mich unter Wasser hier in sein Versteck.
+Inzwischen hatte ich tatsächlich das Bewußtsein verloren.
 Als ich wieder zu mir kam, lag ich gefesselt ohne Taucherhelm
 dort an jener Stelle, und Mansur hockte neben mir …«
 
 »So bist Du in Wahrheit dem Tode nur wie durch ein
 Wunder entgangen!« meinte ich tief aufatmend und ergriff
-seine Hand. »Du ahnst nicht, welche Angst wir alle aus
-»en Kutter um Dich ausgestanden haben …! Frau Jenny
+seine Hand. »Du ahnst nicht, welche Angst wir alle auf
+dem Kutter um Dich ausgestanden haben …! Frau Jenny
 <@pagebreak/>
-hat bitterlich geweint, und Sir nicht war geradezu
+hat bitterlich geweint, und Sir Archi war geradezu
 untröstlich.«
 
 Harst lächelte mir herzlich zu … »Laß gut sein, mein
-Alter … — Das ist nun Ja alles Überstanden … — Höre
+Alter … Das ist nun Ja alles Überstanden … — Höre
 den Schluß … Als Mansur sich einmal entfernte, konnte
 ich an einer Felskante die mürben Stricke meiner Hände
 durchreiben … Wir, Mansur und ich, tauschten dann die
-Rollen … Er wurde mein Gefangener …«
+Rollen … Er wurde *mein* Gefangener …«
 
 »Und — und die Perlmuschelbank, die Perlen?« fragte
-ich ein wenig ungeduldig … Denn noch immer Ergriff ich
+ich ein wenig ungeduldig … Denn noch immer begriff ich
 nicht, weshalb Doktor Lampetter zum Verbrecher geworden.
 
 »Die Perlen, mein Alter, stammten aus dem Sakirawa-Tempel,
@@ -2998,28 +3017,27 @@ Perlen …«
 
 »Das sahst Du ja: er büßte den Diebstahl, suchte die
 Götter zu versöhnen, indem er vor den Gebeinen seines
-Sohnes und seiner Schwiegertochter seine Gebote vernichtete
-… « .- Außerdem aber suchte er auch noch in dem Wrack nach
+Sohnes und seiner Schwiegertochter seine Gebote verrichtete
+… Außerdem aber suchte er auch noch in dem Wrack nach
 dem Rest der Diebesbeute … Wahrscheinlich dürfte noch
 ein großer Beutel mit Perlen irgendwo dort in dem Dampfer
-
-gegen …
+liegen …«
 
 »und — wie bist Du auf den Sakirawa-Tempel und
 den Diebstahl gekommen?«
 
-»Hierdurch …,!« — Er hob vom Boden einen seidenen
-zerknitterten Beutel auf, der außen mit Schriftzeichen Wo
-stickt war. »Dieser Beutel stammt aus dem Tempel … Und
+»Hierdurch …!« — Er hob vom Boden einen seidenen
+zerknitterten Beutel auf, der außen mit Schriftzeichen
+bestickt war. »Dieser Beutel stammt aus dem Tempel … Und
 vor zwei Jahren berichteten alle Zeitungen von der frechen
-Beraubung des Heiligtums: vier seidene Beutel mit Kostbaren
+Beraubung des Heiligtums: vier seidene Beutel mit kostbaren
 <@pagebreak/>
 Perlen waren gestohlen worden! — Hast Du noch
-irgend etwas zu fragen, mein Aber«
+irgend etwas zu fragen, mein Alter?«
 
-»Nein … Nur freuen darf ich mich daß ich Dich
+»Nein … Nur freuen darf ich mich, daß ich Dich
 lebend wieder habe …! — Am Morgen kehrt Sir Archi
-mit dem Kutter und dem Untertauchen von Nawanagar
+mit dem Kutter und dem Hafentaucher von Nawanagar
 hierher zurück … Dann — sind wir frei, Harald …!« — —
 
 Die Priester des Sakirawa-Tempels haben die vier gestohlenen
@@ -3027,13 +3045,13 @@ Beutel mit Perlen zurückerhalten … Der Taucher
 aus Nawanagar fand noch zwei Beutel in dem Wrack. —
 Von dem Ehepaar Hasting kann ich berichten, daß die Plantage
 am Luni-Fluß noch heute dieselbe Musterwirtschaft ist
-und daß »Sir Archi und Jenny noch glücklicher sind als
+und daß Sir Archi und Jenny noch glücklicher sind als
 früher schon: denn … ein kleiner Archibald kräht jetzt vergnügt
-die Wand« des kleinen Märchenschlößchens an … —
+die Wände des kleinen Märchenschlößchens an … —
 
 Hiermit verabschiede ich mich für heute von dem geneigten
-Leser und Auge ihm zu: Auf Wiedersehen in
+Leser und rufe ihm zu: Auf Wiedersehen in
 
-»Burg Totenhall«
+<p class="centered strong">»Burg Totenhall«</p>
 
 denn so will ich unser nächstes Abenteuer betiteln.
