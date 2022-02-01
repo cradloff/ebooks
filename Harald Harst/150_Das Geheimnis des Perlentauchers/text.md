@@ -239,7 +239,7 @@ Deck, meine Herren …«
 
 Harald jedoch meinte, er sei zu müde … Er würde sich
 nur noch von Orlingtons verabschieden und dann seine
-Kabine aufsuchen,
+Kabine aufsuchen.
 
 Fünf Minuten darauf waren wir denn auch in unserer
 Luxuskabine allein.
@@ -363,7 +363,7 @@ Er kniete neben dem Toten …
 »Der ist vor kaum vier Stunden erschossen worden,« erklärte
 er …
 
-dann durchsuchte er die Taschen …
+Dann durchsuchte er die Taschen …
 
 Sie waren leer …
 
@@ -420,7 +420,7 @@ also an Wahrscheinlichkeit …
 Und Harald rauchte die zweite Mirakulum …
 
 Saß wieder auf dem Bettrand, ließ seine Gedanken
-arbeiten,
+arbeiten.
 
 Ich wünschte, ich würde jemals so rasche und gute
 Arbeit leisten wie er …
@@ -513,7 +513,7 @@ einer der Stewards gewagt hatte, ein solches Guckloch herzustellen
 …«
 
 Er sagte das mit absoluter Ruhe … Sein Gesicht verriet
-auch nicht die Spur von Verlegenheit,
+auch nicht die Spur von Verlegenheit.
 
 Harald blickte ihn lange an …
 
@@ -569,7 +569,7 @@ Ich schüttelte den Kopf. »Lampetter kommt hier nicht
 in Betracht … Ich danke Ihnen … Bringen Sie mir
 nach fünf Minuten die Eislimonade …«
 
-»sehr wohl, Mr. Schraut …«
+»Sehr wohl, Mr. Schraut …«
 
 Er machte kehrt und schritt dem Mittelschiff wieder zu.
 
@@ -617,7 +617,7 @@ konnte wählen …«
 
 Harald schwieg …
 
-ich freute mich auf den Moment, wo wir den Steward
+Ich freute mich auf den Moment, wo wir den Steward
 als Zeugen gegen Lampetter würden vernehmen können.
 Lampetter war offenbar ein ganz geriebener Schurke …
 
@@ -646,13 +646,13 @@ Und nun war meine Stunde gekommen …
 
 <@pagebreak/>
 
-<h2>3. Kapitel</h2>
+<h2>3. Kapitel.</h2>
 
 <h3>Die Perlennadel.</h3>
 
 Ich schaute Lampetter an …
 
-»einer der Stewards ist’s …« sagte ich … »Ich habe
+»Einer der Stewards ist’s …« sagte ich … »Ich habe
 bei ihm Eislimonade bestellt … Der Mann behauptet, Sie
 haben vor unserer Tür Ihre Brille geputzt, Mr. Lampetter,
 bevor Sie an der Abendtafel erschienen …«
@@ -715,7 +715,7 @@ Mit hängenden Schultern, gesenktem Kopf stand er da
 … Seine Hände öffneten und schlossen sich in nervösem
 Spiel …
 
-Ein trauriges Bild — ein Überführten Mörder …
+Ein trauriges Bild — ein überführten Mörder …
 Die Detektivfinessen hatten ihn doch zu Fall gebracht …
 
 »Nun?!« sagte Harst mit schwerer Betonung …
@@ -747,7 +747,7 @@ durch Schraut den Kapitän holen lassen, der hier an Bord
 die Polizeigewalt hat …«
 
 <@pagebreak/>
-Lampetter duckte sich wie unter einem Schlage zusammen,
+Lampetter duckte sich wie unter einem Schlage zusammen.
 
 Schwieg trotzdem …
 
@@ -795,7 +795,7 @@ Ein furchtbares Lächeln umspielte den zuckenden Mund
 … — Ich liebe so kräftige Ausdrücke nicht … Aber —
 dieses Lächeln war furchtbar …
 
-»Geben Sie sich keine Mühe mehr, meine Herren …
+»Geben Sie sich keine Mühe mehr, meine Herren …«
 sagte er dumpf … »Die Spitze der Nadel habe ich selbst
 mit Rillen versehen und diese mit einem kristallinischen Gift
 gefüllt — — für alle Fälle … In drei Minuten bin ich
@@ -831,7 +831,7 @@ Kammer geschafft …
 Dann saßen wir vier in unserer Kabine an dem schmalen
 Sofatisch und sprachen über diese letzten traurigen Geschehnisse,
 die uns alle aus heiterer, sorgloser Stimmung herausgerissen
-hatten,
+hatten.
 
 Harald blieb dabei, daß der Inder sich in Bombay an
 Bord und in unsere Kabine geschlichen habe, daß Lampetter
@@ -869,7 +869,7 @@ Mr. Harst?«
 … Auch Lampetter … — Nehmen wir am besten hier
 sofort das Protokoll auf, Kapitän … Nachher das stille
 Begräbnis … Dann — bleibt nur noch das Geheimnis
-Übrig … Auch das stirbt, wenn ich es aufgeklärt haben
+übrig … Auch das stirbt, wenn ich es aufgeklärt haben
 werde …«
 
 Fürst Tschergin rauchte bedächtig seine dunkle Importe
@@ -957,7 +957,7 @@ Hügel darstellen konnten, weil ja alles nur durch einfache
 Striche wiedergegeben war.
 
 Während ich noch grübelnd über das Papierblatt gebeugt
-dasaß, — plötzlich von Haralds Bett eine leise Stimme,
+dasaß, — plötzlich von Haralds Bett eine leise Stimme.
 
 »Nun, mein Alter?! Wie weit bist Du?!«
 
@@ -1139,14 +1139,14 @@ im Hafen von Surat die beiden einzigen Überlebenden
 des Orinoko, der Schiffsarzt Dr. George Lampetter und
 ein junger Perlentaucher, ein Inder namens Ramsa Kari.
 <@pagebreak/>
-Auch sie waren wie die ganze Übrige Besatzung und die
+Auch sie waren wie die ganze übrige Besatzung und die
 Passagiere an Pest erkrankt gewesen. Sie genasen wie
 durch ein Wunder. Sie erholten sich langsam — erholten
 sich inmitten eines Leichenfeldes …
 
 > Was Doktor Lampetter über diese Wochen auf dem
 führerlos treibenden Dampfer berichten konnte, war wie
-ein Kapitel aus einem grauenvollen Roman,
+ein Kapitel aus einem grauenvollen Roman.
 
 > Schließlich gelang es den beiden Unglücklichen, das
 kleinste Rettungsboot zu Wasser zu bringen und die Küste
@@ -1176,7 +1176,7 @@ herausschälen lassen — auch das! — Jetzt wollen wir weitersuchen
 … Das Buch war der erste Fund. Ich hoffe, es
 wird noch anderes hinzukommen …«
 
-»und — worauf hoffst Du?«
+»Und — worauf hoffst Du?«
 
 »Das will ich Dir sagen, wenn es so weit ist …«
 
@@ -1191,7 +1191,7 @@ Was wir fanden, war ohne Bedeutung … Und was
 wir alles taten, um vielleicht ein Geheimfach, ein besonderes
 Versteck zu ermitteln, kann ich hier nicht im einzelnen wiedergeben.
 
-Nun schien auch Harald Überzeugt, daß alle weitere
+Nun schien auch Harald überzeugt, daß alle weitere
 Mühe umsonst …
 
 Noch standen die beiden Türhälften des großen Holzschrankes
@@ -1287,7 +1287,7 @@ Umfang ist als etwa ein Viertel der Ostsee — ein Meer
 für sich, mit Inseln, Inselchen, mit Stürmen und Windstillen
 …
 
-heute regt sich kein Lüftchen …
+Heute regt sich kein Lüftchen …
 
 Wir sitzen unter dem Sonnensegel auf dem Achterdeck …
 
@@ -1318,7 +1318,7 @@ hänselte …
 Frau Wera stöhnt leise über die Hitze …
 
 »Es gibt ein Gewitter, Herr Schraut … — Meine Nerven
-sind für Gewitterstimmung so überaus empfänglich …
+sind für Gewitterstimmung so überaus empfänglich …«
 
 Harst ist plötzlich aufgesprungen …
 
@@ -1350,7 +1350,7 @@ An der Spitze der Landzunge ist eine Menge Bäume
 angeschwemmt — ein Riesenfloß … Dort legen wir an.
 Die drei Matrosen bleiben in der Barkasse …
 
-Wir balancieren über die Stämme, springen ans Ufer,
+Wir balancieren über die Stämme, springen ans Ufer.
 
 Harald nimmt die Clement aus der Tasche, entsichert
 sie …
@@ -1417,7 +1417,7 @@ Wir setzen uns neben Hasting in den Sand …
 »Seit gestern sind wir hier,« erzählt er … »Wir
 haben nichts Besonderes erlebt … Nur anstrengend war
 der Marsch … Und dann — die Zigaretten fehlten mir.
-Ohne Zigarette bin ich nur halb Archi Hasting …
+Ohne Zigarette bin ich nur halb Archi Hasting …«
 
 Wer ihn in seiner gemütlichen nachlässigen Sicherheit
 hier beobachtet, wer seine grauen ehrlichen Augen sieht, hätte
@@ -1476,7 +1476,7 @@ mich durch Sand und Gestrüpp … Trägt mich im Dauerlauf
 weiter … Wirft mich in einen Korb …
 
 Ich höre den Zuruf eines Mahuts, eines Elefantenführers
-… Der Korb schwankt … Der Elefant erhebt sich,
+… Der Korb schwankt … Der Elefant erhebt sich.
 
 Gebüsch rauscht … Bäume rauschen unter den ersten
 Windstößen eines heraufziehenden Gewitters …
@@ -1496,7 +1496,7 @@ Dann plötzlich Stille …
 
 Hallende Schritte …
 
-Kein Regen mehr … Kühlere Luft — etwas dumpfig
+Kein Regen mehr … Kühlere Luft — etwas dumpfig.
 
 Der Mahut ruft …
 
@@ -1516,7 +1516,7 @@ Das Märchenbild bleibt dasselbe …
 <h1>Das Wrack des Orinoko.</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>« Das Marmorschloß.</h3>
+<h3>Das Marmorschloß.</h3>
 
 — — — Märchenbild … — Das war’s in der Tat …
 
@@ -1545,7 +1545,7 @@ Gehen davon … Neben uns kniet noch der Elefant …
 
 Wir drehen uns um …
 
-und überall Gestein … Nichts von einem Eingang
+Und überall Gestein … Nichts von einem Eingang
 — nichts …
 
 Wir schreiten langsam auf das Schloß zu …
@@ -1676,7 +1676,7 @@ wäre es ein Genuß, mit diesem liebenswürdigen Paare zu
 plaudern …
 
 Dann erhebt Frau Jenny sich, wünscht gesegnete Mahlzeit.
-Der Mokka soll nebenan eingenommen werden,
+Der Mokka soll nebenan eingenommen werden.
 
 Dieses Nebenan ist ein ebenso geschmackvolles Herrenzimmer
 mit weichen tiefen Klubsesseln, in denen man förmlich
@@ -1750,10 +1750,10 @@ entfernt hatten, brachte ein Orkan im Juli 1924 das Wrack
 vollends zum Sinken. Es rutschte von dem Riff, auf dem
 es hing, in die Tiefe …«
 
-Ich hörte atemlos zu
+Ich hörte atemlos zu …
 
 <@pagebreak/>
-Ich dachte an Haralds Worte, daß es Überall gewisse
+Ich dachte an Haralds Worte, daß es überall gewisse
 Zusammenhänge zwischen scheinbar völlig getrennten Ereignissen
 gebe …
 
@@ -1763,7 +1763,7 @@ das bis in die Gegenwart reichende Verbindungsglied. —
 
 Sir Archi fuhr fort:
 
-»Ich möchte jetzt noch einige kurze Erklärungen Über
+»Ich möchte jetzt noch einige kurze Erklärungen über
 die Vorgänge im Chotar-Dschungel abgeben. Es ist richtig,
 daß ich den Koffer mit den Familienkleinodien des Fürsten
 Tschergin und den Juwelen Frau Orlingtons an mich
@@ -1773,7 +1773,7 @@ ich kann Ihnen, Herr Harst, auf mein Wort versichern, daß
 ich den Koffer nachher abgeliefert hätte — das sollte eben
 mein Triumph sein! Die Dinge verliefen jedoch zu meinen
 Ungunsten, und Jenny und ich waren gezwungen, Sie zu
-belügen, um einer Verhaftung zu entgehen,
+belügen, um einer Verhaftung zu entgehen.
 
 Sie ließen uns in den Dschungel entweichen. Sie versprachen
 uns, mit der Hudson uns an der Luni-Mündung
@@ -1786,7 +1786,7 @@ Zusammentreffen auf der Landzunge anders verlaufen —
 ganz anders …«
 
 Harald sagte schlicht: »Ich hätte Sie beide niemals den
-Behörden Übergeben, wie ich schon einmal betonte. Ich
+Behörden übergeben, wie ich schon einmal betonte. Ich
 ahnte, daß Ihre Scheckangelegenheit besonderer Art sein
 müsse.«
 
@@ -1808,7 +1808,7 @@ einen festen Händedruck.
 
 Alle Zweifel an seiner Aufrichtigkeit waren geschwunden,
 ebenso das Gefühl, als könnte uns hier doch noch Unangenehmes
-zustoßen,
+zustoßen.
 
 Harald nahm eine Zigarette …
 
@@ -1855,7 +1855,7 @@ und verabschieden Sie sich von den Amerikanern, bleiben
 Sie meine Gäste … Wir werden gemeinsam diesen Dingen
 auf den Grund gehen …«
 
-Harst war sofort einverstanden,
+Harst war sofort einverstanden.
 
 <h2>2. Kapitel.</h2>
 <h3>Die beiden Gerippe.</h3>
@@ -1963,7 +1963,7 @@ Ja — das Leben dichtet seltsame, zum Nachdenken anregende
 Geschichten! —
 
 Abends dann bestiegen wir an der Landungsbrücke am
-Luniufer, die zur Plantage gehörte, den großen Motorkutter,
+Luniufer, die zur Plantage gehörte, den großen Motorkutter.
 
 Frau Jenny begleitete uns. Außer uns und dem Ehepaar
 waren noch fünf Inder an Bord.
@@ -1977,7 +1977,7 @@ Jacht Hudson war nichts mehr zu bemerken.
 <@pagebreak/>
 Es wurde dunkel. Der Mond ging auf. Der Kutter,
 der etwa vierzehn Knoten lief, konnte erst am folgenden
-Abend bei den Cutch-Inseln eintreffen,
+Abend bei den Cutch-Inseln eintreffen.
 
 Ich habe über diese Fahrt nichts Besonderes zu berichten.
 Sie war eine angenehme Fortsetzung des frohen Tages auf
@@ -1996,7 +1996,7 @@ lebhafter. Ein Zolldampfer hielt uns für Minuten auf.
 
 Erst gegen elf Uhr erreichten wir die Korallenriffe, von
 denen die Cutch-Inseln umgeben sind. Eine leichte Brandung
-warnte vor den gefährlichen Untiefen,
+warnte vor den gefährlichen Untiefen.
 
 Aber der Inder, der das Steuer bediente, hatte diese
 Reise nach dem Wrack sehr häufig gemacht und wußte genau
@@ -2031,7 +2031,7 @@ gurgelten und schäumten …
 
 Der Scheinwerfer am Bug flammte auf. Wir fuhren
 nur noch mit halber Kraft … Wir näherten uns der breiteren
-Rinne, wo der Pestdampfer auf ein Riff geworfen war,
+Rinne, wo der Pestdampfer auf ein Riff geworfen war.
 
 Dann stoppte der Kutter …
 
@@ -2153,7 +2153,7 @@ Nun — diese Knochenmänner beunruhigten mich nicht
 weiter … Ich schritt wieder vorwärts … Noch steiler
 ging’s nach oben, bis mit einem Male über mir der ausgestirnte
 Himmel sich wölbte und der alte Vater Mond mich
-freundlich anlächelte,
+freundlich anlächelte.
 
 Ich stand oben auf dem Plateau — einer glatten Fläche
 … Von einem Menschen keine Spur …
@@ -2259,7 +2259,7 @@ Der Kutter wurde genau über dem Wrack verankert.
 In dem klaren Wasser sah man die verschwommenen Umrisse
 des Pestschiffes … Wenn nicht ein Schleier von Wasserpflanzen
 das Wrack umgeben hätte, würden wir es noch
-deutlicher gesehen haben, —
+deutlicher gesehen haben. —
 
 Harald ließ sich nicht zum ersten Male den wasserdichten
 Taucheranzug anlegen, nicht zum ersten Male den schweren
@@ -2276,7 +2276,7 @@ Ich … lächelte ebenfalls, nur sehr süßsauer … Denn
 ich habe eine unüberwindliche Abneigung gegen
 Taucherkunststücke …
 
-Dann kletterte Harald langsam Über Bord … Die
+Dann kletterte Harald langsam über Bord … Die
 Strickleiter reichte fast bis zur Bordwand des Wracks, das
 völlig auf der Seite lag.
 
@@ -2288,13 +2288,13 @@ die Luftpumpe …
 
 Wir starrten ins Wasser … Wir konnten nichts erkennen
 … Harald mußte neben dem Wrack den felsigen
-Grund erreicht haben,
+Grund erreicht haben.
 
 Vier Minuten vergingen …
 
 Hasting hielt die Taschenuhr in der Hand …
 
-dann spürte ich an der Leine einen scharfen Ruck …
+Dann spürte ich an der Leine einen scharfen Ruck …
 
 Das hieß: »Gefahr! Schleunigst emporziehen …!«
 
@@ -2310,10 +2310,10 @@ Zogen … das Tau nach oben …
 
 Es war … abgeschnitten …
 
-Ich riß in meiner Angst um Harst an der Signalleine,
+Ich riß in meiner Angst um Harst an der Signalleine.
 
 Auch sie kam empor: abgeschnitten!! — ebenso der
-Luftschlauch,
+Luftschlauch.
 
 Wir oben an Deck des Kutters starrten uns aus entsetzten
 Augen an …
@@ -2322,7 +2322,7 @@ Frau Jenny standen Tränen in den Wimpern …
 
 Sir Archi war vielleicht noch blasser als ich …
 
-»was … bedeutet das?!« — und er bekam die Worte
+»Was … bedeutet das?!« — und er bekam die Worte
 kaum über die Lippen …
 
 <@pagebreak/>
@@ -2350,7 +2350,7 @@ Archibald Hasting heiße!«
 
 Wir sprangen ins Boot …
 
-Sir Archis Tatkraft verscheuchte meine trostlose Schwäche,
+Sir Archis Tatkraft verscheuchte meine trostlose Schwäche.
 
 Nun — wir haben damals alles getan, was wir tun
 konnten, um die Leute abzufangen, die diesen feigen Mord
@@ -2420,7 +2420,7 @@ Eine Unruhe war in mir, als ob ich einer schweren
 Krankheit entgegenginge … Ich hatte keine Hoffnung mehr
 … Und doch hoffte ich — etwa so, als wenn man nach der
 Todesnacht eines teuren Menschen erwacht und sich sagt:
-Nein — es kann nicht wahr, es muß ein Wunder geschehen
+»Nein — es kann nicht wahr, es muß ein Wunder geschehen
 sein, er muß noch leben — wieder leben …!!«
 
 Es war nicht das erste Mal, daß ich in dieser Weise
@@ -2461,8 +2461,8 @@ nachts hier geglüht hatte, war längst verkohlt …
 Dieses Häufchen war erst unlängst angezündet worden!
 Und — das hatte ich feststellen wollen — — gerade das!!
 
-Denn — Jetzt war’s ja klar, daß der weißbärtige Inder
-noch Immer in der Nähe … da er hier auf der Klippe ein
+Denn — jetzt war’s ja klar, daß der weißbärtige Inder
+noch immer in der Nähe … da er hier auf der Klippe ein
 sicheres Versteck hatte …
 
 Langsam zog ich meine Zigarrentasche hervor …
@@ -2487,7 +2487,7 @@ brannte …
 <@pagebreak/>
 Drei genügten …
 
-dann kehrte ich zum Boote zurück …
+Dann kehrte ich zum Boote zurück …
 
 Als ich mich an Bord des Kutters wieder einfand, half
 mir Sir Archi an Deck …
@@ -2520,12 +2520,12 @@ Bevor der Mond noch aufging, war ich, ein kleines
 Bündel auf dem Kopf festgebunden, schwimmend wieder an
 der Nordseite der Klippe — in dem engen Kanal …
 
-Bevor ich an Land stieg, schaute ich mich vorsichtig um,
+Bevor ich an Land stieg, schaute ich mich vorsichtig um.
 
 Splitternackt …
 
 Rasch das in Ölleinwand gehüllte Bünden geöffnet
-… Rasch ein Hemd Über — rasch den dunklen Schlafanzug,
+… Rasch ein Hemd über — rasch den dunklen Schlafanzug,
 rasch die weichen Morgenschuhe …
 
 <@pagebreak/>
@@ -2533,7 +2533,7 @@ Und die Clement in die Tasche — die kleine elektrische
 Lampe — die Lebensmittel und das Fläschchen Kognak aber
 in eine Felsspalte …
 
-dann in einem dunklen Winkel gewartet …
+Dann in einem dunklen Winkel gewartet …
 
 Wie ein Hoteldieb — schwarz gekleidet — mit der Finsternis
 in eins verschmelzend …
@@ -2549,7 +2549,7 @@ Dann begann ich den Anstieg zum Plateau …
 Behutsam — behutsam … Kein Steinchen rollte …
 Kein einziges …
 
-dann oben … hinter einem Randblock — zusammengekauert
+Dann oben … hinter einem Randblock — zusammengekauert
 …
 
 Wieder beobachtend — lauschend — spähend …
@@ -2605,7 +2605,7 @@ saßen …
 Wo die Räucherschale schwelte … Wo der aromatische
 Rauch mich umwehte …
 
-Ich lugte um die Ecke
+Ich lugte um die Ecke.
 
 Ich prallte zurück …
 
@@ -2656,9 +2656,9 @@ Versank wieder in die bisherige Reglosigkeit …
 Des alten Inders Augen aber glühten förmlich im
 Dunkel …
 
-Noch nie habe ich Menschenaugen derart leuchten sehen,
+Noch nie habe ich Menschenaugen derart leuchten sehen.
 
-Diese Augen hingen an dem anderen Inder — Ohne je
+Diese Augen hingen an dem anderen Inder — ohne je
 abzuschweifen …
 
 Ich spürte förmlich, daß diese beiden Männer dort einen
@@ -2684,7 +2684,7 @@ Schien sich erheben zu wollen …
 
 Schien …
 
-ich zauderte nicht länger … Zielte …
+Ich zauderte nicht länger … Zielte …
 
 Zielte …
 
@@ -2694,12 +2694,12 @@ Da — wandte er den Kopf …
 
 Ich sah sein Profil … Ich war wie versteinert …
 
-Dieses Profil …!! Eine Täuschung war ausgeschlossen,
+Dieses Profil …!! Eine Täuschung war ausgeschlossen.
 
 Dieses Profil fand man nicht oft …
 
 Es war … Harald!! Der tote Harald!! Und — —
-wie lebendig er war, sollte ich nun mit eigenen Ohren hören,
+wie lebendig er war, sollte ich nun mit eigenen Ohren hören.
 
 Er wandte den Kopf wieder nach dem greisen Inder
 hin …
@@ -2765,7 +2765,7 @@ Der hatte sich jäh vorgebeugt …
 <@pagebreak/>
 Ganz weit …
 
-Ein pfeifender, zischender Laut kam Über seine Lippen.
+Ein pfeifender, zischender Laut kam über seine Lippen.
 
 Aber — — nichts mehr …
 
@@ -2777,7 +2777,7 @@ war für Dich wie eine Ohrfeige, wie tausend Geißelhiebe,
 wie ein Ruf der schmerzhaftesten Erkenntnis … — Es
 genügt mir … Und weil ich nun alles weiß, alles, will ich
 Dir erzählen, wie ein junger Inder starb, dessen Name Dir
-Nicht ganz fremd sein dürfte …«
+nicht ganz fremd sein dürfte …«
 
 Er machte eine kleine Pause …
 
@@ -2830,7 +2830,7 @@ sollte Lampetter zwingen …«
 
 »… die Perlen herauszugeben …« vollendete Harald.
 »Und Dein Enkel wollte diesen Sahib belügen und ihm erklären,
-die Perlen stammten von ihrer Perlmuschelbank,« —
+die Perlen stammten von ihrer Perlmuschelbank.« —
 
 Ich, Max Schraut, unsichtbarer Lauscher, verlor in
 diese Augenblick die Herrschaft über meine hastenden
@@ -2901,7 +2901,7 @@ niederen Tieres.)
 Harst griff schnell nach der Laterne, beleuchtete den
 Greis …
 
-Der lehnte an der Felswand mit geschlossenen Augen,
+Der lehnte an der Felswand mit geschlossenen Augen.
 
 Plötzlich fiel sein Kopf zur Seite … sein Oberkörper
 glitt nach vorn …
@@ -2953,7 +2953,7 @@ Wand hob Harald nun aus dem Felsen eine flache, große,
 unregelmäßige Steinplatte heraus, die in Farbe und
 Struktur genau der Umgebung entsprach und ein Loch verdeckt
 hatte, das uns das Hindurchschlüpfen gestattete. Harst
-ging mit der Laterne voran. die Klippe war zum Teil
+ging mit der Laterne voran. Die Klippe war zum Teil
 nach Osten hin hohl, und diese Höhle erstreckte sich abwärts
 und mündete im Wasser, so daß man, wenn man
 tauchte und eine Strecke unter Wasser schwamm, in das von
@@ -2992,7 +2992,7 @@ hat bitterlich geweint, und Sir Archi war geradezu
 untröstlich.«
 
 Harst lächelte mir herzlich zu … »Laß gut sein, mein
-Alter … Das ist nun Ja alles Überstanden … — Höre
+Alter … Das ist nun ja alles überstanden … — Höre
 den Schluß … Als Mansur sich einmal entfernte, konnte
 ich an einer Felskante die mürben Stricke meiner Hände
 durchreiben … Wir, Mansur und ich, tauschten dann die
@@ -3023,7 +3023,7 @@ dem Rest der Diebesbeute … Wahrscheinlich dürfte noch
 ein großer Beutel mit Perlen irgendwo dort in dem Dampfer
 liegen …«
 
-»und — wie bist Du auf den Sakirawa-Tempel und
+»Und — wie bist Du auf den Sakirawa-Tempel und
 den Diebstahl gekommen?«
 
 »Hierdurch …!« — Er hob vom Boden einen seidenen
