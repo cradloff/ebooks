@@ -2,32 +2,16 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>Eigenschaften für eBook</comment>
-<!-- eindeutige ID des Buchs (Pflichtangabe) -->
 <entry key="UUID">62ad94e4-36eb-11e9-a1ad-9baa91d6f030</entry>
-<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
-<entry key="secondaryID"></entry>
-<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
-<entry key="secondaryIDType"></entry>
-<!-- Buch-Titel (Pflichtangabe) -->
 <entry key="title">Der sterbende Fechter</entry>
-<!-- Sub-Titel -->
-<entry key="subtitle"></entry>
-<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
-<entry key="shorttitle"></entry>
-<!-- Sammlung, z.B. Titel einer Serie -->
 <entry key="collection">Harald Harst - aus meinem Leben</entry>
-<!-- Position innerhalb der Sammlung (Band-Nummer) -->
 <entry key="group-position">39</entry>
-<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
-<entry key="edition"></entry>
-<!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
-<!-- Beschreibung -->
 <entry key="description">Der sterbende Fechter.
 
-Unsere Erlebnisse an Bord der Brigg »Christian von Bergen« werden dem Leser aus dem vorigen Bande noch geläufig sein. Das Verbrecherpaar Möckern-Rosa Linden, das sich auf die Brigg als flüchtige Fremdenlegionäre eingeschmuggelt hatte, war mit Hilfe eines Motorbootes gerade an der letzten Leuchtboje des Suezkanals nach der Westküste der Sinai-Halbinsel zu entflohen und hatte den berühmten Ellora-Smaragd mitgenommen, der in dem letzten unserer Abenteuer eine so geheimnisvolle Rolle spielte.
+Unsere Erlebnisse an Bord der Brigg »Christian von Bergen« werden dem Leser aus dem vorigen Bande noch geläufig sein. Das Verbrecherpaar Möckern—Rosa Linden, das sich auf die Brigg als flüchtige Fremdenlegionäre eingeschmuggelt hatte, war mit Hilfe eines Motorbootes gerade an der letzten Leuchtboje des Suezkanals nach der Westküste der Sinai-Halbinsel zu entflohen und hatte den berühmten Ellora-Smaragd mitgenommen, der in dem letzten unserer Abenteuer eine so geheimnisvolle Rolle spielte.
 
-Auf Harald Harsts Veranlassung hatte die Brigg alsbald ihren Kurs geändert und war in einer kleinen Bucht der nahen Küste vor Anker gegangen. Wir befanden uns jetzt also auf historisch-biblischem Gebiet, dazu noch auf einem Boden, der, wie Harald betonte, zum Teil noch unerforscht war. Mir erschien dies reichlich merkwürdig. Hier, wo eine der bekanntesten Wasserstraßen, eben der Suezkanal, vorüberführte, sollte es noch unerforschte Länderstrecken geben?!  — Unsere späteren Erlebnisse bewiesen mir das zur Genüge, nachher auch eine ganz neue Karte der Sinai-Halbinsel, in die im südwestlichen Teile mehrfach das Wort »Unerforscht« eingetragen war.
+Auf Harald Harsts Veranlassung hatte die Brigg alsbald ihren Kurs geändert und war in einer kleinen Bucht der nahen Küste vor Anker gegangen. Wir befanden uns jetzt also auf historisch-biblischem Gebiet, dazu noch auf einem Boden, der, wie Harald betonte, zum Teil noch unerforscht war. Mir erschien dies reichlich merkwürdig. Hier, wo eine der bekanntesten Wasserstraßen, eben der Suezkanal, vorüberführte, sollte es noch unerforschte Länderstrecken geben?! — Unsere späteren Erlebnisse bewiesen mir das zur Genüge, nachher auch eine ganz neue Karte der Sinai-Halbinsel, in die im südwestlichen Teile mehrfach das Wort »Unerforscht« eingetragen war.
 
 Das Teehaus in Bhopal.
 
@@ -35,30 +19,14 @@ Wir hatten uns fünf Tage lang die redlichste Mühe gegeben, festzustellen, wohi
 
 Lord Allan Pimberton, den Harald in diesem auf den Westabhängen des Sinai-Gebirges erbauten Schlosse des Mordes an Lord Percy Pimberton überführt hatte, war in das Polizeigefängnis von Suez in Untersuchungshaft abgeführt worden. Am sechsten Tage nach seiner Verhaftung brachte eine Polizeipatrouille aus Suez die Nachricht, daß der Mörder sich vorgestern in seiner Zelle erhängt hatte und bald darauf beerdigt worden war.
 </entry>
-<!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
-<!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
-<!-- Dateiname (default: Titel - Author.epub) -->
 <entry key="filename">Kabel, Walther - (039) Der sterbende Fechter.epub</entry>
-<!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
-<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
 <entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
-<!-- Rechte/Lizenz (z.B. Public Domain) -->
 <entry key="rights">Public Domain</entry>
-<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
-<entry key="pubDate"></entry>
-<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
-<entry key="creationDate"></entry>
-<!-- Cover-Bild (default cover.*) -->
-<entry key="cover"></entry>
-<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
 <entry key="toc">true</entry>
-<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
-<entry key="toc-entries">h1, h3</entry>
-<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
-<entry key="additional-media"></entry>
-<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="toc-entries">h1, h2</entry>
+<entry key="pubDate"></entry>
 <entry key="freemarker">true</entry>
 </properties>
