@@ -7,7 +7,7 @@
 
 Harst und ich wollten gegen halb sieben abends gerade
 noch einen Spaziergang machen, als ein altes Weiblein
-mit einem Brief erschien in dem ein Schiffskapitän
+mit einem Brief erschien, in dem ein Schiffskapitän
 Ruiterholm Harald bat, ihn wenn möglich sofort zu besuchen.
 
 Harst schickte das alte Frauchen, die dem ehemaligen
@@ -124,7 +124,7 @@ ich in meiner Handfläche?«
 »Sie sahen in dem braunen Pulver wie eingezeichnet
 das Bild eines Schiffes —«
 
-»Ja eines Zweimasters, einer Brigg! Denken Sie,
+»Ja — eines Zweimasters, einer Brigg! Denken Sie,
 meine Herren, einer Brigg, deren ganze Form genau der
 des Südsterns glich!«
 
@@ -183,7 +183,7 @@ frischer, gesünder. Nach fünf Tagen konnte ich das Bett
 verlassen. Am 8. August war das Modell fix und fertig.
 Und am 9. August erhielt ich die Nachricht, daß der Südstern
 überfällig und wahrscheinlich dicht vor Aden in einem
-furchtbaren Orkan gesunken sei. Man bat von der Brigg
+furchtbaren Orkan gesunken sei. Man hat von der Brigg
 auch nichts mehr gehört. Ich aber hatte einen anderen
 Südstern, das Modell, geschaffen, und ich fühlte mich nun
 wieder ganz sicher vor dem Schiwamatu.
@@ -238,7 +238,7 @@ Sie wenden, da Sie jetzt doch gerade hier in W. seien.«
 <h3>Das tote Huhn.</h3>
 
 »Dürfen wir uns hier genauer umsehen?« fragte Harald
-und erhob sich
+und erhob sich.
 
 »Selbstverständlich. Wo und wie Sie wollen, meine
 Herren.«
@@ -573,7 +573,7 @@ sich.
 mit einem Achselzucken. »Glaubten Sie wirklich, ich würde
 Ihre Andeutungen nicht verstehen?! Ihr aufregendes Abenteuer
 war eben ein Zusammentreffen mit dem wahren
-Diebe! Das ist’s. Ich behaupte, dieser zweite Dieb überraschte
+Diebe! Das ist’s! Ich behaupte, dieser zweite Dieb überraschte
 Sie, als Sie gerade in das Schlafzimmer Ruiterholms
 eindringen wollten. Er zwang Sie, von Ihrem Vorhaben
 abzustehen. Er wird Sie vielleicht wehrlos gemacht
@@ -793,12 +793,12 @@ Leuchte mal hinein in das Fach.«
 
 Dieses hohe, schmale Geheimfach enthielt dreierlei:
 
-1\. Einen großen, versiegelten Brief mit der Aufschrift:
+1. Einen großen, versiegelten Brief mit der Aufschrift:
 »Mein Testament«.
 
-2\. Einen zusammengefalteten Bogen Papier.
+2. Einen zusammengefalteten Bogen Papier.
 
-3\. Eine vertrocknete, kurz hinter dem Gelenk glatt abgehauene,
+3. Eine vertrocknete, kurz hinter dem Gelenk glatt abgehauene,
 menschliche rechte Hand, an deren Ringfinger noch
 ein plattgedrückter Goldring in Form eines glatten Reifens
 saß.
@@ -1024,7 +1024,7 @@ hinab in einen schmalen, erleuchteten Gang. Vier
 Kabinentüren gab es hier. Hinter der einen hörte ich laute
 Stimmen.
 
-»Ihr Freund ist schon hier«, sagte der Matrose »Und
+»Ihr Freund ist schon hier,« sagte der Matrose »Und
 <@pagebreak/>
 er ist genau so besoffen wie unser Käp’ten. Er kam schon
 schwer geladen an Bord.«
@@ -1062,7 +1062,7 @@ Riese! Das bartlose, magere Gesicht war für
 einen Seemann krankhaft farblos. Darin glühten zwei große,
 dunkle Augen in fast fieberischem Glanze.
 
-»Willkommen auf meinem Schiff,« sagte er. »Da trinken
+»Willkommen auf meinem Schiff,« sagte er. »Da, trinken
 Sie! Auf gute Kameradschaft! Sie sollen mir die Zeit vertreiben
 helfen.«
 
@@ -1130,7 +1130,7 @@ Harst gähnte. »Heut’ bin ich zu müde, Käp’ten. Sie
 müssen ja auch gleich an Deck. Um elf wollte die Brigg
 sich doch abschleppen lassen.«
 
-»Das besorgt mein Steuermann — Los, spielen wir.
+»Das besorgt mein Steuermann. — Los, spielen wir.
 Verstehen Sie was vom Prigwitt? — Na, das Spiel ist
 bald erklärt —«
 
@@ -1189,7 +1189,7 @@ Harald flüsternd fort. »Als Ruiterholm Marske erwähnte,
 glitten seine Augen zu jener Photographie hin. Und nach
 Ruiterholms Ermordung fehlte das Bild, wie Du weißt.
 — Diese leere, dunkle Stelle an der Tapete, also eigentlich
-ein Nichts, hat mir den Zusammenhang aller Einzelheiten
+ein Nichts hat mir den Zusammenhang aller Einzelheiten
 dieses Problems enthüllt. Ich habe sowohl damals
 schon in W., als auch nachher in Kopenhagen, Amsterdam
 und den anderen Seestädten Erkundigungen nach Marske
@@ -1252,7 +1252,7 @@ stiegen wir an Deck. Harald wollte den Steuermann ausfragen
 und feststellen, ob die Besatzung uns bei der Verhaftung
 Svendsens Beistand leisten würde. Wir erfuhren,
 daß die Besatzung erst vor drei Monaten angeheuert worden
-war und daß sich darunter drei Deutsche befanden. Das
+war und daß sich darunter drei Deutsche befänden. Das
 genügte uns.
 
 Wir blieben noch eine Weile neben dem Steuermann
@@ -1338,7 +1338,7 @@ standen neben dem Tische vor dem Sofa.
 <@pagebreak/>
 Harst. »Sie werden dann sehr bald die Überzeugung gewinnen,
 daß jedes Leugnen Ihrerseits zwecklos ist. — Ruiterholm
-hieß in Wirklichkeit Nörgaard und war gebotener
+hieß in Wirklichkeit Nörgaard und war geborener
 Däne. Er stahl den Smaragd aus Ellora, wobei er einem
 der Priester eine Hand abhieb, verbarg den Smaragd auf
 seiner Brigg Südstern, heiratete und hatte aus dieser Ehe eine
@@ -1351,7 +1351,7 @@ namens Thora heiratete dann den Steuermann Svendsen,
 der sie zu einer schnellen Eheschließung ohne Einwilligung
 ihres Vaters zu bestimmen wußte. Auch Thora bezahlte die
 Geburt ihres Kindes mit dem Leben. Dann übergab Nörgaard-Ruiterholm
-seinem ihm wenig sympathischen Schwiegersohn
+seinem ihm wenig sympathischen Schwiegersohne
 Svendsen, der sich damals Eduard Marske nannte,
 die Brigg. Das war im April 1902. Svendsen wollte jedoch
 sein eigener Herr auf dem Segler werden und ließ die
@@ -1393,7 +1393,7 @@ vor den Priestern des Ellora-Tempels.«
 Svendsen hatte plötzlich die Hände vor das Gesicht geschlagen
 und weinte, stieß wimmernd hervor:
 
-»Ich bereue — bereue alles aufrichtig — Ich weiß
+»Ich bereue — bereue alles aufrichtig — Ich weiß,
 daß ich keine Schonung verdiene. Wenn nur mein Kind
 nie erfahren möchte, daß ich — ein Mörder bin.«
 
