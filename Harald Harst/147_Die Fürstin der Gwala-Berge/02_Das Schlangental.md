@@ -53,7 +53,7 @@ Aus den Dünsten der Wildnis kam das Geräusch empor
 zu uns wie ein Gruß einer anderen Welt — zu uns dreien,
 zwei Lebenden, einer Toten …
 
-Zu uns, die wir gleichsam über allem indischen
+Zu uns, die wir gleichsam über allem Irdischen
 schwebten … auf Wolken, aus einem steinernen Floß, das
 von Geisterhänden durch ein Wolkenmeer getragen wurde …
 
@@ -270,14 +270,14 @@ hinab in das Gestrüpp am Fuße der Klippe tragen soll …
 Er knotete das eine Ende um den Bootshaken und
 drückt diesen in eine tiefe Ritze des Gesteins.
 
-Wir Schultern unsere Rucksäcke …
+Wir schultern unsere Rucksäcke …
 
 »Ich klettere voran … Wenn ich dreimal an dem Seil
 rucke, folgst Du mir …«
 
 Ich nickte nur …
 
-Über uns der tropisch Sternenhimmel — eine funkelnde
+Über uns der tropische Sternenhimmel — eine funkelnde
 Pracht …
 
 Und Harald taucht hinein in die Nebelschwaden …
@@ -399,7 +399,7 @@ Es gibt für jeden Menschen Stunden, die er nie wieder
 erleben möchte, die selbst in der Erinnerung nach Jahren
 nichts von ihrer Furchtbarkeit einbüßen … Ein eherner
 Griffel gräbt all die Einzelheiten gleich tiefen Wunden in
-unter Gedächtnis ein … Wunden, die nie verheilen … —
+unser Gedächtnis ein … Wunden, die nie verheilen … —
 
 So war es damals, als wir, eng nebeneinander an
 einen in die Erde gerammten Pfahl gefesselt, wieder zum
@@ -625,7 +625,7 @@ Kobra werden etwa anderthalb Zentimeter lang und liegen,
 wenn das Tier seine Nahrung verschlingt, umgeklappt nach
 innen am Gaumen an.
 
-Jedenfalls: die eine der Kobras war aus diese Weise
+Jedenfalls: die eine der Kobras war auf diese Weise
 um einen Giftzahn gekommen, ohne mir etwas anzutun …
 Mein Stiefel würde an dem Schlangengift nicht krepieren …
 
@@ -997,7 +997,7 @@ getan hatte: mir gehören die Gwala-Berge!
 Seltsam …
 
 Und doch war etwas in dem Ton seiner Stimme gewesen,
-das herrisch und selbstbewußt klang — ohne jene
+das herrisch und selbstbewußt klang — ohne jede
 Wichtigtuerei …
 
 Wir rasten weiter …
@@ -1012,7 +1012,7 @@ höher erstrahlend … Die Sonne rückte über den Dunst des
 Horizontes … Wir waren gerade auf einem Hochplateau …
 In der Ferne unendliche grüne Flächen: Dschungel!
 
-Aber noch erwacht erblickten wir … Noch etwas.
+Aber noch etwas erblickten wir … Noch etwas.
 
 Gerade unter uns …
 
@@ -1095,7 +1095,7 @@ eigenen Knochen …
 
 Ein Wettlauf ums Leben …
 
-Hinter uns jetzt trat der Panther — — frei von jeder
+Hinter uns her jetzt der Panther — — frei von jeder
 Fessel …
 
 Der Panther nimmt Riesensätze … Selbst den Kameltrab
@@ -1183,7 +1183,7 @@ Eilt zu Fuß voran … Der Panther dicht neben ihm …
 Und ruft wiederum …
 
 »Geben Sie Ihre Tiere frei, meine Herren … Oben
-sind wir vorläufig im Sicherheit …«
+sind wir vorläufig in Sicherheit …«
 
 <@pagebreak/>
 Wir gleichfalls aus dem Sattel … Der Pfad ist oft
@@ -1260,7 +1260,7 @@ Harald hakt den Rucksack los, entnimmt ihm sein Fernglas
 
 Schaut hindurch und gibt es mir …
 
-Ich drehe die Stellschraube, bis ich daß Gesicht der
+Ich drehe die Stellschraube, bis ich das Gesicht der
 Rani dicht vor mir habe …
 
 Ein Gesicht, das einer aschgrauen Fratze gleicht …
@@ -1275,7 +1275,7 @@ Ich lasse das Glas sinken …
 
 »Harald, wer ist der Führer?«
 
-Er schnitt mich an …
+Er schaut mich an …
 
 »Der Führer, mein Alter, — und jetzt wird Dir manches
 klar werden — der Führer ist der Vorgänger der Rani
@@ -1294,7 +1294,7 @@ derart verblüfft, daß ich minutenlang schweige …
 <@pagebreak/>
 Harald nimmt mir das Glas ab …
 
-Mein: »Der Panther erkannte den früheren Herrn, den
+Meint: »Der Panther erkannte den früheren Herrn, den
 die Rani im Tale der Schlangen von zwölf Vertrauten
 gefangen halten ließ …«
 
@@ -1302,7 +1302,7 @@ Ich nicke nur automatenhaft … So ganz begreife ich
 noch immer nicht …
 
 »Und jetzt, mein Alter, dürfte Sidar Lampsa Bakur sich
-hier in seinem Jagdschloß etwas fürstlichen herrichten, die
+hier in seinem Jagdschloß etwas fürstlicher herrichten, die
 Lumpen ablegen und sich seinem Volke in geeigneterer Aufmachung
 zeigen … Dann erst wird man den Totgeglaubten
 wiedererkennen. Er war sehr beliebt — ganz im Gegensatz
@@ -1547,7 +1547,7 @@ Der Radjah sollte in feierlichem Zuge zur Hauptstadt
 geleitet werden.
 
 Inzwischen hatten wir jedoch dem Fürsten von den
-Vorgängen auf dem Felsen der Laune berichtet.
+Vorgängen auf dem Felsen der Lagune berichtet.
 
 Der Radjah wieder hatte uns erklärt, daß seine Schwester
 Barmalar ihn wahrscheinlich gleichfalls zunächst für tot gehalten
