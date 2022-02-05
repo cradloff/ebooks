@@ -90,7 +90,7 @@ auch breitschultrig und kräftig, und doch drückte sein Gesicht bei
 näherer Prüfung etwas wie ständige, angstvolle Wachsamkeit
 aus. Seine Linke, die das Absinthglas umklammert hatte,
 schloß sich jetzt wie im Krampf um das Trinkglas. Da —
-ein Klirren, Scherben fielen auf den Tisch. Er hatte das dicke
+ein Klirren; Scherben fielen auf den Tisch. Er hatte das dicke
 Glas mit den Fingern zerdrückt! — Das war ein Beweis für
 Muskelkräfte seltener Art.
 
@@ -121,7 +121,7 @@ in den Absinth und goß das Glas halb voll Wasser aus einer
 der Karaffen. Langsam rührte er die Flüssigkeit mit dem
 dünnen Trinkrohr um. Das Eisstückchen klirrte dabei leise
 gegen die Wandung des Glases, wurde kleiner und kleiner und
-löste sich bald gar auf.
+löste sich bald ganz auf.
 
 Ich hatte mich in meinen Sessel zurückgelehnt und rauchte
 eine Zigarette, sah scheinbar zu den Logen empor und prüfte
@@ -190,7 +190,7 @@ wiedererkannt hätte.
 
 <@pagebreak/>
 Dann fuhr draußen ein geschlossenes Auto vor. Ein Weißer
-sprang heraus, ihm folgten zwei bartlose Inder in
+sprang heraus. Ihm folgten zwei bartlose Inder in
 europäischer Tracht.
 
 Und dieser Weiße war unser alter Bekannter, Detektivinspektor
@@ -213,13 +213,13 @@ Gläser hatte stehen lassen.
 Harald hatte nur noch Interesse für die Bühne. Aber —
 er bestellte jetzt kalten Grog, auch für mich, wurde recht lebhaft
 und spielte den leicht Angeheiterten, der immer noch nicht
-genug »an die Lampe gegossen hat«.
+genug »auf die Lampe gegossen hat«.
 
 Als der Akt zu Ende war und es hell wurde, kamen ein
 paar Seeleute von den Nebentischen zu Harst und wollten
 wissen, wie’s dem blassen Master ging.
 
-»Tot,« sagte Harst kurz. »Mauesetot! Herzschlag, hat
+»Tot,« sagte Harst kurz. »Mausetot! Herzschlag, hat
 der Arzt entschieden.«
 
 »Und wer war der Mann?« fragte einer der Neugierigen.
@@ -274,7 +274,7 @@ sperrte man Harst und mich in eine Zelle, in der sich lediglich
 eine Holzpritsche befand und wo an der Decke eine elektrische
 Birne glühte.
 
-Als die Tür hinter uns zufiel wurde Harald sofort ein
+Als die Tür hinter uns zufiel, wurde Harald sofort ein
 anderer, flüsterte:
 
 »So — wir haben diese erste Partie gewonnen!«
@@ -315,7 +315,7 @@ eine verkleidete Dame ist, — dann ist er’s!«
 »Du sprichst wie das Orakel in Delphi. Deine Antworten
 entbehren der Klarheit.«
 
-Da wurde die Tür wieder geöffnet ein Polizeibeamter
+Da wurde die Tür wieder geöffnet. Ein Polizeibeamter
 rief uns zu:
 
 »Sie sind entlassen!«
@@ -337,7 +337,7 @@ dort noch in der Nähe eine lebende Seele erblicken. Die elektrischen
 Bogenlampen erleuchteten die Kais fast taghell.
 
 Der Jollenführer ruderte sehr schnell. Nach fünf Minuten
-erklärte Harst wütend: »Verdammt, da ist hier ja ’ne
+erklärte Harst wütend: »Verdammt, das ist hier ja ’ne
 ganz falsche Gegend! Wo sind wir eigentlich? — Nach den
 Kais zurück, brauner Halunke!«
 
@@ -374,7 +374,7 @@ verdeckten Karten, will ich Dir gleich sagen, daß die ganze
 Geschichte folgendermaßen in Fluß kam. Ich merkte an unserem
 Tische als erstes, daß der Inder mit der Verschleierten in
 der Loge allerlei Zeichen wechselte — durch Handhochheben —
-und so weiter. Dann als zweites, daß er sich alle Mühe gab
+und so weiter. Dann als zweites, daß er sich alle Mühe gab,
 mein Gespräch mit dem Ingenieur Robin Parmang zu belauschen.
 So heißt der Amerikaner nämlich. Drittens fiel
 mir auf, daß der Inder so kleine Eigentümlichkeiten an sich
@@ -399,8 +399,8 @@ hervor, gossen ihm Wasser in den Mund, zwangen ihn
 zum Schlucken, spülten den Magen durch mehrfaches Erbrechen
 gründlich aus und erreichten so, daß der bereits sehr
 schwache Puls wieder kräftiger wurde. In dem Zimmer — es
-war das des Direktors des Theaters befand sich ein Telephon.
-Ich rief die Polizeidirektion an, Blosley war noch dort. So
+war das des Direktors des Theaters, befand sich ein Telephon.
+Ich rief die Polizeidirektion an. Blosley war noch dort. So
 konnte ich ihm gleich einige Verhaltungsmaßregeln geben. Er
 kam dann, wir ließen ihn ein, schlossen die Tür wieder zu. Gerade
 da kehrte Parmang das Bewußtsein zurück. Er konnte
@@ -479,7 +479,7 @@ Der ist wie in die Erde gesunken,« meinte Blosley nun.
 
 »Er wird es genau so gemacht haben wie der Bickpool:
 Bart ab, Schminke ab, und dann als bartloser Europäer
-ruhig an meinem lieben Schraut vorbei ins Freie oder —
+ruhig an meinem lieben Schraut vorbei ins Freie oder — —
 oder wieder hinein in den Saal, um uns beide zu belauern!
 Ich halte das letztere für das wahrscheinlichere. Jedenfalls
 habe ich den Burschen auch nicht mehr aufspüren können. Nachgeschlichen
@@ -627,7 +627,7 @@ Pavillon. Wir führten erst die Besichtigung der Räume zu
 Ende. Dann ging’s in den Park. Mit Hilfe unserer Taschenlampen
 fanden wir auch die Fährte eines Mannes mit sehr langen
 Füßen. In einem frisch aufgeworfenen Erdhügel einer
-Wühlratte war der Absatz des eines Stiefels des »Inders«
+Wühlratte war der Absatz des einen Stiefels des »Inders«
 recht scharf abgedrückt. Der Absatz hatte neue Gummiecken gehabt.
 Man sah noch die Riffelung des Gummis.
 
@@ -647,7 +647,7 @@ Kunststück fertiggebracht, von der äußeren Flaschenwand einen
 recht klaren Fingerabdruck, den er sichtbar gemacht hatte,
 stark vergrößert auf ein Stück Papier zu zeichnen.
 
-»Es ist der Abdruck eines linken Daumens.« erklärte er
+»Es ist der Abdruck eines linken Daumens,« erklärte er
 nun. »Der Mensch hat die Flasche mit der Linken gehalten
 und mit der Rechten das Gift hineingegossen. Ich hoffte auf
 diesen Fingerabdruck. Nun haben wir ein untrügliches Kennzeichen
@@ -729,7 +729,7 @@ meinen unheimlichen Gegnern dort weiter nachzuspüren. So
 liebenswürdig und hilfsbereit dies nun auch von Ihnen ist:
 ich rate entschieden davon ab. Der Kern dieser rätselhaften
 Geschehnisse, all dieser Nachstellungen eben, ist niemals dort
-droben in dem Himalaya-Lande zu suchen, niemals! Ihre
+droben in dem Himalayalande zu suchen, niemals! Ihre
 Reise würde ganz zwecklos sein. Davon bin ich so fest überzeugt,
 daß ich es zu meinem Bedauern ablehnen muß, Sie
 in einer Verkleidung zu begleiten. Ich will vielmehr in irgend
@@ -758,7 +758,7 @@ den Augen verlieren. Aber — er ist seit heute früh spurlos
 verschwunden.«
 
 <@pagebreak/>
-»Hm — er wird als Dame, als Inderin oder dergleichen
+»Hm — er wird als Dame, als Inderin oder dergleichen,
 entwischt sein. Und sein Gepäck?«
 
 »Er hatte nur eine Handtasche mit. Die ließ er stehen.
@@ -780,7 +780,7 @@ eine mohammedanische Inderin vor. Unser einziges Gepäckstück
 lag über mir im Netz: ein sogenannter Kupeekoffer kleineren
 Formats. Natürlich saß ich in einem Frauenabteil. Es war fast
 leer; außer mir befand sich nur eine junge Inderin mit einem
-Säugling darin. Ich hatte jetzt vollauf Zeit die Ereignisse
+Säugling darin. Ich hatte jetzt vollauf Zeit, die Ereignisse
 der letzten 24 Stunden zu überdenken und — zu schlafen, denn
 bis Patna sind es rund 1000 Kilometer. Beides tat ich sehr
 ausgiebig.
@@ -793,7 +793,7 @@ haben Robin Parmang nicht zum letzten Male gesehen!«
 
 Ich wurde aus dieser Bemerkung Haralds nicht recht klug.
 Aber so sorgfältig ich auch die einzelnen Vorgänge prüfte, ich
-fand nichts was mir diese Bemerkung klarer gemacht hätte. —
+fand nichts, was mir diese Bemerkung klarer gemacht hätte. —
 
 Wir trafen früh morgens in Patna ein. Harst als Mistreß
 Parker ging lediglich zur Gepäckabfertigung und ließ die
@@ -900,9 +900,9 @@ dem unterirdischen Gange. Beweis: ich fand im Schlafzimmer
 an dem einen Fenstergitter zwei Stangen durchgesägt
 <@pagebreak/>
 und leicht verbogen, im Fensterrahmen aber zwei feine Bohrlöcher,
-die den Zweck hatten, einen Draht hindurchzuschieben
+die den Zweck hatten, einen Draht hindurchzuschieben,
 um die Riegel öffnen und nachher auch wieder zuziehen zu
-können. Auf dem Wege ist der Mann bei uns eingedrungen,
+können. Auf *dem* Wege ist der Mann bei uns eingedrungen,
 und nicht durch den geheimen Gang. — Ich berichtige diese
 Punkte deshalb, weil es recht wichtig ist, daß wir hier mit diesen
 Leuten zum ersten Male etwas zu tun haben. Ich —«
@@ -920,14 +920,14 @@ Grinsen und flüsterte:
 
 »Ich habe gute Augen — trotz der Brille, Mistreß — sehr
 gute Augen. Vor elf Tagen fuhren zwei Damen nachts im
-Extrazuge von Port Conning nach Kalkutta. Ich war gerade
-in Port Conning und mußte als Zugbegleiter mit. Und dann
+Extrazuge von Port Canning nach Kalkutta. Ich war gerade
+in Port Canning und mußte als Zugbegleiter mit. Und dann
 stand in den Zeitungen zu lesen, daß die beiden Damen der
 berühmte Detektiv Harst und sein Freund Schraut gewesen
 seien, die hinter einem chinesischen Verbrecher her waren.
 Die eine Dame aber sah bis auf den Kneifer genau so aus wie
 Sie, Mistreß, genau! und hatte auch dasselbe karierte Kostüm
-an. — Ja, meine Augen sind tadellos nicht wahr, Mr. Harst?
+an. — Ja, meine Augen sind tadellos, nicht wahr, Mr. Harst?
 — Ich würde mich freuen, wenn ich Ihnen irgendwie behilflich
 sein könnte.«
 
@@ -943,6 +943,7 @@ wir seien. Dann reichte er dem Schaffner eine Pfundnote.
 »Auch ohne das Geld könnten Sie’s, Mr. Harst.«
 
 Der Alte bedankte sich noch und verließ uns wieder.
+
 »Sehr unangenehm!« meinte Harald jetzt ärgerlich.
 »Wenn der Mensch eine Plaudertasche ist, kann uns daraus
 böses Unheil erwachsen.«
@@ -1006,7 +1007,7 @@ ein, wo er etwa fünf Minuten hielt. Harst stand am Fenster.
 
 <@pagebreak/>
 Dann ging es weiter. Harst drehte sich langsam um,
-lächelte zufrieden. —
+lächelte zufrieden.
 
 »Ich — habe ihn!« flüsterte er.
 
@@ -1050,7 +1051,7 @@ sollen Nepal nicht erreichen! Wir werden es! Nun gerade!«
 Als wir in Betija eintrafen, war es bereits dunkel. Inzwischen
 hatte Harst den Zugführer gefragt, ob es in der
 Stadt ein Hotel gebe. Der Eurasier hatte uns ein Pensionat
-empfohlen. Betija mit seinen 20 000 Einwohnern liegt bereits
+empfohlen. Betija mit seinen 20&nbsp;000 Einwohnern liegt bereits
 in den Vorbergen des Himalaya und ist ebenfalls Luftkurort
 — wie Simla, Darschelling und andere malerische Gebirgsorte.
 
@@ -1143,7 +1144,7 @@ wie Sie so zu belügen! Empörend!«
 »In Kalkutta, Mr. Doorball. Aber — in der Hauptsache
 will ich Nepal bereisen, und nur so nebenbei wollte ich
 mich mit den Attentaten beschäftigen. — Gut also, begleiten
-Sie uns. Ich muß jetzt gehen. Wir, Schraut und ich sind
+Sie uns. Ich muß jetzt gehen. Wir, Schraut und ich, sind
 hundemüde. Dann auf Wiedersehen morgen um 12 Uhr —«
 
 Doorball brachte uns bis zu unserem Wagen, der auf uns
@@ -1206,7 +1207,7 @@ von ihnen hier gewesen sind,« meinte er mit halb
 zusammengekniffenen Augen. »Der »Franzose« kann sehr wohl nach
 dem Gespräch mit dem Diener —«
 
-Er brach mitten im Satz ab, hob die rechte Hand deutete
+Er brach mitten im Satz ab, hob die rechte Hand, deutete
 auf die Tischplatte. Dort stand eine Wasserkaraffe auf einem
 lackierten Teebrett, daneben ein Wasserglas. Und — in dem
 Glase lag — ein Stückchen Eis in einer geringen Wassermenge!
@@ -1235,14 +1236,14 @@ Mit einer Leiter kommt man bequem auf den Balkon. — Geh’
 jetzt schlafen. Ich werde wachen. Es muß sein!«
 
 Ich schlief bis sechs Uhr morgens. Dann löste ich Harald
-ab, unsere Wache war jedoch überflüssig gewesen. —
+ab; unsere Wache war jedoch überflüssig gewesen. —
 
 Um elf Uhr vormittags fand sich der dicke Doorball im
 Pensionat ein und teilte uns mit, daß er noch einen Fahrgast
 bis zur Grenze mitnehmen müsse, einen Hauptmann, der Mitglied
 einer Vermessungskommission sei.
 
-Harst meinte, der Hauptmann störe ihn nicht. — Um ½ 1
+Harst meinte, der Hauptmann störe ihn nicht. — Um ½1
 fuhren wir dann zu fünfen ab: Der Chauffeur, der Hauptmann
 Gangreen, Doorball und wir beide.
 
@@ -1333,7 +1334,7 @@ Reisegenosse ist.«
 
 Nun, Master Doorball machte nicht nur *große* Augen,
 sondern geradezu freudestrahlende. Ich begriff, weswegen: er
-hoffte jetzt sich wirklich einmal auszeichnen zu können, nachdem
+hoffte jetzt, sich wirklich einmal auszeichnen zu können, nachdem
 Harst ihm eben anvertraut hatte, daß der Hauptmann
 lediglich so etwas wie ein Räuberhauptmann sei. — Der Dicke
 war also nicht nur ehrgeizig, sondern hatte auch Mut! Und
@@ -1352,7 +1353,7 @@ und beteiligte sich nicht an der Unterhaltung. Unser Dicker
 machte Witze und freute sich, wenn Harst schallend dazu lachte.
 Es war alles in allem eine tolle Fahrt.
 
-Gegen ½ 9 abends erreichten wir eine Höhe, wo es häufiger
+Gegen ½9 abends erreichten wir eine Höhe, wo es häufiger
 schon Schneetreiben geben sollte, wie Doorball versicherte;
 freilich bliebe der Schnee niemals liegen.
 
@@ -1360,7 +1361,7 @@ Es wurde kälter und kälter. Dann — waren wir nach
 ein paar neuen Serpentinenwegen plötzlich auf der Höhe der
 Vorberge angelangt. Es war noch hell genug, um in weiter
 Ferne nach Norden zu das ungeheure Gebirgsmassiv des
-Himalaya und auch den höchsten Berg der Erde, den Gaurisankar,
+Himalaya und auch den höchsten Berg der Erde, den Gaurisankar<@refnote 1/>,
 zu erkennen. In rötlichem Glanze, getroffen vom
 roten Widerschein des Abendhimmels, flammten die Eishäupter
 der Bergriesen auf.
@@ -1445,9 +1446,9 @@ Rasthause führt, das 50 Meter vom Wege ab im Schutze einer
 weit überhängenden Felswand steht. Wir können im Schneetreiben
 nur zu leicht daran vorüber.«
 
-Aber — wir fanden es. Wir sahen es schon von weitem.
-Zwei Fenster waren erleuchtet und schimmerten in der jetzt
-längst hereingebrochenen Dunkelheit wie feurige Augen. —
+Aber — wir fanden es. Wir sahen es schon von weitem;
+zwei Fenster waren erleuchtet und schimmerten in der jetzt
+längst hereingebrochenen Dunkelheit wie feurige Augen. — —
 Sturm und Schneefall hatten für Minuten aufgehört. Harst
 war stehen geblieben. »Warten wir,« sagte er. »Wie ist’s
 mit Deinen Nerven, mein Alter? Da — trink’ einen Schluck

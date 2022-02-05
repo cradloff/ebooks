@@ -17,10 +17,10 @@ daß Mautley und Bickpool eben Verkleidungskünstler
 von einer nie gekannten Virtuosität wären.
 
 Was diese beiden Hochstapler und Mörder alles ersonnen,
-um sich uns endgültig zu entziehen — damit könnte man
+um sich uns endgültig zu entziehen, — damit könnte man
 Bände füllen. Eine Probe ihrer verbrecherischen Intelligenz
 habe ich ja dem Leser in unserem vorigen Abenteuer zu kosten
-gegeben, in »Fünf Stecknadeln« — Nun, diese Falle damals
+gegeben, in »Fünf Stecknadeln«. — Nun, diese Falle damals
 in Patna hatte uns genügend gewarnt. Zum zweiten Male
 sollte uns etwas Ähnliches nicht passieren.
 
@@ -44,7 +44,7 @@ geschaut haben, wie ich in Band 15 »Der blinde Brahmane«
 erzählt habe. —
 
 Es war gegen acht Uhr abends. Ich saß auf der Veranda,
-die zu unseren Zimmern gehörte, im Liegestuhl und blätterte
+die zu unseren Zimmern gehörte, im Liegestuhl, und blätterte
 in den »neuesten« deutschen Zeitungen, die bereits 17 Tage
 alt waren. Das schadete nichts. Es waren deutsche Zeitungen,
 waren Erinnerungen an die Heimat. Das blieb die Hauptsache.
@@ -59,7 +59,7 @@ beständig Ausgehzeit.
 Die Veranda des Bungalows war durch Holzwände in so
 und so viele Verschläge abgeteilt. Rechts von uns wohnte seit
 gestern ein General der indischen Kolonialarmee mit seiner
-kranken Tochter, die das heiße Klima nicht vortrug und die der
+kranken Tochter, die das heiße Klima nicht vertrug und die der
 besorgte Vater daher nach England zurückbringen wollte. Der
 General hieß Shaterlain, die Tochter mit Vornamen Bessy.
 Diese Einzelheiten hatte mein »Diener« bereits gestern abend
@@ -92,11 +92,11 @@ dort drinnen vor meinem großen Koffer auf dem Fußboden.«
 
 Ich hörte jetzt, wie Bessy Shaterlain leise weinte.
 
-»Pa!« sagte sie dann, »Pa — Mr. Gould war nicht hier.
+»Pa,« sagte sie dann, »Pa — Mr. Gould war nicht hier.
 Du tust mir unrecht. Ich habe seit sechs Uhr hier auf der Veranda
 gesessen und war in meinem Liegestuhl eingeschlafen.
 Erst Du hast mich soeben aufgeweckt. Und — Du gingst doch
-um ¾ 6 erst in die Stadt.«
+um ¾6 erst in die Stadt.«
 
 »Nein — es war fünf Minuten vor 6,« knurrte der General.
 »Hm — Du hast mich ja auch noch nie so frech beschwindelt,
@@ -119,7 +119,7 @@ der rückwärtigen Parkpforte diese Brieftasche. Sie ist leer,
 aber Ihr Name ist auf der Innenseite in Goldbuchstaben eingepreßt.
 Ich bin der Diener des neben Ihnen wohnenden Mr.
 Knoxen. Von dem Zimmerkellner erfuhr ich gestern Ihren
-Namen. Sie gestatten, daß ich Ihnen die Juchtenledertasche<@refnote 1/>
+Namen. Sie gestatten, daß ich Ihnen die Juchtenledertasche<@refnote 2/>
 wieder aushändige.«
 
 Harst stand offenbar noch im Zimmer, während er dies
@@ -135,9 +135,9 @@ Plötzliche Pause. Dann — ein förmlicher Wutschrei.
 
 »Ah — der Fingernagel! Und Du, Bessy, Du hast geschlafen.
 Ich bin bestohlen worden! — Hören Sie mal (und
-das galt meinem »Diener«) laufen Sie mal zum Hoteldirektor.
+das galt meinem »Diener«), laufen Sie mal zum Hoteldirektor.
 Er soll mir den Hoteldetektiv schicken und auch gleich der
-Polizei die Sache melden. Mir sind 10 000 Pfund Sterling
+Polizei die Sache melden. Mir sind 10&nbsp;000 Pfund Sterling
 aus dem Koffer gestohlen, dazu einige Papiere —«
 
 <@pagebreak/>
@@ -182,7 +182,7 @@ erholt.«
 
 Lord Wolpoore hatten wir vor nicht allzu langer Zeit
 von seinen unerbittlichen Feinden, den Thug, befreit, jener indischen
-Mördersekte, die zu Ehren der Blutgöttin Chali ihre
+Mördersekte, die zu Ehren der Blutgöttin Kali<@refnote 1/> ihre
 Opfer erwürgte. Ich führe dies hier nur so nebenbei an, obwohl
 unser Kampf gegen die letzten Thug mit das aufregendste
 war, was wir bisher erlebt hatten. In Band 25, »Die Siegellacktröpfchen«,
@@ -222,19 +222,19 @@ hast?« fragte ich nach einer Weile.
 
 »Was geht uns die Geschichte an! — Die Tasche lag dicht
 neben der Mauerpforte auf dem Rasen, noch innerhalb des
-Parkes. Ich bemerkte sie, als ich um ½ 7 aus der Stadt zurückkehrte.«
+Parkes. Ich bemerkte sie, als ich um ½7 aus der Stadt zurückkehrte.«
 
-»Um ½ 7? — Du hast dem General den Fund doch erst
+»Um ½7? — Du hast dem General den Fund doch erst
 nach 8 Uhr gemeldet. Ja — es war zehn Minuten nach acht.«
 
 »Hm — stimmt genau. Du kennst ja meine Leidenschaft
 für unseren schönen freien Liebhaberberuf. Ich spürte von
-½ 7 bis 8 dem Diebe nach. Aber ich kam zu spät.«
+½7 bis 8 dem Diebe nach. Aber ich kam zu spät.«
 
 »Du kamst zu spät?«
 
 »Ja — der Bursche hatte schon eine Kabinenkarte für den
-Tourendampfer nach Aden, der um ½ 8 Bombay verließ.«
+Tourendampfer nach Aden, der um ½8 Bombay verließ.«
 
 »Wie — Du hast den Dieb gesehen?« Ich war abermals
 sprachlos. Ich begriff Harsts Verhalten nicht.
@@ -279,7 +279,7 @@ Greap, bereits von Ansehen kannte.
 wie ein englischer Jockey aussah. »So — so. Sie beide wollen
 also plötzlich abreisen. Hm — kann ich nicht mal irgend welche
 Papiere haben, die Sie beide genügend als Thomas Knoxen
-und Archibald Smuth legitimiren?«
+und Archibald Smuth legitimieren?«
 
 »Papiere? Ja — die können Sie allerdings haben. Sie
 sind doch der Hoteldetektiv, nicht wahr?«
@@ -296,7 +296,7 @@ sehr dienstlich:
 
 »Im Namen des Vizekönigs von Indien verhafte ich Sie
 <@pagebreak/>
-beide unter dem Verdacht, den General Shaterlain 10 000
+beide unter dem Verdacht, den General Shaterlain 10&nbsp;000
 Pfund gestohlen zu haben.«
 
 Die Wirkung dieser Ankündigung war seltsam genug. Mein
@@ -440,7 +440,7 @@ Gelbeträge vermutete.«
 
 Shaterlain wetterte jetzt los. »Ah — dieser scheinheilige
 Halunke! Er hat sich von mir Kleingeld in eine 100-Pfundnote
-umwechseln lassen. Zu diesem Zweck holte ich die Jackentasche
+umwechseln lassen. Zu diesem Zweck holte ich die Juchtentasche
 aus meinem Koffer heraus. Da muß er gesehen haben,
 daß sich ein großer Betrag darin befand! So ein Lump.«
 
@@ -554,7 +554,7 @@ wollte Harald jetzt beweisen, daß ich recht gut wüßte, was er
 in Amsterdam getrieben hätte.
 
 <@pagebreak/>
-»Na hast Du Mautley und Bickpool entdeckt?«
+»Na — hast Du Mautley und Bickpool entdeckt?«
 fragte ich.
 
 Er saß auf dem Bettrand und rauchte. Seine tadellose
@@ -574,7 +574,7 @@ sie. Und ich konnte sie nirgends mehr aufstöbern.«
 Harst hatte jetzt wieder seine schweigsamen Tage. In
 Pforzheim ging er jedoch vorsichtiger zu Werke. Wir verließen
 den Zug bei der Ankunft einzeln und waren zwei sehr
-würdige ältere Herren geworden, wohnten auch in verschiedenen
+würdige, ältere Herren geworden, wohnten auch in verschiedenen
 Hotels. Fünf Tage durfte ich mir die Stadt ansehen. Dann
 ging’s weiter — nach Berlin. Wir reisten zwar in demselben
 Zuge, kannten uns aber scheinbar nicht. Alles war für Berlin
@@ -592,7 +592,7 @@ Mautley und Bickpool hier in Berlin vermutete.
 Den ersten Zettel steckte er mir am Abend des dritten
 Tages zu.
 
-»Lies das heutige 7-Uhr Abendblatt. Ich habe von
+> »Lies das heutige 7-Uhr Abendblatt. Ich habe von
 Pforzheim aus an Wolpoore geschrieben und er hat die
 Nachricht in die Londoner Blätter hineinlanziert.«
 
@@ -604,7 +604,7 @@ ich das Blatt durch.
 Auf der ersten Seite fiel mir sofort ganz oben die Riesenüberschrift
 auf:
 
-Der geheimnisvolle Mord im Warenhause Michael.
+<p class="centered strong">Der geheimnisvolle Mord im Warenhause Michael.</p>
 
 Nun — diesen Artikel wollte ich mir für nachher aufsparen.
 <@pagebreak/>
@@ -614,7 +614,7 @@ Harst einzig und allein gemeint haben konnte.
 
 Da stand:
 
-»Wie Londoner Blätter melden, ist der berühmte Detektiv
+> »Wie Londoner Blätter melden, ist der berühmte Detektiv
 Harald Harst vor 12 Tagen zusammen mit dem bekannten
 Plantagenbesitzer Lord Wolpoore in London eingetroffen.
 Vorgestern ist des Lords Jacht mit Harald Harst
@@ -645,13 +645,13 @@ würden?! Ich hatte meine großen Bedenken.
 Dann nahm ich mir den langen Artikel auf der ersten
 Seite vor. Ich will daraus alles Unwichtige weglassen.
 
-»Gestern am 9. Mai morgens um ¾ 8 fanden Angestellte
+> »Gestern am 9. Mai morgens um ¾8 fanden Angestellte
 des Warenhauses Michael, wie wir schon kurz meldeten, in
 der Reparaturwerkstatt für Goldwaren im 4. Stock den Goldarbeiter
 Ernst Bickel mitten in dem langgestreckten Raume
 vor seinem Arbeitstische auf dem Fußboden tot auf.
 
-Bickel war unverheiratet, 27 Jahre alt, von kleiner Statur,
+> Bickel war unverheiratet, 27 Jahre alt, von kleiner Statur,
 etwas verwachsen und ein sehr wenig umgänglicher Mensch.
 Er wohnte in Moabit in der Sickingenstraße 158, wo er bei
 der Witwe Schultz im Vorderhause ein Zimmer mit Flureingang
@@ -666,15 +666,15 @@ Jahre zurück. Er war ein fleißiger, geschickter Arbeiter,
 jedoch wenig beliebt bei den anderen Angestellten des bekannten
 Kaufhauses.
 
-In der Reparaturwerkstatt befinden sich vier Arbeitstische.
+> In der Reparaturwerkstatt befinden sich vier Arbeitstische.
 Den am weitesten links, zugleich den von der Eingangstür entferntesten,
 benutzte der Ermordete. Vor diesem Tische lag er
 auf dem Rücken, als seine Kollegen Martin und Schmolk gegen
-¾ 8 den Reparaturraum betraten, zu dessen eiserner Tür jeder
+¾8 den Reparaturraum betraten, zu dessen eiserner Tür jeder
 der vier Goldarbeiter einen Schlüssel besaß. Diese Tür war
 verschlossen gewesen.
 
-Bickels Kollegen ahnten sofort, daß hier etwas ganz Außergewöhnliches
+> Bickels Kollegen ahnten sofort, daß hier etwas ganz Außergewöhnliches
 vorgefallen sein müsse, obwohl der Tote außer
 einem verzerrten Gesicht nichts sonstwie Auffallendes an
 sich hatte. Aber die verschlossene Tür gab den beiden Goldarbeitern
@@ -689,7 +689,7 @@ seine Kollegen, besonders der rechts neben ihm sitzende
 Schmolk deutlich gehört, wie Bickel vor sich hinmurmelte: »Geld
 haben — nur Geld haben!«
 
-Die Annahme des Selbstmordes ließen Martin und
+> Die Annahme des Selbstmordes ließen Martin und
 Schmolk jedoch sofort wieder fallen. Sie sahen nämlich, daß
 der an der Wand neben Bickels Arbeitstisch stehende Stahlschrank,
 ein Tresor älterer Konstruktion, offen war. In diesem
@@ -704,12 +704,12 @@ zwar in einer Art Geheimfach, das er sich selbst in den Schubladen
 seines Arbeitstisches hergestellt hatte und von dem er
 annahm, nur er hätte davon Kenntnis.
 
-Als er jetzt den Tresor offen sah und den Schlüssel im
+> Als er jetzt den Tresor offen sah und den Schlüssel im
 Schlüsselloch bemerkte, hegte er sofort den Verdacht, der Schlüssel
 könnte aus dem Geheimfach herausgenommen worden sein.
 Er sah nach und tatsächlich: der Schlüssel fehlte.
 
-Er teilte nun Schmolk diese Einzelheiten mit. Sie verließen
+> Er teilte nun Schmolk diese Einzelheiten mit. Sie verließen
 die Werkstatt, schlossen hinter sich ab und trafen jetzt
 mit ihrem vierten Kollegen Welski zusammen. Die Polizei
 wurde telephonisch verständigt, und bereits eine Stunde drauf
@@ -721,26 +721,26 @@ irgendwie in Begleitung des Mörders in das Warenhaus und
 in die Werkstatt eingeschlichen und war dann von seinem Begleiter
 niedergestochen worden.
 
-Die Absicht, die die beiden in das Kaufhaus geführt hatte,
+> Die Absicht, die die beiden in das Kaufhaus geführt hatte,
 war aus dem völlig geplünderten Tresor ersichtlich. Es fehlten
 sämtliche Goldsachen und auch der geringe Bestand an Edelmetall.
 Doch ist die Beute des Mörders, der seinem Genossen
 den Anteil nicht gegönnt haben mag, recht gering. Der Gesamtwert
 der gestohlenen Sachen beträgt kaum 2000 Mark.
 
-Die Ermittelungen der Kriminalpolizei setzten sofort ein.
+> Die Ermittelungen der Kriminalpolizei setzten sofort ein.
 Man erkundigte sich aufs genaueste, mit wem Bickel in letzter
 Zeit verkehrt hatte. Seine Wirtin, Frau Schultz, bestätigte
 jedoch nur das, was im Kaufhaus Michael allgemein bekannt
 war: daß Bickel mit niemandem Umgang hatte, daß er nie
 Besuch empfing und ganz für sich allein lebte.
 
-Sie gab ferner an, daß Bickel häufig die Abende in ihrer
+> Sie gab ferner an, daß Bickel häufig die Abende in ihrer
 und ihrer einzigen Tochter Gesellschaft zugebracht hatte. Dann
 taute er stets auf, wurde gesprächig und erzählte viel von fremden
 Ländern und Städten.
 
-Die Kriminalpolizei hat inzwischen auch ermittelt, wie
+> Die Kriminalpolizei hat inzwischen auch ermittelt, wie
 Bickel und sein Mörder in das große Gebäude hineingelangt
 waren. Sie sind vom sogenannten Versandhofe aus an einer
 der eisernen Feuerleitern bis zum vierten Stock emporgeklettert,
@@ -748,7 +748,7 @@ haben hier die Fensterscheibe eines Waschraumes eingedrückt
 und konnten von hier aus sofort hinter der kaum acht
 Schritt entfernten Tür der Werkstatt verschwinden.
 
-Dies sind die bisherigen Resultate der Untersuchung. Man
+> Dies sind die bisherigen Resultate der Untersuchung. Man
 <@pagebreak/>
 kann sie nicht gerade als vielversprechend bezeichnen. Die
 Arbeit der Kriminalpolizei wird noch dadurch erschwert, daß
@@ -803,11 +803,11 @@ Gedanken verarbeiten.
 Der Blasse hatte ganz kleine, zugekniffene Augen. Jedenfalls
 sah er nicht vertrauenerweckend aus. Auf der Linken
 trug er riesige Brillantringe, natürlich Simili. Das zeigte
-mir ein prüfenden Blick. Ich hatte gerade in Indien gelernt,
+mir ein prüfender Blick. Ich hatte gerade in Indien gelernt,
 in dieser Beziehung Spreu vom Weizen zu scheiden.
 
 Ich nickte nun. »Sie haben ganz recht. Wenn in diesem
-Tresor noch für 50 000 Mark Gold gelegen hätte! Aber so?!«
+Tresor noch für 50&nbsp;000 Mark Gold gelegen hätte! Aber so?!«
 — Ich hatte keinen Grund, mich diesem »Kavalier« gegenüber
 ablehnend zu verhalten. Er war sicherlich auch »Fachmann«
 in solchen Dingen. Nur Fachmann von der — Gegenpartei.
@@ -826,7 +826,7 @@ seiner Zunft.
 Ich schaute ihn mir jetzt mit Polizeiaugen an. Leider
 war es im Billardsaal an den Wandtischen nur mäßig hell.
 Ich hätte mir den Burschen zu gern bis ins kleinste angesehen.
-Er wurde nicht im geringsten verlegen unter meinem Blick.
+— Er wurde nicht im geringsten verlegen unter meinem Blick.
 Um seinen Mund lag noch immer das pfiffige Schmunzeln.
 Im Mundwinkel hing ihm eine frische Zigarette. Jetzt strich
 er ein Streichholz an. Die Flamme beleuchtete sein Gesicht.
@@ -841,7 +841,7 @@ es war wieder dieselbe krächzende, eigentümlich röchelnde
 Stimme des Berlin N-Kavaliers, die jetzt sagte:
 
 »Kommen Sie man mit. Ick weeß ja, Angstmeier und
-Kompagnie ist Ihnen fremd.« —
+Kompagnie ist Ihnen fremd.«
 
 Er rief den Kellner herbei. Wir zahlten und verließen
 <@pagebreak/>
@@ -880,7 +880,7 @@ keine Zeit.«
 
 »Also hast Du etwas vor?«
 
-»Allerdings. Sogar verschiedenes. — Es ist jetzt ½ 10.
+»Allerdings. Sogar verschiedenes. — Es ist jetzt ½10.
 Ich habe Frau Schultz gebeten, aufzubleiben und für mich und
 zwei Bekannte ein einfaches Abendbrot bereitzuhalten. Es
 wird ganz interessant werden. Es ist der Auftakt zu größeren
@@ -909,7 +909,7 @@ seltsamen Tatsachen umher.
 
 »Ich habe Gould versprochen,« hatte Harald schon hinzugefügt,
 »ihn zu einer Bummeltour durch Berliner Nachtlokale
-abzuholen — um ¾ 10. Wir werden pünktlich vor dem
+abzuholen — um ¾10. Wir werden pünktlich vor dem
 Eden-Hotel sein. Er soll draußen auf und abgehen.«
 
 Unser Auto bog bereits in das östliche Ende des Kurfürstendamms
@@ -1001,10 +1001,10 @@ Gould schüttelte noch immer ganz verwirrt den Kopf.
 
 »Wer — wer sind Sie eigentlich, Mr. Balker? Vormittags
 trugen Sie einen Vollbart und erklärten mir, Sie
-würden sich für den Abend etwas anders zurechtstutzen, Mr.
-Balker. Sie sind — Detektiv und stehen im Sold des Generals,
+würden sich für den Abend etwas anders zurechtstutzen. Mr.
+Balker, Sie sind — Detektiv und stehen im Sold des Generals,
 <@pagebreak/>
-der jetzt seine Tochter wirklich so weit hat, daß
+der jetzt seine Tochter wirklich so weit hat, daß —
 ich für sie Luft bin —«
 
 »Gut — klären wir die Situation, Mr. Gould,« meinte
@@ -1019,7 +1019,7 @@ Im Zuge von Agra nach Bombay —«
 »Danke — weiß Bescheid. Stand ja alles in den Zeitungen.«
 
 »Schön. Also dieser Reverend, der sich da an den General
-angepirscht hatte und ihm nachher 10 000 Pfund stahl, war
+angepirscht hatte und ihm nachher 10&nbsp;000 Pfund stahl, war
 einer der Verbrecher, die wir suchen. Ich habe nun hier in
 Berlin die Fremdenlisten der großen Hotels durchgesehen, da
 Gauner vom Schlage der Leute, hinter denen wir her sind,
@@ -1196,7 +1196,7 @@ können auch zwei Wochen her sein —«
 Harst schnitt dann ein anderes Thema an, — genau so
 geschickt und genau so auf Umwegen: ob Bickel denn wirklich
 mit niemandem verkehrt hätte und ob Änne hierüber nichts
-wüßte: man interessiere sich doch nun mal für jeden Mord,
+wüßte; man interessiere sich doch nun mal für jeden Mord,
 <@pagebreak/>
 und er ganz besonders für den Fall Bickel, weil er doch nun
 hier das Zimmer des Toten bewohne.
@@ -1268,7 +1268,7 @@ beiden. »Es sind ja die Mörder Ernst Bickels!«
 
 Das Auto rollte davon. Der eine der Beamten holte eine
 kleine Blendlaterne hervor, zündete sie an und stellte sie
-zwischen sich und seinen Kollegen auf den Polstersitz. Der
+zwischen sich und seinem Kollegen auf den Polstersitz. Der
 schwache Lichtschein traf Harst und mich. Wir saßen auf dem
 Rücksitz. Von den beiden Schutzleuten sahen wir so gut wie
 nichts. Nur die Helmbeschläge und die Uniformknöpfe
@@ -1280,12 +1280,12 @@ wieder genügend klären, um das, was jetzt geschah, in
 gewisser Weise kritisch zu prüfen. Da fiel mir denn zunächst
 auf, daß es im Innern des Autos bis auf den Lichtschein der
 kleinen Laterne so gleichmäßig dunkel blieb. Wir fuhren
-doch an so und so vielen Straßenlaternen vorüber und deren
+doch an so und so vielen Straßenlaternen vorüber, und deren
 Lichtschimmer hätte doch stets für Sekunden durch die Fenster
 für uns sichtbar werden müssen. Aber dem war nicht so.
 
 Ich wandte etwas den Kopf zur Seite. Ich ergänzte mir
-das, was ich mir soeben überlegt hatte noch durch eine neue
+das, was ich mir soeben überlegt hatte, noch durch eine neue
 Frage: Die Straßen Berlins sind doch auch nachts so hell
 erleuchtet, daß man durch die Fenster eines Autos die Häuserreihen
 erkennen kann. Wie kam es, daß wir scheinbar auf einem
@@ -1306,7 +1306,7 @@ dunklen Farbe überzogen! Und — es handelte sich hier doch
 um kein Dienstauto, keinen Polizeikraftwagen! Es war ein
 gewöhnliches Taxameterauto. Beim Einsteigen hatte ich ja
 die Taxameteruhr neben dem Chauffeursitz bemerkt! Sollten
-wir es hier mit einen frechen Streich Mautleys und Bickpools
+wir es hier mit einem frechen Streich Mautleys und Bickpools
 zu tun haben? War diesen internationalen Gaunern
 nicht sehr wohl zuzutrauen, daß sie sogar in der Rolle als
 Polizeibeamte in Uniform sich an uns heranwagten? Und
@@ -1414,7 +1414,7 @@ war.«
 
 Mautley äußerte sich hierzu nicht. Bickpool dagegen sagte:
 »Nach den Zeitungsberichten handelt es sich doch um ein
-Durchschnittsverbrechen. Ich wundere mich, Mr. Harst daß
+Durchschnittsverbrechen. Ich wundere mich, Mr. Harst, daß
 Sie sich mit einer solchen Lappalie abgeben.«
 
 Ich muß jetzt, bevor ich die weitere Entwicklung der Dinge
@@ -1425,8 +1425,8 @@ rechten Hand eine Schußwaffe und hatte diese Hand jetzt auf
 das rechte Knie gelegt. Uns beiden waren die Hände auf
 dem Rücken gefesselt. —
 
-»Ganz recht, es ist eine Lappalie,« erklärte Harst in dem
-selben harmlosen Salonton. »Der Mörder ist einer der drei
+»Ganz recht, es ist eine Lappalie,« erklärte Harst in demselben
+harmlosen Salonton. »Der Mörder ist einer der drei
 Kollegen Bickels, und zwar —«
 
 Dann — dann schnellte urplötzlich Harsts linker Fuß hoch,
@@ -1446,7 +1446,7 @@ Meister doch nicht zu sehr übertrumpfen lassen. Die offene
 Tür zeichnete sich als helleres Viereck ab, und Mautley und
 <@pagebreak/>
 Bickpool standen nun dicht hintereinander vor dieser Tür, noch
-völlig verwirrt durch diesen so glänzend gelungenen Flucht.
+völlig verwirrt durch diesen so glänzend gelungenen Fluchtversuch.
 
 Ich erhob mich, warf mich mit aller Kraft gegen Bickpool
 und — die beiden Gauner flogen denn auch wirklich infolge
@@ -1459,7 +1459,7 @@ zweimal »Halt — halt!« zu brüllen.
 Ich wartete noch ein paar Sekunden. Dann — ein Satz,
 — ich war draußen! Ich rannte wie gehetzt durch den Straßengraben,
 kletterte eine Böschung hoch und verschwand in dem
-dunklen Kiefernwalde. Mich hier zu finden, war ausgeschlossen.
+dunklen Kiefernwalde. Mich hier zu finden war ausgeschlossen.
 Ich beeilte mich also nicht sonderlich. Zwischen den Stämmen
 war es so hell, daß ich nicht zu fürchten brauchte, gegen einen
 Baum zu laufen. Nachdem ich eine Anhöhe hinter mir hatte,
@@ -1478,10 +1478,10 @@ mich daher in sicheren Gewahrsam nehmen, bis die Polizei
 käme und mich holte. — Der Bahnhofsvorsteher telephonierte
 nach Berlin, und um 7 Uhr morgens erschien dann ein Kriminalbeamter,
 der mir die Handschellen abnahm und mir befahl,
-ihm zu folgen. Als wir dem Bahnhof verlassen hatten,
+ihm zu folgen. Als wir den Bahnhof verlassen hatten,
 änderte er sein Benehmen vollständig.
 
-»Entschuldigen Sie, daß ich so kurz angebunden war.«
+»Entschuldigen Sie, daß ich so kurz angebunden war,«
 meinte er. »Ich weiß, daß Sie Herrn Harsts Freund, also
 Herr Max Schraut sind. Herr Harst ist gleichfalls entkommen
 und erwartet Sie dort drüben im Walde.«
@@ -1498,7 +1498,7 @@ Er streckte mir die Hand hin.
 Ich hoffte, daß Du den beiden ebenfalls auskneifen
 würdest. — Darf ich die Herren bekannt machen: Herr
 Kriminalkommissar Schellert und vier seiner Beamten, dort
-Herr Richard Gould heute früh aus dem Hotel abgeholt. Wir
+Herr Richard Gould; heute früh aus dem Hotel abgeholt. Wir
 brauchen ihn. Ich behaupte nämlich, daß Mautley und Bickpool
 sich in der Villa Shaterlain aufhalten.«
 
@@ -1509,18 +1509,18 @@ wirklich gespannt —«
 
 <h2>5. Kapitel.</h2>
 
-Ich hatte keine Zeit, hierzu irgendeine Bemerkung zu
+Ich hatte keine Zeit, hierzu irgend eine Bemerkung zu
 machen. Harst winkte einem der Beamten, der einen Pappkarton
 mithatte. In diesem lag alles Nötige für meine Verwandlung
 in eine ältere Dame, deren Sohn der Kommissar
 spielen sollte. Während ich Toilette machte, entwickelte Harst
 mir seinen Schlachtplan. Die Villa sollte sofort nachher umstellt
-werden. Garn wollte Harst an der Gartenpforte läuten.
+werden. Dann wollte Harst an der Gartenpforte läuten.
 Schellert und ich sollten wie zufällig hinzukommen, sobald
 man ihm öffnete. Wir — Schellert und ich — hatten die
 Rolle von Londoner Bekannten der Shaterlains zu spielen.
 
-Um ½ 9 brachen wir auf. Eine Strecke weiter auf der
+Um ½9 brachen wir auf. Eine Strecke weiter auf der
 Chaussee warteten zwei Autos. Wir stiegen ein und fuhren
 dem nahen Vorort Wannsee zu. — Das Restaurant »Schwedischer
 Pavillon« am Nordufer des Wannsees ist — ja, man
@@ -1588,7 +1588,7 @@ wegen Mordes und verschiedener Diebstähle steckbrieflich von
 Indien aus verfolgten beiden früheren Artisten Mautley und
 Bickpool, die hier als Shaterlains mit aller Ruhe auftreten
 konnten, weil Bickpool in Bombay dem General sowohl verschiedene
-Legitimationspapiere als auch 10 000 Pfund, die in
+Legitimationspapiere als auch 10&nbsp;000 Pfund, die in
 einer roten Juchtenbrieftasche enthalten waren, gestohlen hat.
 Ich war heimlich Zeuge, als Bickpool die Tasche ausleerte und
 wegwarf. Ich ließ ihn nach Aden entschlüpfen, denn ich wollte
@@ -1617,7 +1617,7 @@ daß der Stahlschrank in der Reparaturwerkstatt auch verschiedene
 zur Edelsteinschleiferei nötige Werkzeuge enthalten hätte.
 Daß diese ebenfalls gestohlen waren, hatte bisher niemand beachtet.
 Und doch ist Bickel nur dieser Instrumente wegen ermordet
-worden. — Sie, James Bickpool hatten sich als Frau
+worden. — Sie, Jones Bickpool, hatten sich als Frau
 verkleidet an den Ermordeten herangedrängt, haben ihm seine
 Edelsteinschleifbank, die er in seinem Schranke aufbewahrte,
 abgekauft und sich von ihm fraglos Unterricht im Edelsteinschleifen
@@ -1670,5 +1670,4 @@ dann fraglos verschwinden lassen. —
 Der Mord im Warenhause war jetzt aufgeklärt. Richard
 Gould fand dann an Harst einen warmen Fürsprecher bei General
 Shaterlain. Das Paar verlobte sich vierzehn Tage drauf.
-
 

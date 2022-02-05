@@ -141,13 +141,13 @@ gegen zehn Uhr fand er sich ein. Ich berichtete ihm sofort,
 was ich dort drüben bemerkt hatte.
 
 »Das wäre ein weiterer Beweis für die Existenz eines
-bisher unbekannten Kopten-Klosters im Sinai-Gebirge,«
+bisher unbekannten Koptenklosters im Sinai-Gebirge,«
 meinte Harald leise.
 
 »Wofür?« Ich hatte den Namen vor »Kloster« nicht
 genau verstanden.
 
-»Kopten-Kloster, mein Alter. Sollten Deine Schulreminiszenzen
+»Koptenkloster, mein Alter. Sollten Deine Schulreminiszenzen
 nicht hinreichen, so will ich Dich dahin belehren,
 daß die Kopten die christlichen Nachkommen der alten
 Ägypter sind, die heute noch in Ägypten, im Sudan und
@@ -183,7 +183,7 @@ mit ihrer Tigerdogge Hektor das Schloß verlassen habe.
 »Wie war sie gekleidet?« wollte Harald wissen.
 
 »Langer Seidenmantel und Schleier um den Kopf,
-Effendi« dienerte der alte Araber.
+Effendi,« dienerte der alte Araber.
 
 Harst eilte schon den Serpentinenweg ins Tal hinab.
 Als wir die Talsohle erreicht hatten, schlug er einen langen
@@ -266,7 +266,7 @@ wäre vor drei Jahren etwa passiert. Der Lord habe damals
 erklärt, sie hätten sich verirrt gehabt.
 
 »Haben Sie mal gehört, daß es hier im Südosten im
-Gebirge ein Kopten-Kloster gibt, Prigrave?« fragte Harald
+Gebirge ein Koptenkloster gibt, Prigrave?« fragte Harald
 nun, da der Hausmeister sich abermals in Schweigen hüllte.
 
 »Die Beduinen der Sinai-Halbinsel besitzen einen reichen
@@ -299,7 +299,7 @@ hinabgestiegen und stets nach etwa einer Stunde zurückgekehrt.«
 
 Prigrave stand mit gesenktem Kopfe da.
 
-»Gehen Sie,« meinte Harsts »Wir werden Ihre Herrin
+»Gehen Sie,« meinte Harst. »Wir werden Ihre Herrin
 suchen. Der Mond ist soeben über den Bergen aufgetaucht.
 Diese Beleuchtung genügt uns. Lassen Sie unsere Reitkamele
 satteln und sorgen Sie dafür, daß wir Proviant
@@ -359,7 +359,7 @@ man die Polizei in Suez getäuscht hat. Du darfst nicht
 vergessen, daß dieser Allan weite Reisen gemacht hat. Vielleicht
 hat er in Indien — daß er dort gewesen, erzählte
 er selbst uns ja — dasselbe Nervengift sich verschafft, mit
-dem ein Geck Warbatty die Polizei in Madras so gründlich
+dem ein Cecil Warbatty die Polizei in Madras so gründlich
 <@pagebreak/>
 hinters Licht führte. Du besinnst Dich. Du hast dieses
 Abenteuer ja in etwas sensationeller Aufmachung unter dem
@@ -373,7 +373,7 @@ sehr mühseliges Geschäft, vielleicht auch ein ergebnisloses.«
 
 Leider versagte Hektor jetzt vollkommen. Als Harald
 einmal aus Unachtsamkeit die Leine fallen ließ, benutzte der
-Hund sofort diese Gelegenheit, auf der Fährte im Galopp,
+Hund sofort diese Gelegenheit, auf der Fährte im Galopp
 zurückzulaufen. Er mochte hoffen, seine Herrin im Schlosse
 wiederzufinden. Wir kümmerten uns nicht weiter um ihn.
 Nachdem Harald dann in diesem Quertale nach Südost zu
@@ -425,10 +425,10 @@ bedeckt.
 
 »Rieche!«
 
-Ich tat es. Das Zeug am Finger riecht etwas nach
+Ich tat es. Das Zeug am Finger roch etwas nach
 schlechtem Öl und auch wie Teer etwa.
 
-»Wagenschmiere nennt man das,« lächelte Harald. Ja
+»Wagenschmiere nennt man das,« lächelte Harald. Ja,
 er lächelte! Seine vorhin nicht gerade glänzende Laune hatte
 sich sehr gebessert. Weshalb nur?!
 
@@ -469,7 +469,7 @@ erkläre Dir nachher schon alles.«
 
 Ich gehorchte sehr zögernd. Ich führte die Dromedare
 in eine nahe Schlucht, in deren hinterstem Ende ich
-eine aus Felsbrocken durch Zufall gebildete Naturhütte als
+eine aus Felsblöcken durch Zufall gebildete Naturhütte als
 recht gutes Versteck fand.
 
 Als ich dann nach vielleicht zwanzig Minuten zu Harald
@@ -649,7 +649,7 @@ spielt nämlich ein wenig auf politisches Gebiet über, und
 mit der Begum von Bhopal soll in manchen Dingen nicht
 zu spaßen sein.« (Der Vasallenstaat Bhopal wird von
 mohammedanischen Fürstinnen regiert, die den Titel »Begum«,
-die Erhabene, führen).
+die Erhabene, führen.)
 
 Der Major machte ein ganz entsetztes Gesicht. »Um
 Himmels willen, Mr. Harst, — nur nicht Politik!« flüsterte
@@ -658,7 +658,7 @@ unangenehmen Zwitterstellung, von der Begum das Gehalt
 zu beziehen, aber jedem Wink des englischen Residenten
 in Bhopal gehorchen zu müssen.« (Die abhängigen Staaten
 in Britisch-Indien werden von sogenannten Residenten dauernd
-beaufsichtigt).
+beaufsichtigt.)
 
 <@pagebreak/>
 Harst winkte ihm beruhigend zu. »Keine Sorge, Mr.
@@ -718,7 +718,7 @@ mit Worten.
 »mußte ich mein Hirn gehörig anstrengen, bevor ich wußte,
 was mir Lady Lydia damit hatte klarmachen wollen. Zum
 Glück kenne ich ja Zentralindien sehr genau. So konnte
-ich denn zunächst herausfinden, daß mit Bo nur Bombay
+ich denn zunächst herausfinden, daß mit Bo nur Bombay,
 mit Bho nur die Residenz Bhopal des gleichnamigen
 Vasallenstaates und mit Bhi die Stadt Bhilsa gemeint sein
 konnten, während der wagerechte Strich nur die Bahnlinie
@@ -728,8 +728,8 @@ Teiles des schrägen Querstrichs. Mithin sollte meine Aufmerksamkeit
 auf Bhopal gelenkt werden. — Was ich aus
 dem
 
-> Dsch/am
-> D/auli
+<p class="centered">Dsch/am</p>
+<p class="centered">D/auli</p>
 
 herauslesen sollte, blieb mir fürs erste verborgen. Dafür
 hatte ich aber die fünf Worte Lind, Lyd, esclaves, non,
@@ -842,7 +842,7 @@ Diener, die jedem seiner Winke gehorchen. Außerdem besitzt
 er mehrere Plantagen, und seine Arbeiter dort gehen
 gleichfalls für ihn durchs Feuer. Sein Palast im Norden
 der Stadt ist uralt. Sie kennen ja diese alten indischen Paläste.
-Wenn die Mauern reden könnten, würden sie nette Schauergeschichten
+Wenn *die* Mauern reden könnten, würden sie nette Schauergeschichten
 erzählen. — Sie wollen also mit Ihrem Freunde
 Schraut in einer Verkleidung nach Bhopal. Und dann —?«
 
@@ -873,7 +873,7 @@ kleinste sorgfältig durchgeführt, schützten uns genügend. Um uns
 durch unsere mangelhaften Sprachkenntnisse nicht zu
 verraten, hatten wir uns als in Kalkutta daheim ausgegeben,
 da dort ein ganz anderer Dialekt gesprochen wird.
-Monsieur Plicart, der Hotelbesitzer hielt uns fraglos für
+Monsieur Plicart, der Hotelbesitzer, hielt uns fraglos für
 »echt«.
 
 <@pagebreak/>
@@ -1090,7 +1090,7 @@ Der Mann, der mir nun die Hände mit Riemen auf
 dem Rücken fesselte, war Dscham Dauli, der Exminister der
 Begum von Bhopal. Alles in allem war er eine imposante
 Erscheinung, mit langem, glänzend schwarzem Bart,
-einer messerscharfen Nase und ein paar hochmütig-stechenden
+einer messerscharfen Nase und ein Paar hochmütig-stechenden
 Augen. Der dritte Mann von hellerer Gesichtsfarbe war
 ein Greis mit grauem, kurz gehaltenem Vollbart. Alle drei
 trugen indische Tracht, ein mantelartiges, faltiges Gewand
@@ -1275,7 +1275,7 @@ Tale auf diese Weise gleichfalls kennen. Und —
 jener Mann da« — er machte mit dem Kopf eine Bewegung
 nach dem graubärtigen Alten hin — »ist ebenfalls
 ein Koptenmönch. Sein Gesichtsschnitt verrät das. Vielleicht
-ist dieser Mann derselbe, den Sie, Mylord nach Ihrem
+ist dieser Mann derselbe, den Sie, Mylord, nach Ihrem
 Entweichen aus dem Gefängnis in Suez in Gemeinschaft
 mit Dscham Dauli auflauerten, da Sie wußten, daß es
 gerade der Tag war, wo der Tribut abgeholt wurde.«
@@ -1342,7 +1342,7 @@ Lydia und Rosa Linden erhalten?«
 
 »Gestatten Sie, Mylord,« fiel Haralds ihm ins Wort
 und verneigte sich wieder. »Es ist das von mir keine Frechheit.
-Wir haben eben nur die Rollen vertauscht— «
+Wir haben eben nur die Rollen vertauscht —«
 
 In demselben Moment fuhren seine Arme nach vorn;
 ein Griff, und die beiden Revolver auf dem Tisch waren

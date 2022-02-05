@@ -23,7 +23,7 @@ vergiften wollten. Daß diese geriebenen Schurken auch mir
 und meinem Freunde Schraut eine Dosis Blausäure zugedacht
 hatten, davon mache ich weiter kein Aufhebens. Wer Liebhaberdetektiv
 ist, trägt seine Haut eben freiwillig und unentgeltlich
-zu Markte — Da Sie, lieber Doorball, unsere Aussagen
+zu Markte. — Da Sie, lieber Doorball, unsere Aussagen
 bereits zu Protokoll genommen haben, steht also meiner Abreise
 nach Katmandu, der Hauptstadt Nepals, nichts im Wege.
 Kurz, ich verzichte darauf, mich weiter mit Parmang zu
@@ -34,7 +34,7 @@ Des dicken Doorballs Gesicht war immer länger geworden.
 
 »Wirklich, Sie wollen uns schon wieder verlassen, Mr.
 Harst?« meinte er jetzt und kratzte sich die fuchsige Perücke vor
-Überraschung und Enttäuschung. »Das tut mir sehr sehr
+Überraschung und Enttäuschung. »Das tut mir sehr, sehr
 leid. Ich hoffte doch, Sie würden mir dazu verhelfen, mich
 irgendwie auszuzeichnen, damit ich endlich aus diesem verwünschten
 Lausenest herauskomme, in dem ich nun schon fünfzehn
@@ -43,8 +43,8 @@ Jahre hocke. Gewiß, ich bin hier etwas korpulent und bequem
 geworden. Aber —«
 
 Wie saßen in Doorballs gemütlich eingerichtetem Herrenzimmer.
-Es hatte soeben geklopft und der Polizeichef rief
-nun etwas ungeduldig: »Herein zum Henker!«
+Es hatte soeben geklopft, und der Polizeichef rief
+nun etwas ungeduldig: »Herein, zum Henker!«
 
 Es erschien niemand.
 
@@ -61,7 +61,7 @@ konnten.
 
 Doorball hatte sich in die offene Tür gestellt und entlockte
 einer Trillerpfeife ein gellendes Signal. Wir hörten, wie irgendwo
-eine Tür zugeworfen wurde. Dann stand des Polizeichef
+eine Tür zugeworfen wurde. Dann stand des Polizeichefs
 indischer Diener Tschama vor seinem Herrn, verbeugte
 sich mit über der Brust gekreuzten Armen.
 
@@ -78,10 +78,10 @@ hin, sagte:
 »Vielleicht überlassen Sie mir die Aufklärung dieses unsichtbaren
 Besuches, lieber Doorball.« Dann zu Tschama:
 
-»Geh und hole den Pförtner.«
+»Geh’ und hole den Pförtner.«
 
 Der Pförtner erschien. Er hatte unten im Erdgeschoß seine
-Loge dicht um Haupteingang, der von 4 Uhr nachmittags ab
+Loge dicht am Haupteingang, der von 4 Uhr nachmittags ab
 verschlossen gehalten wurde.
 
 Auch der Pförtner war ein Inder. Harst fragte ihn, ob
@@ -94,7 +94,7 @@ ergraute Mann.
 
 »Ja, Sahib. Um 8 Uhr etwa kam eine Dienerin aus dem
 Pensionat Pellington (Betija ist Luftkurort und liegt bereits
-in den äußersten Vorbergen der Himalaya-Ketten) mit einer
+in den äußersten Vorbergen der Himalayaketten) mit einer
 Depesche für Dich.«
 
 »So so. Wann ging sie wieder fort?«
@@ -170,7 +170,7 @@ Zettel!« kreischte er jetzt förmlich und schwenkte das
 Papier in der Rechten.
 
 Da schrillte die Telephonglocke, und so anhaltend, daß
-Harst bevor er noch den Hörer zur Hand nahm, rief:
+Harst, bevor er noch den Hörer zur Hand nahm, rief:
 
 »Das bedeutet Alarm!«
 
@@ -178,10 +178,10 @@ Dann lauschte er. Wir verhielten uns regungslos. Eine
 ganze Weile verging, bis Harst in den Apparat hineinsprach:
 
 »Danke. Die Meldung ist erschöpfend genug. Ich werde
-Mr. Doorball alles mitteilen.«
+Mr. Doorball alles mitteilen.« —
 
 Nun — die beiden Verbrecher waren tatsächlich ausgebrochen!
-Um ½ 8 hatte der betreffende Wärter die Zellen besucht.
+Um ½8 hatte der betreffende Wärter die Zellen besucht.
 Da waren die Gefangenen noch anwesend. Und jetzt —
 waren sie durch die Fenster nach Zerschneiden der Gitterstäbe
 entflohen.
@@ -209,15 +209,15 @@ wirklich ein Muster von Polizeichef.
 werde natürlich sofort alle Nachbarorte telegraphisch von der
 Flucht verständigen und —«
 
-»— das wird natürlich zwecklos sein.« vollendete Harald.
+»— das wird natürlich zwecklos sein,« vollendete Harald.
 »Bester Doorball, Leute wie Mautley und Bickpool, Verkleidungskünstler
-ersten Ranges fängt man nicht so leicht. — Ich
+ersten Ranges, fängt man nicht so leicht. — Ich
 möchte Ihnen vorschlagen, mal das Polizeigebäude daraufhin
 zu durchsuchen, ob nicht irgendwo gewaltsam eine Tür geöffnet
 ist oder etwas fehlt. Als der Pförtner von der Dienerin
 <@pagebreak/>
 berichtete, die bereits um 8 Uhr das Haus betreten und es
-erst gegen ½ 10 wieder verlassen hatte, war mir schon die Falte
+erst gegen ½10 wieder verlassen hatte, war mir schon die Falte
 des Flurläufers aufgestoßen. Ich sagte mir, daß jemand, der
 an eine Tür geklopft und sich dann schnell zurückgezogen hat,
 doch fraglos etwas mit diesem Anklopfen bezweckt haben mußte.
@@ -244,9 +244,9 @@ weit offen.
 
 Doorball sank vernichtet in einen Lehnstuhl.
 
-»12 000 Pfund amtlicher Gelder waren drin.« winselte er
-kreidebleich. »12 000 Pfund! Und dazu noch 500 Pfund
-eigenes Geld! — Ich bin verloren! Man wird mich entlassen.
+»12&nbsp;000 Pfund amtlicher Gelder waren drin,« winselte er
+kreidebleich. »12&nbsp;000 Pfund! Und dazu noch 500 Pfund
+eigenes Geld! — Ich bin verloren! Man wird mich entlassen,
 pensionieren, mit Spott und Hohn überall —«
 
 Er konnte nicht weiter sprechen. Er tat mir aufrichtig
@@ -282,7 +282,7 @@ dann bin ich — futsch, als Beamter!«
 »Hm — versprechen kann ich’s Ihnen nicht,« meinte Harald.
 »Aber wir wollen mal sehen, was sich für Sie tun läßt.«
 
-Wir verabschiedeten uns dann. Es war jetzt ½ 10. Als
+Wir verabschiedeten uns dann. Es war jetzt ½10. Als
 wir die Straße entlanggingen, faßte Harald mich plötzlich
 unter und flüsterte: »Ich habe Doorball einen Rat erteilt, an
 dessen Zweckmäßigkeit ich selbst nicht glaube. Bickpool wird so
@@ -387,7 +387,7 @@ zu teilen, die er entdeckt haben muß.«
 
 »Wie — eine Diamantenfundstelle?!« riefen Ribblay und
 Lebraux in einem Atem. »Das — das ist unmöglich, Mr.
-Harst.« fügte der Direktor hinzu. »Die Fundstelle müßte ja
+Harst,« fügte der Direktor hinzu. »Die Fundstelle müßte ja
 hier in der Nähe liegen! Parmang ist Amerikaner wie ich und
 erst vor einem Jahr von Neuyork hierher gekommen. Er könnte
 also nur hier in der Umgegend auf —«
@@ -414,12 +414,12 @@ daß Sie hier wirklich die Diamantenfundstelle irgendwie —«
 
 Harst machte eine ablehnende Handbewegung.
 
-»Mich interessieren nicht Edelsteine sondern Menschen,«
+»Mich interessieren nicht Edelsteine, sondern Menschen,«
 sagte er kurz. — »Meine erste Frage ist: Hat Parmang häufiger
 Ausflüge in die Umgegend gemacht, war er also vielleicht
 Jäger?«
 
-»Nein, das war er nicht. Nur leidenschaftlicher Amateurphotograph
+»Nein, das war er nicht. Nur leidenschaftlicher Amateurphotograph.
 — Ausflüge? Das ich nicht wüßte.«
 
 »Hat er häufiger Urlaub erbeten, Mr. Ribblay?«
@@ -549,12 +549,12 @@ Fragen stören.
 
 Dann begann er von selbst zu sprechen.
 
-»Diese Diamanten-Geschichte hat eine neue Wendung erhalten,«
+»Diese Diamantengeschichte hat eine neue Wendung erhalten,«
 sagte er und schaute sich nun schon zum dritten Male
 vorsichtig um. »Parmangs Person war mir bisher gleichgültig,
 mein Alter. Jetzt ist es damit anders geworden. Ich
 will jetzt nicht lediglich Mautley und Bickpool fangen, sondern
-auch aufklären, wo Parmangs Diener, Vater und Sohn geblieben
+auch aufklären, wo Parmangs Diener, Vater und Sohn, geblieben
 sind.«
 
 Ich war froh, daß er hiervon zu reden anfing. Ich hatte
@@ -592,7 +592,7 @@ Anfangsstadium der Aufklärung.«
 »Keineswegs. Die Photographien reden für mich eine
 recht deutliche Sprache und zeigen mir, daß dieser Parmang
 aus sehr triftigen Gründen es seiner Zeit ablehnte, mit uns
-zusammen nach Nepal zu gehen und dann auch, als wir Mautley
+zusammen nach Nepal zu gehen, und dann auch, als wir Mautley
 und Bickpool verhaftet hatten, schleunigst selbst verduftete.
 Der Mann ist ein Wolf in Schafskleidern. Er hat es verstanden,
 mir hinsichtlich seines Charakters Sand in die Augen
@@ -651,18 +651,18 @@ mit dem Rücken an die Wand gelehnt. Vor uns
 hatten es sich Bickpool und Mautley auf den Kissen des Autos
 bequem gemacht. Mautley trug noch den Anzug unseres
 Chauffeurs, sagte jetzt so gleichgültig, als spräche er von einer
-Sache die ihn nichts anging:
+Sache, die ihn nichts anging:
 
 »Ihren Fahrer werden Sie nachher wiedersehen, Mr.
 Harst. Es gibt in diesem Tempel nämlich einen Kellerraum,
-den die Brillenschlangen der ganzen Gegend als Paarungstätte
+den die Brillenschlangen der ganzen Gegend als Paarungsstätte
 bevorzugen. Gerade jetzt haben diese angenehmen Bestien
-ihre Liebeszeit. Der Keller enthält so gegen dreißig Stück und
+ihre Liebeszeit. Der Keller enthält so gegen dreißig Stück, und
 der Chauffeur dürfte schon tot sein, da die Viecher während der
 Paarung sehr reizbar sind. Wir, Bickpool und ich, haben hier
 schon früher viele Wochen gehaust, als wir noch auf Parmang
 <@pagebreak/>
-Jagd machten. — Schade daß Ihr Freund Doorball Sie hier
+Jagd machten. — Schade, daß Ihr Freund Doorball Sie hier
 jetzt nicht bewundern kann. Er würde erstaunt sein, daß ein
 Mann wie der große Harald Harst von zwei so minderwertigen
 Verbrechern, wie wir es sind, sich hat überrumpeln lassen.
@@ -728,7 +728,7 @@ das durch das Loch hineingefallen war, erlosch.
 
 Um uns tiefste Dunkelheit.
 
-Und — Haralds Walzer ertönte weiter unermüdlich.
+Und — Haralds Walzer ertönte weiter, unermüdlich.
 Dann — ganz blitzartig kam mir die Erkenntnis! — Dann
 dachte ich an jene Eigentümlichkeit der Kobras, daß diese
 Schlangen für Musik so sehr empfänglich sind. Ich hatte selbst
@@ -750,8 +750,7 @@ Anwesenheit von Kobras.
 
 Doch — nur zu bald drang dann ein widerlicher Gestank
 mir in die Nase. Fast gleichzeitig hörte ich Harald flüstern:
-
-»Rechts vor uns liegt der arme Chutawuru. Er ist tot und
+»Rechts vor uns liegt der arme Chutawuru. Er ist tot, und
 bei der Hitze hier ist die Leiche bereits in Verwesung übergegangen.
 — Ich hoffe für uns nur auf eins; daß es mir allmählich
 gelingt, meine Handfesseln zu lockern. Viel bewegen darf ich
@@ -764,7 +763,7 @@ drang bis zu uns hinab. Dann Bickpools Stimme:
 
 »He, Mr. Harst, schon gebissen?«
 
-Ich richtete meine Augen stier auf eine riesige Kobra die
+Ich richtete meine Augen stier auf eine riesige Kobra, die
 jetzt langsam in das Dunkel des Kellers davonglitt.
 
 »Nein, noch nicht,« sagte Harst. »Lange wird’s aber —«
@@ -780,7 +779,7 @@ machen. Sie helfen uns Parmangs Diamantenlager suchen,
 verzichten auf jeden Anteil daran und sollen dafür frei
 sein, wenn Sie uns Ihr Ehrenwort geben, wirklich ehrlich zu
 suchen und uns nicht der Polizei oder sonstwem in die Hände
-zu spielen. Ihr Freund muß bleiben wo er ist. Mit Ihnen
+zu spielen. Ihr Freund muß bleiben, wo er ist. Mit Ihnen
 beiden wollen wir die Sache nicht machen. Sie allein können
 wir beaufsichtigen, aber —«
 
@@ -825,7 +824,7 @@ Gedanken gekommen, mit uns eine Art Vertrag zu schließen?«
 <@pagebreak/>
 »Ja, so ist’s, Mr. Harst. — Was soll nun geschehen?«
 
-»Wir, Schraut und ich werden unsere Verkleidung ablegen
+»Wir, Schraut und ich, werden unsere Verkleidung ablegen
 und dann mit Ihnen zusammen nach Katmandu fahren. Ich
 kann ein Auto steuern. Sie beide verwandeln sich in bärtige
 Inder und spielen unsere Diener. Ich hoffe die Diamanten zu
@@ -931,7 +930,7 @@ Abzüge herzustellen. Es waren mindestens hundert
 Aufnahmen, die er damals an jenem ersten Tage gemacht
 hatte.«
 
-»Dieser Pragnar hatte keine Dienerschaft?« fragte Harst.
+»Dieser Pragnar hatte keine Dienerschaft?« fragte Harst jetzt.
 
 »Bei seinem ersten Aufenthalt hier nicht. Beim zweiten
 brachte er zwei eingeborene Diener mit,« erklärte Blenkox.
@@ -991,11 +990,11 @@ festzustellen, was der Sahib in dem verrufenen Hause wollte.
 Im Hofe standen drei gesattelte Pferde und ein hochbeladenes
 Packpferd. Nach einer halben Stunde kam der Sahib, als Chinese
 verkleidet, mit zwei Dienern und dem Teewirt Tschang in
-den Hof. Die Diener nannten den Sahib »Master Parmang,«
+den Hof. Die Diener nannten den Sahib »Master Parmang«,
 und er redete sie mit »Tschumdschu« an. Es waren Nepalesen.
 Die drei ritten dann mit dem Packpferd nach Norden zur
 Stadt hinaus und bogen nachher in den Paßweg ein, der am
-linken Ufer des Sun Kufi (Fluß, der vom Himalaya nach Südost
+linken Ufer des Sun Kusi (Fluß, der vom Himalaya nach Südost
 fließt) entlangführt. Mehr weiß ich nicht.«
 
 »Hat der Teewirt Tschang Pferde zu verleihen?« fragte
@@ -1025,7 +1024,7 @@ Tschang?« fragte Harst und fixierte den Teewirt durchdringend.
 
 Tschang krümmte sich, lächelte, schüttelte den Kopf. »Nicht
 <@pagebreak/>
-an Mr. Parmang sondern an einen indischen Kaufmann.«
+an Mr. Parmang, sondern an einen indischen Kaufmann,«
 erklärte er.
 
 »Hm — sollten Sie in diesem Inder nicht Parmang wiedererkannt
@@ -1091,7 +1090,7 @@ Sattel sitzen und die Verfolgung aufnehmen würden.
 
 Um 3 Uhr nachmittags befanden wir uns bereits mitten
 im Hochgebirge. Die uralte Straße, die hier dem Ufer des
-Sun Kufi folgte, bewies wieder einmal, eine wie hochentwickelte
+Sun Kusi folgte, bewies wieder einmal, eine wie hochentwickelte
 Kultur selbst hier in Nepal vor vielen Jahrhunderten bestanden
 hatte. — Öffnete sich vor uns ein nach Norden gerichtetes
 Tal, dann sahen wir bereits in fast greifbarer Nähe die ersten
@@ -1197,7 +1196,7 @@ Harst band die Pferde in der Felsspalte fest. Sie standen
 hier unter Wind. Er legte ihnen auch noch Decken auf und
 meinte dabei: »Man kann nie wissen, wie lange man fortbleibt.«
 
-Ich wunderte mich, daß er sich zu alledem so viel Zeit ließ. —
+Ich wunderte mich, daß er sich zu alledem so viel Zeit ließ.
 Bickpool und Mautley mußten jetzt schon einen recht großen
 Vorsprung haben.
 
@@ -1208,7 +1207,7 @@ Gedanken erriet.
 einen Satteltasche zwei Ersatzbatterien für seine Lampe zu sich.
 »Unsere beiden »Freunde« werden ja ohne Zweifel argwöhnisch
 sein und abwarten, ob wir ihnen nicht folgen. Sie haben
-sicher nach einer Weile haltgemacht und werden erst weitergehen,
+sicher nach einer Weile halt gemacht und werden erst weitergehen,
 wenn sie glauben, wir seien wirklich bei den Pferden geblieben.
 Übrigens können wir jetzt auch gleich unserem dicken
 Doorball zu seinem Gelde zurückverhelfen. Mautley hat heute
@@ -1284,7 +1283,7 @@ ein Mann, hielt in der Linken eine große, brennende Harzfackel.
 Er lehnte an der wie in Flammen stehenden Eiswand, hatte
 die rechte Hand auf die Brust gepreßt.
 
-Unten aber, am Fuße dieses ungeheuren, zum Altar abgeplatteten
+Unten aber, am Fuße dieses ungeheuren, zum Altan abgeplatteten
 Wandpfeilers, hatten sich Bickpool und Mautley dicht
 zusammen in eine Aushöhlung der Eiskanzel geschmiegt. Mautley
 hatte die Laterne vor sich auf den Boden gestellt, ihr Lichtschein
@@ -1300,17 +1299,16 @@ Kegel seiner Lampe, die er nach abwärts gerichtet hatte.
 
 Dann von der Höhe der Eiskanzel herab ein wildes Auflachen
 — Parmang hatte es ausgestoßen. Es klang so furchtbar,
-daß mir plötzlich die Zähne wie im Fieberfrost aneinander
-schlugen.
+daß mir plötzlich die Zähne wie im Fieberfrost aneinanderschlugen.
 
 »Vier Morde — um nichts!« brüllte Parmang jetzt mit
-einer Stimme die vielleicht noch entsetzlicher anzuhören war,
+einer Stimme, die vielleicht noch entsetzlicher anzuhören war,
 als das Lachen. »Holt Euch die Diamanten! Sie sind mit Blut
 gedüngt!«
 
-Mit letzter Kraft schleuderte er die Fackel im Bogen dorthin
+Mit letzter Kraft schleuderte er die Fackel im Bogen dorthin,
 wo Harst noch immer wie entgeistert abwärts stierte. Die
-Eishöhle, getroffen von den beweglichen zuckenden Lichtstrahlen
+Eishöhle, getroffen von den beweglichen, zuckenden Lichtstrahlen
 der Fackel, schien in Rotglut aufzuflammen — nur für Sekunden.
 
 Die Fackel verschwand. Es mußte dort, wo Harst so
@@ -1346,9 +1344,9 @@ Brust.
 Ein Schwindel befiel mich plötzlich. Harsts Faust riß mich
 zurück. Und seine Stimme gellte mir warnend in die Ohren:
 
-»Irgend ein Gas entsteigt dort unten den Rissen des Bodens
+»Irgend ein Gas entsteigt dort unten den Rissen des Bodens,
 — ein Gas, dem die zum Opfer fielen, deren Habgier nach den
-Diamanten lechzte.«
+Diamanten lechzte —«
 
 Er nahm mich und führte mich ein Stück von dem Schlunde
 weg. Schwerfällig setzte ich mich auf einen Eisblock. Das Blut
@@ -1384,7 +1382,7 @@ Parmang regte sich, schlug die Augen auf. Sein bereits
 halb verschleierter Blick blieb auf Haralds Antlitz haften, der
 sich tief über ihn gebeugt hatte.
 
-»Robin Parmang,« sagte Harst eindringlich . »Sehr bald
+»Robin Parmang,« sagte Harst eindringlich. »Sehr bald
 werden Sie —«
 
 Parmang hob wie abwehrend die Hand. Keuchend stieß er
@@ -1397,7 +1395,7 @@ rannen aus den Mundwinkeln das Kinn hinab.
 
 »Parmang, Sie zwangen Ihre beiden Diener, dort in die
 Schlucht hinabzusteigen, nicht wahr? Und beide fanden dabei
-den Tod, nachdem sie Ihnen eine Anzahl Diamanten hinausgeschafft
+den Tod, nachdem sie Ihnen eine Anzahl Diamanten hinaufgeschafft
 hatten. — Sie nicken. Also ist es so. Und Ihre Diener,
 Vater und Sohn, kannten das Geheimnis dieser Eishöhle
 seit langem —«
@@ -1407,7 +1405,7 @@ quälte der Sterbende hervor.
 
 »Was wollten Sie jetzt hier, Parmang?«
 
-— »Auf Sie beide — warten — und Sie — ebenso benutzen
+»Auf Sie beide — warten — und Sie — ebenso benutzen
 wie die Tschumdschus. — Ich — bereue jetzt — ehrlich. Ich
 habe auch die beiden Chinesen — erschossen, die der Teehauswirt
 — mir nachschickte. Verzeihen Sie mir, Harst. Ich war
@@ -1424,7 +1422,7 @@ entquoll seinem Munde. Robin Parmang war tot. —
 
 Harst wollte jetzt zunächst feststellen, ob Bickpool und Mautley
 etwa auch unsere Pferde mitgenommen hätten. Er eilte
-davon. In einer Viertelstunde war er wieder zurück. — »Merkwürdig«
+davon. In einer Viertelstunde war er wieder zurück. — »Merkwürdig,«
 meinte er, »sie haben unsere Pferde wirklich dagelassen.
 Das Entsetzen muß den Schurken doch so in die Knochen
 gefahren sein, daß sie nur daran gedacht haben, schleunigst von
@@ -1437,7 +1435,7 @@ Bei Tagesanbruch machten wir uns auf den Rückweg nach
 Katmandu. Wir erreichten es ohne Zwischenfall, setzten dann
 auch im Auto die Reise bis Betija fort und wollten hier als
 Gäste bei unserem dicken Doorball wohnen bleiben, bis aus
-Patna die beiden Sauerstoffhelme eintrafen, die Harst bestellt
+Patna die beiden Sauerstoffhelme einträfen, die Harst bestellt
 hatte und die es uns ermöglichen sollten, die Schätze der Eishöhle
 zu heben. Von Bickpool und Mautley hatten wir
 in dieser Zeit weder etwas gesehen noch gehört. Da — am
@@ -1449,7 +1447,7 @@ Diamanten, dazu noch einen Zettel folgenden Inhalts:
 Wir haben die Eisschlucht bereits völlig ausgeräumt. Sie
 übersahen, daß es Sauerstoffhelme in jedem Bergwerksbetriebe
 gibt, also auch in der Songarbiri-Mine, wo wir das
-Nötige stahlen. Wir gestatten uns Ihnen zum Andenken
+Nötige stahlen. Wir gestatten uns, Ihnen zum Andenken
 zwanzig Steine zu übermitteln. Den Wert der übrigen
 schätzen wir auf rund 50 Millionen. Es sind Exemplare von
 fast Hühnereigröße darunter. — Leben Sie wohl. Wir sehen
