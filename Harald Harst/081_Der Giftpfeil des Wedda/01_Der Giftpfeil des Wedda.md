@@ -51,7 +51,7 @@ und griff nach einer Zigarre in die silberne Schale.
 »Aber ich bitte Sie, wie soll man das wohl ergänzen?«
 
 »Nun — zunächst sollte wohl auf das »Lydia« als
-Vorname noch der Vatersnamne folgen, dann notwendig
+Vorname noch der Vatersname folgen, dann notwendig
 das zu »wird« gehörige Verbum, etwa — »gefangen halten«,
 also »wird gefangen gehalten«. Es ist nämlich schwer,
 ein Verbum zu finden, das man außer diesem hier einfügen
@@ -207,7 +207,7 @@ Zimmer, die ich noch heute bewohne, hier im Erdgeschoß
 nach hinten heraus neben der Küche. Ich konnte natürlich
 nicht einschlafen. Nein, ich lag völlig munter da. Plötzlich,
 es mag gegen drei Uhr morgens gewesen sein, glaubte
-ich Hilferufe zu hören, ganz leise, verschwommene Rufe.
+ich Hilferufe zu hören, ganz ferne, verschwommene Rufe.
 Ich sprang empor und betrat den Flur, lauschte hier.
 
 Nichts — nichts.
@@ -233,8 +233,8 @@ da. Wieder die fernen, fernen Rufe.
 
 Aber jetzt war ich nicht ohne einen Verbündeten mit
 jüngeren Ohren, als Lady Myntor und ich sie besaßen.
-Ich hatte den Diener Makri, einen erst fünfundvierzig Jahre
-alten Hindu, in einem Nebenzimmer für die Nacht untergebracht,
+Ich hatte den Diener Makri, einen erst fünfunddreißig Jahre
+alten Hindu, in einem nahen Zimmer für die Nacht untergebracht,
 holte ihn und bat ihn, genau achtzugeben, ob er
 etwas hörte.
 
@@ -315,7 +315,7 @@ war, verschenkt würde. Lydia hatte denn auch behauptet,
 die Katze einem unbekannten Manne übergeben zu haben.
 In Wahrheit hatte sie das Tier in die beiden geheimen
 Kellerräume gebracht und hier gefüttert. Aus irgend
-einem niemals aufgeklärter Grunde hatte sie dann, wie
+einem niemals aufgeklärten Grunde hatte sie dann, wie
 Mr. Boßwell annahm, die Geheimtür von innen damals
 nicht wieder öffnen können und war vor Schreck hierüber
 ohnmächtig geworden, muß auch sehr lange bewußtlos gewesen
@@ -397,10 +397,10 @@ Sie keinen Argwohn schöpft, dann —«
 
 »Nein, nein, von Argwohn oder dergleichen kann keine
 Rede sein, Mistreß. Und wenn ich Sie nun bitte, Schraut
-und mir nachher die Schlüssel zu dem Gewölben auszuhändigen,
+und mir nachher die Schlüssel zu den Gewölben auszuhändigen,
 so geschieht es nur, weil ich mir die alten Statuen
 und Gerätschaften ansehen möchte. — Haben die Gewölbe
-mehrere Ausgänge?«
+mehrere Zugänge?«
 
 »Zwei nur, Mr. Harst. Einen vom Seitenflügel, der
 nie benutzt wurde, und den Haupteingang im hinteren
@@ -459,9 +459,9 @@ Eine kleine Szene beim Einsteigen hatte mir zu denken
 gegeben. Makri saß, als wir das Haus verließen und dem
 vor der Terrassentreppe haltenden Wagen zuschritten,
 regungslos und kerzengerade vorn auf dem Bock, hatte die
-mit Sandalen bekleideten Füße gegen das karierte Vorderbrett
+mit Sandalen bekleideten Füße gegen das lackierte Vorderbrett
 gestemmt und begrüßte uns würdevoll durch Senken
-der langen Schwipppeitsche.
+der langen Schwippeitsche.
 
 Ich stieg ein. Harald aber trat an Makri heran und
 spielte dabei mit seinem goldenen Zigarettenetui, das er
@@ -571,7 +571,7 @@ Der andere Hafen ist — Battikaloa!«
 »Ah — Battikaloa! Und den erwähnte Albert Dracon.«
 
 »Ja. Du siehst also, daß die verbindenden Fäden sich
-mehren. — Wir sind gleich angelangt -«
+mehren. — Wir sind gleich angelangt —«
 
 Der Wagen hielt. Wir stiegen aus und betraten das
 große Postgebäude.
@@ -590,7 +590,7 @@ nicht bemerken.
 
 Unser Auto blieb stets etwa dreißig Meter hinter dem
 Ponywagen, der bald in ruhige Seitenstraßen einbog und
-dann die elegante Viktoria-Street hinabraste. Hier hielt
+dann die elegante Viktoria-Street hinabjagte. Hier hielt
 Makri vor einem kleineren Bungalow (einstöckiges Sommerhaus)
 an, rief einen kleinen braunen Bengel herbei und
 <@pagebreak/>
@@ -641,7 +641,7 @@ als nach ihr gesucht wurde. — Kennen Sie Doktor
 Greebrac genauer? War er der Arzt, der Lydia damals
 behandelt hat?«
 
-»Allerdings, Greebrac war damals erst kurze Zeit in
+»Allerdings. Greebrac war damals erst kurze Zeit in
 Bombay. Er war mit Dracon befreundet, und Dracon
 empfahl ihn, wie ich hörte. Dieser Greebrac ist ein recht
 zweifelhaftes Subjekt, lieber Harst: Spieler, Morphinist,
@@ -693,7 +693,7 @@ nicht merken, daß sie »beschattet« werden. Und zu sieben Uhr
 abends die Depesche.«
 
 Als wir die Straße betraten, war der Ponywagen
-noch nicht da. Es fehlten noch zehn Minuten an der halben
+noch nicht da. Es fehlten noch fünf Minuten an der halben
 Stunde.
 
 <@pagebreak/>
@@ -720,7 +720,7 @@ Wir ließen sie offen, damit wir mehr Licht
 hatten.
 
 Auf einem Unterbau von poliertem Stein stand ein
-reich verzierten Sarg aus einem jener nie faulenden, wohlriechenden
+reich verzierter Sarg aus einem jener nie faulenden, wohlriechenden
 Tropenhölzer. Der Deckel war mit Flügelschrauben
 befestigt.
 
@@ -738,7 +738,7 @@ Ich schaute hin.
 Er hatte sich soeben einen Blasrohrpfeil aus der
 Wange gezogen.
 
-Es war ein aus einer breitkantigen, spitzen Fischgräte
+Es war ein aus einer dreikantigen, spitzen Fischgräte
 und einer Fiederung aus Flaumfedern gefertigter, etwa
 sechs Zentimeter langer Pfeil.
 
@@ -771,7 +771,7 @@ Ich stopfte das Blatt in die Tasche, riß den Koffer auf,
 riß die Reiseapotheke heraus, jagte zurück.
 
 Harald stand vor der Tür des alten Gemäuers und
-hatte die Clementpistole in der schlaff herabhängende Rechten.
+hatte die Clementpistole in der schlaff herabhängenden Rechten.
 Seine ganze Haltung drückte tiefste Erschöpfung aus.
 
 Ich sog die Schnittwunde nochmals aus, schüttete dann
@@ -855,7 +855,7 @@ Schraut. Wir kennen hier in Indien den Alkohol als recht
 zuverlässiges Mittel gegen alle Nervengifte.«
 
 Ich hörte draußen auf dem Hauptwege des Parkes
-das Rollen der heimkehrenden Ponywagens.
+das Rollen des heimkehrenden Ponywagens.
 
 »Miß Honoria, bitte mag Makri sofort irgend einen
 Arzt holen,« sagte ich hastig. »Irgend einen, wenn es nur
@@ -934,7 +934,7 @@ stark gerötet. Aber der Blick war glanzlos, ohne Leben.
 »Hm — ich möchte Ihrem Freunde doch noch eine
 Injektion machen,« meinte er nun.
 
-Oh — eine Einspritzung? Durfte ich das zulassen?!
+Oh — eine Einspritzung?! Durfte ich das zulassen?!
 Wenn er Harald nun ein Gift in die Blutbahn einführte,
 ein langsam wirkendes Gift!
 
@@ -943,7 +943,7 @@ getreten, packte seine Tasche aus.
 
 Gott sei Dank: Honoria erschien! Nun — nun würde
 es mir möglich sein, das zu tun, was blitzartig in meinem
-Hirn als besonderer Plan aufgesucht war.
+Hirn als besonderer Plan aufgezuckt war.
 
 Und — es gelang!
 
@@ -1094,7 +1094,7 @@ Arm stützte.
 <h2>4. Kapitel.</h2>
 <h3>Der dritte Pfeil.</h3>
 
-»Welcher Leichtsinn, Mr. Harst!« meinte, Honoria.
+»Welcher Leichtsinn, Mr. Harst!« meinte Honoria.
 »Jane, Sie hätten nicht dulden sollen, daß —«
 
 »Oh — machen Sie doch etwas, wenn ein Harst sagt,
@@ -1153,7 +1153,7 @@ Hoffnung dahin! Jede!
 waren irrig. Der Sarg ist nicht leer.«
 
 Wer Harst kennt, achtet auf jedes seiner Worte. Und
-— hier sprach er erst von »es scheint so« und dann von den
+— hier sprach er erst von »es scheint so« und dann von dem
 leeren Sarg, dem seine unrichtigen Kombinationen gegolten
 hatten. Er sprach aber nicht davon, daß dies Skelett wirklich
 das Lydia Ramands sein müsse.
@@ -1207,7 +1207,7 @@ sende uns Makri her. Er muß gleich zur Apotheke fahren.«
 
 »Miß Honoria,« wandte er sich dann an die Hausherrin,
 »schneiden Sie doch rasch dort das lange Ende von
-der Zugschnur der Markise ah.«
+der Zugschnur der Markise ab.«
 
 Honoria zögerte.
 
@@ -1253,7 +1253,7 @@ Blick verkroch sich wieder.
 
 »Ich fuhr hierher,« erwiderte er scheinbar gleichmütig.
 
-»Du lügst Makri. Du warst auf dem Hauptpostamt.
+»Du lügst, Makri. Du warst auf dem Hauptpostamt.
 Du kamst dort vorbei, brauchtest keinen Umweg zu machen.«
 
 »Ich war nicht dort, Sahib,« beharrte der Inder mit
@@ -1454,7 +1454,7 @@ davon gefahren, daß jede Verfolgung aussichtslos
 gewesen sei.
 
 Sofort begann jetzt der Telegraph nach allen Seiten
-zu spielen. Der hellgraue Kraftwagen solle aufgehalten
+zu spielen. Der hellgraue Kraftwagen sollte aufgehalten
 und die Insassen verhaftet werden.
 
 »Vielleicht glückt es,« meinte Harst, der jetzt mit langen
@@ -1471,7 +1471,7 @@ Bombay nebst Bedienung ausgewiesen.
 Harst nahm selbst den Telephonhörer und sprach mit
 dem Beamten in Dhana, wo jedes Auto durchmußte, daß die
 Südküste Vorderindiens erreichen wollte und dort einen der
-Häfen, von denen man nach Ceylon übersetzten konnte.
+Häfen, von denen man nach Ceylon übersetzen konnte.
 
 »Sind sonst noch Kraftwagen bemerkt worden?« fragte
 Harald.
@@ -1521,14 +1521,14 @@ netter Engländer namens Gocklin, mit dem wir uns schnell
 anfreundeten.
 
 Harst hatte genau berechnet, daß wir mit diesem Kutter,
-der bis zu 18 Knoten lief, vor Greebrac in Negapatan ankommen
+der bis zu 18 Knoten lief, vor Greebrac in Negapatam ankommen
 müßten.
 
 Als wir nachmittags gegen fünf in der Kajüte mit
 Gocklin zu Mittag speisten, kam für uns jedoch die böse Enttäuschung:
 Gocklin erwähnte so nebenbei, daß er heute
 vormittag gegen zehn Uhr Zeuge gewesen sei, wie ein
-Amerikaner in Negapatan ein Motorrennboot für einen
+Amerikaner in Negapatam ein Motorrennboot für einen
 geradezu unsinnigen Preis einem indischen Perlenhändler
 abgekauft habe. Es sei ein großes Rennboot gewesen, und
 der Amerikaner habe denn auch sofort damit eine Probefahrt

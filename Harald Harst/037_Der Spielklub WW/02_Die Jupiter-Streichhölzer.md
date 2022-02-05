@@ -44,6 +44,7 @@ mit einem Male hocherfreut auf das Dach des Stalles
 zeigte.
 
 »Da — da, die drei Entführten sind zurückgekehrt.«
+
 Es waren die drei Brieftauben. Sie kamen denn auch
 sofort auf den Futterplatz herabgeflattert und pickten gierig
 die Körner auf.
@@ -201,7 +202,7 @@ Da — dies ist Zettel Nr. 3.«
 
 »— und es ist davon nur übrig geblieben:
 
-> Rosen-Platz 4.
+<p class="centered">Rosen-Platz 4.</p>
 
 Alle anderen Wörter ließen sich leicht wegwaschen. Es waren
 nur von »Rosenmädel« das »Rosen« und dann »Platz 4«
@@ -281,7 +282,7 @@ zu einem Verbrechen —«
 also: Erbschleichen oder Ähnliches mit allen Mitteln!«
 
 Dann machte er mir einen Vorschlag, auf den ich gern
-einging. Wir verließen nach dem Mittagessen um zwei
+einging. — Wir verließen nach dem Mittagessen um zwei
 Uhr das Haus durch den Gemüsegarten, der mit der Rückseite
 an einen wenig benutzten Weg stieß. Wir hatten uns
 so gründlich verwandelt, daß wir uns gegenseitig kaum erkannt
@@ -311,7 +312,7 @@ Mauererhöhung erst hat anbringen lassen, nachdem sein
 Mündel zu im gezogen und nachdem — die beiden Verwandten
 Rosa Lindens verstorben waren!«
 
-Das war keine Frage, die Harald gestellt hatte: das
+Das war keine Frage, die Harald gestellt hatte; das
 war eine direkte Verdächtigung des Doktors — eine schwere
 Verdächtigung, die eben in dem letzten Satze lag.
 
@@ -478,7 +479,7 @@ nächsten Nachbar des Doktors einen Besuch ab. Du besinnst
 Dich auf die elegante Villa rechts vom Rosenplatz.
 <@pagebreak/>
 Im Vorübergehen las ich das Schild an der Gartenpforte:
-v. Beberritz.«
+v.&nbsp;Beberritz.«
 
 Wir schlängelten uns auf Umwegen dorthin. Inzwischen
 teilte Harald mir folgendes mit:
@@ -522,7 +523,7 @@ und erklettert. Und — nun hatte das Signalisieren
 begonnen. Rosa Linden war auf dem Dache des eigenartigen
 Bauwerkes erschienen, das sich auf einer Insel in
 einem kleinen See erhob, hatte einen größeren Spiegel
-mitgebracht und, gedeckt durch eine Rollwand, nach Westen
+mitgebracht, und, gedeckt durch eine Rollwand, nach Westen
 hin, nach der Eiche zu, wo sie Harst offenbar bemerkt hatte,
 Zeichen gegeben, indem sie das Licht der bereits tief
 stehenden Sonne auf den Spiegel fallen ließ und so Lichtblitze
@@ -537,7 +538,7 @@ aneinandergefügt hätte.
 »Ja, denke Dir, mein Alter. Sie hat mir nur zwei
 Worte telegraphiert:
 
-> »Diese Nacht!«
+<p class="centered">»Diese Nacht!«</p>
 
 und hier hast Du ihren Brief. Wenn Du ihn gelesen hast,
 wirst Du dieses: »Diese Nacht« verstehen.«
@@ -560,7 +561,7 @@ habe keinen Freund auf der ganzen Welt.«
 Ich schüttelte den Kopf.
 
 »Eine tolle Sache!« meinte ich. »Beinahe zu — zu
-hintertreppenromanhaft ehrlich gesagt.«
+hintertreppenromanhaft, ehrlich gesagt.«
 
 »Wenn Du das arme Mädel mit den wundervollen
 dunklen, so verängstigten Augen gesehen hättest, würdest Du
@@ -613,7 +614,7 @@ genommen worden.
 
 Wir saßen in einem sehr bescheidenen Salon. An den
 Wänden hingen desto wertvollere Gemälde. Inzwischen hatten
-wir schon von dem Diener gehört, daß Herr v. Beberritz
+wir schon von dem Diener gehört, daß Herr v.&nbsp;Beberritz
 Exzellenz war.
 
 Dann erschien er selbst. Ein stattlicher, alter Herr, dem
@@ -634,12 +635,12 @@ nehmen die Herren wieder Platz.«
 
 <@pagebreak/>
 »Ich komme in einer etwas heiklen Angelegenheit,
-Exzellenz«, erklärte Harst dann. »Ich möchte gern einiges
+Exzellenz,« erklärte Harst dann. »Ich möchte gern einiges
 über Ihren Nachbar Doktor Prikola erfahren. Ich nehme
 an, daß Sie mir wenigstens —«
 
-Herr v. Beberritz hatte die Stirn gekraust und fast
-unwillig gerufen.
+Herr v.&nbsp;Beberritz hatte die Stirn gekraust und fast
+unwillig gerufen:
 
 »Lassen Sie mich mit dem Menschen in Ruhe!« Dann
 fuhr er schnell fort: »Verzeihen Sie, Herr Harst, aber allein
@@ -843,6 +844,7 @@ Dann erschien auch schon Rosa Linden, zog das Tau
 nun ein und rollte es auf, schloß das Fenster, schob einen
 Vorhang vor und schaltete eine elektrische Lampe ein, die
 an der Decke dieses viereckigen, schmalen Gemaches hing.
+
 Wir befanden uns in Rosa Lindens Wohnzimmer.
 
 Wir nahmen in Rohrsesselchen Platz. Das Mädchen
@@ -898,7 +900,7 @@ Das Mädchen deutete auf das Glas.
 »Ich pflege nachts hin und wieder einen Schluck Wasser
 zu trinken, Herr Harst. In der vergangenen Nacht gegen
 ein Uhr morgens erwachte ich. Ich hörte noch, wie hier
-im Zimmer etwas zu klappte, — ganz leise, — so wie eine
+im Zimmer etwas zuklappte, — ganz leise, — so wie eine
 Tür, die man hastig schießen will, aber ohne Geräusch.
 Ich griff nach meiner Taschenlampe unter dem Kopfkissen.
 Bevor ich sie noch eingeschaltet hatte, bemerkte ich dort
@@ -990,7 +992,7 @@ noch in dieser Nacht wird der Doktor verhaftet werden.«
 
 Sie flüsterte nur: »O, mein Gott — gerettet, gerettet —«
 
-Harst stand auf. »Gehen wir, Fräulein Linden.«
+Harald stand auf. »Gehen wir, Fräulein Linden.«
 
 Er nahm das Tau, schaltete die Lampe aus und öffnete
 das kleine Fenster.
@@ -1078,6 +1080,7 @@ Harst antwortete nicht. Er hatte hier ja das Wort
 zu führen, nicht ich. Also blieb ich gleichfalls stumm.
 
 Der Doktor schaute uns nacheinander an.
+
 »Ich habe Sie noch nie gesehen. Wo haben Sie die
 Unglückliche hingebracht? Wie konnte sie sich mit Ihnen
 in Verbindung setzen? — O — Sie ahnen ja nicht, was
@@ -1088,7 +1091,7 @@ Harst erwiderte nichts.
 
 »Ich habe Ihre Taschen durchsucht,« sagte Prikola nun.
 »Ich hoffte, darin etwas zu finden, das mir Aufschluß über
-Sie geben könnte. Nur zwei Taschenmesser, zwei Repetier-Pistolen,
+Sie geben könnte. Nur zwei Taschenmesser, zwei Repetierpistolen,
 zwei Ersatzbatterien und zwei Taschenlampen fand
 ich, dann noch — dies hier!«
 
@@ -1138,7 +1141,8 @@ Hunderttausend Mark! Jedem! Nur die Wahrheit muß ich
 wissen! Rosa darf nicht entkommen. Es — es wäre der
 Anfang vom Ende. Und ich habe doch Werner Linden
 an seinem Sterbelager gelobt, für Rosa wie für mein eigen
-Kind zu sorgen. Ich war zu nachsichtig als Vormund.«
+Kind zu sorgen. Ich war zu nachsichtig als Vormund.
+Ich —«
 
 Er fuhr sich über die hohe Stirn hin, wischte ein paar
 Schweißperlen weg.
@@ -1226,6 +1230,7 @@ geworden.
 
 »Mein Gott —!« murmelte er. »Ich begreife jetzt
 alles —! Und — so, so habe ich mich täuschen lassen!«
+
 Dann raffte er sich auf.
 
 »Vorwärts — zu mir nach Hause!«
@@ -1379,7 +1384,7 @@ Rosa Linden vielleicht einmal bei Möckern behandeln lassen?«
 stehen, Herr Harst?«
 
 Harald schaute in den leuchtenden Sonnenschein des
-Vorgartens hinauf. »Eine Spur — vielleicht!« murmelte
+Vorgartens hinaus. »Eine Spur — vielleicht!« murmelte
 er. —
 
 Eine Stunde darauf brachte ein Auto Harst und mich
@@ -1411,7 +1416,7 @@ In demselben Moment trat ein schlanker, bildhübscher
 Bursche ein: Rosa Linden.
 
 Sie stutzte — ein Sprung nach rückwärts — ein Zuknallen
-der Tür, das Kreischen des Schlüssel —
+der Tür, das Kreischen des Schlüssels —
 
 Ich stand der Tür am nächsten, hatte schon den Drücker
 in der Hand, kam um den Bruchteil einer Sekunde zu spät.

@@ -82,7 +82,7 @@ Athleten wieder zu — »an die vielen schwimmenden
 Grasstücke und Sträucher denken sollen.«
 
 Des Inders Gesicht veränderte sich für einen Moment.
-Der Ausdruck baldigen Schrecks glitt darüber hin wie der
+Der Ausdruck hastigen Schrecks glitt darüber hin wie der
 Schatten einer rasch segelnden Wolke.
 
 »Gocklin — ans Steuer bitte!« befahl Harst da. »Wenn
@@ -211,7 +211,7 @@ Harald um.
 
 »Fahren wir weiter nach Battikaloa und in die Lagune
 hinein bis zur Gurrasawa-Plantage,« meinte er. »Der
-Adler ist uns wirklich entgangen. Wir werden ihn natürlich
+Adler ist uns wirklich entflogen. Wir werden ihn natürlich
 auch auf der Plantage nicht finden. Ich möchte aber mit
 deren Besitzer Tom Brackpoll ein Wörtchen reden.« —
 
@@ -255,7 +255,7 @@ Harst?«
 Als wir in der Kajüte Platz genommen hatten, lächelte
 sie plötzlich verlegen und sagte zögernd:
 
-»Ich — ich habe Hunger, Mr Harst. Ich werde mir
+»Ich — ich habe Hunger, Mr. Harst. Ich werde mir
 rasch etwas zum Essen von Mr. Gocklin geben lassen. Nein
 — bleiben Sie sitzen, Mr. Schraut. Ich bin flinker als Sie.«
 
@@ -264,7 +264,7 @@ Und sie huschte lachend zur Kajüte hinaus.
 Ich blickte Harald kopfschüttelnd an. Aber Harst starrte
 mit gekrauster Stirn vor sich hin.
 
-»Daß sie Hunger hat könnte sie uns doch auch auf Deck
+»Daß sie Hunger hat, konnte sie uns doch auch auf Deck
 verraten,« meinte ich.
 
 Harst rührte sich nicht, blieb stumm.
@@ -358,7 +358,7 @@ bleibend, »ja, das ist eine nette Überraschung, nicht wahr?
 Sie gestatten, daß ich Ihnen hier meine Schwester Adelaide
 vorstelle. Sie werden schon als Freund des berühmten
 Harst auf die durchaus richtige Vermutung gekommen sein,
-das ich mir erlaubt habe, Ihnen durch Adi, meine Schwester,
+daß ich mir erlaubt habe, Ihnen durch Adi, meine Schwester,
 eine Falle stellen zu lassen. Lydia Ramand, die Sie holen
 wollten, befindet sich längst anderswo. Aber jetzt — habe
 ich Sie beide mir geholt. Das heißt: Harst hat Pech gehabt.
@@ -368,7 +368,7 @@ in die Tiefe. Schade, Sie hätten ihn nur um Hilfe rufen
 hören sollen! Ja — so ein Krokodil packt fest zu. Wir
 sahen, wie verzweifelt er sich wehrte, wie er aber doch langsam
 versank. Die Bestie hatte wohl einen Fuß zu fassen
-bekommen.«
+bekommen —«
 
 Dieser satanische Hohn trieb mir das Blut ins Gesicht.
 
@@ -391,7 +391,7 @@ Hat der superkluge Harst mein Haus durchsucht? — Antworten
 Sie doch! — Nun — sicherlich hat er’s getan. Und
 doch übersah er den Taubenstall im Hofgebäude und die
 Brieftauben darin, von denen drei meinem Freunde Brackpoll
-die Warnung zutrugen, als ich merkte daß man die
+die Warnung zutrugen, als ich merkte, daß man die
 Depesche nicht hatte abgehen lassen —«
 
 »Dann zweitens, Mr. Schraut: weiß Harst, wer ich bin?
@@ -465,7 +465,7 @@ wegen muß ich dem Dasein lebewohl sagen. Meine Bitte
 ist begreiflich.«
 
 »Sie sind schlau,« lächelte er eisig. »Sie wollen einen
-Aufschub der Hinrichtung erwirken. Sie hoffen, entfliehen
+Aufschub Ihrer Hinrichtung erwirken. Sie hoffen, entfliehen
 zu können. Ich würde diese Bitte ablehnen, wenn
 für Sie auch nur die geringste Aussicht bestände zu entkommen.
 Da dies nicht der Fall ist, sage ich: Ja — Sie sollen
@@ -493,7 +493,7 @@ alles vor. Bring’ mir den kleinen Koffer.«
 
 Ich wurde Zeuge, wie die Geschwister sich jetzt in kurzem
 in zwei Singhalesinnen verwandelten, wie sie ihre Gesichter
-und Schleier vor die braunen Wangen
+färbten und Schleier vor die braunen Wangen
 banden.
 
 Und — in meinem Schoße lag noch immer der arme
@@ -562,8 +562,8 @@ bringt uns nicht weiter. Ich — weiß etwas Besseres —«
 Er lachte schrill.
 
 »Wir werden Schraut das Leben schenken, wenn sie
-endlich das Geheimnis ihres Vaters Preis gibt. Wir werden
-ihr vorhalten, daß Schraut sich befreien wollte und daß
+endlich das Geheimnis ihres Vaters preis gibt. Wir werden
+ihr vorhalten, daß Schraut sie befreien wollte und daß
 es ihre Pflicht sei, ihn dadurch zu retten, daß sie endlich
 verrät, wo ihr Vater die fünf goldenen Buddhastatuen vergraben
 hat — oder sonstwie verborgen.«
@@ -733,7 +733,7 @@ würde? Ob ich die Sonne wirklich zum letzten Mal geschaut
 hatte?
 
 Eine schier endlose Zickzacktreppe führte in einem
-regelmäßig weiten Schachte abwärts. Eine Treppe von
+unregelmäßig weiten Schachte abwärts. Eine Treppe von
 Steinblöcken, schmal, ohne Geländer. Wer hier nicht schwindelfrei
 war, sauste hinab, brach alle Knochen.
 
@@ -805,7 +805,7 @@ getan hatte. —
 Die aus poliertem Metall offenbar bestehende Flügeltür
 des Wunderbauwerks hatte sich lautlos geöffnet. Eine
 Menge farbiger Diener, alle gleich gekleidet in rote Überwürfe,
-mit roten, weißumrandeten Sandalen und weißen
+mit roten, weißumrandeten Turbanen und weißen
 Gürteln, entquollen dem Eingang. Vier davon trugen einen
 auf Stangen befestigten Elfenbeinsessel. Ihnen voraus
 schritt ein weißbärtiger Greis. Der Zug ordnete sich rasch,
@@ -878,7 +878,7 @@ Da — der helle Fleck verengerte sich.
 Da war etwas, das wie eine Riesenspinne in den
 Rauchschwaden sich bewegte: ein Mann an einem Seil!
 
-Ein Mann — ein Mensch der heimlich hier eindringen
+Ein Mann — ein Mensch, der heimlich hier eindringen
 wollte: Harst — Harst!
 
 Ich senkte rasch den Kopf, ging weiter. Nur niemand
@@ -890,7 +890,7 @@ Mit einem Male hinter mir die Stimme Adi Greebracs
 — hohngetränkt, erfüllt von Schadenfreude:
 
 »Sie hätten nicht so überrascht zur Deckenöffnung
-empor starren sollen, Mr. Schraut. Im übrigen haben wir
+emporstarren sollen, Mr. Schraut. Im übrigen haben wir
 überall Alarmvorrichtungen. Ihr listenreicher Freund mag
 den Krokodiltod sehr geschickt uns vorgetäuscht haben. Nun
 wird er —«
@@ -968,7 +968,7 @@ nutzten mir hier die neun Schuß der Clement?! Was half
 es, wenn ich vielleicht ein paar der Diener niederknallte?
 
 So saß ich und wartete. Saß und dachte an gar nichts
-mehr. Alles Denken war hier einerlei, war ein Anrennen
+mehr. Alles Denken war hier zwecklos, war ein Anrennen
 gegen ein Gefängnis, das nur eine Polizeimacht hätte öffnen
 können, kein Grübeln, keine Pläne! —
 
@@ -1017,7 +1017,7 @@ verrieten es.
 Bald zögernd, bald wieder mit seltsam hastigen Schritten
 näherte sie sich, stand vor uns.
 
-Zwei helle verängstigte Augen musterten uns.
+Zwei helle, verängstigte Augen musterten uns.
 
 »Ich — ich — bin Lydia Ramand,« flüsterte sie dann.
 »Er — er sagte mir, daß Sie beide mich hätten befreien
@@ -1052,7 +1052,7 @@ Adi Greebrac erschien.
 
 Neben ihr stand der Tiger, den sie am Halsband hielt.
 
-Lydia Ramands Gestalt überlief ein Zittern. Aber
+Lydia Ramands Gestalt überlief ein Zittern. Aber —
 sie gehorchte. Sie schritt die Marmorstufen hinan.
 
 Im selben Moment fiel mir ein, was ich in dem
@@ -1174,7 +1174,7 @@ Alles — alles hörte sie. Aber der Starrkrampf ihrer
 Glieder war so vollkommen, daß sie wirklich für tot in dem
 uralten Gemäuer im Park beigesetzt wurde.
 
-Erfüllt von namenlose Grauen hörte sie, wie der
+Erfüllt von namenlosem Grauen hörte sie, wie der
 Sargdeckel zugeschraubt wurde, wie die Menschen sich entfernten.
 
 Dann — wieder Geräusche. Man hob sie aus dem
@@ -1320,7 +1320,7 @@ Anstalt »Doktor Ramand-Stiftung« zu nennen. Nun werden
 Sie begreifen, weshalb ich um keinen Preis das Geheimnis
 diesen elenden Schurken verraten wollte, zumal
 mein Vater mich zu strengster Verschwiegenheit verpflichtet
-und betont hatte, ich solle niemandem trauen, denn die Geldgier
+und betont hatte, ich solle niemandem trauen, denn die Goldgier
 hätte schon die besten Charaktere berückt und zu Verbrechern
 werden lassen. — Wo also ist der Ring, Mr. Harst?
 Vorhin, als Ihr Freund mir die Warnung zurief, nichts
@@ -1343,7 +1343,7 @@ Es war ein doppeltes Lachen: das eines Mannes und
 eines Weibes!
 
 Lydia und ich sprangen auf, schauten uns fast entsetzt
-um. Wir fanden niemand.
+um. Wir sahen niemand.
 
 Harald erhob sich jetzt ebenfalls, schüttelte die Faust
 nach der anderen Grottenseite hin, wo ich erst jetzt eine der
@@ -1403,7 +1403,7 @@ Sie haben den Ring nicht bei sich?«
 
 »Nein. Als ich ihn dem Skelett vom Finger zog, als
 Schraut dann entdecke, daß der Rubin sich herausschrauben
-ließ — (wie gut er zu lügen wußte, wenn es nottat!)
+ließ — (wie gut er zu lügen wußte, wenn es nottat!),
 da haben wir natürlich auch die runde Mikrophotographie
 des Schriftstücks gefunden, haben ihre Bedeutung erkannt,
 auch ohne sie vergrößert zu haben, und verbargen Ring und
@@ -1505,7 +1505,7 @@ herbei! Und nach Haralds Berechnung mußte diese Hilfe
 sehr bald eintreffen.
 
 <@pagebreak/>
-Aber die uns von Greebrac bewilligte Stunde verstrich
+Aber die uns von Greebrac bewilligte Stunde verstrich,
 und nichts ereignete sich — nichts!
 
 Greebrac und seine Schwester, hinter ihnen der Tiger,
@@ -1542,7 +1542,7 @@ Durch die Qualmwolken rollte ein Seil herab. Gocklin
 kam — noch drei Leute.
 
 Ein zweites Seil schlängelte sich in die Tiefe. Wieder
-vier Leute
+vier Leute.
 
 Gocklin schnitt uns los. Wir fanden die Tempeltüren
 offen, fanden Lydia Ramand unversehrt in einer Kammer,
@@ -1560,7 +1560,7 @@ Inzwischen waren wir mit Lydia längst unterwegs
 nach Bombay; inzwischen hatte Lydia auch erfahren, daß
 der Ring mit dem Rubin noch immer am Finger der
 <@pagebreak/>
-Skeletthand steckte und das es Harst nur darauf angekommen
+Skeletthand steckte und daß es Harst nur darauf angekommen
 war, Zeit zu gewinnen. —
 
 Der Ring wurde nun aus dem Sarge herausgeholt,
