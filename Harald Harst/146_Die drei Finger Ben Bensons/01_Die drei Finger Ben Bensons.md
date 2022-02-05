@@ -27,7 +27,7 @@ gerade einen ersten Schneider. Ich riet auf Gutsbesitzer,
 zumal seine braunen Schuhe an den Absätzen hellen angetrockneten
 Lehm zeigten.
 
-Harald las Zeitungen. Zeit vier Tagen hatten wir keine
+Harald las Zeitungen. Seit vier Tagen hatten wir keine
 Gelegenheit gehabt, uns über die neuesten Ereignisse zu
 unterrichten. Harst las denn auch ununterbrochen, schien
 für nichts anderes Interesse zu haben.
@@ -156,7 +156,7 @@ nennen, die Patterson erhalten hatte:
 Zweiter Kajüte, Nr. 4 und 5. — Ich belegte Nr. 6
 für zwei Personen, bezahlte, erhielt die Fahrkarten und kehrte
 in mein möbliertes Heim zurück. Inzwischen hatte ich mir
-auch die Zeitungen der letzten vier Tage durch daß das Stubenmädchen
+auch die Zeitungen der letzten vier Tage durch das Stubenmädchen
 der Wirtin besorgen lassen, befolgte Haralds Rat,
 legte mich zu Bett und studierte den bewußten Artikel, den
 ich unschwer infolge der in die Augen fallenden Überschrift
@@ -443,7 +443,6 @@ Und — ich drücke die Tür mit dem Rücken ins Schloß.
 Greller Lichtkegel trifft die Schlanke … Sie fährt herum.
 
 Ich sage kühl: »Ich schieße, wenn Sie sich bewegen …!
-
 Setzen Sie sich ganz artig dort in den Sessel …«
 
 Ihre Geistesgegenwart verblüfft mich …
@@ -479,7 +478,7 @@ Frech, — süß-frech, die kleine Kanaille!
 »Allerdings, das habe ich gemerkt … — Hofften Sie
 denn bei mir Reichtümer zu finden?«
 
-»Ich hin in Not, mein Herr … Und wenn ich eine
+»Ich bin in Not, mein Herr … Und wenn ich eine
 goldene Uhr und nur zehn Pfund erbeutet hätte, würde
 das für mich Betriebskapital gewesen sein … In so kleinen
 Hotels ist nicht viel zu holen … Unsereiner muß jetzt in
@@ -501,7 +500,7 @@ ich nicht … Patterson-Benson ist wichtiger als diese in ihrer
 Art einzig dastehende Hoteldiebin …
 
 <@pagebreak/>
-»Ich hin kein Unmensch, Miß …« nicke ich ernst. »Ich
+»Ich bin kein Unmensch, Miß …« nicke ich ernst. »Ich
 möchte Ihnen aber dringend raten, dieses Gewerbe aufzugeben
 … Sonst enden Sie doch im Zuchthaus …«
 
@@ -770,11 +769,11 @@ Haralds eintrug: »Benimm Dich damenmäßiger, mein
 Alter …!«
 
 »Sehr wohl — gern …! — Aber — aber entschuldige
-schon: ihr verstehe Dein Verhalten nicht ganz …! Du
+schon: ich verstehe Dein Verhalten nicht ganz …! Du
 wolltest doch offenbar mit der Herzogin über den Riesendiebstahl
 sprechen, und …«
 
-»… Und tat es nicht, weil Doris Gwendoll im Hotel
+»… und tat es nicht, weil Doris Gwendoll im Hotel
 Garrick sich zu stark für mich interessiert hatte, mir nachgefahren
 war und hinter mir den Lancire-Palast betreten
 hatte … als Intimste der Herzogin …«
@@ -990,7 +989,7 @@ Ich — beobachte etwas …
 Harst liest …
 
 Ich sehe da einen europäisch gekleideten Inder, der sechs
-Schritt jenseits des Pärchens in einem Liegestuhls ruht und
+Schritt jenseits des Pärchens in einem Liegestuhle ruht und
 mit einer Momentkamera sich beschäftigt — wie spielend …
 
 Die schwarzen Augen in dem kaffeebraunen Gesicht sind
@@ -1028,7 +1027,7 @@ Nummer 13 fehlte auf der Otranto — — Aberglaube!) weilt.
 
 Wir essen in unserer Kabine … auch die Robertsons
 verzichten auf die gemeinsame Tafel im Speisesaal … Sie
-lassen sich das Diner in Doris Gwendolls Kabine servieren,
+lassen sich das Diner in Doris Gwendolls Kabine servieren.
 — Unser Guckloch bewährt sich wieder …
 
 Wir stehen abwechselnd an dem Löchlein … Die Geschwister
@@ -1159,7 +1158,7 @@ Spät abends ist Mr. Robertson bei seiner Schwester …
 Mir scheint, er hat der Schwester bis zum Morgen Gesellschaft
 geleistet. Er ist eben ein sehr zärtlicher Bruder …
 
-O Irina …!!! —
+O Irina …!! —
 
 Und dann Gibraltar … Riesenfelsen, gespickt mit Geschützen
 … Englischer Besitz auf spanischem Boden …

@@ -134,7 +134,7 @@ wir nicht …«
 Und meine Irina schmiegte sich leicht an meine Schulter,
 raunte weiter:
 
-»Bestimmen Sie dort Ihren Gatten dazu, daß wir beisammen
+»Bestimmen Sie doch Ihren Gatten dazu, daß wir beisammen
 bleiben … Ich … ich habe Angst vor der Polizei
 <@pagebreak/>
 … Robertson ist lange nicht so … so gewandt wie Ihr
@@ -164,7 +164,7 @@ dichtestem Dschungel umgebenen Meeresbucht nördlich von
 Bassein … Trotz der Dunkelheit steuerte Harald dann nach
 kurzem Erkundungsgang in einen kleinen Fluß hinein. Rechts
 am Ufer erhob sich ein indisches Dorf — elende Hütten …
-Hunde trösten … Wir fuhren vorüber.
+Hunde kläfften … Wir fuhren vorüber.
 
 Ich stand am Motor, der nur mit einem Eisenkasten umgeben
 war … Meine Irina hockte neben mir auf einer
@@ -267,7 +267,7 @@ Wir sind hier völlig fremd …«
 
 »Wir helfen Ihnen doch schon, Miß Robertson …«
 
-»Nein — so meine im das nicht … Wir … wir …
+»Nein — so meine ich das nicht … Wir … wir …
 haben hier etwas vor, etwas … Gefährliches, Frau Paalsen.«
 
 »So?! Ich denke, Sie sind lediglich geflüchtet …«
@@ -282,7 +282,7 @@ So forschend …
 
 Fügte hinzu:
 
-»Wenn sich nur wüßte, wo ich Sie schon einmal gesehen
+»Wenn ich nur wüßte, wo ich Sie schon einmal gesehen
 habe, Frau Paalsen …«
 
 Ich lächelte …
@@ -403,7 +403,7 @@ Inder geschützt …«
 
 »Schwindel, der Inder …!« hohnlachte Benson … »Die
 Photographien haben Sie selbst hergestellt … den Brief
-an die Polizei in Genua selbst verfaßt! Ich hin doch nicht
+an die Polizei in Genua selbst verfaßt! Ich bin doch nicht
 dumm!«
 
 Harald setzte sich aufrecht …
@@ -678,7 +678,7 @@ zu Dutzenden …!«
 Ich — mit ruhigem Stolz: »Bitte — hier — dies dürfte
 der zu dem Stein gehörige Ring sein …«
 
-Und ich betrachtete den breiten, altertümliche Goldreif,
+Und ich betrachtete den breiten, altertümlichen Goldreif,
 feinste indische Arbeit … —
 
 Dann kehrten wir in unseren Hallenwinkel zurück …
@@ -831,7 +831,7 @@ mich frei …! Sie werden es so bestimmt bereuen, wie ich …«
 
 »… soeben Mundwasser als Augenwasser verabreicht
 bekam …,« setzte Harald den begonnenen Satz fort und …
-stopfte Schama Semli das seine seidene Taschentuch gewaltsam
+stopfte Schama Semli das feine seidene Taschentuch gewaltsam
 als Knebel in den Mund …
 
 In aller Ruhe besichtigte er dann die Papiere, nickte
@@ -1117,7 +1117,7 @@ Gewande präsentierte …
 Er kreuzte vor uns die Arme über der Brust, verneigte
 sich tief und sagte mit eisiger Höflichkeit:
 
-»Sahib Harst, mein Herr erwartet Dich, und Deinen
+»Sahib Harst, mein Herr erwartet Dich und Deinen
 Freund … Ich werde mir erlauben, voranzugehen …«
 
 Gleichzeitig wurde die Vorhalle, in die diese vier Türfenster
@@ -1186,7 +1186,7 @@ ergeben …
 
 Schweigen …
 
-Immer drückender wurde die Schwüle … Wir schien’s,
+Immer drückender wurde die Schwüle … Mir schien’s,
 als ob ein unsichtbarer Ofen Feuergluten aushauchte …
 
 Balland hatte sich nachlässig eine Zigarette angezündet.
@@ -1283,7 +1283,7 @@ je erfahren, wo …«
 … Ich will Ihnen kurz die Zusammenhänge, die Ihnen ja am
 besten bekannt sind, schildern … Ich erzähle also Ihnen
 nichts Neues … — — Wie Perkins uns mitteilte, sind
-Sie vor zweieinhalb Jahren hier in Bombay aufgetaucht,
+Sie vor zweieinhalb Jahren hier in Bombay aufgetaucht.
 Sie kamen aus London, wo Sie einem Ihrer Angestellten
 durch einen … unglücklichen Zufall mit einem kleinen
 Handbeil drei Finger abgehackt hatten … Sie wurden wegen
@@ -1396,7 +1396,7 @@ Und drei Minuten später stand das Ehepaar Patterson
 neben uns … Doris trug den eleganten Lederkasten, der
 die Juwelen … und die drei Finger Ben Bensons enthielt.
 
-»Begleiten Sie uns die zum Parktor …,« befahl Harst
+»Begleiten Sie uns bis zum Parktor …,« befahl Harst
 dem bleichen Balland …
 
 Wir gingen …
@@ -1407,7 +1407,7 @@ Am Parktor sagte Harald mit feinem Lächeln:
 war ein Vogel und kein Mensch … Ich habe diesen schrillen
 Vogelschrei nur benutzt, um Sie zu täuschen …«
 
-Balland wollte vorstürzen-…
+Balland wollte vorstürzen …
 
 Harsts Clement trieb ihn zurück …
 
