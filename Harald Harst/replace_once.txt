@@ -42,8 +42,10 @@
 \bwirft\b	wirst
 \bWir\.	Mr.
 i[cd]\)	ich
+iM	ich
 no[cd]\)	noch
 nod\)	noch
+Nr,	Nr.
 »Ob	»Oh
 …\s-	… —
 …\s\?	…?
