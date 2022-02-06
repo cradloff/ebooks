@@ -55,7 +55,7 @@ eine Sache nicht spruchreif ist, hüllt er sich in Schweigen.
 
 Der Artikel lautete folgendermaßen:
 
-> **50 000 Mark Belohnung.** Wir machen unsere Leser auf die im Inseratenteil
+> **50&nbsp;000 Mark Belohnung.** Wir machen unsere Leser auf die im Inseratenteil
 befindliche Anzeige mit derselben Überschrift aufmerksam. Es dürfte nicht oft
 vorkommen, daß jemand für die Wiederbeschaffung eines Afghan-Teppichs eine so
 hohe Belohnung aussetzt. Der Teppich ist in der gestrigen Nacht, also in der
@@ -82,7 +82,7 @@ anspornen, daß die Diebe baldigst hinter Schloß und Riegel sitzen werden.
 
 So weit der Artikel im Berliner Anzeiger.
 
-Ich muß noch erwähnen, daß die 50 000 Mark, wie wir schon in Suez aus anderen
+Ich muß noch erwähnen, daß die 50&nbsp;000 Mark, wie wir schon in Suez aus anderen
 deutschen Blättern festgestellt hatten, bisher von niemandem beansprucht werden
 konnten. Der Afghan war bisher nicht wiedergefunden worden.
 
@@ -194,7 +194,7 @@ Es wurde häufiger von der Frau genannt: Bestie!«
 »Bitte weiter –«
 
 »Dieser Auftrag nahm Axels freie Zeit vollständig in Anspruch. Am 31. August
-erklärte er mir, daß er für mehre Tage verreisen müsse. Er betonte, seine
+erklärte er mir, daß er für mehrere Tage verreisen müsse. Er betonte, seine
 Abwesenheit könne vielleicht auch länger dauern. Er verabschiedete sich am 31.
 August abends gegen neun Uhr von mir –«
 
@@ -235,7 +235,7 @@ war die erste Dame, der Harald eine seiner Mirakulum anbot.
 Harald lehnte mit halb geschlossenen Augen in seinem Sessel. Seine Blicke waren
 nach oben auf die mittlere Lampe der elektrischen Krone gerichtet.
 
-Frau Lossen und ich saßen ebenso regunglos da. Im Zimmer war nur ein
+Frau Lossen und ich saßen ebenso regungslos da. Im Zimmer war nur ein
 regelmäßiges Geräusch zu hören: das würdevolle, langsame Ticken der großen
 Standuhr, deren runde Pendelscheibe aus Messing bei jedem Ausschwingen an einer
 bestimmten Stelle matt aufleuchtete.
@@ -376,7 +376,7 @@ Ich schaute Harald ganz verständnislos an.
 »Diese Verbindung ist mir unklar,« meinte ich. »Ich würde es begreifen, wenn Du
 gesagt hättest oder hättest sagen können: Am 31. August wurde der Afghan
 gestohlen, und am 1. oder 2. September verreiste der Detektiv Lossen, um sich
-die ausgesetzte Belohnung zu verdienen, diese 50 000 Mark –«
+die ausgesetzte Belohnung zu verdienen, diese 50&nbsp;000 Mark –«
 
 Harald griff nach einer Zigarette, zündete sie umständlich an, erklärte darauf:
 
@@ -1301,7 +1301,7 @@ ich mir so ungefähr das Richtige zusammen. Ungefähr! Ich glaubte nämlich, da�
 Sie den Teppich deshalb um jeden Preis zurückerhalten wollten, weil er die
 Beweise eines Verbrechens in Gestalt nicht vollständig entfernter Blutflecken
 in sich barg. Es war also die hohe Belohnung, die mich stutzig machte. Daß
-jemand für die Wiederbeschaffung eines echten Teppichs 50 000 Mark aussetzt,
+jemand für die Wiederbeschaffung eines echten Teppichs 50&nbsp;000 Mark aussetzt,
 steht einzig da. Ich sagte mir: nur die Angst um die eigene Sicherheit kann
 diesen früheren Arzt, dessen Vergangenheit ohnedies nicht ganz einwandfrei ist,
 veranlaßt haben, diese Belohnung zu versprechen. – Man könnte hier

@@ -860,7 +860,7 @@ schließlich zogen die drei ab.
 
 Harst lief ihnen dann nach. Sie waren schon ein
 ganzes Stück weg. Als er zurückkam, reichte er mir
-eine Zigarre. — »Jck hab vier Stick ergaunert,« sagte
+eine Zigarre. — »Ick hab vier Stick ergaunert,« sagte
 er. Später merkte ich, daß er lediglich hatte feststellen
 wollen, ob die drei sich auch wirklich entfernten.
 

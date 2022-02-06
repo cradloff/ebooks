@@ -602,12 +602,12 @@ aufsuchen würden. Er eilte zum Westkai hinab und verbarg sich dort, um die
 Atlanta nicht aus den Augen zu lassen. Es regnete stark. Gegen Mitternacht
 tauchte dicht am Bollwerk der Matrose Brigham auf und unterhielt sich mit der
 Deckwache der Atlanta. Die beiden Matrosen, die auf der Atlanta die Wache
-hatten, lehnten an der Reeling. Brigham trank wiederholt aus einer Flasche,
+hatten, lehnten an der Reling. Brigham trank wiederholt aus einer Flasche,
 ließ dann auch die beiden anderen trinken. Nach einer Weile entfernte er sich.
 Britton war auf ihn argwöhnisch geworden und folgte ihm. Er kannte Brigham
 damals noch nicht. Er sah, daß der Mann mit den goldenen Ohrringen das Deck der
 Mohalla betrat und im Niedergang des Achterschiffes verschwand. Da auf der
-Mohalla keine Wache aufgestellt war, kroch der Detektiv an Bord and versuchte,
+Mohalla keine Wache aufgestellt war, kroch der Detektiv an Bord und versuchte,
 durch das Oberlichtfenster des Kajütaufbaus in den Salon der Jacht
 hinabzusehen, der hell erleuchtet war. Die Oberlichtfenster waren zum Teil
 offen. Britton hörte, wie jemand sagte:
@@ -944,7 +944,7 @@ und peinliche Störung dadurch, daß sich eine Dame, die an Lord Blackmoore
 während der Trauung plötzlich vom Chor herab dem Bräutigam eine furchtbare
 Drohung zurief. Fraglos hätte sie diese auch wahr gemacht, wenn nicht ein
 Zuschauer ihr den Revolver entrissen hätte. Die Dame ist im übrigen in ganz
-England als die exzentrischte Frau dieses Jahrhunderts geradezu berüchtigt. Ihr
+England als die exzentrischste Frau dieses Jahrhunderts geradezu berüchtigt. Ihr
 nach einigen Dutzend von Millionen zählendes Vermögen erlaubt ihr, jede ihrer
 tollen Launen –“
 
@@ -1463,7 +1463,7 @@ Piratenstückchen einer englischen Aristokratin. Und Brigham, in Wahrheit ein
 Franzose namens Tallien und Besitzer der Mohalla, die Lady Broog nur gemietet
 hatte, bestätigte alles. – Als Bessie Flepp und ihr Verlobter Melkope damals
 nachts an Bord der Atlanta gegangen waren, hatten die Spione Lady Broogs sie
-für Lord Blackmoore und seine Gattin gehalten, ein Irtum, der insofern leicht
+für Lord Blackmoore und seine Gattin gehalten, ein Irrtum, der insofern leicht
 möglich war, da Melkope entfernte Ähnlichkeit infolge seines falschen Bartes
 mit Lord Blackmoore hatte und weil Lady Broog wußte, daß das Ehepaar sich
 demnächst wieder auf der Atlanta einschiffen wollte. – Nur deshalb war in jener

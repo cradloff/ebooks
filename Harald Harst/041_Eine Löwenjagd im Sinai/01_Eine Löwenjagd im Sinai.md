@@ -648,7 +648,7 @@ Schritte und Flüstern. Jetzt gilt’s; jetzt werden wir sehen,
 ob meine List Erfolg hat —!«
 
 Man rüttelte an der Tür. Das Schiebefenster wurde zurückgeschoben;
-eine brennende Kienfadel flog in den Keller,
+eine brennende Kienfackel flog in den Keller,
 brannte am Boden weiter. Der Gerümpelstapel lag der Tür
 schräg gegenüber. Ein braunes, bärtiges Gesicht lugte durch
 das Fenster hinein. Worte wurden in schneller Folge von den

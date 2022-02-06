@@ -1502,7 +1502,7 @@ richtige!«
 
 Ich erwiderte nichts. Wie sollte ich auch?! Simpson
 war in der kritischen Zeit hier in Berlin gewesen. Das
-stand fest. Der Geheimrat war als Alibizeuge einwandsfrei.
+stand fest. Der Geheimrat war als Alibizeuge einwandfrei.
 Und doch: Harald tat, als hätte er den größten Sieg errungen!
 
 Da fügte er denn zu schon hinzu, und seine Stimme

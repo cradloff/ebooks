@@ -24,10 +24,10 @@ in den öden Wildnissen Inneraustraliens gerade *den*
 Titel wählte. Auch der Leser wird dies begreifen, wenn
 er erst erfährt, was wir durchzumachen hatten, bevor wir
 das Rätsel des Verschwindens der beiden Gefährten Dr.
-Benno Gußfelders lösen und die beiden Ledersäcke...
+Benno Gußfelders lösen und die beiden Ledersäcke …
 
 Doch — ich will nichts vorwegnehmen! Alles der
-Reihe nach. Und — diese Reihe ist bunt genug... —
+Reihe nach. Und — diese Reihe ist bunt genug … —
 
 So rollte denn der Zug mit uns weiter und weiter —
 hinein in die unkultivierten Gebiete, an starren Gebirgsmassen,
@@ -36,7 +36,7 @@ armseligen Stationen vorüber, — durch weite Strecken
 <@pagebreak/>
 Buschland, wo nur Salzkräuter gediehen und helle
 Eukalyptusbäume ihre Triebe wie Skelettarme in die heiße Luft
-emporreckten... —
+emporreckten … —
 
 Harst holte den versäumten Nachtschlaf gründlich nach.
 Auch ich schlummerte schließlich ein. Meine letzten Gedanken
@@ -105,15 +105,15 @@ Ich kroch durch das Fenster, sprang — überschlug mich.
 
 Harst landete glücklicher.
 
-Der Zug rollte weiter...
+Der Zug rollte weiter …
 
 Die Lichtreihen der Fenster beschienen uns hell —
 glitten an uns vorüber.
 
 Dann — dann riß Harald mich plötzlich zur Seite —
-zu Boden...
+zu Boden …
 
-Undeutlich hörte ich sechs Schüsse — sechs ...
+Undeutlich hörte ich sechs Schüsse — sechs  …
 
 Da war der Zug schon vorbei.
 
@@ -126,7 +126,7 @@ Harten?«
 Er kam herbeigelaufen, keuchte:
 
 »Auf der Plattform des letzten Wagens stand ein
-Weib, Mr. Harten...«
+Weib, Mr. Harten …«
 
 Wir hatten uns wieder hochgerappelt. »Ich weiß,«
 sagte Harald kurz. »Übrigens — wir heißen fortan Harst
@@ -160,22 +160,22 @@ macht ehrlich.«
 »Meinen Sie?! Gelegenheit?! Und die Straßenräuber
 hier?! — Oh, Sie kennen Australien nicht! Bedenken
 Sie, daß die Viehfarmen hier meist zehn deutsche Meilen
-auseinanderliegen, daß überall Digger den Boden durchwühlen...«
+auseinanderliegen, daß überall Digger den Boden durchwühlen …«
 
 Er wollte noch mehr hinzufügen, legte mir jedoch die
-Hand auf den Arm, flüsterte...
+Hand auf den Arm, flüsterte …
 
-»Da — rechts am Bahndamm — — ein Schatten...
-Ducken wir uns hinter die Koffer...«
+»Da — rechts am Bahndamm — — ein Schatten …
+Ducken wir uns hinter die Koffer …«
 
 Distelbüsche deckten uns außerdem noch.
 
 Ich sah nichts — nichts. Aber Jimmy hatte schärfere
-Augen...
+Augen …
 
 »Ein Mann — in Diggertracht,« hauchte er. »Jetzt
-bleibt er stehen... kommt wieder näher. Wenn’s einer
-wäre, der ebenfalls vom Zuge abgesprungen ist...!!«
+bleibt er stehen … kommt wieder näher. Wenn’s einer
+wäre, der ebenfalls vom Zuge abgesprungen ist …!!«
 
 Nun hatte auch ich eine schattenhafte Gestalt bemerkt.
 Der Mann schlich tief gebückt dicht am Bahndamm hin.
@@ -184,15 +184,15 @@ Ich bemerkte fast gleichzeitig noch etwas: rechter Hand,
 etwa aus der Richtung der Farm, blitzte ein hellgrünes
 <@pagebreak/>
 Licht auf, beschrieb einen Kreis, noch einen — einen
-dritten...
+dritten …
 
 Ein Signal — ohne Frage. Für wen aber?!
 
 »Er ist weg — kriecht zurück,« flüsterte Jimmy. »Sahen
-Sie die grüne Laterne, Mr. Schraut? Ich glaube...«
+Sie die grüne Laterne, Mr. Schraut? Ich glaube …«
 
 Anderes trug da der Nachtwind uns zu: zwei, drei
-dünne Knalle...
+dünne Knalle …
 
 Der erste klang tiefer. Die beiden nächsten heller. Da
 hatte Harsts Clement gesprochen.
@@ -200,20 +200,20 @@ hatte Harsts Clement gesprochen.
 Die Angst trieb mich hoch.
 
 »Man hat auf Harst geschossen,« sagte ich überstürzt.
-»Warten Sie, ich will...«
+»Warten Sie, ich will …«
 
 »Mr. Schraut, — verdammt, sind Sie verrückt!« platzte
 Jimmy heraus. »Sie allein in den Busch! In drei Minuten
-hätten Sie sich verirrt. Sie kennen die Tücke...«
+hätten Sie sich verirrt. Sie kennen die Tücke …«
 
-Und abermals eine Unterbrechung...
+Und abermals eine Unterbrechung …
 
 Das grüne Licht tauchte auf, wurde im Bogen hin
 und her geschwungen.
 
-Jetzt aber war es weiter nach Westen zu sichtbar...
+Jetzt aber war es weiter nach Westen zu sichtbar …
 
-Und — erlosch...
+Und — erlosch …
 
 Jimmy langte in die Tasche seiner englisch-ledernen
 Beinkleider. »Ein Revolver kann hier nichts schaden, Mr.
@@ -222,7 +222,7 @@ brenzlich. Um was handelt sich’s eigentlich?«
 
 Jimmy wußte bisher nur, daß wir ins Innere wollten.
 
-»Wir... wir suchen zwei verschollene Deutsche,« erklärte
+»Wir … wir suchen zwei verschollene Deutsche,« erklärte
 ich widerwillig.
 
 »Und — hinter Ihnen beiden wieder sind Leute her,
@@ -237,7 +237,7 @@ besten sofort. Die Kugeln sitzen hier locker.«
 
 Er eilte davon.
 
-Weiß Gott, mir war nicht behaglich zu Mute...!
+Weiß Gott, mir war nicht behaglich zu Mute …!
 
 <@pagebreak/>
 Ich nahm die Clement, entsicherte sie. Und das kühle
@@ -266,7 +266,7 @@ worden sei. Den einen hatte er niedergeschossen.
 
 Der Tote war gut gekleidet. In seinen Taschen fanden
 wir Papiere auf den Namen Jack Roller, Sydney,
-dazu etwas Geld, zwei Revolver und eine... kleine Laterne
+dazu etwas Geld, zwei Revolver und eine … kleine Laterne
 mit auswechselbaren Gläsern. Eines der Gläser war
 hellgrün.
 
@@ -354,7 +354,7 @@ Trinkwasserschläuche. Sättel und Zaumzeuge haben wir
 mit.«
 
 Laaken nickte. »Gut, wie Sie wollen. Sie werden
-nicht zurückkehren... Schade um Sie!«
+nicht zurückkehren … Schade um Sie!«
 
 Beim Mittagessen lernten wir auch Laakens vier Aufseher
 kennen, darunter einen uralten, vertrockneten Dänen
@@ -370,7 +370,7 @@ der Neid.
 
 Auch Jimmy trollte natürlich mit. Die Pferdehürde
 war gut eine halbe Meile von der Farm entfernt. Schweigend
-stapften wir dahin — maulfaul, müde...
+stapften wir dahin — maulfaul, müde …
 
 Der alte Jürgensen druckste und druckste, wollte reden,
 zerkaute das Wort im Munde, hüstelte und brummte etwas
@@ -426,18 +426,18 @@ es ein, sagte dann: »Ich sehe nichts, Jimmy.«
 »Zwei Männer waren’s, Weiße, — bestimmt!«
 
 Jürgensen brummte: »Unsinn! Wie sollten Weiße
-hierher...«
+hierher …«
 
 Das sollte auch des Alten letztes Wort gewesen sein.
 Er warf die Arme hoch, sank vornüber. Er hatte dicht vor
-Harald gestanden...
+Harald gestanden …
 
 Und vom Walde her gleichzeitig der Knall eines
-Büchsenschusses...
+Büchsenschusses …
 
 »Hinwerfen!« brüllte Jimmy und gab mir einen Stoß.
 
-Abermals drei — vier Schüsse...
+Abermals drei — vier Schüsse …
 
 Wir hörten die Kugeln pfeifen. Wir lagen im gelbfahlen
 Grase, krochen rückwärts bis hinter ein Gestrüpp.
@@ -446,11 +446,11 @@ Jimmy fluchte, Harst drehte sich nach mir hin.
 
 »Wir hätten unsere Winchester mitnehmen sollen, mein
 Alter. Wenn die Banditen uns hier auslöschen, sind
-wir...«
+wir …«
 
-Jimmy hatte den Kopf gehoben...
+Jimmy hatte den Kopf gehoben …
 
-Sofort abermals ein paar Schüsse...
+Sofort abermals ein paar Schüsse …
 
 »Bande — — Bande!« schimpfte er.
 
@@ -467,56 +467,56 @@ gewaltsam entliehen haben.«
 »Achtung!!« brüllte Jimmy da. »Achtung — — sie
 kommen.«
 
-Ja — sie kamen...
+Ja — sie kamen …
 
 Sechs Reiter, wilde, verwegene Gestalten, sprengten
 unter den Bäumen hervor, breiteten sich fächerartig aus,
 wollten uns einkreisen.
 
 »Das ist das Ende,« meinte Harst leise. »Sie haben
-sämtlich Büchsen... Und...«
+sämtlich Büchsen … Und …«
 
 Da waren die beiden vordersten Kerle schon bis auf
 sechzig Schritt heran, parierten ihre Gäule, glitten aus dem
-Sattel...
+Sattel …
 
 Kerle, denen man es ansah, daß ihnen die Wildnis
-nichts Neues... Kerle, die sicherlich weiß Gott was alles
+nichts Neues … Kerle, die sicherlich weiß Gott was alles
 auf dem Kerbholz hatten — mit Gesichtern, rotbraun wie
 Kupfer, mit wehenden Bärten, mit Pranken, die den
-Büchsenkolben wie im Schraubstock hielten...
+Büchsenkolben wie im Schraubstock hielten …
 
 Und — doch hatten sie sich verrechnet, was die Treffsicherheit
 unserer kleinen Clementpistolen anging, deren
 Nickelmantelgeschosse auch auf sechzig Schritt noch böse
-Löcher schlugen...
+Löcher schlugen …
 
 Ein Hohngelächter brach los, als Harald im Liegen
-anlegte, zielte...
+anlegte, zielte …
 
-Dann feuerte er...
+Dann feuerte er …
 
 Das blecherne Peng Peng seiner Schüsse schien einen
-verstärkten Widerhall zu finden...
+verstärkten Widerhall zu finden …
 
-Der eine Buschklepper taumelte...
+Der eine Buschklepper taumelte …
 
 Und ich, der nach links auf die anderen vier gezielt
 hatte, sah zu meinem grenzenlosen Erstaunen, daß einer
-der anderen im Hechtsprung aus dem Sattel flog...
+der anderen im Hechtsprung aus dem Sattel flog …
 
 »Hallo — Hilfe!!« jubelte Jimmy. »Da — sie kneifen
-aus...!«
+aus …!«
 
 Tatsächlich — auch der von Harald angeschrammte
 Bandit konnte noch in den Sattel, galoppierte als letzter
-davon...
+davon …
 
 Sekunden später hatte der Wald die Kerle verschluckt.
 Nur das Pferd des Erschossenen stand mit hängendem Kopf
 <@pagebreak/>
 noch da. Es hatte sich mit dem einen Vorderfuß in die
-schleifenden Zügel verwickelt und war stehengeblieben...
+schleifenden Zügel verwickelt und war stehengeblieben …
 
 Zwei Tote — ein Gaul, — das war alles, was wir
 noch sehen konnten.
@@ -524,7 +524,7 @@ noch sehen konnten.
 »Verdammt — das waren doch zwei Büchsenschüsse
 kurz nach den Ihrigen, Mr. Harst,« brummte Jimmy. »Begreifen
 Sie das?! Da hat doch jemand zu unseren
-Gunsten...«
+Gunsten …«
 
 »Allerdings — das war Hilfe im letzten Augenblick,«
 meinte Harald tief Atem holend. »Ich hatte in Gedanken
@@ -548,9 +548,9 @@ aus Berlin. Es ist besser, ich spiele hier mit offenen
 Karten.«
 
 Der Holländer zog die buschigen Augenbrauen hoch.
-»Ah — Harald Harst...!!« Er drückte uns fest die Hand.
+»Ah — Harald Harst …!!« Er drückte uns fest die Hand.
 »Brav, daß Sie die Maske fallen lassen. — Kommen
-Sie...«
+Sie …«
 
 Viele Worte waren nicht seine Art.
 
@@ -597,7 +597,7 @@ Wir machten kehrt.
 
 »Merkwürdig!« sagte ich mit einiger Berechtigung.
 »Anscheinend sind doch wieder *beide* Gegenparteien hinter
-uns her, und die eine hat zu unseren Gunsten...«
+uns her, und die eine hat zu unseren Gunsten …«
 
 »Das ist gar nicht merkwürdig, mein Alter,« fiel Harald
 mir ins Wort. »Die Hauptsache: wir sind gewarnt!
@@ -683,11 +683,11 @@ Ein Signal also — ein Signal der Bande Münz, die
 jetzt noch fünf Köpfe stark war.
 
 »Verdammt — da sind sie!« brummte Jimmy. »Und
-— da links vor uns, Mr. Harst, — das ist die Antwort...!«
+— da links vor uns, Mr. Harst, — das ist die Antwort …!«
 
 Es stimmte: ein zweites grünes Licht bewegte sich dort
 im Bogen, sandte seine Strahlen durch die milchige Dämmerung
-— verschwand...
+— verschwand …
 
 Dann nichts als die Sterne, der Mond, die tote Wildnis.
 Kein Zeichen von Leben ringsum.
@@ -736,7 +736,7 @@ Die Fährten ringsum redeten ihre besondere Sprache.
 Nur drei Mann hatten der Leiche hier das Sandloch geschaufelt.
 Nur drei. Und die drei waren von Osten gekommen
 und nach Norden weiter geritten. Drei Mann,
-aber vier Pferde...
+aber vier Pferde …
 
 Wo waren die beiden anderen der fünf? Beobachteten
 sie etwa den Trupp der »Retter«?! Und — waren dies
@@ -749,33 +749,33 @@ Nest hatte.
 
 Kaum hatte Harst sich oben aufgerichtet, als auch schon
 von Süden her der schwache Knall von vier — fünf Schüssen
-herüberwehte...
+herüberwehte …
 
-Harst sprang herab, war mit einem Satz im Sattel...
+Harst sprang herab, war mit einem Satz im Sattel …
 
-Jagte davon, daß ich kaum folgen konnte...
+Jagte davon, daß ich kaum folgen konnte …
 
 <@pagebreak/>
-Und doch kamen wir zu spät...
+Und doch kamen wir zu spät …
 
 Fanden Jimmy nicht mehr vor — fanden nichts mehr
-— keines der Packpferde, keinen der Wasserschläuche...
+— keines der Packpferde, keinen der Wasserschläuche …
 
-Nichts... nichts...
+Nichts … nichts …
 
 Sahen auch nichts von den Leuten, die Jimmy überfallen
-hatten...
+hatten …
 
 Nur Fährten von fünf Reitern, die von Süden aus
 einer Schlucht gekommen waren und die getrennt in den
 Skrupps sich wieder davongemacht hatten, zu zweien und
 dreien. Und die drei hatte die Packpferde mitgenommen,
-den Proviant...
+den Proviant …
 
-Im Galopp sofort hinterdrein...
+Im Galopp sofort hinterdrein …
 
 Hier ging’s ums Leben. Ohne Wasser, ohne Konserven,
-ohne unseren Teekocher waren wir verloren...
+ohne unseren Teekocher waren wir verloren …
 
 Im Galopp bei glühendster Hitze — bis in eine jener
 Salzniederungen hinein, deren Sumpfwasser so natronhaltig
@@ -784,21 +784,21 @@ absetzt, daß der Boden streckenweise hart wie Granit ist.
 
 Pestilenzialische Düfte faulender Pflanzen umwehten
 uns hier. Bald wieder rotgelber Sand, Steine, Felsen,
-Hügel...
+Hügel …
 
 Und — keine Spur mehr zu erkennen. Ein indianischer
 Fährtensucher hätte hier versagt.
 
 Unsere Pferde waren mit Schaumflocken betupft. Wir
 stiegen ab. Die Felsmassen strahlten Glutwellen aus. Zu
-Fuß suchten wir nach den Fährten — eine Stunde...
+Fuß suchten wir nach den Fährten — eine Stunde …
 
 Fanden auch nicht ein einziges zermalmtes Steinchen,
 nicht einen zerdrückten Grasbüschel.
 
 Fanden dann in einem Tale einen unserer Wasserschläuche,
 dessen Riemen sich gelöst haben mußten. Er war
-noch prall gefüllt...
+noch prall gefüllt …
 
 »Zuerst die Pferde!« befahl Harald.
 
@@ -808,10 +808,10 @@ zwei Bechern. Da war der Schlauch zur Hälfte leer.
 
 <@pagebreak/>
 Um uns her die wahnsinnigen Hitzewellen der steinigen
-Wildnis. Am Himmel kein Wölkchen...
+Wildnis. Am Himmel kein Wölkchen …
 
 So saßen wir im Schatten einer Felswand, stumm,
-verzweifelt, Mut heuchelnd...
+verzweifelt, Mut heuchelnd …
 
 Mit hängenden Köpfen standen die Tiere.
 
@@ -823,40 +823,40 @@ mich überkam — ganz allmählich.
 Ich gähnte, lächelte blöde, stütze mich gegen das
 Gestein.
 
-Harald hatte den Kopf gedreht, schaute mich an...
+Harald hatte den Kopf gedreht, schaute mich an …
 
-»Wir müssen umkehren,« sagte er...
+»Wir müssen umkehren,« sagte er …
 
 Mir fielen die Augenlider zu.
 
 »Natürlich — umkehren!« murmelte ich. Und dachte
 an Laakens artesischen Brunnen mit dem kühlen Naß, an
 Laakens dicke Gattin und die gebratenen Hammelrippchen
-von gestern abend...
+von gestern abend …
 
 Das lag alles wie ein unfaßbarer Traum hinter
-mir...
+mir …
 
-Und — so schlief ich ein...
+Und — so schlief ich ein …
 
 Fühlte, daß Harald mich rüttelte. Wurde grob vor
-Müdigkeit...
+Müdigkeit …
 
-Raffte mich auf...
+Raffte mich auf …
 
 Er brüllte mir zu:
 
-»Die — die Schufte...!! Weißt Du, was in dem
-Wasser des Schlauches...«
+»Die — die Schufte …!! Weißt Du, was in dem
+Wasser des Schlauches …«
 
-Mehr hörte ich nicht...
+Mehr hörte ich nicht …
 
 Hörte erst nach Stunden das Wiehern eines Pferdes,
-wurde munter...
+wurde munter …
 
 Und — — fand mich auf meinem Gaul festgebunden,
-ritt als... Gefangener — neben Harald — zwischen Faulhuber,
-Tochter und... Zelestine Drepp...
+ritt als … Gefangener — neben Harald — zwischen Faulhuber,
+Tochter und … Zelestine Drepp …
 
 <@pagebreak/>
 
@@ -882,7 +882,7 @@ an.
 
 »’n Tag, Herr Schraut,« sagte sie leichthin und drängte
 ihren Braunen näher an meinen derbknochigen Fuchs.
-»’n Tag auch, verehrter Freund... Wie fühlen Sie sich?«
+»’n Tag auch, verehrter Freund … Wie fühlen Sie sich?«
 
 Mein nächster Blick hatte Harald gegolten.
 
@@ -905,7 +905,7 @@ war und ebenso tadellos zu Pferde saß, ärgerlich rief:
 
 »Sie scheinen Ihre Lage noch immer unrichtig einzuschätzen,
 Herr Harst. Wenn wir auch alles andere als
-Mörder sind, so dürfen Sie doch keineswegs...«
+Mörder sind, so dürfen Sie doch keineswegs …«
 
 »Oh, was Sie sind, haben Sie mir ja bereits anvertraut,
 Herr Drepp,« fiel Harald ihm ins Wort. »Sie
@@ -963,7 +963,7 @@ nach Nordwest.
 »Gut,« nickte Drepp. »Münz hat die Skizze. Mich
 bluffen Sie nicht, Herr Harst.«
 
-Im Schritt weiter — weiter...
+Im Schritt weiter — weiter …
 
 Ringsum war die Horizontlinie sehr bald nichts als
 fahler Sand — feiner, gelblicher Sand, weich wie Staub,
@@ -1008,7 +1008,7 @@ wie in feinkörnige Nebelschwaden. Und diese Sandwolken
 wurden dichter und dichter, bis man keine drei Schritt mehr
 sehen konnte. Eines der berüchtigten australischen Gewitter
 brach los — ohne einen Tropfen Regen, mit einer Kanonade
-des Himmels, daß die Erde bebte...
+des Himmels, daß die Erde bebte …
 
 Die drei Drepps hatten eine Wolldecke vor eine Felsspalte
 gespannt, in der wir nun eng nebeneinander hockten.
@@ -1036,23 +1036,23 @@ Die fünf Winchesterbüchsen lehnten neben uns, geladen,
 gesichert.
 
 Wieder eine Blitzgarbe — wieder wahnwitzige Orkanstöße
-und neue Sandmassen...
+und neue Sandmassen …
 
 Die Wolldecke hielt nicht stand, flatterte, sank herab,
 streute Staub über uns armselige Menschlein, — Staub,
 der in den Augen brannte, da er vermischt war mit den
 Natronausscheidungen der Salzwüste.
 
-Harald riß mich empor...
+Harald riß mich empor …
 
 Ich stolperte blindlings hinaus in das Unwetter,
-rannte gegen eins der Pferde...
+rannte gegen eins der Pferde …
 
 Wir nahmen die Gäule mit, auch die fünf Winchester,
 fanden tappend ein Seitental, das günstiger lag, über das
 die Windsbraut hinwegfegte. —
 
-Mitternacht...
+Mitternacht …
 
 Da hörte der Orkan jäh auf. Ruhe trat ein. Das
 Gewölk verschwand. Fahles Mondlicht übergoß die Einöde.
@@ -1083,7 +1083,7 @@ zu müssen.
 <h2>5. Kapitel.</h2>
 <h3>Die Verschollenen.</h3>
 
-Mittags der letzte Wasserschlauch...
+Mittags der letzte Wasserschlauch …
 
 Gerade genug, den Pferden für ein paar Stunden ein
 mühsames Waten durch knietiefen Sand zu ermöglichen.
@@ -1094,18 +1094,18 @@ mit weißen Rändern, die ersten Spuren einer kläglichen
 Vegetation. Dann Berge, Schluchten, — und wir
 fünf zu Fuß, die Pferde am Zügel führend, stolpernd,
 keuchend, — bis unter uns in der Ferne ein seltsames Bild
-unsere Lebensgeister weckte: der... ausgetrocknete Bullobaki-See,
+unsere Lebensgeister weckte: der … ausgetrocknete Bullobaki-See,
 eine endlose hellschimmernde Fläche, wie eine mit
 Salzkristallen bestreute Ebene, von Büschen, Hügeln, Wäldern
 umgeben.
 
-Inmitten dieser weißen weiten Tenne aber doch noch...
+Inmitten dieser weißen weiten Tenne aber doch noch …
 Wasser, — ein Wasserring, der eine Insel einschloß,
 eine große Insel, fahlgrün durch den Baumbestand, mit
 schwarzen Flecken: Granitmassen!
 
 Noch mehr sahen wir: in der Tiefe am Rande des
-einstigen Sees ein kleines Blockhaus...!
+einstigen Sees ein kleines Blockhaus …!
 
 Am Ziel also — am Ziel!! Und da — Todgeweihte
 nur hatten das Ziel erreicht, fünf Menschen, denen die
@@ -1148,7 +1148,7 @@ aßen, holten nochmals Wasser.
 Harald sah sich nach dem großen flachen Stein um,
 unter dem die Goldsäcke liegen sollten. Der Stein war da.
 Und darunter eine Vertiefung — ein leeres Loch — ein
-leeres... —
+leeres … —
 
 Der Abend brach an. Wir saßen in der Hütte auf der
 Erde um das kleine Feuer. Harst sprach nicht viel. Die
@@ -1162,7 +1162,7 @@ eines Automaten.
 
 Und erklärte dann unvermittelt: »Sie haben uns auf
 Laakens Farm das Leben gerettet, Herr Drepp, freilich
-nur, um uns später... ausnutzen zu können. Immerhin:
+nur, um uns später … ausnutzen zu können. Immerhin:
 ohne ihr Eingreifen damals vor fünf Tagen in der Pferdehürde
 hätten Münz’ Gesellen uns niedergeknallt. Ich will
 Sie drei daher schonen. Beginnen Sie ein neues Leben,
@@ -1179,7 +1179,7 @@ haben sich vor ihm verborgen und hausen noch jetzt drüben
 auf der Insel. Von der Bergkuppe aus bemerkte ich vor
 unserem Abstieg zum Seeufer mit meinem Glase auf der
 Insel zwei Männer, ohne Zweifel Europäer. Schraut und
-ich werden daher...«
+ich werden daher …«
 
 Zelestine war plötzlich hochgefahren. Sie hatte so gesessen,
 daß sie durch die Türöffnung den ausgetrockneten
@@ -1187,12 +1187,12 @@ See und das flache Eiland bei Tageslicht hätte überblicken
 können.
 
 »Ein grünes Licht!« rief sie atemlos. »Dort — dort
-— ganz weit... Es bewegt sich, beschreibt Kreise und
-Bogen. Es muß auf der Insel...«
+— ganz weit … Es bewegt sich, beschreibt Kreise und
+Bogen. Es muß auf der Insel …«
 
 »Schraut — vorwärts!!« Und Harald drückte mir
 schon die eine Winchester in die Hand. »Das grüne Licht,
-— — vielleicht Karl Münz...! Vielleicht auch der treue
+— — vielleicht Karl Münz …! Vielleicht auch der treue
 Jimmy — noch lebend! Vorwärts! Herr Drepp, Sie
 bleiben hier! Und — — Vorsicht! Lassen Sie sich nicht
 überrumpeln!«
@@ -1200,72 +1200,72 @@ bleiben hier! Und — — Vorsicht! Lassen Sie sich nicht
 Wir beide liefen — liefen wie gehetzt — über die
 <@pagebreak/>
 schwankende, glitzernde Decke des Salzmoors, das der See
-jetzt zum größten Teil bildete...
+jetzt zum größten Teil bildete …
 
-Das grüne Licht wies uns den Weg...
+Das grüne Licht wies uns den Weg …
 
 Noch war der Mond nicht erschienen. In dieser Finsternis
 wirkte der ferne grüne Strahl wie das Winken eines
-düsteren nächtlichen Geheimnisses...
+düsteren nächtlichen Geheimnisses …
 
 Wir kamen an den Rand des Wasserringes, der die
 Insel noch in einer Breite von vielleicht fünfzig Meter umgab.
 Wie eine dunkle gewaltige Masse lag die bewaldete
 Insel mit ihren Granithügeln dort vor uns. Noch immer
 wurde die grüne Laterne hin und her geschwungen, als
-ob sie hoch in den Wipfeln der Bäume an einer Leine pendelte...
+ob sie hoch in den Wipfeln der Bäume an einer Leine pendelte …
 
 Harald tappte vorsichtig ins Wasser. Der Grund war
 steinig. Wir wateten hindurch. Bis unter die Arme reichte
-uns die laue Flut...
+uns die laue Flut …
 
 Der halbe Weg, — — dann von drüben ein tierisches
-Wutgebrüll — ein Gebrüll aus Menschenkehlen...
+Wutgebrüll — ein Gebrüll aus Menschenkehlen …
 
-Aus der Finsternis kam’s — aus dem Nichts...
+Aus der Finsternis kam’s — aus dem Nichts …
 
 Kam zu uns, trieb uns Eisesschauer über den Leib.
 
-*So* furchtbar klang’s...! — Menschliche Laute, und
-doch nichts Menschliches...
+*So* furchtbar klang’s …! — Menschliche Laute, und
+doch nichts Menschliches …
 
-Schüsse jetzt... zwei...
+Schüsse jetzt … zwei …
 
 Da war das grüne Licht jäh verschwunden.
 
-Endlich das Ufer...
+Endlich das Ufer …
 
-Hinauf in ein paar Sprüngen...
+Hinauf in ein paar Sprüngen …
 
 Milder Goldglanz plötzlich — eine sanfte Beleuchtung
 des Dramas, das sich hier abspielte. Der Mond war
 emporgestiegen.
 
-Harst fünf Schritt voraus — ich ohne Atem hinterdrein...
+Harst fünf Schritt voraus — ich ohne Atem hinterdrein …
 
 Eine Lichtung — ein einzelner zerrissener Felswürfel,
 und davor zwei Männer — — wie die Urwaldmenschen, in
-Fellanzügen, mit wüsten Bärten...
+Fellanzügen, mit wüsten Bärten …
 
 Von oben eine Stimme, die Jimmys:
 
 <@pagebreak/>
-»Master Harst — um Gottes willen..., zwei Wahnsinnige,
-die...«
+»Master Harst — um Gottes willen …, zwei Wahnsinnige,
+die …«
 
-Der eine hatte uns erspäht — — schoß...
+Der eine hatte uns erspäht — — schoß …
 
-Lachte gellend ...
+Lachte gellend  …
 
-Das Lachen eines Irren... —
+Das Lachen eines Irren … —
 
 Wir hatten uns hinter einen Busch gedrückt. — Der
 zweite feuerte. Zischend fuhr die Kugel durch die Blätter.
-Und abermals dasselbe tierische Gebrüll... Worte, kaum
-verständlich...
+Und abermals dasselbe tierische Gebrüll … Worte, kaum
+verständlich …
 
 »Gold — unser Gold — —!! Sucht es — — sucht
-es!! Unser — — Gold...!!«
+es!! Unser — — Gold …!!«
 
 Die beiden verschwanden, flohen. — Wir hinterdrein —
 bis ans Nordufer. Da hatten sie schon den Rindenkahn

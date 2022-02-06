@@ -116,7 +116,7 @@ Jakob Pfitzhuber rief sofort:
 »Nehmen’s den Käfig doch herab, Herr Harst.«
 
 Harald tat es und brachte ihn an den Tisch. Vroni
-erklärte jetzt:
+/bin/bash: 020_Der Löwe von Flandern/: Ist ein Verzeichnis
 
 »Parnack hat Mutz nie beachtet. Die Rosette muß von
 einem anderen Vogelbauer herrühren.«
@@ -1167,7 +1167,7 @@ Dieser lautlose Aufenthalt in den Räumen einer Frau,
 die nun in der Leichenkammer des Schauhauses lag, hatte
 seine aufregenden Momente.
 
-Um drei Uhr nahmen wir unser kaltes Mittagmahl ein.
+Um drei Uhr nahmen wir unser kaltes Mittagsmahl ein.
 Harsts Ledertasche enthielt auch Proviant für zwei Tage.
 
 Nach dem Essen machte er sich an die Durchsuchung des

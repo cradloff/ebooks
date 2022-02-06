@@ -470,7 +470,7 @@ gerade entladen wird, gute Geschäfte macht. Er sammelt
 Versteinerungen, packt sie in Kisten und schickt sie nach London,
 verdient viel Geld damit.«
 
-»Wa — as für Der — Versteinerungen?« fragte Maler
+»Wa — as für Ver — Versteinerungen?« fragte Maler
 Henke da und warf mir einen Blick zu, den ich nicht recht
 zu deuten wußte.
 

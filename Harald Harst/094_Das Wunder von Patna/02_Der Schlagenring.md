@@ -876,7 +876,7 @@ Harald hatte mich an sein Bett gewinkt. Ich setzte mich.
 Er hatte sich eine Mirakulum anzündet und fragte nun:
 
 »Ist Dir nicht aufgefallen, daß der Chauffeur John
-Barrings, der Inder Timar Bondry, unter den Verhafteten
+Barrings, der Inder Timar Bondri, unter den Verhafteten
 fehlte? Dieser Timar ist doch ganz fraglos ebenfalls
 Mitglied des Bundes.«
 
@@ -1350,8 +1350,8 @@ Harst ließ Aruwar denn zu gar nicht mehr zu Worte
 kommen.
 
 »Diese Kostbarkeiten,« sagte er nun gleichmütig, »hatten
-Sie in den Kellern in einem geheimen Wandagelaß
-versteckt, Aruwar! Und dieses Versteck ist Ihr Geheimnis!
+Sie in den Kellern in einem geheimen Wandgelaß
+versteckt, Aruwar! Und dieses Versteck ist *Ihr* Geheimnis!
 Davon weiß niemand vom Batta Mampu etwas.
 Sie haben sich soeben verraten, als Sie ihre Helfershelfer
 hinausschicken. Sie sind ein Schurke, der kein Mitleid

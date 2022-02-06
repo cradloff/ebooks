@@ -812,7 +812,7 @@ Strich gerade dort in Fältchen liegt, wo sich der Aufdruck
 »Indischer Ozean« befindet. Deshalb erklärtest Du auch:
 »Unsauber aufgeklebt!« — Du irrst jedoch. Diese Fältchen
 sind nicht durch nachlässiges Aufkleben des bedruckten Papiers
-auf die Leinewand entstanden, sondern dadurch, daß jemand
+auf die Leinwand entstanden, sondern dadurch, daß jemand
 mit einem nassen Lappen oder einem nassen Schwamm mehrmals
 an jener Stelle über das Papier hin und hergewischt hat.
 Dieser Fältchenstrich reicht noch etwa 15 Zentimeter über den

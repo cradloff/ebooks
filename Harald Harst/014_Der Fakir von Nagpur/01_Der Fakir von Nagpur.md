@@ -326,7 +326,7 @@ Betreffenden Berührendes. — Die Öffentlichkeit weiß bisher
 jedenfalls nichts von diesen Dingen. Ich habe die Zeitungen
 der letzten Wochen durchgeblättert. Nirgends war
 auch nur ein Vorfall vermerkt, der irgendwie mit diesem
-Masta-Mastra-Inserat hätte in Verbindung gebracht werden
+Masty-Mastra-Inserat hätte in Verbindung gebracht werden
 können.«
 
 Mein Interesse an der immerhin ungewöhnlichen Anzeige

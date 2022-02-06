@@ -237,7 +237,7 @@ Der ältere Bruder Viktor dagegen scheint ein böses Früchtchen
 zu sein. Er hat den Jüngeren — darüber besteht kein
 Zweifel — nur deswegen mit seinen Eltern entzweien wollen,
 um alleiniger Erbe der großen gräflichen Besitzungen zu
-werden, die man hier Latisundien nennt. Ich bin auf unsere
+werden, die man hier Latifundien nennt. Ich bin auf unsere
 Landsmännin recht gespannt, auf die Gräfin Gertrud Leonforte,
 geborene Schmidt. — Schmidt! Wie heimatlich das
 klingt!« Er gähnte wieder, stand dann auf, schaute zum Fenster

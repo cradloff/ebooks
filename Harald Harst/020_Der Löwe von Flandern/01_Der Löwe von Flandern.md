@@ -1143,7 +1143,7 @@ bisher nicht wer es ist.«
 »Gib bitte mal die Zeitung her.« — Harst las den Artikel,
 überflog dann suchend die Spalten des Beiblatts.
 
-»Aha — hier unter »Letzte Nachrichten« steht's. — Höre:
+»Aha — hier unter »Letzte Nachrichten« steht’s. — Höre:
 
 > »Der Ermordete (vergl. Mord im Hafenviertel) ist
 durch ein paar Seeleute als der mehrfach vorbestrafte Steuermann

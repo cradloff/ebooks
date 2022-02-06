@@ -487,7 +487,7 @@ Harald tat dies allein. Mac Lean und ich hielten uns
 stets hinter ihm. Viel zu sehen gab es hier jedoch nicht. Der
 nackte Felsboden verriet nichts. Nur etwas hob Harald dort
 auf, wo etwa Jones gelegen hatte: ein etwa ½ Zentimeter
-langes, zersplittertes Knochenstükchen, in dem ein dünnes
+langes, zersplittertes Knochenstückchen, in dem ein dünnes
 Büschelchen kurzer, heller Borsten steckte.
 
 »Ah — ein Stück einer Taschenbürste,« meinte Mac Lean.
@@ -1361,7 +1361,7 @@ Scharka-Schurke hatte sich weit vorgebeugt und blickte starr
 auf das Blatt, das Harald auf den Knien hielt.
 
 »Effendi, Du bist klüger als alle, die ich kenne,« sagte
-er nun in gut geheuchelter Erfurcht. »Alles hast Du an der
+er nun in gut geheuchelter Ehrfurcht. »Alles hast Du an der
 Zeichnung erklärt. Nur eins nicht. Da in der Mitte des Dreiecks
 steht noch eine seltsame Figur: ein Punkt mit zwei nach
 oben gehenden Strichen, an denen wieder kleinere Striche sich

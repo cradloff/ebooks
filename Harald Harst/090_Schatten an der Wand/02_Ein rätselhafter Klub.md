@@ -312,7 +312,7 @@ Aber — seltsam! — er lächelte jetzt.
 Fahren wir weiter.«
 
 Wir stiegen ein. — Reppen blieb stumm. Wir langten
-vor dem Schlosse an. Der Oberinspektor, der Rendant, die
+vor dem Schlosse an. Der Oberinspektor, der Rendant<@refnote 1/>, die
 anderen Gutsbeamten und das gesamte Personal waren am
 Fuße der Freitreppe versammelt.
 
@@ -653,7 +653,7 @@ mir wichtiger. Ich wartete also ein paar Minuten und
 schob dann mein Rad in den Wald, um hinter einer Buche
 hervor die Villa im Auge zu behalten. Plötzlich fiel mir
 eine Schlinge über den Kopf. Man riß mich nach hinten
-um. Ich schlug mit dem Kopf auf einen Stubben auf und
+um. Ich schlug mit dem Kopf auf einen Stubben<@refnote 2/> auf und
 verlor für Sekunden das Bewußtsein. Da hatte man mir
 die Arme auf den Rücken gefesselt und zog mich an
 dem Ast empor, von dem Du mich nachher losschnittst. Zwei

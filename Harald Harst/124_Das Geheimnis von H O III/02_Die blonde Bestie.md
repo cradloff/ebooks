@@ -74,7 +74,7 @@ Harst kam zu uns nach vorn.
 
 »Das Frachtboot,« sagte er leise, »ist verdächtig! Die
 Katzenmusik hat aufgehört … Sie kann nur von dem Wrack
-zu uns herüberge …«
+zu uns herüberge…«
 
 Und da — — setzte das jammervolle Konzert abermals
 ein …
