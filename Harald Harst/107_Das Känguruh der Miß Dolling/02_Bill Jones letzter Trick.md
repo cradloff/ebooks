@@ -582,13 +582,13 @@ noch …«
 Er ließ sich nicht Zeit, das Begonnene zu beenden.
 Er buchstabierte laut:
 
-»M …a …ss … — Mass …! — Das soll ohne Frage
+»M…a…ss … — Mass …! — Das soll ohne Frage
 Massa heißen!«
 
 »Glänzend!« lobte Harald. »Weiter …!« — Die
 Ironie entging dem kleinen Kollegen.
 
-»Hm — dann kommt  …z …w …ei …t — zweit.
+»Hm — dann kommt …z…w…ei…t — zweit.
 Vielleicht bedeutet das »zweiter«, und Missu als Abkürzung
 von Missus, Frau, Fräulein, wird vielleicht …«
 

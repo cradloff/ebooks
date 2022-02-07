@@ -284,7 +284,7 @@ hinzu:
 »Dolling hat eine sehr breite und sehr kurzfingerige
 Hand. Seine Frau hat ebensolche Hände. Der Photograph
 hätte diese unschönen Hände nicht gerade im Schoße
-plazieren sollen, mein Alter.«
+platzieren sollen, mein Alter.«
 
 <@pagebreak/>
 »Hm — und …?!« — Ich war mächtig gespannt,

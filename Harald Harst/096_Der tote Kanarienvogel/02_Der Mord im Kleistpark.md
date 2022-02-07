@@ -116,7 +116,7 @@ Jakob Pfitzhuber rief sofort:
 »Nehmen’s den Käfig doch herab, Herr Harst.«
 
 Harald tat es und brachte ihn an den Tisch. Vroni
-/bin/bash: 020_Der Löwe von Flandern/: Ist ein Verzeichnis
+erklärte jetzt:
 
 »Parnack hat Mutz nie beachtet. Die Rosette muß von
 einem anderen Vogelbauer herrühren.«
