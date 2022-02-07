@@ -37,7 +37,7 @@ recht eingehend berichtet. — Sie sind verheiratet und
 haben nur ein Kind, eine Tochter von neunzehn Jahren
 namens Mabel. Mitte Mai hatten Sie sich zu einer dreiwöchigen
 Kur nach Bad Kissingen begeben. Dort lernten
-Sie ein Ehepaar von Groening kennen, einen Major a. D.,
+Sie ein Ehepaar von Groening kennen, einen Major a. D.\,
 reizende Leute, mit denen Sie und die Ihrigen dann täglich
 zusammenwaren. Der Major lud Sie nach Beendigung
 der Kur zu sich nach Berlin ein. Sie reisten gemeinsam
@@ -150,7 +150,7 @@ man sie nicht so ohne weiteres verwerfen … — — Einige
 Fragen, Mynheer … Sind Sie allein nach Berlin gereist?«
 
 »Nein, meine Frau hat mich begleitet … Sie wartet
-draußen im Auto …"
+draußen im Auto …«
 
 Und er deutete auf das Fenster …
 
@@ -176,7 +176,7 @@ Auch Dymen erhob sich …
 »Verzeihen Sie, Mynheer … Sie waren Witwer
 und haben zum zweiten Male geheiratet? Die Dame dort
 wäre für die Mutter einer neunzehnjährigen Tochter denn
-doch zu jung …"
+doch zu jung …«
 
 Dymen wurde etwas verlegen …
 
@@ -201,15 +201,15 @@ zu erringen … Wir blieben uns fremd … Sie kannte
 nur eine Liebe, die zu Tieren!«
 
 Harst schaute wieder durchs die Tüllstores auf die
-Straße ...
+Straße …
 
 »weshalb betrat Ihre Gattin nicht ebenfalls mein
 Haus, Mynheer?«
 
-»Vilma meinte, dies alles sei Männerangelegenheit …"
+»Vilma meinte, dies alles sei Männerangelegenheit …«
 
 »Ihre Gattin ist zu rücksichtsvoll, Mynheer. Gestatten
-Sie, daß mein Freund Schraut sie hereinbittet …"
+Sie, daß mein Freund Schraut sie hereinbittet …«
 
 Und ich eilte hinaus …
 
@@ -218,7 +218,7 @@ Ich tat es sehr gern …
 Denn Vilma van der Dymen — — mir schien es, als
 <@pagebreak/>
 ob Harald Wert auf ihre Bekanntschaft legte … großen
-Wert ...
+Wert …
 
 Und ich stand ihr gegenüber …
 
@@ -229,7 +229,7 @@ War … verblüfft …
 Oh — diese Vilma war schön — bildschön!
 
 Nein — was sage ich: schön?! — das trifft nicht das
-richtige ...
+richtige …
 
 Sie war Rasse, Klasse …
 
@@ -274,27 +274,27 @@ musterte … Im übrigen aber ließ er sich nichts anmerken
 Zehn Minuten später waren wir wieder allein …
 
 Und — meine erste Frage:
+
 <@pagebreak/>
+»Harald, Dir erscheint diese Frau irgendwie verdächtig?!«
 
-"Harald, Dir erscheint diese Frau irgendwie verdächtig?!"
-
-"Ja … Du hast ja selbst beobachtet, mein Alter, wie
+»Ja … Du hast ja selbst beobachtet, mein Alter, wie
 nervös sie draußen auf und ab ging … Nervös — in
 Unruhe … Und doch hatte sie sich nicht zu uns hereingetraut
 … — Sie ist eine große Komödiantin … Ich
 hatte van Dymen gebeten, die Affenjagd auf keinen Fall
-zu erwähnen …"
+zu erwähnen …«
 
 »Das … merkte ich …«
 
 »Er wurde natürlich etwas stutzig … Ich suchte ihn
 abzulenken … Sagte, daß Frauen zu leicht ungewollt
-Äußerungen tun, die vieles verderben können … Trotz-
-dem: auch er ist argwöhnisch geworden … — Und jetzt
+Äußerungen tun, die vieles verderben können … Trotzdem:
+auch er ist argwöhnisch geworden … — Und jetzt
 — an die Arbeit, mein Alter … Geteilte Arbeit! Du
 erkundigst Dich nach Sanitätsrat Mantey und Familie, und
 ich werde auf dem Görlitzer Bahnhof dem Manne mit dem
-Affen nachspüren …"
+Affen nachspüren …«
 
 »Gut — Und wie denkst Du über Mabel van der
 Dymens Entführung? Wirklich Mädchenhändler?!«
@@ -319,13 +319,13 @@ uns etwas nützen sollte …
 
 So manches unserer Abenteuer, das gewissermaßen recht
 alltäglich begann (und die im ersten Kapitel geschilderten
-Vorgänge nenne ich alltäglich), wurde [pme u einer wahren
-Er unglaublichster Geschehnisse …
+Vorgänge nenne ich alltäglich), wurde später zu einer wahren
+Hetzjagd unglaublichster Geschehnisse …
 
-auch hier …
+So auch hier …
 
 Einen Vorgeschmack davon erhielt ich bereits, als ich
-nach einigen mühseligen Erkundigungen im Auto »nach der
+nach einigen mühseligen Erkundigungen im Auto nach der
 Königstraße 102 fuhr, wo der Sanitätsrat Doktor Mantey
 viele Jahre lang gewohnt haben sollte.
 
@@ -334,10 +334,10 @@ Laden: Wäsche, Strümpfe — Kleinkram …
 
 Die Ladentür stand offen …
 
-Und hinter dem Ladentisch schimmerte das blasse, falsche
+Und hinter dem Ladentisch schimmerte das blasse, faltige
 Gesicht eines alten Fräuleins …
 
-Ich trat ein … sauste drei Paar Herrensocken …
+Ich trat ein … kaufte drei Paar Herrensocken …
 
 Setzte mich …
 
@@ -346,20 +346,20 @@ zu können …
 
 Ja — den verstorbenen Sanitätsrat und seine ebenfalls
 verstorbene Gattin und die beiden Kinder habe sie
-sehr gut gekannt … sehr gut … Stille, seine Leute …
-Überall beliebt … Nur der Sohn sei so ein wenig der-bummelt
+sehr gut gekannt … sehr gut … Stille, feine Leute …
+Überall beliebt … Nur der Sohn sei so ein wenig verbummelt
 gewesen und nachher verschollen … Dafür habe
 aber die Tochter ihr Glück gemacht … Einen reichen Ausländer
-habe sie als -Sekretärin eines hiesigen Kommerzienrats
+habe sie als Sekretärin eines hiesigen Kommerzienrats
 kennengelernt und geheiratet … Ein hübsches Mädchen,
 die Vilma … Und so lieb und gut …
 
-Während das »alte Fräulein nun ein endloses Loblied
+Während das alte Fräulein nun ein endloses Loblied
 auf Vilma sang, schaute ich sinnend durch die offene Tür
 auf die Straße …
 
-Sinnend — — denn wie paßte dieses Charakterbild
-tat Haralds Verdacht?!
+Sinnend — — denn wie paßte *dieses* Charakterbild
+zu Haralds Verdacht?!
 
 <@pagebreak/>
 Und wie ich so grübelnd die Menschen mustere, die
@@ -369,20 +369,21 @@ die mir so merkwürdig bekannt vorkommt …
 
 Die Frau steht drüben vor einem Schaufenster …
 
-es Glasscheibe zeigte mir als Spiegelbild auch ihr
+Die Glasscheibe zeigte mir als Spiegelbild auch ihr
+Gesicht …
 
 Und — jäh werde ich unangenehm lebendig … Mein
-Hirn arbeitet mit Hochdruck
+Hirn arbeitet mit Hochdruck …
 
 Dann … weiß ich es: dieselbe Frau sah ich vor einer
-Er bei uns draußen in Schmargendorf in der Blücher
+Stunde bei uns draußen in Schmargendorf in der Blücherstraße
+…
 
-Straße …
 Es ist bestimmt dieselbe Frau — ganz bestimmt!
 
 Und — mehr noch weiß ich nun: dieses hagere armselige
 Weib in dem unmodernen verschossenen Mantel und
-dem unglaublichen Handkuß mit zerrupften Straußenfedern
+dem unglaublichen Samthut mit zerrupften Straußenfedern
 ist nichts anderes als eine Spionin, ist mir von der Blücherstraße
 her gefolgt — lauert nun auf mich, will sich abermals
 an meine Fersen heften!!
@@ -396,44 +397,58 @@ Ich frage die redselige Ladenbesitzerin:
 »Kennen Sie vielleicht die Frau drüben vor dem
 Schaufenster des Papiergeschäfts?«
 
-Und sie nimmt den Herr vom Haken ihrer Bluse,
-um ihn mit die Nase …
+Und sie nimmt den Kneifer vom Haken ihrer Bluse,
+drückt ihn auf die Nase …
 
 Und — gerade da dreht sich die Frau halb um …
 
-Und — — neben mir ein halb erstickter er
+Und — — neben mir ein halb erstickter Schrei …
 
-»Ich starre das alte Fräulein entsetzt an …
+Ich starre das alte Fräulein entsetzt an …
 
-Und sie — kalkweiß im Gesicht, zitternd — ’sie flüstert
+Und sie — kalkweiß im Gesicht, zitternd — sie flüstert
 kaum verständlich:
 
 »Gott … Gott im Himmel … — Die Toten stehen
-artig »das ist die Frau Sanitätsrat Mantey, mein
+auf … Das ist die Frau Sanitätsrat Mantey, mein
+Herr …!!«
+
 <@pagebreak/>
 »Fräulein, es kann sich doch nur um eine Ähnlichkeit
 handeln …!«
-Da geht draußen die Hagere langsam er;
-Und ich — mein Päckchen Boden in die Hand … ’Be-
-zahlt habe ich schon … Zum Laden hinaus …
+
+Da geht draußen die Hagere langsam weiter …
+
+Und ich — mein Päckchen Socken in die Hand … Bezahlt
+habe ich schon … Zum Laden hinaus …
+
 Armer Max Schraut, diesmal glückt’s Dir vorbei …
-Da hat ein Auto an der Bordschwelle -Dr Hai 7000
-Da ist die ob? hineingesprungen …
-Gesprungen …!
+
+Da hat ein Auto an der Bordschwelle gehalten …
+
+Da ist die Hagere hineingesprungen …
+
+Gesprungen …!!
+
 Es jagt davon …
+
 Jagt …!!
+
 Ich — habe das Nachsehen!
+
 Und kehre mißmutig zu dem alten Fräulein zurück …
+
 Sie hat sich inzwischen etwas von dem Schreck erholt …
+
 Und schwört Stein und Bein, daß es die Sanitätsrätin
 gewesen … die vor vier Jahren verstorbene Sanitätsrätin
 — — man denke!!
 
-Mein Herr — genau denselben Mantel und Hut
-in »die Rätin, wenn sie Einkäufe machte — — genau denselben
-…
+»… Mein Herr — genau denselben Mantel und Hut
+trug die Rätin, wenn sie Einkäufe machte — — genau denselben
+…!«
 
-Ich in eine mich schließlich verwirrt und unsicher …
+Ich entferne mich schließlich verwirrt und unsicher …
 
 Ob etwa die Rätin eine Schwester gehabt habe, fragte
 ich das Fräulein noch zuletzt …
@@ -446,7 +461,7 @@ Nehme ein Auto …
 
 »Kempinski …!«
 
-Jahre …
+Fahre …
 
 Und überlege — immer wieder … Sage mir, daß
 das alte Fräulein doch schließlich eine solche Behauptung
@@ -456,7 +471,7 @@ gegriffen haben könne …
 Nun — Harald mag entscheiden!
 
 Und ich steige vor Kempinski aus … Finde gleich
-vorn im ruhiger Saal ein Schlichen …
+vorn im Cadiner Saal ein Ecktischchen …
 
 <@pagebreak/>
 Bin jetzt mißtrauisch …
@@ -470,12 +485,14 @@ erscheinen …
 
 Irrtum — — grober Irrtum …!
 
-Ein einzelner Herr hat da unweit von mir Platz gen
+Ein einzelner Herr hat da unweit von mir Platz genommen …
 
-Komme
-Ein blondbärtiger Kerl — mit Zotteligem Gang …
+Ein blondbärtiger Kerl — mit latschigem Gang …
+
 Agrarier …
+
 Stochert jetzt in den Zähnen herum …
+
 Ekelhaft!
 
 Und — mit einem Male trifft mich unter blondbuschigen
@@ -489,43 +506,40 @@ auf die Lippen …
 Steht auf, sieht sich unauffällig um … Kommt an
 meinen Tisch …
 
-»Sie gestatten wohl …
+»Sie gestatten wohl …«
 
-Und er nimmt die Delnmhale mit …
+Und er nimmt die Weinkarte mit …
 
 Er … er — — Harst nämlich!
 
-Und seit sich, blättert in dem dicken Heft …
+Und setzt sich, blättert in dem dicken Heft …
 
 Scheint sich die Preise auf ein Stück Papier zu notieren
 …
 
-Ein Kellner fragt nach; meinen Wünschen … sich
+Ein Kellner fragt nach meinen Wünschen … Ich
 bestelle …
 
 Dann bringt »er« mir die Weinkarte zurück … dankt …
 
 Und selbstredend finde ich einen Zettel … mit den
-Weinpreisen … Lese ihn ganz heimlich
+Weinpreisen … Lese ihn ganz heimlich:
 
-»Mein Alter, man ist hinter uns her. Ich konnte bist
-
-her drei feststellen, eine Frau und zwei Männer …
-
-— Suche Bechert um fünf Uhr auf. Aber auf ums
-
-wegen. Ich bin gleichfalls dort. — Gruß … H.«
+> »Mein Alter, man ist hinter uns her. Ich konnte bisher
+drei feststellen, eine Frau und zwei Männer …
+— Suche Bechert um fünf Uhr auf. Aber auf Umwegen.
+Ich bin gleichfalls dort. — Gruß … H.«
 
 <@pagebreak/>
 — Fritz Bechert ist den Lesern längst bekannt. Wenn
-unser eigene Haus von Spionen zu dicht umlauert war,
+unser eigenes Haus von Spionen zu dicht umlauert war,
 dann wurde Becherts Wohnung unsere Maskengarderobe.
 
-Nun — bei Kempinski machte ich mich aus sehr einfache
+Nun — bei Kempinski machte ich mich auf sehr einfache
 Art aus dem Staube, ließ Hut und Stock hängen, tat
-so als ob ich lediglich den Waschraum aussuchen wollte und
+so als ob ich lediglich den Waschraum aufsuchen wollte und
 bezahlte meine Zeche an einen der Geschäftsführer …
-Mein Name genügte dem Herrn. Tür einen anderen Ausgang
+Mein Name genügte dem Herrn. Durch einen anderen Ausgang
 gelangte ich auf die Straße, kaufte mir einen Hut,
 nahm ein Auto … Jetzt war bestimmt niemand hinter
 mir her.
@@ -537,11 +551,11 @@ Und Fritz Bechert und ich hörten dann gespannt zu,
 wie Harald uns nun seine Erlebnisse schilderte …
 
 »Ich habe festgestellt, daß der alte Herr, dem der Affe
-autskniffs, auf dem Görlitzer Bahnhof einen sehr großen
-Reisekorb nach Greiffenberg ausgegeben hat … Der Korb
+auskniff, auf dem Görlitzer Bahnhof einen sehr großen
+Reisekorb nach Greiffenberg aufgegeben hat … Der Korb
 ist mit dem D-Zug mitgegangen, den der alte Herr des
 Äffchens wegen verpaßte … Ich vermute, daß sich in
-dem Korb der Käfig für den Kapyuzineraffsen befindet. —
+dem Korb der Käfig für den Kapuzineraffen befindet. —
 Während dieser Nachforschungen auf dem Görlitzer Bahnhof
 wurde ich auf zwei Leute aufmerksam, die getrennt mich
 Unausgesetzt beobachteten … Zwei harmlose Leute scheinbar
@@ -553,12 +567,12 @@ stieg jedoch nicht aus … Und siehe da: meine beiden Aufpasser
 waren wiederum in Sicht … Der eine sprach mit
 einer hageren Frau …«
 
-Nun war’s für mich an der Zeit, meine Weisheit au38-zukramen
+Nun war’s für mich an der Zeit, meine Weisheit auszukramen
 …
 
 Die Hagere — über die wußte ich besser Bescheid …
 
-Roh Harald und Bechert staunten … Die tote und
+Und Harald und Bechert staunten … Die tote und
 wiedererstandene Sanitätsrätin war auch für sie ein Leckerbissen
 <@pagebreak/>
 … Das war vorläufig nebst Frau Vilma das
@@ -588,8 +602,8 @@ Bechert warf Harald einen bittenden Blick zu. »Seien
 Sie mal gnädig, lieber Harst … Was hat Frau Vilma,
 geborene Mantey, mit der Sache zu tun?!«
 
-Und Harald— ohne Zögern: »Es gab drei Möglich
-Kleinigkeiten … Zwei davon streiche ich jetzt, weil dieses Waffenaufgebot
+Und Harald — ohne Zögern: »Es gab drei Möglichkeiten
+… Zwei davon streiche ich jetzt, weil dieses Massenaufgebot
 von Beteiligten mir dafür zu sprechen scheint,
 daß Vilma, geborene Mantey, jetzt Frau van der Dymen,
 gern allein ihren Gatten beerben möchte … deshalb hat
@@ -597,8 +611,8 @@ sie Mabel, die Miterbin, verschwinden lassen … sehr geschickt
 … Wobei ihr verschollener Bruder und noch ein
 paar ihr nahestehende Leute geholfen haben mögen …«
 
-Ich konnte nicht anders … Rief geradeheraus: »an
-möglich!! Bedenke das Charakterbild, das die Ladeninhaberin
+Ich konnte nicht anders … Rief geradeheraus: «Unmöglich!!
+Bedenke das Charakterbild, das die Ladeninhaberin
 mir von Vilma so begeistert lieferte!«
 
 Und Harald — achselzuckend:
@@ -609,7 +623,7 @@ gewesen sein …!«
 
 Und abends sieben Uhr bestiegen zwei Herren, die einander
 <@pagebreak/>
-nicht zu kennen schienen, auf dein »alten Bahnhof
+nicht zu kennen schienen, auf dem Görlitzer Bahnhof
 den Breslauer Zug und fuhren nach Görlitz …
 
 Fanden sich hier außerhalb des Bahnhof mit ihren
@@ -619,7 +633,7 @@ einer Tour nach … Greiffenberg …
 <h2>3. Kapitel.</h2>
 <h3>Burg Totenhall.</h3>
 
-Wer daß Isergebirge kennt, kennt auch die Ruine Greiffenstein
+Wer das Isergebirge kennt, kennt auch die Ruine Greiffenstein
 unweit des Städtchens Greiffenberg …
 
 Weit weniger bekannt und doch romantischer als der
@@ -633,7 +647,7 @@ nichts gewußt …
 Erst in Greiffenberg hörten wir, daß ein alter graubärtiger
 Herr, der am Abend vorher eingetroffen war, einen
 Wagen gemietet und mit seinem umfangreichen Gepäck nach
-erkennen gefahren war.
+Totenhall gefahren war.
 
 Also — — unser Mann!!
 
@@ -646,9 +660,9 @@ Gepäckträger hatte ihm dann das Fuhrwerk besorgt …
 
 Und derselbe Gepäckträger erzählte uns weiter, daß
 Burg Totenhall jetzt Eigentum einer Amerikanerin sei, die
-den alten Bau mit erheblichen Kasten habe wiederherstellen
-Kassen … Mehr wisse er nicht … Aber am Eingang
-des Totenhall-Tales liege das Dörfchen gleichen Unmenge,
+den alten Bau mit erheblichen Kosten habe wiederherstellen
+lassen … Mehr wisse er nicht … Aber am Eingang
+des Totenhall-Tales liege das Dörfchen gleichen Namens,
 und dort in der Gastwirtschaft würden wir wohl Näheres
 in Erfahrung bringen können …
 
@@ -658,7 +672,7 @@ Ferne grollte ein Gewitter — war uns nur lieb …
 
 Der Wagenverleiher, an den wir uns wandten, verlangte
 fünfzig Mark. Der Wagen hatte ein Halbverdeck …
-Wir fuhren«.
+Wir fuhren …
 
 Wir hatten in Greiffenberg sorgfältig aufgepaßt und
 nichts Verdächtiges bemerkt …
@@ -680,13 +694,13 @@ würden uns hier bei ihm glänzend erholen …
 
 »das haben wir auch nötig,« meinte Harald …
 
-Und nachher schrieben wir uns Herrmann und b Schrötter,
-Bankbeamte aus Der! in das Gästebuch ein … aßen im
+Und nachher schrieben wir uns Herrmann und Schrötter,
+Bankbeamte aus Berlin, in das Gästebuch ein … aßen im
 Gastzimmer Mittag …
 
-Es regnete … regnete
+Es regnete … regnete …
 
-Der Wirt saß bei uns, »trank mit von dem feurigen
+Der Wirt saß bei uns, trank mit von dem feurigen
 Rotwein, der mehr feurig als gut war …
 
 Und erzählte …
@@ -694,26 +708,26 @@ Und erzählte …
 Man brauchte nur anzutippen, und seine Zunge kam
 nicht zum Stillstand …
 
-Auch schließlich von der Burg sprach er … Hier hieß.
-sie kurz nur »die Burg«
+Auch schließlich von der Burg sprach er … Hier hieß
+sie kurz nur »die Burg« …
 
 Vor einem Jahr habe eine Miß Galdensteac — er buchstabierte
 den Namen — die Burg gekauft … Nun lebe
 sie dort als Malerin mit einem Diener und einer Köchin
-beide ebenfalls Amerikaner … Viel bekäme man von he!
+beide ebenfalls Amerikaner … Viel bekäme man von den
 Dreien nicht zu sehen … Aber die Miß sei in der Umgegend
 recht beliebt, da sie viel Gutes tue … Für die
 Dorfkirche hier habe sie einen neuen Altarteppich und zwei
 <@pagebreak/>
 Leuchter gestiftet, und die Witwe des verunglückten Holzfällers
-sollte unterhalte sie vollständig … Außerdem
+Sellke unterhalte sie vollständig … Außerdem
 wollte sie dem Dorfe auch Geld vorschießen, damit man hier
 heilkräftige Quellen erbohren könne …
 
 »Dann wird Totenhall ein Trinkbad, meine Herren …
-Und dann ist es vorbei mit der Einsamkeit … Nur umlaufen
+Und dann ist es vorbei mit der Einsamkeit … Nur umtaufen
 müssen wir unser Dorf … Nach Totenhall kommt
-niemand … Ich habe in der Gemeindesitzung schon Heil3-dorf
+niemand … Ich habe in der Gemeindesitzung schon Heilsdorf
 vorgeschlagen …«
 
 Er redete und redete …
@@ -728,16 +742,16 @@ bestimmt nicht — so erklärte er auf eine Anzapfung
 Haralds hin … Jeder Wagen, der etwa nach der
 Burg wolle, müsse das Dorf passieren …
 
-Und Harald und ich schauten uns enttäuscht
+Und Harald und ich schauten uns enttäuscht an …
 
 Denn all das, was wir über Miß Galdensteac bisher
 gehört, war durchaus harmlos …
 
 Und wenn der alte Herr mit dem Kapuzineräffchen in
 Greiffenberg nur zum Schein die Burg als Fahrziel angegeben
-h hatte, dann … saßen wir hier vielleicht ganz unten
+hatte, dann … saßen wir hier vielleicht ganz umsonst …
 
-Zum Glück ließ der Wirt uns nun eine 55030 allein …
+Zum Glück ließ der Wirt uns nun eine Weile allein …
 
 Harald trat an das Telephon heran …
 
@@ -756,14 +770,15 @@ Chauffeur nur noch eine Dame gesessen hatte …
 Mehr konnte der Fuhrhalter nicht angeben, denn es
 <@pagebreak/>
 sei ja mitten in der Nacht gewesen und sehr dunkel …
-— Er sei umgekehrt und habe in einem nahen Gehöft Rast gen
+Er sei umgekehrt und habe in einem nahen Gehöft Rast
+gemacht … —
 
 Als Harald den Hörer wieder abhängte und mir den
 Inhalt dieser Auskunft mitteilte, fügte er hinzu:
 
 »Jetzt wissen wir wenigstens, daß wir auf der rechten
 Fährte sind, mein Alter … Denn wenn der Graubart
-mit dem gesehen tatsächlich sich nach Burg Totenhall hätte
+mit dem Äffchen tatsächlich sich nach Burg Totenhall hätte
 bringen lassen, würde ich das Rennen hier als zwecklos aufgegeben
 haben … Du verstehst mich wohl … Der alte
 Herr wäre doch, falls er ein schlechtes Gewissen hatte, niemals
@@ -773,7 +788,7 @@ in Verbindung gestanden hätte, die ihn gewarnt haben würden.
 Nun ist der Mann aber schon vor dem Dorfe von
 einem Auto erwartet worden und … scheinbar verschwunden
 … Mithin wollte er seine Spur verwischen, ist also
-nicht harmlos …
+*nicht* harmlos …
 
 Der Wirt trat ein …
 
@@ -783,24 +798,25 @@ ob Miß Galdensteac ein Auto besäße …
 Der Wirt verneinte …
 
 »Und was halten Sie von der Wetterlage?« meinte
-Parat weiter … »Es regnet nicht mehr ganz so stark …
-es sich aufklären wird?«
+Harald weiter … »Es regnet nicht mehr ganz so stark …
+Ob es sich aufklären wird?«
 
 »Nur vorübergehend … die Luft ist zu drückend. Wir
 bekommen fraglos noch ein schweres Gewitter … Ich
-wurde den Herren von einem längeren Spaziergange abraten
-…
+würde den Herren von einem längeren Spaziergange abraten
+…«
 
 »Wir wollen’s doch versuchen,« lachte Harald … »Wir
 haben ja unsere Gummimäntel … Sollten wir allzusehr
 einregnen, bleiben wir vielleicht die Nacht anderswo …
-Dusche Handkoffer sind hier wohl auf unseren Zimmern
+Unsere Handkoffer sind hier wohl auf unseren Zimmern
+sicher …«
 
-»Und »so marschierten wir beide denn wirklich gegen
+»Und so marschierten wir beide denn wirklich gegen
 vier Uhr die Landstraße hinab, die tiefer in das
 <@pagebreak/>
 gewundene Tal hineinführte. — Der Himmel zeigte
-ein paar blaue Stellen, und zuweilen lächelte sogar —
+ein paar blaue Stellen, und zuweilen lächelte sogar
 die Sonne freundlich auf uns beide »Bankbeamte« hinab.
 Aber — die Sonne »stach«, wie man zu sagen pflegt …
 
@@ -808,22 +824,21 @@ Und drüben hinter dem Hohen Iserkamm lagerte pechschwarzes
 Gewölk.
 
 »Du willst also doch nach der Burg?« fragte ich nach
-einer. Weile vorsichtig …
+einer Weile vorsichtig …
 
-Harald, der ganz in »den Anblick der Landschaft vertieft
+Harald, der ganz in den Anblick der Landschaft vertieft
 war, nickte zerstreut …
 
 »Das Auto kann vielleicht von einem der Spione etwa
-in York gemietet worden sein, und der Mann mit dem
+in Görlitz gemietet worden sein, und der Mann mit dem
 Kapuzineräffchen kann sehr wohl nach der Burg gefahren
-sein … kann …! — mich interessiert diese Amerikanerin,
+sein … kann …! — Mich interessiert diese Amerikanerin,
 die da so einsam in der Burg haust … Es wird sehr
 bald von neuem gießen und gewittern. Dann haben wir
 einen guten Vorwand, um Einlaß und Unterkunft zu bitten.
 Miß Galdensteac soll ja sehr entgegenkommend sein …
-
 Ist die Burg nebst Insassen für uns eine Niete, so suchen
-wir eben anderswo …
+wir eben anderswo …«
 
 Nun — ich für meine Person war überzeugt, daß es
 eine Niete werden würde. Trotzdem gab ich Harald recht:
@@ -833,7 +848,7 @@ Das Tal bot mancherlei Schönheiten. Es ging zum
 Teil ganz steil bergan …
 
 Dann eine neue Biegung, und fünfhundert Meter vor
-uns lag die seltsame kleine Burg =. vielleicht die seltsamste,
+uns lag die seltsame kleine Burg — vielleicht die seltsamste,
 die es hier in dieser Gegend je gegeben hat …
 
 In der Mitte des Tales ein einzelner Felswürfel …
@@ -844,7 +859,7 @@ der Nähe von Bad Flinsberg …
 Auf der Kuppe dieses Felsens der schmucklose Bau mit
 vier Ecktürmen … Und etwa zehn Meter nach Osten zu
 ein zweiter Felsen, niedriger als der andere …
-ein diese grauschwarze Gesteinmasse war eine Zickzacktreppe
+In diese grauschwarze Gesteinmasse war eine Zickzacktreppe
 <@pagebreak/>
 eingemeißelt mit einem Geländer … Und eine Zugbrücke,
 die vom Eingang der Burg bis zu der Spitze dieses zweiten
@@ -864,14 +879,14 @@ Burg und Felsen waren verschwunden.
 
 Dann erklommen wir die Zickzacktreppe … Waren
 sehr bald oben auf der Zugbrücke — am Burgtor …
-Blitze fuhren prasselnd herab … Der Sennor hallte
 
+Blitze fuhren prasselnd herab … Der Donner hallte
 in den Bergen mit unheimlicher Gewalt wider …
 
-Ein altertümlicher Glockengriff neben dem Assessor …
+Ein altertümlicher Glockengriff neben dem Flügeltor …
 Harald zog daran … zog noch kräftiger …
 
-ß Wir standen nun im Trockenen des vorgewölbten Vermögens
+Wir standen nun im Trockenen des vorgewölbten Torbogens
 …
 
 Dann öffnete sich der eine Torflügel …
@@ -885,7 +900,7 @@ Harald bittet höflich um ein Obdach … Wir seien
 von dem Gewitter überrascht worden … In der Nähe
 nirgends ein Haus …
 
-Der Diener Beckens gt sich …
+Der Diener verbeugt sich …
 
 In tadellosem Deutsch: »Wenn die Herren bitte näher
 treten wollen …«
@@ -893,37 +908,37 @@ treten wollen …«
 Der Mann wirkt durchaus sympathisch — durchaus …
 Sein blonder Spitzbart, das gescheitelte Haar, die ganze
 Erscheinung: tadellos gepflegt! — Nur — das soll ein
-Amerikaner sein?! Seinem Deutsch hört wage nicht an!
+Amerikaner sein?! Seinem Deutsch hörte mans nicht an!
 
 Hinter uns schließt sich der Türflügel …
 
-Wir befinden uns in einer kostbar und« noch vornehm
+Wir befinden uns in einer kostbar und noch vornehm
 <@pagebreak/>
 eingerichteten Halle … Der Diener nimmt uns die nassen
 Mäntel und Hüte ab …
 
 »Wenn die Herren bitte Platz nehmen wollen … Ich
-werde Miß Galdensteac POHRONHNTGEN x in
-Verschwindet mit unseren Sachen … — durch eine
+werde Miß Galdensteac benachrichtigen …«
 
+Verschwindet mit unseren Sachen … — durch eine
 Tür rechter Hand …
 
-Und — als er sie gerade zudrückt, hören wir kam;
-irgendwoher ein merkwürdiges gellendes Atem
+Und — als er sie gerade zudrückt, hören wir noch
+irgendwoher ein merkwürdiges gellendes Kreischen …
 
 Dann ist die Tür zugefallen und alles still …
 
-19278 blickt mich an …
+Harald blickt mich an …
 
-… Kapuzineräffchen!« es er nur …
+»Das … Kapuzineräffchen!« flüstert er nur …
 
-ie — »mir wird schwül zumute …
+Und — mir wird schwül zumute …
 
 Wir sind so gut wie gefangen …
 
-Vor Diener hat den Schlüssel der Haupttür abgezogen
+Der Diener hat den Schlüssel der Haupttür abgezogen
 und mitgenommen … Und — ich habe ja von ferne gesehen,
-daß die sämtlichen Fenster der Burg vergittert sind … +.
+daß die sämtlichen Fenster der Burg vergittert sind …
 
 Harald setzt sich in einen altertümlichen Sessel neben
 den Kamin. Ich in den anderen … Ein Bärenfell liegt
@@ -935,7 +950,7 @@ Lodenjoppe steckt …
 
 Und tue desgleichen …
 
-Während mein Herz bereits mit (Tier Schlägen
+Während mein Herz bereits mit schnelleren Schlägen
 über diese ungemütliche Situation quittiert …
 
 <h2>4. Kapitel.</h2>
@@ -949,28 +964,28 @@ Wir stellen uns vor …
 
 Bankbeamte aus Berlin: Herrmann und Schrötter —
 <@pagebreak/>
-an Erholung im Bunten Bock im Dorfe Totenhall abgelegen
+zur Erholung im Bunten Bock im Dorfe Totenhall abgestiegen …
 
 Miß Galdensteac ist keine Schönheit … — Aber ein
 liebes Gesicht hat sie, mit Grübchen in den Wangen und lebhaften
 braunen Augen …
 
 Führt uns über einen kurzen Flur in einen
-bei;zahlen Wohnsalon … Wir sitzen um einen
+behaglichen Wohnsalon … Wir sitzen um einen
 Ecktisch herum in weichen Klubsesseln. Die Miß spricht
 das Deutsche mit ganz leichtem Akzent … — Harald übernimmt
-die Unterhaltung — ganz so, wie es der Lage ange-nmressen:
+die Unterhaltung — ganz so, wie es der Lage angemessen:
 über das Wetter, die Burg, das Isergebirge — —
 Salongespräch …
 
 Der Diener bringt Tee und Erfrischungen …
 
-Unbehaglich könnte das all-8 sein … könnte …!
-Wenn nur nicht das Kapuzineräffchen. sich gemeldet hätte …
+Urbehaglich könnte das alles sein … könnte …!
+Wenn nur nicht das Kapuzineräffchen sich gemeldet hätte …
 
-Miß Galdensteac sagt zu dem Diene!,
+Miß Galdensteac sagt zu dem Diener:
 
-»Jean — Zigarren und Zigaretten fehlen …
+»Jean — Zigarren und Zigaretten fehlen …«
 
 Dann sind wir drei wieder allein …
 
@@ -979,21 +994,21 @@ Harald ist plötzlich schweigsam geworden …
 Die Miß hatte die japanischen Teetäßchen gefüllt …
 Der Tee duftet köstlich …
 
-Sie trinkt einen Acta, nimmt ein Röstbrötchen mit
+Sie trinkt einen Schluck, nimmt ein Röstbrötchen mit
 Kaviar …
 
 »Bitte — langen die Herren doch zu …!«
 
 Harst schaut die Burgherrin starr an …
 
-»Miß Galdensteac, wie denken Sie sich das ne dieser
+»Miß Galdensteac, wie denken Sie sich das Ende dieser
 Komödie?« Und seine Stimme ist metallisch …
 
 Die Miß legt das Brötchen weg …
 
 »Verzeihung — wie meinen Sie das, Herr Herrmann?«
 
-»Ich meine das so, wie ich es sage,« Miß Galdensteac.
+»Ich meine das so, wie ich es sage, Miß Galdensteac.
 Sie wissen recht gut, wer wir in Wahrheit sind …«
 
 Sie schüttelt den Kopf …
@@ -1001,7 +1016,7 @@ Sie schüttelt den Kopf …
 »Ich verstehe Sie nicht, Herr Herrmann … Sie sind
 also nicht Bankbeamte?«
 
-… Da zieht Harald die Clement aus der Rocktasche …
+Da zieht Harald die Clement aus der Rocktasche …
 
 Der Sicherungsflügel springt zurück …
 
@@ -1009,26 +1024,26 @@ Der Sicherungsflügel springt zurück …
 Die Miß ist hochgefahren — will zur Tür … — Wenn
 sie Komödie spielt, tut sie’s tadellos …
 
-Angst und Verwirrung verraten ihre Augen, ihre Es
+Angst und Verwirrung verraten ihre Augen, ihre
 Bewegungen …
 
-Ich bin »auf dem Posten … Habe ihr schon den Weg
+Ich bin auf dem Posten … Habe ihr schon den Weg
 abgeschnitten …
 
-Hilflos steht ’fie da …
+Hilflos steht sie da …
 
-»Setzen Sie sich!« fast »’Sarald befehlend … »Bitte!!
+»Setzen Sie sich!« sagt Harald befehlend … »Bitte!!
 Wir müssen ins Reine kommen, Miß Galdensteac … Ich
-verlange, daß Sie uns durch sämtliche Räume der ’Burg
+verlange, daß Sie uns durch sämtliche Räume der Burg
 führen … Und ich warne Sie vor jeder Hinterlist …
 Diesen Tee rühre ich nicht an … Sie haben jedem von
 uns in seine Tasse mit der Zuckerzange ein Stückchen Zucker
-vineingetan — unaufgefordert …
+hineingetan — unaufgefordert …«
 
 Die starken dunklen Augenbrauen der Miß ziehen sich
 zusammen …
 
-»Meine Herren, ich muß Sie denn 09 dringend ersuchen,
+»Meine Herren, ich muß Sie denn doch dringend ersuchen,
 mir zu erklären, was das alles bedeutet … Wer sind Sie?!«
 
 Harald lacht kurz auf …
@@ -1036,41 +1051,40 @@ Harald lacht kurz auf …
 »Trinken Sie unseren Tee — bitte! Er ist … vergiftet
 — auch der Zucker …!«
 
-Zeit … lacht Miß Galdensteac …
+Jetzt … lacht Miß Galdensteac …
 
-»Meine Herren, Sie scheinen nicht recht — bei je
+»Meine Herren, Sie scheinen nicht recht — bei Sinnen!!«
 
-Und sie … sie leer! unsere Täßchen ohne Zaudern …
+Und sie … sie leert unsere Täßchen ohne Zaudern …
 
 Meint dann: »Und jetzt — — wer sind Sie?!«
 
 Harald beobachtet das junge Weib …
 
-Auch seine Stirn Furcht sich. Ich merke, daß er etwas
-
+Auch seine Stirn furcht sich. Ich merke, daß er etwas
 unsicher wird …
+
 Und erwidert: »Wir sind die Berliner Detektive Harst
 und Schraut, Miß Galdensteac … Ich behaupte, daß
-
 hier in der Burg Fräulein Mabel van der Dymen gefangen
 gehalten wird …«
-Die Miß schüttelt langsam den Kopf … Ein faßt
+
+Die Miß schüttelt langsam den Kopf … Ein fast
 übermütiges Lächeln umspielt die roten frischen Lippen …
+
 »Meine Herren,« erklärt sie heiter, »Sie befinden sich in
-einem bedauerlichen Irrtum … Ich weiß nicht einmal.
+einem bedauerlichen Irrtum … Ich weiß nicht einmal,
 <@pagebreak/>
 wer Mabel van der Dymen ist … Ihre Namen freilich
 kenne ich … Und nur deshalb will ich Ihnen gegenüber
 Nachsicht üben … Sie sind berühmt, Herr Harst, und —
-
-ein seltsames so Ihren Herr ich selbst habe Sie in Anspruch
-nehmen wollen …
+ein seltsames Zusammentreffen: ich selbst habe Sie in Anspruch
+nehmen wollen …«
 
 Harst bleibt eisig …
 
 »Wir wollen nicht vom Thema abweichen, Miß Galdensteac
 … Ich bestehe auf meiner Forderung: Durchsuchung
-
 der Burg!«
 
 »Aber bitte — — gern, Herr Harst … Ich werde Jean
@@ -1084,66 +1098,66 @@ Und er geht zum Damenschreibtisch, nimmt den Telephonhörer
 an …
 
 »Hier Bankbeamter Herrmann … Sollten wir bis
-Mitternacht nicht zurüksein, so depeschieren Sie an Kriminalkommissar
-Art Bechert, Berlin, Königstraße 3, daß er
+Mitternacht nicht zurücksein, so depeschieren Sie an Kriminalkommissar
+Fritz Bechert, Berlin, Königstraße 3, daß er
 sofort Burg Totenhall einige Aufmerksamkeit schenken soll.
 Schreiben Sie sich bitte Adresse und Wortlaut auf …«
 
 Dann — hat er uns dergestalt den Rücken gedeckt …
 
-Ich beobachte Miß Galdensteac … Sie lächelt kann
-[o8, meint nun:
+Ich beobachte Miß Galdensteac … Sie lächelt harmlos,
+meint nun:
 
 »All das ist wirklich überflüssig, Herr Harst …! Ich
-betone nochmals: Wären Sie nicht Harald kannst, so würde
+betone nochmals: Wären Sie nicht Harald Harst, so würde
 ich den Landjäger aus Totenhall herbeirufen und Sie wegen
 Hausfriedensbruch belangen …«
 
 Und sie läutet nach dem Diener …
 
-Der erscheint
+Der erscheint …
 
-Mustert uns »ärgerlich … — Harst Pistole läßt
-seine blaugrauen Augen aufflammen
+Mustert uns ärgerlich … — Harst Pistole läßt
+seine blaugrauen Augen aufflammen …
 
 Dann beginnen wir die Durchsuchung, nachdem Harald
 Jean den Schlüssel des Haupttores abverlangt hat … Da
-Burg Totenhall nur über die Zugbrücke zu erreichen ’over
+Burg Totenhall nur über die Zugbrücke zu erreichen oder
 <@pagebreak/>
 zu verlassen ist, dürfte ein Wegschaffen Fräulein Mabels
 unmöglich sein …
 
-Ich bin ein wenig 3 niedergeschlagen, denn Harald hat sich,
-was den Tee bekifft, gründlich geirrt … Der Tee ist Miß
+Ich bin ein wenig niedergeschlagen, denn Harald hat sich,
+was den Tee betrifft, gründlich geirrt … Der Tee ist Miß
 Galdensteac tadellos bekommen.
 
 und — ich werde noch niedergeschlagener, als wir dann
 in einem anderen Zimmer des Erdgeschosses einen Papagei
-vorfinden, der bei unserem Eintritt genau dieselben Meter
-den Töne ausstößt, die wir vorhin gehört haben …
+vorfinden, der bei unserem Eintritt genau dieselben kreischenden
+Töne ausstößt, die wir vorhin gehört haben …
 
-Ich will den Leser nicht unnötig auf die Folter »spannen:
+Ich will den Leser nicht unnötig auf die Folter spannen:
 wir fanden nichts, obwohl wir volle drei Stunden
 suchten …
 
 Und so suchten, wie Harst dies versteht …
 
-Selbst in den Kellern, selbst nach Geheimtüren — selbst —
+Selbst in den Kellern, selbst nach Geheimtüren — selbst
 in den Schränken — überall …
 
-Wir fanden nur die Köchin in der Küche, sie Ecke
-Person, die nur ganz gesprochen deutsch sprach …
+Wir fanden nur die Köchin in der Küche, eine rundliche
+Person, die nur ganz gebrochen deutsch sprach …
 
-So wurde es acht
+So wurde es acht Uhr …
 
 Das Gewitter war vorüber und wir waren mit unserem
 Latein zu Ende …
 
-Standen nun »mit Miß Galdensteac wieder im Salon.
+Standen nun mit Miß Galdensteac wieder im Salon.
 
 Harald … entschuldigt sich …
 
-»Miß Galdvensteac, ich will Ihnen nun auch erklären,
+»Miß Galdensteac, ich will Ihnen nun auch erklären,
 wie der Verdacht gegen Sie entstanden ist …«
 
 Sie winkt liebenswürdig …
@@ -1154,10 +1168,11 @@ Ich verarge Ihnen nichts — gar nichts … Im Gegenteil,
 ich freue mich, auf diese Weise Ihre Bekanntschaft gemacht
 zu haben … Ich wollte mich ja ohnedies an Sie
 wenden, Herr Harst … Doch davon später … Bitte
-— ersäufen Sie … Ich bin wirklich sehr gespannt —
+— erzählen Sie … Ich bin wirklich sehr gespannt —
+sehr!«
 
-X
 Die Klubsessel schmiegen sich um unsere Glieder …
+
 Jean bringt Tee, eine kalte Platte, Likör …
 
 Und Harald erzählt …
@@ -1193,12 +1208,10 @@ Sie lächelt halb verlegen …
 »Oh — Sie werden mich vielleicht ein wenig rückständig
 finden, Herr Harst … — Ich kaufte diese Burg, weil ich
 gern in Deutschland leben wollte. Meine Mutter war eine
-
 Deutsche … Ich eine Waise — reich, unabhängig …
 Meine Kunst ist mein alles … Das heißt: ich bin als
 Malerin ja mehr Dilettantin … Sie sahen ja vorhin
 mein Atelier … — Ich wohne hier nun ein Jahr, Herr
-
 Harst. Vier Monate nahmen die Instandsetzungsarbeiten
 in Anspruch … Dann erst konnte ich mich meines neuen
 Heims ungestört erfreuen — glaubte ich …!«
@@ -1206,22 +1219,22 @@ Heims ungestört erfreuen — glaubte ich …!«
 Sie seufzte leise, und ihr Gesicht wurde ernster …
 
 »Ja — glaubte ich, Herr Harst … — Burg Totenhall
-steht bereits fünfhundert Jahre … »Und in so alten Gebäuden
+steht bereits fünfhundert Jahre … Und in so alten Gebäuden
 gibt es allerlei Geheimnisse …«
 
 Kaum hatte sie dies ausgesprochen, als mir auch schon
-denen unseres Quartierwirtes vom Bunten Bock
-ernste
+eine Bemerkung unseres Quartierwirtes vom Bunten Bock
+einfiel …
 
-Laterne — der Name hatte nämlich seine besondere
-Bedeutung … Der Wirt hatte uns da35 erklärt. Die Burg
+Totenhall — der Name hatte nämlich seine besondere
+Bedeutung … Der Wirt hatte uns das erklärt. Die Burg
 <@pagebreak/>
-war einst von dem böhmischen Grafen Januar erbaut worden
+war einst von dem böhmischen Grafen Sarrany erbaut worden
 … Dieser Graf wurde in Prag hingerichtet, weil
 er nicht weniger als neun Frauen in seiner Burg ermordet
-hätte — ein Ritter Blaubart also …
+hatte — ein Ritter Blaubart also …
 
-Und eine dieser Frauen sollte noch jetzt hier in un
+Und eine dieser Frauen sollte noch jetzt hier in Burg
 Totenhall »umgehen« …!!
 
 Da fuhr Miß Galdensteac schon fort:
@@ -1230,9 +1243,9 @@ Da fuhr Miß Galdensteac schon fort:
 schon von dem Burgspuk etwas erzählt, Herr Harst!«
 
 »Allerdings, Miß Galdensteac … Von der Frau,
-die machte auf dem Westturm sich zeigen soll — allerdings!«
+die nachts auf dem Westturm sich zeigen soll — allerdings!«
 Und halb im Scherz: »Zu jeder besseren Burg gehört ein
-Burggespenst!?
+Burggespenst!«
 
 Doch die junge Amerikanerin machte jetzt ein ganz merkwürdiges
 Gesicht …
@@ -1240,15 +1253,15 @@ Gesicht …
 »Dieses Burggespenstes wegen wollte ich schreiben,
 Herr Harst … Es existiert … Es ist ja auch von
 Förstern und Leuten der Umgegend gesehen worden …
-— E35 existiert! Ich habe es bisher viermal gesehen …
+— Es existiert! Ich habe es bisher viermal gesehen …
 Und — es stört mich … Es verleidet mir diesen Besitz …
 — Ich bin nicht feige, und Jean erst recht nicht … Wir
-raubten an eine … Fopperei … Wir haben den …
-heißt abzufassen gesucht … Es muß etwas Übernatürliches
+glaubten an eine … Fopperei … Wir haben den …
+Geist abzufassen gesucht … Es muß etwas Übernatürliches
 sein — unbedingt! — Und — wenn ich Sie nun bäte,
 für ein paar Tage mit Ihrem Freunde meine Gäste zu sein,
 — würden Sie mir die Bitte erfüllen? Sie können ja Ihre
-Nachforschungen nach dem Manne mit dem gesehen auch
+Nachforschungen nach dem Manne mit dem Äffchen auch
 von hier aus fortsetzen …«
 
 Aha — also darauf lief das Ganze hinaus! Die Miß
@@ -1266,14 +1279,13 @@ ganz trauen könnten. Sie erklärte sofort:
 
 »Über das Honorar werden wir einig werden, Herr
 Harst … Daß ich Ihre gewiß kostbare Zeit nicht ohne
-Entgelt in Anspruch nehmen werde, ist wohl selbstverständ-
-
-lich …
+Entgelt in Anspruch nehmen werde, ist wohl selbstverständlich
+…«
 
 Und Harald verbeugte sich etwas …
 
 »Leider sind die Zeiten vorüber, wo ich Liebhaberdetektiv
-spielen konnte …
+spielen konnte …«
 
 Dann telephonierte er unserem Quartierwirt … Wir
 hatten dort bereits für drei Tage vorausbezahlt, und dieses
@@ -1285,19 +1297,16 @@ löste das andere ab …
 Uns machte das alles nichts aus …
 
 Behaglicher als im Wohnsalon Miß Galdensteacs konnten
-wir es kaum haben … Au in ihrem Atelier im
+wir es kaum haben … Auch in ihrem Atelier im
 ersten Stock brachten wir eine volle Stunde zu und besichtigten
-ihre Bilder und die dort aufgespeicherten Kunstschütze.
+ihre Bilder und die dort aufgespeicherten Kunstschätze.
 Die junge Amerikanerin zeigte erst jetzt so recht ihren vollem
 Scharm als Weib … Sie war in der Tat ein frisches,
-heiteres Geschöpf. Ein Jammer geradezu, daß sie trotzdem!
+heiteres Geschöpf. Ein Jammer geradezu, daß sie trotzdem
 — Unsere heimliche Feindin war …!!
 
--
-—
-
-Z. Kapitel.
-Als es einschlug …
+<h2>5. Kapitel.</h2>
+<h3>Als es einschlug …</h3>
 
 Und dort im geräumigen Atelier war’s, daß sie auch
 
