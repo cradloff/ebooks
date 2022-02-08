@@ -611,7 +611,7 @@ sie Mabel, die Miterbin, verschwinden lassen … sehr geschickt
 … Wobei ihr verschollener Bruder und noch ein
 paar ihr nahestehende Leute geholfen haben mögen …«
 
-Ich konnte nicht anders … Rief geradeheraus: «Unmöglich!!
+Ich konnte nicht anders … Rief geradeheraus: »Unmöglich!!
 Bedenke das Charakterbild, das die Ladeninhaberin
 mir von Vilma so begeistert lieferte!«
 
@@ -1309,18 +1309,16 @@ heiteres Geschöpf. Ein Jammer geradezu, daß sie trotzdem
 <h3>Als es einschlug …</h3>
 
 Und dort im geräumigen Atelier war’s, daß sie auch
-
 ein recht großes Bild hervorholte, es auf die Staffelei stellte
 und in das rechte Licht rückte …
 
 »Bitte …!« sagte sie … »Bitte — — das Burggespenst
 von Totenhall, meine Herren, wie ich es nach einer
-
 nachts angefertigten Originalskizze gemalt habe … Genau
-so habe ich es viermal gesehen …
+so habe ich es viermal gesehen …«
 
 <@pagebreak/>
-Nun — daß die Bilder Miß Gfasbenseun nicht schlecht
+Nun — daß die Bilder Miß Galdensteacs nicht schlecht
 waren, hatten wir schon festgestellt …
 
 Dies hier war ein Meisterwerk …
@@ -1329,11 +1327,10 @@ Mondlicht … Die Burg mit den vier Türmen …
 Wolken am nächtlichen Firmament … Auf dem Westturm
 dicht an der niederen Brüstung eine Gestalt in der Tracht
 des sechzehnten Jahrhunderts … — eine Frau mit hoher
-See Puffärmeln, im »hochgetürmten Haar ein
+Halskrause, Puffärmeln, im hochgetürmten Haar ein
+Diadem …
 
-Diadem
-
-Und all diese Einzelheiten wie verschleiert …
+Und all diese Einzelheiten wie verschleiert … Die
 ganze Erscheinung seltsam durchsichtig — das Geisterhafte
 tadellos angedeutet …
 
@@ -1352,18 +1349,19 @@ liegt eine seltsame Stimmung über dem Bilde … etwas
 Träumerisch-Wehmütiges … Wann sahen Sie die Erscheinung
 — um welche Stunde?«
 
-»stets genau um halb zwölf machte, Herr Harst …
+»stets genau um halb zwölf nachts, Herr Harst …
 Es geht die Sage, daß der Graf Blaubart diese seine erste
-Gattin namens Franko um diese Stunde oben auf dem
+Gattin namens Blanka um diese Stunde oben auf dem
 Turme erdrosselt hat. Sie soll vor ihm dorthin geflüchtet
-sein
+sein …«
 
 »Und Sie und der Diener sind auf den Turm geeilt,
+als …«
 
-ja, als Dr Erscheinung sich zum zweiten Male
-sehen »ließ … Und — fanden nichts … Fanden die
+»… ja, als die Erscheinung sich zum zweiten Male
+sehen ließ … Und — fanden nichts … Fanden die
 mit Zinkblech vernagelte Turmluke jedesmal verschlossen und
-die Plattform natürlich leer .*…« —
+die Plattform natürlich leer …« —
 
 <@pagebreak/>
 Dann gingen wir und nahmen unten im Speisezimmer
@@ -1372,7 +1370,7 @@ das Abendessen ein …
 Inzwischen hatte Miß Galdensteac uns auch schon
 unsere beiden Fremdenzimmer im ersten Stock gezeigt —
 ein Wohnzimmer und ein gemeinsames Schlafzimmer. Letzteres
-stieß an den Westturm Die in den Turm führende sehr
+stieß an den Westturm. Die in den Turm führende sehr
 alte Eichentür war jedoch durch einen Schrank verstellt.
 
 Erst um elf Uhr sagten wir der Burgherrin gute Nacht
@@ -1388,31 +1386,34 @@ Totenhall weit mehr beobachtet hatte als ich …
 
 Er verschloß die Tür unseres Wohnzimmers von innen.
 Ließ den Schlüssel stecken … Das Schlafzimmer hatte nur
-den »Ausgang nach dem Westturm hin.
+den Ausgang nach dem Westturm hin.
 
 Wir sprachen über gleichgültige Dinge … Draußen
 tobte das Unwetter … Der Regen prasselte gegen die
-äußeren Fenster … Hagelschhauer kamen herab … Die
-Scheiben klirrten … Windstöße Umrissen das alte Bauwerk
+äußeren Fenster … Hagelschauer kamen herab … Die
+Scheiben klirrten … Windstöße umpfiffen das alte Bauwerk
 …
 
-Fast »unheimlich dieser Turm …
+Fast unheimlich dieser Turm …
 
-In beiden Zimmern brannten »die Nr Tiger Krone
+In beiden Zimmern brannten die elektrischen Kronleuchter
+… Die Verbindungstür stand offen …
 
-Leuchter … Die Verbindungstür stand offen …
 Wir entkleideten uns …
-Und — ich wurde immer nervöser … Die elektrische
 
+Und — ich wurde immer nervöser … Die elektrische
 Spannung teilte sich auch mir mit …
+
 Ich hatte das Gefühl, daß irgend etwas Besonderes
 geschehen müßte …
-In dem Schlafzimmer stand eine sehr alte Uhr mit gen
-1545 1 Gehäuse … Sie Liste mit metallischem
-rä
-Und gerade als das Uhrwerk schnappend zum Schlagen
+
+In dem Schlafzimmer stand eine sehr alte Uhr mit geschnitztem
+Gehäuse … Sie tickte mit metallischem
+Krächzen …
+
+Und gerade als das Uhrwerk schnarrend zum Schlagen
 <@pagebreak/>
-ausholte, gerade als es halb zwölf war, fuhr ein Blitz Mr
+ausholte, gerade als es halb zwölf war, fuhr ein Blitz mit
 ohrbetäubendem Getöse herab …
 
 Der alte Bau erbebte …
@@ -1421,76 +1422,77 @@ Im selben Moment erlosch das elektrische Licht …
 
 Finsternis … Und aus dem Dunkel Harald:
 
-»Es hat eingeschlagen …
+»Es hat eingeschlagen …«
 
-Meine Taschenlampe ist auf …
-wi Zwei Minuten — dann brannten »die Kronleuchte:
+Meine Taschenlampe flammte auf …
 
-oder …
-Es klopfte an die Tür des Wohnzimmers … — bei
-Diener rief uns zu, daß der Blitz nur die Sicherungen an
+Zwei Minuten — dann brannten »die Kronleuchte:
+wieder …
+
+Es klopfte an die Tür des Wohnzimmers … — Der
+Diener rief uns zu, daß der Blitz nur die Sicherungen am
 Schaltbrett durchgeschlagen habe … Wir sollten uns nicht
 weiter beunruhigen … —
 
-Wir gingen zu Bett … Lagen eine halbe Stund4
-intim Dunkeln und lauschten dem fernen Grollen des abziehen
-den Gewitters …
+Wir gingen zu Bett … Lagen eine halbe Stunde
+im Dunkeln und lauschten dem fernen Grollen des abziehenden
+Gewitters …
 
 Dann — und ich hatte damit gerechnet! — setzte Harald
-sich zu mir auf den Wohlstand, beugte sich tief zu mir herab
+sich zu mir auf den Bettrand, beugte sich tief zu mir herab,
 flüsterte …:
 
-»Je Kapuzineraffe ist hier …«
+»Der Kapuzineraffe ist hier …«
 
-— sahst — ui
+»Du — sahst ihn?«
 
-»8 — roh ihn … Am hinteren Flur stand ein
+»Ich — roch ihn … Am hinteren Flur stand ein
 Mülleimer …«
 
 »Ja … Und?!«
 
-»Der Unrat eines Affen hat einen ganz typischen ne
+»Der Unrat eines Affen hat einen ganz typischen Geruch …
+In dem Eimer war Affenunrat … — Und
+zweitens: der Diener Jean trägt einen falschen Bart …
+Der Mann ist in Wahrheit bartlos … Denke Dir mal
+den Bart weg, mein Alter, und beachte das Profil des
+Mannes … Ich glaube, Du findest dann eine Ähnlichkeit
+mit dem scharfen Profil der verstorbenen Sanitätsrätin
+heraus …«
 
-In dem Eimer war Affenunrat …
-zweitens: der Diener Jean trägt einen falschen wann
-Der Mann ist in Wahrheit bartlos … Denke Dir na!
-den Bart weg, mein Alter, und beachte das Profil he?
-Wannsees … Ich glaube, Du findest dann eine peinlich
-Honig mit dem scharfen Profil der verstorbenen Sanitätsrätin
-Kraus …
-
-Ich vergegenwärtigte mir die armselige hagere Heirat:
+Ich vergegenwärtigte mir die armselige hagere Gestalt
 jener Frau … Und … flüsterte zurück:
 
 »Du hast recht, Harald … Das Profil ist dasselbe …«
 
-»Ja — denn der Diener ist fraglos … Art Mantey,
+»Ja — denn der Diener ist fraglos … Fritz Mantey,
 <@pagebreak/>
 der verschollene Sohn … Daher die Ähnlichkeit! In
 Berlin spielt er in den Kleidern seiner Mutter Spionin …«
-»Ich Alte aufrecht im Bett und lausche … lausche …
+
+Ich sitze aufrecht im Bett und lausche … lausche …
+
 »Außerdem, mein Alter, ist dieser Diener auch der Gatte
 der Miß Galdensteac … Als wir die Burg durchsuchten,
 hatte ich mir die Lage der Räume sehr genau gemerkt …
 Das Zimmer Jeans liegt neben dem Schlafzimmer der
 Miß … Und in dem Schlafzimmer der Miß sah ich auf
-dem Waschtisch zwei Gläser für Mundwasser und zwei Zahn
-
-Hinters … Im Dienerzimmer war der Waschtisch fast
-leer …
+dem Waschtisch zwei Gläser für Mundwasser und zwei Zahnbürsten
+… Im Dienerzimmer war der Waschtisch fast
+leer …«
 
 »Ah — und — — die Verbindungstür!! Die Schränke
-Schoner!«
+davor!«
 
-»Stimmt!! Ein Ehepaar, behaupte ich … Und weiß
-
-ter: dieses Ehepaar sind jene Herr und Frau von Groening
+»Stimmt!! Ein Ehepaar, behaupte ich … Und weiter:
+dieses Ehepaar sind jene Herr und Frau von Groening
 aus Kissingen, die dann Mabel van der Dymen stahlen, entführten
 … — im Einverständnis mit der schönen Frau
 Vilma, geborenen Mantey!!«
 
 Wie ein Sturzbach brauste das alles über mich hin …
-… Logik war in alledem …!
+
+Logik war in alledem …!
 
 Haralds reges Hirn feierte wieder einmal Triumphe.
 
@@ -1507,19 +1509,17 @@ Wir … gelangten nicht ins Erdgeschoß …!!
 In den Turm — ja! Und — hörten dann von oben
 her ein tiefes Stöhnen …
 
-Bis zur Plattform waren es nur noch zwölf Treppen
-
-Stufen … Die Turmluke verschlossen … Der Patent
-
-Dietrich genügt auch hier … Wir wollen die Luke empor
-
-klappen … Ein Körper belastet sie — — rollt zur Seite …
+Bis zur Plattform waren es nur noch zwölf Treppenstufen
+… Die Turmluke verschlossen … Der Patentdietrich
+genügt auch hier … Wir wollen die Luke emporklappen
+… Ein Körper belastet sie — — rollt zur Seite …
 
 <@pagebreak/>
 Das Stöhnen wird noch dumpfer …
-Und — so finden wir dort oben das Burggespenst …!!
 
+Und — so finden wir dort oben das Burggespenst …!!
 Bewußtlos — — halb gelähmt durch den Blitzschlag …
+
 Ein Weib … genau in der Tracht des Ölgemäldes
 der Miß Galdensteac — — genau so! —
 
@@ -1532,10 +1532,10 @@ zutraf, die bisher die einzig richtige zu sein schien …!
 
 Nein: Frau Vilma war es nicht um die Erbschaft zu
 tun! Frau Vilma van der Dymen war etwas ganz anderes
-als Erbschleicherin! — Ich kann dem Leser versichern: na?
-Frau Vilma war, wird er nicht so leicht erraten, obwob!!
+als Erbschleicherin! — Ich kann dem Leser versichern: Was
+Frau Vilma war, wird er nicht so leicht erraten, obwohl
 in den vorausgegangenen Seiten eine Stelle auf den wahren
-Fern des Geheimnisse unzweideutig hinweist …
+Kern des Geheimnisse unzweideutig hinweist …
 
 <h1>Das tote Burggespenst.</h1>
 
@@ -1550,24 +1550,24 @@ genauer betrachteten, prallten wir entsetzt zurück …
 Das Gesicht war offenbar durch den Blitz furchtbar
 entstellt … Die eine Hälfte ist völlig verfärbt …
 
-— Und weiter sahen wir, daß es sich um ein Weib von
+Und weiter sahen wir, daß es sich um ein Weib von
 mindestens fünfzig Jahren handelte … Das graue Haar
 war ungepflegt, die Hände verarbeitet und die Haut rissig,
 die Fingernägel unsauber und lang wie Krallen … —
 
 <@pagebreak/>
 Und diese Frau starb eine halbe Stunde später auf dem
-Diwan unseres Wohnzimmers, ohne das Bewußtsein wie-’
+Diwan unseres Wohnzimmers, ohne das Bewußtsein
 wiedererlangt zu haben …
 
-Unsere Versuche, sie aus der tiefen Ohnmacht zu entweder,
+Unsere Versuche, sie aus der tiefen Ohnmacht zu erwecken,
 waren umsonst geblieben …
 
 So standen wir mitten in der Nacht am Totenlager
 dieser Unbekannten, die in ihren altertümlichen Gewändern
 aussah, als ob sie von einem Maskenfest gekommen sei …
 
-Von einem Mastkenfest!! — Wer war diese Frau, weshalb
+Von einem Maskenfest!! — Wer war diese Frau, weshalb
 hatte sie hier das Burggespenst gespielt?! Und wie
 war sie auf die Turmplattform gelangt?!
 
@@ -1575,9 +1575,9 @@ All das waren Fragen, die der Beantwortung harrten.
 — Und — ob sie je beantwortet werden würden, wer wollte
 das voraussagen?! —
 
-Harald begann jetzt die Kleider der Frau zu unter
+Harald begann jetzt die Kleider der Frau zu untersuchen
+…
 
-suchen …
 Wir fanden nichts bei ihr — nichts … Nicht einmal
 ein Taschentuch … Die Wäsche war ärmlich, aber sauber.
 
@@ -1586,10 +1586,10 @@ Dann meinte Harst:
 Wir müssen Miß Galdensteac und Jean wecken …
 Wir müssen den Tod der Frau nach Greiffenberg melden.
 
-Vorher aber wollen wir nochmals auf die Turnplatz
+Vorher aber wollen wir nochmals auf die Turmplattform
+steigen … Es muß sich doch feststellen lassen, wie die
+Frau dort nach oben gelangt ist …«
 
-Form steigen … Es muß sich das leuteten lassen, wie die
-Frau dort nach oben gelangt ist …
 Wir gingen …
 
 Fanden an einer der Zinnen ein Tau, das bis unten
@@ -1601,12 +1601,12 @@ befestigt war …
 Harald schüttelte immer wieder den Kopf …
 
 »Unbegreiflich, wie die Frau dieses Tau hier bis nach
-oben! ’ werfen können — unbegreiflich — und sehr unwahrscheinlich
-— — sehr!«
+oben hat werfen können — unbegreiflich — und sehr
+unwahrscheinlich — — sehr!«
 
 Der Regen hatte jetzt vollständig aufgehört …
 
-Der Moos jagte zuweilen durch das jagende ’Gewölf
+Der Mond jagte zuweilen durch das jagende Gewölk
 hindurch …
 
 <@pagebreak/>
@@ -1618,61 +1618,71 @@ Und meinte wieder:
 kann niemals an diesem Tau emporgeklettert sein! Wie
 kam sie also hier hinauf?! Der Lukendeckel war fest verschlossen
 …! — — Gehen wir, ich muß Miß Galdensteac
-sprechen …
+sprechen …«
 
 Und wir betraten wieder unsere Räume …
 
 Da lag sie — die Ärmste, Opfer des Blitzes! Durchnäßt
-ihre Kleider, feucht daß graue Haar … sehnig und
-durchweicht die werden Schuhe …
+ihre Kleider, feucht das graue Haar … sehnig und
+durchweicht die derben Schuhe …
 
 Wer — wer war diese Frau?!
 
 Und wir schritten die Flure entlang …
-an er Taschenlampen Lichtfinger griffen in die sind
 
-e
+Unserer Taschenlampen Lichtfinger griffen in die Finsternis …
+
 Wir klopften an Miß Galdensteacs Schlafzimmertür.
-Drei Minuten später stand die« in mein vor uns.
+
+Drei Minuten später stand die Burgherrin vor uns.
 
 In einem kostbaren Kimono … Um das gelöste Haar
 einen Schleier gewunden …
-Die … Burgherrin — — oder Frau von Groening!
 
+Die … Burgherrin — — oder Frau von Groening!
 — Stimmte das wirklich?!
+
 Jedenfalls — jetzt benahm sie sich nicht anders, als
-sich 0 Frau in solcher Lage benommen hätte …
+sich jede Frau in solcher Lage benommen hätte …
+
 Als Harald ihr das Geschehene mitteilte, erbleichte sie.
-Und dann — — aufs bedeutsam war:
+
+Und dann — — was bedeutsam war:
+
 »Wir müssen Jean wecken!« rief sie … »Jean muß
-mitkommen … »…
+mitkommen …«
+
 Oh — das war vielsagend!
+
 Jean — — Fritz Mantey, ihr Gatte — oder ihr Liebhaber
-»4! —
-gern wurde geweckt … Das heißt: er war zweifellos[
-H3 schon dadurch wach geworden, daß wir die Burgherrin
-herausceklopft hatten …
+…!! —
+
+Jean wurde geweckt … Das heißt: er war zweifellos
+schon dadurch wach geworden, daß wir die Burgherrin
+herausgeklopft hatten …
+
 War sofort bei uns im Flur …
-& War erregt — war unendlich besorgt um Miß Gartenwege
+
+War erregt — war unendlich besorgt um Miß Galdensteac
 …
 
 <@pagebreak/>
-ne ist Augen verrieten ihn … Seine Augen strahlten
+Seine ist Augen verrieten ihn … Seine Augen strahlten
 Liebe …
+
 Und wir beide taten, als ob wir nichts ahnten …
 
 Gingen nun zu vieren nach oben …
 
-Und merkten, daß weder Lilian ’Galdensteac — denn
+Und merkten, daß weder Lilian Galdensteac — denn
 das war ihr poetischer Vorname — noch »Jean« die Tote
 kannten, die freilich auch so entstellt war, daß ein Wiedererkennen
 große Schwierigkeiten bereiten mußte … —
 
 Dann telephonierte Harald nach Greiffenberg — vom
-Wohnsalon der Burgherrin aus. Zwei Stunden später traten
+Wohnsalon der Burgherrin aus. Zwei Stunden später trafen
 die Herren vom Gericht und der zuständige Landjäger
-
-an.
+ein.
 
 Wir hatten inzwischen ja längst unsere Verkleidungen
 abgelegt, waren eben Harst und Schraut, erklärten dem
@@ -1685,8 +1695,8 @@ doch die Bewohner der Umgegend genau kannte, war die
 durch den Blitz getötete Frau völlig fremd.
 
 Eine nochmalige Durchsuchung der altertümlichen Tracht
-der Toten förderte nichts zutage, was über die Persönlich-uu
-dieses geheimnisvollen Weibes hätte Ausschluß geben
+der Toten förderte nichts zutage, was über die Persönlich
+dieses geheimnisvollen Weibes hätte Aufschluß geben
 können.
 
 Der neue Tag war bereits angebrochen, als die Beamten
@@ -1701,8 +1711,8 @@ zurückgehalten. Er erklärte dem Amtsgerichtsrat, er
 würde den Fall weiter untersuchen, könnte darüber jetzt jedoch
 noch keinerlei Vermutungen aussprechen. —
 
-Gegen fünf Uhr morgens gingen wir zu Bei!. Wir
-waren rechtschasijen müde, und so gern im auch mit Harst die
+Gegen fünf Uhr morgens gingen wir zu Bett. Wir
+waren rechtschaffen müde, und so gern ich auch mit Harst die
 <@pagebreak/>
 Ereignisse noch erörtert hätte: die Müdigkeit war stärker.
 Ich schlief ein und erwachte erst um zwölf Uhr mittags.
@@ -1746,11 +1756,11 @@ schon abends aufgehört. Ein frischer Wind trieb die Wolken
 in jagender Hast über die Berge. Hin und wieder kam der
 Mond hervor …
 
-Harst wartete, bis eine schwarze Wolke heran segelte …
+Harst wartete, bis eine schwarze Wolke heransegelte …
 
 es wurde finster … Ein paar Tropfen fielen …
 
-Und dann flüsterte er« »Lieber Alter, die Burg hat
+Und dann flüsterte er: »Lieber Alter, die Burg hat
 vier Türme, aber diese Türme gleichen sich nicht vollkommen,
 wie ich am Tage festgestellt habe. Gerade dieses
 <@pagebreak/>
@@ -1762,7 +1772,7 @@ Das Tau war Blendwerk …«
 
 Da begriff ich …
 
-Und als wir nun daß Gemäuer der Brüstung aus
+Und als wir nun das Gemäuer der Brüstung auf
 unsere Art besichtigten, als unsere halb abgeblendeten
 Taschenlampen die Mauerfugen beleuchteten, da dauerte es
 nur wenige Minuten, bis wir tatsächlich eine kleine schmale
@@ -1783,7 +1793,7 @@ Abwärts ging’s …
 Harald voran … Der Schacht zog sich in der Turmmauer
 abwärts … In der Höhe des Erdbodens erweiterte
 er sich … Eine Steintreppe — ein unterirdischer Gang
-feucht, na; Moder duftend … Die Mauern mit Pilzen
+feucht, nach Moder duftend … Die Mauern mit Pilzen
 dicht bedeckt … Nach Süden zu erstreckte sich der Gang
 bis zum äußersten Talwinkel; dann wieder eine Treppe —
 und mit einem Male vor uns ein mattes metallisches Blinken:
@@ -1796,16 +1806,16 @@ den unterirdischen Gang, der hier in einer mächtigen Geröllhalde
 von Felsblöcken mitten im Hochwalde mündete …
 
 Über uns rauschten die schlanken uralten Tannen …
-an uns her nichts als grauschtwwarze Blöcke … Eine jener
-
-elsansammlungen war’s, wie sie in den Wäldern des Isergebirges
+Um uns her nichts als grauschwarze Blöcke … Eine jener
+Felsansammlungen war’s, wie sie in den Wäldern des Isergebirges
 so häufig sind …
+
 Der Mond lugte durch die Baumwipfel …
 
 <@pagebreak/>
 Wir hatten uns zusammengeduckt, spähten umher …
 
-Und wollten gerade wieder Ne Sie 10 als Dir den
+Und wollten gerade wieder umkehren, als zwischen den
 Stämmen eine Männergestalt auftauchte …
 
 Nein — kein Mann …
@@ -1816,6 +1826,7 @@ hatte er einen mondhellen Fleck überquert …
 Ein Fahrrad trug er auf der Schulter … War nun
 am Fuße der Felsblöcke angelangt … Stieg eilends
 empor …
+
 Und ebenso hastig krochen wir weiter vom Eingang des
 alten unterirdischen Ganges rückwärts zwischen die mächtigen
 Steine …
@@ -1829,39 +1840,41 @@ Beobachteten ihn weiter …
 
 Er hatte nun seine Radlaterne angezündet …
 
-he. — — stand neben dem Rucksack und weinte bitterlich
+Und — — stand neben dem Rucksack und weinte bitterlich
+…
 
 War ein schlanker blasser Junge, ärmlich gekleidet …
 
 Weinte und schluchzte …
 
-Warf sich plötzlich in die »Knie und preßte das tränen-überströmte
+Warf sich plötzlich in die Knie und preßte das tränenüberströmte
 Gesicht in das Kleiderbündel …
 
-Dann packte er die Kleider in den Rucksack und schuld
+Dann packte er die Kleider in den Rucksack und schulterte
+ihn …
 
-flüsterte ihn …
 Nahm sein Rad, löschte die Laterne und entfernte sich
-wieder … Das Damenfahrrad ließ er stehen … viel
-
-leicht wollte er es später holen.
+wieder … Das Damenfahrrad ließ er stehen … Vielleicht
+wollte er es später holen.
 
 Harald raunte mir zu:
 
-»Ich werde ihm folgen … Ich benutze das herum)
-Rad … Warte nicht auf mich … Geh schlafen … Es
-kann Stunden dauern, bis ich zurückkehre
+»Ich werde ihm folgen … Ich benutze das Damenrad
+… Warte nicht auf mich … Geh schlafen … Es
+kann Stunden dauern, bis ich zurückkehre …«
 
 Und dann war ich allein …
 
 Allein in dem unterirdischen feuchtkalten Gange, der
 wohl einst als letzter Rettungsweg für die Stunde der Not
-von dem Erbauer der Burg: angelegt worden sein mochte …
+von dem Erbauer der Burg angelegt worden sein mochte …
+
 <@pagebreak/>
 Warten sollte ich nicht!
 
 Schlafen gehen …! — — Schlafen?! Unmöglich …
-Und ich Seite mich neben den Ausgang auf einen Stein
+
+Und ich setzte mich neben den Ausgang auf einen Stein
 und … rauchte mir eine Zigarre an …
 
 Ich hatte übergenug Stoff zum Nachdenken — übergenug
@@ -1898,28 +1911,28 @@ gewesen …
 
 Und so saß ich denn, rauchte und sann vor mich hin …
 
-Und — (Epe immer häufiger …
+Und — gähnte immer häufiger …
 
 Fröstelte …
 
 <@pagebreak/>
-Alte ein …
+Nickte ein …
 
 Die Zigarre entfiel mir …
 
 Ich erwachte darüber …
 
-+ sie auf …
+Hob sie auf …
 
-ah nach der Uhr …
+Sah nach der Uhr …
 
-Wie — — schon drei Milch Dann hatte ich ja eine
+Wie — — schon drei Uhr?! Dann hatte ich ja eine
 Stunde geschlafen …! War das möglich?!
 
 Und gähnte …
 
-Schaute dorthin — zufällig —, wo der Gang sich hing
-803 in völliger Finsternis …
+Schaute dorthin — zufällig —, wo der Gang sich hinzog
+in völliger Finsternis …
 
 Und … ruckte hoch …
 
@@ -1930,7 +1943,7 @@ Im Nu war ich vollkommen munter …
 Ein Lichtschein, der näher und näher kam …
 
 Im Moment war ich zwischen das Geröll gekrochen …
-Mr en hier vor der Öffnung ins Freie genug Steine
+Es lagen hier vor der Öffnung ins Freie genug Steine
 umher …
 
 Schmiegte mich hinter einen Felsblock …
@@ -1960,7 +1973,7 @@ Unheimlich fast …
 Nein — es war nicht Lilian Galdensteac …!
 
 Es — — mußte Mabel van der Dymen sein — —
-Master!
+mußte!!
 
 Ihr Vater hatte sie uns genau beschrieben …
 
@@ -1968,7 +1981,8 @@ Kein Zweifel: sie war’s …!!
 
 Sie war’s …
 
-Denn dort — dicht hinter ihr — — ein gesehen …
+Denn dort — dicht hinter ihr — — ein Äffchen …
+
 <@pagebreak/>
 Jetzt erst gewahrte ich das rostbraune Tierchen …
 
@@ -1981,11 +1995,12 @@ Da — — sie lachte wieder …
 
 Und mich überlief es kalt bei diesem Lachen …
 
-Dann schritt sie auf die Öffnung zu, stieg empor, in Wollte
+Dann schritt sie auf die Öffnung zu, stieg empor, wollte
 hinaus — wollte offenbar in den Wald fliehen …
 
-Ich erhob mich halb
-Ab Doch meine Absicht, sie anzusprechen, kam nicht zur Ausführung
+Ich erhob mich halb …
+
+Doch meine Absicht, sie anzusprechen, kam nicht zur Ausführung
 …
 
 Plötzlich machte sie kehrt — — lief den Gang wieder
@@ -2009,26 +2024,29 @@ Er war recht außer Atem.
 Und ich:
 
 »Gestatte — das war ich nicht, das war Mabel van
-der Dymen mit ihrem gesehen …
+der Dymen mit ihrem Äffchen …
 
 Und ich erzählte …
 
-war derart! überrascht, daß er minutenlang
+Harald war derart überrascht, daß er minutenlang
 schwieg …
 
 Dann — eine Frage, die mich sehr merkwürdig berührte:
 
-»Schildere mir ’da8 Lachen genauer … Wie war es?!
-Unheimlich?! 17
-Ja — unheimlich, wie das einer Wahnsinnigen — —
-» tatsächlich!«
+»Schildere mir das Lachen genauer … Wie war es?!
+Unheimlich?!«
+
+»Ja — unheimlich, wie das einer Wahnsinnigen — —
+tatsächlich!«
+
 Nun erst stellte er das Fahrrad an die Wand …
+
 Meinte leise …
 
 »Ich weiß jetzt, wer die Tote ist … Der
 <@pagebreak/>
-Junge war ihr Sohn … Am Dorfe Obergrenzdorf
-jenseit3z von Bad Flinsberg wohnen sie in
+Junge war ihr Sohn … Im Dorfe Obergrenzdorf
+jenseits von Bad Flinsberg wohnen sie in
 einem Häuschen an der Berglehne … Ich traf dort im
 Dorfe den Nachtwächter … Gab ihm Geld … Der
 Mann wird schweigen … Von ihm erfuhr ich alles Nötige.
@@ -2038,22 +2056,23 @@ Ihr Gatte, ehemals deutscher Kolonialbeamter, kaufte 1919
 die Burg Totenhall, starb zwei Jahre darauf und ließ die
 Seinen ohne nennenswertes Vermögen zurück. Frau
 Bernardt veräußerte die Burg an den Herrn, von dem die
-Amerikanerin sie erwarb, und zog nach Obegrenzdorf, wo
+Amerikanerin sie erwarb, und zog nach Obergrenzdorf, wo
 sie sich durch Vermieten an Badegäste und durch Näharbeiten
-kümmerlich durchschlug …
+kümmerlich durchschlug …«
 
-uV fand diese Angaben im allgemeinen recht Minuten
+Ich fand diese Angaben im allgemeinen recht uninteressant
+…
 
-Aber »Harald schien anderer Meinung …
+Aber Harald schien anderer Meinung …
 
 Nach kurzer Pause legte er mir die Hand schwer auf
 die Schulter …
 
-»Mein Alter, Bernardt war Polizeimeister in Deutsch-südwest,
-und zwar im äußersten Süden der Kolonie, in Wachsendem,
+»Mein Alter, Bernardt war Polizeimeister in Deutschsüdwest,
+und zwar im äußersten Süden der Kolonie, in Baßfontein,
 unweit des Diamantendistriktes … Du weißt
 wohl, daß dort eine deutsche Minengesellschaft tätig war …
-Man hat« recht wertvolle Steine in ausgetrockneten Krabbelten
+Man hat recht wertvolle Steine in ausgetrockneten Flußbetten
 gefunden … Und — dies alles ist wichtig …«
 
 »Inwiefern?!« erlaubte ich mir zu fragen …
@@ -2064,21 +2083,22 @@ ich wette, sie hat etwas in der Burg gesucht!«
 
 »Etwa … Diamanten?!«
 
-»Zu — wahrscheinlich …! — Zunächst dürfte doch
-ein Polizeimeister einer für Deutschland verloren ggangenen
+»Ja — wahrscheinlich …! — Zunächst dürfte doch
+ein Polizeimeister einer für Deutschland verloren gegangenen
 Kolonie kaum derartige Ersparnisse gemacht haben, daß er
 so ohne weiteres achtzigtausend Mark für Totenhall zahlen
 konnte … So viel hat er nämlich 1919 tatsächlich bezahlt.
 Dann aber: die Bernardts haben in der Burg wie die Einsiedler
 <@pagebreak/>
-gekauft. Er, der Polizeimeister a. D… hat sich kaum
+gehaust. Er, der Polizeimeister a. D.\, hat sich kaum
 je blicken lassen. Was er in der Burg trieb, weiß niemand. —
 Daß der Landjäger aus dem Dorfe die Tote nicht wiedererkannt
 hat, ist weiter kein Wunder. Der Beamte ist erst
 zwei Jahre hier, und seit 1921 wohnt die Bernardt mit
 ihrem Sohne bereits in Obergrenzdorf, immerhin fast
-anderthalb Meilen entfernt …
-und — der arme verwaiste Junge?«
+anderthalb Meilen entfernt …«
+
+»und — der arme verwaiste Junge?«
 
 »Oh — der dürfte in alles eingeweiht sein … Den
 werden wir schon noch aushorchen … Ich glaube, wir
@@ -2094,16 +2114,17 @@ Steinplatten — mit klebrigem Schmutz bedeckt …
 Spuren darin — kreuz und quer übereinander — kaum
 zu unterscheiden …
 
-ß Aber — ich habe Harald von dem Kapuzineräffchen erzählt
+Aber — ich habe Harald von dem Kapuzineräffchen erzählt
+…
 
 Ich habe nun wieder einmal Gelegenheit, seine scharfen
-Augen zu bewundern
+Augen zu bewundern …
 
 Ich folge ihm … Er geht tief gebückt … Und —
 — sieht die Abdrücke der Pfötchen des kleinen Affen — auch
 ich sehe sie …
 
-Und bis zur Palermo: bis zum engen Schacht finden
+Und bis zur Turmmauer, bis zum engen Schacht finden
 wir diese Fährte …
 
 Dann nichts mehr … — — Vor der Steintreppe, die aus
@@ -2129,11 +2150,11 @@ Er sucht — und findet …
 
 Burg Totenhall gibt abermals einer seiner Geheimnisse.
 
-Die Geheimtür, rechts am Fuße der Treppe angelegt ist
+Die Geheimtür, rechts am Fuße der Treppe angelegt, ist
 nicht größer als die oben in der Brüstung. Aber der Gang
 dahinter ist breiter und höher und trockener …
 
-Wir schleichen vorwärts … erreichen … Es ist
+Wir schleichen vorwärts … Schleichen … Es ist
 ratsam, hier vorsichtig zu sein … Die Geschehnisse hier
 sind so ungeklärt, so verworren — jetzt noch verworrener
 durch Mabels Auftauchen …
@@ -2145,14 +2166,14 @@ vielleicht dreißig Meter …
 »Also muß es eine dritte Geheimtür geben,« meint er.
 
 Und deutet auf die staubigen Steinplatten, wo wir
-Mabels vielfache Spuren und auch die des geschont sehen.
+Mabels vielfache Spuren und auch die des Äffchens sehen.
 Ganz klar sich abzeichnend …
 
 Suchen weiter …
 
 Diesmal längere Zeit …
 
-Sie Harald in der Mitte des Ganges an der rechten
+Bis Harald in der Mitte des Ganges an der rechten
 Mauer ein Stückchen Stoff findet: eingeklemmt — in Brusthöhe
 — — die Ecke eines Taschentuches!
 
@@ -2162,11 +2183,11 @@ Harald nimmt das Taschentüchlein …
 Feinster Batist … Zartes Parfüm … Ein Monogramm
 in weißer Seide — verschlungen:
 
-um. v … d. D.
+<p class="centered">M. v. d. D.</p>
 
 Also — — Mabel van der Dymen!
 
-Und hier hinter der 0 ein enges Gelaß, vielleicht
+Und hier hinter der Tür ein enges Gelaß, vielleicht
 drei Meter im Geviert …
 
 Wir treten ein …
@@ -2177,7 +2198,7 @@ Dann — hinter uns das Kreischen der Türangeln …
 
 <@pagebreak/>
 Die Tür ist zugeworfen worden … Vom Gange
-er.
+her …
 
 Harst schnellt vor …
 
@@ -2189,9 +2210,8 @@ Das schlimmste: sie ist von dieser Seite anders als die
 anderen … Mit rostigen Eisenplatten belegt …
 
 Ich helfe … Wir drücken und pressen … Die Tür
-in nicht nach, obwohl wir den einfachen Hebelverschluß
-
-Herr schoben;155
+gibt nicht nach, obwohl wir den einfachen Hebelverschluß
+öffnen …
 
 Wir schauen uns an …
 
@@ -2199,32 +2219,33 @@ Und ich sage:
 
 »Eingesperrt — durch Jean und Lilian, die mit Mabel
 im Bunde stehen …! Man hat uns hierher gelockt …
-Die Taschentücher war Berechnung!«
+Die Taschentuchecke war Berechnung!«
 
 Harald hat die Lippen aufeinandergepreßt …
 
 Und — schüttelt den Kopf …
 
 Mein Alter, so einfach liegen die Dinge hier denn doch
-nicht! — Schalte Deine ne aus, damit wir länger sich!
-zur Verfügung vorn; ne
+nicht! — Schalte Deine Lampe aus, damit wir länger Licht
+zur Verfügung haben …!«
 
-Sprach’s
+Sprach’s …
+
 Und dann — kam schon das andere …!!
-ch—
+
 <h2>3. Kapitel.</h2>
 <h3>Die grünliche Scheibe.</h3>
-Das andere … Und das war das gänzlich unsere
 
-unverständliche, das Unmögliche …
+Das andere … Und das war das gänzlich
+Unverständliche, das Unmögliche …
 
 Aber Widersinn wurde Tatsache …
 
-Burg Totenhall war doch nicht lediglich das einsam:2
+Burg Totenhall war doch nicht lediglich das einsame
 Gemäuer, einsamer Wohnsitz von Menschen, die eine Vergangenheit
 hinter sich hatten …
 
-Hinter uns wieder ein Geräusch … Ein ähnlichckes
+Hinter uns wieder ein Geräusch … Ein ähnliches
 Kreischen und Scharren, metallisches Reiben und Knistern.
 
 <@pagebreak/>
@@ -2233,7 +2254,7 @@ Fuhren abermals herum …
 
 Und sahen abermals …
 
-Mauersteine der Rückwand der Zelle hatten sich auseinandergetrieben
+Mauersteine der Rückwand der Zelle hatten sich auseinandergeschoben
 … Ein Viereck lag frei — eine Öffnung
 von anderthalb Meter Breite, Höhe und Länge …
 
@@ -2242,7 +2263,7 @@ einer Glasplatte, die mindestens handdick war … grünlich
 schillerte … — schlechtes Glas … Und doch tadellos
 sauber — tadellos durchsichtig …
 
-Wir beide( denn auch ich hatte meine Lampe noch nicht
+Wir beide (denn auch ich hatte meine Lampe noch nicht
 ausgeschaltet) ließen die Lichtbündel der kleinen Taschenscheinwerfer
 auf das Fenster fallen …
 
@@ -2253,16 +2274,16 @@ Und das — war eine Grabkammer … ein Grabgewölbe
 — weiß getüncht …
 
 Ein offener Sarg dort … Daneben uralte Kirchenleuchter
-mit hier Kerzen …
+mit dicken Kerzen …
 
 Acht Kerzen brannten mit leisem Flackern …
 
-In dem Sarge auf kostbaren Stoffen eine Tote —t
+In dem Sarge auf kostbaren Stoffen eine Tote —:
 Das Gespenst von Totenhall!
 
 Niemals war es freilich Frau Bernardt … Nein,
 nur genau dieselbe Tracht war’s — genau so …! Das
-Diadem, die Halskrause, die genarrter Ärmel …
+Diadem, die Halskrause, die gepufften Ärmel …
 
 Und alles drüben schillerte infolge der Glasscheibe in
 seltsam-unwirklichem grünlichen Lichte …
@@ -2274,7 +2295,7 @@ Und wir regungslos …
 
 Und Harst mit zwei Schritten dicht vor der Scheibe …
 
-o
+Ich folge …
 
 Näher ist uns das Bild … Stärker die Leuchtwirkung
 unserer Lampen …
@@ -2292,17 +2313,17 @@ Wir sehen alles ganz genau …
 
 An den weißen Wänden links und rechts stehen Holzschemel.
 Eine Ewige Lampe in Herzform glüht über
-dem Sarge an der See …
+dem Sarge an der Decke …
 
 Dann — rollen von rechts und links die Mauerteile
-wie SMidelenstex wieder vor die Glasplatte …
+wie Schiebefenster wieder vor die Glasplatte …
 
 Langsam — stetig …
 
-Harst will mit aller Kraft diese Blies hemmen …
+Harst will mit aller Kraft diese Bewegung hemmen …
 
 Aber diese Kraft reicht nicht aus … Die mechanische
-Einrichtung gehorcht stärkerem Dja … Die Mauerteile
+Einrichtung gehorcht stärkerem Druck … Die Mauerteile
 schließen sich vollends, und das vereinte Mauerstück bewegt
 sich nach vorn, bis es mit der übrigen Wand wieder eine
 Fläche bildet …
@@ -2328,8 +2349,8 @@ konnte von ihrer Stiefmutter …«
 
 Weiter kam der Freund nicht …
 
-Ihre andere Stimme löste sein Organ ab … sein gedämpftes
-Organ — eine helle, grelle Mädchenstimane, in
+Eine andere Stimme löste sein Organ ab … sein gedämpftes
+Organ — eine helle, grelle Mädchenstimme, in
 der Haß und Wut und noch anderes mitklangen …
 
 <@pagebreak/>
@@ -2340,49 +2361,50 @@ der nunmehr verdeckten Glasscheibe …
 Sie sind ihre Freunde …! Und ich — werde
 jeden Tag Zeuge sein, wie Ihre Kräfte schwinden! Rufen
 Sie nur um Hilfe …! Rufen Sie nur!! Niemand wird
-Sie hören … „!!«
+Sie hören …!!«
 
 Mabel …!!
 
 Ohne Zweifel Mabel van der Dymen!
 
-unseren Taschenlampen Lichtkegel vereinigten sich auf
-einem 7;leck …
+unserer Taschenlampen Lichtkegel vereinigten sich auf
+einem Fleck …
 
 Dort in der Ecke … — die Mündung einer eisernen
-Rolle — vom Durchmesser einer Männerfaust … Durch
+Röhre — vom Durchmesser einer Männerfaust … Durch
 die Mauer ragt sie hindurch, steht nur wenig über …
 
-Und wieder Kabels Stimme — wieder in fließendem
+Und wieder Mabels Stimme — wieder in fließendem
 Deutsch mit nur ganz geringem fremden Akzent:
 
 »Verhungern … verdursten!! Das wird Ihr Ende
+sein!!«
 
-kam) Stille …
+Dann Stille …
 
-Harst schon vor ’der Öffnung …
+Harst schon vor der Öffnung …
 
 Hineinrufend:
 
 »Fräulein van der Dymen, wissen Sie auch, wer wir
 sind?! Mein Name ist Harst, Harald Harst, der Privatdetektiv
-aus Berlin … Ihre Eltern Herr bei mir und
-haben mich beauftragt, Sie zu suchen …
+aus Berlin … Ihre Eltern waren bei mir und
+haben mich beauftragt, Sie zu suchen …«
 
-Ein Lachen von drüben durch das ohne
+Ein Lachen von drüben durch das Rohr …
 
 Ein noch unheimlicheres Lachen als vorhin im unterirdischen
 Gang …
 
-Wir wird es eiskalt 4.
+Mir wird es eiskalt …
 
 Etwas Dämonisches in diesem Lachen … Etwas
 Schauerliches …
 
 »Fluch meinen Eltern …!! Sie sind mitschuldig —
-sie haben es gewollt! Ich war meinem Vater unbequem?!
-Tx wollte mit dem Weibe allein sein, in dessen Arme ihn
-S8 Narrheit des Alters getrieben hatte …
+sie haben es gewollt! Ich war meinem Vater unbequem!
+Er wollte mit dem Weibe allein sein, in dessen Arme ihn
+die Narrheit des Alters getrieben hatte …«
 
 Dann — nichts mehr …
 
@@ -2396,10 +2418,10 @@ Dann wandte er sich mir zu und meinte gleichmütig:
 »Und die dritte Möglichkeit, mein Alter: Mabel hatte
 als Kind ihre Eigentümlichkeiten, die nachher sich steigerten.
 Da mag Frau Vilma, geborene Mantey, stutzig geworden
-sein … Da mag. sie erkannt haben, daß Mabel … geisteskrank
+sein … Da mag sie erkannt haben, daß Mabel … geisteskrank
 war, und daß das arme Mädchen vielleicht noch
 Arges beginnen würde, wenn sie ohne Aufsicht blieb …
-Rücksicht auf ihren Gatten, auf der Unglülichen Vater veranlaßte
+Rücksicht auf ihren Gatten, auf der Unglücklichen Vater veranlaßte
 sie zu einem sorgsam vorbereiteten Streich, der
 wahrscheinlich noch wichtigere Beweggründe hat … Vilma
 wußte, daß ihr bisher verschollener Bruder, der ohne Zweifel
@@ -2407,12 +2429,12 @@ mit den Gesetzen einst in Konflikt geraten, und der als
 Fritz Mantey hier in Deutschland nicht wieder auftauchen
 durfte — — daß ihr Bruder Miß Galdensteac geheiratet
 hatte und hier in der Burg hauste … Als Ehepaar von
-BSroenin4 waren die beiden in Kissingen … Ich hab«
+Groening waren die beiden in Kissingen … Ich habe
 den Landjäger gestern abend gefragt. Es stimmt: Miß
 Galdensteac und Jean waren vier Wochen verreist — zur
 selben Zeit, als van Dymen mit den Seinen in Kissingen
 weilte. alles weitere ist also klar: Lilian und
-Art Mantey entführten Mabel, brachten sie hierher!
+Fritz Mantey entführten Mabel, brachten sie hierher!
 Und Mabel ist tatsächlich irrsinnig! Das bewies dieses
 schreckliche Lachen!! das bewies ihr jetziges Tun! Und
 als Kranke ist sie gefährlich. Vielleicht hat sie getobt …
@@ -2429,7 +2451,7 @@ Theorie Haralds unbedingt richtig sein mußte …
 
 Da sprach er auch schon wieder — ebenso leise:
 
-»349 bin ferner überzeugt, daß diese unterirdischen
+»Ich bin ferner überzeugt, daß diese unterirdischen
 <@pagebreak/>
 Räume hier sich in dem zweiten Felsen befinden, zu dem
 die Zugbrücke hinüberreicht … Und fraglos haben Lilian
@@ -2442,21 +2464,21 @@ Schlauheit holte sie uns durch den Taschentuchzipfel
 hier hinein … Wir müssen nun zusehen, daß wir
 schleunigst wieder freikommen … Die Eisenplatten der
 Geheimtür dort sind von Rost zerfressen … Sie werden
-sich losreißen lassen … Dann traten wir den Mörtel aus
+sich losreißen lassen … Dann kratzen wir den Mörtel aus
 den Fugen der Mauersteine der Tür … Es wird gelingen
 …! Vorwärts!«
 
-Er war so unternehmungöslustig und so siegesgewiß…
+Er war so unternehmungslustig und so siegesgewiß …
 
 Und — diesmal behielt ich, der Zweifler, recht: die
--Eisenplatten waren nicht loszubrechen, und ein Versuch,
+Eisenplatten waren nicht loszubrechen, und ein Versuch,
 durch die Mauer neben der Tür in den Gang zu kommen,
 kostete uns lediglich unsere Messerklingen …
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
-<h3>Bernardts Versteckes.</h3>
+<h3>Bernardts Versteck.</h3>
 
 Längst mußte der neue Tag heraufgezogen sein …
 
