@@ -2494,7 +2494,7 @@ Im Dunkeln …
 
 Zum Glück war die Luft hier trocken und leidlich warm.
 
-»Was nun?!“« fragte ich …
+»Was nun?!« fragte ich …
 
 Und ich war niedergedrückt und ohne viel Hoffnung …
 Denn in dem Punkte hatte Harald bestimmt richtig kombiniert:
@@ -2503,7 +2503,7 @@ Lilian und Fritz Mantey wußten nichts von dem Geheimgang
 
 »Was nun?!« wiederholte ich …
 
-Ich sah, daß Harald seine Taschenuhr 309g … Ich
+Ich sah, daß Harald seine Taschenuhr zog … Ich
 sah nur das Leuchtzifferblatt …
 
 Sechs Uhr früh — sechs Uhr morgens …
@@ -2524,11 +2524,12 @@ Und die heißt: Erwin Bernardt!«
 
 »Ja — der Junge!! Und zwar deshalb, weil die Familie
 Bernardt diese Räume hier zweifellos kennt, denn sonst
-hätte die Witwe wohl kaum dieses selbe Kostüm ir ihr Auftreten
-als Ztragespenn sich anfertigen können …!«
+hätte die Witwe wohl kaum dieses selbe Kostüm für ihr Auftreten
+als Burggespenst sich anfertigen können …!«
 
-»Allerdings …
-»Und der Junge »wird doch auch das Rad seiner Mutter
+»Allerdings …!«
+
+»Und der Junge wird doch auch das Rad seiner Mutter
 <@pagebreak/>
 von hier abholen — aus dem anderen Gang … Vielleicht
 kommt er dann hierher — in diesen Nebengang draußen …
@@ -2538,14 +2539,14 @@ dann die Nacht über abwechselnd gegen die Eisenplatten
 klopfen, muß er auf uns aufmerksam werden. Gewiß —
 diese Hoffnung ist gering … Immerhin — — es ist ein
 Hoffnungsschimmer … Vierundzwanzig Stunden kann
-man wohl ohne Kinder hungern … — Schlafen wir
+man wohl ohne Schaden hungern … — Schlafen wir
 also, mein Alter … Ich werde Dir mit gutem Beispiel
-vorangehen …
+vorangehen …«
 
 Und — neben mir Geräusche …
 
 Harst hatte sich der Länge nach ausgestreckt. Auch ich
-tat’s
+tat’s …
 
 Aber — es sollte nicht sein …! Wir hatten mit etwas
 nicht gerechnet: mit der Kälte der Steinplatten! In dem
@@ -2556,27 +2557,29 @@ bald wieder erhoben … fröstelnd, übermüdet …
 Nicht einmal sitzen konnten wir auf dem eisigen Boden.
 
 Und so begann denn für uns dieser Junitag hier unter
-der Erde mit allen Schrecken einer qualvollen Nacht
+der Erde mit allen Schrecken einer qualvollen Nacht …
 
-Nacht um un her …
+Nacht um uns her …
 
 Und wir, um uns wieder zu erwärmen, schritten auf
 und ab — unermüdlich … Und waren doch bereits zu
 stark durchkältet, um durch Bewegung die verlorene Wärme
-zu ersehen …
+zu ersetzen …
 
 Nacht ringsum …
 
 Wie eingesperrte, frisch eingefangene Tiere der Wildnis
 kamen wir uns vor … Wie Bestien, die keine Ruhe finden,
-die ohne Rast an den Osten vier entlangschleichen …
+die ohne Rast an den Gitterstäben entlangschleichen …
 
 Ich sah nach der Uhr …
 
 Halb acht …
+
 Morgens halb acht …
+
 Dort draußen in der Freiheit schien jetzt vielleicht die
-Strome …
+Sonne …
 
 <@pagebreak/>
 Vielleicht suchten Lilian und Fritz bereits nach uns …
@@ -2595,8 +2598,8 @@ Und auch jetzt wieder …
 
 Hörte das Tapp Tapp von Haralds rastlosen Schritten.
 
-Und — — hörte plötzlich noch etwas anderes: ganz.
-Seite Musik — — offenbar Harmoniumklänge!
+Und — — hörte plötzlich noch etwas anderes: ganz
+leise Musik — — offenbar Harmoniumklänge!
 
 Täuschte mich mein Ohr?
 
@@ -2613,8 +2616,10 @@ die die Töne durchließ …
 
 Er war im Moment neben mir …
 
-»Bitte — hier an diese Stelle — — »horche!«
+»Bitte — hier an diese Stelle — — horche!«
+
 Ich schob ihn dorthin, wo ich bisher gestanden hatte.
+
 Er horchte …
 
 Eine lange Weile …
@@ -2625,12 +2630,12 @@ das Harmoniumspiel …
 
 Es war ein Harmonium …
 
-Dann eine Frauenstimme — — Getan
+Dann eine Frauenstimme — — Gesang …
 
-Ein schlichtes Volkslied … Ein ganz 3 schlichtes Lied
-kein — rührend und ergreifend:
+Ein schlichtes Volkslied … Ein ganz schlichtes Liedlein
+— rührend und ergreifend:
 
-Sah ein Saal ein Rückkehr Stein …
+Sah ein Knab ein Röslein stehn …
 
 Dann Harst:
 
@@ -2638,20 +2643,22 @@ Dann Harst:
 
 Nur das eine Wort …
 
--Mabel!!« wiederholte er …
+»Mabel!!« wiederholte er …
 
 <@pagebreak/>
 Ein Knipsen …
+
 Seine Taschenlampe glühte auf …
-Die Batterie hatte sich erholt … vi Lampe brannte
 
+Die Batterie hatte sich erholt … Die Lampe brannte
 weißlich … Bestrahlte die Mauer …
+
 Und — da war eine offene Fuge …
+
 Da war ein Löchlein … Und rings um ein Quadrat
+von acht Steinen sah der Mörtel so anders aus …
 
-von acht Steinen sah der Mörtel so andere aus …
-
-Haralds Eis vorn nun fuhr diese Fuge ’entlang.
+Haralds Messerklinge fuhr diese Fuge entlang.
 
 Der Mörtel zerbröckelte … Es war Lehm, mit
 Sand vermischt …
@@ -2660,22 +2667,22 @@ Dann schob Harst die Fingerspitzen in die freie Fuge.
 
 Zog, rüttelte …
 
-Und — — loderte das ganze Ziegelquadrat …
+Und — — lockerte das ganze Ziegelquadrat …
 
-Ich hielt die Lampe 6; & 13
+Ich hielt die Lampe …
 
 leider brannte sie immer dunkler …
 
 Immer dunkler …
 
-Über das Quadrat von Ziegelsteinen wurde immer loser.
+Aber das Quadrat von Ziegelsteinen wurde immer loser.
 
-Ließ sich langsam herangetreten …
+Ließ sich langsam herausziehen …
 
 Nun hielt Harald die feste Masse des Quadrats frei
 in Händen …
 
-Dahinter ein flaches es +
+Dahinter ein flaches Loch …
 
 Ich leuchte hinein …
 
@@ -2695,22 +2702,21 @@ Die Lampe genügt gerade noch … Wir lesen …
 
 Eines Toten Vermächtnis …
 
-»34h, Friedrich Ernst Wilhelm Bernardt, Polizeimeister
-a. D… habe diese Diamanten, die mein rechtmäßig
+> »Ich, Friedrich Ernst Wilhelm Bernardt, Polizeimeister
+a. D.\, habe diese Diamanten, die mein rechtmäßiges
 Eigentum sind, hier aus Furcht vor Dieben verborgen.
 
 <@pagebreak/>
-Ein Zufall ließ mich diese Räume finden … Ein
+> Ein Zufall ließ mich diese Räume finden … Ein
 Zufall offenbarte mir die Geheimnisse der Burg Totenhall
 … Und hier neben der Grabkammer einer der
-
 Frauen des Grafen Blaubart habe ich nun heute, am
-9\. Januar 1921, meine in Südwest gefundenen Edelsteine
+29\. Januar 1921, meine in Südwest gefundenen Edelsteine
 verborgen … Wenn ich dieses Mauerloch wieder sauber
 geschlossen habe, werde ich meine Frau und mein Kind
 hierher führen, damit auch sie das Versteck kennen lernen.
 
-W. Bernardt.«
+<blockquote class="right">W. Bernardt.«</blockquote>
 
 Immer dunkler brannte die Lampe …
 
@@ -2754,42 +2760,42 @@ ihn wieder zurück …
 <@pagebreak/>
 Ich — — schaue …
 
-Kann durch die« offene Fuge gerade den Teil
+Kann durch die offene Fuge gerade den Teil
 des Gemaches nebenan übersehen, der von einer Karbidlampe
 mit Schirm hell beschienen wird …
 
-Dort das Harmonium … Davor ’ Mabel van der
-Dymen 35
+Dort das Harmonium … Davor Mabel van der
+Dymen …
 
 Sie singt wieder …
 
-Und singt jetzt den ’Geisha- Walzer … Singt mit
-Kasten … Wiegt sich auf dem Schemel hin
-und
+Und singt jetzt den Geisha-Walzer … Singt mit
+vollendetem Ausdruck … Wiegt sich auf dem Schemel hin
+und her …
 
 Auf ihrer Schulter hockt das Kapuzineräffchen …
 
 Wiegt sich — hin und her …
 
-Da — zerrt Harald mich zurück …- Nein — will
+Da — zerrt Harald mich zurück … Nein — will
 mich zurückzerren … Gerade da geschieht jedoch in meinem
 Gesichtskreis etwas so Entsetzliches, daß ich schleunigst
 ihm zuraune:
 
-»Nicht …!!? Ein Mann …!! Fritz Mantey —
+»Nicht …!! Ein Mann …!! Fritz Mantey —
 ohne den falschen Bart!!«
 
 Und beobachte weiter …
 
-Mabel hat ihren Platz vor dem Harmonium betrogen:
+Mabel hat ihren Platz vor dem Harmonium verlassen,
 ist hochgeschnellt, als Mantey hinter ihr auftaucht …
 
-Ich sehe ihr Gesicht — zur linke verzerrt …
-sehe, wie in ihren Augen wahnwitzige Wut ausruhend …
+Ich sehe ihr Gesicht — zur Fratze verzerrt … Ich
+sehe, wie in ihren Augen wahnwitzige Wut aufflackert …
 
 Im Moment hat sie den rechten Arm ausgestreckt, hat
 — wahrscheinlich von einem Tischchen neben dem Harmonium,
-das außerhalb meines Gesichtsfeldes sich beinahe eine
+das außerhalb meines Gesichtsfeldes sich befindet, eine
 schwere große Karbidlampe emporgehoben …
 
 Mantey will zurückspringen …
@@ -2797,22 +2803,22 @@ Mantey will zurückspringen …
 Die Lampe saust nieder … Und Mantey schlägt vornüber
 zu Boden, reißt den gepolsterten Schemel um …
 
-Auf Mabels Kutter kreischt das Äffchen in gellenden
+Auf Mabels Schulter kreischt das Äffchen in gellenden
 Tönen …
 
 Die Lampe klirrt auf den Teppich herab …
 
-Bevor sie erlischt, erblicke ich noch einen seien Mann,
+Bevor sie erlischt, erblicke ich noch einen zweiten Mann,
 der Mabel offenbar ärgerlich etwas zuruft …
 
-Dann Dunkelheit
+Dann Dunkelheit …
 
 <@pagebreak/>
-Nur das Wer des Affen dauert an …
+Nur das Kreischen des Affen dauert an …
 
-Bricht jäh ab
+Bricht jäh ab …
 
-Und Harst — »meinen Arm pressend:
+Und Harst — meinen Arm pressend:
 
 »Was ist geschehen? So rede doch!«
 
@@ -2835,57 +2841,56 @@ Ich halte ihn — umklammere seine Brust … Seine
 Beine fahren in die Öffnung … Mit den Schuhabsätzen
 bearbeitet er die Steine …
 
-Die Stöße Hallen dumpf in unserem Kerker wider …
+Die Stöße hallen dumpf in unserem Kerker wider …
 
-Er läßt nicht raunt … Er feucht … Und mir, der
-in der Schwebe hatte, rinnt der Schweiß über das
-Blick …
+Er läßt nicht nach … Er keucht … Und mir, der
+ich ihn in der Schwebe halte, rinnt der Schweiß über das
+Gesicht …
+
 Endlich — — endlich fällt drüben polternd ein Stein
 zu Boden …
+
 Ein weiterer folgt …
+
 Ein dritter …, vierter …
 
-Dann ist die ’Oeffnung sei …
+Dann ist die Öffnung frei …
 
-Und Harst kriecht hindurch … Harst Tiere mich hinterdrein
+Und Harst kriecht hindurch … Harst zieht mich hinterdrein
 … Meine Jackenärmel gehen in Fetzen … Aber
 — wir sind frei — frei …!!
 
-Der matte rötliche Schimmer meiner verbrauchter
-Taschenlampe enthüllt uns ein größeres, wohnlich eingenickt
+Der matte rötliche Schimmer meiner verbrauchten
+Taschenlampe enthüllt uns ein größeres, wohnlich eingerichtetes
+Gemach …
 
-zusammengefaltetes Kg
-
-Ein Bett, Sofa, Tisch, Schrank, gehauchte « … Auf
+Ein Bett, Sofa, Tisch, Schrank, Harmonium … Auf
 dem hellen Teppich eine Blutlache … Mantey selbst verschwunden
 …
 
-Und dort recht eine niedere Holztür — halb offen …
+Und dort rechts eine niedere Holztür — halb offen …
 Draußen ein kahler Vorraum … Eine Steintreppe, die
 <@pagebreak/>
 nach oben führt … Und wir die Stufen hinan … Auch
 hier nur ein ganz enger Schacht … Aber — der richtige
 Weg ist es … Das beweisen die Blutspuren … Hier
+hat man Fritz Mantey nach oben getragen …
 
-hat man Fritz »Mantey nach oben getragen …
-
-Dann — über uns eine Falltür — eine ’Felsplatte in
+Dann — über uns eine Falltür — eine Felsplatte in
 eisernem Rahmen … Harst drückt sie empor … Und
 Sonnenschein überflutet uns … Im Nu sind wir draußen.
 Stehen auf der Kuppe des zweiten Felsens, zu dem die
 Zugbrücke von Burg Totenhall hinüberreicht …
-
-—
 
 <h2>5. Kapitel.</h2>
 <h3>Die Zugbrücke.</h3>
 
 Die Zugbrücke …
 
-Drei Meter unter »uns liegt die terrassenförmige Einbuchtung,
+Drei Meter unter uns liegt die terrassenförmige Einbuchtung,
 die der Zugbrücke als Stützpunkt dient …
 
-Und — Augen und Hirn genügen kaum, all das zu einlassen,
+Und — Augen und Hirn genügen kaum, all das zu erfassen,
 was sich hier im Sonnenglanz eines klaren Junitages
 vor uns abspielt …
 
@@ -2898,12 +2903,12 @@ Und als sie kaum die Mitte der Zugbrücke erreicht hat,
 erscheint oben auf dem Ostturm, zu dem die Ketten der
 Brücke emporlaufen, ein Mann …
 
-Derselbe Mann, den ich bereits in Kabels Gemach seelischen
+Derselbe Mann, den ich bereits in Mabels Gemach gesehen
 hatte …
 
 Gleichzeitig hebt die Brücke sich …
 
-Lilian schreit je auf …
+Lilian schreit gellend auf …
 
 Harst springt …
 
@@ -2914,10 +2919,10 @@ Fällt mit der Brust auf das Ende der Brücke, gleitet
 ab, kann sich nur noch mit den Händen an dem Endbalken
 festklammern …
 
-Lilians wilde Schreie werden zu Worten — Süden …
+Lilians wilde Schreie werden zu Worten — Sätzen …
 
 »Helfen Sie mir, Herr Harst — helfen Sie uns! Die
-beiden glauben uns nicht …! alles ist verloren, wenn …
+beiden glauben uns nicht …! alles ist verloren, wenn …«
 
 Das weitere verstehe ich nicht …
 
@@ -2934,22 +2939,21 @@ wenn die Brücke noch höher gezogen wird.
 
 Und reiße die Clement aus der Tasche …
 
-Wir ist alles andere gleichgültig …
+Mir ist alles andere gleichgültig …
 
 Ziele auf den Kerl — schieße — — und schieße vorbei.
 
 Meine Hand ist zu unsicher …
 
-In meiner Angst ein Zettel … Auch ich brülle
+In meiner Angst ein Letztes … Auch ich brülle
 Hinüber:
 
 »Mann — — wollen Sie Harald Harst töten …!!
 Mann — sind Sie von Sinnen?! Erkennen Sie mich nicht?!
 In bin Schraut — Max Schraut, der Freund Harald
+Harsts!«
 
-Kiste!«
-
-Da 3 schreie ich hinüber … Da 3 — und nur deshalb,
+*Das* schreie ich hinüber … *Das* — und nur deshalb,
 weil mir in letzter Sekunde die beiden holländischen
 Detektive eingefallen sind …
 
@@ -2965,27 +2969,27 @@ Harst nun mit raschem Schwung sich emporziehend — —
 Harst in Sicherheit …
 
 Geht zu Lilian … Spricht zu ihr … Nimmt ihr
-die Fesseln ab und ruft dann zum immer empor:
+die Fesseln ab und ruft dann zum Turme empor:
 
-»Kollege, Sie kämpfen hier auf der falschen Seite … « 4«
+»Kollege, Sie kämpfen hier auf der falschen Seite …!«
 
 <@pagebreak/>
 Der Mann beugt sich weit über die Turmbrüstung …
-Stiert meinen Harald lag …
+Stiert meinen Harald an …
 
 Und erwidert verlegen:
 
 »Verdammt, Herr Harst — — Sie sinds wirklich …
-Entschuldigen Sie nur …! Jetzt erkenne ich auch ließ
+Entschuldigen Sie nur …! Jetzt erkenne ich auch Sie!«
 
 Die Brücke senkt sich …
 
-Legt sich mit dem Ende »wieder auf die Terrasse des
+Legt sich mit dem Ende wieder auf die Terrasse des
 zweiten Felsens …
 
 Ich zu Harald und Lilian …
 
-Giften schlachtet … Harst redet ihr tröstend zu …
+Lilian schluchzt … Harst redet ihr tröstend zu …
 
 Dann nähern sich die zwei Fremden — die Kollegen
 aus Amsterdam … Die Beauftragten van Dymens …
@@ -2993,7 +2997,7 @@ aus Amsterdam … Die Beauftragten van Dymens …
 Entschuldigen sich … Der eine sagt:
 
 »Wir sind noch immer im unklaren, was wir von alledem
-»halten sollen, Herr Harst …
+halten sollen, Herr Harst …«
 
 Und Harald: »Wo ist Fritz Mantey? Wie geht es ihm?«
 
@@ -3002,7 +3006,7 @@ Und Harald: »Wo ist Fritz Mantey? Wie geht es ihm?«
 »und Mabel?«
 
 »haben wir einsperren müssen … Das Mädchen
-scheint geisteskrank zu sein … Sie hat
+scheint geisteskrank zu sein … Sie hat …«
 
 »Gehen wir …!« Und Harald führt Lilian über
 die Zugbrücke in die Burg — in den Wohnsalon …
@@ -3014,25 +3018,25 @@ entgegen …
 Die Kollegen aus Amsterdam nehmen ihm ohne weitere
 Aufforderung die Fesseln ab …
 
-den wir uns,« meint Harald. »Wir müssen uns
-einigen, meine Herren es
+»Setzen wir uns,« meint Harald. »Wir müssen uns
+einigen, meine Herren …«
 
 Die Kollegen sind bedrückt … Wir beobachteten Lilian
 die neben Manteys Sessel kniet und dem Geliebten mit dem
-Taschentüchlein das Blut von der Stirn Punkt.
+Taschentüchlein das Blut von der Stirn tupft.
 
-Mantey erholt sich, Sein Blick wird klarer … Er
+Mantey erholt sich. Sein Blick wird klarer … Er
 beginnt zu sprechen …
 
-»Ah war als Student sehr leichtsinnig … Ich
+»Ich war als Student sehr leichtsinnig … Ich
 stahl aus der Universitätsbibliothek Bücher und entfloh, als
 <@pagebreak/>
-meine Verfehlungen an den Tag kamen … In Rentier?
+meine Verfehlungen an den Tag kamen … In Newyork
 lernte ich ehrlich arbeiten … Ich wurde Privatsekretär
 von Lilians Vater. Als deren Eltern verstarben, heirateten
 wir. Die Sehnsucht nach der deutschen Heimat ließ mir
 drüben keine Ruhe. So erwarben wir hier die Burg Totenhall,
-letzten nur unserer Liebe und unserem Glück. Meine
+lebten nur unserer Liebe und unserem Glück. Meine
 Schwester Vilma stand mit mir dauernd heimlich im Briefwechsel.
 Dann schrieb sie uns, daß ihre Stieftochter Mabel
 geistesgestört sein müsse, da sie bereits dreimal versucht hatte,
@@ -3043,31 +3047,31 @@ und ihm erst allmählich beibringen, daß sein einziges Kind
 in eine Anstalt gebracht werden müsse … Lilian und ich
 entführten Mabel … Leider aber ging Dymen auf Vilmas
 Andeutungen, daß Mabel geisteskrank sei und ihm sogar
-nach dem Leben getrachtet hätte, in seiner Weise ein. Die
-Sachlage verschlimmerte sich für uns …
-… Durch mein Eingreifen,« warf Harald ein …
+nach dem Leben getrachtet hätte, in keiner Weise ein. Die
+Sachlage verschlimmerte sich für uns …«
 
-Und »Schilderte nun seinerseits das, was wir erlebt hatten …
+»… Durch mein Eingreifen,« warf Harald ein …
+Und schilderte nun seinerseits das, was wir erlebt hatten …
 Wandte sich schließlich an die Amsterdamer Kollegen …
 
-… Sie sehen, daß hier von einem Verbiete?-
-keine« Rede sein kann … Haben Sie noch etwas zu bemerken?«
+»… Sie sehen, daß hier von einem Verbrechen
+keine Rede sein kann … Haben Sie noch etwas zu bemerken?«
 
 Und der eine erklärte: »Nur das: Wir haben die Spur
 des Diebes des Kapuzineräffchens bis hierher verfolgt, fanden
 heute früh oben auf dem zweiten Felsen die geheime
 Falltür und so auch Mabel van der Dymen … Daß
 Mabel geistesgestört, merkten wir leider erst zu spät …
-Wir konnten Wabel35 Angriff auf Herrn Mantey nicht mehr
+Wir konnten Mabels Angriff auf Herrn Mantey nicht mehr
 verhindern, ahnten ja auch nicht im entferntesten, daß Herr
 Mantey der Bruder Frau Vilmas ist … Wir sind gern
 bereit, auf jeden Vorschlag einzugehen, der es ermöglicht,
 die Angelegenheit einer Einmischung der Behörden zu entziehen
-…“«
+…«
 
 »Dafür werde ich schon sorgen,« nickte Harst. »Ich
 <@pagebreak/>
-werde daß Ehepaar van der Dymen telephonisch hierher
+werde das Ehepaar van der Dymen telephonisch hierher
 bestellen … Dann beraten wir das weitere …«
 
 Abends traf das Ehepaar auf Burg Totenhall ein. Harst
@@ -3075,16 +3079,16 @@ war’s, der dem armen bedauernswerten Vater alle nötigen
 Aufschlüsse gab. Dymen trug den harten Schicksalsschlag
 mit männlicher Fassung.
 
-In aller Stille wurde Mabel dann in ein Privatsana-wen
-übergeführt, wo sie bereits drei Monate später verstand.
+In aller Stille wurde Mabel dann in ein Privatsanatorium
+übergeführt, wo sie bereits drei Monate später verstarb.
 
 Das Kapuzineräffchen hat auf Burg Totenhall eine neue
 Heimat gefunden, ebenso ein verwaister Knabe, dem das
 Ehepaar Mantey in Liebe und treuer Fürsorge die Eltern
-Brief. Erwin Bernardt wird einst, wenn er erwachsen ist,
+ersetzt. Erwin Bernardt wird einst, wenn er erwachsen ist,
 Über ein ansehnliches Vermögen verfügen. Die Diamanten
-seines Vaters waren wertvoller, als selbst wir zunächst angenommen
-hatten.
+seines Vaters waren wertvoller, als selbst wir zunächst
+angenommen hatten.
 
 Die Öffentlichkeit hat damals von alledem nur wenig
 erfahren. Harst sorgte dafür, daß auch Fritz Mantey fernerhin
@@ -3095,11 +3099,12 @@ umgetauft habe, so wird der Leser das verstehen … Die
 Burgbewohner sollen vor der Neugier der Touristen und
 Badegäste geschützt werden …
 
-Hiermit verabschiede ich »mich für heute von meinen
+Hiermit verabschiede ich mich für heute von meinen
 Freunden …
 
-Berlins Untergrundbahn bildet den Schauplath des
+Berlins Untergrundbahn bildet den Schauplatz des
 nächsten Abenteuers.
 
 Nächster Band:
-Das Untergrundbahngespenst,
+
+__Das Untergrundbahngespenst.__
