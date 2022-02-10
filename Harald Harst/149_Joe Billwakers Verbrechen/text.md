@@ -977,7 +977,7 @@ Koffer … jedenfalls nichts, was …«
 der sich nun als ein Fürst Tschergin entpuppt hat,
 den neuen Koffer hierher gebracht?!«
 
-Joe Bilstwaker wird bleich …
+Joe Billwaker wird bleich …
 
 »Ja … Aber …«
 
@@ -2075,12 +2075,12 @@ Esplanade …«
 »Sehr glücklich, Mr. Harst … wir haben ein reizendes
 Kindchen, und das zweite wird nicht mehr lange auf sich
 warten lassen … Unser Glück wäre vollkommen, wenn wir
-uns eine Plantage laufen könnten, denn ich bin leidenschaftlicher
+uns eine Plantage kaufen könnten, denn ich bin leidenschaftlicher
 Naturfreund und Jäger …«
 
 »Das merkt man … Natürlich auch ein guter Schütze?«
 
-»Ich könnte als Kunstschütze auftreten, Mr. Harst
+»Ich könnte als Kunstschütze auftreten, Mr. Harst …
 Ich habe als Zwanzigjähriger in Afrika Löwen erlegt, habe
 … — aber das interessiert Sie nicht …«
 
@@ -2164,7 +2164,7 @@ Orlington zu dieser Torheit … Eifersucht machte ihn blind
 hätte er nicht so rabiat behandeln sollen …«
 
 »Freilich — der Tigerkäfig war eine … Ungeheuerlichkeit,
-»Mr. Harst! Wie denkt Orlington sich wohl den
+Mr. Harst! Wie denkt Orlington sich wohl den
 Ausgang der Sache?!«
 
 »Das weiß ich nicht … Er wollte uns drei Tage
@@ -2197,7 +2197,7 @@ Schlamm geschoben …«
 wiederhole, was seine Frau mir auf dem Balkon sagte,
 wird er vernünftig werden …«
 
-Hm …?!« machte Sir Hasting zweifelnd. »Ich bin
+»Hm …?!« machte Sir Hasting zweifelnd. »Ich bin
 anderer Ansicht … Orlington wird seine Teilnahme an
 diesem doppelten Diebstahl und an diesem »Morde« niemals
 zugeben … Selbst dann nicht, wenn Sie ihm versprechen,
@@ -2216,7 +2216,7 @@ schon umstimmen … — Gehen wir also …«
 
 Wir gingen …
 
-… Ich mit dem unklaren Gefühl, daß wir erst am Beginn
+Ich mit dem unklaren Gefühl, daß wir erst am Beginn
 noch böserer Dinge ständen …
 
 <@pagebreak/>
@@ -2226,41 +2226,41 @@ noch böserer Dinge ständen …
 Ich muß hier etwas nachholen, um nachher nicht den
 Gang der Ereignisse durch Bemerkungen, die nicht recht in
 die Schilderung hineinpassen, aufzuhalten … — Thomas
-Orlington hatte auf seiner Jagdpartie aus jede Bealtitung
+Orlington hatte auf seiner Jagdpartie auf jede Begleitung
 verzichtet. Er hatte von Bombay nur zwei Inder, bejahrte
 und erfahrene Jäger, mitgenommen, die ihm empfohlen
 worden waren. Der Kapitän seiner Jacht und der Schiffsingenieur
 hätten den Jagdausflug sehr gern mitgemacht.
-Orlington verstand es, sie auf »ein andermal zu vertrösten.
+Orlington verstand es, sie auf ein andermal zu vertrösten.
 Nicht einmal der Kammerdiener James, auf den er sehr
 große Stücke hielt, war anfänglich in die wahren Absichten
-seines Herrn eingeweiht worden, der so ohne alles Aussehen
+seines Herrn eingeweiht worden, der so ohne alles Aufsehen
 und ohne jemand ins Vertrauen ziehen zu müssen sofort
-wieder das Städtchen heran verlassen hatte, nachdem seine
+wieder das Städtchen Chotar verlassen hatte, nachdem seine
 Expedition in die Wildnis eingedrungen war. Er selbst
-war nach Bombay verkleidet zurückgekehrt, Was sich dort
+war nach Bombay verkleidet zurückgekehrt. Was sich dort
 dann abgespielt, ist bekannt, —
 
 Wir wußten also auch ohne Sir Archibald Hasting,
 daß droben im Jagdlager in den Felsenhügeln nur zwei
 Europäer anwesend waren: Orlington und James! —
 
-Anstieg in den Hügeln war durchaus nicht beschwerlich.
+Der Anstieg in den Hügeln war durchaus nicht beschwerlich.
 Das Buschwerk war dünn, und weite Strecken der
 Felsen standen völlig kahl … — So konnten wir uns
 denn bis auf hundert Meter den drei Lagerfeuern nähern.
 Mit Hilfe von Haralds Fernglas sahen wir, daß die Feuer
-in einer kleinen, nach) Süden offenen Schlucht brannten …
+in einer kleinen, nach Süden offenen Schlucht brannten …
 
-Indianerromantik …,!!
+Indianerromantik …!!
 
 Das war’s wieder einmal …
 
-GCrinrwerungen an die Jugendtage, wo man mit brennenden
-Wangen die Kämpfe der Rothäute dorthin:102eux und
-dann im deutschen Walde seiner Rothaut gespielt hatte …
+Erinnerungen an die Jugendtage, wo man mit brennenden
+Wangen die Kämpfe der Rothäute verschlungen und
+dann im deutschen Walde selbst Rothaut gespielt hatte …
 — Wer als Junge keinen Sinn für diese Romantik besitzt
-ist kein rechter Junge …
+ist kein rechter Junge …!
 
 <@pagebreak/>
 Erinnerungen … — wie wir jetzt das Lager mit den
@@ -2268,10 +2268,10 @@ braunen Zelten dort vor uns beobachteten … Wie wir
 hinter einen Felsen geschmiegt dastanden und leise Bemerkungen
 tauschten, wie auch Sir Archibald nun flüsterte:
 
-»So habe ich einst in Afrika ein Lager räuberischer Wo
-Beduinen beschlichen … Nachher unser Angriff damals: achtete
-Tote, Mr. Harst! Ich zwei Streifschusses — ich war
-stolz!« —
+»So habe ich einst in Afrika ein Lager räuberischer
+Beduinen beschlichen … Nachher unser Angriff damals: achtzehn
+Tote, Mr. Harst! Ich zwei Streifschüsse — ich war
+so stolz!« —
 
 Gestalten bewegten sich um die Zelte … Im Hintergrunde
 der Schlucht vier graue enorme Tierkörper: vier
@@ -2281,27 +2281,26 @@ Dann verschwand Harald. Das Fernglas ließ er uns
 zurück …
 
 Sir Archibald meinte, wir beide hätten uns doch besser
-noch näher heranpirschen sollen. =«- Nun war’s zu spät …
+noch näher heranpirschen sollen. — Nun war’s zu spät …
 Wir mußten bleiben …
 
 Harst war kaum drei Minuten unterwegs, als ein Mann
-aus der Schwert hervor an den Rand der vorgelagerten
+aus der Schlucht hervor an den Rand der vorgelagerten
 Terrasse trat und einen Feuerbrand im Kreise schwenkte …
-—« eine ganze Weile …
+— eine ganze Weile …
 
 Sir Archibald hatte rasch einen nahen Baum erklettert
-
-… Ich) sah im Mondenlicht, wie er das Glas nach Süden,
+… Ich sah im Mondenlicht, wie er das Glas nach Süden,
 richtete und starr in die Wildnis hinabschaute …
 
 Dann kam er wieder herab …
 
-»Das Signal wurde beantwortet,« meinte er erregt,
-Meiner Ansicht nach aus der Gegend der Fangkäfige her …
+»Das Signal wurde beantwortet,« meinte er erregt.
+»Meiner Ansicht nach aus der Gegend der Fangkäfige her …
 Irgend etwas hat das zu bedeuten …«
 
-Aberimals beobachteten wir das Lager … Wir mußten
-ja unbedingt sehen, wenn Harald dort auftauchte
+Abermals beobachteten wir das Lager … Wir mußten
+ja unbedingt sehen, wenn Harald dort auftauchte …
 
 So verging eine halbe Stunde …
 
@@ -2309,73 +2308,72 @@ Der Mond verbarg sich hinter dünnen Wolkenschleiern.
 
 Sir Archibald schien beunruhigt …
 
-»Mr. Schraut. da stimitit etwa? nicht …! Es ist ausgeschlossen,
+»Mr. Schraut, da stimmt etwas nicht …! Es ist ausgeschlossen,
 daß Harst noch nicht …«
 
-Verstumimte …
+Verstummte …
 
-Wir schlafen leicht ersonnen …
+Wir schraken leicht zusammen …
 
 <@pagebreak/>
-»Schraken — zu spät zusammen …
-Huschende Gestalten …
-lästige Arme packten zu … Ein kurzes Ringen …
+Schraken — zu spät zusammen …
 
-— zwecklose Gegenwehr … — wir lagen im Grase — aus
+Huschende Gestalten …
+
+Kräftige Arme packten zu … Ein kurzes Ringen …
+— zwecklose Gegenwehr … — wir lagen im Grase — auf
 jedem drei Inder …
 
 Im Nu hatte man uns die Hände gefesselt … Im Nu
-die Augen verhüllten …
+die Augen verbunden …
 
 Man stieß uns vorwärts …
 
 Indianerromantik — eine verwehte Romantik …
 
 Ich konnte mich nur noch auf mein Gehör verlassen.
-Meine Ohren mußten mir die Augen ersehen … Aus
+Meine Ohren mußten mir die Augen ersetzen … Aus
 den Geräuschen kombinierte ich das, was rundum geschah.
 
 Nach kurzem Marsche hob man mich in den Tragkorb
 eines Elefanten … Band mir nun auch die Füße …
 Der Elefant erhob sich, ich wurde hin und her geschüttelt, fiel
 auf einen menschlichen Körper … fiel zur Seite — auf
-einen anderen … Hörte Sir Archibald flachen — und
-Danke ärgerliche Stirn:sich: »Das war mein beides Hühnerauge!!«
+einen anderen … Hörte Sir Archibald fluchen — und
+Harsts ärgerliche Stimme: »Das war mein bestes Hühnerauge!!«
 
 Also — beieinander waren wir drei — — wenigstens
 ein Trost …
-So begann der nächtliche Elefantenritt … Vielleicht
 
+So begann der nächtliche Elefantenritt … Vielleicht
 eine Stunde … Vor uns auf dem Halse des Dickhäuters
 der Mahut, der Lenker … Seine lauten Zurufe waren die
 einzigen menschlichen Laute … Die Zurufe galten dem
 zahmen Tiere. Als wir versucht hatten, uns flüsternd zu
-Unterhalten, war ein Wächter drohend dazwischengefahren
-… «- — Der Mann saß hinter dem Tragkorbe …
+unterhalten, war ein Wächter drohend dazwischengefahren
+… Der Mann saß hinter dem Tragkorbe …
 
-Eine Stunde etwa schaukelten wir so vorwärts
+Eine Stunde etwa schaukelten wir so vorwärts …
 
-»Dann kniete der elegant nieder … Wir wurden heraus
-
-gehoben … Man nahm mir die Fußfeisieln ab … Man
-führte? mich irgend ’ohin — eine Steintreppe empor, ausgetretene
+Dann kniete der Elefant nieder … Wir wurden herausgehoben
+… Man nahm mir die Fußfesseln ab … Man
+führte mich irgend wohin — eine Steintreppe empor, ausgetretene
 Stufen, sandig … Bäume rauschten … Ein
-
-Spymititvasser duftete … Dann offenbar eine Halle mit
-zerlegen nen Fliesen, kühlere Tust … Die Schnurrte der
+Sumpfwasser duftete … Dann offenbar eine Halle mit
+zerbrochenen Fliesen, kühlere Luft … Die Schritte der
 <@pagebreak/>
-Laute, die mich an den Armen hielten, und meine eigenen
+Leute, die mich an den Armen hielten, und meine eigenen
 Schritte klangen dumpf und hohl …
 
-Dann machen die Leute halt …
-
-Stile …
-
-Etwas wie schhleichende3 Tappen ringsum …
+Dann machten die Leute halt …
 
 Stille …
 
-Ich) stand und lauschte …
+Etwas wie schleichendes Tappen ringsum …
+
+Stille …
+
+Ich stand und lauschte …
 
 Das Tappen entfernte sich …
 
@@ -2385,18 +2383,18 @@ aus der Hand geschlagen hatte …
 
 Die Stimme …
 
-»Ihr dürft Euch niederseen — nichts anderes! Bewegt
+»Ihr dürft Euch niedersetzen — nichts anderes! Bewegt
 Euch nicht! Ihr steht dicht vor dem Abgrund des
-Dschungelpalastes von heran …«
+Dschungelpalastes von Chotar …«
 
 Abermals tappende Schritte …
 
-Dann — nichts mehr … Fahrt nicht das geringste
+Dann — nichts mehr … Auch nicht das geringste
 Geräusch …
 
 Ich mußte sehr genau hinhören, wenn ich neben mir
 das hastige Atmen eines Menschen vernehmen wollte …
-Jumwmerhin — ich hörte es … Und flüsterte:
+Immerhin — ich hörte es … Und flüsterte:
 
 »Harald …!«
 
@@ -2406,7 +2404,6 @@ Jumwmerhin — ich hörte es … Und flüsterte:
 
 »Auch ich gefangen … Man muß uns ständig beobachtet
 haben … Man überfiel mich ganz unerwartet … Im
-
 Moment war ich wehrlos …«
 
 »Wie Mr. Schraut und ich …« meldete sich da Sir
@@ -2415,39 +2412,38 @@ Archibald …
 Und fügte hinzu:
 
 »Haben Sie schon einmal etwas von Dschungelpalast
-von heran gehört, Mr. Harst?«
+von Chotar gehört, Mr. Harst?«
 
 »Nein, nichts …«
 
-»und — was tun wir nun, Mr. Harsts«
+»und — was tun wir nun, Mr. Harst?«
 
-» Zunächst setzen wir uns …«
+»Zunächst setzen wir uns …«
 
 <@pagebreak/>
-»Ganz 1 meine Meinung … — Hallo, hier ist ja eine
-Steinbank …
+»Ganz meine Meinung … — Hallo, hier ist ja eine
+Steinbank …«
 
-»Nein — Erde Treppenstufe,« — und Harald hatte roh!
--… auch ich hatte diese Steinerner gefunden, war froh, als
+»Nein — eine Treppenstufe,« — und Harald hatte recht
+… auch ich hatte diese Steinstufe gefunden, war froh, als
 ich erst saß …
 
-Wir rücken näher aneinander … Ganz nahe, mit
-drei Leidensö8gesährten …
+Wir rücken näher aneinander … Ganz nahe, wir
+drei Leidensgefährten …
 
-Ihre Weile schamlosen wir …
+Eine Weile schwiegen wir …
 
 »Eigentümliche Behandlung …« meinte Harst dann
-… — — »Anscheinend haben sich die Wächter doch sämtlich entfernt
+… »Anscheinend haben sich die Wächter doch sämtlich entfernt
 … Man hat uns die Füße nicht gefesselt, und die
-Stricke um meine Handgelenke sind höchst mangelhaft bei
-
-festigt … 4 werde in wenigen Minuten die Hände
-frei haben …
+Stricke um meine Handgelenke sind höchst mangelhaft befestigt
+… Ich werde in wenigen Minuten die Hände
+frei haben …«
 
 »Ich … habe sie schon frei!« lachte Sir Archibald
 unbekümmert …
 
-Ulk — er riß mir den Zeugfetzen von den Augen …
+Und — er riß mir den Zeugfetzen von den Augen …
 
 Ich blickte umher …
 
@@ -2461,9 +2457,9 @@ Wir selbst saßen in einer zerstörten weiten Halle …
 Die Morgendämmerung schaute durch zahllose Löcher des
 gewölbten Daches herein …
 
-Und — seine lebende Seele in der Nähe …
+Und — keine lebende Seele in der Nähe …
 
-Nr:;und …
+Niemand …
 
 Harst stand auf … Auch ihm hatte Sir Archibald die
 Fesseln abgenommen …
@@ -2474,30 +2470,29 @@ bis dicht an den Rand des Abgrundes heranreichte …
 
 Starr blickte er …
 
-Jenseits der wohl hundert Meter tiefen Schluck!
-türmten sich bewaldete felsige Zügel auf
+Jenseits der wohl hundert Meter tiefen Schlucht
+türmten sich bewaldete felsige Hügel auf …
 
-Ein in der Tat eigenartiges bis …
+Ein in der Tat eigenartiges Bild …
 
 <@pagebreak/>
-Und doch. Haralds Aufmerksamkeit konnte kaum dieser.
+Und doch. Haralds Aufmerksamkeit konnte kaum dieser
 seltsamen Szenerie gelten …
 
 Nein — da mußte etwas anderes sein, das seine Sinne
-so ganz gefangen Film … Was aber — was?!
+so ganz gefangen nahm … Was aber — was?!
 
 Und Sir Archibald und ich traten einen Schritt vor …
 
-Fenster uns in ebenso starrem Staunen vorwärts …
+Beugten uns in ebenso starrem Staunen vorwärts …
 
-»Jetzt … sahen wir …
+Jetzt … sahen wir …
 
-gaben, daß die Schlucht sich bogenförmig nach beiden
+Sahen, daß die Schlucht sich bogenförmig nach beiden
 Seiten um die Schloßruine fortsetzte, daß dort in der Tiefe
-die Treppe sollte, daß in diesem natürlichen Wallgraben
-ich Tierkörper bewegten, gelbbraune, gestreifte Riesenkatzen
-
-… Tiger … vier … fünf.
+die Treppe fehlte, daß in diesem natürlichen Wallgraben
+sich Tierkörper bewegten, gelbbraune, gestreifte Riesenkatzen
+… Tiger … vier … fünf …
 
 Da — — wußten wir, weshalb man uns so großmütig
 die Füße freigelassen hatte …
@@ -2510,40 +2505,37 @@ Und — auf der anderen?!
 Harst drehte sich bereits um …
 
 »Prüfen wir auch die Front des Schlosses …« — er
-ging voran … dem Eingang zu, der von mächtigen ge-.
+ging voran … dem Eingang zu, der von mächtigen
 geborstenen Steinsäulen flankiert war …
 
 Wir traten auf eine Terrasse hinaus … In der Mitte
-die Reste eines ungeheuren Springbrunnens, Marmorfiguren
+die Reste eines ungeheuren Springbrunnens. Marmorfiguren
 auf dem Rande der Einfassung, grün schillerndes Wasser
+… Fette Kröten glotzten uns von bemoosten Steinen an
+… Ein paar Wasserschlangen krochen schleunigst davon …
 
-… Fette Kröten glatten uns von bemoosten Steinen an
-… Ein paar Wasserschlangen krochen scoleunigst davon …
-
-Wir töten noch acht Schritte vorwärts … Dann …
+Wir taten noch acht Schritte vorwärts … Dann …
 sahen wir, daß dieses Gefängnis ringsum von einem Wallgraben
-anpacken war — aus Norden zu von der Schlucht,
+umgeben war — nach Norden zu von der Schlucht,
 hier nach Süden von einem künstlichen Graben, der mit
 dem halbkreisförmigen Abgrund in Verbindung stand …
 
 Die Tiger waren uns gleichsam gefolgt … Fünf
 Prachtexemplare … Und doch — — für uns die gefährlichsten
-V’ächter, die man sich denken konnte … Diese fünf
-Beritten stierten jetzt:u vun6 nach oben …
+Wächter, die man sich denken konnte … Diese fünf
+Bestien stierten jetzt zu uns nach oben …
 
-Sir Archibald meinte, indem er den Tigern zuwinkte
-
+Sir Archibald meinte, indem er den Tigern zuwinkte:
 <@pagebreak/>
 »Wir lassen uns auch durch Euch nicht imponieren …!
-Alles zu seiner Zeit! Noch dürsten die Halunken in der
-
+Alles zu seiner Zeit! Noch dürften die Halunken in der
 Nähe sein, die uns hier untergebracht haben … Alles zu
 seiner Zeit …!! Ein paar gut gezielte Felsbrocken, und
-Ihr seid …
+Ihr seid …«
 
 Daß Sir Archibald trotz seiner unnatürlichen Nerven in
-diesem .-Moment entsetzt zurückfuhr, konnte ich ihm wahrlich
-nicht versenken …
+diesem Moment entsetzt zurückfuhr, konnte ich ihm wahrlich
+nicht verdenken …
 
 Denn aus der Tiefe des Wallgrabens, etwa aus der
 Richtung, wo die fünf Bestien dicht beieinander standen,
@@ -2554,13 +2546,13 @@ Noch einer …
 Harst war bis dicht an den schroffen Rand der Terrasse
 herangetreten …
 
-konnte sich vor …
+Beugte sich vor …
 
 Sprang zurück, winkte uns, warf sich lang hin …
 
 Wir neben ihm … Köpfe über die Tiefe … Sahen
 — — zwei Männer an Tauen hängen — — gerade unter
-uns … so tief, daß die Tiger, wenn sich hätten Anlauf
+uns … so tief, daß die Tiger, wenn sie hätten Anlauf
 nehmen können, die beiden erreicht haben würden …
 
 Zwei Europäer …
@@ -2571,18 +2563,17 @@ Und der eine nun ärgerlich — drohend:
 Dein Gebrüll reizen?!«
 
 Bei Gott — — das konnte nur Thomas Orlington
-sein … /’
+sein …!
 
 Sir Archibald rief schon hinab:
 
 »Hallo — — keine Sorge!! Wirt hissen Sie empor …
-
 Die Schufte haben die Taue hier an der Terrassenbrüstung
 befestigt …!«
 
-Unsere Empfindvngaen bei« diesem Anblick der beiden
+Unsere Empfindungen bei diesem Anblick der beiden
 Männer, die wir für die Urheber dieses neuen Anschlags
-Gefangenen uns gehalten hatten, kann sich der Leser unschwer
+gegen uns gehalten hatten, kann sich der Leser unschwer
 selbst ausmalen …
 
 <@pagebreak/>
@@ -2595,10 +2586,10 @@ Erst den Diener James … Der arme Teufel war halb
 irrsinnig von Angst und übergenug schon durch diese Angst
 für seine »Ermordung« bestraft worden …
 
-Gelbsucht, spottend, unfähig ein Glied zu rühren — so.
+Gelbfahl, japsend, unfähig ein Glied zu rühren — so
 lag er nun auf der Terrasse …
 
-Dann beförderten wir den Milliardär nach oben…
+Dann beförderten wir den Milliardär nach oben.
 Thomas Orlington war die Ruhe selbst …
 
 Weiß der Himmel — kein Wunder, daß dieser Mann
@@ -2606,7 +2597,7 @@ im Kriege Unsummen verdient hatte! Kaltschnäuzig genug
 war er! Es genierte ihn in keiner Weise, daß wir, die er
 so unglaublich behandelt hatte, nun seine Retter geworden
 
-… »Im Gegenteil — er spielte noch vollendet Komödie —
+Im Gegenteil — er spielte noch vollendet Komödie —
 — streckte Harst die Hand hin … bedankte sich …
 
 Beneidenswerte Unverfrorenheit …!!
@@ -2615,96 +2606,97 @@ Harald fixierte ihn scharf …
 
 »Und sonst haben Sie nichts zu sagen, Mr. Orlington?!«
 
-»Ich »wüßte nicht …« Er schaute sehr kühl drein …
+»Ich wüßte nicht …« Er schaute sehr kühl drein …
 Haralds Ton schien ihm nicht zu behagen …
 
-»Zunächst,« meinte Harald, «— wissen Sie denn, wer
-wir sind … Lr
+»Zunächst,« meinte Harald, »— wissen Sie denn, wer
+wir sind …?!«
 
-»(Gewiß — die braunen Schufte haben’s mir erzählt
-
-… trösteten wuchs« wir würden hier berühmte Gesellschaft
-vorfinden. die Detektive Harst und Schraut und den belügen
+»Gewiß — die braunen Schufte haben’s mir erzählt
+… trösteten uns, wir würden hier berühmte Gesellschaft
+vorfinden, die Detektive Harst und Schraut und den Kellner
 Joe Billwaker …«
 
 »und — Sie haben uns nicht in die Tigerfalle gelockt,
 Mr. Orlington?«
 
-»Wie — Ich?! … — Mr. Harst, soll das ein schlechter
+»Wie — ich?! … — Mr. Harst, soll das ein schlechter
 Scherz sein?! — Ich und James gerieten dort in den Käfig
-Sie etwa auch?!«
+— Sie etwa auch?!«
 
-Weise alle Master äußerst verblüffte Gesichter …
+Wir alle machten äußerst verblüffte Gesichter …
 
-Wir merkten hier war irgend etwas nicht in Ordnung.
+Wir merkten, hier war irgend etwas nicht in Ordnung.
 
-hielt van!t. rasch:
+Harald fragte rasch:
 
 <@pagebreak/>
 »Waren es denn nicht die Mitglieder Ihrer Jagdexpedition,
 die uns hier …«
 
-»Feine Rede, Mr. Harst …!! Das waren Räuber, Banditen,
-die meine braven Leute überwältigt hatten und …
+»Keine Rede, Mr. Harst …! Das waren Räuber, Banditen,
+die meine braven Leute überwältigt hatten und …«
 
-»Ja — aber … aber »Sie und James sind doch im
-Eindecker von Bombay …
-»mit — — Eindecker?! — Ja — was heißt das alles
+»Ja — aber … aber Sie und James sind doch im
+Eindecker von Bombay …«
 
+»Wir — — Eindecker?! — Ja — was heißt das alles
 denn nur, Mr. Harst?!«
 
-Harald lächelte plötzlich … Ein kühl-ablehnende-Lächeln
-…
+Harald lächelte plötzlich … Ein kühl-ablehnendes
+Lächeln …
 
 »Sie lügen, Mr. Orlington! Und mich zu belügen,
 ist doch nicht so ganz einfach … Ich bin hellsichtig genug,
-um mir aus alledem den rechten Vors machen zu können
-
-— Auf die zweifelhafte ohne Ihrer Gesellschaft der
-Bitte ich. bis Sie so vernünftig sind und der Wahrheit die
+um mir aus alledem den rechten Vers machen zu können
+… — Auf die zweifelhafte Ehre Ihrer Gesellschaft verzichte
+ich, bis Sie so vernünftig sind und der Wahrheit die
 Ehre geben … Komm, mein Alter … Kehren wir in
 die Halle zurück … Dort sind wir dann wenigstens allein!«
 
-Und er schritt davon … Jch4 zögernd hinterdrein …
+Und er schritt davon … Ich zögernd hinterdrein …
 
 Wir setzten uns wieder auf die oberste Stufe der Treppe,
-die in den Abgrund hinabging … Wir saßen da und Lachen
+die in den Abgrund hinabging … Wir saßen da und dachten
 Über die letzten Vorgänge nach …
 
-»Wo … liegt die Wahrheit?!« fragte im nach einer
-Weile. »alles ist so unalaunblich verworren … Ich …
+»Wo … liegt die Wahrheit?!« fragte ich nach einer
+Weile. »alles ist so unglaublich verworren … Ich …«
 
-»Durchaus nicht verworren, lieber ab;er … Orlington
-schwindelt zur Hälfte mir … Natürlic’ ist er in Bombay
-gewesen, natürlich hat er auch) den lassen und die
+»Durchaus nicht verworren, lieber Alter … Orlington
+schwindelt zur Hälfte nur … Natürlich ist er in Bombay
+gewesen, natürlich hat er auch den Koffer und die
 Juwelen seiner Frau verschwinden lassen, ist im Eindecker
 mit James entflohen … Aber dann beginnt das Unbegreifliche
 … Dann scheint er tatsächlich mit James in dieselbe
-Tigerfalle geraten zu sein lasse wir … — Ich Gabe zu,
-mein Alter, ich; bin nun selbst vorläufig noch ein wenig
-verwirrt … Gönne mir ein paar Minuten Nahe … Ich
-18 mir die Dinge mal gründlich durch den Kopf gehen
+Tigerfalle geraten zu sein wie wir … — Ich gebe zu,
+mein Alter, ich bin nun selbst vorläufig noch ein wenig
+verwirrt … Gönne mir ein paar Minuten Ruhe … Ich
+muß mir die Dinge mal gründlich durch den Kopf gehen
 lassen …«
 
-Und er erhob sich ins stieg vorsichtig hie Tote hinab
-
-Ab vorsichtig, denn die hinter unten 1 der linke waren
+Und er erhob sich und stieg vorsichtig die Treppe hinab
+… sehr vorsichtig, denn die Stufen unten in der Tiefe waren
 <@pagebreak/>
 eine beredte Warnung, da sie nur noch einen Trümmerhaufen
 bildeten, der für die Riesenkatzen nicht zu erklimmen war …
-mda stand er einsam dort inmitten der Schlucht
-Wände
-Regungslos … Mehr Statue als Mensch … —
-zehn Minuten verstrichen …
-schaute mich; um …
 
-Erhob mich halb …! —
+Dann stand er einsam dort inmitten der Schluchtwände
+…
+
+Regungslos … Mehr Statue als Mensch … —
+
+zehn Minuten verstrichen …
+
+Ich schaute mich um …
+
+Erhob mich halb …
+
 Auf der Terrasse draußen im ersten Sonnenschein Sir
 Archibald und Orlington und James … Der englische
-
 Lordsohn redete eifrig auf die beiden ein … Wahrscheinlich
 machte er ihnen klar, daß Lügen Harald gegenüber kurze
-Beine hätten und daß es eine Torheit sel, wenn wir fünf,
+Beine hätten und daß es eine Torheit sei, wenn wir fünf
 Gefangene nicht in Eintracht unsere Rettung und Befreiung
 vorbereiten wollten …
 
@@ -2714,36 +2706,36 @@ Seine Körperhaltung drückte kühlste Ablehnung aus …
 Sir Archibald machte plötzlich einen ironisch tiefen Bückling
 und kam dann in die Halle hinein, nickte mir zu …
 
-Schraut, der Mann hat einen Vogel — einen
-au89: wackeren Vogel …! Er leugnet alles — alles! So
-ein Idiot!! — Na — mit der Zeit wird sich sein Gehirnzellen
+»Schraut, der Mann hat einen Vogel — einen
+ausgewachsenen Vogel …! Er leugnet alles — alles! So
+ein Idiot!! — Na — mit der Zeit wird sich sein Gehirnkoller
 wohl legen …! Ich habe ihm nun mitgeteilt, wer
-ich in Wahrheit bin, und daß seine Ihnen den meinen wahrscheinlich
+ich in Wahrheit bin, und daß seine Ahnen den meinen wahrscheinlich
 die Stiefel geputzt haben und daß seine Milliarden
-mir so viel imponieren — — so viel!!! — Ein kompletter
+mir so viel imponieren — — so viel!! — Ein kompletter
 Idiot!!«
 
 »Was ich nicht unterschreiben möchte, Sir Hasting,« sagte
 ich ernst. »Orlington ist doch schließlich ein kaufmännisches
-(Genie, und ein solcher Mann …
+Genie, und ein solcher Mann …«
 
 Da trat Harst zu uns … Leider noch immer mit sehr
 versonnenem Gesicht … Fraglos hatte auch diese Denkarbeit
-auf 6x1 Treppe die Sache Mk! gefördert …
+auf der Treppe die Sache nicht gefördert …
 
-Und im selben Art: Tat kam auch James von der
-wachrief Seite berveigeluutien …
+Und im selben Moment kam auch James von der
+anderen Seite herbeigelaufen …
 
-»Dir. Harst« er dienerte ihrer … »Mr. Harst,
+»Mr. Harst …« er dienerte tief … »Mr. Harst,
 <@pagebreak/>
 mein Herr möchte Sie ein paar Augenblicke sprechen —
 allein …«
 
-»Bedaure … — — Schraut muß dabei sein …« erklärte
+»Bedaure … Schraut muß dabei sein …« erklärte
 Harald sehr bestimmt …
 
 »Wenn’s nicht anders geht, Mr. Harst … Bitte …
-Ich bleibe dann hier bei Sir Hasting …
+Ich bleibe dann hier bei Sir Hasting …«
 
 »Scheren Sie sich zum Teufel,« rief Archibald hochmütig
 …
@@ -2751,39 +2743,39 @@ Ich bleibe dann hier bei Sir Hasting …
 Und James trat bescheiden zur Seite. Wir gingen auf
 die Terrasse hinaus. Der schlanke, kräftige Orlington schaute
 uns unsicher an … Es war jedoch nichts Falsches in diesem
-Blick, nur Verlegenheit.« Mit einem Freimut, der sehr für
+Blick, nur Verlegenheit. Mit einem Freimut, der sehr für
 ihn einnahm, sagte er nun:
 
-»Meine Herren, helfen Sie mir lachte, diese Geschichte
-wieder einzurenken. Sir Hasting hat Wir erzählt, daß Sie,
+»Meine Herren, helfen Sie mir bitte, diese Geschichte
+wieder einzurenken. Sir Hasting hat mir erzählt, daß Sie,
 Mr. Harst, die Motive meiner … unsinnigen Streiche erkannt
 haben … Es stimmt! ich liebe meine Frau über
 alles, und nur die Furcht, sie zu verlieren, hatte mir den
 Gedanken eingegeben, Tschergin in Armut zu belassen …
 — Eifersucht macht blind … Ich bedauere tief, daß ich …«
 
-»gaben Sie und James wirklich vor uns in der Tigerfalle
-»gesteckt ?- fiel Harald ihm ins Wort
+»Haben Sie und James wirklich vor uns in der Tigerfalle
+gesteckt?« fiel Harald ihm ins Wort …
 
-»Ja
+»Ja …«
 
 »Und weshalb hat man Sie und Ihren Diener in den
 Wallgraben gehängt?«
 
-»Ab sollte den Staunen Schurken das Versteck des
+»Ab sollte den braunen Schurken das Versteck des
 Koffers verraten, in dem sich ja auch meiner Frau Juwelen
-befinden …
+befinden …«
 
-»las dachte im mir … —. Sie hingen dort schon
+»Das dachte ich mir … — Sie hingen dort schon
 einige Stunden?«
-« da — etwa vier Stunden … Immer wieder fragten
 
-uns die Halunken, ob wir nicht angeben wollten, iwo der
-Doggen verbergen. Zum Glück hatte James, dieser Angsthase,
-keine Ahnung, wo ich den Koffer kurz nach der Tonkins
-Kingston hatte … Sonst würde er …«
+»Ja — etwa vier Stunden … Immer wieder fragten
+uns die Halunken, ob wir nicht angeben wollten, wo der
+Koffer verbergen. Zum Glück hatte James, dieser Angsthase,
+keine Ahnung, wo ich den Koffer kurz nach der Landung
+hingetan hatte … Sonst würde er …«
 
-»Sir. wo ist der lassen?“«
+»Und — wo ist der Koffer?«
 
 <@pagebreak/>
 Orlington lächelte schwach …
@@ -2791,13 +2783,13 @@ Orlington lächelte schwach …
 »Im Eindecker, Mr. Harst … Ich habe ihn gar nicht
 in den Dschungel getragen, wie James und der Pilot
 glaubten … Ich habe ihn in eine leere Kiste unter ein
-paar Flaggen gelegt …
+paar Flaggen gelegt …«
 
-»Und der Pilot? Max es ein Inder? Wo ist der
-geblieben 2«
+»Und der Pilot? War es ein Inder? Wo ist der
+geblieben?«
 
 »Es war ein Europäer, Mr. Harst … Er wurde mit
-uns zugleich in den Käfig eingesperrt. Als. wir uns dann
+uns zugleich in den Käfig eingesperrt. Als wir uns dann
 gefangen gaben, wurde er von uns getrennt …«
 
 »Getrennt!« Harald fragte es in ganz merkwürdig-gespanntem
@@ -2817,29 +2809,29 @@ der Lichtung, wo wir landeten …«
 
 Der Milliardär meinte kleinlaut:
 
-»wir sind eingeschlossen, Mr. Harst — die Tiger, …!!«
+»wir sind eingeschlossen, Mr. Harst — die Tiger …!!«
 
-»Ab bat …! Es gibt ein sehr einfaches Mittel, uns
+»Ah bah …! Es gibt ein sehr einfaches Mittel, uns
 zu befreien … An dem alten Gemäuer wachsen genug
 zähe Lianen … Wir flechten ein langes Tau … Helfen
 Sie mir … Auch James und Sir Archibald Hasting können
 sich nützlich machen …«
 
-eilig.;Ton rief die beiden herbei …
+Orlington rief die beiden herbei …
 
-»Gut und Ich werden derweil eine passende Stelle
-am Wut haben auswählen …« erklärte Harald, »Komm,
-mein aber … C« muß ja drüben in den Büschen eine
-Schlobebriücue geben, die selbst die Elefanten getragen hat …
+»Schraut und Ich werden derweil eine passende Stelle
+am Wallgraben auswählen …« erklärte Harald, »Komm,
+mein Alter … Es muß ja drüben in den Büschen eine
+Schiebebrücke geben, die selbst die Elefanten getragen hat …
 Also — suchen wir …«
 
-Wir schritten langsam am nannte des Grabens dahin.
-Unten suchen die Tiger zu uns empor …
+Wir schritten langsam am Rande des Grabens dahin.
+Unten äugten die Tiger zu uns empor …
 
-Harst flüsterte« »Lieber Alter, wenn ich nur erst hinter
+Harst flüsterte: »Lieber Alter, wenn ich nur erst hinter
 <@pagebreak/>
 den Kern der Sache käme … Hier spielen Dinge mit, die
-uns noch verborgen geblieben sind … in weiß nicht —
+uns noch verborgen geblieben sind … Ich weiß nicht —
 ich traue diesem Hasting nicht mehr so ganz … Erinnere
 Dich: er sagte, er habe zufällig erfahren, daß Orlington und
 James mit einem Flugzeug fliehen wollten — zufällig!
@@ -2849,7 +2841,7 @@ haben. Er hatte ja in der Zwischenzeit das Hotel Esplanade
 nicht verlassen … Und dann: auch diese unsere Gefangenschaft
 hier! Keine Wächter mehr …! Und nur die Tiger!
 Auch nur sensationelle Dekoration …! Schließlich: Sir
-Hastings Armsesseln waren am lockersten! Er schnürte unsere
+Hastings Armfesseln waren am lockersten! Er schnürte unsere
 Fesseln auf …!
 
 So türmte er kleine Beweise gegen Sir Hasting zum
@@ -2859,96 +2851,86 @@ Blieb plötzlich stehen, deutete auf den Rand des Wallgrabens
 …
 
 »Bitte — das Unkraut ist niedergedrückt … Man sieht
-die Spuren von Balken … Hier hat die Sciebcbrücke
+die Spuren von Balken … Hier hat die Schiebebrücke
 gelegen …«
 
 Er spähte über den Graben, der hier kaum vier Meter
 breit war, hinüber — in das Gestrüpp … Und da erkannte
 auch ich hinter geknickten Zweigen rohe Baumstämme, durch
-Querhölzer verbunden: die Schiebebrüce! —
+Querhölzer verbunden: die Schiebebrücke! —
 
 Als wir dann eine halbe Stunde später das Pflanzentau,
 das an einem Ende mit einem langen schmalen Stein
 beschwert war, über den Wall schleuderten, als es nach mehrfachen
-Versuchen sich im Wurzelwerk der Büsche verging, da
-starrte Harald rasch hinüber … Ebenso rasch hatte er die
+Versuchen sich im Wurzelwerk der Büsche verfing, da
+turnte Harald rasch hinüber … Ebenso rasch hatte er die
 auf plumpen Rädern bewegliche Brücke, an die er das Tau
 befestigte, mit unserer Hilfe Über den tiefen Graben gezogen,
 so daß wir vier anderen bequem Über die Brücke den jenseitigen
-Rand erreichen konnten …— Wir waren frei … Und
+Rand erreichen konnten … — Wir waren frei … Und
 schlugen nun die Richtung nach Süden ein … Sir Archibald
-ging neben mir … Nach einer Weile fragte er sein
+ging neben mir … Nach einer Weile fragte er sehr
 <@pagebreak/>
 vorsichtig, ob Orlington uns nun verraten habe, wo der
 Koffer verborgen sei …
 
 In demselben Moment drehte Harst sich um … Er
-mit seinem seinen Gehör hatte Wort für Wort verstanden …’.
+mit seinem feinen Gehör hatte Wort für Wort verstanden …
 
 »Der Koffer, Sir Hasting,« rief er scheinbar gut gelaunt,
-»liegt in vor Höhlung einer »us8gesaulten, abgestorbenen Bahndammes
-… Sie wissen wohl, daß jeder Sohn sehr schnell
+»liegt in der Höhlung eines ausgefaulten, abgestorbenen Soka-Baumes
+… Sie wissen wohl, daß jeder Soka sehr schnell
 wächst, dann abstirbt, innen hohl wird und schließlich zusammenbricht.
-Aus seinen Wurzeln sprießt ein neuer Sohn
-
+Aus seinen Wurzeln sprießt ein neuer Soka
 hervor … — Hoffentlich finden wir auch die Flugzeuge
 noch vor … Dann können wir nachmittags in Bombay
 sein, wo ich die Polizei schon beruhigen werde … Mr.
-
 Orlingtons kleine Eifersuchtsentgleisungen sollen rasch vergessen
-sein.«
-Orlington und James warten sich unsichere Blicke zu
+sein …«
+
+Orlington und James warfen sich unsichere Blicke zu
 … Dann schien dem Milliardär die Wahrheit zu dämmern
 … Sein Gesicht wurde finster … Aber wortlos schritt er
 neben seinem Diener weiter …
 
-gebe
+<h2>5. Kapitel.</h2>
 
-». Kapitel,
-
-Sir Verbiß: ld war mit einem Male glänzender Daune«
-
-… Er erzählte von seinen Löwenjagden in Afrika … E€
-
-unterlag keinem weise!, daß er tatsächlich das Innere
-
-Afrikas sehr genau kannte. Harald spielte gleicht: 18 den
+Sir Archibald war mit einem Male glänzender Laune
+… Er erzählte von seinen Löwenjagden in Afrika … Es
+unterlag keinem Zweifel, daß er tatsächlich das Innere
+Afrikas sehr genau kannte. Harald spielte gleichfalls den
 vollkommen Harmlosen …
 
-Und dann — geschah daß, was die Sachlage etwas
-
+Und dann — geschah das, was die Sachlage etwas
 klärte
 
-Reim Abstieg von einem Felsenhügel rutschte Sir Hasting
+Beim Abstieg von einem Felsenhügel rutschte Sir Hasting
+aus, sank nach vorwärts und blieb stöhnend liegen …
 
-auf nach vorwärts und blieb stöhnend liegen …
-
-Y4 habe mir den Fuß verrenkt,« klagte er, als ob
-
-unertwigliche- So, weiter verbeißen müßte. »Mr.
-
-»Mr fragen Sie mich dort auf jenen Felsen … Stirn
+»Ich habe mir den Fuß verrenkt,« klagte er, als ob
+er sich unerträgliche Schmerzen verbeißen müßte. »Mr.
+Harst, tragen Sie mich dort auf jenen Felsen … Ich bin
 <@pagebreak/>
-unfähig zu marschieren … Holen Sie mich mit dem Gw
-Doppeldecker hier ab … Wenn Sie einen Ast mit einem Taschen
-Tuch der aufstellen, finden Sie mich von …«
+unfähig zu marschieren … Holen Sie mich mit dem
+Eindecker hier ab … Wenn Sie einen Ast mit einem Taschentuch
+hier aufstellen, finden Sie mich schon …«
 
 Oh — er war ein glänzender Komödiant! Als Harst
-den Fuß untersuchte, stöhnte er so echt, daß Orlington mitdv
-seidig meinte, es wäre wohl am richtigsten, Sir Hastings
+den Fuß untersuchte, stöhnte er so echt, daß Orlington mitleidig
+meinte, es wäre wohl am richtigsten, Sir Hastings
 Vorschlag anzunehmen …
 
 Und Harald — der war ein noch besserer Komödiant …
 
-So wurde Sir Archibald denn wirklich auf dem Fels
-Block gebettet, wo kein Raubtier ihm etwas anhaben konnte
+So wurde Sir Archibald denn wirklich auf dem Felsblock
+gebettet, wo kein Raubtier ihm etwas anhaben konnte
 und wo ihm auch die Büsche Schatten spendeten …
 
-Nach freundlichen Abschied zogen wir vier weiter. An
+Nach freundlichem Abschied zogen wir vier weiter. An
 einem langen Ast wehte Haralds Mückenschleier über dem
 Felsblock …
 
-Wir verließen die fleißigen Hügel und drangen in den
+Wir verließen die felsigen Hügel und drangen in den
 eigentlichen Dschungel ein … Es wurde heißer und heißer
 … Und — wir vier unbewaffnet … Wir vier uns vollständig
 auf Haralds Ortssinn verlassend in dieser undurchdringlichen
@@ -2959,32 +2941,31 @@ im Eiltempo voraus, um die Beute in Sicherheit zu bringen.«
 Orlington blieb stehen … »Wie — Sie meinen, daß
 er …«
 
-»- — … Ganz gesund ist! Von Verrenkung oder Sehnenzerrung
+»… ganz gesund ist! Von Verrenkung oder Sehnenzerrung
 keine Spur, Mr. Orlington … Und wahrscheinlich
 ist dieser Sir Archibald niemals ein Lordsohn gewesen,
 sondern nur ein Abenteurer, der im Esplanade auf eine
 gute Gelegenheit wartete, einen ganz großen Fischzug zu
-machen … Er hat fraglos Ihre Leute von der Jagdexp6C-dition
+machen … Er hat fraglos Ihre Leute von der Jagdexpedition
 durch einen Helfershelfer bestechen lassen … Er hat
 befohlen, daß man Sie und James in den Wallgraben
-hing … Als Sie nicht verrieten, wo der kostbare Master
+hing … Als Sie nicht verrieten, wo der kostbare Koffer
 lag, hat er uns beide befreit — aus der Tigerfalle, indem er
 damit rechnete, daß wir bei Ihnen mehr Glück haben würden,
-wie es denn auch gekommen ist … eßbt eilt er auf kürzestem
-Wege noch jener Lichtung, ’wird den allen Baum suchen …
-
+wie es denn auch gekommen ist … Jetzt eilt er auf kürzestem
+Wege nach jener Lichtung, wird den hohlen Baum suchen …!
 <@pagebreak/>
 Viel Glück, Sir Archibald!! Wir kommen noch zur rechten
 Zeit …! Immer noch! Nur werden wir einen Umweg
 machen und uns von Süden anpirschen … Sie und James,
-Mr. Orlingtovn, bleiben zurück … Es kann zu Schießereien
+Mr. Orlington, bleiben zurück … Es kann zu Schießereien
 kommen … Außerdem — Schraut und ich arbeiten am
-Üiebsten allein 1«
+liebsten allein …!«
 
 Gleich darauf stießen wir auf eine breite Fährte …
-Sie führte uns … zu dem Tigerkäfig … Aber die Bestie.
+Sie führte uns … zu dem Tigerkäfig … Aber die Bestie
 war inzwischen aus der anderen Abteilung entfernt worden.
-Harald suchte im nahen Gestrüpp und fand auch wirklich seine,
+Harald suchte im nahen Gestrüpp und fand auch wirklich seine
 Clement, die man ihm mit der Stange aus der Hand geschlagen
 hatte …
 
@@ -3001,16 +2982,15 @@ daß die Entscheidung nahte …
 
 Haralds Ortssinn bewährte sich glänzend …
 
-Wir waren längst wieder nordwärts eingeschwenkt, es
+Wir waren längst wieder nordwärts eingeschwenkt, so
 daß wir von Süden uns der Lichtung näherten …
 
 Hörten Stimmen …
 
-Harst winkte Orlington und James zurückzubleiben(, gab
+Harst winkte Orlington und James zurückzubleiben, gab
 mir die Clement …
 
 »Nur im äußersten Notfall, mein Alter …!« flüsterte
-
 er …
 
 Wir schlichen weiter …
@@ -3028,53 +3008,53 @@ Mit bittender Gebärde rief sie jetzt:
 
 <@pagebreak/>
 »Joe, wenn Du mich lieb hast: wir wollen fliehen …
-Brief so lange es noch Zeit ist …! Wenn Harst und die
+Fliehen, so lange es noch Zeit ist …! Wenn Harst und die
 anderen den Indern entgehen, wenn sie nicht abgefaßt
 werden, dann … sind wir verloren! — Joe sei klug …!
-Gib das Burg auf …!! Du findest den Koffer doch nicht!
+Gib das Suchen auf …! Du findest den Koffer doch nicht!
 Harst hat Dich fraglos absichtlich belogen …«
 
 Sie war noch näher an ihn herangetreten …
 
-So gab sie uns die Aussicht auf die Gondveliür frei! …
+So gab sie uns die Aussicht auf die Gondeltür frei …
 
 Und — in der kleinen offenen Tür die Leiche eines
-Mannes ohne Kopf … Ein entsetzlicher Anbiüick … Der
-Hals nur noch blutige Fleischlosen …
+Mannes ohne Kopf … Ein entsetzlicher Anblick … Der
+Hals nur noch blutige Fleischfetzen …
 
-Wir lief der kalte Schweiß über das Gesicht … Und
-—« — Harald da mit vier langen Säßen vorwärts, ich
+Mir lief der kalte Schweiß über das Gesicht … Und
+— — Harald da mit vier langen Säßen vorwärts, ich
 hinterdrein … Hasting wollte fliehen, stolperte … Ich
 über ihm … Die Clement hielt ihn in Schach …
 
 Die blonde Frau aber war vor Harst in die Knie
 gesunken …
 
-Ein Trostloses schluchzen kam über ihre Lippen …
-Mischte sich in das surrende Geräusch eines Fliegers … hoch
+Ein trostloses Schluchzen kam über ihre Lippen …
+Mischte sich in das surrende Geräusch eines Fliegers … Hoch
 am Himmel ein Eindecker — unser Eindecker — — im
 Gleitflug jetzt herabschießend …
 
 Und die Frau — jammernd, flehend:
 
 »Mr. Harst, haben Sie Erbarmen … Joe hätte niemals
-diesen wahnwitzigen Prau entworfen, wenn er nicht!
+diesen wahnwitzigen Plan entworfen, wenn er nicht
 so unendlich verbittert gewesen wäre, weil sich der Verdacht
-gegen ihn gelenkt hatte …! Niemals!! Er ist kein Wege«
-Brecher!! sich bin seine Frau, Mr. Harst, und wir haben
-bisher ehrlich unser Wirt verdient … Er heißt nicht Joe
-Billyaker … Er ist tatsächlich Lord Hastings dritter Sohn
-… Haben Sie Erbarmen …! Der Flüunzengsühre dort
-starb durch eigene Schuld … Ein elegant hat ihn so zügellose!
-t, den er aus Ucbeiimtt reizte. -«
+gegen ihn gelenkt hatte …! Niemals!! Er ist kein Verbrecher!!
+Ich bin seine Frau, Mr. Harst, und wir haben
+bisher ehrlich unser Brot verdient … Er heißt nicht Joe
+Billwaker … Er ist tatsächlich Lord Hastings dritter Sohn
+… Haben Sie Erbarmen …! Der Flugzeugführer dort
+starb durch eigene Schuld … Ein Elefant hat ihn so zugerichtet,
+den er aus Übermut reizte …«
 
-Palast lehnte Sir Aichivbald an …
+Harald schaut Sir Archibald an …
 
-»Zeichen Sie auf …! Ich halte Sie trotz allem für einen
-anstän’gen Menschen … Ich kann es begleiten, daß Sie, bei
-Sie als Kellner zwei Jahre sich tadellos geführt haben. in
+»Stehen Sie auf …! Ich halte Sie trotz allem für einen
+anständigen Menschen … Ich kann es begreifen, daß Sie, der
+Sie als Kellner zwei Jahre sich tadellos geführt haben, in
 <@pagebreak/>
-vorschnellen Entschluß sich fremdes Gut aneignen wollten.«
+vorschnellem Entschluß sich fremdes Gut aneignen wollten.«
 
 »Nur um Mittel zur Flucht zu haben!« rief Frau Jenny
 Hasting wiederum …
@@ -3082,29 +3062,28 @@ Hasting wiederum …
 Sir Archibalds offene ehrliche Augen ruhten fest in
 denen Harsts …
 
-»Ja — tc: habe übereilt gehandelt — — genau wie Orlington!
-Seien Sie gerecht, Mr. längst …! Was einem
+»Ja — ich habe übereilt gehandelt — genau wie Orlington!
+Seien Sie gerecht, Mr. Harst …! Was einem
 Milliardär verziehen wird, muß auch mir nachgesehen
-werden!« …
+werden!«
 
 Eine Handbewegung Haralds — ein Kopfnicken …
 Und das Ehepaar verschwand im weiten Dschungel … —
 
 Der Eindecker landete … Die drei Polizeibeamten aus
-heran kamen zu spät … — —
+Chotar kamen zu spät … — —
 
 In Bombay hatte Harst dann mit der Polizei einen
 bösen Strauß auszufechten. Man wollte Orlington durchaus
 in Haft nehmen …
 
-Abends sieben Uhr lichtete die Luxzusjacht Hudson die
-
-unser und dampfte ins offene Meer hinaus … Wir waren
+Abends sieben Uhr lichtete die Luxusjacht Hudson die
+Anker und dampfte ins offene Meer hinaus … Wir waren
 als Gäste an Bord … Und mit der Hudson haben wir
-dann unser nächstes Abenteuer erlebt — — …: Das See
-
+dann unser nächstes Abenteuer erlebt — — …: Das
 Geheimnis des Perlentauchers, bei dem auch Sir Archibald
 noch eine besondere Rolle spielen sollte …
 
-nächsten Band:
-Das Geheimnis des Perlentauchers,
+Nächster Band:
+
+__Das Geheimnis des Perlentauchers.__
