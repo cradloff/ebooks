@@ -6,7 +6,7 @@
 
 Die Geschichte der Familienkleinodien des Fürsten
 Tschergin hatte, wie der Leser noch in der Erinnerung haben
-dürfte, eine Überaus befriedigende Lösung gefunden. Generalkonsul
+dürfte, eine überaus befriedigende Lösung gefunden. Generalkonsul
 Urtschoff hatte uns gebeten, über die Vorgänge
 der ereignisreichen Nacht Stillschweigen zu bewahren —
 eigentlich etwas Selbstverständliches, denn allen Beteiligten
@@ -18,12 +18,12 @@ auf die Jacht Hudson zu schaffen — für alle Fälle!
 
 »Das internationale Gaunertum, das ja auch hier in
 der Weltstadt Bombay reichlich vertreten ist, bekommt stets
-Überraschend schnell Kenntnis von derartigen lohnenden
+überraschend schnell Kenntnis von derartigen lohnenden
 Objekten,« hatte er seinen Vorschlag begründet. »Eine Jacht
 wie die des Gatten Ihrer Kusine ist der sicherste Tresor für
 solche Pretiosen …«
 
-»Zumal, warf Frau Wera Orlington ein, »an Bord
+»Zumal,« warf Frau Wera Orlington ein, »an Bord
 der Hudson sich ein kleiner ganz moderner Panzerschrank
 mit Kombinationsschloß befindet. — Sergius, wir täten
 gut, die Juwelen sofort dorthin zu bringen.«
@@ -32,7 +32,7 @@ So fuhren wir denn zu sechs Personen zum Hafen
 hinab, wo die elegante Jacht am Kai lag. Die Familienkleinodien
 waren in einen mittelgroßen Lederkoffer eingeschlossen,
 den der Fürst während der Fahrt auf dem Schoße
-hielt
+hielt.
 
 Außer Frau Orlington uns beiden und dem Fürsten
 <@pagebreak/>
@@ -48,7 +48,7 @@ Frau Wera stellte die acht Buchstaben des Kombinationsschlosses
 aus das Wort »*Kingland*« ein und öffnete
 den Panzerschrank.
 
-inzwischen hatte Sergius Tschergin den Koffer aufgeschlossen
+Inzwischen hatte Sergius Tschergin den Koffer aufgeschlossen
 und den groben, schäbigen Sack, im dem die
 Kleinodien noch ruhten, herausgenommen …
 
@@ -57,7 +57,7 @@ aus …
 
 Wir alle schnellten herum …
 
-Er stand tief gebeugt Über den auf einem Sessel liegenden
+Er stand tief gebeugt über den auf einem Sessel liegenden
 Sack da und hatte mit der Rechten … einen gewöhnlichen
 Feldstein hervorgeholt …
 
@@ -80,7 +80,7 @@ Er war völlig niedergeschmettert … Die Kleinodien
 hätten ihm wieder ein unabhängiges, standesgemäßes Leben
 ermöglicht … Nun war er wieder bettelarm, der russische
 Fürst, den wir wegen seiner liebenswürdigen Umgangsformen
-so sehr in unser Herz geschlossen hatten
+so sehr in unser Herz geschlossen hatten.
 
 <@pagebreak/>
 Harald beruhigte ihn …
@@ -123,7 +123,7 @@ Elemente sich befinden?«
 
 »Nein, bestimmt nicht, Herr Harst … Ein Luxushotel
 wie das Esplanade ist in der Wahl selbst der Küchenbediensteten
-außerordentlich vorsichtig. Wir haben Jeden, der neu
+außerordentlich vorsichtig. Wir haben jeden, der neu
 <@pagebreak/>
 eingestellt wurde, auf Herz und Nieren geprüft … jeden!
 Der Hoteldirektor und ich waren zusammen mit den beiden
@@ -152,7 +152,7 @@ zur Anregung nur meine Mirakulum … Sie gestatten …«
 
 »Gewiß … gewiß …«
 
-seine Augen hingen an dem neuen Lederkoffer und
+Seine Augen hingen an dem neuen Lederkoffer und
 dem schäbigen Leinwandsack, der jetzt nur Steine enthielt …
 
 »Wann haben Sie den Koffer gekauft, Fürst Tschergin?«
@@ -186,7 +186,7 @@ kleinen kostbaren Wandschirm standen … Unmöglich dieselben!
 Der Koffer ist eben vertauscht worden, muß vertauscht
 worden sein …«
 
-Frau Orlington rief: »Das ist Ja aber doch ausgeschlossen,
+Frau Orlington rief: »Das ist ja aber doch ausgeschlossen,
 Herr Harst …! Im Salon waren nur wir sechs
 und Urtschoff anwesend, dann noch der Diener Theophilos,
 den wir James nennen, weil die meisten Diener so genannt
@@ -222,7 +222,7 @@ haben …! Ich hoffe …«
 
 Es hatte geklopft …
 
-Frau Orlington eilte zur Tür
+Frau Orlington eilte zur Tür.
 
 <@pagebreak/>
 Öffnete nur handbreit …
@@ -267,7 +267,7 @@ an …
 
 Dann sagte er — noch immer ganz verstört:
 
-»bisher wissen nur der Hoteldirektor, Billwaker, mein
+»Bisher wissen nur der Hoteldirektor, Billwaker, mein
 Kollege und ich davon, Herr Harst … Verlangen Sie,
 was Sie wollen — nur helfen Sie uns …! Es ist jetzt
 Reisezeit, und wenn der Mord in die Öffentlichkeit
@@ -318,7 +318,7 @@ in der Wunde … Die weiße Leinenjacke war blutdurchtränkt,
 das Gesicht fahl und verzerrt, die Augen entsetzlich
 verdreht …«
 
-»haben Sie nach dem Pulsschlag gefühlt …?«
+»Haben Sie nach dem Pulsschlag gefühlt …?«
 
 »Ja … Es war nichts mehr zu spüren …«
 
@@ -343,7 +343,7 @@ mit ihren Gästen entfernt hatte, im Flur und bat mich,
 ihm beim Abräumen des Frühstückstisches zu helfen …
 Ich erklärte, ich würde sofort kommen. Ich hatte nur noch
 für einen anderen Gast ein Glas Eislimonade zu holen.
-Das dauerte keine vier Minuten Ich betrat hier den
+Das dauerte keine vier Minuten ich betrat hier den
 Salon durch die Flurtür und sah James dort in seinem
 Blute liegen, lief sofort zu Mr. Roussell … — Mehr kann
 ich nicht angeben …«
@@ -401,7 +401,7 @@ Und gerade durch die langjährige Durchsuchung war
 auch der Diebstahl des Koffers noch geheimnisvoller geworden
 … —
 
-Harald sagte zu dem Hoteldirektor, daß man Uns beide
+Harald sagte zu dem Hoteldirektor, daß man uns beide
 jetzt hier allein lassen möge … Wir würden ihn nachher
 im Büro aufsuchen …
 
@@ -549,7 +549,7 @@ rührten die Tropfen direkt von der Wunde her!
 
 Ich setzte mich wieder …
 
-Ich vergaß keinen Augenblick, Daß ich belauscht,
+Ich vergaß keinen Augenblick, daß ich belauscht,
 beobachtet wurde …
 
 Ich spielte die Komödie weiter … genau wie Harst …
@@ -581,7 +581,7 @@ Harald hatte sich außerordentlich höflich verbeugt …
 
 »Mylord, es hat sich hier im Hotel eine kleine Unregelmäßigkeit
 ereignet …« (Ein Mord — — sehr bescheiden
-war diese Bezeichnung »kleine Unregelmäßigkeit …!!)
+war diese Bezeichnung »kleine Unregelmäßigkeit« …!!)
 
 <@pagebreak/>
 »Drüben in den Zimmern der Frau Orlington, die Mylord
@@ -674,13 +674,13 @@ Der Direktor schaute Harst dieser letzten Bemerkung
 wegen fragend an, nahm dann aber doch wortlos den Telephonhörer
 und verständigte sich mit dem zweiten Hoteldetektiv.
 
-Wenige Minuten später erschienen die beiden Kollegen
+Wenige Minuten später erschienen die beiden Kollegen.
 
 <@pagebreak/>
-»Setzen Sie sich bitte,« meinte Harst. »wir sind hier
+»Setzen Sie sich bitte,« meinte Harst. »Wir sind hier
 wohl vor Lauschern sicher … Ich habe Ihnen etwas mitzuteilen,
 was Ihnen den Mord von James in neuem Lichte
-zeigen dürfte …
+zeigen dürfte …«
 
 Nun erst erwähnte er den Diebstahl der Familienkleinodien
 des Fürsten, den rätselhaften Austausch der beiden
@@ -710,7 +710,7 @@ nicht vorhandenen Fingerabdrücke zu entfernen, wird der
 Kofferdieb, der mit James unter einer Decke steckt, den Salon
 wieder betreten …«
 
-der Kollege Roussell lächelte jetzt …
+Der Kollege Roussell lächelte jetzt …
 
 »Aber Mr. Harst — entschuldigen Sie schon — — ich
 habe doch den Toten …«
@@ -807,7 +807,7 @@ Roussell erlaubte sich die Bemerkung:
 »Wenn James sich verkleidet hätte, Mr. Harst?! Wenn
 er …«
 
-aber Harald schüttelte den Kopf …
+Aber Harald schüttelte den Kopf …
 
 »James hätte sich gehütet, noch die Zeit dazu zu verschwenden,
 sich als »tote Leiche«, die allen Grund zum Verduften
@@ -831,7 +831,7 @@ Flecke, keine roten Tropfen mehr zu bemerken, so telephonieren
 Sie hier nach unten ins Büro: »Alles in Ordnung!«
 — Und dann bleiben Sie im Salon und tun abermals so,
 als ob Sie noch etwas suchten … — Sie haben mich doch
-richtig verstanden?
+richtig verstanden?«
 
 »Gewiß, Mr. Harst …«
 
@@ -892,7 +892,7 @@ Hochparterre dieselben Gemächer wie Frau Orlington innehat.
 abstatten — sofort … Kommen Sie … Beeilen wir uns
 … Ich fürchte, der Vogel wird ausgeflogen sein …«
 
-vom Büro hatten wir nur wenige Schritte den Flur
+Vom Büro hatten wir nur wenige Schritte den Flur
 entlangzugehen …
 
 Doobler klopfte an, nachdem er die äußere Tür des
@@ -992,7 +992,7 @@ solchen Lederkoffer zu bestellen, Mr. Harst …«
 
 »Wann war das?«
 
-»als die Herrschaften bei Frau Orlington beim Frühstück
+»Als die Herrschaften bei Frau Orlington beim Frühstück
 saßen …« —
 
 »Ah — — und wann kam der Koffer?«
@@ -1052,7 +1052,7 @@ betäubten Damen … Polizeistreifen durchsuchten die Stadt
 … Ganz Bombay wurde gleichsam abgesperrt … —
 
 Die beiden Geheimtüren in der Wandtäfelung der
-beiden Übereinander liegenden Salons wurden genau geprüft.
+beiden übereinander liegenden Salons wurden genau geprüft.
 Sie waren fraglos schon vor längerer Zeit hergestellt
 worden. Von wem — das ist nie recht ermittelt worden
 und für den Fall Billwaker auch belanglos. — Billwaker
@@ -1090,7 +1090,7 @@ Decke gesteckt hätten …«
 »Jetzt ja … — Also — wenn sie Verbündete gewesen
 wären, dann hätte doch Billwaker fraglos nicht erwähnt,
 daß ihm Frau Major Lambrock im oberen Flur begegnet
-wäre — eine Begegnung, die Übrigens irrtümlich von ihm
+wäre — eine Begegnung, die übrigens irrtümlich von ihm
 auf eine spätere Stunde verlegt worden ist …! — Wie
 hätte Billwaker uns wohl auf Frau Lambrock aufmerksam
 gemacht, wenn er mit im Komplott gewesen wäre! Wie
@@ -1428,7 +1428,7 @@ Wir waren hundemüde … Wir schliefen ein …
 
 Und als wir gegen sieben Uhr erwachten, lag unter uns
 ein anderes Landschaftsbild — unendlicher Dschungel —
-indische Wildnis
+indische Wildnis.
 
 <@pagebreak/>
 Der Pilot rief uns zu …
@@ -1506,7 +1506,7 @@ Jetzt hatten wir vier Mann vor uns … —
 Ich darf mit Recht behaupten, daß ich dieses Eindringen
 in den Dschungel zu dieser Abendstunde für groben Unfug
 hielt … für ganz groben Unfug …! Wenn uns die Nacht
-hier Überraschte, fraßen uns entweder die Moskitos oder
+hier überraschte, fraßen uns entweder die Moskitos oder
 die Tiger auf … Beides nicht angenehm … Die Chotar-Dschungel
 sind die tigerreichste Gegend Indiens …
 
@@ -1514,7 +1514,7 @@ Und doch: Harald schien keinerlei Bedenken zu hegen,
 was mich sehr in Erstaunen setzte — sehr sogar …!
 
 Jetzt vor uns ein förmlicher Dornenwall … Nur ein
-schmaler Durchschlupf … Wir Drängten uns leise hinein
+schmaler Durchschlupf … Wir drängten uns leise hinein
 … Lauschen — lauschen … Nichts — — Stille …
 
 Weiter …
@@ -1570,7 +1570,7 @@ springt gegen das Gitter … Er brüllt in kurzen Pausen …
 Harald zieht mich nach der anderen Seite der Lichtung
 hinüber …
 
-die Bestie wird still …
+Die Bestie wird still …
 
 Dann … ruft Harst — mehrmals dasselbe — mit
 voller Lungenkraft:
@@ -1587,7 +1587,7 @@ tobt von neuem …
 
 Harst meint unzufrieden:
 
-»Orlington sollte den Scherz nicht Übertreiben …!!«
+»Orlington sollte den Scherz nicht übertreiben …!!«
 
 »Scherz?! Ich danke …!!«
 
@@ -1654,7 +1654,7 @@ trifft seinen rechten Arm …
 Die Pistole fliegt ihm aus der Hand …
 
 Er … flucht … — sehr selten, daß ihm eine Verwünschung
-Über die Lippen kommt …
+über die Lippen kommt …
 
 Er springt herab …
 
@@ -1743,7 +1743,7 @@ anderen Ausweg …«
 Er rauchte eine Zigarette … Ich stellte das Geschirr
 weg. Das Teewasser kochte … —
 
-man denke sich unsere Lage: fünf Schritt entfernt ein
+Man denke sich unsere Lage: fünf Schritt entfernt ein
 Tiger … auch im Käfig! Rundum Dornen … Büsche —
 <@pagebreak/>
 Bäume … In der Nähe die Wächter … Und — in noch
@@ -1793,7 +1793,7 @@ Und draußen hatten unsere unsichtbaren Hüter gleichfalls
 Feuer angezündet … Lichtschein blinkte durch die
 Büsche …
 
-vier Feuer gewahrten wir so … Es mußten doch weit
+Vier Feuer gewahrten wir so … Es mußten doch weit
 mehr Wächter sein, als wir glaubten … —
 
 Zehn Uhr …
@@ -1850,7 +1850,7 @@ Minutenlang …
 
 Wir hielten den Atem an …
 
-dann:
+Dann:
 
 »Ich habe sechs der Stahltrossen von den Pfählen
 gelöst … Sie brauchen nur die Südecke des Käfigs emporzuheben
@@ -1955,7 +1955,7 @@ Joe Billwaker flüstert:
 »Ich werde Sie nach Orlingtons Lagerplatz geleiten
 … Sie sind doch bereits im Bilde, Mr. Harst?«
 
-»Gewiß, Billwaker … — Wo Ist der Koffer?«
+»Gewiß, Billwaker … — Wo ist der Koffer?«
 
 »Den hat Orlington versteckt … Er traut den Indern
 nicht, die er gemietet hat … Sind alles Kerle wie die
@@ -2019,7 +2019,7 @@ paar Fragen …« sagt Harald …
 Wir schienen die Schleier hoch, denn jegliches Getier
 flieht die Nähe eines Dschingar … Zu Tausenden kleben
 die kleinen Insekten an seinen Blättern … Der Gestank
-hat für nur sein Gutes,
+hat für nur sein Gutes.
 
 Wir setzen uns nebeneinander auf eine Luftwurzel des
 Baumes. Der Mond bescheint uns …
@@ -2057,7 +2057,7 @@ schottischen Erbadels, Mr. Harst … Meine Familie zeichnet
 sich in dieser Beziehung noch besonders aus … Jedenfalls
 mußte ich mich nach einem Erwerb umsehen. Mein
 Schwiegervater besorgte mir die Papiere Joe Billwakers,
-und Jenny und ich gingen nach Bombay …
+und Jenny und ich gingen nach Bombay …«
 
 »So befindet sich Ihre Gattin noch in Bombay, Sir
 Hasting?«
@@ -2065,7 +2065,7 @@ Hasting?«
 »Bitte — nicht Hasting … Ich bin Joe Billwaker …
 … Ja, meine Frau wohnt in Bombay … Da aber Joe
 Billwaker unverheiratet war, mußten Jenny und ich sehr
-Vorsichtig sein. Wir haben uns trotzdem täglich gesehen.
+vorsichtig sein. Wir haben uns trotzdem täglich gesehen.
 Jenny hat eine Plättstube in der Goldon-Street unweit des
 Esplanade …«
 
@@ -2239,7 +2239,7 @@ und ohne jemand ins Vertrauen ziehen zu müssen sofort
 wieder das Städtchen Chotar verlassen hatte, nachdem seine
 Expedition in die Wildnis eingedrungen war. Er selbst
 war nach Bombay verkleidet zurückgekehrt. Was sich dort
-dann abgespielt, ist bekannt, —
+dann abgespielt, ist bekannt. —
 
 Wir wußten also auch ohne Sir Archibald Hasting,
 daß droben im Jagdlager in den Felsenhügeln nur zwei
@@ -2416,7 +2416,7 @@ von Chotar gehört, Mr. Harst?«
 
 »Nein, nichts …«
 
-»und — was tun wir nun, Mr. Harst?«
+»Und — was tun wir nun, Mr. Harst?«
 
 »Zunächst setzen wir uns …«
 
@@ -2595,7 +2595,7 @@ Thomas Orlington war die Ruhe selbst …
 Weiß der Himmel — kein Wunder, daß dieser Mann
 im Kriege Unsummen verdient hatte! Kaltschnäuzig genug
 war er! Es genierte ihn in keiner Weise, daß wir, die er
-so unglaublich behandelt hatte, nun seine Retter geworden
+so unglaublich behandelt hatte, nun seine Retter geworden.
 
 Im Gegenteil — er spielte noch vollendet Komödie —
 — streckte Harst die Hand hin … bedankte sich …
@@ -2617,7 +2617,7 @@ wir sind …?!«
 vorfinden, die Detektive Harst und Schraut und den Kellner
 Joe Billwaker …«
 
-»und — Sie haben uns nicht in die Tigerfalle gelockt,
+»Und — Sie haben uns nicht in die Tigerfalle gelockt,
 Mr. Orlington?«
 
 »Wie — ich?! … — Mr. Harst, soll das ein schlechter
@@ -2658,10 +2658,10 @@ Und er schritt davon … Ich zögernd hinterdrein …
 
 Wir setzten uns wieder auf die oberste Stufe der Treppe,
 die in den Abgrund hinabging … Wir saßen da und dachten
-Über die letzten Vorgänge nach …
+über die letzten Vorgänge nach …
 
 »Wo … liegt die Wahrheit?!« fragte ich nach einer
-Weile. »alles ist so unglaublich verworren … Ich …«
+Weile. »Alles ist so unglaublich verworren … Ich …«
 
 »Durchaus nicht verworren, lieber Alter … Orlington
 schwindelt zur Hälfte nur … Natürlich ist er in Bombay
@@ -2686,7 +2686,7 @@ Dann stand er einsam dort inmitten der Schluchtwände
 
 Regungslos … Mehr Statue als Mensch … —
 
-zehn Minuten verstrichen …
+Zehn Minuten verstrichen …
 
 Ich schaute mich um …
 
@@ -2809,7 +2809,7 @@ der Lichtung, wo wir landeten …«
 
 Der Milliardär meinte kleinlaut:
 
-»wir sind eingeschlossen, Mr. Harst — die Tiger …!!«
+»Wir sind eingeschlossen, Mr. Harst — die Tiger …!!«
 
 »Ah bah …! Es gibt ein sehr einfaches Mittel, uns
 zu befreien … An dem alten Gemäuer wachsen genug
@@ -2819,8 +2819,8 @@ sich nützlich machen …«
 
 Orlington rief die beiden herbei …
 
-»Schraut und Ich werden derweil eine passende Stelle
-am Wallgraben auswählen …« erklärte Harald, »Komm,
+»Schraut und ich werden derweil eine passende Stelle
+am Wallgraben auswählen …« erklärte Harald. »Komm,
 mein Alter … Es muß ja drüben in den Büschen eine
 Schiebebrücke geben, die selbst die Elefanten getragen hat …
 Also — suchen wir …«
@@ -2842,7 +2842,7 @@ nicht verlassen … Und dann: auch diese unsere Gefangenschaft
 hier! Keine Wächter mehr …! Und nur die Tiger!
 Auch nur sensationelle Dekoration …! Schließlich: Sir
 Hastings Armfesseln waren am lockersten! Er schnürte unsere
-Fesseln auf …!
+Fesseln auf …!«
 
 So türmte er kleine Beweise gegen Sir Hasting zum
 offenbaren Verdacht …
@@ -2865,8 +2865,8 @@ beschwert war, über den Wall schleuderten, als es nach mehrfachen
 Versuchen sich im Wurzelwerk der Büsche verfing, da
 turnte Harald rasch hinüber … Ebenso rasch hatte er die
 auf plumpen Rädern bewegliche Brücke, an die er das Tau
-befestigte, mit unserer Hilfe Über den tiefen Graben gezogen,
-so daß wir vier anderen bequem Über die Brücke den jenseitigen
+befestigte, mit unserer Hilfe über den tiefen Graben gezogen,
+so daß wir vier anderen bequem über die Brücke den jenseitigen
 Rand erreichen konnten … — Wir waren frei … Und
 schlugen nun die Richtung nach Süden ein … Sir Archibald
 ging neben mir … Nach einer Weile fragte er sehr
@@ -2902,7 +2902,7 @@ Afrikas sehr genau kannte. Harald spielte gleichfalls den
 vollkommen Harmlosen …
 
 Und dann — geschah das, was die Sachlage etwas
-klärte
+klärte.
 
 Beim Abstieg von einem Felsenhügel rutschte Sir Hasting
 aus, sank nach vorwärts und blieb stöhnend liegen …
@@ -2995,7 +2995,7 @@ er …
 
 Wir schlichen weiter …
 
-Dann konnten wir die Dschungelblöße Übersehen …
+Dann konnten wir die Dschungelblöße übersehen …
 
 Links der Eindecker dicht am Buschrande … Unser
 Eindecker nicht mehr da …
@@ -3023,7 +3023,7 @@ Mannes ohne Kopf … Ein entsetzlicher Anblick … Der
 Hals nur noch blutige Fleischfetzen …
 
 Mir lief der kalte Schweiß über das Gesicht … Und
-— — Harald da mit vier langen Säßen vorwärts, ich
+— — Harald da mit vier langen Sätzen vorwärts, ich
 hinterdrein … Hasting wollte fliehen, stolperte … Ich
 über ihm … Die Clement hielt ihn in Schach …
 
