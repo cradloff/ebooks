@@ -6,25 +6,25 @@
 
 <h3>Die drei Beraubten.</h3>
 
-— Er benutzte die: dritte Wagenklasse. An diesem dort
-=hnuttag des 11. Mai war der Zug wenig besetzt …
+Er benutzte die dritte Wagenklasse. An diesem Vormittag
+des 11. Mai war der Zug wenig besetzt …
 
-Als, ein Schaffner dann auf der Endstation Wilhelm«-
-Fluß noch einen Fahrgast im Zuge bemerkte, der offenbar
+Als ein Schaffner dann auf der Endstation Wilhelmplatz
+noch einen Fahrgast im Zuge bemerkte, der offenbar
 in seiner Ecke eingeschlafen war, suchte er den Mann zu
-Schweden.
+wecken.
 
 So stellte er fest, daß der Betreffende bewußtlos war.
 Erst nach fünf Stunden kam der Mann auf der nächsten Unfallstation
-wieder zu sich. Es war der Kassenbote der Minifax-A.-
-G. — Die Aktentasche mit dem Gelde war ihm geraubt
+wieder zu sich. Es war der Kassenbote der Minifax-A.-G.
+— Die Aktentasche mit dem Gelde war ihm geraubt
 worden. Er konnte nur angeben, daß er in der Wagenecke
 dritter Klasse plötzlich von einer unwiderstehlichen Müdigkeit
-bezahlen worden war. Mehr wußte er nicht.
+befallen worden war. Mehr wußte er nicht.
 
 Alle polizeilichen Nachforschungen blieben erfolglos. —
 
-Dies stand am 12. Mai sehr ausführlich in ollen Zeitungen
+Dies stand am 12. Mai sehr ausführlich in allen Zeitungen
 zu lesen.
 
 Auch wir lasen es …
@@ -32,7 +32,7 @@ Auch wir lasen es …
 Und wir saßen gerade beim Frühstück auf der Veranda
 des Harstschen Hauses und erfreuten uns an dem frischen
 Grün der Gartenbäume und an dem frechen Lärm des
-Spatenvolkes.
+Spatzenvolkes.
 
 <@pagebreak/>
 Der Kassenbote der Minifax-Aktiengesellschaft hatte von
@@ -43,20 +43,19 @@ Untergrundbahnzug gestiegen.
 Das Geld hatte er in einer Aktentasche bei sich.
 
 Der Bote war ein kräftiger Mann von fünfunddreißig
-Jahren und seit längerer Zeit schon in Diensten der Minifax-A.-
-G.
+Jahren und seit längerer Zeit schon in Diensten der Minifax-A.-G.
 
-Eine Stunde später läutete der Direktor der Minifax-A.-
-G. bei uns an und erteilte meinem Freunde Harald Harst
+Eine Stunde später läutete der Direktor der Minifax-A.-G.
+bei uns an und erteilte meinem Freunde Harald Harst
 den Auftrag, nach dem Diebe zu suchen. Oder besser: wollte
-ihm den Austrag erteilen! Denn Harald lehnte mit der Begründung
+ihm den Auftrag erteilen! Denn Harald lehnte mit der Begründung
 ab, daß die tadellose Berliner Kriminalpolizei in
 solchen Fällen weit mehr ausrichten könne als er selbst.
 
 Das war am 12. Mai.
 
-Am folgenden Tage regnete es in Strömen … Wir Hoheit«
-bei geschlossenen Verandensenstern gegen acht Uhr beim Morgenkaffee,
+Am folgenden Tage regnete es in Strömen … Wir saßen
+bei geschlossenen Verandenfenstern gegen acht Uhr beim Morgenkaffee,
 als die die Köchin Mathilde uns das Ehepaar
 von Garlitt meldete …
 
@@ -64,46 +63,46 @@ Harst, der die Morgenzeitung studiert hatte, sagte zu
 seiner Mutter und mir:
 
 »Es ist nämlich, wie ich hier soeben gelesen habe, abermals
-auf der Untergrundbahn zwischen Gleiösdreick und
+auf der Untergrundbahn zwischen Gleisdreick und
 Wilhelmplatz ein Diebstahl verübt worden … Der Baronin
 von Garlitt sind Juwelen im Werte von hunderttausend
-Mark gestohlen. »Und auch diese Dame wurde auf
+Mark gestohlen. Und auch diese Dame wurde auf
 der Station Wilhelmplatz bewußtlos aus dem Zuge geholt.«
 
 Er erhob sich …
 
-»Damm, mein Alter … Jetzt interessiert mich diese
+»Komm, mein Alter … Jetzt interessiert mich diese
 Sache … Hören wir, was die Baronin zu erzählen
-weiß…« —
+weiß …« —
 
 Baronin Wera von Garlitt, geborene Wiechert, — eine
 blendende Erscheinung. Dame von Welt, bescheiden, ruhig,
-sicher im Austreten … Kleidung von unauffälligen Eleganz
+sicher im Auftreten … Kleidung von unauffälliger Eleganz
 … Etwa dreißig Jahre …
 
 Der Ehemann, Gisbert von Garlitt, — ein Unikum —
 <@pagebreak/>
 wie aus einem modernen Witzblatt … Blasiert, Monokel,
-ungeheuer abgeklärt, müde Sprache, aber von jene« zwanglosen
+ungeheuer abgeklärt, müde Sprache, aber von jener zwanglosen
 Liebenswürdigkeit, die infolge einer natürlichen Begabung
 für scherzhafte Zwischenbemerkungen noch sympathischer
-wirkte. Ein schmales, seines, verlebte Gesicht …
-Kleidung mit einem Stich ins Geckenhafste …
+wirkte. Ein schmales, feines, verlebtes Gesicht …
+Kleidung mit einem Stich ins Geckenhafte …
 
 »Eine böse Geschichte, Herr Harst…« meinte er und
-ließ »die Mundwinkel hängen … »E32 war der ganze
+ließ die Mundwinkel hängen … »Es war der ganze
 Wiechertsche Familienschmuck, den mein Schwiegervater mit
 Liebe und Verständnis gesammelt hatte — Kommerzienrat
 Wiechert von den Wiechert-Werken … — Wera mag Ihnen
 nun Details berichten. Ich bin noch zu konsterniert von
-alledem…«
+alledem …«
 
 Die Baronin erzählte:
 
-— Gestern, sechs Uhr nachmittags, hatte sie die Schmucksachen
-von dem Juwelier lachte in der Friedrichstraße abgeholt,
+Gestern, sechs Uhr nachmittags, hatte sie die Schmucksachen
+von dem Juwelier Radtke in der Friedrichstraße abgeholt,
 der sie vier Tage zum Reinigen bei sich gehabt. Die
-Juwelen waren in ein SassiankästHhen eingeschlossen und
+Juwelen waren in ein Saffiankästchen eingeschlossen und
 dies in Papier gehüllt. Station Friedrichstraße hatte die
 Baronin die Untergrundbahn bestiegen. Es war sehr voll
 im Abteil gewesen. Sie hatte gestanden — bis Gleisdreick.
@@ -118,13 +117,13 @@ Harald fragte allerlei …
 
 Die Angelegenheit blieb dunkel, und Harst gab dem
 Ehepaar schließlich denselben Bescheid wie dem Direktor der
-Minifax-A.-G. —? Kriminalpolizei sei hier mehr am Platze
+Minifax-A.-G. —: Kriminalpolizei sei hier mehr am Platze
 als er!
 
 Und die Garlitts verabschiedeten sich … Taten es
 mit enttäuschten Mienen. Der Baron sagte wehleidig:
 
-»Sie waren unser Hossnung5sanker, Herr Harst …
+»Sie waren unser Hoffnungsanker, Herr Harst …
 Schade!!«
 
 Und als wir vom Fenster aus beobachteten, wie die
@@ -132,19 +131,19 @@ Und als wir vom Fenster aus beobachteten, wie die
 beiden ihr elegantes Privatauto bestiegen, meinte Harst:
 
 »Die Baronin hätte klüger getan, auch gestern nachmittag
-ihr Auto zu benutzen … Im Übrigen Frist sie der
+ihr Auto zu benutzen … Im übrigen trifft sie der
 Verlust nicht allzu schwer. Ihr Vater ist einer der reichsten
-Männer Deutschlands…«
+Männer Deutschlands …«
 
-»Und der Baron ist Cheattrappe…«
+»Und der Baron ist Eheattrappe …«
 
 »Allerdings … Man merkte, Frau Wera nimmt ihn
 nicht recht ernst … Sie hat wohl nur den alten Namen
-geheiratet…«
+geheiratet …«
 
 »Nun — vornehm sieht der Mann trotz alledem aus.«
 
-Und wir kehrten auf die Veranda, zurück …
+Und wir kehrten auf die Veranda zurück …
 
 Ich schilderte Haralds Mutter den Baron, und die alte
 Dame lachte herzlich …
@@ -153,19 +152,19 @@ Hiermit schien die Sache für uns erledigt …
 
 Schien …
 
-Es kam anders … ck
+Es kam anders …
 
 Denn abends um neun Uhr läutete es an der Gartentür
 Sturm … —
 
-Diesmal war es Herr Kommerzienrat Art Wiechert,
+Diesmal war es Herr Kommerzienrat Fritz Wiechert,
 der Großindustrielle …
 
-Ein Hüne … graublonden Spitzbart, eiserne Ruhe.
+Ein Hüne … graublonder Spitzbart, eiserne Ruhe.
 
 »Herr Harst, vor sechs Stunden, also um drei Uhr nachmittags,
-ist ein Kassenbote der Werke in der Untergrund
-Bahn bestohlen worden — zweihundertachtzigtausend Mark.«
+ist ein Kassenbote der Werke in der Untergrundbahn
+bestohlen worden — zweihundertachtzigtausend Mark.«
 
 Nun — es war wieder derselbe Sachverhalt: Wilhelmplatz
 findet ein Schaffner einen Bewußtlosen — und die
@@ -173,13 +172,13 @@ Umhängetasche des Boten ist verschwunden!
 
 Haralds Gesicht war es anzumerken, wie sehr ihn diese
 unheimliche Anhäufung von Beraubungen auf der Untergrundbahn
-im. Geiste beschäftigte …
+im Geiste beschäftigte …
 
-»Sie müssen eingreifen, Herr Harst,« Kapitel Kommerzienrat.
+»Sie müssen eingreifen, Herr Harst,« sagt der Kommerzienrat.
 »Bedenken Sie: im Zuge waren acht Kriminalbeamte,
 und in demselben Abteil sogar der zuständige Kommissar.
 Die Polizei gibt sich alle Mühe. Und doch ist nun
-unter ihren Augen dies neue Verbrechen verübt worden…«
+unter ihren Augen dies neue Verbrechen verübt worden …«
 
 »Wo wohnt der Kassenbote, Herr Kommerzienrat?«
 
@@ -192,7 +191,7 @@ Ich holte den Mann herein …
 Ein würdiger älterer Herr war’s — so recht der Typ
 des erprobten langjährigen Angestellten.
 
-Wir vier saßen nun um den Sofatisch; herum …
+Wir vier saßen nun um den Sofatisch herum …
 
 Ein Hundewetter war’s draußen … Es goß in
 Strömen … Windstöße umheulten das Haus …
@@ -203,11 +202,11 @@ Harald ließ durch Mathilde Rotwein bringen …
 meinte er und nickte dem würdigen Männlein zu, das wie
 ein Häuflein Unglück jetzt im Sessel lehnte …
 
-Dann ging Harst zu fragen an …
+Dann fing Harst zu fragen an …
 
-»Ja — es war sehr voll in Ei: Untergrundbahn,« bestätigte
+»Ja — es war sehr voll in der Untergrundbahn,« bestätigte
 Wiebach. »Ich hatte die Ledertasche am Riemen
-Über der Schulter und hielt sie mit beiden Händen fest…«
+Über der Schulter und hielt sie mit beiden Händen fest …«
 
 »Sie standen?«
 
@@ -216,25 +215,26 @@ Station Bülowstraße aussteige … Und da setzte ich mich.«
 
 »Besinnen Sie sich auf Ihre Nachbarn, Herr Wiebach?«
 
-»Rechts von mir saß eine Frau mit einem Kinde aus
-dem Soße … links eine verschleierte Dame, die sehr
-nach4 Parfüm roch, Herr Harst…«
+»Rechts von mir saß eine Frau mit einem Kinde auf
+dem Schoße … links eine verschleierte Dame, die sehr
+nach Parfüm roch, Herr Harst …«
 
 »Und — wann spürten Sie die bleierne Müdigkeit?«
 
 »Auf der Station Wittenbergplatz, Herr Harst — ganz
 plötzlich … Es gab da ein großes Gedränge im Gang.
-Station Zoologischer. Garten sollte ich aussteigen … Aber
-da war ich schon bewußtlos…«
+Station Zoologischer Garten sollte ich aussteigen … Aber
+da war ich schon bewußtlos …«
 
 »Und die Tasche hielten Sie wohl vor sich auf den
 Knien?«
 
 »Ja — mit beiden Händen … Der Lederriemen war
-nachher d dicht an der Tasche zerschnitten — an beiden schmale
+nachher dicht an der Tasche zerschnitten — an beiden Schnallen
+…«
 
 So … entwickelte sich denn auch hier dasselbe rätselhafte
-Bild einer geradezu unfaßbaren Beraubung — bei
+Bild einer geradezu unfaßbaren Beraubung — der
 dritten innerhalb von zwei Tagen!
 
 <@pagebreak/>
@@ -242,19 +242,19 @@ Kommerzienrat Wiechert betonte, daß auch die Kriminalpolizei
 bisher nicht habe feststellen können, wie das Betäubungsmittel
 den drei Bestohlenen beigebracht worden.
 
-»Sie gerade behaupten, es handle sich um ein betäubendes
+»Die Ärzte behaupten, es handle sich um ein betäubendes
 Gas,« fügte er hinzu … »Die Polizei hält dies für
-aut8geschlossen, da das Gas doch dann von dem Diebe. im
-Wogen irgendwie zum Audsströmen)…«
+ausgeschlossen, da das Gas doch dann von dem Diebe im
+Wogen irgendwie zum Ausströmen …«
 
-» «- — Und noch andere Personen unbedingt hätten mit
-betäubt werden müssen…!« ergänzte Harald …
+»… und noch andere Personen unbedingt hätten mit
+betäubt werden müssen …!« ergänzte Harald …
 
 »Gewiß …! — Die Polizei will nun die Untergrundbahnzüge
 noch schärfer bewachen … Was ich persönlich
 für überflüssig halte, denn es wird jetzt wohl kaum jemand,
 der Sachen von Wert bei sich führt, dieses Verkehrsmittel
-benutzen…« …
+benutzen …«
 
 Kaum hatte der Kommerzienrat das letzte Wort ausgesprochen,
 als das Telephon auf dem Schreibtisch schrillte.
@@ -265,26 +265,26 @@ Horchte … machte eine jähe Kopfbewegung …
 
 rief uns zu:
 
-»Die achtzigtausend Mark sind dem Direktor der Minifax
--A.-G. als Paket zurückgeschickt worden — per Post — —
-als Eilpaket …
+»Die achtzigtausend Mark sind dem Direktor der Minifax-A.-G.
+als Paket zurückgeschickt worden — per Post — —
+als Eilpaket …!«
 
-Und er legte ’den Hörer weg …
+Und er legte den Hörer weg …
 
 Wir starrten uns verblüfft an …
 
 »Dem Paket lag ein mit Maschine getippten Zettel bei,
 auf dem folgendes stand:
 
-Mit Dank zurück, da die dritte Sache am lohnendsten
+> Mit Dank zurück, da die dritte Sache am lohnendsten
 war. — Das Untergrundbahngespenst.«
 
 Wiechert meinte achselzuckend:
 
-»Dritte Sache — das sind wir, Wiebach …?! Unser
+»Dritte Sache — das sind wir, Wiebach …!! Unser
 Geld wird der Gauner also nicht zurücksenden!«
 
-Der Passendere seufzte nur …
+Der Kassenbote seufzte nur …
 
 Gleich darauf waren wir wieder allein …
 
@@ -294,39 +294,39 @@ in Arbeit zu nehmen …
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Das U. G… B.gesperrt.</h3>
+<h3>Das U.&nbsp;G.&nbsp;B.-Gespenst.</h3>
 
 Ich hatte dem Kommerzienrat und dem geknickten Wiebach
 durch den Vorgarten geleuchtet, hatte dazu die Lodenpelerine
 umgeworfen und sagte zu Harald bei meiner Rückkehr
-in das behagliche Arbeitszimmer!
+in das behagliche Arbeitszimmer:
 
 »Ein Sauwetter!! Danken wir dem Schöpfer, daß wir
 daheim bleiben können!«
 
-Harst saß in der Sofaecke … Hatte die Augen Einschlossen
+Harst saß in der Sofaecke … Hatte die Augen geschlossen
 …
 
 Regte sich nicht …
 
 Ich glaubte, er dächte über die rätselhaften Diebstähle
 angestrengt nach, nahm mir eine Zigarre und zündete sie
-»mit einiger Umständlichkeit an …
+mit einiger Umständlichkeit an …
 
 Nach den ersten Zügen schnellte mein Blick wiederum
 über Harsts Gestalt hinweg, und da fielen mir denn doch
-seine verdächtige Reglosigkeit und ein gewisses Zusammenget-sunkensein
-des Oberkörpers und die Schlosse Kopfhaltung
+seine verdächtige Reglosigkeit und ein gewisses Zusammengesunkensein
+des Oberkörpers und die schlaffe Kopfhaltung
 ein wenig auf …
 
 Ich trat näher …
 
-Und erst so geknotete ich in Haralds Schloß, halb von
-der rechten Hand bedeckt, ein Stü Papier …
+Und erst so gewahrte ich in Haralds Schoß, halb von
+der rechten Hand bedeckt, ein Stück Papier …
 
 Sah darauf lila Maschinenschrift …
 
-Sah noch deutlicher, daß Harst ohne »Zweifel .-… bewußtlos
+Sah noch deutlicher, daß Harst ohne Zweifel … bewußtlos
 war …
 
 Rüttelte ihn …
@@ -341,13 +341,13 @@ Freilich — ein Harald Harst und eine Ohnmacht so ohne
 jede Ursache?! Wie reimte sich das mit seiner kerngesunden
 Natur zusammen?!
 
-Endlich schlug er dann die Augen aus…
+Endlich schlug er dann die Augen auf …
 
 <@pagebreak/>
 »Fenster öffnen!!« lallte er matt …
 
 Gewiß — das Zimmer war ziemlich stark verqualmt …
-Aber die keuchte kühle Nachtluft dieses Maitages erschien mir
+Aber die feuchte kühle Nachtluft dieses Maitages erschien mir
 für meinen Patienten wenig geeignet. Trotzdem öffnete
 ich beide Fenster …
 
@@ -377,9 +377,9 @@ einer starken Entzündung.
 
 Ich las … Nur wenige Worte waren es:
 
-Dies zur Warnung, Herr Harst! Die achtzigtausend werden
-zurückgekehrt, weil sonst ein Familienvater brotlos
-geworden wäre. — Das U. G. B.-Gespenst.
+> Dies zur Warnung, Herr Harst! Die achtzigtausend werden
+zurückgeschickt, weil sonst ein Familienvater brotlos
+geworden wäre. — Das U.&nbsp;G.&nbsp;B.-Gespenst.
 
 Ich las nochmals …
 
@@ -392,10 +392,10 @@ Ich ließ den Zettel sinken …
 
 Harst zog die Steppdecke höher und gähnte krampfhaft.
 
-»Schließe bitte die Fenster…«,« meinte er …
+»Schließe bitte die Fenster …,« meinte er …
 
-Ich tat’s … Ich war wie benommen … die
-kam der Zettel hier ins Zimmers! — Und eine dunkle
+Ich tat’s … Ich war wie benommen … Wie
+kam *der* Zettel hier ins Zimmer?! — Und eine dunkle
 Ahnung stieg in mir auf, daß hier Dinge geschehen, von
 denen ich noch nichts wußte.
 
@@ -407,14 +407,14 @@ Wieder saß ich neben dem Diwan …
 
 »Harald, woher der Zettel?!« …
 
-»Ein Mann … trat. ein … Du hattest Ansinnen-und
-Haustür offen gelassen … — … Ein Mann, als Ihr
+»Ein Mann … trat ein … Du hattest Zimmer\-
+und Haustür offen gelassen … Ein Mann, als Ihr
 kaum im Vorgarten wart … Er glich dem Kommerzienrat,
 winkte … Ich trat auf die Türschwelle … Er blieb
 im Flur … reichte mir schweigend den Zettel … Und
 dann befiel mich urplötzlich eine unendliche Müdigkeit …
 Ich taumelte zum Sofa — verlor das Bewußtsein … Und
-nun lies mir den Zettel vor…«
+nun lies mir den Zettel vor …«
 
 Ich war unfähig zu einer Gegenäußerung …
 
@@ -430,12 +430,12 @@ Minuten meiner Abwesenheit zu diesem? Attentat benutzt
 
 »Lies bitte vor!« mahnte Harald …
 
-Ich) las — ganz langsam …
+Ich las — ganz langsam …
 
-Harst richtete sich jetzt langsam auf … Er schwanbkte
-nacht ein wenig …
+Harst richtete sich jetzt langsam auf … Er schwankte
+noch ein wenig …
 
-»Bitte — noch einen! Kognak,«« meinte er …
+»Bitte — noch einen Kognak,« meinte er …
 
 Und trank …
 
@@ -443,76 +443,73 @@ Meinte dann:
 
 »Du merkst nun wohl, mein Alter, daß wir es hier mit
 keinem Durchschnittsverbrecher zu tun haben … Im Gegenteil
-— dieser Mensch ist eine ungewöhnlich gefährliche Freieres
-von Räuber, arbeitet mit Mitteln, die mir noch durch
-aus unklar sind … Bedenke: ich tote zusammen wie …
+— dieser Mensch ist eine ungewöhnlich gefährliche Spezies
+von Räuber, arbeitet mit Mitteln, die mir noch durchaus
+unklar sind … Bedenke: ich sackte zusammen wie …
 wie ein Waschlappen — im Moment …! Und seine Verkleidung
 als Wiechert war tadellos, wenn auch nur für
-Jernwirkiung berechnet … JZedeonfall3: das U. G. B.-See
+Fernwirkung berechnet … Jedenfalls: das U.&nbsp;G.&nbsp;B.-Gespenst
 <@pagebreak/>
-Agent hat uns seine Aufwartung gemacht! Ich habe ihm
+hat uns seine Aufwartung gemacht! Ich habe ihm
 Auge in Auge gegenübergestanden, und es ist mir herzlich
-[Schlecht t bekommen…«
+Schlecht bekommen …«
 
-gähnte wieder …
+Er gähnte wieder …
 
-Und fuhr behalten fort:
+Und fuhr lebhafter fort:
 
 »Es stimmt schon … Es ist ein Gas, mein Alter.
-So eine Art Kampfgas, das nur nicht tödlich wirkt …
+So eine Art Kampfgas, das nur nicht tödlich wirkt …«
 
 Gähnte nochmals …
 
 »Wie der Mann arbeitet, ist nun ja klar … Aber
 wie er das Gas nur gerade einer einzelnen Person in das
-Gesicht blasen kann, bleibt schleierhaft … Alte er mir
+Gesicht blasen kann, bleibt schleierhaft … Als er mir
 den Zettel mit der Linken reichte, hatte er die rechte Hand
 in der Manteltasche … Und aus der Manteltasche hervor
 kann er doch unmöglich einen Gasstrom mir unter die Nase
 geleitet haben — unmöglich!«
 
 Er wiegte den Kopf hin und her, murmelte: »Ein
-ganz gefährlicher Bursche … Wird ein böser Kampf »werden
+ganz gefährlicher Bursche … Wird ein böser Kampf werden
 … Zumal der Mann noch andere Eigentümlichkeiten
+hat: Herz für seine Mitmenschen! Dies deutet der Zettel
+an … Er hat der Minifax-A.-G. das Geld nur zurückgeschickt,
+weil diese dem Kassenboten offenbar gekündigt
+hat … Rufe doch einmal den Direktor der Gesellschaft an.«
 
-hat: Herz in seine Mitmenschen! Dies deutet der Zettel
-
-an … Er hat der Minifax-A.-G. das Geld nur zurück
-
-Dickicht, weil diese dem Kassenboten offenbar gekündigt
-
-aß Is »wie schob) einmal den Direktor der Gesellschaft an.«
-aß es
+Ich tat es …
 
 Und der Direktor erklärte mir, daß der Bote allerdings
 sofort entlassen sei, weil man nur annehmen könne, daß er
+sich selbst betäubt habe, damit ein Komplize ihm das Geld
+stehlen könne …
 
-ich selbst »geraubt habe, damit ein Komplize ihm das Geld
-stehlen Dünn:…
-»Vereint!« sagte Harst ärgerlich. »Nun haben die
-Herrschaften die Kündigming also zurückgezogen?«
+»Verrückt!« sagte Harst ärgerlich. »Nun haben die
+Herrschaften die Kündigung also zurückgezogen?«
 
-» gen, Harald … Du hörtest ja, daß ich danach besonders
+»Nein, Harald … Du hörtest ja, daß ich danach besonders
 fragte … Der Direktor erklärte, es müsse bei der
-Entlassung bleiben…«
+Entlassung bleiben …«
 
 »Bande!! Obwohl das Geld wieder da ist und obwohl
-der Bote Fischern sich tadellos geführt hat — nette Bande!!«
+der Bote bisher sich tadellos geführt hat — nette Bande!!«
 
 Und da — — schlug die Flurglocke schüchtern an …
 
 Ganz schüchtern …
 
 <@pagebreak/>
-Ich hinaus … « Tresor nur wenig … Frage durch
+Ich hinaus … Öffne nur wenig … Frage durch
 die Spalte …
 
-»Emil Moors … «-« erklärt der draußen Stehende …
-»Ich bin der Kassenbote der Minifax…«
+»Emil Mack …,« erklärt der draußen Stehende …
+»Ich bin der Kassenbote der Minifax …«
 
 Ich öffne vollends …
 
-Ein strammer blonder Mann tritt ein … f-
+Ein strammer blonder Mann tritt ein …
 
 Sitzt dann mit uns am Tisch, hält den nassen Schirm
 verlegen umklammert.
@@ -523,18 +520,18 @@ Mack rasch auftauen …
 Kognak und eine Zigarre fördern seine Zutraulichkeit.
 
 »Herr Harst, man hat mir also das Gehalt bis zum
-ersten Juli ausbezahlt und mich … rmt8geschmissen …
+ersten Juli ausbezahlt und mich … rausgeschmissen …
 Man verdächtigt mich … Das lasse ich mir nicht gefallen.
 Ich habe fünf Kinder, Herr Harst. Und trotzdem will ich
 Ihnen zahlen, was ich irgend kann, damit Sie mir …
-meine Ehre wiedergeben…«
+meine Ehre wiedergeben …«
 
 Harst ist jetzt wieder völlig auf dem Posten … Raucht
 eine Mirakulum …
 
-»Lieber Herr Wrack — zahlen sollen Sie nichts, und
+»Lieber Herr Mack — zahlen sollen Sie nichts, und
 Ihre Ehre haben Sie nicht verloren … Die Herren von
-der Minifax sind …
+der Minifax sind …«
 
 Und was sie sind, deutet er durch eine Handbewegung
 nach der Stirn an …
@@ -542,19 +539,19 @@ nach der Stirn an …
 Emil Mack nickt trübe …
 
 »Ja — hartherzig und ungerecht! Nun ist das Geld
-doch wieder da … Nun hätte…«
+doch wieder da … Nun hätte …«
 
 »Das wird sich alles finden, lieber Herr Mack … —
 Übrigens sind Sie tüchtig naß geregnet … Standen
 Sie denn schon sehr lange draußen vor dem Hause?«
 
-»30 — seit neun … Als ich gerade den Vorgarten
-betreten wollte, zum das Auto … Da wartete ich denn.«
+»Ja — seit neun … Als ich gerade den Vorgarten
+betreten wollte, kam das Auto … Da wartete ich denn.«
 
 »Ah — und Sie blieben in der Nähe?«
 
 »Gewiß … Ich schlenderte drüben auf der anderen
-Straßenseite auf und ab…«
+Straßenseite auf und ab …«
 
 »und — sahen Sie nicht einen Mann, der das Haus
 <@pagebreak/>
@@ -562,28 +559,28 @@ betrat, als mein Freund Schraut die beiden Herren zum
 Auto geleitete?«
 
 »Das sah ich, Herr Harst … Der Mann kam hinter
-den Büschen des Vorgartens hervor und vorließ das Haus
-ich« auch sofort wieder … Trat wieder hinter die Büsche.
+den Büschen des Vorgartens hervor und verließ das Haus
+so auch sofort wieder … Trat wieder hinter die Büsche.
 Als das Auto dann davonfuhr, und als Herr Schraut die
-Hausflur geschlossen hatte, verließ der Mann den Vorgarten
+Haustür geschlossen hatte, verließ der Mann den Vorgarten
 und ging nach links die Straße hinab, wo ein anderes Auto
 hielt … Eine Dame schien ihn dort erwartet zu haben …
-Sie stiegen ein — und fuhren davon…«
+Sie stiegen ein — und fuhren davon …«
 
 Harald blickte mich an …
 
 Meinte: »Die Sache klärt sich … Der Mensch arbeitet
 also mit einem Weibe zusammen … Und dieses Weib
 ist fraglos diejenige, die dem Wiebach den Sitzplatz anbot …
-Ja — zwei sind’s.!«
+Ja — zwei sind’s …!«
 
 Und zu Emil Mack:
 
 »Ihre Beobachtungen sind wichtig … Schweigen Sie
 darüber … Und jetzt trinken Sie noch einen Abschiedskognak
 und stecken Sie diese drei Zigarren ein … Ich
-werde Ihnen helfen, lieber Herr na … Die Minifax
-wird Sie reumütig wieder einstellen …«
+werde Ihnen helfen, lieber Herr Mack … Die Minifax
+wird Sie reumütig wieder einstellen  …«
 
 Mack drückte uns dankbar die Hände und verabschiedete
 sich. Er war jetzt heiter und zuversichtlich … —
@@ -594,29 +591,29 @@ Harald schritt im Zimmer ruhelos umher …
 
 Meinte nach einer Weile:
 
-»Wenn man nur wüßte, wie man die Sache Angaben
+»Wenn man nur wüßte, wie man die Sache anpacken
 könnte … — Man muß doch irgendwie beginnen … Aber
-das, was wir wissen, gibt uns keinen Angriffspunkt +…
+das, was wir wissen, gibt uns keinen Angriffspunkt …
 Man kann sich doch nicht in die Untergrundbahn setzen und
 vielleicht tagelang zwischen Wilhelmplatz und Friedrichstraße
-hin und her gondeln?! — — Wo— wo packen wir nur zu?!«
+hin und her gondeln?! — — Wo — wo packen wir nur zu?!«
 
 Er blieb am Tische stehen, drückte den Stummel seiner
 Mirakulum in eine Aschenschale aus und griff nach einer
 neuen Zigarette …
 
 <@pagebreak/>
-Dann schlug die Standuhr in der Ecke mit ihrem diesen
-geraten halb elf …
+Dann schlug die Standuhr in der Ecke mit ihrem tiefen
+Gongton halb elf …
 
-Der Ton zitterte rote in der Luft macht, als … wiederum
+Der Ton zitterte noch in der Luft nach, als … wiederum
 die Flurglocke schrillte …
 
 Wieder läutete es Sturm …
 
 Ich hinaus …
 
-Grase …
+Frage …
 
 Kriminalkommissar Rütlin,« ruft eine Baßstimme …
 
@@ -624,19 +621,17 @@ Rütlin, alter Bekannter, tritt ein …
 
 Stramm, erregt — preßt uns die Hände …
 
-»Finder, der Teufel hole den Dienst und die Vorgesetzten!
+»Kinder, der Teufel hole den Dienst und die Vorgesetzten!
 Ich bin bekanntlich das Unglückswurm, das mit
-dem U. G. B.-Gespenst sich messen soll. — Kinder — — vor
-zwei Stunden der vierte Na b!!«
+dem U.&nbsp;G.&nbsp;B.-Gespenst sich messen soll. — Kinder — — vor
+zwei Stunden der vierte Raub!!«
 
-Und er wirst sich in den Sessel. und fällt sich ein Rotweinglas
-aus der vognalilasche …
+Und er wirft sich in den Sessel und fällt sich ein Rotweinglas
+aus der Kognakflasche …
 
 Trinkt’s auf einen Zug …
 
 Und erzählt dann …
-
-Satz GZ
 
 <h2>3. Kapitel.</h2>
 <h3>Eva von Garlitt …</h3>
@@ -666,11 +661,11 @@ ans Leder könnte … — Wo hat Jelling den Zug
 bestiegen?«
 
 »Friedrichstraße … Kam von dem Juwelier lachte,
-dem er seine Muster vorgelegt hatte …«
+dem er seine Muster vorgelegt hatte  …«
 
 »lachte?« Harst besinnt sich … »Ab — dieselbe
 Firma, bei der die Baronin Garlitt ihren Schmuck hatte
-reinigen lassen…«
+reinigen lassen …«
 
 »Stimmt …! — Und Jelling hat dort eine Stunde
 mit machte persönlich verhandelt … Dann fuhr er mit
@@ -690,7 +685,7 @@ als Rütlin dies hört, fährt er ordentlich hoch …
 
 »Ja — hier ist der Zettel … Fassen Sie ihn aber
 behutsam an, barsch ihn auf Fingerabdrücke untersuchen
-will…«
+will …«
 
 Der Kommissar liest … ließ …
 
@@ -743,7 +738,7 @@ Er schaut mich grübelnd an …
 
 »doch — da, mein Alter …! — IJ4 will Dich nich:
 auffordern, mich zu begleiten … Das Weiter ist zu miserabel
-… Immerhin, wenn Du Luft hast…«
+… Immerhin, wenn Du Luft hast …«
 
 »welche Frage?! — Und — — wohin?!«
 
@@ -753,7 +748,7 @@ nennen … Nein, es handelt sich mehr um einen gar:
 schwachen Anhalt3punskt, wie »wir die Sache anpacken dünn.
 ten … Würde ich Dir dies näher auZ8einanderseben, van!
 würdest Du fraglos voreingenommen werden. Und da«
-soll nicht sein. einer von uns muß die. Dinge objektiv betrachten…«
+soll nicht sein. einer von uns muß die. Dinge objektiv betrachten …«
 
 »Hm — das sind NedenZS3arten, Harald. In Wahrheit
 kommt’s wieder auf Deine alte Geheimniskrämerei hinaus.
@@ -769,7 +764,7 @@ war, als der Reisende Jelling dort seine Muster
 ausgelegt hatte … Garlitt wollte einen Ring verändern
 lassen. Du hörtest ja, wie ich lachte erklärte, Garlitts Person
 sei mir natürlich gleichgültig« — so drückte ich mich aus
-— und log…«
+— und log …«
 
 Ich mußte unwillkürlich lächeln …
 
@@ -792,7 +787,7 @@ daß Jelling bei lachte war. Garlitt kann Jelling
 aufgelauert haben. Davonritt kann sich mit irgend einem
 Weibe zu verbrecherischen Tun vereinigt haben …
 
-»Kann…« kann …!! — Und — wie willst Du ihm
+»Kann …« kann …!! — Und — wie willst Du ihm
 näher auf den Zahn fühlen?!«
 
 »Er wohnt in der Villenkolonie Grunewald am By
@@ -803,12 +798,12 @@ seinem hat …
 
 »Wir können die Villa Garlitt vom Wasser aus beobachten,
 vielleicht auch daß Grundstück betreten … Wir
-müssen doch irgendwie anfangen…«
+müssen doch irgendwie anfangen …«
 
 Ich zuckte die Achseln — deutete auf die Fenster …
 
 »Hörst Du — es quiekt — — gießt! Was sollen wir
-bei solchen Wetter zwecklos…«
+bei solchen Wetter zwecklos …«
 
 Er unterbrach mich …
 
@@ -859,7 +854,7 @@ Harsts Augen sind tadellos …
 
 »Sie hat sich eine Zigarette ’angezündet,« flüsterte er.
 »34h wette, sie wartet auf jemand … So ganz ergebnislos
-wird diese Nacht für uns doch vielleicht nicht sein…«
+wird diese Nacht für uns doch vielleicht nicht sein …«
 
 Von unserer Linde bis zum Parktor der Villa Garlitt
 <@pagebreak/>
@@ -1052,15 +1047,15 @@ Der Fahle erholt sich von dem bösen Schreck …
 
 Allzu hastig bestätigt er:
 
-»Ja — dies hier ist mein Unterschlupf…«
+»Ja — dies hier ist mein Unterschlupf …«
 
 Es ist die Sprache eines gebildeter Der Mann
 selbst mag vielleicht sechzig Jahre alt sein …
 
-»Hm…« meint Harst, »denn wollen wir Dir hier
+»Hm …« meint Harst, »denn wollen wir Dir hier
 nich weiter stören … Zu klauen is hier doch wohl kaum
 was … Schlaf man weiter … Kannst uns höchstens
-lud Kognak spendieren…«
+lud Kognak spendieren …«
 
 Er hebt die Flasche empor …
 
@@ -1075,8 +1070,8 @@ Meint weiter:
 
 »Jenosse, uns jeht’s verdammt schlecht … Haft he
 vielleicht wat zu Trägern …? Hunger haben wir …
-Und die Polente is hinter uns her … Die Polizei …«
-Sind Kiste Zeiten, Mensch…«
+Und die Polente is hinter uns her … Die Polizei  …«
+Sind Kiste Zeiten, Mensch …«
 
 Der Stopvpelbart erhebt sich …
 
@@ -1093,7 +1088,7 @@ Er stellt Wurst, Brot, Butter, Käse auf den Tisch …
 Messer, Gabel, Teller dazu …
 
 »fest auch nur,« sagte er freundlim … »Ich helfe
-Leidensgefährten sehr gern…«
+Leidensgefährten sehr gern …«
 
 Fraglos ein gebildeter Mann …
 
@@ -1111,13 +1106,13 @@ gesessen?«
 
 »Dunnertvetter!! Und Du bist nu entlassen?«
 
-»Ja — vor einer Woche…««
+»Ja — vor einer Woche …««
 
 »Und wat machst he nu?«
 
 »Oh bettele am Tage … sich habe zufällig diese
 Laube entdeckt … Hier nächtige im … Die Besitzer
-sind verreist, und niemand kommt hierher — vorläufig…«
+sind verreist, und niemand kommt hierher — vorläufig …«
 
 Wir essen …
 
@@ -1144,11 +1139,11 @@ Harald grinst …
 jekauft?!!«
 
 »Ja — von erbetteltem Gelde … Ich leide an
-Schlaflosigkeit … Ein Fernglas voll hilft…«
+Schlaflosigkeit … Ein Fernglas voll hilft …«
 
 Und er beugt sich über den Tisch …
 
-»Langt bitte nur tüchtig zu…«
+»Langt bitte nur tüchtig zu …«
 
 Er spricht noch mehr …
 
@@ -1169,9 +1164,9 @@ Es regnet noch immer …
 
 Vor uns steht der Wächter des Neubaues …
 
-»Nu habt Ihr ja wohl aus8gepennt,« meint er gemütlich
+»Nu habt Ihr ja wohl ausgepennt,« meint er gemütlich
 … »Nu türmt man wieder! Müßt vaflucht schwer geladen
-»haben! schon drei Stunden liegt Ihr hier…«
+»haben! schon drei Stunden liegt Ihr hier …«
 
 Ich werde immer munterer … Ich rüttele Harald …
 
@@ -1200,7 +1195,7 @@ Und jetzt erörtern wir das Erlebte …
 »Der Baron und seine Schwester kennen den suchte
 
 Häusler,« erklärt Harald … »Und Garlitt weiß von den
-Verbrechen in der Untergrundbahn…«
+Verbrechen in der Untergrundbahn …«
 »Er wird leugnen…!«
 
 vw Natürlich! Auslachen wird er uns. Wird behaupten,
@@ -1208,7 +1203,7 @@ er wüßte nichts von dem Zuchthäusler — gar nichts! —
 Nein — wir müssen anders vorgehen … Schritt für
 Schritt … Garlitt ist durch den Zuchthäusler längst davon
 unterrichtet, daß wir beide ihm auf der Spur … Da
-Heißt es also List gegen List…«
+Heißt es also List gegen List …«
 
 Er nimmt als Nachtisch eine Mirakulum …
 
@@ -1225,7 +1220,7 @@ Begrüßt uns …
 
 »Sauwetter!! — Meine Frau schickt mich her …
 Frauen wollen ihr Stü durchsetzen, Herr. Harst … Wera
-bittet Sie nochmals, die Sache Untergrundbahn zu üÜber-nehmen…«
+bittet Sie nochmals, die Sache Untergrundbahn zu üÜber-nehmen …«
 
 Und sinkt seufzend in den Klubsessel … —
 
@@ -1240,18 +1235,18 @@ kann innere Erwärmung nichts schaden…!«
 »Stimmt! Vielen Dank … Ihr Wohl, meine, Herren
 … — Also — wie ist es nun, Herr Harst …
 
-»Es ist, Herr Baron…«
+»Es ist, Herr Baron …«
 
 »Das heißt?«
 
 »Ich bin schon an der Arbeit … Für mich hat der
 Vierte stahl, der Fall Jelling, den Stein ins Rollen
-gebracht…«
+gebracht …«
 
 <@pagebreak/>
 »Ab — — Jelling! Tolle Geschichte …! Denken Sie
 —« ir kenne diesen Juwelierreisenden … Ah war
-gestern bei meinem Juwelier — nachmittags, und da…«
+gestern bei meinem Juwelier — nachmittags, und da …«
 
 »Ich weiß, Herr Baron … lachte teilte es Sir mit,
 daß Sie Jellings zur Schau ausgelegte Schätze gesehen
@@ -1283,7 +1278,7 @@ Dann aber sanken die Augenlider wieder herab …
 Er nahm sein Monokel, putzte es und wiegte den Topf
 hin und her …
 
-»Im — wiedererkennen?! Das will überlegt sein …«
+»Im — wiedererkennen?! Das will überlegt sein  …«
 »Oh besinne mich, daß die Kette ein sehr eigentümliches
 Schloß hatte … Zwei Hände aus Platin, die ineinandergreifen
 … — Ja — — ich würde es wiedererkennen, falls
@@ -1374,7 +1369,7 @@ so … Die gerade behaupten: Herz’urose, Überempfindlichkeit
 der sogenannten vasomotorischen Nerven! — Mag
 ein …!.! Aber scheußlich unangenehm bleibt es in jedem
 Tinte, wenn man auf jede Aufregung mit solchem Herzkol-lap3
-reagiert…« Er sprach sehr leise … Ich reichte
+reagiert …« Er sprach sehr leise … Ich reichte
 ihn! sein Monokel. Er säuberte es, klemmte es ein und
 starrte vor sich hin …
 
@@ -1394,7 +1389,7 @@ Harcald8 Gesicht wurde eisig …
 »Herr Baron, ich bedauere, mich zu f lange Erörterungen
 nicht »einlassen zu können … — Sie waren in der verflossenen
 Nacht gegen hell eine mit Ihrer Schwester Eva in
-der Laube in der Dittmarstraße…«
+der Laube in der Dittmarstraße …«
 
 Garlitt schüttelt den Kopf — sehr energisch … Ctv
 hebt sich, steht dicht vor Harst …
@@ -1464,17 +1459,17 @@ Harald fragte:
 Garlitt hob den Kopf … « »Wie kommen Sie denn
 auf diese Vermutung?! — Etwa weil sich der Anfall von
 vHerzschwäche soeben wiederholte?! — Nein, ich habe auch
-nicht die geringste Ahnung, wer der Mann sein könnte…«
+nicht die geringste Ahnung, wer der Mann sein könnte …«
 
 Seine Stimme klang rauh und gereizt …
 
 »Erzählen Sie erst mal zu Ende, Herr Harst …
-Sie weckten den Mann also…«
+Sie weckten den Mann also …«
 
 »Ja … Und dieser Mann -« -…+ erledigte uns …
 erledigte uns in genau derselben Weise, wie die Beraubten
 in der Untergrundbahn betäubt wurden … genau so …
-Wir sanken um, wurden bewußtlos…«
+Wir sanken um, wurden bewußtlos …«
 
 Garlitt nahm eine neue Zigarette … Seine Stirn
 lag in Falten … Er rauchte ein paar Züge, fragte:
@@ -1561,7 +1556,7 @@ Da schaute er mich an …
 »Vermutest Du noch mehr?«
 
 »Nein … — Garlitt ist unbeteiligt. Er wußte nichts
-von dieser Zusammenkunft…«
+von dieser Zusammenkunft …«
 
 »Stimmt. Nur: den alten Mann kannte er …
 kennt er!«
@@ -1585,7 +1580,7 @@ Da kommt Mathilde und winkt … — Tage gibt’s denn,
 Mathilde?«
 
 »Der Herr Baron Garlitt ist wieder da … Er wartet
-im Arbeitä3zimmer…«
+im Arbeitä3zimmer …«
 
 Wir blickten uns an …
 
@@ -1599,7 +1594,7 @@ Verneigt sich …
 
 »Herr Harst, rufen Sie den Kriminalkommissar Rütlin
 herbei …- eßt. bin der Täter, das Untergrundbahn-spenst
-… Ich gebe den Kampf auf…«
+… Ich gebe den Kampf auf …«
 
 <@pagebreak/>
 Wir beide … sprachlos …
@@ -1612,7 +1607,7 @@ zu Boden …
 Wiederholt:
 
 »Ich … bin der Dieb … Ich werde Ihnen alles
-erklären, meine Herren…«
+erklären, meine Herren …«
 
 Harst deutet auf den Sofatisch …
 
@@ -1662,19 +1657,19 @@ Hier war’s Harald ein:
 »Die heißt der Mann?«
 
 »Bedauere … — Ich habe mein Wort verpfändet …
-Den Namen werde ich unter keinen Umständen nennen…«
+Den Namen werde ich unter keinen Umständen nennen …«
 
 »Und der Mann ist vor kurzem aus einer Strafanstalt
 entlassen?«
 
 »Ja … Und ich sollte ihm nun die Mittel zur Auswanderung
 beschaffen … Er forderte von mir eine halbe
-Million … Er drohte meine einstige Verfehlung…«
+Million … Er drohte meine einstige Verfehlung …«
 
 »-: « Verzeihung — worin bestand die, Herr Baron?k«
 
 »Ich tiefere mich nicht selbst an den Strick, Herr Harst.
-Ich werde sagen, was ich sagen muß — mehr nicht…«
+Ich werde sagen, was ich sagen muß — mehr nicht …«
 
 »Bitte — weiter …
 
@@ -1683,11 +1678,11 @@ Ich werde sagen, was ich sagen muß — mehr nicht…«
 nicht ein noch aus … Ich konnte doch unmöglich meinen
 Schwiegervater …
 
-» « — … Und da fiel Ihnen das Gas ein…«
+» « — … Und da fiel Ihnen das Gas ein …«
 »Ja … Es ist eine Flüssigkeit, die sofort gas8ssrmig
 wird, wenn sie mit der Luft in Berührung kommt … Ich
 
-kaufte mir eine Injektionsspritze…«
+kaufte mir eine Injektionsspritze …«
 
 »so?«
 
@@ -1695,7 +1690,7 @@ kaufte mir eine Injektionsspritze…«
 mich … Und mit ihm zusammen habe ich dann die rief
 Raubanfälle verübt … Die Beute behielt er … im
 
-die ersten achtzigtausend Mark mußte er zurückschicken…«
+die ersten achtzigtausend Mark mußte er zurückschicken …«
 »Auf Ihre Veranlassung?«
 
 <@pagebreak/>
@@ -1706,11 +1701,11 @@ in der Laube nach?«
 
 »Gewiß … Ich überließ ihm gestern abend durch die
 Spitze und das Betäubungsmittel, mit dem er Sie beide
-dann…«
+dann …«
 
 » — — Und — wo ist der Mann geblieben?«
 
-»Heute früh abgereist — längst jenseits der Grenze…«
+»Heute früh abgereist — längst jenseits der Grenze …«
 
 Stille wieder …
 
@@ -1742,7 +1737,7 @@ Und dann Garlitts matte Stimme:
 »Nun — — lassen Sie mich verhaften, Herr Harst …
 —»- Fürchten Sie nicht, daß ich mich etwa hier erschießen
 werde. na ich getan, will ich büßen, selbst Weras Verachtung
-will ich tragen…«
+will ich tragen …«
 
 Seine Augenwinkel wurden feucht …
 
@@ -1755,7 +1750,7 @@ amerikanisches Bild gemacht, Herr Harst … I habe Wera nicht
 aus Berechnung geheiratet … Unsere Ehe mag nach außen
 hin kühl und gleichgültig erscheinen … — — Das täuscht …
 
-Mr.«… umso leben sehr glücklich — — sehr…«
+Mr.«… umso leben sehr glücklich — — sehr …«
 
 <@pagebreak/>
 »Und trotzdem … bestehlen Sie Ihre eigene Frau?!«
@@ -1782,7 +1777,7 @@ Verzweiflung …:
 
 »Bitte — erkundigen Sie sich doch, ob mein Vater nicht
 chemische Studien trieb … Erkundigen Sie sich doch, ob
-nicht…«
+nicht …«
 
 »- — — Bemühen Sie sich nicht weiter, Baron … Ich
 bleibe bei meiner Überzeugung … Sie haben sehr geschickt
@@ -1826,7 +1821,7 @@ Da stand »Harst auf, trat neben den Sessel des Barons.
 Zettel ist auf andere Art in meine Hände gelangt … Uf
 ganz andere Art … Denn — — der Dieb war noch gestern
 spät abends hier … Davon wissen Sie nichts … Er
-betäubte mich, ließ den Zettel zurück…«
+betäubte mich, ließ den Zettel zurück …«
 
 Garlitt biß sich auf die Lippen …
 
@@ -1870,14 +1865,14 @@ um Vorfälle, die in den Zeitungen bereits zu eingehend ermittelt
 sind. Und mein Name ist in den heutigen Morgenblättern
 auch schon genannt. Man weiß, daß ich mich mit
 diesen Verbrechen beschäftige. Außerdem geht es hier um
-Summen und Wertobjekte, die…«
+Summen und Wertobjekte, die …«
 
 Garlitt unterbrach ihn …
 
 »Lassen Sie nur … Ich sehe das ja selbst ein … Gut
 — mag das Schicksal seinen Lauf nehmen …! Und —
 wenn es überhaupt so etwas wie eine Vorsehung gibt, dann
-wird … das Schlimmste wohl verhütet werden…«
+wird … das Schlimmste wohl verhütet werden …«
 
 Er kam nun langsam zum Tisch zurück, blieb vor uns
 stehen und fügte hinzu: —
@@ -1907,7 +1902,7 @@ Pedersen etwas erstatten — etwas, die Wahrheit nämlich!
 Und die beiden sind eingeweiht — bestimmt! Sie kennen
 den Zuchthäusler … Und um dessen Person dreht sich
 alles … Er ist der geheimnisvolle Dieb … doppelt Es
-heinmi38voll, weil er ein gebildeter Mensch ist…«
+heinmi38voll, weil er ein gebildeter Mensch ist …«
 
 ins ich — mit berechtigtem Achselzucken:
 
@@ -1971,14 +1966,14 @@ Berliner Holzfirma ausgegeben. Kein Wunder also, daß
 wir Über Berliner Ereignisse sehr gut unterrichtet waren.
 
 y- « .- … Und der zweite Raub wurde an einer Baronin
-von Garlitt verübt…« erzählte? Harald weiter. »Der
+von Garlitt verübt …« erzählte? Harald weiter. »Der
 Name erinnert hier an den Ihres Dorfes, meine Herren.«
 
 Da rief der Gemeindevorsteher auch schon:
 
 »Vielleicht ist es die Gattin »unseres« jungen Barons?
 Denn das Rittergut Garlitten hat zuletzt dem Baron Gisbert
-von Garlitt gehört…«
+von Garlitt gehört …«
 
 »Dann ist’s der richtige, Herr Gemeindevorsteher,« nickte
 Harald eifrig. »Giö8bert von Garlitt — das stimmt …!-
@@ -2011,7 +2006,7 @@ wollte:
 schenken? Ich rechne auf Ihre Diskretion … Wir sind
 
 Kaufleute … Mein Name ist Harst … Ich bin
-in, Privatdetektiv, und mein Freund Schraut ist…«
+in, Privatdetektiv, und mein Freund Schraut ist …«
 
 »Oh — Ihre Namen sind mir nicht fremd,« meinte der
 armes freundlich … »Wenn ich Ihnen irgendwie rührt
@@ -2023,7 +2018,7 @@ ein Interesse zeigten… wie es zwei Touristen kaum ge
 bald hatten … Wenn es Ihnen recht ist, trinken wir in
 meinem Studierstitbehen noch einen Schluß Wein. Meine
 Frau ist verreist. Ich bin mit unserer alten Köchin allein,
-und die schläft längs…«
+und die schläft längs …«
 So saßen wir denn mir zu dreien in dem schlichten
 Beine um ein rundes Tischen herum. Des Pastors
 Tibets:Besitzer Johannisveertwein schmeckte tadellos …
@@ -2051,7 +2046,7 @@ Barons und einer tote … — — Die Leiche ist nie gefunden
 worden. Gerade in: gen:n Tagen — das sind nun neun
 <@pagebreak/>
 Jahre her, hatten wir schwere Nordoststürme, die die
-Leiche wohl fortgetragen haben…«
+Leiche wohl fortgetragen haben …«
 
 Harald lehnte im Sessel, schaute sinnend den Rauch
 wollten seiner Zigarette nach …
@@ -2116,10 +2111,10 @@ hatte recht: Mutter Pedersen sah niemand die Achtzig an.
 
 Harald holte Geld hervor …
 
-»Wir zahlen, was wir verzehren, liebe Frau…«
+»Wir zahlen, was wir verzehren, liebe Frau …«
 
 »Ich habe auch nichts zu verschenken,« erwiderte die
-Alte schlicht … »Wenn die Herren sich Seen wollen…«
+Alte schlicht … »Wenn die Herren sich Seen wollen …«
 
 Ei? wies auf die Bank neben der Haustür …
 
@@ -2130,7 +2125,7 @@ Und all das umrahmt von alten Buchenwäldern …
 
 »Die Herren können auch Kuhmilch haben,« meinte
 Mutter Pedersen … »Mancher liebt Ziegenmilch nicht …
-Obwohl sie doch Zettel ist…«
+Obwohl sie doch Zettel ist …«
 
 »Dann … Kuhmilch,« nickte Harst und schaute ins
 Weite …
@@ -2159,7 +2154,7 @@ aus den Zeitungen so manches bereits erfahren hatten …
 
 Das Weiblein wurde immer gesprächiger …
 
-»Der alte Baron … ja … ja — ertrunken…«
+»Der alte Baron … ja … ja — ertrunken …«
 flüsterte sie geheimniä8voll … »Ertrunken … und die
 Leiche nicht gefunden — — sagt man, sagt man …! Ich
 weiß es besser — — die Herren werden ja darüber nicht
@@ -2297,7 +2292,7 @@ Und ging weiter …
 Baronesse Garlitt … Möglich ist alles … Wir Werden
 schon noch eine Uferstelle finden, wo wir uns auf die
 Lauer legen oder der Frau gar in den Rücken gelangen
-können…«
+können …«
 
 So wurde auch diese Wanderung wieder zur Menschenjagd
 …
@@ -2391,7 +2386,7 @@ Harst schüttelte wie mißbilligend den Kopf …
 uns gefolgt, wollten feststellen, ob wir auch nicht umkehren
 würden … Und gerade, weil Sie es mit uns zu tun
 haben, sollten Sie auf diese Art von Komödie verzichten.
-Es wäre wirklich besser für alle Teile…«
+Es wäre wirklich besser für alle Teile …«
 
 Eva von Garlitt hatte scharfe Falten auf der T::in …
 
@@ -2459,7 +2454,7 @@ nach Harald. Der meinte nun achselzuckend:
 »Gut, wenn Sie uns durchaus der Polizei in Misdroy
 übergeben wollen — meinetwegen! sich erkläre Ihnen
 aber schon hier, daß nicht wir, sondern Sie wie Wegelagerer
-gehandelt haben…«
+gehandelt haben …«
 
 Und begleitet von sechs der jungen Kerlchen schritten
 wir zum Bache hinab. Die anderen zwei holten unsere
@@ -2556,13 +2551,13 @@ uns
 <@pagebreak/>
 »Meine Herren, gedulden Sie sich bitte nur noch wenige
 Stunden … Dann können wir es Ihnen behaglicher
-machen…«
+machen …«
 
 Sehr höflich, der Mann …!
 
 Wo waren wir — — wo?!
 
-Ich ahnte es nicht …«
+Ich ahnte es nicht  …«
 
 Los alte
 
@@ -2695,7 +2690,7 @@ Sceimzubringen…!« Und gähnt … Sieht nach der Uhr.
 
 »Drei — genau drei Uhr! Das Auto ist wie der Teufel
 gefahren! Denke — in etwa vier Stunden bis Berlin!
-Es muß ein erstklassiger Wagen gewesen sein…«
+Es muß ein erstklassiger Wagen gewesen sein …«
 
 Dann bückt er sich … Unsere Rucksäcke liegen da …
 
@@ -2729,7 +2724,7 @@ Harst reicht mir dann noch etwas — den weißen Briefumschlag,
 auf dem seine Adresse — Maschinenschrift ebenfalls
 — steht — und darunter flüchtig mit Bleistift geschleift
 
-»Ein Zufall, daß icm Ihren Rücktran8port beobachten
+»Ein Zufall, daß icm Ihren Rücktransport beobachten
 durfte … Man scheint Ihnen ja übel mitgespielt zu
 haben — sehr übel!«
 
@@ -2772,7 +2767,7 @@ Augen halb geschlossen …
 Ich Sinne über eine Bemerkung von ihm nach, die
 mir aufgefallen ist — vorhin, draußen am Zaune …
 
-»In vier Stunden bis Berlin…« hat er gesagt …
+»In vier Stunden bis Berlin …« hat er gesagt …
 
 Ich frage daher: »Wo, glaubst Du, waren wir in
 jener Bretterbude all die Stunden eingesperrt?«
@@ -2788,7 +2783,7 @@ Dasselbe Motorboot, daß die Japaner nachher benutzten.«
 Ich Alte vor Überraschung ganz steif da …
 
 »Badeanstalt?! Und — und — woher weißt Du dies?!
-Es kann doch auch irgend eine andere…«
+Es kann doch auch irgend eine andere …«
 
 »Nein — es war jene Ende«. stark, denn die Pfahle
 waren frisch geteert … Man roch’37 als wir vorübergingen
@@ -2858,7 +2853,7 @@ Mann …
 »Mein Name ist Schobert, Weib Schobert, Gutsbesitzer.
 Ich bitte sehr um Entschuldigung, daß ich zu dieser Stunde
 störe … Ich komme;hoch in einer so dringenden Angelegenheit,
-die…«
+die …«
 
 Harald öffnete die Tür nun vollends …
 
@@ -2874,7 +2869,7 @@ Die Aufklärung kam sehr bald …
 Denn Herr Schobert hatte kaum Platz genommen, als
 er schon begann:
 
-»Oh bin Besitzer des Rittergutes Garlitten…«
+»Oh bin Besitzer des Rittergutes Garlitten …«
 
 Diese Ein’eitung traf mich wie eine Ohrfeige …
 
@@ -2897,11 +2892,11 @@ Dann — lächelte er ganz wenig …
 
 Meinte liebenswürdig: »Meinen und unseren Glückwunsch,
 Herr Schobert … — Jetzt wird ja wohl die
-Baronesse zu besserer Einsicht gelangt sein…«
+Baronesse zu besserer Einsicht gelangt sein …«
 
 Da wurde Fritz Schobert noch ernster …
 
-»Tür Ihren Glückwunsch meinen verbindlihsten Dank.
+»Tür Ihren Glückwunsch meinen verbindlichsten Dank.
 — Es war ein harter Kampf, den ich mit Eva aufschreien
 mußte, ebhg ich sie schließlich auch zu meiner Ansicht bekehren.
 konnte … — Gestatten Sie, daß ich zur Klärung der Sachlage
@@ -2940,24 +2935,24 @@ beim Wort …
 
 So erfuhr ich denn aus ihrem Munde die Garlittsche
 Familientragödie, von der bisher nur wenige Menschen etwas
-ahnen…«
+ahnen …«
 
 Hier fiel Harald ihm ins Wort …
 
 »Diese Tragödie bezieht sich auf den alten Vater, Herr
-Schobert…«- —
+Schobert …«- —
 
-»Ja … Graf Viktor, Evas Vater, hat sich nicht…«
+»Ja … Graf Viktor, Evas Vater, hat sich nicht …«
 
 » — — das Leben genommen, sondern trennte sich von
 den Seinen, beging irgend ein schweres Verbrechen und
 wurde unter anderem Namen zu neunjähriger Zuchthausstrafe
-verurteilt…«
+verurteilt …«
 
 Schobert Stute … verbeugte sich dann … »Ich
 hätte beinahe vergessen, daß ich Harald Harst gegenübersitze
 … — Ja, Herr Harst, Ihre Kombinationen sind
-richtig. Graf Bilder… verzweifelt über den völligen wirt-sHastlichen
+richtig. Graf Bilder… verzweifelt über den völligen wirtschaftlichen
 Zusammenbruch und fraglos nicht ganz zurechnungsfähig,
 wurde zwei Monate nach seinem angeblichen
 Selbstmord in völlig vertvwahrlostem Zustand bei einem
@@ -2986,7 +2981,7 @@ alten Baron dort zur Rede gestellt …
 aber alles zugegeben … Er ist ganz offenbar geisteskrank,
 leider aber seitdem verschwunden … Seine
 Beute hat Peter Pedersen jedoch im Gebüsch der Laube
-aufgefunden…«
+aufgefunden …«
 
 »Das genügt mir, Herr Schobert … Ich bin seit
 auch über die Vorfälle dort am Seestrande ganz im Bilde.
@@ -2996,14 +2991,14 @@ Zigarre geraucht hat …
 »Ja.—« Und ich war auf Evas Bitten hin damit
 Einverstanden, daß wir Sie beide unbedingt veranlassen
 müßten, diesen Fall nicht weiter zu verfolgen, da wir eine
-Aufdeckung der Familientragödie befürchteten…«
+Aufdeckung der Familientragödie befürchteten …«
 
 Harald nickte wieder … Meinte dann: »Wo kamen
 die Japaner her, Herr Schobert?«
 
 »Diese Japaner sind zehn Studenten aus Greifswald,
 die einen Ausflug gemacht und auf meinem Gut um Qualmten
-gebeten hatten…«
+gebeten hatten …«
 
 »Danke … — Und Sie und die Baronesse waren
 mit in dem Auto, das uns nach Berlin brachte … Nachdem
@@ -3034,7 +3029,7 @@ Harst überlegte kurz. Dann streckte er Schobert die
 Hand hin …
 
 »denn der Baron noch in Berlin weilt, werden wir
-ihn finden … — Hören Sie mich an…«
+ihn finden … — Hören Sie mich an …«
 
 Das, was Harald nun weiter dem sympathischen
 Herrn Schobert vorschlug, brauche ich hier nicht näher anzugeben
