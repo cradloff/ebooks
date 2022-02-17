@@ -1634,11 +1634,11 @@ Und Garlitt beginnt …
 »Es hat seinen guten Grund, daß unser Familiengut
 Garlitten unter meinem Vater so vollständig heruntergewirtschaftet
 wurde. Mein Vater hatte für alles andere, nur
-nicht für Felder und Wälder Interesse. Seine Hauptbe-shchästigung
+nicht für Felder und Wälder Interesse. Seine Hauptbeschäftigung
 bildeten chemische Versuche. Und besonders
 waren es die betäubenden Gase der Neuzeit, mit denen er
 experimentierte … — Als er vor neun Jahren starb und
-als kurz nach ihm zurecht meine Mutter sonst entschloß, da
+als kurz nach ihm auch meine Mutter sanft entschlief, da
 mußten Eva und ich Garlitten verkaufen. Es war nicht
 mehr zu halten …
 
@@ -1646,26 +1646,26 @@ Als Andenken an meines Vaters chemische Studien
 nahm ich zwei Fläschchen eines von ihm erfundenen Betäubungsmittels
 mit hinüber in das neue Leben …
 
-Niemals habe ich ahnen können, daß ich diese Fläsch-dcjen
+Niemals habe ich ahnen können, daß ich diese Fläschchen
 <@pagebreak/>
 je benutzen würde. Und doch tat’s ich notgedrungen.«
 
 seine Stimme wurde noch leiser … Sein Kopf sank
-noch …
+noch tiefer …
 
-» — notgedrungen, meine Herren … Ich habe
+»Ja — notgedrungen, meine Herren … Ich habe
 einst als Junggeselle etwas begangen, wovon nur noch ein
-einziger Mensch wußte — ein elender Kerl, eine Erpresser …
+einziger Mensch wußte — ein elender Kerl, ein Erpresser …
 Der hat mich ausgesaugt … Der zwang mich auch jetzt
 zu diesen Verbrechen … Der war mein Komplice — in
 Weiberkleidern …! Und — — das ist eben … der
 Zuchthäusler!«
 
-Hier war’s Harald ein:
+Hier warf Harald ein:
 
 »Die heißt der Mann?«
 
-»Bedauere … — Ich habe mein Wort verpfändet …
+»Bedauere … Ich habe mein Wort verpfändet …
 Den Namen werde ich unter keinen Umständen nennen …«
 
 »Und der Mann ist vor kurzem aus einer Strafanstalt
@@ -1675,44 +1675,43 @@ entlassen?«
 beschaffen … Er forderte von mir eine halbe
 Million … Er drohte meine einstige Verfehlung …«
 
-»-: « Verzeihung — worin bestand die, Herr Baron?k«
+»… Verzeihung — worin bestand die, Herr Baron?«
 
-»Ich tiefere mich nicht selbst an den Strick, Herr Harst.
+»Ich liefere mich nicht selbst an den Strick, Herr Harst.
 Ich werde sagen, was ich sagen muß — mehr nicht …«
 
-»Bitte — weiter …
+»Bitte — weiter …«
 
 »Er forderte also eine halbe Million … Ich wußte
-
 nicht ein noch aus … Ich konnte doch unmöglich meinen
-Schwiegervater …
+Schwiegervater …«
 
-» « — … Und da fiel Ihnen das Gas ein …«
-»Ja … Es ist eine Flüssigkeit, die sofort gas8ssrmig
+»… Und da fiel Ihnen das Gas ein …«
+
+»Ja … Es ist eine Flüssigkeit, die sofort gasförmig
 wird, wenn sie mit der Luft in Berührung kommt … Ich
-
 kaufte mir eine Injektionsspritze …«
 
-»so?«
+»Wo?«
 
-»Das weiß ich nichfduimm der Erpresser besorgte sie für
-mich … Und mit ihm zusammen habe ich dann die rief
-Raubanfälle verübt … Die Beute behielt er … im
-
+»Das weiß ich nicht, denn der Erpresser besorgte sie für
+mich … Und mit ihm zusammen habe ich dann die vier
+Raubanfälle verübt … Die Beute behielt er … Nur
 die ersten achtzigtausend Mark mußte er zurückschicken …«
+
 »Auf Ihre Veranlassung?«
 
 <@pagebreak/>
-»Ja …
+»Ja …«
 
 »Und Sie wiesen dem Manne wohl auch das Obdach
 in der Laube nach?«
 
-»Gewiß … Ich überließ ihm gestern abend durch die
-Spitze und das Betäubungsmittel, mit dem er Sie beide
+»Gewiß … Ich überließ ihm gestern abend auch die
+Spritze und das Betäubungsmittel, mit dem er Sie beide
 dann …«
 
-» — — Und — wo ist der Mann geblieben?«
+»… und — wo ist der Mann geblieben?«
 
 »Heute früh abgereist — längst jenseits der Grenze …«
 
@@ -1724,50 +1723,52 @@ Ich wandte kein Auge von dem Baron … Vieles —
 sehr vieles an seinem Geständnis stieß mir auf …
 
 Und doch: sollte der Baron etwa lügen — sich selbst
-zu Knie beschuldigen?! Weshalb wohl — — Weltalls!
+zu Unrecht beschuldigen?! Weshalb wohl — — weshalb?!
 
-Reptile …
+Stille …
 
 Garlitt regte sich nicht …
 
-Seine Körperhaltung war »die eines Menschen, der mit
+Seine Körperhaltung war die eines Menschen, der mit
 dem Leben abgeschlossen hat …
 
 Das vornehme, müde Gesicht ganz verfallen …
 
 Stille …
+
 Draußen Sonnenschein …
-Maienlust …
+
+Maienluft …
 
 Lärmende Spatzen im Weinspalier …
 
 Und dann Garlitts matte Stimme:
 
 »Nun — — lassen Sie mich verhaften, Herr Harst …
-—»- Fürchten Sie nicht, daß ich mich etwa hier erschießen
-werde. na ich getan, will ich büßen, selbst Weras Verachtung
+— Fürchten Sie nicht, daß ich mich etwa hier erschießen
+werde. Was ich getan, will ich büßen, selbst Weras Verachtung
 will ich tragen …«
 
 Seine Augenwinkel wurden feucht …
 
-Langsam nahm er daß Monokel und schob es in die
+Langsam nahm er das Monokel und schob es in die
 Tasche …
 
-»Sie haben sich vielleicht von meiner Ehe ein ganz fast
-
-amerikanisches Bild gemacht, Herr Harst … I habe Wera nicht
+»Sie haben sich vielleicht von meiner Ehe ein ganz falsches
+Bild gemacht, Herr Harst … Ich habe Wera nicht
 aus Berechnung geheiratet … Unsere Ehe mag nach außen
-hin kühl und gleichgültig erscheinen … — — Das täuscht …
-
-Mr.«… umso leben sehr glücklich — — sehr …«
+hin kühl und gleichgültig erscheinen … Das täuscht …
+Wir … wir leben sehr glücklich — — sehr …«
 
 <@pagebreak/>
 »Und trotzdem … bestehlen Sie Ihre eigene Frau?!«
+
 Harald lächelte … lächelte sein gütigstes Lächeln dabei.
-fügte hinzu:
+
+Fügte hinzu:
 
 »Baron — verzeihen Sie: von alledem glaube ich kein
-Werft!«
+Wort!«
 
 Garlitt schaute auf.
 
@@ -1779,20 +1780,20 @@ Und Harst:
 Selbstbezichtigung nicht … Ich werde diese Gründe aber
 erfahren … — Widersprechen Sie nicht …! Sie sind
 niemals der Dieb … Sie kennen den Zuchthäusler — das
-ja! Aber alles übrige ist … erfunden …
+ja! Aber alles übrige ist … erfunden …«
 
-Garlitt nie] — und in seine« Augen lag’s wie fanatische
+Garlitt rief — und in seinen Augen lag’s wie fanatische
 Verzweiflung …:
 
 »Bitte — erkundigen Sie sich doch, ob mein Vater nicht
 chemische Studien trieb … Erkundigen Sie sich doch, ob
 nicht …«
 
-»- — — Bemühen Sie sich nicht weiter, Baron … Ich
+»… Bemühen Sie sich nicht weiter, Baron … Ich
 bleibe bei meiner Überzeugung … Sie haben sehr geschickt
 Wahrheit und Dichtung vermischt — ohne Zweifel. Und
 doch stürzt Ihr ganzes Gebäude zusammen, wenn ich Ihnen
-etwas … vorhalte …
+etwas … vorhalte …«
 
 Garlitt wurde unruhig …
 
@@ -1801,33 +1802,33 @@ Garlitt wurde unruhig …
 »Bitte — hier ist ein mit Maschine geschriebener Zettel.«
 
 Und er brachte das Blatt Papier zum Vorschein, den
-das U. G. B.-Gespenst gestern abend zurückgelassen, nachdem
+das U.&nbsp;G.&nbsp;B.-Gespenst gestern abend zurückgelassen, nachdem
 der Kommerzienrat und Wiebach davongefahren waren.
 
 Der Baron nahm das Blatt Papier …
 
 Las …
 
-Sdcywieg …
+Schwieg …
 
 »Nun?!« meinte Harald …
 
-»Ja — das habe ich geschrieben,« erklärte Garlitt Käfig.
+»Ja — das habe ich geschrieben,« erklärte Garlitt hastig.
 
 »Wo?!«
 
-»Ich habe eine Schreibmaschine daheim …
+»Ich habe eine Schreibmaschine daheim …«
 
 <@pagebreak/>
-»Möglich …—« Und Sie waren es, der den Zettel
-in meinen Briefkasten steckte?«
+»Möglich … — Und Sie waren es, der den Zettel
+*in meinen Briefkasten steckte*?«
 
-»Ja
+»Ja …«
 
-Da stand »Harst auf, trat neben den Sessel des Barons.
+Da stand Harst auf, trat neben den Sessel des Barons.
 
 »Sehen Sie, nun habe ich Sie hineingelegt …! Der
-Zettel ist auf andere Art in meine Hände gelangt … Uf
+Zettel ist auf andere Art in meine Hände gelangt … auf
 ganz andere Art … Denn — — der Dieb war noch gestern
 spät abends hier … Davon wissen Sie nichts … Er
 betäubte mich, ließ den Zettel zurück …«
@@ -1837,15 +1838,16 @@ Garlitt biß sich auf die Lippen …
 Und Harald legte ihm die Hand auf die Schulter …
 
 »Baron, geben Sie es auf …! Sie sind nicht der
-Dieb — niemals! Ihr Märchen ist …- … ein Geheimnis …
+Dieb — niemals! Ihr Märchen ist … ein Geheimnis …
 Und dieses Geheimnis reizt mich … Ich weiß schon jetzt:
 all das hängt irgendwie mit dem Zuchthäusler zusammen …
 Sie wollen diesen Mann schützen … Sie wollen … für
 ihn leiden! Er soll nicht verfolgt werden … — Baron,
-… wer ist dieser Mann?«
+wer ist dieser Mann?«
 
 Seltsam …
-ich! von Garlitt schlug plötzlich die Hände vor das
+
+Gisbert von Garlitt schlug plötzlich die Hände vor das
 Gesicht …
 
 Schluchzte … Sein ganzer Körper bebte …
@@ -1853,23 +1855,25 @@ Schluchzte … Sein ganzer Körper bebte …
 Was — was mochte wohl in der Seele dieses Mannes
 vorgehen?!
 
-Was wohl …
+Was wohl …?!
 
 Und wieder Harst:
+
 »Baron, erleichtern Sie Ihr Herz … Ich verspreche
-Ihnen, daß …
-… Garlitt schüttelte heftig den Kopf … Dann stand er
+Ihnen, daß …«
+
+Garlitt schüttelte heftig den Kopf … Dann stand er
 schnell auf, trat an das eine Fenster und wandte uns so den
 Rücken zu. Er schämte sich offenbar seiner Tränen, tupfte
-mit dem Taschentuch die Augen deren und sagte gepreßt,
+mit dem Taschentuch die Augen trocken und sagte gepreßt,
 ohne sich umzudrehen:
 
 »Herr Harst, wenn Sie wirklich ein Mensch mit einem
-mitfül Lenden Herzen in der Brust sind, dann … dann …
+mitfühlenden Herzen in der Brust sind, dann … dann …
 geben Sie diesen Fall auf…!«
 
 <@pagebreak/>
-»Das kann ich nicht, Baron … Ecke handelt sich hier
+»Das kann ich nicht, Baron … Es handelt sich hier
 um Vorfälle, die in den Zeitungen bereits zu eingehend ermittelt
 sind. Und mein Name ist in den heutigen Morgenblättern
 auch schon genannt. Man weiß, daß ich mich mit
@@ -1884,9 +1888,9 @@ wenn es überhaupt so etwas wie eine Vorsehung gibt, dann
 wird … das Schlimmste wohl verhütet werden …«
 
 Er kam nun langsam zum Tisch zurück, blieb vor uns
-stehen und fügte hinzu: —
+stehen und fügte hinzu:
 
-»Was Sie auch über n::.) denken mögen, meine Herren:
+»Was Sie auch über mich denken mögen, meine Herren:
 es gibt Pflichten, denen man sogar die eigene Ehre opfert!«
 
 Müde und trostlos klang’s … nun verbeugte er
@@ -1894,8 +1898,8 @@ sich, nahm Hut und Stock und verließ unser Haus …
 
 Sein Auto rollte davon … —
 
-Ich war noch so ganz im Dann des soeben Erlebten,
-daß ich zunächst Harald nur einen singenden prüfenden Blick
+Ich war noch so ganz im Bann des soeben Erlebten,
+daß ich zunächst Harald nur einen fragenden prüfenden Blick
 zuwarf …
 
 Harst schritt im Zimmer auf und ab, die Hände auf
@@ -1903,65 +1907,65 @@ dem Rücken, tiefe Falten über der Nasenwurzel …
 
 Machte vor mir Halt …
 
-»Nun sind wir genau so weit wie wir waten, mein
-Alter … Das heißt, wir »können von vorn beginnen!
+»Nun sind wir genau so weit wie wir waren, mein
+Alter … Das heißt, wir können von vorn beginnen!
 
-Wir werden:weder von der Barometer noch von Peter
-Pedersen etwas erstatten — etwas, die Wahrheit nämlich!
+Wir werden weder von der Baronesse noch von Peter
+Pedersen etwas erfahren — etwas, die Wahrheit nämlich!
 Und die beiden sind eingeweiht — bestimmt! Sie kennen
 den Zuchthäusler … Und um dessen Person dreht sich
-alles … Er ist der geheimnisvolle Dieb … doppelt Es
-heinmi38voll, weil er ein gebildeter Mensch ist …«
+alles … Er ist der geheimnisvolle Dieb … doppelt geheimnisvoll,
+weil er ein gebildeter Mensch ist …«
 
-ins ich — mit berechtigtem Achselzucken:
+Und ich — mit berechtigtem Achselzucken:
 
-»Von vorn beginnen?! Gut gesagt! Wo aber — was!«
+»Von vorn beginnen?! Gut gesagt! Wo aber — wo?!«
 
-»Faß mich nur machen …! Wir werden 3’ hagerer
-Erholung verreisen … Nicht weit … Nach«.ügern.
+»Laß mich nur machen …! Wir werden zu unserer
+Erholung verreisen … Nicht weit … Nach Pommern.
 <@pagebreak/>
-Ich werde feststellen, wo das Stammg1ilt Garlitten liegt.«
+Ich werde feststellen, wo das Stammgut Garlitten liegt.«
 
 Ich horchte auf …
 
 »Garlitten?!«
 
-»Ja … Denn dort müssen wir jebt beginnen…!«
+»Ja … Denn dort müssen wir jetzt beginnen …!«
+
 Um zwei Uhr nachmittags reisten wir vom Stettiner
 Bahnhof mit kleinem Gepäck nach dem Seebade Misdroy ab.
-Denn keine halbe Stunde von Misdroy entfernt erhob! sich
+Denn keine halbe Stunde von Misdroy entfernt erhebt sich
 Schloß Garlitten in einem bewaldeten, nach dem Meere
-bin sich öffnenden Tale …
+hin sich öffnenden Tale …
 
 <h2>2. Kapitel.</h2>
-<h3>- Mutter Pedersen.</h3>
+<h3>Mutter Pedersen.</h3>
 
 Abends sieben Uhr standen zwei blondbärtige Herren
 vor dem Dorfkrug des mehr landeinwärts gelegenen Dorfes
-Garlitten …-.
+Garlitten …
 
-Sie trugen Aussehe und derbe Störe, waren von Misdroy
+Sie trugen Rucksäcke und derbe Stöcke, waren von Misdroy
 her die Chaussee entlang gewandert und hatten sich in
 der reinen Wald- und Seeluft der herrlichen Insel Wollin
-denn Misdroy ist einer der Badeorte dieser pommerschen
-
-Üsteninsel) die Lungen vom Berliner Benzinduft gründlich
-Gesäubert und betraten nun das blitzsaubere Haus, über
+(denn Misdroy ist einer der Badeorte dieser pommerschen
+Küsteninsel) die Lungen vom Berliner Benzinduft gründlich
+gesäubert und betraten nun das blitzsaubere Haus, über
 Dessen Tür ein Riesenschild mit einem weißen Lamm als
-Wahrzeichen hing. — …
+Wahrzeichen hing. —
 
 Hier im Wirtshaus Zum weißen Lamm fing also für
 Harald und mich der zweite Teil des »Untergrundbahngespenstes«
 an …
 
-Hier saßen wir anderthalb Stunden später mit den Korporationen
+Hier saßen wir anderthalb Stunden später mit den Honoratioren
 des Dorfes im »Herrenzimmer« am runden
 Tische und spielten unsere Rollen als harmlose Touristen
-mit Ast erprobter Fertigkeit.
+mit oft erprobter Fertigkeit.
 
 <@pagebreak/>
 Da saßen neben uns der würdige Pastor, der Förster,
-wandte beiden ihrer und der alte Gemeindevorsteher. Wir
+die beiden Lehrer und der alte Gemeindevorsteher. Wir
 hatten eben Glück gehabt. Gerade heute war Stammtischabend.
 Und Harald hatte es unschwer erreicht, daß man uns
 mit zu der gemütlichen Runde hinzuzog …
@@ -1974,21 +1978,21 @@ Wir hatten uns als Kaufleute, als Angestellte einer
 Berliner Holzfirma ausgegeben. Kein Wunder also, daß
 wir Über Berliner Ereignisse sehr gut unterrichtet waren.
 
-y- « .- … Und der zweite Raub wurde an einer Baronin
-von Garlitt verübt …« erzählte? Harald weiter. »Der
+»… Und der zweite Raub wurde an einer Baronin
+von Garlitt verübt …« erzählte Harald weiter. »Der
 Name erinnert hier an den Ihres Dorfes, meine Herren.«
 
 Da rief der Gemeindevorsteher auch schon:
 
-»Vielleicht ist es die Gattin »unseres« jungen Barons?
+»Vielleicht ist es die Gattin »unseres« jungen Barons!
 Denn das Rittergut Garlitten hat zuletzt dem Baron Gisbert
 von Garlitt gehört …«
 
 »Dann ist’s der richtige, Herr Gemeindevorsteher,« nickte
-Harald eifrig. »Giö8bert von Garlitt — das stimmt …!-
+Harald eifrig. »Gisbert von Garlitt — das stimmt …!«
 
 Nun begann man Harald mit Fragen nach allerlei Einzelheiten
-zu bestürmen. Kein einziger der Herren doch
+zu bestürmen. Kein einziger der Herren des
 Stammtisches hielt eine Berliner Zeitung. Und so konnte
 Harst denn getrost Dinge erwähnen, die nicht in die Presse
 gelangt waren — so den Koch Pedersen und die Frau
@@ -2006,98 +2010,94 @@ Und der Stammtisch brach auf.
 
 Wir gaben vor, noch ein wenig Nachtluft genießen zu
 wollen, und begleiteten den Pastor bis zum Pfarrhaus.
-
-Hier nun ertönte Harst, als der alte Herr sich verabschieden
+Hier nun erklärte Harst, als der alte Herr sich verabschieden
 wollte:
 
 <@pagebreak/>
 »Herr Pastor, würden Sie uns noch eine halbe Stunde
 schenken? Ich rechne auf Ihre Diskretion … Wir sind
-
-Kaufleute … Mein Name ist Harst … Ich bin
-in, Privatdetektiv, und mein Freund Schraut ist …«
+nicht Kaufleute … Mein Name ist Harst … Ich bin
+Detektiv, Privatdetektiv, und mein Freund Schraut ist …«
 
 »Oh — Ihre Namen sind mir nicht fremd,« meinte der
-armes freundlich … »Wenn ich Ihnen irgendwie rührt
-sein kann — bitte …! See sehen, daß ich nicht weiter
-Madeira ht bin, daß Sie 5e«c sich jeht als zwei … Berühmtheiten
-entpuppt haben. Unsereiner ist Menschenkenner.
-Gift Fell am Stammtisch) auf, daß Sie für die Familie Harsts
-ein Interesse zeigten… wie es zwei Touristen kaum ge
-bald hatten … Wenn es Ihnen recht ist, trinken wir in
-meinem Studierstitbehen noch einen Schluß Wein. Meine
+Pfarrer freundlich … »Wenn ich Ihnen irgendwie nützlich
+sein kann — bitte …! Sie sehen, daß ich nicht weiter
+überrascht bin, daß Sie beide sich jetzt als zwei …
+Berühmtheiten entpuppt haben. Unsereiner ist Menschenkenner.
+Mir fiel am Stammtisch auf, daß Sie für die Familie Garlitt
+ein Interesse zeigten, wie es zwei Touristen kaum gehabt
+hätten … Wenn es Ihnen recht ist, trinken wir in
+meinem Studierstübchen noch einen Schluck Wein. Meine
 Frau ist verreist. Ich bin mit unserer alten Köchin allein,
-und die schläft längs …«
-So saßen wir denn mir zu dreien in dem schlichten
-Beine um ein rundes Tischen herum. Des Pastors
-Tibets:Besitzer Johannisveertwein schmeckte tadellos …
+und die schläft längst …«
 
-Der »Pfarrer teilt?!:18 alles mit, was wir wissen wollen
-17d 12238 mir vorhin am Stammtisch noch) nur in Bruch-stüFker:
+So saßen wir denn nur zu dreien in dem schlichten
+Zimmer um ein rundes Tischen herum. Des Pastors
+selbstgekelterter Johannisbeerwein schmeckte tadellos …
+
+Der Pfarrer teilte uns alles mit, was wir wissen wollten
+und was wir vorhin am Stammtisch doch nur in Bruchstücken
 erfahren hatten.
 
-»a — der alt? starker: hatte sich mehr mit Chemie als
+Ja — der alte Baron hatte sich mehr mit Chemie als
+mit Landwirtschaft abgegeben … Er war Phantast,
+Hatte stets auf eine Erfindung gehofft, die ihm Millionen
+in den Schoß werfen müßte …
 
-ist Landwirtschaft Vorgehen … —. per War Phantast,
-
-Hatte stets auf eins Erfindung gehofft, die ihm Millionen
-in den S4oß weiter Bitte …
-
-… Das Gut kam Immer mehr herunter, meine Herren
-… Und der Worten wurde immer eigentümlicher …
+»… Das Gut kam Immer mehr herunter, meine Herren
+… Und der Baron wurde immer eigentümlicher …
 Zuweilen redete er ganz wirres Zeug. Unter uns: er kann
-geistig nicht mehr ganz normal gewesen. sein, und
-sein trauriges Ende otätiagt?? dies vollauf. Er hat sich
-nämlich … schräg?: — in der See … Eines Abends
-ruderte er im eisernen Boot aufs Meer hinaus. Am Morgen
-fand man das Tor an Strande, darin die Kleider des
-Barons und einer tote … — — Die Leiche ist nie gefunden
-worden. Gerade in: gen:n Tagen — das sind nun neun
+geistig nicht mehr ganz normal gewesen sein, und
+sein trauriges Ende bestätigte dies vollauf. Er hat sich
+nämlich … ertränkt — in der See … Eines Abends
+ruderte er im offenen Boot aufs Meer hinaus. Am Morgen
+fand man das Boot am Strande, darin die Kleider des
+Barons und einen Brief … Die Leiche ist nie gefunden
+worden. Gerade in jenen Tagen — das sind nun neun
 <@pagebreak/>
 Jahre her, hatten wir schwere Nordoststürme, die die
 Leiche wohl fortgetragen haben …«
 
-Harald lehnte im Sessel, schaute sinnend den Rauch
-wollten seiner Zigarette nach …
+Harald lehnte im Sessel, schaute sinnend den Rauchwölkchen
+seiner Zigarette nach …
 
-»Herr Pastor, leben hier in Pforte vielleicht noch ehe
-w. Bedienstete des alten Barons?« fragte er nach einer
+»Herr Pastor, leben hier im Dorfe vielleicht noch ehemalige
+Bedienstete des alten Barons?« fragte er nach einer
+Weile …
 
-eile …
-
-»Zu … — Peter Pedersens steinalte Mutter … Die
-Frau ist jeht achtzig Jahre. Sie war im sein; eine Art
+»Ja … — Peter Pedersens steinalte Mutter … Die
+Frau ist jetzt achtzig Jahre. Sie war im Schloß eine Art
 Faktotum … Jetzt haust sie allein in einer jämmerlichen
-Hütte unweit des Schloßparkes am Wauldran:e … Ei
-ihre Jahre ist sie noch recht frisch. Geistig und [3192 »lich. Ihn
-Sohn unterstützt sie, und zu) die Warntest? soll ihr Kegel
-mäßig Geld schicken, vielleicht auf) der Lippen Skelett. Es
-geht ihr nicht schlecht … Sie worden Ort by Frau
-Pedersen aber kaum mehr erfahren als Hh’ec bei »Sitz…-«
+Hütte unweit des Schloßparkes am Waldrande … Für
+ihre Jahre ist sie noch recht frisch. Geistig und körperlich. Ihr
+Sohn unterstützt sie, und auch die Baronesse soll ihr regelmäßig
+Geld schicken, vielleicht auch der Baron Gisbert. Es
+geht ihr nicht schlecht … Sie werden dort bei Frau
+Pedersen aber kaum mehr erfahren als hier bei mir …«
 
-Gegen elf Uhr verabschiedeten wie rtü3 … Glasiert
+Gegen elf Uhr verabschiedeten wie uns … Gingen
 ins Wirtshaus und legten uns zu Bett. Harald war geradezu
-unheimlich schweigsam. Leine Fragen überböute er.
+unheimlich schweigsam. Meine Fragen überhörte er.
 
-Genau so war es morgens beim Tischfuß. Des so
-angebliche Maiweiter gestattete uns, in der Laube den Zweigen
-Kaffee einzunehmen. Nachher bezahlten wir unsere Qcmurng,
+Genau so war es morgens beim Frühstück. Das köstliche
+Maiweiter gestattete uns, in der Laube den Morgenkaffee
+einzunehmen. Nachher bezahlten wir unsere Rechnung,
 schulterten unsere Rucksäcke und wanderten weiter gen
 Wollin — scheinbar …
 
 Bogen aber sehr bald von der Chaussee ab und wandten
 uns der See zu …
 
-Sahen das Meer im Sonnencianz und begriffen, wie
+Sahen das Meer im Sonnenglanz und begriffen, wie
 schwer es dem Baron Gisbert gewesen sein mochte, von diesem
-herrlichen Flechten Erde zu scheinen …
+herrlichen Fleckchen Erde zu scheiden …
 
 Und links von uns auf einer Terrasse der Talwand
-unter alten Obstbäumen ein winziges kürzeren, strohgedeckt.
-Ein Gärtchen, ein Stü Wiese, auf denn zwei Ziegen weitem
+unter alten Obstbäumen ein winziges Hüttchen, strohgedeckt.
+Ein Gärtchen, ein Stück Wiese, auf denn zwei Ziegen weideten
 …
 
-»Damm, mein Alter,« sagte Harald … »Die alte
+»Komm, mein Alter,« sagte Harald … »Die alte
 Mutter Pedersen soll uns ein Glas Ziegenmilch spenden.«
 
 Wir schritten weiter …
@@ -2123,33 +2123,35 @@ Harald holte Geld hervor …
 »Wir zahlen, was wir verzehren, liebe Frau …«
 
 »Ich habe auch nichts zu verschenken,« erwiderte die
-Alte schlicht … »Wenn die Herren sich Seen wollen …«
+Alte schlicht … »Wenn die Herren sich setzen wollen …«
 
-Ei? wies auf die Bank neben der Haustür …
+Sie wies auf die Bank neben der Haustür …
 
 Wir nahmen Platz … Und welch ein wundervolles
-Flüßchen war das!! Ausblick ins Tal … links das
-Schloß, das Meer … Rechte Felder und Wiesen …
+Plätzchen war das!! Ausblick ins Tal … links das
+Schloß, das Meer … Rechts Felder und Wiesen …
 Und all das umrahmt von alten Buchenwäldern …
 
 »Die Herren können auch Kuhmilch haben,« meinte
 Mutter Pedersen … »Mancher liebt Ziegenmilch nicht …
-Obwohl sie doch Zettel ist …«
+Obwohl sie doch fetter ist …«
 
 »Dann … Kuhmilch,« nickte Harst und schaute ins
 Weite …
 
 Mutter Pedersen verschwand …
-— Der altersschwache Hund lag in der Nähe und beäugte
+
+Der altersschwache Hund lag in der Nähe und beäugte
 uns …
 
 Hühner gackerten …
-— Ich genoß diesen ländlichen Frieden mit dem Empfang-Alten
+
+Ich genoß diesen ländlichen Frieden mit dem empfänglichen
 Gemüt des Dichterlings …
 
 Es dauerte recht lange, bis Mutter Pedersen wieder
-erschien … Die Milch war köstlich. Not) köstlicher des
-haarklein harmloses Geplauder. Sie betrachtete Menschen
+erschien … Die Milch war köstlich. Noch köstlicher des
+Weiblein harmloses Geplauder. Sie betrachtete Menschen
 und Dinge von der hohen Warte ihrer achtzig Jahre herab.
 Man merkte ihr an, daß sie ihre Jugend in anderer Umgebung
 <@pagebreak/>
@@ -2157,31 +2159,31 @@ verbracht hatte. Ganz von selbst kam sie auf diese
 besseren Zeiten zu sprechen …
 
 Und so machte es sich ebenfalls ganz von selbst, daß
-Harald allerlei Fragen einflechten beugte, nachdem er erklärt
+Harald allerlei Fragen einflechten konnte, nachdem er erklärt
 hatte, daß wir über die Familie Garlitt als Berliner
 aus den Zeitungen so manches bereits erfahren hatten …
 
 Das Weiblein wurde immer gesprächiger …
 
-»Der alte Baron … ja … ja — ertrunken …«
-flüsterte sie geheimniä8voll … »Ertrunken … und die
+»Der alte Baron … ja … ja — ertrunken …,«
+flüsterte sie geheimnisvoll … »Ertrunken … und die
 Leiche nicht gefunden — — sagt man, sagt man …! Ich
 weiß es besser — — die Herren werden ja darüber nicht
 sprechen … Die Leiche … ist doch gefunden worden …
 Aber so bettelarm wie die Herrschaften im Schlosse waren
-— wo sollten sie wohl da? Welt für eine Beerdigung vernehmen?!
+— wo sollten sie wohl das Geld für eine Beerdigung hernehmen?!
 Und — da haben wir denn den Herrn Baron
 in aller Stille im Walde begraben, wir, mein Sohn Peter,
-der junge Baron, die Baronesse Eva und ich …
+der junge Baron, die Baronesse Eva und ich …«
 
 »Nicht möglich!« rief Harald …
 
 »Wenn die Herren das einsame Grab sehen wollen …
 Es ist nicht weit … Niemand sonst ahnt, wer dort unter
-dem großen Feldstein ruht, in den der Baron Giö3bert eigenhändig
+dem großen Feldstein ruht, in den der Baron Gisbert eigenhändig
 nur ein Kreuz eingemeißelt hat … Nur ein Kreuz.«
 
-Wir hatten die Gläser ausgestanden …
+Wir hatten die Gläser ausgetrunken …
 
 Die Alte trug sie in die Hütte … Und da war’s, daß
 Harald flüsterte:
@@ -2192,7 +2194,7 @@ Harald flüsterte:
 Vertrauen schenkt!«
 
 »Allerdings … Aber still jetzt … Und — — Vorsicht
-für alle Fälle…!« —
+für alle Fälle …!« —
 
 Mutter Pedersen schritt neben uns … Hinterher
 trollte der Hund …
@@ -2200,70 +2202,69 @@ trollte der Hund …
 Keine fünf Minuten gingen wir durch den Wald nach
 der Küste …
 
-Und auf einer kleinen Lichtung wirklich unter Tier stämmigen
-Eiche ein mächtiger Feldstein, grün Sennor]! — ein
+Und auf einer kleinen Lichtung wirklich unter einer stämmigen
+Eiche ein mächtiger Feldstein, grün bemoost — ein
 <@pagebreak/>
 eingemeißeltes Kreuz, kaum noch zu erkennen …
 
 Die Alte stand mit gefalteten Händen da … mit gesenktem
 Kopf … schien zu beten … Ich beobachtete sie
-von der Seite … Unter den schlafen, welken Lidern hervor
+von der Seite … Unter den schlaffen, welken Lidern hervor
 ein blitzschneller Blick — zu Harst hinüber … Und
 dieser eine Blick besagte genug …
 
 Dieses Weiblein war … Gegenpartei … Mutter
 Pedersen wußte, mit wem sie es hier zu tun hatte …
 
-Woher wußte sie es …!
+Woher wußte sie es …?!
 
 Dann schon Harald:
 
-»Wir dunklen Ihnen, Frau Pedersen … Und wir
+»Wir danken Ihnen, Frau Pedersen … Und wir
 werden nichts von dem verraten, was Sie uns anvertraut
-haben … — setzt wollen wir am Strande weiterwc »in,
-iend8 fahren wir dann von Wollin mit der Ciscen’ Bahn
+haben … — setzt wollen wir am Strande weiterwandern.
+Abends fahren wir dann von Wollin mit der Eisenbahn
+heim …«
 
-beim … —
-
-Er reite ihr die Hand … gab ihr noch fünf Mark, —
+Er reichte ihr die Hand … gab ihr noch fünf Mark. —
 
 Wir schritten davon … Der Wald wurde lichter …
-ne sage Sanddünen nahmen uns auf … Seeluft umwehte
-Ursprungs …
+Weiße Sanddünen nahmen uns auf … Seeluft umwehte
+uns …
 
 Und Harald — sehr ernst:
 
-»Du hast doch wohl auch) vor der Bank Mutter Pedersens
-die Zigarrenasche, den Zigarrenstummel und die Zi-garrcitnleibbinde
-liegen sehen, nicht wahr?«
+»Du hast doch wohl auch vor der Bank Mutter Pedersens
+die Zigarrenasche, den Zigarrenstummel und die
+Zigarrenleibbinde liegen sehen, nicht wahr?«
 
-So bis: 3 stehen …
+Ich blieb stehen …
 
 »Du meinst?!«
 
-— « Ich meine, daß Mutter Pedersen Besuch hat … Besuch,
-der noch:9 nicht lange bei ihr weilt … Ein Mann —
+»Ich meine, daß Mutter Pedersen Besuch hat … Besuch,
+der noch nicht lange bei ihr weilt … Ein Mann —
 der die gute Zigarre geraucht hat, der uns gesehen und erkannt
 hat … Und dieser Mann veranlaßte Mutter Pedersen
-dazu, u1:3 etwas mitzuteiuien, was angeblich sireungstes
-Geheinianis weniger Personen ist … Mutter Pedersen
-»brachte das Märchen etwas ungefesselt« vor — allzu schnell
-—» — uns Fremden gegenüber!«
+dazu, uns etwas mitzuteilen, was angeblich strengstes
+Geheimnis weniger Personen ist … Mutter Pedersen
+brachte das Märchen etwas ungeschickt vor — allzu schnell
+— — uns Fremden gegenüber!«
 
-Ich schämte Harst unsicher an …
+Ich schaute Harst unsicher an …
 
 »Etwa — — der Zuchthäusler?!«
 
 <@pagebreak/>
-»Ja! Der Zuchthäusler, der vier jetzt bei der alten
-Frau einen Unterschlupf gesucht hat …
-1«
+»Ja! Der Zuchthäusler, der hier jetzt bei der alten
+Frau einen Unterschlupf gesucht hat …«
 
-»Und …
-»- … und der sein anderer sein dürfte als …
-»- — — als der Baron Garlitt — — der alte Baröntte
-Gx
-Y
+»Und …?!«
+
+»… und der kein anderer sein dürfte als …«
+
+»… als der Baron Garlitt — — der alte Baron!!«
+
 <h2>3. Kapitel.</h2>
 
 <h3>Die gelben Piraten.</h3>
@@ -3051,7 +3052,7 @@ wartend auf und ab … Außer ihm sind nur noch
 wenige Fahrgäste anwesend, darunter wir beide: sanft als
 Alters Dame verkleidet.
 
-Kurz nach dem Baron Giä8bert ist da ein älterer Herr
+Kurz nach dem Baron Gisbert ist da ein älterer Herr
 mit grauem Vollbart und Schhlapphiut durch die Sperre
 gekommen …
 
