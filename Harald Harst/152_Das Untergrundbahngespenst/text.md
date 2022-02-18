@@ -2270,35 +2270,35 @@ Frau einen Unterschlupf gesucht hat …«
 <h3>Die gelben Piraten.</h3>
 
 Harald wurde jetzt gesprächig, als wir dicht am Strande
-dahin wanderten …
+dahinwanderten …
 
-»Für mich unterliegt es keinem Zweifel »ihr, das he
-Vater des Barons Gi3ö3bert noch lebt, und daß er auch reichlich
-im Zuchthaus gelesen hat … Ich habe das schon
-gestern vormittag vermutet, als Baron Hieb:r. ins Hexe:
-Über sich selbst bezichtigte. Lebt der alle Bord:-, so hat seines
-Sohnes Verhalten eine durchaus genügende Ort genug gefunden.
-Freilich, was Ei? Diebstähle in der Untergrundbahn
-angeht, bleiben noch recht viele Punkte völlig Funke!.«
+»Für mich unterliegt es keinem Zweifel mehr, das der
+Vater des Barons Gisbert noch lebt, und daß er auch wirklich
+im Zuchthaus gesessen hat … Ich habe das schon
+gestern vormittag vermutet, als Baron Gisbert uns gegenüber
+sich selbst bezichtigte. Lebt der alle Baron, so hat seines
+Sohnes Verhalten eine durchaus genügende Erklärung gefunden.
+Freilich, was die Diebstähle in der Untergrundbahn
+angeht, bleiben noch recht viele Punkte völlig dunkel.«
 
-Wir kamen jetzt on d:r Yadeanstalt vorüber, die zum
-Schlosse Garlitten gehört? … Auf dem T:ach Rand Latte
-sich eine Schwarm Mr.:v2n niederstoßen, sie an ter anderen,
-eine lange N2ih?? … plötzlich) sich:n die lang
-ichwingten Hügel dann in die Höhe, Beefsteak und lärmend
+Wir kamen jetzt an der Badeanstalt vorüber, die zum
+Schlosse Garlitten gehörte … Auf dem Dachrand hatte
+sich eine Schwarm Möwen niederstoßen, eine an der anderen,
+eine lange Reihe … Plötzlich stoben die langbeschwingten
+Vögel dann in die Höhe, kreischend und lärmend
 …
 
-Harald schaute ihnen nach, wie sie mir in einzeln« T’naare
-sich trennten und zu zweien über die kleinen Wogen ’;setzten
-… Deutete mit der Hand hinter ihnen der und fast?!
+Harald schaute ihnen nach, wie sie nun in einzelne Paare
+sich trennten und zu zweien über die kleinen Wogen schwebten
+… Deutete mit der Hand hinter ihnen her und sagte:
 
 <@pagebreak/>
-»Es war ein guter Anlaß, sich halb umzudrehen … — «
-Eine Dame verfolgt uns …
+»Es war ein guter Anlaß, sich halb umzudrehen …
+Eine Dame verfolgt uns …«
 
 Und ging weiter …
 
-»eine Dame, mein Alter …! Durchfeilt gar Eva
+»eine Dame, mein Alter …! Vielleicht gar Eva
 Baronesse Garlitt … Möglich ist alles … Wir Werden
 schon noch eine Uferstelle finden, wo wir uns auf die
 Lauer legen oder der Frau gar in den Rücken gelangen
@@ -2313,23 +2313,24 @@ Dünen besonders hoch und mit Gestrüpp bewachsen.
 
 Hier verbargen wir uns …
 
-Brauchten nicht lang? zu warten. eine? Dame in eilig
-Atem Lodenkostüm näherte sich — ohne Hut … blond,
+Brauchten nicht lange zu warten. eine Dame in schlichtem
+Lodenkostüm näherte sich — ohne Hut … blond,
 schlank … Schon von weitem fiel uns die Ähnlichkeit
 mit Gisbert von Garlitt auf … Und auch Größe, Gestalt
 und Bewegungen entsprachen durchaus denen Eva von
 Garlitts, die in der vergangenen Nacht mit Peter Pedersen
-das Laubenhäuschen ausgesucht hatte.
+das Laubenhäuschen aufgesucht hatte.
 
 Langsam kam sie über den Holzsteg …
 
 Im Sande der Dünen war unsere Doppelfährte als
 flache Eindrücke genau zu erkennen …
-by euch dann bog sie um den Busch, der uns als Deckung
 
-bediente …
-Wir hatten uns derweil niedergesetzt und unsere Rucke
-säße abgelegt, hatten das Brot auS&8gepakt, das der
+Und dann bog sie um den Busch, der uns als Deckung
+diente …
+
+Wir hatten uns derweil niedergesetzt und unsere Rucksäcke
+abgelegt, hatten das Brot ausgepackt, das der
 Wirt vom Weißen Lamm uns mitgegeben …
 
 Wir hielten harmlose Rast …
@@ -2337,18 +2338,17 @@ Wir hielten harmlose Rast …
 Blickten nun Eva von Garlitt an, die verdutzt stehen
 geblieben war … Harst grüßte … Ich desgleichen …
 
-By Das Gesicht der Baronesse überzog sich mit flüchtiger
+Das Gesicht der Baronesse überzog sich mit flüchtiger
+Röte …
 
-…
-
-dann dankte sie durch 1«ihres Kopfneigen und wollte
+dann dankte sie durch leichtes Kopfneigen und wollte
 weiter …
 
 <@pagebreak/>
 Harst sprach sie an …
 
 »Verzeihen Sie, gnädiges Fräulein — mir scheint, Sie
-hatten uns einiges zu fragen und wir Sie …
+hätten uns einiges zu fragen und wir Sie …«
 
 Ihre Augen veränderten im Moment den Ausdruck …
 wurden unendlich hochmütig …
@@ -2368,14 +2368,12 @@ Sie wandte nur halb den Kopf …
 
 Sie bog um das Gestrüpp …
 
-Harald war schon linke: ihr. sich. sprang gleichfalls
-
+Harald war schon hinter ihr. Ich sprang gleichfalls
 auf …
 
 Sie merkte, daß es kein Entrinnen gab … Oben
-aus der Dämonische stand sie … Zwanzig Meter das
-Bächlein … rechts das Meer … Und nur in der
-
+auf der Dünenhöhe stand sie … Zwanzig Meter das
+Bächlein … Rechts das Meer … Und nur in der
 Ferne ein paar Fischerboote — leer der Strand ringsum …
 Nur ein Motorboot glitt in rascher Fahrt ziemlich dicht am
 Ufer dahin …
@@ -2385,7 +2383,7 @@ Die Baronesse musterte uns wieder mit eisiger Ablehnung
 
 »Was wünschen Sie eigentlich?!«
 
-Und sie trat einen Schritt -yzurük und hob wie zur Argwohn
+Und sie trat einen Schritt zurück und hob wie zur Abwehr
 den derben alten Eichenstock, der ganz so aussah, als
 ob er Mutter Pedersen gehörte …
 
@@ -2398,7 +2396,7 @@ würden … Und gerade, weil Sie es mit uns zu tun
 haben, sollten Sie auf diese Art von Komödie verzichten.
 Es wäre wirklich besser für alle Teile …«
 
-Eva von Garlitt hatte scharfe Falten auf der T::in …
+Eva von Garlitt hatte scharfe Falten auf der Stirn …
 
 <@pagebreak/>
 »Geben Sie mir gefälligst den Weg frei!« meinte sie,
@@ -2409,15 +2407,15 @@ Und noch einen Schritt trat sie zurück …
 Wandte sich um — begann zu laufen …
 
 Und da erst sahen wir, daß das Motorboot bereits in
-die Bachmündung hineinsteuerte, daß drei, vier umsonst
-an Land sprangen … daß noch Weitere vier hinlief? der
+die Bachmündung hineinsteuerte, daß drei, vier Männer
+an Land sprangen … daß noch Weitere vier hinter der
 Bordwand auftauchten …
 
 Harst hatte der Baronesse nacheilen wollen … blieb
 stehen …
 
 »Abgekartetes Spiel …!! Gib acht, jetzt wird aus
-der Komödie eine Tragödie … »1«
+der Komödie eine Tragödie …!«
 
 Eva hatte inzwischen die Brücke erreicht …
 
@@ -2432,15 +2430,16 @@ Einer machte den Sprecher …
 
 Unter wilden Handbewegungen und in einem sehr
 mäßigen Deutsch warf er uns vor, die Dame belästigt zu
-haben … Redete von Polizei — Bestrafung — — Wo
+haben … Redete von Polizei — Bestrafung — —
 Wegelagerern …
 
-Und — zum Schluß brachten die acht fixen Schiffchen
+Und — zum Schluß brachten die acht fixen Kerlchen
 Pistolen zum Vorschein …
 
 Daß mit ihnen nicht zu spaßen, bewiesen ihre Gesichter.
-— Der S Sprecher versorgte, wir sollten ihnen auf das Motorboot
-seinen … Andernfalls würden sie Gewalt anwenden
+
+Der Sprecher verlangte, wir sollten ihnen auf das Motorboot
+folgen … Andernfalls würden sie Gewalt anwenden
 …
 
 Kurz — die Geschichte wurde wirklich ernst — sehr
@@ -2462,7 +2461,7 @@ ganzen waren es also zehn … Ich richtete mich völlig
 nach Harald. Der meinte nun achselzuckend:
 
 »Gut, wenn Sie uns durchaus der Polizei in Misdroy
-übergeben wollen — meinetwegen! sich erkläre Ihnen
+übergeben wollen — meinetwegen! Ich erkläre Ihnen
 aber schon hier, daß nicht wir, sondern Sie wie Wegelagerer
 gehandelt haben …«
 
@@ -2470,9 +2469,9 @@ Und begleitet von sechs der jungen Kerlchen schritten
 wir zum Bache hinab. Die anderen zwei holten unsere
 Rucksäcke …
 
-— Wir stiegen in das Motorboot, und gleich darauf
-kaufte dieses mit uns: »d unseren Büscheln in die See
-hinaus:.
+Wir stiegen in das Motorboot, und gleich darauf
+sauste dieses mit uns und unseren Häschern in die See
+hinaus …
 
 Es war ein sehr großes elegantes Boot. Wir saßen
 in Korbsesseln sehr bequem — um uns her die Japaner.
@@ -2484,44 +2483,45 @@ Der hatte noch immer seine Repetierpistole in der Hand.
 In seinen Blicken waren mehr Neugier und ein gewisser
 Respekt als Feindseligkeit zu bemerken …
 
-Das Boot entfernte sich. immer weiter von Land …
+Das Boot entfernte sich immer weiter von Land …
 
 Die Japaner schwiegen …
 
-Sie Harald recht gereizt erklärte:
+Bis Harald recht gereizt erklärte:
 
-»Ist dies etwa der kurz nach Misdroy?! — Diese
+»Ist dies etwa der Kurs nach Misdroy?! — Diese
 Sache muß ein Ende haben … Damit Sie nun erfahren,
-mit wem Sie hier wie mit Banditen umspringen: 14 bin
-der Berliner Privatdetektiv Harald sonst, und der Herr
-hier neben mir …
+mit wem Sie hier wie mit Banditen umspringen: ich bin
+der Berliner Privatdetektiv Harald Harst, und der Herr
+hier neben mir …«
 
 Der »Sprecher« fiel ihm ins Wort:
 
 »Wer Sie sind, ist uns gleichgültig …! Wir haben
 Sie beide dabei erwischt, wie Sie eine uns fremde Dame
-belästigten … Sie werden es sich Jeu seinen lassen
+belästigten … Sie werden es sich jetzt gefallen lassen
 müssen, daß wir Ihnen die Augen verbinden … Ich
 <@pagebreak/>
 betone: wenn Sie sich wehren, schießen wir! — Schauen
-Sie um sich … die See ist leer …!! Sie stiegen Über
+Sie um sich … die See ist leer …! Sie fliegen Über
 Bord — und für uns ist alles erledigt!«
 
 Das klang wieder verdammt ernst …
 
 Harst meinte nur:
 
-»Ich werde mit Ihnen abrechnen!!!!«
+»Ich werde mit Ihnen abrechnen!!«
 
 Und ließ sich ruhig einen schwarzen Zeugstreifen vor
 das Gesicht binden …
 
-doch nicht genug damit! auch die Hände fesselte man
+doch nicht genug damit: auch die Hände fesselte man
+uns …
 
-Wir war bei alledem keineswegs wohl zumute, wenngleich
+Mir war bei alledem keineswegs wohl zumute, wenngleich
 ich mir auch sagen mußte, daß diese zehn jungen Japaner,
 die ich für in Deutschland studierende Söhne des
-Sonnenläandes hielt, als Verbündete der Baronesse kaum
+Sonnenlandes hielt, als Verbündete der Baronesse kaum
 allzu böse mit uns umspringen würden …
 
 Außerdem hatte ich auch das bestimmte Gefühl, daß
@@ -2531,15 +2531,15 @@ getan hatte …
 
 Immerhin — man konnte nicht wissen, wie dieses
 Abenteuer enden würde … Vorläufig waren wir jedenfalls
-außer gesetzt gesetzt. —
+außer Gefecht gesetzt. —
 
 Und der Motor ratterte leise — — stundenlang …
 
 Das Boot fuhr stundenlang …
 
-Fakirs!
+Wohin?!
 
-Jedenfalls niemals nach Misdroy! …
+Jedenfalls niemals nach Misdroy!
 
 Und dann — warf man uns beiden, die wir ohnedies
 nichts sehen konnten, noch Decken über die Köpfe …
@@ -2549,14 +2549,12 @@ entlang …
 
 Hielt …
 
-Wir mußten ausstehen … Man führte uns über eine
+Wir mußten aussteigen … Man führte uns über eine
 dröhnende Bretterbrücke … In irgendein Gelaß, in dem
-es nach Seetang noch … Drückte mich in einen Sessel …
+es nach Seetang roch … Drückte mich in einen Sessel …
 Nahm mir die Decke wieder ab …
 
 Und dann der japanische Piratenchef, der Sprecher:
-
-uns
 
 <@pagebreak/>
 »Meine Herren, gedulden Sie sich bitte nur noch wenige
@@ -2567,36 +2565,31 @@ Sehr höflich, der Mann …!
 
 Wo waren wir — — wo?!
 
-Ich ahnte es nicht  …«
-
-Los alte
+Ich ahnte es nicht …
 
 <h2>4. Kapitel.</h2>
 <h3>Der Herr auf Garlitten.</h3>
 
--
-
-Diese rote Umgebung, von der ich nichts sah, lernte
+Diese neue Umgebung, von der ich nichts sah, lernte
 ich doch durch die Geräusche einigermaßen kennen, die so
 nach und nach an mein Ohr drangen …
 
-Es konnte sich mir um eine enge Kammer aus Brettern
-handeln. Ich hörte die Brandung ganz deutlich. rauschen. Ich
-Ich hörte die Brandung ganz deutlich rauschen … Ich
+Es konnte sich nur um eine enge Kammer aus Brettern
+handeln. Ich hörte die Brandung ganz deutlich rauschen. Ich
 hörte auch, sobald die Tür geöffnet wurde, das Kreischen
 von Möwen …
 
 Häufig gingen draußen Leute hin und her … —
 
-Dann nahm man 1’113 die Fesseln ab und entfernte
-zu) die schwarzen Durchstreifen …
+Dann nahm man uns die Fesseln ab und entfernte
+auch die schwarzen Tuchstreifen …
 
 Wir konnten sehen …
 
 Aber wir sahen wenig …
 
-eine winzige Laterne brannte und beleithtete gerade
-mir ein Klapptischven, auf dem man für uns allerlei Speisen
+eine winzige Laterne brannte und beleuchtete gerade
+nur ein Klapptischchen, auf dem man für uns allerlei Speisen
 bereitgestellt hatte …
 
 Um uns standen fünf Japaner und bewachten jede
@@ -2610,28 +2603,28 @@ Unsere Wächter blieben stumm …
 Ich folgte seinem Beispiel. Ich hatte einen Bärenhunger
 …
 
-Finger — alles was recht ist: diese Mahlzeit in dieser
+Und — alles was recht ist: diese Mahlzeit in dieser
 Bretterzelle war erstklassig! Dagegen ließ sich nichts sagen.
 
-Da waren Sardinen, Hummersalat, Sülzkotclette, zwei
-Sorten Male, Pumpernickel, tadellose Butter …
+Da waren Sardinen, Hummersalat, Sülzkotelette, zwei
+Sorten Käse, Pumpernickel, tadellose Butter …
 
-Teller, Schüsseln, Bestehe — alles tadellos!
+Teller, Schüsseln, Bestecks — alles tadellos!
 
 Harald nickte mir ein paarmal ernst zu, sprach aber
 kein Wort …
 
 Als wir fertig, mußten wir uns wieder die Augen
 verbinden lassen … Meiner Schätzung nach war es jetzt
-etwa zehn Uhr abends. —! in
+etwa zehn Uhr abends. —
 
 Und wieder wartete ich, was nun weiter erfolgen
 würde …
 
 Eine Stunde etwa nachts … Dann brachte man uns
-anderswohin … 6-
-Vorsichtig waren die gelben Piraten … Hatten uns
+anderswohin …
 
+Vorsichtig waren die gelben Piraten … Hatten uns
 wieder, wenn auch sehr rücksichtsvoll, die Hände auf den
 Rücken gebunden und uns die Decken über Kopf und Oberleib
 geworfen …
@@ -2647,10 +2640,10 @@ Es mußte eine Chaussee sein …
 
 Ich hörte ein Auto nahen …
 
-Mark schob mich ins Wageninnere, drückte mich auf den
+Man schob mich ins Wageninnere, drückte mich auf den
 Polstersitz …
 
-das Auto Jahr mit uns und unseren Wächtern davon.
+das Auto fuhr mit uns und unseren Wächtern davon.
 
 Stundenlang …
 
@@ -2658,11 +2651,11 @@ Ich wurde müde … schief ein … Erwachte …
 schlief wieder ein …
 
 Dann rüttelte mich jemand …
-Ah Hände zerrten mich heraus — ich hörte Bäume laut
 
-en …
+Hände zerrten mich heraus — ich hörte Bäume rauschen
+…
 
-Die Decke flog mir vom Kopf
+Die Decke flog mir vom Kopf …
 
 <@pagebreak/>
 Ich hörte das Auto davonjagen …
@@ -2672,11 +2665,11 @@ Gitterzaun …
 
 Und dann — Harsts Stimme:
 
-»Ich glaube, mein Alter, wir sind allein …
+»Ich glaube, mein Alter, wir sind allein …«
 
-Ich traute dem Frieden ’nicht ganz …
+Ich traute dem Frieden nicht ganz …
 
-»Vielleicht auch nicht,« meinte ich hinter meinem Augen-kappen
+»Vielleicht auch nicht,« meinte ich hinter meinem Augenlappen
 hervor …
 
 Da wurde mir dieser schon mit einem Ruck weggerissen.
@@ -2685,26 +2678,25 @@ Ich schaue …
 
 Bleiches Mondlicht über einer bekannten Landschaft …
 
-Nein — Über einem bekannten Straßenbilde …
+Nein — über einem bekannten Straßenbilde …
 
 Unsere Blücherstraße in Berlin-Schmargendorf …
 Unser Vorgartenzaun … Unsere Bäume, die im Vorgarten
 rauschen …
 
-Und — wir sind allein … ’Hatald hat ein von den
+Und — wir sind allein … Harald hat sich von den
 Handschlingen befreit … Nimmt mir lächelnd die Fesseln
 ab … Meint ganz vergnügt:
 
 »Sehr liebenswürdig von den Amateurpiraten, uns
-Sceimzubringen…!« Und gähnt … Sieht nach der Uhr.
+heimzubringen …!« Und gähnt … Sieht nach der Uhr.
 
 »Drei — genau drei Uhr! Das Auto ist wie der Teufel
 gefahren! Denke — in etwa vier Stunden bis Berlin!
 Es muß ein erstklassiger Wagen gewesen sein …«
 
 Dann bückt er sich … Unsere Rucksäcke liegen da …
-
-wund auf dem einen etwas Weißes — ein Brief …
+Und auf dem einen etwas Weißes — ein Brief …
 
 Wir gehen ins Haus — in Haralds Arbeitszimmer …
 Sind daheim — — daheim!
@@ -2716,9 +2708,9 @@ mit den Gelben so ungeheuerlich lächerlich vor …
 
 Und ich lache hell heraus …
 
-Harst sieht am Tisch, liest den Brief …
+Harst steht am Tisch, liest den Brief …
 
-Ein eigentümlicher Bis streift mich …
+Ein eigentümlicher Blick streift mich …
 
 Schweigend reicht er mir den Briefbogen …
 
@@ -2727,25 +2719,27 @@ Ich lese …
 Lila Maschinenschrift …
 
 <@pagebreak/>
-»Dein Harst, kreuzen Sie nicht nochmals meinen Weg! Dieser
+
+> »Herr Harst, kreuzen Sie nicht nochmals meinen Weg! Dieser
 Kampf wäre für Sie der letzte. — Das Untergrundbahngespenst.«
 
 Harst reicht mir dann noch etwas — den weißen Briefumschlag,
 auf dem seine Adresse — Maschinenschrift ebenfalls
-— steht — und darunter flüchtig mit Bleistift geschleift
+— steht — und darunter flüchtig mit Bleistift gekritzelt:
 
-»Ein Zufall, daß icm Ihren Rücktransport beobachten
+> »Ein Zufall, daß ich Ihren Rücktransport beobachten
 durfte … Man scheint Ihnen ja übel mitgespielt zu
 haben — sehr übel!«
 
 Das war alles …
+
 Ich blicke Harald fragend an …
 
-»Begreifst Du!« erklärt er lebhaft. »es war ein größer
-Irrtum … « … Wir glaubten den Zuchthäusler in Mutter
+»Begreifst Du!« erklärt er lebhaft. »es war ein großer
+Irrtum … Wir glaubten den Zuchthäusler in Mutter
 Pedersens Hütte, und in Wahrheit war die Baronesse dort.
 Denn dieser Brief wurde erst auf den Rucksack gelegt, nachdem
-das Auto sich entfernt hatte … JI hörte schleichende
+das Auto sich entfernt hatte … Ich hörte schleichende
 Schritte … Das war der Zuchthäusler, der alte Baron.«
 
 Und Harald nimmt nun gleichfalls Platz … Hat noch
@@ -2755,10 +2749,10 @@ füllt die Gläser … Trinkt mir zu … Sagt:
 
 »Die Geschichte wird eigentlich immer verwickelter, wie
 Du zugeben mußt, mein Alter … — Wo kommen die Japaner
-Kerl! Wie konnte Eva Garlitt sich [so rasch eine
+her?! Wie konnte Eva Garlitt sich so rasch eine
 solche Leibgarde beschaffen?!«
 
-Ich nie nur …
+Ich nicke nur …
 
 Wir scheint nichts mehr lächerlich …
 
@@ -2768,13 +2762,13 @@ Und Harald fährt fort:
 Pedersen dazu bestimmt hat, uns ihres Vaters angebliches
 Grab zu zeigen, damit wir ja nicht etwa auf die Vermutung
 kämen, des Barons Selbstmord in der See könne Täuschung
-sein … — Unklar ist alles übrige…!«
+sein … — Unklar ist alles übrige …!«
 
 Und er saugt an seiner Mirakulum und hält die
 Augen halb geschlossen …
 
 <@pagebreak/>
-Ich Sinne über eine Bemerkung von ihm nach, die
+Ich sinne über eine Bemerkung von ihm nach, die
 mir aufgefallen ist — vorhin, draußen am Zaune …
 
 »In vier Stunden bis Berlin …« hat er gesagt …
@@ -2785,24 +2779,24 @@ jener Bretterbude all die Stunden eingesperrt?«
 Und er — sehr erstaunt:
 
 »Bretterbude?! Du meinst Badeanstalt …! Es war
-doch natürlich die Badeanstalt, die zu Schloß Garlitten gö-hört
+doch natürlich die Badeanstalt, die zu Schloß Garlitten gehört
 — an der wir vorüberkamen … Dort lag ja auch
 das Motorboot auf dem in die See hinausgebauten Stege.
 Dasselbe Motorboot, daß die Japaner nachher benutzten.«
 
-Ich Alte vor Überraschung ganz steif da …
+Ich sitze vor Überraschung ganz steif da …
 
 »Badeanstalt?! Und — und — woher weißt Du dies?!
 Es kann doch auch irgend eine andere …«
 
-»Nein — es war jene Ende«. stark, denn die Pfahle
-waren frisch geteert … Man roch’37 als wir vorübergingen
-… Und ich rody’? auch, als wir als Gefangene zurückkehrten
+»Nein — es war jene Badeanstalt, denn die Pfähle
+waren frisch geteert … Man roch’s, als wir vorübergingen
+… Und ich roch’s auch, als wir als Gefangene zurückkehrten
 … Außerdem, Max Schraut, außerdem —
 wenn Du genau achtgegeben hättest: den Korb mit unserem
 Abendessen brachte Mutter Pedersen in die Badeanstalt …
 und ihr Hund war bei ihr … Der schnüffelte an der Tür
-Unserer Zelle, und dann flüsterte die Alle draußen etwas …
+Unserer Zelle, und dann flüsterte die Alte draußen etwas …
 Sie war’s schon … Es stimmt alles … Und weil sie
 es war, Und weil fraglos der alte Baron, der Zuchthäusler,
 Berlin gar nicht verlassen gehabt hat, so möchte ich gern
@@ -2817,16 +2811,16 @@ Harald murmelte mehr für sich …
 
 »Die Gelben … Die Japaner …!! Die passen
 so absolut nicht in das alles hinein … Ob die Burschen
-etwa das Motorboot …
+etwa das Motorboot …«
 
-Und brach mitten im« Satze ab …
+Und brach mitten im Satze ab …
 
 Legte die Zigarette weg …
 
 Rief leise: »Donnerwetter, daß ich auch nicht vorher
 <@pagebreak/>
 daran gedacht habe!! Natürlich — — es ist die einfachste
-Entsprang!«
+Erklärung!«
 
 »was?!« fragte ich ebenso plump wie gespannt …
 
@@ -2834,18 +2828,18 @@ Er hörte gar nicht hin …
 
 Er … horchte nach draußen …
 
-Ein Auto kam die Blücherstraße heraus … Hielt —
+Ein Auto kam die Blücherstraße herauf … Hielt —
 vor unserem Hause …
 
 Ich wollt aufspringen …
 
-»Silben bleiben!!«
+»Sitzen bleiben!!«
 
 Unsere Fensterläden waren geschlossen und lichtdicht …
-Nein verräterischer Strahl konnte von außen wahrgenonm-men
+Kein verräterischer Strahl konnte von außen wahrgenommen
 werden …
 
-Dann — — die Flurglodkde …
+Dann — — die Flurglocke …
 
 Der frühe Gast läutete Sturm …
 
@@ -2853,25 +2847,25 @@ Harald schlich in den Flur … Ich hinterdrein …
 
 Öffnete im Dunkeln die Haustür ganz wenig …
 
-Und draußen im Morgengrauen ein schlanker Fremden
+Und draußen im Morgengrauen ein schlanker fremder
 Mann …
 
 »Sie wünschen?«
 
-»Herr sonst …
+»Herr Harst …?«
 
-»Mein Name ist Schobert, Weib Schobert, Gutsbesitzer.
+»Mein Name ist Schobert, Fritz Schobert, Gutsbesitzer.
 Ich bitte sehr um Entschuldigung, daß ich zu dieser Stunde
-störe … Ich komme;hoch in einer so dringenden Angelegenheit,
+störe … Ich komme jedoch in einer so dringenden Angelegenheit,
 die …«
 
 Harald öffnete die Tür nun vollends …
 
-»Bitte, Herr Schobert …
+»Bitte, Herr Schobert …«
 
 Ich stieß die Tür des Arbeitszimmers auf …
 
-Und überlegte dabei, wo ich diesen Namen -Scherz
+Und überlegte dabei, wo ich diesen Namen Schobert
 kürzlich gehört hatte …
 
 Die Aufklärung kam sehr bald …
@@ -2879,9 +2873,9 @@ Die Aufklärung kam sehr bald …
 Denn Herr Schobert hatte kaum Platz genommen, als
 er schon begann:
 
-»Oh bin Besitzer des Rittergutes Garlitten …«
+»Ich bin Besitzer des Rittergutes Garlitten …«
 
-Diese Ein’eitung traf mich wie eine Ohrfeige …
+Diese Einleitung traf mich wie eine Ohrfeige …
 
 Garlitten!!
 
@@ -2890,13 +2884,13 @@ Herr Schobert aus Garlitten!!
 
 Da hatte dieser Herr Neureich, der Übrigens auf den
 ersten Blick einen ganz sympathischen Eindruck machte, schon
-hinzugefügt: »Ich bin … seit gestern der Verlobte den
-Baronesse Garlitt, Herr Harst …
+hinzugefügt: »Ich bin … seit gestern der Verlobte der
+Baronesse Garlitt, Herr Harst …«
 
-Und — jetzt durfte ich mich freuen: denn auch Haralkds
-Gesicht war nunmehr wie erstarrt in ungläubigen! Staunen!
+Und — jetzt durfte ich mich freuen: denn auch Haralds
+Gesicht war nunmehr wie erstarrt in ungläubigem Staunen!
 
-oh — nur einen Moment …
+Doch — nur einen Moment …
 
 Dann — lächelte er ganz wenig …
 
@@ -2906,32 +2900,30 @@ Baronesse zu besserer Einsicht gelangt sein …«
 
 Da wurde Fritz Schobert noch ernster …
 
-»Tür Ihren Glückwunsch meinen verbindlichsten Dank.
-— Es war ein harter Kampf, den ich mit Eva aufschreien
-mußte, ebhg ich sie schließlich auch zu meiner Ansicht bekehren.
+»Für Ihren Glückwunsch meinen verbindlichsten Dank.
+— Es war ein harter Kampf, den ich mit Eva ausfechten
+mußte, ehe ich sie schließlich auch zu meiner Ansicht bekehren
 konnte … — Gestatten Sie, daß ich zur Klärung der Sachlage
-etwas weiter aushole …
-
-setz
+etwas weiter aushole …«
 
 <h2>5. Kapitel.</h2>
 <h3>In der Untergrundbahn.</h3>
 
-Ich bin früher Bankbeamter gewesen. Daß rohe
+»… Ich bin früher Bankbeamter gewesen. Daß ich
 die Inflationszeit, vorher schon die Kriegskonjunktur gut,
-aber stets anständig ausgeruht habe, kann mir niemand verargen
-… Man rechnet mich zu der Sorte der Neureich4
-und nasses — zu Unrecht! Sie, meine Herren, werde«
-sich über meine Person annehmen selbst ein Urteil bilden könm—nen.
+aber stets anständig ausgenutzt habe, kann mir niemand verargen
+… Man rechnet mich zu der Sorte der Neureichs
+und Raffkes — zu Unrecht! Sie, meine Herren, werden
+sich über meine Person unschwer selbst ein Urteil bilden können.
 — Meine jetzige Braut lernte ich vor acht Jahren bereits
-kennen, als ich das total heruntergewirtschaftete Garc-litten
+kennen, als ich das total heruntergewirtschaftete Garlitten
 <@pagebreak/>
 käuflich erwarb. Eva war damals neunzehn Jahre
 alt, und schon damals verliebte ich mich in sie — eine recht
-aussichtslose Liebe. Trotzdem wagte ich Annäherungsver-suFHe,
+aussichtslose Liebe. Trotzdem wagte ich Annäherungsversuche,
 und diese führten allmählich zu einem Briefwechsel
-zwischen Spannt mir. Sie wußte genau, wie es um mich
-stand. Und doch) kam ich, was meine Herzensangelegenheit
+zwischen Eva und mir. Sie wußte genau, wie es um mich
+stand. Und doch kam ich, was meine Herzensangelegenheit
 betrifft, keinen Schritt vorwärts.
 
 Vorgestern abend — als Sie beide im Dorfe Garlitten
@@ -2950,56 +2942,56 @@ ahnen …«
 Hier fiel Harald ihm ins Wort …
 
 »Diese Tragödie bezieht sich auf den alten Vater, Herr
-Schobert …«- —
+Schobert …«
 
 »Ja … Graf Viktor, Evas Vater, hat sich nicht …«
 
-» — — das Leben genommen, sondern trennte sich von
+»… das Leben genommen, sondern trennte sich von
 den Seinen, beging irgend ein schweres Verbrechen und
 wurde unter anderem Namen zu neunjähriger Zuchthausstrafe
 verurteilt …«
 
-Schobert Stute … verbeugte sich dann … »Ich
+Schobert stutzte … verbeugte sich dann … »Ich
 hätte beinahe vergessen, daß ich Harald Harst gegenübersitze
 … — Ja, Herr Harst, Ihre Kombinationen sind
-richtig. Graf Bilder… verzweifelt über den völligen wirtschaftlichen
+richtig. Graf Viktor, verzweifelt über den völligen wirtschaftlichen
 Zusammenbruch und fraglos nicht ganz zurechnungsfähig,
 wurde zwei Monate nach seinem angeblichen
-Selbstmord in völlig vertvwahrlostem Zustand bei einem
+Selbstmord in völlig verwahrlostem Zustand bei einem
 Raubüberfall auf einen Viehhändler verhaftet und unter
 anderem Namen zu neun Jahren Zuchthaus verurteilt. Nur
 durch einen Zufall erfuhren Eva und Gisbert hiervon und
 <@pagebreak/>
 — schwiegen, was ihnen nicht weiter zu verdenken war. —
 Infolge tadelloser Führung wurde dem alten Grafen das
-lebte halbe Jahr seiner Straße geschenkt. Überraschend
-erschien er bei seiner Tochter, die zu schient Entsetzen merkte,
+letzte halbe Jahr seiner Strafe geschenkt. Überraschend
+erschien er bei seiner Tochter, die zu ihrem Entsetzen merkte,
 daß der Ärmste aus dem Zuchthaus nichts als einen ungeheuren
-Haß gegen die menschliche Geisterhaft mitgebracht
-hatte. traf Viktor fand vorläufig in …
+Haß gegen die menschliche Gesellschaft mitgebracht
+hatte. — Graf Viktor fand vorläufig in …«
 
-… dem Laubenhäuschen Unterkunft, und er war es,
+»… dem Laubenhäuschen Unterkunft, und er war es,
 der dann seinen Haß gegen die Gesellschaft durch die Diebstähle
 in der Untergrundbahn betätigte … Die Art dieser
 Beraubungen ließ bei der Baronesse den Argwohn rege
 werden, daß ihr Vater der geheimnisvolle Dieb sei …
-In jener Nacht, als Schraut und ich in die Laube eindrane-,
-gen, hatte die Baronesse und vor treue Peter Pedersen den
-alten Baron dort zur Rede gestellt …
+In jener Nacht, als Schraut und ich in die Laube eindrangen,
+hatte die Baronesse und der treue Peter Pedersen den
+alten Baron dort zur Rede gestellt …«
 
-»zu. — und er hatte erst zu leugnen versucht, nachher
+»Ja — und er hatte erst zu leugnen versucht, nachher
 aber alles zugegeben … Er ist ganz offenbar geisteskrank,
 leider aber seitdem verschwunden … Seine
 Beute hat Peter Pedersen jedoch im Gebüsch der Laube
 aufgefunden …«
 
-»Das genügt mir, Herr Schobert … Ich bin seit
+»Das genügt mir, Herr Schobert … Ich bin jetzt
 auch über die Vorfälle dort am Seestrande ganz im Bilde.
-Sie waren es doch, die vor Mutter Pedersens Hütte die
-Zigarre geraucht hat …
+Sie waren es doch, der vor Mutter Pedersens Hütte die
+Zigarre geraucht hat …?«
 
-»Ja.—« Und ich war auf Evas Bitten hin damit
-Einverstanden, daß wir Sie beide unbedingt veranlassen
+»Ja … — Und ich war auf Evas Bitten hin damit
+einverstanden, daß wir Sie beide unbedingt veranlassen
 müßten, diesen Fall nicht weiter zu verfolgen, da wir eine
 Aufdeckung der Familientragödie befürchteten …«
 
@@ -3007,7 +2999,7 @@ Harald nickte wieder … Meinte dann: »Wo kamen
 die Japaner her, Herr Schobert?«
 
 »Diese Japaner sind zehn Studenten aus Greifswald,
-die einen Ausflug gemacht und auf meinem Gut um Qualmten
+die einen Ausflug gemacht und auf meinem Gut um Quartier
 gebeten hatten …«
 
 »Danke … — Und Sie und die Baronesse waren
@@ -3015,18 +3007,18 @@ mit in dem Auto, das uns nach Berlin brachte … Nachdem
 <@pagebreak/>
 Sie uns hier vor dem Hause abgesetzt hatten, kamen
 Ihnen Bedenken, ob Ihre Handlungsweise uns gegenüber
-nicht vielleicht sehr unzweckmäßig gewesen sei …
+nicht vielleicht sehr unzweckmäßig gewesen sei …«
 
 »So ist es, Herr Harst …! Ich bestürmte Eva, mir
 zu gestatten, Sie beide einzuweihen, und Sie insofern um
 Hilfe zu bitten, als Sie uns helfen sollen, den alten Baron
 in aller Stille in eine Heilanstalt zu bringen. Dieses Ärmsten
-krankhafter Haß und ebenso krankhafte Neigung zu verbrecherischen
+krankhafter Haß und ebenso krankhafte Neigung zu verbrecherischem
 Tun könnte sich auch gegen seine Kinder richten,
-in besondere gegen den Baron Gisbert, dem er für
+insbesondere gegen den Baron Gisbert, dem er für
 den Verlust des Familiengutes verantwortlich macht, was
 geradezu unsinnig ist. — Wie gesagt — wir wissen nicht,
-wo der Bedauernswerte sich jetzt verborgen hält. Er angekettet
+wo der Bedauernswerte sich jetzt verborgen hält. Er arbeitet
 mit einem Weibe zusammen, die gleichzeitig mit ihm
 aus dem Zuchthaus entlassen wurde. Näheres über diese
 Frau kann im nicht angeben. Nur ist eine gewiß: der alte
@@ -3038,7 +3030,7 @@ helfen wollen, kommt es zu einem Skandal.«
 Harst überlegte kurz. Dann streckte er Schobert die
 Hand hin …
 
-»denn der Baron noch in Berlin weilt, werden wir
+»Wenn der Baron noch in Berlin weilt, werden wir
 ihn finden … — Hören Sie mich an …«
 
 Das, was Harald nun weiter dem sympathischen
@@ -3049,20 +3041,20 @@ Vier Stunden später …
 
 Auf dem Bahnsteig Wilhelmplatz geht Baron Gisbert
 wartend auf und ab … Außer ihm sind nur noch
-wenige Fahrgäste anwesend, darunter wir beide: sanft als
-Alters Dame verkleidet.
+wenige Fahrgäste anwesend, darunter wir beide: Harst als
+ältere Dame verkleidet.
 
 Kurz nach dem Baron Gisbert ist da ein älterer Herr
-mit grauem Vollbart und Schhlapphiut durch die Sperre
+mit grauem Vollbart und Schlapphut durch die Sperre
 gekommen …
 
 <@pagebreak/>
-(Der Leerzug fährt ein …
+Der Leerzug fährt ein …
 
-Baron Gisbert betritt ein Nr Nrancherabteil zweiter
+Baron Gisbert betritt ein Nichtraucherabteil zweiter
 Klasse … Der alte Herr folgt ihm …
 
-schlich arme erleichtert auf …
+Ich atme erleichtert auf …
 
 Denn jetzt weiß ich: das Untergrundbahngespenst wird
 keinen Schaden mehr anrichten!
@@ -3072,18 +3064,18 @@ Harst! — nimmt Baron Gisbert gegenüber Platz, neben
 dem der Graubart in der Wagenecke ist … Ich steige
 als letzter ein …
 
-Der alte Herr verrückt »Oh in ein Buch, hat aber die
-drehte Hand in der Hosentasche …
+Der alte Herr vertieft sich in ein Buch, hat aber die
+rechte Hand in der Hosentasche …
 
 Der Zug hat noch nicht einmal seine volle Geschwindigkeit
 erreicht, als ich auch schon bemerke, wie Gisbert von
-Garlitt langsam auf seinem Platze! zusammensinkt …
+Garlitt langsam auf seinem Platze zusammensinkt …
 
 Im Nu habe ich die Clement heraus …
 
 Harst reißt den Schleier hoch …
 
-Ich halte dem Graubart die Waffe vor die, Brust …
+Ich halte dem Graubart die Waffe vor die Brust …
 
 »Baron Garlitt, Sie werden gehorchen …! Sie werden
 uns begleiten …!«
@@ -3091,33 +3083,32 @@ uns begleiten …!«
 Ein Wutblick trifft mich; dann — senkt der alte Mann
 den Kopf … ganz tief …
 
-… Beginnt zu schwanken …
+Beginnt zu schwanken …
 
 Harst springt zu — zieht ihm mit einem Ruck die rechte
-Hand aus der Hosentasche … ,- Und diese Hand hält einen
-Gummiball umkrampft, von« dem ein dünner Schlauch sich
+Hand aus der Hosentasche … Und diese Hand hält einen
+Gummiball umkrampft, von dem ein dünner Schlauch sich
 abzweigt …
 
-Harald zerreißt den Schlau, schiebt den Ball in die
-Tasche … Und Bahnhof Bi3mardstraße bringen wir
-zwei Bewußtlose auf den Bahnsteig-«- bringen sie in ein
-glatte … Sind in eine Viertelstunde darauf in der
-Grunewaldvilla Baron Diskrete …
+Harald zerreißt den Schlauch, schiebt den Ball in die
+Tasche … Und Bahnhof Bismarckstraße bringen wir
+zwei Bewußtlose auf den Bahnsteig — bringen sie in ein
+Auto … Sind in einer Viertelstunde darauf in der
+Grunewaldvilla Baron Gisberts …
 
-Gisbert von Garlitt kommt sehr bald wieder zu sieh
-Inzwischen haben wir den Anzug seines ausdrücklichen
+Gisbert von Garlitt kommt sehr bald wieder zu sich.
+Inzwischen haben wir den Anzug seines unglücklichen
 Vaters bereits untersucht … Der Gummischlauch reichte
-
-[
-
 <@pagebreak/>
 bis zur Krawattennadel nach oben, und aus dem halb
 offenen Maul des Hundekopfes war das Gas den Opfern
 des … Untergrundbahngespenstes ins Gesicht gedrungen.
+
 Ich habe nicht mehr viel hinzuzufügen …
-Der alte Herr wurde in aller Stille in ein Sanatorium.
+
+Der alte Herr wurde in aller Stille in ein Sanatorium
 geschafft, wo er in kurzem an Gehirnerweichung verstarb.
 
 Folgender Band:
 
-Der Geisterberg Schatz Schaka,
+__Der Geisterberg Schara Schaka.__
