@@ -206,7 +206,7 @@ Dann fing Harst zu fragen an …
 
 »Ja — es war sehr voll in der Untergrundbahn,« bestätigte
 Wiebach. »Ich hatte die Ledertasche am Riemen
-Über der Schulter und hielt sie mit beiden Händen fest …«
+über der Schulter und hielt sie mit beiden Händen fest …«
 
 »Sie standen?«
 
@@ -263,7 +263,7 @@ Harst eilte hin, nahm den Hörer …
 
 Horchte … machte eine jähe Kopfbewegung …
 
-rief uns zu:
+Rief uns zu:
 
 »Die achtzigtausend Mark sind dem Direktor der Minifax-A.-G.
 als Paket zurückgeschickt worden — per Post — —
@@ -335,7 +335,7 @@ Immer stärker …
 
 Schleppte ihn schließlich mit Aufbietung all meiner
 Kräfte zum Diwan … Flößte ihm Kognak ein … Nahm
-an, daß er einen schweren Ohnmachtsanfall gehabt habe,
+an, daß er einen schweren Ohnmachtsanfall gehabt habe.
 
 Freilich — ein Harald Harst und eine Ohnmacht so ohne
 jede Ursache?! Wie reimte sich das mit seiner kerngesunden
@@ -426,7 +426,7 @@ zum Tote geleitet hatte?!
 
 Unglaublich fast …!! Also mußte der Mensch im
 Vorgarten sich verborgen gehabt haben … Hatte die Fragen
-Minuten meiner Abwesenheit zu diesem? Attentat benutzt
+Minuten meiner Abwesenheit zu diesem? Attentat benutzt.
 
 »Lies bitte vor!« mahnte Harald …
 
@@ -452,7 +452,7 @@ Fernwirkung berechnet … Jedenfalls: das U.&nbsp;G.&nbsp;B.-Gespenst
 <@pagebreak/>
 hat uns seine Aufwartung gemacht! Ich habe ihm
 Auge in Auge gegenübergestanden, und es ist mir herzlich
-Schlecht bekommen …«
+schlecht bekommen …«
 
 Er gähnte wieder …
 
@@ -615,7 +615,7 @@ Ich hinaus …
 
 Frage …
 
-Kriminalkommissar Rütlin,« ruft eine Baßstimme …
+»Kriminalkommissar Rütlin,« ruft eine Baßstimme …
 
 Rütlin, alter Bekannter, tritt ein …
 
@@ -652,7 +652,7 @@ Rütlin sagt:
 »Harst, wenn Sie mir nicht beistehen, kaufe ich mir
 einen Strick … Der Lump muß gefaßt werden …
 Stellen Sie sich vor: Im selben Abteil mit Jelling fuhr einer
-meiner rührigsten Beamten!! Es ist zum Verrückt werden!«
+meiner rührigsten Beamten!! Es ist zum Verrücktwerden!«
 
 <@pagebreak/>
 »Stimmt!« nickt Harald … »Leider!! Denn Schraut
@@ -679,7 +679,7 @@ Harst schildert ihm, was uns dieser Tag gebracht hat …
 Besuch des Ehepaares Garlitt — Besuch Wiecherts und
 Macks … — und des U.&nbsp;G.&nbsp;B.-Gespenstes!!
 
-als Rütlin dies hört, fährt er ordentlich hoch …
+Als Rütlin dies hört, fährt er ordentlich hoch …
 
 »Scherzen Sie, Harst?! Der Kerl war hier?!«
 
@@ -715,7 +715,7 @@ steht …
 Er blättert im Fernsprechverzeichnis … Verlangt
 dann Lützow 1011 …
 
-»könnte ich Herrn Juwelier Radtke noch persönlich
+»Könnte ich Herrn Juwelier Radtke noch persönlich
 sprechen?« fragt er …
 
 Wartet …
@@ -736,11 +736,11 @@ Und er hängte ab …
 
 Er schaut mich grübelnd an …
 
-»doch — doch, mein Alter …! — Ich will Dich nicht
+»Doch — doch, mein Alter …! — Ich will Dich nicht
 auffordern, mich zu begleiten … Das Wetter ist zu miserabel
 … Immerhin, wenn Du Lust hast …«
 
-»welche Frage?! — Und — — wohin?!«
+»Welche Frage?! — Und — — wohin?!«
 
 »Das wirst Du schon sehen … Ich habe jetzt eine
 Spur gefunden … Das heißt: Spur kann man das nicht
@@ -748,7 +748,7 @@ nennen … Nein, es handelt sich mehr um einen ganz
 schwachen Anhaltspunkt, wie wir die Sache anpacken könnten
 … Würde ich Dir dies näher auseinandersetzen, dann
 würdest Du fraglos voreingenommen werden. Und das
-soll nicht sein. einer von uns muß die Dinge objektiv
+soll nicht sein. Einer von uns muß die Dinge objektiv
 betrachten …«
 
 »Hm — das sind Redensarten, Harald. In Wahrheit
@@ -879,7 +879,7 @@ die Hubertusallee hinweg …
 
 Immer weiter … Bis zu dem unbebauten Gelände
 nach Neu-Schmargendorf zu, wo auf dem unbebauten Terrain
-Überall unter vereinzelten Kiefern und anderen Bäumen
+überall unter vereinzelten Kiefern und anderen Bäumen
 kleine Laubenkolonien schon vor Jahren entstanden
 sind …
 
@@ -1127,7 +1127,7 @@ Mir wär dies Quartier zu unsicher …«
 
 »Ich bin vorsichtig,« erwidert der entlassene Zuchthäusler
 … »Und wenn man mich findet — es wäre auch
-nicht Weiter schlimm … Ich bettele nur … Alles
+nicht weiter schlimm … Ich bettele nur … Alles
 andere habe ich … mir abgewöhnt …«
 
 Er sitzt zusammengesunken da … Er hat die Hand
@@ -1167,7 +1167,7 @@ Vor uns steht der Wächter des Neubaues …
 
 »Nu habt Ihr ja wohl ausgepennt,« meint er gemütlich
 … »Nu türmt man wieder! Müßt vaflucht schwer jeladen
-haben! schon drei Stunden liegt Ihr hier …«
+haben! Schon drei Stunden liegt Ihr hier …«
 
 Ich werde immer munterer … Ich rüttele Harald …
 
@@ -1206,7 +1206,7 @@ er wüßte nichts von dem Zuchthäusler — gar nichts! —
 Nein — wir müssen anders vorgehen … Schritt für
 Schritt … Garlitt ist durch den Zuchthäusler längst davon
 unterrichtet, daß wir beide ihm auf der Spur … Da
-Heißt es also List gegen List …«
+heißt es also List gegen List …«
 
 Er nimmt als Nachtisch eine Mirakulum …
 
@@ -1380,7 +1380,7 @@ reagiert …« Er sprach sehr leise … Ich reichte
 ihm sein Monokel. Er säuberte es, klemmte es ein und
 starrte vor sich hin …
 
-blickte dann zu Harald empor …
+Blickte dann zu Harald empor …
 
 »Ihre … Anklage ist mir doch verdammt an die
 Nieren gegangen, Herr Harst … Wenn ein anderer mir
@@ -1546,7 +1546,7 @@ Und hier inmitten der Beete, aus deren feuchtem Erdreich
 überall junge Pflänzchen hervorlugten, hier sagte
 Harald unvermittelt:
 
-»in einem Punkt hat der Baron gelogen: er kennt den
+»In einem Punkt hat der Baron gelogen: er kennt den
 Zuchthäusler! — Und das, was die Baronesse und Pedersen
 am Telephon angaben, hatten sie natürlich verabredet …
 <@pagebreak/>
@@ -1569,7 +1569,7 @@ von dieser Zusammenkunft …«
 kennt er!«
 
 Und er bückte sich und hob mit einem Stückchen Ast eine
-schwarze Teerschnecke auf und warf sie in die Büsche …
+schwarze Teerschnecke<@refnote 1/> auf und warf sie in die Büsche …
 
 Schaute mich wieder an …
 
@@ -1591,7 +1591,7 @@ im Arbeitszimmer …«
 Wir blickten uns an …
 
 Harst meinte: »Keine fünf Minuten sind es her, daß
-er uns verließ …
+er uns verließ …«
 
 Wir eilten ins Haus …
 
@@ -1650,7 +1650,7 @@ Niemals habe ich ahnen können, daß ich diese Fläschchen
 <@pagebreak/>
 je benutzen würde. Und doch tat’s ich notgedrungen.«
 
-seine Stimme wurde noch leiser … Sein Kopf sank
+Seine Stimme wurde noch leiser … Sein Kopf sank
 noch tiefer …
 
 »Ja — notgedrungen, meine Herren … Ich habe
@@ -1951,7 +1951,7 @@ der reinen Wald- und Seeluft der herrlichen Insel Wollin
 (denn Misdroy ist einer der Badeorte dieser pommerschen
 Küsteninsel) die Lungen vom Berliner Benzinduft gründlich
 gesäubert und betraten nun das blitzsaubere Haus, über
-Dessen Tür ein Riesenschild mit einem weißen Lamm als
+dessen Tür ein Riesenschild mit einem weißen Lamm als
 Wahrzeichen hing. —
 
 Hier im Wirtshaus Zum weißen Lamm fing also für
@@ -1976,7 +1976,7 @@ hatten, kam er auf die Untergrundbahndiebstähle zu sprechen.
 
 Wir hatten uns als Kaufleute, als Angestellte einer
 Berliner Holzfirma ausgegeben. Kein Wunder also, daß
-wir Über Berliner Ereignisse sehr gut unterrichtet waren.
+wir über Berliner Ereignisse sehr gut unterrichtet waren.
 
 »… Und der zweite Raub wurde an einer Baronin
 von Garlitt verübt …« erzählte Harald weiter. »Der
@@ -2041,10 +2041,10 @@ erfahren hatten.
 
 Ja — der alte Baron hatte sich mehr mit Chemie als
 mit Landwirtschaft abgegeben … Er war Phantast,
-Hatte stets auf eine Erfindung gehofft, die ihm Millionen
+hatte stets auf eine Erfindung gehofft, die ihm Millionen
 in den Schoß werfen müßte …
 
-»… Das Gut kam Immer mehr herunter, meine Herren
+»… Das Gut kam immer mehr herunter, meine Herren
 … Und der Baron wurde immer eigentümlicher …
 Zuweilen redete er ganz wirres Zeug. Unter uns: er kann
 geistig nicht mehr ganz normal gewesen sein, und
@@ -2080,7 +2080,7 @@ ins Wirtshaus und legten uns zu Bett. Harald war geradezu
 unheimlich schweigsam. Meine Fragen überhörte er.
 
 Genau so war es morgens beim Frühstück. Das köstliche
-Maiweiter gestattete uns, in der Laube den Morgenkaffee
+Maiwetter gestattete uns, in der Laube den Morgenkaffee
 einzunehmen. Nachher bezahlten wir unsere Rechnung,
 schulterten unsere Rucksäcke und wanderten weiter gen
 Wollin — scheinbar …
@@ -2298,7 +2298,7 @@ Eine Dame verfolgt uns …«
 
 Und ging weiter …
 
-»eine Dame, mein Alter …! Vielleicht gar Eva
+»Eine Dame, mein Alter …! Vielleicht gar Eva
 Baronesse Garlitt … Möglich ist alles … Wir Werden
 schon noch eine Uferstelle finden, wo wir uns auf die
 Lauer legen oder der Frau gar in den Rücken gelangen
@@ -2313,7 +2313,7 @@ Dünen besonders hoch und mit Gestrüpp bewachsen.
 
 Hier verbargen wir uns …
 
-Brauchten nicht lange zu warten. eine Dame in schlichtem
+Brauchten nicht lange zu warten. Eine Dame in schlichtem
 Lodenkostüm näherte sich — ohne Hut … blond,
 schlank … Schon von weitem fiel uns die Ähnlichkeit
 mit Gisbert von Garlitt auf … Und auch Größe, Gestalt
@@ -2341,7 +2341,7 @@ geblieben war … Harst grüßte … Ich desgleichen …
 Das Gesicht der Baronesse überzog sich mit flüchtiger
 Röte …
 
-dann dankte sie durch leichtes Kopfneigen und wollte
+Dann dankte sie durch leichtes Kopfneigen und wollte
 weiter …
 
 <@pagebreak/>
@@ -2503,7 +2503,7 @@ belästigten … Sie werden es sich jetzt gefallen lassen
 müssen, daß wir Ihnen die Augen verbinden … Ich
 <@pagebreak/>
 betone: wenn Sie sich wehren, schießen wir! — Schauen
-Sie um sich … die See ist leer …! Sie fliegen Über
+Sie um sich … die See ist leer …! Sie fliegen über
 Bord — und für uns ist alles erledigt!«
 
 Das klang wieder verdammt ernst …
@@ -2515,7 +2515,7 @@ Harst meinte nur:
 Und ließ sich ruhig einen schwarzen Zeugstreifen vor
 das Gesicht binden …
 
-doch nicht genug damit: auch die Hände fesselte man
+Doch nicht genug damit: auch die Hände fesselte man
 uns …
 
 Mir war bei alledem keineswegs wohl zumute, wenngleich
@@ -2588,7 +2588,7 @@ Wir konnten sehen …
 
 Aber wir sahen wenig …
 
-eine winzige Laterne brannte und beleuchtete gerade
+Eine winzige Laterne brannte und beleuchtete gerade
 nur ein Klapptischchen, auf dem man für uns allerlei Speisen
 bereitgestellt hatte …
 
@@ -2643,7 +2643,7 @@ Ich hörte ein Auto nahen …
 Man schob mich ins Wageninnere, drückte mich auf den
 Polstersitz …
 
-das Auto fuhr mit uns und unseren Wächtern davon.
+Das Auto fuhr mit uns und unseren Wächtern davon.
 
 Stundenlang …
 
@@ -2735,7 +2735,7 @@ Das war alles …
 
 Ich blicke Harald fragend an …
 
-»Begreifst Du!« erklärt er lebhaft. »es war ein großer
+»Begreifst Du!« erklärt er lebhaft. »Es war ein großer
 Irrtum … Wir glaubten den Zuchthäusler in Mutter
 Pedersens Hütte, und in Wahrheit war die Baronesse dort.
 Denn dieser Brief wurde erst auf den Rucksack gelegt, nachdem
@@ -2745,7 +2745,7 @@ Schritte … Das war der Zuchthäusler, der alte Baron.«
 Und Harald nimmt nun gleichfalls Platz … Hat noch
 eine Flasche Rotwein und zwei Gläser auf den Tisch gestellt.
 
-füllt die Gläser … Trinkt mir zu … Sagt:
+Füllt die Gläser … Trinkt mir zu … Sagt:
 
 »Die Geschichte wird eigentlich immer verwickelter, wie
 Du zugeben mußt, mein Alter … — Wo kommen die Japaner
@@ -2796,9 +2796,9 @@ waren frisch geteert … Man roch’s, als wir vorübergingen
 wenn Du genau achtgegeben hättest: den Korb mit unserem
 Abendessen brachte Mutter Pedersen in die Badeanstalt …
 und ihr Hund war bei ihr … Der schnüffelte an der Tür
-Unserer Zelle, und dann flüsterte die Alte draußen etwas …
+unserer Zelle, und dann flüsterte die Alte draußen etwas …
 Sie war’s schon … Es stimmt alles … Und weil sie
-es war, Und weil fraglos der alte Baron, der Zuchthäusler,
+es war, und weil fraglos der alte Baron, der Zuchthäusler,
 Berlin gar nicht verlassen gehabt hat, so möchte ich gern
 wissen: wer hat die Zigarre mit der Leibbinde dort vor
 Mutter Pedersens Hütte geraucht! Wer wohl?!«
@@ -2822,7 +2822,7 @@ Rief leise: »Donnerwetter, daß ich auch nicht vorher
 daran gedacht habe!! Natürlich — — es ist die einfachste
 Erklärung!«
 
-»was?!« fragte ich ebenso plump wie gespannt …
+»Was?!« fragte ich ebenso plump wie gespannt …
 
 Er hörte gar nicht hin …
 
@@ -2882,7 +2882,7 @@ Garlitten!!
 <@pagebreak/>
 Herr Schobert aus Garlitten!!
 
-Da hatte dieser Herr Neureich, der Übrigens auf den
+Da hatte dieser Herr Neureich, der übrigens auf den
 ersten Blick einen ganz sympathischen Eindruck machte, schon
 hinzugefügt: »Ich bin … seit gestern der Verlobte der
 Baronesse Garlitt, Herr Harst …«
