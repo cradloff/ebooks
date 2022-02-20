@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">54a952b5-75d0-4933-a74c-a1e200a7c0ab</entry>
+<entry key="title">Das Geheimnis des Perlentauchers</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">150</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Geheimnis des Perlentauchers
+
+Ich ging zur Tür — im schwarzseidenen Schlafanzug … Auf dem Tische in der Mitte lagen unsere Pistolen …
+
+Ich griff nach meiner Clement, warf Harald die seine zu. Er fing sie auf …
+
+Vor der Tür pflanzte ich mich auf …
+
+Dann schon Harald in englischer Sprache:
+
+»Bitte — kommen Sie nur hervor, Master … Wir haben Sie bemerkt … Sie hätten nicht auf dem frisch gewachsten Linoleum diese Kratzer hervorrufen sollen …«
+
+Das Wrack des Orinoko
+
+— — — Märchenbild … — Das war’s in der Tat …
+
+Eine Felsengrotte, vielleicht zwanzig Meter hoch … Im Hintergrunde ein burgähnlicher Bau aus weißem Marmor, beleuchtet durch zahllose, an den Grottenwänden angebrachte Glühbirnen …
+
+Vor der breiten Freitreppe des Marmorschlößchens ein rauschender farbiger Springbrunnen — eine Leuchtfontäne … Bis zur Grottendecke empor sandte sie ihre schillernden Strahlen, deren Tropfenregen wie sprühende Diamanten in das Bassin zurückfielen …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (150) Das Geheimnis des Perlentauchers.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1925</entry>
+<entry key="creationDate"></entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
