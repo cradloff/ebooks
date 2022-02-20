@@ -203,12 +203,12 @@ zu arbeiten.
 Meine Frau hat dann unter anderem Namen hier in
 der Nähe der Luni-Mündung weite Ländereien erworben
 und aus den Marmortrümmern eines indischen Fürstenpalastes
-dieses Schlößchens in aller Stille in dieser kühlen
+dieses Schlößchen in aller Stille in dieser kühlen
 Grotte erbauen lassen.
 
 Sie, meine Herren, werden nachher das Schlößchen,
 die Grotte und unsere in der Nähe gelegene Plantage
-besichtigen können. Wir sind bist unter dem Namen Cramioux
+besichtigen können. Wir sind hier unter dem Namen Cramioux
 bekannt und gelten für Franzosen …
 
 Die Möbel dieses unseres Heims stammen zum Teil aus
@@ -706,7 +706,7 @@ diesem Manne haben zwei Finger an der rechten Hand gefehlt
 
 Es stimmte …
 
-Und wieder noch einer Weile …
+Und wieder nach einer Weile …
 
 »Dies zweite Gerippe stammt von einer Frau … Die
 Zeugfetzen verraten es, außerdem die Backenknochen …
@@ -924,7 +924,7 @@ Ich stieg an Land. Ich wollte von hier aus das Plateau
 erklettern und in den Kamin eindringen … Ein
 besonderer Gedanke war mir gekommen …
 
-So betrat ich denn die Felsspalte, beleuchtetes die
+So betrat ich denn die Felsspalte, beleuchtete die
 Wände …
 
 Ah — die beiden Gerippe waren noch vorhanden …
@@ -1009,7 +1009,7 @@ Bevor ich an Land stieg, schaute ich mich vorsichtig um.
 
 Splitternackt …
 
-Rasch das in Ölleinwand gehüllte Bünden geöffnet
+Rasch das in Ölleinwand gehüllte Bündel geöffnet
 … Rasch ein Hemd über — rasch den dunklen Schlafanzug,
 rasch die weichen Morgenschuhe …
 
@@ -1045,7 +1045,7 @@ Der Nachtwind nur …
 
 Brandungsgeräusch …
 
-Heiserer Schreie von Seevögeln …
+Heisere Schreie von Seevögeln …
 
 Nichts …
 
@@ -1303,7 +1303,7 @@ heißt Du?«
 
 »Nun denn, Mansur, Dein Enkel wurde auf einem
 <@pagebreak/>
-Schiffe von Doktor Lampetter erschlossen — auf der Jacht
+Schiffe von Doktor Lampetter erschossen — auf der Jacht
 Hudson, wo er sich eingeschlichen hatte …«
 
 Mansur nickte wie ein Automat …
@@ -1502,7 +1502,7 @@ Perlen …«
 
 »Das sahst Du ja: er büßte den Diebstahl, suchte die
 Götter zu versöhnen, indem er vor den Gebeinen seines
-Sohnes und seiner Schwiegertochter seine Gebote verrichtete
+Sohnes und seiner Schwiegertochter seine Gebete verrichtete
 … Außerdem aber suchte er auch noch in dem Wrack nach
 dem Rest der Diebesbeute … Wahrscheinlich dürfte noch
 ein großer Beutel mit Perlen irgendwo dort in dem Dampfer

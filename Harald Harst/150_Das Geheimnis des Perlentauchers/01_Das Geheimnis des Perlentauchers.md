@@ -123,7 +123,7 @@ Die Gesichter veränderten sich jäh …
 
 Wir beugten uns in den Sesseln vor …
 
-Harst führte das Mokkatäßchen zum Rande, leerte es
+Harst führte das Mokkatäßchen zum Munde, leerte es
 … stellte es wieder hin, griff zur Zigarette …
 
 Sein ernster Blick ging in die Runde …
@@ -180,7 +180,7 @@ Tschergin schüttelte den Kopf …
 »Und da glauben Sie, lieber Harst, daß dieses Pärchen
 sich an der Luni-Mündung einfinden wird?!«
 
-»Ich glaube es … Die beiden führen sich eben sicher
+»Ich glaube es … Die beiden fühlen sich eben sicher
 <@pagebreak/>
 … Und ich — ich will dieses immerhin interessante Rätsel
 lösen, weshalb Archibald und Jenny Hasting zwei Jahre
@@ -282,7 +282,7 @@ Anwesenheit dieses dritten Passagiers in unserer Kabine
 wußte — längst …!
 
 <@pagebreak/>
-»Haben wir eigentlich die Tür verriegelt, nein Alter?«
+»Haben wir eigentlich die Tür verriegelt, mein Alter?«
 fragte er dann …
 
 Ich verstand …
@@ -350,7 +350,7 @@ Ich dachte mit Entsetzen daran, daß ich vielleicht diese
 Nacht über einem Toten geschlafen hätte … —
 
 Dieser Tote war ein jüngerer Inder, der mit einem
-dunkelblauen Leinenanzug bekleidet warf … ohne Kopfbedeckung,
+dunkelblauen Leinenanzug bekleidet war … ohne Kopfbedeckung,
 mit noch recht neuen braunen Stiefeln.
 
 Harald regte sich …
@@ -689,7 +689,7 @@ um den Mund …
 
 »Sie haben den Inder mit dieser Pistole erschossen …«
 und er hob seine eigene Clement vom Tische auf … »Hier
-— die Mündung riecht nach frischen Schuß … Hier — es
+— die Mündung riecht nach frischem Schuß … Hier — es
 sind nur noch acht Patronen im Laderahmen. Als Schraut
 und ich zum Abendessen gingen, ließen wir unsere Repetierpistolen
 hier auf dem Tische liegen … Beide waren
@@ -751,7 +751,7 @@ Lampetter duckte sich wie unter einem Schlage zusammen.
 
 Schwieg trotzdem …
 
-Hast winkte mir …
+Harst winkte mir …
 
 Als ich die Tür aufriegelte, machte der Doktor eine
 hastige Bewegung …
@@ -1010,7 +1010,7 @@ Ich bitte den Leser nun, selbst einmal einen Atlas zur
 Hand zu nehmen. Dann wird ihm das Verständnis des
 Folgenden wesentlich erleichtert werden …
 
-Unschwer wird er südlich des Gottes von Cutch die
+Unschwer wird er südlich des Golfes von Cutch die
 Küstenstadt Dwarka finden. Nördlich davon liegen kleinere
 und größere Inseln, außerdem nach Westen zu Riffbänke …
 
@@ -1027,7 +1027,7 @@ Hastings wegen in der Hand gehabt habe — nur deshalb!
 auf den Golf von Cutch stoßen … Aber das Leben
 ist scheinbar ja überhaupt nichts anderes als eine Reihe
 von Zufällen — von Zufällen, die sich bei näherer Beleuchtung
-immer als eine Kette ineinander greifenden notwendiger
+immer als eine Kette ineinander greifender notwendiger
 Ereignisse entpuppen … immer! Es gibt überall innere
 Zusammenhänge, die sich nur unseren stumpfen menschlichen
 Sinnen entziehen. Vielleicht hat Archibald Hasting, wenn
@@ -1106,7 +1106,7 @@ Und links eine Überschrift:
 <p class="centered">»Orinoko, das Pestschiff.«</p>
 
 So — — fanden wir einen weiteren Teil des Geheimnisses
-Doktor Lampetters, denn der Aussatz über den Dampfer
+Doktor Lampetters, denn der Aufsatz über den Dampfer
 Orinoko lautete:
 
 > »Am 4. November 1923 verließ der 5000-Tonnen-Dampfer
@@ -1155,7 +1155,7 @@ sie nicht. Wahrscheinlich ist der Dampfer in einem Sturm
 irgendwo gescheitert. Bisher hat man nichts von ihm
 entdeckt, nicht einmal treibende Wrackteile.«
 
-An diesen Aussatz schloß sich der Bericht Doktor Lampetters
+An diesen Aufsatz schloß sich der Bericht Doktor Lampetters
 an, wie dieser ihn vor dem Hafenamt in Surat
 zu Protokoll gegeben hatte. Ich kann ihn hier aus Raummangel
 nicht wiederholen. Er enthält auch nichts Wesentliches.
@@ -1246,7 +1246,7 @@ Flüssigkeit darin ist. — — Man sieht, mein Alter, worauf
 man alles achten muß …!«
 
 Und er ging und nahm die große Flasche mit dem
-dicken Hals und dem eingeschliffenem Stöpsel heraus …
+dicken Hals und dem eingeschliffenen Stöpsel heraus …
 
 Stellte sie auf den Schreibtisch …
 
@@ -1402,7 +1402,7 @@ hast Dich ausgeruht, und ich …«
 Der Zeltvorhang wird etwas gelüftet, Frau Jennys
 blonder Kopf erscheint …
 
-»Oh — Herr Harst — — Herr Schraut, …! Wie sollen
+»Oh — Herr Harst — — Herr Schraut …! Wie sollen
 wir Ihnen danken, daß Sie Wort gehalten haben …! —
 Verzeihen Sie — ich muß erst ein wenig Toilette machen …
 Wir sind in der Wildnis fast zu Landstreichern geworden …«
