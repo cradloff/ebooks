@@ -203,7 +203,7 @@ bei uns greift ja begierig all solche Vorfälle auf.«
 
 »Ich habe nach Bergen an den amerikanischen Konsul
 telegraphiert und ihn gebeten, mir drei Millionen in
-Tausenkronenscheinen nach der Haukeli-Sennhütte zu schicken.
+Tausendkronenscheinen nach der Haukeli-Sennhütte zu schicken.
 <@pagebreak/>
 Der Konsul kennt uns persönlich. Er depeschierte zurück,
 daß das Geld rechtzeitig über Odda eintreffen würde. Er

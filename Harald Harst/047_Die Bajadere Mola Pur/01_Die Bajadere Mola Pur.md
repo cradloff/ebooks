@@ -523,7 +523,7 @@ geschadet wie mir. Oder handelt es sich bei der Fürstin doch um eine
 ernsthaftere Erkrankung, Doktor?«
 
 »Hm – das wird sich morgen herausstellen. Die Rhani ließ mich erst nach einer
-Weile vor. Sie lag auf einem Divan und – hatte Schreikrämpfe. – Ein furchtbares
+Weile vor. Sie lag auf einem Diwan und – hatte Schreikrämpfe. – Ein furchtbares
 Fest! Nun wird das abergläubische Volk, das ja die Mola Pur geradezu anbetet,
 sich einbilden, die Wiederaufnahme der Regierung durch den Radscha sei unter so
 ungünstigen Vorzeichen erfolgt, daß dem Lande sicherlich eine Seuche drohe. Der

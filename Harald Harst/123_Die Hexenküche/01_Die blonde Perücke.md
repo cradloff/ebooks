@@ -639,7 +639,7 @@ Ohne besondere Gefahr glitt der Kutter in das völlig
 ruhige Wasser zwischen dem Hutfelsen und den Klippen
 hinein.
 
-Und — imselben Moment tauchte in der Vorderluke Bob
+Und — im selben Moment tauchte in der Vorderluke Bob
 Seridan wieder auf, der den Professor in den Armen trug.
 
 Er hatte auf Harsts Befehl einmal nach ihm sehen

@@ -809,7 +809,7 @@ Harst. Und ich erwachte. Die Wirklichkeit verlangte ihr
 Recht.
 
 Er hatte auf eine etwa fünf Meter entfernte Stelle des
-Fliessenbodens gedeutet. Auch ich erkannte dort nicht nur
+Fliesenbodens gedeutet. Auch ich erkannte dort nicht nur
 kleine, reihenweise Bluttropfen, sondern auch drei handgroße
 Lachen, die die Sonne bereits tiefbraun verfärbt hatte.
 

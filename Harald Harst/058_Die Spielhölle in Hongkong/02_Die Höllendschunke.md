@@ -553,7 +553,7 @@ dann mit Silvanos Motorkutter gegen elf Uhr von Kanton aufgebrochen. Die 280
 Kilometer lange Strecke hatte der Kutter in genau acht Stunden geschafft. –
 
 Diesen Tatbestand erzählten uns Silvano und Boosney abwechselnd. Der Italiener
-tat es sehr temperametvoll, der Amerikaner mit abgeklärter Ruhe. Jedenfalls war
+tat es sehr temperamentvoll, der Amerikaner mit abgeklärter Ruhe. Jedenfalls war
 an diesem Diebstahl nicht zu zweifeln. Er war unmöglich von Silvano inszeniert
 worden, um etwa Harst nach Kanton zu locken. Der falsche Tobler war auf der
 Straße von Bekannten gesehen und gegrüßt worden, als er mit dem Kontordiener
@@ -801,7 +801,7 @@ Von unseren Kutterleuten war nur einer an Deck. Er rief den Sampan an.
 Dann kam die Komödie.
 
 Blitzschnell hatten die fünf Strolche sich an Deck geschwungen. Einer schlug
-den Matrosen nieder – mit einer Art Keule. Der Matrose plumste auffallend
+den Matrosen nieder – mit einer Art Keule. Der Matrose plumpste auffallend
 schnell nach vorn auf das Gesicht. Dann stürmten die Kerle auf uns zu, packten
 uns. Im Nu hatten sie uns die Arme auf den Rücken gefesselt.
 

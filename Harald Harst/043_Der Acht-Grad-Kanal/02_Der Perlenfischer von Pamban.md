@@ -1777,7 +1777,7 @@ zurückhaben, weil sonst das Fürstentum an die indische Kolonialregierung
 nach meinem Tode gefallen wäre und — weil
 ich ein Simdari bin! — Gut denn, Druyter mag mit seiner
 Frau fernerhin hier zusammenleben. Seine Tochter wird
-Maharrahni (Fürstin) von Praschwar werden. Die Ehe
+Maharahni (Fürstin) von Praschwar werden. Die Ehe
 zwischen ihm und Amri ist rechtsgültig geschlossen, und Margrit
 deshalb erbfolgeberechtigt.«
 

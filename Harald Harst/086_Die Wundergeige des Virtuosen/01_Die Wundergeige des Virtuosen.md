@@ -186,7 +186,7 @@ Iwannow ein wenig aus.« Er deutete auf einen Diwan
 an der anderen Wand. »Als ich vorhin ihn holen wollte,
 fand ich ihn fest schlafend. Er ermunterte sich schnell, schloß
 den Tresor auf und nahm den Geigenkasten heraus, machte
-sofort eine Bewegung höchsten Schrecks und suchte mit zittenden
+sofort eine Bewegung höchsten Schrecks und suchte mit zitternden
 Händen nach dem Schlüssel des Geigenkastens, öffnete
 diesen, und — der Kasten war leer —«
 

@@ -892,7 +892,7 @@ Harald nun. »Hier ist ein Zettel für Sie, Herr
 Schierke. Sie sehen, wir können hier tun, was wir wollen.«
 
 Der Alte nickte und grinste. »Aha — Polizei! Ich
-merke wat! Jk dacht’ mir schon immer, daß die Jeschichte
+merke wat! Ick dacht’ mir schon immer, daß die Jeschichte
 so enden würde. Die Frau empfing zu viel Jäste. Es
 war der reine Taubenschlag.«
 

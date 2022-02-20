@@ -113,7 +113,7 @@ findet, müssen diese Leute schon einen ganz ungewöhnlichen
 Trick ersonnen haben, sich unsichtbar zu machen. — Welches
 war dieser Trick? Wir hatten nun doch als Liebhaberdetektive
 in all den Jahren bereits übergenug Erfahrungen
-jeder Art gesammelt: Harsts Name war für die Welt der
+jeder Art gesammelt; Harsts Name war für die Welt der
 eines außerordentlichen Genies; und doch: hier hatte er
 versagt! —
 
@@ -130,7 +130,7 @@ Zeitung und verabschiedete sich. Die Leutchen glaubten sicher,
 das sei so einer »mit ’m ganz großen Klaps« gewesen.
 
 Wir fuhren heim. Unterwegs konnte ich mich doch nicht
-lange beherrschen.
+länger beherrschen.
 
 »Wozu die Scheibe, Harald?«
 
@@ -142,7 +142,7 @@ darauf hat doch Rosa Linden gelegen — die falsche Tote.«
 
 »Die Fensterscheibe ist ein weit persönlicheres Andenken
 an sie. Wenn Du bessere Augen hättest, würdest Du gemerkt
-haben, daß die Scheibe mit einem Diamanten ganz
+haben, daß in die Scheibe mit einem Diamanten ganz
 fein allerlei eingeritzt war.«
 
 <@pagebreak/>
@@ -158,7 +158,7 @@ die Scheibe heran.
 
 Ich prüfte die Striche, die Harst »feine Kratzer« genannt
 hatte. Wenn nicht unter diesen Strichen die Buchstaben
-R L gestanden hätten, würde ich gesagt haben,
+R&nbsp;L gestanden hätten, würde ich gesagt haben,
 Rosa Linden wäre meines Erachtens nicht die, die dies
 alles eingeritzt hätte, da es ja nichts als willkürliche Versuche
 wären, mit einem Diamanten die obere Glasschicht
@@ -199,8 +199,8 @@ Ihm einen Zettel zuzustecken, war zu gefährlich. Wie sollte
 sie also mit ihm, falls er allein entwich, einen Treffpunkt
 vereinbaren? Da mag sie eben die Skizze zu Hilfe genommen
 haben. Wenn sie Möckern zuflüsterte: »Häuschen
-Schliepbake, hier, linke Fensterscheibe«, so ging das schnell,
-und er konnte sich das Weitere zusammenreimen. Schliepbake
+Schliephake, hier, linke Fensterscheibe«, so ging das schnell,
+und er konnte sich das Weitere zusammenreimen. Schliephake
 heißen ja die alten Leutchen, denen das kleine Haus
 gehört. — So *kann* man den Zweck der Skizze deuten.
 Ob die Deutung richtig ist, weiß ich nicht. Es gibt nur
@@ -233,16 +233,16 @@ Sache, die nicht so alltäglich begann.
 <h2>Zweites Kapitel.</h2>
 <h3>Der Mord in der Kurparkstraße.</h3>
 
-> Seebad W...., Langestraße 1.
+> Seebad W…, Langestraße 1.
 
-> 2\. Juli 19..
+<blockquote><p class="right">2. Juli 19..</p>
 
-> Sehr geehrter Herr Harst!
+<p class="centered">Sehr geehrter Herr Harst!</p></blockquote>
 
 > Ich bin man eine einfache Frau, wenn ich auch
 ein großes Pensionat habe. Meine Gäste wissen schon,
 daß ich man bloß eine Dorfschule besucht habe. »Die
-Hauptsache ist gutes Essen und nicht gutes Deutsch«,
+Hauptsache ist gutes Essen und nicht gutes Deutsch,«
 sagt der Herr Regierungsrat Schlimy immer. Also Sie
 werden entschuldigen, wenn ich Sie nicht so von allem
 unterrichten kann, wie eine gelehrte Dame. Deshalb
@@ -257,11 +257,11 @@ Friedrichstraße sein. Sie werden mich gleich rausfinden.
 Ich bin leider sehr dick und habe ein Muttermal
 im Gesicht.
 
-> Hochachtungsvoll
+<blockquote><p class="centered">Hochachtungsvoll</p>
 
-> Frau Anna Drewke,
+<p class="right">Frau Anna Drewke,</p>
 
-> Pensionsinhaberin.
+<p class="right">Pensionsinhaberin.</p></blockquote>
 
 Dieser Brief traf erst am vierten morgens ein.
 
@@ -305,7 +305,7 @@ Die Sachlage war folgende: Frau Drewke hatte das
 Pensionat in W. erst in diesem Frühjahr gekauft. Sie hatte
 früher in Mecklenburg ein kleines Hotel besessen. Ihre
 Pensionsvilla in W. hieß »Haus am Meer« und war ein
-Hofgebäude mit 24 Fremdenzimmern. Die Saison in W.
+Holzgebäude mit 24 Fremdenzimmern. Die Saison in W.
 hatte diesmal des günstigen Wetters wegen sehr früh begonnen.
 Schon am 15. Juni waren über die Hälfte der
 Zimmer besetzt. Leider hatten dann jedoch am 17. Juni die
@@ -318,7 +318,7 @@ diesen Dieben oder diesem einzelnen Diebe. Selbst nächtliche
 Wachen in den Fluren hatten nichts geholfen. Vor
 den Augen der Polizeibeamten waren wieder ein paar Gästen
 Wertgegenstände gestohlen worden. Die Verluste Frau
-Drewkes betragen bisher etwa 9000 Mark. Und das war
+Drewkes betrugen bisher etwa 9000 Mark. Und das war
 für die Zeit vor dem Kriege immerhin recht viel. Jetzt
 war das Pensionat ganz besetzt. Am zweiten Juli früh (an
 <@pagebreak/>
@@ -374,7 +374,7 @@ früh einen Brief erhalten, Herr Harst, der mit der Hauptgrund
 <@pagebreak/>
 meines Besuches bei Ihnen ist,« fuhr er jetzt fort.
 »Bitte, hier ist der Brief. Ich werde Ihnen die wichtigen
-Sätze vorlesen.«
+Sätze vorlesen.
 
 > »— Ich schrieb Dir letztens von den Diebstählen hier
 in der Pension. Auch meine Uhr nebst Kette haben dran
@@ -388,7 +388,7 @@ zu können. Wenn er dann meiner Ansicht ist,
 machen wir gemeinsam die Mausefalle zu und die Bande
 dingfest, denn es sind mindestens ihrer drei, die hier
 im Trüben fischen, eine Redensart, die man im Seebad
-mit Recht gebrauchen kann.«
+mit Recht gebrauchen kann.««
 
 Harald sagte jetzt:
 
@@ -441,7 +441,7 @@ enthielt ja auch vollständige Frauenausstattungen, so daß
 völlig echt wirkte. —
 
 Das Seebad W. ist gleichzeitig Hafenstadt mit etwa
-10 000 Einwohnern. Der dortige Kriminalkommissar Flügel
+10&nbsp;000 Einwohnern. Der dortige Kriminalkommissar Flügel
 wohnt in der sogenannten Altstadt. Er war gegen halb
 zehn Uhr abends in seinem Garten gerade mit Begießen
 der Gemüsebeete beschäftigt, als er von jenseits des Staketenzaunes<@refnote 1/>
@@ -572,9 +572,10 @@ sie hier notwendig mit ein paar Strichen und Zahlenangaben
 mit anführen.
 
 <@pagebreak/>
+
 <img src="TatortSkizze.png" alt="Skizze des Tatorts"/>
 
-Die Entfernung von der Hausfront bis zur äußeren
+Die Entfernung von der Hausfront bis zur *äußeren*
 Baumreihe beträgt 2,75 Meter. Die Promenaden sind 4
 Meter breit. — Die Leiche lag also nur mit dem Oberkörper
 innerhalb der nördlichen Promenade. —
@@ -680,7 +681,7 @@ bald hier, bald dort.
 ist wirklich in der Art seiner Ausführung ein Problem.«
 
 Die niedrig gehaltene, breitästige Linde, die etwas rechts
-vor der Mitte des Hauses Nr. 22 stand, schien Harald
+vor der Mitte des Hauses Nr. 22 stand, schien Haralds
 lebhaftes Interesse zu erwecken. Er blickte sich erst vorsichtig
 nach allen Seiten um, murmelte dann:
 
@@ -845,7 +846,7 @@ wie im Schlafe hin und her, atmete noch tiefer und ließ
 sogar ein paar Schnarchtöne hören.
 
 Dann — flog mir etwas über das Gesicht: ein weiches,
-großes Sofakissen — und auf diesem Kissen mußte ein
+großes Sofakissen — Und auf diesem Kissen mußte ein
 in Chloroform getauchtes Wattestück befestigt sein. Ich
 spürte sofort den widerlich süßen Geruch.
 
@@ -906,7 +907,7 @@ Wieder warf man mich recht roh auf harte Dielen.
 Dann Stille; dann — wurde mein Leidensgefährte herbeigebracht.
 
 Schade, daß ich nichts von den Leuten erspähen konnte,
-die uns hier auf ein Boot verluden. Sie waren doch gar
+die uns hier auf ein Boot verluden. Sie waren doch so
 vorsichtig gewesen, mir um den Kopf lose eine Decke zu
 wickeln.
 
@@ -959,7 +960,7 @@ Harst nickte.
 
 »Die Schufte haben vorher Löcher in den Boden des
 Motorbootes geschlagen. Merkst Du nicht, daß das Boot
-jetzt weit weniger schwankt? Es ist eben tiefer eingelaufen
+jetzt weit weniger schwankt? Es ist eben tiefer eingesunken
 durch das Gewicht des Wassers, das bereits eingedrungen
 ist, und fährt daher ruhiger. Es wird in einer Viertelstunde
 wegsacken, nehme ich an. Wir beide sollen also samt dem
@@ -978,7 +979,7 @@ Kante durchfeilen.«
 einer dem andern!«
 
 »Hm, wird Dir schwerfallen. Die Drähte sind zu stark.
-Sie wurden mit einer Zunge zusammengedreht. Mit den
+Sie wurden mit einer Zange zusammengedreht. Mit den
 Fingern ist da nichts auszurichten.«
 
 »Versuchen kann man’s!« erklärte ich noch immer hoffnungsfreudig.
@@ -1021,7 +1022,8 @@ hatte.
 
 Dann stand ich neben ihm. Helfen konnte ich ihm nicht.
 Er brauchte auch keine Hilfe. Der Strick fiel herab.
-»Mit den Schultern die Radspeichen halten — du rechts,
+
+»Mit den Schultern die Radspeichen halten — Du rechts,
 <@pagebreak/>
 ich links,« rief er. »So — jetzt drücke ich das Rad nach
 oben! Aufgepaßt! — Ah — das Boot ändert schon den
@@ -1189,8 +1191,8 @@ recht gut die jetzige Pensionsinhaberin sein.«
 den Du probieren solltest. Außerdem ist mir ja was
 Ähnliches passiert, nur etwas weit Raffinierteres. Ich
 habe dies Dir gegenüber vorhin nur angedeutet. Ich wurde
-auf anderes Weise wehrlos gemacht. Niemand drang in
-mein Zimmer ein, um mich zu berauben. Ich hatte auf
+auf andere Weise wehrlos gemacht. Niemand drang in
+mein Zimmer ein, um mich zu betäuben. Ich hatte auf
 dem Tische eine Schachtel mit Zigaretten stehen lassen. Als
 ich nach Hause kam, rauchte ich eine davon. Du weißt, ich
 ziehe den Rauch stets in die Lungen ein. Nach drei Zügen
@@ -1489,7 +1491,7 @@ Schlimy ermordet haben.«
 Er packte den Ball, schleuderte ihn nach dem vor
 Überraschung wie gebannt an derselben Stelle Verharrenden
 und traf Möckern gerade gegen die Brust. Der Ball
-war durch die äußeren unteren Reste der Linde geflogen.
+war durch die äußeren unteren Äste der Linde geflogen.
 Harst riß ihn jetzt wieder zurück und zog ihn mit Hilfe
 der Leine nach oben.
 
@@ -1522,7 +1524,7 @@ nicht mehr berichten.
 An jenem Tage in W., als Möckern und Rosa Linden
 verhaftet wurden, ahnten wir nicht, daß unser Aufenthalt
 in der Heimat so sehr bald beendet sein sollte. Das nächste
-Problem, »Die verschwundene Brigg« brachte uns bereits
+Problem, »Die verschwundene Brigg«, brachte uns bereits
 wieder dem Lande näher, das ich an Harsts Seite so sehr
 lieben gelernt hatte, — dem Zauberlande Indien, dem
 südöstlichen Asien!

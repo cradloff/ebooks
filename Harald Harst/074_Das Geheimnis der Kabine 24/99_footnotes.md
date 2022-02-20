@@ -5,5 +5,6 @@
 <@footnote 3 "02_Die Steinhütte am Buarbrä.md">Diese Dampferfahrt ging über den Telemarkkanal. Er verbindet die Orte Skien und Dalen.</@footnote>
 <@footnote 4 "02_Die Steinhütte am Buarbrä.md">Odda auf Wikipedia.</@footnote>
 <@footnote 5 "02_Die Steinhütte am Buarbrä.md">Näheres über den Gletscher auf Wikipedia unter Buarbreen.</@footnote>
+<@footnote 6 "02_Die Steinhütte am Buarbrä.md">Steingrus: veraltete Bezeichnung für Splitt. Als Steingrus bezeichnet man zerkleinertes Gestein von 7 mm bis 25 mm Korngröße.</@footnote>
 
 

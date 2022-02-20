@@ -610,7 +610,7 @@ Ah — da ist der Neubau. Wenn nur der verdammte Regen
 aufhören wollte. Es gießt jetzt wieder Strippen. Man sieht
 so wenig dabei —«
 
-***
+* * *
 
 Wir standen nun vor dem Neubau still. Ich keuchte, und
 der Schweiß rann mir unter dem Hutleder hervor die Nase
@@ -629,7 +629,7 @@ Ich überlegte. Hier auf der Straße Wache zu stehen,
 war eine mißliche Sache. Obwohl im Osten der Himmel sich
 bereits lichtete, war es infolge des Platzregens, der gerade
 herniederging, so dunkel, daß ich kaum von der Mitte aus
-die Hausfront entklangschauen konnte. War es da nicht klüger,
+die Hausfront entlangschauen konnte. War es da nicht klüger,
 ich pirschte mich ganz nahe an den wartenden Wagen
 heran? Denn dieser konnte ja nur den- oder diejenigen gebracht
 haben, die Harst jetzt wohl noch in den Kellerräumen
@@ -1031,7 +1031,7 @@ blonden Spitzbart, war aber zuerst sehr zugeknöpft. Erst als
 Harst ganz im Sinne seiner Rolle scherzend ein Päckchen Tausendmarkscheine
 zeigte, mit der Hand drauf schlug und
 <@pagebreak/>
-meinte: »Wir sind zahlungsfähig — bis zu 60 000 Märker
+meinte: »Wir sind zahlungsfähig — bis zu 60&nbsp;000 Märker
 in baribus,« da taute jener auf, blieb jedoch recht zerstreut.
 Mir fiel auf, daß er sehr blaß aussah, übernächtigt und matt.
 Nach einer halben Stunde waren wir dann überein gekommen,

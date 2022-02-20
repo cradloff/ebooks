@@ -487,7 +487,7 @@ Detektivinspektor Marlan beugte sich weit vor.
 „Ihre Ansicht, Master Harst?“
 
 „Ich habe noch keine. Jedenfalls zweifle ich sehr stark, daß Lady Broog hier in
-Betracht kommt. trotz des Silhouttenschuhs, dessen Aufschrift man freilich sehr
+Betracht kommt. trotz des Silhouettenschuhs, dessen Aufschrift man freilich sehr
 zu ihren Ungunsten deuten kann.“
 
 Marlan zuckte die Achseln. „Ich werde die Broog trotzdem verhaften lassen.
@@ -566,7 +566,7 @@ Stoschra-Sammlung, das heißt, jene zwölf gelben Diamanten, die der seiner Zeit
 weltberühmte Edelsteindieb Stoschra aus dem Museum in Kalkutta stahl und die
 Albemarle ihm wieder abjagte. Ihnen dürfte die Geschichte bekannt sein.
 Stoschra war ein eleganter Pole, der vor sechs Jahren alle Hauptstädte unsicher
-machte, so ein zweiter Manolescu.“
+machte, so ein zweiter Manolescu<@refnote 8/>.“
 
 „Hm – ich besinne mich. Und diese zwölf gelben Diamanten kaufte Albemarle dann
 dem Museum ab, nicht wahr?“
@@ -949,7 +949,7 @@ Gewohnheit, mich nur halb einzuweihen. Er hatte lediglich erklärt: „Vielleich
 finden wir den Schlüssel dieses Geheimnisses bei Tschodri.“
 
 Ich gab mir die größte Mühe, alles das, was wir über des Lords Tod wußten,
-logisch zu vereinen<@refnote 8/> und das zu konstruieren, was man eine
+logisch zu vereinen<@refnote 9/> und das zu konstruieren, was man eine
 „Theorie“ nennt. Es wollte mir nicht glücken. Immerhin – ich blieb munter
 dabei.
 

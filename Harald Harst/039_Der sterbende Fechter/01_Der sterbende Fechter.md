@@ -6,7 +6,7 @@
 
 Unsere Erlebnisse an Bord der Brigg »Christian von
 Bergen« werden dem Leser aus dem vorigen Bande noch
-geläufig sein. Das Verbrecherpaar Möckern-Rosa Linden,
+geläufig sein. Das Verbrecherpaar Möckern—Rosa Linden,
 das sich auf die Brigg als flüchtige Fremdenlegionäre eingeschmuggelt
 hatte, war mit Hilfe eines Motorbootes gerade
 an der letzten Leuchtboje des Suezkanals nach der Westküste
@@ -115,11 +115,11 @@ dem Zigarettenraucher sehr viel.«
 Ich besichtigte den einen Stummel und konnte gerade
 noch den goldenen Stempel entziffern:
 
-> Lord Palmerston,
+<p class="centered">Lord Palmerston,</p>
 
-> Burkley & Tompkins
+<p class="centered">Burkley &amp; Tompkins</p>
 
-> London.
+<p class="centered">London.</p>
 
 »Die Marke Lord Palmerston ist so ziemlich die teuerste,
 die es überhaupt gibt. Sie kostet 1,50 Mark das Stück,«
@@ -138,14 +138,14 @@ keine Reklame für diese Giftnudeln.«
 
 »Ja. Ich sah nur einen Längsstreifen von seinem Gesicht.
 Er hat einen hellblonden Spitzbart, eine kleine Nase
-und helle Augen — hellgrau. Sehr sonnverbrannt war
+und helle Augen — lichtgrau. Sehr sonnverbrannt war
 er nicht. Er muß hier also Neuling sein. Ich halte ihn
 für einen Engländer. Weshalb er sich vor uns verbarg,
 ist mir noch unklar. Immerhin werden wir mit ihm rechnen
 müssen, genau so wie mit den Lügen des ehrwürdigen Gauners
 <@pagebreak/>
 von Scheich, der uns so überaus bereitwillig erzählte, daß
-unsere Freunde »Möckern-Linden nach Südost auf Pferden
+unsere Freunde Möckern—Linden nach Südost auf Pferden
 davongeritten seien.«
 
 »Du meinst, Möckern hat den Scheich bestochen, uns
@@ -162,13 +162,13 @@ Ich mußte lächeln. Aber — das Lachen verging mir schnell.
 
 Wir waren von der Kappe des Hügels in eines jener
 felsigen Täler hinabgestiegen, die man Wadi nennt.
-Wadi ist ein ausgetrocknetes Flußbett. Dieses hier zog sich
+— Wadi ist ein ausgetrocknetes Flußbett. Dieses hier zog sich
 in vielen Windungen dem Golf von Suez zu. Große Felsblöcke
 lagen auf der Talsohle. Das sah ganz romantisch
 aus. Und — diese Romantik erhielt nun sehr plötzlich
 einen gefährlichen Anstrich.
 
-Sieben — acht braune Kerle in schmierigen Beduinen-Mänteln
+Sieben — acht braune Kerle in schmierigen Beduinenmänteln
 sprangen hinter einem Felsen hervor, und ehe unsere
 Hände noch nach den Mehrladepistolen greifen konnten, waren
 wir schon zu Boden gerissen und auf den Bauch gewälzt.
@@ -227,7 +227,7 @@ gefragt hatte, ob ich mir zutraue, mich im Kamelsattel zu
 behaupten. Ich hatte eifrig genickt und »Yes« gerufen.
 Harald und ich waren ja vor etwa zwei Jahren vom Nil
 aus hoch zu Kamel nach Suez geritten. Der Leser der
-früheren Bande wird sich auf unser damaliges Abenteuer
+früheren Bände wird sich auf unser damaliges Abenteuer
 »Die Festung des Ali Azzim« besinnen.
 
 Wer an einen Ritt im Kamelsattel nicht gewöhnt ist,
@@ -347,10 +347,10 @@ Namen aussprach.
 »Harst — Harst?« fragte er rasch. »Etwa der Liebhaberdetektiv
 Harald Harst?«
 
-»Derselbe, Mylord.« lächelte Harald.
+»Derselbe, Mylord,« lächelte Harald.
 
 Pimberton streckte ihm beide Hände hin. »Ah — wie ich
-mich freue, Sie kennen zu lernen. Sie sind mir insofern
+mich freue, Sie kennen zu lernen! Sie sind mir insofern
 kein Fremder mehr, als mein Vetter Lord Wolpoore Ihnen
 ja mehr als einmal sein Leben zu verdanken hat. Wolpoore
 schrieb mir darüber so manches.«
@@ -383,7 +383,7 @@ Gattin, einer der bekanntesten Schönheiten Englands.«
 »Der Operettendiva Lydia Morgan,« warf Harst ein.
 »Ich besinne mich auf diese seinerzeit vielbesprochene Eheschließung.«
 
-»Ja — Lydia Morgan! — Es war eine Mesalliance,
+»Ja — Lydia Morgan! — Es war eine Mesalliance<@refnote 1/>,
 die in den Adelskreisen Englands große Empörung hervorrief.
 — Doch, lassen wir das — Gestern gegen Mitternacht
 verließ ich Schloß Medsur — ein benachbarter Berg
@@ -403,7 +403,7 @@ mich zunächst sehr höflich! Wir nahmen, wie dies üblich,
 vor seinem Zelte auf einem Teppich Platz. Die Beduinen
 pflegen alles, was irgendwie vorliegt, mit größter Langsamkeit
 zu besprechen. Nun — Scheich Umri Schomar bewies
-auch jetzt wieder seinen hinterlistiger Charakter. Plötzlich
+auch jetzt wieder seinen hinterlistigen Charakter. Plötzlich
 flog mir von rückwärts eine Schlinge um den Hals.
 Dann stürzten ein paar der Beduinen herbei, fesselten mich
 und schleppten mich in das benachbarte Zelt. Gleich darauf
@@ -577,7 +577,7 @@ trotz der Überfülle von Licht machte sie einen seltsam bedrückenden
 Eindruck. Die gigantische Bergwelt ringsum, diese
 furchtbare Einöde des berüchtigten Sinai-Gebirges, in dem
 einst auch das aus Ägypten vertriebene Volk Israel umhergeirrt
-war, wischte sozusagen das freundliche der blinkenden
+war, wischte sozusagen das Freundliche der blinkenden
 Fenster des Schlosses und das Erquickende des Anblicks
 der grünen Baumwipfel sofort wieder aus. In dieser
 schauerlichen Felsenwildnis kam man sich als Mensch so
@@ -665,7 +665,7 @@ waren, schufen bei mir sehr schnell jenen Zustand
 ungewisser, lähmender Furcht, der selbst durch die logische
 Arbeit des Gehirns nicht zu beseitigen ist. Umsonst machte
 ich mir klar, daß uns doch im Augenblick nichts zustoßen
-könnte: Umsonst versuchte ich, mich zu bewegen und durch
+könnte; Umsonst versuchte ich, mich zu bewegen und durch
 die kleinste Änderung meiner Körperhaltung diesen auf
 mir lastenden Bann abzuschütteln. Ich war unfähig dazu.
 Ich fühlte, wie mein Herz schneller und schneller klopfte,
@@ -819,7 +819,7 @@ fast — Daher auch mein Entsetzen und meine Angst, als
 Sie, Mr. Harst —« Sie schwieg plötzlich, starrte Harald
 lange an, wiederholte dann leiser:
 
-»Harst Harst —?! Dieser — dieser Name. Sind Sie
+»Harst, Harst —?! Dieser — dieser Name. Sind Sie
 etwa der bekannte Detektiv, Mr. Harst?«
 
 Harald verneigte sich. »Ich bin der Liebhaberdetektiv
@@ -905,9 +905,9 @@ einem Diwan hin.
 »Bitte, nehmen Sie Platz, meine Herren,« sagte sie
 wieder mit derselben müden, traurigen Stimme. »Hier sind
 wir vor Lauschern sicher.« — Sie rückte einen Hocker neben
-die Seite des Diwans wo Harst saß. — »Mr. Harst,«
+die Seite des Diwans, wo Harst saß. — »Mr. Harst,«
 fuhr sie fort. »Sie hat mir wirklich der Himmel gesandt.
-Ich will mich heute nur ganz kurz fassen, ich weiß, Sie
+Ich will mich heute nur ganz kurz fassen. Ich weiß, Sie
 beide sind müde und abgespannt. Trotzdem mußte ich Sie
 noch sprechen und Ihnen mein Herz ausschütten. — Vor
 <@pagebreak/>
@@ -1435,7 +1435,7 @@ Wie töricht und durchsichtig war all das! Dieser Allan
 war ein veritabler Dummkopf! Ich konnte mir leicht zusammenreimen,
 wie der wahre Zusammenhang der Dinge
 sein mußte. Allan hatte seine neuen Freunde in der Grotte
-besucht und ihnen aus irgendeinen Grunde das Geheimnis
+besucht und ihnen aus irgendeinem Grunde das Geheimnis
 des unterirdischen Weges mitgeteilt. Dadurch hatte er erst
 Möckern zu dem heimtückischen Überfall veranlaßt. Er
 war von diesem niedergeschlagen worden, und Möckern beabsichtigte
@@ -1588,7 +1588,7 @@ Karl Möckern und Rosa Linden zu belauschen, die bereits
 zu Pferde vor mir flohen und ohne Zweifel meinen Namen
 als den ihres Verfolgers nannten. Da kam Ihnen ein
 Ihres Erachtens glänzender Gedanke: Sie wollten auf ganz
-zwanglose — scheinbar zwanglose Weise uns nach Schloß
+zwanglose — scheinbar zwanglose — Weise uns nach Schloß
 Medsur bringen, wo dann Lady Lydia mich doch fraglos
 bitten würde, den Fall Percy zu untersuchen. Sie waren
 ganz sicher, daß ich nichts entdecken würde. Und Lady Lydia
@@ -1599,7 +1599,7 @@ sie hätte Ihnen Unrecht getan. — Deshalb bestachen Sie
 die Beduinen; deshalb wurden wir überfallen; deshalb befreiten
 Sie uns; Sie wollten sich mir gegenüber eben von der
 besten Seite zeigen. So kamen wir hierher; so erzählte
-uns Lady Lydia von dem Tode ihres Gatten; — Lord
+uns Lady Lydia von dem Tode ihres Gatten. — Lord
 Allan, geben Sie jetzt zu, Percy ermordet zu haben?«
 
 »Sie sind verrückt!« sagte der Lord grob und verächtlich.
@@ -1637,7 +1637,7 @@ Schloß bringen wollten, fanden wir die Grotte leer. Auf
 dem Felsboden lag ein Zettel von Rosa Lindens Hand:
 
 > »Scheich Umri Schomar ist gerade noch zur rechten
-Zeit erschienen! Auf Wiedersehen. R. L.«
+Zeit erschienen! Auf Wiedersehen. R.&nbsp;L.«
 
 Unser Abenteuer, das ich nach der Statue des sterbenden
 Fechters betitelt habe, war zu Ende.

@@ -766,7 +766,7 @@ Er fügt hinzu, und seine Linke liegt dabei mit schwerem
 Druck auf meinem Arm:
 
 »Bedenke, daß Lady Maria die Meute bereits sich zulegte,
-als sie noch nach ihrer Rückkehr aus Indien krank daniederlag
+als sie noch nach ihrer Rückkehr aus Indien krank darniederlag
 … Bedenke, daß fünfzehn Hunde nachts das Museum
 bewacht haben und daß trotzdem die Diebe hineingelangt
 sind …«

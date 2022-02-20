@@ -723,7 +723,7 @@ Wir drei anderen traten hinter ihn.
 Es war eine Karte des Landschaftsvierecks zwischen
 den Städten Lucknow, Banda, Benares, Gorakhpur.
 
-In der Südosteckle lag Benares, oben in der Nordwestseite
+In der Südostecke lag Benares, oben in der Nordwestseite
 Lucknow am Gumti-Fluß. Die Eisenbahnlinie
 Lucknow-Benares durchschnitt das Viereck als Diagonale.
 
@@ -1021,7 +1021,7 @@ Wirtschaftsgebäude zu. Da war eine Autogarage mit zwei
 breiten Türen und ein Stall. Alles dunkel. Auch an der
 Villa kein erhelltes Fenster.
 
-Wir umstreiftten sie. Da war nach Westen, nach dem
+Wir umstreiften sie. Da war nach Westen, nach dem
 Tale zu eine große Glasveranda. Harald deutete auf
 zwei Fenster neben der Veranda. »Das dürfte Sestons
 Arbeitszimmer sein!« flüsterte er.
