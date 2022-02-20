@@ -1251,7 +1251,7 @@ Der Fürst hatte die Angewohnheit sehr laut zu sprechen.
 »Ich brauche sie nicht mehr, Edward. Sie werden auch
 müde sein. Wie sieht es in Dholpur aus?« sagte er vertraulich.
 (Dholpur liegt nördlich von Gwalior im Gebirge. Der
-Maharadscha besitzt dort ein Schloss, in dem er während der
+Maharadscha besitzt dort ein Schloß, in dem er während der
 heißen Jahreszeit wohnt).
 
 Die Antwort Armstrongs war nicht zu verstehen. —

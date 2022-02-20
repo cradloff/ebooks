@@ -1042,7 +1042,7 @@ Und — das Tütchen lag auf dem Schreibtisch — in Griffnähe
 
 Und — ein schneller Griff — ein Blick …
 
-Die Aufschritt lautete: »Cyan. 0.5.«
+Die Aufschrift lautete: »Cyan. 0.5.«
 
 Als Balling mit dem Glase Wasser wieder nähertrat,
 saß ich da und schaute zum Fenster hinaus.

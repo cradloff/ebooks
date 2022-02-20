@@ -632,7 +632,7 @@ All das war reichlich sonderbar. — Ich zog den Smoking
 an. Kaum war ich fertig, als es auch schone klopfte.
 
 Nicht der Steward, sondern Lionel Barring im Frack
-und Lackschuhen, eine Tuberose im Knopfloch, das Monokel
+und Lackschuhen, eine Tuberose<@refnote 1/> im Knopfloch, das Monokel
 im Auge, trat ein, verbeugte sich und sagte sehr höflich:
 
 »Zu meinem Bedauern muß ich Ihnen mitteilen, Herr
@@ -886,7 +886,7 @@ Olden, der Reitknecht. Wer weiß, wo der Lump steckt.«
 
 Abermals eine Pause. — Dann:
 
-»Im Schifssraum liegen in einem tadellosen Versteck
+»Im Schiffsraum liegen in einem tadellosen Versteck
 18 Repetiergewehre, 30 Mauserpistolen, 30 lange Dolchmesser
 und sehr viel Munition …«
 

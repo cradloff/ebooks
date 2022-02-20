@@ -673,7 +673,7 @@ Ich lächelte …
 
 »Ich vorläufig auch nicht … – Für alle Fälle: verkleiden wir uns ein wenig! Es ist wohl sicher, daß Tescaloor in dem Dorfe Lodwalla Verbündete hat. Ohne Grund wird er nicht dorthin geflohen sein …« –
 
-Fünf Minuten drauf saßen wir mit Sir Harry Madlon, dem Chef der Kriminalpolizei, und den drei Detektiven, die in dem Wäldchen Nachsuche gehalten, in einem sehr harmlos aussehenden Tourenauto, das an den Seiten und hinten in grellroter Farbe die Ausschrift trug:
+Fünf Minuten drauf saßen wir mit Sir Harry Madlon, dem Chef der Kriminalpolizei, und den drei Detektiven, die in dem Wäldchen Nachsuche gehalten, in einem sehr harmlos aussehenden Tourenauto, das an den Seiten und hinten in grellroter Farbe die Aufschrift trug:
 
 <p class="centered pre"><em>Cook’s Rundfahrten.</em>
 Das Billigste für Touristen!</p>

@@ -175,7 +175,7 @@ muß, eine Gastrolle gibt. Saalborg ist zuletzt in Mirzapur,
 <@pagebreak/>
 wo Harst zur Zeit im Krankenhause liegt, gesehen worden.
 Unsere Leser besinnen sich noch auf die Photographie des
-Zauberschlosses der Miß Arbyton, die wir vor elf Tagen
+Zauberschlosses der Miß Arbuton, die wir vor elf Tagen
 veröffentlichten. Die Festnahme dieser Verbrecherin geschah
 mit Saalborgs Hilfe, der ja so gern den Gentleman-Gauner
 herauskehrt und der ohne Frage eine der eigenartigsten Erscheinungen
@@ -618,7 +618,7 @@ Sie verschweigen mir etwas, Harst.«
 mich fragen. Die Jagd fand an einem Donnerstag statt.
 Annixter traf im Rennauto bei Ihnen ein, soweit ich mich
 erinnere. Am Montag vorher hatten die Zeitungen bereits
-einen Bericht über das Zauberschloß der Miß Arbyton gebracht.
+einen Bericht über das Zauberschloß der Miß Arbuton gebracht.
 Wie lange braucht jemand, um von Lahore bis nach
 Mirzapur im Rennauto zu gelangen?«
 

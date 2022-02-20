@@ -859,7 +859,7 @@ Sampson verschmitzt.
 Ich griff in die Tasche und legte meinen Papiergeldvorrat
 vor ihn hin. Ich führte ja stets die Reisekasse.
 
-Samson suchte die drei unter den Banknoten befindlichen
+Sampson suchte die drei unter den Banknoten befindlichen
 Tausendrupienscheine heraus, besichtigte sie flüchtig
 und meinte:
 
@@ -1394,7 +1394,7 @@ Klownsscherze, die früher in den Zirkussen sehr beliebt waren.
 Der Tiger ist ganz sicher durch irgendein Mittel halb betäubt,
 wohl auch zahm gewesen. Im übrigen ist dies alles
 unwichtig. — Von Kalkutta aus ist jetzt, da hier überall
-gefälschte Tausenrupienscheine auftauchen, eine Geheimverfügung
+gefälschte Tausendrupienscheine auftauchen, eine Geheimverfügung
 erlassen, wie man den Fälschern nachspüren solle.
 Ich habe durch geschickte Fragen aus dem Polizeimeister
 Sampson in Sehar so viel herausgelockt, daß ich mir das
