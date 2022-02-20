@@ -15,7 +15,7 @@ Die Bestie wird still …
 Dann … ruft Harst — mehrmals dasselbe — mit
 voller Lungenkraft:
 
-»Mr. Orlington, im habe nicht die Absicht, Sie bloßzustellen!
+»Mr. Orlington, ich habe nicht die Absicht, Sie bloßzustellen!
 Sie brauchen auch von seiten Ihrer Gattin nichts
 zu fürchten …«
 
@@ -188,7 +188,7 @@ Tiger … auch im Käfig! Rundum Dornen … Büsche —
 <@pagebreak/>
 Bäume … In der Nähe die Wächter … Und — in noch
 weiterem Umkreis Wildnis, Dschungel … Eine halbe
-Stunde nach Süden zu die Lichtung mit den beiden Doppeldeckern
+Stunde nach Süden zu die Lichtung mit den beiden Eindeckern<@refnote 1/>
 …
 
 Und — urplötzlich dachte ich an unseren Flugzeugführer
@@ -456,10 +456,10 @@ paar Fragen …« sagt Harald …
 
 »Bitte, Mr. Harst …«
 
-Wir schienen die Schleier hoch, denn jegliches Getier
+Wir schlagen die Schleier hoch, denn jegliches Getier
 flieht die Nähe eines Dschingar … Zu Tausenden kleben
 die kleinen Insekten an seinen Blättern … Der Gestank
-hat für nur sein Gutes.
+hat für uns sein Gutes.
 
 Wir setzen uns nebeneinander auf eine Luftwurzel des
 Baumes. Der Mond bescheint uns …
@@ -503,7 +503,7 @@ und Jenny und ich gingen nach Bombay …«
 Hasting?«
 
 »Bitte — nicht Hasting … Ich bin Joe Billwaker …
-… Ja, meine Frau wohnt in Bombay … Da aber Joe
+— Ja, meine Frau wohnt in Bombay … Da aber Joe
 Billwaker unverheiratet war, mußten Jenny und ich sehr
 vorsichtig sein. Wir haben uns trotzdem täglich gesehen.
 Jenny hat eine Plättstube in der Goldon-Street unweit des
@@ -730,7 +730,7 @@ Terrasse trat und einen Feuerbrand im Kreise schwenkte …
 — eine ganze Weile …
 
 Sir Archibald hatte rasch einen nahen Baum erklettert
-… Ich sah im Mondenlicht, wie er das Glas nach Süden,
+… Ich sah im Mondenlicht, wie er das Glas nach Süden
 richtete und starr in die Wildnis hinabschaute …
 
 Dann kam er wieder herab …
@@ -868,7 +868,7 @@ Steinbank …«
 … auch ich hatte diese Steinstufe gefunden, war froh, als
 ich erst saß …
 
-Wir rücken näher aneinander … Ganz nahe, wir
+Wir rückten näher aneinander … Ganz nahe, wir
 drei Leidensgefährten …
 
 Eine Weile schwiegen wir …
@@ -1007,7 +1007,7 @@ sein …!
 
 Sir Archibald rief schon hinab:
 
-»Hallo — — keine Sorge!! Wirt hissen Sie empor …
+»Hallo — — keine Sorge!! Wir hissen Sie empor …
 Die Schufte haben die Taue hier an der Terrassenbrüstung
 befestigt …!«
 
@@ -1189,7 +1189,7 @@ ihn einnahm, sagte er nun:
 »Meine Herren, helfen Sie mir bitte, diese Geschichte
 wieder einzurenken. Sir Hasting hat mir erzählt, daß Sie,
 Mr. Harst, die Motive meiner … unsinnigen Streiche erkannt
-haben … Es stimmt! ich liebe meine Frau über
+haben … Es stimmt! Ich liebe meine Frau über
 alles, und nur die Furcht, sie zu verlieren, hatte mir den
 Gedanken eingegeben, Tschergin in Armut zu belassen …
 — Eifersucht macht blind … Ich bedauere tief, daß ich …«
@@ -1202,7 +1202,7 @@ gesteckt?« fiel Harald ihm ins Wort …
 »Und weshalb hat man Sie und Ihren Diener in den
 Wallgraben gehängt?«
 
-»Ab sollte den braunen Schurken das Versteck des
+»Ich sollte den braunen Schurken das Versteck des
 Koffers verraten, in dem sich ja auch meiner Frau Juwelen
 befinden …«
 
@@ -1211,7 +1211,7 @@ einige Stunden?«
 
 »Ja — etwa vier Stunden … Immer wieder fragten
 uns die Halunken, ob wir nicht angeben wollten, wo der
-Koffer verbergen. Zum Glück hatte James, dieser Angsthase,
+Koffer verborgen. Zum Glück hatte James, dieser Angsthase,
 keine Ahnung, wo ich den Koffer kurz nach der Landung
 hingetan hatte … Sonst würde er …«
 

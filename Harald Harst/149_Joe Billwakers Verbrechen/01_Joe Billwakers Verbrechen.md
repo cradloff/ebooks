@@ -45,7 +45,7 @@ eingerichtet war. Hier stand der Tresor in vornehmer
 Schrankform.
 
 Frau Wera stellte die acht Buchstaben des Kombinationsschlosses
-aus das Wort »*Kingland*« ein und öffnete
+auf das Wort »*Kingland*« ein und öffnete
 den Panzerschrank.
 
 Inzwischen hatte Sergius Tschergin den Koffer aufgeschlossen
@@ -343,7 +343,7 @@ mit ihren Gästen entfernt hatte, im Flur und bat mich,
 ihm beim Abräumen des Frühstückstisches zu helfen …
 Ich erklärte, ich würde sofort kommen. Ich hatte nur noch
 für einen anderen Gast ein Glas Eislimonade zu holen.
-Das dauerte keine vier Minuten ich betrat hier den
+Das dauerte keine vier Minuten. Ich betrat hier den
 Salon durch die Flurtür und sah James dort in seinem
 Blute liegen, lief sofort zu Mr. Roussell … — Mehr kann
 ich nicht angeben …«
@@ -397,7 +397,7 @@ Salons blieb ergebnislos. Harst rutschte auf den Knien
 den Teppich entlang, benutzte sein Vergrößerungsglas, prüfte
 die Türschlösser — alles umsonst!
 
-Und gerade durch die langjährige Durchsuchung war
+Und gerade durch die sorgfältige Durchsuchung war
 auch der Diebstahl des Koffers noch geheimnisvoller geworden
 … —
 
@@ -409,7 +409,7 @@ Die anderen entfernten sich. Harst schloß hinter
 ihnen ab …
 
 Ich stand vor dem Wandschirm und bewunderte die
-kostbare Stickerei … Auf schwarzen Seide war da in den
+kostbare Stickerei … Auf schwarzer Seide war da in den
 vier Teilen des Schirmes eine ganze Szenenreihe aus der
 indischen Göttersage eingestickt …
 
@@ -433,7 +433,7 @@ doch scharf auf der Spur war …
 
 Ich richtete mich nach seinem Verhalten …
 
-»In der Tat, Harald ein böser Fall … Raubmord
+»In der Tat, Harald … ein böser Fall … Raubmord
 <@pagebreak/>
 liegt nicht vor … — Roussell erwähnte, daß James die Brieftasche,
 Uhr und …«
@@ -663,12 +663,12 @@ der Störung wegen … Das war seine Pflicht …
 
 <h2>3. Kapitel.</h2>
 
-Wir drei begaben uns in das Privatvilla des Direktors.
+Wir drei begaben uns in das Privatbüro des Direktors.
 
 »Mr. Doobler,« sagte Harald, nachdem wir hier an einem
 Seitentische Platz genommen hatten. »Mr. Doobler, lassen
 Sie jetzt Roussell herbeirufen — durch den anderen Detektiv
-… Ich möchte die Probe aufs Stempel machen …«
+… Ich möchte die Probe aufs Exempel machen …«
 
 Der Direktor schaute Harst dieser letzten Bemerkung
 wegen fragend an, nahm dann aber doch wortlos den Telephonhörer
@@ -760,7 +760,7 @@ Jetzt wurden uns die Zusammenhänge klar …
 Harald lächelte nachsichtig und rauchte die dritte Mirakulum
 …
 
-Fuhr noch einer Weile fort: »Natürlich ist der Kellner
+Fuhr nach einer Weile fort: »Natürlich ist der Kellner
 Joe Billwaker mit von der Partie … Er mag sich mit
 James angefreundet gehabt haben …«
 
@@ -1067,7 +1067,7 @@ Frau Major Lambrock zu sich kam und dann zu Protokoll
 gab, daß James ihr anstelle des zuständigen Kellners Eislimonade
 gebracht habe, nach deren Genuß sie und ihre
 Gesellschafterin bewußtlos umgesunken seien, sagte Harst
-nachher zu Sheffield;
+nachher zu Sheffield:
 
 »Inspektor, so ganz klar ist diese Geschichte doch noch
 nicht …!«
@@ -1151,7 +1151,7 @@ den Tresor mit dem Duplikatschlüssel in Gegenwart Frau
 Orlingtons zu öffnen …«
 
 Und — mit einem Satz war er auf dem Bettrand, nahm
-vom Nachttischen den Hörer des Fernsprechers, ließ sich
+vom Nachttischchen den Hörer des Fernsprechers, ließ sich
 mit dem Hotel Esplanade verbinden und fragte:
 
 »Hallo — hier Harst, Mr. Doobler … Ist Frau Orlington
