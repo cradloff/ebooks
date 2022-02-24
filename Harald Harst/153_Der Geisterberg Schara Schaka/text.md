@@ -6,29 +6,32 @@
 <h3>Ein Bad in der Ostsee.</h3>
 
 Es war am Vormittag nach der Hochzeitsfeier des
-Herrn Fritz Schobert und der Baronesse Goa von Garlitt …
+Herrn Fritz Schobert und der Baronesse Eva von Garlitt …
+
 Das prächtige Juniwetter hatte uns bereits gegen neun
 Uhr aus unseren Fremdenzimmern im Schlosse Garlitten
-ins Freie, an den Bettrand gelockt …
-— Harald gab ehrlich? zu, daß er einen beträchtlichen
+ins Freie, an den Seestrand gelockt …
+
+Harald gab ehrlich zu, daß er einen beträchtlichen
 Katzenjammer habe …
 
-Und mein Katzenjammer war ein recht aus3getwachsener
+Und mein Katzenjammer war ein recht ausgewachsener
 Kater … Wir hatten eben bei der Festtafel auch sehr
 scharf getrunken …
 
 Sonniger Himmel spannte sich über Ostsee und Küste
-aus … Ein schwacher Wind trieb besjichetidene Wellen
+aus … Ein schwacher Wind trieb bescheidene Wellen
 gegen das Ufer …
 
 Wir wanderten dicht am Wasser gen Misdroy …
 Freuten uns des herrlichen Sommertages und dachten auch
-sticht im entferntesten daran, daß dieser Vormittag für un
-die seltsamsten Folgen haben Büro?2.
+nicht im entferntesten daran, daß dieser Vormittag für uns
+die seltsamsten Folgen haben würde.
+
 Weit und breit war der Strand leer … Auf See nur
-in einzelnes Boot, in dem ein Mann sich treiben sich …
-F8 war mindestens fünfhundert Messer vom Ufer entfernt,
-ins die Sonne brannte so stark, daß man nicht recht unterscheiden
+ein einzelnes Boot, in dem ein Mann sich treiben ließ …
+Es war mindestens fünfhundert Meter vom Ufer entfernt,
+und die Sonne brannte so stark, daß man nicht recht unterscheiden
 <@pagebreak/>
 konnte, was der Mann in dem kleinen Boote dort
 draußen tat.
@@ -43,7 +46,7 @@ Wir kleideten uns in den Dünen aus und schwammen
 dann ein Stück ins Meer hinein, bis Harst mir zurief:
 
 »Kehre um und bewache unsere Sachen … Ich will
-mir mal daß treibende Boot näher ansehen …«
+mir mal das treibende Boot näher ansehen …«
 
 Und da begriff ich, daß dieses Bad mehr dem Boote
 als dem Kater gegolten hatte …
@@ -84,22 +87,22 @@ Die hatte jetzt einen Feldstecher zu Hilfe genommen,
 hatte sich lang niedergelegt und glaubte sich zwischen dem
 niederen Gestrüpp am Fuße des Baumes wohl sehr gut geborgen
 … Mich, von dem nur der Kopf mit der nur
-Schlauch haarumrahmten Billard:ugelhälfte sichtbar, beachtete
+schwach haarumrahmten Billardkugelhälfte sichtbar, beachtete
 sie nicht weiter … Das Fernglas galt lediglich dem
 Boote … — und Harald … —
 
-So hatte denn auch ich allen: Grund, meine Augen wieder
-vorwärts zu wenden … Und daß war offenbar noch
+So hatte denn auch ich allen Grund, meine Augen wieder
+vorwärts zu wenden … Und das war offenbar noch
 lohnender. Denn inzwischen hatte Harald das Boot erforscht,
 stieß es nun vor sich her dem Strande zu …
 
 Ich schwamm ihm entgegen … Und trotz meiner
 Brille, deren Gläser nun wiederholt von tückischen Wellen
-Fenster wurden, erkannte ich, daß mit dem Mann im Boote
+benetzt wurden, erkannte ich, daß mit dem Mann im Boote
 irgend etwas nicht in Ordnung war …
 
 Die beiden Ruder schleppten mit den Blättern auf dem
-Wasser, und der Mann war halb über die Niew’engrisse gesunken,
+Wasser, und der Mann war halb über die Riemengriffe gesunken,
 bewegte sich nur insoweit, als die Ruder durch den
 Wasserdruck ihre Stellung veränderten …
 
@@ -109,37 +112,42 @@ Dann Haralds Stimme — wütend, mahnend:
 
 »Unsere Kleider!! Eine nette Geschichte …!!«
 
-sah fuhr im Wasser herum …
+Ich fuhr im Wasser herum …
 
-Wahrhaftig — da lies das blonde Weib schon mit unserem:
+Wahrhaftig — da lief das blonde Weib schon mit unserem
 ganzen Kleiderbündel dem Walde zu …
 
-Und ich fehlt Parforceschwimmer … Selten wohl
-habe im mit solcher Kraft mich bemüht, einen Schwimmrekord
-auszustellen …
+Und ich jetzt Parforceschwimmer … Selten wohl
+habe ich mit solcher Kraft mich bemüht, einen Schwimmrekord
+aufzustellen …
 
 Bemüht — und ganz zwecklos …
 
 Tatsächlich kam ich zu spät …
 
-Mein spärliches Vadelostüm war mir gleichgültig …
-
+Mein spärliches Badekostüm war mir gleichgültig …
 Ich rannte durch den Sand …
 
 Rannte der Diebin nach … Ihre Spur war ja in
 den Dünen so klar zu erkennen …
 
-Keuchend nahte ich dem Uferwalde … Akt — da lag
+Keuchend nahte ich dem Uferwalde … Ah — da lag
 Haralds Weste … Dort mein Hut … Fünf Schritt
 weiter meine gestreiften Beinkleider …
+
 <@pagebreak/>
 Ich ließ liegen, was da als Hindernisse ausgestreut
+war …
 
 Weiter …
+
 Nun der Wald …
+
 Kein Rockzipfel mehr von dem Frauenzimmer …
-Unschlüssig lange ich geradeaus … Spähe zwischen
+
+Unschlüssig laufe ich geradeaus … Spähe zwischen
 den Bäumen hindurch …
+
 Nichts … nichts …
 
 Renne nach links, renne nach rechts …
@@ -151,53 +159,53 @@ Geknickt kehre ich um …
 Ich schwitze wie ein Heizer … Und mir ist keineswegs
 wohl in dem Gedanken, daß Harald mich nun mit
 einem Gesicht empfangen wird, wie nur er es bei solchen
-(Gelegenheiten aussetzen kann …
+Gelegenheiten aufsetzen kann …
 
-Allee — ich täusche mich …
+Aber — ich täusche mich …
 
 Als ich dem Seestrande mich nähere, da steht Harst in
 seiner vollen Nacktheit wie eine Statue neben dem halb
-»aufs Trockene gezogenen Boote …
+aufs Trockene gezogenen Boote …
 
 Hört mich, wendet den Kopf …
 
-»Was sagst Du?!« meint er und deutet dort aus die
-»uUsammengesunkene Gestalt …
+»Was sagst Du?!« meint er und deutet dort auf die
+zusammengesunkene Gestalt …
 
 Ein gutgekleideter Mann … Ohne Kopfbedeckung …
-sein Europäer … Ein Inder scheint’s zu sein …
+Kein Europäer … Ein Inder scheint’s zu sein …
 
 Auf seiner Stirn ein blutiger Fleck: ein Schußloch …!
 
 »Gemordet — erschossen!« sagt Harald weiter …
 »Hier im Boote — beim Rudern … Die Kugel hat ihn
-rate ein Blitzschlag aus dem Leben gerissen … Wenn die
+wie ein Blitzschlag aus dem Leben gerissen … Wenn die
 Ruder ihm nicht Halt gegeben hätten, wäre er vornübergefallen
 …«
 
 Ich bin noch so außer Atem, daß ich die volle Bedeutung
-dieser Sätze kaum richtig Gelasse …
+dieser Sätze kaum richtig erfasse …
 
 Ermordet — erschossen …!!
 
 Und wir gerade diejenigen, gerade wir, die diese Leiche
 finden müssen!
 
-Also — Arbeit für uns! Denn daß dies vier kein alltäglicher
+Also — Arbeit für uns! Denn daß dies hier kein alltäglicher
 <@pagebreak/>
-Fall ist, beweist ja j:oben das Benehmen der klar
-den Frau … Diese Frau hat mit diesem Inder irgend
-etwas zu tun … irgend et’vas …!! —
+Fall ist, beweist ja schon das Benehmen der blonden
+Frau … Diese Frau hat mit diesem Inder irgend
+etwas zu tun … irgend etwas …! —
 
 Ich erhole mich langsam … Und berichte und entschuldige
 mich gleichzeitig …
 
 Daß die Frau doch nur einzelne Stücke unserer Sachen
-iwveggeworsen hat, um mich auszuhalten …
+weggeworfen hat, um mich aufzuhalten …
 
 Worauf Harald meint:
 
-Hole meine Weste und Deine Beinkleider … Ich
+»Hole meine Weste und Deine Beinkleider … Ich
 habe dann wenigstens eine Ersatzschwimmhose …«
 
 Unsere Adamskostüme sind nun schon etwas vollständiger
@@ -209,50 +217,50 @@ nichts — gar nichts … Nicht einmal ein Taschentuch.
 Und dies ist um so seltsamer, als der Mann an der
 Linken drei überaus kostbare Ringe trägt.
 
-Dann besichtigen wir das Boot … € ist ein gewöhnliches
+Dann besichtigen wir das Boot … Es ist ein gewöhnliches
 Ruderboot … Vorn am Bug zu beiden
 Seiten
 
-Mr. 82.
+<p class="centered">My. 82.</p>
 
-Also Mitzählen Nr. 82 …
+Also Misdroy Nr. 82 …
 
 Wenigstens etwas: das Boot stammt aus dem nahen
 Badeort Misdroy …
 
 Hiermit wenden wir uns unseren eigenen Dingen wieder
-zu … das heißt, wir nehmen die Verfolgung der Plan
-den auf …
+zu … das heißt, wir nehmen die Verfolgung der Blonden
+auf …
 
 Brauchen keine fünf Minuten zu suchen … finden den
-Rost unserer Sachen im Walde auf einem Haufen. Nichts
+Rest unserer Sachen im Walde auf einem Haufen. Nichts
 ist gestohlen — nichts …
 
 Im Nu sind wir angezogen. Ich muß dann bei dem
-Boote als Wache zurückbleiben, während Harald nach Mi—droy
+Boote als Wache zurückbleiben, während Harald nach Misdroy
 eilt … —
 
-Und jetzt kann ich sechs Stunden »vorspringen, kann
-dem Leser in aller Kürze mitteilen, ckß der Inder mit
+Und jetzt kann ich sechs Stunden vorspringen, kann
+dem Leser in aller Kürze mitteilen, daß der Inder mit
 schwarzem glänzenden Vollbart und den drei Brillantringen
-in Knistern genau so wenig von irgend jemandem twteder-erkannt
+in Misdroy genau so wenig von irgend jemandem wiedererkannt
 <@pagebreak/>
 wird, wie man dort von der Blonden etwas weiß …
 
 Der Amtsvorsteher, der Landjäger und die Herren vom
-Gericht als Wollin haben im Verein mit uns überall Nachfrage
+Gericht aus Wollin haben im Verein mit uns überall Nachfrage
 gehalten … der Kreisarzt hat erklärt, der Inder sei
 etwa nachts zwölf Uhr erschossen worden. Die Kugel hat
 den Schädel glatt durchschlagen … der Ausschuß am Hinterhaupt
 ist sehr groß …
 
-Man steht vor einem vollkommenemw Rätsel, zumal der
+Man steht vor einem vollkommenen Rätsel, zumal der
 Hund des Landjägers die Spur der Mörder bis zur Chaussee
 verfolgt hat … Und dort hat die Frau ein Motorrad
 verborgen gehabt, ist damit auf und davon … —
 
 So stehen die Dinge am Abend dieses Tages … Und
-wir beide siedeln aus Schloß Garlitten nach« dem Pensionat
+wir beide siedeln aus Schloß Garlitten nach dem Pensionat
 Seeblick in Misdroy über … Harald will »den Fall«
 nicht aufgeben … Er wittert eine große Sache hinter
 alledem. Zumeist wittert er ja das Richtige …
@@ -278,86 +286,83 @@ Nun, für heute ist es zu spät, noch hinüberzufahren …
 
 Wir verbringen die Nacht im Seeblick. Um neun Uhr
 vormittags sind wir bereits in Swinemünde … Melden
-uns bei der Polizei Sind keine Fremden dort … Nein,
+uns bei der Polizei. Sind keine Fremden dort … Nein,
 wir haben hier schon zweimal beruflich zu tun gehabt …
 
 Und zusammen mit Kommissar Rieger gehen wir nun
 nach der Pension »Am Kurpark« …
 
 <@pagebreak/>
-Hier ist das Zimmer des Inders gestern versiegel!
-
+Hier ist das Zimmer des Inders gestern versiegelt
 worden. Im Hochparterre liegt es … leider …
+
 Denn als wir eintreten, finden wir das eine Fenster
 eingedrückt — die beiden eleganten Koffer erbrochen …
 
-na gestohlen worden, läßt si9 unschwer sestsitellen, da
-der Kommissar gestern abend ihre Liste der vorhandenen
+Was gestohlen worden, läßt sich unschwer feststellen, da
+der Kommissar gestern abend eine Liste der vorhandenen
 Gegenstände angefertigt hat …
 
 Und danach fehlt lediglich ein kleiner schwarzer Krawattenkasten
 — nichts weiter …
 
-Nun — daß es mit diesem flohen, langen, schwarz-lackierten
-Kästchen etwas Betonte:es auf sich gehabt haben
-raus, ist wohl klar …
+Nun — daß es mit diesem flachen, langen, schwarzlackierten
+Kästchen etwas Besonderes auf sich gehabt haben
+muß, ist wohl klar …
 
-Wichtig ist Ha:alte Fund im Vorgarten der Pension:
-
+Wichtig ist Haralds Fund im Vorgarten der Pension:
 Spuren von Damenschuhen — genau denen entsprechend,
 die wir von der Motorradlerin als einziges Merkmal im
-Walde bei Misdroy abgezeichnet haben … 7.
+Walde bei Misdroy abgezeichnet haben …
 
 Also ist die Blonde die Einbrecherin gewesen …
 
 Und der Inder hat sich hier im Pensionat als Doktor
-Tuma Denki aus Berlin W… Moßftraße 18, eingetragen …
-Hat nur sehr gebrochen das Deutsche beberurscht … sich aber
-im übrigen ganz unauffällig benomzmnen und für Dinge Woche
+Tuma Denki aus Berlin W., Motzstraße 18, eingetragen …
+Hat nur sehr gebrochen das Deutsche beherrscht … sich aber
+im übrigen ganz unauffällig benommen und für eine Woche
 sein Zimmer vorausbezahlt …
 
-Mit diesen Kommission anrichten Herr uns zwei volle
-Tage begnügen … Dann erst geschaut etwas rief’s …
-
-— — — — sonniger Dr emma
+Mit diesen Kenntnissen mußten wir uns zwei volle
+Tage begnügen … Dann erst geschaut etwas Neues …
 
 <h2>2. Kapitel.</h2>
 <h3>Die Kabinenzelle.</h3>
 
-eine wäre noch nachzuholen: Berlin, Mohstraße 18, hatte
+Eins wäre noch nachzuholen: Berlin, Motzstraße 18, hatte
 nie ein Doktor Tuma Denki gewohnt — wie überhaupt nicht
 in Berlin!
 
 Der inzwischen in aller Stille in Misdroy beerdigte
 Tote mußte also anders geheißen haben …
 
-Daß er sehr reich gewesen, bewies-:: »eine Koffer und
-ihr Inhalt … Aber Papiere oder bei gleichen hatte man
+Daß er sehr reich gewesen, bewiesen seine Koffer und
+ihr Inhalt … Aber Papiere oder dergleichen hatte man
 <@pagebreak/>
 nicht gefunden. seine Persönlichkeit blieb in Dunkel gehüllt,
 bis eben nach zwei Tagen auf die Zeitungsnachrichten
-Über den acheininicvolien Mord drei andere elegante Inder
-in Swinemünde. eintrafen …: die Reisebegleiter des
-ThronfolI3c15 von Bawalar, eines indischen Fürstentums …
+Über den geheimnisvollen Mord drei andere elegante Inder
+in Swinemünde eintrafen …: die Reisebegleiter des
+Thronfolgers von Bawalar, eines indischen Fürstentums …
 
-Der Tote — — War der Thronfolger selbst: Tuma
-Denki — — Seine Hoheit Tuma den?! von Bawalar! —
+Der Tote — — war der Thronfolger selbst: Tuma
+Denki — — Seine Hoheit Tuma Denki von Bawalar! —
 
 Die drei Inder statteten uns, die wir im Palast-Hotel
 an der Strandpromenade abgestiegen waren, einen Besuch
-ab. Ecke waren hohe Würdenträger des Fürstentums, und
+ab. Es waren hohe Würdenträger des Fürstentums, und
 von ihnen erfuhren wir nun folgendes.
 
 Seine Hoheit der Thronfolger weilte mit diesen seinen
-drei Begleitern und einem zehnköpfigen Dicnertroß seit vier
+drei Begleitern und einem zehnköpfigen Dienertroß seit vier
 Monaten zu Studienzwecken inkognito in Europa — als
 Doktor Tuma Denki. Auf den Doktortitel hatte er berechtigten
 Anspruch, da er seinerzeit in Oxford studiert und dort
-auch die Würde eines Doktors der Staaiswiijenichasten erworben
+auch die Würde eines Doktors der Staatswissenschaften erworben
 hatte.
 
-Zuletzt hatte Seine Hoheit in Wien geteilt, und von
-Wien aus waren auch dicke drei Inder nun nach) Swinemünde
+Zuletzt hatte Seine Hoheit in Wien geweilt, und von
+Wien aus waren auch die drei Inder nun nach Swinemünde
 geeilt.
 
 Der Thronfolger, dreißig Jahre alt, war vermählt.
@@ -370,7 +375,7 @@ jedoch ihr Ende gefunden.
 
 Mehr konnten die drei indischen Herren uns nicht mitteilen.
 Sie baten Harst, den Mord auf jeden Fall aufzuklären
-und überwiesen Harald einen (Geldbetrag, der es uns
+und überwiesen Harald einen Geldbetrag, der es uns
 ermöglichte, die Angelegenheit auf das großzügigste zu erledigen.
 
 Bei dieser ersten Zusammenkunft mit den Indern
@@ -378,69 +383,68 @@ notierte Harald sich alles Nötige.
 
 Der besseren Übersicht halber will ich diese Notizen
 <@pagebreak/>
-hier wörtlich so wiedergeben, wie sie noch heute in unseren:
+hier wörtlich so wiedergeben, wie sie noch heute in unserem
 Archiv lagern. Der Leser wird dann nachher diesen ebenso
-interessanten wie äußerst vernickelten Kriminalfall besser
+interessanten wie äußerst verwickelten Kriminalfall besser
 überschauen können.
 
 Harst hatte alles Nötige nur in knappen Stichworten
 niedergeschrieben.
 
-1\. Doktor Tuma Denki, Hoheit, Thronfolger ’von Bawalar,
-Fürstentum am Nordrande der Thar-Wüste in Nord
-wvestindien, 30 Jahre, verheiratet mit Ihrer Hoheit Sadukala
-von Privat, einzigen Tochter des Radschas von Per
-war, ein Bawalar benachbartes kleineres Fürstentum. Ne!
-zitng3heirat, obwohl politische Gesichtspunkte insofern mit
-sbrachen, als beide Fürstentümer später un’er der Reggierun«
-des ältesten Sohnes des Thronfolgers Tuma den?! ne
-einigt werden sollten. — Drei Kinder aus dieser Ehe, ältere:
-er Sohn vierzehn Jahre.
+1. Doktor Tuma Denki, Hoheit, Thronfolger von Bawalar,
+Fürstentum am Nordrande der Thar-Wüste in Nordwestindien,
+30 Jahre, verheiratet mit Ihrer Hoheit Sadukala
+von Priwar, einzigen Tochter des Radschas von Priwar,
+ein Bawalar benachbartes kleineres Fürstentum. 
+Neigungsheirat, obwohl politische Gesichtspunkte insofern mitsprachen,
+als beide Fürstentümer später unter der Regierung
+des ältesten Sohnes des Thronfolgers Tuma Denki vereinigt
+werden sollten. — Drei Kinder aus dieser Ehe, ältester
+Sohn vierzehn Jahre.
 
-2\. Reise nach Europa zu Studienzwecken. Abfahrt vo’:
-Bombay am 3. Februar mit englischen Luxuvampfer
-»Tales«. — Bekanntschaft mit Witwe des anglo-indischen
+2. Reise nach Europa zu Studienzwecken. Abfahrt von
+Bombay am 3. Februar mit englischen Luxusdampfer
+»Wales«. — Bekanntschaft mit Witwe des anglo-indischen
 Majors Sinclair. Blonde Frau von großem Liebreiz, klug,
-sportgeübt, heiteren Naturells. — Tuma Denki sehr viel mich!
-Lizabet Sinclair zusammen. drei Trennung in Dover schenkt
-er ihr als Andenken Brillantdiadem, das er Telegraphie;c)
-um Sandmeer aus bei Zauberer Juwelier Dampfer voran
-bestellt hat. Dame lehnt Geschenk erst ab. Hoheit muß
-Lange bitten, ehe Witwe Geschenk annimmt.
+sportgeübt, heiteren Naturells. — Tuma Denki sehr viel mit
+Lizabet Sinclair zusammen. Bei Trennung in Dover schenkt
+er ihr als Andenken Brillantdiadem, das er telegraphisch
+vom Dampfer aus bei Londoner Juwelier Sampson vorausbestellt
+hat. Dame lehnt Geschenk erst ab. Hoheit muß
+lange bitten, ehe Witwe Geschenk annimmt.
 
-3\. Reise durch die Hauptstädte Europas inkognito. Zu:
-zuletzt in Wien. Hier verläßt Tuma heimlich am 6. Juni seine
+3. Reise durch die Hauptstädte Europas inkognito.
+Zuletzt in Wien. Hier verläßt Tuma heimlich am 6. Juni seine
 Begleiter und bleibt bis 13. Juni verschwunden. Begleiter
-erfahren durch Preise Ermordung eines Inders unweit Misdroy.
-Reisen nach) Swinemünde. — Tuma Denki am
-10\. Juni nachts ermordet rumort Stirnschuß aus moderner
-Pistole. — Schuß aus etwa vier Meter Intjernung abgegeben.
+erfahren durch Presse Ermordung eines Inders unweit Misdroy.
+Reisen nach Swinemünde. — Tuma Denki am
+10\. Juni nachts ermordet durch Stirnschuß aus moderner
+Pistole. — Schuß aus etwa vier Meter Entfernung abgegeben.
 
-4\. Begleiter haben nichts davon Amen«…:l, daß Tuma Beziehungen
+4. Begleiter haben nichts davon gemerkt, daß Tuma Beziehungen
 zu L. Sinclair etwa schriftlich fortgesetzt hat. —
-
 <@pagebreak/>
 Auftrag am 15. Juni, Fall aufzuklären. Hunderttausend
 Mark als vorläufiges Honorar.
 
-5\. Depesche nach) London an Detektivpolizei, ob L. Sinclair
+5. Depesche nach London an Detektivpolizei, ob L. Sinclair
 London verlassen habe. Am 16. Juni abends Antwort,
 daß Betreffende ihre Villa in Londoner Vorort seit Rückkehr
 aus Indien nicht verlassen habe und still und zurückgezogen
 lebe. Witwe hat zugegeben, daß Tuma wiederholt
 an sie geschrieben. Nie geantwortet. Brillantdiadem, das
-Tuma ihr verehrte, ihr am 20. Mai nebst anderem Schnitt
+Tuma ihr verehrte, ihr am 20. Mai nebst anderem Schmuck
 gestohlen. Diebstahl wurde angemeldet. Nachforschungen
 nach Täter ergebnislos. Einbruch in Villa, offenbar zwei
 Beteiligte — sonst nichts.
 
-6\. Begleiter können über Inhalt des Krawattenkastens
+6. Begleiter können über Inhalt des Krawattenkastens
 keine Auskunft geben. Kasten als einziges mit den Krawatten
 aus Gepäck gestohlen.
 
-7\. Am 17. Juni Depesche des Radschas von Bawalar,
+7. Am 17. Juni Depesche des Radschas von Bawalar,
 des Vaters Tumas, daß Leiche Tumas einbalsamiert und
-nach Indien gebracht werden solle. einer Berliner Spezialärzte
+nach Indien gebracht werden solle. Zwei Berliner Spezialärzte
 nehmen Einbalsamierung am 18. Juni vor. Am
 18\. trifft auch Dienerschaft aus Wien ein. — Befragung des
 Kammerdieners Tumas, eines Engländers namens John
@@ -448,44 +452,44 @@ Halifax, ergebnislos. Halifax gleichzeitig Privatsekretär.
 Gebildeter, älterer Mann. Macht den Eindruck, als ob er
 manches verschweige.
 
-8\. Begleiter und Dienerschaft reisen am 19. Juni mit
-doppeltem Zinksarg über Stettin nun Hamburg, wo sie
-Dampfer »Neptun« zur Rückfahrt benutzen wollen, — Angelegenheit
+8. Begleiter und Dienerschaft reisen am 19. Juni mit
+doppeltem Zinksarg über Stettin nach Hamburg, wo sie
+Dampfer »Neptun« zur Rückfahrt benutzen wollen. — Angelegenheit
 auf dem toten Punkt. — —
 
 Vom 19. Juni waren wir nun also allein im Palast-Hotel
-in Swinemünde, das heißt, die Inder hatten in3ge—samt
+in Swinemünde, das heißt, die Inder hatten insgesamt
 den Badeort verlassen.
 
 Am Abend dieses Tages saßen wir auf einer der
-Bänke vor dem Kurhaus und genossen Schuft und Musik.
+Bänke vor dem Kurhaus und genossen Seeluft und Musik.
 Die Mehrzahl der Kurgäste schlenderte auf und ab. Es war
 etwas kühl, und wir hatten warme Ulster an.
 
-warst sehr still und in sich gekehrt …
+Harst sehr still und in sich gekehrt …
 
 <@pagebreak/>
-Ich rauhe die zweite Ade.;behaarte und friere.—« Mein
+Ich rauche die zweite Abendzigarre und friere. — Mein
 Vorschlag, gleichfalls auf und ab zu gehen, wurde durch
-Kopsjhuütteln abgelehnt.
+Kopfschütteln abgelehnt.
 
-Dann Haar Sarg!d ganz unvermittelt:
+Dann sagt Harald ganz unvermittelt:
 
 »John Halifax ist da …«
 
 Ich werde sofort lebhaft, denn John Halifax’ Persönlichkeit
-hat zu allerlei Boden!en Anlaß gegeben.
+hat zu allerlei Bedenken Anlaß gegeben.
 
 »Verkleidet!« fügt Harald hinzu … »Du weißt, er
 wollte über Berlin nach London zurückkehren, wollte sich
-zur Ruhe Seen und seine Stellung mehr annehmen. Er
-als — einziger der Begleitung reiste nach Berlin. Angeblich,
-weil er dort einem Bekannten besuchen wollte. — Es ist
-John … Ich starrte hüsteln, wenn er wieder vorüberkommt.
-Sei aber Ansichtig und verrate durch nichts, daß
+zur Ruhe setzen und keine Stellung mehr annehmen. Er
+als einziger der Begleitung reiste nach Berlin. Angeblich,
+weil er dort einen Bekannten besuchen wollte. — Es ist
+John … Ich werde hüsteln, wenn er wieder vorüberkommt.
+Sei aber vorsichtig und verrate durch nichts, daß
 wir auf ihn aufmerksam geworden sind.«
 
-Eine Weile später linke dann auch ich den ehemaligen
+Eine Weile später finde dann auch ich den ehemaligen
 Kammerdiener heraus. Er hat sich tadellos maskiert. Bart
 und Perücke wirken durchaus echt.
 
@@ -499,27 +503,27 @@ zu tun hat, ist jetzt John das einzige Mittel, die Sache in
 Fluß zu bringen. — Wir werden jetzt folgendes versuchen …
 Wir gehen bis zu unserem Hotel. Dort trennen wir uns.
 Du betrittst das Hotel, während ich die Strandpromenade
-nach Ah lbeck zu hinabiwvandere. Dort, wo der Dänemark
-beginnt, See ich mich auf eine Bank. Du wieder mußt
-heimlich John Halifax im Auge behalten, der mir fragte«
-folgen wird. Wir müssen herausbringen, so er wohnt. Ich
-werde so lange auf der Bank sitzen bleiben, bis Du Dir
-einigermaßen verändert hast. Deine A::;.;als ist nicht einfach.
-Halifax ist ohne Zweifel ein ganz a. niederen Bursche.«
+nach Ahlbeck zu hinabwandere. Dort, wo der Dünenwald
+beginnt, setze ich mich auf eine Bank. Du wieder mußt
+heimlich John Halifax im Auge behalten, der mir fraglos
+folgen wird. Wir müssen herausbringen, wo er wohnt. Ich
+werde so lange auf der Bank sitzen bleiben, bis Du Dich
+einigermaßen verändert hast. Deine Aufgabe ist nicht einfach.
+Halifax ist ohne Zweifel ein ganz geriebener Bursche.«
 
 Wir standen auf und schlenderten dem Hotel zu.
 
 Ich eilte auf unsere Zimmer im Hochparterre, und fünf
 <@pagebreak/>
-Minuten später schon verließ ich als ältere Dame wiederun1
+Minuten später schon verließ ich als ältere Dame wiederum
 das Hotel und schritt dem Dünenwalde zu …
 
 Aber — von Harald keine Spur …
 
 Nur wenige Spaziergänger, zumeist Pärchen …
 
-Ich) betrete den Wald … Kehre um … Nichts:2 von
-Harald, nichts von dem sragtwürdigen John …
+Ich betrete den Wald … Kehre um … Nichts von
+Harald, nichts von dem fragwürdigen John …
 
 Werde unruhig, besorgt …
 
@@ -534,41 +538,40 @@ Promenade leer …
 
 nochmals betrete ich den Wald …
 
-Die Dunkelheit stört mich … Die diesem rauschen
+Die Dunkelheit stört mich … Die Kiefern rauschen
 unter den Windstößen …
 
-Ich spähe rundum … Mondlicht blinkt in den Baum-üden
+Ich spähe rundum … Mondlicht blinkt in den Baumlücken
 …
 
-Stube …
+Stutze …
 
 Ein Filzhut dort — ein hellgrauer Filzhut … Ich
 hebe ihn auf …
 
 ohne Zweifel Haralds Hut …
 
-Dann springt mir jemand in den Rücken … Ich falls
-
+Dann springt mir jemand in den Rücken … Ich falle
 nach vorn … Spüre, daß zwei Leute mich niederhalten.
-Man drückt mir ein Tuch vor das —
-Meine Hilferufe ermatten schnell … Chloroform — —
+Man drückt mir ein Tuch vor das Gesicht …
 
+Meine Hilferufe ermatten schnell … Chloroform — —
 Ohnmacht …!! —
 
 Das war damals, als am übernächsten Tage die Zeitungen
-endlose Berichte über unser Vers!, winden brachten …
-6l8 unser Freund Bechert nach; Swincimünde geeilt kam
-7d noch) uns suchte …
+endlose Berichte über unser Verschwinden brachten …
+Als unser Freund Bechert nach Swinemünde geeilt kam
+und nach uns suchte …
 
-Bechert fand in Haralds Koffer die vorher hier ausgeführten
+Bechert fand in Haralds Koffer die vorher hier aufgeführten
 Notizen …
 
-Bechert kurze daher John Halifax … Fritz Bechert
+Bechert suchte daher John Halifax … Fritz Bechert
 ist Fachmann, wie der Leser weiß, Kriminalkommissar …
 
-Das war damals, als die Welt einen vollen Diener
+Das war damals, als die Welt einen vollen Monat
 <@pagebreak/>
-nichts von uns hörte … als wir als tot betrauert warteten
+nichts von uns hörte … als wir als tot betrauert wurden
 … als die Öffentlichkeit uns bereits aus der Reihe
 der Lebenden gestrichen hatte …
 
@@ -577,21 +580,22 @@ Schiffskabine erwachte, die sehr elegant eingerichtet war …
 
 Elektrisches Licht — aller Komfort … Nur die Fenster
 durch die Eisenplatten verschraubt, und in der Tür ein
-Guckloch und darunter eine Klappe, durch die man uns bel—den
+Guckloch und darunter eine Klappe, durch die man uns beiden
 Gefangenen die Speisen hineinreichte …
 
-Uns beiden, die keine Ahnung hatten, auf welch äußerste
-wir uns befanden …
+Uns beiden, die keine Ahnung hatten, auf welchem
+Schiffe wir uns befanden …
 
 Dieses Schiff blieb drei Wochen ununterbrochen unterwegs
 …
-Drei Wochen hausten wir in dieser Kabine und dem aussehenden
+
+Drei Wochen hausten wir in dieser Kabine und dem anstoßenden
 Badezimmer … Bekamen nie einen Menschen
-zu sehen … Der, der uns die Speisen hineineichte, hatte
+zu sehen … Der, der uns die Speisen hineinreichte, hatte
 Handschuhe an. Befehle wurden uns durch Zettel übermittelt,
 die mit Maschine in französischer Sprache geschrieben
 waren. Unsere Pistolen und Taschenmesser hatte man
-uns abgenommen. Selbst machte mußten wir das Licht
+uns abgenommen. Selbst nachts mußten wir das Licht
 brennen lassen. Man versorgte uns im übrigen tadellos
 mit Wäsche, Büchern, Leinenanzügen. Wiederholt merkten
 wir, daß das Schiff in einem Hafen anlegte. Die von Tag
@@ -599,10 +603,10 @@ zu Tag steigende Wärme war ein sicherer Beweis dafür, daß
 man uns nach Indien schaffte.
 
 Und Harald betonte mir gegenüber wiederholt, daß wir
-vielleicht nie mehr die Treibens wiedererlangen würden. wenn
+vielleicht nie mehr die Freiheit wiedererlangen würden, wenn
 nicht ganz besonders günstige Umstände eintreten würden …
 
-»- — — Denn mein Alter, — jetzt sind wir in der Gewalt
+»… Denn mein Alter, — jetzt sind wir in der Gewalt
 derer, die den Thronfolger ermordet haben …«
 
 Harst las in diesen Wochen sehr viel. Ich arbeitete,
@@ -610,14 +614,14 @@ das heißt, ich schrieb unsere letzten Abenteuer nieder, obwohl
 ich nicht wußte, ob die Manuskripte jemals in die
 Hände meines Verlegers gelangen würden.
 
-Tägliche Freiübungen, Bäder und am:rotes sorgten für
-die Erhaltung unserer fürstlichen Frische …
+Tägliche Freiübungen, Bäder und anderes sorgten für
+die Erhaltung unserer körperlichen Frische …
 
 <@pagebreak/>
 Drei Wochen — eine endlose Zeit …
 
 Endlos langsam schlichen diese Tage hin … Tag und
-Nacht war für uns stehen. Wir schauten keinen Sonnenstrahl
+Nacht war für uns gleich. Wir schauten keinen Sonnenstrahl
 … Wir wußten nur, daß hinter dem Guckloch andauernd
 ein Mann wachte …
 
@@ -627,10 +631,11 @@ wie bisher …
 
 Eine unnatürliche Müdigkeit befiel uns …
 
-Wir schießen in unseren Korbsesseln ein …
+Wir schliefen in unseren Korbsesseln ein …
 
-<h2>8. Kapitel.</h2>
-<h3>Der Setzen Schaka.</h3>
+<h2>3. Kapitel.</h2>
+<h3>Der Schara Schaka.</h3>
+
 Die Kabine war verschwunden …
 
 Die Zelle hatte gewechselt … Am übrigen war alles
