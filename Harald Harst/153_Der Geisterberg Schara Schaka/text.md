@@ -641,24 +641,23 @@ Die Kabine war verschwunden …
 Die Zelle hatte gewechselt … Am übrigen war alles
 genau so geblieben …
 
-Kahle Felömauern ringsum … Eine eiserne Tür,
+Kahle Felsmauern ringsum … Eine eiserne Tür,
 ein Guckloch, eine Klappe darunter … Bescheidene Möbel,
-
 eine Karbidlampe …
 
 Hier erwachten wir — in diesem quadratischen engen
 Raume, neben dem sich ein kleinerer befand …
 
-Kühle, trockene Luft — etwas nach Moder tastend …
+Kühle, trockene Luft — etwas nach Moder duftend …
 
-Hier entwurzelten wir …
+Hier erwachten wir …
 
 Und alles blieb, wie es gewesen: gefangen, ständig beobachtet,
 gut verpflegt … —
 
 Acht Tage verstrichen wieder. Unsere Zelle war aus
 Felsquadern gemauert. Felsquadern auch die gewölbte
-See … Unter dieser zwei vergitterte Luftschächte …
+Decke … Unter dieser zwei vergitterte Luftschächte …
 
 Wieder kein Sonnenstrahl …
 
@@ -666,62 +665,61 @@ Und jetzt — jetzt brach ich mit den Nerven zusammen …
 Die dumpfe Verzweiflung löste allerlei Wahnvorstellungen
 in mir aus …
 
-GC kam so weit, daß ich einmal mit einem Tischmesser
+Es kam so weit, daß ich einmal mit einem Tischmesser
 <@pagebreak/>
-auf Harald eindrang … Er rang mich nieder, mußte mich:
-die Hände Sesseln …
-lieber stellte sich ein … Stunden lag ich ohne Bett
+auf Harald eindrang … Er rang mich nieder, mußte mir
+die Hände fesseln …
 
+Fieber stellte sich ein … Stunden lag ich ohne
 Bewußtsein auf meinem Bett … Nachher war ich zu schwach,
-un mich zu regen …
+um mich zu regen …
 
-In stumpfen Hindämmern verging wieder ein Tag …
+In stumpfem Hindämmern verging wieder ein Tag …
 
 Dann — ließ ein gellender Schrei mich emporfahren …
 
-Ich) starrte wild um mich … Sah — sah, daß Harald
+Ich starrte wild um mich … Sah — sah, daß Harald
 jetzt einen Gewaltstreich gewagt hatte …
 
 Als einer unserer Wächter das Frühstück hereinreichte,
 hatte er die Hände des Mannes gepackt und den Kopf des
 Menschen durch die Klappe mit hineingezogen …
 
-In! Moment war meine Mattigkeit überwunden …
+Im Moment war meine Mattigkeit überwunden …
 
 Ich sprang auf …
 
-Der Kerl war ein älterer Inder :;
+Der Kerl war ein älterer Inder …
 
 Er brüllte wie besessen …
 
 Dann hatte Harst mit blitzschnellem Geist den Hals des
 Inders umkrallt …
 
-NRüÜcCksicht kannten wir nicht …
+Rücksicht kannten wir nicht …
 
 Der Wann wurde halb erwürgt, wurde bewußtlos …
 
 Keuchend standen wir da …
 
 Harald stieß den Kopf des Mannes durch das Türloch
-zurück … Der Körper schlug draußen hart aus…
+zurück … Der Körper schlug draußen hart auf …
 
-Dann langte Harald durch) die Öffnung hindurch …
+Dann langte Harald durch die Öffnung hindurch …
 Fand die Riegel … Drei schwere Eisenriegel …
 
-Und — endlich war die »Tür offen … Die Freiheit
-winkte … Noch — — waren wir nicht frei. Aber. die Leute
-Er ich sehen wollen, die uns jetzt noch wieder eingesperrt
-
+Und — endlich war die Tür offen … Die Freiheit
+winkte … Noch — — waren wir nicht frei. Aber die Leute
+hätte ich sehen wollen, die uns jetzt noch wieder eingesperrt
 hätten!
 
 »Hole unsere Lampe,« flüsterte Harald, indem er sich
-Über den Bewußtlosen beugte und ihm einen Revolver aus ![«
-der Tasche des Leinenkittels nahm …«
+Über den Bewußtlosen beugte und ihm einen Revolver aus
+der Tasche des Leinenkittels nahm …
 
 Ich stieg über die Scherben des am Boden liegenden
-Geschreis … Tassen, Kanne, Teller — alles nur nacht-Bruch
-…
+Geschirrs … Tassen, Kanne, Teller — alles nur noch
+Bruch …
 
 Und ich holte die Lampe …
 
@@ -738,22 +736,22 @@ Der Felsengang zog sich nach links hin weiter …
 
 Harald voran — ich mit der Karbidlampe hinterher …
 Die Laterne des alten Inders, nur ein jämmerliches Blinkendes
-Oellaternhchen, hatte ich ausgelöscht und in die Jackentasche
+Öllaternchen, hatte ich ausgelöscht und in die Jackentasche
 geschoben …
 
-Der Gang senkte ein … Zuweilen wurde er breiter …
-So machten wir etwa fünfzig Meter zurückgelegt haben, als
+Der Gang senkte sich … Zuweilen wurde er breiter …
+So mochten wir etwa fünfzig Meter zurückgelegt haben, als
 wir an eine ganz enge Stelle gelangten, an der eine eiserne
 Tür eingefügt war — genau so ein plumpes altes Ding,
 wie die unserer Zelle …
 
 Und diese Tür war von außen verriegelt, hatte kein
-Guckloch, keine klar:ne …
+Guckloch, keine Klappe …
 
 Wir schauten uns an …
 
 Ich … fluchte … Ich tue es selten. In dieser Lage
-war es verzeihlich »u.
+war es verzeihlich …
 
 Aber — — Harst lächelte …
 
@@ -761,11 +759,11 @@ Ein Lächeln, das kein Lächeln war …
 
 »Wir müssen heraus! Hinter dieser Tür winkt die Freiheit
 … Hinter dieser Tür werden sich noch andere Wächter
-befinden …« … Besänne Dich, daß wir häufig in unserer
+befinden … Besinne Dich, daß wir häufig in unserer
 Zelle fünf dröhnende Schläge hörten … Fünf …! Und
 diese Schläge wurden sicherlich gegen diese Tür geführt,
-waren für die anderen Wächter ein Zeichen … — braune
-verhüllen, mein Alter — mit Deiner Jahr! Halte Dich im
+waren für die anderen Wächter ein Zeichen … — Lampe
+verhüllen, mein Alter — mit Deiner Jacke! Halte Dich im
 Hintergrund …!!«
 
 Und — er stieß mit dem Stiefelabsätze gegen die Eisentür
@@ -780,7 +778,7 @@ Dann jenseits der Tür Geräusche …
 
 Riegel wurden bewegt …
 
-Die Tür ging aus…
+Die Tür ging auf …
 
 Mattes Laternenlicht … Ein einzelner Inder …
 
@@ -799,48 +797,48 @@ Weiter …
 
 Der Felsengang steigt steil an … Drei Biegungen …
 
-Und — — Tancslimt — — Tageslicht!! Sonnenschein,
-durch: eine breite Öffnung hereinfallend …
+Und — — Tageslicht — — Tageslicht!! Sonnenschein,
+durch eine breite Öffnung hereinfallend …
 
 Seit vier Wochen der erste Sonnenstrahl … Wir standen
-und, starrten dort vor uns in die gleiten he Helle …
+und starrten dort vor uns in die gleißende Helle …
 
-Dann schritt Harst wieder vorwärts«, …
+Dann schritt Harst wieder vorwärts …
 
 Beginnt zu kriechen … Winkt mir … Ich soll zurückbleiben
 …
 
 Er kriecht durch den Ausgang ins Freie … Ich höre
-einen lauten auf … Einen Schuß — noch einen …
+einen lauten Ruf … Einen Schuß — noch einen …
 
-Stürme weiter …«
+Stürme weiter …
 
 Hinaus auf die Felsterrasse … Harald hat die beiden
-Inder, die hier im Schatten einiger Büsche hatten, schon
+Inder, die hier im Schatten einiger Büsche hockten, schon
 erledigt … hat sie niedergeschlagen … Die beiden
-Schüsse. die der eine noch abfeuerte, sind schlgegangen …
+Schüsse, die der eine noch abfeuerte, sind fehlgegangen …
 
-Während ich die Leute frische, kriecht Harald bis zum
-Terrassenrand, verbirgt den Kopf hinter ein paar Gras-ftauden
+Während ich die Leute fessele, kriecht Harald bis zum
+Terrassenrand, verbirgt den Kopf hinter ein paar Grasstauden
 und späht hinab …
 
 Kommt sofort zurück …
 
 Sein Gesicht beweist mir, daß da unten irgend etwas
-nicht in Störung …
+nicht in Ordnung …
 
-»Was gib:’s, Harald?«
+»Was gibt’s, Harald?«
 
-»Wenig Erbauliches für uns, mehr: Alter … Die
-Terrasse bildet den steilen Nbichlusßß eines bewaldeten, na
+»Wenig Erbauliches für uns, mein Alter … Die
+Terrasse bildet den steilen Abschluß eines bewaldeten, nach
 dorthin fächerartig sich verbreiternden Tales … Vom
 <@pagebreak/>
 Rande der Terrasse hängt ein starker Lederriemen herab.
-das scheint der einzige Weg hier nach oben zu sein. Unten
+Das scheint der einzige Weg hier nach oben zu sein. Unten
 im Tale gibt es eine Lichtung, vielleicht hundert Meter von
 hier entfernt, und auf dieser Lichtung steht ein Uralter tropischer
 Baum … Dahinter erhebt sich ein flacher kahler
-Hügel aus schwarzen Felöblöen. Um diesen Hügel herum
+Hügel aus schwarzen Felsblöcken. Um diesen Hügel herum
 sah ich etwas Weißes schimmern: anscheinend Skelette.
 Und auf diesen Felsen stand oben ein alter Inder, neben
 ihm ein Tiger. Der Alte blickte scharf nach der Terrasse
@@ -853,10 +851,10 @@ die beiden Wächter in den Gang bis hinter die Eisentür.
 Beeile Dich und prüfe ihre Fesseln. Nimm ihnen die
 Waffen ab. Los denn …!«
 
-Ich spürte nichts mehr von Nerven und Schwach? …
+Ich spürte nichts mehr von Nerven und Schwäche …
 
 Die warme, freie Luft und die Sonne hier draußen
-hatten mich Freund gemacht.
+hatten mich gesund gemacht.
 
 Nachdem ich meinen Auftrag erledigt, schob ich mich
 vorsichtig auf allen Vieren neben Harald …
@@ -864,18 +862,18 @@ vorsichtig auf allen Vieren neben Harald …
 Die Grasbüschel waren dicht genug, uns gegen Sicht
 zu schützen …
 
-»Ist sah den mächtigen Baumriesen, die Felsen und
+Ich sah den mächtigen Baumriesen, die Felsen und
 den Kranz von Skeletten. Aber der Inder und sein zahmer
 Tiger waren verschwunden …
 
 Harald fragte leise:
 
 »Was meinst Du wohl, wo wir uns befinden?! —
-Indien — das steht fest. Aber in welchem Zelle Indiens?!
+Indien — das steht fest. Aber in welchem Teile Indiens?!
 — Blicke mal in die Ferne …«
 
-Tages Tal ging in eine wellenförmige endlose Sandwüste
-über … Einige grünliche Flächen der Fäuste
+Das Tal ging in eine wellenförmige endlose Sandwüste
+über … Einige grünliche Flächen der Wüste
 waren mit dunkleren Punkten besät: weidendes Vieh!
 
 Ich dachte an die Lage des Fürstentums Bawalar am
@@ -886,7 +884,7 @@ Sagte sehr bestimmt:
 
 »Thar!!«
 
-»Allerdings, die Thar …!? Bekannter Boden für
+»Allerdings, die Thar …!! Bekannter Boden für
 uns, wenn auch vielleicht nicht gerade dieser Teil …«
 
 »Wo ist der alte Inder geblieben?«
@@ -897,25 +895,25 @@ uns in Indien und am Rande der Thar befinden, will ich
 Dir auch mitteilen, was ich über diese unsere Einkerkerung
 von Anfang an vermutet habe … Ich behaupte, daß die
 Gattin des Thronfolgers aus Eifersucht ihren Gatten während
-seiner Europareise durch den von ihr bestochenen Halt
-— lag hat bewachen lassen … Ich behaupte weiter, daß
+seiner Europareise durch den von ihr bestochenen Halifax
+hat bewachen lassen … Ich behaupte weiter, daß
 die Beziehungen des Tuma Denki zu Frau Sinclair nicht
 harmlos geblieben sind und daß die heißblütige Prinzessin
-Sadukala von vertrat, Tumas Frau eben,:hier Mann
+Sadukala von Priwar, Tumas Frau eben, ihren Mann
 ermorden ließ, wobei Halifax die Hand mit im Spiel gehabt
 hat … Als wir von dem Radscha von Bawalar
 dann beauftragt wurden, den Mörder zu suchen, hat Halifax
 uns verschwinden lassen, damit die Prinzessin nicht in
-Gefahr geriete. J4 habe Dir ja erzählt, daß man mich in
+Gefahr geriete. Ich habe Dir ja erzählt, daß man mich in
 Swinemünde auf der Strandpromenade am Dünenwald
 hinterrücks überfiel — sehr schnell und geschickt … Nur
 John Halifax kann das Ganze geleitet haben … Nur
 er …«
 
-Ich Niete …
+Ich nickte …
 
-Ich schaute unvertwwandt hinab zu den grauschwarzen
-Felsmassen — zu dem ging von Gebeinen …
+Ich schaute unverwandt hinab zu den grauschwarzen
+Felsmassen — zu dem Ring von Gebeinen …
 
 Ein unheimlicher Ort …
 
@@ -924,9 +922,9 @@ Ich erkannte jetzt Menschen- und Tierskelette …
 Harald nun wieder:
 
 »Du kannst jetzt hier wachen … Ich werde unsere
-Gefangenen in unsere Zelle einsperren »ich mich in dem
-Felsengang gerann umsehen … Sollte 6i …:a der Alte wieder
-auftauchen und hierher kommen, so 35: he vorsichtig den
+Gefangenen in unsere Zelle einsperren und mich in dem
+Felsengang genau umsehen … Sollte etwa der Alte wieder
+auftauchen und hierher kommen, so ziehe vorsichtig den
 Lederriemen empor … Ich glaube nicht, daß es einen
 <@pagebreak/>
 anderen Weg hier nach oben gibt. Für alle Fälle will ich
@@ -935,71 +933,67 @@ aber einmal die Terrasse nochmals absuchen …
 Er schob sich auf allen Vieren rückwärts …
 
 Dann rief er mir nach einer Weile zu: »Hier in der
-
-Rückwand der Terrasse ein dieses Felsloch … Lebensmittel
-… Ein Petroleimkocher … mancherlei anderes …
-Auch ein frisch erregtes Bergschaf … Der dicke, fünfzehn
-
-Meter lange Lederriemen — vielleicht ist er voll) länger —
-dürfte tatsächlich der einzige Weg h)Tier nach oben sein …«
+Rückwand der Terrasse ein tiefes Felsloch … Lebensmittel
+… Ein Petroleumkocher … mancherlei anderes …
+Auch ein frisch erlegtes Bergschaf … Der dicke, fünfzehn
+Meter lange Lederriemen — vielleicht ist er noch länger —
+dürfte tatsächlich der einzige Weg hier nach oben sein …«
 
 Dann tauchte er in dem Felsengang unter.
 
-sich mußte eine halbe Stunde warten …
+Ich mußte eine halbe Stunde warten …
 
 Ich wurde schon ein wenig besorgt, als Harald endlich
 wieder erschien.
 
-Nicht allein …!? Vor ihm der taumelte einer der vier
-
+Nicht allein …! Vor ihm her taumelte einer der vier
 Gefangenen — der jüngste unserer nunmehr erledigten
 Wächter … Über dem Arm hatte Harald ein Bündel
-Kloeivungsstüke … die warf er nun aus den Boden, band
-
+Kleidungsstücke … die warf er nun auf den Boden, band
 den Inder an einen einzelnen Stein dicht an der steilen
-Terrassenrüc’wand und kam zu mir …
-»dicht Neues,« meldete ich.
+Terrassenrückwand und kam zu mir …
+
+»Nichts Neues,« meldete ich.
 
 »Viel Neues,« meinte er … »Der Bursche da war
 schon wieder zu sich gekommen … Ich drohte ihm mit
 Erschießen … Und er gab an, daß diese Terrasse zu dem
-
 Berge Schara Schaka gehöre, der an der Südgrenze von
-Privat in der Thar liegt … Sara Saka bedeute
+Priwar in der Thar liegt … Schara Schaka bedeute
 »Berg der Gespenster«, erklärte er weiter … Als ich ihn
 fragte, innerhalb der Berg diesen Namen führe, erzählte er,
-daß weder die Bann lesen noch die Priwaresen seit Jahrhunderten
+daß weder die Bawalesen noch die Priwaresen seit Jahrhunderten
 dieses Tal zu betreten wagten. Auch die Umgebung
 des Tales und des Berges werde ängstlich gemieden.
-(Es gebe die Sage, daß hier unheimliche Geister
-ha:leer, die jeden hüteten. — Ich hielt ihm vor, daß er und
+Es gebe die Sage, daß hier unheimliche Geister
+hausen, die jeden töteten. — Ich hielt ihm vor, daß er und
 die anderen drei Wächter jetzt doch seit vielen Tagen hier
 weilten. Er erwiderte, sie hätten es auch nur getan, weil
 man ihnen viel Geld bezahle … Und dieser »man« ist
 eben der Alte mit dem Tiger. — Weiter behauptet der
 <@pagebreak/>
-Bursche, daß er den Alten nicht kenne, daß dieser ihn un:
+Bursche, daß er den Alten nicht kenne, daß dieser ihn und
 die anderen drei in Bawalar für diesen Dienst angeworben
 habe … Angeblich sollen wir hier einen Monat
-bleiben. — Mehr scheint der ’unge Mensch tatsächlich nicht
-zu Wissen. (Es ist viel — und wenig …
+bleiben. — Mehr scheint der junge Mensch tatsächlich nicht
+zu wissen. Es ist viel — und wenig …«
 
 Er wollte noch etwas hinzufügen …
 
 Da rief der Bawalese uns halblaut zu:
 
 »Sahib, ich habe noch etwas vergessen … Ich will
-bereits verheimlichen, denn wenn Ihr unserem Radscha mitteilt,
+nichts verheimlichen, denn wenn Ihr unserem Radscha mitteilt,
 was wir getan haben, läßt er uns hinrichten …«
 
 »und — was hast Du vergessen?«
 
-»Es gibt von hier einen Weg nach oben aus den Berg,
+»Es gibt von hier einen Weg nach oben auf den Berg,
 Sahib … Dort, wo der grüne Strauch im Gestein der
 Rückwand wächst, läuft eine Reihe kaum erkennbarer Stufen
 in die Höhe … Der Berg ist aber nach allen Seiten
-j9 abschüssig, daß man doch nur mit Hilfe des Lederkoffer
-As Tal hinabkann …«
+so abschüssig, daß man doch nur mit Hilfe des Lederseiles
+ins Tal hinabkann …«
 
 <h2>4. Kapitel.</h2>
 <h3>Der Tiger.</h3>
@@ -1007,19 +1001,19 @@ As Tal hinabkann …«
 Harald nickte dem jungen Inder zu und meinte dann
 zu mir ganz leise:
 
-»Der Mann lügt nicht.«… Ich habe ihm mitgeteilt,
+»Der Mann lügt nicht … Ich habe ihm mitgeteilt,
 wer wir sind und daß der Radscha von Bawalar uns beauftragt
 hat, den Mörder des Thronfolgers zu suchen. Der
-Wann hatte offenbar keine Ahnung, daß wir Deutsche sind …
-Er spricht nur ganz gebrochen ergriff;. Er ist nicht unintelligent,
+Mann hatte offenbar keine Ahnung, daß wir Deutsche sind …
+Er spricht nur ganz gebrochen englisch. Er ist nicht unintelligent,
 der Bursche … Er bat mich flehentlich, ihn
-und die anderen drei nicht dem Radscha von Hauptakt auszuliefern.
+und die anderen drei nicht dem Radscha von Bawalar auszuliefern.
 Ich glaube, wir werden auch die Übrigen drei
-Leute für uns gewinnen können…« —
+Leute für uns gewinnen können …« —
 
-Da Wir jetzt — es war inzwischen Mutlos geworden —
+Da Wir jetzt — es war inzwischen Mittag geworden —
 <@pagebreak/>
-kurzer verspürten, nahmen wir rasch eine kalte Mahlzeit
+Hunger verspürten, nahmen wir rasch eine kalte Mahlzeit
 ein …
 
 Ich blieb wieder als Wache am Terrassenrand. Harald
@@ -1038,80 +1032,79 @@ Denkis sind sie genau unterrichtet … Auch darüber, daß
 die beiden Detektive, die der Radscha beauftragt hat, verschwunden
 sind. — Der Mann heißt Kimur. Er steht nun
 ganz auf unserer Seite … Wir können ihm trauen. Ich
-will ihm die Fesseln abnehmen … Er ex23q9lte noch, daß
+will ihm die Fesseln abnehmen … Er erzählte noch, daß
 der Alte, der ihn und die anderen angeworben hat, hinter
 dem Felshügel in einer Erdhütte mit dem Tiger haust und
 daß sie von ihm alles empfingen, was sie für sich und uns
 brauchten. Sie mußten die Sachen in einem Korb an dem
-vereitelt emporziehen. Diese Terrasse dursten sie nicht verlassen…«
-—
+Lederseil emporziehen. Diese Terrasse durften sie nicht
+verlassen …« —
 
-Harst’s Menschenkenntnis flog nicht. Kimur wurde uns
-ein treii’cr Verbündeter …
+Harst’s Menschenkenntnis trog nicht. Kimur wurde uns
+ein treuer Verbündeter …
 
 Er war ein schlanker Mensch, Mitte der Zwanziger, mit
-Chiffren, fast lustigen Augen …
+ehrlichen, fast lustigen Augen …
 
 Er lag nun zwischen uns am Terrassenrand und erzählte
 Einzelheiten, — wie der Alte ihn spät abends am
 Bahnhof in Bawalar angesprochen habe … Wie sie dann
 zu fünfen auf Reitdromedaren in sechs Stunden hier zum
-Schara Saka geritten seien und wie sie an dem Ledertau
+Schara Schaka geritten seien und wie sie an dem Ledertau
 emporkletterten … Der Alte mit ihnen … Und dann
 habe dieser ihnen ihre Pflichten genau erklärt, habe ihnen
 die Zelle gezeigt … Damals seien wir noch bewußtlos
 gewesen und hätten auf den Betten gelegen … — Seitdem
 <@pagebreak/>
 sei der Alte nicht wieder auf die Terrasse gekommen …
-
 Er zeige sich überhaupt selten … Und die Schüsse vorhin
 würden ihn nicht mißtrauisch gemacht haben, da er ihnen
-erlaubt habe, mit den neue!’vern nach der Scheibe zu
-schießen … Die Waffen ha:ten sie von dem Alten erhalten,
+erlaubt habe, mit den Revolvern nach der Scheibe zu
+schießen … Die Waffen hatten sie von dem Alten erhalten,
 den sie nicht kannten und vorher noch nie gesehen
 hatten. —
 
 Hieraus ging klar hervor, wie schlau und vorsichtig
-die wahren Schuldigen alles so, einzurichten verstanden hatten,
+die wahren Schuldigen alles so einzurichten verstanden hatten,
 daß sie kaum zu fassen waren,
 
 Während Kimur treuherzig alles berichtete, was ihm
-an Einzelheiten noch einfiel, mußte im wieder an die Prinzessin
+an Einzelheiten noch einfiel, mußte ich wieder an die Prinzessin
 Sadukala denken …
 
-Ob sie Willkür Tuma Denki aus Eifersucht ermordet
+Ob sie wirklich Tuma Denki aus Eifersucht ermordet
 hatte — oder ermorden lassen?! das kam ja schließlich auf
-eins hinaus … an
+eins hinaus …
 
-Ich konnte mir nicht helfen: mir kamen »innen wieder
+Ich konnte mir nicht helfen: mir kamen immer wieder
 allerlei Zweifel …
 
 Und so fragte ich denn nun Kimur, ob die Witwe
-Tumas in Zahnarzt beliebt sei …
+Tumas in Bawalar beliebt sei …
 
 Oh — da glühten die schwarzen Augen des jungen
-Batyzvalcsen in heiliger Freude auf …
+Bawalesen in heiliger Freude auf …
 
 »Sahib,« sagte er, »Sahib, die Prinzessin wird Überall
 verehrt … Sie tut viel Gutes, sie hat während der
 letzten Choleraepidemie im Lazarett gepflegt, und wenn sie
 ausfährt, wird ihr Auto von der Menschenmenge so umdrängt,
-daß es kaum vorwäkt8kommt …«
+daß es kaum vorwärtskommt …«
 
 Harald warf mir einen besonderen Blick zu … Dieser
-Blick besagte: anscheinend bin ich gründlich) auf dem
+Blick besagte: »anscheinend bin ich gründlich auf dem
 Holzwege, was diesen Verdacht anbetrifft!«
 
 Und — damit hatte er offenbar recht … Der Fall
 Tuma Denki lag dunkler denn je zuvor … Wer waren
-nun die Schuldigen?! Wer konnte es sich leisten, eine
-Dampfer nach Europa zu schicken — für »alle Fälle! Wer besaß
+nun die Schuldigen?! Wer konnte es sich leisten, einen
+Dampfer nach Europa zu schicken — für alle Fälle! Wer besaß
 diese ungeheuren Geldmittel?!
 
 Harst erklärte plötzlich:
 
 <@pagebreak/>
-»H3 wird Zeit, daß wir etwas unternehmen … Du
+»Es wird Zeit, daß wir etwas unternehmen … Du
 bleibst hier auf der Terrasse, Kimur … Schraut und ich
 wollen versuchen, den Alten zu überrumpeln …«
 
@@ -1119,7 +1112,7 @@ Kimur rief entsetzt: »Sahib, — — der Tiger …!!«
 
 »Der Tiger ist nicht gepanzert, Kimur, und diese Revolver
 sind nicht schlecht …! Im Gegenteil, gerade dieser
-hier ist ein amerikanisches Fabrikat mit sehr langem Laut…
+hier ist ein amerikanisches Fabrikat mit sehr langem Lauf …
 Wir fürchten den Tiger nicht …«
 
 Wir?! Wir?!
@@ -1127,11 +1120,11 @@ Wir?! Wir?!
 Nein — ein Irrtum …! — Ich — — war durchaus
 nicht erbaut über diese Absichten Haralds — durchaus nicht …
 
-Der Gedanke, einen nasse wackeren bengalischen Tiger
-mit Revolverkugeln zur Ihrer bringen zu müssen, hatte
+Der Gedanke, einen ausgewachsenen bengalischen Tiger
+mit Revolverkugeln zur Strecke bringen zu müssen, hatte
 denn doch einen recht peinlichen Beigeschmack, zumal die Skelette
 dort rund um den Felsenhügel dafür Zeugnis abzulegen
-schienen, daß die Bestie einen sehr gefunden Appetit
+schienen, daß die Bestie einen sehr gesunden Appetit
 haben mußte …
 
 Nun — trotzdem schwieg ich. Ich konnte mich unmöglich
@@ -1141,7 +1134,7 @@ Harald gab dem Inder noch allerlei Verhaltungsmaßregeln
 …
 
 Holte dann aus dem Felsloche drüben einen jener langen
-dünnen Lederriemen, wie sie in der Thar zum An-pflocken
+dünnen Lederriemen, wie sie in der Thar zum Anpflocken
 der Dromedare benutzt werden …
 
 Und so begann er denn als erster an dem Lederseil herabzuklettern
@@ -1151,11 +1144,11 @@ Kimur lag oben und sollte aufpassen, ob der Alte sich
 etwa zeigen würde …
 
 Als wir dann erst einmal in die Nähe des Baumriesen
-gelangt waren, fühlte auch) iq mich bereits etwas
+gelangt waren, fühlte auch ich mich bereits etwas
 sicherer …
 
 Im Nu waren wir dann mit Hilfe des Lassos aus
-einem der unteren Seite …
+einem der unteren Äste …
 
 setzten uns zurecht …
 
@@ -1163,14 +1156,14 @@ Und hier meinte Harald nun:
 
 »Was ich also noch sagen wollte, mein Alter: Kimur
 <@pagebreak/>
-kennt den Namen des Tigern-«Ranges nicht … Er und
-die drei anderen Wächter haben den allem auch nur stet:!
-spät abends oder nachts gesehen — aus nächster Nähe …’
+kennt den Namen des Tigern-Mannes nicht … Er und
+die drei anderen Wächter haben den Alten auch nur stets
+spät abends oder nachts gesehen — aus nächster Nähe …
 Und das erscheint mir wichtig … Ich habe so den leisen
 Verdacht, daß wir in diesem Inder vielleicht gar einen
 alten Bekannten wiederfinden …«
 
-»Etwa … John unklar?!!«
+»Etwa … John Halifax?!«
 
 »Vielleicht — vielleicht …! — So — und nun — —
 feuere einmal einen Revolverschuß ab …«
@@ -1178,20 +1171,19 @@ feuere einmal einen Revolverschuß ab …«
 »um den Kerl hervorzulocken?«
 
 »Ja — und dann will ich mich als Lassowerfer versuchen
-…
+…«
 
-… Wir hatten die flache Kuppe des Hügels nun keine
+Wir hatten die flache Kuppe des Hügels nun keine
 sieben Meter vor uns …
 
 Konnten den Kranz von Skeletten ganz deutlich
-
 sehen … —
 
 Der Schuß knallte …
 
 Ich hielt den Atem an …
 
-Harst setzte sich nahe bequemer … die Lassoschleifen
+Harst setzte sich noch bequemer … die Lassoschleifen
 in der Linken, die Schlinge in der Rechten …
 
 Keine Minute …
@@ -1200,7 +1192,7 @@ Da tauchte der Alte schon auf …
 
 Erklomm die Felsen …
 
-erkannte nur nach der Terrasse hinüber …
+Schaute nur nach der Terrasse hinüber …
 
 Hinter ihm der Tiger …
 
@@ -1210,23 +1202,23 @@ ahnte er nicht …
 Und woran ich nie recht geglaubt: es gelang …
 
 Harald schleuderte den Lasso …
-Ein Ruck, — der Inder hatte Dr Schlinge um den
 
-als …
+Ein Ruck, — der Inder hatte die Schlinge um den
+Hals …
 
 Packte krampfhaft den Riemen … Das half ihm
 verdammt wenig …
 
 Harald zog … zog …
 
-Der Kerl ich wehte in der Luft …
+Der Kerl schwebte in der Luft …
 
 Und — — der Tiger?!
 
 <@pagebreak/>
-Der stand regungs8lo03 …
+Der stand regungslos …
 
-Mit weiten Augen stierte er zu uns enge: …
+Mit weiten Augen stierte er zu uns empor …
 
 Ich feuerte …
 
@@ -1245,7 +1237,7 @@ Bart ab!« rief Harald …
 
 Ich beugte mich herab …
 
-Zwei Geiste …
+Zwei Griffe …
 
 Und — das genügte …
 
@@ -1254,10 +1246,10 @@ Der Kerl war tatsächlich John Halifax …!!
 War selbst unter der braunen Farbe seines Gesichts
 erdfahl geworden — erdfahl …
 
-Harst 3o0g ihn nun vollends empor …
+Harst zog ihn nun vollends empor …
 
-Meinte, als Halifax nun neben uns auf dem Alte
-Boote:
+Meinte, als Halifax nun neben uns auf dem Aste
+hockte:
 
 »Freue mich, Sie wiederzusehen, Mr. Halifax …!«
 
@@ -1270,13 +1262,13 @@ Stieß dann hervor:
 »Mein Gott — — der Tiger — — der Tiger …!!
 Haben Sie das Tier etwa getroffen?!«
 
-»Und ob!!« Ich lachte ihm ins Gesicht … »Glaubte um
-»Sie etwa, daß wir warten wollten, bis …«
+»Und ob!!« Ich lachte ihm ins Gesicht … »Glaubten
+Sie etwa, daß wir warten wollten, bis …«
 
 »Mein Gott, — — es ist ja kein Tiger …!! Es
 ist … es ist …«
 
-» — … ein Mensch!« meinte Harald … »Ihre Schuld,
+»… ein Mensch!« meinte Harald … »Ihre Schuld,
 Halifax! Das konnten wir nicht vermuten!«
 
 Und — seltsam: John Halifax … weinte …!
@@ -1284,19 +1276,19 @@ Und — seltsam: John Halifax … weinte …!
 Flehte dann:
 
 »Mr. Harst, lassen Sie mich vom Baume herab …
-Ich muß …
+Ich muß …«
 
 <@pagebreak/>
 »Das werden wir gemeinsam tun, Halifax! — Wer ist
 der Mensch, den Sie hier den Tiger spielen ließen, damit
-unsere Wächter nicht etwa ausimnisien?«
+unsere Wächter nicht etwa auskniffen?«
 
-Halifax wischte sich mit den: Handrücken die Tränen
+Halifax wischte sich mit dem Handrücken die Tränen
 aus den Augen …
 
-»G8 … Geist … mein … mein Sohn Edward …«
+»Es … es ist … mein … mein Sohn Edward …«
 
-Und abermals stürzten ihm die Tränen über die Jahren
+Und abermals stürzten ihm die Tränen über die fahlen
 Wangen …
 
 Wir beeilten uns, vom Baume auf den Erdboden zu
@@ -1307,7 +1299,7 @@ Halifax rannte dann voran … Wir hinter ihm her …
 Ich war in einer Aufregung, die wohl jeder begreifen
 wird …
 
-Der. Gedanke, einen Menschen erschossen zu haben, war
+Der Gedanke, einen Menschen erschossen zu haben, war
 mir entsetzlich …
 
 Ich zitterte förmlich …
@@ -1315,15 +1307,15 @@ Ich zitterte förmlich …
 Sah nun den … Tiger …
 
 Sah Halifax neben ihm knien … Sah, wie er mit
-einem Messer das Fell am Bauche aufglühte … die
+einem Messer das Fell am Bauche aufschlitzte … die
 Naht …
 
 Gleich darauf lag ein junger Mensch von vielleicht
 siebzehn Jahren vor uns — ein Mischling …
 
-Gott sei Dank: nur ein Stirnstreifschuß! Nur be-viunilos!
+Gott sei Dank: nur ein Stirnstreifschuß! Nur bewußtlos!
 
-sich dritte Halifax die Hand … Mochte er auch ein
+Ich drückte Halifax die Hand … Mochte er auch ein
 Verbrecher sein: in meiner überströmenden Freude war mir
 das jetzt ganz gleichgültig.
 
@@ -1332,11 +1324,11 @@ Halifax holte aus seiner Erdhütte Wasser …
 Harald legte dem jungen Menschen einen Verband an.
 
 Ein bildhübscher schlanker Bursche war es … Kam
-b.: 5 zum Bewußtsein …
+bald zum Bewußtsein …
 
-Strande verwirrt um sich …
+Schaute verwirrt um sich …
 
-John Halifax kniete wieder neben im …
+John Halifax kniete wieder neben ihm …
 
 Weinte …
 
@@ -1356,14 +1348,14 @@ Bronzeton, der allen Eurasiern eigen, diesen Kindern
 zwischen Weißen und Indern …
 
 Die dunklen großen Augen des Jungen hingen wie
-gebannt aus Haralds Gesicht …
+gebannt auf Haralds Gesicht …
 
 Und er sagte, wie in jäher Angst:
 
 »Vater — Vater, das also ist Harst?!«
 
 Und Halifax: »Ja, Edward, das ist der Mann, der
-mich zu Dingen gezwungen hat, die … die mich nun« …
+mich zu Dingen gezwungen hat, die … die mich nun …
 ins Zuchthaus bringen werden!«
 
 <h2>5. Kapitel.</h2>
@@ -1437,7 +1429,7 @@ hatte, …
 
 »Die Prinzessin Sadukala hat uns ecr’ »Steg lassen,«
 
-meinte er sehr bestimmt. »Und Sie handelten in ihrem Austrag,
+meinte er sehr bestimmt. »Und Sie handelten in ihrem Auftrag,
 <@pagebreak/>
 Halifax. Die Prinzessin fürchtete Schraut und mich.
 Sie hatte mancherlei zu verheimlichen.«
@@ -1502,7 +1494,7 @@ Harald rauchte wieder ein paar Züge …
 haben, die der Frau Sinclair das Brillantdiadem
 wieder stahlen, das Tuma Denki ihr geschenkt hatte …
 Und die Prinzessin wird Ihnen hierzu durch ein Chiffretelegramm
-den Austrag erteilt haben …«
+den Auftrag erteilt haben …«
 
 Halifax blieb stumm …
 
@@ -2062,7 +2054,7 @@ Dunkeln bliebe: sie sollen es büßen!« —
 Dann tragen wir auch diese beiden Toten in den Felsengang,
 legen die Leichen nebeneinander, bedecken sie mit den
 Bettüchern aus der Zelle und kehren durch) den anderen
-Gang ins Tal zurück. Nehmen Proviant mit, Wäasser-flaschen,
+Gang ins Tal zurück. Nehmen Proviant mit, Wasserflaschen,
 wenden uns gen Norden, wo Harald nachts die
 drei davongaloppierenden Kamelreiter erspähte …
 
@@ -2343,7 +2335,7 @@ von hunderttaujiend Pfund anbot.
 
 Auch dies teilte Halifax telegraphisch der Prinzessin mit,
 die daraufhin zweifellos ihrem bestochenen Vertrauten den
-Austrag gescheit bat, den Thronfolger beseitigen zu lassen.
+Auftrag gescheit bat, den Thronfolger beseitigen zu lassen.
 
 Halifax, der fraglos von der Prinzessin beträchtliche
 Summen ancewiesen bekommen hatte, traf daraushi1i! seine
