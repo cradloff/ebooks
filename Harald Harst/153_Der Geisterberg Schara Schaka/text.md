@@ -1361,31 +1361,31 @@ ins Zuchthaus bringen werden!«
 <h2>5. Kapitel.</h2>
 <h3>John Halifax schweigt …</h3>
 
-Diese Anklage gegen Harald ließ die Augen des Jüngy-lings
-noch leidenschaftlicher ausglühen.
+Diese Anklage gegen Harald ließ die Augen des Jünglings
+noch leidenschaftlicher aufglühen.
 
 Sein Vater aber schien sich auch sofort bewußt zu werden,
 daß er hier seine Empfindungen in Worte gekleidet
-hatte, die nur zu leicht eine falsche Deutung erfahren kennt«-
-ten, und fügte nach wenigen Sekunden mit einer merklichen
+hatte, die nur zu leicht eine falsche Deutung erfahren konnten,
+und fügte nach wenigen Sekunden mit einer merklichen
 Verlegenheit hinzu:
 
 »Nein, — ich hatte mich ungeschickt ausgedrückt …
 Mr. Harst trifft keine Schuld. Die ganzen unglückseligen
-Verhältnisse waren es, die mich zu Taten trieben, die weiteren
-wahren Wesen ganz erwürgen.«
+Verhältnisse waren es, die mich zu Taten trieben, die meinem
+wahren Wesen ganz fernliegen.«
 
 Der junge Edward Halifax hatte sich jetzt aufrecht gesetzt
 …
 
-Und Harald erklärte wirr ohne jede Empfindlichkeit:
+Und Harald erklärte nun ohne jede Empfindlichkeit:
 
 »Doktor, wir werden uns über das Geschehene eingehend
-aussprechen müssen … Folgen Sie mir zur Fernglase
+aussprechen müssen … Folgen Sie mir zur Terrasse
 <@pagebreak/>
 des Schara Schaka. Dort oben, hoffe ich, werden wir
 uns in Güte einigen. Nehmen Sie Ihren Sohn in die
-intime. Wir ziehen ihn an dem Lederseil nach oben …
+Arme. Wir ziehen ihn an dem Lederseil nach oben …
 Der Bawalese Kimur ist unser Verbündeter geworden, und
 auch die drei anderen Wächter wird er inzwischen, wie ich
 mit ihm vereinbart hatte, ganz für mich gewonnen haben.
@@ -1396,8 +1396,8 @@ Gefangenen betrachten.«
 Halifax nickte nur. Er sah wohl ein, daß er hier lediglich
 noch zu gehorchen hatte. —
 
-kehrt Minuten später saßen wir beide und Halifax
-und Edward oben am! Rande der Terrasse auf Felsstücken.
+Zehn Minuten später saßen wir beide und Halifax
+und Edward oben am Rande der Terrasse auf Felsstücken.
 Die vier Inder hatten sich an der Rückwand der Terrasse
 niedergelassen und musterten Halifax, mit keineswegs freundlichen
 Blicken.
@@ -1414,48 +1414,46 @@ Der ehemalige Kammerdiener, Privatsekretär und Vertraute
 Tuma Denkis schaute Harst fest an.
 
 »Ich weiß es nicht, Mr. Harst…!« erwiderte er. »Ich
-schwöre Ihnen bei der Tiere zu meinem einzigen Kinde,
-diesem teuren Andenken zu meine verstorbene Gattin, daß
-dieser. Mord mir heute noch ein Rätsel ist.«
+schwöre Ihnen bei der Liebe zu meinem einzigen Kinde,
+diesem teuren Andenken an meine verstorbene Gattin, daß
+dieser Mord mir heute noch ein Rätsel ist.«
 
-341 war Überrascht. Einen Moment nahm ich an, daß
-John Halifax log. Aber schon im nächsten Auagcnblick belehrte
+Ich war Überrascht. Einen Moment nahm ich an, daß
+John Halifax log. Aber schon im nächsten Augenblick belehrte
 mich sein offenes, ehrliches Gesicht eines Besseren.
 
 Harald hatte sich eine der Zigaretten angezündet, mit
-Venen man uns in unserem Kerker regelmäßig versorgt
+denen man uns in unserem Kerker regelmäßig versorgt
+hatte.
 
-hatte, …
-
-»Die Prinzessin Sadukala hat uns ecr’ »Steg lassen,«
-
+»Die Prinzessin Sadukala hat uns entführen lassen,«
 meinte er sehr bestimmt. »Und Sie handelten in ihrem Auftrag,
 <@pagebreak/>
 Halifax. Die Prinzessin fürchtete Schraut und mich.
 Sie hatte mancherlei zu verheimlichen.«
 
 »Ein Irrtum!!« erklärte Halifax mit erhobener
-Stimme. »So wahr mir Gott helle: Die Prinzessin weiß
-nicht einmal, daß Sie beide, meine Herren, hier im Sara,
+Stimme. »So wahr mir Gott helfe: Die Prinzessin weiß
+nicht einmal, daß Sie beide, meine Herren, hier im Schara,
 Schaka gefangen saßen!«
 
-Jetzt konnte ich ein ironisch-ungläubiges Lächeln nicht!
-unterdrücken. Ad) dürfte Harald an … Der aber starrte
+Jetzt konnte ich ein ironisch-ungläubiges Lächeln nicht
+unterdrücken. Ich blickte Harald an … Der aber starrte
 nur nachdenklich vor sich hin und rauchte ein paar hastige
-Bezüge, meinte darauf:
+Züge, meinte darauf:
 
 »Sie sind auch der Vertraute der Prinzessin, Halifax?«
 
 »Das leugne ich nicht … Mein Herr, der Thronfolger
-Tuma Denki, hat mir stets warm ans Herz gelegt, mit
-seiner Gattin anzunehmen, falls ihm einmal etwas zu
-stoßen sollte …«
+Tuma Denki, hat mir stets warm ans Herz gelegt, mich
+seiner Gattin anzunehmen, falls ihm einmal etwas zustoßen
+sollte …«
 
 Harald nickte … »Ja — und deshalb schützten Sie
 die Prinzessin vor uns, indem Sie uns verschwinden
 ließen … Und da Sie uns verschwinden ließen, muß die
-Prinzessin wohl irgendwie sich vergangen haben … JIr-gendtwie
-ist sich schuldig … Und diese Schuld sollte verborgen
+Prinzessin wohl irgendwie sich vergangen haben … Irgendwie
+ist sie schuldig … Und diese Schuld sollte verborgen
 bleiben. — Halifax, — nochmals: reden Sie offen
 und ehrlich! Es geht um Ihre Freiheit!«
 
@@ -1465,28 +1463,28 @@ Der Engländer senkte den Kopf … Ganz leise dann:
 werde, was auch kommen mag. Und genau so wie ich
 das, was ich hier vor Ihnen durch einen Schwur beteuerte,
 jederzeit beweisen könnte: ebenso werde ich diesen anderen
-Eid nicht drehen. Ich wiederhole: ich kenne den oder die
+Eid nicht brechen. Ich wiederhole: ich kenne den oder die
 Mörder meines Herrn nicht! Ich weiß nur, daß die Prinzessin
 hiermit nicht das geringste zu tun hat. Sie liebte
 ihren Gatten über alles …
 
-»Eifersucht treibt zu Affekthandlungen, Halifax! — Ach
+»Eifersucht treibt zu Affekthandlungen, Halifax! — Ich
 bin überzeugt, die Prinzessin hat ihren Gatten Überwachen
-saßen … Vielleicht gar-«- — durch) Sie!«
+lassen … Vielleicht gar — — durch Sie!«
 
 John Halifax schwieg erst. Dann hob er den Kopf …
 Sein Blick war offen wie bisher, als er nun erwiderte:
 
 <@pagebreak/>
-Mr. Harst, dieses Weit, das mein Herr währen
+»Mr. Harst, dieses Weib, das mein Herr während
 der Überfahrt kennen lernte, war eine gefährliche Verführerin
-… I gebe zu, daß ich der Prinzessin Chiffredepeschen
-gesandt habe und das ich meinerseits an Bord des
+… Ich gebe zu, daß ich der Prinzessin Chiffredepeschen
+gesandt habe und daß ich meinerseits an Bord des
 Dampfers »Wales« alles tat, um Seine Hoheit vor Torheiten
 zu bewahren. Diese Witwe Lizabet Sinclair, behaupte
 ich, hat absichtlich denselben Dampfer benutzt. Es
-liegt da ein Intrigenspiel vor, dessen Netze zu sein gesprungen
-sind, als daß ich es durchschauen könnte …
+liegt da ein Intrigenspiel vor, dessen Netze zu fein gesponnen
+sind, als daß ich es durchschauen könnte …«
 
 Harald rauchte wieder ein paar Züge …
 
@@ -1511,23 +1509,23 @@ unseren Steinkerker beziehen. Die vier Inder werden Sie
 bewachen. Daß diese Leute jetzt ganz auf meiner Seite
 stehen, nachdem sie Ihre Maskerade erkannt haben, haben
 Sie wohl schon bemerkt … Ich kann mich auf Kimur
-und die drei anderen unbedirwtzt verlassen — genau so wie
+und die drei anderen unbedingt verlassen — genau so wie
 auf mein leidlich reges Hirn, das diesen Dingen weiter
-nachspüren wird. JI) will diesen Mord restlos aufklären
+nachspüren wird. Ich will diesen Mord restlos aufklären
 und ich werde es auch erreichen. Ihre Verschlossenheit wird
-das Endergebnis nur verzögern. — Überlegen Sie sieh’«
+das Endergebnis nur verzögern. — Überlegen Sie sich’s
 nochmals, Halifax …«
 
 John Halifax erwiderte leise:
 
-»Da gibt es nichts »u überlegen, M. Harst … Meinen
-Eid Falte ich …
+»Da gibt es nichts zu überlegen, Mr. Harst … Meinen
+Eid halte ich …!«
 
 <@pagebreak/>
 »Und somit liegt Ihnen nichts daran, den Tod Ihres
-Herrn zu rächen?! besaß Söhnen wirklich nichts daran?!
+Herrn zu rächen?! Liegt Ihnen wirklich nichts daran?!«
 
-Halifax fabelte schmerzlich …
+Halifax lächelte schmerzlich …
 
 Und — — schwieg …
 
@@ -1544,18 +1542,16 @@ eingeweiht … Ich lebte während seiner Abwesenheit still
 in unserem Häuschen im Parke des Thronfolgerpalastes in
 Bawalar … Eines Nachts holte mein Vater mich heimlich
 ab und nahm mich mit sich … Das war vor ungefähr
-
 zwölf Tagen … — In meines Vaters Augen blinkten
 Tränen, als er mich dann bat, ihm zu helfen, Sie beide zu
-bewachen … — (Glauben Sie, daß ein Mann wie mein
-
+bewachen … — Glauben Sie, daß ein Mann wie mein
 Vater ein Verbrecher ist?!«
 
 »Nein, das glaube ich nicht, Edward Halifax … Im
 Gegenteil, ich halte Ihren Vater für einen Ehrenmann, der
 nur einen Fehler hat: er ist kurzsichtig, er hat sich irgendwie
-ausnutzen sollten! Man hat ihn in ein Gespinst von Lügen
-versteht … Und dieses Gespinst kann ich nur zerreißen,
+ausnutzen lassen! Man hat ihn in ein Gespinst von Lügen
+verstrickt … Und dieses Gespinst kann ich nur zerreißen,
 wenn er mir meine Pläne nicht stört. Deshalb sollen Sie
 beide hier im Schara Schaka bleiben … Es wird zu
 Ihrem Besten sein, davon dürfen Sie überzeugt sein.«
@@ -1565,7 +1561,7 @@ Er winkte Kimur herbei …
 Bevor Vater und Sohn dann in die Steinzelle geführt
 wurden, sagte Harald noch leise zu John Halifax:
 
-»Ich bin Ihnen dankbar, daß Sie mich von einer hingen
+»Ich bin Ihnen dankbar, daß Sie mich von einer irrigen
 Annahme befreiten. Ich glaubte, die Prinzessin Sadukala
 sei Ihre Auftraggeberin, was unsere Gefangennahme
 betrifft … Nun — werde ich meine Nachforschungen in
@@ -1581,7 +1577,7 @@ Meinen armen Herrn können Sie doch nicht mehr zum
 Leben erwecken …«
 
 Und willig folgte er dann Kimur durch den Felsengang
-nach unserem Kerker … Müde und wie gebrochen schritt!
+nach unserem Kerker … Müde und wie gebrochen schritt
 er dahin …
 
 Sein Sohn zögerte noch …
@@ -1590,56 +1586,55 @@ Flüsterte plötzlich:
 
 »Mr. Harst, Sie sind als Menschenfreund bekannt …
 Schonen Sie meinen Vater! Er ist ein edler Mann …
-Wenn ich Ihnen irgend etwas verraten könnte, wü:he ich
+Wenn ich Ihnen irgend etwas verraten könnte, würde ich
 es tun, um meinen Vater zu schützen … Aber — ich weiß
 nichts … Ich weiß nur, daß hier am Schara Schaka jeden
 dritten Abend Leute erscheinen, mit denen mein Vater dann
 zusammentraf … Nach diesen Zusammenkünften kehrte
 er stets mit neuen Lebensmittelvorräten zu unserer Erdhütte
 zurück … — Und das Tigerfell, Mr. Harst, — das
-trug ich mir ganz selten … Diese Maskerade hatte nur
+trug ich nur ganz selten … Diese Maskerade hatte nur
 den Zweck, die vier Wächter auf der Terrasse festzuhalten —
 aus Furcht vor dem Tiger …«
 
 Dann eilte er hinter seinem Vater drein … — —
 
-Wir waren frei … unsere Zelle holte die Insassen
+Wir waren frei … unsere Zelle hatte die Insassen
 gewechselt.
 
 Und hiermit schließe ich den ersten Teil der Geschichte
 des Geisterberges Schara Schaka …
 
-<@pagebreak/>
+<@pagebreak 36/>
 
 <h1>Tuma Denkis Mörder</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Das blasse Haupt.</h3>
 
-— … — Ich schließe den ersten Teil und beginne den zweiten
+… Ich schließe den ersten Teil und beginne den zweiten
 fünf Stunden später …
 
 Fünf Stunden später saßen neben der Erdhütte an der
 Südseite des Felsenhügels zwei Inder …
 
-Der eine glich ungefähr John Halifax, — -. Das beißt:
-Harald hatte sich als »Mann mit dem Tiger« Heraus
-glasiert, und ich spielte Halifax’ Sohn …
+Der eine glich ungefähr John Halifax, — das heißt:
+Harald hatte sich als »Mann mit dem Tiger« herausstaffiert,
+und ich spielte Halifax’ Sohn …
 
 Es war jetzt sieben Uhr abends. Von Kimur hatten
 wir inzwischen erfahren, daß die Leute, die Halifax den
 Proviant herbeischafften, vorgestern abend wieder hier im
 Tale gewesen sein müßten. Mithin dürften wir sie heute
 wiederum erwarten,
-hob Wir hatten soeben unsere Mahlzeit beendet. Harald er
 
-ob sich …
+Wir hatten soeben unsere Mahlzeit beendet. Harald erhob
+sich …
 
-»34h werde jetzt das Tal nach Süden zu absuchen, mein
+»Ich werde jetzt das Tal nach Süden zu absuchen, mein
 Alter … Ich werde die Spuren der Leute finden, die
-Zettel kamen … Sie müssen entweder zu Pferde oder zu
-
-Dromedar den Weg von Bawalar … oder von Privat
+hierher kamen … Sie müssen entweder zu Pferde oder zu
+Dromedar den Weg von Bawalar … oder von Priwar
 bis zum Schara Schaka zurücklegen … Bleibe derweil in
 der Hütte … Man kann nicht wissen, ob die Leute nicht
 Späher vorausschicken … Du bist ein schlechter Ersatz für
@@ -1654,64 +1649,62 @@ Hättest, wären wir längst nach Bawalar unterwegs!«
 wenn wir die Kerle, die sich alle drei Tage hier einfanden,
 festnehmen, werden wir einen Schritt vorwärts kommen —
 nur dann! — Auf Wiedersehen …! Und sei ohne Sorge.
-
 <@pagebreak/>
 Ich werde mich nicht abfassen lassen. Ich will ja auch nur
 die Stelle ermitteln, wo Halifax mit den Leuten sich traf.«
 
-So blieb ich denn in der k:einen Erdhütte, setzte mich
-unweit der Tür auf einen Holzklotz, steckte mir eine Verdauungszigarre
-an und ließ die letzten Ereignisse nochmals
+So blieb ich denn in der kleinen Erdhütte, setzte mich
+unweit der Tür auf einen Holzklotz, steckte mir eine
+Verdauungszigarre an und ließ die letzten Ereignisse nochmals
 an meinem Geiste vorüberziehen …
 
 Der Fall Tuma Denki war dunkler denn je … Nur
-eine war sicher: die schöne Witwe Lizabet Sinclair war
-offenbar eine AÄbenteierin besonderer Art!
+eins war sicher: die schöne Witwe Lizabet Sinclair war
+offenbar eine Abenteuerin besonderer Art!
 
-Uhwillfürlih kam mir wieder der Gedanke, daß sie
+Unwillkürlich kam mir wieder der Gedanke, daß sie
 vielleicht doch die blonde Frau gewesen, die wir dort in der
-deutschen Heimat am Strande von Mischten ergebnislos
+deutschen Heimat am Strande von Misdroy ergebnislos
 verfolgt hatten.
 
 Aber — auf die englische Geheimpolizei war anderseits
 wieder voller Verlaß. Die Sinclair hatte in ihrer Villa
-Stil und; zurückgezogen gelebt, war nicht verreist gewesen.
+still und zurückgezogen gelebt, war nicht verreist gewesen.
 
 Wer also war die Blonde?! —
 
 Nachher besichtigte ich das Tigerfell, das bisher unberührt
-in einer (Ecke der Hütte gelegen hatte. Es war tadellos
+in einer Ecke der Hütte gelegen hatte. Es war tadellos
 gegerbt und auf der Innenseite stellenweise mit Watte
-gepolstert, um die Tiergestalt Buche) einen Menschen besser
+gepolstert, um die Tiergestalt durch einen Menschen besser
 vortäuschen zu können. In der Brust befanden sich zwei
 Löcher — damit der Eingenähte sehen konnte. Der Kopf
 war ebenso tadellos präpariert.
 
-Nr das Fell wieder weg und sah nach der Uhr …
+Ich legte das Fell wieder weg und sah nach der Uhr …
 
 Harald war bereits eine Stunde unterwegs …
 Ich trat an eine der Fensteröffnungen der elenden
-
-…
+Hütte …
 
 Mein Blick fiel auf die Skelette, die hier vor der Hütte
-ebenfalls im niederen Buschwerk umherrasen …
+ebenfalls im niederen Buschwerk umherlagen …
 
-Ich erinnerte mich an Kimurs Angaben »der den Geisterberg
-… Woher diese Tier- und Mr:.«erscheine??!
-Welcher Art mochten die Ereignisse gewesen ich…’n, die dieses
+Ich erinnerte mich an Kimurs Angaben über den Geisterberg
+… Woher diese Tier- und Menschengebeine?!
+Welcher Art mochten die Ereignisse gewesen sein, die dieses
 Tal so verlassen gemacht hatten?!
 
-Dann erblickte ich Harald in seiner Verkleidung … —
+Dann erblickte ich Harald in seiner Verkleidung …
 
 <@pagebreak/>
 Er kam langsam von der Westseite des Tales herbei …
 
 Betrat die Hütte …
 
-»tun?!« fragte ich gespannt …
+»Nun?!« fragte ich gespannt …
 
-»Glück gehabt, mein Ulster …! Die Spuren habe ich
+»Glück gehabt, mein Alter …! Die Spuren habe ich
 gefunden, auch den Platz, wo Halifax mit drei Leuten sich
 heimlich traf … Die drei sind stets hoch zu Dromedar
 gekommen — von Westen her durch die Thar. Die Dromedare
@@ -1720,10 +1713,10 @@ kleine Felsgruppe … Dort hat … ein Weib die Tiere
 bewacht, während zwei Männer zu dem Stelldichein mit
 Halifax den Wald betraten …«
 
-»Ein … Weib?!« Und wieder dachte ich an. Lizabet
-Sinclair … —
+»Ein … Weib?!« Und wieder dachte ich an Lizabet
+Sinclair …
 
-&orald nickte …
+Harald nickte …
 
 »eine Europäerin, mein Alter …«
 
@@ -1743,7 +1736,7 @@ blonde Frauenhaare, mein Alter …«
 »Leider gibt es viele blonde Frauen … Und die
 Londoner Polizei …«
 
-»- — … kann sich haben täuschen lassen, woran ich schon
+»… kann sich haben täuschen lassen, woran ich schon
 in Swinemünde dachte … Nimm zum Beispiel an, daß
 Lizabet Sinclair eine Schwester hat, die ihr sehr ähnlich
 sieht … Und die Sinclair lebt ganz zurückgezogen …
@@ -1756,31 +1749,31 @@ Er sprach sehr langsam und bedächtig …
 »das sind ja alles nur Vermutungen … Ich hoffe
 aber, diese Nacht wird uns Klarheit bringen. Sobald es
 <@pagebreak/>
-dunkel, Schreiber Du im Bogen nach drüben zur westlichen
-Taltwwand, wo Du von hier aus die einzelne Schlosse Palme
+dunkel, schleichst Du im Bogen nach drüben zur westlichen
+Talwand, wo Du von hier aus die einzelne schiefe Palme
 bemerkst. Dort treffen wir uns … Wir haben jeder zwei
-Revolver, und wir werden auf keinen Fall irgendwie Rücksitz
-nehmen … Man hat uns übel mitgespielt…« —
+Revolver, und wir werden auf keinen Fall irgendwie Rücksicht
+nehmen … Man hat uns übel mitgespielt …« —
 
 Eine Stunde später …
 
 Noch bevor die Sterne am Firmament auftauchten,
 also in der Zeit der tiefsten Dunkelheit, hatten wir die kleine
 Lichtung erreicht, wo das niedergetretene Gras sowie eine
-Menge Wegaeworfener Zigarettenreste Harald bewiesen
+Menge weggeworfener Zigarettenreste Harald bewiesen
 hatten, daß hier die Zusammenkünfte stattfanden.
 
-Wir lagen im Gebüsch, die Wasser schußbereit …
+Wir lagen im Gebüsch, die Waffen schußbereit …
 Lagen dicht nebeneinander …
 
-Drückende Hißte lastete noch über dem bewaldeten Abhang.
-Der keuchte Nachtwind kam von Süden, von der
-Thar her, und brachte die dort tagsüber Auge« Ameisen
+Drückende Hitze lastete noch über dem bewaldeten Abhang.
+Der feuchte Nachtwind kam von Süden, von der
+Thar her, und brachte die dort tagsüber angesammelten
 Glutmassen mit sich …
 
 Eine Stunde verstrich —
 
-Fracks eine …
+Noch eine …
 
 Der Mond stieg auf …
 
@@ -1789,7 +1782,7 @@ Die kleine Lichtung wurde hell …
 All unsere Sinne waren gespannt …
 
 Ich fieberte vor Aufregung. Die Folgen der langen
-Einkerkerung machten sich wieder bemerkbar. Meine gegeben
+Einkerkerung machten sich wieder bemerkbar. Meine Nerven
 hatten gelitten …
 
 Auf jedes Geräusch lauschten wir …
@@ -1799,18 +1792,18 @@ sich allerorts …
 
 Es raschelte In den Büschen …
 
-Ein schlankes Ichneumon schade mit elegantem Sprung
+Ein schlankes Ichneumon setzte mit elegantem Sprung
 auf die Lichtung und erwischte eine harmlose Schlange …
-Verschwand mit der Worte …
+Verschwand mit der Beute …
 
 Wieder eine Stunde …
 
 Und — nochmals eine Stunde …
 
-Da wurde Harald ungeduldig, raunte fuhr zu? »Bleibe
-hier … Ich will bis zum Rand des Waldes Mondhellen
+Da wurde Harald ungeduldig, raunte mir zu: »Bleibe
+hier … Ich will bis zum Rand des Waldes vorschleichen
 <@pagebreak/>
-… Von dort aus Übersicht man einen Teil der
+… Von dort aus übersieht man einen Teil der
 Wüste …«
 
 Kaum war er lautlos davon, als ich von Nordost her
@@ -1818,7 +1811,7 @@ Schüsse zu vernehmen glaubte …
 
 Ganz sicher war ich meiner Sache nicht …
 
-Dann tauchte Harald wieder aus …
+Dann tauchte Harald wieder auf …
 
 Atemlos …
 
@@ -1827,28 +1820,31 @@ Atemlos …
 »Ja — vier Schüsse — — vielleicht … Vor etwa
 zehn Minuten …
 
-»Und ich sah weit nun Norden drei Reiter … Sie
+»Und ich sah weit nach Norden drei Reiter … Sie
 schienen von dort zu kommen, wo der Geisterberg das Tal
 abschließt … — Wir müssen zur Terrasse, mein Alter …
 Aber — doppelt vorsichtig …! Ich ahne Schlimmes …«
 
-Wir schlüpften durch) den nächtlichen Wald — am Talrande
-weiter — hatten nun die Terrasse vor uns «.
+Wir schlüpften durch den nächtlichen Wald — am Talrande
+weiter — hatten nun die Terrasse vor uns …
+
 Dort droben alles still …
+
 Das Mondlicht beleuchtete den steilen Berg — die
 Terrasse …
 
 Harald flüsterte wieder:
-ich »Warten wir den Morgen ab … Eis ist zu Gefährtin
+
+»Warten wir den Morgen ab … Es ist zu gefährlich
 …«
 
 Wir warten …
 
 Beobachten … Zwei Stunden … Keine Seele
 zeigt sich auf der Terrasse …
-he Dann kommt die Dämmerung … Rasch wird es
 
-…
+Dann kommt die Dämmerung … Rasch wird es
+hell …
 
 Wir sehen das Lederseil … Es hängt, wo es hing …
 
@@ -1859,7 +1855,7 @@ stets in Zwischenräumen nach uns Ausschau halten sollte?!
 Wir spähen umher … Liegen gut gedeckt … Revolver
 in der Hand …
 
-»Sie sind … tot!« Düstere (9 —
+»Sie sind … tot!« flüstere ich …
 
 Harst nickt nur, erhebt sich …
 
@@ -1892,17 +1888,17 @@ anderen Zugang haben! Einen, den die drei kannten …!
 Denn — wie konnten sie die Terrasse verlassen, da sie doch
 das Seil für uns derart präpariert hatten?!«
 
-Er wendet sich nach) links. Wir umschreitlen den Schatz
-Saka … Überall steile, glatte Wände … Keine Möge-Vetters
+Er wendet sich nach links. Wir umschreiten den Schara
+Schaka … Überall steile, glatte Wände … Keine Möglichkeit
 emporzuklimmen …
 
 Wir stehen wieder vor der Terrasse …
 
 Da — von oben ein schwacher Ruf … Ein bleiches
-JIüingling8gesiht zwischen den Gräsern … Edward
+Jünglingsgesicht zwischen den Gräsern … Edward
 Halifax!
 
-Flehende Hantbbewegungen …
+Flehende Handbewegungen …
 
 Dann — mit letzter Kraft:
 
@@ -1918,18 +1914,18 @@ Wir erhalten keine Antwort mehr …
 <h3>In Bawalar.</h3>
 
 Wir eilen abermals um den Schara Schaka herum …
-D::- Terrasse liegt nach Süden. — An der Nordseite — ein
+Die Terrasse liegt nach Süden. — An der Nordseite — ein
 Stein?! Das ist alles, was wir wissen …
 
-Dir Stein …!!
+Ein Stein …!!
 
 Wir finden viele Steine am Fuße der senkrechten Felswände
 …
 
 Wir heben Steine empor, die an der Felswand
-getan …
+lehnen …
 
-Koffer auf ein Loch im Gestein — einen Zugang zum
+Hoffen auf ein Loch im Gestein — einen Zugang zum
 Innern des Berges …
 
 Wir suchen mit verzweifelter Hast … Vielleicht stirbt
@@ -1946,22 +1942,22 @@ Und wir schreiten vorwärts …
 Der sandige, mit kleinen Steinen besäte Boden senkt
 sich sehr bald als breiter Abhang in die Thar hinab …
 
-Von hier Beschatten wir in weiter Ferne nach Norden
+Von hier erschauen wir in weiter Ferne nach Norden
 zu jenseits der gelben Wüste einen grünen Strich: Wald!
 
 Die Luft ist klar … Die Sonne längst aufgegangen.
 
-Wir kommen an einem einzelnen mächtigen Stein solcher
+Wir kommen an einem einzelnen mächtigen Stein vorüber
 …
 
 Plötzlich mache ich halt …
 
-Decke mich — deute auf ein unappetitliches Etwas;:
+Bücke mich — deute auf ein unappetitliches Etwas:
 einen Rest von frischem Kamelmist!
 
-»Falle!« ruft Harald … »Dank Dir, mein Alter!
-Hier »bat man Kamelmist aufgelesen und Spuren verwischt …
-vier dieser Stein — vielleicht ist es der rechte!«
+»Hallo!« ruft Harald … »Dank Dir, mein Alter!
+Hier hat man Kamelmist aufgelesen und Spuren verwischt …
+Hier dieser Stein — vielleicht ist es der rechte!«
 
 Ein Felsblock von drei Meter Höhe — etwa in Form
 einer Pyramide …
@@ -1973,35 +1969,35 @@ zwischen Sand und Steinen ruht …
 Scheinbar …
 
 Aber da ist eine Stelle links von dem Block, wo der
-Boden, wie glattgefegt Aussicht …
+Boden, wie glattgefegt aussieht …
 
-Harald stemmt die Schulter gegen die »grauschwarze
+Harald stemmt die Schulter gegen die grauschwarze
 Granitmasse …
 
 Der Stein bewegt sich, gleitet zur Seite …
 
-Unter ihm kurze Cisensäjienen, blank gescheuert …
-Eiserne kleine näher auf der Unterseite laufen Über die
+Unter ihm kurze Eisenschienen, blank gescheuert …
+Eiserne kleine Räder auf der Unterseite laufen Über die
 Schienen …
 
-Und zwischen Stern ein Loch — ein enger Schacht …
+Und zwischen diesen ein Loch — ein enger Schacht …
 
 eine Holzleiter darin …
 
-»Gesunden!!« sagt Harald und fügt freudig zu: »Ich
-werde die Karbidlampe aus der Erdhütte holen …-«
+»Gefunden!!« sagt Harald und fügt freudig zu: »Ich
+werde die Karbidlampe aus der Erdhütte holen …«
 
-Er schuld davon …
+Er läuft davon …
 
 Kehrt zurück … Wir die Leiter hinab … Und
 neben der Leiter eine eiserne Kette, über eine Rolle gelegt,
-verrostet, unbrau& bar: ein Lastaufzug, wie wir unten in
+verrostet, unbrauchbar: ein Lastaufzug, wie wir unten in
 der geräumigen Höhle sehen … Wir sehen hier noch
-mehr: ganze Berge von Gewehren, Geschützrohren, Tafelten,
-— alles Wasser — für Tausende! Waffen, wie sie vielleicht
+mehr: ganze Berge von Gewehren, Geschützrohren, Lafetten,
+— alles Waffen — für Tausende! Waffen, wie sie vielleicht
 vor einem halben Jahrhundert im Gebrauch …
 
-Alles mit Post bedeckt — unbrauchbar wie der Aufzug
+Alles mit Rost bedeckt — unbrauchbar wie der Aufzug
 in dem Schacht …
 
 Weiter — einen Felsengang hinan …
@@ -2012,12 +2008,12 @@ Zapfen drehbar …
 Kreischend springt die Platte nach innen …
 
 Gelbweißes Karbidlicht fällt in einen anderen Gang
-mit trockener Luft, fällt auf einen Toten: Kimur ist’s .—
+mit trockener Luft, fällt auf einen Toten: Kimur ist’s —
 mit zwei Schüssen — Kopf- und Rückenschuß …
 
-kleinen Kimur!
+Armer Kimur!
 
-Wir sind auf bekanntem Boden setzt … Na links
+Wir sind auf bekanntem Boden jetzt … Nach links
 diesen Gang hinab muß unsere Zelle liegen …
 
 <@pagebreak/>
@@ -2038,7 +2034,7 @@ Kniet, beugt sich über den Reglosen … Vier Schritt
 daneben der vierte Inder — mit gebrochenen Augen gen
 Himmel starrend … —
 
-Harst richtet sich aus … Sein Mund nur schmale
+Harst richtet sich auf … Sein Mund nur schmale
 Linie … Drohende Falten auf der Stirn …
 
 »Zwei Lungenschüsse …! Daß er noch die Kraft
@@ -2046,19 +2042,19 @@ Hatte, sich bis hierher zu schleppen!«
 
 Und die Hand wie zum Schwur erhebend:
 
-»Ich will Dich rächen, Edward Halisaxr1 Daß Du
-Ärmsten hier so jung niedergeknallt wurdest, daß man keinen
+»Ich will Dich rächen, Edward Halifax! Daß Du
+Ärmster hier so jung niedergeknallt wurdest, daß man keinen
 von Euch schonte, damit ein anderes Verbrechen im
 Dunkeln bliebe: sie sollen es büßen!« —
 
 Dann tragen wir auch diese beiden Toten in den Felsengang,
 legen die Leichen nebeneinander, bedecken sie mit den
-Bettüchern aus der Zelle und kehren durch) den anderen
+Bettüchern aus der Zelle und kehren durch den anderen
 Gang ins Tal zurück. Nehmen Proviant mit, Wasserflaschen,
 wenden uns gen Norden, wo Harald nachts die
 drei davongaloppierenden Kamelreiter erspähte …
 
-Zwei Meilen weit durch&ch die Sandtäler der Thar,
+Zwei Meilen weit durch die Sandtäler der Thar,
 immer der Fährte nach …
 
 Dann steiniger Boden — ein Bergrücken, dahinter
@@ -2071,33 +2067,32 @@ erst recht keine einzelne Fährte zu erkennen … Ein berittener
 Hirte kommt auf uns zu. Die Verständigung mit
 dem Manne ist schwierig. Seine wenigen Brocken englisch
 <@pagebreak/>
-reichen gerade hin, daß er uns die Richtung nahe Bawalar
+reichen gerade hin, daß er uns die Richtung nach Bawalar
 weist und uns nach langem Hin und Her zwei Reitdromedare
-nebst Sätteln überläßt … klarer hat ihm klar gemacht,
-daß wir zum Radscha mache? Bawalar wollen … Der
+nebst Sätteln überläßt … Harst hat ihm klar gemacht,
+daß wir zum Radscha nach Bawalar wollen … Der
 Hirte ist Bawalese, will uns noch allerlei mitteilen, aber
 sein Englisch versagt, und seinen Dialekt verstehen wir
-
 nicht.
 
-Tricks Stunden Ritt durch die Thar — immer nach
+Sechs Stunden Ritt durch die Thar — immer nach
 Norden zu …
 
-Unsere Tiere nicht erstklassig … Stoßen beim standen
+Unsere Tiere nicht erstklassig … Stoßen beim Traben
 … Eine Anstrengung, dieser Ritt …
 
-Dann bewaldete hohen, Meter, ein Fluß, eine belebte
+Dann bewaldete Höhen, Äcker, ein Fluß, eine belebte
 Landstraße …
 
 Wir haben fruchtbaren Boden erreicht … Wir treffen
-ein Auto … Es hält … Zwei Herren in Dja: 9mänteln,
+ein Auto … Es hält … Zwei Herren in Staubmänteln,
 mit Autobrillen …
 
 Zwei Engländer, Kaufleute aus Bawalar. Als sie
-unsere Namen hören, schütteln sie ungläubig die Köpfe … — …
+unsere Namen hören, schütteln sie ungläubig die Köpfe …
 Der eine meint, indem er uns mißtrauisch mustert:
 
-»Harst und Schraut sind Zeitung5ömeldungen nach vor
+»Harst und Schraut sind Zeitungsmeldungen nach vor
 Wochen in Deutschland verschwunden …«
 
 Harald nickt:
@@ -2106,17 +2101,17 @@ Harald nickt:
 Wissen Sie, daß der Radscha von Bawalar uns beauftragt
 hatte, den Tod seines Sohnes aufzuklären?«
 
-»Gewiß …— Der Radscha ist tot, meine Herren …
+»Gewiß … — Der Radscha ist tot, meine Herren …
 Starb vor acht Tagen an Herzschlag … — Wenn Sie
 wirklich die sind, als die Sie sich ausgeben, werden Sie in
 Bawalar der englischen Geheimpolizei willkommen sein …
 Denn gestern ist die Prinzessin Sadukala verhaftet worden
-—» wegen Mordverdachhti8 … Sie soll den Thronfolger,
+— wegen Mordverdachts … Sie soll den Thronfolger,
 ihren Gatten, haben beseitigen lassen … Näheres erzählt
 niemand …«
 
-Die beiden Engländer scheinen uns 115 immer für
-Schwindler zu halten … Verabschieden sich. kühl … Das
+Die beiden Engländer scheinen uns noch immer für
+Schwindler zu halten … Verabschieden sich kühl … Das
 Auto verschwindet in einer Staubwolke.
 
 <@pagebreak/>
@@ -2130,70 +2125,71 @@ Unsere Tiere sind müde …
 Abends um acht vor uns auf einem Bergrücken das
 Felsennest Bawalar mit seinen fünfzigtausend Einwohnern.
 
-Dicht am kleinen Bahnhof das einzige europxäijsche
-Hotel … Und wir — noch müder als unsere Verwehte …
+Dicht am kleinen Bahnhof das einzige europäische
+Hotel … Und wir — noch müder als unsere Dromedare …
 Ein rascher Imbiß … dann ins Bett …
 
 Bis neun Uhr vormittags schlafen wir … Werden
-dann durch) energisches Klopfen munter … Harst zur Tür
-— trägt …
+dann durch energisches Klopfen munter … Harst zur Tür
+— fragt …
 
-Draußen eine ebenso energische Stimme:«
-»am Namen des Vizekönigs von Indien: Hier
+Draußen eine ebenso energische Stimme:
+
+»Im Namen des Vizekönigs von Indien: Hier
 Detektivinspektor Wallace von der politischen Abteilung aus
+Kalkutta … Ich wünsche Ihre Papiere zu sehen …«
 
-Kalkutta … Ich wünsche Ihre Papiere zu sehen …
 Und Harst: »Wir besitzen keine … Wir werden uns
 notdürftig ankleiden … Dann …«
 
 Da wird die nur handbreit geöffnete Tür gewaltsam
-ausgestoßen …
+aufgestoßen …
 
 So lernen wir, im Hemd nur, Mr. Austin Wallace
 kennen … Und mit ihm drei Beamte und die beiden
-saßen von gestern, die uns als verdächtig angezeigt
+Kaufleute von gestern, die uns als verdächtig angezeigt
 haben …
 
 Unser Schlafzimmer wird zur Polizeiwache …
 
 Mr. Wallace, von Kalkutta der Prinzessin wegen hierher
-Geschirr, nimmt uns ins Gebet …
+geschickt, nimmt uns ins Gebet …
 
 Da die Kerkerhaft uns doch nicht ganz zuträglich gewesen,
 hat auch Harald sich ein wenig verändert … Er
-bat Fett angesetzt …
+hat Fett angesetzt …
 
 Wallace lächelt ungläubig zu unserer Schilderung.
 
-Aber das Lächeln vergeht ihm, als wir aus den Sara
+Aber das Lächeln vergeht ihm, als wir aus den Schara
 Schaka zu sprechen kommen …
 
 Harst ist vorsichtig bei dem, was er vorbringt …
 Nichts von den dreien, die sich mit Halifax getroffen haben,
-nichts von den blonden Haaren am Dornenbusch. geschickt
+nichts von den blonden Haaren am Dornenbusch. Geschickt
 <@pagebreak/>
-Modells er die Geschehnisse um, als ob wir auch nicht im
+modelt er die Geschehnisse um, als ob wir auch nicht im
 entferntesten ahnten, wer die Leute erschossen haben könnte.
 In der Erdhütte hätten wir übernachtet … Morgens dann
 das Verbrechen entdeckt …
 
 Nichts von dem Felsblock, dem Waffenlager … Kein
-Wort davon, daß Edward Halifax. noch lebte, uns etwas
+Wort davon, daß Edward Halifax noch lebte, uns etwas
 zurief …
 
 Der Name Halifax tat Wunder …
 
-Wallace wird liebenswürdig … +…
+Wallace wird liebenswürdig …
 
 »Meine Herren, ich glaube Ihnen jetzt … John Halifax
 war der Helfershelfer der Prinzessin … Das ist bereits
 erwiesen … Verzeihen Sie die Störung … Dürfte
 ich Sie in einer halben Stunde wieder besuchen, Mr. Harst?
-Ich habe allerlei mit Ihnen zu besprechen…« —
+Ich habe allerlei mit Ihnen zu besprechen …« —
 
-eine halbe Stunde später vier wir in unserem Wohnsalon.
-Außer Mr. Wallace ist noch der englische Messers
-von Bawalar, Sir Loringstone, anwesend (Residenz, h.
+Eine halbe Stunde später sitzen wir in unserem Wohnsalon.
+Außer Mr. Wallace ist noch der englische Resident
+von Bawalar, Sir Loringstone, anwesend (Residenz, d.h.
 Berater der indischen Fürsten, in Wahrheit ihr Aufpasser und
 Vormund).
 
@@ -2207,10 +2203,10 @@ Ist ein Mann, der unbedingt respektiert sein will …
 Privatdetektive, noch dazu Deutsche: nur keine Umstände
 mit solchen Herrschaften machen!
 
-Er tut von Anfangs an »so, als ob dies Zimmer das
+Er tut von Anfangs an so, als ob dies Zimmer das
 seine und nicht das unsere wäre … Hat ohne Aufforderung
-Platz genommen, hat sein Monokel, Buche das er
-wohl Chamberlain ähnlich zu werden hast, eingeklemmt
+Platz genommen, hat sein Monokel, durch das er
+wohl Chamberlain ähnlich zu werden hofft, eingeklemmt
 und uns durch huldvolles Kopfneigen gestattet, ebenfalls
 Platz zu nehmen …
 
@@ -2218,9 +2214,9 @@ Ein aufgeblasenes Ekel, der Mensch …
 
 Ich schaue prüfend zu Harald hinüber …
 
-Der lackiert … lächelt …
+Der lächelt … lächelt …
 
-Und Mr. Wallace, dem dieser Geklirrt offenbar ebenso
+Und Mr. Wallace, dem dieser Hohlkopf offenbar ebenso
 <@pagebreak/>
 unangenehm, ist verlegen, muß sich aber ducken, da der
 edle Sir hier in Bawalar allmächtig …
@@ -2228,31 +2224,31 @@ edle Sir hier in Bawalar allmächtig …
 »Erzählen Sie mir Ihre Abenteuer,« beginnt Loringstone
 sehr kurz …
 
-las gilt Harald …
+Das gilt Harald …
 
-Wir sitzen am gedeckten FrühstüstisHh … Wir sind
+Wir sitzen am gedeckten Frühstückstisch … Wir sind
 mitten in der Mahlzeit unterbrochen worden …
 
 Harst lächelt weiter, füllt seine Terrasse gemächlich und
 meint:
 
 »Sie sehen, daß ich frühstücke, Sir … Wenn Sie sich
-also gedulden wollen … — Wie geht es dem NVizekönig
+also gedulden wollen … — Wie geht es dem Vizekönig
 von Indien? Wir waren im vorigen Jahre seine Gäste …
-Sie besinnen sich wohl, daß Lord Million den Verlust wichtiger
+Sie besinnen sich wohl, daß Lord Mylton den Verlust wichtiger
 Papiere zu beklagen hatte … Oder — Sie besinnen
 sich auch wohl nicht, denn die Sache wurde damals
 geheim gehalten und nur wenigen höheren Beamten der
-anglo-indischen Regierung bekannt, — Ihnen zum, Sir …
+anglo-indischen Regierung bekannt, — Ihnen kaum, Sir …«
 
 Das war ja eigentlich eine Unverschämtheit … Aber
 hier sehr angebracht … denn Sir Loringstone besann sich
 plötzlich, daß er doch immerhin etwas Manieren besaß …
 
-<h2>8. Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 <h3>Das anonyme Schreiben.</h3>
 
-… — … verbeugte sich …
+… verbeugte sich …
 
 »Bitte, Mr. Harst, lassen Sie sich nicht stören,« meinte er
 Überaus verbindlich, wenn auch in seinen Augen anderes
@@ -2260,7 +2256,7 @@ zu lesen war …
 
 Harald trank einen Schluck Tee. Sagte:
 
-»chgmmerhin könnten Sie mir inzwischen mitteilen, weshalb
+»Immerhin könnten Sie mir inzwischen mitteilen, weshalb
 die Prinzessin verhaftet worden ist …«
 
 Sir Loringstone holte seine Brieftasche hervor …
@@ -2269,8 +2265,8 @@ Sir Loringstone holte seine Brieftasche hervor …
 Schreiben … — Bitte …«
 
 <@pagebreak/>
-Und er reichte Harald eine:1 Briefumschlag, der sauber
-aufgeschnitten war und in dem ein dreimal gefalteter Boden
+Und er reichte Harald einen Briefumschlag, der sauber
+aufgeschnitten war und in dem ein dreimal gefalteter Bogen
 Schreibmaschinenpapier lag.
 
 Die Adresse war mit Maschine geschrieben — sehr
@@ -2282,85 +2278,86 @@ eine Briefmarke fehlte …
 Harald.
 
 »Ja … Er lag im Briefkasten meiner Büroräume in
-der Residentur: …«
+der Residentur …«
 
 Dann lasen wir das Schreiben …
 
-»an den Residenten von Bawalar,
+<p class="centered">»an den Residenten von Bawalar,</p>
 
-Sir Loringstone,
-Bawalar.
+<p class="centered">Sir Loringstone,</p>
 
-Um mein Gewissen zu erleichtern, teile ich Gw. Exzellenz
-folgendes mit. — Ich) habe zufällig Kenntnis von Dingen
-erhalten, die mit der bisher noch immer nausfaeklärten
+<p class="right">Bawalar.</p>
+
+Um mein Gewissen zu erleichtern, teile ich Ew. Exzellenz
+folgendes mit. — Ich habe zufällig Kenntnis von Dingen
+erhalten, die mit der bisher noch immer unaufgeklärten
 Ermordung des Thronfolgers Tuma Denki in engstem Zusammenhang
 stehen. Die Rücksicht auf meine eigene Sicherheit
-verbietet mir, nicht nur anzudeuten, wie ich die unten
+verbietet mir, auch nur anzudeuten, wie ich die unten
 geschilderten Tatsachen in Erfahrung gebracht habe. Ich
-betone, daß ich; Europäer bin, was wohl schon aus dem
+betone, daß ich Europäer bin, was wohl schon aus dem
 Stil dieses Schreibens hervorgeht. Mein Anteil an dem
 ungeheuerlichen Verbrechen ist sehr gering. Leider ließ ich
 mich durch große Geldsummen von dem Kammerdiener
 John Halifax bestechen, der mich als Spion verwandte.
 Hätte ich geahnt, daß es um das Leben Tuma Denkis ging,
-so würde ich jede Beteiligung abgelehnt haben. John Halli-fax
+so würde ich jede Beteiligung abgelehnt haben. John Halifax
 erklärte mir jedoch, es solle lediglich die bisher so Überaus
 glückliche Ehe des Thronfolgers geschützt werden.
 
 Ich will nun kurz die mir bekannten Tatsachen aufzählen.
 
-Während Seine Hoheit Tuma Denki mich: seinem ad
-folge in Paris weilte, nahm Halifax fünf Tage Urlaub. Zu
+Während Seine Hoheit Tuma Denki mit seinem Gefolge
+in Paris weilte, nahm Halifax fünf Tage Urlaub. Zu
 dieser Zeit wurde Frau Lizabet Sinclair in London nicht
 <@pagebreak/>
-nur das Brillantdiadem, das ihr der Thronfolger Erscheine!
-hatte, Zwinkern auch) anderer Schmuck gestohlen. Der Anstifter
-dieses Diebstahls war Halifax, der im Solde der Prin-zessuin
-Scvikala stand. Er hat der Prinzessin regelmäßig
-Chisjredepeicoon geschmickdt und solche auch postlagernd von der
+nur das Brillantdiadem, das ihr der Thronfolger geschenkt
+hatte, sondern auch anderer Schmuck gestohlen. Der Anstifter
+dieses Diebstahls war Halifax, der im Solde der Prinzessin
+Sadukala stand. Er hat der Prinzessin regelmäßig
+Chiffredepeschen geschickt und solche auch postlagernd von der
 Prinzessin erhalten, die das Diadem der Frau Sinclair an
-sich vrino211 wollte, weil sie dies Geschenk als eine Untreue
-ihres Gäötten empfand.
+sich bringen wollte, weil sie dies Geschenk als eine Untreue
+ihres Gatten empfand.
 
 Halifax stellte dann fest, daß Seine Hoheit zwei Photographien
 sowie andere Andenken an Frau Sinclair in dem
-derart:schon Boden seines Kratvaittenkasten3s aufbewahrte und
+doppelten Boden seines Krawattenkastens aufbewahrte und
 daß er außerdem Frau Sinclair mit Briefen förmlich überschüttete,
 obwohl die junge Witwe ihm nie antwortete.
-Einige dieser Briefe ging Halifax ab und erfuhr daraus, daß
+Einige dieser Briefe fing Halifax ab und erfuhr daraus, daß
 Seine Hoheit Frau Sinclair veranlassen wollte, seine Geliebte
 zu werden, indem er ihr eine jährliche »Unterstützung«
-von hunderttaujiend Pfund anbot.
+von hunderttausend Pfund anbot.
 
 Auch dies teilte Halifax telegraphisch der Prinzessin mit,
 die daraufhin zweifellos ihrem bestochenen Vertrauten den
-Auftrag gescheit bat, den Thronfolger beseitigen zu lassen.
+Auftrag gegeben hat, den Thronfolger beseitigen zu lassen.
 
 Halifax, der fraglos von der Prinzessin beträchtliche
-Summen ancewiesen bekommen hatte, traf daraushi1i! seine
-Vorbereitungen, um den geplanten Mord in ein undurcck-dringliche
+Summen angewiesen bekommen hatte, traf daraufhin seine
+Vorbereitungen, um den geplanten Mord in ein undurchdringliches
 Dunkel zu hüllen.
 
-iFin gefälschten Brief Frau Sinclairs rief Seine Hoheit
-nach dem deutschen Ostseebade Misdroy, wohin Tuma Denkt
-denn auch »hnungslos von Wien aus heimlich abreiste. —
+Ein gefälschter Brief Frau Sinclairs rief Seine Hoheit
+nach dem deutschen Ostseebade Misdroy, wohin Tuma Denki
+denn auch ahnungslos von Wien aus heimlich abreiste. —
 Wen Halifax für die Ausführung des Mordes gedungen
 hat, entzieht sich meiner Kenntnis. Vielleicht ist es dieselbe
-Dja; gewesen, mit der er in Wien häufiger zusammentraf
+Frau gewesen, mit der er in Wien häufiger zusammentraf
 — eine Lebedame, deren Namen ich nicht weiß. Sie ist
-blond, scharf und hat eine vermute, leicht gekrümmte Nase.
+blond, schlank und hat eine schmale, leicht gekrümmte Nase.
 Ich habe Halifax zweimal mit ihr zusammen gesehen.
 
-Halifax hatte mich mzwücdien nach Berlin geschickt, damit
-ich von bekannten Privatdetektiv Harald Harst, den
-Halifax besonders fürchtete, beobachten stellte. Harst und
+Halifax hatte mich inzwischen nach Berlin geschickt, damit
+ich den bekannten Privatdetektiv Harald Harst, den
+Halifax besonders fürchtete, beobachten sollte. Harst und
 <@pagebreak/>
-sein Freund Schraut weilten jedoch mit in Berlin, sondern
-zufällig in nächster Nähe von M:Stroh auf einem So leise
+sein Freund Schraut weilten jedoch nicht in Berlin, sondern
+zufällig in nächster Nähe von Misdroy auf einem Schlosse
 Garlitten als Hochzeitsgäste.
 
-Ich fuhr dorthin und traf tot gerade ein, als die besten
+Ich fuhr dorthin und traf dort gerade ein, als die beiden
 Detektive den toten Thronfolger im treibenden Boot
 gefunden und die Polizei benachrichtigt hatten …
 
@@ -2370,8 +2367,8 @@ Halifax mich ausgenutzt hatte, — da erst gewann ich den
 richtigen Überblick über dieses traurige Eifersuchtsdrama.
 
 Ich muß hier nachholen, daß Halifax inzwischen eine
-kleine Motorjacht umgetauft und mit Leuten durch einen
-Vermittler bemannt tote, die für Geld zu allem fähig
+kleine Motorjacht angekauft und mit Leuten durch einen
+Vermittler bemannt hatte, die für Geld zu allem fähig
 waren: Diese Jacht sollte ihm die Flucht erleichtern, falls
 die Dinge eine für ihn ungünstige Wendung nehmen sollten.
 
@@ -2384,7 +2381,7 @@ neuen Verbrechen: er ließ Harst und Schraut verschwinden!
 
 Ich habe aus der Ferne beobachtet, wie die beiden
 Deutschen auf die vor Swinemünde kreuzende Jacht geschafft
-wurden. Ich selbst hielt Miß nunmehr von Halifax
+wurden. Ich selbst hielt mich nunmehr von Halifax
 fern, da ich wohl mit Recht fürchtete, beseitigt zu werden. —
 
 Wenn Sie, Exzellenz, diesen Brief erhalten, bin ich
@@ -2398,8 +2395,7 @@ Ich habe von indischen Abenteuern übergenug. Gegen meinen
 Willen wurde ich, ein bis dahin harmloser Mensch, in
 diese abscheulichen blutigen Intrigen mit hineingezogen,
 Nie wieder werde ich indischen Boden betreten. Bawalar
-hat mich nur gerade eine Stunde in seinen Mauern be-.
-verletzt.
+hat mich nur gerade eine Stunde in seinen Mauern beherbergt.
 
 <@pagebreak/>
 Nun handeln Sie, Exzellenz. Sie werden unschwer feststellen
@@ -2416,7 +2412,7 @@ den Briefumschlag zur Hand, fragte jetzt den Detektivinspektor
 Wallace:
 
 »Haben Sie Briefbogen und Umschlag auf Fingerabdrücke
-geprüft?« um
+geprüft?«
 
 »Ja, Mr. Harst,« bestätigte Austin Wallace eifrig. »Ich
 habe nichts gefunden, was von Wichtigkeit wäre. Die Person,
@@ -2429,7 +2425,7 @@ Und Harald dann — nun zu Sir Loringstone:
 der Regierung in Kalkutta in Verbindung gesetzt?«
 
 »Ja … Man schickte Wallace her … Um eine indische
-Fürstin zu verhassten, muß man verschiedene Bestimmungen
+Fürstin zu verhaften, muß man verschiedene Bestimmungen
 beachten … Die Verhaftung Sadukalas ist
 vorgestern erfolgt, ebenso ihre erste Vernehmung. Die Haft
 beschränkt sich vorläufig auf eine strenge Bewachung der
@@ -2446,13 +2442,12 @@ von sich … — natürlich! Was allerdings sehr zwecklos
 ist … Denn in diesem Falle die Hälfte eingestehen,
 heißt das Ganze für wahr erklären …«
 
-»Glauben Sie das wirktüich, Sir Loringstone?!« Und
-Harald hob die Schultern … »Ich glaube es nicht …
-
+»Glauben Sie das wirklich, Sir Loringstone?!« Und
+Harald hob die Schultern … »*Ich* glaube es nicht …
 <@pagebreak/>
-Wollen Sie bitte einmal folgenpbes beachten: Die Ermordung
+Wollen Sie bitte einmal folgendes beachten: Die Ermordung
 unserer Wächter und der beiden Halifax durch
-die noch unbekannten Täter in’s man doch unbedingt hier
+die noch unbekannten Täter muß man doch unbedingt hier
 mit in Rechnung ziehen … Wie gesagt: ich kenne diese
 Mörder nicht! Aber …«
 
@@ -2460,40 +2455,41 @@ Da fiel ihm Sir Loringstone ins Wort …
 
 »Verzeihen Sie, Mr. Harst: ich ziehe das sehr wohl in
 Rechnung! Nichts ist wohl begreiflicher, als daß die Mitschuldigen
-der Prinzessin jetzt nach deren Verhaftung all!
+der Prinzessin jetzt nach deren Verhaftung alle
 Die für alle Zeit stumm machen wollten, die durch ihre Aussagen
-der Verhafteten hätten gefährlich werden können …
+der Verhafteten hätten gefährlich werden können …«
 
-»Darüber kann man. verschiedener Ansicht sein, Sir
+»Darüber kann man verschiedener Ansicht sein, Sir
 Loringstone … — Doch — lassen wir das jetzt … —
-Wa535 wird mit der Prinzessin geschehen?«
+Was wird mit der Prinzessin geschehen?«
 
-»H3 ist bereits Befehl aus Kalkutta eingetroffen, daß
+»Es ist bereits Befehl aus Kalkutta eingetroffen, daß
 sie in aller Stille dorthin gebracht wird, weil die Bevölkerung
-hier derart erregt ist, daß Wir Ausschreitungen der
-fürchten … Sadukala ist bei den Bawalesen ebenso wie
-bei den Priwaresen Überaus beliebt, was ich ehrlich Dinge
-stehe, ebenso daß sie eine Frau von Überaus bezaubernden
+hier derart erregt ist, daß Wir Ausschreitungen befürchten
+… Sadukala ist bei den Bawalesen ebenso wie
+bei den Priwaresen Überaus beliebt, was ich ehrlich eingestehe,
+ebenso daß sie eine Frau von Überaus bezaubernden
 Eigenschaften ist …«
 
 Harald nickte …«
 
-»» Davon habe ich bereits gehört … — Würden Sie
+»Davon habe ich bereits gehört … — Würden Sie
 mir gestatten, mit der Prinzessin in Gegenwart Schrauts
 Rücksprache zu nehmen?«
 
-Sir Loringstone überlegte … ck
+Sir Loringstone überlegte …
 
-»Am — hoffen Sie dadurch irgend etwas zu erreichen,
-Mr. Harst?« oge der Resident dann …
+»Hm — hoffen Sie dadurch irgend etwas zu erreichen,
+Mr. Harst?« fragte der Resident dann …
 
-»Ja …!? Denn wenn ich diese Frau gesehen haben
+»Ja …! Denn wenn ich diese Frau gesehen haben
 werde, kann ich Ihnen bestimmt erklären, ob sie schuldig
 oder schuldlos ist … Ich traue mir einige Menschenkenntnis
-zu …
+zu …«
 
-»Gut, es sei, Mr. Harst …
-Eine Stunde drauf brachte ’un8 das I.« Sir Loring-ftone8
+»Gut, es sei, Mr. Harst …«
+
+Eine Stunde drauf brachte uns das Auto Sir Loringstones
 nach dem kleinen Palast des Thronfolgers …
 
 <@pagebreak/>
@@ -2950,7 +2946,7 @@ eingefunden …«
 
 Und Harst schloß mit einer energischen Handbewegung:
 »betrogen wäre in diesem Falle eine Unverfrorenheit,
-Mirza Sadur … Dort im Tale des Schara Saka, der
+Mirza Sadur … Dort im Tale des Schara Schaka, der
 einst zur Zeit des großen indischen Aufstandes eine besondere
 Rolle gespielt zu haben scheint, denn die Gerippe weisen auf
 die Niedermetzelung einer größeren Menge Berittener hin,
