@@ -1,70 +1,41 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
-<@pagebreak/>
-<@pagebreak/>
-Harald Harst
-ins meinem Leben
+<h1>Die rote Rakete</h1>
 
-Sand: 154
+<h2>1. Kapitel.</h2>
 
-Die rote Rakete —
+<h3>Das Oval im Kaschmirteppich.</h3>
 
-Erzählt von
-Max Schraut
-
-» Wie
-
-Verlag moderner Lektüre G.&nbsp;in.&nbsp;b.&nbsp;H.
-Berlin so 16, Michaelkirchstraße 2383
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, einschl. das Toröffnung
-recht, vorbehalten. =«= Springt: 1925 by Verlag modertite
-Celsius G. um. b. D… werde.
-
-Druck: ob. Lehuntiaun G. in. by. &… Verein
-
-<@pagebreak/>
-[ck]
-
-!. Quartier.
-
-)
-Das Oval im Kasämirteppich,
-
-Dieser wyundervosse Park und dieser ebenso witindewvolle
-alte Palast mit seinen Lieblichen indischen Faustschlägen,
-der zwar äußerlich etwas düster nickte, boten uns beiden,
-die wir als Gäste der Prinzessin -Sadtukatla im Wesislünael
-im ersten Stockes drei Zimmer bewohnten, allerlei AÄnrcgqun-
-— ne!. Harald besonders legte sich ans ganze Sammlung von
+Dieser wundervolle Park und dieser ebenso wundervolle
+alte Palast mit seinen vielfachen indischen Kunstschätzen,
+der zwar äußerlich etwas düster wirkte, boten uns beiden,
+die wir als Gäste der Prinzessin Sadukala im Westflügel
+im ersten Stockes drei Zimmer bewohnten, allerlei Anregungen.
+Harald besonders legte sich eine ganze Sammlung von
 Photographien kostbarer Elfenbeinschnitzereien an, und ich
-nieder durchstöberte die Bibliothek der indischen Prinzessin,
+wieder durchstöberte die Bibliothek der indischen Prinzessin,
 fand so manches seltene Werk und vertiefte mich mit
-Alter in die Familiengeschichte der Radschas von Bawalar.
+Eifer in die Familiengeschichte der Radschas von Bawalar.
 
-Wer die Prinzessin Sadukala ist, auf welke ungewöhnliche
-Art wir noch der Residenz Bawalar am Nordrande der
-Thar-Wüste gelangten und was wir hier im Schienen Schutz-Berge
+Wer die Prinzessin Sadukala ist, auf welche ungewöhnliche
+Art wir nach der Residenz Bawalar am Nordrande der
+Thar-Wüste gelangten und was wir hier im Schara Schaka-Berge
 erlebt hatten, — all das kennt der Leser aus dem
 vorigen Band,
 
-Drei Anstriche, angenehme Tage verstrichen. Die ge-nteinsaimen
-Mahlzeiten mit der Prinzessin, Aunsslüge in die
+Drei friedliche, angenehme Tage verstrichen. Die gemeinsamen
+Mahlzeiten mit der Prinzessin, Ausflüge in die
 Umgebung und Besuche bei den Würdenträgern des kleinen
 Fürstentums füllten unsere Zeit auf das abwechslungsreichste
-ums.
+aus.
 
-abends, wenn wir uns von der liebenswürdigen und
-feingebildeten Witwe (ihr Gatte war ja bekatnn:lich in
-Deutschland unter sehr geheimhisvollen Umständen er
-
-15-4
+Abends, wenn wir uns von der liebenswürdigen und
+feingebildeten Witwe (ihr Gatte war ja bekanntlich in
+Deutschland unter sehr geheimnisvollen Umständen er-
 <@pagebreak/>
-2222220222222 41&nbsp;202020202220&nbsp;202022
-
 mordet worden) verabschiedet hatten, saßen wir dann noch
-eine Stunde auf dem Balkon unseres: Wohnsalons im
-Dunkeln und lauschten dem Rauschen der alten Parkbämme,
+eine Stunde auf dem Balkon unseres Wohnsalons im
+Dunkeln und lauschten dem Rauschen der alten Parkbäume,
 schauten hinüber zu den Lichtern der Stadt und sprachen
 leise über dies und jenes, was in den verflossenen Tagesstunden
 uns Anlaß zu behaglicher Erörterung geboten hatte.
@@ -72,218 +43,210 @@ uns Anlaß zu behaglicher Erörterung geboten hatte.
 Drei friedliche Tage ohne irgendeinen Gedanken an
 unsere berufliche Tätigkeit … Ferien von der Arbeit …
 
-Dann aber—« der vierte Abend … Wir Wieder auf
+Dann aber — der vierte Abend … Wir Wieder auf
 dem Balkon … Harald im Korbsessel dicht an der
-Brüstung. ich im Liegestuhl …
+Brüstung, ich im Liegestuhl …
 
-Harsts Zigarette Flucht durch die Dunkelheit …
+Harsts Zigarette glüht durch die Dunkelheit …
 
-Und mit einem Male sagt er!
+Und mit einem Male sagt er:
 
-»Wenn Du Deine seiten Glieder nicht immer so niedrig
-in! Liegestuhl hinstrecken würdest, mein Alter, dann …
+»Wenn Du Deine fetten Glieder nicht immer so niedrig
+im Liegestuhl hinstrecken würdest, mein Alter, dann …
 dann hättest Du schon dreimal dasselbe beobachten können.«
 
 Ich nahm die Zigarre aus dem Munde …
 
-»öffentlich nichts, was unsere Ferien unterbrechen
+»Hoffentlich nichts, was unsere Ferien unterbrechen
 wird,« meinte ich nur …
 
 »Vielleicht doch! — Erhebe Dich bitte einmal, Max
-Schraut … Es ist drei Minuten vor elf … Um es
-kannst Du es sehen: …
+Schraut … Es ist drei Minuten vor elf … Um elf
+kannst Du es sehen …"
 
 »Was denn?!«
 
-(ob »seine Faulheit ist unglaublich! Erhebe Du! Es
-wohnt …!«
+»Deine Faulheit ist unglaublich! Erhebe Dich! Es
+lohnt …!«
 
 Ich tat es, trat an die Brüstung …
 
 »Rechts von den äußersten Lichtern der Stadt,« erklärte
 Harald nun, »kannst Du gegen den Nachthimmel
 etwas wie einen Strich erkennen … Es ist das Minarett
-der alten Moschee von Sultanat, der Vorstadt von Bawalar
-…
+der alten Moschee von Kastanar, der Vorstadt von Bawalar
+…"
 
-»Allerdings …
+»Allerdings …"
 
-»Bitte — behalte den schlanken Turm scharf im Auge …
+»Bitte — behalte den schlanken Turm scharf im Auge …"
+
 Dann schwieg er …
 
-Ich) schaute hin … Meine Augen gewöhnten sich an
+Ich schaute hin … Meine Augen gewöhnten sich an
 das Dämmerlicht der sternklaren Nacht …
 <@pagebreak/>
-DSSSDSSISSSSS H3 DSSSSSSSSSSS
 
-Da — plötzlich schoß rechts vom Minarett ein feurigen
+Da — plötzlich schoß rechts vom Minarett ein feuriger
 Streifen empor — zerstob zu roten leuchtenden Kugeln,
 deren Glanz jedoch sofort wieder erlosch …
 
-»Eine rote kleine Rakete…«, jagte ich enttäuscht …
-so … eine rote kleine Rakete …! Vielleicht
+»Eine rote kleine Rakete …«, sagte ich enttäuscht …
 
-lassen konnten sie allnächtlich um elf Uhr zum Zeitvertreib
-aussteigen! Gerade um elf — nur eine einzige Rakete!! —
-
-So — und jetzt blicke noch weiter nach rechts, wo die Ufer
-
+"So ... so … eine rote kleine Rakete …! Vielleicht
+lassen Knaben sie allnächtlich um elf Uhr zum Zeitvertreib
+aufsteigen! Gerade um elf — nur eine einzige Rakete!! —
+So — und jetzt blicke noch weiter nach rechts, wo die Ufer-
 Berge des Ghara Flusses einen dunklen Strich am Horizont
 bilden … Warte noch drei Minuten … Denn genau
 fünf Minuten nach elf geschieht dort ebenfalls etwas …«
 
 Haralds stark ironische Bemerkung über »Zeitvertreib
-
 von Knaben« hatte doch erreicht, daß ich dieser Rakete nun
 größere Bedeutung beimaß. Er hatte recht: wenn an diesem
 Abend soeben wieder (und somit zum vierten Male) die
-Rakete neben dem Mitspielt abgeschossen worden war, und
+Rakete neben dem Minarett abgeschossen worden war, und
 wenn dann fünf Minuten drauf in weit größerer Entfernung
 ebenso regelmäßig noch etwas zu sehen war, dann
-mußten diese beiden Dinge ohne« Zweifel …
+mußten diese beiden Dinge ohne Zweifel …
+
 Da — zerriß mein Gedankenfaden …
 
-Ich; sah …
-Sah, daß »dort aus dem dunklen Strich der Uferberge
+Ich sah …
 
-ebenfalls eine Rakete ausstieg … ebenfalls mit roten, sofort
+Sah, daß dort aus dem dunklen Strich der Uferberge
+ebenfalls eine Rakete aufstieg … ebenfalls mit roten, sofort
+wieder erlöschenden Leuchtkugeln …
 
-wieder erlöschenden Leuchtkugeln —…
 »Genau fünf Minuten nach elf,« sagte Harald, der seine
 Uhr In der Hand, deren Leuchtzifferblatt als kleine grüngelbe
-Scheibe matt erstrahlte … »Aus meine Uhr ist Verlaß,
-mein Alter … Und die Uhren der Leute, »die diese
-Raketen benutzen, müssen ebenso tadellos sein …
+Scheibe matt erstrahlte … »Auf meine Uhr ist Verlaß,
+mein Alter … Und die Uhren der Leute, die diese
+Raketen benutzen, müssen ebenso tadellos sein …"
+
 »benutzen …! Wozu?!«
 
-»Entschuldige schon: Kindliche Frage! — Wie soll ich.
-
-das wohl wissen, von die Leute diese Zeichen geben?!
+»Entschuldige schon: Kindliche Frage! — Wie soll ich
+das wohl wissen, wozu die Leute diese Zeichen geben?!
 Zeichen, Signale sind es … Den Zweck müssen wir erst
-feststellen … Und das werden wir — schon zu Nase«
-
+feststellen … Und das werden wir — schon zu unserer
 eigenen Sicherheit …
-»Ich) drehte mich mit einem Ruck um …
+
+Ich drehte mich mit einem Ruck um …
 <@pagebreak/>
-0022000222028 ( 2202883280300&nbsp;200208O
 
-»am unserer eigenen Sicherheit?k! — Du meinst, wir …«
+»Zu unserer eigenen Sicherheit?! — Du meinst, wir …«
 
-»so merkte, daß Mirza Sadur, der Mörder des Thron-solsgers,
-hier in Fahrplan Tempos heimliche Freunde gehabt
-hat und daß am!) die anderen Inder, die sich nachher gleich
-ihm und »Frau Kniefall im Gefängnis vergifteten, nicht
-ohne Anginge sein dürsten … Ich mein« weiter, wir befinden
-uns der in Indien, wo denn den ein wenig andere
-Zustande herrschen als daheim bei uns, wo die Rache zuweilen
-Gehilfe Pflicht sein kam Wind wo wir als diejenigen,
-die die sitzender überführten, wichtig allen Grund …«
+»Ich meinte, daß Mirza Sadur, der Mörder des Thronfolgers,
+hier in Bawalar genug heimliche Freunde gehabt
+hat und daß auch die anderen Inder, die sich nachher gleich
+ihm und Frau Sinclair im Gefängnis vergifteten, nicht
+ohne Anhang sein dürften … Ich meine weiter, wir befinden
+uns hier in Indien, wo denn doch ein wenig andere
+Zustände herrschen als daheim bei uns, wo die Rache zuweilen
+heilige Pflicht sein kann und wo wir als diejenigen,
+die die Mörder überführten, mithin allen Grund …«
 
-Tau demselben Moment flog hinter uns etwas klatschend
+In demselben Moment flog hinter uns etwas klatschend
 gegen die Mauer …
 
-Ein Schachtes kaltes Band hatte meine Wange gestreift …
+Ein feuchtes kaltes Band hatte meine Wange gestreift …
 
-Im Nu flammte Zuraste Tasiheulkämpe auf … Im
-Nu waren mit zurückgesprungen …
+Im Nu flammte Haralds Taschenlampe auf … Im
+Nu waren wir zurückgesprungen …
 
-mit Boden des Balkons lag eine hellgrüne meterlange
-Sapka-Schlange, die giftigere. der Baumschlangen Indiens …
+Am Boden des Balkons lag eine hellgrüne meterlange
+Sapka-Schlange, die giftigste der Baumschlangen Indiens …
 
-Im Du durfte Harald mich an durch die offenen Balkontüren
+Im Nu hatte Harald mich auch durch die offenen Balkontüren
 ins Zimmer gezogen — die Flügeltür zugedrückt …
 
-Da flog auch schon ein zweites Reptil gegen die Luftscheiben
+Da flog auch schon ein zweites Reptil gegen die Türscheiben
 …
 
-»also doch!« sagte Harald umr …
+»also doch!« sagte Harald nur …
 
-Hund das blieb: das erwartete Attentat war’s!
+Und das hieß: das erwartete Attentat war’s!
 
 Wir standen im Dunkeln …
 
-Tor) starrte auf die Parkbäume draußen … Ich
-sicherte …
+Ich starrte auf die Parkbäume draußen … Ich
+fieberte …
 
-— Das keuchte kalte Band, das merkte Wange gestreift
-hat!e, war eine Sapka gewesen …!!
+Das feuchte kalte Band, das meine Wange gestreift
+hatte, war eine Sapka gewesen …!!
 
 eine Sapka …!!
 
-Wäre sie mir in den Nacken Schlangen. Fälle sich zugebissen:
-Max Schraut wäre nach zwei Stunden tot gewesen«
-…
+Wäre sie mir in den Nacken geflogen, hätte sie zugebissen:
+Max Schraut wäre nach zwei Stunden tot gewesen!
 
-Rausnehmen Gedanke!
+Angenehmer Gedanke!
 
-Una Tannen neben wir:
+Und Harald neben mir:
 
-» leidlich rätselhaft, die Geschichte: …«
+»Ziemlich rätselhaft, die Geschichte …«
 
 »Weshalb?«
 <@pagebreak/>
-SESSSSSSSSEIEEGE 7 2SEBSBSSBSBDIEEDIVE
 
-»Des wollte Tote Baum ist. vom. Balkon zwanzig
-wieder etttjerätt — zu Furcht fuhr einen teidpkiek) sicheren aufs…
-und dort: die soll! ein Menge) eine Sapka weiter Y!! mit
-Fandschuben — gewiß… Aber die müßten so dick sein,
-da!; der Mann sehr kehrt;ihrer Worden wäre … Auffordern
-— Die Baumkrone drüben ist so dicht … Jeder kleine
-
-Zweig habe bei Titel vereitelt … Und doch — die
-Sapkas bitten aus der Michtungg des Baumes … das
+»Des nächste hohe Baum ist vom Balkon zwanzig
+Meter entfernt — zu weit für einen leidlich sicheren Wurf ...
+Und dann: wie soll ein Mensch eine Sapka werfen?! Mit
+Handschuhen — gewiß … Aber die müßten so dick sein,
+daß der Mann sehr behindert Worden wäre … Außerdem
+— die Baumkrone drüben ist so dicht … Jeder kleine
+Zweig hätte den Wurf vereitelt … Und doch — die
+Sapkas kamen aus der Richtung des Baumes … das
 ist gewiß … Also — rätselhaft — — rätselhaft …«
 
-»Palast, Du … Du hast etwas Besonderes im
-Flur? Du vermutest, daß …«
+»Harald, Du … Du hast etwas Besonderes im
+Sinn? Du vermutest, daß …«
 
-… daß man! sich einer schwarz angestrichenen
-Bambus Stange begreift hat … Ld oben auf der Stange
-vielleicht ein schräg angebrachten Korb … Bambus
-lebend … Ein geschickter Mensch. konnte nach einigen
-Übung in dieser Art des Schienbeine sicher Geschicklichkeit
-
+"… daß man sich einer schwarz angestrichenen
+Bambusstange bedient hat … Und oben auf der Stange
+vielleicht ein schräg angebrachter Korb … Bambus
+federt … Ein geschickter Mensch könnte nach einiger
+Übung in dieser Art des Schleuderns schon Geschicklichkeit
 erringen …«
 
-Er Dame …
+Er gähnte …
 
 »Im übrigen: gehen wir schlafen, mein Alter! Es war
 ein Zwischenfall, der uns gewarnt hat … Wir werden
-morgen früh) weitergehen …«
+morgen früh weitersehen …«
 
-Und er gähnte abermals’ck. — Und ich:
+Und er gähnte abermals ... — Und ich:
 
-»ehrt) linke, Du nimmst die Sache sehr kühl hin …!«
+»Ich finde, Du nimmst die Sache sehr kühl hin …!«
 
 »Kühl?! — Es ist Nacht … Wir können nichts besseres
 tun, als uns ausschlafen … Was sollen wir sonst
 wohl?! etwa in den Park hinab?! Das wäre zwecklos …
-—» Morgen brannten wir … morgen!«
+— Morgen beginnen wir … morgen!«
 
 Wir betraten unser gemeinsames Schlafzimmer …
-Schloßherr uns ein … Das elektrische Licht beleuchtete den
+Schlossen uns ein … Das elektrische Licht beleuchtete den
 freundlichen Raum …
 
-Und wir suchten, sucbteun, ob nicht auch hier unser
-eine Überraschung Wagnisse …
+Und wir ... suchten, suchten, ob nicht auch hier unser
+eine Überraschung wartete …
 
-Fanden nie …  - Laster uns gute Nacht …
-großen die Wachsklümpchen brennen …
+Fanden nichts …  Sagten uns gute Nacht …
+Ließen die Wachslämpchen brennen …
 
-Aber — einschlafen?! Cinschlajenf!? Urne-:sglich’!!
+Aber — einschlafen?! Einschlafen?! Unmöglich!!
 <@pagebreak/>
-SSSSSSSSSSESS Zu, SSPLPESSSESSEDISS
 
-Ich lag da und starrte auf den gelbseidener Schirm,
+Ich lag da und starrte auf den gelbseidenen Schirm,
 unter dem die Lampe glühte …
 
-Ich lauschte auf jedes Geräusch« …
+Ich lauschte auf jedes Geräusch …
 
-Ich lauschte auf an Erde tiefe Alte! tauge 1:Eid berichtete
-ihn … Er schief …
+Ich lauschte auf Haralds tiefe Atemzüge und beneidete
+ihn … Er schlief …
 
-Er schließt!
+Er schlief?!
 
 Vielleicht hatte er von mir dasselbe angenommen …
 
@@ -292,16 +255,18 @@ Er … erhob sich lautlos …
 Schaute nach meinem Bett hinüber … Ich drückte
 schnell die Augen zu …
 
-Seekarte sie wieder …
-Und Harst in seinem schwarzseidenzen Schlafanzug
-kniete in der Mitte des Zimmers aus dem kostbarem Teppich,
-einem seidenen echten Kaschmir- mit ovalem Mittelstück …
-Harst hatte sein Taschenmesser in der Hand und schien
-am Rande dieses Mittelstückes eine Naht auszutirennen …
-Und als er die Hälfte der Rundung so gelockert, klappte er
-diese Bär um und legte so die Marmorfliesen frei … «
+Öffnete sie wieder …
 
-ließ keinen Blick von ihm …
+Und Harst in seinem schwarzseidenen Schlafanzug
+kniete in der Mitte des Zimmers auf dem kostbarem Teppich,
+einem seidenen echten Kaschmir mit ovalem Mittelstück …
+
+Harst hatte sein Taschenmesser in der Hand und schien
+am Rande dieses Mittelstückes eine Naht aufzutrennen …
+Und als er die Hälfte der Rundung so gelockert, klappte er
+diese Hälfte um und legte so die Marmorfliesen frei …
+
+Ich ließ keinen Blick von ihm …
 
 Ich schwitzte vor Aufregung …
 
@@ -309,91 +274,87 @@ Er befühlte die Fliesen …
 
 Kniete, beugte sich tiefer …
 
-Ich hörte ein Geräusch ein Scharren, Arabers — … «
+Ich hörte ein Geräusch ein Scharren, Kratzen ...
 
 Und da — flüsterte er:
 
-»Damm mal her, mein Alter …
+»Komm mal her, mein Alter …"
 
-Er wußte, daß ich Bad) war …
+Er wußte, daß ich wach war …
 
 Ich war im Nu neben ihm …
 
-Und sah unter dem halb zurückgeschlayeunen Teppichoval
-ein so) im Fliesenboden …
+Und sah unter dem halb zurückgeschlagenen Teppichoval
+ein Loch im Fliesenboden …
 
 Bückte mich …
 
-Sah noch mehr: »acht der Fliesen bildeten eine Falllürx …
-Diese war herabgeglitieun, hing in zwei dicken Messingangeln
+Sah noch mehr: acht der Fliesen bildeten eine Falltür …
+Diese war herabgeglitten, hing in zwei dicken Messingangeln ...
 
 Und — roch noch mehr …
 
-Aus dem Loche stieg ein betäubender Verwesjsungs-
-
+Aus dem Loche stieg ein betäubender Verwesungs-
 Geruch empor …
 
-d
 <@pagebreak/>
 Betäubend …
 
-Ich prallte tun 6,
+Ich prallte zurück ...
 
 War blaß geworden …
 
-»Ballast, was bedeutet das?!
+»Harald, was bedeutet das?!"
 
-»Miß mir meine Täichenlaumpe vom Nachttischchen …
+»Gib mir meine Taschenlampe vom Nachttischchen …"
 
-darf legte er sich lang aus den Boden …
+Dann legte er sich lang auf den Boden …
 
-»Ihr — — nun suche als dem Koffer eine Schnur hyeiwvor.«
+»So — nun suche aus dem Koffer eine Schnur hervor.«
 
 Ich tat’s …
 
-Er band sie eingeschaltete Lampe daran erst
+Er band die eingeschaltete Lampe daran fest ...
 
-Laune und Schnur versanken … Die Schwant glitt!
-durch) sorglos Körper …
+Lampe und Schnur versanken … Die Schnur glitt
+durch Haralds Finger …
 
-Ich) hielt den Atem an …
+Ich hielt den Atem an …
 
-Rechte der Kopf über das Loch …
+Reckte der Kopf über das Loch …
 
 Die Lampe sank …
 
-Beleuchtete einen Schacht von vielleicht zwei Wortes im
-Gebiet …
+Beleuchtete einen Schacht von vielleicht zwei Meter im
+Geviert …
 
 Und — — unten auf den kahlen Steinen des Schachtes
 ein längliches dunkles Etwas …
 
-dieser die Lampe …
+Tiefer die Lampe …
 
-Das etwas gewinnt Formen
+Das etwas gewinnt Formen ...
 
 Eine … halb verweste Leiche …
 
-Ein Weib — Eine dunkelbärtige Frau in europäischem
-bellen Kleide … Neben ihr ein weißer Strohhut …
+Ein Weib — Eine dunkelhaarige Frau in europäischem
+hellen Kleide … Neben ihr ein weißer Strohhut …
 
-Harald zieht die Lampe wieder ewiger …
+Harald zieht die Lampe wieder empor …
 
-»Venus für jetzt, mein Vier…« sind er hebt die
-Falltür nach oben … Ein Krieges knarrt riß …
+»Genug für jetzt, mein Alter …,« und er hebt die
+Falltür nach oben … Ein Riegel schnappt ein …
 
-reise die Fenster auf] … Die Stabjalotsicn sind
-hecuntergekflapyi …
+Ich reiße die Fenster auf … Die Stabjalousien sind
+heruntergeklappt …
 
-Und Harald hat Nadel und Zwirn aus dem lassen
-geholt und näht das halbe Oval wieder sauber jetzt …
+Und Harald hat Nadel und Zwirn aus dem Koffer
+geholt und näht das halbe Oval wieder sauber fest …
 
-ziehe
 <@pagebreak/>
-DSSSSSSSISSSS 10) SSCESDOIESEESES PG
 
-L. Kapitel.
-Das Kofferschloß.
+<h2>2. Kapitel.</h2>
+<h3>Das Kofferschloß.</h3>
 
 Morgens sieben Uhr — aus wir Moxdierrasse …
 Soeben haben wir mit der YBtinzeijun gejäthquüickt … —
