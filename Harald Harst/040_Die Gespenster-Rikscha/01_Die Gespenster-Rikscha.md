@@ -290,7 +290,7 @@ sagte er ernst und schob das Glas wieder in das Futteral.
 »Er rennt jetzt wie ein Wiesel dort an den Gräben entlang
 — tief gebückt, damit wir ihn nicht bemerken. Die
 Sache wird spannend. Das war Spion Nummer zwei und
-— auch ein maskierter Aufpasser, auch ein — Weib wette
+— auch ein maskierter Aufpasser, auch ein — Weib, wette
 ich!«
 
 <h2>Zweites Kapitel.</h2>
@@ -309,7 +309,7 @@ Sie sich aber von Schraut sagen. Er hat es ja fraglos als
 alter Indienkenner gleichfalls bemerkt.«
 
 Ich wurde wahrhaftig rot. Ich hatte nämlich — nichts
-bemerkt, machte mir mit der Leine zu schaffen und knallte
+bemerkt, machte mich mit der Leine zu schaffen und knallte
 mit der Peitsche.
 
 »Na, dann kann ich’s ja auch sagen,« hörte ich Haralds
@@ -332,7 +332,7 @@ von dem Morde.«
 Die Straße stieg allmählich an. Der Boden wurde
 steinig. Bald trat überall nackter, grauer Granit zu Tage.
 Der Weg schlängelte sich auf den glattesten Stellen dieser
-kahlen Ebene dahin und war nur durch aufgehäufte, gefärbte
+kahlen Ebene dahin und war nur durch aufgehäufte, gekalkte
 Steinhaufen zu beiden Seiten gekennzeichnet.
 
 Die drei Inder radebrechten etwas das Englische und
@@ -340,7 +340,7 @@ teilten Harst mit, daß man den Toten drüben hinter jener
 Tempelruine gefunden habe. Der eine erzählte noch, daß
 sein Bruder die Leiche entdeckt hätte.
 
-Harald beschenkte sie durch ein Paar Silbermünzen. Der
+Harald beschenkte sie durch ein paar Silbermünzen. Der
 Wagen rollte davon. Nun bogen wir in eine schnurgerade
 Strecke ein. Die weißen Steinhaufen bildeten in der Ferne
 zwei helle Striche. Links der Straße lag die Ruine, die
@@ -365,7 +365,7 @@ Zügel am Spritzblech fest und löste die Sielen<@refnote 1/> von den
 Schwengeln. Lady Lydia holte ihr Zigarettenetui hervor
 und bat Harald noch um Feuer. Dann gingen wir nach
 links um die Ruine herum. Hier lagen sehr viel Blöcke
-und Schutt umher. Stachelgewächse alter Art hatten sich
+und Schutt umher. Stachelgewächse aller Art hatten sich
 zwischen den Trümmern angesiedelt.
 
 An der Rückseite des ehemaligen Tempels gab es eine
@@ -522,7 +522,7 @@ Haltung, wirkte so mitleiderregend hilflos.
 
 »Nur das nicht — nur das nicht!« hauchte sie. »O
 mein Gott, was tue ich nur. — Ich — ich habe ihm
-ja so fest versprochen, zu schweigen — und — und er
+ja so fest versprochen, zu schweigen — Und — und er
 würde es mir nie verzeihen, wenn —« Sie schwieg, griff
 nach Haralds Hand, fuhr noch erregter fort:
 
@@ -542,7 +542,7 @@ besser bewahrt als in der Brust derer, die sie etwas angehen
 
 Lady Ellinor hauchte ein »Ja« und blickte zu Boden.
 
-Harst drückte ihre Hand legte noch seine Linke auf
+Harst drückte ihre Hand, legte noch seine Linke auf
 ihre zarten Finger und meinte:
 
 »Gut, daß Sie nicht gelogen haben, Mylady. — War
@@ -554,12 +554,12 @@ so aufrichtig, — oder aber Lady Ellinor war eine ganz
 gefährliche Heuchlerin.
 
 Dann fügte sie sofort hinzu: »Bitte, bitte, fragen Sie
-nichts mehr! Ich darf nicht sprechen, ich darf nicht!«
-Das letzte klang wieder wie ein Verzweiflungschrei. »Und
+nichts mehr! Ich darf nicht sprechen, — ich darf nicht!«
+Das letzte klang wieder wie ein Verzweiflungsschrei. »Und
 — verlassen Sie unser Haus nicht, Mr. Harst, nein, tun
 Sie es nicht! Dann — dann —«
 
-Ihre Stimmen erstickte in einem würgenden Aufschluchzen.
+Ihre Stimme erstickte in einem würgenden Aufschluchzen.
 
 <@pagebreak/>
 Harald erklärte schon: »Beruhigen Sie sich, Mylady.
@@ -751,7 +751,7 @@ den Landleuten vorbei, bog in den Weg nach der Tempelruine
 ein und wurde von den Bauern mit den Augen verfolgt,
 bis sie plötzlich in einer Nebelwolke immer undeutlicher
 wurde und verschwand. Die Nebelwolke zerflatterte
-schnell. Weit und breit war weder von der Rikscha noch
+schnell. Weit und breit war weder von der Rikscha, noch
 der Dame, noch den beiden Hellblauen etwas zu bemerken.
 Die vier Bauern aus Imkari haben es meinem Kommissar
 Drenga Mirar erzählt. Die Kerle schwören natürlich, die
@@ -782,7 +782,7 @@ Mirar vorhin. Hat er die Rikscha beobachtet?«
 
 »Lächerlich genug: er behauptet es! Sie soll gewöhnlich
 jeden fünften Abend zu sehen sein. Nur als Lord Scheldon
-mehrfach Militär ausgebeten hatte, erschien sie nicht.«
+mehrfach Militär aufgeboten hatte, erschien sie nicht.«
 
 »Allerdings eine recht tolle Geschichte,« meinte Harald
 ironisch. »Nicht wert, auch nur den kleinen Finger deswegen
@@ -914,7 +914,7 @@ aber nun wirklich alles, was ich angeben kann, Mr. Harst.«
 »Oh — es genügt,« nickte Harald. »Es genügt, daß
 Sie gesund und ohne Schaden dieses Abenteuer überstanden
 haben, Mylady. — Mr. Kippwray, wir verabschieden uns.
-Auf Wiedersehen «
+Auf Wiedersehen.«
 
 Zehn Minuten darauf waren wir im Palais Scheldon.
 In der Vorhalle sagte Harald zu Lady Lydia leise: »Seien
@@ -1067,7 +1067,7 @@ Wagenkasten kamen. Dieses alles mietete Harst bis morgen
 früh. Dann zogen wir mit unserem Gefährt von dannen
 <@pagebreak/>
 und erwarben noch in einem Fahrradgeschäft zwei Räder
-mit recht großer Übersetzung, die im Wagenkasten hinter
+mit recht großer Übersetzung, die im Wagenkasten unter
 den Körben und ein paar Decken verstaut wurden. Auch
 ich mußte dort Platz nehmen. Außerhalb der Stadt verschwand
 ich dann ganz und gar, konnte aber durch das
@@ -1189,7 +1189,7 @@ Harald sprach. Seine Stimme war matt und seltsam
 tonlos.
 
 »Wo sind wir? Weshalb hast Du uns wie Verbrecher
-gefesselt?« — Mein Hirn funktionierte wieder. Ich faßte
+gefesselt?« — Mein Hirn funktionierte wieder. Ich erfaßte
 den Sinn der Worte. Ich merkte, daß Harst hier bereits
 wieder Herr der Situation zu werden suchte. Er tat ganz
 harmlos, als hätten wir nie den Mördern des Berufskollegen
@@ -1255,7 +1255,7 @@ als abermalige Unterkaste die vielgenannten Yogi, fälschlich
 als Fakire bezeichnet, hervor.
 
 Auch die Stimme verstellte dieses verkleidete Weib mit
-den spitz geschnittenen Nägeln tadellos. — Ein Gedanke
+den spitzgeschnittenen Nägeln tadellos. — Ein Gedanke
 schoß mir plötzlich durch den Kopf: dieser Bettler konnte
 vielleicht die hellblaue, hellblonde Dame aus der Gespenster-Rikscha
 sein!
@@ -1300,7 +1300,7 @@ und —«
 
 »Ah — Lady Pimberton!« fiel Harst ihm ins Wort.
 »Richtig, Lady Lydia! Gestatte, daß ich Dir sage, daß Du
-Dir widerspricht. Soeben erklärtest Du, daß Du uns töten
+Dir widersprichst. Soeben erklärtest Du, daß Du uns töten
 willst, weil Du ein Freund Dscham Daulis bist. Und doch
 hast Du heute Lady Lydia freigelassen, als Du erkanntest,
 daß Deine Leute die Falsche ergriffen hatten. Und — Lady
@@ -1325,7 +1325,7 @@ liegen, unsere Pistolen, Messer und mein Zigarettenetui.
 Willst Du mir nicht eine Zigarette gewähren?«
 
 <@pagebreak/>
-»Ja, wenn Du mir sagst, ob Du weist, wer der Mann
+»Ja, wenn Du mir sagst, ob Du weißt, wer der Mann
 ist, den man heute früh ermordet hinter der Ruine fand.«
 
 »Ein verkleideter Europäer ist’s, ein Detektiv aus
@@ -1339,7 +1339,7 @@ die Stimme nicht genügend verstellt.
 das Geheimnis der Gespenster-Rikscha aufzuklären,« sagte
 Harald ruhig.
 
-»Ich ahnte, das Du bereits —« Das Weib schwieg
+»Ich ahnte, daß Du bereits —« Das Weib schwieg
 plötzlich. —
 
 »— daß ich bereits recht viel ermittelt habe,« ergänzte
@@ -1356,12 +1356,13 @@ fragte er.
 Keine Antwort. Das Weib starrte in das Lampenlicht.
 Sie hielt die Lider stets so weit geschlossen, daß man die
 Augenfarbe nicht erkennen konnte. Sie schien zu überlegen.
+
 Und dann — dann sagte sie, offenbar jedes Wort genau
 abwägend:
 
 »Wenn Du versprichst, mit Deinem Freunde sofort abzureisen,
 Indien zu verlassen und mit niemandem mehr über
-das, was Dir hier begegnet ist zu sprechen, dann — sollt
+das, was Dir hier begegnet ist, zu sprechen, dann — sollt
 Ihr frei sein —«
 
 In demselben Moment tat sich rechts eine Tür auf.
@@ -1375,14 +1376,14 @@ und verharrte regungslos.
 
 <@pagebreak/>
 
-<h2>Fünftes Kapitel</h2>
+<h2>Fünftes Kapitel.</h2>
 
 »Dieses Versprechen gebe ich nicht,« erklärte Harald fest.
 »Ich warne Dich, uns zu beseitigen. Du würdest —«
 
 Die Frau hatte mit der rechten Hand schon nach dem
 Zigarettenetui gelangt, öffnete es und legte es dicht vor
-Harald auf den Tisch. Dann nahm sie Harsts Feuerzeug
+Harald auf den Tisch. Dann nahm sie Harsts Feuerzeug,
 ließ das Flämmchen aufflackern, steckte Harald eine Zigarette
 in den Mund und hielt das Flämmchen daran. Er rauchte;
 die Spitze der Zigarette glühte —
@@ -1515,7 +1516,7 @@ fragte ihn so nebenbei, ob hier in Bhopal sich unlängst
 Europäer niedergelassen hätten. So hörte ich von dieser
 alten Miß Elizabet Tompkins, wie sie sich hier nennt, die
 angeblich aus London gekommen ist, um hier indische Motive
-zu malen. In Wahrheit heißt sie Ethel Parrel, ist etwa
+zu malen. In Wahrheit heißt sie Ethel Parell, ist etwa
 24 Jahre alt und die sehr verwöhnte und sehr exzentrische
 Tochter des Oberingenieurs Parell.«
 
@@ -1587,7 +1588,7 @@ einen Teil der Straße dicht hinter der Tempelruine
 bildet. Die Gespenster-Rikscha verschwand stets in diesem
 Loche, nachdem sie sich durch Rauchbomben, die an ihr befestigt
 waren und die der hinterherlaufende Diener zur Entzündung
-brachte, unsichtbar gemacht hatte.« sagte er zu mir.
+brachte, unsichtbar gemacht hatte,« sagte er zu mir.
 »Diese Falltür vermutete ich sofort, als Lady Lydia uns
 erzählte, sie habe mit dem Gesicht nach der Tempelhalle
 hin gestanden. Also konnten die Leute, die sie überfielen,
@@ -1595,10 +1596,10 @@ nur von rückwärts gekommen sein —« — Gleich darauf
 hatten wir auch diese Frage gelöst. In einer Nebengrotte
 lag ein riesiger Haufen Maisstroh; daneben stand die weiße
 Rikscha. Auch unsere beschädigten Räder sahen wir hier
-wieder. Die Decke der hoch liegenden Grotte war durch
+wieder. Die Decke der hochliegenden Grotte war durch
 Balken zum Teil gestützt. Dazwischen hingen Ketten und
 ein Rad, über das ein Tau hinlief. Es war dies die primitive
-Maschinerie, um die Steinplatte, die sich eben in den
+Maschinerie, um die Steinplatte, die sich oben in den
 Felsboden der Straße genau einfügte, zu senken und zu
 heben. — »Man hat uns sehr schlau von den Rädern
 befördert,« meinte Harald. »Man hob die Platte über das
@@ -1617,9 +1618,10 @@ Scheldon.
 Wir waren hier zu vieren versammelt: das Ehepaar
 Scheldon und wir beide.
 
-»Mylord«, begann Harald, »ich habe Ihnen mitzuteilen,
+»Mylord,« begann Harald, »ich habe Ihnen mitzuteilen,
 daß die Dame aus der Gespenster-Rikscha verhaftet
 worden ist, ebenso deren Brüder Archibald und Thomas.
+
 <@pagebreak/>
 Ich kenne jetzt die ganzen Zusammenhänge. Doktor
 Gramsy hat mir manches erzählt, ebenso Detektivinspektor
@@ -1640,7 +1642,7 @@ erhielten Sie vor vier Wochen die Todesanzeige Ethels.
 Auch Dr. Gramsy, der noch vor einem Jahre in Indore
 Residenturarzt war, bekam diese Anzeige und einen Brief
 des alten Parell, daß seine Tochter in einen der größeren
-Schmelzofen gesprungen sei und daß man nach Ablöschen
+Schmelzöfen gesprungen sei und daß man nach Ablöschen
 des Ofens von ihr nur noch winzige Knochenreste gefunden
 habe. Doktor Gramsy erzählte Ihnen dies. Seitdem waren
 Sie zerstreut, nervös und bedrückt. Der Doktor hat Ihnen,
@@ -1655,7 +1657,7 @@ als die Verlobung von Ihrer Seite aufgehoben wurde. Sie
 stürzten vor Schreck vom Pferde, als Sie Ihre einstige, jetzt
 tote Geliebte in dieser Aufmachung an sich vorüberjagen
 sahen. — Als der Detektivinspektor mir dies erzählte, war
-daß Geheimnis für mich kein Geheimnis mehr. Ich sagte
+das Geheimnis für mich kein Geheimnis mehr. Ich sagte
 mir, daß Sie die hellblaue Dame kennen müßten. Vermutet
 hatte ich es schon vorher. Die Rikscha-Dame war hellblond.
 Und den Teil eines hellblonden Haarnetzes hatte ich
