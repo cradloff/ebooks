@@ -758,72 +758,68 @@ des Schachtes war vollkommen leer!
 
 Eine Stunde später …
 
-Nach Rücksprache mit der Prinzessin war jetzt die ganzes
+Nach Rücksprache mit der Prinzessin war jetzt die Polizei
 verständigt worden.
 
-Der Polizeichef von Bawalar, ein Jrläuoper namens
+Der Polizeichef von Bawalar, ein Irländer namens
 O’Neil, erschien persönlich mit zehn Beamten …
 
 Mahmud und die beiden anderen Wäscher wurden vernommen.
 Leugneten … Mahmud besonders war sehr
-ausgebracht darüber, daß man gegen ihn Verdacht hegte.
+aufgebracht darüber, daß man gegen ihn Verdacht hegte.
 
-Dann wurde der Palast »durchsucht. Wir beide haltet
+Dann wurde der Palast durchsucht. Wir beide halfen
 dabei.
-Bis fünf Uhr nachmittags wurde jeder Raum durch
-stoßend — nur mit dem Erfolg, daß im Dienerhause in eine
-Gerätekammer eine schwarz lackierte Bambusstange Seemann
-wurde, die aus fünf zusammenstecibaren Teilen bejiagttv
-und so eine Länge von etwa neun Vieler hatte. Au der
-Spitze der Stange waren zwei Drahtjilitinan besichtigt.
 
-Harald war überzeugt, daß diese Dja:je dazu gedient
-hatte, die Sapkas auf unseren Balkon zu treffen
+Bis fünf Uhr nachmittags wurde jeder Raum durchstöbert
+— nur mit dem Erfolg, daß im Dienerhause in eine
+Gerätekammer eine schwarz lackierte Bambusstange gefunden
+wurde, die aus fünf zusammensteckbaren Teilen bestand
+und so eine Länge von etwa neun Meter hatte. An der
+Spitze der Stange waren zwei Drahtschlingen befestigt.
 
-Die Stange gehörte einem der Barulgärmer, der sie Juni
-Pflücken von Früchten brauchte. Der Maul betonte, daß
+Harald war überzeugt, daß diese Stange dazu gedient
+hatte, die Sapkas auf unseren Balkon zu werfen.
+
+Die Stange gehörte einem der Parkgärtner, der sie zum
+Pflücken von Früchten brauchte. Der Mann betonte, daß
 die Stange bis vor kurzem weder schwarz lackiert gewesen
 sei noch die Drahtschlingen besessen habe.
 
-Die Leiche Miß Worringtons aber blieb verjicqwunden.
+Die Leiche Miß Worringtons aber blieb verschwunden.
 
-Harst bekannte O’Neil gegenüber, daß wir beide weicher
-nach der rotem suchen würden, daß es aber ausgeschlossen
+Harst bekannte O’Neil gegenüber, daß wir beide weiter
+nach der Toten suchen würden, daß es aber ausgeschlossen
 sei, daß die Dienerschaft an diesen letzten Vorgängen unbeteiligt
 sein könnte. Trotzdem bat er, nicht etwa die drei
-in der Waschküche beschäftigten Leute nicht zu übewacheit.
+in der Waschküche beschäftigten Leute *nicht* zu überwachen.
 
 »Wir werden diese Dinge nur aufklären, Mr. O’Neil,
-wenn wir mit äußerster Vorsicht vorgehen … Russe Sie
-Dir Angestellten des Palastes nochmals zusammen 1in0s
+wenn wir mit äußerster Vorsicht vorgehen … Rufen Sie
+Die Angestellten des Palastes nochmals zusammen und
 <@pagebreak/>
+geben Sie dabei unauffällig eine Art Ehrenerklärung für
+Mahmud ab …«
 
-Art u 1624
-Arbeit Sie dabei unauffällig eigenes Ehrenerklärung für
-Wamnud ab …«
-
-Einem
-
-Der Polizeichef war mit allem eitverstanden.
+Der Polizeichef war mit allem einverstanden. Einem
 Manne wie Harald gegenüber, der hier in Bawalar bei der
-Bevölkerung infolge seines Cintreten3 für die Prinzessin
-so beliebt war, durfte er sich schon ohne weiteres unter
+Bevölkerung infolge seines Eintretens für die Prinzessin
+so beliebt war, durfte er sich schon ohne weiteres unterordnen. —
 
-schnell. —
 So kam denn der Abend heran.
 
 Im Palaste herrschte wieder die frühere vornehme Ruhe
 und Stille …
 
 Gegen neun Uhr speisten wir mit der Prinzessin zur
-Nacht. Ar’wesend waren nech4 ein paar hohe Würdenträger
-der Residenz und der heute von einem längeren Urlaub zu-rücfgeschrte
-Leibarzt der Prinzessin, Mr. James Morton,
-ein älterer sreunndlicher Herr, der eilen überaus sympathischen
+Nacht. Anwesend waren noch ein paar hohe Würdenträger
+der Residenz und der heute von einem längeren Urlaub
+zurückgekehrte Leibarzt der Prinzessin, Mr. James Morton,
+ein älterer freundlicher Herr, der einen überaus sympathischen
 Eindruck machte.
 
 Ich muß noch bemerken, daß Harald die roten Raketen
-bisher nicht erwähnt und auch mir. verboten hatte, darüber
+bisher nicht erwähnt und auch mir verboten hatte, darüber
 irgendwie zu sprechen.
 
 Die Unterhaltung bei Tisch drehte sich notwendig um
@@ -831,79 +827,77 @@ Helene Worrington. Die Prinzessin hatte sich wieder vollkommen
 gefaßt und vermied es in keiner Weise, auf dieses
 rätselhafte Thema einzugehen.
 
-Doktor Worten verhielt sich zunächst schweigsam. Dann
-meinte er in seiner vorsichtigen Art, zum ja niemandem Un—rect
+Doktor Morton verhielt sich zunächst schweigsam. Dann
+meinte er in seiner vorsichtigen Art, um ja niemandem Unrecht
 zu tun:
 
 »Miß Worrington hat sich von mir wiederholt Morphium
-verschreiben lassen. —: Sie war gute(ist mit den Nerven
-voll herunter, sitzt an Gefcglösschmerzen und sogar an
-Wahnvorstellungen. ne hatte das Empfinden, als ob
-Frau: etwas sich freilich beträchtliche …
+verschreiben lassen … Sie war zuletzt mit den Nerven
+völlig herunter, litt an Gesichtsschmerzen und sogar an
+Wahnvorstellungen. Ich hatte das Empfinden, als ob
+irgend etwas sie seelisch bedrückte …«
 
-Harald, der hin/soeben bei Prinzessin saß, wartete, bis
-der jicvierende Diner den kleinen Speisesaal wieder verlassen
-l;hatte, und klappte dann den Leibarzt:
+Harald, der links neben bei Prinzessin saß, wartete, bis
+der servierende Diner den kleinen Speisesaal wieder verlassen
+hatte, und fragte dann den Leibarzt:
 
-»Worin äußerten sich diese Wahnvorstellungen?
+»Worin äußerten sich diese Wahnvorstellungen?«
 
-»Spion blickte auf seinen Teller …
+Morton blickte auf seinen Teller …
+
 <@pagebreak/>
-
 »Hm — ich weiß nicht recht, ob ich nicht die ärztliche
-»Schweigepflicht verlegen würde, wenn ich …
+Schweigepflicht verletzen würde, wenn ich …«
 
-Bitte, es handelt sich um eine Tote und um einen Kri-minalsas,
-Mr. Worten,« fiel Harald ihm höflich ins Wort …
+»Bitte, es handelt sich um eine Tote und um einen Kriminalfall,
+Mr. Morton,« fiel Harald ihm höflich ins Wort …
 »Immerhin, vorläufig wäre eine Auskunft Ihrerseits auch
-kam wichtig. Ich) glaube, meine Herren« — und nun
-Markise er sich an die gesamte Tischrande, »wir reden besser
+kaum wichtig. Ich glaube, meine Herren« — und nun
+wandte er sich an die gesamte Tischrunde, »wir reden besser
 über andere Dinge … Ihre Hoheit, die Prinzessin, dürfte
 durch dieses Thema kaum angenehm berührt werden …«
 
-Und in reichsten Plauderton:
+Und in leichtem Plauderton:
 
 »Mein Interesse für alte Bauwerke drängt mir eine
-Frage auf … Es handelt sich um die Moschee aus dem
+Frage auf … Es handelt sich um die Moschee auf dem
 Mohammedaner-Friedhof, von der nur noch das eine Minarett
-verknotet: ist … Ob man die Moschee besichtigen
+vorhanden ist … Ob man die Moschee besichtigen
 kann?«
 
 Morton erwiderte achselzuckend:
 
-»ir. Harst, es handelt sich lediglich um eine Ruine, in
-die man kann noch hineingelangt, da alles völlig mit Unkraut
-überwuchert ist … Nur das Minarett [sagen Sie
+»Mr. Harst, es handelt sich lediglich um eine Ruine, in
+die man kaum noch hineingelangt, da alles völlig mit Unkraut
+überwuchert ist … Nur das Minarett können Sie
 besteigen … Die Treppen sind noch vorhanden und
 sicher …«
 
 Er schaute Harald dabei ganz seltsam an …
 
-Und der meinte nun! »Die Mühe will ich mir denn
+Und der meinte nun: »Die Mühe will ich mir denn
 doch sparen, Mr. Morton … Es könnte sich bei dem Minarett
-ja nur um die Aussicht handeln …
+ja nur um die Aussicht handeln …«
 
-Als wir dann nach ausgehobener Insel uns verabschiedeten,
+Als wir dann nach aufgehobener Tafel uns verabschiedeten,
 weil die Prinzessin sich sofort zurückziehen wollte,
 flüsterte James Morton uns hastig zu …:
 
-»ah komme um halb elf zu Ihnen nach oben …
+»Ich komme um halb elf zu Ihnen nach oben …«
 
-Und Punkt halb elf klopfte es denn und) leise an unsere
-Baronin …
+Und Punkt halb elf klopfte es denn auch leise an unsere
+Salontür …
 
-Der Doktor Draht schnell ein …
+Der Doktor trat schnell ein …
 
-»Licht au8l« bat er …
+»Licht aus!« bat er …
 
 Harald drehte den Schalter …
 
-Worten — ganz leise: »Es ist besser, daß mich niemand
-hier sieht … Der Mondschein gibt uns genug versucht-DDWD0OoODE8DO0DSSSOS
+Morton — ganz leise: »Es ist besser, daß mich niemand
+hier sieht … Der Mondschein gibt uns genug Beleuchtung
 <@pagebreak/>
-Setzen wir uns dicht zusammen Trick habe
-
-Zeitung — —
+… Setzen wir uns dicht zusammen. Ich habe
 mancherlei mit Ihnen zu besprechen …
 
 wir rückten drei Korbsessel eng aneinander …
@@ -911,179 +905,181 @@ wir rückten drei Korbsessel eng aneinander …
 Und der Doktor begann:
 
 »Mr. Harst, Ihre Frage nach der Moschee hat mich
-aus eine besondere Vermutung gebracht …
+auf eine besondere Vermutung gebracht …«
 
-»tat Uhr Blick mich fleichsalle auf eine ähnliche Ver-nmutung,
-Mr. Morton … — Sie haben die Raketen eben
+»Und Ihr Blick mich gleichfalls auf eine ähnliche Vermutung,
+Mr. Morton … — Sie haben die Raketen ebenfalls
+gesehen?«
 
-hatte gesehen?«
-Ja ja! Das heißt: eine Rakete, Mr. Harst! Die
-
-neben dem Mitntarett …
+»Ja — ja! Das heißt: eine Rakete, Mr. Harst! Die
+neben dem Minarett …«
 
 »und — sollten Miß Worringtons Wahnvorstellungen
-vielleicht nicht der Rakete zusammenhängen! er
+vielleicht mit der Rakete zusammenhängen?«
 
-»ha, Mr. Harst … — Je) will Ihnen beiden nun
-über diesen Punkt reinen Wein Keinschenfen .- … — Helene
+»Ja, Mr. Harst … — Ich will Ihnen beiden nun
+über diesen Punkt reinen Wein einschenken … — Helene
 Worrington und ich standen eines Abends auf dem Balkon
-der großen Bibliothek … Man Hand von dort aus bis
-zu dem Mohammedanerfriedhof-. hinüberschauen. Es war
-gegen elf Uhr … Mit einem Male erblickte sich in der
+der großen Bibliothek … Man kann von dort aus bis
+zu dem Mohammedanerfriedhof hinüberschauen. Es war
+gegen elf Uhr … Mit einem Male erblickte ich in der
 Ferne neben dem Minarett eine Rakete, die rote Leuchtkugeln
-anusstreunte. Ich wunderte mich darüber, denn hier in
-Bawalar wird seiten Feuerwerk abgebrannt. Ich hatte
-Miß Helene aus die Rakete ausmerksjam gemacht. Und da
+ausstreute. Ich wunderte mich darüber, denn hier in
+Bawalar wird selten Feuerwerk abgebrannt. Ich hatte
+Miß Helene auf die Rakete aufmerksam gemacht. Und da
 meinte sie, indem sie sich in einem Anfall von Schwäche an
 mich lehnte, ich müsse mich getäuscht haben … Das sei
 gar keine Rakete gewesen … Sie jedenfalls habe nichts
-Derartiges gesehen … — Und im Aufschluß hieran teilte
-sie mir in. unbegreiflicher Aufregung mit, daß sie an allerlei
-Gehör- und Gesichtstäuschungen leise … Z« hatte das
+Derartiges gesehen … — Und im Anschluß hieran teilte
+sie mir in unbegreiflicher Aufregung mit, daß sie an allerlei
+Gehör- und Gesichtstäuschungen leide … Ich hatte das
 ganz bestimmte Empfinden, daß sie mir dadurch einreden
 wollte, auch ich hätte soeben eine Rakete nur zu sehen geglaubt.
 — Bisher hatte ich dieser kleinen Szene keinerlei
-Bedeutung »beigemessen. geht verhält es sich hiermit
-anders …
+Bedeutung beigemessen. Jetzt verhält es sich hiermit
+anders …«
 
-»Allerdings…« nickte Harald. »Haben Sie die Papiere
-noch häufiger um dieselbe Zeit erblickt, Mr… Morton«
+»Allerdings …« nickte Harald. »Haben Sie die Rakete
+noch häufiger um dieselbe Zeit erblickt, Mr… Morton?«
+
 <@pagebreak/>
+»Ja … Ich ging dann auf Urlaub … Unsereiner
+bewertet derartiges nicht so ernst wie Sie, Mr. Harst …«
 
-»30 … Ob ging dann auf Urlaub … Unsereiner
-bewertet derartiges Wut so ernst wie Sie, Mr. Harst …«
+»Wie oft sahen Sie die Rakete?«
 
-»Wie Ost sahen Dich die unsere?«
-
-»Vielleicht fünf Mal … — Wird sie denn noch) immer
+»Vielleicht fünf Mal … — Wird sie denn noch immer
 abgebrannt?«
 
-»Ja … Wenigstens gestern nacht war sie noch) deutlich
+»Ja … Wenigstens gestern nacht war sie noch deutlich
 zu sehen … Und wie es in dieser Nacht sein wird,
-können wir in kurzem gestellten. Bleibt die Rakete diese
-Nach! aus, nachdem ich sich vier machte hintereinander beobachtet
+können wir in kurzem feststellen. Bleibt die Rakete diese
+Nacht aus, nachdem ich sie vier Nächte hintereinander beobachtet
 habe, dann … dann … ist das ein böser Beweis
-gegen Mahmud…« —
+gegen Mahmud …« —
 
-Und als wir drei van um elf am Fenster standen, als
-wir mit Rauschen Feorngla er! dar Minmuclt um Mondlicht
-recht klar Bekamst, da … Falle Wir umsonst.
+Und als wir drei dann um elf am Fenster standen, als
+wir mit unseren Ferngläsern das Minarett im Mondlicht
+recht klar erkannt, da … warteten Wir umsonst.
 
-Die Rakete … blieb »noch …
+Die Rakete … blieb aus …
 
-Um ein Viertel zwölf ((.sich der Doktor ein seine sind
-wer in den Hauptflügel tun … —
+Um ein Viertel zwölf schlich der Doktor in seine Zimmer
+in den Hauptflügel zurück … —
 
-Wir beide aber vorn: unseren 113 in innen in bärtige
-ärmere Inder wird begaben uns ebenso beruflich zu dem.
-alten Sadik, der uns dank 6 die Stellen begleitete und uns
-die eine Geheimtür öffnete, bitter) die wir in Tier gerunzelter
-Gang und in sitzen zerfallenen Pavillon alt der Fall
+Wir beide aber verwandelten uns in kurzem in bärtige
+ärmere Inder und begaben uns ebenso heimlich zu dem
+alten Sadik, der uns dann in die Keller begleitete und uns
+die eine Geheimtür öffnete, durch die wir in einen gemauerten
+Gang und in einen zerfallenen Pavillon an der Parkmauer
+gelangten …
 
-Mauer gelangten …
-Um zwölf hatten wir uns in der Nähe dieses Paar
-
+Um zwölf hatten wir uns in der Nähe dieses
 Pavillons verborgen …
 
 Harald hatte nämlich Sadik und mir erklärt:
 
-»Wem Unkraut in dieser Nach: dunkle Wege zu wann
+»Wenn Mahmud in dieser Nacht dunkle Wege zu wandeln
+gedenkt, kann er nur diesen Ausgang benutzen — der
+Wachen wegen …!«
 
-handeln gedenkt, Lärm er nur linken An lang begossen — der:
-Notizen wegen …!«
+Eine halbe Stunde verstrich …
 
-Eine Flasche stand verstrich …
 Wir konnten die Steintreppe des Pavillons bequem
 übersehen …
 
 Wir hatten Geduld …
 
-Not eine Viertelstunde …
+Noch eine Viertelstunde …
 
-van im Cinannug öoc€ Pavillons eine vermuwmemte
+Dann … im Eingang des Pavillons eine vermummte
+Frauengestalt …
 
-« fAengestalti
 <@pagebreak/>
+Sie steht regungslos …
 
-Sie frei regungslos …
-Winautenlanq …
-Berjänviidet wieder —
-… man zum vor leer — in den Arien einen Zufall:
-nen Gewissen große Teppich …
-Die fast muß gepaart sein …
+Minutenlang …
 
-Die Altan wir,
-Und schreitet zur nahen Vater … Ahmt tadellos den
+Verschwindet wieder —
 
-schildern ah des iedischvit Rachtkäuzehens diciätal nach …
+Und erscheint von Neuem — in den Armen einen
+zusammengerollten großen Teppich …
 
-Fieber die Vater salzigen sich zwei Männer
+Die Last muß schwer sein …
 
-webhwen dem Weibe zvworilos die Teppichrolle ab …
+Die Frau keucht …
 
-steuern zurück über die Mauer … mit dem Teppich.
+Und schreitet zur nahen Mauer … Ahmt tadellos den
+schrillen Ruf des indischen Nachtkäuzchens dreimal nach …
 
-Das Weib ist langst wieder in der dunklen Pavillon-Auge
-untergetand)t …
+Über die Mauer schwingen sich zwei Männer …
 
-Hut wir warten …
+Nehmen dem Weibe wortlos die Teppichrolle ab …
 
-dann — auch) wir über die Mauer …
+Klettern zurück über die Mauer … mit dem Teppich.
+
+Das Weib ist längst wieder in der dunklen Pavillonruine
+untergetaucht …
+
+Und wir warten …
+
+dann — auch wir über die Mauer …
 
 Gerade noch zur rechten Zeit …
 
-Im Mondlicht auf diesem stillen Wege ein zweifaches
-eifriger Karren und die beiden Inder — schoß weit entfernt …
+Im Mondlicht auf diesem stillen Wege ein zweiräderiger
+Karren und die beiden Inder — schon weit entfernt …
 
-Wir bleiben hinter ihnen — unsichtbar … Und aus
-einsamen Feldwegen nähern wir uns so dem Mohamme-dancrriedhosf
+Wir bleiben hinter ihnen — unsichtbar … Und auf
+einsamen Feldwegen nähern wir uns so dem Mohammedanerfriedhof
 …
 
-Gehen das schaute Minarett immer deutlicher …
+Sehen das schlanke Minarett immer deutlicher …
 
-An der Friedhossmaner hält der Karren …
+An der Friedhofsmauer hält der Karren …
 
 Die Inder eilen durch eine kleine offene Pforte auf den
-Sprecher … Wir sind schon neben dem Karren …
+Friedhof … Wir sind schon neben dem Karren …
 
 Verwesungsgeruch entströmt der dicken Teppichrolle …
-Nur schwand) gemildert durch Karbol …
+Nur schwach gemildert durch Karbol …
 
-Und wir gleiten zurück ins Gebüsch … Gleich) daraus
-… oder die beiden Inder … Sie tragen den getollten
+Und wir gleiten zurück ins Gebüsch … Gleich darauf
+wieder die beiden Inder … Sie tragen den gerollten
 Teppich mit seinem unheimlichen Inhalt davon …
+
 <@pagebreak/>
 
-4\. Kapitel,
-Die schöne seien in T-
+<h2>4. Kapitel.</h2>
+<h3>Die schöne Saßtala.</h3>
 
-Es war vielleicht Haralds feinsten Trick, daß er sich
+Es war vielleicht Haralds feinster Trick, daß er sich
 hütete, diese beiden Inder irgendwie zu stören. Wir begnügten
-uns damit zu beobachten, wie die beiden dein Teppich
-in eine Ernst legten, nachdem sie deren Deckel, eine
-ich)freie Steinplatte, emporschießen hatten. Die Platte legten
-sie dann wieder über das ausSgemaunerte alle Grab, das
+uns damit zu beobachten, wie die beiden den Teppich
+in eine Gruft legten, nachdem sie deren Deckel, eine
+schwere Steinplatte, emporgehoben hatten. Die Platte legten
+sie dann wieder über das ausgemauerte alte Grab, das
 im verwildertsten Teile des Friedhofs sich befand, und
 schlichen davon.
 
 Der Kleidung nach waren es ärmere Leute, beide
 schwarzbärtig und sehr groß. — Den Karren brachten sie nun
-nach) einem kleinen Grundstück vor der Stadt und ließen ibh1
-hier aus dem Hose stehen. Sie selbst wanderten weiter und
-gelangten — wir stets hinter ihnen — — zu die Mauer eines
-größeren Gartens, Über die Sinnes sie verschwanden. Hier
+nach einem kleinen Grundstück vor der Stadt und ließen ihn
+hier auf dem Hofe stehen. Sie selbst wanderten weiter und
+gelangten — wir stets hinter ihnen — — an die Mauer eines
+größeren Gartens, Über die hinweg sie verschwanden. Hier
 verloren wir ihre Spur.
 
-Der Park war tadellos gepflegt. Nach ein paar Kratzten
-standen wir im Baumschatten vor einem modernen Bunuga-
-(lau, fraglos einer Curopäcrwohnuitg.
+Der Park war tadellos gepflegt. Nach ein paar Minuten
+standen wir im Baumschatten vor einem modernen Bungalow,
+fraglos einer Europäerwohnung.
 
 Alle Fenster waren dunkel …
 
-Wir warteten eine Viertelstunde und mwuschlichen wichr-pials
-das elegante Haus. Rebus der Fenster wurde hell,
+Wir warteten eine Viertelstunde und umschlichen mehrmals
+das elegante Haus. Keins der Fenster wurde hell,
 
-Da gaben wir es aus und warteten uns der Vorderseite
+Da gaben wir es auf und wandten uns der Vorderseite
 des Gartens zu. Kletterten wieder über die Mauer und
 waren nun in einer der Hauptstraßen des Europäerviertels
 am Bahnhof.
@@ -1093,154 +1089,162 @@ mehr zu unternehmen. Nach einer Stunde mußte es hell
 werden …
 
 Wir beeilten uns, auf demselben Wege in den Palast
-der Prinzessin zurückzukehren — durch) den Pavillon und die
+der Prinzessin zurückzukehren — durch den Pavillon und die
 geräumigen Keller.
 
-&u dem gemauerten Gang aber, der den Pavillon mit
+In dem gemauerten Gang aber, der den Pavillon mit
 <@pagebreak/>
-der Ceheiutür ist den Kellern verkauft, hatte der vpaus-meiftts
-Dorf eng) Haralds Liebreiz gleich nachdem wir uns
-von Flut Scheint hatten stellenweise Schufte so)war:gqraue
-Pfenasch- 0 »aehchlilet — in Grase können Schicht, so daß
-an by ist Ei sein um jede Fußspur klar abzeichnen mußte.
-las, was Harst hicunit bezweckt, ergab ein. über
-Fumgettueo Viejzpltut: Rohr fanden die Fährte von zierlichen
-Fratenicuhen und … nicht die Mainacht, wie wir vermute?
-hatte?!
+der Geheimtür in den Kellern verband, hatte der Hausmeister
+Sadik auf Haralds Geheiß gleich nachdem wir uns
+von ihm getrennt hatten stellenweise feinste schwarzgraue
+Ofenasche ausgeschüttet — in ganz dünner Schicht, so daß
+an diesen Stellen sich jede Fußspur klar abzeichnen mußte.
 
-Harald war Überfahrt
+Das, was Harst hiermit bezweckt, ergab ein überraschendes
+Ergebnis: Wir fanden die Fährte von zierlichen
+Frauenschuhen und … nicht die Mahmuds, wie wir vermutet
+hatten!
+
+Harald war überrascht …
 
 Nochmals musterte er die Spuren im Lichte seiner
 Taschenlampe …
 
-Es waren zweifellos die Abdrücke von Frauenscniben,
-und es ersinnen gänzlich aucgeschlossen, daß etwa Mahmud
-aus wahrlich diese zierlichen Pantösjfelcen Übergestreift
+Es waren zweifellos die Abdrücke von Frauenschuhen,
+und es erschien gänzlich ausgeschlossen, daß etwa Mahmud
+aus Vorsicht diese zierlichen Pantöffelchen Übergestreift
 haben konnte.
 
-Nachdem wir dann noch die verräterischmen Stellen
-sämtlich mit einem Tuche geglättet und die Asche weggelegt
+Nachdem wir dann noch die verräterischen Stellen
+sämtlich mit einem Tuche geglättet und die Asche weggefegt
 hatten, erreichten wir unbemerkt unsere Zimmer und gingen
 sofort zu Bett …
 
-Der Morgen ’grante bereits, als ich) endlich einschlief.
-
-noch vor dem Zubettgelyeit hatte »Harald mir versichert, daß
-ihm dieses Problem »Note Rakete« genau so unklar sei wie
+Der Morgen graute bereits, als ich endlich einschlief.
+Noch vor dem Zubettgehen hatte Harald mir versichert, daß
+ihm dieses Problem »Rote Rakete« genau so unklar sei wie
 mir …
+
 »Die Dinge sind außerordentlich verzwickt, mein Alter.
-Wir »müssen mit Geduld und Seltsamkeit diesem Rätsel auf
-den Leib rücken, sonst fönmnnen wir uns böse dabei die Finger
+Wir müssen mit Geduld und Achtsamkeit diesem Rätsel auf
+den Leib rücken, sonst können wir uns böse dabei die Finger
 verbrennen.«
 
-Nur eins gab er zu: daß er der Ueberzeugnung gewesen,
-Mahmud habe die Leute, die die Raketenstqnale austauschten,
+Nur eins gab er zu: daß er der Überzeugung gewesen,
+Mahmud habe die Leute, die die Raketensignale austauschten,
 gewarnt, und daß nunmehr die Frage zu lösen sei, ob
-Mahmud etwa mit einer der drei Dienerinnen der Pritt-zessin
+Mahmud etwa mit einer der drei Dienerinnen der Prinzessin
 (mehr weibliche Angestellte gab es hier nicht) unter
 einer Decke stecke.
 
-Ich schloß ein …
+Ich schlief ein …
+
 Und noch im Traum beschäftigte mein Hirn sich mit
 <@pagebreak/>
-dem größten Rätsel: Wo war Helene Woriingionr? Leiche
-hier im Palast Verbrechen gewesen 4! —
+dem größten Rätsel: Wo war Helene Worringtons Leiche
+hier im Palast verborgen gewesen?! —
 
-Um halb sieben bereits weckte Harald mich wieder
+Um halb sieben bereits weckte Harald mich wieder …
 
-Um sieben saßen wir und der Praunzessin und Doktor
-Morton aus der kühlen Nordterriic Bein Frühstück.
+Um sieben saßen wir mit der Prinzessin und Doktor
+Morton auf der kühlen Nordterrasse beim Frühstück.
 
-Nun wurde, als der austvaiienve kleinen sein)kramten,
-von Harald alles berichtet, was wir nachts schob! harten.
+Nun wurde, als der aufwartende Diener verschwunden,
+von Harald alles berichtet, was wir nachts erlebt hatten …
 
-»Hoheit,« erklärte Harst dann, »Sie kennen Ihre Diele
-rinnen am besten … Welche von der: dreien hat die kleinsten
-Füße … Die indischen Pantoffeln der betresjsenden
-Person maßen genau fünfundzwanzig Seminolen … ich«
+»Hoheit,« erklärte Harst dann, »Sie kennen Ihre Dienerinnen
+am besten … Welche von den dreien hat die kleinsten
+Füße … Die indischen Pantoffeln der betreffenden
+Person maßen genau fünfundzwanzig Zentimeter …«
 
 Prinzessin Sadukala seufzte schmerzlich …
 
-»Räumen mehr stürmt auf wich ein.« einte sie leise.
-» Nicht genug, daß mir der Gatte geneigten wurde: jetzt
-muß ich auch noch an der Treue deren zweifeln, die jahrelang
+»Immer mehr stürmt auf mich ein,« meinte sie leise.
+»Nicht genug, daß mir der Gatte genommen wurde: jetzt
+muß ich auch noch an der Treue derer zweifeln, die jahrelang
 um mich waren … — Nur meine Dienerin Saßtala
-komm! hier in Frage … Partie …! — Sie haben Saßtala
-so und so Ost gesehen, Mr. Harst … — — Vor vier Jahren
+kommt hier in Frage … Nur sie …! — Sie haben Saßtala
+so und so oft gesehen, Mr. Harst … Vor vier Jahren
 kam sie als halbes Kind zu mir … Sie ist schön und anmutig,
-ist meines Stammes, Priwarcesin … — mag soll
+ist meines Stammes, Priwaresin … — Was soll
 nun geschehen?!«
 
-»Vorläufig nichts … — IJ möchte bemerken, Hoheit,
+»Vorläufig nichts … — Ich möchte bemerken, Hoheit,
 daß Ihre Privaträume gestern nicht durchsucht worden sind,
-weil wir dies als überiliysig »erachtcick. Gibt es ein sind
-wer, das Sie selten beste:Du«?«
+weil wir dies als überflüssig erachteten. Gibt es ein Zimmer,
+das Sie selten betreten?«
 
 Die Prinzessin überlegte …
-… Das Schar Zimmer neben weint Bad
-Und »auch die anderes reisen Tielttiiknen baten dort keinen
-Zutritt. Saßtala hat die Aussicht über meine Garderobe, ist
-nach euzopäischen Begriffen eben meine Kammerzofe …«
-»Und Sie waren gestern nicht in diesen! Schianfzimamer,
 
-Habichts«
-»Nein, seit Tagen nicht … — Planken Sie etwa,
-daß«
+»Ja … Das Schrankzimmer neben meinem Bad …
+Und auch die anderen beiden Dienerinnen haben dort keinen
+Zutritt. Saßtala hat die Aufsicht über meine Garderobe, ist
+nach europäischen Begriffen eben meine Kammerzofe …«
 
-Sie führte den Satz nicht zu Ende, warne bleich …
-Es war zu verstehen, das bei Gedanke, die Tote könnte
+»Und Sie waren gestern nicht in diesem Schrankzimmer,
+Hoheit?«
+
+»Nein, seit Tagen nicht … — Glauben Sie etwa,
+daß …«
+
+Sie führte den Satz nicht zu Ende, wurde bleich …
+
+Es war zu verstehen, das der Gedanke, die Tote könnte
 <@pagebreak/>
 in einem der Schränke verborgen gewesen sein, sie erschauern
-
 ließ. —
-Harald schob die Teetasse Zuruf, nahm eine Zigarette
 
+Harald schob die Teetasse zurück, nahm eine Zigarette
 und erklärte ebenso leise:
 
-»Hoheit, ich bitte Sie, Saßtala mit irgend einem Austrag
-zur Stadt zu schicken … — Und — noch etwaC€:
-Haben Sie gemerkt, daß Saßtala mit Mahmud besonderc€
-vertraut sieht?«
+»Hoheit, ich bitte Sie, Saßtala mit irgend einem Auftrag
+zur Stadt zu schicken … — Und — noch etwas:
+Haben Sie gemerkt, daß Saßtala mit Mahmud besonders
+vertraut steht?«
 
-»Lieber Mr. Harst? Saßtala ist … seine Enkelin —
+»Lieber Mr. Harst: Saßtala ist … seine Enkelin —
+— leider! — Leider, denn ich muß …«
 
-— leider! — Leiter, denn ich muß …«
-»Hoheit, Verzeihung: man soll nie vorschnell Vorurteil
-
-wollen, nie vorschnell ein Urteil über einen Menschen fallen!«
-
+»Hoheit, Verzeihung: man soll nie vorschnell verurteilen,
+nie vorschnell ein Urteil über einen Menschen fällen!«
 Wir müssen erst prüfen … Vielleicht liegen die Dinge so,
-»jj; Saßtala doch nicht in dem Maße schuldig ist, wie es
-scheint …
+daß Saßtala doch nicht in dem Maße schuldig ist, wie es
+scheint …«
 
-Und dann 1 zu Doktor Morton:
-»Doktor, die dürsten das Europäerviertel am Bahnhof
+Und dann zu Doktor Morton:
+
+»Doktor, Sie dürften das Europäerviertel am Bahnhof
 besser als die Prinzessin kennen … Ich will Ihnen nun
-den Bungalow Zollkutter beichreibeit, zu dem die beiden, sangen
-Inder wahrscheinlich ne: sehen«— als Diener …
-Morton wußte sehr bald Bescheid
-»Das kann mir der Besitz des Polizeichefs O’Nell sein,«
+den Bungalow genauer beschreiben, zu dem die beiden langen
+Inder wahrscheinlich gehörten — als Diener …«
 
-sagte er sehr bestimmt, »O’Neil
+Morton wußte sehr bald Bescheid …
 
-Er schwieg, denn Harald halte P5ö6lich die Stirn mit
-der Linken Ansporn! und den Kopf Elf gesenkt! ein Wild so
-Intensiven Nachdenkens — 8 Morton von selbst der, linke.
-»Wie lange ist O’L.«cil in Bawalars« fragte Harald
+»Das kann nur der Besitz des Polizeichefs O’Neil sein,«
+sagte er sehr bestimmt, »O’Neil …«
 
-dann, ohne sich« zu lagen,
+Er schwieg, denn Harald hatte plötzlich die Stirn mit
+der Linken umspannt und den Kopf tief gesenkt: ein Bild so
+intensiven Nachdenkens daß Morton von selbst verstummte.
+
+»Wie lange ist O’Neil in Bawalar?« fragte Harald
+dann, ohne sich zu regen …
 
 »Zwei Jahre …«
-»Und Helene Worrington kam ebenfalls vor zwei Jahr
 
-Havelseen hierher…« Kiste Sturz! und ließ Erstand sinken …
+»Und Helene Worrington kam ebenfalls vor zwei Jahren
+hierher…« nickte Harst und ließ die Hand sinken …
+
 Morton rief leise:
-»oben Sie etwa O’Neil verdächtigen?«
-»30 will nur fragen, Doktor, ob O’Neil einwandfrei
-ich … woher kam er«
-Die Prinzessin ausbreitete anstelle Mortons:
-<@pagebreak/>
 
+»Wollen Sie etwa O’Neil verdächtigen?«
+
+»Ich will nur fragen, Doktor, ob O’Neil einwandfrei
+ist … woher kam er?«
+
+Die Prinzessin antwortete anstelle Mortons:
+
+<@pagebreak/>
 »Er bewarb sich um die Stelle von England aus …
 Seine Zeugnisse waren tadellos. Mein Schwiegervater,
 der verstorbene Radscha, wählte gerade O’Neil aus und war
@@ -1251,39 +1255,39 @@ Harald trocken.
 
 Morton jetzt:
 
-»Sein Sohn Vater O’Neil, der beim Residenten einen
-Bitroposten bekleidet …«
+»Sein Sohn Patrick O’Neil, der beim Residenten einen
+Büroposten bekleidet …«
 
-»Und dieser Vater hat dieselbe Größe wie sein Vater?«
+»Und dieser Patrick hat dieselbe Größe wie sein Vater?«
 
-»Ja ja … allerdings…« stotterte Morton verwirrt.
-»Mein Gott, wäre es denn möglich, daß.«
+»Ja ja … allerdings …« stotterte Morton verwirrt.
+»Mein Gott, wäre es denn möglich, daß …«
 
-… daß die beiden Inder, die die Leiche in dem Teppich
-auf »dem Karren weggelassen, etwa die beiden O’Neils
-gewesen sind?! — Ja, Doktor, das ist sogar sehr twahr-scheinlich
-…
+»… daß die beiden Inder, die die Leiche in dem Teppich
+auf dem Karren wegschafften, etwa die beiden O’Neils
+gewesen sind?! — Ja, Doktor, das ist sogar sehr wahrscheinlich
+…!«
 
-Und b kurzen Nachsinnen:
+Und nach kurzem Nachsinnen:
 
 »Hoheit, ist Ihnen Patrick O’Neil persönlich bekannt?«
 
-»Zu … Er hat in England moderne Sprachen
-riskiert, aber kein Examen gemacht … Ich hatte bei in«
-ein halbes Jahr englischen und französischen Unterricht …
+»Ja … Er hat in England moderne Sprachen
+studiert, aber kein Examen gemacht … Ich hatte bei ihm
+ein halbes Jahr englischen und französischen Unterricht …«
 
-ins — Saßtalas!«
+»Und — Saßtala?!«
 
-Die Prinzessin seufzte wieder, …
-»Mr. Harst, Sie denken auch an alles … Ja — Satz
+Die Prinzessin seufzte wieder …
 
+»Mr. Harst, Sie denken auch an alles … Ja —
 Saßtala Hat auf meinen Befehl bei ihm englischen Unterricht
 genommen …«
 
-»Hoheit, dann … ist wieder ein Glied der Seite geschmiedet
+»Hoheit, dann … ist wieder ein Glied der Kette geschmiedet
 …! Saßtala und Patrick mögen durch diese
 englischen Stunden miteinander sehr vertraut geworden
-sein … vielleicht …
+sein … vielleicht …«
 
 Er rauchte hastig ein paar Züge …
 
@@ -1291,79 +1295,78 @@ Sein Gesicht war versonnen …
 
 Und unvermittelt dann zu Morton:
 
-»Doktor, ob starr Helene Worrington Patrick geliebt
-bat? — Helene war nicht mehr jung … Aber die Liebe:
+»Doktor, ob etwa Helene Worrington Patrick geliebt
+hat? — Helene war nicht mehr jung … Aber die Liebe
 <@pagebreak/>
+eines alternden Mädchens ist leidenschaftlicher und
+rücksichtsloser …«
 
-eines alternden Mädchens ist leidenschaftlicher und Aussichten
-
-loser …«
 Der brave Doktor betupfte sich die Stirn mit dem
-Tajichentnch …
+Taschentuch …
 
-»Wir … mir wird heiß und kalt, Mr. Harst … Sie
+»Mir … mir wird heiß und kalt, Mr. Harst … Sie
 stoßen mich auf Dinge, die mir bisher gleichgültig waren
-und die jetzt durch Sie eine fehlerhafte Bedeutung gewinnen.
+und die jetzt durch Sie eine schreckhafte Bedeutung gewinnen.
 — Ja, Helene Worrington war trotz ihrer vierzig Jahre
-in den rum zwölf Jahre jüngeren Patrick derart beschlossen,
-daß man darüber hier in der kleinen Europäerkolonie westlich
+in den um zwölf Jahre jüngeren Patrick derart verschossen,
+daß man darüber hier in der kleinen Europäerkolonie weidlich
 spottete … — Nehmen Sie nun etwa an, daß Saßtala
-die Worrington … verschwinden lich?«
+die Worrington … verschwinden ließ?«
 
 »Doktor, ich nehme dies und anderes an … Annahmen
-sind jedoch) keine Tatsachen. Vermutungen wollen bewiesen
-werden, dann erst sind sie hör’ mich Tatsachen …«
-— Und zu der Prinzessin: »Wenn Hoheit sehr so biedere
-würdig sein wollten, Saßtala mit einem Briefe zu O’Neil
-zu schien … Der Brief soll etwa lauten: Harst bat
+sind jedoch keine Tatsachen. Vermutungen wollen bewiesen
+werden, dann erst sind sie für mich Tatsachen …«
+— Und zu der Prinzessin: »Wenn Hoheit jetzt so liebenswürdig
+sein wollten, Saßtala mit einem Briefe zu O’Neil
+zu schicken … Der Brief soll etwa lauten: Harst hat
 Neues ermittelt, das wir insgeheim miteinander besprechen
-wollen … — las würde genügen, Hoheit …«
+wollen … — Das würde genügen, Hoheit …«
 
-Und eine Viertelstunde drang hatten wir das Schrankzimmer
+Und eine Viertelstunde drauf hatten wir das Schrankzimmer
 besichtigt. Es roch hier so stark nach Parfüm, daß
-nur Haralds seine Nase in einem leeren Schranke, dessen
-Türen weit offenstanden, unten am Boten noch schwacher
+nur Haralds feine Nase in einem leeren Schranke, dessen
+Türen weit offenstanden, unten am Boden noch schwachen
 Verwesungsgeruch feststellte, obwohl die Bodenbretter mit
-Parfüm förmlich durch«;tränkt waren.
+Parfüm förmlich durchtränkt waren.
 
-Wir beide, allein in diesem Gemach, Westen uns zu …
+Wir beide, allein in diesem Gemach, nickten uns zu …
 Und Harst meinte: »Die übliche Verbrecherdummheit! Das
-Parfüm und die offenen Türen — Hund Auflösten — besagen
+Parfüm und die offenen Türen — zum Auslüften — besagen
 genug!«
 
 Die Prinzessin und Morton erwarteten uns im Salon,
 
-»Arbeit, so leid es mir tut,« erklärte Harst flüsternd.
+»Hoheit, so leid es mir tut,« erklärte Harst flüsternd.
 »Saßtala ist schuldig, wie weit sie schuldig ist, wird die Zukunft
-lehren … — je) bitte Sie nun, bei der bevorstehenden
+lehren … — Ich bitte Sie nun, bei der bevorstehenden
 Aussprache mit O’Neil mir alles zu Überlassen und
 keinerlei Erstaunen zu verraten, wenn ich Dinge vorbringe,
 <@pagebreak/>
-die … 2 Morast erfunden sind. Es ist nicht angenehm, das
+die … glatt erfunden sind. Es ist nicht angenehm, das
 mein Beruf mich zwingt, krumme Wege zu wandeln …
 Es muß sein … — Sie können überzeugt sein, Hoheit,
 daß wir hier einem Verbrechen und Verbrechern auf der
-Spur sind, wie man dies nicht häufig erlebt. Selbst in meinen
-Praxis ist mir noch kein Fall! vorgekommen, dessen Erdreich
+Spur sind, wie man dies nicht häufig erlebt. Selbst in meiner
+Praxis ist mir noch kein Fall vorgekommen, dessen Endziel
 in so undurchdringliches Dunkel gehüllt ist wie dieser.
-Aber gerade dieses Geheimni&volle deutet unsichtbar zu)y
+Aber gerade dieses Geheimnisvolle deutet unsichtbar auf
 große Ziele der Beteiligten hin … Was bei alledem
 schließlich herauskommen wird, vermag ich beim besten
-mitten mir nicht einmal vorzustellen.«
+Willen mir nicht einmal vorzustellen.«
 
-? 5. Kapitel.
-Der Skorpion.
+<h2>5. Kapitel.</h2>
+<h3>Der Skorpion.</h3>
 
 O’Neil fuhr in seinem Auto vor …
 
-Der lange Irländer, dessen zur Sitzes Haupthaar bereits
-Frachtgut war, verbeugte sich respektvoll vor der Prinzessin
+Der lange Irländer, dessen fuchsiges Haupthaar bereits
+ergraut war, verbeugte sich respektvoll vor der Prinzessin
 und nahm dann mit am Salontische Platz.
 
 »Bitte, Mr. Harst,« sagte die Prinzessin nur …
 
 Harald, Morton und ich hatten dem Polizeichef kräftig
-die Hand gedrückt … Das müssen wir tun. O’Neil durfte
+die Hand gedrückt … Das mußten wir tun. O’Neil durfte
 nicht ahnen, daß er eingekreist werden sollte …
 
 Und Harst begann:
@@ -1373,214 +1376,240 @@ gefunden …«
 
 Das war ein scharfer Hieb …
 
-Aber O’Neil8 Brust war gut gepanzert. Er besaß Kaltblütigkeit
-und keine meinen.
+Aber O’Neils Brust war gut gepanzert. Er besaß Kaltblütigkeit
+und keine Nerven.
 
 »Nicht möglich! Wirklich?!« rief er nur …
 
 Harald fuhr fort — und vielleicht merkte nur ich ihm
 die leichte Enttäuschung an …
 
-»Verzeihen Sie, ich habe mich unwichtig zu Tanevrferl,
-Mr. O’Neil … Wir, Schraut und Ich, haben her 1 1?
+»Verzeihen Sie, ich habe mich unrichtig ausgedrückt,
+Mr. O’Neil … Wir, Schraut und Ich, haben den Schrank
 <@pagebreak/>
-entdeckt, in dem man Hie Leiche versteckt gehabt hat, nachdem
-sie aus 02 in es Blut ehasenit Walther war …«
+entdeckt, in dem man die Leiche versteckt gehabt hat, nachdem
+sie aus dem Schacht entfernt worden war …«
 
-»empfand! — Il deute, wir haben gestern jeden
-»Winkel. Schlucht, Mr. bist … — Und — nun ist die
-Weide wieder vercpunben unter wissen Sie denn, daß
-un dein Schrank …
+»Schrank?! — Ich denke, wir haben gestern jeden
+Winkel durchsucht, Mr. Harst … — Und — nun ist die
+Leiche wieder verschwunden?! Woher wissen Sie denn, daß
+in dem Schrank …«
 
-in dein ’Cdirant ist zu viel Parfüm zwecklos verwendet
-worden — « « Der Grönland steht im Garderoben Zimmer
-Rücken bereit … Vorkam kam ich) auf den Gedanken,
-auch einer spricht Reautmne einmal gründlich) zu besichtigen …
-zu Boden jenes Schrankes Spiel man noch) den Leichen:
-4eruch, Mr. Teil Co  Bild da wir nach Vitgabe Zimmer
-Abteil zu geweilt Gemach) war die Dienerin Saßtala Zutritt
-zu wurde es wiehernd angebracht sein, die junge Anderswo
-zu wert;vorn …«
+»… in dem Schrank ist zu viel Parfüm zwecklos vergeudet
+worden … Der Schrank steht im Garderobenzimmer
+Ihrer Hoheit … Vorhin kam ich auf den Gedanken,
+auch Ihrer Hoheit Räume einmal gründlich zu besichtigen …
+Am Boden jenes Schrankes spürt man noch den Leichengeruch,
+Mr. O’Neil … Und da wir nach Angabe Ihrer
+Hoheit zu jenem Gemach nur die Dienerin Saßtala Zutritt
+hat, würde es vielleicht angebracht sein, die junge Inderin
+zu verhören …«
 
-»AalUerdiugs, — wen die Sachen so liegen!! Natürlich
+»Allerdings, — wenn die Sachen so liegen!! Natürlich
 werden wir Saßtala ins Gebet nehmen …«
 
-Weiß Gott: O’Neil war niehqtgus der Ruhe zu bringen.
+Weiß Gott: O’Neil war nicht aus der Ruhe zu bringen.
 
-Wir stiegen bvereitv »Zweifel auf, ob Harald sich nicht
-vielleicht doch) gelauscht hätte …
+Mir stiegen bereits Zweifel auf, ob Harald sich nicht
+vielleicht doch getäuscht hätte …
 
-Lider — eins gab Zelt plötzlich zu denken …
+Aber — eins gab jetzt plötzlich zu denken …
 
-Denn O’veil fügte in einem Atem hinzu:
+Denn O’Neil fügte in einem Atem hinzu:
 
-»Wenn Hoheit gejitaätwn, hole ich Saßtala persönlich
-hierher … =. Es ist umso;l ausgelöschten, daß sie Verdacht
-schöpft, wen! ein Diener sie herbeiruft …«
+»Wenn Hoheit gestatten, hole ich Saßtala persönlich
+hierher … Es ist nicht ausgeschlossen, daß sie Verdacht
+schöpft, wenn ein Diener sie herbeiruft …«
 
-Und ohne eine Antwort abzuwarten, war er l;Anzug …
+Und ohne eine Antwort abzuwarten, war er hinaus …
 
-Wir vier Zurückbleibenden blickten uns an … Wlortatu
-schüttelte den Kopf! … Die Panischem seufzte … Angst
+Wir vier Zurückbleibenden blickten uns an … Morton
+schüttelte den Kopf … Die Prinzessin seufzte … Und
 Harald?!
 
-Der trat nun das Seitentischchen, auf das er vorhin
-jenen Papvkartvit gestellt: hatte, in dem gestern noch die beiden
-toten Sapkas gelegen hatten … — Was der Kutter:
-jetzt entstellt, wiugnie ich selbst nicht …
+Der trat an das Seitentischchen, auf das er vorhin
+jenen Pappkarton gestellt hatte, in dem gestern noch die beiden
+toten Sapkas gelegen hatten … — Was der Karton
+jetzt enthielt, wußte ich selbst nicht …
 
-Kontakt nahm sein Taschenmesser, schnitt in den Deck.
-der Buches VBindsjsaden jetzt verjzunürt war, eine Klappe, durch
+Harald nahm sein Taschenmesser, schnitt in den Deckel,
+der durch Bindfaden fest verschnürt war, eine Klappe, durch
 <@pagebreak/>
 die man gerade mit der Hand hineingreifen konnte, und
-sollte den Karton beiseite …
+setzte den Karton beiseite …
 
-Es dauerte eine geraume Weilt, bis O’Neil und Satz
+Es dauerte eine geraume Weile, bis O’Neil und
 Saßtala eintraten …
 
 Die Prinzessin beachtete sie kaum …
 
-dann schon O’Neil mit seiner diesen Stimme:
+dann schon O’Neil mit seiner tiefen Stimme:
 
-»Saßtala, was … hast Du in dem Dingen Schrank zum
+»Saßtala, was … hast Du in dem einen Schrank zum
 Garderobenzimmer verborgen gehabt?!«
 
 Das Mädchen schaute O’Neil harmlos erstaunt an …
 
-»Verbrechens! Nichts …! — Ad) habe nichts zu der
-bergen: … In meinem Zimmer steht auch nur ein einzige!
+»Verborgen?! Nichts …! — Ich habe nichts zu verbergen:
+… In meinem Zimmer steht auch nur ein einziger
 Schrank, Mr. O’Neil …«
 
 Da fauchte der Polizeichef sie an:
 
-»Um den Schrank handelt: es sich Pirat! Vielmehr um
-den leeren Schrank im Garderobenzimiier der Prinzessin …
-Da! hast in den Schraut Parfüm gegossen — — … Weltalls!«
+»Um den Schrank handelt es sich nicht! Vielmehr um
+den leeren Schrank im Garderobenzimmer der Prinzessin …
+Du hast in den Schrank Parfüm gegossen … Weshalb?!«
 
 Das Mädchen wurde verlegen …
 
-»Mr. O’Neil, im … ich will alles eingestehen …
-Ich gebe zu, daß ich sehr nachlässig gewesen bin … mit
-Haben viele Kapscharas im Palast … Sadik hat Gift ausgelegt
-… und vorgestern fand ich in dem leeren Schlag?!
-wo tote braune Ratten … Der ganze Schrank war verpestet
+»Mr. O’Neil, ich … ich will alles eingestehen …
+Ich gebe zu, daß ich sehr nachlässig gewesen bin … Wir
+haben viele Kapscharas im Palast … Sadik hat Gift ausgelegt
+… und vorgestern fand ich in dem leeren Schranke
+zwei tote braune Ratten … Der ganze Schrank war verpestet
 …«
 
-Wir alle (vielleicht bis auf O’Neil) waren Verdacht …
+Wir alle (vielleicht bis auf O’Neil) waren verdutzt …
 verblüfft …
 
-Kapscharas — Hausraiten …!? Und — vergiftet
-und verwest …/! Daher also der Gestank auf den Bodenbrettern!!
-by »Harald hatte sich einen Moment aus die Lippen ab.
+Kapscharas — Hausratten …!! Und — vergiftet
+und verwest …!! Daher also der Gestank auf den Bodenbrettern!!
 
+Harald hatte sich einen Moment auf die Lippen gebissen
 …
 
 Dann erhob er sich rasch …
 
-Nahm den Karten …
+Nahm den Karton …
 
 »Saßtala, Du lügst …!!«
 
-Vor dieser messerscharfen Stimme fuhr Saßtala zu
-nun …
+Vor dieser messerscharfen Stimme fuhr Saßtala zurück
+…
+
 O’Neil stand gleichfalls auf …
+
 <@pagebreak/>
+»Mr. Harst, wir …«
 
-»Mr. Da!, mit…« ich
-»Auftrag Sie ur, Mr. D’Meil … je bade reine
+»Lassen Sie nur, Mr. O’Neil … Ich habe meine
 eigenen Methoden! — Saßtala, Du Hast gelogen … Wenn
-Typ Wicht sei dem hast, warst Du ohne Furcht die Hand vier
-dar) hier Gnom ja Boot Karten sieden … — Suez.«
+Du nicht gelogen hast, darfst Du ohne Furcht die Hand hier
+durch dieses Loch in den Karton stecken … — Tu es …!«
 
-he Ne da des Vlatcieit zu …
+Er trat auf das Mädchen zu …
 
-He. die, sie Vieh noch weiter zurück … Jahre
-wir Zeit nur zerkratzt — — « Jahre verängstigten Augen
-stiftete die bhaliejucheno zu O’Neil hinüber …
+Und sie … sie wich noch weiter zurück … Ihre
+Wangen wurden erdfahl … Ihre verängstigten Augen
+glitten wie hilfesuchend zu O’Neil hinüber …
 
-her pirschte sich abermals ein …
+Der mischte sich abermals ein …
 
-»Mr. Harst, beitragen fuhr »doch zunächst Jahr!, ob er
+»Mr. Harst, befragen wir doch zunächst Sadik, ob er
 wirklich Gift ausgelegt hat …
 
-»«nachher,« erwiderte Harald kurz und winkte mir …
+»Nachher,« erwiderte Harald kurz und winkte mir …
 
-»Halte Saßtala jetzt …! Man sieht ihr ja das böse
+»Halte Saßtala fest …! Man sieht ihr ja das böse
 Gewissen an …«
 
-Und abermals da O’Neil …;: »Mr. Harst, das geht
+Und abermals da O’Neil …: »Mr. Harst, das geht
 zu weit …! — Was befindet sich in dem Karton?«
 
-»Ei Gebet- Skorpion … Sie wissen wohl, daß man
-beim Gebet nachsagt, daß er niemals Schuldlose liebe …
+»Ein Gelok-Skorpion … Sie wissen wohl, daß man
+dem Gelok nachsagt, daß er niemals Schuldlose steche …
+Hier wie bei den Volksstämmen der Thar-Wüste ist der
+Gelok heilig … Schon in alten Zeiten benutzte man ihn
+zu einer Art Gottesurteil … Es ist Tatsache, daß der
+Gelok noch nie ein harmloses Kind oder einen Menschen
+mit reinem Gewissen verletzt hat … Und wenn Saßtala
+nicht gelogen hat, wird sie sich nicht scheuen, diese
+Ehrlichkeitsprobe abzulegen …! Mein Gewissen ist rein! Bitte!!«
 
-Hier wie bei den VPolkssitämmen der Thar Wüste ist der
-Geld! heilig … Schon in alten Zeiten benubplte man (in
-zu einer Art Gottesurteil … =. »Es ist Tatsache, daß der
-Gebet noch nie ein harmloses Kind oder einen Kettchen
-mit reinem Gewissen verlebt hat … Und wenn Sakßtala
-nicht gelogen hat, wird sich sich nicht Ja Ofen, diese Chrlidy-feitvprobe
-abzulegen …! Ufern Gewissen ist rein! Bitte!?«
-
-Und er schob die bald durch die Klappe im Sockel,
-bewegte sie in! Innern des Kartons hin und her und
+Und er schob die Hand durch die Klappe im Deckel,
+bewegte sie im Innern des Kartons hin und her und
 meinte:
+
 »Da — soeben habe Ich den Skorpion berührt …!«
 
 Und er zog die Hand wieder hervor … —
 
-Bursche hier einfügen, daß der Hotel oder Sand«
-Skorpion Sunda zehn zentinietler lang wird … Der Stich
+Ich möchte hier einfügen, daß der Gelok oder Sandskorpion
+etwa zehn Zentimeter lang wird … Der Stich
 seines scharfen Stachels ist zumeist tödlich … —
 
-… Z30g die Hand heraus …
-<@pagebreak/>
+Zog die Hand heraus …
 
-Ich hatte jetzt Saßtalas linken Wirtin gerührt …
-Aber — wiederum da O’Neil sein energisch:
-»Mr. Harst, ich siehe hier als Beamten, der Haut dem
-Residenten von Bawalar jetzt zu geschlichen hat …! Ich
-verbiete diesen … Unfug! Ein solches Datum bat nichts
-»mit geordneter Nechtspsjtege zu tun!«
+<@pagebreak/>
+Ich hatte jetzt Saßtalas linken Arm gepackt …
+
+Aber — wiederum da O’Neil … sehr energisch:
+
+»Mr. Harst, ich stehe hier als Beamter, der nur dem
+Residenten von Bawalar jetzt zu gehorchen hat …! Ich
+verbiete diesen … Unfug! Ein solches Tun hat nichts
+mit geordneter Rechtspflege zu tun!«
+
 Harald blieb durchaus höflich …
-»Das stimmt, Mr. O’Neil … Trotzdem: Sakßtala
-kann hier sofort ihre Scculdlosigleit beweisen! Hat sie
-Furcht, so hat sie gelogen! — Also, Saßtala, — greise hin
-ein in die Schachtel …«
-Und — er erlangt ihre rechte Hand …
-Da schrie das Mädchen gellend aus…
-Riß sich los …
-Stürmte aus dem Salon — wie geholt …
-Harald lächelte …
-O’Neil wollte hinter ihr drein …
-»Bemühen Sie sich nicht,« Verrate Harst … »Feld) habe
-mit Sadik alles verabredet … Da — hören Sie: habe
-Saßtala schreit, — — Sadik hat sie fest…!« …
-Die Tür wurde ausgestoßen …
-Der alte Hausgmeisjter und zwei Diener zerrten das
-Mädchen herein …
-Und Harst … Harst löste nun die Schnüre von dem
-Karton +…«
-Seekarte den Deckel …
-Selbst die Prinzessin trat hinzu …
-Aller Augen hingen an dem Karton …
-Der … Papiere …!
-Keine Spur von Skorpion …
-»O’Neil brauste auf …
-»Wir. Harst, diese lächerliche Komödie …«
-ist der beste Beweis, daß die Leiche Miß Worringtons
-in dem Schranke gelegen hat …! Verhalten
-Sie Saßtala, Mr. O’Neit!«
-Der Polizeiche! zögerte …
-<@pagebreak/>
 
+»Das stimmt, Mr. O’Neil … Trotzdem: Saßtala
+kann hier sofort ihre Schuldlosigkeit beweisen! Hat sie
+Furcht, so hat sie gelogen! — Also, Saßtala, — greife hinein
+in die Schachtel …«
+
+Und — er ergriff ihre rechte Hand …
+
+Da schrie das Mädchen gellend auf …
+
+Riß sich los …
+
+Stürmte aus dem Salon — wie gehetzt …
+
+Harald lächelte …
+
+O’Neil wollte hinter ihr drein …
+
+»Bemühen Sie sich nicht,« meinte Harst … »Ich habe
+mit Sadik alles verabredet … Da — hören Sie:
+Saßtala schreit, — — Sadik hat sie fest …!«
+
+Die Tür wurde aufgestoßen …
+
+Der alte Hausmeister und zwei Diener zerrten das
+Mädchen herein …
+
+Und Harst … Harst löste nun die Schnüre von dem
+Karton …«
+
+Öffnete den Deckel …
+
+Selbst die Prinzessin trat hinzu …
+
+Aller Augen hingen an dem Karton …
+
+Der … war leer …!
+
+Keine Spur von Skorpion …
+
+O’Neil brauste auf …
+
+»Mr. Harst, diese lächerliche Komödie …«
+
+»… ist der beste Beweis, daß die Leiche Miß Worringtons
+in dem Schranke gelegen hat …! Verhaften
+Sie Saßtala, Mr. O’Neil!«
+
+Der Polizeichef zögerte …
+
+<@pagebreak/>
 Nur einen Moment …
 
 Dann legte er Saßtala die Hand leicht auf die Schulter
 …
 
-»Du bist verhaftet …«!!«
-Saßtala zitterte … weinte … war’s sich der Prinzessin
+»Du bist verhaftet …!!«
+
+Saßtala zitterte … weinte … warf sich der Prinzessin
 zu Füßen …
 
 Die Prinzessin hatte sich abgewandt …
@@ -1595,15 +1624,13 @@ Wir vier waren wieder allein im Salon …
 Harald sagte nur:
 
 »So, um wird O’Neil eine weitere Dummheit begehen
-… Er wird dem Mädchen zur Flucht verbergen …
-Und dann wird Saßtala vielleitht sich dorthin wenden, wo
+… Er wird dem Mädchen zur Flucht verhelfen …
+Und dann wird Saßtala vielleicht sich dorthin wenden, wo
 in den Uferbergen des Ghara-Flusses die zweite Rakete
-aufleuchtete … Das wollte im …! sich werde dafür
+aufleuchtete … Das wollte ich …! Ich werde dafür
 sorgen, daß Saßtala nicht allein entflieht …!«
 
-gleich
-
-Der andere Skorpion.
+<h1>Der andere Skorpion</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Es kommt nicht so …</h3>
@@ -1618,7 +1645,7 @@ nachmittags rot er ein … Und arm Vormittag um
 elf Uhr war Saßtala in unserer Gegenwart von O’Neil
 abgetönt zweiten, wobei sie hartnäckig bei dem Märchen von
 sehen lassen blieb …
-<@pagebreak/>
+<@pagebreak 36/>
 
 Und vier Stunden drauf: — Er!! …
 
@@ -1869,8 +1896,8 @@ ist im unterirdischen Fang gewesen … Er hat dort
 Saßtala erwartet und dann … versteckt …«
 
 »Versteckt … 41«
-<@pagebreak/>
 
+<@pagebreak/>
 »O9 … — Morgens beim Frühstück Fortsetzung!«
 
 Wie kommen Gesicht zu Bett gehen … Es war nichts
@@ -1967,8 +1994,8 @@ Brauche Diebin. Sache muß beendet werden.
 Komme allein.«
 
 Harald meinte hierzu!
-<@pagebreak/>
 
+<@pagebreak/>
 »Es stimmt also … Saßtalas Verhaftung, die wir
 erzwangen, hat O’Neil böse geängstigt … — Der
 »» Deutsche« bin ich natürlich. Und »Komme allein« beweist,
@@ -2018,8 +2045,8 @@ Morton lächelte diskret …
 
 »Ein sauber Fisch, dieser Longfellow! Ich wußte
 es … — Tier können sich auf mich verlassen, lieber Harst.«
-<@pagebreak/>
 
+<@pagebreak/>
 Dann glitt das offene Auto mit uns die Straße gen
 Norden. entlang …
 
@@ -2165,8 +2192,8 @@ Abend ruderte er über den hinzu
 
 »Das weiß ich nicht … »Und auch) sein Diener sprach
 nie darüber … Der sehr cf bei uns in den Ställen …«
-<@pagebreak/>
 
+<@pagebreak/>
 »Oh Jason wohl mal Dein? empfing?«
 »34. + + Finger denselben, Sahib, der sehr lang und
 dürr war …«
@@ -2216,8 +2243,8 @@ Gedanken trug ich die Petroleumlampe …
 Und — im beritten Vorderzimmer nach dem Flusse zu …
 fanden wir den Schmierfink — in einer Schlinge mitten
 im Zimmer an einem Haken des Deckenballens hängend …
-<@pagebreak/>
 
+<@pagebreak/>
 Der Mann hatte in seiner Todesangst mit der Rechten
 den Blei über seinem Köpfe umklammert …
 
@@ -2277,8 +2304,8 @@ weckte …
 
 Mein umstrichen Blick glitt matt unsrer …
 Tisch — Petroleumlampe … Unsere Eßwaren …
-<@pagebreak/>
 
+<@pagebreak/>
 Palast getan Wie ich an den schäbigen Rohrsessel mit
 dilnmmnem Draht gefesselt —
 
@@ -2384,8 +2411,8 @@ Leben zitternd mit …
 Dann — von linken Fenster her ein Klirren …
 
 (! Ein Schuß …
-<@pagebreak/>
 
+<@pagebreak/>
 Jason stand noch über mich gebeugt da …
 
 Und sich nun schwer zur Seite …
@@ -2435,12 +2462,12 @@ an das, was Jackson in den Taschen hatte, war bot
 
 deutuna8l038 …
 Harst befühlte jetzt die Nähte, auch die Mütze …
-<@pagebreak/>
 
+<@pagebreak/>
 Schließlich zog er dem Toten sogar die Schuhe aus …
 Und — hier unter einer Einlegesohle des rechten Stiefels
 fand er etwas — etwas sehr Merkwürdiges: eins jener
-hellgrauen großen Blätter des sogenannten Mastixstranches,
+hellgrauen großen Blätter des sogenannten Mastixstrauches,
 dessen Blattischmuck genau so aussieht, als ob die Blätter
 aus Gegnerin Dreckigen Papier geschnitten sind … — —
 
@@ -2490,8 +2517,8 @@ Merkte gar nicht, daß ich wach geworden …
 (Nr schaute aus…
 
 »eine Augen strahlten …
-<@pagebreak/>
 
+<@pagebreak/>
 »Endlich, mein Alter!!«
 »Inwiefern endlich?!«
 Ich stand auf und Draht neben ihn …
@@ -2543,8 +2570,8 @@ zu winken … Major Essingham ist mit dabei, der Schluß
 Adjutant Sir Porinngsiones …’
 
 »Winken Sie …![«
-<@pagebreak/>
 
+<@pagebreak/>
 Und dann — in den Liislügel — zu des Professors
 
 Zimmern …
@@ -2600,8 +2627,8 @@ Sir Loringstone anmelden … Auf den! Sdqckjieibtisch im
 Salon liegt ein aufgegangenen Brief +…
 
 Sadik zittert …
-<@pagebreak/>
 
+<@pagebreak/>
 Wir alle sind ein …
 
 Harst! bleibt?alt … als einziger …
@@ -2652,8 +2679,8 @@ Sein Blick gleitet durch; den großen Salon …
 Und ich:
 
 »Harald, was bedeuten die Striche auf dem …
-<@pagebreak/>
 
+<@pagebreak/>
 Er schaut mich an — warnend, mahnend …
 
 Und er:
@@ -2705,8 +2732,8 @@ Morton und Sadik schauen verständnislos drein.
 Nur ich begreife: in der seinen, kaum sichtbaren Zeichnung
 aus dem Vlastixblatt war ein solcher Stern in winzigen
 Abmessungen zu erkennen gewesen!
-<@pagebreak/>
 
+<@pagebreak/>
 »Vorwärts!« mahnt Harald … »Wie wollen nicht
 lange zögern … später erkläre ich ages … —
 
@@ -2760,8 +2787,8 @@ augeschlosjeun«
 
 »Mr. Harst, er … warte:e ab … Sie haben ja
 selbst im Schara. Schaka-Berg das Waffenlager gesehen …
-<@pagebreak/>
 
+<@pagebreak/>
 (Vergleiche hierzu den vorigen Band »Der Geisterberg
 Schara Stchaka«.) Der damalige Lady) 3 war kein Freund
 der Engländer. Er hielt sich bereit, war jedoch vorsichtig …
@@ -2808,8 +2835,8 @@ Ww …
 Harald schob den Kopf über die dunkle Öffnung,
 
 4änuschte hinab …
-<@pagebreak/>
 
+<@pagebreak/>
 Wir erkannten die Sprossen einer kleinen neben Hob
 ter …
 Dann winkte Harald mir, flüsterte:
@@ -2861,12 +2888,12 @@ eine Viertelstunde Grafen wir so unter der Erde dahin
 Dann — macht Haar:ld halt …
 
 Drückt meine Finger …
-<@pagebreak/>
 
+<@pagebreak/>
 Rani mir zu:
 R.:hier Du’s?«
 Ich … «. Eiche …
-N’ieche denselben scheußlichen Verwesung8dunft, der
+N’ieche denselben scheußlichen Verwesungsdunst, der
 uns vorgestern aus dem anderen Schacht entgegen quoll …
 
 Harsts Lampe blitzt aus…
@@ -2948,7 +2975,7 @@ heute am 3 Oktober 1853 nach europäischer kritisch
 Wohnung in Sicherheit gebracht, was mir gefährdet schien.
 Ich weiß nicht, was die nächste« Zukunft mir heiligen
 wird. Die Engländer sind im Anzug. Der Stern, der
-in wildbeweaten Zeiten schon häufiger meinem Geschlecht
+in wildbewegten Zeiten schon häufiger meinem Geschlecht
 geholfen, wird auch das Symbol schützen …«
 
 Dann folgte die Zeichnung des Sternes. Und darunter
@@ -2961,8 +2988,8 @@ werden diese meine Eintragungen bedeutungslos
 sein …«
 
 Harald reicht? Sadik das Buch zurück …
-<@pagebreak/>
 
+<@pagebreak/>
 »Wir sehen nun ziemlich klar,« meinte er. »Helene
 Worrington hat diese Aufzeichnungen gelesen, hatte schon
 vorher davon gehört, daß die Krone von Bawalar verschwunden
@@ -3007,8 +3034,8 @@ Es wer eine harte Geduldsprobe …
 Dann — soeben war der Mond ausgegangen, von he!
 
 Moschee der ein gleitender Schatten …
-<@pagebreak/>
 
+<@pagebreak/>
 lebt trat der Mann in den Mondschein hinaus …
 Mahmud, der Wäscher …!!
 
@@ -3059,8 +3086,8 @@ Pflege erholte die Ärmste sich schnell. —
 entwischen hatte Patrick O’Neil, um zu reiten, was
 noch zu reiten war, als Kronzeuge folgendes zu Protokoll
 gegeben:
-<@pagebreak/>
 
+<@pagebreak/>
 Helene Worrington, eine Schwester des angeblichen
 Jackson, hatte diesem nach) England brieflich mitgeteilt, was
 je aus dem alten Familienbieiy herausgeleseun hatte.
