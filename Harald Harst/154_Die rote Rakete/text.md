@@ -1623,357 +1623,356 @@ Wir vier waren wieder allein im Salon …
 
 Harald sagte nur:
 
-»So, um wird O’Neil eine weitere Dummheit begehen
+»So, nun wird O’Neil eine weitere Dummheit begehen
 … Er wird dem Mädchen zur Flucht verhelfen …
 Und dann wird Saßtala vielleicht sich dorthin wenden, wo
 in den Uferbergen des Ghara-Flusses die zweite Rakete
-aufleuchtete … Das wollte ich …! Ich werde dafür
+aufleuchtete … *Das* wollte ich …! Ich werde dafür
 sorgen, daß Saßtala nicht allein entflieht …!«
 
 <h1>Der andere Skorpion</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Es kommt nicht so …</h3>
+<h3>Es kommt <em>nicht</em> so …</h3>
 
-mein — es im nicht so …
-Dem — er kam! Er!!
+Nein — es kam nicht so …
+
+Denn — *er* kam! Er!!
+
 Und dieser »Er« ist der Mittelpunkt des ganzen
-
 Geheimnisses …
-nachmittags rot er ein … Und arm Vormittag um
 
+Nachmittags traf er ein … Und am Vormittag um
 elf Uhr war Saßtala in unserer Gegenwart von O’Neil
-abgetönt zweiten, wobei sie hartnäckig bei dem Märchen von
-sehen lassen blieb …
+verhört worden, wobei sie hartnäckig bei dem Märchen von
+den Ratten blieb …
 <@pagebreak 36/>
 
-Und vier Stunden drauf: — Er!! …
+Und vier Stunden drauf: — Er!!
 
-Da? war ein Typ für sich, dieser Professor John Longfellow
+Das war ein Typ für sich, dieser Professor John Longfellow
 …
 
 Das war ein knochiger Herr in den Vierzigern mit
-schwarzer Grundrisse und einem Gesicht, das nur aus Falten
-bestand … Das war ein (Gelehrter, vor seit längerer Zeit
-Indien bereiste und die geheimsten Geheinimnisse des Wunderlandes
+schwarzer Hornbrille und einem Gesicht, das nur aus Falten
+bestand … Das war ein Gelehrter, der seit längerer Zeit
+Indien bereiste und die geheimsten Geheimnisse des Wunderlandes
 erforschte …
 
 John Longfellow machte der Prinzessin seine Aufwartung
 und überreichte ihr ein Empfehlungsschreiben des
-Vizekönigs von Indien, so daß Sadukala nicht an! anders
+Vizekönigs von Indien, so daß Sadukala nicht gut anders
 konnte, als den großen Gelehrten als Gast im Palaste aufzunehmen
 …
 
 Als wir bei der Abendtafel Longfellow vorgestellt
-wurden, tat der dürre Herr genau [o, als ob er in seinem
-zurzeit Leben die Namen Harst und Schraut noch) nicht gehört
+wurden, tat der dürre Herr genau so, als ob er in seinem
+zurzeit Leben die Namen Harst und Schraut noch nicht gehört
 hätte …
 
-Und ebenso unverfroren kranke er uns, ob wir …
+Und ebenso unverfroren fragte er uns, ob wir …
 Angestellte eines Detektivinstituts seien …
 
-las war beabsichtigte Unverschämtheit.
+Das war beabsichtigte Unverschämtheit.
 
-Kugel Doktor Morton behandelte er mit einer gewissen
-Herab! gelang, die nicht minder verletzend war als seine Art
+Auch Doktor Morton behandelte er mit einer gewissen
+Herablassung, die nicht minder verletzend war als seine Art
 des Benehmens uns gegenüber.
 
 Zum Glück zog er sich sofort nach Tisch in seine Zimmer
 im Ostflügel zurück, angeblich, weil die Reise ihn ermüdet
-hatte. So Waren wir denn mit der Prinzessin und
-gelbem Leibarzt noch eine halbe Stunde allein.
+hatte. So waren wir denn mit der Prinzessin und
+dem Leibarzt noch eine halbe Stunde allein.
 
-Zuerst vollste eine Unterhaltung nicht recht in Fluß
-kommen. Die Beurteilst entschuldigte sich weil uns der Taktlosigkeiten
-ihres (Gasie32 nennen …
+Zuerst wollte eine Unterhaltung nicht recht in Fluß
+kommen. Die Prinzessin entschuldigte sich bei uns der
+Taktlosigkeiten ihres Gastes wegen …
 
-»4 mußte ihn hie: im By glatt ausnehmen. 6 ist dies
-so Brand) gegenüber Engländern, die mit einem Cmpsch-fmasschreibey
-darf Vizekönigs Verse gen sind.
+»Ich mußte ihn hier im Palast aufnehmen. Es ist dies
+so Brauch gegenüber Engländern, die mit einem
+Empfehlungsschreiben des Vizekönigs versehen sind …«
 
 Der freundliche Doktor wandte sich dann an Harald …
 
-»Mr. qt, Sie beiden doch so. einige Menschenkennt-ni»…
-Was halten Sie von Longfellow?«
+»Mr. Harst, Sie besitzen doch so einige Menschenkenntnis
+… Was halten Sie von Longfellow?«
 
 <@pagebreak/>
-
-»» Darüber möchte ich mich heute noch nicht äußern,
+»Darüber möchte ich mich heute noch nicht äußern,
 möchte nur vorschlagen, daß auch Sie, Hoheit, diesem Manne
 gegenüber mit Äußerungen sehr vorsichtig sein sollen …
-Seine Unverschämtheit und Tatkilosigkeit erschien mir gemacht
+Seine Unverschämtheit und Taktlosigkeit erschien mir gemacht
 … Wir wollen abwarten.«
 
 Morton schaute Harst prüfend an …
-»Ja,« nickte er, »es war ein Zuviel dabei … Man
 
+»Ja,« nickte er, »es war ein Zuviel dabei … Man
 könnte fast auf den Gedanken kommen, daß dieser Professor
 ein … Schwindler ist und …«
 
 »Halt, Doktor!« Und Harald schüttelte energisch den
 Kopf. »Das ist wohl ausgeschlossen … Wie dürfte er es
-Wangen, sich einen Namen und Titel zuzulegen, die ans der
-Lust genossen sind?! — Nein, so einfach ist diese Persönlichkeit
+wagen, sich einen Namen und Titel zuzulegen, die aus der
+Luft gegriffen sind?! — Nein, so einfach ist diese Persönlichkeit
 nicht abzutun …«
 
 Dann blickte er nach der Uhr … Fügte leise hinzu:
 »Halb elf … Es wird Zeit für uns … Ich habe mit
-Sadik bereits alles vereinbart … Schraut und ich wert
+Sadik bereits alles vereinbart … Schraut und ich werden
+…« — er flüsterte nur noch — »wieder den unterirdischen
+Gang nach dem Pavillon benutzen … Sie wollten
+ja auch mit von der Partie sein, Doktor … Um die
+Ausgänge des Polizeigefängnisses zu Überwachen, brauchen
+wir mindestens drei Personen … — Hoheit entschuldigen
+uns also …« —
 
-den…« — er flüsterte nur Roch — »wieder den unterirdischen
-Gang nach dem Pavillon benutzen … Sie war
-Um die
-
-ten ja auch mit von der Partie sein, Doktor …
-Anä&gänge des Polizeigefängnisses zu Überwachen, Frau
-oben wir mindestens drei Personen … — Hoheit entschuldigen
-uns also…« — …
-
-Und um dreiviertel elf hatten Morton und wie beide
-uns zweckentsprechend als Inder »kostümiert. Zur selben
-Zeit erzählen auch der alte Hausmeister bei uns und meldete,
-daß im Palast um Ruhe Depesche. Wir könnten jetzt unbemerkt
-in die Keller hinab. Wachhund sei bereits im Dienerhaus
+Und um dreiviertel elf hatten Morton und wir beide
+uns zweckentsprechend als Inder kostümiert. Zur selben
+Zeit erschien auch der alte Hausmeister bei uns und meldete,
+daß im Palast nun Ruhe herrsche. Wir könnten jetzt unbemerkt
+in die Keller hinab. Mahmud sei bereits im Dienerhaus
 zu Bett gegangen.
 
 Mahmud fürchteten wir als Spion am allermeisten.
-Bisher war ihm Tricks noch Anweisen gewesen, und wir mußten
-es der Zufüunjt überlasse, daß zum dieser fragwürdige
-alte Bursche irgendwie entlarvt Würde
+Bisher war ihm nichts nachzuweisen gewesen, und wir mußten
+es der Zukunft überlasse, daß auch dieser fragwürdige
+alte Bursche irgendwie entlarvt würde.
 
-Sadik berichtete uns als zu he Gebheimtir im besser.
+Sadik begleitete uns bis an die Geheimtür im Keller.
 Er hatte wieder ein Säckchen Asche bei sich und sollte den
 <@pagebreak/>
 Gang, nachdem wir verschwunden waren, wieder in derselben
 Weise präparieren.
 
-Doktor worden wmcalte dieses Abenteuer offenbar viel
-Spaß. — Gegen halb zwölf halten wir drei danuü getrennt
+Doktor Morton machte dieses Abenteuer offenbar viel
+Spaß. — Gegen halb zwölf hatten wir drei dann getrennt
 unsere Beobachtungsposten bezogen. Das Polizeigefängnis
 lag im Europäerviertel und war von einer hoben Mauer
-umgeben. Raum WVorrergebände befanden sich die Büros der
-Poltzeiverwalumg. Der ganze Häuserblock bildete ein von
-Straßen umgebenes Viereck. An der Ostseite zog sich) ein
-öffentlichen Park hin. Bis zur Westseite reichten die Bahne
-hossanlagen.
+umgeben. Im Vordergebäude befanden sich die Büros der
+Polizeiverwaltung. Der ganze Häuserblock bildete ein von
+Straßen umgebenes Viereck. An der Ostseite zog sich ein
+öffentlicher Park hin. Bis zur Westseite reichten die
+Bahnhofsanlagen.
 
 Mich hatte Harald derart postiert, daß ich die Vorderseite
 und die Ostseite gleichzeitig beobachten konnte. Ich war
-ans einen der Alleebäume geklettert und hatte ein Fern-fiflas
+auf einen der Alleebäume geklettert und hatte ein Fernglas
 mit.
 
 Eine Stunde verging … Ich hatte übergenug Zeit,
-mir unsere letzten Erlebnisse hier gründlich zu Überlegen,
-nach für mich stand es fest, daß Mr. hielt und sein Sohn
+mir unsere letzten Erlebnisse hier gründlich zu Überlegen.
+Auch für mich stand es fest, daß Mr. O’Neil und sein Sohn
 mit der roten Rakete etwas zu tun hatten — genau wie
-Belege Worrington und die hübsche Saßtala.
+Helene Worrington und die hübsche Saßtala.
 
 Ungelöste Rätsel das alles …
 
-vWirnends auch nur der geringste Fingerzeig, was diese
+Nirgends auch nur der geringste Fingerzeig, was diese
 Gemeinschaft von dunklen Ehrenmännern beabsichtigte, was
-die anderen dabei für eine Roste spielten,
+die Raketen dabei für eine Rolle spielten,
 
 Und genau so fest war ich überzeugt, daß Harald diesen
-heute ausgetaunchten Professor für einen Verbündeten
-
+heute aufgetauchten Professor für einen Verbündeten
 O’Neils hielt …
-Ich rief mir das ins Gedächtnis zurück, was ich über
 
+Ich rief mir das ins Gedächtnis zurück, was ich über
 Longfellow wußte …
 
-Er war im Fakir von Multan her eingetroffen. Das?
+Er war im Auto von Multan her eingetroffen. Das
 Auto hatte ihm der dortige Gouverneur zur Verfügung gestellt.
-Drei Viesenkosser begleiteten Longfellow — und
-jenes Empscehlingsöschreiben des Vizekönigs, das ihm alle
-Türen öffneten.
+Drei Riesenkoffer begleiteten Longfellow — und
+jenes Empfehlungsschreiben des Vizekönigs, das ihm alle
+Türen öffnete.
 
-Ein berühmter Gelehrter … Seit ahnt Monaten in
-Indien … Stüundienreise mit Staatsunterstützung …
+Ein berühmter Gelehrter … Seit acht Monaten in
+Indien … Studienreise mit Staatsunterstützung …
 
 <@pagebreak/>
-Anlangte New wirklich anrüchig war!
+Ob Longfellow wirklich anrüchig war?!
 
-Gift da + wurde weine dahin ctjawfeit abgelenkt …
+Und da — wurde meine Aufmerksamkeit abgelenkt …
 
-Weine Gedenken Waren andre gewesen, Meine
+Meine Gedanken waren anderswo gewesen. Meine
+Augen hatten gewacht …
 
-Würgen hättest vergaß
+Gerade an der Nordostecke der Mauer schwang sich
+jetzt eine Gestalt über die Mauerkrone, nachdem sie sich
+vorsichtig umgeschaut hatte …
 
-Liebe Aber Norvokhofe der Thrones schwang sich
+Ein schlanker Inder mit mit mächtigem Turban …
 
-jetzt Erde Versinkt über die Wauerfivaic, melden sie sich vorsichtig
-angelangt Halle …
-Ein Ich lauter jungen mit mächtigem Turban …
-Im Nu hatte hell! nein Glas eingestellt.
-Die Versstowig war gut.
-Wer ein schien: Saßtala Male die indischen Paar-«
-wo anbehalten, diese Müttetding zwischen Sandale und
-Co …
-Sprang nun gefesselt auf den niußqungerweg … mal
-im Wi im Gebüsch des Parkes verschwunden …
+Im Nu hatte hatte ich mein Glas eingestellt.
 
-Doch mischt minder fix war Amt) ich …
+Die Verkleidung war gut.
 
-und ich hatte Glück … brannte Saßltala bis zum
-Pavillon seinen …
+Nur ein Fehler: Saßtala hatte die indischen Pantoffeln
+anbehalten, dieses Mittelding zwischen Sandale und
+Schuh …
 
-Verschwaund im Pavillon, wollte also den Gang bei
+Sprang nun geschickt auf den Fußgängerweg … War
+im Nu im Gebüsch des Parkes verschwunden …
 
-den …
+Doch nicht minder fix war auch ich …
 
-»ich eilte zur Vorderfront des Palastes und verständigte
-den Offizier der Wache … Die Wade war im Erdgeschoß
+und ich hatte Glück … konnte Saßtala bis zum
+Pavillon folgen …
 
-hergebracht. Der Palast wurde umstellt, und der Pavillon
+Verschwand im Pavillon, wollte also den Gang benutzen
+…!
+
+Ich eilte zur Vorderfront des Palastes und verständigte
+den Offizier der Wache … Die Wache war im Erdgeschoß
+untergebracht. Der Palast wurde umstellt, und der Pavillon
 ebenso gesperrt. Unmöglich konnte Saßtala bereits
-Radius Dienerhaus vielleicht zu Mahmud gelangt sein.
+ins Dienerhaus vielleicht zu Mahmud gelangt sein.
 
-dann lief ich. zumeist im Trab, zum Polizeigebäude zurück
+dann lief ich, zumeist im Trab, zum Polizeigebäude zurück
 und holte Harst und Morton.
 
-Unrast war mit dem, was ich inzwischen angeordnet
-d3’c, wenig einverstanden …
+Harald war mit dem, was ich inzwischen angeordnet
+hatte, wenig einverstanden …
 
 »Du hättest die Wache nicht benachrichtigen sollen, mein
-Alter … — Nun, wir müssen diesen Fehler auszugleiche’!
-versuchen … — Vorwärts — zu O’Neil8 Bungalow …!«
+Alter … — Nun, wir müssen diesen Fehler auszugleichen
+versuchen … — Vorwärts — zu O’Neils Bungalow …!«
 
-Sir mußten lange an der Gartenpforte läuten, bevor,
-ein Diener uns ehrlich.
+Wir mußten lange an der Gartenpforte läuten, bevor
+ein Diener uns einließ.
 
-O’Neil erschien dann aus der Veranda, wo wir Platz
-genommen hatten. Er war völlig verschlossen und (aß so, als
+O’Neil erschien dann auf der Veranda, wo wir Platz
+genommen hatten. Er war völlig verschlafen und tat so, als
 <@pagebreak/>
 ob er die Geschehnisse zunächst gar nicht recht begriffe.
-»S?? — Sie drei haben also das Polizeigebäude der
-wach!…« weinte er schließlich. Ich verstehe … Ich
 
-bin im Augeiublid angezogen …« —
+»So — Sie drei haben also das Polizeigebäude bewacht
+…,« meinte er schließlich. Ich verstehe … Ich
+bin im Augenblick angezogen …« —
 
-Wir haben dann damals die Zelte Saßtalas besichtigt.
-Das Fenstergitter war sauber herausgefischt. Ein zurief
-war an den retten der Stäbe befestigt …
+Wir haben dann damals die Zelle Saßtalas besichtigt.
+Das Fenstergitter war sauber herausgesägt. Ein Strick
+war an den Resten der Stäbe befestigt …
 
-nebst ließ sich nicht sesitstellen.
+Mehr ließ sich nicht feststellen.
 
-Wir suühyren in O’Neils Dienstauto dann um halb zwei
+Wir fuhren in O’Neils Dienstauto dann um halb zwei
 Uhr morgens zum Palast. Uns folgten zehn Beamte,
 
 Der Palast wurde durchsucht. Saßtala war nicht zu
 finden … Den unterirdischen Gang betraten wir beide
-allein. Harald wußte das schon so einzuholen.
+allein. Harald wußte das schon so einzurichten.
 
-Und — in der seinen KAsrtyyeuschicht bemerkten wir da
+Und — in der feinen Aschenschicht bemerkten wir da
 zwei Spuren: die der jungen Inderin und die eines Mannes,
 der Stiefel getragen hatte — sehr große Stiefel …
 
 Harald nahm die Maße …
 
-Damm glaubten wir die Asche wieder beiseite, und als
-O’Neik nun im Gang erschien, war von Spuren nichts mehr
+Dann stäubten wir die Asche wieder beiseite, und als
+O’Neil nun im Gang erschien, war von Spuren nichts mehr
 vorhanden …
 
-(88 war abermals eine ausregeide Nacht … erst
-beim Morgengrauen zog das »Polizeiaufgebot davon. O’Neil
+Es war abermals eine aufregende Nacht … Erst
+beim Morgengrauen zog das Polizeiaufgebot davon. O’Neil
 drückte uns die Hand …
 
-»34 bin für Saßtalas Flucht nicht verantwortlich),«
-meinte er in scheinbarer Wut … »Ich werde die Gefängniswärter
-ablösen lassen …«
+»Ich bin für Saßtalas Flucht nicht verantwortlich,«
+meinte er in scheinbarer Wut … »Ich werde die
+Gefängniswärter ablösen lassen …«
 
-Dann Stuhl auch er heim. Die Militärposten hielten
-den Palast weiter aufstellt …
+Dann fuhr auch er heim. Die Militärposten hielten
+den Palast weiter umstellt …
 
 Und nun waren Harald und ich in unseren Zimmern …
 
 Harst gähnte, meinte:
 
-»Also erst mal hier alles absuchen — alles … Wirt
+»Also erst mal hier alles absuchen — alles … Wir
 haben jetzt einen Gegner in nächster Nähe … Longfellow!
 — Hast Du Dir seine Stiefelgröße angesehen? — Der Professor
-ist im unterirdischen Fang gewesen … Er hat dort
+ist im unterirdischen Gang gewesen … Er hat dort
 Saßtala erwartet und dann … versteckt …«
 
-»Versteckt … 41«
+»Versteckt …?!«
 
 <@pagebreak/>
-»O9 … — Morgens beim Frühstück Fortsetzung!«
+»Ja … — Morgens beim Frühstück Fortsetzung!«
 
-Wie kommen Gesicht zu Bett gehen … Es war nichts
-Derdaäachtigee öde: Gefährliches in unseren Zimmern … —
+Wir konnten getrost zu Bett gehen … Es war nichts
+Verdächtiges oder Gefährliches in unseren Zimmern … —
 
-Um neun sitzt Vaters wir wieder mit der Weiterhin
-um? Worten aqut der Weltkarte …
+Um neun Uhr saßen wir wieder mit der Prinzessin
+und Morton auf der Terrasse …
 
-Lotellvip Halle sich entschuldigen lassen … Er habe
-driinertde kniete zu schreiben …
+Longfellow hatte sich entschuldigen lassen … Er habe
+dringende Briefe zu schreiben …
 
-So werde ihm denn das Frühstück auf seine Zimmer
-geschickt. wird Harald hatte Sadik gebeten, das Friüvstük
-recht reibt ich zu bemessen, was auch geschah. nach: ek-zählte
+So wurde ihm denn das Frühstück auf seine Zimmer
+geschickt. Und Harald hatte Sadik gebeten, das Frühstück
+recht reichlich zu bemessen, was auch geschah. Nachher erzählte
 Sadik uns, daß der Professor alles restlos vertilgt
 habe — alles!!
 
-Es
-
-2\. Kapitel. —
-Jacksons Plantage.
+<h2>2. Kapitel.</h2>
+<h3>Jacksons Plantage.</h3>
 
 Harald und ich schlenderten gegen zehn Uhr vormittags
 durch den Park …
 
-»Die Geschichte kommt nicht vom Fleck…« weinte
+»Die Geschichte kommt nicht vom Fleck …« meinte
 ich unzufrieden …
 
-»um, mein Alter!« lächelte Harst. »Wir sind sogar
-recht nett im Zuge … LVongseßows Frühstück war für
-mindestens die! Personen ausreichend … Saßtala hat
-miügeholsen. Sie stet in einem der Master des Professors
+»Irrtum, mein Alter!« lächelte Harst. »Wir sind sogar
+recht nett im Zuge … Longfellows Frühstück war für
+mindestens drei Personen ausreichend … Saßtala hat
+mitgeholfen. Sie steckt in einem der Koffer des Professors
 …«
 
-Ich) blieb stehen …
+Ich blieb stehen …
 
-»Donnerwetter!l! Deshalb also aß er aus seinen
-Zimmerwm!«
+»Donnerwetter!! Deshalb also aß er auf seinen
+Zimmern!«
 
 »Ja — deshalb!! Und er ist hierher gekommen, weil
-»Seil ihn herbeordert hat … Und er wird bald ältestem
-und Saßtala mit sich nehmen … Ein seiner, sicherer Plan!
-—» Wir wollen mal Haut Postamt wandern …«
+O’Neil ihn herbeordert hat … Und er wird bald abreisen
+und Saßtala mit sich nehmen … Ein feiner, sicherer Plan!
+— Wir wollen mal zum Postamt wandern …«
 
-Harald verlangte den Postmeister zu sprechen, Das war
+Harald verlangte den Postmeister zu sprechen. Das war
 <@pagebreak/>
-unserer, gebildeter Bawalese, dem man schon trauen
-Mitte
+ein älterer, gebildeter Bawalese, dem man schon trauen
+durfte.
+
 Harst weihte ihn in alles ein. Der Postmeister war
 merkwürdiger Weise gar nicht so sehr überrascht, als Harald
 über O’Neil sprach …
 
 »Mr. Harst,« sagte der Bawalese achselzuckend, »ich
-habe O’Neil nie recht getraut, den! er hat stets so häufig
-Chiffredepeschen aufgegeben, angeblich dienstlichen Art, und
-mich zu strengster Verschwiegenheit verpsliüzet …«
+habe O’Neil nie recht getraut, denn er hat stets so häufig
+Chiffredepeschen aufgegeben, angeblich dienstlicher Art, und
+mich zu strengster Verschwiegenheit verpflichtet …«
 
-»Morton«
+»Wohin?«
 
-»Zumeist nach Multan, manchmal nach Lahore … +«
+»Zumeist nach Multan, manchmal nach Lahore …«
 
 »Auch gestern?«
 
 »Ja … Nach Multan … Vormittags elf Uhr …«
-»Also doch! — Ist die Depesche in Lioscihrijt noch vorhanden?«
+
+»Also doch! — Ist die Depesche in Abschrift noch vorhanden?«
 
 »Nein … O’Neil verlangte stets, daß die Depeschenentwürfe
 sofort vernichtet würden … Das heißt — ich
-konnte ja einmal nachfragen. Vielleicht ist die Depesche auch
+könnte ja einmal nachfragen. Vielleicht ist die Depesche auch
+noch da …«
 
-noch da …
-Und — sie war noch) vorhanden …
+Und — sie war noch vorhanden …
 
-Lautete!
-Multan, postlagernd.
-Nr
+Lautete:
+
+<p class="centered">Multan, postlagernd.</p>
+
+<p class="centered">A R Z</p>
 
 Dann folgten Zahlen — nur Zahlen, drei Reihen ohne
 jeden Zwischenraum …
@@ -1982,23 +1981,22 @@ Wir nahmen die Depesche mit.
 
 Auf unseren Zimmern im Palast hatte Harald nach
 zehn Minuten den Schlüssel zu der Chiffreschrift gefunden
-Der Schlüssel waren die drei Buchstaben A. N. Z.
+Der Schlüssel waren die drei Buchstaben A. R. Z.
 
 Es würde hier zu weit führen, wollte ich auf die Entzifferung
-näher eingehen. — Das Telegramm lautete:«
+näher eingehen. — Das Telegramm lautete:
 
-»Sofort hierher kommen. Gefahr. Der Deutsche an
+> »Sofort hierher kommen. Gefahr. Der Deutsche an
 der Arbeit. Auf keinen Fall irgendwie Verdacht erregen.
-Brauche Diebin. Sache muß beendet werden.
-
+Brauche Dich. Sache muß beendet werden.
 Komme allein.«
 
-Harald meinte hierzu!
+Harald meinte hierzu:
 
 <@pagebreak/>
 »Es stimmt also … Saßtalas Verhaftung, die wir
 erzwangen, hat O’Neil böse geängstigt … — Der
-»» Deutsche« bin ich natürlich. Und »Komme allein« beweist,
+»Deutsche« bin ich natürlich. Und »Komme allein« beweist,
 daß Longfellow in Multan noch Helfershelfer hatte. —
 »Sache muß beendet werden« — das ist der einzige dunkle
 Punkt … — Welche Sache?! Woran arbeitet diese Bande
@@ -2006,49 +2004,51 @@ nun bereits monatelang, eben seit die Raketen aufstiegen,
 und das sind etwa acht Monate her, meint Morton …
 Acht Monate ist der Professor in Indien …«
 
-Harst sprang aus, ging hin und her … Blieb vor mir
-
+Harst sprang auf, ging hin und her … Blieb vor mir
 stehen …
+
 »Mein Alter, ich habe eine Idee … Ich Werde die
 Prinzessin um etwas bitten …«
 
-»Und das wäre?k«
-»Komm’ nur mit … Wir Kassen uns bei ihr an
+»Und das wäre?«
 
-melden …«
+»Komm’ nur mit … Wir lassen uns bei ihr anmelden
+…«
+
 Unten im Flur begegneten wir Sadik …
 
-Harald 10a den Allen in eine, Ecke …
-»legen Sie mal, Hausmeister, ob man hier in Bawag-far
-unseren zu kannten bekommt?«
+Harald zog den Allen in eine Ecke …
 
-»Nein … angeschlossen …
+»Sagen Sie mal, Hausmeister, ob man hier in Bawalar
+Raketen zu kaufen bekommt?«
 
-» Aber in Multan?«
+»Nein … ausgeschlossen …«
+
+»Aber in Multan?«
 
 »Natürlich …«
 
 Sadik meldete uns der Prinzessin …
 
-Und diese stellte uns dann eines ihrer Autos zur Der
-Dünung — zu einer Spazierfahrt — — vielleicht bis zum
+Und diese stellte uns dann eines ihrer Autos zur Verfügung
+— zu einer Spazierfahrt — — vielleicht bis zum
 Ghara-Fluß.
 
-Bevor wir aufbrachen, nahm Harst noch Doktor wollen
+Bevor wir aufbrachen, nahm Harst noch Doktor Morton
 beiseite …
 
-»Doktor, damit Sie es wissen! Saßtala steckt in einem
+»Doktor, damit Sie es wissen: Saßtala steckt in einem
 der Koffer des Professors! Geben Sie also ein wenig auf
 den Gelehrten acht …!«
 
 Morton lächelte diskret …
 
 »Ein sauber Fisch, dieser Longfellow! Ich wußte
-es … — Tier können sich auf mich verlassen, lieber Harst.«
+es … — Sie können sich auf mich verlassen, lieber Harst.«
 
 <@pagebreak/>
 Dann glitt das offene Auto mit uns die Straße gen
-Norden. entlang …
+Norden entlang …
 
 Vier Stunden später waren wir in Multan …
 
@@ -2068,75 +2068,75 @@ herstelle …
 
 Die Chinesen sind ja Künstler auf diesem Gebiet …
 
-Ja T€- Raketen habe er ebenfalls … Zwei Sorten …
+Ja — Raketen habe er ebenfalls … Zwei Sorten …
 Kleine mit farbigen Leuchtkugeln und große …
 
 Gewiß … auch kleine mit roten Leuchtkugeln …
-Die seien besonders angesjertigt worden für Mr. Jackson,
+Die seien besonders angefertigt worden für Mr. Jackson,
 der unten am Ghara-Fluß die Plantage habe … Mr.
 Jackson sei jedoch ausgeblieben … Er wollte die neuen
-sechs Taschen schon vorgestern abholen …
+sechs Raketen schon vorgestern abholen …
 
-»» Wir brauchen sie für ein Gartenfest…« meinte Gangart
+»Wir brauchen sie für ein Gartenfest …« meinte Harald
 und ließ sich eine Menge anderer Feuerwerkskörper
-mit einpacken 6 wo ck
+mit einpacken … —
 
-Unser Auto erwartete uns am Bahnhof. Harald ein
-kündigte sich hier nach Jacksons Plantage … Dann fuhren
+Unser Auto erwartete uns am Bahnhof. Harald erkundigte
+sich hier nach Jacksons Plantage … Dann fuhren
 wir zum Postamt … Und hier etwa dasselbe Spiel wie
 in Bawalar, — auch ein würdiger älterer Inder als Postvorsteher
-… Auch hier lüftete Harald Teile des Geheimnisse,
+… Auch hier lüftete Harald Teile des Geheimnisses,
 bat um strengste Verschwiegenheit und Hilfe …
 
 Der Postmeister, einer jener pflichttreuer Beamten, die
 sich um alles kümmern, nannte uns sofort den Namen des
 Mannes, der die aus Bawalar eingetroffenen Chiffredepeschen
-erhalten? Mr. Jackson, ein Engländer, der vor
-»neun Jahr die völlig heruntergewirtschaftete Zuckerrohrplantage
-Herein Hause am Ghara für einen Spottpreis gelangst
+erhalten: Mr. Jackson, ein Engländer, der vor
+einem Jahr die völlig heruntergewirtschaftete Zuckerrohrplantage
+Greela House am Ghara für einen Spottpreis gekauft
 habe und jetzt dort Dromedarzüchter spielte … — ein
 <@pagebreak/>
-Mensch, der ganz für erhebe, dem man aber nichts nachsagen
+Mensch, der ganz für sich lebe, dem man aber nichts nachsagen
+könne …
 
-kenne …
-Teil dankten für die freundliche Auskunft und gingen …
+Wir dankten für die freundliche Auskunft und gingen …
 
-Dinltarrst-eine-im: Weltstadt von etwa 150&nbsp;000 Einwohnern.
-Der Polizeiche!, ein Engländer, dem wir uns
+Multan ist eine Handelsstadt von etwa 150&nbsp;000 Einwohnern.
+Der Polizeichef, ein Engländer, dem wir uns
 vorsichtshalber unter anderen Namen melden ließen, war
 sehr überrascht und ebenso interessiert, als Harst nun auch
 ihm von den Vorgängen in Bawalar Mitteilung machte …
 
-Er betonte, daß er O’Neil persönlch; sehr gut keine,
+Er betonte, daß er O’Neil persönlch sehr gut kenne,
 denn sein Kollege aus Bawalar käme häufig hierher …
 
-doch — daß der lange Irländer unzuverlässcg sein
+doch — daß der lange Irländer unzuverlässig sein
 sollte, das wollte ihm zunächst gar nicht in den Kopf …
-Allmählich mußte er dann doch einsehen, wie stark »ie Er-eiganissjse
-Teil belasteten … +.
+Allmählich mußte er dann doch einsehen, wie stark die
+Ereignisse O’Neil belasteten …
 
-»Wie kann ich Ihnen helfen, meine Kellern Ich) bin
+»Wie kann ich Ihnen helfen, meine Herren? Ich bin
 Ihnen in jeder Weise zu Diensten …«
 
 »Wir bitten nur um die nötigen Mittel, uns verkleiden
 zu können …« erwiderte Harald … »Wir werden der
-Prinzessin sofort telegraphisch -Bescheid geben, daß eine
+Prinzessin sofort telegraphisch Bescheid geben, daß eine
 Autopanne uns hier zurückhält … Und dann wollen wir
 Mr. Jackson besuchen … Wenn er Dromedarzüchter ist,
 wird er zwei Händlern kaum mißtrauen … Am besten ist,
-wir spielen uns als Perser auf … Besitzer in Lahore
-haben eingewanperte Perser zeterte! fansmännsche wartete
-Unternehmungen … Also kommen mfirx aus Lahore…« —
+wir spielen uns als Perser auf … Drüben in Lahore
+haben eingewanderte Perser allerlei kaufmännische
+Unternehmungen … Also kommen wir aus Lahore …« —
 
 In Nordwestindien gibt es in jeder Stadt, jedem Städtchen
 persische Kaufleute. Sie sind sämtlich fleißig, ehrlich,
 schlau und zumeist bei der Bevölkerung beliebt.
 
-Und zwei solcher Händler Jahren gegen Abend im Auto
-bis in die Nähe der Herein Hause-Plantage, ließen das
-Maske in einem Dorfe zurück und schritten mit ihren kleinen
+Und zwei solcher Händler fuhren gegen Abend im Auto
+bis in die Nähe der Greela House-Plantage, ließen das
+Auto in einem Dorfe zurück und schritten mit ihren kleinen
 Bündeln zu Fuß den sandigen, steinigen, erbärmlichen
-Wen weiter entlang …
+Weg weiter entlang …
 
 Dann vor uns der verwahrloste Bungalow, das Wohnhaus,
 — auf einer Anhöhe des Nordufers … Es dunkelte
@@ -2144,244 +2144,244 @@ Dann vor uns der verwahrloste Bungalow, das Wohnhaus,
 bereits … Die Abenddämmerung mußte in kurzem durch
 die Nacht abgelöst werden.
 
-Weit und Brei! war kein Mensch zu sehen … Wir
-Riesen … Wir stammelt!en mit Fürsten gegen die Türen …
+Weit und breit war kein Mensch zu sehen … Wir
+riefen … Wir trommelten mit Fürsten gegen die Türen …
 Dann wandten wir uns den Ställen zu … Endlich hier
-ein verschlafener alter Inder, ein Kerl, der vor Schraut
+ein verschlafener alter Inder, ein Kerl, der vor Schmutz
 starrte und Dementsprechend stank …
 
 Mr. Jackson?! Oh — der habe heute vormittag alle
-Dromedare verkauft alt auch die Plantage … In Multan
-sei alles bei einem Bauart abgeschlossen worden, der
-
-Käufer sei ein Mann aus Labore … »sich bin hier als
-Wächter eingesetzt … Ich) war Dromedarpfleger bei Mr.
+Dromedare verkauft und auch die Plantage … In Multan
+sei alles bei einem Anwalt abgeschlossen worden, der
+Käufer sei ein Mann aus Lahore … »Ich bin hier als
+Wächter eingesetzt … Ich war Dromedarpfleger bei Mr.
 Jackson …«
 
-Harald gab dem Schmierfink eine Golömäünze …:
+Harald gab dem Schmierfink eine Goldmünze …
 
-Ob wir nicht die Nacht im Bungqniow schlafen könnten
+Ob wir nicht die Nacht im Bungalow schlafen könnten
 … Zur Rückkehr nach Multan sei es doch zu spät …
 
-Gewiß könnten wir das … — uns der alte Kerl
-kam mit uns … schloß das Wohnhaus ans und zündete ist
+Gewiß könnten wir das … — Und der alte Kerl
+kam mit uns … schloß das Wohnhaus auf und zündete in
 Mr. Jacksons Arbeitszimmer eine Petroleumlampe an …
 
 Ein elendes Loch, dieses Zimmer … Elendes Gerümpel
 als Möbel …
 
 Nebenan das ebenso ärmliche Schlafzimmer … Die
-südlichen »Zimmer leer … Die Dielen halb verkauft …
+übrigen Zimmer leer … Die Dielen halb verfault …
 
-Palast fragte den Schmierfink, wohin Mr. Jackson
-jener
-»nach: Bombay, sagte er …«
+Harald fragte den Schmierfink, wohin Mr. Jackson
+gereist …
+
+»Nach Bombay, sagte er …«
 
 Eine zweite Münze macht den Alten redselig …
 
 Harst deutet zum Fenster hinaus über den Fluß, wo
-am Südufer die Berge sich noch emportürmen …
+am Südufer die Berge sich hoch emportürmen …
 
-»Dort muß es Wild geben … Ha: Mr. Jackson zuweilen
-auf Bergschafe »gesagt?«
-»30 — er war jeden Abend draußen …«.« stehen
+»Dort muß es Wild geben … Hat Mr. Jackson zuweilen
+auf Bergschafe gejagt?«
 
-Abend ruderte er über den hinzu
+»Ja — er war jeden Abend draußen … Jeden
+Abend ruderte er über den Fluß …«
 
-»Und kam spät zurück …
+»Und kam spät zurück …«
 
-»Das weiß ich nicht … »Und auch) sein Diener sprach
-nie darüber … Der sehr cf bei uns in den Ställen …«
+»Das weiß ich nicht … Und auch sein Diener sprach
+nie darüber … Der schlief bei uns in den Ställen …«
 
 <@pagebreak/>
-»Oh Jason wohl mal Dein? empfing?«
-»34. + + Finger denselben, Sahib, der sehr lang und
+»Ob Jason wohl mal Besuch empfing?«
+
+»Ja … Immer denselben, Sahib, der sehr lang und
 dürr war …«
 
-Also Lonzgiolow — natürlich! —
+Also Longfellow — natürlich! —
 
-darf Reling Wi den allen weg …
+Dann schickten wir den Alten weg …
 
-As jebloijjeii Die Tür hinter ihm ab, verriegelten die
-Türen des besteht Arm: ner, ließen die Stabvjalousien herab
-und zogen die Vorkomme zu …
+Und schlossen die Tür hinter ihm ab, verriegelten die
+Türen des beiden Zimmer, ließen die Stabjalousien herab
+und zogen die Vorhänge zu …
 
 dann setzen wir uns an den länglichen Tisch im Arbeitszimmer
-und Toten Finstere Eßwaren aus …
+und packten unsere Eßwaren aus …
 
-»Erde unheitnttiche Bude!« meinte ich, und — das kam
+»Eine unheimliche Bude!« meinte ich, und — das kam
 mir aus der Seele …
 
-Harald nickivx … öffnete eine Büchse Sardinen …
-drehte den Schlüssel, und mit besteht Kreischen zerriß das
+Harald nickte … öffnete eine Büchse Sardinen …
+drehte den Schlüssel, und mit leisem Kreischen zerriß das
 Blech …
 
 Urplötzlich hielt er inne …
 
-Ein unbestimmbarer Ton war durch) die raunte bis zu
-Was gebraucht
+Ein unbestimmbarer Ton war durch die Räume bis zu
+und gedrungen …
 
-Wir strömte alles Blut Hund Derzeit …
+Mir strömte alles Blut zum Herzen …
 
-Ich fühlte, daß ich Fluß wurde …
+Ich fühlte, daß ich blaß wurde …
 
-Diese Töne, die sich kaum irgendwie schildern neben,
+Diese Töne, die sich kaum irgendwie schildern ließen,
 waren grauenvoll …
 
-Harald schob die Sardinenbüchse weg und Natur die
-T. sehenlampe, steckte die entsicherte Pistole in die rechte
-
+Harald schob die Sardinenbüchse weg und nahm die
+Taschenlampe, steckte die entsicherte Pistole in die rechte
 Außentasche …
-»Komm’, mein Alter …!«
 
-te
+»Komm’, mein Alter …!«
 
 <h2>3. Kapitel.</h2>
 <h3>Der Stachel des Skorpions.</h3>
-Ich) betitelt die Clement in der Hand … In der Drin
-Gedanken trug ich die Petroleumlampe …
-Und — im beritten Vorderzimmer nach dem Flusse zu …
+
+Ich behielt die Clement in der Hand … In der Linken
+trug ich die Petroleumlampe …
+
+Und — im dritten Vorderzimmer nach dem Flusse zu …
 fanden wir den Schmierfink — in einer Schlinge mitten
 im Zimmer an einem Haken des Deckenballens hängend …
-
 <@pagebreak/>
 Der Mann hatte in seiner Todesangst mit der Rechten
-den Blei über seinem Köpfe umklammert …
+den Strick über seinem Köpfe umklammert …
 
 Sein schrilles, halb ersticktes Angstgeschrei trieb mir den
-falten Schweiß aus die Stirn …
+kalten Schweiß auf die Stirn …
 
-Harst schnitt ihn!es …
+Harst schnitt ihn los …
 
 Trug ihn ins Arbeitszimmer …
 
-Trug — nur noch einen Patent …
+Trug — nur noch einen Toten …
 
 Denn als wir den alten Mann nun genauer untersuchten,
 fanden wir in seiner Brust einen Dorn der sogenannten
-Mestaza stecken, einer Dornenart. deren Stacheln zuweilen
+Mestaza stecken, einer Dornenart, deren Stacheln zuweilen
 handlang werden und hart wie Eisen sind …
 
 Der Alte war tot …
 
 Harald meinte nur:
 
-»hatten ist nicht abgereist!«
+»Jackson ist nicht abgereist!«
 
 Das sagte genug …
 
 Wir brachten die Leiche nebenan ins Schlafzimmer.
-Dann riegelten wir uns wieder riß und durchsuchten diese
+Dann riegelten wir uns wieder ein und durchsuchten diese
 beiden Zimmer …
 
-Nichts … Wir dursten uns sicher führen …
+Nichts … Wir durften uns sicher führen …
 
-Saßen wieder am Tisch und … tranken das Kognak-Gläschen
-jeder.
+Saßen wieder am Tisch und … tranken das Kognakfläschchen
+leer.
 
 Nur flüsternd unterhielten wir uns …
 
 »Wir sitzen hier böse in der Patsche, mein Alter …
 Ich möchte fast annehmen, daß …«
 
-Seltsam — seine Stimme- klang immer entfernten …
+Seltsam — seine Stimme klang immer entfernter …
 
 Sein Gesicht verschwamm, als ob sich Nebelmassen davor
-zusammenbaüÜten …
+zusammenballten …
 
 Und — mein Kopf sank vornüber …
 
 Ein letzter klarer Gedanke:
 
-»Kognak — — Scchlastirunkf — — dergleichen …!!’«
+»Kognak — — Schlaftrunk — — dergleichen …!!«
 
 dann nichts mehr …
 
-Stiniaidenlang …
+Stundenlang …
 
-Bis ein stechender Schmerz an den Haundgelenken mich
+Bis ein stechender Schmerz an den Handgelenken mich
 weckte …
 
-Mein umstrichen Blick glitt matt unsrer …
+Mein umflorter Blick glitt matt umher …
+
 Tisch — Petroleumlampe … Unsere Eßwaren …
 
 <@pagebreak/>
-Palast getan Wie ich an den schäbigen Rohrsessel mit
-dilnmmnem Draht gefesselt —
+Harald genau Wie ich an den schäbigen Rohrsessel mit
+dünnem Draht gefesselt —
 
-Max gegenüber sei ein Fremder, ein Europäer …
-Raucbtie … zeigte
+Uns gegenüber sei ein Fremder, ein Europäer …
+Rauchte … Grinste …
 
-Y56k erreichten Wein Flur …
+Worte erreichten mein Ohr …
 
-Leiche sehe
+Haralds Stimme …
 
-er Bad 250df0ul!«
+»Sie sind Jackson!!«
 
-»Dr 14 eilten, Wir. Harst?« höhnte der Kerl mit
-beim jetwainzuun Spitzbart und drin pechschwarzen Scheitel …
-»hatten ist ein Name, der sehr häufig ist … — doch
-— hatten wir das … Nacht Ei laut ist nun wieder Dampfer
-22Wworden … Das Tränklein, das ich in Ihren beginnt
-tat, während Sie den alten Kerl holten, war schob
-sollte schwach sein … ich— Sie haben eine Dummheit gemacht,
+»Wer ist Jackson, Mr. Harst?« höhnte der Kerl mit
+dem schwarzen Spitzbart und dem pechschwarzen Scheitel …
+»Jackson ist ein Name, der sehr häufig ist … — Doch
+— lassen wir das … Auch Schraut ist nun wieder munter
+geworden … Das Tränklein, das ich in Ihren Kognak
+tat, während Sie den alten Kerl holten, war schwach …
+sollte schwach sein … — Sie haben eine Dummheit gemacht,
 Mr. Harst … Heute bei dem Chinesen in Multan …
-sei) war kurz nach Ihnen dort … Und so kam ich Alten
-aus die Spur. Sie haben den Chinesen zu viel gefragt, viel
-zu viel … Besonders die roten anderen!! Und dann
-waren Sie bei dem Postimeijner ck. — In, Sie sind 10-
-köstlich) … Jetzt aber nicht mehr, Mr. Harst … Der
-Ghara-Fluß wimmelt von ad:rokodilean … Und die
+Ich war kurz nach Ihnen dort … Und so kam ich Ihnen
+auf die Spur. Sie haben den Chinesen zu viel gefragt, viel
+zu viel … Besonders die roten Raketen!! Und dann
+waren Sie bei dem Postmeister … — Ja, Sie sind gefährlich
+… Jetzt aber nicht mehr, Mr. Harst … Der
+Ghara-Fluß wimmelt von Krokodilen … Und die
+Stacheln der Mestaza sind besser als ein Dolch … Ein
+Dolch verrät manches … die Stacheln nichts …«
 
-Stacheln der Mestaza sind besser »als ein Dolch … Ein
-voll) verrät manches … die Stacheln nichts …«
+Und er griff in die Tasche seiner Leinenjacke und holte
+eine lange runde Büchse hervor, öffnete sie …
 
-Und er griff in die Tasche seiner Leineunjake und holte
-eine lange runde Büchse hervor. öffnete sie …
+Nahm vorsichtig zwei Stacheln heraus, legte sie auf
+den Tisch …
 
-Nahm vorsichtig zwei. Stacheln heraus, legte sie auf
-Bein Tisch …
+Begann wieder:
 
-Begqauu Wieder:
-
-»Bei Ihnen liegt die Cntsicheidung, Mr. Harst
-was Wissen Sie und was vermuten Sherry! — Wenn Die
-Pfad) nur in einem Punkte die Umwahrbheit sonst)en, sind Sie
+»Bei Ihnen liegt die Entscheidung, Mr. Harst …
+was wissen Sie und was vermuten Sie?! — Wenn Sie
+auch nur in einem Punkte die Unwahrheit sprechen, sind Sie
 beide verloren!«
 
-»las sind wir wohl in scheut Falle, Mr. Jackson
-oder wie Sie sollst heißen mögen … Sie werden uns doch
-nicht einreden wollen, daß Sie uns schonen werden, worum
-ich aufrichtig bin … Im Gegenteil:Wäre ich es, so tastete
+»Das sind wir wohl in jedem Falle, Mr. Jackson …
+oder wie Sie sonst heißen mögen … Sie werden uns doch
+nicht einreden wollen, daß Sie uns schonen werden, wenn
+ich aufrichtig bin … Im Gegenteil: Wäre ich es, so hätten
 <@pagebreak/>
-… ten Sie noch mehr Grund, mich zu beseitigen — uns beide!
-also — keine Redensarten!«
+Sie noch mehr Grund, mich zu beseitigen — uns beide!
+Also — keine Redensarten!«
 
 Jackson beugte sich vor …
 
-Der Mensch hatte das reine WMkphijiogesicht …!an-«
-ter den wieder schwvarzeu Brauen glühten ein Paar unheimliche
+Der Mensch hatte das reine Mephistogesicht … Unter
+den dicken schwarzen Brauen glühten ein Paar unheimliche
 Augen …
 
-»Ganz recht, Mr. Harst, — keine Redenszarten!! Ich
-war »unangenehm überrascht, als ihm entfuhr, daß Sie selbst
-von den roten anderen etwas wissen … Und den Kaniel-wärter,
-dort ich nun stumm gemacht habe, fragten Sie nach
-weinen Besucher …
+»Ganz recht, Mr. Harst, — keine Redensarten!! Ich
+war unangenehm überrascht, als ich entfuhr, daß Sie selbst
+von den roten Raketen etwas wissen … Und den Kamelwärter,
+den ich nun stumm gemacht habe, fragten Sie nach
+meinem Besucher …
 
-»Ja — Loungsellow …!!«
+»Ja — Longfellow …!!«
 
-Jackson lehnte ein rasch zurück … Ihm war das
-Blut zu Köpfe gestiegen …
+Jackson lehnte sich rasch zurück … Ihm war das
+Blut zu Kopfe gestiegen …
 
 »Vielleicht werden Sie reden, wenn Sie sehen, daß ich
-nicht scherze, Ankunft … Man hat nur ein Leben tw
-Fenstern … »Und ich verspreche Sydney auf mein Ehre Jawort,
-daß …
+nicht scherze, Mr. Harst … Man hat nur ein Leben zu
+verlieren … Und ich verspreche Ihnen auf mein Ehrenwort,
+daß …«
 
-Harald (achte ironisch …«
+Harald lachte ironisch …
 
-»Ehrenwort?! hielt
+»Ehrenwort?! Sie?!«
 
 Da schnellte Jackson empor …
 
@@ -2389,92 +2389,92 @@ Blaß — sinnlos vor Wut …
 
 Griff nach einer der langen Stacheln …
 
-War im Moment noch mir …
+War im Moment vor mir …
 
-lebte mir die Spitze auf den dünnen Stoff …
+Setzte mir die Spitze auf den dünnen Stoff …
 
 Auf das Herz …
 
 Ich … schloß die Augen …
 
-Was ich in jener Sekunde empfand, als ich Hof!/dazu
-fürchtete, der Unhold würde mich kaltblütig abschlacu!… ist
-mit Worten kann wiederzugeben …
+Was ich in jener Sekunde empfand, als ich bestimmt
+fürchtete, der Unhold würde mich kaltblütig abschlachten, ist
+mit Worten kaum wiederzugeben …
 
-Haralds Burnus …
+Haralds Stimme …
 
-Und — in dieser Stimme klang die Angst um Wein
+Und — in dieser Stimme klang die Angst um mein
 Leben zitternd mit …
 
-»Halt!! Fragen Sie?!«
+»Halt!! Fragen Sie!!«
 
-Dann — von linken Fenster her ein Klirren …
+Dann — vom linken Fenster her ein Klirren …
 
-(! Ein Schuß …
+Ein Schuß …
 
 <@pagebreak/>
-Jason stand noch über mich gebeugt da …
+Jackson stand noch über mich gebeugt da …
 
-Und sich nun schwer zur Seite …
+Und fiel nun schwer zur Seite …
 
 schlug dumpf auf die Dielen auf …
 
-teilte Arme und Beine zuckten … 6.
+Sein Arme und Beine zuckten …
 
-dann … lag ereilt …
+dann … lag er still …
 
 Harald und ich stierten zum Fenster hin …
 
-Die Stäbe der Jalousie zersplitterten … selben
-klirrten von gerufen … Und herein schwang sich der junge
-Chauffeur mit den rissigen Augen … Unser Chauffeur,
-überrascht unser Retter … —
+Die Stäbe der Jalousie zersplitterten … Scheiben
+klirrten von neuem … Und herein schwang sich der junge
+Chauffeur mit den pfiffigen Augen … Unser Chauffeur,
+jetzt unser Retter … —
 
-— Wir waren frei …« …
-Jacksons Leiche (die Kugel hatte den Kopf glatt durch
+Wir waren frei …
 
-schlagen) wurde ins Schlafzimmer gebracht und neben den
-Inder ans die Dielen gelegt …
+Jacksons Leiche (die Kugel hatte den Kopf glatt durchschlagen)
+wurde ins Schlafzimmer gebracht und neben den
+Inder auf die Dielen gelegt …
 
-Unser Retter erzählte: ck
+Unser Retter erzählte:
+
 »Ich stand neben der Straße im Gebüsch unweit des
-
-Dorfes, wo ich das Auto untergestellt hatte; … Ich wollte
+Dorfes, wo ich das Auto untergestellt hatte … Ich wollte
 mir noch ein wenig Bewegung wachen … Da sah ich den
-Schwarzbärtigen auf einem Rabe von Multan auf dem
-Aufstieg daherkommen … Er stieg ab und umging das
+Schwarzbärtigen auf einem Rade von Multan auf dem
+Fußsteg daherkommen … Er stieg ab und umging das
 Dorf, schleppte sein Rad durch den Wald. Das machte mich
-argwöhnisch; … Ich folgte ihm … Er gewann Voxr-sprung,
+argwöhnisch … Ich folgte ihm … Er gewann Vorsprung,
 und erst in der Dunkelheit langte ich hier an …
-Der Einsahen war finster …« Ich umschlich ihn …
-Und als ich dort vor den Fenstern, stand, hörte ich sprechen,
-konnte und) durch die -Stäbe und durch die nicht fest schließenden
+Der Bungalow war finster … Ich umschlich ihn …
+Und als ich dort vor den Fenstern stand, hörte ich sprechen,
+konnte auch durch die Stäbe und durch die nicht fest schließenden
 Vorhänge hineinschauen … — Mr. Harst, die
-Polizei wird mich doch nicht Firma verhassten, weil ich …
+Polizei wird mich doch nicht etwa verhaften, weil ich …«
 
-»Nein — keine Sorge …! Im Gegenteil: Du wieder
+»Nein — keine Sorge …! Im Gegenteil: Du wirst
 eine Belohnung erhalten! Jackson hätte meinen Freund
-unfehlbar getötet … — Wir müssen nach Bawalar aus
-rü … Sofort … Nur eins will ich noch tun: Jacksons
-
+unfehlbar getötet … — Wir müssen nach Bawalar zurück
+… Sofort … Nur eins will ich noch tun: Jacksons
 Anzug durchsuchen!«
-an das, was Jackson in den Taschen hatte, war bot
 
-deutuna8l038 …
+All das, was Jackson in den Taschen hatte, war
+bedeutungslos …
+
 Harst befühlte jetzt die Nähte, auch die Mütze …
-
 <@pagebreak/>
 Schließlich zog er dem Toten sogar die Schuhe aus …
+
 Und — hier unter einer Einlegesohle des rechten Stiefels
 fand er etwas — etwas sehr Merkwürdiges: eins jener
 hellgrauen großen Blätter des sogenannten Mastixstrauches,
-dessen Blattischmuck genau so aussieht, als ob die Blätter
-aus Gegnerin Dreckigen Papier geschnitten sind … — —
+dessen Blattschmuck genau so aussieht, als ob die Blätter
+aus grauem fleckigen Papier geschnitten sind … — —
 
-Ich will stört Stunden überspringen …
+Ich will fünf Stunden überspringen …
 
-Wir längsten um sechs Uhr morgens in Hausarzt an.
-Alles kam jetzt daraus an, daß wir urplötzlich den großen
+Wir langten um sechs Uhr morgens in Bawalar an.
+Alles kam jetzt darauf an, daß wir urplötzlich den großen
 Schlag gegen die Verbrecher führten …
 
 Wir weckten Doktor Morton … In seinem Schlafzimmer
@@ -2484,163 +2484,168 @@ berichteten wir ihm das Erlebte …
 Residenten Sir Loringstone … Der Resident als Vertreter
 der indischen Regierung wird uns die nötigen Beamten
 zur Verfügung stellen … Um neun Uhr vormittags
-sollen O’Neil, sein Sohn, Longfellow und Mahmud gleich
-
-zeitig verhaftet werden…« —
+sollen O’Neil, sein Sohn, Longfellow und Mahmud gleichzeitig
+verhaftet werden …« —
 
 Dann gingen wir in unsere Zimmer in den Westflügel
-und schien uns in die Korbsessel im Salon, um angekleidet
-noch zwei Stunden zu schlafen — wenigstens zwei stand
-
+und setzten uns in die Korbsessel im Salon, um angekleidet
+noch zwei Stunden zu schlafen — wenigstens zwei Stunden
 …
 
-Harald hakte bisher über das Blatt des indischen
-Mastixitranchjes kein Wort verloren …
+Harald hatte bisher über das Blatt des indischen
+Mastixstrauches kein Wort verloren …
 
-Irr … schlief ein …
+Ich … schlief ein …
 
 Träumte …
 
 Von Jackson, dem anderen Skorpion …
 
-Fuhr in neuer Todesangast empor.«.
+Fuhr in neuer Todesangst empor …
 
-Und … sah Harald mir gegenüber am Tische schon …
-Er hatte aus einem Fernglas die untere Linse herans-neschraunbt
+Und … sah Harald mir gegenüber am Tische sitzen …
+Er hatte aus einem Fernglas die untere Linse herausgeschraubt
 und benutzte sie als Vergrößerungsglas und
-allein so das unscheinbare Blatt …
+prüfte so das unscheinbare Blatt …
 
 Merkte gar nicht, daß ich wach geworden …
 
 »Harald!!«
 
-(Nr schaute aus…
+Er schaute auf …
 
-»eine Augen strahlten …
+Seine Augen strahlten …
 
 <@pagebreak/>
 »Endlich, mein Alter!!«
-»Inwiefern endlich?!«
-Ich stand auf und Draht neben ihn …
-»Bitte — nimm die Linse und das Blatt … Was
 
+»Inwiefern endlich?!«
+
+Ich stand auf und trat neben ihn …
+
+»Bitte — nimm die Linse und das Blatt … Was
 siehst Du?!«
+
 Ich ging zur Balkontür — in den Sonnenschein …
 
-größte … —
+Prüfte …
+
 Und — fand …
-Da Waren haarfeine Linien zu erkennen — offenbar
 
-mit einer Zeichensceder mit schwärzlicher Tusche eingetragen.
-Vierecke, Quadrate, Halbkreise — — ein unentwirtr-bares
-Zuviel von Linien …«.
+Da waren haarfeine Linien zu erkennen — offenbar
+mit einer Zeichenfeder mit schwärzlicher Tusche eingetragen.
+
+Vierecke, Quadrate, Halbkreise — — ein unentwirrbares
+Zuviel von Linien …
+
 Ich schüttelte den Kopf — zuckte die Achseln …
-»Gib mir das Blatt,« sagte Harald … »sich hoffte,
-Du würdest von allein auf das Nichtige kommen … Nun
-mißt Du eben warten … Jedenfalls weiß ich jetzt Boot
 
+»Gib mir das Blatt,« sagte Harald … »Ich hoffte,
+Du würdest von allein auf das Richtige kommen … Nun
+mußt Du eben warten … Jedenfalls weiß ich jetzt 
 Bescheid …
-Es stopfte …
+
+Es klopfte …
+
 Schnell tat er das Blatt in seine Brieftasche.
+
 »Herein …!«
 
 Doktor Morton … sehr erregt …
-»Meine Herren, alles ist bereit … Sir Lorifngstone
 
-wird die beiden O’Neils verhassten … Hier sollen wir
-handeln …
+»Meine Herren, alles ist bereit … Sir Loringstone
+wird die beiden O’Neils verhaften … Hier sollen wir
+handeln …«
 
-»st Longfellow. — heute zum … Frühstück erschienen,
+»Ist Longfellow heute zum Frühstück erschienen,
 Doktor?«
 
-»Nein … Er schläft noch …
+»Nein … Er schläft noch …«
 
-»schlägt von?!«
+»Schläft noch?!«
 
 Harald sah nach der Uhr …
 
-»schlägt noch?k! Und — fünf Mimiuten vor nennt!
+»Schläft noch?! Und — fünf Minuten vor neun?!
+— Doktor, — los denn! Wo sind des Residenten Beamte
+…?«
 
-— Doktor, — [98 denn! Wo sind des Residenten Beamte
-…«
+»Im Park versteckt … Ich brauche nur vom Balkon
+zu winken … Major Effingham ist mit dabei, der
+Adjutant Sir Loringstones …«
 
-»in Park versteckt … Ich) brauche mir vom Balkon
-zu winken … Major Essingham ist mit dabei, der Schluß
-
-Adjutant Sir Porinngsiones …’
-
-»Winken Sie …![«
+»Winken Sie …!«
 
 <@pagebreak/>
-Und dann — in den Liislügel — zu des Professors
-
+Und dann — in den Ostflügel — zu des Professors
 Zimmern …
 
-Wir hinein in den Wohnsalon, hinein in das Soll;Vorzimmer
+Wir hinein in den Wohnsalon, hinein in das Schlafzimmer
 …
 
-der …
+Leer …
 
 Die drei großen Koffer dort …
 
-Wir brechen sie aus…
-Zwei mit Büchern und Kleidern und andere:in gen
+Wir brechen sie auf …
 
-füllt …
-Der dritte — — mir eine Wolldecke … nur ein
-Wissen …
-»Hier war Saßtala verborgen!« meint Harald
+Zwei mit Büchern und Kleidern und anderem gefüllt
+…
+
+Der dritte — — nur eine Wolldecke … nur ein
+Kissen …
+
+»Hier war Saßtala verborgen!« meint Harald …
+
 Dann hinter uns Stimmen …!
 
 Sadik mit den anderen Beamten …
 
-»Mr. Harst, Mahmud ist Mensch)wurden …!!«
+»Mr. Harst, Mahmud ist verschwunden …!!«
 
-Harald nickt Nr …
+Harald nickt nur …
 
-»zu — Wir sind eben zu spät gekommen …«!«
+»Ja — Wir sind eben zu spät gekommen …!«
 
-tranken Autogeräusch …
+Draußen Autogeräusch …
 
-Seine Exzellenz der Assistent …
+Seine Exzellenz der Resident …
 
-Wir eilen in die Vorhalle … Sir Loringstone fast
-un& entgegen:
+Wir eilen in die Vorhalle … Sir Loringstone ruft
+uns entgegen:
 
 »Die O’Nceils sind vor zwei Stunden verschwunden …
-Die Diener sahen sie erlebt im Garten des Bungalows :. a«
+Die Diener sahen sie zuletzt im Garten des Bungalows …!«
 
 Harald bleibt kalt …
 
-— entsprechen nach allen -»Eisenbahnstationen, Sir Loringstone,
+»Depeschen nach allen Eisenbahnstationen, Sir Loringstone,
 — an alle Polizeiämter … Dann das Militär in
 Patrouillen in die Umgebung der Stadt …!«
 
-Eine andere Stimme — schrill — in hellem Erwischen
-— —: Sadik, bei den Flur entlangrennt …
+Eine andere Stimme — schrill — in hellem Entsetzen
+— —: Sadik, der den Flur entlangrennt …
 
-» Die Prinzessin … auch verschwunden …!! Um
-eben Uhr nahm sie von mit Doktor Morton das Frühstück
-ein … Sie hast den Palast bestimmt nicht verlassen …
-Ihre Gemächer habe leide schon durchsucht … Ich wollte
-Sir Loringstone anmelden … Auf den! Sdqckjieibtisch im
-Salon liegt ein aufgegangenen Brief +…
+»Die Prinzessin … auch verschwunden …!! Um
+sieben Uhr nahm sie noch mit Doktor Morton das Frühstück
+ein … Sie hat den Palast bestimmt nicht verlassen …
+Ihre Gemächer habe ich schon durchsucht … Ich wollte
+Sir Loringstone anmelden … Auf dem Schreibtisch im
+Salon liegt ein angefangener Brief …«
 
 Sadik zittert …
 
 <@pagebreak/>
-Wir alle sind ein …
+Wir alle sind starr …
 
-Harst! bleibt?alt … als einziger …
+Harst bleibt kalt … als einziger …
 
-»Sir Loiittgstone, die ganze Polizei muß auf die Beine
-gebracht werden …! — Finger Clsjingham, das Kaviar
-berichten! — Vormache, Kneipe Herren … »I«
-
-Tote €
+»Sir Loringstone, die ganze Polizei muß auf die Beine
+gebracht werden …! — Major Effingham, das Militär
+verteilen! — Vorwärts, meine Herren …!«
 
 <h2>4. Kapitel.</h2>
-<h3>Die Krone von Liatvalar.</h3>
+<h3>Die Krone von Bawalar.</h3>
 
 Morton, Sadik und wir beide stehen im Salon vor
 den Sqhreibtisch
@@ -2934,7 +2939,7 @@ sich um uns geängstigt.
 
 Harald berichtete: …
 
-» — « Also eine Enttäuschung eigentl:ich,« meinte er
+» — « Also eine Enttäuschung eigentlich,« meinte er
 zum Schluß. »Ich sollte die Prinzessin zu finden, die man
 hier Strich die Falltür weggeschleppt hat, weil diese Wert
 <@pagebreak/>
@@ -3050,7 +3055,7 @@ All es — = Per stand
 und Gang Geschichtet Gashahn, O’Neil der Ältere, als
 Inder Lordtitel, und Loitgiellow, der gleichfalls als Cinu-geborcnei
 maskiert war … Sie verteilten sich als Terra
-rum das Spur … Wätiozit wieder unsichtbar …
+rum das Spur … Wallfahrt wieder unsichtbar …
 
 Mahmud aber und Patrick O’Neil, der drei Bart und
 Kulitrack’t durch seine Größe zu erkenne war, eilten zu)
