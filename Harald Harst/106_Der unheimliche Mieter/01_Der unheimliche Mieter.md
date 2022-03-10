@@ -150,11 +150,11 @@ wendend, hinzu:
 
 »Nun möchte ich noch etwas mit ihnen besprechen,
 lieber Herr Harst, — etwas, das meine damaligen Gefährten
-vom Bullobaki-Salzsee betrifft...«
+vom Bullobaki-Salzsee betrifft …«
 
 <@pagebreak/>
 Er schaute sinnend den Rauchwölkchen seiner Zigarre
-nach, die sich über ihm in nichts auflösten...
+nach, die sich über ihm in nichts auflösten …
 
 »Die beiden hießen Ernst Karnay und Justus Loof,
 Herr Harst. Es waren Seeleute, Matrosen von Beruf, die
@@ -206,16 +206,16 @@ mitzubringen?«
 Harald besann sich nicht lange.
 
 »Ja — ich will! Ich bin etwas europamüde. Ich
-sehne mich nach anderer Luft...«
+sehne mich nach anderer Luft …«
 
 Gußfelder erhob sich.
 
-»Hand her, Herr Harst...! — Ich danke Ihnen. Es
+»Hand her, Herr Harst …! — Ich danke Ihnen. Es
 handelt sich ja für mich auch darum, jederlei Verdacht von
-mir abzuwenden, daß ich etwa meine Freunde...«
+mir abzuwenden, daß ich etwa meine Freunde …«
 
 »Aber bester Doktor!« rief Harald da. »Wer wird
-denn wohl...«
+denn wohl …«
 
 »Oh — mein Bruder Josef zum Beispiel hat mich beschuldigt,
 Karnay und Loof beseitigt zu haben. Wer weiß,
@@ -388,14 +388,14 @@ fügte hinzu:
 
 »Ja, es wird am besten sein, mein Alter. Verbrennen
 wir das Stück Papier. Wir beide haben uns ja die Skizze
-genügend eingeprägt, und...«
+genügend eingeprägt, und …«
 
-Da ließ er plötzlich die Weste in den Schoß sinken...
+Da ließ er plötzlich die Weste in den Schoß sinken …
 
 »Du — — anderer Zwirn!« stieß er hervor. »Hier
-ist jemand bereits...«
+ist jemand bereits …«
 
-Dann hatte er schon das Papier aus dem Versteck herausgezogen...
+Dann hatte er schon das Papier aus dem Versteck herausgezogen …
 
 Und — — es war nicht mehr die Skizze!! Es war
 ein leerer halber Briefbogen!!
@@ -410,35 +410,35 @@ Ich wette, man hat uns die Skizze schon vor Suez
 <@pagebreak/>
 gestohlen — nachts natürlich, als wir schliefen. Vielleicht
 damals, als wir im Spielzimmer etwas viel getrunken
-hatten...«
+hatten …«
 
 »Als wir mit Faulhubers skateten,« warf ich ein.
 
-Harald nickte. »Ja... — Und die Einbrüche hier
+Harald nickte. »Ja … — Und die Einbrüche hier
 in der Kabine, der in Suez und der zweite heute in Batavia,
 sollten uns nur in Sicherheit wiegen, daß die Skizze
-noch vorhanden sei. Oder aber...«
+noch vorhanden sei. Oder aber …«
 
-Er schwieg...
+Er schwieg …
 
 Seine Augenlider klappten herab, sein Kopf senkte
-sich...
+sich…
 
-»Ober aber... es sind hier zwei Parteien getrennt
+»Ober aber … es sind hier zwei Parteien getrennt
 an der Arbeit, zwei, die nichts voneinander wissen. Und
 es dürfte das Richtigere sein, lieber Alter.«
 
-»Also die Drepp vielleicht und noch jemand...«
+»Also die Drepp vielleicht und noch jemand …«
 
-»Ja...« — Er nahm den leeren halben Briefbogen
-auf und besichtigte ihn... beroch ihn...
+»Ja …« — Er nahm den leeren halben Briefbogen
+auf und besichtigte ihn … beroch ihn …
 
 »Bitte — was riechst Du?« fragte er und hielt ihn
 mir hin.
 
-»Hm — das ist Jodoformgeruch...«
+»Hm — das ist Jodoformgeruch …«
 
-»Allerdings. Und...«
+»Allerdings. Und …«
 
 Abermals schwieg er, sprang empor, legte mir die
 Linke schwer auf die Schulter.
@@ -449,11 +449,11 @@ Aden die Southerland verlassen und diesen Dampfer benutzt
 hat, dann ist er uns um vier volle Tage voraus! Herr
 Gott — — vier Tage!!«
 
-Harst ballte die Fäuste...
+Harst ballte die Fäuste …
 
 »Begreifst Du — begreifst Du?! Das Gold ist in Gefahr!
 Wir haben uns wie die Tölpel benommen!! — Zum
-Zahlmeister...!!«
+Zahlmeister …!!«
 
 Und jetzt ersahen wir aus der Schiffsliste, daß ein
 Engländer namens Tomorly in Aden seine Fahrkarte für
@@ -563,7 +563,7 @@ vorkommt. Vielleicht haben Sie Gelegenheit, den Mann
 auch so etwas aufs Korn zu nehmen. Seit gestern früh ist
 eine meiner besten Agentinnen als Stubenmädchen dort
 untergebracht. Sie heißt dort Jenny Pool, Mr. Harst.
-Wenn Sie also...«
+Wenn Sie also …«
 
 »Bitte — erzählen Sie,« nickte Harald. »Ein unheimlicher
 Mieter ist etwas für uns.«
@@ -572,7 +572,7 @@ Ogden bot uns Zigaretten an. — »Die Sache ist die,
 Mr. Harst,« begann er bedächtig. »Am 21. Dezember, vor
 vier Tagen also, stieg bei Mistreß Pallimoor ein Mann
 namens Elming ab, ein Londoner Kaufmann. Er war
-mit der... Gergovia eingetroffen.«
+mit der … Gergovia eingetroffen.«
 
 »Ah!« machten Harald und ich gleichzeitig. Wir
 dachten unwillkürlich sofort an Edward Tomorly.
@@ -584,18 +584,18 @@ Metallgelenken knackt. Geben Sie sich also nicht etwa der
 Hoffnung hin, Ihren Tomorly durch einen Zufall bereits
 entdeckt zu haben.«
 
-»Tun wir nicht, Mr. Ogden. Weiter...«
+»Tun wir nicht, Mr. Ogden. Weiter …«
 
 »Dieser Elming legte Wert darauf, ein Zimmer im
 Seitenflügel dicht an dem Seitenausgang im Erdgeschoß
-zu erhalten...«
+zu erhalten …«
 
 »Wie wir!« nickte Harald.
 
 »Nun ja, — er bekam es auch. Gleich in der ersten
 Nacht beobachtete der Hausdiener des Pensionats, der im
 Nebengebäude wohnt, von seinem Fenster aus, daß Elming
-Besuch erhielt — eine Dame...«
+Besuch erhielt — eine Dame …«
 
 »Die durch das Fenster einstieg,« ergänzte Harald.
 
@@ -642,7 +642,7 @@ rief ihm durch die Tür zu, daß sich nachts jemand bei ihm
 eingeschlichen hätte. Er solle doch mal nachsehen, ob er
 bestohlen worden sei.«
 
-»Hm?!« meinte Harald nur...
+»Hm?!« meinte Harald nur …
 
 »Ja — und da hat Elming denn lachend erklärt, daß
 allerdings ein etwas heruntergekommener Kerl, den er am
@@ -650,9 +650,9 @@ Tage zufällig kennen gelernt hatte, frecherweise bei ihm gewesen
 <@pagebreak/>
 sei und ihn angebettelt habe. Er hätte den Menschen
 aber sofort wieder weggeschickt. — Frau Pallimoor gab sich
-mit dieser Auskunft scheinbar zufrieden...«
+mit dieser Auskunft scheinbar zufrieden …«
 
-»Na — und...?!«
+»Na — und …?!«
 
 »Und — kam zu mir. Ich schickte meine Agentin hin.
 Tom und die Agentin sahen in der verflossenen Nacht, daß
@@ -778,7 +778,7 @@ belauscht, als Gußfelder die Geschichte seiner australischen
 Abenteuer erzählte, und er wird fraglos mit Zelestine Drepp
 zusammenarbeiten. Die eine Gegenpartei kennen wir nun
 also. Wer aber die zweite ist, die so zwecklos die Koffer
-durchwühlt hat, das bleibt noch dunkel, falls nicht...«
+durchwühlt hat, das bleibt noch dunkel, falls nicht …«
 
 <@harst.kkb band="6" titel="Die grüne Schlange"/>
 
@@ -791,7 +791,7 @@ durchwühlt hat, das bleibt noch dunkel, falls nicht...«
 Wir waren vom Hafen in eine der älteren Gassen eingebogen.
 Es gab hier nur riesige Warenspeicher, die ernst
 und feierlich ihre Fronten mit den aus den oberen Fenstern
-heraushängenden Ladekrähnen einander zukehrten.
+heraushängenden Ladekränen einander zukehrten.
 
 Am Ende der schnurgeraden Gasse stand der Vollmond
 über den dunklen Massen der fernen Berge hoch am Himmel
@@ -799,14 +799,14 @@ und ließ die drei Schienenstränge der Hafenbahn, die hier
 die Straße entlangliefen, silbern schimmern. Güterwagen,
 zum Teil noch beladen, deckten hie und da die Schienen.
 
-Und — hier schwieg Harald plötzlich...
+Und — hier schwieg Harald plötzlich …
 
-Hob den rechten Arm...
+Hob den rechten Arm …
 
 Da hing an einer der dicken Krahnketten eines Speichers
 rechter Hand ein Mensch, den wir offenbar überrascht
 hatten, — ein Dieb, der wohl in den Speicher hatte eindringen
-wollen...
+wollen …
 
 »He — kommen Sie herab!« rief Harald dem Menschen
 auf englisch zu. »Schnell, Freundchen, schnell. Sonst
@@ -833,13 +833,13 @@ gestohlen habe. Ich war bis vor acht Monaten Digger
 bin unfähig, schwere körperliche Arbeit zu leisten.«
 
 Jedenfalls — dieser Mann, der Jimmy Pastorias
-hieß, wurde dann von Harald als... Diener und Führer
+hieß, wurde dann von Harald als … Diener und Führer
 angeworben, nachdem er ihn noch auf Herz und Nieren
 durch längeres Ausfragen geprüft hatte. Harst gab ihm
 Geld, damit er sich neu einkleide, und bestellte ihn für den
 nächsten Morgen ins Pensionat.
 
-Pastorias... weinte vor Freuden.
+Pastorias … weinte vor Freuden.
 
 Als wir beide heimfuhren, meinte Harald: »Der Bursche
 ist eine tadellose Akquisition für uns. Paß auf, der ist
@@ -873,7 +873,7 @@ hinaus, damit uns auch nicht das Geringste entginge.
 
 Nichts geschah — nichts.
 
-Es wurde zwei Uhr morgens — halb drei...
+Es wurde zwei Uhr morgens — halb drei …
 
 Da gaben wir es auf.
 
@@ -902,24 +902,24 @@ Tür, glitt von der Nummer 18 zum Schloß.
 Dann legte er die rechte Hand auf den Drücker.
 
 Und — flüsterte abermals: »Es steckt kein Schlüssel im
-Schloß! — Warte...!«
+Schloß! — Warte …!«
 
 Er schob den Dietrich ins Schlüsselloch.
 
-Ein Knacken — noch eins...
+Ein Knacken — noch eins …
 
 Ich hielt den Atem an.
 
 Drinnen regte sich nichts.
 
-Die Tür ging nach innen auf...
+Die Tür ging nach innen auf …
 
-Matter gelblicher Lichtschein der Nachttischlampe...
-Rechter Hand an der Wand ein Bett...
+Matter gelblicher Lichtschein der Nachttischlampe …
+Rechter Hand an der Wand ein Bett …
 
 <@pagebreak/>
 Und — auf dem Kopfkissen der Kopf eines Mannes,
-der jetzt zu schlafen schien ...
+der jetzt zu schlafen schien …
 
 Harald huschte an das Bett, kam zurück zur Tür, schob
 mich in den Flur, schloß ab.
@@ -928,7 +928,7 @@ Ebenso lautlos waren wir wieder in unserm Schlafzimmer.
 
 Und ohne auch nur ein einziges Wort weiter zu verlieren,
 entkleidete Harald sich rasch, schlüpfte unter die Decke
-und... ließ mich mit meinen tausend Fragen unbefriedigt
+und … ließ mich mit meinen tausend Fragen unbefriedigt
 im Dunkeln.
 
 Ich schlief nur schwer ein.
@@ -1001,7 +1001,7 @@ Harald hängte sich in meinen Arm ein, holte tief Atem,
 sagte dann:
 
 »Unbegreiflich, dieses Sicherheitsgefühl! Er muß uns
-längst erkannt haben...!«
+längst erkannt haben …!«
 
 Ich blieb mit einem Ruck stehen.
 
@@ -1024,7 +1024,7 @@ der Nase sitze, — das ist denn doch der Gipfel der
 Unverfrorenheit!«
 
 »Er selbst kann doch aber unmöglich den Diebstahl
-begangen haben, Harald. Überhaupt...«
+begangen haben, Harald. Überhaupt …«
 
 Da rief jemand hinter uns: »Mr. Harten — — Mr.
 Harten, es ist ein Mann da, den Sie herbestellt haben.«
@@ -1117,23 +1117,23 @@ ich so gewandte katzengleiche Bewegungen beobachtet wie
 bei diesem Burschen, der jetzt am Türschloß von Nr. 18
 sich zu schaffen machte.
 
-Dann — war er verschwunden...
+Dann — war er verschwunden …
 
 Und wir — waren hinter ihm, waren nun gleichfalls
-an der Tür von Nr. 18, fanden sie nur angelehnt...
+an der Tür von Nr. 18, fanden sie nur angelehnt …
 
-Und — hörten drinnen plötzlich einen leisen Aufschrei...
+Und — hörten drinnen plötzlich einen leisen Aufschrei …
 
 Stießen die Tür auf.
 
 Unsere Lampen warfen zwei Lichtkegel auf den schlanken
 Mann im Trikot, der wie gebannt vor Elmings Bett
 stand und uns jetzt anstarrte wie Spukgestalten, der Hölle
-entstiegen...
+entstiegen …
 
-Im Bett aber lag Elming — ebenfalls reglos...
+Im Bett aber lag Elming — ebenfalls reglos …
 
-Die Nachttischlampe brannte wieder...
+Die Nachttischlampe brannte wieder …
 
 Was — was bedeutete das alles?!
 
@@ -1150,19 +1150,19 @@ die Sie in unseren Koffern nicht fanden.«
 
 Da kam Leben in die schlanke Salzsäule.
 
-Zu viel Leben...
+Zu viel Leben …
 
-Das Weib setzte alles auf eine Karte...
+Das Weib setzte alles auf eine Karte …
 
 Mit einem Panthersatz war sie am Fenster, riß den
-einen Flügel auf, war draußen...
+einen Flügel auf, war draußen …
 
 Harst sprang hinterdrein. Sein Pfiff machte die
 Büsche rauschen. Tom — die Agentin suchten das Weib
 einzukreisen. Die Jagd ging in die Tiefe des Gartens
-hinein...
+hinein …
 
-Und — blieb erfolglos...
+Und — blieb erfolglos …
 
 Die angebliche Alix Faulhuber entkam uns, tauchte in
 einem Nachbarpark unter.
@@ -1174,7 +1174,7 @@ nebst Tochter aus Antwerpen ausgegeben, hatte sein
 Zimmer bereits verlassen, war nicht mehr zu finden.
 Seine Koffer — alles war noch da. Nur er selbst nicht
 mehr. Er war entwischt, hatte leider rechtzeitig Lunte
-gerochen... —
+gerochen … —
 
 Wir durchsuchten dann auch Elmings Zimmer. Harst
 stellte fest, daß der Mann nie ein künstliches Bein gehabt
@@ -1210,7 +1210,7 @@ gewesen.
 Nie vergesse ich Haralds eisiges Gesicht, als er zu Ogden
 sagte:
 
-»Ich gebe zu, daß ich mich... blamiert habe. Münz-Elming
+»Ich gebe zu, daß ich mich … blamiert habe. Münz-Elming
 hat es verstanden, mich in Sicherheit zu wiegen,
 und mein Verdacht gegen die beiden Faulhuber schwand,
 als sie mit der Southerland scheinbar weiter nach Melbourne
@@ -1249,7 +1249,7 @@ Harald schlief in seiner Polsterecke.
 
 Und im nächsten Wagen dritter Klasse saß Freund
 Jimmy Pastorias mit unserem Gepäck. Ich war allein
-mit meinen Gedanken...
+mit meinen Gedanken …
 
 Wer waren die Faulhuber — — wer?!
 

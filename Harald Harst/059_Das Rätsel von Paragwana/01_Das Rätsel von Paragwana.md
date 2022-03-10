@@ -41,7 +41,7 @@ Diese Tabletten waren neben größter Sauberkeit ein
 gutes Schutzmittel gegen die Pest, obwohl sie bei jedem gewisse
 <@pagebreak/>
 Störungen der Sehnerven hervorriefen und auch sonst
-das Allgemeinbefinden nachteilig beinflußten.
+das Allgemeinbefinden nachteilig beeinflußten.
 
 Den Hersteller dieser Tabletten, den Direktor der
 Sternwarte in Benares Doktor Bemol, hatten wir gleich

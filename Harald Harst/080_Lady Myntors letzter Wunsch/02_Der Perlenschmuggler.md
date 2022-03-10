@@ -1232,7 +1232,7 @@ Matrosen wecken.«
 
 Mir begann das Herz rascher zu klopfen.
 
-Wenn es Boltrell war, dann würde es einen bößen
+Wenn es Boltrell war, dann würde es einen bösen
 <@pagebreak/>
 Tanz geben. Und er war es fraglos. Die beiden Schornsteine
 verrieten sich jetzt abermals durch zwei Funkengarben.

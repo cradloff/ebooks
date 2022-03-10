@@ -1376,7 +1376,7 @@ Harald blickte zu mir auf und nickte. »Ganz wie ich’s mir
 gedacht habe. Sie hat den Dolch in der Eile wohl fallen
 lassen. Und der andere stieß ihn dem Wucherer ins Herz.«
 
-»Weiß Ihr Gatte, daß Sie Tschurikoff ermorden wollten?«
+»Weiß Ihr Gatte, daß Sie Tschirukoff ermorden wollten?«
 fragte Harst wieder.
 
 »Ja.«

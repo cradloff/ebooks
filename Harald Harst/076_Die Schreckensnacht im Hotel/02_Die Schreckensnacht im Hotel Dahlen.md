@@ -214,7 +214,7 @@ Als wir allein waren, fragte ich Harald, was er Gloux geschrieben habe.
 
 »Nur daß er die Grotte nicht wieder betreten soll und daß wir nach Dahlen kämen. – Jetzt will ich zur Post und eine Depesche an Inspektor Dalström nach Stockholm aufgeben. Dalström soll Erkundigungen über Miß Helen Beßport und ihre Freundin Drywater einziehen und mir die Antwort postlagernd nach Dahlen senden.«
 
-Ich begleitete Harald. – Zwei Stunden später ging die Jacht Miramare in See – angeblich nach Christiana.
+Ich begleitete Harald. – Zwei Stunden später ging die Jacht Miramare in See – angeblich nach Christiania.
 
 Am folgenden Abend erreichten wir den Skien-Fjord, fuhren dann über die Hochlandseen durch die großartigen Schleusenanlagen bis in den Dahlen-See, wo die Jacht am Südufer in einer engen, tiefen Bucht zwischen himmelhohen Bergwänden noch beim Morgengrauen Anker warf.
 
