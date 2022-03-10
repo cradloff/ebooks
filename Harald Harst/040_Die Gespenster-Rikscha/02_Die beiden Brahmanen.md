@@ -10,7 +10,7 @@ Vasallenstaates Bhopal. »Mir liegt die Überwachung
 der behördlich angeordneten Vorbeugungsmaßregeln
 gegen Seuchengefahr ob. Vor einem halben Jahre mußte
 ich das Eingeborenenviertel unserer Residenzstadt daraufhin
-revidieren, ob die sanitären Vorschriften hinsichtlich der Abteilung
+revidieren, ob die sanitären Vorschriften hinsichtlich der Ableitung
 der Schmutzwässer auf den einzelnen Grundstücken
 befolgt seien. Am sogenannten Schamri-Kanal, einem toten
 Arm des Betowa-Flusses, an dem unsere Stadt bekanntlich
@@ -78,7 +78,7 @@ Dann, Mr. Harst, — dann erlebte ich etwas, das man
 in ähnlicher Art nur bei den besten Yogis, den indischen
 Zauberern zu sehen bekommt.
 
-Tumaru trat hinter mich, sagte mit seiner monotoner,
+Tumaru trat hinter mich, sagte mit seiner monotonen,
 tiefen Stimme:
 
 ›Sahib Doktor, zieh’ den Mantel getrost weg.‹
@@ -104,7 +104,7 @@ des Panthers.«
 »Wahrhaftig. Sie lesen einem wohl die Gedanken von
 dem Gesicht ab?«
 
-»Vielfach, ja, Mr. Gramsy.«
+»Vielfach ja, Mr. Gramsy.«
 
 »Nun gut. Also einen Menschen,« nickte der Doktor.
 »Doch — was für einen Menschen?«
@@ -153,14 +153,14 @@ der nun gelassen erklärte:
 ›Sahib Doktor, es ist meine Urenkelin, die Du soeben
 sahst. Sie teilt unsere Einsamkeit. Sie ist eine Gandagri.‹
 
-— »Wissen Sie, was eine Gandagri ist, Mr. Harst?«
+— Wissen Sie, was eine Gandagri ist, Mr. Harst?«
 
 »Ja. Der Ausdruck bedeutet wörtlich übersetzt: »Eine
 Verbrannte«. Sie ist also eine jener Witwen, die, noch als
 Kind einem Knaben angetraut, wie dies unter den Hindu
 Sitte, ihren Gatten verlor, bevor die Ehe wirklich vollzogen
 war. Diese jungfräulichen Witwen gelten hier als
-von den Göttern gezeichnet. man verachtet sie, und die
+von den Göttern gezeichnet. Man verachtet sie, und die
 Bezeichnung Gandagri, »Verbrannte«, ist der Hinweis auf
 den uralten Brauch der Witwenverbrennung.«
 
@@ -209,10 +209,10 @@ meinte Harald.
 stand in dem Saale und fütterte eine Ziege, die dort angebunden
 war —«
 
-»Was geschah dann Mr. Gramsy,« fragte Harald gespannt.
+»Was geschah dann, Mr. Gramsy,« fragte Harald gespannt.
 
 »Nun — ehrlich, Mr. Harst: ich bekam einen kleinen
-Wutanfall brüllte den langen Inder an und verbat mir,
+Wutanfall, brüllte den langen Inder an und verbat mir,
 mit einem Regierungsbeamten sich derartigen Unfug herauszunehmen.
 Er war scheinbar maßlos erstaunt, fragte sehr
 unterwürfig, was ich denn eigentlich meine. Da riß mir
@@ -245,13 +245,13 @@ den Du bedeckt haben sollst,‹ sagte der lange Brahmane
 zu dem Buckligen.
 
 ›Panther — Panther?‹ Der kleine Kerl glotzte mich
-an, als ob ich verrückt sei. ›Ah, rief er dann, deshalb
+an, als ob ich verrückt sei. ›Ah‹, rief er dann, ›deshalb
 sprang der Sahib Doktor so ängstlich zurück, als er den
 Stoff wegriß. — Folge mir bitte,‹ fügte er hinzu.
 
 Und ich ging wie im Traum hinter ihm her bis zu
-jener stelle, wo ich den Panther erblickt hatte. Dort —
-weidete jetzt — ein angepflocktes Schaf.
+jener Stelle, wo ich den Panther erblickt hatte. Dort —
+weidete jetzt — ein angepflocktes Schaf —
 
 <@pagebreak/>
 Tumaru nahm sein Obergewand, schwang es durch die
@@ -267,7 +267,7 @@ wieder hervorzaubern. Aber — es — es war —«
 
 Doktor Gramsy wiederholte mit schwerer Zunge:
 
-»Ja — der Panther, Mr Harst —! — Die Bestie
+»Ja — der Panther, Mr. Harst —! — Die Bestie
 saß wieder wie vorhin zum Sprunge zusammengeduckt da
 — Und — wissen Sie, was ich nun tat? Ich — ich
 machte kehrt und ging davon, verließ den Park, trat wieder
@@ -292,7 +292,7 @@ Drenga Mirar von der hiesigen Polizei hin —«
 »Ah — das ist der indische Untergebene Detektivinspektor
 Kippwrays —«
 
-»Ja ein sehr gebildeter junger Mensch.«
+»Ja. Ein sehr gebildeter junger Mensch.«
 
 »Und dem Kommissar ist nie etwas Ähnliches wie Ihnen
 begegnet?«
@@ -361,7 +361,7 @@ Harald hatte mich untergehakt und sagte nun, als wir
 einige fünfzig Schritt von der Gartenpforte des Bungalow
 des Doktors entfernt waren:
 
-»Ich bin gespannt ob der Trick glücken wird —«
+»Ich bin gespannt, ob der Trick glücken wird —«
 
 <@pagebreak/>
 »Trick?«
@@ -376,7 +376,7 @@ das Blatt Papier in der Hoffnung, daß der Lauscher versuchen
 wird, es zu stehlen, weil er eben großes Interesse daran
 hat, zu wissen, was ich zu wissen glaube.«
 
-Zwei leere Rikschas kamen an uns vorüber. Die Rikschkulis
+Zwei leere Rikschas kamen an uns vorüber. Die Rikschakulis
 riefen uns an.
 
 Harald winkte den Leuten. »Der Abend ist so köstlich,
@@ -397,7 +397,7 @@ der Zauberer, Schlangenbeschwörer und freiwilligen
 Toten —«
 
 Er rief den Rikschakulis plötzlich ein »Dwarsa —
-Dwarsa« (Halt, halt) zu.
+Dwarsa!« (Halt, halt) zu.
 
 Die leichten Wägelchen hielten. Harald deutete rechts
 auf den Fußgängerweg. Dort hockte ein frommer Yogi auf
@@ -517,7 +517,7 @@ ich machte den Beschluß.
 Offen gesagt: jetzt begann mir dieses Abenteuer unheimlich
 zu werden. — Aber Harald schien nicht im geringsten
 mißtrauisch zu sein. Und deshalb suchte ich mich
-wieder Du beruhigen. Aber ein Rest Argwohn blieb doch
+wieder zu beruhigen. Aber ein Rest Argwohn blieb doch
 <@pagebreak/>
 in mir rege, und — das war zu unserem Glück!
 
@@ -545,7 +545,7 @@ Ich hatte mich nicht verletzt. Ich saß aufrecht da.
 
 Es gibt Augenblicke im Leben, wo unser Hirn äußere
 Eindrücke der verschiedensten Art mit Blitzesschnelle verarbeitet,
-das heißt, logisch aneinander paßt.
+das heißt, logisch aneinanderpaßt.
 
 So auch jetzt. Das erste war der weiche Körper gewesen
 — fraglos ein Tier. — Dann roch ich deutlich jenen
@@ -707,7 +707,7 @@ Stadt davon.
 Unsere Anzüge waren stark beschmutzt und stanken nur
 zu eindringlich nach »Raubtier«. Der Polizeiwachtmeister
 schickte sofort seine Leute zur Verfolgung des Yogi aus,
-den hier in Bhopal wie er uns erklärte, jeder kannte.
+den hier in Bhopal, wie er uns erklärte, jeder kannte.
 
 Wir verabschiedeten uns und gingen heim. Wir waren
 als Gäste des Residenten Lord Scheldon in dessen palastartigem
@@ -796,7 +796,7 @@ Die Szene hatte eine große Menge Zuschauer. In allen
 Zugfenstern lehnten Leute. Der Name Harst flog von Mund
 zu Munde.
 
-Der Wagen brachte uns zu Major a. D. und Polizeimeister
+Der Wagen brachte uns zu Major a.&nbsp;D. und Polizeimeister
 Sampson. Der weißbärtige Junggeselle war um den
 »armen« Harst so rührend bemüht, daß die Komödie diesem
 peinlich wurde und er ihm bei erster Gelegenheit zuraunte:
@@ -1051,7 +1051,7 @@ beiden Inder waren jung und bartlos außerdem.«
 »Bärte sind anklebbar, und das Alter läßt sich vortäuschen.
 Das wissen wir am besten. — Ja, sie waren es.«
 
-»So, sind sie uns von Bhopal aus doch gefolgt?«
+»So sind sie uns von Bhopal aus doch gefolgt?«
 
 »Natürlich! Und haben den Schwindel mit dem Knöchelbruch
 durchschaut, haben den Güterzug mit uns zusammen
@@ -1094,7 +1094,7 @@ Brahmanen zu einer Durchsuchung der Ruine benutzen!
 Die Lattentür war nur durch einen Holzriegel verschlossen.
 Wir traten ein, riegelten wieder hinter uns zu
 und schritten durch eine wahre Wildnis von Gestrüpp dem
-durch die Bäume hindurchäugenden Schlosse entgegen.
+durch die Bäume hindurchlugenden Schlosse entgegen.
 
 Harald bog dann aber nach links ab. Wir schlichen
 weiter, immer durch Gebüsch gedeckt. Dann hatten wir die
@@ -1121,7 +1121,7 @@ offenbarte sich eine müde, trostlose Verzweiflung.
 »Näher heran,« flüsterte Harald. — Wir krochen auf
 allen Vieren hinter ein paar große Mauertrümmer.
 
-Als ich nun wieder nach der Inderin aufschaute, hatte
+Als ich nun wieder nach der Inderin ausschaute, hatte
 sie — in der rechten Hand eine große Kobra dicht hinter
 dem Kopf gepackt und hielt das wütend um ihren Arm
 sich ringelnde Reptil in Brusthöhe vor sich. Mit der Linken
@@ -1137,7 +1137,7 @@ Dann ein kurzer Knall —
 
 Die Inderin ließ die Kobra vor Schreck fallen. Ich
 hatte noch gesehen, daß der Kopf der Schlange nach dem
-Schuß nach vorn gesunken war und die aufgeblähte Haube
+Schuß nach vorn gesunken war, und die aufgeblähte Haube
 schlaff wurde.
 
 Harald sprang auf, war mit einem Satz neben dem
@@ -1156,7 +1156,7 @@ an. Sie zitterte am ganzen Leibe. Dann rief sie leise:
 
 »Ein Freund. — Wie heißt Du?«
 
-»Goda — Sahib, Du bist kein Chinese, nein. — Du
+»Goda. — Sahib, Du bist kein Chinese, nein. — Du
 <@pagebreak/>
 bist —« Sie schwieg. Wieder lief ein Beben über ihre
 Gestalt hin.
@@ -1164,7 +1164,7 @@ Gestalt hin.
 »Ich bin ein Europäer,« sagte Harald gütig. »Kennst
 Du den Namen Harst?«
 
-»Ja ja. Ich kenne ihn.«
+»Ja — ja. Ich kenne ihn.«
 
 »Nun, ich bin dieser Harst. Hat Kommissar Drenga Mirar
 Dir meinen Namen genannt?«
@@ -1176,7 +1176,7 @@ Dir meinen Namen genannt?«
 Sie blickte verlegen zu Boden und blieb stumm.
 
 »Tat es der Mann, der sich hier Dein Großvater nennt?
-Ist Savimandra vielleicht dein Vater und nicht dein Großvater?
+Ist Savimandra vielleicht Dein Vater und nicht Dein Großvater?
 — Goda, Du kannst uns wirklich vertrauen. Du
 wolltest Dich soeben töten, weil Du unglücklich bist. Wir
 werden Dich glücklich machen, Goda. Du wirst zu guten
@@ -1184,7 +1184,7 @@ Menschen kommen, die Dich liebevoll behandeln. Drenga
 Mirar hat Dir wohl den Namen Doktor Gramsy genannt.
 Er verkehrt dort. Frau Doktor Gramsy wird Dich gern
 aufnehmen. Alle Deine heimlichen Wünsche sollen erfüllt
-werden, Goda. Das sage ich Dir, ich Harald Harst, vor
+werden, Goda. Das sage ich Dir, ich, Harald Harst, vor
 dem nichts verborgen bleibt.«
 
 Abermals siegte der Einfluß der Persönlichkeit Haralds
@@ -1211,7 +1211,7 @@ hinzu.
 »Dein Vater zwang Dich, mit ihm zu gehen und hier
 <@pagebreak/>
 zu helfen, die Gefahr der Entdeckung zur verringern,« sagte
-Harald wieder in demselben nur halb sprechenden Tone.
+Harald wieder in demselben nur halb forschenden Tone.
 
 »Ja, Sahib, « erwiderte sie ganz leise. »Ich bin in
 Kalkutta in einer Missionsanstalt erzogen. Aber — ich bin
@@ -1231,7 +1231,7 @@ Du alles entdecken würdest. Aber ich konnte mir nicht
 denken, daß Du mit mir Mitleid haben würdest. Niemand
 darf ja gütig zu mir sein. Ich bin eine Gandagri, eine
 Verbrannte. Nur Drenga Mirar war hier freundlich zu
-mir, und nun auch Du, Sahib, ich danke Dir.« — Das
+mir, und nun auch Du, Sahib. Ich danke Dir.« — Das
 klang alles so rührend harmlos und kindlich —
 
 »Der alte Yogi, dem der Stall gehörte, war Deines
@@ -1242,7 +1242,7 @@ Sein Haus, das Du Stall nennst, liegt drüben an der anderen
 Seite des Kanals, der hinter dem Park vorüberläuft. Jetzt
 ist der Stall verbrannt. Du weißt es, Sahib.«
 
-»Wozu benutzte dein Vater den Yogi bisher, Goda?«
+»Wozu benutzte Dein Vater den Yogi bisher, Goda?«
 
 »Der Yogi mußte jede Woche verreisen, bald hierhin,
 bald dort hin. Er brachte das Fertige unter.«
@@ -1255,7 +1255,7 @@ ihn zuerst nur —«
 
 »Er wird nichts erfahren, Goda, nichts!« unterbrach
 Harald sie und drückte ihre kleine, braune Hand. »Weißt
-Du, weshalb dein Vater und sein Freund hier verkleidet
+Du, weshalb Dein Vater und sein Freund hier verkleidet
 wohnen und was sie hier treiben?« fuhr er nach kurzer
 Pause fort.
 

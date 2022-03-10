@@ -2,27 +2,11 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>Eigenschaften für eBook</comment>
-<!-- eindeutige ID des Buchs (Pflichtangabe) -->
 <entry key="UUID">ed428b80-3de6-11e9-bd15-4bcc6938ab6c</entry>
-<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
-<entry key="secondaryID"></entry>
-<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
-<entry key="secondaryIDType"></entry>
-<!-- Buch-Titel (Pflichtangabe) -->
 <entry key="title">Die Gespenster-Rikscha</entry>
-<!-- Sub-Titel -->
-<entry key="subtitle"></entry>
-<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
-<entry key="shorttitle"></entry>
-<!-- Sammlung, z.B. Titel einer Serie -->
 <entry key="collection">Harald Harst - aus meinem Leben</entry>
-<!-- Position innerhalb der Sammlung (Band-Nummer) -->
 <entry key="group-position">40</entry>
-<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
-<entry key="edition"></entry>
-<!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
-<!-- Beschreibung -->
 <entry key="description">Die Gespenster-Rikscha.
 
 Nach der Befreiung Lady Lydia Pimbertons wohnten wir in dem palastähnlichen Hause des britischen Residenten in Bhopal.
@@ -35,31 +19,17 @@ Die beiden Brahmanen.
 
 »Die Sache ist folgende, Mr. Harst,« begann Doktor Lionel Gramsy, der Residenturarzt in der Hauptstadt des zentralindischen Vasallenstaates Bhopal. »Mir liegt die Ueberwachung der behördlich angeordneten Vorbeugungsmaßregeln gegen Seuchengefahr ob. Vor einem halben Jahre mußte ich das Eingeborenenviertel unserer Residenzstadt daraufhin revidieren, ob die sanitären Vorschriften hinsichtlich der Abteilung der Schmutzwässer auf den einzelnen Grundstücken befolgt seien. Am sogenannten Schamri-Kanal, einem toten Arm des Betowa-Flusses, an dem unsere Stadt bekanntlich liegt, fand ich nun die Ruine eines kleinen Schlosses bewohnt vor. Dieses alte Schloß gehört dem Exminister Dscham Dauli, der jetzt auf Ihre Veranlassung wegen Entführung einer Europäerin verhaftet worden ist. Die Insassen der Ruine, die in den unteren Räumen sich noch leidlich für Wohnzwecke eignet, waren zwei aus Nordindien zugewanderte Brahmanen, alte Leute, die nur sehr wenig Englisch verstanden. — Dies als Einleitung.«
 </entry>
-<!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
-<!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
-<!-- Dateiname (default: Titel - Author.epub) -->
 <entry key="filename">Kabel, Walther - (040) Die Gespenster-Rikscha.epub</entry>
-<!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
-<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
 <entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
-<!-- Rechte/Lizenz (z.B. Public Domain) -->
 <entry key="rights">Public Domain</entry>
-<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
 <entry key="pubDate"></entry>
-<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
 <entry key="creationDate"></entry>
-<!-- Cover-Bild (default cover.*) -->
-<entry key="cover"></entry>
-<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
 <entry key="toc">true</entry>
-<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
-<entry key="toc-entries">h1, h3</entry>
-<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="toc-entries">h1, h2</entry>
 <entry key="additional-media"></entry>
-<!-- Freemarker für Content aktivieren? (true/false) -->
 <entry key="freemarker">true</entry>
 </properties>
 

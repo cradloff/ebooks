@@ -25,7 +25,7 @@ Beduinenstämme geflüchtet waren.
 Durch eine Bemerkung Hauptmann Mac Leans über die
 Oasen der Sinai-Wüsten wurde ich an das zerfetzte Buch erinnert,
 in dem ich auch einen Hinweis auf eine Oase namens
-Fartah gefunden hatte, die nach alten, unter den Wüstenstämmmen
+Fartah gefunden hatte, die nach alten, unter den Wüstenstämmen
 fortlebenden Überlieferungen die Ruinen einer Stadt
 aus der ältesten ägyptischen Kulturepoche enthalten sollte.
 
@@ -55,7 +55,7 @@ Der blonde Leutnant winkte einen der Soldaten heran,
 die bei Tisch bedient hatten. Es war sein Bursche, ein Araber
 aus der Gegend von Damaskus.
 
-»Hasid, was weißt Du über die Oase?« fragte er ihn.
+»Hafid, was weißt Du über die Oase?« fragte er ihn.
 
 »Mein Vater,« erklärte der stattliche Reiter mit fester
 Stimme, »war Händler. Er hat mir erzählt, daß er einst mit
@@ -77,7 +77,7 @@ zerknittertes Blatt Papier.
 
 »Dieses Blatt hat einer der beiden Hochstapler bei seiner
 Verhaftung in Suez fortzuwerfen versucht. Detektivinspektor
-Greaper gab es mir mit der Bitte, es Ihnen, Mr. Harst doch
+Greaper gab es mir mit der Bitte, es Ihnen, Mr. Harst, doch
 einmal vorzulegen. Er hält es für —«
 
 Harald sagte schon: »Bitte — was Mr. Greaper darüber
@@ -126,8 +126,8 @@ Hand, an deren kleinem Finger ein Ring mit einem bohnengroßen
 Diamant funkelte und sprühte.
 
 Auch Frau Mac Lean ließ sich nun das Blatt reichen.
-<@pagebreak/>
  
+<@pagebreak/>
 »Natürlich ein Haus!« meinte sie. »Mitten im Giebel
 sieht man ja auch so etwas wie ein Hirschgeweih.«
 
@@ -284,6 +284,7 @@ große, durch den Golf von Suez und den Golf von Akaba umschlossene
 viereckige Länderteil, Halbinsel Sinai genannt —«
 
 »Ah — wirklich?« — Ich war in der Tat sehr überrascht.
+
 »Das heißt: nicht das ganze Haus. Nur der Giebel. Den
 Unterteil mit den Fenstern und der Tür hat man nur hinzugefügt,
 um das Ganze eben als harmloses Häuschen erscheinen
@@ -373,7 +374,7 @@ der Halbinsel stand.«
 
 Wir eilten weiter. Am Parktor teilte uns der dort
 stehende Posten mit, daß Leutnant Jones mit seinem Burschen
-Hasid vor einer Viertelstunde das Schloß verlassen habe, um
+Hafid vor einer Viertelstunde das Schloß verlassen habe, um
 die Wachen zu revidieren.
 
 »Verdammt!« rief der etwas polterige Mac Lean. »Wenn
@@ -384,7 +385,7 @@ ihn so etwas.
 
 Der nächste Posten war der am östlichen Paß. Wir hielten
 also auf ihn zu. Zum Teil legten wir den Weg im Trab zurück.
-Nun ging es eine Schlucht hinauf, hinweg über ein Geröllfeld
+Nun ging es eine Schlucht hinauf, hinweg über ein Geröllfeld,
 dann ein Anruf durch den Posten.
 
 Mac Lean meldete sich. — Der Kamelreiter, ein schlanker
@@ -393,7 +394,7 @@ Mann war so aufgeregt, daß er kaum sprechen konnte.
 
 »Dort — dort ist geschossen worden —« stotterte er.
 
-»Waren der Leutnant und Hasid hier?«
+»Waren der Leutnant und Hafid hier?«
 
 »Ja, — sie verfolgten den Beduinen.«
  
@@ -404,7 +405,7 @@ folgendes festgestellt. Der Posten hatte in den höheren
 Teilen der Schlucht, die hier den Paß bildete, ein paar Gestalten
 bemerkt und auch angerufen. Wie viel Leute es waren,
 konnte er nicht sagen. Auf den Anruf hin regte sich nichts
-mehr. Dann erschien Leutnant Jones mit Hasid. Gerade als
+mehr. Dann erschien Leutnant Jones mit Hafid. Gerade als
 der Posten von dem Beobachteten dem Leutnant Meldung erstattete,
 tauchte ein Beduine etwa fünfzig Meter weiter aufwärts
 für wenige Sekunden, vom Monde hell beschienen, auf
@@ -421,7 +422,7 @@ nach oben gelaufen, konnte jedoch nichts Auffälliges bemerken,
 fürchtete auch, aus dem Hinterhalt niedergeknallt zu werden.
 
 Wir drei stürmten nun den Paß aufwärts. Im schwarzen
-Schatten einiger Felsblöcke fanden wir zuerst Hasid. Er war
+Schatten einiger Felsblöcke fanden wir zuerst Hafid. Er war
 tot. Eine Kugel war ihm gerade ins Herz gedrungen. Acht
 Meter oberhalb dieser Stelle lag Jones, ebenfalls tot, wie
 es zunächst schien. Er hatte eine Schußwunde in der linken
@@ -439,7 +440,7 @@ Wir kehrten ebenfalls ins Schloß zurück. Hier stellte Harst
 fest, daß Jones doch noch lebte. Aber ihn auch am Leben zu
 erhalten, war wenig Hoffnung.
 
-Die beiden Damen war zunächst ganz fassungslos. Lady
+Die beiden Damen waren zunächst ganz fassungslos. Lady
 Lydia erklärte, sie würde keine Stunde länger als nötig in
 diesen fluchbeladenen Mauern bleiben.
 
@@ -498,7 +499,7 @@ an dieser Stelle angerufen und auf sie geschossen, als sie
 nicht stehen blieben. Seine Kugel traf jedoch nur die Tasche
 des einen, in der — sagen wir — ein Bürstchen steckte. Die
 Kugel riß dieses Stückchen der Bürste mit heraus. Dann
-knallten die Beduinen Jones und Hasid nieder. Der Kugeleinschlag
+knallten die Beduinen Jones und Hafid nieder. Der Kugeleinschlag
 <@pagebreak/>
 des Schusses des Leutnants muß sich also weiter
 oberhalb befinden. Suchen wir danach.«
@@ -515,7 +516,7 @@ Stunde später auch Spuren der Anwesenheit von Pferden.
 Wie viele Pferde hier gestanden hatten, war nicht recht zu bestimmen.
 Mac Lean meinte, es seien 4—5 gewesen, Harst
 schätzte auf 2—3. Jedenfalls hatte man aber den Tieren die
-Hufe umwickelt gehabt. Das bewiesen die Stofffaserchen, die
+Hufe umwickelt gehabt. Das bewiesen die Stoffäserchen, die
 hie und da an rissigen Stellen des Gesteins haften geblieben
 waren.
 
@@ -548,7 +549,6 @@ mit einer gewissen heiteren Überlegenheit, als ob er ihn als
 »nur« Liebhaberdetektiv nicht recht ernst nahm.
 
 Wir waren um 10 Uhr von Schloß Medsur aufgebrochen.
-
 <@pagebreak/>
 Greaper ritt dann mit dem an einer Leine befestigten Hunde
 voran. Der Polizeihund, eine Kreuzung von Bulldogge und
@@ -678,7 +678,7 @@ erfahren, daß Mac Lean die Zeichnung mit nach Schloß
 Medsur brachte und daß ich dort weilte. Sie wollten nun versuchen,
 bis an das Schloß heranzugelangen. Daß Wachen
 ausgestellt waren, wußten sie nicht. So laufen sie dem Posten
-beinahe in die Arme und daraus entwickelt sich die Tragödie,
+beinahe in die Arme, und daraus entwickelt sich die Tragödie,
 der Jones und sein Bursche zum Opfer fielen. — So kann die
 Geschichte gewesen sein. Nein — so wird sie gewesen sein.«
 
@@ -706,7 +706,7 @@ Ansicht bin ich auch! Sie werden uns aber nicht nur nicht
 aus den Augen lassen, sondern sogar, falls sie merken, daß ich
 das Geheimnis ihrer Landkarte entdeckt habe, uns — auszulöschen
 versuchen. Wir wollen daher den besseren Teil der
-Tapferkeit wahren und — vorsichtig sein, die Berge meiden,
+Tapferkeit wählen und — vorsichtig sein, die Berge meiden,
 Greaper in die Wüste folgen, dann aber nach Norden abschwenken,
 da ich diese Oase« — er holte eine Spezialkarte
 der Halbinsel Sinai hervor, die ihm Lady Lydia mitgegeben
@@ -728,7 +728,7 @@ Ich saß eine Weile regungslos da.
 Fartah — Fartah! — Ich glaubte erst, falsch gehört zu
 haben. Aber er hatte Fartah gesagt, wirklich Fartah!
 
-Ich eilte zu ihm hin
+Ich eilte zu ihm hin.
 
 »Hilf mir! Wir müssen bis Mittag recht weit gekommen
 sein,« rief er sofort. Ich merkte, er wollte nicht, daß ich weitere
@@ -741,8 +741,8 @@ Nach kurzer Rast ritten wir weiter. Als wir in welliges
 Gelände kamen, suchte Harald mit seinem Fernglas hinter
 uns den Horizont ab. Er spähte nach Schwertner und Salbing
 aus — aber umsonst.
-<@pagebreak/>
  
+<@pagebreak/>
 Die Spuren im Sande mehrten sich jetzt. Förmliche
 Wege waren hier in der Nähe der Oase ausgestampft.
 
@@ -766,7 +766,7 @@ oder Höhenzug) Ahmal, der auf der Spezialkarte Lady Lydias
 gleichfalls verzeichnet ist.«
 
 »Kreisstation« hatte er gesagt. Sofort dachte ich an die
-drei Kreise unter dem »Hause«. — »Gib mir mal das Blatt«
+drei Kreise unter dem »Hause«. — »Gib mir mal das Blatt,«
 bat ich.
 
 »Ist Dir endlich ein Licht aufgegangen, mein Alter? —
@@ -801,7 +801,7 @@ dritten Kreise »Fartah« zusammenstellte. Gerade Fartah —
 die sagenhafte Oase! — Nachher in unserem Zimmer sprach ich
 davon, wie seltsam häufig »Ereignisse mit demselben Kern«
 ineinander greifen. Du verstandest mich damals nicht, obwohl
-ich hinzufügte, daß Du daran beteiligt bist. Ich meine eben
+ich hinzufügte, daß Du daran beteiligt bist. Ich meinte eben
 das halb zerfetzte Buch, aus dem Du den Abschnitt über die
 Oase Fartah vorlasest, und das Blatt, das die Gauner weggeworfen
 hatten. Der »Kern« beider Vorgänge war eben »Fartah«.
@@ -913,7 +913,7 @@ fühlte, wie das Blut mir über die Finger lief. Aber — die
 Todesangst steigert die Energie ins Ungemessene.
 
 Endlich hatte ich die Hände frei. Und als es so weit war,
-als ich sie nach vorm nahm, sank ich um und wurde abermals
+als ich sie nach vorne nahm, sank ich um und wurde abermals
 ohnmächtig.
 
 Der Morgen graute. Ich war wieder bei Besinnung,
@@ -953,7 +953,7 @@ Ich wollte einen der Vögel auf diese Weise fangen, damit
 wir — so ekelhaft die Mahlzeit auch ist — etwas Genießbares
 hätten. Nun — es wird anderswie Rat werden!«
 
-Er drückte mir die Hand. »So komm doch zu Dir. Ich
+Er drückte mir die Hand. »So komm’ doch zu Dir. Ich
 lebe ja!« meinte er herzlich.
 
 Er lebte! Nun war alles gut. —
@@ -967,7 +967,7 @@ Hunger und Durst verspürte, als er die Aasgeier auf
 den Steinblöcken hocken sah, da hatte er sich tot stellen und einen
 greifen wollen.
 
-»Und wer waren die, die uns überfielen ?« fragte ich.
+»Und wer waren die, die uns überfielen?« fragte ich.
 
 »Du denkst natürlich an die richtigen, lieber Alter. Es
 werden Schwertner und Salbing gewesen sein. Wer sonst?
@@ -993,7 +993,7 @@ da muß es in der Nähe Wasser geben. Suchen wir.«
 — Nach zwei Stunden befanden wir uns am nördlichsten Ende
 <@pagebreak/>
 des Wadi. Hier gab es die höchsten Steine, die größten Felsblöcke,
-und das Flußbett war kahler nackter Fels. Überall
+und das Flußbett war kahler, nackter Fels. Überall
 hatten wir Wüstenfüchse aufgescheucht. Dann deutete Harald
 auf eine Art Fährte, die wie ein blanker Strich in ein Gewirr
 von Felsen hineinlief. — »Den Strich haben die Pfoten
@@ -1045,7 +1045,7 @@ Die Reiter trugen Beduinenmäntel. Sie hielten jetzt,
 beobachteten uns. Und Harald rannte ihnen im Galopp entgegen.
 
 Da — mir stockte der Herzschlag! — sie machten kehrt,
-ritten zurück — verschwanden!
+ritten zurück, — verschwanden!
 
 Harald stand lange und starrte ihnen nach. Dann kam
 er müde durch den Sand gewatet mit hängendem Kopf.
@@ -1169,7 +1169,7 @@ andere Tier. Ali Scharka ging zu Fuß. — »Wir wechseln uns
 beim Reiten ab,« erklärte er. —
 
 Der Tag verging. Abends näherten wir uns dem Dschebel
-nochmal. Der »Kurde« blieb in seinem Verhalten unverändert.
+Ahmal. Der »Kurde« blieb in seinem Verhalten unverändert.
 Harst und ich hatten keine Gelegenheit, allein uns auszusprechen.
 Wir lagerten in einen Felsentale, in dem es einen
 kleinen Tümpel gab. Harst schoß ein Bergschaf, das sich in
@@ -1297,7 +1297,7 @@ und ein paar kleine Schlangen. Wir säuberten zwei
 Räume ganz gründlich, brachten in dem einen die Tiere unter
 und richteten den anderen für uns her.
 
-Bald war aus Steinen ein primitiven Herd aufgebaut.
+Bald war aus Steinen ein primitiver Herd aufgebaut.
 Harst und der »Kurde« gingen Brennmaterial sammeln, und
 ich rupfte ein halbes Dutzend Wildtauben, die Harald in der
 Oase vorhin geschossen hatte.
@@ -1342,7 +1342,7 @@ biedere Miene machte ihm so leicht niemand nach. —
 Die Tauben brieten am Spieß. Wir drei hatten uns aus
 Steinen Sitzgelegenheiten aufgetürmt, saßen darauf und schauten
 in das Herdfeuer. Harald drehte Zigaretten, rauchte und
-gähnte. Unser Scharka-Schurke war noch schweigsamer, als
+gähnte. Unser Scharka-Schurke war noch schweigsamer als
 sonst. Die Dunkelheit nahm schnell zu. An den Wänden
 huschten Eidechsen hin und her. — Dann war die Mahlzeit
 <@pagebreak/>
@@ -1488,7 +1488,7 @@ Wir erhoben uns. Ali Scharka fragte sofort: »Effendi,
 ist es wahr — ist es wahr?« — Harald lächelte und nickte.
 
 Ich dachte jetzt an die verflossene Nacht. Harst hatte mir
-nicht gesagt, weshalb er sich von mir getrennt hatte, — »Das
+nicht gesagt, weshalb er sich von mir getrennt hatte. — »Das
 wirst Du morgen erfahren,« war seine Antwort gewesen. —
 Nun wußte ich es: er hatte irgendwie dort in der Nähe des
 Quartiers des anderen Schurken nach der Erklärung für das
