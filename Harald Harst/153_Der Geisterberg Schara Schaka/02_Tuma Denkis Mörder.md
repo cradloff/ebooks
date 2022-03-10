@@ -241,7 +241,7 @@ hell …
 
 Wir sehen das Lederseil … Es hängt, wo es hing …
 
-Im Übrigem: Stille dort oben! Eine bedrohliche Stille!
+Im übrigen: Stille dort oben! Eine bedrohliche Stille!
 — Wo sind unsere vier Inder?! Wo ist Kimur, der doch
 stets in Zwischenräumen nach uns Ausschau halten sollte?!
 
@@ -362,7 +362,7 @@ zwischen Sand und Steinen ruht …
 Scheinbar …
 
 Aber da ist eine Stelle links von dem Block, wo der
-Boden, wie glattgefegt aussieht …
+Boden wie glattgefegt aussieht …
 
 Harald stemmt die Schulter gegen die grauschwarze
 Granitmasse …
@@ -554,7 +554,7 @@ hat Fett angesetzt …
 
 Wallace lächelt ungläubig zu unserer Schilderung.
 
-Aber das Lächeln vergeht ihm, als wir aus den Schara
+Aber das Lächeln vergeht ihm, als wir auf den Schara
 Schaka zu sprechen kommen …
 
 Harst ist vorsichtig bei dem, was er vorbringt …
@@ -582,7 +582,7 @@ Ich habe allerlei mit Ihnen zu besprechen …« —
 
 Eine halbe Stunde später sitzen wir in unserem Wohnsalon.
 Außer Mr. Wallace ist noch der englische Resident
-von Bawalar, Sir Loringstone, anwesend (Residenz, d.h.
+von Bawalar, Sir Loringstone, anwesend (Resident, d.h.
 Berater der indischen Fürsten, in Wahrheit ihr Aufpasser und
 Vormund).
 
@@ -622,7 +622,7 @@ Das gilt Harald …
 Wir sitzen am gedeckten Frühstückstisch … Wir sind
 mitten in der Mahlzeit unterbrochen worden …
 
-Harst lächelt weiter, füllt seine Terrasse gemächlich und
+Harst lächelt weiter, füllt seine Teetasse gemächlich und
 meint:
 
 »Sie sehen, daß ich frühstücke, Sir … Wenn Sie sich
@@ -766,7 +766,7 @@ waren: Diese Jacht sollte ihm die Flucht erleichtern, falls
 die Dinge eine für ihn ungünstige Wendung nehmen sollten.
 
 Dasselbe Weib, das den Thronfolger erschoß, stahl
-dann auch den Handschuhkasten. Wo dieser geblieben, weiß
+dann auch den Krawattenkasten<@refnote 1/>. Wo dieser geblieben, weiß
 ich nicht. Aber die Prinzessin weiß es bestimmt.
 
 Harsts Einmischung zwang Halifax dann zu einem
@@ -904,7 +904,7 @@ mit Zinnen und Türmchen umgeben ist, enthält riesige tropische
 Bäume, eine Unzahl von Marmorfontänen, Pavillons
 und Nebengebäuden.
 
-In der äußersten Nordwestecke diese wundervollen
+In der äußersten Nordwestecke dieses wundervollen
 Parkes erhebt sich der Thronfolger-Palast, zu dem eine breite
 Allee hinläuft, die den ganzen Park durchschneidet.
 
@@ -1048,7 +1048,7 @@ Oxford besucht und ist völlig Europäer geworden …«
 
 Harald wieder — sehr eindringlich:
 
-»Hoheit, der Residenz erwähnte, daß Ihr ältester Sohn
+»Hoheit, der Resident erwähnte, daß Ihr ältester Sohn
 hier in Bawalar von der Thronfolge ausgeschlossen sei,
 falls Sie … verurteilt würden, da nach dem hiesigen Gesetz
 Kinder einer »unehrlichen« Mutter nicht als ebenbürtig

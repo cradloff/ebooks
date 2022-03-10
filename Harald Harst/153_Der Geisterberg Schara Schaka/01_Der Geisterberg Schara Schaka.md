@@ -177,7 +177,7 @@ Kein Europäer … Ein Inder scheint’s zu sein …
 
 Auf seiner Stirn ein blutiger Fleck: ein Schußloch …!
 
-»Gemordet — erschossen!« sagt Harald weiter …
+»Ermordet — erschossen!« sagt Harald weiter …
 »Hier im Boote — beim Rudern … Die Kugel hat ihn
 wie ein Blitzschlag aus dem Leben gerissen … Wenn die
 Ruder ihm nicht Halt gegeben hätten, wäre er vornübergefallen
@@ -638,7 +638,7 @@ Wir schliefen in unseren Korbsesseln ein …
 
 Die Kabine war verschwunden …
 
-Die Zelle hatte gewechselt … Am übrigen war alles
+Die Zelle hatte gewechselt … Im übrigen war alles
 genau so geblieben …
 
 Kahle Felsmauern ringsum … Eine eiserne Tür,
@@ -693,7 +693,7 @@ Der Kerl war ein älterer Inder …
 
 Er brüllte wie besessen …
 
-Dann hatte Harst mit blitzschnellem Geist den Hals des
+Dann hatte Harst mit blitzschnellem Griff den Hals des
 Inders umkrallt …
 
 Rücksicht kannten wir nicht …
@@ -961,7 +961,7 @@ Erschießen … Und er gab an, daß diese Terrasse zu dem
 Berge Schara Schaka gehöre, der an der Südgrenze von
 Priwar in der Thar liegt … Schara Schaka bedeute
 »Berg der Gespenster«, erklärte er weiter … Als ich ihn
-fragte, innerhalb der Berg diesen Namen führe, erzählte er,
+fragte, weshalb der Berg diesen Namen führe, erzählte er,
 daß weder die Bawalesen noch die Priwaresen seit Jahrhunderten
 dieses Tal zu betreten wagten. Auch die Umgebung
 des Tales und des Berges werde ängstlich gemieden.
@@ -1147,7 +1147,7 @@ Als wir dann erst einmal in die Nähe des Baumriesen
 gelangt waren, fühlte auch ich mich bereits etwas
 sicherer …
 
-Im Nu waren wir dann mit Hilfe des Lassos aus
+Im Nu waren wir dann mit Hilfe des Lassos auf
 einem der unteren Äste …
 
 Setzten uns zurecht …
@@ -1156,7 +1156,7 @@ Und hier meinte Harald nun:
 
 »Was ich also noch sagen wollte, mein Alter: Kimur
 <@pagebreak/>
-kennt den Namen des Tigern-Mannes nicht … Er und
+kennt den Namen des Tiger-Mannes nicht … Er und
 die drei anderen Wächter haben den Alten auch nur stets
 spät abends oder nachts gesehen — aus nächster Nähe …
 Und das erscheint mir wichtig … Ich habe so den leisen
@@ -1380,7 +1380,7 @@ Der junge Edward Halifax hatte sich jetzt aufrecht gesetzt
 
 Und Harald erklärte nun ohne jede Empfindlichkeit:
 
-»Doktor, wir werden uns über das Geschehene eingehend
+»Halifax, wir werden uns über das Geschehene eingehend
 aussprechen müssen … Folgen Sie mir zur Terrasse
 <@pagebreak/>
 des Schara Schaka. Dort oben, hoffe ich, werden wir
@@ -1434,7 +1434,7 @@ Sie hatte mancherlei zu verheimlichen.«
 
 »Ein Irrtum!!« erklärte Halifax mit erhobener
 Stimme. »So wahr mir Gott helfe: Die Prinzessin weiß
-nicht einmal, daß Sie beide, meine Herren, hier im Schara,
+nicht einmal, daß Sie beide, meine Herren, hier im Schara
 Schaka gefangen saßen!«
 
 Jetzt konnte ich ein ironisch-ungläubiges Lächeln nicht
