@@ -231,7 +231,7 @@ je ein Menschenantlitz zu schauen. Mein Kerker war offenbar
 der Zugangsschacht zu einem uralten Bergwerk. Er
 war etwa zwölf Meter tief und hatte vielleicht fünf Meter
 Durchmesser. Meine unsichtbaren Wächter ließen mir
-TrinkWasser, Früchte und Brot an einem Lederriemen hinab.
+Trinkwasser, Früchte und Brot an einem Lederriemen hinab.
 Ich sah nie einen der Leute — nie! Flucht erschien
 unmöglich. Doch die Verzweiflung und die Angst, in diesem
 von pestilenzialischen Düften erfüllten Loche umkommen zu

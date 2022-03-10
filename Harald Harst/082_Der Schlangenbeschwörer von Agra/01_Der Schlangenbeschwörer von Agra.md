@@ -587,7 +587,7 @@ seine Begleiterin nicht etwa den Zug auf einer Station
 wechselten.
 
 Nein — sie taten es nicht. Sie taten gar nichts. Sie
-waren ganz arglos und offenbar bester Laune. In Ihansi,
+waren ganz arglos und offenbar bester Laune. In Jhansi,
 dem großen Eisenbahnknotenpunkt, konnte sich Harald am
 Bahnhofsbüfett dicht an sie heranpirschen. Als er zu mir
 in unser Abteil zurückkehrte, sagte er kopfschüttelnd:

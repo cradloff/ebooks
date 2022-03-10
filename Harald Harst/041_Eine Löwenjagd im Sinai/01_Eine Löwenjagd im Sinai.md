@@ -81,7 +81,7 @@ Stimmung zu verderben.«
 
 Lady Lydia saß jetzt regungslos mit tief gesenktem Kopfe
 da. Ich beobachtete sie still. Sie tat mir wieder unendlich
-leid. Ich wußte ja, daß sie Harald heimlich liebte und daß
+leid. Ich wußte ja, daß sie Harald heimlich liebte, und daß
 nur die Angst um sein Leben diese Bitten heraufbeschwor.
 
 Wir weilten jetzt seit drei Tagen abermals als Gäste
@@ -150,7 +150,7 @@ nicht stören.
 
 Harald holte mich jedoch sehr bald ein, meinte:
 
-»Sie war sehr verständig, Tränen wären mir gräßlich
+»Sie war sehr verständig. Tränen wären mir gräßlich
 gewesen. — Ich freue mich recht auf den Ritt und die Bergeinsamkeit,
 mein Alter. Unsere Reittiere kennen wir ja bereits
 von damals her, als wir sie dem Beduinenscheich Umri Schomar
@@ -165,9 +165,9 @@ glaubte, wir hätten nur einen mehrtägigen Jagdausflug vor.
 Harald hatte Lady Lydia dringend gebeten, unsere wahren Absichten
 vor der Dienerschaft geheim zu halten, da man bei
 einer Anzahl von fünfzehn Leuten nie wissen könne, ob auch
-jeder verschwiegen und zuverlässig sei.
+jeder verschwiegen und zuverlässig sei. —
 
-Um ½ 9 vormittags waren wir aufgebrochen. Um 11 Uhr
+Um ½9 vormittags waren wir aufgebrochen. Um 11 Uhr
 schwenkte Harald von der bisherigen Richtung ab und bog in
 ein weites Tal ein, das nach Süden sich erstreckte.
 
@@ -285,7 +285,7 @@ Ich schielte seitwärts. Durch die Ritzen der Steine blinkten
 zwei Beduinenlanzen.
 
 »Gut. Ergeben wir uns,« sagte Harald ebenfalls in englischer
-Sprache. »Wir wären aus diesem Mauerloch ja doch
+Sprache. »Wir wären aus diesem Mauseloch ja doch
 nicht herausgekommen.«
 
 »Werft all Eure Waffen nach vorn!« befahl dieselbe
@@ -324,7 +324,7 @@ mit der krächzenden Stimme überhäufte uns, nachdem man
 uns mit Riemen sehr raffiniert, aber zum Glück nicht in
 schmerzhafter Weise gefesselt hatte, mit allerlei Schmähungen.
 Selbst die Augen waren uns durch einen breiten Streifen
-Stoff, der bis zur Nasenspize reichte und für die Nase einen
+Stoff, der bis zur Nasenspitze reichte und für die Nase einen
 Einschnitt hatte, damit der Stoff glatt anläge, verbunden
 worden.
 
@@ -362,7 +362,7 @@ darauf schließen ließ, daß der Tee ein Betäubungsmittel enthalten
 hatte.
 
 Unklar erreichte in diesem Zustande künstlichen Tiefschlafes
-eine Menge verschwommener Eindrücke die Bewußtseinschwelle
+eine Menge verschwommener Eindrücke die Bewußtseinsschwelle
 meines Hirns. Vielleicht hatte ich auch nur geträumt.
 So dachte ich, als ich auf einem aus Brettern roh zusammengenagelten
 Bett auf einer Schütte Stroh ohne Fesseln und
@@ -382,10 +382,10 @@ einem merkwürdigen Gesichtsausdruck zu.
 Zwischen den Betten stand ein Brettergestell, das einen
 Tisch vorstellen sollte; darauf eine kleine Petroleumlampe mit
 einem Messingblender, also eine sogenannte Küchenlampe.
-Zwei ebenso primitive kurze Bänke luden daneben zum Platz
-nehmen ein.
+Zwei ebenso primitive kurze Bänke luden daneben zum Platznehmen
+ein.
 
-An der linken Wand gab es in der Mitte eine niedrige
+An der linken Wand gab es in der Mitte eine niedrige,
 mit Eisenplatten benagelte Tür, die oben ein größeres Schiebefenster
 hatte. An der entgegengesetzten Wand war eine unbenagelte
 Tür, die in einen kleinen, ebenfalls fensterlosen Raum
@@ -507,7 +507,7 @@ zu einem vorschnellen Entschluß verleitet hätte.«
 Klosters hier in Verbindung,« begann ich nun das mir Wichtigste
 zu erörtern.
 
-»Vielleicht —«
+»Vielleicht —« —
 
 Jedenfalls war mit Harald jetzt nicht zu reden. Ich legte
 mich nachher auf das Bett und schlief. Harst weckte mich.
@@ -527,7 +527,7 @@ wenn die Zwangsmaßnahmen beginnen,« sagte ich beiläufig.
 »Vielleicht —«
 
 »Du bist unausstehlich, Harald.« — Ich holte mir eines
-der zersetzten Bücher vom Wandbrett, um zu lesen. Es war
+der zerfetzten Bücher vom Wandbrett, um zu lesen. Es war
 ein englisches Werk aus dem Jahre 1861 über Forschungsreisen
 in Arabien, also etwas alt, dafür aber recht interessant geschrieben.
 Auch der Halbinsel Sinai waren zwei Kapitel gewidmet.
@@ -574,14 +574,14 @@ unverständlich blieb. Ich stand dicht am Tische, — also jetzt
 auch dicht an der Tür. Plötzlich flog das Schiebefenster auf.
 <@pagebreak/>
 Ein Bündel wurde durch die Öffnung gestopft, fiel zu uns
-hinein. Für einen Augenblick erschien ein braune Gesicht in
+hinein. Für einen Augenblick erschien ein braunes Gesicht in
 dem Türausschnitt. Der Mensch riß den Mund auf. Ein paar
 Silben brachte er noch über die Lippen. Aber ein wildes Geheul
 ließ ihn auf diese Mitteilung, die er uns offenbar machen
 wollte, verzichten. Das Fenster schlug zu.
 
 Ich stand wie versteinert da. Harst war schon vom Tisch
-herabgesprungen, hob das Bündel auf, legte es auf den Tisch
+herabgesprungen, hob das Bündel auf, legte es auf den Tisch,
 knotete es auf.
 
 Und — darin lagen all unsere Sachen, die man uns abgenommen
@@ -590,7 +590,7 @@ Brieftaschen, Patronenschachteln und so weiter.
 
 »Harald — was bedeutet das?« fragte ich völlig verwirrt.
 
-»Lieber Alter, darüber sprechen wir nachher! — Fix jetzt.
+»Lieber Alter, darüber sprechen wir nachher! — Fix jetzt!
 Stellen wir die sogenannten Möbel in einer Ecke zusammen,
 daß es hier wie in einer Rumpelkammer aussieht. Raus mit
 dem Stroh aus den Bettkisten! Hier muß eine Unordnung
@@ -611,7 +611,7 @@ noch ganz außer Atem. Und keuchend fragte ich nun:
 
 »Hm — in dem Bündel lag noch etwas, lieber Alter. Du
 hast es übersehen. Es war ein Schlüssel. — Ja, ja, ein
-Schüssel. Fraglos der zu unserer Kellertür. — Ich wundere
+Schüssel. Fraglos der zu unserer Kerkertür. — Ich wundere
 mich, daß Du Lady Lydias seltsamen Trick nicht durchschaut
 hast. Besinnst Du Dich, wie am Abschiedsabend auf der Terrasse
 ihre Stimmung plötzlich ganz anders wurde? Besinnst
@@ -648,11 +648,11 @@ Schritte und Flüstern. Jetzt gilt’s; jetzt werden wir sehen,
 ob meine List Erfolg hat —!«
 
 Man rüttelte an der Tür. Das Schiebefenster wurde zurückgeschoben;
-eine brennende Kienfadel flog in den Keller,
+eine brennende Kienfackel flog in den Keller,
 brannte am Boden weiter. Der Gerümpelstapel lag der Tür
 schräg gegenüber. Ein braunes, bärtiges Gesicht lugte durch
 das Fenster hinein. Worte wurden in schneller Folge von den
-draußen stehenden gewechselt.
+draußen Stehenden gewechselt.
 
 Wieder rüttelte man an der Tür. Dann ein paar laute
 Rufe; dann flüchtige Schritte —, Stille.
@@ -692,7 +692,7 @@ Leichen geworfen. Harst ließ eine brennende Laterne an
 einem Strick hinab. Wir sahen jedoch nur ein paar menschliche
 Füße aus dem Wasser herausragen.
 
-Nach zwei Stunden kam dann ein schwerverwundeter
+Nach zwei Stunden kam dann ein schwerverwundeter,
 kleiner Araber, ein Stallbursche, aus dem — Düngerhaufen
 hervor gekrochen. Er starb uns leider unter den Händen, konnte
 aber doch noch angeben, daß man Lady Lydia und ihre neue
@@ -739,7 +739,7 @@ Ich fühlte geradezu, daß sein ganzes Inneres lediglich von
 Vergeltungsgedanken erfüllt war. Er wollte nicht gestört sein.
 Das Schicksal Lady Lydias macht ihm Sorge. Es war ja immerhin
 die Frau, die ihn liebte, wenn er dieses Gefühl auch
-nicht erwiederte.
+nicht erwiderte.
 
 Wir waren längst nach Südost eingeschwenkt. Das Gebirge
 zwang uns zu weiten Umwegen. Erst gegen Mitternacht
@@ -776,7 +776,7 @@ blonde, muntere Marry ermorden, bevor sie sich ergeben müssen!
 — Wenn wir beide die Frauen nicht befreien, dann sind
 sie verloren —« —
 
-Gleich darauf brachen wir auf,
+Gleich darauf brachen wir auf.
 
 Der Morgen kam. Wir hatten jetzt allen Grund, überaus
 vorsichtig zu sein. Harst behauptete, wir wären kaum noch eine
@@ -784,13 +784,13 @@ Meile von jenem Tale entfernt, dessen südliche, himmelhohe
 Steinwand einen Teil des ungeheuren Bergwalles bildete, der
 das Koptenkloster samt den es umgebenden blühenden Felder,
 Palmenhainen und Wasserläufen von aller Welt abschloß.
-Wir sahen uns nun nach einem Versteck für unsere Reittiere
+— Wir sahen uns nun nach einem Versteck für unsere Reittiere
 um. Den Rest des Weges wollten wir zu Fuß zurücklegen.
 
 Nachher mußte ich zurückbleiben. Harald wollte allein
 bis an die Steilwand vordringen. Er kehrte bereits nach einer
 halben Stunde zurück — aber nicht allein. Sein Begleiter
-war ein ehrwürdigen Greis mit schneeweißem, kurzem Vollbart.
+war ein ehrwürdiger Greis mit schneeweißem, kurzem Vollbart.
 Auf den ersten Blick erkannte ich in ihm an der braunen Kutte
 und dem einzelnen Haarschopf auf dem im übrigen glatt
 rasierten Schädel einen Koptenmönch, der nur zu dem verborgenen
@@ -805,16 +805,16 @@ Englische völlig fehlerfrei, jedenfalls fließender als ich. Dann
 erklärte Harald:
 
 »Ich habe den Pater Christomas zufällig vor der Steilwand
-getroffen. Er sah mir den Europäer sofort an. Ich wurde
+getroffen. Er sah mir den Europäer sofort an. Ich war
 zunächst noch etwas mißtrauisch, bis der Pater mich offen
 fragte, ob ich vielleicht Harald Harst sei. Er vermutete dies,
 fügte er hinzu, deshalb, weil er einen mißratenen Bruder
-habe, der vor drei Wochen Lady Lydia nach Indien verschleppt
+habe, der vor drei Wochen Lady Lydia nach Indien verschleppte
 und dort verkaufen wollte. Er wisse nun, daß sein Bruder
 Eusebius in Bhopal den Tod gefunden habe und daß wir es
 waren, die Lady Lydia befreit hätten. Er habe mit unserem
 <@pagebreak/>
-Erscheinen gerechnet, da er sich leicht zusammengereimt
+Erscheinen hier gerechnet, da er sich leicht zusammengereimt
 hätte, daß ich den hier umgehenden Gerüchten von einem verborgenen
 Kloster nachgehen würde. — Pater Christomas ist
 entsetzt über den ruchlosen Überfall auf Schloß Medsur. Er
@@ -825,7 +825,7 @@ Der Prior nickte ernst. »Ich will noch mehr tun. Ich
 will Sie beide mit in unser Kloster nehmen. Sie sind dann
 seit mehr als einem halben Jahrhundert die ersten Fremden,
 die unser stilles Tal betreten. Nein — nicht die ersten, Mr.
-Harst. Pimberton und seine Gattin fanden wir einst
+Harst. Lord Pimberton und seine Gattin fanden wir einst
 halb verschmachtet hier in der Nähe auf. Wir schafften sie in
 das Tal, pflegten sie und ließen sie schwören, nichts von dem
 Vorhandensein dieses paradiesischen Ortes zu verraten. Freiwillig
@@ -864,9 +864,9 @@ Koptenfamilien, die in den Nebengebäuden wohnten.
 Wir hatten nun die fünf Meter hohe Mauer erreicht, die
 das Kloster und einen großen Garten umgab. Zwei Mönche
 nahmen uns die Reittiere ab. Dann führte uns der Prior
-noch durch den parkähnlichen Garten. Plötzlich standen wir
+noch durch den parkähnlichen Garten. Plötzlich standen wir,
 um eine Hecke biegend, vor einem langgestreckten Raubtierhause,
-in dem in drei getrennten Käfigen zwölf prächtige
+in dem in drei getrennten Käfigen zwölf prachtvolle
 Löwen gehalten wurden. Der Prior, der sich bescheiden nun
 Pater Christomas nennen ließ, erklärte, es sei hier seit
 Jahrhunderten Sitte, daß stets genau zwölf Löwen entsprechend der
@@ -926,7 +926,7 @@ einen Herzschlag zu bekommen. Meine Pulse klopften; das
 Blut brauste mir immer lauter in den Ohren. Endlich warf
 ich die leichte Decke von mir, setzte mich aufrecht.
 
-Harald richtete sich gleichfalls auf. »Ich kann
+Ah — Harald richtete sich gleichfalls auf. »Ich kann
 nicht einschlafen,« meinte ich. — »Mir geht es genau so.« —
 
 Wir kleideten uns an, nachdem wir uns gründlich gewaschen
@@ -942,7 +942,7 @@ Er stand an der anderen Schmalseite des langen Raumes.
 In der Mitte der Wand war ein mächtiges Steinkreuz mit
 sehr kurzen Balken aufgestellt. Die Spitze des Kreuzes lief
 in die Figur eines Löwen aus, der einen Schlangenstab (eine
-gereckte Schlange) im Maule trug. Die Inschrift des
+gerade gereckte Schlange) im Maule trug. Die Inschrift des
 Kreuzes setzte sich seltsamer Weise aus lauter arabischen Ziffern
 zusammen, zwischen die hin und wieder eine Tierfigur
 eingeschoben war. Das Fußende des Kreuzes zeigte ebenfalls
@@ -992,7 +992,7 @@ das Blut wieder zu Kopfe. Er atmete tief auf.
 er nun, »will ich zusehen, ob ich glücklicher bin. Vielleicht
 entziffere ich die Geheimschrift.«
 
-»Ja, Mr. Harst, vielleicht haben Sie Glück —«, sagte der
+»Ja, Mr. Harst, vielleicht haben Sie Glück —,« sagte der
 ehrwürdige Greis in einem Tone, der seltsam gegen seine bisherige
 Sprache abstach. Es machte auf mich ganz den Eindruck,
 als liege dem Prior sehr viel daran, daß die Inschrift
@@ -1103,7 +1103,7 @@ enthüllt habe.
 <@pagebreak/>
   
 > Achtzig Schritt vom Tore zur tiefsten Sonne; vierzig
-weiter zum rechten Arm. Bewahre es gut, der Du
+Schritt weiter zum rechten Arm. Bewahre es gut, der Du
 nach mir kommst.
 
 Ich kann mir nur denken,« fügte er hinzu, »daß es sich
@@ -1155,7 +1155,7 @@ Wort ab.
 
 <@pagebreak/>
 »Ah — die Schurken!« flüsterte er. Und ich — ich folgte der
-Richtung seiner Blicke. Dort am Ende der langen, hohen Hecke
+Richtung seiner Blicke. Dort am Ende der langen, hohen Hecke,
 hinter der das Raubtierhaus lag, standen zwei Löwen mit
 pendelnden Schweifen, schauten nach uns hinüber.
 
@@ -1177,7 +1177,7 @@ hinaufzog.
 
 Die Spitze der Pyramide wurde durch fünf viereckige
 Steinplatten gebildet, von denen vier die fünfte einschlossen.
-Die Seitenlänge des ganzen Quadrats betrug etwa 1 ½ Meter.
+Die Seitenlänge des ganzen Quadrats betrug etwa 1½ Meter.
 In den Ritzen zwischen den Platten hatten sich Gräser angesiedelt,
 sogar ein einzelner Distelstrauch. Sand und Blätter
 bedeckten die Platten, auf denen wir nun nebeneinander saßen
@@ -1342,7 +1342,7 @@ stand aufrecht!
 
 Darunter ein Schacht mit in die Wände eingelassenen Steigeisen.
 
-»Hinab mit uns!« — Ich kletterte als erster abwärts,
+»Hinab mit uns!« — Ich kletterte als erster abwärts.
 Harald ließ die Platte wieder zurückgleiten. Ich hielt schon die
 Taschenlampe bereit. Der weiße Schein schoß in die Tiefe.
 
@@ -1357,10 +1357,10 @@ Dann aber, bereits unter der Grundfläche der Pyramide,
 einen größeren Raum, den man am besten mit Bibliothek bezeichnet.
 <@pagebreak/>
 Hier lagen auf Wandgestellen eine Unmenge Papyrus- und
-Pergamentrollen, also Aufzeichnungen aus der
+Pergamentrollen, also Aufzeichnungen aus den
 ältesten Zeiten des Klosters.
 
-»Ah, — dieser Art sind die Schätze«, meinte Harald. »Die
+»Ah, — dieser Art sind die Schätze,« meinte Harald. »Die
 Banditen würden arg enttäuscht sein. Für die Altertumsforschung
 freilich sind dies Schätze.«
 
@@ -1452,7 +1452,7 @@ Garten bis zur Mauer, so lange noch die Löwen umherstreifen?
 Clementpistolen mit ihren Stahlmantelgeschossen besitzen eine
 solche Durchschlagskraft, daß ein Mann ohne Nerven hierbei
 nichts riskiert. Außerdem — bedenke den Vorteil der Taschenlampen.
-Die Bestien starren in in das grelle Licht!«
+Die Bestien starren in das grelle Licht!«
 
 »Niemals! Du allein?! — Ich komme mit.«
 
@@ -1469,7 +1469,7 @@ ganz leise! Ich klettere voran. Nimm Dich in acht, daß Du
 nicht ausgleitest.« —
 
 Angst? — War das Angst, das ich empfand? — Mein
-Herz klopfte mir bis zum Halse hinauf. — Zwölf Löwen
+Herz klopfte mir bis zum Halse hinauf. — Zwölf Löwen,
 hungrig, gierig auf Beute! — Aber — der, der da vor mir
 nun mit solcher Sicherheit und Ruhe Schritt für Schritt abwärtsstieg,
 war ja Harald Harst! Und — hatte ich nicht in
@@ -1562,16 +1562,14 @@ Frau. —
 Wir führten sie bis in die oberste Mumienkammer. Hier
 war die Luft am besten. Harald hörte dann am Morgen das
 Fluchen und Toben der enttäuschten Banditen durch die Geheimtür
-hindurch, als sie das Verschwinden ihrer Gefangen
-bemerkten.
-
+hindurch, als sie das Verschwinden ihrer Gefangen bemerkten.
 Aber — bis zum Abend schwebten wir in steter
 Angst, die Schurken könnten das Geheimnis der Pyramide
 entdecken.
 
 Dann war endlich die Nacht da. Wir warteten bis 12
 Uhr. Harald ging sehen, ob wir unbelästigt fliehen könnten.
-— »Sie beladen Kamele und Pferde.« meldete er. »Sie wollen
+— »Sie beladen Kamele und Pferde,« meldete er. »Sie wollen
 <@pagebreak/>
 das Tal verlassen. Sie fürchten, daß wir beide mit Militär
 das Nest hier ausheben.« —

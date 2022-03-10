@@ -611,7 +611,7 @@ Da hielt wirklich ein Auto.
 
 Aber – jetzt saßen ein Herr und eine Dame darin. Von dem Chauffeur war nichts zu sehen.
 
-Sollte es tatsachlich dasselbe Auto sein?! Jenes Auto, das ich in Trollhätta beobachtet hatte?!
+Sollte es tatsächlich dasselbe Auto sein?! Jenes Auto, das ich in Trollhätta beobachtet hatte?!
 
 Ich hütete mich, allzu auffällig hinüberzublicken. Es war jetzt heller Tag geworden. Es mochte gegen fünf Uhr morgens sein. Die Sonne mußte jeden Augenblick über den Höhen im Osten auftauchen.
 
@@ -731,7 +731,7 @@ Wir schritten zu zweien durch die stillen Straßen. Harald ging mit mir voraus.
 
 Harst führte uns an eine Seitenpforte der Parkmauer des Museums. Sein Patentdietrich öffnete das Schloß. Dann befahl er: »Nun bitte kein lautes Wort, kein Geräusch! Einer hinter dem andern!«
 
-Über schattige Wege, Rasenflächen und Holzbrückchen ging es dem linken Flügel des Hauptgebändes zu.
+Über schattige Wege, Rasenflächen und Holzbrückchen ging es dem linken Flügel des Hauptgebäudes zu.
 
 Wer als Tourist Skien besucht, kennt auch das Skien-Museum, kennt das weiße Hauptgebäude mit den beiden Flügeln, den vielen blanken Fenstern und den weiten Sälen.
 

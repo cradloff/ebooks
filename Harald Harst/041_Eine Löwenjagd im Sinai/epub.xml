@@ -2,27 +2,11 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>Eigenschaften für eBook</comment>
-<!-- eindeutige ID des Buchs (Pflichtangabe) -->
 <entry key="UUID">3993ae26-53cf-11e9-94a5-b36ac5ec0d93</entry>
-<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
-<entry key="secondaryID"></entry>
-<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
-<entry key="secondaryIDType"></entry>
-<!-- Buch-Titel (Pflichtangabe) -->
 <entry key="title">Eine Löwenjagd im Sinai</entry>
-<!-- Sub-Titel -->
-<entry key="subtitle"></entry>
-<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
-<entry key="shorttitle"></entry>
-<!-- Sammlung, z.B. Titel einer Serie -->
 <entry key="collection">Harald Harst - aus meinem Leben</entry>
-<!-- Position innerhalb der Sammlung (Band-Nummer) -->
 <entry key="group-position">41</entry>
-<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
-<entry key="edition"></entry>
-<!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
-<!-- Beschreibung -->
 <entry key="description">Eine Löwenjagd im Sinai
 
 »Mylady, Sie müssen doch einsehen, daß es für einen Menschen wie mich geradezu unmöglich ist, ein solches Geheimnis auf sich beruhen zu lassen. Das geht wider meine Natur.  Wer wie ich aus Liebhaberei Detektiv geworden ist und seit fast drei Jahren die Welt durchstreift, bald freiwillig einem dunklen Rätsel nachspürend, bald gerufen von armen Bedrängten, die anderswo keine Hilfe und keinen Rat finden, der kann eine Gelegenheit wie diese nicht versäumen, wo es sich doch hier fraglos um eine Sache handelt, durch deren Aufklärung man der Allgemeinheit einen Dienst erweist.«
@@ -40,31 +24,16 @@ Im Speisesaale des Schlosses Medsur saßen wir zu sechs an der Tafel: Lady Lydia
 Das Gespräch drehte sich um die letzten, leider so blutigen Ereignisse. Lady Lydia war ernst und beteiligte sich wenig an der Unterhaltung. Einmal ging ihr die Ermordung ihrer Dienerschaft sehr nahe; dann aber wußte sie, daß Harald heute den letzten Tag unter ihrem Dache weilte. Wir wollten morgen früh Leutnant Jones vom Kamelreiterkorps ins Innere der Halbinsel Sinai begleiten, wo er mit zehn Leuten zwei aus dem Gefängnis in Suez entsprungene internationale Hochstapler und Hoteldiebe suchen sollte, die offenbar zu einem der Beduinenstämme geflüchtet waren.
 
 Durch eine Bemerkung Hauptmann Mac Leans über die Oasen der Sinai-Wüsten wurde ich an das zerfetzte Buch erinnert, in dem ich auch einen Hinweis auf eine Oase namens Fartah gefunden hatte, die nach alten, unter den Wüstenstämmmen fortlebenden Ueberlieferungen die Ruinen einer Stadt aus der ältesten ägyptischen Kulturepoche enthalten sollte.</entry>
-<!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
-<!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
-<!-- Dateiname (default: Titel - Author.epub) -->
 <entry key="filename">Kabel, Walther - (041) Eine Löwenjagd im Sinai.epub</entry>
-<!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
-<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
 <entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
-<!-- Rechte/Lizenz (z.B. Public Domain) -->
 <entry key="rights">Public Domain</entry>
-<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
 <entry key="pubDate"></entry>
-<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
 <entry key="creationDate"></entry>
-<!-- Cover-Bild (default cover.*) -->
-<entry key="cover"></entry>
-<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
 <entry key="toc">true</entry>
-<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
-<entry key="toc-entries">h1, h3</entry>
-<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
-<entry key="additional-media"></entry>
-<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="toc-entries">h1, h2</entry>
 <entry key="freemarker">true</entry>
 </properties>
 

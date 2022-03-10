@@ -393,7 +393,7 @@ Unter dem primitiven Sonnendach ein Seufzer.
 
 <@pagebreak/>
 Wir fuhren beide leicht zusammen. — Das Mädchen war
-zu sichgekomnen. Harst kniete jetzt neben ihr.
+zu sich gekommen. Harst kniete jetzt neben ihr.
 
 »Bleib’ ruhig liegen — Du bist bei Freunden,« sagte er
 zart und liebevoll. »Dir wird nichts Böses mehr geschehen.

@@ -1140,6 +1140,7 @@ Hand offenbar eingeritzte Worte.
 Ich entzifferte:
 
 > In Ale
+
 > hier
 
 Ich schaute Harst unsicher an.
@@ -1320,6 +1321,7 @@ als überrascht. Und doch hättest Du gleichfalls herausfinden
 müssen, daß die Wörter
 
 > In Ale
+
 > hier
 
 nur eine Verstümmelung infolge hastiger, undeutlicher
@@ -1329,6 +1331,7 @@ Trennung sind. Setze für das l ein t und für das h ein l, dann
 heißt’s:
 
 > In Ate
+
 > lier,
 
 also »In Atelier«, — ergänzt: »Ich werde in einem Atelier

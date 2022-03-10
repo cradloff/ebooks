@@ -1050,7 +1050,7 @@ nur heißen: »Nicht die Wahrheit sagen!«
 
 Ich überlegte blitzschnell. Dann lallte ich mühsam:
 
-»Im — im Polizei-präsidium —«
+»Im — im Polizei—präsidium —«
 
 Bassano nickte zufrieden. »Das habe ich mir gedacht.
 — Wer hat Rosarita und Tosco ermordet? War es der

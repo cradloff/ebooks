@@ -589,7 +589,7 @@ zurück und musterte prüfend sein Bild.
 Dann fügte er hinzu: »Wir werden auch noch von
 anderer Seite beobachtet, mein Alter. Tu’ mir aber einen
 Gefallen und dreh’ Dich nicht um. Rechts von uns liegt
-unter den Weidenbüschen am Rande eines Wessergrabens
+unter den Weidenbüschen am Rande eines Wassergrabens
 <@pagebreak/>
 ein zerlumpter Strolch im Grase, der jedoch ein merkwürdig
 kostbares Spiegelfernglas bei sich hat.«

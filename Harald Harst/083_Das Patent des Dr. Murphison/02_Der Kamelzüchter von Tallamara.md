@@ -456,7 +456,7 @@ Zehn Minuten drauf fuhren wir drei, vorn einen Chauffeur und hinter uns das zwei
 
 Die Thar-Wüste!
 
-Bekanntes Gelände für uns. Hier in dieser größten Fels- und Sandebene Indiens hatte vor Jahren unser Abenteuer mit der Bajadere Molar Pur ein überraschendes Ende gefunden; hier hatten wir hoch zu Kamel uns mit allerlei Gesindel herumgeschlagen, hier sollten wir nun später ausgesetzt werden.
+Bekanntes Gelände für uns. Hier in dieser größten Fels- und Sandebene Indiens hatte vor Jahren unser Abenteuer mit der Bajadere Mola Pur ein überraschendes Ende gefunden; hier hatten wir hoch zu Kamel uns mit allerlei Gesindel herumgeschlagen, hier sollten wir nun später ausgesetzt werden.
 
 Später! Das hatte noch Zeit. Erst mußte Lizabet Olgerdyn gefunden werden. –
 
@@ -662,7 +662,7 @@ Der Umstand, daß Hektor Olgerdyn uns diese Verlobung verschwiegen und auch dem 
 
 Beim Abendbrot lenkte Harst dann das Gespräch nochmals auf James Baac und dessen Schwester.
 
-Jenningson lächelte jetzt fein. »Halten Sie Baar wirklich für einen gewöhnlichen Barbier, Mr. Harst?« meinte er.
+Jenningson lächelte jetzt fein. »Halten Sie Baac wirklich für einen gewöhnlichen Barbier, Mr. Harst?« meinte er.
 
 Auch Harald lächelte. »Nein, er ist ein gebildeter Mann, wahrscheinlich Zahnarzt. Ich denke, er wird als solcher Miß Lizabet vor einem Jahr behandelt haben, als er noch anderswo wohnte. Er – verliebte sich in sie und kam ihretwegen her, um in ihrer Nähe zu sein.«
 

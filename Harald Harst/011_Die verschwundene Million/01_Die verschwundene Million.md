@@ -604,17 +604,17 @@ sagte: »Er ist’s ohne Zweifel.«
 Der alte Herr faßte jetzt leicht an die Hutkrempe, wandte
 sich an Bechert, meinte in schlechtem Deutsch, das sofort den
 Engländer oder Amerikaner verriet: »Weswegen Ihr haltet
-meine Wagen an, he? Ich habe gehört, Ihr seid von der Polizei.
+meine Wagen an, he? Ich uabe gehört, Ihr seid von der Polizei.
 Uat der Fahrer da gefahren zu schnell?«
 
-»Steigen Sie aus!« erklärte Bechert. »Chauffeur Sie
+»Steigen Sie aus!« erklärte Bechert. »Chauffeur, Sie
 warten da vor jenem Hause.« Er deutete auf das Harstsche
 Grundstück.
 
 Dann nahmen wir den Graubart in die Mitte und brachten
 ihn, nicht ohne daß er erregt protestiert hätte, in Harsts
 Arbeitszimmer. Ich öffnete die Tür nach dem Schlafzimmer
-und rief Harst zu: »Den einen haben wir schon — «
+und rief Harst zu: »Den einen haben wir schon —«
 
 Aber — die Sache nahm sehr bald eine recht unangenehme
 Wendung. Der Herr legitimierte sich zweifelsfrei als früherer

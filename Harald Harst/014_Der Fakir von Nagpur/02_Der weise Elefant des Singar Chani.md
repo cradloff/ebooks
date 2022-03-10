@@ -474,7 +474,7 @@ Plötzlich lachte Harst hell auf, deutete auf die rechte Papptafel.
 
 Und da stand:
 
-<p style="textalign: center; whitespace: prewrap; padding: 1em;">Der berühmteste Detektiv der Welt,
+<p class="centered" style="whitespace: prewrap; padding: 1em;">Der berühmteste Detektiv der Welt,
 der Deutsche Harald Harst!</p>
 
 »Den muß ich mir ansehen!« meinte der lebende Harst.
@@ -1016,7 +1016,7 @@ Die ganze Szenerie ringsum war eigenartig, phantastisch
 mich aber mit kurzen Andeutungen über das Wichtigste begnügen.
 
 Der Elefant hatte prachtvolle Stoßzähne. Sie waren
-mit schweren goldenen Ringen verziert, in denen Brillianten
+mit schweren goldenen Ringen verziert, in denen Brillanten
 glänzten. Um den Hals trug das riesige Tier einen Goldreif
 mit beweglichen Gliedern, von dem bis auf die Rüsselwurzel
 hinab eine breite, schildartige Goldplatte herabhing, in der

@@ -1149,7 +1149,7 @@ daß der Mann jener Thomas Gould war, der als Ingenieur
 ebenfalls in den Diensten des Lords stand. Er wurde
 von der Euston-Klippe in die Tiefe gestürzt. Alle Welt
 hat an einen Unfall geglaubt. — Ich, ferner der Stallmeister
-des Lords, Mr. Beckerey, und der Chauffeur Evans
+des Lords, Mr. Beckerley, und der Chauffeur Evans
 gehörten zur Sektion 6. Wir drei haben unter Anleitung
 Lionel Barrings den Einbruch bei dem Grafen Söderholm
 verübt. Von der Beute unterschlugen wir den Edelstein

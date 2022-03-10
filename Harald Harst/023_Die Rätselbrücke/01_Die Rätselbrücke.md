@@ -189,7 +189,7 @@ Frau Knork blickte Harst überrascht an. »So ist es. Die Skizze glaubte er dort
 
 Sie öffnete ihr goldenes Handtäschchen. »Bitte – hier ist Umschlag und Brief. Alles ist mit Maschine geschrieben. Ich habe keine Ahnung, wer der Absender ist. Unter den drei Zeilen steht lediglich ein fremdländisch klingender Name: Lihin Omen!«
 
-»Also hatte ich richtig vermutet!« rief Harst leise und nickte mir vielsagend zu. Dann las er den kurzen Brief unseres Konkurenten:
+»Also hatte ich richtig vermutet!« rief Harst leise und nickte mir vielsagend zu. Dann las er den kurzen Brief unseres Konkurrenten:
 
 »Sehr geehrte gnädige Frau! Ein Freund teilt Ihnen mit, daß Harald Harst sich in Stockholm aufhält. Sie tun recht daran, ihn um Hilfe zu bitten. Ihre Tochter muß diesem Scheusal von Palperlon entrissen werden. Ich bin ehrlich: Meine Kunst versagt hier! Ich hätte für Sie, Ihre Tochter und Ihrem Gatten keine Mühe gescheut. – Ihr ergebenster – Lihin Omen!«
 
@@ -237,7 +237,7 @@ Magda Knork nickte nur. Sie hob den Kopf nicht mehr. Ihre Wangen hatten alle Far
 
 »So ist es,« sagte das junge Mädchen leise. Sie hob den Kopf und schaute durch das Fenster mit einem völlig seelenlosen Blick auf das gegenüberliegende Haus, während ihr Gesicht wie zu einer Maske erstarrte. Diese bleichen, ausdruckslosen Züge wirkten fast beängstigend. Noch beängstigender war das, was folgte.
 
-Wie im Traum sprach sie nun vor sich hin: »Mir fiel es schon damals auf, daß er immer wieder auf die als Pfeifenbeutel verborgende Skizze zurückkam! – Also deshalb – deshalb –!«
+Wie im Traum sprach sie nun vor sich hin: »Mir fiel es schon damals auf, daß er immer wieder auf die als Pfeifenbeutel verborgene Skizze zurückkam! – Also deshalb – deshalb –!«
 
 Frau Theresa Knork erschien plötzlich in der Tür.
 
@@ -263,7 +263,7 @@ Harst saß ganz still da und blies wie ein Automat den Zigarettenrauch von sich.
 
 »Ich bin überzeugt, daß Lihin Omen nur Magdas wegen Liebhaberdetektiv geworden ist.«
 
-»Du meinst also, daß Doktor Branden unser Konkurent ist?« fragte ich schnell.
+»Du meinst also, daß Doktor Branden unser Konkurrent ist?« fragte ich schnell.
 
 »Ja. Wir wissen von Lihin Omen, daß er Berliner und reich ist. Beides trifft auch bei Branden zu. Die Hauptsache aber ist der Brief, den Lihin Omen Frau Knork zusteckte. Nur jemand, der die Familie Knork persönlich kennt, wird schreiben: »Ich hätte für Sie, Ihre Tochter und Ihren Gatten keine Mühe gescheut.«
 

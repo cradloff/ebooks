@@ -106,7 +106,7 @@ Es war bereits völlig dunkel, und man hatte wohl kaum auf uns geachtet, als wir
 
 Stuart Bompwell, ein älterer Junggeselle, hatte bis vor einem halben Jahr in Dehli gelebt, wie er uns dann erzählte, und sich jetzt hier in Murwani eine kleine Musselinweberei bauen lassen, da die Arbeitskräfte hier bedeutend billiger waren.
 
-Er kannte Doktor Philip Murphison recht genau, bezeichnete ihn als einen liebenswürdigen Sonderling und genialen Menschen, der sich in Dehli des größten Ansehens erfreue.
+Er kannte Doktor Philipp Murphison recht genau, bezeichnete ihn als einen liebenswürdigen Sonderling und genialen Menschen, der sich in Dehli des größten Ansehens erfreue.
 
 Harst hatte natürlich lediglich Murphisons Depesche erwähnt und über Greebrac kein Wort geäußert.
 
@@ -456,7 +456,7 @@ Helleres Licht drang durch den Schlitz im Holze.
 
 Und – ich sah flüchtig grüne Blätter, den Rücken eines Mannes.
 
-Jetzt ward der Sarg über eine Holplanke geschoben. Wieder ein Ruck, gleichmäßige Erschütterungen: man fuhr mich auf einem Wagen nach dem Verbrennungshof!
+Jetzt ward der Sarg über eine Holzplanke geschoben. Wieder ein Ruck, gleichmäßige Erschütterungen: man fuhr mich auf einem Wagen nach dem Verbrennungshof!
 
 Ich gab mich verloren. Jede Hoffnung schwand. Todesangst trieb mir eisigen Schweiß aus den Poren. Zittern und Zuckungen liefen mir über den Leib hin.
 

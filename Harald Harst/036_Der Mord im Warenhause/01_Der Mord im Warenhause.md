@@ -436,7 +436,7 @@ Smuth noch für einen Dieb?«
 »Nein, Mylord. Die Sache ist ja nun völlig geklärt. Dieser
 angebliche Reverend wird wohl schon in der Eisenbahn beschlossen
 haben, den General zu bestehlen, bei dem er größere
-Gelbeträge vermutete.«
+Geldbeträge vermutete.«
 
 Shaterlain wetterte jetzt los. »Ah — dieser scheinheilige
 Halunke! Er hat sich von mir Kleingeld in eine 100-Pfundnote

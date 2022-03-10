@@ -279,7 +279,7 @@ Schreibtisch.
 > Gestern war der Sterbetag meines Vaters, also der Tag
 der zweiten »Warnung«.
 
-> Und — sie erfolgte! Und — <span class="g">wie</span> erfolgte sie! —
+> Und — sie erfolgte! Und — *wie* erfolgte sie! —
 
 > Ich war des Grauens wieder Herr geworden — glaubte
 ich. So lange die Helle des Tages Straßen und Wohnungen
@@ -373,17 +373,13 @@ es getan haben!
 
 > Und dann kam das Entscheidende, das Wichtigste:
 
-<<<<<<< HEAD
-> Ich wollte nachsehen, ob das Buch, die Uebersetzung Jeruchai’s
-=======
 > Ich wollte nachsehen, ob das Buch, die Übersetzung Jeruchal’s
->>>>>>> master
 genau an der Stelle aufgeschlagen war, wo ich zu
 lesen aufgehört hatte.
 
 > Es war dieselbe Stelle! Aber — auf der rechten Seite
 fand ich nun halb plattgedrückt und mit dem Körpersaft am
-Papier klebend einen jener Käfer, die man <span class="g">Totengräber</span>
+Papier klebend einen jener Käfer, die man *Totengräber*
 nennt! Ich hatte vorher nur flüchtig hingeschaut und ihn
 übersehen.
 
@@ -658,13 +654,8 @@ Nachher — als Harst uns doch gerettet hatte! —
 Ich war tot. Und die endlose Stille ging über in eine
 Anzahl von Geräuschen, die ich vielleicht ihrer Bedeutung nach
 hätte ergründen können, wenn ich fähig gewesen zum Denken,
-<<<<<<< HEAD
-Ueberlegen, Kombinieren. So aber empfing mein Ohr die
-Töne, leitete sie lediglich in die Gehirnzellen des Gehörapparats.
-=======
 Überlegen, Kombieren. So aber empfing mein Ohr die
 Töne, leitete sie lediglich in die Gehirnzellen des Gehörapperats.
->>>>>>> master
 Hier aber versagte die Weiterleitung.
 
 Dann ganz deutlich eine Stimme:
@@ -961,7 +952,7 @@ wir aufbrechen. Bitte bis dahin wieder Mann zu werden,
 mein Alter!«
 
 Um 12 Uhr ging die Laterne vor unseren Fenstern aus.
-Dann — gingen <span class="g">wir</span> aus, gelangten ungesehen auf die
+Dann — gingen *wir* aus, gelangten ungesehen auf die
 Straße und schritten diese Seitengasse nach Osten zu entlang,
 fragten uns bis zum Kastell St. Jorge durch, passierten zahllose
 dunkle Gäßchen, fragten wieder und standen nun gegen
@@ -1138,7 +1129,7 @@ kurzen Brief an den Seher, meldete sich für 12 Uhr mittags
 an und — fügte dem Schreiben eine englische 100-Pfundnote
 bei.
 
-Ich sah’s, fragte kopfschüttelnd: »Hm — ob <span class="g">das</span> ziehen
+Ich sah’s, fragte kopfschüttelnd: »Hm — ob *das* ziehen
 wird?!«
 
 <@pagebreak/>

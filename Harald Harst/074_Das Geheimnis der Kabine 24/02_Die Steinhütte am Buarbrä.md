@@ -479,7 +479,7 @@ Ruperti diesen neuen Schurkenstreich verübt haben könnte?«
 »Durch eine Dummheit dieses Menschen, eine Unüberlegtheit, durch einen Versuch,
 mich zu verhöhnen, mich als Detektiv. Schraut kann Ihnen das erklären, denn er
 hat diese Verhöhnung ermöglicht, weil er ja unsere Abenteuer sehr zu meinem
-Ärger stets veröffentlicht und dabei meine – »genialen« Fähigleiten häufig
+Ärger stets veröffentlicht und dabei meine – »genialen« Fähigkeiten häufig
 allzu dick unterstreicht –«
 
 Ah – nun ging mir ein Licht auf: das Stück Druckseite aus Band 68!
@@ -1039,7 +1039,7 @@ vor kurzem jemand kaltblütig hingemordet und zeigte doch eine fast imponierende
 Gelassenheit.
 
 Wir näherten uns so dem Gletscher, dessen steiler Rand mit Steinchen, kleinen
-Felsstücken und Steingrus bedeckt war.
+Felsstücken und Steingrus<@refnote 6/> bedeckt war.
 
 Harald bückte sich noch tiefer. Ja, – wer doch seine Augen hätte! Wer doch wie
 er jetzt Schritt für Schritt auch auf dem harten Eise die Spur weiter verfolgen
