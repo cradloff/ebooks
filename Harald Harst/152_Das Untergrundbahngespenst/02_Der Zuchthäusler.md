@@ -60,7 +60,7 @@ Ich werde sagen, was ich sagen muß — mehr nicht …«
 nicht ein noch aus … Ich konnte doch unmöglich meinen
 Schwiegervater …«
 
-»… Und da fiel Ihnen das Gas ein …«
+»… und da fiel Ihnen das Gas ein …«
 
 »Ja … Es ist eine Flüssigkeit, die sofort gasförmig
 wird, wenn sie mit der Luft in Berührung kommt … Ich
@@ -244,7 +244,7 @@ ohne sich umzudrehen:
 
 »Herr Harst, wenn Sie wirklich ein Mensch mit einem
 mitfühlenden Herzen in der Brust sind, dann … dann …
-geben Sie diesen Fall auf…!«
+geben Sie diesen Fall auf …!«
 
 <@pagebreak/>
 »Das kann ich nicht, Baron … Es handelt sich hier
@@ -449,7 +449,7 @@ Geld schicken, vielleicht auch der Baron Gisbert. Es
 geht ihr nicht schlecht … Sie werden dort bei Frau
 Pedersen aber kaum mehr erfahren als hier bei mir …«
 
-Gegen elf Uhr verabschiedeten wie uns … Gingen
+Gegen elf Uhr verabschiedeten wir uns … Gingen
 ins Wirtshaus und legten uns zu Bett. Harald war geradezu
 unheimlich schweigsam. Meine Fragen überhörte er.
 
@@ -468,7 +468,7 @@ herrlichen Fleckchen Erde zu scheiden …
 
 Und links von uns auf einer Terrasse der Talwand
 unter alten Obstbäumen ein winziges Hüttchen, strohgedeckt.
-Ein Gärtchen, ein Stück Wiese, auf denn zwei Ziegen weideten
+Ein Gärtchen, ein Stück Wiese, auf dem zwei Ziegen weideten
 …
 
 »Komm, mein Alter,« sagte Harald … »Die alte
@@ -596,7 +596,7 @@ Dann schon Harald:
 
 »Wir danken Ihnen, Frau Pedersen … Und wir
 werden nichts von dem verraten, was Sie uns anvertraut
-haben … — setzt wollen wir am Strande weiterwandern.
+haben … — Jetzt wollen wir am Strande weiterwandern.
 Abends fahren wir dann von Wollin mit der Eisenbahn
 heim …«
 
@@ -646,18 +646,18 @@ Frau einen Unterschlupf gesucht hat …«
 Harald wurde jetzt gesprächig, als wir dicht am Strande
 dahinwanderten …
 
-»Für mich unterliegt es keinem Zweifel mehr, das der
+»Für mich unterliegt es keinem Zweifel mehr, daß der
 Vater des Barons Gisbert noch lebt, und daß er auch wirklich
 im Zuchthaus gesessen hat … Ich habe das schon
 gestern vormittag vermutet, als Baron Gisbert uns gegenüber
-sich selbst bezichtigte. Lebt der alle Baron, so hat seines
+sich selbst bezichtigte. Lebt der alte Baron, so hat seines
 Sohnes Verhalten eine durchaus genügende Erklärung gefunden.
 Freilich, was die Diebstähle in der Untergrundbahn
 angeht, bleiben noch recht viele Punkte völlig dunkel.«
 
 Wir kamen jetzt an der Badeanstalt vorüber, die zum
 Schlosse Garlitten gehörte … Auf dem Dachrand hatte
-sich eine Schwarm Möwen niederstoßen, eine an der anderen,
+sich ein Schwarm Möwen niedergelassen, eine an der anderen,
 eine lange Reihe … Plötzlich stoben die langbeschwingten
 Vögel dann in die Höhe, kreischend und lärmend
 …
@@ -673,7 +673,7 @@ Eine Dame verfolgt uns …«
 Und ging weiter …
 
 »Eine Dame, mein Alter …! Vielleicht gar Eva
-Baronesse Garlitt … Möglich ist alles … Wir Werden
+Baronesse Garlitt … Möglich ist alles … Wir werden
 schon noch eine Uferstelle finden, wo wir uns auf die
 Lauer legen oder der Frau gar in den Rücken gelangen
 können …«
@@ -782,7 +782,7 @@ Wandte sich um — begann zu laufen …
 
 Und da erst sahen wir, daß das Motorboot bereits in
 die Bachmündung hineinsteuerte, daß drei, vier Männer
-an Land sprangen … daß noch Weitere vier hinter der
+an Land sprangen … daß noch weitere vier hinter der
 Bordwand auftauchten …
 
 Harst hatte der Baronesse nacheilen wollen … blieb
@@ -1128,7 +1128,7 @@ solche Leibgarde beschaffen?!«
 
 Ich nicke nur …
 
-Wir scheint nichts mehr lächerlich …
+Mir scheint nichts mehr lächerlich …
 
 Und Harald fährt fort:
 
@@ -1395,7 +1395,7 @@ geradezu unsinnig ist. — Wie gesagt — wir wissen nicht,
 wo der Bedauernswerte sich jetzt verborgen hält. Er arbeitet
 mit einem Weibe zusammen, die gleichzeitig mit ihm
 aus dem Zuchthaus entlassen wurde. Näheres über diese
-Frau kann im nicht angeben. Nur ist eine gewiß: der alte
+Frau kann ich nicht angeben. Nur ist eins gewiß: der alte
 geisteskranke Mann trachtet seinem Sohne nach dem Leben!
 Das hat er vor Eva und Pedersen damals in der Laube
 wiederholt betont. — Wenn Sie, Herr Harst, uns nun nicht

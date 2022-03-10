@@ -107,7 +107,7 @@ dies in Papier gehüllt. Station Friedrichstraße hatte die
 Baronin die Untergrundbahn bestiegen. Es war sehr voll
 im Abteil gewesen. Sie hatte gestanden — bis Gleisdreick.
 Dann wurden zwei Plätze frei, und sie setzte sich. Neben
-ihr saß ein alter Herr. Mit einem Male würde sie müde.
+ihr saß ein alter Herr. Mit einem Male wurde sie müde.
 Erwachte erst auf der Unfallstation. Das Kästchen war
 verschwunden. —
 
@@ -245,7 +245,7 @@ den drei Bestohlenen beigebracht worden.
 »Die Ärzte behaupten, es handle sich um ein betäubendes
 Gas,« fügte er hinzu … »Die Polizei hält dies für
 ausgeschlossen, da das Gas doch dann von dem Diebe im
-Wogen irgendwie zum Ausströmen …«
+Wagen irgendwie zum Ausströmen …«
 
 »… und noch andere Personen unbedingt hätten mit
 betäubt werden müssen …!« ergänzte Harald …
@@ -273,7 +273,7 @@ Und er legte den Hörer weg …
 
 Wir starrten uns verblüfft an …
 
-»Dem Paket lag ein mit Maschine getippten Zettel bei,
+»Dem Paket lag ein mit Maschine getippter Zettel bei,
 auf dem folgendes stand:
 
 > Mit Dank zurück, da die dritte Sache am lohnendsten
@@ -420,13 +420,13 @@ Ich war unfähig zu einer Gegenäußerung …
 
 Der Dieb hier bei uns im Hause?!
 
-Welche Frechheit!! Und — dies in der kurzen geht,
-wo ich, Wiechert und den Kassenboten zur Gartenpforte und
-zum Tote geleitet hatte?!
+Welche Frechheit!! Und — dies in der kurzen Zeit,
+wo ich Wiechert und den Kassenboten zur Gartenpforte und
+zum Auto geleitet hatte?!
 
 Unglaublich fast …!! Also mußte der Mensch im
-Vorgarten sich verborgen gehabt haben … Hatte die Fragen
-Minuten meiner Abwesenheit zu diesem? Attentat benutzt.
+Vorgarten sich verborgen gehabt haben … Hatte die wenigen
+Minuten meiner Abwesenheit zu diesem Attentat benutzt.
 
 »Lies bitte vor!« mahnte Harald …
 
@@ -553,7 +553,7 @@ betreten wollte, kam das Auto … Da wartete ich denn.«
 »Gewiß … Ich schlenderte drüben auf der anderen
 Straßenseite auf und ab …«
 
-»und — sahen Sie nicht einen Mann, der das Haus
+»Und — sahen Sie nicht einen Mann, der das Haus
 <@pagebreak/>
 betrat, als mein Freund Schraut die beiden Herren zum
 Auto geleitete?«
@@ -626,7 +626,7 @@ Ich bin bekanntlich das Unglückswurm, das mit
 dem U.&nbsp;G.&nbsp;B.-Gespenst sich messen soll. — Kinder — — vor
 zwei Stunden der vierte Raub!!«
 
-Und er wirft sich in den Sessel und fällt sich ein Rotweinglas
+Und er wirft sich in den Sessel und füllt sich ein Rotweinglas
 aus der Kognakflasche …
 
 Trinkt’s auf einen Zug …
@@ -1283,8 +1283,8 @@ Dann aber sanken die Augenlider wieder herab …
 Er nahm sein Monokel, putzte es und wiegte den Kopf
 hin und her …
 
-»Hm — wiedererkennen?! Das will überlegt sein …«
-»Ich besinne mich, daß die Kette ein sehr eigentümliches
+»Hm — wiedererkennen?! Das will überlegt sein …
+Ich besinne mich, daß die Kette ein sehr eigentümliches
 Schloß hatte … Zwei Hände aus Platin, die ineinandergreifen
 … — Ja — — ich würde es wiedererkennen, falls
 eben nicht ein Duplikat existiert …«
@@ -1393,7 +1393,7 @@ in Verbindung stehen könnte?!«
 
 Haralds Gesicht wurde eisig …
 
-»Herr Baron, ich bedauere, mich zu lange Erörterungen
+»Herr Baron, ich bedauere, mich auf lange Erörterungen
 nicht einlassen zu können … — Sie waren in der verflossenen
 Nacht gegen halb eins mit Ihrer Schwester Eva in
 der Laube in der Dittmarstraße …«
