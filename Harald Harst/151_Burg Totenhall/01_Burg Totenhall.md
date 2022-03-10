@@ -37,7 +37,7 @@ recht eingehend berichtet. — Sie sind verheiratet und
 haben nur ein Kind, eine Tochter von neunzehn Jahren
 namens Mabel. Mitte Mai hatten Sie sich zu einer dreiwöchigen
 Kur nach Bad Kissingen begeben. Dort lernten
-Sie ein Ehepaar von Groening kennen, einen Major a. D.\,
+Sie ein Ehepaar von Groening kennen, einen Major a.&nbsp;D.,
 reizende Leute, mit denen Sie und die Ihrigen dann täglich
 zusammenwaren. Der Major lud Sie nach Beendigung
 der Kur zu sich nach Berlin ein. Sie reisten gemeinsam
@@ -82,7 +82,7 @@ etwas, was Lookenzook genau so unbegreiflich ist wie
 mir …«
 
 »Ich kenne Lookenzook,« sagte Harald ernst. »Ein sehr
-befähigter jungen Mann … Trotz seiner erst achtundzwanzig
+befähigter junger Mann … Trotz seiner erst achtundzwanzig
 Jahre mit Recht eine Berühmtheit … Es muß
 sich also schon in der Tat um etwas Merkwürdiges handeln,
 wenn der Kollege es nicht begreift …«
@@ -200,7 +200,7 @@ Ich habe alles versucht, mir ihre Liebe und ihr Vertrauen
 zu erringen … Wir blieben uns fremd … Sie kannte
 nur eine Liebe, die zu Tieren!«
 
-Harst schaute wieder durchs die Tüllstores auf die
+Harst schaute wieder durch die Tüllstores auf die
 Straße …
 
 »Weshalb betrat Ihre Gattin nicht ebenfalls mein
@@ -713,7 +713,7 @@ sie kurz nur »die Burg« …
 
 Vor einem Jahr habe eine Miß Galdensteac — er buchstabierte
 den Namen — die Burg gekauft … Nun lebe
-sie dort als Malerin mit einem Diener und einer Köchin
+sie dort als Malerin mit einem Diener und einer Köchin,
 beide ebenfalls Amerikaner … Viel bekäme man von den
 dreien nicht zu sehen … Aber die Miß sei in der Umgegend
 recht beliebt, da sie viel Gutes tue … Für die
@@ -912,7 +912,7 @@ Amerikaner sein?! Seinem Deutsch hörte mans nicht an!
 
 Hinter uns schließt sich der Türflügel …
 
-Wir befinden uns in einer kostbar und noch vornehm
+Wir befinden uns in einer kostbar und doch vornehm
 <@pagebreak/>
 eingerichteten Halle … Der Diener nimmt uns die nassen
 Mäntel und Hüte ab …
@@ -1117,7 +1117,7 @@ Und sie läutet nach dem Diener …
 
 Der erscheint …
 
-Mustert uns ärgerlich … — Harst Pistole läßt
+Mustert uns ärgerlich … — Harsts Pistole läßt
 seine blaugrauen Augen aufflammen …
 
 Dann beginnen wir die Durchsuchung, nachdem Harald

@@ -84,7 +84,7 @@ sprechen …«
 Und wir betraten wieder unsere Räume …
 
 Da lag sie — die Ärmste, Opfer des Blitzes! Durchnäßt
-ihre Kleider, feucht das graue Haar … sehnig und
+ihre Kleider, feucht das graue Haar … Lehmig und
 durchweicht die derben Schuhe …
 
 Wer — wer war diese Frau?!
@@ -128,7 +128,7 @@ War erregt — war unendlich besorgt um Miß Galdensteac
 …
 
 <@pagebreak/>
-Seine ist Augen verrieten ihn … Seine Augen strahlten
+Seine Augen verrieten ihn … Seine Augen strahlten
 Liebe …
 
 Und wir beide taten, als ob wir nichts ahnten …
@@ -253,7 +253,7 @@ Abwärts ging’s …
 
 Harald voran … Der Schacht zog sich in der Turmmauer
 abwärts … In der Höhe des Erdbodens erweiterte
-er sich … Eine Steintreppe — ein unterirdischer Gang
+er sich … Eine Steintreppe — ein unterirdischer Gang,
 feucht, nach Moder duftend … Die Mauern mit Pilzen
 dicht bedeckt … Nach Süden zu erstreckte sich der Gang
 bis zum äußersten Talwinkel; dann wieder eine Treppe —
@@ -551,7 +551,7 @@ so ohne weiteres achtzigtausend Mark für Totenhall zahlen
 konnte … So viel hat er nämlich 1919 tatsächlich bezahlt.
 Dann aber: die Bernardts haben in der Burg wie die Einsiedler
 <@pagebreak/>
-gehaust. Er, der Polizeimeister a. D.\, hat sich kaum
+gehaust. Er, der Polizeimeister a.&nbsp;D., hat sich kaum
 je blicken lassen. Was er in der Burg trieb, weiß niemand. —
 Daß der Landjäger aus dem Dorfe die Tote nicht wiedererkannt
 hat, ist weiter kein Wunder. Der Beamte ist erst
@@ -1164,10 +1164,11 @@ Die Lampe genügt gerade noch … Wir lesen …
 Eines Toten Vermächtnis …
 
 > »Ich, Friedrich Ernst Wilhelm Bernardt, Polizeimeister
-a. D.\, habe diese Diamanten, die mein rechtmäßiges
+a.&nbsp;D., habe diese Diamanten, die mein rechtmäßiges
 Eigentum sind, hier aus Furcht vor Dieben verborgen.
 
 <@pagebreak/>
+
 > Ein Zufall ließ mich diese Räume finden … Ein
 Zufall offenbarte mir die Geheimnisse der Burg Totenhall
 … Und hier neben der Grabkammer einer der
@@ -1482,7 +1483,7 @@ Aufforderung die Fesseln ab …
 »Setzen wir uns,« meint Harald. »Wir müssen uns
 einigen, meine Herren …«
 
-Die Kollegen sind bedrückt … Wir beobachteten Lilian
+Die Kollegen sind bedrückt … Wir beobachteten Lilian,
 die neben Manteys Sessel kniet und dem Geliebten mit dem
 Taschentüchlein das Blut von der Stirn tupft.
 
