@@ -1898,59 +1898,62 @@ Und das — war Lady Gulbranors Parfüm …!
 <h2>2. Kapitel.</h2>
 <h3>Eine gemeine Intrige.</h3>
 
-Dieses ’Kellergelaß hatten wir ja bereits durchsucht …
-lebt taten wir’s von neuem mit der Gewißheit, daß
+Dieses Kellergelaß hatten wir ja bereits durchsucht …
+
+Jetzt taten wir’s von neuem mit der Gewißheit, daß
 wir etwas finden müßten …
 
-Wir beleuchteten das Gemäuer … gebe Fuge …
-Wo der Fischer herausgefallen war, schob Harald die
-Bcsserklinge hinein … Wir … fanden nichts …
+Wir beleuchteten das Gemäuer … Jede Fuge …
+Wo der Mörtel herausgefallen war, schob Harald die
+Messerklinge hinein … Wir … fanden nichts …
 
 Der mit Mauersteinen ausgelegte Boden verriet ebensowenig
 …
 
 Harst wird ungeduldig …
 
-»gern der tote Polizeichef O’Neil hier in seinem
+»Wenn der tote Polizeichef O’Neil hier in seinem
 Bungalow ein Geheimnis geschaffen hat, so wird’s eine
-Tale Nuß sein,« flüsterte er. »Und wenn Patrick bei den
-Verhandlungen über den Verkauf der Lady dieses Geheim-tis
+harte Nuß sein,« flüsterte er. »Und wenn Patrick bei den
+Verhandlungen über den Verkauf der Lady dieses Geheimnis
 anvertraut hat, so dürfte …«
 
-ja Ich! es er …
+Da schwieg er …
 
 Hatte seine Taschenlampe ganz dicht an eine Stelle
 der Mauer rechts neben der Tür gedrückt …
 
-Und da tat eine Mauerfuge, die wir schon einmal gt-prüst
+Und da war eine Mauerfuge, die wir schon einmal geprüft
 hatten …
 
-Da war doch etwas Besonderes … —Da war in der
+Da war doch etwas Besonderes … Da war in der
 Tiefe der Fuge ein winziges Pünktchen, das matt metallisch
 schimmerte …
 
-Die Spitze eines Eisenstäbchens
-Harst drückt mit dem weiter darauf … Druck stärker
+Die Spitze eines Eisenstäbchens …
+
+Harst drückt mit dem Messer darauf … Drückt stärker
 …
 
 Stärker …
-Und … unter uns sinkt der Ziegelboden — ganz langsam,
+
+Und … unter uns sinkt der Ziegelboden — ganz langsam
 …
 
 <@pagebreak/>
 Ein Viereck — eine kleine bewegliche Plattform nimmt
-ins mit hinab …
+uns mit hinab …
+
 Des Polizeichefs Geheimnis ist kein Geheimnis mehr …
 
 Nein — — wir stehen nun unten in einem meterbreiten
-Gang … Brettertrände ringsum … Spinnengewebe hängen
-in den Winkeln … Die Museum der großen indischen
-
-Eutdoxosspinne jschhillern im Licht der Taschenlampen wir
+Gang … Bretterwände ringsum … Spinnengewebe hängen
+in den Winkeln … Die Augen der großen indischen
+Eudoxosspinne schillern im Licht der Taschenlampen wie
 kleine Brillanten …
 
-Hinter uns roh? ein einfacher Mechanismus da
-Mattervicereck wieder Südpol …
+Hinter uns hebt ein einfacher Mechanismus das
+Mauerviereck wieder empor …
 
 Wir schreiten weiter …
 
@@ -1959,53 +1962,48 @@ Vierzig — fünfzig Meter …
 dann — vor uns rötlicher Lichtschein … Eine runde
 Grotte …
 
-ohne flutende z85rau …
+Eine kniende Frau …
 
 Uns den Rücken zeigend …
 
-Entsank vor einen! verglasten … In dem Kasten nicht
-bebenden Händen während … Neben ihr die stinkende
+Kniend vor einem Holzkasten … In dem Kasten mit
+bebenden Händen wühlend … Neben ihr die stinkende
 Laterne …
 
-Lady Gulbranor …-«
+Lady Gulbranor …
 
-In Briefen musternd …
+In Briefen wühlend …
 
 Hin und wieder eins der Schreiben emporhebend …
 
-Ueberslkegend …
+Überfliegend …
 
-Verzweifeltes, trostloses Scclvhzen …
+Verzweifeltes, trostloses Schluchzen … Dann ein
 halblauter Schrei: Sehnsucht und Schmerz:
 
 »Edward — — Edward!!«
 
 Sie weint …
 
-Sie hat die Hände vor das Gesicht gepreßt … sich
-halb über dem struppigen Ebenholzkasten …
+Sie hat die Hände vor das Gesicht gepreßt … Liegt
+halb über dem schwarzen Ebenholzkasten …
 
 Wie eine Büßerin …
 
-Dich eine, die einem Toten unendlich viel abziubitic:ist
-bat …
+Wie eine, die einem Toten unendlich viel abzubitten
+hat …
 
-Sold Wir — regungskojie, erschütterte Zuschauer
+Und wir — regungslose, erschütterte Zuschauer …
 Wir kaum fähig, uns zu rühren … Dieses gramvolle
 Weinen greift ans Herz!
 
 Wir warten …
 
-17x
-yv
-
-am ein
-
 <@pagebreak/>
 Lady Alix erhebt sich …
 
-Hebt den Ebenholzkasten mit dem künstlichen Goldmosai?
-mit empor … Preßt ihn zu sich …
+Hebt den Ebenholzkasten mit dem köstlichen Goldmosaik
+mit empor … Preßt ihn an sich …
 
 Wendet sich um …
 
@@ -2013,20 +2011,20 @@ Hat die Laterne ergriffen …
 
 Und — bemerkt uns …
 
-schlich leicht zusammen …
+Schrickt leicht zusammen …
 
-»Ah — — gut, das; Sie mir hier begegnen, meine Hof:
-ren!« Ihre Stimme ist fest und sicher …
+»Ah — — gut, daß Sie mir hier begegnen, meine Herren!«
+Ihre Stimme ist fest und sicher …
 
 »Endlich habe ich Gewißheit — endlich! Mr. Harst,
 fast zwei Jahre habe ich auf diesen Augenblick gewartet —
-gehofft …
+gehofft …!«
 
 Wir treten näher …
 
 Ich schaue mich um …
 
-Und weiß nun, 1vo wir uns befinden: unter dein Bassin
+Und weiß nun, wo wir uns befinden: unter dem Bassin
 der Fontäne!
 
 Alix Gulbranor spricht weiter …
@@ -2039,15 +2037,15 @@ Nerven sind diesem Neuen nicht mehr gewachsen …
 
 Sie taumelt …
 
-Ich fange den ’Evenholzkasten auf … Harald Stuhl die
+Ich fange den Ebenholzkasten auf … Harald stützt die
 blasse Frau …
 
-Eine Ohnmächtige trägt er nach den …
+Eine Ohnmächtige trägt er nach oben …
 
 Heimlich verlassen wir den Keller … Ein Zufall, daß
 niemand uns sieht …
 
-— Harst legt die Lady auf den Diwan in ihrem Schlafzimmer
+Harst legt die Lady auf den Diwan in ihrem Schlafzimmer
 …
 
 Sie erwacht …
@@ -2057,182 +2055,178 @@ auf das Tischen am Kopfende des Diwans gestellt habe …
 
 Tränen verdunkeln ihre schmerzerfüllten Augen …
 
-»Edward … Edward …!!« — sie flüstert’s halb un::
-bewußt …
+»Edward … Edward …!!« — sie flüstert’s halb unbewußt
+…
 
 <@pagebreak/>
-Dann besinnt sich sich? … Schaut uns an … Lächelt
-—» das Lächeln einer büßenden Madonna …
+Dann besinnt sich sich … Schaut uns an … Lächelt
+— das Lächeln einer büßenden Madonna …
 
 Harald reicht ihr das Glas feurigen Kaschmirweins …
 
-Sie trinkt und dankt durch) ein Kopfnicken … Ihre
+Sie trinkt und dankt durch ein Kopfnicken … Ihre
 Wangen bekommen wieder Farbe …
 
-»Setzen Sie sich, meine Herren … Ich) werde Ihnen
-nun die Traaöddic meines Lebens erzählen … Die Geschichte
+»Setzen Sie sich, meine Herren … Ich werde Ihnen
+nun die Tragödie meines Lebens erzählen … Die Geschichte
 einer Frau, die allzu jung und unerfahren einen …
 Wüstling heiratete … Denn das war Lord Gulbranor …
 Fünf Jahre ertrug ich dieses Dasein, dieses Martyrium …
-213 — ich frei wurde, bis mein Gatte verunglückte …
+Bis — ich frei wurde, bis mein Gatte verunglückte …
 Einen einzige kleinen Trost hatte ich in der letzten Zeit
-Tür) die treue Freundschaft Lenglens gefunden. Er wurde
-
+durch die treue Freundschaft Lenglens gefunden. Er wurde
 meinem Manne als Adjutant zugeteilt … Längst wußte
-ich, daß er mich liebte … —. Nach dem Tode meines Mann
-
-gutes wurde ich) viel umworben. Man drängte sich geradezu
+ich, daß er mich liebte … — Nach dem Tode meines Mannes
+wurde ich viel umworben. Man drängte sich geradezu
 an mich heran, obwohl ich völlig zurückgezogen lebte. Dann
 kam der Tag, an dem Edward mir seine Liebe erklärte. Ich
-war restlos glücilich, wenn mich auch etwas an bewachen
-störte? er war für einen GEGnaländer zu temperamentvoll, zu
+war restlos glücklich, wenn mich auch etwas an Lenglen
+störte: er war für einen Engländer zu temperamentvoll, zu
 unausgeglichen. Seine Eifersucht kannte keine Grenzen.
 Am liebsten hätte er mich völlig von der Welt abgesperrt.
-unter Verlöbnis hielten wir noch Hebelarm. Ad) wollte erst
+Unser Verlöbnis hielten wir noch geheim. Ich wollte erst
 das Trauerjahr vorübergehen lassen, bevor ich der Öffentlichkeit
-meinen nennen Hörzen8bund mitteilte. Deshalb
-gaben wir uns auch) nur selten. — In jener Zeit schaffte ich
-mir das Motorrad an. Ad) brauchte Bewegung — … Das
-überflüssige Kräaftgesühl in mir mußte sich irgendwie aus«-
-toben …«
+meinen neuen Herzensbund mitteilte. Deshalb
+sahen wir uns auch nur selten. — In jener Zeit schaffte ich
+mir das Motorrad an. Ich brauchte Bewegung … Das
+überflüssige Kraftgefühl in mir mußte sich irgendwie austoben
+…«
 
-Sie hatte die letzten Säße. langsamer gesorgt. Der
-Ausdruck ihres Gesichts wurde wieder trüber und araumwvoll,
-nachdem die Erinnernimna zu die offenbar glücklichste Zeit
+Sie hatte die letzten Sätze langsamer geformt. Der
+Ausdruck ihres Gesichts wurde wieder trüber und gramvoll,
+nachdem die Erinnerung an die offenbar glücklichste Zeit
 ihres Lebens ihre Züge für Minuten wie mit Sonnenschein
 überflutet hatte …
 
 »Und dann, meine Herren, — dann ereignete sich das,
-was Sie bereits zum Teil kennen? meine Begegnung mit
+was Sie bereits zum Teil kennen: meine Begegnung mit
 <@pagebreak/>
-dem Fremden in dem einsamen Rasthaus in den Ermuntern!
-—» Dieser Unbekannte gestand mir seine Liebe, wie es Co
-ward vor acht Tagen getan hatte … — Stellen Sie sich
-meine Überraschung vor, als dieser Mann, den ich noch!
-nie gesehen, mir plötzlich sein Herz stimmte, mir erklärte, daß
+dem Fremden in dem einsamen Rasthaus in den Sümpfen!
+— Dieser Unbekannte gestand mir seine Liebe, wie es Edward
+vor acht Tagen getan hatte … — Stellen Sie sich
+meine Überraschung vor, als dieser Mann, den ich noch
+nie gesehen, mir plötzlich sein Herz öffnete, mir erklärte, daß
 er seit Monaten sich in Sehnsucht nach mir verzehre … —
 Ich war so vollkommen verstört über dieses Geständnis,
-daß ich ihm nicht sofort antworten Bedingte … Und da lügt?
-er denn — immer noch in einer sehr rissigen, fast vergeht:
-men Art hinzu: »Zusatz, ich muß für Sie dorthin ein
-Namenloser bleiben — ein Phantom … he) existiere —
-und bin doch nur für Sie vorhanden! es sann Ihnen mit:
-Millionen zu Füßen legen. eine Frau wie Sie bezieht eine
+daß ich ihm nicht sofort antworten konnte … Und da fügte
+er denn — immer noch in einer sehr ruhigen, fast vornehmen
+Art hinzu: »Mylady, ich muß für Sie vorläufig ein
+Namenloser bleiben — ein Phantom … Ich existiere —
+und bin doch nur für Sie vorhanden! Ich kann Ihnen
+Millionen zu Füßen legen. eine Frau wie Sie braucht eine
 glänzende Umgebung … Und für eine Dame wie Sie
-ist … Edward Lenglen niemals der rechte Mann! — an.
-unterbrechen Sie mich nicht … Hören Sie wich rührig an …
-Lenglen steht Ihnen nahe. Ich findest; das. Sie beide sind
-verlobt. Vorgestern: haben Sie mit Lenglen sich heimlich.
-im Brahma-Dschungel an der alten Hänaobrtiicke getroffen
+ist … Edward Lenglen niemals der rechte Mann! —
+Unterbrechen Sie mich nicht … Hören Sie mich ruhig an …
+Lenglen steht Ihnen nahe. Ich weiß das. Sie beide sind
+verlobt. Vorgestern haben Sie mit Lenglen sich heimlich
+im Drawa-Dschungel an der alten Hängebrücke getroffen.
 Gestern waren Sie mit ihm heimlich in dem verwilderten
-Park des Tasjchira-Schlosses … Ich weiß alles … Ich
-weiß, daß der Hauptmann Sie betrügt … Cx hat eine Geliebte,
-eine junge Inderin aus dem Dorfe welche unweit
+Park des Taschira-Schlosses … Ich weiß alles … Ich
+weiß, daß der Hauptmann Sie betrügt … Er hat eine Geliebte,
+eine junge Inderin aus dem Dorfe Meschir unweit
 von Multan … Fast jede Nacht besucht er sie … Das
-Mädchen ist schon … Wenn Sie am Nordausgang des
-Dorfes die letzte Hütte einmal Schluchten wollen: Sie warteten
+Mädchen ist schön … Wenn Sie am Nordausgang des
+Dorfes die letzte Hütte einmal beobachten wollen: Sie werden
 meine Angaben bestätigt finden!« — Bis dahin hatte
-ich ihm wie benommen zugehört … Dann aber stammt«
+ich ihm wie benommen zugehört … Dann aber flammte
 der Zorn in mir hoch … Ich weiß nicht mehr, was ich
-ihm in meiner Erregung zurief, Er blieb kalt und gelassen
+ihm in meiner Erregung zurief. Er blieb kalt und gelassen.
 Unterbrach mich plötzlich und rief mir das zu, was Sie vor
-mir bereits erfahren haben, meine Herren … — Aber — e!
-warf mir noch dazu sein Bild vor die Füße, bevor er mich:
-seinem Dromedar in die Nacht hinaus sprengte … »Wer
-Nichten Sie dieses Bild nicht, Mylady! doch warne ließ!«
-=. Dann war er verschwunden …- Ja) blieb in zivieipäl-iger
+mir bereits erfahren haben, meine Herren … — Aber — er
+warf mir noch dazu sein Bild vor die Füße, bevor er mit
+seinem Dromedar in die Nacht hinaus sprengte … »Vernichten
+Sie dieses Bild nicht, Mylady! Ich warne Sie!!«
+— Dann war er verschwunden … Ich blieb in zwiespältiger
 <@pagebreak/>
 Stimmung zurück … Der Fremde hatte durch sein
 ganzes Auftreten doch einen gewissen Eindruck auf mich
-gemacht … Aus der Rückseite des Bildes fand ich; folgende
+gemacht … Auf der Rückseite des Bildes fand ich folgende
 Widmung …«
 
 Sie wiederholte das, was Harald mir bereits mitgeteilt
 hatte …
 
-… Und — ich fuhr heim … JI … vernichtete das
-Bild »nicht … Dolch tat. etwas, das meiner unwürdig: in
+»… Und — ich fuhr heim … Ich … vernichtete das
+Bild nicht … Ich tat etwas, das meiner unwürdig: in
 der nächsten Nacht lag ich unweit jener Hütte des Dorfes
-welche auf der Lauer … Und sah, daß neben der Hütte
+Meschir auf der Lauer … Und sah, daß neben der Hütte
 Lenglens Reitpferd angebunden war … Unzweifelhaft
 Lenglens Fuchs … Lenglen Arm in Arm mit einer jungen
 Inderin ins Freie. Das Mondlicht beleuchtete die beiden
-… C58 war Lenglen «— in Uniform. sogar … Er
-fühlte das Mädchen und ritt davon …
+… Es war Lenglen — in Uniform sogar … Er
+küßte das Mädchen und ritt davon …«
 
 Ihre Stimme zitterte jetzt …
 
-»Am folgenden Tage schrieb ich ihm den: Absagebrief …
-Ich wüßte nun, was ich von ihm zu halten hätte … Erholte
-es nie mehr wagen, mich irgendwie zu belästigen. —
+»Am folgenden Tage schrieb ich ihm den Absagebrief …
+Ich wüßte nun, was ich von ihm zu halten hätte … Er
+sollte es nie mehr wagen, mich irgendwie zu belästigen. —
 Einzelheiten erwähnte ich nicht … — Und Edward hat mir
-dann. nur eine einzige Antwort geschah … »… Er beteuerte
-seine Treue … sah würde, ihn in den. Tod treiben, wenn
-ich ihm nicht Gelegenheit-güeben würde, sich mit mir auszusprechen
+dann nur eine einzige Antwort geschickt … Er beteuerte
+seine Treue … Ich würde ihn in den Tod treiben, wenn
+ich ihm nicht Gelegenheit geben würde, sich mit mir auszusprechen
 … Dreimal ließ er sich bei mir melden. Ich
 wies ihm die Tür. Und — zwei Wochen darauf war er —
 tot …«
 
 Sie weinte wieder …
 
-Unter neben Schluchzen schilderte sie, wie dann die
+Unter wehem Schluchzen schilderte sie, wie dann die
 entsetzlichen Träume begannen, wie es ihr schließlich zur
-Gewißheit wurde. daß es sich nicht lediglich um Träume
+Gewißheit wurde, daß es sich nicht lediglich um Träume
 handelte …
 
-… »ab das kennen Sir bereits, meine Herren … —y» Vielleicht
-acht Tage nach letztens Ende nahm ich mir die taubstumme
-Dienerschaft. JJ fühlte das Bedürfnis, mich mit
+»All das kennen Sie bereits, meine Herren … — Vielleicht
+acht Tage nach Lenglens Ende nahm ich mir die taubstumme
+Dienerschaft. Ich fühlte das Bedürfnis, mich mit
 Menschen zu umgeben, denen ich Gutes erweisen konnte …
-So kam auch Nalak in mein Haus — Nalak, den ich nie
+So kam auch Nalak in mein Haus — Nalak, dem ich nie
 <@pagebreak/>
-angemerkt habe, daß er Sohn verkleideter Europäer war
-Hintersteven der Mann aus dem Nasthaunje: Tages so Neil, wie ich!
-nun weiß! — Vorhin war Der mectonwalt bei mir, der
-die Verkanssverhandlunoen über diesen Bungalow. 1811:
-Patrick O’Neil erledigt hatte. Tür Advokat teilte mir mit.
-daß Patrick ihm noch etwas Besonderes anvertraut hatte:
-Kalkuttas Geheimnis des Kellers, meine Herren, das Geheimmws
+angemerkt habe, daß er ein verkleideter Europäer war —
+eben der Mann aus dem Rasthause: James O’Neil, wie ich
+nun weiß! — Vorhin war Der Rechtsanwalt bei mir, der
+die Verkaufsverhandlungen über diesen Bungalow mit
+Patrick O’Neil erledigt hatte. Der Advokat teilte mir mit,
+daß Patrick ihm noch etwas Besonderes anvertraut habe:
+das Geheimnis des Kellers, meine Herren, das Geheimnis
 des unterirdischen Ganges und des Springbrunnens. Die
-Tigerfigur der Fontäne läßt sich auf innen Sockel im Bassin
-Drehen: und gibt dann die Gesinnung frei, durch) die man in
-den runden Hohlraum unter dem Bassin gelangt. — nachdem
-der Anwalt gegangen, trieb es mich, dieses Geheim!?
-meines neuen Hauses zu besichtigen Und so fand ich
-denn in dem wurden Raum unter der Fontäne dort … oben:
-Holzkasten mit den Briefen Schwalbe, mit seinen Liebesbriefen
-Schrauts der Zeit unseres Glücks …! Diesen Kasten
-hatte ich nach) jener Na!, als ich Lenglen mit dem braunen
-Mädchen beobachtete, in den Ghara:Fluß geschlendert
+Tigerfigur der Fontäne läßt sich auf ihrem Sockel im Bassin
+drehen und gibt dann die Öffnung frei, durch die man in
+den runden Hohlraum unter dem Bassin gelangt. — Nachdem
+der Anwalt gegangen, trieb es mich, dieses Geheimnis
+meines neuen Hauses zu besichtigen. Und so fand ich
+denn in dem runden Raum unter der Fontäne den … Ebenholzkasten
+mit den Briefen Edwards, mit seinen Liebesbriefen
+aus der Zeit unseres Glücks …! Diesen Kasten
+hatte ich nach jener Nacht, als ich Lenglen mit dem braunen
+Mädchen beobachtete, in den Ghara-Fluß geschleudert …
 Wie der Kasten von hier wieder zum Vorschein gekommen,
 ist leicht erklärlich: James O’Neil hat ihn damals sofort
 wieder aus dem Wasser herausgefischt … James O’Neil
-hat mich in abscheulichster Weise auch gelauscht: jetzt glaube
+hat mich in abscheulichster Weise auch getäuscht: jetzt glaube
 ich bestimmt, daß er damals verkleidet als Edward Lenglen
-meine Eifersucht aufstachelte! Er war der Geliebte vor
+meine Eifersucht aufstachelte! Er war der Geliebte der
 Inderin, nicht Lenglen!!«
 
 Harald nickte …
 
-»34, « Mylady, — Sie haben sich täuschen lassen
+»Ja, Mylady, — Sie haben sich täuschen lassen …
 Dieser Mensch ist ein Ungeheuer von Verworfenheit …«
 
-Alix Gulbranor nahm Haralds bald …
+Alix Gulbranor nahm Haralds Hand …
 
-»roh — erklären Sie mir das eine: weshalb hat James
+»Oh — erklären Sie mir das eine: weshalb hat James
 O’Neil so schändlich gehandelt?! Sollte er mich wirklich
 geliebt haben«!«
 
 »Mylady, darüber kann ich mich noch nicht äußern …
-(Gebet! Sie mir noch zwei Tage Zeit. Bis dahin wird wohl!
-Ei? des Letzte enthält worden sein …« —
+Geben Sie mir noch zwei Tage Zeit. Bis dahin wird wohl
+auch das Letzte enthüllt worden sein …« —
 
 <@pagebreak/>
-Eine halbe Kurde drauf waren wir im Postamt von
-Bawalar und hatten den gehen Gouverneur von Multan,
+Eine halbe Stunde drauf waren wir im Postamt von
+Bawalar und hatten den neuen Gouverneur von Multan,
 den Nachfolger Lord Gulbranors, telephonisch angerufen …
-
-Du 5 u so
 
 <h2>3. Kapitel.</h2>
 <h3>Abendstunden …</h3>
@@ -2242,150 +2236,150 @@ dauerte nur kurze Zeit. Harst teilte dem Gouverneur
 mit der Bitte um strengste Geheimhaltung mit, daß sich
 allerlei Verdachtsmomente dafür ergeben hätten, daß Hauptmann
 Edward Lenglen ermordet worden sei. Der Gouverneur
-solle doch) im Interesse der restlosen Aufklärung der
+solle doch im Interesse der restlosen Aufklärung der
 Angelegenheit genau feststellen, ob Lenglen, der früher in
 Lahore in Garnison gestanden, dort irgendwie einmal mit
-einem Europäer in Vortritt geraten sei oder ob sonst wie
-die Möglichkeit vorläge, daß Lenglen sich die machte irgend
-welcher Leute Aufgezogen habe … —
+einem Europäer in Konflikt geraten sei oder ob sonst wie
+die Möglichkeit vorläge, daß Lenglen sich die Rache irgend
+welcher Leute zugezogen habe … —
 
-Abends acht Uhr war’s, als wir das Beistand verließen.
+Abends acht Uhr war’s, als wir das Postamt verließen.
 
-Harald schlug die Lichtung nach dem Palast der Prinzessin
+Harald schlug die Richtung nach dem Palast der Prinzessin
 Sadukala ein …
 
 Die Straßen der kleinen Residenz Bawalar waren um
-diese Abendstunden recht belebt, Es war daher auch kaum
-westlich, festzustellen, ob irgend jemand uns heimlich folgte.
+diese Abendstunden recht belebt. Es war daher auch kaum
+möglich, festzustellen, ob irgend jemand uns heimlich folgte.
 
 Harst hatte mir gegenüber schon vorhin erklärt, daß er
 Überzeugt sei, James O’Neil würde sich irgendwie wieder
 melden …
 
 Jetzt, als wir den Park des Palastes betreten hatten
-und unter dem grünen Lauibdach uralter tropischer Bäume
+und unter dem grünen Laubdach uralter tropischer Bäume
 dahinwanderten, meinte er plötzlich:
 
 »Ich behaupte, ganz offen ist Lady Alix uns gegenüber
-immer noch nicht. gewesen …
+immer noch nicht gewesen …«
 
-»Inwiefern?!« -.- und ich schüttelte ärgerlichen von Kopf.
+»Inwiefern?!« — und ich schüttelte ärgerlich den Kopf.
 »Ich denke, die Lady hat uns in einer Gemütsverfassung
 <@pagebreak/>
-gebeichtet, in der keine Siam noch irgend etwas unterjhlägt!
-Was sollte es auch wohl sein?«
+gebeichtet, in der keine Frau noch irgend etwas unterschlägt!
+Was sollte es auch wohl sein?!«
 
 »Nicht zu eifrig Partei ergreifen, mein Alter …! —
 Besinne Dich. Ich fragte die Lady nach allerlei über ihren
-verstorbenen Gatten … Ich vermute, Jahres O’Neil könnte
-vielleicht den Lord gehaßt haben und diesen Haß dann Co
+verstorbenen Gatten … Ich vermute, James O’Neil könnte
+vielleicht den Lord gehaßt haben und diesen Haß dann an
 der Witwe seines Feindes ausgelassen haben. aber hierfür
-fand sich keinerlei Untat. Nur — nur etwas anderes Stich];
+fand sich keinerlei Anhalt. Nur — nur etwas anderes stieß
 mir auf: Alix Gulbranor gab sehr zögernd zu, daß der
-Lord auch ein Spieler und Trinker gewesen und da!; er Unsummen
-am Totalisator wertvollster habe, daß er telegraphisch
-dauernd mit Ereinacyorn in England und Frankreich in
+Lord auch ein Spieler und Trinker gewesen und daß er Unsummen
+am Totalisator<@refnote 3/> verwettet habe, daß er telegraphisch
+dauernd mit Buchmachern in England und Frankreich in
 Verbindung stand und zeitweise vor Schulden nicht aus noch
-ein müßte. — Schließlich erwähnte sie ganz nebenbei eilten
-Wucherer in Lahore, der ihrem Manne häufiger aufgelöstem
+ein wußte. — Schließlich erwähnte sie ganz nebenbei einen
+Wucherer in Lahore, der ihrem Manne häufiger ausgeholfen
 habe … Und dabei wurde sie auffallend verlegen und
-sprach; dann schnell von etwas anderem … — ich werde
-nun unseren Seewind Doktor Morton bitten, für uns einmal
-nach) Lahore hinüberzufahren und sich dort noch Diesen
-Wucherer, der ein Person gewesen sein soll, zu erkundigen …
-Morton eignet sich für derartige Ziachsorschungen sehr gut.
-Wir beide sind hier unablömmlich&. Die Prinzessin wird
+sprach dann schnell von etwas anderem … — Ich werde
+nun unseren Freund Doktor Morton bitten, für uns einmal
+nach Lahore hinüberzufahren und sich dort nach diesem
+Wucherer, der ein Perser gewesen sein soll, zu erkundigen …
+Morton eignet sich für derartige Nachforschungen sehr gut.
+Wir beide sind hier unabkömmlich. Die Prinzessin wird
 ihren Leibarzt schon für einen Tag beurlauben …« —
 
-Wir traten die Prinzessin und Morton auf. der Terrasse
+Wir trafen die Prinzessin und Morton auf der Terrasse
 an. Wir wurden freudig begrüßt, und ebenso freudig erklärte
 die Prinzessin, Doktor Morton könnte natürlich nach
-Lahore reisen. Harald hatte ihr und den! Doktor in Kürze
-den notwendigen Aufijchlaß über diese seine Bitte gegeben.
+Lahore reisen. Harald hatte ihr und dem Doktor in Kürze
+den notwendigen Aufschluß über diese seine Bitte gegeben.
 
 Dann wandte er sich abermals an die Fürstin:
 
-»Hoheit, kannten Sie Lord G::thronen persönlich?«
+»Hoheit, kannten Sie Lord Gulbranor persönlich?«
 
-»Zu … Er war einige Mütze in Amtlicher Eigenheim!
-hier im Palast …
+»Ja … Er war einige Male in amtlicher Eigenschaft
+hier im Palast …«
 
 »Auch … zur Nacht, Hoheit?«
 
-»Zu … Ein einziges Mal … &C3 handelte sich uns
+»Ja … Ein einziges Mal … Es handelte sich um
 vermögensrechtliche Auseinandersetzungen … Mein verstorbener
-Gatte besaß Ländereien, die außerhalb der Seemann
+Gatte besaß Ländereien, die außerhalb der Grenzen
 <@pagebreak/>
-des Fürstentums lagen und ein bG’otveortemeant Mal
-Christian gehörten. Die atttilo-indische Regierung Wollte diese
+des Fürstentums lagen und zum Gouvernement Multan
+gehörten. Die anglo-indische Regierung Wollte diese
 Ländereien erwerben …«
 
-»ja wurden wohl auch alte Urkunden e’ngeseben?«
+»Da wurden wohl auch alte Urkunden eingesehen?«
 
 »Gewiß … Lord Gulbranor blieb ja nur deshalb die
-eine Nacht über hier im Palast, weil cx in der Bibliothek
-verschiedenes nadr’hlug …«
+eine Nacht über hier im Palast, weil er in der Bibliothek
+verschiedenes nachschlug …«
 
-»Die Bibliothek kenne im … Sie birgt viel Interessantes
-… — Wir Ministers uns nun leider wieder voran:
-gerieten, Hoheit … Lady Gulbranor erwartet uns um neun
+»Die Bibliothek kenne ich … Sie birgt viel Interessantes
+… — Wir müssen uns nun leider wieder verabschieden,
+Hoheit … Lady Gulbranor erwartet uns um neun
 Uhr zum Abendessen …« —
 
-Nr wie sehnsüchtig erwartete sie uns …
+Und wie sehnsüchtig erwartete sie uns …
 
-Sie ging bereits in der Allee, die von der Gartenpfsor1i?
-kaum Bungalow führte, auf und ab … Sie war ernst, aber
+Sie ging bereits in der Allee, die von der Gartenpforte
+zum Bungalow führte, auf und ab … Sie war ernst, aber
 nicht bedrückt …
 
-»« habe seit alle Briefe Schwäche nochmals gelesen,«
-sagte sie, nachdem wir uns begrüßt hatten … »ich begreife
-tauscht, daß ich jemals an seiner Treue habe Zweifel,
-können … Er ist das Opfer dieses schändlichern: Menschen
-geworden, der mich recht hoffentlich in Ruhe lassen wird.
+»Ich habe jetzt alle Briefe Edwards nochmals gelesen,«
+sagte sie, nachdem wir uns begrüßt hatten … »Ich begreife
+nicht, daß ich jemals an seiner Treue habe zweifeln
+können … Er ist das Opfer dieses schändlichen Menschen
+geworden, der mich jetzt hoffentlich in Ruhe lassen wird.
 Und diese Überzeugung, daß mein Schlaf fortan nicht mehr
 durch diese im Grunde so alberne …«
 
 Harald fiel ihr ins Wort …
 
-»Kontakt, es wäre besser, James O’Neil zusagte es
-nochmals, Sie zu belästigen 7 … Gefahr ist für Sie nicht dabei
+»Mylady, es wäre besser, James O’Neil wagte es
+nochmals, Sie zu belästigen … Gefahr ist für Sie nicht dabei
 … Wir aber hätten dann Gelegenheit, mit ihm abzurechnen
 … Oder — wünschen Sie nicht selbst, daß dieser
-Mann gründlich unschädlich gemacht wird?! Arzt es nicht
-Dd-5 Natürlichste, daß ein zweifachen Mörder der irdische.
-Gerechtigkeit anheim fällt?! Und O’Neil hat zwei Vorschein
-ermordet: den Hauptmann Lenglen aus noch Unbekannten
-(Gründen, Taktik, seinen Felsen, aber, damit dieser das
-(Geheimnis des Springbrunnens nicht verraten könnte …
-ganzes O’Neil nahm eben an, Patrick habe dieses Geheimgang
+Mann gründlich unschädlich gemacht wird?! Ist es nicht
+das Natürlichste, daß ein zweifacher Mörder der irdischen
+Gerechtigkeit anheim fällt?! Und O’Neil hat zwei Menschen
+ermordet: den Hauptmann Lenglen aus noch unbekannten
+Gründen, Patrick, seinen Neffen, aber, damit dieser das
+Geheimnis des Springbrunnens nicht verraten könnte …
+James O’Neil nahm eben an, Patrick habe dieses Geheimnis
 für sich behalten …«
 
 Lady Alix war stehen geblieben …
 
 <@pagebreak/>
-Ihre Ritzen ruhten jetzt in denen Haralds …
+Ihre Augen ruhten jetzt in denen Haralds …
 
 »Mr. Harst, ich brauche wohl nicht zu betonen, daß ich
 wahrlich wünsche, dieses Ungeheuer würde aufgeknüpft werden
-… Aber Sie werden es auch) verständlich finden, daß
+… Aber Sie werden es auch verständlich finden, daß
 ich endlich zur Ruhe kommen will … Ich habe unendlich gelitten
-… Ich bin nicht nur am Rande meiner Kräfte, schon:
+… Ich bin nicht nur am Rande meiner Kräfte,
 sondern ich bin geistig und körperlich bereits aufgebraucht.
 Meine einzige Sehnsucht ist Ruhe … Ruhe …!! Ich kann
-Edward durch nichts mehr ins Leben zurüccirusen …«
+Edward durch nichts mehr ins Leben zurückrufen …«
 
-Und sie schaute Harald stehend an …
+Und sie schaute Harald flehend an …
 
 Fügte hinzu: »Glauben Sie unwirklich, daß James
 O’Neil sich hier in der Nähe von Bawalar verborgen hält,
-— daß er nicht entflohen ist Mr Nimmerwiedersehen?! —
+— daß er nicht entflohen ist auf Nimmerwiedersehen?! —
 Was glauben Sie, Mr. Harst?!«
 
 »Das … erstere, Mylady …! Und deshalb belassen
 Sie die Einrichtung der Verbindung zwischen Ihrem Schlafzimmer
 und dem unsrigen so, wie sie ist … Ertragen Sie
-Amtes noch das Letzte … James O’Neil wird wiederkehren …
-Wahrscheinlich) nicht heute, nicht morgen — vielleicht nach)
+auch noch das Letzte … James O’Neil wird wiederkehren …
+Wahrscheinlich nicht heute, nicht morgen — vielleicht nach
 Tagen … Aber — er wird nochmals erscheinen! Und dann
 wird er unser sein, dann erst werden Sie in Wahrheit genesen,
 Mylady!«
@@ -2399,55 +2393,56 @@ Dann gingen wir weiter dem Hause zu …
 Und bei Tisch taute Lady Alix dann förmlich auf, meinte
 einmal halb scherzend:
 
-»Es ist das Bewäaßtsein, Sie beide als trat bei mir
-zu haben …? Und darin noch der andere, ebenso befreien
-Gedanke, daß ich durch einen raffinierten Schurken: mich
-lediglich einschüchtern ließ! — Ich fühle, — ’daß ich mich zu mir
-selbst zurückfuhr …
+»Es ist das Bewußtsein, Sie beide als Schutz bei mir
+zu haben …! Und dann noch der andere, ebenso befreiende
+Gedanke, daß ich durch einen raffinierten Schurken mich
+lediglich einschüchtern ließ! — Ich fühle, — daß ich mich zu mir
+selbst zurückfinde …«
 
 Wunderbarer Abend auf der Veranda des freundlichen
-lautes …
-Von Norden her, wo in der« »Ferne die Gipfel he?
+Hauses …
+
+Von Norden her, wo in der Ferne die Gipfel des
 <@pagebreak/>
-Himalaya ihre Shnechäupter den Sternen entgegen recken,
-kam ein Fühler Luftzug über das soindurchglühte indische
+Himalaya ihre Schneehäupter den Sternen entgegen recken,
+kam ein kühler Luftzug über das sonndurchglühte indische
 Land …
 
 Tausend Blumen und Blüten öffneten jetzt ihre feinsten
-Duftorgaie …
+Duftorgane …
 
-Tausend geflügelte Insekten umschivwärmten die engmaschigen
+Tausend geflügelte Insekten umschwärmten die engmaschigen
 durchsichtigen Gewebe, die unseren Platz schützend
-Wilzivel …
+umgaben …
 
-bartlos trugen die taubstummen Diener die Speisen
-auf, und ihre treiueiai, dankbaren Blicke hingen. unverwandt
-an dem Zutritt der Herrin, jedes Winkel gewärtig …
+Lautlos trugen die taubstummen Diener die Speisen
+auf, und ihre treuen, dankbaren Blicke hingen unverwandt
+an dem Antlitz der Herrin, jedes Winkes gewärtig …
 
-unter Haus und der ’Garten wurden Verdacht — unsichtbar.
-Harald hatte dies schon nachmittags telephonisch)
+Unser Haus und der Garten wurden bewacht — unsichtbar.
+Harald hatte dies schon nachmittags telephonisch
 mit dem Polizeichef vereinbart, der die besten seiner Leute
 beordern wollte … Wir brauchen keine heimtückische Kugel
-zu sürchien’ …
+zu fürchten …
 
 Wir sprachen von Dingen, die nichts mit all dem Widerwärtigen,
-das so frisch in unserer Erinnerung lauerte, zu,
+das so frisch in unserer Erinnerung lauerte, zu
 tun hatten …
 
-Lady Gulbranor erzählte von ihrer Jugend, von den!
-elterlichen Gut dort ins England … Und daß sie nun so
-ganz allein Patsche …-Die Eltern tot, zwei Brüder hat
-Weltkrieg gefallen …«
+Lady Gulbranor erzählte von ihrer Jugend, von dem
+elterlichen Gut dort in England … Und daß sie nun so
+ganz allein dastehe … Die Eltern tot, zwei Brüder im
+Weltkrieg gefallen …
 
 Dann wieder war’s Harald, der von uns beiden und
-unserem Leben her klugen, feingebildeten Frau ein Bild
+unserem Leben der klugen, feingebildeten Frau ein Bild
 entwarf …
 
 Und mit einflocht, daß Lady Gulbranor sich mit der
 Prinzessin Sadukala anfreunden solle …
 
 »Sie würden sich gut verstehen, Mylady … Die Prinzessin
-Besitz &erz und Gemüt … Und — Sie müssen dieses
+besitzt Herz und Gemüt … Und — Sie müssen dieses
 einsame Dasein aufgeben … Sie sind noch zu jung, um sich
 so vollkommen abzuschließen …«
 
@@ -2457,137 +2452,137 @@ Mokka gebracht …
 Wir rauchten, lehnten in den bequemen Korbsesseln
 und beobachteten das unruhige Treiben der Nachtfalter, die
 <@pagebreak/>
-SEDODSGESDEODEDOLOE 155!! Deck I SLEDISODOEL
+immer wieder gegen die dünnen Vorhänge Sturm liefen,
+um an das Licht zu gelangen …
 
-Kammer wieder gegen die dünnen Vorhänge Ostrand liefen,
-um alt das Licht zu gelangen …
-
-Das Licht war eine elektrische Zianderlanme im? grün:
-leidlichem Seidenschirm … Ein aebeimanisoolles kehrt War’ch,
-das über uns seine milden Kutter Moos: die Ctänocclamye
+Das Licht war eine elektrische Ständerlampe mit grünlichem
+Seidenschirm … Ein geheimnisvolles Licht war’s,
+das über uns seine milden Fluten goß: die Ständerlampe
 und der Vollmond, der schräg über dem Vorplatz des Hauses
 leuchtete …
 
-Ich saß so, daß ich das Bassin der Fontäne nur« den
-Tiger ans Marmor erkennen komme — ganz verhauen
-men …
+Ich saß so, daß ich das Bassin der Fontäne und den
+Tiger aus Marmor erkennen konnte — ganz verschwommen
+…
 
-Ich) genoß diesen sitzend mit Tor reinen Hingabe eine
-Menschen, in dessen Seele erwacht bin einer Poetennatur
-schlummert
+Ich genoß diesen Abend mit der reinen Hingabe eines
+Menschen, in dessen Seele etwas von einer Poetennatur
+schlummert …
 
-Meine Gedanken glitten Kinder … mein Ohr lauschte
-den Gesprächen der angerufen Siam und Des Steiniges, aber
-nein Hirn verschloß sich gegen das melodische Wortroplät-sher
-und spürte ohne besondere Anstrengung den blinkten
-Fragen nach, die dieser Fall noch barg — die Haupt
-hinausragen …
+Meine Gedanken glitten umher … mein Ohr lauschte
+den Gesprächen der graziösen Frau und Des Freundes, aber
+mein Hirn verschloß sich gegen das melodische Wortgeplätscher
+und spürte ohne besondere Anstrengung den dunklen
+Fragen nach, die dieser Fall noch barg — die Hauptfragen
+…
 
-Ohne besondere Anstrenmenag … Ein halb. müde.
-Spiel der Gedanken, dem der duftende Mevika der bitterer
-verließ …
+Ohne besondere Anstrengung … Ein halb müdes
+Spiel der Gedanken, dem der duftende Mokka den Antrieb
+verlieh …
 
-Dachte an das, was Harald noch festgestellt Wissen
-wollte: durch den Gouverneur und durch Fenster Worten.
-—» Morton Spalte schon heute Adern mit einen Auto der
-Prinzessin nach) solchem Basaren wollen … he« WyÄckorer3
-wegen …-
+Dachte an das, was Harald noch festgestellt wissen
+wollte: durch den Gouverneur und durch Doktor Morton.
+— Morton hatte schon heute abend mit einen Auto der
+Prinzessin nach Lahore fahren wollen … des Wucherers
+wegen …
 
-Und in Buckligen Hindämmern umschlichen meine Grellbunten
-Autos den betitelt bei vor BVrinzersan und Sorgloses
+Und in wohligem Hindämmern umschlichen meine Gedanken
+auch den Besuch bei der Prinzessin und Haralds
 Fragen …
 
-Faust Tigerin Male schreckte ich da zusammen … Etwa-«
-war mir plötzlich ausgefallen — jetzt erst: daß Lord Gulbranor
-die Bibliothek im Palast der Prinzessin konnte …!
+Mit einem Male schreckte ich da zusammen … Etwas
+war mir plötzlich aufgefallen — jetzt erst: daß Lord Gulbranor
+die Bibliothek im Palast der Prinzessin kannte …!
 
-Wie ein Traumbild sah) ich da vor mir ein uraltes, 111
-Leder acbundenes Buch), das ich selbst dort in der Bibliothek
-in der Hand gehabt hatte … 2 die Familicengeschite der
+Wie ein Traumbild sah ich da vor mir ein uraltes, in
+Leder gebundenes Buch, das ich selbst dort in der Bibliothek
+in der Hand gehabt hatte …: die Familiengeschichte der
 <@pagebreak/>
-Radschas von Bawalar! — Und ceb2zufy genau sah ich die
-eine Seite als diesem Bar, modernes, eingebettete Papier,
+Radschas von Bawalar! — Und ebenso genau sah ich die
+eine Seite aus diesem Buche, modernes, eingeheftetes Papier,
 darauf einen Stern …
 
 Das war der Stern, der uns vor drei Tagen — nein,
-vor fünf Taten den Zugang zu dem unterirdischen Berlin:-
-duUngsweg nach dem mohammedanischen Friedhof Zittert
+vor fünf Tagen den Zugang zu dem unterirdischen Verbindungsweg
+nach dem mohammedanischen Friedhof finden
 ließ … Das War der Stern, der mit der diamantenen
-Krone von Zahnarzt in engslean Zusainmenbhang stand …
+Krone von Bawalar in engstem Zusammenhang stand …
 
-Dicke Krone, seit Wehr denn fünfzig Jahren verschwunden,
+Die Krone, seit mehr denn fünfzig Jahren verschwunden,
 hatte auch Harald nicht finden können …
 
 Und — Lord Gulbranor kannte die Bibliothek!!
-Sollte …-. sollte der Lord auch das alte Blick gekauft
+
+Sollte … sollte der Lord auch das alte Buch gekannt
 haben?! —
 
-Mit meinem traumhaften Hindämmern War’s. vor:
-bei …
-Ich war wach; munter …
-Ich Abkaufte die Lady an …
+Mit meinem traumhaften Hindämmern War’s vorbei
+…
 
-Ob sie wirkliche) uns Geheitunisse vor uns hatte …»?’
-Harald sprach gerade von einem unserer letzten Er:
-Erlebnisse …: … von Berlin … Von der Untergrundbahn …
+Ich war wach, munter …
 
-Wie die Züge Gott unter der Erde verschwänden — wie sie
-unter dem Häusermeer zusausten und wie die Un’orarund-vahn
-uns Arbeit gebracht … JI habe das alles im «Unm-tergrundbahngespenst«
+Ich schaute die Lady an …
+
+Ob sie wirklich noch Geheimnisse vor uns hatte …?!
+
+Harald sprach gerade von einem unserer letzten
+Erlebnisse … von Berlin … Von der Untergrundbahn …
+Wie die Züge dort unter der Erde verschwänden — wie sie
+unter dem Häusermeer hinsausten und wie die Untergrundbahn
+uns Arbeit gebracht … Ich habe das alles im Untergrundbahngespenst«
 geschildert …
 
-Die Lady lauschte … Sie konnte Berlin nicht …
-Sie war nicht Anwalt in Bombay oder Kalkutta gewesen …
+Die Lady lauschte … Sie kannte Berlin nicht …
+Sie war nicht einmal in Bombay oder Kalkutta gewesen …
 
-Ich beobachtete sich … Kein Falsch war in ihren Art
-gen … Nur die Spuren übergroßen Herzeleids … — —
+Ich beobachtete sie … Kein Falsch war in ihren Zügen
+… Nur die Spuren übergroßen Herzeleids … — —
 
 Dann sagten wir uns gute Nacht …
 
-Die traulichen VNbendstnunden waren dahin …
+Die traulichen Abendstunden waren dahin …
 
-Nur die beiden Vorhänge trennten uns wieder vor
-dem Schlafzimmer Dr Frau, der Harald noch immer ein
-uindurchsichtiges Versteckspiel zutraute …
+Nur die beiden Vorhänge trennten uns wieder von
+dem Schlafzimmer der Frau, der Harald noch immer ein
+undurchsichtiges Versteckspiel zutraute …
 
-Und dieser Kärglich hatte mir atgeflüstert?: »In Kleidern
+Und dieser Harald hatte mir zugeflüstert: »In Kleidern
 bleiben!«
 
 So lagen wir denn angezogen auf unseren Betten …
 
 <@pagebreak/>
-Schlafen — einschlafen?! — Je! er: wollte ich, wie
-der Mokka meine Nerven aufgeklärt hatte …
+Schlafen — einschlafen?! — Jetzt erst merkte ich, wie
+der Mokka meine Nerven aufstört hatte …
 
-doch horchte … 5. horchte …
+Ich horchte … horchte …
 
-»Dunkelheit ringsum … Harst hatte sein Nachtlämpchen
+Dunkelheit ringsum … Harst hatte sein Nachtlämpchen
 nicht brennen lassen …
 
-Drüben im Speisezimmer schlug die Standuhr … bis.
-hierher drangen in dieser Stille die hallende:: Töne …
+Drüben im Speisezimmer schlug die Standuhr … bis
+hierher drangen in dieser Stille die hallenden Töne …
+
 Mitternacht …
 
 Und — da geschah’s …
-nebenan ein schwacher Ruf …
 
-an 2« ne a …
-Je Zelle
+Nebenan ein schwacher Ruf …
 
 <h2>4. Kapitel.</h2>
 <h3>Was in Sekunden passierte …</h3>
 
-Wir beide hinüber
+Wir beide hinüber …
 
 Hinter den Wandschirm …
 
-Wo Harst so plötzlich die Bambitöstange hergenommen,
-an der oben ein kleines altindUsches Hanscyiwert mit Draht
-befestigt war — ich begriff es mit …
+Wo Harst so plötzlich die Bambusstange hergenommen,
+an der oben ein kleines altindisches Hauschwert mit Draht
+befestigt war — ich begriff es nicht …
 
-Wir hatte er diese Vorbereitung verheimlicht …
+Mir hatte er diese Vorbereitung verheimlicht …
 
-Unser Aufzuwachen hinter wert Wandschirm war nicht
+Unser Auftauchen hinter dem Wandschirm war nicht
 ganz ohne Geräusch vor sich gegangen …
 
 Und doch: der Mann ohne Kopf dort vor dem Diwan
@@ -2599,81 +2594,81 @@ in seiner Hand …
 Das Bild war genau so, wie Lady Alix es uns geschildert
 hatte …
 
-Zugegeben, daß dieser Mann, der seinen Kopf im Arm:
+Zugegeben, daß dieser Mann, der seinen Kopf im Arm
 trug, bei dieser matten Beleuchtung durch die Deckenampel
-Ansehnlich wirkte — selbst für einen, der genau Umrisse, daß
-Dies alles ein Taschenspielerkniff, daß der Kopf aus Wachtest
+unheimlich wirkte — selbst für einen, der genau wußte, daß
+dies alles ein Taschenspielerkniff, daß der Kopf aus Wachs
 <@pagebreak/>
-und der andere Kopf in dem Pappgcestell der Brust verborgen
+und der andere Kopf in dem Pappgestell der Brust verborgen
 …
 
 Trotzdem: Der »Spuk« konnte die Nerven eines Weibes
 wohl in Unordnung bringen!
 
-Und dieses Weib, Lady Alix, hatte die Arme abtweh-rend
+Und dieses Weib, Lady Alix, hatte die Arme abwehrend
 emporgeworfen und hielt die Augen geschlossen …
 
-Harald trat rasch. einen Schritt seitwärts, konnte nach
+Harald trat rasch einen Schritt seitwärts, konnte nun
 die Arme frei bewegen …
 
-Und — — schlich mit seiner Bambun3wasse zu …
+Und — — schlug mit seiner Bambuswaffe zu …
 
 So geschickt, daß der Kopf der Kobra auf den Teppich
+fiel …
 
-So schritt …
+So geschickt …
+
 Dann war ich schon neben dem Mörder …
+
 Packte zu …
+
 Harald desgleichen …
+
 Seine Hand riß James O’Neil das infame Blendwerk
 von Pappe vom Leibe …
 
-Ein bartloses, faltiges Gesicht schaute uns mit stecken
+Ein bartloses, faltiges Gesicht schaute uns mit frechem
 Grinsen an … Tückische Augen spotteten unser …
 
-Die enthauptete bloßen glitt in wilden Zuckungen auf
-dem Teppich hin und her …—«
+Die enthauptete Kobra glitt in wilden Zuckungen auf
+dem Teppich hin und her …
 
-Die Lady war aunfgessrungen …
+Die Lady war aufgesprungen …
 
-Blaß — und doch im Züge drohende Genugtuung, daß
-wir den Menschen nun endlich er’tlarvt und gefaßt hatten …
+Blaß — und doch im Blick drohende Genugtuung, daß
+wir den Menschen nun endlich entlarvt und gefaßt hatten …
 
 James O’Neil grinste weiter …
 
 Nickte Harald zu …
 
 »Strengen Sie sich nicht allzu sehr an, Mr. Harst …!
-
 Sie werden mich bestimmt wieder laufen lassen …! Ich
+… weiß zu viel …!«
 
-… weiß zu viel …
-
-Harst drückte tun in einen Sessel
+Harst drückte ihn in einen Sessel …
 
 »Rühren Sie sich nicht!!«
 
 Er hatte die Pistole entsichert …
 
 »So — und nun werden Sie antworten, James
-O’Neil …!« …
+O’Neil …!«
 
 »Gern, Mr. Harst … Warum auch nicht?! — Ihre
-Pistole können Sie getrost beiseite tun … Ich b’vja ab
-
-fiel
-
+Pistole können Sie getrost beiseite tun … Ich bin ja
 <@pagebreak/>
-schlich hierher gekommen, wußte und achtete dort, daß
-Sie mich fangen würden … oder — — halten Sie mich für
-einen Dummkopf?! — also — fragen Sie!«
+absichtlich hierher gekommen, wußte und rechnete damit, daß
+Sie mich fangen würden … Oder — — halten Sie mich für
+einen Dummkopf?! — Also — fragen Sie!«
 
-»Weshalb haben Sie den Hattipimann Lenglen ermordet?«
+»Weshalb haben Sie den Hauptmann Lenglen ermordet?«
 
 »Ermordet?! Ich?! — Das kann wohl nur ein schlechter
 Scherz sein …! Ich hatte keinen Grund, Lenglen zu
-tötet … Ich kannte ihn nur von Rauschen …«
+töten … Ich kannte ihn nur von Ansehen …«
 
-Dolch eine Unverschämtheit!!
+Welch’ eine Unverschämtheit!!
 
 Aber Harald blieb ruhig …
 
@@ -2683,15 +2678,15 @@ nicht erdrosselt?!«
 »Ich — — Patrick?! — Aber, Mr. Harst …!! Das
 sind grobe Beleidigungen! Wenn ich mir erlaubt habe,
 Lady Gulbranor ein wenig einzuschüchtern: das ist schließlich
-vor kein Verbrechen! Das wird die Lady mir verzeihen,
+noch kein Verbrechen! Das wird die Lady mir verzeihen,
 wie ich ganz bestimmt weiß … — Ein Mörder?!
 Nein, Mr. Harst, — das müßten Sie erst beweisen, und
 das sollte Ihnen auch verdammt schwer werden, weil sie sich
 in diesem Punkte eben in einem sehr bedauerlichen Irrtum
 befinden … — Wir wollen uns hier jedoch nicht mit Worten
-streiten … Sie und Ihren Freund Schraut geht daß,
+streiten … Sie und Ihren Freund Schraut geht das,
 was ich mit Lady Gulbranor abzumachen habe, gar nichts
-an … Ich verlange, daß ich die Lady ohne »Zeugen ein
+an … Ich verlange, daß ich die Lady ohne Zeugen ein
 paar Minuten sprechen darf … dann wird die Lady eingesehen
 haben, wie gut ich es mit ihr meine … — Also
 bitte, meine Herren, ziehen Sie sich dort bis zum Wandschirm
@@ -2701,28 +2696,28 @@ das total überflüssig ist … Denn: wie gesagt: meine Handlungsweise
 gegenüber der Lady hat Gründe, die nur zwei
 Menschen etwas angehen: die Lady und mich!«
 
-Blätter hatte Alix Gulbranor genau so sprachlos alledem
+Bisher hatte Alix Gulbranor genau so sprachlos alledem
 zugehört wie ich.
 
-Bett brauste sie auf …
+Jetzt brauste sie auf …
 
-Verächtlich) rief sich:
+Verächtlich rief sie:
 
 <@pagebreak/>
-»J4HP — ich habe nichts mit Ihnen zu schaffen!« Wenn
+»Ich — ich habe nichts mit Ihnen zu schaffen!! Wenn
 Sie etwa glauben, hier wieder irgend wie entwischen zu
 können, so irren Sie sich! Ich erkenne Ihre Stimme! Sie
 sind der Dromedarreiter gewesen …! Und — Sie sind
-auch Nalak gewesen! — Mr. Harst, soll ich der Polizei tote
-Pionieren …?«
+auch Nalak gewesen! — Mr. Harst, soll ich der Polizei
+telephonieren …?«
 
-Ihre Hand wies nach dem Tischen, wo das Telephon
-Tand …
+Ihre Hand wies nach dem Tischchen, wo das Telephon
+stand …
 
 O’Neil grinste wieder … noch abscheulicher …
 
-»Bitte — nichts überhasten, Mylady! Nur nicht5’
-überhasten! Denken Sie freundlichst am den Wertbrief …!!«
+»Bitte — nichts überhasten, Mylady! Nur nichts
+überhasten! Denken Sie freundlichst an den Wertbrief …!!«
 
 Und dieses letzte Wort reckte er endlos … mit zynischer
 Schadenfreude!
@@ -2731,21 +2726,21 @@ Lady Alix war leicht zusammengefahren …
 
 Dann wurde ihr Gesicht starr und fahl …
 
-Ihre Augen ruhten wie in hellem Entsetzen auf den!
-diabolischen Ausübt O’Neils …
+Ihre Augen ruhten wie in hellem Entsetzen auf dem
+diabolischen Antlitz O’Neils …
 
-»a — zauderten tut so ein kleines Stichwort Wundere
+»Ja — zuweilen tut so ein kleines Stichwort Wunder,
 Mylady!« höhnte der Mensch mit einer unfaßbaren Frechheit
-… »Wertbrief — —!!ich— Nicht wahr, Sie sind unangenehm
-berührt Baronet. Kann ich durchaus verstehen,
-Ansatz …! Sie merken nun wohl, daß ich Ihr Freund
-Detektivin, der lediglich größeres Unheil verhüten wollte … Also
+… »Wertbrief — —!! — Nicht wahr, Sie sind unangenehm
+berührt davon … Kann ich durchaus verstehen,
+Mylady …! Sie merken nun wohl, daß ich Ihr Freund
+bin, der lediglich größeres Unheil verhüten wollte … Also
 bitten Sie die beiden deutschen Herren, die sich hier in Dinge
 einmischen, die durchaus für einen Strafprozeß ungeeignet
-Süd, sich etwas zurückziehen … Ad möchte Ihnen, Mylady,
+sind, sich etwas zurückziehen … Ich möchte Ihnen, Mylady,
 dann nur einiges flüsternd anvertrauen …«
 
-Lady Alte sank plötzlich ans den Diwan …
+Lady Alix sank plötzlich auf den Diwan …
 
 Aber sofort hatte sie sich wieder in der Gewalt …
 
@@ -2753,36 +2748,34 @@ Sofort …
 
 Wandte sich an Harald …
 
-Aber — ihre Lippen zuckten nur … Ihre Klinge gehorchte
+Aber — ihre Lippen zuckten nur … Ihre Zunge gehorchte
 ihr nicht …
 
-& Man hat c5 ihr an, werd’ ungeheure Anstrengung es
-sich kostete, auch nur wenige Worte zu seiner …
+Man sah es ihr an, welch’ ungeheure Anstrengung es
+sie kostete, auch nur wenige Worte zu formen …
 
 <@pagebreak/>
-»Mr. Harst … Ankunft … ich … bitte … Sie, —
+»Mr. Harst … Mr. Harst … ich … bitte … Sie, —
 — lassen Sie mich mit Mr. O’Neil allein …«
 
 Endlich war’s heraus …
 
-Der Eisschlucht, den diese seltsame Zumutung auf Harald
-machte, war keincöwegs5s so stark, wie ich es angenommen
+Der Eindruck, den diese seltsame Zumutung auf Harald
+machte, war keineswegs so stark, wie ich es angenommen
 hatte …
 
-hm Gegenteil …
+Im Gegenteil …
 
 Harst verbeugte sich höflich …
 
-»4 Erbitte, Mylady …« Sein Ton war ernst, aber
-
-nicht unfreundlich … ’ »Ich bedaure, Mylady … Ich darf
-Ihnen natürlich nicht verbieten, mit O’Neil sich leise zu besprechen
-… Aber — Amte den. Augen lasse ich O’Neil acht
-einen notiert … ah werde jeden Fhtbtversuch zu verehrten
+»Ich bedaure, Mylady …« Sein Ton war ernst, aber
+nicht unfreundlich … »Ich bedaure, Mylady … Ich darf
+Ihnen natürlich nicht verbieten, mit O’Neil sich leise zu
+besprechen … Aber — aus den Augen lasse ich O’Neil nicht
+einen Moment … Ich werde jeden Fluchtversuch zu verhüten
 wissen … Schraut und ich stellen uns hinter den
-Wamndschirimt … Bei der geringsten verdächtigen Bewegung
-
-O’Neils schicken wir!«
+Wandschirm … Bei der geringsten verdächtigen Bewegung
+O’Neils schießen wir!«
 
 Und er winkte …
 
@@ -2798,92 +2791,89 @@ Wir standen nun fünf Meter entfernt …
 
 Fünf Meter …
 
-Und drüben hatte sich Lady. Alix langsam erhoben …
+Und drüben hatte sich Lady Alix langsam erhoben …
 
 War unsicher näher zu O’Neils Sessel herangetreten …
 
-Verdeckte ihm uns nun durch ihre vornüber gebeugte
+Verdeckte ihn uns nun durch ihre vornüber gebeugte
 Gestalt …
 
-O’9 Neil flüsterte …
+O’Neil flüsterte …
 
-Seine einwenden Laute Sprangen wohl bis an »unter
-Ohr … Zu verstehen wer nichts — nicht ein Wort …
+Seine raunenden Laute drangen wohl bis an unser
+Ohr … Zu verstehen war nichts — nicht ein Wort …
 
-Plötzlich zuckte Lady Gu’branvr entnommen …
+Plötzlich zuckte Lady Gulbranor zusammen …
 
-verrate sich noch tiefer …
+Beugte sich noch tiefer …
 
 Wir sahen, wie ein Beben ihren Leib schüttelte …
 
-Und wieder O’Neil8 raunende Stimme …
+Und wieder O’Neils raunende Stimme …
 
-Dann — ein Fenster wehte durdchck das Genua, ein
-tiefer Fenster aus gequälter Frauenseele …
+Dann — ein Seufzer wehte durch das Gemach, ein
+tiefer Seufzer aus gequälter Frauenseele …
 
 <@pagebreak/>
 Und im selben Moment war Haralds Mund dicht an
-aiicmnem Ohr …
+meinem Ohr …
 
-»Wicht zurecht!! Entfliehen lassen?!«
+»Nicht schießen!! Entfliehen lassen!!«
 
-Agent war stark … Glaubte erst, daß ich mich verhört
-gaben müßte …
+Ich war starr … Glaubte erst, daß ich mich verhört
+haben müßte …
 
-Docht geht — — Harst wiederholte:
+Docht nein — — Harst wiederholte:
 
-»Erheuchelt lassen!«
+»Entfliehen lassen!«
 
-Tun — war die Entscheidung auch; schon da … —
+Dann — war die Entscheidung auch schon da … —
 
-Es ist geh’ wer, Haralds Gedanken zu erraten …
+Es ist schwer, Haralds Gedanken zu erraten …
 
-Aber mein er mir je unverständlich) gewesen, dann war
-28 ich!
+Aber wenn er mir je unverständlich gewesen, dann war
+es jetzt …
 
-Was mir folgte, war seinerseits Komödie …
+Was nun folgte, war seinerseits Komödie …
 
-Die wubegreislichste Seminole, die er je gespielt hat.
+Die unbegreiflichste Komödie, die er je gespielt hat …
 
-Und Euch, raus sich nun ereignete, war in wenigen See
-(unweit vorüber …
+Und das, was sich nun ereignete, war in wenigen Sekunden
+vorüber …
 
-gefahren, Verein Inhalt für Stunden ausgereicht
-hatte …
+Sekunden, deren Inhalt für Stunden ausgereicht
+hätte …
 
-Lady Entkräftet hatte sich ausgerichtet …
+Lady Gulbranor hatte sich aufgerichtet …
 
-hatte O’Neil … Anprall — aus dem Sessel emp9C-genen
+hatte O’Neil … umarmt — aus dem Sessel emporgezogen
 …
 
-»är quollen die Augen aus dem Kopfe …
+Mir quollen die Augen aus dem Kopfe …
 
-in — ein Stickerei Zopf rollte zu Boden: der Wachs-cowy
-reagierte …-
+Und — ein anderer Kopf rollte zu Boden: der Wachskopf
+Lenglens …
 
-Mit schrecklichen Poltern …
+Mit schrecklichem Poltern …
 
-Die Lohnt aber, O’Neil mit dem eigenen Leibe hebend,
-turnte ich zur zweiten Tür …
+Die Lady aber, O’Neil mit dem eigenen Leibe hebend,
+drängte ihn zur zweiten Tür …
 
-Die Tür flog 1a) außen auf …
+Die Tür flog nach außen auf …
 
-Und — Draht stieß) den Wandschirm um …
+Und — Harald stieß den Wandschirm um …
 
-Schnellte vorwärts
+Schnellte vorwärts …
 
-packte Lady Grwlbranors Arm …
+packte Lady Gulbranors Arm …
 
 Die aber hatte die Tür schon wieder zugezogen, hielt
-den Drücker miitlammert …
+den Drücker umklammert …
 
--
-
-»Da05 … sollen Sie büßen, Mylady!« keuchte Harald
+»Das … sollen Sie büßen, Mylady!« keuchte Harald
 wie in maßlosem Grimm … »Das sollen Sie vor Gericht
-beantworten!! Schraut — — in den Garten … Schieße
-
-den &Xerl wieder, wen! zu ihn zu sehen bekommst …«
+verantworten!! Schraut — — in den Garten … Schieße
+den Kerl nieder, wenn Du ihn zu sehen bekommst …«
 
 <@pagebreak/>
 Und ich hinaus …
@@ -2891,7 +2881,7 @@ Und ich hinaus …
 Aber — es war zwecklos …
 
 Meine gellenden Rufe alarmierten die in den Büschen
-versiegten Polizeibeamten …
+versteckten Polizeibeamten …
 
 Wir suchten O’Neil …
 
@@ -2899,27 +2889,25 @@ Er blieb verschwunden …
 
 Harald kam …
 
-Die Beamten berichteten, daß fix einen Wann im
+Die Beamten berichteten, daß sie einen Mann im
 Bassin der Fontäne vor zehn Minuten hatten verschwinden
 sehen … Also war O’Neil mit Hilfe der beweglichen Tigerfigur
 ins Haus gelangt …
 
-Wo er geblieben, konnte nicht festgestellt werden
-Wahrscheinlich hatte er sich) zuerst nur auf der Veranda versteckt
+Wo er geblieben, konnte nicht festgestellt werden …
+Wahrscheinlich hatte er sich zuerst nur auf der Veranda versteckt
 und war dann entschlüpft, als wir im Hause suchten …
 
 Harst schickte die Beamten dann weg … es hätte doch
-seinen Zweck, meinte er, den Garten heute nacht noch zu
+keinen Zweck, meinte er, den Garten heute nacht noch zu
 bewachen …
 
 Dann gingen wir wieder zu Lady Gulbranor hinein …
 
-… — « an —
-Dr am 4 Er
-an Ei ich- « »ck
+<h2>5. Kapitel.</h2>
 
-Kapitel.
-Der. Inhalt des Wertbriefes.
+<h3>Der Inhalt des Wertbriefes.</h3>
+
 Lady Alix Gulbranor saß auf dem Diwan, die Hände
 
 im Schoße verschlungen … stets ausgerichtet saß sich da …
