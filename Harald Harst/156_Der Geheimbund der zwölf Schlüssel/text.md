@@ -1,3338 +1,3044 @@
+<@pagebreak 3/>
+
+<h1>Der Geheimbund der zwölf Schlüssel</h1>
+
+<h2>1. Kapitel.</h2>
+<h3>Der Brief aus Rügen.</h3>
+
+Wir hatten damals ein paar Erholungstage Zwielicht
+nötig. das ebenso interessante wie vielseitige Problem,
+das ich unter dem Titel »Der Traum der Lady Gulbranor«
+im vorigen Band geschilvbert habe, hatte selbst Haralds
+robusten Nerven ein wenig geschadet. Wir erholten uns
+jedoch in dem behaglichen Heim der Lady in Bawalar sehr
+schnell, und nach fünf Tagen meinte Harst morgens zu mir,
+daß es nun wohl an der Zeit sei, an die Heimreise zu
+Residenten.
+
+Gerade an diesem Tage erreichte uns dort in der kleinen
+Residenz des Fürstentums Bawalar am Nordrande
+der indischen Thar-Wüste ein Brief eines deutsch)en Gutsbesitzers.
+Dieses Schreiben war vier Wochen modernes?
+gewesen. Die ursprüngliche Adresse »Harald Harst, Berlin
+— Schmargendorf, Blücherstraße 16« war von Haralds Mutter
+ergänzt worden. So erhielten wir den Brief denn einen
+Monat später hier in Bawalar. —
+
 <@pagebreak/>
-Der Gehein
-
-     
- 
-
-"gant
-
- 
-
-[MFS 5
-„Fe
-M
-
- 
-
- 
-
-DEIN Np megane ge SETE ET DeR RAm
-
-u
-
- 
-<@pagebreak/>
- 
-
-| Harald Harſt: Aus meinem Leben |
-
- 
-
- 
-
-Der Geheimbund der zwölf Schlüſſel
-
-Erzählt von
-Max Schraut
-
-1. Kapitel.
-Der Brief aus Rügen.
-
-Wir hatten damals ein paar Erholungs8kage twirlli<
-nötig. --Da38 ebenſo intereſſante wie vielſeitige Problem,
-das ich unter dem Titel „Der Traum der Lady Gulbranor“
-im vorigen Band geſchilvbert habe, hatte ſelbſt Haralds
-robuſten Nerven ein wenig geſchadet. Wir erholten uns
-jedoch in dem behaglichen Heim der Lady in Bawalar ſehr
-ſchnell, und nach fünf Tagen meinte Harſt morgens zu mir,
-daß e3 nun wohl an der Zeit ſei, an die Heimreiſe zu
-denten.
-
-Gerade an dieſem Tage erreichie uns dort in der klei»
-nen Reſidenz de8 Fürſtentums Batvalar am Norvrande
-der indiſchen Thar-Wüſte etn Brief eines deuiſc)en Guks-
-beſiver8s. Dieſes Schreiben mar vier Wochen unterweg2
-geweſen. Die urſprüngliche Vdreſie „Harald Harſt, Berli»
-- Schmargendorf, Blücherſtraße 16“ war von Harald8 Mut-
-ter ergänzt worden. So erhielten wir den Brief denn einen
-Monat ſpäter hier in Bawalar. --
-
-156.
-<@pagebreak/>
-VBOSDOSOSSESDSESGSEDIOESO ) DOD0SBSSIOISL0IO0DSOSD
-
-Während ich dies nicderſchreibe, liegt Herrn von Pla-
-ten3 Brief neben mir. Je gebe ihn aljo wortgetreu wie-
+Während ich dies niederschreibe, liegt Herrn von Platens
+Brief neben mir. Je gebe ihn also wortgetreu wie
 
 der;
-Rittergut Sellinhof, Poſt Seebad Sellin,
+Rittergut Sellinhof, Post Seebad Sellin,
 
-Inſel Rügen, den 8. Mai 192...
-Sehr geehrter Herr Harſt!
+Insel Rügen, den 8. Mai 192 …
+Sehr geehrter Herr Harst!
 
-Sie werden geſtatten, daß ich Ihnen Mitteilung von
-höHſt eigentümlihen Vorgängen mache, für die ich keine
-einleuchtende Erflärung ſind. Sollte Ihre Zeit es zu-
-laſſen, einmal einige Zeit auf einem ländlichen Beſitz zuzu-
-bringen, ſo ſind Sie und Ihr Freund Schraut hiermit
-freundlichſt zu mir eingeladen. Vielleicht intereſſiert Sie
-das, was id zu erzählen habe. Vielleicht ſtet weit mehr
-dahinter, als ic als j<lichter Agrarier annehme.
+Sie werden gestatten, daß ich Ihnen Mitteilung von
+höchst eigentümlichen Vorgängen mache, für die ich keine
+einleuchtende Erklärung sind. Sollte Ihre Zeit es zulassen,
+einmal einige Zeit auf einem ländlichen Besitz zuzubringen,
+so sind Sie und Ihr Freund Schraut hiermit
+freundlichst zu mir eingeladen. Vielleicht interessiert Sie
+das, was ich zu erzählen habe. Vielleicht stet weit mehr
+dahinter, als ich als schlichen Agrarier annehme.
 
-Herr Harſt, ich bin mein Lebtag außerordentlich ſchreib-
-faul geweſen und daher, wa3 Brieſſtil angeht, nicht ſehr
-gewandt. ZI< ſchreibe alſo ſo, wie mir der Schnabel ge-
-wachſen iſt ... „/
+Herr Harst, ich bin mein Lebtag außerordentlich schreibfaul
+gewesen und daher, was Briefstil angeht, nicht sehr
+gewandt. sich schreibe also so, wie mir der Schnabel gewachsen
+ist …«
 
-Ueber mich: Junggeſelle, ſeHhzig Jahre, Beſitzer von
-ſehstauſend Morgen Land nebſt Zubehör, eifriger Jäger,
-eiſriger Segler, denn mein Gut ſtößt an das Meer, und das
-Gutshaus liegt keine tauſend Meter vom Strande ab. --
-Dazu Freund eine3 guten Tropfens und luſtiger Geſellſchaft.
+Über mich: Junggeselle, sechzig Jahre, Besitzer von
+sechstausend Morgen Land nebst Zubehör, eifriger Jäger,
+eifriger Segler, denn mein Gut stößt an das Meer, und das
+Gutshaus liegt keine tausend Meter vom Strande ab. —
+Dazu Freund eines guten Tropfens und lustiger Gesellschaft.
 
-Ueber die Sache ſelbſt:
+Über die Sache selbst:
 
-I<h war am zweiten Mai na<h Berlin gefahren, wollte
+Ich war am zweiten Mai nach Berlin gefahren, wollte
 einen neuen Motorpflug kaufen und mal wieder Berliner
-Luft atmen, die trog Staub und Benzingeſtank mich immer
-wieder lodt. |
+Luft atmen, die trog Staub und Benzingestank mich immer
+wieder lebt.
 
-Habe da enlfernte Verwandte in Berlin, denen e3
-mordsſchlec<ht geht: Witwe eines Vetter3 nebſt zwei Töh»-
-tern. --- Bei denen wohne ic<ß immer und nehme ihnen
-dann ein anſtändiges Freßpaket mit, das für zwei Monate
-angt.
+Habe da entfernte Verwandte in Berlin, denen es
+mordsschlechht geht: Witwe eines weitere nebst zwei Tot«-
+gestern. — Bei denen wohne ich immer und nehme ihnen
+dann ein anständiges Freßpaket mit, das für zwei Monate
+gelangt.
 
-Alſo ich wohnte wieder bei Henriette, Charlottenburg,
-Waibſtraße 26, Gartenhaus rec<ht8 zwei Treppen ... --
+Also ich wohnte wieder bei Henriette, Charlottenburg,
+Waibstraße 26, Gartenhaus rechts zwei Treppen … —
+
 <@pagebreak/>
-DSSSSSSSSOSSS Z  DSSDEISOIDISESSSEGSA
-
-Meine Nichten, wie ich ſie nenne, waren bis8her Tippfräu-
-leins geweſen, aber abgebaut worden --- am erſten April.
-So hatte Henriette denn vernünſtigerweiſe ein Zimmer
+Meine Nichten, wie ich sie nenne, waren bisher Tippfräuleins
+gewesen, aber abgebaut worden — am ersten April.
+So hatte Henriette denn vernünftigerweise ein Zimmer
 vermietet.
 
-Und damit kommen wir auf den Kern der Sache ...
+Und damit kommen wir auf den Kern der Sache …
 
-Nämlich den Mieter ...
+Nämlich den Mieter …
 
-Der junge Mann iſt ein Amerikaner aus Chikago, der
-hier in Deutſchland Medizin ſtudiert -- an der Berliner
-Univerſität.
+Der junge Mann ist ein Amerikaner aus Chikago, der
+hier in Deutschland Medizin studiert — an der Berliner
+Universität.
 
-Kein Jüngling mehr. Scätße ihn auf dreißig (denke
-eben dran, dreißig ſtimmt, denn es ſtand in der polizei-
-lihen Anmeldung).
+Kein Jüngling mehr. Schätze ihn auf dreißig (denke
+eben dran, dreißig stimmt, denn es stand in der polizeilichen
+Anmeldung).
 
-Alſo dieſer Mr. Harry Longfield zog am zweiten April
-ein. Forſcher, netter Kerl ſo weit. Nur ein Bummler,
-Kommt ſelten vor Morgengrauen heim. Im übrigen
-pünktliher Zahler, ruhig, ſtill und ſtet3 darauf bedacht,
-den Mädel3 und Henriette eine kleine Freude zu machen:
-Konfekt, Theaterkarten -- und ſo weiter. Wie geſagt: netter
+Also dieser Mr. Harry Longfield zog am zweiten April
+ein. Forscher, netter Kerl so weit. Nur ein Bummler,
+Kommt selten vor Morgengrauen heim. Im übrigen
+Fürstlicher Zahlen, ruhig, still und stets darauf bedacht,
+den Mädels und Henriette eine kleine Freude zu machen:
+Konfekt, Theaterkarten — und so weiter. Wie gesagt: netter
 
-erl!
+er!!
 
-Aber: das dike Ende kommt nach! -- Er hat zwei
-mächtige Koffer in ſeinem Zimmer. Und als Wera, die
+Aber: das dicke Ende kommt nach! — Er hat zwei
+mächtige Koffer in seinem Zimmer. Und als Wera, die
 ältere meiner abgebauten Nichten, am fünfzehnten April
-mittags in Longſields Anweſenheit das Zimmer aufräumte,
-da hatte der Chikagoer die Schlüſſel de8 einen Kofſſers
-ſte>en laſſen.
+mittags in Longfields Anwesenheit das Zimmer aufräumte,
+da hatte der Chikagoer die Schlüssel des einen Koffers
+stecken lassen.
 
-Mädels ſind neugierig. Alſo Wera öſſnet das Koſſfer-
-ungetüm und findet darin nichts als feinen ricſigen Schlüſ-
-ſel aus Pappe, aus zwei Teilen beſtehend .
+Mädels sind neugierig. Also Wera öffnet das Kofferungetüm
+und findet darin nichts als seinen riesigen Schlüssel
+aus Pappe, aus zwei Teilen bestehend …
 
-Rieſig =“- eben eine Schlüſſclattrappe, mit hellgrauem
-Papier beklebt, unterhalb des Bartes zwei Löcher ... Und
-unten der Schlüſſelgriff nur halb, zwei gebogene Nöbhren,
-die mit Leinwand beweglich an das Hauptſtück anacklebt
-ſind, =“ beide Teile der Attrappc etwa anderthalb Meter
-lang und das Mittelſtük mit einem Durchmejjexr von gut
+Riesig — eben eine Schlüsselattrappe, mit hellgrauem
+Papier beklebt, unterhalb des Bartes zwei Löcher … Und
+unten der Schlüsselgriff nur halb, zwei gebogene rollten,
+die mit Leinwand beweglich an das Hauptstück angeklebt
+sind, — beide Teile der Attrappe etwa anderthalb Meter
+lang und das Mittelstück mit einem Durchmejjexr von gut
 fünfzig Zentimeter.
+
 <@pagebreak/>
-0SSD00DSSSSSSDS 4 DSSSSSSSSSSS
+Wera denkt an ein Maskenkostüm oder derartiges und
+verschließt den Koffer wieder.
 
-Wera denkt an ein Maskenkoſtüm oder derartiges und
-verſchließt den Koſfſer wieder.
+Das war am fünfzehnten mittags.
 
-Das war am ſünſfzehnten mittags.
+Abends fragt Longfield die Mädels vorsichtig so von
+hinten herum aus, ob sie etwa den Koffer geöffnet haben.
 
-Abends fragt Longſield die Mädels vorſichtig ſo von
-hinten herum aus, ob ſie etwa den Koſfſer geöffnet haben.
+Sie merken’s und schwindeln natürlich, und der Chikagoer
+ist beruhigt.
+Am achtzehnten liest Wera in der Zeitung, daß ein
+Polizeiwachtmeister (jetzt heißen sie Schupo« früher hießen
+sie »Blaue«) nachts einem Mann angehalten habe, weil
+ihm dessen großes Paket auffiel … Der Mann versetzte
+dem Schupo einen kunstgerechten Kinnhaken (so nennt man
+so wohl einen Boxhieb), warf das Paket weg und kniff aus.
+Der Schurke erholte sich, öffnete das Paket und fand darin
+». =ck raten Sie, was, Herr Harst?! — Nun — eine riesige
+Schlüsselattrappe, nichts weiter. — -…
+-. »So war es in der genau zu lesen. Wera ist nun
+keineswegs auf den Kopf sei Sie dachte sofort an
+Longfield — eben, daß der Chikagoer vielleicht der Boxer
+gewesen. Aber Gas stimmte nicht, denn Harry Longfield
+glich in seiner Weise der Beschreibung, die dann abends in
+der Zeitung von dem Boxer veröffentlicht wurde.
 
-Sie merken's und ſc<hwindeln natürlich, und der Chi-
-kagoer ift beruhigt.
-Am achtzehnten lieſt Wera in ver Zeitung, daß ein
-Polizeiwachtmeiſter (jet heißen ſie Shupo,, früher hießen
-fie „Blaue“) naht8 einem Mann angehalten habe, weil
-ihm deſſen großes Paket auffiel ... Der Mann verſette
-vem S<upo einen kunſtgerechten Kinnhaken (ſo nennt man
-jo wohl einen Boxhieb), warf das Paket weg und kniſff aus.
-Der ScHupso erholte ſich, öffnete das Paket und fand darin
-“. => raten Sie, was, Herr Harft?! --- Nun -=- eine rieſige
-Schlüſſelattrappe, nicht8 weiter. -- -....
--. “So war es in der Zeitun zu leſen. Wera iſt nun
-keine8weg3 auf den Kopf gef Sie dachte ſofort an
-Longſield =- eben, daß der Chifagoer vielleicht der Boxer
-geweſen. Aber Ta3 ſtimmte nicht, denn Harry Longfield
-glich in feiner Weiſe der Beſchreibung, die dann abend3 in
-der Zeitung von vem Boxer veröffentlicht wurde.
+»Gegnerin und die Mädels vergaßen die Sache, bis —
+ich in der Leinen Wohnung als Gast erschien. Wir erzählten
+sie es, und Henriette meinte, eigentlich hätte man wohl
+der Polizei melden Jollen, daß Longfield in seinem Koffer
+eine gleiche Schlüsselattrappe aufbewahre. —
 
-"Henrietta und die Mädels vergaßen die Sache, bis ---
-ich in der leinen Wohnung al3 Gaſt erſchien. Mir erzähl-
-'ten ſie e8, und Henriette meinte, eigentlich hätte man wohl
-der Polizei melden Jollen, daß Longfield in ſeinem Koffer
-eine gleihe Schlüſſelattrappe aufbewahre. --
+Werden Sie — nicht ungeduldig, Herr Harst.- — Mein
 
-:' Werden Sie --- nicht ungeduldig, Herr Harſt.- - Mein
-
-Geſchreibſel wird ſebr bald recht ſpannend .
-- Wie geſagi: mm zweiten Mai traf ich in Berlin ein.
+Geschreibsel wird sehr bald recht spannend …
+— Wie gesagt: um zweiten Mai traf ich in Berlin ein.
 Am dritten abends hatten wir mit alten Bekannten eine
-ziemliß ſchwere Sitzung bei Kempins8ki. -Ic<h hatte mich
+ziemlich schwere Sitzung bei Kempinski. -Ich hatte mich
 etwas übernommez, und als ich um halb zwei das Haus
-Nr. 26 aufſchließen wollte, merkte ich, daß ich die Schlüſſel
-vergeſſen batte ... IH ſchlenderte vor dem Hauſe hin und
-bez, wartet: auf einen Schließer, der mir sſfnen ſollte.
+Nr. 26 aufschließen wollte, merkte ich, daß ich die Schlüssel
+vergessen hatte … Ich schlenderte vor dem Hause hin und
+des, wartet: auf einen Schließer, der mir seinen sollte.
+
 <@pagebreak/>
-DSSSSSSSSSSS 53  DSSSSSSDISOSDSID
+Und da — kam jemand aus Nr. 26 heraus … Ich
+hatte den Chikagoer schon kennen gelernt, erkannte ihn sofort.
+Er trug ein mächtiges Paket in der Hand.
 
-Und da -- kam jemand aus Nr. 26 heraus . I<h
-hatte den Chikagoer ſchon kennen gelernt, erkannte ihn ſo-
-fort. Er trug ein mächtiges Paket in der Hand.
+Wenn ich nun nicht so viel Alkohol im Schädel gehabt
+hätte, wäre mir nie im Leben der Gedanke gekommen,
+dem Amerikaner zu folgen …
 
-Wenn ich nun nicht ſo viel Alkohol im Schädel ge-
-habt hätte, wäre mir nie im Leben der Gedanke gekommen,
-dem Amerikaner zu ſolgen ...
+Aber damals hatte die schwere Sitzung mir einen
+höchst sonderbaren Unternehmungsgeist eingeflößt. Jedenfalls:
+ich spielte zum ersten Mal in meinem Leben so was
+Ähnliches, wie Sie es sind, Herr Harst: Detektiv!
 
-Aber damal3 hatte die ſc<hwere Sitzung mir einen
-höchſt ſonderbaren Unternehmungsgeiſt eingeſlößt. Jeden-
-fall3: ich ſpielte zum erſten Mal in meinem Leben ſo was
-Aehnliche3, wie Sie es ſind, Herr Harſt: Detektiv!
+Der Chikagoer hatte mich nicht gesehen, bestieg ein
+Mietauto — ich auch …
 
-Der Chikagoer hatte mic nicht geſehen, beſtieg ein
-Mietauto -- ich auch ..
+— Um nicht zu weitschweifig zu werden: ich konnte dem
+Amerikaner bis zur Müllerstraße im Norden Berlins solchen
+… Dort verschwand er, nachdem er das Auto vorher
+hatte halten lassen, in einem kleinen Häuschen, das mitten
+einem verwilderten Garten liegt.
 
-- Um nict zu weitſchweiſig zu werden: ich konnte dem
-Amerikaner bis zur Müllerſtraße im Norden Berlins ſol-
-'gen ... Dort verſchwand er, nachdem er das Auto vorher
-hatte halten laſſen, in einem kleinen Häus<hen, das mitten
-n einem verwilderten Garten liegt.
+Wie ich noch so auf der anderen Straßenseite hin
+und her Zumutete, kommt ein zweiter Mann — auch mit
+solch einem Riesenpaket, schlüpft in den Garten — ist weg …
 
-Wie ic noch ſo auf der anderen Straßenſeite hin
-und her bummlſle, kommt ein zweiter Mann -- auch mit
-ſolch einem Rieſenpaket, ſchlüpft in den Garten -- iſt weg..
-
-Und -- no< vier weitere kamen ... Dann war's
+Und — noch vier weitere kamen … Dann war’s
 Schluß.
 
-Inzwiſchen hatte ſich mein Schädel etwa3 ausgelüſftet,
-und wie ich mir eine Zigarre anſte>ken will, ſinde ich neben
-der Zigarrentaſche die „vergeſſenen“ Schlüſſel ..
+Inzwischen hatte sich mein Schädel etwas ausgerüstet,
+und wie ich mir eine Zigarre anstecken will, finde ich neben
+der Zigarrentasche die »vergessenen« Schlüssel …
 
-I<h hatte nun genug von dieſem Abenteuer, fuhr heim
-und ſchlief bis elf Uhr. --- Nachmittags gegen ſe<s kam die
-Abendzeitung. Und -- da finde ich zu meinem Schre> in
-dem Blatt eine Meldung über einen Mord in der Müller-
-ſtraße: im Garten eines baufälligen leerſtehenden Häus-
-dens hat man morgens einen Mann tot auſgeſunden -=-
-zwei Meſſerſtiche ins Herz!
+Ich hatte nun genug von diesem Abenteuer, fuhr heim
+und schlief bis elf Uhr. — Nachmittags gegen sechs kam die
+Abendzeitung. Und — da finde ich zu meinem Schreck in
+dem Blatt eine Meldung über einen Mord in der Müllerstraße:
+im Garten eines baufälligen leerstehenden Häuschens
+hat man morgens einen Mann tot aufgefunden —
+zwei Messerstiche ins Herz!
 
-"“ I< leſe und leſe ... Und immer klarer wird mir da,
-daß e3 ſich um da83ſelbe Häus<en handelt ...
+» Ich lese und lese … Und immer klarer wird mir da,
+daß es sich um dasselbe Häuschen handelt …
 
-Aber ich ſage Henriette und den Mädel3 nichts davon,
-denn ich hatte ihnen ja auch mein Abenteuer verſchwiegen,
+Aber ich sage Henriette und den Mädels nichts davon,
+denn ich hatte ihnen ja auch mein Abenteuer verschwiegen,
 <@pagebreak/>
-DSSSSSSSSSSS 6 DSSSSSSSSSSS
+außerdem für diesen Abend Karten für die Skala besorgt,
+für das Värieteetheater …
 
-außerdem für dieſen Abend Karten für die Skala beſorgt,
-für das Värieteetheater .
+Trotzdem ließ mir die Geschichte keine Ruhe. Ich
+wußte, daß der Chikagoer zu Hause war. Ging also zu
+ihm seinem …
 
-Trotzdem ließ mir die Geſchichte keine Ruhe. I<
-wußte, daß der Chikagoer zu Hauſe war. Ging alſo zu
-ihm heinein ...
-
-Und -- das war, unter uns geſagt, eine ungeheure
+Und — das war, unter uns gesagt, eine ungeheure
 Dummheit.
 
-: I< wollte mal prüfen, ob er verlegen werden würde,
+Ich wollte mal prüfen, ob er verlegen werden würde,
 wenn ich ihm erzählte, daß ich ihn in der Nacht mit einem
-Vaket das Haus habe verlaſſen ſehen ...
+Paket das Haus habe verlassen sehen …
 
-Longfield ſpricht perſekt deutſch. ,
+Longfield spricht perfekt deutsch.
 
-Aber -- verlegen wurde er nicht ... Meinte nur, er
-ſei allerdings noch au38gegangen ... Er habe einem Beo»
-kannten etwas gebracht .
+Aber — verlegen wurde er nicht … Meinte nur, er
+sei allerdings noch ausgegangen … Er habe einem verlangten
+etwas gebracht …
 
-: Wir redeten vann noh eine Weile von anderen Din-
-'gen ... J< verabſchiedete mich.
+Wir redeten dann noch eine Weile von anderen Dingen
+… Ich verabschiedete mich.
 
-In der Skala war's ſehr nett. Weniger nett war's
-am nächſten Vormittag, denn da ten wir feſt, daß Long-
-field ſamt ſeinen Koſiern . .. perduftet war . .. Keine Zeile
-Hatte er zurücgelaſſen -- nur die Miete für Juni.
+In der Skala war’s sehr nett. Weniger nett war’s
+am nächsten Vormittag, denn da ten wir fest, daß Longfield
+samt seinen Koffern … verduftet war … Keine Zeile
+Hatte er zurückgelassen — nur die Miete für Juni.
 
-(Wera heulte .
+(Wera heulte …
 
-.: Und da ging mir ein Licht auf: ſie hatte ſich in den
-Chikagoer vergaſſt!
+Und da ging mir ein Licht auf: sie hatte sich in den
+Chikagoer verpaßt!
 
-Weil ſie nun ſo unglüsäklig war, machte ih mich der
+Weil sie nun so unglüsäklig war, machte ich mich der
 
-zweiten Dämlichkeit ſchuldig: ich meldete der Polizei nichts
-von dem, wa3 ich beobachtet Hatte. Am fünften reiſte ich
-nach meiner Klitſche zurück . --“ Wera war noc< immer
-„die geknicte Lilie .
-Und jetzt das Neueſte: geftern, am ſiebenten Mäi, war
-ih in Sellin ... Da bogegnet mir ein Menſ<<h, der mir
-recht bekannt vorkommt“ ... Erſt al3 er vorüber iſt, fällt
-mir ein: e3 war der T5i!?agoer! Freilich jeht mit blondem
-Vollbart. Aber daß er's war, ging ſchon daraus hervor,
-. daß ich ihn nicht mehr erwiſchte. I< hatte Kehrt gemacht,
-Wu ihn im im Walde verſHwinden ... Er lief --- -- kniſſ
-“au
+zweiten Dämlichkeit schuldig: ich meldete der Polizei nichts
+von dem, was ich beobachtet Hatte. Am fünften reiste ich
+nach meiner Klitsche zurück … —« Wera war noch immer
+»die geknickte Lilie …
+Und jetzt das Neueste: gestern, am siebenten Mai, war
+ich in Sellin … Da begegnet mir ein Mensch, der mir
+recht bekannt vorkommt« … Erst als er vorüber ist, fällt
+mir ein: es war der T5i!?Räder! Freilich jetzt mit blondem
+Vollbart. Aber daß er’s war, ging schon daraus hervor,
+… daß ich ihn nicht mehr erwischte. Ich hatte Kehrt gemacht,
+Du ihn im im Walde verschwinden … Er lief — — kniff
+»zu
+
 <@pagebreak/>
-DSSDSDISSIOSSIOIOSOSOS 7 202020 E0E0020E0000
+Das wäre alles, Herr Harst.
 
-Das wäre alles, Herr Harſt.
+Sie werden ja wohl gelesen haben, daß man die Persönlichkeit
+des Ermordeten aus der Müllerstraße bisher
+nicht festgestellt und nichts über den Täter ermittelt hat …
 
-Sie werden ja wohl geleſen haben, daß man die Per-
-ſönlichkeit des Ermordeten aus der Müllerſtraße biSsher
-nicht feſigeſtellt und nichts über den Täter ermittelt hat ...
+Nochmals: ich lade Sie beide zu mir ein! Ihnen
+wird es fraglos gelingen, Longfield hier zu ermitteln. Ich
+möchte die Sache aufgeklärt haben, denn Henriette schreibt
+mir heute, daß Wera geradezu da hinsieht. Jch4 werde das
+Mädel nun zu mir nehmen und sie wieder zu Vernunft und
+Kräften bringen.
 
-Noc<mal5: id lade Sie beide zu mir ein! Jhnen
-wird es fraglos gelingen, Longſield hier zu ermitteln. J<
-möchte die Sache aufgeklärt haben, denn Henriette ſchreibt
-mir heute, daß Wera geradezu dahinſieht. J<4 werde das
-Mädel nun zu mir nehmen und fie wieder zu Vernunſt und
-Kräſten bringen.
+Ihr sehr ergebener
+in Eugen v. Platen.
 
-Ihr ſehr ergebener
-Sn Eugen v. Platen.
+<h2>9. Kapitel.</h2>
+<h3>Der zweite Tote.</h3>
 
-9. Kapitel.
-Der zweite Tote.
+Stettiner Bahnhof Berlin … Seitenausgang … In
+der Halle ungeheure Menschenmassen … Dazu eine Südlichste,
+die schier beängstigend war …
 
-Stettiner Bahnhof Berlin ... Ferienanfſang ... In
-der Halle ungeheure Menſchenmaſjen . .. Dazu eine Jutli-
-hitze, die ſchier beängſtigend war ...
+Wir beide hatten uns rechtzeitig Platzkarten besorgt.
+Wir brauchten nicht zu fürchten stehen zu müssen. Unsere
+Koffer hatten wir bereits gestern aufgeben lassen.
 
-Wir beide hatten uns rechtzeitig Platzkarten beſorgt.
-Wir brauchten nicht zu fürchten ſtehen zu müſſen. Unſere
-'Koſfer hatten wir bereits geſtern aufgzben laſſen.
+Und doch, als wir unseren Wagen zweiter Klasse und
+unser Abteil gefunden hatten, waren unsere Fensterplätze
+von zwei Herren besetzt, die in keiner Weise sich überzeugen
+ließen, daß die Plätze uns gehörten …
 
-Und doch, als wir unſeren Wagen zweiter Klaſſe und
-unſer Abteil geſunden hatten, waren unſere Jenſterpläte
-von zwei Herren beſeßt, die in keiner Veiſe ſich überzeugen
-ließen, daß die Plätze uns gehörten .
+Harald blieb durchaus höflich …
 
-Harald blieb durchaus höflich .
+»Dann muß ich l2ider der Schaffner holen,« eine
+er zu den beiden Ausländern, die nur recht gebrochen
+deutsch; sprachen, dafür aber um so Ziegelkasten auftraten.
 
-„Dann muß ich l2ider det Schaffner holen,“ eiae
-er zu den beiden Auslänvern, die nur recht gebrochen
-deutſ<; ſprachen, dafür aber um ſo ſlegelhafter auftraten.
+Der Schaffner kam … prüfte unsere Platzkarten und
+gab uns recht …
 
-Der Schaffner kam ... prüfte unſere Platzkarten und
-gab uns recht .
-
-Die beiden Flegel blieben ſien ... - Machten ſogar
+Die beiden Flegel blieben hier … — Machten sogar
 <@pagebreak/>
-2dSSDSSSDDEOSLOOLOS0 Z BS02SOD0SI0EOSSB0ES020D
+noch allerhand Bemerkungen, die von den Übrigen Insassen
+des Abteils ebenso deutlich verstanden wurden.
 
-no< allerhand Bemerkungen, die von den Übrigen Inſaſſen
-des Abteils ebenſo deutlich verſtanden wurden.
+Der Schaffner wußte Eiche keinen Rat … Holte den
+Zugführer …
 
-Der Schaffner wußte ſi<O keinen Rat ... Holte den
-Zugführer .
+(As Inzwischen hatte der Zug den Bahnhof längst verlassen
+…
 
-(af Inzwiſchen hatte der Zug den Bahnhof längſt ver-
-aſſen .
+Es folgte ein sehr erregter Auftritt zwischen den Beamten
+und den beiden ebenso anmaßenden wie höhnischen
+Ausländern. Es waren zwei Portugiesen, und erst als der
 
-Es folgte ein ſehr erregter Auftritt zwiſchen den Be-
-amten und den beiden ebenſo anmaßenden wie höhniſchen
-Ausländern. Cs waren zwei Portugieſen, und erſt als der
+nasführen Gewalt anzuwenden drohte, verließen sie das
+Abteil und nahmen auch ihr Gepäck mit in den bereits
+überfüllten Gang, während wir nun endlich unsere rechtmäßigen
+Plätze einnehmen konnten …
+ir …
 
-ugſführer Gewalt anzuwenden drohte, verließen ſie das
-bteil und nahmen auch ihr Gepä> mit in den bereits
-überfüllten Gang, während wir nun endlich unſere recht-
-mäßigen Plätze einnehmen konnten ...
-ir...
+Das heißt: nicht Harst und Schraut!
 
-Das heißt: nicht Harſt und Schraut!
+Nein, wir hatten für die Reise nach Sellinhof zweckentsprechend
+Maske gemacht. Wir waren blondbärtige,
+sonngebräunte Agrarier geworden. Die blonden Vollbärte
+freilich waren Kunst. Die Sonnenbräune echt, denn die
+Rückfahrt von Indien hatte uns zu einer dauerhaften Gesichtspatina
+verholfen …—
 
-Nein, wir hatten für die Reiſe nac Sellinhof zwed>-
-entſprec<end Maske gemacht. Wir waren blondbärtige,
-ſonngebräunte Agrarier geworden. Die blonden Vollbärte
-freilich waren Kunſt. Die Sonnenbräune eht, denn die
-Rückfahrt von Indien hatte un3 zu einer dauerhaften Ge-
-ſichts8patina verholfen . ..-=-
+Unser Abschied von Bawalar und den dortigen Freunden
+war sehr herzlich gewesen.
 
-Unſer Abſchied von Bawalar und den dortigen Freun-
-den war ſehr herzlich geweſen.
+Nicht etwa, daß uns der Brief des Herrn Eugen von
 
-Nicht etwa, daß uns der Brief de8 Herrn Eugen von
+Platen (der Mann mußte offenbar ein Original sein) zu
+dieser Abreise bestimmt hatte.
+Nein — wir hatten uns lange genug in der Fremde
+aufgehalten und empfanden Sehnsucht nach der deutschen
+Heimat und nach unserem gemütlichen alten Harstschen
+Familienhause.
 
-Platen (der Mann mußte oſſenbar ein Original ſein) zu
-dieſer Abreiſe beſtimmt hatte.
-Nein --- wir hatten un3 lange genug in der Fremde
-aufgehalten und empfanden Sehnſucht nach der deutſchen
-Heimat und nach unſerem gemütlichen alten Harſtſchen
-Familienhauſe.
-
-Am dritten Juli waren wir in Berlin eingetrofſen.
-Am vierten rief Harald Herrn von Platen telephoniſch an
-und vereinbarte mit ihm, in welcher Weiſe wir in Sellin-
-hof auftauchen ſollten. Herr von Platen hatte ſofort er-
-klärt, er lege auf unſeren Beſuch nach wie vor da3 größte
-Gewicht, da inzwiſchen ſic abermals mancherlei ereignet
+Am dritten Juli waren wir in Berlin eingetroffen.
+Am vierten rief Harald Herrn von Platen telephonisch an
+und vereinbarte mit ihm, in welcher Weise wir in Sellinhof
+auftauchen sollten. Herr von Platen hatte sofort erklärt,
+er lege auf unseren Besuch nach wie vor das größte
+Gewicht, da inzwischen sich abermals mancherlei ereignet
 <@pagebreak/>
-DSSSDSSIOSOFSBSSOSI00 9 DESOODOESSESEGOIO00
+habe, was er uns besser persönlich mitteilen wolle. Er
+versprach, unser Inkognito aus strengste zu wahren und
+flocht noch ein, daß seine Nichte Wera von Platen noch auf
+dem Gute weile und zu den neuen Geschehnissen in etwas
+unklarer Beziehung stehe.
+So waren wir denn jetzt also unterwegs nach Sellinhof
+…
+Und was in unserem Abteil zweiter Klasse geschah,
+habe ich bereits erwähnt …
 
-habe, wa3 er uns bejſer perſonliHh mitteilen wolle. Er
-verſprach, unſer Inkognito auſs ſtrengſte zu wahren und
-flo<t noh ein, daß ſeine Nichte Wera von Platen nod) auf
-dem Gute weile und zu den neuen Geſchehniſſen in etwas
-unklarer Beziehung ſtehe.
-h ; So waren wir denn jetzt alſo unterwegs nah Sellin»
-of... . .
-Und wa3 in unſerem Abteil zweiter Klaſſe geſchab,
-habe iH bereits erwähnt ...
+Ich hätte es nicht erwähnt, wenn es nicht in merk-wirdiger
+Weise den Gang der »Ereignisse beeinflußt haben
+würde. — …
 
-Ic<h hätte e3 nicht erwähnt, wenn es nicht in merk-
-wirdiger Weiſe den Gang der „Sreignilie beeinflußt haben
-würde. --- .
+Der Rest der Fahrt verlief ohne weiteren Zwischenfall.
+Wir kümmerten uns um die beiden Portugiesen nicht weiter,
+und nur eines fiel mir auf: sie stiegen ebenfalls in Serum
+aus.
 
-Der Reſt der Fahrt verlief ohne weiteren Zwiſchenfall.
-Wir kümnterten uns um die beiden Portugieſen nit wei-
-ter, und nur eines fiel mir auf: ſie ſtiegen ebenfalls in Sel-
-'.Ün aus.
+Ein Jagdwagen Herrn von Platens erwartete uns
+am Bahnhof. Ein Diener brachte unser Gepäck in den
+Wagen, und derweil konnten wir uns mit dem »Original«
+ein wenig ungesunden.
 
-Ein Jagdwagen Herrn von Platens8 erwartete uns
-am Bahnhof. Ein Diener brachte unſer Gepä> in den
-Wagen, und derweil konnten wir un3 mit dem „Original“
-ein wenig anſreunden.
+Herr von Platen hatte nämlich seine »alten Bekannten«
+persönlich abgeholt …
 
-Herr von Platen hatte nämlich ſeine „alten Bekann-
-'ten“ perſönlic< abgeholt .
-
-Ein kleiner, magerer Herr mit dürren Sichelbeinen ..
+Ein kleiner, magerer Herr mit dürren Sichelbeinen …
 In einem braunroten Vogelgefihbt ein Paar vergnügte
-Aeuglein und eine meſſerſcharfe Hakennaſe, unter der ein
-Ga ſtruppiger S<hnurrbart kampfluſtig ſich empotr-
+Äuglein und eine messerscharfe Hakennase, unter der ein
+ja struppiger Schnurrbart kampflustig sich empört
 
-äubte .
+betäubte …
 
-- „Freut mich, daß Sie da ſind,“ hatte er un3 begrüßt,
-und ſein Händedru> bewie8, daß er MusSkeln beſaß ...-
-„Sie heißen alſo Hartemer und SHra>k ---- damit ic's nicht
-vergeſſe .
+— »Freut mich, daß Sie da sind,« hatte er uns begrüßt,
+und sein Händedruck bewies, daß er Muskeln besaß …-
+»Sie heißen also Hartemer und Frack — damit ich’s nicht
+vergesse …
 
-Er lachte verſchmißtt .
+Er lachte verschmitzt …
 
-„Habe hier den Nachbarn: ſchon erzählt, daß ih Beſuch
-bekomme -- Kollegen, die leider während der Inſlation
-verfauſt haben ... -- Auf mich iſt Verlaß, meine Herren . . .
-I<H werde mich nicht verplappern ...“
+»Habe hier den Nachbarn: schon erzählt, daß ich Besuch
+bekomme — Kollegen, die leider während der Inflation
+verkauft haben … — Auf mich ist Verlaß, meine Herren …
+Ich werde mich nicht verplappern …«
+
 <@pagebreak/>
-DE00020202200202020 |) D0020002020200
+Wir standen vor dem Bahnhof neben dem Wagen …
 
-Wir ftanden vor dem Bahnhof neben dem Wagen ...
+Harald hatte die Augen auf den Schwarm neuer Badegäste
+gerichtet, die sich jetzt langsam nach dem Badeorte zu
+in Bewegung setzten …
 
-Harald hatte die Augen auf den Shwarm neuer Bade-
-gäſte gerichtet, die ſich jet langſam nach dem Badeorte zu
-in Bewegung ſetzten ...
+Sagte plötzlich:
 
-Sagte plößlich:
+»Herr von Platen, Sie werden hier rosa etwas warten
+müssen … Ich möchte noch etwas 5 erledigen … Freund
+Schenkel leistet Ihnen Gesellschaft …«
 
-„Herr von Platen, Sie werden hier noßg etwas warten
-müſſen . .. I< mödte noh etwas 5 erledigen ... JTreund
-SHhrak> leiſtet Ihnen Geſellſchaſt ...“
+Und — weg war er …
 
-Und --- weg war er ...
+Wir schauten ihm nach, wie er mit seiner Reisetasche
+und seinem Gummimantel gemächlich davon schlenderte
 
-Wir ſchauten ihm nach, wie er mit ſeiner Reiſetaſche
-und ſeinem Gummimantel gemächlih davonſchlenderte
+»da — was hat er?!« fragte Platen mich verblüfft …
 
-„va -- was hat er?!“ fragte Platen mich verblüſſt...
+Ich konnte nur die Achseln zucken … »Weiß nicht,
+Herr von Platen … Bei Harst — Pardon — bei Hartemer
+muß man sich schon an Extratouren gewöhnen … Übrigens:
+lassen wir unter uns die »Anrede »Herr« weg …
+Wir sind ja … alte Bekannte …
 
-Ih konnte nur die Achſeln zu>ken ... „Weiß nicht,
-Herr von Platen ... Bei Harſt -- pardon -- bei Hartemer
-muß man ſich ſchon an Extratouren gewöhnen ... Uebri-
-gens: laſſen wir unter un5 die „Anrede „Herr“ weg ...
-Wir ſind ja ... alte Bekannte .
+»Stimmt — uralte!! Und das ist nicht mal gelogen,
+lieber Schrack … Denn ich bin seit Jahren eifriger Leser
+Ihrer Abenteuer, habe mich Ihrer Büchlein wegen sogar
+mal mit meinem nächsten—Nachbar böse in die Haare gekriegt
+… Der sah eines der Bändchen bei mir liegen,
+meinte, das sei:Schund — wie ich nur daran Gefallen finden
+könnte … Der Herr ist nämlich ein grundgelehrtes
+Huhn, so ’ne Art Philosoph, aber ein miserabler Landwirt
+… Na, ich fuhr ihm gründlich in die Parade, erwiderte,
+daß nach des Tages Müh’ und Morgen ich und
+Millionen anderer kaum Luft hätten, uns an sogenannter
+»guter« Lektüre zu »erbauen« … Denn diese gute Lektüre
+ist zumeist nur für Auserwählte und Wagnis langweilig …
+— Das so nebenbei bemerkt … — Was, glauben Sie wohl,
+Hat Hartemer vor?« …
 
-„Stimmt --- uralte!! Und das iſt nicht mal gelogen,
-lieber Schrack ... Denn i<h bin ſeit Jahren eifriger Leſer
-Ihrer Abenteuer, habe mich Ihrer Büchlein wegen ſogar
-mal mit meinem nächſten--Nac<bar böſe in die Haare ge-
-kriegt ... Der ſah eines der Bändchen bei mir liegen,
-meinte, das ſei :Schund --- wie ich nur daran Gefallen fin-
-den fönnte ... Der Herr iſt nämlic< ein grundgelehrtes
-Huhn, ſo 'ne Art Philoſovh, aber ein miſerabler Land-
-wirt... Na, ich ſuhr ihm gründlich in die Parade, er-
-widerte, daß nach des Tages Müh' und Aerger ich und
-Millionen anderer kaum Luſt hätten, uns an ſogenannter
-„Outer“ Lektüre zu „erbauen“ ... Denn dieſe gute Lektüre
-iſt zumeiſt nur für Auserwählte und bannig langweilig ...
--- Das ſo nebenbei bemerkt . . . -- Was, glauben Sie wohl,
-Hat Hartemer vor?“ .
+»Ich sagte ja schon: keine Ahnung! Aber ohne Zweifel
+will er irgendeinem Menschen, der ihm im Zuge irgendwie
+ausgefallen ist, heimlich folgen …«
 
-„I< ſagte ja ſchon: keine Ahnung! Aber ohne Zweifel
-will er irgendeinem Menſc<en, der ihm im Zuge irgendwie
-auſgefallen iſt, heimlich folgen ...“
+Da erst gedachte ich der beiden Portugiesen …«.
 
-Da erſt gedachte ich der beiden Portugieſen ..“.
 <@pagebreak/>
-220202202020 222 11 2200000000 0&
+Ob Harald es etwa auf diese beiden abgesehen hatte?!
 
-Ob Harald es etwa auf dieſe beiden abgeſehen hatte?!
+Während der Diener nun unser Gepäck im Wagen verstaute
+und während Platen und ich hin und her gingen, erzählte
+ich dem alten Herrn, was wir im Abteil des D-Zuges
+erlebt hatten …
 
-Während der Diener nun unſer Gepä> im Wagen ver-
-ſtaute und während Platen und ich hin und her gingen, er-
-zählte ich dem alten Herrn, was wir im Abteil des D-Zuges
-erlebt hatten ...
+»»—. Der Zugführer hat die Personalien der beiden
+Portugiesen festgestellt,« fügte ich hinzu … »Sie hießen
+Otero und Largetto und studieren in Berlin Medizin …«
 
-„»--. Der Zugführer hat die Perſonalien der beiden
-Portugieſen feſtgeſtellt,“ fügte ich hinzu ... „Sie hießen
-Otero und Largetto und ſtudieren in Berlin Medizin ...“
+Platen war mit einem Ruck stehen geblieben … starrte
 
-Platen war mit einem Ruck ſtehen geblieben ... ſtarrte
+an …
+»Verflucht!« entfuhr es ihm … »Die Namen kenne
+ich, lieber Schrack …«
 
-an ...
-„Verſlucht!“ entfuhr es ihm ... „Die Namen kenne
-ich, lieber Schra> ...“
+»Woher?« …
 
-„Woher?“ . .
+»Das hängt mit den neuen Ereignissen zusammen …
+Ich werde Ihnen und Hartemer nachher alles sein säuberlich
+erzählen und ich garantiere dafür: Sie werden
+staunen!«
 
-„Das hängt mit den neuen Ereigniſſen zuſammen ...
-Ic< werde Ihnen und Hartemer nachher alles fein ſäuber-
-lih erzählen und ich garantiere dafür: Sie werden
-ſtaunen!“
+»Sie machen mich neugierig …«
 
-„Sie machen mich neugierig ...“
+»Oh — und Sie werden auf Ihre Rechnung kommen,
+Verehrtester …!«
 
-„Oh -- und Sie werden auf Ihre Rechnung kommen,
-Verehrteſter ...!“
+»Bitte — spannen Sie mich nicht auf die Folter …«
 
-„Zitte --- ſpannen Sie mich nicht auf die Folter ...“
+»Na — gut … Hören Sie also … — Sie sind doch
+Raucher — bitte … Stecken wir uns mal zunächst eine
+Giftnudel an … Der Arzt hat es mir zwar verboten, aber
+— das ist Quatsch … — Also — — ich beginne … Ich
+schrieb Ihnen, daß der Kerl, der Chikagoer, mir in Sellin
+durch die Lappen ging … Ich fuhr nun häufiger nach
+Sellin … Ist nur ’ne halbe Stunde für Grotte Gäule …
+Und meine Gäule sind keine Droschkenschinder … — Also
+häufiger nach Sellin … Wollte doch mal versuchen, ob
+ich den Kerl nicht wieder zu Gesicht kriegte — den Maste
+Harry Longfield … Inzwischen war meine Nichte Auge
+langt — blaß, matt, — leidende Madonna — Liebesschmerz
+— — und daß wegen dieses fragwürdigen Burschen!
+— Ich hatte mich natürlich gehütet, Wera zu erzählen,
+daß der Lump sich hier in der Nähe herumdrückte …
 
-„Na - aut ... Hören Sie alſo ... -- Sie ſind doch
-Raucher -- bitte ... Stec>en wir uns mal zunächſt eine
-Giſtnudel an ... Der Arzt hat es mir zwar verboten, aber
--- das iſt Quatſch ... -- Alſo -- --- ich beginne ... I<
-ſchrieb Ihnen, daß der Kerl, der Chikagoer, mir in Sellin
-durch die Lappen ging ... I< fuhr nun häufiger nach
-Sellin ... Iſt nur 'ne halbe Stunde für ſlotte Gäule ...
-Und meine Gäule ſind keine Droſchkenſchinder ... --- Alſo
-häufiger nach Sellin ... Wollte doch mal verſuchen, ob
-ich den Kerl nicht wieder zu Geſicht kriegte --- den Maſte
-Harry Longfield ... Inzwiſchen war meine Nichte ange
-langt --- blaß, matt, --- leidende Madonna -- Liebe8-
-ſc<merz -- -- und da8 wegen dieſe8 fragwürdigen Bur-
-ſchen! --- Ih hatte mich natürlich gehütet, Wera zu erzäh-
-len, daß der Lump ſich hier in ver Nähe herumdrückte ...
+mich
 
-mid)
 <@pagebreak/>
-22220220202202202 19 0002020202000 0202D
+Wera begleitete mich nun mal … Und wie wir so oben
+am Rande der Steilküste im Strandhotel hier und Kaffee
+trinken, da springt sie plötzlich vom Stuhl empor und rennt
+auf die Straße — ist futsch … Ich denke, sie hat eine Bekannte
+aus Berlin vielleicht bemerkt … Aber — es kam
+anders … Sie kam nämlich ganz vertattert an unseren
+Tisch zurück… fiel in den Stuhl und begann zu heulen … —
+Schrack, mir ist nun nichts gräßlicher, als weinende ’Wei-
+der … Sehen Sie, deshalb habe ich nicht geheiratet: weil
+alle Weiber mal flennen!! — Nun — nach längerem zufrieden
+wurde Wera wieder vernünftig … Aber weshalb-sie
+davonrannte und dann heulte, habe im bis auf den heutiger!
+Tag mit Sicherheit nicht herausbekommen, nehme aber.
+an, daß sie draußen auf der Straße den Chikagoer erkannt
+hat, was auch wohl stimmen wird, denn — der Kerl ist
+noch immer hier, lieber Schrack! Und das erfuhr ich ganz
+zufällig … « vierzehn Tage später -«- und dann vorgestern
+wieder …
+Er »formte erregt dicke Wolken …
 
-Wera begleitete mich nun mal ... Und wie wir ſo oben
-am Rande der Steilküſte im Strandhotel ſien und Kaffee
-trinken, da ſpringt ſie plötzlich vom Stuhl empor und rennt
-auf die Straße --- iſt ſutſc< ... J< denke, ſie hat eine Be-
-kannte aus Berlin vielleicht bemerkt ... Aber -- es kam
-anders ,.. Sie kam nämlich ganz vertattert an unferen
-Tiſch zurü>., fiel in den Stuhl und begann zu heulen ... --
-Schra>, mir iſt nun nicht8 gräßlicher, als weinende 'Wei-
-ber ... Sehen Sie, de8halb habe ich nicht geheiratet: weil
-alle Weiber mal flennen!! -- Nun --- nach längerem Zuit-
-reden wurde Wera wieder vernünftig . Aber weshalb-
-ſie davonrannte und dann heulte, habe im bi3 auf den heuti-
-gert Tag mit Sicherheit nicht herausSbekommen, nehme aber.
-aan, daß ſie draußen auf der Straße den Chikagoer erkannt
-hat, wa3 auch wohl ſtimmen wird, denn --- der Kerl iſt
-noh immer hier, lieber Schra>! Und da3 erfuhr ich ganz
-zufällig . » vierzehn Tage ſpäter -“- und dann vorgeſtern
-wieder .
-Er "Salmie erregt dicke Wolken .
-
-- „Die Geſchi<hte war ſo -. I< wunderte mich, daß
-Wera ſich auf Sellinhof mite einem Male überraſchend ſchnell
-echolte. Sie wurde jeden Tag ſfideler, war viel unterwegs
---- ſie reitet tadellos, aß immer waderer, ſpielte mir abend8
-Klavier vor und jang allerlei Lieder ... -- Nun --- man
-hat do<h nicht gerad? ein Brett vor der Stirn! Die Sache
+— »Die Geschichte war so -. Ich wunderte mich, daß
+Wera sich auf Sellinhof Alte einem Male überraschend schnell
+erholte. Sie wurde jeden Tag sicherer, war viel unterwegs
+— sie reitet tadellos, aß immer anderer, spielte mir abends
+Klavier vor und lang allerlei Lieder … — Nun — man
+hat doch nicht gerät? ein Brett vor der Stirn! Die Sache
 kam mir verdächtig vor. Das Mädel war in vierzehn Tagen
-eine andere geworden, hatte blanke Augen und ſchien ihren
-Liebesſchmerz total vergeſſen zu haben ... --- Nun -- ich
-wollte ihr ſchon hinter ihre Schliche kommen .... - Als ſie
-eines Nachmittag8 wi?der auSsritt, lauerte ich ihr auf ...
-war ebenfalls zu Pf-1>2 ... Und als alter Jäger folgte ich
-Ihr denn auch von weruiem, hatte mein Fernglas mit .
-„Erſt ritt ſie nach der Se? zu. ' Dann bog ſie links ab -- hin-
-ein in den Buchenwald ... Da war's ſchon ſchwerer, ſie
-nicht aus den Augen zu verlieren ... Und ſo kamen wir
-denn ſchließlich in die äußerſte Norde>ke meines Gutes, wo
+eine andere geworden, hatte blanke Augen und schien ihren
+Liebesschmerz total vergessen zu haben … — Nun — ich
+wollte ihr schon hinter ihre Schliche kommen … — Als sie
+eines Nachmittags wi?der Fußtritt, lauerte ich ihr auf …
+war ebenfalls zu gleich? … Und als alter Jäger folgte ich
+Ihr denn auch von Leuten, hatte mein Fernglas mit …
+»Erst ritt sie nach der je? zu. ’ Dann bog sie links ab — hinein
+in den Buchenwald … Da war’s schon schwerer, sie
+nicht aus den Augen zu verlieren … Und so kamen wir
+denn schließlich in die äußerste Nordecke meines Gutes, wo
 <@pagebreak/>
-2202202020200 220802 13 200000 SEC005S500
+auf einer großen Lichtung die Ruinen der alten Schwedenfeste
+Sellin unter Unkraut und Buschwerk begraben sind …
+Sie wissen ja, lieber Schrack, daß Rügen und Verrammeln
+einst den Schweden gehörte …«
 
-auf einer großen Lichtung die Nuinen der alten Shweden-
-ſeſte Sellin unter Unkraut und Buſchwerk begraben ſind ...
-Sie wiſſen ja, lieber Schra>, daß Nügen und Vorpom-
-mern einſt den Schweden gehörte ...“
+Hier mußte Herr von Platen seine Schilderung unterbrechen,
+denn Harald tauchte wieder auf, trat zu uns und
+meinte, jetzt konnten wir aufbrechen …
 
-Hier mußte Herr von Platen ſeine Schilderung un-
-terbrechen, denn Harald tauchte wieder auf, trat zu uns und
-meinte, jetzt konnten wir aufbrechen ...
+Platen zwinkerte ihm zu …
 
-Platen zwinkerte ihm zu ...
+»Na, wo sind die beiden Portugiesen geblieben, Hartemer?!«
 
-„Na, wo ſind die beiden Portugieſen geblieben, Har-
-temer ?!“
+Harald blickte mich an …
 
-Harald blikte mich an ...
+»Schrack hat also schon seine Weisheit ausgekramt …
+Schadet Richter«
 
-„Sc<hra> hat alſo ſchon ſeine WeiSöheit ausgekramt...
-Schadet nicht31“
+Wir bestiegen den Jagdwagen … Der Diener mußte
+kutschieren …
 
-Wir beſtiegen den Jagdwagen ... Der Diener mußte
-kutſchieren ...
+Und Platen wiederholte nun daß, was ich bereits
+wußte, für Harald …
 
-Und Platen wiederholte nun da8, was ih bereits
-wußte, für Harald ...
+Dann beendete er seine Mitteilungen …
 
-Dann beendete er ſeine Mitteilungen ...
-
-„».. Ih band meinen Fuchs im Walde ſeſt und ſchlich
-dem Mädel zu Fuß nach ... Die war inzwiſchen durch die
-Büſche in den Hof der früheren Burg eingedrungen ... Cs
-iſt dies ein freier großer Platz, auf dem nur zwei Eichen
-ſtehen, außerdem Farnkräuter und hohes Gras ... Aber
--- ich hatte PeHh ... Al3 ich ſo etwa vier Minuten nach
+»»… Ich band meinen Fuchs im Walde fest und schlich
+dem Mädel zu Fuß nach … Die war inzwischen durch die
+Büsche in den Hof der früheren Burg eingedrungen … Es
+ist dies ein freier großer Platz, auf dem nur zwei Eichen
+stehen, außerdem Farnkräuter und hohes Gras … Aber
+— ich hatte Pech … als ich so etwa vier Minuten nach
 Wera mich der Ruine näherte, kam mir meine Diana, die
-ich ſonſt ſtet8 mitnehme, bellend nachgeraſt --- mit geriſſener
-Kette ... Natürlich war Wera nun gewarnt, und wie ich
-ſie dann zu Geſicht bekomme, ſitt ſie harmlos unter der
-einen Eiche und .. raucht eine Zigarette, ſpielt die Er-
-ſtaunte, freut ſich ſcheinbar unbändig über dieſes „zuſällige“
-Zuſammentreffen und heuchelt wie 'ne waſchehte Komo-
-diantin, die kleine blonde Kanaille! --- Nun: Eugen von
-Platen hat Augen im Schädel! Z< ſah unter der Eiche
-eine ganze Menge Zigarettenſtummel und auch in einem
-Maulwurfsbhügel den friſchen Abdru>k eines Männerſtiefels!
-== Wie Du mir, ſo i< Dir! dachte ich ... und ſpielte gleich»
+ich sonst stets mitnehme, bellend nachgejagt — mit gerissener
+Kette … Natürlich war Wera nun gewarnt, und wie ich
+sie dann zu Gesicht bekomme, sitzt sie harmlos unter der
+einen Eiche und … raucht eine Zigarette, spielt die Erstaunte,
+freut sich scheinbar unbändig über dieses »zufällige«
+Zusammentreffen und heuchelt wie ’ne waschechte Komödiantin,
+die kleine blonde Kanaille! — Nun: Eugen von
+Platen hat Augen im Schädel! Ich sah unter der Eiche
+eine ganze Menge Zigarettenstummel und auch in einem
+Maulwurfsbhügel den frischen Abdruck eines Männerstiefels!
+— Wie Du mir, so ich Dir! dachte ich … und spielte gleichfalls
 <@pagebreak/>
-2222020220220 14 2000202000220 222
+Komödie … Tat so, als ob ich nichts Moses vermutete,
+ritt mit Wera heim und … war am frühen Morgen
+wieder im Ruinenhof … Da sah ich denn noch mehr …
+Da waren ’ne Menge Spuren von Herrenstiefeln … Und
+die Zigarettenstummel stammten zumeist von denselben parfümierten
+Dingern, die der Chikagoer in Berlin geraucht
+hatte … C5 stimmte also: Wera und der Kerl hatten sich
+hier wiederholt, vielleicht gar jeden Tag, getroffen! — Ich
+überlegte nun, ob ich das Mädel dieserhalb zur Rede stellen
+sollte … Aber das hätte bei ihr wenig Zweck gehabt, denn
+sie daß so ’nen richtigen Platenschen Dickschädel! Die könnte
+man foltern, und sie würde nichts zugeben! Also hielt ich
+daß Maul und die Augen offen! Die Bande war jedoch
+noch schlauer: seitdem habe ich »nichts von heimlichen Zusammenkünften
+mehr gemerkt … Nur …
 
-ſal8 Komödie ... Tat ſo, al8 ob ic< nichts Arge5 ver-
-mutete, ritt mit Wera heim und ... war am frühen Morgen
-wieder im Ruinenhof ... Da ſah ich denn noh mehr ...
-Da waren 'ne Menge Spuren von Herrenſtiefeln ... Und
-die Zigarettenſtummel ſtammten zumeiſt von denſelben par-
-ſümierten Dingern, die der Chikagoer in Berlin gecaucht
-hatte ... C5 ſtimmte alſo: Wera und der Kerl hatten ſich
-hier wiederholt, vielleicht gar jeden Tag, getroſſen! -- I<
-überlegte nun, ob ig das Mädel dieſerhalb zur Rede ſtellen
-ſollie ... Aber das hätte bei ihr wenig Zwe> gehabt, denn
-ſie dat ſo 'nen richtigen Platenſchen Dickſchädel! Die könnte
-man foltern, und ſie würde nicht3 zugeben! Alſo hielt ich
-da8 Maul und die Augen offen! Die Bande war jedoch
-nod) ſchlauer: ſeitdem habe ich „nichts von heimlichen Zu-
-ſammenfünſten mehr gemerkt ... Nur ...
+Platen schwieg jäh …
 
-Platen ſchwieg jäb .
+Der Diener hatte die Pferde mit scharfem Ruck hinter
+einer Wegbiegung zum Stehen gebracht …
 
-Der Diener hatte die Pferde mit ſcharfem Ru> hinter
-einer Wegbiegung zum Stehen gebracht ...
+lies: »Ein Mensch — — Blut — — dort …!!«
 
-Rieſ: „Cin MenſFH -- -- Blut -- --- dort ...!!“
+Vor uns lag mitten auf dem staubigen Wege ein Mann
+auf dem Rüden …
 
-Vor un5 lag mitten auf dem ſtaubigen Wege ein Mann
-auf dem Rüden ...
+Eine klaffende Halswunde hatte Kragen, Weste und
+Oberhemd mit Blut durchtränkt …
 
-Eine klaffende Hal8wunde hatte Kragen, Weſte und
-Oberhemd mit Blut durchtränkt .
+<h2>3. Kapitel.</h2>
 
-3. Kapitel.
+<h3>Die zwölf Namen.</h3>
 
-Die zwölf Namen.
+Vier Stunden später …
 
-Vier Stunden ſpäter ...
+Aus dem herrlichen Sommernachmittag war ein regnerischer,
+windiger Abend geworden …
 
-Aus dem herrlichen Soömmernachmittag war ein regne-
-riſcher, windiger Abend geworden ...
+Wir saßen in der Diele des Herrenhauses von Sellinhof
+vor dem Kamin …
 
-Wir ſaßen in der Diele de8 Herrenhauſes von Sellin-
-hof vor dem Kamin ...
+Hinter der roten Glastür der Feuerung des wackeligen
+Kamine brannte eine elektrische Lampe und täuschte Winter-behaglichen
+vor.
 
-Hinter der roten Glastür der Feuerung de8 mädctigen
-Kamin3 brannte eine elektriſche Lampe und täuſchte Winter-
-LehagliGleit vor.
 <@pagebreak/>
-DSSSODSISEIHOO2D20S50 15 2000000500000
+Gegen die hohen Bogenfenster tauchte der erwirbt
+und schleuderte die Regentropfen wie harte Sandkörner
+gegen die Butzenscheiben.
 
-Gegen die hohen Bogenſenſter ſauchte ver Ceewinvd
-und ſ<lcuderte dte Negentropjen wie harte Sandkörner
-gegen die Butzenſcheiben.
-
-Zu Vieren ſaßen wir hier ... Um halb zehn waren
-wir vom Abendbrottiſch auſgeſtanden. Nun genoſſen wir
+Zu Vieren saßen wir hier … Um halb zehn waren
+wir vom Abendbrottisch ausgestanden. Nun genossen wir
 drei Herren Platens gute Zigarren, während die blonde
-Wera verträumt ihre Zigarette rauchte ...
+Wera verträumt ihre Zigarette rauchte …
 
-Wera von Platen ... Bis zum erſien April no<h Tipy-
-fräulein bei irgendeiner Firma ...
+Wera von Platen … Bis zum ersten April noch Tippfräulein
+bei irgendeiner Firma …
 
-E3 ſchien undenkbar, daß dieſe junge Dame, die den
-ganzen Scharm nachläſſiger Vornehmheit mit der geſell
-ſchaſtlihen Sicherheit der großen Dame in ſich vereinigte,
--- daß dieſe3 gertenſ<lanfe, dunkeläugige Mädchen mit
-dem ganz leicht blaſierten Zug um den jugendſriſch<en Mund
-jemal3 in einem Geſchäſtskontor ihre ſchlanken, ſeinen Fin-
-ger über die Tipptaſten hatte gleiten laſſen .
+Es schien undenkbar, daß diese junge Dame, die den
+ganzen Scharm nachlässiger Vornehmheit mit der Sessel
+schnellten Sicherheit der großen Dame in sich vereinigte,
+— daß dieses gertenschlanke, dunkeläugige Mädchen mit
+dem ganz leicht blasierten Zug um den jugendfrischen Mund
+jemals in einem Geschäftskontor ihre schlanken, seinen Finger
+über die Tipptasten hatte gleiten lassen …
 
-Keine Schönheit, dieſe junge Dame ... Nein -- mehr
-als das ... Schönheit iſt ſtet8 etwas, das Mutter Natur
-nah Willfür verteilt ... Nur wo Leben und Seele in
-einem ausdruck8vollen Frauenantlit von beſonderer Gigen-
-art ſich paart, wird ver Menſc<henkeniter dieſe Schönheit voll
+Keine Schönheit, diese junge Dame … Nein — mehr
+als das … Schönheit ist stets etwas, das Mutter Natur
+nach Willkür verteilt … Nur wo Leben und Seele in
+einem ausdrucksvollen Frauenantlitz von besonderer Eigenart
+sich paar!, wird der Menschenkenner diese Schönheit voll
 genießen.
 
-Harald und ich waren beide gleichmäßig überraſcht ge-
-weſen, als wir Wera von Platen kennen lernten ... Wir
-hatten un3 etwa ein Durchſchnitt8bild von ihr entworfen ...
+Harald und ich waren beide gleichmäßig überrascht gewesen,
+als wir Wera von Platen kennen lernten … Wir
+hatten uns etwa ein Durchschnitt8bild von ihr entworfen …
 
-Wera ſehen, das hieß auch begreifen, daß Eugen von
-Platen von „blonder Kanaille“ geſprochen hatte -- halb
-im Scherz, immerhin andeutend, daß ſeine Nichte eiti
-ſchwieriger Charakter ſei ...
+Wera sehen, das hieß auch begreifen, daß Eugen von
+Platen von »blonder Kanaille« gesprochen hatte — halb
+im Scherz, immerhin andeutend, daß seine Nichte ein
+schwieriger Charakter sei …
 
-Bei Tiſch war ſie lebhaft geweſen. Hatte e3 do) über-
-genug Geſprächsſtoff gegeben ...
+Bei Tisch war sie lebhaft gewesen. Hatte es da) übergenug
+Gesprächsstoff gegeben …
 
-Den Toten von der Landſtraße --- das Eintreſſen der
-Gerichtskommiſſion aus8 Putbus, die Tatſache, daß der Loie
-nichts in ſeinen Taſchen hatte, was über ſeine Perſon Auſ-
-ichluß geben konnte, und ſchließlich das Wichtigſte: daß un-
+Den Toten von der Landstraße — das Eintreffen der
+Gerichtskommission aus Putbus, die Tatsache, daß der Tote
+nichts in seinen Taschen hatte, was über seine Person Aufschluß
+geben konnte, und schließlich das Wichtigste: daß unzweifelhaft
 <@pagebreak/>
-2020002022020202 16 022002200200 0020
+ein Mord vorlag und die Tat selbst in völliges
+Dunkel gehüllt war …
 
-zweifelhaft ein Mord vorlag und die Tat ſelbſt in völliges
-Dunkel gehüllt war ...
-
-Bei Tiſch hatte ſie uns, die wir un3 um das Verbrechen
-nicht mehr gekümmert hatten, als dies zwei Gäſten Platens
-zukam, die ſelbſt einmal Agrarier geweſen, --- da hatte ſie
+Bei Tisch hatte sie uns, die wir uns um das Verbrechen
+nicht mehr gekümmert hatten, als dies zwei Gästen Platens
+zukam, die selbst einmal Agrarier gewesen, — da hatte sie
 unter ihren langen dunklen Wimpern hervor Harald und
-mich ſo und ſo oft ſeltſam prüfſend angeſchaut ...
+mich so und so oft seltsam prüfend angeschaut …
 
-Blicke, die mich etwas beunruhigt hatten ...
+Blicke, die mich etwas beunruhigt hatten …
 
-Und jetzt ſchien ſie müde und abgeſpannt zu ſein, lehnte
-in einem der hohen altertümlichen Polſterſeſſel und hörte
-zu, wie wir über Politik, Ernteausſihten und anderes
-ſprachen . .. |
+Und jetzt schien sie müde und abgespannt zu sein, lehnte
+in einem der hohen altertümlichen Polstersessel und hörte
+zu, wie wir über Politik, Ernteaussihten und anderes
+sprachen …
 
-Ich hatte nur einen Wunſch: daß ſie ſiH recht bald zu-,
-rückziehen möge, denn Platen war uns noh immer den
-Reſt ſeiner Neuigkeiten ſc<uldig ...
+Ich hatte nur einen Wunsch: daß sie sich recht bald zu-,
+zurückziehen möge, denn Platen war uns noch immer den
+Rest seiner Neuigkeiten schuldig …
 
-Aber --- ſie hielt aus ...
+Aber — sie hielt aus …
 
-Sie füllte unſere Likörgläſer ... nahm eine neue Ziga-
-reite .
+Sie füllte unsere Likörgläser … nahm eine neue Zigarette
+…
 
-Und wenn der Winv mit beſonderer Wucht die Fenſter
-traf, dann ... lächelte ſie .
+Und wenn der Wind mit besonderer Wucht die Fenster
+traf, dann … lächelte sie …
 
-Ein - ſeltſames Lächeln . .- So, als ob ſie ſich über das
-Unwetter draußen freute .
+Ein — seltsames Lächeln …- So, als ob sie sich über das
+Unwetter draußen freute …
 
-; „Ai Eugen von a ei aut ſeiner knarrenven Stimme
-agte:
+»As Eugen von per gut seiner knarrenden Stimme
+sagte:
 
-„Weißt Du, Deern, Du könnteſt nun eigentlich hübſch
-artig gute Nacht wünſchen ... Der Doktor aus Putbus
-hat Dir langes Aufbleiben Freng verboten -.. Denk an
-Deine Geſundheit, Deern . ,
+»Weißt Du, deren, Du könntest nun eigentlich hübsch
+artig gute Nacht wünschen … Der Doktor aus Putbus
+hat Dir langes Aufbleiben fertig verboten -… Werk an
+Deine Gesundheit, deren …
 
-Sie erhob ſich ſofort .
+Sie erhob sich sofort …
 
-Wir beide mit ihr ...
+Wir beide mit ihr …
 
-Sie reichte uns vie Hand ...
+Sie reichte uns die Hand …
 
-Platen küßte ſie auf die Stirn ...
+Platen küßte sie auf die Stirn …
 
-Dann waren wir allein . '
+Dann waren wir allein …
 
-„Endlich!“ ſeufzte Freund Eugen. Na --- hatte das
-Mädel Sitbſleiſch . Nun können wir beginney ...
-Kücken wir näher :fammen ...“
+»Endlich!« seufzte Freund Eugen. Na — hatte das
+Mädel Sitzfleisch … Nun können wir beginnen …
+Rücken wir näher:kommen …«
+
 <@pagebreak/>
-DSDSSSOSI0OSBSEDOO00 17 ODESSSGESESSSEOo92
+Indem knarrten auch schon die Pendeltüren, und Wera
+trat vom Flur her hastig ein …
 
-Indem knarrten auch ſchon die Rendeliüren, und Wera
-trat vom Flur her haſtig ein ...
+»Verzeihen die Herren … Ah habe mein Taschentuch
+liegen lassen …
 
-„Verzeihen die Herren . .. ZH habe mein Taſchentuch
-liegen laſſen .
+Und mit harmlosem Lächeln nahm sie es vom Sessel
+auf, nickte uns zu und schritt wieder hinaus …
 
-Und mit harmloſem Lächeln nahm ſie e3 vom Seſſel
-auf, nikte uns zu und ſchritt wieder hinaus ...
+Ich hatte das ganz bestimmte Gefühl, daß sie draußen
+gelauscht hatte …
 
-IH hatte das ganz beſtimmte Gefühl, daß ſie draußen
-gelauſcht hatte ...
+Und auch Freund Eugen traute dem Frieden offenbar
+nicht so ganz … Scheu blicke er Harald an, flüsterte:
 
-Und auh Freund Eugen traute dem Frieden offenbar
-nicht ſo ganz ... Scheu blicke er Harald an, ſlüſterie:
+»Verflucht — ich glaube, ich hätte … hätte meine
+Stimme etwas dämpfen können …!«
 
-„Berfluc<ht =“ iH glaube, ich hätte ... hätte meine
-Stimme etwas dämpfen könnew ...!“
+»Allerdings, Platen …! Allerdings —« ob auch das
+noch »Zweck gehabt, hätte, ist fraglich …
 
-„Allerdings, Platen ...! Allerdings --“ ob auc<h das
-noh "Zwe gehabt, hätte, iſt fraglich ..
+»Das heißt?!«
+»Das heißt, Fräulein Wera scheint. Ihren »alten Bekannten«
+mit einigen Zweifeln gegenüberzutreten … Ich
 
-„Das heißt?!“
-„Das heißt, Fräulein Wera ſcheint. Ihren „alten Be-
-kannten“ mit einigen Zweifeln gegenüberzutreten ... I<
+Chiffre el eben, daß sie an Hartemer. und Schrack nicht recht
+glaubt …
 
-fre el eben, daß ſie an Hartemer. und Schrad> nicht recht
-glaubt .
+»Oho UnmögliO!! Ich …
 
-"Oho UnmögliO!! Ic< ...
+»Lassen wir das, Platen … »ebenfalls wird Fräulein
+Wera jetzt nicht mehr Lauscherin spielen … Und daher:
+beginnen wir! Zunächst — erzählen Sie zu Ende … Sie
+waren soweit gekommen, daß …-.«
 
-„Läſſen wir das, Platen ... "ebenfals wird Fräu-
-fein Wera jeht nicht mehr Lauſcherin ſpielen . . . Und daher:
-beginnen wir! Zunächſt -- erzählen Sie zu Ende ... Sie
-waren ſoweit gekommen, daß ..-.“
+»Ich weiß, — als letztes erwähnte 14, daß keine Zusammenkünfte
+mehr stattfanden … Wenigstens war e?
+mir nicht möglich, das Pärchen zu Überraschen … Wera
+war eben vorsichtig geworden … Sie ist ein schlauer
+Racker … Aber so ganz zu betrügen ist Eugen von Platen
+denn doch nicht …! Nein, ich merkte recht gut, daß um mit
+her Dinge geschahen, die das Taugeslicgt zu scheuen bald
 
-„I< weiß, --- al3 letztes erwähnte 14, daß keine Zu-
-ſammenkünfte mehr ſtattfanden ... Wenigſtens war e2
-mir nicht möglich, das Pärchen zu Überraſchen ... Wera
-war eben vorſichtig geworden ... Sie iſt ein ſchlauer
-Racker ... Aber ſo ganz zu betrügen iſt Cugen von Platen
-denn doh nicht .. .! Nein, ich merkte recht gut, daß um miH
-her Dinge geſchahen, die da3 Taugeslicgt zu ſcheuen bai»
+»Und diese Dinge waren?!« fragte Harald mit ge
+kämpften Stimme …
 
-„Und dieſe Dinge waren?!“ fragte Harald mit ge
-dämpſter Stimme ...
-
-„Ia -=-- das war zunächſt Wera3 plöhliche Vorliebe
-für die Baumlaube ... Sie werden re<ht8 neben dem
+»Ja — das war zunächst Weras plötzliche Vorliebe
+für die Baumlaube … Sie werden rechts neben dem
 <@pagebreak/>
-22202022022202202 18 2022020220220
+Hause im Garten die beiden uralten Linden gesehen haben.
 
-Hauſe im Garten die beiden uralten Linden geſehen haben.
+… Die beiden mächtigen Stämme stehen dicht beieinander,
+und oben in den Kronen habe ich mal vor Jahren eine
+Laube einbauen lassen, zu der eine riesige;) gewundene
+Treppe aus Eichenholz emporführt — um die Stämme herum
+… Von dieser Laube hat man eine vorzügliche Fernsicht
+… bis nach Höhlen hin, dem südlich von Sellin gelegenen
+Bade …«
 
-. Die beiden mächtigen Stämme ſtehen dicht beieinander,
-und oben in den Kronen habe iH mal vor Jahren eine
-Laube einbauen laſſen, zu der eine vielſae;) gewundene
-Treppe aus Eichenholz emporführt -- um die Stämme her-
-um ... Von dieſer Laube hat man eine vorzügliche Fern-
-ſicht ... bis nach Göhren hin, dem ſüdlich von Sellin ge»
-legenen Bade ...“
+»Also auch bis Sellin?«
 
-„Alſo auc bis Sellin?“ ,
+»Gewiß, lieber Hartemer, gewiß … — Ich stellte nun.
+sehr bald fest, daß Wera zu ganz bestimmten Tageszeiten
+dort nach oben kletterte — stets mit einem Buche … Und
+das tut sie mochte jetzt … Vormittags zwischen
+zehn und zwölf, und nachmittags gegen. sechs Uhr …
+Was sie dort treibt, weiß icm nicht. Ich denke aber,
+sie wird sich irgendwie mit dem Chikagoer Zeichen geben …
+-»-» Und dann zweitens — dies einzugestehen wird mir
+nicht ganz leicht: ich habe Weras Zimmer mal durchstöbert …
+—» Pfui Bruder, daß man zu so etwas sich entschließen
+mußte …! Ich schäme mich geradezu vor mir selbst! Aber
+schließlich bin ich doch Burnus Mädel verantwortlich!«
 
-„Gewiß, lieber Hartemer, gewiß . .. -- I< ſtellie nun.
-ſehr bald ſeſt, daß Wera zu ganz beſtimmten Tageszeiten
-dort nach oben kletterte -- ſtet8 mit einem Buche ... Und
-das tut ſie no<& jebt . .. Vormittags zwiſchen
-zehn und zwölf, und nachmittags gegen. ſe<s Ubr ...
-Was ſie dort treibt, weiß icm nicht. ID denke aber,
-ſie wird ſich irgendwie mit dem Chikagoer Zeichen geben...
--“-“ Und dann zweitens -- dies einzugeſtehen wird mix
-nicht ganz leicht: ich habe Weras Zimmer mal durchſtöbert...
---“ Pſui Deubel, daß man zu ſo etwas ſich entſchließen
-mußte ...! Ich ſchäme mich geradezu vor mir ſelbſt! Aber
-ſchließlich bin ich doch für“vas Mädel verantwortlich!“
+»Sie fanden etwa82?«
 
-„Sie ſanden etwa82?“
+»Ja — und zwar … im Ofen — unten im Athlet …
+Da war hinten ein Ziegelstein so ausgestellt, als ob der
+Aschenbehälter dort bereits ein Ende hätte — sehr schlau!k.
+Hinter dem Ziegelstein nun lag ein versiegeltes — flaches
+Paket. als Petschaft war eine Münze benutzt worden, ein
+holländischer Gulden …«
 
-„3a -- und zwar ... im Ofen -- unten im Aſchloh ..
-Da war hinten ein Ziegelſtein ſo auſgeſtellt, als ob der
-Aſchenbehälter dort bereits ein Ende hätte -- ſehr ſchlau!k.
-Hinter dem Ziegelſtein nun lag ein verſiegeltes --- flaches
-Paket. Al3 Petſchaft war eine Münze benutzt worden, ein
-holländiſcher Gulden ...“
+»Sie öffneten das Päckchen?
 
-„Sie öjſneten das Päckchen?
+»Ja … Und da ich in meinem Schreibtisch außer anderen
+Erinnerung3münzen auch einen Gulden zu liegen
+habe, konnte ich das Paket sein säuberlich wieder verschließen
+…«
 
-„Ia ... Und da ih in meinem Schreibtiſch außer an-
-deren Erinnerung3münzen auch einen Gulden zu liegen
-habe, konnte iM das Paket ſein ſäuberlih wieder ver-
-ſchließen ...“
-
-„Und der Inhalt?“
-„Sie werden ſtaunen: der Jnhalt beſtand in Dollar-
+»Und der Inhalt?«
+»Sie werden staunen: der Inhalt bestand in Dollarnoten
 <@pagebreak/>
-DSSSDSSSSSSS 19 SSSSSSSSSSDSS
-
-noten --- genau achtzigtauſend Dollars ... Obenauf aber
-lag ein Zettel, der nichts als zwolf Namen enthielt ...“
-„Namen?“
-„Ja, Hartemer . .. I< habe ſie abgeſchrieben ...“
-Er holte ſeine Brieſtaſche hervor ...
-„Bitte -- auf dieſem Stück Papier ſtehen die Namen...
-Harold und ich laſen folgendes:
-Halberſon
+— genau achtzigtausend Dollars … Obenauf aber
+lag ein Zettel, der nichts als zwölf Namen enthielt …«
+»Namen?«
+»Ja, Hartemer … Ich habe sie abgeschrieben …«
+Er holte seine Brieftasche hervor …
+»Bitte — auf diesem Stück Papier stehen die Namen …
+Harald und ich lasen folgendes:
+Halberson
 Warrani
-Longſield
-Barton
-Ed<hmidt
-v. Kerſten 7
+Longfield
+Warten
+schnitt
+v. Kersten
 Albernon
 Szes1toni
 Otero
 
-DOPINGS OPD
+Vorlage Tod
 
-10.
-11.
-12.
+10\.
+11\.
+12\.
 
 Largetto
-Simonſen
-Nanſen.
+Simonsen
+ganzen.
 
-Und -- Nummer drei: Longfield!! Und Nummer
-neun und zehn: unſere beiden Portugieſen!!
+Und — Nummer drei: Longfield!! Und Nummer
+neun und zehn: unsere beiden Portugiesen!!
 
-Da. ſagte Platen haſtig:
+Da. sagte Platen hastig:
 
-„Gs iſt klar, daß der Chikagoer dem Mädel dieſes
+»Es ist klar, daß der Chikagoer dem Mädel dieses
 Paket zur Aufbewahrung übergeben hat! Und daher kannte
 ich eben auch die Namen der beiden Flegel, die mit Ihnen
-im Zuge den Streit hatten ...“
+im Zuge den Streit hatten …«
 
-Harald nickte nur ...
+Harald nickte nur …
 
-Griff in die Jackentaſche und nahm ein zertknittertes
-ſhmales Blättchen heraus ...
+Griff in die Jackentasche und nahm ein zertknittertes
+schmales Blättchen heraus …
 
-„Dies ſand ich auf dem Platz im Abteil, den der eine
-Portugieſe innegehabt hatte ... Nur ein Papierkügelchen
-war's . .. C3 muß dem Portugieſen aus der Taſche ge-
-fallen ſein ... Bitte!“
+»Dies fand ich auf dem Platz im Abteil, den der eine
+Portugiese innegehabt hatte … Nur ein Papierkügelchen
+war’s … Es muß dem Portugiesen aus der Tasche gefallen
+sein … Bitte!«
 
-Er ſtrich den Zettel glatt und hielt ihn Platen hin ...
+Er strich den Zettel glatt und hielt ihn Platen hin …
 
-Ih ſah, daß ... zwölf Namen untereinander darauf
-ſtanden ... Dieſelben Namen ... Nur war hier noc<h
+Ich sah, daß … zwölf Namen untereinander darauf
+standen … Dieselben Namen … Nur war hier noch
 <@pagebreak/>
-SDSSSSDDSSDSSSSS 90 DSS SD0SSSSSDSSSD
+ebenfalls mit roter Tinte wie die Namen ein Schflüssel
+gleichsam als Unterschrift gezeichnet …
 
-ebenfalls mit roter Tinte wie die Namen ein Sc<flüſſel
-gleichſam als Unterſchriſt gezeichnet ...
+»Donnerwetter!!« rief Eugen von Platen … «Dontner-wetter!!
+Genau dieselben Namen — und ein Schlüssel!!«
 
-„Donnerwetter!!“ rief Eugen von Platen ... „Dontner-
-wetter!! Genau dieſelben Namen -- und ein Schlüſſel!!“
+»Allerdings … Und weil ich auf diesem Zettel auch
+den Namen Longfield und die der beiden Portugiesen gefunden
+hatte, bin ich den letzteren in Sellin gefolgt … Sie
+betraten das zweite Haus vom Bahnhof, das Pensionat
+Waldesblick …«
 
-„Allerding38 ... Und weil ich auf dieſem Zettel auch
-den Namen Longſield und die der beiden Portugieſen ge-
-funden hatte, bin id) den letzteren in Sellin gefolgt ... Sie
-betraten das zweite Haus vom Bahnhof, das Penſionat
-Waldesbli>k ...“ |
+Platen warf seinen Zigarrenrest in den Aschbecher …
 
-Platen warf ſeinen Zigarrenreſt in den Aſchbecher ...
+»Also Waldesblick …!! Natürliches Waldesblick!!« stieß
+er Hervor … »Natürlich!! Denn gerade das Haus ist
+von der Baumlaube aus am deutlichsten zu sehen!! Gerade
+das!!«
 
-„Alſo Waldesbli> . ..!! Natürlicg Waldesbli>!!“ ftieß
-er Hervor ... „NatürliH!! Denn gerade das Haus3 iſt
-von der Baumlaube aus am deutlichſten zu ſehen!! Ge-
-rade das!!“
+Harald winkte Platen zu ich…-
 
-Harald winkte Platen zu <..-
+»Dir wollen ruhig bleiben … Wir dürfen nicht vergessen,
+daß wir nur etwas ausrichten werden, wenn wir
+mit allergrößter Kaltblütigkeit vorgehen … Und weiter
+wollen wir nicht vergessen, daß es sich hier um sehr ernste
+Dinge handelt. Meiner Ansicht nach« — und er begann zu
+flüstern — »haben wir 28 hier mit einem internationalen
+Geheimbund von Studenten zu tun … Wenn man die
+zwölf Namen prüft, stößt man sowohl auf Engländer,
+Amerikaner, Italiener, Portugiesen, Deutsche und Schweden
+oder Norweger … Der Schlüssel auf diesem Papierblättchen
+weist auf die Schlüsselattrappe hin, die Sie gesehen
+haben, lieber Platen … Und — Sie sahen noch
+mehr … Sie sahen fünf Leute das Häuschen in der Müllerstraße
+betreten … Sie wissen: am anderen Morgen lag
+dort ein Ermordeter im Garten. Die Polizei hat über diesen
+Mann nichts ermitteln können … Und Heute, hier auf
+dem Landweg ein zweiter Toter — ebenfalls ein Unbekannter,
+dem Äußeren nach ein Südländer … Und: Longfield
+hier in der Nähe, wahrscheinlich auch noch mehr. Mitglieder
+des Schlüsselbundes 11«
 
-„Dir wollen ruhig bleiben. ... Wir dürfen nicht ver-
-geſſen, daß wir nur etwas auSrichten werden, wenn wir
-mit allergrößter Kaltblütigkeit vorgehen ... Und weiter
-wollen wir nicht vergejjen, daß es ſich hier um ſehr ernſte
-Dinge handelt. Meiner Anſtgt nach“ -- und er begann zu
-flüſtern -- „haben wir 28 hier mit einem internativnalen
-Geheimbund von Studenten zu tun ... Wenn man die
-zwölf Namen prüft, ſiößt man ſowohl auf Engländer,
-Amerikaner, Jialiener, Portugieſen, Deutſche und Schwe»
-den oder Norweger ... Der Schlüſſel auf dieſem Papier-
-blätthen weiſt auf die Sclüfſelattrappe hin, die Sie ge-
-ſehen haben, lieber Platen ... Und --- Sie ſahen no<
-mehr ., .. Sie ſahen fünf Leute das Häus<hen in der Müller-
-ſtraße betreten ... Sie wiſſen: am anderen Morgen lag
-dort ein Ermordeter im Garten. Die Polizei hat über die-
-ſen Mann nichts erinitieln können ... Und Heute, hier auf
-dem Landweg ein zweiter Toter --- ebenfall3 ein Unbekann-
-ter, dem Aeußeren nach ein Südländer . .. Und: Longfield
-hier in der Nähe, wahricheinlig auch no< mehr. Mitglieder
-des Schlüſſelbundes 11“ :
 <@pagebreak/>
-D2SSSDSSSSSSSDS 91 SSDSSSIOIODSSOSDISAO0SD
+»Mein Gott …!!!!« entfuhr es dem Gutsbesitzer …
+»Wera 7 Wera mit dabei …!!! Wera mit diesem Longfield
+…
 
-„Mein Gott ...11!1“ entſuhr e8 dem GutSsbeſiter ...
-„Wera 7 Wera mit dabei ...!1! Wera mit dieſem Long-
-jeld ...
+Harst unterbrach ihn …
 
-' Harſt unterbrach ihn ...
+»ihre — keine voreiligen Schlüsse …? das wäre
+verfehlt! Wir wissen bisher zu wenig … — Überlassen
+Sie nur alles weitere uns beiden … — Und jetzt wollen
+wir zu Bett gehen …«
 
-„itte -- keine voreiligen Schlüſſe ...? Da38 wäre
-verfehlt! Wir wiſſen biöher zu wenig ... -- Ueberlaſſen
-Sie nur alle38 weitere uns beiden ... -- Und jetzt wollen
-wir zu Bett gehen ...“
+Unser großes Gastzimmer lag im ersten Stock nach
+Osten zu … Uns schräg gegenüber wohnte Wera …
 
-Unſer großes Gafſtzimmer lag im erſten Sto> nach
-Often zu ... Uns ſc<räg gegenüber wohnte Wera ...
+Der Sturm tobte noch ärger als zuvor …
 
-Der Sturm tobte nod) ärger al3 zuvor ...
+Eine Unmenge von Geräuschen war rings um das alte
+Herrenhaus … Die Parkbäume ächzten … Reste prasselnder
+herab … Windstöße beulten um die Giebel …
 
-Eine Unmenge von Geräuſchen war rings um das alte
-Herrenhaus ... Die Parkbäume ächzten ... Aeſte praſſel-
-ten herab ... Windſtöße beulten um die Giebel ..
+Harald schloß die Vorhänge der beiden Fenster …
 
-Harald ſchloß die Vorhänge der beiden Fenſter ...
+Gab mir ein Zeichen …
 
-Gab mir ein Zeichen ...
+». entkleideten uns schnell … Das elektrische Licht
+erlosch …
 
-' “. entkleideten uns ſchnell ... Das elektriſche Licht
-erloſch .. .
+Und — wir kleideten uns im Dunkeln ebenso schnell
 
-Und -- wir kleideten uns im Dunkeln ebenſo ſchnell
+wieder an …
 
-wieder an ...
+G=ch-
 
-G=<=
+<h2>4. Kapitel.</h2>
 
-4. Kapitel.
+<h3>Der Dritte …</h3>
 
-' Der Dritte ...
+Im Dunkeln öffnete Harald einen unserer Koffer …
 
-Im Dunkeln öffnete Harald einen unſerer Koffer ..
+Im Dunkeln befestigten wir die Strickleiter an dem
+einen Fensterkreuz …
 
-Im Dunkeln befeſtigten wir die Strickleiter an dem
-einen Fenſterkreuz ...
+Der Himmel war mit pechschwarzem Gewölk bedeckt …
+Die Wolken kamen von der See her, segelten über den hohen
+Strandwald, über Rügens herrliche Buchenwälder und
+über die fruchtbaren Felder und Kerker …
 
-Der Himmel war mit pehſchwarzem Gewölk beded>t ...
-Die Wolken kamen von der See her, ſegelten über den hohen
-Strandwald, über Rügen3 herrliche Buchenwälder und
-über die fruchtbaren Felder und Aecker ...
+Kein Stern am Himmel …
 
-Kein Stern am Himmel ...
+Zuweilen ein prasselnder Regenschauer …
 
-Zuweilen ein praſſelnder Negenſchauer ...
+Eine Nacht, in der man keinen Hund ins Freie jagt …
 
-Eine Nacht, in der man keinen Hund in3 Freie jagt...
 <@pagebreak/>
-2DSSo0S00020020000 299 802080 2S0SS0S002D0202O
+Eine Nacht, in der man kaum die Hand vor Augen
+sah …
+Und doch sahen wir die Kronen der Parkbäume, sahen
+die beiden gewaltigen Linden als undeutlichen Strich …
 
-6 Eine Nacht, in der man kaum die Hand vor Augen
-ſah . ..
-Und doch ſahen wir die Kronen der Parkbäume, ſahen
-die beiden gewaltigen Linden als undeutlichen Strich ...
+Kletterten zum Fenster hinaus … Harald war zweiter
+… Er band den Fensterflügel fest … Dann war er
+neben mir …
 
-Kletterten zum Fenſter hinaus ... Harald war zwei-
-ter ... Er band den Fenſterſlügel feſt ... Dann war er
-neben mir ... |
+Wir huschten zum Parkweg, zu den beiden Linden …
 
-Wir huſchten zum Parkweg, zu den beiden Linden ...
+Wir stiegen die Holztreppe hinan …
 
-Wir ſtiegen die Holztreppe hinan ...
+Die mächtigen Stämme schwankten sacht unter den
+Sturmstößen. Die Treppe rieb sich kreischend an der Rinde.
+und je höher wir. kamen, desto rauher. packte uns der
 
-Die mächtigen Stämme ſc<wankten ſacht unter den
-Sturmſtößen. Die Treppe rieb ſich kreiſchend an der Rinde.
-and je höher wir. kamen, deſto rauher. packte uns der
+ins …
 
-ind ...
+Dann der kleine Pavillon hier hoch oben Über der
+Erde … Vor der Tür eine Plattform mit Geländer …
+Kleine Fenster …
 
-Dann der kleine Pavillon hier ho& oben Über der
-Erde ... Vor der Tür eine Plattform mit Geländer ...
-Kleine Fenſter ...
+Und — leer …
+Wir traten ein …ich«
+Wir waren wie auf einem Schritte auf bewegter
 
-Und -- keer ...
-Wir traten ein ....<"
-Wir waren wie auf einem Sctfiffe auf bewegter
+Zweige peitschten die Holzwände … Das kleine Bauwerk
+stöhnte in allen Fugen … —
 
-Zweige peitſchten die Holzwände ... Das kleine Bau-
-werk ſtöhnte in allen Fugen ... =-
+Harald rief — und mußte rufen, um sich bei diesem
+Lärm verständlich zu machen:
 
-Harald rief -- und mußte rufen, um ſich bei dieſem
-Lärm verſtändlich zu machen:
+»Wir wollen warten … Vielleicht kommt sie … Aber
+wir dürfen nicht hier warten … Wir müssen uns einen
+Platz in der Krone suchen … — Sie hat uns belauscht …
+Sie hat uns von vornherein beargwöhnt … Ich merkte es
+ihr an … Sie ist vielleicht gefährlicher als der ganze
+Bund … Ein Weib, das liebt, ist zu allem fähig … —
+Ich werde jetzt voranklettern … Die Plattform geht nach
+Osten … nach Sellin … Vielleicht haben wir Glück …«
+Stromes also wieder ins Freie … Hinaus in den
+zum …
 
-„Wir wollen warten ... Vielleicht kommt ſie ... Aber
-wir dürjen nicht hier warten ... Wir müſſen un3 einen
-Platz in der Krone ſuchen ... -- Sie hat uns belauſcht ...
-Sie hat uns von vornherein beargwöhnt . .. J< merkte es
-ihr an ... Sie iſt vielleicht gefährlicher al8 der ganze
-Bund . .. Ein Weib, das liebt, iſt zu allem fähig ... --
-IH werde jeht voranklettern ... Die Plattform geht nach
-Oſten . . . nach Sellin ... Vielleiht haben wir Glü> ...“
-“ HinaUZs alſo wieder in8 Freie .. Hinaus in den
-Sum... . '
-
-Finger krallen ſich um ſc<hlüpfrige Aeſte ...
-Ich ſchwitze vor Angft ...
+Finger Krallen sich um schlüpfrige Reste …
+Ich schwitze vor Angst …
 
 See
+
 <@pagebreak/>
-DOD2SSODOSW0BD0SSIS00 I) 2EO00S0OSGOEEO200
+Die Baumkronen sind in steter Bewegung … säxeinen
+uns spreche Eindringlinge abschütteln zu wollen …
 
-Die Baumkronen ſind in ſteter Bewegung ... ſäxeinen
-uns ſreche Eindringlinge abſchütteln zu wollen ...
+Endlich dann: wir hier dicht nebeneinander — leidlich
+bequem … Machen den Rücken krumm … Sturm frisch!
+uns ins Genick … Regen peitscht unsere Wangen …
 
-Endlic< dann: wir ſien dicht nebeneinander --- leid»
-lich bequem . .. Machen den Rücken krumm ... Sturm ſtiöß!
-uns ins Geni> ... Regen peitſcht unſere Wangen ...
+Schräg unter uns die Baumlaube, die Plattform …
 
-Schräg unter uns die Baumlaube, die Plattſorm ..
+Um uns her das Konzert der Natur …
 
-Um uns her da38 Konzert der Natur ...
+So sitzen wir eine volle Stunde …
 
-So ſitzen wir eine volle Stunde ...
+Harst hat soeben nach der Taschenuhr gesehen …
 
-Harſt hat ſoeben nah der Taſchenuhr geſehen ...
+Leuchtzifferblatt: drei Viertel eins!
 
-Leuchtziſſerblatt: drei Viertel eins!
+Und da — unter. uns auf der Plattform ein.
+Schatten … ein Mann mit Sportmütze wie wir
+— mit hochgeschlagenem Mantelkragen …
 
-Und da -- unter. uns auf der Plattform ein.
-Schatten . ... ein Mann mit Sportmühe wie wir
--- mit hohgeſc<lagenem Mantelkragen ...
+Verschwindet im Baumpavillon …
 
-Verſchwindet im Baumpavillon ...
+Wir sehen das eine kleine Fenster … Aber der Mann
+bleibt im Dunkeln …
 
-Wir ſehen das eine kleine Fenſter ... Aber der Mann
-bleibt im Dunkeln . . |
+Wir warten …
 
-Wir warten .
+Wir hoffen … »Und die Hoffnung trügt nicht …
 
-Wir hoffen ... "Und die Hoffnung trügt nicht ...
+Eine zweite Gestalt: Wera von Platen …
 
-Eine zweite Geſtalt: Wera von Platen ...1
+Hinein in die Laube …
+Weißes Licht litt auf … Elite elektrische Taschenlampe
+…
 
-Hinein in die Laube . |
-Weißes Licht blitt auf . . elite elektriſche Taſchen-
-ampe .
+Harst hat unseren Sitzplatz klug berechnet … Wir
+haben durch Reste die Möglichkeit, bis dicht über das eine
+Fenster zu gelangen …
 
-Sarft hat unſeren Sitplab klug berehnet ... Wir
-baben dur Aeſte die Möglichkeit, bis dicht über das eine
-Fenſter zu gelangen ...
+Im Pavillon zwei Gartenstühle, ein Tischchen …
 
-Im Pavillon zwei Gartenſtühle, ein Tiſch<en ...
+Der Mann auf dem einen Stuhl, Wera auf seinem
+Schoße, ihn umschlungen haltend, ihn küssend …
 
-Der Mann auf dem einen Stuhl, Wera auf ſeinem
-Schoße, ihn umſc<lungen haltend, ihn küſſend ...
+Auf dem Tischchen die Taschenlampe, daneben ein
+flaches, versiegeltes Paket …
 
-Auf dem Tiſchchen die Taſchenlampe, daneben ein
-flache3, verſiegelte8 Paket .
+So lernen wir Harry Lord««sieht von Ansehen je
+erinnert …
 
-So lernen wir Harry Lon«“field von Anſehen RE
-nert .
+ein stattlicher Mensch … Ein Gesicht, das Ampel
+…
 
-ein ſtattliher Menſ< ... Ein Geſicht, das impo-
-n ...
+Jetzt sprechen die beiden miteinander … Wera deutete
 
-Jetzt ſprechen die beiden miteinander ... Wera deutet-
-
-nac& dem Herrenhauſe hin ... Longfield macht eine weg--
+mache dem Herrenhause hin … Longfield macht eine wegwerfende
 <@pagebreak/>
-SSOSG0DSSEODIOSB0S '291 DSOOOLDESIESEDSBIS0S
+Handbewegung … — Gilt sie uns?! Hat er der
+Geliebten erklärt, daß er uns nicht fürchtet?!
 
-werfende Handbewegung ... -- Gilt ſie uns?! Hat er dex
-Geliebten erflärt, daß er uns nicht fürchtet?!
+Dann knöpft er das Paket unter die Weste …
 
-Dann knöpft er das Paket unter die Weſte ...
+Harald zupft mich am Arme! … Steigt tiefer — vorüber
+am Baumpavillon, gewinnt die Treppe … Und wir
+eilen hinab, warten unten …
 
-Harald zupft mich am Armel ... Steigt tieſer -- vor-
-über am Baumpavillon, gewinnt die Treppe ... Und wir
-eilen hinab, warten unten ...
+Harst raunt mir zu: »Longfield wird das Paket an
+Dressur verbergen!«
 
-Harſt raunt mir zu: „Longfield wird das Paket an
-derö8wo verbergen!“ ,
+Ich verstehe: wir werden ihm nachschleichen! Und in
+diesem Unwetter wird das kaum Schwierigkeiten bieten …
 
-Ih verſtehe: wir werden ihm nac<hſchleihen! Und in
-dieſem Unwetter wird das kaum Schwierigkeiten bieten ...
+Das Pärchen kommt fünf Minuten später in Sicht …
 
-Das Pärchen kommt fünf Minuten ſpäter in Sicht...
+Nimmt Abschied … Wera von Platen schmiegt sich
+an den Amerikaner … Küßt ihn …
 
-Nimmt Abſchied ... Wera von Platen ſchmiegt ſich
-an den Amerikaner ... Küßt ihn...
+Huscht davon … —
 
-Huſcht davon ... =
+Harry Longfield glaubt sich sicher …«.«
 
-Harry Longſield glaubt ſich ſicher . .“. “
+Er macht uns die Arbeit leicht … Auf einsamen)
+Wegen geht’s der See zu — den Wäldern …
 
-Er macht uns die Arbeit leiht ... Auf einſamen)
-Wegen geht's der See zu -- den Wäldern ...
+Sie zu einer großen Lichtung … ’’
 
-Bi3 zu einer großen Lichtung ... ''
+Harry Longfield schreitet dahin wie ein Mann, der
+nichts zu fürchten hat und nichts fürchtet. Er hat die Haltung
+eines Menschen, der seine breiten Schultern zielbewußt
+und wenn nötig mit brutaler Rücksichtslosigkeit
+… nachkommt, um sich seinen ’Weg zu bahnen …
 
-Harry Longfield ſchreitet dahin wie ein Mann, dex
-nichts zu fürchten hat und nichts fürchtet. Er hat die Hal-
-tung eines Menſchen, der ſeine breiten Schultern ziel»
-bewußt und wenn nötig mit brutaler Nückſichtsloſigkeit
-. vorſtemmt, um ſich ſeinen 'Weg zu bahnen ...
+Einen flüchtigen Augenblick zerreißt die sturmgepeitschte
+Wolkenschicht .:.
+Blöße ade Mondlicht fällt auf die Mitte der Wald
 
-Einen flüchtigen Augenblick zerreißt die ſturmgepeitſchte
-Wolkenſchicht .:.
-blöße ude Mondlicht fällt auf die Mitte der Wald»
+Größe …
 
-öße ...
+Gestrüpp dort …
 
-Geſtrüpp dort ...
+Verwitterte Mauertrüimmer …
 
-Verwitterte Mauertrüimmer ...
+… Ein Gedanke schlägt blitzartig in mein Hirn ein: Die
+-Überreste der einstigen Schwedenburg …!!
 
-. Ein Gedanke ſchlägt blitzartig in mein Hirn ein: Die
--Ueberreſte der einſtigen Schwedenburg ...!!
+Der Chikagoer ist verschwunden … Harald hat sich
+ins feuchte Gras geworfen …
 
-Der Chikagoer iſt verſchwunden ... Harald hat ſith
-ins feuchte Gras geworfen ... |
+Wir schieben uns rasch vorwärts …
 
-Wir ſchieben uns raſch vorwärts ...
+Und doch nicht rasch genug …
 
-Und doch nicht raſch genug ...
 <@pagebreak/>
-2200220000020 5 0000505000000
+Da ist der freie Platz inmitten der Ruine … Da sind
+die beiden Eichen, die Platen erwähnt hat …
 
-Da iſt der freie Platz inmitten der Ruine ... Da ſind
-die beiden Cichen, die Platen erwähnt hat ...
+Von Longfield keine Spur mehr …
 
-Von Longſfield keine Spur mehr ...
+Wir hocken in triefenden Farnkräutern. Wenn der
+Amerikaner den ehemaligen Burghof verläßt, muß er an
+uns vorüber …
 
-Wir hocken in trieſenden Farnfräutern. Wenn der
-Amerikaner ven ehemaligen Burghof verläßt, muß er an
-uns vorüber ...
+Eine gehässige Regenwolke schüttelt ihren Inhalt mit
+Brausen und Plätschern hernieder … Die Wien Schnüre
+der Regenflut vereinigen sich zu schweren grauschwarzen
+Vorhängen …
 
-Eine gehäſſige Regenwolke ſchüttelt ihren Inhalt mit
-Brauſen und Plätſchern hernieder ... Die dien S<nüre
-der Regenſlut vereinigen ſid zu ſchweren grauſ<warzen
-Vorhängen .
+Minutenlang …
 
-Minutenlang ..
+Longfield wird uns entschlüpfen, denke ich ärgerlich
+und schlage den Kragen des Zeichen braunen Gummimantels
+hoch …
 
-Longſield wird uns entſ<Hlüpfen, denke ih ärgerlich
-und ſchlage den Kragen de3 leichien braunen Gummiman-
-tels hoch ...
+Die niederträchtige Wolke ist naß Westen zu abgezogen
+… Die feuchtwarme Julinacht wird heller … Das
+Gewölk lichtet sich … schiebt sich wieder zusammen …
 
-Die niederträchtige Wolke iſt naH Weſten zu abge-
-zogen ... Die feuchtwarme JIulinacht wird heller ... Das
-Gewölk lichtet ſich . .. ſchiebt ſich wieder zuſammen ...
+Harald erhebt sich plötzlich, zieht mich mit empor …
 
-Harald erhebt ſich plötzlich, zieht mich mit empor ...
+»Er ist auf und davon,« sagt er ganz laut und unbekümmert
+… »Wir können heim … Für diese Nacht mag’s
+genug sein …«
 
-„Er iſt auf und davon,“ ſagt er ganz laut und unbe-
-kümmert . .. „Wir können heim ... Für dieſe Nacht mag's
-genug ſein ...“ '
+»Du sahst ihn?«
 
-„Du ſahſt ihn?“
+»Ja — nur wie einen Schatten … Er hat das Paket
+hier irgendwo versteckt … Gehen wir …
 
-„Ja -- nur wie einen Schatten ... Er hat das Paket
-hier irgendwo verſte>t . .. Gehen wir .
+Und als ob der Mond uns höhnisch aufstehn wollte:
+mit einem Male ist der Himmel Über wir:3 frei — ein schwarz
+umrandetes Loch mit einem gelblichen Zyklopenauge …
 
-Und als ob der Mond uns höhniſch zuläheln wollte:
-mit einem Male iſt der Himmel Über utr:3 frei --- ein ſc<warz
-umrandetes8 Loh mit einem gelblichen Zyklopenauge ...
+Im Mondschein verlassen wir den Burghof, wenden
+uns dem Waldrande zu …
 
-Im Mondſchein verlaſſen wir den Burghoſ, wenden
-uns dem Waldrande zu ...
+Ein greller Schrei …
 
-Ein greller Schrei .
+— Zwei Schüsse — kurz hintereinander«.
 
-- Zwei Schüſſe --- furz hintereinanver „.
+Harald jagt vorwärts …
 
-Harald jagt vorwärt3 .
+Reißt die Element aus der Hosentasche …
 
-Reißt die Klement aus der Hoſentaſche ..
+Und — unter den ersten Buchen auf mondbeschienenem
+Waldboden ein Mann — — regungslos …
 
-Und -- unter den erſten Buchen auf mondbeſchienenem
-Waldboden ein Mann -- -- regungslos .
+Harry Longfield …
 
-Harry Longſield .
 <@pagebreak/>
-DSSSSSSOSDSODOSSS 96 000DSSDSSSDOSS
+Auf dem Rücken liegend … —
+gilt spielt Arzt … Da ist ein böser Streifschuß an
+der Stirn … Ein zweiter schräg durch die rechte Brustseite
+…
 
-Auf dem Nücken liegend ... --
-arft ſpielt Arzt ... Da iſt ein böſer Streiſſchuß an
-der Stirn ... Ein zweiter ſchräg durch die rechte Bruſt-
-ſeite ...
+Ich breche Buchenäste ab, und auf primitiver Bahre
+tragen wir Harry Longfield eine Viertelstunde durch neuen
+Regen und neue Finsternis nach Sellin zu einem Arzt …
 
-Ih breche Buchenäſte ab, und auf primitiver Bahre
-tragen wir Harry Longfield eine Viertelſtunde dur< neuen
-Regen und neue Finſternis nach Sellin zu einem Arzt ...
+Doktor Baake ist zunächst wenig bereit, den Schwerverletzten
+bei sich aufzunehmen. Er selbst hat uns geöffnet …
+Harald weißt ihn ein, verlangt Diskretion auf Ehrenwort …
 
-Doktor Baake iſt zunächſt wenig bereit, den Schwerverleh-
-ten bei ſi< aufzunehmen. Er ſelbſt hat uns geöſſnet ...
-Harald weiht ihn ein, verlangt Diskretion auf Ehrenwort ..
+»Sie werden reichlich entschädigt werden, Herr Doktor
+… Sie bleiben dabei, daß ein Unbekannter Ihnen den
+Patienten übergab und dann verschwand … — Es handelt
+sich um eine Reihe von Verbrechen, die nicht unaufgeklärt
+bleiben dürfen …« —
 
-„Sie werden reichlih entſchädigt werden, Herr Dok-
-tor ... Sie bleiben dabei, daß ein Unbekannter Ihnen den
-Patienten übergab und dann verſchwand ... -- Es handelt
-ſich um eine Reihe von Verbrechen, die nicht unauſgeklärt
-bleiben dürfen ...“ =
+Und um drei Uhr morgens trägt uns die Strickleiter
+wieder in unser Gastzimmer im Gutshaus Sellinhof.
 
-Und um drei Uhr morgens trägt uns die Strikleiter
-wieder in unſer Gaſtzimmer im Gutshaus Sellinhof.
+Todmüde legen wir uns nieder … »Und doch: meine
+Nerven wehren sich gegen »den Schlaf, Ich will mein
+Hirn zur Ruhe zwingen — es gelingt nicht«
 
-Todmüde legen wir uns nieder ... „Und doch: meine
-Nerven wehren ſich gegen „den Schlaf , I< will mein
-Hirn zur Nuhe zwingen = es gelingt aicht *
+»ah höre noch immer Haralds Worte, die er auf dem
+Rückwege sprach, nachdem wir das Haus des Doktors verlassen
+hatten:
 
-„zh höre noch immer Haralds Worte, die er auf dem
-Nückivege ſprach, nachdem wir das Haus des Doktors ver-
-laſſen hatten:
+»3ch stehe vor einem vollkommenen Rätsel, was diesen
+Fall anbetrifft, mein Alter … Ich finde nicht Anfang mochte
+Ende … Das ist ein Gewirr von bunten Fäden,
 
-„3< ſtehe vor einem vollkommenen Rätſel, was dieſen
-Fall anbetrifft, mein Alter . .. I< finde nicht Anfang no<&
-Ende . . . Das iſt ein Gewirr von bunten Fäden,
+die von. Blut Tropfen … Von Fäden, um die
+nach dazu die Liebe sich schmiegt wie eine Hülle zartrosa
+Rosenblätter … — Bitte, weißt Du eine Erklärung für
 
-die von. Blut tropfen ... Von Fäden, um die
-nad dazu die Liebe ſich ſchmiegt wie eine Hülle zartroſa
-Roſenblätter ... -- Bitte, weißt Du eine Erklärung für
+diesen Geheimbund der zwölf Schlüssel …?!«
 
-dieſen Geheimbund der zwölf Schlüſſel ...?1“
+Da war zum ersten Male diese Bezeichnung geprägt
+worden …
 
-Da war zum erſten Male dieſe Bezeichnung geprägt
-worden ...
+Und ich hatte erwidert:
 
-Und ic<h hatte erwidert:
+»Wenn Du keine Erklärung findest, — ich finde sie
+gewiß nicht!« —
 
-„Wenn Du keine Erklärung findeſt, --- ich finde ſie
-gewiß nicht!" ---
 <@pagebreak/>
-DSSSSSSSSSSS 97 DSSSDSISSSSOSI00O0SO
+Aber meine rebellischen Nerven unterlagen schließlich
+der körperlichen Müdigkeit …
 
-Aber meine rebelliſchen Nerven unterlagen ſc<ließlic<
-der körperlichen Müdigkeit ...
+Halb im Einschlafen noch ein mitleidiger Gedanke:
+Wera von Platen! Wie würde sie diese Nachricht hinnehmen,
+daß der Geliebte dort in Sellin aus den Tod daniederlag?!
+Und — — wann würde sie es erfahren?k! — Von
 
-Halb im Einſchlaſen noH ein mitleidiger Gedanke:
-Wera von Platen! Wie würde ſie dieſe Nachricht hinneh-
-men, daß der Geliebte dort in Sellin auſ den Tod danieder-
-lag?! Und -- -- wann würde ſie es erſahren?k| --- Von
+uns gewiß nicht! …
 
-uns gewiß nicht! ...
+=. Dr —ck. & =uiw …
+=«
 
-=. TR ==>. & =uiw..
-=“
+<h2>5. Kapitel.</h2>
 
-5. Kapitel.
+<h3>Der Patient Doktor Baakes.</h3>
 
-Der Patient Doktor Baakes.
+»Das Sauwetter bleibt!« begrüßte uns Platen vormittags
+neun Uhr im Speisezimmer — »Wie haben Sie
+denn die erste. Nacht unter meinem Dache geschlafen? Hoffentlich
+gut …
 
-„Das Sauwetter bleibt!“ begrüßte uns Platen vor-
-mittags neun Uhr im Speiſezimmer --- „Wie haben Sie
-denn die erſte. Nacht unter meinem Dache geſchlafen ? Hoſ-
-ſentlich gut .
+Wir hatten schon am Frühstückstisch gesessen, als er
+eingetreten war …
 
-Wir hatten ſhon am Frühſtück5tiſch geſeſſen, al3 er
-eingetreten war ...
+»Wo ist Fräulein Wera?« antwortete Harald mit einer
+Gegenfrage …
 
-„Wo iſt Fräulein Wera?“ antwortete Harald mit einer
-Gegenſrage ...
+»Oh — das Mädel ist vor einer halben Stunde nach
+Sellin gefahren … Im Einspänner … Weiß der Teufel,
+was los sein mag …! Ruhe sieben tranken wir wie immer
+gemeinsam Kaffee … Da War sie noch ganz vernünftig …
+Und um acht kommt sie zu mir ins Büro, wo ich mit dem
+Oberinspektor eine Eingabe fürs Finanzamt entlarvte …
+Da war sie … wie Käse, lieber Hartemer, glatt wie Käse,
+konnte kaum sprechen … Migräne behauptete sie … Unbedingt
+müsse sie sich in der Selliner Apotheke sofort ihre
+Pulver machen lassen und …
 
-„Ob --- das Mädel iſt vor einer halben Stunde nach
-Sellin gefahren . .. Im Cinſpänner ... Weiß der Teuſel,
-wa3 lo3 ſein mag ...! Umie ſieben tranfen wir wie immer
-gemeinſam Kafſſee . .. Da War ſie noch ganz vernünftig...
-Und um acht kommt ſie zu mir ins Büro, wo ich mit dem
-Oberinſpektor eine Eingabe für8 Finanzamt entwerſe ...
-Da war ſte ... wie Käſe, lieber Hartemer, glatt wie Käſe,
-konnte kaum ſprechen . .. Migräne behauplete ſie ... Un-
-bedingt müſſe ſie ſich in der Selliner Apotheke ſoſort ibre
-Pulver machen laſjen und .
+Harald nicht …
 
-Harald nict .
+somit weiß sie bereits, daß Harry Longfield in
+der verflossenen Nacht böse eins wegbekommen hat, lieber
+traten …«
+»was?! Longfield?!«
+»Ja — Sie sollen alles wissen …
 
-ſomit weiß ſie bereit3, daß Harry Longſield in
-der verfloſſenen Nacht böſe eins wegbekommen hat, lieber
-KPlaten ...“
-“ „Wa8?! Longfield?!“
-„3a -- Sie ſollen alle3 wiſſen ...
 <@pagebreak/>
-SSDOSSSSSISSDSS 298 SSSSSSSSSSOD
+Und Harst erzählte …
 
-Und Harſt erzählte ...
+»Jedenfalls dürfte Fräulein Wera von Sellin aus telephonisch
+durch einen Freund Longfields verständigt worden
+sein,« schließt er seinen Bericht …
 
-„Jedenſalls dürſte Fräulein Wera von Sellin aus tele-
-phoniſch durch einen Freund Longſfields verſtändigt wor-
-den ſein,“ ſchließt er ſeinen Bericht ...
+Platen ist sprachlos …
 
-Platen iſt ſprachlos ...
+Er muß das Gehörte erst geistig verarbeiten …
 
-Er muß das Gehörte erſt geiſtig verarbeiten ..
+»Unglaublich!!« murmelt er … Und dann: »über
+das eine stimmt nicht, lieber Hartemer … Telephonisch
+kann Wera davon nicht benachrichtigt worden sein … Das
+Telephon muß im Büro umgestöpselt werden .-
 
-„Unglaublich! !“ murmelt er ... Und dann: „Äber
-das eine ſtimmt nicht, lieber Hartemer ... Telephoniſch
-kann Wera davon nicht benachrichtigt worden ſein ... Da3
-Telephon muß im Büro umgeſtöpſelt werden .»
+»Bar Fräulein Wera etwa nach dem Kaffee im
+Garten?«
 
-„Var Fräulein Wera etwa nach dem Kaffee im
-Garten?“
+»»Ja … im Gewächshaus …
 
-„»Ia ... im Gewächöhaus .
+»Hm — — das Gewächshaus »wird wohl der Pavillon
+gewesen sein — die Baumlaube … Wir werden uns dort
+68 noch einmal bei Tage umsehen —«- nach dem Frühe
 
-„Om - -- das Gewäczghaus "wird wohl der Pavillon
-geweſen ſein --- die Baumlaube . .. Wir werden uns dort
-68 noh einmal bei Tage umſehen ---“- nah dem Früh-
+Der alte Herr still die Koanakgläser …
 
-Der alte Hexr ffillt die Koanakgläſer ...
+»Zunächst stärken wir uns …! — So — und nun eine
+Frage, Freund Hartemer? Haben Sie denn von dem
+Attentäter was gesehen?«
 
-„Zunächſt ſtärken wir unz . . .! -- So --- und nun eine
-Frage, Freund Hartemer? Haben Sie denn von dcm
-Attentäter wa3 geſehen?“
+Drein … Wir häuften nur einen schrillen Schrei und
+die zwei Schüsse …
 
-pRein ... Wir höürten nur einen ſchrillen Schrei und
-die zwei Schüſſe ..
+»Schön …! Und wie denken: Sie sich die Fortsetzung?!
+Wie Ton Doktor Boote sich denn aus der Affäre ziehen?!
+Soll er wirklich schwindeln?!!«
 
-„Schön . .! Und wie denker: Sie ſich die Fortſetzung?!
-Wie Jon Doktor Boake ſich denn aus der Aſſäre ziehen?!
-Soll er wirklich ſ<hwindeln?1!*
+»Er muß … Er hat das selbst eingesehen … Sollte
+Longfield sterben, dann können wir die Wahrheit natürlich
+nicht länger verheimlichen. Biß dahin werden Schraut und
+ich hoffentlich den Dingen schon auf den. Grund gekommen
+sein, — das heißt: ein Mann wie dieser Chikagoer ist zäh,
+verträgt einen Puls und wird sich wieder heraus8mausern …
 
-„Er muß ... Er hat das ſelbſt eingeſehen ... Sollte
-Longſfield ſterben, dann können wir die Wahrheit natürlich
-nicht länger verheimli<en. Bi8 dahin werden Schraut und
-ich hoffentlich den Dingen ſchon auf -den. Grund gekommen
-ſein, -- das heißt: ein Mann wie dieſer Chikagoer iſt zäh,
-verträgt einen Puſſ und wird ſiH wieder heraus8mauſern ..
+»und — wie wollen Sie den Dingen auf den Grund
+kommen?! Lassen Sie mich bitte an allem teilnehmen …
+Ich hab? noch nie Gelegenheit gehabt, Herren Ihres Berufs
+arbeiten hat sehen …
 
-„und --- wie wollen Sie den Dingen auf den Grund
-kommen?! Laſſen Sie mich bitte an allem teilnehmen ...
-IH bab2 noch nie Gelegenheit gehabt, Herren Ihres Berufs
-arbziten zzt ſeben .
 <@pagebreak/>
-DSSSSSSSSSSS 299 DSOSDSESEIOSDSEOEOSDOO
+»Das sehen Sie ja bereits … Wir arbeiten dauernd …
+Wenn wir einen Fall vorhaben wie diesen, der an Unklarheit
+nichts zu wünschen übrig läßt, liegen unsere Augen und
+Gedanken immer auf der Lauer … Zum Beispiel schade ich
+gestern nicht bemerkt, daß Sie eine Radioanlage besitzen …
+Heute sehe ich dort von einer der beiden uralten Linden
+Antennendraht nach dem Hause hinüberlaufen …«
 
-„Das ſehen Sie ja bereit3 ... Wir arbeiten dauernd...
-Wenn wir einen Fall vorhaben wie dieſen, der an Unklar-
-heit nicht8 zu wünſchen übrig läßt, liegen unſere Augen und
-Gedanken immer auf der Lauer ... Zum Beiſpiel ihabe ich
-geſtern nicht bemerkt, daß Sie eine Radioanlage beſitzen ...
-Heute ſehe iH dort von einer der beiden uralten Linden
-Antennendraht nach dem Hauſe hinüberlauſen ...“
+Eugen von Platen lachte ärgerlich aus …
 
-Eugen von Platen lachte ärgerlich auſ ...
+»Ja — moderner Unfug …!! Die Wera hat so lange
+gebettelt, bis ich schließlich nachgab … —Hundert Mark hat
+der Apparat gekostet … Das Mädel hat ihn selbst aus Berlin
+verschrieben … Aber meinen Sie, man hört was damit?!
+Keine Rede …!! Nur Pfeifen, Brausen, Kratzen
+und Ticken … Die hundert Mark sind zum Fenster herausgeschnitten
+… Wera hat mit wahrer Wut an dem Ding
+herumprobiert und immer wieder behauptet, sie würde ihn
+schon in Schwung bringen. Ich) verstehe davon Fisch. Nur
+meine hundert Mark bin ich los …«
 
-„Ia -- moderner Unſug ...!! Die Wera hat ſo lange
-gebettelt, bis ich ſchließlich na<Hgab ... -Hundert Mark hat
-der Apparat gekoſtet ... Das Mädel hat ihn ſelbſt aus Ber-
-lin verſchrieben ... Aber meinen Sie, man hört wa3 da-
-mit?! Keine Rede ...!! Nur Pfetfen, Brauſen, Kratzen
-und Ticken ... Die hundert Mark ſind zum Fenſter her-
-ausgeſhmiſſen . .. Wera hat mit wahrer Wut an dem Ding
-herumprobiert und immer wieder behauptet, ſie würde ihn
-ſ<on in Schwung bringen. Id) verſtehe davon niſcht. Nur
-meine hundert Mark bin ich los ...“
+»und wo befindet sich der Apparat?«
 
-„und wo befindet ſich der Apparat?“
+»oben in Weras Zimmer … Sie hat eine sogenannte
+»SZaumantenne« angelegt, das heißt, oben in die eine Linde
+einen Kupfernagel schlagen lassen. Daran ist der Draht befestigt
+…
 
-„Oben in Weras Zimmer ... Sie hat eine ſogenannte
-„SZaumantenne“ angelegt, das heißt, oben in die eine Linde
-einen Kupfernagel ſchlagen laſſen. Daran iſt der Draht be-
-feſtigt .
+»So … so … — könnten wir mal in Fräulein Weras
+Zimmer hinausgehen 2«
+»darum nicht?!« —
+So sahen wir denn den Zweiröhrenapparat … von einer
+der besten deutschen Radiofirmen …
 
-„So . . ſo . . . -- könnten wir mal in Fräulein Weras
-Zimmer hinauſgehen 2“
-„Varum nicht?!“ ---
-So ſahen wir denn den Zweiröhrenapparat . .. von einer
-der beſten deutſchen Radiofirmen .
+Harald klappte den Hartgummideckel auf …
 
-Harald klappte den Hartgummidedel auf .
+»Hm — mit diesen Spulen hier, von Venen die Hälfte
+Draht abgewickelt ist, ist nur bis auf einen Wellenbereich
+von zweihundert Meter zu kommen … Außerdem aber ist
+der Apparat auch als Kurzwellensender umzuschalten …«
 
-„Om -- mit dieſen Spulen hier, von venen die Hälſte
-Draht abgewicelt iſt, iſt nur bi3 auf einen Wellenbereich
-von zweihundert Meter zu kommen ... Außerdem aber iſt
-der Apparat aurh al3 Kurzwellenſender umzuſchalten ...“
-
-„Keine Ahnung!“ brummte Platen .
-„Nun -- das heißt, Fräulein Wera hat auf Fern-
-empfang von Nadloprogrammen verzichtet und ſich mit
+»Keine Ahnung!« brummte Platen …
+»Nun — das heißt, Fräulein Wera hat auf Fernempfang
+von Nadloprogrammen verzichtet und sich mit
 <@pagebreak/>
-DSSSSSSSSSSS 30 SSSODEODSSISSSIO0D
+Empfang von Morsezeichen aus der Nähe begnügt und
+solche auch anderen vermittelt …«
 
-Empfang von Morſezeihen aus der Nähe begnügt und
-ſolche auch anderen vermittelt ...“
+Platen wurde stutzig …
 
-Platen wurde ſtutzig ...
+»Wie meinen Sie das, Hartemer?«
 
-„Wie meinen Sie das, Hartemer?“*
+»I3ch meine, daß in Sellin im Pensionat Waldesblick,
+auf dessen Dach ich eine Antenne bemerkte, ein Teil der
+Schlüssel-Bündler wohnt und mit Ihrer Nichte auf die modernste
+Art in dauernder Verbindung steht: durch Radiotelegraphie!«
 
-„I3<h meine, daß in Sellin im Penſionat Waldesbli>,
-auf deſſen Dach ih eine Antenne bemerkte, ein Teil der
-Schlüſſjel-Bündler wohnt und mit Ihrer Nichte auf die mo-
-dernſte Art in dauernder Verbindung ſteht: durch Radio-
-telegraphie!“
+»Heiliges Donnerwetter!!« platzte der alte frische Herr
+in seinem urwüchsigen Deutsch heraus … »Und — das in
+neun Hause …!!! Verbindung mit Leuten, die vielleicht
+Mörder sind!! Da schlag’ doch der Bruder drein!«
 
-„Heiliges Donnerwetter!!“ platzte der alte friſche Herr
-in ſeinem urwüchſigen Deutſch heraus ... „Und -- das in
-meinm Hauſe ...!1! Verbindung mit Leuten, die vielleicht
-Mörder ſind!! Da ſchlag' doc der Deubel drein!“
+»Langsam — langsam!« warnte Harald. »Wer die
+Mörder sind, wissen wir nicht … Wir müssen uns gedulden
+… Es wird schon alles an den Tag kommen — alles!
+Jedenfalls ist mir eine nun klar: Ihre Nichte gibt von der
+Baumlaube As irgend wie ein Zeichen nach Sellin, — und
+auf dieses Sei: hin beginnt der drahtlose Verkehr auf
+einer kurzen, vereinbarten« Welle, So hat Fräulein Wera
+auch zweifellos von dem Attentat auf Longfield Kenntnis
+erhalten. — Jetzt will ich: Doktor Baake telephonisch anrufen
+und« mich nach dem Befinden des Amerikaners ortskundigen
+…
 
-„Langſam -- langſam!“ warnte Harald. „Wer die
-Mörder ſind, wiſſen wir nicht ... Wir müſſen uns gedul-
-den ... C8 wird ſchon alles an den Tag kommen --- alles!
-Jedenſalls iſt mir ein3 nun klar: Ihre Nichte gibt von der
-Baumlaube as irgend wie ein Zeichen nach Sellin, -- und
-auf dieſes Zei: hin beginnt der drahtloſe Verkehr auf
-einer kurzen, vereinbarten“ Welle, So hat Fräulein Wera
-auch zweiſellos von vem Attentat auf Longſield Kenntnis
-erhalten. --- Jetzt will ich: Doktor Baake telephoniſch an-
-rufen und“ mich nach dem Befinden des Amerikaners exr-
-fundigen .
-
-Doktor Baake war jedoch nicht daheim. Seine HaätUs-
-hälterin erklärte, ex ſei vor wenigen Minuten mit dem Mo-
-torrad davongefahren. Wohin -- das wiſſe ſie nicht. --
+Doktor Baake war jedoch nicht daheim. Seine HaätUs-hälterin
+erklärte, er sei vor wenigen Minuten mit dem Motorrad
+davongefahren. Wohin — das wisse sie nicht. —
 Da Harald die Haushälterin nicht fragen wollte, wie es mit
-Longſield ſtehe, hängte er ab und meinte zu Platen und mir:
+Longfield stehe, hängte er ab und meinte zu Platen und mir:
 
-„Warten wir die NKückehr Fräulein Wera3 ab . I<
+»Warten wir die Rückkehr Fräulein Weras ab … Ich
 möchte die junge Dame ein wenig ins Gebet nehmen,
-möchte ſeſtſtellen, ob ſie etwa wirklich weiß, wer wir ſind...
-Danacs muß ich meine ferneren Maßnahmen einrichten .
+möchte feststellen, ob sie etwa wirklich weiß, wer wir sind …
+Danach muß ich meine ferneren Maßnahmen einrichten …
 
-Der alte Herr von Platen war jetzt in einer Sn,
-die man nur als friegeriſch-gereizt bezeichnen konnte ...
+Der alte Herr von Platen war jetzt in einer in,
+die man nur als kriegerisch-gereizt bezeichnen konnte …
+
 <@pagebreak/>
-20202020 2020020200 31 222002000000
+Er erging sich in Bemerkungen über Wera, die ebenso originell
+wie grob waren …
 
-Er erging ſich in Bemerkungen über Wera, die ebenſo origi-
-nell wie grob waren ...
+Harst mahnte zur Vorsicht …
 
-Harſt mahnte zur Vorſicht .. .
-
-„Sie verderden alles, wenn Sie nicht Ihren Teutonen-
-zorn eindämmen, verchrteſter Gaſtgeber ... UÜlſo -- hitte:
+»Sie verderben alles, wenn Sie nicht Ihren Teutonenzorn
+eindämmen, verehrtester Gastgeber … Also — bitte:
 Sie werden der jungen Dame gegenüber Ihr Benehmen in
-keiner Weiſe ändern!“
+keiner Weise ändern!«
 
-Eugen von Platen grunzte etwas und trank zur Nerven-
-beruhigung ein Sherrygla3 Kognak ... Dann forderte er
-uns auf, mit ihm die neuen Inſthäuſer zu beſichtigen. --
-Wir zogen uns dem Wetter entſprechend an und marſchierten
-dur<& Regen und Sturm nach dem kleinen nahen Dörſchen
-Sellinhoſ, wo die meiſten Gutsarbeiter wohnten, waren
-Überraſcht, was Platen hier an praktiſchen und behaglichen
-Wohnhäusc<en geſchaffen hatte und lernten ihn ſo au<h als
-Gutsherrn kennen: von der allerbeſten Seite! -- Wie gui
-er mit ſeinen Leuten ſtand, merkten wir an der Art der Be-
-grüßung mit Frauen und Kindern . .-. Seine herzerquickende
-Grobheit wurde hier richtig bewertet ... Die Kinder lach-
-ten --- und als er den Rangen noch eine Mark ſür Süßig-
-keiten ſpendete, ſtob die Schar johlend davon.
+Eugen von Platen grunzte etwas und trank zur Nervenberuhigung
+ein Sherryglas Kognak … Dann forderte er
+uns auf, mit ihm die neuen Insthäuser zu besichtigen. —
+Wir zogen uns dem Wetter entsprechend an und marschierten
+Buche Regen und Sturm nach dem kleinen nahen Dörfchen
+Sellinhof, wo die meisten Gutsarbeiter wohnten, waren
+Überrascht, was Platen hier an praktischen und behaglichen
+Wohnhäuschen geschaffen hatte und lernten ihn so auch als
+Gutsherrn kennen: von der allerbesten Seite! — Wie gut
+er mit seinen Leuten stand, merkten wir an der Art der Begrüßung
+mit Frauen und Kindern …-. Seine herzerquickende
+Grobheit wurde hier richtig bewertet … Die Kinder lachten
+— und als er den Rangen noch eine Mark für Süßigkeiten
+spendete, stob die Schar johlend davon.
 
 Etwa um halb elf waren wir wieder im Herrenhaus.
 
-Und -- wer wartete hier auf uns?! --- --: Doktor
+Und — wer wartete hier auf uns?! — —: Doktor
 Baake!
 
-Der Arzt war ſo erregt, daß er kaum ſprechen konnte ..
+Der Arzt war so erregt, daß er kaum sprechen konnte …
 
-' Der Grund: Longſield war deute vormittag gegen
-viertel zehn aus dem Erdgeſchoßzimmer, wo der Doktor
-ihn untergebracht hatte, ſpurlo3 verſchwunden ... -
+Der Grund: Longfield war deute vormittag gegen
+viertel zehn aus dem Erdgeschoßzimmer, wo der Doktor
+ihn untergebracht hatte, spurlos verschwunden … —
 
-„Mein Haus ſtößt mit der Rücſront an den Wald,“
-berichtete er dann im einzelnen. „DaZ Krankenzimmer lieaz?
-nah hinten heraus. Longfield war ſ&on nach drei Stuün-
-den zu ſich gekommen und dank ſeiner Pferdenatur mobil.
-Aber über Namen, Herkunft und ſo weiter ſchwieg er ſich
-hartnäckig aus, ſ<lieſ zwei Stunden, frühſtückte, und als ich
-dann wieder ſein Zimmer betrat, iſt da3 eine Fenſter weit
-offen und das Bett leer ... -- Herr Harſt, iG...“
+»Mein Haus stößt mit der Rückfront an den Wald,«
+berichtete er dann im einzelnen. »das Krankenzimmer liegt?
+nach hinten heraus. Longfield war schon nach drei Staunten
+zu sich gekommen und dank seiner Pferdenatur mobil.
+Aber über Namen, Herkunft und so weiter schwieg er sich
+hartnäckig aus, schlief zwei Stunden, frühstückte, und als ich
+dann wieder sein Zimmer betrat, ist das eine Fenster weit
+offen und das Bett leer … — Herr Harst, ich …«
+
 <@pagebreak/>
-B20DSDSEDSSSS 322 SDSSDSOSDSEODOEOODE
+»Bitte — — Hartemer!!«
 
-„Bitte -- -- Hartemer!!*
+»Pardon — also, Herr Hartemer, ich kann durch die je
+schichte in Teufelsküche geraten, da …«
 
-„Pardon -- alſo, Herr Hartemer, ich kann durc< die Ge
-ſchichte in Teufelsküche geraten, da ...“
-
-„Feine Sorge, Herr Doktor,“ unterbraH& Harald ihn.
-„IH übernehme die ganze Verantwortung. Sie bleiben bei
-dem vereinbarten Märchen, melden jetzt dem Gemeindevor-
-ſteher das Verſchwinden Ihres „namenloſen“ Patienten und
-fümmern ſich im übrigen um nichts . ..“
+»Feine Sorge, Herr Doktor,« unterbraH& Harald ihn.
+»Ich übernehme die ganze Verantwortung. Sie bleiben bei
+dem vereinbarten Märchen, melden jetzt dem Gemeindevorsteher
+das Verschwinden Ihres »namenlosen« Patienten und
+kümmern sich im übrigen um nichts …«
 
 Baake fuhr beruhigt heim.
 
-Platen war blaß und zerrte an ſeinem Schnurrbart...
-platte heraus: „Da ſte>t das Mädel dahinter!1!“
+Platen war blaß und zerrte an seinem Schnurrbart …
+platte heraus: »Da steckt das Mädel dahinter!!!«
 
-Harald nickte . .. „Wahrſcheinlich! -- Nun -- ſie wird
-ja zurückkehren .. .!“
+Harald nickte … »Wahrscheinlich! — Nun — sie wird
+ja zurückkehren …!«
 
-„Iſt das eine Kanaille ...!! Verliebte Weiber, -- --
-verrückt ſind ſie dann!! --- Schrad, reihen Sie mir die
-Kognakſlaſche ... Mir zittern die Beine ...1*
+»Ist das eine Kanaille …!! Verliebte Weiber, — —
+verrückt sind sie dann!! — Schrak, reichen Sie mir die
+Kognakflasche … Wir zittern die Beine …!«
 
-Aber Harald winkte energiſch...
+Aber Harald winkte energisch …
 
-„Keinen Tropſen mehr! Sie würden einen miſerablen
-Detektiv abgeben ... Mit Alkohol löſt man - keine
-Probleme!“ --- -
+»Keinen Tropfen mehr! Sie würden einen miserablen
+Detektiv abgeben … Mit Alkohol löst man — keine
+Probleme!« — —
 
-Um halb zwölf ſuhr der Einſpänner mit Fräulein
-Wera vor der Freitreppe vor .
+Um halb zwölf fuhr der Einspänner mit Fräulein
+Wera vor der Freitreppe vor …
 
-Wir ſtanden in der Diele .
+Wir standen in der Diele …
 
-Sie trat ein ... blühend, iugendfriſch, mit ftrahlenden
-Augen ... Begrüßte uns harmlos ...
+Sie trat ein … blühend, jugendfrisch, mit strahlenden
+Augen … Begrüßte uns harmlos …
 
-„Ra, Deern, das Apothekenpulver ſcheint ja geholfen
-zu haben,“ brummte Platen biſſig ...
+»ja, deren, das Apothekenpulver scheint ja geholfen
+zu haben,« brummte Platen bissig …
 
-„Glänzend, Onkelchen ...! Glänzend! -- Die Herren
-entſc<uldigen mich jeht ... Ih muß mich etwas umklei-
-den ... Bei dem Wetter --- meine Schuhe ſind ſörmlich
-Durchweicht .. .“
+»Glänzend, Onkelchen …! Glänzend! — Die Herren
+entschuldigen mich jetzt … Ich muß mich etwas umkleiden
+… Bei dem Wetter — meine Schuhe sind förmlich
+Durchweicht …«
 
-Harald betrachtete ſie von oben bis unten ...
+Harald betrachtete sie von oben bis unten …
 
-'„Der Wagen hat doch ein Verde>, gnädiges Fräu-
-lein ...“ meinte er kopſſchüttelnd. „Wie konnten Sie nur
-fo naß werden?!“
+»Der Wagen hat doch ein Verdeck, gnädiges Fräulein
+…« meinte er kopfschüttelnd. »Wie konnten Sie nur
+so naß werden?!«
 
-„Ob -- ic; war noch am Strande ... ES iſt ja herr-
+»Oh — ich; war noch am Strande … Es ist ja herrlicher
 <@pagebreak/>
-DSSSODOSOOOIOS00 13 DEO GEO GSDOSGOOO
+Seegang … Der Kraters ist völlig von Splittern
+eingehüllt … Sie sollten sich dieses Schauspiel einmal an
+sehen, Herr Hartemer …«
 
-licher Seegang ... Der Stcakopf iſt vollia von GSprithern
-eingehüllt ... Sie ſollten ſich dieſes Schauſpiel einmal an
-ſehen, Herr Hartemer ...“
+»Vielleicht, gnädiges Fräulein … Vielleicht Wasser …
+— Sie haben auch voll Einkäufe erledigt — als in der
+Apotheke … Das Päckchen in Ihrer Hand riecht mache Jodoform
+… Vielleicht Jodoformgaze, gnädiges Fräulein …«
 
-„Vielleicht, gnädiges Fräulein ... Vielleicht fp8ter ...
--- Sie haben auc< noFH Einkäufe erledigt -- ath in der
-Apotheke . .. Das Päckchen in Ihrer Hand rieht nac& Jodo-
-form ... Vielleicht Jodoformgaze, gnädiges Fräulein ...“
+Und da veränderte sich ihr Gesicht … Die langen dunklen
+Wimpern senkten sich rasch über die klaren, l(lugen
+Augen …
 
-Und da veränderte ſich ihr Geſicht ... Die langen dunk-
-fen Wimpern ſenkten ſi< raſch über die klaren, l(lugen
-Augen ...
+»Zu …« meinte sie leichthin … »Onkels Hausapotheke
+muß in vielem ergänzt werden …«
 
-„Zu ...“ meinte ſie leichthin ... „Onkels Hausapotheke
-muß in vielem ergänzt werden...“
+Eugen von Platen streckte die Hand aus. »Dann gib
+das Zeug nur her, Mädel … Ich werd’s in das Schränken
+tun …
 
-Eugen von Platen ſtre>te die Hand aus. „Dann giv
-'das Zeug nur her, Mädel ... I< werd's in das Schränfk-
-en tun .
+Sie zögerte … Nur ganz wenig …
 
-Sie zögerte . . Nur ganz wenig .
+»Bitte, Onkel … — Nachher auf Wiedersehen«…«
 
-„Bitte, Onkel... = Nachher auf Wiederſehen „..“
+»Bleib’11« — Und Platens Stimme knarrte drohend …
 
-„Bleib'11“ -- Und Platens Stimme knarrte drohend. ,.
+Sie wandte sich wieder um — mit einer Pistolen Es
+Gebärde schlecht geheuchelten Staunens …
 
-Sie wandte ſich wieder um -- mit einer Nliloſen GS
-bärde ſc<leht geheuchelten Staunens .
+»Was wünschst Du noch, Onkel?«
 
-„Wa3 wünſchſt Du noch, Onkel?“
+Platen riß das Paket auf …
 
-Platen riß das Paket auf...
+Es enthielt zehn Mullbindenrollen, eine Schachtel Jodoformgaze,
+zwei Päckchen Verbandwatte und zwei Flaschen
+Lysoform …
 
-E3 enthielt zehn Mullbindenrolien, eine Shachßtel Jodo-
-formgaze, zwei Pä>dhen Verbandwatte und zwei Flaſchen
-Lyſoform ...
+Platen trat dicht an Wera heran …
 
-Platen trat dicht an Wera heran ...
+Ehe es Harald nachts verhindern konnte, donnerte er los:
 
-Ehe e3 Harald no<F verhindern konnte, donnerte er lo3:
+»Für mich hast Du das eingekauft?! Für die Hausapotheke?!
+— — Schämst Du Dich nicht!! Wir wissen Be-scheidvp!!
+Für Longfield — für Deinen Liebhaber!! des
+is’3!! Das …!!«
 
-„Für mich haft Du das eingekauft?! Für die Haus-
-apotheke?! --- --- Shämſt Du Dich nicht!! Wir wiſſen Be-
-ſc<eidvp!! Für Longfield -- für Deinen Liebhaber!! Dos
-iſ'3!! Das ...11“
+Wera von Platen bewies jetzt so recht, daß mit wachsender
+Gefahr auch ihre Nerven Ich stählten …
 
-Wera von Platen bewies jeßt ſo recht, daß mit wachſen-
-ver Gefahr auch ihre Nerven Sch ſtählten .
+Sie wurde ganz »große Dame …« Hochmütig — ablehnend
+bog sie den Kopf zurüe …
 
-Sie wurde ganz „große Dame ...“ SHochmütig -- ab-
-lehnend bog ſie den Kopf zurüe ... : 0
-
-156.
 <@pagebreak/>
-GBOSODIODOVOIO2002 341 0000202000020 0200d
+»Verzeih’, was soll dieser Ton mir gegenüber, Onkel?!
+Noch dazu in Gegenwart Deiner Gäste …?!!«
+Harald mischte sich ein …
+»Gnädiges Fräulein, Sie täten besser, hier nicht länger
+Versteck zu spielen … — Wissen Sie, wer ich bin?!«
 
-„Verzeih', wa3 ſoll dieſer Ton mir gegenüber, Onkel?!
-Noc< dazu in Gegenwart Deiner Gäſte ...?1!“
-Harald miſchte ſich ein ...
-„Gnädiges Fräulein, Sie täten beſſer, hier nicht län-
-ger Verſtec zu ſpielen ... -- Wiſſen Sie, wer ich bin?!“
+»30!
 
-„30!
+»Also doch …! — Und Sie wollen nun, nehme im an,
+auch weiter ehrlich sein …
 
-„Alſo doh ...! -- Und Sie wollen nun, nehme im an,
-auch weiter ehrlich ſein ..
+»Nein, Herr Harst … «.! Ich habe zu schweigen versprochen
+… Mein Versprechen halte im, was auch kommen
+mag. Ich werde auf keine Fragen antworten …! Tun Sie
+mit mir, was Sie wollen …«
 
-„Nein, Herr Harſt . „.! IH habe zu ſchweigen ver-
-ſprochen ... Mein Verſprechen halte im, was auch kommen
-mag. I< werde auf keine Fragen antworten ...! Tun Sie
-mit mir, was Sie wollen ...“
+»Mithin schützen Sie … Mörder!!«
 
-„Mithin ſchüßen Sie ... Mörder!!“
+»Sie irren sich, Herr Harst … Ich Schuhe Kur Leute,
+die schuldlos in Schuld verstrickt worden sind …
 
-„Sie irren ſich, Herr Harſt ... I< ſ<ühe Kur Leute,
-die ſchuldlos in Schuld verſtrickt worden ſind .
+Platens Temperament meldete sich wieder …
 
-Pläten3 Temperament meldete ſich wieder .
+Und jetzt brüllte er seine Nichte an:
 
-Und jetzt brüllte er ſeine Nichte an:
+»Oho — — nicht einmal antworten!! Nicht antworten!!
+Ich werde Dich schon klein kriegen, Mädel …!! Einsperren
+werde ich Dich!! Hier bin ich Herr im Hause!! Du verläßt
+Dein Zimmer nicht mehr …!!  Einschließen werde ich Dich!
+Nicht einen Schritt wirst Du …
 
-' „Oho --- --- nicht einmal antworten!! Nicht antworten!!
-I<h werde Dich ſchon klein kriegen, Mädel ...!! Einſperren
-werde iH Dich!! Hier bin ich Herr im Hauſe!! Du verläßt
-Dein Zimmer nicht mehr ...!!  Einſchließen werde ich Dich!
-Nicht einen Schritt wirſt Du .
+Er schwieg …
 
-Er ſc<wieg .
+Draußen war ein Auto vorgefahren: »Die Herren vom
+Gericht aus Putbus …
 
-Draußen war ein Auto vorgefahren: „Die Herren vom
-Gericht au38 Putbu3 ...
+Der Amtsrichter trat ein … Hinter ihm ein Protokollführer
+und zwei Landjäger …
 
-Der Amtsrichter trat ein ... Hinter ihm ein Protokoll-
-führer und zwei Landjäger ...
+Eine halbe Stunde später war Wera von Platen wegen
+dringenden Verdachts des Mordes an dem gestern auf dem
+Landwege aufgefundenen Manne verhaftet …
 
-Eine halbe Stunde ſpäter war Wera von Platen wegen
-dringenden Verdac<ht3 des Mordes an dem geſtern auf dem
-Landwege aufgeſundenen Manne verhaſtet ...
-
-=
 <@pagebreak/>
-DSSSSSSSSSDSS 3,5 DEO SSOSBDSISE02000
 
-Die Schlüſſel --
-und der Schlüſſel des Rätſels.
+Die Schlüssel —
+und der Schlüssel des Rätsels.
 
-1. Kapitel.
+<h2>1. Kapitel.</h2>
 
-Die Mordwaffe ?!
-Eine halbe Stunde ſpäter war Wera von Platen ver-
+<h3>Die Mordwaffe?!.</h3>
+Eine halbe Stunde später war Wera von Platen der
 
-ſtet...
-ſpielte" dieſer halben Stunde hatte ſich folgendes abge-
-pielt: .
-- Szene: Da3 Herrenzimmer Eugen von Platen ...
-In der Mitte ein ſchwerer langer Eichentiſch .
+stet …
+spielte« dieser halben Stunde hatte sich folgendes abgespielt:
+…
+— Szene: Das Herrenzimmer Eugen von Platen …
+In der Mitte ein schwerer langer Eichentisch …
 
-Am oberen Ende die Herren vom Gericht . . In der
-Mitte Platen und wir beide ... Uns gegenüber, das Ge-
-ſicht naH den Fenſtern zu, Wera, die Angeſchuldigte .
+Am oberen Ende die Herren vom Gericht … In der
+Mitte Platen und wir beide … Uns gegenüber, das Gesicht
+naß den Fenstern zu, Wera, die Angeschuldigte …
 
-Platen bleich, nervös8 ... Groll und Schmerz in den
-Augen ...
+Platen bleich, nervös … Groll und Schmerz in den
+Augen …
 
-Wera von einer unbegreiſlihen Ruhe ...
+Wera von einer unbegreiflichen Ruhe …
 
-n Der Amtsrichter hat ihr ſchon vorhin auf der Diele
-erflärt:
+Der Amtsrichter hat ihr schon vorhin auf der Diele
+erklärt:
 
-„Sie ſc<einen hinreichend verdächtig, den Unbekannten,
-der geſtern nachmittag auf dem Landwege zwiſchen Sellin
-und Sellinhof tot aufgefunden wurde, durc einen Hieb mit
-einem Handbeil getötet zu haben .
+»Sie scheinen hinreichend verdächtig, den Unbekannten,
+der gestern nachmittag auf dem Landwege zwischen Sellin
+und Sellinhof tot aufgefunden wurde, durch einen Hieb mit
+einem Handbeil getötet zu haben …
 
 Wera hatte erwidert:
 
-„I<h bin unſchuldig ...!“ -- Kein Wort weiter ...
+»Ich bin unschuldig …!« — Kein Wort weiter …
 
-Dann begann das Verhör, nachdem Harſt ſich unter
-dem Zwang dieſer bedrohlichen Umſtände dem Amtsrichter
-zu erkennen gegeben hatte, worauf wir höſlid) gebeten wutr-
-den, der Vernehmung beizuwohnen.
+Dann begann das Verhör, nachdem Harst sich unter
+dem Zwang dieser bedrohlichen Umstände dem Amtsrichter
+zu erkennen gegeben hatte, worauf wir höflich gebeten wütenden,
+der Vernehmung beizuwohnen.
+
 <@pagebreak/>
-2220200002022 36 20202020202002020022
-
 Der Amtsrichter:
 
-„Wo waren Sie geſtern nachmittag gegen fünf Uhry
-Fräulein von Platen?“
+»Wo waren Sie gestern nachmittag gegen fünf Wirt
+Fräulein von Platen?«
 
-„Ib machte einen Spaziergang.“
+»Ab machte einen Spaziergang.«
 
-„Nach welcher Richtung hin?“
+»Nach welcher Richtung hin?«
 
-„» Nac Sellin zu durc<h die Felder .
+»» nach Sellin zu durch die Felder …
 
-„Begegneten Sie jemandem?“
+»Begegneten Sie jemandem?«
 
-„Ja. In der Waldzunge, die ſich in die Kartoffel-
-äder hinzieht, waren Leute meines Onkels mit Holzfällen
-beſchäftigt .
+»Ja. In der Waldzunge, die sich in die Kartoffelacker
+hinzieht, waren Leute meines Onkels mit Holzfällen
+beschäftigt …
 
-"Sie ſprachen mit den Leuten?“
+»Sie sprachen mit den Leuten?«
 
-"Was ſprachen Sie mit ihnen?“
+»Was sprachen Sie mit ihnen?«
 
-„Ich .. . ich iveiß e8 nicht mehr ...“*
+»Ich … ich weiß es nicht mehr …«
 
-"Landjäger Knuth, der allerlei Ermittlungen angeſtellt
-hat, wird Ihrem Gedächtnis nachhelfen. --- Knuth, erzäh-
-len Sie ...!“
+»Landjäger Knuth, der allerlei Ermittlungen angestellt
+hat, wird Ihrem Gedächtnis nachhelfen. — Knuth, erzählen
+Sie …!«
 
-Der ſtattliGe Landjäger erklärte:
+Der stattliche Landjäger erklärte:
 
-„In der Waldzäange, die nur fünfhundert Meter von
-ver Stelle entfernt iſt, wo der Tote aufgeſunden wurde,
+»In der Wortkarge, die nur fünfhundert Meter von
+der Stelle entfernt ist, wo der Tote aufgefunden wurde,
 arbeiteten vier Holzfäller. Einer der Leute kam heute früh
-zu mir und teilte mir mit, daß ihm ſein Gewiſſen keine Ruhe
-laſſe . . . Er mlſſe angeben, wa3 er vielleicht zur Aufklärung
-des Mordes beitragen könne . .. Das Fräulein von Platen
-ſei geſtern nachmittag etwa kurz vor fünf, als man gerade
-mit der Arbeit aufhören wollte, ſehr erregt angelaufen ge-
-kommen und habe ſich von ihm ein Handbeil geben laſſen,
-angeblich, um driüben in der Schonung eine kleine Tanne
-al8 Zimmerſchmu>k abzuhaven. Sie habe ihm da3 Beil
-förmlich weggeriſſen und ſet in der Schonung verſchwunden.
-Kurz darauf hätten jotoohl er al38 auh ſeine Begleiter vom
-Landwege her einen ſchvachen Ruf gehört, dem ſie jedoch
-keinerlei Bedeutung beigemeſſen hätten. Um halb ſechs ſei
-dann das Fräulein mit dem in Zeitungs8papier gehüllten ſehr
-ſharfen Beil in ſeiner Wohnung erſchienen und habe es
-ibm zurü&gegeben, habe ihm auch) noch eine Mark geſchenkt.
+zu mir und teilte mir mit, daß ihm sein Gewissen keine Ruhe
+lasse … Er wisse angeben, was er vielleicht zur Aufklärung
+des Mordes beitragen könne … Das Fräulein von Platen
+sei gestern nachmittag etwa kurz vor fünf, als man gerade
+mit der Arbeit aufhören wollte, sehr erregt angelaufen gekommen
+und habe sich von ihm ein Handbeil geben lassen,
+angeblich, um vorüber in der Schonung eine kleine Tanne
+als Zimmerschmuck abzuladen. Sie habe ihm das Beil
+förmlich weggerissen und sei in der Schonung verschwunden.
+Kurz darauf hätten sowohl er als auch seine Begleiter vom
+Landwege her einen schwachen Ruf gehört, dem sie jedoch
+keinerlei Bedeutung beigemessen hätten. Um halb sechs sei
+dann das Fräulein mit dem in Zeitungspapier gehüllten sehr
+schaffen Beil in seiner Wohnung erschienen und habe es
+ihm zurückgegeben, habe ihm auch) noch eine Mark geschenkt.
+
 <@pagebreak/>
-2202020222222 37 0000002020000
-
-Sie ſei ganz ruhig geweſen, habe noh mit ſeiner Frau ge-
-ſprochen und habe ſich wieder -- entfernt. Als er das Bei!
-auspacdkte, fiel ihm ſofort auf, daß die Schneide und der
-Stiel offenbar mit Waſſer und Sand ganz ſauber geſcheuert
+Sie sei ganz ruhig gewesen, habe noch mit seiner Frau gesprochen
+und habe sich wieder — entfernt. Als er das Bei!
+auspacdkte, fiel ihm sofort auf, daß die Schneide und der
+Stiel offenbar mit Wasser und Sand ganz sauber gescheuert
 worden waren. Als er dann abends von dem Morde
-Kenntnis erhielt und auch im Dorfe erzählt wurde, daß dex
-Unbekannte durch einen Hieb in den Hals getötet worden ſei,
-da habe er ſofort unwillkürlich an das aufgeregte Weſen des
-JTräuleins gedacht und ſich hierüber auch mit ſeinen Freun-
-den beſprochen, und die hätten ihm darin rec<ht gegeben, daß
-er die Sache melden müſſe ...“ =
+Kenntnis erhielt und auch im Dorfe erzählt wurde, daß der
+Unbekannte durch einen Hieb in den Hals getötet worden sei,
+da habe er sofort unwillkürlich an das aufgeregte Wesen des
+Fräuleins gedacht und sich hierüber auch mit seinen Freunden
+besprochen, und die hätten ihm darin recht gegeben, daß
+er die Sache melden müsse …« —
 
-Nachdem der Landjäger dies vorgebracht hatte, ſank
-Herr von Platen ſörmlich in ſich zuſammen. Wir fürchteten
-ſchon, daß ihm etwa5 Ernſtes zuſtoßen würde. Z< holte
-ihm raſch einen Kognak, worauf er wieder etwas Farbe und
-Haltung bekan.
+Nachdem der Landjäger dies vorgebracht hatte, sank
+Herr von Platen förmlich in sich zusammen. Wir fürchteten
+schon, daß ihm etwas Ernstes zustoßen würde. Ich holte
+ihm rasch einen Kognak, worauf er wieder etwas Farbe und
+Haltung bekam.
 
-Der Amtsrichter, durch dieſen Zwiſchenfall ſehr pein-
-li< berührt, wünſchte nun, daß Herr von Platen beſſer das
+Der Amtsrichter, durch diesen Zwischenfall sehr peinlich
+berührt, wünschte nun, daß Herr von Platen besser das
 Zimmer verließe.
 
-„I3<h bleibe!“ erklärte der alte Herr kurz.
+»I3ch bleibe!« erklärte der alte Herr kurz.
 
-Wera ſaß kerzengerade da. Ihre Wangen hatten nur
-ganz wenig von ihrer friſchen Röte verloren. Sie war
-durchaus gefaßt, und ihr Mund und der Aus8druck ihrer
-Augen verrieten eine ſtarre Entſchloſſenheit, ihr Geheimnis
+Wera saß kerzengerade da. Ihre Wangen hatten nur
+ganz wenig von ihrer frischen Röte verloren. Sie war
+durchaus gefaßt, und ihr Mund und der Ausdruck ihrer
+Augen verrieten eine starre Entschlossenheit, ihr Geheimnis
 unbedingt zu wahren.
 
-Als der Amtsrichter ihr nun die Ausſage des Holz-
-fällers vorhielt, gab ſie alles zu ...
+Als der Amtsrichter ihr nun die Aussage des Holzfällers
+vorhielt, gab sie alles zu …
 
-„34h wollte eine kleine Tanne abſchlagen ... Da ich
-jedoch in der Schonung ſtolperte und das Beil in ein ſumpfi-
-ges Loch fiel, wo ich es nur ſchwer herausfiſchen konnte,
-kam ich von meinem urſprünglichen Vorhaben ab, ſäuberte
-da3 mit Shlamm bededte Beil mit Moo8 und trug es dem
-Arbeiter zurück .
+»34h wollte eine kleine Tanne abschlagen … Da ich
+jedoch in der Schonung stolperte und das Beil in ein sumpfiges
+Loch fiel, wo ich es nur schwer herausfischen konnte,
+kam ich von meinem ursprünglichen Vorhaben ab, säuberte
+das mit Schlamm bedeckte Beil mit Moos und trug es dem
+Arbeiter zurück …
 
-„Wera!!“ rief Herr von Platen da empört. „Biſt Du
-ſo feige, derartige Lügen zu erſinnen ...! WegShalb ſprichſt
+»Wera!!« rief Herr von Platen da empört. »Bist Du
+so feige, derartige Lügen zu ersinnen …! WegShalb sprichst
 <@pagebreak/>
-DSSSDSSSSOSOSS 8 DSSSSSSSSSSS
-
 Du nicht die Wahrheit?! Daß Du den Mann nicht getötet
-haſt, wenigſten8 nicht mit Ueberlegung, iſt für mich ...“
+hast, wenigstens nicht mit Überlegung, ist für mich …«
 
-Der Amtsrichter wurde jetßt ſehr dienſtlich und verbat
-ſich jede Einmiſchung in den Gang der Vernehmung .
+Der Amtsrichter wurde jetzt sehr dienstlich und verbat
+sich jede Einmischung in den Gang der Vernehmung …
 
-Platen warf ihm einen wütenden Bli zu, ſchwieg je-
-doh, als Harald ihm energiſch zutwinkte.
+Platen warf ihm einen wütenden Bis zu, schwieg jedoch,
+als Harald ihm energisch ausnutzte.
 
-Das Verhör ging weiter .
+Das Verhör ging weiter …
 
-Wera blieb bei ihren Angaben ...
+Wera blieb bei ihren Angaben …
 
-„I< weiß nicht8 von dem Verbrechen ... I< bin gar
-nicht bis in die Nähe des Weges gekommen ... Den Schrei,
-den die Arbeiter hörten, vernahm ich gleichfalls . . .“
+»Ich weiß nichts von dem Verbrechen … Ich bin gar
+nicht bis in die Nähe des Weges gekommen … Den Schrei,
+den die Arbeiter hörten, vernahm ich gleichfalls …«
 
-„Mehr war au3 ihr nicht herauszubekommen.
+»Mehr war aus ihr nicht herauszubekommen.
 
-Der Amtörichter wandte ſich an den zweiten Land-
-jäger, den Selliner ...
+Der Amtsrichter wandte sich an den zweiten Landjäger,
+den Selliner …
 
-„Schmidt, nun ſprechen Sie!“ ſagte er mit Nachdruck... .
+»Schmidt, nun sprechen Sie!« sagte er mit Nachdruck …
 
 Schmidt erklärte:
 
-„IH war geſtern mit am Tatort. I< habe die Um-
-gebung ſehr ſorgfältig abgeſuc<t und habe dabei auch neben
-dem Wege im Gebüſch die ganz friſchen Spuren von zier-
-lihen Damenſchuhen bemer?t. Der dort etwas feuchte Bo-
-ven hat klare Abdrüc>e der Sohlen und Abſätze angenommen.
-„I< habe dieſe Spuren genat: ſo gemeſſen, wie die anderen
-feiſ<en Fährten. Die Damenſ<uhe hatten Gummihacken,
-diz mit drei Nägeln unter dem eigentlichen Abſatz befeſtigt
-Ünd. = Die Holzfäller gaben an, daß Fräulein von Platen
-geſtern braune Halbſchuhe getragen hat ... Die Halbſchuhe
+»Ich war gestern mit am Tatort. Ich habe die Umgebung
+sehr sorgfältig abgesucht und habe dabei auch neben
+dem Wege im Gebüsch die ganz frischen Spuren von zierlichen
+Damenschuhen Feuer?!. Der dort etwas feuchte Boden
+hat klare Abdrücke der Sohlen und Absätze angenommen.
+»Ich habe diese Spuren gemalt: so gemessen, wie die anderen
+frischen Fährten. Die Damenschuhe hatten Gummihacken,
+die mit drei Nägeln unter dem eigentlichen Absatz befestigt
+Und. — Die Holzfäller gaben an, daß Fräulein von Platen
+gestern braune Halbschuhe getragen hat … Die Halbschuhe
 
-müßten geholt werden.“
-. Der andere Landjäger ging hinaus, kam mit den Halb-
-Ächuhen zurü& und gab ſie dem Amtsrichter
+müßten geholt werden.«
+… Der andere Landjäger ging hinaus, kam mit den Halbschuhen
+zurück und gab sie dem Amtsrichter
 
-C3 AHimmte: die Gummiha>en waren mit drei Nägeln
-befeſtigt, und Landjäger Schmidt erklärte, die Maße der
-'Spur und dieſer Sch1:5e glichen einander vollſtändig.
+Es Stimmte: die Gummihacken waren mit drei Nägeln
+befestigt, und Landjäger Schmidt erklärte, die Maße der
+Spur und dieser echt:5e glichen einander vollständig.
 
-"Wera Jatte jetzt den Kopf geſenkt .
+»Wera Ratte jetzt den Kopf gesenkt …
 
-Platen atmete ichwer und. keuchend .
+Platen atmete schwer und. keuchend …
 
-Der Amtzörichter verſucht2 noh ein Letztes:
+Der Amtsrichter versucht? noch ein Letztes:
+
 <@pagebreak/>
-BDS0DS0SDOEOS000EGO220 3) 22020 ESEGEGOECGOSOo
+»Fräulein von Platen, ich möchte Sie daran erinnern,
+daß Ihr Herr Onkel hier auf Rügen einer der beliebtesten
+und angesehensten Großgrundbesier ist … Weshalb wollen
+Sie Ihrem Onkel den schweren Kummer bereiten
+»und.
 
-„Fräulein von Platen, ic) möchte Cie daran erinnern,
-daß Ihr Herr Onkel hier auf Nügen einer der veliebteſten
-und angeſehenſten Großgrundbeſier iſt ... Weshalb wol-
-len Sie Ihrem Onkel den ſc<hweren Kummer bereiten
-„und.
+… Wera hatte sich jäh erhoben …
 
-. Wera hatie ſich jäh erhoben ...
+»Sie werden mich verhaften, nicht wahr?« fragte sie
+mit müder Gleichgültigkeit …
+»Ah muß, falls Sie nicht …
 
-„Sie werden mich verhaften, nicht wahr?“ fragte ſie
-wit müder Gleichgültigkeit . |
-„Sh muß, ſalls Sie nicht ...
+»Nein — nein, ich kann nichts mehr sagen — gar nichts!
+Und wenn Sie mich monatelang einsperren, Sie … Sie
+werden die Wahrheit nie ergründen — nie!«
 
-„Nein -- nein, ich kann nichts mehr ſagen -- gar nicht3!
-Und wenn Sie mich monatelang einſperren, Sie ... Sie
-werden die Wahrheit nie ergründen -- nie!*
+»Das bleibt abzuwarten-.
 
-„Das bleibt abzuwarten-.
+Auch der Amtsrichter Eiland auf …
 
-Auch der Amtsörichter fitand auf .
+Widerwillig nur sprach er nun die inhaltschwvere Farmer
+aus …
 
-Widerwillig nur ſprach er nun die inhaltſchwvere For-
-mel aus .
+Und der alte Herr zwischen uns krampfte die Hände
+um die Tischkante und stierte seine Nichte mit glasigem Blick
+unvertwandt an …
 
-Und der alte Herr zwiſchen uns krampfte die Hände
-um die Tiſchkante und ſtierte ſeine Nichte mit glaſigem Blik
-unvertwandt an .
+Totenstille im »Zimmer …
 
-Totenſtille im "Zimmer ...
+Plötzlich Haralds Stimme — weich und unaufdringlich:
 
-“ Plötkli< Haralds Stimme --- weich und unaufdringlich:
+»Gestatten Sie, Herr Amtsrichter, daß ich zu dem Tatbestand
+dieses Mordes mochte einige Ergänzungen hinzufüge
+… =«— Bitte, nehmen Sie wieder Platz … Auch Sie,
+gnädiges Fräulein … — Ich muß etwas weit ausholen …«
 
-„Geſtatten Sie, Herr Amtsrichter, daß iG zu dem Tat-
-beſtand dieſes Mordes no<H& einige Ergänzungen hinzu-
-füge . .. =““-+ Bitte, nehmen Sie wieder Platz ... Auch Sie,
-gnädiges Fräulein . . . -- I< -muß etwas weit ausholen ..“
+— Und er begann mit dem Briefe Herrn von Platens, mit
+dem Mieter der Frau Henriette von Platen, — erwähnte
+den Mord in der Müllerstraße, erwähnte alles andere, —
+nichts verschwieg er … Die Vorgänge der gestrigen Nacht
+schilderte er … alles — alles … Dann den heutigen Vormittag,
+Longfields Verschwinden, Doktor Baakes Besuch: …
 
-- Und er begann mit dem Briefe Herrn von Platen3, mit
-dem Mieter der Frau Henriette von Vlaten, -- erwähnte
-den Mord in der Müllerſtraße, erwähnte alle3 andere, --
-nichts verſchwieg er ... Die Vorgänge der geſtrigen Nacht
-ſchilderte er ... alles --- alles ... Dann den heutigen Vor-
-mittag, Longfields Verſchwinden, Doktor Baakes Beſuch: ...
+Und selten wohl hat er so rückhaltlos — bevor ein: uns
+beschäftigender Fall restlos geklärt war, und so lückenlos
+einer Amtsperson Aufschluß über unser Tun gegeben.
 
-Und ſelten wohl hat er ſo rü&halil98 --- bevor eir: uns
-beſchäftigender Fall reſtlos geklärt war, und ſo lücenlos
-einer Amtsperſon Aufſchluß über unſer Tun gegeben.
+Er schloß dann mit folgenden hätten:
 
-Er ſc<loß dann mit folgenden Säten:
 <@pagebreak/>
-2O00S0SSOESBS0OSSGIO0 40 0020000202083 000
+»Daß dieser Geheimbund, der sich bei seinen Zusammenkünften
+der phantastischen Schlüssclattrappen bedient,
+existiert und daß der Bund zwölf Mitglieder hat oder gehabt
+hat, unterliegt nach alledem keinem Zweifel mehr. Man
+darf sich auch nicht weiter über diese phantastische Aufmachung,
+die Schlüssclattrappen, wundern, denn seit Ende
+des Weltkrieges sind überall die merkwürdigsten Geheimverbindungen
+entstanden, genau wie Okkultismus, Spiritismus
+und ähnliche »Geheimwissenschaften« in außerordentlichem
+Maße wieder aufgelebt sind. Ich erinnere zum Beispiel
+nur an den amerikanischen Geheimbund zu-Flur-Klan
+… — Was dieser Schlüsselbund bezweckt, wer die beiden
+Ermordeten sind, ob es sich bei diesen Toten etwa um
+Mitglieder des Bundes handelt, weiß ich nicht. Fräulein
+von Platen jedoch dürfte es wissen. Anderseits bin ich überzeugt,
+daß die junge Dame niemals die Mörderin jenes
+Unbekannten vom Feldwege ist. richtig dürfte sein, daß sie
+gestern nachmittag … diesen Mord verhindern wollte. Sie
+muß beobachtet haben, daß der Mörder seinem Opfer auflauerte,
+konnte das Opfer jedoch nicht mehr warnen. Da
+sie keine Waffe bei sich hatte, holte sie sich das Beil und eilte
+dorthin zurück, wo dem Manne, der dann getötet wurde,
+ihrer Meinung Gefahr drohte. Sie kam zu spät … Das
+Verbrechen war bereits geschehen. Ich bin auch genau so
+fest davon Überzeugt, daß das Beil tatsächlich in ein Knopfloch
+in der Schonung gefallen ist. Leider haben ja die anhaltenden
+Regengüsse alle Spuren verwischt. Trotzdem werde
+ich mit Schraut nachher die Schonung absuchen. — Sie
+sind nun vollkommen informiert, Herr Amtsrichter. Ich rate
+Ihnen zu folgendem: Lassen Sie Fräulein von Platen hier
+in ihrem Zimmer bewachen. Ersparen Sie ihr die Hast in
+einer Zelle. Sie würden die Verhaftung doch wieder aufheben
+müssen. Geben Sie mir zwei Tage Zeit. In diesen
+achtundvierzig Stunden hoffe ich Ihnen restlos über all
+diese dunklen Dinge Ausschluß geben zu können …«
 
-„Daß dieſer Geheimbund, der ſich bei ſeinen Zuſam-
-menkünfſten der phantaſtiſc<en Schlüſſclattrappen bedient,
-exiſtiert und daß der Bund zwölf Mitglieder hat oder ge-
-habt hat, unterliegt nah alledem keinem Zweiſel mehr. Man
-darf ſiH auch nicht weiter über dieſe phantaſtiſche Auſ-
-machung, die Schlüſſclattrappen, wundern, denn ſeit Ende
-des Weltkrieges ſind überall die merkwürdigſten Geheim-
-verbindungen entſtanden, genau wie Okkulti8mus, SpiritiS-
-mus und ähnliche „Geheimwiſſenſchaften“ in außerordent-
-lichem Maße wieder aufgelebt ſind. J< erinnere zum Bei-
-ſpiel nur an den amerikaniſchen Geheimbund Ku-Ftlux-
-Klan ... --- Was dieſer Schlüſſelbund bezweckt, wer die bei-
-den Ermordeten ſind, ob es ſich bei dieſen Toten etwa um
-Mitglieder des Bundes handelt, weiß ic<h nicht. Fräulein
-von Platen jedoh dürſte e8 wiſſen. Anderſeits bin ich über-
-zeugt, daß die junge Dame niemals die Mörderin jenes
-Unbekannten vom Feldwege iſt. Nichtig dürfte ſein, daß ſie
-geſtern nachmittag . .. dieſen Moxd verhindern wollte. Sie
-muß beobachtet haben, daß der Mörder ſeinem Opfer auf-
-lauerte, konnte da38 Opfer jedoch nicht mehr warnen. Da
-ſie keine Waſfe bei ſich hatte, holte ſie ſich das Beil und eilte
-dorthin zurü>k, wo dem Manne, der dann getötet wurde,
-ihrer Meinung Gefahr drohte. Sie kam zu ſpät ... Das
-Verbrechen war bereit3 geſchehen. Ih bin auch genau ſo
-feſt davon Überzeugt, daß da3 Beil tatſächlich in ein Moor»
-loch in der Schonung gefallen iſt. Leider haben ja die an-
-haltenden Negengüſſe alle Spuren verwiſcht. Troßdem werde
-iH mit Schraut nachher die Schonung abſuchen. =-- Sie
-ſind nun vollkommen informiert, Herr Amt3richter. I< rate
-Ihnen zu folgendem: Laſſen Sie Fräulcin von Platen hier
-in ihrem Zimmer bewachen. Erſparen Sie ihr die Haſt in
-einer Zelle. Sie würden die Verhaftung doh wieder auſ-
-bebon müſſen. Geben Sie mir zwei Tage Zeit. In dieſen
-achtundvierzig Stunden hoſſe i< Ihnen reſtlo8 über all
-dieſe dunklen Dinge Auſſchluß geben zu können ...*
+Der Amtsrichter war einverstanden.
 
-Der Amtsrichter war einverſtanden.
 <@pagebreak/>
-200800 E0020200d2 41 D0D0E00E8ES0CHESI0S
+Nochmals versuchte er dann Wera zum Leben zu verlegen.
+Auch Eugen von Platen, der Eure Haralds Aussithy-rungen
+sichtlich beruhigt worden war und ihm stumm und
+dankbar die Hand gedrückt hatte, versuchte ein gleiches. Das
+junge Mädchen schüttelte nur den Kopf …
 
-Nochmals verſuchte er vann Wera zum Leden zu briie-
-gen. Auch Eugen von Platen, der dure Haralds Ausſithy-
-rungen ſichtlic) beruhigt worden war und ihm ſtumm und
-dankbar die Hand gedrüct hatte, verſuchte ein gleiches. Das
-junge Mädchen ſchüttelte nur den Kopf ...
+Stolz und aufrecht begab sie sich auf ihr Zimmer. Landjäger
+Knuth übernahm vorläufig ihre Bewachung. Der
+Radioapparat samt Zubehör wurde aus dem Zimmer entfernt
+und die Antennenzuleitung abmontiert.
 
-Stolz und aufrecht begab ſie ſich auf ihr Zimmer. Land-
-jäger Knuth übernahm vorläuſig ihre Bewachung. Der
-Radioapparat ſamt Zubehör wurde au38 dem Zimmer ent-
-ſernt und die Antennenzuleitung abmontiert.
+Nachdem wir dann noch einen Imbiß eingenommen
+hatten, fuhren wir mit den Beamten bis in die Nähe der
+Schonung …«.
 
-“ Nachdem wir dann noc< einen Imbiß eingenommen
-batten, fuhren wir mit den Beamten bis in die Nähe der
-Schonung. .„.
+Harald fand hier tatsächlich einen sumpfigen Tümpel,
+neben dem ausgerissene Stücke Moos lagen. Im übrigen
+hatte der Regen alle Spuren ausgelöscht.
 
-Harald fand hier tatſähliH einen ſumpfigen Tümpel,
-neben dem ausgeriſſene Stüke Moo3 lagen. Jm übrigen
-hatte der Regen alle Spuren ausgelöſcht.
+Satz
 
-SZ GZ
+<h2>2. Kapitel.</h2>
+<h3>Weras Fenster.</h3>
 
-2. Kapitel.
-Weras Fenſter.
+Das Problem »Teelöffel-Geheimbund« war nunmehr
+zu ein neues Stadium gerät. Hartemer und Schrack gab
+es nicht mehr. Wir haben unsere Agrariermasken abgelegt,
+und Harst und Schraut bemühten ich in aller Öffentlichkeit
+um den absonderlichen Kriminalfall.
 
-Das Problem „Scclüſſel-Geheimbund“ war nunmehr
-zn ein neue3 Stadium gerüt. Hartemer und Schra> gab
-e8 nicht mehr. Wir haben unſere Agrariermasken abgelegt,
-und Harſt und Shraut bemühten iich in aller Oeffentlich-
-keit um den abſonderlichen Kriminalſall.
+Der mißgünstige Wettergott schien hierauf Rücksicht zu
+nehmen. Die schweren Wolken zogen davon. Der Wind war
+umgesprungen.
 
-Der mißgünſtige Wettergott ſchien hierauf Rüdſicht zu
-nehmen. Die ſchweren Wolken zogen davon. Der Wind war
-umgeſprungen.
+Nach der Durcsuchuing der Schonung langten wi’. 83
+strahlendem Sonnenschein in Sellin vor dem Pensionat
+Waldesblick an.
 
-Nach der Durcſuchuing der Schomung langten wi'. 83
-ſtrahlendem Sonnenſchein in Sellin vor dem Penſionat
-Waldesbli>k an.
+Ich will nun das Ergebnis unserer mit dem Amtsrichter
+gemeinsam unternommenen Nachforschungen in Sellin
+hier ganz kurz zusammenfassen.
 
-I<h will nun das Ergebnis unſever mit dem Amts8rich-
-ter gemeinſam unternommenen Nachſorſcungen in Sellin
-hier ganz kurz zuſammenſfajſen.
 <@pagebreak/>
-000000200 0202-C0 (1) 202020 TCTCA0850020
-
-Im VPenſionat Waldesbli>k wohnten ſeit YVitie Mai
-vier Herren, die ſich offenbar unter falſchen Namen anac-
-nicldet hatten. Jhre Zimmer lagen im oberſten Sto>. Sie
-hatten ſich die Antenne angelegt und ſich im übrigen durch-
-aus unauffällig benommen. Einer von ihnen war zweiſfel-
-fos Harry Longfield geweſen, der eine Verkleidung getragen
+Im Pensionat Waldesblick wohnten seit Bitte Mai
+vier Herren, die sich offenbar unter falschen Namen angemeldet
+hatten. Ihre Zimmer lagen im obersten Stock. Sie
+hatten sich die Antenne angelegt und sich im übrigen durchaus
+unauffällig benommen. Einer von ihnen war zweifellos
+Harry Longfield gewesen, der eine Verkleidung getragen
 
 hatte.
-Die beiden geſtern neu eingetroffenen Portugieſen wie-
-der hatten ein gemeinſames Zimmer genommen -- das
+Die beiden gestern neu eingetroffenen Portugiesen wieder
+hatten ein gemeinsames Zimmer genommen — das
 
-fünfte im Obergeſchoß. Doch auch ſie waren hcute vormittäg
-wieder abgereiſt, angeblih nad? Saßnitz. Mithin ſtanden
+fünfte im Obergeschoß. Doch auch sie waren heute vormittag
+wieder abgereist, angeblich nach? Saßnitz. Mithin standen
 die fünf Zimmer leer. Auch Longfields Gepäck hatten die
-anderen heimlich mitgenommen. Wohin ſie ſich gewandt
-hatten, war nicht zu ermitteln, =
+anderen heimlich mitgenommen. Wohin sie sich gewandt
+hatten, war nicht zu ermitteln, —
 
-Vom Penſionat begaben wir uns zu Doktor Baake. --
-Die Lage des Zimmer3, in dem der verwundete Longſield
-untergebracht geweſen, hatte deſſen Wegſchaſſung weſent-
-ſich erleichtert. Man hatte den Kranken dur< das Fenſter
-gehoben und dann in den Wald getragen. Auch hier ließ"
-ſich nicht3 weiter feſtſtellen.
+Vom Pensionat begaben wir uns zu Doktor Baake. —
+Die Lage des Zimmers, in dem der verwundete Longfield
+untergebracht gewesen, hatte dessen Wegschaffung wesentlich
+erleichtert. Man hatte den Kranken durch das Fenster
+gehoben und dann in den Wald getragen. Auch hier ließ«
+sich nichts weiter feststellen.
 
-Gegen fünf Uhr nachmittags führte un3 da38 Auto nach
-den Ueberbleibſeln der einſtigen Schwedenfeſte. Von Ruinen
-fonnte man nicht: mehr gut ſprechen, denn e8 waren eben
-nur no< Schutthaufen vorhanden, die mit Unkraut, Moos
-und Farnkräutern völlig bede>t waren. . .
+Gegen fünf Uhr nachmittags führte uns das Auto nach
+den Überbleibseln der einstigen Schwedenfeste. Von Ruinen
+konnte man nicht: mehr gut sprechen, denn es waren eben
+nur noch Schutthaufen vorhanden, die mit Unkraut, Moos
+und Farnkräutern völlig bedeckt waren …
 
-Landjäger Schmidt aus Sellin hatte hierher ſeinen
-Hund mitgenommen. Aber aud die feine Naſe de3 deut-
-ſchen Schäferhunde3 verſagte. Harald hatte erwartet, daß
-wir irgendeinen Zugang zu den Kellerräumen der einſtigen
-Burg finden würden. Wir ſuchten anderthalb Stunden --
-ergebnislo3“.
-| Darauf ging's wieder nach Sellin zurü>k. Der Amts8-
-richter hatte ſhon vorher an die benachbarten Badeorte und
-die Hauptknotenpunkte der Eiſenbahn das Signalement der
-Leute aus dem Walde3bli> telegraphiert und um Feſtnahme
-der Betreffenden erſucht.
+Landjäger Schmidt aus Sellin hatte hierher seinen
+Hund mitgenommen. Aber auch die seine Nase des deutschen
+Schäferhundes versagte. Harald hatte erwartet, daß
+wir irgendeinen Zugang zu den Kellerräumen der einstigen
+Burg finden würden. Wir suchten anderthalb Stunden —
+ergebnislos«.
+Darauf ging’s wieder nach Sellin zurück. Der Amtsrichter
+hatte schon vorher an die benachbarten Badeorte und
+die Hauptknotenpunkte der Eisenbahn das Signalement der
+Leute aus dem Waldesblick telegraphiert und um Festnahme
+der Betreffenden ersucht.
+
 <@pagebreak/>
-DSSSODSSDSEOSO20 413 00000200 D00O0020
+Es war alles geschehen, was nur irgend geschehen
+konnte, um dieser insgesamt sechs Verdächtigen, einschließlich
+Longfields, habhaft zu werden.
 
-Es war alle3 geſchehen, was nur irgend geſchehen
-konnte, um dieſer ins8geſamt ſechs Verdächtigen, einſchließ-
-lich Longfields, habhaft zu werden.
-
-Die Ausſichten, ſie zu erwiſchen, waren inſofern günſtig,
-al3 der verwundete Longſield do) unbedingt mit ſeinen
+Die Aussichten, sie zu erwischen, waren insofern günstig,
+als der verwundete Longfield da) unbedingt mit seinen
 Begleitern auffallen mußte.
 
-Abend3 ſieben Uhr fuhr der Amtsrichter naH Putbus
+abends sieben Uhr fuhr der Amtsrichter naß Putbus
 zurück. Wir beide wanderten zu Fuß nach Sellinhof.
 
-Harald war ſehr ſtill und in ſich gekehrt. Wir hatten
-dann erſt eine kurze Stre>e zurücgelegt, als er ſtehen blicb..
+Harald war sehr still und in sich gekehrt. Wir hatten
+dann erst eine kurze Strecke zurückgelegt, als er stehen blieb …
 
-„Bechert muß helfen,“ ſagte er ſehr lebhaft. Nur ihm,
-dem Berliner Kriminalkommiſſar, ſteht der gewaltige, tadel»
-[o3 arbeitende Nieſenapparat einer muſtergültigen Polizei
-zur Verfügung ... Jdc) werde ihm eine Chiſſfredepeſche ſen-
-den. -- Komm', mein Alter, auf dem Poſtamt in Sellin
-entwerſen wir das Telegramm.
+»Bechert muß helfen,« sagte er sehr lebhaft. Nur ihm,
+dem Berliner Kriminalkommissar, steht der gewaltige, tadeln
+[H3 arbeitende Riesenapparat einer mustergültigen Polizei
+zur Verfügung … Ade) werde ihm eine Chiffredepesche senden.
+— Komm’, mein Alter, auf dem Postamt in Sellin
+entwerfen wir das Telegramm.
 
-E5 lautete dechiffriert:
+Es lautete dechiffriert:
 
-Kriminalkommiſſar Friß Bechert, Berlin, König-
-ſtraße 9.
+Kriminalkommissar Fritz Bechert, Berlin, Königstraße
+9.
 
-Bitte um beſchleunigte genaueſte Erledigung fol-
-q ender Ermittlungen über folgende Perſonen, die in
-Berlin Medizin ſtudieren oder ſtudierten. Erſtens:
-Harry Longſield aus Chikago, zuletzt Charlottenburg,
-Waibſtr. 26, bei von Platen vohnhaft. -- Zweitens:
-Vortugieſen Joſe Otero und Philippe Largetto, Ber-
-liner Wohnung: Charlottenburg, Bi8marckſtr. 81. --
-Tritten3 über nachſtehende, nicht näher bekannte Leute:
-Halberjon, Warrani, Barton, Smidt, v. Kerſten, Al-
-bernon, Szestöni, Simonſen, Nanſen. =“ Dieſe Lett-
-genannten dürften gleichſalls Studenten ſein. --- Un-
-bedingt nötig, über aller Vorleben möglichſt genate Cr-
-kundigungen. --- Vermieter der Betrefſenden über Le-
-bens8ſührung auS8forſchen. Jede Kleinigkeit wichtig.
-Handelt ſich um Mord in der Müllerſtraße, um Vorfall
+Bitte um beschleunigte genaueste Erledigung folgenden
+Ermittlungen über folgende Personen, die in
+Berlin Medizin studieren oder studierten. Erstens:
+Harry Longfield aus Chikago, zuletzt Charlottenburg,
+Waibstr. 26, bei von Platen wohnhaft. — Zweitens:
+Portugiesen lose Otero und Philippe Largetto, Berliner
+Wohnung: Charlottenburg, Bismarckstr. 81. —
+Drittens über nachstehende, nicht näher bekannte Leute:
+Halberson, Warrani, Warten, Furcht, v. Kersten, Albernon,
+verstört, Simonsen, ganzen. — Diese Lett-genannten
+dürften gleichfalls Studenten sein. — Unbedingt
+nötig, über aller Vorleben möglichst gerade Erkundigungen.
+— Vermieter der Betreffenden über Lebensführung
+ausforschen. Jede Kleinigkeit wichtig.
+Handelt sich um Mord in der Müllerstraße, um Vorfall
 <@pagebreak/>
-DSSSSSSSSSSS 44 SSSSSSSSSSSSD
+mit dem Polizeibeamten, der einem Manne nachts große
 
-mit dem Polizeibeamten, der einem Manne nacht3 große
+Schlüsselattrappe abnahm, und um einen Mord auf
 
-Sclüſſelattrappe abnahm, und um einen Mord auf
+Rügen bei Sellin. — Zeitungen werden hierüber Nähe
 
-Rügen bei Sellin. --- Zeitungen werden hierüber Nähe-
+gen. Gruß Harst und Schraut. Sellinhof bei
+Sellin
 
-gen. Gruß Harſt und Schraut. Sellinhof bei
-ellin
-
-Nachdem dieſe Depeſche abgegangen, machten wir uns
+Nachdem diese Depesche abgegangen, machten wir uns
 von neuem auf den Heimweg.
 
-Harald war jetbt ſehr geſprächig. Wir ſtellten allerlei
+Harald war jetzt sehr gesprächig. Wir stellten allerlei
 Vermutungen über den Geheimbund auf, ohne daß uns
-auch nur eine einzige dieſer ziemlich haltloſen Kombinatio-
-nen befriedigt hätte .
+auch nur eine einzige dieser ziemlich haltlosen Kombinationen
+befriedigt hätte …
 
-„Die Dinge ſchweben wie Nebelfeen in der Luft,“
-meinte Harſt ſchließlich. „Wir reden um eine Sache herum,
-vie noc< keinerlei Fundament hat ... Befaſſen wir uns
-lieber nmät Einzelheiten, ſo zum Beiſpiel mit der Frage: wo-
-hin ſind die ſec<3 Leute geflüchtet --- ſamt ihrem Gepä> -+“
-wohin?! Die Eiſenbahn oder einen der Rügendampfer
-können ſie nicht benutzt haben. Der verwundete Longſield
+»Die Dinge schweben wie Arbeitern in der Luft,«
+meinte Harst schließlich. »Wir reden um eine Sache herum,
+die noch keinerlei Fundament hat … Befassen wir uns
+lieber antat Einzelheiten, so zum Beispiel mit der Frage: wohin
+sind die sechs Leute geflüchtet — samt ihrem Gepäck—«
+wohin?! Die Eisenbahn oder einen der Rügendampfer
+können sie nicht benutzt haben. Der verwundete Longfield
 wäre ihr Verräter geworben. Das Unwetter, das noch
-vormittags herrſchte, begünſtigte ihr Verſchwinden. Ich
-behaupte, ſie ſieden noch igendwo in der Nähe. Sie haben
-hier irgendwo einen vorbereiteten Unterſchlupf geſunden.
-Und viellei<ht hat Wera ibnen ein ſolches Verſtek nachge-
-wieſen. Bedenke, daß Wera Verbandzeug mit nach Sellinhof
-brachte. Sie wollte dieſe3 Verbandmaterial ja fraglos für
-Longfield benutzen. Alſo .
+vormittags herrschte, begünstigte ihr Verschwinden. Ich
+behaupte, sie sieden noch Agentur in der Nähe. Sie haben
+hier irgendwo einen vorbereiteten Unterschlupf gefunden.
+Und vielleicht hat Wera ihnen ein solches Versteck nachgewiesen.
+Bedenke, daß Wera Verbandzeug mit nach Sellinhof
+brachte. Sie wollte dieses Verbandmaterial ja fraglos für
+Longfield benutzen. Also …
 
-. alſo iſt Longſielb unbedingt nod hier!“
+… also ist Longfield unbedingt noch hier!«
 
-„Ja, mein Alter ... Und die anderen Schlüſſel-Männer
-mi<: -- Wo aber?! - Vielleicht läßt ſiH von Eugen von
-Platen etwa3 erfahren .
+»Ja, mein Alter … Und die anderen Schlüssel-Männer
+mich: — Wo aber?! — Vielleicht läßt sich von Eugen von
+Platen etwas erfahren …
 
-„Wie da8?! Wie follte Platen wohl .
-= "Abwarten „11“ .
+»Wie daß?! Wie sollte Platen wohl …
+— »Abwarten »11« …
 
-“. im halb neun ſpeiſten wir mit Platen gemeinſam zu
-Abend. Der alte 'Herr war ſehr froh, al8 wir wieder im
-Herrenhauſe eintrafen, ließ ſich nun alles genau erzählen
-und berichtete dann ſeinerſeit8, daß er zweimal oben bei
+». im halb neun speisten wir mit Platen gemeinsam zu
+Abend. Der alte ’Herr war sehr froh, als wir wieder im
+Herrenhause eintrafen, ließ sich nun alles genau erzählen
+und berichtete dann seinerseits, daß er zweimal oben bei
 <@pagebreak/>
-2200Sü02D2D0200S02DO 45 220282020000202020
+Wera gewesen sei, die durchaus gehabt erscheine und ihn
+unter Tränen in sehr lieber Weise um Verzeihung gebeten
+habe, weil sie ihm so viel Aufregungen bereite. Dabei hatte
+sie betont, daß sie nichts mit dem Morde zu tun habe und
+ihre Schuldlosigkeit schon irgendwie erwiesen werden
+würde …
 
-Wera geweſen ſei, die durchaus geſaßt erſcheine und ihn
-unter Tränen in ſehr lieber Weiſe um Verzeihung gebeten
-habe, weil ſie ihm ſo viel Auſregungen bereite. Dabei hatte
-ſie betont, daß ſie nichts mit dem Morde zu tun habe und
-ihre Sc<uldloſigkeit ſchon irgendwie erwieſen werden
-würde ...
+Seufzend fügte er hinzu:
 
-Seufſzend fügte er hinzu:
+»Sie ist bot ein gutes Mädel, die Wera … Eigentlich
+bedauere ich sie … Dieser Lump von Longfield hat sie eben
+völlig in seiner Gewalt … »1«
 
-„Sie iſt voH ein gutes Mädel, die Wera ... Eigentlich
-bedauere ich ſie ... Dieſer Lump von Longfield hat ſie eben
-völlig in ſeiner Gewalt . „1“
+»und zur Sache selbst äußerte sie sich nicht, Herr von
+Platen?«
 
-„und zur Sache ſelbſt äußerte ſie ſich nicht, Herr von
-Platen?“
+»Nein, lieber Harst … In dem Punkt bleibt sie bockbeinig
+… Da ist nichts zu machen …
 
-„Nein, lieber Harft ... In dem Punkt bleibt ſie bod>-
-beinig . . Da iſt nichts zu machen .
+Der alte Diener trug jetzt den Nachtisch auf …
 
-Der alte Diener trug jetßt den Nachtiſch auf .
-
-Das Geſpräch ſto>te ...
+Das Gespräch stockte …
 
 Als wir dann nachher im Garten auf und ab gingen
-und eine Verdauungszigarre rauchten, fragte Harald unver-
-mittelt, ob ſich auf dem Guts38gelände von Sellinhof vielleicht
-noF& andere alte Baulichkeiten außer den Ucberbleibſeln
-der Schwedenburg beſänden ...
+und eine Verdauungszigarre rauchten, fragte Harald unvermittelt,
+ob sich auf dem Guts38gelände von Sellinhof vielleicht
+rote andere alte Baulichkeiten außer den Überbleibseln
+der Schwedenburg befanden …
 
-Platen nickte ...
+Platen nickte …
 
-„Nur die RNuſnen des einſtigen Vorwerk8 Granitz ...
--- Schloß Granitz mit dem hohen Turm kennen Sie ja,
-meine Herren ... Und vor ſünfzig Jahren gab es eben noh
-ein Vorwerk Granib. E8 liegt in dem Heideftreiſen nach
+»Nur die Ruinen des einstigen Vorwerks Granitz …
+— Schloß Granitz mit dem hohen Turm kennen Sie ja,
+meine Herren … Und vor fünfzig Jahren gab es eben noch
+ein Vorwerk Tragik. Es liegt in dem Heidestreifen nach
 Norden zu. Dreihundert Morgen Heideland, die keinen
-Pſennig einbringen. Mein Vater gab das Vorwerk auf.
-Die Gebäude hätten gründlich ausgebeſſert werden müſſen,
-und es ſehlte an dem nötigen Kleingeld. -- Wesghalb fragen
-Sie hierna, Herr Harſt?“
+Pfennig einbringen. Mein Vater gab das Vorwerk auf.
+Die Gebäude hätten gründlich ausgebessert werden müssen,
+und es fehlte an dem nötigen Kleingeld. — Wesghalb fragen
+Sie hieran, Herr Harst?«
 
-„Ah -- aus Intereſſe an alten Baulichkeiten ... I<
-glaubte, e8 ſei hier in der Nähe vielleicht noch eine Burg-
-ruine vorhanden ...“
+»Ah — aus Interesse an alten Baulichkeiten … Ich
+glaubte, es sei hier in der Nähe vielleicht noch eine Burgruine
+vorhanden …«
 
-„Nein ... Nur zwiſchen Saßnitz und Stiubbenkammer
+»Nein … Nur zwischen Saßnitz und Stubbenkammer
 <@pagebreak/>
-222200202020202002 416 200202002002022222
+gibt es noch Ruinen, die aus der Schwedenzeit stammen
+Jollen …« —
 
-gibt es no< Ruinen, die aus der Schwedenzeit ſtammen
-Jollen ...“" --
+Ich hatte gespannt zugehört …
 
-I< hatte geſpannt zugehört ...
+Ich wußte nun, wo die sechs Flüchtlinge wahrscheinlich
+stecken: in dem früheren Vorwerk, um das sich niemand
+mehr kümmerte und das in der Heide dort ganz abgeschlossen
+lag
 
-I<h wußte nun, wo die ſechs Flüchtlinge wahrſcheinlich
-fte>ten: in dem ſrüheren Vorwerk, um das ſich niemand
-mehr fümmerte und das in der Heide dort ganz abgeſchie-
-ven lag
+un elf Uhr gingen wir zu Bett …
 
-un elf Uhr gingen wir zu Bett ...
+Vielmehr — wir gingen nicht zu Bett …
 
-Vielmehr -- wir gingen nicht zu Bett ...
-
-Um halb zwölf trat unſere praktiſc<e Strickleiter wieder
+Um halb zwölf trat unsere praktische Strickleiter wieder
 in Tätigkeit. Wir benutzten ein paar Minuten, wo eine
-einzelne Wolke da8 Mondlicht abſperrte, und waren im
-Moment im Schutz der Gartenbüſche .
+einzelne Wolke daß Mondlicht absperrte, und waren im
+Moment im Schutz der Gartenbüsche …
 
-' Was Harald vorhatte, wußte ich nicht.
+Was Harald vorhatte, wußte ich nicht.
 
-Wir legten uns dann den Fenſtern Weras8 gegenüber
-auf die Lauer .
+Wir legten uns dann den Fenstern Weras gegenüber
+auf die Lauer …
 
-Die Nacht war heiß und mondhell. Die regengeſättigte
-Erde hauchte ſchweren Dunſt aus. Wie feine Nebelſchleier
-lag e8 zwiſchen ven Sträuchern und Bäumen ... Vom
-Wirtſchaft3hofe her kamen aus den Ställen vereinzelte Töne
+Die Nacht war heiß und mondhell. Die regengesättigte
+Erde hauchte schweren Dunst aus. Wie seine Nebelschleier
+lag es zwischen den Sträuchern und Bäumen … Vom
+Wirtschaftshofe her kamen aus den Ställen vereinzelte Töne
 
-dumpfes Brüllen von Nindern, das Blöken von 1! Scha-
-fen -.. Irgendwo gurrten ein päar Wildtauben .
+dumpfes Brüllen von Kindern, das Blöken von!! Schafen
+-… Irgendwo gurrten ein paar Wildtauben …
 
-Wera3 Fenſter waren dunkel .
+Weras Fenster waren dunkel …
 
-Landjäger Knuth hatte ſchon abends ſeinen Poſten ver-
-ſaſſen, da Eugen von Platen die Gewähr dafür übernommen
-haite, daß ſeine Nichte da8 Zimmer weder verlaſſen noch
+Landjäger Knuth hatte schon abends seinen Posten verlassen,
+da Eugen von Platen die Gewähr dafür übernommen
+hatte, daß seine Nichte daß Zimmer weder verlassen noch
 Gelegenheit finden würde, mit irgend jemandem draußen
 in Verbindung zu treten.
 
-Wie leichtfertig dies Verſprechen abgegeben war, ſollte
-Nich ſehr bald zeigen. Und da begriff im auch, weShalb wir
-hier in den Büſchen kauerten.
+Wie leichtfertig dies Versprechen abgegeben war, sollte
+mich sehr bald zeigen. Und da begriff im auch, weshalb wir
+hier in den Büschen kauerten.
 
-ID ſah, daß die veſchloſſenen Vorhänge des linken Jen-
-ſters8 ſich bewegten . .
+Ich sah, daß die beschlossenen Vorhänge des linken Fensters
+sich bewegten …
 
-Ein Geſicht war ni<t zu bemerken. Aber zweifellos
-pähte Wera hinaus, um feſtzuſtellen, ob jemand unten vor
-zm Hauſe ſie beobachten könnte.
+Ein Gesicht war nicht zu bemerken. Aber zweifellos
+spähte Wera hinaus, um festzustellen, ob jemand unten vor
+zu Hause sie beobachten könnte.
+
 <@pagebreak/>
-DO2002C0000500 1) 0222286200060 000
+Fünf Minuten verstrichen …
 
-Fünf Minuten verſtrichen ,...
+Dann öffneten sich die Volkssage noch mehr …
 
-Dann öſſneten ſich die Vorljänge noh mehr ...
+Und in der Spalte dritte ein weißer Lichtstrahl aus!
+eine Taschenlampe …
 
-Und in der Spalte blihte ein weißer Lichtſtrayl auſt
-eine Taſchenlampe ...
+Das Licht erlosch …
 
-Das Licht erloſch ...
+Glühte von neuem …
 
-Glühte von neuem ...
+Erlosch — in längeren und kürzeren Pausen …
 
-Erloſc<h --- in längeren und kürzeren Pauſen ...
-
-Wera ſignaliſierte ...
+Wera signalisierte …
 
 Wohin aber?!
 
-Die Parkbäume verſperrten die Ausſicht in die Ferne...
+Die Parkbäume versperrten die Aussicht in die Ferne …
 
-Nur jemand, der drüben jenſeits des Gartens, wo das
-Gelände anſtieg und eine kleine Gruppe von Eichen ſtand, -
-konnte von dort die Fenſter und die Lichtzeihen wahrneh-
-men .
+Nur jemand, der drüben jenseits des Gartens, wo das
+Gelände anstieg und eine kleine Gruppe von Eichen stand, —
+konnte von dort die Fenster und die Lichtzeichen wahrnehmen
+…
 
-Harald raunte mir auch ſchon zu:
+Harald raunte mir auch schon zu:
 
-„Begib Dich ſchnell nach der Anhöhe drüben ... Du
-AN Deſcheid ...- 34 will die Morſezeichen weiter ab-
-eſen ...
-I< verſchwand ... “
+»Begib Dich schnell nach der Anhöhe drüben … Du
+an Bescheid …- 34 will die Morsezeichen weiter ablegen
+…
+Ich verschwand …«
 
-Zwiſchen dem Gartenzaun und ven Eien droben zog
-ſich eine Neihe von Haſelnußbüſchen hin. So konnte' ich
+Zwischen dem Gartenzaun und den Eier droben zog
+sich eine Reihe von Haselnußbüschen hin. So konnte’ ich
 denn ohne Mühe bis an den Eichenhain heran.
 
-Es waren nur a<ht mächtige Stämme, das Ueberbleibſel
-eines vor langer Zeit ausgerodeten Waldſtüc>es.
+Es waren nur acht mächtige Stämme, das Überbleibsel
+eines vor langer Zeit ausgeworfen Waldstückes.
 
-Zwiſchen den letzten Büſchen blieb 1H& licget. Die
-Eichen waren etwa zwanzig Meter entiernt.
+Zwischen den letzten Büschen blieb 1H& Ziegel. Die
+Eichen waren etwa zwanzig Meter entfernt.
 
-Zunächſt ſah ic<h dort niemand --- niemand ... Dann
-wurde jedoch in der Krone der am weiteſjien links ftehenden
-Eiche der gelbweiße Schein einer Karbidlaterne ſür Sekun-
-den ſicmtbar. Gleichzeitig ſaſt hörte ich rec)is von mir das
-ſchrille Kiwitt --- Kiwitt eines Kiebitz...
+Zunächst sah ich dort niemand — niemand … Dann
+wurde jedoch in der Krone der am verkehrten links stehenden
+Eiche der gelbweiße Schein einer Karbidlaterne für Sekunden
+sicmtbar. Gleichzeitig fast hörte ich roch)ist von mir das
+schrille Kiwitt — Kiwitt eines Kiebitz …
 
-Der Laternenſchein blieb aus ...
+Der Laternenschein blieb aus …
 
-Und wie i< mich nun etwas mehr «ufrigten wollte,
-um beſſer jehen zu können, umkralite plötzlich von hinten
-emand meinen Hal3 mit zwei nervigen Händen ... Cine
+Und wie ich mich nun etwas mehr »Artisten wollte,
+um besser sehen zu können, umkrallte plötzlich von hinten
+jemand meinen Hals mit zwei nervigen Händen … ohne
 
-tte Hand drückte mir ein feuchte3 Tuch auf das Geſicht . . .
+hatte Hand drückte mir ein feuchtes Tuch auf das Gesicht …
+
 <@pagebreak/>
-2202220202022020 113 000220822020 20202
+Der Griff lockerte sich … Ich wollte um Hilfe rufen …
+Aber das Betäubungsmittel, mit dem das Tuch getränkt
+war, mußte weit wirksamer sein als Chloroform oder ein
+sonstiges Narkotikum …
 
-Der Griff lodkerte ſic . .. I< wollte um Hilſe rufen ...
-Aber das Betäubungsmittel, mit dem das Tuch getränkk
-war, mußte weit wirkſamer ſein als Chloroſorm oder ein
-ſonſtiges Narkotikum ...
+Ich verlor im Moment die Besinnung …
 
-Ich verlor im Moment die Beſinnung ...
+bei
 
-KEI
+<h2>8. Kapitel.</h2>
 
-8. Kapitel.
+<h3>Der Mann mit der Laterne.</h3>
 
-Der Mann mit der Laterne,
+Ein seltsamer Zustand …
 
-Ein ſeltſamer Zuſtand ...
+Ich wußte, daß ich wieder zu mir gekommen war …
 
-IH wußte, daß ich wieder zu mir gekommen war ...
+Und doch hatten: die Eindrücke, die mein müdes Hirn
+durch Auge und Ohr empfing, etwas so Traumhaft-Unwirkliches
+…
 
-Und doh hatten: die Eindrücke, die mein müde3 Hirn
-durch Auge und Ohr empfing, etwas ſo Traumhaft-Unwirk-
-liches ...
+Wie im Halbschlaf, — wenn man zwischen Traum und
+Tatsache zu schweben scheint und beides durcheinandermischt
+…
 
-Wie im Halbſchlaf, = wenn man zwiſchen Traum und
-Taijache zu ſc<weben ſc<eint und beides durcheinander-
-miſcht .
+Meine schweren Augenlider klappen immer wieder der
 
-Meine ſc<weren Augenlider klappen immer wieder ber-
-
-Wenn ich ſie mit aller Macht emporreiße, bleibt doch
-ſtets dasſelbe Bild ...
-Kinoſzene .
-Regiekünſte, auf das Grauſige eingeſtellt ... Jedoch
-alles in der Uebertreibung, um gleichzeitig das gewollt Gro-
-teske zu betonen ...
-Aber keine gemalten Pappwände ...
-Dieſe Umgebung war Natur, war e<ht. Da3 bewic3 der
-Geruch, das bewieſen die ... Natten, die Fledermäuſe ...
-Modergeruch ...
-Etwa wie in feuchten Kellern, in denen Kartoſſeln
-'verfaulen ...
-Dazu Harzfa>eln mit ſimanelbedeckten Ma«uerſpalten ..
-Keine künſtlichen Fackeln .
+Wenn ich sie mit aller Macht empor reiße, bleibt doch
+stets dasselbe Bild …
+Kinoszene …
+Regiekünste, auf das Grausige eingestellt … Jedoch
+alles in der Übertreibung, um gleichzeitig das gewollt Ernsteste
+zu betonen …
+Aber keine gemalten Pappwände …
+Diese Umgebung war Natur, war echt. Das bewies der
+Geruch, das bewiesen die … Kasten, die Fledermäuse …
+Modergeruch …
+Etwa wie in feuchten Kellern, in denen Kartoffeln
+verfaulen …
+Dazu Harzfackeln mit simanelbedeckten Mauerspalten …
+Keine künstlichen Fackeln …
 
 ab
+
 <@pagebreak/>
-DSDSSDESSSO2EO 41) 0008050 S0S5S02002D02D
+jene Kiefernäste, an denen infolge einer Verlobung
+der Rinde das Harz in Menge Fußtritt und schließlich das
+Holz in harter Schicht umgibt …
 
-Iene Kieſernäſte, an denen inſolge einer Verlehung
-der Rinde das Harz in Menge ausStritt und ſc<ließlic) das
-Holz in harter Schicht umgibt .
+Qualmmassen quollen von diesen düster lohenden
+Kiefernästen empor …
 
-Qualmmaſſen quollen von dieſen düſter lohenden
-Kieſernäſten empor .
+Geschwunden nach oben zu in pechschwarzer Finsternis
+…
 
-erſc<hwanden nach oben zu in pehſc<warzer Finſter-
-nis ...
+Kinoszene …
 
-Kinoſzene ...
+Meine bleischweren Augenlider bleiben offen …
 
-Meine bleiſ<weren Augenlider bleiben offen .
+Meine Blicke schärfen sich …
 
-Meine Blicke ſchärfen ſich . .
+Einzelheiten dieses Verließes werden zu schreckhaften
+Bildern …
 
-Einzelheiten dieſes Verließes werden zu ſ<re>haften
-Bildern .
+Ich stiere zur Seite …
 
-Ich ſtiere zur Seite . .
+Pause ich mich …
 
-Täuſe ich mich .
+Bin Oh wirklich Wabe
 
-Bin Th wirklich Wabe
+Ist das Gestell dort wirklich ein Fallbeil, wie es einst
+in der Zeit der französischen Revolution Abertausende abschlachtete
+…
 
-Iſt das Geſtell dort wirkliH ein Fallbeil, wie e38 einſt
-in der Zeit der franzöſiſchen Revolution Abertauſende ab-
-ſchlachtete ...
+Wirklich eine Guillotine …?!!
 
-Wirklich eine Guillotine ...?1!
+Wirklich dieses grausige Instrument, dessen Opfern der
+Pariser Brüder zubrüllte:
 
-Wirklich dieſes grauſige Inſtrument, deſſen Opfern der
-T Tariſer Poöbel zubrüllte:
+Hoppla — wirst bald in den Korb niesen!!« Denn
+die Köpfe von den Verurteilten sieben ja einen mit Sägespänen
+gefüllten Korb …
 
-Hoppla --- wirſt bald in den Korb nieſen!!“ Denn
-die Köpfe von den Verurteilten ſielen ia einen mit Säge-
-ſvänen gefüllten Korb .
+Und — ist tatsächlich auf das Schäebebrett dieses Instruments,
+dessen Balken halb verkauft seinen, ein großer
+Hund festgeschnallt?!
 
-Und -- iſt tatſächlich auf das Schäebebrett dieſe38 In-
-ftruments8, deſſen Balken halb verfauit ſeinen, ein großer
-Ound feſtgeſchnallt? !
+Ein Schäferhund, der sich in qualvollem Mühen von den
+Stricken zu befreien sucht …
 
-Ein Schäferhund, der ſich in qualvollem Mühen von den
-Striden zu befreien ſucht .
+Ich stiere … stiere …
 
-I< ſtiere ... ſtiere . .
+Der Kopf des Tieres erscheint mir By be?ganz … tu’«
+etwa der Hund des Landjägers Schmidt aus Sellin?!
 
-Der Kopf des Tieres erfſ<eint mir ſy be?annt ... Jit'“
-etwa der Hund des Landjägers Schmidt aus Sellin? !
+Mein Blick gleitet weiter …
 
-Mein Blik gleitet weiter .
+Das ungewisse Licht der qualmenden Fackeln zeigt mir
+drüben an der Wand einen gekrümmten Tisch, dahinter …
 
-Das ungewiſſe Licht der qualmenden Jackeln zeigt mir
-brüben an der Wand einen gekrümmten Tiſch, dahinter .
-
---- fa --- dahinter zwölf ſeltſame Geſtalten ...
+— ja — dahinter zwölf seltsame Gestalten …
 <@pagebreak/>
-000200200 20202022 /) 200000200020 C50
-Nieſenſchlüſſel . . .
-Zwölf ...
+Riesenschlüssel …
+Zwölf …
 
-Genau wie Eugen von Platen ſie beſchrieben hat ...
+Genau wie Eugen von Platen sie beschrieben hat …
 
-Der Geheimbund alſo ..
+Der Geheimbund also …
 
-Gerichtöſitung über Harſt und Schraut .
+Gerichtssitzung über Harst und Schraut …
 
-Denn: Harald ſteht neben mir an der kalten Mauer .
-Wie ic< an die Mauer gefeſſelt .
+Denn: Harald steht neben mir an der kalten Mauer …
+Wie ich an die Mauer gefesselt …
 
-Und wir ſchauen uns an ... Er nickt mir zu, meint
+Und wir schauen uns an … Er nickt mir zu, meint
 gleichmütig:
 
-„Ein lächerlices Theater!“
-al Der Geſtank dieſes KellerloHe8s benimmt mir den
+»Ein lächerlich Theater!«
+all Der Gestank dieses Herrenloses benimmt mir den
 
-em .
+ein …
 
-Harſt wiederholt noh lauter:
+Harst wiederholt noch lauter:
 
-„Ein lächerliche Theater!! -- Glauben Sie, daß uns
-verlei mittelalterliche Schre>ken8kammerromantik impo-»
-niert .. .8!“
+»Ein lächerliche Theater!! — Glauben Sie, daß uns
+verlor mittelalterliche Schreckenskammerromantik imponiert
+… 8!«
 
-Und das gilt den Schlüſſeln ...
+Und das gilt den Schlüsseln …
 
-Cine Stimme antwortet von drüben:
+ohne Stimme antwortet von drüben:
 
-„»C5 wird Ihnen imponieren! Sie haben die Wahl
-zwiſchen Tod oder Chrenwort, Harald Harſt! Und damit Sie
-nicht etwa denken, daß wir weichherzige Memmen ſind, er-
-innere ih Sie an die beiden Opfer, deren Ende Sie ſo
-gerne aufklären mödten ...! Damit Sie ferner merken, daß
-wir die Macht und: die Brutalität beſiten, jede Gefahr zu
-beſeitigen, werden wir hier vor Jhren Augen den Hund
-des Landjägers Schmidt . - föpjen!“
+»»C5 wird Ihnen imponieren! Sie haben die Wahl
+zwischen Tod oder Ehrenwort, Harald Harst! Und damit Sie
+nicht etwa denken, daß wir weichherzige Memmen sind, erinnere
+ich Sie an die beiden Opfer, deren Ende Sie so
+gerne aufklären möchten …! Damit Sie ferner merken, daß
+wir die Macht und: die Brutalität breiten, jede Gefahr zu
+beseitigen, werden wir hier vor Ihren Augen den Hund
+des Landjägers Schmidt … — Köpfen!«
 
-Das Brett bewegt ſich .
+Das Brett bewegt sich …
 
-Zwei Drähte laufen von der Guillotine zum Tiſche .
+Zwei Drähte laufen von der Guillotine zum Tische …
 
-Das Brett bewegt ſich, und der Hals des aunen Tieres
-legt unter dem Fallbeil . -
+Das Brett bewegt sich, und der Hals des Augen Tieres
+legt unter dem Fallbeil … —
 
-I< kenne Haralds Tierliebe ... Mir ſelbſt ſiot dex
-Herzſchlag ... |
+Ich kenne Haralds Tierliebe … Wir selbst sich der
+Herzschlag …
 
-Harſt ruft haſtig:
+Harst ruft hastig:
 
-„Lalten Sie ein! --- WaZ verlangen Sie?!“
+»halten Sie ein! — was verlangen Sie?!«
 
-Dieſelbe Stimme --- dasſelbe Deutſch, dem man den
-Musländer anhört ... -- vielleicht Harry Longſield ...! =--
+Dieselbe Stimme — dasselbe Deutsch, dem man den
+Ausländer anhört … — vielleicht Harry Longfield …! —
+
 <@pagebreak/>
-DSSSSSSSSSSS Z1' DSSSOSOSDOSDSDOD
+Aber nein: Longfield ist krank … Er kann es nicht sein …
 
-Aber nein: Longſield iſt krank ... Er kann e8 nicht ſein ...
+»Was wir verlangen?! — Ihr beider Ehrenwort, daß
+Sie dies Erlebnis verschweigen und sich mit uns nicht weiter
+beschäftigen …«
 
-„Wa3 wir verlangen?! --- Ihr beider Chrenwort, daß
-Sie dies Erlebnis verſc<weigen und ſig mit uns nicht weiter
-beſchäſtigen ..“
+»Mit wem?!«
 
-„Mit wem?!“
+Bart dem Geheimbund der zwölf Schlüssel, Herr
+»und wenn wir’s versprechen?«
 
-Hari vem Geheimbund der zwölf Schlüſſel, Herr
-„und wenn wir's verſprechen?"
+»Werden Sie frei sein …«
 
-„Werden Sie ſrei ſein ...“
+»Und der Hund?«
 
-„Und der Hund?“
+»Liegt Ihnen so viel an dem Tiere?!«
 
-„Liegt Ihnen ſo viel an dem Tiere?1*
+»Nur so viel, als ich Mitleid mit jeder Kreatur habe …
+»in Sie den Hund hier töten, um uns zu schrecken, werde
+im …
 
-„Nur ſo viel, als iH Mitleid mit jeder Kreatur habe...
-“iu Sie den Hund hier töten, um uns zu ſchrecken, werde
-im...
+Der Hund wird geschont werden … — Sie
+geben also Ihr Wort?«
+»Noch nicht … sich verlange vorher Ihr Wort, daß
+Sie als Vertreter des Geheimbundes mir versichern, weitere
+Untaten nicht zu begehen und den Beweis zu erbringen, daß
+Fräulein von Platen unschuldig ist …
 
-Der Hund wird geſchont werden ... -- Sie
-geben alſo Ihr Wort?“
-„No< nicht ... ZJ< verlange vorher Jhr Wort, daß
-Sie al38 Vertreter des Geheimbunde3 mir verſichern, weitere
-Untaten nicht zu begehen und den Veweis zu erbringen, daß
-Fräulein von Platen unſchuldig iſt ..
+Pause …
 
-Pauſe .
+Dann: »Gut —« mein vor
 
-Dann: „Gut ---“ mein Bor
+Harald scheint noch zu zögern …
 
-Harald ſcheint noh zu zönern .
+Meint dann wie unschlüssig:
 
-Meint dann wie unſchlüſſig:
+»Sie bringen uns in eine böse Lage … Wie soll ich
+den Behörden gegenüber …
 
-„Sie bringen un3 in eine böſe Lage ... Wie ſoll ich
-den Behörden gegenüber .
+Sie können so tun, als ob Sie Ihre Nachforschungen
+fortsetzen …
+»Allerdings … — Trotzdem — ich Male mich noch nie
+auf ei einen so perfiden Handel eingelassen …
+Der Hund wird Ihnen …«
 
-Sie können ſo tun, al8 ob Sie Ihre Nachfor-
-ſchungen fortſeten .
-„Allerdings ... =-- Troßdem --- ich vabe mich no< nie
-auf ei einen ſo perfiden Handel eingelaſſen .
-Der Hund wird Ihnen ...“
+» -«.« Halt …!! Schoner Sie das Tier! — — Nun
+denn: Ich gehe auf Ihre Bedingungen ein … Ich werde
+mich mit dem Geheimbund nicht mehr beschäftigen …
+Schraut ebenso wenig …
 
-» -*.* Halt ...!! Shonen Sie da3 Tier! -- --- Nun
-denn: I< gehe auf Jhre Bedingungen ein . .. I< werde
-mich mit dem Geheimbund nicht mehr beſchäſtigen ...
-Schraut ebenſo wenig ...
+»»Wir sind zufrieden … Ein Harst hält sein Wort …«
 
-'„»Wir ſind zufrieden ... Ein Harſt hält ſein Wort...“
 <@pagebreak/>
-SüSSSSSSSSSSSS 59 DSSSSSSSSSSSS
+ne denn Sie das Ihrige halten und mich nicht belogen
+haben!«
 
-6 pe venn Sie das JIhrige halten und mich nicht belogen
-aben!“
+Und — der sprechende Schlüssel dort hinter dem alten
+morschen Tisch erhebt sich …
 
-Und --- der ſprechende Schlüſſel dort hinter dem alten
-morſchen Tiſch erhebt ſiH ...
+Die Attrappe fällt nieder …
 
-Die Attrappe ſällt nieder .
+Ein Mann mit einer schwarzen weivenmaske vor dem
+Gesicht kommt und verbindet uns die Augen …
 
-Cin Mann mit einer ſc<warzen weivenmaske vor dem
-Geſicht kommt und verbindet uns die Augen .
+Ich höre allerlei Geräusche …
 
-IH höre allerlei Geräuſche .
+Man nimmt mir die Fußfesseln ab … Man führt mich
+eine Treppe empor …
 
-Man nimmt mir die Fußfeſſeln ab ... Man führt mich
-eine Treppe empor .
+Man zieht und zerrt mich durch Gestrüpp …
 
-Man zieht und zerrt mich durch Geſtrüpp .
+Ich höre Bäume rauschen …
 
-Ich höre Bäume rauſchen . .
+Atme Waldesluft … Spüre die Wärme des Sommermonats
+…
 
-Atme Waldesluft ... Spüre die Wärme des Sommer»
-monats ... |
+Ein einzelner Mann führt mich …
 
-Ein einzelner Mann führt mich ...
+In den Wald …
 
-In den Wald .
+Meine Augenbinde läßt keinen Lichtstrahl hindurch …
 
-Meine Augenbinde läßt keinen Lichtſtrahl hindurch. .
+Dann — stehe ich still …
 
-Dann -- ſtehe ich ſtill .
+Und. — Stille ringsum …
 
-Und. -- Stille Tingsum .
+Nur die Stimme des Waldes, das seine Branden »der See,
 
-Nur die Stimme des Waldes, das ſerne Branden „der See,
+Bald Schritte …«-«
 
-Bald Schritte ... „-““
+näher — ganz nahe»…
 
-Näber -- ganz nahe“...
+Wieder Schritte, die sich entfernen …
 
-Wieder Scritte, die ſich entfernen ...
+Zu meinen« Füßen ein leises Winseln …
 
-7 Zu meinen“ Füßen ein leiſes Winſeln ...
+Harst dann — und er muß Wien, vor mir stehen:
 
-Harſt dann -- und er muß dien, vor mir ſtehen:
+»ich glaube, wir sind allein …
 
-„ch glaube, wir ſind allein .
+Der Hund winselt stärker …
 
-Der Hund winſelt ſtärker .
+-Harald berührt mich …
 
-: -Harald berührt mich .
+… « »Kehrt! Ich knote Dir die Stricke auf …
 
-. “ „Kehrt! Ic knote Dir die Skrike auf .
+Zwei Minuten später reiße ich mir den langen von den
+Augen —
 
-Zwei Minuten ſpäter reiße iH mir den Sappen von den
-Augen -
+»Morgendämmerung —
 
-„Morgendämmerung -
+Waldesrand … Vor mir der. gefesselte « Schläfer
 
-'Waldesrand . . Vor mir der. gefeſſelte * Schäfer»
-
-hund ..
-; . Auch Harſt iſt frei .
+Hund …
+… Auch Harst ist frei …
 Wir nehmen dem armen gepeinigten Tiere die brutalen
 <@pagebreak/>
-DSSSDSOSSSSSSS 533 DSSSSSSISSOHDOD
+sann gingen ab … Es erhebt sich taumelnd, leckt uns die
+Hände …
 
-Ganu Pingen ab ... EC8 erhebt ſich taumelnd, le>kt uns die
-Hände ...
+Harald streichelt den Hund … Beugt sich tiefer …
 
-Harald ſtreichelt den Hund ... Beugt ſich tiefer ...
+»y Ah — die Schurken sind vorsichtig gewesen! Sie haben
+die Nase des Tieres mit Lysol eingerieben … Das nimmt
+dem Hunde für Tage jede Witterung … — Wo sind wir
+eigentlich?«
 
-„y Ah -- die Schurken ſind vorſichtig geweſen! Sie haben
-die Naſe des Tieres mit Lyſol eingerieben ... Da3 nimmt
-vem Hunde für Tage jede Witterung ... -- Wo ſind wir
-eigentlich?“
+Zehn Schritt vor uns der Abhang der Steilküste
+Nach links in weiter Ferne am hellen Strande in Traum- ge
+bettet das Nachbarbad von Sellin …: Binz!
 
-Zehn Schritt vor uns der Abhang der Steilküſie
-Nach links in weiter Ferne am hellen Strande in Gräün- ge
-bettet das Nachbarbad von Sellin ...: Binz!
+Noch weiter Saßnitz mit seinem bergigen Hinterland …
 
-No<h weiter Saßnitz mit ſeinem bergigen Hinterland...
+Harald schaut nach der Uhr …
 
-Harald ſchaut nach der Uhr .
+»Sechs — sechs Uhr morgens … —.! — Dann also:heimwärts,
+mein Alter …
 
-„Se<s3 --- ſechs uhr morgens . -.! -- Dann alſo:heim-
-wärts, mein Alter . :
+Ich kann nicht länger schweigen …
 
-Ich kann nicht länger ſchweigen .
-
-Di „Harald, wir hätten dieſe Zuſage niemals geben fotlen!
+Du »Harald, wir hätten diese Zusage niemals geben sollen!
 rt.
 
-Er „lächelt troniſH . . . Seine grauen Augen aber ſind
-drohend und voller Kampfesluſt .
+Er »lächelt ironisch … Seine grauen Augen aber sind
+drohend und voller Kampfeslust …
 
-„Wir haben etwas verſprochen, wa3 an Bedingungen
-geknüpft war, lieber Alter ... Unſere Zuſage bezieht ſic
-auf den Bund der zwölf Schlüſſel .
+»Wir haben etwas versprochen, was an Bedingungen
+geknüpft war, lieber Alter … Unsere Zusage bezieht sich
+auf den Bund der zwölf Schlüssel …
 
-„Nun ja ... Und?!“
+»Nun ja … Und?!«
 
-„Es waren mir zwei Leute, mein Alter ... Niemals
-zwei "von den Geheimbündlern .
+»Es waren mir zwei Leute, mein Alter … Niemals
+zwei »von den Geheimbündlern …
 
-I<H kann nur „den Kopf ſchütteln ...
+Ich kann nur »den Kopf schütteln …
 
-„Nicht die .
+»Nicht die …
 
-„» -..- icht ie Freunde Longſields und Weras, nein,
--- ſondern deren Feinde ...! Das8 iſt's! Doch komm'.
-Gehen wir .
+»» -…- ich! ie Freunde Longfields und Weras, nein,
+— sondern deren Feinde …! Das ist’s! Doch komm’.
+Gehen wir …
 
-Hinter uns Her trottet der matte Hund .
+Hinter uns Her trottet der matte Hund …
 
-„Woher in aller Welt weißt Du, daß es nicht die
-Schlüſſelleute waren ?“ beginne ich wieder .
+»Woher in aller Welt weißt Du, daß es nicht die
+Schlüsselleute waren?« beginne ich wieder …
 
-Er ſchweigt .
+Er schweigt …
 
-Dann: „Cs hätte keinen Zweck, jeht nach dem Orte zu
-ſuchen, wo man dieſe3 üble Theater uns vorſpiclie ... =
+Dann: »Es hätte keinen Zweck, jetzt nach dem Orte zu
+suchen, wo man dieses üble Theater uns verspielte … —
+
 <@pagebreak/>
-. SSSSSSSSSSSS 31 DSSSSSSSSSSSD
+Woher ich es weiß? Sehr einfach: aus dem Inhalt des
+Morsetelegramms, der Lichtdepesche, die von Wera in die
+Nacht hinausgeschit wurde … Ich habe genau aufgepaßt …
+Soll ich Dir wiederholen, was sie depeschierte? Du wirst
+staunen! Mein Gedächtnis ist trotz dieser Nacht, trotz der
+zwar kurzen, aber schweren Betäubung wie immer glänzend
+»… Also höre:
 
-Woher ich e8 weiß? Sehr einfaH: au38 dem Inhalt des
-Morſetelegramms8, der Lichtdepeſche, die von Wera in die
-Nacht hinausgeſchit wurde . . . IH habe genau auſgepaßt..
-Soll ich Dir wiederholen, was ſie depeſchierte? Du wirſt
-ſtaunen! Mein Gedächtnis iſt trotz dieſer Nacht, trotz der
-zwar kurzen, aber ſchweren Betäubung wie immer glän-
-zend «.. Alſo höre:
+Bin im Zimmer festgehalten. Rate Euch dringend,
+die beiden Berliner zu Rate zu ziehen. Sie würden allmählich
+doch die Wahrheit erfahren. Vergeßt nicht, wer
+die beiden sind … — das Verbandzeug werfe ich in die
+Büsche vor meinem Fenster. Morgen hoffe ich mir eine
+Leine zu besorgen. Dann werde ich zu Euch komme
 
-Bin im Zimmer feſtgehalten. Rate Euch dringend,
-die beiden Berliner zu Rate zu ziehen. Sie würden all-
-mählich do< die Wahrheit erfahren. Vergeßt nicht, wer
-die beiden ſind.. --- Da8 Verbandzeug werfe ich in die
-Büſche vor meinem Fenſter. Morgen hoffe ic< mir eine
-Leine zu beſorgen. Dann werde ich zu Cuch komme
+Grüßt Harry und folgt Euch nicht um mich. Der Berg
+— wer ist für mich eingetreten, sonst hätte ich Sellinhof
+—» verlassen müssen.
 
-Grüßt Harry und jorgt Euch niht um mich. Der Ber-
-- Iner iſt für mich eingetreten, ſonſt hätte ich Sellinhof
---“ verlaſſen müſſen.
+»Dies, mein Alter, depeschierte sie … Und als ich nun Dir
+— folgen wollte, um den Mann zu beobachten, der die Lichtzeichen
+auffing, da ereilte mich das Geschick … Urplötzlich
+fielen zwei Leute über mich her und machten mich stumm …
+Ein mit dem retten Narkotikum Chlorasit getränkten Landes
+Da mich in wenigen Sekunden … Alles weitere
+weißt
 
-„Dies, mein Alter, depeſchierte ſie ... Und als ich nun Dir
-- folgen wollte, um den Mann zu beobachten, der die Licht-
-zeichen auſfing, da ereilte mic< das Geſchi> ... Urplötzlich
-fielen zwei Leute über mich her und machten mich ſtumm...
-Cin mit vem neten Narkotikum Chloraſit getränfter Lap-
-Veh Da mich in wenigen Sekunden ... Alles weitere
-weißt D
+Ja -… leider … Denn dieses Weitere war kein See
 
-3a -.. leider . . Denn dieſe8 Weitere war kein Ge-
-
-„Oh -- ſage das icht .. ! Es war ſchon ein Genuß .
-"Mir ift nie etwa3 lächerlicher vorgekommen als dieſe famoſe
-Szene aus einem Schauerroman ... Ratten, Fledermäuſe,
-"'Vadeln, Modergeſtank -- -- glänzende Requiſiten! Nur
-die beiden Scartipieler waren ſehr mäßig, waren Dilettan-
-ten . Über --- -- im übrigen: brutale Halunken, Kerle,
-benen man mit gutem Gewiſſen eins auf den Pelz brennen
+»Oh — sage das ich! …! Es war schon ein Genuß …
+»Wir ist nie etwas lächerlicher vorgekommen als diese famose
+Szene aus einem Schauerroman … Ratten, Fledermäuse,
+»’Vadeln, Modergestank — — glänzende Requisiten! Nur
+die beiden Orgelspieler waren sehr mäßig, waren Dilettanten
+… Über — — im übrigen: brutale Halunken, Kerle,
+denen man mit gutem Gewissen eins auf den Pelz brennen
 kann
 
-. = "gUnd.--- woraus ſchließt Du, -daß e3 nicht die „echten“
-- Schlüioſhröbe“ varen?1!1“ -
+… — »Hand.— woraus schließt Du, daß es nicht die »echten«
+— Schlüioshröbe« waren?!!!« —
 
-„“ w-Ml Wtügit noch?! -- Entſchuldige ſchon -- das wur»
+» w-Mr Flucht noch?! — Entschuldige schon — das wundert
 <@pagebreak/>
-222002020200 50 », 00020020020000
+mich, wundert mich sehr …! Meinst Dir, Satz Na) he
+Depesche die Leute uns derart behandelt Gartens 1 Niemals!«
 
-dert mich, wundert mid) ſehr ...! Meinſt Dit, datz Ua) de 1
-Depeſche die Leute uns derart behandelt yattent 1 Nie-
-mals!“
+»Nun gut … Und jetzt!«
 
-„Nun gut ... Und jetztk!“
+»Werden wir ein paar Stunden schlafen … Dann
+werden wir das Vorwerk Granitz besuchen …«
 
-„Werden wir ein paar Stunden ſhlaſen ... Dann
-werden wir da3 Vorwerk Granitz beſuchen ...*
+Oh so …! Und dort?!«
 
-Th ſo ...! Und dort?!“
+Werden wir die Flüchtlinge überraschen … Dort muß
+sich alles klären … Zu« habe ja eine vorzügliche Überzeugende
+Waffe: die Kenntnis der Lichtdepesche Weras!«
 
-Werden wir die Flüchtlinge überraſchen ... Dort muß
-fich alles klären ... ZJI<< habe ja eine vorzügliche Überzeu--
-gende Waſſe: die Kenntni3 der Lichtdepeſ<he Weras8!“
+Und das sagte er so siegesgewiß, daß ich in genau dieselbe
+freudige, hoffnungsvolle Stimmung geriet …
 
-Und das ſagte er ſo ſiegeögewiß, daß ich in genau die-
-ſelbe freudige, hoſſnung3volle Stimmung geriet ...
+Aber — — es war noch lange nicht aller Tage Abend …
 
-Aber -- --- e3 war noh lange nicht aller Tage Abend ..
+Wir näherten uns dem Herrenhause …
 
-Wir näherten uns dem Herrenhauſe ...
+Wir sahen am Rande des Gartens Eugen von Platen
+mit dem Oberinspektor stehen …
 
-Wir ſahen am Rande des Gartens Eugen von Platen
-mit dem Oberinſpektor ſtehen ...
+Und sahen — noch mehr …
 
-Und ſahen --- noh mehr ...
+Dicht vor dem Staketenzaun lag mitten zwischen oben
+Butterblumen und Brennesseln eine menschliche Gestalt …
 
-Dicht vor dem Staketenzaun lag mitten zwiſchen ohen
-Butterblumen und Brenneſſeln eine menſchliche Geſtalt .
+Harst begann zu laufen …
 
-Harſt begann zu laufen .
+Der Schäferhund, der sich jetzt wieder erholt hatte, bellte
+vergnügt …
 
-Der Schäferhund, der ſich jeht wieder erholt hatte, bellte
-vergnügt .
+Platen schaute auf …
 
-Platen ſchaute auf .
+Winkte … Kam uns entgegen … —
 
-Winkte ... Kam uns entgegen . --
+So standen wir denn nun neben den dritten Toten …
 
-So ſtanden wir denn nun neben den dritten Toten ..
+Auch dieser junge Mann war zweifellos ein Ausländer
+… Neben ihm eine Karbidlaterne …
 
-Auch dieſer junge Mann war zweifellos ein Auslän-
-ver . .. Neben ihm eine Karbidlaterne ...
+Harald hatte sehr bald festgestellt, — daß der Fremde
+durch) zwei Messerstiche ermordet worden war, die durch den
+Rücken das Herz getroffen hatten — also von hinten erstechen
+…
 
-Harald hatte ſehr bald feſtgeſtellt, - daß der Fremde
-dur) zwei Meſſerſtihe ermordet worden war, die durch den
-Rücken das Herz getrojſen hatten --- aljo von hinten er-
-ſtechen .
+Und auch dieser Tote führte nicht das Geringste bei
+sich, was über seine Person hätte Ausschluß geben können …
+Unsere verspätete Nachtruhe war Unsinn geworden …
 
-Und auch dieſer Tote führte nicht das Geringſte bei
-fich, was über ſeine Perſon hätte Auſſchluß geben können...
-Unſere verſpätete Nachtruhe war JUuſion geworden ...
 <@pagebreak/>
-VB000000002022 56 0D0SüSDSSSSSSSSD SS
+Platen telephonierte nach Putbus an den Amtsrichter …
+Und dann wette er Wera … Rief ihr durch d die Tür
+zu, sie solle hinab in sein Arbeitszimmer kommen …
 
-Platen telephonierte nac Putbus an den Amtsrichter .,
-Und dann wedte er Wera ... Rief ihr durch d die Tür
-zu, ſie ſolle hinab in ſein Arbeit3zimmer kommen .
+Tag
 
-SGGG
+<h2>4. Kapitel.</h2>
 
-4. Kapitel.
+<h3>Wera weiß wenig …</h3>
 
-Wera weiß wenig ..
+Inzwischen hatte die Wirtschaft8ömamsell dort für uns
+ein Frühstück aufgetragen … Dazu einen Kaffee, der kein
+Blümchenkaffee war …
 
-Inzwiſchen hatte die Wirtſ<haft8ömamſell dort für uns
-ein Frühſtück aufgetragen . .. Dazu einen Kaffee, der kein
-Blümchenkaſſee war .
+-  Untaten den guten Dingen alle Ehre an … Derweil
+bewachten zwei Knechte den Tatort. Keiner durfte sich der
+Stelle nähern …
 
--  Wirtaten den guten Dingen alle Ehre an ... Derweil
-bewachten zwei Knechte den Tatort. Keiner durfte ſich der
-Stelle nähern ...
+Eugen von Platen war jetzt vollkommen niedergeschmettert.
+Dieser zweite Mord auf seinem Grund und Boden
+hatte ihn derart außer Fassung gebracht, daß er uns nicht
+einmal fragte, wo wir in der Nacht gewesen waren …
+hö Harald fragte so gütig, »wie ich ihn selten habe reden
 
-Cugen von Platen war jeßt vollkommen niedergeſchmet-
-tert. Dieſer zweite Mord auf ſeinem Grund und Boden
-hatte ihn derart außer Faſſung gebracht, daß er uns nicht
-einmal ſragte, wo wir in der Nacht geweſen waren .
-hö Harald fragte ſo gütig, „wie ich ihn ſelten habe reden
+ren …
 
-ren .
+»Räubern von Platen, Sie sitzen hier nun den beiden
+Berlinern gegenüber … Sie wissen, — denen, die Er in
+Ihrer Lichtdepesche erwähnten …
 
-"räulein von Platen, Sie ſitzen hier nun den beiden
-Berlinern gegenüber ... Sie wiſſen, --- denen, die Ec in
-Ihrer Lichtdepeſche erwähnten ....
+Sie schrak sichtlich zusammen …
 
-Sie ſc<hrak ſichtlich zuſammen .
+»haben Sie das Paket in die Büsche geworfen?k«
 
-„Huben Sie das Paket in die Büſche geworfen ?k*
+Sie war Harald groß an …
 
-Sie woe Harald groß an .
+»Fall«
+»Und — wurde es geholt!-Das
+… — weiß ich nicht …
+Harald — leiser: —
+»Nein, es wurde nicht Schein … Es konnte nicht goß
+holt werden …
+»Mein Gott … h1« Sie schrie’s hinaus …« »Mein
+Gott, ist Lord Albernon etwa … etwa …
+Ihre Stimme erstickte in wehen Aufschluchzen -…
 
-„Sall“
-„Und -- wurde es geholtt»
-“Das . - weiß ich nicht ...
-Harald -- leiſer: -
-„Nein, es wurde nicht geholn ... E83 konnte nicht gos
-holt werden .
-„Mein Gott ...t1“ Sie ſchrie's hinaus ...“ „Mein
-Gott, iſt Lord Albernon etwa ... etwa .
-Ihre Stimme erſtickte in wehem Aufſchluchzen -. ..
 <@pagebreak/>
-DSSOSSIWISSSDSDSSOSEEO 57 SCOEoO200SECOETS02
+Ihre Gestalt sank in sich zusammen … Ihre Hände bedeckten
+das tränenüberströmte Gesicht …
 
-Ihre Geſtalt ſank in ſich zuſammen .. . Jhre Hände be-
-de>ien das tränenüberſtrömte Geſicht .
+Und dann — nur ein Wimmern:
 
-Und dann -- nur ein Wimmern:
+»Ich … im ahne es, er ist tot … er … er ist … nun
+auch … gefallen … Mein Gott — mein Gott, wenn ich …
+ausbaldowern ich sprechen dürfte … Aber ich) darf’s ja nicht …
+Ich könnte vieles aufklären — nicht alles … denn … denn
+auch ich weiß nur wenig …«
 
-„IH ... im ahne es, er iſt tot ... er ... cr iſt... nun
-auch . .. gefallen ... Mein Gott -- mein SGott, wenn iH...
-wern ich ſprechen dürfte ... Aber ich) darf's ja nicht ...
-I< könnte vieles aufklären =- nicht alles ... denn ... denn
-auch ic) weiß nur wenig ...“
+Eugen von Platen erhob sich … Das Eis um sein
+biederes Herz war geschmolzen. Er trat neben Weras Stuhl.
+und streichelte ihr das blonde Haar …
 
-Eugen von Platen erhob ſich ... Da3 Eis um ſein
-biederes Herz war geſchmolzen. Er trat neben Weras Stuhl.
-und ſtreichelte ihr das blonde Haar ...
+»deren, liebe deren, rede Dir in drei Bruders Namen
+doch das Herz frei …! deren, sei vernünftig! sollen denn
+diese Mordbuben vorbei mehr Menschen abschlachten …! Du,
+weißt doch fraglos, wer die beiden Halunken sind und …
 
-„Deern, liebe Deern, rede Dir in drei Deubels Namen
-doh das Herz frei ...! Deern, ſei vernünſtig! Solien denn
-dieſe Mordbuben no<&h mehr Menſchen abſchlachten ...! Du,
-weißt do< fraglos, wer die beiden Halunken ſind und .
+Weras Hände sanken …
 
-Wera3 Hände ſanken .
+»Die … — beiden 7!« Fassungslos starrte sie ihren Onkel
+an … »Ah … ich: … kenne nur …
 
-„Die . - beiden 7!“ Faſſung3lo3 ſtarrte ſie ihren Onkeb
-an... „Sh . . ic: ... kenne nur .
+Da schwieg sie … Sie hatte schon zu viel gesagt …
 
-Da jc<wieg fie. . Sie hatte ſchon zu viel geſagt .
+»Ab — also Du kennst nur einen?! — Raus mit der
+Wahrheit! Wer ist’s?2«
 
-„Ab -- alſo Du kennſt nur einen?! --- Raus mit der
-Wahrheit! Wer iſt'8?2“
+»Das … weiß niemand … Beim Allmächtigen: das
+weiß niemand!!«
 
-„Das ... weiß niemand ... Beim Allmächtigen: das
-weiß niemand!!“
+Harald blickte mich an …
 
-Harald blikte mich an ....
+Spöttelte den Kopf … Er war genau so sprachlos
+wie
 
-'  Soüttelte den Kopf ... Gr war genau ſo ſprachlos
-wie 1
+Sagte nun sehr energisch: »Fräulein von Platen, die
+Dinge werden immer dunkler’…! — Ist es Entlasse, daß
+etwa auch) Longfield nicht ahnt. wer diese vier Verbrechen.
+begangen hat, das Attentat auf ihn mit eingerechnet?«
 
-Sagte nun ſehr energiſch: „Fräulein von Platen, die
-Dinge werden immer dunkler .'. .! --- Iſt e8 Tatſaßge, daß
-etwa aud) Longfield nicht ahnt. wer dieſe vier Verbrechen.
-begangen hat, das Attentat auf ihn mit eingerechnet?“
+»Rein, Herr Harst …! Nein!!«
 
-„Rein, Herr Harſt ...! Nein!!*
+»Und — weshalb diese … diese Geheimniskrämerei «!
+Weshalb dieser Geheimbund, weshalb verschweigen die
+Leute, sah Sie doch …
 
-„Und -- weS3halb dieſe ... dieſe Geheimniskrämerei * !
-WesShalb dieſer Geheimbund, weshalb verſchweigen die
-Leute, 3as Sie doh .
+fragen Sie zu viel, Herr Harst … « Und in
+hilflosen Verzweiflung streckte sie ihm die Hände entgegen …
 
-fragen Sie zu viel, Herr Harſt . „„ Und in
-hilflaſen Verzweiflung ſtreckte ſie ihm die Hände entgegen ..
 <@pagebreak/>
-ODSODOSSSSIODESEDIOaE 538 20D0DDSD0SISIDSDSIEC0SD
+— »Ich versichere Ihnen, Herr Harst: man hat mich nicht
+in alles eingeweiht!«
 
-- „I< verſichere Ihnen, Herr Harſt: man hat mich nicht
-in alles eingeweiht!“
+Eugen von Platen nahm jetzt ihre Hände …
 
-Eugen von Platen nahm jetzt ihre Hände ...
+»deren, nun hast Du bereits die Hälfte zugegeben …!
+Raus mit der anderen Hälfte!- Wer sind diese zwölf Geheimbündler?
+Wozu dieser Blödsinn mit den Schlüsseln?!
 
-„Deern, nun haſt Du bereits die Hälfte zugegeben .. .!
-Rau3 mit der anderen Hälfte!- Wer ſind dieſe zwölf Ge-
-heimbündler? Wozu dieſer Blödſinn mit den Schlüſſeln?!
+Wozu?!«
+Wera kämpfte mit sich …
+»Mein Gott, — — ich … ich habe … geschworen …!.
 
-Wozu?!“
-Wera kämpfte mit ſi< ...
-„Mein Gott, -- -- ich ... iH habe ... geſchworen ...!.
+Ich habe meinen Schwur schon gebrochen … Und ich …
+ich weiß ja nicht, ob ich nicht noch ärgeres Unheil anrichte,
+wenn ich rede …! Nur Longfield kann darüber entscheiden
+…«
+Und Harst — wieder voller Güte und Nachsicht:
+»Sie haben nichts verraten, gnädiges Fräulein …!
+Es stimmt … Sie sind dort Und wir werden sofort die
+Sache in; ins meine bringen … sofort …! Begleiten Sie uns
+Bitte
+»Ja — ich will, Herr Harst …! Es ist die einfachste
+Lösung … — Ich hole nur meinen Hut … Im Augenblick
+bin ich wieder da …
+Im Augenblick wollte sie wieder da sein … Fünf
+Minuten verstrichen …
+Wir drei werden unruhig … Platen geht zur Tür …
 
-IH habe meinen Schwur ſchon gebrochen ... .Und ich...
-ich weiß ja nicht, ob ich nicht noh ärgeres Unheil anrichte,
-wenn ich rede ...! Nur Longfield kann darüber entſchei-
-en ...“ |
-Und Harſt -- wieder voller Güte und Nachſicht:
-„Sie haben nidyt38 verraten, gnädiges Fräulein ...!
-Es ſtimmt ... Sie ſind dort Und wir werden ſofort die
-Sade in; ins Neine bringen ... ſofort ...! Begleiten Sie uns
-itte
-„Ja -- ich will, Herr Harſt . .! ES iſt die einfachſte
-Löſung . .. -- IH hole nur meinen Hut . . . Im Augenbli>
-bin ich wieder da . ..
-Im Augenblik wollte ſie wieder da ſein ... Fünf
-Minuten verſtrichen ...
-Wir drei werden unruhig ... Platen geht zur Tür ...
+drückt auf den Knopf der Hausklingel … —« Zwei Minuten
+… Der alte Diener erscheint …
 
-drückt auf den Knopf der Hausklingel . --“ Zwei Minu-
-ten ... Der alte Diener erſcheint .
+»Wo ist Wera?!«
 
-„Wo iſt Wera?1“
+Der Alte schlottert … »Das … das gnädige Frau
 
-Der Alte ſch<lottert . „Das ... das gnädige Fräu-
+sein … traf … im Flur einen Jungen … der … gab ihr
+einen Brief … Und — und jetzt ist … das gnädige Fräulein
+auf dem ungesattelten Fuchs … weggeritten …«
 
-fein ... traf ... im Flur einen Jungen ... der ... gab ihr
-einen Brief ... Und --- und jett iſt ... das gnädige Fräu-
-lein auf dem ungeſattelten Fuch3 . .. weggeritten ...“
+Platen stößt ein wütendes Zischen aus …
 
-Platen ſtößt ein wütendes Ziſchen aus ...
+»Die … Kanaille …!!! Die Kanaille!! — Drei Pferde
+aus dem Stall …! Fix, — tummle Dich!! Nur Trensen
+überwerfen …!!«
 
-„Die . .. Kanaille .. .!1! Die Kanaille!! --- Drei Pferde
-aus dem Stall ...! Fix, -- tummle Dich!! Nur Trenſen
-überwerfen ...!1“
+Und er schiebt den Alten zur Tür hinaus …
 
-Und er ſchiebt den Alten zur Tür hinaus ...
 <@pagebreak/>
-DSSSSSSSSSSOSOSD 535 DS SSDSSSSDSISSOD
+Er reißt den Gewehrschrank auf … Harald will ihn
+besänstigen … Platen wird grob …
 
-Er reißt ben Gewehrſchrank auf ... Harald will ihn
-beſänſtigen . Platen wird grob .
+»Herr, hier geht’s um meine Ehre!«
 
-„Herr, hier geht's um meine Ehre!“
+Und mit seiner Jagdbüchse stürmt er hinaus — in den
+Wirtschaftshof — zu den Ställen …
 
-Und mit ſeiner Jagdbüchſe ſtürmt er hinaus --- in den
-Wirtſc<aft8hof -- zu den Ställen .
+Wir ihm nach …
 
-Wir ihm nach ..
+Drei Gäule stehen schon bereit … Dann beginnt das
+Rennen …
 
-Drei Gäule ſtehen ſchon bereit . .. Dann beginnt das
-Rennen .
+Platen ist uns bald voraus …
 
-Platen iſt uns bald voraus .
+Ich Erbe auf dem hochbeinigen ungesattelten Braunen
+wie ein Häuschen Malheur … Blicke zurück …
 
-I< ſibe auf dem hochbeinigen ungeſattelten Braunen
-wie ein Häuſchen Malheur ... Blicke zurück .
+Mitten durch die Felder geht die Hetze …
 
-Mitten durch die Felder geht die Hetze ...
+Von Wera ist zunächst nichts mehr zu sehen … Dann
+aber, als wir ein Waldstück hinter uns haben, taucht sie weit
+vor uns aus …
 
-Von Wera iſt zunächſt nichts mehr zu ſehen ... Dann
-aber, als wir ein Waldſtück hinter uns haben, taucht ſie weit
-vor uns auſ ...
+Platen reitet wie der Teufel … Harst nicht minder …
 
-Platen reitet wie der Teufel . .. Hacſt nicht minder ...
+Platen holt auf …
 
-Platen holt auf...
+Platen hebt die Büchse …
 
-Platen hebt die Büchſe ...
+Bei Gott — er scheint auf Weras Fuchs schießen zu
+wollen …
 
-Bei Gott -- er ſcheint auf Wera3 Fuch3 ſchießen zu
-wollen ...
+Da ist Harst neben ihm … Schlägt ihm die Büchse aus
+der Hand …
 
-Da iſt Harſt neben ihm ... Schlägt ihm die Büchſe aus
-der Hand ...
+Der Gaul Platens scheut — springt zur Seite — und
+Eugen von Platen fliegt in einen Wassergraben … leicht
+fluchend wieder heraus …
 
-Der Gaul Platen3 ſcheut -- ſpringt zur Seite --- und
-Eugen von Platen fliegt in einen Waſſergraben ... Kriccht
-ſluchend wieder heraus ...
+Ich habe sein Pferd glücklich eingefangen. Harald hat
+die Heide bereits erreicht … Der alte Herr und ich sehen
+ihn weit vor uns unter den Bäumen eines Streifens von
+Mischwald untertauchen …
 
-I< habe ſein Pferd glücklich eingefangen. Harald hat
-die Heide bereit3 erreicht ... Der alte Herr und ich ſehen
-ihn weit vor uns unter den Bäumen eines Streiſen3 von
-Miſchwald untertauchen ...
+»Das ist das frühere Vorwerk, Herr Schraut,« ruft
+Platen … Sein Gesicht ist mit Schlamm bedeckt … Die
+Mütze hat er verloren … Sein spärliches Haar hängt ihm
+in nassen Strähnen ins Gesicht …
 
-„Das iſt das ſrühere Vorwerk, Herr Schraut,“ ruft
-Platen ... Sein Geſicht iſt mit Schlamm bedeckt ... Die
-Mütze hat er verloren . .. Sein ſpärliches Haar hängt ihm
-in naſſen Strähnen in3 Geſicht .
+Plötzlich erscheinen Wera und Harald wieder außerhalb
+der Bäume, und Harst winkt uns zu, deutet nach Osten …
 
-Plötblich erſcheinen Wera und Harald wieder außcrhalb
-der Bäume, und Harſt winkt un3 zu, deutet nach Oſten ...
 <@pagebreak/>
-DSSSSSSO2022002 60 2000020200000 20
-
 Dorthin trabt er mit dem jungen Mädchen, und auch wir
-biegen nach recht3 ab, treffen mit den beiden zuſammen .
+biegen nach rechts ab, treffen mit den beiden zusammen …
 
-Platen faucht Wera grollend an .
+Platen faucht Wera grollend an …
 
-„Zum Teufel, Mädel, was ſällt Dir eigentlich ein, ſo
-ohne weiteres auszukneifen . „11“
+»Zum Teufel, Mädel, was fällt Dir eigentlich ein, so
+ohne weiteres auszukneifen … »11«
 
-Stumm reicht ſie ihm zwei Zettel .
+Stumm reicht sie ihm zwei Zettel …
 
-Dex eine iſt der Brief, den der Junge ihr überbracht
-hat ... Der andere Zettel hat am Haustirpfoſten des vere
-ſallenen Wohnhauſe3 des Vorwerks geſteckt .
+der eine ist der Brief, den der Junge ihr überbracht
+hat … Der andere Zettel hat am Haustirpfosten des Tore
+Kollegen Wohnhauses des Vorwerks gesteckt …
 
-Dererſte lautet:
-„Wir haben ſie --- endli<! -- Harry.“
-Der zweite: -
-| „Wir ſind im Burghof . - Sie ſind nicht mehr zu
-retten ....
+Bereiste lautet:
+»Wir haben sie — endlich! — Harry.«
+Der zweite: —
+»Wir sind im Burghof … — Sie sind nicht mehr zu
+retten …
 
-. Und wir vier kommen in den herrlichen, alten Buchen-
-wald, kommen auf die Lichtung --- zu den Ueberbleibſeln
-der Schwedenfeſte ... In den Burghof . .. Links im dichte-
-ſten Geſtrüpp ſteden vier Männer, darunter unſere beiden
-Portugieſen . .. Auch eine Tragbahre aus Latten ſteht dort.
-... Harry Longjield liegt auf der Bahre ... Schaut uns
-ruhig entgegen . .. Die vier anderen grüßen höflich ...
+… Und wir vier kommen in den herrlichen, alten Buchenwald,
+kommen auf die Lichtung — zu den Überbleibseln
+der Schwedenfeste … In den Burghof … Links im dichtesten
+Gestrüpp stehen vier Männer, darunter unsere beiden
+Portugiesen … Auch eine Tragbahre aus Latten steht dort.
+… Harry Longfield liegt auf der Bahre … Schaut uns
+ruhig entgegen … Die vier anderen grüßen höflich …
 
-<ZG<< 2
+chZG«
 
-5. Kapitel.
+<h2>5. Kapitel.</h2>
 
-Eine verblüffende Löſung.
+<h3>Eine verblüffende Lösung.</h3>
 
-. . Al8 wir dann neven ihnen ſind, ſehen wir hier mitten
-in dem undurchdringlichen Geſtrüpp, mitten in den Hügeln
-von Mauerreſten ein tieſe8 Loch mit ſteilen Rändern ...
-Koch immer bröckelt Mauerwerk ab ... fällt in die Tiefe...
+… Als wir dann neben ihnen sind, sehen wir hier mitten
+in dem undurchdringlichen Gestrüpp, mitten in den Hügeln
+von Mauerresten ein dieses Loch mit steilen Rändern …
+Koch immer bröckelt Mauerwerk ab … fällt in die Tiefe …
 
-Wera kniet neben Longſield3 Bahre, hält ſeine Hände ..
-. Einer der vier, ein ſchlanker blonder Herr mit feinem,
-träntliccen Geſicht erklärt dann:
+Wera kniet neben Longfields Bahre, hält seine Hände …
+… Einer der vier, ein schlanker blonder Herr mit seinem,
+kränklichen Gesicht erklärt dann:
+
 <@pagebreak/>
-DS0SSSSSSSSOSO00 51 2002020202000Dd800200
-
-„Mein Name iſt von Kerſten ... Wir ſind Ihnen,
-Herr Harſt, und Ihren Begleitern einige Auſfklärungen
-ſchuldig. I<h will mich ganz kurz faſſen ... -- Unſer Ge
-heimbund wurde in Davos vor ſe<3 Jahren gegründet, im
-Sanatorium „Sonnenblik ...“ Dort trafen damals zu-
-ſällig zwölf jüngere Leute zuſammen, die ſämtlich mehr oder
-minder ſchwer lungenkrank waren. Um uns enger anein-
-ander zu ſchließen, um gleichzeitig auch eine Zerſtreuung
-und Ablenfung zu haben, ſchuf Longſield den Bund der
-zwölf Schlüſſel. Wie geſagt -- es war eine Laune, das
-Ganze = eine Laune, wie ſie eben nur Leute befällt, die be-
-reits mit anderthalb Füßen im Grabe ſtehen --- faſt ein
-Faſtnachtsſcherz. =- Wir zwölf gehörten den verſchiedenſten
-Nationen an. Wir waren zumeiſt reich. Unſere heimlichen
-Zuſammenkünfte, bei dener wir die Sclüſſelattrappen tru-
-gen, hatten zunächſt lediglich den Zwed>, uns eine will-
-kommene Zerſtreuung zu bieten. Danu aber geſchahen dort
-im „Sonnenblik“ Dinge, die unſerem Bunde ein ernſteres
-Ziel gaben. Der Chefarzt hatte zwei Aſſiſtenzärzte, die, wie
-wir zuſällig herausbrachten, in gewiſſenloſeſter Weiſe ein
+»Mein Name ist von Kersten … Wir sind Ihnen,
+Herr Harst, und Ihren Begleitern einige Aufklärungen
+schuldig. Ich will mich ganz kurz fassen … — Unser Geheimbund
+wurde in Davos vor sechs Jahren gegründet, im
+Sanatorium »Sonnenblick …« Dort trafen damals zufällig
+zwölf jüngere Leute zusammen, die sämtlich mehr oder
+minder schwer lungenkrank waren. Um uns enger aneinander
+zu schließen, um gleichzeitig auch eine Zerstreuung
+und Ablenkung zu haben, schuf Longfield den Bund der
+zwölf Schlüssel. Wie gesagt — es war eine Laune, das
+Ganze — eine Laune, wie sie eben nur Leute befällt, die bereits
+mit anderthalb Füßen im Grabe stehen — fast ein
+Fastnachtsscherz. — Wir zwölf gehörten den verschiedensten
+Nationen an. Wir waren zumeist reich. Unsere heimlichen
+Zusammenkünfte, bei denen wir die Sclüsselattrappen trugen,
+hatten zunächst lediglich den Zweck, uns eine willkommene
+Zerstreuung zu bieten. dann aber geschahen dort
+im »Sonnenblick« Dinge, die unserem Bunde ein ernsteres
+Ziel gaben. Der Chefarzt hatte zwei Assistenzärzte, die, wie
+wir zufällig herausbrachten, in gewissenlosester Weise ein
 neues Heilmittel an den Patienten ausprobierten. Drei
-von" uns ſtarben raſc< hintereinander --- als Opfer dieſer
-Pfuſcher, die mit ihrem Serum ſpäter einmal reich zu wer-
-den hHofſſten ...
+von« uns starben rasch hintereinander — als Opfer dieser
+Pfuscher, die mit ihrem Serum später einmal reich zu werden
+hofften …
 
-Nachdem wir anderen durch ſtete3 Beobachten der bei-
-den Aſlſiſtenten genügend Material geſammelt hatten, er-
-ſtatteten wir dem Chefarzt Meldung. Da dieſer jedoch
-gleichzeitig Beſier der Heilanſtalt war, fürchtete er wohl
-für den guten Ruf ſeines Sanatorinums und drohte uns mit
-Anklage wegen verleumderiſcher Beleidigung. Unſere Be-
-weiſe reichten nicht aus, gegen die Aſſiſtenten irgendwie vor-
-zugehen. Wir ſiedelten in ein anderes Sanatorium über.
-Zwei von uns erlagen dann noc< der Lungentuberkuloſje.
-die übrigen wurden geſund. --- Wir blieben in ſteter Ver-
-bindung miteinander. In Berlin trafen wir wieder zu-
-jfammen und ſtudierten dort Medizin, zwei auc< Staats-
+Nachdem wir anderen durch stetes Beobachten der beiden
+Vergitterten genügend Material gesammelt hatten, erstatteten
+wir dem Chefarzt Meldung. Da dieser jedoch
+gleichzeitig besser der Heilanstalt war, fürchtete er wohl
+für den guten Ruf seines Sanatorinums und drohte uns mit
+Anklage wegen verleumderischer Beleidigung. Unsere Beweise
+reichten nicht aus, gegen die Assistenten irgendwie vorzugehen.
+Wir siedelten in ein anderes Sanatorium über.
+Zwei von uns erlagen dann noch der Lungentuberkulosje.
+die übrigen wurden gesund. — Wir blieben in steter Verbindung
+miteinander. In Berlin trafen wir wieder aufflammen
+und studierten dort Medizin, zwei auch Staatswissenschaften.
 <@pagebreak/>
-0SSDESEODSSSOSI020S0 69 0S0SSSSSDSSSSS
-
-wiſſenſchaften. Unſer Geheimbund lebte wieder auf. Wir
-wären alle etwas romantiſch veranlagt, außerdem hatten
-wir jetzt aber noch einen edlen Zwe> im Auge: Wir unter-
-ſtübten heimlich Lungenkranke, venen durc< eine Kur in
-Davo8 noch zu helfen war. Unſere Verſammlungen fanden
-zweimal im Monat in dem Häusc<hen in der Müllerſtraße
-ſtatt. : Dort wurde dann unſer Freund Sze3töni, ein Ungar,
-der keine Angehörigen mehr beſaß, ermordet. Er hatte
-nac< einer Sitzung als letzter das Häuschen verlaſſen. --
-Wir berieten, ob wir der Polizei Meldung erſtatten ſollten,
-nahmen hiervon jedoH aus zwei Gründen Abſtand: einer
-von uns hatte einen Polizeibeamten einmal niedergebort;
-und dann waren zwei andere von uns auf dem Wege zu"
-dieſer Zuſammenkunft Überfallen worden. -- Auf Einzel-
-beiten will ich nicht eingehen, Herr Harſt, da ſie belanglos
-ſind. Jedenfalls mehrten ſich dieſe Ueberfälle derart, daß wir
-ſchließlich die Ueberzeugung gewannen, wir müßten geheime
-Gegner haben, die uns allen nach dem Leben trachteten. --
-Wir verabredeten, Berlin“fär einige Zeit zu meiden. Long-
-field, der gern mit ſeiner heimlich Verlobten weiter zuſam-
-menbleiben .wollte, ſ<lug Rügen als Aufenthaltsort vor. --
-Was dann hier geſchah, wiſjen Sie ... Der Ermordete auf
-dem Landwege iſt der Norweger Simonſen. Fräulein Wera
+Unser Geheimbund lebte wieder auf. Wir
+wären alle etwas romantisch veranlagt, außerdem hatten
+wir jetzt aber noch einen edlen Zweck im Auge: Wir unterstützten
+heimlich Lungenkranke, Venen durch eine Kur in
+Davos noch zu helfen war. Unsere Versammlungen fanden
+zweimal im Monat in dem Häuschen in der Müllerstraße
+statt.: Dort wurde dann unser Freund Zerstört, ein Ungar,
+der keine Angehörigen mehr besaß, ermordet. Er hatte
+nach einer Sitzung als letzter das Häuschen verlassen. —
+Wir berieten, ob wir der Polizei Meldung erstatten sollten,
+nahmen hiervon jedoch aus zwei Gründen Abstand: einer
+von uns hatte einen Polizeibeamten einmal niedergeboxt;
+und dann waren zwei andere von uns auf dem Wege zu«
+dieser Zusammenkunft Überfallen worden. — Auf Einzelheiten
+will ich nicht eingehen, Herr Harst, da sie belanglos
+sind. Jedenfalls mehrten sich diese Überfälle derart, daß wir
+schließlich die Überzeugung gewannen, wir müßten geheime
+Gegner haben, die uns allen nach dem Leben trachteten. —
+Wir verabredeten, Berlinfär einige Zeit zu meiden. Longfield,
+der gern mit seiner heimlich Verlobten weiter zusammenbleiben
+.wollte, schlug Rügen als Aufenthaltsort vor. —
+Was dann hier geschah, wissen Sie … Der Ermordete auf
+dem Landwege ist der Norweger Simonsen. Fräulein Wera
 beobachtete, wie er dort mit einem Fremden einen heftigen
-Streit hatte. Der Fremde war, was für uns alle eine Ueber-
-raſchung bildete, einer der beiden Aſſiſtenzärzte aus dem
-Sanatorium „Sonnenbli>kK“ ... Wera eilte davon, um für
-alle Fällz eine Waſſe zu holen und Simonſen zu ſchütten.
-Sie kam zu ſpät. Simonſen war bereits tot, und der ver-
-leidet? Mörder entflohen. Immerhin hatte Wera ſo viel
-' von dem Streit belauſcht, daß wir nun genau Wußten,
-“wer uns nachſteilte unv weS8halb: die beiden verbrecheriſchen
-- Aerzte wollten uns, von denen ſie wohl annahmen, daß wir
-ihnen deH noh ſchaden könnten, aus dem Wege räumen.
-Wir beſchloſſen, dieſe Schurken nun zu ermitteln und der
-Bolizei zu Übergeben. -- ES folgte dann da38 Attentat auf
+Streit hatte. Der Fremde war, was für uns alle eine Überraschung
+bildete, einer der beiden Assistenzärzte aus dem
+Sanatorium »Sonnenblick« … Wera eilte davon, um für
+alle Fälle eine Waffe zu holen und Simonsen zu schütten.
+Sie kam zu spät. Simonsen war bereits tot, und der verleidet?
+Mörder entflohen. Immerhin hatte Wera so viel
+von dem Streit belauscht, daß wir nun genau Wußten,
+»wer uns nachstellte und weshalb: die beiden verbrecherischen
+— gerade wollten uns, von denen sie wohl annahmen, daß wir
+ihnen des noch schaden könnten, aus dem Wege räumen.
+Wir beschlossen, diese Schurken nun zu ermitteln und der
+Polizei zu Übergeben. — Es folgte dann das Attentat auf
 <@pagebreak/>
-SOOSODIOEIOOOSDOEO (3 OO0O0GO0ESOOS5OD
-
-Longſield, der die Kaſſe des Bundes ſich von Wera hHalie
-zurückgeben laſſen. Das Geld hatte er hier verborgen, vo
-die unterſten Kellerräume eines ſrüheren Turmes mit einem
-ſchwer auffindbaren Zugang uns als VerſammiungSort ge-
-dient hatten. --- In der verfloſſenen Nacht fiel dann Lord
-Albernon den beiden Mördern zum Opfer. ZI<h ſelbſt be-
-obachtete da3 Verbrechen, konnte es aber nicht mehr ver»
-hüten. Als ic< dann, nachdem iG Ihre Ueberrumpelung
-noh mit angeſehen hatte, mit meinen Freunden hier in die
-Turmkeller eindringen wollte, um Sie zu befreien, gab plözz-
-liH9 das durch die Regengüſſe aufgeweichte Erdrei? nach
-und der unterirdiſche Teil des Turmes brach in ſich zuſam-
-men. Wir hörten Hilſeruſe ... "E8 waren unſere beiden
+Longfield, der die Kasse des Bundes sich von Wera halte
+zurückgeben lassen. Das Geld hatte er hier verborgen, so
+die untersten Kellerräume eines früheren Turmes mit einem
+schwer auffindbaren Zugang uns als Versammlungsort gedient
+hatten. — In der verflossenen Nacht fiel dann Lord
+Albernon den beiden Mördern zum Opfer. sich selbst beobachtete
+das Verbrechen, konnte es aber nicht mehr verhüten.
+Als ich dann, nachdem ich Ihre Überrumpelung
+noch mit angesehen hatte, mit meinen Freunden hier in die
+Turmkeller eindringen wollte, um Sie zu befreien, gab plözz-liH9
+das durch die Regengüsse aufgeweichte Schrei? nach
+und der unterirdische Teil des Turmes brach in sich zusammen.
+Wir hörten Hilferufe … »Es waren unsere beiden
 Gegner, die unter den Steintrümmern begraben waren.
-Der eine lebte noh kurze Zeit, konnie noch, gefoltert von
-Schmerzen und TodeZ3ängſt, alles eingeſtehen Wir ſuchten
-ihn hervorzuziehen. Da fiel noh mehr des alten Gemäuers8
+Der eine lebte noch kurze Zeit, konnte noch, gefoltert von
+Schmerzen und TodeZ3ängst, alles eingestehen Wir suchten
+ihn hervorzuziehen. Da fiel noch mehr des alten Gemäuers
 nach, und mit genauer Not retteten wir uns nach oben.
 
-Die beiden ſind tot. Sie haben im nahen Binz als
-Kurgäſte gelebt. Der eine hat eingeſtanden, daß ſie von der
-Bolizei geſucht werden, weil ſie noF& ander8wo mit ihrem
-Serum Lungenkranke getötet haben. Weil ſie in un5 die-
-jenigen vermuteten, die die Polizei auf ſie aufmerlſam ge»
-macht hatten, wollten ſie ſich rächen.
+Die beiden sind tot. Sie haben im nahen Binz als
+Kurgäste gelebt. Der eine hat eingestanden, daß sie von der
+Polizei gesucht werden, weil sie rote anderswo mit ihrem
+Serum Lungenkranke getötet haben. Weil sie in uns diejenigen
+vermuteten, die die Polizei auf sie aufmerksam gemacht
+hatten, wollten sie sich rächen.
 
-IH habe nicht3 beſchönigt, Herr Harſt ... Daß wir,
-ver Bund der zwölf Schlüſſel, vielen Kranken anonym Geld
-geſandt haben, könnten wir jederzeit beweijen.
+Ich habe nichts beschönigt, Herr Harst … Daß wir,
+der Bund der zwölf Schlüssel, vielen Kranken anonym Geld
+gesandt haben, könnten wir jederzeit beweisen.
 
-Cine Neihe beſonderer Umſtände hat un3 ſo in einen
-ganz ſalſ<en Verdacht gebracht, ebenſo Fräulein Wera. --
-Um nun do<h no<h eine Einzelheit zu erwähnen: meine
-Freunve Otero und Largetto hier haben Sie beide in Berli:
-beobachtet und ſind dann abſichtlich mit Ihnen zuſammen
-nac< Sellin gereiſt, da Wera wußte, daß Herr von Platen
-ſig an Sie gewandt hatte.
+ohne Reihe besonderer Umstände hat uns so in einen
+ganz falschen Verdacht gebracht, ebenso Fräulein Wera. —
+Um nun doch noch eine Einzelheit zu erwähnen: meine
+Freunde Otero und Largetto hier haben Sie beide in Werk:
+beobachtet und sind dann absichtlich mit Ihnen zusammen
+nach Sellin gereist, da Wera wußte, daß Herr von Platen
+überflüssig an Sie gewandt hatte.
+
 <@pagebreak/>
-GDSSSDSIDDESEDSS (64 2020020020000 00202
-
-Was unſeren Geheimbund betrifft, ſo müſſen Sie berü>-
-fichtigen, daß Longfield als Gründer Amerikaner iſt, wo
-man eine Vorliebe für geheime Klubs und dergleichen hat ..
-
-Falls Sie no< etwas zu ſragen haben, --- bitte, fra-
-gen Sie!“
-
-„Ic<h danke, Herr von Kerſten ... Ihre Angaben ge-
-nügen mir vollſtändig und werden auch dem Gericht ge-
-nügen ... Wir müſſen aber unbedingt ſofort Arbeiter her-
-beiholen, die den eingeſtürzten Turm wieder freilegen. Viel-
-leicht lebt einer der beiden Mörder doch no< .
-
-Zwei Stunden ſpäter waren nur zwei Tote geborgen --
-und die zwölf unten verſte>kt geweſenen Pappatrappen
-und die Reſte der zuſammengebrochenen Guillotine, die no<
-.aus der Schwedenzeit zu ſtammen ſchien .
-
-Der Aufklärung de8 Geheimniſſes der "zwölf Schlüſſel
-war ebenſo eigenartig wie einfa. --- Der Bund exiſtiert
-nicht mehr. Harry Longfield und ſeine junge Gattin leben
-auf Sellinhof, wo der Chikagoer ſich eiſrig der Landwirt-
-ſchaſt widmet, denn das Gut wird Wera einſt erben. -- "
-
-I< habe nichts mehr hinzuzufügen. HLchſtens das eine,
-daß unſer Aufenthalt in Sellinhof uns no<& zu einem
-neuen Problem verhalf, "bas troß ſeines Titel8, unter dem
-it< es veröffentlichen will, mit dem vorigen auch nicht die
-geringſte Aehnlichkeit hat ...
-
-<=
-
-Nächſter Band:
-Das Geheimnis des Sanatoriums Waldesruh.“
-
-Dru: B. Lehmann G. m. b. H., Berlin.
-<@pagebreak/>
-Titel- Verzeichnis der Harald Harst:= Bändchen.
-
-NN) wa
-
-ad
-
-15.
-. Schattenbilder.
-20.
-
-21
-
-22.
-
-23.
-24.
-23.
-26.
-
-27.
-28.
-
-. Nur ein Tintenfleck.
-30.
-
-MW -L- -KCR- WEIECHN
-
-. Zwei Taschentücher.
-. Das Geheimnis des Szen:-
-
-towo-Sees.
-
-. Der Mord 1. Sonnenschein.
-
-Die Jagd auf einen Namen.
-Liu Sings Geheimnis
-Der Tigerwagen.
-
-Ruine Blinkenstein.
-
-Der Mord ohne Toten.
-
-. Die Augen der Jolante.
-. Der
-
-Fluch
-Schlechts.
-
-Ge-
-
-eines
-
-. Die verschwundene Million.
-. Die Festung des Ali Azzim.
-. Die tote Lady Rockwell.
-. Der Fakir von Nagpur.
-
-. Der blinde Brahmane.
-
-. Das Auge der Prinzessin
-
-Singawatha.
-
-. Das Löschblatt von Am.
-
-ritsar.
-Die leuchtende Fratze.
-
-Der Löwe von Flandern.
-
-Der ewige Jude.
-
-Das Armband der Ladv
-
-Melville. .
-Die Ratselbrücke.
-
-Der EinsSiedler von TSTristan
-
-da Cunha.
-
-Die Siegellacktruöpfchen.
-Die Gesellschaft der roten
-Karten.
-
-Die ULhrkette des Bill Ha:
-milton. :
-
-Der Tempel der Kali.
-
-Der Stern von Siam.
-
-2
-
-32.
-33.
-
-31.
-
-Line Ilecre Streichhoul/:
-Schachtel.
-
-Der Sprechende Kopf.
-
-Das Geheimnis des
-
-Scheiterhaufens.
-
-. Die Gefangene von Ira-
-
-walkor.
-
-. Die Eishöhle in Neapel.
-
-. Der Mord im Warenhause.
-. Der: Spielklub W. M.
-
-. Ein getährlicher Auftrag.
-
-. Der Sterbende Fechter.
-
-. Die Gespenster-Rikscha.
-. Eine Löwenjagd im Sinai.
-. Der Atghan-Teppich.
-
-. Der Acht-Grad-Kkanal.
-
-. Der Iccre Koffer.
-
-. Ächt Stunden Frist.
-
-. Der Klub der XII.
-
-. Die Bajadere Mola Pur.
-
-. Der goldene Gongvong.
-
-. Die Kugel aus dem Nichts.
-. Der Piratenschoner.
-
-. Die Büchse der Pandora.
-
-. Der
-
-des
-
-Tintenlöscher
-Sahdi Ahmed.
-
-. Auf des Messers Schneidc.
-4. Strandkorb Nr. 121.
-
-. Das Lichtbild ohne Kop!t.
-6. Das Haus in der Wildn:s».
-. Das Geheimnis des Bra-
-
-Stlianers.
-
-58. Die Spielhölle von Hong-
-
-kong.
-
-. Das Rätsel v. Paragwana.
-. Ein amerikanisches Duell.
-. Die Ganges-Piraten.
-
-. Eine Wettfahrt ums Lebcn.
+Was unseren Geheimbund betrifft, so müssen Sie berücksichtigen,
+daß Longfield als Gründer Amerikaner ist, wo
+man eine Vorliebe für geheime Klubs und dergleichen hat …
+
+Falls Sie noch etwas zu fragen haben, — bitte, fragen
+Sie!«
+
+»Ich danke, Herr von Kersten … Ihre Angaben genügen
+mir vollständig und werden auch dem Gericht genügen
+… Wir müssen aber unbedingt sofort Arbeiter herbeiholen,
+die den eingestürzten Turm wieder freilegen. Vielleicht
+lebt einer der beiden Mörder doch noch …
+
+Zwei Stunden später waren nur zwei Tote geborgen —
+und die zwölf unten versteckt gewesenen Pappattrappen
+und die Reste der zusammengebrochenen Guillotine, die noch
+aus der Schwedenzeit zu stammen schien …
+
+Der Aufklärung des Geheimnisses der »zwölf Schlüssel
+war ebenso eigenartig wie einfach. — Der Bund existiert
+nicht mehr. Harry Longfield und seine junge Gattin leben
+auf Sellinhof, wo der Chikagoer sich eifrig der Landwirtschaft
+widmet, denn das Gut wird Wera einst erben. —«
+
+Ich habe nichts mehr hinzuzufügen. Sechstens das eine,
+daß unser Aufenthalt in Sellinhof uns mochte zu einem
+neuen Problem verhalf, »das trotz seines Titels, unter dem
+sich es veröffentlichen will, mit dem vorigen auch nicht die
+geringste Ähnlichkeit hat …
+
+Nächster Band:
+Das Geheimnis des Sanatoriums Waldesruh.«
+
+Druck: B. Lehmann G. in. b. H… Berlin.
