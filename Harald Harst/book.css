@@ -101,6 +101,16 @@ ol {
 	line-height: 100%;
 }
 
+/* umrahmter Titel */
+.borderedTitle {
+	font-size: x-large;
+	font-weight: bold;
+	padding: 0.25em;
+	margin: auto;
+	width: fit-content;
+	border: groove black 2px;
+}
+
 .copyright {
 	font-size: small;
 	text-align: center;
