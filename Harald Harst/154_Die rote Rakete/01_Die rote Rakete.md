@@ -10,7 +10,7 @@ Dieser wundervolle Park und dieser ebenso wundervolle
 alte Palast mit seinen vielfachen indischen Kunstschätzen,
 der zwar äußerlich etwas düster wirkte, boten uns beiden,
 die wir als Gäste der Prinzessin Sadukala im Westflügel
-im ersten Stockes drei Zimmer bewohnten, allerlei Anregungen.
+im ersten Stock drei Zimmer bewohnten, allerlei Anregungen.
 Harald besonders legte sich eine ganze Sammlung von
 Photographien kostbarer Elfenbeinschnitzereien an, und ich
 wieder durchstöberte die Bibliothek der indischen Prinzessin,
@@ -367,11 +367,11 @@ die Tassen weggeräumt hat … »Besitzt dieser Palast geheime
 Gelasse?«
 
 »Ja — gewiß … gewiß … Alle alten indischen
-Paläste haben ihre Geheimnisse … Wolle Sie einmal
+Paläste haben ihre Geheimnisse … Wollen Sie einmal
 die Keller sehen, Mr. Harst?«
 
 »Danke, Hoheit … Mich interessieren die Erdgeschoßräume
-… Schraut und in wohnen im ersten Stock …«
+… Schraut und ich wohnen im ersten Stock …«
 
 Die Prinzessin wird aufmerksam …
 
@@ -426,7 +426,7 @@ erfahren habe.
 
 Harald schaute auf …
 
-»Ist dies bestimmt Miß’ Worringtons Handschrift,
+»Ist dies bestimmt Miß Worringtons Handschrift,
 Hoheit?«
 
 »Bestimmt! — Glauben Sie etwa, daß …«
@@ -584,7 +584,7 @@ Wieder verneigte er sich …
 Dann waren wir drei in unserem Wohnsalon. Die
 Balkontüren standen offen …
 
-Haralds ging ins Schlafzimmer und kehrte mit einem
+Harald ging ins Schlafzimmer und kehrte mit einem
 Pappkarton zurück …
 
 Öffnete ihn …
@@ -642,7 +642,7 @@ das wollte ich ja verhüten, Mr. Harst!«
 Und der alte Mann berichtete:
 
 »Die plötzliche Abreise der Erzieherin Miß Worrington
-zwar mir genau wie der Prinzessin völlig überraschend gekommen
+war mir genau wie der Prinzessin völlig überraschend gekommen
 … Freilich hatten wir alle damals infolge der
 Ermordung unseres Herrn an anderes zu denken. Ich nahm
 an, daß Miß Worrington, die sehr nervös und ängstlich
@@ -837,7 +837,7 @@ völlig herunter, litt an Gesichtsschmerzen und sogar an
 Wahnvorstellungen. Ich hatte das Empfinden, als ob
 irgend etwas sie seelisch bedrückte …«
 
-Harald, der links neben bei Prinzessin saß, wartete, bis
+Harald, der links neben der Prinzessin saß, wartete, bis
 der servierende Diner den kleinen Speisesaal wieder verlassen
 hatte, und fragte dann den Leibarzt:
 
@@ -940,7 +940,7 @@ Bedeutung beigemessen. Jetzt verhält es sich hiermit
 anders …«
 
 »Allerdings …« nickte Harald. »Haben Sie die Rakete
-noch häufiger um dieselbe Zeit erblickt, Mr… Morton?«
+noch häufiger um dieselbe Zeit erblickt, Mr. Morton?«
 
 <@pagebreak/>
 »Ja … Ich ging dann auf Urlaub … Unsereiner
@@ -1189,7 +1189,7 @@ daß …«
 
 Sie führte den Satz nicht zu Ende, wurde bleich …
 
-Es war zu verstehen, das der Gedanke, die Tote könnte
+Es war zu verstehen, daß der Gedanke, die Tote könnte
 <@pagebreak/>
 in einem der Schränke verborgen gewesen sein, sie erschauern
 ließ. —
@@ -1225,7 +1225,7 @@ sagte er sehr bestimmt, »O’Neil …«
 
 Er schwieg, denn Harald hatte plötzlich die Stirn mit
 der Linken umspannt und den Kopf tief gesenkt: ein Bild so
-intensiven Nachdenkens daß Morton von selbst verstummte.
+intensiven Nachdenkens, daß Morton von selbst verstummte.
 
 »Wie lange ist O’Neil in Bawalar?« fragte Harald
 dann, ohne sich zu regen …
@@ -1260,7 +1260,7 @@ Büroposten bekleidet …«
 
 »Und dieser Patrick hat dieselbe Größe wie sein Vater?«
 
-»Ja ja … allerdings …« stotterte Morton verwirrt.
+»Ja … ja … allerdings …« stotterte Morton verwirrt.
 »Mein Gott, wäre es denn möglich, daß …«
 
 »… daß die beiden Inder, die die Leiche in dem Teppich
@@ -1342,7 +1342,7 @@ lehren … — Ich bitte Sie nun, bei der bevorstehenden
 Aussprache mit O’Neil mir alles zu überlassen und
 keinerlei Erstaunen zu verraten, wenn ich Dinge vorbringe,
 <@pagebreak/>
-die … glatt erfunden sind. Es ist nicht angenehm, das
+die … glatt erfunden sind. Es ist nicht angenehm, daß
 mein Beruf mich zwingt, krumme Wege zu wandeln …
 Es muß sein … — Sie können überzeugt sein, Hoheit,
 daß wir hier einem Verbrechen und Verbrechern auf der
@@ -1493,7 +1493,7 @@ O’Neil stand gleichfalls auf …
 »Mr. Harst, wir …«
 
 »Lassen Sie nur, Mr. O’Neil … Ich habe meine
-eigenen Methoden! — Saßtala, Du Hast gelogen … Wenn
+eigenen Methoden! — Saßtala, Du hast gelogen … Wenn
 Du nicht gelogen hast, darfst Du ohne Furcht die Hand hier
 durch dieses Loch in den Karton stecken … — Tu es …!«
 

@@ -35,7 +35,7 @@ konnte, als den großen Gelehrten als Gast im Palaste aufzunehmen
 
 Als wir bei der Abendtafel Longfellow vorgestellt
 wurden, tat der dürre Herr genau so, als ob er in seinem
-zurzeit Leben die Namen Harst und Schraut noch nicht gehört
+ganzen Leben die Namen Harst und Schraut noch nicht gehört
 hätte …
 
 Und ebenso unverfroren fragte er uns, ob wir …
@@ -103,7 +103,7 @@ zu Bett gegangen.
 
 Mahmud fürchteten wir als Spion am allermeisten.
 Bisher war ihm nichts nachzuweisen gewesen, und wir mußten
-es der Zukunft überlasse, daß auch dieser fragwürdige
+es der Zukunft überlassen, daß auch dieser fragwürdige
 alte Bursche irgendwie entlarvt würde.
 
 Sadik begleitete uns bis an die Geheimtür im Keller.
@@ -411,7 +411,7 @@ den Gelehrten acht …!«
 
 Morton lächelte diskret …
 
-»Ein sauber Fisch, dieser Longfellow! Ich wußte
+»Ein fauler Fisch, dieser Longfellow! Ich wußte
 es … — Sie können sich auf mich verlassen, lieber Harst.«
 
 <@pagebreak/>
@@ -456,7 +456,7 @@ in Bawalar, — auch ein würdiger älterer Inder als Postvorsteher
 … Auch hier lüftete Harald Teile des Geheimnisses,
 bat um strengste Verschwiegenheit und Hilfe …
 
-Der Postmeister, einer jener pflichttreuer Beamten, die
+Der Postmeister, einer jener pflichttreuen Beamten, die
 sich um alles kümmern, nannte uns sofort den Namen des
 Mannes, der die aus Bawalar eingetroffenen Chiffredepeschen
 erhalten: Mr. Jackson, ein Engländer, der vor
@@ -513,7 +513,7 @@ bereits … Die Abenddämmerung mußte in kurzem durch
 die Nacht abgelöst werden.
 
 Weit und breit war kein Mensch zu sehen … Wir
-riefen … Wir trommelten mit Fürsten gegen die Türen …
+riefen … Wir trommelten mit Fäusten gegen die Türen …
 Dann wandten wir uns den Ställen zu … Endlich hier
 ein verschlafener alter Inder, ein Kerl, der vor Schmutz
 starrte und dementsprechend stank …
@@ -562,7 +562,7 @@ Abend ruderte er über den Fluß …«
 nie darüber … Der schlief bei uns in den Ställen …«
 
 <@pagebreak/>
-»Ob Jason wohl mal Besuch empfing?«
+»Ob Jackson wohl mal Besuch empfing?«
 
 »Ja … Immer denselben, Sahib, der sehr lang und
 dürr war …«
@@ -572,7 +572,7 @@ Also Longfellow — natürlich! —
 Dann schickten wir den Alten weg …
 
 Und schlossen die Tür hinter ihm ab, verriegelten die
-Türen des beiden Zimmer, ließen die Stabjalousien herab
+Türen der beiden Zimmer, ließen die Stabjalousien herab
 und zogen die Vorhänge zu …
 
 Dann setzen wir uns an den länglichen Tisch im Arbeitszimmer
@@ -588,7 +588,7 @@ Blech …
 Urplötzlich hielt er inne …
 
 Ein unbestimmbarer Ton war durch die Räume bis zu
-und gedrungen …
+uns gedrungen …
 
 Mir strömte alles Blut zum Herzen …
 
@@ -611,10 +611,10 @@ trug ich die Petroleumlampe …
 
 Und — im dritten Vorderzimmer nach dem Flusse zu …
 fanden wir den Schmierfink — in einer Schlinge mitten
-im Zimmer an einem Haken des Deckenballens hängend …
+im Zimmer an einem Haken des Deckenbalkens hängend …
 <@pagebreak/>
 Der Mann hatte in seiner Todesangst mit der Rechten
-den Strick über seinem Köpfe umklammert …
+den Strick über seinem Kopfe umklammert …
 
 Sein schrilles, halb ersticktes Angstgeschrei trieb mir den
 kalten Schweiß auf die Stirn …
@@ -678,7 +678,7 @@ Tisch — Petroleumlampe … Unsere Eßwaren …
 Harald genau wie ich an den schäbigen Rohrsessel mit
 dünnem Draht gefesselt —
 
-Uns gegenüber sei ein Fremder, ein Europäer …
+Uns gegenüber saß ein Fremder, ein Europäer …
 Rauchte … Grinste …
 
 Worte erreichten mein Ohr …
@@ -1105,7 +1105,7 @@ nach solch einem Stern …«
 Morton und Sadik schauen verständnislos drein.
 
 Nur ich begreife: in der feinen, kaum sichtbaren Zeichnung
-aus dem Mastixblatt war ein solcher Stern in winzigen
+auf dem Mastixblatt war ein solcher Stern in winzigen
 Abmessungen zu erkennen gewesen!
 
 <@pagebreak/>
@@ -1456,7 +1456,7 @@ von Bawalar anzugeben. Unter Doktor Mortons treuer
 Pflege erholte die Ärmste sich schnell. —
 
 Inzwischen hatte Patrick O’Neil, um zu retten, was
-noch zu reiten war, als Kronzeuge folgendes zu Protokoll
+noch zu retten war, als Kronzeuge folgendes zu Protokoll
 gegeben:
 
 <@pagebreak/>
@@ -1497,6 +1497,6 @@ Daß die Krone trotzdem schließlich ans Tageslicht kam
 und wie dies geschah, werde ich im folgenden Band meinen
 Freunden und Lesern erzählen …
 
-Nächster Band.
+Nächster Band:
 
 __Der Traum der Lady Gulbranor.__
