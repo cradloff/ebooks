@@ -272,7 +272,7 @@ Daß dieser Fremde (denn die wenigen Europäer, die
 in der kleinen Residenz Bawalar wohnten, kannten wir
 längst) kein ganz reines Gewissen gehabt hatte, war wohl
 <@pagebreak/>
-mit Sicherheit anzunehmen. Weshalb sonst diese Fluch
+mit Sicherheit anzunehmen. Weshalb sonst diese Flucht
 vor uns?!
 
 Und als wir nun die Keller nochmals durchsuchten,
@@ -591,7 +591,7 @@ Bitte, geben Sie mir das Bild zurück …«
 
 »Und … und … werden Sie mir nun helfen?«
 
-»Ja. Mylady … Wenn es Ihnen recht ist, siedeln
+»Ja, Mylady … Wenn es Ihnen recht ist, siedeln
 wir heute abend zu Ihnen über … oder — ist Ihr neues
 Heim dann noch nicht in Ordnung?«
 
@@ -606,7 +606,7 @@ Streckte Harald beide Hände hin …
 »Ich … ich komme mir vor wie jemand, der zum
 Tode verurteilt war, und dem man nun seine Begnadigung
 mitgeteilt hat …! — Leben Sie wohl, meine Herren …
-Auf Wiedersehen … Sie Werden sich bei mir schon
+Auf Wiedersehen … Sie werden sich bei mir schon
 behaglich fühlen …«
 
 Wir begleiteten sie bis zum Portal …
@@ -702,7 +702,7 @@ Morton wurde erregt …
 Ich weiß, was ich weiß. Es war der alte
 Polizeichef. Ein so charakteristisches hageres Gesicht wie das
 seine gibt es nicht zum zweiten Male. Nicht einmal sein
-John Patrick, der noch im Polizeigefängnis in Untersuchungshaft
+Sohn Patrick, der noch im Polizeigefängnis in Untersuchungshaft
 sitzt, ähnelt ihm … — Denken Sie denn, daß
 ich ohne Grund so verstört war?! Bei mir gehört schon
 eine ganze Menge dazu, mich außer Fassung zu bringen!«
@@ -712,7 +712,7 @@ Mann mit einem Kopfschuß, den Sie selbst für tot erklärt
 haben, heute hier über eine Mauer klettern kann?! Trug
 der Mann denn einen Verband?«
 
-»Nein … Er trug einen Übel zugerichteten gelblichen
+»Nein … Er trug einen übel zugerichteten gelblichen
 Leinenanzug … Die Jacke war auf dem Rücken zerfetzt …«
 
 Da schauten Harald und ich uns bedeutsam an …
@@ -726,7 +726,7 @@ Harst sagte zu Morton:
 ich heute vormittag auf dem Mohammedanerfriedhof
 erlebt …«
 
-Er erzählt. Dann zeigte er Morton die Photographie
+Er erzählte. Dann zeigte er Morton die Photographie
 …
 
 »Wenn man Bart und Augenbrauen sich wegdenkt, ist
@@ -970,7 +970,7 @@ Das war alles.
 Der Garten tadellos gepflegt … Wir kannten ihn
 schon. Vor dem Hause ein großer Springbrunnen, dessen
 Wasserzuleitung jedoch nicht in Ordnung war … In der
-Mitte des diesen Marmorbassins die Steinfigur eines
+Mitte des tiefen Marmorbassins die Steinfigur eines
 sprungbereiten Tigers, aus dessen halb offenem Maul das
 Strahlrohr der Fontäne herausreichte. —
 
@@ -1033,7 +1033,7 @@ Meinte flüsternd:
 
 »Weshalb?!«
 
-»Ist Dir der Kopf nicht auch es etwas schwer?! Ich
+»Ist Dir der Kopf nicht auch so etwas schwer?! Ich
 habe ein Gefühl leichter Benommenheit … Ich glaube,
 die Eisbowle gestern abend war nicht ganz harmlos …
 Die Lady trank nur ein Glas … Ich vier … Du drei …
@@ -1081,7 +1081,7 @@ Nehmen wir ein Bad …«
 
 <@pagebreak/>
 Und wir standen im kleinen Baderaum unter der
-kurze …
+Dusche …
 
 Wir lebten auf … —
 
@@ -1166,7 +1166,7 @@ kam. Der Mann leistete mir Gesellschaft. Wir sprachen über
 gleichgültige Dinge. Mit einem Male zeigte er mir eine
 Photographie Lenglens und sagte drohend: »Mörderin!!
 Sie werden Ihrer Strafe nicht entgehen!« — Bevor ich
-mich noch von meinem Entsetzen erholt hatte, war es
+mich noch von meinem Entsetzen erholt hatte, war er
 davongeritten … — Ich habe ihn nie wieder gesehen … Aber
 alles, was ich damals erlebte, hat auf mich einen
 unauslöschlichen Eindruck gemacht. Bedenken Sie, daß Lenglen
@@ -1336,7 +1336,7 @@ lautlos zum Fenster hinaus auf die Veranda …
 sprungbereite Tiger droht …
 
 Im Bassin liegt Patrick auf dem Bauche zwischen welkem
-Laub und lagen zusammengewehten Gräsern …
+Laub und losen zusammengewehten Gräsern …
 
 Man hat ihn erwürgt … Am Halse sieht man die
 Spuren der Finger des Mörders … Eine ungeheure Kraft
@@ -1454,7 +1454,7 @@ Und dann sei der Spuk hinter dem Wandschirm verschwunden
 …
 
 Die Lady erholte sich schneller als wir hoffen durften.
-Und das lag wohl daran, weil Harald sich gefragt hatte, ob
+Und das lag wohl daran, weil Harald sie gefragt hatte, ob
 es auch bestimmt Lenglens Stimme gewesen sei …
 
 Da war Alix Gulbranor stutzig geworden …

@@ -67,7 +67,7 @@ Leise — und mit einem ganz merkwürdigen Ausdruck
 im Gesicht …
 
 »Ah — gut, daß Du munter bist, mein Alter …«
-flüsterte er. »Lady Alix gibt mit dem Rechtsanwalt im Garten
+flüsterte er. »Lady Alix sitzt mit dem Rechtsanwalt im Garten
 und verhandelt noch wegen des Hauskaufs, der nun
 durch Patricks Tod rechtlich auf Schwierigkeiten stößt. Ich
 habe diese Gelegenheit benutzt, in einer nicht gerade vornehmen
@@ -106,7 +106,7 @@ Ich konnte nur den Kopf zu alledem schütteln …
 Und meinte:
 
 »Man müßte der Lady glatt ins Gesicht sagen, daß sie
-uns grob beschwindelt hat …! Es ist ja noch einfach empörend,
+uns grob beschwindelt hat …! Es ist ja doch einfach empörend,
 daß sie uns, die wir ihr helfen sollen, derart anschwindelt!
 Womöglich ist überhaupt alles nur Spiegelfechterei!
 Womöglich hat sie überhaupt nie diesen sogenannten
@@ -121,7 +121,7 @@ Hut voll Überraschungen! Nur — gelogen hat die Lady
 nicht, nur manches verschwiegen … Und dies, was sie uns
 unterschlug, sind Herzensangelegenheiten, behaupte ich …«
 
-Er lebte sich in einen Korbsessel und streckte die Beine
+Er setzte sich in einen Korbsessel und streckte die Beine
 weit von sich …
 
 Und wie nun in seine Augen jener besondere Ausdruck
@@ -432,7 +432,7 @@ Harst legt die Lady auf den Diwan in ihrem Schlafzimmer
 Sie erwacht …
 
 Und ihr erster Blick gilt dem Ebenholzkasten, den ich
-auf das Tischen am Kopfende des Diwans gestellt habe …
+auf das Tischchen am Kopfende des Diwans gestellt habe …
 
 Tränen verdunkeln ihre schmerzerfüllten Augen …
 
@@ -440,7 +440,7 @@ Tränen verdunkeln ihre schmerzerfüllten Augen …
 …
 
 <@pagebreak/>
-Dann besinnt sich sich … Schaut uns an … Lächelt
+Dann besinnt sie sich … Schaut uns an … Lächelt
 — das Lächeln einer büßenden Madonna …
 
 Harald reicht ihr das Glas feurigen Kaschmirweins …
@@ -454,7 +454,7 @@ einer Frau, die allzu jung und unerfahren einen …
 Wüstling heiratete … Denn das war Lord Gulbranor …
 Fünf Jahre ertrug ich dieses Dasein, dieses Martyrium …
 Bis — ich frei wurde, bis mein Gatte verunglückte …
-Einen einzige kleinen Trost hatte ich in der letzten Zeit
+Einen einzigen kleinen Trost hatte ich in der letzten Zeit
 durch die treue Freundschaft Lenglens gefunden. Er wurde
 meinem Manne als Adjutant zugeteilt … Längst wußte
 ich, daß er mich liebte … — Nach dem Tode meines Mannes
@@ -512,7 +512,7 @@ meine Angaben bestätigt finden!« — Bis dahin hatte
 ich ihm wie benommen zugehört … Dann aber flammte
 der Zorn in mir hoch … Ich weiß nicht mehr, was ich
 ihm in meiner Erregung zurief. Er blieb kalt und gelassen.
-Unterbrach mich plötzlich und rief mir das zu, was Sie vor
+Unterbrach mich plötzlich und rief mir das zu, was Sie von
 mir bereits erfahren haben, meine Herren … — Aber — er
 warf mir noch dazu sein Bild vor die Füße, bevor er mit
 seinem Dromedar in die Nacht hinaus sprengte … »Vernichten
@@ -598,7 +598,7 @@ Alix Gulbranor nahm Haralds Hand …
 
 »Oh — erklären Sie mir das eine: weshalb hat James
 O’Neil so schändlich gehandelt?! Sollte er mich wirklich
-geliebt haben«!«
+geliebt haben?!«
 
 »Mylady, darüber kann ich mich noch nicht äußern …
 Geben Sie mir noch zwei Tage Zeit. Bis dahin wird wohl
@@ -803,7 +803,7 @@ an dem Antlitz der Herrin, jedes Winkes gewärtig …
 Unser Haus und der Garten wurden bewacht — unsichtbar.
 Harald hatte dies schon nachmittags telephonisch
 mit dem Polizeichef vereinbart, der die besten seiner Leute
-beordern wollte … Wir brauchen keine heimtückische Kugel
+beordern wollte … Wir brauchten keine heimtückische Kugel
 zu fürchten …
 
 Wir sprachen von Dingen, die nichts mit all dem Widerwärtigen,
@@ -934,7 +934,7 @@ So lagen wir denn angezogen auf unseren Betten …
 
 <@pagebreak/>
 Schlafen — einschlafen?! — Jetzt erst merkte ich, wie
-der Mokka meine Nerven aufstört hatte …
+der Mokka meine Nerven aufgestört hatte …
 
 Ich horchte … horchte …
 
