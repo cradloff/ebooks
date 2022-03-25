@@ -5,11 +5,11 @@ Harald Harst: Aus meinem Leben
 <h1>Das Geheimnis
 des Sanatoriums Waldesruh</h1>
 
-Erzählt von
-Max Schraut
+<div class="title3">Erzählt von</div>
+<div class="title2">Max Schraut</div>
 
 <h2>1. Kapitel.</h2>
-<h3>Unser Rehbock!!.</h3>
+<h3>Unser Rehbock!!</h3>
 
 »Hals und Beinbruch also!« sagte unser Gastgeber zu
 uns und winkte uns noch nach …
@@ -25,19 +25,19 @@ Endlos lange war das her … endlos lange!
 
 Eine halbe Stunde später hatten wir den Waldrand erreicht,
 wo der Rehbock seit einiger Zeit allabendlich zum
-gegen austrat …
+Äsen austrat …
 
 In einem Gebüsch von Haselsträuchern machten wir es
 uns bequem …
 
 Links von uns stieg der Hochwald ziemlich steil zum
-Meeresstrande an, und rechts breiteten sich die sruchtschweren
+Meeresstrande an, und rechts breiteten sich die fruchtschweren
 Felder vor Sellinhof aus …
 
 Über alledem ein Himmel in zartestem Rosa … Ein
-Absichten Seewind … Die Natur atmete auf nach des Tages
+leichter Seewind … Die Natur atmete auf nach des Tages
 <@pagebreak/>
-sengender Hitze … Weber den tieferen Teilen der Heide erschienen
+sengender Hitze … Über den tieferen Teilen der Heide erschienen
 zarte Nebelschwaden — ein dünner Hauch, der wie
 durchtränkt vom Abendrot war … —
 
@@ -50,10 +50,13 @@ wie in einem unermeßlichen Dome …
 
 Und dann Harald — überhastet, leicht erregt:
 
-»Eine Frau … — Mein Alter, eine Frau … Rechte
-neben der Eiche …
-Ich blickte Ein …
-Im Moment hatte auch ich daß Glas an den Augen …
+»Eine Frau … — Mein Alter, eine Frau … Rechts
+neben der Eiche …«
+
+Ich blickte hin …
+
+Im Moment hatte auch ich das Glas an den Augen …
+
 Ein leises »Verdammt!« entfuhr mir …
 
 Die Frau dort, deren schneeweißes Haar deutlich zu erkennen
@@ -76,7 +79,7 @@ Regungslos schaute die Frau …
 
 Ihre Haltung hatte etwas Sprungbereites … Die
 Hände der leicht gekrümmten Arme waren geballt … Auch
-csc Armstellung war die eines Menschen, der mit Anspannung
+diese Armstellung war die eines Menschen, der mit Anspannung
 all seiner Sinne etwas ihm außerordentlich Interessantes
 beobachtet …
 
@@ -85,15 +88,15 @@ verlassenen Vorwerk hin …
 
 Ich kannte es …
 
-Vor fünfzig Jahren war es ausgegeben worden …
+Vor fünfzig Jahren war es aufgegeben worden …
 
 <@pagebreak/>
-Die Gebäude nur noch Ruinen … Was nicht nie!- und
+Die Gebäude nur noch Ruinen … Was nicht niet- und
 nagelfest, hatten diebische Hände entführt … Keine Tür
-mehr, kein Fenster … Die Fußböden verkauft … Die
+mehr, kein Fenster … Die Fußböden verfault … Die
 Treppen nicht mehr zu betreten …
 
-Man sah von hier aus nur die verwitterten Z egel-dächer
+Man sah von hier aus nur die verwitterten Ziegeldächer
 … Altmodische, geschweifte Ziegel, dicht mit Moosflecken
 besät … —
 
@@ -132,8 +135,8 @@ Nichts von Harald zu sehen …
 Also begann meine Pflicht …
 
 Ich ließ die Büchse neben der Haralds liegen …
-hat Folgte der Frau, stets mich dreißig Meter seitwärts
 
+Folgte der Frau, stets mich dreißig Meter seitwärts
 haltend …
 
 Auf schmalem Waldweg jagte sie dahin — in einem
@@ -159,15 +162,15 @@ Ganz fest schlief …
 So fest, daß die Weißhaarige neben ihr Platz nehmen
 konnte … Die Dicke erwachte nicht …
 
-»Ich fünf Schritt dahinter im Gebüsch …
+Ich fünf Schritt dahinter im Gebüsch …
 
-»im Zeuge, wie die Frau die Schlafende wette,
+Ich Zeuge, wie die Frau die Schlafende weckte,
 rüttelte …
 
 »Schwester, es wird Zeit …«
 
 Die taumelte empor, schaute verworren um sich, fuhr
-Dosis nach der Stirn …
+sich nach der Stirn …
 
 Ein rundes, gutmütiges Gesicht … Eins jener Gesichter,
 die so nüchtern sind, daß man gedankenlos über sie
@@ -176,14 +179,14 @@ hinweg sieht …
 Dann rief die Dicke:
 
 »Oh — es … es muß schon sehr spät sein … Kommen
-Sie, Frau Gräfin, kommen Sie … Ich werde böse gerutscht
+Sie, Frau Gräfin, kommen Sie … Ich werde böse gerüffelt
 werden … Sagen Sie um Gottes willen nicht, daß
-ich geschlafen habe … IJ weiß auch gar nicht, woher diese
-Müdigkeit mich besser … Kommen Sie …!«
+ich geschlafen habe … Ich weiß auch gar nicht, woher diese
+Müdigkeit mich befiel … Kommen Sie …!«
 
 Die beiden schritten den Weg abwärts, bogen dann
 links ein, wo das Dorf Binz sich an der Chaussee entlang
-zieht und ein großes neues Gebäude die Häuschen hoch überzeugt
+zieht und ein großes neues Gebäude die Häuschen hoch überragt
 … —
 
 Zehn Minuten später wußte ich, daß das große Haus
@@ -202,26 +205,24 @@ Er stand und rauchte eine Zigarette, hatte unsere beiden
 Jagdbüchsen umgehängt …
 
 <@pagebreak/>
-»Ab — endlich, mein Alter,« begrüßte er mich … »Fünf
-
+»Ah — endlich, mein Alter,« begrüßte er mich … »Fünf
 Minuten hätte ich noch gewartet … Dann würde ich Dir
 einen Zettel zurückgelassen haben … denn um elf Uhr beginnt
-der zweite Akt … — Vorwärts — zum Vortwerk’
-
-Und wenn Du glaubst, daß ich Luft zum Reden habe, irrst
+der zweite Akt … — Vorwärts — zum Vorwerk!
+Und wenn Du glaubst, daß ich Lust zum Reden habe, irrst
 Du Dich … Erzähle …!«
 
 Ich erstattete Bericht …
 
-Wir gingen hinter dem Feldrain entlang … Wir erxr-kannten
-glücklich einen Rehbock, der von der Wiese in eleganten
+Wir gingen hinter dem Feldrain entlang … Wir erkannten
+flüchtig einen Rehbock, der von der Wiese in eleganten
 Sätzen in den Wald flüchtete …
 
-Was Schritte uns der Bock — unser Bock …!!
+Was scherte uns der Bock — unser Bock …!!
 
 Ich erzählte …
 
-Harald unterbrachc9 mich nicht …
+Harald unterbrach mich nicht …
 
 Jetzt hatten wir die Heide erreicht …
 
@@ -239,22 +240,22 @@ rechts, wo die Balken des Fußbodens längst in den Keller
 hinabgesunken waren und nur in der linken Ecke noch die
 Überreste des Kachelofens standen …
 
-Harsts Taschenlampe hatte mir’ dies Bild der Verwüstung
+Harsts Taschenlampe hatte mir dies Bild der Verwüstung
 für Sekunden gezeigt …
 
 Wir kletterten hinab in den mit Schutt, Bretterstücken
 und Balkenresten ausgefüllten Keller … Hier verbargen
-wir uns, saßen nebeneinander auf einem Balken und haben
-schräg über uns die hellen Vierecke der Fenftierössnungen …
+wir uns, saßen nebeneinander auf einem Balken und sahen
+schräg über uns die hellen Vierecke der Fensteröffnungen …
 
 Ich saß hier — ein Ahnungsloser …
 
-konnte mir freilich ungefähr zusammenreimen, was
+Ich konnte mir freilich ungefähr zusammenreimen, was
 die Frau hier getan, — die Gräfin, die offenbar ihrer Wärterin
 heimlich entlaufen war …
 
 Vielleicht hatte diese Gräfin, deren Greisinnenhaar nur
-auf eine schwere Krankheit zurüzuführen sein konnte, hier
+auf eine schwere Krankheit zurückzuführen sein konnte, hier
 eine Nachricht für irgend jemand hinterlassen …
 
 <@pagebreak/>
@@ -262,31 +263,29 @@ Und jetzt, wo ich in Ruhe mir dies alles überlegen
 konnte, erschien mir diese Annahme die einzig richtige zu
 sein …
 
-Denn — woher konnte Harald sonst wissen, daß ich
+Denn — woher konnte Harald sonst wissen, daß sich
 um elf Uhr etwas Neues ereignen würde?!
 
 Ja — die Gräfin hatte hier ein Schreiben niedergelegt.
 Harst hatte es zweifellos gelesen. Und in diesem Schreiben
 mußte die erste Stunde erwähnt sein …
 
-acht zog meine Taschenuhr …
+Ich zog meine Taschenuhr …
 
 Hier in der Finsternis grinste das Leuchtzifferblatt mich
 an wie ein grüngelbes Auge …
 
-Juni Minuten vor el.! —
+Fünf Minuten vor elf …! —
 
-Harald preßt meinen im.
+Harald preßt meinen Arm.
 
 Das hieß: Achtung!
 
-ehe
-
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 
 <h3>Der Kolibri.</h3>
 
-… hörte ich’s …
+Da … hörte ich’s …
 
 Was — — war das …?!
 
