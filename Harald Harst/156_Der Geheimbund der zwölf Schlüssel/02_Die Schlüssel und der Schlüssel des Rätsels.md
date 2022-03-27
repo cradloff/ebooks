@@ -55,7 +55,7 @@ Fräulein von Platen?«
 
 »Begegneten Sie jemandem?«
 
-»Ja. In der Waldzunge, die sich in die Kartoffelacker
+»Ja. In der Waldzunge, die sich in die Kartoffeläcker
 hinzieht, waren Leute meines Onkels mit Holzfällen
 beschäftigt …«
 
@@ -273,7 +273,7 @@ in ihrem Zimmer bewachen. Ersparen Sie ihr die Haft in
 einer Zelle. Sie würden die Verhaftung doch wieder aufheben
 müssen. Geben Sie mir zwei Tage Zeit. In diesen
 achtundvierzig Stunden hoffe ich Ihnen restlos über all
-diese dunklen Dinge Ausschluß geben zu können …«
+diese dunklen Dinge Aufschluß geben zu können …«
 
 Der Amtsrichter war einverstanden.
 
@@ -506,7 +506,7 @@ steckten: in dem früheren Vorwerk, um das sich niemand
 mehr kümmerte und das in der Heide dort ganz abgeschieden
 lag. —
 
-Im elf Uhr gingen wir zu Bett …
+Um elf Uhr gingen wir zu Bett …
 
 Vielmehr — wir gingen nicht zu Bett …
 
@@ -688,7 +688,7 @@ Wirklich dieses grausige Instrument, dessen Opfern der
 Pariser Pöbel zubrüllte:
 
 »Hoppla — wirst bald in den Korb niesen!!« Denn
-die Köpfe von den Verurteilten fielen ja einen mit Sägespänen
+die Köpfe von den Verurteilten fielen in einen mit Sägespänen
 gefüllten Korb …
 
 Und — ist tatsächlich auf das Schiebebrett dieses Instruments,
@@ -726,14 +726,14 @@ Wie ich an die Mauer gefesselt …
 Und wir schauen uns an … Er nickt mir zu, meint
 gleichmütig:
 
-»Ein lächerlich Theater!«
+»Ein lächerliches Theater!«
 
 Der Gestank dieses Kellerloches benimmt mir den
 Atem …
 
 Harst wiederholt noch lauter:
 
-»Ein lächerliche Theater!! — Glauben Sie, daß uns
+»Ein lächerliches Theater!! — Glauben Sie, daß uns
 derlei mittelalterliche Schreckenskammerromantik imponiert
 …?!«
 
@@ -793,7 +793,7 @@ ich …«
 »… Der Hund wird geschont werden … — Sie
 geben also Ihr Wort?«
 
-»Noch nicht … sich verlange vorher Ihr Wort, daß
+»Noch nicht … Ich verlange vorher Ihr Wort, daß
 Sie als Vertreter des Geheimbundes mir versichern, weitere
 Untaten nicht zu begehen und den Beweis zu erbringen, daß
 Fräulein von Platen unschuldig ist …«
@@ -944,7 +944,7 @@ Schlüsselleute waren?« beginne ich wieder …
 Er schweigt …
 
 Dann: »Es hätte keinen Zweck, jetzt nach dem Orte zu
-suchen, wo man dieses üble Theater uns verspielte … —
+suchen, wo man dieses üble Theater uns vorspielte … —
 <@pagebreak/>
 Woher ich es weiß? Sehr einfach: aus dem Inhalt des
 Morsetelegramms, der Lichtdepesche, die von Wera in die
@@ -1027,7 +1027,7 @@ Platen schaute auf …
 
 Winkte … Kam uns entgegen … —
 
-So standen wir denn nun neben den dritten Toten …
+So standen wir denn nun neben dem dritten Toten …
 
 Auch dieser junge Mann war zweifellos ein Ausländer
 … Neben ihm eine Karbidlaterne …

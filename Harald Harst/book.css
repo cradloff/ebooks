@@ -70,9 +70,8 @@ blockquote {
 	text-align: left;
 }
 
-ol {
-	margin: 2pt 0 2pt;
-	padding-left: 1.3em;
+li {
+	padding-left: 0.3em;
 	text-align: justify;
 }
 
@@ -109,6 +108,7 @@ ol {
 	margin: auto;
 	width: fit-content;
 	border: groove black 2px;
+	text-align: center;
 }
 
 .copyright {

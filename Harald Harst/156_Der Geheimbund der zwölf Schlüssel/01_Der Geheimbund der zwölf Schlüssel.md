@@ -4,6 +4,9 @@
 
 <h1>Der Geheimbund der zwölf Schlüssel</h1>
 
+<div class="title3">Erzählt von</div>
+<div class="title3">Max Schraut</div>
+
 <h2>1. Kapitel.</h2>
 <h3>Der Brief aus Rügen.</h3>
 
@@ -134,7 +137,7 @@ sie »Blaue«) nachts einem Mann angehalten habe, weil
 ihm dessen großes Paket auffiel … Der Mann versetzte
 dem Schupo einen kunstgerechten Kinnhaken (so nennt man
 so wohl einen Boxhieb), warf das Paket weg und kniff aus.
-Der Schurke erholte sich, öffnete das Paket und fand darin
+Der Schupo erholte sich, öffnete das Paket und fand darin
 … — raten Sie, was, Herr Harst?! — Nun — eine riesige
 Schlüsselattrappe, nichts weiter. —
 
@@ -255,7 +258,7 @@ recht bekannt vorkommt … Erst als er vorüber ist, fällt
 mir ein: es war der Chikagoer! Freilich jetzt mit blondem
 Vollbart. Aber daß er’s war, ging schon daraus hervor,
 daß ich ihn nicht mehr erwischte. Ich hatte Kehrt gemacht,
-sah ihn im im Walde verschwinden … Er lief — — kniff
+sah ihn im Walde verschwinden … Er lief — — kniff
 aus … —
 
 <@pagebreak/>
@@ -273,7 +276,7 @@ Mädel nun zu mir nehmen und sie wieder zu Vernunft und
 Kräften bringen.
 
 <p class="centered">Ihr sehr ergebener</p>
-<p class="right">in Eugen v. Platen.</p>
+<p class="right">Eugen v. Platen.</p>
 
 <h2>2. Kapitel.</h2>
 <h3>Der zweite Tote.</h3>
@@ -733,13 +736,13 @@ Ich hatte das ganz bestimmte Gefühl, daß sie draußen
 gelauscht hatte …
 
 Und auch Freund Eugen traute dem Frieden offenbar
-nicht so ganz … Scheu blicke er Harald an, flüsterte:
+nicht so ganz … Scheu blickte er Harald an, flüsterte:
 
 »Verflucht — ich glaube, ich hätte … hätte meine
 Stimme etwas dämpfen können …!«
 
 »Allerdings, Platen …! Allerdings — ob auch das
-noch Zweck gehabt, hätte, ist fraglich …«
+noch Zweck gehabt hätte, ist fraglich …«
 
 »Das heißt?!«
 
@@ -879,7 +882,7 @@ Waldesblick …«
 
 Platen warf seinen Zigarrenrest in den Aschbecher …
 
-»Also Waldesblick …!! Natürliches Waldesblick!!« stieß
+»Also Waldesblick …!! Natürlich Waldesblick!!« stieß
 er hervor … »Natürlich!! Denn gerade das Haus ist
 von der Baumlaube aus am deutlichsten zu sehen!! Gerade
 das!!«
@@ -908,7 +911,7 @@ hier in der Nähe, wahrscheinlich auch noch mehr Mitglieder
 des Schlüsselbundes!!«
 
 <@pagebreak/>
-»Mein Gott …!!!!« entfuhr es dem Gutsbesitzer …
+»Mein Gott …!!« entfuhr es dem Gutsbesitzer …
 »Wera — — Wera mit dabei …!! Wera mit diesem Longfield
 …«
 
@@ -1050,7 +1053,7 @@ Weißes Licht blitzt auf … eine elektrische Taschenlampe
 …
 
 Harst hat unseren Sitzplatz klug berechnet … Wir
-haben durch Reste die Möglichkeit, bis dicht über das eine
+haben durch Äste die Möglichkeit, bis dicht über das eine
 Fenster zu gelangen …
 
 Im Pavillon zwei Gartenstühle, ein Tischchen …
@@ -1170,7 +1173,7 @@ uns dem Waldrande zu …
 
 Ein greller Schrei …
 
-— Zwei Schüsse — kurz hintereinander …
+Zwei Schüsse — kurz hintereinander …
 
 Harald jagt vorwärts …
 
@@ -1484,7 +1487,7 @@ Harald nickte … »Wahrscheinlich! — Nun — sie wird
 ja zurückkehren …!«
 
 »Ist das eine Kanaille …!! Verliebte Weiber, — —
-verrückt sind sie dann!! — Schrak, reichen Sie mir die
+verrückt sind sie dann!! — Schrack, reichen Sie mir die
 Kognakflasche … Mir zittern die Beine …!«
 
 Aber Harald winkte energisch …
@@ -1534,7 +1537,7 @@ Augen …
 muß in vielem ergänzt werden …«
 
 Eugen von Platen streckte die Hand aus. »Dann gib
-das Zeug nur her, Mädel … Ich werd’s in das Schränken
+das Zeug nur her, Mädel … Ich werd’s in das Schränkchen
 tun …«
 
 Sie zögerte … Nur ganz wenig …
