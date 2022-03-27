@@ -70,9 +70,8 @@ blockquote {
 	text-align: left;
 }
 
-ol {
-	margin: 2pt 0 2pt;
-	padding-left: 1.3em;
+li {
+	padding-left: 0.3em;
 	text-align: justify;
 }
 
@@ -99,6 +98,17 @@ ol {
 	font-size: large;
 	text-align: center;
 	line-height: 100%;
+}
+
+/* umrahmter Titel */
+.borderedTitle {
+	font-size: x-large;
+	font-weight: bold;
+	padding: 0.25em;
+	margin: auto;
+	width: fit-content;
+	border: groove black 2px;
+	text-align: center;
 }
 
 .copyright {
