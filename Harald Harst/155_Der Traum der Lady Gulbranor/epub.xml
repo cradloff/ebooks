@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">1a1d2834-7765-4d08-bcfa-113a703144b3</entry>
+<entry key="title">Der Traum der Lady Gulbranor</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">155</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Traum der Lady Gulbranor
+
+Der Hausmeister Sadik lächelte …
+
+»Tatsache, Mr. Harst …! Tatsache! Die Lady heißt in unserer Nachbarstadt Multan nur die verrückte Lady …!«
+
+»Die Lady ist die Witwe des früheren Gouverneurs von Multan, Mr. Harst,« erzählte der würdige Alte nun weiter, indem er sich die Zigarre anzündete, die Harald ihm gereicht hatte. »So lange ihr Gatte lebte, war sie ganz vernünftig … dann aber endete einer ihrer Anbeter, der Hauptmann Lenglen, auf schauerliche Weise durch Selbstmord und …«
+
+»Wie denn?« warf Harst ein …
+
+Sadik wurde sehr ernst …
+
+»Haben Sie davon nicht in den Zeitungen gelesen, Mr. Harst?! Lenglen hat sich selbst … enthauptet …«
+
+Wie Edward Lenglen starb …
+
+»Ah — gut, daß Du munter bist, mein Alter …« flüsterte er. »Lady Alix gibt mit dem Rechtsanwalt im Garten und verhandelt noch wegen des Hauskaufs, der nun durch Patricks Tod rechtlich auf Schwierigkeiten stößt. Ich habe diese Gelegenheit benutzt, in einer nicht gerade vornehmen Weise zu spionieren … In dem Salon unserer Gastgeberin interessierte mich der Schreibtisch … Man muß ja leider häufig manches tun, was einem innerlich widerstrebt … Die Lady hatte den Schlüssel des Mittelfaches stecken lassen. Ich öffnete es … Da war ein Kistchen mit Photographien und anderen scheinbaren Nichtigkeiten.  Scheinbaren!! — Denn — unter diesen Bildern fand ich eine Visitphotographie, bei deren Anblick mir’s wahrhaftig ganz heiß wurde …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (155) Der Traum der Lady Gulbranor.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1925</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
