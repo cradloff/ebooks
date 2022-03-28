@@ -1326,7 +1326,7 @@ die künstlichen Augen des Kolibri …!!
 Dann erschien im Eingang des Rathauses ein kräftiger,
 sonngebräunter Herr …
 
-Mehrere aus der Menge Riesen ihm zu:
+Mehrere aus der Menge riefen ihm zu:
 
 »Wie steht’s, Herr Gemeindevorsteher?«
 
@@ -1335,7 +1335,7 @@ Stimme:
 
 »Meine Herrschaften, Gott sei Dank: jede Gefahr ist
 vorüber, obwohl es sich um eine Zyankalivergiftung handelte
-… Doktor Friseur hat den Künstler gerettet!«
+… Doktor Schlemp hat den Künstler gerettet!«
 
 Einen Moment tiefe Stille …
 
@@ -1343,7 +1343,7 @@ Dann brausende Jubelrufe …
 
 Und — trotz dieses freudigen Lärms ringsum hörte ich,
 wie der Mann mit dem Lavendelduft auf englisch ein wütendes,
-zischendes »Verdammt!!!« ausstieß … Dazu stampfte
+zischendes »Verdammt!!« ausstieß … Dazu stampfte
 er mit dem Fuße so stark auf den Boden, daß der gelbe
 Zierkies mißtönend knirschte …
 
@@ -1352,14 +1352,15 @@ Dann zog er seine Begleiterin mit sich fort …
 Sie schritten eilig dahin, Arm in Arm …
 
 Auch die neugierige, teilnahmsvolle Menge zerstreute
+sich …
 
-Wir konnten inmitten der gleichfalls heimwärts Sterbenden
+Wir konnten inmitten der gleichfalls heimwärts strebenden
 Badegäste unbemerkt den beiden folgen, hatten uns
 aber doch zur Sicherheit getrennt …
 
-Das Paar betrat ein Pensionat in einer der hochgelege
+Das Paar betrat ein Pensionat in einer der hochgelegenen
 <@pagebreak/>
-nen engen Straßen — das Pensionat Schellenberg.
+engen Straßen — das Pensionat Schellenberg.
 
 Wir wußten vorläufig genug.
 
@@ -1372,14 +1373,14 @@ Mondschein. Er war uns kein Fremder. Vor zwei Jahren
 hatten wir hier in Saßnitz bereits einmal »gearbeitet« und
 ihn bei dieser Gelegenheit näher kennen gelernt.
 
-Als Harald seinen Damen nannte, war der Gemeindevorsteher
-aus angenehmste überrascht, drückte uns warm die
-Hand und meinte, wir kämen ihm wie geraten …
+Als Harald seinen Namen nannte, war der Gemeindevorsteher
+aufs angenehmste überrascht, drückte uns warm die
+Hand und meinte, wir kämen ihm wie gerufen …
 
 Harst weihte ihn ein. Seiner Verschwiegenheit waren
 wir sicher …
 
-So erfahren wir denn nun folgendes über die rätselhafte
+So erfuhren wir denn nun folgendes über die rätselhafte
 Vergiftung.
 
 Vanmeehlen hatte sich in der Pause vor dem letzten
@@ -1389,7 +1390,7 @@ gelernt, im Künstlerzimmer befunden, neben der Bühne.
 Als der Kellner mit der bereits entkorkten halben Flasche
 Sekt, die in einem Eiskühler stand, das Zimmer betrat, hatte
 einer der Herren den Sektkelch aus der Flasche gefüllt und
-das Glas dann dem Künstler mit ein paar scherzhaft-jHmeichelhaften
+das Glas dann dem Künstler mit ein paar scherzhaft-schmeichelhaften
 Worten überreicht …
 
 »Und wer war dieser Herr?« meinte Harald gespannt …
@@ -1399,76 +1400,77 @@ bekannte Berliner Rechtsanwalt Doktor Friedberg. — Vanmeehlen
 trank das Glas in kleinen Schlucken leer und begab
 sich dann sofort wieder auf die Bühne, wo er schon nach den
 ersten Geigenstrichen zu taumeln begann, noch schnell seine
-Violine weglegen konnte und dann umsank. Doktor Friseur
+Violine weglegen konnte und dann umsank. Doktor Schlemp
 erkannte die drohende Lebensgefahr, erreichte, daß Vanmeehlen
 sich mehrmals erbrach und …«
 
 »Danke. — Etwas anderes … das Zyankali muß
 doch von irgend jemandem in die bereits entkorkte Flasche
 <@pagebreak/>
-hineingetan worden sein … Haben Sie den Kellner betrat,
+hineingetan worden sein … Haben Sie den Kellner befragt,
 ob er etwa auf dem Wege von den Küchenräumen
 zum Künstlerzimmer …«
 
 »Alles ist festgestellt worden, Herr Harst,« unterbrach
 das Gemeindeoberhaupt von Saßnitz Freund Harald voller
 Eifer. »Der Kellner ist ein älterer Mann und schon das
-teuflischste Jahr im Kurhaus … Er beäacanete auf dem Wege
+sechste Jahr im Kurhaus … Er begegnete auf dem Wege
 zum Künstlerzimmer niemandem, — jedenfalls wurde er
 von niemandem angesprochen und aufgehalten. Da er selbst
 die Flasche entkorkt hat, kann nur eine Möglichkeit vorliegen:
 Dar Sekt war bereits vergiftet, als er noch im Keller lagerte,
-das heißt, das Gift muß schon in der Sektkelierei dem Wein
+das heißt, das Gift muß schon in der Sektkellerei dem Wein
 beigefügt worden sein …«
 
-»im — das halte ich für ausgeschlossen … Wer war
+»Hm — das halte ich für ausgeschlossen … Wer war
 im Künstlerzimmer außer Rechtsanwalt Friedberg und dem
-kennen noch anwesend?«
+Kellner noch anwesend?«
 
-»Das kann iz Ihnen ganz genau sagen, Herr Harst.
-
+»Das kann ich Ihnen ganz genau sagen, Herr Harst.
 Ich habe mir die Personen notiert … Treten wir dort unter
 die Straßenlaterne … — So, hier habe ich den Zettel …
 Also es waren zugegen:
 
-Vanmeehlen
-
+<p class="pre indent">Vanmeehlen
 Doktor Friedberg
-Kellner grunzte
-Regierungsrat Wertheim mach’ Frau
-Fräulein Güldenburg, die Pianistin, die Vanmeehlen
-begleitete
+Kellner Gornitzke
+Regierungsrat Wertheim und Frau
+Fräulein Güldenburg, die Pianistin, die Vanmeehlen begleitete
 Herr Lockreet und Frau
-Korvettenkapitän Busch
-Amtsrat Helling und Tochter.
-Nu diese Personen gehören zu Vanmeehlens nähern Bekannten.«
+Korvettenkapitän Büsel
+Amtsrat Helling und Tochter.</p>
+
+All diese Personen gehören zu Vanmeehlens näheren Bekannten.«
+
 »Und — all diese Personen haben Sie bereits vernehmen
 können?«
+
 »Nein … Amtsrat Helling und seine Tochter waren
 schon heimgefahren, und das Ehepaar Lockreet?«
+
 »Amerikaner?«
 
 <@pagebreak/>
 »Nein, Engländer, Herr Harst … Der Mann ist Marinemaler
 …«
-»«her längere Zeit hier in Saßnitz?«
 
-»Um … Seit Mai, glaube ich; … Sehr nette mm-gänalibve
-Leute, die — im Pensionat Eqhellenbra
+»Schon längere Zeit hier in Saßnitz?«
+
+»Ja … Seit Mai, glaube ich … Sehr nette umgängliche
+Leute, die — im Pensionat Schellenberg
 wohnen …«
 
-»Vielen Dank … — Sie werden also unbedingt der
-
-schweigen, daß wir in Binz weilen, Herr Gemeindevorsteher
+»Vielen Dank … — Sie werden also unbedingt verschweigen,
+daß wir in Binz weilen, Herr Gemeindevorsteher
 …«
 
 »Selbstredend … — Und — werden Sie sich dieser
-Sache insgeheim annehmen, Herr Harst«
+Sache insgeheim annehmen, Herr Harst?«
 
 »Gewiß … — Hat man Vanmeehlen auf seine Jacht
 geschafft?«
 
-»340 … Soeben … noch begleitete den Transports
+»Ja … Soeben … Ich begleitete den Transport
 noch …«
 
 »Gut, dann möchte ich Sie bitten, da Sie hier gleichzeitig
@@ -1476,12 +1478,12 @@ die Polizeigewalt haben, jedem das Betreten der Jacht
 zu verbieten, natürlich mit Ausnahme des Arztes. Am
 besten ist, Sie lassen die Jacht durch einen Beamten bewachen.
 Ich halte dies für dringend erforderlich, denn —
-im Vertrauen! — dieses Attentat aus den Künstler ist nicht
+im Vertrauen! — dieses Attentat auf den Künstler ist nicht
 das erste und wird kaum das letzte bleiben …«
 
 Das, was von Harald vorhin über den Zweck unseres
 Aufenthaltes in Binz dem Gemeindevorsteher mitgeteilt
-worden war, hatte sich ledigliHd auf die Gräfin Gertrud
+worden war, hatte sich lediglich auf die Gräfin Gertrud
 Lindstetten bezogen: Nachweis ihrer vollen Schuldlosigkeit!
 — So war denn des freundlichen Herrn Erstaunen über
 Haralds Bemerkung, es sei dies nicht das erste Attentat auf
@@ -1497,38 +1499,38 @@ mehr. Und wir hatten gut eine Stunde zu marschieren,
 selbst wenn wir am Strande entlang gingen.
 
 <@pagebreak/>
-Die schöne, sternenklare Julinacht offenbarte uns a!!
+Die schöne, sternenklare Julinacht offenbarte uns all
 ihre intimen Reize, als wir nun, nachdem wir den Hafen
 umschritten hatten, zum Strande abbogen.
 
 Wir sprachen über das Ehepaar Lockreet …
 
-»Sie sind die Täter — oder da) einer von ihnen,« behauptete
+»Sie sind die Täter — oder doch einer von ihnen,« behauptete
 Harald sehr bestimmt. »Für eine geschickte Hand
-ist es leicht, ein winziges Kristalistwückchen Zyankali in ein
-Glas sahen zu lassen. Nur so ist dies Attentat versucht worden
-— nur so … Morgen werden wir Vanmeehlen spreche.
-Morgen wird er uns die Handhabe geben, den Dinger
+ist es leicht, ein winziges Kristallstückchen Zyankali in ein
+Glas fallen zu lassen. Nur so ist dies Attentat versucht worden
+— nur so … Morgen werden wir Vanmeehlen sprechen.
+Morgen wird er uns die Handhabe geben, den Dingen
 näher ins Angesicht zu schauen …«
 
-Er rauchte seine Mirakulum voller Zerstreutheit. Amt
-
-wer wieder erlosch die Zigarette. Schließlich war’s er sie
+Er rauchte seine Mirakulum voller Zerstreutheit. Immer
+wieder erlosch die Zigarette. Schließlich warf er sie
 weg …
+
 Gegen halb drei, als die Nacht bereits zu schwinden begann,
-näherten wir uns in! Bogen den! Sanatorium, kletterten
+näherten wir uns im Bogen dem Sanatorium, kletterten
 über den Eisenzaun an der Rückseite des weiten Gartens
 und durchschritten die buschreichen Wege, bemerkten, daß
 im Erdgeschoß des großen Gebäudes mehrere Fenster erleuchtet
 waren und sahen Schatten von hastigen Menschen
 über die Vorhänge gleiten …
 
-Trotzdem gelangten wir unbemerkt in unsere Sinn:: …
+Trotzdem gelangten wir unbemerkt in unsere Zimmer …
 
 Hier erst sagte Harald leise: »Es muß etwas geschehen
-sein … — Ich werde so tun, als ob die Unruhe im Kam’s
+sein … — Ich werde so tun, als ob die Unruhe im Hause
 mich geweckt hätte. Leg’ Deine Maske ab, mein Alter, und
-werde wieder die Justizrätin Schämte … Doktor Rom
+werde wieder die Justizrätin Schömke … Doktor Korn
 wird mir Auskunft geben …«
 
 Er ging in sein Zimmer …
@@ -1540,37 +1542,35 @@ die ihn nun beschäftigten …
 »Frau Blaschke, die Wärterin der Gräfin, ist verschwunden,«
 sagte er leise. »Man hat aus ihrem Zimmer gellende
 Schreie gehört … dann war plötzlich wieder alles still.
-Korn ließ die Tür, die von innen verschlossen war, ausbrechen.
+Korn ließ die Tür, die von innen verschlossen war, aufbrechen.
 Die Blaschke war verschwunden … Das eine Fenster
 <@pagebreak/>
 stand weit offen … — Dies hat sich vor wenigen Minuten
-creimiucl …«
+ereignet …«
 
 Ich brachte kein Wort heraus. Ich war bestürzt über
 diese neue Verwicklung …
 
 Und lauschte den harten Schritten, die über uns erklangen
-… Denn dort! wohnte die Gräfin, und il;ir Zimmer
+… Denn dort wohnte die Gräfin, und ihr Zimmer
 und das der Pflegerin lagen genau über den unsrigen …
 
-Und Harst saß aus meinem Bettrand und ließ seine rege
+Und Harst saß auf meinem Bettrand und ließ seine rege
 Phantasie dies Neue mit den Vorfällen in Saßnitz zu einem
-sogleich) aneinandergefügten Ganzen zusjammenschmelzen …
+logisch aneinandergefügten Ganzen zusammenschmelzen …
 
-GchZ—
-
-Der goldene Kolibri.
+<h1>Der goldene Kolibri</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>Frau Waise Blaschkes Verschwinden.</h3>
+<h3>Frau Luise Blaschkes Verschwinden.</h3>
 
 Sein reger Geist hatte das Geschehene im Nu in seiner
 wahren Bedeutung erfaßt …
 
 Er sprach mit der ihm in solchen Augenblicken eigentümlichen
 monotonen Stimme … Eine Stimme, die dann
-so kraftlos. klang, als ob die angestrengte Gehirnarbeit alles
+so kraftlos klang, als ob die angestrengte Gehirnarbeit alles
 an Frische und Lebendigkeit für sich beanspruchte …
 
 »Nimm an, daß Vanmeehlen, obwohl die Gräfin ihn
@@ -1579,26 +1579,27 @@ mit der einst über alles Geliebten aufrecht erhalten
 hat … Nimm an, daß der Vertraute Vanmeehlens, mit
 dem wir schon in jener Nacht des ersten Attentats bei dem
 Vorwerk Granitz rechneten, irgendwie der Gräfin von dem
-Anschlag auf Vanmeehlens Leben Yiuchricht gegeben hat …
+Anschlag auf Vanmeehlens Leben Nachricht gegeben hat …
 Dann ist es nicht die Wärterin gewesen, die die gellenden
 <@pagebreak/>
 Schreie ausstieß, sondern die Gräfin … Und dann hat der
 Überbringer der Unglücksbotschaft die Blaschke, die ihn gesehen
 haben muß und von der er Verrat befürchtete, mit sich
-genommen — entweder freiwillig Takelage hoher Versprechungen
-oder gewaltsam. — Dies alles mag in den großen gingen,
+genommen — entweder freiwillig infolge hoher Versprechungen
+oder gewaltsam. — Dies alles mag in den großen Zügen,
 wie ich es Dir darstelle, widerspruchsvoll und zum Teil
 unmöglich erscheinen. Und doch ist es eine Erklärung, die
 sehr vieles für sich hat. Ich wüßte keine bessere. Von einem
 zufälligen Verschwinden der Blaschke gerade in dieser Nacht,
-von einem zufälligen Zusammentreffen des neuen Giftattentate
+von einem zufälligen Zusammentreffen des neuen Giftattentats
 mit diesen Schreien des Entsetzens kann keine Rede
 sein. — Korn wollte noch heimlich zu uns kommen. Er
 konnte mir, Deinem Diener, nur flüchtig Auskunft geben …«
 
 Eine halbe Stunde mußten wir warten. Dann erst
-»senkte es leise. Inzwischen hatte sich die Unruhe im Hause
+klopfte es leise. Inzwischen hatte sich die Unruhe im Hause
 gelegt …
+
 Der Sanitätsrat setzte sich zu mir ans Bett. Er sah
 sehr bekümmert aus.
 
@@ -1610,7 +1611,7 @@ Störung ihrer Nachtruhe mit ihren unerklärlichen Begleitumständen
 zu verallgemeinern, und ein Haus fluchtartig
 verlassen, in dem sich so seltsame Dinge abgespielt haben.
 — Lieber Herr Harst, ich habe deshalb auch eine große Bitte
-an Sie: Wollen Sie nicht Ihr Inkognito lüften? Jahr
+an Sie: Wollen Sie nicht Ihr Inkognito lüften? Ihr
 Name als der eines Gastes wird den anderen genügen,
 wieder das Gefühl voller Sicherheit zurückzugewinnen …«
 
@@ -1625,31 +1626,31 @@ Sie genau, daß Frau Blaschke die Schreie ausgestoßen hat?«
 <@pagebreak/>
 … Freilich, ob es die Blaschke bestimmt war, die …«
 
-»Danke. — Wie hat sich die Gräfin benommen« Sie
-waren doch) natürlich bei ihr im Zimmer?«
+»Danke. — Wie hat sich die Gräfin benommen? Sie
+waren doch natürlich bei ihr im Zimmer?«
 
 »Gewiß, gewiß … Sie lag zu Bett, hatte den Kopf
 in die Kissen gewühlt und weinte … Es war mehr ein
-Weinkrampf … Wir haben ihr ein starkes BVeruhugunas-mittel
-geben müssen … — Aber 1H vergesse ja über meinen
-eigenen Sorgen das Wichtigste … die Blaschke laut sich: mich
+Weinkrampf … Wir haben ihr ein starkes Beruhigungsmittel
+geben müssen … — Aber ich vergesse ja über meinen
+eigenen Sorgen das Wichtigste … die Blaschke hat für mich
 einen Zettel zurückgelassen …«
 
-»Ab — einen Zettel?!«
+»Ah — einen Zettel?!«
 
 »Bitte … hier ist er … Er lag auf ihrem Bett, auf
-dem Kapuziner. Wir haben. ihn zunächst übersehen, Herr
-Harst, was allerdings mertwiürdia ist … Ich verstehe
-nicht recht, daß mir der Zottel nicht sofort ausgefallen ist …
-Ich weiß, bestimmt, daß ich das Bett der Blaschke auf etwaige
+dem Kopfkissen. Wir haben ihn zunächst übersehen, Herr
+Harst, was allerdings merkwürdig ist … Ich verstehe
+nicht recht, daß mir der Zettel nicht sofort aufgefallen ist …
+Ich weiß bestimmt, daß ich das Bett der Blaschke auf etwaige
 Blutspuren prüfte …«
 
-Der mit Bleisjsnst geschriebene Zelt:cl lautete:
+Der mit Bleistift geschriebene Zettel lautete:
 
-»sehr geehrter Herr Sanitätsrat, ich halte es bei
-der Gräfin nicht länger aus. Ich werde Ihnen jvä:er
-mitteilen, wohin Sie mir meinen Koffer Nachsicht!um
-sollen. — Lupe Blaschke.«
+> »sehr geehrter Herr Sanitätsrat, ich halte es bei
+der Gräfin nicht länger aus. Ich werde Ihnen später
+mitteilen, wohin Sie mir meinen Koffer nachschicken
+sollen. — Luise Blaschke.«
 
 »Ist es die Handschrift der Blaschke, Herr Sanitätsrat?«
 
@@ -1671,33 +1672,30 @@ Weg muß die Blaschke genommen haben …«
 »Allerdings … — Was haben Sie den übrigen Gästen
 mitgeteilt?«
 
-».Kg habe erklärt, Frau Blaschke müsse plötzlich Nex-venzusälle
+»Ich habe erklärt, Frau Blaschke müsse plötzlich Nervenzufälle
 <@pagebreak/>
 bekommen haben …«
 
-»Und — wann fanden Sie diesen Teint?«
+»Und — wann fanden Sie diesen Zettel?«
 
 »erst vorhin — vielleicht vor zehn Minuten …«
 
-»Falle als die Wärterin bereit an! eine halbe Stunde
+»Also als die Wärterin bereit gut eine halbe Stunde
 verschwunden war?«
 
-»MW …«
+»Ja …«
 
 »Die Gräfin schläft jetzt?«
 
-»Sie schläft ganz fest … Ich habe eine der beiden Hauts-sHwestern
+»Sie schläft ganz fest … Ich habe eine der beiden Hausschwestern
 zu ihr beordert …«
 
-»Danke. Her! Sanitätsrat … TP bin mir im Bilde …
-Yr
-
-Ich möchte Ihnen zu Ihrer Veranlagung folgendes erzählen
-… Vanmeehlen ist in dieser Nacht in Sasn’t beinahe
-
+»Danke, Herr Sanitätsrat … Ich bin nun im Bilde …
+Ich möchte Ihnen zu Ihrer Beruhigung folgendes erzählen
+… Vanmeehlen ist in dieser Nacht in Saßnitz beinahe
 vergiftet worden …«
 
-Doktor Korn schüttelte den Kopf … Sein auch ck Gesicht
+Doktor Korn schüttelte den Kopf … Sein gutes Gesicht
 ward noch trüber … Er seufzte …
 
 »Hätte ich die Gräfin nie aufgenommen!!«
@@ -1707,9 +1705,9 @@ ward noch trüber … Er seufzte …
 der Gräfin — denn die rührten nicht von der Blaschke her
 — stehen miteinander in innigstem Zusammenhang …«
 
-Er entwickelte Doktor Korn nun seine Ansicht! etwa mit
+Er entwickelte Doktor Korn nun seine Ansicht etwa mit
 denselben Worten wie mir, nur, daß er alles als unumstößliche
-Tatsachen hinstellte und hinaushuschte:
+Tatsachen hinstellte und hinzufügte:
 
 »Dieser Zettel der Blaschke ist von dem vertrauten
 Vanmeehlens später auf das Bett gelegt worden … Und
@@ -1717,51 +1715,50 @@ dieser Vertraute wohnt hier im Sanatorium …«
 
 »Unmöglich!«
 
-»Bitte — nichts ist unmöglich, Herr Sanität&rat …
+»Bitte — nichts ist unmöglich, Herr Sanitätsrat …
 Dieser Vertraute muß hier wohnen, und die Blaschke befindet
 sich noch im Hause, behaupte ich …«
 
 Korn sagte ungläubig: »Herr Harst, ich bin nur Arzt …
 Und Sie sind ein berühmter Detektiv. Trotzdem: hier täuschen
 Sie sich! Wenn einer meiner Gäste mit der Gräfin
-irgendwie sich in Verbindung gesetzt hätte, würde ich …
+irgendwie sich in Verbindung gesetzt hätte, würde ich …«
 
-… Verzeihung, — daß diese Verbindung besteht, beweist
+»… Verzeihung, — daß diese Verbindung besteht, beweist
 ja der Brief der Gräfin, den sie im Vorwerk für Vanmeehlen
 <@pagebreak/>
 niederlegte … Der Vertraute ist erst nach jener
-Wacht hier in das Sanatorium gekommen, also etwa vor
-edle Tagen, denn — Unsinn er schon vorher hier gewohnt
-wollte, würde die Gräfin sich nicht die Mühe gemacht haben,
-Ei Schreiben in dem verfallenen Hause niederzulegen, —
+Nacht hier in das Sanatorium gekommen, also etwa vor
+drei Tagen, denn — wenn er schon vorher hier gewohnt
+hätte, würde die Gräfin sich nicht die Mühe gemacht haben,
+das Schreiben in dem verfallenen Hause niederzulegen. —
 Wer traf hier also bei Ihnen vor ein paar Tagen ein?«
 
-»Lediaqlich ein älterer Herr, ein Schriftsteller aus Berlin,
+»Lediglich ein älterer Herr, ein Schriftsteller aus Berlin,
 der ein schlimmer Hypochonder ist … Ihm fehlt nichts
-&Crmftlickes Trotzdtemt halt er sich für schwer krank. Im
+Ernstliches. Trotzdem hält er sich für schwer krank. Im
 übrigen ein harmloses Männlein …« Korn lächelte …
-»Der wWedatnke ist einfach widersinnig, ihm die Beteiligung
-an Heimlichkeiten zuzutrauen … Er heißt Wilhelm Park
-und ist ein Junggeselle mit den unglaublichster Schrullen,
-dabei aber ein feingebildeter Piano …«
+»Der Gedanke ist einfach widersinnig, ihm die Beteiligung
+an Heimlichkeiten zuzutrauen … Er heißt Wilhelm Pork
+und ist ein Junggeselle mit den unglaublichsten Schrullen,
+dabei aber ein feingebildeter Mann …«
 
-»War Herr Park infolge der Unruhe im Hause ausgestanden
-»’«
+»War Herr Pork infolge der Unruhe im Hause aufgestanden?«
 
-»30a … Aber er rief nur eins der Stubenmädchen
+»Ja … Aber er rief nur eins der Stubenmädchen
 durch die Türspalte an … Er hat das Zimmer über dem
 der Gräfin im zweiten Stock …«
 
 »Hm — und legte er vielleicht bei seiner Ankunft besonderes
-Gewicht darauf, dieses Zimmer zu beziehen«
+Gewicht darauf, dieses Zimmer zu beziehen?«
 
 Korn dachte nach … Sein Gesichtsausdruck veränderte
 sich …
 
-»an — freilich, freilich, Herr Harst … Und jetzt werde
+»Ja — freilich, freilich, Herr Harst … Und jetzt werde
 ich selbst ein wenig stutzig … — Es ist richtig … Er war
 sehr wählerisch, was sein Zimmer anbetraf … Er ließ
-sich alle stehen Zimmer zeigen und wählte dann Nr. 23 …
+sich alle freien Zimmer zeigen und wählte dann Nr. 23 …
 Es hat einen kleinen Balkon … Darauf kam es ihm an,
 betonte er …«
 
@@ -1769,8 +1766,8 @@ betonte er …«
 
 »Er ist Amateurphotograph … Und er knipst alles,
 was nur zu knipsen ist … Das wirkt bei seinem Alter
-etwas lächerlich … — Richtig, noch etwas: zu Nr. 23 ge
-hört eine Kammer, die im Bauplan als Treppenschacht, als
+etwas lächerlich … — Richtig, noch etwas: zu Nr. 23 gehört
+eine Kammer, die im Bauplan als Treppenschacht, als
 Notausgang vorgesehen war, dann aber eben in eine Kammer
 umgewandelt wurde. Diese benutzt er zum Entwickeln
 <@pagebreak/>
@@ -1778,10 +1775,10 @@ seiner Filme und Platten … Dort hat er auch seine Koffer
 stehen …«
 
 »So … so … — Nun, Herr Sanitätsrat: Dieser Herr
-Park ist unser Mann! Daraus gehe ich jede Wette ein —
+Pork ist unser Mann! Darauf gehe ich jede Wette ein —
 jede! — Lassen Sie ihn aber nichts merken … Ich werde
 ihn ein wenig beobachten. Entweder ist die Blaschke noch
-bei ihm oder er hat sie naß Saßnitz geschickt … Das wird
+bei ihm oder er hat sie nach Saßnitz geschickt … Das wird
 sich alles herausstellen. — Haben Sie der Polizei Meldung
 erstattet?«
 
@@ -1794,46 +1791,46 @@ Sie sich bitte weiter keine Sorgen. Ich verspreche Ihnen,
 daß in vierundzwanzig Stunden Ihre Gäste unsere wahren
 Namen erfahren werden, das heißt: der Fall Lindstetten
 wird dann restlos geklärt sein …«
-sich Korn drückte uns dankbar die Hände und verabschiedete
 
-ch—
+Korn drückte uns dankbar die Hände und verabschiedete
+sich …
 
-<h2>8. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 
 <h3>Das Sommerhäuschen.</h3>
 
 Harst riegelte die Tür hinter dem Sanitätsrat ab und
-setzte sich wieder zu mir aus den Bettrand …
+setzte sich wieder zu mir auf den Bettrand …
 
-»Vanmeehlen und wir ziehen am selben Strange,
-meinte er … »Vanmeehlen will den Mord an dem jenseits
-gelegt Lindstetten aufklären … Wilhelm Park dürfte sich
-als Kollege entpuppen … Und Park ist zweifellos in dieser
+»Vanmeehlen und wir ziehen am selben Strange,«
+meinte er … »Vanmeehlen will den Mord an dem Grafen
+Joseph Lindstetten aufklären … Wilhelm Pork dürfte sich
+als Kollege entpuppen … Und Pork ist zweifellos in dieser
 Nacht ebenfalls in Saßnitz gewesen, hat die Tragödie dort
 von ferne mit erlebt und der Gräfin die Trauerkunde Überbracht.
-Bei dem üÜberreizten Nervensystem der Gräfin hat
-diese Nachricht einen bösen Anfall aufgelöst, — wie ich Dir
+Bei dem überreizten Nervensystem der Gräfin hat
+diese Nachricht einen bösen Anfall ausgelöst, — wie ich Dir
 dies schon alles entwickelt habe, mein Alter … Wir werden
 <@pagebreak/>
-inne also mit Park in Verbindung setzen … Die Sache
-durfte dann unschwer erledigt werden … — Jetzt — gute
-wacht … Ich bin hundemüde …!«
+uns also mit Pork in Verbindung setzen … Die Sache
+dürfte dann unschwer erledigt werden … — Jetzt — gute
+Nacht … Ich bin hundemüde …!«
 
 Und er zog sich nebenan in sein Dienerzimmer zurück.
 
 Auch ich schlief sehr bald ein. Meine Gedanken, bevor
 ich in das wirre Reich der Träume hinüberglitt, galten dem
-Oberarzt Lockreet, dem Lavendelgeruch und dem Kellner.
+Ehepaar Lockreet, dem Lavendelgeruch und dem Kellner.
 
-Manches war noch auftzuflätien. Aber ich lebte in der
-leisesten schwang, daß wir tatsächlich in kurzem hier völlig
-reinen Tisch machen könnten. Tuch Lockreet?, das war meine
-Überzeugung, steckten mit dem Grafen Arthur Liundstetten
+Manches war noch aufzuklären. Aber ich lebte in der
+festen Hoffnung, daß wir tatsächlich in kurzem hier völlig
+reinen Tisch machen könnten. Die Lockreets, das war meine
+Überzeugung, steckten mit dem Grafen Arthur Lindstetten
 unter einer Decke, waren dessen Kreaturen. Also: Brudermord!
-— Und jetzt sollte es Vanmeetilen an den Kragen
-Auftraggeber, weil die seine Bande ihn fürchtete!! Das war’s!
+— Und jetzt sollte es Vanmeehlen an den Kragen
+gehen, weil die seine Bande ihn fürchtete!! Das war’s!
 
-schlief ein …
+Ich schlief ein …
 
 Und niemals sind wir dann in unseren Hoffnungen
 ärger enttäuscht worden, als an jenem köstlichen Julitage,
@@ -1859,29 +1856,33 @@ Wir hatten diesen Zwerg bisher nicht zu Gesicht bekommen
 Er ging vorüber, grüßte höflich und verschwand nach
 der Hinterpforte des Gartens zu …
 
-»Der Artist Herkules Laudien,« sagte mein Diener Gott—
+»Der Artist Herkules Laudien,« sagte mein Diener Gotthilf
+leise …
 
+»So?!«
+
+»Ja, ich habe vorhin das Fremdenbuch studiert. Frau
 <@pagebreak/>
 Justizrat … Laudien ist vorgestern hier eingetroffen —
-vorgestern, einen Tag nach Wilhelm Park …! Und Artist
+vorgestern, einen Tag nach Wilhelm Pork …! Und Artist
 aus Berlin …! Der Sanitätsrat sagte mir, Laudien sei
 übernervös, in der Hauptsache wohl seelische Depression …
-Yiervosität kann jeder heucheln … Laudien erscheint mir be
-ach Erneuert …« Er flüsterte nur noch … »Ich werde ihn
-j.:gen, mein Alter … Oder besser, ich schiebe auch Dich samt
+Nervosität kann jeder heucheln … Laudien erscheint mir 
+beachtenswert …« Er flüsterte nur noch … »Ich werde ihn
+folgen, mein Alter … Oder besser, ich schiebe auch Dich samt
 dem Armstuhl hinter ihm drein …«
 
-Lernt’s …
+Er tat’s …
 
-Wir erreichten die Hinterpforte des Garten ck. Von hier
-lief ein Feldweg in den Wald. Wir sahen bei Zwerg gerade
+Wir erreichten die Hinterpforte des Gartens. Von hier
+lief ein Feldweg in den Wald. Wir sahen den Zwerg gerade
 noch im Walde verschwinden.
 
 Mein Diener öffnete die Pforte …
 
 Wir fuhren weiter … Ich spannte meinen Sonnenschirm
 auf … Wenn wir irgendwo eine bestimmte Rolle
-spielen, dann lassen wir es an nichts sollen, um die Täuschung
+spielen, dann lassen wir es an nichts fehlen, um die Täuschung
 vollkommen zu machen. Meine Maske, meine Garderobe,
 ebenso die Haralds waren kaum für einen Fachmann
 als Requisiten zu durchschauen …
@@ -1905,7 +1906,7 @@ Plötzlich eine Lichtung — ein kleines Blockhaus, ein
 Gärtchen und rechts ein Durchblick nach der See …
 
 Der Weg lief an dem Sommerhaus vorüber … Und
-als mein Rollstuhl jetzt am Gartenzaun auf seltenen Boden
+als mein Rollstuhl jetzt am Gartenzaun auf festerem Boden
 dahinfuhr, als ich durch die Holzstäbe in das Gärtchen blickte,
 verschwand gerade der Zwerg von der offenen Veranda —
 auffällig hastig …
@@ -1924,7 +1925,7 @@ Kippte …
 Dieser Aufschrei war echt gewesen. Alles andere war
 Komödie, denn Harald raunte mir zu:
 
-»Schimpfe — werde zieh’«
+»Schimpfe — werde grob!«
 
 Da begriff ich …
 
@@ -1933,7 +1934,7 @@ Und wurde ungemütlich …
 So ungemütlich, wie eine alte halb gelähmte Dame es
 einem vertrauten Diener gegenüber werden kann …
 
-»Gotthilf, Sie sind ein Esel …! Wo haben Sie mir
+»Gotthilf, Sie sind ein Esel …! Wo haben Sie nur
 Ihre Augen gehabt?! — Stützen Sie den Rollstuhl gefälligst
 gegen den Zaun …! Soll ich vielleicht herausfallen!«
 
@@ -1964,11 +1965,11 @@ für kurze Zeit gestatten wollten, im Schatten Ihres Gartens
 auf einer Bank Platz zu nehmen … Der Rollstuhl hat ein
 Rad verloren, und …«
 
-»Sitte — sehr gern … Kommen Sie nur …«
+»Bitte — sehr gern … Kommen Sie nur …«
 
 <@pagebreak/>
 Mit meines Dieners Hilfe humpelte ich schwerfällig zur
-Gartenpforte … Dort größte mich dann noch4 die Blonde
+Gartenpforte … Dort stützte mich dann noch die Blonde
 auf der anderen Seite, und schließlich sank ich aufseufzend in
 einen Rohrsessel der offenen Veranda …
 
@@ -1978,7 +1979,7 @@ Rollstuhl davon …
 Ich war mit der Blonden allein. Sie hatte mir gegenüber
 Platz genommen. Sie war nicht mehr ganz jung. Das
 Haar war künstlich gebleicht und die Wangen geschminkt und
-ebenso geschickt üÜübergepudert …
+ebenso geschickt übergepudert …
 
 Sie begann eine harmlose Unterhaltung. Sie sprach
 ein wenig geziert, und ihr Deutsch hatte einen ganz leichten
@@ -2011,22 +2012,22 @@ ich drinnen im Zimmer etwas, das mich im Moment
 aus meiner ein wenig gleichgültigen Stimmung aufrüttelte.
 
 Dort sah ich einen Stuhl, und auf diesem Stuhl lag
-ein Strohhütchen … mit einem Kolibri als Ausputz …
+ein Strohhütchen … mit einem Kolibri als Aufputz …
 
 mein Blick glitt sofort weiter. Mein Herz klopfte schneller,
 <@pagebreak/>
 denn dieser Hut stellte die gefährliche Brücke von diesem
 unschuldigen freundlichen Blockhaus zu dem Ehepaare
-Schreck her …
+Lockreet her …
 
 Dann knarrte auch schon eine Tür, und die blonde junge
 Stimme erschien mit einem kleinen Teebrett, auf dem zwei
-Gläser standen — leer, mit Strohhalmen dann …
+Gläser standen — leer, mit Strohhalmen darin …
 
 Während sie die Gläser auf den Tisch setzte und mit
-liebenswürdigem. Lächeln meinte, im würde ein Glas
+liebenswürdigem Lächeln meinte, ich würde ein Glas
 Zitronenlimonade wohl kaum ausschlagen, hatte ich an ihr
-vorüber nochmals nach dem vergänglichen Hute geschickt …
+vorüber nochmals nach dem verfänglichen Hute geschielt …
 
 Und dies gerade zur rechten Zeit, denn — ich beobachtete
 nun in Sekunden etwas sehr Eigentümliches …
@@ -2047,7 +2048,7 @@ ich hinzu, um ja keinen Argwohn zu erregen …
 
 Und die Blonde verließ abermals die Veranda …
 
-Ich hatte zu ihr emporgeschaut. Eis gibt wenige Menschen,
+Ich hatte zu ihr emporgeschaut. Es gibt wenige Menschen,
 die ihre Gesichtszüge vollkommen in der Gewalt
 haben … Und dieses Mädchen, die es bisher für überflüssig
 erachtet, ihren Namen zu nennen, war in der Kunst
@@ -2067,47 +2068,48 @@ als Haken befestigt gewesen …
 
 <@pagebreak/>
 Dies und die Enttäuschung der Blonden mahnten mich
-zu größter Vorsicht. Ich beschloß, an dem Wasser mir zu
+zu größter Vorsicht. Ich beschloß, an dem Wasser nur zu
 nippen und es sehr genau auf seinen Geschmack zu prüfen.
-Sollte der erste Schirm mir verdächtig erscheinen, so konnte
+Sollte der erste Schluck mir verdächtig erscheinen, so konnte
 ich, mir die Lippen mit dem Taschentuch betupfend, die fragwürdige
 Flüssigkeit wieder aus dem Munde entfernen und
-un das Taschentuch fließen lassen.
+in das Taschentuch fließen lassen.
 
 Diesmal dauerte es weit länger, bis die Blonde zu mir
-zurückkehrte — wieder mit dem Teebrett. darauf eine kleine
-Wasserkaraffe und eine halbe Flasche Rotwein, bereits? entkorkt
+zurückkehrte — wieder mit dem Teebrett, darauf eine kleine
+Wasserkaraffe und eine halbe Flasche Rotwein, bereits entkorkt
 …
 
-Das Mädchen sah trotz der Puderschicht recht schritt aus
-
+Das Mädchen sah trotz der Puderschicht recht erhitzt aus
 … Ihr Atem ging schnell. Sie mußte ohne Frage eine
 Strecke gelaufen sein.
 
 Wenn man bereits eine Reihe von Jahren mit einem
-Harald Harst zusammenarbeitet, achtet man aus alles …
+Harald Harst zusammenarbeitet, achtet man auf alles …
 
-Ein einziger Blick nach den Halblackschuhen der Plan
-den genügte mir …
+Ein einziger Blick nach den Halblackschuhen der Blonden
+genügte mir …
 
 Vorhin waren diese Schuhe ohne jede Staubschicht gewesen
 … Jetzt zeigten sie eine leichte graue Trübung,
 außerdem hatte sich hinter dem Knopf des linken Schuhes
 (es waren Spangenschuhe) ein Grashalm festgeklemmt …
 
-»Darf iQ Ihnen wenigstens etwas Rotwein in das
+»Darf ich Ihnen wenigstens etwas Rotwein in das
 Wasser tun, gnädige Frau?« meinte sie nun und gab sich
 alle Mühe, ihre Lunge wieder zu beruhigen …
 
 Ich dankte … »Ich muß genau nach ärztlicher Vorschrift
 leben …!« Und ich seufzte, als ob ich den Verzicht
-aus den Rotwein sehr bedauerte …
+auf den Rotwein sehr bedauerte …
 
 Sie füllte mein Glas aus der Karaffe und reichte es
+mir …
 
 Ich begegnete ihrem Blick …
+
 In den graubraunen Augen lag ein höfliches Lächeln,
-—» aber um die Mundwinkel zuckten Hohn und brutale
+— aber um die Mundwinkel zuckten Hohn und brutale
 Überlegenheit …
 
 In dem Moment kam ich mir wie eine Maus in einem
@@ -2115,18 +2117,18 @@ Käfig mit Glaswänden vor … Ich ahnte, daß ich erkannt
 <@pagebreak/>
 war — daß wir erkannt waren … Und wußte auch, daß
 sich um diese Stunde der Mittagshitze niemand hier in den
-Wald und in die Nähe dieses einsamen Sommerhäu&8chens
-verirren würde, — daß ich allein aus mich angewiesen war
+Wald und in die Nähe dieses einsamen Sommerhäuschens
+verirren würde, — daß ich allein auf mich angewiesen war
 und daß … Harald mit dem beschädigten Rollstuhl niemals
 das Sanatorium erreichen würde …!
 
 Seltsam genug: so schwerwiegend diese meine Vermutungen
 waren, — ich blieb ruhig! — Wir hatten es uns
-von jeher zur Pflicht gemacht, bei unserer Beruf&sarbeit nie
-unbewaffnet auszutreten. In meinem seidenen, altmodischen
-Handbeutelchen, der mir auf dem Schoße lag, stete meine
+von jeher zur Pflicht gemacht, bei unserer Berufsarbeit nie
+unbewaffnet aufzutreten. In meinem seidenen, altmodischen
+Handbeutelchen, der mir auf dem Schoße lag, steckte meine
 Clementpistole neben Taschentuch, einem Fläschchen mit
-Kirchhofs und einem Spiegelchen …
+Riechsalz und einem Spiegelchen …
 
 Ich blieb ruhig …
 
@@ -2134,23 +2136,23 @@ Nahm das Glas mit der Linken entgegen …
 
 »Vielen Dank …« — und fuhr mit der Rechten in den
 Seidenbeutel, holte daß Taschentuch hervor, indem ich so
-die Öffnung des deutete lockerte …
+die Öffnung des Beutels lockerte …
 
-Und nahm einen kleinen Schluß …
+Und nahm einen kleinen Schluck …
 
 Und … verschluckte mich …
 
-lüftete … Hatte das Glas schnell auf den Tisch gesetzt,
+Hustete … Hatte das Glas schnell auf den Tisch gesetzt,
 hatte das, was ich im Munde gehabt, auf die Dielen der
 Veranda befördert und stand plötzlich mit der rasch entsicherten
 Clement aufrecht vor der jäh Zurückweichenden …
 
 Eine ungeheure Wut erfüllte mich …
 
-… Das Wasser schmeckte scharf nach Bittermandelöl, —
+Das Wasser schmeckte scharf nach Bittermandelöl, —
 also war Zyankali darin …
 
-Ich spie nahmst aus …
+Ich spie nochmals aus …
 
 Meine Pistole drohte …
 
@@ -2165,10 +2167,10 @@ verfallen …
 ich noch drohender …
 
 <@pagebreak/>
-Sie stand mit schlaff herabhängenden Arien da …
+Sie stand mit schlaff herabhängenden Armen da …
 
 Ihre Augen waren erfüllt von namenlosem Schreck. Ein
-irres Lächeln slog’um die vollen Lippen … Die unendliche
+irres Lächeln flog um die vollen Lippen … Die unendliche
 Hilflosigkeit, die ihr Gesicht und ihre Haltung ausdrückten,
 konnten meinen Grimm nicht beschwichtigen …
 
@@ -2184,8 +2186,6 @@ den Rücken kehren …
 Und da ereilte mich mein Geschick …
 
 Ich — war doch nicht schlau genug gewesen …
-
-FZ —
 
 <h2>3. Kapitel.</h2>
 <h3>Ein halber Erfolg.</h3>
@@ -2834,7 +2834,7 @@ Mittagstafel den staunenden Gästen offen mitgeteilt, daß die
 Justizrätin und ihr Diener in Wahrheit Harst und Schraut
 gewesen seien … Im Übrigen hatte er über die letzten Vorhalle
 nur das Notwendigste angegeben. Der Schriftsteller
-Wilhelm Park wurde nicht erwähnt, saß genau wie Herr
+Wilhelm Pork wurde nicht erwähnt, saß genau wie Herr
 Laudien mit an der Tafel und fand sich dann nachher unbemerkt
 auf unseren Zimmern ein, wo er uns nach zwangloser
 freundlicher Begrüßung Bericht erstattete. — Sein
