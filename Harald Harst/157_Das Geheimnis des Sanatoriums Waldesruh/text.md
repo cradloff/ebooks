@@ -2193,13 +2193,13 @@ Ich — war doch nicht schlau genug gewesen …
 … Die Kajüte eines Hochseekutters … Fischgestank …
 Bretterwände mit grauem Ölfarbenanstrich … Eine leicht
 hin und her pendelnde Petroleumlampe … Holzbänke …
-Ein schmieriger schmaler Tisch … Art einer Ecke ein eiserner
+Ein schmieriger schmaler Tisch … In einer Ecke ein eiserner
 Kochofen …
 
 Das war das neue Bild …
 
 Ein verschwommenes Bild, über das zuweilen ein Funkenregen
-hinweg stob …
+hinwegstob …
 
 Fünkchen, Sternchen, die keinen Anspruch auf Wirklichkeit
 hatten, die nur die Folgen der halben Ohnmachtsanwandlungen
@@ -2213,27 +2213,27 @@ das Pochen der Maschine und das Klatschen der Brecher,
 die über das Deck sprühten …
 
 <@pagebreak/>
-Neben mir auf der Bank Harald, genau wie ich so
-Sessel: Arme kreuzweis über der Brust, Oberleib und Beine
+Neben mir auf der Bank Harald, genau wie ich gefesselt:
+Arme kreuzweis über der Brust, Oberleib und Beine
 an die Bank, wo starke Nägel eingeschlagen waren …
 
 Ein neuer leichter Ohnmachtsanfall …
 
 Als er vorüber, fühlte ich mich etwas besser … Das
-Feuerwerk sprühte seltener aus…
+Feuerwerk sprühte seltener auf …
 
 Harald da — denn unser Mund war frei:
 
-»Ein böser Reinfall, mein Alter … Tisch hat der rasender-Kerl
-im Walde hinterrücks medergeichlauen …
+»Ein böser Reinfall, mein Alter … Mich hat der Lavendel-Kerl
+im Walde hinterrücks niedergeschlagen …
 
-»Wir ging’s ebenso … nur sah ich den Llnaceifer
+»Mir ging’s ebenso … nur sah ich den Angreifer
 nicht … Vielleicht war’s …«
 
-» … der Mr. Loch leicht ebenfalls,« unterbrach er mich …
+»… der Mr. Lockreet ebenfalls,« unterbrach er mich …
 
-Ob hatte etwas anderes jagen wollen, hatte den Zwerg
-erwähnen wollen … Stirn war ich gewarnt und richtete mich
+Ich hatte etwas anderes sagen wollen, hatte den Zwerg
+erwähnen wollen … Nun war ich gewarnt und richtete mich
 danach … —
 
 Wir waren allein …
@@ -2243,12 +2243,12 @@ durch Decken verhängt …
 
 Wir schwiegen eine Weile …
 
-Dann Palast wieder:
+Dann Harald wieder:
 
 »Wir sind sehr lange bewußtlos gewesen … Bei mir
 meldet sich der Hunger … Ich schätze, daß es Mitternacht
 ist, also zwölf Stunden nach unserer »Erledigung …«
-— «. Wer weiß, was man mit uns vorhat …«
+… Wer weiß, was man mit uns vorhat …«
 
 Mein Hirn klärte sich.
 
@@ -2272,28 +2272,28 @@ Südwester … Zwischen ihnen … der Kolibri-Hut …!
 Ich hatte ihn kaum erst richtig erkannt, als die schmale,
 niedere Tür der Kajüte aufflog und … der Strolch von damals
 <@pagebreak/>
-nachts eintrat … Der rasender-Stromer vom Vorwerk
-Tragik …: Mr. Lockreet …!’!
+nachts eintrat … Der Lavendel-Stromer vom Vorwerk
+Granitz …: Mr. Lockreet …!!
 
 Ein haarscharfer Blick flog über uns hinweg …
 
-Damm trat er an den einen Wandschrank, nahm eine
+Dann trat er an den einen Wandschrank, nahm eine
 Kognakflasche heraus und verschwand wieder …
 
-Oben aus Deck wurde es jetzt lebendig …
+Oben auf Deck wurde es jetzt lebendig …
 
-Man merkte, daß der Kutter den Kurs änderte
-die Leiten traten ihn fehlt von Backbord. Er rollte bei.::?-
-Muslim … dann ziemlich unbenutzte!t mußte er stilles Womit
-erreicht haben … Das Schwanken horte auf … Der Doktor
+Man merkte, daß der Kutter den Kurs änderte …
+Die Wellen trafen ihn jetzt von Backbord. Er rollte bedenklich
+… Dann ziemlich unvermittelt mußte er stilles Wasser
+erreicht haben … Das Schwanken hörte auf … Der Motor
 verstummte …
 
 Harald horchte angespannt …
 
 Und dann — mit einer ruckartigen Kopfbewegung:
 
-« du — wenn sie es aus Vanmeehlens Jacht abgesehen
-hätten! Wenn die Jacht etwa Saßnitz verlassen hätte …;
+»Du — wenn sie es auf Vanmeehlens Jacht abgesehen
+hätten! Wenn die Jacht etwa Saßnitz verlassen hätte …!
 Und …«
 
 Wieder flog die Tür auf …
@@ -2302,18 +2302,18 @@ Abermals Lockreet …
 
 Hinter ihm ein kleinerer Kerl in Schiffertracht mit
 fuchsigem Kinnbart und roter Säufernase, aber merkwürdig
-schlanken Körperbau …
+schlankem Körperbau …
 
 Ein Blick nach den Händen, — die waren schmal und
 klein …
 
-Ein Weib also …’!
+Ein Weib also …!!
 
 Die beiden banden mich schweigend los, nachdem sie
-mir einen Knebel in den Mund gezwängt hatten — mit unsanften
+mir einen Knebel in den Mund gezwängt hatten — mit unsanfter
 Nachhilfe eines Dolchmessers …
 
-Banden mich los, so daß mir nur noch die Arme übedp
+Banden mich los, so daß mir nur noch die Arme über
 der Brust geknebelt blieben … Führten mich nach oben …
 an Deck, banden mich hier in sitzender Stellung fest — an
 den Mast …
@@ -2342,9 +2342,9 @@ die Folter zu spannen …
 
 Nun saßen wir beide dicht nebeneinander auf den feuchten
 Deckplanken … Und um uns her das Schweigen der
-weiten Wasserfläche mit ihren seinen Dünen …
+weiten Wasserfläche mit ihren fernen Dünen …
 
-Dann holte hattest ein nach Teer stinkendes Stück
+Dann holte Lockreet ein nach Teer stinkendes Stück
 Segelleinen und hüllte uns darin so ein, daß nur gerade
 unsere Köpfe hervorschauten …
 
@@ -2355,15 +2355,15 @@ Dann wurden die Positionslaternen des Kutters angezündet
 …
 
 Der Motor arbeitete wieder … Lockreet brachte ein
-Grammophon an Wehr … Stellte es auf daß Dach der
+Grammophon an Deck … Stellte es auf das Dach der
 Kajüttreppe … Und plötzlich erscholl aus dem Trichter das
-schmalzige Lied aus dem Trompeter von tüchtigen …
+schmalzige Lied aus dem Trompeter von Säckingen …
 
-… es wär’ so schön gewesen, «
-doch ach — — es hätt’ nicht sollen sein!
+> … es wär’ so schön gewesen,<br/>
+doch ach — — es hatt’ nicht sollen sein!
 
-Und unter den Klängen dieses Hochadels schlich der
-Kutter näher der Südstrande zu …
+Und unter den Klängen dieses Gedudels schlich der
+Kutter näher dem Südstrande zu …
 
 Ein rotes, ein grünes Licht blitzten dort auf … Die
 Umrisse einer Jacht, die vor Anker lag, schälten sich aus der
@@ -2389,11 +2389,11 @@ würde ahnen, wie wir beseitigt worden waren …
 
 Ich fühlte, wie mir die Eiseskälte in die Adern kroch …
 
-Fühlte — voll anderes …
+Fühlte — noch anderes …
 
 Harald hatte mich leise mit dem Ellenbogen berührt …
 
-Ich wandte den Kopf … Der Mond schien ihm in
+Ich wandte den Kopf … Der Mond schien ihm ins
 Gesicht …
 
 Ein Blick traf mich …
@@ -2407,7 +2407,7 @@ Hoffnung — Hoffnung …! Trank des Lebens, Zauberelixier
 Meine Muskeln strafften sich …
 
 Jetzt verstummte das Grammophon, das lediglich die
-Larmlosigkeit des Fischkutters hatte beweisen sollen …
+Harmlosigkeit des Fischkutters hatte beweisen sollen …
 
 Jetzt war die Jacht nur noch fünfzig Meter entfernt …
 
@@ -2419,9 +2419,9 @@ Und ich — — spürte abermals Haralds Ellenbogendruck
 Hörte, daß er keuchte, daß er irgendwie all seine Kräfte
 zusammenraffte …
 
-Daß er — an »Unserer Befreiung arbeitete …
+Daß er — an unserer Befreiung arbeitete …
 
-Ein pfeifendes Stöhnen kam ihm aus dem »durch den
+Ein pfeifendes Stöhnen kam ihm aus dem durch den
 Knebel gefüllten Munde …
 
 Und — da packte mich wieder die Angst …
@@ -2429,7 +2429,7 @@ Und — da packte mich wieder die Angst …
 Wenn — wenn’s zu spät würde — wenn er die Handfesseln
 doch nicht rechtzeitig lösen konnte …!
 
-Stieren Blicke beobachte ich die Jacht …
+Stieren Blicks beobachte ich die Jacht …
 
 Da lehnt nur ein einzelner Mann an der Reling …
 die Wache!
@@ -2440,25 +2440,25 @@ Der Kutter läuft in dieser Entfernung an der Jacht
 vorüber …
 
 <@pagebreak/>
-Mein Blick fliegt nach vorn … Dort liegt jetzt Lockerer
+Mein Blick fliegt nach vorn … Dort liegt jetzt Lockreet
 hinter der Luke — eine Büchse in der Hand …
 
 Und plötzlich fährt drüben der Matrose in die Höhe,
-fällt wieder zurück, liegt schloß über der Reling, ohne daß
-… Zeitung von sinnen Schuß gehört hätte …
+fällt wieder zurück, liegt schlaff über der Reling, ohne daß
+ich etwas von einem Schuß gehört hätte …
 
-Villa — Zu« drückte …!!
+Also — Luftbüchse …!!
 
-Oh — diese Tau.:sitzen hier …!! Die verstehen:’3 …
-ha Pendelte der (Alter schon …
+Oh — diese Schurken hier …!! Die verstehen’s …
+Da wendete der Kutter schon …
 
-Ein Hotels?en krallt sich in die Reling …
+Ein Bootshaken krallt sich in die Reling …
 
-Langsam Karbid der Kutter sich auf Sprungwceiz …
+Langsam schiebt der Kutter sich auf Sprungweite …
 
-Und Lockreet und das verblendete Weib sind drüben …
+Und Lockreet und das verkleidete Weib sind drüben …
 
-Gleiten wie hätten zum Tickendes …
+Gleiten wie Schatten zum Achterdeck …
 
 Dort die Treppe hinab …
 
@@ -2475,14 +2475,17 @@ Seine Finger suchen die Knoten meiner Hanfstricke …
 Zerren, reißen …
 
 Frei — — frei …
-Die Leinwand fliegt zur Seite … Harst — — drei
-Säue — ein Hieb … Der Kerl am Steuer knickt um …
 
-Dann wir beide hinüber … Wasserglas …
+Die Leinwand fliegt zur Seite … Harst — — drei
+Sätze — ein Hieb … Der Kerl am Steuer knickt um …
+
+Dann wir beide hinüber … Waffenlos …
+
 Hinab die Achtertreppe …
 
 Ein sich Schmaler Gang … Mattes Licht … Drei Kabinentüren
-… Die eine dessen …
+… Die eine offen …
+
 Hinein …
 
 Wie die Panther …
@@ -2490,15 +2493,15 @@ Wie die Panther …
 Den beiden Schuften ins Genick, die soeben vor Vanmeehlens
 Bett sich zusammengeduckt haben …
 
-Schonung hielt!
+Schonung hier?!
 
 Nein — unsere Hände sind Eisenklammern …
 
-Ich habe das verkleidete Weh erwischt …
+Ich habe das verkleidete Weib erwischt …
 
 Wir knien auf den beiden …
 
-Der Lärm wert Mannschaften … Aus den Nebenkabinen
+Der Lärm weckt Mannschaften … Aus den Nebenkabinen
 stürzen noch zwei Herren in Schlafanzügen herbei …
 
 <@pagebreak/>
@@ -2507,40 +2510,39 @@ Im Nu sind die beiden gefesselt …
 Licht flammt auf …
 
 Vanmeehlen stiert uns an … Ich in meinem Weiberkostüm
-— ohne Verrückte …
+— ohne Perücke …
 
 Ich — Witzblattfigur …!!
 
 Witzblattfigur bei einer blutigen Tragödie …!! Denn
 oben an Deck liegt ein Toter … Und die Absichten des
 angeblichen Mr. Lockreet und des verkleideten Weibes werden
-zur Genüge durch daß plumpe große Messer gekennzeichnet,
+zur Genüge durch das plumpe große Messer gekennzeichnet,
 das Harald dem Verbrecher aus der Hand geschlagen
 hat … —
 
 Unsere Namen und ein paar kurze Erklärungen Haralds
-geben den drei Herren Ausschluß über das, was hier geschehen
+geben den drei Herren Aufschluß über das, was hier geschehen
 sollte …
 
 Vanmeehlen drückt uns dankbar die Hand. — die
-beiden anderen sind Doktor Friseur aus Saßnitz und der
-Kapitän der Jacht. Ein Künstler von Vanmeehlens ticich-tum
+beiden anderen sind Doktor Schlemp aus Saßnitz und der
+Kapitän der Jacht. Ein Künstler von Vanmeehlens Reichtum
 kann es sich schon leisten, den Arzt für einige Zeit seiner
 Praxis zu entziehen.
 
 Harald läßt die beiden Lockreets — denn die Frau ist
-tatsächlich die mit dem Bubikopf von der Soaßfiiupzer Strande
-Promenade — in eine Kammer eins«.11e…c:
+tatsächlich die mit dem Bubikopf von der Saßnitzer Strandpromenade
+— in eine Kammer einschließen.
 
-Als wir wieder oben an Deck Erscheinen ist der Fischkutter
-nirgends mehr zu sehen. Harsts herrlich, den er dem
+Als wir wieder oben an Deck erscheinen ist der Fischkutter
+nirgends mehr zu sehen. Harsts Boxhieb, den er dem
 Kerl am Steuer versetzte, war doch nicht nachhaltig genug.
-noch Mann hat sich mit dem Kutter aus dem Staube gemacht.
+Der Mann hat sich mit dem Kutter aus dem Staube gemacht.
 
 Der Kapitän der Jacht holt ein Fernglas … Das
 scharfe Glas genügt. Der Kutter flüchtet der offenen
-
-eezu …
+See zu …
 
 Im Nu sind die beiden Anker der Jacht hoch … Im
 Nu wird die Verfolgung aufgenommen … —
@@ -2553,9 +2555,9 @@ dem Kutter nachsetzt, wird in der kleinen Wohnkajüte das
 <@pagebreak/>
 Mörderpaar verhört. das heißt: es soll verhört werden!
 Weder der Mann noch das Weib antworten auf irgendeine
-träge … Die Durchsuchung ihrer Kleider fordert nichts
-von Belang zutage. — Wir bringen sie wieder in die Kam
-wer zurück. Einer der Matrosen hält vor der Tür Wache. —
+Frage … Die Durchsuchung ihrer Kleider fördert nichts
+von Belang zutage. — Wir bringen sie wieder in die Kammer
+zurück. Einer der Matrosen hält vor der Tür Wache. —
 
 Vanmeehlen ist entsetzt über die heimtückische Ruchlosigkeit
 der beiden Lockreets, die sich in Saßnitz so geschickt
@@ -2565,7 +2567,7 @@ gefahren sei, um der müßigen Neugier der Badegäste in
 Saßnitz zu entgehen und um sich von dem Giftattentat
 vollends zu erholen.
 
-drei dieser Besprechung wird weder die Gräfin Gertrud
+Bei dieser Besprechung wird weder die Gräfin Gertrud
 noch das erste Attentat erwähnt. Harald muß seine bestimmten
 Gründe dafür haben, diese Dinge zunächst nicht zu berühren.
 Ebensowenig wird das Sanatorium Waldesruh
@@ -2579,40 +2581,38 @@ daß der Kutter jetzt auf das Südufer zuhält …
 
 Wir eilen an Deck …
 
-Der Mann auf dem Kutter hat Kram noch achtzig Meter
+Der Mann auf dem Kutter hat kaum noch achtzig Meter
 Vorsprung. Trotzdem entschlüpft er uns im letzten Moment,
-gewatet an Land und verschwindet in den Dünen …
+watet an Land und verschwindet in den Dünen …
 
 Der Morgen graut … Wir hoffen den Kerl noch einkreisen
-zu können … Mut wir springen ins flache Wasser …
-Auf der Jacht bleiben nur zwei Leute zurückX … Wir verteilen
+zu können … Auch wir springen ins flache Wasser …
+Auf der Jacht bleiben nur zwei Leute zurück … Wir verteilen
 uns … Es wird immer heller. Die Fährte des
 Mannes ist im Sande deutlich zu erkennen … Wir beide
 folgen der Spur. Die anderen halten sich seitwärts … Aber
 drüben im Hochwald verlieren wir die Fährte, müssen nach
 einer Stunde umkehren, finden uns alle wieder zusammen
-… =ck enttäuscht, abgesetzt …
+… — enttäuscht, abgehetzt …
 
 <@pagebreak/>
-Und als die Dämonische vor uns liegt, als die ersten
+Und als die Dünenhöhe vor uns liegt, als die ersten
 Strahlen der Morgensonne die Bucht beleuchten, sind Kutter
-und Jacht wie weggelegt …
+und Jacht wie weggefegt …
 
-Wir — haben die Gegner unterschätzt … Harald sieht
+Wir — haben die Gegner unterschätzt … Harald sucht
 den Strand in weitem Umkreis nach Spuren ab. Im feuchten
 Uferstreifen nach Westen zu die klaren Stiefeleindrücke
-des herbei, den Harst niederschlug, — Ciundrüce von zierlichen
-Stiefeln … nach diese! Mann ein verkleidetes Weibp
-— wahrscheinlich die Blonde aus beim Sommerhäuschen …
+des Kerles, den Harst niederschlug, — Eindrücke von zierlichen
+Stiefeln … Auch dieser Mann ein verkleidetes Weib
+— wahrscheinlich die Blonde aus dem Sommerhäuschen …
 Sie ist in weitem Bogen zum Strande zurückgekehrt, muß
-unbemerkt an Dock der Jacht gelangt sein und die beiden
+unbemerkt an Deck der Jacht gelangt sein und die beiden
 Leute dort überwältigt haben …
 
 Die drei Verbrecher sind uns entwischt … — Zwei
 Stunden später bringt uns das Auto eines nahen Gutes
-un Eiltempo nach Saßnitz zurück …
-
-See acht
+im Eiltempo nach Saßnitz zurück …
 
 <h2>4. Kapitel.</h2>
 
@@ -2622,7 +2622,7 @@ Von Saßnitz aus spielt der Telegraph … Alle Küstenorte
 werden benachrichtigt … Nichts wird versäumt, um
 der Banditen wieder habhaft zu werden …
 
-Um zehn Uhr hier wir dann mit: Vanmeehlen abermals
+Um zehn Uhr sitzen wir dann mit Vanmeehlen abermals
 in einem Auto und fahren gen Binz. Weit vor dem
 Orte steigen wir aus, schicken den Mietwagen zurück und
 wandern zu Fuß auf stillen Waldwegen dahin …
@@ -2639,19 +2639,19 @@ so nahe gewesen. — Dann spricht er von seinem möblierten
 Zimmer bei Traudes Mutter, von seiner großen Liebe, die
 ja völlig aussichtslos gewesen …
 
-»oh war damals arm, unbekannt … Spielte abends
-in Hasses, um meinen Lebensunterhalt zu verdienen …-
-Dann stellte Traudes Mutter mich an, Wien zu verlassen …
-Traude böse sich Gelegenheit, einen reichen (Großgrundbesitzer
+»Ich war damals arm, unbekannt … Spielte abends
+in Kaffees, um meinen Lebensunterhalt zu verdienen …
+Dann flehte Traudes Mutter mich an, Wien zu verlassen …
+Traude böte sich Gelegenheit, einen reichen Großgrundbesitzer
 zu heiraten … — Frau von Salmburg hatte ja
 mit alledem, was sie mir vorhielt, nur zu recht … Ich müßte
 Traude freigeben … Ich mußte diese Jugendliebe der
-Vernunft und der anständigen Gesinnung opfern … sich
+Vernunft und der anständigen Gesinnung opfern … Ich
 verschwand aus Wien, ohne von Traude Abschied zu nehmen.
 Ich … habe sie nie vergessen können … nie … Vielleicht
-hat dieser Liebesschmerz meinen Ausstieg gefördert …
-Ironie des Schlaf war’s, daß ich in wenigen Jahren
-berühmt wurde. Ich maurischen war Traude längst Gräfin
+hat dieser Liebesschmerz meinen Aufstieg gefördert …
+Ironie des Schicksals war’s, daß ich in wenigen Jahren
+berühmt wurde. Inzwischen war Traude längst Gräfin
 Lindstetten geworden. Wir sahen uns nie wieder — bis
 vor kurzem, und auch da habe ich die Geliebte nur aus der
 Ferne beobachtet … — Im übrigen trifft Ihre Vermutung
@@ -2659,7 +2659,7 @@ zu, Herr Harst: Ich kam nach Saßnitz, um Traudes Schuldlosigkeit
 zu beweisen, gleichzeitig auch, um mich ihr wieder
 zu nähern …«
 
-»Der angebliche Schriftsteller Wilhelm Volk ist ein
+»Der angebliche Schriftsteller Wilhelm Pork ist ein
 Detektiv?«
 
 »Ja, der Hamburger Privatdetektiv Köppen, der mir
@@ -2680,7 +2680,7 @@ all der dunklen Punkte, die mit der Ermordung des Grafen
 zusammenhängen, geklärt, Herr Vanmeehlen … — Gestatten
 <@pagebreak/>
 Sie noch einige Fragen … War Köppen in der Nacht,
-als man Sie in Saßnitz vergiften wollte, ebensal1ch dort?
+als man Sie in Saßnitz vergiften wollte, ebenfalls dort?
 Hat er der Gräfin Gertrud die Nachricht von diesem Attentat
 überbracht?«
 
@@ -2689,13 +2689,13 @@ Hat er der Gräfin Gertrud die Nachricht von diesem Attentat
 »Und — das Verschwinden der Wärterin Frau
 Blaschke?«
 
-Vanmeehlen zögerte etwas … Meinte dann« »Sie
+Vanmeehlen zögerte etwas … Meinte dann: »Die
 Sache verhält sich so, Herr Harst … Es gibt von Köppens
 Zimmer eine geheime Verbindung nach dem Traudes …
-Köppen hat sie enthielt und für unsere Zwecke benutzt. Als
-er durch die Fußbodenöffnung mit Traude in jener doch
-erbrach, überraschte die Blaschke ihn … Er überrede’c sie
-schließlich, dem Sanitätsrat Korn gegenüber zu sein«.gen,
+Köppen hat sie entdeckt und für unsere Zwecke benutzt. Als
+er durch die Fußbodenöffnung mit Traude in jener Nacht
+sprach, überraschte die Blaschke ihn … Er überredete sie
+schließlich, dem Sanitätsrat Korn gegenüber zu schweigen,
 und die Wärterin ging dann auch darauf ein, das Sanatorium
 heimlich zu verlassen, damit sie nicht ausgefragt werden
 könnte … Ich habe sie durch eine anständige Summe
@@ -2703,42 +2703,42 @@ entschädigt … Sie ist bereits abgereist, nachdem sie in
 Köppens Dunkelkammer sich verborgen gehalten …«
 
 »Ich danke, Herr Vanmeehlen … All daß hatte ich
-nur schon selbst zusammengereimt … — Hegen Sie Verdacht
+mir schon selbst zusammengereimt … — Hegen Sie Verdacht
 gegen den Grafen Arthur Lindstetten, den Schwager
 der Gräfin Gertrud?«
 
 »Nein, nein, — es ist schon zweifelsfrei festgestellt, daß
 Graf Arthur unmöglich irgendwie an dem Verbrechen gegen
-seinen Bruder beteiligt oder gar der Anstifter ist. Falle Sie
+seinen Bruder beteiligt oder gar der Anstifter ist. Falls Sie
 diesen Gedanken irgendwie erwogen haben, geben Sie ihn
 nur völlig auf. Köppen hat durch seine Leute den Grafen
 und dessen Frau wochenlang aufs schärfste beobachten lassen.
 man steht hier tatsächlich vor einem Rätsel, Herr Harst …
-24er kann nur ein Interesse an des Grasen Joseph Tod gehabt
-haben?! Wer nur?! Und weshalb soll ich brieflich!
+Wer kann nur ein Interesse an des Grafen Joseph Tod gehabt
+haben?! Wer nur?! Und weshalb soll ich beseitigt
 werden?!«
 
 Er hatte plötzlich halt gemacht …
 
-bisher hatte er ganz ruhig getrieben. Nun bemächtigte
+bisher hatte er ganz ruhig gesprochen. Nun bemächtigte
 sich seiner eine starke Erregung …
 
 <@pagebreak/>
 Um uns her rauschte feierlich der deutsche Buchenwald.
 
-In unseren Seelen aber wehte wir Geisterspuk das?
+In unseren Seelen aber wehte wie Geisterspuk das
 große Geheimnis all dieser rücksichtslosen Verbrechen …
 
 »Herr Harst,« wiederholte der Künstler heiser und halb
-verzweifelt, »es muß sich da) eine Lösung finden lassen —
-— muß!’ Wedshalb mordete man den Grafen, weshalb will
-man mir das gleiche Schicksal bereiten? ’«
+verzweifelt, »es muß sich doch eine Lösung finden lassen —
+— muß! Weshalb mordete man den Grafen, weshalb will
+man mir das gleiche Schicksal bereiten?!«
 
-»Ihnen — nur Technik, weil man Sie fürchtet, weil
-die Dunstigen eben wissen, daß Sie keine Ausgaben scheuen,
+»Ihnen — nur deshalb, weil man Sie fürchtet, weil
+die Schuldigen eben wissen, daß Sie keine Ausgaben scheuen,
 daß Sie den Fall Lindstetten um jeden Preis aufklären
 wollen!! — Wir kennen die Täter jetzt — auch die, denen
-Graf Joseph zum erster fiel … Es sind die angeblichen
+Graf Joseph zum Opfer fiel … Es sind die angeblichen
 Lockreets und die blonde Frau … Und — es sind Ausländer
 …! Die drei sprechen das Deutsche mit ganz leichtem
 fremdem Akzent … — Gehen wir weiter, Herr Vanmeehlen
@@ -2754,7 +2754,7 @@ Bäume, umgeben von dem Gärtchen …
 
 Vor der Gartenpforte ein dicker Herr, der die Pforte
 gerade abschloß … — Wir sprachen ihn an. Es war der
-Besitzer des Höchstens. Vor fünf Wochen hatte er es an
+Besitzer des Häuschens. Vor fünf Wochen hatte er es an
 eine Amerikanerin vermietet, eine Miß Balamoor, Schriftstellerin
 … Gestern hatte sie ihm einen Brief geschickt, daß
 sie ausziehe, gleichzeitig auch die Schlüssel des Hauses. —
@@ -2768,43 +2768,43 @@ von Binz, der inzwischen schon auf die telephonische Benachrichtigung
 von Saßnitz aus den Fischer ermittelt hatte,
 <@pagebreak/>
 der den Lockreets den Kutter vermietet und als Sicherheit
-sich hatte fünftausend trank geben lassen. Auch der Fischer
-konnte nichts Näheres über die Leute nachjagen. Sie darunter
-ihm erklärt, sie wollten eine Vergnügungsfahrt nach blonden
+sich hatte fünftausend Mark geben lassen. Auch der Fischer
+konnte nichts Näheres über die Leute aussagen. Sie hatten
+ihm erklärt, sie wollten eine Vergnügungsfahrt nach Norden
 zu an der Küste entlang unternehmen. Es seien ein Herr
 und zwei Damen gewesen, die mit einem Motorsegler tadellos
 umzugehen wußten … —
 
-Wir wandten uns nun dem Sanatoruuium zu. Gegen
+Wir wandten uns nun dem Sanatorium zu. Gegen
 ein Uhr mittags saßen wir mit Doktor Korn in dessen
 Privatzimmer. — Ich muß noch bemerken, daß ich mir bereits
 in Saßnitz einen Herrenanzug besorgt hatte und daß
-auch Harald sich nahe Möglichkeit verändert hatte.
+auch Harald sich nach Möglichkeit verändert hatte.
 
 Harsts erste Frage galt dem Zwerge Laudien …
 
 »Der ist noch hier,« nickte der Sanitätsrat. »Warum
-auch nicht, Herr Harst?!!«
+auch nicht, Herr Harst?!«
 
 Harald war etwas geistesabwesend, murmelte vor sich
-hin
+hin:
 
-»Ab — er fühlt sich sicher …! Das ist viel wert …!
+»Ah — er fühlt sich sicher …! Das ist viel wert …!
 Er … ist der vierte der Bande …!«
 
 Korn schaute uns verwirrt an. Als er dann erfuhr,
-weshbhalb wir seit gestern mittag verschwunden gewesen und
+weshalb wir seit gestern mittag verschwunden gewesen und
 was wir inzwischen erlebt hatten, war er derart verblüfft,
 daß er zunächst kein Wort hervorbringen konnte …
 
-Harald bat ihn dann, Vanmeehlen und uns bei der Geck
+Harald bat ihn dann, Vanmeehlen und uns bei der 
 Gräfin anzumelden …
 
 Korn kehrte nach fünf Minuten zurück … »Die Gräfin
 weigert sich, die Herren zu empfangen … Sie läßt Herrn
 Vanmeehlen herzlich grüßen, aber auch ebenso herzlich bitten,
 sich nicht weiter um Sie zu bemühen. Sie will ihr Zimmer
-nicht eher wieder verlassen, als bis Herr sammelten
+nicht eher wieder verlassen, als bis Herr Vanmeehlen
 abgereist ist. — Ich kann daran nichts ändern, meine Herren,«
 fügte Korn achselzuckend hinzu. »Ich müßte sogar als
 Arzt darauf dringen, daß die Gräfin unbelästigt bleibt, denn
@@ -2812,22 +2812,21 @@ sie war jetzt schon außerordentlich erregt …«
 
 <@pagebreak/>
 Kaum hatte Korn den letzten Satz beendet, als das
-Telephon Auftrag …: Meldung aus Saßnitz, daß die
-Jacht und der Kutter unweit von Arkona treibend und verlor
+Telephon anschlug …: Meldung aus Saßnitz, daß die
+Jacht und der Kutter unweit von Arkona treibend und verlassen
 von einem Frachtdampfer geborgen seien! —
 
-Harald Schufte Vanmeehlen nach) Saßnitz zurück …
-»V- erlassen Sie Schraut und mir hier alles weitere …
-»«trifft Laudien wird uns weiterhelfen. Er ahnt nicht,
-da, Art ihn beargwöhnen. Ich habe um stillen darauf gebohrt
-— Wir geben Ihnen Nachricht, sobald etwa Wichtiges
-Papagei. her ck…
+Harald schickte Vanmeehlen nach Saßnitz zurück …
+»Überlassen Sie Schraut und mir hier alles weitere …
+Der Artist Laudien wird uns weiterhelfen. Er ahnt nicht,
+daß wir ihn beargwöhnen. Ich habe im stillen darauf gehofft.
+— Wir geben Ihnen Nachricht, sobald etwas Wichtiges
+geschehen …«
 
-Dach —
 
-53\. Kapitel.
+<h2>5. Kapitel.</h2>
 
-Verschollen und verkommen …
+<h3>Verschollen und verkommen …</h3>
 
 Doktor Korn hatte nun auf Haralds Wunsch an der
 Mittagstafel den staunenden Gästen offen mitgeteilt, daß die
