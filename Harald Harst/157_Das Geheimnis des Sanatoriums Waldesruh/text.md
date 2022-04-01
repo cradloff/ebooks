@@ -1,6 +1,6 @@
 <@pagebreak 1/>
 
-Harald Harst: Aus meinem Leben
+<div class="borderedTitle">Harald Harst: Aus meinem Leben</div>
 
 <h1>Das Geheimnis
 des Sanatoriums Waldesruh</h1>
@@ -328,7 +328,7 @@ stände …
 
 Wir beide saßen regungslos …
 
-bis das herrliche Spiel urplötzlich abbrach …
+Bis das herrliche Spiel urplötzlich abbrach …
 
 Mit einer schrillen Dissonanz schloß es …
 
@@ -635,7 +635,7 @@ Der Lump hatte unglaublich zerrissene Halbschuhe angehabt
 
 Auf die Strümpfe hatte ich nicht geachtet …
 
-sollte der Kerl wirklich seidene Socken getragen haben?!
+Sollte der Kerl wirklich seidene Socken getragen haben?!
 
 Merkwürdig …!!
 
@@ -892,7 +892,7 @@ Platen …«
 »Gern … — Der Besitzer und Chefarzt des Sanatoriums
 Waldesruh, Sanitätsrat Doktor Korn, ist ein Bekannter
 von mir … Im Winter spielen wir Skat. Von ihm
-nahe ich alles Nähere über die Gräfin erfahren. Sie ist eine
+habe ich alles Nähere über die Gräfin erfahren. Sie ist eine
 geborene von Salmburg aus Wien. Vor vier Jahren heiratete
 sie, gänzlich verarmt, den Grafen Joseph Lindstetten,
 der etwa zwanzig Jahre älter und dazu noch ein … Wrack
@@ -986,7 +986,7 @@ Drei Tage später stand in den meisten deutschen Zeitungen
 zu lesen, daß Harald Harst, der vor kurzem von Rügen
 nach Berlin zurückgekehrt frei, sich über Wien nach Rom begeben
 habe, um dort im Auftrage der italienischen Regierung
-den Mord an dem Angeordneten Sprotti aufklären
+den Mord an dem Abgeordneten Sprotti aufklären
 zu helfen.
 
 Von dieser Meldung stimmte nur gerade so viel, daß
@@ -1025,7 +1025,7 @@ herführt, meine Herren … Platen sprach mit mir vorgestern
 über Sie beide und war noch ganz ergrimmt über Ihre
 plötzliche Abreise …« —
 
-zehn Minuten später verließ er uns, nachdem wir alles
+Zehn Minuten später verließ er uns, nachdem wir alles
 Nötige mit ihm vereinbart hatten.
 
 Um zehn Uhr abends erschien Korn nochmals im Zimmer
@@ -1110,7 +1110,7 @@ Joseph Lindstettens brachte dem Bruder nur geringe
 Vorteile, eben größere Einkünfte …«
 
 <@pagebreak/>
-Das War eine sehr eigenartig gefaßte Antwort. Und
+Das war eine sehr eigenartig gefaßte Antwort. Und
 Doktor Korn fühlte dies auch heraus. Wieder musterte er
 Harald recht durchdringend …
 
@@ -1123,7 +1123,7 @@ Neigung gehabt?«
 
 »Bedauere … Darüber bin ich nicht unterrichtet.«
 
-»hat sie vielleicht einmal bei ihren Anfällen irgendwie
+»Hat sie vielleicht einmal bei ihren Anfällen irgendwie
 einen Kolibri erwähnt?«
 
 Korn stutzte …
@@ -1138,7 +1138,7 @@ denn etwas von dem Kolibri, Herr Harst?«
 
 Harald erzählte nun, wie der Strolch, der den Geiger
 hatte niederstoßen wollen, des ausgestopften Vögleins wegen
-nochmals zurückgekehrt war,
+nochmals zurückgekehrt war.
 
 Der Sanitätsrat, dem diese Einzelheiten bisher fremd
 gewesen, machte ein ganz merkwürdiges Gesicht …
@@ -1157,7 +1157,7 @@ im Hafen von Saßnitz, Herr Harst …«
 
 Das war uns neu …
 
-»mithin, Herr Harst: es war Vanmeehlen, der den
+»Mithin, Herr Harst: es war Vanmeehlen, der den
 Brief aus dem verfallenen Hause des Vorwerks abholte …
 Es muß Edgar Vanmeehlen gewesen sein, der es trotz der
 <@pagebreak/>
@@ -1205,7 +1205,7 @@ sahen …
 Niemand kümmerte sich um uns … Unbeachtet mischten
 wir uns unter die erregten Kurgäste, fingen zuerst nur einige
 <@pagebreak/>
-Bemerkungen auf, fragten dann einen Herrn, was geschehen
+Bemerkungen auf, fragten dann einen Herrn, was geschehen.
 
 »Professor Vanmeehlen ist während des letzten Stückes,
 das er spielte, auf dem Podium bewußtlos umgesunken …
@@ -1221,7 +1221,7 @@ entlang …
 
 Hier war es ganz einsam. Wir blieben stehen …
 
-»also das zweite Attentat auf den Professor,« meinte
+»Also das zweite Attentat auf den Professor,« meinte
 Harald mit Nachdruck. »Das zweite, — von dem wir wissen.
 … Vielleicht sind in der Zwischenzeit noch mehrere erfolgt
 — vielleicht … — Überlegen wir, wie wir uns sichere
@@ -1242,7 +1242,7 @@ Plötzlich spürte ich einen schwachen Lavendelduft …
 
 Auch Harst mußte das Parfüm bemerkt haben …
 
-seine Blicke folgten den beiden Gestalten …
+Seine Blicke folgten den beiden Gestalten …
 
 Seine Lippen formten unwillkürlich die Worte:
 
@@ -1269,7 +1269,7 @@ Strohhut …«
 
 »Allerdings …«
 
-»und — was für einen Putz hatte der Hut?«
+»Und — was für einen Putz hatte der Hut?«
 
 Ich preßte seinen Arm …
 
@@ -1395,7 +1395,7 @@ Worten überreicht …
 
 »Und wer war dieser Herr?« meinte Harald gespannt …
 
-»eine über jeden Verdacht erhabene Persönlichkeit, der
+»Eine über jeden Verdacht erhabene Persönlichkeit, der
 bekannte Berliner Rechtsanwalt Doktor Friedberg. — Vanmeehlen
 trank das Glas in kleinen Schlucken leer und begab
 sich dann sofort wieder auf die Bühne, wo er schon nach den
@@ -1647,7 +1647,7 @@ Blutspuren prüfte …«
 
 Der mit Bleistift geschriebene Zettel lautete:
 
-> »sehr geehrter Herr Sanitätsrat, ich halte es bei
+> »Sehr geehrter Herr Sanitätsrat, ich halte es bei
 der Gräfin nicht länger aus. Ich werde Ihnen später
 mitteilen, wohin Sie mir meinen Koffer nachschicken
 sollen. — Luise Blaschke.«
@@ -1678,7 +1678,7 @@ bekommen haben …«
 
 »Und — wann fanden Sie diesen Zettel?«
 
-»erst vorhin — vielleicht vor zehn Minuten …«
+»Erst vorhin — vielleicht vor zehn Minuten …«
 
 »Also als die Wärterin bereit gut eine halbe Stunde
 verschwunden war?«
@@ -1782,7 +1782,7 @@ bei ihm oder er hat sie nach Saßnitz geschickt … Das wird
 sich alles herausstellen. — Haben Sie der Polizei Meldung
 erstattet?«
 
-»bisher nicht …«
+»Bisher nicht …«
 
 »Dann ist es auch nicht nötig. Der Zettel der Blaschke
 schützt Sie, da Sie ja annehmen müssen, daß die Wärterin
@@ -1807,7 +1807,7 @@ meinte er … »Vanmeehlen will den Mord an dem Grafen
 Joseph Lindstetten aufklären … Wilhelm Pork dürfte sich
 als Kollege entpuppen … Und Pork ist zweifellos in dieser
 Nacht ebenfalls in Saßnitz gewesen, hat die Tragödie dort
-von ferne mit erlebt und der Gräfin die Trauerkunde Überbracht.
+von ferne mit erlebt und der Gräfin die Trauerkunde überbracht.
 Bei dem überreizten Nervensystem der Gräfin hat
 diese Nachricht einen bösen Anfall ausgelöst, — wie ich Dir
 dies schon alles entwickelt habe, mein Alter … Wir werden
@@ -1920,7 +1920,7 @@ Dann schrie ich auch schon vor Schreck schrill und ärgerlich
 auf. Mein unachtsamer Diener war mit dem linken
 Rad des Krankenstuhles so kräftig gegen einen großen Stein
 gefahren, daß das Rad abbrach und der Rollstuhl seitwärts
-Kippte …
+kippte …
 
 Dieser Aufschrei war echt gewesen. Alles andere war
 Komödie, denn Harald raunte mir zu:
@@ -2014,7 +2014,7 @@ aus meiner ein wenig gleichgültigen Stimmung aufrüttelte.
 Dort sah ich einen Stuhl, und auf diesem Stuhl lag
 ein Strohhütchen … mit einem Kolibri als Aufputz …
 
-mein Blick glitt sofort weiter. Mein Herz klopfte schneller,
+Mein Blick glitt sofort weiter. Mein Herz klopfte schneller,
 <@pagebreak/>
 denn dieser Hut stellte die gefährliche Brücke von diesem
 unschuldigen freundlichen Blockhaus zu dem Ehepaare
@@ -2225,7 +2225,7 @@ Feuerwerk sprühte seltener auf …
 Harald da — denn unser Mund war frei:
 
 »Ein böser Reinfall, mein Alter … Mich hat der Lavendel-Kerl
-im Walde hinterrücks niedergeschlagen …
+im Walde hinterrücks niedergeschlagen …«
 
 »Mir ging’s ebenso … nur sah ich den Angreifer
 nicht … Vielleicht war’s …«
@@ -2398,7 +2398,7 @@ Gesicht …
 
 Ein Blick traf mich …
 
-Ein strahlender Blick … Und ein Lächeln flog Windschnell
+Ein strahlender Blick … Und ein Lächeln flog windschnell
 um Haralds Mund … —
 
 Hoffnung — Hoffnung …! Trank des Lebens, Zauberelixier
@@ -2483,7 +2483,7 @@ Dann wir beide hinüber … Waffenlos …
 
 Hinab die Achtertreppe …
 
-Ein sich Schmaler Gang … Mattes Licht … Drei Kabinentüren
+Ein schmaler Gang … Mattes Licht … Drei Kabinentüren
 … Die eine offen …
 
 Hinein …
@@ -2525,7 +2525,7 @@ Unsere Namen und ein paar kurze Erklärungen Haralds
 geben den drei Herren Aufschluß über das, was hier geschehen
 sollte …
 
-Vanmeehlen drückt uns dankbar die Hand. — die
+Vanmeehlen drückt uns dankbar die Hand. — Die
 beiden anderen sind Doktor Schlemp aus Saßnitz und der
 Kapitän der Jacht. Ein Künstler von Vanmeehlens Reichtum
 kann es sich schon leisten, den Arzt für einige Zeit seiner
@@ -2553,7 +2553,7 @@ tot: Kopfschuß …!
 Während die Jacht mit voller Kraft ihrer Motoren
 dem Kutter nachsetzt, wird in der kleinen Wohnkajüte das
 <@pagebreak/>
-Mörderpaar verhört. das heißt: es soll verhört werden!
+Mörderpaar verhört. Das heißt: es soll verhört werden!
 Weder der Mann noch das Weib antworten auf irgendeine
 Frage … Die Durchsuchung ihrer Kleider fördert nichts
 von Belang zutage. — Wir bringen sie wieder in die Kammer
@@ -2616,7 +2616,7 @@ im Eiltempo nach Saßnitz zurück …
 
 <h2>4. Kapitel.</h2>
 
-<h3>der vierte im Bunde.</h3>
+<h3>Der vierte im Bunde.</h3>
 
 Von Saßnitz aus spielt der Telegraph … Alle Küstenorte
 werden benachrichtigt … Nichts wird versäumt, um
@@ -2713,14 +2713,14 @@ seinen Bruder beteiligt oder gar der Anstifter ist. Falls Sie
 diesen Gedanken irgendwie erwogen haben, geben Sie ihn
 nur völlig auf. Köppen hat durch seine Leute den Grafen
 und dessen Frau wochenlang aufs schärfste beobachten lassen.
-man steht hier tatsächlich vor einem Rätsel, Herr Harst …
+Man steht hier tatsächlich vor einem Rätsel, Herr Harst …
 Wer kann nur ein Interesse an des Grafen Joseph Tod gehabt
 haben?! Wer nur?! Und weshalb soll ich beseitigt
 werden?!«
 
 Er hatte plötzlich halt gemacht …
 
-bisher hatte er ganz ruhig gesprochen. Nun bemächtigte
+Bisher hatte er ganz ruhig gesprochen. Nun bemächtigte
 sich seiner eine starke Erregung …
 
 <@pagebreak/>
@@ -2865,11 +2865,11 @@ sichtbar. Nun, jetzt wissen wir ja, wo die drei anderen
 Kollrettos geblieben sind und was sie getrieben haben! Sie,
 Herr Harst, haben die drei aufgespürt …!«
 
-»aufgespürt — und verscheucht!« meinte Harald achselzuckend.
+»Aufgespürt — und verscheucht!« meinte Harald achselzuckend.
 »Wie nahm Laudien vorhin bei Tisch Doktor Korns
 Mitteilungen hin?«
 
-»Natürlich nicht anders wie die Übrigen Gäste des Sanatoriums
+»Natürlich nicht anders wie die übrigen Gäste des Sanatoriums
 — wenigstens für einen flüchtigen Beobachter …
 Mir freilich entging sein hämisches Grinsen nicht …«
 
@@ -2930,7 +2930,7 @@ Köppen, waren Sie schon mal mit Hilfe der Falltür oben
 bei Laudien?«
 
 Der Kollege nickte. »Heute vormittag wieder, als Laudien
-in den Wäldern umherwanderte — Und dies Wichtigste
+in den Wäldern umherwanderte … — Und dies Wichtigste
 habe ich mir bis zuletzt aufgespart, Herr Harst … Sie
 erwähnten den goldschillernden Kolibri, der verschiedentlich
 eine Rolle gespielt hat … — Herr Harst: diesen Kolibri
@@ -2943,7 +2943,7 @@ Harst war genau so verblüfft wie ich …
 
 »Ja … Dessen Schwere fiel mir dabei ebenfalls auf …«
 
-»und Sie untersuchten ihn nicht näher?«
+»Und Sie untersuchten ihn nicht näher?«
 
 »Nein …«
 
@@ -2977,7 +2977,7 @@ aber noch etwas: Jetzt weiß ich auch, weshalb Graf Joseph
 ermordet wurde! Jetzt werden wir Laudien eine Falle
 <@pagebreak/>
 stellen … Und er wird prompt hineintappen! — Hören Sie
-genau hin, Köppen …!« — Und er entwickelte seinen Plan
+genau hin, Köppen …!« — Und er entwickelte seinen Plan.
 
 Köppen und ich waren sprachlos …
 
@@ -3031,7 +3031,7 @@ Perlenschnur lag hinter ihr auf dem Tisch …
 Und — da geschah’s …
 
 Blitzschnell glitt von oben ein Seil herab … Blitzschnell
-folgte der Zwerg, ergriff die Kette, war im Nu Wieder
+folgte der Zwerg, ergriff die Kette, war im Nu wieder
 verschwunden und … lief oben in seinem Zimmer Korn
 und Vanmeehlen in die Arme …
 
