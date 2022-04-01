@@ -2831,47 +2831,47 @@ geschehen …«
 Doktor Korn hatte nun auf Haralds Wunsch an der
 Mittagstafel den staunenden Gästen offen mitgeteilt, daß die
 Justizrätin und ihr Diener in Wahrheit Harst und Schraut
-gewesen seien … Im Übrigen hatte er über die letzten Vorhalle
+gewesen seien … Im übrigen hatte er über die letzten Vorfälle
 nur das Notwendigste angegeben. Der Schriftsteller
 Wilhelm Pork wurde nicht erwähnt, saß genau wie Herr
 Laudien mit an der Tafel und fand sich dann nachher unbemerkt
 auf unseren Zimmern ein, wo er uns nach zwangloser
 freundlicher Begrüßung Bericht erstattete. — Sein
-Name war uns nicht mehr fremd. Er genoß weit über Handlange
+Name war uns nicht mehr fremd. Er genoß weit über Hamburgs
 Grenzen hinaus den Ruf eines gewissenhaften, ehrlichen
 <@pagebreak/>
-und Erprobten Detektivs. Seine Maske hier als bejahrter
+und begabten Detektivs. Seine Maske hier als bejahrter
 Schriftsteller war tadellos …
 
-»Nein, meine Herren, man trat gegen mich keinerlei
+»Nein, meine Herren, man hegt gegen mich keinerlei
 Verdacht,« erklärte er. »Die Gegenpartei ist ahnungslos.
 Ich bin so vorsichtig gewesen, Namen und Stand eines
 Mannes zu wählen, den es tatsächlich gibt … — Ich bin
 ja schon einmal hier in Binz gewesen, in meiner Maske …
 Damals, und das sind vierzehn Tage her, konnte ich nichts
-ermitteln. Jetzt hier im Sanatorium als Wilhelm Nord
+ermitteln. Jetzt hier im Sanatorium als Wilhelm Pork
 habe ich mehr Glück gehabt. Zugegeben, daß ich weder Miß
-Balamoor rote die Lockreets beargwöhnt habe. IJImmer-hin:
+Balamoor noch die Lockreets beargwöhnt habe. Immerhin:
 der Zwerg Georg Laudien, der Artist, erfreute sich sofort
 meiner genauesten Beachtung, da der kleine Mann, wie
 eine telephonische Frage in Berlin ergab, in einem recht
-fragwürdigen Nase steht. Er reiste zuletzt mit einer Parterreakrobatentruppe,
-mit ihm vier Personen, bei der er den
+fragwürdigen Rufe steht. Er reiste zuletzt mit einer
+Parterreakrobatentruppe, mit ihm vier Personen, bei der er den
 Clown spielte. Diese Kollretto-Truppe — Kollretto, meine
 Herren — — Lockreets!! — also diese Truppe hatte bis
-zum ersten Februar ein Engagement in der Berliner Stalle
-Dann … verschwanden sie … Nur Laudien blieb gleich
-langsam sichtbar. Nun, jetzt wissen wir ja, wo die drei anderen
-Mal!restlos geblieben sind und was sie getrieben haben! Sie,
-Herr Harst, haben die drei aufgespürt «!!«
+zum ersten Februar ein Engagement in der Berliner Skala.
+Dann … verschwanden sie … Nur Laudien blieb gleichsam
+sichtbar. Nun, jetzt wissen wir ja, wo die drei anderen
+Kollrettos geblieben sind und was sie getrieben haben! Sie,
+Herr Harst, haben die drei aufgespürt …!«
 
-»aufgespürt — und verscheucht!« ’meinte Harald achselzuckend.
+»aufgespürt — und verscheucht!« meinte Harald achselzuckend.
 »Wie nahm Laudien vorhin bei Tisch Doktor Korns
-Mitteilungen hin?k«
+Mitteilungen hin?«
 
 »Natürlich nicht anders wie die Übrigen Gäste des Sanatoriums
 — wenigstens für einen flüchtigen Beobachter …
-Wir freilich entging sein hämisches Grinsen nicht …«
+Mir freilich entging sein hämisches Grinsen nicht …«
 
 »Und — — die Gräfin, Herr Köppen?«
 
@@ -2879,32 +2879,30 @@ Wir freilich entging sein hämisches Grinsen nicht …«
 wenigen Worten schildern … Sie liebt Vanmeehlen. Weil
 aber auf ihr noch immer der schwere, ungeklärte Verdacht
 der Blutschuld lastet und weil ihr Haar vor Kummer und
-Aufregungen gebleicht. flieht sie Vanmeehlen. Es spielen
+Aufregungen gebleicht, flieht sie Vanmeehlen. Es spielen
 <@pagebreak/>
-also bei ihr verschiedene seelishGe Momente mit, darunter
-auch weibliche Citelkfreit, die ja eine Frau niemals ganz
+also bei ihr verschiedene seelische Momente mit, darunter
+auch weibliche Eitelkeit, die ja eine Frau niemals ganz
 verliert …«
 
-»las alles betonte sich schon in dem Schreiben an dann
-
+»Das alles betonte sie schon in dem Schreiben an 
 Vanmeehlen … nun aber die Hauptsache: Die Lockreets-Kollrettos
 sind des Grafen Joseph Mörder, sind Vanmeehlens
-Verfolger Aber »schoß Motiv all dieser Vers
-
-brechen?! Herr Köppen, über das Motiv wissen wir noch
+Verfolger … Aber — das Motiv all dieser Verbrechen?!
+Herr Köppen, über das Motiv wissen wir noch
 gar nichts!«
 
-»Leider nein.!«
+»Leider nein …!«
 
 »Und doch müssen wir nun zu einem Ende kommen!
-Der Knoten muß durchschauen werden!« Harald sprach
+Der Knoten muß durchgehauen werden!« Harald sprach
 sehr energisch. »Wo wohnt Laudien hier im Sanatorium?
 Welches Zimmer hat er inne?«
 
 »Das über dem meinen im zweiten Stock, Herr Harst …«
 
 »Ah über dem Ihrigen!! Und Ihr Zimmer hat Verbindung
-mit dem der Gräfin … Wir Wissen es bereits —
+mit dem der Gräfin … Wir wissen es bereits —
 eine Falltür in den Dielen …«
 
 »Ganz recht: eine Falltür, die absichtlich eingebaut worden
@@ -2919,12 +2917,12 @@ Falltür enthält?«
 
 Köppen nickte … »Nicht nur die Möglichkeit, sondern
 — es ist Tatsache, Herr Harst, genau wie auch hier bei
-Ihnen eine solche Tür in der getäfelten Decke bestimmt verstanden
+Ihnen eine solche Tür in der getäfelten Decke bestimmt vorhanden
 sein wird.«
 
-Er erhob sich und musterte die See … Zeigte dann
-auf den geschnitzten Mittelbalken … »Bitte, wenn Sie getan
-hinsehen, dann erkennen Sie die Umrisse …!!«
+Er erhob sich und musterte die Decke … Zeigte dann
+auf den geschnitzten Mittelbalken … »Bitte, wenn Sie genau
+hinsehen, dann erkennen Sie die Umrisse …!«
 
 Harald trat neben ihn … »Ja, es ist richtig … —
 <@pagebreak/>
@@ -2932,25 +2930,27 @@ Köppen, waren Sie schon mal mit Hilfe der Falltür oben
 bei Laudien?«
 
 Der Kollege nickte. »Heute vormittag wieder, als Laudien
-in den Wäldern umherwanderte —« Und dies Wichtigste
-habe ich mir bis zuletzt ausgespart, Herr Harst … Sie
+in den Wäldern umherwanderte — Und dies Wichtigste
+habe ich mir bis zuletzt aufgespart, Herr Harst … Sie
 erwähnten den goldschillernden Kolibri, der verschiedentlich
-eine Rolle gespielt hat.« — Herr Harst: diesen Kolibri
+eine Rolle gespielt hat … — Herr Harst: diesen Kolibri
 fand ich heute oben in Laudiens verschlossenem Koffer, den
 ich mit einem Nachschlüssel geöffnet habe!«
 
 Harst war genau so verblüfft wie ich …
 
 »Hatten Sie den ausgestopften Kolibri in der Hand?«
+
 »Ja … Dessen Schwere fiel mir dabei ebenfalls auf …«
+
 »und Sie untersuchten ihn nicht näher?«
 
-Nein …«
+»Nein …«
 
 »Schade …! — Was treibt Laudien nach Tisch?«
 
 »Er liegt auch heute draußen im Garten in der Hängematte
-… Sie können ihn von hier aus sehen
+… Sie können ihn von hier aus sehen …«
 
 Das stimmte …
 
@@ -2964,7 +2964,7 @@ ein anderer … Er strahlte geradezu …
 
 »Endlich!!« sagte er tief aufatmend … »Nun habe ich
 die Gräfin gesprochen … Nun habe ich auch den Kolibri …
-ausgeklappt! Denn der Leib ist eine Attrappe aus Blech,
+aufgeklappt! Denn der Leib ist eine Attrappe aus Blech,
 eine kleine ovale Dose — mit Inhalt!!«
 
 »Und der Inhalt?!« rief der Kollege Köppen begierig.
@@ -2976,53 +2976,55 @@ diese Verbrecher am liebsten … Sie mußten es sorgsam verbergen
 aber noch etwas: Jetzt weiß ich auch, weshalb Graf Joseph
 ermordet wurde! Jetzt werden wir Laudien eine Falle
 <@pagebreak/>
-Ellen … Und er wird prompt hineintappen! — Hören Sie
-genau bin, Köppen …!« — Und er entwickelte seinen Plan
-Köppen und ich waren sprachlos …
-Denn Versanken auch für uns die letzten Schleier …
-großer wurden noch Sanitätsrat Korn und Dann … —
+stellen … Und er wird prompt hineintappen! — Hören Sie
+genau hin, Köppen …!« — Und er entwickelte seinen Plan
 
-en in quer Herrlichkeit ins Vertrauen Schoner … nur
-der alledem brach der Abend an … ohne warme, bete
-Sommernacht senkte Sir über Meer und Land … Dir
+Köppen und ich waren sprachlos …
+
+Denn nun sanken auch für uns die letzten Schleier …
+
+Nachher wurden noch Sanitätsrat Korn und Vanmeehlen
+in aller Heimlichkeit ins Vertrauen gezogen … Und
+über alledem brach der Abend an … Eine warme, helle
+Sommernacht senkte sich über Meer und Land … Die
 Abendstunden verrannen … Es wurde Mitternacht …
 
 Und um diese mitternächtliche Stunde ereignete sich folgendes
 …
 
-Wir beide lagen seit zehn Uhr unter Köppens Brett
+Wir beide lagen seit zehn Uhr unter Köppens Brett …
 
 Genau um Mitternacht half Wilhelm Köppen, wie verabredet,
 der Gräfin durch die Falltür in sein Zimmer nach
-Alkoven … eine Bäuchleins genügte dazu
+oben … Eine Wäscheleine genügte dazu …
 
 Und genau wie Harald vorausgeahnt, hatte die Unterredung
-zwischen Köppen und der Statur einen vorsichtigen
+zwischen Köppen und der Gräfin einen vorsichtigen
 Lauscher: den Oberwohner, den Zwerg, der von »seiner«
 Falltür längst Kenntnis hatte … Diese Falltür hatte sich
-nur ganz wenig, ganz lautlos geöffnet, nacqdem die Gräfin
-absichtlich ein paar Worte sehr erregt und sehr schrill hervorgestoßen
-hatte …
+nur ganz wenig, ganz lautlos geöffnet, nachdem die Gräfin
+absichtlich ein paar Worte sehr erregt und sehr schrill
+hervorgestoßen hatte …
 
 Alles verhielt programmäßig …
 
 Die Gräfin sagte zu Köppen …
 
 »Sie sind Vanmeehlens Beauftragter … Ihnen darf
-sich vertrauen. Mein Gatte Joseph Lindstetten schenkte mir
+ich vertrauen. Mein Gatte Joseph Lindstetten schenkte mir
 am Hochzeitstage eine Perlenkette, ein altes Familienstück …
 Ich habe sie bisher sorgsam versteckt gehalten, um sie nicht
 etwa in Besitz des Bruders meines Mannes gelangen zu
 lassen … Sie ist bei mir nicht mehr sicher genug. Ich trug
-sie bisher unter meiner Haarkrone verborgen … Hie ist die
+sie bisher unter meiner Haarkrone verborgen … Hier ist die
 Kette … — Am besten wäre es, Sie würden auch noch
 meine anderen Schmucksachen an sich nehmen … Vielleicht
-holen Sie sie nach oben, Herr Köppen … Bitte liegen 11 der
+holen Sie sie nach oben, Herr Köppen … Bitte liegen in der
 Kassette auf meinem Schreibtisch …«
 
 <@pagebreak/>
-Köppen kletterte bereitwilligst und programmäßig dich
-die Falltür uns Zimmer der Gräfin hinab. Die Gram
+Köppen kletterte bereitwilligst und programmäßig durch
+die Falltür ins Zimmer der Gräfin hinab. Die Gräfin
 kniete neben der Falltür und blickte ihm nach. Die kostbare
 Perlenschnur lag hinter ihr auf dem Tisch …
 
@@ -3031,17 +3033,17 @@ Und — da geschah’s …
 Blitzschnell glitt von oben ein Seil herab … Blitzschnell
 folgte der Zwerg, ergriff die Kette, war im Nu Wieder
 verschwunden und … lief oben in seinem Zimmer Korn
-und Van:rechten in die Arme …
+und Vanmeehlen in die Arme …
 
 Und oben in seinem Zimmer dann die vorletzte Szene
-des glotzten Dramas …
+des großen Dramas …
 
 Harald holte den Kolibri aus dem Koffer …
 
 »Laudien, hier ist das Gift Ihrer Mitschuldigen! Retten
-Sie Toten Kopf!! Wo hält sich Hans von Salmburg,
+Sie Ihren Kopf!! Wo hält sich Hans von Salmburg,
 der verkommene Bruder der Gräfin Gertrud, mit seiner Frau
-und seiner Schwägerin verborgen«
+und seiner Schwägerin verborgen?«
 
 Laudien gab alles verloren …
 
@@ -3050,16 +3052,16 @@ den Kellern des Vorwerks Granitz verhaftet.
 
 Hans von Salmburg legte dann mit zynischer Frechheit
 ein volles Geständnis ab. Er hatte Joseph Lindstetten
-ermordet, damit seine Schwester ihren Gatten besitze Dann
-hatte er auch seine Schwester vorn;stieß wollen, da er ja ir
-einziger Erbe war. Seine Berechtigt:neun stimmten arm/t
-ganz. Gräfin Gertrud erbte nicht echt, sondern ging so ziemlich
-leer aus. Nun hatte der seit zehn Jahren verschollen!
+ermordet, damit seine Schwester ihren Gatten beerbe. Dann
+hatte er auch seine Schwester vergiften wollen, da er ja ihr
+einziger Erbe war. Seine Berechnungen stimmten nicht
+ganz. Gräfin Gertrud erbte *nicht*, sondern ging so ziemlich
+leer aus. Nun hatte der seit zehn Jahren verschollene
 Hans von Salmburg es nur noch auf die Perlenkette abgesehen
 … Und auch diese Hoffnung war eine Niete. —
 
 Daß Salmburg sich erhängte, war damals in allen Zeitungen
-zu lesen. Ebenso, daß seine drei Verbündeten »ät
+zu lesen. Ebenso, daß seine drei Verbündeten für
 lange Zeit ins Zuchthaus wanderten …
 
 Frau Traude Vanmeehlen aber hat nun ihr echtes,
@@ -3072,11 +3074,11 @@ Der goldschillernde Kolibri liegt in unserer Raritätensammlung
 neben anderen seltsamen Dingen … Zuweilen
 nehme ich ihn in die Hand und lasse die Sonne auf sein
 blankes Gefieder strahlen. So auch jetzt, wo ich die Schlußzeilen
-dieses Abenteuers schreibe … —« Hiermit sage ich dem
+dieses Abenteuers schreibe … — Hiermit sage ich dem
 Leser Lebewohl …
 
-Nächster Band!
+Nächster Band:
 
-Die Insel der Verstorbenen.
+__Die Insel der Verstorbenen.__
 
-Druck: P. Lehmann G.&nbsp;in.&nbsp;b.&nbsp;H. Berlin
+Druck: P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin
