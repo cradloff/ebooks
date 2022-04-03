@@ -1,2895 +1,2595 @@
 <@pagebreak/>
 <@pagebreak/>
 Der Detektiv
-ſtriminalerzählungen |
+Kriminalerzählungen
 
-Peter Becker.
+retten Becker.
 
 Band 159:
 
-Miß Melis
-ſeltſames Abenteuer,
+Miß Wells
+seltsames Abenteuer,
 
- 
+Verlag moderner Gehilfe G.&nbsp;in.&nbsp;b.&nbsp;H.
+-. 8 Berlin 26, Elisabeth Ufer 44
 
-0SWL240 E20 S0 CHS GUS 0 SRS EE SS 0 00 0 SS
-
-Derlag moderner Cektire G. m. b. H.
--. 8 Berlin 26, Eliſabeth =Ufer 44 H
 <@pagebreak/>
-DSDSSESESISDSSS 4 DS00SVI0GSS0EBES0S
+»reden wie er kann,« dachte ich bei mir und ließ einen
+zweiten Seufzer los.
 
-„Xcder wie er kann,“ dachte ih bei mix und licß einen
-zweiten Seuſzer los.
+Harald Harst hielt sein Roß an und blickte auf mich
+nieder. Größer wie ich ist er natürlich auch!
 
-Harald Harſt hielt ſein Roß an und blickie auf mich
-nieber. Größer wie ich iſt er natürlich auchl
+»Was seufzt zu denn so zum Sieinerweiczen, Max
+Schraut,« fragte er mich.
 
-„Was ſeuſzt Tu denn ſo zum Sieinerweiczen, Max
-Schraut,“ ſragte er mich.
+»Nr ist heiß,« stöhnte ich.
+»Natürlich, dafür sind wir ja ’auh in Indien,« läutete
+die geruchlose Antwort.
 
-„Ur iſt heiß," ſtöhnie ich. :
-„Natürlich, dajüc ſind wir ja 'auh in Indien,“ Tautete
-die gejühlloje Antwort.
+»Und hungrig bin ich auch,« fügte ich kleinlaut hinzu,
+denn mein gesegneter Appetit, der sich Zimmer besonders bke-itierfbar
+machte, wenn wir keine »Fälle« zu erledigen und
+seine Abenteuer zu bestehen hatten, war oft der Zielpunkt
+»Ton Harsts Anstreichen gewesen.
 
-„Und hungrig bin ich auch,“ fügte ich kleinlaut hinzu,
-denn mein geſegneter Appetit, der ſich iinmer beſonders bke-
-itierfbar machte, wenn wir keine „Fälic“ zu erledigen und
-feine Abenteuer zu beſtehen hatien, war oft der Zielpunkt
-„Ion Harſts Spötiercien gewejen.
+So lachte er denn auch jetzt hell aus.
 
-So lachte ex denn auch jetzt hell auſ.
+»Dachrand, Du futterst für drei, wenn Du keine Arbeit
+hast,« rief er aus, »und kannst Kasten, wenn Du angestrengt
+tätig bist. Bei andern Leuten ist’s umgekehrt. Aber es ist
+Wirklich kein Wunder, daß Du jetzt Appetit verspürst. Wir
+sind um fünf Uhr vom Post-Bungalow fortgeritten und
+selbst bei mäßigem Tempo machen fünf Stunden im Sattel
+hungrig. Gedulde Dich nur. Dort ist die Flußkrümmung,
+wir werden gleich- wieder beim Post-Bungalow sein und
+da ich dem Khansama gesagt habe, daß wir um zehn Uhr
+zurück sein würden, so wird er ein aus8glebiges Frühstück
+für uns fertig haben. Also noch ein bißchen Geduld, alter
+Freund!
 
-„Sq<hraut, Du futterſt ſür drei, wenn Du keine Arbeit
-haſt,“ rief er aus, „und kannſt ſaſten, weun Du angeſirengt
-tätig biſt. Bei andern Leuien iſt's umgekehrt. Aber es iſt
-Wirklich kein Wunder, daß Du jetzt Appetit verſpürſt. Wir
-ſind um fünf Uhr vom Poſt-Bungalow ſortgeritien und
-ſelbſt bei mäßigem Tempo machen ſünf Stunden im Sattel
-hungrig. Gedulde Dich nur. Dort iſt die Flußkrümmung,
-.wir werden gleich- wieder beim Poſt-Bungalow ſein und
-da ich dem Khanſama geſagt habe, daß wir um zehn Uhr
-zurück ſcin würden, ſo wird er ein aus8glebiges Frühſtück
-ſür uns ſertig haben. Alſo noh ein bißchen Geduld, alter
-Freund! '
-
-„Bleibt mir ja nicht3 weiter übrig,“ knurrte ich etwas
-mißmutig unter der doppelten Plage von ungeſtilltem
+»Bleibt mir ja nichts weiter übrig,« knurrte ich etwas
+mißmutig unter der doppelten Plage von ungetrübten
 Appetit und Hitze,
 
-Nun will ich dem geſchäbten Leſer gleich die Begriſſfe
-„Pofſt-Bungalow“ und „Khayſama“ erklären.
+Nun will ich dem geschälten Leser gleich die Begriffe
+»Post-Bungalow« und »Khansama« erklären.
 
-An allen indiſchen Poſt: ſtraßen, vie ſich, unabhärigig von
-den jeweiligen Eiſenbahnverbindungen, quer durch das
-große indiſche Reich erſtrekei;, hat die indiſche Regierung
-dogenannte Poſt-Bungaiows errichiet, die in beſtimmten
+An allen indischen Post: Straßen, die sich, unabhängig von
+den jeweiligen Eisenbahnverbindungen, quer durch das
+große indische Reich erstrebst;, hat die indische Regierung
+Sogenannte Post-Bungalows errichtet, die in bestimmten
 <@pagebreak/>
-HF SESDSOSDSESDSSISS ZZ 220800020 S0EBSE20DSIO-
+Zeitetappen aufeinander folgen. Sie stehen gegen mäßiger?
+Entgelt den Reisenden zur Verfügung, die zum Wogen, Auto
+und zu Pferd die Bosistraßen bereisen und stellen gewissermaßen
+Rasthäuser, einfache Hotels, dar. Sie enthalten stets
+mehrere einfach eingerichtete Zimmer mit dem dazugeh9ri-gen,
+in Indien unentbehrlichen Badekabinett und sind von
+der unvermeidlichen Veranda umgeben, die sich rings un
+den Garten Bungalow zieht. Meist haben die Bungalows
+einen mehr oder minder üppigen Garten, in Speichern die
+Wirtschaftsgebäude liegen, in denen der Khansama machst.
 
-Zeitetappen aufeinander ſolgen. Sie ſtehen gegen mäzigoc2
-Entgelt den Reiſenden zur Verſügung, vie zuu Wogen, LUuto
-und zu Pſerd die Boſiſtraßen bereiſen und ſiellen gewiſſer-
-maßen Raſthäuſer, einjache Hotel3, dar. Sie enthalten ſict3
-mehrere einſach eingerichtete Zimmer mit vem dazugeh9ri-
-gen, in Indien unentbehrlichen Badekabineti und ſind von
-der unvermeidlichen Veranda umgeben, die ſich ring3 un
-den gaizen Bungalow ziebt. Meiſt haben vie Bungalotvs
-einen mehr oder minder üppigen Garten, in ivelcheim die
-Wirrſchaft8geväude liegen, in denen der Khanſama wodhiit.
+Der Khansama ist der von der indischen Regierung bestellte
+und bezahlte Verwalter der Post-Bungalows, stets
+ein Eingeborener. Er hält mit einer kleinen Schatz von
+Untergebenen den« Bungalow in Ordnung, sorgt für die
+einfache Küche, gibt NReiscauskünfte, verzapft den Klatsch
+der Gegend, Licht Gemüse im Garten und hält Hühner,
+Ziegen und sonstiges Kleinvieh. du
 
-Der Khanſama iſi der von der indiſchen Regierung be-
-ſtellte und bezahlte Verwalier der Poji-Bungalows, jiets
-ein Eingeborener. Er bäält mit einer kleinen Schat von
-Untergebenen den“ Bungalow in Ordnung, ſorgt jür die
-einfache Küche, gibt NReiſcauskünfte, verzapjt den Klatſch
-der Gegend, zicht Gemüſe im Garten und hält Hühner,
-Ziegen und ſonſtiges Kleinvieh. DU
+Die Post-Bungalows haben gewisse roh(l’3tünziliche
+Namen, je nach der Gegend, in der sie liegen. Unser Bungalow
+hieß der Dargilciww-Bungalow, nach der Fluß, der
+in seiner Nähe vorletztes und der jetzt zu unserer Rechten
+rauschte.
 
-Die Poſt-Bungalows8 haben gewiſſe v<(l'3tünziliche
-Namen, je nach der Gegend, in der jie liegen. Unſer Bun-
-galow hieß der Dargilciww-Bungalow, nach dci Zluß, der
-in ſeiner Nähe vorbeiſloß und der jezt zu unjerer Nechten
-rauſchte. 7
+Wer Indien kennen lernen will, Land und Leute studieren,
+der muß auf den Landstraßen zu Wagen oder Pferd
+reisen, oder auch im Ochsenkarren. Er muß in den Post-Bungalows
+wohnen und er wird bald besser über die
+Eigentümlichkeiten des Landes informiert sein, als auf
+einer Eisenbahnstrecke, die im D-Zugtempo Tausende von
+Kilometern durchbraust.
 
-Wer Indien kennen lernen will, Land und Leute ſiu-
-dieren, der muß auf den Landitraßen zu Wagen oder Pſerd
-reiſen, oder auch im Ocbſenkarren. Er muß in den Paoſt-
-Bungalows8 wohnen und er wird bald beſſer über die
-Eigentümlichkeiten dez Landes inſormiert ſein, als -auj
-einer Eiſenbahnſire>e, die im D-Zugtempo Tauſende von
-Kilometern dur>brauſt.
-
-Seit einiger Zeit reiſten Harſjt und ich ſo auf ten
-Landſtraßen durch Indien, einer Laune Harſt3 ſolgend, dex
-&ndjen > ſtudieren wollte. Er ſand volle Beſriedigung in
-dieſer Art des Neiſens und ich auß, Zuerſt hatte ich wenig
-Geſchmacl an alierlei kleinen Unbequentlichkeiten gefanden,
-denen man auf dicſer Ziſeart ausgeſjſett iſt. Aber icht
-fand ic unſere Toar coma«ntiſc) und wundervoll. Wir
+Seit einiger Zeit reisten Harsts und ich so auf ten
+Landstraßen durch Indien, einer Laune Harsts folgend, der
+&ndjen ck studieren wollte. Er fand volle Befriedigung in
+dieser Art des Felsens und ich aus, Zuerst hatte ich wenig
+Geschmack an allerlei kleinen Unbequemlichkeiten gefunden,
+denen man auf dieser eigenes aufgefischt ist. Aber ich!
+fand ich unsere war romantisch) und wundervoll. Wir
 <@pagebreak/>
-DSSSS0SDSSSSDSS 6 D0D020202000200020202
+reisten auf diese Weise westlich, einer Einladung eines indischen
+Fürsten entgegen, der von Harsts Anwesenheit in
+Indien gehört hatte, seine Fähigkeiten schätzte und ihm seinen
+Palast für einen Ferienaufenthalt zur Verfügung gestellt
+hatte. Er wollte Harst zu Ehren dann große Festlichkeiten
+geben, Elefantenkämpfe sollten stattfinden, Tanz viele
+und Tigerjagden, kurz, das pompöje Leben eines indischen
+Fürstenhofes sollte uns zuteil werden.
 
-reiſien auf dieſe Weiſe weſilich, einer Einladung eines in»
-diſcen Fürſten entgegen, der von Harſt8 Anweſenheit in
-Indien gehört hatte, ſeine Fähigkeiten ſchäßzie und ihm ſei-
-nen Palaſt ſür einen Ferienauſenthalt zur Berſügung ge-
-ſtellt hatte. Er wollte Harſt zu Ehren dann große Feſilich-
-keiten geben, Cleſantenkfämpfe ſollten ſtaitſinden, Tanz piele
-und Tigerjagden, kurz, das pompöje Leben eines indiſchen
-Fürſtenhofes ſollte uns zuteil werden.
+Harst hatte die Einladung angenommen, schien aber —
+keine Eile zu haben an sein Ziel zu gelangen. -Darum
+reisten wir gemächlich von Post-Bungalow zu Post-Bungalow,
+sahen uns in Ruhe Land und Leute an und wollten
+zur Zeit Nachrichten an den Radscha von Malewe senden,
+wann wir bei ihm eintreffen würden.
 
-Harſt haite die Einladung angenommen, ſchien aber -
-keine Eile zu haben an ſein Ziel zu gelangen. -Darum
-reiſten wir gemächlich von Poſt-Bungalow zu Poſt-Bunga-
-low, ſahen uns in Ruhe Land und Leute an und wollten
-zur Zeit Nachrichten an den Radſcha von Malewe ſenden,
-wann wir bei ihm eintreſſen würden. |
+»Weiß Gott, wann das sein wird,« dachte ich manchmal
+bei mir, »wir Zeichen wie die Schurken auf der Landstraße
+dahin und, so hübsch es auch ist, ein bißchen Abwechil.;na
+wäre mir nachgerade willkommen.«
 
-„Weiß Gott, wann das ſein wird,“ dachte ich manchmal
-boi mir, „wir krichen wie die Schneden auf der Landſtraße
-dahin und, ſo hübſch e8 auch iſt, ein bißchen Abwechil.;ng
-wäre mir nachgerade willkommen.“
-
-Ich ahnte nickt, daß dieje „Abwechſlung“ unſerer ſchon
+Ich ahnte nickt, daß diese »Abwechslung« unserer schon
 harrte, als wir jetzt den Bungalow erreicht hatten und
-unſere Pferde dem „Sai8“ (indiſcher Pſerdewärter) Über- -
-gaben, der ſie hinter den Bungalow ſührte.
+unsere Pferde dem »Hals« (indischer Pferdewärter) Über- —
+gaben, der sie hinter den Bungalow führte.
 
-Auf der Veranda erwartete uns mit vielen Verneigun-
-gen der „Khanjſama“.
+Auf der Veranda erwartete uns mit vielen Verneigungen
+der »Khanjsama«.
 
-„Das Bad iſt bereit und das Frühftük angerichtet,
-Sahibs,“ ſagte der Mann zu meinem großen Vergnügen.
-Ich ſab, daß vor unſcren Fenſtern, die auf die Veranda
-mündeten, ein gededter Tiſch ſtand und betrat eilig mein
-Zimmer, um meine Kleider zu wechſeln und mich mal in
-die Wanne zu taucken.
+»Das Bad ist bereit und das Frühstück angerichtet,
+Sahibs,« sagte der Mann zu meinem großen Vergnügen.
+Ich sah, daß vor unseren Fenstern, die auf die Veranda
+mündeten, ein gedeckten Tisch stand und betrat eilig mein
+Zimmer, um meine Kleider zu wechseln und mich mal in
+die Wanne zu tauchen.
 
-PRoſtbungalow-Zimmer ſind ſpartaniſch einger'<tet.
-Ein eiſerne3 Bett (Holzmöbel ſreſſen die weißen Ameiſen
-im Handumdrehen auf, man kann ſaſt darauf warten, bis
-die Möbel vertilgt ſind), ein eiſerner Ti <h, eine geflochtene
-Matte, eiſerne Garderobenreihen und dito Koſſerftänder.
-Im Badekabinett gibt's eine Zinkwanne und zinnerne
+Forstbungalow-Zimmer sind spartanisch einger’chtet.
+Ein eisernes Bett (Holzmöbel fressen die weißen Ameisen
+im Handumdrehen auf, man kann fast darauf warten, bis
+die Möbel vertilgt sind), ein eiserner Ei ich, eine geflochtene
+Matte, eiserne Garderobenreihen und die Kofferständer.
+Im Badekabinett gibt’s eine Zinkwanne und zinnerne
 <@pagebreak/>
-220D0SSSSSOSSDSS 7 2020002083030 S00S0S
+Wasserschöpfer. Die Wanne wird von dem »hilft«
+Wasserträger, der nur dies Amt versieht) nach Bedarf getan
+oder entleert.
 
-Waſſerſchöpſer. Die Wanne wird von dem „Bhifti“
-aſſerträger, der nur dies Amt verſieht) nach Bedarſ ge-
-iam oder entleert.
-
-I< hbörte ſchon, wie Harſt in ſeiner Wanne plätſcherte,
-ober ich unterſuchte die meine erſt auf das eiwwaige Vorhan-
-denſein von Tauſendſüßlern oder Skorpionen. Ten Biß
-dieſer Beſtien, die ſich raſch und gern einſchleichen, ſcheue ich
-nämlich wie Giſt. Er iſt brennend ſchmerzhaſt und erzeug!
+Ich hörte schon, wie Harst in seiner Wanne plätscherte,
+oder ich untersuchte die meine erst auf das etwaige Vorhandensein
+von Tausendfüßlern oder Skorpionen. den Biß
+dieser Bestien, die sich rasch und gern einschleichen, scheue ich
+nämlich wie Gift. Er ist brennend schmerzhaft und ertrug!
 auch Fieber.
 
-. Nach zwanzig Minuten erſchien ich mit Harft gleichzeitig
-am Frühſtück stiſch.
+… Nach zwanzig Minuten erschien ich mit Harst gleichzeitig
+am Frühstück frisch.
 
-Der Khanſama und ſein Gehilfe bedienten uns und der
-erſtere ſchwatte, wie 038 ſeine Art war.
+Der Khansama und sein Gehilfe bedienten uns und der
+erstere schaute, wie 038 seine Art war.
 
-„In Abweſenheit der Sahib3 iſt eine engliſche Mem-
-ſahib, (Herrin, Dame) eingetroſſen," erzählte er.
+»In Abwesenheit der Sahibs ist eine englische Memsahib,
+(Herrin, Dame) eingetroffen,« erzählte er.
 
-'»Ih weiß es,“ ſagte Harſt ruhig.
+»Ich weiß es,« sagte Harst ruhig.
 
-Der Khanſama machte ein verblüfſtes Geſicht.
+Der Khansama machte ein verblüfftes Gesicht.
 
-„Aber der Sahib hat die Dame nicht kommen ſehen,
-der Sahiv war ausgeritten ung die Dame iſt nicht zu ſchen,
-ruht auf ihrem Zimmer aus. Der Sahib konnte nicht wiſſen,
-weil die Dame nicht ſehen,“ ſchnaiterte er.
+»Aber der Sahib hat die Dame nicht kommen sehen,
+der Sahib war ausgeritten uns die Dame ist nicht zu sehen,
+ruht auf ihrem Zimmer aus. Der Sahib konnte nicht wissen,
+weil die Dame nicht sehen,« schnatterte er.
 
-„Geſehen habe ich ſie nic<t,“ ſagte Harſt ruhig, „aber
-gerochen. Der ganze Bungalotv riecht nach Lavendelwaſſer
-und wir haben nur Eau de Cologne mit,“ wandte er ſich
-an mich, „Du haſt Dir doch auch gleich gedacht, daß wir
-Damenbeſuch bekommen haben, Schraut?“
+»Gesehen habe ich sie nicht,« sagte Harst ruhig, »aber
+gerochen. Der ganze Bungalow riecht nach Lavendelwasser
+und wir haben nur Tau de Cologne mit,« wandte er sich
+an mich, »Du hast Dir doch auch gleich gedacht, daß wir
+Damenbesuch bekommen haben, Schraut?«
 
-Ich ſchüttelte verblüſſt den Kopf. Ich hatte nicht3 ge-
-rochen |
+Ich schüttelte verblüfft den Kopf. Ich hatte nichts gerochen
 
-Teufel an<, mußte Harſt eine Naſe haben, denn an
-Stockſchnupfen leide ich doch auch nicht gerade!
+Teufel auch, mußte Harst eine Nase haben, denn an
+Stockschnupfen leide ich doch auch nicht gerade!
 
-„Lavendelwaſſer iſt das A und O der Engländerin-
-nen,“ bemerkte Harſt, „der Schluß, daß eine Dame einge-
-froſſen iſt, iſt alſo ſehr einfach.“
+»Lavendelwasser ist das A und O der Engländerinnen,«
+bemerkte Harst, »der Schluß, daß eine Dame eingetroffen
+ist, ist also sehr einfach.«
 
-„Die Dame ſagen, ſie wollen auf Maſter Harft warten,
-wollen Maſter Harſt ſprechen.“
+»Die Dame sagen, sie wollen auf Master Harst warten,
+wollen Master Harst sprechen.«
+
 <@pagebreak/>
-0SOSDSSSDSSSSSS 5 0002063020000 0S0D
+Nun hatte der Khansama das Vergnügen, Harst sie
+staunt zu sehen.
 
-Nun hatte der AKhanſama das Vergnügen, Harſt ere
-ſtaunt zu ſehen.
+»Mich?« fragte er.
 
-„Mi<?“ fragie er.
+»Ja, Master Harst, [o sagen die Sahiba.«
 
-„Ia, Maſter Harſt, [o ſagen die Sahiba.“
+»Wie heißt denn die Dame,« forschte er.
 
-„Wie heißt denn die Dame," ſorſchte er.
+»Nicht wissen,« lautete die ruiniert des Khansama, der
+sonst einfach alle wußte, »die Sabhiba. ist nicht aus dieser
+Gegend. Ab, da kommen sie!«
 
-„Nicht wiſſen,“ lautete die Lintwort de8 Khanſama, der
-ſonſt einfac< alle wußte, „die Sabhiba. iſt nicht aus dieſer
-Gegend. Ab, da kommen ſie!“
+Der Khansama mochte seinen Salon und wir sahen
+ins um und sprangen dann zur Begrüßung auf. Eine Frau
+war aus dem Bungalow auf die Veranda geirrt:n, sich
+große, stattlicßke Frau im weißen Kleide, einen dünnen
+hochhob um die Schultern tragend.
 
-Der Kbanſama mochte ſeinen Salam und wir ſahen
-ins um und ſprangen dann zur Begrüßung auf. Eine Fratt
-war au8 dem Bungalow auf die Veranda getret:n, eic
-zroße, ſtattlicßke Frau im weißen Kleide, einen dünnen
-<c<hal um die Schultern tragend.
+Die Frau mochte etwa Mitte der Vierzig sein, hatte
+reizte stolze, gerade Haltung, ein seines, gütiges Gesicht und
+leicht angegrautes Blondhaar. Ihre Haltung war sicher
+ins als sie sprach, klang ihre Stimme angenehm. Ich hatte
+einen ungemein sympathische en Eindruck von der Dame und
+Ab sah auf Harsts Antlitz einen ähnlichen Eindruck,
 
-Die Frau mochte eiwa Mitte der Vierzig ſein, hatte
-eizte ſtolze, gerade Haltung, cin feines, gütige3 Geſicht und
-leicht angegraute8 Biondhaar. Zhre Haltung war ſicher
-inv als ſie ſprach, klang ihre Stimme angenehm. I< hatte
-oimen unaemein ſympatbiſc>& en Eindru> von der Dame und
-ib ſah auf Harſt8 Antlitz einen ähnlichen Eindruck,
+»Ich hörte Ihre Stitimmmen von der Veranda her und
+brachte mir, daß Sie zurückgekommen sein müßten, Herr
+starrt.«
 
-„Ic hörte Ihre Stitimmmen von der Veranda her und
-rachte mir, daß Sie zurücgekommen ſein müßten, Herr
-viarft.“
+Mit sicherem weiblichen Instinkt hatte die Dame diese
+Worte an meinen Kreuzt gerichtet.
 
-Mit ſicherem weiblichen Inſtinkt hatte die Dame dieſe
-Worte an meinen Freutd gerichtet.
+»Wir haben Sie hoffentlich nicht aus der Ruhe gestört,
+gnädige Frau,« sagte Harst verbindlich.
 
-3 „Wir haben Sie hoffentlich nicht aus der Ruhe geſtört,
-quädige Frau," ſagte Harſi verbindlich.
+»Nein, nein, ich habe nicht geschlossen. Ich bin vor zwei
+Stunden angekommen und hatte mich nur etwas auftat
+Bett gelegt, um Ihre Rückkehr zu erwarten. Mein Name
+ist Mr?. Thornton.«, …
 
-„Nein, nein, ich habe nicht geſchlaſen. J< bin vor zwei
-Stunden angekommen und batte mich nur eiwas auf.das
-YDett gelegt, um Ihre Nückkehr zu erwarten. Mein Name
-iſt Mr2. Thornton.“ , .
+Harst verbeugte sich und stellte mich vor. Meine Verbeugung
+fiel etwas plump aus, wie stets in sollten Fällen.
+Verbiegung nannte Harst meist scherzend ein solches tförper-siche3
+Kompliment von mir.
 
-Harſt verbeugte ſich und ſtellte mich vor. Meine Ver-
-benaung ſiel etwas plumv aus8, wie ſtet3 in ſolßen Fällen.
-Verbiegung nannte Harſt meiſt ſcherzend ein ſolche3 tförper-
-ſiche3 KWomplinient von mir.
+»Sie wollten mich sprechen, gnädige Frau?«
 
-„Sie wollten mich ſprechen, gnädige Frau?“
 <@pagebreak/>
-2D20202022002022028 9 2202520220002
+»Ja, zuerst möchte ich aber mit Ihnen frühstücken, wenn
+Sie nichts dagegen haben.«
+»Es wird uns eine Freude sein,« sagte Harst, während
+ich Tolpatsch stumm wie ein Fisch blieb.
+»Khansama; bringe mir Kaffee,« befahl Miß. Thornton.
 
-. i
-„Ja, zuerſt möchte ic< aber mit Ihnen ſrühſtü>ken, wenn
-Sic nicht3 dagegen haben.“
-' „ES wird uns eine Freude ſein," ſagte Harſt, während
-ich Tolpatſch ſtumm wie ein Fiſc< blieb.
-„Fbhanſama; bringe mir Kaſſee,“ befahl Mr8. Thorn-
-ion.
+Nachdem sich der Khansama mit seinem Gehilfen entfernt
+hatte, um dem Befehle nachzukommen, neigte sich die
+Dame zu uns und sagte im Fbüstertone:
 
-Nachdem ſich der Khanſama mit ſeinem Gehilfen ent-
-ſernt batte, um dem Befehle nachzukommen, neigte ſich die
-Dame zu uns und ſagte im Fbüſtertone:
+»Wenn wir gefrübsisit haben, werden wir einen Svpa-zlergang
+zum Fluß hinab machen, Herr Harst, und dort
+werde ich Ihnen sagen, warum ich zu Ihnen gekommen
+bin. Kein Wort jetzt.«
 
-„Wenn wir gefrübſiſit haben, werden wir einen Svpa-
-zlergang zum Fluß hinab machen, Herr Harſt, und dort
-werde ich Ihnen ſagen, warum id) zu Ihnen gekommen
-bin. Kein Wort jetzt.“
+Der Kaffee wurde gebracht, und wir vollendeten unser
+Frühstück.
 
-Der Kaffee wurde gebracht, und wir vollendeten unſer
-Frühſtück.
-
-Wir plauderten beim Eſſen von alltäzlichen Dingen.
-die auch Dienerohren hören konnten, und ich zerſprang ſaf).
+Wir plauderten beim Essen von alltäglicher Dingen.
+die auch Dienerohren hören konnten, und ich zersprang hat).
 vor innerlicher Neugier.
 
 Was konnte Mrs. Thornton zu uns geführt haben?
 
-Sollte die von mir erſehnte Abwechſlung endlich ein»
-treten?
+Sollte die von mir ersehnte Abwechslung endlich eintreten?
 
-Es ſah faſt ſo ous.
+Es sah fast so aus.
+
 <@pagebreak/>
-DSSDSSSOSSSSSS 10 020020200 20202020220
 
-2. Kapitel.
-Ein ſchrekliches Schiäſal.
+<h2>2. Kapitel.</h2>
+<h3>Ein schreckliches Schakal.</h3>
 
-Wir hatten ein leidlich ſchattiges Pläbhen unter einem
-Tamarindenbuſch an den Ufern des Dargilewſluſſes ge-
-ſunden, Harſt, Mrs. Thornton und ic<. Allerdings haite
-ich vorher unſeren Sibplat - auf das ſorgſältigſte nach et-
-waigem Vorhandenſein von Schlangen abgeſucht, die in
-der heißen Jahres8zeit in Indien oſt an die Uſer der Flüſſe
-kommen, um zu trinfen und dann zwiſchen Baumwurzeln
-ihren Sonnenſchlummer zu halten.
+Wir hatten ein leidlich schattiges Pfählen unter einem
+Tamarindenbusch an den Ufern des Dargilewflusses gefunden,
+Harst, Mrs. Thornton und ich. Allerdings hatte
+ich vorher unseren Sitzplatz — auf das sorgfältigste nach einzigen
+Vorhandensein von Schlangen abgesucht, die in
+der heißen Jahreszeit in Indien Ost an die Ufer der Flüsse
+kommen, um zu trinken und dann zwischen Baumwurzeln
+ihren Sonnenschlummer zu halten.
 
-Die Begegnung mit einer Kobra wäre meinem koſt-
-baren Leben beinahe einmal verhängnisvoll geworden, da-
-her meine Vorſit. Doch das iſt eine Geſchichte, die i
-ein andere Mal erzählen will. Vorläufig will ich mi
-und meine Lc ':r auf die Angelegenheit der Mrs. Thorn*
-ton konzentrieren.
+Die Begegnung mit einer Kobra wäre meinem kostbaren
+Leben beinahe einmal verhängnisvoll geworden, daher
+meine bereit. Doch das ist eine Geschichte, die
+ein andere Mal erzählen will. Vorläufig will ich mich
+und meine Lc ’:r auf die Angelegenheit der Mrs. Thornton
+konzentrieren.
 
-Die Dame begann! .
+Die Dame begann! …
 
-„Verzeihen Sie, Herr Harſt, daß ich Sie ſo ohne weli-
-feres für meine Angelegenheiten in Anſpruch nehme, aber
-Sie ſind wahrſcheinlich der einzige Menſch, ver zwei mir
-lieb gewordenen Menſchen belſen kann.“
+»Verzeihen Sie, Herr Harst, daß ich Sie so ohne verirrtes
+für meine Angelegenheiten in Anspruch nehme, aber
+Sie sind wahrscheinlich der einzige Mensch, der zwei mir
+lieb gewordenen Menschen Felsen kann.«
 
-„Ih will Ihnen gern nach beſten Kräften beiſtehen,
-gnädige Frau, ſagen Sie mir bitie mir -ndlich, um was
+»Ich will Ihnen gern nach besten Kräften beistehen,
+gnädige Frau, sagen Sie mir bitte mir endlich, um was
 <@pagebreak/>
-FP22D022L2EDIEL5ISI 11 DVDIAISPDPELDSISDDIDEG
+es »ich eigentlich handelt,« entgegnete Harst etwas ungeduldig.
 
-es „ics eigentlich hanbelt,“ entgegnete Harſt etwas unge-
-duldig.
+»Mit kurzen Worten, die Schwester von Mr. Wells ist
+aus geheimnisevolle Weise verschwunden.«
 
-„Mit lurzen Worten, bie Schiveſter von Mr. Wells iſt
-auß geheimnisevolle Weiſe verſchwunden.“
+Harst lehnte sich gegen den Stamm der Tamarinde
+und 396g, nachdem er stumm uns Erlaubnis gebeten, die
+Schachtel mit seinen geliebten Mirakulnum hervor.
 
-Harſt lehnte ſich gegen ven Stamm ver Tamarinde
-und 396g, nachdem er jiumm unz Crlaubnis gebeten, die
-Schad.tel mit jeinen geliebten Mirakulnum hervor.
+»verfolgen Sie, Mrs. Thornton,« sagte er kurz.
 
-„Beridrnen Sie, Mrs. Thornton,“ ſagte er kurz.
+»Gern. über ich muß Sie bitten, sich ein wenig in Geduld
+zu fassen. Um die ganze Angelegenheit klar zu Übezr-sehen,
+bin ich Ihnen die Vorgeschichte dieses Verschwindens
+schuldig. Ich werde sie [9 kurz wie möglich fassen.«
 
-„Gern. Uber ich muß Sie bitten, ſich ein wenig in Ge-
-buld zu ſaſſen. Um die ganze Angelegendeit llar zu Übezr-
-ſehen, bin iH Ihnen die Vorgeſchichte dieſes Verſchwindens
-jchuldig. Ich werde ſie [9 kurz wie möglich ſaſſen.“
-
-Harſt nickte und Mrs. Thornton fuhr rajch und mit
+Harst nickte und Mrs. Thornton fuhr rasch und mit
 gedämpfter Stimme fort:
 
-„Mein Mann iſt Forſtinſpektor der indiſchen Regjis-
-rung und hat einen ziemlich ausgedehnten Forſtvezirk zu
-kontrollieren. Unſer eigentliher Wohnſitz iſt der Ort
-Gullunpore =“+““ |
+»Mein Mann ist Forstinspektor der indischen Regjis-rung
+und hat einen ziemlich ausgedehnten Forstbezirk zu
+kontrollieren. Unser eigentlichen Wohnsitz ist der Ort
+Gullunpore =«+«
 
-„Das iſt ziemlich weit von bier,“ entgegnete Harſt.
+»Das ist ziemlich weit von hier,« entgegnete Harst.
 
-„Gewiß,“ lautete die raſche Entgegnung. „TJIch bin
-auch nicht direkt von Gullunpore nach dem Dargilew-Bumn-
-galow geeilt, jondern beſinde mid) mit meinem Gatteu
-augenblicklich hier in der Nähe. Sie werden allcs verſtehen,
-wen Sie meiner Erzählung ſolgen. Merken Sie weiter
-auf. -
+»Gewiß,« lautete die rasche Entgegnung. »Tisch bin
+auch nicht direkt von Gullunpore nach dem Dargilew-Bumn-galow
+geeilt, sondern befinde mich mit meinem Gatten
+augenblicklich hier in der Nähe. Sie werden alles verstehen,
+wen Sie meiner Erzählung folgen. Merken Sie weiter
+auf. —
 
-Vor einem Jahre ging iH nag England, um meine
-Kinder zu beſuchen, die in engliſchen Schulen erzogen wer-
-den, und um mich einmal im alten Lande umzuſehen, Mein
-Gatte war von ſeinem Poſten nicht abkömmlich, Er blieb
-'in Indien. Zum Schluß meines Aufenthaltes in England
-beſuchte ic noch eine Verwandte von mir, die in einem
-kleinen. Orte an der Oſtküſte Englands in der Nähe von
-London wohnt. Bei dieſer Verwandten blieb ich die leß-
-ten vier Wochen big zum Fälligwerden meines Schiſſes,
-das mich nach Indien zurü&bringen ſollte, Während dieſer
+Vor einem Jahre ging ich mag England, um meine
+Kinder zu besuchen, die in englischen Schulen erzogen werden,
+und um mich einmal im alten Lande umzusehen, Mein
+Gatte war von seinem Posten nicht abkömmlich, Er blieb
+in Indien. Zum Schluß meines Aufenthaltes in England
+besuchte ich noch eine Verwandte von mir, die in einem
+kleinen. Orte an der Ostküste Englands in der Nähe von
+London wohnt. Bei dieser Verwandten blieb ich die letzten
+vier Wochen bis zum Fälligwerden meines Schiffes,
+das mich nach Indien zurückbringen sollte, Während dieser
 <@pagebreak/>
-DSSSSSSSSSSS 19 DSSDSSDSSSSSDS
+vier Wochen lernte ich im Hause meiner Verwandten ein
+junges Mädchen namens Renate Wells kennen. Renate
+Wells war die Schwester von Fitzroy Wells, der ein junger
+Forstmeister und Untergebener meines Mannes ist … Fitzroy
+Wells verwaltet den Dargilew-Forstbezirk, Natürlich
+kenne auch) ich Fitzroy Wells persönlich, da ich meinen
+wann oft »milchigen Inspektionstouren begleite. Die’’er
+Umstand wurde der Eurasiern zu einer Freundschaft
+zwischen dem jungen Mädchen und mir. Wir verkehrten sehr
+intim miteinander und saßen uns täglich.
 
-vier Wochen lernte ichß im Hauſe meiner Verwandten ein
-junges Mädchen nantens Nenate Wells kennen. Renate
-Wells war die Schweſter von Fitzroy Well3, der ein junger
-Jorſimeiſter und Untergebener meines Mannes iſt. . Fitz-
-roy Wells verwaltet den Dargilew-Jorſibezirk, Natürlich
-kenne aud) ich Fibroy Wells perſönlich, da ich meinen
-wann oft «uf ſcinen Inſpektionstouren begleite. Die'*'er
-Umſtand wurde der Grunzſiein zu einer Freundſcaft
-zwiſchen dem jungen Mädchen und mir. Wir verkehrlen ſchr
-intim miicinander und ſaßen uns täglich.
+Renate Wells lebte bei einer. ältliche en Vertvandteü, die
+sich aber bereits in ein. Stift eingehängt hatte und deren
+Übersiedlung in das Institut in wenigen Monaten bevorstand.
 
-Renate Wells lebte bei einer. älilicc en Vertvandteü, die
-ſich aber bereits in ein. Stift eingeiauſt hatte und deren
-Ueberſiedlung in das Inſtitut in wenigen Monaten be-
-vorjitand.
+nach der 1: berstedlung der alten Dame in das Stift
+wollte Renate Wells nach Indien gehen, um ihrem Bruder
+die Wirtschaft zu führen, denn sie war gänzlich allein-sebein?.
+UÜe’er diese Leberfleck lang und ihr Projekt nach
+Indien zu geben hatte Renate im letzten Jahre mit ihrem
+Bruder korrespondiert. Fitzroy freute sich bereits auf die
+Ankunft seiner Schwester. Aber wie gesagt, Renate sollte
+erst von England abreisen, wenn die alte Dame in ihr Frist
+eingetreten war. Als ich nun aus dem Plane erschien, noch
+dazu als alte Bekannte Fitzroy Wells’, wollte sich das junge
+Säcken am liebsten mir gleich anschließen und die Reise
+nach Indien unter meinem Schutze machen.
 
-Jiacd der 1: berſtedlung der alten Dame in das Stift
-wollte Renate Wells nach IJudien gehen, um ihrem Bruder
-dic Wiriſchaft zu ſühren, denn ſie war gänzlich allein-
-ſebein2. UÜe'er dieſe Veberſie*> lung und ihr Projekt nach
-Jndien zu geben hatte Renate im lebten Jahre mit ihrem
-Bruder korreſpondiert. Fibroy freute ſich bereits auf die
-Ankunft ſeiner Schweſter. Aber wie gefagt, Nenate ſollte
-erſt von England abreiſen, wenn die alte Dame in ihr Stiſt
-eingetreten war. Als ich nun auſ dem Plane erſchien, noch
-dazu als alte Bekannte Fißroy Wells', wollte ſich das junge
-TTäd>en am liebſien mir gleich anſchließen und die Reiſe
-nach Zudien unter meinem Schutze macen.
-
-Ich ſprach in dieſem Sinne mit ihrer ältlichen Tante,
+Ich sprach in diesem Sinne mit ihrer ältlichen Tante,
 welche aber das Projekt mit dem Egois8mus der Alternden
 ablehnte. Sie wollte Renate bis zum letzten Augenblick
-um ſich haben. Schließlich gelang es mir, e8 war acht Taae
-vor dem Abgang des Dampfers, die alte Dame umzuſtiin:-
-men. Sie gab die Erlaubnis, daß Nenate mit mir reiſen
-vürfe.
+um sich haben. Schließlich gelang es mir, es war acht Tage
+vor dem Abgang des Dampfers, die alte Dame Unkultur:-
+men. Sie gab die Erlaubnis, daß Renate mit mir reisen
+dürfe.
 
-Sie können ſich denken, lieber Herr Harſt, daß die
-nötige AuSreiſeaugrüſtung ſür das junge Mädchen nun
+Sie können sich denken, lieber Herr Harst, daß die
+nötige AuSreiseaugrüstung für das junge Mädchen nun
 <@pagebreak/>
-EBDBEDVBSSISSIDSS 13. DSSSSDISSSSDESES>
+Hals Über Kopf angeschafft werden mußte, ein Billett
+wurde schleunigst bestellt, Abschiedsbesuche gemacht, alles
+ins in fürchterlicher Hetzjagd vor sich. aber, der langen
+Rede kurzer Sinn: wir befanden uns beide pünktlich anno
+Abreisetage an Bord der »Ariadne«,
 
-Hals Über Kopf angeſchafjt werden mußte, ein Billett
-wurde ſc<leunigſt beſtellt, Abſchied8beſuche gemacht, alle3
-jng in fürchterlicher Hetzjagd vor ſich. Aver, der langen
-Rede furzer Sinn: wir beſanden uns beide pünktlich ama
-Abreiſetage an Bord ver „Ariadne“,
+An Fitzroy Wells einen ausführlichen Brief zu [Schreiben
+hatten wir bei der überstürzten Abreise Leine Zeit, doch
+gab trennte in Cherbourg ein Telegramm an ihren Bruder
+auf und zeigte ihm ihre Abreise nach Indien in meiner Gesellschaft
+an.
 
-An Fitroy Wells einen ausführlichen Brieſ zu [<hrei-
-ben hatten wir bei der überſtürzten Abreiſe leine Zeit, doch
-gab Itenate in Cherbourg ein Telegramm an ihren Bruder
-auf und zeigie ihm ihre Abreiſe nach Indien in meiner Ge-
-ſellſchaft an.
+— Von Aden kabelte Renate dann noch einmal unser
+Ankunst3datum an Fitzroy Wels.
 
-- Von Aden kabelte Renate dann Moch einmal unſer
-Ankunſt3datum an Fitzroy Wels.
+Die Reise verlief nach dem Programm und gänzlich
+ereignislos, aber in Bombay erlebten mein: Schützling und
+ich eine Enttäuschung. Fitzroy Wells war nicht am Pier,
+um seine Schwester in Empfang zu nehmen, trotzdem er
 
-Die Reiſe verlief nad dem Programm und gänzlich
-ereignislos, aber in Bombay erlebten mein: Shübling und
-ich eine Enttäuſchung. Fivroy Wells war nicht am Pier,
-um ſeine Schweſter in Empfang zu nehmen, trotzdem er
+Verbrecher ein paar Tage Urlaub hätte erhalten können. Mein
 
-<her ein paar Tage Urlaub hätte erhalten können. Mein
+dann hatte Urlaub genommen, und holte mich ab. Er war
+überrascht, mich in Gesellschaft einer jungen Dame anzutreffen
+und ich erklärte ihm in kurzen Worten alles. Mein
+Mann brachte uns darauf in ein Hotel, wo ich meinen
+Gatten endlich allein sprechen konnte, denn es beunruhigte
+mich, von Fitzroy Wells nicht einmal einen schriftlichen
+Willkommensgruß an seine Schwester vorzufinden.
+!! Mein Mann beruhigte jedoch bald mein Erstaunen. Er
+Selbst zwar’ hatte seinen Forstmeister seit Monaten nicht gehen,
+denn die Inspektionstouren durch die jeweiligen Bezirks
+kann man nur in der zweiten Jahreszeit machen.
 
-ann hatte Urlaub genommen, und holte mich ab. Er war
-überraſcht, mich in Geſellſ<aſt einer jungen Dame anzutreſ-
-fen und ich erklärte ihm in kurzen Worten alles. Mein
-Mann brachte un8 darauf in ein Hotel, wo ich meinen
-Gatten endlich allein ſprechen konnte, denn es beunruhigte
-mich, von Fibroy Well8 nicht einmal einen ſc<hriſtlichen
-Willkommensgruß an ſeine Schweſier vorzuſinden.
-1! Mein Mann beruhigte jedoch bald mein Erſtaunen. Er
-Jelbſt zwar' hatte ſeinen Forſtmeiſter ſeit Monaten nicht ge-
-hen, denn die Inſpektionstouren durch die jeweiligen Be-
-Zirke kann man nur in der kroenen Jahres8zeit maden.
+während der Regenperiode, in der wir uns befanden und
+die noch vier Wochen anhalten mußte, sind sie unmöglich.
+ein Gatte hatte also in den Regenmonaten Gullunpore
+nicht verlassen können, aber er wußte, daß Fitzroy wohlauf
+ei. Er hatte regelmäßig Berichte von seiner Hand erhalten.
+Der letzte war vor acht Tagen eingetroffen. Wells
+mußte also wohlauf sein und sicher war sein Nichterscheinen
+harmlos zu erklären.
 
-ährend der Regenperiode, in der wir uns beſanden und
-'die uoch vier Wochen anhalten mußte, ſind ſie unmöglich.
-ein Gatte hatte alſo in den Regenmonaten Gullunpore
-nicht verlaſſen können, aber er wußte, daß Fithroy wohlauj
-ei. Er hatte regelmäßig Berichte von ſeiner Hand erhal-
-en. Der letzte war vor acht Tagen eingetroſſen. Wells
-'mußte alſo wohlauf ſein und ſicher war ſein Nichterſcheinen
-harmlo3 zu erklären.
-
-  
-  
-   
- 
 <@pagebreak/>
-20DSDS020E0L2SDSSIS 141 20DE00E0SPSL020502DSS
 
-Nachdem ich mit Renate geſprochen und ihc alles aus-
-etnandergeletßzt hatte, ſaßie ſie wieder Mut, Unſer Schüt-
-ling war nämlich elivas niedergedrückt geweſen durch das
-Audbleiben des Bruders und jever Nachricht.
+Nachdem ich mit Renate gesprochen und ihr alles auseinandergesetzt
+hatte, faßte sie wieder Mut, Unser Schützling
+war nämlich etwas niedergedrückt gewesen durch das
+Nachfeilen des Bruders und jener Nachricht.
 
-n befier Stimmutrig trat jie mit uns am näcyſten Tage
-die tweet an, die nad) Gullunpore führte und die
-48 Stunden daunerte.
+besser Stimmutrig trat sie mit uns am nächsten Tage
+die Zweck an, die nach) Gullunpore führte und die
+48 Stunden donnerte.
 
-Wie Sie wiſſen werden, Herr Harſt, iſt die Station
-Gullunpore ein Eiſenbahnknotenpuvki. Uns erwarteten
-hier zwei unſerer Diener mit einem Wagen, der uns und
-unſer Gpä> nach unſerem außerhalb des Ortes gelegenen.
-Hauſe bringen ſollte.
+Wie Sie wissen werden, Herr Harst, ist die Station
+Gullunpore ein Eisenbahnknotenpuv?!. Uns erwarteten
+hier zwei unserer Diener mit einem Wagen, der uns und
+unser Gases nach unserem außerhalb des Ortes gelegenen.
+Hause bringen sollte.
 
-Da Gullunpore, wie ſchon erwähnt, Eiſenbahnfknoien-
-punkt iſt, hatten mein Mann und ich erwartet, daß Fibroq
-WeUs hier ericheinen und ſeine Schweſter in Empfang neh-
-men würde. Von Gullunpore geht nämlich eine Verbin-
-dung nach Dargewpore und dies iſt die Eiſenbahnſtation
-jür Fibroys Bezirk. Das heißt, von Dargewpore ſind es
-Koch mehrere Stunden Wagenſahrt bis zu Fibroys Haus,
-vas, ſeiner Eigenſchaft als Forſtmann entſprechend, im
+Da Gullunpore, wie schon erwähnt, Eisenbahnknotenpunkt
+ist, hatten mein Mann und ich erwartet, daß Fibroq
+neue hier erscheinen und seine Schwester in Empfang nehmen
+würde. Von Gullunpore geht nämlich eine Verbindung
+nach Dargewpore und dies ist die Eisenbahnstation
+für Fitzroys Bezirk. Das heißt, von Dargewpore sind es
+Koch mehrere Stunden Wagenfahrt bis zu Fitzroys Haus,
+das, seiner Eigenschaft als Forstmann entsprechend, im
 Walde liegt.
 
-Wer beſchreibt aber unſere Verblüſſung, als ſich auch
-in Gullunpore weit und breit kein Fibroy Wells blicken
+Wer beschreibt aber unsere Verblüffung, als sich auch
+in Gullunpore weit und breit kein Fitzroy Wells blicken
 
-eß.
+es.
 
-Während wir noh ratlos auf dem Bahnſteig ſtanden
-und ich ſoeben den Vorſchlag gemacht hatte, daß Nenate
-uns in unjer Haus begleiten und als Gaſt bei uns bleiben
-ſolle, bis alle dieſe Merkwürdigkeiten aufgeklärt waren,
-näherte ſich uns ein ho<hgewachſener brauner, beturbaniter
-Mann, der mir merkwürdig bekannt vorkam. "
+Während wir noch ratlos auf dem Bahnsteig standen
+und ich soeben den Vorschlag gemacht hatte, daß Renate
+uns in unter Haus begleiten und als Gast bei uns bleiben
+solle, bis alle diese Merkwürdigkeiten aufgeklärt waren,
+näherte sich uns ein hochgewachsener brauner, beturbanten
+Mann, der mir merkwürdig bekannt vorkam.«
 
-In ſeiner Geſellſchaft beſand ſich eine ſchlanke, unge»
-wöhnlich große, indiſche Frau, die nach ſtrenger, zentral-
-indiſcher Sitte dicht verſchleiert war und lange indiſche Ge-
-wänder trug.
+In seiner Gesellschaft befand sich eine schlanke, ungewöhnlich
+große, indische Frau, die nach strenger, zentralindischen
+Sitte dicht verschleiert war und lange indische Gewänder
+trug.
 
-Der Mann mit dem Turban trat aui mich zu und ver-
-neigte ſich tief.
+Der Mann mit dem Turban trat auf mich zu und verneigte
+sich tief.
+
 <@pagebreak/>
-2000D2020D2D02H& 15 ES SDSDEOESISSISIDIS
+»Erkennen mich nicht, Sahib und Sahiba?« fragte er
+erstaunt, »ich sein Diener von Sahib Wells. Ich kommen
+mia Frau, abholen Sahiba Schwester von Sadbhlb:
 
-„Erkennen mich nicht, Sahib und Sahiba?“ fragte er
-erſtaunt, „ic ſein Diener von Sahib Wells. I< kommen
-mia Frau, abholen Sahiba Schweſter von Sadbhlb:
+Wells.
 
-ells.
-
-Damit wies er auf das verſchleierke Weib an ſeiner
-Seite. Die Frau machte einen ſtummen Salam. Die In-
-derinnen ſind zum Gehorſam und zum Schweigen erzogen.
-Sie werden das wiſſen, Herr Harſt. “>
+Damit wies er auf das verschleierte Weib an seiner
+Seite. Die Frau machte einen stummen Salon. Die Inderinnen
+sind zum Gehorsam und zum Schweigen erzogen.
+Sie werden das wissen, Herr Harst. »ck
 
 Mein Freund nickte,
 
-„Fahren .Sie ſort,“ ſagte er, „Ihr Bericht iſt ſehr in-
-fereſſant.“
+»Jahren Sie fort,« sagte er, »Ihr Bericht ist sehr interessant.«
 
-„Die Worte ve3 Mannes wedten meine Erinnerung,“
-ſuhr "Mrs. Thornton eifrig ſort, „ich erkannte in ihm tatk-
-ſächlich einen der Diener Fihroy Wells'. Bei unſerer letzten.
-Inſpektionstour hatt? ver Mann bei Tiſche bedient.'
+»Die Worte des Mannes wetten meine Erinnerung,«
+fuhr »Mrs. Thornton eifrig fort, »ich erkannte in ihm tatk-sächlich
+einen der Diener Fitzroy Wells’. Bei unserer letzten.
+Inspektionstour hat!? der Mann bei Tische bedient’
 
-„Warum iſt Dein Herr nicht ſelbſt gekommen, um die
-Schweſter Sahiba abzuholen,“ ſragie ich den Mann ängſt-
+»Warum ist Dein Herr nicht selbst gekommen, um die
+Schwester Sahiba abzuholen,« fragte ich den Mann sagst
 
-„Sahib Wells krank,“ ſagte der Mann, „haben ſich
-vorgeſtern auf Jagd verlebt. LD, nicht3 Anaſt haben, Sa-
-hiba. Haben ſich nur Fuß verſtaucht auf Jagd, haben cin
-wenig Fieber, nicht [<hlimm, aber können nicht kommen.
-Werden aber bald geſund ſein.“ .
+»Sahib Wells krank,« sagte der Mann, »haben sich
+vorgestern auf Jagd verlebt. LD, nichts Angst haben, Sa-hiba.
+Haben sich nur Fuß verstaucht auf Jagd, haben ein
+wenig Fieber, nicht [Schlimm, aber können nicht kommen.
+Werden aber bald gesund sein.« …
 
-Mir fiel tatſächlich ein Stein vom Herzen und |< ſah
-meinem Mann an, das arch er aufatmete. Nun war er-
-klärt, warum Well8 nicht nach Bombay kam, warum er nicht
-in Gullunpore erſc<ien. Aber. troßdem ſträubte ich mich da-
-gegen, Renate mit den beiden Dienern ſahren zu laſſen. '
+Wir fiel tatsächlich ein Stein vom Herzen und!ich sah
+meinem Mann an, das noch er aufatmete. Nun war erklärt,
+warum Wells nicht nach Bombay kam, warum er nicht
+in Gullunpore erschien. Aber. trotzdem sträubte ich mich dagegen,
+Renate mit den beiden Dienern fahren zu lassen.
 
-„Sahitba Well3 wird in meinem Hauſc bleiben bis
-Dein Sahib geſunv iſt und ſie bei mir abholen kann,“ ſagte
-ich entſchieden. „Kehre zu Sahib Well8 zurük und ſage
-ihm meinen Beſcheiv. A
+»Sahitba Wells wird in meinem Hause bleiben bis
+Dein Sahib gesund ist und sie bei mir abholen kann,« sagte
+ich entschieden. »Kehre zu Sahib Wells zurück und sage
+ihm meinen Bescheid.
 
 Der Diener zögerte.
 
-"57 habe Brief an die Sahiba Schweſter,“ ſagte cr.
-ib ihn her,“ miſchte ſich nun Renate ins Geſpräch.
+»57 habe Brief an die Sahiba Schwester,« sagte er.
+Ab ihn her,« mischte sich nun Renate ins Gespräch.
+
 <@pagebreak/>
-0.D2202020202022022 16 2290225022220
+Der Mann zog aus seinen Gewandfalten ein Kuvert
+und reichte es Renate, die es hastig erbrach. Ich las Über
+ihre Schulter gebeugt das Schreiben mit.
 
-Der Mann zog aus ſeinen Gewandſalten ein Kuvert
-und reichte e3 Renate, vie e3 haſtig erbrach. J< las Über
-ihre Schulter gebeugt da38 Schreiben mit.
-
-„Fomme gleich zu nir. Ich bin krank und ſehne
-mich "nad Dir. Mabmpwd iſt treu und wird Dich ſicher
-zu mir bringen. Abi, - die Dienerin, habe ich ſür Di
+»Komme gleich zu mir. Ich bin krank und sehne
+mich »nach Dir. Mabmpwd ist treu und wird Dich sicher
+zu mir bringen. Ab!, — die Dienerin, habe ich für Du
 engagiert. Sie wird für Deine Bequemlichkeit auf der
-Reiſe ſorgen. Fibroy.“
+Reise sorgen. Fitzroy.«
 
 Die wenigen Zeilen, die auch mein Mann las, waren
-zittrig geſchrieben. Fißbroy3 Fieber mußte ziemlich ſtark
-jein und für Renate gab es nun kein Halten mehr. - Sie
-dankte mir für meine Güte und Gaſtſreundſc<aft und er-
-flärte, ſoſort mit den beiden Dienern weiter reiſen zu wol-
-len. I< batte nicht den Mut, ihr zu widerſprechen, denn
-ſchließlich durfte ich die Schweſter nicht vom Krankenbette
-des Bruder8 fernhalten; alles ſchien ſeine Richtigkeit zu
-ßaben und ſc<ließlich iſt e8 nichtg Ungewöhnliches, daß
-junge Mädchen in Indien in Begleitung indiſcher Diener
-weite Reiſen maten. Zwar kannte Nenate die Landes-
-ſvrache nicht, aber Mahmud ſprach ganz gut engliſch, und,
-wie er mir verſicherte, die Dienerin konnte ach ettvas
-engliſch. Es würde alſo alle8 gut gehen.
+zittrig geschrieben. Fitzroys Fieber mußte ziemlich stark
+sein und für Renate gab es nun kein Halten mehr. — Sie
+dankte mir für meine Güte und Gastfreundschaft und erklärte,
+sofort mit den beiden Dienern weiter reisen zu wollen.
+Ich hatte nicht den Mut, ihr zu widersprechen, denn
+schließlich durfte ich die Schwester nicht vom Krankenbette
+des Bruders fernhalten; alles schien seine Richtigkeit zu
+haben und schließlich ist es nichts Ungewöhnliches, daß
+junge Mädchen in Indien in Begleitung indischer Diener
+weite Reisen matten. Zwar kannte Renate die Landessprache
+nicht, aber Mahmud sprach ganz gut englisch, und,
+wie er mir versicherte, die Dienerin konnte ach etwas
+englisch. Es würde also alles gut gehen.
 
-Da der Zug nach Dargewpore bald ſällig war, [ſo ge-
-leiteten mein Gatte und ich das junge Mädchen zu einem
-Fupece erſter Klaſſe, beſorgten noch einen Teekorb und
-Früchte ſür ſie. Brachten Mahmud und Abl in einem nahe-
-liegenden Abteil unter, gaben ihnen reichliche Trinkgelder
+Da der Zug nach Dargewpore bald völlig war, [so geleiteten
+mein Gatte und ich das junge Mädchen zu einem
+Bursche erster Klasse, besorgten noch einen Teekorb und
+Früchte für sie. Brachten Mahmud und Ab! in einem naheliegenden
+Abteil unter, gaben ihnen reichliche Trinkgelder
 und legten ihnen das Wohl der jungen Dame ans Herz.
-Mahmud ſchwor, über Renate wie über ſeinen Augapfel
-zu wachen, und Abi quittierte jede ſeiner Verſicherungen
-durch tieſe, ſchweigende Verneigungen.
+Mahmud schwor, über Renate wie über seinen Augapfel
+zu wachen, und Ab! quittierte jede seiner Versicherungen
+durch tiefe, schweigende Verneigungen.
 
 Wir warteten bis der Zug abging und fuhren dann zu
-unſerem Hauſe.
+unserem Hause.
+
 <@pagebreak/>
-222Ddü0O0D0SDSDSSSDS 17 200002 S000SIS02D0SD
+Und nun muß ich; Ihnen etwas gestehen, Mr. Harst,
+das wie eine Sünde auf meiner Seele drückt und mich anspannt,
+alles, was ich kann, für das unglückliche
+junge Mädchen in Bewegung zu schon: in den kommenden
+vier Wochen nämlich habe ich wenig an Fitzroy und Renate
+Wells gedacht!«
 
-Und nun muß ic; Ihnen etwas geſtehen, Mr. Harſt,
-va8 wie eine Sünde auf meiner Seele drüc>t und mich an-
-"ſpornt, alles, was ich kann, für das unglüdliche
-junge Mädchen in Bewegung zu ſcben: in den kommenden
-vier Wochen nämlich habe ich wenig an Fikroy und Renatc
-Wells gedacht! *
+Ich fand viel Arbeit in meinem Hause vor. Ein Jahr
+lang war ich fort gewesen, vieles hatte ich neu zu richten,
+die Dienerschaft war in meiner Abwesenheit etwas verlottert
+und ich mußte erst wieder etwas auch in die braune
+Gesellschaft bringen. Und dann hörte die Regenzeit auf
+und mein Mann machte sich in meiner Begleitung auf seine
+gewohnte Inspektionstour durch seinen provinzengroßen
+Forstbezirk.
 
-I< fand viel Arbeit in meinem Hauſe vor. Ein Jahr
-lang war ich ſort geweſen, viele3 hatte ich neu zu richten,
-die Dienerſ<aft war in meiner Abweſenheit etwas verlot-
-tert und ich mußte erſt wieder etwas Zuchk in die braunc
-Geſellſhaſt bringen. Und dann hörte die Negenzeit aui
-und mein Mann machte ſich in meiner Begleitung auf ſeine
-gewohnte Inſpektion8tour durch ſeinen provinzengroßen
-Forſtbezirk.
+Sie werden wissen, Mr.»Harst, wie solche Inspektionstouren
+eines indischen Forstbeamten, der Herr über Hunderte
+von Untergebenen ist, vor sich gehen. Wir gehen mit —
+Zelten, Feldbetten, Jagdausrüstungen, Koch und Dienerschaft
+auf die Reise. Von Bezirk zu Bezirk schlagen wir unser
+Lager auf. Die Forstmeister und deren Untergebene
+suchen uns auf. Berichte werden erstattet, Beschwerden,
+Verbesserungen, Neuerungen erwogen und durchgeführt.
+Gäste, auch indische, besuchen uns, Jagden werden veranstaltet,
+Essen gegeben. Von weither kommen die Leute, um
+das Lager des Forstinspektors zu sehen und man lebt in
+einer einzigen Kette von Ereignissen — und Forstmeister
+Wells und seine Schwester waren in meinem Gedächtnis
+verwischt …
 
-Sie werden wiſſen, Mr.»Harſt, wie ſolche Inſpektion3-
-touren eines indiſchen Forſtbeamten, der Herr über Hun-
-derte von Untergebenen iſt, vor ſich gehen. Wir gehen mit -
-Zelten, Feldbetten, Jagdausrüſtungen, Koch und Diener-
-ſchaft auf die Reiſe. Von Bezirk zu Bezirk ſc<lagen wir un-
-ſer Lager auf. Die Forſtmeiſter und deren Untergebene
-ſucßen un8 auf. Berichte werden erſtattet, Beſchwerden,
-Verbeſſerungen, Neuerungen erwogen und durchgeführt.
-Gäſte, auch indiſche, heſuchen uns, Jagden werden veran-
-ſtaltet, Eſſen gegeben. Von weither kommen die Leute, um
-das Lager des Forſtinſpektors zu ſehen und man lebt in
-einer einzigen Kette von Ereigniſſen --- und Forſtmeifſter
-Wells und ſeine Schweſter waren in meinem Gedächtnis
-verwiſcht. .
-
-Aber ſie kehrten in meine Gedanken zurück, al38 wir mit
+Aber sie kehrten in meine Gedanken zurück, als wir mit
 Trägern, Gepäck und Zelten in den Dargewpore-Bezirk ein:
-rüdten. Wir ſc<lugen unſer Lager auf und während 1<
-dent Koch meine Anweiſungen gab, ſandte mein Mann
-einen Boten zu Fihroy Wells. Natürlich hatte ſich die Kyndc
-unſerer Ankunſt ſchon verbreitet und Thornton8 Bote traj
-Fitzroy attf dem halben Wege zu un3. Wir hatten uns ge-
+Rücken. Wir schlugen unser Lager auf und während ich
+den! Koch meine Anweisungen gab, sandte mein Mann
+einen Boten zu Fitzroy Wells. Natürlich hatte sich die Kinde
+unserer Ankunft schon verbreitet und Thorntons Bote trat
+Fitzroy auf dem halben Wege zu uns. Wir hatten uns gerade
 <@pagebreak/>
-220202200222020222 (8 2200200000222
+zum Frühstück niedergelassen, als Wells vor unserem
+Zelte vom Pferde sprang.
 
-rade zum Frühſiü> niedergelaſſen, al8 Well8 vor unſerem
-Zelte vom Pferde ſprang.
+frisch, lebenslustig und kräftig betrat er unser improvisiertes
+Gemach und während mein Gatte ein Gedeck für
+ihm befahl, sagte ich erfreut:
 
-Forſch, lebensluſtig und kräſtig betrat er unſer impro»
-viſiertes Gemach und während mein Gatte ein Gedeck für
-ihm befahl, ſagte ich erfreut:
+Wie schön, daß Sie wieder gesund und auf dem Posten
+sind, »Nr. Wells. Wie geht’s Ihrer Schwester? Warum
+haben Sie sie nicht mitgebracht?«
 
-Wie ſchön, daß Sie wieder geſund und auf dem Poſien
-ſind, "Nr. Well3. Wie geht's Jhrer Schweſter? Warum
-haben Sie ſie nicht mitgebracht?“
+Hätte ich eine Bombe zu Wells’ Füßen geschleudert, die
+Wirkung hätte nicht verblüffender sein können. Er starrte
+mich an, als sei ich eine Wahnsinnige.
 
-Hätte ich eine Bombe zu Wells' Füßen geſchleudert, die
-Wirkung hätte nicht verblüſſender ſein können. Er ſtacrte
-mich an, als ſei ich eine Wahnſinnige.
+»Ich bin nicht krank gewesen, Mrs Thornton,« sagte
+er dann langsam, »und — und wie kann ich meine Schwester
+mitbringen, da sie in England ist.«
 
-„IH bin nicht krank geweſen, Mrs Thornton,“ ſagte
-er dann langſam, „und -- und wie kann ich meine Schweſter
-mitbringen, da ſie in England iſt.“
+Ich kann Ihnen nur sagen, Mr. Harst, daß ich zur
+Bildsäule erstarrte. Mein Mann war ins Zelt zurückgekehrt
+und hatte die letzten Worte Wells’ gehört, Auch er
+blieb starr stehen.
 
-Ih kann Ihnen nur ſagen, Mr. Harſt, daß ich zur
-Bildſäule erſtarrte. Mein Mann war in38 Zelt zurücge-
-kehrt und hatte die letzten Worte Well8' gehört, Auch er
-blieb ſtarr ſtehen.
+Die nächste Szene kann ich Ihnen nicht mehr genau
+schildern, Herr Harst. Ich weiß nur, daß meine Nerven
+vibrierten, daß ich am ganzen Körper zitterte, daß ich fast
+dem Irrsinn nahe war. Alles, was ich Ihnen noch berichten
+kann, ist folgendes:
 
-Die nächſte Szene kann ich Ihnen nicht mehr genatt
-ſchildern, Herr Harſt. I< weiß nur, daß meine Nerven
-vibrierten, daß ich am ganzen Körper zilterte, daß ich ſaſt
-dem Irrſinn nahe war. Alles, was ich Ihnen no<h berich-
-ten kann, iſt ſolgendes:
+Fitzroy Wells hat niemals ein Telegramm von seiner
+Schwester erhalten. Er hat keine Ahnung davon, daß sie
+sich in meiner’ Begleitung auf dem Wege nach Indien befand!
+Er hat uns in Bombay nicht erwartet, einfach, weil
+er nichts von ihrer Ankunft wußte. Er ist aus dem gleichen
+Grunde niemals nach Gullunpore gekommen und hat niemals
+einen Diener nach der Eisenbahnstation geschickt, um
+seine Schwester abzuholen. Er kennt keine indische Dienerin
+namens Akt. Und — daß Schrecklichste — schon vor
+Monaten hat er seinen Diener Mutmaßt entlassen, weil er
+ihn auf Unredlichkeiten ertappte. Mahmud verschwand nach
+seiner Entlassung aus den Seele?, niemand weiß wohin.
 
-“ Fibroy Wells hat niemal3 ein Telegramm von ſeiner
-Schweſter erhalten. Er hat keine Ahnung davon, daß ſie
-ſic in meiner' Begleitung auf vem Wege nach Indien be-
-ſand! Er hat un3 in Bombay nicht erwartet, einſach, weil
-er nicht8 von ihrer Ankunft wußte. Er iſt aus dem gleichen
-Grunde niemals nach Gullunpore gekommen und hat nie-
-mal8 einen Diener nach der Eiſenbahnſtation geſchikt, um
-ſeine Schweſter abzuholen. Er kennt keine indiſche Diene-
-rin namens Abit. Und --- da8 Scredlichſte --- ſchon vor
-Monaten hat er ſeinen Diener Mahmutd entlaſſen, weil er
-ihn auf Unredlichkeiten ertappte. Mahmud verſchwand nach
-ſeiner Entlaſſung au8 dew Bezir?, niemand weiß wohin.
 <@pagebreak/>
-2200200202002 D 19 DDESSHSSDISSSSPD
+Und Renate Wells ist verschwunden, spurlos, ihr Gefechts
+ist ein Geheimnis.
 
-Und Renate Wells iſi vecſchwunden, ſpurlos, ihr Geſchiä
-iſi ein Geheimnis.
+helfen Sie uns das Rätsel lösen, Mr. Harst, finden
+Sie das unglüccliche Mädchen Diebes und nehmen Sie eine
 
-Helſen Sie uns das Rätſel löſen, Mr. Harſi, ſinden
-Ste das unglüccliche MädGen wiede> und nehmen Sie eine
-
-ſ<hre>liche Gewiſſen8ſ<uld von meiner Seele. A<Y, warum
-habe ich ſie mit Mahmud gehen laſſen -- -- =-==* :
+schreckliche Gewissensschuld von meiner Seele. Acht, warum
+habe ich sie mit Mahmud gehen lassen — —«
 
 Mrs. Thornton brach in Tränen aus.
+
 <@pagebreak/>
-DSSSSSSSSSDSS 70 000 SDSEDEBEDSISDISS
 
-3. Kapitel.
-Des Rätſels Löſung.
+<h2>3. Kapitel.</h2>
+<h3>Des Rätsels Lösung.</h3>
 
-Harald Harſt warf ſeine lebte Mirakulum, c3 war die
-zehnte, in die Fluten des dahinrauſchenden Dargilew.
+Harald Harst warf seine lebte Mirakulum, es war die
+zehnte, in die Fluten des dahinrauschenden Dargilew.
 
-„Ich gehe wohl nicht ſchl in der Annahme, daß ſich Jhr
-Lager noch in Wells' Forſtbezirk beſindet, Mrs. Thornton.“
-„Ganz rec<t. Wir kampieren vier Reitſtunden von hier
-iim Dargilew-Walde. Eine Stunde von unſerem Lager be-
-ſindet ſich Mr. Wells' Forſtbungalow.“
+»Ich gehe wohl nicht ich in der Annahme, daß sich Ihr
+Lager noch in Wells’ Forstbezirk befindet, Mrs. Thornton.«
+»Ganz recht. Wir kampieren vier Reitstunden von hier
+im Dargilew-Walde. Eine Stunde von unserem Lager befindet
+sich Mr. Wells’ Forstbungalow.«
 
-| „Wer hat Ihnen die Kunde von meiner Anweſenheit
-in dieſer Gegend gebracht ---?“
+»Wer hat Ihnen die Kunde von meiner Anwesenheit
+in dieser Gegend gebracht—?«
 
-„O, Sie Wiſſen ja, wie die Cingeborenen ſchwabver..
-Nachrichten verbreiten ſich in Indien raſch von Munvp zu
-Mund. Ich hörte, daß Sie in der Nähe ſeien, auf der Zi ſe
-zu den Feſten des Radſcca von Malcwe begriſjſen. Da
-der Dargilew-Bungalow das cinzige Raſthaus in der Näbe
-iſt, war es gewiß, daß ich Sie hier treſſen würde. Ich be-
-ſticg alſo mein Pſerd und ritt davon.“
+»O, Sie Wissen ja, wie die Eingeborenen Schwalben …
+Nachrichten verbreiten sich in Indien rasch von Kanon zu
+Mund. Ich hörte, daß Sie in der Nähe seien, auf der Alte
+zu den Festen des Rattern von Malewe beseitigen. Da
+der Dargilew-Bungalow das einzige Rasthaus in der Nähe
+ist, war es gewiß, daß ich Sie hier treffen würde. Ich bestieg
+also mein Pferd und ritt davon.«
 
-„Sagten Sie, daß Sie mich auſſuchen würden?“
+»Sagten Sie, daß Sie mich aussuchen würden?«
 
-„Nein, nein, Mr. Harſt, weder mein Mann, no<h der
+»Nein, nein, Mr. Harst, weder mein Mann, noch der
 völlig gebrochene Wells haben eine Ahnung von meinem
-Unternehmen, das ich unter einem Gewiſſens8zwang durch-
+Unternehmen, das ich unter einem Gewissenszwang durchglühte!
 <@pagebreak/>
-2200000200008 21 DSSILISSLISDESSD
+Z) sagte, daß ich einen Spazierritt machen würde
+und — jagte zu Ihnen.«
 
-jübre! Z) ſagte, daß ich einen Spazierritt machen würde
-und -- jagte zu Ihnen.“
+»Das war recht gehandelt und Ihr Schweigen verdient
+Anerkennung. Kehren Sie zurück und sagen zu Ihrem Sultan
+und Mr. Wells, daß ich die Angelegenheit aufnehmen
+werde. Doch legen Sie beiden Stillschweigen aus.«
 
-„Das war recht gehandelt und Ihr Schweigen verdient
-Anerkennung. Kehren Sie zurück und ſagen zu Zhrem Gat-
-tan und Mr. Wcll3, daß ich die Angelegenheit aufnehmen
-werde. Doch legen Sie beiden Stillſhweigen auſ.“
+»Geben Sie mir Hoffnung—«
 
-„Geben Sie mir Hoffnung --+“
+»Nicht so hastig. Erst beantworten Sie mir einige Fragen.
+Mit wem verkehrt Wells?«
 
-„Nicht ſo haſtig. Erſt beantworten Sie mir einige Fra»
-gen. Mit wem verkehrt Wells?“
+»Er reitet hin und wieder von seinem Forstbungalow
+nach »Dargewpore, einer kleinen Bahnstation, wo er unter
+den englischen Distriktsbeamten Bekannte hat.«
 
-„Gr reitet hin und wieder von ſeinem Forſtbungalow
-nach "Targewpore, einer kleinen Bahnſtation, wo er unter
-den engliſc<en Diſtriki8beamten Bekannte hat.“
+»Hier kann Miß Renate Weile nicht versteckt gehalten
+werden?«
 
-„Hier kann Miß Renate Weils nicht verſie>t gehalten
-werden?“
-
-„Nein, das halte ich ſür gänzlih ausgeſchloſſen. Der
-Ort iſt von wenigen Menſchen, Cnugländern, bevölkert, die
-Wells alle ſreundlich geſinnt ſind. EZ3 gibt natürlich auch
+»Nein, das halte ich für gänzlich ausgeschlossen. Der
+Ort ist von wenigen Menschen, Cnugländern, bevölkert, die
+Wells alle freundlich gesinnt sind. Ehe gibt natürlich auch
 Eingeborene dort. Einige handeln im Bazar mit allen
-ttöglihen GebrauchSgegenftänden, andere ſind Handwerker
-over al8 untergeordnete Beamte angeſtellt. Alle dicſe
-l;aben ſicher kein Intereſſe an Miß Wells.“
+Stückchen Gebrauchsgegenständen, andere sind Handwerker
+Dover als untergeordnete Beamte angestellt. Alle diese
+l;aber sicher kein Interesse an Miß Wells.«
 
-Auf Harſt8 Antlitz. das ich ſo genau kannte, wie mich
-ſclber, zeigte ſich unverhohlene Enttäuſchung.
+Auf Harsts Antlitz. das ich so genau kannte, wie mich
+selben, zeigte sich unverhohlene Enttäuschung.
 
-„Sonſt gibt es niemand in der Gcegewd des Forſtbun-
-galows?“ ſragte er.
+»Sonst gibt es niemand in der Gegend des Forstbungalows?«
+fragte er.
 
-„Doh, es lebt jemand einige engliſc<e Meilen von dort
-und Dargewpore entfernt, Das iſt ver Zemindar Saolli.
-Er hat dort ſeinen Beſitz, au3gedehnte Ländereien, Wald-
-gerechtigkeit und ſeine Häuſer und Zenana3.“
+»doch, es lebt jemand einige englische Meilen von dort
+und Dargewpore entfernt, Das ist der Zemindar Harsts.
+Er hat dort seinen Besitz, ausgedehnte Ländereien, Wald-gerechtigkeit
+und seine Häuser und Zenanas.«
 
-(Zenana3 ſind indiſche Frauenhäuſer, die kein Mann
-betreten darf. Sie ſind gänzlich den Frauen und unimant-
-baren Kindern unterſtellt. Ein Zemindar iſt ein erblicher,
-indiſcher Grundherr, meiſt ſchr vermögend.)
+(Zenanas sind indische Frauenhäuser, die kein Mann
+betreten darf. Sie sind gänzlich den Frauen und unimant-baren
+Kindern unterstellt. Ein Zemindar ist ein erblicher,
+indischer Grundherr, meist sehr vermögend.)
 
-„Aha,“ machte Harald Harſt intereſſiert, doH Mr3.
-Ihornton wandte ſich ſofort gegen ihn,
+»Aha,« machte Harald Harst interessiert, das Mrs.
+Thornton wandte sich sofort gegen ihn,
 <@pagebreak/>
-„Herr Harlt,*“ ſagie ſie beſtinuant, „ics .5eiß nicht, in
-welcher Richtung ſich Zhr Verdacht bewegi, aber auf den
-Zemindar Saoli darſ er ſich keineSwegs ausdchnen. Das
-iſßß ein alter, weißbärtiger und würdiger Mann, den ſtren-
-gen Sitten und Gejeyzen ſjeines Volles, die eine hohe My»
-ral haben, jflaviſch untertan. Zemindar Savli iſt ein Greis.
-Seine Hauptſrau iſt ſeit langem verſiorben, Inu ſeinen
-Zenanas leben nur noh Tienerinnen.“
+»Herr Harst,« sagte sie bestinuant, »fesselt nicht, in
+welcher Richtung sich Ihr Verdacht bewegt, aber auf den
+Zemindar Sack darf er sich keineswegs ausdehnen. Das
+ist ein alter, weißbärtiger und würdiger Mann, den strengen
+Sitten und Gesetzen kleines Volles, die eine hohe Anprall
+haben, jflavisch untertan. Zemindar Harst ist ein Greis.
+Seine Hauptfrau ist seit langem verstorben, Tau seinen
+Zenanas leben nur noch Dienerinnen.«
 
-„Und wer lebt ſonſt noh auf dem Beijihz ves Zemin-
-dars?“ woäte Harſi wiſſen.
+»Und wer lebt sonst noch auf dem Besitz des Zemindars?«
+wagte Harst wissen.
 
-„Sein Sohn und deiſen Gaitinnen, ſtrenggläubige In-
-der. Ja, und dann iſt noch ein Neſſe namens Saolus vors
-handen, ein junger hüb <er und beweglicher Burſche. Er
-hat Wells in ſein Herz geſchloſſen und wir haben unſeren
-Sorſimeijier häuſig mit diejer brauntkäutigen Freundſchaft
-gene>t. Jedenfalls iſt Saolus Mr. Well3 ſehr zugetan. Er
-bejucht ihn oft, ſpricht engliſch mit ihm, geht mit ihm auf
-die Jagd und ſc<ikt ihm Früchte aus den Gärten ſeines
-Oheims, des Zemindars.“
+»Sein Sohn und dessen Gattinnen, strenggläubige Inder.
+Ja, und dann ist noch ein Reise namens Saolus vors
+vorhanden, ein junger süß her und beweglicher Bursche. Er
+hat Wells in sein Herz geschlossen und wir haben unseren
+Forstmeister häufig mit dieser brauntkäutigen Freundschaft
+geneckt. Jedenfalls ist Saolus Mr. Wells sehr zugetan. Er
+besucht ihn oft, spricht englisch mit ihm, geht mit ihm auf
+die Jagd und schickt ihm Früchte aus den Gärten seines
+Oheims, des Zemindars.«
 
-„Zit dieſer Saolus verheiratet,“ wollte Harſt wiſſen,
+»Art dieser Saolus verheiratet,« wollte Harst wissen,
 
-„Natürlich,“ lautete die Antwort, „es iſt eine ſoge-
-nannte Kinderehe geſchloſſen 1oorden, wie ſie in Indien üb-
-lic) iſi. Ter Zemindar Caoli hat jeinen Neſjen ſchon als
-jinaben mit der Tochter eine3 reicker Zemindar aus vem
-Norden verehelicht. Die Feſtiichkeiten zwiſchen den kind«
-ÜUchen Partnern wurde mit grobem Ponip begangen, worauf
-die beiden Vermählten in das Haus ihres Vaters reſp,
-Oheims zurückkehrten. Saolus iſt Chemann, obgleich er
-erjt neunzehn Jahre zählt, ſeine Gattin erreicht im nächſten
-Jahre, wo ſie 14 zählen wird, das mannbare Alter. Sie
-wird dann endgültig ihrem Gemahl zugeführt werven und
-in den Zenanas de3 Saoli ihren Platz als Gattin des Neſ-
-fen erhalten. Dieſe alte. gute inviſche Familie [ſchaltet für
-Ihren Verdacht aus, Mr. Hauſi.“ |
+»Natürlich,« lautete die Antwort, »es ist eine sogenannte
+Kinderehe geschlossen locken, wie sie in Indien üblich
+ist. Der Zemindar Loch hat seinen Felsen schon als
+glauben mit der Tochter eines reicher Zemindar aus dem
+Norden verehelicht. Die Westlichsten zwischen den Kind«
+Wochen Partnern wurde mit grobem Pomp begangen, worauf
+die beiden Vermählten in das Haus ihres Vaters rein,
+Oheims zurückkehrten. Saolus ist Ehemann, obgleich er
+erst neunzehn Jahre zählt, seine Gattin erreicht im nächsten
+Jahre, wo sie 14 zählen wird, das mannbare Alter. Sie
+wird dann endgültig ihrem Gemahl zugeführt werden und
+in den Zenanas des Sack ihren Platz als Gattin des Neffen
+erhalten. Diese alte. gute indische Familie [schaltet für
+Ihren Verdacht aus, Mr. Haus!.«
 
-„Dann müſſen unſere Nachſorſchungen: eben nacy einer
+»Dann müssen unsere Nachforschungen: eben nach einer
 <@pagebreak/>
-DSSO0020800L00585S 93 200000 S00DS0S0O
+dritten Richtung beginnen, gnädige Frau,« sagte Harst!
+ruhig. »Existiert ein Bild von Miß Renate Brust«
 
-dritten Richtung beginnen, gnädige Frau," ſagte Harſ!
-ruhig. „Exiſtiert ein Bild von Miß Renate Weusk“
+»Gewiß, und ich habe es Ihnen mitgebracht,« sagte die
+umsichtige Dame. »Eis existieren sogar zwei Bilder. Eins
+steht auf Fitzroys Schreibtisch im Forstbungalow, ein zweifellos
+trug er in seiner Brieftasche. Auf meine Bitte übergab
+er es mir. Hier ist es.« …
 
-„Gewiß, und iG habe es Ihnen mitgebracht," ſagte die
-umſichtige Dame. „ESs exiſtieren ſogar zwei Bilder. Eins
-ſteht auf Fibroy8 Schreibtiſch im Forſibungalow, ein zweli-
-tes trug er in ſeiner Briefkaſche. Auf meine Bitte übergab
-er e3 mir. Hier iſt e3.“ .,
+Die Dame händigte Harst ein wohlgelungenes Porträt
+aus, das eine etwa 1Sjährig? jung?? Dame zeigte, die so«
+sympathischen. Äußeren war.
 
-Die Dame händſate Härſt ein wohlgelungene8 Porträt
-aus, das eine etiva 1Sjährig? iung2? Dame zeigte, die vo"
-ſvmpaihiſchem. Aeußeren war.
+»Miß Wells scheint sehr hübsch zu sein,« forschte Harst.
 
-„Miß Wells ſcheint ſehr hübſch zu jein," ſorſchie Harft.
+Miß. Thornton anktworiete freimütig:
 
-Mr8. Thornton anktworiete freimütig:
+»O, eine Schönheit ist Renate nicht, aber sie ist sehr
+lieblich und hat sehr viel Sturm. Wie Sie schon auf dem
+Bilde sehen, hat sie sehr helles Haar, sie ist fast weizenblond.
+Dazu kommt ein blemvenbiveißer Teint und die wundervollstem
+blauen Augen, die ich jemals gesehen habe, Auf
+der Photographie tritt? ja derartiges weniger in Erscheinung.
+Aber Fitzroy besitzt eine kleine Miniatur in Farben,
+die er an seiner Uhrkette trägt. Dr ist die handliche Schönheit
+der jungen Dame sehr frisch; und anmutig —
 
-„O, eine Schönhett iſt Nenate nicht, aber ſie iſt ſehr
-lieblich und hat ſehr viel Sharm. Wie Sie ſchon auf dem
-Bilde ſeben, hat ſie ſehr helſes Haar, ſie iſt ſaſt weizenblond.
-Dazu kommt ein blemvenbiveißer Teint und die wunder-
-vollſten blauen Auger, die ich jemals geſehen habe, Auf
-der Phokographie trit? ja derartiges weniger in Erſcei-
-nung. Aber Fibroy beſibi eine kleine Miniatur in Farben,
-die er an ſeiner Uhrlette irägt. Do iſt die ſarbliche SHön-
-heit der jungen Dame ſehr friſc; und anmutig --
+»Und wahrscheinlich hat er die Miniatur allen guten
+Freunden gezeigt,« forschte Harst.
 
-„Und wahrſcheinli< hat er vie Miniatur allen guten
-Freunden gezeigt," ſforſ<te Harſt.
+»Sicher,« lautete die unb&efangene Antwort, »denn er
+ist sehr stolz auf seine hübsche Schwester — ob, wenn Sie sie
+doch wiederfinden möchten, Herr Harst.«
 
-„Sicher,“ laukete die unb&efangene Antwort, „denn er
-iſt ſehr ſtolz auf ſeine hübſche Schweſter --- ov, wenn Sie ſie
-doch wiederſinden möchten, Herr Harſt.“
+»J4H werde alles versuchen. Nun, Mrs. Thornton,
+kehren Sie ohne unsere Begleitung in den Bungalow zurück,
+lassen Sie sich Ihr Pferd satteln und reiten Sie, wie
+von einem harmlosen Spazierritt kommend, ins Lager zutun.
+Wells und Ihren Warten dürfen Sie ins Vertrauen
+ziehen und Ihnen unsere Unterredung mitteilen. Sonst
+Schweigen gegen jedermann.«
 
-„J4H werde alle3 verſuchen. Nun, Mr3. Thornton,
-kehren Sie ohne unſere Begleitung in ven Bungalow zu-
-rüdk, laſſen Sie ſich Ihr Pferd ſatteln und reiten Sie, wie
-von einem harmloſen Spazierritt kommend, ins Lager zu-
-rüm. Wells und Ihren Vatten dürfen Sie ins Vertrauen
-ziehen und Ihnen unſere Unterredung mitteilen. Sonſt
-Ehweigen gegen jedermann.“
-
-Nachdem ſich die Dame entſernt hatte, zwang mich
-mein Freund in der ſengenden Sonnenglut zu einem Spa-
+Nachdem sich die Dame entfernt hatte, zwang mich
+mein Freund in der sengenden Sonnenglut zu einem Spaziergange.
 <@pagebreak/>
-DSSDSSIESSISSIS 21 D00DSISSSSIS
-
-ziergange. Mir wor nichts weniger al3 behaglich zumute.
-Dazu beſchäſtigte das ſeltſame Verſchwinden ver jungen
-Dame aufs ungewöshnli<ſte meine Phantaſie. Harſt ſchwieg
-". als er endlich ſprach, richtete er die ſeltſame Frage an
+Wir war nichts weniger als behaglich zumute.
+Dazu beschäftigte das seltsame Verschwinden der jungen
+Dame aufs ungewöshnlichste meine Phantasie. Harst schwieg
+». als er endlich sprach, richtete er die seltsame Frage an
 mich:
 
-„DU biſt Dir natürlich über dieſe ganze Geſchic<te im
-laren, Max Schraut?“
+»du bist Dir natürlich über diese ganze Geschichte im
+klaren, Max Schraut?«
 
-„IO? Nicht, daß ich wüßte," antwortete ich verblüfft.
+»In? Nicht, daß ich wüßte,« antwortete ich verblüfft.
 
-„Vie? Du haſt Dir nach der Erzählung der Dame
-ſein klare3 Bild ſiber den Fall machen können?“ .
+»die? Du hast Dir nach der Erzählung der Dame
+sein klares Bild sitzen den Fall machen können?« …
 
-„Nein. Je länger ſie ſprach, je verworrener tv1troc'
-mir die Geſchichte," antwortete ia) ärgerlich. „Die Curo-
-i'aerkolonie von Dargewpore kann Miß Well3 nicht vcr-
-borgen halten =“+“
+»Nein. Je länger sie sprach, je verworrener tv1troc’
+mir die Geschichte,« antwortete ja) ärgerlich. »Die Curo-i’aerkolonie
+von Dargewpore kann Miß Wells nicht verborgen
+halten =«+«
 
-„ein.“ .
+»ein.« …
 
-„Und der ſtrenge alte Zemindar ſamt ſeinem verbeiratke-
-ten Soſßn und dem ſc<on in der Kindheit getrauten Neſſen
-ebenſowenig.“
+»Und der strenge alte Zemindar samt seinem verbeiratke-ten
+Bassin und dem schon in der Kindheit getrauten Felsen
+ebensowenig.«
 
-„Weinſt Du?"
+»meiner Du?«
 
-„Natürlich. I< finde übrigen3 dieſe indiſchen Kinder-
-ehen abſurd. Du doch auch?“
+»Natürlich. Ich finde übrigens diese indischen Kindereien
+absurd. Du doch auch?«
 
-„Gewiß!“
+»Gewiß!«
 
-„I< babe keine Ahnung, wo Miß Wells ſieken mag,“
-ſagte ich gereizt. „Du willſt doch nicht etiva behaupten, daß
-Du es weipt?“
+»Ich habe keine Ahnung, wo Miß Wells sieben mag,«
+sagte ich gereizt. »Du willst doch nicht etwa behaupten, daß
+Du es meint?«
 
-„Doch. I< weiß, wer ſie entführt hat und verborgen
-balt," lautete die überraſ<ende Antwort, „nur ihre Be-
-ſreiung macht mir noch Sorgen.“
+»Doch. Ich weiß, wer sie entführt hat und verborgen
+bald,« lautete die überraschende Antwort, »nur ihre Befreiung
+macht mir noch Sorgen.«
 
-„Wo -- wo iſſt ſie denn?" ſtotterte ich.
+»Wo — wo ist sie denn?« stotterte ich.
 
-„Das wirſt Du bald wiſſen. Komm' in den Bungalow
-zurück. Ich muß ein wenig ruhen, einige Mirakulum raus
-<en und wenn die Sonne ſinkt, werde ic<h einen Plan zur
-Beſreiung der jungen Dame erdacht haben.“
+»Das wirst Du bald wissen. Komm’ in den Bungalow
+zurück. Ich muß ein wenig ruhen, einige Mirakulum rauchen
+und wenn die Sonne sinkt, werde ich einen Plan zur
+Befreiung der jungen Dame erdacht haben.«
 
-Ih ſolgte meinem Freunde ticf in Gedanken ver-
-ſunken.
+Ich folgte meinem Freunde tief in Gedanken versunken.
 
-Der Khanſama empfing un2 mit der Nachricht, daß
+Der Khansama empfing un? mit der Nachricht, daß
 <@pagebreak/>
-DSSSSSSSSSSS 0 00SSHSSHSSSSS-
+»die Memsahib fortgeritten sei! und dem Sahib ihre Grüße
+hinterlasse, Dann zogen wir uns in unsere Zimmer zurück,
+Harst entging mir, Über das Problem nachzudenken und
+gab der Hoffnung Ausdruck, daß mir dann sicher die
+Lösung. einfallen würde. Ich warf mich aus Bett und
+stoppte meinen Gedankentpparat uns Fußspitze an. Aber
+hin konnte mich nicht konzentrieren. Die Gedanken Messina
+nix wie Ameisen davon. Auf Atem Rücken Negern hevb-auyete
+Ich einen grünen Geld (Eidechsenart), der sich an
+der Decke zu. [Fassen machte, Fliegen und Moskitos ging.
+Die zweiten zierlichen Beiwwegungen des Tierchens hdemmuiten.
+meine Geodanfenmaschine,
 
-"die Memſahlb ſortgeritten ſeil und vem Sahib ihre Grüße
-hinterlaſſe, Dann zogen wir uns in unſere Zimmer zurück,
-Harſt empfan nir, Über das Prodlem nachzudenken und
-gab der Hoſſnung Ausdruck, daß mir dann ſicher die
-Löſung. einfallen würde. I< warf mich auſs Bett und
-irengie meinen Gedankentpparat vuſs dußerſte an. Aber
-<w fonnte mich nicht konzentrieren. Die Gedanken ÜUoſewn
-nix wie Ameiſen vavon. Auf ydem Rücken Uegeny hevb-
-auyete Ich einen grünen Geko (Eidechſenart), ver ſich an
-ber Decke zu. [Faſſen machte, Fliegen und Moskitos ſing.
-Die ſmetten zierlichen Beiwwegungen des Tierchens hdemmuiten.
-meine Geodanfenmaſchine,
+gilt stierte mich wach,
 
-arft ſſitielte mich wach,
+»Damm,« sagt! er, »das Wissen ist bereit, Wir wollen
+rasch die Mahlzeit einnehmen auch dann geht’s auf und
+davon,«
 
-„Fomm," ſagtt er, „das Fſſen iſi dereit, Wir Wwolten
-raſch bie Mahlzeit einnehmen zurb dann geht's auf und
-avon,“ '
+»Wohin,« sagte ich schlaftrunken.
 
-„Wobin," ſagte ich ſc<hläſirunten.
+Na argewpore, Miß Bett suchen.«
 
-Na argewpore, Miß Wets ſuchen."
+Ach, wenn ich an diese Massigen noch Leute! Ich mußte
+bezweifle in Eile hinunterwürgen, denn Harst drängte zum Ausdruck.
+Dann mußte ich unsere Koffer packen, nur die indischen
+Gewänder dunklen draußen bleiben; alles europäische
+Zeug würde verstaut. Der Khansama bekam den Befehl,
+die Koffer per Ochsenpost an den Fürsten von Malewe zu
+Konserven mit der Botschaft, daß wir in drei Tagen dort eintreffen
+würden. In drei Tagen! Wollte Harst denn das
+Rätsel Miß Wetta’’ so seinen rissen?
 
-Uch, wenn 1c< an dieſe Maßſlzeti noch vente! I< mußte
-fle in Eile hinunterwürgen, denn Härft drängte zum Auſ-
-vruch. Dann mußte ic< unſere Koffer packen, nur die indi-
-ſchen Gewänder durſien braußen bleiben; alles europäiſche
-Zeug würde verſtaut. Der Khanſama hekam den Beſehi,
-bie Koſſer per Ochſenpoſt an den Fürſten von Malewe zu
-ſerven mit der Botſchaft, vaß wir in drei Tagen dort eitt-
-ireſſen würden. In drei Tagen! Wollte Harſt denn daT
-Nätſel Miß Wetta'"' jo ſ<neu isöſen?
+geturnt wurde der Khansama samt seinem Gehilfen in
+die hinteren Wirischaststfßumme verbannt und Harst und ich
+fostitinierten uns als Inder, Dagegen hatte ich gar nichts,
+die Madskerade war 1D auf unseren indischen Abenteuern
+schon gewöhnt! Aber die Abzeichen, die er mir Anwalts,
+die waren geradezu ehrenrührig um kein Protest weiter
 
-jerauf wurde der Khanſama ſamt ſeinem Gehiffen iw
-die hinteren Wiriſchaſtstfßumme verbannt und Harſt und 1><
-foſtitinierten uns als Inder, Dagegen hatte ich gar nichts,
-die Madskerade war 1D anf unſeren indiſchen Abenteuern
-ſhon gewöhnt! Yber bie Ubzeichen, die er mir anmalite,
-bie waren geradezu ehrenrührig mm kein Proteſt meiter-
-
-'eIt8 halt!
-Ie man weiß, hat in Sinblen jebe Koſte, jede Religions:
+riß halt!
+je man weiß, hat in fuhren jede Koste, jede Kettchens:
 <@pagebreak/>
-2D0S0SSSDSSISSSDS 26. 00000 200DS0S0020DO
+Form ihr Abzeichen; die Brahmanen schmücken sich mit einer
+weißen Schulkterschnur, die Anhänger des Gottes China
+tragen ein rotes Mal auf der Stirn und so fort. Aber auch
+die Eunuchen, die Verschnittenen, die Harems8diener sind
+äußerlich gekennzeichnet. Sie tragen eine bestimmte Turbanform,
+ein gelbes Wangenmal und nach weibischer Art
+plumpe Glasspangen an Hand- und Fußknöcheln.
 
-form ihr Abzeichen; die Brahmanen ſchmücken ſich mit einer
-weißen Schulkterſchnur, die Anhänger des Gotte8 Shiwa
-tragen ein rote8 Mal auf der Stirn und ſo fort. Aber auch
-die Eunuchen, die Verſchnittenen, die Harems8diener ſind
-äußerlich gekennzeichnet. Sie tragen eine beſtimmte Turban-
-form, ein gelbes Wangenmal und nach weibiſcher Art
-plumpe Glasſpangen an Hand- und Fußknöceln.
+Und, trotz aller Proteste, mit diesen Trophäen wurde
+ich Unglückswurm verziert.
 
-Und, trotz aller Proteſte, mit dieſen Trophäen wurde
-ich Unglüd3wurm verziert.
+»Für die gute Sache,« tröstete Harst mich ironisch.
 
-„Für die gute Sache,“ tröſtete Harſt mich ironiſch.
+Dann machten wir uns zu Fuß auf den W’g nach
+Dargewpore. Um Mitternacht trafen wir in dem hellerleuchteten
+Bazar ein, nahmen in einer Garküche eine
+Mahlzeit und Harst ließ sich sofort in einen ausgiebigen
+Klatsch mit den Eingeborenen ein. Während des Essens
+schwatzten er, der Koch, ein Wasserträger, ein paar eingeborene
+Soldaten, ein Schuster, ein Kamelwärter, die alle
+in der Garküche aßen, wie die Elstern. Und ich muß sagen,
+Interessantes erfuhren wir schon.
 
-Dann machten wir uns zu Fuß auf den W'g nach
-Dargewpore. Um Mitternacht trafen wir in dem hell-
-erleuchteten Bazar ein, nahmen in einer Garküche eine
-Mahlzeit und Harſt ließ ſich ſoſort in einen ausgiebigen
-Klatſch mit den Eingeborenen ein. Während des Eſſens
-ſchwabten er, der Koch, ein Waſſerträger, ein paar einge-
-borene Soldaten, ein Schuſter, ein Kamelwärter, die alle
-in der Garfüche aßen, wie die Elſtern. Und ich muß ſagen,
-Intereſſantes erfuhren wir ſchon.
+Saolus, der Reise des reichen Zemindar, war schwer
+erkrankt und für die Welt unsichtbar. Der greise Zemindar
+selbst hatte dem Forstinspektor in seinem Lager noch keinen
+Besuch gemacht, wie sonst in jedem Jahr. Er hatte auch
+nicht erlaubt, daß sein Sohn diesen Besuch machte. Aber
+morgen wollte er dem Forstinspektor und dem Forstmeister
+ein Fest geben.
 
-Saolus, der Neſſe des reihen Zemindar, war ſchwer
-erfranft und für die Welt unſichtbar. Der greiſe Zemindar
-ſelbſt hatte dem Forſtinſpektor in ſeinem Lager noch keinen
-Beſuch gemacht, wie ſonſt in jedem Jahr. Er hatte auc<
-nicht erlaubt, daß ſein Sohn dieſen Beſuch machte. Aber
-morgen wollte ex dem Forſtinſpektor und dem Forſtmeiſter
-ein Feſt geben.
-
-Wir zogen uns lange nach Mitternacht auf unſer pri-
-mitives Lager zurück, venn jeder Bazar hat auch Naſtſtätten,
-die an Fremde; natürlich nur Eingeborene, al3 die wir ja
+Wir zogen uns lange nach Mitternacht auf unser primitives
+Lager zurück, denn jeder Bazar hat auch Naststätten,
+die an Fremde; natürlich nur Eingeborene, als die wir ja
 galten, vermietet werden.
 
-Als wir nun auf dem ärmlichen PritſFenbett ruhten,
-e3 iſt immer aus Hanſſeilen gefnüpſt und nur mit einer
-bünnen Baumwollde>e verſehen, ſagte Harſt zu mir:
+Als wir nun auf dem ärmlichen Reisenden ruhten,
+es ist immer aus Hauslehrer geknüpft und nur mit einer
+dünnen Baumwolldecke versehen, sagte Harst zu mir:
 
-„Nun iſt Dir doch endlich ein Licht auſgegangen,
-Schraut!“
+»Nun ist Dir doch endlich ein Licht ausgegangen,
+Schraut!«
+
 <@pagebreak/>
-FDSSSISSEI2DES 97 000ES0ED0LDESoDS
+»T3a,« triumphierte ich, »der Zemindar hat Miß Wells
+entführt!«
 
-„T3a," triumphierte ich, „der Zemindar hat Miß Wells
-entführt!“
+»Du bist ein Esel,« lautete die verbläüssende Antwort,
+Ich schwieg getränkt. Turmuhr spielen und sich dann roch
+einen Chef nennen lassen, sah ging beinahe über die Freund-djait
+»Jedenfalls werden wir morgen als Gaukler dem Fest
+des Zemindar beiwohnen,« entschied Harst. »Du wirst einen
+Kontrast lägen spielen, den Frauen die Zukunft sagen und
+so Zutritt zu ten Frauengemächern des Zemindar erhalten.«
 
-„Du biſt ein Eſel," lautete die verbläüſſende Antwort,
-I< ſchwieg gelträntt. Cunuche ſpielen und ſich dann r0<
-einen Clel neunen laſſen, 5as ging beinahe über die Freund-
-djait
-| „Jedenfalls werden wir morgen als Gaukler dem Feft
-des Zcmindar beiwohnen,“ entſchied Harſt. „Du wirft einen
-Kartenjd läger ſpielen, den Frauen die Zukunit ſagen und
-ſo Zutritt zu ten Frauengeniüchern des Zemindar erhalten.“
+»Aha,« sagte ich, »sie stet also doch bei dem Alten!«
 
-„Aba,“ jagie ich, „ſie ſtet alſo doch bei dem Alten!“
+»bei dem Alten selbst nicht, aber nauürlich ist sie in den
+Häusern des Zemindar. Halte in den Frauengemächern
+ie Augen offen.: Nun schlafe.« —
 
-„Lei dem Ulten ſelbſt nicht, aber nauürlich iſt ſie in den
-Häuſern des Zemindar. Halte in den Frauengemächern
-ie Augen ofſen.: Nun ſchlafe.“ -
+Wer jemals auf einem aus Stricken geflochtenen Tonscherben
+gelegen hat der wird wissen, daß mein So krummer
+alles andere denn jäh war. Mit dem ersten Hahnenschrei
+waren wir auf und zogen nach dem Walde. Andere Eingeborene
+mit uns. Händler aus dem Bazar mit abgerichteteit
+Papageien, Zwergässchen, Süßigkeiten usw… die alle bei
+dem Fest ein Geschäft machen wollten.
 
-Wer jemals auf einem aus Stricken geflochtenen Prit-
-ſchenbett gelegen hat der wird wiſſen, vaß mein Sd lummer
-alles andere denn jüß war. Mit dem erſten Hahnenſchrei
-waren wir auf und zogen nach dem Walde. Andere Einge-
-borene mit uns. Händler aus dcm Bazar mit abgerichteteit
-Papageien, Zwergäſſchen, Süßigkeiten uſw., die alle bei
-dem Feſt ein Geſchäft machen wollten. |
+Die Besitzung des Zemindar war heute jedermann
+offen. Wir sahen Mrs, Thornton, und ich sagte ihr aus den
+Karten wahr, Ohre daß sie mich erkannte. Mr. Thornton,
+der Forstinspektor, sah ernst aus. Mr. Wells kummervoll.
+Aber auch der Zemindar, eine greise, gebieterische Er;Steigung,
+machte einen bekümmerten Eindruck. Sehr glücklich
+sahen die Hauptpersonen der Festgesellschaft nicht aus. Harst,
+der sich als Kristallwahrsager produzierte, zeigte mir den
+Sohn des Zemindar, einen jungen Mann mit finsteren,
+drohendem Gesicht. Der Reise Saolus war als Kranker
+unsichtbar.
 
-Die Beſitzung des Zemindar war heute jedermann
-oſſen. Wir ſahen Mrs, Thornton, und ich ſagte ihr aus den
-Karten wahr, ohre daß ſie mich erkannte. Mr. Thornton,
-der Forſtinſpektor, jah ernji aus. Mr. Wells kummervoll.
-Aber auch der Zemindar, eine greiſe, gebieteriſche Er;<ei-
-nung, machte einen befümmerten Eindruck. Sehr glücklich
-ſahen die Hauptperſonen der Feſtgeſellſchaft nicht aus. Harft,
-der ſich als Kriſtaliwahrſager produzierte, zeigte mir den
-Sohn des Zemindar, einen jungen Mann mit ſinſterem,
-drohendem Geſicht. Der Neſſe Saolus war als Kranker
-unſichtbar.
-
-Je ernſter die Hanptperſonen waren, je vergnügter
-war das Volk, das im Garten auf Koſten des reichen
-Grundherrn bewirtet wurde. * Die Hauptgeſellſchaſt ſpeifſte
-in einer großen, oſſenen Halle. Nach der Mahlzeit durſten
+Je ernster die Hauptpersonen waren, je vergnügter
+war das Volk, das im Garten auf Kosten des reichen
+Grundherrn bewirtet wurde. « Die Hauptgesellschaft speiste
+in einer großen, offenen Halle. Nach der Mahlzeit dursten
 <@pagebreak/>
-HSSSESPISDSSSS 28 DS20S0IDEISSSSTODE
+spie Frauen des Hauses in die Halle kommen und sich Gaukler,
+Echtwvertijänzer und Schlangenbeschwörer ansehen. Sie
+sicherten hinter ihren Schleier und ich fand mit meinen
+Karten sehr viel Anklang bei ihnen, Nachdem 1d) fast aller
+ewahrsagt und das Blaues vom Himmel herunieigelogen
+Mandate, zog ich mich in eine Ecke zurück. Zu essen hatte ich
+noch nichts erhalten, denn Harst jagte mich hin und her,
+tun zupfte mich jemaib an! Ärmel,
 
-pie Frauen ves Hauſes in die Halle kommen unb ſich Gaul-
-ler, Echtwvertijänzer und Schlangenbeſchivörer anſehen. Sie
-ſicherten hinter ihren Schleier und ich ſand mit meinen
-Karten ſehr viel Anklang bei ihnen, Nachdem 1d) ſaſt alley
-ewahrſagt und das Blaues vom Himmel herunieigelogen
-date, zog ich mich in eine E>e zurück. Zu eſſen hatte 1ch
-noch nichts erhalten, denn Harſt jagte mich hin und her,
-tun zupfte mich jemaib ant Aermel,
+wandte mich um. Eine Dienerin stand neben mir,
 
-3 wandte mich um. Eine Dienerin ſtand neben mir,
+»Damm in die Zenanas,« flüsterte sie, »und sagt uns
+Tienerinnein wahr.«
 
-„Fomm in die Zenanas,“ flüſterte ſie, „und ſags uns
-Tienerinnein wahr.“
+Trotz meines Vorortes müßte ich ihr folgen.
 
-Trotz meines Uppetites mäßte ich ihr ſolgen.
+Bald umanab mich eine ganze Horde Zwinger und alter
+Weiber, die alle von mir die Zukunft wissen wollten, ich aber
+versuchte einen Coup auf eigene Faust,
 
-Bald umanab mich eine ganze Horde juinger und alter
-Weiber, die alle von mir die Zuſunft wiſſen wollten, ich aber
-verſuchte einen Coup auf eigene Fauſt,
+Wo ist Ab!,« sagte ich, »der will ich zuerst wahrsagen,«
+er Erfolg war verblüffend, Zuerst Stille, dann tönte
+der auf:;«
 
-Wo iſt Abi,“ ſagte ich, „der wiil ich zuerſt wahrſagen,“
-er Grjolg war verblüjſenv, Zuerſt Stille, dann tönte
-der Nuſf: ; “
+»Ein Spion!
 
-„Ein Spion!
+Und nun fiel die ganze Gesellschaft Über mich her, Im
+Handumdrehen war ich gefesselt, ein Tuch um meinen Kopf
+gebunden und man schob, schleifte, stieß mich in ein Gemach,
+in das ich eingeschlossen wurde, Das Gemach war
+dunkel und doch hatte ich das Gefühl, es mit jemand zu
+teilen. Ein Seufzer klang neben mir.
 
-Und nun flel die ganze Geſellſ<haſt Über mich her, Im
-Handumdreken war ich geſeſſelt, ein Tuch um meinen Kopf
-gebunden und man ſc<ob, ſchleiſte, ſtieß mich in ein Ge-
-„mach, in das ich eingeſchloſſen wurde, Das Gemach war
-dunkel und doch hatte ich das Gefühl, es mit jeniand zu
-teilen. Cin Seuſzer flang neben nir.
+Wer ist da,« flüsterte ich, »hier ist ein guter Freund,«
 
-Wer iſt da,“ flüſterte ich, „hier iſt ein guter Freund,“
+Ein weiblicher Aufschrei erklang, und jetzt, da sich meine
+Augen an den Dampfer gotwöhnt hatten, erblickte ich plus
+einem Ruhebett eine junge Dame, die ich nach dem Bilde
+sofort erkannte …
 
-Ein weiblicher Auſſchrei erklang, und jetzt, da ſich meine
-Augen an den Dämnier gotwöhnt hatten, erblickte ich a1uf
-einem Ruhbebett eine junge Danie, die ich nach dem Bilde
-ſofort erkannte. .
+»Miß Wells,« flüsterte ich, »mein Freund und ich sind
+gekommen, Sie zu befreien,«
 
-„Miß Wells,“ ſtüſterte ich, „mein Freund und ich ſind
-gekommen, Sie zu beſreien,“
-
-Die Untwort war ein Shluchten und dann HENG ich
-zwei Hände, die die meinen ergriſſen. J< beruhigie das
-Mädä,cn, ſo gut ich es vermochte, erzählte ihr voii Harſt
-und mir und Mrs. Thborntons Beſuch. Dann berſchtete ſie,
-
--
+Die Antwort war ein Schluchten und dann Herz ich
+zwei Hände, die die meinen ergriffen. Ich beruhigte das
+Wachsen, so gut ich es vermochte, erzählte ihr von Harst
+und mir und Mrs. Thorntons Besuch. Dann berichtete sie,
 <@pagebreak/>
-EOIODSESSIELEES 25 SDLIAEHSSEESDIVES
+Ahnungslos war sie in eine wert gegangen. Saolus
+hatte sich nach den Bildern, die sich bei Wells, befanden,
+Weibe in die junge Engländerin verliebt und wünschte sie
+für seine Zenana zu besitzen. Da er einfach, daß der Brosche
+Forstmeister sei/um, dem schon seit Kindesbeinen verheirateten
+Bruder, nicht ur Nebenfrau geben würde, [o kommt
+er eilten du. lahmud, der entlassene Diener, war
+heimlich in seinen Dienst getreten und in seine Pläne eingeweiht
+worden, Sobald Renate ankam, sollte Mahmud
+sie entführen. Die Sache wurde beschleunigt durch die Telegramme,
+die Saolus, der bei Wells ein und aus ging, Abflug,
+Unkraut reiste dem jungen Mädchen entgegen und
+brachte sie in die Zenanas, statt zu ihrem Bruder,
 
-Mhnangsl08 war ſie in eine wert gegangen. Savlus
-haite ſich nach den Bildern, die ſich bei Wells, beſanden,
-Werbe iu die junge Engläirderin verliebt und wünſchte ſie
-ür jeine Zenana zu beſitzen. Da er einjah, daß der eng-
-ſche Forſimeiſter ſe i/um, dem ſchon ſeit Kindeöbeinen ver»
-heirateten Ziuver, nicht ur Nevenſrau geben würde, [o be-
-mt er eiiten ou. lahmud, der entlaſſene Diener, war
-eimlich in ſeinen Dienſt getreten und in ſeine Pläne ein-
-geweiht worven, Sobald Renate anfam, ſollte Viahmud
-ſie entſühren. Die Sache wurde beſchleunigt durch die Telc-
-ramnie, die Saolus, der bei Wells ein und aus ging, ab-
-fing, Mahnwud reiſie bem jungen Mädchen entgegen und
-brachte ſie in die Zenanas, ſtatt zu ihrem Bruder,
-
-' „Man hat mir kein Leid getan, Iich wurde im Gegenteil
-vie eine Königin behandelt. Aber ic war ungbüctlich und
-weinies viel. Täglich lam Saolus, ſprach mir von ſeiner
-Liebe, erſlchte meine Zuſiimmung, ſein Weib zu werden.
-Ih ſollie alles haben, was ich wünſchte, Aber ich mochte
+»Man hat mir kein Leid getan, sich wurde im Gegenteil
+die eine Königin behandelt. Aber ich war unglücklich und
+verriet viel. Täglich kam Saolus, sprach mir von seiner
+Liebe, erflehte meine Zustimmung, sein Weib zu werden.
+Ich sollte alles haben, was ich wünschte, Aber ich mochte
 ihn nicht und wollte zurück in die Freiheit und zu meinem
-Bruder. Plöbtlich aber blieb Saolus ſern. Seit acht Tagen
-iſt er nicht mehr bei niir geweſen. Auch ſind jevt die Diene-
-rinnen häßlich gegen mich und geben mir larges Eſſen.“
+Bruder. Plötzlich aber blieb Saolus sein. Seit acht Tagen
+ist er nicht mehr bei nur gewesen. Auch sind jetzt die Dienerinnen
+häßlich gegen mich und geben mir langes Essen.«
 
-„Saolus iſt krank," ſagie ich und empfand plötlich
-auh meine Lage als kritiſch. . Was nühte es, daß ich das
-junge Mädchen geſunden hatte. Daß wir nun zu zweien
-geſangen waren, war ein magerer Troſt| Meine ganze
-Hoſſyuug. war Harſt, der mich ſchon [ſo oſt herausgehauen
-und ſicher dieſe ganze Geſchichte von Anſang an durchſchaut
+»Saolus ist krank,« sagte ich und empfand plötzlich
+auch meine Lage als kritisch … Was möchte es, daß ich das
+junge Mädchen gefunden hatte. Daß wir nun zu zweien
+gefangen waren, war ein magerer Trost! Meine ganze
+Hoffnung. war Harst, der mich schon [so Ost herausgehauen
+und sicher diese ganze Geschichte von Anfang an durchschaut
 
-atte,
+hatte,
 
-Die Stunden vergingen. Draußen tobte das Geräuſch
-des Feſtes. Sicher war es ſchon Nacht. Plöthlich wurde die
-Tür auſgeſchloſſen, Lichiſchein ſiel herein und zu meiner
-Verblhſſung traten dex Zemindar und == Harſt ins Gemach.
+Die Stunden vergingen. Draußen tobte das Geräusch
+des Festes. Sicher war es schon Nacht. Plötzlich wurde die
+Tür ausgeschlossen, Lichtschein fiel herein und zu meiner
+Verblhssung traten der Zemindar und — Harst ins Gemach.
 
-„Dein Kriſtall ja richtig wahrgeſagt, rembvder,“ ſagie
-der Zeminbar gemeſſen, „aber iG bin ſchuldlos an dieſem
-Vorbrechen meines Neſſen, den ieh nach Gebühr gceſtraſt
+»Dein Kristall ja richtig wahrgesagt, rembvder,« sagte
+der Zemindar gemessen, »aber ich bin schuldlos an diesem
+Verbrechen meines Felsen, den ich nach Gebühr gestraft
 <@pagebreak/>
-22.2200DE02020200I20 30 DSS00005 0808000
+habe. Schläge heraus er von dieser meiner Hand und dann
+habe ich ihn eingesperrt und hungern lassen.«
 
-have. Schläge befami ex von dieſer meiner Hand und dann
-habe ich ihn eingeſperrt und hungern laſſen.“ |
+»Geben Sie ihn frei, Zemindar,« sagte Harst ruhig,
+»senden Sie ihn zu seiner indischen Gattin und lassen Sie
+ihn im Hause seines Schwiegervaters.«
 
-„Geben Sie ihn ſrei, Zemindar,“ ſagte Harſt ruhig,
-„ſenden Sie ihn zu ſeiner indiſchen Gattun und laſſen Sie
-ihn im Hauſe ſeines Schwiegervater3.“
+»Das will ich tun.: Er wird dort eine herrschsüchtige
+Schwiegermutter finden, der er dienen muß.«
 
-„Das will ich iun.: Er wird dort eine herrſc<ſüchtige
-Schwiegermutter ſinden, der er dienen muß.“
+»Straße genug für einen jungen Mann,« lächelte Harst,
+»ich kann Ihnen den Vorwurf nicht ersparen, Zemindar,
+daß Sie die junge Dame nicht sofort ihrem Bruder zugeführt
+haben!«
 
-„Straſe genug für einen jungen Mann,“ lächelte Harſt,
-„iH kann Ihnen den Vorwurf nicht erſporen, Zemindar,
-daß Sie die junge Dame nicht ſoſort ihrcm Bruder zuge-
-führt haben!“
+»Bedenke die Stunde, Fremder,« rief der Zemindar
+mit zitternder Stimme, »Schande für mich, für mein ganzes
+Haus ist die Tat meines reisen. Wahrlich, er soll noch einmal
+Prügel betreten von meiner Hand!«
 
-' „Bedenfe die Shande, Fremder,“ rief der Zemindar
-mit zitternder Stimme, „Schande jür mich, für mein ganzes
-' Haus iſt die Tat meines Neiſen. Vahrlich, er ſoll noch ein-
-mal Prügel bezieten von meiner Hand!“ |
+»Das kann nichts schaden,« sagte H«.oft gelassen. »Nun,
+Miß Wells. das Ende Ihrer Gefangenschaft ist gekommen.
+Ich denke, Sie werden diesem alten Gentleman Ihre Verzeihung
+geben und Mr. Saolus nochmals eine Tracht gönnen.
+Und Du, Schraut, hast Dich wieder in eine Patsche gebracht.
+wir kommst Du hierher?«
 
-„Das kann nichts ſchaden,“ ſagte H«.cſt gelaſſen. „Nun,
-Miß Wells. das Cnde Ihrer Gefangenſchaft iſt gekommen.
-Ih denke, Sie werden dieſem alten Gentleman Zhre Ver-
-zeihung geben und Mr. Saolus nochmals eine Tracht gön-
-nen. Und Du, Ehraut, haſt Dich wieder in eine Patſche ge-
-bracht. Wic kommſt Du hierher?“
+— »Ich wollte Ab! wahrsagen.«
 
-- „Ich wollte Abi wahrſagen.“
+»du bist ein Elefant im Porzellanladen, lieber Alter.
+Ab! war der verkleidete Saolus selbst und die Dienerinnen
+wußten das natürlich durch Mahmuds Plaudereien. als
+ich dem Zemindar unter vier Augen aus der Graslager die
+Anwesenheit einer jungen Engländerin in seiner Zenana
+weissagte, ergriff er die Gelegenheit mir sein Herz zu erleichtern.«
 
-„DU biſt ein Eleſant im Porzellanladen, lieber Alter.
-Abi war der verkleidete Saolu3 jelbſt und die Dienerinnen
-wußten das natürlich durh Mahmuds Plaudereien. YAl3
-ich dem Zemindar unter vier Augen aus der Glas8kugel die
-Anweſenheit einer jungen Engländerin in ſeiner Zenana
-weisſagte, ergriſſ er die Gelegenheit mir ſein Herz zu er-
-leichtern.“ | ' |
+»und Mr. Wells,« sagte der Alte ängstlich, »er Wirte«
+in seinem Zorn mein Haus verfluchen, er wird mir die —
+englische Polizei schicken und meine Schande wird. groß
+sein im Lande.«
 
-„und Mr. Wells,“ ſagte der Alte ängſtlich, „er wirte“
-in ſcinem Zorn mein Haus verfluchen, er wird mir die -
-engliſche Polizei ſchicken und meine Schande wird. groß
-ſein im Lande.“
-
-„>y werde mit Mr. Wells jprecen und er wirv nichts
-vergleichen tun, Zemindar. Nun laſſen Sie indiſche Gewän-
+»cky werde mit Mr. Wells sprechen und er wird nichts
+vergleichen tun, Zemindar. Nun lassen Sie indische Gewänder
 <@pagebreak/>
-2d202020202020222 51 020020202002020225
+für die junge Dame verfolgen und dann wollen wir
+geben …
 
-ver für die junge Dame vriintgen und dann wollen wir
-geben. . .
+Der Zemindar ging und brachte selbst nach einiger Zeit
+ein prachtvolles, indisches Frauenkleid. Harst war Miß
+Wells behilflich es überzuwerfen. Als wir gehen wollten,
+stand der alte Mann mit geneigtem Haupte vor dem jungen
+Mädchen. In seiner Rechten hielt er ein seidenes Tuch.
 
-Der Zemindar ging und brachte ſelbſt nach einiger Zeit
-ein prachtvolles, indiſches Frauenkleid. Harſt war Miß
-Wells behilflich es ükerzuwerfen. Al8 wir gehen wollten,
-ſtand der alte Many mit geneigtem Haupte vor dem jungen
-Mädchen. In ſeiner Ncehten hielt er ein ſeidene8 Tuch.
+»Fremde,« sagte er zitternd, »Übel ist Dir mitgespielt
+worden in diesem Lande,!ich bitte um Deine Vergebung
+für mich und mein Haus. Nimm Dies und trage es zum
+Andenken an« Zemindar Sack und zum Zeichen Deiner
+je Du Ich nahm es selbst aus meiner Schatzkammer
+für Dich.«
 
-„Fremde,“ ſagte er zitternb, „Übel iſt Dir mitgeſpielt
-worden in dieſem Lande, |< vitte um Deine Vergebung
-für mic< und mein Haus. Nimm Dies und trage e3 zum
-Andenken an“ Zemindar Saoli und zum Zeichen Deiner
-fe Di Ich nahm es ſelbſt aus meiner Schaßkammer
-für Dich.“
+Er schlug das Tuch Miteinander. Auf der Seide
+glänzte eine köstlich geschliffene raschelte von hohem Wert.
+Miß Wells wollte das Geschenk nicht annehmen, es schien
+zu kostbar.! …
 
-Er ſchlug das Tuch aiseinander. Auf der Seide
-glänzte eine köſtlich geſchliſſene Javekette von hohem Wert.
-Miß Wells wollte das Geſchenk nit annehmen, e3 ſchien
-zu koſtbar. | .
+»Nehmen Sie es, Miß WelÜ38, sonst kränken Sie den
+ne Mann, der es auf seine Weise gut mit Ihnen gemeint
 
-„Nehmen Sie es, Mik WelÜ38, ſonſt kränken Sie den
-ae Mann, der es auf ſeine Weiſe gut mit Ihnen gemeint
+alt.«
 
-at.“ |
+Der Alte legte ihr selbst den Himmel um den Nacken
+und zog den Frauenschleier vor ihr Angesicht. — — —
 
-Der Alte legte iyr jelbſt ben S«imu> um den Nacken
-und zog den Frauenſc<leier vor ihr Angeſicht. --- -- --
+das Fest war zu Ende und Mrs. Thornton, ihr Gotte
+und Mr. Wells nach dem Lager des Forstmeisters zurückgekehrt.
+Wir folgten auf drei Pferden, die uns der Zemindar
+gab. Wir ritten durch den schweigenden Wald, und es
+war nach Mitternacht, als wir im Forstlager ankamen.
+Diener führten uns in das Zelt der Thorntons, wo diese
+mit Wells bei einer späten Tasse Tee saßen. Unser Eintritt
+war dramatisch, voran niemand erkannte uns. Erst als
+Harst Miß Wells’ Schleier zurückschlug, stießen der Forstmeister
+und Mrs, Thornton einen Schrei aus,
 
-Da38 Feſt war zu Ende und Mrs. Thornton, ihr Gotte
-und Mr. Well8 nach vem Lager des Forſimeiſters zurück-
-gekehrt. Wir folgten auf dret Pferden, die un3 der Zemin-
-dar gab. Wir ritten durch den ſchweigenden Wald, und es
-war nach Mitternacht, al8 wir im Forſtlager ankamen.
-Diener führten un3 in vas Zelt der Thornton83, wo dieſe
-mit Wells bei einer ſpäten Taſſe Tee ſaßen. Unſer Eintritt
-war dramatiſch, dvenn niemand erkannte uns. Erſt als
-Harſt Miß Well8' Schleier zurü>ſchlug, -ſtießen der Forſt-
-meiſter und Mrs, Thornton einen Schrei au3,
+Dann gaben Harst und ich uns zu erkennen. Wasser
+wilde gebracht, unsere Schminke abgewaschen und das
+Abenteuer erzählt. Endlich, endlich bekam!ich auch etwas
+ist essen! Halbverhungert war ich.
 
-Dann gaben Harſt und ich uns zu erkennen. Waſſer
-wirde gebracht, unſere Schminke abgewaſchen und das
-Abenteuer erzählt. Endlich, endlich belam |< auch etwas
-it eſſen! Halbverhunaert war ih. |
 <@pagebreak/>
-DSSSSSSSSDSS 329 2DSSSSSSESSSSS
+Mr. Wells war sehr ausgebracht und wollte die Angelegenheit
+nicht ohne weiteres ruhen lassen. über Fuß Wells
+bat um des Alten wissen um Schwelgen Und Harst nahm
+den fanden Mann abseits und sagte ernst:
 
-Mr. Wells war ſehr auſgebracht und wollte die Ange-
-legenheit nicht ohne velteres ruhen laſſen. Uber Vtiß Welis
-bat um des Alten wilſen um Schwelgen Und Harſt nahm
-ben junven Mann abſelts und ſagte ernſt:
+»Lassen Sie die Geschichte ruhen, Mr. Wells: wenn es
+an die Öffentlichkeit kommt, daß Ihre Kneifer wochenlang
+in einer indischen Zenana gelebt hat, so wird das
+ihrem Fünf schaden. Wie Sie sei en« ist  e wohl und munter
+und das Neuegeschent des Herr ndar ist geradezu Art
 
-„Laſſen Sie die Geſchichte ruhen, Mr. Wells: wenn es
-an die Oeſſentlichkeit kommt, daß Jhre E weſier wocen-
-fang in einer indiſchen Zenana gelebt hat, ſo wird das
-ihrem Nüuſ ſchaden. Wie Sie ſey en" iſt % e wohl und munter
-und das Neuegeſchent des Seri ndar iſt geradezu Mrd
+Lange noch saßen wir auf und unterhielten uns im
+iüstertone über Miß Wells’ seltsames Abenteurer,
 
-Lange noc< ſaßen wir auf und unterhlelien uns im
-iüſtertone über Miß Wells' ſeltſames Abententer,
+Rosa
 
-Paia
 <@pagebreak/>
-0600222222222 33 0020202022022 200
-
-v
-
 Der Rubin des Tigergottes.
 
-Liebe Leſer und Freunde, alſo um ec8 gleich vorweg zu
-ſagen, wir, Harald Harſt und ich, ſein Sekretär und Ge-
-bilſe Max Schraut, wir beide rückten in die Reſidenz des
-Fürſten von Malewe ein wie die Vagabunden!
+Liebe Leser und Freunde, also um es gleich vorweg zu
+sagen, wir, Harald Harst und ich, sein Sekretär und Gehilfe
+Max Schraut, wir beide rückten in die Residenz des
+Fürsten von Malewe ein wie die Vagabunden!
 
-Nacyvem wir nach einem wirklic) harmloſen Aben-
-teuer unſere Freunde Thornton und die Geſchwiſter Well8
-glücklich vereint verlaſſen hatten, machten wir uns auf den
-Weg. Enuropäerkleider hatken wir nicht, denn die reiſten
-[Hon per Oclſenpoſt zum Palaſt des Fürſten ſamt unſeren
-Koſſern. Wir ſtrichen uns alſo da38 Fell, wie man beim
-Theater ſagt, abermals braun an, hingen unſere indiſchen
-Gewänder um und machten un38 im buchſtäblihen Sinne
-de3 Wortes auf die Sohlen. Da3 einzige, was |< bei Harſt
-erzielte, war, daß ich meine eunuchiſchen Kaſtenabzeichen
-una 'die Weiberarmbänder weglaſſen durfte! Immerhin
-eine kleine Verbeſſerung!
+Nachdem wir nach einem wirklich harmlosen Abenteuer
+unsere Freunde Thornton und die Geschwister Wells
+glücklich vereint verlassen hatten, machten wir uns auf den
+Weg. Enuropäerkleider hatten wir nicht, denn die reisten
+[Goa per Ochsenpost zum Palast des Fürsten samt unseren
+Koffern. Wir strichen uns also das Fell, wie man beim
+Theater sagt, abermals braun an, hingen unsere indischen
+Gewänder um und machten uns im buchstäblihen Sinne
+des Wortes auf die Sohlen. Das einzige, was!ich bei Harst
+erzielte, war, daß ich meine eunuchischen Kastenabzeichen
+nun ’die Weiberarmbänder weglassen durfte! Immerhin
+eine kleine Verbesserung!
 
-Die Sonne des ſrühen Tages ſand uns auf der Land-
-ſtraße in der Richtung nach Malewe, das an den Dargilew-
-bezirk grenzt. Wir traſen einen Ekkakutſcher, der ebenſall8
-zur Reſidenz fuhr, denn wenn ein indiſcher Radſc<ha eine
-„vurrha thana“ (großes Feſt) gibt, ſo eilen alle Leute au3
-der Umgegend herbei, teil3z um ſich ſelbſt zu verluſtieren,
-teil3 um Geſchäfte zu machen, teils um-al3 Feuerwerker
-tätig zu ſein, denn kein indiſche8 Feſt iſt ohne Abbrennen
-von Raketen und anderen -Feuerwerl8körpern denkbar.
+Die Sonne des früher Tages fand uns auf der Landstraße
+in der Richtung nach Malewe, das an den Dargilewbezirk
+grenzt. Wir traten einen Ekkakutscher, der ebenfalls
+zur Residenz fuhr, denn wenn ein indischer Radscha eine
+»darein klang« (großes Fest) gibt, so eilen alle Leute aus
+der Umgegend herbei, Weibes um sich selbst zu verlustieren,
+teilte um Geschäfte zu machen, teils um-al3 Feuerwerker
+tätig zu sein, denn kein indisches Fest ist ohne Abbrennen
+von Raketen und anderen -Feuerwerkskörpern denkbar.
 
-Det. 189. 2
 <@pagebreak/>
-BSDSSSS0SSHSISSDG 34 DESBDBSEDBBS SD
-
-Unſer Ekkakutſcher ſ<loß mit uns Freundſchaft und
-zwar auf Grund von Harſt8 weisſagenvem Kriſtall, aus
-welchem dem Kutſcher eine glüdliche Zukunft, Reichtum und
+Unser Ekkakutscher schloß mit uns Freundschaft und
+zwar auf Grund von Harsts nichtssagendem Kristall, aus
+welchem dem Kutscher eine glückliche Zukunft, Reichtum und
 zahlreiche Nachkommen prophezeit wurden. Zum Dank für
-vie ſchöne Prophezeiung erbot er ſich, uns in ſeiner Ekka
+die schöne Prophezeiung erbot er sich, uns in seiner Ekka
 mit nach Malewe zu nehmen.
 
-Gott ſei Dank! Ich brauchte alſo den Weg nicht gänz-
-lich zu Fuß: zu machen!
+Gott sei Dank! Ich brauchte also den Weg nicht gänzlich
+zu Fuß: zu machen!
 
-Nun will ich einſchalten, was eine Ekka ift. Alſo, ein
-ziemlich vorſintſlutlicher Karren mit zwei Ponys beſpannt,
-die meiſt von guter Naſſe ſind und ſix ausgreiſe't. Dieſk
+Nun will ich einschalten, was eine Ekka ist. Also, ein
+ziemlich vorsintflutlicher Karren mit zwei Ponys bespannt,
+die meist von guter Nasse sind und fix ausgreise’t. hielt
 Ponys tragen nach eingeborener Sitte immer. am Kopf oder
-Hals blauen Glasperlenzierat, der ſie nach Meinung ihrert
-Veſiter gegen den böſen Blik und Verhexung ſ[<übtt.
+Hals blauen Glasperlenzierat, der sie nach Meinung ihrer!
+weiter gegen den bösen Blick und Verhexung s[hält.
 
-Am Abend unſerer Fahrt rückten wir auf unſerem
-Ponygeſpann in Maſewe ein. Tie Stadt war wegen des
-Radſchafeſtes in Auſregung, e8 herrſchte großer Betried.
+Am Abend unserer Fahrt rückten wir auf unserem
+Ponygespann in Malewe ein. die Stadt war wegen des
+Radschafestes in Aufregung, es herrschte großer Betrieb.
 
-Wir landeten mit unſerem Kutſcher al8 ſhäMNge Einge-
-borene im Karwanr (Unterkunftsſiätte) ves Bazars. Wenn
-ich gedacht hutte, daß ſich Harſt mit mir nun ſoſort auf den
-Weg z1 m Palaſt machen und uns bei dem Fürſten als ein-
-geladene und geehrte Gäſte präſentieren würde, ſo ſah 1HßH
-mich bitter getäuſcht. Wie ſchon oſt beſtellte Harſt ein Mahl
-von ber Garfüche, es war Kohl, Hammelſleiſc> und Reis,
-ſud unſeren Kutſcher dazu ein und ließ ſich mit allen mög-
-lichen Eingeborenen in ein Geſpräch ein. |
+Wir landeten mit unserem Kutscher als Blamage Eingeborene
+im Antwort (Unterkunftshaus) des Bazars. Wenn
+ich gedacht hatte, daß sich Harst mit mir nun sofort auf den
+Weg h1 in Palast machen und uns bei dem Fürsten als eingeladene
+und geehrte Gäste präsentieren würde, so sah 1HßH
+mich bitter getäuscht. Wie schon Ost bestellte Harst ein Mahl
+von der Garküche, es war Kohl, Hammelfleisch und Reis,
+Absud unseren Kutscher dazu ein und ließ sich mit allen möglichen
+Eingeborenen in ein Gespräch ein.
 
-Nach dem Eſſen wurde ic topmüde unb entſ<hlummerte
-auf einer Wolldeke im Schatten eine8 Kamels.Z/
+Nach dem Essen wurde ich Vermute und entschlummerte
+auf einer Wolldecke im Schatten eines zumeist
 
-Ih weiß nicht mehr, wie lange ich geſchlafen hatte.
-Jedenſalls wurde ich plöblich durc) Harſt getwedt,
+Ich weiß nicht mehr, wie lange ich geschlafen hatte.
+Jedenfalls wurde ich plötzlich durch) Harst gedacht,
 
-„Auf,“ ſagte er, „wir machen uns anf den Weg zum
-Valafte.“ .
+»Auf,« sagte er, »wir machen uns auf den Weg zum
+Palaste.« …
 
-„Mitten in der Nacht," ſagte ic) ärgerlich. !
+»Mitten in der Nacht,« sagte ich ärgerlich.!
 
-„Heimlich und mitten in der Nachk," entgegnete er, „ich
-habe allerlei Intereſſantes erfahren. Komm'.“
+»Heimlich und mitten in der Nacht,« entgegnete er, »ich
+habe allerlei Interessantes erfahren. Komm’.«
+
 <@pagebreak/>
-DSSSEESISSSSS 325 SES90SES0ELHIDIISN
+Ich aushorchte, ermunterte mich vollends und folgte
+meinem Freunde …
 
-IH gaehor<te, erniunterte mig vollend3 und ſolate
-meinem Freunde. .
-
-In der Stadt Malewe herrſchie noF& volles Leben.
-Niemand ſchien in der Nacht vor vem Feſi an Schlaſ zu
-venten. Der Palaſt ves Fürſten, öſtlich an die Stadt gren-
-zend, war mit dieſer durc; ausgedehnie Tempelgebäude
+In der Stadt Malewe herrschte rote volles Leben.
+Niemand schien in der Nacht vor dem Fest an Schlag zu
+denken. Der Palast des Fürsten, östlich an die Stadt grenzend,
+war mit dieser durch; ausgedehnte Tempelgebäude
 verbunden,
 
-Der Weg dorthin war nicht weit und Harſi erzählte
-„mir unterwegs einiges von dem, was er von den Einge-
-borenen erfahren hatte.
+Der Weg dorthin war nicht weit und Harst erzählte
+»mir unterwegs einiges von dem, was er von den Eingeborenen
+erfahren hatte.
 
-„Obre zu. Der Fürſt von Malewe iſt ein ſ&hwacher
-und energieloſer Mann. Ex iit gutmiäültig wie alle Schwäcd-
-Inge und dem Ganiagenuſſe ergeben.“
+»Ohre zu. Der Fürst von Malewe ist ein schwacher
+und energieloser Mann. Er ist gutmiäültig wie alle Schwächlinge
+und dem Ganjagenusse ergeben.«
 
-(Ganja, eine Hanfpflanze, deren Wirkungen unſerem
-Alkohol verwandt ſind.)
+(Ganja, eine Hanfpflanze, deren Wirkungen unserem
+Alkohol verwandt sind.)
 
-- „yDer Ganjagenuß,“ fuhr Harſt ſort, „hat die Geſund-
-heit des Fürſten, der bei ſeinem Volte übrigens beliebt iſt,
-untergraben. Gegen den Fürſten beſicehen zwei Strömun-.
-gen. Die eine geht aus von ſeiner Hauptſrau namens Saba,
-die andere von ſeinem Vetter Dandus., Dandu3 ſpekuliert
-auf den Fürſtenthron, zumal der Fürſt keine männlichen Lei-
-bederben hat. Saba hat ſich in Dandus verliebt und macht
-mit ihm gemeinſame Sache. Die Intrigen ſcheinen ziemlich
-übler Art zu ſein und bedrohen tvahrſcheinlich das Leben
-des Fürſten. Das Voli zvürde nur ſehr ungern Dandus al3
-Herrſcher ſehen, da ex ein harter, grauſamer Charakter ſein
-ſol. Bon den Intrigen weiß natürlich alle Welt, nur der
-Fürſt ſelbſt nicht. Er iſt zu barmlos dazu. Wir werden nun
-ſehen, was wir ſür ven Nadſcha tun lönnen. Jedenſalls
-werden wir noch heute nacht in dei: Palaſt eindringen und
-morgen früh wie zwei vom Himmel Geſallene vor dent
-Radſcha ſtehen. Das wird unſerem Auftreten etwas verz
-blüſſend Ueberirdiſches geben.“
+— »Aden Ganjagenuß,« fuhr Harst fort, »hat die Gesundheit
+des Fürsten, der bei seinem wollte übrigens beliebt ist,
+untergraben. Gegen den Fürsten beziehen zwei Klärung-.
+gen. Die eine geht aus von seiner Hauptfrau namens Java,
+die andere von seinem Vetter Dandus… Dandus spekuliert
+auf den Fürstenthron, zumal der Fürst keine männlichen Lei-bederben
+hat. Java hat sich in Dandus verliebt und macht
+mit ihm gemeinsame Sache. Die Intrigen scheinen ziemlich
+übler Art zu sein und bedrohen wahrscheinlich das Leben
+des Fürsten. Das soll spürte nur sehr ungern Dandus als
+Herrscher sehen, da er ein harter, grausamer Charakter sein
+so!. von den Intrigen weiß natürlich alle Welt, nur der
+Fürst selbst nicht. Er ist zu harmlos dazu. Wir werden nun
+sehen, was wir für den Radscha tun können. Jedenfalls
+werden wir noch heute nacht in bei: Palast eindringen und
+morgen früh wie zwei vom Himmel Gefallene vor den!
+Radscha stehen. Das wird unserem Auftreten etwas wert
+brüllend Überirdisches geben.«
 
-„Wie vtiliſt Du denn das machen?“ ſragte ich mißs=
-trauiſch.
+»Wie Antlitz Du denn das machen?« fragte ich mißtrauisch.
 <@pagebreak/>
-DSODSSSTESSSSSS 36 0000 LDE020I0O202
-„Das wirſt Du ſchon ſchen. Die Sache iſt ganz ein-
+»Das wirst Du schon sehen. Die Sache ist ganz ein
 
-fach.“
+Fach.«
 
-Es3 war das alte Lied. Wo ich Schwierigkeiten ſah, er-
-ſchien Harſt die Sache einſach. '
+Ehe war das alte Lied. Wo ich Schwierigkeiten sah, erschien
+Harst die Sache einfach.
 
-Wenn ich geglaubt hatte, der Palaſt läge in nächtlicher
-Ruhe, ſo ſah ich mich getäuſcht. Tie Tore ſtanden oſſen,
-der Ho] ſc<hwirrte von Dienern, die eine Galabeleuchtung
-von Tauſenden von Kerzen auf ihre Wirkſamkeit probier-
-ien. Viele Neugierige drängten ſich herum, Wir zählten
-dazu. Cin ſchwathaſter Diener geſellte ſi zu uus und
-wurde .durc4 Harſt3 weisſagendes Kriſtall geködert. Im
+Wenn ich geglaubt hatte, der Palast läge in nächtlicher
+Ruhe, so sah ich mich getäuscht. die Tore standen offen,
+der so] schwirrte von Dienern, die eine Galabeleuchtung
+von Tausenden von Kerzen auf ihre Wirksamkeit arabischen.
+Viele Neugierige drängten sich herum, Wir zählten
+dazu. Ein schwatzhafter Diener gesellte sich zu uns und
+wurdedurc4 Harsts weissagendes Kristall geködert. Im
 Verlaufe der Unterhaltung erzählte uns der Diener von der
-Ankunft zweier berühmter Curopäer und erbot ſich, un3
-die Gemächer dieſer Fremden zu zeigen.
+Ankunft zweier berühmter Europäer und erbot sich, uns
+die Gemächer dieser Fremden zu zeigen.
 
 Wir markierten brennende Neugier und bekamen bald
-unſere eigenen Zimmer zu ſeben. Unſere Lederkoſſer, ſür
-ven indiſcken Bedienten offenbar eine Sehenswürdi-jlzit,
-ſianden ſan da. SiaGdcem wir alles gebührend bewundert
-tatten, ftehrten wir mit unjerem Führer in den Hof zurück,
-ium uns unter die Neugierigen zu begeven. Aber nicht für
-lange. Daun cntfernten wir uns. Harſt kletterte an den
-Verandenvorſprüngen zu unſeren Zimmern hinauf und ich
-“folgte aim “
-“" ſagte er, „Du wirit nun wiſſen, was id will.
-Moräea erjcheinen wir von dieſen Zimmern aus in euro-
-päiſcher Toilette-vpor dem Fürſten und den Seinen.“
+unsere eigenen Zimmer zu sehen. Unsere Lederkoffer, für
+den indischen Bedienten offenbar eine Sehenswürdigkeit,
+standen van da. trotzdem wir alles gebührend bewundert
+gestatten, stellten wir mit unserem Führer in den Hof zurück,
+Präsidium uns unter die Neugierigen zu begeben. Aber nicht für
+lange. dann entfernten wir uns. Harst kletterte an den
+Verandenvorsprüngen zu unseren Zimmern hinauf und ich
+»folgte arm«
+» sagte er, »Du wirst nun wissen, was ich will.
+Morgen erscheinen wir von diesen Zimmern aus in europäischer
+Toilette-vpor dem Fürsten und den Seinen.«
 
-„Gemach,“ ſagte ich verblüſſt, „wollen wir nun nicht
+»Gemach,« sagte ich verblüfft, »wollen wir nun nicht
 
-ſchlafen gehen?“ :
--+>%* „Fein Gedanke, lautete die Aniwort, „wir werden
-ins heute nacht im: Palaſt umtun. Oder,“ ſügte er Über-
-legend hinzu, „es iſt beſjer, ich mache mich allein auf meine
-Spionagetour.“
+schlafen gehen?«
+—ck» »Fein Gedanke, lautete die Antwort, »wir werden
+ins heute nacht im: Palast umtun. Oder,« fügte er Überwiegend
+hinzu, »es ist besser, ich mache mich allein auf meine
+Spionagetour.«
 
-„Aber vielleicht kaun im Dir nütlich ſein, Harald,“
-wandte ich ein. '
+»Aber vielleicht kann im Dir nützlich sein, Harald,«
+wandte ich ein.
 
-„Nein, nein, es iſt wirklich beſſer, Du bleibſt dier. Ih
-kann mich allein unauffälliger bewegen.“
+»Nein, nein, es ist wirklich besser, Du bleibst der. Ich
+kann mich allein unauffälliger bewegen.«
+
 <@pagebreak/>
-PFASDSOSDISOBDISIOSS 37 S0 00 SDISISESISOSG
+Ich wußte nun, daß Einspruch zwecklos war. Haust
+verfolgte einen bestimmten Plan. Das war gewiß. Ich
+entkleidete mich also im Dunkeln und suchte mein Lager
+auf, während Harst, geräuschlos wie ein Schatten, bereits
+unser hinunter verlassen hatte.
 
-I< wubte nun, daß CEinſyruch zwecklo8 war. Hauſt
-verfolgte einen beſtimmten Plan. Das war gewiß. ZJ
-'enttlcidete mich alſo im Dunkeln und ſuchte mein Lager
-auf, während Harſt, geräuſ<lo3 wie ein Schatten, bereits
-unſer Zimmuier verlaſſen hatte. |
+Wann er zurückkehrte, weiß ich nicht. Er wette mich,
+als schon die Sonne in unsere Gemächer schien. untere
+Koffer waren geöffnet, die Europäerkleidung lag bereit,
+wir wuschen unsere braune Haut weiß und waren in kurzem
+fertig. an
+»Das Frühstück wird in der großen Halle eingenommen,«
+sagte mir Harst, »komm’ jetzt, ich freue mich auf die
+Gesichter, die alle über unser Erscheinen. machen werden.«
 
-Wann er zurückkehrte, weiß ich niht. Er wecte mich,
-al3 ſchon die Sonne in unſere Gemächer ſchien. Unjere
-Koffer waren geöffnet, die Curopäerkleidung lag bereit,
-wir wuſc<en unſere braune Haut weiß und waren in lurzem
-ſertig. nn
-„Das Frühſtück wird in der großen Halle eingenom-
-men,“ ſagte mir Harſt, „komm' jetzt, ih freue mics auf die
-Geſichter, die alle über unſer Erſcheinen. machen werden.“
+Unser Austritt war denn auch mehr wie dramatisch.
+Das Frühstück war nach indischer Sitte auf niedrigen
+Fischer serviert und wurde von den Teilnehmern aus
+Kissen hockend eingenommen. Anwesend waren nur Männer.
+Die Frauen hielten ihre Mahlzeiten nach indischen
+Sitte in den Zenanas (Frauengemächer). als wir eintraten,
+sprangen die Anwesenden vor Überraschung auf.
+Harst Straße sich und mich in seiner gelassenen, überlegenen
+Weise vor.
 
-Unſer Auſtritt war denn auch mehr wie dramaiiſch.
-Das Frübſtück war nach indiſ<er Sitte auf niedrigen
-Tiſchen ſerviert und wurde von den Teilnehmern auſ
-Kiſſen hockend eingenommen. Anweſend waren uur Män-
-ner. Die Frauen hielten ihre Mahlzeiten nach indii>er
-Sitte in den Zenanas (Frauengemächer). Al3 wir ein-
-traten, ſprangen die Anweſenden vor Ueberraichung auf.
-Harſt ſteäte ſich und mich in ſeiner gelaſjenen, überlegenen
-Weiſe vor.
+»Wie sind Sie hergekommen, Mr. Harst,« rief der Fürst
+verblüfft.
 
-„Wie ſind Sie hergekommen, Mr. Harſt,“ rief der Fürſt
-verblüſſt.
-
-„O, mir ſtehen geheimnisvolle Beſörderung5methoden
-zu Gebote,“ lautete die ruhige Antwort und Harſts Augen
-wanderten bedeutungsvoll im Kreiſe. Sie blicbein ſtreng
-auf einem jungen vornehm gekleideten Manne hafteu.
-Fürſt Malewe ſtellte ihn uns als ſeinen Verter Dandus
-vor. Er machte trotz ſeiner männlichen Schönheit keinen
-guten Eindruck auf mich. Härte, Verſi<lagenheit und Grau-
-[amteit ſprachen aus ſeinen Zügen. Dann wurden vir mit
-em Oberprieſter bekannt gemacht, dem Vorſteher des Tem-
-pel8 und Läüter ſeiner koſibaren Juwelen. Nepak empfing
-uns mißtrauiſch und zurückhaltend. Offenbar war er den
-weißen Beſuchern des Fürſten nicht wohlgeſiunt. Der Neihs
+»O, mir stehen geheimnisvolle Beförderungsmethoden
+zu Gebote,« lautete die ruhige Antwort und Harsts Augen
+wanderten bedeutungsvoll im Kreise. Sie Büchern streng
+auf einem jungen vornehm gekleideten Manne hatten.
+Fürst Malewe stellte ihn uns als seinen weiter Dandus
+vor. Er machte trotz seiner männlichen Schönheit keinen
+guten Eindruck auf mich. Härte, Versichlagenheit und Traum
+[anders sprachen aus seinen Zügen. Dann wurden wir mit
+ein Oberpriester bekannt gemacht, dem Vorsteher des Tempels
+und Läufer seiner kostbaren Juwelen. Nepak empfing
+uns mißtrauisch und zurückhaltend. Offenbar war er den
+weißen Besuchern des Fürsten nicht wohlgesiunt. Der Reihe
 <@pagebreak/>
-02 00S0SSSSESESES 38 SSSSSSE020-DFSHSDS
+n1ch4 lernten wir nun die Minister und sonstigen Untergebenen
+des Fürsten kennen, die uns infolge unseres ungewöhnlichen
+Auftretens mit einer heiligen Scheu ansahen.
 
-n1<4 lernten wir nun die Miniſter und ſonſtigen Unter-
-gcbenen des Fürſten kennen, die uns inſolge unſeres un-
-gewöhnlichen Auſtretens mit einer heiligen Scheu anſahen.
+Dann nahmen wir an dem Frühstück teil.
 
-Dann nahmen wir an dem Frühſtück teil.
+Nach dem Frühstück beorderte der Radscha seine Ganjapfeife,
+aber als ein Diener sie ihm brachte, nahm Harst sie
+ihn einflocht weg und sagte;
 
-Nach vem Frühſtück beorderte der Nadſcha ſeine Ganja-
-pſeiſe, aber als ein Diener ſie ihm brachte, nahm Hatft ſie
-ihn einjſach weg und ſagte;
+»Gas ist Ihrer Gesundheit schädlich, Fürst. Seien Sie
+ein Mann und bekämpfen Sie diese Gewohnheit.«
 
-„Ta8 iſt Ihrer Geſundheit ſchädlich, Fürſt. Seien Sie
-ein Mann und bekämpfen Sie dieſe Gewohnheit.“
+»JZ4 bin an das Rauchen gewöhnt,« widersprach er.
 
-„JZ4 bin an das Rauchen gewöhnt,“ widerſprach ex.
+»Gewohnheit ist die Entschuldigung der Schmächtige,«
+lautete die Antwort, »ein Starker bekämpft sie.«
 
-„Gewohnheit iſt die Entſchuldigung ver Shwächlinge,“
-lautete die Antwort, „ein Starker belämpft ſie.“
+Der Fürst schwieg, aber Nepal sagte ärgerlich:
 
-Der Fürſt ſchwieg, aber Nepat ſagte ärgerlich:
+»Es ist nicht statthaft, dem Radscha in seine 1 Liebhabereien
+zu stören.«
 
-„Cs iſt nicht ſtatihaft, dem Radſcha in ſeine 1 Liebhabe-
-teien zu ſtören.“
+»Es ist statthaft, wenn es zu seinem Besten geschieht,«
+antwortete Haust.
 
-„Cs iſt ſtatthaft, wenn es zu ſeinem Beſten geſchieht,“
-antwortete Hauſt.
+Weber das Antlitz des Fürsten aging ein Zucken. Man
+wußte nicht, nahm er Partei für Harst oder den Priester,
+Totengräber als ihm Dandus die Pfeife abermals reichte, stieß er
+sie zurück und sagte:
 
-Veber das Antlitz des Fürſten aging ein Zucken. Man
-wußte nicht, nahm er Partei für Harſt oder den Prieſter,
-äber als ihm Dandus die Pfſeiſe abermals reichte, ſileß ex
-ſie zurück und ſagte:
+»Die Spiele zu Ehren unserer Besucher sollen bei
+… gingen.«
 
-„Die Spiele zu Ehren unſerer Beſucher ſollen be-
-. ginnen.“ |
-
-Wir begaben uns in den geräumigen Hof des PalaſteZ3,
-wo die Site für die Zuſchauer aufgeſchlagen waren. Als.
-ic meine Blicke hob, ſah .ich auf den Galerien de38 Palaſtes
-die verſchleieriten Frauen, die von hier aus, und nicht in Ge-
-meinſchaft der Männer, den Spielen zuſchauten. Wir be-
-kamen Schwertkämpfer zu ſehen. Scdclanke, braune Knaben
-traten als Tänzer auf, Ringer auf jndiſche Manier trai-
-niert zeigten ſich. Es waren große, ſette Geſtalten, aber
+Wir begaben uns in den geräumigen Hof des PalasteZ3,
+wo die Sie für die Zuschauer aufgeschlagen waren. Als.
+ich meine Blicke hob, falsch auf den Galerien des Palastes
+die verschleierten Frauen, die von hier aus, und nicht in Gemeinschaft
+der Männer, den Spielen zuschauten. Wir bekamen
+Schwertkämpfer zu sehen. Scdclanke, braune Knaben
+traten als Tänzer auf, Ringer auf indische Manier trainiert
+zeigten sich. Es waren große, setzte Gestalten, aber
 von wunderbarer Beweglichkeit und Kraft. Der Schluß der
-Spiele war eine Senſation, denn Dandus produzierte ſich
-im Ringkampf mit einem 'abgerichteten Leopparder.
+Spiele war eine Sensation, denn Dandus produzierte sich
+im Ringkampf mit einem ’abgerichteten Leopparder.
 
-Tas war wirklich ein jc<önes Bild. Der kräſtige, junge
+las war wirklich ein schönes Bild. Der kräftige, junge
 <@pagebreak/>
-DSSSDSDSSSSSDSDED 39 VEDEBDEBVIVEDED
-
 Dandus war bis zum Gürtel nackt und der Leopard, auf
-ven Kampf gedrillt, nahm die Sache durchaus ernſt. Aber
+den Kampf gedrillt, nahm die Sache durchaus ernst. Aber
 Dandus blieb Sieger.
 
-Ein tkoſender Beiſall bracH lo38 und ich hörte von der
-Galerie her den begeiſterten Schrei einer Frauenſtimme, Ob
-Harſt ven Schrei vernahm, weiß i< nicht. Er ſchien ſich in
-ungewöhnlicher Weiſe fir den dreſſierten Leoparden des
-Dandus zu intereſſieren.
+Ein stehenden Beifall brach los und ich hörte von der
+Galerie her den begeisterten Schrei einer Frauenstimme, Ob
+Harst den Schrei vernahm, weiß ich nicht. Er schien sich in
+ungewöhnlicher Weise Dir den dressierten Leoparden des
+Dandus zu interessieren.
 
-Dandu8 batte ſeine Kleiber wteder angelegt und nahm
-nun bei uns Plaß.
+Dandus hatte seine Kleiber wieder angelegt und nahm
+nun bei uns Platz.
 
-" „Du haſt gut gekämpft," ſagte der Fürſt zu ſeinen
-etter.
+»Du hast gut gekämpft,« sagte der Fürst zu seinen
+Donnerwetter.
 
-„Niemand außer mir würde mit dem Leoparden
-kämpfen,“ lautete vie ſtolze Aniwort und 1< ſah, daß ſie den
-Fürſten verſtimmte,
+»Niemand außer mir würde mit dem Leoparden
+kämpfen,« lautete die stolze Antwort und ich sah, daß sie den
+Fürsten verstimmte,
 
-„Vielleicht ireſt Du," fagte er ärgerlich, . „auch 1<
-tönnte es.“ :
+»Vielleicht irrst Du,« sagte er ärgerlich, … »auch ich
+könnte es.«
 
-„Verſuchy'8,“" focverte Dandus heraus.
+»Versucht’s,« forderte Dandus heraus.
 
-„Es iſt unter ver Mürde ves Radſcha, den Tierkämpfſer
-zu ſpielen," ſagte Sarſt gemeſſen, „ſo tapfer er auch ſet.“
+»Es ist unter der Würde des Radscha, den Tierkämpfen
+zu spielen,« sagte Harst gemessen, »so tapfer er auch sei.«
 
-Ih ſah, daß dies Wort den Dandus in Wut verſetbte,
+Ich sah, daß dies Wort den Dandus in Wut versetzte,
 
-ber er beherrſchte ſich in Gegenwart des Fürſten und blieb
+der er beherrschte sich in Gegenwart des Fürsten und blieb
 
-ſumm. Sein Blik jedoch ſpraH Bände und von dieſem
-Augenbli> an gab iL für unſer Leben kein Anna (kleinſte
-indiſG<e Münze) mehr. -
+Damm. Sein Blick jedoch sprach Bände und von diesem
+Augenblick an gab iL für unser Leben kein Anna (kleinste
+indische Münze) mehr. —
 
-Am Nachmittag ſollten wir die Tempel beſichtigen, bi2
+Am Nachmittag sollten wir die Tempel besichtigen, by?
 dahin aber ruhen.
 
-Alg wir unſer Zimmer betraten, um das Übliche Bad
-zu nehmen und neue, weiße Anzüge anzuziehen, ſagte Harſi
+als wir unser Zimmer betraten, um das Übliche Bad
+zu nehmen und neue, weiße Anzüge anzuziehen, sagte Harst
 zu mir:
 
-„Nun, Schraut, ich denke, Du biſt im Bilde und weißt,
-was bier geſpielt wird.“ *-
+»Nun, Schraut, ich denke, Du bist im Bilde und weißt,
+was hier gespielt wird.««-
 
-„Gewiß,“ entgegnete ich ſtolz, „es beſteht eine Kama-
-eilſa gegen den Fürſten und zwar ſind Dandus und det
-Prieſter daran beteiltgt. Auch des Radſc<ha Gattin Saba.“
+»Gewiß,« entgegnete ich stolz, »es besteht eine Kama-eilsa
+gegen den Fürsten und zwar sind Dandus und de!
+Priester daran beteiligt. Auch des Radscha Gattin Java.«
+
 <@pagebreak/>
-DSSSSSSSSSSS 40 DSSSSSDSDSSSSD
+»Sehr richtig bemerkt. Und welche Rolle spielen wir
 
-„Sehr richtig bemerkt. Und welche Rolle ſpielen wir
+bei der Geschichte?«
+»Wir werden um die Exe gebracht,« bemerkte ich verliert.
 
-bei der Geſchichte?"
-| „Wir werden um die Exe gebracht," bemerkte ich depri-
-m ert.
+»Die Absicht besteht,« lachte Harst, »aber wir werden
+nur ins Gras beißen, wenn wir nicht aufpassen. Ich habe
+jedenfalls die Absicht, dem Fürsten, der ein sehr sympathischer
+Mann ist, zu helfen. Und Du?«
 
-„Die Abſicht beſteht,“ lachte Harſt, „aber wir werden
-nur ins Gras beißen, wenn wir nicht aufpaſſen. I< habe
-jedenfalls die Abſicht, dem Fürſten, der ein ſchr ſympathi-
-ſcher Mann iſt, zu helfen. Und Du?“
+»Ich bin dabei, er gefüllt mir jedenfalls besser, wie
+dieser Dandus—«
 
-„Ih bin dabei, er geſällt mir jedenfall3 beſſer, wie
-dieſer Dandus -+-“
+Ich wurde unterbrochen. Ein weißbärtiger Diener trat
+ein und brachte zu unserer Erfrischung eine Schafe mit
+Früchten. Gehäuft lagen wundervoll aromatische Mangos
+auf dem Teller, Der Diener verneigte sich und sah bedeutungsvoll
+von der Schale zu Harst. Dann verschwand er.
 
-Ich wurde unterbro>en. Ein weißbärtiger Diener trat
-ein und brachte zu unſerer Erfriſchung eine Schafe mit
-Früchten. Gehäuft lagen wundervoll aromatiſ<e Mangos
-auf dem Teller, Der Diener verneigte ſich und ſah bedeu-
-tungsvoll von der Schale zu Harſt. Dann verſchwand er.
+Harst brach die obere der Früchte auseinander. Das
+rosige Fleisch der Mangos (wasserhaltige und kühlende indische
+leicht) wurde sichtbar und ein winziger Zettel.
 
-Harſt brach die cbere der Früchte auseinander. Das
-roſige Fleiſch der Mangvs8 (waſſerhaltige und kühlende in-
-diſche Fricht) wurde ſichtbar und ein winziger Zettel.
+Harst entfaltete ihn und las:
 
-Harſt entſaltete ihn und las:
+»Geriete bei der Tafel stets nur, was Dir dieser
+Diener anbietet, Sahib. Mißtraue Bambus, dem
+Priester und Java, Nette den Fürsten. Naika.«
 
-„Genteße bei der Tafel ftet3 nur, wa3 Dir dieſer
-Diener anbietet, Sahib. Mißtraue Danudus, dem
-Prieſter und Saba, Nette den Fürſten. Naika.“
+»Aas ist das nun wieder,« fragte ich, denn ich hatte
+den Zettel mitgelesen.
 
-„Ma3 iſt das nun wieder,“ ſragte ic<, denn ich hatte
-den Zettel mitgeleſen.
+»Naika ist die Nebenfrau des Radscha und diesem sehr
+ergeben. Diese Warnung werden wir beachten, nicht war,
+Schraut!«
 
-„Naika iſt die Nebenſrau de8 Radſcha und dieſem ſehr
-ergeben. Dieſe Warnung werden wir beachten, nicht war,
-Schraut!“
-
-Mir war etwa38 unbehaglich zumute, al3 wir nach
-einiger Zeit zu Tiſch gerufen wurden. Der Gedanke, in
-ſeiner Suppe oder in ſeinem Kotelett den Weg zum Jenſeits
-zu finden, war nicht ſehr erheiternd, venn die ſchnelle Wir-
-tung der indiſchen Gifte kannte ich nicht nur vom Hören-
-ſagen. I< hatte Männer an ihnen ſterben ſehen und wax
+Wir war etwas unbehaglich zumute, als wir nach
+einiger Zeit zu Tisch gerufen wurden. Der Gedanke, in
+seiner Suppe oder in seinem Kotelett den Weg zum Jenseits
+zu finden, war nicht sehr erheiternd, denn die schnelle Wirkung
+der indischen Gifte kannte ich nicht nur vom Hörensagen.
+Ich hatte Männer an ihnen sterben sehen und war
 <@pagebreak/>
-DSDSSSSSSSSS 41 DSSSSSSSBDBDDIEI-
+nicht gewillt ihr Los zu teilen. sich beschloß, auf der Hut
+zu sein und atmete aus, als ich unter den servierenden
+Dienern den Weißbart erblickte, der uns die Mangos verbracht
+hatte. Der Alte, offenbar der Naika, dem Fürsten
+und uns ergeben, richtete es so ein, daß er unsere persönliche
+Bedienung übernahm. Als er bemerkte, wie ich bei
+den einzelnen Platten trat meines Vorortes und ihres
+leckeren Aussehens zögerte, raunte er mir zu:
 
-nicht gewillt ihr Lo8 zu teilen. TJ< beſchloß, auf der Hut
-zu ſein und atmete auſ, als ich unter den ſervierenden
-Dienern den Weißbart erblickte, der uns die Mango3 de-
-bracht hatte. Der Alte, ofſenbar der Naika, dem Fürſten
-und uns ergeben, richtete es ſo ein, daß er unſere perſön-
-liche Bedienung übernahm. Als8 er bemerkte, wie ich bei
-den einzelnen Platten trot meine3 Appetites und ihres
-lekeren Ausſehens zögerte, raunte er mir zu:
+»Sei ohne Furcht, Sahib, ist wache.«
 
-„Sei ohne Furcht, Sahib, is wache.“
+Nach Tisch wurde dem Radscha wieder die Ganjapfeife
+gebracht, aber ein strenger Eli Harsts genügte —
+und der Radscha wies das Betäubungsmittel zurück.
 
-Nach Tiſch wurve dem Nadſcha wieder die Ganja»
-pfeife acbracht, aber ein ſtrenger Bli Harſt3 genügte --
-und der Nadſcha wies das Betäubung8mittel zurück.
+Auf Dandus’ und des Priesters Antlitz stand Wort
+geschrieben — Mord an Harst und an mir!
 
-Auf Dandu8' und de38 Prieſters Antlitz ſtand Mort
-geſchrieben --- Mord an Harſt und an mir!
+Der Fürst bespült die Besichtigung des. Tempels und
+wir folgten ihm. Hosenträger beschattcken unsere Halunken
+auf dem Wege zum Tempel, der nur kurz war. Bald-umhüllte
+uns die Kühle und däümmrige Stille des den:-
+Fels. Weihrauchdüfte lagen schwül in der Luft und vorschlagen
+mir fast die Sinne, Bizarre Götterfiguren tauchten
+vor uns im Dümmer auf. Nautchmädchen (Tempeltänzerinnen)
+erschienen auf einen Wink des Nepal und zeigten
+ihre Künste. Wundervolle, braune Gestalten waren unter
+den Mädchen. besonders eine tat sich hervor.
 
-Der Fürſt beſaöl die Beſichtigung de8. Tempel3 unb
-wir ſolgten ihm. Scirmfräger beſchattcken unſere Hätup-
-ter anf dem Wege zum Tempel, der nur kurz war. Bald-
-umhüllte uns die Kühle und däümmrige Stille des Ten:-
-pel3. Weihrauchdüſte lagen ſc<wül in der Luſt und ver»
-ſchlugen mir ſaſt die Sinne, Bizarre Götterſiguren kauchten
-vor uns im Dämmer auf. Naut<mädchen (Tempeltänze-
-rinnen) erſchienen auf einen Wink de8 Nepal und zeigten
-ihre Künſte. Wundervolle, braune Geſtalten waren unter
-den Mädchen. Beſonder3 eine tat ſich hervor. '
+»Sie schien es auf Harst abgesehen zu haben, denn an ihn
+wandte sie sich mit ihren Lockungen und Windungen des
+Tanzes und — mir schien der Verstand stille zu stehen,
+Harst reagierte auf diese Lockungen. Gierig verschlang er
+das Weib mit den Augen, folgte jeder ihrer Bewegungen,
+war gänzlich hingerissen.
 
-"Sie ſchien es auf Harſt abgeſehen zu haben, denn an ihn
-wandte ſie ſich mit ihren Lo>ungen und Windungen des
-Tanzes und --- mir ſchien der Verſtand ſtille zu ſtehen,
-Harſt reagierte auf dieſe Lo>kungen. Gierig verſchlang er
-das Weib mit den Augen, ſolgte jeder ihrer Bewegungen,
-war gänzlich hingeriſſen.
+Ich war einfach das …
 
-Ic<h war einfach baſf. .
-
-' Mein Freund Harſt, der nie auf ein weibliches Weſer
-reagiert hatte, der ſeit dem tragiſchen Tode ſeiner Braut
-das weibliche Geſchlecht überhanpt nicht mehr zu kennen
-ſchien, war gänzlich verändert. JIc< wagte e8, mich zit
+Mein Freund Harst, der nie auf ein weibliches Leser
+reagiert hatte, der seit dem tragischen Tode seiner Braut
+das weibliche Geschlecht überhaupt nicht mehr zu kennen
+schien, war gänzlich verändert. sich wagte es, mich alt
 <@pagebreak/>
-2202002020280 002Sd 49 2-.d020002005002d2
+räuspern, als ich sah, mit welchem Triumph Dandus und
+der Nepak die Wirkung auf Harst beobachteten — aber, ich
+bekam einen heimlichen, schmerzhaften Tritt gegen das
+Schienbein. Und nun wußte ich, mein Freund spielte Komische
 
-räuſpern, al38 iH ſah, mit welhem Triumph Dandus und
-ver Nepak die Wirkung auf Harſt beobachteten --- aber, 1<h
-befam einen heimlichen, ſchmerzhaften Tritt gegen das
-S<ienbein. Und nnn wußte ich, mein Freund ſpielte Ko-
-Imödie
+Der Zweck dieser Komödie war mir noch unklar, aber
+ich ahnte Gefahren und Abenteuer für uns dahinter.
 
-Der Zwed> dieſer Komödie war mir noch unklar, aber
-ich ahnte Geſahren und Abenteuer ſür uns dahinter.
-
-Nach dem Tanz verſchwanden die Nant<mädcen.
+Nach dem Tanz verschwanden die Nantchmädcen.
 Uns wurden die Sehenswürdigkeiten des Tempels gezeigt.
-Die Götterbilder waren mit den köſtlicſten Juwelen ver-
-zicrt. LOpale funkelten blaß, Smaragde ſlammten grün,
-Saphire blauten in dunkler koſtbarer Bra<t. Vermögen
-waren hier angehäuſt. Aber das Glanzſtück ſ«ß im Kopfe
-des Tigergottes. "
+Die Götterbilder waren mit den köstlichsten Juwelen verziert.
+Spalte funkelten blaß, Smaragde flammten grün,
+Saphire draußen in dunkler kostbarer Brach!. Vermögen
+waren hier angelangt. Aber das Glanzstück Aß im Kopfe
+des Tigergottes.«
 
-Es war ein koſtbarer Rubin von ungewöshnlicher
-Größe und zierte die Stirn einer indiſchen Gottheit, die
-halb als Tiger, halb al8 Menſch dargeſtellt war.
+Es war ein kostbarer Rubin von ungewöshnlicher
+Größe und zierte die Stirn einer indischen Gottheit, die
+halb als Tiger, halb als Mensch dargestellt war.
 
-An dieſe Gottheit und den Edelſtein in ihrer Stirn
-knüpfte ſich eine Legende, die un8 der Nadſcha erzählte.
+An diese Gottheit und den Edelstein in ihrer Stirn
+knüpfte sich eine Legende, die uns der Radscha erzählte.
 
-Der Rubin war eng mit dem Geſc<hi> des jeweiligen
-Fürſten von Malewe verfnüpft. Verſchwand er, gefchah
-ihm ein Leid, wurde er trübe, ſo war e8 um die Geſund-
-heit und die Herrſchaſt des jeweiligen Fürſten geſcheben.
-Verbannung, Entthronung, ja, Tod drobten ihm. . Nur ſo-
-lange der Nubin unangetaſtet in märchenhaftem Glanze in
-der Stirn des Götben ſaß, war es um den Radſcha von Ma-
-lewe günſtig beſiellt.-
+Der Rubin war eng mit dem Geschick des jeweiligen
+Fürsten von Malewe verknüpft. Verschwand er, geschah
+ihm ein Leid, wurde er trübe, so war es um die Gesundheit
+und die Herrschaft des jeweiligen Fürsten geschehen.
+Verbannung, Entthronung, ja, Tod drohten ihm … Nur solange
+der Rubin unangetastet in märchenhaftem Glanze in
+der Stirn des Götzen saß, war es um den Radscha von Malewe
+günstig bestellt.-
 
-Al3 uns der Fürſt die Sage erzählt hatte, wandte ſich
-der Prieſter an uns.
+als uns der Fürst die Sage erzählt hatte, wandte sich
+der Priester an uns.
 
-„Der Radſcha hat recht," ſagte er, „der Stein iſt da3
-Glü> von Malewe. Geſchieht ihm ein Unheil, ſo iſt e8 unt
-ven Radſc<ha ſchlecht beſtellt. In der vergangenen Nacht
-nun habe ich die Sterne beſragt, die unſer aller Schickſal
-Wiſſen. “
+»Der Radscha hat recht,« sagte er, »der Stein ist das
+Glück von Malewe. Geschieht ihm ein Unheil, so ist es und
+den Radscha schlecht bestellt. In der vergangenen Nacht
+nun habe ich die Sterne befragt, die unser aller Schicksal
+Wissen.«
 
-eUnd was ſagten die Sterne?" fragte Harſt gelaſſen.
+Band was sagten die Sterne?« fragte Harst gelassen.
+
 <@pagebreak/>
-2202220202350 205222020 43 0080052205202 22
+»Daß dem Stein Unheil droht und damit dem Radscha.
+Tische werten die Hand nach ihm ausstrecken und — aber Du
+Nr a ungläubiger Versuch (Fremdling) und glaubst mir
+nicht.«
 
-„Daß dem Stein Unheil droht und damit dem Radſcha.
-Tiede werten die Hand nach ihm ausſtre>en und -- aber Du
-Fr a ungläubiger Ferengi (Fremdling) und glaubſt mir
-nicht.“
+doch, ich glaube Dir, Nepal. Ich bin überzeugt, daß
+der Stein in Kürze gestohlen werden wird.«
 
-Doh, ich glaube Dir, Nepal. Ih bin überzeugt, daß
-der Stein in Kürze geſtohlen werden wird.“
-
-Tie Verblüſſung war nicht nur auſ meiner Seite, ſon-
-dern auch der Fürſt jah betreten aus. Was ſiel Harſt nur
+die Verblüffung war nicht nur aus meiner Seite, sondern
+auch der Fürst sah betreten aus. Was fiel Harst nur
 ein
----.- Wir verließen den Tempel und nun überſtürzten ſich die
-Ereigniſſe. Sie waren ſo dramatiſcher Natur, daß es mir
-ſjaſt ſc<wer wird, ſie zu ſchildern. Ich will es verſuchen.
+—.- Wir verließen den Tempel und nun überstürzten sich die
+Ereignisse. Sie waren so dramatischer Natur, daß es mir
+statt schwer wird, sie zu schildern. Ich will es versuchen.
 
-- - Daß ſich Harſt mit beſonderen Plänen trug, war mir
-ſeit langem klar. Nach ſeiner Gewohnheit weihte er mich
-nicht in ſeine Abſichten ein, ſondern handelte ſchweigend, es
-mir überlaſſend, mich den jeweiligen Situationen anzu-
-paſſen und mich in ihnen zurechtzuſinden.
+— — Daß sich Harst mit besonderen Plänen trug, war mir
+seit langem klar. Nach seiner Gewohnheit weihte er mich
+nicht in seine Absichten ein, sondern handelte schweigend, es
+mir überlassend, mich den jeweiligen Situationen anzupassen
+und mich in ihnen zurechtzufinden.
 
-" Wir hatten das Abendeſſen mit dem Fürſten und den
-Seinen eingenommen. I< muß geſtehen, daß es für mich
-und Harſt ſehr ſrugal ausfiel. Der weißbärtige Diener be-
-ſand ſich nämlich nicht unter den Auſwartenden. Jnſolge-
-deſſen hielten wir uns an gekochte Eier, denen man kein Gift
-beimiſchen kann, die aber nur ſehr rar auf die Taſel kamen.
+Wir hatten das Abendessen mit dem Fürsten und den
+Seinen eingenommen. Ich muß gestehen, daß es für mich
+und Harst sehr zugab ausfiel. Der weißbärtige Diener befand
+sich nämlich nicht unter den Aufwartenden. Infolgedessen
+hielten wir uns an gekochte Eier, denen man kein Gift
+beimischen kann, die aber nur sehr rar auf die Tafel kamen.
 Uns zu Ehren gab es Champagner und ich trank ein Glas
-von dem Sekt, al3 die Flaſche vor meinen Augen geöffnet
-wurde. Der Fürſt war einſilbig und ließ die gewohnte
-Huld gegen uns gänzlich vermiſſen.
+von dem Sekt, als die Flasche vor meinen Augen geöffnet
+wurde. Der Fürst war einsilbig und ließ die gewohnte
+bald gegen uns gänzlich vermissen.
 
-Als ſeine Ganjapfeife gebracht wurde, rauchte er aus
-ihr und nahm Harſt3 Blike mit Schweigen entgegen. Bald
-hatte der Fürſt ſeinen Ganjarauſch. E8 war klar, wir waren
-in Ungnade geſallen. Vermutlich hatte Harſt und ſein Ein-
-gehen auf des Prieſter3 Sterndeuterei daran Schuld. Der
-NRadſcha ſah in uns nicht mehr Freunde, ſondern Feinde.
+Als seine Ganjapfeife gebracht wurde, rauchte er aus
+ihr und nahm Harsts Blicke mit Schweigen entgegen. Bald
+hatte der Fürst seinen Ganjarausch. Es war klar, wir waren
+in Ungnade gefallen. Vermutlich hatte Harst und sein Eingehen
+auf des Priesters Sterndeuterei daran Schuld. Der
+Radscha sah in uns nicht mehr Freunde, sondern Feinde.
 
 Von niemand zum Bleiben ermutigt zogen wir uns
-nah der Mahlzeit auf unſere Zimmer zurück,
+nach der Mahlzeit auf unsere Zimmer zurück,
+
 <@pagebreak/>
-HDSODSSGSODSESESDES 44 0002020020022
+»Du hast was Schönes angerichtet, Harald,« begann ich
+meine nordwärts, Rani aber mit meinem Sermon nicht weit.
 
-„Du haſt was Scöne38 angerichtet, Harald,“ vegann ich
-meine Vortwürſe, kani aber mit meinem Sermon nicht weit.
+»Rasch, kleide Dich in indisch,;e Gewänder,« lautete die
+Antwort, »wir können uns rascher und unauffälliger darin
+bewegen.«
 
-„Naſch, kleide Dich in indiſc,;e Gewänder,“ lauiete die
-Antwort, „wir können uns raſcher und unauſſälliger darin
-bewegen.“
+»saß hast Du denn vor?«
 
-„23a38 haſt Du denn vor?“
+»Zum Tempel will ich. Ich will sehen, wer in dieser
+Nacht den Rubin stellen wird.«
 
-„Zum Tempel will ich. Ic<h will ſehen, wer in dieſer
-Racht den Nubin jtetlen wird.“
+Verblüfft gehorchte ich. Wir ließen uns von unseren
 
-Verblüfjt gehorchte ih. Wir ließen uns von unſeren
+Balkon auf den Hof hinab, schlichen im Saiten des Haus: 3-
 
-Balkon auf den Hof hinab, ſchlichen im Saiten de3 Hauri: 3-
+davon und erreichten nach kurzer Zeit den Tempel. Vom
+Palast vorüber erschallten die sonoren Klänge der Gange
+und die schrillen Laute der Flöten. Radscha Malewe ließ
+sich zur Nacht Musik ausspielen.
 
-davon und erreichten nach furzer Zeit den Tempel. Vom
-Palaſt berüber erſchallten die ſonoren Klänge der Gong3
-und die ſchrillen Laute der Flöten. Radſcha Malewe licß
-ſich zur Nacht Muſik auſſpielen.
+Der Tempel umging uns mit Schweigen. Keine Prie—
 
-Der Tempel umſing uns mit Schweigen. Keine Prie--
-
-fter, keine menſ<liche Scele war zu ſeken. Stumm ſtänden
-die Görenbilder im Schmuck ihrer Edelſteine. Dort war
+lebhafter, keine menschliche Seele war zu sehen. Stumm Ständen
+die Görenbilder im Schmuck ihrer Edelsteine. Dort war
 der Tigergshze!
 
-Irgendwoher fiel ein Mondſtrahl auf ſeine rieſige Ge-
-ſtalt, benlänzte ſein veraoldetes Antlih und -- ich unter-
-drückte mit Mühe einen Schrei.
+Irgendwoher fiel ein Mondstrahl auf seine riesige Gestalt,
+verlangte sein vergoldetes Antlitz und — ich unterdrückte
+mit Mühe einen Schrei.
 
-Der Nubin aus ſeiner Stirn war verſc wunden!
+Der Rubin aus seiner Stirn war Mensch wunden!
 
-Harſt hatte es auch bemerkt. Wir kamen zu ſpäil Der
-Diebſtabl war bereit3 acſ>ehen! .
+Harst hatte es auch bemerkt. Wir kamen zu späht Der
+Diebstahl war bereits geschehen! …
 
-Harſt ſtürzt2 vocwärt3, ojſ,enbar völlig verblüjit. Und
-iN al3 getreuer Freunö und Helfer ſiüürzte hinier ihm ber.
-Diesmal im allerwahrſten Sinne de8 WorteZ3.
+Harst stürzt? vorwärts, offenbar völlig verblüfft. Und
+in als getreuer Atems und Helfer siüürzte hinter ihm der.
+Diesmal im allerwahrsten Sinne des Wartete.
 
-Der Boden wich nämlich) unter unſeren Füßen. Wir
-waren auf eine bewcgliche Platte getreten, die uns zur Fall-
-grube wurde. Wir ſauſten drei Meter in die Tiefe und
-ſaßen in einem unterirdiſſcen Loch gefangen, das etwa
+Der Boden wich nämlich) unter unseren Füßen. Wir
+waren auf eine bewegliche Platte getreten, die uns zur Fallgrube
+wurde. Wir sausten drei Meter in die Tiefe und
+saßen in einem unterirdischen Loch gefangen, das etwa
 vier Meter im Quadrat maß.
 
-„Da ſind wir ſchön ins Fettnäpfchen getreten,“ waren
-meine erjten Worte, nacßdem ich meine Knechen bet«ſict
-und ſie heil geſunden hatte. „Biſt Du verletzt, Harald?“
+»Da sind wir schön ins Fettnäpfchen getreten,« waren
+meine ersten Worte, nachdem ich meine Knochen Vorsicht
+und sie heil gefunden hatte. »Bist Du verletzt, Harald?«
+
 <@pagebreak/>
-2020202002222 202 15 2208000050 585.0d2
+»Körperlich nicht, aber ich ärgere mich, daß ich zu rät
+kam. Die Bande ist ich lauer als ich dachte.«
 
-„Körperlich nicht, aber ich ärgere mich, daß iH zu pät
-kam. Die Bande iſt ſ> lauer als ich dachie.“
+»Was soll nun geschehen?«
 
-„Was ſoll nun geſchehen?“
+»Nichts. Wir konnten.«
 
-„Nichts. Wir zvarten.“
-
-5 „Wir ſollten verſuchen, hier heraus zu kommen,“ watiſ
+»Wir sollten versuchen, hier heraus zu kommen,« Paris
 ich ein.
 
-: „Nein, ich will ſehen, wie ſicß die Sache entwickelt. Da-
-nach muß ich meine neuern Pläne machen.“
+»Nein, ich will sehen, wie sich die Sache entwickelt. Danach
+muß ich meine neuem Pläne machen.«
 
-Gegen Harſis Cntjchlüiſſe war nichts zu machen. Jd)
-rollte niich alſo in einer E>e zujammen und ſah im Geiſte
-unſere Zukunſt ebenſo ſchivarz wie das Loch, in dem wir
-augenbliclich ſaßen.
+Gegen Harsts Entschlüsse war nichts zu machen. Ad)
+rollte mich also in einer Ecke zusammen und sah im Geiste
+unsere Zukunft ebenso schwarz wie das Loch, in dem wir
+augenblicklich saßen.
 
-Wie lange Siunden hatten wir in unſerem Kerker ge-
-ſeſſen? PlösöLklich raſſelten Schlüſſel, eine Eiſentür klirrte,
-Licht fiel in unſer BVerließ. Sechs bewaſſfnete Diener cx-
-ſ&ienen unter Führung des Dandus, nahmen uns barſch
-in die Mitte und Dandus befahl finſter: Zum Fürſten.
+Wie lange Stunden hatten wir in unserem Kerker gesessen?
+PlösöLklich rasselten Schlüssel, eine Eisentür klirrte,
+Licht fiel in unser verriet. Sechs bewaffnete Diener erschienen
+unter Führung des Dandus, nahmen uns barsch
+in die Mitte und Dandus befahl finster: Zum Fürsten.
 
-Ich wunderte mich, daß Harſt das alles ſo ohne jeden
-Proteſt hinnahm, aber ich ſal) ſpäter, daß er weitblic>kender
-war als iHß. Wir wurden durch einen untcerirdiſc)en Gang
-geführt, der auf den Palaſthoſ mündete. Geblendet ſälok
-ich die Augen, denn Hof und Palaſt erſitrahlten in hellen
-Feuerwerk, überall herrſchte volles Leben, nur unſeres ſchien
-verwirft. Stumpf ſah ic< eiie Karre mit rohem Fleiſch
-vorüberfſahren. Offenbar der Fraß für den Leoparden des
-Dandus, denn dieſer rieſ den Wärtern zu:
+Ich wunderte mich, daß Harst das alles so ohne jeden
+Protest hinnahm, aber ich sah) später, daß er weitblickender
+war als ist. Wir wurden durch einen unterirdisch)en Gang
+geführt, der auf den Palasthof mündete. Geblendet fährt
+ich die Augen, denn Hof und Palast erstrahlten in hellen
+Feuerwerk, überall herrschte volles Leben, nur unseres schien
+verwirft. Stumpf sah ich eile Karre mit rohem Fleisch
+vorüberfahren. Offenbar der Fraß für den Leoparden des
+Dandus, denn dieser rief den Wärtern zu:
 
-„Wartet noch, ich will das Tier heute ſelbſt ſüttern.“
+»Wartet noch, ich will das Tier heute selbst füttern.«
 
-Bald darauſ ſianden wir im Saale vor dem Fürſten.
-fee a ſtand an ſeiner Seite. Der Nadſcha blickte uns ſin-
-ter an.
+Bald daraus standen wir im Saale vor dem Fürsten.
+Kaffee a stand an seiner Seite. Der Radscha blickte uns hinter
+an.
 
-„Fremder,“ ſagte er zornig, „Du und Dein Freund,
-Ihr habt den Rubin des Tigergottes geſtohlen, um mich
-in8 Verderben zu ſiürzen; als Freunde empfing ich Euch, und
-als Feinde habt Ihr an mir gehandelt. Euer Leven iſt
-„verwirkt.“
+»Fremder,« sagte er zornig, »Du und Dein Freund,
+Ihr habt den Rubin des Tigergottes gestohlen, um mich
+ins Verderben zu stürzen; als Freunde empfing ich Euch, und
+als Feinde habt Ihr an mir gehandelt. Euer Leben ist
+»verwirkt.«
+
 <@pagebreak/>
-0ü0200200dSODSSDODIO 46 DSSSDSIISSSISSOS
+»Du irrst, Radscha Malewe,« sagte Harst ruhig, »wir
+stahlen Deinen Talisman nicht—«
 
-„Du irrſt, Nadſcha Malewe,“ ſagte Harſt ruhig, „wir
-ſtahlen Deinen Talisman nicht -+-“
+Der Fürst gebot mit einer zornigen Bewegung
+Schweigen.
 
-Der Fürſt gebot mit einer zornigen Bewegung
-Sc<weigen.
+»Wozu diese Maskerade,« ließ er, auf unsere indischen
+Gewänder deutend. »Was hattet Ihr heimlich im Tempel
+zu suchen?«
 
-„Wozu dieſe MaSkerade,“ rieß er, auf unſere indiſchen
-Gewänder deutend. „Wa3 hattet Ihr heimlich im Tempel
-zu juchen?“
+»unsere Absichten waren die besten, ich wußte, daß der
+Rubin gestohlen werden Zettel«
 
-„unſere Abſicßten waren die beſten, ich wußte, daß der
-Rubin gejiohlen werden jolltel“
+»34, das hast Du gejagt und Du selbst wolltest ihn
+stehlen.«
 
-„34, das haſt Du gejagt und Du ſelbſt wollteſt ihn
-ſtehlen.“
+»Gewiß nicht. Ich wollte den Dieb überraschen.«
 
-„Gewiß nicht. Ic<h wollte den Dieb überraichen.“
+»Eine lahme Ausrede,« zischte Nepak.
 
-"Eine lahme AuSrede,“ ziſchte Nepak.
+»Aber als wir den Tempel betraten, war der Stein.
+schon fort. Andere, nicht ich, sind Deine Feinde und sie
+Cuxhaven das Kleinod entwendet.«
 
-„Aber als wir den Tempel betraten, war der Stein.
-i<on jort. Andere, nicht ich, ſind Deine Feinde und ſie
-haven das Kleinod entwendet.“
+Der Fürst schien schwankend zu werden, aber Nepak
+neigte sich wieder flüsternd zu ihm.
 
-Der Fürſt ſchien ißwankend zu werden, aber Nepak
-neigte ſich wieder ſflüſternd zu ihm.
-
-„Vergiß nict, Radſcha, daß wir eine Zeugin haben,“
+»Vergiß nicht, Radscha, daß wir eine Zeugin haben,«
 raunte er.
 
-Wieder wurde die Miene des Radſcha zornig.
+Wieder wurde die Miene des Radscha zornig.
 
-„Die Zeugin ſoll erſcheinen,“ rief er, „bringt das Mäd-
-qggen, welc<es8 ſah, daß die Fremden den Stein ſtahlen.“
+»Die Zeugin soll erscheinen,« rief er, »bringt das Mäd-qggen,
+welches sah, daß die Fremden den Stein stahlen.«
 
-Ih war einſach baſſf. Cine Zeugin gab es, die ge-
-jehen hatte, wie wir den Stein ftahlen, das war ja uner-
-hört. I< blickte fragend zu Harſt, aber deſſen Miene war
-undurchdringlicß. Nur plötvlich ging ein Zucken, wie ein
-halbverſte>tes La<en war's, über ſeine Züge, denn -- die
-Tänzerin, an der Harſt beim Tempeltanz ſcheinbar jo viel
-Iutereſſe genommen hatte, erſchien im Kreiſe und warſ ſich
-zu Füßen des Rapſcha nieder.
-balt „Sprich,“ beſahl diejer, „berichte, was Du qgeſchen
-aſt.“
+Ich war einfach hast. ohne Zeugin gab es, die gesehen
+hatte, wie wir den Stein stahlen, das war ja unerhört.
+Ich blickte fragend zu Harst, aber dessen Miene war
+undurchdringlich. Nur plötvlich ging ein Zucken, wie ein
+halbverstecktes Lachen war’s, über seine Züge, denn — die
+Tänzerin, an der Harst beim Tempeltanz scheinbar so viel
+Interesse genommen hatte, erschien im Kreise und war’s sich
+zu Füßen des Runzeln nieder.
+bald »Sprich,« befahl dieser, »berichte, was Du Dastehen
+Ast.«
 
-„Fürſt “ ſagte das Mädchen, und ich hätte ſie ob ihrer
-Lügen ohrſeigen können, „ih beobachtete, wie ſich heute
+»Fürst « sagte das Mädchen, und ich hätte sie ob ihrer
+Lügen ohrfeigen können, »ich beobachtete, wie sich heute
 <@pagebreak/>
-DSSSSDSSSSSS 47 „DSSSDSSDSSSSS
-
 nachmittag die beiden Fremden in der Verkleidung, in der
-ſie ſich noch bejinden, in den Tempel ſchlichen. Nicht8 Gute&
-ahnend folgte ich ihnen leiſe und verſte>te mich. Da --- da
-ſah ich --“
+sie sich noch befinden, in den Tempel schlichen. Nichts Cafee
+ahnend folgte ich ihnen leise und versteckte mich. Da — da
+sah ich—«
 
-Da83 Mädchen barg mit gutgeſpieltem Entſeben das
+das Mädchen barg mit gutgespieltem Entsetzen das
 Antlitz in den Händen.
 
-„Wa83 ſaheſt Du, Hati," ermutigte ſie der Prieſter mit
-tückiſcher Sanſtheit.
+»was Hoheit Du, Hat!,« ermutigte sie der Priester mit
+tückischer längsseit.
 
-„Da ſah ich, wie der große, ſ<hlanfke Mann auſ die
-Schultern des kleinen Dicken ſtieg und -- und den Stein.
-aus dem Häupte des Tigergottes8 ſtahl. Ich war ſo entſetst
-über die ruchloſe Tat, daß ich mit einem Schrei des Granens
-hervorſtürzte. Als die beiden ſahen, daß ich ſie entde>t
-hatte, ſtürzten ſie über mich her, warfen mich zu Boden
-und banden mich.“
+»Da sah ich, wie der große, schlanke Mann aus die
+Schultern des kleinen Dicken stieg und — und den Stein.
+aus dem Haupte des Tigergottes stahl. Ich war so entsetzt
+über die ruchlose Tat, daß ich mit einem Schrei des Grauens
+hervorstürzte. Als die beiden sahen, daß ich sie entdeckt
+hatte, stürzten sie über mich her, warfen mich zu Boden
+und banden mich.«
 
-„Das Yädchen ſpricht Lügen,“ donnerte Harft.
+»Das Sachen spricht Lügen,« donnerte Harst.
 
-„I< ſelbſt fand Hati gebunden und halb ohnmächtig
-im Tempel. I< rief Teinen Nefſſen Dandus, o Fürſt, da-
-mit er mein Zeuge ſei. Dann erſt befreiten wir Hati.“
-iſch „So iſt es, Radſcha,“ beſchwor das Mädchen heuchle-
-riſch. '
+»Ich selbst fand Hat! gebunden und halb ohnmächtig
+im Tempel. Ich rief seinen Felsen Dandus, o Fürst, damit
+er mein Zeuge sei. Dann erst befreiten wir Hat!.«
+Tisch »So ist es, Radscha,« beschwor das Mädchen heuchlerisch.
 
-„Wenn 1< den Stein wirklich geſtohlen hätte," warf
-Harſt hier ein, „ſo müßte ich ihn ja noch bei mir haben. Ih
-konnte ſamt meinem Freunde den Tempel nicht mehr ver-
-laſſen, ſondern wir ſtürzten in die Fallgrube, wo wir ge-
-ſangen ſaßen, bi8 Dein Neſfe undd die bewaſſneten Diener
-uns vor Dich führten. Unterſuche unſere Kleider und Du
-wirſt finden, daß wir den Rubin nicht beſitzen. Durch-
-ſchaue dies Lügengewebe, Fürſt.“
+»Wenn ich den Stein wirklich gestohlen hätte,« warf
+Harst hier ein, »so müßte ich ihn ja noch bei mir haben. Ich
+konnte samt meinem Freunde den Tempel nicht mehr verlassen,
+sondern wir stürzten in die Fallgrube, wo wir gefangen
+saßen, bis Dein Neffe undd die bewaffneten Diener
+uns vor Dich führten. Untersuche unsere Kleider und Du
+wirst finden, daß wir den Rubin nicht besitzen. Durchschaue
+dies Lügengewebe, Fürst.«
 
-Wieder ſchien der Radſcha unſchlüſſig zu ſein, dann
-aber verfinſterte ſich ſeine Mtene, und er ſagte:
+Wieder schien der Radscha unschlüssig zu sein, dann
+aber verfinsterte sich seine Miene, und er sagte:
 
-„Nein, Fremdling, ich glaube Euch ni<ht. Dies Mäd-
-djen ſoll ſeinen Bericht vollenden.“
+»Nein, Fremdling, ich glaube Euch nicht. Dies Matrosen
+soll seinen Bericht vollenden.«
 
-Nun war, ich wirklich geſpannt,“was die hübſche Hatt
-noc< alle8 hervorbringen würde, aber auf das, was nun
+Nun war, ich wirklich gespannt,«was die hübsche Hat!
+noch alles hervorbringen würde, aber auf das, was nun
 <@pagebreak/>
-DSSSSSSDSSSSS 48 DSSDSSDSSSOSSSD
+kam, war ich nicht vorbereitet, Und ich glaube, mein Freund
+Harst auch nicht, Pro aller Gescheitheit.
 
-kam, war id) nicht vorbereitet, Und ich glaube, mein Freund
-Harſt auch nicht, tro aller Geſcheitheit.
-
-' Das Nautchgirl richtete ſich auf, deutete auf Harſt und
+Das Nautchgirl richtete sich auf, deutete auf Harst und
 Jagte:
 
-„Dieſer hier machte einen Zauber. I< ſah und hörte,
-wie er Beſchwörungsformeln ſüüber den Rubin ſpra<. Er
-befahl dem Kleinod, hinwegzuſc<weben und ſich in ſeine
-Heimat zu begeben, damit er ihn dort vorfſände, wenn er
-aus unſerem Lande nach Hauſe käme!*
+»Dieser hier machte einen Zauber. Ich sah und hörte,
+wie er Beschwörungsformeln Säulen den Rubin sprach. Er
+befahl dem Kleinod, hinwegzuschweben und sich in seine
+Heimat zu begeben, damit er ihn dort vorfände, wenn er
+aus unserem Lande nach Hause käme!«
 
-Nun hätte ich doch beinahe, ſo ernſt die Lage auc für
-uns war, laut beraus gelacht. Das Mät>rxn ſuhr ſort:
+Nun hätte ich doch beinahe, so ernst die Lage auch für
+uns war, laut heraus gelacht. Das Mätckrxn fuhr fort:
 
-„Deinahe wäre den Böſewichten auch der Strei ge-
-glü>t. Zwar konnte ich das Fortzaubern des Talismans
-uicht auſhalten. I< ſah, wie der Stein ſich in die Luſt er-
-hob und ſortſ<webte. Sicher iſt er jetzt ſchon in der Heimat
-der Ferengi. Gegen den Zauber war ich alſo machtlos, aber
-ich konnte, troß der mich umſchnürenden Stricke, die Uebel-
-täter ſelbſt gefangen ſeen, damit Du, o Fürſt, ſte ſtrafen
-kannſt. Mit meinem ausgeſtrekkten Fuße berührte ich den
-Knopf, welcher die Fallqrubentür auslöſt, und die beiden
-ſtürzten in ihr Gefängnis. Das iſt die Wahrheit, Radſcha.“
+»Beinahe wäre den Bösewichten auch der Stroh geglückt.
+Zwar konnte ich das Fortzaubern des Talismans
+nicht aushalten. Ich sah, wie der Stein sich in die Luft erhob
+und Bordschwelle. Sicher ist er jetzt schon in der Heimat
+der Versuch. Gegen den Zauber war ich also machtlos, aber
+ich konnte, trotz der mich umschnüren den Stricke, die Übeltäter
+selbst gefangen Seen, damit Du, o Fürst, sie strafen
+kannst. Mit meinem ausgestreckten Fuße berührte ich den
+Knopf, welcher die Fallgrubentür auslöst, und die beiden
+stürzten in ihr Gefängnis. Das ist die Wahrheit, Radscha.«
 
-Das Mädchen neigte ſich auf die Füße des Fürſten
-und küßte ſie.
+Das Mädchen neigte sich auf die Füße des Fürsten
+und küßte sie.
 
-„Dit haſt die Anklage gehört,“ ſagte der Fürſt ſinſter,
-„iQ glaube dem Mäd<>en. Biſt Du nicht ſelber durc< Zau-
-ber hier erſchienen? Unſichtbar kamſt Du durch die Luſt
-angereiſt und ſtandeſt plöblich ſamt Deinem Freunbe in
-unſerer Mitte, I< hörte, daß Du klug biſt und daß Dir
-gebhcime Kräfte zur Verfügung ſtänden. DeS2halb lud ich
-Dich ein. Aber Du treihſt nicht weiße, ſondern ſchwarze
-Magie und willſt meinen Untergang. Doch Du ſollſt ſter-.
-hen. Morgen früh wirſt Du und Dein Freund gefoltert, bis
-der Stein wieder zur Stelle iſt. Und dann werde ich Euch
-Hinrichten laſſen. Führt ſie jetzt fort.“
+»Dir hast die Anklage gehört,« sagte der Fürst finster,
+»iQ glaube dem Mädelchen. Bist Du nicht selber durch sauber
+hier erschienen? Unsichtbar kamst Du durch die Luft
+angereist und standest plötzlich samt Deinem Freunde in
+unserer Mitte, Ich hörte, daß Du klug bist und daß Dir
+geheime Kräfte zur Verfügung Ständen. DeS2halb lud ich
+Dich ein. Aber Du treibst nicht weiße, sondern schwarze
+Magie und willst meinen Untergang. Doch Du sollst hier-.
+sehen. Morgen früh wirst Du und Dein Freund gefoltert, bis
+der Stein wieder zur Stelle ist. Und dann werde ich Euch
+Hinrichten lassen. Führt sie jetzt fort.«
 
-Die Bewaſſneten nahmen nun8 wieder in die Mitte.
+Die Bewaffneten nahmen muß wieder in die Mitte.
+
 <@pagebreak/>
-2202020020000 202S 479 2202020202202 202022
-
-Wir wurden hinweggebracht, aber nicht in unſer altes un-
-terirdiſche3 Loch, ſondern in ein Nebengebäude dcs Po-
-laſte3, wo wir in ein zellenartiges Gemach eingeſchloſſen
+Wir wurden hinweggebracht, aber nicht in unser altes un-terirdische3
+Loch, sondern in ein Nebengebäude des Palastes,
+wo wir in ein zellenartiges Gemach eingeschlossen
 wurden.
 
-Ih warf mich auf die Bambus8pritſche, die dort ftand
-und wußte nicht, ob ich lachen oder weinen ſollte. Harſts8
-Tri unſerer überraſchenden Ankunft in Malcwe wandte
-ſich in dramatiſcher Weiſe gegen uns. Wir hatten die Zaun-
-berkiinſtler markiert, um den Gegnern des Fürſten Furcht
-einzuſlößen, aber die raſſinierte Geſellſchaft ſchlug uns mit
-unſeren eigenen Waffen. Und lügen konnte die Bande!
-Mich wunderte nur, daß die Decke nicht eingeſtürzt war.
+Ich warf mich auf die Bambuspritsche, die dort stand
+und wußte nicht, ob ich lachen oder weinen sollte. Harsts
+Ort unserer überraschenden Ankunft in Malewe wandte
+sich in dramatischer Weise gegen uns. Wir hatten die Zaun-derkiinstler
+markiert, um den Gegnern des Fürsten Furcht
+einzuflößen, aber die raffinierte Gesellschaft schlug uns mit
+unseren eigenen Waffen. Und lügen konnte die Bande!
+Mich wunderte nur, daß die Decke nicht eingestürzt war.
 
-' „Da ſitten wir ſchön in der Patſche, Harald,“ ſagte 1H
+»Da Sitten wir schön in der Patsche, Harald,« sagte 1H
 kleinlaut.
 
-„Wir werden ſchon heraus kommen, wie aus ſo vielen
-anderen.“
+»Wir werden schon heraus kommen, wie aus so vielen
+anderen.«
 
-„Na, es Uſt mir nur zweifelhaft, wie wir das machen
-werden,“ lautete mein Einſpruch.
+»Na, es Ist mir nur zweifelhaft, wie wir das machen
+werden,« lautete mein Einspruch.
 
-„Hm, es iſt ſchon von Vorteil, daß man un3 nicht ge-
-ſeſſelt bat.“
+»Hm, es ist schon von Vorteil, daß man uns nicht gefesselt
+bat.«
 
-„Was nüßt da8,“ ſagte ic, mich umblikend, „die Tür
-unſere3 Gefängniſſes iſt von Eiſen. Dort oben iſt ein klei-
-nes Fenſter, aber mit engen Eiſenſtäben vergittert. Wir
-haben keine Waſfen bei uns und. keinen Gegenſtand, der ſich
-zum Ausbrucsinſtrument eignet. Unſcre Zelle enthält
-nicht3, wie dieſe Bambuspritſche.“
+»Was müßt daß,« sagte ich, mich umblickend, »die Tür
+unseres Gefängnisses ist von Eisen. Dort oben ist ein kleines
+Fenster, aber mit engen Eisenstäben vergittert. Wir
+haben keine Waffen bei uns und. keinen Gegenstand, der sich
+zum Ausbrucsinstrument eignet. Unsere Zelle enthält
+nichts, wie diese Bambuspritsche.«
 
-- „Nur nicht verztveiſeln, mein Alter.“
+— »Nur nicht verztveiseln, mein Alter.«
 
-„Rein, das tte ich nicht. Ih bin vizlmehr wütend.
-Gerecht iſt dieſer Radſcha ni<t. Erſt ſollen wir gefolterx!
-werden, um einen Rubin, den wir nicht gemopſt haben, wie-
-der herzuzaubern. Und wenn wir das Kunſiſtück vollbrach!
+»Rein, das die ich nicht. Ich bin vielmehr wütend.
+Gerecht ist dieser Radscha nicht. Erst sollen wir gefolterx!
+werden, um einen Rubin, den wir nicht gemerkt haben, wieder
+herzuzaubern. Und wenn wir das Kunststück Wortbruch!
 
-aben -=-+-“
-? „Werden wir zum Dank hingerichtet,“ vollendete Harfi
+haben—«
+? »Werden wir zum Dank hingerichtet,« vollendete Harst
 lachend.
 
-„Trübe Ansſichten,“ brummte ich.
+»Trübe Aussichten,« brummte ich.
+
 <@pagebreak/>
-:DSSSSSSSSSSS 50 200DSS0SSSDSSSD
+»Dir sind noch nicht tot!«
 
-„Dir ſind noch nicht tot!“
-
-Dieſe Tatſache war allerdings nicht zu beſtreiten, aber
+Diese Tatsache war allerdings nicht zu bestreiten, aber
 meiner Meinung nach waren wir nicht allzu weit davon
-entſernt. Jedenfalls ſiegte meine angeborene Zuverſicht
-über die gegenwärtige verſängliche Situation. I< beſchloß,
-die Dinge an mich herantreten zu laſſen und machte es mir
-auf der Bambuspritſche bequem.
+entfernt. Jedenfalls siegte meine angeborene Zuversicht
+über die gegenwärtige verfängliche Situation. Ich beschloß,
+die Dinge an mich herantreten zu lassen und machte es mir
+auf der Bambuspritsche bequem.
 
-Harſt begann in unſerer engen Zelle nachdenklich auf
+Harst begann in unserer engen Zelle nachdenklich auf
 und ab zu gehen.
 
-Von draußen drangen Trommelſh<lag, Gongtöne und
-JFlötenmuſik in unſer Geſängni3s. Durch das hohe Gitter-
-ſenſter fielen die Lichtreflexe der abendlichen Feſtbeleuch-
-tung. Rot, grün, gelb und weiß flammte es zu uns her-
-ein; alſo lag das Gitterſenſter dem Palaſthofe zugewendct.
+Von draußen drangen Trommelshchlag, Senators und
+Flötenmusik in unser Gefängnis. Durch das hohe Gitterfenster
+fielen die Lichtreflexe der abendlichen Festbeleuchtung.
+Rot, grün, gelb und weiß flammte es zu uns herein;
+also lag das Gitterfenster dem Palasthofe angewendet.
 
-Fröhliche Menſc<henſtimmen und das Geräuſch der
-Tamtams bewies, daß man da3 Feſt draußen ſeierte. Ein
-Feſt, das eigentlich un3 zu Ehren arrangiert worden war
-und das wir nun al3 Geſangene „genießen“ konnten, .al2
-Diebe eine3 koſtbaren Tali8man8!“
+Fröhliche Menschenstimmen und das Geräusch der
+Tamtams bewies, daß man das Fest draußen feierte. Ein
+Fest, das eigentlich uns zu Ehren arrangiert worden war
+und das wir nun als Gefangene »genießen« konnten…all?
+Diebe eines kostbaren Talismans!«
 
 Die Situation war wirklich grotesk.
 
-Plößblich tönte in den Feſte8trubel dumpf das Geräuſch
-einer Tierſtimme.
+Plötzlich tönte in den Festestrubel dumpf das Geräusch
+einer Tierstimme.
 
-Erſt klang e3 wie ein jhmerzhaſte8 Miauen und ging
-dann in ein dumpſes Grollen über. Ununterbrochen grollte
-ein rieſenhaftes Tier in den Feſttrubel hinaus.
+Erst klang es wie ein jhmerzhaste8 Miauen und ging
+dann in ein dumpfes Grollen über. Ununterbrochen grollte
+ein riesenhaftes Tier in den Festtrubel hinaus.
 
-„Was iſt denn da8?"“ ſragte ich. .
+»Was ist denn daß?« fragte ich …
 
-Harſt hatte ſeinen Marſch durch die Zelle unterbrochen
-und blieb lauſchend ſtehen.
+Harst hatte seinen Marsch durch die Zelle unterbrochen
+und blieb lauschend stehen.
 
-„Das iſt Dandus' Leopard,“ ſagte er.
-hab „So muß er ſeinen Käfig ganz in unſerer Nähe
+»Das ist Dandus’ Leopard,« sagte er.
+hab »So muß er seinen Käfig ganz in unserer Nähe
 
-aben.“
-fei „E38 ſcheint ſo. Die Beſtie ſcheint ſchlechter Laune zu
-ein.“
+haben.«
+sei »Es scheint so. Die Bestie scheint schlechter Laune zu
+ein.«
 
-„Ja, oder Schmerzen zu haben.“
+»Ja, oder Schmerzen zu haben.«
 
-„Vielleicht ſtört ihn auch die Feſtmuſik und die Lichter.“
+»Vielleicht stört ihn auch die Festmusik und die Lichter.«
+
 <@pagebreak/>
-2222005202000 51 2402000000222
+»Das glaube ich nicht. Daran müßte er gewöhnt sein,
+E82 scheint irgend etwas anderes —«
 
-„Das glaube ich niht. Daran müßte er gewöhnt ſein,
-E82 ſcheint irgend eiwas auderes -- =+“
+Harst sprach den Satz nicht zu Ende. In sein Antlitz
+trat ein gespannter Ausdruck. Seine Augenbrauen zogen …
+sich zusammen, wie beim scharfem, konzentrierten Nachdenken.
 
-Harſt ſprach den Saz nicht zu Ende. In ſein Antlitz
-trat ein geſpannter Ausdru>. Seine Augenbrauen zogen .
-ſich zuſammen, wie beim ſcharfein, konzentrierten Nachdenken.
+Der Leopard heulte weiter.
 
-Der Leopard heulte weiter. |
+»das ist merkwürdig, sehr merkwürdig,« sagte er
+schließlich.
 
-„Da38 iſt merkwürdig, ſehr merkwürdig,“ ſagte et
-ſchließlich.
+»Na, Baron ist dies Leopardengejaule nicht,« gab ich
+zu, »aber besonders merkwürdig kann ich es nicht finden.«
+… »Wirklich nicht, Schraut? Denke einmal nach.«
 
-„Na, ſayön iſt die3 Leopardengejaule nicht,“ gab ic<h
-zu, „aber beſonders merkwürdig kann ich es nicht finden.“
-. „Wirklich niht, Schraut? Denke einmal nach.“
+Ich tat’s, schüttelte aber hoffnungslos den Kopf. irgend
+was Sonderbares konnte ich beim besten Willen nicht
+konstatieren.
 
-Ich tat's, ichüttelte aber hoſffnungslos8 den Kopf. Jr-
-gend was Sonderbares konnte ich beim beſten Willen nicht
-konſtatieren.
+»Dir fällt nickte auf, Max Schraut?«
 
-' „Dir fällt ni>dt3 auf, Max Schraut?“
+»Nein. Das Biest hat vorhin, als wir zu dem Fürsten
+geführt wurden, sein Fressen bekommen. Große Fleischstücke
+auf einem Karren, wie Du gesehen haben wirst,«
+sagte ich, »es sollte also ruhig und zufrieden sein -«+«
 
-„Nein. Das Bieſt hat vorhin, al3 wir zu dem Fürſten
-geführt wurden, ſein Freſſen bekommen. Große Fleiſ<-
-ſtüke auf einem Karren, wie Du geſehen haben wirft,“
-ſagte ich, „e3 ſollte alſo ruhig und zufrieden ſein -“+“
+»Siehst Du,« unterbrach mich mein Freund hastig, »Du
+beruhigt ja gerade den auffälligen Punkt. Wilde Tiere,
+die ihre Mahlzeit eingenommen haben, verhalten sich ruhig
+und verdauen. Dandus’ Leopard tut gerade das Gegenteil.
+Statt seines Verdauungsschlummers hält er ein schmerz-hafstes
+Konzert ob. Das hat bestimmt etwas zu bedeuten.«
 
-„Siehſt Du,“ unterbrach mich mein Freund haſtig, „Du
-berührſt ja gerade den auffälligen Punkt. Wilde Tiere,
-die ihre Mahlzeit eingenommen haben, verhalten ſich ruhig
-und verdauen. Dandus' Leopard tut gerade das Gegenteil.
-Statt ſeines Verdauungsſchlummers3 hält er ein ſchmerz-
-hafſtes Konzert ob. Das hat beſtimmt etwas zu bedeuten.“
+»Und Du weißt, was es sein kann?« fragte ich gespannt,
+überrascht von dieser logi’ichen Gedankenschärfe.
 
-„Und Du weißt, was e3 ſein kann?“ ſragte ich ge-
-ſpannt, überraſcht von dicſer logi'ichen Gedankenſchärſe.
+»Nein, wo 3 los ist, weiß ich natürlich auch nicht. Ich
+bin kein Hellseher. Aber irgend etwas ist im Gange. Bei
+Gott, ich wünschte, ich könnte aus der Zelle, um die Sache
+zu untersuchen.« …
 
-„Nein, wa 3 los iſt, weiß ich natürlich auch nicht. Ih
-bin kein Hellſeher. Aber irgend etwas iſt im Gange. Bei
-Gott, ich wünſchte, iH könnte aus der Zelle, um die Sache
-zu unterſuchen.“ .
+»Vielleicht kommt Hilfe von außen,« wagte ich einzuweihen
+…
 
-„Vielleicht kommt Hilfe von außen,“ wagte 1Hh einzu-
-werſen. .
-
-: „DaZ iſt das cinzige, womit ich rehne. In der erſten
-Nacht unſeres Aufenthaltes im Palaſt habe ich, wie Du
+»das ist das einzige, womit ich reine. In der ersten
+Nacht unseres Aufenthaltes im Palast habe ich, wie Du
 <@pagebreak/>
-0SSSI0SDDSSSSSS 19 SSSSSSSSSSSS
+weißt, heimlich herumgespürt. Im nächtlichen Garten fand
+ich die Nebenfrau des Knorrig, Naika, in Tränen ausgelöst.
+Ich gab mich ihr zu erkennen und gewann ihr Vertrauen.
+Ich versprach ihr, mein Bestes zu tun, um den
+Fürsten vor der Verschwörung zu retten. Naika versprach
+mir ihre Hilfe. Viel kann sie allerdings für unsere Zwecke
+nicht tun, da sie in der Zenana lebt. aber sie. hat einen ergebenen
+Diener und dessen Weib.«
 
-weißt, heimlich herumgeſpürt. Im nächtliccen Garten ſand
-ich die Nebenſrau des Mrroicha, Naika, in Tränen auſge-
-löſt. Ih gab mich ihr zu ertennen und gewann ihr BVer-
-irauen. Ich verſprach ihr, mein Beſtes zu tun, um den
-Fürſten vor der Verjichwörung zu retten. Naika verſprach
-mir ihre Hilſe. Viel kann ſie allervings ſür unjere Zwecke
-nicht tun, da ſie in der Zenana lebt. aber ſie. hat einen er-
-gebenen Tiener und deſjen Weib.“
+»Das ist der Alte, der uns die Früchte brachte!«
 
-„Das iſi der Alte, der uns die Früchte brachte!“
+»Ja, vViaika wird von unserer Gesangenjetzung wissen
+und sich benutzen, uns zu befreien. Aber ich möchte [Schon
+vorher aus diesem Loch heraus, um zu wissen, was mit
+cm Leoparden los ist.«
 
-„3a, vViaika wird von unſerer Geſangenjetzung wiſſen
-und ſic bemübßen, uns zu befreien. Aber ich möchte [chon
-vorher aus dieſem Loch heraus, um zu wiſſen, was mit
-cem Leoparden los8 iſt.“
+Harst blieb sinnend stehen.
 
-Harſt vlieb ſinnend ſtehen.
+»glomm, Schraut,« sagte er schließlich, »rücke das Bame-vusbett
+unter das vergitterte Loch. So, nun steige auf das
+Bot!, ich werde auf Deine Schulter turnen. Ich muß das
+Fenster untersuchen und einen Blick hinauswerfen.«
 
-„gFomm, Schraut,“ ſagte er ſchließlich, „rücke das Bame-
-vusbett unter das vergitterte Lo<. So, nun ſteige auf das
-Bott, ich werde auf Deine Schulter turnen. Ich muß das
-Fenſter unterſuchen und einen Bli> hinauswerſfen.“
-
-Geſagt, getan. Zc<h turnte auf die Pritſche und machte
-den Untermann für meines Freundes Kletterei. Geſchwind
-ſ<«wang ſich Harjt auf meine Schultern. Ich fühlte, wie
-er oben an den Cijenſtäben vüttelte und dann -- dann fiel
+Gesagt, getan. acht turnte auf die Pritsche und machte
+den Untermann für meines Freundes Kletterei. Geschwind
+schwang sich Harst auf meine Schultern. Ich fühlte, wie
+er oben an den Eisenstäben rüttelte und dann — dann fiel
 irgend etwas flirrend herab.
 
-Edhnell wie der Blitz war Harſt wieder unten, bücte
-[ſic und hob zwei Gegenſtände auf. Cs waren eine ſc<harſe
-Feile und ein hakenförmig gebogener ſtarker Draht, als
+Schnell wie der Blitz war Harst wieder unten, bückte
+[sich und hob zwei Gegenstände auf. Es waren eine schlanke
+Feile und ein hakenförmig gebogener starker Draht, als
 Dietrich gut verwendbar.
 
-„Naika hat vorgeſorgt,“ murmelte Harſt, „lo8, Schraut,
-an die Arbeit.“
+»Naika hat vorgesorgt,« murmelte Harst, »los, Schraut,
+an die Arbeit.«
 
 Mit dem Dietrich war das Schloß bald geöffnet, aber
-es wurde noch durch einen eiſernen Außenriegel gehalten,
-der uns viel zu ſchaſjen machte.
+es wurde noch durch einen eisernen Außenriegel gehalten,
+der uns viel zu schaffen machte.
 
-Wenn draußen nicht der Feſttumult geweſen wäre, hät-
-ten wir wohl kaum ungeſtört unſere Ausbrecherarbeit lei-
-ſten können, denn das Durchſeilen gab ein durchdringendes
+Wenn draußen nicht der Festtumult gewesen wäre, hätten
+wir wohl kaum ungestört unsere Ausbrecherarbeit leisten
+können, denn das Durchfeilen gab ein durchdringendes
 <@pagebreak/>
-202020200 S002DS 53 220500 DIE80620dS
+fnirschende3 Geräusch von sich. Zwischenspiel hörten wir
+das dumpfe Brüllen des Leoparden, aber allmählich wurde
+die Stimme des Tieres schwächer und schwächer und erstarb
+in einem diesen Grollen.
 
-fnirſchende3 Geräuſch von ſich. Zwiſchenvarch hörten wir
-das dumpſe Brüilen des Leoparden, aber almählliHh wurde
-die Stimme des Tierc3 ſchwächer und ſchwächer und er-
-ſtarb in einem tieſen Grollen.
+Endlich waren wir frei.
 
-Endlich waren wir ſrei.
+Vorsichriig öffneten wir die Tür.
 
-Vorſichriig öſineten wir die Tür.
+Ein langer, matt erleitichtcter Fang lag vor uns, dessen
+Decke durch dicke Marmorpfeiler getragen wurde.
 
-Ein langer, matt erleiti<htcter Wang lag vor uns, deſſen
-Deke durch dide Marmorpfeiler getragen wurde.
+Wie die Schatten huschten wir von Pfeiler zu Pfeiler,
+immer in Gefahr von einem plötzlich uäuftauchenden Dienstboten
+Geiste gehabt zu werden und da — plötzlich, mir
+klopfte das Herz in der Brust, kam uns eine in indische Gewänder
+gekaufte, mit einem Turban geschmückte Männergestalt
+entgegen.
 
-Wie die Schatten huſchten wir von Pfeiler zu Pfeiler,
-immer in Seſahr von einem plötlich uäuftauchenden vienſt-
-baren Geiſie geſaßt zu werden und da -- plsblic, mir
-fiopite das Herz in der Bruſt, kam uns eine in indiſche Ge-
-wänder gebzüllte, mit einem Turban geſdynückie VYiänner-
-geſtalt entgegen.
+handeln wir die Freiheit erlangt, um solltest und abermals
+gefangenge er zu werden?
 
-Hatitein wir die Freiheit erlangt, um entdeät und aber»
-mals gefangenge et zu werden?
+Meine Muskeln strahlten sich, ich war bereit mich auf
+den Mann zu stürzen, da Deck:e mich Harst am Kragen und
+dachte mich in sei Schatten eines Ateliers …
 
-Meine Muskeln ſtraſſten ſich, ic) war bereit mich auf
-den Mann zu ſtürzen, da poec>k:e mich Harit am Kragen und
-dudte mic) in tei Schatien eines Yjeilers3. .
+Der Mann kam näher und nun atmete ich auf. Eis war
+der weißbärtige Diener der Naika.
 
-Der Mann kam näher und nun atmete ich auf. Es8 war
-der weißbärtige Diener der Naifka.
+Harst stieß einen leisen Weise aus, ten der Mann mit
+einem unterdrückten Freudenruf erwiderte.
 
-Harſt ſtieß einen leiſen Pſiſſ aus, ten der Mann mit
-einem unterdrückten Freudenruſ erwiderte.
+»zu bist es, Sahib, den Göttern sei Dank,« raunte er,
+»so hast Du Feile und Dietrich gefunden. Meine Herrin
+war sehr beunruhigt und so hockte mich »b, um nachzusehen,
+ob etwa Wächter vor der Tür Deines Gefängnisses Stunden.
 
-„TU biſt es, Sadib, den Göttorn ſei Dank,“ rauitte er,
-„ſo haſt Du Feile und Dietrich geſunden. Meine Herrin
-war ſehr beunruhigt und ſc ickte mic) «b, um naczuſeken,
-ob etiva Wächter vor der Tür Deines Geſängniſſcs jiünden.
+»Es war niemand da.«
 
-„C3 war niemand .da.“
+»Damm rasch, ich habe Befehl, Dich zu meiner Herrin
+zu führen.«
 
-„Fomm raſch, ich habe Befehl, Dich zu meiner Herrin
-zu ſükren.“
+Mit äußerster Vorsicht folgten wir dem Alten. Durch
+Gänge, Treppen und Hallen für;rte er uns in den anderen
+Teil des Palastes, wo die Zenanas lagen.
 
-Mit äußerſter Vorſicht folaten wir dem Alten. Durch
-Gänge, Trepren und Hallen ſül;rte er un3 in den anderen
-Teil des Palaftes, wo die Zenana3 lageit.
-
-„Alle3 iſt beint Feſt,“ ſagte der Alte leiſe, „PMieeine
-Herrin hat örankheit vorgeſ<üvbt und blieb in ihren (Ge-
+»Allee ist beim Fest,« sagte der Alte leise, »Riesige
+Herrin hat Grundherr vorgeschüvbt und blieb in ihren (Gemächern.
 <@pagebreak/>
-2002200000228 531 DD 030 20BD200020200
+Nur ich und mein Weib sind bei ihr, und wir
+sind treu.«
 
-mädern. Nur ich und mein Weib ſind bei ihr, und wir
-ſind treu.“ ,
+Naika empfing uns in einem üppig ausgestatteten Gemach,
+das nach Rosenöl duftete und von einer indischen
+Ampel erleuchtet war. Sie war eine schlanke Frau von
+graziösen Bewegungen und müßte sehr schön sein. Zwar
+konnte ich ihre Gesichtszüge nur undeutlich erkennen, denn sich
+trug einen seinen, weißen Schleier, der nur ihre Augen
+freiließ. Diese Augen waren dunkel, sanft und traurig, In
+der Gesellen oft Naikas befand sich eine alte Frau!.
 
-Raika empfing un3 in einem üppig ausgeſtatteten Ge-
-mach, das nach Roſenöl duſtete und von einer indiſchen
-Ampel erleuchtet war. Sie war eine ſchlanke Frau von
-graziöſen Bewegungen und müßte ſehr ſchön ſein. Zwar
-konnte ich ihre Geſicht3züge nur undeutlich erkennen, denn ſic
-trug einen ſeinen, weißen Schleier, der nur ihre Augen
-freiließ. Dieſe Augen waren dunkel, ſanjt und traurig, In
-der Geſellſa aft Naikas beſand ſich eine alte Fraut.
-
-„Td begrüße Dich, Sahib,“ ſagte Naika, „ich bin frobh,
-daß Du frei biſt. Eli brachte Feile und Dietrich für Dich
+»Td begrüße Dich, Sahib,« sagte Naika, »ich bin froh,
+daß Du frei bist. Eli brachte Feile und Dietrich für Dich
 in die Zelle, als es bekannt wurde, daß Du und Dein
-Freund gefſangengeſetzt werden ſolltet. Er beſorgte aud)
-dies.“
+Freund gefangengesetzt werden solltet. Er besorgte auch)
+dies.«
 
-Sie zog au3 den Falten ihres Gewandes eine Piſiole
-amerikaniſcher Konſtruktion. N
+Sie zog aus den Falten ihres Gewandes eine Pistole
+amerikanischer Konstruktion.
 
-Oarſt griff raſch nach der Waffe, prüfte die Ladung
-und ſteckte ſie zu ſich.
+Harst griff rasch nach der Waffe, prüfte die Ladung
+und steckte sie zu sich.
 
-„Gli hat ſpioniert,“ ſagte die Fürſtin, „er hat erjahren,
-daß morgen der Schlag gegen meinen Gemahl, den Fürſten,
-erfolgen ſoll. Was eigentlich geſbchen wird, weiß ich nicht.
-Aber Dandus hat etwas Böſes vor. Er hat den Fürjien
-üÜberredet, morgen mit dem Leoparden zu kämpfen.“
+»Eli hat spioniert,« sagte die Fürstin, »er hat erfahren,
+daß morgen der Schlag gegen meinen Gemahl, den Fürsten,
+erfolgen soll. Was eigentlich geflohen wird, weiß ich nicht.
+Aber Dandus hat etwas Böses vor. Er hat den Fürsten
+üÜberredet, morgen mit dem Leoparden zu kämpfen.«
 
-„Ah,“ machte Harſt und ſah mich bedeutung8voll an,
-„iM dachte mir [ſo etivas.“
+»Ah,« machte Harst und sah mich bedeutungsvoll an,
+»ich dachte mir [so etwas.«
 
-„Der Radſcha, vom Ganja berauſcht, hat den Kampf
-verſproßen. Dandu3 und der Pricſier haben ihn bei ſeiner
-MannedZelttelkeit gepa>kt. Sie haben ihm eingeredet, daß
-auch er ſcine Tapferkeit zeigen und mit dem Leoparden
-ringen müßte. Was nun geſchehen ſoll, weiß ich nicht, aber
-ali d Dich an, Sahib, mir und meinem Gatten zu
-eljen.“
+»Der Radscha, vom Ganja berauscht, hat den Kampf
+versprochen. Dandus und der Priester haben ihn bei seiner
+MannedZelttelkeit gepackt. Sie haben ihm eingeredet, daß
+auch er seine Tapferkeit zeigen und mit dem Leoparden
+ringen müßte. Was nun geschehen soll, weiß ich nicht, aber
+Kali d Dich an, Sahib, mir und meinem Gatten zu
+Ellen.«
 
-„Da3 will ich tun,“ ſagte Harſt nach kurzem Nackden-
-ken. „Jc< habe bereit8 meinen Plan ſeviig. Können Sie
-uns dieſe Nacht bier verbergen, Fürſtin.“
+»Das will ich tun,« sagte Harst nach kurzem Nachdenken.
+»Ich habe bereits meinen Plan fertig. Können Sie
+uns diese Nacht hier verbergen, Fürstin.«
+
 <@pagebreak/>
-DSDSSSISDSSIISS 35 DSSSSSSSDISSSDD
+»O 1a.«
+… »Gut, so brauche ich Jetzt Kleider, wie sie die alte Diene:
+darin dort trägt. Ich muß mich über etwas informieren.«
+Harst wollte den Leoparden aussuchen, das war mir
 
-„O 1a.“
-. „Gut, ſo brauche ich Jebt Kleider, wie ſie die alte Diene:
-rin dort trägt. Ic< muß mich über etwas inſormieren.“
-' Harſt wollte den Leoparden auſſuchen, das war mir
+»Ich komme mit, Harst,« sagte ich entschlossen.
 
-„Ih komme mit, Harſt,“ ſagte ich entſchloſſen.
+»Du bleibst hier, mein Alter, ich?) muß allein gehen.
+Du würdest mich nur hindern. Sei unbesorgt,« sagte er beruhigend,
+als er mein ängstliches Gesicht sah, »ich werde
+sehr vorsichtig sein.«
 
-„Du bleibſt hier, mein Alter, ic?) muß allein gehen.
-Du würdeſt mich nur bindern. Sei unbeſorgt," ſagte er be-
-ruhigend, als er mein ängſtliche8 Geſicht ſah, „ich werdc
-ſehr vorſichtig ſein.“
+»Du willst zu dem Leoparden gehen!«
 
-„Du willſt zu dem Leoparden gehen!“
+»Ja, aber fürchte nichts, ich werde nicht zu der Bestie
+in den Käfig steigen, aber ich muß das Tier beobachten.
+Irgend etwas ist mit der Bestie los.«
 
-„Ia, aber ſürchte nicht3, ich werde nicht zu der Beſtic
-in den Käfig ſteigen, aber ich muß das Tier beobachten.
-Irgend etwas iſt mit der Beſtie lo3.“
+Die Worte wurden mit großer Entschlossenheit gesprochen
+und da wußte ich, daß es keinen Widerspruch gab.
 
-Die Worte wurden mit großer Entſchloſſenheit gc-
-ſprochen und da wußte i<, daß es keinen Widerſpruch gab.
-
-Auf einen Wink der Fürſtin hatte die alte Dienerin
+Auf einen Wink der Fürstin hatte die alte Dienerin
 Frauenkleider gebracht und hinter einem Vorhang, wo
-allerlei Toilettenutenſilien ſtanden, machte Harft mit meiner
-Hilfe Mas8ke. Sein Haar wurde ins Geſicht gekämmt, die
+allerlei Toilettenutensilien standen, machte Harst mit meiner
+Hilfe Maske. Sein Haar wurde ins Gesicht gekämmt, die
 Strähnen an den Schläfen wurden mit Puder geweißt.
-Um den Kopf wurde ein Tuch geſchlungen und ein dunkler
-"Schleier verde>te die untere Geſichtöhälſte. Die Maske war
-ſo verblüſſend, daß Naika, al8 wir in das Gemach zurüc-
-traten, einen Ruf der Ueberraſchung ausſtieß.
+Um den Kopf wurde ein Tuch geschlungen und ein dunkler
+»Schleier verdeckte die untere Gesichtöhälste. Die Maske war
+so verblüffend, daß Naika, als wir in das Gemach zurücktraten,
+einen Ruf der Überraschung ausstieß.
 
-Harſt ging geblikt, ſeine Hände waren zittrig, als ſie
-der alten Dienerin den Sto> ſortnahmen, auf den ſie ſich
-ſiübte.
+Harst ging gebückt, seine Hände waren zittrig, als sie
+der alten Dienerin den Stock teilnahmen, auf den sie sich
+größte.
 
-Er ſc<lurſte ein paarmal durc< da38 Gema, räuſperte
-ſich auf greiſenhafte Weiſe, hüſtelte und bewegte ſich voll-
-kommen wie ein alte8 Weib. *
+Er schluckte ein paarmal durch das Genua, räusperte
+sich auf greisenhafte Weise, hüstelte und bewegte sich vollkommen
+wie ein altes Weib.«
 
-Der alte Diener und ſein Weib murmelten etwa3 von
-„Zauber“, aber die Fürſtin war entzückt.
+Der alte Diener und sein Weib murmelten etwas von
+»Zauber«, aber die Fürstin war entzückt.
 
-„Geht es [o,“ fragte Harſt lächelnd.
+»Geht es [o,« fragte Harst lächelnd.
 
-„Großartig, Sahib, Du biſt der geborene Shanſpieler!
+»Großartig, Sahib, Du bist der geborene Schauspieler!
 
-flar!
+klar!
+
 <@pagebreak/>
-2DD02.Dd2202020202002080 36 0000020252202
-
-Nch, mun faſſe iG wieder Mut. Ich habe ſo viel Vertrauen
-zu Dir.“
-Harſt nickte ihr zu, ordnete ein lehte8 Mal ſeine Ge-
-wänder und ſcinen Schleier und ſ&lurſte zur Tür hinaus.
+Not, nun fasse ich wieder Mut. Ich habe so viel Vertrauen
+zu Dir.«
+Harst nickte ihr zu, ordnete ein leises Mal seine Gewänder
+und seinen Schleier und Schufte zur Tür hinaus.
 
 Im Toilettenraum hinter dem Vorhang wurde mir
-ein Lager auſgeſchlagen, aber ich konnte kein Auge ſchließen.
-Voller Unnrmthe erwartete ich Harſt3 NRückkchr.
+ein Lager ausgeschlagen, aber ich konnte kein Auge schließen.
+Voller Angrinste erwartete ich Harsts Rückkehr.
 
-Mein einziger Troſt war, daß er cine Waſſe bei ſich
-haite. Er konnte ſich alſo verteidigen, wenn er ertappt
+Mein einziger Trost war, daß er eine Waffe bei sich
+hatte. Er konnte sich also verteidigen, wenn er ertappt
 wurde.
 
-Stunden vergingen. I< börte aus dem Nebcengemache
-die leiſen Stimmen der Fürſtin und der Dienerin, die ſich
-ſlüſternd unterhielten.
+Stunden vergingen. Ich hörte aus dem Nebcengemache
+die leisen Stimmen der Fürstin und der Dienerin, die sich
+flüsternd unterhielten.
 
-Naika ſand in dieſer Nacht auch keinen Schlaf.
+Naika fand in dieser Nacht auch keinen Schlaf.
 
-Ih muß wohl ſchließlich doch etwas eingeſchlummert
-geweſen ſein, denn ich erwachte plötlich mit dem Empſin-
-den, daß jemand ſeine Ha.td auf meine Schulter legte. Mit
-einem unterdrückten Schrei ſuhr ich hoch, aber mein Schrecken
-wandelte ſich in Freude. .
+Ich muß wohl schließlich doch etwas eingeschlummert
+gewesen sein, denn ich erwachte plötzlich mit dem Empfinden,
+daß jemand seine bald auf meine Schulter legte. Mit
+einem unterdrückten Schrei fuhr ich hoch, aber mein Schrecken
+wandelte sich in Freude …
 
-Harſt ſtand vor mir,
+Harst stand vor mir,
 
-„Gott ſei Dank, daß D:t zurück biſt, Harald," flüſterte
-ih, „wa3 haſt Du entdeckt?“
+»Gott sei Dank, daß D:t zurück bist, Harald,« flüsterte
+ich, »was hast Du entdeckt?«
 
-: „O, allerlei Intereſſante3. ' Alſo, der Leopard iſt für
-den Kampf mit dem Fürſten präpariert worden.“
+»O, allerlei Interessantes. ’ Also, der Leopard ist für
+den Kampf mit dem Fürsten präpariert worden.«
 
-„Wie das?“ ſragte ich neugierig.
+»Wie das?« fragte ich neugierig.
 
-; „Das wirſt Du morgen ſehen, wenn der Kampf ſtatt-
-indet. “
+»Das wirst Du morgen sehen, wenn der Kampf stattfindet.«
 
-„Du willſt dieſen Kämpf ſtattfinden laſſen ?“
+»Du willst diesen Kampf stattfinden lassen?«
 
-„Ia, aber ich werde ihn im geeigneten Augenbli> un-
-terbrehen. Ich denke, daß der Radſcha ſeines Mißtrauens
-gegen un3 halber doch einen kleinen Denkzetiel verdient hat.“
+»Ja, aber ich werde ihn im geeigneten Augenblick unterbrechen.
+Ich denke, daß der Radscha seines Mißtrauens
+gegen uns halber doch einen kleinen Denkzettel verdient hat.«
 
-Wenn ich daran dachte, daß der Fürſt uns auf Lügen
-hin einſperrte, ſo war ich wirklich ebenſfſall38 geneigt, ihm
-beſagten Tenkzettel zu gönnen!
+Wenn ich daran dachte, daß der Fürst uns auf Lügen
+hin einsperrte, so war ich wirklich ebensfsall38 geneigt, ihm
+besagten Denkzettel zu gönnen!
 
-„Und dann habe ich noch etwa3 entde>t!"
+»Und dann habe ich noch etwas entdeckt!«
+
 <@pagebreak/>
-DSDSSDSISDSISOSS 537 2000SSDOSSIIDIDSISS:
+»s »Was denn?«.
 
-*s „Was denn?*.
+»Ich weiß, wo sich der gestohlene Rubin bekundet!«
 
-„Ich weiß, wo ſich der geſtohlene Rubin beſinvdet!“
+»Ah,« rief ich verblüfft, »wo ist er? Warum hast Dr
+ihn nicht mitgebracht?«
 
-„Ah,“ rief ich verblüfft, „wo iſt er? Warum haſt Dr
-ihn nicht mitgebracht?“
+»Lebztere8 ist nicht so einfach, ich konnte nicht so ohne
+weiteres an das Versteck heran und wo er ist, wirst Du
+morgen erfahren. Du wirst! überrascht sein!
 
-„Lebztere8 iſt nicht ſo einfach, ich konnte nicht ſo ohne
-weiteres an das Verſte> heran und wo er iſt, wirſt Du
-morgen erfahren. Du wirſi! überraſcht ſein!
+»Dandus und der Priester sind wahre Teufel,« fügte
+Harst hinzu.
 
-„Dandus und der Prieſter ſind wahre Teufel," fügte
-Harſt hinzn.
-
-Allmählich, e8 mußte ſchon tief in der Nacht ſein, er-
-loſ<en die Geräuſche des Feſte3 und Harſt und ich ſanken
+Allmählich, es mußte schon tief in der Nacht sein, erloschen
+die Geräusche des Festes und Harst und ich sanken
 in Schlummer.
 
-Wir wurden am nächſten Morgen durch den Alten 9gx-
-wet, der uns ein autes Frühſtü> brate.
+Wir wurden am nächsten Morgen durch den Alten 9gx-
+wer, der uns ein gutes Frühstück Spalte.
 
-„Tb,“ ermunterte mich Harft, „und dann wollen wir
-Dich verkleiden.“
+»Ob,« ermunterte mich Harst, »und dann wollen wir
+Dich verkleiden.«
 
-Wir verzehrten unſer Frühſtük mit gutem Appetit.
-Plöhblich kam mir eir! Gedanife.
+Wir verzehrten unser Frühstück mit gutem Appetit.
+Fröhlich kam mir ein! schaute.
 
-„Menn man nun heute morgen in unſerer Zelle nach-
-ſieht "und uns nicht mehr vorfindet! WaS8 dann, Haralv?“
+»wenn man nun heute morgen in unserer Zelle Nachsicht
+»und uns nicht mehr vorfindet! was dann, Harald?«
 
-„Dann ſoll man denken. daß wir un2 vermittels unſe»
-rer Zauberkünſte befreit haben,“ lachte dieſer,
+»Dann soll man denken. daß wir un? vermittels unserer
+Zauberkünste befreit haben,« lachte dieser,
 
-„Und das durchfeilte Schloß!“
+»Und das durchfeilte Schloß!«
 
-„Mögen ſie denken, was ſie wollen,“ war die Entaeg-
-nung, „aber glaube mir, vor dem Leopardenkampf wird
-ſich niemand um uns kümmern. Dandu3 und der Nepak
-haben vorläuſig nur den einen Wunſch, ven Fürſten aus
-dem Wege zu räumen. Erſt vanach werden ſie ſich mit un3
-befaſſen. Aber es ſoll ander3 kommen, wie ſie es ſich den».
-fen. Höre nur, ſchon (zeßt der Tumult wieder los. Die
-Spiele beainneni auf3 pveite und als erſie Nummer auf dem
-heutigen Programn wirv der Leopardenkampf de3 Für»
-ſten ſtehen. Daſür werden Dantus und der Prieſter ſchon
-ſorgen. Dandu3 hat Eile, Fürſt von Malcwe 31 werder
-und die Gattin desſelben zu ſeiner Frau zu machen.“
+»Mögen sie denken, was sie wollen,« war die Entgegnung,
+»aber glaube mir, vor dem Leopardenkampf wird
+sich niemand um uns kümmern. Dandus und der Nepak
+haben vorläufig nur den einen Wunsch, den Fürsten aus
+dem Wege zu räumen. Erst danach werden sie sich mit uns
+befassen. Aber es soll andere kommen, wie sie es sich den«.
+offen. Höre nur, schon (Bett der Tumult wieder los. Die
+Spiele braunem aufs Breite und als erste Nummer auf dem
+heutigen Programm wird der Leopardenkampf des Fürsten
+stehen. Dafür werden Dandus und der Priester schon
+sorgen. Dandus hat Eile, Fürst von Malewe 31 werden
+und die Gattin desselben zu seiner Frau zu machen.«
+
 <@pagebreak/>
-DSSSSISSISSISS Z33 SSSSSSDSSSSIOD
+»Falls das Volk sie nicht als seine Witwe verbrannt
+sehen will,« warf ich ein.
 
-„Falls das Volk ſie nicht al3 ſeine Witwe verbrannt
-ſehen will," warf ich ein.
+»O, die Witwenverbrennung ist durch die Engländer
+aufgehoben. Ich gebe zu, daß sie hin und wieder doch noch
+vorkommt und in diesem Falle würde Dandus mit Hilfe
+des Priesters sicher einen Betrug durchführen.««
 
-„O, die Witwenverbrennung iſt durc< die Engländer
-aufgehoben. I< gebe zu, daß ſie hin und wieder doch no<
-vorkommt und in dieſem Falle würde Dandus mit Hilfe
-des Prieſters ſicher einen Betrug durchſühren.“ "
+»Wäre das möglich?«
 
-„Wäre das möglich?“
+»Gewiß. Du weißt, daß die Frauen sich außerhalb
+ihrer Gemächer nur verschleiert zeigen. Niemand weiß also,
+wie sie ansehen. Man braucht nur Naika heimlich mit
+Ganja zu betäuben, sich zum Scheiterhaufen zu schleppen
+und als die Witwe zu verbrennen. Man ist damit ihre unbequeme
+Person los und schlägt zwei Fliegen mit einer
+Klappe. Etwaige treue, und daher unbequeme Dienerschaft
+wird vergiftet. Das Verfahren ist für gewissenlose Schurken
+sehr einfach.«
 
-„Gewiß. Du weißt, daß die Frauen ſich außerhalb
-ihrer Gemächer nur verſchletert zeigen. Niemand weiß alſo,
-wie ſie au8ſehen. Man braucht nur Naika heimlich mit
-Ganja zu betäuben, ſic zum Scheiterhaufen zu ſchleppen
-und als die Witwe zu verbrennen. Man iſt damit ihre un-
-bequeme Perſon lo3 und ſchlägt zwei Fliegen mit einer
-Klappe. Etwaige treue, und daher unbequeme Dienerſchaſt
-wird vergiſtet. Das Verfahren iſt für gewiſſenloſe Schur-
-ken ſehr einfach.“
+»Entsetzlich, dazu darf es nicht kommen!«
 
-„Entſeblich, dazu darf e8 nicht kommen!“
+»Natürlich nicht, und wir werden diese Schandtat verhindern.
+Hier, Schraut, sind Deine Kleider. Ich will Deine
+Mas8öke machen.«
 
-„Natürlich nicht, und wir werden dieſe Schandtat ver-
-Iindern. Hier, Schraut, ſind Deine Kleider. Jh will Deine
-Mas8öke machen.“
-
-Der Alte hatte Kleider gebracht, und Harald machte ſich
-an8 Werk. In einer halben Stunde war ic ein getreues
-Abbild de3 alten Eli, ſo daß dieſer ſaſt erſchreft vor mir -
+Der Alte hatte Kleider gebracht, und Harald machte sich
+ans Werk. In einer halben Stunde war ich ein getreues
+Abbild des alten Eli, so daß dieser fast enthielt vor mir —
 zurückwich.
 
-Harſt verwandelte ſich darauf in die alte Dienerin und
-die beiden Originale wurden in der Toilettenkammer ver-
-ſteft. Naika zu Füßen hoend warteten wir, daß wir zu
-ven Jeſtſpielen abgeholt werden würden.
+Harst verwandelte sich darauf in die alte Dienerin und
+die beiden Originale wurden in der Toilettenkammer verstellt.
+Naika zu Füßen herab warteten wir, daß wir zu
+den Festspielen abgeholt werden würden.
 
-Bald kam auch ein Verſchnittener, der uns auf die
+Bald kam auch ein Verschnittener, der uns auf die
 
-trauengalerie führte. Sämtliche anderen Fratien und deren
-Diener und Dienerinnen hatten bereit8 Platz genommen.
+trauengalerie führte. Sämtliche anderen Frauen und deren
+Diener und Dienerinnen hatten bereits Platz genommen.
 
-Saba, die Hauptſrau des Fürſten, ſaß auf einem er-
-höhten Sit. Sie hatte Naika kränkenderweiſe zuletzt rufen
-laſſen und wie3 ihr herriſch einen verſte>kten Seitenplatz an.
+Java, die Hauptfrau des Fürsten, saß auf einem erhöhten
+Sir. Sie hatte Naika kränkenderweise zuletzt rufen
+lassen und wies ihr herrisch einen versteckten Seitenplatz an.
 
-„Baßt aus8gezeichnet in meinen Rlan,“ ſagte Harſt leiſe,
+»Baß! ausgezeichnet in meinen Plan,« sagte Harst leise,
 <@pagebreak/>
-020200020802 BDS8SS0d23SS 535 8002800828020 5525002
+»daß wir hier sozusagen vom »Katzentisch« aus die Zuschauer
+spielen müssen.«
 
-„daß wir hier ſozuſagen voni „Katzentiſch“ aus die Zu-
-ſchauer ſpielen müſſen.“
+Ich waltete meines Amtes, indem ich über Naikas
+Haupt einen gestickten Sonnenschirm hielt und Harst kniete
+neben ihr, dicht an der Brüstung der Galerie. Er trug
+Naikas Fächer und ein Parfümflakon.
 
-IH waltete meine8 Amtes, indem ich über Naikas
-Saupt einen geſtidten Sonnenſchirm hielt uad Harſt knizte
-neben ihr, dicht an ver Bräſtung der Galerie. Er trug
-Naikas Fächer und ein Pacſümſlakon.
+Unten saßen die männlichen Zuschauer, unter denen
+wir uns am vorigen Tage befunden hatten. Der Kampfplatz
+war gefegt. Musik ertönte und nun marschierten die
+»Soldaten des Fürsten auf, mit großem Pomp gekleidet. Sie
+nahmen seitlich Ausstellung und die Sonne blitzte auf den
+Spitzen ihrer Speere und dem Gold ihrer Gewandung.
 
-Unten ſaßen die männlichen Zuſchauer, unter denen
-wir uns am vorigen Tage befunden hatten. Der Kampf-
-plat war gefegt. Muſik ertönte und nun marſchierten die
-„Soldaten des Fürſten auf, mit großem Pomp gekleidet. Sie
-nahmen ſeitlich Auſſtellung und die Sonne blitzte auf den
-Spiven ihrer Speere und dem Gold ihrer Gewandung.
+Wenn ich mich verneigte, konnte ich den Fürsten sehen.
+Eise Züge waren blaß. Neben ihm stand die Ganija-pleije.
 
-Wenn ich mich vorneigte, konnte ich den Fürſten ſehen.
-eiſe Züge waren blaß. Neben ihm ſtand die Ganija-
-pleije.
+Jetzt wurde der Karren mit den! Leoparden hereingerollt.
+Er wandte und drehte sich in seinem engen Käfig.
+Das Tier schien mir heute ungewöhnlich wild und aufgeregt.
 
-Jetzt wurde der Karren mit dent Leoparden herein-
-gerollt. Er wandte und drehte ſich in jeinem engen Käfig.
-Das Tier ſchien mir heute ungewöhnlich wild und auf-
-geregt.
+— Was war mit ihm geschehen?
 
-- Wa3 war mit ihm geſchehen? '
+Diener stellten den Käfig in die Mitte der Arena und
+zogen sich dann hinter die Barriere zurück. Einer von ihnen
+hatte einen Strick in der Hand, der sehr lang war. Ein
+» Hornsignal ertönte. Der Diener duckte sich an die Barriere,
+zog an dem Strick, die Enthüllt des Käfigs öffnete sich, und
+der Leopard sprang mit einem wissen Satz ins Freie.
 
-Diener ſtellten den Käſig in die Mitte der Arena und
-zogen ſich dann hinter die Barriere zurück. Einer von ihnen
-hatte einen Stri> in der Hand, der ſehr lang war. Ein
-* Hornſignal ertönte. Der Diener duckte ſich an die Barriere,
-zog an dem Strick, die Falliüür des Käſigs öfſnete ſich, und
-der Leopard ſprang mit einem wilven Satz ins Freie.
-
-- Den Sand mit dem Schweif peitſchend, ſah ſich der
+— Den Sand mit dem Schweif peitschend, sah sich der
 Leopard wild um.
 
-Nun ſah ich den Dandus vortreten und ſich vor dem
-Fürſten verneigen. Der Nadſcha erhob ſich. Er warſ ſeinc
-Oberkleidung ab und bis zum Gürtel na>t, wie am Vor-
-tage ſein Veticr, beirat ex die Arena.
+Nun sah ich den Dandus vortreten und sich vor dem
+Fürsten verneigen. Der Radscha erhob sich. Er war’s seine
+Oberkleidung ab und bis zum Gürtel nackt, wie am Vorlage
+sein Vetter, betrat er die Arena.
 
-r Leopard ſuntelte ihn an, und mir blieb ſaſt dei
-Herzſchlag weg! 7
-Da3 Tier war ungewöhnlich wild, und der Radſcha
+Leopard handelte ihn an, und mir blieb fast bei
+Herzschlag weg!
+Das Tier war ungewöhnlich wild, und der Radscha
 <@pagebreak/>
-DSDDSSSSSSS0OOD 60 DSSSSECHSSOSSDD
+schwankte ein wenig. Das machte der Ganjagenuß. Ich
+begriff Harst nicht, daß er das gefährliche Spiel so auf die
+Spitze trieb.
 
-ſchwankte ein wenig. Das machte der Ganjagenuß. I<
-begriff Harſt nicht, daß er das geſährliche Spiel ſo auf die
-Spite trieb.
+Verstohlen schaute ich zu ihm hin …
 
-Verjtodlen ſchaute ich zu ihm hin. .
+Da — ich sah, daß er sacht die Linke auf die Brüstung
+legte. Sacht zog er die Rechte aus den Gewandfalten, sie
+hielt den Revolver umklammert. jedoch?! von der Linken,
+gestützt auf die Galerie des vielen Fiebers halber, war der
+Revolver im Anschlag auf den Leoparden.
 
-Da -- ich ſah, vaß cr ſacht die Linke auf die Brüſtung
-legte. Sacht zog er die Rechte aus den Gewandfalten, ſie
-hielt den R«cvolver umklammert. Gedecki von der Linken,
-geſtübt auf die Galerie des ſieren Ziclen8 halber, war der
-Revolver im Anſchlag auf den Leoparden.
+Mein Gott, aber ein Revolverkaliber war nicht groß
+genug für die Besuch
 
-Mein Gott, aber ein Revolvertaliber war nicht groß
-genug jüc die Beſiiel
+Meine einzige Hoffnung war, daß Harst ein Meisterschütze
+war.
 
-Meine einzige Hoffnung war, daß Harſt ein Meiſter-
-ſchübe war.
+Da — ein Schrei ertönte, der Leopard hatte sich auf
+den Fürsten gestürzt.
 
-Da -- ein Schrei ertönte, ver Leopard hatte ſich auf
-den Fürſten geſtürzt.
+Es war ein schrecklicher Falls?! Und doch, in diesem
+Augenblick stellte ich dem Radscha das Zeugnis der Tapferkeit
+aus. Sein Ganjarausch war offenbar verflogen. Obgleich
+er taumelte, hielt er sich doch in kräftiger AUbwehr-stellung
+gegen das Tier, umklammerte es mit schien Geist
+zum Ringkampf. Aber die Bestie, gereizt wie sie war, hatte
+die ihr eingedrillten Negern eines Ningkampses vergessen.
+Sie brauchte die Krallen, schlug sie tief in den Rücken des
+Fürsten, Blut rann über dessen bronzefarbene Haut. Der
+Rachen des Tieres war aufgerissen zum tödlichen Biß in
+die Kehle, das kreischende Tiergesicht war uns zugewandt
+— Sekunden noch, und um den Radscha war’s geschehen —
 
-Cs war ein ſchre>licher Anblik1 Und doch, in dieſem
-Augenblick ſtellte ich dem Radſcha das Zeugnis der Tapfer-
-keit aus. Sein Ganjaraujch war oſſenbar verſlogen. Ob-
-gleich er taumelte, hielt er ſich doch in kräftiger AUbwehr-
-ſtellung gegen das Tier, umklammerte es mit ſeſiem Griſſ
-zum Ringkanipf. Aber die Beſtie, gereizt wie ſie war, hatte
-die ihr eingedrillten Negeln eines Ningkampſes vergeſſen.
-Sie brauchte die Krallen, ſchlug ſie ticj in den Nücken des
-Fürſten, Blut rann über dejjen bronzeſarbene Haut. Der
-Rachen des Tieres war aufgeriſſen zum tödlichen Biß in
-die Kehle, das fletſhende Tiergeſicht war uns zugetvandt
--- Sekunden noch, und um den Nadijcha war'3 geſchehen --
+Da ertönte ein Knall — ein zweiter folgte unmittelbar!
 
-Da ertönte ein Knall -- ein zweiter ſolgte unmittelbar!
+Mit einem Geheul ließ das Tier seine sichere Beute
+los, rollte in den Sand und streckte die Glieder von sich.
+Zwei Schüsse ins Auge — zwei Meisterschüsse, die keine Sekunde
+zu spät kamen — hatten seinem Leben ein Ende gemacht.
 
-Mit einem Geheul ließ das Tier ſeine ſichere Beute
-lo38, rollte in den Sand und ſtre>te die Glieder von ſich.
-Zwei Schüſſe ins Auge --- zwei Meiſterſchüſſe, die keine Se-
-funde zu ſpät kamen -=-- hatten ſeinem Leben ein Ende ge-
-macht.
-
-Nun brach ein ur6eheurer Tumult 103. Im leßten
-Augenblik hatten alle erfannt, das hier ein abſcheulicher
+Nun brach ein ur6eheurer Tumult 103. Im letzten
+Augenblick hatten alle erkannt, das hier ein abscheulicher
 <@pagebreak/>
-DSSDESSSDEBDSES 51 D0S5402-SEBEDIS
+Streich gegen den Fürsten vorlag. Der Leopard hatte sich
+zu Auffällig benommen. Ein wilder Tumult lud an, in
+dem sich der Radscha von Malewe wie betäubt aus Bett
+Sande erhob.
 
-Streich gegen den Fürſten vorlag. Der Levpard hatte ſich
-'zu Kuſſällig benommen. Cin wilder Tumuli bub an, in
-dem jich ver Radſcha von Malewe wie betäubt aus vezt
-Saude e1h9b.
+Im Handumdrehen hatte Harst seine! Schleier abgeworfen
+und sprang über die Brüstung. Mit wenigen lassen
+war er neben dem Fürsten, den Revolver im Anschlag.
 
-Im Handumdreben hatte Harſt feinet Schleier abge-
-worſen und ſprang über die Brüſtung. Mit wenigen Sätven
-war er neben dem Fürſten, den Revolver im Anſchlag.
+Die Verblüffung des Radscha war groß.
 
-Die Verblüjſung des Nadſcha war groß.
+Harst aber hielt die Waffe Hexe Dandus und den
+Priester, die auf ihn zusprangen.
 
-' Sarſt aver hielt die Waffe gege Daitvu3 und den
-Prieſter, vie auf ihn zuſprangen.
+»Zurück,« schrie er, »oder ich schieße.«
 
-„Zurück,“ ſchrie er, „oder ich ſchieße.“
+Und dann zum umstehenden Volke gewandt:
 
-Und dann zum umſtehenden Volke gewandt:
+»3 klage Landung und Venus, sowie die Fürstin Java
+an, einen Abscheus: d;en Anschlag gegen das Leben des Fürsten
+begangen zu haben. Sie waren es, die den Talisman
+aus dem Kopfe des Tigergottes stahlen. Sie wollten, daß
+der Fürst im Konsul mit dem Leoparden sein Lev2n einbüße.
+Ihr alle habt gesehen, wie aufgeregt sich das Tier benahm.
+Es benahm sich ganz anders wie gestern, bei dem Kampf
+mit Dandus. Nicht ein Sportspiel war es, das man dem
+Fürsten anbot. Er sollte in den Tod gelockt werden!«
 
-„3 klage Tandüus und Üepak, ſotvie die Fürſtin Saba
-an, einen abſc>eul: d;en Anſchlag gegen das Leben des Für-
-ſien begangen zu haben. Sie waren es, die den Talisman
-aus dem Kopfe des Tigergottes ſiablen. Sie wollten, vaß
-der Fürſt im Kamvyf mit vem Leoparden ſcin Lev2n einbüße.
-Ihr alle habt gejehen, wie aufgeregt ſic) das Tier benahm.
-E8 benahm ſich ganz anders wie geſiern, bei dem Kampf
-mit Dandus. Nicht ein Sportſpiel war e3, das man dem
-Fürſten anbot. Er ſollte in den Tod gelockt werden!“
-
-„3a, ja, der Leopard war anders wie geſiern, er war
-gereizt, er vergaß ſeine Dreſſur ==“ riefen Stiimmen rings»
-um.
-feht 1 I will Euch zeigen, warnm er geceizt war. Fürſs
+»Ja, ja, der Leopard war anders wie gestern, er war
+gereizt, er vergaß seine Dressur —« riefen Stämmen ringsum.
+fest 1 I will Euch zeigen, warum er gereizt war. Fürst
 e
 
-Es | erübrigt ſich zu ſagen, daß ich Harſt auf ſeinem
-Sprunge über die Galerie geſvlſgt war. Nun ſtand ich neben
-ihm und dem Fürſten. Die Zuſchauer drängten ſich herbei,
-und Harſt beugte ſich über den Kadaver des Tieres.
+Es! erübrigt sich zu sagen, daß ich Harst auf seinem
+Sprunge über die Galerie gekriegt war. Nun stand ich neben
+ihm und dem Fürsten. Die Zuschauer drängten sich herbei,
+und Harst beugte sich über den Kadaver des Tieres.
 
-Mit ſpitzen Fingern ſchob er deſſen Schulterſell da, wo
-e3 bei ten Großtaten bgſonder3 locker iſt, beiſeite. Zwiſchen
-den Fellhaaren ſah män vie Spuren einer primitiven Naht,
-durch darmſaitenähnliche Fäven zuſammengehalten.
+Mit spitzen Fingern schob er dessen Schuhsenkel da, wo
+es bei ten Großtaten Passendere locker ist, beiseite. Zwischen
+den Fellhaaren sah man die Spuren einer primitiven Naht,
+durch darmsaitenähnliche Fäden zusammengehalten.
 
-Wir machten alle verblüffte Geſichter.
+Wir machten alle verblüffte Gesichter.
+
 <@pagebreak/>
-DSSSSSSSSSSS 652 DSDS SSSSSSTSO
+Was sollte das heißen?
+ich »Ein Messer,« befahl Harald, und es wurde ihm Schrei
 
-Was ſollte das heißen?
-ich „Gin Meiſer,“ bejahl Harald, und es wurde ihm gc-
-rei t
-
-Mit leichtem Schnitt trennte mein Freund die printi-
-tive, dirurgiſche Naht auf, cin Grijſ --- und auf ſeinem
-ausgeſtre>ten Handteller lag ſunkelnd und blitend --- vcr
+Mit leichtem Schnitt trennte mein Freund die primitive,
+chinesische Naht auf, ein Griff — und auf seinem
+ausgestreckten Handteller lag handelnd und bittend — vor
 Rubin!
 
-Der Fürſt griſſ zitternd nac) dem Talisman.
+Der Fürst griff zitternd nach) dem Talisman.
 
-„Gejern,“ fuhr Harſt mit lauter Stimme fort, „fütterte
-Dandus abends ſein Tier ſelbſt. Den Fleiſchſtüken war
-cine ſtarke DoſiS8 Cures ſchädlichen Betäubungsmittel3, da8.
-Opium, beigemiſ<t. So ſchlummerte das Tier gleich nach
-ſeiner Mahlzeit ein. Während die Beſtie im Beiäubungs-
-ſchlaf lag, machte Dandu3 den Schnitt, barg den Stein in
-der lokeren Sculterhaut und vernähte die ungeſährliche
-Wunde. Bald aber erwachte die Beſtie aus der Betäu-
-bung. Der Fremdkörper quälte ſie, und ſie brüllte. Dies
-Brüllen nach der eingenommenen Mahlzeit ſiel mir auf, al3
-ic) in meinem Kerker ſaß. Ich beſreite mich und beſuchic
-den Leoparden, beobachtete ihn durch die Gitterſtäbe. Er
-verſuchte mit dem Maule die ſchmerzende Stelle zu erreich?!!,
-was ihm nicht gelang. Er verſuchte ſie zu kratzen, doh.
-ſchienen die Schmerzen ſich dann zu ſteigern, worauf er es
-unterließ. Echließlich beruhigte ſich der Schmerz. Aber
-natürlich wurde das Tier durch den Stein beläſtigt, darum
-war es heute wild --- und weil c3 vorſäblich wild gemacht
-worden war, ſollte der Fürſt heute mit ihm kämpfen und
-durch e3 ſterben!“
+»Geiern,« fuhr Harst mit lauter Stimme fort, »fütterte
+Dandus abends sein Tier selbst. Den Fleischstücken war
+eine starke Dosis Eure schädlichen Betäubungsmittels, daß.
+Opium, beigemischt. So schlummerte das Tier gleich nach
+seiner Mahlzeit ein. Während die Bestie im Betäubungsschlaf
+lag, machte Dandus den Schnitt, barg den Stein in
+der lockeren Schulterhaut und vernähte die ungefährliche
+Wunde. Bald aber erwachte die Bestie aus der Betäubung.
+Der Fremdkörper quälte sie, und sie brüllte. Dies
+Brüllen nach der eingenommenen Mahlzeit fiel mir auf, als
+ich in meinem Kerker saß. Ich begreife mich und besuchte
+den Leoparden, beobachtete ihn durch die Gitterstäbe. Er
+versuchte mit dem Maule die schmerzende Stelle zu erreicht?!!,
+was ihm nicht gelang. Er versuchte sie zu kratzen, doch.
+schienen die Schmerzen sich dann zu steigern, worauf er es
+unterließ. Schließlich beruhigte sich der Schmerz. Aber
+natürlich wurde das Tier durch den Stein belästigt, darum
+war es heute wild — und weil es verläßlich wild gemacht
+worden war, sollte der Fürst heute mit ihm kämpfen und
+durch es sterben!«
 
-Ruſe der Empörung waren während Harſt3 Rede laut
-geworden. Die Soldaten hatten ſich um Nepak und Dandus
-geſtellt, und auf einen Wink des Fürſten ſührte man ſie ab.
+Ruhe der Empörung waren während Harsts Rede laut
+geworden. Die Soldaten hatten sich um Nepak und Dandus
+gestellt, und auf einen Wink des Fürsten führte man sie ab.
 
-„Fürſt,“ ſagte Harſt ernſt, „glaubſt Du noc< immer,
-daß mein Freund und ich Deinen Nubin geftohlen haben?“
+»Fürst,« sagte Harst ernst, »glaubst Du noch immer,
+daß mein Freund und ich Deinen Rubin gestohlen haben?«
 
-Statt aller Antwort umarmte der Radſcha uns, im An-
-geficht aller Verſammelten. Dann wurden wir im Triumph
-in den Palaſt geführt.
+Statt aller Antwort umarmte der Radscha uns, im Angesicht
+aller Versammelten. Dann wurden wir im Triumph
+in den Palast geführt.
+
 <@pagebreak/>
-2222022222d222 6:3 2000202202020 22022
+Das Schlaf des Dandus und des Nepak wären nicht
+auszuhalten. Sie mußten sterben. Aber für Java, die auch
+dem Tode verfallen war, erwirkte Harst das Leben. Sie
+wurde zu ihrem Vater zurückgeschickt, die größte Schande
+für ein indisches Weib, wo sie in den Zenanas vergraben
+ihr Dasein unbeachtet vertrauern muß.
 
-Das Schiſal des Dandus und des Nepak wären nicht
-auſzuhalten. Sie mußten ſterben. Aber ſür Saba, die auch
-dem Tode verſallen war, erwirkte Harſt das Leben. Sie
-Wwurde zu ihrem Vater zurücgeſchi>t, die größte Schande
-für ein indiſches Weib, wo ſie in den Zenana38 vergraben
-ihr Daſein unbeachtet vertrauern muß.
+Des Radscha Wunder wurden von Naika gewaschen
+und verbunden. Der Fürst erhob sie zu seiner Hauptfrau
+und schwer, niemals eine Nebenfrau zu nehmen, als er erfuhr,
+was sie aufopfernd für ihren Gatten getan hatte. Am
+Nachmittage zogen wir alle mit großem Pomp in den Tempel,
+wo der Rubin wieder in die Stirn des Tigergottes
+eingefügt wurde.
 
-Des Radſcha Wnnden wurden von Naika gewaſchen
-und verbunden. Der Fürſt erhob ſie zu ſeiner Hauptſrait
-und ſ>Wwor, niemals eine Nebenfrau zu nehmen, als er er-
-fuhr, was ſie aufopfernd für ihren Gatten getan batte. Am
-'Nachmittage zogen wir alle mit großem Pomp in ven Tcm-
-pel, wo der Nubin wieder in die Stirn des Tigergottes
-eingeſügt wurde.
+Nautchgirls führten Tänze auf. Aber Hat! war nicht
+Abgründen. Sie war entflohen.
 
-Nautc<girls führten Tänze auf. Aber Hati war nicht
-vbarunter. Sie war entfloben.
+Harst und ich wurden gefeiert und beschenkt, und. der
+Fürst wollte uns für immer an seinem Hose behalten, uns
+Chrenstellen und Würden geben.
 
-Harſt und ich wurden gefeiert und beſchenkt, und. der
-Fürſt wollte uns ſür immer an ſeinem Hoſe behalten, uns
-Chrenſtellen und Würden geben.
-
-- ; Aber nach kurzer Raſt trieb uns unſer Abentcuerdrang
+—; Aber nach kurzer Rast trieb uns unser Abenteuerdrang
 weiter.
 
-Die Welt war groß und lockte, und noch viele Aben»
-feuer wollten wir beſtehen!
+Die Welt war groß und lockte, und noch viele Abenteuer
+wollten wir bestehen!
 
-Nächſter Band?
-Das Haupt der Shintz2.
-<@pagebreak/>
-ODODDIITDDODDDIODOEOEOODODOD
+Nächster Band?
+Das Haupt der Schritt?.
 
-Rabels
-Rriminalbücher
-
-Biäbher ſind folaende Bände erſchlenen:
-
-1. Mina Tſchtian. --- 2. Thoma38 Bruce, der Sträſß
-Un -“ 3. Die rote Roſe. -- 4. Das Allantikgeſvenſt.
--“ 3. Die Schildkröte. --- 6. Die anrüne Schlange. =
-7. Da3 TIeekäſichen, --- 8. Die Todactwelilhten. -- 9. Det
-Krokodillederkoſſer. --- 10. Treiſ-A3. -- 11. Der Wild-
-dieb. -- 12. Die leere Villa. -- 13. Der Klub det
-Toten. -- 14. Der Mann mit der Narbe. =-“+ 15. Die
-ſilbern? Scheibe. --- 16. Die Bilivnenbeute. --- 17. Die
-Tiacrinſel. -- 18. John Goodſleak8 Hochzeitsreiſe. --
-19. Die roken Brieſe. ---+ 20. Da3 Nadiogeſpvenſt =
-7: Die Naitenſalle. =- 22. Die eiſerne Frau. -- 23.
-a3 Teunſelsriſſ. =- 24. Der Kanberbli>. --- 25. Die
-'Ladyaaunerii. -- 26, Der Saal ohne Fenſter. =
-97. Al3 Harſt verſchwand. --+ 28. Die Hand aU3 Holz.
---- 29. Der Geiſterſucher. -- 30. Schraut genen Harſt,
--- 31. Die JFoht mit den drei Mumien. -- 32. Die
-Antenne im fünſten Stoc>, =-- 33. Da38 Geſpenſt von
-Kap Tſc<i-Lao. -- 34. Der weiße Tiaer, --- 35. Fünſ
-Ninger am Fenſter. --- 36. Das Nätſel der Heufuder-
-Bände. = 37. Das Hans auf Abbruch. =“- 38. Die
-
-Niſte de3 Kapiiäns. -- 39. Dex Kirchhof von Lanken,
-.-- 40, Das Krey: af ver Str,
-
- 
-
-Prei8 pro Band 40 Pſ.
-
-TDODODTTODDODDOVVOSODDSODAU;O->
-<@pagebreak/>
-Titel= Verzeichnis der Harald Harst-Bändden.
-
-W-=
-
-anz
-
-COVE AUu tu
-
-. Der
-
-. Zwei Taschentücher.
-
-Das Geheimnis des Szen»
-towo-Sees.
-
-. Der Mord i. Sonnenschein.
-. Die Jagd auf einen Namen.
-. Liu Sings Geheimnis.
-
-Der Tigerwagen.
-
-. Kuine Bfnkenstein.
-
-Der Mord ohne Toten.
-Die Augen der Jolante.
-Fluch eines Ge-
-Schlechts.
-
-. Die verschwundene Million.
-. Die Festung des Ali Azzim.
-. Die tote Lady Rockwell.
-. Der Fakir von Nagpur.
-
-. Der blinde Brahmane.
-
-. Das Auge der Prinzessin
-
-Singawatha.
-
-. Das Löschblatt von Am-
-
-ritsar.
-
-. Die leuchtende Fratze.
-
-. Schattendbilder.
-
-. Der Löwe von Flandern.
-. Der ewige Jude.
-
-. Das Armband der
-
-Lady
-Melville.
-
-. Die Ratselbrücke.
-. Der Einsiedler von Tristan
-
-da Cunha.
-
-. Die Siegellacktröpfchen.
-. Die Gesellschaft der roten
-
-Karten.
-
-. Die ULhrkette des Bill Ha-
-
-milton.
-
-. Der Tempel der Kali.
-. Nur ein Tintenfleck.
-. Der Stern von Siam.
-
-31.
-
-32.
-33.
-
-. Die Gefangene
-
-Eine leere Streichholz
-Schachtel.
-
-Der Sprechende
-Das Geheimnis
-
-Scheiterhaufens.
-
-Kopf.
-des
-
-von Tra-
-walkor.
-
-. Die Eishöhle in Neapel.
-. Der Mord im Warenhause.
-. Der Spielklub W. W.
-
-. Ein gefährlicher Auftrag.
-. Der sterbende Fechter.
-
-. Die Gespenster:Kikscha.
-. Eine Löwenjagd im Sinai
-. Der Afghan:Teppich.
-
-. Der Acht-Grad-Kanal.
-
-. Der leere Koffer.
-
-. Acht Stunden Frist.
-
-. Der Klub der XNIl.
-
-. Die Bajadere Mola Pur.
-
-. Der goldene Gonggong.
-
-Die Kugel aus dem Nichts.
-Der Piratenschoner.
-
-. Die Büchse der Pandora.
-
-Der Tintenlöscher des
-
-Sahdi Ahmed.
-
-, Auf des Messers Schneide.
-. Strandkorb Nr. 121.
-
-. Das Lichtbild ohne Kopf.
-. Das Haus in der Wildnis.
-. Das Geheimnis des Bra-
-
-Silianers.
-
-. Die Spielhölle von Hong-
-
-kong.
-
-. Das Rätsel v. Paragwana.
-. Ein amerikanisches Duell.
-. Die Ganges-Piraten.
-
-. Eine Wettfahrt ums Leben.
