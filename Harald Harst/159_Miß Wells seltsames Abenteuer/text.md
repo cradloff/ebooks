@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-<h1>Miß Wells seltsames Abenteuer</h1>
+<h1>Miß Wells seltsames Abenteuer.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Unerwarteter Besuch.</h3>
@@ -9,21 +9,21 @@ Es war heiß!
 
 Die indische Sonne meinte es ganz gehörig gut und
 brannte nicht schlecht auf mich und meinen Freund Harald
-Harst Hernieder. Und dabei war es erst zehn Uhr vormittags!
+Harst hernieder. Und dabei war es erst zehn Uhr vormittags!
 Ich schwitzte jedenfalls tüchtig, trotzdem ich einen
 leichten, weißen Leinenanzug trug und mein rundes Haupt
 durch einen weißbezogenen Tropenhelm geschützt war.
 
-Fast neidisch blickte Ich auf Harald Harst, der vor mir
+Fast neidisch blickte ich auf Harald Harst, der vor mir
 ritt.
 
 Weißgekleidet, schlank und kühl aussehend, saß er lässig
 im Sattel, und die Hitze schien ihm nichts anzuhaben. Frisch
 und energisch sah er aus. Kein Wunder, denn er war eine
 sehnige, fast Hagere Erscheinung, hatte kein Quentchen Fett
-zu viel auf seinen Muskeln. Während Ich — ach, Du lieber
+zu viel auf seinen Muskeln. Während ich — ach, Du lieber
 Gott, wenn ich schon mal bei unseren Strapazen und Abenteuern
-ein paar Pfund verlor, sobald Ich etwas Ruhe hatte,
+ein paar Pfund verlor, sobald ich etwas Ruhe hatte,
 setzte ich sofort wieder Speck an, der mich in dem heißen indischen
 Lande Ströme von Schweiß vergießen ließ.
 
@@ -61,7 +61,7 @@ So lachte er denn auch jetzt hell auf.
 »Schraut, Du futterst für drei, wenn Du keine Arbeit
 hast,« rief er aus, »und kannst fasten, wenn Du angestrengt
 tätig bist. Bei andern Leuten ist’s umgekehrt. Aber es ist
-Wirklich kein Wunder, daß Du jetzt Appetit verspürst. Wir
+wirklich kein Wunder, daß Du jetzt Appetit verspürst. Wir
 sind um fünf Uhr vom Post-Bungalow fortgeritten und
 selbst bei mäßigem Tempo machen fünf Stunden im Sattel
 hungrig. Gedulde Dich nur. Dort ist die Flußkrümmung,
@@ -73,7 +73,7 @@ Freund!«
 
 »Bleibt mir ja nichts weiter übrig,« knurrte ich etwas
 mißmutig unter der doppelten Plage von ungestilltem
-Appetit und Hitze,
+Appetit und Hitze.
 
 Nun will ich dem geschätzten Leser gleich die Begriffe
 »Post-Bungalow« und »Khansama« erklären.
@@ -81,7 +81,7 @@ Nun will ich dem geschätzten Leser gleich die Begriffe
 An allen indischen Poststraßen, die sich, unabhängig von
 den jeweiligen Eisenbahnverbindungen, quer durch das
 große indische Reich erstrecken, hat die indische Regierung
-Sogenannte Post-Bungalows errichtet, die in bestimmten
+sogenannte Post-Bungalows errichtet, die in bestimmten
 <@pagebreak/>
 Zeitetappen aufeinander folgen. Sie stehen gegen mäßiges
 Entgelt den Reisenden zur Verfügung, die zum Wagen, Auto
@@ -147,7 +147,7 @@ wäre mir nachgerade willkommen.«
 
 Ich ahnte nicht, daß diese »Abwechslung« unserer schon
 harrte, als wir jetzt den Bungalow erreicht hatten und
-unsere Pferde dem »Sais« (indischer Pferdewärter) Übergaben,
+unsere Pferde dem »Sais« (indischer Pferdewärter) übergaben,
 der sie hinter den Bungalow führte.
 
 Auf der Veranda erwartete uns mit vielen Verneigungen
@@ -168,12 +168,12 @@ Matte, eiserne Garderobenreihen und die Kofferständer.
 Im Badekabinett gibt’s eine Zinkwanne und zinnerne
 <@pagebreak/>
 Wasserschöpfer. Die Wanne wird von dem »Bhisti«
-(Wasserträger, der nur dies Amt versieht) nach Bedarf gefüllt
+(Wasserträger, der nur dies Amt versieht) nach bedarf gefüllt
 oder entleert.
 
 Ich hörte schon, wie Harst in seiner Wanne plätscherte,
 aber ich untersuchte die meine erst auf das etwaige Vorhandensein
-von Tausendfüßlern oder Skorpionen. den Biß
+von Tausendfüßlern oder Skorpionen. Den Biß
 dieser Bestien, die sich rasch und gern einschleichen, scheue ich
 nämlich wie Gift. Er ist brennend schmerzhaft und erzeugt
 auch Fieber.
@@ -207,7 +207,7 @@ Ich schüttelte verblüfft den Kopf. Ich hatte nichts gerochen!
 Teufel auch, mußte Harst eine Nase haben, denn an
 Stockschnupfen leide ich doch auch nicht gerade!
 
-»Lavendelwasser ist das A und O der Engländerinnen,«
+»Lavendelwasser ist das A und o der Engländerinnen,«
 bemerkte Harst, »der Schluß, daß eine Dame eingetroffen
 ist, ist also sehr einfach.«
 
@@ -234,12 +234,12 @@ war aus dem Bungalow auf die Veranda getreten, eine
 große, stattliche Frau im weißen Kleide, einen dünnen
 Schal um die Schultern tragend.
 
-Die Frau mochte etwa Mitte der Vierzig sein, hatte
+Die Frau mochte etwa Mitte der vierzig sein, hatte
 eine stolze, gerade Haltung, ein feines, gütiges Gesicht und
 leicht angegrautes Blondhaar. Ihre Haltung war sicher
 und als sie sprach, klang ihre Stimme angenehm. Ich hatte
 einen ungemein sympathischen Eindruck von der Dame und
-ich sah auf Harsts Antlitz einen ähnlichen Eindruck,
+ich sah auf Harsts Antlitz einen ähnlichen Eindruck.
 
 »Ich hörte Ihre Stimmen von der Veranda her und
 dachte mir, daß Sie zurückgekommen sein müßten, Herr
@@ -337,7 +337,7 @@ Schachtel mit seinen geliebten Mirakulum hervor.
 »Berichten Sie, Mrs. Thornton,« sagte er kurz.
 
 »Gern. Aber ich muß Sie bitten, sich ein wenig in Geduld
-zu fassen. Um die ganze Angelegenheit klar zu Übersehen,
+zu fassen. Um die ganze Angelegenheit klar zu übersehen,
 bin ich Ihnen die Vorgeschichte dieses Verschwindens
 schuldig. Ich werde sie so kurz wie möglich fassen.«
 
@@ -384,7 +384,7 @@ Renate Wells lebte bei einer ältlichen Verwandten, die
 sich aber bereits in ein Stift eingekauft hatte und deren
 Übersiedlung in das Institut in wenigen Monaten bevorstand.
 
-nach der Übersiedlung der alten Dame in das Stift
+Nach der Übersiedlung der alten Dame in das Stift
 wollte Renate Wells nach Indien gehen, um ihrem Bruder
 die Wirtschaft zu führen, denn sie war gänzlich alleinstehend.
 Über diese Übersiedlung und ihr Projekt nach
@@ -392,7 +392,7 @@ Indien zu gehen hatte Renate im letzten Jahre mit ihrem
 Bruder korrespondiert. Fitzroy freute sich bereits auf die
 Ankunft seiner Schwester. Aber wie gesagt, Renate sollte
 erst von England abreisen, wenn die alte Dame in ihr Stift
-eingetreten war. Als ich nun auf dem Plane erschien, noch
+eingetreten war. Als ich nun auf dem plane erschien, noch
 dazu als alte Bekannte Fitzroy Wells’, wollte sich das junge
 Mädchen am liebsten mir gleich anschließen und die Reise
 nach Indien unter meinem Schutze machen.
@@ -408,9 +408,9 @@ dürfe.
 Sie können sich denken, lieber Herr Harst, daß die
 nötige Ausreiseausrüstung für das junge Mädchen nun
 <@pagebreak/>
-Hals Über Kopf angeschafft werden mußte, ein Billett
+Hals über Kopf angeschafft werden mußte, ein Billett
 wurde schleunigst bestellt, Abschiedsbesuche gemacht, alles
-ging in fürchterlicher Hetzjagd vor sich. aber, der langen
+ging in fürchterlicher Hetzjagd vor sich. Aber, der langen
 Rede kurzer Sinn: wir befanden uns beide pünktlich am
 Abreisetage an Bord der »Ariadne«,
 
@@ -437,10 +437,10 @@ mich, von Fitzroy Wells nicht einmal einen schriftlichen
 Willkommensgruß an seine Schwester vorzufinden.
 
 Mein Mann beruhigte jedoch bald mein Erstaunen. Er
-Selbst zwar hatte seinen Forstmeister seit Monaten nicht gesehen,
+selbst zwar hatte seinen Forstmeister seit Monaten nicht gesehen,
 denn die Inspektionstouren durch die jeweiligen Bezirke
 kann man nur in der trockenen Jahreszeit machen.
-während der Regenperiode, in der wir uns befanden und
+Während der Regenperiode, in der wir uns befanden und
 die noch vier Wochen anhalten mußte, sind sie unmöglich.
 Mein Gatte hatte also in den Regenmonaten Gullunpore
 nicht verlassen können, aber er wußte, daß Fitzroy wohlauf
@@ -484,7 +484,7 @@ und ich soeben den Vorschlag gemacht hatte, daß Renate
 uns in unser Haus begleiten und als Gast bei uns bleiben
 solle, bis alle diese Merkwürdigkeiten aufgeklärt waren,
 näherte sich uns ein hochgewachsener brauner, beturbanter
-Mann, der mir merkwürdig bekannt vorkam.«
+Mann, der mir merkwürdig bekannt vorkam.
 
 In seiner Gesellschaft befand sich eine schlanke, ungewöhnlich
 große, indische Frau, die nach strenger, zentralindischer
@@ -505,14 +505,14 @@ Seite. Die Frau machte einen stummen Salam. Die Inderinnen
 sind zum Gehorsam und zum Schweigen erzogen.
 Sie werden das wissen, Herr Harst.«
 
-Mein Freund nickte,
+Mein Freund nickte.
 
 »Fahren Sie fort,« sagte er, »Ihr Bericht ist sehr interessant.«
 
 »Die Worte des Mannes weckten meine Erinnerung,«
 fuhr Mrs. Thornton eifrig fort, »ich erkannte in ihm tatsächlich
 einen der Diener Fitzroy Wells’. Bei unserer letzten
-Inspektionstour hatte der Mann bei Tische bedient.«
+Inspektionstour hatte der Mann bei Tische bedient.
 
 »Warum ist Dein Herr nicht selbst gekommen, um die
 Schwester Sahiba abzuholen,« fragte ich den Mann ängstlich.
@@ -542,7 +542,7 @@ Der Diener zögerte.
 
 <@pagebreak/>
 Der Mann zog aus seinen Gewandfalten ein Kuvert
-und reichte es Renate, die es hastig erbrach. Ich las Über
+und reichte es Renate, die es hastig erbrach. Ich las über
 ihre Schulter gebeugt das Schreiben mit.
 
 > »Komme gleich zu mir. Ich bin krank und sehne
@@ -553,13 +553,13 @@ Reise sorgen. Fitzroy.«
 
 Die wenigen Zeilen, die auch mein Mann las, waren
 zittrig geschrieben. Fitzroys Fieber mußte ziemlich stark
-sein und für Renate gab es nun kein Halten mehr. Sie
+sein und für Renate gab es nun kein halten mehr. Sie
 dankte mir für meine Güte und Gastfreundschaft und erklärte,
 sofort mit den beiden Dienern weiter reisen zu wollen.
 Ich hatte nicht den Mut, ihr zu widersprechen, denn
 schließlich durfte ich die Schwester nicht vom Krankenbette
 des Bruders fernhalten; alles schien seine Richtigkeit zu
-haben und schließlich ist es nichts Ungewöhnliches, daß
+haben und schließlich ist es nichts ungewöhnliches, daß
 junge Mädchen in Indien in Begleitung indischer Diener
 weite Reisen machen. Zwar kannte Renate die Landessprache
 nicht, aber Mahmud sprach ganz gut englisch, und,
@@ -597,7 +597,7 @@ gewohnte Inspektionstour durch seinen provinzengroßen
 Forstbezirk.
 
 Sie werden wissen, Mr. Harst, wie solche Inspektionstouren
-eines indischen Forstbeamten, der Herr über Hunderte
+eines indischen Forstbeamten, der Herr über hunderte
 von Untergebenen ist, vor sich gehen. Wir gehen mit
 Zelten, Feldbetten, Jagdausrüstungen, Koch und Dienerschaft
 auf die Reise. Von Bezirk zu Bezirk schlagen wir unser
@@ -632,7 +632,7 @@ haben Sie sie nicht mitgebracht?«
 
 Hätte ich eine Bombe zu Wells’ Füßen geschleudert, die
 Wirkung hätte nicht verblüffender sein können. Er starrte
-mich an, als sei ich eine Wahnsinnige.
+mich an, als sei ich eine wahnsinnige.
 
 »Ich bin nicht krank gewesen, Mrs Thornton,« sagte
 er dann langsam, »und — und wie kann ich meine Schwester
@@ -640,7 +640,7 @@ mitbringen, da sie in England ist.«
 
 Ich kann Ihnen nur sagen, Mr. Harst, daß ich zur
 Bildsäule erstarrte. Mein Mann war ins Zelt zurückgekehrt
-und hatte die letzten Worte Wells’ gehört, Auch er
+und hatte die letzten Worte Wells’ gehört, auch er
 blieb starr stehen.
 
 Die nächste Szene kann ich Ihnen nicht mehr genau
@@ -657,7 +657,7 @@ er nichts von ihrer Ankunft wußte. Er ist aus dem gleichen
 Grunde niemals nach Gullunpore gekommen und hat niemals
 einen Diener nach der Eisenbahnstation geschickt, um
 seine Schwester abzuholen. Er kennt keine indische Dienerin
-namens Abi. Und — daß Schrecklichste — schon vor
+namens Abi. Und — daß schrecklichste — schon vor
 Monaten hat er seinen Diener Mahmud entlassen, weil er
 ihn auf Unredlichkeiten ertappte. Mahmud verschwand nach
 seiner Entlassung aus dem Bezirk, niemand weiß wohin.
@@ -665,7 +665,7 @@ seiner Entlassung aus dem Bezirk, niemand weiß wohin.
 Und Renate Wells ist verschwunden, spurlos, ihr Geschick
 ist ein Geheimnis.
 
-helfen Sie uns das Rätsel lösen, Mr. Harst, finden
+Helfen Sie uns das Rätsel lösen, Mr. Harst, finden
 Sie das unglückliche Mädchen wieder und nehmen Sie eine
 schreckliche Gewissensschuld von meiner Seele. Ach, warum
 habe ich sie mit Mahmud gehen lassen — — —«
@@ -693,7 +693,7 @@ in dieser Gegend gebracht —?«
 »O, Sie wissen ja, wie die Eingeborenen schwatzen.
 Nachrichten verbreiten sich in Indien rasch von Mund zu
 Mund. Ich hörte, daß Sie in der Nähe seien, auf der Reise
-zu den Festen des Radscha von Malewe begriffen. Da
+zu den festen des Radscha von Malewe begriffen. Da
 der Dargilew-Bungalow das einzige Rasthaus in der Nähe
 ist, war es gewiß, daß ich Sie hier treffen würde. Ich bestieg
 also mein Pferd und ritt davon.«
@@ -738,7 +738,7 @@ selber, zeigte sich unverhohlene Enttäuschung.
 »Sonst gibt es niemand in der Gegend des Forstbungalows?«
 fragte er.
 
-»doch, es lebt jemand einige englische Meilen von dort
+»Doch, es lebt jemand einige englische Meilen von dort
 und Dargewpore entfernt. Das ist der Zemindar Saoli.
 Er hat dort seinen Besitz, ausgedehnte Ländereien,
 Waldgerechtigkeit und seine Häuser und Zenanas.«
@@ -749,14 +749,14 @@ Kindern unterstellt. Ein Zemindar ist ein erblicher,
 indischer Grundherr, meist sehr vermögend.)
 
 »Aha,« machte Harald Harst interessiert, doch Mrs.
-Thornton wandte sich sofort gegen ihn,
+Thornton wandte sich sofort gegen ihn.
 
 <@pagebreak/>
 »Herr Harst,« sagte sie bestimmt, »ich weiß nicht, in
 welcher Richtung sich Ihr Verdacht bewegt, aber auf den
 Zemindar Saoli darf er sich keineswegs ausdehnen. Das
 ist ein alter, weißbärtiger und würdiger Mann, den strengen
-Sitten und Gesetzen seines Volles, die eine hohe Moral
+Sitten und Gesetzen seines volles, die eine hohe Moral
 haben, sklavisch untertan. Zemindar Saoli ist ein Greis.
 Seine Hauptfrau ist seit langem verstorben. In seinen
 Zenanas leben nur noch Dienerinnen.«
@@ -774,7 +774,7 @@ besucht ihn oft, spricht englisch mit ihm, geht mit ihm auf
 die Jagd und schickt ihm Früchte aus den Gärten seines
 Oheims, des Zemindars.«
 
-»Ist dieser Saolus verheiratet,« wollte Harst wissen,
+»Ist dieser Saolus verheiratet,« wollte Harst wissen.
 
 »Natürlich,« lautete die Antwort, »es ist eine sogenannte
 Kinderehe geschlossen worden, wie sie in Indien üblich
@@ -782,7 +782,7 @@ ist. Der Zemindar Saoli hat seinen Neffen schon als
 Knaben mit der Tochter eines reichen Zemindar aus dem
 Norden verehelicht. Die Festlichkeiten zwischen den kindlichen
 Partnern wurde mit großem Pomp begangen, worauf
-die beiden Vermählten in das Haus ihres Vaters resp.
+die beiden vermählten in das Haus ihres Vaters resp.
 Oheims zurückkehrten. Saolus ist Ehemann, obgleich er
 erst neunzehn Jahre zählt, seine Gattin erreicht im nächsten
 Jahre, wo sie 14 zählen wird, das mannbare Alter. Sie
@@ -844,7 +844,7 @@ Dame aufs ungewöhnlichste meine Phantasie. Harst schwieg
 und als er endlich sprach, richtete er die seltsame Frage an
 mich:
 
-»du bist Dir natürlich über diese ganze Geschichte im
+»Du bist Dir natürlich über diese ganze Geschichte im
 klaren, Max Schraut?«
 
 »Ich? Nicht, daß ich wüßte,« antwortete ich verblüfft.
@@ -889,26 +889,26 @@ Ich folgte meinem Freunde tief in Gedanken versunken.
 
 Der Khansama empfing uns mit der Nachricht, daß
 <@pagebreak/>
-»die Memsahib fortgeritten sei und dem Sahib ihre Grüße
+die Memsahib fortgeritten sei und dem Sahib ihre Grüße
 hinterlasse. Dann zogen wir uns in unsere Zimmer zurück.
-Harst empfahl mir, Über das Problem nachzudenken und
+Harst empfahl mir, über das Problem nachzudenken und
 gab der Hoffnung Ausdruck, daß mir dann sicher die
 Lösung einfallen würde. Ich warf mich aufs Bett und
 strengte meinen Gedankenapparat aufs äußerste an. Aber
 ich konnte mich nicht konzentrieren. Die Gedanken liefen
 mir wie Ameisen davon. Auf dem Rücken liegend beobachtete
-Ich einen grünen Gecko (Eidechsenart), der sich an
+ich einen grünen Gecko (Eidechsenart), der sich an
 der Decke zu schaffen machte, Fliegen und Moskitos fing.
 Die schnellen zierlichen Bewegungen des Tierchens hemmten
-meine Gedankenmaschine,
+meine Gedankenmaschine.
 
 Ich schlief ein. — — —
 
-Harst schüttelte mich wach,
+Harst schüttelte mich wach.
 
 »Komm,« sagte er, »das Essen ist bereit. Wir wollen
 rasch die Mahlzeit einnehmen auch dann geht’s auf und
-davon,«
+davon.«
 
 »Wohin,« sagte ich schlaftrunken.
 
@@ -992,7 +992,7 @@ so Zutritt zu den Frauengemächern des Zemindar erhalten.«
 
 »Aha,« sagte ich, »sie steckt also doch bei dem Alten!«
 
-»bei dem Alten selbst nicht, aber natürlich ist sie in den
+»Bei dem Alten selbst nicht, aber natürlich ist sie in den
 Häusern des Zemindar. Halte in den Frauengemächern
 die Augen offen. Nun schlafe.«
 
@@ -1028,9 +1028,9 @@ Karten sehr viel Anklang bei ihnen. Nachdem ich fast allen
 gewahrsagt und das Blaue vom Himmel heruntergelogen
 hatte, zog ich mich in eine Ecke zurück. Zu essen hatte ich
 noch nichts erhalten, denn Harst jagte mich hin und her.
-Nun zupfte mich jemand am Ärmel,
+Nun zupfte mich jemand am Ärmel.
 
-Ich wandte mich um. Eine Dienerin stand neben mir,
+Ich wandte mich um. Eine Dienerin stand neben mir.
 
 »Komm in die Zenanas,« flüsterte sie, »und sagt uns
 Dienerinnen wahr.«
@@ -1039,23 +1039,23 @@ Trotz meines Appetites mußte ich ihr folgen.
 
 Bald umgab mich eine ganze Horde junger und alter
 Weiber, die alle von mir die Zukunft wissen wollten, ich aber
-versuchte einen Coup auf eigene Faust,
+versuchte einen Coup auf eigene Faust.
 
-»Wo ist Abi,« sagte ich, »der will ich zuerst wahrsagen,«
+»Wo ist Abi,« sagte ich, »der will ich zuerst wahrsagen.«
 
 Der Erfolg war verblüffend. Zuerst Stille, dann tönte
 der Ruf:
 
 »Ein Spion!«
 
-Und nun fiel die ganze Gesellschaft Über mich her. Im
+Und nun fiel die ganze Gesellschaft über mich her. Im
 Handumdrehen war ich gefesselt, ein Tuch um meinen Kopf
 gebunden und man schob, schleifte, stieß mich in ein Gemach,
 in das ich eingeschlossen wurde. Das Gemach war
 dunkel und doch hatte ich das Gefühl, es mit jemand zu
 teilen. Ein Seufzer klang neben mir.
 
-»Wer ist da,« flüsterte ich, »hier ist ein guter Freund,«
+»Wer ist da,« flüsterte ich, »hier ist ein guter Freund.«
 
 Ein weiblicher Aufschrei erklang, und jetzt, da sich meine
 Augen an den Dämmer gewöhnt hatten, erblickte ich auf
@@ -1063,12 +1063,12 @@ einem Ruhebett eine junge Dame, die ich nach dem Bilde
 sofort erkannte.
 
 »Miß Wells,« flüsterte ich, »mein Freund und ich sind
-gekommen, Sie zu befreien,«
+gekommen, Sie zu befreien.«
 
 Die Antwort war ein Schluchzen und dann fühlte ich
 zwei Hände, die die meinen ergriffen. Ich beruhigte das
 Mädchen, so gut ich es vermochte, erzählte ihr von Harst
-und mir und Mrs. Thorntons Besuch. Dann berichtete sie,
+und mir und Mrs. Thorntons Besuch. Dann berichtete sie.
 
 <@pagebreak/>
 Ahnungslos war sie in eine Falle gegangen. Saolus
@@ -1083,7 +1083,7 @@ worden. Sobald Renate ankam, sollte Mahmud
 sie entführen. Die Sache wurde beschleunigt durch die Telegramme,
 die Saolus, der bei Wells ein und aus ging, abfing.
 Mahmud reiste dem jungen Mädchen entgegen und
-brachte sie in die Zenanas, statt zu ihrem Bruder,
+brachte sie in die Zenanas, statt zu ihrem Bruder.
 
 »Man hat mir kein Leid getan, ich wurde im Gegenteil
 wie eine Königin behandelt. Aber ich war unglücklich und
@@ -1101,10 +1101,10 @@ junge Mädchen gefunden hatte. Daß wir nun zu zweien
 gefangen waren, war ein magerer Trost! Meine ganze
 Hoffnung war Harst, der mich schon so oft herausgehauen
 und sicher diese ganze Geschichte von Anfang an durchschaut
-hatte,
+hatte.
 
 Die Stunden vergingen. Draußen tobte das Geräusch
-des Festes. Sicher war es schon Nacht. Plötzlich wurde die
+des festes. Sicher war es schon Nacht. Plötzlich wurde die
 Tür aufgeschlossen, Lichtschein fiel herein und zu meiner
 Verblüffung traten der Zemindar und — Harst ins Gemach.
 
@@ -1141,15 +1141,15 @@ Wie kommst Du hierher?«
 
 »Ich wollte Abi wahrsagen.«
 
-»du bist ein Elefant im Porzellanladen, lieber Alter.
+»Du bist ein Elefant im Porzellanladen, lieber Alter.
 Abi war der verkleidete Saolus selbst und die Dienerinnen
-wußten das natürlich durch Mahmuds Plaudereien. als
+wußten das natürlich durch Mahmuds Plaudereien. Als
 ich dem Zemindar unter vier Augen aus der Glaskugel die
 Anwesenheit einer jungen Engländerin in seiner Zenana
 weissagte, ergriff er die Gelegenheit mir sein Herz zu
 erleichtern.«
 
-»und Mr. Wells,« sagte der Alte ängstlich, »er wird
+»Und Mr. Wells,« sagte der Alte ängstlich, »er wird
 in seinem Zorn mein Haus verfluchen, er wird mir die
 englische Polizei schicken und meine Schande wird groß
 sein im Lande.«
@@ -1168,7 +1168,7 @@ Mädchen. In seiner Rechten hielt er ein seidenes Tuch.
 
 »Fremde,« sagte er zitternd, »Übel ist Dir mitgespielt
 worden in diesem Lande, ich bitte um Deine Vergebung
-für mich und mein Haus. Nimm Dies und trage es zum
+für mich und mein Haus. Nimm dies und trage es zum
 Andenken an Zemindar Saoli und zum Zeichen Deiner
 Verzeihung. Ich nahm es selbst aus meiner Schatzkammer
 für Dich.«
@@ -1185,7 +1185,7 @@ hat.«
 Der Alte legte ihr selbst den Schmuck um den Nacken
 und zog den Frauenschleier vor ihr Angesicht. — — —
 
-das Fest war zu Ende und Mrs. Thornton, ihr Gatte
+Das Fest war zu Ende und Mrs. Thornton, ihr Gatte
 und Mr. Wells nach dem Lager des Forstmeisters zurückgekehrt.
 Wir folgten auf drei Pferden, die uns der Zemindar
 gab. Wir ritten durch den schweigenden Wald, und es
@@ -1194,7 +1194,7 @@ Diener führten uns in das Zelt der Thorntons, wo diese
 mit Wells bei einer späten Tasse Tee saßen. Unser Eintritt
 war dramatisch, denn niemand erkannte uns. Erst als
 Harst Miß Wells’ Schleier zurückschlug, stießen der Forstmeister
-und Mrs. Thornton einen Schrei aus,
+und Mrs. Thornton einen Schrei aus.
 
 Dann gaben Harst und ich uns zu erkennen. Wasser
 wurde gebracht, unsere Schminke abgewaschen und das
@@ -1204,7 +1204,7 @@ zu essen! Halbverhungert war ich.
 <@pagebreak/>
 Mr. Wells war sehr aufgebracht und wollte die Angelegenheit
 nicht ohne weiteres ruhen lassen. Aber Miß Wells
-bat um des Alten wissen um Schweigen Und Harst nahm
+bat um des Alten wissen um Schweigen und Harst nahm
 den jungen Mann abseits und sagte ernst:
 
 »Lassen Sie die Geschichte ruhen, Mr. Wells: wenn es
@@ -1214,7 +1214,7 @@ ihrem Ruf schaden. Wie Sie sehen, ist sie wohl und munter
 und das Reuegeschenk des Zemindar ist geradezu fürstlich.«
 
 Lange noch saßen wir auf und unterhielten uns im
-Flüstertone über Miß Wells’ seltsames Abenteurer,
+Flüstertone über Miß Wells’ seltsames Abenteurer.
 
 <@pagebreak 33/>
 
@@ -1245,7 +1245,7 @@ zur Residenz fuhr, denn wenn ein indischer Radscha eine
 »burrha khana« (großes Fest) gibt, so eilen alle Leute aus
 der Umgegend herbei, teils um sich selbst zu verlustieren,
 teils um Geschäfte zu machen, teils um als Feuerwerker
-tätig zu sein, denn kein indisches Fest ist ohne Abbrennen
+tätig zu sein, denn kein indisches Fest ist ohne abbrennen
 von Raketen und anderen Feuerwerkskörpern denkbar.
 
 <@pagebreak/>
@@ -1267,7 +1267,7 @@ Hals blauen Glasperlenzierat, der sie nach Meinung ihrer
 Besitzer gegen den bösen Blick und Verhexung schützt.
 
 Am Abend unserer Fahrt rückten wir auf unserem
-Ponygespann in Malewe ein. die Stadt war wegen des
+Ponygespann in Malewe ein. Die Stadt war wegen des
 Radschafestes in Aufregung, es herrschte großer Betrieb.
 
 Wir landeten mit unserem Kutscher als schäbige Eingeborene
@@ -1302,7 +1302,7 @@ In der Stadt Malewe herrschte noch volles Leben.
 Niemand schien in der Nacht vor dem Fest an Schlaf zu
 denken. Der Palast des Fürsten, östlich an die Stadt grenzend,
 war mit dieser durch ausgedehnte Tempelgebäude
-verbunden,
+verbunden.
 
 Der Weg dorthin war nicht weit und Harst erzählte
 mir unterwegs einiges von dem, was er von den Eingeborenen
@@ -1326,13 +1326,13 @@ mit ihm gemeinsame Sache. Die Intrigen scheinen ziemlich
 übler Art zu sein und bedrohen wahrscheinlich das Leben
 des Fürsten. Das Volk würde nur sehr ungern Dandus als
 Herrscher sehen, da er ein harter, grausamer Charakter sein
-soll. von den Intrigen weiß natürlich alle Welt, nur der
+soll. Von den Intrigen weiß natürlich alle Welt, nur der
 Fürst selbst nicht. Er ist zu harmlos dazu. Wir werden nun
 sehen, was wir für den Radscha tun können. Jedenfalls
 werden wir noch heute nacht in den Palast eindringen und
-morgen früh wie zwei vom Himmel Gefallene vor dem
+morgen früh wie zwei vom Himmel gefallene vor dem
 Radscha stehen. Das wird unserem Auftreten etwas verblüffend
-Überirdisches geben.«
+überirdisches geben.«
 
 »Wie willst Du denn das machen?« fragte ich mißtrauisch.
 
@@ -1343,7 +1343,7 @@ Es war das alte Lied. Wo ich Schwierigkeiten sah, erschien
 Harst die Sache einfach.
 
 Wenn ich geglaubt hatte, der Palast läge in nächtlicher
-Ruhe, so sah ich mich getäuscht. die Tore standen offen,
+Ruhe, so sah ich mich getäuscht. Die Tore standen offen,
 der Hof schwirrte von Dienern, die eine Galabeleuchtung
 von Tausenden von Kerzen auf ihre Wirksamkeit probierten.
 Viele Neugierige drängten sich herum. Wir zählten
@@ -1355,22 +1355,22 @@ die Gemächer dieser Fremden zu zeigen.
 
 Wir markierten brennende Neugier und bekamen bald
 unsere eigenen Zimmer zu sehen. Unsere Lederkoffer, für
-den indischen Bedienten offenbar eine Sehenswürdigkeit,
+den indischen bedienten offenbar eine Sehenswürdigkeit,
 standen schon da. Nachdem wir alles gebührend bewundert
 hatten, stellten wir mit unserem Führer in den Hof zurück,
 um uns unter die Neugierigen zu begeben. Aber nicht für
-lange. dann entfernten wir uns. Harst kletterte an den
+lange. Dann entfernten wir uns. Harst kletterte an den
 Verandenvorsprüngen zu unseren Zimmern hinauf und ich
 folgte ihm.
 
 »So,« sagte er, »Du wirst nun wissen, was ich will.
 Morgen erscheinen wir von diesen Zimmern aus in europäischer
-Toilette vor dem Fürsten und den Seinen.«
+Toilette vor dem Fürsten und den seinen.«
 
 »Gemach,« sagte ich verblüfft, »wollen wir nun nicht
 schlafen gehen?«
 
-»Kein Gedanke, lautete die Antwort, »wir werden
+»Kein Gedanke,« lautete die Antwort, »wir werden
 uns heute nacht im Palast umtun. Oder,« fügte er überlegend
 hinzu, »es ist besser, ich mache mich allein auf meine
 Spionagetour.«
@@ -1404,7 +1404,7 @@ Tischen serviert und wurde von den Teilnehmern auf
 Kissen hockend eingenommen. Anwesend waren nur Männer.
 Die Frauen hielten ihre Mahlzeiten nach indischer
 Sitte in den Zenanas (Frauengemächer). als wir eintraten,
-sprangen die Anwesenden vor Überraschung auf.
+sprangen die anwesenden vor Überraschung auf.
 Harst stellte sich und mich in seiner gelassenen, überlegenen
 Weise vor.
 
@@ -1437,17 +1437,17 @@ ihn einfach weg und sagte:
 »Das ist Ihrer Gesundheit schädlich, Fürst. Seien Sie
 ein Mann und bekämpfen Sie diese Gewohnheit.«
 
-»Ich bin an das Rauchen gewöhnt,« widersprach er.
+»Ich bin an das rauchen gewöhnt,« widersprach er.
 
 »Gewohnheit ist die Entschuldigung der Schwächlinge,«
-lautete die Antwort, »ein Starker bekämpft sie.«
+lautete die Antwort, »ein starker bekämpft sie.«
 
 Der Fürst schwieg, aber Nepak sagte ärgerlich:
 
 »Es ist nicht statthaft, dem Radscha in seinen Liebhabereien
 zu stören.«
 
-»Es ist statthaft, wenn es zu seinem Besten geschieht,«
+»Es ist statthaft, wenn es zu seinem besten geschieht,«
 antwortete Harst.
 
 Über das Antlitz des Fürsten ging ein Zucken. Man
@@ -1458,10 +1458,10 @@ sie zurück und sagte:
 »Die Spiele zu Ehren unserer Besucher sollen beginnen.«
 
 Wir begaben uns in den geräumigen Hof des Palastes,
-wo die Sitze für die Zuschauer aufgeschlagen waren. Als
+wo die sitze für die Zuschauer aufgeschlagen waren. Als
 ich meine Blicke hob, sah ich auf den Galerien des Palastes
 die verschleierten Frauen, die von hier aus, und nicht in Gemeinschaft
-der Männer, den Spielen zuschauten. Wir bekamen
+der Männer, den spielen zuschauten. Wir bekamen
 Schwertkämpfer zu sehen. Schlanke, braune Knaben
 traten als Tänzer auf, Ringer auf indische Manier trainiert
 zeigten sich. Es waren große, fette Gestalten, aber
@@ -1489,7 +1489,7 @@ Vetter.
 
 »Niemand außer mir würde mit dem Leoparden
 kämpfen,« lautete die stolze Antwort und ich sah, daß sie den
-Fürsten verstimmte,
+Fürsten verstimmte.
 
 »Vielleicht irrst Du,« sagte er ärgerlich, »auch ich
 könnte es.«
@@ -1508,7 +1508,7 @@ indische Münze) mehr. —
 Am Nachmittag sollten wir die Tempel besichtigen, bis
 dahin aber ruhen.
 
-als wir unser Zimmer betraten, um das Übliche Bad
+Als wir unser Zimmer betraten, um das übliche Bad
 zu nehmen und neue, weiße Anzüge anzuziehen, sagte Harst
 zu mir:
 
@@ -1584,13 +1584,13 @@ geschrieben — Mord an Harst und an mir!
 Der Fürst befahl die Besichtigung des Tempels und
 wir folgten ihm. Schirmträger beschatteten unsere Häupter
 auf dem Wege zum Tempel, der nur kurz war. Bald
-umhüllte uns die Kühle und dämmrige Stille des Tempels.
+umhüllte uns die kühle und dämmrige Stille des Tempels.
 Weihrauchdüfte lagen schwül in der Luft und verschlugen
 mir fast die Sinne. Bizarre Götterfiguren tauchten
 vor uns im Dämmer auf. Nautchmädchen (Tempeltänzerinnen)
 erschienen auf einen Wink des Nepak und zeigten
 ihre Künste. Wundervolle, braune Gestalten waren unter
-den Mädchen. besonders eine tat sich hervor.
+den Mädchen. Besonders eine tat sich hervor.
 
 Sie schien es auf Harst abgesehen zu haben, denn an ihn
 wandte sie sich mit ihren Lockungen und Windungen des
@@ -1620,7 +1620,7 @@ Die Götterbilder waren mit den köstlichsten Juwelen verziert.
 Opale funkelten blaß, Smaragde flammten grün,
 Saphire blauten in dunkler kostbarer Pracht. Vermögen
 waren hier angehäuft. Aber das Glanzstück saß im Kopfe
-des Tigergottes.«
+des Tigergottes.
 
 Es war ein kostbarer Rubin von ungewöhnlicher
 Größe und zierte die Stirn einer indischen Gottheit, die
@@ -1638,7 +1638,7 @@ der Rubin unangetastet in märchenhaftem Glanze in
 der Stirn des Götzen saß, war es um den Radscha von Malewe
 günstig bestellt.
 
-als uns der Fürst die Sage erzählt hatte, wandte sich
+Als uns der Fürst die Sage erzählt hatte, wandte sich
 der Priester an uns.
 
 »Der Radscha hat recht,« sagte er, »der Stein ist das
@@ -1658,7 +1658,7 @@ nicht.«
 »Doch, ich glaube Dir, Nepak. Ich bin überzeugt, daß
 der Stein in Kürze gestohlen werden wird.«
 
-die Verblüffung war nicht nur auf meiner Seite, sondern
+Die Verblüffung war nicht nur auf meiner Seite, sondern
 auch der Fürst sah betreten aus. Was fiel Harst nur
 ein?
 
@@ -1673,9 +1673,9 @@ mir überlassend, mich den jeweiligen Situationen anzupassen
 und mich in ihnen zurechtzufinden.
 
 Wir hatten das Abendessen mit dem Fürsten und den
-Seinen eingenommen. Ich muß gestehen, daß es für mich
+seinen eingenommen. Ich muß gestehen, daß es für mich
 und Harst sehr frugal ausfiel. Der weißbärtige Diener befand
-sich nämlich nicht unter den Aufwartenden. Infolgedessen
+sich nämlich nicht unter den aufwartenden. Infolgedessen
 hielten wir uns an gekochte Eier, denen man kein Gift
 beimischen kann, die aber nur sehr rar auf die Tafel kamen.
 Uns zu Ehren gab es Champagner und ich trank ein Glas
@@ -1686,15 +1686,15 @@ Huld gegen uns gänzlich vermissen.
 Als seine Ganjapfeife gebracht wurde, rauchte er aus
 ihr und nahm Harsts Blicke mit Schweigen entgegen. Bald
 hatte der Fürst seinen Ganjarausch. Es war klar, wir waren
-in Ungnade gefallen. Vermutlich hatte Harst und sein Eingehen
+in Ungnade gefallen. Vermutlich hatte Harst und sein eingehen
 auf des Priesters Sterndeuterei daran Schuld. Der
 Radscha sah in uns nicht mehr Freunde, sondern Feinde.
 
-Von niemand zum Bleiben ermutigt zogen wir uns
-nach der Mahlzeit auf unsere Zimmer zurück,
+Von niemand zum bleiben ermutigt zogen wir uns
+nach der Mahlzeit auf unsere Zimmer zurück.
 
 <@pagebreak/>
-»Du hast was Schönes angerichtet, Harald,« begann ich
+»Du hast was schönes angerichtet, Harald,« begann ich
 meine Vorwürfe, kam aber mit meinem Sermon nicht weit.
 
 »Rasch, kleide Dich in indische Gewänder,« lautete die
@@ -1762,7 +1762,7 @@ augenblicklich saßen.
 
 Wie lange Stunden hatten wir in unserem Kerker gesessen?
 Plötzlich rasselten Schlüssel, eine Eisentür klirrte,
-Licht fiel in unser Verließ. Sechs bewaffnete Diener erschienen
+Licht fiel in unser verließ. Sechs bewaffnete Diener erschienen
 unter Führung des Dandus, nahmen uns barsch
 in die Mitte und Dandus befahl finster: Zum Fürsten.
 
@@ -1773,7 +1773,7 @@ geführt, der auf den Palasthof mündete. Geblendet schloß
 ich die Augen, denn Hof und Palast erstrahlten in hellem
 Feuerwerk, überall herrschte volles Leben, nur unseres schien
 verwirkt. Stumpf sah ich eine Karre mit rohem Fleisch
-vorüberfahren. Offenbar der Fraß für den Leoparden des
+vorüberfahren. Offenbar der fraß für den Leoparden des
 Dandus, denn dieser rief den Wärtern zu:
 
 »Wartet noch, ich will das Tier heute selbst füttern.«
@@ -1799,7 +1799,7 @@ Schweigen.
 Gewänder deutend. »Was hattet Ihr heimlich im Tempel
 zu suchen?«
 
-»unsere Absichten waren die besten, ich wußte, daß der
+»Unsere Absichten waren die besten, ich wußte, daß der
 Rubin gestohlen werden sollte!«
 
 »Ja, das hast Du gesagt und Du selbst wolltest ihn
@@ -1844,10 +1844,10 @@ sie sich noch befinden, in den Tempel schlichen. Nichts Gutes
 ahnend folgte ich ihnen leise und versteckte mich. Da — da
 sah ich—«
 
-das Mädchen barg mit gutgespieltem Entsetzen das
+Das Mädchen barg mit gutgespieltem Entsetzen das
 Antlitz in den Händen.
 
-»was sahst Du, Hati,« ermutigte sie der Priester mit
+»Was sahst Du, Hati,« ermutigte sie der Priester mit
 tückischer Sanftheit.
 
 »Da sah ich, wie der große, schlanke Mann auf die
@@ -1923,9 +1923,9 @@ Dich ein. Aber Du treibst nicht weiße, sondern schwarze
 Magie und willst meinen Untergang. Doch Du sollst
 sterben. Morgen früh wirst Du und Dein Freund gefoltert, bis
 der Stein wieder zur Stelle ist. Und dann werde ich Euch
-Hinrichten lassen. Führt sie jetzt fort.«
+hinrichten lassen. Führt sie jetzt fort.«
 
-Die Bewaffneten nahmen uns wieder in die Mitte.
+Die bewaffneten nahmen uns wieder in die Mitte.
 
 <@pagebreak/>
 Wir wurden hinweggebracht, aber nicht in unser altes
@@ -1948,7 +1948,7 @@ kleinlaut.
 »Wir werden schon heraus kommen, wie aus so vielen
 anderen.«
 
-»Na, es Ist mir nur zweifelhaft, wie wir das machen
+»Na, es ist mir nur zweifelhaft, wie wir das machen
 werden,« lautete mein Einspruch.
 
 »Hm, es ist schon von Vorteil, daß man uns nicht gefesselt
@@ -1997,7 +1997,7 @@ Fröhliche Menschenstimmen und das Geräusch der
 Tamtams bewies, daß man das Fest draußen feierte. Ein
 Fest, das eigentlich uns zu Ehren arrangiert worden war
 und das wir nun als Gefangene »genießen« konnten, als
-Diebe eines kostbaren Talismans!«
+Diebe eines kostbaren Talismans!
 
 Die Situation war wirklich grotesk.
 
@@ -2027,7 +2027,7 @@ sein.«
 
 <@pagebreak/>
 »Das glaube ich nicht. Daran müßte er gewöhnt sein,
-Es scheint irgend etwas anderes —«
+es scheint irgend etwas anderes —«
 
 Harst sprach den Satz nicht zu Ende. In sein Antlitz
 trat ein gespannter Ausdruck. Seine Augenbrauen zogen
@@ -2035,7 +2035,7 @@ sich zusammen, wie beim scharfem, konzentrierten Nachdenken.
 
 Der Leopard heulte weiter.
 
-»das ist merkwürdig, sehr merkwürdig,« sagte er
+»Das ist merkwürdig, sehr merkwürdig,« sagte er
 schließlich.
 
 »Na, schön ist dies Leopardengejaule nicht,« gab ich
@@ -2043,14 +2043,14 @@ zu, »aber besonders merkwürdig kann ich es nicht finden.«
 
 »Wirklich nicht, Schraut? Denke einmal nach.«
 
-Ich tat’s, schüttelte aber hoffnungslos den Kopf. irgend
+Ich tat’s, schüttelte aber hoffnungslos den Kopf. Irgend
 was Sonderbares konnte ich beim besten Willen nicht
 konstatieren.
 
 »Dir fällt nichts auf, Max Schraut?«
 
 »Nein. Das Biest hat vorhin, als wir zu dem Fürsten
-geführt wurden, sein Fressen bekommen. Große Fleischstücke
+geführt wurden, sein fressen bekommen. Große Fleischstücke
 auf einem Karren, wie Du gesehen haben wirst,«
 sagte ich, »es sollte also ruhig und zufrieden sein —«
 
@@ -2071,7 +2071,7 @@ zu untersuchen.«
 
 »Vielleicht kommt Hilfe von außen,« wagte ich einzuwerfen.
 
-»das ist das einzige, womit ich rechne. In der ersten
+»Das ist das einzige, womit ich rechne. In der ersten
 Nacht unseres Aufenthaltes im Palast habe ich, wie Du
 <@pagebreak/>
 weißt, heimlich herumgespürt. Im nächtlichen Garten fand
@@ -2117,7 +2117,7 @@ der uns viel zu schaffen machte.
 
 Wenn draußen nicht der Festtumult gewesen wäre, hätten
 wir wohl kaum ungestört unsere Ausbrecherarbeit leisten
-können, denn das Durchfeilen gab ein durchdringendes
+können, denn das durchfeilen gab ein durchdringendes
 <@pagebreak/>
 knirschendes Geräusch von sich. Zwischendurch hörten wir
 das dumpfe Brüllen des Leoparden, aber allmählich wurde
@@ -2195,7 +2195,7 @@ und steckte sie zu sich.
 »Eli hat spioniert,« sagte die Fürstin, »er hat erfahren,
 daß morgen der Schlag gegen meinen Gemahl, den Fürsten,
 erfolgen soll. Was eigentlich geschehen wird, weiß ich nicht.
-Aber Dandus hat etwas Böses vor. Er hat den Fürsten
+Aber Dandus hat etwas böses vor. Er hat den Fürsten
 überredet, morgen mit dem Leoparden zu kämpfen.«
 
 »Ah,« machte Harst und sah mich bedeutungsvoll an,
@@ -2216,7 +2216,7 @@ uns diese Nacht hier verbergen, Fürstin.«
 <@pagebreak/>
 »O ja.«
 
-»Gut, so brauche ich Jetzt Kleider, wie sie die alte Dienerin
+»Gut, so brauche ich jetzt Kleider, wie sie die alte Dienerin
 dort trägt. Ich muß mich über etwas informieren.«
 
 Harst wollte den Leoparden aufsuchen, das war mir
@@ -2254,7 +2254,7 @@ stützte.
 
 Er schlurfte ein paarmal durch das Gemach, räusperte
 sich auf greisenhafte Weise, hüstelte und bewegte sich vollkommen
-wie ein altes Weib.«
+wie ein altes Weib.
 
 Der alte Diener und sein Weib murmelten etwas von
 »Zauber«, aber die Fürstin war entzückt.
@@ -2289,7 +2289,7 @@ daß jemand seine Hand auf meine Schulter legte. Mit
 einem unterdrückten Schrei fuhr ich hoch, aber mein Schrecken
 wandelte sich in Freude.
 
-Harst stand vor mir,
+Harst stand vor mir.
 
 »Gott sei Dank, daß Du zurück bist, Harald,« flüsterte
 ich, »was hast Du entdeckt?«
@@ -2341,11 +2341,11 @@ Dich verkleiden.«
 Wir verzehrten unser Frühstück mit gutem Appetit.
 Plötzlich kam mir ein Gedanke.
 
-»wenn man nun heute morgen in unserer Zelle nachsieht
-und uns nicht mehr vorfindet! was dann, Harald?«
+»Wenn man nun heute morgen in unserer Zelle nachsieht
+und uns nicht mehr vorfindet! Was dann, Harald?«
 
 »Dann soll man denken, daß wir uns vermittels unserer
-Zauberkünste befreit haben,« lachte dieser,
+Zauberkünste befreit haben,« lachte dieser.
 
 »Und das durchfeilte Schloß!«
 
@@ -2516,7 +2516,7 @@ Priester, die auf ihn zusprangen.
 Und dann zum umstehenden Volke gewandt:
 
 »Ich klage Dandus und Nepak, sowie die Fürstin Saba
-an, einen Abscheulichen Anschlag gegen das Leben des Fürsten
+an, einen abscheulichen Anschlag gegen das Leben des Fürsten
 begangen zu haben. Sie waren es, die den Talisman
 aus dem Kopfe des Tigergottes stahlen. Sie wollten, daß
 der Fürst im Kampf mit dem Leoparden sein Leben einbüße.
