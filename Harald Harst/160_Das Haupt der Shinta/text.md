@@ -2,65 +2,64 @@
 
 <h1>Das Haupt der Shinta</h1>
 
-Ganz in der Nähe des Künstlertums Malewe liegt an
+Ganz in der Nähe des Fürstentums Malewe liegt an
 der Ostküste Indiens die Hafenstadt Pondicherry. Dorthin
-hatte mein Freund Harst Kapitän Harst mit der Jacht
-»Atlanta« beordert. Der Kapitän sollte dort aus uns
+hatte mein Freund Harst Kapitän Bansy mit der Jacht
+»Atlanta« beordert. Der Kapitän sollte dort auf uns
 warten, denn Harst wollte nach der Insel Ceylon fahren.
 
 Nachdem wir unsere Abreise beschlossen hatten, telegraphierte
-ich nun Pondicherry an den Kapitän und teilte
+ich nach Pondicherry an den Kapitän und teilte
 dem alten Seebären den Tag unserer Ankunft mit.
 
-Auf dieses Telegramm erhielten wir keine Antwort;
+Auf dieses Telegramm erhielten wir keine Antwort,
 was uns schon hätte stutzig machen müssen. Außerdem
-wurde ich das Gefühl nicht los, daß wir bespibeli wurden,
+wurde ich das Gefühl nicht los, daß wir bespitzelt wurden,
 
 Ich teilte meine Gedanken Harst mit und sagte:
 
 »Ich fürchte, Saba ist rachsüchtig und hat hier die Hand
-im Spiele. An den los von Malewe kommen jetzt so viel
-verdächtige Freude Händler von sonderbarem Benehmen.
-Pass’ aus, Palast, diese Saba spielt uns einen Streich. Ihr
+im Spiele. An den Hof von Malewe kommen jetzt so viel
+verdächtige fremde Händler von sonderbarem Benehmen.
+Pass’ auf, Harald, diese Saba spielt uns einen Streich. Ihr
 Vater ist ein mächtiger Mann und vergibt uns den Schlag
 gegen seine Toter nicht.«
 
-Harst jedoch wollte mir nicht glauben. Steine sorglose
-
+Harst jedoch wollte mir nicht glauben. Seine sorglose
 starke Natur, die sich allen Lebenszwischenfällen gewachsen
 <@pagebreak/>
-kalte und für die Schwierigkeiten nur dazu da waren, um
+fühlte und für die Schwierigkeiten nur dazu da waren, um
 überwunden zu werden, nahm meine Warnungen auf die
-reichte Achsel.
+leichte Achsel.
 
-Jedenfalls sandte er nochmals, und zwar ein Eilicle-gramm
+Jedenfalls sandte er nochmals, und zwar ein Eiltelegramm
 an den Kapitän, daß er uns mit der »Atlanta«
 erwarten solle.
 
-Aus dieses Telegramm lief denn auch prompt eine Antwort
+Auf dieses Telegramm lief denn auch prompt eine Antwort
 ein. Der Kapitän antwortete, daß das erste Telegramm
 zwar nicht in seinen Besitz gelangt sei, daß er uns
 aber zur Verfügung stände, samt der »Atlanta«.
 
-»Sicht Du, Schraut,« sagte Harst zu mir, »das erste
-Telegramm ist eben verloren gegangen. Die indischen Post-verdhälinisse
+»Siehst Du, Schraut,« sagte Harst zu mir, »das erste
+Telegramm ist eben verloren gegangen. Die indischen Postverhältnisse
 sind nicht so zuverlässig wie unsere daheim. Du
-hast Gespenster gesehen. Faust erwartet uns und morgen
+hast Gespenster gesehen. Bansy erwartet uns und morgen
 reisen wir ab.«
 
 Der Fürst von Malewe ließ es sich nicht nehmen, uns
 mit großem Pomp zur Bahn zu geleiten. Hunderte von
-Dienern und die TStaatsclefanten mit ihren goldenen
+Dienern und die Staatselefanten mit ihren goldenen
 Schabracken waren mobil gemacht worden, und wie die
 Radschas selber hielten Harst und ich unseren Einzug in
-Ei: Bahnstation. Der Zug stand schon bereit und der Abschied
+die Bahnstation. Der Zug stand schon bereit und der Abschied
 von dem Fürsten und Naika, die verschleiert der Abfahrt
 beiwohnte, war sehr herzlich.
 
-Harst und ich wurden mit Geschenken Überläuft und in
+Harst und ich wurden mit Geschenken überhäuft und in
 einem Abteil erster Klasse untergebracht. Lange schon hatte
-sich der Frau in Bewegung gesetzt, und noch immer so! …
-wir, weit aus den Fenstern gelehnt, die weißen TüÜcker 6-8
+sich der Train in Bewegung gesetzt, und noch immer sahen
+wir, weit aus den Fenstern gelehnt, die weißen Tücher des
 Radscha und der Naika wehen. An einer Kurve wurde uns
 endlich dieser Abschiedsgruß entzogen.
 
@@ -69,58 +68,54 @@ Stunden dauerte es bis Pondicherry, und die Fahrt war
 heiß und staubig.
 
 Während Harst kühl, energisch und voller Kraft blieb,
-litt ich selbst sehr unter der indischen Hitze. Ich nahm Ungemessene
-Gläser eisgekühltes Sodawasser zu mir, ja, ich
-taub gestehen, daß ein besonderer Auswärcter des Zuges
+litt ich selbst sehr unter der indischen Hitze. Ich nahm
+ungemessene Gläser eisgekühltes Sodawasser zu mir, ja, ich
+muß gestehen, daß ein besonderer Aufwärter des Zuges
 <@pagebreak/>
 fast ständig mit dem kühlen Getränk für mich unterwegs
+war.
 
-r.
-
-wo Zwar Sessel mir dieser Aufwärter seines finsteren Geschick
+Zwar gefiel mir dieser Aufwärter seines finsteren Gesichtes
 halber gar nicht. Er wurde mir nur sympathisch, weil
-
 er auf jeden Wink von mir sofort mit dem Eiswasser zur
-
 Stelle war …
 
 »Trink nicht so viel Eiswasser,« warnte Harst mich,
 »Du wirst Dir den Magen verderben.«
 
 Daraufhin schränkte ich den Genuß etwas ein, begrüßte
-aber die sich. senkende und kühlende Nacht mit einem Aufnahmen.
+aber die sich senkende und kühlende Nacht mit einem Aufnahmen.
 
-Der Aufwärter kam und wandelte die Eile unseres
-Abteils in Seiten um. Wir mußten die Nacht hindurch
+Der Aufwärter kam und wandelte die Sitze unseres
+Abteils in Betten um. Wir mußten die Nacht hindurch
 reisen. Am nächsten Tage erst sollten wir in Pondicherry
-
-ein.
+sein.
 
 »Noch ein kühler Trunk zur Nacht, Sahib,« fragte der
 Aufwärter höflich. Und da Harst sich diesmal ein Eiswasser
-erlaubte, so bestellte ich mir ebenfalls eins, Vor dem
+erlaubte, so bestellte ich mir ebenfalls eins. Vor dem
 Schlafengehen würde es mir sicher gut tun!
 
-Der Mann brachte das Wasser und ich stürzte es aus
-einen Zug herunter. Harst trank in langsamer, vorsichtigen
-Schurken. Gleichzeitig bemerkte ich, daß der Zug seine
+Der Mann brachte das Wasser und ich stürzte es auf
+einen Zug herunter. Harst trank in langsamen, vorsichtigen
+Schlucken. Gleichzeitig bemerkte ich, daß der Zug seine
 Fahrt verlangsamte.
 
 »Kommt eine Station?« fragte ich. Das Sprechen fiel
-mir merkwürdig schwer. Gleichzeitig schien es, als ob sich)
-mein Sehvermögen verringert hätte, Unser Abteil schien
-mir dunkel und schattenhafst, Harsts Figur schwankte und
+mir merkwürdig schwer. Gleichzeitig schien es, als ob sich
+mein Sehvermögen verringert hätte. Unser Abteil schien
+mir dunkel und schattenhaft, Harsts Figur schwankte und
 sein Glas fiel klirrend zur Erde. Ich hörte nur noch seine
 Stimme:
 
-»Schraut, Schraut, das Wasser enthielt ein Betätuy-bungsmittel.
+»Schraut, Schraut, das Wasser enthielt ein Betäubungsmittel.
 Ermanne Dich!«
 
 »Saba!« schoß es mir durch den Kopf, »der Aufwärter
 ist eine ihrer Kreaturen! Ihre Rache naht!«
 
 Ich machte die verzweifeltsten Anstrengungen mich zu
-ermuntern, aber das Opium, das man dem Chronik beige
+ermuntern, aber das Opium, das man dem Trank beige-
 <@pagebreak/>
 mischt hatte, war stärker wie ich. Ich versank in Nacht und
 Betäubung —
@@ -129,21 +124,21 @@ Wie lange Zeit war vergangen? Ich wußte es nicht.
 
 Ich wurde erweckt durch ein unangenehmes Schütteln
 und Schwanken. Dies Schütteln und Schwanken kam mir
-bekannt vor. Ich hatte schon einmal Aehnlidc9 erlebt.
+bekannt vor. Ich hatte schon einmal Ähnliches erlebt.
 Wo war es nur gewesen?
 
-Ich, jetzt wußte ich es! Auf einem Kamelritt, den ich
+Ach, jetzt wußte ich es! Auf einem Kamelritt, den ich
 in Gesellschaft von Harst gemacht hatte, war dies Seekrankheit
 erregende Schütteln auch gewesen; hatte von meinem
 Körper Besitz genommen und ihm Übelkeit erregt.
 
-Satz ich am Ende wieder auf einem Kamel?
+Saß ich am Ende wieder auf einem Kamel?
 
-Ich ermunterte mich, versuchte mir die Augen zu leider
-und stellte erst, daß das nicht ging, weil mir die Hände
+Ich ermunterte mich, versuchte mir die Augen zu reiben
+und stellte fest, daß das nicht ging, weil mir die Hände
 mit dicken Hanfstricken gebunden waren. Die Füße dito.
-Rühren konnte ich mich also nicht viel, aber meinem er-w«
-an enden seine hatte man glüdlicherweise keine Stricl-sesscsn
+Rühren konnte ich mich also nicht viel, aber meinem erwachenden
+Geiste hatte man glücklicherweise keine Strickfesseln
 anlegen können. Außer einem schmerzhaften und unangenehmen
 Gefühl im Hinterkopfe war ich jetzt völlig wach
 und blickte mich um.
@@ -151,86 +146,84 @@ und blickte mich um.
 Es war Nacht, aber das Licht der südlichen Sterne
 verbreitete eine genügende Helligkeit, so daß ich meine Umgebung
 erkennen konnte. Ich konstatierte daß ich von einem
-viersfüßiaen und schwankenden Beförderungsmittel sort-iran&portiert
-wurde, und daß ich im Inneren eilt: « Rotbärtigen
-Behälters hat, der sicher auf dem trabenck… Drehtür
+vierfüßigen und schwankenden Beförderungsmittel forttransportiert
+wurde, und daß ich im Inneren eines korbartigen
+Behälters hockte, der sicher auf dem trabenden Vierfüß-
 ler festgebunden war. Zu meiner Seite sah ich eine
-menschliche Gestalt und — jetzt hörte ich erst leises Lachen,
+menschliche Gestalt und — jetzt hörte ich ein leises Lachen,
 
-»an, Schraut, bist Du munter,« sagte eine Stimme
+»Na, Schraut, bist Du munter,« sagte eine Stimme
 neben mir, die ich zu meinem großen Entzücken als die
-meines Freundes Harst erkannt?!
+meines Freundes Harst erkannte!
 
-»Wo sind wird« schniappie ich,
+»Wo sind wir?« schnappte ich,
 
-»Sicht zu, Du könntest Dein betäubendes Eiswasser
+»Siehst Du, Du hättest Dein betäubendes Eiswasser
 nicht so schnell in die Kehle gießen sollen. Ich habe es in
 kleinen Schlucken getrunken, bin schon seit einer Stunde
 wach und kann Dir nun wenigstens Auskunft geben.«
 
 <@pagebreak/>
-— »O Hatrtald,« stotterte ich, »das ist Sabas und ihres
-Vaters Fuhrwerk!«
+»O Harald,« stotterte ich, »das ist Sabas und ihres
+Vaters Rachewerk!«
 
 »Gewiß, mein Sohn. Aber um Deine Frage zu beantworten.
-Wir sind auf dem ließen eines Elefanten —’«
+Wir sind auf dem Rücken eines Elefanten —«
 
 »Daher das Schwanken,« seufzte ich, »das mir fast
-Grenznest verursacht. sich glaubte, ich sei Nuß einem
-
+Seekrankheit verursacht. Ich glaubte, ich sei auf einem
 Kamel.«
 
 »Und auf dem Wege zu Saba, respektive zu ihrem
 Vater,« vollendete Harst seinen Satz in Seelenrußbe.
 
-»Na, freundlich werden sie uns nicht empfangen,« anhimmelte
-ich. Ein rachsüchtiges Weib ist so viel wert, wie ein
+»Na, freundlich werden sie uns nicht empfangen,« murmelte
+ich. "Ein rachsüchtiges Weib ist so viel wert, wie ein
 fliegender Teufel und zu allem fähig.«
 
-»Deine Weisheit ist tiesgründig, Max Schraut,« sagte
-Harst gelassen, »ich? muß zugeben, daß zu recht hast und daß
+»Deine Weisheit ist tiefgründig, Max Schraut,« sagte
+Harst gelassen, »ich muß zugeben, daß Du recht hast und daß
 es um unsere Zukunft trübe aussehen würde, wenn ich
-ich! — — na, sich her!«
+nicht — — na, sieh her!«
 
-Ich gehorchte und sah — als Harst die A:!me hob —,
+Ich gehorchte und sah — als Harst die Arme hob —,
 daß er frei von allen Fesseln war.
 
 »Hat man Dich nicht gebunden?« fragte ich dumm.
 
-»Sdcasskopf, natürlich. Aber erstens wirkte Zeit mit
+»Schafskopf, natürlich. Aber erstens wirkte bei mir
 das Betäubungsmittel nicht so intensiv, weil ich es in kleinen
-Schurken trank. Zweitens spielte ich eine Komödie
-und stellte mich betäubten als ich war, und drittens habe ich
-in diesem Clesantentrangportkorb ein Bandeisen entdeckt,
+Schlucken trank. Zweitens spielte ich eine Komödie
+und stellte mich betäubter als ich war, und drittens habe ich
+in diesem Elefantentransportkorb ein Bandeisen entdeckt,
 mit dem die vier Wände des Korbes zusammengeschnürt
-[Ad Es ist zwar etwas rostig, aber ich habe eine Blut
+sind. Es ist zwar etwas rostig, aber ich habe eine Blutvergiftung
+riskiert und meine Fesseln durchscheuert.«
 
-Beziehung riskiert und meine Fesseln durchschenert.«
+»Dann befreie mich von meinen Fesseln, Harst,« rief ich.
 
-»Dann befreie mich von meinen Fesseln, Harst,« nie] ich.
+»Sssst! Wirst Du wohl still sein! Wenn Du so schreist,
+wird es unser Mahout (Elefantentreiber) hören und dann
+ist unser Schicksal besiegelt. Natürlich werde ich Dich befreien!«
 
-»ist! Wirst Du wohl still sein! Wenn Du so schreist,
-wird es unser Ausruf (Clesantentreiber) hören und dann
-st unser Schicksal besiegelt. Natürlich werde ich sich befreien!«
-
-Harst machte sich nun daran, meine Fesseln ansztt-fnwlpfen.
-Bald waren meine Hände und füllte steht, und ich
+Harst machte sich nun daran, meine Fesseln aufzuknüpfen.
+Bald waren meine Hände und Füße frei, und ich
 fühlte mit Freude, wenn es auch schmerzhaft war, wie mein
 <@pagebreak/>
-Glut in den abgeschnüriten Gliedern wieder zu zirkulieren
+Blut in den abgeschnürten Gliedern wieder zu zirkulieren
 begann.
 
 Inzwischen hatten wir einen dichten Wald passiert. Wir
-hielten uns geduckt als gefangene und betäubte Beute zu
-dem Grunde des Elesantenkorbes, konnten aber doch er:
+hielten uns geduckt als gefangene und betäubte Beute auf
+dem Grunde des Elefantenkorbes, konnten aber doch er-
 kennen, daß wir nun in eine Landstraße einbogen. Harst
-spähte durch die Körbchen und erzählte mir, was er sah.
+spähte durch die Korbritzen und erzählte mir, was er sah.
 
 »Ha, dort ist der erleuchtete Palast eines indischen
 Radscha. Vermutlich der Sitz des Fürsten von Sabukpore,
-des Vaters der Saba, Aber alles glänzt von sichern,
+des Vaters der Saba. Aber alles glänzt von Lichtern,
 alles atmet Leben und Betrieb, nachdem es mitten in der
-matt ist. Was soll das heißen?«
+Nacht ist. Was soll das heißen?«
 
 Wir sollten es bald erfahren.
 
@@ -238,92 +231,91 @@ Der Fürst von Sabukpore, obgleich ein indischer
 Radscha von großem Reichtum, führte doch kein eigenes
 Regiment. Er war den Engländern unterstellt, wie die
 meisten indischen Fürsten, und diese kontrollierten ihn und
-seine Negicerungämaßnahmen in unauffälliger Welse. so 1’a1
-jetzt eine Fliegerabteilung der Engländer bei dem kurzer
-eingerückt, um ihm einen Besuch abzustatten. Die Enftiwu-der
-lagerten im Palastbhose und nahmen »anscheinend in bei
+seine Regierungsmaßnahmen in unauffälliger Welse. Sa war
+jetzt eine Fliegerabteilung der Engländer bei dem Fürsten
+eingerückt, um ihm einen Besuch abzustatten. Die Engländer
+lagerten im Palasthofe und nahmen anscheinend in der
 Halle des Palastes mit dem Fürsten ein Nachtmahl ein.
 
-Man hörte Gesang und Musik aus der Halle, klug dem
-Hose bewegten sich die Gestalten von Soldaten. Wir war
-den mit unseren Elefanten in einen Eeitentrakt des Hose?
+Man hörte Gesang und Musik aus der Halle. Auf dem
+Hofe bewegten sich die Gestalten von Soldaten. Wir wurden
+mit unseren Elefanten in einen Seitentrakt des Hofes
 geführt und hier ließ man uns — als anscheinend gefesselt
-in den EClosansenkörken sitzen. Sicher wollte man uns nicht
-in eine Zelle abtran8&portieren, um bei den Engländern kein
-ansehen zu erregen. Wir hörten, wie sich unsere Wärter
+in den Elefantenkörben sitzen. Sicher wollte man uns nicht
+in eine Zelle abtransportieren, um bei den Engländern kein
+Aufsehen zu erregen. Wir hörten, wie sich unsere Wärter
 entfernten.
 
-Im nächsten Augenblick lösten wir über den Narr:
-unseres gestohlenen Gefängnisses, und da die Wärter Fuße!
-Ich! waren, glitten wir von unseren ungefügen Trachtete!y
+Im nächsten Augenblick lugten wir über den Rand
+unseres geflochtenen Gefängnisses, und da die Wärter außer
+Sicht waren, glitten wir von unseren ungefügen Tragtieren
 herab zu Boden.
 
 Wir schlichen zu der offenen Halle des Palastes, wo
-der Fürst von Sabukpore mit seinen englischen Gäfte’«
+der Fürst von Sabukpore mit seinen englischen Gästen
 <@pagebreak/>
-tastete. An der Tafel nahm seine Tochter Saba teil, die
+tafelte. An der Tafel nahm seine Tochter Saba teil, die
 zwar verschleiert war, die wir aber an ihrer Stimme erkannten.
-Flötenbläser machten die Tafelmusik, von Gongsjschlä-gern
+Flötenbläser machten die Tafelmusik, von Gongschlägern
 begleitet, und — mein Glaube an einen Zusammenhang
-mit der Exrgatiin des Radscha von Malewe war richtig Schreien
-— Hat!, die Tempeltänzerin, saß ebenfalls an der
+mit der Exgattin des Radscha von Malewe war richtig gewesen
+— Hati, die Tempeltänzerin, saß ebenfalls an der
 Tafel. Harst und ich erkannten sie, da sie keinen Schleier
 trug.
 
 »Mein Gatte, der Radscha von Malewe,« sagte Saba
-in diesem Jugendlich, »hat mir in seiner großen Güte erlaubt,
+in diesem Augenblick, »hat mir in seiner großen Güte erlaubt,
 meinen Vater zu besuchen. Des Radscha von Malewe
-Herz ist schwer von Kummer, denn zwei schändliche Eure.
-Europäer haben sich erdreistet, einen Tempeldiebstahl bei Um!
-auszuführen und ihm, einen wundervollen Talisman zu
+Herz ist schwer von Kummer, denn zwei schändliche Europäer
+haben sich erdreistet, einen Tempeldiebstahl bei ihm
+auszuführen und ihm einen wundervollen Talisman zu
 rauben.«
 
 Die englischen Offiziere, die an der Tafel teilnahmen,
-horchten aus.
+horchten auf.
 
-»Ihr Gatte, Fürstin, hätte sofort die englische voller:
+»Ihr Gatte, Fürstin, hätte sofort die englische Polizei
 benachrichtigen sollen,« sagte der eine der Herren, »man
-ne nach den entzweien geforscht und sie ihm -zuräckgac-
-brach!.«
+hätte nach den Juwelen geforscht und sie ihm zurückgebracht."
 
 »O Sir, die Diebe sind heimlich entflohen. Der Radscha
 war sehr traurig über den Verlust und unfähig, etwas zu
-unternehmen, Ich selbst sandte Diener hinter den Gaunern
-per und man hat sie heute heimlich) gehabt und hierher ge:
+unternehmen. Ich selbst sandte Diener hinter den Gaunern
+her und man hat sie heute heimlich gefaßt und hierher
 gebracht,«
 
-Der englische Offizier schlug aus den Tisch.
+Der englische Offizier schlug auf den Tisch.
 
 »Man soll die Schurken sofort zu mir führen; ich werde
-ihre Besttasuyng veranlassen,« rief er heftig.
+ihre Bestrafung veranlassen,« rief er heftig.
 
-»TY rechnete mit Deiner Hilfe, Herr,« sagte die listige
-Saba, »Die Gefangenen sind draußen und gebunden.
+»Ich rechnete mit Deiner Hilfe, Herr,« sagte die listige
+Saba. »Die Gefangenen sind draußen und gebunden.
 Vater, gib Befehl, daß sie vor die Herren geführt werden.«
-Diener eilten hinweg, um nach uns zu haben. Harst und
-ich drückten uns dieser in das Versteck.
+Diener eilten hinweg, um nach uns zu suchen. Harst und
+ich drückten uns tiefer in das Versteck.
 
-»Das ist eine verdammte Geschehnis, Harald,« flüstert:
-ich meinem Freunde zu, »kennst Du die Englänvder««
+»Das ist eine verdammte Geschichte, Harald,« flüsterte
+ich meinem Freunde zu, »kennst Du die Engländer?«
 
 <@pagebreak/>
 »Nein.«
 
 »Nun wird man unser Verschwinden entdecken, und wir
-sitzen ich ön in der Pat’che.«
+sitzen schön in der Patsche.«
 
 »Mein Plan ist schon fertig. Wir werden entfliehen.
-Ich habe keine Luft, mich abermals als Juwelendieb fassen
-und diesmal in englisches Gewahrsam sehen zu lassen,
-Bis die Geschichte erklärt ist, verlieren wir zu viel Zelt,
-Harst wartet und ich möchte nach Ceylon.«
+Ich habe keine Lust, mich abermals als Juwelendieb fassen
+und diesmal in englisches Gewahrsam setzen zu lassen.
+Bis die Geschichte erklärt ist, verlieren wir zu viel Zeit.
+Bansy wartet und ich möchte nach Ceylon.«
 
 In diesem Augenblick ertönte lautes Geschrei. Mit
-Geräusch kehrten die Diener zurück und meldeten unser rätselhaftes
-Verschwinden. Die Engländer und der Fürst
-sprangen von der rasch auf und eilten in den los hinaus,
+Geräusch kehrten die Diener zurück und meldeten unser
+rätselhaftes Verschwinden. Die Engländer und der Fürst
+sprangen von der Tafel auf und eilten in den Hof hinaus,
 
-Hat! und Saba folgten,
+Hati und Saba folgten,
 
 In den nächsten Minuten herrschte draußen ein völliges
 Tohuwabohu.
@@ -331,44 +323,44 @@ Tohuwabohu.
 Wir hörten, wie die Engländer die Soldaten mobil
 machten und auf die Suche nach uns schickten.
 
-»Sie können noch nicht weit sein,« kreischte Saba, »Sie
+»Sie können noch nicht weit sein,« kreischte Saba. »Sie
 sind sicher in den Wald geflohen.«
 
-Alle verfügbaren Männer während sich nun auf die
-tue nach uns. bald lagen Hof und Palast verlassen.
-Nur Saba, Hat! und einige Dienerinnen waren zurückgeblieben,
+Alle verfügbaren Männer machten sich nun auf die
+Suche nach uns. bald lagen Hof und Palast verlassen.
+Nur Saba, Hati und einige Dienerinnen waren zurückgeblieben,
 und wir wagten uns aus dem Versteck hervor,
 
-»nun den Flugzeuaen,« rief Harst, »wir verfolgt 1:
-durch die List und nach uns die Sintflut. Aber erst wir
-ich dem englischen Offizier ein paar Zeilen zur Aunsklärung
-zurücklassen. Halte die Weiber in Schacht, schrak,«
+»Zu den Flugzeugen,« rief Harst, »wir verschwinden
+durch die Luft und nach uns die Sündflut. Aber erst will
+ich dem englischen Offizier ein paar Zeilen zur Aufklärung
+zurücklassen. Halte die Weiber in Schach, Schraut,«
 
-Unser Tropisches Auftauchen erregte Schrecken und Geschrei
-vier der Weiberschar. Aber ich machte wenig Federlesens
-mit der Gesellt[Mast, Mit vorgehaltenem Revolver
-trieb ich Saba, Hat! und die übrigen in eine Exe. Eine
-Norhangschmtir diente mir dazu, die Gesellschaft auf zwar
-primitive, aber doch wirksame Weise zu Sesseln. Sie gen
-
-Bord;Atem meinem Befehl sie ruhig zu verhalten, wie eine
+Unser plötzliches Auftauchen erregte Schrecken und Geschrei
+unter der Weiberschar. Aber ich machte wenig Federlesens
+mit der Gesellschaft. Mit vorgehaltenem Revolver
+trieb ich Saba, Hati und die übrigen in eine Ecke. Eine
+Vorhangschnur diente mir dazu, die Gesellschaft auf zwar
+primitive, aber doch wirksame Weise zu fesseln. Sie gehorchten
+meinem Befehl sich ruhig zu verhalten, wie eine
 Herde Schafe,
 
 <@pagebreak/>
 Nachdem ich sie zusammengebunden hatte, hatte auch
 Harst seinen Brief vollendet,
+
 Er lautete:
 
-An den englischen Kommandanten,
+> An den englischen Kommandanten,
 
-Sehr geehrter Herr! Sie sind auf dem Halensee,
-wenn Sie nach Dieben suchen, Fragen Sie bei dem sollten
+> Sehr geehrter Herr! Sie sind auf dem Holzwege,
+wenn Sie nach Dieben suchen. Fragen Sie bei dem Gatten
 der Lügnerin Saba an, und Sie werden erfahren,
 daß er sie wegen Untreue und Verschwörung verbannt
-hat. Wir chartern eins Ihrer Flugzeuge, und uns Ihrer
+hat. Wir chartern eins Ihrer Flugzeuge, um uns Ihrer
 törichten Gesellschaft zu entziehen.
 
-Harst und Schraut,
+<blockquote class="right"><p>Harst und Schraut.</p></blockquote>
 
 Der Brief wurde am Kleide der Saba befestigt, was sich
 sich zähneknirschend gefallen lassen mußte, und dann eilten
@@ -384,7 +376,7 @@ Im nächsten Augenblick saß ich auf dem Passagierfit
 und Harst kletterte auf dein Führersitz. Er schaltete den Motor
 ein, der knatternd zündete. und dann hoben wir uns tun
 einer langen Spirale in die Luft, gerade als unsere Verfolger
-in den Palasthos zurückkehrten,
+in den Palasthof zurückkehrten,
 Ein Schrei der Wut drang zu uns hinauf.
 
 »Man wird uns verfolgen,« schrie ich Harst zu.
@@ -493,7 +485,7 @@ Wagendächer von meinem Start entfernt.
 
 Weit hinten sah) ich die Waldkimme in der Entfernung
 verblassen, sah die Flugzeuge unserer Verfolger sich wir Adler
-aus ein ängstlich slatternde8 Huhn stürzen — unser verfallenes
+aus ein ängstlich flatterndes Huhn stürzen — unser verfallenes
 Flugzeug, das in Spiralenlinien zur Erde taumelte
 und — ich brach in ein Triumphgelächter aus.
 
@@ -516,7 +508,7 @@ Gelächter beim Zugpersonal auszuliefern.«
 
 Mein Gott, liebe Leser, lacht nicht über mich und haltet
 mich für grenzenlos verfressen. Bedenkt aber, daß seit unserem
-LOpiumwasjergenuß mehrere Stunden verließen
+Opiumwassergenuß mehrere Stunden verließen
 waren, und daß man es nicht als Mahlzeit rechnen kann.
 Wir hatten fast zehn Stunden nichts gegessen und das Hornhaut)
 einen ftrainierten Magen hungrig stimmen,
@@ -536,7 +528,7 @@ teils zerrissen, teils in Unordnung, rasiert waren wir auch
 nicht und ich hatte das Gefühl, daß wir äußerst dreckig angesehen
 <@pagebreak/>
 müßten. Ich wunderte mich, wie Harst uns beide in
-Passagiere eines Luxu8cxpreß verwandeln würde. Nichts-vestoweniger
+Passagiere eines Luxusexpreß verwandeln würde. Nichtsdestoweniger
 folgte ich ihm gehorsam.
 
 Wir könnten über die Wagendächer bis zum letzten
@@ -567,12 +559,12 @@ Ich starrte meinen vermeintlichen Widersacher an und
 glaubte meinen Augen nicht Frauen zu dürfen — — vor mit
 stand Inspektor Greep, wie er teilte und lebte.
 
-Ich Blick ein wahres Freudengehenl aus, das durch die
+Ich Blick ein wahres Freudengeheul aus, das durch die
 Begrüßung, die Greep dem mittlerweile ebensalläs herab.:
 gerutschten Harst zuteil werden ließ, überzog! wurde.
 
 Nun standen wir alle drei auf der Plattform und
-Stein s[hinderte Harst und mir die He»de.
+Stein s[hinderte Harst und mir die sehe.
 
 »Wie 10 mich freue,« rief er, »Harst und Schraut! Wo
 kommen Cz nur her?«
@@ -603,14 +595,14 @@ einige verzwickte Kriminalfälle erledigt und sich bei der
 überfeinen in Sicht.
 
 Er ernstes sich uns sofort als hilfsbereit. natürlich
-hatte der Inspektor in dem Expreß ein Luxnsabteil mit
+hatte der Inspektor in dem Expreß ein Luxusabteil mit
 Waichvorrie&iung usw. zur Verfügung und führte einen
 wetlassortterten Kleiderkoffer mit.
 
 Während Harst und ich uns wuschen, uns mit geraten
 Sachen und Bombe her Wasser versahen, war der Inspektor
 finau8gegangen, um ein drohendes Frühstück Eile uns alle
-zu bestellen. Als er wiederfam und ein Aufwärter mit leckeren
+zu bestellen. Als er wiederkam und ein Aufwärter mit leckeren
 Sachen auf einen! Tablett hinter sich, fand er zur! topdel-lo8
 gekleidete Gentlemen vor, die sich sofort daran 1. ten,
 ihren Bärenhunger zu stillen,
@@ -644,12 +636,12 @@ Obhut eines alten Oberpriester der Sekte. Es existieren
 aber bei den verschiedenen schien in den verschiedenen Gegenden
 Nachbildungen dieser Shintaschlange, zu der die
 Sektierer beten, In bestimmten Zeitpausen macht der alte
-Oberpriester Reisen und bringt die Originalscklange in die
+Oberpriester Reisen und bringt die Originalschlange in die
 Tempel, wo die Schlangennachbvisvbungen sich befinden. Untier
 allerlei religiösen Zerentonicn wird eine Verbindung
 von dem Original mit der Nachbildung vollzogen, damit das
 Abbild der Eigenschaften der eigentlichen Shinta anlehnte.
-So befindet sich die OQriginalshinta eigentlich immer mit
+So befindet sich die Originalshinta eigentlich immer mit
 drin Oberpriester auf Reisen alt den diversen Gemeinden,
 denn die Übertragung der Eigenschaften hält nur immer
 eine Tasse Zeit vor.«
@@ -664,7 +656,7 @@ denn auch dieser, Nurmo mit Namen, ist verschwunden.«
 
 »Oho,« sagte Harst verbbiüsst, »hier ist ein Fall, wo die
 Shinta ihre Kraft zeigen kann, denn die Eingeborenen behaupten
-ja, daß sie jeden töte, der sich unrechtmäßiacrweise
+ja, daß sie jeden töte, der sich unrechtmäßigerweise
 in ihren Besitz setze.«
 
 »So geht der Glaube der Sektierer. Aber Nurmo
@@ -682,7 +674,7 @@ Shinta zu sehen.«
 sagte Harst nachdenklich, »aber ich kann mir vorstellen, daß
 sie die Habgier eines gewissenlosen Mengen reizen kann.
 Abgesehen von ihrer großen Kostbarkeit hat die Schlange
-hohen Kunst- und Altertum8swert, Sammler würden große
+hohen Kunst- und Altertumswert, Sammler würden große
 Summen Bassin geben.«
 
 Greep zwinkerte listig mit den Augen.
@@ -702,7 +694,7 @@ Bombay vor!bin dirigiert.«
 »Was hat das alles mit der Schlange zu tun, Greep?«
 
 »Hm — meine Berichte lauten, daß Nurmo den Amerikaner
-und seine Tochter bereits bei seinem Enropaaufent-balt
+und seine Tochter bereits bei seinem Europaaufenthalt
 kennengelernt hat. Ja, er hat die Rückreise von Europa
 nach Indien nicht auf einem Passagierdampfer, sondern an
 Bord der amerilfanischen Jacht gemacht. Verstehen Sie
@@ -748,9 +740,9 @@ Amerikaners?«
 »Na, da drüben, Herr Harsts, da, wo’s erleuchtet ist und
 die Musik spielt. Das ist die »Santala«. Man sofort Geburtstag
 drüben. Der Amerikaner. Mc. Namara, gibt ein
-Fest anläßlich des Geburtä3tages seiner Tochter. Wir haben
+Fest anläßlich des Geburtstages seiner Tochter. Wir haben
 uns angefreundet, und er hat mich eingeladen. Wollte soeben
-rübersahren und habe von, Male das Deck inspiziert,
+rüberfahren und habe von, Male das Deck inspiziert,
 da traf ich aus Sie.«
 
 »Das klappt, Kapitän. Sie müssen uns an Bord
@@ -801,10 +793,10 @@ Klappe.
 Als ich zurückkam, fand!ich Harald auf seinem Seebad;
 Beobachtungsposten am Skylight, von wo aus wir den Speise-kaum
 der »Santala« übersehen konnten. Die Gesceüsvast
-saß bei Tisch, und Miß Mc. Namara Hatte sich zum Tisch-derrn
+saß bei Tisch, und Miß Mc. Namara Hatte sich zum Tischherrn
 unseren guten alten Seebären Harst erkoren. Neben
 ihr saß Arm Fadden und ihr gegenüber Palmen. Dem Inder
-ich Den diese Tischeinteisung nicht. in passen, auch. Mc. Namara
+ich Den diese Tischeinteilung nicht. in passen, auch. Mc. Namara
 <@pagebreak/>
 schien verstimmt, denn er trank ziemlich viel und sah
 ärgerlich ans …
@@ -865,7 +857,7 @@ Kleinod haben. Ich bin leidenjschastlicher Sammler von
 Raritäten, und mein Haus in Neuyork ist durch seine
 Sammlung eine Sehenswürdigkeit. Ich habe diese Weltreise
 Witterung:unten, um neue Kleinodien für meine Sammlung
-zufammenzutragen. Ich gebe Ihnen jede Summe für
+zusammenzutragen. Ich gebe Ihnen jede Summe für
 die Egulange. Als Sie mir auf der Herreise von der Shinta
 erzählten, war es bei mir beschlossen, daß ich das Ding bleiben
 müsse. Kein Preis ist mir zu hob). Ich mache Sie zum
@@ -877,7 +869,7 @@ Lump hob die Hand.
 Sie soll mein seid werden. las ist mein Preis für das
 Kleinod, wie ich Bilder schon oft sagte. Ich habe genarrter,
 um dieses hing zu beiden ich) habe mit Verneigt Volke gebrochen
-und die Fache Der Shintasekte riskiert — für Jenny
+und die Sache Der Shintasekte riskiert — für Jenny
 Wie. Behältst, Sie wieder: dieses hier nur erhalten, wenn
 Sie mir Jahre doch: geben. her nicht.«
 
@@ -922,7 +914,7 @@ aufblicken. Ich packte Harst an der Schulter und flüsterte:
 
 Aus dem Gestänge über uns sahen wir eine schlanke
 Männergestalt zu Boden gleiten, an der nicht weiter exr-fennilich
-war, wie eine gelbe Hüstenichärpe. Der Mann
+war, wie eine gelbe Hüftenschärpe. Der Mann
 verschwand mit der Geräuschlosigkeit und Schnelligkeit einer
 habe im Dunkel, tauchte hinter einem Kajfitäkapp unter,
 und als Harst und ich mit raschen Sprüngen zur Stelle
@@ -984,7 +976,7 @@ verließen auch Harst und ich unseren Lauscherposten.
 
 Wir gingen in unsere Koje. Man hatte uns einen flacheren
 Raum unter der Papier angewiesen, da der eigentliche
-Mannschastäraum befolgt war. Das war uns sehr angenehm,
+Mannschaftsraum befolgt war. Das war uns sehr angenehm,
 denn so konnten wir ungesiödrt handeln und
 plaudern,
 
@@ -1053,7 +1045,7 @@ Nurmo lag auf dem Rücken in der Mitte seiner Kabine.
 Er war Kot, auf gräßliche Weise erdrosselt. Sein
 Bett hatte er ausgesucht, es war zerwühlt, aber offenbar
 hatte er die Flucht ergreifen wollen. Er hatte angefangen,
-einen kleinen Handkoffer zu packen, aus dem einige Toi-lettenutensilien
+einen kleinen Handkoffer zu packen, aus dem einige Toilettenutensilien
 lugten. Ich sah eine Zahnpulverdose, einige
 Bürsten, einen verschraubbaren Behälter fuhr Mundwasser,
 einen SEeisenbebälter.
@@ -1075,7 +1067,7 @@ mit der Schlange?«
 Aber so viel wir nach dem Schlangenkäsicher: 7:echten,
 wir sagten es nicht. Es war spurlos verschwunden«
 
-Von der kerbeidrängenden Mannschaft wurde ein Matrose
+Von der herbeidrängenden Mannschaft wurde ein Matrose
 ins Trinityhotel ge’chtckt, um Greep herbeizurufen.
 dann wurden die Leute auf Tod gesandt, und Harst machte
 sich in Mc. Namaras und meiner Gegenwart an einte genaue
@@ -1290,7 +1282,7 @@ ich, sondern auch die Übrige Gesellschaft folgten ihm.
 Die Tür zu Nurmos Kabine stand offen. Die Leiche
 selbst war aus Befehl Harsts entfernt worden, aber sonst
 hatte man alles im alten Zustande gelassen. Da stand noch
-die halbgepackte Handtasche — da war noch das Seisen-wasser
+die halbgepackte Handtasche — da war noch das Seifenwasser
 in der Schüssel, da lag noch das Seisenschnitel.
 
 Harald stülpte die Handtasche des Nurmo um, die wir
@@ -1300,7 +1292,7 @@ Kleinigkeiten rollten über den Boden. Darunter auch eine
 runde, vernickelte Seifendose. Harst raste sie aus und
 öffnete sie …
 
-Ein rundes Brütet des großen, englischen Seisensor-mats,
+Ein rundes Brütet des großen, englischen Seifenformats,
 wie es in aller Welt bekannt ist, so)gute hervor. Harst
 ergriff es, Schickte es, brach es auseinander, und ein Schrei
 löste sich von unseren Lippen:
@@ -1320,7 +1312,7 @@ Phantasie erschlug dieses Versteck. Er höhlte den runden Sci-senkcgel
 aus, siehe den Schlangenkopf hinein, täuschte eine
 Waschung vor und schloß das Loch wieder. Dann verpackte
 er die Seifendose in seinen Handkoffer, den er abreise mäßig
-qusstassierte. Vielleicht hatte er auch die Absicht zu fliehen.
+ausstaffierte. Vielleicht hatte er auch die Absicht zu fliehen.
 aber da ereilte ihn das Geschick. Nun, Mr. Mc. Namara.
 … wollten Sie den Shintakopf haben oder Ihre Tochter?«
 
@@ -1349,8 +1341,8 @@ Geduld fassen.
 wir Greep erzählte, fanden die Versammlungen der
 Sekte erst nach; Sonnenuntergang statt.
 
-Greep hatte den sehniger von den Leuten der Pondicherry-
-Polizei umziehen lassen, um! gegen alle Überraschungen
+Greep hatte den sehniger von den Leuten der Pondicherry-Polizei
+umziehen lassen, um! gegen alle Überraschungen
 gesichert zu sein. Als die religiöse Zeremonie im
 vollen Gange war, drangen wir in daß Innere des
 Tempels,
@@ -1383,7 +1375,7 @@ Leib einer Schlange, der der Kopf fehlte,
 lösen.«
 
 Der alte Mann gab einen leisen Befehl, und Miß
-Jenny wurde losgebunden. Halbohnnächtig viel sie in Fädchens
+Jenny wurde losgebunden. Halbohnmächtig viel sie in Fädchens
 Arme, der sie aufhob und forttrug.
 
 Harst ließ den Schlangenkopf in des Alten Anscheins.!ie
@@ -1406,7 +1398,7 @@ die Anker und machen Sie sich mit Miß Jenny und
 Motoren also gleich aus dem Staube. Ich glaube zwar, daß
 sich die Stutzuhr(« mit der Rückgabe des Schlangenköpfe?
 ausrichten geben werden, aber — es könnten noch einige
-rochsüchtige Fanatiker unter der Gesellschaft sein. Verlobung
+rachsüchtige Fanatiker unter der Gesellschaft sein. Verlobung
 klommen Sie morgen auf hoher See Brettern.«
 
 Mc. Namara versprach, dem Rate zu folgen.
@@ -1430,7 +1422,7 @@ Der Klub
 der »bulligen Eunuchen«.
 
 Ceylon, die wundervolle Insel südlich vom großen, indischen
-Reiche, ist der Hauptsundplat der Welt für Edelsteine.
+Reiche, ist der Hauptfundplatz der Welt für Edelsteine.
 Die wundervollsten Rubinen, höher im Wert wie
 die schönsten Liamanten, Person hier gefunden. Saphire
 von köstlicher Braun sind aus Ceylon, ebenso die grünen
@@ -1439,7 +1431,7 @@ reich vertreten: Spalte, Chrysolithe, Türkise und wie sie alle
 heißen, bilden einen wesentlichen Faktor des handelt.
 
 Colombo, die Hauptstadt und Hafenstadt der Insel ist
-der Haupthandelsplav für die Ceylon-Steine, er beherrscht
+der Haupthandelsplatz für die Ceylon-Steine, er beherrscht
 den Weltmarkt.
 
 Vor drei Tagen waren Harald Harst und ich mit der
@@ -1568,7 +1560,7 @@ Besucher da ist.«
 Ich öffnete die Tür und sah mich zwei Gestalten gegenüber.
 Die eine war unser weißgekleideter, ängstlicher Dieb
 
-ner, der unsere Tür verteidigte. Die andere ein vierschhrötig
+ner, der unsere Tür verteidigte. Die andere ein vierschrötig
 
 Erwachsener Mann mit groben, aber gutmütigen Gesichts- …
 
@@ -1642,7 +1634,7 @@ doch endlich zur Sache.«
 »Ich bin ja mitten drin, Herr Harst. Hören Sie nur
 zu. Also vor drei faltigen mietete im am Malabarplatz, der
 liegt im Eingeborenenviertel, einen kleinen Laden und —
-und richtete mir dort einen Klciderhandel für die Eingeborenen
+und richtete mir dort einen Kleiderhandel für die Eingeborenen
 ein.
 
 »Na, das ist doch ein hübsches, solides Geschäft,«
@@ -1672,7 +1664,7 @@ Geschichte?«
 »Das will ich Ihnen eben erzählen. Also, in meinen
 Laden kamen in der betraten wiederholt verwachsene
 Chinamänner. Es sich mir auf, daß sie wenig sausten,
-sich aber dahin um so intensiver in meinem Geschästsraum
+sich aber dahin um so intensiver in meinem Geschäftsraum
 umsahen… doch) hielt ich sie einfach für neugierig. Vor ein
 paar Wo en kam nun mein Hauswirt zu mir. Das ist ein
 alter Japaner, dem das alte Haus gehört, in dem ich mein
@@ -1762,7 +1754,7 @@ heute,
 
 So, Herr Harst, das ist die Geschichte. Ast sie nicht
 wunderlich? Werden Sie mir nicht in können, meinen —
-alten Laden, der viel besser ging wie der neue, wiederzu-Selommen?
+alten Laden, der viel besser ging wie der neue, wiederzubekommen?
 
 Harst hatte sich erhoben und saß zu die Uhr,
 
@@ -1772,12 +1764,12 @@ Harst hatte sich erhoben und saß zu die Uhr,
 
 »sicher Freund, Ihr »Fall« ist überhaupt kein »Fall«,
 Nirgendwo hat sich irgendwer gegen das Teich vergangen
-und abgesehen davon, daß Sie einige persönliche Unbequem-Ucbleiten
+und abgesehen davon, daß Sie einige persönliche Unbequem-Achteten
 haben, ist keinem Menschen Unrecht oder Schaden
 geschehen. Ich finde einen »Klub der buckligen Chinesen«
 zwar sonderbar, aber es gibt sehr sonderbare Vereine in
 der ganzen Welt,«
-ich »Doch warum hatten sie es aus meinen Laden «Abgott
+ich »Doch warum hatten sie es aus meinen Laden »Abgott
 
 Ehen
 
@@ -1867,7 +1859,7 @@ ihn Harst.
 Er teilt allen bulligen Chinesen Colombos mit, dß
 er sein Vereinslokal nach Malabarplatz 5 verlegt hat. B:heilige
 im Alter von 20 bis 40 Jahren können sich dort einschreiben
-lassen. Unsere Vereinigung sagt Tonners8tags
+lassen. Unsere Vereinigung sagt Donnerstags
 abends von 10 Uhr ab. Mitglieder können sich um diese
 Zeit dort Welten. Über die Ausnahßme entscheidet der Präsident.
 Jedes neue Mitglied ist Stricke Mitglied des Klubs
@@ -1875,7 +1867,7 @@ und ersacint jeden Donnerstag abend zur geselligen Vereinigung
 in ten Vereinsrauimen (Adresse oben). Es erhält
 während des Abends freie Belästigung, Getränke und
 Rgauchzeng, sowie für die Zeit ter Mitgliedschaft, die ein
-Jahr nicht übersa:reiten darf, fünf Dollar pro Mitglieds-abent,
+Jahr nicht übersa:reiten darf, fünf Dollar pro Mitgliedsabend,
 sofern er erscheint.
 
 »Herr des Himmels,« rief mein Freund aus, »das ist
@@ -1886,12 +1878,12 @@ einöstatuten gelesen? Statt daß die Mitglieder etwas in
 die Vereinskasse zahlen, bekommt ein jeder nicht nur Speisen
 und Getränke, sondern auch Rauchens, worunter bei Chinesen
 wahrscheinlich die üblichen Opiumpfeifen zu verstehen
-sind. in kommt die beschränkte Mitglicedsdauer, die seltsam
+sind. in kommt die beschränkte Mitgliedsdauer, die seltsam
 — —«—«
 
 In diesem Augenblick wurde Inspektor Gier von einer
 vorübergehenden Dame angerufen, die ihn bat, ihr ein Glas
-Champagner zu besorgen. Gier genügte seiner Kavalier-psliht
+Champagner zu besorgen. Gier genügte seiner Kavalierpflicht
 und eilte hinweg, während mich Harst in eine Ecke
 40g.
 
@@ -1957,7 +1949,7 @@ konnte ließ mich nicht enthalten einzuweihen,
 
 »Das glaube ich nicht,« jagte Dja ruhig, »aber ich sehe
 schon, Sie beiden Detektive sind Tatsachenmenschen und
-wollen ein präzises Urteil, möglichst aus einem zweiten sach-männischen
+wollen ein präzises Urteil, möglichst aus einem zweiten fachmännischen
 Munde.«
 
 In,« sagte Harst, »das wäre mir interessant, aber wie
@@ -1969,7 +1961,7 @@ Black dachte einen Augenblick nach.
 » Nr. Harst, ich kann mir, Ihnen und Ihrem Freunde
 die vollste Menschheit verschlossen, ohne Mrs. Heimat zu
 böunrübigen. Ich habe Ihnen von dem alten befragtest
-sehen Cdelsteinschleiser gekommen, von Jahre de Rosario, Er
+sehen Edelsteinschleifer gekommen, von Jahre de Rosario, Er
 Ist ein Kenner, den ich noch Über meine Fähigkeiten eilte.
 
 dem
@@ -2028,7 +2020,7 @@ all! Rosario die Steine vertauscht hat.«
 »Das würde allen menschlichen Erfahrungen Hohn,
 spielen,« sagte Black nachdenklich, »Rosario stammt aus
 einer alten, guten portugiesischen Familie, die in Colombo
-seit Menschengedenken ansässig ist und das Edelstcingeschäst
+seit Menschengedenken ansässig ist und das Edelsteingeschäft
 betreibt. Man hat ihn noch nie auf der kleinsten Unredlichkeit
 ertappt, trotzdem Vermögen durfte seine Hände gegangen
 sind. Ich stehe vor einem Rätsel.«
@@ -2184,7 +2176,7 @@ Ein Wulstigen,« sagte Harst nachdenklich.
 Das Gespräch stockte.
 
 Unser Wagen stolperte Über unebenes Pflaster. Schließlich
-rasselte er auf einen Platz, der von kleinen, unansehn-lichen,
+rasselte er auf einen Platz, der von kleinen, unansehnlichen,
 alten Häusern umgehen war. Als der Wagen mit
 Eid.« bog, erhaschte ich einen Blick aus das Straßen
 
@@ -2246,7 +2238,7 @@ soll ich blauen halten? Sie werden doch nicht denken, Mr.
 
 Lack, daß ich —
 
-»Nun, Rosario, ich denke alles mögliche. Wie steht ch
+»Nun, Rosario, ich denke alles mögliche. Wie steht ich
 zum Beispiel mit den Kabinen der Miß, Hellway, die ich-.-
 zum Reinigen hier hatten und gestern abend der Dame schritt
 ablicfertenr Sie sind ebenso imitiert wie dieser Knopf.«
@@ -2357,7 +2349,7 @@ Anstierten mich. Harst nahm jedoch keine Notiz von
 dem Verwachsenen.
 
 <@pagebreak/>
-Er trat an den Ladentisch heran und nahm nie Sa-phirkette
+Er trat an den Ladentisch heran und nahm nie Saphirkette
 in die Hand, die Mr. Brown zurückgelassen hatte.
 
 In diesem Augenblick stürzte sich Ching unter Ausgrabung
@@ -2384,7 +2376,7 @@ seinen Herrn hätte, ihm im Gegenteil — helfen wolle.
 Ching jedoch reagierte auf diese Zeichensprache nicht.
 Entweder beherrschte er sie nicht, oder er war mißtrauisch,
 
-Geduckt und sluchtbereit schlich er zur Tür,
+Geduckt und fluchtbereit schlich er zur Tür,
 
 »Er wird entkommen, Harst,« schrie ich, bereit mich aus
 den Vertwachsenen zu stürzen.
@@ -2406,7 +2398,7 @@ Er zog Ching zu sich heran, und dieser schien sich in
 sein Schicksal zu ergeben. Behutsam, gefährliche Stellen de?
 Fußbodens vermeidend, ließ er sich zu Harst ziehen, der ihn
 <@pagebreak/>
-fest ansah. Wie ein gebändigies Raubtier fügte sich der
+fest ansah. Wie ein gebändigtes Raubtier fügte sich der
 erwachsene dem Blick.
 
 »Ich glaube, Harst,« sagte ich, ohne mich von meiner
@@ -2437,7 +2429,7 @@ Vieh 19arst mit voller Kraft auf die »Laterne Labcniisch-platte.
 »Ah Taste Hof ins, all uns die Platte in Stillte springen
 sah und Ton Plan meines Freundes verstand, Die Grasplatz
 — 0 werfe »dabei, im) Durst sich aufs diese Welse eilte
-isolierenve Unterlage, aus See er vorsichtig zu der Land
+isolierende Unterlage, aus See er vorsichtig zu der Land
 besser viele hinter deren haperte der eolclirische Hebel verborgen
 war.
 
@@ -2487,12 +2479,12 @@ daß es auf eine mehr oder weniger nicht! ankam.
 
 Zuerst also mußte ich mit unserem! Gefangenen die drei:
 der toe4hseln. ach bekam seine ckdincesisck’en Gewänder mit
-er meine Curopäerkleidung an. Diesig Haar wurde Tote
+er meine Europäerkleidung an. Diesig Haar wurde Tote
 der schwarzen Scidenfai-pc verborgen, die Ching tun. Eine
 See, eng zusammengerollt, gab wir die verwachsene Figur.
 Nun war nur noch meine Gesichtsfarbe zu Taschen an, las
 war eine Schwierlgakeit. Aber Haust entdeckte in einem
-kleinen Kilchenraum etwas Safran, ein beliebtes offen: 3:
+kleinen Küchenraum etwas Safran, ein beliebtes offen: 3:
 Lichtes Gewürz, rührte Cm Tüte. Beet Baron mit
 strich mir das Gesicht damit. Eis e? (rote, Hunde 1.1
 schmale mit Safran Überpuderlt.
@@ -2547,7 +2539,7 @@ Einen Schubfach in seinen Laden wagte man der Fallen
 wegen nicht, man hatte eine viel origineUlere Idee.
 
 Dan Peppers Laden, der bequem lag, wurde gemietet
-und ein »Klub der Buckligen« installicrt. Die beiden Haupt-verbrecher
+und ein »Klub der Buckligen« installiert. Die beiden Hauptverbrecher
 glasierten sich als Krüppel aus und inserieriein
 nach Leidensgenossen, denen sie Essen, Getränke und die geliebte
 Opiumpfeife verabreichten. Während ihre Genossen
@@ -2582,7 +2574,7 @@ brauchte ich nicht zu sprechen, da ich: ja täubsumit war. So
 — Weit aging alles Mount. Nur mein »Teint« machte mir Sorgen!
 
 Über auch das klappte.
-Das Verjammlungslokal war aus guten Gründen
+Das Versammlungslokal war aus guten Gründen
 ziemlich dunkel, man gab mir bald meine OQpiimpfeise, ich
 
 604 mich in eine Drehung, angeblich rauchend, In Wahrheit
@@ -2720,7 +2712,7 @@ aufregend und der Anspannung Wert.
 Unser Hund, ein Blecherner namens Binkie, führt uns
 quer durch das ganze Eingeborenenviertel. Mr. Brown
 genauere schon und selbst Black zeigte Zeichen von Gemüter
-Verkleidung. Kreuz und quer ging es durch die verzwicktesion
+Verkleidung. Kreuz und quer ging es durch die verzwicktesten
 Gatten. Ostinaläs blieb unter vierbeiniger Führer lieber;
 und schien die Spur verloren zu haben, was mich fast mit
 Verzweiflung erfüllte, dann aber nahm; er die Fährte wieder
