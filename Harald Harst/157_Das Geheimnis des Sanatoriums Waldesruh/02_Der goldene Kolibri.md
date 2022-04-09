@@ -267,7 +267,7 @@ reinen Tisch machen könnten. Die Lockreets, das war meine
 Überzeugung, steckten mit dem Grafen Arthur Lindstetten
 unter einer Decke, waren dessen Kreaturen. Also: Brudermord!
 — Und jetzt sollte es Vanmeehlen an den Kragen
-gehen, weil die seine Bande ihn fürchtete!! Das war’s!
+gehen, weil die feine Bande ihn fürchtete!! Das war’s!
 
 Ich schlief ein …
 
@@ -307,7 +307,7 @@ vorgestern, einen Tag nach Wilhelm Pork …! Und Artist
 aus Berlin …! Der Sanitätsrat sagte mir, Laudien sei
 übernervös, in der Hauptsache wohl seelische Depression …
 Nervosität kann jeder heucheln … Laudien erscheint mir 
-beachtenswert …« Er flüsterte nur noch … »Ich werde ihn
+beachtenswert …« Er flüsterte nur noch … »Ich werde ihm
 folgen, mein Alter … Oder besser, ich schiebe auch Dich samt
 dem Armstuhl hinter ihm drein …«
 
@@ -1141,7 +1141,7 @@ könnte … Ich habe sie durch eine anständige Summe
 entschädigt … Sie ist bereits abgereist, nachdem sie in
 Köppens Dunkelkammer sich verborgen gehalten …«
 
-»Ich danke, Herr Vanmeehlen … All daß hatte ich
+»Ich danke, Herr Vanmeehlen … All das hatte ich
 mir schon selbst zusammengereimt … — Hegen Sie Verdacht
 gegen den Grafen Arthur Lindstetten, den Schwager
 der Gräfin Gertrud?«
@@ -1431,7 +1431,7 @@ Abendstunden verrannen … Es wurde Mitternacht …
 Und um diese mitternächtliche Stunde ereignete sich folgendes
 …
 
-Wir beide lagen seit zehn Uhr unter Köppens Brett …
+Wir beide lagen seit zehn Uhr unter Köppens Bett …
 
 Genau um Mitternacht half Wilhelm Köppen, wie verabredet,
 der Gräfin durch die Falltür in sein Zimmer nach
@@ -1458,7 +1458,7 @@ lassen … Sie ist bei mir nicht mehr sicher genug. Ich trug
 sie bisher unter meiner Haarkrone verborgen … Hier ist die
 Kette … — Am besten wäre es, Sie würden auch noch
 meine anderen Schmucksachen an sich nehmen … Vielleicht
-holen Sie sie nach oben, Herr Köppen … Bitte liegen in der
+holen Sie sie nach oben, Herr Köppen … Sie liegen in der
 Kassette auf meinem Schreibtisch …«
 
 <@pagebreak/>

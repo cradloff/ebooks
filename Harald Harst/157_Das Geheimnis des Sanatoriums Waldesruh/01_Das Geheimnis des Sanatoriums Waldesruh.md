@@ -268,7 +268,7 @@ um elf Uhr etwas Neues ereignen würde?!
 
 Ja — die Gräfin hatte hier ein Schreiben niedergelegt.
 Harst hatte es zweifellos gelesen. Und in diesem Schreiben
-mußte die erste Stunde erwähnt sein …
+mußte die elfte Stunde erwähnt sein …
 
 Ich zog meine Taschenuhr …
 
@@ -292,7 +292,7 @@ Was — — war das …?!
 Hier in der Einsamkeit des verlassenen Vorwerks Geigenspiel?
 
 Und — ein so künstlerisches Spiel … Ich erkannte,
-was der unsichtbare Virtuose dort darüber im nächtlichen
+was der unsichtbare Virtuose dort draußen im nächtlichen
 verwilderten Garten zum Besten gab …
 
 Es war eine Phantasie des großen Geigerkönigs
@@ -755,7 +755,7 @@ reicht hin … Ich werde vorlesen …
 
 <@pagebreak/>
 
-<p class="centered">Mein lieber, teurer Freund!</p>
+<blockquote><p class="centered">Mein lieber, teurer Freund!</p></blockquote>
 
 > Wie soll ich Ihnen danken für all das, was Sie
 meinetwegen getan haben?! Wie soll ich Ihnen hier
@@ -773,7 +773,7 @@ eine neue Wendung zu geben. Deshalb habe ich Ihrem
 Vertrauten den Ort bestimmt, wo meine Antwort, dieser
 Brief, zu finden ist. Ich werde streng bewacht. Ich
 hoffe, den Brief dort niederlegen zu können … Meiner
-Wärterin werde ich zu ein paar Stunden diesen Schlosses
+Wärterin werde ich zu ein paar Stunden tiefen Schlafes
 verhelfen. — Wenn Sie diese Zeilen lesen, Edgar, habe
 ich für immer das Einst begraben. Es muß sein. Ich
 werde mein Herz zur Ruhe zwingen. Ich werde an Sie
@@ -985,7 +985,7 @@ Alter …«
 
 Drei Tage später stand in den meisten deutschen Zeitungen
 zu lesen, daß Harald Harst, der vor kurzem von Rügen
-nach Berlin zurückgekehrt frei, sich über Wien nach Rom begeben
+nach Berlin zurückgekehrt sei, sich über Wien nach Rom begeben
 habe, um dort im Auftrage der italienischen Regierung
 den Mord an dem Abgeordneten Sprotti aufklären
 zu helfen.
@@ -1191,7 +1191,7 @@ völlig dunkel … Nur die üblichen Decklaternen brannten,
 und ein einzelner Matrose saß als Wache auf dem Lukendeckel
 des Vorschiffes und rauchte Pfeife.
 
-Wir riefen ihn an. Der Mann sprach leidlich deutlich
+Wir riefen ihn an. Der Mann sprach leidlich deutsch
 und erklärte uns, daß Vanmeehlen heute abend im Kurhaus
 ein Wohltätigkeitskonzert gegeben habe, von dem er noch
 nicht an Bord zurückgekehrt sei.
@@ -1210,7 +1210,7 @@ Bemerkungen auf, fragten dann einen Herrn, was geschehen.
 
 »Professor Vanmeehlen ist während des letzten Stückes,
 das er spielte, auf dem Podium bewußtlos umgesunken …
-Ein Arzt war sowohl zur Stelle … Man spricht von einer
+Ein Arzt war sofort zur Stelle … Man spricht von einer
 Vergiftung. Genaueres weiß niemand. Aber der Gemeindevorsteher
 und zwei Polizeibeamte sind herbeigeholt worden.
 Mithin muß wohl etwas Wahres daran sein, daß der Künstler
@@ -1264,7 +1264,7 @@ Dann Harald schon von neuem, indem er meinen Arm
 in den seinen zog:
 
 »Ihnen nach …!! Ich muß das Paar im Laternenlicht
-sehen … Denn — eins ist mir außerdem noch ausgefallen,
+sehen … Denn — eins ist mir außerdem noch aufgefallen,
 mein Alter … Die Dame trug einen dunklen
 Strohhut …«
 
@@ -1369,7 +1369,7 @@ Unschwer erfragten wie die Wohnung des Gemeindevorstehers,
 und gegen ein Uhr morgens hatten wir den liebenswürdigen
 Herrn glücklich vor seinem Hause abgefangen.
 
-Wir standen mit ihm in den kleinen Vorgarten im
+Wir standen mit ihm in dem kleinen Vorgarten im
 Mondschein. Er war uns kein Fremder. Vor zwei Jahren
 hatten wir hier in Saßnitz bereits einmal »gearbeitet« und
 ihn bei dieser Gelegenheit näher kennen gelernt.
@@ -1432,7 +1432,7 @@ Ich habe mir die Personen notiert … Treten wir dort unter
 die Straßenlaterne … — So, hier habe ich den Zettel …
 Also es waren zugegen:
 
-<p class="pre indent">Vanmeehlen
+<p class="pre indent2" style="text-indent: 0em">Vanmeehlen
 Doktor Friedberg
 Kellner Gornitzke
 Regierungsrat Wertheim und Frau
