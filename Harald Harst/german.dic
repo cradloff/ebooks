@@ -1226,7 +1226,7 @@ Affenherden	3
 Affenhof	1
 Affenhofe	2
 Affenkäfig	1
-Affenmenschen	2
+Affenmenschen	1
 Affenstandbild	1
 Affenstatue	1
 Affentempel	1
@@ -1900,7 +1900,7 @@ angebissen	2
 angebissene	2
 angebissenen	1
 angeblich	197
-angebliche	112
+angebliche	113
 angeblichem	1
 angeblichen	104
 angeblicher	10
@@ -10510,7 +10510,7 @@ Coup	6
 Cousine	2
 Cowboy	3
 Cuxhaven	1
-da	4303
+da	4304
 dabei	863
 dabeigewesen	1
 Dach	147
@@ -11105,7 +11105,7 @@ demütiger	2
 demütigster	1
 Demütigung	1
 Demütigungen	3
-den	31429
+den	31428
 denen	651
 denjenigen	7
 Denkarbeit	3
@@ -11412,7 +11412,7 @@ dickste	2
 dicksten	10
 dickwandige	1
 dickwandigen	1
-die	55188
+die	55187
 Dieb	231
 Diebe	163
 Dieben	36
@@ -12139,7 +12139,8 @@ Dunkel	143
 dunkelbewimperten	2
 dunkelblau	1
 dunkelblauem	3
-dunkelblauen	5
+dunkelblauen	4
+dunkelblauer	1
 dunkelblond	5
 dunkelblonde	4
 dunkelblonden	3
@@ -18187,7 +18188,7 @@ flotter	2
 flottgemacht	1
 Flottille	2
 Flottillen	1
-floß	21
+floß	20
 Floß	116
 Floße	8
 Floßes	9
@@ -18913,7 +18914,7 @@ fristen	2
 fristete	2
 Frisur	5
 Frisuren	1
-Fritz	194
+Fritz	195
 frivol	1
 frißt	3
 froh	95
@@ -19297,7 +19298,7 @@ Füllfederhalters	2
 füllt	7
 füllte	89
 füllten	26
-Füllung	25
+Füllung	24
 Füllungen	1
 fünf	1307
 fünfarmige	1
@@ -20402,7 +20403,6 @@ gegraut	1
 gegriffen	16
 gegriffene	1
 gegrinst	1
-gegrübelt	1
 gegründet	13
 gegründete	1
 gegrüßt	6
@@ -21996,7 +21996,7 @@ geschnitzter	1
 geschnitztes	4
 geschnürt	2
 geschnürten	1
-geschoben	79
+geschoben	78
 geschobene	1
 geschobenen	1
 gescholten	1
@@ -22203,6 +22203,7 @@ Gesetzesverächter	5
 Gesetzesverächtern	1
 Gesetzesübertretung	1
 Gesetzgebung	1
+gesetzlich	1
 gesetzliche	1
 gesetzlichen	1
 gesetzmäßige	1
@@ -22824,7 +22825,7 @@ gewordenem	1
 gewordenen	11
 gewordener	2
 gewordenes	3
-geworfen	137
+geworfen	138
 geworfene	1
 geworfenen	2
 gewunden	5
@@ -24449,7 +24450,7 @@ Hafenschenke	2
 Hafenschuppens	1
 Hafenspelunke	4
 Hafenstadt	60
-Hafenstraße	5
+Hafenstraße	4
 Hafenstädtchens	1
 Hafenstädte	3
 Hafenstädten	5
@@ -26869,7 +26870,7 @@ Hilfestellung	1
 hilfesuchend	3
 hilfesuchenden	1
 Hilfesuchenden	1
-hilflos	16
+hilflos	17
 hilflose	2
 hilflosem	1
 hilflosen	10
@@ -29277,7 +29278,7 @@ ingrimmig	12
 Inhaber	29
 Inhaberin	10
 Inhabers	3
-Inhalt	328
+Inhalt	329
 Inhaltes	2
 inhaltreichen	1
 Inhalts	23
@@ -29778,7 +29779,7 @@ Jazzkapellen	1
 je	286
 jede	482
 jedem	206
-jeden	488
+jeden	489
 jedenfalls	151
 jeder	576
 jederlei	1
@@ -32465,7 +32466,7 @@ Kundschafter	3
 kundschaftete	1
 kundtat	1
 kundtun	1
-Kunst	59
+Kunst	60
 Kunstfertigkeit	1
 Kunstfreund	2
 Kunstgegenstände	2
@@ -33365,6 +33366,7 @@ lautende	1
 lautenden	3
 lauter	75
 lautere	2
+lauteren	1
 lauteres	1
 lautes	33
 lautet	41
@@ -40284,7 +40286,7 @@ Platze	31
 platzen	4
 Platzes	7
 Platzinhaber	2
-Platznehmen	7
+Platznehmen	8
 Platzregen	11
 Platzregens	2
 platzt	3
@@ -45299,7 +45301,7 @@ schottischen	10
 Schottischer	1
 Schottland	21
 Schottlands	3
-schoß	250
+schoß	251
 Schoß	70
 Schoße	39
 schraffierten	1
@@ -46916,7 +46918,7 @@ Siamesen	15
 siamesische	2
 siamesischen	5
 siamesischer	1
-sich	19820
+sich	19821
 Sichel	2
 sichelartig	2
 Sichelbeinen	1
@@ -47271,7 +47273,7 @@ smarter	1
 Smoking	10
 Smokinganzug	1
 Smokinganzüge	2
-so	9847
+so	9846
 sobald	124
 Sockel	25
 Sockels	1
@@ -51878,7 +51880,7 @@ Türen	187
 türenloser	1
 Türfenster	8
 Türflügel	9
-Türfüllung	23
+Türfüllung	24
 Türgelenke	4
 Türgerüst	1
 Türglocke	3
@@ -53297,7 +53299,7 @@ Unkultur	3
 unkundig	2
 Unkundigen	1
 unlautere	1
-unlauteren	4
+unlauteren	3
 unleidlich	1
 unleidlicher	2
 unleserlich	7
@@ -54152,7 +54154,7 @@ usw	4
 Vagabund	2
 Vagabunden	4
 vage	1
-van	188
+van	189
 Vandalismus	2
 Variationen	2
 Varietee	18
@@ -56495,7 +56497,6 @@ Verwandlungen	2
 Verwandlungsfähigkeit	2
 Verwandlungskünstler	23
 Verwandlungskünstlerin	2
-verwandschaftlichen	1
 verwandt	18
 verwandte	5
 Verwandte	43
@@ -56505,7 +56506,7 @@ verwandter	1
 Verwandter	9
 Verwandtschaft	5
 verwandtschaftliche	2
-verwandtschaftlichen	1
+verwandtschaftlichen	2
 verwandtschaftliches	1
 verwarf	3
 Verwarnung	1
@@ -57118,7 +57119,7 @@ vollzog	2
 vollzogen	6
 vollzählig	4
 vom	1424
-von	15880
+von	15879
 voneinander	15
 vonseiten	3
 vonstatten	4
@@ -59824,6 +59825,7 @@ Windung	1
 Windungen	11
 Windzug	1
 Wink	86
+winke	1
 Winke	11
 Winkel	91
 winkeligen	1
@@ -61958,7 +61960,7 @@ zunehmenden	5
 zunehmender	3
 zuneigen	1
 Zuneigung	5
-Zunft	12
+Zunft	11
 Zunftgenossen	1
 Zunge	66
 Zungen	5
@@ -61986,7 +61988,7 @@ zuraunten	1
 zurechnungsfähig	8
 zurechnungsfähigen	1
 Zurechnungsfähigkeit	1
-zurecht	51
+zurecht	50
 zurechtfand	2
 zurechtfeilte	1
 zurechtfinden	7
@@ -63265,7 +63267,7 @@ zürnen	2
 ärmere	9
 ärmeren	9
 ärmlich	29
-ärmliche	14
+ärmliche	13
 ärmlichem	1
 ärmlichen	5
 ärmlicher	7

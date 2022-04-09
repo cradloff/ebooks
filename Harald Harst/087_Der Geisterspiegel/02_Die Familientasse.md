@@ -100,11 +100,11 @@ einen Dolch wie zum Wurfe erhob. Da erst sah sie ein, daß
 es sich hier um ein sorgfältig vorbereitetes Verbrechen
 handelte. Sie erkannte aber auch, daß es ihr schwerfallen
 <@pagebreak/>
-würde, Ihre Schuldlosigkeit vor der Polizei darzutun, falls
+würde, ihre Schuldlosigkeit vor der Polizei darzutun, falls
 sie ihren Verdacht gegenüber Bechert, daß es von vornherein
 nur auf John Wilcwords Ermordung abgesehen gewesen,
 irgendwie äußerte. Daher verheimlichte sie alles, verschwieg
-auch ihre verwandschaftlichen Beziehungen zu
+auch ihre verwandtschaftlichen Beziehungen zu
 Wilcword und erreichte, daß die Polizei dieser Tragödie nicht
 auf den Grund kommen konnte.
 
@@ -165,7 +165,7 @@ der Wahrheit zu entsprechen. Er behauptete, daß das
 ganze Bedientenpersonal der Villa Eva Wilcwords aus
 Mitgliedern der Bande bestanden habe. Der Diener, der
 Chauffeur, die Köchin und die Zofe seien frühere Bekannte
-Evas gewesen. Von diesen vier Personen sei der Diener
+Evas gewesen. Von diesen vier Personen sei der Diener,
 ein gewisser Xaver Holdstein, am meisten Evas Vertrauter
 gewesen. Holdstein habe auch Battenham vergiftet — aus
 Eifersucht, da er schon immer Eva mit Liebesbeteuerungen
@@ -271,7 +271,7 @@ Gegen halb neun betrat dann die alte Mathilde die
 Veranda mit einem Brief in der Hand.
 
 <@pagebreak/>
-»Der Postbote hat ihn soeben in den Briefspalt geschoben,«
+»Der Postbote hat ihn soeben in den Briefspalt geworfen,«
 erklärte sie.
 
 Harald prüfte den Umschlag. »Aus Neuyork!« sagte
@@ -312,7 +312,7 @@ Telephonnummer und Sprechzeit gedruckt.
 
 Ich las:
 
-»Neuyork, den 21. März 1922. — Herrn Harald Harst,
+> »Neuyork, den 21. März 1922. — Herrn Harald Harst,
 Berlin-Schmargendorf, Blücherstraße 10. — Sie gestatten,
 daß ich mich in einer Angelegenheit an Sie um Rat wende,
 die meinen langjährigen Freund und Klient John
@@ -328,14 +328,14 @@ einzureichen. Wilcword erklärte mir dann ein paar Wochen
 später, daß er in aller Stille seine Fabriken verkauft und
 sein gesamtes Vermögen oder doch den weitaus größten
 Teil flüssig gemacht und der hiesigen Edelsteinhandlung
-von Haalen Ordre gegeben habe, für ihn die kostbarsten
+van Haalen Ordre gegeben habe, für ihn die kostbarsten
 Edelsteine aufzukaufen, die nur irgend zu haben seien. Von
 mir befragt, weshalb er so ungeheure Summen in Brillanten
 anlegen wolle, erwiderte er ausweichend, er habe dabei
 einen ganz bestimmten Zweck im Auge. Mehr war
 von ihm nicht zu erfahren.
 
-Es vergingen sodann drei Monate. Da erhielt ich die
+> Es vergingen sodann drei Monate. Da erhielt ich die
 Nachricht von Wilcwords Ermordung. Ich besaß nun von
 ihm eine Generalvollmacht, die er vor seiner Abreise nach
 Europa ausgefertigt hatte. Diese Vollmacht genügte auch,
@@ -346,7 +346,7 @@ In dem Tresor fand ich, als dieser in Gegenwart
 von drei richterlichen Beamten geöffnet wurde, eine Art
 Testament, das folgenden Wortlaut hatte:
 
-»Ich, John Gabriel Adam Wilcword, bestimme für
+> > »Ich, John Gabriel Adam Wilcword, bestimme für
 den Fall meines Todes, daß mein Freund, der Advokat
 Abraham Drywater, Vormund meines einzigen Kindes
 Inge werden soll. Ich lasse Drywater völlig freie Hand,
@@ -362,12 +362,13 @@ und den eingebrannten Spruch beherzigen. — John
 Wilcword.«
 
 <@pagebreak/>
-Es fanden sich denn auch wirklich in dem Tresor sowohl
+
+> Es fanden sich denn auch wirklich in dem Tresor sowohl
 die zehn Millionen für mich, als auch Wertpapiere
 im Betrage von 52 Millionen und die erwähnte Familientasse
 vor.
 
-Ich ging sodann, um den Verbleib der fehlenden
+> Ich ging sodann, um den Verbleib der fehlenden
 Riesensummen (Wilcword mußte mindestens eine volle
 Milliarde besessen haben!) festzustellen, zu der Firma van
 Haalen, die mir an Hand ihrer Geschäftsbücher nachwies,
@@ -376,7 +377,7 @@ Dollar in Indien und China hatte Edelsteine aufkaufen
 lassen und die Steine, im ganzen 682, ihm auch übergeben
 hatte.
 
-Ich beauftragte nun sofort durch Kabeldepesche die
+> Ich beauftragte nun sofort durch Kabeldepesche die
 Berliner Anwälte Albin und Gneist, sich mit der Polizei in
 Berlin in Verbindung zu setzen, damit nachgeforscht würde,
 ob Wilcword die Edelsteine etwa mit nach dort genommen
@@ -391,7 +392,7 @@ weiter —«
 Und ich las jetzt bedeutend hastiger, denn diese 682
 Steine begannen mich zu interessieren:
 
-»Über den Verbleib der Diamanten konnte jedoch bis
+> »Über den Verbleib der Diamanten konnte jedoch bis
 auf den heutigen Tag nichts festgestellt werden. Sie sind
 verschwunden. — Würden Sie nun, Herr Harst, vielleicht
 die Freundlichkeit haben, diese Angelegenheit zu untersuchen?
@@ -407,16 +408,16 @@ hier ab:
 
 <@pagebreak/>
 
-> Utchssueddidiamnntae, oslfaeedst
+> > Utchssueddidiamnntae, oslsaeedsi
 
-> Ästfanlfl, nudnditrwfleükgfneri!
+> > Aestsanlfl, nudnditrwsleükgsneri!
 
-Die vier Buchstaben »Diam« habe ich unterstrichen.
+> Die vier Buchstaben »diam« habe ich unterstrichen.
 
-Meine Bemühungen, diese Geheimschrift (es muß sich
+> Meine Bemühungen, diese Geheimschrift (es muß sich
 um eine solche handeln!) zu entziffern, waren ergebnislos.
 
-Ich kann mir nun anderseits nicht recht denken, daß
+> Ich kann mir nun anderseits nicht recht denken, daß
 die Familientasse, die doch von dem Großvater John Wilcwords
 stammen soll, eine Aufschrift enthalten kann, die
 auf so viel Jahrzehnte später eingetretene Ereignisse, eben
@@ -425,7 +426,7 @@ Steine, Bezug haben sollte. Kurz: all diese Fragen gehen
 über mein Spürtalent hinaus. Deshalb bitte ich Sie nochmals,
 diesen Auftrag zu übernehmen, geehrter Herr Harst.
 
-Den Zeitungsnachrichten zufolge sollen Sie sich jetzt
+> Den Zeitungsnachrichten zufolge sollen Sie sich jetzt
 in Indien befinden. Ich hoffe, daß Ihnen dieser Brief
 nachgesandt wird. — Ich bin — Ihr ergebener Abraham
 Drywater.«
@@ -436,7 +437,7 @@ ließ seinen Blick minutenlang auf der Geheimschrift
 ruhen und sagte dann:
 
 »Die meisten Advokaten werden mit der Zeit zu nüchternen,
-phantasielosen Affenmenschen! — Du gibst doch zu,
+phantasielosen Aktenmenschen! — Du gibst doch zu,
 mein Alter, daß Drywater bei einiger geistiger Regsamkeit
 John Wilcwords Absichten hätte durchschauen müssen!«
 
@@ -447,7 +448,7 @@ Die alte Mathilde kam da eilends den Weg vom Hause
 und schwenkte eine Visitenkarte, rief:
 
 »Besuch — Besuch! Ein Amerikaner! Na — der
-spricht ein Deutsch zusammen! Und aussehn tut er wie
+spricht sich ein Deutsch zusammen! Und aussehn tut er wie
 ein Affe.« —
 
 Die Karte hatte den Aufdruck: »Dr. Abraham Drywater,
@@ -467,7 +468,7 @@ begrüßt hatten, wieder Platz zu nehmen.
 »Ich beherrsche Ihre Sprache etwas mangelhaft, meine
 Herren,« sagte der kleine Advokat nun. »Aber wir werden
 schon miteinander fertig werden. — Sie haben doch
-meinen Brief erhalten, Herr Harst? — Ja, heute erst?!
+meinen Brief erhalten, Herr Harst? — So, heute erst?!
 Merkwürdig! — Nun, jedenfalls hatte ich ihn kaum abgeschickt,
 als ich mir überlegte, daß es doch wohl richtiger
 sei, mit Ihnen persönlich zu sprechen. Ich reiste also mit
@@ -522,8 +523,8 @@ Der Paß und die Papiere waren zweifellos echt. Dieser
 Mann war Drywater.
 
 »So, nun wäre die Sache ja geordnet,« lächelte auch
-Harald. »Stecken Sie ihre Papiere nur wieder ein. Und
-jetzt will ich Ihnen auch gleich folgendes erklären: die ärmliche
+Harald. »Stecken Sie Ihre Papiere nur wieder ein. Und
+jetzt will ich Ihnen auch gleich folgendes erklären: die angebliche
 alte Familientasse hat John Wilcword sehr wahrscheinlich
 in seiner Fabrik herstellen lassen. Die Chiffreschrift
 auf der Tasse ist seine Erfindung. Ich bitte Sie, die
@@ -591,7 +592,7 @@ schenken können, denn — er saß bereits am Schreibtisch
 und — verbrannte jetzt gerade einen Zettel über dem
 Zigarrenlämpchen.
 
-»Auch schon munter?« meinte er, »Drywater wird
+»Auch schon munter?« meinte er. »Drywater wird
 pünktlich sein, ich bin auf die Tasse sehr neugierig. Wenn
 <@pagebreak/>
 er sie nur nicht fallen läßt und sie zerschlägt. Es wäre
@@ -623,7 +624,7 @@ Harald meldete sich, lauschte.
 einer Weile und legte den Hörer auf die Stützen zurück.
 
 Darauf wandte er sich mir zu. »Drywater ist in der
-Hafenstraße ausgeglitten, hat sich ein Bein gebrochen und
+Birkenstraße ausgeglitten, hat sich ein Bein gebrochen und
 ist in die Wohnung des Sanitätsrats Holler, Birkenstr. 12,
 geschafft worden. Der Sanitätsrat bat mich, wir sollten
 Drywater dort besuchen. Er möchte mir die Tasse übergeben.
@@ -697,11 +698,11 @@ Diese Haustür stand offen. Wir stiegen die Treppe
 <@pagebreak/>
 hinauf. Im Hochparterre links an der Flurtür ein Porzellanschild:
 
-> Holler,
+<blockquote><p class="centered">Holler,</p></blockquote>
 
-> Sanitätsrat,
+<blockquote><p class="centered">Sanitätsrat.</p></blockquote>
 
-> 9-11, 3-5, nicht Sonntags.
+<blockquote><p class="centered">9—11, 3—5, nicht Sonntags.</p></blockquote>
 
 Harst läutete und sehr bald öffnete ein Stubenmädchen
 mit weißer Schürze und Häubchen.
@@ -803,12 +804,12 @@ wir in diese Falle geraten. Wir waren nicht blindlings
 hineingetappt, nein, — wir hatten es an Vorsicht wahrlich
 <@pagebreak/>
 nicht fehlen lassen! Aber — die Gegner waren noch
-schlauer gewesen. Da hatte das Mädchen uns geöffnet —
-hatte die Tasse auf dem Schreibtisch gestanden! Da —
+schlauer gewesen. Da hatte das Mädchen uns geöffnet — da
+hatte die Tasse auf dem Schreibtisch gestanden! Ja —
 diese Schurken hatten uns bewiesen, daß sie derartige Fallen
 gut zu inszenieren wußten!
 
-Das floß mir so durch den Kopf, während meine Augen
+Das schoß mir so durch den Kopf, während meine Augen
 jetzt starr auf etwas da vor mir gerichtet waren —
 etwas, das an der dunklen Tapete hing, oben mit einem
 hellen Fleck.
@@ -826,14 +827,14 @@ struppiger Bart und das borstige Haupthaar?!
 
 Ich blickte zur Seite, schloß die Lider.
 
-Öffnete sie: —: das Bild blieb dasselbe. Dort hing
+Öffnete sie —: das Bild blieb dasselbe. Dort hing
 der tote Drywater — ein entsetzlicher Anblick, eine furchtbare
-Drohung für uns beide die wir uns in der Gewalt
+Drohung für uns beide, die wir uns in der Gewalt
 Eva Wilcwords befanden!
 
 Dann knarrte rechts von mir ein zweiter Sessel.
 
-Mühsam drehte ich den Kopf: Harald saß da — Hilflos,
+Mühsam drehte ich den Kopf: Harald saß da — hilflos,
 wehrlos wie ich!
 
 Unsere Blicke trafen sich. Unsere Gesichter lagen im
@@ -924,7 +925,7 @@ Sesseln verschwand:
 »Ich will Ihnen beiden die Knebel abnehmen, nachdem
 wir einige Vorsichtsmaßregeln getroffen haben. Sollten
 Sie um Hilfe zu rufen wagen, so wird bei dem ersten
-unlauteren Ton Ihr Lebensflämmchen erlöschen.«
+lauteren Ton Ihr Lebensflämmchen erlöschen.«
 
 Hinter uns begann ein tiefes Summen, steigerte sich,
 verstummte wieder: irgend ein elektrischer Apparat!
@@ -954,7 +955,7 @@ Ein paar Rauchringe stiegen hoch.
 
 Da sagte Harst:
 
-»Ich weiß was Sie verlangen werden: ich soll die
+»Ich weiß, was Sie verlangen werden: ich soll die
 Chiffreschrift auf der Familientasse für Sie lösen! — Habe
 ich recht?«
 
@@ -1031,7 +1032,7 @@ Sie, deren Habgier und Sucht nach Edelsteinen er kannte,
 besonders zu strafen, indem er scheinbar der Tasse das Geheimnis
 des Verbleibs der Diamanten anvertraute in
 Form einer Chiffreschrift, die nur zwei lesbare Silben aufwies.
-»Di-am« als Anfang des Wortes Diamanten! So
+»Di—am« als Anfang des Wortes Diamanten! So
 <@pagebreak/>
 wollte er Ihr Verlangen nach den verschwundenen Edelsteinen
 noch steigern, wollte in Ihr Dasein die stete Unrast
@@ -1156,7 +1157,7 @@ habe, und empfehlen Sie sich.«
 Holdstein erschien neben Eva.
 
 »Wir haben also Ihr Ehrenwort, Herr Harst?« fragte
-er. Auch für Schraut und Drywater?«
+er. »Auch für Schraut und Drywater?«
 
 »Gewiß!« —
 
@@ -1238,7 +1239,7 @@ Schufte. — So — wie steht’s nun mit Ihren Trümpfen?«
 Drywater wurde wieder kratzbürstig.
 
 »Raus mit der Sprache! Entweder weihen Sie mich
-ein Herr Harst, oder ich läute die Polizei an!«
+ein, Herr Harst, oder ich läute die Polizei an!«
 
 Harald blieb fest. »Wenn ich Ihnen sage, daß wir
 mit Hilfe dieser Trümpfe die Partie gewinnen werden,
@@ -1256,45 +1257,45 @@ bis dahin.« —
 Die Zeit war um. Harald holte die Obertasse vom
 Schreibtisch und setzte sich neben Drywater auf den Diwan.
 
-»Die Sache ist gar nicht so schwierig,« begann er. »John
+»Die Sache ist gar nicht *so* schwierig,« begann er. »John
 Wilcword hat durch den Anfang des Wortes »Diamant«
 oder »Diamanten«, jedenfalls durch die Silben »Di« und
 »am« einen Anhalt für die Dechiffrierung gegeben. — Betrachten
-wir mal die auf »Diam« folgenden fünf Buchstaben,
+wir mal die auf »diam« folgenden fünf Buchstaben,
 <@pagebreak/>
 auf die dann ein Komma folgt. — Ich schreibe auf diesen
 Zettel:
 
-> diamnntae,
+<blockquote><p class="centered">diamnntae,</p></blockquote>
 
 also diam—n—n—t—a—e. — Ordnet man diese fünf Buchstaben
 anders, zum Beispiel:
 
-> a n t e n,
+<blockquote><p class="centered">a n t e n,</p></blockquote>
 
 so ergibt das Ganze:
 
-> Diamanten!
+<blockquote><p class="centered">Diamanten!</p></blockquote>
 
 Die fünf Buchstaben waren also anders geordnet, und
-zwar, wenn man die Buchstaben numeriert;
+zwar, wenn man die Buchstaben numeriert:
 
-> a n t e n
+<blockquote><p class="centered">a n t e n</p></blockquote>
 
-> 1 2 3 4 5
+<blockquote><p class="centered">1 2 3 4 5</p></blockquote>
 
-in der Reihenfolge 2 5 3 1 4 = n n t a e — 2 5 3 1 4 ist
+in der Reihenfolge 2 5 3 1 4 - n n t a e. — 2 5 3 1 4 ist
 also der Schlüssel, wie folgende Probe des Anfangs des
 Spruches zeigt:
 
-> U t ch s s = 2 5 3 1 4
+<blockquote><p class="centered">U t ch s s - 2 5 3 1 4</p></blockquote>
 
 ergibt in richtiger Reihenfolge: s u ch s t - suchst! — Nun
 immer weiter fünf Buchstaben in derselben Weise behandelt
 bringt die Lösung:
 
-> Suchst Du die Diamanten, so lasse die
-> Tasse falln, und Du wirst klüger sein!«
+<blockquote><p class="centered">Suchst Du die Diamanten, so lasse die</p></blockquote>
+<blockquote><p class="centered">Tasse falln, und Du wirst klüger sein!«</p></blockquote>
 
 »Das hätte ich nie rausgekriegt!« meinte Abraham
 Drywater ehrlich. »Offen gesagt: die Lösung ist eine böse

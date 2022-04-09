@@ -51,9 +51,9 @@ Auf der Rückseite stand:
 
 > Eisenacherstraße 168, 2.
 
-Und der Anhalt des Schreibens:
+Und der Inhalt des Schreibens:
 
-> Berlin, den 8. Februar 1922,
+> Berlin, den 8. Februar 1922.
 
 Sehr geehrter Herr Harst! Gestatten Sie, daß ich
 Ihnen zunächst einiges über meine Person mitteile. Ich
@@ -90,7 +90,7 @@ der Wand gegenüber dem Spiegel.
 
 Die Dame des Hauses, eine junge Witwe, deren Gatte
 viele Jahre in Persien gelebt und, wie sie erklärte, von
-persischen Magiern die Geheimnisse der Zunft der Geisterbeschwörung
+persischen Magiern die Geheimnisse der Kunst der Geisterbeschwörung
 mitgebracht habe, schüttete auf ein Becken mit
 Holzkohlen ein Pulver, atmete kniend die Dämpfe ein und
 verfiel danach in einen starrkrampfähnlichen Zustand.
@@ -148,7 +148,7 @@ Ich gab Harald den Brief zurück. Er schob ihn in die
 Tasche und sagte zu Freund Webster, dem er den Inhalt
 des Schreibens kurz mitgeteilt hatte:
 
-Da müßte ich ja ein Narr sein, wenn ich einer solchen
+»Da müßte ich ja ein Narr sein, wenn ich einer solchen
 Albernheit wegen plötzlich nach Berlin —«
 
 Er schwieg.
@@ -161,7 +161,7 @@ Harst öffnete sie, las und rief dann leise:
 »Ich nehme die Bezeichnung Albernheit zurück. Kriminalkommissar
 Bechert telegraphiert hier:
 
-Harald Harst, Bombay, Excelsior, nachsenden.
+Harald Harst, Bombay, Excelsior, &nbsp; &nbsp; &nbsp; nachsenden.
 
 Bei Sitzung bei Frau Wargenheim, Eisenacherstr. 170,
 vor vier Tagen rätselhafter Mord. Auf Spiegel Bild einer
@@ -179,7 +179,7 @@ Freund Webster nickte ernst.
 »Was für Sie, Harst!«
 
 <@pagebreak/>
-»Na, es scheint so. Bechert würde mich niemals einer
+»Ja, es scheint so. Bechert würde mich niemals einer
 Lappalie wegen zurückrufen.«
 
 »Was halten Sie von der Sache?«
@@ -191,7 +191,7 @@ Er zog Battenhams Brief wieder aus der Tasche.
 
 »Battenham hat am 8. Februar geschrieben,« fügte er
 hinzu. »Der Brief hat mich heute am 2. März erreicht.
-Becherts Depesche ist am 23. Februar abgeschickt. »Der
+Becherts Depesche ist am 23. Februar abgeschickt. Der
 Mord wurde also am 19. Februar verübt. Offenbar will
 Bechert in seiner Depesche andeuten, daß das verschleierte
 Weib den Dolch scheinbar diesem Wilcword ins Herz geschleudert
@@ -204,7 +204,7 @@ das Rätselhafte des Falles aufmerksam machen.«
 
 Er ließ sich ein Depeschenformular bringen und schrieb:
 
-> Hans Bechert, Berlin-Deutschland,
+> Fritz Bechert, Berlin-Deutschland,
 
 > Klosterstr. 18.
 
@@ -244,7 +244,7 @@ das Marmortischchen und deutete auf eine bestimmte Stelle.
 
 Ich las unter »Neueste Depeschen«:
 
-Berlin. Als Ergänzung zu unserer Meldung von dem
+> **Berlin.** Als Ergänzung zu unserer Meldung von dem
 Mord an dem bekannten amerikanischen Milliardär John
 Wilcword bringen wir heute folgende Kabeldepesche unseres
 Berliner Korrespondenten: »Der Amerikaner Doktor Marmaduc
@@ -266,7 +266,7 @@ Er zuckte die Achseln und nahm eine frische Mirakulum.
 
 »Lieber Alter,« meinte er, »dieser Giftmord paßt sozusagen
 in meine Theorie hinein, die ich mir da während
-der langweiligen Eisenbahnfahrt zurecht gegrübelt
+der langweiligen Eisenbahnfahrt zurechtgegrübelt
 habe. Natürlich ist es eine Theorie, auf Sand gebaut. Und
 der Sand ist Battenhams Brief und Becherts Depesche.«
 
@@ -361,7 +361,7 @@ Zimmers zu lauschen, das ja auch einen Balkon
 hat, fand ich in unser Türschloß von außen eine Schraube
 so fest hineingedreht, daß der Schlüssel nicht zu benutzen
 war. Man hatte uns also eingesperrt. Ich hätte die
-Füllung herausschneiden können, aber ich unterließ es, da
+Türfüllung herausschneiden können, aber ich unterließ es, da
 <@pagebreak/>
 ich mir sagte, ich würde ein Stockwerk höher doch kaum
 etwas ausrichten. Die Leute, die uns hier nachstellen, werden
@@ -370,7 +370,7 @@ zu haben. So setzte ich mich denn wieder. Es geschah
 nichts weiter. Es wurde draußen bald hell. Der
 Regen hörte auf, und die Wolke verschwand. Nun sah ich
 mir den kleinen Kerl da genauer bei Tageslicht an. Er
-wird etwa zehn Jahre sein, schätze ich. So jung er ist, er
+wird etwa zehn Jahre sein, schätze ich. So jung er ist: er
 ist eine ganz interessante Persönlichkeit, von seiner Verderbtheit
 abgesehen. Ich rate Dir, ihn mal aus nächster Nähe
 zu betrachten.«
@@ -393,7 +393,7 @@ Wir trugen den kleinen Gefangenen in unser Schlafzimmer,
 das keinen besonderen Zugang vom Flur hatte.
 
 Der Hoteldirektor erschien dann persönlich bei uns, entschuldigte
-sich, wurde von Harald zum Platznehnmen aufgefordert
+sich, wurde von Harald zum Platznehmen aufgefordert
 und leise ausgeforscht.
 
 »Wer wohnt über uns?« fragte Harst.
@@ -605,9 +605,9 @@ schien eingesehen zu haben, daß wir doch zu vorsichtig
 waren.
 
 Als wir dann am 30. März, nachdem wir von Dresden
-einen Umweg über Bad Köfen gemacht hatten, um so
+einen Umweg über Bad Kösen gemacht hatten, um
 <@pagebreak/>
-den Verfolger irrezuführen, in einem kleinen Hotel am
+jeden Verfolger irrezuführen, in einem kleinen Hotel am
 Alexanderplatz in Berlin abgestiegen waren, jetzt als Kaufleute
 aus Frankfurt am Main, rief Harald Freund Bechert
 an. Bechert war nicht im Polizeipräsidium. Aber seine
@@ -744,7 +744,7 @@ zum Glück vollständig aus.
 
 <@pagebreak/>
 Es war ein großer, dreifenstriger, salonartig eingerichteter
-Raum, der sich jetzt meinen Blicken zeigte. Eine Kristallkrone
+Raum, der sich jetzt meinen Blicken zeigte. Eine Kristallkrone,
 außerdem acht elektrische Deckenlampen brannten.
 Ich lag halb ausgestreckt in einem Klubsessel mit hoher
 Rückenlehne. Ein zweiter gleicher Sessel stand neben dem
@@ -774,7 +774,7 @@ Gemach allein.
 
 Sie spielte mit einem Lorgnon, das ihr an goldener
 Kette um den weißen Nacken hing. Sie trug ein tief ausgeschnittenes
-Hauskleid aus dunkelblauen Seide, mit kremefarbenen
+Hauskleid aus dunkelblauer Seide, mit kremefarbenen
 Spitzen garniert. Sie beobachtete uns scheinbar
 gelangweilt und sagte dann plötzlich:
 
@@ -862,7 +862,7 @@ Harald lachte wieder.
 »Jetzt haben Sie mir die Bestätigung meiner Vermutungen
 gegeben, Frau Wilcword,« meinte er dann wieder
 völlig ernst. »Meine Theorie über diesen Mord stimmt.
-Sie, Frau Wilcword liegen seit einem Jahr mit Ihrem
+Sie, Frau Wilcword, liegen seit einem Jahr mit Ihrem
 Manne in Scheidung. Alle Zeitungen berichteten über diesen
 Prozeß. Alle Zeitungen ergriffen für Sie Partei, obwohl
 feststeht, daß Sie vor elf Jahren, als John Wilcword
@@ -1034,7 +1034,7 @@ Auch das wäre möglich. Sie mag sich dagegen gesträubt
 haben. Sie durchschaute mich. Aber der Lauscher unter
 <@pagebreak/>
 meinem Sessel, mit dem sie halb unbewußt einen Blick
-tauschte, als ich ihr sagte, wer sie sei wird Angst bekommen
+tauschte, als ich ihr sagte, wer sie sei, wird Angst bekommen
 haben. — Ich denke, wir tun klüger, uns einmal die anderen
 Räume anzusehen.«
 
@@ -1223,8 +1223,8 @@ der sich langsam näherte.
 mit ins Haus ein. Alles weitere findet sich dann. In
 welcher Etage wohnt die Wargenheim?«
 
-»Zweiten Stock. — Gut — Tolkin hat einen Hausschlüssel,
-die Sitzung ist für Mitternacht heute anberaumt.
+»Zweiten Stock. — Gut — Tolkin hat einen Hausschlüssel.
+Die Sitzung ist für Mitternacht heute anberaumt.
 Ich werde Tolkin einweihen. Er schwört auf die Harmlosigkeit
 der Wargenheim.« —
 
@@ -1412,7 +1412,7 @@ Diese Frage brachte eine ungeahnte Wirkung hervor.
 Frau Wargenheim schrie plötzlich: »Ich werde alles
 gestehen — alles! Ich habe nicht gewußt, daß Lottmöller
 Wilcword ermorden sollte! Bei Gott — ich habe es nicht
-einmal geahnt!«
+einmal geahnt!« —
 
 Ihr Geständnis, will ich hier nur noch kurz bemerken,
 bestätigte Haralds Theorie in allen Punkten.
