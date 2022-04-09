@@ -8,7 +8,7 @@ Wir wohnten als Gäste bei Miß Olivia Bennerton,
 deren Zwillingsschwester Daisy von Harst hier in großmütigster
 Weise geschont worden war, obwohl sie uns aus
 verwerflicher Goldgier ernsthaft nach dem Leben getrachtet
-hatte. (Vergl. den vorigen Band Das blinde Hindumädchen).
+hatte. (Vergl. den vorigen Band: Das blinde Hindumädchen.)
 
 Zwischen den Schwestern, die Waisen waren, bestand
 seit vielen Jahren keinerlei Verbindung mehr. Miß Olivia
@@ -169,7 +169,7 @@ ohnmächtig vor Schreck. Sie werden ihm seine Unhöflichkeit
 nicht verübeln. Ich bin in der Lage, Ihnen
 alles Nötige mitzuteilen.« — Er winkte uns, und wir
 folgten ihm in das Nebenzimmer. Hier teilte er uns mit,
-daß Iwannow erst heute abend mit dem Achtuhrzuge angereist
+daß Iwannow erst heute abend mit dem Achtuhrzuge angelangt
 sei. Die Krankheit seiner Schwester hatte es ihm
 unmöglich gemacht, bereits morgens in Lucknow, wie ursprünglich
 verabredet, einzutreffen.
@@ -229,7 +229,7 @@ Der schmierige Alte hatte uns allen die Zukunft vorausgesagt
 — durch das Schiwamatu. Ich habe über diese
 Art der Wahrsagerei schon in einem früheren Bande ausführlich
 berichtet. Der Yogi schüttete sich ein braunes Pulver
-in die linke Hand und strich es hier glatt. Dann drehte
+in die linke Hand und strich es hier glatt. Dann deckte
 er seine rechte Hand darüber und ließ den, der gerade eine
 Frage an die Zukunft beantwortet haben wollte, seine beiden
 Handgelenke umfassen. Man mußte nun die Frage
@@ -252,7 +252,7 @@ Dann war das Ehepaar Breßfort an die Reihe gekommen,
 und als letzter Harst.
 
 Bei ihm war in dem Pulver lediglich etwas wie ein
-roter Strich zu erkennen gewesen. Was er gefragt
+doppelter Strich zu erkennen gewesen. Was er gefragt
 hatte, behielt auch er für sich. —
 
 Und jetzt — jetzt hatte er mir erklärt, das Schiwamatu
@@ -291,7 +291,7 @@ ein Betrüger gewesen sein —«
 
 Er lächelte matt. »Schon gut! — Suchen wir die
 <@pagebreak/>
-Geige und den Geigenbogen. Man nennt Iwannows
+Geige und den — Geigenbogen. Man nennt Iwannows
 Amati stets die Wundergeige. Zu einem Wunder, dem bestrickende
 Töne entquellen, wird sie erst in seinen Händen
 —«
@@ -524,7 +524,7 @@ Iwannow. Bitte —«
 Harald faltete den Brief auseinander und las ihn
 halblaut vor.
 
-> Benares, den 18. Juni
+> »Benares, den 18. Juni
 
 > Hotel Imperial.
 
@@ -536,7 +536,7 @@ wollen, so entfernen Sie aus seinem Gastzimmer jede
 Vase. Entschuldigen Sie bitte gütigst dieses Ihnen vielleicht
 seltsam erscheinende Ansinnen.
 
-> Ihre ergebenste Xenia Iwannow.
+> Ihre ergebenste Xenia Iwannow.«
 
 »Als ich diesen Brief gelesen hatte, Mr. Harst,« erklärte
 die liebreizende Frau nun, »sah ich ein, daß ich unbewußt
@@ -574,7 +574,7 @@ Er zeigte ihr das harte Spitzentüchlein.
 
 Die schöne Frau lachte harmlos. »Das ist eines meiner
 Taschentücher — gewiß. Ich habe ein halbes Dutzend
-von dieser Art —« Dann wurde sie ernst. »Mir fällt
+von dieser Art —« Dann wurde sie ernst. »Mir fällt da
 soeben ein,« fügte sie schnell hinzu, »daß mir eins dieser
 Spitzentücher heute abhanden gekommen ist. Ich weiß bestimmt:
 beim Abendessen hatte ich es noch. Nachher vermißte
@@ -598,8 +598,8 @@ Sie sie hinaustrugen?«
 »Ja — hier in meinem Zimmer. Sie enthielt — nur
 dies!«
 
-Und sie nahm wieder etwas von der Schreibtischplatte
-— eine zusammengefaltete Zeitung, die Morgenausgabe
+Und sie nahm wieder etwas von der Schreibtischplatte:
+eine zusammengefaltete Zeitung, die Morgenausgabe
 des Lucknow-Recorder vom 17. Juni, von vorgestern.
 
 Dann reichte sie uns die Hand. »Auf Wiedersehen,
@@ -631,12 +631,12 @@ zur Seite und nahm von einem Bücherständer ein paar
 <@pagebreak/>
 Nummern der Kalkutta-World, einer sehr bekannten illustrierten
 Wochenzeitschrift, herab. »Ich denke, wir werden
-ein Bild Iwannows finden. Da — sieh einige Nummmern
+ein Bild Iwannows finden. Da — sieh einige Nummern
 gleichfalls durch. Dann geht es schneller.«
 
 Mein Interesse an der Wundergeige war bereits wieder erloschen.
 *Ein* Gedanke hatte sich da in meinem Hirn
-eingenistet *eine* dumpfe Angst, stets wieder zu neuer
+eingenistet, *eine* dumpfe Angst, stets wieder zu neuer
 schreckhafter Größe empor wachsend und alles andere dann
 verdrängend: das Schiwamatu, die Prophezeiung des
 Yogi über Haralds Ende durch — einen Geigenbogen!
@@ -740,7 +740,7 @@ sein faltiges, mageres Gesicht geradezu einer Maske wahnsinnigen
 Entsetzens.
 
 »Die — die Memsahib hat — hat Sahib Harsts hellen
-langen Mäntel an und — die gestreifte Sportmütze,« stammelte
+langen Mantel an und — die gestreifte Sportmütze,« stammelte
 er weiter.
 
 Diese Worte trafen mich wie ein Faustschlag.
@@ -758,7 +758,7 @@ alten Dieners gehört haben.
 
 Chotan deutete über die Rasenfläche auf den uralten
 achteckigen Marmorspringbrunnen, dessen riesiges Bassin in
-der Mitte die Kollossalfiguren von vier Elefanten enthielt,
+der Mitte die Kolossalfiguren von vier Elefanten enthielt,
 aus deren hochgereckten, zurückgebogenen Rüsseln vier armdicke
 Wasserstrahlen etwas schräg gen Himmel stiegen und
 sich oben zu einer schäumenden Säule vereinigten, bevor sie
@@ -786,7 +786,7 @@ Mit kalter, kritischer Überlegung schaute ich mißtrauisch
 geradeaus. Der Lärm der plätschernden Fontäne zwang
 mich, ganz laut zu sprechen.
 
-»Harald, Frau Bitry trug Deinen Mantel und
+»Harald, Frau Amy Bitry trug Deinen Mantel und
 Deine Mütze,« sagte ich. »Die Schüsse galten Dir!«
 
 »Wer weiß, mein Alter! Wer weiß!«
@@ -857,7 +857,7 @@ ich zähme sie. Gib acht!«
 
 Er wand seinen Turban ab, einen endlos langen
 wollenen Stoffstreifen, schwenkte ihn etwa wie ein Lasso und
-ließ das freie Ende dicht über die Kobra hin fliegen. Sie
+ließ das freie Ende dicht über die Kobra hinfliegen. Sie
 schnappte sofort danach, und die Schleifen des Stoffes sanken
 über sie hin und hüllten sie fast ganz ein.
 
@@ -926,7 +926,7 @@ weitere! Gehen Sie bitte —«
 Eine heftige Handbewegung.
 
 »Mr. Harst, das sollen Ihr Mantel und Ihre Mütze
-sein! Begreifen Sie diesen Mummenschanz?!«
+sein! Begreifen *Sie* diesen Mummenschanz?!«
 
 »Vorläufig nicht, Exzellenz.«
 
@@ -986,7 +986,7 @@ klangen verschieden.«
 Ich horchte auf. »Aus Deiner Äußerung entnehme
 ich, daß Iwannow also den einen Schuß abgegeben hat —«
 
-»Gewiß. Das hat er.«
+»Gewiß. Das tat er.«
 
 Diese Behauptung rückte den berühmten Geiger in ein
 etwas eigentümliches Licht.
@@ -1099,7 +1099,7 @@ kleinlichen Neid hinter bureaukratischer Zugeknöpftheit
 verbargen, hielt uns nicht lange auf.
 
 Wir gingen uns von Seiner Exzellenz verabschieden.
-Der General saß in seinem Herrenzimmer vor dem Schreibstisch
+Der General saß in seinem Herrenzimmer vor dem Schreibtisch
 — vor dem großen Bilde seiner Gattin.
 
 »Exzellenz,« sagte Harald fast wehmütig, »wenn ich
@@ -1136,7 +1136,7 @@ sie morgen abend dorthin abreisen würde, um den dort
 aufgespürten Tiger zu erlegen.
 
 Sie — reiste auch. Und — ich sah sie lebend nicht
-wieder. Sie liegt in Birkanir beerdigt. Der Tiger hat
+wieder. Sie liegt in Birkanir beerdigt. Der Tiger hat —
 *sie* erlegt.
 
 <@pagebreak/>
@@ -1167,7 +1167,7 @@ geblieben, wußte ich erst recht nicht.
 <h2>5. Kapitel.</h2>
 
 Das Bassin war jetzt leer. Das Wasser war abgeflossen,
-und die vier Elefantenrüssel spien kleine neuen
+und die vier Elefantenrüssel spien keine neuen
 Strahlen gen Himmel, füllten es nicht wieder. Wir konnten
 trockenen Fußes bis zu dem einen Elefantensockel gelangen,
 der nach Westen gerichtet war. Es war derjenige, dem zunächst
@@ -1177,7 +1177,7 @@ hatte.
 »Hilf mir hinauf,« flüsterte Harst, als wir nebeneinander
 auf dem Sockel standen. »Ich will auf den Rücken
 des marmornen Dickhäuters steigen. Wenn Du Dir die
-vier Elefanten genau betrachtet hättest wäre Dir aufgefallen,
+vier Elefanten genau betrachtet hättest, wäre Dir aufgefallen,
 daß nur die Vorderbeine dieses Kolosses so eng beieinander
 stehen, daß sie ein Ganzes bilden. Und wenn Du
 <@pagebreak/>
@@ -1213,7 +1213,7 @@ Zwei Hände erschienen. Ich umklammerte sie. Ein
 Ruck, und Harst zog mich vollends — in den hohlen Leib
 des Elefanten hinein.
 
-»Bück’ Dich,« flüsterte er. »Ich lasse die Platte wieder
+»Duck’ Dich,« flüsterte er. »Ich lasse die Platte wieder
 herab —«
 
 Abermals das Knirschen sich reibender Steinflächen.
@@ -1222,7 +1222,7 @@ Dann flammte Haralds Taschenlampe auf.
 
 »Bitte — der Zugang zu einem der beiden Zimmer
 Iwannows,« sagte er leise. »Sir Bitry teilte uns ja so
-nebenbei mit, daß der Geiger gebeten hätte, ihn recht nah
+nebenbei mit, daß der Geiger gebeten hätte, ihn recht nahe
 am Festsaal unterzubringen. Also kannte Iwannow den
 Palast, obwohl er angeblich noch nie in Lucknow war. Und
 — er kannte auch dies Elefantengeheimnis! — Da geht eine
@@ -1242,7 +1242,7 @@ Wir gingen den Gang weiter hinab bis an eine schmale
 Steintreppe, die gewunden in einem engen Schacht hochlief.
 
 Dann vor uns in den Steinquadern eine mit Schimmelpilzen
-weiß überzogene Holztür — kaum 1 ¼ Meter
+weiß überzogene Holztür — kaum 1¼ Meter
 hoch, kaum halb so breit. Sie ließ sich leicht und geräuschlos
 aufziehen. Dahinter eine zweite Tür, ebenfalls Holz.
 

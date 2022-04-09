@@ -62,7 +62,7 @@ ich das Versteck nicht verraten würde. (Der Gepäckschein
 lag eng zusammengefaltet und mit Zigarettentabak umgeben
 als Zigarette in meinem silbernen Etui. Meine Amati
 hat man mir bereits acht Mal stehlen wollen. Das hat
-mich vorsichtig gemacht).
+mich vorsichtig gemacht.)
 
 Der Mann schrieb auf einen neuen Zettel, daß ich
 sehr bald nachgeben würde. Er würde mich zwingen. Ich
@@ -127,11 +127,11 @@ Aber — wo war diese Geheimtür?!
 Ich hatte eine Schachtel Zündhölzer bei mir, hatte
 eins davon angerieben, sah bei dem schwachen Schein, daß
 ich mich genau im Schnittpunkt von acht gemauerten, gleich
-breiten Seiten und gleich hohen Gängen befand, die einer dem
+breiten und gleich hohen Gängen befand, die einer dem
 andern völlig glichen. — Diese strahlenförmig von einem
 Mittelpunkt auslaufenden Gänge waren genau sechs Schritt
-lang und endete, wie ich mit Hilfe weiterer Zündhölzchen
-feststellte, von weißgetünchten Backsteinmauern, an denen
+lang und endeten, wie ich mit Hilfe weiterer Zündhölzchen
+feststellte, vor weißgetünchten Backsteinmauern, an denen
 auch nicht die Spur einer Tür zu bemerken war.
 
 Als ich den achten Gang abgeleuchtet hatte und nach
@@ -215,7 +215,7 @@ Ich sah sie über den Fliesenboden gleiten.
 Ich konnte ihr hier nicht entgehen.
 
 Ein gellender Schrei entrang sich meiner schmerzenden
-Kehle einer jener tierisch klingenden Schreie, wie auch
+Kehle, einer jener tierisch klingenden Schreie, wie auch
 <@pagebreak/>
 Stumme sie in höchster Erregung zuweilen hervorquälen.
 
@@ -265,7 +265,7 @@ inzwischen mit mir geschah, — ich weiß es nicht! Jedenfalls
 erwachte ich — in demselben Rohrsessel, in demselben
 <@pagebreak/>
 elegant eingerichteten Herrenzimmer, in das die Sonne
-hineinschien, wie vor — ja wie vor wieviel Stunden —?!
+hineinschien, wie vor — ja, wie vor wieviel Stunden —?!
 Oder — waren nur Minuten inzwischen vergangen?! Hatte
 ich — nur geträumt?!
 
@@ -282,7 +282,7 @@ Da — da ward auch aus mir eine Art Held.
 
 Ich schrieb in ohnmächtiger Wut als Antwort:
 
-»Nein — niemals! Jetzt erst recht nicht!«
+»Nein — niemals! Jetzt erst recht nicht!««
 
 * * *
 
@@ -302,7 +302,7 @@ Dann las er weiter.
 »Herr Harst, wenn Sie jetzt die Fortsetzung und den
 Schluß meiner Schilderung gelesen haben werden, dürften
 Sie mir — jeder täte es! — sagen: »Das *kann* nicht
-wahr sein!« — Und doch; es *ist* wahr! Nichts — kein
+wahr sein!« — Und doch: es *ist* wahr! Nichts — kein
 Wort weicht von den Tatsachen ab. —
 
 Auf mein gebrülltes: »Nein — niemals!« schüttelte
@@ -385,7 +385,7 @@ Und wieder hielt der Peiniger mir einen Zettel hin:
 
 »Noch eine solche Nervenprobe, und Sie werden wahnsinnig!
 Sie sind nicht der erste, der hier den Verstand
-verliert! Wo ist der Gepäckschein?« —
+verliert! — Wo ist der Gepäckschein?« —
 
 Herr Harst, auch ein Mensch wie ich hat zuweilen einen
 rettenden Gedanken!
@@ -415,7 +415,7 @@ Ich konnte dies getrost schreiben, Herr Harst, denn ich
 hatte tatsächlich auf dem Bahnhof in Benares einen Eilbrief
 geschrieben und am Postschalter aufgegeben. Freilich,
 er war an meine Schwester gerichtet und enthielt lediglich
-ein paar Grüße für die Kranke.
+ein paar Grüße für die Kranke. —
 
 Der Graublonde las und blickte mich prüfend an.
 
@@ -448,7 +448,7 @@ wieder einmal erwachte, fühlte ich mich weit kräftiger. Ich
 versuchte meine Hände aus den Windungen der Stricke zu
 drehen. Ich ließ mir Zeit dabei. Und — es gelang.
 
-Das Auto fuhr durch eine belebte Straße, was ich an
+Das Auto fuhr durch eine bebaute Straße, wie ich aus
 verschiedenen Geräuschen heraushörte. Da wagte ich es
 — da riß ich mir mit der Linken die Decke ab, die mich am
 Sehen hinderte, griff mit der Rechten nach dem Türdrücker,
@@ -490,7 +490,7 @@ beide begaben uns darauf durch den Park des Palastes bis
 an den Elefantenbrunnen, wo wir plötzlich von vier Leuten
 niedergeworfen, gewürgt und betäubt wurden.
 
-Alles weitere wissen Sie Herr Harst. Ich will nur
+Alles weitere wissen Sie, Herr Harst. Ich will nur
 nochmals betonen, daß ich Punkt für Punkt die volle Wahrheit
 berichtet habe.
 
@@ -500,7 +500,7 @@ falls ich dazu imstande bin.«
 
 <@pagebreak/>
 
-<h2>3. Kapitel</h2>
+<h2>3. Kapitel.</h2>
 
 Harald legte die Niederschrift auf den Tisch und sagte
 zu Webster:
@@ -528,7 +528,7 @@ treue Seele verlangst einfach Unmögliches! Soll Amy Bitrys
 Tod ungerächt bleiben, soll die Welt von mir sagen,
 ich hätte geduldet, daß eine Frau für mich, an meiner Stelle
 starb und daß ich nicht einmal den Versuch gemacht hätte
-diese Untat zu sühnen?! Soll General Bitry mit geringschätzigem
+diese Untat zu sühnen?! Soll etwa General Bitry mit geringschätzigem
 Lächeln über mich hinwegsehen?! Soll etwa
 Iwan Iwannow denken dürfen, er hätte mir die Möglichkeit
 an die Hand gegeben, ein von habgierigen Schurken
@@ -541,7 +541,7 @@ hat Harald Harst, den diese Abenteuer Iwannows
 doch mit am meisten angehen, plötzlich Indien verlassen,
 als ob er gefürchtet hätte, hier nichts ausrichten zu können
 <@pagebreak/>
-—« Nein, mein Alter, mag auch die Drohung des
+—« — Nein, mein Alter, mag auch die Drohung des
 Schiwamatu über meinem Haupte wie eine Gewitterwolke
 schweben: nicht jeder Blitz schlägt ein! — Ich bleibe, der
 ich war. Ich werde dieser Prophezeiung wegen kein Feigling
@@ -599,7 +599,7 @@ tun, wenn Sie mir dies besorgen wollten, lieber Webster.«
 (Er schrieb etwas auf einen Zettel und gab ihn
 dem Detektivinspektor. Dieser überflog das Geschriebene,
 warf Harald einen erstaunten Blick zu und verließ das
-Zimmer).
+Zimmer.)
 
 *Harst* (zu Iwannow): »Ich möchte jetzt den Ort
 festzustellen versuchen, wo Sie gestern für Stunden Daisy
@@ -625,7 +625,7 @@ des Erdgeschosses eines auf einem Hügel stehenden Hauses
 befunden haben. Die Bäume wuchsen dann also am Fuße
 des Hügels.«
 
-*Iwannow* »Ja, so muß es sein.«
+*Iwannow:* »Ja, so muß es sein.«
 
 *Harst:* »Konnten Sie durch das Fenster noch etwas
 erkennen?«
@@ -723,16 +723,16 @@ Wir drei anderen traten hinter ihn.
 Es war eine Karte des Landschaftsvierecks zwischen
 den Städten Lucknow, Banda, Benares, Gorakhpur.
 
-In der Südostecke lag Benares, oben in der Nordwestseite
+In der Südostecke lag Benares, oben in der Nordwestecke
 Lucknow am Gumti-Fluß. Die Eisenbahnlinie
-Lucknow-Benares durchschnitt das Viereck als Diagonale.
+Lucknow—Benares durchschnitt das Viereck als Diagonale.
 
 Die Karte zeigte jedes Dorf, jedes Gehöft, jeden Hauptbewässerungsgraben.
 Das Dorf Bitschwali war leicht zu
 finden — genau südöstlich von Lucknow als einziges in einer
 weiten Ebene.
 
-Harald fuhr mit dem Zeigefinger die Bahnstrecke Benares-Lucknow
+Harald fuhr mit dem Zeigefinger die Bahnstrecke Benares—Lucknow
 <@pagebreak/>
 entlang, ganz langsam. Da war überall,
 wo kurze Nebenlinien teils zu kleineren Städten oder zu
@@ -750,7 +750,7 @@ habe ich ebenfalls schon versucht.«
 
 Harald richtete sich auf. »Ja, ja Webster, vielleicht
 heißt es auch hier: »Warum in die Ferne schweifen?
-Sieh’ das *Böse* liegt so nah’!«
+Sieh’, das *Böse* liegt so nah’!««
 
 Da er das bekannte Zitat ins Englische übertragen
 hatte, wirkte es dem Sinne nach auf Webster nicht so eindringlich,
@@ -803,7 +803,7 @@ mein Alter. Ein Gefolge von Geheimpolizisten paßt mir
 nicht.«
 
 So hatte er also wieder einmal meine geheimsten Gedanken
-erraten: Doch — ich wollte mich trotzdem nicht geschlagen
+erraten. Doch — ich wollte mich trotzdem nicht geschlagen
 geben. Ich sagte daher:
 
 »Ich hielt mich für verpflichtet, für unsere Sicherheit
@@ -815,18 +815,18 @@ fügte ich hinzu.
 
 »Das ist richtig,« bestätigte er. »Ich habe mir das
 gleich gedacht, als ich erst durch das Peau d’Espagne auf
-Miß Emerentia Seston gekommen war.«
+Miß Emerentia Sefton gekommen war.«
 
 Dieser Name ließ mich herumfahren.
 
-»Ah — Emerentia Seston, die verschollene Milliardärswaise!«
+»Ah — Emerentia Sefton, die verschollene Milliardärswaise!«
 
-»Ja. Du weißt, daß ihr Onkel Seston an mich damals
+»Ja. Du weißt, daß ihr Onkel Sefton an mich damals
 nach Bombay schrieb, als wir gerade das Myntor-Problem
 <@pagebreak/>
 in Arbeit hatten. (Vergl. Bd. 80 »Lady Myntors
 letzter Wunsch«.) Wir waren unabkömmlich, und dann vergaßen
-wir die Sache, das heißt: vergessen tue ich ja eigentlich
+wir die Sache. Das heißt: vergessen tue ich ja eigentlich
 nie etwas! Dazu ist mein Gedächtnis zu gut. Derartige
 Ereignisse pflegen in meinem Hirn gleichsam nur
 einzuschlafen. Eine Kleinigkeit weckt sie wieder, hier das
@@ -839,18 +839,18 @@ Haar hätte. Weiter war da zu lesen, daß ihr Riesenvermögen
 nach Ihrem Tode oder, falls die Leiche nicht gefunden
 würde, nach ihrer Todeserklärung ihrer Tante Sylvia
 Marconnay, einer Schwester ihrer Mutter, zufalle. — Dies
-über Emerentia Seston. — Während Du Webster und
+über Emerentia Sefton. — Während Du Webster und
 Iwannow in den Park hinabbegleitetest, habe ich mir durch
 einen Diener das Einwohnerverzeichnis von Lucknow, in
 dem freilich nur die Europäer und die Geschäftsfirmen
-stehen, bringen lassen. Mr. Seston, mit Vornamen Robert,
+stehen, bringen lassen. Mr. Sefton, mit Vornamen Robert,
 schrieb damals aus Lucknow an uns. Und in dem
 Verzeichnis ist er ebenfalls noch genannt als:
 
-> *Seston, Robert*, Privatgelehrter
-Vorstadt Chillagoog, Villa Seston.
+> *Sefton, Robert*, Privatgelehrter
+Vorstadt Chillagoog, Villa Sefton.
 
-Hier aber« — und er hielt den Zeigefinger auf die
+Hier aber,« — und er hielt den Zeigefinger auf die
 Karte auf eine Stelle hart südlich der Stadt Lucknow —
 »hier ist ein Tal angedeutet, in das drei Schienenstränge
 zu drei Fabriken von der Hauptlinie abzweigen. Hier
@@ -858,26 +858,26 @@ steht der Name Chillagoog, und hier auf dem Höhenrand
 östlich des Tales sind drei schwarze Vierecke gedruckt, also
 drei Gebäude, ein größeres und zwei kleinere. Dieses
 größere Haus, mein Alter, muß nach alledem die Villa
-Seston und der Ort sein, wo Iwannow seine furchtbaren
+Sefton und der Ort sein, wo Iwannow seine furchtbaren
 Erlebnisse hatte —«
 
 Ich starrte Harst ganz entgeistert an.
 
 <@pagebreak/>
-»Dann — dann würde also Emerentia Seston von
+»Dann — dann würde also Emerentia Sefton von
 ihrem Onkel, den sie damals vor einem halben Jahr besucht
 hatte, gefangen gehalten?«
 
 »Sehr wahrscheinlich — Ihrer Milliarden wegen!
 Vielleicht will er sie zwingen, ein Testament zu seinen Gunsten
 zu machen oder ihm einen Teil ihrer Reichtümer sonstwie
-zu schenken. Ich kenne diesen Robert Seston nicht.
+zu schenken. Ich kenne diesen Robert Sefton nicht.
 Ich muß ihn erst kennenlernen, bevor ich mit Sicherheit
 behaupten darf, daß er ein Schurke ist. Jedenfalls lebt er
 hier ganz für sich, denn Olivia Bennerton hat seinen Namen
 nie erwähnt und auch Webster dürfte über ihn kaum
 Bescheid wissen. Es gibt ja auch andere Möglichkeiten,
-Emerentia Sestons Gefangenschaft in jenem Hause zu erklären.
+Emerentia Seftons Gefangenschaft in jenem Hause zu erklären.
 Ich meine, auch andere Personen können dabei
 die Schuldigen sein. Einzig und allein steht fest, daß Daisy
 Bennerton dort ihre zierliche, aber verbrecherische Hand mit
@@ -911,7 +911,7 @@ mit doppelter Wucht wieder in den Sinn.
 
 Ein schneller Entschluß dann und als Breßfort das
 Zimmer verließ, bohrte ich rasch eine Stecknadel in die
-Landkarte — in das schwarze Viereck der Villa Seston. —
+Landkarte — in das schwarze Viereck der Villa Sefton. —
 
 Harst nahm die Sportmütze vom Stuhl, zog sie über
 den Kopf und sagte:
@@ -928,7 +928,7 @@ hatte, daß wir unbeobachtet waren, sagte er zu mir:
 
 »Nun hat Daisy Bennerton die Geige also doch gestohlen
 oder stehlen lassen. Ich bin gespannt, was wir
-in der Villa Seston finden werden.«
+in der Villa Sefton finden werden.«
 
 Ich blieb still. Meine einzige Hoffnung war die Stecknadel
 in der Karte und Websters Anhänglichkeit an Harst.
@@ -957,7 +957,7 @@ nahmen wir jetzt unseren Weg. Verhüllte Weiber huschten
 an uns vorüber. Inder aller Altersstufen begegneten uns,
 warfen uns prüfende Blicke zu. Aus Singspielhallen und
 chinesischen Teestuben, wo überall auch dem Opiumlaster gefrönt
-wurde, scharrte uns das Kreischen von Musikinstrumenten
+wurde, schallte uns das Kreischen von Musikinstrumenten
 und das Gedudel großer Orchestrions entgegen.
 Die »Kultur« hatte auch hier bei dem indischen Proletariat
 ihren Einzug gehalten. Die Verbreiter dieser »Kultur«
@@ -982,7 +982,7 @@ besinnen.
 Die Vorstadt Chillagoog begann. Palmenhaine,
 Hütten, Fabriken, Mais- und Indigofelder wechselten mit
 sandigen unbebauten Flächen ab. Haralds Ortssinn ließ
-uns den Weg nach der Villa Seston leicht finden. Bald
+uns den Weg nach der Villa Sefton leicht finden. Bald
 tauchte vor uns am Rande des Talabhangs ein weißes,
 einstöckiges Gebäude auf, von einem Garten und einer
 hohen Ziegelmauer umgeben.
@@ -1021,9 +1021,9 @@ Wirtschaftsgebäude zu. Da war eine Autogarage mit zwei
 breiten Türen und ein Stall. Alles dunkel. Auch an der
 Villa kein erhelltes Fenster.
 
-Wir umstreiften sie. Da war nach Westen, nach dem
+Wir umkreisten sie. Da war nach Westen, nach dem
 Tale zu eine große Glasveranda. Harald deutete auf
-zwei Fenster neben der Veranda. »Das dürfte Sestons
+zwei Fenster neben der Veranda. »Das dürfte Seftons
 Arbeitszimmer sein!« flüsterte er.
 
 Das Erdgeschoß lag etwa ein Meter über dem Boden.
@@ -1059,11 +1059,11 @@ sanken die Töne wieder zu weichen, klagenden Akkorden
 gleichsam in sich zusammen.
 
 Wieder Haralds Flüstern: »Ein Künstler ist’s, der
-da spielt. Vielleicht gar Robert Seston. Vielleicht täuschen
+da spielt. Vielleicht gar Robert Sefton. Vielleicht täuschen
 wir uns, was seinen Charakter betrifft. Es kann
 auch alles — alles anders sein!«
 
-Mir war Seston und alles andere gleichgültig. Für
+Mir war Sefton und alles andere gleichgültig. Für
 mich war nur eins von Bedeutung: Die Wundergeige befand
 sich hier im Hause, und ich — mir hatte es eine innere
 Stimme von Anfang an gesagt! — war fester denn je
@@ -1075,7 +1075,7 @@ Harald hatte die Rechte auf den Türdrücker gelegt.
 Geräuschlos ließ der Drücker sich senken, geräuschlos
 ging die Tür auf.
 
-Dahinter ein Vorhang durch den ein schwaches Lichtmuster
+Dahinter ein Vorhang, durch den ein schwaches Lichtmuster
 durch das Gewebe schimmerte. Die Fenster mußten
 also sehr dicht schließende Fensterladen haben. Wir hatten
 ja von draußen nichts von einem Lichtschein bemerkt.
@@ -1094,7 +1094,7 @@ bekannt vor.
 
 Dann — wie ein Hauch Haralds Stimme: »Ein Toter
 ist’s — ein für die Welt Toter! Ein von gehässiger
-Kritik Ermordeter! Es ist — der englische Geigenvirtuos
+Kritik Gemordeter! Es ist — der englische Geigenvirtuos
 Frank Elton. So lautete sein Künstlername. Niemand
 wußte, wie er wirklich hieß. Vor acht Jahren verschwand
 er, nachdem ein paar Londoner Kritiker ihn als »abgetan,
@@ -1107,7 +1107,7 @@ seine Amati-Geige! Wir werden, glaube ich, unsere Ansicht
 hat vielleicht nur das, was einst sein war, stehlen lassen:
 seine Amati!«
 
-Es schien, als ob Robert Seston mit seinen überfeinen
+Es schien, als ob Robert Sefton mit seinen überfeinen
 Nerven die Nähe fremder Wesen spürte. Er wurde unruhig.
 Dann setzte er die Geige ab, legte sie auf den Mitteltisch
 und fuhr sich mit der Hand über die weiße Stirn,
@@ -1123,16 +1123,16 @@ Ich blieb dicht hinter ihm, hatte die Rechte in der
 Außentasche der Sportjacke und die Clement entsichert.
 Meine ganze Aufmerksamkeit galt dem Geigenbogen.
 
-Seston war zurückgeprallt, faßte sich aber schnell und
+Sefton war zurückgeprallt, faßte sich aber schnell und
 sagte mit trübem Lächeln:
 
 <@pagebreak/>
 »Ah — also doch! Ich hatte es befürchtet! Sie müssen
 Mr. Harst sein —«
 
-»Allerdings, Mr. Seston. Ich —«
+»Allerdings, Mr. Sefton. Ich —«
 
-»Sie kommen der Amati wegen,« fiel Seston ihm ins
+»Sie kommen der Amati wegen,« fiel Sefton ihm ins
 Wort. »Sie ist mein Eigentum, Mr. Harst. Ich kann das
 beweisen. Daß Iwannow sie von dem Diebe oder dem
 Hehler gekauft hat, erfuhr ich erst heute früh, als ich aus
@@ -1141,7 +1141,7 @@ Freunde Oberst Gramsay aufgehalten hatte. Es war heute
 früh ein Mann bei mir, der mir mein Eigentum wieder
 verschaffen wollte, ein Fremder. Ich kenne nicht einmal
 seinen Namen. Leider ließ ich mich auf den Handel ein
-und zahlte ihm 50 000 Rupien für das unsaubere Geschäft.
+und zahlte ihm 50&nbsp;000 Rupien für das unsaubere Geschäft.
 Vor zwei Stunden brachte er mir die Geige. Dort auf
 dem Schreibtisch liegt schon der Brief an Iwannow, dem
 ich das, was er einst gutgläubig für die Amati bezahlt hat,
@@ -1149,20 +1149,20 @@ zurückerstatten will. Jedenfalls kann ich beweisen, daß
 die Geige mir gehörte. Ich gebe sie auch nicht wieder heraus.«
 
 Harst machte eine gleichgültige Handbewegung. »Das
-erledigen Sie mit Iwannow, Mr. Seston. Ich habe weit
+erledigen Sie mit Iwannow, Mr. Sefton. Ich habe weit
 mehr Interesse für das Schicksal Ihrer Nichte Emerentia
-Seston. Sie schrieben vor einem halben Jahr an mich, ich
+Sefton. Sie schrieben vor einem halben Jahr an mich, ich
 solle Emerentia suchen. Liegt Ihnen noch etwas daran,
 sie zu finden?«
 
-»Oh — welche Frage, Mr. Harst,« meinte Seston weit
+»Oh — welche Frage, Mr. Harst,« meinte Sefton weit
 lebhafter. »Ich fürchte nur, Emerentia ist tot. Aber —«
 
-»Sie irren, Mr. Seston,« unterbrach Harald ihn. »Sie
+»Sie irren, Mr. Sefton,« unterbrach Harald ihn. »Sie
 irren! Ihre Nichte lebt und wird von Verbrechern gefangen
 gehalten.«
 
-Robert Seston starrte Harald ungläubig an. Dann
+Robert Sefton starrte Harald ungläubig an. Dann
 rief er, und in seiner Stimme war nichts als ehrliche
 Freude: »Wenn Sie etwas Derartiges behaupten, Mr.
 Harst, ist es auch wahr! Mein Gott, endlich — endlich die
@@ -1171,14 +1171,14 @@ Erlösung aus tausend Zweifeln! Ich habe ja nie so recht
 daran glauben wollen, daß meine frische, muntere Emerentia
 wirklich tot sein sollte!«
 
-Harst hatte sich an den Schreibtisch gelehnt. »Mr. Seston,
+Harst hatte sich an den Schreibtisch gelehnt. »Mr. Sefton,
 rasch ein paar Fragen. Seit wann wohnen Sie hier?
 Wem gehörte das Haus vordem? Wieviel Diener haben
 Sie? Wer spielte in Ihrer Abwesenheit hier den Hausherrn?«
 
-Seston schüttelte den Kopf. »Ihre Fragen berühren
+Sefton schüttelte den Kopf. »Ihre Fragen berühren
 mich so seltsam, Mr. Harst. Um die letzte zuerst zu beantworten:
-mein Diener Chotan vertritt mich hier stets, wenn
+mein Diener Sirdar vertritt mich hier stets, wenn
 ich verreist bin. Er ist bereits sechs Jahre bei mir. Dann
 habe ich noch einen chinesischen Koch, zwei andere Diener,
 zwei Chauffeure und einen Gärtner, alles Inder bis auf
@@ -1187,7 +1187,7 @@ Dieses Grundstück erwarb ich von dem Vormund der Geschwister
 Bennerton. Es gehörte deren Vater. Den Gärtner
 Negambo übernahm ich mit dem Grundstück.«
 
-»War Chotan ebenfalls vielleicht bei Mr. Bennerton
+»War Sirdar ebenfalls vielleicht bei Mr. Bennerton
 früher in Stellung?«
 
 »Ja. Viele Jahre. Er hat mir viel von den
@@ -1195,7 +1195,7 @@ Geschwistern Bennerton erzählt. Er hing besonders an Daisy
 Bennerton mit großer Liebe.«
 
 »Kennen Sie auch die Geheimnisse dieses Hauses, Mr.
-Seston?«
+Sefton?«
 
 »Geheimnisse?!« Er lächelte. »Nein. Hier gibt es
 keine Geheimnisse.«
@@ -1207,7 +1207,7 @@ keine Geheimnisse.«
 »Und über den Fußboden dieses Zimmers sind Sie
 ebenfalls orientiert?«
 
-Seston schüttelte abermals den Kopf. Er tat es wie
+Sefton schüttelte abermals den Kopf. Er tat es wie
 jemand, der den Sinn der Frage gar nicht recht begriffen
 hat. Daß er tatsächlich harmlos war und mit Emerentias
 Entführung und Einkerkerung nichts zu tun hatte, war bereits
@@ -1218,11 +1218,11 @@ erwiesen.
 <h2>5. Kapitel.</h2>
 
 Harst schwieg eine Weile. Dann sagte er: »Gestatten
-Sie, das ich mich hier so etwas umschaue, Mr. Seston.«
+Sie, daß ich mich hier so etwas umschaue, Mr. Sefton.«
 Und zu mir gewandt: »Der Hebel für den versenkbaren
 Fußbodenteil dürfte sich hier vor dem Schreibtisch befinden,
 denn Daisy saß ja hier im Schreibsessel, als Iwannow
-versank.« — Er kniete bereits auf dem Parkett, hob das
+versank.« — Er kniete bereits auf dem Parkett, schob das
 Bärenfell vor dem Schreibtisch zur Seite und befühlte die
 Parkettstäbe. Dann ein leises Knarren, und plötzlich senkte
 sich ein Teil des Fußbodens zwischen Schreibtisch und Flurtür
@@ -1258,7 +1258,7 @@ Der sonderbare Fahrstuhl machte halt.
 
 Und — jetzt sah ich erst, was mir bisher entgangen,
 <@pagebreak/>
-daß Mr. Seston seine Amati und den Geigenbogen zärtlich
+daß Mr. Sefton seine Amati und den Geigenbogen zärtlich
 an seine Brust gedrückt hielt.
 
 Er bemerkte meinen Blick, der geradezu entsetzt auf der
@@ -1279,12 +1279,12 @@ Ein Teil der Nordmauer bewegte sich nach innen.
 Dahinter ein Gang — dunkel, drohend.
 
 Eisige Luft schlug uns daraus entgegen. Hier waren
-die Wände nicht gemauert: hier bestanden sie aus kahlem
+die Wände nicht gemauert; hier bestanden sie aus kahlem
 Gestein; nur die leicht gewölbte Decke zeigte alte, große
 Ziegelsteine.
 
 Der Gang schien endlos. Harald schritt voran. Als
-letzter kam Seston. — Nun rechter Hand eine mit Eisenblech
+letzter kam Sefton. — Nun rechter Hand eine mit Eisenblech
 benagelte Tür, die offenbar neueren Datums war, wie
 auch die beiden Riegel und das große Schloß bewiesen.
 Der Schlüssel steckte. Aber die Riegel waren vorgeschoben.
@@ -1301,12 +1301,12 @@ Ein Schrank, ein Tisch, ein Ruhebett.
 Und — eine Gestalt, die von dem Lager hochfuhr, —
 ein Weib, blond, verhärmt, abgezehrt.
 
-»Emerentia!« gurgelte Seston mit unnatürlicher
+»Emerentia!« gurgelte Sefton mit unnatürlicher
 Stimme.
 
 Dann lag sie an seiner Brust, schluchzend, wimmernd.
 
-Harst hatte Seston schnell die Amati und den Bogen
+Harst hatte Sefton schnell die Amati und den Bogen
 <@pagebreak/>
 aus der Hand genommen. Er wollte beides auf den Tisch
 legen.
@@ -1317,7 +1317,7 @@ denn —«
 
 Dann — ein Satz an mir vorüber zur Tür.
 
-Ich sah gerade noch eine Gestalt davon huschen.
+Ich sah gerade noch eine Gestalt davonhuschen.
 
 Und Harst hinterdrein. Die Amati lag auf dem Tische,
 nur den Bogen hatte er in der Eile in der Linken behalten.
