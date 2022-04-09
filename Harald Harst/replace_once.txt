@@ -40,6 +40,7 @@
 \bSeht\b	Jetzt
 \bTeich!\b	leicht
 \bTer\b	Der
+\btieſ	tief
 \bvor!\b	dort
 \bwirft\b	wirst
 \bWir\.	Mr.
