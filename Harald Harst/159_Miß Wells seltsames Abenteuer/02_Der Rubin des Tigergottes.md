@@ -10,7 +10,7 @@ Fürsten von Malewe ein wie die Vagabunden!
 Nachdem wir nach einem wirklich harmlosen Abenteuer
 unsere Freunde Thornton und die Geschwister Wells
 glücklich vereint verlassen hatten, machten wir uns auf den
-Weg. Enuropäerkleider hatten wir nicht, denn die reisten
+Weg. Europäerkleider hatten wir nicht, denn die reisten
 schon per Ochsenpost zum Palast des Fürsten samt unseren
 Koffern. Wir strichen uns also das Fell, wie man beim
 Theater sagt, abermals braun an, hingen unsere indischen
@@ -137,9 +137,9 @@ die Gemächer dieser Fremden zu zeigen.
 
 Wir markierten brennende Neugier und bekamen bald
 unsere eigenen Zimmer zu sehen. Unsere Lederkoffer, für
-den indischen bedienten offenbar eine Sehenswürdigkeit,
+den indischen Bedienten offenbar eine Sehenswürdigkeit,
 standen schon da. Nachdem wir alles gebührend bewundert
-hatten, stellten wir mit unserem Führer in den Hof zurück,
+hatten, kehrten wir mit unserem Führer in den Hof zurück,
 um uns unter die Neugierigen zu begeben. Aber nicht für
 lange. Dann entfernten wir uns. Harst kletterte an den
 Verandenvorsprüngen zu unseren Zimmern hinauf und ich
@@ -147,7 +147,7 @@ folgte ihm.
 
 »So,« sagte er, »Du wirst nun wissen, was ich will.
 Morgen erscheinen wir von diesen Zimmern aus in europäischer
-Toilette vor dem Fürsten und den seinen.«
+Toilette vor dem Fürsten und den Seinen.«
 
 »Gemach,« sagte ich verblüfft, »wollen wir nun nicht
 schlafen gehen?«
@@ -170,7 +170,7 @@ entkleidete mich also im Dunkeln und suchte mein Lager
 auf, während Harst, geräuschlos wie ein Schatten, bereits
 unser Zimmer verlassen hatte.
 
-Wann er zurückkehrte, weiß ich nicht. Er wette mich,
+Wann er zurückkehrte, weiß ich nicht. Er weckte mich,
 als schon die Sonne in unsere Gemächer schien. Unsere
 Koffer waren geöffnet, die Europäerkleidung lag bereit,
 wir wuschen unsere braune Haut weiß und waren in kurzem
@@ -185,8 +185,8 @@ Das Frühstück war nach indischer Sitte auf niedrigen
 Tischen serviert und wurde von den Teilnehmern auf
 Kissen hockend eingenommen. Anwesend waren nur Männer.
 Die Frauen hielten ihre Mahlzeiten nach indischer
-Sitte in den Zenanas (Frauengemächer). als wir eintraten,
-sprangen die anwesenden vor Überraschung auf.
+Sitte in den Zenanas (Frauengemächer). Als wir eintraten,
+sprangen die Anwesenden vor Überraschung auf.
 Harst stellte sich und mich in seiner gelassenen, überlegenen
 Weise vor.
 
@@ -214,12 +214,12 @@ Dann nahmen wir an dem Frühstück teil.
 
 Nach dem Frühstück beorderte der Radscha seine Ganjapfeife,
 aber als ein Diener sie ihm brachte, nahm Harst sie
-ihn einfach weg und sagte:
+ihm einfach weg und sagte:
 
 »Das ist Ihrer Gesundheit schädlich, Fürst. Seien Sie
 ein Mann und bekämpfen Sie diese Gewohnheit.«
 
-»Ich bin an das rauchen gewöhnt,« widersprach er.
+»Ich bin an das Rauchen gewöhnt,« widersprach er.
 
 »Gewohnheit ist die Entschuldigung der Schwächlinge,«
 lautete die Antwort, »ein starker bekämpft sie.«
@@ -229,7 +229,7 @@ Der Fürst schwieg, aber Nepak sagte ärgerlich:
 »Es ist nicht statthaft, dem Radscha in seinen Liebhabereien
 zu stören.«
 
-»Es ist statthaft, wenn es zu seinem besten geschieht,«
+»Es ist statthaft, wenn es zu seinem Besten geschieht,«
 antwortete Harst.
 
 Über das Antlitz des Fürsten ging ein Zucken. Man
@@ -240,10 +240,10 @@ sie zurück und sagte:
 »Die Spiele zu Ehren unserer Besucher sollen beginnen.«
 
 Wir begaben uns in den geräumigen Hof des Palastes,
-wo die sitze für die Zuschauer aufgeschlagen waren. Als
+wo die Sitze für die Zuschauer aufgeschlagen waren. Als
 ich meine Blicke hob, sah ich auf den Galerien des Palastes
 die verschleierten Frauen, die von hier aus, und nicht in Gemeinschaft
-der Männer, den spielen zuschauten. Wir bekamen
+der Männer, den Spielen zuschauten. Wir bekamen
 Schwertkämpfer zu sehen. Schlanke, braune Knaben
 traten als Tänzer auf, Ringer auf indische Manier trainiert
 zeigten sich. Es waren große, fette Gestalten, aber
@@ -338,7 +338,7 @@ den Zettel mitgelesen.
 ergeben. Diese Warnung werden wir beachten, nicht wahr,
 Schraut!«
 
-Wir war etwas unbehaglich zumute, als wir nach
+Mir war etwas unbehaglich zumute, als wir nach
 einiger Zeit zu Tisch gerufen wurden. Der Gedanke, in
 seiner Suppe oder in seinem Kotelett den Weg zum Jenseits
 zu finden, war nicht sehr erheiternd, denn die schnelle Wirkung
@@ -354,7 +354,7 @@ Bedienung übernahm. Als er bemerkte, wie ich bei
 den einzelnen Platten trotz meines Appetites und ihres
 leckeren Aussehens zögerte, raunte er mir zu:
 
-»Sei ohne Furcht, Sahib, ist wache.«
+»Sei ohne Furcht, Sahib, ich wache.«
 
 Nach Tisch wurde dem Radscha wieder die Ganjapfeife
 gebracht, aber ein strenger Blick Harsts genügte —
@@ -455,9 +455,9 @@ mir überlassend, mich den jeweiligen Situationen anzupassen
 und mich in ihnen zurechtzufinden.
 
 Wir hatten das Abendessen mit dem Fürsten und den
-seinen eingenommen. Ich muß gestehen, daß es für mich
+Seinen eingenommen. Ich muß gestehen, daß es für mich
 und Harst sehr frugal ausfiel. Der weißbärtige Diener befand
-sich nämlich nicht unter den aufwartenden. Infolgedessen
+sich nämlich nicht unter den Aufwartenden. Infolgedessen
 hielten wir uns an gekochte Eier, denen man kein Gift
 beimischen kann, die aber nur sehr rar auf die Tafel kamen.
 Uns zu Ehren gab es Champagner und ich trank ein Glas
@@ -468,11 +468,11 @@ Huld gegen uns gänzlich vermissen.
 Als seine Ganjapfeife gebracht wurde, rauchte er aus
 ihr und nahm Harsts Blicke mit Schweigen entgegen. Bald
 hatte der Fürst seinen Ganjarausch. Es war klar, wir waren
-in Ungnade gefallen. Vermutlich hatte Harst und sein eingehen
+in Ungnade gefallen. Vermutlich hatte Harst und sein Eingehen
 auf des Priesters Sterndeuterei daran Schuld. Der
 Radscha sah in uns nicht mehr Freunde, sondern Feinde.
 
-Von niemand zum bleiben ermutigt zogen wir uns
+Von niemand zum Bleiben ermutigt zogen wir uns
 nach der Mahlzeit auf unsere Zimmer zurück.
 
 <@pagebreak/>
@@ -506,7 +506,7 @@ mit Mühe einen Schrei.
 
 Der Rubin aus seiner Stirn war verschwunden!
 
-Harst hatte es auch bemerkt. Wir kamen zu späht. Der
+Harst hatte es auch bemerkt. Wir kamen zu spät. Der
 Diebstahl war bereits geschehen!
 
 Harst stürzte vorwärts, offenbar völlig verblüfft. Und
@@ -544,7 +544,7 @@ augenblicklich saßen.
 
 Wie lange Stunden hatten wir in unserem Kerker gesessen?
 Plötzlich rasselten Schlüssel, eine Eisentür klirrte,
-Licht fiel in unser verließ. Sechs bewaffnete Diener erschienen
+Licht fiel in unser Verließ. Sechs bewaffnete Diener erschienen
 unter Führung des Dandus, nahmen uns barsch
 in die Mitte und Dandus befahl finster: Zum Fürsten.
 
@@ -555,7 +555,7 @@ geführt, der auf den Palasthof mündete. Geblendet schloß
 ich die Augen, denn Hof und Palast erstrahlten in hellem
 Feuerwerk, überall herrschte volles Leben, nur unseres schien
 verwirkt. Stumpf sah ich eine Karre mit rohem Fleisch
-vorüberfahren. Offenbar der fraß für den Leoparden des
+vorüberfahren. Offenbar der Fraß für den Leoparden des
 Dandus, denn dieser rief den Wärtern zu:
 
 »Wartet noch, ich will das Tier heute selbst füttern.«
@@ -707,7 +707,7 @@ sterben. Morgen früh wirst Du und Dein Freund gefoltert, bis
 der Stein wieder zur Stelle ist. Und dann werde ich Euch
 hinrichten lassen. Führt sie jetzt fort.«
 
-Die bewaffneten nahmen uns wieder in die Mitte.
+Die Bewaffneten nahmen uns wieder in die Mitte.
 
 <@pagebreak/>
 Wir wurden hinweggebracht, aber nicht in unser altes
@@ -832,7 +832,7 @@ konstatieren.
 »Dir fällt nichts auf, Max Schraut?«
 
 »Nein. Das Biest hat vorhin, als wir zu dem Fürsten
-geführt wurden, sein fressen bekommen. Große Fleischstücke
+geführt wurden, sein Fressen bekommen. Große Fleischstücke
 auf einem Karren, wie Du gesehen haben wirst,«
 sagte ich, »es sollte also ruhig und zufrieden sein —«
 
@@ -899,7 +899,7 @@ der uns viel zu schaffen machte.
 
 Wenn draußen nicht der Festtumult gewesen wäre, hätten
 wir wohl kaum ungestört unsere Ausbrecherarbeit leisten
-können, denn das durchfeilen gab ein durchdringendes
+können, denn das Durchfeilen gab ein durchdringendes
 <@pagebreak/>
 knirschendes Geräusch von sich. Zwischendurch hörten wir
 das dumpfe Brüllen des Leoparden, aber allmählich wurde
@@ -1096,7 +1096,7 @@ besagten Denkzettel zu gönnen!
 »Und dann habe ich noch etwas entdeckt!«
 
 <@pagebreak/>
-»Was denn?«.
+»Was denn?«
 
 »Ich weiß, wo sich der gestohlene Rubin befindet!«
 
@@ -1132,7 +1132,7 @@ Zauberkünste befreit haben,« lachte dieser.
 »Und das durchfeilte Schloß!«
 
 »Mögen sie denken, was sie wollen,« war die Entgegnung,
-»aber glaube mir, vor dem Leopardenkampf wird
+»aber glaube mir, *vor* dem Leopardenkampf wird
 sich niemand um uns kümmern. Dandus und der Nepak
 haben vorläufig nur den einen Wunsch, den Fürsten aus
 dem Wege zu räumen. Erst danach werden sie sich mit uns

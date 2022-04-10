@@ -30,7 +30,7 @@ Nachdem wir nach einem wirklich harmlosen Abenteuer unsere Freunde Thornton und 
 <entry key="rights">Public Domain</entry>
 <entry key="pubDate">1925</entry>
 <entry key="toc">true</entry>
-<entry key="toc-entries">h1</entry>
+<entry key="toc-entries">h1, h3</entry>
 <entry key="freemarker">true</entry>
 </properties>
 

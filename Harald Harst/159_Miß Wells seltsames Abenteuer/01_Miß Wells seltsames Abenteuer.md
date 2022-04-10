@@ -20,7 +20,7 @@ ritt.
 Weißgekleidet, schlank und kühl aussehend, saß er lässig
 im Sattel, und die Hitze schien ihm nichts anzuhaben. Frisch
 und energisch sah er aus. Kein Wunder, denn er war eine
-sehnige, fast Hagere Erscheinung, hatte kein Quentchen Fett
+sehnige, fast hagere Erscheinung, hatte kein Quentchen Fett
 zu viel auf seinen Muskeln. Während ich — ach, Du lieber
 Gott, wenn ich schon mal bei unseren Strapazen und Abenteuern
 ein paar Pfund verlor, sobald ich etwas Ruhe hatte,
@@ -28,7 +28,7 @@ setzte ich sofort wieder Speck an, der mich in dem heißen indischen
 Lande Ströme von Schweiß vergießen ließ.
 
 An mir bestätigte sich wahrhaftig das Sprichwort, daß
-aus einem Mops nun mal kein Wachhund wird.
+aus einem Mops nun mal kein Windhund wird.
 
 Ich seufzte.
 
@@ -156,7 +156,7 @@ der »Khansama«.
 »Das Bad ist bereit und das Frühstück angerichtet,
 Sahibs,« sagte der Mann zu meinem großen Vergnügen.
 Ich sah, daß vor unseren Fenstern, die auf die Veranda
-mündeten, ein gedeckten Tisch stand und betrat eilig mein
+mündeten, ein gedeckter Tisch stand und betrat eilig mein
 Zimmer, um meine Kleider zu wechseln und mich mal in
 die Wanne zu tauchen.
 
@@ -192,7 +192,7 @@ erstere schwatzte, wie es seine Art war.
 Der Khansama machte ein verblüfftes Gesicht.
 
 »Aber der Sahib hat die Dame nicht kommen sehen,
-der Sahib war ausgeritten uns die Dame ist nicht zu sehen,
+der Sahib war ausgeritten und die Dame ist nicht zu sehen,
 ruht auf ihrem Zimmer aus. Der Sahib konnte nicht wissen,
 weil die Dame nicht sehen,« schnatterte er.
 
@@ -207,7 +207,7 @@ Ich schüttelte verblüfft den Kopf. Ich hatte nichts gerochen!
 Teufel auch, mußte Harst eine Nase haben, denn an
 Stockschnupfen leide ich doch auch nicht gerade!
 
-»Lavendelwasser ist das A und o der Engländerinnen,«
+»Lavendelwasser ist das A und O der Engländerinnen,«
 bemerkte Harst, »der Schluß, daß eine Dame eingetroffen
 ist, ist also sehr einfach.«
 
@@ -270,7 +270,7 @@ Sie nichts dagegen haben.«
 »Es wird uns eine Freude sein,« sagte Harst, während
 ich Tolpatsch stumm wie ein Fisch blieb.
 
-»Khansama, bringe mir Kaffee,« befahl Miß. Thornton.
+»Khansama, bringe mir Kaffee,« befahl Miß Thornton.
 
 Nachdem sich der Khansama mit seinem Gehilfen entfernt
 hatte, um dem Befehle nachzukommen, neigte sich die
@@ -311,7 +311,7 @@ ihren Sonnenschlummer zu halten.
 Die Begegnung mit einer Kobra wäre meinem kostbaren
 Leben beinahe einmal verhängnisvoll geworden, daher
 meine Vorsicht. Doch das ist eine Geschichte, die
-ein andere Mal erzählen will. Vorläufig will ich mich
+ein anderes Mal erzählen will. Vorläufig will ich mich
 und meine Leser auf die Angelegenheit der Mrs. Thornton
 konzentrieren.
 
@@ -346,7 +346,7 @@ gedämpfter Stimme fort:
 
 »Mein Mann ist Forstinspektor der indischen Regierung
 und hat einen ziemlich ausgedehnten Forstbezirk zu
-kontrollieren. Unser eigentlichen Wohnsitz ist der Ort
+kontrollieren. Unser eigentlicher Wohnsitz ist der Ort
 Gullunpore —«
 
 »Das ist ziemlich weit von hier,« entgegnete Harst.
@@ -392,7 +392,7 @@ Indien zu gehen hatte Renate im letzten Jahre mit ihrem
 Bruder korrespondiert. Fitzroy freute sich bereits auf die
 Ankunft seiner Schwester. Aber wie gesagt, Renate sollte
 erst von England abreisen, wenn die alte Dame in ihr Stift
-eingetreten war. Als ich nun auf dem plane erschien, noch
+eingetreten war. Als ich nun auf dem Plane erschien, noch
 dazu als alte Bekannte Fitzroy Wells’, wollte sich das junge
 Mädchen am liebsten mir gleich anschließen und die Reise
 nach Indien unter meinem Schutze machen.
@@ -524,7 +524,7 @@ wenig Fieber, nicht schlimm, aber können nicht kommen.
 Werden aber bald gesund sein.«
 
 Mir fiel tatsächlich ein Stein vom Herzen und ich sah
-meinem Mann an, das auch er aufatmete. Nun war erklärt,
+meinem Mann an, daß auch er aufatmete. Nun war erklärt,
 warum Wells nicht nach Bombay kam, warum er nicht
 in Gullunpore erschien. Aber trotzdem sträubte ich mich dagegen,
 Renate mit den beiden Dienern fahren zu lassen.
@@ -632,9 +632,9 @@ haben Sie sie nicht mitgebracht?«
 
 Hätte ich eine Bombe zu Wells’ Füßen geschleudert, die
 Wirkung hätte nicht verblüffender sein können. Er starrte
-mich an, als sei ich eine wahnsinnige.
+mich an, als sei ich eine Wahnsinnige.
 
-»Ich bin nicht krank gewesen, Mrs Thornton,« sagte
+»Ich bin nicht krank gewesen, Mrs. Thornton,« sagte
 er dann langsam, »und — und wie kann ich meine Schwester
 mitbringen, da sie in England ist.«
 
@@ -693,12 +693,12 @@ in dieser Gegend gebracht —?«
 »O, Sie wissen ja, wie die Eingeborenen schwatzen.
 Nachrichten verbreiten sich in Indien rasch von Mund zu
 Mund. Ich hörte, daß Sie in der Nähe seien, auf der Reise
-zu den festen des Radscha von Malewe begriffen. Da
+zu den Festen des Radscha von Malewe begriffen. Da
 der Dargilew-Bungalow das einzige Rasthaus in der Nähe
 ist, war es gewiß, daß ich Sie hier treffen würde. Ich bestieg
 also mein Pferd und ritt davon.«
 
-»Sagten Sie, daß Sie mich aussuchen würden?«
+»Sagten Sie, daß Sie mich aufsuchen würden?«
 
 »Nein, nein, Mr. Harst, weder mein Mann, noch der
 völlig gebrochene Wells haben eine Ahnung von meinem
@@ -756,7 +756,7 @@ Thornton wandte sich sofort gegen ihn.
 welcher Richtung sich Ihr Verdacht bewegt, aber auf den
 Zemindar Saoli darf er sich keineswegs ausdehnen. Das
 ist ein alter, weißbärtiger und würdiger Mann, den strengen
-Sitten und Gesetzen seines volles, die eine hohe Moral
+Sitten und Gesetzen seines Volkes, die eine hohe Moral
 haben, sklavisch untertan. Zemindar Saoli ist ein Greis.
 Seine Hauptfrau ist seit langem verstorben. In seinen
 Zenanas leben nur noch Dienerinnen.«
@@ -782,14 +782,14 @@ ist. Der Zemindar Saoli hat seinen Neffen schon als
 Knaben mit der Tochter eines reichen Zemindar aus dem
 Norden verehelicht. Die Festlichkeiten zwischen den kindlichen
 Partnern wurde mit großem Pomp begangen, worauf
-die beiden vermählten in das Haus ihres Vaters resp.
+die beiden Vermählten in das Haus ihres Vaters resp.
 Oheims zurückkehrten. Saolus ist Ehemann, obgleich er
 erst neunzehn Jahre zählt, seine Gattin erreicht im nächsten
 Jahre, wo sie 14 zählen wird, das mannbare Alter. Sie
 wird dann endgültig ihrem Gemahl zugeführt werden und
 in den Zenanas des Saoli ihren Platz als Gattin des Neffen
 erhalten. Diese alte, gute indische Familie schaltet für
-Ihren Verdacht aus, Mr. Haus!.«
+Ihren Verdacht aus, Mr. Harst.«
 
 »Dann müssen unsere Nachforschungen eben nach einer
 <@pagebreak/>
@@ -912,7 +912,7 @@ davon.«
 
 »Wohin,« sagte ich schlaftrunken.
 
-»Nach Dargewpore, Miß Wels suchen.«
+»Nach Dargewpore, Miß Wells suchen.«
 
 Ach, wenn ich an diese Mahlzeit noch denke! Ich mußte
 sie in Eile hinunterwürgen, denn Harst drängte zum Aufbruch.
@@ -929,7 +929,7 @@ die hinteren Wirtschaftsräume verbannt und Harst und ich
 kostümierten uns als Inder. Dagegen hatte ich gar nichts,
 die Maskerade war ich auf unseren indischen Abenteuern
 schon gewöhnt! Aber die Abzeichen, die er mir anmalte,
-die waren geradezu ehrenrührig um kein Protest meinerseits
+die waren geradezu ehrenrührig und kein Protest meinerseits
 half!
 
 Wie man weiß, hat in Indien jede Kaste, jede Religionsform
@@ -967,7 +967,7 @@ ein Fest geben.
 
 Wir zogen uns lange nach Mitternacht auf unser primitives
 Lager zurück, denn jeder Bazar hat auch Raststätten,
-die an Fremde; natürlich nur Eingeborene, als die wir ja
+die an Fremde, natürlich nur Eingeborene, als die wir ja
 galten, vermietet werden.
 
 Als wir nun auf dem ärmlichen Pritschenbett ruhten,
@@ -1023,7 +1023,7 @@ in einer großen, offenen Halle. Nach der Mahlzeit durften
 <@pagebreak/>
 die Frauen des Hauses in die Halle kommen und sich Gaukler,
 Schwerttänzer und Schlangenbeschwörer ansehen. Sie
-kicherten hinter ihren Schleier und ich fand mit meinen
+kicherten hinter ihren Schleiern und ich fand mit meinen
 Karten sehr viel Anklang bei ihnen. Nachdem ich fast allen
 gewahrsagt und das Blaue vom Himmel heruntergelogen
 hatte, zog ich mich in eine Ecke zurück. Zu essen hatte ich
@@ -1104,7 +1104,7 @@ und sicher diese ganze Geschichte von Anfang an durchschaut
 hatte.
 
 Die Stunden vergingen. Draußen tobte das Geräusch
-des festes. Sicher war es schon Nacht. Plötzlich wurde die
+des Festes. Sicher war es schon Nacht. Plötzlich wurde die
 Tür aufgeschlossen, Lichtschein fiel herein und zu meiner
 Verblüffung traten der Zemindar und — Harst ins Gemach.
 
@@ -1204,7 +1204,7 @@ zu essen! Halbverhungert war ich.
 <@pagebreak/>
 Mr. Wells war sehr aufgebracht und wollte die Angelegenheit
 nicht ohne weiteres ruhen lassen. Aber Miß Wells
-bat um des Alten wissen um Schweigen und Harst nahm
+bat um des Alten willen um Schweigen und Harst nahm
 den jungen Mann abseits und sagte ernst:
 
 »Lassen Sie die Geschichte ruhen, Mr. Wells: wenn es
@@ -1214,6 +1214,5 @@ ihrem Ruf schaden. Wie Sie sehen, ist sie wohl und munter
 und das Reuegeschenk des Zemindar ist geradezu fürstlich.«
 
 Lange noch saßen wir auf und unterhielten uns im
-Flüstertone über Miß Wells’ seltsames Abenteurer.
-
+Flüstertone über Miß Wells’ seltsames Abenteuer.
 
