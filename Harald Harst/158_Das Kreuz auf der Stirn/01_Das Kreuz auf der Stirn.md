@@ -2,7 +2,7 @@
 
 <h1>Das Kreuz auf der Stirn</h1>
 
-> In den folgenden Seiten veröffentliche ich ein Manuskript, das mir durch einen Zufall in die Hände geriet. Ich kaufte bei einem Fliegenden Buchhändler Ecke Potsdamer Straße und Lützowstraße einen uralten, Schmöker, an dem mich eigentlich nur der Einband reizte. Daheim entdeckte ich, daß hinten in dem Buche Blätter modernen Papiers eingeheftet waren, die mit einer überaus zierlichen Schrift bedeckt waren. Ich las, — und was ich las, fesselte mich derart, daß ich es hier mit geringfügigen Abänderungen wörtlich wiedergebe. — Meine Bemerkungen zu den tagebuchähnlichen Aufzeichnungen eines Mörders von seltenem Raffinement will ich dem Leser durch Einrücken besonders kenntlich machen.
+> In den folgenden Seiten veröffentliche ich ein Manuskript, das mir durch einen Zufall in die Hände geriet. Ich kaufte bei einem Fliegenden Buchhändler Ecke Potsdamer Straße und Lützowstraße einen uralten Schmöker, an dem mich eigentlich nur der Einband reizte. Daheim entdeckte ich, daß hinten in dem Buche Blätter modernen Papiers eingeheftet waren, die mit einer überaus zierlichen Schrift bedeckt waren. Ich las, — und was ich las, fesselte mich derart, daß ich es hier mit geringfügigen Abänderungen wörtlich wiedergebe. — Meine Bemerkungen zu den tagebuchähnlichen Aufzeichnungen eines Mörders von seltenem Raffinement will ich dem Leser durch Einrücken besonders kenntlich machen.
 
 * * *
 
@@ -118,7 +118,7 @@ Und jetzt ist mit einem Schlage das Außergewöhnliche auf mich eingedrungen wie
 
 Was bedeutet dies alles?!
 
-Ich, Fritz Hubert, Maler ohne Namen, Handwerker, Fabrikant von Kopien, mit denen sich Herr Neureich und Herr Raffke die Salonwände behängen, - ich bin plötzlich in eine mir bis dahin verschlossene romantische Welt versetzt worden …
+Ich, Fritz Hubert, Maler ohne Namen, Handwerker, Fabrikant von Kopien, mit denen sich Herr Neureich und Herr Raffke die Salonwände behängen, — ich bin plötzlich in eine mir bis dahin verschlossene romantische Welt versetzt worden …
 
 Diese Welt ist das Wintersche Haus, Promenadenweg Nr. 2 …
 
@@ -247,7 +247,7 @@ Reicht mir ein paar beschriebene Blätter …
 
 »Allerdings nicht …«
 
-»Mithin … — er macht eine Gedankenpause — »mithin, Herr Hubert: Sie müssen sich irren! Diesen Brief haben Sie wahrscheinlich anderswo erhalten und bilden sich nur ein, ihn hier …«
+»Mithin …« — er macht eine Gedankenpause — »mithin, Herr Hubert: Sie müssen sich irren! Diesen Brief haben Sie wahrscheinlich anderswo erhalten und bilden sich nur ein, ihn hier …«
 
 »Pardon, — ich weiß, was ich weiß …! Ich bin nicht betrunken, bin im Besitz meiner gesunden fünf Sinne … — Ich betone, Herr Fiedler: der Fremde reichte mir den Brief aus Ihrer Tür! Mein Wort darauf! — und damit Sie merken, daß in diesem Hause noch mehr Dinge passieren, die die Bezeichnung »unerklärlich« verdienen, hören Sie folgendes …«
 
@@ -467,7 +467,7 @@ Da lachte sie mit einem Male …
 
 Oh — es war ein Lachen, das tief ins Herz schnitt, ein Lachen, das mein Lob dieses Heims völlig austilgte …
 
-Ich war über dieses Lachen so Verwirrt, daß ich Hilde nur ängstlich anschaute …
+Ich war über dieses Lachen so verwirrt, daß ich Hilde nur ängstlich anschaute …
 
 Und da fühlte sie wohl, daß sie sich eine Blöße gegeben hatte … Da sagte sie schnell, um diese ihre schreckliche Heiterkeit zu bemänteln:
 
@@ -479,7 +479,7 @@ Viel zu hastig, als daß es mir nicht hätte auffallen sollen … —
 
 Ich war wieder allein …
 
-Ich war allein und merkte, das meine Ruhe und meine Gleichgültigkeit diesem Lachen Hildes nicht gewachsen waren …
+Ich war allein und merkte, daß meine Ruhe und meine Gleichgültigkeit diesem Lachen Hildes nicht gewachsen waren …
 
 Ich fühlte jetzt mit aller Deutlichkeit: die beiden warnenden Mitteilungen sind berechtigt gewesen!! Hier ist nicht alles so, wie es sein soll! Hier gehen unsichtbare Gespenster um! Hier wird sich noch mehr ereignen als das, was ich bisher erlebte …!
 
@@ -547,7 +547,7 @@ Diese Augen verrieten ihn …
 
 Diese Augen höhnten und spotteten …
 
-Und — mit einem Schlage wurde mir dieser Mensch geradezu unheimlich - unheimlich wie ein geriebener Verbrecher, wie ich sie aus englischen Kriminalromanen kannte, die mit Vorliebe derartige verkappte Übeltäter mit dem biederen Äußeren ehrbarer Bürger als Hauptpersonen bringen …
+Und — mit einem Schlage wurde mir dieser Mensch geradezu unheimlich — unheimlich wie ein geriebener Verbrecher, wie ich sie aus englischen Kriminalromanen kannte, die mit Vorliebe derartige verkappte Übeltäter mit dem biederen Äußeren ehrbarer Bürger als Hauptpersonen bringen …
 
 Ich traute jetzt diesem Winter alles Schlechte zu … —
 
@@ -661,7 +661,7 @@ Denn Hilde flüsterte jetzt plötzlich mit halb erstickter Stimme:
 
 Und ich nahm ihre Hand …
 
-Inwiefern? So sprechen Sie doch, Fräulein Hilde …!«
+»Inwiefern? So sprechen Sie doch, Fräulein Hilde …!«
 
 »Sie … Sie … sollen … bitte nichts … zur Anzeige bringen …!!«
 
@@ -841,13 +841,13 @@ Das alte Fräulein hatte die welken Hände im Schoße gefaltet …
 
 <@pagebreak/>
 
-»Es ist wirklich so, Herr Hubert … Drüben über der Straße liegt doch die neue große Mietkaserne … und dort wohnen seit acht Tagen zwei Herren bei der Witwe Raschke im ersten Stock … Von den beiden sitzt immer einer am Fenster mit einem Fernglas - hinter den Gardinen, und wenn Winter ausgeht, ist stets einer der Herren sofort hinter ihm her. Ich glaube fast, es sind Kriminalbeamte … Ob Sie das nicht feststellen könnten, Herr Hubert, — schon in Hildes Interesse?«
+»Es ist wirklich so, Herr Hubert … Drüben über der Straße liegt doch die neue große Mietkaserne … und dort wohnen seit acht Tagen zwei Herren bei der Witwe Raschke im ersten Stock … Von den beiden sitzt immer einer am Fenster mit einem Fernglas — hinter den Gardinen, und wenn Winter ausgeht, ist stets einer der Herren sofort hinter ihm her. Ich glaube fast, es sind Kriminalbeamte … Ob Sie das nicht feststellen könnten, Herr Hubert, — schon in Hildes Interesse?«
 
 »Oh — das werde ich … Gern sogar, sehr gern … Für Fräulein Hilde tue ich alles — mit Freuden!«
 
 »Das ist lieb von Ihnen …«
 
-»Nein, — das ist Pflicht, Fräulein Wendig … denn Hilde rechnet auf mich als Freund … und sie soll sich in mir nicht getäuscht haben … Ich werde mir schon einend Plan zurechtlegen, wie ich mir über diese Spione Aufschluß verschaffen kann …«
+»Nein, — das ist Pflicht, Fräulein Wendig … denn Hilde rechnet auf mich als Freund … und sie soll sich in mir nicht getäuscht haben … Ich werde mir schon einen Plan zurechtlegen, wie ich mir über diese Spione Aufschluß verschaffen kann …«
 
 Dann fiel mir etwas ein …
 
@@ -1087,7 +1087,7 @@ Jetzt erlebte ich den Triumph, daß die beiden Detektive Harst und Schraut <em>m
 
 Und der kleinere, Herr Schraut, meinte mit einem geradezu bestürzten Gesicht:
 
-»Harald, dann sind all Deine Theorien falsch! Dann stimmt nichts von dem, was wir bisher angenommen haben.
+»Harald, dann sind all Deine Theorien falsch! Dann stimmt nichts von dem, was wir bisher angenommen haben.«
 
 Mich aber trieb die Neugier, Kenntnis von dem weiteren Inhalt des Briefes zu erhalten … Hastig las ich:
 
@@ -1175,7 +1175,7 @@ worden war, wurde ich, der ich mich zumeist bei Fräulein Wendig aufhielt und Hi
 
 Sie hatten sich sehr verändert, da sie ihre Verkleidungen abgelegt hatten und durchaus den von ihnen häufig veröffentlichten Bildern glichen.
 
-Ich glaube, ich kann mir eine Beschreibung des Äußeren der beiden Herren schenken, da Leute von ihrer internationalen Berühmtheit jedem bekannt sind, der sich nur etwas um sensationelle Ereignisse kümmert. Außerdem — ich schreibe dies hier nur für mich — — aus sehr triftigen Gründen. Und wenn ich jemals daran denken sollte, diesem Tagebuch anonym einem Verleger einzusenden oder es sonstwie der großen Menge zugänglich zu machen, so kann jeder, der es liest, sich bequem die Bilder von Harst und Schraut beschaffen.
+Ich glaube, ich kann mir eine Beschreibung des Äußeren der beiden Herren schenken, da Leute von ihrer internationalen Berühmtheit jedem bekannt sind, der sich nur etwas um sensationelle Ereignisse kümmert. Außerdem — ich schreibe dies hier nur für mich — — aus sehr triftigen Gründen. Und wenn ich jemals daran denken sollte, dieses Tagebuch anonym einem Verleger einzusenden oder es sonstwie der großen Menge zugänglich zu machen, so kann jeder, der es liest, sich bequem die Bilder von Harst und Schraut beschaffen.
 
 Also ich wurde durch einen Kriminalbeamten geholt …
 
@@ -1327,7 +1327,7 @@ Ich sprang auf …
 
 »Herr Harst, haben Sie etwa auf … auf Hilde Verdacht?! — Das wäre ja …«
 
-»Bitte — regen Sie sich nicht auf, Herr Hubert … Mir und in meiner Praxis Fälle vorgekommen, wo die sanftesten Mädchen, durch einen brutalen Vater zur Verzweiflung getrieben, zu Mörderinnen wurden …«
+»Bitte — regen Sie sich nicht auf, Herr Hubert … Mir sind in meiner Praxis Fälle vorgekommen, wo die sanftesten Mädchen, durch einen brutalen Vater zur Verzweiflung getrieben, zu Mörderinnen wurden …«
 
 Ich hielt die Stuhllehne umklammert …
 
@@ -1345,7 +1345,7 @@ Wohltat war mir der Schmerz in den Innenflächen der Hand …
 
 Wohltat, weil er mich aufpeitschte zu einer Energie, die ich in diesem Moment nur zu nötig hatte …
 
-»Das — ist ja Wahnwitz!!« rief ich … Wahnwitz!! Hilde, dieses gute, liebe Geschöpf, soll …«
+»Das — ist ja Wahnwitz!!« rief ich … »Wahnwitz!! Hilde, dieses gute, liebe Geschöpf, soll …«
 
 Harst winkte mir begütigend zu …
 
@@ -1427,7 +1427,7 @@ Als ich mit Hilde am Grabe stand und ihren Arm zärtlich an mich drückte, da is
 
 Nein — ich kann es nicht! Es geht über meine Kraft! Es wäre — — ein Verbrechen! Und ich will kein … — Hier zögert meine Feder, den begonnenen Satz zu vollenden … —
 
-Wir haben in Fräulein Wendigs behaglichem Heim nach dem Begräbnis über unsere Zukunft gesprochen. Fräulein Wendig meinte, es sei am besten, wenn Hilde und ich in aller Stille recht bald heirateten. — August Winter hat kein Testament hinterlassen. Hilde ist sein einziges Kind und somit Erbin des Hausen und eines Vermögens von rund dreißigtausend Mark, das Winter schon 1912 in holländischen Papieren festgelegt hatte. Wir könnten also von den Zinsen und dem Ertrag meiner Arbeit recht gut leben, da wir beide sehr anspruchslos sind.
+Wir haben in Fräulein Wendigs behaglichem Heim nach dem Begräbnis über unsere Zukunft gesprochen. Fräulein Wendig meinte, es sei am besten, wenn Hilde und ich in aller Stille recht bald heirateten. — August Winter hat kein Testament hinterlassen. Hilde ist sein einziges Kind und somit Erbin des Hauses und eines Vermögens von rund dreißigtausend Mark, das Winter schon 1912 in holländischen Papieren festgelegt hatte. Wir könnten also von den Zinsen und dem Ertrag meiner Arbeit recht gut leben, da wir beide sehr anspruchslos sind.
 
 Hilde war mit Fräulein Wendigs Vorschlägen durchaus einverstanden. Sie saß neben mir, Hand in Hand, und in ihren lieben Augen war so viel Zärtlichkeit, daß … es mir fast weh tat!
 
@@ -1459,7 +1459,7 @@ Ich will hier einen der Artikel über den Mord wörtlich anführen, da er alles 
 
 > Man denke: Winter wird mit einer merkwürdigen Wunde auf der Stirn aufgefunden — einem Kreuz, das aus zwei feinen Schnitten besteht.
 
-> Die Obduktion hat festgestellt, daß das Messerchen, mit dem diese geringen Wunden hervorgerufen wurden, vergiftet war. Das Gift ist als das bekannte Nervengift Curare erkannt worden. Es wirkt sehr rasch. und trotzdem hat Winter noch die Kraft gehabt, den Zettel zu schreiben …
+> Die Obduktion hat festgestellt, daß das Messerchen, mit dem diese geringen Wunden hervorgerufen wurden, vergiftet war. Das Gift ist als das bekannte Nervengift Curare erkannt worden. Es wirkt sehr rasch. Und trotzdem hat Winter noch die Kraft gehabt, den Zettel zu schreiben …
 
 > Diesen Zettel, der den Mörder nennt — mit dem Vornamen … Ein St oder ein M?! Man weiß es nicht …
 
@@ -1509,7 +1509,7 @@ Nur im ersten Moment …
 
 Ich habe nichts zu fürchten. Meine Festung ist stark und zuverlässig. Ich allein bin der Verteidiger, und ich werde mich nicht verraten … —
 
-Nachdem ich das elektrische Licht eingeschaltet hatte - alle vier Lampen, die ich als Maler brauche —, bat ich die Herren Platz zu nehmen …
+Nachdem ich das elektrische Licht eingeschaltet hatte — alle vier Lampen, die ich als Maler brauche —, bat ich die Herren Platz zu nehmen …
 
 Harst war liebenswürdig, aber zurückhaltend …
 
@@ -1561,7 +1561,7 @@ Jetzt war’s an mir, aufrichtig zu rufen: »Herr Harst, das … das ist doch ei
 
 »Nein, Herr Hubert, es ist Tatsache! Denn Fräulein Hilde wußte von alledem … Fräulein Hilde hat freilich nur zufällig gemerkt, daß diese vier Mieter ein und dieselbe Person waren — eben ihr Vater. Zufällig ist sie dahinter gekommen … Und hat umsonst ihren Vater angefleht, dies gewagte, zwecklose Spiel aufzugeben, hat auch vor einem halben Jahre erreicht, daß Winter … die beiden angeblichen Seeleute Grimm und Goster … verschwinden ließ, indem er auf diese dreifache Rolle als Winter, Grimm, Goster verzichtete … — Aber diese Besserung hielt nicht lange an … Er ließ neue Mieter auftauchen: Garbrich und Fiedler! — Armes Fräulein Hilde, was muß sie gelitten haben …!! Mit einem Manne zusammenzuhausen, der ihr Vater und der … ein Geistesgestörter war!! — Wenn
 <@pagebreak/>
-Sie nun, Herr Hubert, Ihre Erlebnisse hier unter Berücksichtigung dieser Tatsachen nochmals prüfen, dann entwirren sich all die dunklen Punkte ganz von selbst. Ein Weib reichte Ihnen aus Garbrichs Wohnung den Zettel: Das Weib war Winter! — Ein Mann gibt Ihnen aus Fiedlers Wohnung einen Brief: es war Winter! - Sie sehen Winters Schatten auf Garbrichs Fenstervorhängen, — einfach genug, denn Winter hatte sich von seiner Wohnung eine Falltür nach Garbrichs Küche angelegt, so daß er nach oben konnte, ohne die Treppe zu benutzen!«
+Sie nun, Herr Hubert, Ihre Erlebnisse hier unter Berücksichtigung dieser Tatsachen nochmals prüfen, dann entwirren sich all die dunklen Punkte ganz von selbst. Ein Weib reichte Ihnen aus Garbrichs Wohnung den Zettel: Das Weib war Winter! — Ein Mann gibt Ihnen aus Fiedlers Wohnung einen Brief: es war Winter! — Sie sehen Winters Schatten auf Garbrichs Fenstervorhängen, — einfach genug, denn Winter hatte sich von seiner Wohnung eine Falltür nach Garbrichs Küche angelegt, so daß er nach oben konnte, ohne die Treppe zu benutzen!« 
 
 Ich saß wie erschlagen da …
 

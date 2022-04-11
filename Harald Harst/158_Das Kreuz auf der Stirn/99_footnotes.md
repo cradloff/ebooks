@@ -9,7 +9,7 @@ Heft 160 enthielt dann aber bereits einen Zettel beigefügt, welcher besagt:
 
 <p class="centered">»<em><strong>An unsere Leser!</strong></em></p>
 
-> > Auf die vielfachen Anfragen aus dem Leserkreise teilen wir hierdurch mit, daß der nächste Band von »Der Detektiv« (Nr. 161) »<strong>Der Spiritistenklub</strong>« wieder von Walther Kabel geschrieben ist. Auch die weiteren folgenden Bände sind in der alten spannenden und interessanten Weise von Walther Kabel geschrieben.
+<p class="indent2">Auf die vielfachen Anfragen aus dem Leserkreise teilen wir hierdurch mit, daß der nächste Band von »Der Detektiv« (Nr. 161) »<strong>Der Spiritistenklub</strong>« wieder von Walther Kabel geschrieben ist. Auch die weiteren folgenden Bände sind in der alten spannenden und interessanten Weise von Walther Kabel geschrieben.</p>
 
 <p class="right"><em>Der Verlag.</em>«</p>
 </@footnote>
