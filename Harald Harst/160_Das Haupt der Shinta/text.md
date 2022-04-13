@@ -351,7 +351,7 @@ Harst seinen Brief vollendet,
 
 Er lautete:
 
-> > An den englischen Kommandanten,
+> An den englischen Kommandanten,
 
 > Sehr geehrter Herr! Sie sind auf dem Holzwege,
 wenn Sie nach Dieben suchen. Fragen Sie bei dem Gatten
@@ -1424,53 +1424,53 @@ Wir nahmen Kurs nach der Insel Ceylon.
 Ceylon, die wundervolle Insel südlich vom großen, indischen
 Reiche, ist der Hauptfundplatz der Welt für Edelsteine.
 Die wundervollsten Rubinen, höher im Wert wie
-die schönsten Liamanten, Person hier gefunden. Saphire
-von köstlicher Braun sind aus Ceylon, ebenso die grünen
-funkelnden Smaragde. Die Halbedelsteine sind — ebenfalls
-reich vertreten: Spalte, Chrysolithe, Türkise und wie sie alle
-heißen, bilden einen wesentlichen Faktor des handelt.
+die schönsten Diamanten, werden hier gefunden. Saphire
+von köstlicher Bläue sind aus Ceylon, ebenso die grünen
+funkelnden Smaragde. Die Halbedelsteine sind ebenfalls
+reich vertreten: Opale, Chrysolithe, Türkise und wie sie alle
+heißen, bilden einen wesentlichen Faktor des Handels.
 
 Colombo, die Hauptstadt und Hafenstadt der Insel ist
 der Haupthandelsplatz für die Ceylon-Steine, er beherrscht
 den Weltmarkt.
 
 Vor drei Tagen waren Harald Harst und ich mit der
-»Atlanta« im! Colombo-Hafen eingelaufen, Zu unserer Bestürzung
-kam sofort ein säncidiger, junger Herr an Bord,
-Mr. Gier der Inspektor der Ceylon:Polizei. Unserem alten
+»Atlanta« im Colombo-Hafen eingelaufen. Zu unserer Begrüßung
+kam sofort ein schneidiger, junger Herr an Bord,
+Mr. Grey der Inspektor der Ceylon-Polizei. Unserem alten
 Freunde Greep hatten wir diese Aufmerksamkeit zu verdanken.
 Von Pondicherry hatte er per Funkspruch seinem
-Kollegen das Eintreffen des berühmten Detektive Harst gemeldet,
-und Gier hatte es sich nicht nehmen lassen, uns persönlich
-zu bewillkommumen,
+Kollegen das Eintreffen des berühmten Detektivs Harst gemeldet,
+und Grey hatte es sich nicht nehmen lassen, uns persönlich
+zu bewillkommnen,
 
-Während die »Liilanta« im Hafen liegen blieb, um
+Während die »Atlanta« im Hafen liegen blieb, um
 <@pagebreak/>
-Schnurrige Maschinenreparaturen durchzumadjen und sieh an;
-nur Kohlen zu versehen, führte uns Mr. Gier in das erst:
-t’asjiaste Hotel von Ceylon, das Oberhand-Hotel, wo er auf:
-verkfjamerweise Zimmer jsür uns belegt hatte.
+einige Maschinenreparaturen durchzumachen und sich neu
+mit Kohlen zu versehen, führte uns Mr. Grey in das erstklassigste
+Hotel von Ceylon, das Shephard-Hotel, wo er aufmerksamerweise
+Zimmer für uns belegt hatte.
 
-Harald Harst selbst war ein ausgezeichneter Kenner von!
+Harald Harst selbst war ein ausgezeichneter Kenner von
 Edelsteinen, und er war nach Ceylon gegangen, um in
-Kolombo einige schöne Stricke für seine Sammlung daheim
-zu kaufen, die er zum Andenken zu seine Fahrt um die Welt
-natnchiuien wollte.
+Kolombo einige schöne Stücke für seine Sammlung daheim
+zu kaufen, die er zum Andenken an seine Fahrt um die Welt
+mitnehmen wollte.
 
-Kaum hatte Inspektor Gier gehört, daß sich Harst für
+Kaum hatte Inspektor Grey gehört, daß sich Harst für
 Edelsteine interessierte, als er uns versprach, uns mit einem
-alten, seit einem Menschenaffen in Ceylon ansässigen Großhändler
-Frisur Edelsteine bekannt zu machen, der Harst bei
+alten, seit einem Menschenalter in Ceylon ansässigen Großhändler
+für Edelsteine bekannt zu machen, der Harst bei
 seinen Einkäufen unterstützen sollte.
 
 Mr. Black, so hieß der Großhändler, war ein enorm
-reicher Mann. Er hatte kaum durch Gier vom Eintreffen
+reicher Mann. Er hatte kaum durch Grey vom Eintreffen
 des berühmten Weltdetektivs Kenntnis erhalten, als er uns
-im Oberhand-Hotel seine Visite machte.
+im Shephard-Hotel seine Visite machte.
 
-Mr. Black war ein kleiner, »beweglichen, runder, weiß:
-haariger Herr, sehr jovial und freundlich. (Er versprachen
-Harst in jeder Weise dienlich zu sein, und nahm uns im seinem
+Mr. Black war ein kleiner, beweglicher, runder, weißhaariger
+Herr, sehr jovial und freundlich. Er versprach
+Harst in jeder Weise dienlich zu sein, und nahm uns in seinem
 Wagen zu einer Ausfahrt mit, um uns Colombo zu
 zeigen.
 
@@ -1478,131 +1478,123 @@ Colombo ist eine großartige Handels- und Hafenstadt,
 und das Europäerviertel mutet an, wie die Großstädte
 Europas. Im Eingeborenenviertel, die »untere Stadt« genannt,
 herrschte buntes, reges Treiben. Hier wohnen Chinesen,
-Inder, Malaien und alle Arten Mischlinge im van:
-ten Durcheinander.
+Inder, Malaien und alle Arten Mischlinge im bunten
+Durcheinander.
 
-»In diesem Viertel wohnt ein aller Portugiese,« sagte
-uns Black bei unserer Ausfahrt, »namens lose de Rosario.
-Er ist einer der besten Evdelsteinkenner und Edelsteinschlei
-sei Colombos. Er bekommt alle meine rohen Steine zur
+»In diesem Viertel wohnt ein alter Portugiese,« sagte
+uns Black bei unserer Ausfahrt, »namens Josee de Rosario.
+Er ist einer der besten Edelsteinkenner und Edelsteinschleifer
+Colombos. Er bekommt alle meine rohen Steine zur
 Bearbeitung, und ich werde Sie später zu ihm führen. Ich
-weiß, daß er jetzt einige besonders schöne Stücke zum Sccläliff
+weiß, daß er jetzt einige besonders schöne Stücke zum Schliff
 hat, und ich werde den Kauf für Sie vermitteln. Zuerst
 <@pagebreak/>
 aber müssen Sie die Einladungen in der Europäerkolonie
 Colombos absolvieren, lieber Mr. Harst!«
 
 Umsonst versicherte mein Freund lachend, daß er gar
-seine gestrige Natur sei und Leinen Spaß am GeseUscrasich-leven
+keine gesellige Natur sei und keinen Spaß am Gesellschaftsleben
 habe. Mr. Black ließ keine Einwände gelten.
 
-»Alle brennen daraus, den berühmten Harald Harst kennen
+»Alle brennen darauf, den berühmten Harald Harst kennen
 zu lernen,« versicherte er lebhaft, »Sie dürfen die Leute,
-die sich so auf Ihre Bekanntsäyast freuen, nicht enttäuschen!«
+die sich so auf Ihre Bekanntschaft freuen, nicht enttäuschen!«
 
-So waren wir denn immer unterwegs zu Frühstütks-,
-Mittags- und Abendeinladungen und soeben, es war als
-Abend des dritten Tages, saßen wir im Salon unseres?
-Hotelappartements und warteten daraus, daß uns der bestellte
-Wagen gemeldet gehörte.
+So waren wir denn immer unterwegs zu Frühstücks-,
+Mittags- und Abendeinladungen und soeben, es war am
+Abend des dritten Tages, saßen wir im Salon unseres
+Hotelappartements und warteten darauf, daß uns der bestellte
+Wagen gemeldet würde.
 
 Wir waren zu einer Gesellschaft eingeladen, die bei
 einer Mrs. Hellway stattfinden sollte,
 
-Mrs. Hellway war eine seinem reiche Witwe. Sie war
-die Gattin eines Edelsteinhändlers und Konmpagnon5 des
+Mrs. Hellway war eine enorm reiche Witwe. Sie war
+die Gattin eines Edelsteinhändlers und Kompagnons des
 Mr. Black gewesen. Nach dem Tode Hellways hatte Mr.
-Black das Geschäft allein übernommen, aber er verehrte
-noch freundschaftlich in dem palastähnlichen Hause der 1 …ä;c,
-er hatte uns dort eingeführt. Wirt. Hell war hatte jagt ihr
-ganzes Leben in Colombo verbracht und mochte auch nach)
+Black das Geschäft allein übernommen, aber er verkehrte
+noch freundschaftlich in dem palastähnlichen Hause der Witwe,
+er hatte uns dort eingeführt. Mrs. Hellway hatte fast ihr
+ganzes Leben in Colombo verbracht und mochte auch nach
 dem Tode ihres Gatten die Stadt nicht verlassen. Hier
-hatte sie langjährige Freunde, war tonanacbound in der Sessel
-»Gast und gab in ihrem herrlichen Hause wundervolle
-
-beste.
+hatte sie langjährige Freunde, war tonangebend in der Gesellschaft
+und gab in ihrem herrlichen Hause wundervolle
+Feste.
 
 Ein solches hatte sie für den heutigen Abend anberaumt
-zu seinen des boerühmien stark Harst.
+zu Ehren des berühmten Harald Harst.
 
 Plötzlich hörten wir, daß sich unserer Tür Schritte
 näherten,
 
 »Jetzt kommt der indische Diener, um den Wagen zu
-melden, Harst,« sagte ich. »nimm Deinen Zylinder und
+melden, Harst,« sagte ich. »Nimm Deinen Zylinder und
 komm.«
 
 Meine Prophezeiung war falsch gewesen. Die Schritte
-machten zwar vor Unserer Tür Halt, aber wir hübschen
-draußen einen erregten Stimmuentvebsel. Die stumm ruhigeres
+machten zwar vor Unserer Tür Halt, aber wir hörten
+draußen einen erregten Stimmenwechsel. Die Stimme unseres
 <@pagebreak/>
-Bedienten, der gebrochen englisch sprach und den gröbere!
+Bedienten, der gebrochen englisch sprach und den gröberen
 Baß eines Mannes.
 
-»Sie nicht kommen jetzt hinein,« sagte der Diener erregt,
+»Sie nicht können jetzt hinein,« sagte der Diener erregt,
 »die Sahibs wollen ausfahren.«
 
-»Sw muß Mr. Harst sprechen,« rief der andere, »ich
+»Ich muß Mr. Harst sprechen,« rief der andere, »ich
 muß es.«
 
-»Eid Sie müssen anmelden, so es sich gehört,« sagte der
+»Ich Sie müssen anmelden, so es sich gehört,« sagte der
 wohlerzogene Diener, »Sie mir sagen Namen, und die Sahibs
-dann entscheiden, ob Sie cupsjsangen —
+dann entscheiden, ob Sie empfangen —«
 
-»Los ist Unsinn, ich muß den Detektiv sprechen —«
+»Das ist Unsinn, ich muß den Detektiv sprechen —«
 
 Harst lachte.
 
-»Sich doch war nach, Schraut, was für ein eiliger De-«.
-
+»Sieh doch mal nach, Schraut, was für ein eiliger
 Besucher da ist.«
 
 Ich öffnete die Tür und sah mich zwei Gestalten gegenüber.
-Die eine war unser weißgekleideter, ängstlicher Dieb
+Die eine war unser weißgekleideter, ängstlicher Diener,
+der unsere Tür verteidigte. Die andere ein vierschrötig
+gewachsener Mann mit groben, aber gutmütigen Gesichtszügen,
+unverkennbar ein Europäer. Seine Kleidung war
+nachlässig, teils europäisch, teils indisch. Er trug z. B.
+zerbeulte Hosen, aber ein buntes, indisches Hemd und eine
+indische Leibschärpe. In der Hand hielt er einen Schlapphut.
+Seine Nase war verdächtig rot.
 
-ner, der unsere Tür verteidigte. Die andere ein vierschrötig
+»Herr Hast,« schrie er, kaum daß er mich erblickte, »ich
+muß Sie sprechen, Sie müssen mir helfen. Sie —«
 
-Erwachsener Mann mit groben, aber gutmütigen Gesichts- …
+»Kein Mensch muß müssen, lieber Mann,« sagte ich,
+»und kann bin ich auch nicht Herr Harst, sondern sein
+Freund und Mitarbeiter —«
 
-Zügen, unverkennbar ein Eindrangen. Seine Kleidung war
-nachlässig. teils europäisch, teils indisch). Er trug z. B. Herr
+»Führe den Mann herein, Schraut,« ließ sich Harst
+von innen vernehmen, und ich gehorchte.
 
-deutete Losen, aber ein buntes, lohnendes Hemd und eine …
+Im Zimmer und Angesicht in Angesicht mit dem energischen,
+kühlen und überlegenen Wesen Harsts wurde das
+Benehmen unseres seltsamen Besuchers ein wenig bescheidener.
+Er drehte seinen Hut stumm in den Händen.
 
-indische Leib Schärpe. In der Tand hielt er einen Schlapp
+»Nun, Herr — —, nehmen Sie Platz. Wie ich höre,
+wollen Sie mich sprechen, aber nicht Ihren Namen sagen!«
 
-Hut. Seine Nase vor verdächtig rot.
-
-»kennt Hast,« kehrte er, kaum daß er mich erblickte, »ich
-muß Sie sprechen, Sie müssen mir helfen. Sie —
-
-»Kein Mensch nimmt müssen, sicher Mann,« sagte ich,
-»und kann bin ich auch nicht. Herr Harst, sondern 1.31
-Freund und Mitarbeiter—«
-
-»Fähre den Mann herein, Schraut,« ließ sie) Harsts
-v6at ihnen vernehmen, und ich gehorchte.
-
-Im Zimmer und Zugereicht in Angesicht mit dem energischen,
-fühlen und fiverlegenen Wesen Harsts Truhe das
-Benehmen unseres seltsamen Bejahrte ein wenig bejeheci-dutier.
-Er drehte seinen Hat Sturm in den Händen.
-
-»kam, Her! — —, nehmen Sie Platz, Wie ich höre,
-wollen Sie mich sprechen, aber nicht Schrei Namen sagen!«
-
-»Stoß,« stotterte der andere, »mein Name ist Pepper,
+»O doch,« stotterte der andere, »mein Name ist Pepper,
 <@pagebreak/>
-Dan Pepper, zu dienen. Ich wollte bloß nicht! dem gelben
+Dan Pepper, zu dienen. Ich wollte bloß nicht dem gelben
 Affen draußen das sagen. Meine Freunde nennen mich
-der »kahle Dan«, weil ich nämlich eine Grabe habe, Mr.
+der »kahle Dan«, weil ich nämlich eine Glatze habe, Mr.
 Harst. Aber dafür kann ich nicht.«
 
 »Nein, natürlich nicht, und ich mache Ihnen auch keinen
-Vorwurf daraus. Nun, Mr.« Pepper, »Sie wollen mich
+Vorwurf daraus. Nun, Mr. Pepper, Sie wollen mich
 sprechen. Was haben Sie auf dem Herzen.«
 
-»Sir sind ein bersihmter Detektiv, Herr Harst,« sagte
+»Sie sind ein berühmter Detektiv, Herr Harst,« sagte
 Pepper verlegen, »und ich habe gehört, daß Sie vielen
 Leuten geholfen haben, ohne — hm — ohne ein Honorar
 zu nehmen.«
@@ -1610,49 +1602,49 @@ zu nehmen.«
 Ich wandte mich ab, um mir das Lachen zu verbeißen.
 Das war ein ausgezeichneter Kunde!
 
-»Ich denke, Ecke werden auch mir helfen, Mr. Harst,«
+»Ich denke, Sie werden auch mir helfen, Mr. Harst,«
 sagte unser ungeschlachter Besucher. »Ich bin zwar ein
 armer Mann —«
 
 »Na, das macht nichts,« lächelte Harst, »also womit und
-worin soll ich Ihnen heißen?«
+worin soll ich Ihnen helfen?«
 
-Dan Pepper drucäste ein wenig und wußte wohl nicht
+Dan Pepper druckste ein wenig und wußte wohl nicht
 recht, wie er anfangen sollte,
 
-»Ich war lange Zeit Bootsmann,« sagte er schließe
-(ich, »bin jahrelang zur See gefahren und habe mir ein
+»Ich war lange Zeit Bootsmann,« sagte er schließlich,
+»bin jahrelang zur See gefahren und habe mir ein
 bißchen Geld dabei gespart. Schließlich hatte ich die Seefahrt
-satt, und da mir Colombo Sessel, ließ 1 mich hie!
+satt, und da mir Colombo gefiel, ließ ich mich hier
 abmustern. Das war vor etwa drei Jahren. Seitdem lebe
-tiv hier, denn hier gilt der weiße Mann etwa?, und es
+ich hier, denn hier gilt der weiße Mann etwas, und es
 geht mir auch ganz leidlich.«
 
-»Na also,« sagte Harst ungeduldig, »so kommen Eile
+»Na also,« sagte Harst ungeduldig, »so kommen Sie
 doch endlich zur Sache.«
 
 »Ich bin ja mitten drin, Herr Harst. Hören Sie nur
-zu. Also vor drei faltigen mietete im am Malabarplatz, der
+zu. Also vor drei Jahren mietete im am Malabarplatz, der
 liegt im Eingeborenenviertel, einen kleinen Laden und —
 und richtete mir dort einen Kleiderhandel für die Eingeborenen
-ein.
+ein.«
 
 »Na, das ist doch ein hübsches, solides Geschäft,«
 <@pagebreak/>
 scherzte Harst, »Kleider brauchen auch die Eingeborenen,
 wenn sie auch nur wenig anhaben.«
 
-— »J9, aber jetzt,« rief Dan Nepper verzweifelt, »ist mein
-Geschäft »ruiniert, ich bin ausgemltetet worden, es ist entsetzlich!«
+»Ja, aber jetzt,« rief Dan Pepper verzweifelt, »ist mein
+Geschäft ruiniert, ich bin ausgemietet worden, es ist entsetzlich!«
 
-Wir, der nur an tragische und abenteuerliche Kriminalfälle
+Mir, der nur an tragische und abenteuerliche Kriminalfälle
 aus der Praxis eines Harald Harst gewöhnt war,
-standen vor Lachen fast die Tränen in den Augen. eilten
+standen vor Lachen fast die Tränen in den Augen. Einen
 solchen Klienten hatte der berühmte Weltdetektiv sicher noch
 nicht gehabt. Auch Harst schien sich über diesen seltsamen
 Klienten zu amüsieren, aber er beherrschte sich mehr wie ich.
 
-»Aufgenietet,« sagte er verhalten.
+»Ausgemietet,« sagte er verhalten.
 
 »Ja, von dem Klub der buckligen Chinesen!«
 
@@ -1662,142 +1654,135 @@ Ich lachte hell auf, aber Harst beugte sich vor.
 Geschichte?«
 
 »Das will ich Ihnen eben erzählen. Also, in meinen
-Laden kamen in der betraten wiederholt verwachsene
-Chinamänner. Es sich mir auf, daß sie wenig sausten,
-sich aber dahin um so intensiver in meinem Geschäftsraum
-umsahen… doch) hielt ich sie einfach für neugierig. Vor ein
-paar Wo en kam nun mein Hauswirt zu mir. Das ist ein
+Laden kamen in der letzten Zeit wiederholt verwachsene
+Chinamänner. Es fiel mir auf, daß sie wenig kauften,
+sich aber dafür um so intensiver in meinem Geschäftsraum
+umsahen, doch hielt ich sie einfach für neugierig. Vor ein
+paar Wochen kam nun mein Hauswirt zu mir. Das ist ein
 alter Japaner, dem das alte Haus gehört, in dem ich mein
 Geschäft besitze.
 
-— »Sahib Pepper,« sagte er zu mir, »Du grunzt am Ersten
-umgesehen, denn mir sind von anderer Seite 50 amerikanische
-Dollar für seinen Laden geboten worden.«
+»Sahib Pepper,« sagte er zu mir, »Du mußt am Ersten
+ausziehen, denn mir sind von anderer Seite 50 amerikanische
+Dollar für Deinen Laden geboten worden.«
 
-1539 ziehe nicht.« sagte ich, »sondern zahle denselben
-Reis
--Gut, Sahib Nepper,« sagte der alte Gelbe, »ich will es
+»Ich ziehe nicht.« sagte ich, »sondern zahle denselben
+Preis.«
+
+»Gut, Sahib Pepper,« sagte der alte Gelbe, »ich will es
 den anderen sagen.«
 
-Ich glaubte, die Angelegenheit sei damit erledigt, alt
-ich irrte. 2m kommenden Tage kam der Alte wieder.
+Ich glaubte, die Angelegenheit sei damit erledigt, aber
+ich irrte. Am kommenden Tage kam der Alte wieder.
 
-— »Du mußt doch an zielen, Sahib Tempel,« sagte er wieder,
+»Du mußt doch ausziehen, Sahib Pepper,« sagte er wieder,
 »die Leute, die Deinen Laden haben wollen, wollen
-mir 100 amerikanische Dollar geben.
+mir 100 amerikanische Dollar geben.«
 
 <@pagebreak/>
-Das ging mir über die Hutschnur, Mr. Harst, Ich schimpfte
-weidlich auf den Alten und sagte ihm, daß ich nicht rammen
-Blicke. Aber das hatte Besuch Zweck«. Am Ersten erschien
+Das ging mir über die Hutschnur, Mr. Harst. Ich schimpfte
+weidlich auf den Alten und sagte ihm, daß ich nicht räumen
+würde. Aber das hatte wenig Zweck. Am Ersten erschien
 der Alte und an seiner Seite der Polizist des Bezirkes. Der
-erklärte mir, daß ich zu ziehen hätte, da Dame seinen Laden
+erklärte mir, daß ich zu ziehen hätte, da Samo seinen Laden
 vermieten könne, an wen er wolle, sobald die Kündigung
-ordentlich erfolgt sei. Das konnte!ich nicht bestreiten, und,
+ordentlich erfolgt sei. Das konnte ich nicht bestreiten, und,
 obzwar ließ ein weißer Mann bin, mußte ich unter den
-Augen des Braunen meinen Laden räumen. sich fand ein
-Lokal. eine Straße weiter in der »unteren Stadt« und Wo«
-kleine nun dort mein Geschäft. Aber giftig bin ich ans
+Augen des Braunen meinen Laden räumen. Ich fand ein
+Lokal eine Straße weiter in der »unteren Stadt« und betreibe
+nun dort mein Geschäft. Aber giftig bin ich auf
+Samo.«
 
-anno.«
 »Das kann Ich verstehen, Mr. Pepper. Aber ich muß
-
-mit dem Peinigten sagen, daß das Teich auf der Seite des?
-
-Dame steht. Er kann seinen Laden vermieten, an wen er
-will, und ich sehe wirklich wohnt ein, was ich in der Angelegenheit
+mit dem Polizisten sagen, daß das Gesetzt auf der Seite des
+Samo steht. Er kann seinen Laden vermieten, an wen er
+will, und ich sehe wirklich nicht ein, was ich in der Angelegenheit
 für Sie tun kann.«
 
-»Aber per. Harst,« erregte ein unser Besucher, »ich bin
-
+»Aber Mr. Harst,« erregte sich unser Besucher, »ich bin
 schnöde behandelt worden.«
 
-— — … «-
-
-»Es mag sein, daß Dame nicht mensensreundlich vorgegangen
-ist. Aber Sie haben ja ein anderes Geschäftsloial
+»Es mag sein, daß Samo nicht menschenfreundlich vorgegangen
+ist. Aber Sie haben ja ein anderes Geschäftslokal
 und müssen sich damit zufrieden geben.«
 
 »Aber es ist Wahnsinn, daß es Leute gibt, die für den
-[Hübschen Laden 100 Dollar bezahlen, es ist Wahnsinn! Ich
-
-habe manch mal am Malabarplatz herumspioniert und ich
+schäbigen Laden 100 Dollar bezahlen, es ist Wahnsinn! Ich
+habe manchmal am Malabarplatz herumspioniert und ich
 sage Ihnen, die Leute, die meinen Laden gemietet haben,
 haben dort kein Geschäft eröffnet.«
 
 »So!«
 
-»Nein, nein. Die Tür war immer geschlossen. Zwerg!
-dachte ich, irgendein schäbiger Konkurrent habe sich 1:1
-niedergelassen, aber das ist nicht der Fall. Dir Tür ist!
-immer zu und einmal sah ich Dame vor dem Hause sieben.
+»Nein, nein. Die Tür war immer geschlossen. Zuerst
+dachte ich, irgendein schäbiger Konkurrent habe sich dort
+niedergelassen, aber das ist nicht der Fall. Dir Tür ist
+immer zu und einmal sah ich Samo vor dem Hause stehen.
 
-»Na, alter Heide,« sagte ich zu ihm, »hier gibt’s ja gut
-sein Geschäft. Du hast mich wohl bloß heraus haben
-wollen.
+»Na, alter Heide,« sagte ich zu ihm, »hier gibt’s ja gar
+kein Geschäft. Du hast mich wohl bloß heraus haben
+wollen.«
 
-»Ein Geschäft ist es nicht,« sagte der Alte zu mir,, aber.
+»Ein Geschäft ist es nicht,« sagte der Alte zu mir, »aber
 <@pagebreak/>
-Sahib ne per, Ich bin sehr zufrieden mit meinen Mietern
+Sahib Pepper, ich bin sehr zufrieden mit meinen Mietern,
 es sind ruhige, ordentliche Leute, die ihre 100 Dollar prompt
-um ne Noten. sind Dir.« schrie Ich, »wenn sie kein Geschäft
+im voraus bezahlt haben.«
 
-»Idioten sind sie, nie ich, »wenn sie kein je
-haben) Wer 1:6 denn Überhaupt?
+»Idioten sind sie,« schrie Ich, »wenn sie kein Geschäft
+haben! Wer ist’s denn Überhaupt?«
 
-E68 ist der »Klub der buckligen Chinesen«, der Deinen
-Laden gemietet hat, Sahib Pepper,« sagte der Alte, »se
-erklommen alle Donnerstag hier im Laden zusammen, den sie
-As Gersammlungölotal eingerichtet haben, Ob, es sind seine
+»Es ist der »Klub der buckligen Chinesen«, der Deinen
+Laden gemietet hat, Sahib Pepper,« sagte der Alte, »sie
+kommen alle Donnerstag hier im Laden zusammen, den sie
+als Versammlungslokal eingerichtet haben. O, es sind feine
+Leute.«
 
-heute,
+So, Herr Harst, das ist die Geschichte. Ist sie nicht
+wunderlich? Werden Sie mir nicht helfen können, meinen
+alten Laden, der viel besser ging wie der neue, wiederzubekommen?«
 
-So, Herr Harst, das ist die Geschichte. Ast sie nicht
-wunderlich? Werden Sie mir nicht in können, meinen —
-alten Laden, der viel besser ging wie der neue, wiederzubekommen?
+Harst hatte sich erhoben und sah auf die Uhr,
 
-Harst hatte sich erhoben und saß zu die Uhr,
-
-»Nein, Mr. Pepper, 16 nun Ihnen leider nicht näher.«
+»Nein, Mr. Pepper, ich kann Ihnen leider nicht nützen.«
 
 »Sie wollen meinen Fall also nicht übernehmen.«
 
-»sicher Freund, Ihr »Fall« ist überhaupt kein »Fall«,
-Nirgendwo hat sich irgendwer gegen das Teich vergangen
-und abgesehen davon, daß Sie einige persönliche Unbequem-Achteten
+»Lieber Freund, Ihr »Fall« ist überhaupt kein »Fall«.
+Nirgendwo hat sich irgendwer gegen das Gesetz vergangen
+und abgesehen davon, daß Sie einige persönliche Unbequemlichkeiten
 haben, ist keinem Menschen Unrecht oder Schaden
 geschehen. Ich finde einen »Klub der buckligen Chinesen«
 zwar sonderbar, aber es gibt sehr sonderbare Vereine in
 der ganzen Welt,«
-ich »Doch warum hatten sie es aus meinen Laden »Abgott
 
-Ehen
+»Doch warum hatten sie es aus meinen Laden abgesehen?«
 
 »Nun, vielleicht liegt er Ihnen bequem. Ich bedauere,
-44) kann nichts fuhr Sie tun.«
+ich kann nichts für Sie tun.«
 
-In diesem Jugendliche erschien der Diener und meldete
-unseren lange eriwvarteten Wagen. Mr. Dan Pepper mußte
+In diesem Augenblick erschien der Diener und meldete
+unseren lange erwarteten Wagen. Mr. Dan Pepper mußte
 mit gesenktem Haupte abziehen,
 
 Als wir in unserem Gefährt saßen, hatte ich Gelegenheit
-mich westlich über Dan Pepper und seine Ungelegen
+mich weidlich über Dan Pepper und seine Angelegenheit
+auszulachen.
 
-hielt auspnlachen,
+Harst aber war ernst.
 
-Harst aber war an
-
-»doch weiß nicht,« jagte er, »irgendwie wittere 1c bei
+»Ich weiß nicht,« sagte er, »irgendwie wittere ich bei
 <@pagebreak/>
-Arm Unrat. Ich werde sie jedenfalls im Auge behalten
+der Geschichte Unrat. Ich werde sie jedenfalls im Auge behalten.«
 
-»Nun,« sagte ich, »Inspektor Gier wird sich heute zu
-auf dem Fest der Mrs« Diwan befinden. dann Familie
-
+»Nun,« sagte ich, »Inspektor Grey wird sich heute auch
+auf dem Fest der Mrs. Hellway befinden. Dann kannst Du
 ihn ja fragen, ob er einen Klub der buckligen Chinesen
-kennt.
+kennt.«
 
-Aehlerglanz, ein wundervolles Haus, eine Heerschar
+* * *
+
+Lichterglanz, ein wundervolles Haus, eine Heerschar
 von Dienern, Reichtum und Eleganz empfingen uns bei
 Mr. Hellway.
 
