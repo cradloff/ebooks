@@ -1784,53 +1784,55 @@ kennt.«
 
 Lichterglanz, ein wundervolles Haus, eine Heerschar
 von Dienern, Reichtum und Eleganz empfingen uns bei
-Mr. Hellway.
+Mrs. Hellway.
 
 Die Dame des Hauses kam auf uns zu und bewillkommnete
 uns auf das liebenswürdigste,
 
-Harst war bald der Mittelpunkt der Gesellschaft »und
+Harst war bald der Mittelpunkt der Gesellschaft und
 ich begnügte mich mit der Gesellschaft des alten Mr. Black,
 der mir heute sonderbar und abgelenkt vorkam,
-Flucht Kg haben Sie denn nur, Mr. Black?« fragte ich ihn
 
-e
+»Was haben Sie denn nur, Mr. Black?« fragte ich ihn
+schließlich.
 
-Statt aller Antwort schaute er zu Mrs, Hellway hinüber.
+Statt aller Antwort schaute er zu Mrs. Hellway hinüber.
 Die Dame trug reichliche Juwelen, wie es ja als
-Gattin eines Juwoelenhändlers verständlich ist. An ihrem
+Gattin eines Juwelenhändlers verständlich ist. An ihrem
 weißen Nacken glänzte eine unerhört schöne Rubinenkette
 von ungewöhnlich großen Steinen,
 
 Schließlich wurde das Diner gemeldet. Wir gingen in
-den Ehepaar, wo uns erlesene Speisen vorgesetzt wurden,
-der Tafel hatte ich Gelegenheit, meinen Freund
-… zu spreche
+den Eßsaal, wo uns erlesene Speisen vorgesetzt wurden,
 
-»Black. ist heute wirklich eigenartig zerstreut,« sagte ich
+Nach der Tafel hatte ich Gelegenheit, meinen Freund
+zu sprechen.
+
+»Black ist heute wirklich eigenartig zerstreut,« sagte ich
 zu ihm,
 
-7: »Nun, ein Geschäftsmann seines Formats hat häufig
-Sorge
-In diesem Augenblick trat Inspektor Grey’zu uns,
+»Nun, ein Geschäftsmann seines Formats hat häufig
+Sorgen.«
+
+In diesem Augenblick trat Inspektor Grey zu uns,
 
 <@pagebreak/>
 »Nun, Mr. Harst, wie führen Sie sich so als Privatmann
-und Gesell’chastöniensch,« sagte er scherzend, »Ihr —
-Freund Schraut macht jedenfalls ein ganz unglitdliches Geist
-t. Er scheint nur an Kriminalfälle und Abeneuer gewöhnt
+und Gesellschaftsmensch,« sagte er scherzend, »Ihr —
+Freund Schraut macht jedenfalls ein ganz unglückliches Gesicht.
+Er scheint nur an Kriminalfälle und Abenteuer gewöhnt
 zu sein, in deren Verfolgung er glücklich ist.«
 
 »Sie sind sehr guter Laune,« lachte Harst, »und da will
-ich Sie gleich etwas fragen, Gier. Existiert in der Stadt
+ich Sie gleich etwas fragen, Grey. Existiert in der Stadt
 Colombo einen »Klub der buckligen Chinesen«?«
 
-Gier lachte.
+Grey lachte.
 
-»Nein. offiziell habe ich von dieser Vereinigung keine
+»Nein, offiziell habe ich von dieser Vereinigung keine
 Ahnung. Aber ich habe vor einigen Tagen in einer unserer
-Zeitungen eine komische Gruppe dieses Klubs gelesen, und
-da sie mir spaßhaft vorkam, habe ich sie aufgeschnitten.
+Zeitungen eine komische Annonce dieses Klubs gelesen, und
+da sie mir spaßhaft vorkam, habe ich sie ausgeschnitten.
 Einen Moment. Ich muß sie irgendwo in meiner Brieftasche
 haben.«
 
@@ -1841,223 +1843,219 @@ ihn Harst.
 
 »Der Klub der buckligen Chinesen sucht Mitglieder!«
 
-Er teilt allen bulligen Chinesen Colombos mit, dß
-er sein Vereinslokal nach Malabarplatz 5 verlegt hat. B:heilige
+Er teilt allen buckligen Chinesen Colombos mit, daß
+er sein Vereinslokal nach Malabarplatz 5 verlegt hat. Bucklige
 im Alter von 20 bis 40 Jahren können sich dort einschreiben
-lassen. Unsere Vereinigung sagt Donnerstags
+lassen. Unsere Vereinigung tagt Donnerstags
 abends von 10 Uhr ab. Mitglieder können sich um diese
-Zeit dort Welten. Über die Ausnahßme entscheidet der Präsident.
-Jedes neue Mitglied ist Stricke Mitglied des Klubs
-und ersacint jeden Donnerstag abend zur geselligen Vereinigung
-in ten Vereinsrauimen (Adresse oben). Es erhält
-während des Abends freie Belästigung, Getränke und
-Rgauchzeng, sowie für die Zeit ter Mitgliedschaft, die ein
-Jahr nicht übersa:reiten darf, fünf Dollar pro Mitgliedsabend,
+Zeit dort melden. Über die Aufnahme entscheidet der Präsident.
+Jedes neue Mitglied ist freies Mitglied des Klubs
+und erscheint jeden Donnerstag abend zur geselligen Vereinigung
+in den Vereinsräumen (Adresse oben). Es erhält
+während des Abends freie Beköstigung, Getränke und
+Rauchzeug, sowie für die Zeit der Mitgliedschaft, die ein
+Jahr nicht überschreiten darf, fünf Dollar pro Mitgliedsabend,
 sofern er erscheint.
 
 »Herr des Himmels,« rief mein Freund aus, »das ist
 ja nicht nur ein »Klub der buckligen Chinesen«, sondern
-auch eilt Klub der Verrückten. Hat man jemals solche des
+auch eilt Klub der Verrückten. Hat man jemals solche Vereinsstatuten
 <@pagebreak/>
-einöstatuten gelesen? Statt daß die Mitglieder etwas in
+gelesen? Statt daß die Mitglieder etwas in
 die Vereinskasse zahlen, bekommt ein jeder nicht nur Speisen
-und Getränke, sondern auch Rauchens, worunter bei Chinesen
+und Getränke, sondern auch Rauchzeug, worunter bei Chinesen
 wahrscheinlich die üblichen Opiumpfeifen zu verstehen
-sind. in kommt die beschränkte Mitgliedsdauer, die seltsam
-— —«—«
+sind. Dazu kommt die beschränkte Mitgliedsdauer, die seltsam
+ist — — —«
 
-In diesem Augenblick wurde Inspektor Gier von einer
+In diesem Augenblick wurde Inspektor Grey von einer
 vorübergehenden Dame angerufen, die ihn bat, ihr ein Glas
-Champagner zu besorgen. Gier genügte seiner Kavalierpflicht
+Champagner zu besorgen. Grey genügte seiner Kavalierpflicht
 und eilte hinweg, während mich Harst in eine Ecke
-40g.
+zog.
 
 »Schraut,« sagte er ernst, »dieser »Klub buckliger Chinesen«
-ist mir hinreichend verdächtig, um mich) mit ihm zu
-beschäftigen. Halte ich diese seltsamen Vereinsstatuten nun
+ist mir hinreichend verdächtig, um mich mit ihm zu
+beschäftigen. Halte ich diese seltsamen Vereinsstatuten an
 den Bericht des »kahlen Dan«, so wittere ich einen Fall für
 uns, der sich gewaschen hat. Originell ist die Sache im
-höchsten Grade, Was mag sich dahinter verbergen? Ich
+höchsten Grade. Was mag sich dahinter verbergen? Ich
 werde die Geschichte im Auge behalten.«
 
-Damit Straße er den Zeitungsauszsämitt fort, denn Mr.
-Dja näherte sich uns mit ernster Miene.
+Damit steckte er den Zeitungsausschnitt fort, denn Mr.
+Black näherte sich uns mit ernster Miene.
 
-»Herr Harst, endlich erwische ich Sie und Ihren Mit:
-Arbeiter unter vier Augen. Ad) habe Ihnen eine Beobachtung
+»Herr Harst, endlich erwische ich Sie und Ihren Mitarbeiter
+unter vier Augen. Ich habe Ihnen eine Beobachtung
 mitzuteilen, die mich im höchsten Grade beunruhigt,
 und Sie als Detektiv interessieren wird.«
 
-Was soll das heißen, Mr. Flucht Sie sehen ja geradezu
+»Was soll das heißen, Mr. Black? Sie sehen ja geradezu
 konsterniert aus!«
-As bin ich auch. schien Sie die wundervolle Ritt
-binenkeite, die Mrs, Hellway trägt? Ihr Freund betrug:-
-Werte sie schon vorhin.«
-»Natürlich. Die Steine sind verblüffend, aber Sir die
-Gattin eines Juwoelenhändlers natürlich verständlich.«
+
+»Das bin ich auch. Sehen Sie die wundervolle Rubinkette,
+die Mrs. Hellway trägt? Ihr Freund bewunderte
+sie schon vorhin.«
+
+»Natürlich. Die Steine sind verblüffend, aber für die
+Gattin eines Juwelenhändlers natürlich verständlich.«
 
 »Nun, diese Steine sind falsch!«
 
-»Was sagen Sie da? Die Steine Dunkeln und gleißen
-ja—«
+»Was sagen Sie da? Die Steine funkeln und gleißen
+ja —«
 
-»Können aber [so einen alten, erfahrenen Nenner wie
+»Können aber so einen alten, erfahrenen Kenner wie
 mich nicht täuschen. Wenn Sie Gelegenheit gehabt hätten,
 <@pagebreak/>
-Mrs. Heimat zu Tisch zu führen und die Steine in der
-Nahe zu sehen, würden Sie sich meinem Urteil zuschritten.
-Die Dame trägt heute abend eine Jmitation1«
+Mrs. Hellway zu Tisch zu führen und die Steine in der
+Nähe zu sehen, würden Sie sich meinem Urteil anschließen.
+Die Dame trägt heute abend eine Imitation!«
 
-»S? ist ie beim Haus der Seite [!Chaussee betrogen wollte
+»So ist sie beim Haus der Steine schamlos betrogen worden!«
 
-»Das nicht, Herr Harst, 35 selbst besorgte vor einigen
-Monaten die Armhaltung der Kette für Mrs. Hellway, und
-damals waren die Steine so echt wie mein Name, Mut
-bei späteren Gelockert)eilten habe ich die Dame in dem
-Schlund gesehen, und er war eßt. Als ich beim Empfang
+»Das nicht, Herr Harst. Ich selbst besorgte vor einigen
+Monaten die Anschaffung der Kette für Mrs. Hellway, und
+damals waren die Steine so echt wie mein Name. Auch
+bei späteren Gelegenheiten habe ich die Dame in dem
+Schmuck gesehen, und er war echt. Als ich beim Empfang
 neben ihr stand, wurde ich stutzig, und bei Tisch war es mir
-gewi, daß sich Mrs. Hellway mit falschen Juwelen
-müht.«
+gewiß, daß sich Mrs. Hellway mit falschen Juwelen
+schmückt.«
 
-»Sollte Miß. Hellway in einer momentanen Geldverlegenheit
-die eckten Steine verkauft haben und sich mit Imitationen
+»Sollte Mrs. Hellway in einer momentanen Geldverlegenheit
+die echten Steine verkauft haben und sich mit Imitationen
 begnügen?«
 
 »Das ist gänzlich ausgeschlossen, Mr. Harst. Ich kenne
 die pekuniären Verhältnisse der Dame genau. Sie hat Geld
-im Nebenfluß. Außerdem würde sie, wenn sie arm legte,
-lieber gar keine Steine tragen; aus falsche würde sie Vertrauen,
-Nein, der ist ein Verbrechen vorgekommen.«
+im Überfluß. Außerdem würde sie, wenn sie arm wäre,
+lieber gar keine Steine tragen; auf falsche würde sie verzichten.
+Nein, hier ist ein Verbrechen vorgekommen.«
 
-»Oder Ihre Augen, Mr. Dja, haben Sie getäuscht,«
-konnte ließ mich nicht enthalten einzuweihen,
+»Oder Ihre Augen, Mr. Black, haben Sie getäuscht,«
+konnte ich mich nicht enthalten einzuwerfen.
 
-»Das glaube ich nicht,« jagte Dja ruhig, »aber ich sehe
+»Das glaube ich nicht,« jagte Black ruhig, »aber ich sehe
 schon, Sie beiden Detektive sind Tatsachenmenschen und
 wollen ein präzises Urteil, möglichst aus einem zweiten fachmännischen
 Munde.«
 
-In,« sagte Harst, »das wäre mir interessant, aber wie
-können wir die Sache bewerkstelligen, ohne daß Mrs. Hell:
-Hellway Verdacht shdpfti?«
+»Ja,« sagte Harst, »das wäre mir interessant, aber wie
+können wir die Sache bewerkstelligen, ohne daß Mrs.
+Hellway Verdacht schöpft?«
 
 Black dachte einen Augenblick nach.
 
-» Nr. Harst, ich kann mir, Ihnen und Ihrem Freunde
-die vollste Menschheit verschlossen, ohne Mrs. Heimat zu
-böunrübigen. Ich habe Ihnen von dem alten befragtest
-sehen Edelsteinschleifer gekommen, von Jahre de Rosario, Er
-Ist ein Kenner, den ich noch Über meine Fähigkeiten eilte.
-
-dem
-
+»Mr. Harst, ich kann mir, Ihnen und Ihrem Freunde
+die vollste Gewissheit verschaffen, ohne Mrs. Hellway zu
+beunruhigen. Ich habe Ihnen von dem alten portugiesischen
+Edelsteinschleifer gesprochen, von Josee de Rosario. Er
+Ist ein Kenner, den ich noch Über meine Fähigkeiten stelle.
 <@pagebreak/>
 Ich werde Mrs. Hellway nachher in unauffälliger Weise
-vorschlagen, die Kette zu Rosario zum meinigen zu geben
+vorschlagen, die Kette zu Rosario zum Reinigen zu geben
 und werde mich erbieten, sie selbst hinzubringen. Sie können
-nie begleiten, und Sie werden dann erfahren, daß auch
+mich begleiten, und Sie werden dann erfahren, daß auch
 Rosario den Schmuck für falsch erklärt.«
 
-Wut,« sagte Harst, »bringen Sie die Dame so Welt,
-daß sie Ihnen die Seite aushändigt.«
+»Gut,« sagte Harst, »bringen Sie die Dame so weit,
+daß sie Ihnen die Steine aushändigt.«
 
-Weile Gelegenheit sollte sich bald bieten. Im Tanzsaal
-intonierte die ne einen Satz. Alles Billigte dorthin
-und wer nicht selbst tanzte, befand sich unter den Zuschauern,
+Die Gelegenheit sollte sich bald bieten. Im Tanzsaal
+intonierte die Kapelle einen Jazz. Alles strömte dorthin
+und wer nicht selbst tanzte, befand sich unter den Zuschauern.
 Black stand hinter dem Sessel der Hausherrin, und wir konnten
 ihr Gespräch hören,
 
 »Liebe Mrs. Hellway,« sagte Black, »Ihre Kette ist
 einzig. Aber glauben Sie nicht, daß die Rubinen einmal
-zerkratzt werden müßten? Ich glaube, ihr Feuer würde
-ich dann noch erhöhen. Ich möchte den Schnur den! alten
-
-Rosarios Übergeben, der sich gewiß keine Mühe verdrießen
+gereinigt werden müßten? Ich glaube, ihr Feuer würde
+sich dann noch erhöhen. Ich möchte den Schmuck dem alten
+Rosario Übergeben, der sich gewiß keine Mühe verdrießen
 lassen würde.«
 
-Mrs, Hellway schlug ihren Fächer auf Blacks Arm,
+Mrs. Hellway schlug ihren Fächer auf Blacks Arm,
 
 »Ihr freundlicher Vorschlag kommt leider einen Posttag
-spät,« scherzte sie, »ich hatte die Kabinen bereits zu Rosario
-gegeben, Sie sind von ihm gereinigt worden. Eine
+zu spät,« scherzte sie, »ich hatte die Rubinen bereits zu Rosario
+gegeben. Sie sind von ihm gereinigt worden. Eine
 Stunde vor Beginn des Festes kam Rosario selbst zu mir
-und brachte den Schmales zurück, Jedenfalls danke ich Ihnen
-für Ihr Interesse, Verzeihen Sie, ich muß mich Jetzt meinen
+und brachte den Schmuck zurück. Jedenfalls danke ich Ihnen
+für Ihr Interesse. Verzeihen Sie, ich muß mich Jetzt meinen
 Gästen widmen.«
 
 Der alte Black wandte sich zu uns um.
 
 »Unser Plan ist ins Wasser gefallen,« sagte Harst.
-Aber vielleicht irrten Sie do&ckchk Die Steine sehen verbslüs«
-irgend echt aus.«
+Aber vielleicht irren Sie doch? Die Steine sehen verblüffend
+echt aus.«
 
 »Nein, sie sind falsch,« sagte der alte Händler bestimmt.
-»TD habe sie soeben noch einmal in allernächster Nähe gesehen,
-Sie sind falsch. Sie beziehen aus rotem, geglühtem
-Spinell, durch ten Kabine Ost imitiert werden.«
+»Ich habe sie soeben noch einmal in allernächster Nähe gesehen.
+Sie sind falsch. Sie bestehen aus rotem, geglühtem
+Spinell, durch den Rubine oft imitiert werden.«
 
-Dann bleibt eben nur die Annahme Übrig, daß de!
-all! Rosario die Steine vertauscht hat.«
+»Dann bleibt eben nur die Annahme Übrig, daß der
+alte Rosario die Steine vertauscht hat.«
 
 <@pagebreak/>
-)
-
-»Das würde allen menschlichen Erfahrungen Hohn,
-spielen,« sagte Black nachdenklich, »Rosario stammt aus
+»Das würde allen menschlichen Erfahrungen Hohn
+sprechen,« sagte Black nachdenklich. »Rosario stammt aus
 einer alten, guten portugiesischen Familie, die in Colombo
 seit Menschengedenken ansässig ist und das Edelsteingeschäft
 betreibt. Man hat ihn noch nie auf der kleinsten Unredlichkeit
-ertappt, trotzdem Vermögen durfte seine Hände gegangen
+ertappt, trotzdem Vermögen durch seine Hände gegangen
 sind. Ich stehe vor einem Rätsel.«
 
 Black versank in Nachdenken, aber plötzlich rief er aus:
 
 »Soeben fällt mir ein, daß ich selbst vor acht Tagen
-einen Edelstein zu Rosario gab. Es handelt sich nun einen
+einen Edelstein zu Rosario gab. Es handelt sich um einen
 ziemlich großen, gelben Beryll, der einen bedeutenden Wert
-hat. Ich England doch originelle Stück unter der Hand, es
-war ziemlich zerkratzt, da es als Stockkknopf gedient hatte.
-Deshalb gab ich es dem alten Portugiesen zum Abschlossen.
+hat. Ich erstand das originelle Stück unter der Hand, es
+war ziemlich zerkratzt, da es als Stockknopf gedient hatte.
+Deshalb gab ich es dem alten Portugiesen zum Abschleifen.
 Vor zwei Tagen erhielt ich das Etui, in dem das Juwel
 ruht, von Rosario zurück, hatte aber noch keine Gelegenheit,
 die Arbeit anzusehen, sondern verschloß alles in meinen
 Geldschrank, der auf eine bestimmte und mir mir bekannte
-Chiffre eingestellt ist. Bei Gott, ie) hätte nicht übel Luft
+Chiffre eingestellt ist. Bei Gott, ich hätte nicht übel Lust
 sofort nach Hause zu fahren und meinen Beryll zu kontrollieren.
-Sollte auch er eine ungünstige Vertraut!uns durchgemacht
+Sollte auch er eine ungünstige Verwandlung durchgemacht
 haben, so würde ich Verdacht gegen Rosario hegen.
 Meine Gedanken sind durch die seltsame Verwandlung der
-üubine aus meinen Stein zu Hause gerichtet.«
+Rubine auf meinen Stein zu Hause gerichtet.«
 
 »Auch mich interessiert das Getriebe nicht sehr,« sagte
 Harst. »Ich denke, wir können uns jetzt schicklicherweise
 empfehlen. Oder willst Du noch bleiben, Schraut?«
 
-»mein, nein,« wehrte ich ab, »mich interessiert diese Angelegenheit
-mehr, die die ganze Gesellschaft.«
+»Nein, nein,« wehrte ich ab, »mich interessiert diese Angelegenheit
+mehr, wie die ganze Gesellschaft.«
 
-So empfohlen wir uns und fuhren in Blacks werden
+So empfahlen wir uns und fuhren in Blacks Wagen
 zu dessen Hause.
 
-Dja nahm sich nicht einmal Zelt, Hund und Umhang
-abzulegen, Er führte uns sofort in sein Bureau, wo ein
+Black nahm sich nicht einmal Zeit, Hut und Umhang
+abzulegen. Er führte uns sofort in sein Bureau, wo ein
 mächtiger Schrank kompliziertester amerikanischer Konstruktion
-stand. nachdem er die Chiffre eingestellt! hatte, öffnete
-»Mr den Schraut. Viele Lederetui, Teufel und Kästchen
+stand. Nachdem er die Chiffre eingestellt hatte, öffnete
+er den Schrank. Viele Lederetuis, Beutel und Kästchen
 <@pagebreak/>
-wurden sichtbar, und Black wählte eins davon und trug e«
+wurden sichtbar, und Black wählte eins davon und trug es
 unter die Lampe.
 
 Ein Druck, der Deckel sprang auf, und im Lichtschein
-erinnerte uns ein rundsacettierier gelber Stein entgegen,
+schimmerte uns ein rundfacettierter gelber Stein entgegen,
 der ungewöhnlich groß war,
 
-Black ergriff eine bereitltegenve Lupe.
+Black ergriff eine bereitliegende Lupe.
 
-»Ich muß genau vorgehen,« sagte er, »gelbe drehte
-werden Ost Furche minderwertige Topase Brief. Da kann
+»Ich muß genau vorgehen,« sagte er, »gelbe Berylle
+werden oft durch minderwertige Topase ersetzt. Da kann
 ich mich auf das bloße Auge allein nicht verlassen, wie bei
-Rubinen, Herr des Himmels, Mr. Harst! Auch dieser
+Rubinen. Herr des Himmels, Mr. Harst! Auch dieser
 Stein ist falsch!«
 
 Leichenblaß ließ der alte Händler die Lupe sinken und
@@ -2065,86 +2063,86 @@ stierte uns an.
 
 »Ein Irrtum ist ausgeschlossen?« fragte Harst.
 
-»Vollkommen, Ich kaufte einen echten gelben Beruf,
-Ich gab Ihn Rosario zum Abschlossen. (ein Beryll war
-zwar zerkratzt, aber echt wie G2’« Dieses Ding hier aber
-ist nicht einmal eine Topastäuschung. Ei ist ein gelber
-eifrig, eine billige Halbedelsteinart. Er hat nicht den gehalten
-Teil des Wortes, wie mein Vorort,«
+»Vollkommen. Ich kaufte einen echten gelben Beryll.
+Ich gab Ihn Rosario zum Abschleifen. Mein Beryll war
+zwar zerkratzt, aber echt wie Gold. Dieses Ding hier aber
+ist nicht einmal eine Topastäuschung. Es ist ein gelber
+Citrin, eine billige Halbedelsteinart. Er hat nicht den zehnten
+Teil des Wertes, wie mein Beryll,«
 
 »Rosario wäre der allein Verdächtige?«
 
-»Bedenken Sie, Mr. Harst, daß der Stein mir in meinen
+»Bedenken Sie, Mr. Harst, daß der Stein nur in meinen
 und seinen Händen war. An diesen Schrank hier kann
 niemand heran, nur ich öffne ihn. Was soll ich von Rosario
-blonden. Es will nicht in meinen Kopf, daß er ein Schminke
-sein soll — und doch—«
+denken. Es will nicht in meinen Kopf, daß er ein Schurke
+sein soll — und doch —«
 
-»Sie und ich, Mr. Black, werten morgen diesen vorhin:
-Portugiesen aussuchen, Sie brauchen mich nicht als Detektiv aus
-geben, sondern einsam als Edelsteinkäufer. Co paßt an:
-gut, Sie wollten mich ja gewisse zu ihm führen. Alles
-Lasttiere worden wir dann sehen. Und nun gute Nacht, Wir
+»Sie und ich, Mr. Black, werden morgen diesen Portugiesen
+aufsuchen. Sie brauchen mich nicht als Detektiv ausgeben,
+sondern einfach als Edelsteinkäufer. Es paßt ganz
+gut. Sie wollten mich ja sowieso zu ihm führen. Alles
+weitere werden wir dann sehen. Und nun gute Nacht, Mr.
 Black, es ist schon spät.«
 
-Havelseen Dan — ha an Kamel am »nzutnstgung
+* * *
 
 <@pagebreak/>
 »Dieser seltsame Klub der »buckligen Chinesen« ist mir
 die ganze Nacht nicht aus dem Kopfe gegangen, Schraut,«
-sagte mein versank am nächsten Tage beim Frühstück zu
-Bikanir.
+sagte mein Freund am nächsten Tage beim Frühstück zu
+mir.
 
 »und mir nicht die Rubinen der Mrs. Hellway und der
-gelbe Beryll des alten Black,« Schoße ich nachdenklich.
+gelbe Beryll des alten Black,« echote ich nachdenklich.
 
-»Vielleicht Pest her:w’ sehen beiden Angelegenheiten
+»Vielleicht bestehen zwischen beiden Angelegenheiten
 Zusammenhänge,« sagte Harst.
 
-»hatte meinen zqitultd Überrascht an.
+Ich schaute meinen Freund überrascht an.
 
-»Das ist eine aufgefallene Idee.«
+»Das ist eine ausgefallene Idee.«
 
-»und vielleicht entwiaclt sich ein interessanter Fall daraus.
-Doch Ich glaube, das ist Mr. Black, der uns zu dem versprach
-denen Ausflug zu Rosario abholt,«
+»und vielleicht entwickelt sich ein interessanter Fall daraus.
+Doch Ich glaube, das ist Mr. Black, der uns zu dem versprochenen
+Ausflug zu Rosario abholt,«
 
-In der Tat erschien jetzt Dja auf der Bildfläche.
+In der Tat erschien jetzt Black auf der Bildfläche.
 
-»Da bin ich,« erklärte er, »sind Sie bereit, Mr. Harsts
+»Da bin ich,« erklärte er, »sind Sie bereit, Mr. Harst?
 Mein Wagen wartet unten.«
 
-»Haben Sie Ihren Beryll mitgebracht?
+»Haben Sie Ihren Beryll mitgebracht?"
 
-»natürlich « lautete die Antwort, »ich werde doch die
+»Natürlich« lautete die Antwort, »ich werde doch die
 Hauptsache nicht vergessen.«
 
-Der Diener brachte unsere Stäbe und Hüte, und wenige
-Minuten später saßen wir in Blut Wagen, der uns nach
+Der Diener brachte unsere Stöcke und Hüte, und wenige
+Minuten später saßen wir in Blacks Wagen, der uns nach
 der »unteren Stadt«, dem Eingeborenenviertel, führte,
 
 »Warum wohnt Rosario eigentlich in dem obskuren
 Eingeborenenviertel,« fragte mein Freund den alten Black.
 
-… »O, das ist leicht erklärlich. Schon sein Vater und
+»O, das ist leicht erklärlich. Schon sein Vater und
 Großvater haben das Geschäft in demselben alten Hause
-gehabt, und Sie also ist viel zu konservativ, um einen
-Sprecher vorzunehmen.«
+gehabt, und Rosario ist viel zu konservativ, um einen
+Wechsel vorzunehmen.«
 
-»Der alte Siam hat doch sicher viele Kostbarkeiten in
-seinem Hause. Fürchtet er sich nicht t vor Dielen!«
+»Der alte Mann hat doch sicher viele Kostbarkeiten in
+seinem Hause. Fürchtet er sich nicht vor Dieben?«
 
-»Arm, in gewissem Sinne ist der Alte modern,  l’«
-ist Sucht rote seines wittere ein rüstiger und kräftiger Mann.
+»Nun, in gewissem Sinne ist der Alte modern. Er
+ist auch trotz seines Alters ein rüstiger und kräftiger Mann.
 Er wohnt und schläft in dem Raume über seinem Laden
-und tatsächlich ist nch4 niemals der verließ gc macht worden,
-bei ihm einzubrechen. Er hat sein Sofa. alt mit allen Kläglichen
-elektrischen Schikanen ankEgestatiet, und von den elektrischen
+und tatsächlich ist noch niemals der Versuch gemacht worden,
+bei ihm einzubrechen. Er hat sein Geschäft mit allen möglichen
+elektrischen Schikanen ausgestattet, und von den elektrischen
 <@pagebreak/>
 Fallen, die der Laden enthält, erzählt man sich
-Wunderdinge. Alles ist elektrisch) gesichert, und Rosario
+Wunderdinge. Alles ist elektrisch gesichert, und Rosario
 kann den stärksten Strom einschalten, wenn es ihm paßt.
-Man kann durch) den Strom vom Leben zum Tode befördert
+Man kann durch den Strom vom Leben zum Tode befördert
 werden, und darum scheuen auch die Eingeborenen
 den Laden als ein wahres Hexenkabinett.«
 
@@ -2235,7 +2233,7 @@ Rosario brach ab und stierte nie irrsinnig um sich.
 
 In diesem Augenblick wurde die Ladentür aufgerissen.
 
-Zu unserer großen Verwunderung trat Inspektor Gier
+Zu unserer großen Verwunderung trat Inspektor Grey
 herein. In seiner Begleitung befand sich ein aufgeregter
 Herr, den ich gestern abend mit einer sehr hilpbschen Dame
 das der Soiree der Mrs. Hellway Groschen hatte, Es war
@@ -2284,7 +2282,7 @@ sich nicht vertauscht. Ich bin unschuldig!«
 
 »Vorwärts, Inspektor,« schrie begann,
 
-Nun trat Gier herbei. Er grüßte uns ernst. Ei«
+Nun trat Grey herbei. Er grüßte uns ernst. Ei«
 glaubte er, daß wir uns als Kunden im Laden Unfall
 — befanden. Aber er fragte Black doch):
 
@@ -2299,7 +2297,7 @@ keine Anklage erhoben.«
 »Aber ich,« rief Brown, »ich beantrage Verhaftung und
 Straße.«
 
-»Folgen Sie mir, Rosario,« sagte Gier ernst, »ich
+»Folgen Sie mir, Rosario,« sagte Grey ernst, »ich
 erkläre Sie für verhaftet.«
 
 Stumm wankte der alte Portugiese aus dem Laden,
@@ -2490,7 +2488,7 @@ diesmal nicht die Mühe haben, echte Steine durch wertlosere
 Halbedelsteine oder Imitationen zu erschien. Sie werden
 durch den Kellergang kommen, und ich werde sie entsprechend
 erwarten. Ich gehe jetzt, Schraut, und nehme das lebendige
-Modell Ching mit mir, um es Gier in Gewahrsam zu
+Modell Ching mit mir, um es Grey in Gewahrsam zu
 geben. Laß Dir die Zeit nicht lang werden, und halte Dich
 sanfter. Sei auch vorsichtig.«
 
@@ -2508,7 +2506,7 @@ Was würde Harst wohl machen?
 
 Er bat es mir später erzählt.
 
-Er fuhr zu Gier, wo er alt; Black vorfand. Dem Inspektor
+Er fuhr zu Grey, wo er alt; Black vorfand. Dem Inspektor
 übergab er den Chinesen und erzählte ihm dann
 alles. Von! Dan Peppers Besuch angefangen bis zu dem
 merkwürdigen Klub der Buckligen und den Juwelenimi-flionen.
@@ -2589,7 +2587,7 @@ Ganges verschwinden. dann faßte ich dort Posto.
 
 Hoffentlich war Harst rechtzeitig zur Stelle!
 
-Harst hatte mit Gier und Platz einen weit anvench-meren
+Harst hatte mit Grey und Platz einen weit anvench-meren
 blond verbracht, wie ich später erfuhr.
 
 Die Herrschaften waren ganz gemütlich zu dem Gastwirtes
@@ -2617,7 +2615,7 @@ In demselben Augenblick donnerte Harst: …
 
 »angeht Euch, Ihr seid gefangen!«
 
-Inspektor Gier und Harst sprangen herzu und packten
+Inspektor Grey und Harst sprangen herzu und packten
 den ersten der Austauchendeun beim ragen, aber sie —
 hatten um eine Sekunde zu früh gehandelt. Zwar erwischten
 sie Hause. Tag aber stieß einen Fluch aus und rot
@@ -2649,7 +2647,7 @@ Meine eigene Kugel war in meine linke Schulter gedrungen.
 Ich taumelte Wand verlor für einen Augenblick
 sie Besinnung.
 
-Als ich wieder zu mir kam, Fenster sich Harst und Gier
+Als ich wieder zu mir kam, Fenster sich Harst und Grey
 über mich,
 
 »Wie fühlst Du Dich, Sä)laut? Sei ohne Sorge, es«
@@ -2672,7 +2670,7 @@ gefahren, um einen guten Spürhund zu holen. Nur Mut,
 Schraut, wir sangen den Kerl noch heute nacht. Da ist ja
 Mr. Brown mit dem Verbandzeug. Jetzt wollen wir Dich
 herrichten, und dann fährst Du mit Brown nach Hause, währen
-Gier und ich die Spur verfolgen.«
+Grey und ich die Spur verfolgen.«
 
 Ich wurde verbunden, und danach fühlte ich mich so
 wohl, daß ich von einer Heimfahrt nichts wissen wollte. Alle
@@ -2685,11 +2683,11 @@ häßlichen, aber ungemein ge’cheit aussehenden Köter zur
 Stelle war, gab es für mich kein Halten mehr. Ich forderte
 es als mein Recht, die Jagd mitzumachen.
 
-»Lassen die ihn Herr Harst,/« sagte Gier, »die Wunde
+»Lassen die ihn Herr Harst,/« sagte Grey, »die Wunde
 ist wirklich nicht gefährlich, und er hat’s verdient dabei zu
 sein.«
 
-Diese Worte werde ich; Gier nie vergessen!
+Diese Worte werde ich; Grey nie vergessen!
 
 Und die Jagd, die sich nun entspann, war in der Tat
 aufregend und der Anspannung Wert.
@@ -2776,7 +2774,7 @@ ins daß Harsts Schuß ihn tödlich verwundete.
 
 Während Black und Brown mich zu Land ruderten,
 um mich schleunigst in ärztliche Behandlung zu launigen,
-untersuchten Harst und Gier den Sampam…
+untersuchten Harst und Grey den Sampam…
 
 Das ärmliche Fahrzeug forderte Stäbe zutage. Mrs.
 Hellways ehe Rubinen, Wracks Beruf, Browns Saphire
