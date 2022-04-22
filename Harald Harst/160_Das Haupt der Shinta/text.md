@@ -2112,7 +2112,7 @@ In der Tat erschien jetzt Black auf der Bildfläche.
 »Da bin ich,« erklärte er, »sind Sie bereit, Mr. Harst?
 Mein Wagen wartet unten.«
 
-»Haben Sie Ihren Beryll mitgebracht?"
+»Haben Sie Ihren Beryll mitgebracht?«
 
 »Natürlich« lautete die Antwort, »ich werde doch die
 Hauptsache nicht vergessen.«
@@ -2154,22 +2154,22 @@ Ladens?«
 »Er und sein Faktotum und Diener, ein Chinese,
 namens Ching. Ein treuer Kerl, aber bucklig.«
 
-Ein Wulstigen,« sagte Harst nachdenklich.
+»Ein Buckliger,« sagte Harst nachdenklich.
 
 Das Gespräch stockte.
 
 Unser Wagen stolperte Über unebenes Pflaster. Schließlich
 rasselte er auf einen Platz, der von kleinen, unansehnlichen,
-alten Häusern umgehen war. Als der Wagen mit
-Eid.« bog, erhaschte ich einen Blick aus das Straßen
+alten Häusern umgeben war. Als der Wagen um
+die Ecke bog, erhaschte ich einen Blick auf das Straßenschild.
 
-Bild.
-»Das ist ja Malabarplatz,« rief ich verbittert aus
-» Malabarplatz,« wiederholte mein Freund erstaunt,
+»Das ist ja Malabarplatz,« rief ich verblüfft aus
 
-»Ja. natürlich,« sagte Black, den unser Staunen hinstierte,
+»Malabarplatz,« wiederholte mein Freund erstaunt,
+
+»Ja, natürlich,« sagte Black, den unser Staunen irritierte,
 »Sie als Fremde können natürlich nicht wissen, daß
-der Malabarplatz in der unteren Stadt liegt.
+der Malabarplatz in der unteren Stadt liegt.«
 
 »O, ich ahnte es,« murmelte Harst zu meiner Verblüffung,
 »ist es noch weit zu Rosarios Laden, Mr. Black?«
@@ -2178,15 +2178,15 @@ der Malabarplatz in der unteren Stadt liegt.
 
 Wir hielten im selben Augenblick vor einem kleinen,
 uralten Hause, das im Erdgeschoß einen Laden enthielt und
-darüber nur ein Stockwerks, Sein Nachbarhaus war c’en-so
-gebaut, Ein Laden — ein hundert — und der Lavcuy
+darüber nur ein Stockwerk. Sein Nachbarhaus war ebenso
+gebaut. Ein Laden — ein Stockwerk — und der Laden
 war geschlossen!
 
-Ich sah Harst und er mich an. Wir hatten uns verwandten.
-Der geschlossene Laden gehörte ehemals dem »Raubten
+Ich sah Harst und er mich an. Wir hatten uns verstanden.
+Der geschlossene Laden gehörte ehemals dem »kahlen
 Dan« und jetzt — dem »Klub der buckligen Chinesen«!
 
-Die Tür des Ladens, die in ein halbdunkles Ringelte
+Die Tür des Ladens, die in ein halbdunkles Innere
 <@pagebreak/>
 führte, wurde uns von einem einfältig aussehenden verwachsenen
 Chinesen geöffnet, der uns mit tiefer Verneigung
@@ -2196,117 +2196,114 @@ Er war ein alter, weißhaariger, hagerer Mann mit
 edelgeschnittenem Gesicht und großen, dunklen Augen.
 
 »Guten Tag, meine Herren,« grüßte er uns, »guten
-Tag, Mr. Dja. Habe ich; Aussicht ein Geschäft mit Ihnen
-zu machen? Sind Sie mit dem schlief des Beryllklnopses
-zufrieden?« —
+Tag, Mr. Black. Habe ich Aussicht ein Geschäft mit Ihnen
+zu machen? Sind Sie mit dem Schliff des Beryllknopfes
+zufrieden?«
 
-»Eben dieses Knopfes halber suche ich Sie aus, lose de
-Rosario,« sagte Black ernst, »mit dem Schritt bin ich zufrieden,
+»Eben dieses Knopfes halber suche ich Sie auf, Jose de
+Rosario,« sagte Black ernst, »mit dem Schliff bin ich zufrieden,
 aber mit dem Knopf nicht. Hier ist das Etui. Nehmen
 Sie Ihre Lupe und untersuchen Sie den Stein.«
 
 Rosario willfahrte den Anordnungen seines Klienten.
-Mit einem erstaunten auf ließ er die Lupe sinken.
+Mit einem erstaunten Ruf ließ er die Lupe sinken.
 
 »Was ist das, Mr. Black? Der Beryll ist ja unecht, eine
-Nachahmung aus gelbem eifrig.«
+Nachahmung aus gelbem Citrin.«
 
-»d) freue mich, daß Sie zu derselben Feststellung kommen,
+»Ich freue mich, daß Sie zu derselben Feststellung kommen,
 wie ich, Rosario. Ich gab Ihnen aber einen echten
-
 Stein.«
 
-»Und ich habe einen echten geschehen. Mein Gott, was
-soll ich blauen halten? Sie werden doch nicht denken, Mr.
+»Und ich habe einen echten geschliffen. Mein Gott, was
+soll ich davon halten? Sie werden doch nicht denken, Mr.
+Black, daß ich —«
 
-Lack, daß ich —
-
-»Nun, Rosario, ich denke alles mögliche. Wie steht ich
-zum Beispiel mit den Kabinen der Miß, Hellway, die ich-.-
-zum Reinigen hier hatten und gestern abend der Dame schritt
-ablicfertenr Sie sind ebenso imitiert wie dieser Knopf.«
+»Nun, Rosario, ich denke alles mögliche. Wie steht es
+zum Beispiel mit den Rubinen der Mrs. Hellway, die Sie
+zum Reinigen hier hatten und gestern abend der Dame selbst
+ablieferten? Sie sind ebenso imitiert wie dieser Knopf.«
 
 »Aber ich reinigte echte Rubinen, legte sie ins Etui und
 brachte sie gestern der Dame —«
 
-Rosario brach ab und stierte nie irrsinnig um sich.
+Rosario brach ab und stierte wie irrsinnig um sich.
 
 In diesem Augenblick wurde die Ladentür aufgerissen.
 
 Zu unserer großen Verwunderung trat Inspektor Grey
 herein. In seiner Begleitung befand sich ein aufgeregter
-Herr, den ich gestern abend mit einer sehr hilpbschen Dame
-das der Soiree der Mrs. Hellway Groschen hatte, Es war
+Herr, den ich gestern abend mit einer sehr hübschen Dame
+auf der Soiree der Mrs. Hellway gesehen hatte. Es war
 <@pagebreak/>
 ein Kaufmann aus Colombo, und er war mir als Mr.
 Brown vorgestellt worden.
 
-Ohne uns zu beachten, stürzte er sich aus Rosario,
+Ohne uns zu beachten, stürzte er sich auf Rosario,
 
 »Herr Inspektor,« rief er dabei, »verhaften Sie diesen
-Mann. Tisch klage ihn des Tiebsth18 an.«
+Mann. Ich klage ihn des Diebstahls an.«
 
 »Sind Sie verrückt,« rief jetzt der alte Rosario. »Ich
 habe nicht gestohlen!«
 
-»Doch, Sie haben es,« schrie der andere und schleu-vberte
-ein Schmucetui aus den Tisch, wo es aufsprang und
-eine Saphir leite sehen ließ.
+»Doch, Sie haben es,« schrie der andere und schleuderte
+ein Schmucketui auf den Tisch, wo es aufsprang und
+eine Saphirkette sehen ließ.
 
 »Wollen Sie leugnen, die Saphire meiner Frau gestohlen
-zu haben; Sie alter Gauner! ich) gab ihnen Die
+zu haben, Sie alter Gauner! Ich gab ihnen Die
 Kette, die großen Wert hat, weil Sie mir empfohlen worden
 waren und weil an der Fassung etwas zu reparieren ist.
-Die Steine waren echt und von feinsten Feuer. Nun sehen
+Die Steine waren echt und von reinstem Feuer. Nun sehen
 Sie sich einmal an, was Sie mir abgeliefert haben. Sie
-Cuxhaven Nachahmungen in die Fassung gestützt. als gestern
-abends meine Frau den Schnur zum ersten Male wieder
+haben Nachahmungen in die Fassung gefügt. Als gestern
+abends meine Frau den Schmuck zum ersten Male wieder
 trug, seit Sie ihn abgeliefert haben, kam mir der Glanz
 der Steine verdächtig vor. Ich untersuchte sie und fand eine
 elende Imitation. Sie haben mich bestohlen. Aber Sie sollen
 es büßen. Inspektor, ich verlange, daß Sie Hand auf
 den Mann legen.«
-Grinsen zitternden Fingern hatte Rosario die Saphire c1
 
-gerissen.
+Mit zitternden Fingern hatte Rosario die Saphire ergriffen.
+
 Nun stieß er einen gellenden Schrei aus.
 
-Er sah, was auch) ich in diesem Falle konstatieren konnte,
-und was Harst und Black bereits ein erstauntes forscht
-ermitteln erlebt hatte, daß die Steine der heute eine Jmitatio1n
-
+Er sah, was auch ich in diesem Falle konstatieren konnte,
+und was Harst und Black bereits ein erstauntes Kopfschütteln
+entlockt hatte, daß die Steine der Kette eine Imitation
 waren,
 
 »Das ist Hexerei,« schrie Rosario. »Ich habe die Steine
-sich nicht vertauscht. Ich bin unschuldig!«
+nicht vertauscht. Ich bin unschuldig!«
 
-»Vorwärts, Inspektor,« schrie begann,
+»Vorwärts, Inspektor,« schrie Brown.
 
-Nun trat Grey herbei. Er grüßte uns ernst. Ei«
-glaubte er, daß wir uns als Kunden im Laden Unfall
-— befanden. Aber er fragte Black doch):
+Nun trat Grey herbei. Er grüßte uns ernst. Sicher
+glaubte er, daß wir uns als Kunden im Laden Rosarios
+befanden. Aber er fragte Black doch:
 
 <@pagebreak/>
 »Haben Sie etwa auch einen Verlust zu beklagen, Mr.
-Blut?k«
+Black?«
 
-»Ja, ich; muß es gestehen,« sagte dieser gezerrt, »mir
-ist ein Beruf vertauscht worden, aber — ich möchte vorläufig
-keine Anklage erhoben.«
+»Ja, ich muß es gestehen,« sagte dieser zögernd, »mir
+ist ein Beryll vertauscht worden, aber — ich möchte vorläufig
+keine Anklage erheben.«
 
 »Aber ich,« rief Brown, »ich beantrage Verhaftung und
-Straße.«
+Strafe.«
 
 »Folgen Sie mir, Rosario,« sagte Grey ernst, »ich
 erkläre Sie für verhaftet.«
 
-Stumm wankte der alte Portugiese aus dem Laden,
+Stumm wankte der alte Portugiese aus dem Laden.
 Brown und der Inspektor folgten.
 
-»Ich weiß nicht,« sagte Black leise, »Ab kann an eine
+»Ich weiß nicht,« sagte Black leise, »ich kann an eine
 Schuld nicht glauben. Und Sie, Herr Harst?«
 
-»Ich auch) nicht.«
+»Ich auch nicht.«
 
 »Aber welch ein Geheimnis steckt hinter dieser ganzen
 Angelegenheit?«
@@ -2318,24 +2315,27 @@ nach Hause fahren, lieber Black.«
 Der Edelsteinhändler gehorchte schweigend. Harst sah
 zu, wie er in seinen Wagen stieg. Ich brachte Black das Etui
 mit dem falschen Beryll zum Wagen, das er vergessen hatte.
-»Zaun betraten Harst und ich den Laden zum zweiten
+
+Dann betraten Harst und ich den Laden zum zweiten
 Male.
+
+* * *
 
 Als wir zurückkamen, stand Ching, der bucklige Chinese,
 mitten im Laden.
 
-C1 verwehrte uns den Eintritt nicht, beobachtete aber
+Er verwehrte uns den Eintritt nicht, beobachtete aber
 jede unserer Bewegungen,
 
-Die Anwesenheit und der Gesicht8wausdruck des Mannes
-Anstierten mich. Harst nahm jedoch keine Notiz von
+Die Anwesenheit und der Gesichtsausdruck des Mannes
+irritierten mich. Harst nahm jedoch keine Notiz von
 dem Verwachsenen.
 
 <@pagebreak/>
-Er trat an den Ladentisch heran und nahm nie Saphirkette
+Er trat an den Ladentisch heran und nahm die Saphirkette
 in die Hand, die Mr. Brown zurückgelassen hatte.
 
-In diesem Augenblick stürzte sich Ching unter Ausgrabung
+In diesem Augenblick stürzte sich Ching unter Ausstoßung
 unartikulierter Laute auf meinen Freund, und wir
 erkannten, daß wir es nicht nur mit einem Verwachsenen,
 sondern auch mit einem Taubstummen zu tun hatten.
@@ -2343,13 +2343,12 @@ sondern auch mit einem Taubstummen zu tun hatten.
 Harst beherrschte die Zeichensprache der Taubstummen,
 aber ehe er sich dem Manne verständlich machen konnte, war
 dieser, einer plötzlichen Idee folgend, zurückgesprungen und
-fuhr hastig an den Doppelten der Wand entlang.
+fuhr hastig an den Draperien der Wand entlang.
 
 Ein bläulicher Funke, der über die Decke zuckte, belehrte
 meinen Freund und mich, daß der Krüppel die elektrischen
-Nachtigallen, von denen. uns Black gesprochen hatte, einschaltete.
-
-dann duckte er sich zusammen und beobachtete uns.
+Fallen, von denen uns Black gesprochen hatte, einschaltete.
+Dann duckte er sich zusammen und beobachtete uns.
 
 Harst bemühte sich nun in Ruhe und ohne sich von der
 Stelle zu bewegen, ihm unsere guten Absichten bekannt zu
@@ -2361,121 +2360,121 @@ Entweder beherrschte er sie nicht, oder er war mißtrauisch,
 
 Geduckt und fluchtbereit schlich er zur Tür,
 
-»Er wird entkommen, Harst,« schrie ich, bereit mich aus
+»Er wird entkommen, Harst,« schrie ich, bereit mich auf
 den Verwachsenen zu stürzen.
 
 »Nicht von der Stelle, Schraut,« rief Harst mir zu, »Du
-flüsterst einen tödlichen Schlag.«
+riskierst einen tödlichen Schlag.«
 
-zuckte zurück, aber Harst hatte sich blitzschnell seines
-Hosenträgers entledigt. Einen Lasso drohend und aus der.
-selben Stelle sieben bleibend, war’s er die Schlinge um den
+Ich zuckte zurück, aber Harst hatte sich blitzschnell seines
+Hosenträgers entledigt. Einen Lasso drehend und auf der
+selben Stelle stehen bleibend, warf er die Schlinge um den
 Hals Chings und schnürte sie zu.
 
 »Du wirst ihn erwürgen, Harst,« sagte ich ängstlich.
 
-»seine Spur,« lautete die Antwort, »ich will ihn nur
+»Keine Spur,« lautete die Antwort, »ich will ihn nur
 unschädlich machen. Her mit Dir, mein Sohn!«
 
 Er zog Ching zu sich heran, und dieser schien sich in
-sein Schicksal zu ergeben. Behutsam, gefährliche Stellen de?
+sein Schicksal zu ergeben. Behutsam, gefährliche Stellen des
 Fußbodens vermeidend, ließ er sich zu Harst ziehen, der ihn
 <@pagebreak/>
 fest ansah. Wie ein gebändigtes Raubtier fügte sich der
-erwachsene dem Blick.
+Verwachsene dem Blick.
 
 »Ich glaube, Harst,« sagte ich, ohne mich von meiner
-Stelle zu flüstern, »daß der Kerl nicht nur bucklig und taubstumm,
+Stelle zu rühren, »daß der Kerl nicht nur bucklig und taubstumm,
 sondern auch ein bißchen idiotisch ist.«
 
-»Den Eindruck habe!ich auch,« lautete die Antwort meines
+»Den Eindruck habe ich auch,« lautete die Antwort meines
 Freundes. »Kannst Du herüberreichen, Schraut? So
 ist gut, hilf ihn binden!«
 
 ich folgte der Aufforderung, und Ching leistete nicht
 mehr den geringsten Widerstand,
 
-Nun verstärkte ich es, wie ein Pagode aus meiner
+Nun versuchte ich es, wie ein Pagode auf meiner
 Scholle festgenagelt, mit der Zeichensprache. Vergeblich.
 Der Chinese stierte mich nur töricht an.
 
-»Gib Dir keine Mühe, Schraut, der Mann versteht Du
-nicht. Es ist unmöglich ihm unsere Absichten klar 311 machen,
-Unsere Situation ist Zärtlich und vesährlich zugleich —
+»Gib Dir keine Mühe, Schraut, der Mann versteht Dich
+nicht. Es ist unmöglich ihm unsere Absichten klar zu machen,
+Unsere Situation ist lächerlich und gefährlich zugleich —
 doch — Ich habe eine Idee. Gib mir mal den Stock, der dort
-in der Ecke lehnt. Dir kannst Beamten hinlbergreisen.«
+in der Ecke lehnt. Du kannst bequem hinübergreifen.«
 
 Ich reichte Harst einen Spazierstock, der mit schwerer
-Silberkrücke verziert war, und —« im nächsten Vugenylick
-Vieh 19arst mit voller Kraft auf die »Laterne Labcniisch-platte.
+Silberkrücke verziert war, und — im nächsten Augenblick
+hieb Harst mit voller Kraft auf die gläserne Ladentischplatte.
 
-»Ah Taste Hof ins, all uns die Platte in Stillte springen
-sah und Ton Plan meines Freundes verstand, Die Grasplatz
-— 0 werfe »dabei, im) Durst sich aufs diese Welse eilte
-isolierende Unterlage, aus See er vorsichtig zu der Land
-besser viele hinter deren haperte der eolclirische Hebel verborgen
+Ich lachte hell auf, als ich die Platte in Stücke springen
+sah und den Plan meines Freundes verstand. Die Glasplatte
+zersplitterte und so schuf Harst sich auf diese Weise eine
+isolierende Unterlage, auf der er vorsichtig zu der Wand
+balancierte, hinter deren Draperie der elektrische Hebel verborgen
 war.
 
-Schein Gla&scherben tastete er langsam die Wand
-ab, bis er Genietet gefunden hatte.
+Mit einem Glasscherben tastete er langsam die Wand
+ab, bis er den Hebel gefunden hatte.
 
-dann schaltete er den Strom aus, und ihn atmete auf.
+dann schaltete er den Strom aus, und ich atmete auf.
 
 »So, Schraut, nun kannst Du Dich rühren, und wir
-wollen an die Arbeit geben.«
+wollen an die Arbeit gehen.«
 
-Harst verschloß die Lauerten mit dem Schlüssel, der
+Harst verschloß die Ladentür mit dem Schlüssel, der
 innen steckte. Wir prüften nochmals die Bänder, die unseren
-Gefangenen um schnürten und untersuchten dann die Rätum-lichfeilen
+Gefangenen umschnürten und untersuchten dann die Räumlichkeiten
 <@pagebreak/>
-des Rosario auf das genaueste, Weder im ersten
-Stock, wo die bescheidenen Wohnräume hatten, noch im hatten
-fanden wir etwas, was den Portugiesen belaste«
-konnte. Das Haus war unterkellert, Auch in den Keller
+des Rosario auf das genaueste. Weder im ersten
+Stock, wo die bescheidenen Wohnräume lagen, noch im Laden
+fanden wir etwas, was den Portugiesen belasten
+konnte. Das Haus war unterkellert. Auch in den Keller
 stiegen wir.
 
 Hier wurde einiges Gerümpel aufbewahrt, einige
-Kisten und Körbe, sanft war der Raum leer.
+Kisten und Körbe. Sonst war der Raum leer.
 
-Plötzlich stieß ich einen auf der Überraschung ans.
-Ich hatte auf einige Bretter getreten, die Natur meinem Tritt
-ein hohles Geräusch gaben. Rasch eilte Harst aus meinen
-auf herbei,
+Plötzlich stieß ich einen Ruf der Überraschung aus.
+Ich hatte auf einige Bretter getreten, die unter meinem Tritt
+ein hohles Geräusch gaben. Rasch eilte Harst auf meinen
+Ruf herbei,
 
 Wir räumten die Bretter zur Seite und entdeckten ein
-Loch, das in die finstere Tiefe führte. Die frischer Erde verriet,
+Loch, das in die finstere Tiefe führte. Die frische Erde verriet,
 daß es neu war.
 
-Harst ließ sich hinab, lehnte aber bald wieder.
+Harst ließ sich hinab, kehrte aber bald wieder.
 
 »Nun, was gibt’s,« fragte ich gespannt,
 
-»Ein Gang in das Nebenhaus wir haben es mit einer
-raffinierten Gesellschaft zu mit und müssen einen raffinierten
-Plan Zugglocken, um sie abzufsanoean. Komm in den Laden
-zurück, Schraut, Du Witz die Rolle eines taubstumimen
+»Ein Gang in das Nebenhaus. Wir haben es mit einer
+raffinierten Gesellschaft zu tun und müssen einen raffinierten
+Plan aushecken, um sie abzufangen. Komm in den Laden
+zurück, Schraut. Du mußt die Rolle eines taubstummen
 und buckligen Chinesen übernehmen,«
 
-Na, eine schöne Male ist so etwas nicht aber ich hatte
-in meinem Leben schon so viel sonderbare voller gespielt,
-daß es auf eine mehr oder weniger nicht! ankam.
+Na, eine schöne Maske ist so etwas nicht, aber ich hatte
+in meinem Leben schon so viel sonderbare Rollen gespielt,
+daß es auf eine mehr oder weniger nicht ankam.
 
-Zuerst also mußte ich mit unserem! Gefangenen die drei:
-der toe4hseln. ach bekam seine ckdincesisck’en Gewänder mit
-er meine Europäerkleidung an. Diesig Haar wurde Tote
-der schwarzen Scidenfai-pc verborgen, die Ching tun. Eine
-See, eng zusammengerollt, gab wir die verwachsene Figur.
-Nun war nur noch meine Gesichtsfarbe zu Taschen an, las
-war eine Schwierlgakeit. Aber Haust entdeckte in einem
-kleinen Küchenraum etwas Safran, ein beliebtes offen: 3:
-Lichtes Gewürz, rührte Cm Tüte. Beet Baron mit
-strich mir das Gesicht damit. Eis e? (rote, Hunde 1.1
-schmale mit Safran Überpuderlt.
+Zuerst also mußte ich mit unserem Gefangenen die Kleider
+wechseln. Ich bekam seine chinesischen Gewänder und
+er meine Europäerkleidung an. Mein Haar wurde unter
+der schwarzen Seidenkappe verborgen, die Ching trug. Eine
+Decke, eng zusammengerollt, gab mir die verwachsene Figur.
+Nun war nur noch meine Gesichtsfarbe zu kaschieren. Das
+war eine Schwierigkeit. Aber Harst entdeckte in einem
+kleinen Küchenraum etwas Safran, ein beliebtes orientalisches
+Gewürz, rührte einen braunen Brei davon und bestrich
+mir das Gesicht damit. Als es trocknete, wurde ich
+schmale mit Safran überpudert.
 
-»Der Klub der buckligen Chinesen tagte nur aber:
+»Der Klub der buckligen Chinesen tagte nur abends,«
 <@pagebreak/>
 sagte Harst zu mir, »und Deine Maske ist für den Abend
-zurechtgemacht, Dem Tageslicht würde sie nicht standhalten.
+zurechtgemacht. Dem Tageslicht würde sie nicht standhalten.
 Du bist nun Ching, der stumme Chinamann, der mit dem
 Klub der Buckligen in verbrecherischer Verbindung steht.
 Deinen Herrn hat man heute verhaftet und seinen Laden
@@ -2485,172 +2484,170 @@ oder vielmehr seine verbrecherischen Anführer, versuchen,
 Ihren Raubzug in den Juwelenladen hier komplett zu
 machen. Sie werden alles mitnehmen, was wertvoll ist und
 diesmal nicht die Mühe haben, echte Steine durch wertlosere
-Halbedelsteine oder Imitationen zu erschien. Sie werden
+Halbedelsteine oder Imitationen zu ersetzen. Sie werden
 durch den Kellergang kommen, und ich werde sie entsprechend
 erwarten. Ich gehe jetzt, Schraut, und nehme das lebendige
 Modell Ching mit mir, um es Grey in Gewahrsam zu
 geben. Laß Dir die Zeit nicht lang werden, und halte Dich
-sanfter. Sei auch vorsichtig.«
+tapfer. Sei auch vorsichtig.«
 
 Ching schien durch die ganze Maskerade völlig verdattert
-zu sein. Sein schwacher Geist mußte uns für Tau:
-derer halten. Wir hatten der hexenhaften Elektrizität geirrt,
+zu sein. Sein schwacher Geist mußte uns für Zauberer
+halten. Wir hatten der hexenhaften Elektrizität getrotzt,
 und ich hatte mich in einen Ching Nummer zwei
-verwandelt! das Erwürgte, um den armen Kerl völlig zu
+verwandelt! Das genügte, um den armen Kerl völlig zu
 unterjochen und ein Revolver, den Harst seinem Opfer
-zeigte, tat das Übrige. Drachen folgte Ching meinem
-Freunde. sich sah, wie die beiden in einen Wagen stiegen,
+zeigte, tat das Übrige. Ergeben folgte Ching meinem
+Freunde. Ich sah, wie die beiden in einen Wagen stiegen,
 und dann blieb ich einsam in dem Laden zurück.
 
 Was würde Harst wohl machen?
 
-Er bat es mir später erzählt.
+Er hat es mir später erzählt.
 
-Er fuhr zu Grey, wo er alt; Black vorfand. Dem Inspektor
+Er fuhr zu Grey, wo er auch Black vorfand. Dem Inspektor
 übergab er den Chinesen und erzählte ihm dann
-alles. Von! Dan Peppers Besuch angefangen bis zu dem
-merkwürdigen Klub der Buckligen und den Juwelenimi-flionen.
+alles. Von Dan Peppers Besuch angefangen bis zu dem
+merkwürdigen Klub der Buckligen und den Juwelenimitationen.
 
 Bald wurde dem Inspektor die Sache klar,
 
 Eine Gesellschaft schurkischer Chinamänner hatte sich zusammengetan,
 <@pagebreak/>
 um Rosario auf gemeine und raffinierte
-Weise zu beraundben,
+Weise zu berauben,
 
-Einen Schubfach in seinen Laden wagte man der Fallen
-wegen nicht, man hatte eine viel origineUlere Idee.
+Einen Einbruch in seinen Laden wagte man der Fallen
+wegen nicht, man hatte eine viel originellere Idee.
 
 Dan Peppers Laden, der bequem lag, wurde gemietet
 und ein »Klub der Buckligen« installiert. Die beiden Hauptverbrecher
-glasierten sich als Krüppel aus und inserieriein
+staffierten sich als Krüppel aus und inserierten
 nach Leidensgenossen, denen sie Essen, Getränke und die geliebte
 Opiumpfeife verabreichten. Während ihre Genossen
-im Opiumrausch lagen, gruben sich heimlich, nüchtern und
+im Opiumrausch lagen, gruben sie heimlich, nüchtern und
 stetig den verborgenen Gang zu Rosario. Auch Ching
 wußte nichts von den verbrecherischen Plänen.
 
-Er war isöricht und ein Buckliger, was lag näher, als
+Er war töricht und ein Buckliger, was lag näher, als
 daß er dem Klub beitrat, wo er es so gut hatte und Opium
-
-Sesam.
+bekam.
 
 In seiner Torheit plauderte er die Gewohnheiten Rosarios
-aus in einer chinesisch;en Zeichensprache, die mir und
-Harst fremd war. Wenn er von Opium betäubt aus seiner
+aus in einer chinesischen Zeichensprache, die mir und
+Harst fremd war. Wenn er von Opium betäubt auf seiner
 Matte lag, arbeiteten die Verbrecher in Rosarios Laden,
-stahlen die echten Steine und Geliebten sie Fluch mindertiver-tiges
+stahlen die echten Steine und ersetzten sie durch minderwertiges
 Zeug.
 
-über, wie gesagt, dieses erfuhr ich alles erst später.
-Vorläufig saß ich einsam in meinem Laden und lehnte die
+Aber, wie gesagt, dieses erfuhr ich alles erst später.
+Vorläufig saß ich einsam in meinem Laden und sehnte die
 Zeit herbei, da mich Harst aus meiner Lage befreien würde.
 
-Es wurde dunkel. die Uhr zeigte auf zehn — im Nebenhause
+Es wurde dunkel, die Uhr zeigte auf zehn — im Nebenhause
 wurde es geräuschvoll. Der Klub der Buckligen
-tagte
+tagte!
 
 Ich schlich mich in das Nebenhaus, in den verdächtigen
-Laden. Meiner Maske war ij) sicher, die chinesische Sprache
-brauchte ich nicht zu sprechen, da ich: ja täubsumit war. So
+Laden. Meiner Maske war ich sicher, die chinesische Sprache
+brauchte ich nicht zu sprechen, da ich ja taubstumm war. So
+weit ging alles gut. Nur mein »Teint« machte mir Sorgen!
 
-— Weit aging alles Mount. Nur mein »Teint« machte mir Sorgen!
+Aber auch das klappte.
 
-Über auch das klappte.
 Das Versammlungslokal war aus guten Gründen
-ziemlich dunkel, man gab mir bald meine OQpiimpfeise, ich
-
-604 mich in eine Drehung, angeblich rauchend, In Wahrheit
+ziemlich dunkel, man gab mir bald meine Opiumpfeife, ich
+zog mich in eine Ecke zurück, angeblich rauchend. In Wahrheit
 <@pagebreak/>
-war ich auf der Gut und beobachtete scharf. Natürlich
-würden die Verbrecher heute den Hauptes/lag tun,
+war ich auf der Hut und beobachtete scharf. Natürlich
+würden die Verbrecher heute den Hauptschlag tun,
 
 die Verhaftung Rosarios hatte sich bereits herumgesprochen,
 der Laden des Portugiesen war allein, nur unter
-Chings Thar, und den hatte man, wie der Anschein zeigte,
+Chings Obhut, und den hatte man, wie der Anschein zeigte,
 unschädlich gemacht.
 
-I) konnte beobachten, daß bald alles mit Opiumpfeifen
+Ich konnte beobachten, daß bald alles mit Opiumpfeifen
 versehen war und in seliges Nirwana versank. Zwei Männer
-aufgenommen. Sie wurden von den anderen Hause
-und Tag genannt.
+ausgenommen. Sie wurden von den anderen Hanlo
+und Tan genannt.
 
-sein alles angeblich schlief und ich mit, verschwanden die
+Als alles angeblich schlief und ich mit, verschwanden die
 beiden.
 
-Kurze Frist ließ ich verstreichen, kann entsicherte ich die
-Waffe, die mir Haust im letzten Augenblick heimlich über
-geben hatte und schlich hinter den beiden her.
+Kurze Frist ließ ich verstreichen, dann entsicherte ich die
+Waffe, die mir Harst im letzten Augenblick heimlich übergeben
+hatte und schlich hinter den beiden her.
 
-Ich) sah sie gerade noch in dem Loch des unterirdischen
+Ich sah sie gerade noch in dem Loch des unterirdischen
 Ganges verschwinden. dann faßte ich dort Posto.
 
 Hoffentlich war Harst rechtzeitig zur Stelle!
 
-Harst hatte mit Grey und Platz einen weit anvench-meren
-blond verbracht, wie ich später erfuhr.
+Harst hatte mit Grey und Black einen weit angenehmeren
+Abend verbracht, wie ich später erfuhr.
 
-Die Herrschaften waren ganz gemütlich zu dem Gastwirtes
-einer Lperetteugesclscust Regal er, da Harst schluckte,
-vor elf Uhr alenv&8 rate eine Expredition nach Diwan bar
-Fluß keinen Kittel, dann Warten sie Mr. Zornig von seinen
-Klub abgeholt wo ihn mitgegangen, im dem sie ihm versprach
-en, das Geböoimnis seiner vertauschten Saphire aufzuklären,
+Die Herrschaften waren ganz gemütlich zu dem Gastspiel
+einer Operettengesellschaft gefahren, da Harst erklärte,
+vor elf Uhr abends hätte eine Expedition nach Malabarplatz
+keinen Zweck, dann hatten sie Mr. Brown von seinem
+Klub abgeholt und ihn mitgenommen, im dem sie ihm versprachen,
+das Geheimnis seiner vertauschten Saphire aufzuklären,
 
 mit Revolvern bewaffnet waren dann die Herren
-heimlich zu viosario&s Laden zeichnen,
+heimlich zu Rosarios Laden geschlichen.
 
-Hier hatten sie sich im dunklen Keller auf ihre v:Versen
-Plätze auf Kisten und Körbe verteilt und, die Lidern:r im
-Vortrag auf die Dinge erwartet, die da kommen Boden.
+Hier hatten sie sich im dunklen Keller auf ihre diversen
+Plätze auf Kisten und Körbe verteilt und, die Revolver im
+Anschlag auf die Dinge gewartet, die da kommen würden.
 
-Es entwickelte sich alles so, wie Harst es erwartet hält,
+Es entwickelte sich alles so, wie Harst es erwartet hatte.
 
-plötzlich wurden die Priester der Grube leise!te Methoden
-und zwei Chinesenlüpse tauchten aus der Öffnung
-As, eine Blendlaterne in den Händen.
+plötzlich wurden die Bretter der Grube beiseite geschoben
+und zwei Chinesenköpfe tauchten aus der Öffnung
+auf, eine Blendlaterne in den Händen.
 
 <@pagebreak/>
-In demselben Augenblick donnerte Harst: …
+In demselben Augenblick donnerte Harst:
 
-»angeht Euch, Ihr seid gefangen!«
+»Ergebt Euch, Ihr seid gefangen!«
 
 Inspektor Grey und Harst sprangen herzu und packten
-den ersten der Austauchendeun beim ragen, aber sie —
+den ersten der Auftauchenden beim Kragen, aber sie —
 hatten um eine Sekunde zu früh gehandelt. Zwar erwischten
-sie Hause. Tag aber stieß einen Fluch aus und rot
-wischte durch den Gang rückwärts.
+sie Hanlo. Tan aber stieß einen Fluch aus und entwischte
+durch den Gang rückwärts.
 
-»Keine Angst, jenseits der Falle gibt Schraut als buckliger
+»Keine Angst, jenseits der Falle sitzt Schraut als buckliger
 Ching und empfängt den Schurken.«
 
 Ich sah auch das, ich empfing den Schurken auch. Aber
 auch ich war zu eifrig und handelte zu früh.
 
-Tag mußte auch Unrat gerochen haben,
+Tan mußte auch Unrat gerochen haben,
 
-Vorbereitet aus eine Überraschung tauchte er mit dem
-Angrissömut der Verzweiflung aus dem Loch an meiner
+Vorbereitet auf eine Überraschung tauchte er mit dem
+Angriffsmut der Verzweiflung aus dem Loch an meiner
 Kellerseite auf, ich erhielt einen Stoß vor die Brust — ich
-gehst — ein weiterer Stoß traf meinen Unterarm, und
+schoß — ein weiterer Stoß traf meinen Unterarm, und
 mein Revolver entlud sich gegen mich selbst.
 
 Die Detonation des Schusses war in dem Keller so
-stark, daß mir die Ohren selten, und gleichzeitig fühlte ich
-einen Schlag und befunden Schmerz gegen die Schulter,
+stark, daß mir die Ohren gellten, und gleichzeitig fühlte ich
+einen Schlag und heftigen Schmerz gegen die Schulter,
 
 Ich stieß einen Schrei aus, der meine Freunde jenseits
 des Ganges alarmieren sollte, und der auch ein Schrei des
 Schmerzes war,
 
 Meine eigene Kugel war in meine linke Schulter gedrungen.
-Ich taumelte Wand verlor für einen Augenblick
-sie Besinnung.
+Ich taumelte und verlor für einen Augenblick
+die Besinnung.
 
-Als ich wieder zu mir kam, Fenster sich Harst und Grey
+Als ich wieder zu mir kam, beugten sich Harst und Grey
 über mich,
 
-»Wie fühlst Du Dich, Sä)laut? Sei ohne Sorge, es«
+»Wie fühlst Du Dich, Schraut? Sei ohne Sorge, es
 ist nur eine Fleischwunde.«
 
 »Die Geschichte brennt ein wenig,« sagte ich, »ich ärgere
@@ -2660,134 +2657,132 @@ Harst lachte.
 
 Nur Geduld,« sagte er, »der Kerl hat eine Fährte hinterlassen.
 Er ist nicht durch den Laden geflohen, sondern
-durch eine Getrennte in den Hausgang und von dort an
+durch eine Seitentür in den Hausgang und von dort auf
 <@pagebreak/>
 den Platz. In dem Hausgang steht aber eine Firniskanne.
 die hat er auf seiner Flucht umgestoßen und ist mit den
 nackten Füßen in das Zeug getreten. Das gibt eine Spur,
-die sich meilenweit verfolgen läßt. Mr. Blut ist nach Hause
+die sich meilenweit verfolgen läßt. Mr. Black ist nach Hause
 gefahren, um einen guten Spürhund zu holen. Nur Mut,
-Schraut, wir sangen den Kerl noch heute nacht. Da ist ja
+Schraut, wir fangen den Kerl noch heute nacht. Da ist ja
 Mr. Brown mit dem Verbandzeug. Jetzt wollen wir Dich
-herrichten, und dann fährst Du mit Brown nach Hause, währen
+herrichten, und dann fährst Du mit Brown nach Hause, während
 Grey und ich die Spur verfolgen.«
 
 Ich wurde verbunden, und danach fühlte ich mich so
 wohl, daß ich von einer Heimfahrt nichts wissen wollte. Alle
-verschwommene Nerven waren gespannt, ich wollte an der Jagd teilte
+meine Nerven waren gespannt, ich wollte an der Jagd teilhaben.
 
-haben.
-
-Und als endlich Black mit einem zwar struppigen und —
-häßlichen, aber ungemein ge’cheit aussehenden Köter zur
+Und als endlich Black mit einem zwar struppigen und
+häßlichen, aber ungemein gescheit aussehenden Köter zur
 Stelle war, gab es für mich kein Halten mehr. Ich forderte
 es als mein Recht, die Jagd mitzumachen.
 
-»Lassen die ihn Herr Harst,/« sagte Grey, »die Wunde
+»Lassen Sie ihn Herr Harst,« sagte Grey, »die Wunde
 ist wirklich nicht gefährlich, und er hat’s verdient dabei zu
 sein.«
 
-Diese Worte werde ich; Grey nie vergessen!
+Diese Worte werde ich Grey nie vergessen!
 
 Und die Jagd, die sich nun entspann, war in der Tat
-aufregend und der Anspannung Wert.
+aufregend und der Anspannung wert.
 
-Unser Hund, ein Blecherner namens Binkie, führt uns
+Unser Hund, ein Mischterrier namens Binkie, führt uns
 quer durch das ganze Eingeborenenviertel. Mr. Brown
-genauere schon und selbst Black zeigte Zeichen von Gemüter
-Verkleidung. Kreuz und quer ging es durch die verzwicktesten
-Gatten. Ostinaläs blieb unter vierbeiniger Führer lieber;
+schnaufte schon und selbst Black zeigte Zeichen von Ermüdung.
+Kreuz und quer ging es durch die verzwicktesten
+Gassen. Oftmals blieb unser vierbeiniger Führer stehen
 und schien die Spur verloren zu haben, was mich fast mit
-Verzweiflung erfüllte, dann aber nahm; er die Fährte wieder
-aus, und ich war erleichtert,
+Verzweiflung erfüllte, dann aber nahm er die Fährte wieder
+auf, und ich war erleichtert,
 
-I4 ahnte nicht, daß schon das beginnende Wunde
-
-Eber in mir größte und mich mit einer Jutensiviiät an der
-Bad teilnehmen ließ, die ich sonst nicht in [so krankhaften
+Ich ahnte nicht, daß schon das beginnende Wundfieber
+in mir glühte und mich mit einer Intensivität an der
+Jagd teilnehmen ließ, die ich sonst nicht in so krankhaftem
 Maße aufgebracht hätte,
-Sc4h sichtlich kam es zur Katastrophe.
+
+Schließlich kam es zur Katastrophe.
 
 <@pagebreak/>
-Der Hund hatte uns zu dem Fluß. dem Jrasambsi, ge
-führt, der bei Colombo in die See mündet, und hier schien
+Der Hund hatte uns zu dem Fluß, dem Irasambi, geführt,
+der bei Colombo in die See mündet, und hier schien
 die Fährte verloren!
 
-ie Flußmündung, hier zu einem Delta verbreitert
-wimmelte von einheimischen Sampams (Eingeborenen
-Boote). Aus welchem von diesen Fahrzeugen mochte der
-entflohene Tag stießen?
+Die Flußmündung, hier zu einem Delta verbreitert
+wimmelte von einheimischen Sampams (Eingeborenenboote).
+Auf welchem von diesen Fahrzeugen mochte der
+entflohene Tan stecken?
 
-Wir irrten das Ufer auf und ab, unser Hund kläglich
+Wir irrten das Ufer auf und ab, unser Hund kläffte
 verzweifelt. Alles lag in Dunkelheit gehüllt, und nur die
-Lichter eines Leuchtfeuers, die hin und wieder aussuchten,
-warten erhellenden Schein Über den Fluß.
+Lichter eines Leuchtfeuers, die hin und wieder aufzuckten,
+warfen erhellenden Schein Über den Fluß.
 
-Und ja, dann war da en breites, flaches Boot, an den
+Und ja, dann war da ein breites, flaches Boot, an dem
 eine Laterne glühte!
 
 War es mein kranker Zustand, der meine Sinne in ungewöhnlicher
 Weise schärfte und mich gerade auf diesem
-Boot den Geliebten mit geradezu unnatürlicher Kraft mit:
-fern ließ?
+Boot den Gesuchten mit geradezu unnatürlicher Kraft wittern
+ließ?
 
 Anders konnte es nicht sein, als ich mich, begleitet von
 einem Schrei der anderen, plötzlich in die Fluten stürzte
-und aus den Sampam zu schwamm. Ein Schnauzen hinter
-mir ließ mich einen Blick rückwärts weißen. Binkie sHwamut
+und auf den Sampam zu schwamm. Ein Schnaufen hinter
+mir ließ mich einen Blick rückwärts werfen. Binkie schwamm
 dicht hinter mir.
 
 Dann hörte ich ein Paddeln schneller Ruderschläge.
 
 Harst und die anderen hatten ein Boot aufgetrieben und
-anderen hinter mir, um mich dem feuchten Clement zu eilt
-reißen.
+ruderten hinter mir, um mich dem feuchten Element zu entreißen.
 
 Ich aber hatte schon den Sampam erreicht, umklammerte
-seine niedrige Bordwand, zog mich daran empor und.
-kam einen Schlag aus den Kopf, der mich in die Tiefe
-gib.
+seine niedrige Bordwand, zog mich daran empor und
+kam einen Schlag auf den Kopf, der mich in die Tiefe
+riß.
 
-64 Während ich versank, hörte ich einen Schuß und einen
+Während ich versank, hörte ich einen Schuß und einen
 Schrei.
-» das war Tag, der schrie,« dachte ich, »und Harst ha?
-ihn getroffen. um mich zu rächen, denn nun sterbe ich.«
 
-Dunkel empfand ich, daß jemand die Zähne in melden
+»das war Tan, der schrie,« dachte ich, »und Harst hat
+ihn getroffen, um mich zu rächen, denn nun sterbe ich.«
 
-Kragen grob.
+Dunkel empfand ich, daß jemand die Zähne in meinen
+Kragen grub.
 
 <@pagebreak/>
-»st das Binkie, der mich rettet?« dachte ich,
-Dann wurde als-2 finster, 1ic- war ohnmächtig.
+»Ist das Binkie, der mich rettet?« dachte ich,
 
-—.« « »er »aimmntanits »nmmamtgund Gast Witmatiatlid ammgmwes enmugidun Erstaunen uma
+Dann wurde alles finster, ich war ohnmächtig.
 
-Es war in der Tat Binkie, der mich vor dem endgülit-ven
-Untergehen gerettet hatte, Daß er mich schwimmend
-Trug, bis ist Ins Boot gezogen. wurde, erzählte man mir
+* * *
+
+Es war in der Tat Binkie, der mich vor dem endgültigen
+Untergehen gerettet hatte. Daß er mich schwimmend
+trug, bis ich Ins Boot gezogen wurde, erzählte man mir
 erst später.
 
-Später Stich erfuhr ich erst, daß wir tatsächlich Tanz
+Später auch erfuhr ich erst, daß wir tatsächlich Tans
 Sampam erreicht hatten, daß er mich auf den Kopf schlug,
-ins daß Harsts Schuß ihn tödlich verwundete.
+und daß Harsts Schuß ihn tödlich verwundete.
 
-Während Black und Brown mich zu Land ruderten,
-um mich schleunigst in ärztliche Behandlung zu launigen,
-untersuchten Harst und Grey den Sampam…
+Während Black und Brown mich an Land ruderten,
+um mich schleunigst in ärztliche Behandlung zu bringen,
+untersuchten Harst und Grey den Sampam.
 
-Das ärmliche Fahrzeug forderte Stäbe zutage. Mrs.
-Hellways ehe Rubinen, Wracks Beruf, Browns Saphire
-und noch vieles andere wurde gefunden und seinen Eigen-titmern
+Das ärmliche Fahrzeug forderte Schätze zutage. Mrs.
+Hellways echte Rubinen, Blacks Beryll, Browns Saphire
+und noch vieles andere wurde gefunden und seinen Eigentümern
 zugestellt.
 
-ich aber erwachte nach Tagen in Mrs, Hellways Hause
-alle Rekonvaleszent. Die jüngste Pflege wurde mir zuteil,
-wund für als war es ein Feiertag, als ich so weit war, auf
-die Veranda humpeln zu dürfen, um mich alt der Sonne
-hat laben und das Leben und Treiben des bunten Colombo
-3« Legebachten. Harst saß neben mir, und Mr&8, Hofstaat
-brachte mir Tee und Toast. Ich war über den Berg — — und
+ich aber erwachte nach Tagen in Mrs. Hellways Hause
+als Rekonvaleszent. Die gütigste Pflege wurde mir zuteil,
+und für als war es ein Feiertag, als ich so weit war, auf
+die Veranda humpeln zu dürfen, um mich an der Sonne
+zu laben und das Leben und Treiben des bunten Colombo
+zu beobachten. Harst saß neben mir, und Mrs. Hellway
+brachte mir Tee und Toast. Ich war über den Berg — und
 hatte Appetit auf neue Abenteuer.
 
 Nächster Dann:
