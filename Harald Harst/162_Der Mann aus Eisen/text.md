@@ -1,32 +1,31 @@
 <@pagebreak/>
 
-Der Mann aus Eisen.
+<h1>Der Mann aus Eisen.</h1>
 
 <h2>1. Kapitel.</h2>
 
 <h3>Zwei vor der Tür.</h3>
 
-Wir hatten Fräulein Elisabeth Walker (der Leser be …
-Sinai sich noch, daß sie von Erpressern entführt war) persönlich
+Wir hatten Fräulein Elisabeth Walker (der Leser besinnt
+sich noch, daß sie von Erpressern entführt war) persönlich
 zu ihren Angehörigen nach Breslau zurückgebracht und
-verlebten im Hause ihres Vaters ein paar angenehme Ruhe
-(age.
+verlebten im Hause ihres Vaters ein paar angenehme Ruhetage.
 
-Aus dieser mir sehr wohltuenden himmlischen Mute
-scheuchte uns eine Depesche aus, die uns von Berlin hierher
+Aus dieser mir sehr wohltuenden himmlischen Muße
+scheuchte uns eine Depesche auf, die uns von Berlin hierher
 nachgeschickt worden war.
 
 Sie lautete:
 
-»Bitte sofort kommen. Honorar Nebensache. Haar:
-handelt sich um einen Fall von seltener Eigenart. — Dr.
-Martin Geßling, Langsiybr-Danzig Mithatten Weg 10.«
+> »Bitte sofort kommen. Honorar Nebensache.
+Handelt sich um einen Fall von seltener Eigenart. — Dr.
+Martin Geßling, Langfuhr-Danzig Mirchauer Weg 10.«
 
--Am anderen Vormittag elf Uhr standen wir vor einem
-großen. allein Gebäude, das mitten in einem aunsgevehnten
+Am anderen Vormittag elf Uhr standen wir vor einem
+großen alten Gebäude, das mitten in einem ausgedehnten
 verwilderten Garten lag.
 
-Dies war Mirhauer Weg 10.
+Dies war Mirchauer Weg 10.
 
 Wir läuteten an der Gartenpforte, läuteten nochmals …
 
@@ -42,14 +41,14 @@ Wir drehten uns um …
 Ein alter buckliger Herr mit blauer Brille zog jetzt seinen
 zerknitterten Filz …
 
-»Walther Martin Geßling …«
+»Doktor Martin Geßling …«
 
 Harald desgleichen:
 
 »Harald Harst … Hier mein Freund Max Schraut …«
 
 »Gott sei Dank!!« entfuhr es dem buckligen Männchen.
-»Es ist auch die höchste Zeit, daß Sie kommen … Die Satt
+»Es ist auch die höchste Zeit, daß Sie kommen … Die Sache
 wächst mir über den Kopf …«
 
 Und er streckte uns freudig erregt die Hände hin …
@@ -57,76 +56,75 @@ Und er streckte uns freudig erregt die Hände hin …
 »Bitte — ich schließe sofort auf … Wo haben Sie denn
 Ihre Koffer? Sie wohnen doch natürlich bei mir. Ich habe
 ja übergenug Platz … Ich bewohne mein Haus ganz
-also …«
+allein …«
 
 Harald schüttelte den Kopf …
 
-»und das Wohnuungsamt, Herr Doktor?«
+»und das Wohnungsamt, Herr Doktor?«
 
-Geßling Gesegnete die Gartenpforte und erwiderte dabei:
+Geßling öffnete die Gartenpforte und erwiderte dabei:
 
 »Aber — aber!! Haben die Herren denn noch nie
-etwas von dem Gedünsteten Privatmuseum gehört?L, —
+etwas von dem Geßlingschen Privatmuseum gehört?! —
 Meine Sammlung westpreußischer Altertümer ist doch einigermaßen
-be … kann! …«
+be…kannt …«
 
 Er hatte offenbar »berühmt« sagen wollen …
 
 Wir betraten den Garten …
 
-Es war Sauwetter, und vielleicht lag es daran, daß
+Es war Tauwetter, und vielleicht lag es daran, daß
 das große Haus und der Garten so düster und unheimlich
 wirkten. Der Himmel war dicht mit Wolken bedeckt, und
-bin und wieder stäubte ein dünner Regen herab, der hier
-längst allen Schnee in üble Wasserlachen ausgelöst hatte.
+hin und wieder stäubte ein dünner Regen herab, der hier
+längst allen Schnee in üble Wasserlachen aufgelöst hatte.
 
 Als wir die Diele dieses alten Hauses sahen, bekamen
-wir bereits einen Vorgeschmack von all den antiken Schatten,
+wir bereits einen Vorgeschmack von all den antiken Schätzen,
 die der Privatgelehrte hier im Laufe eines arbeitsfreudigen
 Lebens aufgestapelt hatte.
 
 <@pagebreak/>
-Hier in der Vorhalle lernten wir nun auf des Doktor
-seltsames Faktotum kennen, Herrn Emanuel Bergstaat, ein?
-Menschen, der die Bezeichnung Hopfenstang?? mit Recht der
-diente.
+Hier in der Vorhalle lernten wir nun auch des Doktors
+seltsames Faktotum kennen, Herrn Emanuel Mollant, einen
+Menschen, der die Bezeichnung Hopfenstange mit Recht verdiente.
 
-Emanuel maß mindestens zwei Meter. Dabei hielt: er
-sich trotz seiner -Jahre — er konnte kaum jünger als Heu
-Herr sein — kerzengerade und war offenbar nicht nur sei
-Vertraute seines Herrn, fanden auch »Mädchen für all 25«.
+Emanuel maß mindestens zwei Meter. Dabei hielt er
+sich trotz seiner Jahre — er konnte kaum jünger als sein
+Herr sein — kerzengerade und war offenbar nicht nur der
+Vertraute seines Herrn, sondern auch »Mädchen für alles«.
 
-Harald erlaubte sich die Frage, weshalb Emanuel a1]
-unser Läuten hin nicht gebreitet habe.
+Harald erlaubte sich die Frage, weshalb Emanuel auf
+unser Läuten hin nicht geöffnet habe.
 
--«»Zaun, Herr Harst,« erklärte Geßling mit einem geheim-niäSvollen
+»Nun, Herr Harst,« erklärte Geßling mit einem geheimnisvollen
 Lächeln, »das hängt mit den Dingen zusammen,
 die ich Ihnen sofort erzählen werde. Bevor Sie hier nicht
-eingetroffen waren, sollte niemand mein Haus betretet.
+eingetroffen waren, sollte niemand mein Haus betreten.
 Man kann ja nie wissen, was … — Doch — davon nachher
 … — Emanuel, nimm den Herren die Mäntel und
 Hüte ab. Dann wirst du die Koffer der Herren holen. Vorher
-heize voll die beiden Zimmer, die ich für Herrn Harst
-und seinen Steinwand bestimmt habe.«
+heize noch die beiden Zimmer, die ich für Herrn Harst
+und seinen Freund bestimmt habe.«
 
-Emanuel klappte wie ein Taschenmesser zusammen — —
+Emanuel klappte wie ein Taschenmesser zusammen —
 eine Verbeugung, die außerordentlich komisch wirkte. Und
-dabei jagte er mit seiner knarrenden Stimme: »Sehr wohl,
-Herr Doktor … Die Zimmer sind im übrigen schon ge:
-heizt, sonst würden sie an einem Tage kaum warm zu ne:
-kommen sein.«
+dabei sagte er mit seiner knarrenden Stimme: »Sehr wohl,
+Herr Doktor … Die Zimmer sind im übrigen schon geheizt,
+sonst würden sie an einem Tage kaum warm zu bekommen
+sein.«
 
-Das ganze »Milieu« hier hatte ohne Zweifel erwacht
+Das ganze »Milieu« hier hatte ohne Zweifel etwas
 Familiär-Behagliches an sich. Und ebenso behaglich war
 auch des kleinen buckligen Doktors Studierzimmer, in dem
-Tyrann Platz nahmen.
+wir nun Platz nahmen.
 
-Kaum hatten wir uns in die weichen, liefen Sessel
+Kaum hatten wir uns in die weichen, tiefen Sessel
 niedergelassen, als Emanuel auch schon lautlos mit einem
 Teebrett erschien und außer eine Flasche Rotwein allerhand
-gute Dinge als Frühstück auf dem Tische vor uns ausbaute.
+gute Dinge als Frühstück auf dem Tische vor uns aufbaute.
 
-Tun waren Sardinen, Hummern, Röstschnittchen mit
+Da waren Sardinen, Hummern, Röstschnittchen mit
 Kaviar, wunderbarer Schinken, drei Sorten Käse …
 
 <@pagebreak/>
@@ -134,8 +132,8 @@ Kaviar, wunderbarer Schinken, drei Sorten Käse …
 
 Und wandte sich an Emanuel:
 
-»Bitte Fräulein Giltst hierher … Ich möchte sie meinen
-Gästen vorstellen …
+»Bitte Fräulein Gilsky hierher … Ich möchte sie meinen
+Gästen vorstellen …«
 
 Der Lange verschwand.
 
@@ -143,7 +141,7 @@ Und der Bucklige erklärte — wieder mit einem halb
 geheimnisvollen Lächeln:
 
 »Alle guten Dinge sind drei … Wir wohnen hier zu
-Dreien … Fräulein Giltst ist meine Nichte, das heißt, so
+Dreien … Fräulein Gilsky ist meine Nichte, das heißt, so
 eine Nichte dritten Grades. Sie ist Waise. Vor drei Monaten
 nahm ich sie bei mir auf. Sie ist der Sonnenschein
 meines Hauses und meines Alters geworden …«
@@ -153,53 +151,53 @@ Sein Lächeln wurde strahlend,
 Ich war sehr gespannt auf die junge Dame. Meine Erwartungen
 wurden jedoch noch Übertroffen.
 
-Ellinor Giltst war eine pikante Schönheit, dazu Dame
-von Welt und von jener abzgeklärten Heiterkeit, die ebenso
+Ellinor Gilsky war eine pikante Schönheit, dazu Dame
+von Welt und von jener abgeklärten Heiterkeit, die ebenso
 viel Geist wie Takt in sich vereinigt.
 
 Ihre Bewegungen waren schön und abgerundet. Ihre
 Hände hätten jeden Bildhauer entzückt. Sie blieb nur ein
 paar Minuten im Zimmer, ohne Platz zu nehmen, aber
 schon diese wenigen Minuten genügten, mich geradezu zu
-begeistern. Man freut sich ja stets, wenn man einem Stangen
+begeistern. Man freut sich ja stets, wenn man einem jungen
 Mädchen begegnet, das im Gegensatz zu den meisten
 Damen von heute durch ein vornehm-ruhiges Benehmen
 und durch ein bescheidenes Herauskehren einer glänzenden
 Unterhaltungsgabe angenehm auffällt.
 
-Kaum hatte sie sich wieder zurückgezogen, als Celsius
+Kaum hatte sie sich wieder zurückgezogen, als Geßling
 uns fragte, ob er nun mit seinem Bericht beginnen dürfe …
 
 »Sie werden ja fraglos neugierig sein, Herr Harst,
 weshalb ich eine Berühmtheit wie Sie hierher gebeten
-habe … Und Sie dürsten auch nicht im entferntesten ahnen,
-was mich seit einer Woche so halb aus dem seelischen Gleich-nGewicht
+habe … Und Sie dürften auch nicht im entferntesten ahnen,
+was mich seit einer Woche so halb aus dem seelischen Gleichgewicht
 gebracht hat …«
 
-Harst nahm ein zweites Kaviarschnitichen …
+Harst nahm ein zweites Kaviarschnittchen …
 
 <@pagebreak/>
 »Vielleicht ahne ich es doch, Herr Doktor …« meinte
 er scherzend.
 
-»uUinmöglich! Wirklich unmöglich,« ereiferte sich Geßling
+»Unmöglich! Wirklich unmöglich,« ereiferte sich Geßling
 …
 
 »Oh — ein Unmöglich gibt es für einen Menschen nicht,
 der seine Augen und seinen Verstand zu gebrauchen weiß …
-Die Angelegenheit, die: Sie uns vortragen wollen, spielt in
+Die Angelegenheit, die Sie uns vortragen wollen, spielt in
 Saal Nummer drei Ihres Museums …«
 
 Der bucklige Doktor schüttelte wie ungläubig den Kopf.
 
-»Unbegreiflich!! Ecke haben recht, Herr Harst! — Aber
+»Unbegreiflich!! Sie haben recht, Herr Harst! — Aber
 — — wie in aller Welt haben Sie nur …«
 
 Harald lachte harmlos-vergnügt. »Die Erklärung ist
-ungeheuer einfach; Ich habe Ohren wie ein Luchs, und so
+ungeheuer einfach. Ich habe Ohren wie ein Luchs, und so
 verstand ich unten in der Vorhalle ganz deutlich, wie Sie
 Ihrem famosen Emanuel noch zuflüsterten, er solle Saal
-Nr. 3 ausschließen und daß Sie mit uns gleich naß oben
+Nr. 3 aufschließen und daß Sie mit uns gleich nach oben
 gehen würden. Mithin lag es doch sehr nahe, daß in Saal
 Nr. 3 das Seltsame geschieht, womit wir uns beschäftigen
 sollen …«
@@ -220,7 +218,7 @@ Geßling hatte sich aus seinem Sessel erhoben …
 »Verehrter Herr Harst,« sagte er überaus feierlich,
 »Herr Harst, wofür halten Sie mich?! Wenn hier in diesem
 alten Hause nicht wirklich Dinge sich abspielen würden,
-denen gegenüber mein kritischen Verstand machtlos ist, dann
+denen gegenüber mein kritischer Verstand machtlos ist, dann
 würde ich es doch niemals gewagt haben, einen Mann von
 Ihrem Weltruf damit zu belästigen …!
 
@@ -228,37 +226,37 @@ Er hob feierlich die rechte Hand …
 
 <@pagebreak/>
 »Herr Harst, es handelt sich ja nicht nur um die alte
-
 Ritterrüstung … Diese Rüstung ist nämlich das einzigartigste
 in ihrer Art, weil sie eben gefüllt ist.«
-»Gefüllt?!« …
+
+»Gefüllt?!«
 
 »Ja … Sie wurde vor zehn Jahren in dem sogenannten
-Seelischer Moor unweit der berühmten Vollendung
-gefunden … Vielleicht ist Ihnen bekannt, daß da«
+Trebitscher Moor unweit der berühmten Marienburg
+gefunden … Vielleicht ist Ihnen bekannt, daß das
 Moorwasser zuweilen die Eigentümlichkeit hat, Leichen zu
 konservieren …«
 
-»Ab — ich verstehe,« nickte Harald. »In dieser Rüstung
-steckt »noch der tote Ritter, dem sie einst gehörte …
+»Ah — ich verstehe,« nickte Harald. »In dieser Rüstung
+steckt noch der tote Ritter, dem sie einst gehörte …«
 
 »Ja …! Die Mumie des Ritters, Herr Harst … Und
 wenn man das Visier des Helmes herunterschlägt, sieht
-tun das Mumiengesicht ganz deutlich …
+man das Mumiengesicht ganz deutlich …«
 
 »Und somit wandelt nicht die Rüstung, sondern der
-tote Kutter …«?«
+tote Ritter …?«
 
 »Ja … so ist’s, so ist’s … Und ich habe es mit eigenen
 Augen gesehen!«
 
 »Wann?«
 
-»Vor … ja vor sechs Tagen zum ersten Male …
+»Vor … ja vor sechs Tagen zum ersten Male …«
 
 »Nachts?«
 
-»Natürlich nachts … Ich erwachte gegen zwölf!Ihr,
+»Natürlich nachts … Ich erwachte gegen zwölf Uhr,
 weil ich über meinem Schlafzimmer in Saal 3 schwere
 Schritte vernahm …«
 
@@ -270,40 +268,41 @@ hat …«
 
 »und sahen?«
 
-Daß in Ergab 3 Licht brannte …«
+»Daß in Saal 3 Licht brannte …«
 
 Bei diesen Worten ließ Doktor Geßling sich wieder im
-den Sessel sollen …
+den Sessel fallen …
 
 Bei diesen Worten … — Und das hatte seinen guten
 Grund … Denn die letzten Worte hatte Geßling nur noch
-überhastet hervorstoßen können, weil draußen irr Flur
+überhastet hervorstoßen können, weil draußen im Flur
 <@pagebreak/>
 irgendwo in einiger Entfernung ein halblauter Aufschrei
-erklungen war, der ohne Zweifel aus Ellinor Giftig Stelle
+erklungen war, der ohne Zweifel aus Ellinor Gilskys Kehle
 kam …
 
-Und lebt — — jetzt, als der kleine Gelehrte mit Schreck:
-erfüllten Augen auf die Tür starrte, da … fiel vor der tun
-im Flur mit unheimlichem Krachen und Klirren etwas alt
-Boden … Nr«
+Und jetzt — — jetzt, als der kleine Gelehrte mit schreckerfüllten
+Augen auf die Tür starrte, da … fiel vor der Tür
+im Flur mit unheimlichem Krachen und Klirren etwas zu
+Boden …
 
-Harst war mit zwei Sätzen draußen … sich hinter
+Harst war mit zwei Sätzen draußen … Ich hinter
 ihm …
+
 Da lag auf dem Flurläufer der Ritter mit seiner
 Rüstung, die gerüstete Mumie, der Tote in Eisen, der Mann
-als Eisen …
+aus Eisen …
 
-Auf dem Rüden lag er …
+Auf dem Rücken lag er …
 
 Das Visier war hochgeschlagen …
 
-Unheimlich grinste uns das braunschwarze Mumien-antlit
+Unheimlich grinste uns das braunschwarze Mumienantlitz
 mit den leeren Augenhöhlen entgegen …
 
 Und — zehn Schritte weiter nach der Haupttreppe zu
-lag Ellinor Giltst — — bewußtlos — — vor Schreck und
-Grauen umgesunken, wie der Autotour ihrer verzerrten.
+lag Ellinor Gilsky — — bewußtlos — — vor Schreck und
+Grauen umgesunken, wie der Ausdruck ihrer verzerrten
 Mienen deutlich erkennen ließ …
 
 <@pagebreak/>
@@ -311,41 +310,41 @@ Mienen deutlich erkennen ließ …
 <h2>2. Kapitel.</h2>
 <h3>In Wahrheit ein Rätsel.</h3>
 
-Doktor Geßling sagte hinter uns — und seine stumme
-»lang so hohl, als ob sie aus einem irdenen Topf käme:
+Doktor Geßling sagte hinter uns — und seine Stimme
+klang so hohl, als ob sie aus einem irdenen Topf käme:
 
 »Herr Harst, nun … nun sehen Sie’s ja selbst …!!
 — Oh, wenn ich nur von Emanuel nicht die Tür hätte aufschließen
 lassen …! Eigentlich hätte ich’s mir denken können,
-daß dieser tote Satan auch am Tage mal Luft zum Umherwandern
+daß dieser tote Satan auch am Tage mal Lust zum Umherwandern
 verspüren würde!« —
 
-Dann eilte er zu seiner Nichte hin … ck
+Dann eilte er zu seiner Nichte hin …
 
-Und fünf Minuten darauf war Erbin:: Giltst wieder
+Und fünf Minuten darauf war Ellinor Gilsky wieder
 bei Bewußtsein, während Harald und ich inzwischen den
 Mann aus Eisen genauer besichtigt hatten …
 
-Es gab an dieser gerüsteten Mumie mancherlei Un-sHönes
-zu sehen. Soll ich den Leser hier dadurch langweilen.
-daß ich ihm genau die Rüstung und die Mumie schildere«!
-— Nein, es gibt bei diesem Abenteuer mochte so unheimlich
+Es gab an dieser gerüsteten Mumie mancherlei Unschönes
+zu sehen. Soll ich den Leser hier dadurch langweilen,
+daß ich ihm genau die Rüstung und die Mumie schildere?!
+— Nein, es gibt bei diesem Abenteuer noch so unheimlich
 viel zu berichten, so viele Einzelheiten, die unbedingt erwähnt
 werden müssen, daß ich mich auf die Bemerkung
-beschränke: Die Rüstung war über und über mit fort bedeckt,
+beschränke: Die Rüstung war über und über mit Rost bedeckt,
 und der tote Ritter mit seinem scheußlichen Gesicht
 konnte einem wirklich im Traume erscheinen!!
 
-Wir hatten das junge Mädchen in Gekßling8 Studierzimmer
+Wir hatten das junge Mädchen in Geßlings Studierzimmer
 auf den Diwan getragen, und der Altertumssammler
 <@pagebreak/>
 hielt nun getreulich neben ihrem Lager Wacht, während
 wir uns draußen im Flur ungehindert und unbeobachtet
-deswegen konnten.
+bewegen konnten.
 
 Nachdem wir den Ritter genügend in Augenschein genommen
 hatten, trugen wir auch ihn dorthin, wohin er
-gehörte, also Farm oben in Saal 3. Da das Faktotum
+gehörte, also nach oben in Saal 3. Da das Faktotum
 Emanuel unsere Koffer holen gegangen war, hatten wir
 keinerlei uns lästige Aufpasser zu fürchten und konnten uns
 den Saal in Ruhe ansehen.
@@ -353,11 +352,11 @@ den Saal in Ruhe ansehen.
 Harald machte mich darauf aufmerksam, daß der Saal
 drei Türen hatte. Erstens die vom Flur her hineinführte,
 zweitens die in einen kleinen Nebenraum rechter Hand
-das war die Tür mit den vergitterten Glasscheiben, die der
+(das war die Tür mit den vergitterten Glasscheiben, die der
 alte Herr erwähnt hatte), und drittens die in den Nebensaal.
 
-Im übrigen zeigte Ha:.1id für die hier zur Schau gestellten
-Altertum&schätbe weit weniger Interesse als ich. Und
+Im übrigen zeigte Harald für die hier zur Schau gestellten
+Altertumsschätze weit weniger Interesse als ich. Und
 das bedauerte ich, denn es gab hier wirklich sehr viel Interessantes
 zu sehen.
 
@@ -372,97 +371,97 @@ Ich ging in den Flur, in den Nebensaal …
 
 Keine Spur von ihm …
 
-Srblücßhlich schritt ich die Treppe hinab …
+Schließlich schritt ich die Treppe hinab …
 
-Lord als ich Doktor Geßlings Studierzimmer betrat, saß
-da mein Harald aus einem Stuhl dicht am Kopfende des
-hinaus, auf dem die schone Ellinor ruhte …
+Und als ich Doktor Geßlings Studierzimmer betrat, saß
+da mein Harald auf einem Stuhl dicht am Kopfende des
+Diwans, auf dem die schöne Ellinor ruhte …
 
 Schöne Ellinor!! Ich fand, sie sah in liegender Stellung
-noch pikanter und anziehenden aus. Sie hatte den
-Kopf leicht in den linken Arm nützt, und als ich eintrat,
-jagte sie gerade, offenbar aus eine Feuer Haralds:
+noch pikanter und anziehender aus. Sie hatte den
+Kopf leicht in den linken Arm gestützt, und als ich eintrat,
+sagte sie gerade, offenbar auf eine Frage Haralds:
 
-»34 kam ahnungslos den Flur von der Küche der entlang.
+»Ich kam ahnungslos den Flur von der Küche her entlang.
 An der Biegung stand der grauenvolle Ritter urplötzlich
 <@pagebreak/>
 vor mir … War’s da ein Wunder, daß meine
-Nerven versagten?!
+Nerven versagten?!«
 
 »Nein,« nickte Harald. »Ich wundere mich sogar, gnädiges
 Fräulein, daß Sie noch so viel Kraft fanden, den
-es hier auszustoßen …« —
+Schrei auszustoßen …« —
 
-Vielleicht ist es gut, den Leser auf diese Aeunßerungen
+Vielleicht ist es gut, den Leser auf diese Äußerungen
 Harsts und Ellinors hinzuweisen. Zu leicht könnten meine
 Freunde und die Verehrer Harald Harsts über diese Sätze
 flüchtig hinwegsehen, die doch von so außerordentlicher Wichtigkeit
 sind. Hierzu möchte ich bemerken, daß jene scharfe
-Biegung des Flurs, die von Fräulein Giltst erwähnt
-wurde, etwa zwölf Meter von der Tür des Studierzimmer:
+Biegung des Flurs, die von Fräulein Gilsky erwähnt
+wurde, etwa zwölf Meter von der Tür des Studierzimmers
 unseres freundlichen kleinen Gelehrten und Gastgebers entfernt
 liegt.
 
 Unter der geradezu rührenden Fürsorge Geßlings hatte
-Ellinor sich, wie gesagt, rasch erholt und stand mein aus, in:
-dem sie lächelnd meinte:
+Ellinor sich, wie gesagt, rasch erholt und stand nun auf, indem
+sie lächelnd meinte:
 
-»34 bin nicht so zart besaitet, um sehr lange an so!
-einem Felsenloch zu laborieren … — Onkel, gib mir
+»Ich bin nicht so zart besaitet, um sehr lange an solch
+einem Nervenchock zu laborieren … — Onkel, gib mir
 bitte noch einen Schluck Portwein, und damit ist die Sache
-dann abgetan. Ich will in die Küche und meinen Haus-.
-jrauenpflichten nachgehen.« ck
+dann abgetan. Ich will in die Küche und meinen Hausfrauenpflichten
+nachgehen.«
 
 Sie trank, nickte uns zu und verließ das Zimmer.
 
 »Ein tapferes Mädel!« meinte Geßling stolz …
 
-Harald hatte eine Mirakulum angezündet. Geschirrs
-los den Duft der Zigarette prüfend ein. »Das ist Mount
-Ihre berüihmte Spezialmarke, Herr Harst?« fragte er.
+Harald hatte eine Mirakulum angezündet. Geßling
+sog den Duft der Zigarette prüfend ein. »Das ist wohl
+Ihre berühmte Spezialmarke, Herr Harst?« fragte er.
 
 Harald hielt ihm das Etui hin. »Bitte, probieren Sie,
 Herr Doktor … Ich rauche diese leicht mit Opium getränkten
 »Sargnägel« nur, wenn ich mein Hirn anfeuern will,
-was hier sehr nötig ist, wie Sie zugeben müssen, denn dich:
-zvandelnde Rüstung ist denn doch das Unerklärlichste, wo:
-ich je erlebt hab.
+was hier sehr nötig ist, wie Sie zugeben müssen, denn diese
+wandelnde Rüstung ist denn doch das Unerklärlichste, was
+ich je erlebt habe.«
 
-Goliath sprach mir aus der Seele.
+Harald sprach mir aus der Seele.
 
 <@pagebreak/>
-neun wir heute auch in einer Zeit leben, wo Spiritismus
-und LkkultiSmus unheimlich frisch ins Kraut schießen
+Wenn wir heute auch in einer Zeit leben, wo Spiritismus
+und Okkultismus unheimlich frisch ins Kraut schießen
 und sogar die gebildetsten Kreise an okkulte Phänomene
-zu glauben bereit sind (ich erinnere nur an die Vorgang«
+zu glauben bereit sind (ich erinnere nur an die Vorgänge
 im Wiener Palais der ehemaligen Erzherzogin Elisabeth
-und an das dort »tätige« vierzehnjährige Meduian Firma
+und an das dort »tätige« vierzehnjährige Medium Vilma
 Palsöldi, wovon der Leser fraglos durch die Zeitungen
-Kenntnis erlangt bat), — so kann ich selbst diesen merktvür
-erledigen Begebenheiten gegenüber immer nur ein arger Zwei]:
-ler bleiben, obwohl die Ereignisse in jenem Palais, wo
+Kenntnis erlangt hat), — so kann ich selbst diesen merkwürdigen
+Begebenheiten gegenüber immer nur ein arger Zweifler
+bleiben, obwohl die Ereignisse in jenem Palais, wo
 Gegenstände ohne sichtbare Ursache gleichfalls »wandern«,
 sehr zu denken geben. —
 
--» »Erzählen Sie nun weiter, lieber Herr Doktor,« bat
-Harald. »Sie standen also. hinter der vergitterten Glastür
-und …««
+»Erzählen Sie nun weiter, lieber Herr Doktor,« bat
+Harald. »Sie standen also hinter der vergitterten Glastür
+und …«
 
-»… Und in Saal 3 brannten sämtliche elektrische Lampe,
-während im Anzeige! 1 der mumifizierte Kutter in
+»… und in Saal 3 brannten sämtliche elektrische Lampen,
+während im Mittelgang der mumifizierte Ritter in
 seiner schweren Rüstung langsam auf und ab schritt …«
 
-»Verzeihung — wie schwer schätzen Sie die Juli:ins
+»Verzeihung — wie schwer schätzen Sie die Rüstung
 ohne Inhalt, Herr Doktor?«
 
 »Etwa neunzig Pfund, Herr Harst …«
 
 »Hm — eine Leistung also!« murmelte Harald …
 
-»Wie meinen Sie das«
+»Wie meinen Sie das?«
 
-»Nun, eine Leistung für die Kutter von dazumal, gleich
-ein Ding zu schleppen und noch zu schien …«
+»Nun, eine Leistung für die Ritter von dazumal, solch
+ein Ding zu schleppen und noch zu fechten …«
 
 Das klang ganz harmlos. Aber in Haralds grauen
 Augen wetterleuchtete es dabei, wie nur ich wahrnahm.
@@ -474,8 +473,8 @@ Harsts kürzte ab …
 
 »Sie betraten dann den Saal, Herr Doktor?«
 
-»I4:H wollte. Aber die Glastür war verschlossen, und
-als ich daran rüttelte, flatterte der eiserne Mann das sich!
+»Ich wollte. Aber die Glastür war verschlossen, und
+als ich daran rüttelte, schaltete der eiserne Mann das Licht
 aus. Als ich vom Flur aus dann in den Saal eindrang,
 <@pagebreak/>
 stand der Ritter auf dem Sockel, wo er immer steht, gehalten
@@ -483,18 +482,18 @@ durch eine eiserne Stütze.«
 
 »Und die nächste Nacht?«
 
-— »Habe ich mit Ellinor gemacht. Au Emanuel war
-bei uns. 7a geschah nichts. Trotzdem blieben wir auch in
+»Habe ich mit Ellinor gewacht. Auch Emanuel war
+bei uns. Da geschah nichts. Trotzdem blieben wir auch in
 der folgenden Nacht auf. Abermals umsonst. Erst vorgestern,
 als wir wie sonst zu Bett gegangen waren, hörte
-ich wieder die schweren Schritte, zog mich an, weckte Altan
+ich wieder die schweren Schritte, zog mich an, weckte Ellinor
 und Emanuel und …«
 
-»Halt, — — auch Emanuelk — Also eilten Sie zu
+»Halt, — — auch Emanuel? — Also eilten Sie zu
 dreien nach oben?«
 
-»Ja, zu dreien … Aber als wir die Flurtür vorn
-Saal 3 ausgeschlossen hatten, war alles in Ordnung, —
+»Ja, zu dreien … Aber als wir die Flurtür von
+Saal 3 aufgeschlossen hatten, war alles in Ordnung, —
 der Saal dunkel und der Ritter an seiner Stelle.«
 
 »Weiter …«
@@ -502,7 +501,7 @@ der Saal dunkel und der Ritter an seiner Stelle.«
 »Gestern nacht machten wir drei es schlauer. Als ich
 die Schritte vernahm, schlichen wir in den kleinen Nebenraum,
 der ja ebenfalls eine Tür nach dem Flur hat. Und
-die andere Tür, die Glastür, hatte ich abends ausgeschlossen
+die andere Tür, die Glastür, hatte ich abends aufgeschlossen
 und den Schlüssel abgezogen. Diesmal sahen wir drei
 den unheimlichen Eisenmann. Da ich an einen üblen Scherz
 glaubte, wollte ich nun durch die Glastür in den Saal. Doch
@@ -511,9 +510,8 @@ unsere Kräfte reichten nicht aus sie aufzusprengen …«
 
 »Und der Ritter schaltete wieder das Licht aus?«
 
-»30 — — wir kamen durch den Haupteingang wieder
+»Ja — — wir kamen durch den Haupteingang wieder
 zu spät … — Mehr habe ich Ihnen nicht zu berichten, Herr
-
 Harst. inzwischen war ich jedoch von meiner Annahme,
 daß ein Fremder diesen Spuk inszeniere, wieder abgekommen,
 und da depeschierte ich an Sie …«
@@ -522,30 +520,30 @@ und da depeschierte ich an Sie …«
 
 »Und — Ihre Meinung nun?«
 
-»samt möchte ich noch zurückhalten, Herr Doktor …
-Ich übersähaue die Dinge noch nicht ganz.«
+»Damit möchte ich noch zurückhalten, Herr Doktor …
+Ich überschaue die Dinge noch nicht ganz.«
 
 <@pagebreak/>
-Geschirrs seufzte … »Ich muß Ihnen noch ein Gestank-:
-Geheimnis machen, Herr Harst … Ellinor … hm ja, — Ellinor
+Geßling seufzte … »Ich muß Ihnen noch ein Geständnis
+machen, Herr Harst … Ellinor … hm ja, — Ellinor
 ist überzeugte Okkultistin …«
 
 Harald blickte den alten Herrn scharf an …
 
-»Sie meinen, daß durch Fräulein Giftig okkulte Kräfte
+»Sie meinen, daß durch Fräulein Gilskys okkulte Kräfte
 vielleicht hier übernatürliche Vorgänge ausgelöst werden?!«
 
 Geßling hob die Schultern. »Ellinor äußert sich über
 diese Dinge nicht, und ich bitte Sie auch, Ellinor nicht weiter
-betrogen zu wollen. Ich möchte nicht, daß sie erfährt,
-daß ich von ihren okkfultistisGen Studien gesprochen habe.«
+befragen zu wollen. Ich möchte nicht, daß sie erfährt,
+daß ich von ihren okkultistischen Studien gesprochen habe.«
 
 »Ganz wie Sie wollen, Herr Doktor. — Würden Sie
 uns jetzt unser Zimmer, bitte, zeigen. Wir möchten ein
 wenig ruhen.«
 
-Dieses Zimmer rasch. zweiten Stock nach hinten heraus,
-war sehr groß, aber ebenso behaglich. Unsere Bettler
+Dieses Zimmer lag im zweiten Stock nach hinten heraus,
+war sehr groß, aber ebenso behaglich. Unsere Betten
 standen hinter einem Vorhang, der ein Stück des Zimmers
 abteilte.
 
@@ -627,8 +625,8 @@ Harald schritt auf und ab, die Hände auf dem Rücken …
 Schwieg …
 
 Ich saß im alten Plüschsessel und beobachtete ihn …
-Ich hätte zu gern ihm erklärt, daß mir Fräulein Giltst
-nicht Eingang harmlos erschiene, nachdem ich von ihren ok-fultistisGen
+Ich hätte zu gern ihm erklärt, daß mir Fräulein Gilsky
+nicht Eingang harmlos erschiene, nachdem ich von ihren okkultistischen
 Studien gehört hatte. Freilich hatte ich keine
 Ahnung, wie etwa die junge Dame den »Spuk« lebendig
 werden ließ. Prüfte ich die Vorgänge in Gedanken, so
@@ -660,7 +658,7 @@ Spaziergang in den nahen Frau;dicken bald.
 Gerade dieser Langfuhrer Wald war uns nicht fremd.
 Wir hatten hier vor Jahren Zeichen einmal zu tun gehabt,
 und wir feierten nun ein winicrliches niedersetzen mit all
-den schonen Aussichispunkien und uralten Baumbeständen,
+den schonen Aussichtspunkten und uralten Baumbeständen,
 mit der Heide hinter dem Walde und mit den flinken Licht
 hörn4en, die blitzschnell über den Schnee huschten,
 
@@ -843,7 +841,7 @@ hier in einem bewohnten Hause bei unverschlossener Tür
 mit uns derart umzuspringen.
 
 Aber — Harst lächelt den Mann im Sessel weiter so
-etwas von oben herab an und fragte schlickßlich:
+etwas von oben herab an und fragte schließlich:
 
 »Wir sollen abreisen und uns hier bei Doktor Geschirrs
 nicht mehr sehen lassen?«
@@ -932,7 +930,7 @@ sprechen … — Ist Fräulein Ellinor schon aus Danzig zurück?«
 »Nein. Vor sieben Uhr kann sie kaum wieder hier
 sein.«
 
-»Ihre Verwandtschaft mit Fräulein Giltst ist also ganz
+»Ihre Verwandtschaft mit Fräulein Gilsky ist also ganz
 erörternd …
 
 »Ja … Oh habe Ellinors Eltern kaum gekannt. Und
@@ -952,7 +950,7 @@ Der kleine Gelehrte ruckte empor …
 
 »Nun, Herr Doktor, es könnte doch die Möglichkeit vorliegen,
 daß eine Bekannte Ihrer Nichte sich hier als Ellinor
-Giltst eingeschmuggelt hat …«
+Gilsky eingeschmuggelt hat …«
 
 Geßling schüttelte den Kopf … »Das ist doch wohl
 ausgeschlossen!!« — Aber er war offenbar sehr nachdenklich
@@ -1040,7 +1038,7 @@ ließ nur die klugen Augen prüfend hin und her gleiten …
 Dann wieder Harald, indem er langsam ein Brötchen
 strich:
 
-»Gnädiges Fräulein, glauben Sie an Augenblickseingebungen?«
+»Gnädiges Fräulein, glauben Sie an Augenblickeingebungen?«
 
 Sie erwiderte kühl: »Ich verstehe Sie nicht ganz, Herr
 Harst …«
@@ -1187,7 +1185,7 @@ und deshalb muß hier im Hause eben eine zweite
 Rüstung vorhanden sein, die der eisernen völlig gleich …
 Wohltat ehrlich eine Theaterrüstung aus Pappe. wie sie leicht
 zu beschaffen ist … Wenn der Blonde nachts den eisernen
-Mann spielte, wurde der Mumienrittier eben vorher in
+Mann spielte, wurde der Mumienritter eben vorher in
 Saal 3 irgendwo versteckt, und der Blonde marschierte in
 seiner Papprüstung hin und her, konnte dann, falls tätig,
 mit Hilfe von Duplikatschlüsseln durch die bekommen Stückchen,
@@ -1271,7 +1269,7 @@ Hier stockte sie …
 Harst … hatte gleichfalls gelacht …
 
 »Also Gisbert heißt Ihr Verbündeter mit Vornamen!
-Und — wie heißen Sie …?! Niemals Ellinor Giltst —
+Und — wie heißen Sie …?! Niemals Ellinor Gilsky —
 niemals! Wer sind Sie?!«
 
 Doktor Geßling spielte seine Rolle fehlt tadellos …
@@ -1513,7 +1511,7 @@ Wir betraten das Stübchen …
 In diesem uralten Hause konnte es nur Stübchen geben.
 
 <@pagebreak/>
-früher beagnügten sich die Menschen damit, nach dem Grundsatz
+früher begnügten sich die Menschen damit, nach dem Grundsatz
 zu bauen: Klein, aber gemütlich!
 
 links von der Tür war der Lichtschalter. Die Deckenlampe
@@ -1834,7 +1832,7 @@ ihm aber an Bord nicht so recht gefalle … weshalb, da
 <@pagebreak/>
 mit wollte er nicht herausrücken.
 
-Als der Mann dann vorn ins Logis (Mannschast3-raum)
+Als der Mann dann vorn ins Logis (Mannschaftsraum)
 hinabgehen und die Ablösung wecken wollte, verabschiedeten
 wir uns scheinbar …
 
@@ -1895,7 +1893,7 @@ der dicken Madame Burke übersiedeln — als einfache Schlosse
 Es — kam anders …
 
 Denn morgens fünf Uhr wette uns Enormer in unserem
-Fremdenzimmer im Gekßlingschen Hause und teilte uns
+Fremdenzimmer im Geßlingschen Hause und teilte uns
 zitternd vor entgehen mit, daß Ellinor-Gertrud sich unten
 in der Vorhalle erhängt habe …
 
@@ -1978,7 +1976,7 @@ Lassen Sie es genug sein mit diesem Verhör …«
 Wir entfernten uns still …
 
 Draußen im Flur des ersten Stockes geleitete gerade
-Emanuel sehr würdevoll vier Besucher des Gekßlingschen
+Emanuel sehr würdevoll vier Besucher des Geßlingschen
 Museums in den Saal 3 …
 
 Wir warfen so noch einen letzten Blick durch die offene
@@ -2043,7 +2041,7 @@ So war denn diese Beobachtung des Bruders »der bekamen
 Mr selten Gertrud bisher ziemlich ergebnislos geb!l:Eden.
 Wir kehrten in unser Stübchen bei hinter Burke zurück
 nachdem wir noch einmal bis zum Liegeplatz des Schoners
-agcwandert waren. Dort gab es jedoch ebensowenig
+gewandert waren. Dort gab es jedoch ebensowenig
 zu sehen. Die Kajütenfenster waren dunkel.
 
 Harst holte nun recht mißmutig auf dem Glanzledersofa
@@ -2083,7 +2081,7 @@ Schoner …!!«
 Die unheimlich die Wirtin brachte uns selbst, was wir
 gefordert hatten … Nur die beiden Flaschen Bier hatte sie
 vergessen … Und mit diesen’ erschien nun das Stubenmad-
-&en des Privathotels, ein junges, schnippijches, schmieriges
+&en des Privathotels, ein junges, schnippisches, schmieriges
 Ding, in deren halb zugekniffenen Augen Hinterlist und
 Frechheit lauerten.
 
@@ -2612,7 +2610,7 @@ sind) weiter Motorkutter in See … Noch konnte man
 von der Maria aus unmöglich das Warnungssignal bemerkt
 haben. Unser Kutter bog um die Molenspitze herum — hinein
 ins offene Fahrwasser … Es war ein klarer, sonniger
-Winic1itag, dieser 50. Januar, der in meinen Grinnertnge!.
+Wintertag, dieser 50. Januar, der in meinen Grinnertnge!.
 <@pagebreak/>
 eine hervorragende Stellung einnimmt. Ein ziemlich frischer
 Nordost trieb hohe Wogen gegen die Bewußtlose, die
