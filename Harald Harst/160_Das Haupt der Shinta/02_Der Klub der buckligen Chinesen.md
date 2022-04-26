@@ -146,11 +146,11 @@ zerbeulte Hosen, aber ein buntes, indisches Hemd und eine
 indische Leibschärpe. In der Hand hielt er einen Schlapphut.
 Seine Nase war verdächtig rot.
 
-»Herr Hast,« schrie er, kaum daß er mich erblickte, »ich
+»Herr Harst,« schrie er, kaum daß er mich erblickte, »ich
 muß Sie sprechen, Sie müssen mir helfen. Sie —«
 
 »Kein Mensch muß müssen, lieber Mann,« sagte ich,
-»und kann bin ich auch nicht Herr Harst, sondern sein
+»und dann bin ich auch nicht Herr Harst, sondern sein
 Freund und Mitarbeiter —«
 
 »Führe den Mann herein, Schraut,« ließ sich Harst
@@ -247,7 +247,7 @@ Geschäft besitze.
 ausziehen, denn mir sind von anderer Seite 50 amerikanische
 Dollar für Deinen Laden geboten worden.«
 
-»Ich ziehe nicht.« sagte ich, »sondern zahle denselben
+»Ich ziehe nicht,« sagte ich, »sondern zahle denselben
 Preis.«
 
 »Gut, Sahib Pepper,« sagte der alte Gelbe, »ich will es
@@ -268,7 +268,7 @@ der Alte und an seiner Seite der Polizist des Bezirkes. Der
 erklärte mir, daß ich zu ziehen hätte, da Samo seinen Laden
 vermieten könne, an wen er wolle, sobald die Kündigung
 ordentlich erfolgt sei. Das konnte ich nicht bestreiten, und,
-obzwar ließ ein weißer Mann bin, mußte ich unter den
+obzwar ich ein weißer Mann bin, mußte ich unter den
 Augen des Braunen meinen Laden räumen. Ich fand ein
 Lokal eine Straße weiter in der »unteren Stadt« und betreibe
 nun dort mein Geschäft. Aber giftig bin ich auf
@@ -297,7 +297,7 @@ haben dort kein Geschäft eröffnet.«
 
 »Nein, nein. Die Tür war immer geschlossen. Zuerst
 dachte ich, irgendein schäbiger Konkurrent habe sich dort
-niedergelassen, aber das ist nicht der Fall. Dir Tür ist
+niedergelassen, aber das ist nicht der Fall. Die Tür ist
 immer zu und einmal sah ich Samo vor dem Hause stehen.
 
 »Na, alter Heide,« sagte ich zu ihm, »hier gibt’s ja gar
@@ -337,7 +337,7 @@ geschehen. Ich finde einen »Klub der buckligen Chinesen«
 zwar sonderbar, aber es gibt sehr sonderbare Vereine in
 der ganzen Welt.«
 
-»Doch warum hatten sie es aus meinen Laden abgesehen?«
+»Doch warum hatten sie es auf meinen Laden abgesehen?«
 
 »Nun, vielleicht liegt er Ihnen bequem. Ich bedauere,
 ich kann nichts für Sie tun.«
@@ -398,7 +398,7 @@ Sorgen.«
 In diesem Augenblick trat Inspektor Grey zu uns.
 
 <@pagebreak/>
-»Nun, Mr. Harst, wie führen Sie sich so als Privatmann
+»Nun, Mr. Harst, wie fühlen Sie sich so als Privatmann
 und Gesellschaftsmensch,« sagte er scherzend, »Ihr —
 Freund Schraut macht jedenfalls ein ganz unglückliches Gesicht.
 Er scheint nur an Kriminalfälle und Abenteuer gewöhnt
@@ -406,7 +406,7 @@ zu sein, in deren Verfolgung er glücklich ist.«
 
 »Sie sind sehr guter Laune,« lachte Harst, »und da will
 ich Sie gleich etwas fragen, Grey. Existiert in der Stadt
-Colombo einen »Klub der buckligen Chinesen«?«
+Colombo ein »Klub der buckligen Chinesen«?«
 
 Grey lachte.
 
@@ -493,7 +493,7 @@ Mrs. Hellway zu Tisch zu führen und die Steine in der
 Nähe zu sehen, würden Sie sich meinem Urteil anschließen.
 Die Dame trägt heute abend eine Imitation!«
 
-»So ist sie beim Haus der Steine schamlos betrogen worden!«
+»So ist sie beim Kauf der Steine schamlos betrogen worden!«
 
 »Das nicht, Herr Harst. Ich selbst besorgte vor einigen
 Monaten die Anschaffung der Kette für Mrs. Hellway, und
@@ -517,7 +517,7 @@ Nein, hier ist ein Verbrechen vorgekommen.«
 »Oder Ihre Augen, Mr. Black, haben Sie getäuscht,«
 konnte ich mich nicht enthalten einzuwerfen.
 
-»Das glaube ich nicht,« jagte Black ruhig, »aber ich sehe
+»Das glaube ich nicht,« sagte Black ruhig, »aber ich sehe
 schon, Sie beiden Detektive sind Tatsachenmenschen und
 wollen ein präzises Urteil, möglichst aus einem zweiten fachmännischen
 Munde.«
@@ -599,8 +599,8 @@ war ziemlich zerkratzt, da es als Stockknopf gedient hatte.
 Deshalb gab ich es dem alten Portugiesen zum Abschleifen.
 Vor zwei Tagen erhielt ich das Etui, in dem das Juwel
 ruht, von Rosario zurück, hatte aber noch keine Gelegenheit,
-die Arbeit anzusehen, sondern verschloß alles in meinen
-Geldschrank, der auf eine bestimmte und mir mir bekannte
+die Arbeit anzusehen, sondern verschloß alles in meinem
+Geldschrank, der auf eine bestimmte und nur mir bekannte
 Chiffre eingestellt ist. Bei Gott, ich hätte nicht übel Lust
 sofort nach Hause zu fahren und meinen Beryll zu kontrollieren.
 Sollte auch er eine ungünstige Verwandlung durchgemacht
@@ -695,7 +695,7 @@ Mein Wagen wartet unten.«
 
 »Haben Sie Ihren Beryll mitgebracht?«
 
-»Natürlich« lautete die Antwort, »ich werde doch die
+»Natürlich,« lautete die Antwort, »ich werde doch die
 Hauptsache nicht vergessen.«
 
 Der Diener brachte unsere Stöcke und Hüte, und wenige
@@ -781,7 +781,7 @@ Tag, Mr. Black. Habe ich Aussicht ein Geschäft mit Ihnen
 zu machen? Sind Sie mit dem Schliff des Beryllknopfes
 zufrieden?«
 
-»Eben dieses Knopfes halber suche ich Sie auf, Jose de
+»Eben dieses Knopfes halber suche ich Sie auf, Josee de
 Rosario,« sagte Black ernst, »mit dem Schliff bin ich zufrieden,
 aber mit dem Knopf nicht. Hier ist das Etui. Nehmen
 Sie Ihre Lupe und untersuchen Sie den Stein.«
@@ -1050,7 +1050,7 @@ war eine Schwierigkeit. Aber Harst entdeckte in einem
 kleinen Küchenraum etwas Safran, ein beliebtes orientalisches
 Gewürz, rührte einen braunen Brei davon und bestrich
 mir das Gesicht damit. Als es trocknete, wurde ich
-schmale mit Safran überpudert.
+nochmals mit Safran überpudert.
 
 »Der Klub der buckligen Chinesen tagte nur abends,«
 <@pagebreak/>
@@ -1180,7 +1180,7 @@ heimlich zu Rosarios Laden geschlichen.
 
 Hier hatten sie sich im dunklen Keller auf ihre diversen
 Plätze auf Kisten und Körbe verteilt und, die Revolver im
-Anschlag auf die Dinge gewartet, die da kommen würden.
+Anschlag, auf die Dinge gewartet, die da kommen würden.
 
 Es entwickelte sich alles so, wie Harst es erwartet hatte.
 
@@ -1320,7 +1320,7 @@ ruderten hinter mir, um mich dem feuchten Element zu entreißen.
 
 Ich aber hatte schon den Sampam erreicht, umklammerte
 seine niedrige Bordwand, zog mich daran empor und
-kam einen Schlag auf den Kopf, der mich in die Tiefe
+— bekam einen Schlag auf den Kopf, der mich in die Tiefe
 riß.
 
 Während ich versank, hörte ich einen Schuß und einen
@@ -1352,14 +1352,14 @@ Während Black und Brown mich an Land ruderten,
 um mich schleunigst in ärztliche Behandlung zu bringen,
 untersuchten Harst und Grey den Sampam.
 
-Das ärmliche Fahrzeug forderte Schätze zutage. Mrs.
+Das ärmliche Fahrzeug förderte Schätze zutage. Mrs.
 Hellways echte Rubinen, Blacks Beryll, Browns Saphire
 und noch vieles andere wurde gefunden und seinen Eigentümern
 zugestellt.
 
 Ich aber erwachte nach Tagen in Mrs. Hellways Hause
 als Rekonvaleszent. Die gütigste Pflege wurde mir zuteil,
-und für als war es ein Feiertag, als ich so weit war, auf
+und für alle war es ein Feiertag, als ich so weit war, auf
 die Veranda humpeln zu dürfen, um mich an der Sonne
 zu laben und das Leben und Treiben des bunten Colombo
 zu beobachten. Harst saß neben mir, und Mrs. Hellway

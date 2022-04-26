@@ -23,7 +23,7 @@ im Spiele. An den Hof von Malewe kommen jetzt so viel
 verdächtige fremde Händler von sonderbarem Benehmen.
 Pass’ auf, Harald, diese Saba spielt uns einen Streich. Ihr
 Vater ist ein mächtiger Mann und vergibt uns den Schlag
-gegen seine Toter nicht.«
+gegen seine Tochter nicht.«
 
 Harst jedoch wollte mir nicht glauben. Seine sorglose
 starke Natur, die sich allen Lebenszwischenfällen gewachsen
@@ -84,7 +84,7 @@ Stelle war …
 »Du wirst Dir den Magen verderben.«
 
 Daraufhin schränkte ich den Genuß etwas ein, begrüßte
-aber die sich senkende und kühlende Nacht mit einem Aufnahmen.
+aber die sich senkende und kühlende Nacht mit einem Aufatmen.
 
 Der Aufwärter kam und wandelte die Sitze unseres
 Abteils in Betten um. Wir mußten die Nacht hindurch
@@ -231,7 +231,7 @@ Der Fürst von Sabukpore, obgleich ein indischer
 Radscha von großem Reichtum, führte doch kein eigenes
 Regiment. Er war den Engländern unterstellt, wie die
 meisten indischen Fürsten, und diese kontrollierten ihn und
-seine Regierungsmaßnahmen in unauffälliger Welse. Da war
+seine Regierungsmaßnahmen in unauffälliger Weise. Da war
 jetzt eine Fliegerabteilung der Engländer bei dem Fürsten
 eingerückt, um ihm einen Besuch abzustatten. Die Engländer
 lagerten im Palasthofe und nahmen anscheinend in der
@@ -629,7 +629,7 @@ Shinta, und schreibt ihr alle möglichen Eigenschaften zu.
 Die Shintaschlange existiert nur einmal, sie ist aus Gold
 und ihren Kopf bildet ein einziger wunderbarer Topas von
 hohem Wert. Diese Original-Shinta-Schlange ruht in der
-Obhut eines alten Oberpriester der Sekte. Es existieren
+Obhut eines alten Oberpriesters der Sekte. Es existieren
 aber bei den verschiedenen Sekten in den verschiedenen Gegenden
 Nachbildungen dieser Shintaschlange, zu der die
 Sektierer beten. In bestimmten Zeitpausen macht der alte
@@ -637,7 +637,7 @@ Oberpriester Reisen und bringt die Originalschlange in die
 Tempel, wo die Schlangennachbildungen sich befinden. Unter
 allerlei religiösen Zeremonien wird eine Verbindung
 von dem Original mit der Nachbildung vollzogen, damit das
-Abbild der Eigenschaften der eigentlichen Shinta annehme.
+Abbild die Eigenschaften der eigentlichen Shinta annehme.
 So befindet sich die Originalshinta eigentlich immer mit
 dem Oberpriester auf Reisen zu den diversen Gemeinden,
 denn die Übertragung der Eigenschaften hält nur immer
@@ -1042,7 +1042,7 @@ Augen.
 
 Nurmo lag auf dem Rücken in der Mitte seiner Kabine.
 Er war tot, auf gräßliche Weise erdrosselt. Sein
-Bett hatte er ausgesucht, es war zerwühlt, aber offenbar
+Bett hatte er aufgesucht, es war zerwühlt, aber offenbar
 hatte er die Flucht ergreifen wollen. Er hatte angefangen,
 einen kleinen Handkoffer zu packen, aus dem einige Toilettenutensilien
 lugten. Ich sah eine Zahnpulverdose, einige
@@ -1091,7 +1091,7 @@ seltsam!«
 
 »Sieh mal, Schraut, Nurmo hat Lunte gerochen und
 entfliehen wollen. Das beweist der kleine Koffer, den er
-anging zu packen. Er hat auch geschlafen, ist dann aber
+anfing zu packen. Er hat auch geschlafen, ist dann aber
 aufgestanden und hat sich angekleidet. Vorher hat er sich die
 Hände gewaschen, das Wasser im Becken ist benutzt. Aber
 woher, in aller Welt, kommt dieses kleine Seifenschnitzel
@@ -1134,7 +1134,7 @@ hier ist er!«
 
 Harst nahm das Papier zu sich und las:
 
-»Komme zu mir und fliehe mit mir. Folge dem Boten,
+> »Komme zu mir und fliehe mit mir. Folge dem Boten,
 der Dir dies bringt und vertraue ihm. Er ist ein Freund.
 Jim.«
 
@@ -1166,7 +1166,7 @@ sagte Harst, »aber — —«
 »Ja, diesen Wisch hat ein Inder geschrieben!«
 
 Mc. Namara stieß einen durchdringenden Schrei aus,
-aber Harst wandte Greep und Mr. Fadden zu, die soeben
+aber Harst wandte sich Greep und Mr. Fadden zu, die soeben
 über die Laufplanke die »Santala« betraten.
 
 »Ich habe soeben Ihre Botschaft bekommen, Mr. Harst,«
@@ -1237,7 +1237,7 @@ aber hat er ein Schreiben von ihr *erhalten*!«
 
 »Wir saßen im Hotel beim Frühstück, das uns nach der
 durchwachten Nacht sehr nötig war. Ein Matrose erschien
-und brachte mir Ihren Brief Mr. Harst. Als ich Ihre Zeilen
+und brachte mir Ihren Brief, Mr. Harst. Als ich Ihre Zeilen
 studierte, stieß Fadden plötzlich einen Ruf der Überraschung
 aus. Neben seinem Teller lag ein Zettel, der vorher
 dort nicht gelegen hatte. Geben Sie Harst den Zettel,
@@ -1279,7 +1279,7 @@ bei der Untersuchung beschäftigt hatte, mit dem Schlangenkopf
 zu tun?
 
 Harst stürzte zu den Kabinen hinunter, und nicht nur
-ich, sondern auch die übrige Gesellschaft folgten ihm.
+ich, sondern auch die übrige Gesellschaft folgte ihm.
 
 Die Tür zu Nurmos Kabine stand offen. Die Leiche
 selbst war auf Befehl Harsts entfernt worden, aber sonst
