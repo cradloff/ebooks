@@ -28,7 +28,7 @@ Er reichte mir das Blättchen. Es war der obere Teil eines gestempelten Briefbog
 
 > Beweisen Sie mir, daß Sie tatsächlich so viel können, wie die ganze Welt glaubt, die in Ihnen eine Art Überdetektiv anbetet. Beweisen Sie’s, und es soll mich freuen. Denn ich liebe die Intelligenz in jeder Form.
 
-> (B) K P K S A B K M H N A L G A L B.«
+<blockquote><p class="centered">(B) K P K S A B K M H N A L G A L B.«</p></blockquote>
 
 So lautete der Inhalt dieses Zettels. Sonst enthielt er nichts außer dem Klubstempel links oben in der Ecke. Von den 17 großen Buchstaben der Unterschrift war der erste, B, eingeklammert. Daß diese Unterschrift kein Name sein konnte, war mir sofort klar. Sie mußte zweifellos eine andere Bedeutung haben.
 
@@ -42,7 +42,7 @@ Draußen war ein Auto vorgefahren. Harst schwieg plötzlich, eilte ans Fenster. 
 
 »Dem Himmel sei Dank, daß Sie daheim sind, bester Harst!«
 
-Ich trat neben Harald, sah, wie Kommerzienrat Kammler den Chauffeur bezahlte, wie er dann, uns erregt zuwinkend, durch den Vorgarten dem Hause zustürmte. Ich ließ ihn ein, und ganz atemlos sank er in den nächsten Klubsessel, warf den Hut achtlos auf den Teppich, trocknete sich die schweißfeuchte Stirn und schaute Harst mit Augen an, in denen meines Erachtens ein viel zu starker Ausdruck hellsten Entsetzens lag, als daß es sich hier nur um eine gestohlene Million handeln könnte. Die Mitglieder des Universum-Klubs waren ja sämtlich reich! Was konnte es den Wettgegnern Harsts da ausmachten, ihre Anteile an der Wettsumme auf diese Weise eingebüßt zu haben!
+Ich trat neben Harald, sah, wie Kommerzienrat Kammler den Chauffeur bezahlte, wie er dann, uns erregt zuwinkend, durch den Vorgarten dem Hause zustürmte. Ich ließ ihn ein, und ganz atemlos sank er in den nächsten Klubsessel, warf den Hut achtlos auf den Teppich, trocknete sich die schweißfeuchte Stirn und schaute Harst mit Augen an, in denen meines Erachtens ein viel zu starker Ausdruck hellsten Entsetzens lag, als daß es sich hier nur um eine gestohlene Million handeln könnte. Die Mitglieder des Universum-Klubs waren ja sämtlich reich! Was konnte es den Wettgegnern Harsts da ausmachen, ihre Anteile an der Wettsumme auf diese Weise eingebüßt zu haben!
 
 Kammler schnappte noch immer nach Luft. Harst stand vor ihm und schüttelte langsam den Kopf.
 
@@ -154,7 +154,7 @@ Er winkte mir, und ich reichte ihm ein frisches Glas Burgunder. Er trank in klei
 
 Dann machte er eine schwerfällige Handbewegung nach dem Munde, schüttelte ebenso schwerfällig den Kopf, drehte das Gesicht nach der Wand und verhielt sich regungslos. Das hieß: er könne jetzt nicht noch mehr sprechen, sei zu schwach dazu und wolle Ruhe haben.
 
-Wir gingen nebenan in Harsts Arbeitszimmer, lehnten die Tür an, setzen uns in die Sessel an das Rauchtischchen und tauschten einen langen, hilflosen Blick aus. Dann flüsterte Bechert:
+Wir gingen nebenan in Harsts Arbeitszimmer, lehnten die Tür an, setzten uns in die Sessel an das Rauchtischchen und tauschten einen langen, hilflosen Blick aus. Dann flüsterte Bechert:
 
 »Unsereiner erlebt doch so allerlei. Aber dies hier! Schon der Mord und der Diebstahl im Klub geben uns haufenweise Rätsel auf. Der alte Häske ist noch lebend, wenn auch durch einen furchtbaren Schlag auf den Hinterkopf schwer betäubt in den Tresor hineingezwängt worden. Den Tod hat ihm das kleine Reptil gebracht. Die linke Hand ist schwarzblau verschwollen. Dort sitzen die giftigen Bisse. – Wer war der Mörder und Dieb? Wer nur?! – Und dann – dann dieses Attentat auf Harst! Ich verstehe ja etwas von Nervengiften. Er selbst muß sofort geahnt haben, als ihm die Sinne schwanden, daß der anscheinend so harmlose alte Herr ihn absichtlich mit dem Stock gegen die Wade geschlagen hat. Der Stock muß mit einer vergifteten Nadel versehen gewesen sein. Nur so –«
 
