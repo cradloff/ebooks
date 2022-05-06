@@ -2176,17 +2176,17 @@ Wir verabschiedeten uns …
 
 Halb neun …
 
-Wir hatten den Museumsdirektor ausgesucht. Harsts
-Name verschaffte uns fesselt eine Unterredung … Aber
+Wir hatten den Museumsdirektor aufgesucht. Harsts
+Name verschaffte uns sofort eine Unterredung … Aber
 wir waren bei diesem Besuch mit allergrößter Vorsicht vorgegangen.
 Harald fürchtete, daß Gisbert uns noch immer
-Schwächen ließ;.
+bewachen ließ.
 
 Der Direktor war sehr erstaunt, als Harald ihn bat,
-uns Pro der späten Stunde in das Museum zu führen.
+uns trotz der späten Stunde in das Museum zu führen.
 Den Grund dieser Bitte verschwieg mein Freund. — Wenn
 es sich nicht um Harald Harst gehandelt hätte, so wäre der
-Lappalie Herr wohl kaum so willfährig gewesen.
+alte Herr wohl kaum so willfährig gewesen.
 
 Um halb zehn waren wir in der Bildergalerie im alten,
 berühmten Franziskanerkloster …
@@ -2196,36 +2196,36 @@ Schritten durch die Säle …
 Der Direktor machte uns auf die wertvollsten Gemälde
 aufmerksam …
 
-Blick wieder stehen …
+Blieb wieder stehen …
 
 »Hier, meine Herren, — das beste, was wir besitzen, genannt
 »Das blaue Wunder« …«
 
-Es war ein sehr großes Bild, ein Seestück … Zeit
-kam das präcvtige Blatt der rollenden Tagen jetzt bei für
+Es war ein sehr großes Bild, ein Seestück … Leider
+kam das prächtige Blau der rollenden Wogen jetzt bei künstlicher
 <@pagebreak/>
-gefährlicher Beleuchtung nicht recht zur Wirkung …
+Beleuchtung nicht recht zur Wirkung …
 
-»Das. Gemälde ist das auch unter einem anderen
+»Das Gemälde ist doch auch unter einem anderen
 Namen weltberühmt, Herr Direktor …« meinte Harald …
 
-»Gewiß, der richtige Name lautet: »Am Kap der Guten-Hoffnung«
-…«
+»Gewiß, der richtige Name lautet: »Am Kap der Guten
+Hoffnung« …«
 
-Wir ging’s da wie ein Ruck durch den Körper …
+Mir ging’s da wie ein Ruck durch den Körper …
 
 Kap der Guten Hoffnung!! Die Tonpfeife!!
 
 Harald beleuchtete das Bild mit seiner Taschenlampe,
 lobte es und sagte: »So, nun können wir wieder gehen,
-Herr Direktor …
+Herr Direktor …«
 
 Der war etwas einsilbig und verstimmt … Trotzdem
 erklärte Harald nicht, weshalb er die Gemäldegalerie habe
 sehen wollen, sagte nur beim Abschied:
 
 »Sie werden mir’s später danken, Herr Direktor, daß
-ich Sie an diesem Abend so bemüht habe —
+ich Sie an diesem Abend so bemüht habe …« —
 
 Dann wanderten wir beide allein durch die Straßen …
 
@@ -2233,7 +2233,7 @@ Ich — noch immer ahnungslos …
 
 Und Harald in allerbester Laune …
 
-Alte wir über den Langen Markt am Springbrunnen
+Als wir über den Langen Markt am Artusbrunnen
 vorübergingen, faßte Harst mich unter …
 
 »Du, Mattieß ist seiner Sache so sicher, daß er keine
@@ -2242,70 +2242,70 @@ und uns ein Flugzeug leisten … Dann sind wir nachts
 drei Uhr in Swinemünde …«
 
 »Swinemünde?! — Ah — — und Osternothafen liegt
-Swinemünde gegenüber«…«
-»Stimmt … Und in Osternothafen wohnt Herr Erich
+Swinemünde gegenüber …«
 
-Pastella, Kapitän und Besitzer der Maria … Vielleicht er:
-fahren wir dort, wohin die Maria segelt … Nur dort werden
+»Stimmt … Und in Osternothafen wohnt Herr Erich
+Pastella, Kapitän und Besitzer der Maria … Vielleicht erfahren
+wir dort, wohin die Maria segelt … Nur dort werden
 wir die Wahrheit hierüber hören — vielleicht … Anderswo
-könnten wir diese Kenntnis uns nicht verschlossen …«
+könnten wir diese Kenntnis uns nicht verschaffen …«
 
 »Und — was hat die Maria an Bord?«
 
 »Wie — das fragst du noch?! Aber mein Alter, hast
-du denn im Muscwmm-wirklich nichts bemerkt?! — Es handelt
+du denn im Museum wirklich nichts bemerkt?! — Es handelt
 sich hier um einen Diebstahl, wie er ziemlich einzig dastehen
 <@pagebreak/>
-dürfte … zischend ist als Maler ohne Zweifel ein
-Genie — wie als Verbrekcher. Tun hörtest doch von dem
+dürfte … Gisbert ist als Maler ohne Zweifel ein
+Genie — wie als Verbrecher. Du hörtest doch von dem
 Direktor, daß Ausländer für das Blaue Wunder schon bis
 zu einer Million geboten haben …«
 
-Da — — kam mir die Erleuchtung
+Da — — kam mir die Erleuchtung …
 
-»2 Himmel — der Schuft hat das »Originalbild aus
-dem Rahmen entfernt und eine Kopie …
+»O Himmel — der Schuft hat das Originalbild aus
+dem Rahmen entfernt und eine Kopie …«
 
-» -. eingefügt — ganz recht. Und von dieser Arbeit
+»… eingefügt — ganz recht. Und von dieser Arbeit
 zeigte der Läufer vor dem Bilde noch geringe Spuren …
-Buch der Rahmen … — Wie prächtig diese Kopie geraten
+Auch der Rahmen … — Wie prächtig diese Kopie geraten
 ist, beweist ja schon die Ahnungslosigkeit des Direktors, der
-den Betrug nicht bemerkte …
+den Betrug nicht bemerkte …«
 
 »Eine Frechheit von Mattieß!«
 
-»O —.ein kühner, schlauer Diebstahl … — Und dann:
-Du weißt roh, was man unter Duplizität der Ereignisse
+»O — ein kühner, schlauer Diebstahl … — Und dann:
+Du weißt doch, was man unter Duplizität der Ereignisse
 versteht!«
 
-»Natürlich …
+»Natürlich …«
 
-»Die parierte komme man hierzu rechnen … Mattieß
+»Die Kalkpfeife könnte man hierzu rechnen … Mattieß
 hat in etwas leichtsinnigem Nachahmungstrieb nach dem
-Muster des Herrn Doktor folgen-Smith gehandelt, der uns
-in Schloß Lubowitz die drei Maitages spendete … Gisbert
-spendete uns die Holzpfeife und glaubte genau wir folgen,
-daß wir niemals den Zweck dieses Geschenks erraten dünn:
-erschien … Irrtum!! Als der alte Herr Geßling »Kunstmaler«
+Muster des Herrn Doktor Kolger-Smith gehandelt, der uns
+in Schloß Lubowitz die drei Kartons spendete … Gisbert
+spendete uns die Holzpfeife und glaubte genau wir Kolger,
+daß wir niemals den Zweck dieses Geschenks erraten könnten
+… Irrtum!! Als der alte Herr Geßling »Kunstmaler«
 sagte, dachte ich sofort an den geknebelten Nachtwächter, der
 hauptsächlich das Franziskaner-Museum zu beaufsichtigen
-bat … So ergriff ich das eine Ende des Fadens, der uns
-ich! auch zu den Dieben hinführen wird …« —
+hat … So ergriff ich das eine Ende des Fadens, der uns
+jetzt auch zu den Dieben hinführen wird …« —
 
-Und zwei Stunden voraus: Flugzeug vorn Swinemünde!
+Und zwei Stunden darauf: Flugzeug gen Swinemünde!
 Winterfahrt bei sternenklarem Nachthimmel …
-hindurch Über Pommerns verschneite Wälder und Felder …
+Hinweg Über Pommerns verschneite Wälder und Felder …
 
-Harst im bequemen Passagieren schlafend, gleichsam
+Harst im bequemen Passagiersitz schlafend, gleichsam
 vorläufig ausruhend auf seinen Lorbeeren …
 
 Nun, er hatte den Schlaf verdient … Und wenn ich
 ihn still betrachtete, wie er so in dem Sessel lehnte, die Züge
 <@pagebreak/>
-des geistvollen Gesichtes im Schlosse entspannt und ein vper-tränmtes
-Lächeln um den Mund, dann Freude ich mich für
-ihn, daß es ihm abermals geglückt war, das seine verbrecherische
-Geplagt eines nicht alltäglichen Gesetzesverächters zu
+des geistvollen Gesichtes im Schlafe entspannt und ein verträumtes
+Lächeln um den Mund, dann freute ich mich für
+ihn, daß es ihm abermals geglückt war, das feine verbrecherische
+Gespinst eines nicht alltäglichen Gesetzesverächters zu
 zerreißen …
 
 Und von seinem Antlitz wanderte mein Blick wieder
@@ -2317,11 +2317,11 @@ Fenster eines Gutshauses, in dem man wohl
 ein Fest feierte …
 
 Meine Gedanken irrten jedoch nur zu oft ab — hinaus
-aus die Ostsee, wo der Schoner Maria nun mit unbekannten
+auf die Ostsee, wo der Schoner Maria nun mit unbekannten
 Kurs die Beute davontrug, die Gisbert Mattieß anderswie
-kaum aus Danzig hätte weglassen können … —
+kaum aus Danzig hätte wegschaffen können … —
 Auf dem Hafenamt hatte man uns gesagt, die Maria sei
-mit Ballast unterwegs nach): ihren. Heimatort, nach Osternothafen
+mit Ballast unterwegs nach ihrem Heimatort, nach Osternothafen
 … Wir glaubten nicht daran … Aber wie Harald
 in Osternothafen das wahre Reiseziel ermitteln wollte, war
 mir noch unklar. Gelingen würde es ihm schon … —
@@ -2330,15 +2330,14 @@ Drei Uhr morgens …
 
 Swinemünde … Glatte Landung … Wir mit unseren
 Koffern in die Stadt … in das behagliche alte Hotel
-
 am Markt …
 
-Bekannter Boden für uns. Hier haben wir schon ’ss
+Bekannter Boden für uns. Hier haben wir schon so
 mancherlei erlebt … Aber im Winter hatten wir den idyllischen
 Badeort bisher nicht besucht …
 
-Dann — — mittags gegen zwölf … Tau Osternothafen …
-Die Fähre hat uns über die ewige gesetzt, zu Fuß sind wir
+Dann — — mittags gegen zwölf … In Osternothafen …
+Die Fähre hat uns über die Swine gesetzt, zu Fuß sind wir
 am Flusse entlang gewandert, vorbei an der kleinen Festung,
 vor uns den weißen Leuchtturm, das Wahrzeichen von
 Osternothafen …
@@ -2346,15 +2345,15 @@ Osternothafen …
 Tot und still der kleine Ort, der im Sommer so vielen
 <@pagebreak/>
 Fremden Unterkunft bietet, Eldorado der Angler, der Leute
-mit kleinen Geldbeutel und großem Naturbunger.
+mit kleinem Geldbeutel und großem Naturhunger.
 
 Strandgasse 2 wohnt der Kapitän Pastella — im eigenen,
 abseits gelegenen Häuschen …
 
-Und wir beide, die wir hier aus Vorsicht unser Meute
-anderes wieder umgewandelt haben, sieben dann der Frau Kap!
-lag gegenüber, fragen, ob sie uns aufnehmen könnte …
-Erholungsbedürftige ’Berliner seien wir … Eine kostbare
+Und wir beide, die wir hier aus Vorsicht unser Äußeres
+wieder umgewandelt haben, stehen dann der Frau Kapitän
+gegenüber, fragen, ob sie uns aufnehmen könnte …
+Erholungsbedürftige Berliner seien wir … Eine heizbare
 Stube genüge uns …
 
 Die Frau ist hager und sieht sehr vergrämt aus …
@@ -2365,67 +2364,68 @@ Decke zierliche Schiffsmodelle hängen …
 Die Frau ist noch jung … Und so scheu, so bedrückt,
 so … mißtrauisch …
 
-Doch das Geld Lot … Sie scheint an uns nichts auszusehen
-zu haben … Abends könnten wir einziehen …-
+Doch das Geld lockt … Sie scheint an uns nichts auszusetzen
+zu haben … Abends könnten wir einziehen …
 Dann würde das große Verandazimmer oben schön warm
 sein …
 
 Wir sehen uns das Zimmer an, sehen eine Staffelei,
-Malerutensilien 2 …
+Malerutensilien …
 
 Harald meint: »Malen Sie, Frau Pastella?«
 
 Sie wird rot, und ein bitterer Zug preßt den Mund
 zur Linie …
-»Ein Freund meines Mannes hat einige Zeit hier gewohnt
-… erklärt sich kurz …
 
-Harald zahlt dreißig war! an …
+»Ein Freund meines Mannes hat einige Zeit hier gewohnt
+…," erklärt sie kurz …
+
+Harald zahlt dreißig Mark an …
 
 Abends sieben Uhr halten wir unseren Einzug …
 
 Den Abendbrottisch hat Frau Pastella uns bereits gedeckt.
-Hund ihre Verpflegung ist tadellos
+Und ihre Verpflegung ist tadellos …
 
 So haben wir denn nun denselben Raum inne, in dem
 Gisbert Mattieß »Das blaue Wunder« gemalt hat — ohne
-Zweifel hier in der Einsamkeit, und ohne Zweifel wer«
-Frau Pastella von alledem … Sie leider darunter. gefürchtet,
+Zweifel hier in der Einsamkeit, und ohne Zweifel weiß
+Frau Pastella von alledem … Sie leider darunter. Sie
 <@pagebreak/>
-Daß ihr Mann mit dem Strafrichter in Konflikt
+fürchtet, daß ihr Mann mit dem Strafrichter in Konflikt
 kommen könnte …
 
 Die Frau hat im übrigen etwas sehr Sympathisches
-an sich. Als sie das Geschirr abräumt, komm! sie ins Plan
-
-ein …
+an sich. Als sie das Geschirr abräumt, kommt sie ins Plaudern
+…
 
 Fünf Jahre verheiratet, kinderlos, der Mann etwas
 leichtsinnig, spielt und … trinkt …
 
 Ihre Augen schimmern feucht …
 
-»Schritte Freunde sind das »schlimmste für einen
+»Schlechte Freunde sind das schlimmste für einen
 schwachen Charakter,« seufzt sie …
 
-Das ging fraglos aus Gisbert Mattieß …
+Das ging fraglos auf Gisbert Mattieß …
 
-Man merkte der armen Frau so recht an, wie Wohl
-es ihr hat, daß sie sich einmal das Herz erleichtern konnte …
+Man merkte der armen Frau so recht an, wie wohl
+es ihr tat, daß sie sich einmal das Herz erleichtern konnte …
 Und Haralds menschenfreundliche, gütige Art erleichterte ihr
-dieses intime Gespräch in so sorgfältiger Weise, daß sich
+dieses intime Gespräch in so sorgfältiger Weise, daß sie
 nachher meinte: »Jetzt freue ich mich, daß ich die Herren
 bei mir aufgenommen habe … Zuerst habe ich die Herren,
 ich will nur ehrlich sein, für … für … Beamte gehalten
 und …«
 
-Da steckte sie … Sie wurde sich bewußt, etwas verraten
+Da stockte sie … Sie wurde sich bewußt, etwas verraten
 zu haben, das sie angstvoll bisher im tiefsten Innern
 verborgen hatte … Verlegen erhob sie sich … »O, jetzt
+muß ich aber gehen … Ich habe schon zu lange gestört …«
 
-muß ich) aber gehen … Ich habe schon zu lange gestört …«
 Harald nahm ihre Hand …
-bleiben Sie, Frau Pastella …!«
+
+»Bleiben Sie, Frau Pastella …!«
 
 <@pagebreak/>
 
@@ -2433,12 +2433,12 @@ bleiben Sie, Frau Pastella …!«
 
 <h3>Wir als Piraten.</h3>
 
-»bleiben Sie … Sehen Sie sich wieder … Sie
+»bleiben Sie … Setzen Sie sich wieder … Sie
 haben uns für Kriminalbeamte gehalten, sagten Sie so
-oben … — Ja, haben Sie denn die Polizei zu fürchten«
+eben … — Ja, haben Sie denn die Polizei zu fürchten?«
 
 Sie sank mehr in den Stuhl zurück als sie sich setzte —
-sank mit einem Seufzer in sie) zusammen und schlug die
+sank mit einem Seufzer in sich zusammen und schlug die
 Hände vor das vergrämte Gesicht …
 
 Aber — kein Laut kam über ihre Lippen … Ihr Körper
@@ -2447,11 +2447,11 @@ flog wie im Krampf …
 Dann stand sie mit einem Ruck wieder auf …
 
 »O — erbarmen Sie sich meiner … Dringen Sie nicht
-weiter in mich … Lassen Z:;; mich mein Elend allein tragen
+weiter in mich … Lassen Sie mich mein Elend allein tragen
 …«
 
-Und hastig räumte sie das Geschirr ab … Nr ein
-leises »Gute Nacht«, und sich verließ das Zimmer …
+Und hastig räumte sie das Geschirr ab … Noch ein
+leises »Gute Nacht«, und sie verließ das Zimmer …
 
 Draußen brauste ein hohler Tauwind durch die kahlen
 Bäume und um das einsame Haus …
@@ -2459,7 +2459,7 @@ Bäume und um das einsame Haus …
 Harald meinte leise:
 
 »Mein Alter, hier gibt es fraglos noch mehr Geheimnisse
-… Hier werden wir aber auch) einen sehr schweren
+… Hier werden wir aber auch einen sehr schweren
 Stand haben … Denn schon dieses armen Weibes wegen
 möchte ich Pastella schonen …«
 
@@ -2467,11 +2467,11 @@ Er schien noch etwas hinzufügen zu wollen …
 
 Zog die Augenbrauen hoch, blickte scharf zur Truhe …
 
-Und — da hörte auch ich im Flur eine Dicke knarrten …
+Und — da hörte auch ich im Flur eine Diele knarrten …
 
-Dicht: vor der Tür …
+Dicht vor der Tür …
 
-Ob die Frau gelauscht hatte?? Und wenn: Dann
+Ob die Frau gelauscht hatte?! Und wenn: Dann
 waren wir entlarvt!
 
 »du hättest vorsichtiger sein sollen,« flüsterte ich …
@@ -2479,7 +2479,7 @@ waren wir entlarvt!
 »Ich wollte unvorsichtig sein,« flüsterte er …
 
 <@pagebreak/>
-»Weshalb?’«
+»Weshalb?!«
 
 »Zwei Stunden später, mein Alter … Dann werden
 wir die Früchte dieser Unvorsichtigkeit ernten … von der
@@ -2487,23 +2487,23 @@ Veranda aus …«
 
 »Du meinst?!«
 
-»Ich meine, »daß Frau Pastella vielleicht nachts da?
-Ha(s8 verlassen wird … Und da hinter dem Hause die
+»Ich meine, daß Frau Pastella vielleicht nachts das
+Haus verlassen wird … Und da hinter dem Hause die
 verschneiten Wiesen sich hinziehen, wo sie im Mondlicht so
 leicht zu sehen sein würde, wird sie wohl die Straße in den
 Dünenwald benutzen …«
 
-»und … 8!«
+»und …?!«
 
-»und — das weitere erlebst du ja mit … Wir verraten
+»und — das weitere erlebst du ja mit … Wir werden
 früh zu Bett gehen, zum Schein … Werden uns auf
-der Veranda mäuschenstill verhaften und die Strickleiter
+der Veranda mäuschenstill verhalten und die Strickleiter
 rechtzeitig befestigen …« —
 
 Winternacht an der See … Ferne Brandung … Wir
 beide als Spione in der eisig kalten Veranda … Eine halbe
 Stunde … dann — — unten knarrt eine Tür … dann
-Frau PastcUa, eilig durch« den Vorgarten schlüpfend …
+Frau Pastella, eilig durch den Vorgarten schlüpfend …
 Im Arm ein großes Paket …
 
 Davonhastend — die Straße entlang, durch mondhelle
@@ -2516,61 +2516,61 @@ schlechten Gewissen auf den Fersen bleibt …
 Und — nach einer halben Stunde zwei, die eilends
 wieder zur Veranda emporklimmen, verschwinden … Frau
 Pastella erscheint drei Minuten später … Die Tür knarrt …
-Und in Hause wird’s still … Wir schlafen — schlafen tief
+Und im Hause wird’s still … Wir schlafen — schlafen tief
 und fest … denn das, was wir beobachtet haben, müssen
-wir bei Tageslicht!t nochmals Beethoven … —
+wir bei Tageslicht nochmals beschauen … —
 
-Vormittags zebkbn Uhr. Frau Pastellas Gäste unternehmen
-einen. Spaziergang noch dem Leuchtturm, nach
-der Hafennmolc, liegen lebt? ab, am Rande des Dünenwaldes
-Sultan? …
+Vormittags zehn Uhr. Frau Pastellas Gäste unternehmen
+einen Spaziergang nach dem Leuchtturm, nach
+der Hafenmole, biegen rechts ab, am Rande des Dünenwaldes
+entlang …
 
 <@pagebreak/>
 Sonnenschein liegt über dem winterlichen Meere …
 
-Und Wir stapfen durch diesen einer, wir finden die
+Und Wir stapfen durch tiefen Schnee, wir finden die
 Stelle, wo Frau Pastella in der Nacht an eine einzelne
 Kiefer hoch auf den Dünen einen langen Fetzen weißen
-großes angebunden hat …
+Stoffes angebunden hat …
 
-Finden die zweite Stelle, wo unter dem Wyurzwerk
-einer anderen dieser bei Laternenlicht eine verängstigte Frau
+Finden die zweite Stelle, wo unter dem Wurzelwerk
+einer anderen Kiefer bei Laternenlicht eine verängstigte Frau
 ein Bündel in den lockeren Flugsand eingescharrt hat …
 
 Wir legen das Bündel frei, Ölleinwand, darin zwei …
 zusammengerollte Bilder, Ölgemälde, zwei Kopien bekannter
 Werke von Rubens …
 
-Das ist alles … ««
+Das ist alles …
 
-Aber Harald ist zufrieden …«
+Aber Harald ist zufrieden …
 
-»Tadellose Kopien … Wie sein die Alterspatina
+»Tadellose Kopien … Wie fein die Alterspatina
 künstlich hervorgerufen ist …! Glänzend! — Siehst du,
 mein Alter, mit diesen beiden Kopien wollten die Verbündeten
 einen ähnlichen Streich begehen wie den in Danzig.
 Zufällig weiß ich nämlich, daß die Originalgemälde im
-königlichen Schlosse in Kopenhagen hängen …
+königlichen Schlosse in Kopenhagen hängen …«
 
 »Und der Zeugfetzen am Baume?«
 
 »Ja, der wird uns zu einer winterlichen Fahrt verhelfen
-… — Kehren wir um … Wand frage nicht weiter …
+… — Kehren wir um … Und frage nicht weiter …
 Verdirb mir den Schlußakt nicht …« —
 
 Frau Pastella war keine Schauspielerin, im Gegenteil.
 Schon als sie uns das Frühstück gebracht hatte, war sie
-ganz anders als am Abend vorher gewesen: noch bedrückten,
+ganz anders als am Abend vorher gewesen: noch bedrückter,
 scheu und von einer verborgenen Feindseligkeit, wenn
 man es so bezeichnen darf. Und das blieb nun so, obwohl
 wir beide so taten, als hätte sich keinerlei trennende Wand
-zwischen uns und unserer Wirtin ausgerichtet.
+zwischen uns und unserer Wirtin aufgerichtet.
 
 So verging auch dieser Tag. Harald hatte nachmittags
 in Swinemünde einen großen Motorkutter gemietet und
 mit dem Besitzer vereinbart, daß das Boot jederzeit Tag
 wie Nacht auf Anruf uns zur Verfügung stehen müsse. Billig
-wurde die Geschichte nicht. aber — mir brachte dieses
+wurde die Geschichte nicht. Aber — mir brachte dieses
 <@pagebreak/>
 Mietgeschäft Klarheit über den Zeugfetzen: es war ein Signal
 für den Schoner Maria, ein Warnungssignal, daß er
@@ -2579,108 +2579,108 @@ Osternothafen nicht anlaufen solle!
 Als ich mit Harald hierüber sprach, erklärte er kurz:
 
 »Natürlich Signal! Und da der Fetzen von See aus
-nur am Tage zu bemerken ist, brauchen wir aus den Schoner
+nur am Tage zu bemerken ist, brauchen wir auf den Schoner
 nachts nicht aufzupassen. Morgen können wir ihn erwarteten
-… Ich) habe berechnet, wie lange ein Segler wie die
+… Ich habe berechnet, wie lange ein Segler wie die
 Maria bei diesen Windverhältnissen von Danzig bis hierher
 braucht.«
 
 »Und mit dem Motorkutter willst du …«
 
-»-»- die Maria entern — stimmt! — Du bist doch unverbesserlich,
+»… die Maria entern — stimmt! — Du bist doch unverbesserlich,
 mein Alter! Ich wollte dir dies gern als nette
 Überraschung servieren, und nun verdirbst du mir den
-ganzen Spaß — — ein Jammer!« — Er war wirklich;
+ganzen Spaß — — ein Jammer!« — Er war wirklich
 ärgerlich … Ich kenne ihn ja … Wenn man in dieser
-Bezieluing seine Absichten durchkreuzt, wird er ungemütlich.
+Beziehung seine Absichten durchkreuzt, wird er ungemütlich.
 
-Kein Wunder, daß ich mit einiger Spannung dem so!
-folgenden lange entgegensah … Kein Wunder, daß ich mir
+Kein Wunder, daß ich mit einiger Spannung dem
+folgenden Tage entgegensah … Kein Wunder, daß ich mir
 von dieser Fahrt als … Piraten in meiner Phantasie ein
 Bild entwarf, das vielleicht zu abenteuerlich sein mochte.
-Aber — hatte ich nicht vielleicht doch recht, wenn ich an:
-nahm, »daß die Besatzung des Schoners sich zur Wehr sehen
-wiürdes!
+Aber — hatte ich nicht vielleicht doch recht, wenn ich annahm,
+daß die Besatzung des Schoners sich zur Wehr setzen
+würde?!
 
 So dämmerte denn der nächste Tag herauf. Unser
-Kutter lag jetzt an der Hafenmole unweit des Lenchtturu-vertatt.
-Wir trennten jederzeit an Bord gehen … —
+Kutter lag jetzt an der Hafenmole unweit des Leuchtturmes
+vertäut. Wir konnten jederzeit an Bord gehen … —
 
 Harald hatte mittags gegen elf mit Hilfe seines Fernglases
-Leuten Segler erspäht, der von Osten nahte. Um ein
-Viertel wohl wußten wir, daß es die Maria war … gesorgt
-sind) weiter Motorkutter in See … Noch konnte man
+einen Segler erspäht, der von Osten nahte. Um ein
+Viertel zwölf wußten wir, daß es die Maria war … Sofort
+stach unser Motorkutter in See … Noch konnte man
 von der Maria aus unmöglich das Warnungssignal bemerkt
 haben. Unser Kutter bog um die Molenspitze herum — hinein
 ins offene Fahrwasser … Es war ein klarer, sonniger
-Wintertag, dieser 50. Januar, der in meinen Grinnertnge!.
+Wintertag, dieser 30. Januar, der in meinen Erinnerungen
 <@pagebreak/>
 eine hervorragende Stellung einnimmt. Ein ziemlich frischer
-Nordost trieb hohe Wogen gegen die Bewußtlose, die
+Nordost trieb hohe Wogen gegen die Betonblöcke, die
 ostwärts der Mole versenkt sind. An Bord des Kutters befanden
 sich außer uns zwei Mann, zwei ältere, stämmige
 Fischer, denen Harald nun ganz offen erklärte, wer wir in
 Wahrheit seien und daß wir einen an Bord der Maria anwesenden
 Bilderdieb festnehmen wollten. Die Fischer waren
 mit allem einverstanden. Der Name Harst war ihnen nicht
-fremd und würde sie gegen Ungelegenheiten schützen»…
+fremd und würde sie gegen Ungelegenheiten schützen …
 
 So näherten wir uns denn allmählich dem Schoner, der
 jetzt auf die Küste zuhielt.
 
-Bald waren wir so dicht heran, daß wir an Des der
+Bald waren wir so dicht heran, daß wir an Deck der
 Maria drei Leute beobachten konnten — außer dem Manne
 am Steuer …
 
-Und — bald schönsten die dort drüben gegen uns auch
+Und — bald schöpften die dort drüben gegen uns auch
 Verdacht … Ferngläser richteten sich auf uns … Harst
-hatte vorhin den falschen dort entfernt, und auch ich zeigte
-den Banditen dort nun mein Schrittes, rundliches Max-Schraut-Gesicht
+hatte vorhin den falschen Bart entfernt, und auch ich zeigte
+den Banditen dort nun mein bebrilltes, rundliches Max-Schraut-Gesicht
 …
 
 Unser Kutter glitt neben die Maria … Kaum drei
-Meter trennten uns … Und dann — ein günstiger Jugendlich
+Meter trennten uns … Und dann — ein günstiger Augenblick
 … — wir beide sprangen mit langem Satz hinüber —
 die Pistolen schußbereit … — wir als Piraten …
 
-Denn ungesjsebzlich war das, was wir hier taten, in
+Denn ungesetzlich war das, was wir hier taten, in
 jedem Falle … Nur die ganzen Umstände entschuldigten
 uns …
 
 Was ich gefürchtet hatte, trat ein …
 
-GiösSbert Mattieß, der neben Kapitän Pastella stand,
+Gisbert Mattieß, der neben Kapitän Pastella stand,
 brüllte in ohnmächtiger Wut …: »Lebend bekommt ihr
 mich nicht, ihr Spitzel …! Pastella — vorwärts, wir sind
 sechs gegen zwei, und …«
 
 Er hatte einen Revolver aus der Tasche gerissen …
-Er war wie von Sinnen, hörte gar nicht auf Harst? warnenden
-Zuruf … feuerte … feuerte eine Sekunde z«.
+Er war wie von Sinnen, hörte gar nicht auf Harsts warnenden
+Zuruf … feuerte … feuerte eine Sekunde zu
 spät …
 
 <@pagebreak/>
-Notwehr war’s … Und doch hatte diese aufgestellte
+Notwehr war’s … Und doch hatte diese gutgezielte
 Kugel Haralds, die der des Verbrechers um eine Sekunde
 zuvorkam, die Lage entschieden … Mattieß war mit Kopfschuß
-auf die Planken niedergesunken … Pastella wich zum
+auf die Planken niedergesunken … Pastella wich zurück
 … Und Pastella, von Harst dann in der Kajüte ins
-Weber genommen, begann wie ein Kind zu weinen … —
+Gebet genommen, begann wie ein Kind zu weinen … —
 
-»39) habe der Geschichte des berühmten Gemäldes nur
+Ich habe der Geschichte des berühmten Gemäldes nur
 noch wenig hinzuzufügen. Harst darf sich schmeicheln, eine
 zerrüttete Ehe, die des verführten Kapitäns, wieder in
-freundlichste Bahnen gelenkt Lord dem Freistaate Danzig
-»las blaue Wunder« gerettet zu haben … Pastellas Anteilnahme
+freundlichste Bahnen gelenkt und dem Freistaate Danzig
+»Das blaue Wunder« gerettet zu haben … Pastellas Anteilnahme
 an beim Diebstahl blieb geheim. — Und damit
 der Leser auch noch als letztes etwas über Ellinor-Gertrud
 erfährt: sie ist nach wie vor die Freude der alten Tage des
 trefflichen Doktor Geßling, und selbst der lange Emanuel
-hat sich mit dem: jungen Mädchen völlig ausgesöhnt. —
+hat sich mit dem jungen Mädchen völlig ausgesöhnt. —
 Unsere Erinnerung an dieses Abenteuer sind drei Kopien
 bekannter Gemälde, die in Haralds Musikzimmer hängen:
 Am Kap der Guten Hoffnung und die beiden Rubens!
 
-Nächster Band?
+Nächster Band:
 
-Das Geheimnis der Pagode.
+__Das Geheimnis der Pagode.__
