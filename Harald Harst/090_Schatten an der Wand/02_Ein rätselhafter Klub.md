@@ -2,7 +2,7 @@
 
 <h2>1. Kapitel.</h2>
 
-Wir erfuhren Holger von Reppens Tod, als wir mit
+Wir erfuhren von Holger von Reppens Tod, als wir mit
 Bechert im Dorfwirtshaus beim Frühstück saßen.
 
 Um zehn Uhr vormittags waren wir oben im Schloß.
@@ -73,7 +73,7 @@ seinen Augen lag ein Ausdruck hellen Entsetzens. Der
 Koffer entfiel seiner Hand.
 
 Hier vor der Sperre herrschte noch ein starkes Gedränge.
-Der Hotelportier wurde beiseite geschoben war plötzlich verschwunden.
+Der Hotelportier wurde beiseite geschoben, war plötzlich verschwunden.
 
 Auch Harald hatte genau wie ich Reppens Schreck bei
 den Worten des Portiers bemerkt und stieß nun die Umstehenden
@@ -83,7 +83,7 @@ in den Bahnhofsflur hinein — dem Portier nach.
 Reppen benahm sich immer seltsamer.
 
 »Herr Schraut, holen Sie bitte Herrn Harst zurück,«
-sagte er hastig. »Schnell — holen Sie ihn — Schnell!«
+sagte er hastig. »Schnell — holen Sie ihn — schnell!«
 
 Mir erschien dies so eigentümlich, daß ich sofort den
 Argwohn hatte, Harald solle den Portier nicht mehr erwischen.
@@ -98,7 +98,7 @@ neben mir her, den Kopf tief gesenkt.
 Keine Frage nach seiner Schwester — nichts!
 
 Merkwürdig genug: diesem Manne war ein Besitz von
-18000 Morgen Land, ein Schloß, Wälder, Seen in den
+18&nbsp;000 Morgen Land, ein Schloß, Wälder, Seen in den
 Schoß gefallen, und er — er zeigte für nichts Interesse —
 für nichts!
 
@@ -120,12 +120,12 @@ Harald tauchte auf der Treppe zu den Schalterräumen
 auf. Als er vor uns stand, sagte er kurz:
 
 <@pagebreak/>
-»Der Kerl ist weg — wie in den Boden gesunken, —
-kannten Sie ihn, Herr von Reppen?«
+»Der Kerl ist weg — wie in den Boden gesunken. —
+Kannten Sie ihn, Herr von Reppen?«
 
 »Nein — nein — woher denn?«
 
-»Weil Sie solch einen Schreck bekamen,« mahnte Harst
+»Weil Sie solch einen Schreck bekamen,« meinte Harst
 ganz leise.
 
 »Sie — Sie täuschen sich. Ich — ich bin nur sehr abgespannt
@@ -138,9 +138,9 @@ Er log. Er machte Redensarten.
 »Steigen wir ein,« sagte Harald.
 
 Reppen hatte jetzt offenbar sein inneres Gleichgewicht
-wieder gewonnen.
+wiedergewonnen.
 
-Das Auto glitt die Chaussee nach Heringsdorf entlang
+Das Auto glitt die Chaussee nach Heringsdorf entlang —
 zwischen Wäldern hindurch. Der Abendhimmel flammte
 in feurigem Rot.
 
@@ -218,7 +218,7 @@ zusammenhängt, die nichts mit Karlas Tod oder mit den
 Zigeunern oder mit meinem Onkel zu tun haben. Wirklich
 nicht. Das ist die volle Wahrheit.«
 
-»Und da ließen Sie vor Entsetzen den Koffer fallen!«
+»Und doch ließen Sie vor Entsetzen den Koffer fallen!«
 
 Wir hatten Ahlbeck fast passiert. Da ging vor uns ein
 alter Herr über den Weg. Der Chauffeur mußte bremsen,
@@ -237,11 +237,11 @@ nach, verschwand im selben Hause.
 Reppen hatte den Brief aufgehoben. Ich las die
 Adresse mit:
 
-> Herrn Ernst-Edgar v. Reppen.
+<blockquote><p class="centered">Herrn Ernst-Edgar v. Reppen.</p></blockquote>
 
-> Sofort öffnen.
+<blockquote><p class="centered">Sofort öffnen.</p></blockquote>
 
-> 13.
+<blockquote><p class="centered">13.</p></blockquote>
 
 Das stand auf dem Umschlag.
 
@@ -418,9 +418,9 @@ Der Umschlag trug nur die Maschinenaufschrift:
 
 > Herrn H. Harst
 
-> Sandburg
+<blockquote><p class="right">Sandburg</p></blockquote>
 
-> Gasthof Knuth.
+<blockquote><p class="right">Gasthof Knuth.</p></blockquote>
 
 In dem Umschlag steckte ein halber weißer Briefbogen.
 Ebenfalls in Maschinenschrift stand da:
@@ -448,6 +448,7 @@ Weibe von ihrer Intelligenz, Energie und Vielseitigkeit
 wird es leicht gelingen, neuen Anhang zu finden.«
 
 Da kam Knuth und meldete, die Räder ständen bereit.
+
 Es gibt Zustände, in denen man wie im Traum handelt,
 Zustände einer so tiefen geistigen und körperlichen Abgespanntheit,
 daß alles eigene Tun wie im Traum dahingleitet,
@@ -462,7 +463,7 @@ worden. Wir hatten mehr erlebt, als andere in Monaten
 erleben, hatten geglaubt, diese Nacht in den hochgetürmten
 Federbetten des Fremdenzimmers Gottfried
 Knuths (denn es gab nur eins!) zubringen zu können und
-der Lösung der Frage: »Weshalb wurde Karla ermordet?«
+mit der Lösung der Frage: »Weshalb wurde Karla ermordet?«
 etwas Zeit zu haben. — Eine Täuschung! Ernst-Edgar
 von Reppen traf ein, und neue Rätsel fielen über
 uns her. Sollte nun auch die dritte Nacht ohne Schlaf
@@ -581,7 +582,7 @@ Ich beugte mich über Harald.
 
 »Wie geht es Dir? Bist Du bei Besinnung?«
 
-Dann die Überraschung — dann der Beweis, das
+Dann die Überraschung — dann der Beweis, daß
 dieser Körper von einer übermenschlichen Energie selbst in
 diesem Zustande gemeistert wurde.
 
@@ -654,7 +655,7 @@ schob dann mein Rad in den Wald, um hinter einer Buche
 hervor die Villa im Auge zu behalten. Plötzlich fiel mir
 eine Schlinge über den Kopf. Man riß mich nach hinten
 um. Ich schlug mit dem Kopf auf einen Stubben<@refnote 2/> auf und
-verlor für Sekunden das Bewußtsein. Da hatte man mir
+verlor für Sekunden das Bewußtsein. Da hatte man mir schon
 die Arme auf den Rücken gefesselt und zog mich an
 dem Ast empor, von dem Du mich nachher losschnittst. Zwei
 Männer waren’s, die mich dergestalt überwältigt hatten —
@@ -728,7 +729,7 @@ gedrungen.
 
 »Im Turme also!« flüsterte Harald leise.
 
-Wir standen noch regungslos und warteten. —
+Wir standen noch regungslos und warteten.
 
 Da — ein Glück, daß wir uns nicht schon hervorgewagt
 hatten! — da kehrte einer der dreizehn zurück und ging der
@@ -848,7 +849,7 @@ greisenhaft! Der Gang war federnd, war leicht, war —«
 
 »Also vielleicht Eva! — Es wäre zweckmäßig, die
 Pistolen anderswo unterzubringen. Stecken wir sie hinten
-an den Schoß unserer Jacken zwischen Futter und Stoff.
+in den Schoß unserer Jacken zwischen Futter und Stoff.
 Nimm Dein Messer und trenne mir die Naht dort etwas
 auf. Unsere Jacken haben ja dort lange Schlitze.«
 
@@ -1023,7 +1024,7 @@ die Baumkronen. Im Osten lichtete sich der Himmel bereits.
 meinte Harald. »Ich könnte Dir eine ganze Menge von
 Geheimbünden nennen, die ähnliche Zwecke verfolgt haben.«
 
-»Aber diese Urteile, die sie fällen und vollziehen, sind
+»Aber diese Urteile, die sie fällen und vollstrecken, sind
 doch Mord! Unbegreiflich, daß Ernst-Edgar von Reppen
 diesem Klub angehört!«
 
@@ -1222,6 +1223,7 @@ frei gibt!« rief er.
 
 »Opfer?« höhnte der Dreizehnte. »Etwa Geld?! Welchen
 Wert haben heute Papiermillionen?! Gar keinen!
+Außerdem: Schwur ist Schwur! Du bist einer der unsrigen.
 Du bleibst es. Uns trennt nur der Tod!«
 
 Armer Reppen! Er, der neue Majoratsherr, war hier
@@ -1231,7 +1233,7 @@ und eine namenlose Wut packte mich gegenüber
 so viel raffinierter Verworfenheit! Kein Zweifel: Harald
 hatte völlig recht gehabt, als er vorhin andeutete, daß hinter
 alledem Eva Wilcword als treibende Kraft steckte! Ich
-vergaß über diesen Gedanken vorkommen unsere eigene Lage
+vergaß über diesen Gedanken vorkommen unsere eigene Lage,
 völlig das, was uns drohte.
 
 »Ich tue es nicht!« wiederholte Reppen da in verbissenem
@@ -1244,7 +1246,7 @@ Ich hörte auch, daß jemand die Treppe emporstürmte.
 
 »Nicht schießen!« gellte die Stimme des Sprechers.
 
-Ich begriff, was gestehen: Reppen war nach oben geflüchtet!
+Ich begriff, was geschehen: Reppen war nach oben geflüchtet!
 
 Dann ein dumpfer, hallender Krach: Reppen hatte
 auf der Plattform Zuflucht gesucht und die Dachluke hinter
@@ -1293,7 +1295,7 @@ Dämmerung kroch durch die Fenster hinein. Da war der
 Elektromotor, das Pumpwerk des Wasserturmes. Da war
 Harst, der am Fuße der Treppe nach oben rief:
 
-»Wer sich herab wagt, erhält eine Kugel!«
+»Wer sich herabwagt, erhält eine Kugel!«
 
 <@pagebreak/>
 Oh — das war ein Triumph für uns! Das war der
@@ -1421,12 +1423,12 @@ Papier zu.
 
 Wir lasen:
 
-»So haben Sie doch gesiegt, Harald Harst! Und gerade
+> »So haben Sie doch gesiegt, Harald Harst! Und gerade
 hier, wo ich meine Rache bestimmt vollenden zu können
 gehofft hatte. — Sie werden den Zusammenhang
 längst begriffen haben: ich hatte außer dem großen Verbrecherbund
 noch diesen zweiten Klub gegründet — nur
-Reppens wegen! Die Klubmitglieder sind, bis auf Reppen,
+Reppens wegen! Die Klubmitglieder sind bis auf Reppen
 meine Kreaturen. »Freunde der Gerechtigkeit« nannten
 wir uns, um Reppen an uns zu locken. »Freunde der
 Rache« waren wir. Reppen sollte Majoratsherr werden,
@@ -1511,7 +1513,7 @@ Wir hoben die Feindin auf. Wir waren auch diesem
 <@pagebreak/>
 letzten Anschlag entgangen. Sie hatte den Selbstmord nur
 vorgetäuscht, hatte uns niederknallen wollen, sobald wir
-uns der »Leiche« genähert hätten.
+uns der »Leiche« genaht hätten.
 
 Sie kam sehr bald wieder zu sich. Ein Blick traf Harst
 — ein Blick ohnmächtiger Wut, wildesten Hasses.
@@ -1565,7 +1567,7 @@ Erinnerung völlig verblaßte.
 Ja — ein anderer Typ! Diesen Mann soll der Leser
 im folgenden Band kennen lernen.
 
-Nächster Wand:
+Nächster Band:
 
-> __Der tote Zigeuner.__
+__Der tote Zigeuner.__
 

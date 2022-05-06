@@ -42,11 +42,11 @@ Auch ich hatte mich vorgebeugt.
 
 Und er las wieder — scheu, angstvoll fast:
 
-»Sie sollen die Geschichte meiner Liebe kennenlernen,
+> »Sie sollen die Geschichte meiner Liebe kennenlernen,
 Sie sollen begreifen, weshalb ich das Leben von mir warf
 und mein Kind mit in den Tod nahm.
 
-Ich war seit meinem achten Lebensjahr Waise. Meine
+> Ich war seit meinem achten Lebensjahr Waise. Meine
 Jugend wurde durch zwei uralte, weltfremde Damen verbittert,
 bei denen ich aufwuchs. Ich bin nie richtig jung
 gewesen, durfte es nicht sein. — Mit achtzehn Jahren trat
@@ -68,7 +68,7 @@ Unser häufiges Alleinsein und die ganze Art unserer
 Beziehungen zueinander förderten das Aufkeimen einer
 tiefen gegenseitigen Neigung.
 
-Ich lernte Fritz Ripplow lieben trotz all seiner Schwächen
+> Ich lernte Fritz Ripplow lieben trotz all seiner Schwächen
 und trotz der Geheimnisse, die ihn umgaben. Er war jähzornig,
 war ein Herrenmensch, war brutal. Seine Persönlichkeit
 war wie mit undurchsichtigen Schleiern zum Teil verhüllt.
@@ -80,7 +80,7 @@ seinem Leben in Siam, so antwortete er ähnlich. Jedenfalls:
 ich fühlte, da waren irgendwelche Geschehnisse, die er
 verschweigen wollte.
 
-Dann verlobten wir uns — heimlich zuerst, denn schon
+> Dann verlobten wir uns — heimlich zuerst, denn schon
 damals begann sich das Gewitter über seinem Haupte zusammenzuziehen,
 dessen schwarze Wolken der Schuft Machtaler
 lenkte. Ich mußte nun auf Fritz’ Wunsch meine Stellung
@@ -88,86 +88,88 @@ in seinem Geschäft aufgeben. Ich zog nach der Kolonie
 Grunewald hinaus. Ich blühte auf im Sonnenschein
 dieser Liebe.
 
-Nur zu schnell kamen dann die harten Schläge des
+> Nur zu schnell kamen dann die harten Schläge des
 Schicksals: Fritz wurde verhaftet. Er konnte mir gerade
 noch heimlich einen Brief senden: ich solle mich sofort nach
 Hamburg begeben zu einem Freunde von ihm und dort
 das weitere abwarten.
 
-Ich hatte in dem Pensionat der Villenkolonie Grunewald
+> Ich hatte in dem Pensionat der Villenkolonie Grunewald
 als Fritz’ Schwester gewohnt. Er hatte es so gewollt.
 Ich packte also meine Koffer und fuhr nach Hamburg
 zu Edgar Stern.
 
-Noch nie hatte er diesen Freund bisher vor mir erwähnt.
+> Noch nie hatte er diesen Freund bisher vor mir erwähnt.
 Ich hatte geglaubt, Fritz besäße weder Verwandte
 noch Freunde in Deutschland.
 
-Stern holte mich vom Bahnhof ab.
+> Stern holte mich vom Bahnhof ab.
 
-Denken Sie mein Erstaunen, als ein altes Männchen,
+> Denken Sie mein Erstaunen, als ein altes Männchen,
 bartlos, faltig, weißhaarig und gebückt von der Last der
 Jahre, auf mich zutrat und sich als Edgar Stern vorstellte.
+
 <@pagebreak/>
-Er brachte mich im Auto nach seinem nördlich von
+
+> Er brachte mich im Auto nach seinem nördlich von
 Hamburg am Elbufer gelegenen Häuschen.
 
-Das heißt: zunächst brachte er mich in ein kleines
+> Das heißt: zunächst brachte er mich in ein kleines
 Restaurant, wo wir bis zur Dunkelheit blieben. Dann erst
 fuhren wir nach seinem Heim.
 
-»Ihre Spur muß verwischt werden,« erklärte er mir.
+> »Ihre Spur muß verwischt werden,« erklärte er mir.
 
-Und als ich ihn fragte, wie er mich denn auf dem Bahnsteig
+> Und als ich ihn fragte, wie er mich denn auf dem Bahnsteig
 sofort erkannt hätte, erwiderte er: »Fritz hat mir Ihre
 Photographie geschickt.«
 
-Abends um halb elf langten wir bei seinem einsamen
+> Abends um halb elf langten wir bei seinem einsamen
 Grundstück an. Er hauste dort ganz allein. Ich erhielt das
 beste Zimmer zugewiesen. Er behandelte mich mit rührender
 Fürsorge. Und doch: auch hier etwas Geheimnisvolles,
 auch hier gewisse Fragen, auf die Edgar Stern nur
 mit Redensarten antwortete.
 
-Von ihm erfuhr ich erst, daß Fritz tatsächlich eine
+> Von ihm erfuhr ich erst, daß Fritz tatsächlich eine
 Schwester gehabt hätte, die jedoch während der Flucht von
 Siam verstorben sei. Sie hätte ebenfalls — ein Zufall! —
-Irene, geheißen.
+Irene geheißen.
 
-Fünf Monate blieb ich bei Edgar Stern — fünf Monate,
+> Fünf Monate blieb ich bei Edgar Stern — fünf Monate,
 und doch weiß ich noch heute nicht, welchen Beruf
 er einst ausgeübt hatte.
 
-Dann traf Fritz eines Tages ein. Seine Unschuld
+> Dann traf Fritz eines Tages ein. Seine Unschuld
 war zwar nicht erwiesen, aber aus Mangel an Beweisen
 hatte man ihn aus der Untersuchungshaft entlassen müssen.
 
-Als ein völlig Veränderter trat er mir gegenüber.
+> Als ein völlig Veränderter trat er mir gegenüber.
 Seine Liebe war die gleiche geblieben. Er selbst war seelisch
 gebrochen.
 
-Mir gelang es, ihn wieder aufzurichten. Wir heirateten
+> Mir gelang es, ihn wieder aufzurichten. Wir heirateten
 in Hamburg, wohnten bei Edgar Stern weiter. Fritz
 fuhr sehr häufig nach Berlin, wo er seine möblierte Wohnung
 beibehalten hatte. Sein Geschäft hatte er aufgelöst.
 Sein ganzes Sinnen und Trachten ging jetzt dahin, den
 heimlichen Feind zu finden, der ihn denunziert hatte.
 
-Unser Kind wurde geboren. Und vierzehn Tage später
+> Unser Kind wurde geboren. Und vierzehn Tage später
 <@pagebreak/>
 brachte Fritz mich in die neue Wannsee-Villa, die er inzwischen
 hatte erbauen lassen.
 
-Ich galt weiter als seine Schwester. Unser Kind aber
+> Ich galt weiter als seine Schwester. Unser Kind aber
 als das unserer Köchin. Da wir mit niemandem verkehrten,
 blieb die Wahrheit verborgen.
 
-Fritz ermittelte schließlich, daß Machtaler aus Konkurrenzneid
+> Fritz ermittelte schließlich, daß Machtaler aus Konkurrenzneid
 ihn an den Pranger gestellt hatte. Aber an
 Machtaler war nicht heranzukommen. Sein Einfluß reichte
 bis zu den höchsten Regierungsstellen hinauf.
 
-Fritz hegte gegen diese widerliche Kreatur einen krankhaften
+> Fritz hegte gegen diese widerliche Kreatur einen krankhaften
 Haß. Er haßte in Machtaler alle die, die sich von
 ihm abgewandt hatten, als er in Haft saß. Er haßte mit
 einer verbissenen Energie. Dieser Haß war furchtbar. Sein
@@ -175,25 +177,25 @@ Nervensystem litt darunter. Ich bewog ihn, ein Sanatorium
 aufzusuchen. Zwei Monate blieb er dort, kehrte frischer,
 ruhiger zurück.
 
-Dann aber begann er sein unheimliches Treiben als
+> Dann aber begann er sein unheimliches Treiben als
 — Dieb!
 
-Banabu und Chitawoa, unsere siamesischen Diener, die
+> Banabu und Chitawoa, unsere siamesischen Diener, die
 er aus London sich geholt hatte, halfen ihm. Als ich dahinter
 kam, daß er die Preise stahl, die er gewinnen geholfen
 hatte, flehte ich ihn kniefällig an, sich nicht in Gefahr zu
 begeben um ein Nichts.
 
-Er war hart und lieblos damals zu mir. Ich fühlte
+> Er war hart und lieblos damals zu mir. Ich fühlte
 ja: er hatte sich in eine wahnwitzige Idee verrannt, und nur
 seine Nervosität machte ihn meinen Bitten unzugänglich.
 Aber — er wurde mir doch entfremdet.
 
-Noch mehr geschah dies, als ich merkte, daß er Machtaler
+> Noch mehr geschah dies, als ich merkte, daß er Machtaler
 in seine Gewalt bringen wollte und ihm nach dem
 Leben trachtete.
 
-An diesem Abend, der soeben vergangen, habe ich aus
+> An diesem Abend, der soeben vergangen, habe ich aus
 seinem Revolver die Kugeln und das Pulver der Patronen
 entfernt. So rettete ich Machtaler das Leben. In dieser
 Nacht jedoch, nach einer heftigen Szene in der Palmengrotte,
@@ -201,25 +203,26 @@ nach einer Aussöhnung, die nur oberflächlich blieb, kam
 Banabu und holte Fritz weg.
 
 <@pagebreak/>
-Ich schlich ihnen nach. Ich kettete das kleine Boot los,
+
+> Ich schlich ihnen nach. Ich kettete das kleine Boot los,
 ich wurde Zeugin, wie Machtaler über Bord in den See
 geworfen wurde.
 
-Ohnmächtig brach ich in meinem Boot zusammen.
+> Ohnmächtig brach ich in meinem Boot zusammen.
 
-Dann, als ich wieder erwachte, sah ich Ihre Jolle und
+> Dann, als ich wieder erwachte, sah ich Ihre Jolle und
 — sah Machtaler ebenfalls darin!
 
-Sah weiter, wie Sie Machtaler zu der Niederschrift in
+> Sah weiter, wie Sie Machtaler zu der Niederschrift in
 der Laube zwangen.
 
-Ich ruderte über den See zurück — wie im Traum!
+> Ich ruderte über den See zurück — wie im Traum!
 Ich wiederholte mir im Geiste stets dasselbe:
 
-»Er hat Machtaler ertränken wollen. Aber Machtaler
+> »Fritz hat Machtaler ertränken wollen. Aber Machtaler
 lebt, und Fritz wird ins Zuchthaus wandern!«
 
-Ich kam heim, fand meinen Gatten am Bett unseres
+> Ich kam heim, fand meinen Gatten am Bett unseres
 Kindes, hielt ihm sein Verbrechen vor, gestand ihm, daß ich
 am vorigen Abend heimlich die Villa verlassen und die Zeichnung
 in die Rinde des Kirschbaumes von Harald Harsts
@@ -229,40 +232,41 @@ nochmals bei Harst gewesen, um ihn anzuflehen,
 meinen Gatten zu schonen, falls er den Dieben auf die
 Spur käme.
 
-Er stierte mich bei diesen Eröffnungen so wild an,
+> Er stierte mich bei diesen Eröffnungen so wild an,
 daß ich vor ihm zurückwich.
 
-Ich will nicht wiedergeben, was dann geschah.
+> Ich will nicht wiedergeben, was dann geschah.
 
-Ich trage Fritz dies alles nicht nach. Er ist ein Kranker.
+> Ich trage Fritz dies alles nicht nach. Er ist ein Kranker.
 Ich habe tausend Entschuldigungsgründe für ihn.
 
-Aber — ich kann jetzt nicht mehr weiterleben. Ich
+> Aber — ich kann jetzt nicht mehr weiterleben. Ich
 will sterben. Fritz ist entflohen. Ich versprach ihm zum
 Schein, ihm zu folgen. —
 
-Ich bin allein mit meinem Kinde. Wir beide werden
-bald Ruhe und Frieden haben: Ich habe nicht mehr die
+> Ich bin allein mit meinem Kinde. Wir beide werden
+bald Ruhe und Frieden haben. Ich habe nicht mehr die
 Kraft, Ihnen meinen Seelenzustand zu schildern, Herr
 Harst. Eine Bitte noch: Sorgen Sie dafür, daß Machtaler
 seiner Strafe nicht entgeht! Er hat unser Glück zertrümmert,
 *er* weckte meines Gatten Mordgedanken, *er* mordet
-mich und mein Kind!
+mich und mein Kind! —
 
 <@pagebreak/>
-Wenn die Sonne aufgeht, wird man mein kleines Ruderboot
+
+> Wenn die Sonne aufgeht, wird man mein kleines Ruderboot
 irgendwo auf dem See treibend finden.
 
-Sollten unsere Leichen aus dem Wasser geborgen werden,
+> Sollten unsere Leichen aus dem Wasser geborgen werden,
 so wünsche ich mit meinem Kinde in der Palmengrotte
 beerdigt zu werden.
 
-Fritz ist unterwegs ins Ausland. Ein Mann wie er
+> Fritz ist unterwegs ins Ausland. Ein Mann wie er
 weiß jede Spur hinter sich auszulöschen.
 
-Ich verzeihe ihm, denn — ich liebe ihn!
+> Ich verzeihe ihm, denn — ich liebe ihn!
 
-> Irene Ripplow, geb. Albyn.«
+<blockquote><p class="centered">Irene Ripplow, geb. Albyn.«</p></blockquote>
 
 <h2>2. Kapitel.</h2>
 
@@ -302,7 +306,7 @@ Bis zum Abend blieben wir. Man fand die Leichen
 <@pagebreak/>
 nicht. — Die Polizei hatte von Harald den Brief verlangt.
 Harald hatte ihn jedoch bereits verbrannt, und das, was
-er über den Inhalt zugab, war sehr — sehr wenig — nur
+er über den Inhalt angab, war sehr — sehr wenig — nur
 das Nötigste.
 
 Abends um zehn kehrten wir heim.
@@ -311,7 +315,7 @@ Harst saß im Auto mit geschlossenen Augen, rauchte
 eine Mirakulum nach der andern.
 
 Als wir kam durch die Villenkolonie Grunewald kamen,
-als wir die Königsallee entlang sausten und drunten
+als wir die Königsallee entlangsausten und drunten
 auf dem stillen See zur Linken weiße Schwäne im Maiabenddämmer
 dahinzogen wie leuchtende Punkte, sprach
 Harst den ersten Satz während der Fahrt:
@@ -338,10 +342,10 @@ Tausend Fragen stellte sie. Sie war so seltsam nervös.
 Sie fragte, wartete keine Antwort ab, rückte ihr Seidenhäubchen
 auf dem grauen Scheitel bald hierhin, bald dorthin.
 
-»Was fehlt Dir, Mutter« meinte Harald am Abendbrottisch.
+»Was fehlt Dir, Mutter,« meinte Harald am Abendbrottisch.
 
 »Nichts — nichts! Ich — ich sorge mich um Eure
-Gesundheit. Seit vierundzwanzig Stunden seid ihr nicht
+Gesundheit. Seit vierundzwanzig Stunden seid Ihr nicht
 ins Bett gekommen.«
 
 Er blickte sie prüfen an.
@@ -402,7 +406,7 @@ Arg.
 
 »Dja, das gelbe Häuschen!« meinte er. »Da wohnt
 ein Herr Stern drin, Herr Holmer.« (So hatte Harald sich
-hier genannt, während ich mich in Schülke umgetauft hatte).
+hier genannt, während ich mich in Schülke umgetauft hatte.)
 »Ein interessanter alter Herr, der Edgar Stern. Kennt wie
 ich die ganze Welt. Sie werden sich wundern, wenn ich
 <@pagebreak/>
@@ -596,7 +600,7 @@ kostbares Spiegelfernglas bei sich hat.«
 
 »Noch ein Fernglas?!«
 
-»Ja noch eins! — Der Mann war schon da, als
+»Ja — noch eins! — Der Mann war schon da, als
 wir hier erschienen. Ich fürchte, um Ripplows Haupt ballen
 sich dunklere Wolken zusammen, als er auch nur im
 entferntesten ahnt.« — Er begann einzupacken.
@@ -672,8 +676,8 @@ der Sterns Häuschen beobachtete.«
 
 Harald lächelte ein wenig.
 
-»Der Kollege Kühn wird wahrscheinlich nachts das
-selbe planen wie wir, mein Alter. Er ist ja fraglos
+»Der Kollege Kühn wird wahrscheinlich nachts dasselbe
+planen wie wir, mein Alter. Er ist ja fraglos
 Berufsdetektiv, vielleicht gar ein Kriminalbeamter. Und da
 dürfte er genau wie wir für die tote Katze Interesse haben.«
 
@@ -723,7 +727,7 @@ sich aus besonderen Gründen den Namen Ripplow zugelegt.
 Wenn Du hierbei noch das als belastendes Moment berücksichtigst,
 daß Fritz Ripplow vor seiner Flucht nicht nur die
 Etuis in dem geheimen Wandschrank leerte, die aus Singapore
-stammen, uns daß die Polizei in der Villa Ripplows
+stammen, und daß die Polizei in der Villa Ripplow
 in Wannsee auch nicht ein Stückchen Papier fand, das auf
 Ripplows Vergangenheit sich bezog, wenn Du schließlich bedenkst,
 daß er Irene gegenüber von seinem Aufenthalt in
@@ -874,7 +878,7 @@ Ich atmete tief ein — atmete die mir so widerlichen
 Und versank in den unendlichen Abgrund tiefster Bewußtlosigkeit.
 —
 
-Da war irgenwo eine Riesenglocke, deren dröhnende
+Da war irgendwo eine Riesenglocke, deren dröhnende
 Töne mein Trommelfell vibrieren machten.
 
 Und das war die erste Wahrnehmung, als mein Hirn
@@ -1011,7 +1015,7 @@ Stern überlegte. »Würden Sie mir ehrenwörtlich versprechen,
 über die Geschehnisse hier zu schweigen, wenn ich
 Ihnen eine Viertel Million gebe?« fragte er dann.
 
-»Nein. Sie müßten wenn gerade auch die beiden anderen
+»Nein. Sie müßten denn gerade auch die beiden anderen
 Herren dort freilassen, die Sie ja genau wie ich auch
 für Detektive halten.«
 
@@ -1043,7 +1047,7 @@ geringe Ansprüche an aufregende Geschehnisse,« lächelte er.
 werden, Herr Dreßler, so beruhigen Sie ihn. Wir haben
 nur einen Morgenspaziergang gemacht.«
 
-Stern hatte die Innenfächer des einen Fensters losgeschraubt
+Stern hatte die Innenläden des einen Fensters losgeschraubt
 und geöffnet. Draußen war heller Tag, Sonnenschein.
 
 Dreßler stieg zum Fenster hinaus und verschwand.
@@ -1091,6 +1095,7 @@ Der alte Herr hatte sich jetzt wieder gefaßt.
 
 »Diese Ähnlichkeit bilden Sie sich ein,« erklärte er
 schroff. »Mein Sohn ist tot. Ripplow war sein Freund.«
+
 Harald schwieg. Da wurde Stern verlegen. »Sie
 glauben mir nicht?« meinte er.
 
@@ -1107,6 +1112,7 @@ Und — und hinter dem japanischen Wandschirm kam
 jetzt etwas wie ein dumpfer Schrei hervor.
 
 »Herr Ripplow, zeigen Sie sich nur!« sagte Harald da.
+
 Ripplow erhob sich.
 
 Selten sah ich ein so verstörtes, schmerzverzerrtes Männerantlitz
@@ -1204,7 +1210,7 @@ haben, sich Ripplow zu nennen.«
 Sie kennen mich ja kaum.«
 
 »Ich kenne Sie — aus dem, was Sie im stillen Gutes
-taten Herr Stern. Ich habe in Wannsee manches erfahren,
+taten, Herr Stern. Ich habe in Wannsee manches erfahren,
 was »den Schieber« in ein ganz anderes Licht rückte. Ich
 habe erfahren, daß dort mancher, der in dieser schweren
 Zeit zum Hungertode verurteilt war, Geld von Ihnen erhielt,
@@ -1253,13 +1259,13 @@ Harst prüfte kurz.
 herzlich.
 
 Im selben Moment wurde sehr kräftig an die Fensterscheibe
-geklopft, jemand rief draußen:
+geklopft. Jemand rief draußen:
 
 »Hier Dreßler! — Eine Depesche für Sie, Herr Harst.«
 
 <@pagebreak/>
 
-<h2>5. Kapitel</h2>
+<h2>5. Kapitel.</h2>
 
 Der alte Herr Stern ließ Dreßler ein.
 
@@ -1321,11 +1327,11 @@ Mitternacht entfernt haben. Sie müßte also längst wieder
 zurück sein. Ihr ist sicher etwas zugestoßen.«
 
 Harald beruhigte seine Mutter. »Wir werden Irene
-schon finden. — Schraut nach Wannsee!«
+schon finden. — Schraut — nach Wannsee!«
 
 Ein Auto brachte uns dorthin. Die Villa war noch
 von der Polizei besetzt. Harst fragte die beiden Beamten,
-ob eine Dame hier gewesen sei. Die Antwort lautete verneinend.
+ob eine Dame hiergewesen sei. Die Antwort lautete verneinend.
 
 Harald schritt dem Wirtschaftshofe zu. Neben dem
 Stalle lagen die Tierkäfige. Da waren die beiden Panther,
@@ -1377,8 +1383,8 @@ als Harst endlich durch beharrliche Nachfragen dort erfahren
 hatte, wo wir Ripplows Grundstück zu suchen hätten.
 Wir liehen uns zwei Fahrräder, sausten einen Feldweg entlang,
 durch einen Wald, dann am einsamen Ufer des großen
-Sees dahin, kamen an die kleine, von Schilffeldern oft
-gerahmte Bucht.
+Sees dahin, kamen an die kleine, von Schilffeldern
+eingerahmte Bucht.
 
 Und sahen die Jacht dort vor Anker liegen.
 
@@ -1404,7 +1410,7 @@ Irenes beruhigende, schmeichelnde Worte:
 
 Da — ein Schrei.
 
-Harst schnellte sich aus den Wasser hoch, hatte die entsicherte
+Harst schnellte sich aus dem Wasser hoch, hatte die entsicherte
 Clement bereit.
 
 Der Schimpanse hatte in einem neuen Wutanfall Irene
