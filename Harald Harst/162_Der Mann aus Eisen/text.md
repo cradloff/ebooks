@@ -60,7 +60,7 @@ allein …«
 
 Harald schüttelte den Kopf …
 
-»und das Wohnungsamt, Herr Doktor?«
+»Und das Wohnungsamt, Herr Doktor?«
 
 Geßling öffnete die Gartenpforte und erwiderte dabei:
 
@@ -141,15 +141,15 @@ Und der Bucklige erklärte — wieder mit einem halb
 geheimnisvollen Lächeln:
 
 »Alle guten Dinge sind drei … Wir wohnen hier zu
-Dreien … Fräulein Gilsky ist meine Nichte, das heißt, so
+dreien … Fräulein Gilsky ist meine Nichte, das heißt, so
 eine Nichte dritten Grades. Sie ist Waise. Vor drei Monaten
 nahm ich sie bei mir auf. Sie ist der Sonnenschein
 meines Hauses und meines Alters geworden …«
 
-Sein Lächeln wurde strahlend,
+Sein Lächeln wurde strahlend.
 
 Ich war sehr gespannt auf die junge Dame. Meine Erwartungen
-wurden jedoch noch Übertroffen.
+wurden jedoch noch übertroffen.
 
 Ellinor Gilsky war eine pikante Schönheit, dazu Dame
 von Welt und von jener abgeklärten Heiterkeit, die ebenso
@@ -220,7 +220,7 @@ Geßling hatte sich aus seinem Sessel erhoben …
 alten Hause nicht wirklich Dinge sich abspielen würden,
 denen gegenüber mein kritischer Verstand machtlos ist, dann
 würde ich es doch niemals gewagt haben, einen Mann von
-Ihrem Weltruf damit zu belästigen …!
+Ihrem Weltruf damit zu belästigen …!«
 
 Er hob feierlich die rechte Hand …
 
@@ -266,7 +266,7 @@ Schritte vernahm …«
 Nebenraum, dessen Verbindungstür vergitterte Glasfenster
 hat …«
 
-»und sahen?«
+»Und sahen?«
 
 »Daß in Saal 3 Licht brannte …«
 
@@ -505,14 +505,14 @@ die andere Tür, die Glastür, hatte ich abends aufgeschlossen
 und den Schlüssel abgezogen. Diesmal sahen wir drei
 den unheimlichen Eisenmann. Da ich an einen üblen Scherz
 glaubte, wollte ich nun durch die Glastür in den Saal. Doch
-— Unerklärlicherweise ließ die Tür sich nicht öffnen, und
+— unerklärlicherweise ließ die Tür sich nicht öffnen, und
 unsere Kräfte reichten nicht aus sie aufzusprengen …«
 
 »Und der Ritter schaltete wieder das Licht aus?«
 
 »Ja — — wir kamen durch den Haupteingang wieder
 zu spät … — Mehr habe ich Ihnen nicht zu berichten, Herr
-Harst. inzwischen war ich jedoch von meiner Annahme,
+Harst. Inzwischen war ich jedoch von meiner Annahme,
 daß ein Fremder diesen Spuk inszeniere, wieder abgekommen,
 und da depeschierte ich an Sie …«
 
@@ -562,7 +562,7 @@ mir zugeflüstert, keinerlei Bemerkungen zu machen, die einen
 Verdacht oder dergleichen äußerten.
 
 Als Emanuel die Koffer auf einem Gestell untergebracht
-Hatte, fragte Harald:
+hatte, fragte Harald:
 
 »Hören Sie mal, Herr Mollant, Sie sind doch nun bereits
 dreißig Jahre bei Ihrem Herrn …«
@@ -638,7 +638,7 @@ Kurz, die ganze Geschichte blieb dunkel.
 Harald begann mit einem Male unsere Koffer auszupacken.
 Ich half ihm.
 
-»Hier — bringe Die Beinkleider in den alten Schrank,«
+»Hier — bringe die Beinkleider in den alten Schrank,«
 bat er mit gewöhnlicher Stimme, nicht zu laut, nicht zu
 leise …
 
@@ -661,7 +661,7 @@ Wir hatten hier vor Jahren schon einmal zu tun gehabt,
 und wir feierten nun ein winterliches Wiedersehen mit all
 den schönen Aussichtspunkten und uralten Baumbeständen,
 mit der Heide hinter dem Walde und mit den flinken Eichhörnchen,
-die blitzschnell über den Schnee huschten,
+die blitzschnell über den Schnee huschten.
 
 Harald spielte den Naturschwärmer, und erst auf dem
 Rückwege sagte er ganz unvermittelt;
@@ -669,7 +669,7 @@ Rückwege sagte er ganz unvermittelt;
 »Natürlich Ellinor! Aber — — weshalb?! Darüber
 werde ich mir nicht klar …«
 
-also doch!!
+Also doch!!
 
 »Du hast bereits Beweise?« forschte ich.
 
@@ -705,7 +705,7 @@ lieber Alter, so ein altmodisches Ding …«
 
 »Ich weiß …«
 
-»und außer den Büchern stehen da noch allerhand
+»Und außer den Büchern stehen da noch allerhand
 Nippsachen, natürlich von Wert, auch eine mächtige Tritonmuschel
 — wie eine Trompete …«
 
@@ -900,7 +900,7 @@ die Treppe hinab — bis in den ersten Stock …
 
 Hier blieb Harald ein paar Sekunden stehen, sagte
 leise: »Jetzt haben wir die Partie gewonnen, mein Alter,
-— überraschend leicht gewonnen … Du Wirst staunen,
+— überraschend leicht gewonnen … Du wirst staunen,
 wenn du unsere Unterhaltung beim Abendbrot verfolgen
 wirst …« Ich wollte um näheren Aufschluß bitten. Doch
 er ging schon weiter, pochte unten bei Geßling an …
@@ -974,7 +974,7 @@ hat eine Schwester … — Aber — auch dieses Thema wollen
 wir uns für das Abendbrot vorbehalten, Herr Doktor.
 Für Sie liegt kein Anlaß vor, Ellinor nun vielleicht anderes
 zu behandeln, denn … sie mag gar nicht wissen, daß sie
-noch eine Schwester besitzt …
+noch eine Schwester besitzt …«
 
 Mir war dieses ganze Gespräch nach Zweck und Ziel
 völlig schleierhaft. Und es erging mir fraglos genau wie
@@ -1053,7 +1053,7 @@ blitzartig infolge eines geringfügigen Umstandes kommen.«
 und unsicher, schien nun zu spüren, daß es sich hier
 um ein Kesseltreiben handelte, und daß sie das Wild war …
 
-»solch etwas Geringfügiges,« erklärte Harald, »kann
+»Solch etwas Geringfügiges,« erklärte Harald, »kann
 zum Beispiel ein Muttermal sein …«
 
 Sie lachte … »Etwa das meine?«
@@ -1074,7 +1074,7 @@ mit einer Gaunerin ein …«
 Harst unterbrach sie …
 
 »Lassen wir das Thema, gnädiges Fräulein … Ihr
-Onkel erzählte, daß Sie ihm geraten Hätten, uns zur Aufklärung
+Onkel erzählte, daß Sie ihm geraten hätten, uns zur Aufklärung
 des unheimlichen wandelnden Spuks herbeizurufen
 … Hatten Sie vielleicht schon aus den Zeitungen
 erfahren, daß wir Fräulein Stasia in Lubowitz kaltgestellt
@@ -1229,7 +1229,7 @@ zu schildern … Sie waren sehr einfach …
 
 Jedenfalls konnte Geßling nach zehn Minuten vom
 Treppenabsatz aus ins Erdgeschoß hinunterrufen, daß Ellinor
-nach oben kommen sollte. als er hörte, daß unten die
+nach oben kommen sollte. Als er hörte, daß unten die
 Speisezimmertür geöffnet wurde, nahm er rasch seinen
 Platz in Saal 3 am Kamin wieder ein …
 
@@ -1250,7 +1250,7 @@ Dann wagte sie sich näher, drückte die Tür ins Schloß …
 Ihre prüfenden Blicke glitten über uns beide hin …
 über die Stricke, unsere Fesseln …
 
-noch war sie ungewiß, was dies alles bedeutete …
+Noch war sie ungewiß, was dies alles bedeutete …
 
 <@pagebreak/>
 Da winkte der Mann aus Eisen, deutete auf uns —
@@ -1379,7 +1379,7 @@ Und Harald wäre der letzte gewesen, der eine verirrte
 Seele in unbeugsamer Härte vielleicht für immer vernichtet
 hätte … —
 
-was aus Gertrud Mattieß später wurde, wie sich ihr
+Was aus Gertrud Mattieß später wurde, wie sich ihr
 Schicksal gestaltete, das gehört in den zweiten Teil dieses
 Abenteuers hinein …
 
@@ -1400,7 +1400,7 @@ sprechen kann. So wird man sich bei dem Namen Harald
 Harst unwillkürlich schon eine energische, kraftvolle Persönlichkeit
 vorstellen …
 
-Max Schraut dagegen — das klingt weicher, schlaffer.
+Max Schraut dagegen — das klingt weicher, schlaffer,
 gemütlicher …
 
 Aber: Gisbert Mattieß besagt nach meinem Empfinden
@@ -1438,7 +1438,7 @@ Es war ein wundervolles, eigenartiges Winterbild,
 und bevor wir beide das Haus betraten, standen wir eine
 geraume Weile dicht am Rande des Bollwerks und ließen
 unsere Blicke hinwegschweifen über die ferne Grüne Brücke,
-über den seltsamen Bau des Krantores und Über die uralten,
+über den seltsamen Bau des Krantores und über die uralten,
 mächtigen Lagerspeicher drüben auf der anderen
 Seite — Speicher, von denen die meisten ihre dreihundert
 Jahre auf dem Buckel haben.
@@ -1467,7 +1467,7 @@ Margitt …?«
 »Hat gewohnt — hat gewohnt, Herrchen … Ist heite
 ausgezogen, vor fünf Minuten … Hatte es sehr eilig, hat
 aber alles bezahlt, und das ist schließlich die Hauptsache,
-mein’ ich, wenigstens für mich als Wirtin …
+mein’ ich, wenigstens für mich als Wirtin …«
 
 Dann wischte sie die Hände an der Schütze ab und
 setzte eine Brille auf, musterte uns und fügte hinzu:
@@ -1512,10 +1512,10 @@ Wir betraten das Stübchen …
 In diesem uralten Hause konnte es nur Stübchen geben.
 
 <@pagebreak/>
-früher begnügten sich die Menschen damit, nach dem Grundsatz
+Früher begnügten sich die Menschen damit, nach dem Grundsatz
 zu bauen: Klein, aber gemütlich!
 
-links von der Tür war der Lichtschalter. Die Deckenlampe
+Links von der Tür war der Lichtschalter. Die Deckenlampe
 flammte auf. Es war ebenfalls eine Papierlaterne.
 
 Armselig war die Stube möbliert. Und es roch hier
@@ -1526,7 +1526,7 @@ Wir schauten uns näher um …
 
 Viel gab es ja nicht zu sehen … Harald suchte im
 Schrank, in den Schubladen, und zuletzt oben auf dem Ofen,
-Wobei er meinte:
+wobei er meinte:
 
 »Es gibt Leute, die aus Faulheit die Angewohnheit
 haben, Papier zusammenzuknüllen und auf den Ofen zu
@@ -1654,7 +1654,7 @@ und flüchteten …
 Harst meinte lachend: »Das haben wir fein gemacht,
 mein Alter, sehr fein … Warte, ich nehme dir sofort die
 Armbänder ab … Und dann fesseln wir Freund Mattieß
-Damit …«
+damit …«
 
 So geschah’s …
 
@@ -1682,9 +1682,9 @@ Mattieß nickte …
 
 Und Harald wieder: »Nur Ihrer Schwester wegen,
 die wir gern schonen möchten, werden wir Sie nicht der
-Polizei Übergeben, falls Sie … aufrichtig sind. — Sie hatten
+Polizei übergeben, falls Sie … aufrichtig sind. — Sie hatten
 für uns in dem Privathotel eine Tonpfeife zurückgelassen.
-weshalb?«
+Weshalb?«
 
 »Nur um Sie zu … verulken, Herr Harst, nur deshalb
 … Ich wußte nicht, ob uns der Streich mit dem Auto
@@ -1721,7 +1721,7 @@ nicht erlebt …
 Die Glieder des Verbrechers flogen wie im Fieberfrost
 …
 
-seine Augen waren vorgequollen …
+Seine Augen waren vorgequollen …
 
 »Ich bedauere Sie …« sagte Harald kalt. »Sie haben
 sich da in eine Racheidee verrannt, die unsinnig ist … —
@@ -1760,7 +1760,7 @@ Nur das eine Wort …
 »Sein Haß … Es war Theater, es war Mache, es
 war ein Zuviel dabei, unbedingt ein Zuviel …«
 
-So unrecht hatte er nicht. auch mir war dieser Vulkanausbruch
+So unrecht hatte er nicht. Auch mir war dieser Vulkanausbruch
 von häßlichen Empfindungen etwas zu stark
 gewesen …
 
@@ -1952,7 +1952,7 @@ Antlitz eine Schönheit, und Doktor Geßling streichelte förmlich
 mit seinen mitfühlenden Blicken dieses zarte Gesichtchen
 mit dem Ausdruck einer leidenden Madonna …
 
-»kennen Sie den Schoner Maria?« fragte Harald wieder
+»Kennen Sie den Schoner Maria?« fragte Harald wieder
 …
 
 Geschirrs wußte nichts von unseren nächtlichen Abenteuern
@@ -1965,7 +1965,7 @@ Ellinor war flüchtig errötet und hatte den Kopf ziemlich
 energisch geschüttelt. Aber sie wagte Harst noch immer nicht
 anzusehen … — Leute unseres Berufes müssen Menschenkenner
 sein, müssen in menschlichen Zügen wie in Büchern
-Zu lesen verstehen. Wir beide hatten den gleichen Gedanken:
+zu lesen verstehen. Wir beide hatten den gleichen Gedanken:
 Gertrud Mattieß kannte den Schoner, und sie hatte soeben
 durch ihr Kopfschütteln wortlos die Wahrheit verheimlicht.
 
@@ -2119,7 +2119,7 @@ Weckte Harst …
 Und — er dann, meinen Arm umkrallend:
 
 <@pagebreak/>
-»das Bier!! Mein Alter, das Bier!! Den Trank
+»Das Bier!! Mein Alter, das Bier!! Den Trank
 hat uns Mattieß gebraut! — O — wir haben uns zu Unrecht
 in Sicherheit gewiegt … Er hat uns nie aus den
 Augen verloren gehabt …«
@@ -2144,7 +2144,7 @@ Kerle hatten ihn überfallen … Aber — nirgends war etwas
 gestohlen worden. Man hatte auch im Franziskaner-Museum
 schon alle Räume geprüft …
 
-Dies erfuhren wir abends sieben Uhr … Um Halb
+Dies erfuhren wir abends sieben Uhr … Um halb
 acht waren wir in unserer Verkleidung bei Doktor Geßling,
 der nicht wenig überrascht war, uns nochmals wiederzusehen.
 Er weigerte sich aber ganz entschieden, uns in Gertruds
@@ -2294,7 +2294,7 @@ jetzt auch zu den Dieben hinführen wird …« —
 
 Und zwei Stunden darauf: Flugzeug gen Swinemünde!
 Winterfahrt bei sternenklarem Nachthimmel …
-Hinweg Über Pommerns verschneite Wälder und Felder …
+Hinweg über Pommerns verschneite Wälder und Felder …
 
 Harst im bequemen Passagiersitz schlafend, gleichsam
 vorläufig ausruhend auf seinen Lorbeeren …
@@ -2378,7 +2378,7 @@ Sie wird rot, und ein bitterer Zug preßt den Mund
 zur Linie …
 
 »Ein Freund meines Mannes hat einige Zeit hier gewohnt
-…," erklärt sie kurz …
+…,« erklärt sie kurz …
 
 Harald zahlt dreißig Mark an …
 
@@ -2433,7 +2433,7 @@ Harald nahm ihre Hand …
 
 <h3>Wir als Piraten.</h3>
 
-»bleiben Sie … Setzen Sie sich wieder … Sie
+»Bleiben Sie … Setzen Sie sich wieder … Sie
 haben uns für Kriminalbeamte gehalten, sagten Sie so
 eben … — Ja, haben Sie denn die Polizei zu fürchten?«
 
@@ -2474,7 +2474,7 @@ Dicht vor der Tür …
 Ob die Frau gelauscht hatte?! Und wenn: Dann
 waren wir entlarvt!
 
-»du hättest vorsichtiger sein sollen,« flüsterte ich …
+»Du hättest vorsichtiger sein sollen,« flüsterte ich …
 
 »Ich wollte unvorsichtig sein,« flüsterte er …
 
@@ -2493,9 +2493,9 @@ verschneiten Wiesen sich hinziehen, wo sie im Mondlicht so
 leicht zu sehen sein würde, wird sie wohl die Straße in den
 Dünenwald benutzen …«
 
-»und …?!«
+»Und …?!«
 
-»und — das weitere erlebst du ja mit … Wir werden
+»Und — das weitere erlebst du ja mit … Wir werden
 früh zu Bett gehen, zum Schein … Werden uns auf
 der Veranda mäuschenstill verhalten und die Strickleiter
 rechtzeitig befestigen …« —
@@ -2528,7 +2528,7 @@ entlang …
 <@pagebreak/>
 Sonnenschein liegt über dem winterlichen Meere …
 
-Und Wir stapfen durch tiefen Schnee, wir finden die
+Und wir stapfen durch tiefen Schnee, wir finden die
 Stelle, wo Frau Pastella in der Nacht an eine einzelne
 Kiefer hoch auf den Dünen einen langen Fetzen weißen
 Stoffes angebunden hat …
