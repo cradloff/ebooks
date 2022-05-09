@@ -1,5 +1,10 @@
 <@pagebreak/> 
-Das Geheimnis der Pagode.
+
+<p class="centered">Nachdruck verboten. — Alle Rechte, einschl. das Verfilmungsrecht,
+vorbehalten. — Copyright 1926 by Verlag moderner
+Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.</p>
+
+<h1>Das Geheimnis der Pagode.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -9,215 +14,211 @@ Das Geheimnis der Pagode.
 
 »Allerdings, Max Schraut …«
 
-Und ich beschaute. mir den jungen Menschen genaue…
-Delta außerhalb des Zaunes unseres Gemüsegartens stand«
+Und ich beschaute mir den jungen Menschen genauer,
+der da außerhalb des Zaunes unseres Gemüsegartens stand
 und den modernen Strohhut mit geckenhafter Bewegung
-zum Gruße schwentkie.
+zum Gruße schwenkte.
 
 Ich war nicht eben in bester Laune. Die Maulwürfe
 hatten in der Nacht unsere Gurkenbeete übel zugerichtet,
 und jeder Gartenbesitzer weiß ja, wie schwer es ist, diesen
 grauschwarzen Wühlern beizukommen.
 
-Der Jüngling dort auf dem Feldwege schien es dem
+Der Jüngling dort auf dem Feldwege schien es denn
 auch meinem Gesicht anzusehen, daß mir — volkstümlich
-ausgedrückt — eine Laus über die Leber gelangen war.
+ausgedrückt — eine Laus über die Leber gelaufen war.
 
-Er verbeugte sich nochmals, zeigte mir so seinen recht
-angeklebten, durchgezogenen Scheitel und 7 … trat näher an
+Er verbeugte sich nochmals, zeigte mir so seinen fest
+angeklebten, durchgezogenen Scheitel und … trat näher an
 den Zaun heran …
 
 <@pagebreak/>
 »Verzeihung, Herr Schraut, — — ich hätte was für Sie
 und Herrn Harst,« flüsterte er.
 
-»hoffentlich ein Maulwurfsvertilgungsmittel!- meinte.
+»hoffentlich ein Maulwurfsvertilgungsmittel!« meinte
 ich brummig.
 
 Natürlich begriff der Jüngling nicht, weshalb ich plötzlich
-von Maulwürsjen redete, machte ein verlegenes Gesicht,
+von Maulwürfen redete, machte ein verlegenes Gesicht,
 grinste und stotterte:
 
 »Verzeihung, Herr Schraut, — — es handelt sich um
-einen Lord … Ein Maulwurfshaufen war allerdinz33
+einen Mord … Ein Maulwurfshaufen war allerdings
 auch dicht dabei …«
 
 Nun wurde ich doch aufmerksam …
 
 »Mord, junger Mann?! — Haben Sie etwa schon heute
 früh einige Gläser Sekt zur Anfeuerung Ihrer Phantasie
-getrunken Dr!« —
+getrunken?!« —
 
 »Durchaus nicht, Herr Schraut … Ich bin vollkommen
 nüchtern … — Wenn Sie gestatten: mein Name ist
 Justus Juhlke. Ich bin Verkäufer bei Wertheim, habe jetzt
 aber meinen Urlaub … Außerdem bin ich Besitzer eines
 Kanus, mit dem ich täglich Ausflüge zu Wasser unternehme.
-heute ziemlich nicht, da ich Ihnen und seien Harst meine
+heute freilich nicht, da ich Ihnen und Herrn Harst meine
 Aufwartung machen wollte …«
 
-»Sehr nett von Ihnen, Herr fühlte. Aber — — der
-Mord?! Wie steht es damit?« …
+»Sehr nett von Ihnen, Herr Juhlke. Aber — — der
+Mord?! Wie steht es damit?«
 
 »Ja — die Ermordete ist leider wieder verschwunden,
 Herr Schraut … Nur das Blut ist noch da …«
 
 »Entschuldigen Sie, Herr Juhlke, Ihrer Darstellungsweise
-lebt es ein wenig an Übersichtlichen … Dort kommt
+fehlt es ein wenig an Übersichtlichkeit … Dort kommt
 im übrigen auch mein Freund Harst …«
 
-Justus Juhlke riß abermals sein Strohhütchen. vom
+Justus Juhlke riß abermals sein Strohhütchen vom
 Schädel und dienerte so tief und anhaltend, daß ich sagte:
 
 »Tun Sie sich nur keinen Schaden an, Herr Juhlke …«
-Und zu Harald: »Du, das ist Herr Justus Juhlke, in Firma.
+Und zu Harald: »Du, das ist Herr Justus Juhlke, in Firma
 Wertheim, Kaufmann, — zurzeit reist er mit einem Mord.«
 
-Juhlke warf mir einen still empörten Bis zu, verteidigte
-sich: »Herr Harst, auf mein Ehrenwort … Es »summt.
-
-… Die Frau lag tot da … Nachher war sie weg ::
+Juhlke warf mir einen still empörten Blick zu, verteidigte
+sich: »Herr Harst, auf mein Ehrenwort … Es stimmt.
+… Die Frau lag tot da … Nachher war sie weg …«
 
 <@pagebreak/>
 Sein Gesicht hatte sich verändert. Die Erinnerung an
 das, was er gesehen, trieb ihm noch jetzt das Blut aus den
-Wangen …-
+Wangen.
 
 Harald lehnte sich an den Zaun. »Herr Juhlke, wo
 sahen Sie die tote Frau? Und wann? — Sie müssen uns
-»das schon ein wenig genauer erzählen …
+das schon ein wenig genauer erzählen …«
 
-»Co — mit Vergnügen, Herr Harst … Es ist mir eine
-Ehre, Ihnen …
+»O — mit Vergnügen, Herr Harst … Es ist mir eine
+Ehre, Ihnen …«
 
 »Erzählen Sie und lassen Sie alle Redensarten …
-Merken Sie sich’s überhaupt Wär’s Leben: Überhöflichkeit
+Merken Sie sich’s überhaupt für’s Leben: Überhöflichkeit
 schadet nur! — Also los, Herr Juhlke …«
 
-Juhlke errötete, raste dann all seine Energie und Verstandesschärfe
-zusammen und berichtete: …
+Juhlke errötete, raffte dann all seine Energie und Verstandesschärfe
+zusammen und berichtete:
 
 »Ich war gestern abend mit meinem Kanu auf der
-Rückfahrt naß Potsdam. Unweit der früheren Luftschiffhalle
+Rückfahrt nach Potsdam. Unweit der früheren Luftschiffhalle
 hörte ich, am Ufer entlang rudernd, im Walde einen
 halblauten Schrei und eine Männerstimme, die etwas in
 einer fremden Sprache rief. Da der Schrei nachher in ein
 klägliches Stöhnen Überging, landete ich und drang in den
 Wald ein. Zwischen zwei Erlen lag im Grase eine Dame
 ohne Hut mit einer furchtbaren Wunde an der Stirn, aus
-der daß Blut nur so hervorschoß … Ich war über hinten
+der das Blut nur so hervorschoß … Ich war über diesen
 Anblick so entsetzt, daß ich zu meinem Kanu zurück rannte,
 vom Ufer abstieß und weiterruderte. Doch schon nach …«
 
-»Sie kehrten also um, suchten den Platz nochmals aus,
+»Sie kehrten also um, suchten den Platz nochmals auf,
 und da war die Frau verschwunden …«
 
 »Ja, Herr Harst … Spurlos verschwunden … Ich
-ging von weiter in den Wald hinein bis zu dem Wege. Und
+ging noch weiter in den Wald hinein bis zu dem Wege. Und
 da hörte ich etwas: ein Auto jagte davon.«
 
 »Und mehr wissen Sie nicht?«
 
-»Nein, Herr Harst … Und ließ habe bisher mit niemandem
+»Nein, Herr Harst … Und ich habe bisher mit niemandem
 darüber gesprochen, hatte mir gleich vorgenommen,
 Ihnen mein Erlebnis anzuvertrauen …«
 
-— »Hm — weshalb sagten Sie aber vorhin, es handelte
-sich um einen Mord. Die Frau lebtedvoch noch … Und
+»Hm — weshalb sagten Sie aber vorhin, es handelte
+sich um einen Mord. Die Frau lebte doch noch … Und
 offenbar hat es sich um einen Streit gehandelt … Die
 <@pagebreak/>
-Sürnverlebung kann ganz ungefährlich gewesen sein …«
+Stirnverletzung kann ganz ungefährlich gewesen sein …«
 
 »Herr Harst, — — hier bitte — — bitte!!« rief Juhlke
+mit Pathos … »Hier — diese Perlen lagen neben der
+Stelle, wo die Dame niedergeschlagen worden war …
+Echte Perlen von einer Perlenschnur … Bitte — — acht
+Stück … Prachtexemplare … Ich verstehe etwas davon …«
 
-will Pathos …- »Hier — diese Perlen lagen neben der
-
-Stelle, wo- die Dame niedergeschlagen worden war …
-
-rechte Perlen von einer Perlenschnur … Bitte — — »a)ich
-
-Stück … Prachtexemplare … acht verstehe etwas davon
-
-sind Sie meinen, es sei ein Raubanfall gewesen?!«
-(spielte Harald … Und 3z0g aus der Außentasche seiner
-Arbeits8ioppe die Morgenzeitung hervor …
+»Und Sie meinen, es sei ein Raubanfall gewesen?!«
+lächelte Harald … Und zog aus der Außentasche seiner
+Arbeitsjoppe die Morgenzeitung hervor …
 
 »Herr Juhlke, ich pflege die Zeitungen sehr genau zu
-lesen« und stets sofort … Auch Sie sollten das tun … Es
-bringt stets Gewinn, wenn man über das Allerneueste unter
+lesen und stets sofort … Auch Sie sollten das tun … Es
+bringt stets Gewinn, wenn man über das Allerneueste unterrichtet
+ist … — Sehen Sie, hier ist eine sehr große auffällige
+Anzeige …«
 
-richtet ist … — Sehen Sie, hier ist eine sehr große auffällige
-Anzeige»…
 Diese Annonce sah so aus …
-30600 Mark Belehnunop.
 
-Der junge Mann, der gestern am Spätnachmittag
+<blockquote><p class="centered">3000 Mark Belohnung.</p></blockquote>
+
+> Der junge Mann, der gestern am Spätnachmittag
 unweit der früheren Zeppelinhalle bei Potsdam am
 Waldrande acht Perlen aufgelesen bat, die von der Dame
-nach ihrem Unfall liegen gelassen zweiten stand, wird gen
+nach ihrem Unfall liegen gelassen worden sind, wird gebeten,
+diese
 
-Gehen, diese
+<blockquote><p class="centered">acht Perlen</p></blockquote>
 
-acht denken
-gegen obige Belohnung im Fremdenheim Union, Waldstraße
-3, bei Sven Oldenborg abztliesern.
+> gegen obige Belohnung im Fremdenheim Union, Motzstraße
+3, bei Sven Oldenborg abzuliefern.
 
 Auch ich hatte diese Anzeige noch nicht gelesen, und
-meist Gesicht war nur um ein geringes weniger verblüi’t
+mein Gesicht war nur um ein geringes weniger verblüfft
 als das Justus Juhlkes, in dessen Mienen sich außerdem
-noch die hellste Freude über die seiner wartenden drein!t!-
-prüfend Mord umschnürte, — was ich im ihrigen sehr begreiflich
+noch die hellste Freude über die seiner wartenden dreitausend
+Mark ausdrückte, — was ich im übrigen sehr begreiflich
 fand,
 
-»sein Gott …« sammelte Juhlke jetzt und verfärbile
-sich vor Ernennung. »Dreitausend Mark, — — für mich ein
+»Mein Gott …« sammelte Juhlke jetzt und verfärbte
+sich vor Erregung. »Dreitausend Mark, — — für mich ein
 Vermögen … für mich die Erfüllung eines heimlichen
 Wunsches … Ich kann mich mit diesen dreitausend Mark
-selbständig malen …«
+selbständig machen …«
 
 <@pagebreak/>
 Harald klopfte ihm freundschaftlich auf die Schulter …
 
-»Sehen Sie, es lohnt schon, die Nase in die Zerknittert
-bereits unterwegs ;… Er muß jeden Augenblick sich wirken
-stellen. Außerdem werden sicherlich noch Zettel mit bemitleiden
+»Sehen Sie, es lohnt schon, die Nase in die Zeitungen
+zu stecken. Außerdem werden sicherlich noch Zettel mit demselben
 Wortlaut an den Anschlagsäulen zu finden sein …
-— Was Sie als Mord einschalten, Herr Juhlke, war also
+— Was Sie als Mord einschätzten, Herr Juhlke, war also
 nichts als ein Unfall … Immerhin rate ich Ihnen folgendes.
-Wenn Sie jetzt zu Herrn Sven Oldenborg geben, [9
-versuchen Sie, ob Sie die Dame von gestern nicht zu Gesic’t
-bekommen. Fangen Sie die Sache geschickt an. Sie sind 1.:
+Wenn Sie jetzt zu Herrn Sven Oldenborg gehen, so
+versuchen Sie, ob Sie die Dame von gestern nicht zu Gesicht
+bekommen. Fangen Sie die Sache geschickt an. Sie sind ja
 nicht auf den Mund gefallen, Herr Juhlke. Erklären Sie
 vielleicht Herrn Oldenborg, daß Sie die Perlen nur der
 Dame persönlich aushändigen wollen …«
-Der junge Verkäufer machte ein rissiges Gesicht. »Herr
+
+Der junge Verkäufer machte ein pfiffiges Gesicht. »Herr
 Harst, ich glaube Ihre Gedanken erraten zu können. Sie …
-traten den Leuten nicht ganz. Sie nehmen an, daß bei dieser
+trauen den Leuten nicht ganz. Sie nehmen an, daß bei dieser
 Geschichte irgend etwas nicht ganz stimmt …«
 
 Harald wurde sehr ernst. »Herr Juhlke, vielleicht sind
-das wirklich meine geheimsten. Gedanken. — Nun gehen Sie
-… Und »verschweigen Sie, daß Sie bereits bei uns waren.
+das wirklich meine geheimsten Gedanken. — Nun gehen Sie
+… Und verschweigen Sie, daß Sie bereits bei uns waren.
 Bleiben Sie kaltblütig, beobachten Sie scharf und lassen Sie
-sich nichts anmerken, falls Sie etwas Anufsälligcs wahrnehmen.
+sich nichts anmerken, falls Sie etwas Auffälliges wahrnehmen.
 Kommen Sie dann wieder hier zu uns, aber geben
 Sie genau acht, ob auch niemand Ihnen folgt und Sie bewacht.
-Es wird Ihnen ja Spaß machen, so ein ’wenig Detektiv
+Es wird Ihnen ja Spaß machen, so ein wenig Detektiv
 zu spielen. In Ihrem Alter tut dies jeder gern und
 hält den Detektivberuf für den schönsten auf Erden, was ja
 leider ein grober Irrtum ist, da kein Beruf so hohe Anforderungen
-an … — Aber sei;en Sie lieber … Tod; wir
+an … — Aber gehen Sie lieber … Ich will
 Ihnen hier keine Vorträge halten … Auf Wiedersehen.«
 
-Juhlke schwenkte strahlend sein Strohhüilchen und
-329g ab. —
+Juhlke schwenkte strahlend sein Strohhütchen und
+zog ab.
 
 Harald wandte sich mir zu …
 
 »Na, mein Alter?!«
 
 Das war nichts als eine Aufforderung, mir meinerseits
-den Fall Sven Okldenborg zu kritisieren.
+den Fall Sven Oldenborg zu kritisieren.
 
 <@pagebreak/>
 Ich erklärte: »Unfall ist natürlich Schwindel. Wenn
@@ -225,10 +226,10 @@ es ein Unfall gewesen wäre, hätte Juhlke nicht die wütende
 Männerstimme gehört, dann hätte er auch jemand bei der
 am Boden liegenden Dame vorgefunden, und drittens —
 dann wären die Leute nicht mit dem Auto davongejagt,
-ohne sich Zeit zu lassen, die Perlen aufzulesen …
+ohne sich Zeit zu lassen, die Perlen aufzulesen …«
 
-»Sehr gut, sehr gut …! — Wir müssen nun »abwarten,
-bis unser Freund Justus niederschoß. Ich bin außerordentlich
+»Sehr gut, sehr gut …! — Wir müssen nun abwarten,
+bis unser Freund Justus wiederkehrt. Ich bin außerordentlich
 gespannt darauf, was er zu berichten hat. — Kümmern
 wir uns inzwischen um die verdammten Maulwürfe …
 Ich habe schon alte Lappen und Petroleum dorthin gestellt.
@@ -241,8 +242,8 @@ Ich fiel ihm ins Wort …
 etwas Besonderes auf sich haben, sonst hätte der junge
 Mensch ihn kaum beachtet …
 
-»So?! — Nun, wir. werden ja hören … Also an die
-Arbeit …-. In einer halben Stunde können wir fertig sein.
+»So?! — Nun, wir werden ja hören … Also an die
+Arbeit … In einer halben Stunde können wir fertig sein.
 Dann machen wir Toilette, denn ich möchte mir unter allen
 Umständen den Platz ansehen, wo die Frau gelegen hat.« —
 
@@ -257,7 +258,7 @@ etwas erhobener Stimme hinzu:
 »Die Perlen, mein Alter, waren nämlich tatsächlich
 Prachtstücke … Jede einzelne … Die Perlenkette, von der
 sie stammten, muß ein Vermögen gekostet haben … Und
-da nun ausgerechnet vor acht Tagen der Herzogin vorn
+da nun ausgerechnet vor acht Tagen der Herzogin von
 Alancire in London, wie die Zeitungen und die internationalen
 Polizeiberichte meldeten, eine Kette von siebzig Perlen
 gestohlen worden ist, so …«
@@ -268,32 +269,29 @@ Ich besinne mich jetzt …«
 »du besinnst dich immer einen halben Posttag zu spät.
 <@pagebreak/>
 — Ich kann Dir aussagen, daß diese acht Perlen fraglos
-von der Kette der: Herzogin herrühren. Die Beschreibung
+von der Kette der Herzogin herrühren. Die Beschreibung
 im Polizeibericht stimmt mit diesen Perlen genau überein …
 — So, ich denke, jetzt werden Harst und Schraut nicht so
 leicht wiedererkannt werden …«
 
-Er sah) nach der Uhr … »Justus ist eine volle Stunde
-der einfinden …«
+Er sah nach der Uhr … »Justus ist eine volle Stunde
+bereits unterwegs … Er muß jeden Augenblick sich wieder
+einfinden …«
 
 Justus fand sich nicht ein.
 
 Um zehn Uhr sagte Harst: »Mein Alter, es wird
-Zeit … Juhlke ist etwas zugestoßen. Jahren wir zum
-Fremdertheim Union, jeder mit einem Handkoffer …«
+Zeit … Juhlke ist etwas zugestoßen. Fahren wir zum
+Fremdenheim Union, jeder mit einem Handkoffer …«
 
 Wir fuhren …
 
-ja
-
 <h2>2. Kapitel.</h2>
-<h3>- Die dreitausend Mark.</h3>
-
-…
+<h3>Die dreitausend Mark.</h3>
 
 Und standen um halb elf vor der Inhaberin des Fremdenheims,
 einer Dame von verwirrender Liebenswürdigkeit,
-die ihr Gesicht in einen Umschlossen verwandelt hatte,
+die ihr Gesicht in einen Tuschkasten verwandelt hatte,
 um längst entschwundene Jugend vorzutäuschen.
 
 Sie hatte uns in den Empfangssalon geführt, witterte
@@ -301,137 +299,140 @@ in uns neue Gäste und nahm dann die fünfzig Mark, die
 Harald ihr in richtiger Einschätzung ihrer Geschäftstüchtigkeit
 reichte, mit einem freudigen Lächeln entgegen.
 
-»Sir möchten Sie nämlich nur etwas fragen, Frau
+»Wir möchten Sie nämlich nur etwas fragen, Frau
 Alberti,« sagte Harald. »Wir vertrauen auf Ihre Verschwiegenheit,
-und dieser Ginsziamarkschein wird sich viel
-(Sicht vervielfachen, wenn Sie wirklich … den Mund halten
-…
+und dieser Fünfzigmarkschein wird sich vielleicht
+vervielfachen, wenn Sie wirklich … den Mund halten
+…«
 
-»O — ich bitte Sie, ich …
+»O — ich bitte Sie, ich …«
 
 »Schon gut … Unsere Namen tun nichts zur Sache …
 Jedenfalls sind wir Detektive, Frau Alberti … Bei Ihnen
-wohnt ein Herr Sven Oldenborg …
+wohnt ein Herr Sven Oldenborg …«
 
 <@pagebreak/>
-»Harst … Seit gestern abend …«
+»Gewiß … Seit gestern abend …«
 
-»Ab — seit gestern abend erst?«
+»Ah — seit gestern abend erst?«
 
 »Ja … Es sind Norweger, das Ehepaar … Sie
-haben das beste Zimmer geraumen und für eine Los
-vorausbezahlt … sehr vornehme konnte, ohne Zweifel …«
+haben das beste Zimmer genommen und für eine Woche
+vorausbezahlt … sehr vornehme Leute, ohne Zweifel …«
 
-»Tau Oldenborg hat eine Verfehlung?«?«
+»Frau Oldenborg hat eine Verletzung?«
 
-»Beisetzung?!! Nicht daß ich wüßte …«
+»Verletzung? Nicht daß ich wüßte …«
 
 »An der Stirn …«
 
-»Unmöglich, mein Her! … Ich habe die Dame ohne
+»Unmöglich, mein Herr … Ich habe die Dame ohne
 Hut gesehen …«
 
 »nun — mag sein, Frau Alberti. — Bekamen Oldenborgs
-heute nicht Bein?«
+heute nicht Besuch?«
 
-»Tau, vor anderthalb Stunden fragte ein junger Mann
+»Ja, vor anderthalb Stunden fragte ein junger Mann
 nach Herrn Oldenborg und betrat dann das Zimmer des
-Ehepaares …
+Ehepaares …«
 
-»Und — ’wann ging er wieder weg?«
+»Und — wann ging er wieder weg?«
 
-»Das weiß ich wirklich nicht … Vielleicht ist er 15h
+»Das weiß ich wirklich nicht … Vielleicht ist er noch
 dort …
 
 »Würden Sie vielleicht einmal bei den Herrschaften unter
-einem Vorwand anklopfen, Grau Alberti. Ich möchte
-wissen, ob der junge Mann noch immer sich dort aushält …
-—» Wo liegt das Zimmer?«
+einem Vorwand anklopfen, Frau Alberti. Ich möchte
+wissen, ob der junge Mann noch immer sich dort aufhält …
+— Wo liegt das Zimmer?«
 
-schien —!chGräg gegenüber dem Empfangssalon«…«
+»Hier — schräg gegenüber dem Empfangssalon …«
 
 »Bitte — also sehen Sie nach … Wir werden die
 Salontür etwas offen lassen …«
 
-Frau Alberti wurde jetzt ängstliche. »Mein Herr, es
+Frau Alberti wurde jetzt ängstlich. »Mein Herr, es
 handelt sich doch hoffentlich nicht um …«
 
-»Das werden »Sie nachher erfahren … Bitte — es
+»Das werden Sie nachher erfahren … Bitte — es
+eilt …«
 
-eilt …
-
-E13va3 aufgeregt rauschte die Dame hinaus. Wir fahren
+Etwas aufgeregt rauschte die Dame hinaus. Wir faßten
 an der Tür Posto … Wir beobachteten, wie Frau Alberti
 immer lauter klopfte …
 
 Und — ganz umsonst …
-»gelegen Sie!« rief Harald ihr zu.
+
+»Öffnen Sie!« rief Harald ihr zu.
+
 Die Tür war verschlossen …
-Harst trat in den Stil, Wüste sich …
+
+Harst trat in den Flur, bückte sich …
 
 <@pagebreak/>
 »Kein Schlüssel im Schloß … Sie erlauben …«
 
-Und im:Nu hatte er den Patentdietrich eingeführt …
+Und im Nu hatte er den Patentdietrich eingeführt …
 
 Die Tür ging auf …
 
 Linker Hand war das Zimmer durch einen Vorhang
-abgeteilt. Dar! standen die Betten …
+abgeteilt. Dort standen die Betten …
 
-Frau Alberti kreischte vor Ihre; aus dem einen Bett«
-lag Justus Zahlst — bewußtlos …
+Frau Alberti kreischte vor Schreck; aus dem einen Bett
+lag Justus Juhlke — bewußtlos …
 
 Das Ehepaar war samt den Koffern verschwunden.
 
 Harst drückte die Tür zu …
 
-»Frau Alberti, Ruhe …!l! Sie merken wohl, daß diese
-Geschenke sehr anrüchig ist … — Ich bin Harald Harst …
+»Frau Alberti, Ruhe …!! Sie merken wohl, daß diese
+Geschichte sehr anrüchig ist … — Ich bin Harald Harst …
 Sie wissen nun also, mit wem Sie es zu tun haben … —
 Setzen Sie sich …«
 
-Er bemühte sich dann um Zuhlke. Brachte bald heraus,
-daß das Ehepaar dem jungen Menschen fraglos ein Stach
-Wein angeboten hatte. In dem Wein hatte sich das Betüiu-bimgsmittel
-befanden. Das Glas stand noch auf dem erfahren
+Er bemühte sich dann um Juhlke. Brachte bald heraus,
+daß das Ehepaar dem jungen Menschen fraglos ein Glas
+Wein angeboten hatte. In dem Wein hatte sich das Betäubungsmittel
+befunden. Das Glas stand noch auf dem Sofatisch,
 daneben eine Flasche Portwein, aus der nur ein Glas
-edle.
+fehlte.
 
 Juhlke war vorläufig nicht zu erwecken, daher nahmen
-wir das große Zimmer für uns und bedeuticten Frau Alberti,
+wir das große Zimmer für uns und bedeuteten Frau Alberti,
 dem Personal gegenüber vorläufig das Geschehene zu
 verschweigen und nur anzudeuten, daß Oldenborgs abgereist
-seien und zwei Herren das Zimmer genommen hätte! …
+seien und zwei Herren das Zimmer genommen hätten.
 
-So konnten wir denn in Ruhe abwarten, bis Ruhmes
-wieder zu sich kam. Harald flößte ihn starken schmunzelnd.
-Kaffee ein, und nach drei Stunden schlich unser bedauernswerter
+So konnten wir denn in Ruhe abwarten, bis Justus
+wieder zu sich kam. Harald flößte ihm starken schwarzen
+Kaffee ein, und nach drei Stunden schlug unser bedauernswerter
 Klient endlich die Augen auf.
 
-Bevor er jedoch berichten konnte, was hier vorgefallen…
-verging eine weitere Stunde. Er war Vorort vertrat:?, daß
+Bevor er jedoch berichten konnte, was hier vorgefallen,
+verging eine weitere Stunde. Er war derart seekrank, daß
 sein Magen sich immer wieder umkrempelte und sein Gesicht
 ganz grünlich schimmerte.
 
 Seine ersten klar verständlicher Worte entbehrten nicht
-einer gewissen unfreiwilligen Komik, bewies an aber Stich
-einen hohen Grad edler Selbsterkenntnis. Er lag jetzt? aus
+einer gewissen unfreiwilligen Komik, bewiesen aber auch
+einen hohen Grad edler Selbsterkenntnis. Er lag jetzt auf
 dem Diwan, und als seine matten Augen Harald eine Weile
 <@pagebreak/>
 gemustert hatten, sagte er mit einem qualvollen Seufzer:
 
-»O — — ich Esel!t!««
-Harald nickte … »Ja, mein lieber Herr Juhlke, ich
-Hatte Sie ja gewarnt … — Erzählen Sie nun mal …
+»O — — ich Esel!!«
 
-»Da ist nicht viel zu jagen, Herr Harst … Ich kam
+Harald nickte … »Ja, mein lieber Herr Juhlke, ich
+Hatte Sie ja gewarnt … — Erzählen Sie nun mal …«
+
+»Da ist nicht viel zu sagen, Herr Harst … Ich kam
 Her, trat ein, fand einen blondbärtigen Herrn vor, der mir
 dann seine Gattin vorstellte, die mit verbundenem Kopf hinter
 dem Vorhang auf dem Bett lag und mich liebenswürdig
 anlächelte … Aber — es war nicht die Dame von gestern
 abend, Herr Harst, — auf keinen Fall …! Nur eine ganz
-entfernte Ähnlichkeit war vorhanden …« ’«
+entfernte Ähnlichkeit war vorhanden …«
 
 Harald hatte sich einen Stuhl neben den Diwan gezogen
 … »Wissen Sie auch ganz genau, daß es nicht dieselbe
@@ -449,13 +450,13 @@ aus dem Auto geschleudert worden. ich wieder
 holte die Perlen hervor, und er füllte mir das Weinglas
 und … ich war dumm genug, auch wirklich zu trinken
 … Mit einem Male wurde es mir schwarz vor Augen,
-— — — und weiter weiß ich nichts …
+— — und weiter weiß ich nichts …«
 
 »Hatten Sie die dreitausend Mark in Ihre Brieftasche
 gesteckt?«
 
-»Ja — ja … Ich ahne jedoch schon, daß diese Behelligen
-mir das Geld wieder abgenommen haben
+»Ja — ja … Ich ahne jedoch schon, daß diese Betrüger
+mir das Geld wieder abgenommen haben …«
 
 »Allerdings … — Immerhin, sehen wir einmal nach,
 Herr Juhlke …«
@@ -469,24 +470,24 @@ Und — — diesmal hatte auch Harald sich geirrt: die
 dreitausend Mark waren noch vorhanden!«
 
 <@pagebreak/>
-Das in wirkte auf Justus Juhlke belebender als der besitze
-dann
+Das wirkte auf Justus Juhlke belebender als der beste
+Kognak …
 
-Mit einem Ruck saß er aufrecht da. Sein Gesicht be:
-kam Farbe …
+Mit einem Ruck saß er aufrecht da. Sein Gesicht bekam
+Farbe …
 
 »Herr Harst, Herr Harst, — — verstehen Sie das?! Die
-Bande hat mir das Geld belassen …! Verstehen Sie das«?!
-Ich nicht!« …
+Bande hat mir das Geld belassen …! Verstehen Sie das?!
+Ich nicht!«
 
 Harald meinte achselzuckend:
 
 »Vorläufig verstehe ich’s auch nicht … Aber man wird
-ja wohl dahinter kommen … Nichts ist so sein gesponnen,
-es kommt doch schließlich an die Sonnen … — ZIJedensalls
-gratuliere ich, Herr Zuhlke. Ehe freut mich von Herzen, daß
+ja wohl dahinter kommen … Nichts ist so fein gesponnen,
+es kommt doch schließlich an die Sonnen … — Jedenfalls
+gratuliere ich, Herr Juhlke. Es freut mich von Herzen, daß
 die Qualen dieser gewaltsamen und häufigen Magenentleerungen
-so gut honoriert worden sind. — Wie sah) denn der
+so gut honoriert worden sind. — Wie sah denn der
 Sven Oldenborg aus? Bemerkten Sie irgendein besonderes
 Kennzeichen?«
 
@@ -494,90 +495,91 @@ Kennzeichen?«
 zurückgestrichenes Kopfhaar, mittelgroß, hager, Hornbrille,
 tadellos gepflegte Hände und … — ah, da fällt mir etwas
 ein, Herr Harst … Er hatte auf der linken Hand oben eine
-ganz schwache Tätowierung — so schlau, daß ich glaube,
+ganz schwache Tätowierung — so schwach, daß ich glaube,
 die Tätowierung ist wieder entfernt worden. Aber ich erkannte
-doch noch das Bild eines hockenden Menschen.:.«
+doch noch das Bild eines hockenden Menschen …«
 
 »Hm — hockenden Menschen?! Ob es nicht vielleicht
-ein Höhe sein sollte? Vielleicht ein Buddha-Wildnis?
+ein Götze sein sollte? Vielleicht ein Buddha-Bildnis?«
 
 Juhlke dachte nach. »Das kann stimmen, Herr Harst …
 Wir haben bei Wertheim ja auch Buddhastatuen zum Verkauf.
 Es wird ein Buddha gewesen sein …«
 
-»Und. die Dame?«
+»Und die Dame?«
 
-»Nun — so um die Dreißig, hellblond und rundliche?
-Gesicht, volle Lippen, sogar ein wenig Wulstlippen …
+»Nun — so um die Dreißig, hellblond und rundliches
+Gesicht, volle Lippen, sogar ein wenig Wulstlippen …«
 
 »Danke. — Wie fühlen Sie sich jetzt?«
 
-»Tadellos, Herr Harst …
+»Tadellos, Herr Harst …«
 
 »Trägt Ihr Kanu drei Personen? Könnten wir noch
 heute an die bewußte Stelle rudern?«
+
 »Gewiß … gern …« —
 
 <@pagebreak/>
 Und um drei Uhr nachmittags landete das hellgrün gestrichene
-Kanu unseres reisen Verbündeten an einer den
+Kanu unseres neuen Verbündeten an einer von
 Röhricht freien Stelle und wurde dann von uns aufs
 Trockene geschleppt, damit wir die Besichtigung des Tatortes
-in futsch vornehmen könnten.
+in Ruhe vornehmen könnten.
 
 Justus führte uns an den Platz zwischen den Erlen,
 schilderte nochmals alles und zeigte genau den Fleck, wo die
 blutende Dame gelegen hatte.
 
 Im Grase erkannten wir auch noch inzwischen schwarz
-verfärbte Blutspuren, 11nd ah den Marlwurföhaufen sah:n
-wir nun, der sich etwa in Höre des Kopfes der Frau als
-zuschlichen Buckel erhob — jener unbekannten Frau, die
-gestern hier trahrscheiniich niedergeschlagen und beraubt
+verfärbte Blutspuren, und auch den Maulwurfshaufen sahen
+wir nun, der sich etwa in Höhe des Kopfes der Frau als
+schwärzlicher Buckel erhob — jener unbekannten Frau, die
+gestern hier wahrscheinlich niedergeschlagen und beraubt
 worden war, wie ich mir die Dinge zusammenreimte.
 
 Jetzt erst fragte Harald unseren Justus: »Sie haben
 diesen Maulwurfshaufen Schraut gegenüber besonders erwähnt.
 Weshalb?«
 
-»Zeit die rechte, seitwärts gestickte Sand der Dame
-sich in die lockere Erde eingekrallt hatte, Herr »Harst … — Bitte,
-hier erkennt man ja noch die Stelle, wo die Finger die Grase
-herausgerissen haben, — — ein Feines Loch …
+»Weil die rechte, seitwärts gestreckte Hand der Dame
+sich in die lockere Erde eingekrallt hatte, Herr Harst … — Bitte,
+hier erkennt man ja noch die Stelle, wo die Finger die Erde
+herausgerissen haben, — — ein kleines Loch …«
 
 Harald kniete nieder …
 
-Befühlte dieses kleine Loch, wüßte tun der Erde ums
-per und … brachte die Hälfte einer Perlenschnur samt dort
-mit kleinen Brillanten besetzten Platin schloß zum Vorschein.
+Befühlte dieses kleine Loch, wühlte in der Erde umher
+und … brachte die Hälfte einer Perlenschnur samt dem
+mit kleinen Brillanten besetzten Platinschloß zum Vorschein.
 
-Wortlos gab er mir die Perlen, erhob sich und zur«&te
+Wortlos gab er mir die Perlen, erhob sich und suchte
 nun die Umgebung mit allergrößter Sorgfalt ab …
 
-Inzwischen hatten Juhlke und ich den Maulwurf?-
-laufen nochmals gründlich mit Hilfe von kleinen Stöcken
+Inzwischen hatten Juhlke und ich den Maulwurfhaufen
+nochmals gründlich mit Hilfe von kleinen Stöcken
 durchwühlt, ohne etwas weiteres zu finden.
 
-Dann lehrte Harald zu uns zurück, sagte nur:
+Dann kehrte Harald zu uns zurück, sagte nur:
 
-»suchten wir heim …
+»Fahren wir heim …«
 
-führte hätte nun u gern von Harst gehört, wie dieser
-über den ganzen Fall Oldenborg duäute. Da kannte er jedoch
-meinen Harald schlecht … Der kann in unsicher:3-
+Juhlke hätte nun zu gern von Harst gehört, wie dieser
+über den ganzen Fall Oldenborg dächte. Da kannte er jedoch
+meinen Harald schlecht … Der kann in unliebenswürdigster
 <@pagebreak/>
-würdigster Weise den Mund halten … Und das erlebte
+Weise den Mund halten … Und das erlebte
 auch unser Justus.
 
-nachdem wir das Hand in Potsdam an einer Book3-werft,
+nachdem wir das Kanu in Potsdam an einer Bootswerft,
 wo Juhlke es ständig beließ, vertäut hatten, fuhren
 wir mit der Bahn nach Berlin zurück. Harald erklärte, daß
-er per, spricht die Sache der Polizei melden würde und das;
+er persönlich die Sache der Polizei melden würde und daß
 Juhlke sich bei uns nicht eher wieder einfinden solle, bis er
 entsprechende Nachricht erhielte … »Sie dürfen nicht vergessen,«
-warnte er ihn nochmals, »daß man Sie wahrschein:
-lich beobachten lassen wird … Also richten Sie sich danach.
-Die Leute sollen möglich Gift lange in Unkenntnis darüber
+warnte er ihn nochmals, »daß man Sie wahrscheinlich
+beobachten lassen wird … Also richten Sie sich danach.
+Die Leute sollen möglichst lange in Unkenntnis darüber
 bleiben, daß ich hinter ihnen her bin …«
 
 <h2>3. Kapitel.</h2>
@@ -1702,7 +1704,7 @@ in die Pagode zurückgebracht …«
 
 Miß Botton schwieg …
 
-Harst sagte sinnend: »Es ist eine ganz unglaubhaste
+Harst sagte sinnend: »Es ist eine ganz unglaubhafte
 Geschichte …! Würde ich sie nicht miterlebt haben, könnte
 man sie für Fieberwahn halten … — Und dann, Miß Doktor,
 — was geschah dann 21«
@@ -1753,7 +1755,7 @@ Kai! Axenholm …!
 
 Freund Justus erzählte — und er war glücklich, ser
 vor Miß Botton sein Licht leuchten lassen zu dürfen … —
-Leider besichtigte er sich dabei einer so weitschweisigen Ausdrucksweise,
+Leider besichtigte er sich dabei einer so weitschweifigen Ausdrucksweise,
 daß ich seinen Bericht hier mit meinen Worten
 wiedergeben muß.
 
@@ -1857,7 +1859,7 @@ Die Verzögerung war frei … —
 Draußen hatte sich derweilen der freundliche Tropenhimmel
 mit Gewölk überzogen …
 
-Der Sund hatte ein bleisarbenes, düsteres aussehen …
+Der Sund hatte ein bleifarbenes, düsteres aussehen …
 
 Harst, der in das zackige Felsloch hineingestiegen war,
 rief uns zu: …
@@ -1885,7 +1887,7 @@ Pudelnaß …
 — Was tat es un?! Wir waren frei, wir konnten uns
 umkleiden, konnten für Miß Botton trockene, neue Sachen
 besorgen … und für uns das, was wir am meisten vermißten:
-in einer Wasfenhandlung Repetierpistolen — — für
+in einer Waffenhandlung Repetierpistolen — — für
 unseren Besuch bei Baron Söderlund! Für alle Fälle …
 
 Miß Botton meinte, wir sollten die Malmöer Polizei
@@ -2426,7 +2428,7 @@ und Fächer mit dem Patentdietrich. — sich winkte
 Justus, und wir nahmen nebeneinander auf einer niederen
 Ottomane Platz, deren Bärenfell den Opiumgeruch noch stärker
 <@pagebreak/>
-ausströmte. — Justus Zuhlke fühlte sich nicht behaglich.
+ausströmte. — Justus Juhlke fühlte sich nicht behaglich.
 Er blickte immer wieder scheu in die dunklen Ton des großen
 Zimmers, aus denen uns grell bemalte Götzenstatuen
 angrinsten …
