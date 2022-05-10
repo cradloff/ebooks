@@ -586,8 +586,9 @@ bleiben, daß ich hinter ihnen her bin …«
 <h3>Die englische Kollegin.</h3>
 
 Am Abend … In Haralds Arbeitszimmer, in der
-sogenannten Japan-Er … Da saßen wir beide, und der
-dritte im Bunde war Freund Bechert, wohlbestallter Kriminalkommissar.
+sogenannten Japan-Ecke … Da saßen wir beide, und der
+dritte im Bunde war Freund Bechert, wohlbestallter
+Kriminalkommissar.
 
 Bechert halte sich die Geschichte erzählen lassen. Leute
 von seinem Schlage sind angenehme Zuhörer, markieren kein
@@ -599,16 +600,16 @@ von den beiden anderen weggeschafft wurde,« sagte er nun
 und nahm eine neue Zigarette. —
 
 »Von den dreien,« verbesserte Harald. »Der Schofför
-hat mitgemacht. Aus den immerhin noch leidlich) lesbaren
+hat mitgemacht. Aus den immerhin noch leidlich lesbaren
 Spuren ersah ich, daß zwei Männer die Verletzte in das
-Auto trugen. Eine zweite Dja war auch noch anwesend.
+Auto trugen. Eine zweite Frau war auch noch anwesend.
 — Trotzdem, Bechert, wiederhole ich: ich werde aus alledem
 nicht schlau! Tatsache ist, daß es sich um die Perlenkette der
-Herzogin von Alancire handelt, daß wir es also sehr wahr«-
+Herzogin von Alancire handelt, daß wir es also sehr 
 wahrscheinlich mit den Dieben zu tun haben, die die Kette in
-London stahlen — als dem Schlafzimmer der Herzogin
-euch Einsteigen. Mehr weiß man ja über die Ausführung
-gutes Diebstahls und über die Diebe nicht. Die Herren von
+London stahlen — aus dem Schlafzimmer der Herzogin
+durch Einsteigen. Mehr weiß man ja über die Ausführung
+des Diebstahls und über die Diebe nicht. Die Herren von
 <@pagebreak/>
 Scotland Yard, Ihre englischen Kollegen, haben sofort an
 eine internationale Bande gedacht. Das scheint nun bestätigt
@@ -619,10 +620,10 @@ Oldenborg und der Schofför gemeinsam die Autofahrt unternahmen,
 daß sie dort an jener Stelle anhielten, — —
 aber wozu?! Ist es zwischen den Leuten zum Streit gekommen?!
 Hat man die eine Frau etwa, als sie mit der
-Perlenkette flüchten wollte, niedergeschlagen?! weshalb
-beließ man Justus Juhlke die dreitausend Mark? Na: ärmlich
+Perlenkette flüchten wollte, niedergeschlagen?! Weshalb
+beließ man Justus Juhlke die dreitausend Mark? Natürlich
 hat man ihn beobachtet, als er die acht Perlen aufhob.
-Und …
+Und …«
 
 Es hatte geläutet — sehr energisch.
 
@@ -637,30 +638,30 @@ die Ausländerin.
 
 »Schraut … — Bitte, treten Sie näher …«
 
-Als sie uns dann in Haralkds8 Arbeitszimmer ihren
+Als sie uns dann in Haralds Arbeitszimmer ihren
 Namen nannte, waren wir drei gleichmäßig verblüfft …
 Kein Wunder auch …
 
 »Ich bin Lylian Botton, Beamtin von Scotland Yard,
-meine Herren …
+meine Herren …«
 
 Sie schlug den Schleier hoch. Über ihre Stirn lief
 eine schwarzseidene Binde hin.
 
-Ihr Austreten war ebenso bescheiden wie sicher …
+Ihr Auftreten war ebenso bescheiden wie sicher …
 »Hier ist mein Ausweis nebst Lichtbild, meine Herren …
 Bitte  damit kein Zweifel über meine Persönlichkeit entsteht
-…
+…«
 
 Bechert prüfte den Ausweis … »Danke, Miß Botton
 … Nehmen wir Platz …«
 
 Was die englische Kollegin uns dann erzählte, war ein
-ganzen Roman, den ich hier leider nicht wiedergeben kann,
+ganzer Roman, den ich hier leider nicht wiedergeben kann,
 <@pagebreak/>
 da er Seiten füllen würde. Sie hatte jedenfalls die Spur
-der Diebe gefunden, war ihnen hier bis Berlin gefolgt, wohnen
-Oldenborg (sein richtiger Name war Miß Botton
+der Diebe gefunden, war ihnen hier bis Berlin gefolgt, wo
+Sven Oldenborg (sein richtiger Name war Miß Botton
 noch unbekannt) ein Auto gekauft hatte, mit dem die drei
 Gauner täglich Ausflüge unternahmen. Da die Detektivin
 vermutete, daß die Verbrecher die Perlenkette irgendwo
@@ -672,7 +673,7 @@ Luftschiffhalle, und Miß Botton konnte Sven Oldenborg,
 der die Kette gerade aus dem Astloch einer Erle
 hervorholte, das Schmuckstück entreißen. Oldenborg jedoch
 schlug sie mit seinem Spazierstock nieder, mußte dann jedoch
-flüchten, weil Justus Juhlke gibt dem Schauplatz näherte.
+flüchten, weil Justus Juhlke sich dem Schauplatz näherte.
 Nachdem der junge Mensch vor Entsetzen wieder davongerudert
 war, schleppten die Verbrecher die bewußtlose Engländerin
 in das Auto und fuhren davon, legten sie aber
@@ -682,7 +683,7 @@ mit der Sache beschäftigt hatten, hörte die Detektivin
 von Frau Alberti, der Inhaberin des Fremdenheims
 Union …
 
-»Ich bin nun hierher gekommen, meine Herren,« schloß:
+»Ich bin nun hierher gekommen, meine Herren,« schloß
 sie ihre Schilderung, »um Sie zu fragen, ob Sie die von
 mir in dem Maulwurfshügel verborgene halbe Perlenkette
 an sich genommen haben, die ich dort heute am Spätnachmittag
@@ -690,21 +691,21 @@ nicht mehr vorfand.«
 
 Harald reichte ihr die halbe Perlenschnur …
 
-»Bitte … Wollen Sie die Perlen gleich mitnehmen«
-Es wäre mir am liebsten, Miß Botton …« —
+»Bitte … Wollen Sie die Perlen gleich mitnehmen?
+Es wäre mir am liebsten, Miß Botton …«
 
 Sie wehrte ab … »Nein, Herr Harst … Sie haben
 doch zweifellos einen Geldschrank. Bei mir wären die Perlen
 nicht sicher genug verwahrt. Ich denke, wir packen sie
-ein, Siegeln das Päckchen, und Sie bestätigen mir schriftlich,
+ein, siegeln das Päckchen, und Sie bestätigen mir schriftlich,
 <@pagebreak/>
-Daß es so und so viel Perlen waren, die auf diese Weise
+daß es so und so viel Perlen waren, die auf diese Weise
 den Dieben abgejagt wurden …« …
 
-Harst war einverstanden. sich suchte eine Schachtel her
-aus und die nötige Watte, Miß Botton tat die halbe Ber-leunschnur
-hinein und Harald verschloß das Rücken im
--Panzerschrank.
+Harst war einverstanden. Ich suchte eine Schachtel heraus
+und die nötige Watte, Miß Botton tat die halbe Perlenschnur
+hinein und Harald verschloß das Päckchen im
+Panzerschrank.
 
 Die Kollegin blieb noch bis gegen halb zehn bei uns
 und verabschiedete sich dann gleichzeitig mit Bechert. —
@@ -714,45 +715,45 @@ nur in aller Kürze geschildert, da das Wichtigste erst
 folgte, als Harald und ich wieder allein waren.
 
 Harst war merkwürdig ruhelos, ging im Zimmer auf
-Kind ab und blieb schweigsam und zerstreut, obwohl ich Anlagen
+und ab und blieb schweigsam und zerstreut, obwohl ich immer
 wieder über Oldenborg und dessen Helfershelfer, über
 den Diebstahl und die letzten Ereignisse zu sprechen begann.
 
-»Mit einem Male blieb er dann am Schreibtisch sicher,
-nahm das Telephonverzeichnigs und verlangte eine bestimmte
+Mit einem Male blieb er dann am Schreibtisch stehen,
+nahm das Telephonverzeichnis und verlangte eine bestimmte
 Nummer beim Amt …
 
-Meldete sich … »Hier Harald Harst … Sind Sie es.
-Frau Alberti … So, Danke … Ich Wollte Sie nur Kragen,
+Meldete sich … »Hier Harald Harst … Sind Sie es,
+Frau Alberti … So, danke … Ich Wollte Sie nur fragen,
 ob heute eine Miß Botton, Detektivin von Beruf, bei
 Ihnen war? — Nein? Bestimmt nicht? — So … Dann
-»Schluß …«
+Schluß …«
 
 Er legte den Hörer weg …
 
-Ich starrte ihn verdutzt zu … »Harald, was bedeutet
-das?!« …
+Ich starrte ihn verdutzt an … »Harald, was bedeutet
+das?!«
 
-»Daß — wir die Reingesalleneun sind …!!« Und er
-ging zum Tresor, holte die versicherte Schachtel, öffnete sie
+»Daß — wir die Reingefallenen sind …!!« Und er
+ging zum Tresor, holte die versiegelte Schachtel, öffnete sie
 und … warf mir die halbe Perlenkette in den Schoß …
 
 »Da, mein Alter, — — eine wertlose Imitation! Die
-drehten Perlen hat dieses Weib mitgenommen, die uns Grund:
-lich genasführt hat, die Sven Oldenborgs »Gemahlin« war,
+echten Perlen hat dieses Weib mitgenommen, die uns gründlich
+genasführt hat, die Sven Oldenborgs »Gemahlin« war,
 die der Detektivin den Ausweis abgenommen hat …!«
 
-— Ich konnte kein Wort hervorbringen. Dieser Gaunerreich
+Ich konnte kein Wort hervorbringen. Dieser Gaunerstreich
 war denn doch der Gipfel der Frechheit …!
 
 <@pagebreak/>
 Harald lachte ärgerlich … Besinne dich nur, daß
-Justus Juhlke meinte, die beiden Frauen hätten eine rot:
-trennte Ähnlichkeit miteinander … Nur deshalb stärkste
+Justus Juhlke meinte, die beiden Frauen hätten eine entfernte
+Ähnlichkeit miteinander … Nur deshalb glückte
 dem Weibe hier bei uns der Schwindel!
 
-Wir schwirrte es zunächst noch derart im sauber, daß
-ich erst Ordnung in meine Gedanken bringen. mußte …
+Mir schwirrte es zunächst noch derart im Schädel, daß
+ich erst Ordnung in meine Gedanken bringen mußte …
 
 Dann meinte ich sehr kleinlaut:
 
@@ -760,35 +761,36 @@ Dann meinte ich sehr kleinlaut:
 
 »Das frage den Herrn Sven Oldenborg, nicht mich!!«
 — Er war gereizt … Er fühlte sich blamiert …
-Strich an warf sich nun in einen Klubsessel und stierte vor
-ich hin
+
+Und warf sich nun in einen Klubsessel und stierte vor
+sich hin …
 
 Die Muskeln seines hageren Gesichts zuckten …
 
-Schließlich rief er: »Die Bande soll mich kennen Herren
-… L! Und wenn ich bis Australien oder bis zum Südpol
+Schließlich rief er: »Die Bande soll mich kennen lernen
+…!! Und wenn ich bis Australien oder bis zum Südpol
 fahren müßte: Das bleibt der Gesellschaft nicht geschenkt!
 — Zugegeben, daß wir es hier mit ausgesucht routinierten
 Spitzbuben zu tun haben! Trotzdem: jeder Gauner
-macht eine Dummheit! Und ich jene meine Besserung
-auf die linke Hand Sven Oldenborgs …
+macht eine Dummheit! Und ich setze meine Hoffnung
+auf die linke Hand Sven Oldenborgs …!«
 
-— »Linke Hand?!«
+»Linke Hand?!«
 
-… »Ja — die Tätowierung, die wieder entfernte und Boy
-leidlich erkennbare Buddha-Statue -… das Buddhabild …
-Du weißt …
+»Ja — die Tätowierung, die wieder entfernte und doch
+leidlich erkennbare Buddha-Statue … das Buddhabild …
+Du weißt …!«
 
-Er rang auf. »Entschuldige … Ich will nur zum
-nächsten Postamt …
+Er sprang auf. »Entschuldige … Ich will nur zum
+nächsten Postamt …«
 
 Und — weg war er …
 
 Ich hörte die Haustür zufallen …
 
-Ich l;Zelt noch die imitierten Perlen in der Hand …
+Ich hielt noch die imitierten Perlen in der Hand …
 
-Was. wollte Harald auf dem Postamt?! Etwa
+Was wollte Harald auf dem Postamt?! Etwa
 depeschieren?! An wen denn?! —
 
 Nach einer halben Stunde war er Wieder da …
@@ -797,52 +799,53 @@ Nach einer halben Stunde war er Wieder da …
 Das war alles …
 
 Meine Frage, an wen er denn ein Telegramm abgeschickt
-habe, iüberhörte er vollständig.
+habe, überhörte er vollständig.
 
 <@pagebreak/>
-Ich schlief miserabel in dieser Nacht … Und stand,
+Ich schlief miserabel in dieser Nacht … Und stand
 daher erst gegen 10 Uhr auf. Harald war schon im Garten.
-… Begrüßte mich strahlend … »Du — kein einziger neuer’
-
+… Begrüßte mich strahlend … »Du — kein einziger neuer
 Maulwurfshügel in den Gurkenbeeten … Unser Mittel
 hat gewirkt …«
 
 Und als Nachsatz: »Abends reisen wir, Freund
 Schraut … Ich brauche Luftveränderung …«
 
-»20?! Wohl Sven Oldenborgs wegen?!«
+»So?! Wohl Sven Oldenborgs wegen?!«
 
-»Vielleicht -«+ — vielleicht …«
+»Vielleicht — — vielleicht …«
 
 »Und — wohin?«
 
-»nach Göteborg, über Stralsund, Saßnitz« Malmö …«
+»nach Göteborg, über Stralsund, Saßnitz, Malmö …«
 
 Da faßte ich ihn beim Rockknopf. »Harald, sei ehrlich.
-
--… Du hast inzwischen Antwort. auf deine Depesche bekommen
+… Du hast inzwischen Antwort auf deine Depesche bekommen
 …?«
-»ha … von dem sehr ehrenwerten Londoner Anwalt
-Daniel fortan, dem Vertreter der Herzogin von Alancire.
-… Postamt Antwort ist hier … Bitte — — lies …«
+
+»Ja … von dem sehr ehrenwerten Londoner Anwalt
+Daniel Rossam, dem Vertreter der Herzogin von Alancire.
+… Rossams Antwort ist hier … Bitte — — lies …«
 
 Er gab mir eine Depesche …
 
-Harald Harst, Berlin-Schmargendorf
-Blücherstr. 1v.
-Kenne nur einen aus Umgebung der Herzogin mit
+<blockquote><p class="centered">Harald Harst, Berlin-Schmargendorf</p></blockquote>
+
+<blockquote><p class="right">Blücherstr. 10.</p></blockquote>
+
+> Kenne nur einen aus Umgebung der Herzogin mit
 bewußter Tätowierung, früheren Freund ihres Gatten,
 schwedischen Baron Holger Söderlund aus Göteborg. —
 Perlenkette seit zwei Jahren im Besitz der Herzogin. —
-Daniel Ratsam.
+Daniel Rossam.
 
 »Donnerwetter!!« entfuhr es mir. »Also doch die Tätowierung
 …! Und du meinst, daß dieser Baron …«
 
-»- -. dieser Baron, mein Alter, ist, wie mir der Direktor
+»… dieser Baron, mein Alter, ist, wie mir der Direktor
 des Hotel Esplanade telephonisch heute früh auf meine
-Auftrage mitteilte, in der verflossenen Nacht mit einem
-Pajssagiersjlugzeug nach Warnemünde mit seiner Gattin abgereist
+Anfrage mitteilte, in der verflossenen Nacht mit einem
+Passagierflugzeug nach Warnemünde mit seiner Gattin abgereist
 … Ich habe nämlich sofort vermutet gehabt, daß
 Söderlund, falls er wirklich hier in Berlin weilt, unter seinem
 richtigen Namen in einem der ersten Hotels abgestiegen
@@ -851,28 +854,28 @@ sein dürfte — als Söderlund, während er noch ein zweites
 Quartier unter anderem Namen besessen hat …
 
 Ich war immer noch sehr bedenklich, was diesen Verdacht
-Haralds anbetraf. Ein Baren Söderlund — und ein
+Haralds anbetraf. Ein Baron Söderlund — und ein
 Freund eines englischem Herzogs, — — der sollte ein Dieb
 sein?
 
-Harald sah mir diese Gedanken von der Stirn …
+Harald las mir diese Gedanken von der Stirn …
 
-Meinte sehr ruhig: »Der Hoteldirektor hat mir ’tele-
-telephonisch bestätigt, daß der Baron auf der linken Hand eine
-verschwommene Tätowierung Besitz … Ferner mir angegeben,
+Meinte sehr ruhig: »Der Hoteldirektor hat mir telephonisch
+bestätigt, daß der Baron auf der linken Hand eine
+verschwommene Tätowierung besitzt … Ferner mir angegeben,
 Herr von Söderlund sei bartlos und seine Gattin
-Hellblond … — Bartlos!! Also trug er als Sven alten- —
-»barg eine Verkleidung …«
+hellblond … — Bartlos!! Also trug er als Sven Oldenborg
+eine Verkleidung …«
 
 »Na ja … mag sein, Harald … Aber — ein Dieb?!
-Wir will das noch immer nicht in den Kopf … Ich kann
-mir nicht helfen, — — wir werden hier eine böse entlang
+Mir will das noch immer nicht in den Kopf … Ich kann
+mir nicht helfen, — — wir werden hier eine böse 
+Enttäuschung erleben …«
 
-Überraschung erleben …«
-»das abzuwarten bleibt …!!«
+»Was abzuwarten bleibt …!!«
 
 Nun — ich begriff Harald diesmal nicht … Ich wollte
-anderseits auch nicht länger widerspreben. Zum Glück fand
+anderseits auch nicht länger widersprechen. Zum Glück fand
 sich jetzt auch ganz von selbst eine Ablenkung, die unsere Gedanken
 völlig in Anspruch nahm …
 
@@ -888,129 +891,126 @@ der bucklige Herr mit heiserer, zitteriger Stimme flüsterte:
 
 »Verzeihung, — — habe ich meine Sache gut gemacht
 …?! Ich … ich bin Justus Juhlke …«
-Justus Juhlke …!! — Wir staunten — — staunten!
 
+Justus Juhlke …!! — Wir staunten — — staunten!
 Dieser Justus besaß fraglos Talent …! Und Harald sagte
 denn auch:
 
 <@pagebreak/>
 »Freund Juhlke, famos ist Ihre Verkleidung — — famos!
-Aber — — deshalb diese Maskerade?!!«
+Aber — — weshalb diese Maskerade?!«
 
 »Weil … weil ich doch vorsichtig sein sollte …! Und
-weil »ich’s fühle, daß ich mich zum Detektiv mehr eigne als
-zum Wertleimkommis … Und — — weil ich etwas zu
+weil ich’s fühle, daß ich mich zum Detektiv mehr eigne als
+zum Wertheimkommis … Und — — weil ich etwas zu
 melden habe …«
 
 »Und das wäre?«
 
 »Ich … kenne ich den wahren Namen des Sven
-Oldenborg, ’Herr Harst …«
+Oldenborg, Herr Harst …«
 
 »So?! Und …?!«
-»Der … der plant heißt in Wirklichkeit Karl Axen-josm
-…«
 
-Er. ck 2 Zug
-nie 3 WW
+»Der … der Mann heißt in Wirklichkeit Karl Axenholm
+…«
 
 <h2>4. Kapitel.</h2>
 <h3>Die klingenden Glöckchen.</h3>
 
-Der gesandt? die Leser muß jetzt mit mir einen Postraum
+Der freundliche Leser muß jetzt mit mir einen Zeitraum
 von zwei Tagen überspringen.
 
-— Götevuro, — Göteborg, wie’s die Schweden nennen
+— Göteburg, — Göteborg, wie’s die Schweden nennen
 … — Für uns bekannter Boden …
 
-Hafenstadt, recht, mit breiten Alleen, ebenso uralter
-kenne neben stillen Angaben. Etwas Gemütliches, Altfränkisches
-hat diese Stadt, deren abwechslungsreicje Umgebung
-dem Fremden sofort den Charakter schwedischen.
+Hafenstadt, uralt, mit breiten Alleen, ebenso uralter
+Bäume neben stillen Kanälen. Etwas Gemütliches, Altfränkisches
+hat diese Stadt, deren abwechslungsreiche Umgebung
+dem Fremden sofort den Charakter schwedischer
 
 Vor Langedroog auf weiter Wasserfläche nahe Felspartien,
-besonders noch dem Meere bin, wo eine elektrische
-… Strafenbohn den AnSflng83ort Langedroog, ein reizendes
-Fell erregt. den Göteborgern erschließt.
+besonders nach dem Meere hin, wo eine elektrische
+Straßenbahn den Ausflugsort Langedroog, ein reizendes
+Felsennest den Göteborgern erschließt.
 
-War Langedroog auf weiter Wasserfläche packte Felsschlund?,
+War Langedroog auf weiter Wasserfläche nackte Felseilande,
 ähnlich denen im berühmten Christianiafjord. —
 
 Abend war’s …
 
-Ein wuchsen, regnerischer Abend …
+Ein windiger, regnerischer Abend …
 
 <@pagebreak/>
-Drei: Herren in Gumauntimänteln und Watv35tiuchmüßer.
-bärtig, unauffällig; der eine etwa63 buckelig, verhandeln arm
-Gott:he von Langedroog mit einem Fischer über ein Boot,
-005, sie zu einem Ausflug benutzen Pupillen.
+Drei Herren in Gummimänteln und Wachstuchmützen,
+bärtig, unauffällig, der eine etwas buckelig, verhandeln arm
+Gestade von Langedroog mit einem Fischer über ein Boot,
+das sie zu einem Ausflug benutzen wollen.
 
-Der wortkarge, vermutete Schwede mach! aus seinem
-Staunen, daß jemand bei diesem Wetter uns zu dieser
-Tageshell segeln will, kein hell. Aber wie stets zerstreut
-lebendes Golf alle Bedenken. Der größte der Herren bezahlt
+Der wortkarge, verwitwete Schwede macht aus seinem
+Staunen, daß jemand bei diesem Wetter und zu dieser
+Tageszeit segeln will, kein Hehl. Aber wie stets zerstreut
+lockendes Geld alle Bedenken. Der größte der Herren bezahlt
 sehr gut, hinterlegt noch eine Summe als Sicherheit,
-die den Wert des kleinen Fehrzeuges übersteigt.
+die den Wert des kleinen Fahrzeuges übersteigt.
 
-Inzwischen hat es noch ärger zu regnen begannen. Die
-drei. Herren, Angeläutet sind’s. stehen vom Lande -a9. Der«
-sicher merkt: sie verstehen mit einem Boote umzugehen,
-Türme dem Nachthimmel erigevenreden …
-
-Söderlund heiß: die ’e Insel … Art seit langen erstaunt
-so Verdeck belauscht heim.
+Inzwischen hat es noch ärger zu regnen begonnen. Die
+drei Herren, Ausländer sind’s, stehen vom Lande ab. Der
+Fischer merkt: sie verstehen mit einem Boote umzugehen,
+und schlendert beruhigt heim.
 
 Das Segel fällt sich … Das Boot schießt davon …
-der größten der Inseln zu, deren Randsclsen wie die Malern
+der größten der Inseln zu, deren Randfelsen wie die Mauern
 emporragen und über die hinweg sich zwei verwitterte
-erschien Eigentum der Barons von S6 Freund, eines sicher!
-Geschlechts, das nur noch einen einzigen Werte eher Ansicht:
-ten verrückten Baron Holger, wie er in Göteborg Rücken:ein
+Türme dem Nachthimmel entgegenrecken …
+Söderlund heißt diese Insel … Ist seit langen Zeiten
+Eigentum der Barons von Söderlund, eines siechen
+Geschlechts, das nur noch einen einzigen Vertreter besitzt:
+den verrückten Baron Holger, wie er in Göteborg allgemein
 genannt wird.
 
-Das haben die drei Herren in GüLüteborg durch vor:
-kritzlige Nachfrage erfahren.
+Das haben die drei Herren in Göteborg durch vorsichtige
+Nachfrage erfahren.
 
--Die drei Herren sind Harst, Freund Justus und ich.
-Justus bat so lange »gebe her, bis &arald ihn mitnahm.
-Justus hat Zeug zum Detektiv … Und er hat uns ja auch)
-zu diesem »Fall« verborgen. der, je länger wir uns damit
+Die drei Herren sind Harst, Freund Justus und ich.
+Justus bat so lange gebeten, bis Harald ihn mitnahm.
+Justus hat Zeug zum Detektiv … Und er hat uns ja auch
+zu diesem »Fall« verholfen, der, je länger wir uns damit
 beschäftigen, desto verworrener wird.
 
 Wir wissen weiter, daß der Baron vorgestern früh von
-längerer Reise mit seiner Gattin heimgeierrt ist!. Wir
-l:aber heute nachmittag bereits einmal im Ruderboot sein
-Znkelbeim umrundet, um die Örtlichkeit kennenzulernen.
+längerer Reise mit seiner Gattin heimgekehrt ist. Wir
+haben heute nachmittag bereits einmal im Ruderboot sein
+Inselheim umrundet, um die Örtlichkeit kennenzulernen.
 
-Der Regen gebt in einen kurzen Wolkenbruch üer.
-Dir schlagen die Mantelkragen hoch, um unsere angekleÖ9-ten
+Der Regen geht in einen kurzen Wolkenbruch über.
+Wir schlagen die Mantelkragen hoch, um unsere angeklebten
 <@pagebreak/>
 Bärte zu schützen. Harald lacht befriedigt: »Jetzt wird
 uns niemand beobachten, wenn wir landen.«
 
 Die Insel hat nur zwei Landungsstellen. Nur die nach
 Süden gelegene wird von den Bewohnern des alten, inmitten
-der Insel erbauten Schlosse benutzt … Die nördliche
+der Insel erbauten Schlosses benutzt … Die nördliche
 ist durch ein hohes Eisengitter gesperrt. Hier betreten
 wir das Felseneiland, befestigen unser Boot zwischen Steinblöcken
 und klettern über das Gitter …
 
-Stehen nun unter Parkbäumen, hören daß Trommeln
+Stehen nun unter Parkbäumen, hören das Trommeln
 der Regentropfen auf dem Blätterdach allmählich nachlassen
-… uns mit einem Male schwindet das schwarze
+… Und mit einem Male schwindet das schwarze
 Gewölk, die fast volle Mondscheibe tritt hervor und wir erkennen
 ringsum das, was uns der Kellner in unserem
-Göicborger Hotel bereits erzählt hat: daß die Felsgestade
+Göteborger Hotel bereits erzählt hat: daß die Felsgestade
 der Insel wie ein Wall sind, der das Innere der Insel
 mit seinen Baulichkeiten nicht nur völlig von der Außenwelt
 abschließt, sondern es auch gegen die rauhen Winde schützt.
 
 Harald flüstert: »Der Mond meint es gut mit uns …
-Vorwärts also …« ’-
+Vorwärts also …«
 
 Kaum haben wir die Kulisse alter Buchen passiert, als
-wir verwundert auf ein Bautwverk starren, daß da vor uns
+wir verwundert auf ein Bauwerk starren, daß da vor uns
 auf einem Hügel sich erhebt. Es ist die Nachbildung einer
 chinesischen Pagode, eines Tempels mit zahlreichen, nach
 oben zu immer kleiner werdenden Dächern.
@@ -1021,7 +1021,7 @@ Dienerschaft halten, ist überhaupt in allem ein Sonderling,
 menschenscheu, unberechenbar und … enorm reich. Das
 weiß in Göteborg jedes Kind …
 
-Ein seines Klingen wie von zahllosen Glöckchen ’vringt
+Ein feines Klingen wie von zahllosen Glöckchen dringt
 an unser Ohr … Glöckchen, die ganz nach chinesischer Sitte
 an den Dachrändern der Pagode befestigt sind und die jeder
 Luftzug zum Schwingen bringt … — Dunkel liegt die Pagode
@@ -1029,35 +1029,34 @@ da … Und dieses Klingen und Tönen hat in der
 schweigenden Nacht einen eigenen, geheimnisvollen Reiz …
 
 <@pagebreak/>
-Vom Schufte selbst sind nur wieder die verwitterten
+Vom Schlosse selbst sind nur wieder die verwitterten
 Türme hinter einer Reihe hoher Linden zu sehen …
 
 »Weiter,« flüstert Harald … »Miß Botton muß hier
-irgendwo gefangen gehalten werden …- Söderlund hat sie
-fraglos hierher geschafft … Er darf e nach all dem Geschehenen
-nicht freigeben … —« peinlich hat er schon einmal
+irgendwo gefangen gehalten werden … Söderlund hat sie
+fraglos hierher geschafft … Er darf sie nach all dem Geschehenen
+nicht freigeben … —« Ähnlich hat er schon einmal
 zu uns gesprochen …
 
 Wir stehen noch im Schatten der Baumkulisse …
 
-Dir … treten urplötzlich noch tiefer in den Schatten
-zurück
+Wir … treten urplötzlich noch tiefer in den Schatten
+zurück …
 
-Zwischen den Wien Stämmen der Lindenallee sind
+Zwischen den dicken Stämmen der Lindenallee sind
 zwei Gestalten in flatternden Gewändern aufgetaucht …
 Gleiten mit eigentümlich katzenartigen Bewegungen auf die
 Pagode zu … Der eine Mann trägt in der Linken ein
 Körbchen …
 
 »Diener des Barons …« raunt Harald … »Chinesen
-
 … — Also stimmt es … Er hält sich Schlitzaugen als Diener
-…
+…«
 
 Die beiden Leute dort hasten den Hügel empor … Verschwinden
 im Gebüsch am Fuße der Pagode …
 
-Harst Duft sich zusammen, winkt uns …
+Harst duckt sich zusammen, winkt uns …
 
 Wir laufen gleichfalls den Hügel hinan, einen Weg entlang,
 von Buschwerk gedeckt …
@@ -1066,37 +1065,36 @@ Stutzen …
 
 Ein kreischender Ton …
 
-ohne Tür, die in den Angeln kreischt …
+Eine Tür, die in den Angeln kreischt …
 
 Nochmals …
 
 Dann wieder Stille …
 
-Nur die glücken klingen mit seinen Stimmchen …
+Nur die Glöckchen klingen mit feinen Stimmchen …
 Zusammengekauert warten wir im nahen Gestrüpp …
 Sechs Meter vor uns sehen wir die Mauer des Tempels,
-
 darin eine Tür, bunt bemalt …
 
-Deutlicher vernehmen wir die Glöckchen, sollte mit hellem,
+Deutlicher vernehmen wir die Glöckchen, solche mit hellem,
 andere mit tiefem Klang, — — ein Nachtkonzert, das
 offenbar unserem Justus auf die Nerven geht, denn er
-flüstert mir zu: +
+flüstert mir zu: 
 
 <@pagebreak/>
-»Das verdammte: Gebimmel!!«
+»Das verdammte Gebimmel!!«
 
 Aha — — der gute Justus merkt jetzt, daß das Detektivspielen
 Nerven erfordert … Nun — mag er nur aushalten,
-mag Frau am eigenen Leibe erleben, daß unser
-Beruf nur- dem beachtenswert erscheint, der am warmen
+mag er am eigenen Leibe erleben, daß unser
+Beruf nur dem begehrenswert erscheint, der am warmen
 Ofen unsere Erlebnisse liest … —
 
 Wir warten …
 
 Zehn Minuten … Ich schaue nach der Uhr, deren
-Leuchtzisserölatt als grüngelb? Hoteluhr in der Finsternis
-Auch anstatt … Gleich Elternpaar …
+Leuchtzifferblatt als grüngelbe Scheibe in der Finsternis
+mich anglotzt … Gleich Mitternacht …
 
 Dann … — kreischt die Tür … Der eine Flügel schwingt
 nach außen auf …
@@ -1106,59 +1104,60 @@ heraus …
 
 Zu flink hat der eine die Tür wieder abgeschlossen …
 
-Und Haralds Befehl an mich, zuzupacken, kommt un Sekunden
+Und Haralds Befehl an mich, zuzupacken, kommt um Sekunden
 zu spät …
 
-Dir springen zu …
+Wir springen zu …
 
 Den Kerlen an den Hals …
-sich Der, der den Schlüssel hat, schleudert ihn weit von
-im … — …
+
+Der, der den Schlüssel hat, schleudert ihn weit von
+sich …
 
 Die beiden Gelbgesichter sind viel zu erschrocken, um
-Widertjtand zu leisten … Liegen nun am Boden, wehrlose
-Bündel … Taisckentücher als Knebel im Munde …
+Widerstand zu leisten … Liegen nun am Boden, wehrlose
+Bündel … Taschentücher als Knebel im Munde …
 
-» »Justus, Sie halten dort am Fuße des Hügels Wache,«
-behielt Harald wieder. »Spitze jemand kommen, so versuchen
-Sie den Schrei einer Möwe nachzuholen …
+»Justus, Sie halten dort am Fuße des Hügels Wache,«
+befielt Harald wieder. »Sollte jemand kommen, so versuchen
+Sie den Schrei einer Möwe nachzuahmen …«
 
-Denn hin und Frieden strich eine schlug;trunkene Möwe
-über die Insel hinweg.«
+Denn hin und wieder strich eine schlaftrunkene Möwe
+über die Insel hinweg.
 
-Justus verjätvindet …
+Justus verschwindet …
 
-»sein Alter,« sagt Harst leise, »der eine Chinamann
-trug ein Körbe«&en. Dort liegt es. Jetzt ist es leer. Ecke
+»Mein Alter,« sagt Harst leise, »der eine Chinamann
+trug ein Körbchen. Dort liegt es. Jetzt ist es leer. Es
 war aber fraglos gefüllt. Niemand schleppt zwecklos ein
 leeres Körbchen mit sich herum. Lebensmittel enthielt es,
-39 wette, Miß Botton wird in der Pagode gelang enge
-alten …«
+Ich wette, Miß Botton wird in der Pagode gefangen gehalten
+…«
 
 <@pagebreak/>
-Er geht auf die Tür zu, versuch’s mit dem Patieätt-dietrich,
+Er geht auf die Tür zu, versuch’s mit dem Patentdietrich,
 denn den Schlüssel hätten wir jetzt nachts nie gefunden
 …
 
-leuchte ihm vorsichtig …
+Ich leuchte ihm vorsichtig …
 
-»Ein Kunsijiccloß, mein Alter … — er wird ungeduldig
+»Ein Kunstschloß, mein Alter …," — er wird ungeduldig
 …
 
 nach drei Minuten gibt er’s auf. Das Schloß läßt sich
 nicht öffnen …
 
 Wir umrunden rasch die Pagode … Nirgends eine
-Möglichkeit einzudringen … Die kleinen Fenster verlottert
+Möglichkeit einzudringen … Die kleinen Fenster vergittert
 …
 
 Abermals stehen wir vor der Tür …
 
-Darin horcht Harald auf …
+Dann horcht Harald auf …
 
 »Achtung!!« ruft er gedämpft, den Kopf zurückgebogen.
 
-Und — da höre auch ja) ganz oben eine einzelne Glocke
+Und — da höre auch ich ganz oben eine einzelne Glocke
 kräftig läuten …
 
 Nicht so, als ob der Wind sie rührte …
@@ -1166,8 +1165,8 @@ Nicht so, als ob der Wind sie rührte …
 Wir starren empor …
 
 Harst nimmt seine Taschenlaterne … Läßt sie ganz
-(uns dreimal aufleuchten, vermerkt mit der Linken dazu seine
-Füße …
+kurz dreimal aufleuchten, schwenkt mit der Linken dazu seine
+Mütze …
 
 Und mit einem Male gleitet etwas wie eine Riesenschlange
 die Dächer hinab … — ein Tau … ein Hanftau
@@ -1175,66 +1174,67 @@ die Dächer hinab … — ein Tau … ein Hanftau
 
 Fällt uns mit dem einen Ende fast vor die Füße …
 
-Harst greift zu, zieht es Straße …
+Harst greift zu, zieht es straff …
 
 Ich beobachte die beiden Gelbgesichter … Die Asiate
 stieren uns an … Seltsam gleichgültig … Scheint’s mir
-nur so, — = blinzelt wirklich) Hohn in den Schleunigen …?!
+nur so, — — blinzelt wirklich Hohn in den Schlitzaugen …?!
 
-Harald wieder: »Mit Insassen, mein Alter … Bitte
+Harald wieder: »Mit anfassen, mein Alter … Miß
 Botton!!«
 
 Ein Blick nach oben …
 
 Jetzt sehe ich die Frauengestalt …
 
-Wir l;fallen das Tau … Die Frau stimmt herab …
-Tisch allein … Im linken Arm hält sie ein Kind, ein kleines
-Mädchen van vielleicht drei Jahren …
+Wir halten das Tau … Die Frau klimmt herab …
+Nicht allein … Im linken Arm hält sie ein Kind, ein kleines
+Mädchen von vielleicht drei Jahren …
 
 <@pagebreak/>
 Miß Botton hat Kräfte … Sicher und gewandt kommt
 sie uns näher … Das Tau biegt sich durch … Sie streift
-die untere Dachkante +…
+die untere Dachkante …
 
 Ein Sprung zuletzt …
 
-Vor unZ3 sticht sie …
+Vor uns steht sie …
 
 »Harst!« flüstert der Freund seinen Namen … »Harald
 Harst …! — Lylian Botton, nicht wahr?«
 
-neu … ja … — Aber nur fort von hier — — nur
+»Ja … ja … — Aber nur fort von hier — — nur
 fort …«
 
-Eine neue Wolkeniwand verschluckt den Mond …
+Eine neue Wolkenwand verschluckt den Mond …
 
-Ich hole Ruhmes …
+Ich hole Justus …
 
-In wilder Hast, im abermals nicderprassclnden Regen
+In wilder Hast, im abermals niederprasselnden Regen
 geht’s zum Boote … über das Gitter — auf die im Wasser
-liegenden Felsblöcke … —
+liegenden Felsblöcke …
 
 Unser Boot … ist verschwunden …
 
-Harst Fluch …
+Harst flucht …
 
-Die Regenschleier werden noch dichter … Wir verlangen
-die schlüpfrigen Felsen, stehen wieder vor ’dem Eisengitter
+Die Regenschleier werden noch dichter … Wir verlassen
+die schlüpfrigen Felsen, stehen wieder vor dem Eisengitter
 — — ratlos …
 
 Neben mir ein leiser Schrei …
 
-… Ich sehe Justus nach vorn sinken … Da trifft auch
+Ich sehe Justus nach vorn sinken … Da trifft auch
 schon meinen Schädel ein brutaler Hieb …
 
-Ich greise einen Halt suchend ins Leere …
+Ich greife einen Halt suchend ins Leere …
 
 Nichts mehr dann … Ich sinke in die Abgründe tiefer
 Bewußtlosigkeit …
 
 <h2>5. Kapitel.</h2>
 <h3>Unter der Pagode.</h3>
+
 »Herr Schraut … — — Herr Schraut …!!«
 
 Die Stimme ist dicht an meinem Ohr … In meinem
@@ -1244,13 +1244,13 @@ Namen ins Ohr bläst …
 
 <@pagebreak/>
 »Herr Schraut … werden Sie munter!! Herr Schraut
-— —y- Herr Schraut …!!«
+— — Herr Schraut …!!«
 
 Ich reiße die Augen auf … Erst will’s nicht recht gelingen
 … Die Lider sind mir wie Blei, und auf meiner
 Stirn scheint ein Schmied seine Werkstatt etabliert zu haben.
 
-Aber — nun habe ihm doch bestimmt die Augen offen
+Aber — nun habe ich doch bestimmt die Augen offen
 und sehe trotzdem nichts … Immerhin: mein Hirn beginnt
 langsam wieder zu arbeiten … — Wie war das doch
 zuletzt da in Berlin, — sammele ich meine Gedanken …
@@ -1261,137 +1261,137 @@ Und — da zerreißen die Bande, die mein Gedächtnis
 bisher eingeengt hatten …
 
 Justus Juhlke — — natürlich unser Justus! Der
-ist’s, der so hartmäig »Schraut« flüstert …
+ist’s, der so hartnäckig »Schraut« flüstert …
 
 »Was … wollen Sie, Juhlke?« frage ich, und die
 Zunge ist mir wie ein Stück trockenes Leder …
 
 »Herr Schraut, — Gott sei Dank …! Sie sind wieder
-munter …!. — Ich …!) — … fürchte mich, Herr Schraut …
-Es ist so dunkel hier, und …, und Herr Harst war auch nicht
+munter …! — Ich … ich … fürchte mich, Herr Schraut …
+Es ist so dunkel hier, und … und Herr Harst war auch nicht
 wach zu bekommen …«
 
-Ich gebe mich aufrecht. Unter mir raschelt es …
+Ich setze mich aufrecht. Unter mir raschelt es …
 Trockenes Laub fühlen meine Hände …
 
 »Herr Schraut, wo sind wir …?!« — — des armen
 Justus Stimme zittert wie ein Lämmerschwanz …
+
 »Warten Sie, Justus … sich Werde meine Taschenlampe
-…
+…«
 
-»Co — — wir sind ja völlig ausgeplündert, Herr
-Schraut, schneidet er meinen begonnenen Satz entzwei.
+»O — — wir sind ja völlig ausgeplündert, Herr
+Schraut,« schneidet er meinen begonnenen Satz entzwei.
 »Ich habe ja auch Ihre Taschen schon befühlt, Herr Schraut.
-
 … Leer … leer … Und diese Finsternis, und dieser …
 dieser Geruch … — wie im feuchten Keller … Und so
-Sorgfalt, Herr Schraut …«
+kalt, Herr Schraut …«
 
 »Ruhe, Mann!!« Sein Lamentieren fällt mir auf die
-Nerven … »Ruhe, Justus! Es wird sich schon alles Kindern.
+Nerven … »Ruhe, Justus! Es wird sich schon alles finden.
 <@pagebreak/>
-Die Hauptsache — wir haben die Hände frei…« Wir
-können uns bewegen … — so liegt denn Harst?«
+Die Hauptsache — wir haben die Hände frei … Wir
+können uns bewegen … — Wo liegt denn Harst?«
 
 Und da — meldet dieser Harst sich:
 
-»Er liegt nicht, er gibt … Und er wird jetzt ausstehen
+»Er liegt nicht, er sitzt … Und er wird jetzt aufstehen
 und mal durch Tasten feststellen, wo wir eigentlich stecken.«
+
 Das trockene Laub raschelt …
 
-Ich höre durch dieses Na, ein, wie Harald sich langten
-weiterbewegt … Er scheint Justus und mich) im Kreise zt
+Ich höre durch dieses Rascheln, wie Harald sich langsam
+weiterbewegt … Er scheint Justus und mich im Kreise zu
 umrunden …
 
 »Ein viereckiger Raum,« meldet er ich wieder … »Hier
 eine kleine Tür … Eisen …!«
 
-Er pocht dagegen … G? dröhnt ganz dumpf …
+Er pocht dagegen … Es dröhnt ganz dumpf …
 
-… »Nein, Holz mit Eisenplatten benagel!,« verbessert er
-sich
+»Nein, Holz mit Eisenplatten benagelt,« verbessert er
+sich …
 
-Justus Juhlke stöhnte neben mir kläglich auf. Ei«
-glaube, der Appetit für Detektivabenteuer verging ihm dar
-abermals immer mehr …
+Justus Juhlke stöhnte neben mir kläglich auf. Ich
+glaube, der Appetit für Detektivabenteuer verging ihm
+damals immer mehr …
 
 Harst scheint seinen Rundgang beendet zu haben …
-Läßt Sieg neben uns nieder … Steins leise: »dieser Baron
+Läßt sich neben uns nieder … Meint leise: »Dieser Baron
 spielt ein sehr gewagtes Spiel …! Denkt er etwa, daß wir
-das Tageslicht Pfennig!3 wiedersehen werden?! Und —
-wie trinkt er sich das Ende, wenn wir … frei sind 21«
+das Tageslicht niemals wiedersehen werden?! Und —
+wie denkt er sich das Ende, wenn wir … frei sind?!«
 
 Justus flüstert:
 
-»Sie … Sie dessen, daß wir von hier fliehen können,
+»Sie … Sie hoffen, daß wir von hier fliehen können,
 Herr Harst?«
 
-+I0 … l«
+»Ja …!«
 
-»vor … aber wir haben doch so nur nichts, womit
-wir etwa die Tür an! rechten könnten …«
+»Aber … aber wir haben doch so gar nichts, womit
+wir etwa die Tür aufbrechen könnten …«
 
 Harst — noch leiser:
 
-» »Wir hatten gar nichts, lieber Justus … hatten! Lider
+»Wir hatten gar nichts, lieber Justus … hatten! Aber
 ich habe etwas gefunden … etwas, das hier wohl schon
 lange Zeit unbeachtet unter dem Laub gestanden haben
-Montag … verließ mit dem Fuß dagegen …: Ein Holzkasten
-mit Klappverdeck wie meine Hände fühlten, ein Werks
-Werkzeugkasten!, darin ein paar Dinge, die wir brauchen können.«
-Seine Stimme raunt nur noch. Er fürchtet Lauscher, euch!er
+mag … Ich stieß mit dem Fuß dagegen …: Ein Holzkasten
+mit Klappdeckel wie meine Hände fühlten, ein Werkzeugkasten,
+darin ein paar Dinge, die wir brauchen können.«
+Seine Stimme raunt nur noch. Er fürchtet Lauscher, fürchtet
 <@pagebreak/>
-das zu verraten, raus uns Rettung Detektei. — »Vielleicht,«
-fügt er hinzu. »Wollen setzen, ob man uns nicht …«
+das zu verraten, was uns Rettung bedeutet. — »Vielleicht,«
+fügt er hinzu. »Wollen sehen, ob man uns nicht …«
 
 Und — bricht jäh ab …
 
-Drei Köpfe heben sich, starren nach oben in die fragte:-
-nie, wo ein leise Geräusch abermals ertönt — ein nur:
-bereit, Quietschen …
+Drei Köpfe heben sich, starren nach oben in die Finsternis,
+wo ein leises Geräusch abermals ertönt — ein Knarren,
+Quietschen …
 
-Dann Teich!er sich dort in der Nähe ein Viereck ab —
+Dann zeichnet sich dort in der Nähe ein Viereck ab —
 ganz matt …
 
-dann schwebt etwas an einem Strick zu uns lernte:
-der …
+dann schwebt etwas an einem Strick zu uns hernieder
+…
 
-Ein Korb … Der Strick fällt herab, als der Korb siä
-in das Laub Eindruck …
+Ein Korb … Der Strick fällt herab, als der Korb sich
+in das Laub eindrückt …
 
-Das Viereck wird wieder dunkel: Eine sollte!
+Das Viereck wird wieder dunkel: Eine Falltür!
 
-Der Korb steht mir am nächsten. Begierig Jahren
-meine Hände da hinein … Das erste, das ich berühre, ist!
-eine Schachtel … Es raschelt darin … Ja; fühlte, das die
-Sachte! eine Raub? Seitentische hat: — Schwedische Hund:
-düster!
+Der Korb steht mir am nächsten. Begierig fahren
+meine Hände da hinein … Das erste, was ich berühre, ist
+eine Schachtel … Es raschelt darin … Ich fühle, daß die
+Schachtel eine rauhe Seitenfläche hat: — Schwedische Zündhölzer!
 
-Und gleich darauf brennt eine Laterne, in der ein ein:
-gersanges Stü Stearinierze steckt …
+Und gleich darauf brennt eine Laterne, in der ein fingerlanges
+Stück Stearinkerze steckt …
 
 Eine alte, verrostete Stallaterne … Aber — wir haben
-Dich — — Licht! Wir sehen den weiteren Inhalt des Hof:
-l’c3:! Brot, zwei Dauertwürste, eine Blechflasche mitWasscr!
+Licht — — Licht! Wir sehen den weiteren Inhalt des Korbes:
+Brot, zwei Dauerwürste, eine Blechflasche mit Wasser!
 
 »Gefangenenkost, besserer Sorte,« meint Harald …
 
 Justus stöhnt wieder. »Ich … ich könnte keinen Bissen
-kberunterbekommen …! Ufern Kopf schmerzt zu schon
-ach eine Beule habe ich auf dem Schädel — wie … wie
+herunterbekommen …! Mein Kopf schmerzt zu sehr …
+Und eine Beule habe ich auf dem Schädel — wie … wie
+… ein Kuheuter so groß …«
 
-… ein Ausbeuten so groß …«
-
-»Übertreiben Sie nicht, Justus …« mahnt Harz!«
-»U:Ad fangen Sie nur erst an zu essen … Es wird sein
-Schweden …«
+»Übertreiben Sie nicht, Justus …« mahnt Harald.
+»Und fangen Sie nur erst an zu essen … Es wird schon
+schmecken …«
 
 Freund Juhlke tat denn auch wirklich der Gefangenenkost
 alle Ehre an … —
-Begum waren wir satt, als Harald die Laterne aus:
-rechte …
-»Wir müssen sparen … Das Licht ist kurz,« meint er
 
+Kaum waren wir satt, als Harald die Laterne auslöschte
+…
+
+»Wir müssen sparen … Das Licht ist kurz,« meint er
 <@pagebreak/>
 »Und jetzt, wo wir hoffentlich nicht beobachtet werden, will
 ich mir den Kasten dort unter dem Laub mal genauer ansehen
@@ -1400,34 +1400,39 @@ ich mir den Kasten dort unter dem Laub mal genauer ansehen
 Er tut’s bei Zündholzbeleuchtung …
 
 Ich bücke mich gleichfalls über den morschen Kasten …
-Darin liegen, mit Post dick bedeckt, allerlei Werkzeuge: Hammer,
+Darin liegen, mit Rost dick bedeckt, allerlei Werkzeuge: Hammer,
 Stemmeisen, zwei Feilen, alte krumme Nägel, Stücke
 Eisendraht, eine große Kneifzange …
 
 Ich muß auf Haralds Geheiß ein neues Zündholz anreiben
-Und er … —. führt die Zange an die Nase, schüttelt den
+…
+
+Und er … führt die Zange an die Nase, schüttelt den
 Kopf …
-Sagt? »Da — rieche einmal, mein Alter!«
-Ich rieche nichts als den faden Geruch rostigen offene …
-»Nun gut, meine Nase- mag seiner sein …/« erc:acht
+
+Sagt: »Da — rieche einmal, mein Alter!«
+
+Ich rieche nichts als den faden Geruch rostigen Eisens …
+
+»Nun gut, meine Nase mag feiner sein …,« erklärt
 Harald … »Beleuchte jetzt daß Türschloß …« —
 
-Ich) will diese Einzelheiten übergehen. Harst bog aus
+Ich will diese Einzelheiten übergehen. Harst bog aus
 einem Eisendraht einen Dietrich zurecht und bekam die Tür
-wirklich aus.
+wirklich auf.
 
 Seiner Berechnung nach war es jetzt etwa um die
 Mittagszeit, falls wir etwa sieben bis acht Stunden bewußtlos
 gewesen waren. Diese Zeitbestimmung blieb vorläufig
 eine Vermutung, da uns ja auch sogar unsere Uhren
 abgenommen waren. Der freundliche Leser wird sofort merken,
-weshalb ich diese Sätze über die Tageshell hier eingefügt
+weshalb ich diese Sätze über die Tageszeit hier eingefügt
 habe.
 
-Und nun Zuruf zu uns dreien, die wir atemlos lauschend
+Und nun zurück zu uns dreien, die wir atemlos lauschend
 vor der halb geöffneten, eisenbenagelten Tür standen
-— im Dunkeln … Denn arm dort außerhalb unseres
-Gefängnisses lauerte pechschwarze Finsternis …«? Zunächst
+— im Dunkeln … Denn auch dort außerhalb unseres
+Gefängnisses lauerte pechschwarze Finsternis … Zunächst
 wagten wir es nicht, unsere armselige Laterne anzuzünden.
 Wir lauschten nur, hörten auch etwas: ein fast gleichmäßiges
 schwaches Brausen und Rauschen … weit vor uns — —
@@ -1440,9 +1445,9 @@ peinigte: »Das ist ein Wasserfall, Herr Harst …«
 Harald erwiderte nichts …
 
 Jetzt unterschied mein Ohr allmählich noch andere Töne,
-die mich an die verflossene Nacht erinnerten: das seine Klingen
+die mich an die verflossene Nacht erinnerten: das feine Klingen
 der Glöckchen der Pagode, hell und tief, hell und tief …
-ein ganz schwaches melodisches Läuten, noch schwächer all?
+ein ganz schwaches melodisches Läuten, noch schwächer als
 das Brausen und Rauschen …
 
 Die Pagode …!!
@@ -1467,14 +1472,14 @@ Ich hatte die Zündhölzer … Justus hielt die Laterne
 …
 
 Ein Zündholz knisterte, flammte auf: Der schwarze
-Docht des Lichtstumpfes ging Feuer …
+Docht des Lichtstumpfes fing Feuer …
 
-Trüber. Schein glitt nach vorn …
+Trüber Schein glitt nach vorn …
 
 Ein rundes Gewölbe … Auf Steinpostamenten Zinksärge,
 Eichensärge, vom Alter tief nachgedunkelt …
 
-— Ein Erbbegräbnis — das der Familie Söderlund
+Ein Erbbegräbnis — das der Familie Söderlund
 offenbar …
 
 Justus drängte sich näher an mich heran …
@@ -1484,48 +1489,47 @@ ab …
 
 Schritt weiter — durch das Gewölbe, auf eine jenseitige
 Türöffnung zu … Hinein in einen gemauerten Gang, der
-Blech! in! scharfem Winkel nach rechts abbog …
+plötzlich in scharfem Winkel nach rechts abbog …
 
-… sahen wir strahlenden Sonnenschein vor uns …
-
+Da … sahen wir strahlenden Sonnenschein vor uns …
 <@pagebreak/>
-seine, die durch eine die große, außen vergitterte Glasscheibe
-bereinlugie …
+Sonne, die durch eine dicke große, außen vergitterte Glasscheibe
+hereinlugte …
 
-Jenseits dieses in den Felswall der Insel eingelassen?
-Fensters rollten die Wogen gegen das Eiland, wollten klatschend
+Jenseits dieses in den Felswall der Insel eingelassen
+Fensters rollten die Wogen gegen das Eiland, warfen klatschend
 weißen Gischt empor …
 
 Tag war’s draußen. Die Sonne stand hoch … Und
 ein Sturm wütete im Freien, der die Wasser des Sundes
-doch auftürmte und vor sich her jagte wie flüchtige Nase …
+hoch auftürmte und vor sich her jagte wie flüchtige Rosse …
 
-ohne Stimme hinter uns, ganz »Überraschend … Ein
-Weltruf der Freude, ein Schrei des Inders:
+Eine Stimme hinter uns, ganz Überraschend … Ein
+Ausruf der Freude, ein Schrei des Jubels:
 
 »Herr Harst, Herr Harst, — — also doch — — gefunden
-…!!1«
+…!!«
 
 Lylian Botton war’s … So, wie wir sie in der Nacht
 gesehen hatten, nur bleicher, übernächtiger, erregter …
 
 Lylian Botton, die Kollegin … In der Hand eine
-leere kleine Konservenbüchse, in der in irgendeiner heiligen
-Masse ein hockt brannte, — eine noch Blendete Laterne als
+leere kleine Konservenbüchse, in der in irgendeiner fettigen
+Masse ein Docht brannte, — eine noch elendere Laterne als
 die unsrige …
 
-»konnten Sie, meine Herren,« sagte die Engländern
-atemlos … »Kommen Sie … Ich will Sie in die »He
-Pagode emporführen … Denn von hier gibt es keinen Weg
+»Kommen Sie, meine Herren,« sagte die Engländerin
+atemlos … »Kommen Sie … Ich will Sie in die Pagode
+emporführen … Denn von hier gibt es keinen Weg
 ins Freie …«
 
 Und mit diesen Worten leitete sie das ein, was ich hier
 im zweiten Teil unseres Abenteuers schildern will: Baron
-ZSöderlundv3 Liebe)!
+Söderlunds Liebe!
 
-<@pagebreak/>
+<@pagebreak 33/>
 
-Baron Söderlunds Liebe.
+<h1>Baron Söderlunds Liebe.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Die kleine Harriet.</h3>
@@ -1768,7 +1772,7 @@ Hause als »Wache ausgezogen«, hatte so Bechert und
 die falsche Miß Botton unser Heim verlassen sehen und war
 <@pagebreak/>
 ihnen gefolgt … Die beiden trennten sich an der nächsten
-Straßenbahnhaltestelle. Die Frau erschien Justus als Be-obachtungsobielt
+Straßenbahnhaltestelle. Die Frau erschien Justus als Beobachtungsobjekt
 wertvoller. Er blieb hinter ihr. So gelangte
 er denn in ein Bierrestaurant in der Tauentienstraße,
 wo die Frau sich mit einem Manne mit blondem Vollbart
@@ -2306,7 +2310,7 @@ will ich Klarheit haben. — Benks, was ist’s mit dem
 Kinde?!«
 
 die Alte saß wie ein Häuflein Unglück da … Jöllings
-Errezuaiig jchüchterte sie ein … Und doch wimmerte sich
+Errezuaiig schüchterte sie ein … Und doch wimmerte sich
 nur:
 
 …
