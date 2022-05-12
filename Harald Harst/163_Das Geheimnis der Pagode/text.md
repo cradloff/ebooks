@@ -36,7 +36,7 @@ den Zaun heran …
 »Verzeihung, Herr Schraut, — — ich hätte was für Sie
 und Herrn Harst,« flüsterte er.
 
-»hoffentlich ein Maulwurfsvertilgungsmittel!« meinte
+»Hoffentlich ein Maulwurfsvertilgungsmittel!« meinte
 ich brummig.
 
 Natürlich begriff der Jüngling nicht, weshalb ich plötzlich
@@ -58,7 +58,7 @@ nüchtern … — Wenn Sie gestatten: mein Name ist
 Justus Juhlke. Ich bin Verkäufer bei Wertheim, habe jetzt
 aber meinen Urlaub … Außerdem bin ich Besitzer eines
 Kanus, mit dem ich täglich Ausflüge zu Wasser unternehme.
-heute freilich nicht, da ich Ihnen und Herrn Harst meine
+Heute freilich nicht, da ich Ihnen und Herrn Harst meine
 Aufwartung machen wollte …«
 
 »Sehr nett von Ihnen, Herr Juhlke. Aber — — der
@@ -106,7 +106,7 @@ Rückfahrt nach Potsdam. Unweit der früheren Luftschiffhalle
 hörte ich, am Ufer entlang rudernd, im Walde einen
 halblauten Schrei und eine Männerstimme, die etwas in
 einer fremden Sprache rief. Da der Schrei nachher in ein
-klägliches Stöhnen Überging, landete ich und drang in den
+klägliches Stöhnen überging, landete ich und drang in den
 Wald ein. Zwischen zwei Erlen lag im Grase eine Dame
 ohne Hut mit einer furchtbaren Wunde an der Stirn, aus
 der das Blut nur so hervorschoß … Ich war über diesen
@@ -156,7 +156,7 @@ Diese Annonce sah so aus …
 unweit der früheren Zeppelinhalle bei Potsdam am
 Waldrande acht Perlen aufgelesen bat, die von der Dame
 nach ihrem Unfall liegen gelassen worden sind, wird gebeten,
-diese
+diese.
 
 <blockquote><p class="centered">acht Perlen</p></blockquote>
 
@@ -168,7 +168,7 @@ mein Gesicht war nur um ein geringes weniger verblüfft
 als das Justus Juhlkes, in dessen Mienen sich außerdem
 noch die hellste Freude über die seiner wartenden dreitausend
 Mark ausdrückte, — was ich im übrigen sehr begreiflich
-fand,
+fand.
 
 »Mein Gott …« sammelte Juhlke jetzt und verfärbte
 sich vor Erregung. »Dreitausend Mark, — — für mich ein
@@ -240,7 +240,7 @@ Ich fiel ihm ins Wort …
 »Entschuldige, Juhlke erwähnte auch einen Maulwurfshügel
 … Es muß mit diesem Maulwurfshaufen wohl
 etwas Besonderes auf sich haben, sonst hätte der junge
-Mensch ihn kaum beachtet …
+Mensch ihn kaum beachtet …«
 
 »So?! — Nun, wir werden ja hören … Also an die
 Arbeit … In einer halben Stunde können wir fertig sein.
@@ -266,7 +266,7 @@ gestohlen worden ist, so …«
 »Donnerwetter,« entfuhr es mir … »Du hast recht …
 Ich besinne mich jetzt …«
 
-»du besinnst dich immer einen halben Posttag zu spät.
+»Du besinnst dich immer einen halben Posttag zu spät.
 <@pagebreak/>
 — Ich kann Dir aussagen, daß diese acht Perlen fraglos
 von der Kette der Herzogin herrühren. Die Beschreibung
@@ -329,7 +329,7 @@ vorausbezahlt … sehr vornehme Leute, ohne Zweifel …«
 »Unmöglich, mein Herr … Ich habe die Dame ohne
 Hut gesehen …«
 
-»nun — mag sein, Frau Alberti. — Bekamen Oldenborgs
+»Nun — mag sein, Frau Alberti. — Bekamen Oldenborgs
 heute nicht Besuch?«
 
 »Ja, vor anderthalb Stunden fragte ein junger Mann
@@ -339,7 +339,7 @@ Ehepaares …«
 »Und — wann ging er wieder weg?«
 
 »Das weiß ich wirklich nicht … Vielleicht ist er noch
-dort …
+dort …«
 
 »Würden Sie vielleicht einmal bei den Herrschaften unter
 einem Vorwand anklopfen, Frau Alberti. Ich möchte
@@ -424,10 +424,10 @@ gemustert hatten, sagte er mit einem qualvollen Seufzer:
 »O — — ich Esel!!«
 
 Harald nickte … »Ja, mein lieber Herr Juhlke, ich
-Hatte Sie ja gewarnt … — Erzählen Sie nun mal …«
+hatte Sie ja gewarnt … — Erzählen Sie nun mal …«
 
 »Da ist nicht viel zu sagen, Herr Harst … Ich kam
-Her, trat ein, fand einen blondbärtigen Herrn vor, der mir
+her, trat ein, fand einen blondbärtigen Herrn vor, der mir
 dann seine Gattin vorstellte, die mit verbundenem Kopf hinter
 dem Vorhang auf dem Bett lag und mich liebenswürdig
 anlächelte … Aber — es war nicht die Dame von gestern
@@ -446,7 +446,7 @@ mich dann auch, am Sofatisch Platz zu nehmen …«
 
 »Ja — sehr … — Er gab mir sofort dreitausend
 Mark und meinte, seine Gattin sei gestern durch eigene Unvorsichtigkeit
-aus dem Auto geschleudert worden. ich wieder
+aus dem Auto geschleudert worden. Ich wieder
 holte die Perlen hervor, und er füllte mir das Weinglas
 und … ich war dumm genug, auch wirklich zu trinken
 … Mit einem Male wurde es mir schwarz vor Augen,
@@ -467,7 +467,7 @@ Rief sofort: »O — sie ist noch so dick … Das Geld
 muß noch darin sein …« —
 
 Und — — diesmal hatte auch Harald sich geirrt: die
-dreitausend Mark waren noch vorhanden!«
+dreitausend Mark waren noch vorhanden!
 
 <@pagebreak/>
 Das wirkte auf Justus Juhlke belebender als der beste
@@ -571,7 +571,7 @@ meinen Harald schlecht … Der kann in unliebenswürdigster
 Weise den Mund halten … Und das erlebte
 auch unser Justus.
 
-nachdem wir das Kanu in Potsdam an einer Bootswerft,
+Nachdem wir das Kanu in Potsdam an einer Bootswerft,
 wo Juhlke es ständig beließ, vertäut hatten, fuhren
 wir mit der Bahn nach Berlin zurück. Harald erklärte, daß
 er persönlich die Sache der Polizei melden würde und daß
@@ -724,7 +724,7 @@ nahm das Telephonverzeichnis und verlangte eine bestimmte
 Nummer beim Amt …
 
 Meldete sich … »Hier Harald Harst … Sind Sie es,
-Frau Alberti … So, danke … Ich Wollte Sie nur fragen,
+Frau Alberti … So, danke … Ich wollte Sie nur fragen,
 ob heute eine Miß Botton, Detektivin von Beruf, bei
 Ihnen war? — Nein? Bestimmt nicht? — So … Dann
 Schluß …«
@@ -793,7 +793,7 @@ Ich hielt noch die imitierten Perlen in der Hand …
 Was wollte Harald auf dem Postamt?! Etwa
 depeschieren?! An wen denn?! —
 
-Nach einer halben Stunde war er Wieder da …
+Nach einer halben Stunde war er wieder da …
 »Gehen wir schlafen, mein Alter … Gute Nacht …«
 
 Das war alles …
@@ -817,7 +817,7 @@ Schraut … Ich brauche Luftveränderung …«
 
 »Und — wohin?«
 
-»nach Göteborg, über Stralsund, Saßnitz, Malmö …«
+»Nach Göteborg, über Stralsund, Saßnitz, Malmö …«
 
 Da faßte ich ihn beim Rockknopf. »Harald, sei ehrlich.
 … Du hast inzwischen Antwort auf deine Depesche bekommen
@@ -851,7 +851,7 @@ Söderlund, falls er wirklich hier in Berlin weilt, unter seinem
 richtigen Namen in einem der ersten Hotels abgestiegen
 <@pagebreak/>
 sein dürfte — als Söderlund, während er noch ein zweites
-Quartier unter anderem Namen besessen hat …
+Quartier unter anderem Namen besessen hat …«
 
 Ich war immer noch sehr bedenklich, was diesen Verdacht
 Haralds anbetraf. Ein Baron Söderlund — und ein
@@ -927,7 +927,7 @@ von zwei Tagen überspringen.
 Hafenstadt, uralt, mit breiten Alleen, ebenso uralter
 Bäume neben stillen Kanälen. Etwas Gemütliches, Altfränkisches
 hat diese Stadt, deren abwechslungsreiche Umgebung
-dem Fremden sofort den Charakter schwedischer
+dem Fremden sofort den Charakter schwedischer.
 
 Vor Langedroog auf weiter Wasserfläche nahe Felspartien,
 besonders nach dem Meere hin, wo eine elektrische
@@ -1131,7 +1131,7 @@ Justus verschwindet …
 trug ein Körbchen. Dort liegt es. Jetzt ist es leer. Es
 war aber fraglos gefüllt. Niemand schleppt zwecklos ein
 leeres Körbchen mit sich herum. Lebensmittel enthielt es,
-Ich wette, Miß Botton wird in der Pagode gefangen gehalten
+ich wette, Miß Botton wird in der Pagode gefangen gehalten
 …«
 
 <@pagebreak/>
@@ -1141,10 +1141,10 @@ denn den Schlüssel hätten wir jetzt nachts nie gefunden
 
 Ich leuchte ihm vorsichtig …
 
-»Ein Kunstschloß, mein Alter …," — er wird ungeduldig
+»Ein Kunstschloß, mein Alter …,« — er wird ungeduldig
 …
 
-nach drei Minuten gibt er’s auf. Das Schloß läßt sich
+Nach drei Minuten gibt er’s auf. Das Schloß läßt sich
 nicht öffnen …
 
 Wir umrunden rasch die Pagode … Nirgends eine
@@ -1170,7 +1170,7 @@ Mütze …
 
 Und mit einem Male gleitet etwas wie eine Riesenschlange
 die Dächer hinab … — ein Tau … ein Hanftau
-…«
+…
 
 Fällt uns mit dem einen Ende fast vor die Füße …
 
@@ -1277,7 +1277,7 @@ Trockenes Laub fühlen meine Hände …
 »Herr Schraut, wo sind wir …?!« — — des armen
 Justus Stimme zittert wie ein Lämmerschwanz …
 
-»Warten Sie, Justus … sich Werde meine Taschenlampe
+»Warten Sie, Justus … Ich werde meine Taschenlampe
 …«
 
 »O — — wir sind ja völlig ausgeplündert, Herr
@@ -1354,7 +1354,7 @@ Quietschen …
 Dann zeichnet sich dort in der Nähe ein Viereck ab —
 ganz matt …
 
-dann schwebt etwas an einem Strick zu uns hernieder
+Dann schwebt etwas an einem Strick zu uns hernieder
 …
 
 Ein Korb … Der Strick fällt herab, als der Korb sich
@@ -1393,7 +1393,7 @@ Kaum waren wir satt, als Harald die Laterne auslöschte
 
 »Wir müssen sparen … Das Licht ist kurz,« meint er
 <@pagebreak/>
-»Und jetzt, wo wir hoffentlich nicht beobachtet werden, will
+»und jetzt, wo wir hoffentlich nicht beobachtet werden, will
 ich mir den Kasten dort unter dem Laub mal genauer ansehen
 …«
 
@@ -1504,7 +1504,7 @@ Tag war’s draußen. Die Sonne stand hoch … Und
 ein Sturm wütete im Freien, der die Wasser des Sundes
 hoch auftürmte und vor sich her jagte wie flüchtige Rosse …
 
-Eine Stimme hinter uns, ganz Überraschend … Ein
+Eine Stimme hinter uns, ganz überraschend … Ein
 Ausruf der Freude, ein Schrei des Jubels:
 
 »Herr Harst, Herr Harst, — — also doch — — gefunden
@@ -1599,7 +1599,7 @@ einzigen Stuhl.
 Harsts Lächeln hatte mir sehr zu denken gegeben. Es
 war in diesem Lächeln wie gesagt etwas ganz Eigentümliches
 enthalten, eine Ironie, die denen galt, die uns bewachten.
-die Kollegin hatte ja von den »Wächtern« gesprochen.
+Die Kollegin hatte ja von den »Wächtern« gesprochen.
 
 Und diese Kollegin fragte jetzt: »Sie sind durch irgend
 etwas heute stutzig geworden, Herr Harst?«
@@ -1634,7 +1634,7 @@ abgenommen hatte …«
 
 »Aber das Auto kehrte zurück. Man betäubte mich vollends
 mit Chloroform. Man packte mich in einen großen
-Koffer. als ich erwachte, war mir sterbendselend zumute,
+Koffer. Als ich erwachte, war mir sterbendselend zumute,
 denn die Narkose muß sehr tief gewesen sein … Und
 ich erwachte hier in diesem Gemach. Ein Mann, der sich
 einen schwarzen dicken Vollbart vorgeklebt hatte, bemühte
@@ -1701,7 +1701,7 @@ an die Tür, weckte mich und teilte mir fliegenden Atems
 mit, daß unten vor der Pagode fremde Männer umherschlichen
 … So kam es denn, daß ich mit der Kleinen und
 mit Ihrer Hilfe flüchtete, Herr Harst … Die alte Ingeborg
-hörte nichts … — Was Weiter geschah, wissen Sie. Sie
+hörte nichts … — Was weiter geschah, wissen Sie. Sie
 und Ihre Freunde wurden niedergeschlagen, und ich und
 Harriet — so nannte sich die Kleine — wurden gewaltsam
 in die Pagode zurückgebracht …«
@@ -1726,7 +1726,7 @@ den berühmten Harst sei es ein großes Risiko gewesen, sich
 mit ihm einzulassen … — Ich wagte mich dann nach unten,
 um Sie womöglich zu befreien … Das wäre alles …«
 
-»und es ist übergenug,« nickte Harald … »Übergenug
+»Und es ist übergenug,« nickte Harald … »Übergenug
 …!! — Miß Botton, Sie nehmen an, daß Baron
 Holger Söderlund der Dieb der Perlenkette ist, auch der,
 der Sie mit dem Spazierstock am Waldufer bei Potsdam
@@ -1750,7 +1750,7 @@ Karl Axenholm …«
 
 <h2>2. Kapitel.</h2>
 
-<h3>Die Tafel an der Tür,</h3>
+<h3>Die Tafel an der Tür.</h3>
 
 Jetzt also erwähne ich hier vor meinen Lesern und
 Freunden wieder jenen Namen, der gleichsam den einen
@@ -1781,7 +1781,7 @@ traf: es war derselbe Mann aus dem Fremdenheim Alberti,
 und jetzt bei Licht erkannte Justus in der Frau ebenfalls
 zu seiner Überraschung dieselbe Dame, die bei der
 Alberti die Verletzte, Leidende gespielt hatte. — Er konnte
-in der Nähe Platz nehmen, konnte das Paar dann Weiter
+in der Nähe Platz nehmen, konnte das Paar dann weiter
 bis fünf Uhr morgens im Auge behalten, da die beiden
 nachher im Wartesaal des Stettiner Bahnhofs blieben, ohne
 irgendeine Wohnung aufzusuchen. Hier im Wartesaal gesellte
@@ -1807,7 +1807,7 @@ das Ehepaar war ja bereits nachts im Flugzeug nach
 Warnemünde unterwegs. Mithin …«
 
 »… mithin …?!« — und Miß Botton hob fragend
-und Unsicher die Schultern …
+und unsicher die Schultern …
 
 »… mithin müssen wir wohl den Baron vorläufig
 ausschalten, müssen unterstellen, daß ein Dritter sich absichtlich
@@ -1822,7 +1822,7 @@ Ist die kleine Harriet noch hier in der Pagode?«
 
 »Nun, dann werden wir die Insel jetzt verlassen …
 Mir ist da ein Gedanke gekommen, der vielleicht all diese
-Ungereimtheiten dieses Falles ausgleicht. — fliehen wir …
+Ungereimtheiten dieses Falles ausgleicht. — Fliehen wir …
 Unten in dem Werkzeugkasten befindet sich ein Hammer …
 Wir werden das Glasfenster, vor dem wir uns trafen, Miß
 Botton, zerstören … zerschlagen … Wir werden ein Boot
@@ -1912,7 +1912,7 @@ denn zu Miß Botton:
 
 »Damit Sie mit Ihrem offiziellen Gewissen nicht in
 <@pagebreak/>
-Konflikt kommen: Bleiben Sie hier im Hotel! das ist die
+Konflikt kommen: Bleiben Sie hier im Hotel! Das ist die
 einfachste Lösung.«
 
 Die Engländerin war nach einigem Zögern einverstanden.
@@ -1961,7 +1961,7 @@ Steinbau, von zwei Türmen flankiert, — eine breite
 Terrasse, im Erdgeschoß nur Türfenster, alle vergittert …
 
 Sonne lachte … Und doch, — düster dieses Schloß, als
-Schliefen darin die Geheimnisse von Jahrhunderten …
+schliefen darin die Geheimnisse von Jahrhunderten …
 
 <@pagebreak/>
 Kein lebendes Wesen zu sehen … Nur ein paar
@@ -2066,7 +2066,7 @@ nach links um das alte Schloß herum, fanden hinten
 einen kleinen Wirtschaftshof, der von drei Stallgebäuden
 eingeschlossen war.
 
-und wandten uns nun der Allee zu, die dort drüben
+Und wandten uns nun der Allee zu, die dort drüben
 die Aussicht nach der Pagode verdeckte …
 
 Der Abendwind bewegte die zahllosen Glöckchen an
@@ -2135,7 +2135,7 @@ Harriet … Und viel Bediente hat der Herr Baron nicht.
 Da sind nur die beiden Chinesen, dann der Karl und die
 Köchin Ingrid … Die sind alle mit auf der Jacht, Herr …«
 
-das Weib spielte Komödie, und nicht schlecht … Ihr
+Das Weib spielte Komödie, und nicht schlecht … Ihr
 Verhalten war geradezu rätselhaft. Hoffte sie wirklich mit
 diesen Redensarten uns abschütteln zu können?! Daß sie
 in alles eingeweiht war, unterlag kaum einem Zweifel.
@@ -2156,7 +2156,7 @@ der Pagode … Und — — ein Kind, ein Kind?! Der Baron
 hat keine Kinder …«
 
 »Aber den Rechtsanwalt Jölling kennen Sie doch?«
-forschte Harald mit wahrer Engelsgeduld
+forschte Harald mit wahrer Engelsgeduld.
 
 <@pagebreak/>
 Die Alte nickte lebhaft. »Ob ich den kenne …! In der
@@ -2204,7 +2204,7 @@ Haus machte einen verwahrlosten Eindruck, paßte ganz zu
 dem Besitzer und Bewohner, der uns in einem schäbigen
 Schlafrock empfing — ein mumienhaftes kleines Männchen
 mit völlig kahlem Kopf, aber die Augen hinter der goldenen
-Brille lebendig und durchdringend wie die eines Jünglings
+Brille lebendig und durchdringend wie die eines Jünglings.
 
 <@pagebreak/>
 Harst hatte seinen Namen genannt und Justus und mich
@@ -2234,7 +2234,7 @@ und unserer Gefangennahme …
 Jölling schaute ihn ungläubig an …
 
 »Verzeihen Sie, Herr Harst … Ein Kind soll in der
-»Pagode gewohnt haben?! Ein Kind?! Ich bin doch bereits
+Pagode gewohnt haben?! Ein Kind?! Ich bin doch bereits
 ein halbes Jahrhundert Sachwalter der Barone von Söderlund,
 und ich rühme mich, auch das Vertrauen des Baron
 Holger zu besitzen, soweit dieser überhaupt jemandem vertraut.
@@ -2287,7 +2287,7 @@ Der Anwalt lächelte etwas. Sein Mumiengesicht bekam
 Farbe …
 
 »Sehen Sie, Herr Harst, — so ist der Baron …! Dieser
-Brief kennzeichnet ihn. man nennt ihn hier den verrückten
+Brief kennzeichnet ihn. Man nennt ihn hier den verrückten
 Baron … Es stimmt schon. Der Mann war stets unberechenbar
 … Sie können sich denken, was ich empfand, als
 mir Karl Axenholm diesen Brief gebracht hatte … Axenholm
@@ -2313,7 +2313,7 @@ mir seine Eigentümlichkeiten nicht wider die Ehre! Jetzt
 will ich Klarheit haben. — Benks, was ist’s mit dem
 Kinde?!«
 
-die Alte saß wie ein Häuflein Unglück da … Jöllings
+Die Alte saß wie ein Häuflein Unglück da … Jöllings
 Erregung schüchterte sie ein … Und doch wimmerte sie
 nur:
 
@@ -2327,7 +2327,7 @@ einsperren … Die Sache muß ein Ende haben …«
 Er griff nach dem Telephonhörer …
 
 »Herr Harst, Sie sind doch einverstanden, daß die Polizei
-eingreift? …
+eingreift?«
 
 »Durchaus, Herr Jölling …«
 
@@ -2453,7 +2453,7 @@ Harald war plötzlich aufgestanden …
 
 »Hörtet ihr?!« fragte er leise … »Licht aus …!!«
 
-Dunkelheit …«
+Dunkelheit …
 
 Drei hellere Vierecke, die Fenster … Sonst nichts …
 
@@ -2483,7 +2483,7 @@ Ich gebe zu, daß auch mir jenes scheußliche Kältegefühl
 den Rücken entlang kroch, das stets die körperliche Wirkung
 einer unbestimmten Furcht ist — des Grauens … Wir hatten
 geglaubt, hier im Schlosse ganz allein zu sein … Ein
-Irrtum! Die Schritte Über uns hatten uns eines besseren
+Irrtum! Die Schritte über uns hatten uns eines besseren
 belehrt. 
 
 Doch dieses Grauen, so schwach es auch nur meine Seele
@@ -2572,7 +2572,7 @@ nicht erschienen wäre, hätten Sie beide flüchten können …
 Sie haben …«
 
 Die Schwester unterbrach ihn mit einem grellen Gelächter
-… »Mag das Spiel aus sein … mag es«…!!
+… »Mag das Spiel aus sein … mag es …!!
 Aber auch er ist verloren … Er, den … ich hasse …
 hasse …!! Er, der mich zurückließ, der die andere erwählte.
 … — Sie sollen alles erfahren, Herr Harst, alles … Ich
@@ -2646,11 +2646,11 @@ Reden Sie …!!« …
 Das Weib lachte höhnend … »Fragen Sie doch die
 alte Ingeborg, Herr Harst …! Wir wissen’s nicht …!
 Wir wissen nur, daß Söderlund das Kind … wie die Pest
-gemieden hat …! deshalb betrat er niemals die Pagode,
+gemieden hat …! Deshalb betrat er niemals die Pagode,
 deshalb blieb er jenen Teilen des Parkes fern, in denen
 das Kind spielte …«
 
-bisher hatte die alte Benks sich völlig im Hintergrunde
+Bisher hatte die alte Benks sich völlig im Hintergrunde
 gehalten … Jetzt meldete sie sich, reckte die Hand empor,
 rief feierlich:
 
@@ -2688,7 +2688,7 @@ erlebt die Enttäuschung, daß die Geliebte einen anderen
 vorzieht … Auch bei ihm wird Liebe zu Haß. Seine Nerven
 sind zerrüttet … Opium hat ihn entnervt. Was tut
 er?! Er verschenkt eine Perlenkette, um Unheil zu stiften.
-dann heiratet er ein Mädchen, das tief unter ihm steht …
+Dann heiratet er ein Mädchen, das tief unter ihm steht …
 Von dieser Ehe wissen wir nichts … Wie ein Einsiedler
 lebt er hier … Fraglos immer noch der verlorenen Liebe
 nachtrauernd — — ein Sonderling, — — der verrückte
@@ -2820,7 +2820,7 @@ Zeit des Unfalles soll eine fremde Jacht an der Küste gekreuzt
 haben …«
 
 Der Herzog winkt unendlich müde ab … »Herr Harst,
-weshalb all dies wieder aufrühren?! weshalb?!«
+weshalb all dies wieder aufrühren?! Weshalb?!«
 
 Die Herzogin schluchzt leise …
 
@@ -2950,6 +2950,6 @@ Darüber das nächste Mal …
 
 Nächster Band:
 
-Der Gentleman-Pirat,
+__Der Gentleman-Pirat.__
 
 Druck: P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
