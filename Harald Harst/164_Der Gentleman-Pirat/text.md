@@ -1,17 +1,13 @@
 <@pagebreak/>
-Nachdruck verboten. — Alle Rechte, »Tisch. das Verfilmungsrecht,
-vorbehalten. — Copyright 1925 by Verlag moderner
-Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
-
-Der Gentleman=Pirat.
+<#include "intro_short.ftl">
 
 <h2>1. Kapitel.</h2>
 <h3>Die Elfenbeinkugel.</h3>
 
-— »Nett von Ihnen, daß Sie sich auch wieder einmal bei
-uns »sehen lassen, kennt Justus,« begrüßte Harald an
+»Nett von Ihnen, daß Sie sich auch wieder einmal bei
+uns sehen lassen, Freund Justus,« begrüßte Harald an
 jenem regnerischen Septemberabend Herrn Justus Juhlke,
-unseren Leidensgefährten von warme … — Der Leser
+unseren Leidensgefährten von Malmö … — Der Leser
 kennt unseren Justus … Geheimnis der Pagode, — dabei
 hatte Justus mitgewirkt …
 
@@ -19,19 +15,20 @@ Aber unser Justus machte heute ein ganz merkwürdiges
 Gesicht, meinte, nachdem er uns kaum die Hand gedrückt
 hatte:
 
-»Ah bringe etwas, Herr Harst …
+»Ich bringe etwas, Herr Harst …!«
 
-»So?! Wohl ein neues Rrawaiienmuster aus Ihrem
-Geschäft … Sehen Sie sich …
-»Bitte, die Sache ist sehr ernst, Herr Harst …
+»So?! Wohl ein neues Krawattenmuster aus Ihrem
+Geschäft … Setzen Sie sich …«
 
-Und mit überaus wichtiger Miene packte er 18 grauem
+»Bitte, die Sache ist sehr ernst, Herr Harst …«
+
+Und mit überaus wichtiger Miene packte er aus grauem
 Papier ein elegantes Damenhandtäschchen aus …: Brokatstoff,
 vergoldeter Bügel — sehr schick …
 
-»Dies Ding;« erklärte Justus feierlich, »ließ heute vormittag
+»Dies Ding,« erklärte Justus feierlich, »ließ heute vormittag
 elf Uhr eine Dame in meinem Laden liegen, die zusammen
-mit einem Herrn Oberhemden einhängte, ein halbes
+mit einem Herrn Oberhemden einkaufte, ein halbes
 Dutzend von den besten … Nachdem das Paar, übrigens
 Ausländer, mein Geschäft verlassen und mein Fräulein das
 Handtäschchen bemerkt hatte, lief ich noch auf die Straße …
@@ -46,13 +43,13 @@ von Harald, ich links …
 
 Harst besichtigte das Täschchen erst von außen …
 
-»Indischer Brokatstoff aus den Webereien in Haustier
+»Indischer Brokatstoff aus den Webereien in Gwalior
 …« sagte er. »Ein sehr kostbarer Stoff … Der Bügel
-die übliche Massenfabrikation … Und öffnete das Taschen,
-legte hintereinander solgenvde Gegenstände auf den
+die übliche Massenfabrikation … Und öffnete das Täschchen,
+legte hintereinander folgende Gegenstände auf den
 Tisch: Ein Spitzentaschentuch, ein goldenes Puderbüchschen, —
-einen kleinen Spiegel mit Goldrahmen, einen Augenbrauen-!
-Stift in goldener Hülse, vier zusammengefaltete Hundert-markjscheine,
+einen kleinen Spiegel mit Goldrahmen, einen Augenbrauenstift
+in goldener Hülse, vier zusammengefaltete Hundertmarkscheine,
 eine winzige Nickelspritze, eine mit einer grünen
 Flüssigkeit gefüllte Ampulle und eine Elfenbeinkugel
 von der Größe eines Taubeneies …
@@ -62,29 +59,28 @@ Das war alles …
 Und — ich war enttäuscht …
 
 Aber Justus sagte schon: »Die Kugel, die hat’s in
-
-1«
+sich!«
 
 Harald nickte …
 
-»Ja, sie ist hohl und läßt sich anschrauben …«
+»Ja, sie ist hohl und läßt sich aufschrauben …«
 
 Er tat’s …
 
 Im Innern der Kugel lag ein zusammengeknülltes
 Stück Papier … buntes Papier …
 
-»Setzen wir uns jetzt « meinte Harst. »Denn dieses.
+»Setzen wir uns jetzt,« meinte Harst. »Denn dieses
 Stück Papier wird ja wohl die Hauptsache sein. Wichtiges
-soll man in Ruhe Beethoven.«
+soll man in Ruhe beschauen.«
 
-Er zog den Klubsessel näher … Ich rückte die stets-.
-Stange mehr zu ihm hin. Und nun faltete er das Papier
+Er zog den Klubsessel näher … Ich rückte die Stehlampe
+mehr zu ihm hin. Und nun faltete er das Papier
 auseinander — sehr behutsam …
 
-Das Papier war eine Hundertpfundnote, und in weg
-Banknote war ein deutschen Kupferpfennig eingehüllt
-Wesen — ein armseliger abgeglittenen Pfennig!
+Das Papier war eine Hundertpfundnote, und in diese
+Banknote war ein deutscher Kupferpfennig eingehüllt
+gewesen — ein armseliger abgegriffener Pfennig!
 
 »Seltsames Gespann?« lachte ich erheitert …
 
@@ -93,8 +89,8 @@ Harald strich die Banknote glatt … »Hier sind einzelne
 Buchstaben mit farbiger Tinte über die Vorderseite
 sehr geschickt verteilt,« erklärte er …
 
-Und Justus rief: »Ja — und tags ist’s, was mich den
-ganzen Tag über im Geiste belästigt hat, Herr Harst …
+Und Justus rief: »Ja — und das ist’s, was mich den
+ganzen Tag über im Geiste beschäftigt hat, Herr Harst …
 Es sind genau zweiunddreißig Buchstaben. Einen Sinn ergeben
 sie leider nicht. Sie sind ja auch ganz willkürlich gerade
 dort hingemalt, wo sie am wenigsten auffallen …«
@@ -103,50 +99,51 @@ Harst hatte jetzt den Pfennig in den Fingern …
 
 »Aus dem Jahre 1889,« sagte er sinnend. »Schraut,
 reiche mir doch mal eine Mirakulum und das Vergrößerungsglas
-… Es gibt Leute, die die Zigaretten Salzgräser
+… Es gibt Leute, die die Zigaretten Sargnägel
 oder Kirchhofsspargel nennen … Sie haben nicht
-ganz Unrecht. droben möchte ich meine Kinn!nimm nicht
+ganz Unrecht. Trotzdem möchte ich meine Mirakulum nicht
 missen … — So, danke, mein Alter …« — Er rauchte
-zwei Züge und nahm den Pfennig unter die Lupe. legte ihn
+zwei Züge und nahm den Pfennig unter die Lupe, legte ihn
 nach einer Weile beiseite und prüfte nun die Banknote mit
 Hilfe des Vergrößerungsglases …
 
 »Stimmt — zweiunddreißig Buchstaben … Wollen
-sie mal ausschreiben … — Justus, schreiben Sie … Ich
+sie mal aufschreiben … — Justus, schreiben Sie … Ich
 werde diktieren …«
 
-Und er diktierte (was ich hier Förmlich wiedergebe):
+Und er diktierte (was ich hier deutsch wiedergebe):
 
-dritten Oktober Mandalar
-Sikarwalar
-… »Himmel — das hat ja doch einen Sinn!« meinte
-Justus Juhlke ganz aufgeregt. »Das heißt ja: Tritten
-Oktober … und dann …
+DRITTEN OKTOBER MANDALAR
+SIKARWALAR
 
-»-, dann: Mandalar Sikarwalar,« ergänzte Harald.
+»Himmel — das hat ja doch einen Sinn!« meinte
+Justus Juhlke ganz aufgeregt. »Das heißt ja: Dritten
+Oktober … und dann …«
+
+»… dann: Mandalar Sikarwalar,« ergänzte Harald.
 »Ja, es hat Sinn … Denn Mandalar ist ein kleiner Hafenort
-an der Ostküste Vorderindiens, und Sikarwalar dunkle
-gleichfalls eine Ortsbezeichnung sein«…«
+an der Ostküste Vorderindiens, und Sikarwalar dürfte
+gleichfalls eine Ortsbezeichnung sein …«
 
-… »Und Wie — haben Sie das herausbekommen, Herr
+»Und Wie — haben Sie das herausbekommen, Herr
 Harst?«
 
 »Bitte — halten Sie die Banknote mal ein Stück von
-sich … Dann sehen Sie daß die Buchstaben etwa die Figur
-einer Acht bilden …
+sich … Dann sehen Sie, daß die Buchstaben etwa die Figur
+einer Acht bilden …«
 
-»Allerdings …
+»Allerdings …«
 
 <@pagebreak/>
-»Und;denn Sie jetzt, lieber Justus, den Pfennig durch
+»Und wenn Sie jetzt, lieber Justus, den Pfennig durch
 die Lupe betrachten, so werden Sie unter der Jahreszahl
-1889 vier mit einer seinen Nadel eingebohrte flache Löcher
-machen;bmei1 …«
+1889 vier mit einer feinen Nadel eingebohrte flache Löcher
+wahrnehmen …«
 
 »Stimmt — vier Löcher …«
 
 »So, jetzt schauen Sie sich noch einmal die Buchstaben
-auf der Banknote recht sorgfältig an … Das Wirt etwas
+auf der Banknote recht sorgfältig an … Das M ist etwas
 größer als die übrigen Buchstaben, und wenn man nun mit
 diesem M beginnt und dann den acht Buchstaben in der
 Figur der Acht hinzufügt, so …«
@@ -156,20 +153,20 @@ Harst …?«
 
 »Der Jahreszahl auf dem Pfennig wegen …«
 
-»Ab, jetzt verstehe ich … Und dieser achte Buchstabe
+»Ah, jetzt verstehe ich … Und dieser achte Buchstabe
 ist ein A, und wieder der folgende achte — 1889!! — ein N,
-dann der neunte ein D, dann der nächsisolgenve, die »eins«
+dann der neunte ein D, dann der nächstfolgende, die »Eins«
 der Jahreszahl, wieder ein A — — und so fort … —
 Glänzend, glänzend, Herr Harst …! Das hätte ich nie herausgefunden
-…«! …
+…«
 
 »Übung, lieber Justus, nichts weiter … Eigentlich
 hätte ich ja diktieren müssen: Mandalar Sikarwalar dritten
 Oktober. Aber offenbar bedeuten die Worte doch: Am dritten
 Oktober in Mandalar Sikarwalar. Und diese Banknote,
-die übrigens Kali;ich ist …«
+die übrigens falsch ist …«
 
-»die — — unecht?!«
+»Wie — — unecht?!«
 
 »Ja … Wenn auch glänzend gefälscht. Eine der besten
 Fälschungen, die mir je vor Augen gekommen sind … —
@@ -181,7 +178,7 @@ absichtlich sich nicht mehr sehen ließen, aus Furcht, die
 falsche Banknote könnte ihnen Ungelegenheiten bereiten. —
 Wie sahen die beiden übrigens aus, lieber Justus?« —
 
-»Sehr elegant … Er völlig ’bartlos … Ein Gesicht
+»Sehr elegant … Er völlig bartlos … Ein Gesicht
 <@pagebreak/>
 wie ein Rennreiter. Nur die Hornbrille störte. — Sie eine
 blendende Erscheinung …«
@@ -189,46 +186,49 @@ blendende Erscheinung …«
 Harald hatte wieder die Banknote in der Hand …
 wandte sich jetzt mir zu. »Mein Alter, erinnert die diese
 Banknote nicht an jene tadellosen Fälschungen, die vor zwei
-Jahren der Bank von England so viel Morgen bereiteten?« —
+Jahren der Bank von England so viel Ärger bereiteten? —
 Suche doch einmal den Band Notizen vom Oktober 1924
-hervor.: Ich glaube, wir besitzen ein Bild des Fälschers, der,
-[Zwei ich mich besinne, damals nicht gehabt wurde …« —
+hervor. Ich glaube, wir besitzen ein Bild des Fälschers, der,
+soweit ich mich besinne, damals nicht gefaßt wurde …« —
 
 Unsere Berufsbibliothek ist stets tadellos in Ordnung.
 Und als ich in dem betreffenden Band sehr bald das Steckbriefbild
 jenes Künstlers auf dem Gebiete der Banknotenfälschung
-gefunden und es unserem Zeugnis gezeigt hatte,
-rief der Seen mit Stentorstimme: —
+gefunden und es unserem Justus gezeigt hatte,
+rief der schon mit Stentorstimme:
 
-»Ja — das ist der Begleiter der Danke von heute vormittag
+»Ja — das ist der Begleiter der Dame von heute vormittag
 … Unverkennbar — er ist’s!«
 
 Harst hatte soeben die dritte Mirakulum angezündet…
-fragte mich: »die Bank von England hat doch) eine sehr
-habe Belohnung für die Ergreifung dieses … — wie hieß
-ver’ Mann doch?« —
+fragte mich: »die Bank von England hat doch eine sehr
+hohe Belohnung für die Ergreifung dieses … — wie hieß
+der Mann doch?« —
 
-»Sinnes Arwal …«?
+»James Arwal …«
 
-».». dieses James Arwal ausgesetzt … Wie hoch?«
-pi »Ich schaute in die Zeitungsausschnitte neben dem Bilde
-mein …
+»… dieses James Arwal ausgesetzt … Wie hoch?«
+
+Ich schaute in die Zeitungsausschnitte neben dem Bilde
+hinein …
 
 »Dreitausend Pfund …« sagte ich dann …
 
-»So — das sind sehzigtausend Mark …« nickte Sack
+»So — das sind sechzigtausend Mark …« nickte
 Harald. »Es würde lohnen …«
+
 »was würde lohnen?« — und ich starrte Harst erwartungsvoll
 an …
 
 »Es würde lohnen, James Arwal zu fangen …«
 
-… Z49 lächelte … »Lieber Harald, dieser Arwal dürfte
+Ich lächelte … »Lieber Harald, dieser Arwal dürfte
 den Staub Berlins längst von seinen Lackschuhen geschüttelt
-haben und spurlos verduftet sein. — Hier in ten Ausschnitten
+haben und spurlos verduftet sein. — Hier in den Ausschnitten
 aus den Londoner Zeitungen ist er als ein ganz raffinierter
 Gentlemanverbrecher geschildert … Bitte — lies mal.«
-»Danke, glaube ich auch so … Du Weißt, mein Alter.
+
+»Danke, glaube ich auch so … Du Weißt, mein Alter,
 <@pagebreak/>
 daß gerade Gentlemangauner mich reizen. Diese Bezeichnung
 enthält ja eigentlich einen Widerspruch, denn ein
@@ -237,7 +237,7 @@ beide Leute kennengelernt, die in Wahrheit eine vornehme
 Gesinnung besaßen und die nur durch die Ungunst der
 Lebensumstände auf die Bahn des Verbrechens gedrängt
 worden waren. Mit diesem James Arwal scheint es sich
-ähnlich zu verhalten. Wenn wir also die Jagd nach ihm ersonnen,
+ähnlich zu verhalten. Wenn wir also die Jagd nach ihm eröffnen,
 soll das pekuniäre Moment für uns in den Hintergrund
 treten — die ausgesetzte Belohnung. Der Mensch,
 der Charakter als solcher reizt mich, zumal diese falsche
@@ -249,16 +249,16 @@ Auch Justus und ich hatten das Geräusch eines Autos,
 einen Schrei und schwache Hilferufe gehört …
 
 Durch die Fenster konnte man jedoch infolge der Regenschleier
-und der Dunkelheit nicht erkennen, was’ draußen
+und der Dunkelheit nicht erkennen, was draußen
 vorgefallen war.
 
-Wir liegen daher durch den Vorgarten auf die Straße,
+Wir liefen daher durch den Vorgarten auf die Straße,
 wo sich gerade vor unserem Hause bereits einige Leute um
 eine mitten auf dem Fahrdamm liegende Gestalt versammelt
 hatten.
 
 Wir hörten, daß ein Auto den ärmlich gekleideten
-Mann, der noch immer ’ kläglich stöhnte, überfahren habe,
+Mann, der noch immer kläglich stöhnte, überfahren habe,
 und es war unter diesen Umständen unsere Pflicht, den Verletzten
 zunächst zu uns ins Haus zu tragen …
 
@@ -274,12 +274,12 @@ Harst, der sein gutes Herz nie verleugnen kann, legte
 dem Manne zu sofort einen Verband an. Kaum war er
 <@pagebreak/>
 hiermit fertig, als in unserem Vorgarten lärmende Stimmen
-laut wurden … ZI eilte mit Justus hinaus, und zu
+laut wurden … Ich eilte mit Justus hinaus, und zu
 unserem Erstaunen sahen wir einen schlanken Herrn von den
 Neugierigen, die unseren Vorgarten noch immer belagerten,
 umringt und fast bedroht … Auf der Straße hielt ein geschlossenes
 Auto. Es war derselbe Kraftwagen, der den
-Fremden irberfahren hatte, und der Herr rief uns nun bittend
+Fremden überfahren hatte, und der Herr rief uns nun bittend
 zu, wir möchten ihn doch vor den empörten Leuten
 schützen … Er sei ganz schuldlos an dem Unfall.
 
@@ -287,12 +287,12 @@ Auch Harald erschien jetzt …
 
 Bevor er sich der erregten Gruppe aber noch genähert
 hatte, stieß der schlanke Herr mit einer lauten Verwünschung
-die aufgebrachte Lage zur Seite, war mit zwei hätten in
+die aufgebrachte Menge zur Seite, war mit zwei Sätzen in
 seinem Auto, das sofort davonraste …
 
 Ein paar Männer rannten dem Kraftwagen johlend
 und zwecklos nach … Die übrigen redeten verworren auf
-uns ein — eine Szene, wie jeder sie sich? leicht ausmalen
+uns ein — eine Szene, wie jeder sie sich leicht ausmalen
 kann … — Harst machte plötzlich kehrt und verschwand in
 der Haustür. Er wußte ja, daß das verehrte Publikum
 lediglich seinetwegen noch in unserem Vorgarten ausharrte,
@@ -314,36 +314,37 @@ Der … Farbige verschwunden …
 
 »Ja,« »meinte Harald achselzuckend, »man ist noch immer
 nicht schlau genug. Man hat uns tadellos … eingewickelt,
-und der arme Verletzte hat das Sandtäschchen und
+und der arme Verletzte hat das Handtäschchen und
 <@pagebreak/>
-alles andere mitgehen heißen und ist durch mein, Schlafe
-Zimmer in den Hof und von da weiter geflüchtet …
+alles andere mitgehen heißen und ist durch mein Schlafzimmer
+in den Hof und von da weiter geflüchtet …«
+
 Justus und ich standen wie die Bildsäulen …
 
-»Schraut, hole uns eine Flasche Rotwein ’auf den
-Ihre,« fügte Harald hinzu. »Der braune Bursche hat zum
+»Schraut, hole uns eine Flasche Rotwein auf den
+Schreck,« fügte Harald hinzu. »Der braune Bursche hat zum
 Glück hier den Zettel mit der Lösung des Banknotenrätsels
 liegen lassen, und vielleicht nehmen seine Freunde nun
 an, daß wir den Pfennig und die falsche Banknote nicht recht
-gewürdigt haben … Der Mann im — Vorgarten, der
+gewürdigt haben … Der Mann im Vorgarten, der
 Schlanke, dürfte James Arwal gewesen sein … Doch all
 das ist zurzeit nebensächlich. Feiern wir die Niederlage mit
 einem Schluck Rotwein … Das ist das klügste, was wir
-tun können … « eine
+tun können … «
 
-»H2. Kapitel.
-Das Tagesgespräch von Madras.
+<h2>2. Kapitel.</h2>
+<h3>Das Tagesgespräch von Madras.</h3>
 
 Trotzdem rief Harald dann noch das Berliner Polizeipräsidium
-an und teilte dem Kriminalkommissar vom Falsch
-gelddezernat alles nötige mit.
+an und teilte dem Kriminalkommissar vom Falschgelddezernat
+alles nötige mit.
 
 Am nächsten Tage gegen sechs Uhr erschien bei uns ein
 Kriminalassistent und meldete, daß die Polizei folgendes
-über James Arwal und seine ’Begleiter festgestellt habe.
+über James Arwal und seine Begleiter festgestellt habe.
 
 Arwal war unter dem Namen Lord Fitzgerald mit
-einer Dame, die er als seine So weiter ausgab, und mit
+einer Dame, die er als seine Schwester ausgab, und mit
 zwei Dienern, einem Farbigen und einem kleinen, stiernackigen
 Engländer, vor drei Tagen im Savoyhotel abgestiegen,
 gestern nachts um zwölf aber im eigenen Auto wieder
@@ -351,82 +352,80 @@ abgereist. Dieses Auto hatte man heute mittag auf der
 Chaussee nach Frankfurt a. d. O. verlassen vorgefunden.
 Jede Spur der Flüchtlinge war seitdem verloren gegangen.
 
-Fluch die nächsten beiden Tage brachten nichts Neues.
-Die vier Leute blieben verschwunden —’ geradezu wie vom
+Auch die nächsten beiden Tage brachten nichts Neues.
+Die vier Leute blieben verschwunden — geradezu wie vom
 Erdboden weggefegt, was doch um so unerklärlicher war,
-a!!3 zwei von ihnen immerhin recht auffällige Erscheinungen
+als zwei von ihnen immerhin recht auffällige Erscheinungen
 <@pagebreak/>
 waren: Der Singhalese und der kleine Engländer, der sehr
-starke O-Beine gehabt haben sollte.
+starke O-Beinige gehabt haben sollte.
 
-Am ritten Tage erklärte Harald beim Mittagessen, daß.
+Am dritten Tage erklärte Harald beim Mittagessen, daß
 wir abends für längere Zeit verreisen würden, — was
 Harsts Mutter zu einem schmerzlichen Seufzer und der Bemerkung
 veranlaßte, sie habe dies schon befürchtet …
-Indienreise … Für uns ein ebenso bekannter Weg.
+Indienreise … Für uns ein ebenso bekannter Weg,
 wie dem Berliner ein Gang durch die Friedrichstraße …
 
 In Genua bestiegen wir den englischen Riesendampfer
 »Sunderland«, nicht als Harst und Schraut …
 
-… Nein, ’al8 sehr bescheidene Zweiter- Kajüte-Fahrgäste.
+Nein, als sehr bescheidene Zweiter-Kajüte-Fahrgäste,
 mit anderen Namen, anderen Gesichtern …
 
-In Madras, wo wir am 30. September eingetroffen.
-waren, herrschte im Hotel he London ginge Aufregung …
-Ecke gab nur ein Gespräch 8thema: Die Ereignisse der letzten
+In Madras, wo wir am 30. September eingetroffen
+waren, herrschte im Hotel de London große Aufregung …
+Es gab nur ein Gesprächsthema: Die Ereignisse der letzten
 vier Tage!! Und diese Ereignisse waren nichts anderes als
-die Plünderung von insgesamt fünfzehn Dampfern und:
-Seglern durch ein Piratenschiff! —
+die Plünderung von insgesamt fünfzehn Dampfern und
+Seglern durch ein Piratenschiff!
 
 Die Aufregung war verständlich, denn jene Zeiten, wo
 malaiische Seeräuber die Küsten Vorderindiens unsicher gemacht
 hatten, waren längst vorüber … Nur in den chinesischen
-Gewässern war dieses Handwerk noch recht beliebt…
+Gewässern war dieses Handwerk noch recht beliebt,
 zumal die politischen Wirren in China den Piraten ihr lichtscheues
 Gewerbe wesentlich erleichterten.
 
 Aber — hier unweit Madras, unweit eines Welthafens,
-— — und gleich fünfzehn Dampfer und Segelschiffe …!7
-Das war denn doch ein starkes Stü, zumal die Piraten es.
+— — und gleich fünfzehn Dampfer und Segelschiffe …!!
+Das war denn doch ein starkes Stück, zumal die Piraten es
 lediglich auf Bargeld und Schmuck abgesehen hatten … —
 
-Allmählich erfuhren wir dann auch ringelte!ten, insbesondere
+Allmählich erfuhren wir dann auch Einzelheiten, insbesondere
 von dem Kapitän eines deutschen Dampfers, mit
-dem wir uns als Landsleute, aber als Kaufleute, Indien
+dem wir uns als Landsleute, aber als Kaufleute, anbiederten.
 
-kletterten.
-
-Das Piratkenfahrzcug war eine mittelgroße Jacht von
-außerordentlicher Geschwindigkeit, die Besatzung sämtlich:
+Das Piratenfahrzeug war eine mittelgroße Jacht von
+außerordentlicher Geschwindigkeit, die Besatzung sämtlich
 Farbige, Malaien und Singhalesen, etwa zwölf Mann,
 der Kapitän ein brauner Gentleman, der mit großer Höflichkeit,
 <@pagebreak/>
-aber mit gemalt so großer Energie vorging. Die
-Bewaffnung: der Jacht bestand aus einem kleinen Schnell-Jeuergeshchüß
-und einem Maschinengewehr. —
+aber mit genau so großer Energie vorging. Die
+Bewaffnung der Jacht bestand aus einem kleinen
+Schnellfeuergeschütz und einem Maschinengewehr. —
 
-— Natürlich hatten die Hafenbehörden sofort alle Schritte
-getan, diese rechten Freibeuter abzufangen … Eine ganze
+Natürlich hatten die Hafenbehörden sofort alle Schritte
+getan, diese frechen Freibeuter abzufangen … Eine ganze
 Flotte von Fahrzeugen war unterwegs, um die Piratenjacht
 einzukreisen. Englische Kreuzer waren durch Funkspruch herbeigerufen
 worden … Kurz — man hatte nichts versäumt,
 hatte alles Erdenkliche getan — ohne Erfolg! —
 
 Am Abend dieses 30. September saßen wir beide auf
-der Terrasse des Hotel he London und genossen das Frühzuge,
-ist in die Farben des Sonnenunterganges getauchte Hafenort
+der Terrasse des Hotel de London und genossen das prächtige,
+in die Farben des Sonnenunterganges getauchte Hafebild …
 
 Die Terrasse war überfüllt. Neben uns hatten an langer
-Tafel die Teilnehmer einer erdolchen Rundreise Platz
+Tafel die Teilnehmer einer Coocschen Rundreise Platz
 genommen, zumeist Amerikaner … Plötzlich unten auf der
 Straße die kreischenden Stimmen kleiner brauner Zeitungsverkäufer
-…? »Neuer Piratenstreich …!! Neuer Piratenstreich!!««
+…: »Neuer Piratenstreich …!! Neuer Piratenstreich!!«
 
-Harald kaufte eine der Extrablätter …
+Harald kaufte eins der Extrablätter …
 
-»Die Jacht Lord Steadings angehalten. Die Tochter
-des Lords entführt. — Vor zwei Stunden lief Lord Stea-dkimg3
+> »Die Jacht Lord Steadings angehalten. Die Tochter
+des Lords entführt. — Vor zwei Stunden lief Lord Steadings
 Jacht »Atlanta«, die von Colombo kam, in unseren
 Hafen ein. Die »Atlanta« ist etwa achtzig Seemeilen südlich
 von Madras am hellen Tage von den Seeräubern angehalten
@@ -434,19 +433,19 @@ worden, obwohl am Horizont zwei englische
 Kreuzer sichtbar waren. Das Piratenfahrzeug, das ja in
 so raffiniert schlauer Weise ständig ein anderes Aussehen
 durch Veränderung der Deckaufbauten, durch Errichten
-von Scheinmasten und durch Wechsel des Anstriche erhält,
+von Scheinmasten und durch Wechsel des Anstrichs erhält,
 hatte diesmal zwei niedere Schornsteine, zwei Masten und
 glich durchaus einer großen Motorpinasse, wie diese zum
-Bootsbestand eines modernen Großkampfschiffes gehören. —
+Bootsbestand eines modernen Großkampfschiffes gehören.
 Der Überfall auf die »Atlanta« spielte sich so rasch ab,
 Daß die Besatzung gar nicht recht zur Besinnung kam. Der
 <@pagebreak/>
-Pirat kam längzözeit, rief die »Atlanta« an und zeigte
-plötzlich sein seuerbereites Buggeschübz. Als acht der braunen
+Pirat kam längsseit, rief die »Atlanta« an und zeigte
+plötzlich sein feuerbereites Buggeschütz. Als acht der braunen
 Seeräuber dann schwerbewaffnet auf dem Deck der
 »Atlanta« erschienen, hatte Miß Honoria Steading, des
 Lords einzige Tochter, nicht mehr Zeit in die Kajüte zu
-flüchten. Sie wurde ergriffen und befand sich im Konzert
+flüchten. Sie wurde ergriffen und befand sich im Moment
 an Bord des Piratenschiffes, das sofort davonjagte,
 nachdem der Gentleman-Kapitän Seiner Lordschaft nur
 noch zugerufen hatte, daß er ihm hinsichtlich des Lösegeldes
@@ -469,11 +468,11 @@ Möglichkeit gedacht … Hob jetzt nur zweifelnd die Schultern
 
 »Sieh mal,« fuhr Harald ebenso leise wie lebhaft fort,
 »wenn Arwal zum Beispiel irgendwo in Europa dieses
-schnelle Schifflein gekauft hat, wenn er mit t diesem Schiff
-sein nach seiner Flucht aus Berlin nach … Mandalar in
+schnelle Schifflein gekauft hat, wenn er mit diesem Schifflein
+nach seiner Flucht aus Berlin nach … Mandalar in
 See gegangen ist, dann …«
 
-Er mußte hier mitten im Satzes abbrechen, da der
+Er mußte hier mitten im Satze abbrechen, da der
 deutsche Kapitän Albers, mit dem wir schon nachmittags
 zusammen gewesen waren und von dem wir so manches
 Über die Seeräuber, wie schon erwähnt, erfahren hatten,
@@ -483,71 +482,68 @@ dann Platz nahm.
 »Tolle Geschichte mit der »Atlanta«!« sagte er und deutete
 auf das Extrablatt. »Nun — mir hat dieser braune
 <@pagebreak/>
-Halunke wenigstens nur zweitausend Mark bares Geld ab-gefnöpsjt
+Halunke wenigstens nur zweitausend Mark bares Geld abgeknöpft
 … Der arme Lord hat seine Tochter hergeben
 müssen …«
 
 Harst, der hier jetzt Horten hieß, während ich wie schon
-oft mich in Schluck umgetauft hatte, fragte Albers, ob er
+oft mich in Schrack umgetauft hatte, fragte Albers, ob er
 uns nicht einen Segelkutterbesitzer empfehlen könne …
-»Wir wollen na; Mandalar, Landsmann … E58 soll dort
-sehr verfeinerte Teppiche geben …«
+»Wir wollen nach Mandalar, Landsmann … Es soll dort
+sehr preiswerte Teppiche geben …«
 
 Albers lachte. »Wie — in dem kleinen Drecknest?! … Wer
-hat Ihnen denn das vorgeredet, Her Horten?! Ich kenne
+hat Ihnen denn das vorgeredet, Herr Horten?! Ich kenne
 Mandalar … Das Fieber werden Sie sich dort holen, aber
 keine Teppiche! — Gewiß — einen Kutterbesitzer könnte ich
 Ihnen nennen, einen alten, drolligen Kauz, früher Steuermann,
 Irländer von Geburt, der sich hier für den Rest seiner
 Tage vor Anker gelegt hat und mit seinem Kutter Frachtfahrten
 unternimmt … O’Kelling heißt er … Reden Sie
-mal mit dem über Mandalar … »Der ist hier an der Ostküste
-noch bewanderter wie ich …
+mal mit dem über Mandalar … Der ist hier an der Ostküste
+noch bewanderter wie ich …«
 
-Während Landsmann Albers dies so halb:im Hamburger
+Während Landsmann Albers dies so halb im Hamburger
 Platt uns mitteilte, hatte ich einen besonderen Blick
-Haralds ausgscjangen … Und Haralds Augen glitten mir
+Haralds aufgefangen … Und Haralds Augen glitten nun
 unauffällig nach links, wo inmitten der Terrasse ein Springbrunnen
-Blätterte. Dort stand ein kleiner, breitschultriger
-Europäer mit unglaublich dünnen O-Beinen, — mit Beinen,
+plätscherte. Dort stand ein kleiner, breitschultriger
+Europäer mit unglaublich dünnen O-Beinige, — mit Beinen,
 die den wuchtigen Körper kaum tragen zu können schienen
 … Der Mann war in einen Leinenanzug gekleidet —
 mit Kniehosen, und seine ganze Figur wirkte so urkomisch,
-daß auch an den Nebentischen über Ei Sees Männlein stille
-Heiterkeit herrschte, zumal er sich mit einem baumlange!!,
+daß auch an den Nebentischen über dieses Männlein stille
+Heiterkeit herrschte, zumal er sich mit einem baumlangen,
 dürren Inder unterhielt, der sich tief zu ihm herabgebückt
 hatte …
 
-Ich wußte, was Haralds Blick bedeutete: Dieser geringe
+Ich wußte, was Haralds Blick bedeutete: Dieser O-Beinige
 konnte sehr gut der »Diener« Lord Fitzgeralds sein
 — also der Begleiter James Arwals! —
 
 Harst sagte denn auch nach einer Weile zu Landsmann
-Albers;
+Albers:
 
 <@pagebreak/>
-»Entschuldigen. Sie — ich will mir nur aus meinem
+»Entschuldigen Sie — ich will mir nur aus meinem
 Zimmer Zigaretten holen …«
 
-Und als er dies sagte, hatte der O-Bergige sich gerade
+Und als er dies sagte, hatte der O-Beinige sich gerade
 von dem langen Inder verabschiedet und die Terrasse verlassen
 …
 
-Albers und ich mußten eine volle Stunde aus Haralds
-rührte warten. Dann erschien er endlich, nahm Platz un9
+Albers und ich mußten eine volle Stunde auf Haralds
+Rückkehr warten. Dann erschien er endlich, nahm Platz und
 meinte: »Ich sprach mit dem Hoteldirektor über Mandalar
 … Er hält eine Fahrt dorthin doch für lohnend …«
 
 Kapitän Albers merkte nichts …
 
-Ich war geträumt, was Harst über den O-Peiniger in
+Ich war gespannt, was Harst über den O-Beinige in
 Erfahrung gebracht hatte …
 
-4
-» ck; Ww —
-
-— 3. Kapitel.
-Madras bei nach)’1t.
+<h2>3. Kapitel.</h2>
+<h3>Madras bei Nacht.</h3>
 
 Albers verabschiedete sich kurz vor Mitternacht. Wir
 gingen in unsere Zimmer nach oben …
@@ -557,11 +553,11 @@ Reisemütze und dann — vorwärts! Wir sind auf der richtigen
 Fährte … Du wirst schon sehen …« —
 
 Das Eingeborenenviertel von Madras unterscheidet
-sich nur dadurch; von dem anderer indischer Häfen,
-hab’ es hier noch mehr chinesische Spelunken übelster
-Art gibt. -Die Chinesen sind ja überall in der Welt
+sich nur dadurch von dem anderer indischer Häfen,
+daß es hier noch mehr chinesische Spelunken übelster
+Art gibt. Die Chinesen sind ja überall in der Welt
 die Verbreiter geheimer Laster. Ihr Geschäftssinn, ihre
-Habgier schlich vor nichts zurück. Die Opiumhöhlen in
+Habgier schrickt vor nichts zurück. Die Opiumhöhlen in
 Madras, die Freudenhäuser: Chinesen sind die Besitzer!
 
 … Ein enges, übelduftendes Gäßchen … Aus den
@@ -569,17 +565,17 @@ schmierigen Backsteinhäusern dringt das Gedudel von Grammophonen
 ins Freie, das Johlen trunkener Matrosen, das
 Kreischen von Hafendirnen … Hin und wieder auch der
 wüste Lärm einer Schlägerei … Hin und wieder ein Gebrüll,
-als ob nicht Menschen, sondern Bestien hier tolle ersten
+als ob nicht Menschen, sondern Bestien hier tolle Orgien
 <@pagebreak/>
-Zeichen … — Über jeder Haustür pendelt im Winde
+feiern … — Über jeder Haustür pendelt im Winde
 eine trübe Laterne, rot, grün, gelb, orange … Und jede
 Laterne hat ihre bestimmte Bedeutung.
 
 Diese Gasse ist die berüchtigte »Kleine Basarstraße« …
-Am Tage halten heller tatsächlich Händler ihre Waren sei!.
+Am Tage halten hier tatsächlich Händler ihre Waren feil.
 Von neun Uhr abends ändert sich das Bild …
 
-Wir beide gehen mitten aus dem holperigen Fahrdamm
+Wir beide gehen mitten auf dem holperigen Fahrdamm
 … Denn hier ist’s ratsam, den Häusern fern zu
 bleiben … Hier ist schon mancher Europäer hinterrücks
 aus dem Dunkel eines Torwegs niedergeschlagen worden.
@@ -596,84 +592,83 @@ und endlich nun flüstert Harald mir zu:
 »Die erleuchteten Fenster …«
 
 Ich blicke empor … Drüben im ersten Stock des
-neueren Hauses sehe ich breite Fenster, mit gelassen Seidenvorhängen,
-mit bunten Verzierungen … Höre jetzt
+neueren Hauses sehe ich breite Fenster, mit gerafften
+Seidenvorhängen, mit bunten Verzierungen … Höre jetzt
 auch eine grelle Musik, die bald zu einem Winseln erstirbt,
-bald zu widersinnigem Lärm anschwillti: Jazzband! Natürlich
-Jazzband! — Ecke, wie über die Seidenvorhänge
-die Schatten von Tanzenden hinweggaleiten … Manche
+bald zu widersinnigem Lärm anschwillt: Jazzband! Natürlich
+Jazzband! — Sehe, wie über die Seidenvorhänge
+die Schatten von Tanzenden hinweggleiten … Manche
 Schatten klar genug, daß ich moderne Frisuren von Damen
 und modern entblößte Schultern erkenne …
 
-Harald sagt: »(As ist dies hier nur die Rückseite, die
-Hinterfront des Palais he Danke von Madras … Aber
-der O-Bergige ging von hier hinein, nachdem er sechsmal
+Harald sagt: »Es ist dies hier nur die Rückseite, die
+Hinterfront des Palais de Danse von Madras … Aber
+der O-Beinige ging von hier hinein, nachdem er sechsmal
 gegen die Tür geklopft und dann dreimal gehustet hatte …«
 
-Hm — das Sessel mir nicht. »Harald, das Tanzlokal
+Hm — das gefiel mir nicht. »Harald, das Tanzlokal
 befindet sich im ersten Stock. Im Erdgeschoß ist alles dunkel
 … Wer weiß, in welch eine Lasterhöhle wir geraten,
-wenn …««
+wenn …«
 
 <@pagebreak/>
-»Schon gut, Alterchen … Du baldigst wieder dem
-Grundsatz: Vorsicht ist die Mutter vom Porzellangeschhäftk
-— Idee deine Clement entsichert in die rechte Hosentasche,
-und du wirst. die Knallbüchse stets schnell genug zücken können,
-um irgendeinem schlitzäugigen Satan ein Loch in der
-Schädel pusten zu können, bevor er Dir die Klarinette zu-quetscht
+»Schon gut, Alterchen … Du huldigst wieder dem
+Grundsatz: Vorsicht ist die Mutter vom Porzellangeschäft!
+— Stecke deine Clement entsichert in die rechte Hosentasche,
+und du wirst die Knallbüchse stets schnell genug zücken können,
+um irgendeinem schlitzäugigen Satan ein Loch in den
+Schädel pusten zu können, bevor er Dir die Klarinette zuquetscht
 …«
 
 Dann schritt er über die Gasse …
 
-Tote! sechsmal kräftig an die Tür und hastete drei
-na
+Pochte sechsmal kräftig an die Tür und hustete drei
+mal …
 
 Die Tür ging lautlos auf …
 
 ich stand dicht hinter Harald …
 
-Sah nur im Dunkeln hinter der Tür die Umrisse einer«
-Mä… bis Mist hoffst »Pult [Ltiilfkiir fl Üpabibri -o
+Sah nur im Dunkeln hinter der Tür die Umrisse einer
+mächtigen Gestalt und ein Paar funkelnde Augen …
 
 Der Kerl war ein Neger in einer schäbigen Livree …
 
 Harald trat ein, ich recht zögernd wieder ihm dicht auf
 den Fersen, die Hand um die Repetierpistole gekrallt …
 
-Tür schloß sich ebenso lautlos. Ich hörte zwei
+Die Tür schloß sich ebenso lautlos. Ich hörte zwei
 Riegel knirschen … Dann flammte eine elektrische grüne
 Ampel auf. Der Neger stand vor einem Tischchen an der
 Hinterwand und kramte in einer Kassette, hielt uns dann
-zwei Eintrittskarten hin. Harald zahlte und gab noch.
+zwei Eintrittskarten hin. Harald zahlte und gab noch
 Trinkgeld …
 
 Der schwarze Goliath dankte kurz, winkte uns … »Bitte,
-Ei an den Tisch, meine Herren« — in tadellosem eng
+dicht an den Tisch, meine Herren« — in tadellosem englisch
+…
 
-so …
-
-Dann … versank mit einem Male daß Mittelstück des
+Dann … versank mit einem Male das Mittelstück des
 bunten Steinfußbodens, und eine matt erhellte Treppe
 wurde sichtbar …
 
-Harst tat so, als ob er all daß längst kenne … Zog
+Harst tat so, als ob er all das längst kenne … Zog
 mich mit sich zur Treppe …
 
 Über uns schloß sich das Fußbodenloch wieder, und vor
 uns katzbuckelte ein hagerer Chinese, fragte in seltsam blubberndem
 Tone: »Auf wessen Empfehlung, die Herren?«
 
-Verflucht — da saßen wir fest …!! Empfehlung zu
+Verflucht — da saßen wir fest …!! Empfehlung auch
 <@pagebreak/>
 noch!! Diese Vorsichtsmaßregeln ließen der unruhigen
-Phantasie den weitesten Spielraum …[
+Phantasie den weitesten Spielraum …!
 
 Aber mein alter Harst, nie zu verblüffen, sagte ganz
-Gbundeschnäuzig:
+hundeschnäuzig:
 
-»Mr. Juni …« Nannte also einen Allerweltsnamen,
-der vielleicht auch hier. Geltung hatte …
+»Mr. Smith …« Nannte also einen Allerweltsnamen,
+der vielleicht auch hier Geltung hatte …
 
 Und siehe da: Der Gelbe nickte, hob einen Vorhang,
 bat um die Eintrittskarten und … hob einen zweiten,
@@ -681,46 +676,46 @@ noch tieferen Vorhang …
 
 Wir betraten einen saalartigen schmalen Raum, in dem
 etwa fünfzig Personen an kleinen Tischen saßen. Im Hintergrund
-befand sich ein Podium, eine Miniaturbüöhne, auf
-der bei greifen Scheinwerferbeleuchtung eine chinesische
-»Schauspielertruppe eines jener altchinesischen: Stücke spielte,
-deren Inhalt einfach) nicht wiederzugeben ist — wenigstens
+befand sich ein Podium, eine Miniaturbühne, auf
+der bei greller Scheinwerferbeleuchtung eine chinesische
+Schauspielertruppe eines jener altchinesischen Stücke spielte,
+deren Inhalt einfach nicht wiederzugeben ist — wenigstens
 nicht hier … — Es mag genügen, wenn ich daran erinnere,
 daß die Söhne des unendlichen Chinas von allen
-Völkern die lüsternsien und in Liebesdingen die verderbtesten
-sind. Im übrigen hat diese widerwärtig-absioßende
-Gerberei (ich finde kein vollendetes Wort!) auch nichts mit
+Völkern die lüsternsten und in Liebesdingen die verderbtesten
+sind. Im übrigen hat diese widerwärtig-abstoßende
+Ferkelei (ich finde kein passenderes Wort!) auch nichts mit
 unserem Abenteuer zu tun. Genug — wir lernten »Madras
 bei Nacht« kennen … Nahmen an einem leeren Tische
 Platz und schauten uns in dem Dreivierteldunkel, das hier
 im Zuschauerraum herrschte, neugierig um …
 
-Diebe Teppiche überall … Lautlos gleitende junge Chinesinnen
+Dicke Teppiche überall … Lautlos gleitende junge Chinesinnen
 als bedienende »Damen« … Halbe Kinder noch,
-denen die Kostümsrage kein Kopfzerbrechen bereitete …
+denen die Kostümfrage kein Kopfzerbrechen bereitete …
 
-Eine sauste Musik kam irgendwoher …
+Eine sanfte Musik kam irgendwoher …
 
-… Das Publikum, zumeist bessere Europäer, wieherte zuweilen
+Das Publikum, zumeist bessere Europäer, wieherte zuweilen
 hell auf … Zumeist verhielt es sich still … Es gab
 zu viel zu sehen …
 
-Harst bestellte flüsternd bei einer der ssüsternden Heben
+Harst bestellte flüsternd bei einer der flüsternden Heben
 ebenfalls Sekt. —
 
 Wir hatten unseren Mann sehr bald bemerkt …
 
-Der O-Fernglas saß mit einem zweiten Europäer zur
-»Umweg — halb lin!38 von uns an der Wand. Sein Gefährte
+Der O-Beinige saß mit einem zweiten Europäer zusammen
+— halb links von uns an der Wand. Sein Gefährte
 <@pagebreak/>
-war. eine Erscheinung, die jeden durch ihre prasselte Häßlichkeit
-geradezu verwirren mußte. Ein Amtsrichter alter
-Kerl mit einer blauen, knolligen Säufernase, mit breiten:
+war eine Erscheinung, die jeden durch ihre groteske Häßlichkeit
+geradezu verwirren mußte. Ein untersetzter alter
+Kerl mit einer blauen, knolligen Säufernase, mit breitem
 Maul, kurzer Oberlippe, so daß drei schwarze Zahnstummel
-dauernd sichtbar waren … Kahlkopf — aber mitten alt;j
-dem Schädel noch einen Büschel brandroten Klares —
+dauernd sichtbar waren … Kahlkopf — aber mitten auf
+dem Schädel noch einen Büschel brandroten Haares —
 brandrot wie der Schifferbart … In gelbem Leinen steckte
-dieses Unikum … Vor dem Spißbaiuich auf der Weste baumelte
+dieses Unikum … Vor dem Spitzbauch auf der Weste baumelte
 eine die goldene Uhrkette mit zahllosen Anhängern …
 
 Ich beschreibe das Äußere dieses Mannes hier nicht
@@ -737,26 +732,25 @@ hinausschwankten …
 ihnen wieder auf der stinkenden Gasse standen …
 
 Daß wir dem Paare folgten und bald die Lichter der
-Kanianlagen des Spione vor und aufblitzen sahen …
+Kaianlagen des Hafens vor uns aufblitzen sahen …
 
-Die beiden hatten schwer geladen. Der O-Bergige war
-jedoch um fünfzig Prozent voller des süßen meines, denn
+Die beiden hatten schwer geladen. Der O-Beinige war
+jedoch um fünfzig Prozent voller des süßen Weines, denn
 der andere spielte hauptsächlich Stütze …
 
 Am Hafen schwenkten sie links ab zu einem Seitenarm,
 wo nur kleinere Fahrzeuge lagen …
 
 Lag da auch ein großer Kutter mit zwei Masten am
-Bollwerk, mit kleinem Heckaufbau … Dorf verschwanden
+Bollwerk, mit kleinem Heckaufbau … Dort verschwanden
 die beiden … Dort wurde es hell hinter den kleinen
 Fenstern.
 
 Harald wartete … Wir standen hinter einem Stapel
-unserer verreist:Messer … Fünfzehn Schritt vor uns der
+unserer Petroleumfässer … Fünfzehn Schritt vor uns der
+Kutter …
 
-Mutter …
-
-»Feine Seele an Deck,« meinte Harst …: »Wagen wir
+»Keine Seele an Deck,« meinte Harst … »Wagen wir
 es also … Ich möchte hören, was die beiden reden …
 Kommt mir sonderbar vor, dieses Paar …«
 
@@ -771,27 +765,27 @@ hineinsehen, sondern auch jedes Wort verstehen konnten
 Auf einem Rohrsofa hinter einem runden Tisch saßen
 die beiden … Vor sich Whisky, Eis und Sodawasser …
 
-Gleich das erste Wort, das der O-Bergige sprach, ging
+Gleich das erste Wort, das der O-Beinige sprach, ging
 uns wie ein leichter elektrischer Schlag durch den Körper …
 
-»O’Kelling. Sie sind verdammt neugierig,« lallte. der
+»O’Kelling, Sie sind verdammt neugierig,« lallte der
 Stiernackige mit blödem Grinsen. »Sollen nicht so viel fragen,
 O’Kelling … Sollen tun, was ich fordere … Bezahle
 gut, O’Kelling …«! —
 
-Die Triefaugen des Irländers (ohne Zweifel war -cs
-der Kutterbesikber, den Landsmann Albers uns empfohlen
+Die Triefaugen des Irländers (ohne Zweifel war es
+der Kutterbesitzer, den Landsmann Albers uns empfohlen
 hatte) öffneten sich einen Moment ganz weit … Und diese
 Augen wirkten diesen Moment lang ganz anders … Der
 Mann schien wie verwandelt … Überlegene Schlauheit
-blitzte in diesen bisher so tranken- schläfrigen Äuglein …
+blitzte in diesen bisher so trunken-schläfrigen Äuglein …
 
 Dann sagte O’Kelling rülpsend:
 
-— »Verdammt. trinken wir eins, Honorar … Prosit …
-Solch. ein Whisky wie dieser — O — seines Zeug …!«
+»Verdammt, trinken wir eins, Harplay … Prosit …
+Solch ein Whisky wie dieser — o — feines Zeug …!«
 
-Honorar trank, rülpste gleichfalls, lallte wieder: »Nun
+Harplay trank, rülpste gleichfalls, lallte wieder: »Nun
 — nun ist’s aber genug … Erst … erst … das Geschäft,
 O’Kelling …«
 
@@ -803,113 +797,115 @@ Ihrer Leute sicher?«
 »Habe nur vier an Bord, und die fahren mit mir bereits
 fünf Jahre diese gesegnete Küste auf und ab … Sind
 Malaien, die vier … Treu wie Hunde, verschwiegen wie
-daß Grab und nüchtern wie der General der Heilsarmee …
-Mohammedaner, die wirklich klomm sind … Gibt nicht
+das Grab und nüchtern wie der General der Heilsarmee …
+Mohammedaner, die wirklich fromm sind … Gibt nicht
 viele von der Sorte …«
 
 <@pagebreak/>
-Honorar suchte die Trunkenheit zu meistern … soll zwei
+Harplay suchte die Trunkenheit zu meistern … soff zwei
 Glas reines Sodawasser und kaute Eisstückchen …
+
 »O’Kelling,« begann er wieder, »Sie sind mir als ein
 Mann von Wort bekannt … Bevor ich Ihnen mein …
 Geschäft unterbreite, müssen Sie mir …«
+
 Was O’Kelling sollte, entging uns leider …
-fühlt Wir hatten uns hier auf dem flachen Dach zu sicher gestatten
-nicht damit gerechnet, daß wir vielleicht doch beobachtet
-worden waren, Daß auch andere ebenso katzengleich
+
+Wir hatten uns hier auf dem flachen Dach zu sicher gefühlt
+…
+
+Hatten nicht damit gerechnet, daß wir vielleicht doch beobachtet
+worden waren … Daß auch andere ebenso katzengleich
 wie wir vorhin hier nach oben gelangen könnten …
 Jeder von uns bekam’s gleich mit zwei Gegnern zu
-tun … Aus jedem von uns lagen plötzlich zwei Kerle …
-Und diese Partie stand schlecht für uns … Im Handume-drehen
-hatte man uns halb erwürgt … ’ Dann erhielt ich
+tun … Auf jedem von uns lagen plötzlich zwei Kerle …
+Und diese Partie stand schlecht für uns … Im Handumdrehen
+hatte man uns halb erwürgt … Dann erhielt ich
 noch einen Klaps vor den Schädel, worauf mein Geist sich
 für längere Zeit empfahl … Ich war bewußtlos …
 
-4
-F= vv »Nu vw
+<h2>4. Kapitel.</h2>
+<h3>Nochmals eine Elfenbeinkugel.</h3>
 
-». 4. Kapitel.
-Nochmals eine Elfenbeinkugel.
-
-Der Gestank von Teer, Karbolineum und häufigen
+Der Gestank von Teer, Karbolineum und fauligem
 Seewasser kitzelte meine Nasenschleimhäute …
 
-nickte mehrmals — -« und war was …
+Ich nieste mehrmals — — und war wach …
 
-»Prosit!« sagte ein tiefer Baß … »Nun ist, ja auch
-der zweite wieder mit seinem Hirn in Ordnung …
+»Prosit!« sagte ein tiefer Baß … »Nun ist ja auch
+der zweite wieder mit seinem Hirn in Ordnung …«
 
-Eis war O’Kellings Stimme …
+Es war O’Kellings Stimme …
 
 Ich blinzelte in das Licht einer großen Schiffslaterne,
 die links von mir auf Sandsäcken stand …
 
-Ich richtete mich auf und fühlte unter mir Gleichklang
-Sandsäcke, sah neben mir Haralds vertraute Gestalt, un9
-gegenüber den Irländer und den O-Peinigen, jeder mit
+Ich richtete mich auf und fühlte unter mir gleichfalls
+Sandsäcke, sah neben mir Haralds vertraute Gestalt, uns
+gegenüber den Irländer und den O-Beinige, jeder mit
 einem Revolver in der Pfote …
 
-»Dann können wir nun ja wohl beginnen,« brummt;
+»Dann können wir nun ja wohl beginnen,« brummte
 <@pagebreak/>
-O’Kcelling von neuem. »Wir haben Ihre Taschen durchsucht
+O’Kelling von neuem. »Wir haben Ihre Taschen durchsucht
 … Ihren Papieren nach sind Sie deutsche Kaufleute
-— Horten und Schloß … was in drei deutete Namen.
+— Horten und Schrack … was in drei Teufels Namen
 veranlaßte Sie, uns zu belauschen?!«
 
-Harst lebte sich bequemer, erwiderte harmlos: »Eigentlich
+Harst setzte sich bequemer, erwiderte harmlos: »Eigentlich
 hatten wir dazu einen sehr unverfänglichen Grund, Mr.
-O’Felling …
+O’Kelling …«
 
-»So?!« grinste jetzt Honorar voller Hohn. »Das können
-Sie des Spione Großmutter erzählen, nicht uns!«
+»So?!« grinste jetzt Harplay voller Hohn. »Das können
+Sie des Satans Großmutter erzählen, nicht uns!«
 
-O’Sclling knurrte mißgelaunt: »Überlassen Sie mir
-tags Verhör, Apparat, verstanden! Wir sind hier im Kielraum
+O’Kelling knurrte mißgelaunt: »Überlassen Sie mir
+das Verhör, Harplay, verstanden! Wir sind hier im Kielraum
 meines Kutters, und auf meinem Kutter habe nur
-ich zu befehlen. — Also, Mr. Herren, weshalb spionierten
+ich zu befehlen. — Also, Mr. Horten, weshalb spionierten
 Sie?«
 
 »Wir spionierten überhaupt nicht, Mr. O’Kelling …
 Kapitän Albers hatte Sie uns empfohlen, und wir wollten
 Sie sprechen … Weil wir aber merkten, daß Sie und Ihr
-Gesund da offenbar nicht recht nüchtern waren, gedachten
+Freund da offenbar nicht recht nüchtern waren, gedachten
 wir erst mal festzustellen, ob’s überhaupt lohnte, mit Ihnen
 in diesem Zustande zu verhandeln. Wir kletterten auf das
 Dach und schauten durch das Lüftungsfenster … Dann
-sieben Ihre Kerle über uns her … Es waren doch Ihre
+fielen Ihre Kerle über uns her … Es waren doch Ihre
 Leute?«
 
-»Und ob!! — Also Albers hat Sie hergeschickt, Nun
+»Und ob!! — Also Albers hat Sie hergeschickt. Nun
 gut … Und — was wünschten Sie!«
 
-»Ihren Futter wollten wir mieten … Wir sind Teppichaufkäufer
+»Ihren Kutter wollten wir mieten … Wir sind Teppichaufkäufer
 und möchten die kleinen Küstenorte abklappern
-… Fragen Sie Albers. Er wird’2ck Ihnen bestätigen
+… Fragen Sie Albers. Er wird’s Ihnen bestätigen
 …«
 
-— »Na — fragen wird nicht nötig sein, Mr. Horten …
+»Na — fragen wird nicht nötig sein, Mr. Horten …
 Denn so frech werden Sie ja kaum lügen … Und Albers
-ha: schon manchen zu mir geschickt …«
+hat schon manchen zu mir geschickt …«
 
-Burgtor setzte gluckernd …
+Harplay feixte gluckernd …
 
-»O’Kelling, Sie lassen sich von den beiden sein einzig
+»O’Kelling, Sie lassen sich von den beiden fein einwickeln
 …! — Mann, das sind rare Vögel, sag’ ich
-»her …! Das sind.
+Ihnen …! Das sind …«
 
 <@pagebreak/>
-»Halten Sie Ihr Maul, Honorar …! Ich bin kein:
+»Halten Sie Ihr Maul, Harplay …! Ich bin kein
 Idiot …! Und ich habe ein reines Gewissen … Die beiden
-Herren da haben Papiere auf die Namen Horten und«
-Schluck, und wenn Albers sie schickte, so stimmt die Sache …
+Herren da haben Papiere auf die Namen Horten und
+Schrack, und wenn Albers sie schickte, so stimmt die Sache …«
 
-Der O-Bergige fixierte uns durchdringend … Der
+Der O-Beinige fixierte uns durchdringend … Der
 Mensch hatte Augen im Schädel, wie ein hinterlistiger Panther,
 und zudem war er nun völlig nüchtern …
 
-»Vielleicht sind Sie das ein Idiot, O’Kelling.« sagte
+»Vielleicht sind Sie das ein Idiot, O’Kelling,« sagte
 er grob. »Teppichhändler tragen keine Repetierpistolen und
-Taschenlampen und Patentdietriche bei sich …!! -Der Teufel
+Taschenlampen und Patentdietriche bei sich …!! Der Teufel
 soll mich vierteilen, wenn das nicht Polizeispitzel sind …!«
 
 Und mit einem Male stand er auf, packte zu … und
@@ -917,16 +913,16 @@ schwenkte meine Perücke in der Hand, riß mir auch ebenso
 flink den blonden Bart ab …
 
 »Hölle und Teufel!« brüllte der Irländer jetzt …
-»Honorar, Sie haben recht …!!«
+»Harplay, Sie haben recht …!!«
 
 Und er griff in die Westentasche, holte eine Signalpfeife
 hervor, hatte sie schon an den Lippen …
 
-— Wenn er und Garnison es hier wirklich nur mit zwei
+Wenn er und Harplay es hier wirklich nur mit zwei
 Teppichaufkäufern zu tun gehabt hätten, würden die Dinge
-wohl anders verlangen sein …
+wohl anders verlaufen sein …
 
-Aber ein ungefesselten Harald Harst und zwei solche
+Aber ein ungefesselter Harald Harst und zwei solche
 Gegner, — da wurde die Geschichte denn doch ein wenig anders
 gedreht …
 
@@ -934,30 +930,31 @@ Harst schlug zu, schnellte empor …
 
 Schlug zu — mit beiden Fäusten …
 
-Honorar flog in eine Plätze Kielwasser, und O’Kelling
+Harplay flog in eine Pfütze Kielwasser, und O’Kelling
 rollte nach hinten und schnappte keuchend nach Luft …
 
-Ich war im Moment bei Honorar, hatte ihm im Augenblick
-mit dem Taschentuch die Hände auf dem Rüden gefunden
+Ich war im Moment bei Harplay, hatte ihm im Augenblick
+mit dem Taschentuch die Hände auf dem Rücken gebunden
 und stopfte ihm sein eigenes Taschentuch in den
 Mund …
 
-Harald hob den Irländer empor, echte ihn aufrecht Monate:
+Harald hob den Irländer empor, setzte ihn aufrecht und
+sagte:
 
 »O’Kelling, Sie werden jetzt ganz vernünftig sein …
 <@pagebreak/>
 Daß mit uns nicht zu spaßen ist, haben Sie gemerkt. Trotzdem
 sind wir keine Polizeispitzel …«
 
-O’Kelling größte Harst aus schwimmenden Äuglein
+O’Kelling glotzte Harst aus schwimmenden Äuglein
 an … »Was … was sind Sie denn sonst?!« brachte er
 mühsam hervor. »Teppichhändler tragen keine … keine
 Verkleidung …« —
 
 »Manchmal doch, — wenn es gilt, die Konkurrenz zu
-täuschen … niederlegen Sie sich doch mal: weshalb sollten
-wir Sie belauschen?! Ich versichere Ihnen, daß wir ’nur
-durch) Kapitän Albers aus Sie aufmerksam geworden sind …
+täuschen … Überlegen Sie sich doch mal: weshalb sollten
+wir Sie belauschen?! Ich versichere Ihnen, daß wir nur
+durch Kapitän Albers auf Sie aufmerksam geworden sind …
 Und ich wiederhole: Wir wollten Ihren Kutter für vorläufig
 acht Tage mieten. Schließen wir also Frieden, O’Kelling
 … Nennen Sie uns die Summe, die Sie für eine Woche
@@ -967,9 +964,9 @@ Der Irländer wurde etwas verlegen …
 
 »Ich will ja an Ihren Worten nicht länger zweifeln,
 Herr Horten,« meinte er unsicher, indem er einen fragenden
-Bis auf den O-Peinigen warf … »Sie haben ja ganz
+Blick auf den O-Beinige warf … »Sie haben ja ganz
 recht: Weshalb sollen Sie es auf mich, einen schlichten
-alten Seemann, abgesehen haben, der noch nie mit den Gesehen
+alten Seemann, abgesehen haben, der noch nie mit den Gesetzen
 irgendwie in Konflikt geraten ist?! Aber — den Kutter
 kann ich Ihnen nicht vermieten … Ich habe für die
 nächste Zeit reichlich Beschäftigung …«
@@ -978,18 +975,18 @@ Harst zuckte die Achseln …
 
 »Dann allerdings … — dann Wollen wir uns nicht
 länger gegenseitig zur Last fallen …« Er wandte sich an
-Honorar … »Entschuldigen Sie, daß wir mit Ihnen so
+Harplay … »Entschuldigen Sie, daß wir mit Ihnen so
 brutal uns auseinandergesetzt haben … Es ist dies sonst
-nicht unsere Art … Nichts für ungut, Mr. Honorar …
+nicht unsere Art … Nichts für ungut, Mr. Harplay …
 Man kann sich eben irren … Und das haben Sie getan …«
 
 Er nahm ihm den Knebel ab und dann auch die Handfessel
 …
 
-Und zu O’Kelling: »Mein Kollege Schluck warf sich
+Und zu O’Kelling: »Mein Kollege Schrack darf sich
 wohl in Ihrer Kajüte den Bart wieder vorkleben …«
 
-»Gewiß … Gehen wir nach oben …
+»Gewiß … Gehen wir nach oben …«
 
 Als wir an Deck gelangten, war es bereits taghell. Der
 <@pagebreak/>
@@ -1001,110 +998,111 @@ und durch den Aufenthalt im Kielraum reichlich
 ramponierten Anzügen unserem Hotel zu, ein langer, peinlicher
 Weg, denn jeder hielt uns fraglos für Nachtschwärmer.
 Und doch war Freund Harald in bester Laune, machte
-mich auf die Eigenheiten des morgendlichen Straßenleben838
+mich auf die Eigenheiten des morgendlichen Straßenlebens
 hier in Madras aufmerksam und redete von allem Möglichen,
 nur nicht von dem Abenteuer dieser etwas wilden
 Nacht. Ich war geradezu hundemüde. Der Schädel brummte
 mir, und meine einzige Sehnsucht war mein Bett im Hotel
-he London. — Der farbige Hotelportier musterte uns mit
+de London. — Der farbige Hotelportier musterte uns mit
 eigentümlichen Blicken. Ich glaube, er grinste sogar verstohlen.
-sich … grinste nicht, denn Harald sagte oben in
+Ich … grinste nicht, denn Harald sagte oben in
 unserem Wohnsalon: »Wechseln wir schnell die Anzüge,
-und dann … zu Fideler«
+und dann … zu Albers!«
 
-»Und … schlafen?!!« wagte ich zu fragen, während ein
+»Und … schlafen?!« wagte ich zu fragen, während ein
 förmlicher Gähnkrampf meinen Unterkiefer zittern ließ …
 
-»Später, mein Alter … später … Du wirst sehen;
-daß ein Besuch bei Albers sich lohnt …
+»Später, mein Alter … später … Du wirst sehen,
+daß ein Besuch bei Albers sich lohnt …«
 
 Und um sieben Uhr betraten wir dann wirklich das
 Deck des deutschen Dampfers »Triton«. Der erste Steuermann,
-der ’das Löschen der Ladung beaufsichtigte, sagte uns,
+der das Löschen der Ladung beaufsichtigte, sagte uns,
 daß Albers in seiner Kajüte sei und Besuch habe — — Mr.
-Altan O’Kelling …
+Allan O’Kelling …
+
 »Dachte ich mir,« nickte Harald. »Kommt uns sehr gelegen.«
 
 O’Kelling machte große Augen, als wir in der Kajüte
 erschienen. Albers schüttelte uns schmunzelnd die Hand. »Die
 Herren kennen sich ja bereits … O’Kelling hat sich soeben
-nach Ihnen beiden erkundigt … Nehmen Sie Platz …
+nach Ihnen beiden erkundigt … Nehmen Sie Platz …«
 
 »Damit rechnete ich,« erklärte Harst sehr ernst. »Ich
 hätte mit O’Kelling einiges zu besprechen. — Wenn Sie uns
-Frühstitck Fremden wollten, and8mann Albers, wären wir
+Frühstück spenden wollten, Landsmann Albers, wären wir
 Ihnen dankbar …«
 
 <@pagebreak/>
 Nachdem der Schiffskoch allerlei leckere Dinge vor uns
-ausgebaut hatte, begann Harald:
+aufgebaut hatte, begann Harald:
 
-»Nr. O’Kelling, seit wann stehen Sie mit diesem Hafenkai
+»Mr. O’Kelling, seit wann stehen Sie mit diesem Harplay
 in geschäftlichen Beziehungen?«
 
-»Hm — kennen tue ich ihn seit zwei Fahren … Er ist
+»Hm — kennen tue ich ihn seit zwei Jahren … Er ist
 Agent in Mandalar, Agent für alles … Geschäfte habe ich
-mit ihm noch nicht gemacht, Mr. Horten …
+mit ihm noch nicht gemacht, Mr. Horten …«
 
 »jetzt haben Sie jedoch Ihren Kutter an ihn vermietet,
-glaube ich …
+glaube ich …«
 
-»Geht Sie nichts an,« brummte das blaunasige Utini-kum
+»Geht Sie nichts an,« brummte das blaunasige Unikum
 …
 
-»Vielleicht doch, Mr. O’Kelling … Sie sollen altes
-in allem ein Ehrenmann sein … Und Honorar ist ebenso
+»Vielleicht doch, Mr. O’Kelling … Sie sollen alles
+in allem ein Ehrenmann sein … Und Harplay ist ebenso
 sicher ein großer Lump. — Wir wollen hier mit offenen
-Karten spielen … Art Albers weiß nicht, daß mein w«9-
-unserer matte Harald Harst ist … Ich bin Detektiv, und Dolch
+Karten spielen … Auch Albers weiß nicht, daß mein wahrer
+Name Harald Harst ist … Ich bin Detektiv, und dies
 hier ist mein Freund Schraut, der …«
 
-O’Kelling hatte mit seiner Riesenfaust auf« die Tischplatte
+O’Kelling hatte mit seiner Riesenfaust auf die Tischplatte
 geschlagen …
 
-»Herkommt, — — also Harst …!!! Das Bärte ich Pirat
+»Verdammt, — — also Harst …!! Das hätte ich nicht
 gedacht!!«
 
 Auch Albers starrte uns fast ungläubig an …
 
 »Wir wollen die Sachlage recht schnell klären,« meinte
-Harald. »Hören Sie zu, weshalb wir nach Indien getan«-
-men sind … Ich vertraue auf Ihre Verschwiegenheit …«
+Harald. »Hören Sie zu, weshalb wir nach Indien gekommen
+sind … Ich vertraue auf Ihre Verschwiegenheit …«
 
-Sein Bericht war knapp und übersichtlich. Alte er die
+Sein Bericht war knapp und übersichtlich. Als er die
 Elfenbeinkugel erwähnte und deren merkwürdigen Inhalt,
 rief O’Kelling:
 
-»Heiliger Paris, — diese Elfenbeinkugel ist mir nicht:3
-Neues … Honorar will mir so’n Ding schicken …
+»Heiliger Patrick, — diese Elfenbeinkugel ist mir nichts
+Neues … Harplay will mir so’n Ding schicken …«
 
 »Davon später, Mr. O’Kelling …« Und er erzählte
-von James Schwur, der als Lord Fitzgerald in Berlin geweilt
-hatte und geflüchtet war, erzählte von Fitzgeralds alleinigen
+von James Arwal, der als Lord Fitzgerald in Berlin geweilt
+hatte und geflüchtet war, erzählte von Fitzgeralds o-beinigem
 Diener und schloß mit den Worten: »Vielleicht ist
-James Arwal der Kapitän des Piratensahrzeug3 … Wissen
+James Arwal der Kapitän des Piratenfahrzeugs … Wissen
 <@pagebreak/>
-Sie Mr. O’Kelling, ob Honorar längere Zeit verreist
-Ware?«
+Sie Mr. O’Kelling, ob Harplay längere Zeit verreist
+War?«
 
 »Ja — ja …!!« Der Irländer war wie ausgewechselt.
-»Ei ist erst vor kurzem mag) Mandalar zurückgekehrt …
+»Er ist erst vor kurzem nach Mandalar zurückgekehrt …«
 
-»Nun also …! Gebt Ihnen jetzt ein Licht auf, O’s einfing?!
+»Nun also …! Geht Ihnen jetzt ein Licht auf, O’Kelling?!
 Wollen Sie mir jetzt sagen, welcher Art Ihr Geschäft
-mit diesem Honorar ist?«
+mit diesem Harplay ist?«
 
-»Natürlich, Mr. Harst … Ich merke ja, daß ich nicht
-da sein in die Nesseln hätte sehen können … Dir Geschichte
-ist bald erzählt. Honorar kam gestern nachmittag zu mir.
+»Natürlich, Mr. Harst … Ich merke ja, daß ich mich
+da fein in die Nesseln hätte setzen können … Die Geschichte
+ist bald erzählt. Harplay kam gestern nachmittag zu mir.
 Er lud mich zu einer Tour durch die Kleine Basarstraße ein.
 Bin nie abgeneigt, Alkohol zu mir zu nehmen. Aber erst in
-meiner Kajüte täte Kapitän dann mit seinem Anliegen
-(.Braut, nachdem wir Sie und Ihren Freund im Kielraum
-verstaut hatten. Ich soll mit dem Kutter nun Mandalar
-t5mmen, sobald Honorar mir durch einen Eingeborenen.
-eine Elfenbeinkugel zuschickdt. In der Kugel würde ich einen
-»Zettel finden, auf dem Näheres stechen würde. Garnison betonte,
+meiner Kajüte rückte Harplay dann mit seinem Anliegen
+heraus, nachdem wir Sie und Ihren Freund im Kielraum
+verstaut hatten. Ich soll mit dem Kutter nach Mandalar
+kommen, sobald Harplay mir durch einen Eingeborenen
+eine Elfenbeinkugel zuschickt. In der Kugel würde ich einen
+Zettel finden, auf dem Näheres stehen würde. Harplay betonte,
 daß es sich um eine durchaus reinliche Sache handelte,
 die nur in aller Stille erledigt werden müsse. Er zahlte
 fünfzig englische Pfund an …«
@@ -1115,29 +1113,29 @@ fünfzig englische Pfund an …«
 
 »Haben Sie die Banknote bei sich?«
 
-»Hier ist sie … bitte …« Und dann sprang er empor.
-brüllte fast: »Oh … o9 etwa diese Hundertpfund … CL
-fälscht sind, Mr. Harst? Ob.
+»Hier ist sie … bitte …« Und dann sprang er empor,
+brüllte fast: »Ob … ob etwa diese Hundertpfund … gefälscht
+sind, Mr. Harst? Ob …«
 
 Harald hatte die Banknote schon geprüft … »Leider
-falsch, Mr. O’Kelling … Aber — keine Sorge! Sie wertet
-»Öl gutes Geld schon zurückerhalten, wenn Sie nur genau
-»befolgen, was ich Ihnen vorschlage … Schraut und ich
-werden heute zum Schein mit der Eisenbaön abreisen. werten
+falsch, Mr. O’Kelling … Aber — keine Sorge! Sie werden
+Ihr gutes Geld schon zurückerhalten, wenn Sie nur genau
+befolgen, was ich Ihnen vorschlage … Schraut und ich
+werden heute zum Schein mit der Eisenbahn abreisen, werden
 dann als indische Matrosen zu Ihnen an Bord kommen.
-»Ihre vier Malaien sind ja zuverlässig. Dann warten wir,
-Geheimnis die Elfenbeinkugel eintrifft … Und — fahren nach
+Ihre vier Malaien sind ja zuverlässig. Dann warten wir,
+bis die Elfenbeinkugel eintrifft … Und — fahren nach
 Mandalar, um dort vielleicht den Gentleman-Freibeuter zu
 <@pagebreak/>
-erwischen … Eine lohnende Sache, da ja Lord Steading —
-für die Befreiung seiner Tochter ein nettes Sümmchen aus
+erwischen … Eine lohnende Sache, da ja Lord Steading
+für die Befreiung seiner Tochter ein nettes Sümmchen ausgesetzt
+hat … — Einverstanden?«
 
-»gesetzt hat … — Einverstanden?«
 Ein kräftiger Handschlag besiegelte das Bündnis …
 
 <h2>5. Kapitel.</h2>
 
-<h3>Das heilige Kraftvoll.</h3>
+<h3>Das heilige Krokodil.</h3>
 
 Der zweite Oktober, morgens acht Uhr … Am Bollwerk
 liegt O’Kellings Kutter, der den poetischen Namen
@@ -1263,7 +1261,7 @@ energische Züge! …
 
 »Nr. O’Kelling,« sagte der Mann und bemüht sich,
 das Englische ein wenig zu verhunzen … »Mr. O’Kelling,
-Honorar schickt mich … Hier sind weitere hundert Pfund …
+Harplay schickt mich … Hier sind weitere hundert Pfund …
 Sie haben nichts zu tun als jene Liste unten im Raunt zu.
 verstauen und mit Ihrem Kutter die Lagune wieder zu verlassen.
 Draußen vor der Einfahrt werden Sie einen Darunter
@@ -1595,7 +1593,7 @@ Vaters zu rauben … sehr leicht, was mir schon in dem
 Extrablatt zuzüglich, denn diese junge Dame blieb an Deck,
 als die Piraten die »Atlanta« ruderten, blieb so lange, bis
 man sie — ganz nach ihrem Wunsch — entführte. Dann erscheint
-Arwals Genosse Honorar bei Kapitän O’Kelling und
+Arwals Genosse Harplay bei Kapitän O’Kelling und
 Bericht den Kutter in die Lagune … Ein Boot erscheint,
 mit einer Kiste, in der Miß Steading verkleidet liegt, — in
 einer Kiste, die nur sie von innen öffnen kann. also hat sich
@@ -2002,7 +2000,7 @@ vom Mast …
 
 Ich kam in Schweiß …
 
-Und in kaum fünf Minuten hatten wir ein Etwas zu-sammengezimmert,
+Und in kaum fünf Minuten hatten wir ein Etwas zusammengezimmert,
 das wahrlich nicht den Namen Floß
 verdiente …
 
@@ -2285,21 +2283,21 @@ gegenüber, Freund Käpten …«
 »So? Der Gentleman-Pirat?! — Freilich, wenn er
 die Lagune Sikar so gut kennt, wird er auch wohl in der
 Wildnis Kingston Bescheid wissen — vielleicht durch den
-schuftigen John Honorar, der mich mit der falschen Banknote
+schuftigen John Harplay, der mich mit der falschen Banknote
 angeschmiert hatte …! Ich habe dies üÜbrigen3 James Arwal
 vorgehalten, Mr. Schraut. und da hätten Sie nur sehen
 sollen, wie der Freibeuterkapitän in meiner Gegenwart mit
-Honorar abgefahren ist …!! … Denn die kleine o-beinige
+Harplay abgefahren ist …!! … Denn die kleine O-Beinige
 
 Kanaille war gleichfalls an vorn der Jacht und zwar in
 der Verkleidung als chinesischer Schiffskoch … Abgefahren,
-Mr. Schraut, daß der Honorar nur so in die Knie lachte!
+Mr. Schraut, daß der Harplay nur so in die Knie lachte!
 Ich Tage Ihnen, der Arwal hält auf Mannszucht, der hatte
 <@pagebreak/>
 seine Ahnung von Hornhaut Betrug8manöver1 Herausrücken
 mußte er mit dem Gelde, mußte mir noch zehn Pfund
 mehr aushändigen … Und die ganze Art, wie Arwal diesen
-Schwindler von Honorar dazu zwang, seine ossensicht-lie
+Schwindler von Harplay dazu zwang, seine ossensicht-lie
 Empörung und Verachtung rechten mich wie gesagt geradezu
 in Erstaunen :… sich kann mir gar nicht denken, daß
 dieser selbe Mann Banknoten gefälscht habe
@@ -2464,12 +2462,12 @@ hatte Glück. Zwei Zentner nach dem Hofe zu waren erleuchtet,
 aber ziemlich dicht verhängt. Da War jedoch noch
 eine Hintertür, und als ich den Brüder faßte, stellte ich fest,
 daß sie nur eingeklinkt war … Ich erlaubte mir also, Mr.
-Honorar zu besuchen, ohne daß er’s ahnte … Wenn er’s
+Harplay zu besuchen, ohne daß er’s ahnte … Wenn er’s
 geahnt hätte, würde er mich) fraglos für alle Zeit stumm gemacht
 haben, denn er saß da in dem Hinterzimmer mit
 einer Anzahl dunkler Ehrenmänner zusammen, farbiges
 Hafengesindel … Leider verstand ich nicht alles, was die
-Herrschaften verhandelten. Honorar spie jedenfalls Gift
+Herrschaften verhandelten. Harplay spie jedenfalls Gift
 und Galle gegen James Arwal … Anscheinend war er mit
 dem ihm bewilligten Lohn für seine Dienste nicht zufrieden,
 und anscheinend hatte Arwal es JIhreiwvegen mit ihm verdorben,
@@ -2488,14 +2486,14 @@ der Fürsten und zeigte seine drei braunen Zahnstummel noch
 deutlicher … »Erwähnten die Kerle denn nicht den Spuk
 von Rapaitta, Mr. Harst?«
 
-»Gewiß … Honorar tat’s … Und aus seinen Reden
+»Gewiß … Harplay tat’s … Und aus seinen Reden
 ging hervor, daß James Arwal die Tempelruinen häufig
-aufgesucht hat — stets allein, was Honorar sehr wurmte —
+aufgesucht hat — stets allein, was Harplay sehr wurmte —
 sehr, denn der betrügerische Agent vermutet, daß dieses
 Affenkrokodil ein guter Freund Arwals ist und daß die beiden
 dort in den Ruinen Dinge gefunden haben, die einigen
 Wert besitzen. Interessant war nur, wie wenig also James
-Arwal diesen Honorar in seine seltsamen Geschäfte eingeweiht
+Arwal diesen Harplay in seine seltsamen Geschäfte eingeweiht
 hätt’… Interessant auch, daß die Besatzung der Piratenjacht
 abgelohnt ist und sich in alle Winde zerstreut hat.
 —» Nun, wir werden ja sehen, was diesen Abend geschieht,
@@ -2533,7 +2531,7 @@ zu, O’Kelling … Der Anblick der Rest Ihrer Kauwcrk-zeitge
 wirkt nicht eben appetitanregend. — Was Ihre Teilnahme
 an unserem Ausflug nach den einzigen betrifft: Sie
 sollen dabei sein! Vielleicht nehmen wir auch noch zwei!
-Ihrer wackeren Malaien mit … Denn Harplay8 Garde
+Ihrer wackeren Malaien mit … Denn Harplays Garde
 zählt zehn Kerle schwersten Kalibers, die ohne Zweifel
 einem Menschen ebenso leicht wie einem Huhn den Hals
 abschneiden … — einen Sie nun zufrieden, Freund
@@ -2553,7 +2551,7 @@ hatte auch ich mir die braune Farbe abgewaschen und war
 wieder der schlichte Max Schraut mit dem behaglichen
 Bäuchlein und der Hornbrille geworden. Harald und. ich
 hatten uns auch nicht eine Sekunde an Deck gezeigt, denn
-Honorare Spion von der verflossenen Nacht war wieder auf
+Harplays Spion von der verflossenen Nacht war wieder auf
 dem Posten, hatte den Kutter dauernd beobachtet …
 
 Die »Lady Hamilton« näherte sich der Einfahrt …
@@ -2594,7 +2592,7 @@ Schraut und ich hier an Bord sind …«
 Der Engländer versprach’s, und die Sache war damit
 erledigt. — Die »Lady Hamilton« verließ den Hafen …
 
-— »Der Denunziant ist Honorar!« platzte O’Kelling
+— »Der Denunziant ist Harplay!« platzte O’Kelling
 wütend heraus …
 
 »Wer sonst?!« nicke Harald. »… Seine Rache, weil
@@ -2673,7 +2671,7 @@ fesselte, hörte zwei schrille Schreie … Dann wurde ich bewußtlos
 Lag noch in der Hängematte, ein wehrloses Bündel …
 Bauche den Kopf … Harst und O’Kelling war’s nicht anders
 ergangen … Und vor uns in einer lächerlich wirkenden
-Verkleidung als Inder der o-beinige John Honorar …
+Verkleidung als Inder der O-Beinige John Harplay …
 wie ein Satan grinsend … wie ein Satan uns die Worte
 ins Gesicht spuckend: …«
 » Die Matrosen der Kreuzerpinasse haben doch nicht reinen
@@ -2689,10 +2687,10 @@ Körper aufgetreten. Ich war auch nicht mehr die Spur.
 müde oder gedankenträge …
 Harst, wie ich noch an die Hängematte geschnürt, erwiderte
 ohne Zögern: »Diese Frage ist eigentlich überflüssig,
-Honorar … Wir suchen den Gentleman-Freibeuter … —
+Harplay … Wir suchen den Gentleman-Freibeuter … —
 Und was tun Sie hier?k! Sind Sie in Arwals Auftrag
 hier?«
-Honorar setzte … »Natürlich, — in Arwals Auftrag,
+Harplay setzte … »Natürlich, — in Arwals Auftrag,
 was sonst?!«
 — der Esel jubilierte innerlich, uns so anlügen zu
 können … Ahnte nicht, daß wir besser unterrichtet waren.
@@ -2720,13 +2718,13 @@ Wein Glied kann ich rühren …! Die Halunken!! Wenn
 nachher die Stechmücken zu schwärmen beginnen, werden
 wir …«
 
-»Seien Sie Stil!« fuhr Harald ihn an … »Honorar
+»Seien Sie Stil!« fuhr Harald ihn an … »Harplay
 wird vor Dunkelwerden wieder hier sein …!!« —
 
 Aus den Zweigen des Inka ein höllisches Gelächter …
 »Vielleicht auch nicht, Mr. Harst, vielleicht auch nicht …!!«
 
-Dann nichts mehr … Honorar hatte sich jetzt wirklich
+Dann nichts mehr … Harplay hatte sich jetzt wirklich
 entfernt …
 
 Eine halbe Stunde verstrich. Wir schwiegen … Und
@@ -2753,7 +2751,7 @@ vorn im Yogis mit bösen Kopfverletzungen gefesselt gelegen
 hatten, standen neben uns an Deck … —
 
 Harst hatte seine Taschen befühlt … Meinte: »Nichts
-hat man uns abgenommen — nichts! Dieser Honorar muß
+hat man uns abgenommen — nichts! Dieser Harplay muß
 wirklich geglaubt haben, daß die Mückenbrut uns erledigen
 würde … Wäre ja auch der Fall gewesen … — O’Kelling,
 so leid es mir tut: Wir können Sie jetzt nicht mitnehmen.
@@ -2798,7 +2796,7 @@ Und dann — vor uns ein Bild, wie selbst wir es in
 dieser phantastisc-rohen Zusammenstellung noch nicht gesehen
 hatten …: Auf dem Deck des Kutters vier erschossene
 Inder, ein fünften im Röhricht … Und am Ufer unter
-einem Baume Honorar mit dem Rest seiner Bande, geschart
+einem Baume Harplay mit dem Rest seiner Bande, geschart
 um einen Europäer, den … man gerade aufknüpfen will …
 
 Ein schlanker Europäer, ein energisches Gesicht, eine gewisse
@@ -2807,7 +2805,7 @@ Monokel, um die Lippen ein Lächeln grenzenloser Verachtung
 … Die Hände über der Brust gebunden, die Schlinge
 eines dicken Taus um den Hals …
 
-Harplay38 Stimme kreischt auf: »Zum letzten Male, Mr.
+Harplays Stimme kreischt auf: »Zum letzten Male, Mr.
 Arwal …: — Wollen Sie zugeben, daß Sie in den Ruinen
 von Rapaua den Spuk gemimt haben, daß Sie jeden Fremden
 wenig) suchen wollten, weil Sie in den Kellern des uralten
@@ -2817,7 +2815,7 @@ die Weiber kommen nachher an die Reihe, falls Sie wirklich
 so dumm sein sollten und hier das Baumeln lernen weitem!
 —»- Wo sind die Edelsteine — — wo?!«
 
-Arwal jagte kalt: »Sie sind ein Narr, Honorar …!
+Arwal jagte kalt: »Sie sind ein Narr, Harplay …!
 Sie werden Ihrer Straße nicht entgehen …! kehrten Sie
 diese braunen Schufte mit dem Kutter weg, geben Sie die
 beiden Frauen und meinen Bruder frei, und Sie sollen so
@@ -2825,17 +2823,17 @@ viel Diamanten erhalten, daß Sie fortan als Millionär
 leben können … — Aus etwas anderes lasse ich mich nicht
 ein, denn — — ich kenne Sie!«
 
-— Honorar packte hohnlachend das Tau …
+— Harplay packte hohnlachend das Tau …
 
 »Vorwärts, Boys, — hißt ihn empor, damit er einen
 Vorgeschmack der Seligkeit bekommt! hoch) mit ihm — —
 hoch … doch …!!«
 
-John Honorar schied mit diesem letzten »Hoch« aus
+John Harplay schied mit diesem letzten »Hoch« aus
 dem Leben … Harald hatte gefeuert …; Kopfschuß …
 
 Art auch meine Clement meldete sich … Zwei der
-Hafenhalunken klatschten neben Honorar ins Gras … Die
+Hafenhalunken klatschten neben Harplay ins Gras … Die
 <@pagebreak/>
 anderen rissen aus und wurden nicht mehr gesehen …
 
@@ -2879,7 +2877,7 @@ höhnischen Bricstivehßscl mit Honoria, wußte auch, wo
 James sich aufhielt. Honoria war’s, die den abenteuerlichen
 Plan entwarf, wie sie Mensch winden und sich mit mir vereinen
 könnte, ohne den Namen Steading blofzustel’en.
-James kaufte in Hamburg die Jacht, Honorar besorgte die
+James kaufte in Hamburg die Jacht, Harplay besorgte die
 Besatzung …«
 
 <@pagebreak/>
@@ -2887,7 +2885,7 @@ Harald nickte … »Das weitere kenne ich, Mr. Arwal …
 — her Dampfer mit dem! grünen Licht war ebenfalls von
 »Ihnen gemietet, sollte Sie in die Fremde bringen … Ihre
 Pläne wurden durch uns gestört … Sie blieben hier und
-gerieten in Harplay8 Gewalt …«
+gerieten in Harplays Gewalt …«
 
 Edward Arwal halte Honorias Hand genommen …
 »an. Harst, die Verluste der fünfzehn geplünderten Schiffe
