@@ -469,7 +469,7 @@ Augen wetterleuchtete es dabei, wie nur ich wahrnahm.
 Geßling erzählte weiter: »Ich wollte meinen Augen
 nicht trauen, als ich den Ritter wie einen Lebenden …«
 
-Harsts kürzte ab …
+Harst kürzte ab …
 
 »Sie betraten dann den Saal, Herr Doktor?«
 
@@ -585,10 +585,10 @@ Meter lang, und Ihr Horizont somit weiter als der normaler
 Menschen.«
 
 <@pagebreak/>
-Das hastige, bartlose Gesicht des Faktotums rötete
+Das faltige, bartlose Gesicht des Faktotums rötete
 sich …
 
-»Ich verstehe Sie nicht ganz, Herr Hast … Wie soll
+»Ich verstehe Sie nicht ganz, Herr Harst … Wie soll
 ich mehr wissen, als der Herr Doktor?!«
 
 »Vielleicht durch Zufall … — Mit wem verkehrt Geßling?
@@ -631,7 +631,7 @@ nicht so ganz harmlos erschiene, nachdem ich von ihren okkultistischen
 Studien gehört hatte. Freilich hatte ich keine
 Ahnung, wie etwa die junge Dame den »Spuk« lebendig
 werden ließ. Prüfte ich die Vorgänge in Gedanken, so
-waren da überall nur Tatsachen, die gerade Ellinor entlastenden.
+waren da überall nur Tatsachen, die gerade Ellinor entlasteten.
 Kurz, die ganze Geschichte blieb dunkel.
 
 <@pagebreak/>
@@ -664,7 +664,7 @@ mit der Heide hinter dem Walde und mit den flinken Eichhörnchen,
 die blitzschnell über den Schnee huschten.
 
 Harald spielte den Naturschwärmer, und erst auf dem
-Rückwege sagte er ganz unvermittelt;
+Rückwege sagte er ganz unvermittelt:
 
 »Natürlich Ellinor! Aber — — weshalb?! Darüber
 werde ich mir nicht klar …«
@@ -773,7 +773,7 @@ Und — an dem rechten Fenster lief eine eiserne Feuerleiter
 vorüber, während das Fenster selbst nicht verriegelt war.
 Auf dem Fensterbrett hätte auch ein ungeübtes Auge unschwer
 Spuren von Füßen erkannt — ein Beweis, daß die
-Feuerleiter und das Fenster zum Einsteigen benutzt wurde.
+Feuerleiter und das Fenster zum Einsteigen benutzt wurden.
 
 Die seltsamste Entdeckung machten wir aber in einem
 <@pagebreak/>
@@ -799,7 +799,7 @@ Schrak leicht zurück …
 In dem einen Plüschsessel saß ein unbekannter Herr,
 blondbärtig, Hut in die Stirn gedrückt …
 
-Leider waren wir beide bereits mir Zimmer, und Harald
+Leider waren wir beide bereits im Zimmer, und Harald
 hatte die Tür schon halb zugedrückt …
 
 Der Mann sagte halblaut:
@@ -1064,7 +1064,7 @@ waren vor kurzem drunten in Schlesien auf einem Schlosse
 namens Lubowitz, wie ich schon erwähnte. Dort fingen wir
 einen Gauner ab, der eine sehr elegante Gehilfin bei sich
 hatte … Sie trat als Baronin Stasia Makröli auf … (vgl.
-den vorigen Band: »Der Spiritistenklub«). Diese Gräfin
+den vorigen Band: »Der Spiritistenklub«.) Diese Gräfin
 hatte ebenfalls ein Muttermal … — auch hinter dem linken
 Ohr …«
 

@@ -570,7 +570,7 @@ mit dem Ausdruck einer leidenden Madonna …
 »Kennen Sie den Schoner Maria?« fragte Harald wieder
 …
 
-Geschirrs wußte nichts von unseren nächtlichen Abenteuern
+Geßling wußte nichts von unseren nächtlichen Abenteuern
 und fuhr ärgerlich auf:
 
 »Weshalb quälen Sie Ellinor?! Was soll’s mit dem
@@ -643,7 +643,7 @@ das kaum fünfundzwanzig Jahre zählen konnte und doch
 schon vollkommen verblüht und verderbt war, machte sich an
 uns heran und berichtete uns nach Empfang eines papiernen
 <@pagebreak/>
-Händedruck so allerlei über die Stammgäste des Lokals
+Händedrucks so allerlei über die Stammgäste des Lokals
 … Wenigstens besaß sie etwas noch: Trockenen Witz,
 und so schilderte sie uns harmlosen englischen Seeleuten,
 die angeblich das Deutsche nur zur Not verstanden, mit aller
@@ -932,7 +932,7 @@ Fenster eines Gutshauses, in dem man wohl
 ein Fest feierte …
 
 Meine Gedanken irrten jedoch nur zu oft ab — hinaus
-auf die Ostsee, wo der Schoner Maria nun mit unbekannten
+auf die Ostsee, wo der Schoner Maria nun mit unbekanntem
 Kurs die Beute davontrug, die Gisbert Mattieß anderswie
 kaum aus Danzig hätte wegschaffen können … —
 Auf dem Hafenamt hatte man uns gesagt, die Maria sei
@@ -1287,7 +1287,7 @@ noch wenig hinzuzufügen. Harst darf sich schmeicheln, eine
 zerrüttete Ehe, die des verführten Kapitäns, wieder in
 freundlichste Bahnen gelenkt und dem Freistaate Danzig
 »Das blaue Wunder« gerettet zu haben … Pastellas Anteilnahme
-an beim Diebstahl blieb geheim. — Und damit
+an dem Diebstahl blieb geheim. — Und damit
 der Leser auch noch als letztes etwas über Ellinor-Gertrud
 erfährt: sie ist nach wie vor die Freude der alten Tage des
 trefflichen Doktor Geßling, und selbst der lange Emanuel
