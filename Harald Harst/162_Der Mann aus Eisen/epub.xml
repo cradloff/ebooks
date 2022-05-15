@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">0da41259-9d9f-4290-b8ef-34543fb63ad4</entry>
+<entry key="title">Der Mann aus Eisen</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">162</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Mann aus Eisen.
+
+»Sie werden ja fraglos neugierig sein, Herr Harst, weshalb ich eine Berühmtheit wie Sie hierher gebeten habe … Und Sie dürften auch nicht im entferntesten ahnen, was mich seit einer Woche so halb aus dem seelischen Gleichgewicht gebracht hat …«
+
+Harst nahm ein zweites Kaviarschnittchen …
+
+»Vielleicht ahne ich es doch, Herr Doktor …« meinte er scherzend.
+
+»Unmöglich! Wirklich unmöglich,« ereiferte sich Geßling …
+
+»Oh — ein Unmöglich gibt es für einen Menschen nicht, der seine Augen und seinen Verstand zu gebrauchen weiß … Die Angelegenheit, die Sie uns vortragen wollen, spielt in Saal Nummer drei Ihres Museums …«
+
+Der bucklige Doktor schüttelte wie ungläubig den Kopf.
+
+Das Kap der Guten Hoffnung.
+
+»Entschuldigen Sie, hier wohnt doch Herr Gisbert Margitt …?«
+
+»Hat gewohnt — hat gewohnt, Herrchen … Ist heite ausgezogen, vor fünf Minuten … Hatte es sehr eilig, hat aber alles bezahlt, und das ist schließlich die Hauptsache, mein’ ich, wenigstens für mich als Wirtin …«
+
+Dann wischte sie die Hände an der Schütze ab und setzte eine Brille auf, musterte uns und fügte hinzu:
+
+»Hm — es könnte stimmen … Ein Dünner und ein Dicker, und der kleine Dicke mit ’ner Hornbrille … So hat Margitt die Herren beschrieben, denen ich den Gruß von ihm bestellen sollte … Und dann hat er noch dies mir jejeben … Ich sollte es dem Dünnen und dem Dicken aushändigen … Na, es is’n ziemlich komisches Geschenk …«
+
+Und wieder nahm sie von dem runden Tischchen, auf dem schon die Brille gelegen hatte, einen kleinen Gegenstand …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (162) Der Mann aus Eisen.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1925</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
