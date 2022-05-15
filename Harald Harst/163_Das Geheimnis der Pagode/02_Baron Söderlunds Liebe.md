@@ -47,13 +47,13 @@ Harst schüttelte den Kopf … »Wäre es nicht besser,
 Miß Botton, wir versuchten aus der Pagode hinaus zu
 kommen und zu fliehen …?! Wenn wir …«
 
-»Unmöglich, Herr Harst, « unterbrach sie ihn … »Jetzt
+»Unmöglich, Herr Harst,« unterbrach sie ihn … »Jetzt
 am Tage ist es ausgeschlossen, daß wir entwischen …
 Außerdem müssen wir auch endlich durch eine Aussprache
 die Situation klären … Es gibt so viel Rätselhaftes und
 Widerspruchsvolles bei diesem Fall Söderlund, daß …«
 
-»Gut Miß Botton … — Und die Wächter sind jetzt
+»Gut, Miß Botton … — Und die Wächter sind jetzt
 nicht zu fürchten?«
 
 »Nein … Vor acht Uhr abends zeigt sich niemand
@@ -160,7 +160,7 @@ zusammen fliehen. Sie habe bereits ein Tau heimlich
 beiseite geschafft, das sie vor Wochen unten in einem anderen
 Raume der Pagode gefunden habe. — Da ich selbst noch
 gar nicht wußte, wo ich mich eigentlich hier befand, wollte
-ich von ihr hierüber Ausschluß haben. Sie konnte mir nur
+ich von ihr hierüber Aufschluß haben. Sie konnte mir nur
 erklären, es handele sich um eine Insel irgendwo an der
 <@pagebreak/>
 schwedischen Küste … — Hiermit mußte ich mich zufrieden
@@ -436,7 +436,7 @@ schliefen darin die Geheimnisse von Jahrhunderten …
 
 <@pagebreak/>
 Kein lebendes Wesen zu sehen … Nur ein paar
-Spatzen saßen auf der Terrassenbrüstung, und hoch in bei
+Spatzen saßen auf der Terrassenbrüstung, und hoch in der
 Luft schwebten Möwen, diese Gassenjungen des Meeres.
 
 Die breite Terrassentreppe mit ausgetretenen Stufen
@@ -526,7 +526,7 @@ Tür unversperrt,« meinte er und hob schon die Hand nach
 dem Drücker …
 
 Harald wehrte ab. »Das wäre Hausfriedensbruch,«
-warnte er. Und fügte sinnend hinzu: »Oh Söderlund
+warnte er. Und fügte sinnend hinzu: »Ob Söderlund
 seinen Inselbesitz wirklich so ganz ohne Aufsicht zurückgelassen
 hat?! — das ist doch kaum anzunehmen. Durchstreifen
 wir einmal den Park. Das kann uns niemand verwehren.«
@@ -561,7 +561,7 @@ sich dicht neben mir … So durchquerten wir den Gebüschstreifen,
 der die Tür der Pagode verhüllte …
 
 Und — sahen diese Tür weit offen … Sahen dort
-neben der Tür auf einem Holzhäuschen ein altes verhutzeltes
+neben der Tür auf einem Holzbänkchen ein altes verhutzeltes
 Weiblein sitzen — mit einem vertrockneten Vogelgesicht, auf
 dem grauweißen Haar eine Art Haube, wie man sie in Westschweden
 so oft bei alten Frauen sieht.
@@ -710,7 +710,7 @@ ein halbes Jahrhundert Sachwalter der Barone von Söderlund,
 und ich rühme mich, auch das Vertrauen des Baron
 Holger zu besitzen, soweit dieser überhaupt jemandem vertraut.
 Aber — — ein Kind?!« — Dann blickte er die alte
-Ingeborg an. »Nun, denke, wie steht es damit?! Das sind
+Ingeborg an. »Nun, Benks, wie steht es damit?! Das sind
 ja tolle Geschichten … Reden Sie, Benks …!«
 
 Das Weiblein rieb sich die Stirn …
@@ -806,7 +806,7 @@ Das Weiblein ruckte hoch … Die hellen Augen funkelten
 vor stiller Wut …
 
 Dahin lachte sie schrill … »Die Polizei …?! O —
-mag die Polizei nur kommen …! Achtzig Jahre bin ich alt.
+mag die Polizei nur kommen …! Achtzig Jahre bin ich alt
 … Man wird mich nicht einsperren … Was habe ich denn
 getan?! Und was wissen Sie, Herr Jölling, ob mein Hirn
 Dinge vergißt, die nur meinen Herrn etwas angehen …?!«
@@ -891,7 +891,7 @@ beschrieben. Wir betraten des Barons Arbeitszimmer …
 Und hier kaum ein einziges europäisches Möbelstück bis auf
 den riesigen Bücherschrank und den Diplomatenschreibtisch …
 Alle Länder Ostasiens hatten zu dieser Einrichtung ihren Beitrag
-geliefert … Auf einem indischen Tischen mit künstlerisch
+geliefert … Auf einem indischen Tischchen mit künstlerisch
 verzierter Kupferplatte und Elfenbeinfüßen eine chinesische
 Opiumpfeife, ein kostbares Stück. In der Luft der süßliche
 Duft des Opiumrausches, der alle Vorhänge getränkt
@@ -911,7 +911,7 @@ Er blickte immer wieder scheu in die dunklen Ecken des großen
 Zimmers, aus denen uns grell bemalte Götzenstatuen
 angrinsten …
 
-Harst kramte in Papieren … Die Papiere raschelten.
+Harst kramte in Papieren … Die Papiere raschelten
 … Und die Minuten schlichen … schlichen …
 
 Justus preßte mit einem Male meinen Arm …
@@ -1045,7 +1045,7 @@ Sie haben …«
 Die Schwester unterbrach ihn mit einem grellen Gelächter
 … »Mag das Spiel aus sein … mag es …!!
 Aber auch er ist verloren … Er, den … ich hasse …
-hasse …!! Er, der mich zurückließ, der die andere erwählte.
+hasse …!! Er, der mich zurückließ, der die andere erwählte
 … — Sie sollen alles erfahren, Herr Harst, alles … Ich
 werde ihn nicht schonen und uns ebensowenig … — Kennen
 Sie die Herzogin von Alancire …? Wissen Sie, daß die
@@ -1133,7 +1133,7 @@ Ingrid muß es bestätigen, daß es sich so verhält …«
 
 Harald schwieg dazu … fragte nichts mehr …
 
-Eine Stunde später traten aus Malmö vier Polizeibeamte
+Eine Stunde später trafen aus Malmö vier Polizeibeamte
 <@pagebreak/>
 ein, die das Geschwisterpaar mit sich nahmen. Und
 gegen halb elf abends saßen wir wieder in unserem Hotelzimmer
@@ -1397,7 +1397,7 @@ Schiff, das ohne Lichter fuhr, unverschuldet gerammt habe
 und daß dieses sofort weggesackt sei. Er konnte lediglich
 noch einen Rettungsring auffischen, von dem jedoch der
 Name des Fahrzeuges weggekratzt war. — Ob Söderlund
-mit den Seinen wirklich auf diese Waise den Tod gefunden
+mit den Seinen wirklich auf diese Weise den Tod gefunden
 hat, bleibt zweifelhaft. —
 
 Ich selbst habe hier nur noch das eine hinzuzufügen,

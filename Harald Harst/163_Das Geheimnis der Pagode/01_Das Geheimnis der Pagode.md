@@ -79,7 +79,7 @@ Und zu Harald: »Du, das ist Herr Justus Juhlke, in Firma
 Wertheim, Kaufmann, — zurzeit reist er mit einem Mord.«
 
 Juhlke warf mir einen still empörten Blick zu, verteidigte
-sich: »Herr Harst, auf mein Ehrenwort … Es stimmt.
+sich: »Herr Harst, auf mein Ehrenwort … Es stimmt
 … Die Frau lag tot da … Nachher war sie weg …«
 
 <@pagebreak/>
@@ -154,9 +154,9 @@ Diese Annonce sah so aus …
 
 > Der junge Mann, der gestern am Spätnachmittag
 unweit der früheren Zeppelinhalle bei Potsdam am
-Waldrande acht Perlen aufgelesen bat, die von der Dame
+Waldrande acht Perlen aufgelesen hat, die von der Dame
 nach ihrem Unfall liegen gelassen worden sind, wird gebeten,
-diese.
+diese
 
 <blockquote><p class="centered">acht Perlen</p></blockquote>
 
@@ -170,7 +170,7 @@ noch die hellste Freude über die seiner wartenden dreitausend
 Mark ausdrückte, — was ich im übrigen sehr begreiflich
 fand.
 
-»Mein Gott …« sammelte Juhlke jetzt und verfärbte
+»Mein Gott …« stammelte Juhlke jetzt und verfärbte
 sich vor Erregung. »Dreitausend Mark, — — für mich ein
 Vermögen … für mich die Erfüllung eines heimlichen
 Wunsches … Ich kann mich mit diesen dreitausend Mark
@@ -379,7 +379,7 @@ Die Tür ging auf …
 Linker Hand war das Zimmer durch einen Vorhang
 abgeteilt. Dort standen die Betten …
 
-Frau Alberti kreischte vor Schreck; aus dem einen Bett
+Frau Alberti kreischte vor Schreck; auf dem einen Bett
 lag Justus Juhlke — bewußtlos …
 
 Das Ehepaar war samt den Koffern verschwunden.
@@ -414,7 +414,7 @@ verging eine weitere Stunde. Er war derart seekrank, daß
 sein Magen sich immer wieder umkrempelte und sein Gesicht
 ganz grünlich schimmerte.
 
-Seine ersten klar verständlicher Worte entbehrten nicht
+Seine ersten klar verständlichen Worte entbehrten nicht
 einer gewissen unfreiwilligen Komik, bewiesen aber auch
 einen hohen Grad edler Selbsterkenntnis. Er lag jetzt auf
 dem Diwan, und als seine matten Augen Harald eine Weile
@@ -590,7 +590,7 @@ sogenannten Japan-Ecke … Da saßen wir beide, und der
 dritte im Bunde war Freund Bechert, wohlbestallter
 Kriminalkommissar.
 
-Bechert halte sich die Geschichte erzählen lassen. Leute
+Bechert hatte sich die Geschichte erzählen lassen. Leute
 von seinem Schlage sind angenehme Zuhörer, markieren kein
 überflüssiges Interesse, sondern verarbeiten das Gehörte
 mit dem Verstande …
@@ -855,7 +855,7 @@ Quartier unter anderem Namen besessen hat …«
 
 Ich war immer noch sehr bedenklich, was diesen Verdacht
 Haralds anbetraf. Ein Baron Söderlund — und ein
-Freund eines englischem Herzogs, — — der sollte ein Dieb
+Freund eines englischen Herzogs, — — der sollte ein Dieb
 sein?
 
 Harald las mir diese Gedanken von der Stirn …
@@ -943,7 +943,7 @@ Ein windiger, regnerischer Abend …
 
 <@pagebreak/>
 Drei Herren in Gummimänteln und Wachstuchmützen,
-bärtig, unauffällig, der eine etwas buckelig, verhandeln arm
+bärtig, unauffällig, der eine etwas buckelig, verhandeln am
 Gestade von Langedroog mit einem Fischer über ein Boot,
 das sie zu einem Ausflug benutzen wollen.
 
@@ -959,7 +959,7 @@ drei Herren, Ausländer sind’s, stehen vom Lande ab. Der
 Fischer merkt: sie verstehen mit einem Boote umzugehen,
 und schlendert beruhigt heim.
 
-Das Segel fällt sich … Das Boot schießt davon …
+Das Segel füllt sich … Das Boot schießt davon …
 der größten der Inseln zu, deren Randfelsen wie die Mauern
 emporragen und über die hinweg sich zwei verwitterte
 Türme dem Nachthimmel entgegenrecken …
@@ -973,7 +973,7 @@ Das haben die drei Herren in Göteborg durch vorsichtige
 Nachfrage erfahren.
 
 Die drei Herren sind Harst, Freund Justus und ich.
-Justus bat so lange gebeten, bis Harald ihn mitnahm.
+Justus hat so lange gebeten, bis Harald ihn mitnahm.
 Justus hat Zeug zum Detektiv … Und er hat uns ja auch
 zu diesem »Fall« verholfen, der, je länger wir uns damit
 beschäftigen, desto verworrener wird.
@@ -1010,7 +1010,7 @@ Harald flüstert: »Der Mond meint es gut mit uns …
 Vorwärts also …«
 
 Kaum haben wir die Kulisse alter Buchen passiert, als
-wir verwundert auf ein Bauwerk starren, daß da vor uns
+wir verwundert auf ein Bauwerk starren, das da vor uns
 auf einem Hügel sich erhebt. Es ist die Nachbildung einer
 chinesischen Pagode, eines Tempels mit zahlreichen, nach
 oben zu immer kleiner werdenden Dächern.
@@ -1135,7 +1135,7 @@ ich wette, Miß Botton wird in der Pagode gefangen gehalten
 …«
 
 <@pagebreak/>
-Er geht auf die Tür zu, versuch’s mit dem Patentdietrich,
+Er geht auf die Tür zu, versucht’s mit dem Patentdietrich,
 denn den Schlüssel hätten wir jetzt nachts nie gefunden
 …
 
@@ -1176,7 +1176,7 @@ Fällt uns mit dem einen Ende fast vor die Füße …
 
 Harst greift zu, zieht es straff …
 
-Ich beobachte die beiden Gelbgesichter … Die Asiate
+Ich beobachte die beiden Gelbgesichter … Die Asiaten
 stieren uns an … Seltsam gleichgültig … Scheint’s mir
 nur so, — — blinzelt wirklich Hohn in den Schlitzaugen …?!
 
@@ -1304,7 +1304,7 @@ Ich höre durch dieses Rascheln, wie Harald sich langsam
 weiterbewegt … Er scheint Justus und mich im Kreise zu
 umrunden …
 
-»Ein viereckiger Raum,« meldet er ich wieder … »Hier
+»Ein viereckiger Raum,« meldet er sich wieder … »Hier
 eine kleine Tür … Eisen …!«
 
 Er pocht dagegen … Es dröhnt ganz dumpf …
@@ -1415,7 +1415,7 @@ Sagt: »Da — rieche einmal, mein Alter!«
 Ich rieche nichts als den faden Geruch rostigen Eisens …
 
 »Nun gut, meine Nase mag feiner sein …,« erklärt
-Harald … »Beleuchte jetzt daß Türschloß …« —
+Harald … »Beleuchte jetzt das Türschloß …« —
 
 Ich will diese Einzelheiten übergehen. Harst bog aus
 einem Eisendraht einen Dietrich zurecht und bekam die Tür
