@@ -38,6 +38,12 @@ Nr,	Nr.
 \bis!\b	ist
 \blebten	letzten
 \blett\b	jetzt
+\bLust\b	Luft
+\bMir\b	Wir
+\bMr,	Mr.
+\bMr\s	Mr. 
+\bMrs,	Mrs.
+\bMrs\s	Mrs. 
 \bnich!\b	nicht
 \bnicke\b	nickte
 \bober\b	oder
