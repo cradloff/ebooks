@@ -414,7 +414,7 @@ hatte alles Erdenkliche getan — ohne Erfolg! —
 
 Am Abend dieses 30. September saßen wir beide auf
 der Terrasse des Hotel de London und genossen das prächtige,
-in die Farben des Sonnenunterganges getauchte Hafebild …
+in die Farben des Sonnenunterganges getauchte Hafenbild …
 
 Die Terrasse war überfüllt. Neben uns hatten an langer
 Tafel die Teilnehmer einer Coocschen Rundreise Platz
@@ -2707,15 +2707,15 @@ sie, daß unsere Hilferufe hier ungehört verhallen würden …
 <h2>5. Kapitel.</h2>
 <h3>John Harplays letztes Hoch.</h3>
 
-O’Kelling rief jetzt: »Die Schufte — — die Spalte!!
-Wein Glied kann ich rühren …! Die Halunken!! Wenn
+O’Kelling rief jetzt: »Die Schufte — — die Schufte!!
+Kein Glied kann ich rühren …! Die Halunken!! Wenn
 nachher die Stechmücken zu schwärmen beginnen, werden
 wir …«
 
-»Seien Sie Stil!« fuhr Harald ihn an … »Harplay
-wird vor Dunkelwerden wieder hier sein …!!« —
+»Seien Sie still!« fuhr Harald ihn an … »Harplay
+wird vor Dunkelwerden wieder hier sein …!«
 
-Aus den Zweigen des Inka ein höllisches Gelächter …
+Aus den Zweigen des Tuka ein höllisches Gelächter …
 »Vielleicht auch nicht, Mr. Harst, vielleicht auch nicht …!!«
 
 Dann nichts mehr … Harplay hatte sich jetzt wirklich
@@ -2723,25 +2723,25 @@ entfernt …
 
 Eine halbe Stunde verstrich. Wir schwiegen … Und
 plötzlich nun von Haralds Hängematte her ein leiser Knacks,
-ein seines Klirren … Ich drehte den Kopf … Sah —
+ein feines Klirren … Ich drehte den Kopf … Sah —
 sah, daß Harald seine Uhr noch in der Linken hatte, daß
 ihm wie mir die Hände über der Brust zusammengeschnürt
-waren, daß er … sein Uhrglas zerdrüät hatte …
+waren, daß er … sein Uhrglas zerdrückt hatte …
 
 Vielleicht ahnt der Leser, was nun geschah. — Harst
 hatte den größten der Splitter des Glases zwischen Daumen
-und Zeigefinger, begann eine mühselige Besrciung3arbeit, in
+und Zeigefinger, begann eine mühselige Befreiungsarbeit, in
 langen Pausen … Schabte mit der scharfen Kante des
 Uhrglassplitters die Stricke seiner Handgelenke durch — geduldig,
 mit Bedacht … — Eine volle Stunde verstrich …
-O’Kelling und ich siebenten, beobachteten …
+O’Kelling und ich fieberten, beobachteten …
 
 <@pagebreak/>
 Dann — hatte Harst die linke Hand frei … Und alles
-weitere war ein ztinderspiel …
+weitere war ein Kinderspiel …
 
 Noch fünf Minuten, — und auch die vier Malaien, die
-vorn im Yogis mit bösen Kopfverletzungen gefesselt gelegen
+vorn im Logis mit bösen Kopfverletzungen gefesselt gelegen
 hatten, standen neben uns an Deck … —
 
 Harst hatte seine Taschen befühlt … Meinte: »Nichts
@@ -2750,51 +2750,51 @@ wirklich geglaubt haben, daß die Mückenbrut uns erledigen
 würde … Wäre ja auch der Fall gewesen … — O’Kelling,
 so leid es mir tut: Wir können Sie jetzt nicht mitnehmen.
 Schraut und ich sind an derlei Abenteuer gewöhnt … Sie
-»könnten alles verderben. Bleiben Sie hier an Bord …
+könnten alles verderben. Bleiben Sie hier an Bord …
 Geben Sie uns nur ein wenig Schiffszwieback und Chinin.
 Es ist jetzt sieben Uhr … Zwei Stunden ist’s noch hell …
 Wir werden den Spuren der Bande folgen …«
 
-Gleich darauf kletterten wir beide in die Reste des Inka
+Gleich darauf kletterten wir beide in die Reste des Tuka
 empor …
 
 Der Marsch durch die Dschungelwildnis war nicht
-übermäbtig anstrengend. Die Spuren Hornhaut und seiner
+übermäßig anstrengend. Die Spuren Harplays und seiner
 zehn Verbündeten hätte ein Kind verfolgen können … Wir
-kamen rasch vorwärts. Mochten etwa eine Stunde umsichtig
+kamen rasch vorwärts. Mochten etwa eine Stunde unterwegs
 sein, als wir vor uns in der Ferne mehrere Schüsse
-
 hörten …
-Harald begann jetzt zu laufen … Ich feuchte hinterdrein
+
+Harald begann jetzt zu laufen … Ich keuchte hinterdrein
 …
 
 Wir merkten an dem frischeren Luftzug, daß wir uns
 einer Wasserstraße näherten …
 
-Dann sahen wir auch durch die Leuten Ausläufer des
+Dann sahen wir auch durch die letzten Ausläufer des
 Buschwerks den matten Glanz eines verkrauteten Gewässers
 …
 
 Blieben stehen … Sahen noch mehr …
 
-Ein Kutter lag dort unten im Schilf Art Ufer, halt
+Ein Kutter lag dort unten im Schilf am Ufer, halb
 verdeckt durch ein paar Bäume … Gestalten bewegten sich
-»dort … Was sie taten, war nicht zu erkennen …
+dort … Was sie taten, war nicht zu erkennen …
 
 Harald zog mich nach links. Ein Buschstreifen und
-hohes Gras bildeten hier einen förmlichen Wall … mit
+hohes Gras bildeten hier einen förmlichen Wall … Wir
 <@pagebreak/>
-Fliesen tief geduckt dem Ufer zu …
+liefen tief geduckt dem Ufer zu …
 
 Und dann — vor uns ein Bild, wie selbst wir es in
-dieser phantastisc-rohen Zusammenstellung noch nicht gesehen
+dieser phantastisch-rohen Zusammenstellung noch nicht gesehen
 hatten …: Auf dem Deck des Kutters vier erschossene
-Inder, ein fünften im Röhricht … Und am Ufer unter
+Inder, ein fünfter im Röhricht … Und am Ufer unter
 einem Baume Harplay mit dem Rest seiner Bande, geschart
 um einen Europäer, den … man gerade aufknüpfen will …
 
 Ein schlanker Europäer, ein energisches Gesicht, eine gewisse
-Ähnlichkeit mit Arwal … Arm rechten Auge … ein
+Ähnlichkeit mit Arwal … Im rechten Auge … ein
 Monokel, um die Lippen ein Lächeln grenzenloser Verachtung
 … Die Hände über der Brust gebunden, die Schlinge
 eines dicken Taus um den Hals …
@@ -2802,108 +2802,106 @@ eines dicken Taus um den Hals …
 Harplays Stimme kreischt auf: »Zum letzten Male, Mr.
 Arwal …: — Wollen Sie zugeben, daß Sie in den Ruinen
 von Rapaua den Spuk gemimt haben, daß Sie jeden Fremden
-wenig) suchen wollten, weil Sie in den Kellern des uralten
-Tempels … nach) Diamanten gruben? — Wo haben
+verscheuchen wollten, weil Sie in den Kellern des uralten
+Tempels … nach Diamanten gruben? — Wo haben
 Sie die Edelsteine? Heraus damit …!! Ihr Bruder und
 die Weiber kommen nachher an die Reihe, falls Sie wirklich
-so dumm sein sollten und hier das Baumeln lernen weitem!
-—»- Wo sind die Edelsteine — — wo?!«
+so dumm sein sollten und hier das Baumeln lernen wollen!
+— Wo sind die Edelsteine — — wo?!«
 
-Arwal jagte kalt: »Sie sind ein Narr, Harplay …!
-Sie werden Ihrer Straße nicht entgehen …! kehrten Sie
+Arwal sagte kalt: »Sie sind ein Narr, Harplay …!
+Sie werden Ihrer Strafe nicht entgehen …! Schicken Sie
 diese braunen Schufte mit dem Kutter weg, geben Sie die
 beiden Frauen und meinen Bruder frei, und Sie sollen so
 viel Diamanten erhalten, daß Sie fortan als Millionär
-leben können … — Aus etwas anderes lasse ich mich nicht
+leben können … — Auf etwas anderes lasse ich mich nicht
 ein, denn — — ich kenne Sie!«
 
-— Harplay packte hohnlachend das Tau …
+Harplay packte hohnlachend das Tau …
 
 »Vorwärts, Boys, — hißt ihn empor, damit er einen
-Vorgeschmack der Seligkeit bekommt! hoch) mit ihm — —
-hoch … doch …!!«
+Vorgeschmack der Seligkeit bekommt! Hoch mit ihm — —
+hoch … hoch …!«
 
 John Harplay schied mit diesem letzten »Hoch« aus
-dem Leben … Harald hatte gefeuert …; Kopfschuß …
+dem Leben … Harald hatte gefeuert …: Kopfschuß …
 
-Art auch meine Clement meldete sich … Zwei der
+Und auch meine Clement meldete sich … Zwei der
 Hafenhalunken klatschten neben Harplay ins Gras … Die
 <@pagebreak/>
 anderen rissen aus und wurden nicht mehr gesehen …
 
-Wir banden Arwal los — Edward Arwal, Bruder he
+Wir banden Arwal los — Edward Arwal, Bruder des
 Banknotenfälschers, des Gentleman-Piraten … Er drückte
 uns stumm die Hand, eilte zum Kutter … In der kleinen
-»Kajüte dieses jämmerlichen Fahrzeugs, mit dem John Hafenkai
-seine lebte Fahrt angetreten hatte, saßen Miß Honoria
+Kajüte dieses jämmerlichen Fahrzeugs, mit dem John Harplay
+seine letzte Fahrt angetreten hatte, saßen Miß Honoria
 Steading, dann die Schwester der Brüder Arwal und
 James Arwal, fest auf das Wandsofa geschnürt …
 
 Edward Arwal sagte schlicht:
 
-»Dr. Harst, ich werde Sie nach den nahen Ruinen
-führen … ’Dort an Ort und Stelle will ich Ihnen mitteilen,
+»Mr. Harst, ich werde Sie nach den nahen Ruinen
+führen … Dort an Ort und Stelle will ich Ihnen mitteilen,
 was Ihnen noch verborgen sein dürfte … Dort sollen
 Sie entscheiden, wie Sie sich zu uns stellen wollen …«
 
-— Mauverreste, Sänlenreste, — alles von Unkraut und
-Schlinggewäöchjen überwuchert …
+— Mauerreste, Säulenreste, — alles von Unkraut und
+Schlinggewächsen überwuchert …
 
-Edward Arwal klettert voran :… Wir Tränen die beiden
-Frauen … Mütblsame Kletterei bis zt einem Los, das
-
+Edward Arwal klettert voran … Wir stützen die beiden
+Frauen … Mühsame Kletterei bis zu einem Loche, das
 schräg abwärts in die Tiefe läuft … hinein in halb verschüttete
-Keller, hinein in einen Stollen mit versteckten
-Zugang … Laternen berichten … Am Ende des Skelette
+Keller, hinein in einen Stollen mit verstecktem
+Zugang … Laternen leuchten … Am Ende des Stollens
 aufgewühlte Erde, Spaten, ein Sandsieb … Und aus
 einem Winkel holt Edward Arwal zwei große Lederbeutel
-
-hervor … Tat: »Diamanten, Mr. Harst …!! — Und
-jetzt unsere Gehröcke … Ich war Angestellter der sank
-von England … Lernte Honoria kennen und lieber. Wir
-
+hervor … Sagt: »Diamanten, Mr. Harst …! — Und
+jetzt unsere Geschichte … Ich war Angestellter der Bank
+von England … Lernte Honoria kennen und lieben. Wir
 verlobten uns heimlich. Dann kam das Unheil: Mein
 leichtsinniger Bruder James wurde zum Fälscher, entfloh …
-Ich verlor meine Stettin:g, kam durch Zufall hierher, durchsuchte
-die Ruinen, blieb und arbeitete, aus nach Diamanten,
-wurde reich. Meine Schwester Ritt vermittelte den
-höhnischen Bricstivehßscl mit Honoria, wußte auch, wo
+Ich verlor meine Stellung, kam durch Zufall hierher, durchsuchte
+die Ruinen, blieb und arbeitete, grub nach Diamanten,
+wurde reich. Meine Schwester Kitty vermittelte den
+heimlichen Briefwechsel mit Honoria, wußte auch, wo
 James sich aufhielt. Honoria war’s, die den abenteuerlichen
-Plan entwarf, wie sie Mensch winden und sich mit mir vereinen
-könnte, ohne den Namen Steading blofzustel’en.
+Plan entwarf, wie sie verschwinden und sich mit mir vereinen
+könnte, ohne den Namen Steading bloßzustellen.
 James kaufte in Hamburg die Jacht, Harplay besorgte die
 Besatzung …«
 
 <@pagebreak/>
 Harald nickte … »Das weitere kenne ich, Mr. Arwal …
-— her Dampfer mit dem! grünen Licht war ebenfalls von
-»Ihnen gemietet, sollte Sie in die Fremde bringen … Ihre
+Der Dampfer mit dem grünen Licht war ebenfalls von
+Ihnen gemietet, sollte Sie in die Fremde bringen … Ihre
 Pläne wurden durch uns gestört … Sie blieben hier und
 gerieten in Harplays Gewalt …«
 
-Edward Arwal halte Honorias Hand genommen …
-»an. Harst, die Verluste der fünfzehn geplünderten Schiffe
-»werden erlebt werden … Ad) werde seiner der Bank von
+Edward Arwal hatte Honorias Hand genommen …
+»Mr. Harst, die Verluste der fünfzehn geplünderten Schiffe
+werden ersetzt werden … Ich werde ferner der Bank von
 England eine halbe Million anonym überweisen. Niemand
 soll irgendwie durch uns geschädigt bleiben … — Nun —
 — entscheiden Sie! Wollen Sie uns verraten?«
 
-Harald lächelte ein wenig … Seine Augen ruhten aus
+Harald lächelte ein wenig … Seine Augen ruhten auf
 Honoria Steading …
 
-— zum der Liebe willen, Mr. Arwal,« meinte er leise …
+»Um der Liebe willen, Mr. Arwal,« meinte er leise …
 »Um der Liebe willen wird vieles verziehen und vergessen.
-— Leben Sie wohl — — und werden Mr Glück!ich …
+— Leben Sie wohl — — und werden Sie glücklich …«
 
-erlosch nahm er eine Wasser … Rasch entfernten wir
-uns
+Rasch nahm er eine Laterne … Rasch entfernten wir
+uns … —
 
-Um Halb zehn ’varen wir »… Der auf der »Lady Ha—miltion«.
-O’Kelling fragte …  0 erwiderte nur: »Wir
+Um Halb zehn waren wir wieder auf der »Lady Hamilton«.
+O’Kelling fragte … Harst erwiderte nur: »Wir
 haben Pech gehabt … Wir haben nichts gefunden, gar
-nichts … — Und dabei holte es sein Bewenden … — —
-… Zwei Monate drauf H1:2 1 wir aus Australien einen
-sehr herzlichen Brief … Hm Branche ich nicht zu erwähnen
+nichts … — Und dabei hatte es sein Bewenden … — —
+
+Zwei Monate drauf erhielten wir aus Australien einen
+sehr herzlichen Brief … Von wem, brauche ich nicht zu erwähnen
 … Auch das nicht, daß ich hier die Namen und
 den Schauplatz der Handlung ein wenig geändert habe. —
 Übrigens hat Honoria sich später, nachdem sie Frau Arwal
@@ -2911,6 +2909,7 @@ geworden, ihrem Vater anvertraut … Und auch er hat
 verziehen: um der Liebe willen! —
 
 Nächster Band:
-Das Rätsel der drei Schlüssel.
+
+__Das Rätsel der drei Schlüssel.__
 
 Druck: P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
