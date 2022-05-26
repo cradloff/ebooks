@@ -863,7 +863,7 @@ wollte Honorias Namen bis auf weiteres auch vor O’Kelling
 geheim halten …
 
 Um das Thema zu wechseln, fragte ich jetzt nach den
-Verbleib des Dampfers mit dem hellgrünen Licht am Bugpriet
+Verbleib des Dampfers mit dem hellgrünen Licht am Bugspriet
 …
 
 »Wie sollte ich noch auf den Dampfer achtgeben, Mr.
