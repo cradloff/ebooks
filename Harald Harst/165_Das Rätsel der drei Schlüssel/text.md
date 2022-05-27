@@ -1,36 +1,32 @@
 <@pagebreak/>
 
-Nachdruck verboten. — die Rechte, &Enijchi. das Verfilmungsrecht,
-vorbehalten. — Copyright 1926 by Verlag moderner
-Lektüre G.&nbsp;in.&nbsp;b.&nbsp;H., Berlin.
-
-Das Rätsel der drei Schlüssel.
+<@include "../intro_short.ftl"/>
 
 <h2>1. Kapitel.</h2>
 <h3>Als Harst die Zigaretten zerpflückte …</h3>
 
 Im Hafen von Madras liegt ein heUgrau gestrichener
-Hochseekutter … Vorn am Bug glänzt in Feigling der
-Name: Lady Hamilton. — Da sitzen acbßtern unter einem
-Sonnensegel Kapitän Allan O’clliung, Harst und ich angerieben
-die frische Abewndbrisc, die vom Meere herüberkommt
+Hochseekutter … Vorn am Bug glänzt in Messing der
+Name: Lady Hamilton. — Da sitzen achtern unter einem
+Sonnensegel Kapitän Allan O’Kelling, Harst und ich und
+genießen die frische Abendbrise, die vom Meere herüberkommt
 …
 
-O’Kelling wirst seinen Zigarettenrest über die niedere
-Reling in das jetzige, schmutzige Wasser und sagt: »Mr.
-Harst, Sie sind [so sehr zerstreut … Ich« habe Sie jetzt genau
+O’Kelling wirft seinen Zigarettenrest über die niedere
+Reling in das fettige, schmutzige Wasser und sagt: »Mr.
+Harst, Sie sind so sehr zerstreut … Ich habe Sie jetzt genau
 vier Minuten lang beobachtet, und in diesen vier Minuten
-haben Sie in Gehorsam aus Ihrem Zigarettenetui
+haben Sie in Gedanken aus Ihrem Zigarettenetui
 vier Ihrer Mirakulum herausgenommen und zwischen den
-Fingern zerrieben … Sehen Sie nur in Ihren Schloß, Mr.
+Fingern zerrieben … Sehen Sie nur in Ihren Schoß, Mr.
 Harst … Da liegen auf Ihrer Jacke die Überbleibsel der
 vier armen unschuldigen Dinger, die nun nichts mehr wert
 sind … Nur noch als Pfeifentabak zu benutzen …«
 
-Ich nähere noch bemerken, daß wir in Hängematten
-finden und nur auf das allernotdürftigste bekleidet waren,
-denn die Hitze während des Tages war selbst [är Madras
-etwas reichlich genossen.
+Ich möchte noch bemerken, daß wir in Hängematten
+saßen und nur auf das allernotdürftigste bekleidet waren,
+denn die Hitze während des Tages war selbst für Madras
+etwas reichlich gewesen.
 
 <@pagebreak/>
 Harald schaute erst Käpten O’Kelling und dann mich
@@ -39,89 +35,94 @@ eines Menschen, der an ganz andere Dinge denkt:
 
 »Es muß nachts jemand in der Kajüte gewesen sein.«
 
-Unser alter Käpten stierte: »Stimmt, drei Mann
+Unser alter Käpten griente: »Stimmt, drei Mann
 waren nachts in der Kajüte — wir drei, und wir haben wie
-die Murmeltiere geschlossen …«
+die Murmeltiere geschlafen …«
 
 Ich war doch auf Harsts Eigenart besser eingespielt als
-O’Kelling. Ich brachte seine Bemerkung schnell mit von her
-pflückten Zigaretten in Verbindung, und dieser Hitze, sel) wer-wiegende
-Denkprozeß hatte im Nu alle Trägheit von mir
+O’Kelling. Ich brachte seine Bemerkung schnell mit den
+zerpflückten Zigaretten in Verbindung, und dieser kurze,
+schwerwiegende Denkprozeß hatte im Nu alle Trägheit von mir
 abgeschüttelt …
 
-Ich blickte Harald scharf zu, sagte sehr ernst: »Es hatte
+Ich blickte Harald scharf an, sagte sehr ernst: »Es hatte
 sich jemand Fremdes in die Kajüte eingeschlichen, nicht
-wahr? Und dieser Jemand halte zu deinen Zigaretten
+wahr? Und dieser Jemand hatte an deinen Zigaretten
 irgendeine Veränderung vorgenommen …«
 
 Harst nickte … »Ja, so ist’s … — Bitte, hier habe
 ich noch die eine Zigarette, die ich mir vorhin anrauchte.
-Nach den ersten zwei Zügen sah) ich zufällig außen nun dem
-Papier eine bräunliche Verfärbung. Ein Blick in mein Kali
-zeigte mir die stehen Flecken an den vor) in dem Etui befindlichen
-vier Mirakulum. Ich) habe diese dann zwischen
-den Fingern zerrieben und stellte [so seit, daß der hellgelbe
+Nach den ersten zwei Zügen sah ich zufällig außen an dem
+Papier eine bräunliche Verfärbung. Ein Blick in mein Etui
+zeigte mir die gleichen Flecken an den noch in dem Etui befindlichen
+vier Mirakulum. Ich habe diese dann zwischen
+den Fingern zerrieben und stellte so fest, daß der hellgelbe
 Tabak an den Stellen, wo außen am Papier die Flecken sichtbar
 waren, tief braun verfärbt war. Dann rauchte ich vorsichtig
 die erste Zigarette weiter, und als die Glut den Fleck
 erreicht hatte, schmeckte ich, daß der Rauch recht beißend
 war. Es muß also jemand in der verflossenen Nacht die
 Kajüte betreten, mein Etui an sich genommen und die fünf
-Zigaretten mit Hilfe einer Hanfleinen Inijektionsspritze …
+Zigaretten mit Hilfe einer haarfeinen Injektionsspritze …
 vergiftet haben …«
 
-O’Kelling machte dazu ein recht ungläubiges See
+O’Kelling machte dazu ein recht ungläubiges Gesicht
+…
 
-sieht …
 Aber Harald fügte ebenso gelassen hinzu: »Wir hatten
 die Tür nachts halb offen — der Hitze wegen … Und wenn
-
-der malaiisch)e Matrose, der nach Mitternacht die Wache
+der malaiische Matrose, der nach Mitternacht die Wache
 <@pagebreak/>
 hatte, an Deck eingenickt ist, kann ein Fremder unschwer zu
 uns hineingelangt sein …«
 
 Der Käpten brüllte sofort nach dem Vorschiff zu, wo
-die vier Malaien des Kkuticrck auf einer Matte faulenzten:
-»Falle, Paratu, komm’ mal her, mein Sohn …!«
+die vier Malaien des Kutters auf einer Matte faulenzten:
+
+»Hallo, Paratu, komm’ mal her, mein Sohn …!«
 
 Paratu erschien … — O’Kellings vier Matrosen
-waren seit Jahren aus dem Kutter und ebenso pflichttreu
+waren seit Jahren auf dem Kutter und ebenso pflichttreu
 wie ihrem Herrn ergeben.
 
 »Paratu, du hattest von zwölf bis drei die Wache,«
-meinte der Käpten. »Ist Dir irgend etwas ausaejaltenk
-Trick sich am Bollwerk vielleicht jemand herum?«
+meinte der Käpten. »Ist Dir irgend etwas aufgefallen?
+Trieb sich am Bollwerk vielleicht jemand herum?«
 
-Der Rinnsale erwiderte ohne Zögern:
+Der Malaie erwiderte ohne Zögern:
 
-»Tag, Tuwan (Herr) Reling, — ein chinesischer Händler
-… Er bot mir Reis;Schnaps und Tabak an … Aber
+»Ja, Tuwan (Herr) O’Kelling, — ein chinesischer Händler
+… Er bot mir Reisschnaps und Tabak an … Aber
 ich kaufte ihm nichts ab …«
 
 Harald mischte sich ein …
-»Agentur, der Chinese hat längere Zeit mit Dir geplant
 
-dort? Du wolltest Dir die Zeit vertreiben und hast Dir allein
-
+»Paratu, der Chinese hat längere Zeit mit Dir geplaudert?
+Du wolltest Dir die Zeit vertreiben und hast Dir 
 allerlei erzählen lassen …«
-»So war’s, Tuwan Harst. Der Chinese kannte meine
 
+»So war’s, Tuwan Harst. Der Chinese kannte meine
 Heimat. Er muß weit herumgekommen sein …«
+
 O’Kelling polterte jetzt ärgerlich heraus: »Während
-du dich mit dem (Mehlschicht beschästigiest, hat …«
-Harald hüstelte wartend, worauf der Käpten sehr geht
-fedprgenwärtig den begonnenen Tau enge anders See
-endete:
+du dich mit dem Gelbgesicht beschäftigtest, hat …«
+
+Harald hüstelte warnend, worauf der Käpten sehr
+geistesgegenwärtig den begonnenen Satz etwas anders
+beendete:
+
 »… hat vielleicht ein Freund des Händlers sich an Bord
 schleichen und stehlen wollen. — Wo standest du denn, als du
 mit dem Schlitzäugigen redetest?«
+
 »Ganz vorn an der Ankerwinde, Tuwan … — Es
 ist doch aber nichts gestohlen?!« fügte er ängstlich hinzu …
-Harst sagte lächelnd: »Nein, nein., Paratu … Aber
+
+Harst sagte lächelnd: »Nein, nein, Paratu … Aber
 das nächste Mal sei vorsichtiger … Keinem Chinesen ist
-zu trauen. — Wie sah denn der Händler aus?« —
-— »Wie sie alle aussetzen … War schon ein alter Kerl
+zu trauen. — Wie sah denn der Händler aus?«
+
+»Wie sie alle aussehen … War schon ein alter Kerl
 mit einem faltigen Gesicht und einem gelähmten Arm …«
 
 <@pagebreak/>
@@ -130,23 +131,22 @@ Kutter hat doch hier in Madras seinen Heimathafen, und
 du müßtest doch von Ansehen die Straßenhändler kennen …
 Der alte Chinese war Dir fremd?«
 
-»Ja, Tuwan … Er erzählte, daß er erst kürzlich Gieriger
+»Ja, Tuwan … Er erzählte, daß er erst kürzlich hierher
 gekommen sei …«
 
-»Welcher Arm war ihm denn gelähmt, Paratus«
+»Welcher Arm war ihm denn gelähmt, Paratu?«
 
 »Der linke … — Das heißt: Gelähmt doch wohl nicht.
 Er trug ihn in der Schlinge … Vielleicht hatte er ihn gebrochen
-oder sonst eine Verlesung daran … — geht besinne
-ich mich: Der Unterarm war deutet — ein Verband,
+oder sonst eine Verletzung daran … — Jetzt besinne
+ich mich: Der Unterarm war bewickelt — ein Verband,
 und es roch auch nach … nach Verbandsstoff, Tuwan
-
-Harst … …
+Harst …«
 
 »Es, ist gut, Paratu. Sei jedoch auf Nachtwache vorsichtiger
 …«
 
-Der unklare kehrte nach dem Vorschiff zurück.
+Der Malaie kehrte nach dem Vorschiff zurück.
 
 Harald wandte sich an den Käpten …
 
@@ -154,152 +154,150 @@ Harald wandte sich an den Käpten …
 Aufmerksamkeit ab, und ein zweiter schlich derweil zu uns
 in die Kajüte und präparierte die Zigaretten …«
 
-»Ja — aber weshalb das alles, Mr. Harsts!« rief
+»Ja — aber weshalb das alles, Mr. Harst?!« rief
 O’Kelling wütend. »Weshalb wollte man Sie durch die
-
 Zigaretten …«
-p: 1: kampfunfähig machen ::.::« ergänzte Harst, »Das
 
-T
-
-wollte statt …! Es wird sicherlich ein Gift Allen Tabak
-gespritzt worden sein, das mich gesundheitlich schwer zg&
-unbeschädigt hätte … Und die Leute, die diesen Streich vorüber,
+»… kampfunfähig machen …« ergänzte Harst. »Das
+wollte man …! Es wird sicherlich ein Gift in den Tabak
+gespritzt worden sein, das mich gesundheitlich schwer
+geschädigt hätte … Und die Leute, die diesen Streich verübten,
 hatten natürlich hier durch die Zeitungen erfahren, daß
-Schraut und ich Ihre Gäste sind, lieber O’NKelling, — wollten
+Schraut und ich Ihre Gäste sind, lieber O’Kelling, — wollten
 einen Mann matt sehen, der ihnen schaden könnte:
 Mich!! Mithin haben diese Leute entweder schon etwas
 Arges berissen, oder wollen es noch tun. Ich möchte das
 erstere annehmen: Sie haben bereits etwas begangen, und
 vielleicht hat der alte Chinese dabei … eins ausgewischt
 bekommen. Schuß in den linken Arm! Wenn der Verband,
-wie Paratu behauptete, vor so stark roch, daß der Malaie
+wie Paratu behauptete, noch so stark roch, daß der Malaie
 <@pagebreak/>
-merkte, kann die Verlobung erst kurze Zeit zurückliegen.
+es merkte, kann die Verletzung erst kurze Zeit zurückliegen.
 
-Lassen Sie uns einmal ein paar Abendzreitungen holen,
+Lassen Sie uns einmal ein paar Abendzeitungen holen,
 O’Kelling. dann werden wir ja sehen, ob wir unter den
-
 neuesten Nachrichten irgend etwas finden, das zu meiner
 Vermutung stimmt …«
 
 Paratu war’s, der nach den Zeitungen davoneilte.
-Inder von uns dreien nahm eine andere Zeitung vor.
+Jeder von uns dreien nahm eine andere Zeitung vor.
 O’Kelling studierte das in Madras erscheinende Eingeborenenblatt,
 da er die Landessprache am besten beherrschte.
 und er war’s, der bereits nach wenigen Minuten rief:
 
-»Falle, hier wäre vielleicht etwas, Mr. Harst … Hören
+»Hallo, hier wäre vielleicht etwas, Mr. Harst … Hören
 Sie, ich will vorlesen …«
 
 Und er las:
 
-»Geheimnisvolle Vorgänge im Schlosse des Radscha
-von Dank. — Das kleine Fürstentum Dank im Westen
-von Madras in den romantischen Karra-Bergen mit Berliner
+> »Geheimnisvolle Vorgänge im Schlosse des Radscha
+von Dauli. — Das kleine Fürstentum Dauli im Westen
+von Madras in den romantischen Karra-Bergen mit der
 gleichnamigen Hauptstadt ist vor drei Tagen der
 Schauplatz recht unerklärlicher Ereignisse geworden. In
 der regnerischen Nacht vom Freitag zum Sonnabend bemerkte
 eine der Palastwachen im Parke drei verdächtige
-Gestalten, Der betreffende Soldat, ein Mann von der
+Gestalten. Der betreffende Soldat, ein Mann von der
 Leibgarde des alten Fürsten, folgte den dreien, indem er
-ein Tracht schußfertig machte, Plötzlich verschwanden
-ie Fremden jedoch wie durch ein Winter, und elf! nach
+ein Gewehr schußfertig machte. Plötzlich verschwanden
+die Fremden jedoch wie durch ein Wunder, und erst nach
 einer Stunde sah der Wachtposten sie von neuem etwa
-an derselben Stelle, wo. sie vorher so jäh unsichtbar geworden
+an derselben Stelle, wo sie vorher so jäh unsichtbar geworden
 waren. Diesmal rief der Soldat sie an und
-feuerte, als sie nicht sofort stehen schließen waren. Trotzdem
+feuerte, als sie nicht sofort stehen geblieben waren. Trotzdem
 entkamen die Fremden, die nach Behauptung des
 Postens Chinesen gewesen sein sollen … Eine sofortige
 Durchsuchung des Parkes und des Schlosses, die der englische
 Privatsekretär des Radscha veranlaßte, brachte keinerlei
 Aufschluß über die Absichten, die jene drei Chinesen
-gehabt halben können. Man fand ihre Spuren, und
+gehabt haben können. Man fand ihre Spuren, und
 diese verloren sich außerhalb des Parkes in einer steinigen
 <@pagebreak/>
-Schlucht. — Das, was bei diesem Vorfall [so überaus
+Schlucht. — Das, was bei diesem Vorfall so überaus
 seltsam erscheint, ist die Tatsache, daß die Eindringlinge
-vor den Augen des Postens sich gleichsam in Nebel als
-lösten, als sie ihm aus den Augen kamen. Im übrigen
+vor den Augen des Postens sich gleichsam in Nebel auflösten,
+als sie ihm aus den Augen kamen. Im übrigen
 muß einer der drei doch eine Verletzung davongetragen
 haben, da man verschiedene Blutstropfen im Grase und
-auch aus der Parkmauer entdeckte. — Das Schloß des
-betagten Fürsten von Dank ist ja schon wiederholt von
-Verbrechern heimaesuncht worden. die immer Wieder
+auch auf der Parkmauer entdeckte. — Das Schloß des
+betagten Fürsten von Dauli ist ja schon wiederholt von
+Verbrechern heimgesucht worden. die immer Wieder
 auftauchenden lächerlichen Gerüchte, daß der Radscha in
-dem Palast märchenhafte Schläge verbirgt, locken stets
-aus neue Abenteurer herbei, obwohl es doch längst er:
-wiesen ist, daß all diese Gerüchte in das Reich der Fabel
+dem Palast märchenhafte Schätze verbirgt, locken stets
+aufs neue Abenteurer herbei, obwohl es doch längst erwiesen
+ist, daß all diese Gerüchte in das Reich der Fabel
 gehören. — Der alte Fürst soll vor Aufregung über die
 Schießerei in seinem Park erkrankt sein. Gerade wir Inder,
-die wir in dem Radscha Kalisara den Karra einen
+die wir in dem Radscha Kalisara ben Karra einen
 jener Fürsten verehren, die sich ganz offen der großen indischen
 Freiheitsbewegung angeschlossen haben, wollen
-erschossen, daß sein Gesundheitszustand sich recht bald wieder
+hoffen, daß sein Gesundheitszustand sich recht bald wieder
 bessern möge.«
 
 Raum hatte O’Kelling dies vorgelesen, als Harald, der
-die Bodens-fort in Händen hielt, zu uns sagte:
+die Madras-Post in Händen hielt, zu uns sagte:
 
-»Ober in dieser Zeitung zur dich Vyrnäinae nennt By
-Jesebiebert, Wir, Daß As über die »mhrgenbajsien Erbe
-hier folgendermaßen heißt: »Der alte Radscha ist vor Seher
-als gefährlicher Auswischen bekannt. sein Haß gegen alles,
+»Hier in dieser Zeitung sind die Vorgänge genau so
+geschildert, nur, Daß es über die »märchenhaften Schätze»
+hier folgendermaßen heißt: »Der alte Radscha ist vor jeher
+als gefährlicher Aufwiegler bekannt. sein Haß gegen alles,
 was Europäer heißt, hat ihm die Verehrung seiner Landsleute
 eingetragen. Und was die in seinem Palast aufgehäuften
 Schätze betrifft, so dürfte es sich dabei keineswegs
-um eine Fabel zulächeln, sondern — was die Eingeborenen
+um eine Fabel handeln, sondern — was die Eingeborenen
 natürlich abstreiten — um den seit vielen Jahren gesammelten
 Propagandafonds der großindischen Unabhängigkeitsbewegung,
 der fraglos Hunderte von Millionen wert sein
 dürfte und für die europäische Herrschaft dabei keine geringe
-
-Gefahr dachte!ich:«
+Gefahr darstellt.«
 
 <@pagebreak/>
 Harald ließ die Zeitung sinken …
-Cm gleichen Moment rief der Malaie Paratu:
+
+Im gleichen Moment rief der Malaie Paratu:
+
 »Ein Tuwan kommt …!«
 
-Wir schauten hm …
-Über die Laufplanke schritt ein Europäer, ganz in
+Wir schauten hin …
 
+Über die Laufplanke schritt ein Europäer, ganz in
 Weiß, mit einem Tropenhelm auf dem blonden Kopf mit
-tief gebrannten, sehr energischen Zügen …
+tief gebräunten, sehr energischen Zügen …
+
 Harald sagte leise:
-»Vielleicht der Privatsekretär des Radscha von Faust.«
+
+»Vielleicht der Privatsekretär des Radscha von Dauli.«
 Und er hatte recht … Es war Sir Lionel Wardner.
 
-Fx
-
 <h2>2. Kapitel.</h2>
-<h3>Die hellen Nagel.</h3>
+<h3>Die gelben Nägel.</h3>
 
-Ein Liegestuhl drehte Sir Wardner als Sir …
+Ein Liegestuhl diente Sir Wardner als Stuhl …
+
 Harald entschuldigte sich und ging für ein paar Minuten
 in die Kajüte, wo er sein Zigarettenetui frisch gefüllt
-
 hatte …
-»ihre, Sir Wardner, — bedienen Sie sich …« meinte
-er licvenviwürdig.
 
-Der Privatsekretär wehrte halb scherzend ab … »Verführer
-Sie mich nicht, Wir. Harst … Ich rauche nie Zigaretten
+»Bitte, Sir Wardner, — bedienen Sie sich …« meinte
+er liebenswürdig.
+
+Der Privatsekretär wehrte halb scherzend ab … »Verführen
+Sie mich nicht, Mr. Harst … Ich rauche nie Zigaretten
 — nie! Und Zigarren selten … — Gestatten Sie
 nun, daß ich auf den Zweck meines Besuch zu sprechen
-komme. Wie ich Ihnen schon sagte, bin ich seit grüne Jahren
-Privatsekretär des Fürsten von Dank, und zwar sein
+komme. Wie ich Ihnen schon sagte, bin ich seit fünf Jahren
+Privatsekretär des Fürsten von Dauli, und zwar sein
 einziger europäischer Beamter. Auch mich stellte er nur deshalb
-ein, weil er meine politische Gesinnung kennt. I bin
+ein, weil er meine politische Gesinnung kennt. Ich bin
 nämlich so etwas wie ein Abtrünniger, das heißt, ich bin
 Engländer und habe trotzdem als Schriftsteller stets für die
-Unabhängigkeit Indiens gekrampft, habe verschiedene Boote)
-Türen versucht und mich durch deren politische Tendenz in
-
+Unabhängigkeit Indiens gekämpft, habe verschiedene Broschüren
+verfaßt und mich durch deren politische Tendenz in
 England fast unmöglich gemacht.«
+
 Harald schien hierfür wenig Interesse zu haben und
 <@pagebreak/>
-meinte: »Jedenfalls kommen Sie kurzen der drei hinreißen,
+meinte: »Jedenfalls kommen Sie wegen der drei Chinesen,
 Sir Wardner.«
 
 »Ah — Sie haben dort die Abendblätter liegen,« nickte
@@ -308,102 +306,98 @@ Park des Palastes meines Herrn geschehen ist … Der
 Radscha wünscht nun, daß diese drei Chinesen um jeden
 Preis ermittelt werden, Mr. Harst.«
 
-Harst, der liebt in seiner Hängematte ganz sacht schaukelte,
-meinte, indem er aus die Zeitungen deutete:
+Harst, der jetzt in seiner Hängematte ganz sacht schaukelte,
+meinte, indem er auf die Zeitungen deutete:
 
-»Dann ist die hiesige Presse doch wohl wigenuügend
+»Dann ist die hiesige Presse doch wohl ungenügend
 unterrichtet … Es ist etwas gestohlen worden …«
 
-Mit verfänglichen Xebhajtigkeit tritt Sir Wardner das
+Mit verfänglicher Lebhaftigkeit stritt Sir Wardner das
 ab …
-»Nein, Mr. Harst, — wirklich) nicht … Es wird im
-Palast auch) nicht die geringste Kleinigkeit vermißt, und es
+
+»Nein, Mr. Harst, — wirklich nicht … Es wird im
+Palast auch nicht die geringste Kleinigkeit vermißt, und es
 ist noch nicht einmal erwiesen, daß die drei Chinesen überhaupt
-in das Schloß eingedrungeiw waren … Du das sollen
+in das Schloß eingedrungen waren … All das sollen
 Sie feststellen …«
 
-»» Verzeihung, Sir, — Sie lenken ab … Es braucht
+»Verzeihung, Sir, — Sie lenken ab … Es braucht
 ja nicht gerade im Palast etwas vermißt zu werden … Auch
 aus dem Parke kann etwas gestohlen worden sein …«
 
 Wardner lachte … Ein Lachen, das mir gezwungen
-klang … »Zu einem Park gibt es keine Kostbarkeiten zu
-stehlen, Mr. Harst …
+klang … »In einem Park gibt es keine Kostbarkeiten zu
+stehlen, Mr. Harst …«
 
-»O — es ist doch so viel von den Schaden des Fürsten
+»O — es ist doch so viel von den Schätzen des Fürsten
 die Rede … Und diese Schätze brauchen nicht gerade
 im Schloß untergebracht zu sein …«
 
 Der Privatsekretär schüttelte energisch den Kopf …
 
-»Wenn man nur dies törichte Märchen aus der In schaffen
-könnte! Der Fürst betrat Kleinodien, gewiß … Aber die
+»Wenn man nur dies törichte Märchen aus der Welt schaffen
+könnte! Der Fürst besitzt Kleinodien, gewiß … Aber die
 liegen hier in Madras in der Stahlkammer der Bank von
-
 Indien …!«
+
 Harald nickte … »Nun gut — mag sein … — Ich
-
-an
-
-sitze Je
-
-Übernehme den Austrag … Ad werde die Nachforschungen
-
-jedoch auf weiter Art beginnen … Mag Seine Hoheit sich
+Übernehme den Auftrag … Ich werde die Nachforschungen
+jedoch auf meine Art beginnen … Mag Seine Hoheit sich
 <@pagebreak/>
-also nicht! wundern, wenn er zunächst nichts von uns hört.
+also nicht wundern, wenn er zunächst nichts von uns hört.
 Ich habe stets meine besonderen Methoden …«
 
-Wardner kenne eine gewisse Enttäuschuniig nicht verbergen
+Wardner konnte eine gewisse Enttäuschung nicht verbergen
 …
 
 »Der Radscha hatte gehofft, Sie uns Ihr Freund würden
 im Palast ein paar Tage Wohnung nehmen,« sagte er
 zögernd …
+
 »Vielleicht später, Sir … — Nur eins möchte ich recht
-genau erfahren: Wie war das mit dem verharrten der
-drei Schwelend! Der Soldat so erklärt haben, die Eindringlinge
-hätten sich gleichsam in Nebel ausgelöst … bin
-weiter Stelle der Parkes segeln) das Y Sie Brunnen mir
+genau erfahren: Wie war das mit dem Verschwinden der
+drei Chinesen?! Der Soldat soll erklärt haben, die Eindringlinge
+hätten sich gleichsam in Nebel aufgelöst … An
+welcher Stelle der Parkes geschah das? Sie können mir
 den Platz doch fraglos genau beschreiben …«
 
-Wardner Zwecke die behielt 1. »Leider nein, Mr.
-Harst. Ich habe auf diese Behauptung des Wachtpostcus,
-die vorn reichlich nach Aberglauben schmeckt, uneins Sport
-gelegt … Angeblich war’s in der Nahe eines der Marmorpavillons,
+Wardner zuckte die Achseln … »Leider nein, Mr.
+Harst. Ich habe auf diese Behauptung des Wachtpostens,
+die doch reichlich nach Aberglauben schmeckt, wenig Wert
+gelegt … Angeblich war’s in der Nähe eines der Marmorpavillons,
 die den Park zieren …«
 
-»melden dieser Pavillons kommt da in Betracht?«
+»Welcher dieser Pavillons kommt da in Betracht?«
 forschte Harald hartnäckig weiter …
 
-der Privatsekretär machte eine ärgerliche Hanudbewe-gung
-… »mir. Harst, legen Sie wirklich aus eine solche
+der Privatsekretär machte eine ärgerliche Handbewegung
+… »Mr. Harst, legen Sie wirklich auf eine solche
 alberne angebliche Beobachtung eines braunen Leibgardisten
-Gewicht?! Nun denn, es war der Pavillon vor dem alte
-zum des Palastes 8 …«
+Gewicht?! Nun denn, es war der Pavillon vor dem Ostturm
+des Palastes …«
 
-»baute, Sir Wardner … — Ich lege aus alles Gewicht
+»Danke, Sir Wardner … — Ich lege auf alles Gewicht
 … — Sie können also Seiner Hoheit bestellen, daß
 wir sofort an die Arbeit gehen werden …«
 
 Der Engländer erhob sich. Wir begleiteten ihn bis
 zur Laufplanke. Er winkte uns vom Bollwerk noch zu und
-schritt dann in seiner kraftvoll-nachlässigen Haltung das
+schritt dann in seiner kraftvoll-nachlässigen Haltung davon
+…
 
-von …
-Harald wandte sich halb um, rief den Malaie Paratu
-
+Harald wandte sich halb um, rief den Malaien Paratu
 herbei …
+
 Sagte halblaut: »Paratu, du folgst dem Tuwan heimlich
 <@pagebreak/>
-und … schweigst! Herumritt dich geschickt … — Vorwärts!«
+und … schweigst! Benimm dich geschickt … — Vorwärts!«
 
-Paratu war zunächst ein wenig verblüfft … dann
+Paratu war zunächst ein wenig verblüfft … Dann
 trottete er in halbem Trab über den Kai, aber nicht direkt
 hinter Sir Wardner her …
 
-Käpten O’KXelling meinte verwundert: »Weshalb das,
-Mr. Harstkx!«
+Käpten O’Kelling meinte verwundert: »Weshalb das,
+Mr. Harst?!«
 
 Harald setzte sich wieder in seine Hängematte …
 
@@ -412,40 +406,40 @@ hatte gelbbraune Fingernägel …! Er behauptete hier, keine
 Zigaretten zu rauchen. Schwindel. Seine Fingernägel beweisen
 das Gegenteil …«
 
-» All), nun verstehe ich erst …«
+»Ah, nun verstehe ich erst …«
 
 »Vielleicht nicht alles. Er lehnte also die Mirakulum
 unter einem Vorwand ab. Vielleicht weil er fürchtete, eine
 der vergifteten Zigaretten zu erwischen …«
 
-»» Verdammt, Mr. Harst, dann … dann müßte er ja
+»Verdammt, Mr. Harst, dann … dann müßte er ja
 gewußt haben, daß solch ein gelber Lump Ihre Mirakulum
 getränkt hat …«
 
 »Freilich — vielleicht hat er es gewußt. Wir haben es
-ihm nicht erzählt. Also …« …
+ihm nicht erzählt. Also …«
 
 Unser Käpten riß den Mund unheimlich weit auf.
-Seine drei braunen Lafkribenstuminel standen wie Zaum
-Pfähle vor dieser gewaltigen Futterluke …
+Seine drei braunen Lakritzenstummel standen wie Zaunpfähle
+vor dieser gewaltigen Futterluke …
 
-»Aber … aber bester Mr. zuerst …!!« rief er dann ungläubig.
-»Das können Sie doch) nur im Scherz meinen!
-Wardner- wird sich …«
+»Aber … aber bester Mr. Harst …!« rief er dann ungläubig.
+»Das können Sie doch nur im Scherz meinen!
+Wardner wird sich …«
 
 »Warten Sie ab, O’Kelling … Wardner wird sich
 noch mehr Blößen geben … Er ist ohne Frage intelligent.
-Nur zum ganz großen Verbrecher Kriecht’s nicht bei ihm …
-Ich wette, daß Paratu, wenn er sich) nicht gerade allzu ungeschickt
+Nur zum ganz großen Verbrecher reicht’s nicht bei ihm …
+Ich wette, daß Paratu, wenn er sich nicht gerade allzu ungeschickt
 benimmt, uns nachher erzählen wird, daß Sir
 Wardner sich mit einem Chinesen getroffen hat oder zum
 mindesten anderes getan hat, was verdächtig ist … — Jetzt
 wollen wir Abendbrot essen … Dann werden Schraut und
-ich Toilette machen … Chiuesenkostümn …«
+ich Toilette machen … Chinesenkostüm …«
 
 <@pagebreak/>
-O’Kelling klatschte in die Hände. Ein anderer der na:
-Laien kam herbei …
+O’Kelling klatschte in die Hände. Ein anderer der Malaien
+kam herbei …
 
 »Decke den Tisch in der Kajüte,« befahl der Käpten … —
 
@@ -454,22 +448,21 @@ Wir saßen noch beim Abendbrot, als Paratu zurückkehrte
 
 »Nun?!« fragte Harst gespannt …
 
-»»Januar, es war nichts,« erwiderte der Malaie kläglich
-»Der blonde Tuwan ging nur in die Teestube in der Kal-kuttajsiriße
-… Und ich mußte draußen bleiben. Co ist die
-vornehmste Vereitle hier in Madras …«
+»Tuwan, es war nichts,« erwiderte der Malaie kläglich.
+»Der blonde Tuwan ging nur in die Teestube in der
+Kalkuttastraße … Und ich mußte draußen bleiben. Es ist die
+vornehmste Teestube hier in Madras …«
 
-»Una der Besitzer 7«
+»Und der Besitzer?«
 
--»L/schlug antwortete lebt: »Der Besitzer ist der Chinese
-Wapeisu, ein frieczerija er Lump, der ans;selten noch
+O’Kelling antwortete jetzt: »Der Besitzer ist der Chinese
+Wapeisu, ein kriecherischer Lump, der außerdem noch
+ein paar Spelunken im Eingeborenenviertel sein eigen
+nennt …«
 
-ein paar Loskaufen im Eingeborenenviertel sein eigen
-
-zehnt …«
 Harst gab Paratu Geld …
-»Da nimm … Tod bin zufrieden … Und halte den
 
+»Da nimm … Ich bin zufrieden … Und halte den
 Mund!« —
 
 Und um zehn Uhr abends machte der Kutter vom Bollwerk
@@ -480,24 +473,24 @@ Käpten O’Kelling betete uns noch ein Abschiedssprüchlein
 nach … so von seiner Sorte …
 
 So zogen wir beide denn durch Felder und einsame
-Wege wieder der Grad! zu, um den Kampf gegen einen vor-fKehmen
-Verbrecher zu begütigen, dessen wahre Ziele und Absichten
-für uns vorläufig noch in diesem Dunkel lägen …
+Wege wieder der Stadt zu, um den Kampf gegen einen vornehmen
+Verbrecher zu beginnen, dessen wahre Ziele und Absichten
+für uns vorläufig noch in tiefem Dunkel lagen …
 
 Das Lichtermeer des Hafens von Madras rückte näher
 und näher …
 
 Dann standen wir vor der Teestube des Herrn Wapeisu
-in der Kalkuttastraße mitten im Sterblichen Getriebe lebhaftesten
+in der Kalkuttastraße mitten im abendlichen Getriebe lebhaftesten
 Verkehrs … Und Harald meinte leise: »Es
-dürfte lagen, die Parallelstraße in Augenschein zu nehmen
-… Schau’ über die Mauer … Das Grundstück gebt
-bis zur Parallelstraße durch ir
+dürfte lohnen, die Parallelstraße in Augenschein zu nehmen
+… Schau’ über die Mauer … Das Grundstück geht
+bis zur Parallelstraße durch …«
 
 <@pagebreak/>
 
-3\. Kapitels.
-Um drei Schlüssel.
+<h2>3. Kapitel.</h2>
+<h3>Um drei Schlüssel.</h3>
 
 aus dem qgroklen Licht der elektrischen Bogenlampen der
 Kalkuttastraße hinein in ein sck&males Seiteupäßcken, in
@@ -702,7 +695,7 @@ haben, Frau Wardner …«
 
 Wieder das trockene Schluchzen …
 
-»Du mein Gott, wie soll ich Ihnen danken …! Mr.
+»Du mein Gott, wie soll ich Ihnen Daulien …! Mr.
 Harst, ich werde schweigen … Nur … helfen Sie mir …!
 helfen Sie mir!«
 
@@ -743,7 +736,7 @@ Wardner zog die Tür zu, und Wapeisu verschloß sie …
 dann schritten die beiden davon.
 
 Noch immer glotzte das Zyklopenauge durch die jetzt
-bämmerige Nacht …
+dämmerige Nacht …
 
 <@pagebreak/>
 Was war dort drinnen in der Hütte geschehen?! Was
@@ -765,7 +758,7 @@ um drei Schlüssel, die die Chinesen nicht herausgeben wollen
 nicht gefunden zu habe! Alles konnte ich ja nicht verstehen.
 Nur Bruchstücke der erregten Auscinandersepung … Jut-merhin
 kann ich mir folgendes zusammenreimen: Dicke fünf
-sollten diese Schlüssel aus dem Palast in Dank stehlen.
+sollten diese Schlüssel aus dem Palast in Dauli stehlen.
 Jetzt wollen sie die Schlüssel nicht Buntheit haben. Sie
 Schnupfen Stein und Bein, daß ihr Einbruch in den Palast
 ergebnislos geblieben. Wardner zog eine Pistole, und Wapeisu
@@ -792,7 +785,7 @@ Gesicht eines Chinesen seine geheimsten Gedanken erraten.
 2200000000200&nbsp;138 008020002020 02S0
 
 Sie lächeln demütig, und innerlich blähen sie sich vor Stolz
-»Über die Dummheit der leichtaläubigen Weißen … Sie
+»Über die Dummheit der leichtgläubigen Weißen … Sie
 haben das, was man wahres Volksgefühl nennt, hängen
 zusammen wie die Kletten … — Ich sollte mich sehr wundern,
 wenn ich nicht recht behielte … Wapeisu wird hier
@@ -932,7 +925,7 @@ Dicken …
 Wir »hatten von Wapeisus diese Hütte als Wohnung gemietet.
 Vor fünf Tagen kam nagelten mit den beiden da
 abends zu uns. Wir erhielten Geld. Wir sollten im Parke
-des Radscha von Dank aufpassen, daß die beiden da nicht
+des Radscha von Dauli aufpassen, daß die beiden da nicht
 Überrascht würden. Mehr sagte man uns nicht … — Wir
 taten, was wir versprochen hatten … Die Wachen verfolgten
 uns fünf, und nur durch ein Wunder entkamen wir.
@@ -947,7 +940,7 @@ und brachte die Spritze und das Gift, damit wir drei …
 hier im Garten verscharrt werden könnten. Tschamo aber
 und sein Sohn Lipatu sollen noch heute aus der turnte
 nach Wunder vor der Stadt ein Lastauto besteigen und heimlich
-nach Dank fahren … — Wir danken Ihnen, Master,
+nach Dauli fahren … — Wir Daulien Ihnen, Master,
 denn Sie haben uns das Leben gerettet …«
 
 Harald überlegte …
@@ -1111,7 +1104,7 @@ erst mit dem Karren kamen«
 und waren sehr bald wieder h;her … fanden, daß Unterrand
 aus Wapeisus Trunksucht enge geweilt habe … — könnten
 O’Kelling war erst sehr üverrasiht … Er hat uns eingeweiht
-… — aber Ihr wolltet doch) nach Dank mit einem
+… — aber Ihr wolltet doch) nach Dauli mit einem
 Lastauto, Zuwarf«
 
 »Wollten …! — Führe uns zu den dreien, Paratu …
@@ -1133,7 +1126,7 @@ mit tausend Fragen. Harst war recht verstimmt, meinte
 achselzuckend:; »Die Dinge wachsen mir förmlich über den
 
 Kopf … Das Lastauto sollte doch) Tschamo und seinen
-Sohn nach Dank bringen … Und — was finden wir in
+Sohn nach Dauli bringen … Und — was finden wir in
 dem Lastauto:! Sechs im Maisstroh verstellte Europäer,
 die über uns herfallen und denen ich nur durch brutale Boxhiebe
 bewies, daß mir doch nicht so leicht zu sangen sind …«
@@ -1147,7 +1140,7 @@ Austrag handelten sie?f! etwa Wapeisu der Urheber dieses
 Uebversalles?! — Glaube ich nicht …!«
 
 Harald grübezie vor sich hin, meinte dann: »An! besten,
-wir begeben uns naß Dank … neun wir den Salon-Fluß
+wir begeben uns naß Dauli … neun wir den Salon-Fluß
 auswärts fahren, können wir auf dem NWNevbveusluß
 darin, der aus den weigern gleichen Namens kommt, bis
 dicht an die Haupte:ad! des Fürstentums gelangen … Mann
@@ -1168,7 +1161,7 @@ Von Deck läuft die Planke zum steinigen Ufer hin. Wir
 drei Europäer frühstücken auf dem Achterdeck und erwarten
 des Malaien Warnung Rückkehr, den Harald mit geheimen
 Botschaft zu Frau Wardner geschickt hat. Die Hauptstadt
-Dank ist nach Norden zu etwa anderthalb Ungesunden entfernt,
+Dauli ist nach Norden zu etwa anderthalb Ungesunden entfernt,
 und wenn Paratu Glück gehabt hat, kann er in kurzem
 zurück sein,
 
@@ -1183,7 +1176,7 @@ Tschamo und Lipatu jetzt ohne Fesseln, etwas abseits, —
 fiele mit demselben undurchdringlichen Gesichtern, die sie
 auch all unseren Fragen gegenüber bewahrt haben.
 
-Haralds Blick ruht gedankenverloren auf dieser Gruppe
+Haralds Blick ruht Gedankenverloren auf dieser Gruppe
 … Und ganz unvermittelt sagt er dann: »Wenn Vater und
 <@pagebreak/>
 Sohn, Tschamo und Lipatu damals die drei Ehylüssiel, von
@@ -1212,7 +1205,7 @@ Den Brief hatte sie dann sofort im Postamt geschrieben.
 — Paratu zog sich zurück, und Harst las das Schreiben
 uns vor …
 
-»Geehrter Herr Harst, dem Himmel sei Dank, daß Sie
+»Geehrter Herr Harst, dem Himmel sei Dauli, daß Sie
 sich hier eingefunden haben. Ich bin in grenzenloser Verzweiflung,
 denn mein Mann ist seit gestern abend spurlos
 verschwunden. Er ging im Schloßpark abends gegen zehn
@@ -1262,7 +1255,7 @@ nicht wisse, daß Wir denn Mittel verließen;
 
 Paratu trug die Koffer und spielte den Führer: Fach
 einstündigem Marsch durch die Wisldni38 sahen wir vom.
-Waldrande aus die kleine Residenzstadt Dank in einem Tale
+Waldrande aus die kleine Residenzstadt Dauli in einem Tale
 zu unseren Füßen liegen. Rechts an der Stadtgrenze waren
 der künstliche Park und der Palast deutlich zu erkennen. —
 Auf Umwegen gelangten wir beide an die Nordwestecke der
@@ -1287,7 +1280,7 @@ hat …
 Ihre müde Stimme lebte etwas aus …
 
 »Ich lernte Lionel in London kennen, kurz bevor er
-hier nach Dank reiste. Drei Jahre sind wir jetzt verheiratet,
+hier nach Dauli reiste. Drei Jahre sind wir jetzt verheiratet,
 und doch kann ich leider nicht behaupten, jemals restlos
 gräflich gewesen zu sein, obwohl Lionel mich aufrichtig
 lebt. Er Lot stets Geheinmnisse vor mir gehabt — stets …
@@ -1359,7 +1352,7 @@ Und Harst mit ernster Betonung!
 des Fürsten, in der der Agitationsfonds der indischen
 Freiheitsbewegung aufbewahrt wird … Und ebenso
 <@pagebreak/>
-wahrscheinlich ist Ihr Glatte nur deshalb hier nach Dank
+wahrscheinlich ist Ihr Glatte nur deshalb hier nach Dauli
 gekommen, um diesen Fonds zu ermitteln … Vielleicht ist
 Lionel Wardner ganz etwas anderes als er ich einen will —
 auch vor Ihnen! Ich halte ihn … für einen Beamten der
@@ -1422,7 +1415,7 @@ Zu den seltsamsten Geschöpfen dieser Art von »Zauberern«
 gehört ohne Zweifel der Mann in der Fäuste — eine
 Bezeichnung, die mir am treffendsten erschien. Wie, wo und
 was wir mit diesem … Geschöpf, das weder Arme noch
-Beine besaß, in Dank »durchgemacht« haben — denn die
+Beine besaß, in Dauli »durchgemacht« haben — denn die
 Leidtragenden bei diesen Begegnungen mit Riwuri Tumir
 waren wir —, lernt der Leser im Verlauf dieses zweiten
 Teiles des Rätsels der drei Schlüssel kennen. —
@@ -1533,7 +1526,7 @@ Gesicht — ein Inder ohne Arme und Beine …
 Dieser Anblick überraschte mich so, daß ich Harald herbeiwinkte.
 Schweigend stand er mir neben mir …
 
-Und unten vor dem »Finger mit seinen vier Einzel-fkäsigen
+Und unten vor dem »Finger mit seinen vier Einzelkäfigen
 hatten die beiden Träger die Fäuste dicht zu den
 einen Käfig gestellt … Und einer von ihnen öffnete jetzt
 die kleine Schiebetür …
@@ -1648,7 +1641,7 @@ dem Käfig, Sahib …«
 er sehr ungern über diese Dinge sprach
 
 <@pagebreak/>
-»Also Riwuri Tumir heißt der junge aliederlose Inder
+»Also Riwuri Tumir heißt der junge gliederlose Inder
 … Ist er einer deines Volkes?«
 
 »Sahib, er … er … ist ein Pragmani, ein zerstochener
@@ -1657,7 +1650,7 @@ er sehr ungern über diese Dinge sprach
 »Also einer, der scheintot war und wieder erwachte, als
 er bereits verbrannt werden sollte … Ich weiß, daß ihr
 Hindus diese Pragmani nicht mehr zu den Lebenden rechnet
-… — Wir danken Dir … Hier nimm diese Gabe …«
+… — Wir Daulien Dir … Hier nimm diese Gabe …«
 Er reichte ihm eine Goldmünze … doch der Soldat lehnte
 bescheiden ab … »Es ist verboten, Sahib’ … Der Fürst
 bezahlt ins an! …«
@@ -1726,7 +1719,7 @@ Seiten. Zu welchem 23.Deck, das war mir schleierhaft …
 
 mich: lange schleterhcst …
 
-Den: als uns dank, unsere Diene! (wir hatten vier
+Den: als uns Dauli, unsere Diene! (wir hatten vier
 Mr Verfügung; — Ich Indien Allah hin Mal Sie! anderes)
 das Badezimmer als Tuäastclkanimer hergerichtet hatten, als
 wir uns dort entschlossen und war das rote Lämpchen die
@@ -2101,7 +2094,7 @@ Und doch in diesem Bis jetzt noch ein anderer Ausdruck
 
 Kalisara den klaren winkt … Und wir gehen über
 
-das bunte Marmormuster des Fußbodens, über die seiden-alänzenden
+das bunte Marmormuster des Fußbodens, über die seidenglänzenden
 Teppiche — bis dicht vor den Thron …
 
 Harsts Verneigung recht knapp … Die meine vielleicht
@@ -2300,12 +2293,12 @@ Harald setzte sich jetzt ohne weiteres aus einen ähnlichen
 Hocker und meinte:
 
 »Hoheit, ich will das Geschehene vergessen — schon deshalb,
-weil ich hier Dinge erlebe, die selbst mein gewiß ab-wechslungsreiches
+weil ich hier Dinge erlebe, die selbst mein gewiß abwechslungsreiches
 Dasein mir unecht nicht geboten hat. —
 Wer ist Tumir, Hoheit?«
 
 Der Radscha erwiderte leise? »Ich weiß es nicht, Mr.
-Harst … Er kam aus der Fremde hier nach Dank …«
+Harst … Er kam aus der Fremde hier nach Dauli …«
 
 »Und er ist kein Schwindlers«
 
@@ -2335,7 +2328,7 @@ trifft nicht zum Mein Privatsekretär muß entweder entflohen
 vier von anderen entführt worden sein. Und Sie beide sollen
 ihn suchen. — Hören Sie mich an … Ich will Ihnen
 nichts mehr verheimlichen … Ich befiel Lionel Wardner
-hier nach Dank, weil ich Kenntnis von seinen Schritten
+hier nach Dauli, weil ich Kenntnis von seinen Schritten
 erhalten hatte, die sämtlich so abgefaßt waren, daß man
 Wardner in seinem Vaterlande deshalb heftig Angriff. Er
 trat ganz offen dafür ein, das! England uns Rudern die
@@ -2411,7 +2404,7 @@ Leibgarde, dann der »wandelnde« Tumir und
 <@pagebreak/>
 schließlich des Fürsten Behauptung, er habe Wardner nicht
 verschwinden lassen …!!! — Nichts geschehen …?! — —
-ich danke!!
+ich Danke!!
 
 Harald wandte sich über die Haupttreppe dem Portal
 zu … Wir gingen in den Park … Zwischen den Baumkronen
@@ -2912,7 +2905,7 @@ Ich) blickte ihn erstaunt an … — —
 Am andern Morgen waren wir wieder in Madras …
 Und abends stand’s in alten Zeitungen, daß die politische
 Polizei in der vergangenen Wacht den Palast des Radscha
-von Dank völlig durchsucht habe, um den Gebeimsoudo zu
+von Dauli völlig durchsucht habe, um den Gebeimsoudo zu
 beschsagunahmen, daß man jedoch) nichts gefunden habe …
 Die Beamten seien von Sir Wardner beseitigt worden,
 der auf geschilieste Weise herausgebracht habe. das; die
@@ -2931,7 +2924,7 @@ getan … Er wollte den Fonds nicht für sich selbst
 rauben, wollte sich nur der Chinesen bedienen, damit die
 Behörden scheinbar ganz aus dem Spiele blieben … »Im
 übrigen haben wir die Dinge richtig Zettel(eilt … Wenn
-du die Diniert;eilten jetzt nachprüsst, wirst du herausfinden,
+du die Diniert;eilten jetzt nachprüfst, wirst du herausfinden,
 daß meine Xombinciionen durchaus morastig waren …«
 
 »sind … Tumir«?« fragte ich zögernd.
