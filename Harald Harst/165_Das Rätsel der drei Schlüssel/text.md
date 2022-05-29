@@ -238,7 +238,7 @@ Raum hatte O’Kelling dies vorgelesen, als Harald, der
 die Madras-Post in Händen hielt, zu uns sagte:
 
 »Hier in dieser Zeitung sind die Vorgänge genau so
-geschildert, nur, Daß es über die »märchenhaften Schätze»
+geschildert, nur, Daß es über die »märchenhaften Schätze«
 hier folgendermaßen heißt: »Der alte Radscha ist vor jeher
 als gefährlicher Aufwiegler bekannt. sein Haß gegen alles,
 was Europäer heißt, hat ihm die Verehrung seiner Landsleute
@@ -492,51 +492,50 @@ bis zur Parallelstraße durch …«
 <h2>3. Kapitel.</h2>
 <h3>Um drei Schlüssel.</h3>
 
-aus dem qgroklen Licht der elektrischen Bogenlampen der
-Kalkuttastraße hinein in ein sck&males Seiteupäßcken, in
-dem die Reklamebeleuchtung eines bringt die Straßenlaternen
+aus dem grellen Licht der elektrischen Bogenlampen der
+Kalkuttastraße hinein in ein schmales Seitengäßchen, in
+dem die Reklamebeleuchtung eines Kinos die Straßenlaternen
 überflüssig machte.
 
-Harald mit seinem unübertrefslichen Ortssinn hatte sehr
-halb herausgefunden, welche der verwitterten Backsteinmauern
-zu Wapeisus Grundstück sei;ölte. In dieser Mauer
-war eine breite Einfahrt mit Vielseitigen, daneben ein
+Harald mit seinem unübertrefflichen Ortssinn hatte sehr
+bald herausgefunden, welche der verwitterten Backsteinmauern
+zu Wapeisus Grundstück gehörte. In dieser Mauer
+war eine breite Einfahrt mit Brettertüren, daneben ein
 Holzpförtchen. Und Mauer und Torweg oben mit Stacheldrähten
 gespickt, als handele es sich um eine Festung.
 
-Immerhin: Die Breiter der Türen hatten mitten, und
-durch diese mitten schaute man in einen verwilderten Garten,
-zwischen dessen Bäumen ein paar Lchnihjütten, Überbleibsel
-von früher her, sich düster und geheimnisvoll zusammenbackten
+Immerhin: Die Bretter der Türen hatten Ritzen, und
+durch diese Ritzen schaute man in einen verwilderten Garten,
+zwischen dessen Bäumen ein paar Lehmhütten, Überbleibsel
+von früher her, sich düster und geheimnisvoll zusammenduckten
 …
 
-Das Schloß der Pforte war nen … Und doch nicht
-kompliziert genug, um einem verstellbaren Dietrich Wider-Rand
-zu selben, — Sir schlüpften hinein, schlossen hinter
-uns ab … Schlurften in den Baumsehyatten … Warteten,
+Das Schloß der Pforte war neu … Und doch nicht
+kompliziert genug, um einem verstellbaren Dietrich Widerstand
+zu leisten. — Wir schlüpften hinein, schlossen hinter
+uns ab … Schlurften in den Baumschatten … Warteten,
 
-&4 hatte uns niemand beobachtet, NinaSimnmn war’s
-tötenisiin …
+Es hatte uns niemand beobachtet. Ringsum war’s
+totenstill …
 
-Harald schlich auf das nächste tauchen zu … Es war
-ein Stall … als der nur angelehnten Tür der Geruch von
+Harald schlich auf das nächste Häuschen zu … Es war
+ein Stall … Aus der nur angelehnten Tür der Geruch von
 Pferden, das Stampfen und Scharren der vor den Krippen
-
 stehenden Tiere …
-Weiter also … — Halb links an der Manier zum Nacht
 
-dbargrundstück ein blasser Lichtschein, die Umrisse einer zweiten
-Hütte … (ihn Fenster, mit einer löcherigen Pferdedecke
+Weiter also … — Halb links an der Mauer zum Nachbargrundstück
+ein blasser Lichtschein, die Umrisse einer zweiten
+Hütte … Ein Fenster, mit einer löcherigen Pferdedecke
 verhängt … Stimmen …
 
-Stimmen, die lebhaft sichnatterten, die mitunter wie in
-heller Erregung Aufkreischen … Und das eine Loch in der
-Pferdedecke, das wie ein Zyklopenangae in die Nacht nickte,
+Stimmen, die lebhaft schnatterten, die mitunter wie in
+heller Erregung aufkreischten … Und das eine Loch in der
+Pferdedecke, das wie ein Zyklopenauge in die Nacht glotzte,
 <@pagebreak/>
 zeigte uns drinnen in einer armseligen Stube einen Holztisch,
 um den herum fünf Chinesen saßen und würfelten.
-Häuschen von Münzen lagen neben jedem Spieler. Die
-Stier zuckte in den von einer Petroleumlampe beleuchteten
+Häufchen von Münzen lagen neben jedem Spieler. Die
+Gier zuckte in den von einer Petroleumlampe beleuchteten
 Asiatengesichtern …
 
 Links an der Schmalseite des Tisches ein Kerl, der den
@@ -550,10 +549,10 @@ zu studieren und ihre kennzeichnenden Merkmale sich einzuprägen.
 flink in den Wagenkasten hinein … Ich ihm nach.
 
 »Glück gehabt,« flüsterte er. »Nun werden wir ja sehen,
-ob der dirigierte hier wohnt oder ob er nachher sich anderswohin
+ob der Blessierte hier wohnt oder ob er nachher sich anderswohin
 wendet …«
 
-Wir saßen aus dem Boden des Kastens ganz bequem.
+Wir saßen auf dem Boden des Kastens ganz bequem.
 Acht Meter vor uns die Hütte, das Fenster und rechts davon
 die Tür …
 
@@ -561,71 +560,71 @@ Kaum eine Viertelstunde war vergangen, als wir von
 der anderen Seite nahende Stimmen hörten …
 
 Zwei Männer … Ein hagerer Chinese in tadellosem
-Rhaflanzug und … Sir Lionel Wardner …
+Khakianzug und … Sir Lionel Wardner …
 
-Schlimm Feurig für uns, Wapeisu, daß der Kutter
-den Hafen verfolgen hat,« sagte Wardner jetzt, »Wir hält
-ten daran denken sollen und ein Motorboot …«
+»Schlimm genug für uns, Wapeisu, daß der Kutter
+den Hafen verlassen hat,« sagte Wardner jetzt. »Wir hätten
+daran denken sollen und ein Motorboot …«
 
-Mehr verstanden wir nicht. Die beiden! hatten die
+Mehr verstanden wir nicht. Die beiden hatten die
 Hütte betreten. Die Tür fiel wieder zu.
 
 Harald versetzte mir einen gelinden Rippenstoß …
 
-»Fein, mein Alter …! sehr sein! Wardner Oh alt bis
-fest offenbar in der vornehmen Teestube ausgeharrt …
+»Fein, mein Alter …! sehr fein! Wardner hat bis
+jetzt offenbar in der vornehmen Teestube ausgeharrt …
 Nun wird er mit seinen Verbündeten verhandeln … Bleibe
 hier … Ich werde allein horchen gehen …«
 
-Er seines den Karren … Durch ein Astloch sah ich,
+Er verließ den Karren … Durch ein Astloch sah ich,
 wie er vor dem Fenster auftauchte …
 
 Wieder verstrichen Minuten …
 
 <@pagebreak/>
-Dann huschte lautlos an dem Karren eine Gestalt vor
+Dann huschte lautlos an dem Karren eine Gestalt vorüber
+… Eine Frau … eine Europäerin …
 
-über … ohne Frau … eine Europäerin …
-Lautlos über den dürren Grasboden — — aus Harald
+Lautlos über den dürren Grasboden — — auf Harald
+zu …
 
-…
-Ich richtete mich aus …
+Ich richtete mich auf …
+
 Und war im Moment hinter dem Weibe, bevor sie
-
 Harst noch erreicht hatte …
 
 Eine Frau im dunklen Seidenmantel, um den Kopf
 einen schwarzen Schleier geschlungen …
 
-Rücksicht nehmend! — Rein, hier galt es handeln …
+Rücksicht nehmen?! — Nein, hier galt es handeln …
 
-Und mit blitzschnellem Geist hatte ich den Hals der
+Und mit blitzschnellem Griff hatte ich den Hals der
 Frau umklammert … Harst wurde aufmerksam, fuhr herum,
 packte mit zu … Und das war nötig … Denn die
-Übergossene wehrte sich verzweifelt … Besaß Kräfte …
+Überfallene wehrte sich verzweifelt … Besaß Kräfte …
 Es war kein leichtes Stück Arbeit, sie in die Büsche zu tragen
-und zu verhüten, daß sie nicht etwa um Hilfe trugen
+und zu verhüten, daß sie nicht etwa um Hilfe rufen
 konnte …
 
 Aber — merkwürdig: Zweimal gelang es ihr, meine
-Hände von ihrem Halse zurückzureißen … standen gab
-sie seinen Land von sich … Schweigend wehrte sie sich —
-ein ungleicher Kampf, der uns wahrlich nicht zum Zahme
+Hände von ihrem Halse zurückzureißen … Trotzdem gab
+sie keinen Laut von sich … Schweigend wehrte sie sich —
+ein ungleicher Kampf, der uns wahrlich nicht zum Ruhme
 gereichte …
 
 Dann hatten wir sie glücklich bis In einen halb offenen
-seinen Schuppen geschleppt … in den duynsfesssen Winkel …
+kleinen Schuppen geschleppt … in den dunkelsten Winkel …
 
 Und wieder riß sie meine Hände zur Seite, keuchte mit
-gellenden Atemstößen …:
+pfeifenden Atemstößen …:
 
-»Golf mich frei …? Jede Summe sollt ihr haben …
+»Gebt mich frei …! Jede Summe sollt ihr haben …
 Meinen Schmuck … Gebt mich frei … Ihr sollt reich
-werden … Ich schwöre Tuch: jede Summe ist euer!«
+werden … Ich schwöre euch: jede Summe ist euer!«
 
-Harald da — gleichfalls in englischer Sprache
+Harald da — gleichfalls in englischer Sprache:
 
-»»Wer sind ließ«
+»Wer sind Sie?«
 
 Dunkelheit um uns her …
 
@@ -633,42 +632,42 @@ Und — ein leiser Ausruf der Frau:
 
 »Mein Gott, — — wer sind denn Sie?! Keine Chinesen
 …?! Das ist doch nicht das Englisch eines elenden
-gelben Schusses … — Wer sind ließ!«
+gelben Schuftes … — Wer sind Sie?!«
 
 <@pagebreak/>
 Harst abermals:
 
-» Was wollten Sie dort vor dem Fensters — Sprechen
-Sie die Wahrheit … Wer sind ließ!«
+»Was wollten Sie dort vor dem Fenster? — Sprechen
+Sie die Wahrheit … Wer sind Sie?!«
 
-… Sie sind jedenfalls keiner von diesem gelben Gesindel
-… — Und das … gibt mir Hoffnung … Ich stehe Sie
-an: Neunen Sie mir l »Ihren Namen …! Zelt) ahne viele
-leicht das richtige … denn … er — — er, der Verblendete,
-hat diesen Name! heute erwähnt …
+»… Sie sind jedenfalls keiner von diesem gelben Gesindel
+… — Und das … gibt mir Hoffnung … Ich flehe Sie
+an: Nennen Sie mir Ihren Namen …! Ich ahne vielleicht
+das richtige … denn … er — — er, der Verblendete,
+hat diesen Namen heute erwähnt …«
 
-Dunkelheit … Frauenhaar … »Der Hauch eines ge-pilegaten
+Dunkelheit … Frauenhaar … Der Hauch eines gepflegten
 Frauenkörpers …
 
 Und Harst:
 
-»Ich fühlte hier an Ihrer rechten Hand einen Ohr
-Ring … Sind Sie Frau Wardner«
+»Ich fühle hier an Ihrer rechten Hand einen Ohrring
+… Sind Sie Frau Wardner?«
 
 »Ja! — Und Sie … Sie … sind Harald Harst …!
 Sie müssen es sein …«
 
-»müssen?! Metall?!«
+»müssen?! Weshalb?!«
 
-»Weil Lionel Sie fürchtet, weiter damit gerechnet hat,
+»Weil Lionel Sie fürchtet, weil er damit gerechnet hat,
 daß Sie ihm seine Pläne stören würden …«
 
-»Und das hat er Ihnen gagesag!, Frau Wardner?«
+»Und das hat er Ihnen gesagt, Frau Wardner?«
 
-»gesagt!« Unendlich bitter klang das froh des vorsichtigen
-Flüstertones … »Wein gesagt?! Nein, nein …?!
-Vor mir verheimlicht er dies alles — versucht es zu Weibern
-schlichen … Aber die Liebe hat scharfe Augen, Mr. Harst …
+»Gesagt?!« Unendlich bitter klang das trotz des vorsichtigen
+Flüstertones … »Mir gesagt?! Nein, nein …!!
+Vor mir verheimlicht er dies alles — versucht es zu verheimlichen
+… Aber die Liebe hat scharfe Augen, Mr. Harst …
 Und meine Liebe zittert aus Angst um Lionel …«
 
 Ein trockenes Schluchzen erstickte ihre Worte …
@@ -676,12 +675,12 @@ Ein trockenes Schluchzen erstickte ihre Worte …
 Längst hatten wir sie freigegeben … Sie stand zwischen
 uns …
 
-Und uns uns her die Finsternis …
+Und um uns her die Finsternis …
 
 Dann Harst — mit jener unendlichen Güte, die er stets
 für Menschenleid bereit hat …
 
-»Frau Wardner, hier haben wir nicht die Zeit, dieses
+»Frau Wardner, hier haben wir nicht die Zeit, diese
 Dinge zu erörtern … Ich nehme an, daß Sie Ihren Gatten
 in der Teestube beobachtet haben, ihm bis hierher gefolgt
 sind … — Kehren Sie zurück, Frau Wardner …
@@ -689,25 +688,24 @@ sind … — Kehren Sie zurück, Frau Wardner …
 wird sich Gelegenheit bieten zu längerer Aussprache …
 <@pagebreak/>
 gehen Sie … Und — — schweigen Sie Ihrem Gatten
-gegenüber … neun wir ihn schützen sollen … vor sich
+gegenüber … Wenn wir ihn schützen sollen … vor sich
 selbst, so darf er nicht erfahren, daß wir uns kennen gelernt
 haben, Frau Wardner …«
 
 Wieder das trockene Schluchzen …
 
-»Du mein Gott, wie soll ich Ihnen Daulien …! Mr.
+»Du mein Gott, wie soll ich Ihnen Danken …! Mr.
 Harst, ich werde schweigen … Nur … helfen Sie mir …!
 helfen Sie mir!«
 
-»» Das werde ich tun … Gehen Sie jetzt … Ich begleite
+»Das werde ich tun … Gehen Sie jetzt … Ich begleite
 Sie … Hoffentlich kommen Sie unbemerkt davon …«
 
 Und drei Minuten darauf dasselbe Bild wie vorhin …:
 Harst am Fenster der elenden Hütte, ich im Kasten des
-
 Karrens …
 
-Wie vorhin … Wut doch alles so anders, so ganz
+Wie vorhin … Und doch alles so anders, so ganz
 anders …
 
 Dann sah ich Harald blitzschnell vom Fenster nach links
@@ -718,20 +716,20 @@ Freie … Und gerade da hatte der Mond die Grenze der
 Baumkronen überschritten und warf matten Lichtschein auf
 den Vorplatz der Baracke …
 
-Sir Wardners erregte ’Stimme hörte ich … Er stand
+Sir Wardners erregte Stimme hörte ich … Er stand
 hinter dem Teestubenwirt, rief den Chinesen zu:
 
 »Ihr lügt …!! Ich durchschaue euch! Aber ich werde
 dafür sorgen, daß ihr das herausgebt, was ihr verborgen
 habt! Es gibt Mittel, euch zu zwingen!«
 
-Wapeisu hatte Wardner die Hand auf die Schulter gen
+Wapeisu hatte Wardner die Hand auf die Schulter gelegt
+…
 
-legt …
 »Verschwenden Sie doch nicht unnötig auch nur ein
-einziges Wort an diese Halunken, Sir!« mahnte er verachte
+einziges Wort an diese Halunken, Sir!« mahnte er verächtlich.
+»Wir werden sie zwingen …!! — Kommen Sie …«
 
-sich. »Wir werden sie zwingen …!! — Kommen Sie …
 Wardner zog die Tür zu, und Wapeisu verschloß sie …
 dann schritten die beiden davon.
 
@@ -740,82 +738,80 @@ dämmerige Nacht …
 
 <@pagebreak/>
 Was war dort drinnen in der Hütte geschehen?! Was
-packte Harald beobachtet haben?!
+mochte Harald beobachtet haben?!
 
 Ich brauchte nicht lange im ungewissen zu bleiben …
 
 Eine leise Erschütterung des Karrens, und Harald
-schwang sich zu mir in he Wagenkasten hinein …
+schwang sich zu mir in den Wagenkasten hinein …
 
-Meinte flüsternd: »Uhr sind der Lösung der dunklen
+Meinte flüsternd: »Wir sind der Lösung der dunklen
 Zusammenhänge jetzt recht nahe, mein Alter … Wardner
 und Wapeisu haben die fünf gelben Halunken an die Holzstühle
-gefesselt, haben ihnen Hebel zwischen die Zähne ausgehoben
+gefesselt, haben ihnen Knebel zwischen die Zähne geschoben
 … Es ging recht lebhaft her … Wardner war
 nahe daran, die Kerle niederzuknallen … Es handelt sich
 um drei Schlüssel, die die Chinesen nicht herausgeben wollen
 — oder besser, sie behaupten, diese drei Schlüssel gar
 nicht gefunden zu habe! Alles konnte ich ja nicht verstehen.
-Nur Bruchstücke der erregten Auscinandersepung … Jut-merhin
-kann ich mir folgendes zusammenreimen: Dicke fünf
+Nur Bruchstücke der erregten Auseinandersetzung … Immerhin
+kann ich mir folgendes zusammenreimen: Diese fünf
 sollten diese Schlüssel aus dem Palast in Dauli stehlen.
-Jetzt wollen sie die Schlüssel nicht Buntheit haben. Sie
-Schnupfen Stein und Bein, daß ihr Einbruch in den Palast
+Jetzt wollen sie die Schlüssel nicht entdeckt haben. Sie
+schworen Stein und Bein, daß ihr Einbruch in den Palast
 ergebnislos geblieben. Wardner zog eine Pistole, und Wapeisu
-fesselte die Schufte mit dünnem Eisendraht … nach
+fesselte die Schufte mit dünnem Eisendraht … Auch
 die Knebel befestigte er mit Draht …«
 
 Ich war über diese Mitteilungen etwas enttäuscht …
 
-»Drei Schlüssel?!!« meinte im. »Weshalb kommt es
-Wardner [so [Ohr auf diese Schlüssel ans! Und nur wegen
-der Schlüssel hat er sich nicht Wapeisu und den fünf gelben
+»Drei Schlüssel?!« meinte ich. »Weshalb kommt es
+Wardner so sehr auf diese Schlüssel an?! Und nur wegen
+der Schlüssel hat er sich mit Wapeisu und den fünf gelben
 Schurken zusammengetan?! Das verstehe ich nicht recht …«
 
 »du Wirst es schon verstehen, lieber Alter … Nur Geduld
-… Wir erfahren auch) noch den Rest … Vielleicht sehr
+… Wir erfahren auch noch den Rest … Vielleicht sehr
 bald sogar … Denn: Wapeisu spielt hier niemals ein
 ehrlich Spiel! Daß er als Chinese mit einem Weißen gegen
-seine Landsleute so scharf vorgeben sollte, will mir nicht in
+seine Landsleute so scharf vorgehen sollte, will mir nicht in
 den Kopf … Ich kenne diese Ostasiaten … Ihnen steckt
-der heimliche Haß gegen die Europäer im! Blute … Sie
+der heimliche Haß gegen die Europäer im Blute … Sie
 heucheln wie die Virtuosen … Niemals wirst du aus dem
 Gesicht eines Chinesen seine geheimsten Gedanken erraten.
 <@pagebreak/>
-2200000000200&nbsp;138 008020002020 02S0
-
 Sie lächeln demütig, und innerlich blähen sie sich vor Stolz
-»Über die Dummheit der leichtgläubigen Weißen … Sie
+Über die Dummheit der leichtgläubigen Weißen … Sie
 haben das, was man wahres Volksgefühl nennt, hängen
 zusammen wie die Kletten … — Ich sollte mich sehr wundern,
 wenn ich nicht recht behielte … Wapeisu wird hier
 wieder erscheinen — allein … Und dann werden Wir ja
 sehen, wie er sich benimmt …« —
 
-ohne Stunde später, als der Mond bereits über der
-Hütte stand, tauchte der Teestubenwirt wirklich aus …
+Eine Stunde später, als der Mond bereits über der
+Hütte stand, tauchte der Teestubenwirt wirklich auf …
 
-4\. Kapitel.
-Als das Maisstroh) lebendig wurde …
+<h2>4. Kapitel.</h2>
+<h3>Als das Maisstroh lebendig wurde …</h3>
 
-Es War lebt halb ein Uhr morgens …
+Es War jetzt halb ein Uhr morgens …
 
 Wapeisu hatte die Hütte betreten … Hatte hinter sich
 wieder abgeschlossen …
 
 Wir beide jetzt draußen vor dem Fenster …
 
-Sahen die fünf um den Tisch sitzen, Statuen von ero-habener
+Sahen die fünf um den Tisch sitzen, Statuen von erhabener
 Gleichgültigkeit. Die Petroleumlampe beleuchtete
-stupide Gesichter — scheinbar stupide. Aus dem Tische lagen
+stupide Gesichter — scheinbar stupide. Auf dem Tische lagen
 noch die Häuflein Geld und die Würfel. — Der Teestubenwirt
 blieb für uns unsichtbar … Nur seine Stimme
-hörten wir … Tod er sprach zu leise, als daß seine Worte
+hörten wir … Doch er sprach zu leise, als daß seine Worte
 durch die trüben Fensterscheiben bis zu uns gedrungen
 wären. Blieb auch nur fünf Minuten …
 
 Wir mußten wieder unter die Bäume flüchten, drückten
-uns hinter einen Wien Stamm …
+uns hinter einen dicken Stamm …
 
 Wapeisu ging langsam dem Vordergebäude zu …
 
@@ -826,7 +822,7 @@ können, oder doch zum mindesten einer von ihnen …«
 
 Und er zog mich abermals zum Fenster hin …
 
-« Wie recht er doch gehabt hatte! Der alt- Chinese der
+Wie recht er doch gehabt hatte! Der alt-Chinese der
 <@pagebreak/>
 angebliche Händler mit dem linken Arm in der Schlinge,
 war bereits frei … Stand aufrecht am Tische …
@@ -838,46 +834,46 @@ Abschaum asiatischen Hafengelichters … Das war ein
 Mann, der die Verschlagenheit seiner Rasse mit der geistigen
 Lebendigkeit eines hochgebildeten Chinesen in sich vereinte.
 Das war niemals ein verkommener Verbrecher … Verbrecher
-vielleicht, da) hervorgegangen aus der geistigen
+vielleicht, doch hervorgegangen aus der geistigen
 Elite dieses Millionenvolkes …
 
-Sinnend stand er da, die Schlivtaugen zuweilen weit
-sehnend …
+Sinnend stand er da, die Schlitzaugen zuweilen weit
+öffnend …
 
-Dann Schrift er nach rechts, kam uns für kurze Zeit aus
-dem Gesichtoseld … offenen wieder, in der gefunden
-Rechten eine kleine Nickelspritze und ein gehülltes Flajchckchyen.
+Dann schritt er nach rechts, kam uns für kurze Zeit aus
+dem Gesichtsfeld … Erschien wieder, in der gesunden
+Rechten eine kleine Nickelspritze und ein gefülltes Fläschchen.
 
-Eine enitsepliche Ahnung stieg in mir aus…
+Eine entsetzliche Ahnung stieg in mir auf …
 
-Ich umstrahlte Haralds Arm …
+Ich umkrallte Haralds Arm …
 
 »Schon gut, mein Alter …« flüsterte Harst merkwürdig
 gepreßt … »Wir werden es nicht dulden …«
 
-Der Alte drinnen legte Spritze und Fläschchen aus den
+Der Alte drinnen legte Spritze und Fläschchen auf den
 Tisch, und begann dann den jüngsten der vier Gefesselten
-loszubinden … (Es dauerte eine geraume Weile, denn er
-konnte nur den rechten Arm bemühen …
+loszubinden … Es dauerte eine geraume Weile, denn er
+konnte nur den rechten Arm benutzen …
 
-Dieser jüngste erhob ein nun »1
+Dieser jüngste erhob ein nun …
 
-Die Augen der Brei anderen Wäre weit Ausgerissen
-Kind stierten wie verglast auf das glitzernde Fläschchen …
+Die Augen der drei anderen waren weit aufgerissen
+und stierten wie verglast auf das glitzernde Fläschchen …
 
 Harst glitt zur Tür …
 
 Der Dietrich fuhr in das Schlüsselloch … Der Riegel
-Monate leise, und mit einem Aus, damit sie nicht knappe,
-schob Harald die Tür aus …
+knackte leise, und mit einem Ruck, damit sie nicht knarre,
+schob Harald die Tür auf …
 
 Ein kleiner Flur …
 
-Links mußte die Stubentiütr sich befinden …
+Links mußte die Stubentür sich befinden …
 
-acht war im Moment drinnen, — ich hinter ihm …
-Moment hatte er den jungen Chinesen mit der
+Harst war im Moment drinnen, — ich hinter ihm …
 
+Im Moment hatte er den jungen Chinesen mit der
 Faust niedergeschlagen …
 
 <@pagebreak/>
@@ -887,9 +883,9 @@ Kaum Sekunden hatte das gedauert … Und um Sekunden
 hatte es sich auch gehandelt: Der junge Chinese
 hatte die gefüllte Spritze schon in der Hand gehabt … Sie
 war zu Boden gefallen, der Glasteil zersplittert, der Inhalt
-auf die Lehmziegel qgeslossen … Bittermandelölgeruch
-mischte sich in den massigen Stubengestink … Blausäure
-also … Durch Blausäure hakten die drei krepieren sollen,
+auf die Lehmziegel geflossen … Bittermandelölgeruch
+mischte sich in den muffigen Stubengestank … Blausäure
+also … Durch Blausäure hatten die drei krepieren sollen,
 die uns nun mit halbirren Blicken musterten …
 
 Und am Boden lagen auch die beiden kaltblütigen Verbrecher,
@@ -903,57 +899,56 @@ Dem einen nahm Harald den Knebel ab …
 
 Es war ein hagerer, blatternarbiger Bursche …
 
-Spalte keuchend: »Was wollen Sie wissen, Masters
+Sagte keuchend: »Was wollen Sie wissen, Master?
 Alles sollen Sie erfahren …«
 
-Seine Augen letzten auf … Sein Ehe, schillernd vor
+Seine Augen lebten auf … Sein Blick, schillernd vor
 Haß, flog zu den beiden Bewußtlosen hin …
 
 »was hat es mit den drei Schlüsseln auf sich? … Wo
 sind sie?« fragte Harst, der sich keine Mühe gab, seine Rolle
-als Chinese auch hier weitermspltelen,
+als Chinese auch hier weiterzuspielen,
 
 Der Pockennarbige erzählte:
 
-»Du und die beiden neben mir sind Hafenarbeiter,
-Vater … »Wenn es Arbeit gibt … Wenn nicht, tun wir
-andere
+»Ich und die beiden neben mir sind Hafenarbeiter,
+Master … Wenn es Arbeit gibt … Wenn nicht, tun wir
+anderes …«
 
-Dicken …
+»Stehlen …«
 
-»Stehle, Master … Man mit satt werden … —
-Wir »hatten von Wapeisus diese Hütte als Wohnung gemietet.
-Vor fünf Tagen kam nagelten mit den beiden da
+»Stehlen, Master … Man muß satt werden … —
+Wir hatten von Wapeisu diese Hütte als Wohnung gemietet.
+Vor fünf Tagen kam Wapeisu mit den beiden da
 abends zu uns. Wir erhielten Geld. Wir sollten im Parke
 des Radscha von Dauli aufpassen, daß die beiden da nicht
 Überrascht würden. Mehr sagte man uns nicht … — Wir
 taten, was wir versprochen hatten … Die Wachen verfolgten
 uns fünf, und nur durch ein Wunder entkamen wir.
-
 <@pagebreak/>
 — Heute forderte Mr. Wardner von dem Alten das damals
 Gestohlene: Drei Schlüssel sollten es sein … — Wir drei
 wissen nichts von den Schlüsseln, und Tschamo, der Alte,
-»behauptete, er hätte die Schlüssel nicht gefunden. Wir wurden
+behauptete, er hätte die Schlüssel nicht gefunden. Wir wurden
 alle fünf gefesselt. Nachher kehrte Wapeisu allein zurück
 und brachte die Spritze und das Gift, damit wir drei …
 hier im Garten verscharrt werden könnten. Tschamo aber
-und sein Sohn Lipatu sollen noch heute aus der turnte
-nach Wunder vor der Stadt ein Lastauto besteigen und heimlich
-nach Dauli fahren … — Wir Daulien Ihnen, Master,
+und sein Sohn Lipatu sollen noch heute auf der Straße
+nach Wandri vor der Stadt ein Lastauto besteigen und heimlich
+nach Dauli fahren … — Wir danken Ihnen, Master,
 denn Sie haben uns das Leben gerettet …«
 
 Harald überlegte …
 
-»Oh der Schofför des Lastautos Tschamo und seinen
+»Ob der Schofför des Lastautos Tschamo und seinen
 Sohn kennt?« fragte er dann.
 
-»Nein, Master … Tschamo sollte dem Schlosse, einem
+»Nein, Master … Tschamo sollte dem Schofför, einem
 Inder, nur das Wort Wapeisu als Zeichen nennen.«
 
-»Und — wo sollen eure Leichen verscharrt werden?«
+»Und — wo sollten eure Leichen verscharrt werden?«
 
-»In der Düngergrube hinter dem Pferdestall …
+»In der Düngergrube hinter dem Pferdestall …«
 
 »Weiß Mr. Wardner, daß ihr beseitigt werden solltet?«
 
@@ -964,153 +959,152 @@ daß Wapeisu Tschamos Freund ist …«
 
 »Uns dreien, Master …«
 
-»Wird Wapeisu nochmals hierher kommen?
+»Wird Wapeisu nochmals hierher kommen?«
 
-»gen. :: Trink Fall mehr Arbeit als am Tage«;
-&n seine! Teestube wird Gattin Verpackt:«
-»Und wer besorgte die Viertel«
+»Nein … Er hat nachts mehr Arbeit als am Tage …
+In seiner Teestube wird Opium geraucht.«
+
+»Und wer besorgte die Pferde?«
 
 »Wir drei, Master …«
 
-»So ist also nicht zu flüchten, daß jetzt jemand uns hier
+»So ist also nicht zu fürchten, daß jetzt jemand uns hier
 überrascht?«
 
 »Bestimmt nicht …«
 
-Harald band die drei los … »Geh! und schaufelt den
-Düngerhonusen so um, daß es den Eindruck macht, als sei
+Harald band die drei los … »Geht und schaufelt den
+Düngerhaufen so um, daß es den Eindruck macht, als sei
 dort etwas vergraben worden,« befahl er. »Beeilt euch …
-Damm fällt den Karren mit Stroh, damit Tschamo und
-Lipatu darunter verborgen werden können. Mit dem Narren
+Dann füllt den Karren mit Stroh, damit Tschamo und
+Lipatu darunter verborgen werden können. Mit dem Karren
 <@pagebreak/>
-Fahrt ihr zum hinterlassen und übergebt Kapitän O’Kelling
+fahrt ihr zum Kutterhafen und übergebt Kapitän O’Kelling
 von der »Lady Hamilton« die beiden Gefangenen, die
 ihr in Säcke stecken könnt. Seid vorsichtig. Den Karren
 bringt ihr heimlich hierher zurück. Dann kann Käpten O’Kelling
-euch aus seinem Kutter verbergen. Wenn ihr Bauch klug
-vereint, wird alles gelingen. Ihr braucht O’Kelling nur
-zu sagen, daß Harst Tuch Schiff … Er soll Tschamo und
+euch auf seinem Kutter verbergen. Wenn ihr euch klug
+benehmt, wird alles gelingen. Ihr braucht O’Kelling nur
+zu sagen, daß Harst euch schickt … Er soll Tschamo und
 Lipatu unten im Raume scharf bewachen … — Nun beginnt
-mit der Arbeit nun der Düngergrube …«
+mit der Arbeit an der Düngergrube …«
 
 Die drei eilten davon …
 
 Inzwischen war Tschamo wieder zu sich gekommen …
 
-Wir hoben ihn aus einen Stuhl. Ich las die Splitter
-der Bombe aus, steckte sie in die Tasche, ebenso das noch fast
+Wir hoben ihn auf einen Stuhl. Ich las die Splitter
+der Spritze auf, steckte sie in die Tasche, ebenso das noch fast
 volle Fläschchen.
 
-Leopard sagte zu dem Allen:
+Harald sagte zu dem Alten:
 
-»Aha weiß, daß du nichts eingestehen wirst …!lud
-den? werde ich dich später zwingen, mir die volle Wahrheit
+»Ich weiß, daß du nichts eingestehen wirst … Und
+doch werde ich dich später zwingen, mir die volle Wahrheit
 mitzuteilen. Ich bin der Detektiv Harst, und ich habe schon
-und rte Leute zum Reden gebracht als dich … Ihr seid
+andere Leute zum Reden gebracht als dich … Ihr seid
 Mörder, Diebe, Verräter … Eure Geheimnisse werden sehr
-bald seine (Geheimnisse mehr sein … Ihr habt das Spiel
+bald keine Geheimnisse mehr sein … Ihr habt das Spiel
 verloren, und das Zuchthaus von Madras wird euch auf
-Lebenöszeit ausnehmen …«
+Lebenszeit aufnehmen …«
 
-der Alte’! grinste 22?
+der Alte … grinste …
 
-Nichts weiter :…
+Nichts weiter …
 
 Nur dieses infame Lächeln, das uns warnte … —
 
 Die drei Chinesen traten wieder ein, brachten zwei
 Säcke mit …
 
-Minuten später lag die Hütte in Dunkelheit gehört da,
-und der Karren wurde aus die Straße geschoben. Niemand
-störte uns, niemand konnte im Vorderhanuse hören, was hier
+Minuten später lag die Hütte in Dunkelheit gehüllt da,
+und der Karren wurde auf die Straße geschoben. Niemand
+störte uns, niemand konnte im Vorderhause hören, was hier
 geschah. — Der Karren rollte davon, und wir beide begaben
 uns durch stille Seitengassen dorthin, wo das Lastauto Wapeisus
-an der Straße nach Wunder wartete.
+an der Straße nach Wandri wartete.
 
-Die letzten länger von Madras lagen hinter uns …
+Die letzten Häuser von Madras lagen hinter uns …
 
-Und dann am Wege ein kleine? Lastauto, mit Leinwand
+Und dann am Wege ein kleines Lastauto, mit Leinwand
 <@pagebreak/>
-überspannt. Auf den Führersitz ein [Schlafenden Zu
-
-der …
+überspannt. Auf dem Führersitz ein schlafender Inder
+…
 
 Harst rüttelt den Mann …
 
-Rast ihm das eine Wort zu;
+Ruft ihm das eine Wort zu:
 
-»»Wapeisu!«
+»Wapeisu!«
 
-Der Schneise nicht verschlossen, deutet hinter sich auf den
+Der Schofför nickt verschlafen, deutet hinter sich auf den
 überdachten Wagenkasten …
 
 Wir klettern hinein … Maisstroh raschelt … Das
-Auto euch zu …
+Auto ruckt an …
 
-Ruckt zu — — und um uns her wird das Stroh
+Ruckt an — — und um uns her wird das Stroh
 lebendig …
 
-uns, sechs Gestalten …
+Fünf, sechs Gestalten …
 
-Ich Kreise in die Tasche des Kittels nach der Clement …
+Ich greife in die Tasche des Kittels nach der Clement …
 
-Zu spät … Drei Kerle hängen mir zum Halse …
+Zu spät … Drei Kerle hängen mir am Halse …
 
-wo — da?) wohl zu spät …
+Und — doch nicht zu spät …
 
-Ein Stoß bejöuidert wich? ins Freie … Td) Kriege zu)
-die grinste — bleibe sekundenlaig halb bewiäißtlos lieber.
+Ein Stoß befördert mich ins Freie … Ich fliege auf
+die Straße — bleibe sekundenlang halb bewußtlos liegen.
 
-gemalt reißt mich hob)… annimmt mich lag die Arme …
+Jemand reißt mich hoch… nimmt mich in die Arme …
 
-Da ist ein breiter Kanal … Ein Davonmachen …
+Da ist ein breiter Kanal … Ein Baumnachen …
 
-Harst wirst mich in den Rachen, stößt mit der langen
-Wambiicltange ab …
+Harst wirft mich in den Nachen, stößt mit der langen
+Bambusstange ab …
 
-In wirbelndem Staub eutschtwvindvet das Flurs … Kein
-Verfolger läßt sich sehen … — Harst landet wieder. Stuhl
-mich … Mein rechtes sein versagt. So Humor/in wir zur
-Stadt zurück … Tierchens halb vier überschreiten wir die
-Laufplanke und sind wieder an Lord der »Lady Hamilton«.
+In wirbelndem Staub entschwindet das Auto … Kein
+Verfolger läßt sich sehen … — Harst landet wieder, stützt
+mich … Mein rechtes Bein versagt. So humpeln wir zur
+Stadt zurück … Morgens halb vier überschreiten wir die
+Laufplanke und sind wieder an Bord der »Lady Hamilton«.
 
-Harst hat aus dem ganzen Wege kein Wort gesprochen.
+Harst hat auf dem ganzen Wege kein Wort gesprochen.
 Meine Fragen überhörte er … Schließlich merkte ich, daß
-er nicht gestört sein wollte … Seine Gebahnten spürten
+er nicht gestört sein wollte … Seine Gedanken spürten
 dem Anlaß dieses jähen Überfalles nach … Denn — die
-Amngreiser dort unter dem Leinentuch des kleinen Autos.
-Waren weder Inder noch Chinesen gewesen … Waren
-
+Angreifer dort unter dem Leinentuch des kleinen Autos
+waren weder Inder noch Chinesen gewesen … Waren
 Europäer …
-Wie rollte dies zu all dem Vorausgegangenen?! Gute
 
-packt — = er)da im Hunde mit Wapeisull!
+Wie paßte dies zu all dem Vorausgegangenen?! Europäer
+— — etwa im Bunde mit Wapeisu?!
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Die Scakzkaunmner des. Fürsten.</h3>
+<h3>Die Schatzkammer des Fürsten.</h3>
 
-Paratu hatte die Wache an Deck, Rani uns entgegen …
-»»Tuwan Harst, alles in Lrduuang,« flüsterte er. »Die fünf
-Chinesen sind hier — zwei liegen tun Kielraum gefesselt. Die
+Paratu hatte die Wache an Deck, kam uns entgegen …
+»Tuwan Harst, alles in Ordnung,« flüsterte er. »Die fünf
+Chinesen sind hier — zwei liegen im Kielraum gefesselt. Die
 anderen drei schlafen vorn in der Segelkammer …«
 
-Harald schüttelt den Kopf … »Worte auch die drei, die
-erst mit dem Karren kamen«
+Harald schüttelt den Kopf … »Also auch die drei, die
+erst mit dem Karren kamen?«
 
-».Ja, Tuwan … Sie haben den Karren zurückgebracht
-und waren sehr bald wieder h;her … fanden, daß Unterrand
-aus Wapeisus Trunksucht enge geweilt habe … — könnten
-O’Kelling war erst sehr üverrasiht … Er hat uns eingeweiht
-… — aber Ihr wolltet doch) nach Dauli mit einem
-Lastauto, Zuwarf«
+»Ja, Tuwan … Sie haben den Karren zurückgebracht
+und waren sehr bald wieder hier … Sagten, daß niemand
+auf Wapeisus Grundstück etwas gemerkt habe … — Käpten
+O’Kelling war erst sehr überrascht … Er hat uns eingeweiht
+… — Aber Ihr wolltet doch nach Dauli mit einem
+Lastauto, Tuwan?«
 
 »Wollten …! — Führe uns zu den dreien, Paratu …
+Dann wecke den Käpten …« —
 
-Dann Tode den na —
-In der Segelkammer lagen die drei aus Bastmatten.
+In der Segelkammer lagen die drei auf Bastmatten.
 
 An der Wand hing eine Laterne.
 
@@ -1119,73 +1113,74 @@ es ganz ausgeschlossen sei, daß sie gesehen worden, als sie
 den Karren zurückbrachten.
 
 Harald gab sich hiermit zufrieden.
-Als wir- wieder zu Deck kamen, dämmerte es bereits.
+
+Als wir wieder an Deck kamen, dämmerte es bereits.
 
 Freund O’Kelling empfing uns in seiner Achterkajüte
 mit tausend Fragen. Harst war recht verstimmt, meinte
-achselzuckend:; »Die Dinge wachsen mir förmlich über den
-
-Kopf … Das Lastauto sollte doch) Tschamo und seinen
+achselzuckend: »Die Dinge wachsen mir förmlich über den
+Kopf … Das Lastauto sollte doch Tschamo und seinen
 Sohn nach Dauli bringen … Und — was finden wir in
-dem Lastauto:! Sechs im Maisstroh verstellte Europäer,
+dem Lastauto: Sechs im Maisstroh versteckte Europäer,
 die über uns herfallen und denen ich nur durch brutale Boxhiebe
-bewies, daß mir doch nicht so leicht zu sangen sind …«
+bewies, daß wir doch nicht so leicht zu fangen sind …«
 
 Er setzte sich auf das Rohrsofa …
 
-»Wen wollten diese sechs nun eigentlich sangen?! Harst
+»Wen wollten diese sechs nun eigentlich fangen?! Harst
 und Schraut oder Tschamo und Lipatu? Und in wessen
 <@pagebreak/>
-Austrag handelten sie?f! etwa Wapeisu der Urheber dieses
-Uebversalles?! — Glaube ich nicht …!«
+Auftrag handelten sie?! etwa Wapeisu der Urheber dieses
+Überfalles?! — Glaube ich nicht …!«
 
-Harald grübezie vor sich hin, meinte dann: »An! besten,
-wir begeben uns naß Dauli … neun wir den Salon-Fluß
-auswärts fahren, können wir auf dem NWNevbveusluß
-darin, der aus den weigern gleichen Namens kommt, bis
-dicht an die Haupte:ad! des Fürstentums gelangen … Mann
-könnten wir dort sein, O’zielling?«
+Harald grübelte vor sich hin, meinte dann: »Am besten,
+wir begeben uns nach Dauli … Wenn wir den Salar-Fluß
+aufwärts fahren, können wir auf dem Nebenfluß
+Karra, der aus den Bergen gleichen Namens kommt, bis
+dicht an die Hauptstadt des Fürstentums gelangen … Wann
+könnten wir dort sein, O’Kelling?«
 
-In etwa achtzehn Stunden,« erwiderte der Käpten.
+»In etwa achtzehn Stunden,« erwiderte der Käpten.
 
-»wieder wir sofort aus,« erklärte Harst gähnend.
-»S4raut und ich werden uns niederlegen … Geben Sie
-aus die beiden Gefangenen acht, O’telling … Verpsjlegen
-Sie sie gut … Die beiden sind niemals armselige chJinesiiche
+»Brechen wir sofort auf,« erklärte Harst gähnend.
+»Schraut und ich werden uns niederlegen … Geben Sie
+auf die beiden Gefangenen acht, O’Kelling … Verpflegen
+Sie sie gut … Die beiden sind niemals armselige chinesische
 Kulis oder dergleichen. Was sie sind, wird sich noch herausstellen
 …« — —
+
 Überspringen wir rund zwanzig Stunden. Der Kutter
-liegt jetzt in einer buchtähnlickck;en Auswolvung des
-Karra-Flüßchens im dichtesten, zweimanushyohen Röhricht,
+liegt jetzt in einer buchtähnlichen Auswölbung des
+Karra-Flüßchens im dichtesten, zweimannshohen Röhricht.
 Von Deck läuft die Planke zum steinigen Ufer hin. Wir
 drei Europäer frühstücken auf dem Achterdeck und erwarten
-des Malaien Warnung Rückkehr, den Harald mit geheimen
+des Malaien Paratu Rückkehr, den Harald mit geheimer
 Botschaft zu Frau Wardner geschickt hat. Die Hauptstadt
-Dauli ist nach Norden zu etwa anderthalb Ungesunden entfernt,
+Dauli ist nach Norden zu etwa anderthalb Wegstunden entfernt,
 und wenn Paratu Glück gehabt hat, kann er in kurzem
 zurück sein,
 
 Wir warten, doch Paratu kommt nicht … Wir haben
-längst zu Blauroten und Zigaretten gegessen und atmen
+längst zu Zigarren und Zigaretten gegriffen und atmen
 mit Genuß zwischen den langsam nachdenklichen Zügen
 diese reine Wald- und Höhenluft ein.
 
-Aus dem Vorschiff eine andere Gruppe … Die könnt
+Auf dem Vorschiff eine andere Gruppe … Die fünf
 Chinesen und die drei malaiischen Matrosen O’Kellings …
 Tschamo und Lipatu jetzt ohne Fesseln, etwas abseits, —
-fiele mit demselben undurchdringlichen Gesichtern, die sie
+stets mit denselben undurchdringlichen Gesichtern, die sie
 auch all unseren Fragen gegenüber bewahrt haben.
 
 Haralds Blick ruht Gedankenverloren auf dieser Gruppe
 … Und ganz unvermittelt sagt er dann: »Wenn Vater und
 <@pagebreak/>
-Sohn, Tschamo und Lipatu damals die drei Ehylüssiel, von
+Sohn, Tschamo und Lipatu damals die drei Schlüssel, von
 denen wir noch immer nichts Genaueres wissen, wirklich gestohlen
-haben, [so dürsten sie dieselben kaum mit nach Madras
+haben, so dürften sie dieselben kaum mit nach Madras
 genommen haben …«
 
-Käpten Altan O’Kelling qualmt die Wolken aus seiner
-grünjschwarzen Brasil, Marke Mücentöter … Nickt …:
+Käpten Allan O’Kelling qualmt dicke Wolken aus seiner
+grünschwarzen Brasil, Marke Mückentöter … Nickt …:
 »Sie meinen also, die Kerle haben sie auf der eiligen Flucht
 rasch irgendwo versteckt …«
 
@@ -1199,109 +1194,109 @@ Vom Vorschiff einer der Matrosen: »Paratu kommt!«
 Paratu eilte schon über die wippende Laufplanke …
 Stand vor uns, reichte Harald einen Brief, berichtete kurz …
 Er hatte Frau Wardner durch einen Zufall in der Stadt getroffen.
-Sie kam gerade vom Postamt, und ein Eiswasset-verfäuser
+Sie kam gerade vom Postamt, und ein Eiswasserverkäufer
 hatte Paratu die Gattin des Privatsekretärs gezeigt.
 Den Brief hatte sie dann sofort im Postamt geschrieben.
 — Paratu zog sich zurück, und Harst las das Schreiben
 uns vor …
 
-»Geehrter Herr Harst, dem Himmel sei Dauli, daß Sie
+»Geehrter Herr Harst, dem Himmel sei Dank, daß Sie
 sich hier eingefunden haben. Ich bin in grenzenloser Verzweiflung,
 denn mein Mann ist seit gestern abend spurlos
 verschwunden. Er ging im Schloßpark abends gegen zehn
 spazieren und ist seitdem nicht mehr gesehen worden. Der
 Fürst hat alles nur Erdenkliche getan, Lionels Verschwinden
 aufzuklären. Bitte, besuchen Sie mich recht bald. Im
-Übrigen werde ich. wie Sie es verlangen, verschweigen, daß
+Übrigen werde ich, wie Sie es verlangen, verschweigen, daß
 Sie mit einem Motorkutter auf dem Karra ankern. Der
-Radsicha erwartet Sie gleichfalls voller Ungeduld. Sein Befinden
+Radscha erwartet Sie gleichfalls voller Ungeduld. Sein Befinden
 hat sich gebessert. — Unsere Wohnung liegt im neuen
 Anbau des Palastes im Erdgeschoß. Ich werde um zwölf
 Uhr mittags an der Nordwestecke des Parkes sein. — Ihre
-unglückliche Eier Wardner.«
+unglückliche Ellen Wardner.«
 
-»(Eine nette Geschick:e!« Platte O’Kelling heraus …
-
+»Eine nette Geschichte!« platzte O’Kelling heraus …
 <@pagebreak/>
-»Rum ist auch) noch Sir Wardner futsch …!! — Wie soll das
+»Nun ist auch noch Sir Wardner futsch …!! — Wie soll das
 enden, bester Harst?!«
 
 Harald nahm sein Feuerzeug … Der Brief flammte
-aus … Und er sagte achselzuckend: »Das Ende ist noch
+auf … Und er sagte achselzuckend: »Das Ende ist noch
 nicht vorauszusehen … Um zehn Uhr werden Schraut und
 ich den Kutter verlassen. Paratu begleitet uns, hält sich
 aber stets hinter uns. Es dürfte ratsam sein, daß wir Ihnen
 Nachricht geben können, falls etwas Unerwartetes geschieht,
-lieber O’Kelling … Sie bitten hier unsere Reserve …
-Radscha Kalisara den Karra hat vielleicht Grund, uns nicht
+lieber O’Kelling … Sie bilden hier unsere Reserve …
+Radscha Kalisara ben Karra hat vielleicht Grund, uns nicht
 so zu behandeln, wie es sein müßte …«
 
 O’Kelling schlackerte verständnislos mit dem Schädel …
 
-»Was heißt das?! Nicht so behandeln?! verhält sollte
+»Was heißt das?! Nicht so behandeln?! Weshalb sollte
 er …«
+
 Harald winkte ab … »Es wird sich alles zeigen …«
-—» Und zu mir: »Wir nehmen jeder nur unseren Handkoffer
+— Und zu mir: »Wir nehmen jeder nur unseren Handkoffer
 mit, mein Alter … Und wir werden angeblich mit
 einem Auto von Madras gekommen sein. Packe die Handkoffer
 …«
 
-Wir beide hatten längst die Chinesenkostüime wieder
-abgelegt … Tropen wieder unsere leichten Sportanzüge …
-— — Und gegen zehn Uhr verabschiedeten wir uns von O’Kelling.
-Tschamo und sein Sohn hatten solchen vorher ihr Geist
-Ha Alelrätikt danieder beziehen müssen., Sie solltet
-nicht wisse, daß Wir denn Mittel verließen;
+Wir beide hatten längst die Chinesenkostüme wieder
+abgelegt … Trugen wieder unsere leichten Sportanzüge …
+— Und gegen zehn Uhr verabschiedeten wir uns von O’Kelling.
+Tschamo und sein Sohn hatten schon vorher ihr Gefängnis
+im Kielraum wieder beziehen müssen. Sie sollten
+nicht wissen, daß Wir den Kutter verließen.
 
-Paratu trug die Koffer und spielte den Führer: Fach
-einstündigem Marsch durch die Wisldni38 sahen wir vom.
+Paratu trug die Koffer und spielte den Führer. Nach
+einstündigem Marsch durch die Wildnis sahen wir vom
 Waldrande aus die kleine Residenzstadt Dauli in einem Tale
 zu unseren Füßen liegen. Rechts an der Stadtgrenze waren
-der künstliche Park und der Palast deutlich zu erkennen. —
+der fürstliche Park und der Palast deutlich zu erkennen. —
 Auf Umwegen gelangten wir beide an die Nordwestecke der
-Parkmatner. Paratu war jetzt weit hinter uns, und wir
+Parkmauer. Paratu war jetzt weit hinter uns, und wir
 schleppten unsere Koffer höchst eigenhändig.
 
-An dieser Nordwestecke gab es eine Pforte aus braunschwarzen
-Tekaholz, das niemals laut und bar! wir Eisen
-ist. Die Y’forte stand halb offen. Wir habe? die blonde
+An dieser Nordwestecke gab es eine Pforte aus braunschwarzem
+Tekaholz, das niemals fault und hart wie Eisen
+ist. Die Pforte stand halb offen. Wir sahen die blonde
 <@pagebreak/>
 Frau Ellen Wardner an der Mauer lehnen, ein Bild rührender
 Hilflosigkeit.
 
 Nach kurzer, stiller Begrüßung führte sie uns in einen
 kleinen Tempel, der mitten in einem fast undurchdringlichen
-Gestrüpp sich erhob. Draußen aus der verwitterten Treppe
+Gestrüpp sich erhob. Draußen auf der verwitterten Treppe
 setzten wir uns nieder … — »Hier sind wir sicher,« meinte
 Frau Ellen Wardner. »hier will ich Ihnen erzählen, wie
-ich dahinter kam, daß Lionel mit den Chinesen sich der-Drunter
-hat …
+ich dahinter kam, daß Lionel mit den Chinesen sich verbündet
+hat …«
 
-Ihre müde Stimme lebte etwas aus …
+Ihre müde Stimme lebte etwas auf …
 
 »Ich lernte Lionel in London kennen, kurz bevor er
 hier nach Dauli reiste. Drei Jahre sind wir jetzt verheiratet,
 und doch kann ich leider nicht behaupten, jemals restlos
-gräflich gewesen zu sein, obwohl Lionel mich aufrichtig
-lebt. Er Lot stets Geheinmnisse vor mir gehabt — stets …
+glücklich gewesen zu sein, obwohl Lionel mich aufrichtig
+liebt. Er hat stets Geheimnisse vor mir gehabt — stets …
 Alles nur Kleinigkeiten, Mr. Harst … Aber ich spürte es,
-daß er noch weit mehr vor mir verbarg. Ich) könnte stundenlang
-berichten, wollte ie) all diese Kleinigkeiten aufzählen.
-I) will nur das wichtigste und das heraucgreisen,
-was die letzten vier Wochen betrifft. Es fiel mir aus, daß
+daß er noch weit mehr vor mir verbarg. Ich könnte stundenlang
+berichten, wollte ich all diese Kleinigkeiten aufzählen.
+Ich will nur das wichtigste und das herausgreifen,
+was die letzten vier Wochen betrifft. Es fiel mir auf, daß
 Lionel mit einem Male auch aus Madras Briefe erhielt,
-die, nur scheinbar Geschästsreklamen, in Wahrheit »servierten
-Inhalt hatten, genau wie vorher schon ähnliche Streiften
-aus Bassins eingetroffen Japaner an gebe zu, Paß Ich
-ein wenig inmitten! habe, Mr. Harst. Nur fö erhielt ich
+die, nur scheinbar Geschäftsreklamen, in Wahrheit chiffrierten
+Inhalt hatten, genau wie vorher schon ähnliche Schreiben
+aus Kalkutta eingetroffen waren. Ich gebe zu, daß ich
+ein wenig spioniert habe, Mr. Harst. Nur so erhielt ich
 Kenntnis davon, daß die Briefe für Uneingeweihte nicht zu
 entziffern waren. Außerdem aber fuhr Lionel in dem ihm
-zu! Verfügung stechenden Auto häufiger als bisher nach
+zur Verfügung stehenden Auto häufiger als bisher nach
 Madras, nahm mich auch wiederholt mit und besuchte dann
 stets Wapeisus Teestube, wo ja nur Europäer und die beste
 Gesellschaft von Madras verkehrt. Sehr bald merkte ich,
 daß zwischen meinem Manne und Wapeisu ein geheimes
-Einverständni? herrschte, daß Lionel mit dem Chinesen
+Einverständnis herrschte, daß Lionel mit dem Chinesen
 sich in dessen Privaträume zurückzog und daß eine gewisse
 Nervosität immer stärker bei ihm zutage trat. Dann kam
 jene Nacht, in der hier im Palast die beiden Chinesen von
@@ -1309,78 +1304,76 @@ jene Nacht, in der hier im Palast die beiden Chinesen von
 dem Wachtposten überrascht wurden. In dieser Nacht hatte
 Lionel angeblich noch zu arbeiten. Ich war allein im
 Schlafzimmer. Als die Schüsse fielen, die der Posten auf
-die Eindringlinge abgab, eilte ich in meines Mannes Ar-peit8zimmer.
+die Eindringlinge abgab, eilte ich in meines Mannes Arbeitszimmer.
 Lionel war nicht dort, und auf dem Schreibtisch
-lag nichts, was daraus hingedeutet hätte, daß er wirklich
+lag nichts, was darauf hingedeutet hätte, daß er wirklich
 sich mit schriftlichen Arbeiten beschäftigt hätte. Nachher,
 als er angeblich die Verfolgung der Diebe veranlaßt hatte
 und in unserer Wohnung erschien, war er sehr ungehalten,
 weil ich das Bett verlassen hatte. So aufgeregt wie damals
 habe ich ihn noch nie gesehen. Ich hatte schon in jener Nacht
 Argwohn geschöpft, daß mein Mann diese Verfolgung der
-
-Chinesen nur deshalb persönlich geleitet hatte, um den hielten
+Chinesen nur deshalb persönlich geleitet hatte, um den Dieben
 das Entkommen zu erleichtern, und als der Fürst ihn
 dann nach Madras zu Ihnen schickte, bat ich absichtlich, daß
-er mich Mittel;men solle. Abends ließ er mich dort im Hotel
-he London allein, und so konnte ich denn, unkenntlich gemacht
-durch Staunbmantel und Schleier, Wapeisus Teestube
+er mich mitnehmen solle. Abends ließ er mich dort im Hotel
+de London allein, und so konnte ich denn, unkenntlich gemacht
+durch Staubmantel und Schleier, Wapeisus Teestube
 durch einen Nebeneingang betreten, wo ich Lionel vermutete.
 Was weiter geschah, wissen Sie, Mr. Harst … Sie beide bemächtigten
-sich] meiner … Ich eilte dann ins Hotel zurück,
+sich meiner … Ich eilte dann ins Hotel zurück,
 und mein Mann erschien anderthalb Stunden später. Er
-war sehr verstimmt und gereizt, Morgens fuhren wir hier«
+war sehr verstimmt und gereizt, Morgens fuhren wir hierher.
+Er sprach kaum ein Wort …«
 
-her. Er sprach kaum ein Wort …
-Sie hatte jetzt das Gesicht mich den Händen bedeckt,
-
+Sie hatte jetzt das Gesicht mit den Händen bedeckt,
 schluchzte leise …
 
-Harald fragte sonst:
+Harald fragte sanft:
 
-»Frau Wardner, wissen Sie irgend etwas Ade? …
-Brei Schlüssel?«
+»Frau Wardner, wissen Sie irgend etwas über …
+drei Schlüssel?«
 
 Sie ließ die Hände sinken …
 
-»Drei Schlüssel?! — Rein — — — nichts! —«- Was für
+»Drei Schlüssel?! — Nein — — nichts! — Was für
 Schlüssel sollen das sein?!«
 
-Und Harst mit ernster Betonung!
+Und Harst mit ernster Betonung:
 
-»Wahrscheinlich die Schlüssel zu der geheimen Stahlkammer
+»Wahrscheinlich die Schlüssel zu der geheimen Schatzkammer
 des Fürsten, in der der Agitationsfonds der indischen
 Freiheitsbewegung aufbewahrt wird … Und ebenso
 <@pagebreak/>
-wahrscheinlich ist Ihr Glatte nur deshalb hier nach Dauli
+wahrscheinlich ist Ihr Gatte nur deshalb hier nach Dauli
 gekommen, um diesen Fonds zu ermitteln … Vielleicht ist
-Lionel Wardner ganz etwas anderes als er ich einen will —
+Lionel Wardner ganz etwas anderes als er scheinen will —
 auch vor Ihnen! Ich halte ihn … für einen Beamten der
-englischen politischen Polizei, der den Austrag hat, diesen
+englischen politischen Polizei, der den Auftrag hat, diesen
 Millionenschatz … zu beschlagnahmen …«
 
 Frau Ellen war totenblaß geworden … Ihre unnatürlich
 geweiteten Augen hingen entsetzt an Haralds leidenschaftslosen
 Zügen …
 
-»Mein Gott …!« preßte sich? hervor … »Und — und
+»Mein Gott …!« preßte sie hervor … »Und — und
 sein Verschwinden jetzt …?! Ob … ob etwa der Fürst ihn
-durchschaut haben man?!«
+durchschaut haben mag?!«
 
 Harst erwiderte leise:
 
 »Ich fürchte es … Und doch können Sie außer Sorge
-sein, Frau Wardner … die Seiten sind vorüber, wo ein
-eingeborener Fürst es Augen dürfte, einen Europäer zu beseitigen.
+sein, Frau Wardner … Die Zeiten sind vorüber, wo ein
+eingeborener Fürst es wagen dürfte, einen Europäer zu beseitigen.
 Und den Ort, wo man Ihren Gatten gefangen
-hält, werde ich zu finden wissen … —« steht wollen wir uns
-trennen … Schraut mit ich werden den rasch durch das
+hält, werde ich zu finden wissen … — Jetzt wollen wir uns
+trennen … Schraut mit ich werden den Park durch das
 Haupttor betreten … Und nochmals: Wir kennen uns nicht,
-
 Frau Wardner! Sie verstehen …!!«
 
 <@pagebreak/>
-Der Mann in der Sänfte.
+
+<h1>Der Mann in der Sänfte.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Riwuri Tumir, der Krüppel.</h3>
@@ -2109,7 +2102,7 @@ verlangt ;:: -.- …
 — +. Seine Rede, streng in! dort, manches Wort wie ein
 Schwertstreich …
 
-» Mr. Harst, Sie hatten den Austrag angenommen, die
+» Mr. Harst, Sie hatten den Auftrag angenommen, die
 beiden Chinesen zu suchen,« beginnt er, unheilsverkündend
 in seiner ehernen Raunte. »Sie hatten zugesagt, hierher zu
 kommen. Sie sind gekommen Und als Sie kamen, haben
@@ -2124,7 +2117,7 @@ einem Gentleman zu tun …!!«
 <@pagebreak/>
 Der Radscha: »Soll das mir gelten, Mr. Harsts!«
 
-»Wem sonst?!! — Ich bin Europäer, und als solcher
+»Wem sonst?! — Ich bin Europäer, und als solcher
 habe ich die Pflicht, zuerst Sir Lionel Wardners Verschwinden
 aufzuklären …«
 
@@ -2885,7 +2878,7 @@ die vergifteten Zigaretten erwähnte. — Nein, die sechs Herren
 entfernten sich so recht wie reckte, die ein schlechtes vermissen
 haben …
 
-»Bande!!!« murmelte unser Käpten hinter ihnen her …
+»Bande!!« murmelte unser Käpten hinter ihnen her …
 Denn er als Tee liebte die Engländer, wie hab und Hund
 ich ließen …
 
@@ -2908,7 +2901,7 @@ Polizei in der vergangenen Wacht den Palast des Radscha
 von Dauli völlig durchsucht habe, um den Gebeimsoudo zu
 beschsagunahmen, daß man jedoch) nichts gefunden habe …
 Die Beamten seien von Sir Wardner beseitigt worden,
-der auf geschilieste Weise herausgebracht habe. das; die
+der auf geschickteste Weise herausgebracht habe. das; die
 <@pagebreak/>
 Millionen in einem sehr selten Gewölbe unter dem Raubtierhause
 versteckt gewesen … Das Gewölbe sei jedoch leer
