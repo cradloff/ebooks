@@ -249,7 +249,7 @@ natürlich abstreiten — um den seit vielen Jahren gesammelten
 Propagandafonds der großindischen Unabhängigkeitsbewegung,
 der fraglos Hunderte von Millionen wert sein
 dürfte und für die europäische Herrschaft dabei keine geringe
-Gefahr darstellt.«
+Gefahr darstellt.««
 
 <@pagebreak/>
 Harald ließ die Zeitung sinken …
@@ -2382,98 +2382,96 @@ ihn zu finden … Gestatten Sie, daß wir uns zurückziehen.«
 Wir verließen den Saal …
 
 <h2>4. Kapitel.</h2>
-<h3>Licht aus …!!«</h3>
+<h3>»Licht aus …!!«</h3>
 
 Wir verließen den Saal, und … mir war der Kopf
-von Ulster! so benommen und wirr, daß ich paar nicht auf
+von alledem so benommen und wirr, daß ich gar nicht auf
 die in den Fluren umherstehenden Diener achtete, die vor
-uns, als sei nichts geschehen, ihren Kokain machten …
+uns, als sei nichts geschehen, ihren Kotau machten …
 
-Nichts geschehen?! Und — die beiden Tiger, die Durchdringende
+Nichts geschehen?! Und — die beiden Tiger, die eindringende
 Leibgarde, dann der »wandelnde« Tumir und
 <@pagebreak/>
 schließlich des Fürsten Behauptung, er habe Wardner nicht
 verschwinden lassen …!!! — Nichts geschehen …?! — —
-ich Danke!!
+ich danke!!
 
 Harald wandte sich über die Haupttreppe dem Portal
 zu … Wir gingen in den Park … Zwischen den Baumkronen
 glühte das Abendrot … Die zahmen, langschwänzigen
-Messer saßen auf den Rändern der Fontänen und ließen
-den seinen Sprühregen über ihr dichtes Fell rieseln —
-ihr Abendbad! Auf den künstlichen Teichen! Schwammen
+Affen saßen auf den Rändern der Fontänen und ließen
+den feinen Sprühregen über ihr dichtes Fell rieseln —
+ihr Abendbad! Auf den künstlichen Teichen schwammen
 indische Wildenten in der ganzen Pracht ihres glänzenden
-Erziehers … Ein betäubender Duft wehte von einer
-Gruppe von Kampferbäumen herüber … Rosiger Schafften
-überwölbter Vorhänge nahm uns auf … Und allmählich
+Gefieders … Ein betäubender Duft wehte von einer
+Gruppe von Kampferbäumen herüber … Rosiger Schatten
+überwölbter Laubgänge nahm uns auf … Und allmählich
 entspannten sich die Nerven wieder …
 
-Harst blieb sicher, schaute mich um …
+Harst blieb stehen, schaute mich um …
 
 »Wie ein wilder Traum war’s, mein Alter …« —
 und zog sein Zigarettenetui, hielt es mir hin … »Eine
 Mirakulum wird uns gut tun, denke ich … Man muß erst
 die große Lüge des braven Fürsten verdauen … Wem will
 er wohl einreden, daß der Millionenfonds weggeschafft ist,
-wo doch die Schlüssel zur Schapkammer selben und er
+wo doch die Schlüssel zur Schatzkammer fehlten und er
 zugeben mußte, daß Duplikatschlüssel nicht vorhanden!«
 
 Er sprach nur das aus, was auch ich mir schon Überlegt
 hatte …
 
-Wich Interessierte im Ihrigen Sir Wardners Schicksal
-viel nicht als diese Millionen ;…
+Mich Interessierte im übrigen Sir Wardners Schicksal
+viel mehr als diese Millionen …
 
 Harst reichte mir Feuer … Und nach zwei Zügen fuhr
 er fort: »Die Schlüssel waren unter dem Pavillon versteckt,
-vor dessen Treppe sich Tschoamo mit Lipatu angeblich in
-Nebel auslösten … — Hast du Dir die Steinplatten am
+vor dessen Treppe sich Tschamo mit Lipatu angeblich in
+Nebel auflösten … — Hast du Dir die Steinplatten am
 Fuße der Treppe angesehen? Es gab dort etwas zu sehen.
-
 … Erstens die Reste des raucherzeugenden Pulvers, das
-die beiden Chinesen abbrannten, um den Posten zu täu-sc&cn.
+die beiden Chinesen abbrannten, um den Posten zu täuschen.
 Was der Soldat für Nebel hielt, war Rauch. Die
 Chinesen verstehen sich vortrefflich auf die Herstellung von
-Feuerwerkskörpern und ähnli&’en Dingen. — Und zweitens:
+Feuerwerkskörpern und ähnlichen Dingen. — Und zweitens:
 <@pagebreak/>
 In die Fugen zwischen zwei der Steinplatten war
-ein Stü braunen ESqhnürsenkel8 eingeklemmt. Tschamo
-trat braune Leinens&Guhe mit Gummisohlen. Das Stück
+ein Stück braunen Schnürsenkels eingeklemmt. Tschamo
+trägt braune Leinenschuhe mit Gummisohlen. Das Stück
 Schnürsenkel beweist, daß eine der Platten sich lüften läßt …
-Sie dürfte den Zusatz zu einem Kellerraum unter dem
-Pavillon bilden, und dort wurden die drei Schlüssel aus-bewah«
-t, ein setzte, das Wardner ausspioniert hatte. Deshalb
-schickte er Person:o und Lipatu aus, die Schlüssel zu
+Sie dürfte den Zugang zu einem Kellerraum unter dem
+Pavillon bilden, und dort wurden die drei Schlüssel aufbewahrt,
+ein Versteck, das Wardner ausspioniert hatte. Deshalb
+schickte er Tschamo und Lipatu aus, die Schlüssel zu
 stehlen. Nachher wollten sie die Schatzkammer plündern,
 die anderswo zu suchen ist …«
 
-»2308!« — Diele Frage entfuhr mir halb gegen meinen
-Willen … Und ich erklärte daher sofort: «Cnischul-diane,
-— das war töricht … Wie spricht du wohl wissen,
+»Wo?!« — Diese Frage entfuhr mir halb gegen meinen
+Willen … Und ich erklärte daher sofort: »Entschuldige,
+— das war töricht … Wie solltest du wohl wissen,
 wo …«
 
-Haralds Lächeln ließ mich verstummen … (Es war ein
-nur ganz glückliches Lächeln. Es verlor sich schnell wieder,
+Haralds Lächeln ließ mich verstummen … Es war ein
+nur ganz flüchtiges Lächeln. Es verlor sich schnell wieder,
 als ob ein besonderer Gedanke es verdrängt hatte. Und
-der Staunt sagte denn auch: »Es ist Tumir-? wegen besser,
-über Dinge Pirat zu reden, die wirklich unter uns bleiben
+der Freund sagte denn auch: »Es ist Tumirs wegen besser,
+über Dinge nicht zu reden, die wirklich unter uns bleiben
 sollen, mein Alter … So lange ich mir über diesen Krüppel
-nicht frostig klar geworden bin, was bisher nicht der
-Fall ist, kann jeden Anngenbsick der »nsichtbare »wandelnde«
-small eben uns sein und lauschen. Acht betonte! vorläufig
-Miß Ich hier, was by:t Reitrock betrifft, mit Vorgängen
-feinen, die außerhalb der Grenzen unseres geistigen Fassungsvermögens
-liegen … Wir haben, was ihn verspielt,
-[oberste Marsches erlebt, daß wir nicht ohne Weiteres diese
-stehe n:ist dem groben Wort »Schwindel« abtun wollen …
-einmal der alle Radscha ganz offenbar vor Tumir Angst
-
+nicht völlig klar geworden bin, was bisher nicht der
+Fall ist, kann jeden Augenblick der unsichtbare »wandelnde«
+Tumir eben uns sein und lauschen. Ich betone: Vorläufig
+muß Ich hier, was den Krüppel betrifft, mit Vorgängen
+rechnen, die außerhalb der Grenzen unseres geistigen
+Fassungsvermögens liegen … Wir haben, was ihn betrifft,
+so Erstaunliches erlebt, daß wir nicht ohne Weiteres diese
+Sache mit dem groben Wort »Schwindel« abtun wollen …
+Zumal der alte Radscha ganz offenbar vor Tumir Angst
 hatte …«
 
 Ich wußte hierauf nichts zu erwidern … Aber ich
 blickte scheu ringsum … so scheu, als müßte ich hier im rötlichen
-rechte der scheidenden Sonne. plötzlich ein gespenstiges
-ziehen bemerken — sorgenlos und doch mit erkennbaren
+Lichte der scheidenden Sonne plötzlich ein gespenstiges
+Wesen bemerken — körperlos und doch mit erkennbaren
 Umrissen, eben wirklich — — einen Geist …
 
 <@pagebreak/>
@@ -2481,35 +2479,33 @@ Nichts sah ich … Nur meinen Harald, der genau wie
 ich selbst etwas hastig die Mirakulum rauchte …
 
 So verging eine Weile. Dann begann Harst wieder:
-»Was nur Patronen betrifft, so glaube ich zu ahnen, was
+»Was nun Wardner betrifft, so glaube ich zu ahnen, was
 ihm zugestoßen ist … Erinnere dich an einen scheinbar noch
 völlig ungeklärten Punkt, mein Alter: An das Lastauto
-und die Europäer, die uns überfielen!! Es waren Weiße!
+und die Europäer, die uns überfielen! Es waren Weiße!
 Und — wie kamen diese Europäer mit in dieses Intrigenspiel
-hinein?k! Fünf waren es, die »wir sahen … Vielleicht
+hinein?! Fünf waren es, die wir sahen … Vielleicht
 sind’s noch mehr gewesen …«
 
 Meines Freundes Gedankengang blieb mir diesmal
 unklar … Wahrscheinlich nur deshalb, weil ich mich in
-der Tat sehr abgespannt fühlte. Z« beschränkte mich auf
+der Tat sehr abgespannt fühlte. Ich beschränkte mich auf
 ein nur angedeutetes Achselzucken …
 
-»Ran muß Wardners Vergangenheit mit in Betracht
-flehen,« jagte Harald bedächtig. »Es sieht fest: Er ist leiser
-
-er gekommen in einer bestimmten Wissen, er ist Beamten,
-
-politischer Detektiv. Das Treiben des Radschas der die
-ganze Unabhängigkeitsbewegung und dieser Geheimkarte
-Hat in London Beunruhigwia hervorgerufen. war wollte
-dieses Wespennest hier aufheben, zerstören, und man ging
-dabei großzügig zu Werke, lich sich Zeit. Wardner schrieb
-seine halb antienglischen Viehhüter, der Radscha sie! Wortlaut
+»Man muß Wardners Vergangenheit mit in Betracht
+ziehen,« sagte Harald bedächtig. »Es steht fest: Er ist hierher
+gekommen in einer bestimmten Mission, er ist Beamter,
+politischer Detektiv. Das Treiben des Radschas hier die
+ganze Unabhängigkeitsbewegung und dieser Geheimfonds
+Hat in London Beunruhigung hervorgerufen. Man wollte
+dieses Wespennest hier ausheben, zerstören, und man ging
+dabei großzügig zu Werke, ließ sich Zeit. Wardner schrieb
+seine halb antienglischen Broschüren, der Radscha fiel darauf
 herein und machte den Bock zum Gärtner: Wardner
 wurde sein Privatsekretär! — Aber dieser Sir Lionel Wardner
 bekam plötzlich Sehnsucht nach leicht zu erobernden Millionen,
-gedachte den Geheimkarte an sich zu bringen und …
-seine vorgesehte Behörde zu betrügen. Er ging das Bündnis
+gedachte den Geheimfonds an sich zu bringen und …
+seine vorgesetzte Behörde zu betrügen. Er ging das Bündnis
 mit Wapeisu ein, ahnte nicht, daß auch er überwacht
 wurde …«
 
@@ -2517,98 +2513,101 @@ Jetzt begriff ich den Zusammenhang … Meinte:
 »Also waren es Beamte, die uns überfielen …!«
 
 »Ohne Zweifel Beamte … Es gibt keine bessere Erklärung
-… Detektive waren es, die den Schlosse des Lastautos
+… Detektive waren es, die den Schofför des Lastautos
 durch Drohungen zum Schweigen gezwungen hatten,
 die vielleicht alles wissen, was wir wissen, und — vielleicht
 <@pagebreak/>
 noch mehr …! Sie haben Wardner verschwinden lassen …
 Sie haben bestimmt hier in der Nähe des Palastes ihre Aufpasser
-… Und wir beide, nein sollten, sitzen gleichsam
+… Und wir beide, mein Alter, sitzen gleichsam
 zwischen zwei Feuern: Das eine ist der fanatische alte Fürst
 mit seinem Anhang, das zweite die Herren Kollegen aus
-London! — Wenn ich nun nicht [so sehr gespannt wäre, wie
-diese ganze Sache enden wird, und wen! mir anderseits
+London! — Wenn ich nun nicht so sehr gespannt wäre, wie
+diese ganze Sache enden wird, und wenn mir anderseits
 nicht Frau Ellen so außerordentlich leid täte, würde ich
 schleunigst nach Madras zurückkehren, denn man kann sich
-Burschen zwei Feuern zu leicht die Finger verbrennen …«
+zwischen zwei Feuern zu leicht die Finger verbrennen …«
+
 »Allerdings, allerdings!« erklärte ich mit berechtigtem
-Nachdruck. »Wir wäre auch wohler, wenn wir erst wieder
-die sicheren Planken der »Lady Hatmiliou« unter unseren
-Füßen hätten … Am unheimlicdysten ist mir dieser Turmuhr …«
-Harst nickte ernst … »Altes ist unheimlich, was keine
+Nachdruck. »Mir wäre auch wohler, wenn wir erst wieder
+die sicheren Planken der »Lady Hamilton« unter unseren
+Füßen hätten … Am unheimlichsten ist mir dieser Tumir …«
+
+Harst nickte ernst … »Alles ist unheimlich, was keine
 rechte Deutung findet … Trotzdem werden wir beide doch
-nicht auskneifen — — noch besser!! Rein, wir werden Um
-unsere Augen ich Ärger denn je gebrauchen, werden die konme-mende
-Nacht auf Schlag verzichten und den Ort beobachten,
-an dem ich den Geheimkarte vermute …« eine Stimme
-sank immer mehr zum Flüstern herab … »Mein geführt
+nicht auskneifen — — noch besser!! Nein, wir werden unsere
+Augen schärfer denn je gebrauchen, werden die kommende
+Nacht auf Schlaf verzichten und den Ort beobachten,
+an dem ich den Geheimfonds vermute …« Seine Stimme
+sank immer mehr zum Flüstern herab … »Mein Gefühl
 täuscht mich selten … Meine Vorahnungen treffen zumeist
-ein … Es trieb sich in dieser Nacht ersah ereignen … Der
-Radscha hat senkt die drei Schlüssel … Vielleicht läßt er
+ein … Es wird sich in dieser Nacht ersah ereignen … Der
+Radscha hat jetzt die drei Schlüssel … Vielleicht läßt er
 den Millionenfonds in dieser Nacht wegschaffen …«
-gar »Ah —« — das ist möglich …! Harald, das ist losgemacht)
-— Gemach) …! Warten wir ab … neun der
+
+»Ah — — das ist möglich …! Harald, das ist sogar
+…«
+
+»Gemach — gemach …! Warten wir ab … Wenn der
 Fürst uns heute abend einlädt mit ihm zu speisen, wenn er
 dann als … liebenswürdiger Wirt noch Wein zur Abendtafel
-spendet, wenn er uns zum Trinken Ruiniert, dann werden
-wir die drüben, Ehläsjrigen spielen … Denn dann …
-will er uns zu der nötigen Vettsclivere verhelfen — — Du
-verstehst! — — So, kehren wir nun in unsere Zimmer zur
-Ruck … Und um den Stacheln zu Wahren, legen wir ums
+spendet, wenn er uns zum Trinken animiert, dann werden
+wir die Müden, Schläfrigen spielen … Denn dann …
+will er uns zu der nötigen Bettschwere verhelfen — — Du
+verstehst! — — So, kehren wir nun in unsere Zimmer zurück
+… Und um den Schein zu wahren, legen wir uns
 dort nieder …« — —
 
 <@pagebreak/>
 So geschah’s …
 
-um denn Uhr erschien ein Palastbeamter und Überbrachte
-uns die Vinladung des Fürsten zur Abendtafel.
+um neun Uhr erschien ein Palastbeamter und Überbrachte
+uns die Einladung des Fürsten zur Abendtafel.
 
-Es Bar alles so. wie Harald es vorausgesehen hatte …
+Es war alles so, wie Harald es vorausgesehen hatte …
 
-Rest …!! — Börse richtig er doch stets die Menschen
-eingeholt! Auch dieser greise Fürst, Yogis ein intelligenter
-Kahn, gab sich der irrigen Hoffnung bin, einen Harst längeren
-zu sorgen …
+Alles …!! — Wie richtig er doch stets die Menschen
+einschätzt! Auch dieser greise Fürst, fraglos ein intelligenter
+Mann, gab sich der irrigen Hoffnung hin, einen Harst täuschen
+zu können …
 
 Wollte uns durch ein förmliches Weingelage kampfunfähig
 machen … Hatte ein paar Offiziere seiner Leibgarde
 hinzugebeten, die uns unter den Tisch trinken sollten.
 
 Uns …!! — Nun, wir tranken … Und als wir um
-halb zwölf unsere hinunter aufsuchen, mußte jeder glauben,
+halb zwölf unsere Zimmer aufsuchten, mußte jeder glauben,
 daß wir für diese Nacht … erledigt seien … — Ein
 Irrtum …!! — Schon eine halbe Stunde später verließen
-wir unser? Räume auf dem eisigen Wege, der uns vor
-Spähern schützte: durch das so Male Fenster des Boden
-
-Zimmers — mit Hilfe unserer Strickleiter …! — Die
-HausSwaund lag im Schatten … Im Palasthofe keine Seele.
-
--… Und wir im Moment hinter dem nächsten Baume …
+wir unsere Räume auf dem einzigen Wege, der uns vor
+Spähern schützte: durch das schmale Fenster des Badezimmers
+— mit Hilfe unserer Strickleiter …! — Die
+Hauswand lag im Schatten … Im Palasthofe keine Seele.
+… Und wir im Moment hinter dem nächsten Baume …
 Fünfzig Schritt von uns das Raubtierhaus … Zwischen
 den Käfigstäben hervor das gelbgrüne Schillern der Augenpaare
-der ruhelosen Bestien … — Eng angeschwicgt an den
-Stamm Wir beide … Lauschend, spähend … haltend …
+der ruhelosen Bestien … — Eng angeschmiegt an den
+Stamm Wir beide … Lauschend, spähend … hoffend …
 
-Bis … in dem einen Käfig ein rötlicher L;chtscheim aufflammt
-und die künstliche Felsgruppe im Hintergrund bei
+Bis … in dem einen Käfig ein rötlicher Lichtschein aufflammt
+und die künstliche Felsgruppe im Hintergrund beleuchtet
+…
 
-leuchtet
-ohne Gestalt dort — und einer Laterne …
-Tumir — — Zurannte, der Loaundelude, als Mensch mit
+Eine Gestalt dort — mit einer Laterne …
 
+Tumir — — Tumir, der Wandelnde, als Mensch mit
 Armen und Beinen …
-Die beiden Tiger scheucht er in den Nebenkäfig … Vers
 
-Schwindel …
+Die beiden Tiger scheucht er in den Nebenkäfig … Verschwindet
+…
 
 Ich raune Harald zu: »Vermutest du die Schatzkammer
-in dem Käfig?e«
+in dem Käfig?«
 
-»Unter dem! Käfig — den Zugang in der Felsgruppe,
+»Unter dem Käfig — den Zugang in der Felsgruppe,
 <@pagebreak/>
 auch die Tür, zu der die drei Schlüssel passen — natürlich
-eine versteckt angelegte Tür …
+eine versteckt angelegte Tür …«
 
 Er will noch etwas hinzufügen …
 
@@ -2616,32 +2615,31 @@ Hinter uns ein leises Geräusch …
 
 Wir fahren herum …
 
-Hinter uns die Sänfte des Krüppels … Wer ztruppet
-in dem Sessel … Zwei sauber als Träger …
+Hinter uns die Sänfte des Krüppels … Der Krüppel
+in dem Sessel … Zwei Inder als Träger …
 
 Tumir sagt ganz ruhig: »Ich lade Sie beide ein, sich
-anzusehen, was Sie vorausgeahnt haben … Kenntnissen
-
-ie …«
+anzusehen, was Sie vorausgeahnt haben … Kommen
+Sie …«
 
 Die Träger heben die Sänfte an …
 
-Schreiten aus den hastig zu … gelegen vorn die Gittertür
+Schreiten auf den Käfig zu … Öffnen vorn die Gittertür
 …
 
-»Schatten Sie nur Ihre Taschenlampen ein, meine Herren,«
+»Schalten Sie nur Ihre Taschenlampen ein, meine Herren,«
 sagt der Krüppel wieder …
 
-Die Träger schließen die Sänfte in den Käfig, bis hinter
+Die Träger schieben die Sänfte in den Käfig, bis hinter
 die Felsgruppe …
 
 Wir beleuchten die Szene …
 
-Und Tumir bestiehlt grünlich:
+Und Tumir befiehlt plötzlich:
 
 »Licht aus!!«
 
-untere Taschenlampen erlöschen …
+Unsere Taschenlampen erlöschen …
 
 Finsternis …
 
@@ -2649,8 +2647,8 @@ Raubtiergestank …
 
 <@pagebreak/>
 
-<h2>3. Kapitel.</h2>
-<h3>»Sie haben nur geträumt …!«.</h3>
+<h2>5. Kapitel.</h2>
+<h3>»Sie haben nur geträumt …!«</h3>
 
 Finsternis …
 
@@ -2667,25 +2665,25 @@ Tumir …
 
 Sänfte, Träger sind verschwunden …
 
-Hinter Tumir ein Tugend Diener des Fürsten …
+Hinter Tumir ein Dutzend Diener des Fürsten …
 
-Tumir zieht die drei elf Wasser aus dem Gewande …
+Tumir zieht die drei Schlüssel aus dem Gewande …
 
-Packt eine Jacke des einen Felsens … Ulk der Fels
-schwingt nach) außen …
+Packt eine Zacke des einen Felsens … Und der Fels
+schwingt nach außen …
 
-(Kino Metasttiir wird sichtbar — mit drei Schlüssel
-führen … ;; Flurtür benutzt die Schlüssel … Die Tür dreht
-sich Not) innen … Die Diener haben Laternen angezündet,
-Folgen Innige die Steintreppe hinab … Wir als
-jede … Zwanzig Stufen … Ein Gewölbe, darin nichts
-als zwölf mittelgroße Säcke aus Buschland …
+Eine Metalltür wird sichtbar — mit drei Schlüssellöchern
+… Tumir benutzt die Schlüssel … Die Tür dreht
+sich nach innen … Die Diener haben Laternen angezündet,
+… Folgen Tumir die Steintreppe hinab … Wir als
+letzte … Zwanzig Stufen … Ein Gewölbe, darin nichts
+als zwölf mittelgroße Säcke aus Büffelhaut …
 
 Säcke, an denen vier Diener schwer zu schleppen haben.
 
 Und Sack auf Sack tragen sie davon …
 
-Tumir steht schweigend, lächelt sein Rätsel lächeln …
+Tumir steht schweigend, lächelt sein Rätsellächeln …
 
 Und als der letzte Sack weggebracht wird, sagt der unheimliche
 Krüppel:
@@ -2694,7 +2692,7 @@ Krüppel:
 
 Wir hinter den Dienern her …
 
-Anus dem Käfig heraus — in die nahen Büsche, auf
+Aus dem Käfig heraus — in die nahen Büsche, auf
 die Lichtung …
 
 <@pagebreak/>
@@ -2702,25 +2700,25 @@ Laternenschein … Ein riesiger Elefant, beladen mit
 den zwölf Säcken … Leibgarde des Fürsten …
 
 Und alles stumm … Kein Wort wird gesprochen …
-h3b Eine Stille, die das Unwirkliche dieser Szene noch eng
 
-lt …
+Eine Stille, die das Unwirkliche dieser Szene noch erhöht
+…
 
 Ich bin benommen, sehe alles wie durch leichte Schleier.
 
-Sehe den Zug sich in Bewegung sehen …
+Sehe den Zug sich in Bewegung setzen …
 
-elegant, Leibgarde, Diener — — verschtwvinden …
+Elefant, Leibgarde, Diener — — verschwinden …
 
 Wir bleiben allein …
 
 Stehen vor dem Zelte des Krüppels, in der Hand die
-»Taschenlampen, die nichts mehr zu beleuchten haben …
+Taschenlampen, die nichts mehr zu beleuchten haben …
 
 Das Geräusch des enteilenden Zuges verrauscht in den
 Tiefen des Parkes …
 
-Wir … mir wird immer seltsamer zumute …
+Mir … mir wird immer seltsamer zumute …
 
 Eine unnatürliche Müdigkeit befällt mich …
 
@@ -2728,73 +2726,74 @@ dann — aus dem Zelte hinter uns Tumirs Stimme …
 
 Schwerfällig nur drehe ich mich um …
 
-Sehe die könnte, den Krüppel …
+Sehe die Sänfte, den Krüppel …
 
 Höre die weiche, melodische Stimme Tumirs — —
 wie aus endloser Ferne kommend:
 
 »Meine Herren, Sie haben nur geträumt … natürlich
-Nur geträumt …
+Nur geträumt …«
 
 Und mit einem Male packt mich ein Schwindel …
 
-Ich taumelte …
+Ich taumele …
 
-und — —. etwas In meinem Bett oben (Nr Gas
-Wer ins Palastes … Durch die Fenster Sonnenschein …
-an (’s.
+und — — erwache In meinem Bett oben im Schlafzimmer
+des Palastes … Durch die Fenster Sonnenschein …
+Tag ist’s …
 
-Mit einem Nuß gebe ich mich aufrecht …«
+Mit einem Ruck setze ich mich aufrecht …
 
-Drüben Haralds Bett … Harald gütigst noch …
+Drüben Haralds Bett … Harald schläft noch …
 
 Ich reibe mir die Augen … Der Kopf ist mir schwer …
 Die Gedanken wie eingerostet … Mühsam rufe ich mir die
 Vorgänge der Nacht ins Gedächtnis zurück …
 
-lehnte an mir herab … Ich habe den Schlafanzug
-an … Antenne Kleider liegen dort aus dem Stuhl — genau
+Schaue an mir herab … Ich habe den Schlafanzug
+an … Meine Kleider liegen dort auf dem Stuhl — genau
 wie ich sie immer hinzulegen pflege …
 
-Und doch) — und doch: Wir wären unten in der kleinen
+Und doch — und doch: Wir waren unten in der kleinen
 <@pagebreak/>
 Lichtung! Dort hat Tumir gesagt: »Sie haben nur
 geträumt!«
 
-… Nur geträumt?! — Nein, niemals!! Man bat uns
-hier na oben getragen … Man hat uns in die Betten
-gelegt … Man will uns kauerten … —
+… Nur geträumt?! — Nein, niemals!! Man hat uns
+hier nach oben getragen … Man hat uns in die Betten
+gelegt … Man will uns täuschen … —
+
 Ich halte es im Bett nicht länger aus … Wecke Harald.
+
 Und der starrt vor sich hin … Meine Fragen überhört
 er … bis er schließlich lediglich sagt: »Nehmen wir
-
 ein Bad …!«
+
 Am Fenster des Badezimmers keine Strickleiter mehr …
-
 Die Strickleiter liegt im Koffer … —
+
 Neun Uhr ist’s, als der Radscha uns zum Frühstück
-
 bitten läßt …
-Empfängt uns mit der Frage, ob wir auch gut geschah
 
-vorhaben …
+Empfängt uns mit der Frage, ob wir auch gut geschlafen
+haben …
 
 »Nur sehr schwer geträumt, Hoheit,« erwidert Harald.
 
 Der Fürst ist heute wie ausgewechselt. So liebenswürdig,
 daß ich geradezu ängstlich werde …
 
-Und dann meint er im Laufe eines harmlosen See
-spräch8: »Ich habe mir’s anders überlegt, meine Herren.
-sich will Sie nicht weiter bemühen … Mag aus Wardner
-geworden sein, was da wir: Suchen Sie nicht nach ihm!
-— Um zwölf Uhr werden zwei mich ’has bereitstehen, die
-Sie Du Ankerstelle des Kutters zurückbringen werden …«
+Und dann meint er im Laufe eines harmlosen Gesprächs:
+»Ich habe mir’s anders überlegt, meine Herren.
+Ich will Sie nicht weiter bemühen … Mag aus Wardner
+geworden sein, was da will: Suchen Sie nicht nach ihm!
+— Um zwölf Uhr werden zwei Rikschas bereitstehen, die
+Sie zur Ankerstelle des Kutters zurückbringen werden …«
 
-sind Nachher, als Wir bis verabschieden, überreicht er
-Schein von ins eine goldene, handlänge Tigerstatue — mit
-Smaragden als Augen … Dazu noch Harst einen Scherz.
-… Den Ecke lehnt Harald ab …
+Und Nachher, als Wir uns verabschieden, überreicht er
+jedem von uns eine goldene, handlange Tigerstatue — mit
+Smaragden als Augen … Dazu noch Harst einen Scheck.
+… Den Scheck lehnt Harald ab …
 
 Der Radscha reicht uns die Hand …
 
@@ -2805,51 +2804,56 @@ Kaum sind wir in unseren Zimmern im Anbau des
 Palastes, als ein Diener uns einen Brief bringt — von
 Frau Ellen Wardner …
 
-»Geehrter Herr Harst,
-mein Mann hat mir heute sollst) Nachricht geschickt … Er
+<blockquote><p class="centered">»Geehrter Herr Harst,</p></blockquote>
+
+> mein Mann hat mir heute früh Nachricht geschickt … Er
 <@pagebreak/>
-befindet sich auf dem Kutter Mr. O’NKellings. Alles sieht
+befindet sich auf dem Kutter Mr. O’Kellings. Alles steht
 gut. Er wird dem Fürsten schriftlich kündigen, und ich soll
 unsere Sachen sofort packen … — Ich bin sehr glücklich,
 Mr. Harst! — Ihre Ellen Wardner.«
-Harald schaut. mich an …
-»hin neugierig, mein Alter, was Wardner uns erzählen
-wird … «!!«
-Eine Stunde Braut stehen wir zum letzten Male vor
-dem Raubtierhause … Sehen die sicher …
+
+Harald schaut mich an …
+
+»Bin neugierig, mein Alter, was Wardner uns erzählen
+wird …!«
+
+Eine Stunde drauf stehen wir zum letzten Male vor
+dem Raubtierhause … Sehen die Tiger …
+
 Aber — sehen nichts von Tumir, nichts …
+
 Gehen in das Gebüsch … Das Zelt ist nicht mehr
+da …
 
-»Nur als wir dann in den Ricksckchas davonrollen — dem
-Walde zu, als ans dem Dickicht grünlich der treue Paratu
-hervortritt, als wir einen Blick zur Parkmauer zurückwer-
-
-Bojen, da … gib! oben uf der Matter der … wandelnde
+Nur als wir dann in den Rikschas davonrollen — dem
+Walde zu, als aus dem Dickicht plötzlich der treue Paratu
+hervortritt, als wir einen Blick zur Parkmauer zurückwerfen,
+da … sitzt oben auf der Mauer der … wandelnde
 Tumir und winkt uns zu … — ist jäh verschwunden, wie
-weggewischt …
+weggewischt … —
 
-Wir steigen aus, sicher die Wägelchen zurück …
+Wir steigen aus, schicken die Wägelchen zurück …
 
 Paratu nimmt unsere Koffer … Strahlt …
 
-»Wie schaut’s an Lord aus, braver Paratus« fragt
+»Wie schaut’s an Bord aus, braver Paratu?« fragt
 Harald …
 
 »Tuwan Harst,« ruft der Malaie, und sein Gesicht zuckt
-vor Erregung ::1 ppTiiwait Harst, Teehause und Lipatu
+vor Erregung … »Tuwan Harst, Tschamo und Lipatu
 sind entflohen … Und Tuwan Wardner ist da … Und
-noch andere Zuwarf
+noch andere Tuwans …«
 
-»So … [o,« nicht »Harald. »Und sonst ist nichts geschehen
-by«
+»So … so,« nickt Harald. »Und sonst ist nichts geschehen?«
 
 »Nichts mehr … Aber der Käpten ist sehr ärgerlich,
-weil »Tschamo und Lipatu entwischt sind …
+weil Tschamo und Lipatu entwischt sind …«
 
-»Wann war das? War der Tuwan ’Wardner schon
+»Wann war das? War der Tuwan Wardner schon
 an Bord, als Vater und Sohn flüchteten …?«
 
-»30 … ja …!« Und Paratu grinst dazu … —
+»Ja … ja …!« Und Paratu grinst dazu … —
 
 Der Wald wird lichter … Der Fluß schimmert durch
 die Bäume … Dort liegt der Kutter … Auf dem Achterdeck
@@ -2857,90 +2861,88 @@ die Bäume … Dort liegt der Kutter … Auf dem Achterdeck
 unter dem Sonnensegel sitzen O’Kelling und sechs
 Europäer …
 
-O’nlling sieht uns, kommt uns entgegengerannt …
+O’Kelling sieht uns, kommt uns entgegengerannt …
 Freut sich über unsere Rückkehr noch herzlicher als der treue
-Paratu … Präsident aber:
+Paratu … Flüstert aber:
 
-»Habe da Gaste, die mir gar nicht behagen …«
+»Habe da Gäste, die mir gar nicht behagen …«
 
-dann stehen wir Sir Diener Wardner gegenüber
-Nerven die übrigen kennen … Und — — werfwuüirdig:
+dann stehen wir Sir Lionel Wardner gegenüber …
+Lernen die übrigen kennen … Und — — merkwürdig:
 Diese Herren einschließlich Wardners sind außerordentlich
 zurückhaltend … Verabschieden sich auch sehr bald …
-haben jeder nur einen Rucksack bei sich … Haben keinerlei
-Neugierde bezeigt, was wir in damals erlebten. Und wir …
+Haben jeder nur einen Rucksack bei sich … Haben keinerlei
+Neugierde bezeigt, was wir in Dauli erlebten. Und wir …
 erzählten nichts von dem »Traum« der verflossenen Nacht …
 Genau so wenig wie Harald Sir Wardner gegenüber etwa
 die vergifteten Zigaretten erwähnte. — Nein, die sechs Herren
-entfernten sich so recht wie reckte, die ein schlechtes vermissen
+entfernten sich so recht wie Leute, die ein schlechtes Gewissen
 haben …
 
 »Bande!!« murmelte unser Käpten hinter ihnen her …
-Denn er als Tee liebte die Engländer, wie hab und Hund
-ich ließen …
+Denn er als Ire liebte die Engländer, wie Katz und Hund
+sich lieben …
 
 Dann saßen wir drei alten Kameraden beieinander,
 und nun mußte Harald berichten … Er tat’s gern … Und
 vergaß nichts …
 
-O’Kelling Platte dann heraus: »Verdammt, — war’s
-nun ein Traum oder war’s feuern!«
+O’Kelling platzte dann heraus: »Verdammt, — war’s
+nun ein Traum oder war’s keiner?!«
 
-Harald — — ganz ernst; »Natürlich war’s ein Traum …
+Harald — — ganz ernst: »Natürlich war’s ein Traum …
 Tumir hat uns Dinge erleben lassen, die er uns … suggerierte
 … Suggestion war das ganze …«
 
-Ich) blickte ihn erstaunt an … — —
+Ich blickte ihn erstaunt an … — —
 
 Am andern Morgen waren wir wieder in Madras …
 Und abends stand’s in alten Zeitungen, daß die politische
 Polizei in der vergangenen Wacht den Palast des Radscha
-von Dauli völlig durchsucht habe, um den Gebeimsoudo zu
-beschsagunahmen, daß man jedoch) nichts gefunden habe …
-Die Beamten seien von Sir Wardner beseitigt worden,
-der auf geschickteste Weise herausgebracht habe. das; die
+von Dauli völlig durchsucht habe, um den Geheimfonds zu
+beschlagnahmen, daß man jedoch nichts gefunden habe …
+Die Beamten seien von Sir Wardner befehligt worden,
+der auf geschickteste Weise herausgebracht habe, daß die
 <@pagebreak/>
-Millionen in einem sehr selten Gewölbe unter dem Raubtierhause
+Millionen in einem sehr festen Gewölbe unter dem Raubtierhause
 versteckt gewesen … Das Gewölbe sei jedoch leer
 gewesen, und der Radscha sowie seine Beamten hätten erklärt,
-sie wüßten nichts von einem Geyeimjonds … —
+sie wüßten nichts von einem Geheimfonds … —
 
 So stand’s in den Zeitungen …
 
-Wir beide lasen’s auf der Parkterrasse des Hotel he
-so von … Und Harald meinte dann, indem er sich zu mir
+Wir beide lasen’s auf der Parkterrasse des Hotel de
+London … Und Harald meinte dann, indem er sich zu mir
 hinüberbeugte: »In einem Punkte habe ich Wardner Unrecht
 getan … Er wollte den Fonds nicht für sich selbst
 rauben, wollte sich nur der Chinesen bedienen, damit die
-Behörden scheinbar ganz aus dem Spiele blieben … »Im
-übrigen haben wir die Dinge richtig Zettel(eilt … Wenn
-du die Diniert;eilten jetzt nachprüfst, wirst du herausfinden,
-daß meine Xombinciionen durchaus morastig waren …«
+Behörden scheinbar ganz aus dem Spiele blieben … Im
+übrigen haben wir die Dinge richtig beurteilt … Wenn
+du die Einzelheiten jetzt nachprüfst, wirst du herausfinden,
+daß meine Kombinationen durchaus richtig waren …«
 
-»sind … Tumir«?« fragte ich zögernd.
+»Und … Tumir?« fragte ich zögernd.
 
-»an, lieber Alter, — über den Krüppel werden wir
-wohl niemals befriedigenden Ausschluß erhalten …«
+»Ja, lieber Alter, — über den Krüppel werden wir
+wohl niemals befriedigenden Aufschluß erhalten …«
 
 Und er nahm sein Glas kühlen deutschen Moselweins
-und drauf es langsam leer …
+und trank es langsam leer …
 
-Flinte nicht, daß Riwuri Tumir uns nochmals begegnen
+Ahnte nicht, daß Riwuri Tumir uns nochmals begegnen
 sollte … Daß auch Tschamo und Lipatu dabei waren
 … — Ein Erlebnis, das meinem Freunde Gelegenheit bot,
-seine außergewöhnliche Begabung für kriminalistische Steinzacken
+seine außergewöhnliche Begabung für kriminalistische Kleinarbeit
 zu beweisen …
 
-Eins noch zum Anlaß … für besonders ungeduldige
+Eins noch zum Schluß … für besonders ungeduldige
 Leser: Das Geheimnis des Krüppels Tumir wurde restlos
-
 von Harst geklärt!
-Auf Wiedersehen also … auf O’Tellings Kutter …
 
-a-. age.
-ech= Es =GS
+Auf Wiedersehen also … auf O’Kellings Kutter …!
 
 Nächster Band:
-Wirt Gedudels letzte Nadz4.
+
+__Miß Grandells letzte Nacht.__
 
 Druck: P. Lehmann G.&nbsp;in.&nbsp;b.&nbsp;H., Berlin.
