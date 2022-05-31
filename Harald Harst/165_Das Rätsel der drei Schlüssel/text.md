@@ -5,7 +5,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Als Harst die Zigaretten zerpflückte …</h3>
 
-Im Hafen von Madras liegt ein heUgrau gestrichener
+Im Hafen von Madras liegt ein hellgrau gestrichener
 Hochseekutter … Vorn am Bug glänzt in Messing der
 Name: Lady Hamilton. — Da sitzen achtern unter einem
 Sonnensegel Kapitän Allan O’Kelling, Harst und ich und
@@ -175,7 +175,7 @@ wie Paratu behauptete, noch so stark roch, daß der Malaie
 es merkte, kann die Verletzung erst kurze Zeit zurückliegen.
 
 Lassen Sie uns einmal ein paar Abendzeitungen holen,
-O’Kelling. dann werden wir ja sehen, ob wir unter den
+O’Kelling. Dann werden wir ja sehen, ob wir unter den
 neuesten Nachrichten irgend etwas finden, das zu meiner
 Vermutung stimmt …«
 
@@ -183,7 +183,7 @@ Paratu war’s, der nach den Zeitungen davoneilte.
 Jeder von uns dreien nahm eine andere Zeitung vor.
 O’Kelling studierte das in Madras erscheinende Eingeborenenblatt,
 da er die Landessprache am besten beherrschte.
-und er war’s, der bereits nach wenigen Minuten rief:
+Und er war’s, der bereits nach wenigen Minuten rief:
 
 »Hallo, hier wäre vielleicht etwas, Mr. Harst … Hören
 Sie, ich will vorlesen …«
@@ -221,7 +221,7 @@ muß einer der drei doch eine Verletzung davongetragen
 haben, da man verschiedene Blutstropfen im Grase und
 auch auf der Parkmauer entdeckte. — Das Schloß des
 betagten Fürsten von Dauli ist ja schon wiederholt von
-Verbrechern heimgesucht worden. die immer Wieder
+Verbrechern heimgesucht worden. Die immer wieder
 auftauchenden lächerlichen Gerüchte, daß der Radscha in
 dem Palast märchenhafte Schätze verbirgt, locken stets
 aufs neue Abenteurer herbei, obwohl es doch längst erwiesen
@@ -238,9 +238,9 @@ Raum hatte O’Kelling dies vorgelesen, als Harald, der
 die Madras-Post in Händen hielt, zu uns sagte:
 
 »Hier in dieser Zeitung sind die Vorgänge genau so
-geschildert, nur, Daß es über die »märchenhaften Schätze«
+geschildert, nur, daß es über die »märchenhaften Schätze«
 hier folgendermaßen heißt: »Der alte Radscha ist vor jeher
-als gefährlicher Aufwiegler bekannt. sein Haß gegen alles,
+als gefährlicher Aufwiegler bekannt. Sein Haß gegen alles,
 was Europäer heißt, hat ihm die Verehrung seiner Landsleute
 eingetragen. Und was die in seinem Palast aufgehäuften
 Schätze betrifft, so dürfte es sich dabei keineswegs
@@ -341,7 +341,7 @@ liegen hier in Madras in der Stahlkammer der Bank von
 Indien …!«
 
 Harald nickte … »Nun gut — mag sein … — Ich
-Übernehme den Auftrag … Ich werde die Nachforschungen
+übernehme den Auftrag … Ich werde die Nachforschungen
 jedoch auf meine Art beginnen … Mag Seine Hoheit sich
 <@pagebreak/>
 also nicht wundern, wenn er zunächst nichts von uns hört.
@@ -370,7 +370,7 @@ die den Park zieren …«
 »Welcher dieser Pavillons kommt da in Betracht?«
 forschte Harald hartnäckig weiter …
 
-der Privatsekretär machte eine ärgerliche Handbewegung
+Der Privatsekretär machte eine ärgerliche Handbewegung
 … »Mr. Harst, legen Sie wirklich auf eine solche
 alberne angebliche Beobachtung eines braunen Leibgardisten
 Gewicht?! Nun denn, es war der Pavillon vor dem Ostturm
@@ -492,7 +492,7 @@ bis zur Parallelstraße durch …«
 <h2>3. Kapitel.</h2>
 <h3>Um drei Schlüssel.</h3>
 
-aus dem grellen Licht der elektrischen Bogenlampen der
+Aus dem grellen Licht der elektrischen Bogenlampen der
 Kalkuttastraße hinein in ein schmales Seitengäßchen, in
 dem die Reklamebeleuchtung eines Kinos die Straßenlaternen
 überflüssig machte.
@@ -513,7 +513,7 @@ von früher her, sich düster und geheimnisvoll zusammenduckten
 Das Schloß der Pforte war neu … Und doch nicht
 kompliziert genug, um einem verstellbaren Dietrich Widerstand
 zu leisten. — Wir schlüpften hinein, schlossen hinter
-uns ab … Schlurften in den Baumschatten … Warteten,
+uns ab … Schlurften in den Baumschatten … Warteten.
 
 Es hatte uns niemand beobachtet. Ringsum war’s
 totenstill …
@@ -571,7 +571,7 @@ Hütte betreten. Die Tür fiel wieder zu.
 
 Harald versetzte mir einen gelinden Rippenstoß …
 
-»Fein, mein Alter …! sehr fein! Wardner hat bis
+»Fein, mein Alter …! Sehr fein! Wardner hat bis
 jetzt offenbar in der vornehmen Teestube ausgeharrt …
 Nun wird er mit seinen Verbündeten verhandeln … Bleibe
 hier … Ich werde allein horchen gehen …«
@@ -612,7 +612,7 @@ sie keinen Laut von sich … Schweigend wehrte sie sich —
 ein ungleicher Kampf, der uns wahrlich nicht zum Ruhme
 gereichte …
 
-Dann hatten wir sie glücklich bis In einen halb offenen
+Dann hatten wir sie glücklich bis in einen halb offenen
 kleinen Schuppen geschleppt … in den dunkelsten Winkel …
 
 Und wieder riß sie meine Hände zur Seite, keuchte mit
@@ -657,7 +657,7 @@ Und Harst:
 »Ja! — Und Sie … Sie … sind Harald Harst …!
 Sie müssen es sein …«
 
-»müssen?! Weshalb?!«
+»Müssen?! Weshalb?!«
 
 »Weil Lionel Sie fürchtet, weil er damit gerechnet hat,
 daß Sie ihm seine Pläne stören würden …«
@@ -694,9 +694,9 @@ haben, Frau Wardner …«
 
 Wieder das trockene Schluchzen …
 
-»Du mein Gott, wie soll ich Ihnen Danken …! Mr.
+»O mein Gott, wie soll ich Ihnen danken …! Mr.
 Harst, ich werde schweigen … Nur … helfen Sie mir …!
-helfen Sie mir!«
+Helfen Sie mir!«
 
 »Das werde ich tun … Gehen Sie jetzt … Ich begleite
 Sie … Hoffentlich kommen Sie unbemerkt davon …«
@@ -770,7 +770,7 @@ Wardner so sehr auf diese Schlüssel an?! Und nur wegen
 der Schlüssel hat er sich mit Wapeisu und den fünf gelben
 Schurken zusammengetan?! Das verstehe ich nicht recht …«
 
-»du Wirst es schon verstehen, lieber Alter … Nur Geduld
+»Du wirst es schon verstehen, lieber Alter … Nur Geduld
 … Wir erfahren auch noch den Rest … Vielleicht sehr
 bald sogar … Denn: Wapeisu spielt hier niemals ein
 ehrlich Spiel! Daß er als Chinese mit einem Weißen gegen
@@ -781,11 +781,11 @@ heucheln wie die Virtuosen … Niemals wirst du aus dem
 Gesicht eines Chinesen seine geheimsten Gedanken erraten.
 <@pagebreak/>
 Sie lächeln demütig, und innerlich blähen sie sich vor Stolz
-Über die Dummheit der leichtgläubigen Weißen … Sie
+über die Dummheit der leichtgläubigen Weißen … Sie
 haben das, was man wahres Volksgefühl nennt, hängen
 zusammen wie die Kletten … — Ich sollte mich sehr wundern,
 wenn ich nicht recht behielte … Wapeisu wird hier
-wieder erscheinen — allein … Und dann werden Wir ja
+wieder erscheinen — allein … Und dann werden wir ja
 sehen, wie er sich benimmt …« —
 
 Eine Stunde später, als der Mond bereits über der
@@ -794,7 +794,7 @@ Hütte stand, tauchte der Teestubenwirt wirklich auf …
 <h2>4. Kapitel.</h2>
 <h3>Als das Maisstroh lebendig wurde …</h3>
 
-Es War jetzt halb ein Uhr morgens …
+Es war jetzt halb ein Uhr morgens …
 
 Wapeisu hatte die Hütte betreten … Hatte hinter sich
 wieder abgeschlossen …
@@ -852,7 +852,7 @@ Ich umkrallte Haralds Arm …
 gepreßt … »Wir werden es nicht dulden …«
 
 Der Alte drinnen legte Spritze und Fläschchen auf den
-Tisch, und begann dann den jüngsten der vier Gefesselten
+Tisch, und begann dann den jüngsten der vier gefesselten
 loszubinden … Es dauerte eine geraume Weile, denn er
 konnte nur den rechten Arm benutzen …
 
@@ -905,9 +905,9 @@ Alles sollen Sie erfahren …«
 Seine Augen lebten auf … Sein Blick, schillernd vor
 Haß, flog zu den beiden Bewußtlosen hin …
 
-»was hat es mit den drei Schlüsseln auf sich? … Wo
+»Was hat es mit den drei Schlüsseln auf sich? … Wo
 sind sie?« fragte Harst, der sich keine Mühe gab, seine Rolle
-als Chinese auch hier weiterzuspielen,
+als Chinese auch hier weiterzuspielen.
 
 Der Pockennarbige erzählte:
 
@@ -922,7 +922,7 @@ Wir hatten von Wapeisu diese Hütte als Wohnung gemietet.
 Vor fünf Tagen kam Wapeisu mit den beiden da
 abends zu uns. Wir erhielten Geld. Wir sollten im Parke
 des Radscha von Dauli aufpassen, daß die beiden da nicht
-Überrascht würden. Mehr sagte man uns nicht … — Wir
+überrascht würden. Mehr sagte man uns nicht … — Wir
 taten, was wir versprochen hatten … Die Wachen verfolgten
 uns fünf, und nur durch ein Wunder entkamen wir.
 <@pagebreak/>
@@ -1008,7 +1008,7 @@ bald keine Geheimnisse mehr sein … Ihr habt das Spiel
 verloren, und das Zuchthaus von Madras wird euch auf
 Lebenszeit aufnehmen …«
 
-der Alte … grinste …
+Der Alte … grinste …
 
 Nichts weiter …
 
@@ -1130,7 +1130,7 @@ Er setzte sich auf das Rohrsofa …
 »Wen wollten diese sechs nun eigentlich fangen?! Harst
 und Schraut oder Tschamo und Lipatu? Und in wessen
 <@pagebreak/>
-Auftrag handelten sie?! etwa Wapeisu der Urheber dieses
+Auftrag handelten sie?! Etwa Wapeisu der Urheber dieses
 Überfalles?! — Glaube ich nicht …!«
 
 Harald grübelte vor sich hin, meinte dann: »Am besten,
@@ -1158,7 +1158,7 @@ des Malaien Paratu Rückkehr, den Harald mit geheimer
 Botschaft zu Frau Wardner geschickt hat. Die Hauptstadt
 Dauli ist nach Norden zu etwa anderthalb Wegstunden entfernt,
 und wenn Paratu Glück gehabt hat, kann er in kurzem
-zurück sein,
+zurück sein.
 
 Wir warten, doch Paratu kommt nicht … Wir haben
 längst zu Zigarren und Zigaretten gegriffen und atmen
@@ -1171,7 +1171,7 @@ Tschamo und Lipatu jetzt ohne Fesseln, etwas abseits, —
 stets mit denselben undurchdringlichen Gesichtern, die sie
 auch all unseren Fragen gegenüber bewahrt haben.
 
-Haralds Blick ruht Gedankenverloren auf dieser Gruppe
+Haralds Blick ruht gedankenverloren auf dieser Gruppe
 … Und ganz unvermittelt sagt er dann: »Wenn Vater und
 <@pagebreak/>
 Sohn, Tschamo und Lipatu damals die drei Schlüssel, von
@@ -1207,7 +1207,7 @@ verschwunden. Er ging im Schloßpark abends gegen zehn
 spazieren und ist seitdem nicht mehr gesehen worden. Der
 Fürst hat alles nur Erdenkliche getan, Lionels Verschwinden
 aufzuklären. Bitte, besuchen Sie mich recht bald. Im
-Übrigen werde ich, wie Sie es verlangen, verschweigen, daß
+übrigen werde ich, wie Sie es verlangen, verschweigen, daß
 Sie mit einem Motorkutter auf dem Karra ankern. Der
 Radscha erwartet Sie gleichfalls voller Ungeduld. Sein Befinden
 hat sich gebessert. — Unsere Wohnung liegt im neuen
@@ -1246,7 +1246,7 @@ abgelegt … Trugen wieder unsere leichten Sportanzüge …
 — Und gegen zehn Uhr verabschiedeten wir uns von O’Kelling.
 Tschamo und sein Sohn hatten schon vorher ihr Gefängnis
 im Kielraum wieder beziehen müssen. Sie sollten
-nicht wissen, daß Wir den Kutter verließen.
+nicht wissen, daß wir den Kutter verließen.
 
 Paratu trug die Koffer und spielte den Führer. Nach
 einstündigem Marsch durch die Wildnis sahen wir vom
@@ -1268,7 +1268,7 @@ Nach kurzer, stiller Begrüßung führte sie uns in einen
 kleinen Tempel, der mitten in einem fast undurchdringlichen
 Gestrüpp sich erhob. Draußen auf der verwitterten Treppe
 setzten wir uns nieder … — »Hier sind wir sicher,« meinte
-Frau Ellen Wardner. »hier will ich Ihnen erzählen, wie
+Frau Ellen Wardner. »Hier will ich Ihnen erzählen, wie
 ich dahinter kam, daß Lionel mit den Chinesen sich verbündet
 hat …«
 
@@ -1417,7 +1417,7 @@ So, nun brauche ich den Gang der Handlung durch
 obige Ausführungen nicht an unpassender Stelle zu unterbrechen
 …
 
-nun wieder zurück zum Palaste des alten Fürsten, wo
+Nun wieder zurück zum Palaste des alten Fürsten, wo
 uns vor dem Hauptportal ein Offizier der Leibgarde anhielt
 und nach unseren Wünschen fragte.
 
@@ -1471,7 +1471,7 @@ er uns über Wardner genau dasselbe mit, was wir bereits
 durch Frau Ellen gehört hatten … »Sie können sich also
 nur von jenem Soldaten, der auf die Chinesen feuerte, die
 nötigen Erklärungen geben lassen, Mr. Harst,« schloß der
-Fürst seine kühle und in allem klug abgewogene Rede. »der
+Fürst seine kühle und in allem klug abgewogene Rede. »Der
 Soldat steht Ihnen zur Verfügung. Wenden Sie sich an
 den Offizier, der Sie mir meldete. Ihre Zimmer sind bereits
 für Sie hergerichtet.«
@@ -1609,7 +1609,7 @@ Sahib …«
 Harst schwang sich an dem Baume empor, saß nun oben
 auf der Mauer … Fragte wieder: »Ihr habt die beiden
 doch auch in den Feldern verfolgt … Habt ihr diesen
-Baum ebenfalls berührt«
+Baum ebenfalls berührt.«
 
 »Nein, Sahib … Eine Leiter …«
 
@@ -1621,7 +1621,7 @@ Wir sahen vorhin einen Krüppel ohne Arme und Beine, der
 von einem der Tiger in den Käfig geschleppt wurde …
 Ist der Tiger so sehr zahm?«
 
-»ja, Sahib,« erwiderte der Soldat leise und scheu.
+»Ja, Sahib,« erwiderte der Soldat leise und scheu.
 »Riwuri Tumir, der Krüppel, ist der Herr der Raubtiere
 des Fürsten … Ihm tun die Bestien nichts. Er wohnt in
 dem Käfig, Sahib …«
@@ -1629,7 +1629,7 @@ dem Käfig, Sahib …«
 »Wie — er wohnt dort?!«
 
 »Ja, Sahib …« — Man merkte dem Manne an, daß
-er sehr ungern über diese Dinge sprach
+er sehr ungern über diese Dinge sprach.
 
 <@pagebreak/>
 »Also Riwuri Tumir heißt der junge gliederlose Inder
@@ -1648,7 +1648,7 @@ bezahlt uns gut …«
 
 Er verbeugte sich und ging …
 
-dann war er außer Sicht, als Harald flüsterte:
+Dann war er außer Sicht, als Harald flüsterte:
 
 »Gib acht, daß niemand mich beobachtet …«
 
@@ -1787,7 +1787,7 @@ Nein — um Chinesen und Schlüssel handelte es sich jetzt
 nicht mehr — nur noch um Sir Lionel Wardner, den Seine
 Hoheit hatte verschwinden lassen.
 
-etwas muß ich noch erwähnen, bevor ich den Rest dieses
+Etwas muß ich noch erwähnen, bevor ich den Rest dieses
 Tages zu schildern beginne: Die Palastbeamten, die
 Dienerschaft — alles begegnete uns mit jener eisigen Höflichkeit,
 hinter der sich ebenso viel heimliche Abneigung verbirgt.
@@ -1914,14 +1914,14 @@ in demselben höflichen Tone …
 »Ja … Zuweilen erinnere ich mich nachher jedoch
 nicht, wo ich gewesen bin …«
 
-»warst du vielleicht an der westlichen Parkmauer? Bist
+»Warst du vielleicht an der westlichen Parkmauer? Bist
 du an der Mauer mit Hilfe einer Stange hochgeklettert und
 hast du mich oben auf der Mauer gesehen?«
 
 Tumir schloß die Augen … Sein Gesichtsausdruck
 zeigte, daß er mit aller Energie seine Gedanken sammelte …
 
-dann schaute er Harst wieder an …
+Dann schaute er Harst wieder an …
 
 »Sie haben recht, Mr. Harst « erklärte er schlicht. »Ich
 war dort … jetzt weiß ich es. Und ich habe Sie und
@@ -1941,7 +1941,7 @@ Unwillkürlich blickte ich zu Harald hinüber … Der jedoch
 schien Tumirs unverschämte Lügen durchaus ernst zu
 nehmen, denn er fragte mit einem gewissen Respekt:
 
-»und wenn du wandelst gleichst du einem lebenden
+»Und wenn du wandelst gleichst du einem lebenden
 Menschen, Tumir?«
 
 »Nicht immer, Mr. Harst … Ich selbst besitze hierüber
@@ -2014,7 +2014,7 @@ mehr unter der Kachel liegen werden …«
 
 Er eilt davon …
 
-In den Anbau. — die Seitentreppe empor … Ich
+In den Anbau — die Seitentreppe empor … Ich
 ihm nach …
 
 In das Badezimmer …
@@ -2125,10 +2125,10 @@ hätten …«
 
 Der Radscha … schweigt …
 
-seine Augenlider senken sich noch mehr … Aus dem
+Seine Augenlider senken sich noch mehr … Aus dem
 schmalen Sehschlitz dringt ein vernichtender Blick hervor …
 
-dann beugt er sich etwas vor:
+Dann beugt er sich etwas vor:
 
 »Mr. Harst, Sie hatten die Chinesen bereits in Ihrer
 Gewalt, als Sie zum ersten Male vor mir standen … Sie
@@ -2154,7 +2154,7 @@ Fraglos alles blind ergebene Kreaturen des Radscha, vor
 denen er sich nicht zu scheuen brauchte, zwei von den verhaßten
 Europäern wie Verbrecher zu behandeln …
 
-Im Nu hatte man uns die Hände auf dem Rüden gefesselt
+Im Nu hatte man uns die Hände auf dem Rücken gefesselt
 …
 
 <@pagebreak/>
@@ -2208,7 +2208,7 @@ mich hindern könnte, Sie beide zu töten, wie Sie es verdienen
 <@pagebreak/>
 Harst schaute den Fürsten gelassen an.
 
-»und weshalb töten Sie uns nicht?! Vielleicht deshalb,
+»Und weshalb töten Sie uns nicht?! Vielleicht deshalb,
 weil Sie doch fürchten, die indische Regierung könnte
 weder Ihnen noch Ihren Leuten Glauben schenken, was den
 … Unfall betrifft …! Vielleicht deshalb, weil der Kutter
@@ -2217,7 +2217,7 @@ Reden wir offen miteinander, Hoheit … Sie brauchen
 unsere Hilfe … zu irgend etwas … Sie werden von uns
 das Versprechen fordern, daß wir diese Gewalttätigkeit hier
 verschweigen … Sie werden uns belohnen wollen, wenn
-wir gefügig sind. aber — Sie hätten mehr Diplomat sein
+wir gefügig sind. Aber — Sie hätten mehr Diplomat sein
 sollen, Hoheit …! Diese Art von Behandlung ist falsch gewählt
 … Es ist klägliches Theater, nichts weiter … —
 Was wünschen Sie von uns?« …
@@ -2250,7 +2250,7 @@ Die Augen mit dem matten Glanz auf die beiden Tiger
 gerichtet …
 
 Nahm den Dienern die Bestien ab, führte die Tiger
-schweigend hinaus, zwischen ihnen Schreitend — lächelnd …
+schweigend hinaus, zwischen ihnen schreitend — lächelnd …
 lächelnd …
 
 <@pagebreak/>
@@ -2326,7 +2326,7 @@ ließ auch in London Nachforschungen anstellen. Er
 war sehr vorsichtig. Aber in London ermittelten meine Beauftragten,
 daß Wardner noch vor vier Jahren der …«
 
-»… politischen Polizei angehört hatte,« ergänzte Harst,
+»… politischen Polizei angehört hatte,« ergänzte Harst.
 
 »Ja — sogar in hervorragender Stellung. Dann war
 er angeblich entlassen worden. Seine Schriften sind, wie
@@ -2343,7 +2343,7 @@ soll … Dieserhalb schlich Wardner sich hier bei mir
 ein. Er hatte sich mit ein paar Chinesen in Madras verbündet
 was Ihnen wohl bekannt sein dürfte …«
 
-»allerdings, Hoheit … Und diese Chinesen, an der
+»Allerdings, Hoheit … Und diese Chinesen, an der
 Spitze der Teestubenwirt Wapeisu, haben Wardner hintergehen
 wollen …«
 
@@ -2418,10 +2418,10 @@ er wohl einreden, daß der Millionenfonds weggeschafft ist,
 wo doch die Schlüssel zur Schatzkammer fehlten und er
 zugeben mußte, daß Duplikatschlüssel nicht vorhanden!«
 
-Er sprach nur das aus, was auch ich mir schon Überlegt
+Er sprach nur das aus, was auch ich mir schon überlegt
 hatte …
 
-Mich Interessierte im übrigen Sir Wardners Schicksal
+Mich interessierte im übrigen Sir Wardners Schicksal
 viel mehr als diese Millionen …
 
 Harst reichte mir Feuer … Und nach zwei Zügen fuhr
@@ -2460,7 +2460,7 @@ sollen, mein Alter … So lange ich mir über diesen Krüppel
 nicht völlig klar geworden bin, was bisher nicht der
 Fall ist, kann jeden Augenblick der unsichtbare »wandelnde«
 Tumir eben uns sein und lauschen. Ich betone: Vorläufig
-muß Ich hier, was den Krüppel betrifft, mit Vorgängen
+muß ich hier, was den Krüppel betrifft, mit Vorgängen
 rechnen, die außerhalb der Grenzen unseres geistigen
 Fassungsvermögens liegen … Wir haben, was ihn betrifft,
 so Erstaunliches erlebt, daß wir nicht ohne Weiteres diese
@@ -2497,7 +2497,7 @@ ziehen,« sagte Harald bedächtig. »Es steht fest: Er ist hierher
 gekommen in einer bestimmten Mission, er ist Beamter,
 politischer Detektiv. Das Treiben des Radschas hier die
 ganze Unabhängigkeitsbewegung und dieser Geheimfonds
-Hat in London Beunruhigung hervorgerufen. Man wollte
+hat in London Beunruhigung hervorgerufen. Man wollte
 dieses Wespennest hier ausheben, zerstören, und man ging
 dabei großzügig zu Werke, ließ sich Zeit. Wardner schrieb
 seine halb antienglischen Broschüren, der Radscha fiel darauf
@@ -2561,7 +2561,7 @@ dort nieder …« — —
 <@pagebreak/>
 So geschah’s …
 
-um neun Uhr erschien ein Palastbeamter und Überbrachte
+Um neun Uhr erschien ein Palastbeamter und überbrachte
 uns die Einladung des Fürsten zur Abendtafel.
 
 Es war alles so, wie Harald es vorausgesehen hatte …
@@ -2587,7 +2587,7 @@ Hauswand lag im Schatten … Im Palasthofe keine Seele.
 Fünfzig Schritt von uns das Raubtierhaus … Zwischen
 den Käfigstäben hervor das gelbgrüne Schillern der Augenpaare
 der ruhelosen Bestien … — Eng angeschmiegt an den
-Stamm Wir beide … Lauschend, spähend … hoffend …
+Stamm wir beide … Lauschend, spähend … hoffend …
 
 Bis … in dem einen Käfig ein rötlicher Lichtschein aufflammt
 und die künstliche Felsgruppe im Hintergrund beleuchtet
@@ -2722,7 +2722,7 @@ Mir … mir wird immer seltsamer zumute …
 
 Eine unnatürliche Müdigkeit befällt mich …
 
-dann — aus dem Zelte hinter uns Tumirs Stimme …
+Dann — aus dem Zelte hinter uns Tumirs Stimme …
 
 Schwerfällig nur drehe ich mich um …
 
@@ -2732,13 +2732,13 @@ Höre die weiche, melodische Stimme Tumirs — —
 wie aus endloser Ferne kommend:
 
 »Meine Herren, Sie haben nur geträumt … natürlich
-Nur geträumt …«
+nur geträumt …«
 
 Und mit einem Male packt mich ein Schwindel …
 
 Ich taumele …
 
-und — — erwache In meinem Bett oben im Schlafzimmer
+Und — — erwache in meinem Bett oben im Schlafzimmer
 des Palastes … Durch die Fenster Sonnenschein …
 Tag ist’s …
 
@@ -2790,7 +2790,7 @@ geworden sein, was da will: Suchen Sie nicht nach ihm!
 — Um zwölf Uhr werden zwei Rikschas bereitstehen, die
 Sie zur Ankerstelle des Kutters zurückbringen werden …«
 
-Und Nachher, als Wir uns verabschieden, überreicht er
+Und nachher, als wir uns verabschieden, überreicht er
 jedem von uns eine goldene, handlange Tigerstatue — mit
 Smaragden als Augen … Dazu noch Harst einen Scheck.
 … Den Scheck lehnt Harald ab …
@@ -2867,7 +2867,7 @@ Paratu … Flüstert aber:
 
 »Habe da Gäste, die mir gar nicht behagen …«
 
-dann stehen wir Sir Lionel Wardner gegenüber …
+Dann stehen wir Sir Lionel Wardner gegenüber …
 Lernen die übrigen kennen … Und — — merkwürdig:
 Diese Herren einschließlich Wardners sind außerordentlich
 zurückhaltend … Verabschieden sich auch sehr bald …
@@ -2898,7 +2898,7 @@ Ich blickte ihn erstaunt an … — —
 
 Am andern Morgen waren wir wieder in Madras …
 Und abends stand’s in alten Zeitungen, daß die politische
-Polizei in der vergangenen Wacht den Palast des Radscha
+Polizei in der vergangenen Nacht den Palast des Radscha
 von Dauli völlig durchsucht habe, um den Geheimfonds zu
 beschlagnahmen, daß man jedoch nichts gefunden habe …
 Die Beamten seien von Sir Wardner befehligt worden,
