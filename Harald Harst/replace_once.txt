@@ -16,9 +16,15 @@ Nr,	Nr.
 \bFusel\b	Insel
 \bHart\b	Harst
 \bLust\b	Luft
+\bLust\b	Luft
+\bMir\b	Wir
 \bMir\b	Wir
 \bMr,	Mr.
+\bMr,	Mr.
 \bMr\s	Mr. 
+\bMr\s	Mr. 
+\bMrs,	Mrs.
+\bMrs\s	Mrs. 
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bSähe\b	Sätze
@@ -28,6 +34,7 @@ Nr,	Nr.
 \b[bdh]in\s[nu][nu]d\s[bdh]er\b	hin und her
 \bau!	auf
 \bden!	dem
+\bdürsten\b	dürften
 \ber ich\b	er sich
 \bfegte	setzte
 \bfein	sein
@@ -38,12 +45,6 @@ Nr,	Nr.
 \bis!\b	ist
 \blebten	letzten
 \blett\b	jetzt
-\bLust\b	Luft
-\bMir\b	Wir
-\bMr,	Mr.
-\bMr\s	Mr. 
-\bMrs,	Mrs.
-\bMrs\s	Mrs. 
 \bnich!\b	nicht
 \bnicke\b	nickte
 \bober\b	oder
