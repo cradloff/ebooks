@@ -47,7 +47,7 @@ Ich raffte mich auf … »Welche Frau?!«
 uns am Bollwerk festgemacht, mein Alter,« erklärte Harald
 bereitwillig. »Ein schmuckes Schifflein, das einer blonden
 Europäerin zu gehören scheint. Und diese Frau beobachtet
-Jetzt durch das Oberlichtfenster der Achterkajüte unsere »Lady
+jetzt durch das Oberlichtfenster der Achterkajüte unsere »Lady
 Hamilton« mit einer Ausdauer, die auf einen baldigen Besuch
 rechnen läßt. Die Blonde hat ein Anliegen, glaube
 ich. — Die Jacht heißt »Medusa«, ein Allerweltsname,
@@ -134,7 +134,7 @@ O’Kelling klatschte in die Hände — Handschuhnummer
 14 —, was wie Böllerschüsse klang … Auf dies Signal hin
 erschien vom Vorschiff einer der vier malaiischen Matrosen,
 der treue geschwätzige Paratu, dem Leser gleichfalls kein
-Fremder,
+Fremder.
 
 »Das Abendessen, Paratu!« befahl der Käpten kurz …
 
@@ -159,9 +159,9 @@ Buddhisten, denn auch er war Bekenner Buddhas …
 Aber Harald schien dem Frieden nicht recht zu trauen
 und fragte weiter: »Du hast dich also mit einem der Inder
 unterhalten … Hat er sich nicht erkundigt, wem der Kutter
-hier gehört und ob Der Käpten nicht Gäste hat?«
+hier gehört und ob der Käpten nicht Gäste hat?«
 
-»Gewiß, Tuwan Harst, — Wie man so aus Langerweile
+»Gewiß, Tuwan Harst, — wie man so aus Langerweile
 miteinander spricht …«
 
 »Hm — und wie ich dich kenne, hast du natürlich unsere
@@ -197,7 +197,7 @@ Harst lachte heiter … »Also dann vorwärts, Paratu!
 Du — hörst ja: Deine Mitteilungen über unsere Nachbarn
 stoßen hier auf vollkommene Gleichgültigkeit …!«
 
-als wir am Tische Platz nahmen, fegte ein recht kräftiger
+Als wir am Tische Platz nahmen, fegte ein recht kräftiger
 Nordost über den Hafen hin, wirbelte den Staub an den
 Kais empor und hüllte zuweilen die nahe Häuserreihe der
 Hafengegend in grauschwarze Wolken …
@@ -242,14 +242,14 @@ ist nun plötzlich aus Dauli verschwunden, da Sir Wardner
 ihn gleichfalls über den Verbleib des Millionenfonds vernehmen
 wollte.«
 
-»O’Kelling, der weit über die Hälfte seines Lebens in
+O’Kelling, der weit über die Hälfte seines Lebens in
 Indien zugebracht und uns bereits manch seltsames Erlebnis
 erzählt hatte, lachte ironisch … »Vielleicht wird jetzt
 noch ein Steckbrief hinter Tumir erlassen!! Das fehlte noch!
 Diesen Menschen wird man niemals erwischen … Ich kenne
 das …«
 
-Harald legte die Zeitung Wieder beiseite und unser Gespräch
+Harald legte die Zeitung wieder beiseite und unser Gespräch
 glitt in eine andere Bahn. Paratu räumte den Tisch
 ab … Wir genossen die Abendkühle, sahen das Tageslicht
 schwinden, sahen das Abendrot die Dächer und Fenster in
@@ -316,7 +316,7 @@ abgeklärten Töchter Oldenglands fließt …
 <h2>2. Kapitel.</h2>
 <h3>Was Miß Grandell erzählte …</h3>
 
-so saßen wir denn nun zu fünf um den Tisch herum
+So saßen wir denn nun zu fünf um den Tisch herum
 …
 
 Miß Betsy Grandell hatte zwischen Harald und mir
@@ -428,12 +428,12 @@ daß wir blieben — nur ich! John trägt daran keine
 Schuld …«
 
 »Weiß Gott nicht!« nickte ihr Bruder traurig. »Betsy
-Hat einen Eisenkopf … Sie behauptete, daß man ihr auch
+hat einen Eisenkopf … Sie behauptete, daß man ihr auch
 anderswo die Riesenschlange … schicken würde, um sie durch
 das Reptil töten zu lassen … — Mr. Harst jetzt, wo die
 Dinge so weit gediehen sind, jetzt bitte ich Sie: Kommen
 Sie zu uns! Überzeugen Sie sich, ob es möglich ist, daß
-Jemand Betsy nach dem Leben trachtet! Wer wohl —
+jemand Betsy nach dem Leben trachtet! Wer wohl —
 wer?! Wir haben hier keine Feinde. Unsere Diener sind
 <@pagebreak/>
 treu … Wir haben niemanden hier auch nur gekränkt …
@@ -457,7 +457,7 @@ Miß Grandell?«
 dem Schlafengehen stets sehr sorgfältig … Und doch —
 nachher war es offen …«
 
-»und die Riesenschlange flüchtete, wenn Sie erwachten?«
+»Und die Riesenschlange flüchtete, wenn Sie erwachten?«
 
 »Ja … Weil ich regelmäßig vor Entsetzen zu schreien
 begann … Zweimal war das Untier schon dicht an meinem
@@ -698,7 +698,7 @@ indem wir auf das andere Ufer zuhielten, so daß wir sehr
 bald mit Betsy uns in einer Höhe befanden … Unmöglich
 war’s, daß sie in uns Verfolger argwöhnen konnte. Dazu
 war der Strom viel zu belebt, der auch hier noch als Hafen
-galt,
+galt.
 
 Nach etwa zehn Minuten tauchte links am Ufer die
 <@pagebreak/>
@@ -754,7 +754,7 @@ grüne Wildnis und durch das ehemalige, kaum noch erkennbare
 Festungstor auf einen freien Platz führte, wo das Gestrüpp
 ausgerottet und aus Röhrichtwänden eine mittelgroße,
 viereckige Hütte errichtet war, wie sie hier die Flußfischer
-zu vorübergehender Benutzung herzustellen pflegen,
+zu vorübergehender Benutzung herzustellen pflegen.
 
 Aus dem luftigen Innern des leichten Bauwerks drangen
 Stimmen hervor … Und es bereitete uns weiter keine
@@ -771,7 +771,7 @@ prächtigem blauschwarzen Haar!
 Eine Inderin, deren Gesichtszüge, eigentümliche Augen
 und melodische Sprache mich sofort an den geheimnisvollen
 Krüppel in Dauli, an Riwuri Tumir, den arm- und beinlosen,
-erinnerten,
+erinnerten.
 
 Und diese Ähnlichkeit war bei näherem Hinsehen
 derart verblüffend, daß ich unwillkürlich Harsts Arm drückte
@@ -810,7 +810,7 @@ noch seltsamerem matten, bleifarbenen Glanz …
 
 Es waren des Krüppels Augen, es war auch seine
 Stimme, es war sein junges, schönes Antlitz, Zug um
-Zug …«
+Zug …
 
 Dann … erzählte Betsy … alles, was sich in Madras
 an Bord des Kutters zugetragen, was wir gesprochen und
@@ -954,12 +954,12 @@ Zwei Chinesen, ein älterer, ein junger … Bekannte
 Gesichter: Tschamo und Lipatu, Vater und Sohn, — unsere
 Gefangenen einst, uns entflohen von O’Kellings Kutter
 mit Hilfe jenes Sir Wardner, der am Hofe des Radscha
-von Dauli eine so eigentümliche Rolle gespielt hatte,
+von Dauli eine so eigentümliche Rolle gespielt hatte.
 
 Tschamo und Lipatu jetzt hier in Negapatam, hier auf
 der Insel sogar?! Was bedeutete das nun wieder?
 
-Zu langem Nachdenken Hatte ich keine Zeit …
+Zu langem Nachdenken hatte ich keine Zeit …
 
 Hatte genug zu beobachten …
 
@@ -981,7 +981,7 @@ sich zusammengetan haben?! Denn für mich blieb Ruwi
 des Krüppels Schwester, obwohl Harald dazu nur sehr skeptisch
 gelächelt hatte …!
 
-»folgen wir den beiden!« munterte ich Harald flüsternd
+»Folgen wir den beiden!« munterte ich Harald flüsternd
 auf …
 
 <@pagebreak/>
@@ -1079,7 +1079,7 @@ einem Ausgang nichts zu sehen …
 
 Wir kam’s so vor, als ob Harald unser Mißgeschick, das
 uns hier in dieses feuchte, stinkende Gewölbe hinabbefördert
-Hatte, denn doch sehr leicht nahm … Oder heuchelte er nur
+hatte, denn doch sehr leicht nahm … Oder heuchelte er nur
 eine Gelassenheit, die in Wahrheit gar nicht bei ihm vorhanden?!
 <@pagebreak/>
 Wollte er mich nicht unnötig beunruhigen?! —
@@ -1167,7 +1167,7 @@ nun das Geld auf und warf es in eine Mauerritze.
 Dann kletterten wir die Leiter empor und erreichten
 in kurzem die Landungsstelle, bestiegen unser Boot und
 ruderten davon, — fest überzeugt, daß die Chinesen uns
-beobachten würden
+beobachten würden.
 
 Das Mondlicht zog leuchtende Streifen über den nächtlichen
 <@pagebreak/>
@@ -1264,7 +1264,7 @@ nun eine Reihe seltsam weicher Töne …
 
 Die Boa regte sich …
 
-Der Kopf schoß empor — Immer höher … Der halbe
+Der Kopf schoß empor — immer höher … Der halbe
 Leib folgte, — bis das Reptil fast das Dach der Hütte berührte
 …
 
@@ -1308,7 +1308,7 @@ dem Boden hockten und unser jagender Herzschlag sich wieder
 beruhigte, — — da begriffen wir so recht, was eigentlich
 geschehen …
 
-schauten in Tumirs lächelndes Antlitz … Sahen wieder
+Schauten in Tumirs lächelndes Antlitz … Sahen wieder
 dieses Rätsellächeln wie damals neben dem Raubtierhause
 in Dauli …
 
@@ -1332,7 +1332,7 @@ Harald erhob sich langsam aus seiner sitzenden Stellung
 Seite zu werfen, wo die Boa sich wieder zusammengerollt
 hatte …
 
-und Harald erwiderte: »Ich pflege keiner Unglücklichen
+Und Harald erwiderte: »Ich pflege keiner Unglücklichen
 meine Hilfe zu versagen, Riwuri Tumir … Und das
 freventliche Spiel, das hier mit Betsy Grandell getrieben
 wird, konnte ich nicht länger dulden …! — Tumir, — —
@@ -1387,11 +1387,11 @@ Und — verstummte …
 
 Harald war nicht der Mann, dem diese versteckte Änderung
 im Wesen des Krüppels hätte entgehen können. Er
-hatte einen Schritt nach rückwärts getan, hatte Gleichzeitig
+hatte einen Schritt nach rückwärts getan, hatte gleichzeitig
 seine Clement gezogen und den Sicherungsflügel mit dem
 Daumen herumgedrückt.
 
-»Das gab einen kleinen, metallischen Knack, einen warnenden
+Das gab einen kleinen, metallischen Knack, einen warnenden
 Ton.
 
 Seine Blicke beobachteten die beiden Gegner gleichzeitig,
@@ -1447,7 +1447,7 @@ stellte sich neben mich …
 
 Mein Daumen fand den Knopf … Ich drückte …
 
-drückte stärker …
+Drückte stärker …
 
 Und — — jählings wich da der Steinplattenboden
 unter meinen Füßen … Ich sah noch zwei schattenhafte
@@ -1481,12 +1481,12 @@ grauenvolle Loch hinabbefördert hatte …
 <h2>1. Kapitel.</h2>
 <h3>In anderem Kostüm.</h3>
 
-in diesem Schacht eine Moderluft, die sich wie ein
+In diesem Schacht eine Moderluft, die sich wie ein
 Bleipanzer auf die Brust legte … Kaum atmen konnte
 man.
 
 Und unter unseren Füßen — ein schwacher Trost! —
-fester Boden. Ich fühlte: Auch das waren Steine, und Über
+fester Boden. Ich fühlte: Auch das waren Steine, und über
 ihnen das schlammige, zähe Wasser etwa meterhoch …
 
 Ein Trost … Waren wir doch der Angst überhoben,
@@ -1544,7 +1544,7 @@ Falltür, die längst wieder hochgeklappt war, nicht ein Lichtschein
 sich zeigte …
 
 Ich übertrieb die Komödie nicht. Kein Zuviel, kein
-Zu wenig … Die Bande sollte genarrt werden und nicht
+Zuwenig … Die Bande sollte genarrt werden und nicht
 etwa merken, daß wir trotz Schlamm und Gestank festen
 Boden unter den Füßen hatten …
 
@@ -1556,7 +1556,7 @@ Hauch:
 Hand her … Folge mir … — Nun bücke dich, hole noch
 einmal tief Atem … Der Kanal, der zum Flusse läuft, ist
 eng und etwa vier Meter lang … Sein Eingang liegt dicht
-unter der Oberfläche des Wassers hier …
+unter der Oberfläche des Wassers hier …«
 
 Ich bückte mich …
 
@@ -1638,11 +1638,11 @@ Wozu sollte unser Käpten eine Wache aufstellen?! Der
 Kutter hatte nur Ballast im Raum …
 
 Wir erwischten die Ankerkette am Heck … Unser Kahn
-trieb Weiter … Kein großer Verlust für die Sampanleute
+trieb weiter … Kein großer Verlust für die Sampanleute
 …
 
 Harst zuerst an Bord … Achtete, daß die Belastung
-der Kette den Kutter nicht zu Lebhaft bewegte …
+der Kette den Kutter nicht zu lebhaft bewegte …
 
 Dann ich, — und hinein in die Heckkajüte, wo Freund
 O’Kelling auf seinem Lager schnarchte.
@@ -1691,7 +1691,7 @@ ankerte der Sampan …
 
 Hier am Flußufer im Gebüsch sogar zwei leere, halb
 verfallene Rohrhütten … Wir hatten Auswahl, bezogen
-die höher gelegene, von der aus man den Strom Überschauen
+die höher gelegene, von der aus man den Strom überschauen
 konnte … auch rechts die Insel, links den Sampan.
 
 Die ersten Sonnenstrahlen drangen aus dem dunstigen
@@ -1753,7 +1753,7 @@ Ohne Übergang fügte er hinzu:
 »Auf dem Chinesen-Sampan wird es lebendig …
 Tschamos Fuchsgesicht lauert hinter der Reling mit einem
 Fernglas und beäugt die Insel. — Wenn du satt bist, lege
-dich schlafen. »Ich wecke dich um zehn Uhr. Dann kannst du
+dich schlafen. Ich wecke dich um zehn Uhr. Dann kannst du
 mich ablösen.«
 
 <h2>9. Kapitel.</h2>
@@ -1911,7 +1911,7 @@ in Betsys Zimmer nimmt … Ich möchte einen freventlichen
 Plan, der nur dem Hirn eines Asiaten entsprungen
 sein kann, bis zum Schein des Gelingens ausreifen lassen …
 Möchte Tumir beweisen, daß seine Intelligenz denn doch
-Um einige Grade geringer ist, als die unsrige … Wir werden
+um einige Grade geringer ist, als die unsrige … Wir werden
 also zunächst mit Doktor John Grandell uns ins Einvernehmen
 setzen, dem ich ohnedies viel abzubitten habe, da
 ich auch einen ganz schwachen Argwohn gegen ihn selbst
@@ -1982,7 +1982,7 @@ Grandell ist verschwunden …«
 
 Bis zu dem verkrauteten Wasserarm zwischen Insel und
 Ufer waren’s keine hundert Meter. Gebüsch gab es hier
-Überall genug, so daß wir unbemerkt an Ort und Stelle gelangten.
+überall genug, so daß wir unbemerkt an Ort und Stelle gelangten.
 Hohe Grasbüschel boten uns ein gutes Versteck.
 Wir lagen dicht am Wasser, und durch die Rohrstengel konnten
 wir ungefähr den Platz erkennen, wo man die Insel
@@ -2008,7 +2008,7 @@ Ein Signal für mich … Signal, ihm zu folgen …
 Kaum acht Meter weiter lag er im Gestrüpp … Das
 Ufer fiel hier ziemlich steil ab, und ein einzelner knorriger
 Baum hatte mitten auf dem Abhang sich dem Wasser zugeneigt
-und seine Krone in die wehenden Rohrstengel gedrückt
+und seine Krone in die wehenden Rohrstengel gedrückt.
 
 »Sieh dir mal den Baum an …« raunte Harst mir zu.
 <@pagebreak/>
@@ -2028,7 +2028,7 @@ Denn — — John Grandell kam …
 Kam, als ob er die Fähigkeit besäße, im Wasser nicht
 zu versinken …
 
-Kam — — den unsichtbaren Lauteres entlang, tief gebückt,
+Kam — — den unsichtbaren Laufsteg entlang, tief gebückt,
 nur bis zu den Waden im Wasser …
 
 Kam, schwang sich auf den schrägen Baum, erreichte
@@ -2075,7 +2075,7 @@ der Aufforderung Folge leisten würde …!
 
 Wo war er?!
 
-Und selbst aus Harsts Augen sprach eine Lebhafte Besorgnis
+Und selbst aus Harsts Augen sprach eine lebhafte Besorgnis
 …
 
 »Wollen doch mal in die andere Hütte hineinschauen,«
@@ -2094,6 +2094,8 @@ John Grandell auf dem Rücken …
 
 Die Augen unnatürlich weit aufgerissen … Die Brille
 verrutscht, der breitkrempige Strohhut tief ins Genick gerutscht
+…
+
 Und in den Augen einen Ausdruck namenlosen Entsetzens
 …
 
@@ -2262,7 +2264,7 @@ unbezähmbare Wunsch, recht reich zu sein?«
 Grandell blickte Harst verblüfft an …
 
 »Woher diese Kenntnis von Betsys Charakterfehlern,
-Mr. »Harst?« fragte er rasch. »Wie ist es möglich, daß
+Mr. Harst?« fragte er rasch. »Wie ist es möglich, daß
 Sie …«
 
 »Darüber später, Doktor … Ich will Ihnen vorläufig
@@ -2311,16 +2313,16 @@ und Sie für immer verlassen — — eben spurlos verschwinden
 …, spurlos für Sie, den Bruder, und die Behörden,
 die dann nach ihr gesucht hätten …«
 
-als Harald diese Sätze ausgesprochen hatte, begann ich
+Als Harald diese Sätze ausgesprochen hatte, begann ich
 den Zusammenhang zu überschauen …
 
 Und etwas voreilig rief ich nun:
 
-»also … Mädchenhändler, Mädchenräuber! Miß
+»Also … Mädchenhändler, Mädchenräuber! Miß
 Betsy sollte dem Harem irgendeines eingeborenen Fürsten
 zugeführt werden!«
 
-doch Harst schüttelte den Kopf …
+Doch Harst schüttelte den Kopf …
 
 »Nein, Doktor, mein Freund Schraut schießt weit über
 das Ziel hinaus … Keine Rede von Mädchenhändlern …«
@@ -2413,7 +2415,7 @@ Inderin auch nicht im entferntesten auf den Gedanken kommen
 kann, Schraut und Harst seien von den Toten auferstanden!
 — Wir müssen uns nun wieder einen Nachen besorgen
 — nicht borgen …!! Diesmal wollen wir niemand
-schädigen, sondern ehrlich bezahlen … Da Weiter stromaufwärts
+schädigen, sondern ehrlich bezahlen … Da weiter stromaufwärts
 wohnt ein Fischer auf der Spitze der kleinen
 Halbinsel … Der Mann wird froh sein, wenn er für einen
 seiner schlechtesten Kähne eine Hand voll Rupien erhält …
@@ -2447,7 +2449,7 @@ Absatz unfehlbar ein Leck verursacht hätte.
 
 Und in diesem jämmerlichen Ding ruderten wir nun in
 den Fluß hinaus. Der Fischer schaute uns lange nach. Wir
-waren ihm doch wohl so etwas merkwürdig vorgekommen,
+waren ihm doch wohl so etwas merkwürdig vorgekommen.
 
 Quer über den Strom ruderten wir, dann wieder zurück,
 bis wir den Sampan der Chinesen vor uns hatten …
@@ -2474,13 +2476,13 @@ Daß dieser Anprall kein Zufall, dafür hatte Harst gesorgt
 … Und daß die Liebenswürdigkeiten des Chinesen,
 der uns dergestalt eine erlesene Auswahl von Schmeicheleien
 zukommen ließ, nicht unbeantwortet blieben, war
-Gleichfalls Haralds Sache …
+gleichfalls Haralds Sache …
 
 <@pagebreak/>
 Und — er war in Kraftausdrücken im allerschönsten
 asiatischen Hafendialekt, der ebenso international ist, wie
 etwa die grauen Läusekriechtierchen, dem Gelbeikerl entschieden
-Überlegen …
+überlegen …
 
 »… Du Sohn einer krepierten räudigen Hündin solltest
 besser dein Maul halten …« brüllte er unter anderem nach
@@ -2514,7 +2516,7 @@ Aha — Angst hatte er, Angst …!!
 
 Harsts Andeutungen waren nicht spurlos an ihm vorübergegangen,
 und nun wollte er hören, was wir von ihm
-Und den Seinen Verfängliches wissen mochten …
+und den Seinen Verfängliches wissen mochten …
 
 Harald raunte mir zu:
 
@@ -2547,7 +2549,7 @@ Lipatu schnellte natürlich hoch …
 
 Nicht fix genug …
 
-Harst war schon Über ihm, drückte ihm die Kehle zu
+Harst war schon über ihm, drückte ihm die Kehle zu
 und hielt ihm seine Pistole vor die Stirn …
 
 »Lieg’ still …!« befahl er …
@@ -2567,8 +2569,8 @@ der Polizei in Madras … Wir haben euren
 Sampan beobachtet. Ihr habt hier eine Inderin an Bord.
 Es ist die Schwester des Krüppels Tumir, den wir
 suchen. Tumir wird steckbrieflich verfolgt, wie Ihr wissen
-Dürftet. Gebt uns das Mädchen heraus, und wenn ihr sonst
-Noch etwas hinzu legt, vergessen wir alles übrige …«
+dürftet. Gebt uns das Mädchen heraus, und wenn ihr sonst
+noch etwas hinzu legt, vergessen wir alles übrige …«
 
 Das war kurz und bündig. — Das war die sanfte Aufforderung,
 Ruwis Gefangennahme und Einkerkerung durch
@@ -2607,7 +2609,7 @@ hinzu: »Wieviel also?«
 
 »Fünfhundert Rupien …«
 
-Das war Überaus bescheiden … Und Tschamo biß
+Das war überaus bescheiden … Und Tschamo biß
 denn auch sofort an … —
 
 Ihr kann wohl sagen, daß ich mir Ruwis Befreiung
@@ -2629,7 +2631,7 @@ Dann — die zweite Komödie, genau so glänzend gespielt
 
 »Wer bist du?« fragte er am Rande der Uferbüsche vor
 Ruwi stehend … »Wir haben die Chinesen betrogen …
-Wir sahen, daß sie dich nachts auf den Sampan schafften …
+Wir sahen, daß sie dich nachts auf den Sampan schafften …«
 Und er grinste wohlgefällig … »Wir sind gar keine 
 Polizisten … Die Chinesen sind dumm … — Was gibst du
 uns dafür, daß wir dich befreiten?«
@@ -2713,7 +2715,7 @@ Schlafzimmer ein Versteck finden?«
 nach Grandells Zimmer … Betsy dürfte um zehn bereits
 eingeschlummert sein …«
 
-»und — das Loch in der Zimmerdecke?«
+»Und — das Loch in der Zimmerdecke?«
 
 »O — danach brauchen wir nicht mehr zu suchen …
 Das hat Grandell schon gestern gefunden …«
@@ -2728,7 +2730,7 @@ Laskas Füßen … Denn Laska hat selbst für einen Inder
 geradezu ungeheuerliche Pedale. Mithin hat Laska mit
 dem Haken das Fenster geöffnet …«
 
-Harald war mit dem Frühstück fertig … Und wie Herrlich
+Harald war mit dem Frühstück fertig … Und wie herrlich
 war dieses Frühstück hier inmitten Gottes Freier Natur
 … — vor unserer Sommervilla!
 
@@ -2736,7 +2738,7 @@ Wie herrlich der Gedanke, daß jetzt mindestens noch acht
 Stunden vor uns lagen, in denen wir nichts, gar nichts zu
 tun hatten, in denen wir uns lediglich geistig und körperlich
 auf den Abend vorzubereiten brauchten … durch
-Faulenzen …!
+faulenzen …!
 
 Und das taten wir denn auch nach Kräften … Selbst
 Harald hielt dieses süße Nichtstun bis gegen drei Uhr nachmittags
@@ -2783,7 +2785,7 @@ Sportanzügen, standen hinter den Türvorhängen in Miß
 Betsys Schlafzimmer, — ganz, wie alles mit Doktor Grandell
 vereinbart worden war.
 
-halb zwölf nachts also …
+Halb zwölf nachts also …
 
 Auf dem Nachttischchen zu Häupten des Bettes brannte
 die kleine, durch einen gelben Schirm bedeckte Lampe …
@@ -2805,7 +2807,7 @@ Abermals vom Fenster her ein Geräusch …
 Der eine Flügel gleitet nach innen, schiebt den Vorhang
 mit …
 
-Und Über das nun zum Teil sichtbare Fensterbrett gleitet
+Und über das nun zum Teil sichtbare Fensterbrett gleitet
 <@pagebreak/>
 das Ungetüm, das wir bereits kennen, die Boa, Tumirs
 zahme Riesenschlange …
@@ -2872,7 +2874,7 @@ Hals geringelt, hat Tumir, der jetzt wieder »der Wandelnde«
 mit Armen und Beinen ist, emporgehoben — — lebende
 Schlinge …
 
-Ist es Wirklich Tumir, der dort oben so verzweifelt sich
+Ist es wirklich Tumir, der dort oben so verzweifelt sich
 zu befreien sucht, dessen Bewegungen schwächer und schwächer
 werden?!
 
@@ -2902,7 +2904,7 @@ steht zitternd am Fenster …
 
 Zwei Beamte tragen Tumir die Verandatreppe empor
 … Das Gesicht des Krüppels ist unheimlich verzerrt …
-Stier Blickt er auf die reglose Gestalt seines Ebenbildes
+Stier blickt er auf die reglose Gestalt seines Ebenbildes
 dort am Boden …
 
 Sagt dann mit unheimlicher Ruhe:
