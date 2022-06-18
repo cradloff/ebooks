@@ -9,9 +9,9 @@ Bevor ich mit der Schilderung unserer Erlebnisse in und
 um Dauli fortfahre, muß ich im Gegensatz zu vielen namhaften
 Reiseschriftstellern hier nochmals betonen, daß die
 Auffassung, als ob das Riesenreich Indien dem Europäer
-an übernatürlichen Dingen nichts mehr zu tun habe,
+an übernatürlichen Dingen nichts mehr zu bieten habe,
 völlig irrig ist. Ich berufe mich dabei, um nicht in den
-Verdacht phantastischen Übertreibungen zu geraten, auf
+Verdacht phantastischer Übertreibungen zu geraten, auf
 das Buch eines genauen Kenners der indischen Verhältnisse,
 des Generals Sir Campbell, der die Hälfte seines Lebens
 inmitten dieser farbigen Völker Vorderindiens zugebracht
@@ -171,7 +171,7 @@ zärtlich die Wange des gliederlosen Inders leckte.
 
 Noch mehr geschah …
 
-Etwas, das mir den kalten Schweiß aus die Stirn
+Etwas, das mir den kalten Schweiß auf die Stirn
 trieb …
 
 Der Krüppel beugte sich vor, fiel halb in die Türöffnung
@@ -230,7 +230,7 @@ An der Mauer machten wir halt.
 Harald fragte, wie die beiden über die Mauer gekommen
 seien. — Der Inder deutete auf einen knorrigen,
 halb abgestorbenen Baum, der sich oben an die Mauer
-lehnte, — erklärte: »Diesen Baum benutzen sie als Leiter,
+lehnte, — erklärte: »Diesen Baum benutzten sie als Leiter,
 Sahib …«
 
 Harst schwang sich an dem Baume empor, saß nun oben
@@ -286,7 +286,7 @@ Ich spähte ringsum … Die Bäume und Büsche standen
 hier sehr dicht … niemand war in der Nähe …
 
 Dann sprang Harald auch schon von den untersten
-Seiten des halb verdorrten Baumes herab … Einer dieser
+Ästen des halb verdorrten Baumes herab … Einer dieser
 morschen Äste zerbrach mit hellem Splittern und fiel zu
 Boden …
 
@@ -317,7 +317,7 @@ Beine und Füße, ist in den Wald gelaufen …«
 
 Ich erwiderte nur: »Es war der Krüppel! Ein solches
 Gesicht vergißt man nicht …! Ein solches Gesicht mit so
-großen blinkenden Augen und einem so sein geschwungenen
+großen blinkenden Augen und einem so fein geschwungenen
 Munde gibt es nicht zum zweiten Male!«
 
 »Nun — dann ist der Krüppel eben kein Krüppel, —
@@ -661,7 +661,7 @@ Wir sitzen mit stumpfen Gesichtern, stieren vor uns
 hin …
 
 Durch die bunten Scheiben malt die Sonne bunte Kringel
-auf bunte seine Bastteppiche zu unseren Füßen …
+auf bunte feine Bastteppiche zu unseren Füßen …
 
 Harald hält die Mirakulum im Mundwinkel … Die
 Zigarette ist erloschen …
@@ -807,7 +807,7 @@ als er nun wieder zu sprechen begann:
 
 »Mr. Harst, wenn ich es wollte, würden Sie beide
 Opfer eines bedauerlichen Unfalles werden … Unten im
-Schlosses könnten Sie von den Tigern, die durch ein Versehen
+Schloßhof könnten Sie von den Tigern, die durch ein Versehen
 des Wärters den Käfig verlassen haben, zerfleischt
 werden … Wer wollte mir eine Schuld nachweisen?!
 Wer?!«
@@ -849,8 +849,8 @@ sollen, Hoheit …! Diese Art von Behandlung ist falsch gewählt
 … Es ist klägliches Theater, nichts weiter … —
 Was wünschen Sie von uns?« …
 
-Der Greis hatte den Kopf gesenkt … Überlegte wohl.
-… Sein Gesichtsausdruck verriet eine gewisse Hilflosigkeit.
+Der Greis hatte den Kopf gesenkt … Überlegte wohl
+… Sein Gesichtsausdruck verriet eine gewisse Hilflosigkeit
 … Vielleicht kam ihm jetzt selbst zum Bewußtsein, daß er
 sich zu einer Torheit hatte hinreißen lassen …
 
@@ -943,7 +943,7 @@ trifft nicht zu. Mein Privatsekretär muß entweder entflohen
 oder von anderen entführt worden sein. Und Sie beide sollen
 ihn suchen. — Hören Sie mich an … Ich will Ihnen
 nichts mehr verheimlichen … Ich berief Lionel Wardner
-hier nach Dauli, weil ich Kenntnis von seinen Schritten
+hier nach Dauli, weil ich Kenntnis von seinen Schriften
 erhalten hatte, die sämtlich so abgefaßt waren, daß man
 Wardner in seinem Vaterlande deshalb heftig angriff. Er
 trat ganz offen dafür ein, daß England uns Indern die
@@ -1020,7 +1020,7 @@ Nichts geschehen?! Und — die beiden Tiger, die eindringende
 Leibgarde, dann der »wandelnde« Tumir und
 <@pagebreak/>
 schließlich des Fürsten Behauptung, er habe Wardner nicht
-verschwinden lassen …!!! — Nichts geschehen …?! — —
+verschwinden lassen …!! — Nichts geschehen …?! — —
 ich danke!!
 
 Harald wandte sich über die Haupttreppe dem Portal
@@ -1035,7 +1035,7 @@ Gruppe von Kampferbäumen herüber … Rosiger Schatten
 überwölbter Laubgänge nahm uns auf … Und allmählich
 entspannten sich die Nerven wieder …
 
-Harst blieb stehen, schaute mich um …
+Harst blieb stehen, schaute sich um …
 
 »Wie ein wilder Traum war’s, mein Alter …« —
 und zog sein Zigarettenetui, hielt es mir hin … »Eine
@@ -1086,7 +1086,7 @@ der Freund sagte denn auch: »Es ist Tumirs wegen besser,
 sollen, mein Alter … So lange ich mir über diesen Krüppel
 nicht völlig klar geworden bin, was bisher nicht der
 Fall ist, kann jeden Augenblick der unsichtbare »wandelnde«
-Tumir eben uns sein und lauschen. Ich betone: Vorläufig
+Tumir neben uns sein und lauschen. Ich betone: Vorläufig
 muß ich hier, was den Krüppel betrifft, mit Vorgängen
 rechnen, die außerhalb der Grenzen unseres geistigen
 Fassungsvermögens liegen … Wir haben, was ihn betrifft,
@@ -1168,7 +1168,7 @@ Nacht auf Schlaf verzichten und den Ort beobachten,
 an dem ich den Geheimfonds vermute …« Seine Stimme
 sank immer mehr zum Flüstern herab … »Mein Gefühl
 täuscht mich selten … Meine Vorahnungen treffen zumeist
-ein … Es wird sich in dieser Nacht ersah ereignen … Der
+ein … Es wird sich in dieser Nacht etwas ereignen … Der
 Radscha hat jetzt die drei Schlüssel … Vielleicht läßt er
 den Millionenfonds in dieser Nacht wegschaffen …«
 
@@ -1301,7 +1301,7 @@ schwingt nach außen …
 
 Eine Metalltür wird sichtbar — mit drei Schlüssellöchern
 … Tumir benutzt die Schlüssel … Die Tür dreht
-sich nach innen … Die Diener haben Laternen angezündet,
+sich nach innen … Die Diener haben Laternen angezündet
 … Folgen Tumir die Steintreppe hinab … Wir als
 letzte … Zwanzig Stufen … Ein Gewölbe, darin nichts
 als zwölf mittelgroße Säcke aus Büffelhaut …
@@ -1524,7 +1524,7 @@ Tumir hat uns Dinge erleben lassen, die er uns … suggerierte
 Ich blickte ihn erstaunt an … — —
 
 Am andern Morgen waren wir wieder in Madras …
-Und abends stand’s in alten Zeitungen, daß die politische
+Und abends stand’s in allen Zeitungen, daß die politische
 Polizei in der vergangenen Nacht den Palast des Radscha
 von Dauli völlig durchsucht habe, um den Geheimfonds zu
 beschlagnahmen, daß man jedoch nichts gefunden habe …
@@ -1572,4 +1572,4 @@ Nächster Band:
 
 __Miß Grandells letzte Nacht.__
 
-Druck: P. Lehmann G.&nbsp;in.&nbsp;b.&nbsp;H., Berlin.
+Druck: P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.

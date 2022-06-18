@@ -234,7 +234,7 @@ Freiheitsbewegung angeschlossen haben, wollen
 hoffen, daß sein Gesundheitszustand sich recht bald wieder
 bessern möge.«
 
-Raum hatte O’Kelling dies vorgelesen, als Harald, der
+Kaum hatte O’Kelling dies vorgelesen, als Harald, der
 die Madras-Post in Händen hielt, zu uns sagte:
 
 »Hier in dieser Zeitung sind die Vorgänge genau so
@@ -753,7 +753,7 @@ gefesselt, haben ihnen Knebel zwischen die Zähne geschoben
 nahe daran, die Kerle niederzuknallen … Es handelt sich
 um drei Schlüssel, die die Chinesen nicht herausgeben wollen
 — oder besser, sie behaupten, diese drei Schlüssel gar
-nicht gefunden zu habe! Alles konnte ich ja nicht verstehen.
+nicht gefunden zu haben. Alles konnte ich ja nicht verstehen.
 Nur Bruchstücke der erregten Auseinandersetzung … Immerhin
 kann ich mir folgendes zusammenreimen: Diese fünf
 sollten diese Schlüssel aus dem Palast in Dauli stehlen.
@@ -822,7 +822,7 @@ können, oder doch zum mindesten einer von ihnen …«
 
 Und er zog mich abermals zum Fenster hin …
 
-Wie recht er doch gehabt hatte! Der alt-Chinese der
+Wie recht er doch gehabt hatte! Der alte Chinese, der
 <@pagebreak/>
 angebliche Händler mit dem linken Arm in der Schlinge,
 war bereits frei … Stand aufrecht am Tische …
@@ -856,7 +856,7 @@ Tisch, und begann dann den jüngsten der vier gefesselten
 loszubinden … Es dauerte eine geraume Weile, denn er
 konnte nur den rechten Arm benutzen …
 
-Dieser jüngste erhob ein nun …
+Dieser jüngste erhob sich nun …
 
 Die Augen der drei anderen waren weit aufgerissen
 und stierten wie verglast auf das glitzernde Fläschchen …
@@ -955,7 +955,7 @@ Inder, nur das Wort Wapeisu als Zeichen nennen.«
 »Nein, Master … Er traut Wapeisu. Er ahnt nicht,
 daß Wapeisu Tschamos Freund ist …«
 
-»Wen gehört der Karren draußen?«
+»Wem gehört der Karren draußen?«
 
 »Uns dreien, Master …«
 
@@ -1323,7 +1323,7 @@ durch einen Nebeneingang betreten, wo ich Lionel vermutete.
 Was weiter geschah, wissen Sie, Mr. Harst … Sie beide bemächtigten
 sich meiner … Ich eilte dann ins Hotel zurück,
 und mein Mann erschien anderthalb Stunden später. Er
-war sehr verstimmt und gereizt, Morgens fuhren wir hierher.
+war sehr verstimmt und gereizt. Morgens fuhren wir hierher.
 Er sprach kaum ein Wort …«
 
 Sie hatte jetzt das Gesicht mit den Händen bedeckt,
@@ -1367,8 +1367,7 @@ sein, Frau Wardner … Die Zeiten sind vorüber, wo ein
 eingeborener Fürst es wagen dürfte, einen Europäer zu beseitigen.
 Und den Ort, wo man Ihren Gatten gefangen
 hält, werde ich zu finden wissen … — Jetzt wollen wir uns
-trennen … Schraut mit ich werden den Park durch das
+trennen … Schraut und ich werden den Park durch das
 Haupttor betreten … Und nochmals: Wir kennen uns nicht,
 Frau Wardner! Sie verstehen …!!«
-
 
