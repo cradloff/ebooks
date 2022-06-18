@@ -185,7 +185,7 @@ wie ein Rennreiter. Nur die Hornbrille störte. — Sie eine
 blendende Erscheinung …«
 
 Harald hatte wieder die Banknote in der Hand …
-wandte sich jetzt mir zu. »Mein Alter, erinnert die diese
+wandte sich jetzt mir zu. »Mein Alter, erinnert dich diese
 Banknote nicht an jene tadellosen Fälschungen, die vor zwei
 Jahren der Bank von England so viel Ärger bereiteten? —
 Suche doch einmal den Band Notizen vom Oktober 1924
@@ -272,7 +272,7 @@ Verletzungen an der linken Hand festzustellen. Immerhin
 mochte die Rippenquetschung sehr schmerzhaft sein.
 
 Harst, der sein gutes Herz nie verleugnen kann, legte
-dem Manne zu sofort einen Verband an. Kaum war er
+dem Manne auch sofort einen Verband an. Kaum war er
 <@pagebreak/>
 hiermit fertig, als in unserem Vorgarten lärmende Stimmen
 laut wurden … Ich eilte mit Justus hinaus, und zu
@@ -359,7 +359,7 @@ Erdboden weggefegt, was doch um so unerklärlicher war,
 als zwei von ihnen immerhin recht auffällige Erscheinungen
 <@pagebreak/>
 waren: Der Singhalese und der kleine Engländer, der sehr
-starke O-Beinige gehabt haben sollte.
+starke O-Beine gehabt haben sollte.
 
 Am dritten Tage erklärte Harald beim Mittagessen, daß
 wir abends für längere Zeit verreisen würden, — was
@@ -509,7 +509,7 @@ Platt uns mitteilte, hatte ich einen besonderen Blick
 Haralds aufgefangen … Und Haralds Augen glitten nun
 unauffällig nach links, wo inmitten der Terrasse ein Springbrunnen
 plätscherte. Dort stand ein kleiner, breitschultriger
-Europäer mit unglaublich dünnen O-Beinige, — mit Beinen,
+Europäer mit unglaublich dünnen O-Beinen, — mit Beinen,
 die den wuchtigen Körper kaum tragen zu können schienen
 … Der Mann war in einen Leinenanzug gekleidet —
 mit Kniehosen, und seine ganze Figur wirkte so urkomisch,
@@ -540,7 +540,7 @@ meinte: »Ich sprach mit dem Hoteldirektor über Mandalar
 
 Kapitän Albers merkte nichts …
 
-Ich war gespannt, was Harst über den O-Beinige in
+Ich war gespannt, was Harst über den O-Beinigen in
 Erfahrung gebracht hatte …
 
 <h2>3. Kapitel.</h2>
@@ -717,7 +717,7 @@ dauernd sichtbar waren … Kahlkopf — aber mitten auf
 dem Schädel noch einen Büschel brandroten Haares —
 brandrot wie der Schifferbart … In gelbem Leinen steckte
 dieses Unikum … Vor dem Spitzbauch auf der Weste baumelte
-eine die goldene Uhrkette mit zahllosen Anhängern …
+eine dicke goldene Uhrkette mit zahllosen Anhängern …
 
 Ich beschreibe das Äußere dieses Mannes hier nicht
 ohne Grund so genau. Und will den Leser auch nicht allzu
@@ -843,7 +843,7 @@ die links von mir auf Sandsäcken stand …
 
 Ich richtete mich auf und fühlte unter mir gleichfalls
 Sandsäcke, sah neben mir Haralds vertraute Gestalt, uns
-gegenüber den Irländer und den O-Beinige, jeder mit
+gegenüber den Irländer und den O-Beinigen, jeder mit
 einem Revolver in der Pfote …
 
 »Dann können wir nun ja wohl beginnen,« brummte
@@ -904,7 +904,7 @@ Der O-Beinige fixierte uns durchdringend … Der
 Mensch hatte Augen im Schädel, wie ein hinterlistiger Panther,
 und zudem war er nun völlig nüchtern …
 
-»Vielleicht sind Sie das ein Idiot, O’Kelling,« sagte
+»Vielleicht sind Sie doch ein Idiot, O’Kelling,« sagte
 er grob. »Teppichhändler tragen keine Repetierpistolen und
 Taschenlampen und Patentdietriche bei sich …!! Der Teufel
 soll mich vierteilen, wenn das nicht Polizeispitzel sind …!«
@@ -965,7 +965,7 @@ Der Irländer wurde etwas verlegen …
 
 »Ich will ja an Ihren Worten nicht länger zweifeln,
 Herr Horten,« meinte er unsicher, indem er einen fragenden
-Blick auf den O-Beinige warf … »Sie haben ja ganz
+Blick auf den O-Beinigen warf … »Sie haben ja ganz
 recht: Weshalb sollen Sie es auf mich, einen schlichten
 alten Seemann, abgesehen haben, der noch nie mit den Gesetzen
 irgendwie in Konflikt geraten ist?! Aber — den Kutter
@@ -1083,7 +1083,7 @@ hatte und geflüchtet war, erzählte von Fitzgeralds o-beinigem
 Diener und schloß mit den Worten: »Vielleicht ist
 James Arwal der Kapitän des Piratenfahrzeugs … Wissen
 <@pagebreak/>
-Sie Mr. O’Kelling, ob Harplay längere Zeit verreist
+Sie, Mr. O’Kelling, ob Harplay längere Zeit verreist
 war?«
 
 »Ja — ja …!!« Der Irländer war wie ausgewechselt.
@@ -1225,7 +1225,7 @@ zwei Silben besitzt: Sik ar — — Sikar!
 
 Ich denke daran, und Harald spricht es aus: »So ist
 also dies geklärt …! Sikarwalar …! Es stimmt alles …
-Was aber wird gesehen?! Was meinst du, mein Alter?!
+Was aber wird geschehen?! Was meinst du, mein Alter?!
 Ich glaube fast, man wird der »Lady Hamilton« die Ehre
 antun und …«
 
@@ -1390,7 +1390,7 @@ der Kutter in die schmale Einfahrt hinein …
 O’Kelling hatte das Steuer einem der Malaien überlassen
 und gesellte sich zu uns … Lachte dröhnend … »Die
 Schufte kommen zu spät, Mr. Harst … Noch fünf Minuten,
-und wir schaukeln draußen auf offenen Wasser …«
+und wir schaukeln draußen auf offenem Wasser …«
 
 Harald hob den Arm … »Bitte, O’Kelling … Sehen
 Sie dort die Positionslaternen?! Sehen Sie das hellgrüne

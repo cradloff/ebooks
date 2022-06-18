@@ -202,7 +202,7 @@ stickige, stinkende Kielraumluft ein …
 Hob den Kopf …
 
 »Ich will mich Ihnen anvertrauen, meine Herren,«
-sagte sie mit verfänglichen Liebenswürdigkeit. »Gehen wir
+sagte sie mit verfänglicher Liebenswürdigkeit. »Gehen wir
 also in des Kapitäns Kajüte nach oben … — Weiß O’Kelling,
 wer ich bin?«
 
@@ -639,7 +639,7 @@ wir geblieben sein können …«
 Ich war satt. Nahm meine Clement vor … Fragte:
 »Du meinst also, Harald, daß diese ganze unglaubliche Geschichte
 von dem Gentleman-Freibeuter nichts anderes als
-innersten Kern bat als eine Liebesaffäre Honorias?!«
+innersten Kern hat als eine Liebesaffäre Honorias?!«
 
 »Es gibt keine bessere Lösung — vorläufig! Obwohl
 ich auch viele Bedenken habe … — Alle Mutmaßungen sind
@@ -843,7 +843,7 @@ Harplay abgefahren ist …!! … Denn die kleine o-beinige
 Kanaille war gleichfalls an Bord der Jacht und zwar in
 der Verkleidung als chinesischer Schiffskoch … Abgefahren,
 Mr. Schraut, daß der Harplay nur so in die Knie sackte!
-Ich Tage Ihnen, der Arwal hält auf Mannszucht, der hatte
+Ich sage Ihnen, der Arwal hält auf Mannszucht, der hatte
 <@pagebreak/>
 keine Ahnung von Harplays Betrugsmanöver! Herausrücken
 mußte er mit dem Gelde, mußte mir noch zehn Pfund
@@ -1158,7 +1158,7 @@ näherten wir uns wieder dem Lande, passierten an geeigneter
 Stelle die Brandung und steuerten in eine der zahlreichen
 flachen Buchten hinein, die hier sämtlich dasselbe eintönige
 Bild darbieten: Die Ufer mit Mangroven bedeckt, Schlammbänke,
-auf denen Seevogel aller Art sich sonnen, Röhrichtstreifen
+auf denen Seevögel aller Art sich sonnen, Röhrichtstreifen
 <@pagebreak/>
 und Krautinseln, dazu die feuchtwarme, nach Morast
 duftende Luft dieses durch die Malariagefahr so gefährlichen
@@ -1250,7 +1250,7 @@ glaube ich nicht … Auf Wiedersehen also …«
 
 Seine zehn Leute, braunes Gelichter übelster Art, hatten
 sich bisher auf dem Vorschiff aufgehalten. Er winkte
-ihnen. Und der ganze Trupp schwang sich nun in die Reste
+ihnen. Und der ganze Trupp schwang sich nun in die Äste
 des einen Tuka hinein und war im Umsehen verschwunden.
 Nicht einmal geknebelt hatten sie uns … So sicher waren
 sie, daß unsere Hilferufe hier ungehört verhallen würden …
@@ -1306,7 +1306,7 @@ Geben Sie uns nur ein wenig Schiffszwieback und Chinin.
 Es ist jetzt sieben Uhr … Zwei Stunden ist’s noch hell …
 Wir werden den Spuren der Bande folgen …«
 
-Gleich darauf kletterten wir beide in die Reste des Tuka
+Gleich darauf kletterten wir beide in die Äste des Tuka
 empor …
 
 Der Marsch durch die Dschungelwildnis war nicht
