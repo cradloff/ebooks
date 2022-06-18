@@ -4,14 +4,14 @@
 
 <h2>1. Kapitel.</h2>
 
-Wir saßen in Hans Becherts Dienstzimmer. Die klare
+Wir saßen in Fritz Becherts Dienstzimmer. Die klare
 Maisonne zog einen leuchtenden Strich über die Dielen und
 über einen Teil der Wand.
 
 »An einem solchen wundervollen Tage wirkt ein solches
 Drama noch erschütternder,« meinte Bechert und öffnete
 das rechte Fenster, als ob er die Erinnerung an die soeben
-in Herms Zelle durchlebten Szenen sich ins Freie verflüchtigen
+in Herms’ Zelle durchlebten Szenen sich ins Freie verflüchtigen
 lassen wollte. Dann setzte er sich wieder und blickte
 Harald sinnend an, der, die Zigarette zwischen Zeige- und
 Mittelfinger, in Becherts Schreibsessel vor sich hinbrütete.
@@ -60,7 +60,7 @@ vor den Augen. Hornbrillen sind jetzt modern.
 
 Bechert war’s, der ihm eine Zündholzschachtel reichte.
 Der junge Mensch brannte sich eine Zigarette an und gab
-die Zündholzschachtel mit einem »Danke sehr«  zurück,
+die Zündholzschachtel mit einem »Danke sehr!« zurück,
 schwang sich in den Sattel und sauste davon.
 
 Bechert rief: »Ein Zettel! — Da — eingeklemmt in
@@ -105,7 +105,7 @@ hatte eine gewisse Ähnlichkeit mit Holdsteins Maske. Wer
 flüchtig hinsah, konnte Holdstein wohl für Plotz gehalten
 haben.
 
-Plotz hatte den Kopf gesenkt und, fixierte uns über
+Plotz hatte den Kopf gesenkt und fixierte uns über
 den Rand des Nickelkneifers hinweg.
 
 »Sie wünschen?« fragte er kühl.
@@ -116,7 +116,7 @@ meine Legitimation.«
 »Danke. Glaube Ihnen. Nehmen Sie Platz, meine
 Herren.«
 
-Keine Spur von Erregung bei diesem Manne der
+Keine Spur von Erregung bei diesem Manne, der
 sich nur von dunklen Geschäften nährte.
 
 Bechert setzte sich. Wir spielten die Kriminalbeamten
@@ -203,7 +203,7 @@ Harald ebenso harmlos und ging hinaus.
 Plotz wandte sich an Bechert. »Sie entschuldigen mich
 wohl. Ich habe dringend zu arbeiten.«
 
-Er beugte sich über ein Aktenstück, und begann zu
+Er beugte sich über ein Aktenstück und begann zu
 schreiben.
 
 Bechert warf mir einen langen Blick zu. In seinen
@@ -405,7 +405,7 @@ wir mit.
 »Wohin nun eigentlich?« fragte die kleinere Frau die
 Schlanke.
 
-»Nach — nach Lichterfelde mein Alter.«
+»Nach — nach Lichterfelde, mein Alter.«
 
 »So?! Und dort?!«
 
@@ -415,7 +415,7 @@ wie in der Zeitung stand. Er liegt jetzt in der Klinik eines
 Doktor Grabert, die zugleich Sanatorium ist. Wir werden
 dort wohnen.« —
 
-Die beiden älteren, verschleierten Damen, fuhren mit
+Die beiden älteren, verschleierten Damen fuhren mit
 dem Zuge von Station Grunewald bis Nikolassee, von da
 mit der Wannseebahn nach Lichterfelde.
 
@@ -539,7 +539,7 @@ hatte. Ich war stehen geblieben. Und — da
 glaubte ich ein Stöhnen zu hören — ein Ächzen. Es mag
 auch der Sturm gewesen sein. Plötzlich knallten dann
 Schüsse dicht vor mir. Sie kamen aus der Baumkrone. Ich
-wurde getroffen, taumelte, fiel auf einen Stein, - schlug mit
+wurde getroffen, taumelte, fiel auf einen Stein, schlug mit
 dem Hinterkopf auf und verlor das Bewußtsein. Mein
 Vorgesetzter, Förster Ring, der durch meine lange Abwesenheit
 unruhig geworden, fand mich morgens um fünf ohne
@@ -609,12 +609,12 @@ Harald lehnte sich wieder im Stuhl zurück.
 Verlegenen.
 
 »Ja. Oder doch — nein! Eine Dame — eine wunderschöne
-Dame — eine Malerin —«
+Dame, eine Malerin —«
 
 »Und was ist’s mit der?«
 
-»Ich war dreimal mit ihr zusammen. Sie malte die
-Lehmgrube. Hatte Ihre Staffelei oben am Westrand
+»Ich war dreimal mit ihr zusammen. Sie hatte
+Ihre Staffelei oben am Westrand
 des Abhangs neben der Fichte aufgestellt gehabt, die nun
 entwurzelt ist. Ich möchte Sie bitten, Herr Harst, daß Sie
 ihr einen Gruß von mir ausrichten.«
@@ -635,10 +635,10 @@ wohnen.«
 
 <@pagebreak/>
 Ich hatte von Haralds Seite eine ähnliche Frage erwartet.
-Denn, eine Lehmgrube malt doch niemand schräg
+Denn eine Lehmgrube malt doch niemand schräg
 von oben! Und: Haarfarbe und Augen stimmten genau
 mit denen Eva Wilcwords überein! Außerdem hatte Eva
-ja ganz in der Nähe der Grube im Schweizerhäuschen gewohnt —
+ja ganz in der Nähe der Grube im Schweizerhäuschen gewohnt. —
 
 Borstel erwiderte mit schwachem Lächeln: »Nein, Geheimnisvolles
 war nicht dabei. Es war am 4. Mai, als
@@ -666,7 +666,7 @@ schickte sie mich weg. Sie meinte, es könnte ihrem guten
 Rufe schaden, wenn man uns zusammensähe. Ich beruhigte
 sie. Dort nach der Lehmgrube kommt so selten jemand. Sie
 gab mir die Hand und sagte: »Auf Wiedersehen. Wenn
-Sie wieder mal hier vorbeikommen, pfeifen Sie Bitte schon
+Sie wieder mal hier vorbeikommen, pfeifen Sie bitte schon
 von weitem recht laut. Wenn ich dann als Antwort ein
 Lied beginne, dürfen Sie mich begrüßen. Sonst machen
 Sie einen großen Bogen um die Lehmgrube — meines
@@ -683,7 +683,7 @@ langsam.«
 
 »Es war also eine feine Dame?«
 
-»Ja bestimmt. Sie hatte eigentlich ein sehr hochmütiges
+»Ja — bestimmt. Sie hatte eigentlich ein sehr hochmütiges
 Gesicht. Aber das war nur so äußerlich. Sie
 konnte sehr liebenswürdig sein.«
 
@@ -708,14 +708,14 @@ einen so prosaischen Fleck Erde, wie eine Lehmgrube es ist.
 
 <h2>3. Kapitel.</h2>
 
-Wir saßen nun, trotz des heißen Abends in unserem
+Wir saßen nun trotz des heißen Abends in unserem
 Wohnsalon bei geschlossenen Fenstern und sorgfältig zugezogenen
 Vorhängen. Als Licht brannte nur die Stehlampe
 auf dem Schreibtisch, deren grüner Schirm den
 Schein der Glühbirne so weit dämpfte, daß unsere Sofaplätze
 im Halbdunkel lagen.
 
-»Die Sachlage ist doch klar mein Alter,« begann Harald.
+»Die Sachlage ist doch klar, mein Alter,« begann Harald.
 
 »Vollkommen —«
 
@@ -742,7 +742,7 @@ die sich in der Grube betätigten.«
 heran.«
 
 »Borstels nächtliche Erlebnisse hängen natürlich mit
-dem Geheimnis der Lehmgrube eng zusammen«, erklärte
+dem Geheimnis der Lehmgrube eng zusammen,« erklärte
 ich. »Der Hund hat in der Grube etwas gewittert, stürmte
 dorthin und wurde von einem Menschen erstochen.«
 
@@ -901,12 +901,12 @@ wahrgenommen hatte.
 
 Auch Harst gähnte.
 
-Und — abermals der Käuzchenruf: — dies tiefe, gräßliche
+Und — abermals der Käuzchenruf — dies tiefe, gräßliche
 Lachen der Vogelstimme.
 
 Mir lief es kühl über den Rücken.
 
-»Wetter,« und Harald richtete sich auf. »Clement entsichert!
+»Weiter,« und Harald richtete sich auf. »Clement entsichert!
 In die rechte Jackentasche!«
 
 Er huschte voran — von Stamm zu Stamm.
@@ -998,7 +998,7 @@ von zwei Männern in Zigeunertracht.
 
 Abermals kroch Harsts Stimme träge in mein Bewußtsein:
 
-»Flie-hen —! Fort — von — hier!«
+»Flie—hen —! Fort — von — hier!«
 
 Dann ein Ächzen.
 
@@ -1006,7 +1006,7 @@ Dann ein Ächzen.
 
 Fliehen?! — Ich wollte rückwärts kriechen. Kein
 Glied gehorchte mir mehr. Nur das Hirn arbeitete
-wie eine Maschine mit schwachem Druck.
+noch wie eine Maschine mit schwachem Druck.
 
 Wieder der Schüttelfrost — die Sternchen.
 
@@ -1077,7 +1077,7 @@ Lampe, eine große Petroleumlampe mit Blechschirm an der
 Lehmdecke.
 
 Mir gegenüber an der anderen Wand Harst, genau
-wie ich an einen Holzstuhl gefesselt. Sechs Meter trennten
+wie ich auf einen Holzstuhl gefesselt. Sechs Meter trennten
 uns.
 
 Und zwischen uns am rohen Holztisch lehnte Eva, die
@@ -1109,7 +1109,7 @@ ahnte ja, daß Sie die Lehmgrube besuchen würden. Die
 Wirkung der Törtchen mußte voll nach einer halben Stunde
 eintreten. Wären Sie noch in Ihrem Zimmer gewesen,
 hätten wir Sie beide herausgeholt. Aber das war nicht
-nötig. Sie hatten es sehr eilig, die Lehmgrube anzusehen.
+nötig. Sie hatten es sehr eilig, die Lehmgrube sich anzusehen.
 Die Spionin kam und meldete, daß Sie nahten, daß
 Sie — gegessen hätten — die schönen Törtchen. Nun
 wußte ich, daß alles klappte. Und — nun sind Sie mein!«
@@ -1135,7 +1135,7 @@ Wilcwords! Dann noch das goldene Tafelservice Uhlborns!
 auf dunklen Pfaden wandelt. Jetzt — werden Sie beide
 niemandem mehr schaden.
 
-Ahnten Sie, weshalb Borstel niedergeschossen wurde,
+»Ahnten Sie, weshalb Borstel niedergeschossen wurde,
 <@pagebreak/>
 weshalb Xaver und ich Ihnen damals entkamen?«
 
@@ -1288,7 +1288,7 @@ Das zweite Fünkchen schwang hin und her.
 
 Und — erlosch mit leisem Zischen.
 
-»Ruhe!« mahnte Harald. »Langsam — nicht übertreiben!«
+»Ruhe!« mahnte Harald. »Langsam —, nicht übertreiben!«
 —
 
 Eva Wilcword war doch nicht schlau genug gewesen.
@@ -1440,7 +1440,7 @@ Bechert sagte kein Wort, schüttelte nur den Kopf. —
 
 Ich will hier nur erwähnen, daß wir zwei Tage auf
 der Lauer lagen. Aber wir bemerkten nichts Verdächtiges.
-Die Leute die bei Plotz aus und ein gingen, waren nicht
+Die Leute, die bei Plotz aus und ein gingen, waren nicht
 Eva Wilcword.
 
 Da sah auch Harst ein, daß Eva und der Bund Berlin
@@ -1471,9 +1471,9 @@ Walde?«
 
 »Lehmgrube? Ich?! — Nein! Ich mache kaum Ausflüge.«
 
-»Da ist letztens eine Kiefer umgestürzt — in der Nacht
-als der Hauslehrer Galley ermordet wurde. Und in der
-selben Nacht schoß jemand den Forstgehilfen Borstel nieder
+»Da ist letztens eine Kiefer umgestürzt — in der Nacht,
+als der Hauslehrer Galley ermordet wurde. Und in derselben
+Nacht schoß jemand den Forstgehilfen Borstel nieder
 — in jener Lehmgrube.«
 
 »Na — und?!«
@@ -1495,7 +1495,7 @@ blanken Schlips um, Herr Justizrat. Sie fassen mit
 der linken Hand so oft ganz unbewußt nach dem Schlips,
 weil etwas in dem Schlips fehlt —«
 
-Ah — das saß! Plotz Gesicht verlor den überlegen-harmlosen
+Ah — das saß! Plotz’ Gesicht verlor den überlegen-harmlosen
 Ausdruck.
 
 »In dem Schlips ist nämlich ein Loch, Herr Justizrat.
@@ -1525,6 +1525,7 @@ Dazu kam es nicht. Die Barrikade der Aktenböcke hinderte
 uns, Plotz in den Arm zu fallen. Er hatte einen Revolver
 aus der Schublade herausgerissen, erschoß sich im
 Schreibsessel, lebte noch vier Minuten trotz des Herzschusses.
+
 Wir hatten ihn auf das Sofa gelegt. Mit geschlossenen
 Augen lag er da. Bechert drängte die Schreiber wieder zur
 Tür hinaus.

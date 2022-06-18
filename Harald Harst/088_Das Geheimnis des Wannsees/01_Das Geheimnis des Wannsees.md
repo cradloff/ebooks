@@ -13,7 +13,7 @@ Damals gab es kaum ein Klubhaus, kaum eine Jacht,
 kaum ein Wohnschiff, die nicht in den Frühjahrswochen
 ausgeplündert wurden und dies mit einer Frechheit,
 Rücksichtslosigkeit und einem Geschick, von denen die Behörden
-ebenso verblüfft waren, die sich ihre Machtmittel zur
+ebenso verblüfft waren, wie sich ihre Machtmittel zur
 Unterbindung dieses Treibens einer offenbar tadellos geleiteten
 Einbrecherbande als unzulänglich erwiesen.
 
@@ -83,7 +83,7 @@ Nacht getan. Ich hatte den Kalkeimer und den
 Pinsel hier am Kirschbaum stehen lassen, und da hat der
 <@pagebreak/>
 Zeichner dieser Skizze wohl gehofft, ich würde die Skizze
-morgen bemerken. Hieraus geht wieder hervor, daß
+heute morgen bemerken. Hieraus geht wieder hervor, daß
 ich gestern abend bei der Kalkarbeit beobachtet worden bin.
 Du verstehst: hätte ein Gärtner die Bäume hier gekalkt,
 würde der »Zeichner« kaum damit haben rechnen können,
@@ -97,14 +97,14 @@ Ich trat näher und besichtigte die Zeichnung.
 »Hm, was mag das darstellen sollen, Harald?«
 
 »Den Wannsee, mein Alter. Dies hier ist die Bahnlinie
-Berlin-Wannsee, dies die Autorennbahn, dies der
-Vorort Nicolassee, hier die Brücke, die den Großen und
+Berlin—Wannsee, dies die Autorennbahn, dies der
+Vorort Nikolassee, hier die Brücke, die den Großen und
 Kleinen Wannsee trennt, und die —« — er machte eine
 Pause.
 
 Ich bückte mich.
 
-»Ah. — Dies ist ein Kreuz am Westende des Kleinen
+»Ah — dies ist ein Kreuz am Westende des Kleinen
 Wannsees, ein Kreuz mitten im Wasser, und drei punktierte
 Linien führen aus Nord, Süd und West von den
 Ufern zu dem Kreuz. Neben den punktierten Linien stehen
@@ -198,7 +198,7 @@ Die schwedischen Maler Hörgar und Schlottgör mieteten
 am Nordufer des Kleinen Wannsees bei der verwitweten
 Frau Oberwachtmeister Müllbrodt zwei Zimmer im
 Erdgeschoß des bescheidenen Häuschens, zahlten für acht
-Tage voraus und mieteten naher ebenfalls für acht Tage
+Tage voraus und mieteten nachher ebenfalls für acht Tage
 von einem Bootsverleiher eine hübsche Jolle, hinterlegten
 als Sicherheit eine stattliche Summe und durften die Jolle
 daher an dem zum Garten der Frau Müllbrodt gehörigen
@@ -244,7 +244,7 @@ des Lebenstriebes.
 Da sagte Harst vom Steuer her in seiner träumerischen
 Ruhe:
 
-»Du wirst drüben in Nicolassee aussteigen und eine
+»Du wirst drüben in Nikolassee aussteigen und eine
 Wäscheleine von dreißig Meter Länge kaufen, ebenso ein
 Dutzend starke Hechtangelhaken und Draht.«
 
@@ -294,7 +294,7 @@ ihr ließ unsere Jolle tanzen.
 Da wurde mir erst klar, daß ich ja ebenfalls den Namen
 der schlanken Jacht gelesen hatte:
 
-> Hagen von Tronje!
+<p class="centered">Hagen von Tronje!</p>
 
 Schulerinnerungen tauchten auf — Nibelungensage —
 der finstere Hagen von Tronje, der erbarmungslose, Werkzeug
@@ -364,7 +364,7 @@ Er log. Von einer Dame war keine Spur zu bemerken.
 Aber er erreichte seinen Zweck.
 
 <@pagebreak/>
-»Ne, der alle Schieber is Witwer und hat nur eine
+»Ne, der olle Schieber is Witwer und hat nur eine
 Tochter,« erklärte die Witwe sofort. »Das arme Ding kann
 einem leidtun, Herr Hörgar. Mit dem Ripplow is nicht
 zu spaßen.«
@@ -372,7 +372,7 @@ zu spaßen.«
 »Inwiefern denn, Frau Müllbrodt?«
 
 »Na, da darf keiner mucksen, auch die Irene nicht. Sie
-ist übrigens da in Asien wo gehören, in so ’nem Negerstaat.
+ist übrigens da in Asien wo geboren, in so ’nem Negerstaat.
 — Saim oder so ähnlich heißt das Land.«
 
 »Sie meinen wohl Siam, liebe Frau Müllbrodt!«
@@ -388,7 +388,7 @@ der Welt erblickt hatte? —
 Wirtin hastig. »Der Ripplow war dort in jungen Jahren
 als Kaufmann tätig. Seine Villa drüben soll ganz vollgepropft
 mit allerlei ausländischem Kram sein. Und Viehzeug
-hält er sich, sag’ ich Ihnen, Herr Hörgar; — Schlangen,
+hält er sich, sag’ ich Ihnen, Herr Hörgar, — Schlangen,
 Affen, zwei Panther und all so ’ne gruseligen Biester.«
 
 Harald rauchte gedankenvoll ein paar Züge aus seiner
@@ -594,7 +594,7 @@ Erinnerungsbilder hervorzaubert, taten’s bei mir
 diese beiden siamesischen Worte.
 
 In Bangkok, der Hauptstadt Siams, hatten wir vor
-zwei Jahren eine gefährliche Abenteuererin bekämpft. In
+zwei Jahren eine gefährliche Abenteurerin bekämpft. In
 Bangkok auf dem gelben Menam-Flusse hatten wir im
 Wohnboot seltsame Dinge erlebt. In Bangkok hatten wir
 den Künsten einheimischer Raubtierdresseure zugeschaut, hatten
@@ -894,7 +894,7 @@ sprach er weiter:
 fünfzehn Jahre dort in Siam auf einsamer Plantage wie
 in der Wildnis gehaust, wie ein Herr — über Leben und
 Tod! Einen Mann wie mich schrecken papierne Gesetze nicht.
-Ein Mann wie ich trägt das Gesetz in sich
+Ein Mann wie ich trägt das Gesetz in sich.
 — Beruhige Dich, Irene! Wenn Du meine Liebe nicht verlieren
 willst, laß mir freie Hand, mit jenem Elenden abzurechnen.«
 
@@ -1003,12 +1003,12 @@ der Stange herausgefischt hatten.
 
 »Warte hier,« sagte Harst nur.
 
-Er schwamm davon, verschwand in den Nebelschleiern.
+Er schwamm davon, verschwand in den Regenschleiern.
 
-Warten! Sollte ich mich ausschalten lassen?!
+Warten?! Sollte ich mich ausschalten lassen?!
 
 Ich ließ den kleinen Anker fallen, band das Ankertau
-ganz kurz jetzt, zog Mantel, Jacke, Weste, Schuhe aus und
+ganz kurz fest, zog Mantel, Jacke, Weste, Schuhe aus und
 — schwamm in das Dunkel hinein.
 
 Ich hatte noch keine zwanzig Meter zurückgelegt, als
@@ -1109,7 +1109,7 @@ Machtalers Gesicht verzerrte sich.
 »Gut — ich gehorche!« meinte er, und ohnmächtige Wut
 leuchtete aus seinen kleinen tückischen Augen.
 
-»Rudere an Land!« befahl Harald mir da. »An unsre
+»Rudere an Land!« befahl Harald mir da. »An unsere
 Brücke.«
 
 Wir führten Machtaler dann in die Glaslaube des
@@ -1185,11 +1185,11 @@ mit Schwung unter das merkwürdige Dokument gesetzt.
 Ich beugte mich über den Tisch. Mit Gier las ich,
 verschlang die Zeilen.
 
-> Wannsee, den 16. Mai 1922.
+<blockquote><p class="centered">Wannsee, den 16. Mai 1922.</p></blockquote>
 
-Aus eigenem Antrieb erkläre ich hier folgendes:
+> Aus eigenem Antrieb erkläre ich hier folgendes:
 
-Im Jahre 1920 habe ich aus Konkurrenzneid, da die
+> Im Jahre 1920 habe ich aus Konkurrenzneid, da die
 von Herrn Fritz Ripplow mit Holland eingeleiteten Handelsbeziehungen
 mir die Anbahnung ähnlicher Geschäftsabschlüsse
 erschwerten und da meine Firma infolgedessen zurückging,
@@ -1199,13 +1199,13 @@ und anderen Schriftstücken, schließlich durch Denunziationen
 die Verhaftung Herrn Ripplows wegen Verschiebung
 von Heeresgut herbeigeführt.
 
-Mit beteiligt waren als meine Helfer hierbei: der Portier
+> Mit beteiligt waren als meine Helfer hierbei: der Prokurist
 Ernst Daum, Berlin-Steglitz, Friedrichsruher Platz 3,
 der Korrespondent Jakob Bnitzki, Berlin, Alte Jakobstr. 14,
 der Eisenbahnassistent Felix Tourbier, Berlin, Wilsnackerstraße
 69, und die Telephonistin Anna Erkner, Hardenbergstraße 21.
 
-Eingeweiht waren ferner meine Frau und mein Schwager
+> Eingeweiht waren ferner meine Frau und mein Schwager
 Justus Rode.
 
 Es folgte nun eine genaue Schilderung, wie diese dunklen
@@ -1214,23 +1214,24 @@ während der Untersuchungshaft zu schädigen.
 
 Dann hieß es weiter:
 
-Ich gebe ferner zu, daß auf mein Betreiben Herr Ripplow
+> Ich gebe ferner zu, daß auf mein Betreiben Herr Ripplow
 aus den Wassersportvereinen, denen er als Mitglied
 angehörte oder bei denen er verkehrte, ausgeschlossen wurde
 und daß die wie ich hier in Wannsee ansässigen Familien
-sich von Herrn Ripplow durch meine Anstrengungen zurückzogen,
+sich von Herrn Ripplow durch meine Ausstreuungen zurückzogen,
 so daß er nach seiner Enthaftung von allen früheren
 Bekannten gemieden wurde und gesellschaftlich erledigt
 war.
 
 <@pagebreak/>
-Ich verpflichte mich, Herrn Ripplows Ehre dadurch
+
+> Ich verpflichte mich, Herrn Ripplows Ehre dadurch
 wieder herzustellen, daß ich meine Schuld offen bekenne und
 mich selbst den Gerichten stelle.
 
-> Julius Machtaler,
+<blockquote><p class="centered">Julius Machtaler,</p></blockquote>
 
-> Wannsee, Seestraße 58.
+<blockquote><p class="centered">Wannsee, Seestraße 58.</p></blockquote>
 
 <h2>5. Kapitel.</h2>
 
@@ -1282,7 +1283,7 @@ Gleich darauf stieß die Jolle von der kleinen Brücke ab.
 Harald steuerte. Machtaler verhielt sich ganz ruhig.
 
 Harst hatte, als wir aus der Laube heraustraten, ein
-Bündel aufgehoben, daß er dort dicht an der Laubenwand
+Bündel aufgehoben, das er dort dicht an der Laubenwand
 niedergelegt hatte. Dieses Bündel lag jetzt vorn im
 Boot. —
 

@@ -123,7 +123,7 @@ sei, ganz für sich lebe und eine hohe Kultur besitze.
 Bei diesem rätselhaften Volke sollte Armart gefangen gehalten
 werden.
 
-Diese erste sichere Kunde über den Verbleib Ihres Verlobten
+Diese erste sichere Kunde über den Verbleib ihres Verlobten
 bestimmte Evelyn dazu, ihren Onkel Pierpont zu
 <@pagebreak/>
 bitten, mit ihr nach Indien zu reisen. Wie Orkry betonte,
@@ -206,14 +206,14 @@ entwichen war und von dort noch die goldenen Geräte mitgenommen
 hatte.
 
 Laccemoor, sehr belesen und vielseitig gebildet, sagte
-mir, er besinne sich, einmal in irgend einem Werk über dieses
+nun, er besinne sich, einmal in irgend einem Werk über dieses
 Mischvolk einiges gelesen zu haben. Jedenfalls sei an
 dessen Existenz nicht zu zweifeln.
 
 Wir alle rauchten und hatten den Salon schnell in
 dicke Qualmschwaden gehüllt. In diesem Zigarren- und
-Zigarettennebel erschien jetzt plötzlich, ohne anzuklopfen
-hereinstürzend der deutsche Matrose Möller, ein Hamburger
+Zigarettennebel erschien jetzt plötzlich, ohne Anzuklopfen
+hereinstürzend, der deutsche Matrose Möller, ein Hamburger
 <@pagebreak/>
 Jung mit einem Mundwerk für zwei, aber brauchbar und
 zuverlässig.
@@ -221,7 +221,7 @@ zuverlässig.
 »Käptein, Käptein,« brüllte Jochem Möller, »upp’n
 Schuner geiht was um!«
 
-»Mien Söhn, Du bist bisoopen,« meinte Schlenter gemütlich.
+»Mien Söhn, Du bist biesoopen,« meinte Schlenter gemütlich.
 
 Narrow hatte für die Matrosen Rum ausgegeben.
 Des Kapitäns Vermutung war also leidlich begründet.
@@ -231,13 +231,13 @@ nun hochdeutsch:
 
 »Ich — besoffen?! Von fünf Gläser Grog?! Käptein,
 dazu gehören zwei Dutzend. Ich bin so nüchtern wie ’n
-ausgedörrten Stockfisch. Auch Jan Klabund hat den Geist
+ausgedörrter Stockfisch. Auch Jan Klabund hat den Geist
 gesehen, Käptein. Es war son wieter Kierl — wiet (weiß)
 von oben bis unnen, mit ’ne gelbe Mütz uppn Kopp. Jan
 und ich hatten die Wache oben auf dem Felsen. Der Mond
 wor grad vorkimmen, Käptein. De wiete Kierl kam von der
 Achtertrepp des Schuners her. Jan ruft, obwohl ook em
-ganz graulich war: »Hallo, Kam’rad, war büst Du denn
+ganz graulich wor: »Hallo, Kam’rad, war büst Du denn
 for ’n Miensch?« — Nu — da rennt der Geist wieder nach
 achtern und wor mit ’n Mal weg.«
 
@@ -407,7 +407,7 @@ Dann das leise Kreischen eines Schloßriegels.
 Die Tür ging nach innen auf.
 
 Unsere Taschenlampen beleuchteten drei Gestalten, die
-in — Bademantel gehüllt waren, drei Gesichter, blaß, hager,
+in — Bademäntel gehüllt waren, drei Gesichter, blaß, hager,
 verstört. —
 
 Harald zog die Reisemütze, verbeugte sich.
@@ -458,7 +458,7 @@ Fabriken, klang schmerzlich bewegt.
 Er steckte ihr die Hände hin.
 
 Das Mondlicht beleuchtete mild diese seltsame Szene,
-— die drei Frauen in den langen Bademänteln, den hühnenhaften
+— die drei Frauen in den langen Bademänteln, den hünenhaften
 Pierpont Narrow und meines Freundes schlanke
 elegante Gestalt.
 
@@ -470,14 +470,14 @@ habe ich durch die wahnwitzige Angst vieler Tage dort im
 Baderaum gebüßt — durch Hunger, Durst und Selbstvorwürfe.
 Drei Matrosen, die mit uns auf der Nevada zurückgeblieben
 waren, sind ermordet worden. Ich bin schuld
-an ihrem Tode: Ich bin genug gestraft für alles.«
+an ihrem Tode. Ich bin genug gestraft für alles.«
 
 »Das bist Du, arme Evelyn,« meinte Narrow tief
 bewegt.
 
 Dann führte er sie die Treppe hinab in seine Kabine.
 
-Miß Graner und die Zofe brachten wir in die unsere.
+Miß Graner und die Zofe brachten wir in die unsrige.
 
 Nach zwei Stunden hatte sich die allgemeine Aufregung
 an Bord gelegt. Die Frauen waren im Salon, den
@@ -541,7 +541,7 @@ entreißen zu helfen. Aber er hatte sich selbst überwunden.
 Er — imponierte mir und wohl auch allen anderen, die
 wir hier zusammensaßen.
 
-Als wir beide uns dann ja unserer Kabine entkleideten,
+Als wir beide uns dann in unserer Kabine entkleideten,
 sagte Harald sinnend:
 
 »Ich fürchte, die arme Evelyn wird eine bittere Enttäuschung
@@ -604,7 +604,7 @@ Connword kehrte dann allein zum Motorboot zurück.
 Wir beide wollten die acht Tiere nach der Bucht bringen,
 wo die beiden Schiffe verankert waren. Connword hatte
 noch nie im Kamelsattel gesessen und hatte daher erklärt,
-er wolle sich dieses »Vergnügen« für den nächsten Tag aufsparen.
+er wolle sich dieses »Vergnügen« für den nächsten Tag aufsparen. —
 
 Außer Sätteln und Zaumzeugen hatten wir auch Wasserschläuche
 und Lebensmittel von den Arabern eingehandelt,
@@ -648,7 +648,7 @@ Sonne und ein paar Aasgeier, die drüben nach Süden
 zu träge über einer Bergkuppe schwebten.
 
 Harst war hier so recht in seinem Element. Er pfiff
-einen Marsch und rief mir zwischenein immer wieder
+vergnügt einen Marsch und rief mir zwischenein immer wieder
 zu:
 
 »Famose Tiere — famose Tiere!«
@@ -804,15 +804,15 @@ Seine Hand beschrieb einen Bogen.
 Und — wie durch Zauberschlag hatte sich links von uns
 die Einöde belebt.
 
-Eine endlose Linie von Kamelreitern kam auf uns zu
-gejagt — mit flatternden weißen Burnussen; flatternden
+Eine endlose Linie von Kamelreitern kam auf uns zugejagt
+— mit flatternden weißen Burnussen, flatternden
 Kopftüchern, deren rote breite Einfassung von weitem leuchtete,
 — mit roten Schärpen um die Hüften, Gewehren in
 den Händen.
 
 Harst hatte schon die Leine durchschnitten, so daß die
 letzten fünf der Kamele nicht mehr uns zu folgen brauchten.
-Nur eins der Lastkamele, nahmen wir so mit auf die Flucht,
+Nur eins der Lastkamele nahmen wir so mit auf die Flucht,
 jagten nun nach Süden, wohin wir allein freie Bahn hatten.
 
 Unsere Tiere waren ausgeruht, waren besser als die
@@ -849,7 +849,7 @@ Reitkamels, das sich sofort überschlug.
 Harst flog aus dem Sattel — flog in den Sand, blieb
 bewußtlos liegen.
 
-Ein Schuß knallte vom Felsen her — ein weiterer.
+Ein Schuß knallte vom Felsen her — ein zweiter.
 
 Auch mein Tier brach zusammen — auch ich schoß über
 dessen Kopf hinweg. Schlug hart auf, verlor die Besinnung.
@@ -1041,7 +1041,7 @@ Schüsse krachten.
 Das — Ende — das Ende!
 
 Und — doch kein Schmerz in der von Kugeln bedrohten
-Brust. Nur — das wahnsinnige Jagen des Herzens,
+Brust, nur — nur das wahnsinnige Jagen des Herzens,
 gesteigert bis zur körperlichen Qual.
 
 Ich lebte noch.
@@ -1249,7 +1249,7 @@ Hirse und Wasser zurück.«
 
 Dann schritt er wieder davon. Die gesamten Beduinen
 brachen auf und führten ihre Tiere nach Norden zu eine
-engpaßähnliche Schlucht hinein. Sehr bald war der letzte
+engpaßähnliche Schlucht hinan. Sehr bald war der letzte
 verschwunden.
 
 Wir vier untersuchten nun erst mal die Vorräte. Da
@@ -1333,7 +1333,7 @@ Mr. Harst. Bedenken Sie, daß der Beduinenstamm offenbar
 das Geheimnis seiner Existenz weiter bewahren will.
 Wir sind unser vier, die nun wissen, daß dieses Rätselvolk
 wirklich vorhanden ist. Nein — ich fürchte weit eher, man
-wird sich nicht weiter um uns kümmern und und hier verhungern
+wird sich nicht weiter um uns kümmern und uns hier verhungern
 und verschmachten lassen.« —
 
 Prenn irrte sich. Der Ausgang dieses Abenteuers war
@@ -1406,7 +1406,7 @@ und doch begnadet mit allem dem Menschen Nötigen, irgendwo
 geben mag,« sagte sie fast feierlich in deutscher
 Sprache. »Wie ich, ein Weib aus einer der Riesenstädte
 Europas, ein Kind der modernen Zeit, eine Heimatlose und
-doch überall Beheimatete, hierher vor zehn Jahren verschlangen
+doch überall Beheimatete, hierher vor zehn Jahren verschlagen
 wurde, geht nur mich etwas an. Wer ich war, wird
 nie jemand erfahren. Wer ich bin, wissen Sie beide: die
 Sultana Eizul des sagenhaften Mischvolkes der Arakruzier,
@@ -1467,7 +1467,7 @@ Wir sahen nur, wie der Löwe plötzlich durch die Luft
 schnellte, Armart nieder riß und ihm mit einem einzigen
 Biß das Genick zermalmte. —
 
-Wir wurden sofort abermals mit verbundenen Augen,
+Wir wurden sofort, abermals mit verbundenen Augen,
 von den Beduinen davongeführt, langten nach stundenlangem
 Marsche wieder in dem Tale an, wo wir dann, ebenso
 <@pagebreak/>
@@ -1494,7 +1494,7 @@ Kollegen in herzlichstem Einvernehmen. —
 
 Da William Prenn einem Reporter einiges über die
 Arakruzier mitgeteilt hatte, wurden auch wir von Zeitungsmenschen
-und Gelehrten bestürmt, näheres über den geheimnisvollsten
+und Gelehrten bestürmt, näheres über den geheimnisvollen
 Stamm im Interesse der Wissenschaft anzugeben.
 Vielleicht sind dem Leser kurze Notizen in der Presse
 vor die Augen gekommen, des Inhalts, daß unsere Erlebnisse
