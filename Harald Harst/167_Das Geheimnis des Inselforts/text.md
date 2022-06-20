@@ -1,51 +1,44 @@
 <@pagebreak/>
-Das Geheimnis des Inselforts
 
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, Busch. das Verfilmungsrecht,
-vorbehalten. — »Copyright 1923 by Verlag moderner
-Lektüre G.&nbsp;in.&nbsp;b.&nbsp;H., Berlin.
-
-Das Geheimnis des Inselforts.
+<#include "intro_short2.ftl">
 
 <h2>1. Kapitel.</h2>
 
-»Mr. Harst,« sagte Betsy Grandell eines Abends, als.
-wir auf der Veranda des weißen Bungalo3 saßen, »wir
-sollten Dom einmal die Insel gründlich durchsuchen … Vielleicht
-finden wir dort doch etwas Interessantes …
+»Mr. Harst,« sagte Betsy Grandell eines Abends, als
+wir auf der Veranda des weißen Bungalows saßen, »wir
+sollten doch einmal die Insel gründlich durchsuchen … Vielleicht
+finden wir dort doch etwas Interessantes …«
 
 Ihr Bruder John drohte ihr lächelnd mit dem Zeigefinger,
 bevor Harald noch etwas antworten konnte …
 
-»Betsy, Betsy …« meinte Dr. Grandell, »du schob ins!
+»Betsy, Betsy …« meinte Dr. Grandell, »du scheinst
 noch immer an das gut erfundene Märchen deines indischen
 Verehrers zu denken — an das Märchen von den verborgenen
-Reichtümern, die er dir verschlossen wollte …!«
+Reichtümern, die er dir verschaffen wollte …!«
 
-Betsy Grandells blonde Lieblichkeit — sich hatte sich in
+Betsy Grandells blonde Lieblichkeit — sie hatte sich in
 den letzten Tagen geradezu wunderbar schnell von den ausgestandenen
 Schrecken erholt — … Betsy Grandells blonde
 Lieblichkeit drückte sich noch tiefer in den Liegestuhl hinein
 und meinte:
 
 »Du solltest Ruwi, den Inder, nie mehr erwähnen,
-John …- Ich bin froh, daß ich über diese traurigen und
+John … Ich bin froh, daß ich über diese traurigen und
 auch so widerwärtigen Dinge so schnell hinweggekommen
 bin …« Und leiser und zaghafter: »Trotzdem glaube ich
 nicht, daß Ruwi mich getäuscht hat … Er tat mir gegenüber
 stets so, als sei hier ganz in der Nähe wirklich ein
-Sohn verborgen, und seine vorsichtigen Andeutungen konnten
-sich eigentlich nur auf die spielt und die alten portugiesischen
-Befestigungen beziehen …
+Schatz verborgen, und seine vorsichtigen Andeutungen konnten
+sich eigentlich nur auf die Insel und die alten portugiesischen
+Befestigungen beziehen …«
 
 <@pagebreak/>
-
 Abermals lachte Dr. Grandell da halb ärgerlich, halb
 belustigt vor sich hin …
 
 »Was sagen Sie nur dazu, Mr. Harst!« wandte er sich
-an. Harald, der auf dem Geländer der Veranda saß und
+an Harald, der auf dem Geländer der Veranda saß und
 sich an einen der Holzpfeiler gelehnt hatte … »Man muß
 meiner Schwester diesen … Unsinn unbedingt ausreden …
 Die kleine Betsy ist so versessen auf Reichtümer, wie ein
@@ -55,32 +48,32 @@ jedenfalls …«
 
 Harald sagte da leise:
 
-»Vielleicht ist Miß Beine Annahme doch nicht so ganz
+»Vielleicht ist Miß Betsys Annahme doch nicht so ganz
 von der Hand zu weisen, lieber Doktor …«
 
 Und er zog seine goldene Taschenuhr, ließ den Deckel
 springen …
 
-»Genau zehn …« sitzt er fort. »Wir wollen einmal
-zur Bootsbrücke hinabgekben … — Kommen Sie nur …
+»Genau zehn …« fuhr er fort. »Wir wollen einmal
+zur Bootsbrücke hinabgehen … — Kommen Sie nur …
 Ich kann Ihnen von dort aus etwas zeigen … etwas
-Harmloses und doch auch Merkwürdiges
+Harmloses und doch auch Merkwürdiges …«
 
 Betsy sprang sofort auf …
 
 »Mr. Harst, Sie haben die Absicht, nach der Insel zu
-Kameraden?« fragte sie lebhaft.
+rudern?« fragte sie lebhaft.
 
 »Nein, das nicht … — Gehen wir …«
 
 Er schritt mit Betsy voraus. —
 
 Dr. Grandells Bungalow lag unweit des Flußarmes
-im Villenviertel der Hafenstadt Negapatam an der Korn«-
-mandelfüste, wie dem Leser aus dem vorigen Band noch
-gegenwärtig sein dürfte. Und genau so dürsten meine:
+im Villenviertel der Hafenstadt Negapatam an der Koromandelküste,
+wie dem Leser aus dem vorigen Band noch
+gegenwärtig sein dürfte. Und genau so dürften meine
 Freunde und Leser sich noch auf die seltsamen Ereignisse besinnen,
-die uns nach Neamwvatam geführt und die dann hier
+die uns nach Negapatam geführt und die dann hier
 eine recht aufregende Fortsetzung gefunden hatten, — so auf
 den Krüppel Tumir und seine beiden Sänftenträger, auf
 Tumirs Bruder Ruwi und auf den verräterischen Diener
@@ -92,7 +85,7 @@ dem Tode gebüßt hatten. —
 
 Als wir vier die kleine zu dem Bungalow gehörige
 Bootsbrücke erreicht hatten, war die Nacht bereits völlig
-hereingebrochen …: Die letzten Sparen des Abendrots
+hereingebrochen … Die letzten Spuren des Abendrots
 waren verschwunden, und über dem Flusse zogen die leichten
 dünnen Streifen nächtlichen Nebels hin wie schwache Rauchfahnen
 von nicht mehr sichtbaren Dampfern.
@@ -106,15 +99,15 @@ Wir schauten und … sahen nichts — nichts …
 
 Betsy wurde ungeduldig …
 
-»Nr. Harst, was soll …«
+»Mr. Harst, was soll …«
 
-»Verzeihen Sie: Etwas höher,« sich Harald ihr
+»Verzeihen Sie: Etwas höher,« fiel Harald ihr
 lächelnd ins Wort …
 
 »Höher?!«
-»Ja … Beachten Sie einmal die soeben aufgefischten
-Sterne … Und besinnen Sie sich, daß wir vorgestern und
 
+»Ja … Beachten Sie einmal die soeben aufgetauchten
+Sterne … Und besinnen Sie sich, daß wir vorgestern und
 gestern um dieselbe Zeit von einer Bootspartie heimkehrten,
 daß wir uns also auch so gegen zehn Uhr hier auf der
 Brücke befanden …«
@@ -122,53 +115,51 @@ Brücke befanden …«
 »Allerdings,« sagte Doktor Grandell eifrig. »Das
 stimmt … Nur — — auch ich sehe nichts …«
 
-»Im — wirklich nicht, Doktor?! — E35 ist da nämlich
+»Hm — wirklich nicht, Doktor?! — Es ist da nämlich
 ein Stern zuviel …«
 
 »Zuviel?!«
 
-»a — es glänzt dort hoch über der Insel ein Lichtlein,
+»Ja — es glänzt dort hoch über der Insel ein Lichtlein,
 das jeder flüchtige Beobachter fraglos für einen Stern
 hält … — So, nun nehmen Sie einmal hier mein Fernglas.
 Ich habe es nicht ohne Grund umgehängt. Ich wollte
 Ihnen beiden und Schraut heute diesen Stern zeigen …«
-… »John — mir das Glas zuerst! Damen haben den
+
+»John — mir das Glas zuerst! Damen haben den
 Vortritt …«
 
-»Bitte, Schwesterlein, — gern … — N’!:-, siehst by
+»Bitte, Schwesterlein, — gern … — Nun, siehst du
 jetzt etwas?«
 
 <@pagebreak/>
 Betsys blonde Lieblichkeit, die auf den schlanken Ruwi
-so fiesen Eindruck gemacht hatte, starrte schräg zum Himmel
-empor, suchte … suchte … Und — — stieß atemlos her
-
-vor:
+so tiefen Eindruck gemacht hatte, starrte schräg zum Himmel
+empor, suchte … suchte … Und — — stieß atemlos hervor:
 
 »Nicht möglich …!! Ein kleiner Ballon …!! Und
 unten an dem Ballon scheint ein Laternchen zu hängen …«
 
 Jetzt wurden auch Grandell und ich lebhaft …
 
-Grandell nahm — Betsy das Fernglas ab …
+Grandell nahm Betsy das Fernglas ab …
 
 »Wahrhaftig, es ist so!« bestätigte er …
 
 Dann kam ich an die Reihe …
 
-größte den Ballon sorgfältiger — mit Detektivaugen …
+Prüfte den Ballon sorgfältiger — mit Detektivaugen …
 
-Es war ein KQugelballon von einer Farbe; die genau
-zu dem Darbenden des Nachthimmels paßte. Mit bloßem
+Es war ein Kugelballon von einer Farbe, die genau
+zu dem Farbton des Nachthimmels paßte. Mit bloßem
 Auge war der Ballon nur für sehr scharfe Augen zu erkennen.
 Und unter dem Ballon glänzte der … falsche Stern.
-
-— Natürlich eine kleine Laterne — was sonst?!
+… Natürlich eine kleine Laterne — was sonst?!
 
 Ich reichte Harst das Glas zurück … Meinte: »Anscheinend
 steht der Ballon genau über der Insel … Und
 dann dürfte die Schnur, an der er befestigt ist, also ebenfalls
-zur Insel hinablaufen …« …
+zur Insel hinablaufen …«
 
 Harald sagte darauf nur:
 
@@ -177,7 +168,8 @@ Harald sagte darauf nur:
 Betsy — erregt: »Sie glauben also, Mr. Harst, daß
 sich noch etwas ereignen wird?«
 
-»Gestimmt, Miß Betsy …
+»Bestimmt, Miß Betsy …«
+
 Wir lehnten nebeneinander am Geländer der Bootsbrücke
 …
 
@@ -188,17 +180,17 @@ stromabwärts hoben sich verschwommen die Umrisse großer
 Seedampfer aus den leichten Nebeln ab … Dort rasselten
 die Ketten von Ladekränen, lärmten die indischen Stauer,
 heulten Sirenen und gellten die schrillen Pfeifen von eiligen
-ESqchleppern …
+Schleppern …
 
 »Also ein Signal,« erklärte Doktor Grandell nach einer
 <@pagebreak/>
-Weile. »Was soll es sonst sein?! Eis kann sich doch nur um
+Weile. »Was soll es sonst sein?! Es kann sich doch nur um
 ein Signal handeln …«
 
 »Fraglos!« nickte Harst …
 
-Betsy fläösterte: »Wenn etwa die beiden Sänftenkulis
-auf der Insel hielten — und vielleicht auch unser ungetreuer
+Betsy flüsterte: »Wenn etwa die beiden Sänftenkulis
+auf der Insel steckten — und vielleicht auch unser ungetreuer
 Diener Laska?!«
 
 Harst schwieg …
@@ -208,18 +200,17 @@ ununterbrochen Ballon und Laternchen beobachtete …
 
 So verging eine volle Stunde …
 
-John Grandell hatte ich eine Zigarre angezündet …
+John Grandell hatte sich eine Zigarre angezündet …
 Murrte …
 
-B; »Herrschaften, es ist halb zwölf … Gehen wir zu
-Bett …
+»Herrschaften, es ist halb zwölf … Gehen wir zu
+Bett …«
 
-gar gähnte verstohlen …
+Harst gähnte verstohlen …
 
-»Stimmt — gehen wir besser zu Bett … Mrs;gen ist
-auch »noch ein Tag. Morgen werden wir rehtzireitig zur
-Stelle sein und achtgeben, von wo der Ballon aussteigt …
-
+»Stimmt — gehen wir besser zu Bett … Morgen ist
+auch noch ein Tag. Morgen werden wir rechtzeitig zur
+Stelle sein und achtgeben, von wo der Ballon aufsteigt …
 — Kommen Sie, Miß Betsy … Die Mücken werden immer
 frecher …«
 
@@ -236,15 +227,15 @@ Ich stand im Dunkeln vor Harald …
 
 »Beabsichtigst du etwa …«
 
-— Miß Betsy von einer Unbesonnenbheit zurüczuhab
-ten?« — Allerdings, das will ich! Steigen wir durch das
+»… Miß Betsy von einer Unbesonnenheit zurückzuhalten?
+— Allerdings, das will ich! Steigen wir durch das
 Fenster auf die Veranda, nehmen wir unsere Mützen und unser
-Handwerkszeug mit … —
+Handwerkszeug mit …« —
 
-Betsys Schlafzimmer Tag auf der anderen Seite des
-Hauses. Da aber diese leichten, luftigen Bar »anlaufen
-alle mit Veranden schlichen sind, die ohne 13. «; Drohung
-sich um das ganze Gebäude herumziehen, so Stunden mit
+Betsys Schlafzimmer lag auf der anderen Seite des
+Hauses. Da aber diese leichten, luftigen Bungalowbauten
+alle mit Veranden versehen sind, die ohne Unterbrechung
+sich um das ganze Gebäude herumziehen, so konnten wir
 <@pagebreak/>
 unschwer bis zu den beiden Fenstern kriechend vordringen
 — bis zu jenen Fenstern, von denen das eine in »Miß
@@ -259,7 +250,7 @@ Warteten …
 Und die Zeit verging …
 
 Irgendwo in der Ferne schlug eine Uhr Mitternacht
-—» — solle…
+— — zwölf …
 
 »Die Uhr der englischen Kirche,« flüsterte Harald und
 … erhob sich …
@@ -271,14 +262,15 @@ Prüfte …
 Und — der eine Flügel war nur zugedrückt, nicht verriegelt
 …
 
-Harst stieß ihn nach innen aus und schob den Vorhang
+Harst stieß ihn nach innen auf und schob den Vorhang
 beiseite …
 
 Seine Taschenlampe blitzte … Der Lichtkegel fiel ins
 Zimmer …
+
 Leer …
 
-her das Bett …
+Leer das Bett …
 
 »Ein Unfug von dem Mädel!« sagte Harald ärgerlich.
 »Sie ist uns zuvorgekommen …! — Vorwärts — auf dem
@@ -292,48 +284,49 @@ erreicht, der das Ufer hier in weiter Ausdehnung bedeckte …
 Jetzt im Schritt … Vorsicht war hier geboten … Das
 Dickicht beherbergte giftiges Gewürm … John Grandell
 hatte das unlängst am eigenen Leibe erfahren, und Harald
-hatte den Kopf einer von mir mit einem halben Ruder Geschlagenen
-Kobra sauber präpariert, nicht den ganzen Kopf,
+hatte den Kopf einer von mir mit einem halben Ruder
+erschlagenen Kobra sauber präpariert, nicht den ganzen Kopf,
 nur den Kiefer mit den Giftzähnen — zu Tumirs Unheil!!
 
-Im Schritt also durch das Gestell« … um Wasser
-— 32m hoben erstickt, wo Tumir und die seiner unter
+Im Schritt also durch das Gestrüpp … Zum Wasser
+— zum hohen Röhricht, wo Tumir und die Seinen unter
 <@pagebreak/>
-Wasser einen Lauteres angelegt hatten — hinüber bis zum
+Wasser einen Laufsteg angelegt hatten — hinüber bis zum
 alten Inselteil …
-Harst am Ufer machten wir im Schatten eines Baumes
-alt …
+
+Hart am Ufer machten wir im Schatten eines Baumes
+halt …
+
 Spähten nach oben …
+
 Der Ballon, der falsche Stern waren verschwunden …
+
 Und … Betsy?!
-Ob sie es wirklich gefragt hatte, allein die Insel zu betreten?!
+
+Ob sie es wirklich gewagt hatte, allein die Insel zu betreten?!
 
 Nicht lange waren wir im Zweifel …
 
-Ganz leise eine weiche Stimme rechts von uns:-
+Ganz leise eine weiche Stimme rechts von uns:
 
 »Mr. Harst, — — hier Betsy Grandell …!«
 
-Laute? kam sie zum Vorschein …
+Lautlos kam sie zum Vorschein …
 
 »Mr. Harst,« flüsterte sie hastig, »ich habe … alles beobachtet
 …«
 
-Harald raunte ihr zu:«
+Harald raunte ihr zu:
 
 »Wie konnten Sie nur so leichtsinnig sein, Miß Betsy!«
 
 »O — hören Sie nur erst, was ich gesehen habe, und
 Sie werden mich nicht mehr schelten …«
 
-…
--. Omen —
-ch= « — GG
-
 <h2>9. Kapitel.</h2>
 
-In ihrem seidenen Staubmantel und der braunen, wer-.
-sehen Seglerkappe aus Wachstuch war sie gegen den dunklen
+In ihrem seidenen Staubmantel und der braunen, weichen
+Seglerkappe aus Wachstuch war sie gegen den dunklen
 Hintergrund kaum zu erkennen.
 
 »Was sahen Sie, Miß Betsy?« fragte Harald leise …
@@ -350,52 +343,50 @@ erlosch. Dann wurde der Ballon eingeholt …«
 »Zur Insel hinab?«
 
 <@pagebreak/>
-»I …«
+»Ja …«
 
-»Und — 1wa8 dann?« Harald wurde bereits etwas
+»Und — was dann?« Harald wurde bereits etwas
 ungeduldig …
 
 »O — Sie werden vielleicht denken, Mr. Harst, ich sei
 einer Sinnestäuschung zum Opfer gefallen, meine lebhafte
-Phantasie hätte mir etwas vorgegaukelt … Denn: sechs
+Phantasie hätte mir etwas vorgegaukelt … Denn: Sechs
 Europäer verließen nach einer Weile die Insel …«
 
-»Etwa hier über den geheimen Lauteres?«
+»Etwa hier über den geheimen Laufsteg?«
 
-»Nein, nein …? Das war es ja eben … Die sechs
+»Nein, nein …! Das war es ja eben … Die sechs
 Männer erschienen in Zwischenräumen von vielleicht vier
 Minuten dort links unten am Inselufer, also unterhalb der
-nördlichen Bastion des ehemaligen Forts … Sie kommen
-die Stelle von hier aus erkennen … Es sind dort zu Ufer
+nördlichen Bastion des ehemaligen Forts … Sie können
+die Stelle von hier aus erkennen … Es sind dort am Ufer
 zwei große entwurzelte Bäume angeschwemmt …«
 
 »Ja … die Kronen der Bäume bilden gleichsam zwei
 Gebüsche im Wasser …«
 
 »Zwischen diesen Baumkronen stiegen die Leute ins
-Wasser, Mr. Harst, — Wie gesagt in länocren’ Abständen.
-
-Sie müssen sich? dann schwimmend entfernt haben …
-Ein Boot hätte ich sehen müssen …-
+Wasser, Mr. Harst, — Wie gesagt in längeren Abständen.
+… Sie müssen sich dann schwimmend entfernt haben …
+Ein Boot hätte ich sehen müssen …«
 
 »Nun gut, Miß Betsy … Also sechs Männer … Und
 deren Äußeres?«
 
-»Bitte .— lachen Sie mich nicht aus … Sie trugen
-Masken — schwarze Musiker, im übrigen Tropenhelme und
+»Bitte — lachen Sie mich nicht aus … Sie trugen
+Masken — schwarze Masken, im übrigen Tropenhelme und
 gelbgraue Leinensportanzüge mit Wickelgamaschen … —
-Vier — iF hatte mein Fernglas mitgenommen, Mr. Harst.
-
-… I sah alles ganz genau …!«
+Hier — ich hatte mein Fernglas mitgenommen, Mr. Harst.
+… Ich sah alles ganz genau …!«
 
 »Woran ich nicht zu zweifeln wage, Miß Betsy …
 Weshalb auch?! Nur erscheint es mir wenig wahrscheinlich,
 daß die Männer davongeschwommen sind …«
 
-»Ehe kann nicht andere sein, Mr. Harst … Ich Wiederhole:
-Cm Boot hätte ich sehen müssen — unbedingt …!«
+»Es kann nicht anders sein, Mr. Harst … Ich Wiederhole:
+Ein Boot hätte ich sehen müssen — unbedingt …!«
 
-»über doch auch die Köpfe der Schwimmer …« meinte
+»Aber doch auch die Köpfe der Schwimmer …« meinte
 Harald nachdenklich. »Der Fluß ist hier ziemlich nebelfrei …
 Die Sterne spiegeln sich im Wasser wider, und mit Ihrem
 Fernglas …«
@@ -404,25 +395,25 @@ Fernglas …«
 Betsy unterbrach ihn: »Das Schilf am Ufer steht recht
 hoch, Mr. Harst …«
 
-»ein Schilf kann man nicht schwimmen, und erst recht
+»Im Schilf kann man nicht schwimmen, und erst recht
 nicht darin entlang waten … Der Flußgrund dicht an der
 Insel ist morastig, Miß Betsy …«
 
 Das junge Mädchen wurde erregt …
 
-»Zu wußte es ja, daß Sie an meinen Worten zweifeln
+»Ich wußte es ja, daß Sie an meinen Worten zweifeln
 würden, obwohl Sie noch soeben das Gegenteil behaupteten,
 Mr. Harst …«
 
 »Durchaus nicht … Es handelt sich hier lediglich um
 die Art, wie die sechs die Insel verlassen haben — nur
 darum! doch — das wird ja aufgeklärt werden. — Etwas
-»anderes also: Die Tropenhelme und die Anzüge beweisen
-doch noch lange nicht, daß es Europäer traten … Ecke können
-auch Zunder gewesen sein, hier in jedeimn Falle das wahrscheinlichere
-…««
+anderes also: Die Tropenhelme und die Anzüge beweisen
+doch noch lange nicht, daß es Europäer waren … Es können
+auch Inder gewesen sein, hier in jedem Falle das
+wahrscheinlichere …«
 
-»Ilondhaarige Inder sind äußerst selten, Mr. Harst,«
+»Blondhaarige Inder sind äußerst selten, Mr. Harst,«
 erklärte Betsy Grandell sehr bestimmt. »Die sechs waren
 blond … Ich sah das Schläfenhaar …«
 
@@ -447,39 +438,39 @@ mehr erreichen …«
 
 Aber Betsy Grandell widersprach …
 
-»See ist noch noch gar nicht so spät, Mr. Harst … Weshalb
+»Es ist doch noch gar nicht so spät, Mr. Harst … Weshalb
 wollen wir nicht noch hinüber und wenigstens nach
 <@pagebreak/>
 dem Ballon suchen?! Er muß doch zu finden sein, und …«
 
-»… Und — was hätte das für einen Zweck?! Wir
+»… und — was hätte das für einen Zweck?! Wir
 würden nur Spuren hinterlassen und die Leute dadurch warnen.
 — Nein, gehen wir … Man darf nie etwas übereilen,
 Miß Betsy … Geduld ist die Hauptsache, wenn man
-ein schwieriges Rätsel losen wir … Wer etwas übereilt,
+ein schwieriges Rätsel lösen will … Wer etwas übereilt,
 kommt nie zum Ziel … — Gehen wir!«
 
 Betsy gab mit leisem Seufzer nach …
 
 Wir schlichen lautlos davon, wie wir gekommen waren.
 
-Erreichten das unbebaute Grundstü und halten Betsy
+Erreichten das unbebaute Grundstück und halfen Betsy
 über den Zaun …
 
 Um ein Uhr morgens waren wir in unserem Zimmer
 und legten uns zu Bett. Harald sprach kein Wort mehr.
 Aber im Bett rauchte er noch mehrere Zigaretten … Als
 ich einschlief, lag er noch mit aufgestützten Kopfe da und
-es fraglos über den falschen Stern und die sechs Leute
-nach …«-
+sann fraglos über den falschen Stern und die sechs Leute
+nach …
 
 Auch ich tat’s, bevor meine Gedanken in das Traumreich
 hinüberglitten … Ich wußte nicht, was ich von alledem
 halten sollte. Nur eins erschien mir gewiß: Die sechs
-Waren niemals Europäer! Hier in Negapatam und Umgegend
+waren niemals Europäer! Hier in Negapatam und Umgegend
 gab es nicht allzu viele Weiße, und daß gleich sechs
 Leute sich zusammengetan haben sollten, um etwa nach einem
-Schloß auf der Insel zu suchen, kam mir sehr wenig wahrscheinlich
+Schatz auf der Insel zu suchen, kam mir sehr wenig wahrscheinlich
 vor …
 
 Darüber schlief ich ein … — —
@@ -491,17 +482,17 @@ Standpauke ihres nächtlichen Ausflugs wegen hielt, den
 wir ihm nicht gut hatten verschweigen können, kam plötzlich
 von der Gartenpforte her Reginald Blooß den Hauptweg
 entlang, ein junger Engländer, der sehr häufig bei Grandell
-verkehrte und mit dem wir bereits einige Schachpartien
+verkehrte und mit dem wir bereits einige Segelpartien
 unternommen hatten — ein netter, frischer Mensch, der hier
 <@pagebreak/>
 in Negapatam die Firma seines Vaters, Blooß, London,
 vertrat und die hiesige Zweigniederlassung leitete.
 
 Schon von weitem schwenkte er seinen Panama, rief
-uns zu, ob wir nicht mit ihm heute nach Papiere, einer
+uns zu, ob wir nicht mit ihm heute nach Tanjore, einer
 Stadt weit flußaufwärts, fahren wollten …
 
-Drückte uns die: Hand, küßte galant Betsys schmales
+Drückte uns die Hand, küßte galant Betsys schmales
 Händchen und schaute sie dabei wieder so still flehend an,
 daß selbst der schlechteste Menschenkenner erraten hätte, wie
 die Sachen hier standen:
@@ -512,36 +503,36 @@ ohne Aussicht!
 Dann nahm er mit am Tische Platz und begann von
 Tanjore zu schwärmen …
 
-… Uralte indische Stadt … Uralte Tempel … Eine
+»… Uralte indische Stadt … Uralte Tempel … Eine
 Basarstraße, die sich sehen lassen kann … — Bitte, kommen
-Sie doch mit … Meine Motkorjacht schafft den Weg in vier
+Sie doch mit … Meine Motorjacht schafft den Weg in vier
 Stunden … Für tadellose Verpflegung an Bord werde ich
 sorgen … Um elf Uhr abends sind wir wieder zurück —
 spätestens!« Er wandte sich dabei hauptsächlich an Betsy …
 
 Doch die erklärte ablehnend:
 
-»34 bin zu müde … Aber wenn die Herren fahren
-wollen …« Gas galt Doktor Grandell und uns beiden.
+»Ich bin zu müde … Aber wenn die Herren fahren
+wollen …« Das galt Doktor Grandell und uns beiden.
 
-Grandell ahnte genau so gut! wie wir, weshalb Betsy
+Grandell ahnte genau so gut wie wir, weshalb Betsy
 auf den Ausflug verzichtete: Nur der Insel und des …
 falschen Sternes wegen — nur deshalb!
 
 Reginald Blooß wurde noch dringlicher … Schließlich
 sprach John ein Machtwort:
 
-»Wir fahren, Bett y! Zerstreuung Wut dir nur gut …«
+»Wir fahren, Betsy! Zerstreuung tut dir nur gut …«
 
-Das junge Märchen warf Blooß einen bitterbösen
+Das junge Mädchen warf Blooß einen bitterbösen
 Blick zu …
 
-»I4g habe Kopfschmerzen … Ich bleibe daheim,« —
+»Ich habe Kopfschmerzen … Ich bleibe daheim,« —
 und sie erhob sich und ging ins Haus …
 
-Der Doktor wilde vor Morgen rot …
+Der Doktor wurde vor Ärger rot …
 
-»Ich werde Betsy den Kopf zurchtseben,« meinte er …
+»Ich werde Betsy den Kopf zurechtsetzen,« meinte er …
 »Entschuldigen Sie mich …«
 
 Und er eilte ihr nach.
@@ -557,9 +548,8 @@ Charakter … —
 
 Um es kurz zu machen: Betsy kam mit! Freilich unter
 der Bedingung, daß wir spätestens um zehn Uhr abends
-wieder in Negapatiam sein müßten, was Reginald auch zum
-
-sagte
+wieder in Negapatam sein müßten, was Reginald auch zusagte
+…
 
 Der Ausflug nach dem alten Tanjore enttäuschte uns
 denn auch in keiner Weise. Auf Einzelheiten kann ich mich
@@ -579,26 +569,26 @@ Auslagetisch eines Händlers stehen geblieben, der, würdig
 und weißbärtig wie ein Patriarch, an der Hausmauer hinter
 dem Tische lehnte und kaum Notiz von uns nahm …
 Ganz im Gegensatz zu seinen Kollegen ringsum, die durch
-allerlei kniete die Aufmerksamkeit auf sich zu lenken suchten
+allerlei Kniffe die Aufmerksamkeit auf sich zu lenken suchten
 …
 
 Reginald Blooß, der kaum von Betsys Seite wich,
 hatte uns auf ein Ebenholztischen mit reichen Elfenbeineinlagen
 und Metallverzierungen aufmerksam gemacht, und
 war es nun auch, der den alten Händler nach dem Preise
-ragte.
+fragte.
 
 Der Patriarch nannte schläfrig eine verhältnismäßig
-geringe Summe … Und Blooß hatte denn aus nichts Eili-gere3
+geringe Summe … Und Blooß hatte denn auch nichts Eiligeres
 <@pagebreak/>
 zu tun, als den Kaufpreis dem Alten in die Hand zu
 drücken …
 
 »Das Tischchen ist beschädigt, Sahib …« meinte da
-der greise Händler mit verblüffender Ehrlichkeit, »Scheich es
+der greise Händler mit verblüffender Ehrlichkeit. »Besieh es
 dir, bitte, erst genau, Sahib … Ich betrüge niemand …
 Ich habe es vor zwanzig Jahren in Negapatam gekauft und
-es soll aus den Ruinen eines Gebäudes aus« der Portugiesenzeit
+es soll aus den Ruinen eines Gebäudes aus der Portugiesenzeit
 stammen …«
 
 bisher hatte Betsy für das kleine dreibeinige Tischchen
@@ -609,9 +599,9 @@ an den Alten …
 aus den Ruinen des Inselforts am Flusse?«
 
 Der Händler erwiderte mit seiner brüchigen monotonen
-Stimme: »das weiß ich nicht, Memsahib (meine Dame)…
+Stimme: »das weiß ich nicht, Memsahib (meine Dame) …
 Hier ist die Beschädigung …« Und er zeigte auf das eine
-Bein, an: dem die Elfenbeineinlagen herausgefallen waren.
+Bein, an dem die Elfenbeineinlagen herausgefallen waren.
 
 Reginald Blooß schaute Betsy bittend an …
 
@@ -622,15 +612,15 @@ nichts dagegen …«
 Der Doktor lachte … »Nein, gewiß nicht! Zumal
 Betsy sich offenbar auch nicht ablehnend verhalten will …«
 Und er zwinkerte seiner Schwester listig zu … Merkte er
-doch, daß sie inöSgeheim hoffte, das Tischchen könnte aus dem
-alten Fort stammen, das ja jetzt in ihrer Ehrenwort eine [0
+doch, daß sie insgeheim hoffte, das Tischchen könnte aus dem
+alten Fort stammen, das ja jetzt in ihrer Ideenwelt eine so
 besondere Rolle spielte. — Im übrigen hatten wir Blooß
 nichts von den Vorgängen der Nacht mitgeteilt. Er war
 völlig ahnungslos, was Betsys energischen Wunsch, schon
 um zehn Uhr wieder in Negapatam zu sein, anbetraf.
 
-Jedenfalls: Betsy nahm das Geschenk an, und Welt
-junge Engländer Freude sich darüber wie ein harmloser Verliebter,
+Jedenfalls: Betsy nahm das Geschenk an, und der
+junge Engländer freute sich darüber wie ein harmloser Verliebter,
 der endlich einmal Gelegenheit hat, der Erkorenen
 seines Herzens eine kleine Freude zu bereiten.
 
@@ -641,55 +631,56 @@ an.
 
 <h2>3. Kapitel.</h2>
 
-Das erste, was Betsy nach unserer Rückkehr an Bord.
-der Jacht tat, war eine ganz genaue Besichtigung des Ebenholztischchens.
+Das erste, was Betsy nach unserer Rückkehr an Bord
+der Jacht tat, war eine ganz genaue Besichtigung des
+Ebenholztischchens.
 
 Wir saßen in Korbsesseln auf dem Achterdeck unter dem
 Sonnensegel, und auch Harald nahm das zierliche Ding
 nachher in die Hand und meinte, der Händler schiene doch
 kein großer Sachkenner zu sein, denn das Tischchen habe
-offenbar den drei- bis vielfachen Wert …
+offenbar den drei- bis vierfachen Wert …
 
 Die Elfenbeineinlagen auf der achteckigen Tischplatte
 zeigten irgendeine indische Gottheit, deren Augen sogar aus
-kleinen Smaragden bestanden. Außerdem trug der Höhe
+kleinen Smaragden bestanden. Außerdem trug der Götze
 noch eine Art Krone, die ohne Zweifel aus Gold bestand.
 
-Auch Doktor Grandell bestätigte, dieser Lauf sei in der
+Auch Doktor Grandell bestätigte, dieser Kauf sei in der
 Tat überaus günstig gewesen …
 
 Wollte noch etwas hinzufügen, als Betsy einen leisen
 Schrei ausstieß …
 
-»Du, — — Mr. Harst, wie haben Sie das gemacht?!«
+»O, — — Mr. Harst, wie haben Sie das gemacht?!«
 rief sie dann staunend …
 
-Da wurden auch) wir anderen aufmerksam, sahen, daß
+Da wurden auch wir anderen aufmerksam, sahen, daß
 das Postament, auf dem der Götze hockte, der Deckel eines
 Geheimfaches und jetzt hochgeklappt war …
 
-Harald sagte Kopf, Schüttelnd:
+Harald sagte kopfschüttelnd:
 
 »Ein bloßer Zufall, nichts weiter, Miß Betsy … Ich
-drückte wie spielend aus die goldene Krone — hier auf diese
+drückte wie spielend auf die goldene Krone — hier auf diese
 Stelle … und der Deckel sprang auf …«
 
 Wieder rief Betsy:
 
-»D0 — — es liegt etwas in dem kleinen Behältnis …
+»Da — — es liegt etwas in dem kleinen Behältnis …
 eine Papierrolle …!«
 
 Harst hatte sie schon behutsam herausgenommen …
 
-»Recht Garten, — zusamimengerolltes Pergament …!«
+»Nicht Papier, — zusammengerolltes Pergament …!«
 
 Wir beugten uns weit vor …
 
-Luüngsam rollte er das Pergamentstück auf …
+Langsam rollte er das Pergamentstück auf …
 
-»ohne Zeichnung — — ein Geheimnis!« jubelte Betsy.
+»Eine Zeichnung — — ein Geheimnis!« jubelte Betsy.
 
-E32 stimmte: Auf der Innenseite des Pergaments war
+Es stimmte: Auf der Innenseite des Pergaments war
 <@pagebreak/>
 eine verwaschene Zeichnung in blutroten Strichen zu erkennen
 …
@@ -698,20 +689,20 @@ eine verwaschene Zeichnung in blutroten Strichen zu erkennen
 was die Zeichnung bedeutet … Bitte, bitte …!
 Das ist doch gerade eine Arbeit für Sie, Mr. Harst …!«
 
-»Vielleicht … Solche Arbeit erfordert ’-7och Ruhe
-und Sammlung … Sie sehen ja, aus den ersten Blick
+»Vielleicht … Solche Arbeit erfordert jedoch Ruhe
+und Sammlung … Sie sehen ja, auf den ersten Blick
 kann man sich unmöglich aus diesem Gewirr von Linien
 herausfinden … Wenn Sie mir das Pergament also bis
 morgen anvertrauen wollen, Miß Betsy …«
 
 »Gern, sehr gern …« — Und dann wanderte die Zeichnung
-zunächst voll von Hand zu Hand … Bis Harald sie
-in seine Brieftasche steckte, wo sie vor « alten, Rost und
+zunächst noch von Hand zu Hand … Bis Harald sie
+in seine Brieftasche steckte, wo sie vor »Motten, Rost und
 Dieben« sicher sei, wie er scherzend zu Betsy meinte, für
-deren ausgesprochenen Hang zur Romantik das Stück Pexr-gament
-einen wahren Schatz vorstellte,« —
+deren ausgesprochenen Hang zur Romantik das Stück Pergament
+einen wahren Schatz vorstellte,«
 
-Glücklicher Reginald Blooß …? Er durfte jetzt mit
+Glücklicher Reginald Blooß …! Er durfte jetzt mit
 Recht im siebenten Himmel schweben, denn Betsys blonde
 Lieblichkeit behandelte ihn auf der Heimfahrt so, wie er’s
 seit langem gewünscht hatte …
@@ -723,34 +714,33 @@ die alle den schönen Schluß hatten: Die Zeichnung
 würde ungeheure Reichtümer ans Tageslicht bringen!
 
 Nur wenn der bei Tisch bedienende Matrose die Kajüte
-betrat, zügelte Betsy voksichtig ihre Nedesrendigakeit,
+betrat, zügelte Betsy vorsichtig ihre Redefreudigkeit,
 denn — so hatte sie von uns »auf Ehrenwort« verlangt:
 Niemand dürfe von dem Pergament etwas erfahren!
 
 Dieser kleine Spleen der schlanken Betsy gab uns Herren
-— mit Ausnahme Reginalds, der Sold) es nicht gewagt
+— mit Ausnahme Reginalds, der solches nicht gewagt
 hätte — Anlaß genug zu halb witzigen, halb ironischen
-Sticheleien … Es wurde eine recht vergnügte Rückreise.
+Sticheleien … Es wurde eine recht vergnügte Rückreise,
 und als die Jacht uns dann um drei Viertel zehn an der
-Granudellichen Bootsbrücke absetzte, reichte Betsy ihrem Verehrer
+Grandellschen Bootsbrücke absetzte, reichte Betsy ihrem Verehrer
 <@pagebreak/>
 nochmals mit bezauberndem Lächeln die Hand und
 meinte herzlich:
 
-»» Morgen vormittag dürfen Sie einmal anfragen kommen,
+»Morgen vormittag dürfen Sie einmal anfragen kommen,
 was Mr. Harst hinsichtlich der Zeichnung festgestellt
 hat … Auf Wiedersehen also, lieber Mr. Blooß …«
 
 Na — Mr. Blooß war selig — selig! Endlich hatte er
-in den eleganter um Betsys kühles letzten eine Bresche
-geschlagen — lediglich durch« das Tischchen, das Betsy eigenhändig
+in den Eispanzer um Betsys kühles Herzchen eine Bresche
+geschlagen — lediglich durch das Tischchen, das Betsy eigenhändig
 ins Haus trug …
 
 Und diese Freude an dem Geheimnis des Tischchens
-ging bei ihr so weit, daß sie sogar die Insel, die sechs unseren
+ging bei ihr so weit, daß sie sogar die Insel, die sechs Maskierten
 und den falschen Stern vollständig vergessen zu haben
-
-Bojen …
+schien …
 
 Kein Wort mehr davon, daß sie in dieser Nacht uns
 begleiten wolle … Nein, im Gegenteil: Sie bat Harald,
@@ -760,7 +750,7 @@ machen, — was Harst auch todernst zusagte.
 Um halb elf waren wir beide dann in unserem Zimmer
 allein …
 
-Das Türfenster naß der Veranda hin stand noch offen,
+Das Türfenster nach der Veranda hin stand noch offen,
 und während ich, ermüdet von diesem abwechslungsreichen
 Tage, gähnend in einen Sessel sank, schaltete Harald
 die Lampe auf dem Sofatisch ein und nahm neben mir
@@ -769,13 +759,13 @@ leicht parfümierten Mirakulum an …
 
 Ich glaubte, er würde sich nun kurze Zeit wirklich dem
 Pergamentstück widmen, und dann würden wir beide das
-fraglos Interessantere erledigen: Das Inselteil besuchen
+fraglos Interessantere erledigen: Das Inselfort besuchen
 und die sechs Männer ein wenig unter die Lupe nehmen!
 
-Aber — er rührte sich nicht … Satz, rauchte und sann
+Aber — er rührte sich nicht … Saß, rauchte und sann
 vor sich hin …
 
-Sie ich ihm, bildlich gesprochen, einen leisen Rippenstoß
+Bis ich ihm, bildlich gesprochen, einen leisen Rippenstoß
 versetzte …
 
 Er lachte leise auf …
@@ -791,21 +781,21 @@ Ich vergaß das Gähnen …
 »Leiser, bitte …!« Er wurde ernst. »Solltest du wirklich
 nicht erkannt haben, daß die Skizze die Insel darstellt?!«
 
-»Wahrhaftig — — die Sortinjelrt
+»Wahrhaftig — — die Fortinsel?!«
 
-»Ja — ohne Zweifel …
+»Ja — ohne Zweifel …!«
 
-»Dann … dann könnte ’Betsy also vielleicht doch gar
-nicht »so arg im Irrtum sein, wenn sie aus Ruwis Andeutungen
+»Dann … dann könnte Betsy also vielleicht doch gar
+nicht so arg im Irrtum sein, wenn sie aus Ruwis Andeutungen
 …«
 
 Er winkte mit der Hand …
 
-»Feine voreiligen Schlüsse …? — Du bist übrigens
-doch nicht ganz im Bilde. sicher Alter …«
+»Keine voreiligen Schlüsse …! — Du bist übrigens
+doch nicht ganz im Bilde, lieber Alter …«
 
 Er schien noch mehr sagen zu wollen, schwieg jedoch und
-schaute durch die offene Tür in den Garten hinaus — Über
+schaute durch die offene Tür in den Garten hinaus — über
 das Geländer der Veranda hinweg, auf dem bereits die
 ersten Mondstrahlen milde glänzten …
 
@@ -817,12 +807,12 @@ wir also, obwohl …«
 
 Und wieder verstummte er …
 
-»Du bist ja höllisch zerstreut!« sagte ich ein wenig 6se-
-reizt … »Möchtest Ei nicht erklären, was auf dieses »Obwohl
+»Du bist ja höllisch zerstreut!« sagte ich ein wenig gereizt
+… »Möchtest du nicht erklären, was auf dieses »Obwohl
 …« folgen sollte?!«
 
 »Nein … Denn ich unterstütze deine Denkfaulheit prinzipiell
-nicht — —! — Machen wir uns fertig … —
+nicht — —! — Machen wir uns fertig …« —
 
 Stumm traten wir den Weg nach der Insel an …
 Ich etwas beleidigt, denn Haralds ironische Art fällt einem
@@ -835,13 +825,13 @@ aus …
 
 Nichts War zu sehen …
 
-Düster und ihn lag die ’? Leine Glutmeer mit ihren vom
+Düster und still lag die kleine Flußinsel mit ihren vom
 Dickicht überwucherten Ruinen da …
 
 Harald sagte auch jetzt nichts …
 
 <@pagebreak/>
-vollen wir hinüber?« meinte ich …
+»Wollen wir hinüber?« meinte ich …
 
 »Wir können ja …! Zweck hat es kaum …«
 
@@ -852,38 +842,39 @@ vollen wir hinüber?« meinte ich …
 Er wurde mir immer unverständlicher …
 
 Vorsichtig durchquerten wir die Büsche, bis wir die
-
-Üe des Tiere vor uns hatten, wo der Lauteres durch das
-Unrecht den Passendem zwischen Festland und Insel Abende
+Stelle des Ufers vor uns hatten, wo der Laufsteg durch das
+Röhricht den Wasserarm zwischen Festland und Insel überbrückte
 …
 
 Da war an der Uferböschung ein alter, schräger Baum,
-von dem aus man am leichtesten sich auf den Lauteres schwingen
+von dem aus man am leichtesten sich auf den Laufsteg schwingen
 konnte …
 
-Harald erfaßte Omen der Reste dieses Baumes und
+Harald erfaßte einen der Äste dieses Baumes und
 wollte gerade den rechten Fuß auf eine vorspringende Wurzel
 stellen, als ich — mehr ein Zufall — nochmals den
 Sternenhimmel über der Insel musterte …
 
 »Halt,« ließ ich leise und packte Harsts Schulter …
-»her Ballon …!!«
-oh Wirklich —’— Dort schoß er von der Insel aus in die
-Hohe …
+»Der Ballon …!!«
+
+Wirklich — — Dort schoß er von der Insel aus in die
+Höhe …
+
 So schnell, daß die unter ihm hängende Laterne fast
 den Eindruck einer Rakete machte … — wie ein leuchtender
-Strich … —
+Strich …
 
 Dann stand der Ballon still, vielleicht achtzig Meter
 hoch … wurde vom Nachtwind etwas zur Seite gedrückt
 und pendelte nur ganz wenig hin und her,
 
-Harald halte sich wieder neben mich in den Schatten
+Harald hatte sich wieder neben mich in den Schatten
 der Büsche gestellt …
 
 Wir beobachteten …
 
-Dann flüsterte Harst? »Das Pergament scheint doch
+Dann flüsterte Harst: »Das Pergament scheint doch
 nicht mit dem … falschen Stern in Verbindung zu stehen …«
 — eine Bemerkung, die mir genau so unklar war, wie Haralds
 ganzes Verhalten …
@@ -891,18 +882,18 @@ ganzes Verhalten …
 Immerhin hatte sich sein Benehmen jetzt insofern geändert,
 als er in lebhafterem Tone hinzufügte:
 
-» Dann also hinüber …! Aber Vorsicht, mein Alter …
-
+»Dann also hinüber …! Aber Vorsicht, mein Alter …
 <@pagebreak/>
 Stecken wir unsere Knallbüchsen entsichert in die Jackentaschen
 … Du bleibst fünf Schritt hinter mir … Die Geschichte
 hier ist doch nicht ganz sauber …«
 
 Und er faßte nach dem Ast des schrägen Baumes, war
-im Augenblick auf dem Lauteres und schritt sehr behutsam,
+im Augenblick auf dem Laufsteg und schritt sehr behutsam,
 bis zur halben Wade im Wasser, über den schlüpfrigen
 Steg …
-934 folgte ebenso behutsam … Um nicht auszustellen,
+
+Ich folgte ebenso behutsam … Um nicht auszugleiten,
 hielt ich mich an den Rohrstengeln fest. Die Strecke bis zur
 Insel betrug kaum zwanzig Meter. Wir kamen auch glücklich
 hinüber, hatten nun den Winkel zwischen zwei Bastionen
@@ -911,7 +902,7 @@ früheren Fort befand.
 
 Dieses dunkle, tunnelartige Tor kannten wir bereits …
 Es führte auf den ehemaligen Innenhof der kleinen Feste,
-der zum, größten Teil ebenfalls zugewachsen war. Nur eine
+der zum größten Teil ebenfalls zugewachsen war. Nur eine
 wenig ausgedehnte Lichtung war hier noch vorhanden, aus
 der linker Hand die Röhrichthütte sich erhob, wo wir damals
 erst Betsy und Ruwi belauscht und dann den Krüppel mit
@@ -930,25 +921,27 @@ war ich neben ihm …
 »Dort oben!« raunte er hastig und deutete gen Himmel.
 
 Der Ballon … flog mit der Laterne davon … immer
-höher … immer schlechter erkennbar, bis nach der schwache
+höher … immer schlechter erkennbar, bis auch der schwache
 Lichtschein der Laterne vollends entschwand …
 
 Dann lachte Harald wieder so eigentümlich In sich hinein
 … Und sagte ganz laut, als ob er genau wüßte, daß
-die sechs Maötkierten längst über alle Berge seien:
+die sechs Maskierten längst über alle Berge seien:
 
-»Unglaublich, auf was für Adern Leute kommen, die
+»Unglaublich, auf was für Ideen Leute kommen, die
 sich in einer besonderen Gemütsverfassung befinden …! Ich
 <@pagebreak/>
 hatte also doch recht: Laterne und Pergament hängen
 innig zusammen, und wir beide haben uns zwecklos nasse
-Füße geht;oft, was in dieser lauen Tropennacht allerdings
-nichts zu bedeuten hat …
-Jetzt wurde ich denn »doch energisch …
-»Harald, ich möchte sehr bitten, daß du nun endlich …
-… endlich …
+Füße geholt, was in dieser lauen Tropennacht allerdings
+nichts zu bedeuten hat …«
 
-Das war das lebte, was mir über die Lippen kam …
+Jetzt wurde ich denn doch energisch …
+
+»Harald, ich möchte sehr bitten, daß du nun endlich …
+… endlich …«
+
+Das war das letzte, was mir über die Lippen kam …
 
 Denn ich hatte von hinten einen Stoß ins Genick erhalten,
 der jeden anderen, dessen Fettpolster weniger dick
@@ -956,9 +949,9 @@ an dieser Stelle sind, wohl ins Jenseits befördert hätte …
 
 Immerhin flog ich nach vorn in einen Busch, und ehe
 ich meine fünf Sinne noch beieinander hatte, lag schon irgendein
-Lumpenkerl mir auf dem Rüden, riß mir die Arme
+Lumpenkerl mir auf dem Rücken, riß mir die Arme
 nach hinten und fesselte mich so brutal, daß die Stricke mir
-die Haut der »ardgelenke zerschnitten …
+die Haut der Handgelenke zerschnitten …
 
 Dann fuhr mir ein mit Chloroform getränkter Lappen
 unter die Nase …
@@ -968,11 +961,11 @@ Aber — man hat so seine Tricks bei solchen Gelegenheiten
 sehr schön das Bewußtloswerden … Vielfach gelingt’s
 … Und auch diesmal … Ich war keineswegs betäubt,
 sondern nur etwas benommen, als man mich aufhob
-und mir ein Stück Leinwand über den Kopf war’s …
+und mir ein Stück Leinwand über den Kopf warf …
 
 Man trug mich durch das Tor zum Inselufer zurück …
 Ich hörte Flüstern … Dann landete ein Boot … Ziemlich
-umsonst wurde ich darin verstaut …
+unsanft wurde ich darin verstaut …
 
 Das Boot wurde durch das Röhricht in den Fluß geschoben
 … Man ruderte mit mir davon … Daß Harald
@@ -983,32 +976,32 @@ Augenblick …
 
 <h2>4. Kapitel.</h2>
 
-Diese Bootsfahrt dauerte etwa zwanzig Minuten. In-.
-
-zwischen hatte ich bereits mit ziemlicher Sicherheit durch das
+Diese Bootsfahrt dauerte etwa zwanzig Minuten. Inzwischen
+hatte ich bereits mit ziemlicher Sicherheit durch das
 Gehör festgestellt, daß sich vier Inder den bösen Scherz erlaubt
 hatten uns zu überfallen … Ein Europäer war kaum
 dabei, denn die vier unterhielten sich leise in ihrer Sprache,
 von der ich leider nur ein paar Brocken verstand. Außerdem
 waren sie so vorsichtig gewesen, meinen werten, am Boden
 des Fahrzeuge liegenden chloroformierten Kadaver mit einigen
-nach Teer stinkenden Segeln zu bedecken, die sehr Schall
-dämpfend wirkten.
-»Das Boot landete dann wie« r irgendwo … Binsen
+nach Teer stinkenden Segeln zu bedecken, die sehr schalldämpfend
+wirkten.
+
+Das Boot landete dann wieder irgendwo … Binsen
 und Röhricht rauschten, und man brachte mich durch Gestrüpp
 und ein enges Mauerloch in einen nach Moder duftenden
 Raum, wo ich nun, nachdem man mir den Kopfbehang
 abgenommen, beim Scheine einer Petroleumlaterne
-mich umschauen?Tante.
+mich umschauen konnte.
 
 Ich hielt es für richtig, nicht länger den Bewußtlosen
 zu spielen, hatte mich aufrecht gesetzt und sah dicht vor mir
 einen Inder hocken, der sich aus einem schwarzen Lappen
-eine Gesichtsmaske Hergestellt hatte, durch deren Augern-löcher
+eine Gesichtsmaske hergestellt hatte, durch deren Augenlöcher
 mich ein paar blinkende Sehorgane drohend anstierten.
 
 Dieser Kerl hatte in der Rechten einen langen, leicht
-gekrümmten Malaiendolch, mit dem er ;:.4t auffällig spielte.
+gekrümmten Malaiendolch, mit dem er recht auffällig spielte.
 
 Im Übrigen war dieser Raum hier fraglos der Keller
 eines verlassenen Gebäudes …
@@ -1016,13 +1009,13 @@ eines verlassenen Gebäudes …
 Und — umsonst blickte ich mit nach Freund Harald
 um …
 
-Erwartete nun jeden Moment, daß man ihn evensall4
+Erwartete nun jeden Moment, daß man ihn ebenfalls
 herbeischleppen würde …
 
 Wartete … umsonst …
 
-Der Kerl vor mir sagte plötzlich mit tiefer senkte«:0-
-Stimme in leidliche im Englisch:
+Der Kerl vor mir sagte plötzlich mit tiefer verstellter
+Stimme in leidlichem Englisch:
 
 »Sahib Schraut, kennst du dies?«
 
@@ -1035,10 +1028,10 @@ Ich erschrak nicht wenig …
 Also hatten die Schufte Harald die Zeichnung abgenommen
 — gestohlen — aus der Brieftasche …!
 
-Ich brüllte den braunen Halunken daher auch Fürchtend
+Ich brüllte den braunen Halunken daher auch wütend
 an:
 
-»so habt ihr meinen Freund gelassen?! Was wollt
+»Wo habt ihr meinen Freund gelassen?! Was wollt
 ihr von mir?! Ihr werdet mit dem Zuchthaus Bekanntschaft
 machen! Hütet euch!«
 
@@ -1047,14 +1040,14 @@ Schuhsohle …
 
 Erwiderte dumpf:
 
-»Sahib Harst ließen wir auf der spielt liegen … Es
+»Sahib Harst ließen wir auf der Insel liegen … Es
 war uns zu gefährlich ihn mitzunehmen …«
 
 Pause …
+
 »Sahib Schraut, du wirst mir erklären, was diese Zeichnung
 bedeutet … Wenn du dich weigerst … — und er
-
-hielt mir den Dolch dicht unter die Nase … »16 wirst du
+hielt mir den Dolch dicht unter die Nase … »so wirst du
 sterben …!«
 
 Ah — also darauf kam’s hinaus …!
@@ -1064,9 +1057,9 @@ Ich war im ersten Moment geradezu verblüfft …
 Woher wußte dieser Inder etwas von der Zeichnung?!
 
 Woher konnte er erfahren haben, daß Betsy Grandell
-dem Perauwent solche Wichtigkeit beimaß?!
+dem Pergament solche Wichtigkeit beimaß?!
 
-»Ich überlegte …
+Ich überlegte …
 
 Und unwillkürlich dachte ich da an den indischen Matrosen,
 der uns heute auf Reginald Blooß’ Jacht bedient
@@ -1076,9 +1069,8 @@ hatte und der doch als einziger etwas von unserer Unterhaltung
 Dieser Matrose hatte Garmi geheißen, und ich hatte
 dem Burschen zuletzt noch ein anständiges Trinkgeld in die
 Hand gedrückt, was ich jetzt aufrichtig bedauerte, denn nur
-dieser Garmi konnte aus Geldgier sich mit ein paar Burg
-[her ähnlichen Kalibers zu diesem Streich zusammengetan
-
+dieser Garmi konnte aus Geldgier sich mit ein paar Burschen
+ähnlichen Kalibers zu diesem Streich zusammengetan
 haben …!
 
 <@pagebreak/>
@@ -1086,66 +1078,66 @@ Um den Kerl mit dem malaiischen Mordinstrument
 (der übrigens nicht Garmi sein konnte) außer Fassung zu
 bringen, fragte ich nun plötzlich:
 
-»He, was macht denn dein Freund Garmi, du Lump?h1«
+»He, was macht denn dein Freund Garmi, du Lump?!«
 
 Siehe da: Der Kerl erschrak derart, daß ihm der Dolch
-endlich und daß er mich wie einen Geist anstierte …
+entfiel und daß er mich wie einen Geist anstierte …
 
 Ich lachte ihm höhnisch ins Gesicht …
 
-»35 weiß ganz genau, mit wem ich es hier zu tun
-habe, und ich kann dir nur den guten Na! geben, mich schleunigst
+»Ich weiß ganz genau, mit wem ich es hier zu tun
+habe, und ich kann dir nur den guten Rat geben, mich schleunigst
 frei zu lassen und mir …«
 
-Leider hatte der Lump den ersten Ihre nur zu schnell
+Leider hatte der Lump den ersten Schreck nur zu schnell
 überwunden und langte schon wieder nach dem blanken
-Halsabscnoeider, brühte mich nun seinerseits an:
+Halsabschneider, brüllte mich nun seinerseits an:
 
-»Sah)gib, wenn du nicht sofort sagst, was die Zeichnung
-bedeutet, so ergänzen wir dich und deinen Freund im
-Glase … Rede, Sahib …! Mit uns ist nicht zu spaßen!
+»Sahib, wenn du nicht sofort sagst, was die Zeichnung
+bedeutet, so ersäufen wir dich und deinen Freund im
+Flusse … Rede, Sahib …! Mit uns ist nicht zu spaßen!
 Wenn Garmi nicht in der Hafenkneipe von der Zeichnung
-und dem Tischchen ganz stiert »H gesprochen hätte, würden
+und dem Tischchen ganz öffentlich gesprochen hätte, würden
 wir euch beide nicht abgefangen haben … Wir sind arme
 Teufel, die …«
 
-Ich sich ihm ins Wort …
+Ich fiel ihm ins Wort …
 
-»Ah kann die Zeichnung nicht deuten … Das kann
+»Ich kann die Zeichnung nicht deuten … Das kann
 nur Harst …«
 
 »Du lügst, Sahib … Dein Freund hat in eurem Zimmer
 heute abend gesagt, die Zeichnung stelle die Flußinsel
 dar … einer von uns lag draußen neben der offenen Tür
-auf der Veranda … Und denn Sahib Harst dies schon
-herausgefunden hat, daß es die Insel ist, die hier aus dem
+auf der Veranda … Und wenn Sahib Harst dies schon
+herausgefunden hat, daß es die Insel ist, die hier auf dem
 Stück Lederpapier gezeichnet ist, dann hat er dir auch mitgeteilt,
 wo … der Schatz zu suchen ist … — auf der Insel.
 … Rede, Sahib …! Wir sind arme Teufel, die Gold gebrauchen
 können … Und wir ersäufen dich noch in dieser
 Nacht, wenn du …«
 
-Znzwi’hen war mir ein guter Gedanke gekommen …
+Inzwischen war mir ein guter Gedanke gekommen …
 
 Wieder unterbrach ich den braunen Halunken …
 
 »Du irrst … Mein Freund hat über die Zeichnung
 <@pagebreak/>
-Moors weiter gesagt … Deshalb wälzte ich mir sie erst einmal
+nichts weiter gesagt … Deshalb müßte ich mir sie erst einmal
 genau ansehen … Halte sie mir vor die Augen und
 leuchte mit der Laterne … Wenn ich die Zeichnung auch
-in dem Punkte deuten kam, wo der hat verborgen liegt,
+in dem Punkte deuten kam, wo der Schatz verborgen liegt,
 werde ich es tun, denn wir brauchen den Schatz nicht …
 Wir sind reich … — Also leuchte mal …«
 
-Der Bursche schien über meine Bereittilligkeit geradezu
+Der Bursche schien über meine Bereitwilligkeit geradezu
 entzückt zu sein …
 
 Und als er dann mit der Rechten mir das Pergament
 vor die Augen hielt und mit der Linken die Laterne erfaßt
-hatte, — als er »im den Dolch beiseite gelegt hatte, da geschah
+hatte, — als er also den Dolch beiseite gelegt hatte, da geschah
 ihm das, was er durchaus verdient hatte: Ich stieß
-mit den gefesselten Füßen urplötzlich zu, in ich ihn gerade vor
+mit den gefesselten Füßen urplötzlich zu, stieß ihn gerade vor
 die Brust, gegen die Herzgrube …
 
 Das Pergament flog nach rechts und die Laterne nach
@@ -1153,42 +1145,42 @@ links, der Kerl selbst nach hinten …
 
 Und bevor er wieder zu sich kam, hatte ich schon mit
 Hilfe des Dolches meine Hand- und Fußfesseln erledigt …
-hatte dem Burschen mit Sehen seiner Jacke gleiches mit
+hatte dem Burschen mit Fetzen seiner Jacke gleiches mit
 gleichem vergolten …
 
 Die Petroleumlaterne war nicht erloschen, so daß ich
 meine Taschenlampe schonen konnte. Ich nahm dem Inder
 nun die Maske ab und … erkannte in dem langen Kerl den
-
 … Steuermann der Jacht Reginalds …!!
 
 Also doch!! Also doch Leute der Jacht, wie ich gleich
 vermutet hatte …! Nun — den Kerlen sollte diese Nacht
-schlecht bekommen! Ich hatte: ja noch meine Clement in
+schlecht bekommen! Ich hatte ja noch meine Clement in
 der Außentasche …
 
-streckte die Zeichnung zu mir und wandte mich dem
+Steckte die Zeichnung zu mir und wandte mich dem
 Mauerloche zu, das aus dieser Kellergruft ins Freie führte.
 
-Auf allen Vieren, die ratterte unter der Jacke, kroch ich
+Auf allen Vieren, die Laterne unter der Jacke, kroch ich
 vorwärts, erblickte das Mondlicht auf den Blättern des
 Dickichts, erblickte durch eine Lücke den Fluß, ein Boot im
 Röhricht, in dem Boote drei Gestalten …
 
 Ich sah noch mehr …
 
-Zwischen den Büschen lag überall unterstützt … Und
+Zwischen den Büschen lag überall Mauerschutt … Und
 <@pagebreak/>
-als ich den Kopf drehte, erkannte ich ein Stü einer eingestürzten
+als ich den Kopf drehte, erkannte ich ein Stück einer eingestürzten
 Bastion des alten Inselforts!!
+
 Ich … befand mich also auf der Insel …
 
 Die Kerle waren mit mir nur zum Schein zwanzig
 Minuten lang umhergerudert …!! Waren dann hier auf
-der flüsterte der Insel gelandet …!
+der Flußseite der Insel gelandet …!
 
 Nun — sie sollten mich hier nicht mehr lange stören …!
-Ich Freude mich schon, wie sie schleunigst ausreißen würden,
+Ich freute mich schon, wie sie schleunigst ausreißen würden,
 wenn ich sie anrief …!
 
 Und ich hatte mich nicht getäuscht …
@@ -1197,7 +1189,7 @@ Vier Worte genügten …:
 
 »Schert euch zum Teufel!!«
 
-Sie flogen aus ihrer zusammengeduckilen Zahlung empor
+Sie flogen aus ihrer zusammengeduckten Haltung empor
 …
 
 Sahen mich … sahen die drohende Repetierpistole …
@@ -1211,30 +1203,30 @@ Im Nu verschwanden sie in leichten nächtlichen Nebelschwaden
 …
 
 Bevor ich aber diese Uferstelle verließ, wollte ich doch
-lieber nochmals nachschauen, ob des braunen niedergelegten
-Steunermanns Fesseln auch haltbar genug seien …
+lieber nochmals nachschauen, ob des braunen niedergeboxten
+Steuermanns Fesseln auch haltbar genug seien …
 
 Ich kroch in das Gewölbe wieder hinein …
 
-Die Laterne beleuchtete die feuchten, giftigen Mauern,
+Die Laterne beleuchtete die feuchten, pilzigen Mauern,
 den Schutt …
 
 Aber — — keinen Steuermann …
 
 Der war … verduftet …
 
-Und ich … war starr … +…
+Und ich … war starr …
 
 Wo in aller Welt konnte der Kerl geblieben sein?!
 
-Durch daß Mauerloch war er niemals entwischt …
+Durch das Mauerloch war er niemals entwischt …
 Ich hätte ihn unbedingt bemerken müssen …!
 
 So leuchtete ich denn jeden Winkel ab …
 
-rund nichts …
+Fand nichts …
 
-Leuchtete die wandern ab …
+Leuchtete die Mauern ab …
 
 Die Geschichte blieb geradezu rätselhaft …!! Zu gern
 <@pagebreak/>
@@ -1253,13 +1245,13 @@ der Nähe ankernden Schiffe erregen können.
 
 Endlich dann die Lichtung …
 
-Endlich …!? Noch ein Sprung, noch ein paar hastige
+Endlich …! Noch ein Sprung, noch ein paar hastige
 Schritte, und ich schaltete meine Taschenlampe ein …
 
-Kein. Harst — — nirgends …
+Kein Harst — — nirgends …
 
-In dem Tunnel des Tones der ehemaligen Festung
-Lediglich ein paar zerschnittene Stricke … Eintretenden —
+In dem Tunnel des Tores der ehemaligen Festung
+Lediglich ein paar zerschnittene Stricke … Strickenden —
 — nichts weiter.
 
 Sollte Harald sich bereits selbst befreit haben?! Es
@@ -1269,43 +1261,41 @@ Ich war ratlos … — Was nur tun?!
 
 Vielleicht war Harald auch heimgekehrt … Vielleicht
 hatte er John Grandell geweckt … Vielleicht waren die
-beiden jetzt aus der Suche nach mir?!
+beiden jetzt auf der Suche nach mir?!
 
 So entschloß ich mich denn, nach dem Bungalow zu
-eilen … Passierte den Laufssteg, holte mir zum zweiten
+eilen … Passierte den Laufsteg, holte mir zum zweiten
 Male nasse Füße …
 
 Gelangte an den Gartenzaun, kletterte hinüber …
 
-Schlich zum Hause —« die Veranda entlang, — dann
+Schlich zum Hause — die Veranda entlang, — dann
 hinein in unser Zimmer … Schaltete das Licht ein …
 
-Kein Harst … Das Bett unbegabt …
+Kein Harst … Das Bett unbenutzt …
 
-Doch halt: Dort auf dem Sofatisch) ein Zettel, gegen
+Doch halt: Dort auf dem Sofatisch ein Zettel, gegen
 eine Blumenvase gelehnt:
 
 »Lieber Alter, sollte es dir gelingen, diesen Amateurgaunern
 zu entkommen, so komm’ sofort zu Reginald Blooß.
-—» Geschrieben um 24 Uhr morgens. — Dein H.«
+— Geschrieben um 2¼ Uhr morgens. — Dein H.«
 
 <@pagebreak/>
-Ich sah nach meiner Uhr … Goß war Jetzt genau
+Ich sah nach meiner Uhr … Es war Jetzt genau
 zwanzig Minuten nach zwei. Harald konnte sich also soeben
 erst wieder entfernt haben …
 
-»Z«=«—z-
-
 <h2>5. Kapitel.</h2>
 
-Reginald Blooß, einziger Sohn eines vielfachen mit-.
+Reginald Blooß, einziger Sohn eines vielfachen
 Millionärs, bewohnte hier im Europäerviertel von Negapatam
 gleichfalls einen Bungalow, der von der Wohnung der Geschwister
 Grandell kaum fünf Minuten entfernt und ebenfalls
 am Flusse lag.
 
 Als ich mich dem Bungalow näherte, sah ich schon von
-weitem in Reginalds Arbeitszimmer Licht. Die L’3e der
+weitem in Reginalds Arbeitszimmer Licht. Die Lage der
 Räume kannte ich von zwei Besuchen her.
 
 Ich pochte gegen das eine erleuchtete Fenster … Auf
@@ -1316,9 +1306,9 @@ soeben gekommen … Bitte …«
 
 Harst saß in einem tiefen Klubsessel neben dem Schreibtisch,
 nickte mir nur zu und sagte: »Nimm Platz, mein Alter
-… Ich) wollte gerade beginnen, hatte Blooß gebeten,
+… Ich wollte gerade beginnen, hatte Blooß gebeten,
 der Wahrheit die Ehre zu geben, worauf er ein sehr offizielles
-Gesicht machte … Dann klopsiest du …«
+Gesicht machte … Dann klopftest du …«
 
 Blooß setzte sich mit äußerst ablehnender Miene in den
 Schreibsessel, nachdem ich, ziemlich erschöpft, neben Harst in
@@ -1327,14 +1317,14 @@ den zweiten Klubsessel gesunken war …
 Und der hübsche, schlanke Reginald sagte dann:
 
 »Mr. Harst, — wie meinten Sie das, ich solle der
-Wahrheit die Ehre geben?! — Gas klang genau so, als ob
+Wahrheit die Ehre geben?! — Das klang genau so, als ob
 ich irgendwie mich … schuldig gemacht hätte …«
 
 Harald, der äußerst frisch und lebhaft aussah, erwiderte
 freundlich:
 
 »Lieber Blooß, glaubten Sie, mich wirklich täuschen zu
-können« — Geschick habe im übrigen für alles Verständnis …
+können?! — Ich habe im übrigen für alles Verständnis …
 <@pagebreak/>
 Von einer Schuld Ihrerseits kann hier gar keine Rede sein.
 … Sie haben lediglich als Verliebter gehandelt, und das,
@@ -1355,39 +1345,37 @@ absolut unklare Andeutungen.«
 
 Harald blickte mich mit stillem Seufzer an … »Da hat
 man dich, mein Alter, nun rund zehn Jahre in der Lehre
-gehabt und sich die redlichste Mühe gegeben. dir … die
+gehabt und sich die redlichste Mühe gegeben, dir … die
 Augen auszuwischen und dein Hirn empfänglich für Kleinigkeiten
-zu machen … Manchmal gelingt es dir, deine angebotene
+zu machen … Manchmal gelingt es dir, deine angeborene
 Pomadigkeit abzuschütteln … So in dieser Nacht.
-
-… Denn ich sehe es deinem Gesicht an, daß du Erfolg sei
-
-habt hast … Deine Augen reden eine klare Sprache … Du
-hast das famose Pergament zriickerobert …«
+… Denn ich sehe es deinem Gesicht an, daß du Erfolg gehabt
+hast … Deine Augen reden eine klare Sprache … Du
+hast das famose Pergament zurückerobert …«
 
 Blooß fuhr leicht zusammen, rief:
 
-»Zurücerobert?! War es denn …«
+»Zurückerobert?! War es denn …«
 
-… Ja, lieber Blooß, es war mir geraubt worden, und
+»… Ja, lieber Blooß, es war mir geraubt worden, und
 ich vermute sehr stark, daß Ihre braunen Matrosen die
 Banditen waren, denn nur der Steward Garmi konnte
-etwas über den Wert des Pergamente wissen — hm, den
-Wert, rosa … — Doch davon später. Schraut kann nachher
-erzählen. Erst müssen wir miteinander ins meine kam
-
-men, lieber Blooß … Und da Sie offenbar Ihr nettes
+etwas über den Wert des Pergaments wissen — hm, den
+Wert, na ja … — Doch davon später. Schraut kann nachher
+erzählen. Erst müssen wir miteinander ins Reine kommen,
+lieber Blooß … Und da Sie offenbar Ihr nettes
 Geheimnis verteidigen wollen, muß ich schon mit meinen
 Beweisen herausrücken. — In der Basarstraße in Tanjore
-
 schöpfte ich den ersten Verdacht gegen Sie …«
+
 Blooß lachte ärgerlich auf … »Verdacht?! — Habe ich
 etwas gestohlen?!«
-»Nein, im Gegenteil … Sie haben etwas gesehen«!,
+
+»Nein, im Gegenteil … Sie haben etwas geschenkt,
 <@pagebreak/>
-das Sie auffallend billig kauften: Das Tischchen! — Lieder
+das Sie auffallend billig kauften: Das Tischchen! — Lieber
 Blooß, der greise Händler stand mit Ihnen im Bunde.
-Sie hatten das Wissen schon vorher bezahlt … zahlten
+Sie hatten das Tischchen schon vorher bezahlt … zahlten
 in unserer Gegenwart nur noch den Rest. Und der Händler
 war angewiesen, die Herkunft des Tischchens hier nach Negapatam
 zu verlegen …«
@@ -1395,76 +1383,75 @@ zu verlegen …«
 »Lächerlich …!!«
 
 »Lieber Blooß, ich sah auf den ersten Blick, daß das
-Tischchen mindestens das dreien;ge wert war … mindestens
-… Und als der Händler dann noch erklärte, das Tisch-ch4en
+Tischchen mindestens das dreifache wert war … mindestens
+… Und als der Händler dann noch erklärte, das Tischchen
 solle aus einem uralten portugiesischen Gebäude in
 Negapatam stammen, hätte ich am liebsten mich vor Lachen
-ausgeschüttet … — Dann das Pergament … Eine seine
-Inder. von Ihren, Betsy Gramvoll die) Tiere zu entzücken …
-Das Pergameuntstiick haben Sie von dem Deckel eines alten
+ausgeschüttet … — Dann das Pergament … Eine feine
+Idee von Ihnen, Betsy Grandell noch mehr zu entzücken …
+Das Pergamentstück haben Sie von dem Deckel eines alten
 Buches abgeschnitten … — Gestatten Sie …«
 
 Und er erhob sich und trat an einen Bücherständer heran,
-zog eine alte zerfetzte schaltete aus der Reihe …
+zog eine alte zerfetzte Scharteke<@refnote 1/> aus der Reihe …
 
 Und — sie war in Pergament gebunden … Auf der
 Rückseite des Deckels fehlte das Pergament …
 
 Blooß war sehr rot geworden …
 
-Harst seßte’ sich?) wieder …
+Harst setzte sich wieder …
 
 »Ja — und die Zeichnung rührt von Ihnen her, lieber
-Blooß … Das Pergament wollten Sie durch das Fischer«
+Blooß … Das Pergament wollten Sie durch das Tischchen
 Betsy in die Hände spielen … Die Zeichnung würde
 ich schon deuten, kalkulierten Sie … Und dann würde in
-den Ruinen der Insel in Gegenwart Betsys … der Schloß
+den Ruinen der Insel in Gegenwart Betsys … der Schatz
 ausgegraben werden, den … Sie gespendet hätten, wahrscheinlich
 antike Goldsachen … Betsy würde jubeln, würde
-ihre Zurückhaltung Ihnen gegenüber vollends ausgeben …
+ihre Zurückhaltung Ihnen gegenüber vollends aufgeben …
 — Aber dies alles genügte Ihnen noch nicht. Sie besitzen
 Phantasie … Sie wollten die Fortinsel gleichsam vorher
 interessant machen … Zu diesem Zweck haben Sie … — den
-Ballon erfunden … und die sechs maskierten Europäer …
+Ballon erfunden … und die sechs maskierten Europäer …«
 
-Blooß sagte lebt gar nichts mehr …
+Blooß sagte jetzt gar nichts mehr …
 
-Ganz zusammengesunken saß er da +…
+Ganz zusammengesunken saß er da …
 
 <@pagebreak/>
-
 Und ich?!
 
 Ich starrte ihn unverwandt an … War denn so etwas
-möglich?! Konnte denn ein Verliebter wirklich) einen soll
-44en Plan nur zu dem einen Zweck ersinnen, die Geborene
+möglich?! Konnte denn ein Verliebter wirklich einen solchen
+Plan nur zu dem einen Zweck ersinnen, die Erkorene
 seines Herzens für sich zu gewinnen?!
 
 Harald fuhr fort:
 
-»Also Sie, lieber Blooß, ließen den Ballon aussteigen.
+»Also Sie, lieber Blooß, ließen den Ballon aufsteigen.
 … Und als Sie in der vergangenen Nacht Betsy am Ufer
-ersonnen, da ging das Spiel weiter, da schwammen sechs
+erkannten, da ging das Spiel weiter, da schwammen sechs
 Europäer davon — und doch nur einer: Sie, der immer
 gleich wieder zur Insel zurückkehrte …! Wie haben Sie es
-denn fertig gebracht, sich im Wasser unsichtbar: zu machen?«
+denn fertig gebracht, sich im Wasser unsichtbar zu machen?«
 
 Reginald Blooß erwiderte leise:
 
-»ihre — — verraten Sie mich nicht an Betsy, meine
+»Bitte — — verraten Sie mich nicht an Betsy, meine
 Herren … Ich gebe alles zu … Sie haben in allen Punkten
-recht, Mr. Harst … Und — waZ5 die … sechs MaZ3-fierten
+recht, Mr. Harst … Und — was die … sechs Maskierten
 betrifft: Ich bin eben stets sofort an derselben Stelle
-unter Wasser auf die In;el zurückgestoßen, — höchst einfach
+unter Wasser auf die Insel zurückgekrochen, — höchst einfach
 …«
 
-»Frau so, lieber Blooß …! Natürlich werden wir
+»Brav so, lieber Blooß …! Natürlich werden wir
 nichts verraten … Und nun mag Schraut einmal erzählen
 …«
 
 Ich tat’s …
 
-1(5 ich das alle Gewölbe an der Nordseite der Insel
+Als ich das alte Gewölbe an der Nordseite der Insel
 erwähnte, wo ich den braunen Steuermann niedergeboxt
 hatte, sprang Blooß empor …
 
@@ -1485,31 +1472,31 @@ Geld gekostet …«
 »Dann … haben Ihre ungetreuen Leute Sie fraglos
 beobachtet … dann ist dieser … Schatz fraglos schon gehoben
 — von den braunen Kerlen! — Kommen Sie, Blooß.
-
-Wir wollen zur Insel … Wir nehmen daß Beiboot
-Ihrer Jacht … sicher Sie einen — Mantel über … Weg
-eilen Sie sich … Ichh4 muß Gewißheit haben …«
+… Wir wollen zur Insel … Wir nehmen das Beiboot
+Ihrer Jacht … Ziehen Sie einen Mantel über … Beeilen
+Sie sich … Ich muß Gewißheit haben …«
 
 Gleich darauf eilten wir zum Bootssteg, zum Flusse
 hinab …
-Hier war auch) die Motorjacht vertäut gewesen …
 
-Gewesen ».l!
+Hier war auch die Motorjacht vertäut gewesen …
 
-Sie sollte …
+Gewesen …!!
 
-»Die Schufte!« stieß L!goß ingrimmig hervor … »Sie
+Sie fehlte …
+
+»Die Schufte!« stieß Blooß ingrimmig hervor … »Sie
 sind mit der Jacht entflohen …!«
 
 »Dann dort das Boot!« meinte Harald …
 
 Wir hinein … Wir ruderten, als gälte es ein Wettrennen
-… « —
+…
 
 Unterwegs sagte Harald noch:
 
 Wir landeten genau dort, wo ich die drei Inder in dem
-Boote durch) die Clement so schnell verscheucht hatte …
+Boote durch die Clement so schnell verscheucht hatte …
 
 Wir kletterten durch das Mauerloch in das Gewölbe,
 nachdem Reginald aus dem Gestrüpp noch eine Hacke und
@@ -1520,11 +1507,11 @@ stinkenden Raum …
 
 »Dort links,« meinte Blooß …
 
-Und begann den Mauerschutt beiseite zu räumen …+
+Und begann den Mauerschutt beiseite zu räumen …
 
-Wir halten …
+Wir halfen …
 
-Unter dem Schuft kamen drei kurze, breite Bretter zum
+Unter dem Schutt kamen drei kurze, breite Bretter zum
 Vorschein …
 
 Blooß rief: »Diese Bretter stammen nicht von mir …!
@@ -1532,21 +1519,20 @@ Ich hatte hier ein Loch gefunden, und die Goldsachen in
 einem verschimmelten Beutel in das Loch hineingetan und
 wieder Schutt darüber gehäuft …!«
 
-Harst hob schon eins der Bretter empor»…
+Harst hob schon eins der Bretter empor …
 
-Lichtkegel sollen in das Loch …
+Lichtkegel fielen in das Loch …
 
-Beleuchteten … Garmis verzerrtes Totengesicht
+Beleuchteten … Garmis verzerrtes Totengesicht …
 
 <@pagebreak/>
-
 »Mein Gott!!« stöhnte Blooß entsetzt, — denn neben
 Garmi lag zusammengekrümmt noch ein zweiter Leichnam
 …
 
 Harald nahm die beiden anderen Bretter weg …
 
-In dem Loche … lagen die vier runder von Reginalds
+In dem Loche … lagen die vier Inder von Reginalds
 Jacht: Der Steuermann, Garmi und zwei Matrosen, —
 also die vier Leute, die uns überfallen hatten …!
 
@@ -1556,13 +1542,13 @@ Blooß war fahl und zitterte …
 
 »Sie sehen,« meinte Harald ernst, »hier ist aus einer
 harmlosen Täuschung ein blutiges Spiel geworden … Die
-vier sind ermordet worden. — Ehe hilft nichts … Wir
+vier sind ermordet worden. — Es hilft nichts … Wir
 müssen die Polizei benachrichtigen, und wir werden dem
-Polizeiche! notwendig die Wahrheit sagen müssen … Vielleicht,
+Polizeichef notwendig die Wahrheit sagen müssen … Vielleicht,
 daß sich Ihr frommer Schatzbetrug dennoch verschweigen
 läßt, lieber Blooß … — Am besten, Sie rudern allein
 nach der Stadt und holen die Beamten. Sie kennen den
-Polizeichef ja persönlich … schien Sie zu, was Sie bei ihm
+Polizeichef ja persönlich … Sehen Sie zu, was Sie bei ihm
 ausrichten. Schraut und ich bleiben als Wache hier …«
 
 Blooß trocknete sich den kalten Schweiß von der Stirn.
@@ -1570,12 +1556,12 @@ Blooß trocknete sich den kalten Schweiß von der Stirn.
 Er war so vollkommen verstört, daß Harald sich dann
 doch entschloß, ihn zu begleiten …
 
-So war ich denn in dem nussigen Gewölbe mit denn
+So war ich denn in dem muffigen Gewölbe mit den
 vier Toten allein …
 
 Setzte mich an die Maueröffnung, steckte mir eine Zigarre
 an und … dachte an die beiden entflohenen Sänftenträger
-und alt den Diener Laska …
+und an den Diener Laska …
 
 Ich hielt diese drei für die Mörder.
 
@@ -1588,29 +1574,27 @@ Der Morgen dämmerte bereits herauf …
 
 Eine Gestalt schob sich durch die Maueröffnung …
 
-Zarter Päarcfümgeruch tauchte mir entgegen: Lavendel!
+Zarter Parfümgeruch wehte mir entgegen: Lavendel!
 
 »Miß Betsy!!« rief ich leise …
 
-»Dr. — — — Mr. Schraut …!!« — und unter dem
+»O — — — Mr. Schraut …!!« — und unter dem
 <@pagebreak/>
 seidenen Staubmantel brachte sie eine brennende Laterne
 zum Vorschein …
 
 »bleiben Sie im Freien, Miß Betsy,« sagte ich eindringlich
-…- »so komme …
+… »Ich komme …«
 
 Dann standen wir draußen im Gestrüpp …
 
-Weber uns wurde der Himmel immer heller … Der
+Über uns wurde der Himmel immer heller … Der
 neue Tag war da …
 
 Und mit ihm der neue, zweite Abschnitt des Geheimnisse
 des Inselforts …
 
-Lag
-
-Der Berg der Erkenntnis.
+<h1>Der Berg der Erkenntnis.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1912,7 +1896,7 @@ Wir fanden Reginald bleich und verstört vor …
 
 Maccray meinte ironisch: »Mr. Harst, die Blutflecken
 an Mr. Blooß’ Ärmel sind die Blutspritzer, und da den
-ganzen Umständen nach Verdunkelung3gesahr vorliegt, muß
+ganzen Umständen nach Verdunkelungsgefahr vorliegt, muß
 ich Mr. Blooß wenigstens zunächst in Hast nehmen …«
 
 Woraus Harald höflich äußerte, es müßte doch erst einmal
@@ -2060,7 +2044,7 @@ ein Boot mit Nr!heißen) und ruderten davon …
 
 Im Hause hörte man eine Tür zufallen.
 
-Der Alte begann schnell das Frühstückögeschirr auf ein
+Der Alte begann schnell das Frühstücksgeschirr auf ein
 Teebrett zu stellen. Dann erschien auch) schon John Grandell
 Eile nahm mit ernstem, trübem Gesicht wieder am Tische
 
@@ -2249,7 +2233,7 @@ Tempel vielleicht recht kampflustige Herrschaften sein, denen
 gegenüber so eine neunschüssige Repetierpistole die geeignetste
 »Friedenspalme« war — ähnlich wie es jetzt in unserer
 verdrehten Welt herging, in der jede Nation die FriedenZ-schalmei
-lustig blies und noch lustiger den Rüstiungsetat verdreifachte
+lustig blies und noch lustiger den Rüstungsetat verdreifachte
 …
 
 Ich hockte nun also zwischen den graischwarzen Steinen
@@ -2635,7 +2619,7 @@ verhaftet zu werden, ZI erreichte Glück?! ich den Mansawata
 und traf hier mit Tumirs Sänftenträgern zusammen,
 die dann genau wie ich als Brahminen verkleidet wurden.
 Und hier blieben wir nun. Ich sollte bei Gelegenheit ins
-Innere zu Verwandten des einen Sänstenträger3 gebracht
+Innere zu Verwandten des einen Sänftenträgers gebracht
 werden. Ich war hier viel allein, denn die Brahminen
 des Tempels und die beiden Vertrauten Tumirs wollten
 <@pagebreak/>
@@ -2814,7 +2798,7 @@ der Chef vernimmt gerade den des Mordes Verdächtigen
 … Die Gelegenheit ist günstig … Kommen Sie,
 meine Herren …«
 
-Man merkte ihm an, wie quietschhvergnügt er war, daß
+Man merkte ihm an, wie quietschvergnügt er war, daß
 Maccray nun eine so ungeheure bittere Enttäuschung erleben
 würde.
 
