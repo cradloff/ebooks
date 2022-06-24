@@ -1,57 +1,54 @@
 <@pagebreak/>
 
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, Einsicht. das Verfilmungsrecht,
-vorbehalten. — Copyright 1925 by Verlag moderner
-Lektüre G. in. b. ’H., Berlin.
+<#include "intro_short2.ftl">
 
-Das Wespennest von Potanur.
-1\. Kapitel.
+<h2>1. Kapitel.</h2>
 
 Eine glutheiße Tropennacht …
 
-Der Mond am Himmel als matte Sichel, tote hinter
-seinen Spielern …
+Der Mond am Himmel als matte Sichel, wie hinter
+feinen Schleiern …
 
-Schleier, — =« Dunstmassen, die die Inseln und Eilande
-nördvlich von Ceylon tote in planen lang hüllen …
-Tropeninevel, vom Nachtwind i16chandivvher herbei geweht …
+Schleier, — — Dunstmassen, die die Inseln und Eilande
+nördlich von Ceylon wie in dünnen Rauch hüllten …:
+Tropennebel, vom Nachtwind irgendwoher herbeigeweht …
 
-Branduig schäumte nun einsamen Zuütselfülten, an verstehen
-Bissen …
+Brandung schäumte an einsamen Inselhütten, an versteckten
+Riffen …
 
-Und in ne ah wo »betreffenden Wogen zwischen
-zweien Dieser Inseln die Zöpfe zweier Schwimmer …
+Und in den an- und abschwellenden Wogen zwischen
+zweien Dieser Inseln die Köpfe zweier Schwimmer …
+
 Köpfe, auf die mit Bindfaden je ein Bündel geschnürt
 war, wie ein unförmiger Turban aus gelber Ölleinwand.
 
 Ruhig und gleichmäßig arbeiteten die Schwimmer sich
 vorwärts …
 
-Hob eine Welle sie empor, so spitzen sie rundum nach
-den Hyänen des Meeres, nach) Bein Rückenflossen gefährlicher
+Hob eine Welle sie empor, so spähten sie rundum nach
+den Hyänen des Meeres, nach den Rückenflossen gefährlicher
+Haie …
 
-Malaie …
+Aber nur Seetangstücke und zuweilen ein grüner
+Strauch belebten die nächtliche Meeresoberfläche …
 
-Über wie Geetangsjtäg2a und. zuweilen ein grüne
-Strmic9y belebten die nächilicge Mcexesobersläch? …
-in c« suchten die ShCivimiuier der großen, kahlen Sandinsel
-zt …
+So strebten die Schwimmer der großen, kahlen Sandinsel
+zu …
 
-»- Potanur sich sie bei den Eingeborenen … Arbeit
-Seekarteg hatte sie keinen Namen, denn niemand hatte je
-ein Interesse gehabt, viertes öde Eiland, auf dem kaum ein
+Potanur hieß sie bei den Eingeborenen … Auf den
+Seekarten hatte sie keinen Namen, denn niemand hatte je
+ein Interesse gehabt, dieses öde Eiland, auf dem kaum ein
 <@pagebreak/>
-paar Büsche kläglich ihr Dasein leisteten, irgendwie näher
+paar Büsche kläglich ihr Dasein fristeten, irgendwie näher
 zu bezeichnen.
 
-Ankommt …
+Potanur …
 
-Das war vom Eprächschate der Singhalesen, der schlanken
-Kinder des sofortigen Ceylon, entnommen und bedeutete
-»Die Insel Nichts« … — Jmmoöorhin ganz charakteristisch
-für diese kahlen Türen, kahlen Hügel, kahlen Ufer: Die
-Insel, aus der nicht? gedeiht!
+Das war dem Sprachschatze der Singhalesen, der schlanken
+Kinder des sonnigen Ceylon, entnommen und bedeutete
+»Die Insel Nichts« … — Immerhin ganz charakteristisch
+für diese kahlen Dünen, kahlen Hügel, kahlen Ufer: Die
+Insel, aus der nichts gedeiht!
 
 Nach Potanur schwammen die Männer mit den gelblichen
 Turbanbündeln …
@@ -60,102 +57,102 @@ Landeten in einer Bucht zwischen zwei Halbinseln, wo
 das Meer Berge stinkenden, faulender Algen aufgehäuft
 hatte, — — Berge, die weithin die Luft verpesteten … —
 
-Seltsam genug: Die Schwimmer waren ’Curopäer und
-trugen nichts als Shwimmhojen am Leibe, — abgesehen
+Seltsam genug: Die Schwimmer waren Europäer und
+trugen nichts als Schwimmhosen am Leibe, — abgesehen
 von den Bündeln … —
 
-Seltsam. genug das Benehmen der beiden: Sie hüteten
-sich, nicht nur eine einzige Spur im Sande hervorzue
-rufen, finden über die stinkenden Berge hin bis zur Flutgrenze
+Seltsam genug das Benehmen der beiden: Sie hüteten
+sich, auch nur eine einzige Spur im Sande hervorzurufen,
+krochen über die stinkenden Berge hin bis zur Flutgrenze
 und holten hier aus ihren Bündeln kurze Zeltstöcke
-hervor, die sich auseinander beseitigen sicher Mund) bewegliche
+hervor, die sich aufeinander befestigen ließen durch bewegliche
 Blechtüllen.
 
 In kurzem hatten die beiden ein niederes kleines Zelt
-errichtet, das ebenso schnell wieder unter darüber schnauzten
-lockeren Meerespflanzen verschwand und sich so in nichts
+errichtet, das ebenso schnell wieder unter darüber gehäuften
+trockenen Meerespflanzen verschwand und sich so in nichts
 mehr von der Umgebung unterschied. Das Zelt war ein
 Berg Tang geworden, und die beiden Europäer in diesem
 Berge untergetaucht, nachdem sie ihre Arbeit noch kritisch
 und sorgfältig gemustert hatten.
 
-In dem auf diese Weise wieder unsichtbar gemäccgten
+In dem auf diese Weise wieder unsichtbar gemachten
 Zelte brannte jetzt eine kleine Karbidlaterne …
 
-Der sie angezündet hatte, war der kleinere der beide!
-Säiwvimmer, ein Mann mit einer lieblichen Glase, einer
-Herablief? und einen Speckbäuchlein wie ein Säugling:
+Der sie angezündet hatte, war der kleinere der beiden
+Schwimmer, ein Mann mit einer lieblichen Glatze, einer
+Hornbrille und einem Speckbäuchlein wie ein Säugling:
 Max Schraut, — — ich, Harald Harsts ständiger Gefährte,
-Gesund, Lehrling und Gehilfe!
+Freund, Lehrling und Gehilfe!
 
 <@pagebreak/>
 »Decke lieber ein Taschentuch über die Laterne,« meinte
 Harald. »Wenn’s das Pech will, fällt doch ein Lichtschimmer
 nach draußen, und dann ist unsere ganze Vorsicht für die
-hab …!«
+Katz’ …!«
 
 »Ein Taschentuch würde ansengen, Harald …«
 
-»Dann reine die Glasscheiben mit Schraut ein … Wir
+»Dann reibe die Glasscheiben mit Schmutz ein … Wir
 haben allen Grund, auf das Geringste zu achten … Wollen
-auch leiser sprechen … denn hier auf der »Insel Nichts«
+auch leiser sprechen … Wenn hier auf der »Insel Nichts«
 tatsächlich das zu finden ist, was wir in Reginald Blooß’
-Interesse erhalten, so haben wir es mit Leuten von vorbildlicher
+Interesse erhoffen, so haben wir es mit Leuten von vorbildlicher
 Geriebenheit zu tun …«
 
-Ich wühlte also den zweiten Seetang, der den Boden
-unseres Zeltes bildete, mit den Händen so weit aus, bis ich
-an die feuchte, halb verkaufte Schicht gelangte …
+Ich wühlte also den trockenen Seetang, der den Boden
+unseres Zeltes bildete, mit den Händen so weit auf, bis ich
+an die feuchte, halb verfaulte Schicht gelangte …
 
-Gleich daraus war’s unser Laternchen nur ganz trübe
+Gleich daraus warf unser Laternchen nur ganz trübe
 Lichtstrahlen auf die Hütte zweier nackter Insulaner, die nun
 auch den übrigen Inhalt ihrer Bündel auszupacken begannen:
-Konserven, Hartzwieback, zwei Dja;her kalten Tee
-und anderes, — jedenfalls eine Anschwoll von Dingen, die
+Konserven, Hartzwieback, zwei Flaschen kalten Tee
+und anderes, — jedenfalls eine Auswahl von Dingen, die
 mit aller Sorgfalt in Rücksicht auf geringes Gewicht zusammengestellt
 waren, —
 
-Wir saßen aus dem Secetangteppich, und Harald leistete
+Wir saßen auf dem Seetangteppich, und Harald leistete
 sich die erste Mirakulum …
 
-»Da traten wir nun also,« meinte er und lächelte mich
-an. »Allee weitere wird sich von selbst ergeben … Die
+»Da wären wir nun also,« meinte er und lächelte mich
+an. »Alles weitere wird sich von selbst ergeben … Die
 Hauptsache ist: Geduld! — Für drei Tage sind wir verproviantiert.
 In diesen drei Tagen müssen wir die Sache
 aufklären — mit Geduld, ohne Übereilung!«
 
-Die auch? …!!
+Die Sache …!!
 
-Dich — jetzt will ich einen sprang in die Vergangenheit
-zurücktun sind meinen Freunden und Lesern in aller
+Und — jetzt will ich einen Sprung in die Vergangenheit
+zurücktun und meinen Freunden und Lesern in aller
 Kürze die Vorgeschichte dieser eigenartigen, geheimnisvollen
 Robinsonade berichten.
 
-Daß wir in Negapatam an der Koromandelkiste mit
-Region!d Blooß bekannt geworden, daß der gute Reginald
-Dosis dort mit Betsy Grandell verlobt hatte, weiß der Leser
+Daß wir in Negapatam an der Koromandelküste mit
+Reginald Blooß bekannt geworden, daß der gute Reginald
+sich dort mit Betsy Grandell verlobt hatte, weiß der Leser
 <@pagebreak/>
 aus dem vorigen Band, in dem ich zum Schluß einiges über
-die Verlohßungsfeier mitgeteilt habe.
+die Verlobungsfeier mitgeteilt habe.
 
-Am Tage daraus hatten auch wir beide einen gelinden
-Kater, schlichen bis gegen Mittag und wurden erst durch
-Reginalds Erscheinen zum Ausstehen gezwungen, der uns
+Am Tage darauf hatten auch wir beide einen gelinden
+Kater, schliefen bis gegen Mittag und wurden erst durch
+Reginalds Erscheinen zum Aufstehen gezwungen, der uns
 ganz dringend sprechen wollte.
 
 Für uneingeweihte Leser will ich nachholen, daß Reginald
 Blooß in Negapatam eine Zweigniederlassung des
-Londoner Hauptgeschästes seines Vaters leitete.
+Londoner Hauptgeschäftes seines Vaters leitete.
 
-Sein Anliegen an ganz war so recht etwas für Haralds
-au8gesproct;Omen Hang für alles Ungewöhnliche, — Blooß
-teilte uns folgendes mit;
+Sein Anliegen an uns war so recht etwas für Haralds
+ausgesprochenen Hang für alles Ungewöhnliche. — Blooß
+teilte uns folgendes mit:
 
-Dir Firma besaß auf der Insel Potakiwu (nördlich
-von Ceylon in der Park-Straße) eine große Plantage, auf
+Die Firma besaß auf der Insel Potakiwu (nördlich
+von Ceylon in der Palk-Straße) eine große Plantage, auf
 der Tee, Kaffee, Zuckerrohr und Mais gebaut wurde. Die
-Plantage lag an der« Nordostküste und war etwa vierzig
-tausend Morgen groß, Linie von einem Engländer namens
+Plantage lag an der Nordostküste und war etwa vierzigtausend
+Morgen groß, wurde von einem Engländer namens
 James Billing verwaltet und von rund dreihundert Arbeitern,
 zumeist Singhalesen, in Ordnung gehalten.
 
@@ -163,20 +160,20 @@ Reginald hatte nun an diesem Tage von Billing einen
 Brief bekommen, den ich hier im Auszuge wörtlich wiedergeben
 will …
 
-Sie kennen Potakiwu, Sir, und Sie wissen, daß
-etwa. eine halb?? Meile nordöstlich von Potakiwu die Sandinsel
+»… Sie kennen Potakiwu, Sir, und Sie wissen, daß
+etwa eine halbe Meile nordöstlich von Potakiwu die Sandinsel
 Potanur liegt, unbewohnt und unbeachtet … — Das
-beißt: unbewohnt, wie ich bisher glaubte! Vor einer Woche
+heißt: unbewohnt, wie ich bisher glaubte! Vor einer Woche
 aber, als ich mit der Motorjacht spät abends von einer
 Vergnügungstour zurückkehrte und unweit von Potanur
 vorüberkam, sah ich mit dem Fernglas dort in den Sanddünen
-am Ufer eine Euch:lächeln in weißem Kleide stehen.
+am Ufer eine Europäerin in weißem Kleide stehen.
 Ich steuerte näher an den Strand heran, aber die Frau verschwand
 urplötzlich. — Zwei Tage darauf, wieder gegen
-Mitternacht, erlebte ich dasscklbe. Ich landet? diesmal sind
+Mitternacht, erlebte ich dasselbe. Ich landete diesmal und
 ließ von meinen drei Leuten die Insel absuchen, suchte auch
-selbst … Wir fanden keine Seele. — Am Kasten Morgen
-fuhr ich nochmals nach Potanur, vburchsorschte bei Tageslicht
+selbst … Wir fanden keine Seele. — Am nächsten Morgen
+fuhr ich nochmals nach Potanur, durchforschte bei Tageslicht
 <@pagebreak/>
 das Eiland und — — fand nicht einmal Spuren von
 Frauenfüßen — nichts! — In der folgenden Nacht, gestern,
@@ -185,19 +182,19 @@ die Summe von achttausend Pfund Sterling, Trinkgelder
 und anderes, aus dem freilich veralteten Stahlschrank
 gestohlen. Unter den Fährten, die die Diebe zurückgelassen
 hatten, befand sich auch der Abdruck eines sehr zierlichen
-Frauenschuhs. Da nun die Nach barplantagen im letzten
-Monat gleichfalls verschiedentlich von dicken heimgesucht
-worden sind, habe ich beide vormittag gemeinsam mit den!
-Verwahren der Nacuvarplantagen die Insel Potanur, wo
-ich den Slupijwinkel dieser Verbrecher vermutete, zum dritten
-Male durchfuhr — wieder umsonst. — Wir alle hier
-stehen vor Siam Listiges. Sie Diebe können nur Europäer
+Frauenschuhs. Da nun die Nachbarplantagen im letzten
+Monat gleichfalls verschiedentlich von Dieben heimgesucht
+worden sind, habe ich heute vormittag gemeinsam mit den
+Verwaltern der Nachbarplantagen die Insel Potanur, wo
+ich den Schlupfwinkel dieser Verbrecher vermutete, zum dritten
+Male durchsucht — wieder umsonst. — Wir alle hier
+stehen vor einem Rätsel. Die Diebe können nur Europäer
 sein, die mit den modernsten Einbrecherwerkzeugen ausgestattet
 sind. Eingeborene kommen auf keinen Fall in
 Frage. Und dann das Merkwürdigste: die Bande hat
-überall am Tatort aleiccjsam als ihr Kenizeicmen einen Briefumschlag
-mit sechs Toten Wespen zurückgelassen. — Ich bitte
-Sie nun, Sir Blooß, von egapatam womöglich einen richtigen
+überall am Tatort gleichsam als ihr Kennzeichen einen Briefumschlag
+mit sechs toten Wespen zurückgelassen. — Ich bitte
+Sie nun, Sir Blooß, von Negapatam womöglich einen tüchtigen
 Polizeibeamten hierher zu schicken, denn unsere Polizei
 auf Potakiwu ist absolut nichts wert …« —
 
@@ -206,47 +203,47 @@ Soweit der Inhalt des Briefes.
 Und — was tat Harald?
 
 Wir blieben noch drei Tage bei Grandells. Dann reisten
-wir angeblich mit der Eisenbahn nach Falltür an der Malabarküste?
+wir angeblich mit der Eisenbahn nach Kalikut an der Malabarküste
 …
 
 In Wahrheit brachte uns Reginalds Motorjacht in
-aller Stille nach Süden, folgte uns nach einer Fahrt von dreiunddreißig
-Stunden nachts an einer einsamen Stelle der
-Nordostküste von Potakiwun an Land — samt unseren Koffern,
+aller Stille nach Süden, setzte uns nach einer Fahrt von
+vierunddreißig Stunden nachts an einer einsamen Stelle der
+Nordostküste von Potakiwu an Land — samt unseren Koffern,
 die wir dort gut verbargen, um sofort … die
-Scyvimnumtonr nach Potanur zu beginnen.
+Schwimmtour nach Potanur zu beginnen.
 
 Jetzt kennt der Leser die Vorgeschichte, und man wird
 mir kaum den Vorwurf machen können, daß ich mich bei
-dieser Vorgeschich!e zu lange ausgehalten hätte,
+dieser Vorgeschichte zu lange aufgehalten hätte,
 
 <@pagebreak/>
-Bodensatz: Wir waren Kinn auf der »Insel Nichts«,
-wir bärtigen hoffen, von Firmament beobachtet worden zu
+Jedenfalls: Wir waren nun auf der »Insel Nichts«,
+wir durften hoffen, von niemandem beobachtet worden zu
 sein, wir besaßen ein Zelt, Proviant, Wasser und für jeden
 einen leichten grauen Leinenanzug, den wir vorläufig freilich
 nicht anlegten, denn bei dieser Hitze war sogar noch die
-Edcwimmamubpose lästig.
+Schwimmhose lästig.
 
-»Ah Schwitzte …
+Ich schwitzte …
 
-Harald Kante an einem Zwieback. Hin und wieder gab
+Harald kaute an einem Zwieback. Hin und wieder gab
 er eine seiner vieldeutigen Bemerkungen zum besten …
 
 So zum Beispiel:
 
 »sechs Wespen — im Briefumschlag … — Das muß
-doch) irgendeinen Sinn hoben …«
+doch irgendeinen Sinn hoben …«
 
 Oder:
 
 »Wir werden Potanur Wespennest nennen, mein Alter
-…
+…«
 
-Inder:
+Oder:
 
-die Europäerin, die Billing gesehen hat, ist mir am
-interessantesten +…
+»die Europäerin, die Billing gesehen hat, ist mir am
+interessantesten …«
 
 dann — war es halb zwei …
 
@@ -254,28 +251,28 @@ Wir krochen ins Freie … Die Mondsichel hatte sich
 empfohlen …
 
 Es war ziemlich finster geworden. Nachdem wir uns
-jeder eine Menge Scetangstauden unter die nackten Füße
-gebunden halten (wir trugen jetzt Leinenhosen), damit wir
-nmmr undeutliche Spuren in! Sande hinterließen, erkletterten
-wir tief gebückt die Uferdünen und warten uns auf einer
+jeder eine Menge Seetangstauden unter die nackten Füße
+gebunden hatten (wir trugen jetzt Leinenhosen), damit wir
+nur undeutliche Spuren im Sande hinterließen, erkletterten
+wir tief gebückt die Uferdünen und warfen uns auf einer
 der höchsten Anhöhen lang in den Sand, um zunächst mit
 Hilfe der Ferngläser das Vorgelände abzusuchen …
 
-Er st nach gut fünf Minuten wollten wir dann- weiter
-ins Innere dieses so erbärmlich öden Eilsand2e5 eindri’t-gen
+Erst nach gut fünf Minuten wollten wir dann weiter
+ins Innere dieses so erbärmlich öden Eilandes eindringen
 …
 
 Wollten …
 
 Es war wohl mehr ein Zufall, daß ich den Kopf
-wandte und dorthin zurückblickte, wo unter Zelt ( am Buch?
-Ufer sich cxrhob — nichts als ein Scetanghügel …
+wandte und dorthin zurückblickte, wo unser Zelt am Buchtufer
+sich erhob — nichts als ein Seetanghügel …
 
-Und ich saß etwas …
+Und ich sah etwas …
 
 <@pagebreak/>
-Sah eine helle Gestalt dicht an dem Probe unseres
-helles …
+Sah eine helle Gestalt dicht an dem Platze unseres
+Zeltes …
 
 rief Harald leise an …
 
@@ -285,7 +282,7 @@ Ein Weib — — weiß gekleidet …
 
 Und Harst schnellt empor …
 
-wahr scheiden ihr den Weg ab … Du nach rechts
+»Wir schneiden ihr den Weg ab … Du nach rechts
 — — ich links … Sie kann uns nicht entkommen …«
 
 Wir jagen davon …
@@ -294,42 +291,44 @@ Wir haben die Dünen hinter uns, haben die weiße
 Frau für kaum eine halbe Minute aus den Augen verloren
 …
 
-schien wieder den Strand der Bucht …
+Sehen wieder den Strand der Bucht …
 
-Weit und breit — — nickte …
+Weit und breit — — nichts …
 
 Die Frau — — wie in Nebel ausgelöst …
 
-Allee Suchen hilft keinen Deut …
+Alles Suchen hilft keinen Deut …
 
-Schließlich kehren wir ganz erschöpft in unser Zelt zu-üs
+Schließlich kehren wir ganz erschöpft in unser Zelt zurück
 …
 
 Harald zündet die Laterne an …
 
-Mitten im hielt biegt auf beim Tangteppich ein weißer
-Großer Briefumschlag …
+Mitten im Zelt liegt auf dem Tangteppich ein weißer
+großer Briefumschlag …
 
-In dem Um’chlag … « sechs tote Wespen und ein Zettel,
+In dem Umschlag … sechs tote Wespen und ein Zettel,
 mit Maschine geschrieben:
 
-»34h flehe Sie an, Mr. Harst: Fliehen Sie!!«
+»Ich flehe Sie an, Mr. Harst: Fliehen Sie!!«
 
-nichts weiter
+nichts weiter …
 
 sechs Wespen — — und der Zettel …!!
-»Ein seiner Anfang!« sagt Harald …
 
-O, Fenster.
+»Ein feiner Anfang!« sagt Harald …
 
-Diese Ironie so)w( aber Schoners in cy: ic32 Wut 1 …
-»Zaun können hier jetzt Sklaven, mein eilten 11 Wir Sir:d
-jämmerliche Anhänger!! Wir sind Seebad)ist worden …
+<h2>2. Kapitel.</h2>
+
+Diese Ironie schlug aber schnell in ehrliche Wut um …
+
+»Wir können hier jetzt abbauen, mein Alter!! Wir sind
+jämmerliche Anfänger!! Wir sind beobachtet worden …
 Wir haben uns blamiert!! Und — was soll der Wisch?!
-Weshalb »steht« uns daß Weib an zu fliehen?! — Schwindel
+Weshalb »fleht« uns das Weib an zu fliehen?! — Schwindel
 <@pagebreak/>
-…![! Komödie!l! Aber sie soll Harst kennen lernen!!!
-4
+…!! Komödie!! Aber sie soll Harst kennen lernen!!
+Ich …«
 
 Und dieses »Ich« war für einige Zeit das letzte, was
 ich aus Haralds Munde hörte …
@@ -337,40 +336,38 @@ ich aus Haralds Munde hörte …
 Denn — urplötzlich brach unser Zelt über uns zusammen
 …
 
-Urplötzlich hatten sich draußen ein paar Kerle auf unter
+Urplötzlich hatten sich draußen ein paar Kerle auf unser
 Zelt geworfen …
 
 Die Zeltstangen knickten um …
 
 Wir lagen wehrlos da …
 
-Füße trampcelien auf uns herum …
+Füße trampelten auf uns herum …
 
 Und als ich den Kopf hob, bekam ich durch die Zeltleinwand
 hindurch einen Hieb über den Schädel, dem mein Verstandskasten
 nicht gewachsen war …
 
 Und als ich erwachte, lag ich auf einer Holzpritsche …
-Schräg über mich grinste ein helles vergittertes Frau
+Schräg über mich grinste ein helles vergittertes Fenster
+…
 
-er …
-
-Und … auf meinem Leibe krabbelten Legionen jener re
-Greis;en Tulpen, die überall in der Welt zu finden sind —.
-graue Tieren — — Läuse, reinblütige asiatisage Läuse von
-
-einer Gier nach) Europäerblut ohnegleichen
+Und … auf meinem Leibe krabbelten Legionen jener
+Tierchen umher, die überall in der Welt zu finden sind —
+graue Tierchen — — Läuse, reinblütige asiatische Läuse von
+einer Gier nach Europäerblut ohnegleichen …!
 
 Es war Tag …
 
-Und ich war, wie in sehr bald erfuhr, im Polizeigefängnis
+Und ich war, wie ich sehr bald erfuhr, im Polizeigefängnis
 des Hauptortes der Insel Potakiwu …!
 
 Als ich nämlich gerade den Vernichtungskampf gegen
-die Läusearmeen begonnen hatte, wurde die Zellentür ausgeschlossen
+die Läusearmeen begonnen hatte, wurde die Zellentür aufgeschlossen
 und herein traten zwei Europäer, während hinter
 ihnen drei Farbige in einer Art Uniform mich staunend
-ausbooten … —
+anglotzten … —
 
 Die beiden Europäer waren der Polizeimeister und der
 englische Richter der Insel …
@@ -378,15 +375,15 @@ englische Richter der Insel …
 Und — ich war ihres Erachtens einer der so eifrig gesuchten
 Spitzbuben!!
 
-Kaum hatte im von dieser angenehmen Verwechslung
+Kaum hatte ich von dieser angenehmen Verwechslung
 durch die groben Bemerkungen des Polizeimeisters Kenntnis
 erhalten, als ich von meiner Pritsche hochfuhr …
 
 <@pagebreak/>
 Brüllte: »Hat Ihnen denn mein Freund nicht gesagt,
-wer’ wir findet«
+wer wir sind?!«
 
-»Nein … Der spricht sein Wort … Hoffentlich sind
+»Nein … Der spricht kein Wort … Hoffentlich sind
 Sie vernünftiger …! Leugnen hat doch gar keinen Zweck …«
 
 Ich horchte auf …
@@ -396,8 +393,9 @@ Harald sprach kein Wort!!
 Wollte er etwa unser Inkognito wahren?!
 
 Niemand hier auf Potakiwu ahnte ja, daß Reginald
-brauche uns gebeten, den Fall der »sechs Wespen« zu untersuchen
+Blooß uns gebeten, den Fall der »sechs Wespen« zu untersuchen
 …
+
 Niemand, selbst der Verwalter Billing nicht …
 
 Und wenn Harald nun unsere Namen bisher nicht genannt
@@ -406,9 +404,9 @@ beabsichtigt.
 
 Ich richtete mich danach …
 
-Ich wurde verhört …«
+Ich wurde verhört …
 
-mein Grund blieb stumm … ’Nur über etwas beschwerte
+mein Mund blieb stumm … Nur über etwas beschwerte
 ich mich — über die Läuse …!!
 
 Der Richter wollte mir einen Salon als Zelle anweisen,
@@ -417,34 +415,34 @@ Genossen und der weißen Frau verratet würde …
 
 Mein Mund blieb stumm …
 
-Nur meine Hände blieben in Bewegung …? Knaben
-— sich Frauen, nennt man diese Handbeschästigung.
+Nur meine Hände blieben in Bewegung …: Kratzen
+— sich kratzen, nennt man diese Handbeschäftigung.
 
 Schließlich brachte man mich in die Zelle zurück … Der
 Richter drohte mir, mich schon nachmittags aufknüpfen zu
-lassen … Der Polizeumncijter drohte Antlitz Prügel und tun-geprüft
+lassen … Der Polizeimeister drohte mit Prügel und Hungerkur
 …
 
-So war ich denn wieder allein … sein, Furcht allein …
+So war ich denn wieder allein … Nein, Furcht allein …
 Über Vereinsamung hatte ich ja nicht zu klagen … Nie im
 Leben habe ich wieder einen so läusereichen Raum wie diese
-Zelle gesehen … Selbst in der — einsteckten Besucher, wo doch
-diese streichen mit zur Familie gehören, gibt es fraglos nicht
-derartigen Nebenfluß zu diesen Kriechltierhen …
+Zelle gesehen … Selbst in der finstersten Polackei, wo doch
+diese Tierchen mit zur Familie gehören, gibt es fraglos nicht
+derartigen Überfluß an diesen Kriechtierchen …
 
 Allein und nicht allein …
 
 Und doch bei Laune …
 
 <@pagebreak/>
-Denn … dort von der linken Wand her … vor dort
-Namen jetzt Klopftöne …
+Denn … dort von der linken Wand her … von dort
+kamen jetzt Klopftöne …
 
 Taktmäßig — in Zwischenräumen …
 
 Kurz — lang, lang — kurz …
 
-Und so fort — wie wir’s!Schon oft erprobt!
+Und so fort — wie wir’s Schon oft erprobt!
 
 Also dort saß Harald …
 
@@ -453,32 +451,32 @@ Buchstaben zu Worten zusammen:
 
 »nachts brechen wir aus!«
 
-Das Tuwan alles … — Es war ärmlich.
+Das war alles … — Es war genug.
 
 Aber — bis zur Nacht hatte ich noch böse Stunden vor
 mir …
 
-Stunden der Pein … Keime Minute Ruhe …
+Stunden der Pein … Keine Minute Ruhe …
 
 Läusekampf …
 
-Und — die Gesänguiöslost — — ausgerechnet Reis mit
-Seelisch, dort auf der, Inseln eine Art Nationalgericht …
-Und ich kann nun mal seinen Reis essen, wenn er nicht mit
-Milch gelockt und nicht mit brauner Butter und Zucker und
-Zimt serviert wird! ’’
+Und — die Gefängniskost — — ausgerechnet Reis mit
+Seefisch, dort auf den Inseln eine Art Nationalgericht …
+Und ich kann nun mal keinen Reis essen, wenn er nicht mit
+Milch gekocht und nicht mit brauner Butter und Zucker und
+Zimt serviert wird!
 
 Peinvolle Stunden …
 
-Wie lehnte ich den Abend herbei!! Herr, laß es finster
+Wie sehnte ich den Abend herbei!! Herr, laß es finster
 werden …!
 
 Und es wurde finster …
 
-Arm Gefängnis Stille …
+Im Gefängnis Stille …
 
 Aber dort an der Wand, die offenbar nur einen Stein
-Park war, arbeitete jemand unermüdlich …
+stark war, arbeitete jemand unermüdlich …
 
 Harst …
 
@@ -490,7 +488,7 @@ Bis wir uns im Dunkeln die Hände reichten …
 
 »Natürlich … Ein Stück von dem Eisenbeschlag der
 Pritsche … — Wie steht’s mit deinem Fenstergitter, mein
-Alter? das meine ist zu erst …«
+Alter? das meine ist zu fest …«
 
 Nun — jetzt waren wir zu zweien … Und dieses Dorfgefängnis
 hier auf Potakiwu war nur für mehr oder weniger
@@ -500,25 +498,25 @@ betrunkene Singhalesen berechnet …
 Das Gitter gab nach …
 
 Harst kletterte als erster hinaus … hinaus in den
-Mondschein, in den Hofraum, der von Gelinden eingeschlossen
-war … Hals mir dann …
+Mondschein, in den Hofraum, der von Gebäuden eingeschlossen
+war … Half mir dann …
 
 Dunkel die Fenster … Drüben offenbar das Wohnhaus
 des Polizeimeisters …
 
 »Wir müssen unbedingt unsere Pistolen und die Patronen
-zurückhaben,« flüstert Harst, »Wahrscheinlich hat
+zurückhaben,« flüstert Harst. »Wahrscheinlich hat
 der Polizeimeister sie in Verwahrung, und …«
 
-… ins da stand der eine Gefängnisaufseher, ein baumlanger,
+… und da stand der eine Gefängnisaufseher, ein baumlanger,
 engbrüstiger Inder vor uns …
 
-geöffnet?? schon den Mystik zum Alarmruf …
+öffnete schon den Mund zum Alarmruf …
 
 Klappte ihn wieder zu … der Mann besaß offenbar
-einen empfindlichen Magen, und die wenig sauste Berührung
-der Harald Harstschen Faust mit dieser Leibc8gegend
-nötigte dem Inder außerdem noch einen diesen Bückling nach
+einen empfindlichen Magen, und die wenig sanfte Berührung
+der Harald Harstschen Faust mit dieser Leibesgegend
+nötigte dem Inder außerdem noch einen tiefen Bückling nach
 vorn ab, so daß ich ihm bequem die Kehle zudrücken
 konnte …
 
@@ -527,98 +525,98 @@ Der arme Kerl hatte greuliche Angst vor uns …
 »Wo sind unsere auf der Sandinsel beschlagnahmten
 Sachen?« fragte Harald …
 
-Vor Inder deutete auf das Wohnhaus und ein bestimmtes
-Fernsten …
+Der Inder deutete auf das Wohnhaus und ein bestimmtes
+Fenster …
 
 »Dort im Bureau,« winselte er.
 
-Wir banden ihn, knobelten ihn …
+Wir banden ihn, knebelten ihn …
 
 Und holten unsere Sachen, die sauber in die Zeltbahn
-eingenäht waren …
+eingepackt waren …
 
 Wir holten sie … denn wir brauchten nur ein Gazefenster
-ceinzusch’anpon, was weiter keinen Lärm machte, und
+einzuschlagen, was weiter keinen Lärm machte, und
 einzusteigen.
 
-dann nahmen wir den Mörder nochmals ins Berg
+dann nahmen wir den Wärter nochmals ins Verhör
 …
 
 Wie weit es zur Nordostküste sei?
 
-Eine halb?? Stunde …
+Eine halbe Stunde …
 
 Ob es hier im Dorfe Hunde gebe, die nachts frei umherliefen
-? —
+?
 
 <@pagebreak/>
-Ja — viele Finde …
+Ja — viele Hunde …
 
-Ob er eins war das Dorf führen könne und wolle, —
+Ob er uns durch das Dorf führen könne und wolle, —
 wenn nicht, würden wir ihm den Hals abschneiden …
 
-Ja — er Blicke es tun … —
+Ja — er würde es tun … —
 
 so verließen wir denn den Hof in Begleitung eines
 Vertreters der hohen Obrigkeit …
 
-Der Mann — dachte auch nicht im entferntesten daran,
-uns etwa irgendwie zu verraten. Er war Beiboot, als wir
-ihm dann jenseits yve3 Dorfes derweil sagten und ihm
-auch noch vorsprachen, über seine freundliche Begleitung unter
-seinen Umständen etwas seinen Vorgesetzten mitzuteilen,
-falls wir wieder festgenommen vertrat sollten …
+Der Mann dachte auch nicht im entferntesten daran,
+uns etwa irgendwie zu verraten. Er war heilfroh, als wir
+ihm dann jenseits des Dorfes Lebewohl sagten und ihm
+auch noch versprachen, über seine freundliche Begleitung unter
+keinen Umständen etwas seinen Vorgesetzten mitzuteilen,
+falls wir wieder festgenommen werden sollten …
 
 Und ganz gemächlich wanderten wir nun die Landstraße
-entlang, die durch die Plantagenselver führte …
+entlang, die durch die Plantagenfelder führte …
 
-Als wir an einem Teiche vorübeorkamen, nahmen wir
-ein Bad und rieben uns gegenseitig mit schlamm’gem Sand
-die grauen Gleichem vom Körper. Um die verlausten Leinenhosen.
-nicht wieder anziehen zu müssen, Fürsten wir uns
+Als wir an einem Teiche vorüberkamen, nahmen wir
+ein Bad und rieben uns gegenseitig mit schlammigem Sand
+die grauen Tierchen vom Körper. Um die verlausten Leinenhosen
+nicht wieder anziehen zu müssen, hüllten wir uns
 in die Ölleinwand …
 
 Ich bedauere aufrichtig, diese unsere Flucht ebenso wie
-den Aufenthalt in dem Touisgosangnis von ’Potafiivu nur so
+den Aufenthalt in dem Dorfgefängnis von Potakiwu nur so
 in gedrängtester Kürze geschildert zu haben, aber — es gibt
 eben über das Wespennest noch so unendlich viel zu berichten,
 daß jede Zeile ausgenutzt werden muß.
 
-Deshalb: Wir fanden das Fenster unserer Koffer, und
-in diesem verließ dursten auch wir uns vorläufig sicher-fühlen.
+Deshalb: Wir fanden das Versteck unserer Koffer, und
+in diesem Versteck durften auch wir uns vorläufig sicherfühlen.
 
 Drei Uhr morgens … Ich war zum Umfallen müde,
-aber mein knurrenden Magen wollte zunächst einmal befriedigt
-werden. drei Füßen Konservenfleisch;, mußten daran
-glauben. Harald starrt?: »Das kann dir nicht bekommen!«
-— O — ich kenne meinen Magen! (Es be?am ihm prächtig.
+aber mein knurrender Magen wollte zunächst einmal befriedigt
+werden. drei Büchsen Konservenfleisch mußten daran
+glauben. Harald warnte: »Das kann dir nicht bekommen!«
+— O — ich kenne meinen Magen! Es bekam ihm prächtig.
 
-hervor wir uns dann in diesem Dornendickicht zwischen
+Bevor wir uns dann in diesem Dornendickicht zwischen
 den Felsen zur Ruhe niederlegten, unternahmen wir noch
-einen neuen Vornichtungsseldzug gegen die — Pardon! —
-Läusebestien, von der’on noch immer eine erkleockkliche Anzahl
+einen neuen Vernichtungsfeldzug gegen die — Pardon! —
+Läusebestien, von denen noch immer eine erkleckliche Anzahl
 <@pagebreak/>
-Spiritus knickte und zwackte. Dieses ruckartige Morden mit
-Hilfe des rühmlichst bekannten Stillsitzen ZJnjeofienvertilgungs-hitte
-Laujolin dauerte bei Harald etwas längere Zeit als
+uns zwickte und zwackte. Dieses endgültige Morden mit
+Hilfe des rühmlichst bekannten flüssigen Insektenvertilgungsmittels
+Lausolin dauerte bei Harald etwas längere Zeit als
 bei mir, da Harst sich noch einer in anderen Fällen beneidenswerten
-Kopshaarfülle erfreut. In diesem Falle war
-die Fülle völlig überflüssig, da sie den lieber Tieren Gelegenheit
-bot, sich vor den Uniform-Strömen immer wieder
-anderswohin 3. verfrümeln.
+Kopfhaarfülle erfreut. In diesem Falle war
+die Fülle völlig überflüssig, da sie den lieben Tieren Gelegenheit
+bot, sich vor den Lausolin-Strömen immer wieder
+anderswohin zu verkrümeln.
 
-dann … schlichen wir …
+dann … schliefen wir …
 
 Als Harald mich dann wach rüttelte, war es elf Uhr
-vormittags. Ich war so sälastnmken, daß ich mich ganz
+vormittags. Ich war so schlaftrunken, daß ich mich ganz
 wild umschaute, hatte gerade von der Zelle und von dem
 Nationalgericht, Reis mit Fisch, geträumt …
 
 Seliges Erwachen! In der Nähe rauschte die Brandung
-… Tüustende Sträucher Angaben uns … Harald
-hatte bereits Ecken Morgentee fertig und sagte kopfschüttelnd:
+… Duftende Sträucher umgaben uns … Harald
+hatte bereits den Morgentee fertig und sagte kopfschüttelnd:
 
-»Sie meinen gehen mir an die Nerven!«
+»Die Wespen gehen mir an die Nerven!«
 
 was ich zunächst nicht recht verstand, bis er mir dann
 einen Briefumschlag zeigte …
@@ -631,58 +629,56 @@ die Insel!!«
 
 Das war alles …
 
-Und — es war gen! …
+Und — es war genug …
 
 Es war die zweite Nachricht der weißen Frau …
 
 Harald meinte: »Sehr bald nach Empfang der ersten
 Mitteilung der Unbekannten ereilte uns das Geschick und
-man setzte uns in dem Dorfgefängnis fest. Dice6mal wollen
-wir das Schicksal nicht wiederum heraus8sordern, sondern
+man setzte uns in dem Dorfgefängnis fest. Diesmal wollen
+wir das Schicksal nicht wiederum herausfordern, sondern
 uns von hier rechtzeitig empfehlen. Besinne dich, daß Reginald
-Blocks uns seine? Plantage hier genau beschrieben hat …
-In der Nähe der Gebaut? im dichtesten tropischen Walde
-soll sie die ehemalige Behausung eines sogenannten büßenden
-Heiligen, eines buddhistischen Mönches, befinden. gesinnt!
-d empfahl uns diese Steinhütte als geeignetes Der«-
+Blocks uns seine Plantage hier genau beschrieben hat …
+In der Nähe der Gebäude im dichtesten tropischen Walde
+soll sich die ehemalige Behausung eines sogenannten büßenden
+Heiligen, eines buddhistischen Mönches, befinden. Reginald
+empfahl uns diese Steinhütte als geeignetes Versteck,
 <@pagebreak/>
-sieh, falls wir ein so’chhe8 nötig hätten. Versuchen wir, unbemerkt
+falls wir ein solches nötig hätten. Versuchen wir, unbemerkt
 bis dorthin zu gelangen …«
 
 Ich hatte nichts dagegen, hatte vielmehr nur etwas zu
-einsam: »Wie ist es möglich, Harald, daß diese Frau uns
+fragen: »Wie ist es möglich, Harald, daß diese Frau uns
 ständig beobachtet, daß sie von unserer Flucht wußte und
 daß sie hier jetzt den zweiten Brief niederlegen konnte?!«
 
-(Dir Lächeln huschte über sein Gesicht …
+Ein Lächeln huschte über sein Gesicht …
 
 »Wie das möglich ist, mein Alter?! Die Frau verfügt
-eben »über eine wenn? von Spionen! — Bedenke, daß sie
+eben über eine Menge von Spionen! — Bedenke, daß sie
 mich schon im ersten Schreiben mit »Harst« anredete, daß sie
 also wußte, wer die Zeltbewohner waren … — Sie muß
-also nicht nur hier, sondern auch in Negapatam ihre später
-haben, und sie muß seiner unbedingt davon unterrichtet gewesen
-sein, daß der Jlantagenverwalter James Billing
-unseren Jieginald um Entsendung eines tüchtigen Polizeibeamten
-bat, Hiernach acht weiter hervor, daß auch Billing
-dauernd belauer? und seine Korrespondenz überwacht wird.«
+also nicht nur hier, sondern auch in Negapatam ihre Späher
+haben, und sie muß ferner unbedingt davon unterrichtet gewesen
+sein, daß der Plantagenverwalter James Billing
+unseren Reginald um Entsendung eines tüchtigen Polizeibeamten
+bat. Hieraus geht weiter hervor, daß auch Billing
+dauernd belauert und seine Korrespondenz überwacht wird.«
 
-»Gut — sehe ich ein Sorglos … Wenn wir nun aber
-von hier die Viönch&ähütte aussuchen, so wird dieses Weib
-auch davon benimmt erhalten …
+»Gut — sehe ich ein, Harald … Wenn wir nun aber
+von hier die Mönchshütte aufsuchen, so wird dieses Weib
+auch davon Kenntnis erhalten …
 
 »Soll sie auch, lieber Alter … — Vielleicht verstehst du
-das jetzt noch nicht ganz … Aber daß wirst es schon noch begleiten
-… — so — — lebt … Maskerade! Und dann
+das jetzt noch nicht ganz … Aber du wirst es schon noch
+begreifen … — So — — jetzt … Maskerade! Und dann
 packen wir wieder unsere Bündel, verbergen die Koffer an
-anderer Stelle und wandern als braune bkarndose Gestellen
+anderer Stelle und wandern als braune harmlose Gestalten
 dem neuen Heim entgegen …
 
-Grafen
+<h2>3. Kapitel.</h2>
 
-<h2>8. Kapitel.</h2>
-
-<h3>Haralds untröstlichen Ortssinn ließ uns die Lichtung.</h3>
+Haralds untröstlichen Ortssinn ließ uns die Lichtung.
 im Walde wirklich finden, auf der, mit der Rückwand an
 ein mächtiges Felsgebilde sich lohnend, die aus Steinen erbaute
 Hütte des Mönchs stand,
@@ -1619,7 +1615,7 @@ vierzig bis fünfzig Wochen, ein Quadratmeter groß.
 
 Auf dem Brett! jeden« noch einige: Eine Zigarrenkiste,
 und in dieser Kiste ein kleiner Hammer folgte festrannte
-VDachpappennögel, deren spie sauber mit Schmirgelpapier
+Dachpappennägel, deren spie sauber mit Schmirgelpapier
 UmwißFclt war …!
 
 »Das Gainvpapiee Licht hier 1:97 im Lang? … +.« sagte
@@ -2025,7 +2021,7 @@ bauen?«
 »Gewiß … Hier — mein Haar ist noch etwas feucht.
 … weshalb fragen Sie?!«
 
-— Ihre Sicherheit, Unbesangenheit sind verblüffend.
+— Ihre Sicherheit, Unbefangenheit sind verblüffend.
 
 Der Dicke gibt sich einen Ruck … Polternd und grob
 in Übertriebener Dienstjstrenge bring? erste Verdachtsgründe
@@ -2085,7 +2081,7 @@ Wir bleiben noch eine halbe Stunde. Das Gesang,
 von Harald gelenkt, berührt nur harmlose Dinge …
 
 Aber — ich habe ein sehr seines Gefühl für Harsts
-wahre Seclenstimmung. Ich merke, daß er zerstreut ist!,
+wahre Seelenstimmung. Ich merke, daß er zerstreut ist!,
 daß sein Blick zuweilen gedankenverloren auf dem Antlitz
 des Verwalters ruht …
 
@@ -2259,7 +2255,7 @@ mir in dem kleinen Damensalon noch ein anderes Bild betrachtete?«
 hing nun eine Photographie dieser Hütte an der Wand …
 Ich nahm das Bild vom Nagel … Vor der Hütte stand
 der Einsiedler, und um den Rahmen War schwarzer
-Scleierstoff drapiert, als ob es das Bild eines lieben Toten
+Schleierstoff drapiert, als ob es das Bild eines lieben Toten
 sei. Der Einsiedler selbst, in eine Art Kutte gekleidet, hatte
 keinerlei Kopfbedeckung. aus, Die Stuürnbildung war die der
 Frau Billing …«
@@ -2461,7 +2457,7 @@ Schalter
 
 <h2>3. Kapitel.</h2>
 
-<h3>Ich schob ihr einen der Stühle hin …</h3>
+Ich schob ihr einen der Stühle hin …
 
 Aber sie hatte sich bereits wieder gehabt …
 
@@ -2775,7 +2771,7 @@ Warten den Korb aus, den der Hüne Einfing uns gebracht
 hatte
 
 Auch eine halbe Flasche Rotwein war dabei. Harald
-entfernte die Stannuiolkapscl vom »Flajchenhals und besichtigte
+entfernte die Stannuiolkapscl vom »Flaschenhals und besichtigte
 den sollen …
 
 »Geöffnet und wieder verschlossen, «« meinte er und …
