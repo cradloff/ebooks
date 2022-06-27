@@ -1755,83 +1755,85 @@ Geheimnis …</h1>
 Morgens Halb acht Uhr am selben Tage in Wilsons
 Dienstzimmer …
 
-»Hier sind versammelt: Die fünf Gefangenen, Wilson,
-der. Richter Longsteet, der Ecqreiber und wir beide.
-Die drei Singhalesen-meinen, junge, kräftige Leute,
-brauche ich nicht näher zu Beschreibung,«
+Hier sind versammelt: Die fünf Gefangenen, Wilson,
+der Richter Longsteet, der Schreiber und wir beide.
+Die drei Singhalesen-Wespen, junge, kräftige Leute,
+brauche ich nicht näher zu beschreiben.
+
 Interessant dagegen die beiden Europäer …
-Der eine ein Planken, blonden junger Mensch mit!kt-teligentem
-Gesicht, tadellos angz3og2n, tadellos verriet!?
-Hand? …
+
+Der eine ein schlanker, blonder junger Mensch mit intelligentem
+Gesicht, tadellos angezogen, tadellos gepflegte
+Hände …
 
 <@pagebreak 37/>
-Der andere einen Kopf kleiner, jschwarzbaarig, schwarzer
-Spitzbart, lebhafte, kenne Augen … Ich ich sie: Spanier
-oder Italiener! — hin sauber in Kluft, dieser
+Der andere einen Kopf kleiner, schwarzhaarig, schwarzer
+Spitzbart, lebhafte, listige Augen … Ich schätze: Spanier
+oder Italiener! — Auch sauber in Kluft, dieser
 Schwarze …
 
-Und beide von einer unerschütterlichen Gemnütseruhe
+Und beide von einer unerschütterlichen Gemütsruhe
 und … Schweigsamkeit.
 
-Schon bei ihrerVerhastung haben sie kein Wort gesprochen
+Schon bei ihrer Verhaftung haben sie kein Wort gesprochen
 …
 
 Jetzt erst recht nicht — genau wie die drei Singhalesen
 … —
 
 Richter Longsteet gibt sich die redlichste Mühe, etwas
-aus den Gefangenen hecan8zuquetichen …
+aus den Gefangenen herauszuquetschen …
 
-Der Blonde lächelt nur geringschäbvig … Der Schwarze
-
--. spuckt Longsteet vor die Füße …
+Der Blonde lächelt nur geringschätzig … Der Schwarze
+spuckt Longsteet vor die Füße …
 
 Das ist alles. —
 
-Papiere Besitz keiner der fünf. An im Wrack ist nichts
-gefunden worden, was über diese Leute Ansicht!ß geben
-könnte, jemand hat sich hier je gesehen.
+Papiere Besitzt keiner der fünf. Auch im Wrack ist nichts
+gefunden worden, was über diese Leute Aufschluß geben
+könnte, niemand hat sie hier je gesehen.
 
 Richter Longsteet blickt hilflos zu Harald hinüber, der
 am Fenster lehnt …
 
-Harst mustert andauernd den Blonden: … Und sagt
+Harst mustert andauernd den Blonden … Und sagt
 nun:
 
 »Sir Longsteet, ich möchte den Blonden einmal unter
 vier Augen sprechen … Nur Schraut soll dabei sein …«
 
-Der Richter zögert erst. Aber Wilson winkt [schon dem
-Edjreiber
+Der Richter zögert erst. Aber Wilson winkt schon dem
+Schreiber …
 
-Dann sind wir tat dem schlanken, mit diesem Gauners
-Gentleman wirklich allein …
+Dann sind wir mit dem schlanken, mit diesem Gauner-Gentleman
+wirklich allein …
 
-— Er sitzt aus einem Fahrstuhl, die mit Lederriemen gefesselten
-Hand? im Schoße …
+Er sitzt auf einem Fahrstuhl, die mit Lederriemen gefesselten
+Hände im Schoße …
 
 »Sie wissen, wer ich bin,« beginnt Harald. »Ich habe
-Miß Sturz Smieder bisher geschont und nichts von dem
-Verdacht gegenüber den trennten geäußert, den ich mit
-einigem meist gegen. das junge Mädchen geschöpft habe. An
-Ihnen wird es mir liegen, ob Mary Smieder gleichfalls
+Miß Mary Smieder bisher geschont und nichts von dem
+Verdacht gegenüber den Beamten geäußert, den ich mit
+einigem Recht gegen das junge Mädchen geschöpft habe. An
+Ihnen wird es nun liegen, ob Mary Smieder gleichfalls
 verhaftet wird …«
 
 <@pagebreak/>
-Der Bande preßt die Lippen zusammen. Aus seiner
-Stirn garfcheinen »halten +…
+Der Blonde preßt die Lippen zusammen. Auf seiner
+Stirn erscheinen Falten …
 
 »Wer sind Sie?« fragt Harald dann.
 
 Der Gentleman atmet schwer … Seine Gemütsruhe
-ich dahin … Seine grauen Augen irren durch das helle
+ist dahin … Seine grauen Augen irren durch das helle
 Zimmer …
+
 Dann glättet sich seine Stirn wieder. Man merkt:
 Der Schreckschuß des Namens Mary verliert an Wirkung!
 
 Langsam erwidert der Blonde:
 
-»34H kenne Mary Smieder nicht … Wenn Sie nichts
+»Ich kenne Mary Smieder nicht … Wenn Sie nichts
 anderes vorzubringen haben, Mr. Harst, so werden wir
 uns kaum verständigen …« — Beißende Ironie ist’s …
 Überlegene Ironie …
@@ -1843,40 +1845,39 @@ wieder herein. Ich werde zu Protokoll geben, daß wir
 beide drei Warnungsbriefe erhalten haben, die nur von
 Mary Smieder herrühren können …«
 
-Vorhalle Bein Stunden scharf …
+Ich beobachte den Blonden scharf …
 
 Der hat wieder tiefe Falten auf der Stirn — sagt
 hastig:
 
 »Einen Augenblick noch, Mr. Harst …«
 
-»Warte, Schraut … —«- Und ich sie mich wieder …
+»Warte, Schraut … —« Und ich setze mich wieder …
 
 Der Gentleman mit dem intelligenten Gesicht starrt zu
 Boden … Seine Wangenmuskeln zucken …
 
 »Nun?!« ermuntert Harald ihn …
 
-Und da … geschickt etivwa8 sehr Seltsames …
+Und da … geschickt etwas sehr Seltsames …
 
-Plötvlich klirrt die eine Fensterscheibe …
+Plötzlich klirrt die eine Fensterscheibe …
 
 Ein Stein fliegt ins Zimmer, rollt dem Blonden vor
 die Füße …
 
-Um den Stein ein Stück Papier mit Bindfaden feste
-gebunden, und auf dem Papier sind mit Tinte Wespen g2-zeichnet
-— deutlich erkennbar …
+Um den Stein ein Stück Papier mit Bindfaden festgebunden,
+und auf dem Papier sind mit Tinte Wespen
+gezeichnet — deutlich erkennbar …
 
 Der Gefangene lacht kurz auf …
 
 <@pagebreak/>
-Harst aber ist mit zwei Sähen an! der Tür, stürmt hinaus
+Harst aber ist mit zwei Sätzen an der Tür, stürmt hinaus
 …
 
-Die Fenster des Zimmers gehen Nr dem Hofe zu.
-Karbol ist dasselbe Zimmer, aus dem wir nachts unsere Bündel
-
+Die Fenster des Zimmers gehen nach dem Hofe zu.
+Es ist dasselbe Zimmer, aus dem wir nachts unsere Bündel
 holten …
 
 Ich sehe durch die Fenster Harald im Hofe erscheinen …
@@ -1886,14 +1887,14 @@ Sie suchen nach dem, der den Stein geschleudert hat …
 
 Vergebens …
 
-Nach fünf Minuten bereit Harald wieder das Zimmer
+Nach fünf Minuten betritt Harald wieder das Zimmer
 …
 
 Der Stein liegt noch zu Füßen des Blonden. Harst
-hebt ihn auf … all
+hebt ihn auf …
 
 Das Papier ist bis auf die mit Tinte gezeichneten
-weniger leer …
+Wespen leer …
 
 Der Blonde lächelt geringschätzig … In seinen Augen
 blinkt versteckter Triumph …
@@ -1901,9 +1902,9 @@ blinkt versteckter Triumph …
 »Ich soll also Mary Smieder verhaften lassen?« fragt
 Harald mit Nachdruck …
 
-Schnurriger … gleichgültiges Achselzucken …
+Schweigen … gleichgültiges Achselzucken …
 
-»Edqraut, hole die anderen …«
+»Schraut, hole die anderen …«
 
 So sind wir denn wieder wie vorhin hier versammelt,
 und Harst diktiert dem Schreiber die Verdachtsgründe gegen
@@ -1914,51 +1915,50 @@ schickt sofort drei Beamte zur Blooß-Plantage.
 
 Wir warten …
 
-Die Beamten sind in zwanzig Minuten wieder da —« —
+Die Beamten sind in zwanzig Minuten wieder da — —
 ohne Mary Smieder … Aber James Billing ist mitgekommen
 … Und Billing berichtet, daß Mary vor einer
-Stande etwa die Plantage verlassen habe, um angeblich ein
+Stunde etwa die Plantage verlassen habe, um angeblich ein
 Bad in der See zu nehmen.
 
-Mut) Billing kennt die Gefangenen nicht, die nun jeder
+Auch Billing kennt die Gefangenen nicht, die nun jeder
 für sich eingesperrt werden: Die Singhalesen im Gefängnis,
 die beiden Europäer im Keller, wo sie unter dauernder
-Aussicht bleiben. —
+Aufsicht bleiben. —
 
 <@pagebreak/>
 Billing ist ganz verzweifelt darüber, daß Mary nun
-die eine Verbrecherin von. der Polizei gesucht wird … Er
-trägt es uns bisher nach, daß wir. Mary … denunziert
+wie eine Verbrecherin von der Polizei gesucht wird … Er
+trägt es uns bitter nach, daß wir Mary … denunziert
 haben … Er ist geradezu unliebenswürdig zurückhaltend,
-als Harald erklärt, wir müßten einmal Miß Marys Kummer
+als Harald erklärt, wir müßten einmal Miß Marys Kammer
 durchsuchen.
 
-Niemand Zweifel daran, daß Mary den Schein (ck
-schleudert hat, der mit seiner Papierumtwiilung so merkwürdig
+Niemand Zweifel daran, daß Mary den Stein geschleudert
+hat, der mit seiner Papierumhüllung so merkwürdig
 auf den blonden Unbekannten gewirkt hat! Wie
-eine Ermunicrung, fest zu bleiben und nichts zu verraten!
+eine Ermunterung, fest zu bleiben und nichts zu verraten!
 
-Tone Auto bringt uns, Billing und Wilson nach der
+Das Auto bringt uns, Billing und Wilson nach der
 Blooß-Plantage, während die Polizisten, verstärkt durch
 Arbeiter, nach Mary fahnden … Richter Longsteet ist zu
-Smieders gegangen, um die:;e ein wenig vorzubereiten.
+Smieders gegangen, um diese ein wenig vorzubereiten.
 
-Eine ungemütliche Fahrt durch) die blühende, fruchtbare
+Eine ungemütliche Fahrt durch die blühende, fruchtbare
 Insel …
 
-Billing — beantwortet Harsts Fragen widerwillig und
-
+Billing beantwortet Harsts Fragen widerwillig und
 bissig …
 
 »Wann erhielten Sie die Nachricht von der Festnahme,
-der Wespen und »von wem?«
+der Wespen und von wem?«
 
-»h3]Töne kann Ihnen Wilson genauer angeben, denn der
-hat’s mir telephonisch mitgeteilt …
+»Das kann Ihnen Wilson genauer angeben, denn der
+hat’s mir telephonisch mitgeteilt …«
 
-»Ad telephonierte um ein Viertel acht,« erklärte der
+»Ich telephonierte um ein Viertel acht,« erklärte der
 Dicke. »Ich wollte doch Billing die Freude nicht vorenthalten,
-daß die gastohlenen Summen wieder zur Stelle …«
+daß die gestohlenen Summen wieder zur Stelle …«
 
 »Wer war bei Ihnen am Apparat? Sie selbst, Billing?«
 
@@ -1966,122 +1966,122 @@ daß die gastohlenen Summen wieder zur Stelle …«
 
 »Und die hat’s dann wohl Mary erzählt …«
 
-»Es Wahrscheinlich …
+»Wahrscheinlich …«
 
-»Sie könnten getrost liebenswürdiger sein,« Bassins
-Harald +…
+»Sie könnten getrost liebenswürdiger sein,« meint
+Harald …
 
-Der Verwalter zuckt die Schleim …
+Der Verwalter zuckt die Achseln …
 
 Ungemütlich!!
 
 Um elf Uhr lernen wir die Plantage kennen, das stattliche
 <@pagebreak/>
-Wohnhaus — alles blitzsauber, — ein großer, modern
-ner Betrieb …
+Wohnhaus — alles blitzsauber, — ein großer, moderner
+Betrieb …
 
 Als wir die Treppe zur Veranda emporsteigen, erscheint
-in der offenen Tür ein junges Mädchen im [Schliche
-erschien weißen Leinenkleid …
+in der offenen Tür ein junges Mädchen im schlichten
+weißen Leinenkleid …
 
 Eine anmutige Erscheinung, ein liebliches Gesicht mit
 klaren großen Augen …: Mary Smieder!
 
-»Mary!!« mit Billing … »Mary, du hier?!«
+»Mary!!« ruft Billing … »Mary, du hier?!«
 
-»Ich bin längst vom Boden zurück, durch, längst … —
+»Ich bin längst vom Baden zurück, Onkel, längst …« —
 
-Der nickte Wilson weiß vor Verlegenheit nicht, was er
-Taifun soll …
+Der dicke Wilson weiß vor Verlegenheit nicht, was er
+tun soll …
 
-Marys Blicke streifen Harst nur mich …
+Marys Blicke streifen Harst und mich …
 
-»Onkel, das sind wohl die Fesseln veutscheat Herren?«
-—» Sie sragt’8 ohne jede Scheu.
+»Onkel, das sind wohl die beiden deutschen Herren?«
+— Sie fragt’s ohne jede Scheu.
 
 »Leider sind Sie’s!« brummt der Hüne Billing …
 
-Wilson sieht da u1u9 kurzer seine fände …
+Wilson sieht da und knetet seine Hände …
 
 Ungemütlich!!
 
-Dann Harst — höflich, oder bestimmt:
+Dann Harst — höflich, aber bestimmt:
 
-»weiß Smieder, Sie waren wirklich am Seestrande
-bauen?«
+»Miß Smieder, Sie waren wirklich am Seestrande
+baden?«
 
 »Gewiß … Hier — mein Haar ist noch etwas feucht.
-… weshalb fragen Sie?!«
+… — Weshalb fragen Sie?!«
 
-— Ihre Sicherheit, Unbefangenheit sind verblüffend.
+Ihre Sicherheit, Unbefangenheit sind verblüffend.
 
 Der Dicke gibt sich einen Ruck … Polternd und grob
-in Übertriebener Dienstjstrenge bring? erste Verdachtsgründe
+in Übertriebener Dienststrenge bringt er die Verdachtsgründe
 vor …
 
-Marys Gesicht verrät nie als ungläubiges Erstan-neun
-… Sie heuchelt nicht. So könnte jeibjti ein Weib nicht
+Marys Gesicht verrät nichts als ungläubiges Erstaunen
+… Sie heuchelt nicht. So könnte selbst ein Weib nicht
 heucheln.
 
-Dann sagt sie halb belustigt: »Ich soll heute tun Dorfe
-gewesen sein?! Ich soll die Diebe können?! aber —
+Dann sagt sie halb belustigt: »Ich soll heute im Dorfe
+gewesen sein?! Ich soll die Diebe kennen?! Aber —
 wie … wie kommen Sie nur darauf — — ich?! — Ich
-hatte ja meine Dienerin mit zum Baden geitovummcit, Und
-jeder hier könnte bezeugen, daß ic9 …«
+hatte ja meine Dienerin mit zum Baden genommen, Und
+jeder hier könnte bezeugen, daß ich …«
 
-Sie schweigt … Billing hat ihre Hand ecgrissjeu …
-Null wieder:
+Sie schweigt … Billing hat ihre Hand ergriffen …
+Ruft wieder:
 
 <@pagebreak/>
 »Nun, Sir … nun?!« Und das gilt Harald …
 
 Harst verbeugt sich nur, meint: »Ich möchte mir das
-Haus innen Häuschen — alle Räume, nur von Ihnen begleitet,
+Haus innen ansehen — alle Räume, nur von Ihnen begleitet,
 Wilson … Miß Smieder scheint zu Unrecht verdächtigt
 worden zu sein …«
 
-So wandern wir drei denn von Zimmer zu Zi
-ner …«
+So wandern wir drei denn von Zimmer zu Zimmer
+…
 
 Kommen überallhin. Harald entgeht nichts … Harald
 besichtigt Gegenstände, die scheinbar belanglos sind …
 
-Als von die Veranda wieder betreten, steht der Hüne
+Als wir die Veranda wieder betreten, steht der Hüne
 Billing Arm in Arm mit seinem Liebling Mary neben
 einem gedeckten Tisch …
 
 Wilson weiß noch immer nicht recht, was er tun soll …
 Harald hat während dieser Stunde kein Wort gesprochen …
 
-Jetzt sagt er aus unaufgefordert:
+Jetzt sagt er ganz unaufgefordert:
 
 »Es freut mich, Miß Smieder, daß nun jeder Argwohn
-gegen Sie geschwunden ist …
+gegen Sie geschwunden ist …«
 
-Ich — — bin überrascht … —« So auspielert Harald?!
+Ich — — bin überrascht … — Schauspielert Harald?!
 
 Nein — er reicht Mary Die Hand … Desgleichen
-Billing … —
+Billing …
 
-»lebt zürnen Sie uns Hoffentlich 7 Java Mehr«…«
+»Jetzt zürnen Sie uns Hoffentlich nicht mehr …«
 
-Billing lädt uns strahlend zu einem Imbiß ein. wir«-
-schon laut aus. Er ist froh, daß er Mary nicht zu verhaften
+Billing lädt uns strahlend zu einem Imbiß ein. Wilson
+taut auf. Er ist froh, daß er Mary nicht zu verhaften
 braucht.
 
-Wir bleiben noch eine halbe Stunde. Das Gesang,
+Wir bleiben noch eine halbe Stunde. Das Gespräch,
 von Harald gelenkt, berührt nur harmlose Dinge …
 
-Aber — ich habe ein sehr seines Gefühl für Harsts
-wahre Seelenstimmung. Ich merke, daß er zerstreut ist!,
+Aber — ich habe ein sehr feines Gefühl für Harsts
+wahre Seelenstimmung. Ich merke, daß er zerstreut ist,
 daß sein Blick zuweilen gedankenverloren auf dem Antlitz
 des Verwalters ruht …
 
 Billing entschuldigt sich beiläufig wegen der Abwesenheit
 seiner Frau … »Sie ist zu den Nachbarn gefahren …
-Die Frau des Plantagenbesitzers Rucksack ist ihre Freund
+Die Frau des Plantagenbesitzers Ruckford ist ihre Freundin
+…
 
-in …
 Dann verabschieden wir uns, besteigen wieder das
 Auto …
 
@@ -2089,23 +2089,20 @@ Auto …
 Kaum lenkt der Kraftwagen in den Hauptweg ein, als
 Harald dem Fahrer zuruft, er solle halten,
 
-»Wilson, wendet er sich an den Dicken, »Schraut und
+»Wilson,« wendet er sich an den Dicken, »Schraut und
 ich werden zu unserer Hütte zurückkehren und erst einmal
 ausschlafen … Auf Wiedersehen …«
 
 Der Dicke schaut uns verblüfft nach, wie wir in den
 Wald einbiegen …
 
-» a.
-€=Z=€zZ=ch =»2
-
 <h2>2. Kapitel.</h2>
 
-<h3>»Ein. Detektiv ohne Phantasie ist wie ein Jokey ohne.</h3>
-Beine,« pflegte Harald zuweilen zu sitzen …
+»Ein. Detektiv ohne Phantasie ist wie ein Jockey ohne
+Beine,« pflegte Harald zuweilen zu sagen …
 
 Jetzt aber, als wir den Waldpfad entlang der Hütte
-des Buddhistenmönches zweiten, meinte er:
+des Buddhistenmönches zuschritten, meinte er:
 
 »Lieber Alter, ein Detektiv mit allzu viel Phantasie ist
 wie ein Boxer, der über so ungeheure Kräfte verfügt, daß
@@ -2114,95 +2111,92 @@ er jeden Gegner sofort für immer niederstreckt …«
 »Hm,« erklärte ich, »bezieht sich dieser Ausspruch etwa
 auf deine eigene Person?«
 
-»I0 — leider …! Ich hatte mir da, nachdem ich noch
+»Ja — leider …! Ich hatte mir da, nachdem ich noch
 diesen blonden Gentlemangauner gesehen, hinsichtlich Marys
-einen Roman zusammengereimt, der nun wie ein Hazienda:
-ist zufarnmengestürzt ist. Ich glaubte, Mary habe diesen
-Menschen viel!Sicht schon in Keolombo kennen gelernt,
-lieber gelernt, und er sei ihr heimlich hierher gefolgt. —
+einen Roman zusammengereimt, der nun wie ein Kartenhaus
+zusammengestürzt ist. Ich glaubte, Mary habe diesen
+Menschen vielleicht schon in Kolombo kennen gelernt,
+lieben gelernt, und er sei ihr heimlich hierher gefolgt. —
 Alles falsch — alles falsch! Mein Roman war ja leidlich
-logisch, entsprach scheinbar den uns Burgunder! Versuchen.
-Und doch bin ich die8ma! mit meiner Phantasie weit über
-das Ziel bhinansgoschöossen, und ich muß nun den Dingen
-mit alloersirengster Logik auf den Leib rücken, um die längere
-aufzusuchen …«
+logisch, entsprach scheinbar den uns bekannten Tatsachen.
+Und doch bin ich diesmal mit meiner Phantasie weit über
+das Ziel hinausgeschossen, und ich muß nun den Dingen
+mit allerstrengster Logik auf den Leib rücken, um die Scharte
+auszuwetzen …«
 
-»Ein — alles sehr schön … Woher weißt du aber es
+»Hm — alles sehr schön … Woher weißt du aber es
 genau, daß Mary unschuldig?«
 
-Er blieb sieben …
+Er blieb stehen …
 
-von uns der rauschte der Wald …
+Um uns her rauschte der Wald …
 
 <@pagebreak/>
 »Weil ich in Billings Heim zweierlei fand, mein Alter,«
-»erwiderte er fast traurig. »Der arme Billing! Macht
+erwiderte er fast traurig. »Der arme Billing! Mary
 ist ihm gerettet, die ihn so hübsch vertraulich Onkel nennt …
-Die andere wird kaum zu retten sein …
+Die andere wird kaum zu retten sein …«
 
-Wer?«
+»Wer?«
 
 Er entgegnete ganz leise:
 
-»Frau Billing, Frau Maria Billing …
+»Frau Billing, Frau Maria Billing …«
 
 Ich prallte fast zurück …
 
 »Frau Billing?! — Harald, wie kommst du in aller
-Welt« aus den. Gedanken?!«
+Welt auf den Gedanken?!«
 
-Er zog nicht weiter …
+Er zog mich weiter …
 
-»gern du, Max Schraut, ein wenig schärfer denken
-und sehen wiünvdest, dann … dann wäre dir folgendes nicht
+»Wenn du, Max Schraut, ein wenig schärfer denken
+und sehen würdest, dann … dann wäre dir folgendes nicht
 entgangen … Das Ehepaar Billing hat getrennte Schlafzimmer.
-Das ihre liegt retten ihrem Damenzimmer nach
+Das ihre liegt neben ihrem Damenzimmer nach
 dem Garten zu … In dem kleinen netten Damensalon
-ne ein Schreibtisch. Auf ’diescm Schreibtisch lag … dies
-
-hier
-
-«
+steht ein Schreibtisch. Auf diesem Schreibtisch lag … dies
+hier …«
 
 Er faßte in die Tasche, holte sein Zigarettenetui hervor
-… kannte es auf.
+… klappte es auf.
 
 Zwischen den Zigaretten lag eine große tote Wespe …
 
 »Diese tote Wespe, mein Alter, war halb von dem
 Tintenlöscher bedeckt, einem sehr eleganten Tintenlöscher
-aus Silber. Sitz ich ihn umdrehte, sah ich auf beim eingespannten
-Löschvpayier die verschwommenen Figuren von
-mit Tinte gezeichneten seinen … — Die tote Wespe hatte
+aus Silber. Als ich ihn umdrehte, sah ich auf dem eingespannten
+Löschpapier die verschwommenen Figuren von
+mit Tinte gezeichneten Wespen … — Die tote Wespe hatte
 der Frau als Zeichenvorlage gedient.«
 
-— eßt blieb ich stehen, Die Sache ging mir nahe …
-Fluch mir begann Billing leid zu tun …
+Jetzt blieb ich stehen. Die Sache ging mir nahe …
+Auch mir begann Billing leid zu tun …
 
-»Dann hing da ein Filz des Ehepaares an der Wand,
-ein sehr großes bin,« süße Harald fort … »Als ich die
-Gesichtszüge der Plan Ablösung prüfte, fiel mir die Stirnbildung
-auf … Ginge eckige, vorspringende Stirn … Un9d
-darunter dunkle, ich lebhafte Augen. Der ganze Gesichtsschnitt
-erinnerte mich an den Genossen des. Blonden, an den
-fawarzbaurigen, unympathischen Menschen … — Aber
+»Dann hing da ein Bild des Ehepaares an der Wand,
+ein sehr großes Bild,« fuhr Harald fort … »Als ich die
+Gesichtszüge der Frau Billing prüfte, fiel mir die Stirnbildung
+auf … Eine eckige, vorspringende Stirn … Und
+darunter dunkle, sehr lebhafte Augen. Der ganze Gesichtsschnitt
+erinnerte mich an den Genossen des Blonden, an den
+schwarzhaarigen, unsympathischen Menschen … — Aber
 <@pagebreak/>
 gehen wir weiter … — Dann kamen wir in Frau Billings
 Schlafzimmer. Da mein Verdachts bereits rege, beschaute
-ich mir die Fensterbleche beider Fenster. Sie sind trotz
+ich mir die Fensterbleche beider Fenster. Sie sind weiß
 lackiert. Das eine Blech verriet durch Kratzer ganz deutlich,
-daß jemand hier häufiger hinansilettert — jemand, Frau
-Billing nauwürlich, und natürlich nachts … Ziel öffnete den
+daß jemand hier häufiger hinausklettert — jemand, Frau
+Billing natürlich, und natürlich nachts … Ich öffnete den
 einen Fensterflügel, wie du sahst, und beugte mich hinaus.
-Unter dem Fenster stand. ein Holzkasten. Der Holzkasten
+Unter dem Fenster stand ein Holzkasten. Der Holzkasten
 war oben sandig. Man benutzt ihn als Trittleiter — man
-— Frau Billing …!« … ck
+— Frau Billing …!«
 
 Wir bogen in die Lichtung ein …
 
-Tor! links unsere Hütte ;…
+Dort links unsere Hütte …
 
-Wie idyllisch lag sich doch hier mitten im Grünen mit
+Wie idyllisch lag sie doch hier mitten im Grünen mit
 dem mächtigen Felsen als Hintergrund …! Der buddhistische
 Mönch, der sich hier ein halbes Jahrhundert lang
 frommen Betrachtungen hingegeben hatte, war fraglos ein
@@ -2211,37 +2205,39 @@ Naturfreund gewesen,
 In der Hütte selbst, die wir unverschlossen gelassen,
 fanden wir alles unverändert vor.
 
-(Es war jetzt die Zeit der größten Tageshitze, und das
-— Steinsäule her immerhin leidlich kühl. — Harald sösfnete die
-»Tür nach der Felsspalte, und so strömte uns denn aus dem
-höhlenähnlichen Gang ein erstickender Lufthauch entgegen.
+Es war jetzt die Zeit der größten Tageshitze, und das
+Steinhäuschen immerhin leidlich kühl. — Harald öffnete die
+Tür nach der Felsspalte, und so strömte uns denn aus dem
+höhlenähnlichen Gang ein erfrischender Lufthauch entgegen.
+
 Wir setzten uns in die Hängematten … Harst rauchte
 ein paar Züge und begann dann wieder:
-»Wir haben Frau Maria Billing noch nicht kennen
-… gelernt … Angeblich war sie auf der Nachbarplantage. In
-Wahrheit hat sich? von Stein mit dem Zettel geschleudert. Ich
-»gehabt?? bei dieser Behauptung die Phantasie vollkommen
-und halte mich lediglich an die Logik, das heißt an kühles
-müssen von unumstößlichen Tatsachen. Tatsache ist,
-daß der Gesichtösmnitt der Frau Billing ’der Photographie
-ne dem des schwarzhaarigen Menschen auffällig gleicht,
-besonders die Stirnbildung. Traum Billing schäb2e ich auf
-fünfzig. Der ECribirarz? kann etwa dreißig Jahre zählen,
+
+»Wir haben Frau Maria Billing noch nicht kennengelernt
+… Angeblich war sie auf der Nachbarplantage. In
+Wahrheit hat sie den Stein mit dem Zettel geschleudert. Ich
+schalte bei dieser Behauptung die Phantasie vollkommen
+aus und halte mich lediglich an die Logik, das heißt an kühles
+Prüfen von unumstößlichen Tatsachen. Tatsache ist,
+daß der Gesichtsschnitt der Frau Billing der Photographie
+nach dem des schwarzhaarigen Menschen auffällig gleicht,
+besonders die Stirnbildung. Frau Billing schätze ich auf
+fünfzig. Der Schwarze kann etwa dreißig Jahre zählen,
 <@pagebreak/>
 kann also … ihr Sohn sein, — ein Sohn, von dem ihr
 jetziger Mann nichts ahnt …«
 
-39 hüstelte …
+Ich hüstelte …
 
-»Ierzeih’, das ist doch wohl wieder mehr Phantasie
-als Logik, Harald …
+»Verzeih’, das ist doch wohl wieder mehr Phantasie
+als Logik, Harald …«
 
 Er rauchte gelassen weiter …
 
 »Verzeih’, das ist nur Logik … — Sahst du, daß ich
 mir in dem kleinen Damensalon noch ein anderes Bild betrachtete?«
 
-»Im — 1) unterhielt mich mit Wilson …«
+»Hm — ich unterhielt mich mit Wilson …«
 
 »leider unterhältst du dich immer zur Unzeit … Da
 hing nun eine Photographie dieser Hütte an der Wand …
@@ -2249,140 +2245,138 @@ Ich nahm das Bild vom Nagel … Vor der Hütte stand
 der Einsiedler, und um den Rahmen War schwarzer
 Schleierstoff drapiert, als ob es das Bild eines lieben Toten
 sei. Der Einsiedler selbst, in eine Art Kutte gekleidet, hatte
-keinerlei Kopfbedeckung. aus, Die Stuürnbildung war die der
+keinerlei Kopfbedeckung auf. Die Stirnbildung war die der
 Frau Billing …«
 
 Ich starrte Harald an … »Du glaubst …?!«
-»3ch glaube, daß der Einsiedler Frau Billings Vater
-war … — solch habe das Bild auch umgedreht. Und aus
 
+»Ich glaube, daß der Einsiedler Frau Billings Vater
+war … — Ich habe das Bild auch umgedreht. Und auf
 der Rückseite fand ich eine zweite Photographie, einen jungen
-Versuchen von etwa achtzehn Jahren darstellend …
-Ohne Zweifel der Schwarzhaarige. — Genügt dir das?!«7
+Menschen von etwa achtzehn Jahren darstellend …
+Ohne Zweifel der Schwarzhaarige. — Genügt dir das?!«
 
 Ich überlegte … meinte:
 
-»grau Billings Sohn, — mag sein! Aber Frau Billings
-Vater?! Der Mond) war doch …«
+»Frau Billings Sohn, — mag sein! Aber Frau Billings
+Vater?! Der Mönch war doch …«
 
 »Gestatte, nicht der Mönch … Ich sprach von dem
-Einsiedler. Der Mönch, der Buddhist, mag. vorher gestanden
+Einsiedler. Der Mönch, der Buddhist, mag vorher gestorben
 sein. Dann nahm ein anderer seine Stelle ein …«
 
-»am — —y» —« das erscheint mit denn doch allzu … phantastisch
-…
-»Wir nicht. Der Traterflor um den zahmen sägt
+»Hm — — das erscheint mit denn doch allzu … phantastisch
+…«
 
-mir genug … ein bis behaupten, daß eine Frau ein
-Bild derart Bombay, Ohr ren tieferen Grund dazu zu —
+»Mir nicht. Der Trauerflor um den Rahmen sagt
+mir genug … Willst du behaupten, daß eine Frau ein
+Bild derart schmückt, ohne einen tieferen Grund dazu zu
 haben?!«
 
 <@pagebreak/>
-Z« schwieg … Diese ganze Erörterung von Fragen,
+Ich schwieg … Diese ganze Erörterung von Fragen,
 die gewissermaßen ohne zuverlässigen Stützpunkt in der
-Lust hingen, ermüdete mich … Ich gähnte verstohlen …
-»Zu hatte mich bald in die Hängematte gelegt, und zuweilen
-sieben wie die Augen zu «
+Luft hingen, ermüdete mich … Ich gähnte verstohlen …
+Ich hatte mich halb in die Hängematte gelegt, und zuweilen
+fielen mir die Augen zu …
 
-Mein Interesse zu all diesen Dingen zerflatterte unter
+Mein Interesse an all diesen Dingen zerflatterte unter
 dem Einfluß einer übergroßen körperlichen und geistigen
-Abspannunzd …
+Abspannung …
 
 auch Harald blieb nun stumm …
 
-Ad +. schlief ein …
+Ich … schlief ein …
 
-Stimmen Bechert im …
+Stimmen weckten mich …
 
 Ich fuhr empor …
 
-Drängen begrüßte Harald den Verwalter Billing, der
-in der Linken einen Bord trug …
+Draußen begrüßte Harald den Verwalter Billing, der
+in der Linken einen Korb trug …
 
 Der Hüne trat ein …
 
-»Entschuldigen Sie, daß ich Sie im Schlosse gestört
+»Entschuldigen Sie, daß ich Sie im Schlafe gestört
 habe …« lächelte er freundlich und drückte mir die Hand.
 
-Harst sagte: »Vier Stunden bat er wie ein Sägewerk
-geschnarcht … — Nehmen Sie Platz, Billing …
+Harst sagte: »Vier Stunden hat er wie ein Sägewerk
+geschnarcht … — Nehmen Sie Platz, Billing …«
 
-»Meine Arm scheint s Ihnen hier ein paar gute Happen,«
-Brillante Dr Hut? und setzte sich …
+»Meine Frau schickt Ihnen hier ein paar gute Happen,«
+erklärte der Hüne und setzte sich …
 
-»Bestellen Sie Ihre Gattin unseren verzückten kam,
-… Darf ich Ihnen eine Zigarette anbieten …
+»Bestellen Sie Ihrer Gattin unseren herzlichsten Dank.
+… — Darf ich Ihnen eine Zigarette anbieten …?«
 
-Ich9) schaute nun der Steintür neben dem Herd, Die
+Ich schaute nach der Steintür neben dem Herd. Die
 war geschlossen.
 
-Und —.ich) ahnte, biß Harald nun auf den Einsiedler
-z?! sprechen kommen würde. John war jetzt nicht mehr als
-Gespannt … Das Interesse an all diesen Fragen erwachte
+Und — ich ahnte, daß Harald nun auf den Einsiedler
+zu sprechen kommen würde. Ich war jetzt nicht mehr abgespannt
+… Das Interesse an all diesen Fragen erwachte
 wieder … —
 
 Billing war glänzender Laune …
 
-Harald kam denn »auch sehr bald auf den Mönch zu
+Harald kam denn auch sehr bald auf den Mönch zu
 sprechen …
 
 »Sie könnten uns einiges über den Alten erzählen,«
-bat er. »Derartige Sonderlinge liebe im … Zumeist verschließen
-»sie in ihrem Innern irgendein dunkles Geheim
-Geheimnis …
+bat er. »Derartige Sonderlinge liebe ich … Zumeist verschließen
+sie in ihrem Innern irgendein dunkles Geheimnis …«
 
 <@pagebreak/>
 Der Verwalter schüttelte den Kopf …
 
-»Das trifft bei Maunaloa, so sich »er Heilige, kaum
-zu … Und —.— erzählen?! Verehrter Harst, ich bin jetzt
-fünfzehn Jahre. hier auf der Insel. Ich habe den Alten
-vielleicht diesmal von weitem gesehen. Jeder hier nahm
-Rücksicht auf ihn und blieb der Lichtung sein — jeder! Gesprochen
-habe ich ihn nie. Das hat wohl überhaupt keiner
+»Das trifft bei Maunaloa, so hieß der Heilige, kaum
+zu … Und — — erzählen?! Verehrter Harst, ich bin jetzt
+fünfzehn Jahre hier auf der Insel. Ich habe den Alten
+vielleicht dreimal von weitem gesehen. Jeder hier nahm
+Rücksicht auf ihn und blieb der Lichtung fern — jeder!
+Gesprochen habe ich ihn nie. Das hat wohl überhaupt keiner
 je erreicht, den Greis in eine Unterhaltung zu verwickeln.
-Ich weiß Platz von ihm — gar nichts. Nur als er damals
+Ich weiß nichts von ihm — gar nichts. Nur als er damals
 gestorben war, habe ich ihn drüben unter der großen Palme
 beerdigen lassen. Man fand ihn eines Tages tot hier vor
 der Tür liegen …«
 
-»her raunt sind«
+»Wer fand ihn?«
 
-»Meine Frau … Ganz zufällig …« —
+»Meine Frau … Ganz zufällig …«
 
-»So — Ihre. Gattin … — Es führt noch aber ein
+»So — Ihre Gattin … — Es führt noch aber ein
 Pfad durch den Wald in Richtung auf Ihre Plantage …
-also muß Maunaloa wohl häufiger diesen Weg gegangen
-sein … «! »e
+Also muß Maunaloa wohl häufiger diesen Weg gegangen
+sein …«
 
-»las stimmt schon … In den schönsten Jahren holte er
+»Das stimmt schon … In den letzten Jahren holte er
 sich aus unserem Garten Früchte, was ich gern duldete. Er
 kam aber immer nur nachts …«
 
-»34 sah im Zimmer Ihrer Gattin eine. Photographie
+»Ich sah im Zimmer Ihrer Gattin eine Photographie
 dieser Hütte hängen … Der Greis steht auf dem Bilde vor
 der Tür …«
 
 »Das ist richtig … Meine Frau hat zuweilen mit ihm
-einige Worte gewechselt. Die Pootograpvie hat sie selbst
-ausgenommen … Kinder auf« Maria hat stets über die
+einige Worte gewechselt. Die Photographie hat sie selbst
+aufgenommen … Aber auch Maria hat stets über die
 Menschenscheu des Greises geklagt. Jedenfalls: Er war
-ein CEoncrling, aber irgend etwas Geheimnisvolles —
-nein, das hatte er kaum zu sich. Derartige büßende Heilige
+ein Sonderling, aber irgend etwas Geheimnisvolles —
+nein, das hatte er kaum an sich. Derartige büßende Heilige
 finden Sie in Indien überall …«
 
 »Da haben Sie recht, lieber Billing … Ich habe sogar
-mit einigen von folgen Einsiedlern die seltsamsten Exr-fayrungen
-gemacht … — Ihre Gattin stand dem Bude
-
-oh:hätten also das wohl näher … Ich meine, sie kannte ihn
-Herzogin besten …«
+mit einigen von solchen Einsiedlern die seltsamsten Erfahrungen
+gemacht … — Ihre Gattin stand dem Buddhisten
+also doch wohl näher … Ich meine, sie kannte ihn
+am besten …«
 
 <@pagebreak/>
 »kennen?! Nein, verehrter Herr Harst … Das war
 denn doch nicht der Fall. Maria hat nur ein sehr weiches
-Herz und sorgte so etwas stelle den Greis. Aber als Bekanntschaft
-kann man das kann bezeichnen … Ich habe
+Herz und sorgte so etwas für den Greis. Aber als Bekanntschaft
+kann man das kaum bezeichnen … Ich habe
 mich um diese Dinge auch ehrlich gesagt nie bekümmert …
 Meine Arbeit nimmt mich vollständig in Anspruch …«
 
@@ -2390,52 +2384,52 @@ Er erhob sich … »Ich muß mich leider schon verabschieden,
 meine Herren … Wir haben heute abend eine
 Versammlung in unserem Klub … Ich möchte Sie sehr
 gern dazu einladen … Aber Sie erklärten ja schon vorhin,
-daß Sie Sachen einmal gehörig ausschlafen wollen … —
-Auf Wiederschein also …«
+daß Sie gern einmal gehörig ausschlafen wollen … —
+Auf Wiedersehen also …«
 
-Und vergnügt schritt er davon, von uns 19 bis zum
-Band? der Lichtung begleitet …
+Und vergnügt schritt er davon, von uns noch bis zum
+Rande der Lichtung begleitet …
 
 Winkte uns noch zu …
 
-seine Unzählige Gestalt ’verschivand ist Dämmerlicht des
-Waldschaticus … —
+seine massige Gestalt verschwand im Dämmerlicht des
+Waldschattens … —
 
 Harst sagte seufzend:
 
 »Er ahnt nichts …! Armer Kerl!« — Und dann zog
-er mich zu der großen Palme Stein, wo sich ein flachen, kaum
-merklicher Hügel erhob …: Das Grad des Einsiedlers!l
+er mich zu der großen Palme hin, wo sich ein flacher, kaum
+merklicher Hügel erhob …: Das Grad des Einsiedlers!
 
-Ein Hügel, von Blumen völlig betrat …
+Ein Hügel, von Blumen völlig bedeckt …
 
-Und er bückte? sich …
+Und er bückte sich …
 
-sagte: »Während. »by schliefst, habe ich hier so man-qerlei
+sagte: »Während du schliefst, habe ich hier so mancherlei
 gefunden, mein Alter …
 
 Und — drückte die Blumen zur Seite, auch die Gräser,
-und … cntihülste so ein auf dem Hügel liegendes clfen-beinerncs
+und … enthüllte so ein auf dem Hügel liegendes elfenbeinernes
 Kruzifix …
 
-»Bitte, mein Alter … Wer mag wohl das Kruzisie’
+»Bitte, mein Alter … Wer mag wohl das Kruzifix
 hierher gelegt haben?! — Bist du nun bekehrt?«
 
 »Vollkommen …!!«
 
-»Nun — dann will im dir noch mehr seinen …«
+»Nun — dann will ich dir noch mehr zeigen …«
 
 Wir kehrten in die Hütte zurück … Harst öffnete die
 Steintür …
 
-Mit leisem Schrei wir drinnen im Seitengang eine
+Mit leisem Schrei wich drinnen im Seitengang eine
 Gestalt vor uns zurück …
 
 <@pagebreak/>
-Unsere Taschenlampen beleuchteten das blasse E’esicht
+Unsere Taschenlampen beleuchteten das blasse Gesicht
 einer grauhaarigen, hageren Frau mit scharfen Zügen …
 
-Sie war gegen die Felswand getaumelt … dämpfte
+Sie war gegen die Felswand getaumelt … Kämpfte
 jetzt offenbar mit einer Ohnmacht …
 
 »Frau Billing,« sagte Harald höflich, »von uns haben
@@ -2443,9 +2437,7 @@ Sie nichts zu fürchten, wenn Sie … ehrlich sind …! —
 Bitte …«
 
 Und er stützte sie, führte sie in die Hütte …
-ein leeres, nichtsjagedes Lächeln ihre Lippen umspielte …
-
-Schalter
+Ein leeres, nichtssagendes Lächeln umspielte ihre Lippen<@refnote 2/> …
 
 <h2>3. Kapitel.</h2>
 
