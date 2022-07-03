@@ -667,14 +667,14 @@ dauernd belauert und seine Korrespondenz überwacht wird.«
 
 »Gut — sehe ich ein, Harald … Wenn wir nun aber
 von hier die Mönchshütte aufsuchen, so wird dieses Weib
-auch davon Kenntnis erhalten …
+auch davon Kenntnis erhalten …«
 
 »Soll sie auch, lieber Alter … — Vielleicht verstehst du
 das jetzt noch nicht ganz … Aber du wirst es schon noch
 begreifen … — So — — jetzt … Maskerade! Und dann
 packen wir wieder unsere Bündel, verbergen die Koffer an
 anderer Stelle und wandern als braune harmlose Gestalten
-dem neuen Heim entgegen …
+dem neuen Heim entgegen …«
 
 <h2>3. Kapitel.</h2>
 
@@ -1589,7 +1589,7 @@ Es war wieder dieselbe Maschinenschrift. Und es war
 dasselbe Papier und derselbe Umschlag, — — und wieder
 die sechs toten Wespen als Einlage!
 
-Harald sagte energisch: »Die Sache« muß ein Ende
+Harald sagte energisch: »Die Sache muß ein Ende
 haben — so oder so! — Öffnen wir die Steintür!!«
 
 Das war durchaus nicht schwer. Die unregelmäßig
@@ -2080,7 +2080,7 @@ des Verwalters ruht …
 Billing entschuldigt sich beiläufig wegen der Abwesenheit
 seiner Frau … »Sie ist zu den Nachbarn gefahren …
 Die Frau des Plantagenbesitzers Ruckford ist ihre Freundin
-…
+…«
 
 Dann verabschieden wir uns, besteigen wieder das
 Auto …
@@ -2406,7 +2406,7 @@ Ein Hügel, von Blumen völlig bedeckt …
 Und er bückte sich …
 
 sagte: »Während du schliefst, habe ich hier so mancherlei
-gefunden, mein Alter …
+gefunden, mein Alter …«
 
 Und — drückte die Blumen zur Seite, auch die Gräser,
 und … enthüllte so ein auf dem Hügel liegendes elfenbeinernes
@@ -2443,40 +2443,41 @@ Ein leeres, nichtssagendes Lächeln umspielte ihre Lippen<@refnote 2/> …
 
 Ich schob ihr einen der Stühle hin …
 
-Aber sie hatte sich bereits wieder gehabt …
+Aber sie hatte sich bereits wieder gefaßt …
 
-Durch die offene Hüttentür fiel das bereits abenviiF
+Durch die offene Hüttentür fiel das bereits abendlich
 gedämpfte Tageslicht voll auf ihre scharfen Züge, auf diesen
-schmalen Mund, um den die Falten geheimen Zettel
+schmalen Mund, um den die Falten geheimen Leides
 so tief eingegraben waren …
 
-Sie stützte sich mit der Linken auf den Tisch … Max
+Sie stützte sich mit der Linken auf den Tisch … War
 jetzt ganz Dame …
 
 Nichts mehr von Schwäche, Kleinmut, Angst …
 
 »Eine eigentümliche Art, wie wir uns kennen lernen,
 meine Herren …« sagte sie mit einem leichten Neigen des
-Hauptes … »Ich war meinem Manne gefolgt, kam dort
+Hauptes … »Ich war meinem Manne gefolgt, kam vom
 Wege ab und fand plötzlich im Dickicht einen mir bisher
 ganz unbekannten Pfad, der mich zu meiner Überraschung
 in den Felsen führte …«
 
-»Ja — eine Überraschung war’s allerdings, mit wer
-verblüffender Ruhe sie fehlt hier dieses Märchen vorbrachte.
+Ja — eine Überraschung war’s allerdings, mit welch
+verblüffender Ruhe sie jetzt hier dieses Märchen vorbrachte.
 
 Eine noch größere, daß ihr Gesicht gleichsam während
 dieser Sätze die Maske stillen Grams abgestreift hatte und
+uns stattdessen anlächelte.<@refnote/>
 
 Und mit diesem Lächeln wandte sie sich an Harst …
 
-»J4 war über alle Maßen erschrocken, als Sie beide
+»Ich war über alle Maßen erschrocken, als Sie beide
 so plötzlich vor mir standen … — was sagten Sie doch,
-Herr Harst, — — ich solle ehrlich sein — — ehrlich?? Ihr
+Herr Harst, — — ich solle ehrlich sein — — ehrlich?! Ich
 <@pagebreak/>
-muß mich wohl verhört haben … J4IY wüßte nicht, weshalb
+muß mich wohl verhört haben … Ich wüßte nicht, weshalb
 ich … lügen sollte … — Nicht wahr, — ich habe mich verhört
-…
+…?«
 
 Und sie lächelte stärker … —
 
@@ -2495,21 +2496,21 @@ daß Sie eine unglückliche Mutter sind, die ihren mißratenen
 Sohn schützen will … ihren Sohn, der jetzt als … Dieb
 verhaftet ist …«
 
-Ein Ausdruck grenzenlosen Testament erschien auf
+Ein Ausdruck grenzenlosen Erstaunens erschien auf
 dem hageren Frauenantlitz …
 
-»Ich … einen Sohn … ich?!- Sie lachte hell auf …
+»Ich … einen Sohn … ich?!« Sie lachte hell auf …
 »Herr Harst, wenn Ihnen Ihr Detektivgenie dies alles eingegeben
-hat, so muß ich leider …
+hat, so muß ich leider …«
 
 Harald unterbrach sie … lächelte gleichfalls …
 
 »Verzeihen Sie, Frau Billing … Ich wollte nur auf
 den Busch klopfen … Ich glaubte zwischen Ihnen und
 einem der Verhafteten einige Ähnlichkeit herausgefunden
-zu haben … Irren ist menschlich … Cntschuldicen Sie …
+zu haben … Irren ist menschlich … Entschuldigen Sie …
 Ihre Versicherung genügt mir, daß Ihnen diese Leute völlig
-fremd sind …
+fremd sind …«
 
 »Vollkommen fremd, Herr Harst, — in der Tat!« Sie
 wurde ernst. »Tun Sie mir aber bitte den Gefallen und
@@ -2517,10 +2518,10 @@ erwähnen Sie nichts hiervon meinem Manne gegenüber …
 Der gute James läßt sich so leicht die Laune verderben.
 schon Ihr Verdacht gegen Mary hatte ihn ja vollständig
 außer Fassung gebracht … — Bitte, vielleicht begleiten die
-Herren mich jetzt noch eine Strecke … Ich mußt heim …;«
+Herren mich jetzt noch eine Strecke … Ich mußt heim …«
 
 Und Harald, noch besserer Schauspieler als diese Frau,
-verstand es meisterlich, den Über seinen »Irrtum« tief Geborsten
+verstand es meisterlich, den Über seinen »Irrtum« tief Geknickten
 zu spielen …
 
 <@pagebreak/>
@@ -2529,60 +2530,60 @@ Komödie — — beiderseits!
 Komödie, Posse, deren tiefster Sinn so bitterernst war.
 
 Nach beinahe herzlichem Abschied kehrten wir dann zur
-Hütte zurück … Eqaveigend … Nur eine einzige Bemerkung
-kam über Haralds Lippen;
+Hütte zurück … Schweigend … Nur eine einzige Bemerkung
+kam über Haralds Lippen:
 
-»Armes Weib?!«
+»Armes Weib!!«
 
 Schweigend öffnete er die Steintür neben dem Herde …
 
 Schweigend trat er in den Höhlengang ein …
 
 Da war links an der Wand eine breite Einbuchtung …
-Hier beleuchtete er das Gestein … Geist in eine Ritze des
-Felsens … 309g …
+Hier beleuchtete er das Gestein … Griff in eine Ritze des
+Felsens … zog …
 
 Auch eine Steintür … Schwingt nach außen …
 
 Dahinter eine kleine Höhle, umgestaltet zu einem winzigen
 Tempel …
 
-Staunend sechs ich, daß hier ein Mensch mit künstlerischen
+Staunend sehe ich, daß hier ein Mensch mit künstlerischem
 Verständnis in vielleicht jahrzehntelanger Arbeit sich
-einen Andachtsraum von eigenartiger Schönheit gesjchaf-sen
+einen Andachtsraum von eigenartiger Schönheit geschaffen
 hat …
 
 Die Wände sind vollständig mit Muscheln verkleidet …
 Die Höhlendecke mit bunten Steinchen … Und aus einem
-Testament von Muscheln und Steinchen eine Buddhafigur
-von fast Lebensgroße … — eine Statue, die in ganz eigenartigem
+Postament von Muscheln und Steinchen eine Buddhafigur
+von fast Lebensgröße … — eine Statue, die in ganz eigenartigem
 Glanze strahlt …
 
-Harst jagt leise:
+Harst sagt leise:
 
 »Perlen!!«
 
 Und ich begreife …
 
 Ich erkenne: Die aus Holz geschnitzte Statue ist mit
-Perlen über und über bedeckt — rechten Perlen, die mit
-Harz befestigt sind — dem Harz der Mama-frage, das sehr
+Perlen über und über bedeckt — echten Perlen, die mit
+Harz befestigt sind — dem Harz der Kuwa-Liane, das sehr
 bald steinhart wird …!
 
-Harald schiebt mit näher an das. Postament heran
+Harald schiebt mich näher an das Postament heran
 und schließt hinter uns die Tür …
 
 Da erst bemerke ich hinter dem Postament auf dem sauber
-geglätteten Boden die halb zur Mumie zusammenge-
-[krampften Nebenrolle eines Greises — — des Einsiedlers
+geglätteten Boden die halb zur Mumie zusammengeschrumpften
+Überreste eines Greises — — des Einsiedlers
 …
 
 <@pagebreak/>
-Hier also ist der Alte gestorben, — — hier, wo er Tage
-zählte Jahre zu seinem Gatte gebetet hat …
+Hier also ist der Alte gestorben, — — hier, wo er ungezählte
+Jahre zu seinem Gotte gebetet hat …
 
-(Gestorben — einsam, wie er gelebt, inmitten der zarten
-Schön?! riß dieses frommen Raumes, den außer uns
+Gestorben — einsam, wie er gelebt, inmitten der zarten
+Schönheit dieses frommen Raumes, den außer uns
 wohl noch kein Fremder geschaut hat …
 
 Kein Fremder!!
@@ -2596,24 +2597,24 @@ Ich bin wie geblendet von dieser Pracht …
 
 Mein Mund bleibt stumm …
 
-Zuviel haben die Augen zu schönen … Meine Gestanden
+Zuviel haben die Augen zu schauen … Meine Gedanken
 spüren der Herkunft dieser Perlenschätze nach …
 
 Wir befinden uns hier in diesen Gewässern gleichsam
 auf historischem Perlenboden … Die Perlmuschelbänke
-hier in der Fall-Straße sind Beruf:Mr … Schon die Portugiesen
+hier in der Palk-Straße sind berühmt … Schon die Portugiesen
 haben von hier »die erstarrten Tränen« nach Europa
 gebracht … —
 
-Neben mir sagt Harald wieder«
+Neben mir sagt Harald wieder:
 
 »Der Einsiedler hat ohne Zweifel hier an der Küste
-von Potakiwvwu eine Perlmuskcelbank entdeckt gehabt und
-nachts heimlich die Rerlmtschesn durch Tauchen herausgeholt
+von Potakiwu eine Perlmuschelbank entdeckt gehabt und
+nachts heimlich die Perlmuscheln durch Tauchen herausgeholt
 … Die Perlen benutzte er für die Statue, die Muscheln
-für die »Wände …
+für die Wände …«
 
-Meine ganzen können sich nicht losreißen von dem
+Meine Augen können sich nicht losreißen von dem
 schillernden Buddhabildnis …
 
 Harald spricht weiter:
@@ -2623,68 +2624,66 @@ kennt …«
 
 Er zeigt auf eine Stelle des Steinplattenbodens …
 
-Ich bücke mich) …
+Ich bücke mich …
 
-Dort liegt eine Haarnadel — nichts weiter +…
+Dort liegt eine Haarnadel — nichts weiter …
 
-»Ein etwas schwacher Beweis, Harald …
+»Ein etwas schwacher Beweis, Harald …«
 
-»die man’s nimmt … Glaubst du, der ’Dubdhist hat
+»Wie man’s nimmt … Glaubst du, der Buddhist hat
 die Haarnadel verloren oder hierher getragen?!«
 
 <@pagebreak/>
 Meine Handbewegung bleibt zweifelhaft … Und ich
 entgegne:
 
-»Oh Frau klug nicht ihrem Gatten von diesen Per-lowsdjätzen
-ersäuft käme?!«
+»Ob Frau Billing nicht ihrem Gatten von diesen Perlenschätzen
+erzählt hätte?!«
 
-»Rein …! Denn der Mönch man ihr einen Eid abgenommen
-haben, sein Geheimnis zu hüten … —« Frau
-Billing stand dem »Einsiedler fraglos näher, als selbst ihr
+»Nein …! Denn der Mönch mag ihr einen Eid abgenommen
+haben, sein Geheimnis zu hüten … — Frau
+Billing stand dem Einsiedler fraglos näher, als selbst ihr
 Gatte es ahnt. Sie war seine Vertraute … und eine verschwiegene
 Vertraute …«
 
 Ich denke da an das Grab unter der großen Palme …
 
-»Harald, nachher hat doch aber zweifellos Frau Bild
-
-blindlings Vater hier den Einsiedler gespielt — die sollte des
-Mr sahst, Der bereits tot war … Mithin müßte doch auch
+»Harald, nachher hat doch aber zweifellos Frau Billings
+Vater hier den Einsiedler gespielt — die Rolle des
+Mönches, Der bereits tot war … Mithin müßte doch auch
 dieser Mann von diesem kleinen Tempelraum und seinen
 Schätzen Kenntnis gehabt haben …«
+
 »Möglich, mein Alter. Das sind Fragen, die erst die
-Ankunft klären wird, — — obwohl ich so meine Vermutungen
-über den Zusammenhang der schien Ereignisse hier mit
+Zukunft klären wird, — — obwohl ich so meine Vermutungen
+über den Zusammenhang der letzten Ereignisse hier mit
 Vorgängen der Vergangenheit habe … Vielleicht ist Frau
 Billings Sohn, der Schwarze, nur der Perlen wegen hierher
-gekommen — — vielleicht … Vielleicht ahnte er ir-gendvwie
-etwas von diesen schillernden Neichtüümern und
+gekommen — — vielleicht … Vielleicht ahnte er irgendwie
+etwas von diesen schillernden Reichtümern und
 wollte von seiner armen Mutter das Geheimnis erpressen,
-wo die Perlen zt! Süden seien … Vielleicht hat er mit
+wo die Perlen zu suchen seien … Vielleicht hat er mit
 seinen Kumpanen die Diebstähle nur verübt, um einen Druck
-auf seine Mutter
+auf seine Mutter …«
 
 Und — schwieg jählings …
 
-Schob mich beiseite … behielt meinen rechten Unter«-
-arm mit den Fingern seiner Linken umspannt …
+Schob mich beiseite … behielt meinen rechten Unterarm
+mit den Fingern seiner Linken umspannt …
 
 Deutete mit der Rechten auf die breite gewölbte Brust
 des Götzen …
 
-»Du — — schau’ hin … Da ist ein Viereck durch besonders
+»Da — — schau’ hin … Da ist ein Viereck durch besonders
 große Perlen angedeutet … Soeben erst fiel’s mir
+auf …«
 
-«
-
-auf …
-»Stimmt …-! und in der Mitte des Vierecke sind
+»Stimmt …! Und in der Mitte des Vierecks sind
 <@pagebreak/>
-sex95 (ärztliche Perlen zu Tigerin Stern vereinigt …« ergänzte
+sechs längliche Perlen zu einem Stern vereinigt …« ergänzte
 ich …
 
-Harald »befühlte diese sechs Perlen bereits …
+Harald befühlte diese sechs Perlen bereits …
 
 und mit einem Male klappte das derart begrenzte
 Viereck langsam nach unten … wie das Türchen eines
@@ -2692,7 +2691,7 @@ altmodischen Schreibtisches … —
 
 Die Brust des Götzen war hohl …
 
-In diesem Gehe: Krach fanden wir alter drei Lederbeuteln
+In diesem Geheimfach fanden wir außer drei Lederbeuteln
 mit Perlen ein Büchlein, das jemand sich aus Briefpapier
 und einem Pappdeckel selbst hergestellt hatte …
 
@@ -2700,39 +2699,41 @@ Harald schlug es auf …
 
 Auf dem ersten Platte stand:
 
-Meine Lcebenus8gtscihte.
-Auftrag Gallargan,
-Begonnen am 16. April 1899,
+<p class="centered">Meine Lebensgeschichte.</p>
+
+<p class="centered">Patrick Gallargan.</p>
+
+<p class="centered">Begonnen am 16. April 1899.</p>
 
 Harst blätterte weiter …
 
 nichts mehr …
 
-Man sah, daß Hier eine Menge Seiten hermt83gerissen
-Warten …
+Man sah, daß Hier eine Menge Seiten herausgerissen
+waren …
 
 das Büchlein war bis auf den Titel leer …
 
 »Patrick Gallargan,« meinte Harald. »Gallargan …
-Patrick …! Frag!es ein Felsmauer … Und Frau Billing
-mitgeteilt gleic9fall8 Irländerin … Wertiwvwürdig!«
+Patrick …! Fraglos ein Irländer … Und Frau Billing
+ist gleichfalls Irländerin … Merkwürdig!«
 
-Er schritt um das Postament herum … Du dein Überresten
-des Mönches hin … solche nieder …
+Er schritt um das Postament herum … Zu den Überresten
+des Mönches hin … Kniete nieder …
 
-»Frau! mal her, mein Alter …«
+»Komm’ mal her, mein Alter …«
 
 Und er zeigte mir in dem noch tadellos erhaltenen Gebiß
 der mumifizierter Leiche … drei deutlich erkennbare
 Zementplomben …
 
-Sagte: »Dieser angebliche Moor) war ein Europäer …
+Sagte: »Dieser angebliche Mönch war ein Europäer …
 Vielleicht einer, der zum Buddhismus übertrat … die
-Leiche Buddhas Übt auch) auf Weiße ihren geheimnisvollen
+Lehre Buddhas Übt auch auf Weiße ihren geheimnisvollen
 Zauber aus … — Die Rätsel mehren sich … Hier auf
-vom Titelblatt sieht: Begonnen am 16. April 1899, — also
+vom Titelblatt steht: Begonnen am 16. April 1899, — also
 zu einer Zeit, als Frau Billings Vater hier bestimmt noch
-nicht die Rolle des Einsiedlers spielte … Mithin hieß der.
+nicht die Rolle des Einsiedlers spielte … Mithin hieß der
 <@pagebreak/>
 Mönch Patrick Gallargan und nannte sich nur Maunaloa …
 Mithin kann er ein Verwandter Frau Billings gewesen
@@ -2745,100 +2746,100 @@ anderswo …
 
 Dann verließen wir den winzigen Tempel …
 
-Draußen war’s inzwischen Abend bemerken …
+Draußen war’s inzwischen Abend geworden …
 
-Das Not des Sonnenuntergangs färbte die Baume,
-Kronen der Lichtung, und der Himmel erstrahlte in wunderbaren
+Das Rot des Sonnenuntergangs färbte die Baumkronen
+der Lichtung, und der Himmel erstrahlte in wunderbaren
 Farben … Wir trugen den Tisch ins Freie und
-Warten den Korb aus, den der Hüne Einfing uns gebracht
-
-hatte
+packten den Korb aus, den der Hüne Billing uns gebracht
+hatte.
 
 Auch eine halbe Flasche Rotwein war dabei. Harald
-entfernte die Stannuiolkapscl vom »Flaschenhals und besichtigte
-den sollen …
+entfernte die Stanniolkapsel vom Flaschenhals und besichtigte
+den Korken …
 
-»Geöffnet und wieder verschlossen, «« meinte er und …
+»Geöffnet und wieder verschlossen,« meinte er und …
 goß den Rotwein zwischen die bunten Blumen. »Man kann
-nie wissen, mein Alter …!! Frau Maria mag »daran viel
+nie wissen, mein Alter …!! Frau Maria mag daran viel
 gelegen sein, daß wir in dieser Nacht recht fest schlafen …«
 
 Ich verstand …
 
-Die Dunkelheit nahte dann …«
+Die Dunkelheit nahte dann …
 
-»Um halb elf brechen wir aus,« erklärte Harald …
+»Um halb elf brechen wir auf,« erklärte Harald …
 
 »wohin?«
 
 »Nach dem Dorfe — zum Hause des dicken Wilson,
-mein Alter … JIch4h möchte Zeuge sein, wie eine Mutter
+mein Alter … Ich möchte Zeuge sein, wie eine Mutter
 noch mehr wagt als bisher …«
 
 »Du meinst, daß …«
 
-… daß Frau Billing den Versus machen wird, die
-Gefangenen zu befreien … — allerdings! — Zum Stein
+»… daß Frau Billing den Versuch machen wird, die
+Gefangenen zu befreien … — allerdings! — Zum Schein
 werden wir uns schlafen legen … Vielleicht Überzeugt sie
 sich vorher, ob wir auch nicht zu fürchten sind … Vielleicht
-auch nicht …
+auch nicht …«
 
 Und er gähnte herzhaft …
+
 Dann zogen wir uns in die Hütte zurück …
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
 
-<h3>als wir naß einem beschleunigten Fußmarsch gegen.</h3>
-ein Viertel zwölf auf Umwegen am Rande des Palmen-wälck&ens
-angelangt waren, sahen wir schon von zweiten
+als wir nach einem beschleunigten Fußmarsch gegen
+ein Viertel zwölf auf Umwegen am Rande des Palmenwäldchens
+angelangt waren, sahen wir schon von weiten
 das Haus des Richters hellerleuchtet. Durch die Gartenbäume
-erkannten wir auf der mit Langsame geschmückter
+erkannten wir auf der mit Lampions geschmückten
 Veranda die Gestalten einer Menge von Herren: Der
 Klub tagte ja heute bei Longsteet, und der Wind trug uns
-immer wieder Stimmengewirr und gehalten zu, Gläserklirren
-und ein paar halte Musik eines Pianos …
+immer wieder Stimmengewirr und Gelächter zu, Gläserklirren
+und ein paar Takte Musik eines Pianos …
 
 »Das Leben ist ein Jahrmarkt,« flüsterte Harald. »Dort
-Schein die Plantagenbesitzer und öde Beamten die Verhaftung
+feiern die Plantagenbesitzer und die Beamten die Verhaftung
 der Diebe und die Wiedererlangung der Beute dieser
 Wespen …! Und hier vor uns harren im Keller des dicken
-Wilson dieselben Diebe auf ihre Befreiung … lassen auf
-die Hilfe eines Weibes, lassen auf die Erfüllung der Zusage,
-die der Stein und das mit meinen bedeckte Papier
+Wilson dieselben Diebe auf ihre Befreiung … hoffen auf
+die Hilfe eines Weibes, hoffen auf die Erfüllung der Zusage,
+die der Stein und das mit Wespen bedeckte Papier
 verhieß: die Freiheit! — Ich bin nur gespannt, wie Maria
 Billing ihr Ziel erreichen wird … Es handelt sich doch
 immerhin um fünf Männer … Dabei sitzen die drei Singhalesen
-in dem Gefängnis, und der Ich Warze und der Blonde
+in dem Gefängnis, und der Schwarze und der Blonde
 in den Kellergelassen Wilsons … Mit Gewalt kann sie
 kaum vorgehen. Ihr bleibt nur der Weg der List …«
 
-Dann ließ er mich unter den Palmen allein. Wir hatte
-erschien schon vorher vereinbart, daß ich die Vorderfront, er
+Dann ließ er mich unter den Palmen allein. Wir hatten
+schon vorher vereinbart, daß ich die Vorderfront, er
 aber das Tor zwischen den Ställen beobachten sollte.
 
-»34H lehnte mich an einen der schlanken Stämme und behielt
+Ich lehnte mich an einen der schlanken Stämme und behielt
 das Haus und die Umgebung im Auge.
 
 Das Dämmerlicht der Tropennacht erleichterte mir
 meine Aufgabe …
 
 So mochte ich denn vielleicht zehn Minuten gewartet
-haben, als sich über den Zaun, der den Zwi’chenraum
+haben, als sich über den Zaun, der den Zwischenraum
 zwischen Wohnhaus und Gefängnis ausfüllte, blitzschnell
 eine Männergestalt schwang … Eine zweite folgte — eine
 dritte, — zuletzt die drei Singhalesen …
 
 <@pagebreak/>
-Im Nu waren die sechs im Wäldchen vershiwunden …
+Im Nu waren die sechs im Wäldchen verschwunden …
 
 Ich hatte mich eng hinter den Stamm der Palme gedrückt
-… Kahn acht Schritt an mir vorbei huschten die
+… Kaum acht Schritt an mir vorbei huschten die
 sechs — der Bucht zu … Und nur zu bald verlor ich sie aus
 den Augen …
 
-Dann war aber auch schon Harald machen mir …
+Dann war aber auch schon Harald neben mir …
 
 »Ihnen nach, mein Alter …!! Ihnen nach!! Wir
 müssen feststellen, wohin sie sich wenden …!«
@@ -2847,11 +2848,11 @@ Er lief voran …
 
 Das Palmenwäldchen ging allmählich in das Ufergestrüpp
 über … Wir konnten den hellen Strand der Bucht
-mit der großen Anlegebrücke und den ankernden Wahrheit
-gen genau erkennen …
+mit der großen Anlegebrücke und den ankernden Fahrzeugen
+genau erkennen …
 
-Auf der Brücke brannte eine elcktrisMe Bogenlanmtwpe.
-Ein Küstendampsjer nahm dort Fracht ein … Die farbigen
+Auf der Brücke brannte eine elektrische Bogenlampe.
+Ein Küstendampfer nahm dort Fracht ein … Die farbigen
 Stauer lärmten, und die Ketten des Dampfkranes rasselten
 …
 
@@ -2861,7 +2862,7 @@ sein!) mochte gehofft haben, hier eins der Boote benutzen zu
 können. Der Dampfer vereitelte diesen Plan …
 
 Wir beide waren sehr bald dicht neben den Fliehenden
-… Das Buschwerk hatte viele steckte:Stellen, und so
+… Das Buschwerk hatte viele lichte Stellen, und so
 konnten wir denn unbemerkt in einer Höhe mit den Flüchtlingen
 bleiben, zumal diese jetzt nur in lebhaftem Schritt sich
 vorwärtsbewegten …
@@ -2870,7 +2871,7 @@ Nach einiger Zeit wechselte der kleine Trupp die Richtung.
 Quer durch die Felder und Pflanzungen auf schmalen
 Pfaden strebten die sechs jetzt dem Nordoststrande zu …
 
-Wir mußten ihnen mehr Vorsprung lassen … bisher
+Wir mußten ihnen mehr Vorsprung lassen … Bisher
 hatten wir kein Wort miteinander wechseln können … Und
 dabei brannte ich förmlich darauf zu erfahren, wie Maria
 Billing es wohl angestellt haben mochte, die fünf Männer
@@ -2881,20 +2882,20 @@ Harald, stets drei Schritt voran, machte plötzlich halt …
 »Wir müssen an ihnen vorüber, mein Alter,« sagte er
 <@pagebreak/>
 hastig … »Wir müssen als Erste unsere Hütte erreichen …
-Frau Billing will dorthin … Trüben ist schon unser
+Frau Billing will dorthin … Drüben ist schon unser
 Wald zu erkennen … Also — — Trab, und wenn wir
-auch noch so sehr Schatten …!!«
+auch noch so sehr schwitzen …!!«
 
 Halbtot sah ich endlich die Lichtung vor uns — —
 unser Häuschen …
 
 Halbtot stolperte ich durch die Tür, warf mich in die
-Hungematte …
+Hängematte …
 
 Harst schloß die Tür und flüsterte mir zu:
 
 »Ich rechne bestimmt damit, daß Frau Billing aus dem
-Leinen Tempelraum etwas holen wird — einen der Beutel
+kleinen Tempelraum etwas holen wird — einen der Beutel
 mit Perlen … Dann …«
 
 Er schwieg … mußte etwas gehört haben … —
@@ -2903,50 +2904,49 @@ Ich erhob mich aus der Hängematte. Meine Glieder
 hatten die nötige Geschmeidigkeit zurückgewonnen, um
 jedes Knarren des hängenden Netzbettes zu vermeiden.
 Im Dunkeln tastete ich mich zu Harst hin und berührte seine
-Schrullen …
+Schulter …
 
 »Ich glaube, daß ich etwas hörte,« raunte er mir zu …
 »Leider ist der Wind draußen stärker geworden … Die
 Bäume rauschen zu sehr, und die Fenster sind offen …«
 
 Mitten im Satz aus dem Innern des Felsens ein
-merkwürdiger Ton … Kein Schrei, kein auf … Und
-doch ein Laut aus menschlicher Kehle, der nur verichwome-men
+merkwürdiger Ton … Kein Schrei, kein Ruf … Und
+doch ein Laut aus menschlicher Kehle, der nur verschwommen
 an unser Ohr drang, den wir nur hörten, weil wir
-so dicht vor der Steintür bockten …
+so dicht vor der Steintür hockten …
 
-Vorsichtig öffnete Harst jetzt die Dir und betrat den
+Vorsichtig öffnete Harst jetzt die Tür und betrat den
 Felsengang … Und ich folgte langsam. Harst zog die andere
 Steintür auf … Der Lichtkegel zerschnitt die Finsternis
 …
 
 Ein Blick …: Dir Buddhastatue fehlte!!
 
-Nuß — vor dem Testament lag gefesselt und geknebelt
-ein dann
+Und — vor dem Postament lag gefesselt und geknebelt
+ein Mann …
 
-sein Mann: Die verkleidete Maria Billing!
+Kein Mann: Die verkleidete Maria Billing!
 
-na Nu hatten wir sie befreit … Ihr Gesicht war
-aschfahl …!’m den Mund lag ein Ausdruck von starrer,
+Im Nu hatten wir sie befreit … Ihr Gesicht war
+aschfahl … Um den Mund lag ein Ausdruck von starrer,
 <@pagebreak/>
-finsteren Entschlossenheit … nichts mehr von geheimem
-Siam …
+finsterer Entschlossenheit … nichts mehr von geheimem
+Gram …
 
 Die Frau stand vor uns …
 
-»Ad danke Ihnen, meine Herren …? Mein eigener
+»Ich danke Ihnen, meine Herren …! Mein eigener
 Sohn war’s, der mich hier in dieser Weise zurückließ …!
-Jetzt — — mag. mein Gatte alles erfahren … Es gibt
+Jetzt — — mag mein Gatte alles erfahren … Es gibt
 Erlebnisse, die auch das Muttergefühl ersticken …« — Sie
-sagte es in einem Tone, der ganz zu ihrem Gesichi2a1n—druck
+sagte es in einem Tone, der ganz zu ihrem Gesichtsausdruck
 paßte …
 
-« Ehe
 <h2>5. Kapitel.</h2>
 
-<h3>Auf Haralds Vorschlag eilt!her wir drei jetzt zur See-.</h3>
-fügte, zu den Molen. denn dort war es am ehesten möglich,
+Auf Haralds Vorschlag eilten wir drei jetzt zur Seeküste,
+zu den Molen. denn dort war es am ehesten möglich,
 die Jacht noch abzufangen.
 
 Und daß Harst diesmal das Richtige getroffen, zeigte
@@ -2955,16 +2955,16 @@ sich, als wir kaum die Südmole betreten hatten …
 Ein dunkles Etwas glitt gerade um die erste Biegung
 des Kanals: Billings Jacht!
 
-gedacht liefen wir bis zur Molenspitze, wo an der Innenseite
-ein paar Kg? (2 der Eingeborenen vertäut waren.
+Geduckt liefen wir bis zur Molenspitze, wo an der Innenseite
+ein paar Kähne der Eingeborenen vertäut waren.
 
 Wir ketteten den größten los, und in kaum zwei Minuten
-hatten wir ein zu ten Fischereigeräten im Boote gehöriges
+hatten wir ein zu den Fischereigeräten im Boote gehöriges
 Tau quer über den kaum zehn Meter breiten Kanal
 gespannt.
 
-Nun warteten wir, in unserem Kahne tief einsammeln?-
-geduckt, das weitere ab.
+Nun warteten wir, in unserem Kahne tief zusammengeduckt,
+das weitere ab.
 
 Die Jacht tauchte auf … Langsam glitt sie zwischen
 die Molen hinein …
@@ -2972,7 +2972,7 @@ die Molen hinein …
 Frau Billing flüsterte da:
 
 »Herr Harst, keine Schonung …! Mein Sohn hat mir
-meinen Revolver abgenommen … Über andere Wasser
+meinen Revolver abgenommen … Über andere Waffen
 verfügen die fünf nicht …«
 
 Die Jacht kam herangerauscht …
@@ -2981,41 +2981,40 @@ An Deck fünf Leute …
 
 Kam — — und rannte jetzt gegen das Hanftau, wurde
 <@pagebreak/>
-gurückgepreßt, legte sich quer neben das Tag …
+zurückgepreßt, legte sich quer neben das Tau …
 
 Unser Boot schoß vorwärts …
 
-Ich ruderte — im Schoße die Clement … Hoch ausgerichtet
+Ich ruderte — im Schoße die Clement … Hoch aufgerichtet
 stand Frau Maria Billing da … Stand dicht
 hinter mir …
 
-Und — mit einem Geist hatte sie meine Clement an
+Und — mit einem Griff hatte sie meine Clement an
 sich genommen …
 
 Sie war’s, die die Flüchtlinge anrief …
 
-»Tracht euch …!! — — Wage es doch, Harry, aus
-Beine Mutter zu schießen!! Wage es!!« — Ihre Stimme
-war schrill wie das Klingen einer allzu Straße gespannten
-Spitze …
+»Ergebt euch …!! — — Wage es doch, Harry, aus
+deine Mutter zu schießen!! Wage es!!« — Ihre Stimme
+war schrill wie das Klingen einer allzu straff gespannten
+Saite …
 
 Die fünf auf der Jacht drängten sich am Heck zusammen
-und begrüßten uns mit einem Wutigebrüll …
+und begrüßten uns mit einem Wutgebrüll …
 
 Der kleine Schwarzhaarige hob plötzlich den Arm,
 aber Haralds Kugel schickte den Revolver über Bord ins
-
 Wasser …
 
-Der Schwarze taumelte … Der Blonde ging ihn auf.
+Der Schwarze taumelte … Der Blonde fing ihn auf.
 
 »Wir ergeben uns!« rief der Blonde.
 
 Dann war Harst auch schon an Deck …
 
 Dann steuerte Frau Billing die Jacht wieder in den
-Kanal hinein, während wie die vier und den Vorwande:
-ten bewachten …
+Kanal hinein, während wir die vier und den Verwundeten
+bewachten …
 
 Der Blonde benahm sich auch jetzt … als Gentleman.
 
@@ -3025,22 +3024,22 @@ Mary Smieder beim Verhör nicht ohne Eindruck auf mich
 blieb. Ich kenne Miß Mary tatsächlich von Kolombo her …
 Wir waren gute Freunde, und vielleicht wäre aus uns ein
 Brautpaar geworden, wenn Smieders nicht verarmt und
-und) ich nur ein bescheidener Angestellter einer Reederei gewesen
-wäre … Meine Bitte geht dahin: Ich mochte Miß
-Mary nicht wiedersehen, denn … ich schlaue mich, daß ich
+auch ich nur ein bescheidener Angestellter einer Reederei gewesen
+wäre … Meine Bitte geht dahin: Ich möchte Miß
+Mary nicht wiedersehen, denn … ich schäme mich, daß ich
 so tief gesunken bin …«
 
 Harald kniete neben dem Verwundeten … Dem war
-die Dusel durch den rechten Unterarm und dann quer durch
+die Kugel durch den rechten Unterarm und dann quer durch
 <@pagebreak/>
-die Brust gegangen. Er röchelte schwer, und sein eingelassenes
+die Brust gegangen. Er röchelte schwer, und sein eingefallenes
 Gesicht zeigte das nahende Ende an …
 
 Der Blonde fügte hinzu: »Mein Unglück war, daß ich
-in Kolombo Harry Verwarf kennen lehnte … Er fabelte
-mir von den Reichtümern vor, die wie hier auf Potakiwu
-mühelos erringen könnten … Ad) bin leider ein sehr
-schwachen Charakter … Jetzt — — werde ich für alle Zeit
+in Kolombo Harry Leewark kennen lehnte … Er fabelte
+mir von den Reichtümern vor, die wir hier auf Potakiwu
+mühelos erringen könnten … Ich bin leider ein sehr
+schwacher Charakter … Jetzt — — werde ich für alle Zeit
 diesen Leichtsinn zu büßen haben …« —
 
 Die Jacht war in des Nähe der Plantage angelangt …
@@ -3050,12 +3049,12 @@ Lampen brannten, und ihr grelles Licht beleuchtete uns
 und Maria Billing, die jetzt den Motor stoppte …
 
 Der Blonde und die drei Singhalesen wurden weggeschafft.
-Harry Verwarf war tot … — —
+Harry Leewark war tot … — —
 
 In der Jachtkajüte lag auf dem schmalen Tische die in
 Decken gehüllte Buddhastatue …
 
-Und um von Tisch herum säße« daß Ehepaar Billing
+Und um von Tisch herum säßen daß Ehepaar Billing
 und wir beide …
 
 Der Hüne Billing hielt die Hand seines Weibes in der
@@ -3068,80 +3067,80 @@ Worten wiederholen,
 Maria Gallargans Onkel namens Patrick Gallargan
 war von Beruf Seemann gewesen, hatte aber schon in jungen
 Jahren alle Beziehungen zu seiner Familie abgebrochen
-und galt als verschollen. vorlas Vater wieder, eine ähnliche
+und galt als verschollen. Marias Vater wieder, eine ähnliche
 Abenteurernatur wie sein Bruder Patrick, ließ sich als
 Kapitän eines Frachtdampfers allerlei Unredlichkeiten zuschulden
-kommen und flüchtet?. Steine einzige Tochter hörte
-mochte mehr vor ahnt, heiratete einen Kaufmann namens
-hervor?, der sich davon in wohnt da Galle auf Ceylon niederließ,
-wo er sehr Ad verstand. Aus dieser Ehe war ein;
+kommen und flüchtete. Steine einzige Tochter hörte
+nichts mehr von ihm, heiratete einen Kaufmann namens
+Leewark, der sich dann in Point de Galle auf Ceylon niederließ,
+wo er sehr bald verstarb. Aus dieser Ehe war ein
 Sohn namens Harry hervorgegangen, der bereits als
-BZwöliiährlger allerlei Diebereien benutzte und bald darauf
+Zwölfjähriger allerlei Diebereien verübte und bald darauf
 <@pagebreak/>
 für immer verschwand, nachdem er kurze Zeit Schiffsjunge
-gewesen. — Die verwitwete Frau Maria jemand lernte
-ganzes Billing kennen und heiratete ihn, verschwieg jedoch,
-daß sie einen Sohn begrüße, verschwieg es nur vdeSshasb,
-weil ziemlich dieses Kindes schämte.
+gewesen. — Die verwitwete Frau Maria Leewark lernte
+James Billing kennen und heiratete ihn, verschwieg jedoch,
+daß sie einen Sohn besäße, verschwieg es nur deshalb,
+weil sie sich dieses Kindes schämte.
 
-Als Billing Verwalter der Blooß-Plantage auf Rosa-.
-Diva geworden war, als Frau Maria zum ersten Male den
-Moor, von Einsiedler, zu sprechen Gelegenheit hatte, erkannte
+Als Billing Verwalter der Blooß-Plantage auf Potakiwu
+geworden war, als Frau Maria zum ersten Male den
+Mönch, den Einsiedler, zu sprechen Gelegenheit hatte, erkannte
 sie zu ihrem namenlosen Erstaunen in ihm ihren
 Onkel Patrick wieder. Patrick nahm ihr das Versprechen
-ab zu schweigen und weihte sie in seine Verwalter P0c-heimnisse
-ein. Er war Wirklich zum BuddhisSum:ins überg2-treten,
-und er ließ Maria schworen, daß sie niemals seine
-Perlenschätze irgend jemanvewm zugänglich machen würde.
+ab zu schweigen und weihte sie in seine wertvollen Geheimnisse
+ein. Er war Wirklich zum Buddhismus übergetreten,
+und er ließ Maria schwören, daß sie niemals seine
+Perlenschätze irgend jemandem zugänglich machen würde.
 
 Noch Seltsameres begab sich dann: Eines Tages, als
 Frau Maria nach dem Dorfe ging, begegnete sie einem zerlumpten,
 kränklichen Menschen … Es War ihr Vater, der
-jetzt hier bei seinem einzigen Kinde sein verschlief Dasein
+jetzt hier bei seinem einzigen Kinde sein verfehltes Dasein
 beschließen wollte.
 
 Frau Maria schickte ihn nach der Hütte des Einsiedlers,
-wo die Brüder Gallargan nun ein volles Jahr ’zu-
-zusammen hausten, ohne daß jemand starrte, die Hütte berge
+wo die Brüder Gallargan nun ein volles Jahr
+zusammen hausten, ohne daß jemand ahnte, die Hütte berge
 jetzt zwei Männer.
 
-Dann Koloß Bottichs, der Buddhist und Perlensucher,
+Dann starb Patrick, der Buddhist und Perlensucher,
 und Frau Marias Vater wurde sein Nachfolger, bis auch
 er dann plötzlich hinweggerafft wurde.
 
-Inzwischen hatte aber auch Bart) jemand, der längst
+Inzwischen hatte aber auch Harry Leewark, der längst
 zum Verbrecher herabgesunken war, seine Mutter verschiedentlich
-heimlich ausgesucht und von ihr Geld erpreßt. Wiederholt
+heimlich aufgesucht und von ihr Geld erpreßt. Wiederholt
 hatte sie ihm auch, da sie nicht über genügend Barmittel
 verfügte, Perlen ausgehändigt, die sie den Beuteln
-aus der Statue entnommen hatte. Kein Minuten, daß
+aus der Statue entnommen hatte. Kein Wunder, daß
 Harry immer wieder in sie drang, ihm zu verraten, woher
-sie die Perlen erhielte, Sie hütete sich, ihm das Erkenntnis
+sie die Perlen erhielte. Sie hütete sich, ihm das Geheimnis
 der Einsiedlerhütte zu offenbaren, konnte es aber doch nicht
-verhindern, daß der verkonmmene Wer sich ihr einmal nach:
+verhindern, daß der verkommene Mensch ihr einmal nachschlich
 <@pagebreak/>
-schlich und nunmehr ahnte, daß die jetzt leere Hütte ein ne
-steckt bergen müsse, aus dem die kostbaren Perlen stammte
+und nunmehr ahnte, daß die jetzt leere Hütte ein Versteck
+bergen müsse, aus dem die kostbaren Perlen stammten.
 
-so zum es denn schchließliq so weit, daß Harry Lc
-warf zusammen mit dem Blonden und den drei Hinab
-lesen sich den Schlupsiwinkel auf Potanur baute und seine
-unglücklichen Mutter drohte, er würde die Plantage!
-nrandschogen, falls sie ihm nicht ihren gesamten Maria
+so kam es denn schließlich so weit, daß Harry Leewark
+zusammen mit dem Blonden und den drei Singhalesen
+sich den Schlupfwinkel auf Potanur baute und seiner
+unglücklichen Mutter drohte, er würde die Plantagen
+brandschatzen, falls sie ihm nicht ihren gesamten Vorrat
 an Perlen ausliefere.
 
-Und diese arme gepeinigte Mutter hatte die Verließe!
-stets von neuem in ihrem Schlupfwinkel von Potanur auf:
-gesucht. hatte ihnen Perlen gebracht, hatte sie beschwören
+Und diese arme gepeinigte Mutter hatte die Verbrecher
+stets von neuem in ihrem Schlupfwinkel von Potanur aufgesucht,
+hatte ihnen Perlen gebracht, hatte sie beschworen
 die Insel zu verlassen … Harry blieb in seiner Verderbtheit
 fest bei seiner Forderung …
 
-Und so ereignete sich denn schließlich das, was Dr
-Leser bereits kennt: Harald und ich tauchten aus, und hier
-mit begannen für Frau Maria erst recht Tage und Nacht
-des erstens …
+Und so ereignete sich denn schließlich das, was Der
+Leser bereits kennt: Harald und ich tauchten auf, und hiermit
+begannen für Frau Maria erst recht Tage und Nächte
+des Schreckens …
 
-Sie begreife Harry und den Blonden, indem sie ihnen
+Sie befreite Harry und den Blonden, indem sie ihnen
 die nötigen Werkzeuge durch das Kellerfenster zuwarf …
 Sie half mit, die Fenstergitter der Zellen der Singhalesen
 zu zerschneiden … Sie versprach dem Sohne einen ganzen
@@ -3149,18 +3148,16 @@ Beutel voller Perlen, wenn er nun für immer verschwände.
 Und als sie dann in den Felsen eindrang, als sie die Steintür
 nach dem kleinen Heiligtum geöffnet hatte, war Harry
 ihr nachgeschlichen, erwürgte sie fast, fesselte sie … Ihren
-besseren Schrei des entsichert hatten wir ja gehört … —
+heiseren Schrei des Entsetzens hatten wir ja gehört … —
 
 Hiermit komme im zum Schluß dieses Abenteuers …
 Der Perlen-Buddha ist noch heute im Besitz des Ehepaares
 Billing. Und der Blonde (sein Name sei verschwiegen!)
 wird sehr wahrscheinlich doch noch Mary Smieder heiraten,
-da Harald seine Beqanadigung durchgesetzt hat …
+da Harald seine Begnadigung durchgesetzt hat …
 
-«
-Sack ck
+Nächster Band:
 
-Raketen Band:
-Die Blinde vom Engelsriff.
+__Die Blinde vom Engelsriff.__
 
-Druck: V. Lehmann, G. in. b. H … Berlin.
+Druck: V. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.

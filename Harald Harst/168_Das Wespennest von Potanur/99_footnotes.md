@@ -4,3 +4,5 @@
 
 <@footnote 2 "02_Um das Geheimnis eines Einsiedlers.md">Im Original steht "ein leeres, nichtssagendes Lächeln ihre Lippen umspielte"</@footnote>
 
+<@footnote 3 "02_Um das Geheimnis eines Einsiedlers.md">Fehlenden Text sinngemäß ergänzt.</@footnote>
+
