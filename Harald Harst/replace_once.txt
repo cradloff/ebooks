@@ -38,6 +38,7 @@
 \bSähe\b	Sätze
 \bSaß\b	Satz
 \bSeht\b	Jetzt
+\bsic\b	sie
 \bTeich!\b	leicht
 \bTer\b	Der
 \btieſ	tief
