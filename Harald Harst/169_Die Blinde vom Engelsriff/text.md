@@ -1,13 +1,6 @@
 <@pagebreak/>
-Er ain I
 
- 
-<@pagebreak/>
-Nachdruck verboten. =“ Alle Nechte, einſchl. das Verſtimungbö
-recht, vorbehalten. -- Copyright 1925 by Verlag modernex
-Lektüre G. m. b, H., Berliu.
-
-Vie Blinde vom Engelsrift.
+<#include "intro_short2.ftl"/>
 
 1. Kapitel.
 
@@ -41,10 +34,7 @@ einem größeren Niff? Eiwa ein Leuchtturm?“
 
 Billing erwiderte ſtolz: „Allerdings ein Leuchtturnz,
 : Heſter Harſt ... Wir Pflanzer von Potakiwu haben ihga
-Det. 189. 4
 <@pagebreak/>
-OSGSOSDSESSESSSBSO0O 2 0000000002002
-
 auf cigene Koſten erbaut. Wenn unſere Frachtjahrzeuge
 nacht8 vom Feſtlande (er meinte Süd-Vorderindien) heim-
 kehren, zeigt ihnen der rieſige Karbidſcheinwerſer den Weg,
@@ -87,8 +77,6 @@ bar in einem Boot vom Feſtlande herübergekommen waren.
 Greund Wilſon ſie nachher ungern ziehen ließ --- nachher,
 --?18 eben der Leuchtturm fertig war und die Inderin ge-
 <@pagebreak/>
-O0O002DIEGESOD2ECESO 3 00S0SSEDEGIGEGOOSO
-
 beten hatte, ſie und den Knaben auf dem Engelsriſf woh-
 nen zu laſſen --- als Leuchtturmwärterin. Nun hauſt ſie
 dort in der Einſamkeit der Waſſerwüſte und ... iſt zuſrie»
@@ -140,7 +128,6 @@ arit
 
 „Die Inderin trägt "eine blaue Brille?“
 <@pagebreak/>
-SOOGOSOSOOI0052 4 225000002000, 00,2
 
 v.I30 -=- Um anderen den Anbli> der erloſchenen Augen
 zu erſparen ... Und nicht nur eine Vrille, ſondern auch
@@ -190,8 +177,6 @@ Harald nicte ..,- „Allerding3 ...!“
 
 „Und -- Sie fragten auch nah dem Boot, mit dem die.
 <@pagebreak/>
-G002000220020200 535 22GSEGSESSOSOSIOEO
-
 beiden nach Potakiwu kamen ... = Das Boot iſt noch vor-
 handen. Anſura bat, daß ſie es mit nach dem Niſſ nehmen
 dürſe. C5s liegt nun dort unterhalb des Leuchtturmes8 im
@@ -234,8 +219,6 @@ Billing erwiderie lebhaſt: . . |
 „yDas haben wir ja ganz zu erwähnen vergeſſen: Kits
 ſura und Tapiiu ſprechen nur Engliſh, ſogar recht ſließ2n2-
 <@pagebreak/>
-SOSBSSSSSOGSIOSOISO0 6 2800320028005 0I2202
-
 Wilſon meint, ſie tun's abſichtlich, denn ihr Dialekt würde
 ſie verraten .
 
@@ -270,10 +253,6 @@ aben ...“
 
 „Freilich, freilich,“ beſtätigte Harald ... „Man muß
 auch berückſichtigen, daß in Indien ohnedies übergenug.
-Merkwürdiges geſchicht --- übergenusg! -- Nun -- =
-Schraut und ich werden nod) heute nach dem Nijſj ſegeln ...
-Der Wind iſt günſtig ... . Dazu haben wir Vollmond .
-„Und wenn Sie, licber Villing, uns begleiten wollen, --- <<
 vielleicht kann ich Ihnen vann beweiſen, daß dieſes geheim-
 nisvolle Paar 10h anderes zu verbergen hat als man hier“
 annimmt .
@@ -283,8 +262,6 @@ annimmt .
 i „Daß entweder drei Menſchen dort auf der “Klippe
 leben oder daß Anſiura nicht blind iſt ... -+ Als wir ber
 <@pagebreak/>
-SEODESOSEEGEOOESOOSEG 7 DEGCGDISESGVIODSEOD
-
 mit der Jacht in etwa zwei Seemeilen Entſernung vorüber-
 kamen, zeigte mir mein tadellos ſcharjes Glas auf dem 1 Nitf
 neben der ſäulenartigen Figur ein Weib, das ... ein Fern-
@@ -328,7 +305,6 @@ dem - Hafen der Plantage, dem Kanal, zu, -- vorüber an
 “den ſauberen Hütten dcr fardigen Arbeiter, vorüber an den
 kangen Wellblechſchuppen, in denen die Ernte lagerte .
 <@pagebreak/>
-ESSOSSESGVSIOEOSGSSE PR GOIEGOEOEGOEODOSO
 
 Wir machten den Kutter lo8. Billing verſtaute die
 große Wenzinkanne, Harald ſtieß vom Bollwerk ab, ich
@@ -386,7 +362,6 @@ Nichts regt <<H .
 Dilling iſt auf den Turrt geſlettert Aud) dort nie-
 mand .
 <@pagebreak/>
-OSSOGEOGSESOSO 9 GOSOOSGGODSOSG
 
 Kein Zweiſel: Anſura und Tapitu ſind mit deni Boot
 unterwegs ... v
@@ -435,7 +410,6 @@ während Harald die Holzhütte genoner dicchſuchen wollte.
 bod Zeit genug, mir da8 mertwürdige Riff in Kube und
 ſozujagen init geiſtiger Sammlung anzuſehen ...-
 <@pagebreak/>
-SSSSDSSOSSSSSS 10 SESOESCOBDSEOSOO
 
 Der Leſer erbält von dieſem enormen Korallengebilde
 Hdie klarſte Vorſtellung durch einen Vergleih: Das Engels-
@@ -481,8 +455,6 @@ n...
 ten Silberrahmen ... Da3 Bild entdeckte ich unter dem
 Fußboden der Hütte. Man hat da ein Stück Brett als
 <@pagebreak/>
-OSSOSOAD2SSDOEIO28S0 11 20&ECESEO0OSOECOSO
-
 Falltür eingerichtet und ſo ein geräumige3 Verſte> geſchaf-
 ſen, da die Hütte horizontal ſteht und der Vorſtrand ge-
 neiat iſt. So gibt es zwiſaen Fußboden und Strand einen
@@ -532,7 +504,6 @@ im Turmgebälk befeſtigen ...“
 Er lief zur Turmtreppe . ... War in kaum vier Mint-
 ten wieder zurück...
 <@pagebreak/>
-SO000020202520080 19 GE 200003S0000
 
 „So -- das Signal. für Billing wäre vorhanden ...
 Nun "hinab mit un3 in die Höhle hier .
@@ -583,7 +554,6 @@ nicht3 nich? beoba&ten, nuißten vielmehr daran venen, Die
 Kiſten fo 321 verrlden, vaß wir zwiſchen ihnen ſür un3 ein
 wenn aud no< ſy enges Verſteck ſchufen.
 <@pagebreak/>
-OCO0BOOOODDSSO 13 O00OGEGBSOOGCSD
 
 Auch da38 war bald getan ...
 
@@ -640,7 +610,6 @@ Und als8 wir dann auch glücklich den Deckel lo8Sagcewuch»
 tet hatten, wobei wir die Läufe unſerer Clementpiſtolen als
 Hebel benubten, =-- als wir nun die ODelleinwandvhülle des
 <@pagebreak/>
-SSOSOSEB3ES800E2552020 141 DOS 0O0SBSSISOSSO0000
 
 Inhalts ausZeinanderbreiteten, da ... machten wir beide
 Gleichmäßig enttäuſchte Geſichter, -- eine Enttäuſchung, die
@@ -688,8 +657,6 @@ Nun -- anch ic) war jett ſnibig getoorden ...“
 
 - Eigentlich ein Sfaidal, daß ich, Max Schraut, nicht
 <@pagebreak/>
-OGOBEGOGOGDOOLO 15 SOGESOGSOSOGO
-
 auc) ſoſort auf den Gedanken 6efouunein war, daß. der ſg
 reiſe, kluge Zunge ein Dafia-Zwerg jein könnte ... In
 Indien gibt es ja nur drei Zwergenvölker. Zwei davon
@@ -737,7 +704,6 @@ Denn auch in Invien weiß man einen Tran? zu brauen,
 
 der de den' "berüchtigten" chineſiſchen Stinktöpfen noch überleger
 <@pagebreak/>
-SSSSSOECESDSBSSGO 16 200 SGBSEGSSOEEO
 
 Das Repezt dazu iſt ein Geheimnis der indiſchen
 Gauner-Kaſte. .
@@ -776,7 +742,6 @@ tag3 wahrſc<einlic!“
 Wir ſtühben un3 gegenſeitig, erheben uus, taſten uns
 ins Freic ...
 <@pagebreak/>
-SGOGEVOEGVOOGEOGVO 17 GSEO0O0ECE00220200
 
 Vor uns ſtinkende Tangmaſſen ...
  Seeſtrand ... das Meer ... -
@@ -816,7 +781,6 @@ Bi5 Harald rief: |
 ' „Fahren wir zum Engels3riſf! Mit der Ja<ht! So-
 ort!“
 <@pagebreak/>
-“SO O00O0SOSOSSOSSESOoO 18 E20 0S00I0OSS0000&
 
 Frau Maria kam mit ...
 
@@ -876,7 +840,6 @@ Abendröte übergoß die Stätte, wo noch vor Stunden
 da3 ſeſte Gebälk ich dem Himmel entgegengere>t hatte, mit
 feurigem Schein .
 <@pagebreak/>
-02dIOD030I00 19 2CO0ODSEGSOSISOS0B2GSBSOaO
 
 Jene Abendröte, wie ſie nur die Tropen kennen. Eine
 Orgie an Farbenpracht ...
@@ -915,8 +878,6 @@ Sein Sell'ſtgeſühl als Polizeigewaltiger von Potakiwn
 "erwachte wicder ...
 „Herr Harſt,“ wandte er ſich an Harald, „wir ſind uns
 <@pagebreak/>
-OO0GOIOSOIDI2DO 90 0200002000020
-
 doch wohl darüber einig, daß dieſe Leute unbedingt geſun-
 den werden müſſen ... Es handelt ſic<ß hier um die Ver=
 nichtung einer der Schiſſahrt dienenden öffentlichen Cin-
@@ -962,7 +923,6 @@ keine Kraft mehr übrig bleibt .
 
 „Woran denkſt du?!“ fragte ich ſchließlich.
 <@pagebreak/>
-OGOGBGI0DOEEOS 91 GEBEGEGIAEGEGOO
 
 . Er machte an dem einen Fenſter halt und erwiderte,
 mir. den Nücken zukehrend:
@@ -1010,7 +970,6 @@ Alter . .. Wenn nicht: Frage!“
 „Gern .-.- Zunächſt: Waren denn au<F Anſura und
 der Zwerg mit auf der Photographie?"
 <@pagebreak/>
-GOGOOOOOIOOO 99 OOO GODOOOOO
 
 „AÄnſura --- ja! Der Zwerg nicht.“
 „Du hältſt den graubärtigen „Inder für Anſuras
@@ -1058,8 +1017,6 @@ zeichnet. Und vieſe inner? GStitame ſagt mir, daß Anſmura
 und die beiden anderen vorthin geſlüchtet ſind . .. I< kann
 mic) täuſchen ... Anderſeits: Dieſe Inſelchen ſind ſo ver-
 <@pagebreak/>
-SODSSSEDEIOEEO 93 GOGSOGSSEOEGOSD
-
 führeriſc) für Leute, die ſich auſ3 neue verbergen wollen ...
 Dieſe Inſelchen jind vom Engel3riſf aus in einer Stunde zu
 erreichen geweſen ... Und Auſura und ihre Begleiter muße- :
@@ -1106,8 +1063,6 @@ hartnäckig.
 Wilſon ſeufzte, ging ins Nebenzimmer und kehrte mit
 einem Pappkarton zurück, in dem dic bei der „indiſchen.
 <@pagebreak/>
-ESOSSOSOOSOSOSOESS 24 SOCTOSOOESSESOSOSO
-
 Polizei gebräuchlichen Fahndungserſuchen aus vem Jahre
 1924, Juli bis Dezember, lagen.
 
@@ -1159,8 +1114,6 @@ Da ſtand folgende3:
 „Auf Erſuchen des Neſidenken Seiner Hoheit, des
 Nadſccba von Pudukattai iſt der unten beſchriebene Kauf-
 <@pagebreak/>
-OOBEBDEGOSEESEOOEO 2% GEGOSGOSGGDEOEOOOS
-
 mann Cham Goßfkar Jallahay, bi3her wohnhaft in Pudu-
 fattai, wegen Diebſtahls zu verhaſten. Jallahay hat Seiner
 Hoheit ein Brillantdiadem entwendet, außerdem auc< an»
@@ -1203,8 +1156,6 @@ Provianikorb, ver ſich ſehen laſſen koniite., Außerdem nah-
 men wir aber auch unſere Nucſä>de mit, und in dieſen be-
 ſand ſich ſo allerlei, was mit Schwertſiſchjagd wenig zu tu
 <@pagebreak/>
-DSSSSSSSOSSSEGESS 26 ODOSOSESSSSSOSESO
-
 hat. Billing wieder lieh uns jedem eine Doppelbüchſe, und
 
 . jo fonnte denn die Cxpedition nach den grünen Cilan-
@@ -1248,8 +1199,6 @@ wieder etwas ungehalten war ... -- Ueberhaupt: Lapu
 beſaß ſo ſeine Cigenheiten, und e8 war nicht ganz leicht, mit
 ähnt auszukommen ... Er duftete ſtet3 auf drei Schritt
 <@pagebreak/>
-ODDSDSOSGECDSSEDO 97 SSOOOSOOOGSDSDOO
-
 naß Rum, und ſeine lendenlahme Entſchuldigung, daß er
 „die Ameiſen in den Gelenken“ habe (womit er Rhcumatis-
 mus meinte), war genau ſo ſchön erfunden, wie ſeine Be»
@@ -1295,7 +1244,6 @@ durch das 'Vfergeficüpp bahnen kann ... Außerdem noch
 die Klippen und die Brandung, Sahib ... Jd) werde vor-
 ivorſteunern."
 <@pagebreak/>
-20SGSSIOSOSOOGSISO00 28 220 2E0S0SDSD0A0DSD
 
 Harald meinte ruhig: „Das wirſt du nicht, Lapu .
 Wir werden unter Wind ruhiges Waſſer ſinden ... Die
@@ -1343,7 +1291,6 @@ vollſtändig weggerieven. -- I< denke, wir werden ſehr bald
 den Kaufmann Sallahay fragen föunen, ob er wirklich ein
 Dieb und Betrüger iſt.
 <@pagebreak/>
-OOO0O0O0BDI0ODIO020 29 OO0OECOEDEOESS
 
 Und' er richtete ſich auf, ſtemmte die Hände auf den
 Rand des Steilufers und ſchwang ſich bis zu einem jene
@@ -1395,7 +1342,6 @@ geſehen werden ... Sobald e3 hell wird, kriechen wir 112
 Geſtrüpp. Auf jeden Fall warten wir ab, ob ſich jemand
 zeigt . ..“ = -
 <@pagebreak/>
-SOO GOE0O0EOO0O000 30 22000E0920GS00202
 
 Niemand zeigte ſich ...
 
@@ -1459,7 +1405,6 @@ Blieh liegen „-. egt? ſich nicht ...
 
 '" böüczte mich . .. wollte. Harſt „wieder aufrichten .
 <@pagebreak/>
-SGEGSSCSDOOSESOEEGGSIOSOO 21 GEO 00S0S002800000
 
 Bückte mid), ic) Tor!!
 
@@ -1516,7 +1461,6 @@ lichem Tone ...
 
 : Der Alte erzählte ...
 <@pagebreak/>
-DSOODSGODDSOO2 32 0000020202020 2002
 
 Der Mann von nebenan...
 
@@ -1554,7 +1498,6 @@ beipflichten ... Genau weiß ich's nicht ,.. Nur daß ich
 entſetzt mit der Hand nah der Schlange ſc<lagen wollte
 und daß mir der Arm nicht mehr gehorchte „...“
 <@pagebreak/>
-DSOOODEODIGOSESO 33 DS0ODSGDOEOSGOGOOO
 
 „Im -- rod) denn der Atem dieſes angeblichen Neptils
 nad) irgend etwas?“ forſchte ich weiter.
@@ -1596,10 +1539,7 @@ bevor ſich deine Sinne wieder verſammelten . .. Sie warzeit
 dir durch die Beule vavongeflogen, die du am Hinterfopi
 hatteſt und die ich mit Waſſer gefühlt habe. -- Nun weivt
 du alles, Sahib Schraut.“
-
-Det. 165. 2
 <@pagebreak/>
-SGSOEBWEOEODOSSESOSE 34 SOSOOSDSOSSSSSOOED
 
 Unſer Boot hatte derweil die nordweſtlichen Ausläu-
 fer der Riſſe erreicht, und in einer weiteren halben Stunde
@@ -1649,8 +1589,6 @@ Schein de38 prächtigen Abendhimmels jetzt cinen letzten
 Blik rundum warf = ich ſtand acrade unter dem dickſten
 der Bäume. die aus vem Fel8newirr emporragten =, als
 <@pagebreak/>
-395 OGGOOGODEOSGOGEGOS
-
 iH halb verzweifelt mir überlegte, was i& wohl zur Bc-
 ſreiung Harald3 no< unternehmen könnte, da ... ſal) it
 etwa3, das mir bi8her entgangen Wwar ...
@@ -1701,8 +1639,6 @@ allein davonſegeln, bis du von der Inſel nicht mehr 3“
 Sollte ich dann bis zwei Uhr morgen3 niht erſchiene?
 ſein, ſo bleibt e38 bei unſerer Abrede, dann ſährſt du 168%
 <@pagebreak/>
-GOO0OSE00E005I0 36 0000000200000
-
 Potakiwu und meldeſt Sahib Wilſon, daß er die Inſel
 mit Hunden abſuchen ſoll.“
 
@@ -1754,7 +1690,6 @@ Mit dem Siſtolen?olben beſflobfte id den Stamm unrd
 fand aucy bald das. künſtlich eingefügte, mit Baumrind2
 Tenagelt 8 Drett -- eine Klayptür ..
 <@pagebreak/>
-OSEGOGODSSOSSSESO 37 O2 0ESDESGSOESESGOD
 
 Leuchtete in den Baumſchacht hinein ...
 
@@ -1808,7 +1743,6 @@ lang .
 Ih überlegte nigt lange ...
 Nahm die Clement, entſicherte ſie ...
 <@pagebreak/>
-SGOOSDOSECOO05I500 WW 22I0E5G3GSISO0DSOEEGO
 
 Dieſe Bretterwand war ein Nichts ſür die Nidel--
 mantelgeſchoſſe ...
@@ -1864,7 +1798,6 @@ I< laſſe „bn gar nicht zu Worte kommen .
 
 ftill .
 <@pagebreak/>
-GOSSE DBDSOOODESD ZI GEBDGESOOEOOOSEO
 
 Jaſlahay ruſt:
 „Nicht bei vir, Sahib? !*
@@ -1924,11 +1857,7 @@ verzerrte ſich in une dlichem Haß .
 
 „Du hörſt e8, Jallahuy ... ==“ Es ſtimmt aljo: Der
 Nadſc<a hat euer Berſtec> voc. aufgeſpürt und ... beine
-
--
 <@pagebreak/>
-SSSSOGSOSOSOSOSBSO 40 E0SOSSGSOEOSSOEOIOSO
-6
 
 ... Und als ich ſie deShalb heimlic) mit dem Zwerge aus
 der Stadt ſfortſ<i>te, hat der Radſcha mich des Diebſtahls
@@ -1977,8 +1906,6 @@ Hiebe, der -mic niederſtrecte, noch das ſchrille Lachen eines
 Menic<en vernommen hatte, den ih für den Dafla hielt,
 und daß auch vorher Harald und i> die Stimme des. Zwetr-
 <@pagebreak/>
-DSSOSOOESEOOGSEOESO 41 OSOSSEGOGGOOO
-
 ges gehört zu haben glaubten. =“- Ob denn auch unter den
 Leuten des Fürſten ſich ein Dakka beſunden haben mochte? 1
 -=-“ JH fragte Jallahay, und er erwiderte eiſrig:
@@ -2022,11 +1949,7 @@ gelangen ... . | Zn
 Erwiderte: „Jallahay, die Leute des Fürſten vürf-
 ten beſtimmt nach dem Feſtland zurückgekehrt ſcin. Ei2
 werden dich und den Dakka für tot halten, . werden anneb-
-
-»
 <@pagebreak/>
-OESSECODSGEDSESOSSS 42 2000002050000
-
 inen, daß ich dies Höhlenverſie& niemals finden werde. Ob
 ſie meinen Freund als Gefangenen ebenſo wie deine Toch-
 ter entführt haben, wird die Zukunſt lehren. -- Zd habe
@@ -2071,8 +1994,6 @@ Billings zu beſchwindeln ...
 Vormittags erſchien auch der di&6e Wilſon auf der
 Plantage. Er war außer ſich vor Grimm auf die Blinde
 <@pagebreak/>
-OGIOIDEDSBSSIOSEOEOSOSOEO 43 2DSSSICOGSEGSSOSS
-
 und deren Anhang, denn auch er glaubte ja, daß Harald,
 ig und Lapu von den Flüchtlingen vom Engelsriſſ über«
 rumpelt ſeien.
@@ -2120,7 +2041,6 @@ meiner Pläne mehr zu befürchten. -
 fate ic) ſehs genau achtgegeben, ob auch niemand mit
 foloe . >. =.
 <@pagebreak/>
-QDSII020020830000 4 200GS0S0GSIEGESISS0I
 
 Und jetzt während des Nückweges war ich noh wach-
 amer .
@@ -2169,11 +2089,7 @@ es Hauſierer .-. fiel prompt auf den billigen Tri>
 
 "Nachdem er ſich ſicher ſühlen zu können glaubte, kehrte
 er um ... hob den Zettel raſch auf und ſchlug nun gleich»
-
->
 <@pagebreak/>
-GI0DSBSGESGSOSDSBSSOO 45 2000ESD03SC0I0OSBOGBGBSOoO
-
 ſall3 den Weg zur Plantage ein, um hier in den Hüiten
 ver Arbeiter ſeinen Kram feilzubieten.
 
@@ -2218,8 +2134,6 @@ duld doch recht hohe Anſorderungen, da wir nur ſehr lang-
 ſam vorwärts kamen. Einntial nahm uns ein kleiner
 Frachtdampfer gegen Bezahlung ins Schlepptau. Dann
 <@pagebreak/>
-GOSGOGOGOGOEDSO 46 00 0080E00B00000
-
 wieder hatten wir einen halben Tag ſo günſtigen Wind,
 daß wir ein Mattenſegel und einen Maſt herſtellten und
 ſo wiederum die mühſelige Nuderarbeit ſür acht Stunden
@@ -2262,7 +2176,6 @@ bindung ſesten. Die3 übernhra ich, denn fowohl Jallahaty
 als auc) Tapiti wären von den Dienern Gittar3 zu leicht
 ezeannt wvrdoit --- ſchon an der Gyrach?.
 <@pagebreak/>
-OOESBSBSEODSSSSEOS 47 DOESSSECDOECOSO
 
 IH verließ das Boot und durchſchritt ven ſchmalen,
 langgeſtre>ten Garten. Jallahay hatte nir für alle Fälle
@@ -2310,7 +2223,6 @@ bedeGat war.
 Unſereiner pflegt ſich nun ſofort über derartige Ves?
 achtungen ſeine beſonderen Gedanken zu nachen.
 <@pagebreak/>
-SSDOO00200202000 48 O0d0SOI000082S00
 
 - Mein erſter Gedanke war: Cs hat ſich dort ein Spion
 eingeniſtet, der Garamar Sittar auf Beſehl de8 Radſchas
@@ -2362,8 +2274,6 @@ Herabgeriſſen hätten .
 
 Cine Prozedttr, hei der ic) mir unſchlbar das Genick
 <@pagebreak/>
-SSSEOGSESOGOSSOGBDSESO 49 SOSE SSSSOSGSOOD
-
 gebrochen hätte, wenn der Angreiſer nicht, ein Nieſe von
 einem Inder, mich geſ<hidt in den Armen aufgefangen
 hätte, jedoch feine8weg3 liebevoll --- im Gegenteil! Er
@@ -2416,7 +2326,6 @@ Stopfte mir einen Fetzen Stoff in den Mund, legie
 mir eine Dee über den Kopf, hob mich wieder empor 123
 trug mich von dannen ..
 <@pagebreak/>
-OGOOOGOSOOSSOEBOISO 50 SSOOSOOEG002000
 
 Wie ein Kind ...
 
@@ -2473,7 +2382,6 @@ Und da Garamar Sittar mir nicht3 von meinem
 Taſc<heninbalt abgenommen hatte, konnte ich, jogar meine
 Zelle hier beleuchten.
 <@pagebreak/>
-DSOSBDSOOGDODOSOSO 61 SODDEGOEDOEOSGOEOD
 
 Die kleine ſla&e Lampe zeigte mir einen Raum von
 etwa zwei Meter Breite und vier Meter Länge ...
@@ -2524,7 +2432,6 @@ Jedenfall8: J<. wurde unrnhig!
 Und -- als ich jeht zufällig aufslicke und in den großen
 Spiegel ſchaue, da ſchnelle ich empor .
 <@pagebreak/>
-020000I02G72020E50002 Iz EOEEECOI8EC00202
 
 In dem Spiegel habe ich einen Moment ein pocden-
 narbiges, braunes, weißbärtiges Geſicht geſehen --- einen
@@ -2579,7 +2486,6 @@ Loch groß genug war, zu mir herein oder konnte doch zum
 mindeſten durch dieſes Loch mich irgendtvie beläſtigen, ſalls
 er nicht ſoaar Böſere3 im Schilde führte . .. =
 <@pagebreak/>
-OD2ODESSOCOOLO 53 SSOOOSSECOSCOSO
 
 Nun hatte ic) alſo eine doppelte Sorg2: Erſtens ---
 ob ich hier etwa wirklich für längere Zeit eingeſperrt
@@ -2633,10 +2539,8 @@ Donnerwetier: Fünf Uhr -- -- natürlich fünf Uhr
 nachmittag3 ... I< hatte ſaſt zwölf Stunden geſchlaſen!
 
 Fühlte mich ſriſch, unternehmungsluſtig -= -- und
-
 hungria ...
 <@pagebreak/>
-0200020083082L25550 341 0200 E5EISI0IDSSBSOSES
 
 Sah neben meinem Lager einen Krug, zwei verdeckte
 Schüſſeln . .. Aß, trank ... Und dachte an Jallahay, der
@@ -2695,7 +2599,6 @@ Und ich ſragte: „Ver biſt du?"
 Mund ...
 Oba -- ſtumm!!!
 <@pagebreak/>
-G2OBOGGVEGVGVOSOGVE 55 ESEOEGCVSOECSEEGSBOOGO0O
 
 Und wieder ſragte ic:
 fei „Fannſt vu mich befreien? EC3 ſoll dein Shade nichl
@@ -2750,8 +2653,6 @@ verſioſſenen Nacht .
 Kaum war er in der Tiefe verſczwunden, als i& aus
 ſhon an die Tür ſeiner Zelle trat. Auch ſie war wie die
 <@pagebreak/>
-SSODSEDSSIO020000 % 20DE0S0E5S0OS3EOESIS3oO
-
 meine von außen verriegelt ... Beſaß innen keinerlet
 Schloß, Griff oder Drücker --- wie die meine .
 
@@ -2803,8 +2704,6 @@ auitauchenden Mondes zauberhaft ſchönen Sec ...
 
 Zauberhaft ſchön da8 Radſchaſchloß auf der Inſel ...
 <@pagebreak/>
-GSOEOGOESDEGEGSOSOS 537 ESOSGECEGGEEGCOSOO
-
 Zauberhaft ſchön die mit Palmen beſtandenen Uſerz
 zwiſchen den Palmen ſc<hneeige kleine Pavillons, Säulen-
 gänge, Terraſſen mit Fontänen ...
@@ -2862,7 +2761,6 @@ Wage e3 nicht .
 
 aus .
 <@pagebreak/>
-GSSGSSSDSDSOGESOS 33 DSS OSEESEDSS0SG
 
 ZH ſiebere ...
 
@@ -2916,7 +2814,6 @@ eht
 “ Die Tür geht auf ....
 Wir ſchleichen hinein ...
 <@pagebreak/>
-OS0SSSSISSIOISOSGS0SO 539) DEGIOSESSOSCEOGECOO
 
 Vor un3 linker Hand der eine Flügel der Burg ...
 Zwei helle Fenſter im Erdgeſchoß ...
@@ -2965,7 +2862,6 @@ Diadem in den Fingern achabt habe ... --- I< nice. Und
 er. zieht mich ciletids wieder der Kupſerpforte zu, -- wir
 beſteigen dein: Nac<en und rudern davon ...
 <@pagebreak/>
-GOSGOOSOGISGOOOO 60 200B0E00002000
 
 Ganz benommen ſive ich da ... Was ſoll dies alle3?!
 WeShalb darſ ſich Harald noh nicht zeigen?! WeShalb iſt
@@ -3012,8 +2908,6 @@ lange Flure, ' bis zu einer Flügeltür. .. . - Klopit an und
 läßt mich eintreten, bleibt ſelbſt draußen und ijchließt die
 Tür. hinter mir. --. Jc< ſtehe im-Arbeitszimmer Sciner Exo
 <@pagebreak/>
-OOGGIOIDIDSOO 61 O20S&EOSOGGOGOBO
-
 zellenz de3 Neſidenten, der mir , entgegenkommt, mich be-
 grüßt ...
 
@@ -3067,7 +2961,6 @@ ein Ga3gemenge, das man mir von hinten aus dem Ge-
 ſtrüpp durch einen Gummiſchlauch zuleitete, von dem Fel3-
 blo nach vorn ſank ...“
 <@pagebreak/>
-O2O0000000000 6) 0202000020200
 
 Wenn ich hier nun Haralds8 Angaben wörtlich wieder-
 holen wollte, würde ich dazu etwa zehn Seiten brauchen.
@@ -3106,8 +2999,6 @@ bie beiven anteren Petoohnez ves ECngelsrijis geweſen
 ſind. IH bab2 ein Geſpräch zwiſchen dein Radſcga und
 Dronwel beſaaſht ... 53 iſt fo, wie ic ſage ... =- Ig
 <@pagebreak/>
-SSSOSSSSOGEGSSGESlO 63 GEOEBOBESBSSSEOBDESOSO
-
 würde Jhnen raten, Exzellenz, noM in dieſer Nat die
 nötigen Verhaftungen vorzunehmen. Die Stimmung der
 Bevölkerung gegen den Fürſten kennen Sie ja ... Man
@@ -3148,7 +3039,6 @@ cite
 “Da „-- läGelte er ... ein wenig verlegen ... Und er-
 widerte? -
 <@pagebreak/>
-GSOSSSSBESBSSDSSESD3DS0 61 SdSOSSDOOSDODEOOSO
 
 „Mein Alter, laſſen wir das alle3 ruhen ... Ein jeder
 Menſc<h hat ſeine kleinen Schwächen ... Im übrigen war
@@ -3169,180 +3059,4 @@ GSG
 Nächſter Band:
 Der tote Ravſcha.
 
-“.-
-
 Druek: PV. Lehmann. G. m. b. H., Berlin.
-<@pagebreak/>
-Weitere Ausgaben
-
- 
-
-. Das
-. Das
-. Die Diamanten des Bettlers.
-
-. Die Photographien d. Sennor Trimaldo.
-. Der Kokain - Klub.
-
-. Harald Harsts zweite Liebe.
-
-unserer Harst.« Abenteuer *
-
-Das geheimn:svoile Fenster.
-Anita Armands Verhängnis.
-Unzer 100. Adenteuer.
-
-Die Piraten der Havelseen.
-
-Der Napoleon aus Wachs.
-
-Der dritte Schuß.
-
-Das Zimmer ohne Fenster.
-
-Das Paket im LUrbanhafen.
-
-Der unheimliche Mieter.
-
-Das Känguruh der Miß Dolling.
-Die Motoryacht ohne Namen.
-Der Kampf geger: Lionel Barrin
-Das Geheimnis der Tokkara-Fälle.
-
-Die 0e Null.
-
-Das Üeheimnis des Bosporug.
-Anna Karstens Amulett.
-
-(der Mann mit dem CGlazaauge.
-Der Kopf des Maharadscha.
-Die Treppe des Todes.
-Doktor Groupys Verhängnis.
-Das Geiszterschiff.
-
-. Der Tennisschläger der Rank
-. Der Mann im Monde.
-
-- Tama Barru. der Verrückte.
-
-. Das Piratendurf.
-
-.- Die Hezenküche.
-
-. Das Geheimnis von H. O. Ill.
-
-Die Gräfin mit den Kormoranen.
-Der Bouillonkelter Nr. 113.
-
-Der tote Tümmler.
-
-[Das Erde des Verschollenen. -
-Das Geheimnis der Drabu-Fälle.
-Die Faktorei auf der Toteninsel.
-estohlene Auto.
-
-ätzel der Spielkarten.
-
-137.
-138.
-139.
-140.
-141.
-142.
-143.
-144.
-145.
-146.
-147.
-148.
-
-Karon TisSanders Schaukel.
-
-Das Erbbegrabnis.
-
-Das Gestadoe der VergesSenheit
-Die Wachspuppe des Trödlers.
-Der MaSskenball der Tuten.
-
-Die Villa mit den vier Scornsteinen.
-Das Gespenst von Jan Mayen.
-Das geheimnisvolle Floß.
-
-Die Familientruhe der Darlingtons
-Die drei Finger Ben Bensuns.
-
-Die Fürstin der Gwala- öerge.
-Der Fakir ohne Arme.
-
-149. Joe Billa akers Verbrechen.
-
-130.
-151.
-132.
-133.
-154.
-155.
-156.
-137.
-
-158.
-159.
-160.
-191.
-162.
-
-173.
-174.
-
-. Das
-. Der
-. Das
-
-. Das
-. Das
-
-. Der
-171. Ein Seltsimes HochzeitsgesSchenk.
-172.
-
-Das Geheimnis des Perlentauchers,
-Burg Totenhall.
-
-Das Untergrundbahngespenst.
-Der GeisSterberg Schara Schaka.
-Die rote Rakete.
-
-Der Trium der Lady Gulbranor.
-Der Geheimbund der zwölf Schlüzsel.
-Das Geheimnis des Sanatoriums
-Waldesruh.
-
-Die Inscl der Verstorbenen.
-
-Miß Wells SeltsSames Abenteuer.
-Das Haupt der Shinta.
-
-ver Spintistenklub.
-
-Der Mann aus Eisen.
-Gefeimnis der Pagode.
-Gentleman - Pirat.
-
-Rätscl der drei SchlüSgel,
-(Grandells letzte Nacht.
-Geheunn's des InSc.forts.
-VWeSpennest von Potanur.
-Blinde vom Engeisnfl.
-
-tate Radscha.
-
-M:6
-Die
-
-Der Abreibkalvnder des Kapitäns.
-Der ratzelhaite Gast.
-Die grün - rote Schnur.
-
-Erbältlich in jeder Buchhandlung oder direkt beim
-VERLAG MODERNER LEKTURE
-Berlin SO16 / Michaelkirchstraße 23482
