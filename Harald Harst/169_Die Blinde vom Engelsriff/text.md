@@ -131,7 +131,7 @@ Harst …«
 »Die Inderin trägt eine blaue Brille?«
 
 <@pagebreak/>
-»Ja — Um anderen den Anblick der erloschenen Augen
+»Ja — um anderen den Anblick der erloschenen Augen
 zu ersparen … Und nicht nur eine Brille, sondern auch
 noch hinter den Gläsern Wattestückchen … Sie ist bestimmt
 blind, die Ärmste … Da sie ihren Namen niemandem
@@ -153,7 +153,7 @@ zu sprechen …
 
 Ich — — kenne ihn. Ich wußte jetzt: Ansuras Person
 beschäftigte seine Gedanken mehr als er’s sich merken
-ließ. — Ich war auch Überzeugt, daß er die ernstesten Zweifel
+ließ. — Ich war auch überzeugt, daß er die ernstesten Zweifel
 hegte, was die Blindheit dieser immerhin recht rätselhaften
 Inderin betraf. — —
 
@@ -221,7 +221,7 @@ Billing erwiderte lebhaft:
 »Das haben wir ja ganz zu erwähnen vergessen: 
 Ansura und Tapitu sprechen nur Englisch, sogar recht fließend.
 <@pagebreak/>
-meint, sie tun’s absichtlich, denn ihr Dialekt würde
+Wilson meint, sie tun’s absichtlich, denn ihr Dialekt würde
 sie verraten …«
 
 »Wenn sie das Englische so gut beherrschen,« sagte Harald
@@ -387,7 +387,7 @@ sofort … Schraut und ich bleiben hier. Nur auf diese
 Weise werden wir dieser Inderin hinter ihre Schliche kommen.
 Sollten wir bis morgen mittag nicht auf Potakiwu
 eingetroffen sein, so nehmen Sie die Motorjacht und steuern
-Durch die Korallenbank, beobachten dabei mit einem Fernrohr
+durch die Korallenbank, beobachten dabei mit einem Fernrohr
 hier den Leuchtturm und geben genau acht, ob am
 Turme irgendwo ein Fetzen Zeug als Signal flattert. Bemerken
 Sie das Signal, so ist alles vorläufig in Ordnung,
@@ -399,7 +399,7 @@ mich doch verstanden?«
 »Vollkommen … — Ich soll dann also unverzüglich
 von hier verschwinden?« 
 
-»Ja — — Unverzüglich!«
+»Ja — — unverzüglich!«
 
 Der Kutter verließ das Engelsriff, und Harald und
 ich standen neben der Engelsfigur oben auf der Höhe der
@@ -431,7 +431,7 @@ Wasserspiegel gerechnet vielleicht fünf und ein halbes Meter
 hoch. Das Wasserbecken in der Mitte besaß noch einen unregelmäßig
 breiten, sanft geneigten Strand, der überall von
 weißlichen Muschelresten ganz hell schimmerte. Die Balken
-Des Turmes Wieder waren in Löcher eingelassen, die man
+des Turmes wieder waren in Löcher eingelassen, die man
 oben in den »Schüsselrand« geschlagen hatte.
 
 Dies mag über das Engelsriff genügen, auf dem wir
@@ -473,7 +473,7 @@ dar, eine indische Familie aus sieben Köpfen …«
 »Vielleicht, mein Alter … — Hallo, was ist denn
 das …?!«
 
-Er Hatte sich soeben mit dem Rücken etwas kräftiger
+Er hatte sich soeben mit dem Rücken etwas kräftiger
 an den Korallenengel gelehnt, und diese gut drei Meter
 hohe zackige Säule war dadurch ein Stück zur Seite gedrückt
 worden …
@@ -529,7 +529,7 @@ Korallenkalks kaum sehr schwierig gewesen sein konnte.
 
 Dieses Fenster maß etwa vier Meter im Quadrat, besaß
 auch mehrere Luftlöcher nach der offenen See zu und
-war völlig trocken,
+war völlig trocken.
 
 Im ganzen standen hier vierzehn Holzkisten und fünf
 Zinkfässer. Die Kisten waren mit Bandeisen umnagelt und
@@ -546,10 +546,10 @@ bequem überschauen …
 
 Wir brauchten nicht lange zu warten …
 
-Wir sahen das Boot, wie es Die äußeren Riffgürtel
+Wir sahen das Boot, wie es die äußeren Riffgürtel
 passierte …
 
-Wir sahen, Daß es … mit einem kleinen Außenbord
+Wir sahen, daß es … mit einem kleinen Außenbord
 (Aufsteck-) Motor ausgestattet war …
 
 Und — außer dem Knaben und der Inderin (die keine
@@ -557,7 +557,7 @@ Brille trug!) befand sich mich ein graubärtiger Mann in
 dem Fahrzeug, — ein Inder von sehr stattlichem Wuchs …
 
 Dann war das Boot im Innenbecken, und wir konnten
-nichts mehr beobachten, mußten vielmehr daran denken, Die
+nichts mehr beobachten, mußten vielmehr daran denken, die
 Kisten so zu verrücken, daß wir zwischen ihnen für uns ein
 wenn auch noch so enges Versteck schufen.
 
@@ -616,7 +616,7 @@ hatten, wobei wir die Läufe unserer Clementpistolen als
 Hebel benutzten, — als wir nun die Ölleinwandhülle des
 <@pagebreak/>
 Inhalts auseinanderbreiteten, da … machten wir beide
-Gleichmäßig enttäuschte Gesichter, — eine Enttäuschung, die
+gleichmäßig enttäuschte Gesichter, — eine Enttäuschung, die
 durchaus berechtigt war …
 
 Denn in dieser Kiste lag nichts als eines jener indischen
@@ -633,7 +633,7 @@ langrohrige Pfeifen völlig leer …
 »Hm — was sagst du dazu?!« meinte ich kopfschüttelnd.
 
 »Ich meine, wir schließen die Kiste wieder und öffnen
-Jene dort … — Vorwärts, mein Alter …! Keine Müdigkeit
+jene dort … — Vorwärts, mein Alter …! Keine Müdigkeit
 vorgeschützt!«
 
 Nach fünf Minuten war nun auch die zweite Kiste
@@ -698,7 +698,7 @@ Eine dritte …
 
 Harst hatte rasch die Lampe ausgeschaltet …
 
-durch die Luftlöcher sahen wir draußen den jungen
+Durch die Luftlöcher sahen wir draußen den jungen
 Tag herausziehen …
 
 Hier drinnen … umwehten uns Düfte, von denen wir
@@ -783,7 +783,7 @@ Seestrand … das Meer … —
 Und dort in der Ferne die andere Insel: Potakiwu!
 
 Harald geht nach links hinüber, entkleidet sich wortlos
-… nimmt ein Bad, und ich mache es ihm nach
+… nimmt ein Bad, und ich mache es ihm nach.
 
 Wie neugeboren entsteigen wir den Fluten …
 
@@ -813,7 +813,7 @@ Frau Maria sorgt für uns …
 
 Und dann fragt Harst:
 
-»Lieber Billing, war der Proviantkutter Heute am
+»Lieber Billing, war der Proviantkutter heute am
 Engelsriff?«
 
 »Natürlich …«
@@ -833,9 +833,9 @@ Billings starrten uns entgeistert an …
 
 Glaubten nicht recht an die Stinktöpfe …
 
-bis Harald rief:
+Bis Harald rief:
 
-»Fahren wir zum Engelsriff! Mit der Jacht! sofort!«
+»Fahren wir zum Engelsriff! Mit der Jacht! Sofort!«
 
 <@pagebreak/>
 Frau Maria kam mit …
@@ -922,19 +922,19 @@ Damenschrift:
 
 > das Geld zur Errichtung eines Ersatzleuchtturmes …
 Ihnen den guten Rat, sich nicht weiter mit dieser Angelegenheit
-zu beschäftigen. Ansura,
+zu beschäftigen. Ansura.
 
 »Immerhin anständig — 3000 Pfund!« sagte der dicke
 Wilson …
 
 Billing fuhr ihn wütend an …
 
-»das nennen Sie anständig …!! Wo sollen wir jetzt
+»Das nennen Sie anständig …!! Wo sollen wir jetzt
 wohl hier einen neuen Leuchtturm errichten?! Wo?!«
 
 Wilson duckte sich scheu zusammen …
 
-»Schreien Sie doch nicht so, Billing …!? Was muß
+»Schreien Sie doch nicht so, Billing …! Was muß
 Herr Harst von uns denken! Wir zanken uns hier wegen
 des Turmes, der doch auch auf einem anderen Riff aufgestellt
 werden kann — sogar mit Zementsockel — — für 3000
@@ -988,7 +988,7 @@ ihm stets eigen, wenn sein Geist mit Hochdruck arbeitet und
 dann gleichsam für den Körper zu einer straffen Haltung
 keine Kraft mehr übrig bleibt …
 
-so verstrich eine Viertelstunde …
+So verstrich eine Viertelstunde …
 
 »Woran denkst du?!« fragte ich schließlich.
 
@@ -1010,7 +1010,7 @@ um ihn zu verstehen … Und ich fand, daß seine
 Sätze wenig Zusammenhang hatten … Es fehlten da die
 verbindenden Glieder …
 
-»anderthalb Jahre haben Ansura und der Zwerg auf
+»Anderthalb Jahre haben Ansura und der Zwerg auf
 dem Engelsriff gelebt,« fuhr er fort … »Haben das Versteck
 unterhalb des Engels ausgehöhlt … Und die Kisten
 dort verborgen gehalten — Kisten mit Kleinmöbeln … —
@@ -1030,7 +1030,7 @@ Zeitungen aus der Zeit genau durchsehen, als Ansura hier
 auftauchte … Wilson als Polizeimeister hat vielleicht die
 Zeitungen gesammelt — vielleicht …«
 
-»Verzeih’,« warf ich ein … »Du Denkst heute ziemlich
+»Verzeih’,« warf ich ein … »Du denkst heute ziemlich
 sprunghaft …«
 
 »Die Lücken kannst du dir wohl selbst ausfüllen, lieber
@@ -1056,7 +1056,7 @@ Boot nicht groß genug.«
 
 »Weshalb sprengten sie das Riff auseinander?«
 
-»gerade der zurückbleibenden Kisten wegen … Sie
+»Gerade der zurückbleibenden Kisten wegen … Sie
 fürchteten, daß die Kisten sie verraten würden … Sie wollten
 um keinen Preis das Dunkel, das ihre Personen umgab,
 irgendwie lüften …«
@@ -1110,7 +1110,7 @@ Wilson — vielleicht Zeitungsammelmappen besäße …
 tut’s auch … Prima Kraut. — Was wollen Sie übrigens —
 mit den Zeitungen?«
 
-»Nur mal nachsehen, ob ich darin etwas Über Ansura
+»Nur mal nachsehen, ob ich darin etwas über Ansura
 finde …«
 
 »Ach — Sie meinen aus jener Zeit, als diese Schwindlerin
@@ -1168,7 +1168,7 @@ verhandeln. Hoffentlich ist er daheim …«
 
 Wir verabschiedeten uns.
 
-als wir dem Dorfe zuschritten, holte Harald aus seiner
+Als wir dem Dorfe zuschritten, holte Harald aus seiner
 Brusttasche … ein Fahndungsformular hervor …
 
 »Da, lies mal, mein Alter …«
@@ -1190,7 +1190,7 @@ Betrügereien verübt …«
 
 Und dann folgte die Personalbeschreibung, die so ziemlich
 auf den hochgewachsenen Inder paßte, den Ansura auf
-dem  Engelsriff verborgen gehalten hatte,
+dem  Engelsriff verborgen gehalten hatte.
 
 Harald nahm mir das Formular wieder ab … meinte:
 »Wie du siehst, ist die mit aufgeklebte Photographie offenbar
@@ -1239,10 +1239,10 @@ Das Boot segelte trotz seiner plumpen Formen ausgezeichnet.
 Wie alle diese südindischen Küstenfahrzeuge besaß
 es am Heck eine Kajüte aus Bambusrohr, bei dem die
 Fugen mit Harz verschmiert waren. — Kajüte klingt ja
-für solch eine winzige Hütte etwas sehr großartig. immerhin
+für solch eine winzige Hütte etwas sehr großartig. Immerhin
 hatte diese hier den Vorzug peinlicher Sauberkeit und
-Absoluten Ungeziefermangels, etwas, das gar nicht hoch
-genug zu bewerten war. — In der Mitte Haben diese
+absoluten Ungeziefermangels, etwas, das gar nicht hoch
+genug zu bewerten war. — In der Mitte haben diese
 Fischerboote kein Verdeck, dagegen vorn am Bug wieder
 einen Verschlag, in dem zur Not zwei Leute schlafen können
 und auch ein Herd aufgestellt ist, dessen dünner Blechrohrauchfang
@@ -1467,7 +1467,7 @@ Und — dieser sanfte Stoß genügte …
 
 Er … fiel vornüber …
 
-blieb liegen … Regte sich nicht …
+Blieb liegen … Regte sich nicht …
 
 Was war das?!
 
@@ -1490,7 +1490,7 @@ ein heißeres Lachen schadenfrohen Triumphs …
 Dann hatte Max Schraut für Stunden … ausgelitten
 …
 
-dann — — eine Stimme — Rumgeruch:
+Dann — — eine Stimme — Rumgeruch:
 
 »Sahib … Sahib!!«
 
@@ -1509,7 +1509,7 @@ Ich blickte mich um.
 
 »Sechs Uhr nachmittags, Sahib …«
 
-sechs Uhr!! Also waren fast zwölf Stunden inzwischen
+Sechs Uhr!! Also waren fast zwölf Stunden inzwischen
 verflossen …
 
 Und — wo war Harst?
@@ -1655,7 +1655,7 @@ Felsgestein nimmt keine Fährten an, und nur ein guter
 Schweißhund hätte hier etwas ausgerichtet.
 
 Jedenfalls: bis zum Eintritt der Abenddämmerung
-mühte ich mich völlig ergebnislos ab. als ich im rosigen
+mühte ich mich völlig ergebnislos ab. Als ich im rosigen
 Schein des prächtigen Abendhimmels jetzt einen letzten
 Blick rundum warf — ich stand gerade unter dem dicksten
 der Bäume, die aus dem Felsgewirr emporragten —, als
@@ -1685,7 +1685,7 @@ Und — mein Blick wanderte nun langsam nach oben.
 Zu dem dicken Ast über dem Block. An diesem Ast war die
 Rinde zum Teil drei Finger breit verschwunden!
 
-also: Dort war ein Tau befestigt gewesen.
+Also: Dort war ein Tau befestigt gewesen.
 
 Dort hinauf waren Menschen von diesem Felsblock
 aus geklettert — — Menschen: Ansura und die Ihrigen!
@@ -1809,7 +1809,7 @@ Rief mit voller Lungenkraft:
 
 Nur die Bestie antwortete zunächst …
 
-dann eine helle, schrille Stimme … Der Dakka-Zwerg.
+Dann eine helle, schrille Stimme … Der Dakka-Zwerg.
 
 »Sahib … rette uns!«
 
@@ -1848,7 +1848,7 @@ Felsstücke, Steine … Einer davon gut einen Zentner …
 Und den benutzte ich zum Angriff auf die Tür. Die
 Bretter zersplittern.
 
-Ich reiße die Stücke fort und leuchte Hinein …
+Ich reiße die Stücke fort und leuchte hinein …
 
 Gerade vor mir der Tiger, noch lebend …
 
@@ -1902,7 +1902,7 @@ seine näheren Erklärungen abwartete. Er fügte denn auch
 hinzu:
 
 »Sahib, wir leugnen in keiner Weise ab, daß wir dich
-und deinen berühmten Freund vom Engelsriff nach Der
+und deinen berühmten Freund vom Engelsriff nach der
 Sandinsel Potanur schafften. Hier aber haben wir uns
 nicht wieder an euch vergriffen … Das müssen diejenigen
 getan haben, die uns selbst unerwartet überfielen …«
@@ -1923,7 +1923,7 @@ Wieder blickte er mich erstaunt an …
 
 Ich erklärte ehrlich: »Mein Freund Harst hat die
 Vermutung ausgesprochen, daß deine Tochter vielleicht
-irgendwie eines Liebesabenteuers wegen Geflohen sein
+irgendwie eines Liebesabenteuers wegen geflohen sein
 könnte …«
 
 Jallahay nickte … Sein kluges, energisches Gesicht
@@ -1960,7 +1960,7 @@ dem Überfall durch die Leute des Radscha erzählte …
 Zeit schon gewußt haben muß, daß wir auf dem
 Engelsriff hausten, aber insgeheim dieses neue Versteck
 hier auf der kleinen Insel vorbereiteten … Wir müssen
-ständig beobachtet worden sein … In Der verflossenen
+ständig beobachtet worden sein … In der verflossenen
 Nacht drangen dann gegen elf Uhr fünf Männer hier in
 die Höhle ein … Wir schliefen … Sie hatten den Tiger
 gefesselt schon mitgebracht. Ansura nahmen sie mit sich.
@@ -1998,7 +1998,7 @@ der den Radscha auf Ansura aufmerksam machte, nachdem
 ich ihm mein Haus verboten hatte, weil er sich meiner
 Tochter gegenüber unziemlich benahm … Es — — war
 seine Rache, Sahib! Wir sind in Indien, Sahib, und hier
-Geschieht noch vieles, was in einem wahrhaft zivilisierten
+geschieht noch vieles, was in einem wahrhaft zivilisierten
 Lande unmöglich ist …«
 
 Ich nickte nur …
@@ -2040,7 +2040,7 @@ dürfen wir uns niemals in Pudukattai zeigen …«
 
 »Keine Sorge,« beruhigte ich ihn. »Tapitu wird ein
 kleines indisches Mädchen werden, und auch du, Jallahay,
-wirst dich selbst nicht wiedererkennen. dann Werden wir
+wirst dich selbst nicht wiedererkennen. Dann werden wir
 mit dem Fürsten abrechnen … Mehr noch mit diesem
 Bromwell … — Kommt mit zum Ufer. Ihr sollt nicht
 ohne Waffe sein. Lapu wird euch seinen Revolver geben.
@@ -2081,8 +2081,8 @@ lassen, daß Ihr Freund uns … vielleicht eine Depesche
 schickt, was aus im geworden?!«
 
 Ich erwiderte nur: »Es ist stets Haralds Grundsatz
-gewesen, nichts zu Übereilen. Also warten wir noch einen
-Tag … Dann Werde ich handeln …«
+gewesen, nichts zu übereilen. Also warten wir noch einen
+Tag … Dann werde ich handeln …«
 
 »Warum nicht gleich?! Und — handeln?! Wie denn?!
 Was denn?! Ich begreife Sie nicht!!«
@@ -2129,7 +2129,7 @@ Etwas, das eigentlich kaum beachtenswert erschien …
 
 Da schlenderte nämlich vor mir auf der von Palmen
 eingesäumten Straße ein indischer Hausierer dahin, — auf
-dem Rücken das Übliche Bambusgerüst, und daran klirrend
+dem Rücken das übliche Bambusgerüst, und daran klirrend
 und klappernd allerlei Kleinkram, Küchengeräte — vieles
 andere noch …
 
@@ -2223,7 +2223,7 @@ hier schneeweißer Marmor — jedes Europäerauge entzücken
 müssen. Rund um den See zieht sich der fürstliche
 Park meilenweit hin, und nur am Südufer erheben sich
 zwei neuere Regierungsgebäude, das Haus des englischen
-Residenten und ein paar Wohngebäude reicher Inder, Unter
+Residenten und ein paar Wohngebäude reicher Inder, unter
 diesen Euch das Chan Goßkar Jallahays, meines neuen
 Freundes und Schützlings.
 
@@ -2254,9 +2254,9 @@ als Erkennungszeichen oder Ausweis seinen altertümlichen
 Siegelring mitgegeben.
 
 Bald erreichte ich das Haus, das ganz im Stil der
-Sommerhäuser mit umlaufender Veranda erbaut war,
+Sommerhäuser mit umlaufender Veranda erbaut war.
 
-alles totenstill …
+Alles totenstill …
 
 Ich umschritt das saubere Gebäude. Durch eine hohe
 Hecke von diesem getrennt lagen da auch zwei Ställe und
@@ -2266,7 +2266,7 @@ Alles totenstill …
 
 Im Gefühl meiner ehrlichen Mission bewegte ich mich
 durchaus nicht leise, sondern ganz so wie ein Mann, der
-ein Recht hatte hier einzudringen,
+ein Recht hatte hier einzudringen.
 
 Nachdem ich die Baulichkeiten umschritten hatte, konnte
 ich von der Seite des Wohngebäudes aus durch eine Baumlücke
@@ -2276,7 +2276,7 @@ Mondlicht erkennen, wie sie hier an der Südküste Vorderindiens
 noch heute vielfach zu finden sind — Andenken an
 jene Zeit, als die malaiischen Piraten mit ihren flinken
 Fahrzeugen oft mit ganzen Flotten die indischen Städte
-Überfielen …
+überfielen …
 
 Diese Türme heißen in der Landessprache Mawarrus,
 was eigentlich Pilz bedeutet. Diese Bezeichnung trifft auf
@@ -2299,7 +2299,7 @@ Mein erster Gedanke war: Es hat sich dort ein Spion
 eingenistet, der Garamar Sittar auf Befehl des Radschas
 dauernd belauert!
 
-doch diese Annahme verwarf ich wieder. Ein Spion
+Doch diese Annahme verwarf ich wieder. Ein Spion
 hätte sich gehütet, nachts dort Licht zu brennen und seine
 Anwesenheit so zu verraten …!
 
@@ -2341,7 +2341,7 @@ befestigte und dann dem Kanal zueilte …
 Ich hätte fraglos noch mehr beobachten können, wenn
 … mich nicht jetzt ein paar lautete derb bei den Fußgelenken
 gepackt und mich mit gewaltigem Ruck von der Mauer
-Herabgerissen hätten …
+herabgerissen hätten …
 
 Eine Prozedur, bei der ich mir unfehlbar das Genick
 <@pagebreak/>
@@ -2435,7 +2435,7 @@ Suche nach Harald und Ansura!!
 Nun — ich tröstete mich … Jallahay würde ja durch
 meine lange Abwesenheit ohne Zweifel argwöhnisch werden
 … Er würde nach Sittars Wohnhaus schleichen, den
-Freund sprechen, und man würde mich Schleunigst befreien
+Freund sprechen, und man würde mich schleunigst befreien.
 
 Ich setzte mich aufrecht …
 
@@ -2617,9 +2617,9 @@ Schüsseln … Aß, trank … Und dachte an Jallahay, der
 mich so schmählich im Stiche gelassen hatte …
 
 Dachte weiter, daß ich doch außerordentlich fest geschlafen
-haben mußte … Denn man Hatte mir diesen Krug
+haben mußte … Denn man hatte mir diesen Krug
 Limonade, dieses Reisgericht und dieses gebackene Huhn
-Hereingebracht, und ich hatte nichts gehört — gar nichts!! —
+hereingebracht, und ich hatte nichts gehört — gar nichts!! —
 
 Meine Taschenlampe glühte nur noch schwach …
 
@@ -2632,7 +2632,7 @@ Nun hatte ich nur noch zwei in meiner Tasche …
 
 Und die Stunden schlichen …
 
-Meine Laune sank auf den Gefrierpunkt
+Meine Laune sank auf den Gefrierpunkt.
 
 Ich sprang auf …
 
@@ -2680,14 +2680,14 @@ Er nickte eifrig …
 
 Dann half er mir durch das Loch …
 
-Und nebenan genau dieselbe Zelle … — Nur Daß hier
+Und nebenan genau dieselbe Zelle … — Nur daß hier
 noch ein paar Kisten standen, und auf einer der Kisten eine
 große Petroleumlaterne …
 
 Der zerlumpte kleine Bucklige fügte jetzt das Mauerstück
 in das Loch wieder ein …
 
-dann schob er sein Laubbett beiseite, nahm sechs Ziegel
+Dann schob er sein Laubbett beiseite, nahm sechs Ziegel
 aus dem Fußboden heraus und dann ein paar Bretterstücke
 …
 
@@ -2742,7 +2742,7 @@ zu, die das Grundstück Garamar Sittars von dieser Wildnis
 trennte.
 
 In der Mauer war eine kleine Pforte. Mein Nachbar,
-Der hier im Freien den Vorzug hatte weniger zu duften,
+der hier im Freien den Vorzug hatte weniger zu duften,
 öffnete die Pforte mit einem krummen langen Nagel und
 betrat den Garten Sittars, schloß wieder ab und schlich hinkend
 und schlurfend mit seinen verkrümmten Beinen langsam
@@ -2806,7 +2806,7 @@ eins der Turmfenster, auf eine der Schießscharten …
 Stößt gurgelnde Laute aus … Will mir irgend etwas
 erklären, das ich nicht begreife …
 
-Schließlich beginne ich den Ausstieg. Die Nägel erleichtern
+Schließlich beginne ich den Aufstieg. Die Nägel erleichtern
 die Arbeit …
 
 Nun bin ich in einer Höhe mit dem Fenster …
@@ -2826,7 +2826,7 @@ In der Hand ein brennendes Stück Holz …
 Mit einem Male drückt er die Nadel mit dem Fuße
 aus …
 
-ringsum die Mondnacht …
+Ringsum die Mondnacht …
 
 Links der See im Mondesglanz …
 
@@ -2940,7 +2940,7 @@ besteigen den Nachen und rudern davon …
 
 <@pagebreak/>
 Ganz benommen sitze ich da … Was soll dies alles?!
-weshalb darf sich Harald noch nicht zeigen?! weshalb ist
+Weshalb darf sich Harald noch nicht zeigen?! Weshalb ist
 Ansura entflohen, befreit und nicht auch Harald?!
 
 Unbegreiflich das alles …
@@ -2960,7 +2960,7 @@ Der Alte biegt nicht in den Kanal ein, sondern landet
 an der Wassertreppe eines Grundstücks, auf dem hinter den
 Gartenbäumen ein großes Gebäude sichtbar ist. Der Alte
 bindet den Nachen fest und gibt mir zu verstehen, daß ich
-Hier warten soll. Er humpelt die Treppe empor und verschwindet
+hier warten soll. Er humpelt die Treppe empor und verschwindet
 unter den Bäumen …
 
 Ich warte … Und schaue über den See hinweg zum
@@ -2968,7 +2968,7 @@ zauberhaft schönen Schlosse des despotischen Fürsten von
 Pudukattai …
 
 Warte nicht allzu lange … — Jemand kommt, —
-Nicht der Alte, sondern ein Europäer, ein eleganter jüngerer
+nicht der Alte, sondern ein Europäer, ein eleganter jüngerer
 Herr, der mich höflich im Namen Seiner Exzellenz
 des Residenten, bittet ihm zu folgen. —
 
@@ -3056,7 +3056,7 @@ geschützt durch seine glänzende Verkleidung, mit Garamar
 Sittar in Verbindung, der gleichfalls ständig von Spionen
 umgeben war. Die Nächte benutzte er zur Beobachtung des
 Schlosses. So ermittelte er denn sehr bald, daß Ansura
-oben in dem Turme auf Der Halbinsel gefangen gehalten
+oben in dem Turme auf der Halbinsel gefangen gehalten
 wurde und daß Bromwell das Diadem, das Jallahay gestohlen
 haben sollte, in seinem Zimmer verbarg und die
 echten Steine insgeheim gegen Imitationen vertauschte, um
@@ -3066,7 +3066,7 @@ sich auf diese Weise ohne Wissen des Fürsten zu bereichern.
 Angaben, »daß sowohl der Fürst als auch Bromwell
 vollkommen überführt sind. Der Mordversuch gegen Jallahay
 und den Dakka auf der kleinen Insel ist genau so unumstößlich
-erwiesen, als Ansuras Entführung. ihnen,
+erwiesen, als Ansuras Entführung. Ihnen,
 Exzellenz, überlasse ich das Weitere. Die Schuldigen sind
 zurzeit noch ohne jede Kenntnis von meiner Anwesenheit
 hier, ahnen nicht einmal, daß ich weiß, wer Ansura und
@@ -3098,7 +3098,7 @@ Untersuchungsgefängnis …« —
 Wir beide aber verlebten damals noch eine Reihe angenehmer
 Tage im Kreise von Chan Goßkar Jallahays
 Familie, die, jetzt wieder vereint, sich nicht genug tun
-konnte, um uns ihre Dankbarkeit zu beweisen,
+konnte, um uns ihre Dankbarkeit zu beweisen.
 
 Und an einem dieser köstlichsten Tage, als Harald gerade
 besonders guter Laune war, sagte ich zu ihm:
