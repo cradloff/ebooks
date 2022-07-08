@@ -31,7 +31,7 @@ Luftstrom des Ventilators beeinflußt, und dann beugte mein
 Freund Harst den Kopf jedesmal zur Seite und schien durch
 die schnell sich wieder schließende Spalte zwischen Türrahmen
 <@pagebreak/>
-und Leinwand auf daß Deck hinauszuspähen, — was ich
+und Leinwand auf das Deck hinauszuspähen, — was ich
 nun schon eine ganze Weile beobachtete.
 
 Der Schiffschronometer des Kutters zeigte drei Uhr
@@ -168,7 +168,7 @@ miteinander spricht …«
 Namen genannt und auch erzählt, daß wir Detektive sind.«
 
 Paratu nickte … »Weshalb nicht, Tuwan? Weshalb
-sollte ich’s verschweigen, wo es doch in den Zeitungen stand.
+sollte ich’s verschweigen, wo es doch in den Zeitungen stand
 <@pagebreak/>
 … Es ist doch kein Geheimnis, Tuwan Harst … Unser
 Ausflug nach Dauli war doch auch erwähnt …«
@@ -181,7 +181,7 @@ Tiere. Er wohnt in Negapatam auf Kosten der Universität
 London … Aber — — seine Schwester ist sehr
 krank, Tuwan Harst …« — wobei er sich an die Stirn
 tippte … »Sehr krank, hier oben im Kopfe … Doch nichts
-Gefährliches — nur immer so mit den Gedanken anderswo.
+Gefährliches — nur immer so mit den Gedanken anderswo
 … Sie hat Furcht …«
 
 »Furcht — wovor denn?«
@@ -297,7 +297,7 @@ glaubt mir nicht … John denkt, ich bilde mir all das
 Gräßliche nur ein … — Sie sind Mr. Harst, nicht wahr?
 Ich will …«
 
-Doktor John, Grandell gab seine Schwester frei und
+Doktor John Grandell gab seine Schwester frei und
 sagte hastig:
 
 »Ich möchte nicht, daß man mich falsch beurteilt … —
@@ -370,7 +370,7 @@ verschwand …«
 
 Hier fiel Doktor Grandell seiner Schwester ins Wort:
 
-»Mr. Harst, um es gleich zu sagen: Diese Wasserschlange
+»Mr. Harst, um es gleich zu sagen: Diese Riesenschlange
 existiert nicht! Wenn ich daheim war, hat das Ungetüm
 sich nie gezeigt, und auch keiner unserer Diener, die
 ich abwechselnd in meiner Abwesenheit auf der Veranda
@@ -1077,7 +1077,7 @@ und Flechten überzogen. Der Boden mit allerlei Geröll und
 verfaulten Holzresten bedeckt … Von irgendeiner Tür,
 einem Ausgang nichts zu sehen …
 
-Wir kam’s so vor, als ob Harald unser Mißgeschick, das
+Mir kam’s so vor, als ob Harald unser Mißgeschick, das
 uns hier in dieses feuchte, stinkende Gewölbe hinabbefördert
 hatte, denn doch sehr leicht nahm … Oder heuchelte er nur
 eine Gelassenheit, die in Wahrheit gar nicht bei ihm vorhanden?!
@@ -1132,7 +1132,7 @@ daß er keine Ahnung hatte, wer wir in Wirklichkeit waren.
 »Und wir legen euch hier oben noch fünfzig Rupien hin,
 wenn ihr versprecht, die Insel nicht mehr zu besuchen …«
 
-»Hundert Rupien, du gelber alter Alte — hundert
+»Hundert Rupien, du gelber alter Affe — hundert
 Rupien!« brüllte Harald. »Dafür schwören wir euch beim
 Heiligen Triton, daß wir euch nicht die Hälse umdrehen
 werden …! — Macht fix mit eurem Tau, wir müssen an

@@ -21,7 +21,7 @@ Und bei mir kam nun der Stimmungsumschwung, kam
 die Wut zum Durchbruch …
 
 »Der Schuft!« zischte ich … »Und wir beide laufen
-ihm so, blindlings ins Garn — wir beide!!«
+ihm so blindlings ins Garn — wir beide!!«
 
 »Meinst du?!« erwiderte Harst gedämpft. »Meinst du
 wirklich, daß ich nicht auf eine Büberei vorbereitet war?!
@@ -170,7 +170,7 @@ Dann ich, — und hinein in die Heckkajüte, wo Freund
 O’Kelling auf seinem Lager schnarchte.
 
 <@pagebreak/>
-Daß Tumir etwa den Kutter jetzt schon beobachten ließ
+Daß Tumir etwa den Kutter jetzt schon beobachten ließ,
 brauchten wir nicht zu fürchten … Tumir hielt uns für erledigt,
 und O’Kelling war ihm vielleicht sehr gleichgültig —
 auch später …
@@ -241,7 +241,7 @@ Schlangenabenteuers wieder lebendig wurden, — daß ich
 mich an Harald wandte und fragte:
 
 »Die Riesenschlange Tumirs ist natürlich dasselbe Reptil,
-mit dem Besitz Grandell nachts belästigt wird …?«
+mit dem Betsy Grandell nachts belästigt wird …?«
 
 »Tumir hat’s ja gar nicht abgeleugnet, mein Alter …
 Denn seine lahmen Redensarten bedeuteten doch keinen
@@ -278,7 +278,7 @@ Fernglas und beäugt die Insel. — Wenn du satt bist, lege
 dich schlafen. Ich wecke dich um zehn Uhr. Dann kannst du
 mich ablösen.«
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 <h3>John Grandells Augen …</h3>
 
 Ich erwachte ganz von selbst …
@@ -419,7 +419,7 @@ Feuers und sah zu, wie das Papier sich bräunte und ebenfalls
 zu Asche wurde.
 
 Ich schaute nachdenklich auf die verkohlten hellgrauen
-Papierstückchen, auf denen die Schritt noch als dunklere
+Papierstückchen, auf denen die Schrift noch als dunklere
 Striche zu erkennen war.
 
 Ein Windstoß kam, und diese hellgrauen zusammengekrümmten
@@ -532,7 +532,7 @@ Ufer fiel hier ziemlich steil ab, und ein einzelner knorriger
 Baum hatte mitten auf dem Abhang sich dem Wasser zugeneigt
 und seine Krone in die wehenden Rohrstengel gedrückt.
 
-»Sieh dir mal den Baum an …« raunte Harst mir zu.
+»Sieh dir mal den Baum an …« raunte Harst mir zu
 <@pagebreak/>
 … »Die Rinde …!! Sie ist ein ganzes Stück vom Wurzelstock
 an geradezu glatt getreten … Der schräge Baum dient
@@ -720,7 +720,7 @@ häufiger nachgeschlichen war, und hatte dann heute den
 Vormittag dazu benutzt, die Insel gründlich in Augenschein
 zu nehmen, hatte jedoch nicht Besonderes entdecken können.
 
-»Wahrscheinlich werden — Sie, meine Herren,« schloß er
+»Wahrscheinlich werden Sie, meine Herren,« schloß er
 <@pagebreak/>
 seine Angaben, »mir ebenfalls so manches mitzuteilen
 haben, denn ich vermute wohl nicht zu Unrecht, daß Sie
@@ -768,7 +768,7 @@ war …
 
 Harald reichte ihm die Hand …
 
-»Doktor, Sie haben jetzt seinen Grund mehr, Betsys
+»Doktor, Sie haben jetzt keinen Grund mehr, Betsys
 <@pagebreak/>
 wegen sich zu ängstigen. Eine Gefahr, die man kennt, ist
 keine Gefahr mehr. Nur das Unbekannte birgt Schrecken.
@@ -872,7 +872,7 @@ Leser aus dem weiteren Verlauf der Ereignisse von selbst …
 <h3>Ein edler Gaunerstreich.</h3>
 
 Der Rest dieses heißen, wolkenlosen Tages brachte nicht
-viel Erwähnenswertes …-
+viel Erwähnenswertes …
 
 Zweimal sahen wir, daß Tumirs Sänftenträger die
 Insel über den Laufsteg verließen und nach längerer Zeit
@@ -889,12 +889,12 @@ Wenn Tschamo oder Lipatu sich an Deck zeigten, hielten
 sie sich stets hinter der Reling sorgsam verborgen.
 
 Die übrige Besatzung des Frachtschiffes bestand, wie
-wir sehr bald heraus hätten, aus vier weiteren Chinesen
+wir sehr bald heraus hatten, aus vier weiteren Chinesen
 und drei Indern … —
 
 So kam denn der Abend heran …
 
-Wir beide saßen wieder vor unserer Hütte am luftig
+Wir beide saßen wieder vor unserer Hütte am lustig
 knisternden Feuer und freuten uns all dieser Schönheiten,
 belauschten die Wasservögel, sahen das Ichneumon aus den
 Steinhaufen herausschlüpfen und auf Jagd ausziehen …
@@ -905,7 +905,7 @@ so echt, daß wir kaum auffallen konnten … —
 
 Die Dämmerung schwand. Die Nacht war da …
 
-Sagte Harald daran, indem er seine Tabakspfeife weglegte:
+Sagte Harald dann, indem er seine Tabakspfeife weglegte:
 »Punkt eins meines Programms ist erledigt: Grandell
 weiß Bescheid! — Punkt zwei wird sich schwieriger gestalten,
 denn — in dieser Nacht werden wir Ruwi befreien.«
@@ -1084,7 +1084,7 @@ seinem Sohne auf der Matte Platz nehmen, und dann hatte
 Jetzt sprach er englisch, aber immer noch so, daß er für
 einen Inder gelten mußte …
 
-Was er Tschamo erklärte, war: glorreich erfunden …
+Was er Tschamo erklärte, war glorreich erfunden …
 
 »Mein Kollege und ich sind Beamte von der Geheimabteilung
 der Polizei in Madras … Wir haben euren
@@ -1106,8 +1106,8 @@ zarte Andeutung, unser Stillschweigen zu erkaufen, einwandfrei
 überzeugt, daß wir in der Tat Beamte seien …
 Denn er kannte eben die indischen Verhältnisse, besonders
 in den Hafenstädten, wo die Bestechlichkeit neuerdings genau
-dieselben traurigen Triumphe sofort wie in anderen
-Ländern, denen der Weltkrieg die Lebensfaden zugeschnürt
+dieselben traurigen Triumphe feiert wie in anderen
+Ländern, denen der Weltkrieg die Lebensader zugeschnürt
 hat.
 
 Tschamo beriet nun leise mit seinem Sohne … Das
@@ -1210,7 +1210,7 @@ Harst kehrte bald zurück …
 »Ich habe Grandell gesprochen, mein Alter … Er wird
 Betsy sofort mitteilen, daß er mit ihr morgen abend nach
 Kolombo reisen wolle, da wir beide uns ja doch nicht sehen
-ließen — morgen abend! Und natürlicher wird Ruwi sich
+ließen — morgen abend! Und natürlich wird Ruwi sich
 heute mit Betsy in Verbindung setzen und so von dieser
 Reise erfahren, wird nun, so hoffe ich, die Nacht vor dieser
 Reise zu einem neuen Schlangenattentat benutzen wollen …
@@ -1287,7 +1287,7 @@ appetitliche Arbeit mit einer Sorgfalt und einem Eifer, daß
 er schon nach zwei Stunden ein Präparat von tadelloser Beschaffenheit
 hergestellt hatte. Die Giftzähne und Giftdrüsen
 lagen völlig frei, und letztere waren noch prall gefüllt
-und in seiner Weise verschrumpft …
+und in keiner Weise verschrumpft …
 
 »So,« meinte er, »das werde ich nun morgen in Spiritus
 tun, und dann kommt es nachher in unser Raritätenkabinett
@@ -1441,7 +1441,7 @@ hastig … Die beiden Giftzähne des Kobrakopfes drangen
 mir in die Unterlippe … Das … das Spiel um Betsy
 Grandell ist aus, und ich und mein …«
 
-Da fällt Harald ihm ins. Wort …
+Da fällt Harald ihm ins Wort …
 
 »Sie und Ihr Bruder sind die Verlierer, Tumir! — Es
 hat nie eine Inderin Ruwi gegeben … Ruwi war ein
@@ -1479,4 +1479,4 @@ Nächster Band:
 
 __Das Geheimnis des Inselforts.__
 
-Druck: B. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin.
+Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin.
