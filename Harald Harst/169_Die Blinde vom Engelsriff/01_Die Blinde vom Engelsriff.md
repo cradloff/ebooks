@@ -1,6 +1,6 @@
 <@pagebreak/>
 
-<include »intro_short2.ftl«/>
+<#include "intro_short2.ftl">
 
 <h2>1. Kapitel.</h2>
 
