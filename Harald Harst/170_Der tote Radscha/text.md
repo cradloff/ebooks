@@ -1,29 +1,10 @@
 <@pagebreak/>
-da
 
-L
-
-»Park,
-
-8
-
-Ne«
-
-67:
-v
-
-Der tote
-
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, einschl. das Verfilmungsrecht,
-vorbehalten. — Copyright 1925 by Verlag moderner
-Lektüre G.&nbsp;in.&nbsp;b.&nbsp;H., Berlin.
-
-Der tote Rätsel;a.
+<#include "intro_short2.ftl"/>
 
 <h2>1. Kapitel.</h2>
 
-Das war wirklich ein freudiges und unerwartetes.
+Das war wirklich ein freudiges und unerwartetes
 Wiedersehen gewesen, als wir am Abend vor der feierlichen
 Verbrennung des Radschas von Pudukattai im Kanal, der
 den großen See mit dem Pudu-Flusse verbindet, einen großen
@@ -34,7 +15,7 @@ Und der Mann war Allan O’Kelling, Besitzer und Kapitän
 der »Lady Hamilton« …
 
 O’Kelling hatte mit seinem Kutter vierzig Fässer Benzin
-nach der kleinen versichert gebracht, hatte die:: Ladung
+nach der kleinen Residenz gebracht, hatte die Ladung
 auch bereits gelöscht und wollte noch an diesem Tage wieder
 flußabwärts gehen, weil er von einer Plantage Fracht nach
 Madras zu erwarten hatte.
@@ -47,8 +28,8 @@ lassen und versuchte alles Mögliche, diese plötzliche Abreise
 zu hintertreiben. Die braven Menschen waren geradezu
 untröstlich, als Harald bei seinem Entschluß beharrte,
 
-Um halb zehn gab es einen rührenden Abschied; und
-dann brachte uns ein Boot samt unseren Koffern: an Bord
+Um halb zehn gab es einen rührenden Abschied, und
+dann brachte uns ein Boot samt unseren Koffern an Bord
 der »Lady Hamilton«, wo O’Kelling in der Heckkajüte zu
 unserem Empfang bereits eine neue Flasche Whisky entkorkt
 hatte, —
@@ -63,12 +44,12 @@ Daraus wurde nun nichts …
 
 Und das ärgerte mich …
 
-Der Morgen verflüchtigte sich jedoch schnell, als der
+Der Ärger verflüchtigte sich jedoch schnell, als der
 Frachtkutter kaum eine halbe Stunde unterwegs war, denn
 da … sagte Harst ganz unvermittelt zu dem Käpten und
 zu mir:
 
-»c€ebt sind wir endlich die Aufpasser los … Das Boot
+»Jetzt sind wir endlich die Aufpasser los … Das Boot
 ist umgekehrt …«
 
 Wir standen am Heck, und hinter uns dehnte sich der
@@ -81,8 +62,8 @@ Nicht wahr?«
 Fürsten dauernd hinter uns her waren, dauernd wechselten
 und jeden unserer Schritte bewachten …«
 
-Wir war dies genau so neu wie O’Kelling. Ich hatte
-nie etwas von Spionen bemerkt. Fragte daher mit echt:
+Mir war dies genau so neu wie O’Kelling. Ich hatte
+nie etwas von Spionen bemerkt. Fragte daher mit Recht:
 
 »Irrst du dich auch nicht. Harald?! Wer sollte denn
 ein Interesse daran gehabt haben, uns …«
@@ -90,13 +71,13 @@ ein Interesse daran gehabt haben, uns …«
 »Das weiß ich nicht, mein Alter … Möchte es aber
 gern wissen … Die Spione waren allzeit da, — Tatsache!
 Und jetzt folgten sie dem Kutter mit einem Motorboot …
-Vor ein paar Minuten machte das Boot kehrt — auch Gasthaus!
+Vor ein paar Minuten machte das Boot kehrt — auch Tatsache!
 Die Leute glauben nun, wir werden nicht mehr nach
 Pudukattai etwa heimlich zurückkommen … Auch ein Irrtum
 …«
 
-Da ging mir denn nun endlich ein Licht aus, weshalb
-wir Pudukattai scheinbar [so Hals über Kopf verlassen hatten!!
+Da ging mir denn nun endlich ein Licht auf, weshalb
+wir Pudukattai scheinbar so Hals über Kopf verlassen hatten!!
 Harald wußte, daß wir O’Kelling und seinen Leuten
 unbedingt trauen durften und daß sie niemals verraten
 würden, wenn wir uns sehr bald wieder an einsamer Uferstelle
@@ -107,38 +88,35 @@ Und — so war’s auch …
 
 denn Harald fügte hinzu: »Es muß wohl einen sehr
 triftigen Grund haben, wenn man uns beide, mein Alter,
-sechs Tage lang unausgesetzt unter strengster Aussicht hält, …
-
-Sessel Masse?! konnten wir nur entgehen wenn wir unsere
+sechs Tage lang unausgesetzt unter strengster Aufsicht hält …
+Dieser Aufsicht konnten wir nur entgehen wenn wir unsere
 Abreise so einrichteten, daß die Spione auch daran glaubten.
-Je Ei glauben sie’s, denn sie haben natürlich gemerkt, daß
-
-»Reling und wir alte Bekannte sind, und da nehmen sie
+Jetzt glauben sie’s, denn sie haben natürlich gemerkt, daß
+O’Kelling und wir alte Bekannte sind, und da nehmen sie
 eben an, wir wollen diese günstige Gelegenheit zur Rückkehr
 zur Küste nicht verabsäumen — wie gesagt, ein kleiner
 Irrtum!«
 
-Der Käpten’: brummte wütend!
+Der Käpten brummte wütend:
 
 »Der Satan hole diese Kerle! Nun hat unsereiner sich
-daraus gefreut, mit Ihnen wieder mal einige Tage beisammen
+darauf gefreut, mit Ihnen wieder mal einige Tage beisammen
 zu sein, und — — wieder ist’s nichts damit! — Bester
-sie ich verstehe nur nicht, daß dieses braune Lumpenpack
-
-nen so wichtig erscheint. daß Sie«…«
+Harst, ich verstehe nur nicht, daß dieses braune Lumpenpack
+Ihnen so wichtig erscheint, daß Sie …«
 
 »Wichtig?! — Ich bitte Sie, lieber O’Kelling … Es
 muß wohl schon etwas Besonderes dahinterstecken, wenn
-man uns eine ganze Garde von Aufpasser an die Fersen
-beste!! Und ich bin nun mal etwas neugierig von Natur,
+man uns eine ganze Garde von Aufpassern an die Fersen
+heftet! Und ich bin nun mal etwas neugierig von Natur,
 möchte gern herausbekommen, wer als treibende Kraft hinter
-dieser Spitzelgarde steht und we&8halb dieser Jemand
+dieser Spitzelgarde steht und weshalb dieser Jemand
 sich diese redliche Mühe gegeben hat, uns derart zu »beschatten«,
 wie der Fachausdruck lautet … — Also, Freund Käpten,
 — nach weiteren zehn Minuten werden Sie mit Ihrer
 »Lady Hamilton« umkehren, am Ufer sich bis zur Kanalmündung
 entlang pirschen und uns in der Nähe der Ruinen
-der früheren Radschaburg abgehen … Es gibt dort einen
+der früheren Radschaburg absetzen … Es gibt dort einen
 Nebenarm des Pudu, der im Bogen um das Ruinenfeld
 sich herumzieht … Wir, Schraut und ich, haben die ehemalige
 Radschaburg, die ja aus dem 14. Jahrhundert stammen
@@ -146,12 +124,11 @@ soll und dann im Kriege zerstört wurde, vorgestern besucht
 und dabei festgestellt, daß es dort zahllose Verstecke
 gibt …«
 
-Der brave O’Kelling lamentierte noch eine Weile. ergab
+Der brave O’Kelling lamentierte noch eine Weile, ergab
 <@pagebreak/>
 sich dann aber in sein Schicksal und brachte uns so
-
 gegen zwölf Uhr in aller Stille in den Flußarm hinein,
-legte den Mutter neben die völlig verfallene Wasserterrasse
+legte den Kutter neben die völlig verfallene Wasserterrasse
 der einstigen Burg und half uns, mit unseren Koffern in
 dieser Wildnis von Mauerresten, Dornen und Gestrüpp zu
 verschwinden,
@@ -160,7 +137,7 @@ Um ein Uhr morgens hatten wir beide dann in einem
 Winkel der ausgedehnten Kellergewölbe Quartier bezogen,
 hatten von dem Käpten beinahe tränenreichen Abschied genommen
 und streckten uns nun neben unseren Koffern zu
-kurzem Schlosse hin,
+kurzem Schlafe hin,
 
 Um sechs Uhr weckte Harald mich. Wir frühstückten
 schnell, und dann begannen wir mit der Toilette, verbargen
@@ -168,27 +145,27 @@ die Koffer nachher und verließen in der Verkleidung von
 indischen Bauern die Ruinenstadt.
 
 Der Kanal bis Pudukattai ist etwa eine Meile lang.
-An der West Sie des Kanals zieht sich eine Fahrstraße hin,
+An der Westseite des Kanals zieht sich eine Fahrstraße hin,
 und als wir diese erst erreicht hatten, fanden wir bald einen
-Wagen, der uns mitnahm. Der besser Böseres mit zwei
-Dromedaren: bespannten Gefährts war ein Karte« der weiter
+Wagen, der uns mitnahm. Der Besitzer dieses mit zwei
+Dromedaren bespannten Gefährts war ein Parse, der weiter
 südlich eine kleine Plantage besaß, wie er uns harmlos erzählte.
 Da die Parsen sich überall von den Hindus fernhalten
-»und lieber die englische als die Landessprache berühren.
-konnten wir uns nicht durch unsere mangelhafte Be-herrid’ung
-des Eingeborenenidiom&ä& verraten, Der Parse
-schönste- neun auch keinerlei Verdacht… Im übrigen war
-und) die Landstraße so belebt, daß wir schon vorher durch
-die Staubmengen völlig begütert worden waren und unsere
-gefärbten Sessel ter und sah.;Ofen Bärte mehr grau in
+und lieber die englische als die Landessprache benutzen,
+konnten wir uns nicht durch unsere mangelhafte Beherrschung
+des Eingeborenenidioms verraten. Der Parse
+schöpfte denn auch keinerlei Verdacht. Im übrigen war
+auch die Landstraße so belebt, daß wir schon vorher durch
+die Staubmengen völlig bepudert worden waren und unsere
+gefärbten Gesichter und falschen Bärte mehr grau in
 grau schimmerten …
 
-All diese Fußgänger und Wagen hier stellten der
+All diese Fußgänger und Wagen hier strebten der
 Stadt zu …
 
 All diese Hunderte, ja Tausende von Menschen wollten
-der feierliche en Verbrennung des Radschas beiwohnen, Nur
-der Lange erklärte kühl, er habe Geschäfte in der Stadt. Ihm
+der feierlichen Verbrennung des Radschas beiwohnen. Nur
+der Parse erklärte kühl, er habe Geschäfte in der Stadt. Ihm
 <@pagebreak/>
 als Andersgläubigem war dieses Schauspiel lediglich ein
 Greuel, wie er uns zu verstehen gab,
@@ -196,44 +173,44 @@ Greuel, wie er uns zu verstehen gab,
 So gelangten wir denn gegen halb acht nach Pudukattai
 hinein, bedankten uns bei dem Parsen und wanderten
 durch die heute mehr denn je belebten Straßen dem See
-zu, in dessen Mitte sich aus einer Insel der neue Radschapalast
+zu, in dessen Mitte sich auf einer Insel der neue Radschapalast
 erhebt.
 
-Lebten erlebte ich dann eine bittere Enttäuschung, denn
+Leider erlebte ich dann eine bittere Enttäuschung, denn
 Harald wandte sich mit einem Male dem ärmeren Viertel
 der Stadt zu und betrat hier in einer schmutzigen Basarstraße
 den Laden eines Messerschmiedes, den wir bei Jallahay
 kennengelernt hatten.
 
 Der Messerschmied, ein alter, wunderlicher Junggeselle,
-war daheim, [aß in seinem nach der Straße zu offenen
-Laden und Schnitte aus Horn Messerspitze, schaute von seiner
-Arbeit aus, musterte uns flüchtig und fragte nach unseren
+war daheim, saß in seinem nach der Straße zu offenen
+Laden und schnitzte aus Horn Messergriffe, schaute von seiner
+Arbeit auf, musterte uns flüchtig und fragte nach unseren
 Wünschen …
 
 Harald flüsterte gedämpft:
 
-»Rathär’ du bist ein Freund Jallahayk, der ’bich sehr
-scharf .:. Dir wirst uns helfen …
+»Ramar, du bist ein Freund Jallahays, der dich sehr
+schätzt … Du wirst uns helfen …«
 
 Der Alte starrte uns an …
 
 »Sahib Harst …?!« rief er dann leise. »ich denke,
 ihr seid abgereist …«
 
-»Du sicher, wir sind wieder hier, doch darf davon niemand
-erfahren, niemand, Ramar …
+»Du siehst, wir sind wieder hier, doch darf davon niemand
+erfahren, niemand, Ramar …«
 
-Der Messerschmied erwiderte Absicht: »Wie du befiehlst,
+Der Messerschmied erwiderte schlicht: »Wie du befiehlst,
 Sahib … Du wirst deine Gründe haben. — Mein
-bescheidenes Haus ist das eure, und bei mir seid ihr sicher,
+bescheidenes Haus ist das eure, und bei mir seid ihr sicher.
 Ich lebe ganz allein, Sahib.«
 
-»Erscholl suchte ich dich aus, Namar … — Du bis
+»Deshalb suchte ich dich auf, Ramar … — Du bist
 hier in Pudukattai geboren. Du kennst hier jeden Menschen,
 sagte Jallahay …«
 
-»lebt euch zunächst, Sahib …« — der Alte wies aus
+»Setzt euch zunächst, Sahib …« — der Alte wies auf
 zwei Schemel. »Darf ich euch eine Erfrischung anbieten?«
 
 »Einen Schluck Wasser, Ramar … Und auch das hat
@@ -243,17 +220,16 @@ alten Inder von den Spionen, die uns hier nach dem Tode
 des Fürsten stets umschwärmt haften …
 
 »Es waren ärmere Leute, diese Spitzel … Im ganzen
-erzählte ich neun, die sich ablösten. Zumeist waren ihrer drei
-hinter uns, Und zwei von diesen neun kann!ich dir genauer
-
+zählte ich neun, die sich ablösten. Zumeist waren ihrer drei
+hinter uns. Und zwei von diesen neun kann ich dir genauer
 beschreiben. Der eine war sehr groß und hager, hinkte
-etwas aus dem linken Fuß, und auch sein hinter Arm hing
-wie gelähmt herab, Er trug den Vollbart kurz und rund
-geschnitten und hatte eine dünne Hakennase …
+etwas auf dem linken Fuß, und auch sein linker Arm hing
+wie gelähmt herab. Er trug den Vollbart kurz und rund
+geschnitten und hatte eine dünne Hakennase …«
 
 Der Messerschmied machte ein sehr erstauntes Gesicht …
 
-»Sahib, den Mann kenne!ich,« Niete er eifrig. »Aber
+»Sahib, den Mann kenne ich,« nickte er eifrig. »Aber
 — du irrst insofern, Sahib, als dieser Mann nicht arm
 ist … Im Gegenteil. Denn es ist niemand anderes als
 der Palastmeister des verstorbenen Fürsten …«
@@ -264,23 +240,23 @@ der Palastmeister des verstorbenen Fürsten …«
 du nanntest, passen vollständig aus Gessrim Halub, den
 Palastmeister.«
 
-»Dann höre die Beschreibung des anderen Kartons,
-dessen Äußeres ebenfalls recht zufällig war: Das gerade
-Gegenstück zu Gessrim Halub, also sein, dick, langer schwarzer
+»Dann höre die Beschreibung des anderen Spions,
+dessen Äußeres ebenfalls recht auffällig war: Das gerade
+Gegenstück zu Gessrim Halub, also klein, dick, langer schwarzer
 Bart, dicke Nase und wahre Affenarme …«
 
-Ramar nickte wieder … »Sahib, dies ist unsichtbar
+Ramar nickte wieder … »Sahib, dies ist unfehlbar
 der Leibkoch des Radscha … Die langen Arme besagen genug
 … Der Koch heißt Kibur, und er und Halub standen
 mit dem Fürsten genau so vertraut wie der Privatsekretär
 Bromwell, der nun eingesperrt worden ist … Vielleicht
-haben die beiden euch) töten wollen, weil ihr den Radscha
-zum Selbstmorde zwang!, anfuhr Tuch die ganze Stadt dankbar
-ist, denn der Fürst Mar Shing Chanu war hier verpaßt
+haben die beiden euch töten wollen, weil ihr den Radscha
+zum Selbstmorde zwangt, wofür euch die ganze Stadt dankbar
+ist, denn der Fürst Mar Shing Chanu war hier verhaßt
 bei allen …«
 
-Harst schüttelte den Kopf. »Nein, paarmal, töten wollten
-sie uns nicht … Sie hätten Ost genug Gelegenheit gehabt,
+Harst schüttelte den Kopf. »Nein, Ramar, töten wollten
+sie uns nicht … Sie hätten oft genug Gelegenheit gehabt,
 eine heimtückische Kugel anzubringen …«
 
 Ich blickte Harald fragend an. Ich hatte den Eindruck,
@@ -292,9 +268,9 @@ euch Wasser mit Melonensaft bringen …«
 
 Er verließ den kleinen Laden, indem er einen Vorhang
 im Hintergrunde zurückschlug und so die Wohnräume seines
-Häu2s8chens betrat …
+Häuschens betrat …
 
-Kaum war der die Vorhang, ein echter J8pahan-Teppich
+Kaum war der dicke Vorhang, ein echter Ispahan-Teppich
 von wundervoller Zeichnung, wieder zurückgeglitten,
 als wir auch schon Ramars laute Stimme vernahmen,
 die ärgerlich irgend etwas rief …
@@ -303,14 +279,14 @@ Eine zweite, leisere Stimme antwortete …
 
 Dann wurde es still …
 
-XY Harald wachte plötzlich ein sehr bedenkliches Gesicht …
+Harald machte plötzlich ein sehr bedenkliches Gesicht …
 
 Erhob sich, eilte zu der Türöffnung und schob den Vorhang
 etwas zur Seite … Ich folgte ihm … Wir hatten
-hier ein langgestrecktes. sehr leicht einen eingerichtetes Gemach
+hier ein langgestrecktes, sehr bescheiden eingerichtetes Gemach
 vor uns. Rechts waren zwei Fenster, dazwischen eine
 Tür, die offen stand und das Sonnenlicht einließ, gleichzeitig
-aber auch die Schalten zweier Menschen auf dem Himmelhohen
+aber auch die Schatten zweier Menschen auf dem Zimmerboden
 zeigte: Den Ramars und einer Inderin …
 
 Wir sahen weiter noch, daß diese Tür in ein Gärtchen
@@ -320,16 +296,16 @@ auf die Frau einsprach.
 
 Harald zog mich wieder zu unseren Schemeln. Wir
 setzten uns. Gleich darauf kehrte der Messerschmied mit
-einem Vortrage und zwei Gläsern zurück, füllte die Gläser
+einem Tonkruge und zwei Gläsern zurück, füllte die Gläser
 und meinte so nebenbei:
 
-— »Ein Bettler war da … Sie sind so zudringalich …
+»Ein Bettler war da … Sie sind so zudringlich …
 Mein Garten grenzt an einen Seitenarm des Kanals, und
 trotzdem ist der Bettler …«
 
 Harald reichte da dem Alten das gefüllte Glas zurück …
 
-»Namar, von einem Lügner schmeckt jeder Trank bitter
+»Ramar, von einem Lügner schmeckt jeder Trank bitter
 … — Ich habe dich nicht gefragt, wer bei dir war …
 Es war eine Frau, kein Bettler …«
 
@@ -337,8 +313,8 @@ Es war eine Frau, kein Bettler …«
 Der Messerschmied senkte den greisen Kopf … Seufzte
 … seufzte nochmals, sagte:
 
-»»Sahib, entschuldige … Es war meines Bruders
-Tochter … Mein Bruder hat sie verließen, weil sie einen
+»Sahib, entschuldige … Es war meines Bruders
+Tochter … Mein Bruder hat sie verstoßen, weil sie einen
 Ungläubigen geheiratet hat, einen Buddhisten … Jetzt ist
 ihr Mann gestorben, und sie hat kein Heim mehr. Die Verwandten
 ihres Mannes haben sie weggejagt … Ihr geschah
@@ -348,7 +324,7 @@ Sie wird bei mir wohnen. Ich schäme mich ihrer …«
 Harald nahm das Glas zurück, trank und meinte: »Ich
 verstehe dich, Ramar … — — Wir werden jetzt unsere
 Bündel hierlassen und uns die Verbrennung des Radscha
-ansehen .:. Lebe wohl, Ramar …«
+ansehen … Lebe wohl, Ramar …«
 
 Wir gingen durch die jetzt stille schmutzige Basarstraße
 dem See zu … Aber je mehr wir uns dem Ufer näherten,
@@ -358,35 +334,33 @@ durchdrängen können …
 
 Harald bog wieder in eine Seitenstraße ab … In
 kurzem hatten wir den Kanal erreicht, ketteten hier einen
-Nachen los und ruderten aus den See hinaus …
+Nachen los und ruderten auf den See hinaus …
 
-»Vielleicht die e beste Gelegenheit, das Radschaschloß verlassen
+»Vielleicht die beste Gelegenheit, das Radschaschloß verlassen
 zu finden …« meinte Harald nur …
-
-Dach —
 
 <h2>2. Kapitel.</h2>
 
-Der Südbpstteil des Sees war mit Fahrzeugen aller Art.
+Der Südostteil des Sees war mit Fahrzeugen aller Art
 bedeckt. Denn dort am Ufer, hoch über Palmengruppen
 hinausragend, stand der Hindutempel, — dort hinter haushohen,
-bunten Mauern befand sich der heilige’ Hofraum,
+bunten Mauern befand sich der heilige Hofraum,
 auf dem die Hindu auf geweihten Scheiterhaufen verbrannt
 wurden …
 
 Wir hielten uns am Westufer …
 
 Sahen aber doch zwischen den grünen Palmenwipfeln
-die Rauchwolken bereits aussteigen, hörten die Musik der
+die Rauchwolken bereits aufsteigen, hörten die Musik der
 <@pagebreak/>
-Brahminen des Tempels, das »helle Klingen goldenen
-Boden, das heisere Schrillen von Bambushütten un« das
+Brahminen des Tempels, das helle Klingen goldener
+Becken, das heisere Schrillen von Bambusflöten und das
 Dröhnen von Pauken … Erkannten in der dicht gepreßten
 Menschenmenge die grauen Leiber der Staatselefanten mit
 den glitzernden Baldachinen, erkannten nach das hohe kostbare
-Gerüst, auf dem die Leiche des Fürsten zum Verbrennungstage
+Gerüst, auf dem die Leiche des Fürsten zum Verbrennungshofe
 gerollt worden war, ein Gerüst, wie ein altindischer
-Kampfwagen, mit Teppichen, Seivdenstossen, Brokatdecken
+Kampfwagen, mit Teppichen, Seidenstoffen, Brokatdecken
 völlig umkleidet …
 
 Harald hatte kaum einen Blick für das bunte Bild, für
@@ -404,31 +378,31 @@ Wie damals vor nunmehr acht Tagen — in jener denkwürdigen
 Nacht, als der bucklige, stinkende, alte Bettler mit
 mir hier eine Komödie der Irrungen ausgeführt hatte …
 
-Wiederum Geöffnete Harald die Tür mit einem Nachschlüssel
-… Fürsten schlichen wir durch Busch und Baum
+Wiederum öffnete Harald die Tür mit einem Nachschlüssel
+… Wieder schlichen wir durch Busch und Baum
 dem linken Flügel zu … Hier hatte im Erdgeschoß der
 zwergenhafte Engländer Bromwell gewohnt … Hier verschaffte
 uns Harald Eingang durch die Seitentür, Eingang
 in das weiße Schloß, in dem nun ein elfjähriger Knabe,
-der Reise des Radscha, als neuer Fürst seinen Einzug gehalten
+der Neffe des Radscha, als neuer Fürst seinen Einzug gehalten
 … Ein Kind hatte den Thron von Pudukattai bestiegen,
 ein scheuer ängstlicher Knabe, der bisher in Madras
 halb in der Verbannung bei einer englischen Familie gelebt
-hatte und wohl nie geahnt, daß er gemaltes Nachfolger
-seines noch [so jugendlichen, unvermählten Oheims werden
+hatte und wohl nie geahnt, daß er jemals Nachfolger
+seines noch so jugendlichen, unvermählten Oheims werden
 würde, dieses brutalen Wüstlings, der hier als Despot regiert
 und … als Verbrecher sich selbst gerichtet hatte … —
-Drücker die Läufer glitten unsere Sandalen [lautlos
 
-…
+Über dicke Läufer glitten unsere Sandalen lautlos
+hin …
 
 <@pagebreak/>
-Sie zu der hohen Flügeltür, deren Schnitzereien und
+Bis zu der hohen Flügeltür, deren Schnitzereien und
 mit Gold und Elfenbein eingelegte Felder kaum ihresgleichen
 hatten …
 
-Harst legte die Hand aus den goldenen Türdrücker …
-Leise ging der eine Flügel aus … Wir traten leise
+Harst legte die Hand auf den goldenen Türdrücker …
+Leise ging der eine Flügel auf … Wir traten leise
 ein …
 
 Sahen dort am Mittelfenster hinter den seidenen,
@@ -436,7 +410,7 @@ hauchdünnen, durchsichtigen Vorhängen einen schlanken
 Mann in weißem Flanellanzug stehen, auf dem Haupte
 einen weißseidenen Turban … den Rücken uns zukehrend …
 
-Ich Stunde …
+Ich stutzte …
 
 Diese Figur … Dieser Anzug …?!
 
@@ -444,27 +418,26 @@ Ich blicke Harald an …
 
 Der … lächelt …
 
-Und da … fällt’s mir wie Schuppen von den »vorn:
+Und da … fällt’s mir wie Schuppen von den Augen:
 Der Radscha lebt, — — und Harald hat dies gewußt …
-
-Der Radscha hat nicht Gift geschluckt, sondern nur frei
+Der Radscha hat nicht Gift geschluckt, sondern nur eines
 jener indischen Betäubungsmittel, die den Körper wie im
 Tode erstarren lassen …!
 
 Harst drückt die Tür lautlos zu …
 
-Ich … sehe, wie Mar Shing Chanu ein Fernglas an.
+Ich … sehe, wie Mar Shing Chanu ein Fernglas an
 die Augen hebt, wie er von hier aus seine eigene Einäscherung
 beobachtet …!
 
-Harald schreitet rasch; vorwärts …
+Harald schreitet rasch vorwärts …
 
-Legt Seiner Hoheit die Hand aus die Schulter …
+Legt Seiner Hoheit die Hand auf die Schulter …
 
-Und — — der Fürst … wendet nicht einmal den Kopf,:
+Und — — der Fürst … wendet nicht einmal den Kopf,
 sagt nur in seinem tadellosen Englisch:
 
-»Bitte — noch ein paar Minuten, Herr Harst …!!«
+»Bitte — noch ein paar Minuten, Herr Harst …!«
 
 Herr Harst …!!
 
@@ -476,20 +449,20 @@ als ob wir gar nicht vorhanden …
 Harald ist etwas zurückgewichen … Ich merke: Auch
 ihn traf dieses »Herr Harst« wie ein Schwerthieb …
 
-Er … beißt sich aus die Unterlippe …
+Er … beißt sich auf die Unterlippe …
 
 Seine Rechte gleitet in die Kitteltasche …
 
 <@pagebreak/>
 Die Clement kommt zum Vorschein …
 
-Da dreht Seine tote Hoheit sich langsam um … —
+Da dreht Seine tote Hoheit sich langsam um …
 
 Verbeugt sich …
 
 »Sie haben es mir bequem gemacht, meine Herren …
 Sie haben sich täuschen lassen … Meine Spione waren
-desto« »’nter Ihnen, auch heute … Ich ahnte, was Sie
+stets hinter Ihnen, auch heute … Ich ahnte, was Sie
 ahnten …«
 
 dann deutet er auf die Klubsessel am Mitteltisch …
@@ -497,15 +470,15 @@ dann deutet er auf die Klubsessel am Mitteltisch …
 wenig miteinander plaudern …«
 
 »… Nehmen Sie Platz,« wiederholt er … »Und Ihre
-Waffe stehen Sie wohl wieder weg, Herr Harst … Bitte!«
-Und seine Hand deutet auf drei Wand’chirme, zwischen
+Waffe stecken Sie wohl wieder weg, Herr Harst … Bitte!«
+Und seine Hand deutet auf drei Wandschirme, zwischen
 deren Stäben uns die schwarzen Mündungslöcher von drei
 Karabinern anstarren …
 
 Harald schiebt die Clement in die Tasche …
 
 »Was wir zu besprechen haben, Hoheit, kann auch
-stechend erledigt werden,« sagt er durchaus höflich. »Sie
+stehend erledigt werden,« sagt er durchaus höflich. »Sie
 haben natürlich die Absicht, uns verschwinden zu lassen …
 Wir haben Sie um Thron und Heimat gebracht. Sie wollen
 sich rächen, — was verständlich ist. Nur gebe ich Ihnen
@@ -518,41 +491,41 @@ englischen Residenten überreichen …«
 
 »O, sehr interessant, Herr Harst … Gut, ich lese vor:
 
-»An Seine Exzellenz, den Residenten von Pudukattai,
-Sir Howard nüchtern.
+<p class="centered">»An Seine Exzellenz, den Residenten von Pudukattai,
+Sir Howard Allgreen.</p>
 
-Exzellenz, Schraut und ich sind hier dauernd von
+> Exzellenz, Schraut und ich sind hier dauernd von
 mehreren Leuten beobachtet worden, unter denen sich
-zwei Leute aus dem Palaste des Nadschas5 befanden, die
+zwei Leute aus dem Palaste des Radschas befanden, die
 mir damals in jener Nacht schon auffielen. Ich nehme
-an, daß der Raäadscha nicht tot ist, sondern daß, ein? nun
+an, daß der Radscha nicht tot ist, sondern daß, eine andere
 <@pagebreak/>
-andere Leiche eingeäschert werden wird. Gerade diese
+Leiche eingeäschert werden wird. Gerade diese
 ständige Überwachung hat mich auf den Gedanken gebracht,
-blaß der Fürs! noch lebt und daß er fürchtet, wir
+daß der Fürst noch lebt und daß er fürchtet, wir
 beide könnten sein Spiel durchschaut haben. — Sobald
-dieser Brief in Ihre Hände gelangt, befinden wir uns.
+dieser Brief in Ihre Hände gelangt, befinden wir uns
 in Gefahr, denn ich beabsichtige heute am Verbrennungstage
-das Schloß durchsuchen zu lassen. Handeln Sie und
+das Schloß durchsuchen zu lassen. Handeln Sie ungesäumt!
 
-gesäumt!
-Sehr ergebener
-Harald Harst.«
+<p class="centered">Sehr ergebenst</p>
+
+<p class="right">Harald Harst.«</p>
 
 Ich, Max Schraut, hätte jetzt am liebsten diesem Harald
-Harst eine hastige Grobheit zugerufen …
+Harst eine saftige Grobheit zugerufen …
 
-Und — Ich grinste kenntlich Hohn, als Seine tote
+Und — ich grinste heimlich Hohn, als Seine tote
 Hoheit jetzt sehr hundeschnäuzig erklärte:
 
-»Dein Harst, — ein ganz netter Gedanke, dieser Brief …
+»Herr Harst, — ein ganz netter Gedanke, dieser Brief …
 Nur — ich habe einen noch netteren gehabt …«
 
 Grinste Hohn, denn Harald blickte den Fürsten ein
 wenig unsicher an …
 
 Worauf Mar Shing Chanu in die Tasche seiner
-[sicher Jacke faßte und … einen Brief zum Vorschein
+schicken Jacke faßte und … einen Brief zum Vorschein
 brachte …
 
 »Bitte, Herr Harst, ist dies vielleicht das Original, das
@@ -569,87 +542,85 @@ Es war das Original …
 Und — er verbeugte sich vor Seiner Hoheit …
 
 »Meine Anerkennung …! — Natürlich hat die Tochter
-des Bruders des MessersQmiedes Ramar in Ihrem Auftrag
+des Bruders des Messerschmiedes Ramar in Ihrem Auftrag
 gehandelt, Hoheit … Sie hat den Brief aus meinem
 Bündel gestohlen und ihn Ihnen überbracht … — Wirklich
-—. meine Anerkennung, Hoheit …«
+— meine Anerkennung, Hoheit …«
 
-Der Antlitz nickte … »Ich kenne Ihre Arbeitsmethode,
+Der Radscha nickte … »Ich kenne Ihre Arbeitsmethode,
 Herr Harst. Ich habe Ihre Abenteuer stets mit
 <@pagebreak/>
 größtem Interesse verfolgt. Außerdem haben meine Leute
 Sie in den Ruinen der früheren Radschaburg beobachtet —
-auch dort in den Gewölben, so Sie Ihre Koffer unterstellen,
-und wo Sie die Briefe spielen, während Ihr Freund
-Schraut fest schlief … — Etwas Besond2res habe ich also
+auch dort in den Gewölben, wo Sie Ihre Koffer unterstellten,
+und wo Sie die Briefe schrieben, während Ihr Freund
+Schraut fest schlief … — Etwas Besonderes habe ich also
 keineswegs geleistet … Immerhin ist es für Sie beide
 ein wenig peinlich, daß jetzt niemand für Sie einspringen
-wird, daß niemand ahnen wird, wo Harst und Schrank geblieben
-sind … —«- O — glauben Sie nicht, daß ich Sie
+wird, daß niemand ahnen wird, wo Harst und Schraut geblieben
+sind … — O — glauben Sie nicht, daß ich Sie
 töten werde … Nein, meine Herren, der Tod ist in jedem
-Falle eine nur recht kurze Straße. Ich bin der Ansicht, daß
+Falle eine nur recht kurze Strafe. Ich bin der Ansicht, daß
 Ihre unerwünschte Einmischung in meine Angelegenheiten
 anders gesühnt werden muß … Doch — das ist schließlich
 meine Sache, und ich möchte Ihnen durch Andeutungen
-nicht den Reiz der Überraschung rauben«…«
+nicht den Reiz der Überraschung rauben …«
 
-Zelt enthüllte er seine wahre Seele … Jetzt kam das
+Jetzt enthüllte er seine wahre Seele … Jetzt kam das
 Satanische seines Charakters zum Durchbruch …
 
 »und um auch das gleich zu erledigen,« fuhr er fort …
 »denn — wir dürften uns kaum wiedersehen … Ich hatte
 einen Zwillingsbruder, meine Herren, der mit fünfzehn
-Jahren zum heiligen Ganges wallsahrte und … nicht zurückkehrte,
+Jahren zum heiligen Ganges wallfahrte und … nicht zurückkehrte.
 Es ist nie aufgeklärt worden, wo er geblieben
 ist. Er kann also sehr gut noch am Leben sein … Und —
-dieser Zwillingsbruder wird nun plötzlich wieder austauschen
+dieser Zwillingsbruder wird nun plötzlich wieder auftauchen
 und Ansprüche auf den Thron von Pudukattai erheben
 … Da Sie beide dann nicht mehr da sind, um mich
 zu verraten, der meinen Zwillingsbruder spielen wird, so
 dürfte mein Plan gelingen. Ich werde also hier wieder in
-aller Wesentlichsten nach einiger Zeit auftreten, werde einen
-Roman erfinden, der um so her geglaubt werden wird,
-da mein Zwilling&bruder mir ja so sehr ähnlich sehen wird.
+aller Öffentlichkeit nach einiger Zeit auftreten, werde einen
+Roman erfinden, der um so eher geglaubt werden wird,
+da mein Zwillingsbruder mir ja so sehr ähnlich sehen wird.
 … Ich werde diesen Roman mit allerlei Beiwerk ausstatten,
 — denn ich besitze Phantasie … Kurz: Unter dem
 Namen meines Bruders werde ich Fürst von Pudukattai
 sein, und meiner verstorbenen Schwester Sohn wird das
-Feld räumen müssen, dieser scheue Knabe, der jetzt vor!
+Feld räumen müssen, dieser scheue Knabe, der jetzt dort
 <@pagebreak/>
-drüben am Seeufer meiner Einäscherung verwöhnt … getan
-mit der Krone, die ich bisher trug …
+drüben am Seeufer meiner Einäscherung beiwohnt … angetan
+mit der Krone, die ich bisher trug …«
+
 Er verneigte sich …
 
-»Und jetzt — lesen Sie wohl, meine Herren … Ich
+»Und jetzt — leben Sie wohl, meine Herren … Ich
 wünsche Ihnen viel Vergnügen für … die Zukunft …
-können Sie sich nicht gutwillig fesseln lassen. [o vereinfachen
+Sollten Sie sich nicht gutwillig fesseln lassen, so vereinfachen
 Sie das Verfahren, dann werden Sie erschossen und im
 See versenkt. Ich würde Ihnen aber raten, verständig zu
 sein und erst einmal abzuwarten, was weiter mit Ihnen
-geschickt. Vielleicht behagt Ihnen die Zukunft ganz gut …«
+geschieht. Vielleicht behagt Ihnen die Zukunft ganz gut …«
 
-»Satan111« brüllte ich …
+»Satan!!« brüllte ich …
 
-Und wenn ich getrennt hätte, wäre ich ihm an die Kehle
+Und wenn ich gekonnt hätte, wäre ich ihm an die Kehle
 geflogen …
 
 Aber er war so vorsichtig gewesen, den langen breiten
-Tisch stets als Schutzwand zu benutzen … Echtheit nun der
-
-für zu …
+Tisch stets als Schutzwand zu benutzen … Schritt nun der
+Tür zu …
 
 Hinter den Wandschirmen traten acht Leute hervor …
 
-Harald sagte halt: »Vielleicht sehen wir uns da wieder,
-Mar Shing Chanu …!« — Aber der Radscha [schlug
+Harald sagte kalt: »Vielleicht sehen wir uns doch wieder,
+Mar Shing Chanu …!« — Aber der Radscha schlug
 bereits die Tür zu …
 
 Wir ließen uns Fesseln und knebeln …
 
 Man verband uns die Augen und trug uns davon …
-
 …
-»W- nun »Mr
 
 <h2>3. Kapitel.</h2>
 
