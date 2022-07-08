@@ -108,14 +108,14 @@ Harst darauf aufmerksam machen.
 Nach einer halben Stunde kam er mit dick vollgepfropftem
 Rucksack die Straße entlang.
 
-Da sah ich, das er mit seiner rechten Hand mit einer
+Da sah ich, daß er mit seiner rechten Hand mit einer
 besonderen Bewegung nach hinten deutete. Es war ein
 längst verabredetes Zeichen: ich sollte ihn nicht ansprechen!
 
 Ich blieb vor der Plakatsäule stehen und prägte mir
 den Aufdruck des roten Zettels recht genau ein:
 
-> S. S. Olsch — Burgsand!
+<blockquote><p class="centered strong">S. S. Olsch — Burgsand!</p></blockquote>
 
 > Brief lagert. Alles mitbringen. Justus Rat erledigt.
 Auto für 1. Juni bestimmt. — Das Wort.
@@ -140,17 +140,17 @@ Eva Wilcword um sich versammelt hatte. Wenn Eva aber
 das Harstsche Haus noch immer beobachten ließ, dann
 wußte sie auch, daß wir aus dem Lehmberge da draußen im
 Walde trotz all ihrer Gewaltmaßnahmen entkommen waren.
-(Vergl. Bd. 89 »Giftkonfekt«). Dann hatten wir beide
-zwecklos in diesen letzten vier Tagen dauernd die
+(Vergl. Bd. 89 »Giftkonfekt«.) Dann hatten wir beide
+ganz zwecklos in diesen letzten vier Tagen dauernd die
 Masken gewechselt und uns mit einer Vorsicht bewegt, als
 wäre ein Heer von Spionen stets um uns, dann waren wir
-so wenig auch nur eine Minute unseres Lebens
+noch genau so wenig auch nur eine Minute unseres Lebens
 sicher wie bisher. —
 
 Harst war stehen geblieben und hatte den Rucksack abgenommen,
 verstaute die Sachen darin anders und schaute
 natürlich nach dem Depeschenboten aus. Der hatte ebenfalls
-Halt gemacht, sein Rad an einen Laternenpfahl gelehnt
+halt gemacht, sein Rad an einen Laternenpfahl gelehnt
 und eine Zigarette angezündet.
 
 Ich trat rasch wieder hinter die Litfaßsäule, damit er
@@ -331,18 +331,18 @@ Die Adresse auf dem Umschlag lautete:
 
 > Herrn
 
-> Ernst-Edgar von Reppen
+<blockquote><p class="centered">Ernst-Edgar von Reppen</p></blockquote>
 
-> Berlin W, Passauerstr. 18. 1.
+<blockquote><p class="right">Berlin W, Passauerstr. 18. 1.</p></blockquote>
 
 Die Marke war am 25. Mai dieses Jahres in Heringsdorf-Seebad
 abgestempelt worden.
 
 Dann der Brief selbst:
 
-> Schloß S., d. 24. 5. 22.
+<blockquote><p class="right">Schloß S., d. 24. 5. 22.</p></blockquote>
 
-> Lieber Erngar!
+<blockquote><p class="centered">Lieber Erngar!</p></blockquote>
 
 Das Scheusal hat gestern abend an den Berliner Detektiv
 Harald Harst geschrieben — aus Angst! Du mußt
@@ -366,7 +366,7 @@ Oder besser, schicke mir ein harmloses Telegramm. Bekomme
 ich keine Nachricht, so bleibt es bei unserem Plan.
 Das Scheusal wird schon kapitulieren.
 
-> Innigst Deine Karla.
+<blockquote><p class="right">Innigst Deine Karla.</p></blockquote>
 
 Als ich mit Vorlesen fertig war, sagte Harald zu unserem
 Gefangenen:
@@ -394,7 +394,7 @@ Der Gefangene hatte plötzlich die Hände frei, war zugesprungen,
 hatte Harst den Brief entrissen und stopfte ihn
 schnell in den Mund.
 
-Ich wollte ihm an die Kehle. Er sollte den Brief
+Ich wollte ihm an die Kehle. Er sollte den Brief schon
 wieder hergeben!
 
 »Laß doch! Wozu?!« sagte Harst da. Und lächelte
@@ -413,7 +413,7 @@ Polizei übergebe?!«
 Der Mann gehorchte, glättete den Brief, riß den Umschlag
 auf und las:
 
-»Schloß Sandburg, Insel Usedom, bei Seebad
+> »Schloß Sandburg, Insel Usedom, bei Seebad
 Heringsdorf, den 23. 5. 1922. — Sehr geehrter Herr! Sollte
 Ihnen etwa durch Zeitungsgeschwätz etwas von den Vorgängen
 hier bekannt werden und sollten Sie, der so gern
@@ -455,7 +455,7 @@ hervor:
 Reppen schüttelte den Kopf. »Auf Ehrenwort — nein!«
 
 »Das dachte ich mir. Es ist Ihr Glück, Herr von
-Reppen! Ich hielt Sie erst für einen Spion anderer Leute.
+Reppen! Ich hielt Sie erst für einen Spion anderer Leute. —
 Was haben Sie da in Sandburg vor?«
 
 »Oh — nichts!«
@@ -514,10 +514,10 @@ plötzlich.
 
 »Und Du kannst mir dies Dein Erlebnis so gelassen erzählen?!
 Wie ist das möglich?! Wie konntest Du nicht
-sofort, als Reppen den Brief vorlas an diese Überschrift
+sofort, als Reppen den Brief vorlas, an diese Überschrift
 des Plakats »S. S. Olsch — Burgsand!« denken! Das heißt
 doch, von hinten gelesen »Schloß Sandburg« —! —
-Schraut, Du wirst nie ein Genie werden! Nie!«
+Max Schraut, Du wirst nie ein Genie werden! Nie!«
 
 Weiß der Henker: ich wurde rot — ich schämte mich!
 
@@ -549,7 +549,7 @@ kann nur heißen: der Justizrat ist tot! Der Justizrat Plotz!
 — »Auto für 1. Juni bestimmt« bedarf keiner Erläuterung.
 Und dann: »Das Wort«! — Max Schraut — geheimes Erkennungszeichen
 »Das Wort«! Das hast Du ja selbst festgestellt.
-Und Eva Wilcword — Wilc — word — Wort, —
+Und Eva Wilcword — Wilc — word — wort, —
 da hast Du den Gleichklang! Begreifst Du: »Das Wort«
 ist Eva, die Feindin! Und das wichtigste — die Überschrift:
 Schloß Sandburg! Begreift Du: Dort will Eva etwas
@@ -574,12 +574,12 @@ ja entfacht — ich durch das Plakat!
 Harald drückte mir die Hand.
 
 »Hast Deine Sache doch gut gemacht, Alter! Hast den
-fein bemogelt. — Nun los denn — an die Arbeit.
+Ungar fein bemogelt. — Nun los denn — an die Arbeit.
 Masken wechseln! Heraus mit den Lumpen aus dem Rucksack!
 Wenn uns jemand in den Kostümen erkennt, will ich
 Gift schlucken!« —
 
-Eine halbe Stunde drauf waren die biederen Arbeiter
+Eine halbe Stunde drauf waren die biederen Arbeiter zu
 Vagabunden geworden. Kein Zuviel war an der Maskierung.
 Sie war darauf berechnet, daß uns nicht etwa jeder
 Grüne sofort aufs Korn nahm. — Unsere Rucksäcke richteten
@@ -595,7 +595,7 @@ der Zigeunerkolonie. Unsern Ungar hier herauszufinden,
 war ein Kunststück. Aber wir kannten ja ein Zauberwort,
 das uns Anschluß verschaffen mußte:
 
-> Das Wort!
+<p class="centered">Das Wort!</p>
 
 Harst schaute sich um. Hier im Hofe war der reine
 Jahrmarkt: In Gruppen feilschten abenteuerliche Gestalten
@@ -631,15 +631,15 @@ Der Zigeuner winkte. »Kommt!«
 Er ging uns voran ins Vorderhaus, zwei Treppen
 empor. Da war rechts an der Flurtür ein Pappschild:
 
-> Joseph Jenkel,
+<p class="centered">Joseph Jenkel,</p>
 
-> Pferdehändler.
+<p class="centered">Pferdehändler.</p>
 
 Er schloß die Flurtür auf und brachte uns in ein
 peinlich sauberes, einfach möbliertes Zimmer, halb Kontor.
 
 »Setzt Euch!« — Er holte eine Flasche Schnaps und
-drei Gläser aus dem Schrank schenkte ein.
+drei Gläser aus dem Schrank, schenkte ein.
 
 »Prosit!«
 
@@ -653,8 +653,8 @@ Gaslampe an und setzte sich wieder.
 
 »Von der Landstraße kommen wir,« erwiderte Harald.
 »Fahrende sind wir, — Kochemer! (Ausdruck aus der Gaunersprache,
-gleich »Kluge«, »Schlaue«). Wir fanden viel
-schofele Winde (Leute die Bettlern nichts geben), mußten
+gleich »Kluge«, »Schlaue«.) Wir fanden viel
+schofele Winde (Leute, die Bettlern nichts geben), mußten
 malochen (arbeiten, um Essen zu bekommen) und hatten nur
 selten einen Stuppen (Dummen) zum Vorführen (im
 Falschspiel das Geld abnehmen). Auch mit dem Krampfzug
@@ -674,8 +674,8 @@ Zettel nicht gemacht werden soll.«
 
 »Weshalb nicht?«
 
-»Weiß ich nicht. Wir sollen’s hinbringen. Wir kennen
-Gegend da genau. Wir haben voriges Jahr in Sandbank
+»Weiß ich nicht. Wir sollen’s hinbringen. Wir kennen die
+Gegend da genau. Wir haben voriges Jahr in Sandburg
 auf Ernte gearbeitet. Mein Freund da ist Chauffeur
 gewesen, hat vier Jahr Knast gehabt (im Gefängnis gesessen).«
 
@@ -692,12 +692,13 @@ Mißtrauen.
 
 Jenkel war beruhigt.
 
-»Einkluften (bessere Kleider geben) sollst Du uns auch.«
+»Einkluften (bessere Kleider geben) sollst Du uns auch,«
+fügte Harald hinzu.
 
 »Das ist selbstverständlich.« Jenkel stand auf und trat
 an den Schreibtisch, nahm den Hörer vom Telephon.
 
-»Norden 18 163,« verlangte er. Dann:
+»Norden 18&nbsp;163,« verlangte er. Dann:
 
 »Wer dort — hier Jenkel — Das Wort! — Gut, das
 Wort! — Janos, das Auto steht in einer Stunde vor dem
@@ -943,7 +944,7 @@ Sandburg soll’s ja spuken, Herr Wirt. Was ist eigentlich
 Wahres daran? Stimmt es, daß sich an der Mauer des
 Schloßparkes des Herrn von Reppen nachts beim Mondschein
 der Schatten des Generals von Reppen zeigt, der im
-dreißigjährigen Kriege oben im Schloß von seinem Bruder
+Dreißigjährigen Kriege oben im Schloß von seinem Bruder
 ermordet wurde? — Zunächst bringen Sie uns aber mal
 eine Flasche Rotwein, Herr Wirt, — nein, gleich zwei, und
 drei Gläser. Der Gang hierher hat mich durstig gemacht.«
@@ -976,7 +977,7 @@ Wir beide hatten ja bereits in Heringsdorf, wo wir
 tatsächlich abgestiegen waren, von dem »Schatten an der
 Wand«, wie der Spuk hier in der Gegend allgemein hieß,
 manches gehört. Hinzu kam noch der Brief des Majoratsherrn
-Holger von Reppen an Harst. Aus diesem Brief war
+Holger von Reppen an Harst. Aus diesem Brief war ja
 manches Ungesagte herauszulesen gewesen. Der Schloßbesitzer
 von Sandburg hatte offenbar sehr triftige Gründe,
 Harst fernzuhalten. Wenn diese »Spukgeschichte« hier für
@@ -1018,7 +1019,7 @@ des Spuks schon ganz krank geworden. Wir
 hier im Dorfe hielten diese Gespenstermär aus den alten
 Chroniken stets für eine Sage. Nun sind wir eines besseren
 belehrt worden. Wie ich schon erwähnte: ich habe den
-Spuk selber gesehen! Er zeigt sich an der Südseite des Buchenberges,
+Spuk selbst gesehen! Er zeigt sich an der Südseite des Buchenberges,
 auf dem das Schloß liegt. Dort läuft ein Feldweg
 an der Parkmauer entlang. Gegenüber liegt die neue
 Dorfschule. Wenn man im Obstgarten unseres Lehrers am
@@ -1032,11 +1033,11 @@ Spuk denn so sehr auf, Herr Wirt?« fragte Harald, indem
 er die Gläser wieder füllte.
 
 »Dja — ganz unter uns! — Der Majoratsherr ist hier
-sehr unbeliebt, man munkelt, er habe seinen jüngeren
+sehr unbeliebt. Man munkelt, er habe seinen jüngeren
 Bruder um die Erbschaft betrogen. Die Eltern der beiden
 Brüder hatten ein Testament errichtet und dem jüngeren
 Sohn, der ja das Gut und das Schloß nicht bekommen
-konnte, die berühmte Reppentsche Münzensammlung vermacht.
+konnte, die berühmte Reppensche Münzensammlung vermacht.
 Diese Sammlung, viele Millionen wert, ist nach
 dem Tode der Eltern, die gleichzeitig am Typhus starben,
 nicht aufzufinden gewesen. Holger von Reppen soll sie bei
@@ -1067,7 +1068,7 @@ schon drei Monate. Sie malt meist Heidebilder und Seestücke.
 Ein nettes junges Mädchen ist’s. Kara Roth
 heißt sie — Roth mit th. Kara — ein komischer Vorname!«
 
-Harst blinzelte mich zu. Ich verstand: Kara — Karla,
+Harst blinzelte mich an. Ich verstand: Kara — Karla,
 Ernst-Edgars Schwester! — Ich verstand jetzt überhaupt
 alles: die Geschwister wollten ihren Onkel durch den Spuk
 zur Herausgabe der Münzensammlung zwingen. Karla
@@ -1161,7 +1162,7 @@ neben sich einen großen Hausiererkasten stehen hatte.
 
 Ich setzte mich abseits. Der Mann mit dem Hausiererkasten
 putzte umständlich seine Brille. Ohne die Brille
-war es — Hans Bechert! — Er klappte seinen  Kasten auf
+war es — Fritz Bechert! — Er klappte seinen  Kasten auf
 und nahm ein paar Bücher heraus. Dann kam er zu mir,
 pries mir die Schriften an, flüsterte zwischenein: »Wo ist
 Harst?«
@@ -1228,7 +1229,7 @@ Harald deutete auf eine Wolkenwand, die von Westen
 <@pagebreak/>
 heraufzog. »Nach einer halben Stunde regnet es. Eva
 wird in dieser Nacht losschlagen. Die Zigeuner werden den
-Regen abwarten. Dann schützt die Dunkelheit sie. Postierten
+Regen abwarten. Dann schützt die Dunkelheit sie. Postieren
 Sie Ihre Leute dicht um das Schloß herum. — Haben
 Sie sich bei dem Majoratsherrn angemeldet?«
 
@@ -1249,7 +1250,7 @@ Bechert mit seinen zehn Beamten verschwand.
 
 »Wir danken Ihnen nun,« sagte Harst zu dem Wirt.
 
-»Hm — darf ich nicht mit machen? Ich bin hier doch
+»Hm — darf ich nicht mitmachen? Ich bin hier doch
 Polizeiperson. Es würde mir eine Ehre sein. Ich habe
 Ihren Namen soeben gehört, Herr Harst —«
 
@@ -1442,7 +1443,7 @@ liegenden Manne, der hier offenbar Posten gestanden hatte.
 Bescheid. »Die Schufte fühlen sich ganz sicher.«
 
 Wir kamen gerade noch zur rechten Zeit. In einem
-Hofraum, angefüllt mit leeren Fässern, stand ein großer
+Kellerraum, angefüllt mit leeren Fässern, stand ein großer
 eiserner Kasten in der Mitte, eine sogenannte Kriegskasse.
 Das Sauerstoffgebläse fauchte Schmelzglut auf das Eisen.
 Das Schloß des Kastens gab nach. Der Deckel flog hoch.
@@ -1451,7 +1452,7 @@ Gierige Hände hoben drei schwarze Holzkästen heraus.
 Dann ein leiser Befehl Becherts.
 
 Laternenschein blitzte auf. Dienstpistolen hielten die
-Überraschten in Schach. Handschellen schnappten zu.
+sechs Überraschten in Schach. Handschellen schnappten zu.
 Es waren fünf Zigeuner und der Diener. —
 
 Die Münzensammlung war gefunden. Gefunden war

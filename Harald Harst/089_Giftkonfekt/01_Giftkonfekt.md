@@ -1,7 +1,7 @@
 <@pagebreak/>
 Nachdruck verboten. Alle Rechte einschließlich Verfilmungsrecht
 vorbehalten. Copyright by Verlag moderner Lektüre
-G\.m\.b\.H\., Berlin 26. — 1923.
+G.m.b.H., Berlin 26. — 1923.
 
 <h1>Giftkonfekt.</h1>
 
@@ -10,20 +10,20 @@ G\.m\.b\.H\., Berlin 26. — 1923.
 Die Namen Eva Wilcword und Xaver Holdstein haben
 in der Chronik des internationalen Verbrechertums
 etwa dieselbe zweifelhafte Berühmtheit erlangt wie die des
-Hoteldiebes-»Fürsten« Lahovari, Jack des Aufschlitzers und
-ähnlich berüchtigter Herrschaften. Der Leser wird sich aus
+Hoteldiebes »Fürsten« Lahovari, Jack des Aufschlitzers und
+ähnlicher berüchtigter Herrschaften. Der Leser wird sich aus
 Band 87 noch besinnen, wie wir durch den »Geisterspiegel«
 mit diesem Hochstaplerpaar zusammengerieten und wie Harald
 die beiden um eine Milliardenbeute an Edelsteinen
 brachte, wobei die damals in der Presse so viel genannte
 Familientasse eine Hauptrolle spielte.
 
-Eva, Xaver und ihr Anhang waren uns damals entgangen.
+Eva, Xaver und ihr Anhang waren uns damals entkommen.
 Die Umstände lagen sehr ungünstig für uns.
 Wir mußten dieser gefährlichen Gilde einen Vorsprung von
 vier Stunden gewähren, und diese vier Stunden hatten
 ihnen genügt, spurlos zu verschwinden. Unser Freund,
-Kriminalkommissar Bechert, hatte zur sofort den ganzen
+Kriminalkommissar Bechert, hatte zwar sofort den ganzen
 Polizeiapparat aufgeboten, um die Bande schleunigst hinter
 Schloß und Riegel zu bringen, jedoch ohne Erfolg.
 
@@ -40,10 +40,10 @@ Auch in eine Linde des Harstschen Obstgartens schlug der
 Blitz ein und riß große Stücke der Rinde weg.
 
 Am 20. morgens neun Uhr waren Harald und ich gerade
-damit beschäftigt, der Linde einen vierfachen Verband
-anzulegen, als Hans Bechert sich einfand.
+damit beschäftigt, der Linde einen kunstgerechten Verband
+anzulegen, als Fritz Bechert sich einfand.
 
-»Sie könnten mit einen Gefallen tun, lieber Harst,«
+»Sie könnten mir einen Gefallen tun, lieber Harst,«
 meinte er nach kurzer Begrüßung. »Ich bin da heute früh
 sechs Uhr nach der Uhlbornschen Villa im Tiergartenviertel
 gerufen worden, wo man neben einer vom Blitz ebenfalls
@@ -57,14 +57,15 @@ benachrichtigt, weil man in der zusammengeballten Faust
 des Toten eine Papierkugel fand, einen Zettel, den ich Ihnen
 hier mitgebracht habe.«
 
-Er reichte Harald einen zerknitterten halben Briefbogen:
+Er reichte Harald einen zerknitterten halben Briefbogen
 von lila Farbe mit schmalem Goldrand.
 
 Darauf stand in einer kindlich unbeholfenen Handschrift:
 
 > Einzig Geliebter! Um elf Uhr wie stets unter der
 Buche. Sei pünktlich. Ich habe Dir sehr Wichtiges mitzuteilen.
-— Deine E.
+
+> — Deine E.
 
 Harald drehte das Blatt um und sagte dann, nachdem
 er es noch mit der Lupe kurz geprüft hatte:
@@ -100,7 +101,7 @@ indem er das lila Blatt abermals prüfend beschaute.
 »In das Zimmer des Toten im Erdgeschoß der Villa,
 lieber Harst.«
 
-»Gut wir begleiten Sie, Bechert. Die Sache ist anrüchig.
+»Gut, wir begleiten Sie, Bechert. Die Sache ist anrüchig.
 Da haben Sie recht. Der Zettel hier ist Galley
 erst nach dem Gewitter und nach dem sintflutartigen Regen
 in die linke Hand gesteckt worden. Er müßte feucht, halb
@@ -141,7 +142,7 @@ Mann von vielleicht fünfundvierzig Jahren, führte uns in
 Galleys Zimmer.
 
 Der Tote lag auf dem Bett. Harald untersuchte ihn
-und ebenso den Hut mit der zum teil verkohlten Krempe.
+und ebenso den Hut mit der zum Teil verkohlten Krempe.
 Der Hut war noch naß. Auch die Kleider der Leiche waren
 völlig durchweicht.
 
@@ -161,7 +162,7 @@ Uhlborn schoß das Blut ins Gesicht.
 
 »Diese kindliche Handschrift auch nicht?«
 
-Da fuhr Uhlborn auf. »Herr Harst was sollen diese
+Da fuhr Uhlborn auf. »Herr Harst, was sollen diese
 merkwürdigen Fragen?! Ich muß Sie dringend bitten,
 mir zu erklären —«
 
@@ -220,7 +221,7 @@ genommen, die mich zwingt, Sie jetzt als Beamter nochmals
 zu fragen: Waren Sie in der verflossenen Nacht während
 des Gewitters im Park?«
 
-»Nein!« Man merkte, daß Uhlborn jetzt seine
+»Nein!« — Man merkte, daß Uhlborn jetzt seine
 Fassung wiedergewonnen hatte. »Ich kehrte erst um zwei
 Uhr heim. Ich war im Universum-Klub am Nollendorfplatz.«
 
@@ -405,12 +406,12 @@ waren die Drähte gerade lang genug.«
 Nun nahm Harst die Korbsessel einzeln und besichtigte
 sie mit peinlichster Genauigkeit.
 
-»Dieser ist es,« sagte er, als er den Dritten prüfte. »Hier
+»Dieser ist es,« sagte er, als er den dritten prüfte. »Hier
 auf dem bunten Stoff des Sitzpolsters sind lehmige Spuren
-vorhanden. — Ah — was ist denn dies hier!«
+vorhanden. — Ah — was ist denn dies hier?«
 
 Und er zog aus dem Geflecht der Armlehne das
-Stümpfchen einer grünen dünnen Stearinkerze hervor, daß
+Stümpfchen einer grünen dünnen Stearinkerze hervor, das
 sich dort festgeklemmt hatte.
 
 Dieses Stümpfchen, vielleicht drei und ein halb Zentimeter
@@ -446,6 +447,8 @@ wissen.
 
 »Mit den üblichen bunten dünnen Stearinkerzen?«
 
+»Ja —«
+
 Harst nahm sich einen Stuhl und setzt sich. Ich lehnte
 mich an die Tür.
 
@@ -471,7 +474,7 @@ Auf Uhlborns Stirn lagen jetzt dicke Schweißperlen.
 Er stierte auf den seidig glänzenden Perser hinab, regte
 sich nicht.
 
-»Wenn wir Ihnen wir jetzt versprechen, Sie zu schonen,«
+»Wenn wir Ihnen nun fest versprechen, Sie zu schonen,«
 fügte Harst eindringlich hinzu, »dann könnten Sie
 doch aussagen, was Sie wissen.«
 
@@ -494,7 +497,7 @@ sehr schön, eine kalte Schönheit. Vor meiner Hochzeit fand
 ich sie durch eine namhafte Geldsumme ab. Ich sah sie
 dann erst vor zehn Tagen wieder. Sie kam in mein Privatkontor
 nach Geschäftsschluß. Sie sagte, daß es ihr sehr
-schlecht ginge. — Ich besitze nun in dem nahen Walde bei Lichterfelde
+schlecht ginge. — Ich besitze nun in dem nahen Ort Lichterfelde
 ein kleines Schweizerhäuschen dicht am Walde, ganz
 einsam liegend. Ein altes Ehepaar hält es in Stand und
 wohnt dort in einem Anbau. Ich selbst benutze es nie.
@@ -634,7 +637,7 @@ Mirakulum wert. Der Zigarettenrauch feuert meinen Geist an.
 Das ist hier sehr nötig, denn — ehrlich gesagt! — ich finde
 mich in dieser Geschichte nicht zurecht. Ihre Beichte hat
 meine erste Theorie, in der Sie eine sehr scheußliche Rolle
-spielten vollständig über den Haufen geworfen.«
+spielten, vollständig über den Haufen geworfen.«
 
 Er rauchte bedächtig, formte tadellose Ringe und ließ
 viele Minuten verstreichen, bis er fragte:
@@ -658,7 +661,7 @@ und stand auf.
 
 Ich will mich kurz fassen, was die Verhaftung dieses
 Karl Herms, eines noch jungen Menschen mit energischem,
-klugen Gesicht, betrifft.
+klugem Gesicht, betrifft.
 
 Harst durchsuchte die Stube des Chauffeurs und fand
 eine Schachtel mit Resten von Weihnachtskerzen. Diese
@@ -710,7 +713,7 @@ Stirn. »Ich möchte wohl gern wissen, ob Heinz Galley eine
 Schwäche für Süßigkeiten hatte,« fügte er mit einem fragenden
 Blick auf Uhlborns Gesicht hinzu, dessen Ausdruck
 deutlich verriet, daß er die furchtbare Schwere dieser letzten
-Äußerung Harsts nicht begriffen hatte.
+Äußerungen Harsts nicht begriffen hatte.
 
 Ich — ich wußte, was es mit diesem Konfekt auf sich
 haben könnte. Ich verstand auch Haralds Interesse für des
@@ -739,7 +742,7 @@ zuckten.
 
 »Vergiftet also —?« flüsterte er.
 
-»Ja und durch Herms, der das Giftkonfekt zwischen
+»Ja, und durch Herms, der das Giftkonfekt zwischen
 das andere, das Geschenk Ihrer Gattin, geschmuggelt haben
 wird. Erst vergiftet, dann im Pavillon mit elektrischem
 Strom behandelt, damit der Anschein eines Todes durch
@@ -767,7 +770,7 @@ zurecht —«
 Harst winkte mir.
 
 »Herr Kommerzienrat, wir müssen uns sofort verabschieden,«
-sagte er zu Uhlborn. »Es gibt für uns noch vieles
+sagte er zu Uhlborn. »Es gibt für uns noch viel
 zu tun. Bitte nehmen Sie diese Schachtel mit dem Giftkonfekt
 an sich. Dürfen wir Ihr Auto benutzen?« —
 
@@ -783,7 +786,7 @@ Die Tat selbst erschien mir äußerst kompliziert, und das Tatmotiv
 lag für mich völlig im Dunkeln.
 
 Harst erklärte nochmals, daß auch er sich nicht erklären
-könnte weshalb dieses Ehepaar Heinsold den Hauslehrer
+könnte, weshalb dieses Ehepaar Heinsold den Hauslehrer
 ermordet hatte.
 
 »Karl Herms, der Chauffeur, dürfte nicht der einzige
@@ -857,7 +860,7 @@ wird es sich darum handeln, wessen Kugel schneller den
 Lauf verläßt!« —
 
 Nachher stellten wir das Auto in einer Gastwirtschaft
-unter und wanderten im prallen Sonnenschein des Vormittags
+unter und wanderten im prallen Sonnenschein des Maimittags
 die sandige Straße zum Walde entlang.
 
 Wir sahen das Schweizerhäuschen schon von weitem.
@@ -875,11 +878,11 @@ Harald. »Sind Heinsolds anwesend?«
 »Heinsolds?« meinte der Mann kopfschüttelnd. »Hier
 wohnt kein Heinsold.«
 
-»Aber doch eine Dame. Ethelka Kavaratti?«
+»Aber doch eine Dame Ethelka Kavaratti?«
 
 »Ne, Herr, auch nicht mehr. Die ist vor einer Stunde
 abgereist! — Gott sei Dank! Wie der Herr Kommerzienrat
-die hier wohnen lassen konnte — unbegreiflich! Ein
+die hier wohnen lassen konnte — unbejreiflich! Ein
 Betrieb war das hier — wie in ’ner Destille. Na — uns
 jeht das ja nichts an. Jedenfalls — sie is wej! Ihr
 Bruder half ihr beim Packen. Sie haben sich mächtig beeilt.
@@ -891,7 +894,7 @@ noch abgeholt werden.«
 Harald nun. »Hier ist ein Zettel für Sie, Herr
 Schierke. Sie sehen, wir können hier tun, was wir wollen.«
 
-Der Alte nickte und grinste. »Aha — Polizei! Ich
+Der Alte nickte und grinste. »Aha — Polizei! Ick
 merke wat! Ick dacht’ mir schon immer, daß die Jeschichte
 so enden würde. Die Frau empfing zu viel Jäste. Es
 war der reine Taubenschlag.«
@@ -899,7 +902,7 @@ war der reine Taubenschlag.«
 »Sie haben also keine Schlüssel für das Haus mehr?«
 
 »Doch — doch! Die Reserveschlüssel. Wenn Sie rein
-wollen — ich hole die Schlüssel.«
+wollen — ick hole die Schlüssel.«
 
 Wir begleiteten ihn bis zu dem Anbau, in dem er mit
 seiner Frau wohnte. Hinter dem Hause zog sich ein
@@ -954,7 +957,7 @@ Das war alles.
 Da dachte ich an Frau Anna Schierke, an die große
 Haube, an —
 
-Und — da auch schon eine helle harte Stimme hinter
+Und — da auch schon eine helle kalte Stimme hinter
 uns:
 
 »Arme hoch — oder es knallt!«
@@ -1112,7 +1115,7 @@ im Ausschnitt des Fußbodens, schwangen uns hoch, standen
 auf den Beinen.
 
 Harst war mit einem Satz an der Flurtür, riegelte
-sie zu.
+sie auf.
 
 Den Hauptweg des Gartens entlang rannten Eva und
 Xaver dem Walde zu. Sie hatten vielleicht achtzig Meter
@@ -1177,7 +1180,7 @@ Der Förster war kein anderer als Holdstein gewesen,
 Holdstein, der Artist, der Verwandlungskünstler.
 
 Wir fanden die beiden nicht. Wir kehrten nach dem
-Schweizerhäuschens zurück, fanden hier etwas anderes:
+Schweizerhäuschens zurück, fanden hier — etwas anderes:
 im Keller des Anbaus das gefesselte und geknebelte Ehepaar
 Schierke.
 
@@ -1201,7 +1204,7 @@ Und jenseits des Drahtes meldete sich Eva Wilcword!
 »— Der Förster läßt grüßen! Das nächste Mal werden
 wir dafür sorgen, daß Sie den Mund nicht mehr zu einem
 <@pagebreak/>
-einzigen Wort auftun können, Herr Harst! Auf Wiedersehen!« —
+einzigen Wort auftun können, Herr Harst! — Auf Wiedersehen!« —
 
 Wir holten unser Auto und fuhren nach Berlin zurück.
 Harald war stumm. Diese Niederlage ärgerte ihn.
@@ -1253,7 +1256,7 @@ gegen Bechert hin. Dem Kommerzienrat reichte er
 die Hand.
 
 Gleich darauf sauste ein Mietauto mit uns nach der
-Blücherstraße. 10 in Schmargendorf — nach Hause. Harald
+Blücherstraße 10 in Schmargendorf — nach Hause. Harald
 hüllte sich in Schweigen. Auch abends fiel zwischen uns
 nicht eine Bemerkung über den Fall Galley. Selbst der
 folgende Tag verging, und wir hörten weder von Bechert
@@ -1337,7 +1340,7 @@ einen ihrer Genossen als Hauslehrer dort unterbringen
 wollten. Denke an Uhlborns anderen Chauffeur, der
 bei einer Schlägerei so böse zugerichtet wurde, daß Herms
 als Aushilfschauffeur eingestellt werden mußte. Die Schlägerei
-ist fraglos bestellte Arbeit der Bande gewesen. Galley
+ist fraglos »bestellte Arbeit« der Bande gewesen. Galley
 prügelte sich nicht mit Leuten herum. Also wandte man
 ein ganz radikales Mittel an: man tötete ihn! Auf Menschenleben
 kommt es Eva Wilcword nicht an. Das wissen
@@ -1345,7 +1348,7 @@ wir. — Dies wäre die eine Möglichkeit. Die andere wäre
 die, daß Galleys Zimmer eine Weile leer stehen sollte, weil
 man gerade dieses Zimmer für den Anschlag auf die Villa
 irgendwie gebrauchte. — Was für ein Anschlag nun? Da
-gibt es nur eine Antwort? Diebstahl! Uhlborn gilt als
+gibt es nur eine Antwort: Diebstahl! Uhlborn gilt als
 der drittreichste Mann Berlins. Schon sein Vater besaß —«
 
 Das Telephon auf dem Schreibtisch schlug an. Harst
@@ -1355,7 +1358,7 @@ ging hin, nahm den Hörer ab.
 das Mißverständnis zwischen uns ja wieder beseitigt. —
 Allerdings habe ich mir den Fall Galley in diesen beiden
 Tagen gründlich durch den Kopf gehen lassen. Was macht
-denn Herms? — So — so sein Verteidiger besucht ihn jeden
+denn Herms? — So — so, sein Verteidiger besucht ihn jeden
 Tag. — Wie — Sie meinen, dieser Justizrat hielte ihn
 von einem Geständnis ab? — Ach so — nur mehr Gefühlssache
 bei Ihnen! — Warten Sie noch vierundzwanzig Stunden,
@@ -1373,13 +1376,13 @@ mir förmlich einen Stoß.« — Er holte seine Brieftasche hervor
 und legte eine halb verbrannte Visitenkarte vor mich
 hin. Sie enthielt noch folgenden leserlichen Aufdruck:
 
-> Justizrat Dr. jur. Plo
+<blockquote><p class="centered">Justizrat Dr. jur. Plo</p></blockquote>
 
-> Rechtsanwalt und Not
+<blockquote><p class="centered">Rechtsanwalt und Not</p></blockquote>
 
-> Berlin W 57
+<blockquote><p class="right">Berlin W 57</p></blockquote>
 
-> Steinmetzstr. 18.
+<blockquote><p class="right">Steinmetzstr. 18.</p></blockquote>
 
 Es war also die rechte Seite der Karte zum Teil weggebrannt.
 
@@ -1410,18 +1413,18 @@ Harst fragte, ob Plotz ein gerissener Anwalt sei.
 dem sieht die Rechte nicht, was die Linke tut. Anständje
 Leute jehn kaum zu ihm. Bei seinen Kollegen ist er sehr
 <@pagebreak/>
-in Verruf, der olle Junggeselle. Aber wenn Sie mal so
+im Verruf, der olle Junggeselle. Aber wenn Sie mal so
 recht in der Tinte sitzen — der wäscht Sie rein! Der besorgt
 Alibizeugen, Stück zu zwanzigtausend Märker, und
 macht — Na — ich will mir nicht das Maul verbrennen.«
 
 Dies schien Harald für heute zu genügen. Um zwölf
-waren wir beide wieder daheim. Aber um acht Uhr morgens
+waren wir wieder daheim. Aber um acht Uhr morgens
 schoben zwei Männer einen mit Pappkartons beladenen
-Handwagen in die Steinmetzstraße, machte vor Nr. 20
+Handwagen in die Steinmetzstraße, machten vor Nr. 20
 halt und begannen ihre Stullen zu verzehren. Um neun
 Uhr verließ ein hagerer Herr im leichten Sommermantel,
-spitzbärtig auf der messerscharfen Hakennase einen Kneifer,
+spitzbärtig, auf der messerscharfen Hakennase einen Kneifer,
 Nr. 18 und ging eilends nach der Potsdamerstraße zu davon.
 Es war Plotz. So hatte der Kneipwirt ihn uns beschrieben.
 — Die beiden Männer folgten ihm mit Ihrem
@@ -1452,7 +1455,7 @@ dem Alexanderplatz und stelzte würdevoll ins Polizeipräsidium
 hinein, ließ sich bei Bechert melden und verlangte
 ins Gefängnis zu Herms geführt zu werden.
 
-Kaum schritt er dann den Gang entlang, begleitet vom
+Kaum schritt er dann den Gang entlang, begleitet von
 <@pagebreak/>
 einem Beamten, als wir bei Bechert anklopften.
 
@@ -1482,9 +1485,9 @@ Harst schlich näher, öffnete sie noch mehr — so behutsam,
 daß nicht das geringste Geräusch entstand.
 
 Da saß Herms gefesselt auf dem Bettrand, und dicht
-vor ihm der Hakennasige der gerade eindringlich flüsterte:
+vor ihm der Hakennasige, der gerade eindringlich flüsterte:
 
-»Es ist herausgekommen, daß Du Fondants gekauft hast,
+»Es ist rausgekommen, daß Du Fondants gekauft hast,
 Karl! Um jeden Verdacht zu vermeiden, mußt Du hier
 den Anschein erwecken, als ob Du auf Süßigkeiten versessen
 bist. — Da — iß! Ich lasse Dir die Schachtel hier. Bei einer
@@ -1530,7 +1533,7 @@ daß Eva Wilcword es auf das goldene Tafelservice
 der Familie Uhlborn abgesehen gehabt hatte, das unter
 Galleys Zimmer im Keller der Villa in einem eingemauerten
 Eisenschrank verwahrt war. Galley hatte sterben müssen,
-damit die Bande, von seinen Zimmer aus an den Eisenschrank
+damit die Bande, von seinem Zimmer aus an den Eisenschrank
 durch den Fußboden herankönnte. —
 
 Und der echte Justizrat Doktor Plotz —? Wie hatte
