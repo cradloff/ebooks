@@ -626,30 +626,30 @@ Man verband uns die Augen und trug uns davon …
 
 Durch Flure — Treppen hinab …
 
-Van legte mich in einen Koffer … Der Deckel klappte
+Man legte mich in einen Koffer … Der Deckel klappte
 zu … Man schleppte den Koffer in ein Boot … Das
 Boot schaukelte … Ruder quietschten in den Dollen …
-Das bog!t landete … Ein Auto ratterte, fuhr mit mir und
+Das Boot landete … Ein Auto ratterte, fuhr mit mir und
 meinem Behälter davon.
 
 Stunden dauerte diese ununterbrochene Fahrt … —
 
 Und wenn mich einer fragen würde, was ich während
-dieser Reise ins Unseliger empfand, so müßte ich ehrlich
+dieser Reise ins Ungewisse empfand, so müßte ich ehrlich
 erklären: Lediglich Neugier!
 
 <@pagebreak/>
 Und — ich renommiere nicht …
 
-Angst?! — Nein, so lange man mich nicht von Harald«
-trennte (und damit hatte dieser Schurke nicht getrollt),
+Angst?! — Nein, so lange man mich nicht von Harald
+trennte (und damit hatte dieser Schurke nicht gedroht),
 lag kein Anlaß zum Verzweifeln vor. —
 
 Freilich: Diese Fahrt war anderseits eine Pein, eine
 furchtbare Qual, ein dauerndes Ankämpfen gegen Ohnmachtsanfälle
 …
 
-Der Knebel erschwerte das Atmen, und die Silbe in
+Der Knebel erschwerte das Atmen, und die Hitze in
 dem großen Koffer, die verbrauchte Luft und die Schmerzen
 durch die brutale Fesselung erhöhten noch diese fast unerträglichen
 Leiden … —
@@ -657,8 +657,7 @@ Leiden … —
 Dann endlich — endlich hielt das Auto …
 
 Mein Koffer wurde emporgehoben … Getragen
-
-… Gesicht reist, gerüttelt, gestoßen …
+… geschleift, gerüttelt, gestoßen …
 
 Nur ein Bergpfad konnte es sein, auf dem man mich
 in meinem Behälter emporbeförderte …
@@ -680,13 +679,14 @@ Ein Messer fuhr durch meine Handfesseln …
 
 Ich schwebte abwärts … immer schneller …
 
-Bis ich mit den Füßen ausstieß … aus Steinboden …
-viel Biß von oben das Tau mir auf den verhüllten Kopf
-el …
+Bis ich mit den Füßen aufstieß … auf Steinboden …
+
+Bis von oben das Tau mir auf den verhüllten Kopf
+fiel …
 
 Ich hatte die Hände frei …
 
-Herunter mit dem Tuche, daß mich am schien hinderte
+Herunter mit dem Tuche, daß mich am Sehen hinderte
 …
 
 Da — ein schwerer Stoß gegen mein Genick …
@@ -699,7 +699,7 @@ Eine Stimme begrüßte mich:
 
 »Da wären wir also, mein Alter … Ohne Zweifel
 <@pagebreak/>
-ein verlassenes uraltes Bergwerk in den nahm-Bergen
+ein verlassenes uraltes Bergwerk in den Palni-Bergen
 westlich von Pudukattai … ohne Zweifel …«
 
 »Gott sei Dank, Harald, — man hat uns nicht getrennt
@@ -707,34 +707,34 @@ westlich von Pudukattai … ohne Zweifel …«
 
 Ich tastete im Dunkeln nach seinen Händen …
 
-Seine Finger umschlossen die meinen mit selten Druck)
+Seine Finger umschlossen die meinen mit festem Druck.
 
 »Nicht so schlimm, die ganze Geschichte, lieber Alter …
 Wir haben schon Böseres durchgemacht … — Befühlen wir
-mal unsere Taschen … Akt — man hat mir nichts weggenommen,
+mal unsere Taschen … Ah — man hat mir nichts weggenommen,
 nichts … Da ist die Clement, die Taschenlampe,
 die Uhr, das Messer, das Zigarettenetui … — Was wollen
-wir noch mehr?! Wir haben unser Handwerköszeug, wir
+wir noch mehr?! Wir haben unser Handwerkszeug, wir
 werden also …« —
 
 Und da leuchtete seine Taschenlampe auch schon auf …
 
-Beleunchtete fahles Gestein … Über uns ein Schacht
+Beleuchtete fahles Gestein … Über uns ein Schacht
 — endlos hoch, glatte Wände … Links ein Felsengang …
 
-»Natürlich ein altes Bergwelt,« meinte Harald …
-»Die Weile, die uns hierher brachten, haben sich die Sache
+»Natürlich ein altes Bergwerk,« meinte Harald …
+»Die Kerle, die uns hierher brachten, haben sich die Sache
 sehr bequem gemacht und uns die Taue nachgeworfen, an
 denen sie uns hinabließen … Nehmen wir uns erst einmal
-diese Taue und die Fußfesseln ab … — — So, und mir
+diese Taue und die Fußfesseln ab … — — So, und nun
 wollen wir das Bergwerk besichtigen … — Hallo, was ist
 denn das?! Hier steht ja ein Weidenkorb mit Lebensmitteln:
-Gebackene Reisfladen, Melonen undd eine Flasche, die
+Gebackene Reisfladen, Melonen und eine Flasche, die
 Trinkwasser enthalten dürfte … Schau’ an, man spendet
 uns Gefangenenkost … Wir sollen also nicht verhungern …
 Immerhin ein neuer Trost …«
 
-Er nahm einen der Netsäsladen …
+Er nahm einen der Reisfladen …
 
 »Essen wir … Ich habe Hunger …«
 
@@ -745,80 +745,79 @@ der Reiskuchen in die Tasche.
 Harst ging voran …
 
 Der Felsengang senkte sich, wurde breiter … Nach
-kaum drei Minuten, nach kaum Panzers Schritt standen
+kaum drei Minuten, nach kaum hundert Schritt standen
 wir am Rande eines unterirdischen Sees,
 
 <@pagebreak/>
-sein ersoffenes Bergwerk also, wie der Fachmann
-Saat,« meinte Harald. »Viel Bewegungsfreiheit haben wir
+»Ein ersoffenes Bergwerk also, wie der Fachmann
+sagt,« meinte Harald. »Viel Bewegungsfreiheit haben wir
 Hier gerade nicht, und unsere Lage erscheint weniger rosig …
-sich fürchte, es wird von hier doch nur den einen Ausschnitt,
+Ich fürchte, es wird von hier doch nur den einen Ausgang,
 eben den Schacht, geben, und der kommt für uns vorläufig
 nicht in Betracht … — Schauen wir uns also hier mal genauer
 um …« …
 
 Wir umschritten diesen breiten Stollen …
 
-glich machte Harald eine jähe Bewegung mit dem
-Mikroskops…
+Plötzlich machte Harald eine jähe Bewegung mit dem
+Kopf …
 
-»Nichts du etwas?«
+»Riechst du etwas?«
 
-vi »Ja —« nichts Angenehmes … Ich finde, es stinkt
-
-hier …
+»Ja — nichts Angenehmes … Ich finde, es stinkt
+hier …«
 
 Wir standen dicht an der Stollenwand, die hier eine
 tiefe Einbuchtung aufwies …
 
 Harald hob die Taschenlampe und leuchtete hinein …
 
-Was wir sahen, war ein Berg menschlichen Unrats …!!
+Was wir sahen, war ein Berg menschlichen Unrats …!
 
 Ich wich vor diesem Gestank zurück. Harst ist weniger
-empfindlich. Er blieb stehen, sah all! das, was vielleicht he?
+empfindlich. Er blieb stehen, sah all das, was vielleicht des
 Bauern Herz erfreut, prüfend an und drehte sich dann langsam
 wieder um, sagte leise:
 
-»Mein Alter, wir sind hier nicht allein … Diese?
+»Mein Alter, wir sind hier nicht allein … Dieses
 Natur-W.-C. beweist, daß hier unten ein Gefangener seit
 vielen Jahren haust … Suchen wir ihn …«
 
 Der Raum, den wir zu durchsuchen hatten, war ja
 nicht allzu groß …
 
-Wir fanden den Gefangenen nicht, aber weitere Spitzen
+Wir fanden den Gefangenen nicht, aber weitere Spuren
 seiner Anwesenheit.
 
 Harald meinte: »Der Mann hält sich verborgen …
-Vielleicht ist er durch daß Wasser gewatet … Mehlschicht hat
+Vielleicht ist er durch das Wasser gewatet … Vielleicht hat
 er dort weiter hinten ein Versteck …«
 
 Und er ging gebückt am Rande des Sees entlang …
 
 Ich schöpfte mit der Hand von dem Wasser … schmeckte
 … spie aus … Es war gallenbitter, ungenießbar …
-ich Harald sagte: »Warte hier … Ich finde den Mann
 
-…«
+Harald sagte: »Warte hier … Ich finde den Mann
+schon …«
 
 <@pagebreak/>
 Und vorsichtig stieg er in das im übrigen ganz klare
 Wasser hinein …
 
 Watete an der rechten Stollenseite dahin, und der Boden
-fiel steil ab, denn schön nach zehn Schritt reichte das
+fiel steil ab, denn schon nach zehn Schritt reichte das
 Wasser Harst bis unter die Arme,
 
 Er nahm die Lampe zwischen die Zähne und
-s4wamm …
+schwamm … —
 
-Es gab da an der linken Stollenseite einen Fels8votr-sprung,
+Es gab da an der linken Stollenseite einen Felsvorsprung,
 und dort verschwand Harst …
 
 Mit einem Male hörte ich ihn sprechen …
 
-Verstehen konnte ich nichts
+Verstehen konnte ich nichts …
 
 Dann eine andere Stimme …
 
@@ -833,49 +832,49 @@ Sie wateten auf mich zu …
 Mit jedem Schritt erkannte ich neue Einzelheiten an
 diesem grauenvoll verwahrlosten Geschöpf …
 
-Tone schwarze Kopfhaar eine lang herabhängende verfilzte
+Das schwarze Kopfhaar eine lang herabhängende verfilzte
 Masse …
 
 Der Bart verfilzt …
 
 Die Augen wie erloschen …
 
-Das Alter diescä& Unglücklichen auch) nur annähernd zu
-schaden war unmöglich … Das Gesicht war greisenhaft,
+Das Alter dieses Unglücklichen auch nur annähernd zu
+schätzen war unmöglich … Das Gesicht war greisenhaft,
 aber die Bewegungen jugendlich …
 
 Nun stand er vor mir …
 
 Harst neben ihm …
 
-»Mein Alter,« sagte Harald aus englisch, und seine
-Stimme vibrierte merklich, »dies hier ist der Zwilling&bru-der
+»Mein Alter,« sagte Harald auf englisch, und seine
+Stimme vibrierte merklich, »dies hier ist der Zwillingsbruder
 des Radscha Mar Shing Chanu namens Mar Shing,
-Dabsal … dies hier ist das ärgste Verbrechen, das je ein
-Mensch begangen, denn ein Brüder hat den anderen hier-verscyviiwrven
-lassen. Vierzehn volle Jahre lebt Dabsal in
+Dabsal … Dies hier ist das ärgste Verbrechen, das je ein
+Mensch begangen, denn ein Brüder hat den anderen hier
+verschwinden lassen. Vierzehn volle Jahre lebt Dabsal in
 diesem Stollen … Mit fünfzehn Jahren trat er die Wallfahrt
-nach dem Ganges an, mit fünfzehn Jahren schon betrat
-der andere Brüder einen so verderbten Charakter, daß
+nach dem Ganges an, mit fünfzehn Jahren schon besaß
+der andere Bruder einen so verderbten Charakter, daß
 <@pagebreak/>
 er Dabsal überfallen und verschwinden ließ, weil dieser als
 Erstgeborener Radscha geworden wäre …«
 
-Ich konnte jenen Blick von diesem Ärmsten ertragen
-— seinen dieser stumpfen Blicke eines halb zum Tier gewordenen
+Ich konnte keinen Blick von diesem Ärmsten ertragen
+— keinen dieser stumpfen Blicke eines halb zum Tier gewordenen
 Menschen …
 
 Ich wandte den Kopf zur Seite … Und fühlte trotzdem
-andauernd diese erloschenen Augen aus mich ausrichtet.
+andauernd diese erloschenen Augen auf mich gerichtet.
 
-Es war entschlich — mehr noch, es war in Wahrheit
+Es war entsetzlich — mehr noch, es war in Wahrheit
 grauenvoll!!
 
-Und doch mußte Ich dieses Opfer eines leibhaftiger
+Und doch mußte Ich dieses Opfer eines leibhaftigen
 Teufels von neuem ansehen, mußte ihm doch durch ein
 paar freundliche Worte mein Mitgefühl ausdrücken und ihm
 Hoffnung machen, daß seine Gefangenschaft nun vielleicht
-halb vorüber ;.,
+bald vorüber …
 
 Ich spürte es geradezu: Der Ärmste wartete darauf!
 
@@ -884,18 +883,19 @@ Gesicht … Und ehrliches Mitleid ließ mich Worte finden,
 die von Herzen kamen und zu Herzen gingen …
 
 Der Bedauernswerte begann zu weinen — wie ein
-und.
+Kind …
 
-»Mut, Dabsal!« sagte Harst da in seiner erreichen Art.
+»Mut, Dabsal!« sagte Harst da in seiner frischen Art.
 »Sie haben hier nun zwei Leidensgefährten, Sie sind nicht
 mehr allein … Sie worden in kurzem wieder ein anderer
-… werden … Kommen Sie, Dabsal …«
+werden … Kommen Sie, Dabsal …«
 
-Und er Fall;in ihn unter den Arm und zog ihn zu der
+Und er nahm ihn unter den Arm und zog ihn zu der
 grottenartigen Einbuchtung der Stollenwand hin … —
+
 Nach einer Stunde hatte er hier Dabsal mit Hilfe seiner
 Messerschere von dem verfilzten Kopf- und Barthaar
-»befreit, hatte ihm die jungen- und Zehennägel lese mitten
+befreit, hatte ihm die Finger- und Zehennägel beschnitten
 und ihm während dieses Samariterwerkes unsere eigenen
 Erlebnisse mit dem Satan von Radscha erzählt …
 
@@ -903,76 +903,73 @@ Wunderbar war’s, wie Dabsal schon in dieser kurzen
 Zeit sich auch in seinem Benehmen veränderte. Harst hatte
 die richtige Art, ihn aufzumuntern. Harst stellte unsere gemeinsame
 Gefangenschaft hier nur mehr als eine Frage der
-
-Zeit bin …
+Zeit hin …
 
 <@pagebreak/>
-»Wir werden un) schon befreien, Dabsal … Schraut
-und ich haben bereite in Kerkern gesessen, die weit schlimmer
-als dieser hier Du.;en … weit schlimmer …«
+»Wir werden uns schon befreien, Dabsal … Schraut
+und ich haben bereits in Kerkern gesessen, die weit schlimmer
+als dieser hier waren weit schlimmer …«
 
-Dabsal meinte Kontakt, — er mußte sehr nachts Worten
+Dabsal meinte zaghaft, — er mußte sehr nach Worten
 suchen, wenn er sich in englischer Sprache mit uns verständigen
 wollte:
 
-»Glauben Sie, Herr Harst, ich habe ’ den endlosen
+»Glauben Sie, Herr Harst, ich habe in den endlosen
 Jahren hier unten wirklich alles versucht — alles, um mich
 zu befreien. Aber es war unmöglich … Der Schacht ist
-der einzige Aussatz und zwanzig Meter roh … sich habe
-Löcher in die Schluchtwand zu meißeln Begonnen, indem ich
-Steine dazu benutzte … Aber oben 7/und ja Wächter, Herr
-Harst … Man entzog mir die Lob.«sinnlos, bis ich diese
-Arbeit ausgab, die ich vielleicht auch Sie vollendet hätte …
-— Jeden Tag einmal schwebt ein gib mit Lebensmitteln
+der einzige Ausgang und zwanzig Meter hoch … Ich habe
+Löcher in die Schluchtwand zu meißeln begonnen, indem ich
+Steine dazu benutzte … Aber oben sind ja Wächter, Herr
+Harst … Man entzog mir die Lebensmittel, bis ich diese
+Arbeit aufgab, die ich vielleicht auch nie vollendet hätte …
+— Jeden Tag einmal schwebt ein Korb mit Lebensmitteln
 an einem Seil herab … Und — doch habe ich in all den
-Jahren niemals einen der wäre,’-r gesehen … Mut dort
-oben ist 28 ja völlig dunkel … — Ohne Licht habe ich hier
-zumeist gehaust … Nur Er, selten warf man mir ein
-paar Reste hinab und ein S /.den glimmende bunte … Ort
-habe ich in der ersten geh’ in Schacht auf den Knien gelegen
-und die unsichtbare« Wärter angeklebt, mich herauszulassen,
-— habe ihnen -»Pritsche Belohnungen versprochen,
-habe gehofft … Schiff … ll
+Jahren niemals einen der Wärter gesehen … Auch dort
+oben ist es ja völlig dunkel … — Ohne Licht habe ich hier
+zumeist gehaust … Nur ganz selten warf man mir ein
+paar Äste hinab und ein Stück einer glimmende Lunte … Oft
+habe ich in der ersten Zeit im Schacht auf den Knien gelegen
+und die unsichtbaren Wärter angefleht, mich herauszulassen,
+— habe ihnen fürstliche Belohnungen versprochen,
+habe gehofft … gehofft …!!«
 
-Er begann von 1.0: 4cm zu schluchzen …
+Er begann von neuem zu schluchzen …
 
-»und — jetzt, leck. kann ich noch gar nicht an das Glück
-glauben, nicht meh’-allein zu sein … leicht … wird mir
-erst klar, wie mich »ich Götter hier in meiner Einsamkeit vor
-dein Wahnsinn Wo &Eübt haben …«
+»und — jetzt, jetzt kann ich noch gar nicht an das Glück
+glauben, nicht mehr allein zu sein … Jetzt … wird mir
+erst klar, wie mich die Götter hier in meiner Einsamkeit vor
+dem Wahnsinn beschützt haben …«
 
-Harald verordne dein Termiten wieder …
+Harald beruhigte den Ärmsten wieder …
 
-dann zog »r seine Jacke aus, ebenso das grobe Leinenhemd,
-reichte »Tricks dem völlig nackten Dabsal und meinte:
+dann zog er seine Jacke aus, ebenso das grobe Leinenhemd,
+reichte dieses dem völlig nackten Dabsal und meinte:
 
-»Da — nehmen Sie 28 … Es ist gleichsam der Beginn
-eines neuen Fässer! Daseins … Legen Sie getrost
-alt, Wohnsaal … Wir genügt die Jacke …«
+»Da — nehmen Sie es … Es ist gleichsam der Beginn
+eines neuen besseren Daseins … Legen Sie getrost
+an, Dabsal … Mir genügt die Jacke …«
 
-Ich holte den Hof« mit den Lebensmitteln. So saßen
+Ich holte den Korb mit den Lebensmitteln. So saßen
 <@pagebreak/>
 wir denn jetzt beim Scheine von Harsts Taschenlampe und
-genossen die erste gemeinsame Kahlheit.
+genossen die erste gemeinsame Mahlzeit.
 
 Meine Uhr zeigte die neunte Stunde …
 
 Neun Uhr abends …
 
-Und nach) der Mahlzeit entfernten wir beide die falschen
+Und nach der Mahlzeit entfernten wir beide die falschen
 Bärte, die Perücken. Ein Bad in dem so überaus natronhaltigen
 Wasser erfrischte uns, machte uns dann aber auch
-so müde, daß wir uns zu dreien aus das Maisstroh ausstreckten
+so müde, daß wir uns zu dreien auf das Maisstroh ausstreckten
 und im Nu eingeschlafen waren …
 
 So begann hier unsere Gefangenschaft …
 
-Diese Gefangenschaft, die nach des Radscha selten
+Diese Gefangenschaft, die nach des Radscha fester
 Überzeugung niemals enden würde, denn sonst hätte er
 uns wohl kaum denselben Kerker zugewiesen wie seinem
 unglücklichen Zwillingsbruder …
-
-« —
 
 <h2>4. Kapitel.</h2>
 
@@ -982,24 +979,24 @@ Richtete mich auf …
 
 Auf dem Steinherd brannte ein Feuer. Neben dem
 Herde hockte Harst mit untergeschlagenen Beinen und hatte
-ein Stück Tau im Schoße, das er vorsichtig ausdrehte …
+ein Stück Tau im Schoße, das er vorsichtig aufdrehte …
 
 Dabsal schlief noch.
 
 »Ja, mein Alter,« sagte Harald leise, »man muß versuchen,
-umgedreht bald hier wegzukommen … Du sicher, ich bereits
-sch’om alles vor. ECZ8 ist jetzt gibt Uhr morgens. uns
-sieben sie;webte der Korb herab, den ich losband und dafür
-»den leeren Korb an der Leine befestigte. Während der
-»Leere Korb emporgezogen wurde, kam mir ein glücklicher Gedanke
+recht bald hier wegzukommen … Du siehst, ich bereite
+schon alles vor. Es ist jetzt acht Uhr morgens. Um
+sieben schwebte der Korb herab, den ich losband und dafür
+den leeren Korb an der Leine befestigte. Während der
+leere Korb emporgezogen wurde, kam mir ein glücklicher Gedanke
 … Und diesen Gedanken setze ich nun in die Tat
-um …
+um …«
 
-Ah erhob mich …
+Ich erhob mich …
 
 Ich war mit einem Schlage munter geworden …
 
-»Du hast eine Idee, wie wir uns befreien können«
+»Du hast eine Idee, wie wir uns befreien können?«
 fragte ich hastig …
 
 <@pagebreak/>
@@ -1008,102 +1005,100 @@ morgen um diese Zeit draußen …«
 
 »Unmöglich!«
 
-»Getraute, durchaus nicht unmöglich. — Höre zu»…
-Heute sieben Uhr, als der Korb herabtkam, konnte ich dort
+»Gestatte, durchaus nicht unmöglich. — Höre zu …
+Heute sieben Uhr, als der Korb herabkam, konnte ich dort
 oben am Schachtloche, das fraglos in einer Höhle liegt, doch
-einen ganz [Schwächen Lichtschimmer wahrnehmen und so
+einen ganz schwachen Lichtschimmer wahrnehmen und so
 auch einen Mann erkennen, einen einzelnen Mann, natürlich
 nur als Schatten … Ich merkte, daß die Leine oben irgendwo
-festgebunden war … Der rann ließ sie nur lose durch
+festgebunden war … Der Mann ließ sie nur lose durch
 die Finger gleiten, damit wir ihn nicht etwa durch einen
-plötzlichen Ruck hier hinabbeförderten … Dicke Leine ist
+plötzlichen Ruck hier hinabbeförderten … Die Leine ist
 fingerdick und dürfte mich schon tragen. Man könnte also,
 da wir unsere Pistolen haben, den Kerl oben niederzuknallen
 versuchen, was jedoch an seiner Vorsicht scheitern würde,
-dann aus an dem umschwirren Ziel, denn der kurze ist
-sehr vorsichtig, weiß ja auch), daß man uns wie zum Hohn
+dann auch an dem ungewissen Ziel, denn der Bursche ist
+sehr vorsichtig, weiß ja auch, daß man uns wie zum Hohn
 die Pistolen belassen hat. — Nein, mit einem Schuß hier
-von unten ist ihm nicht beizukommen, Nur auf andere
-
-Freie …«
+von unten ist ihm nicht beizukommen. Nur auf andere
+Weise …«
 
 Harald blinzelte mich vergnügt an …
 
 »Ja, mein Alter, auf eine andere Art … Durch eine
 Kugel von oben, aus gleicher Höhe …«
 
-»»Hm — da müßte gerade einer von uns an der glatten
+»Hm — da müßte gerade einer von uns an der glatten
 Schluchtwand wie eine Spinne nach oben krabbeln können,«
 ging ich auf Haralds launigen Ton ein. »Und da diese
-Fahrtziel uns fehlt, da nur Fliegen, Spinnen und so weiter
-Saugdriüiion an ihren zahlreichen Pedalen haben, die,
-ihnen gestattet, Kopf naß unten an der Zimmerdecke ent-sangzulaujen,
-so …«
+Fähigkeit uns fehlt, da nur Fliegen, Spinnen und so weiter
+Saugdrüsen an ihren zahlreichen Pedalen haben, die
+ihnen gestatten, Kopf nach unten an der Zimmerdecke
+entlangzulaufen, so …«
 
-… so muß man mithin etwas ersinnen, das die Spinnenbeine
-Brief …«
+»… so muß man mithin etwas ersinnen, das die Spinnenbeine
+ersetzt …«
 
-» -. Worauf ich außerordentlich gespannt bin …
+»… worauf ich außerordentlich gespannt bin …«
 
-»… Mit Recht — — gespannt, denn wir müssen tatsächlich
-etwas spannen, nämlich dünne Schnüre, und des-vfb
-bin ich gerade Dabei, das eine Tau in seine dastand«-
+»… mit Recht — — gespannt, denn wir müssen tatsächlich
+etwas spannen, nämlich dünne Schnüre, und deshalb
+bin ich gerade Dabei, das eine Tau in seine Bestandteile
 <@pagebreak/>
-teile zu zerlegen, wobei du mir nachher helfen kannst …
+zu zerlegen, wobei du mir nachher helfen kannst …
 — Bitte, wirf mal erst neue Stücke Holz in das Feuer …
 Der Wächter war heute in Gebelaune und hat eine ganze
-Masse Brennmaterial gespendet … Tor! liegt es …
-Wahrscheinlich will der Schuft, daß mir inne Dabsal recht
+Masse Brennmaterial gespendet … Dort liegt es …
+Wahrscheinlich will der Schuft, daß wir uns Dabsal recht
 genau bei hellstem Lichte ansehen und merken, wie wir
 nach vierzehn Jahren Gefangenschaft ausschauen werden,
-—»- Er wird sich wundern!«
+— Er wird sich wundern!«
 
 Ich versorgte den Herd mit Aststücken, und dann fragte
-ich: »Wo und wie gedenkst du denn diese Schnürte zu spannen,
-Harald? bisher sind deine Erklärungen ziemlich und
+ich: »Wo und wie gedenkst du denn diese Schnüre zu spannen,
+Harald? bisher sind deine Erklärungen ziemlich unklar
+…«
 
-an …
-
-»O — gedulde dich nur, bis auch Dabsal ausmacht …
-Ich möchte meine Ersinvderidee nicht zweimal wiederkäuen.
-…- du kannst ja jetzt dein Morgenbad nehmen, und dich
+»O — gedulde dich nur, bis auch Dabsal aufwacht …
+Ich möchte meine Erfinderidee nicht zweimal wiederkäuen.
+… Du kannst ja jetzt dein Morgenbad nehmen, und dich
 so abermals überzeugen, daß unser Kerker durchaus komfortabel
-ist: Mineralbad, gut geröstetes W.-C — —
+ist: Mineralbad, gut gelüftetes W.-C. — —
 etcetera!!«
 
 Ich badete, schwamm ein wenig umher und … kam
-plötzlich auf den zernagten, dies unterirdische Gewässer
-vollends zu durchqueren, holte die Fackel, ruderte nur Mist
-dem rechten Arm und wagte mich bis in den äd’ßersten
+plötzlich auf den Gedanken, dies unterirdische Gewässer
+vollends zu durchqueren, holte die Fackel, ruderte nur mit
+dem rechten Arm und wagte mich bis in den äußersten
 Winkel dieses vielleicht hundert Meter langen unterirdischen
 Sees — bis dorthin, wo die Stollendecke mit dem Wasserspiegel
 zusammenstieß und mir Halt gebot.
 
-Hier fand ich nun zu meiner Uerverraschung unter
-Steinschutt halb vergraben einen dicken Balken. der fraglos
-einst in dem Jetzt erhaltenen Bergwerk zum Abstüben des
+Hier fand ich nun zu meiner Überraschung unter
+Steinschutt halb vergraben einen dicken Balken, der fraglos
+einst in dem Jetzt ersoffenen Bergwerk zum Abstützen des
 Gesteins benutzt worden war.
 
 Mit kindlicher Freude schob ich den etwa vier Meter
 langen Balken ins Wasser und brachte ihn ans andere Ufer,
-trocknete mich) mit meiner Jacke ab und fühlte auf der Garten
+trocknete mich mit meiner Jacke ab und fühlte auf der ganzen
 Haut das angenehme Prickeln nach diesem etwas ausgedehnten
 Morgenbade,
 
 Als ich unsere Wohngrotte wieder betrat, war auch
 Dabsal bereits munter geworden und kaute an einem der
 <@pagebreak/>
-Maiskuchen, die übrigens, da nur in der Asche geboren,
-keineswegs nach Kuchen schwebten.
+Maiskuchen, die übrigens, da nur in der Asche gebacken,
+keineswegs nach Kuchen schmeckten.
 
 Ich nahm neben Harald und Dabsal Platz, und nun
 kam der große Moment, wo Harald uns beiden seine glorreiche
-Idee erwiderte …
+Idee entwickelte …
 
 »Die Sache ist sehr einfach,« begann er. »Wir brauchen
-drei dünne Schritte, die so lang sind wie das Seil, an dem
-der Freßsack hinabgelassen wird. In dem leeren Korb, den
-der Wächter emporzieht, beseitigen wir vorher eine unserer
+drei dünne Schnüre, die so lang sind wie das Seil, an dem
+der Freßkorb hinabgelassen wird. In dem leeren Korb, den
+der Wächter emporzieht, befestigen wir vorher eine unserer
 Pistolen. An den Abzug der Pistole binden wir die eine
 dünne Schnur. Die beiden anderen an den Korb, damit dieser
 seine Lage nicht verändern kann. Diese Lage muß so
@@ -1113,7 +1108,7 @@ Schachtes hockt. Der Wächter nimmt, wie ich heute beobachtete,
 den Korb am Bügel. Dabei richtet er sich etwas auf.
 In diesem Moment muß der Schuß losgehen, das heißt,
 an der Schnur gezogen werden, die den Abzug betätigen
-so!. Wenn wir uns nur einigermaßen geschickt zeigen,
+soll. Wenn wir uns nur einigermaßen geschickt zeigen,
 muß die Kugel treffen. trifft die erste nicht, braucht man
 nur nochmals an der Schnur zu rücken, da die Clement als
 Repetierwaffen sich selbsttätig laden … — Die Hauptschwierigkeit
@@ -1127,50 +1122,51 @@ nur zustimmend …
 
 Ich hatte meine Bedenken, die Harald jedoch sehr bald
 zerstreute, indem er erklärte, wir könnten ja hier im Stollen
-die Sache vorher probieren.!
+die Sache vorher probieren.
 
-Und das taten wir denn auch, natürlich ohne eine
+Und das taten wir denn auch, natürlich ohne einen
 Schuß abzugeben. Bei diesen Proben mit der »Höllenmaschine«
 kam uns der Balken sehr zustatten, weil er es
-uns ermöglichte, an der Stollendecke ein Tau zu beseitigen
-und so diese Versuche ganz sabaemäß durchzuführen.
+uns ermöglichte, an der Stollendecke ein Tau zu befestigen
+und so diese Versuche ganz sachgemäß durchzuführen.
 
 <@pagebreak/>
 Dabsal und ich waren jetzt begeistert … Wir erkannten
 daß der Wächter dort oben, wenn wir nicht gerade
 einen Fehler machten, unbedingt geliefert war …
 
-Gras der Schuß, so wollte Harald sofort an »dem hell
+Traf der Schuß, so wollte Harald sofort an dem Seil
 emporklimmen und mit seiner Clement uns freie Bahn
-schaffen, sollte eben noch mehr Gegner sich zeigen sollten.
+schaffen, falls eben noch mehr Gegner sich zeigen sollten.
 
 Kein Wunder, daß wir unter diesen Umständen den
 nächsten Morgen voller Ungeduld erwarteten und bereits
 um sechs Uhr früh den leeren Korb vollkommen »präpariert«
-hatten und unten im Schacht auf den Wächter Lauer
+hatten und unten im Schacht auf den Wächter Lauerten
+…
 
-ten …
 Es wurde sieben Uhr …
 
 halb acht …
-eine Seele zeigte sich …
+
+Keine Seele zeigte sich …
 
 Es wurde acht, halb neun …
 
-Wir siebenten … Ich fluchte leise …
+Wir fieberten … Ich fluchte leise …
 
-Es wurde
+Es wurde zehn …
 
 Dabsal betonte, daß der Eßkorb bisher stets etwa um
-dieselbe Zeit herabgelassen worden sei
+dieselbe Zeit herabgelassen worden sei …
 
-Und daß beunruhigte uns noch mehr …
+Und das beunruhigte uns noch mehr …
 
 Wir warteten bis zwölf Uhr …
 
-Noch immer nichts
+Noch immer nichts …
 
-Wir waren hungrig, ’venn die Verpflegung war nicht
+Wir waren hungrig, denn die Verpflegung war nicht
 gerade reichlich …
 
 was in aller Welt konnte geschehen sein, daß der Wächter
@@ -1182,9 +1178,8 @@ engelhafte Geduld,
 Um ein Uhr mittags erklärte Harald, daß wir uns nun
 hier unterhalb des Schachtes ablösen wollten …
 
-»Es hat keinen Zweck, blaß wir alle drei hier stehen …
+»Es hat keinen Zweck, daß wir alle drei hier stehen …
 Ich bleibe hier. Schraut löst mich nach zwei Stunden ab.
-
 kommt der Wächter, so rufe ich.«
 
 Dabsal und ich kehrten in unsere Wohngrotte zurück.
@@ -1194,13 +1189,13 @@ Feuerzeug, und sehr bald flackerte wieder rötliche Glut auf
 dem primitiven Herde, so daß wir unsere Taschenlampen
 schonen konnten.
 
-Wir warten uns müde, hungrig u und verärgert auf das
-Strohlager. Schwiegen … lassen …
+Wir warfen uns müde, hungrig und verärgert auf das
+Strohlager. Schwiegen … hofften …
 
 Nichts geschah …
 
-Ich lag aus den linken Arm gestützt da und starrte vor
-Kranich hin …
+Ich lag auf den linken Arm gestützt da und starrte vor
+mich hin …
 
 Und vor mir lag der Balken …
 
@@ -1208,12 +1203,12 @@ Meine Gedanken umspielten diesen Balken …
 
 Wenn wir zwei Balken hätten, dachte ich, könnte man
 aus dem Schachte heraus. Der war ja kaum drei Meter
-im Geviert. Dann könnte man einen Balken in Mannshohe
+im Geviert. Dann könnte man einen Balken in Mannshöhe
 festkeilen … Dann könnte man von diesem Balken
-aufs den Garten wieder ein Stück höher festkeilen — und
+aus den zweiten wieder ein Stück höher festkeilen — und
 so fort …«
 
-und — — dieser Gedanke ließ mir keine Ruhe …
+und — dieser Gedanke ließ mir keine Ruhe …
 
 Ich stand auf, nahm ein brennendes Scheit vom Herde
 und sagte zu Dabsal:
@@ -1227,7 +1222,7 @@ Schwamm hinüber …
 
 Und lebte schon in der Vorfreude, daß ich wirklich das
 Glück haben würde, einen zweiten Balken unter dem Schutt
-hervorzuholen und daß wir dann die Flucht auf meine
+hervorzuholen und daß wir dann die Flucht auf *meine*
 Art erzwingen könnten …
 
 Man soll sich jedoch niemals auf etwas freuen, das
@@ -1240,8 +1235,8 @@ meiner ersten erfolgreichen Schwimmtour her.
 
 Enttäuscht, müde und niedergeschlagen kehrte ich um,
 kleidete mich wieder an und sah in der Wohngrotte Harald
-sicher, mit einem aus Bast Sessel;denen Beutel in der Hand,
-dem sich … die Lebens&mittel befanden.
+stehen, mit einem aus Bast geflochtenen Beutel in der Hand,
+in dem sich … die Lebensmittel befanden.
 
 <@pagebreak/>
 Er sagte achselzuckend: »Der Beutel kam soeben herabgeschwebt.
@@ -1260,13 +1255,11 @@ Dabsal meinte schüchtern: »Nun ist’s nichts mit Ihrem
 Plane, Herr Harst … Denn anscheinend werden die Lebensmittel
 jetzt immer in Beuteln uns geliefert werden.«
 
-Scheint [o, Dabsal … Und Harald sagte dies in
-ziemlich hoffnungslosen Tone.
+»Scheint so, Dabsal …« Und Harald sagte dies in
+ziemlich hoffnungslosem Tone.
 
 Unsere siegesgewisse Stimmung war tiefster Niedergeschlagenheit
 gewichen …
-
-erster
 
 <h2>5. Kapitel.</h2>
 
@@ -1276,9 +1269,9 @@ Und nur um dieses drückende Schweigen zu beseitigen,
 erzählte ich, mit welchen Erwartungen ich vorhin den See
 zum zweiten Male schwimmend durchquert hatte …
 
-Erwälmnte dabei auch so ganz nebenbei, daß ich eigentlich
+Erwähnte dabei auch so ganz nebenbei, daß ich eigentlich
 doch etwas gefunden hätte: Den nassen Abdruck meines
-Fußes aus dem großen flachen Stein …!
+Fußes auf dem großen flachen Stein …!
 
 Es sollte dies einen Scherz darstellen …
 
@@ -1297,16 +1290,17 @@ Zigaretten …
 
 Unsere Ideen litten sämtlich an einem einzigen Fehler:
 <@pagebreak/>
-Bei näherer Prüfung stellten sie sich als undurchführbar her
+Bei näherer Prüfung stellten sie sich als undurchführbar
+heraus!
 
-Und — was für Ideen waren das, « »Meine Phantasie
+Und — was für Ideen waren das …!! Meine Phantasie
 ging mit mir durch … Zum Beispiel wollte ich den
-Ballen der Länge nach ausspähten … Dann hatten wir
-zur
+Balken der Länge nach aufspalten … Dann hatten wir
+zwei …
 
-Harald meinte traten:
+Harald meinte trocken:
 
-Mit unseren Taschenmessern ausspähten!!«
+»Mit unseren Taschenmessern aufspalten!!«
 
 Das war ein Dämpfer … —
 
@@ -1318,25 +1312,28 @@ Dunkelheit … Stille …
 
 Ich konnte nicht einschlafen …
 
-S4 überlegte, was aus uns werden sollte, wenn eine
+Ich überlegte, was aus uns werden sollte, wenn eine
 Flucht unmöglich … Dann würden Harst und Schraut für
 immer verschwunden bleiben … Dann würde der Radscha
 in aller Ruhe als »Zwillingsbruder« wieder in Pudukattai
-einziehen und wir würden hier langsam … verrückt wer
+einziehen und wir würden hier langsam … verrückt werden
+…
 
-Nur
 Da — berührte jemand meinen Arm …
+
 »Schraut!«
 
-»Harald?!
+»Harald?!«
 
 »Deine Suche nach dem zweiten Balken bringt uns die
-Freiheit …
+Freiheit …«
 
-»Wie »meinst du das?«
+»Wie meinst du das?«
+
 »Lieber Alter, wir sind eben belauscht worden, als wir
-die Idee mit der Korb-Höllenmaschine besprachen …
-Belauscht!«
+die Idee mit der Korb-Höllenmaschine besprachen …«
+
+»Belauscht?!«
 
 »Ja doch … Denke gefälligst an die nasse Spur auf
 dem Steine …«
@@ -1344,8 +1341,8 @@ dem Steine …«
 »Hm — ich verstehe noch immer nicht …«
 
 »Aber, aber!! Als du zum ersten Male dorthin
-sHchwammst und mit deinem Fuße den Stein betrachtetest,
-als du den Balken handelt, -«- wann war das?«
+schwammst und mit deinem Fuße den Stein betrachtetest,
+als du den Balken fandst, — wann war das?«
 
 »Gestern morgen …«
 
@@ -1357,40 +1354,44 @@ hättest heute davon nichts mehr sehen dürfen, wenn eben
 nicht … jemand anders dort gewesen wäre und gleichfalls
 mit der nassen Sohle den Stein benetzt hätte …«
 
-Ah — nun begann ich zu begleiten …
-… »Wir sind belauscht worden,« flüsterte ich, »und deshalb
-»hat man den Beutel hinabgelassen und den Korb nicht
+Ah — nun begann ich zu begreifen …
+
+»Wir sind belauscht worden,« flüsterte ich, »und deshalb
+hat man den Beutel hinabgelassen und den Korb nicht
 hochgezogen … Und dieser Lauscher …«
 
-kam Über den kleinen See geschwommen … kam
-
+»… kam Über den kleinen See geschwommen … kam
 von jener Stelle, wo die Stollendecke vom Wasser bespült
 wird … — Wir werden noch zwei Stunden warten …
 Dann entkleiden wir uns hier im Dunkeln, schleichen zum
 See und schwimmen hinüber, nehmen die Taschenlampen
-»und die Pistolen mit und werden herausfinden, wie der
+und die Pistolen mit und werden herausfinden, wie der
 Lauscher hier in den Stollen gelangte … Ich nehme an,
-es wird dort im äußersten Winkel durch Tauchen möglich)
-sein, einen wasserfreien Stollen zu erreichen … Ja) nehme
+es wird dort im äußersten Winkel durch Tauchen möglich
+sein, einen wasserfreien Stollen zu erreichen … Ich nehme
 dies sogar mit aller Bestimmtheit an … — Warten wir …
-Zwei Stunden … Dann ist 8 Mitternacht … Dann Perfiden
-die Wächter schlafen
-Und die Zeit schlich. »bis Harst flüsterte:
+Zwei Stunden … Dann ist es Mitternacht … Dann werden
+die Wächter schlafen …«
+
+Und die Zeit schlich. bis Harst flüsterte:
+
 »Es wird Zeit …«
-Wir erhoben uns
-— Warten die Kleider ab … Banden uns die Hosen als
+
+Wir erhoben uns …
+
+Warfen die Kleider ab … Banden uns die Hosen als
 Turbane um den Kopf und verwahrten dort Taschenlampe
 und Pistole …
-Schlichen zum Ufer — in dessen Finsternis, Lautlos
-[wiegen wir in das Mineralbad … Lautlos schwammen
+
+Schlichen zum Ufer — in tiefster Finsternis. Lautlos
+stiegen wir in das Mineralbad … Lautlos schwammen
 wir, vermieden jedes Plätschern … Die ungefähre Richtung
 kannten wir …
 
 Dann fand ich mit den Füßen Grund … Das war
-»der Schuttberg … rechts davon ragte der Stein aus dem
-»Wasser … Und Jenseits des Steines berührte die Wasser
-
-iobersläche die Decke der weit schmaleren Fortsetzung des
+der Schuttberg … rechts davon ragte der Stein aus dem
+Wasser … Und jenseits des Steines berührte die Wasseroberfläche
+die Decke der weit schmaleren Fortsetzung des
 Stollens … —
 
 <@pagebreak/>
@@ -1399,9 +1400,8 @@ Harald stand neben mir …
 »Warte …!«
 
 Und er drückte mir seinen Turban in die Hand; seine
-Pistole nahm er mit. Die Taschenlampe blieb im Turm
-
-an …
+Pistole nahm er mit. Die Taschenlampe blieb im Turban
+…
 
 Dunkelheit … Ich zählte bis fünfhundert …
 
@@ -1415,7 +1415,7 @@ Ich schaltete meine Taschenlampe ein …
 
 Harald hing das nasse Haar ins Gesicht …
 
-»Tote Dabsal, mein Alter …«
+»Hole Dabsal, mein Alter …«
 
 Er nahm mir den Hosenturban ab …
 
@@ -1425,47 +1425,47 @@ Ich schwamm schon …
 
 Dabsal war im Nu munter …
 
-Dann standen wir drei neben dem Steine»…
+Dann standen wir drei neben dem Steine …
 
-Harald erklärte: »Dort muß man tauchen … Dort«.«
+Harald erklärte: »Dort muß man tauchen … Dort …
 Zwei Meter unter Wasser, und die Stollendecke hat ein
 Loch … Dort ist eine Leiter … — Geben wir uns die
-Hand … acht tauche voran … Es ist keine Gefahr dabei
+Hand … Ich tauche voran … Es ist keine Gefahr dabei
 …«
 
 Wir erreichten die Leiter. Zum Glück hatte die Nässe
-den Taschenlampen nicht geschadet. Rad dem wir die Batterien
+den Taschenlampen nicht geschadet. Nachdem wir die Batterien
 ein wenig hin und her geschwenkt hatten, funktionierten
 sie wieder …
 
 Die Leiter führte in einem Schacht nach oben … Der
-Schacht endete in einer natürlim’en Höhle … Zwanzig
-Meter nach) Süden zu fanden … wir »unseren« Schacht …
+Schacht endete in einer natürlichen Höhle … Zwanzig
+Meter nach Süden zu fanden wir »unseren« Schacht …
 Und — neben diesem lag ein Inder, ein älterer Mann,
 und … schlief…
 
 Sein Erwachen war wenig freudig … Wir packten
-nicht gerade sonst zu … Der Mann war vor Schreck halbtot
+nicht gerade sanft zu … Der Mann war vor Schreck halbtot
 …
 
 Dabsal blieb bei dem Gefesselten und Geknebelten zurück.
 Harst und ich umschritten noch eine Biegung der
 <@pagebreak/>
 Höhle und sahen dann das Dämmerlicht der Tropennacht
-durch einen breiten Eingang herein schimmern …
+durch einen breiten Eingang hereinschimmern …
 
 Vor uns eine Bergterrasse, bewaldet und buschreich …
 Am Waldsaum eine größere Hütte aus Steinen, daneben
 ein Stall und eine Umzäunung, in der Ziegen im hohen
-Grase wiederkäuend ruhten und zuweilen verschlossen.
-moderten …
+Grase wiederkäuend ruhten und zuweilen verschlafen
+meckerten …
 
-ab Wir hatten uns dem Gehöft bis auf zehn Meter gae-nähert
+Wir hatten uns dem Gehöft bis auf zehn Meter genähert
 …
 
 »Kehrt!« befahl Harald. »Es ist besser, wir warten in
 der Höhle … Der Kerl, den wir gefesselt haben, wird
-sicher abgelöst werden … Und am Morgen greisen wir
+sicher abgelöst werden … Und am Morgen greifen wir
 uns die anderen …«
 
 So legten wir uns denn am Höhleneingang auf die
@@ -1496,8 +1496,8 @@ Ein kleiner Flur … rechts und links je eine Tür …
 Im Nu sind wir drinnen …
 
 Stuben … — Unsere Taschenlampen enthüllen alle
-Einzelheiten eines modern, elegant eingerichteten Damenschlafzimmers
-…
+Einzelheiten eines modern, elegant eingerichteten
+Damenschlafzimmers …
 
 Mit gelber Seide bespannte Wände … Kostbare Teppiche
 … Ein Bett mit einem Betthimmel …
@@ -1507,19 +1507,21 @@ Europäerin auf …
 
 <@pagebreak/>
 Schlaftrunken … im weißseidenen Schlafanzug …
+
 Ein Gesicht von bezauberndem Liebreiz …
 
 Und — — die Blonde gähnt … fragt müde:
 
-»sei’s denn schon Morgen, Garondak«
+»Ist’s denn schon Morgen, Garonda?«
 
-Blinzelt in das grelle Licht der Taschenlampen sind
+Blinzelt in das grelle Licht der Taschenlampen hinein
+…
 
-Aber — jetzt hatte diese häßlichste aller Bergblumen der
-Bassin-Hills sich so weit ermuntert, daß ich ihr ein wenig
+Aber — jetzt hatte diese köstlichste aller Bergblumen der
+Palni-Hills sich so weit ermuntert, daß ich ihr ein wenig
 verdächtig vorkam …
 
-»Wer sind Sie?k! Was wollen Sie?!« rief sie —
+»Wer sind Sie?! Was wollen Sie?!« rief sie —
 jedoch ohne alle Angst …
 
 Dann war sie mit einem Satz aus dem Bett …
@@ -1527,15 +1529,14 @@ Dann war sie mit einem Satz aus dem Bett …
 War dicht vor mir …
 
 »Sind Sie wirklich ein Europäer?!« — und plötzlich
-lag sie vor mir aus den Knien …
+lag sie vor mir auf den Knien …
 
-»Retten Sie mich — — befreien Sie mich!! Ich Diebe
-Sie an …!! Retten Sie mich …
+»Retten Sie mich — — befreien Sie mich!! Ich flehe
+Sie an …!! Retten Sie mich …«
 
-Ihre Stimme erstickte in jäh Hervorbrechenden Tränen.
-Zäh Es je
+Ihre Stimme erstickte in jäh hervorbrechenden Tränen.
 
-Das Mädchen ohne Namen.
+<h1>Das Mädchen ohne Namen.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1557,7 +1558,7 @@ verträumten Lächeln:
 
 ein …
 
-<@pagebreak/>
+<@pagebreak 33/>
 Jahren werde, wer meine Eltern waren, wie im in Bahnhof
 heiße?! Denn der Name, den mir meine Wächter her
 zugelegt hatten — Amira —, ist doch niemals der, aus
@@ -2198,7 +2199,7 @@ Und ich halte es für richtiger, ihn durch ein Gespräch
 von seinen Grübeleien abzulenken, sonst … wird er womöglich
 noch anzüglihbert Ich beginne von Dabsals Genesung
 <@pagebreak/>
-zu sprechen, die tadellos sortshreitet … Davon,
+zu sprechen, die tadellos fortschreitet … Davon,
 daß der Professor Bergluft verordnet hat und daß vielleicht
 schon morgen der neue Radscha das Jagdschloß in den
 
@@ -2517,7 +2518,7 @@ doch — — ich will Über diese schätzungsweise vierzig
 Grad nicht schmalen!
 
 Nein, ich will sie sogar mit freundlichen Worten preisen,
-denn ohne diese Shwitzkur hätte ich niemals den Ruhm
+denn ohne diese Schwitzkur hätte ich niemals den Ruhm
 einheimsen können, Harald übertrumpft zu haben!
 
 Und das kam so, lieber Leser …
@@ -2646,7 +2647,7 @@ rechtzeitig verriet:n. Der Wild ist nämlich der, daß das
 Ganze nur scheinbar Batterien sind, in Wirklichkeit lediglich
 ein elektrischer Kontakt, der eine anderswo angebrachte
 Glocke anschlagen läßt … Wer von Ihnen die aus dem
-Kästen heratu8ragenden scheinbaren Battericpole berührt
+Kästen heratu8ragenden scheinbaren Batteriepole berührt
 Hat, weiß ich nicht. Es ist das ja auch gleichgültig. Dieses
 geritten hat genügt, Sie beide mir in die Hände zu spielen
 …
