@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">9e76cc01-f6ad-4358-bb04-22affea49954</entry>
+<entry key="title">Der tote Radscha</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">170</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der tote Radscha
+
+Ich selbst war mit dieser überstürzten Abreise durchaus nicht einverstanden, denn wir hatten der feierlichen Verbrennung des Fürsten beiwohnen wollen, um wieder einmal ein echt indisches Schauspiel mitzuerleben.
+
+Daraus wurde nun nichts …
+
+Und das ärgerte mich …
+
+Der Ärger verflüchtigte sich jedoch schnell, als der Frachtkutter kaum eine halbe Stunde unterwegs war, denn da … sagte Harst ganz unvermittelt zu dem Käpten und zu mir:
+
+»Jetzt sind wir endlich die Aufpasser los … Das Boot ist umgekehrt …«
+
+Das Mädchen ohne Namen.
+
+Das Mädchen ohne Namen füllte uns die Teebecher aus der dampfenden Teemaschine und fragte mit ihrem verträumten Lächeln:
+
+»Glauben Sie wirklich, Herr Harst, daß ich jemals erfahren werde, wer meine Eltern waren, wie ich in Wahrheit heiße?! Denn der Name, den mir meine Wächter hier zugelegt hatten — Amira —, ist doch niemals der, auf den ich Anspruch habe …«
+
+Harald nickte ihr freundlich zu …
+
+»Nur Geduld … Es kommt alles an den Tag — — alles … — Frühstücken wir jetzt … Halten wir uns nicht zu lange auf …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (170) Der tote Radscha.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
