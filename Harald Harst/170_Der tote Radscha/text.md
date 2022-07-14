@@ -28,19 +28,19 @@ O’Kelling begleiten würden …
 Die Familie Jallahay wollte uns natürlich nicht ziehen
 lassen und versuchte alles Mögliche, diese plötzliche Abreise
 zu hintertreiben. Die braven Menschen waren geradezu
-untröstlich, als Harald bei seinem Entschluß beharrte,
+untröstlich, als Harald bei seinem Entschluß beharrte.
 
 Um halb zehn gab es einen rührenden Abschied, und
 dann brachte uns ein Boot samt unseren Koffern an Bord
 der »Lady Hamilton«, wo O’Kelling in der Heckkajüte zu
 unserem Empfang bereits eine neue Flasche Whisky entkorkt
-hatte, —
+hatte. —
 
 <@pagebreak/>
 Ich selbst war mit dieser überstürzten Abreise durchaus
 nicht einverstanden, denn wir hatten der feierlichen Verbrennung
 des Fürsten beiwohnen wollen, um wieder einmal
-ein echt indisches Schauspiel mitzuerleben,
+ein echt indisches Schauspiel mitzuerleben.
 
 Daraus wurde nun nichts …
 
@@ -88,7 +88,7 @@ verabschiedeten!
 <@pagebreak/>
 Und — so war’s auch …
 
-denn Harald fügte hinzu: »Es muß wohl einen sehr
+Denn Harald fügte hinzu: »Es muß wohl einen sehr
 triftigen Grund haben, wenn man uns beide, mein Alter,
 sechs Tage lang unausgesetzt unter strengster Aufsicht hält …
 Dieser Aufsicht konnten wir nur entgehen wenn wir unsere
@@ -133,13 +133,13 @@ gegen zwölf Uhr in aller Stille in den Flußarm hinein,
 legte den Kutter neben die völlig verfallene Wasserterrasse
 der einstigen Burg und half uns, mit unseren Koffern in
 dieser Wildnis von Mauerresten, Dornen und Gestrüpp zu
-verschwinden,
+verschwinden.
 
 Um ein Uhr morgens hatten wir beide dann in einem
 Winkel der ausgedehnten Kellergewölbe Quartier bezogen,
 hatten von dem Käpten beinahe tränenreichen Abschied genommen
 und streckten uns nun neben unseren Koffern zu
-kurzem Schlafe hin,
+kurzem Schlafe hin.
 
 Um sechs Uhr weckte Harald mich. Wir frühstückten
 schnell, und dann begannen wir mit der Toilette, verbargen
@@ -170,7 +170,7 @@ der feierlichen Verbrennung des Radschas beiwohnen. Nur
 der Parse erklärte kühl, er habe Geschäfte in der Stadt. Ihm
 <@pagebreak/>
 als Andersgläubigem war dieses Schauspiel lediglich ein
-Greuel, wie er uns zu verstehen gab,
+Greuel, wie er uns zu verstehen gab.
 
 So gelangten wir denn gegen halb acht nach Pudukattai
 hinein, bedankten uns bei dem Parsen und wanderten
@@ -197,7 +197,7 @@ schätzt … Du wirst uns helfen …«
 
 Der Alte starrte uns an …
 
-»Sahib Harst …?!« rief er dann leise. »ich denke,
+»Sahib Harst …?!« rief er dann leise. »Ich denke,
 ihr seid abgereist …«
 
 »Du siehst, wir sind wieder hier, doch darf davon niemand
@@ -370,7 +370,7 @@ das bunte Gewoge.
 
 Er ruderte … Und ließ den Nachen dicht am Ufer dahinstreichen,
 vorüber an der weißen Marmoreinfassung,
-denn dieser ganze Übrige Teil der Ufer nach Norden zu gehörte
+denn dieser ganze übrige Teil der Ufer nach Norden zu gehörte
 mit zum fürstlichen Park …
 
 Und wir landeten an der Rückfront an der Wassertreppe
@@ -467,7 +467,7 @@ Sie haben sich täuschen lassen … Meine Spione waren
 stets hinter Ihnen, auch heute … Ich ahnte, was Sie
 ahnten …«
 
-dann deutet er auf die Klubsessel am Mitteltisch …
+Dann deutet er auf die Klubsessel am Mitteltisch …
 »Nehmen Sie Platz, meine Herren … Wir wollen ein
 wenig miteinander plaudern …«
 
@@ -571,7 +571,7 @@ nicht den Reiz der Überraschung rauben …«
 Jetzt enthüllte er seine wahre Seele … Jetzt kam das
 Satanische seines Charakters zum Durchbruch …
 
-»und um auch das gleich zu erledigen,« fuhr er fort …
+»Und um auch das gleich zu erledigen,« fuhr er fort …
 »denn — wir dürften uns kaum wiedersehen … Ich hatte
 einen Zwillingsbruder, meine Herren, der mit fünfzehn
 Jahren zum heiligen Ganges wallfahrte und … nicht zurückkehrte.
@@ -748,12 +748,12 @@ Harst ging voran …
 
 Der Felsengang senkte sich, wurde breiter … Nach
 kaum drei Minuten, nach kaum hundert Schritt standen
-wir am Rande eines unterirdischen Sees,
+wir am Rande eines unterirdischen Sees.
 
 <@pagebreak/>
 »Ein ersoffenes Bergwerk also, wie der Fachmann
 sagt,« meinte Harald. »Viel Bewegungsfreiheit haben wir
-Hier gerade nicht, und unsere Lage erscheint weniger rosig …
+hier gerade nicht, und unsere Lage erscheint weniger rosig …
 Ich fürchte, es wird von hier doch nur den einen Ausgang,
 eben den Schacht, geben, und der kommt für uns vorläufig
 nicht in Betracht … — Schauen wir uns also hier mal genauer
@@ -809,7 +809,7 @@ Wasser hinein …
 
 Watete an der rechten Stollenseite dahin, und der Boden
 fiel steil ab, denn schon nach zehn Schritt reichte das
-Wasser Harst bis unter die Arme,
+Wasser Harst bis unter die Arme.
 
 Er nahm die Lampe zwischen die Zähne und
 schwamm … —
@@ -872,7 +872,7 @@ andauernd diese erloschenen Augen auf mich gerichtet.
 Es war entsetzlich — mehr noch, es war in Wahrheit
 grauenvoll!!
 
-Und doch mußte Ich dieses Opfer eines leibhaftigen
+Und doch mußte ich dieses Opfer eines leibhaftigen
 Teufels von neuem ansehen, mußte ihm doch durch ein
 paar freundliche Worte mein Mitgefühl ausdrücken und ihm
 Hoffnung machen, daß seine Gefangenschaft nun vielleicht
@@ -937,14 +937,14 @@ habe gehofft … gehofft …!!«
 
 Er begann von neuem zu schluchzen …
 
-»und — jetzt, jetzt kann ich noch gar nicht an das Glück
+»Und — jetzt, jetzt kann ich noch gar nicht an das Glück
 glauben, nicht mehr allein zu sein … Jetzt … wird mir
 erst klar, wie mich die Götter hier in meiner Einsamkeit vor
 dem Wahnsinn beschützt haben …«
 
 Harald beruhigte den Ärmsten wieder …
 
-dann zog er seine Jacke aus, ebenso das grobe Leinenhemd,
+Dann zog er seine Jacke aus, ebenso das grobe Leinenhemd,
 reichte dieses dem völlig nackten Dabsal und meinte:
 
 »Da — nehmen Sie es … Es ist gleichsam der Beginn
@@ -1045,7 +1045,7 @@ ersetzt …«
 
 »… mit Recht — — gespannt, denn wir müssen tatsächlich
 etwas spannen, nämlich dünne Schnüre, und deshalb
-bin ich gerade Dabei, das eine Tau in seine Bestandteile
+bin ich gerade dabei, das eine Tau in seine Bestandteile
 <@pagebreak/>
 zu zerlegen, wobei du mir nachher helfen kannst …
 — Bitte, wirf mal erst neue Stücke Holz in das Feuer …
@@ -1053,12 +1053,12 @@ Der Wächter war heute in Gebelaune und hat eine ganze
 Masse Brennmaterial gespendet … Dort liegt es …
 Wahrscheinlich will der Schuft, daß wir uns Dabsal recht
 genau bei hellstem Lichte ansehen und merken, wie wir
-nach vierzehn Jahren Gefangenschaft ausschauen werden,
+nach vierzehn Jahren Gefangenschaft ausschauen werden.
 — Er wird sich wundern!«
 
 Ich versorgte den Herd mit Aststücken, und dann fragte
 ich: »Wo und wie gedenkst du denn diese Schnüre zu spannen,
-Harald? bisher sind deine Erklärungen ziemlich unklar
+Harald? Bisher sind deine Erklärungen ziemlich unklar
 …«
 
 »O — gedulde dich nur, bis auch Dabsal aufwacht …
@@ -1078,14 +1078,14 @@ zusammenstieß und mir Halt gebot.
 
 Hier fand ich nun zu meiner Überraschung unter
 Steinschutt halb vergraben einen dicken Balken, der fraglos
-einst in dem Jetzt ersoffenen Bergwerk zum Abstützen des
+einst in dem jetzt ersoffenen Bergwerk zum Abstützen des
 Gesteins benutzt worden war.
 
 Mit kindlicher Freude schob ich den etwa vier Meter
 langen Balken ins Wasser und brachte ihn ans andere Ufer,
 trocknete mich mit meiner Jacke ab und fühlte auf der ganzen
 Haut das angenehme Prickeln nach diesem etwas ausgedehnten
-Morgenbade,
+Morgenbade.
 
 Als ich unsere Wohngrotte wieder betrat, war auch
 Dabsal bereits munter geworden und kaute an einem der
@@ -1111,7 +1111,7 @@ den Korb am Bügel. Dabei richtet er sich etwas auf.
 In diesem Moment muß der Schuß losgehen, das heißt,
 an der Schnur gezogen werden, die den Abzug betätigen
 soll. Wenn wir uns nur einigermaßen geschickt zeigen,
-muß die Kugel treffen. trifft die erste nicht, braucht man
+muß die Kugel treffen. Trifft die erste nicht, braucht man
 nur nochmals an der Schnur zu rücken, da die Clement als
 Repetierwaffen sich selbsttätig laden … — Die Hauptschwierigkeit
 liegt darin, daß der Korb sich nicht drehen darf …
@@ -1144,12 +1144,12 @@ schaffen, falls eben noch mehr Gegner sich zeigen sollten.
 Kein Wunder, daß wir unter diesen Umständen den
 nächsten Morgen voller Ungeduld erwarteten und bereits
 um sechs Uhr früh den leeren Korb vollkommen »präpariert«
-hatten und unten im Schacht auf den Wächter Lauerten
+hatten und unten im Schacht auf den Wächter lauerten
 …
 
 Es wurde sieben Uhr …
 
-halb acht …
+Halb acht …
 
 Keine Seele zeigte sich …
 
@@ -1171,21 +1171,21 @@ Noch immer nichts …
 Wir waren hungrig, denn die Verpflegung war nicht
 gerade reichlich …
 
-was in aller Welt konnte geschehen sein, daß der Wächter
+Was in aller Welt konnte geschehen sein, daß der Wächter
 heute ausblieb?!
 
 Harald blieb stumm … Er besitzt ja überhaupt eine
-engelhafte Geduld,
+engelhafte Geduld.
 
 Um ein Uhr mittags erklärte Harald, daß wir uns nun
 hier unterhalb des Schachtes ablösen wollten …
 
 »Es hat keinen Zweck, daß wir alle drei hier stehen …
 Ich bleibe hier. Schraut löst mich nach zwei Stunden ab.
-kommt der Wächter, so rufe ich.«
+Kommt der Wächter, so rufe ich.«
 
 Dabsal und ich kehrten in unsere Wohngrotte zurück.
-das Herdfeuer war niedergebrannt. Aber ich hatte ja mein
+Das Herdfeuer war niedergebrannt. Aber ich hatte ja mein
 Feuerzeug, und sehr bald flackerte wieder rötliche Glut auf
 <@pagebreak/>
 dem primitiven Herde, so daß wir unsere Taschenlampen
@@ -1208,9 +1208,9 @@ aus dem Schachte heraus. Der war ja kaum drei Meter
 im Geviert. Dann könnte man einen Balken in Mannshöhe
 festkeilen … Dann könnte man von diesem Balken
 aus den zweiten wieder ein Stück höher festkeilen — und
-so fort …«
+so fort …
 
-und — dieser Gedanke ließ mir keine Ruhe …
+Und — dieser Gedanke ließ mir keine Ruhe …
 
 Ich stand auf, nahm ein brennendes Scheit vom Herde
 und sagte zu Dabsal:
@@ -1350,7 +1350,7 @@ als du den Balken fandst, — wann war das?«
 
 »Nun also … und da soll deine nasse Fußspur in
 <@pagebreak/>
-dieser Wärme Über 24 Stunden vorgehalten haben?! —
+dieser Wärme über 24 Stunden vorgehalten haben?! —
 Nein — sie müßte längst getrocknet gewesen sein, und du
 hättest heute davon nichts mehr sehen dürfen, wenn eben
 nicht … jemand anders dort gewesen wäre und gleichfalls
@@ -1362,7 +1362,7 @@ Ah — nun begann ich zu begreifen …
 hat man den Beutel hinabgelassen und den Korb nicht
 hochgezogen … Und dieser Lauscher …«
 
-»… kam Über den kleinen See geschwommen … kam
+»… kam über den kleinen See geschwommen … kam
 von jener Stelle, wo die Stollendecke vom Wasser bespült
 wird … — Wir werden noch zwei Stunden warten …
 Dann entkleiden wir uns hier im Dunkeln, schleichen zum
@@ -1375,7 +1375,7 @@ dies sogar mit aller Bestimmtheit an … — Warten wir …
 Zwei Stunden … Dann ist es Mitternacht … Dann werden
 die Wächter schlafen …«
 
-Und die Zeit schlich. bis Harst flüsterte:
+Und die Zeit schlich. Bis Harst flüsterte:
 
 »Es wird Zeit …«
 
@@ -1558,18 +1558,18 @@ Das Mädchen ohne Namen füllte uns die Teebecher
 aus der dampfenden Teemaschine und fragte mit ihrem
 verträumten Lächeln:
 
-»Glauben Sie wirklich, Herr Harst, daß ich jemals er-
+»Glauben Sie wirklich, Herr Harst, daß ich jemals erfahren 
 <@pagebreak 33/>
-fahren werde, wer meine Eltern waren, wie ich in Wahrheit
+werde, wer meine Eltern waren, wie ich in Wahrheit
 heiße?! Denn der Name, den mir meine Wächter hier
 zugelegt hatten — Amira —, ist doch niemals der, auf den
 ich Anspruch habe …«
 
 Harald nickte ihr freundlich zu …
 
-»Nur Geduld … Es kommt alles an den Tag -- --
-alles ... — Frühstücken wir jetzt … Halten wir uns nicht
-Zu lange auf … Dann werden wir das Ehepaar in den
+»Nur Geduld … Es kommt alles an den Tag — —
+alles … — Frühstücken wir jetzt … Halten wir uns nicht
+zu lange auf … Dann werden wir das Ehepaar in den
 Stollen hinabbefördern, werden die Leiter aus dem zweiten
 Schacht entfernen, werden den beiden Lebensmittel und
 Trinkwasser und Früchte für mehrere Tage dalassen und
@@ -1583,10 +1583,10 @@ tot … Der hat mich zuerst allein bewacht …«
 
 Ihr Blick glitt zu Dabsal hinüber …
 
-»mich und … Sie, Dabsal,« fügte sie hinzu. »Aber
+»Mich und … Sie, Dabsal,« fügte sie hinzu. »Aber
 daß Sie dort unten im alten Bergwerk eingesperrt waren,
 wußte ich nicht … Ich durfte ja nie einen Schritt ohne
-Aufsicht tun …"
+Aufsicht tun …«
 
 Dabsal wagte das schöne Mädchen kaum anzusehen …
 
@@ -1608,7 +1608,7 @@ ständig gepeinigt hätte …«
 <@pagebreak/>
 Pause: »Sie haben doch natürlich Ihre Wächter hier
 wohl des öfteren um Aufschluß über Ihre Person gebeten
-…"
+…«
 
 »Ja … — und stets die Antwort erhalten, daß der
 Alte — er hieß Sabattu, genau so wie sein Sohn — mich in
@@ -1622,13 +1622,13 @@ Zimmereinrichtung gespendet, Amira?!«
 »Ich weiß es nicht … Ich erhielt sie vor fünf Jahren
 … Die Kindermöbel verschwanden. Auch sie waren
 zierlich und nett. Es kam mir ganz überraschend … Ich
-war mit Rilai, der Frau Sabattus, drüben in die Schluc-
-ten gegangen, um Beeren zu sammeln … Als wir nach
+war mit Rilai, der Frau Sabattus, drüben in die Schluchten
+gegangen, um Beeren zu sammeln … Als wir nach
 drei Stunden heimkehrten, fand ich die neue Einrichtung
 vor … Und auch später war es genau so: Wenn ich Bücher,
 Kleider, Wäsche und anderes mir wünschte oder es brauchte,
 stets war alles in meiner Abwesenheit ins Haus geschafft!
--- Der alte Sabattu hatte mich Lesen und Schreiben gelehrt
+— Der alte Sabattu hatte mich Lesen und Schreiben gelehrt
 …«
 
 Harald hatte sich eine Mirakulum angezündet, meinte
@@ -1701,15 +1701,15 @@ den Boden …
 »Ich würde euch beiden raten,« meinte Harald eindringlich,
 <@pagebreak/>
 »nunmehr ein offenes Geständnis abzulegen.
-bisher habt ihr euch geweigert, obwohl ihr wißt, daß wir
+Bisher habt ihr euch geweigert, obwohl ihr wißt, daß wir
 euren Auftraggeber Mar Shing Chanu jetzt entlarven werden.
-Bedenkt, daß euch harte Strafe droht. weshalb
+Bedenkt, daß euch harte Strafe droht. Weshalb
 wollt ihr zwecklos euch opfern?! Der Radscha ist nicht mehr
 zu retten. Rettet euch selbst. — Wer ist Amira?«
 
 Sabattu schaute zu Harald empor …
 
-»Sahib, ich habe mir vieles inzwischen Überlegt …
+»Sahib, ich habe mir vieles inzwischen überlegt …
 Ich werde dir mitteilen, was ich weiß … Und ich schwöre
 dir bei Gautama Buddha, daß ich nicht lüge … — Sahib,
 mein Vater war ein Tibetaner, war in Lhassa, der heiligen,
@@ -1745,8 +1745,8 @@ Es soll euch dort an nichts fehlen. Und später werde ich
 meinen ganzen Einfluß aufbieten, damit ihr vor dem Gericht
 milde davonkommt, denn die Hauptschuld an Dabsals
 traurigem Lose trägt der Radscha und dein Vater, Sabattu
-... Auch für Amira seid ihr weniger verantwortlich
-…"
+… Auch für Amira seid ihr weniger verantwortlich
+…«
 
 Sabattu entgegnete:
 
@@ -1787,7 +1787,7 @@ Als gegen zwei Uhr nachmittags die Hitze unerträglich
 wurde, bog Harald von dem schmalen Pfade ab und
 näherte sich einer einzelnen Felsgruppe, auf deren Spitze
 die breiten Äste eines gewaltigen Kuka-Baumes Schatten
-und Kühle spendeten. Eine Quelle rieselte murmelnd Über
+und Kühle spendeten. Eine Quelle rieselte murmelnd über
 das Gestein abwärts, und kühles Moos lud neben der
 Quelle zum Lagern ein.
 
@@ -1814,7 +1814,7 @@ Zaungäste weckt irgendeine Erinnerung in Ihnen?«
 
 Amira schrak leicht zusammen …
 
-Fuhr mit der Hand Über die Augen … behielt die
+Fuhr mit der Hand über die Augen … behielt die
 Augen bedeckt …
 
 Schwieg …
@@ -1833,7 +1833,7 @@ komischen Gesichter … — Und jetzt weiß ich ganz genau:
 <@pagebreak/>
 Es ist so gewesen, ich habe als Kind auf diesem Springbrunnenrand
 den Affen zugeschaut …!! Es ist … der erste
-Blick in meine Vergangenheit, Herr Harst …
+Blick in meine Vergangenheit, Herr Harst …«
 
 Harald nickte ihr zu … »Wenn nur erst der Bann gebrochen
 ist, Amira, dann wird auch allmählich Ihr Gedächtnis
@@ -1853,8 +1853,8 @@ mit offenen Rachen … Das Krokodil steht halb aufrecht
 auf den Schuppenschwanz gestützt, und aus dem Rachen
 kommen drei Wasserstrahlen hervor …«
 
-»Bravo!« rief Harald … »Jetzt versuchen Sie ein-
-mal, sich auch die Umgebung des Springbrunnens zu
+»Bravo!« rief Harald … »Jetzt versuchen Sie einmal,
+sich auch die Umgebung des Springbrunnens zu
 vergegenwärtigen … Versuchen Sie es nur … Denken Sie
 daran, daß Sie auf dem Rande sitzen, daß Sie ein Kind
 sind und …«
@@ -1864,7 +1864,7 @@ Er hatte Amira immer starrer angesehen …
 Hatte die Hände erhoben … Strich ihr über die Wangen
 …
 
-»... ein Kind sind und … jetzt schlafen sollen … ganz
+»… ein Kind sind und … jetzt schlafen sollen … ganz
 fest schlafen … — Sie schlafen jetzt … Sie können Ihre
 Hand nicht mehr von den Augen nehmen …«
 
@@ -1873,7 +1873,7 @@ mißglückte …
 
 Sie ließ die Hand sinken und sagte verwirrt:
 
-»Ich … schlafe nicht … — Herr Harst, was …"
+»Ich … schlafe nicht … — Herr Harst, was …«
 
 »Nichts, Amira, nichts … — Schauen Sie nur, wie
 vergnügt die Affenmutter dort über das Stück Melone ist.«
@@ -1891,7 +1891,7 @@ Harald sah, daß ich die Augen offen hatte und winkte
 mir, ihm zu folgen. Leise erhob ich mich. Wir kletterten
 den Hügel hinab und erreichten in wenigen Minuten den
 Dschungelpfad an jener Stelle, wo wir vorhin abgebogen
-waren,
+waren.
 
 Hier erst meinte Harald leise:
 
@@ -1912,7 +1912,7 @@ in besonderem Tone …
 »Es waren zwei Inder mit Sandalen und ein Europäer,«
 erklärte ich. »Und diese drei sind hier umgekehrt …«
 
-»sehr richtig — ganz plötzlich umgekehrt und davongelaufen
+»Sehr richtig — ganz plötzlich umgekehrt und davongelaufen
 … — Die Fährten waren ganz frisch, als ich sie
 vor einer Stunde bemerkte … Ich fragte mich, weshalb
 diese Leute wohl so schleunigst verdufteten … Und kam
@@ -1939,7 +1939,7 @@ Er nahm die Clement aus der Tasche, spannte sie …
 
 »Für alle Fälle …!! — Daß die drei uns nicht beschleichen
 wollten dort drüben am Hügel, verrieten mir die Affen
-... Denn diese mißtrauischen Tiere hätten mir sofort die
+… Denn diese mißtrauischen Tiere hätten mir sofort die
 Annäherung eines Menschen angezeigt … Ich konnte also
 ganz sicher sein, daß uns keine Gefahr drohe … Immerhin,
 — — verfolgen wir die Fährte eine Strecke weit …
@@ -1976,8 +1976,8 @@ Harst kniet neben Dabsal …
 
 Blutig die Brust … Zwei Schüsse — zwei Treffer …
 
-Ich, diesmal vorsichtiger als Harald, habe das Busch-
-Werk im Auge behalten …
+Ich, diesmal vorsichtiger als Harald, habe das Buschwerk
+im Auge behalten …
 
 Mit schnellem Geist reiße ich Harst zu Boden, werfe
 mich selbst nieder …
@@ -2006,7 +2006,7 @@ Und dieses Stöhnen hält uns zurück …
 Erst nachdem wir Dabsal notdürftig verbunden haben,
 eilt Harald in das Gestrüpp …
 
-zwei Tote dort, Halub und Kibur!
+Zwei Tote dort, Halub und Kibur!
 
 Zwei, denen erst die heimtückischen letzten Kugeln ihres
 Herrn den Rest gegeben haben …
@@ -2076,7 +2076,7 @@ Dabsal liegt im Krankenhaus in Pudukattai, ist außer
 Gefahr …
 
 Er ist nicht mehr Dabsal, der Bedauernswerte, nicht
-Mehr der um das Thronfolgerecht Betrogene …
+mehr der um das Thronfolgerecht Betrogene …
 
 Er ist Mar Shing Dabsal, Radscha von Pudukattai …
 
@@ -2140,7 +2140,7 @@ Um uns her ist der orientalische Prunk dieses alten
 Fürstensitzes, dieses weißen Gedichtes in Marmor, dieses
 <@pagebreak/>
 auf einer Insel inmitten eines breiten Kranzes von Palmen
-gelegenen Schlosses, von dem ich dem Leser Schon im
+gelegenen Schlosses, von dem ich dem Leser schon im
 vorigen Band vorgeschwärmt habe … —
 
 Harald ist recht mißvergnügt …
@@ -2228,7 +2228,7 @@ bin!!«
 
 Und er geht nebenan in das Musikzimmer, wo ein
 prachtvoller Flügel steht … Er ist Künstler … Sein Spiel
-steht hoch über klavierwütigem Dilettantentum … -- Er
+steht hoch über klavierwütigem Dilettantentum … — Er
 spielt Wagner …
 
 Ich lausche und sinne …
@@ -2312,7 +2312,7 @@ Drei Stunden, daß ich wie ein Heizer vor dem Kessel
 auf einem Roten-Meer-Dampfer schwitzte …
 
 Dann kurze Rast am Rande der Dschungelgrenze. Und
-Hier nun sagte Harst, während er behaglich futterte:
+hier nun sagte Harst, während er behaglich futterte:
 
 »Ahnst du was, mein Alter? Ahnst du, wohin wir
 zurückkehren? — Nein?! — Du stößt dich an dem Ausdruck
@@ -2332,7 +2332,7 @@ kennt, am sichersten fühlen dürfte … Dort hat er den Garten
 der Hütte, die Ziegen … Dort mag er ein Versteck in
 der Nähe gewählt haben, daß für ihn und Amira genügt,
 in dem also Amira ohne Aufsicht zurückgelassen werden
-kann, wenn Chanu abwesend ist …"
+kann, wenn Chanu abwesend ist …«
 
 »Hm, daß müßte schon ein ganz besonderes Versteck
 sein,« meinte ich zweifelnd.
@@ -2349,15 +2349,15 @@ Meine Zweifel schwanden ein wenig …
 
 Und Harald fügte ebenso lebhaft hinzu:
 
-»Chanu ist ein großzügiger Verbrecher … Er Wird
+»Chanu ist ein großzügiger Verbrecher … Er wird
 seine Rache an uns nicht übereilen wollen. Nur Stümper
 überhasten sich … Er hat vielleicht noch ein paar Getreue,
 die ihn mit Nachrichten versorgen … Wir werden das
 alles ja feststellen …«
 
-»und — uns dabei vielleicht die Finger arg verbrennen!!
+»Und — uns dabei vielleicht die Finger arg verbrennen!!
 — Weshalb nahmst du die beiden eingeborenen Jäger
-nicht mit?! Vier Büchsen sind mehr wert als zwei …"
+nicht mit?! Vier Büchsen sind mehr wert als zwei …«
 
 »Ein Irrtum, mein Alter … Wir beide sind gleichsam
 aufeinander eingespielt … Die beiden Jäger wären
@@ -2368,9 +2368,9 @@ sondern uns von der Seite anschleichen. Gegen drei Uhr
 nachmittags können wir dort sein. Dann legen wir uns
 auf die Lauer und warten …«
 
-»Hm — und wenn Chanu gar nicht …"
+»Hm — und wenn Chanu gar nicht …«
 
-"… gar nicht in der Nähe vorhanden, meinst du?! —
+»… gar nicht in der Nähe vorhanden, meinst du?! —
 Beruhige dich … Er ist dort!«
 
 Dieser Ton?! So konnte nur jemand sprechen, der
@@ -2390,9 +2390,9 @@ Chanu gesehen …«
 <@pagebreak/>
 »Höre mich an … Vorgestern, als ich nachher Wagner
 spielte — du besinnst dich —, da konntest du an mir eine
-große Veränderung feststellen …
+große Veränderung feststellen …«
 
-»und ob …!«
+»Und ob …!«
 
 »Ja — da hattest du von Dabsals geplanter Reise in
 die Berge gesprochen … Und — — da fiel mir ein, daß
@@ -2401,7 +2401,7 @@ und … — na … kurz und gut: Da kam mir der Gedanke,
 Chanu könnte dort oben in der Wildnis sich verborgen
 halten … Und als wir dann gestern abend im Mondlicht
 uns dem Jagdschlößchen näherten, da … da hatte ich eben
-aus Vorsicht die Augen Überall … Wenn nun das Mondlicht
+aus Vorsicht die Augen überall … Wenn nun das Mondlicht
 auf die Linsen des Fernglases eines Mannes fällt, der
 im Gebüsch versteckt liegt, blitzen die Linsen … — Ich
 merkte mir das Gebüsch … Und du weißt ja, daß wir
@@ -2454,7 +2454,7 @@ Der große Schuft Chanu war nämlich immer vorsichtiger
 geworden, je mehr wir uns dem Teile des Gebirges
 näherten, in dem die Hütte lag. Er hatte allerlei Kniffe
 und Schliche angewandt, seine Spuren zu verwischen, war
-Über Bäume geklettert, hatte über dem Erdboden den Weg
+über Bäume geklettert, hatte über dem Erdboden den Weg
 fortgesetzt und hatte einmal sogar die Stiefel ausgezogen
 und war nur auf Strümpfen gewandert.
 
@@ -2487,7 +2487,7 @@ Ich wurde ungeduldig …
 Es war wahrhaftig kein Vergnügen, gerade an dieser
 Stelle längere Zeit auszuharren, denn die Sonne meinte
 es jetzt nachmittags selbst hier in den Bergen nur allzu
-gut ...
+gut …
 
 Hitze ist ein milder Ausdruck für die Temperatur, die
 hier so dicht über dem Gestein herrschte …
@@ -2501,7 +2501,7 @@ Ich stöhnte zuweilen …
 Und mußte immer wieder meine Brille putzen, — so
 lief mir der Schweiß von der Stirn …
 
-doch — — ich will Über diese schätzungsweise vierzig
+Doch — — ich will über diese schätzungsweise vierzig
 Grad nicht schimpfen!
 
 Nein, ich will sie sogar mit freundlichen Worten preisen,
@@ -2602,7 +2602,7 @@ Als erster kam ich an die Reihe …
 Die Kerle begnügten sich damit, mir die Hände auf
 den Rücken zu binden …
 
-auch Harald erging es nicht anders …
+Auch Harald erging es nicht anders …
 
 Dann durften wir uns aufrichten … aufstehen … Und
 standen Chanu und zwei älteren Indern gegenüber … —
@@ -2618,7 +2618,7 @@ Stärke es keine Bezeichnung gibt …
 
 Auch das Vornehm-Überlegene, das man ihm früher
 nicht absprechen konnte, war einer gemeinen Schadenfreude
-gewichen, die jetzt seine Züge verzerrte,
+gewichen, die jetzt seine Züge verzerrte.
 
 »Sehen Sie, Herr Harst, Sie sind mir wirklich ins Garn
 gegangen …« höhnte er … »All Ihre Schlauheit hat
@@ -2636,9 +2636,9 @@ Ganze nur scheinbar Batterien sind, in Wirklichkeit lediglich
 ein elektrischer Kontakt, der eine anderswo angebrachte
 Glocke anschlagen läßt … Wer von Ihnen die aus dem
 Kästen herausragenden scheinbaren Batteriepole berührt
-Hat, weiß ich nicht. Es ist das ja auch gleichgültig. Dieses
+hat, weiß ich nicht. Es ist das ja auch gleichgültig. Dieses
 Berühren hat genügt, Sie beide mir in die Hände zu spielen
-…"
+…«
 
 Ich, Max Schraut, senkte in diesem Augenblick tief gedemütigt
 mein vorhin so stolzes Haupt … Denn ich war
@@ -2676,7 +2676,7 @@ Zähne …
 
 Harald wandte den Kopf zur Seite …
 
-»Elkelhaft!!« meinte er nur …
+»Ekelhaft!!« meinte er nur …
 
 Chanu merkte, worauf sich das bezog …
 
@@ -2684,7 +2684,7 @@ Chanu besann sich auf sich selbst …
 
 Wurde verlegen … biß sich auf die Lippen …
 
-Winkte seinen beiden Kumpanen ...
+Winkte seinen beiden Kumpanen …
 
 Schritt voran …
 
@@ -2721,7 +2721,7 @@ sagte eisig: »Ich will Sie beide nicht länger über Ihr
 Schicksal im Unklaren lassen … Sie lieben ja das Außergewöhnliche,
 meine Herren … Sie sollen es auch hier
 kennen lernen … Der Hauptschacht des alten Bergwerks
-ist zur Hälfte mit Wasser angefüllt. aus dem Wasser ragt
+ist zur Hälfte mit Wasser angefüllt. Aus dem Wasser ragt
 in der Mitte ein Felsblock hervor, bildet so eine Klippe
 oder ein Riff von etwa ein Meter Breite und Länge …«
 Ein hohnvolles Lächeln glitt um seinen Mund … »Sie
@@ -2761,34 +2761,34 @@ Chanu wurde unruhig …
 
 »Weiter!« rief er …
 
-»... wenn Sie nicht törichterweise etwas unterlassen
+»… wenn Sie nicht törichterweise etwas unterlassen
 hätten …«
 
 <@pagebreak/>
 »Was denn?!«
 
 »Geduld, Chanu … Schauen Sie mal nach dem Gebüsch
-zurück, in dem Sie uns hinterrücks Überfielen …
+zurück, in dem Sie uns hinterrücks überfielen …
 Was sehen Sie? Es sind bis dahin hundertfünfzig Meter.
 Für ein gesundes Auge keine Entfernung … — Was
 sehen Sie?«
 
-»Ah — — einen Büchsenlauf, der ..."
+»Ah — — einen Büchsenlauf, der …«
 
 »Der sich bewegt, der also in der Hand eines Menschen
-ruht …"
+ruht …«
 
 Auch die beiden Inder mit den Revolvern starrten hinüber
-...
+…
 
 Ihre Wachsamkeit war für Sekunden abgelenkt …
 
 Sekunden genügten …
 
 Denn — wir hatten ja die Beine frei, besaßen deren
-volle Bewegungsfähigkeit ...
+volle Bewegungsfähigkeit …
 
-Und Ich — — ahnte das Kommende …
+Und ich — — ahnte das Kommende …
 
 Harst und ich sind ja aufeinander eingespielt … Ich
 kenne seine Methoden …
@@ -2801,7 +2801,7 @@ nicht mehr …
 
 Harald hatte bereits jedem der Revolvermänner einen
 solchen Tritt vor den Leib versetzt, daß die beiden Kerle
-Über den Rand der Terrasse hinwegflogen …
+über den Rand der Terrasse hinwegflogen …
 
 Chanu wollte seine Pistole herausreißen …
 
@@ -2846,13 +2846,13 @@ brauche ich wohl kaum anzudeuten …
 
 <h2>5. Kapitel.</h2>
 
-Als ich nun mit den beiden Gewehren zur Terrasse zu-
-rückgekehrt war, hatte Harald Seine Ex-Hoheit aufrecht gesetzt
+Als ich nun mit den beiden Gewehren zur Terrasse zurückgekehrt
+war, hatte Harald Seine Ex-Hoheit aufrecht gesetzt
 und erklärte ihm den »schlichten Trick« mit dem beweglichen
-Büchsenlauf ...
+Büchsenlauf …
 
-Hieran knüpfte er sofort die Frage, wo Amira sich be-
-fände …
+Hieran knüpfte er sofort die Frage, wo Amira sich befände
+…
 
 Chanu lachte frech … »Suchen Sie doch!«
 
@@ -2877,7 +2877,7 @@ wo das blonde Mädchen sei … —
 
 Harst wandte sich wieder an Chanu …
 
-Wollen Sie jetzt gestehen?« fragte er …
+»Wollen Sie jetzt gestehen?« fragte er …
 
 »Sie sind ein Narr, Herr Harst,« entgegnete Chanu unverschämt.
 »Ich werde doch nicht meinen letzten Trumpf
@@ -2919,7 +2919,7 @@ nicht daran dachte, den Mann niederzuknallen …
 
 Harald begann schon zu zählen …
 
-»Eins ..."
+»Eins …«
 
 Ich richtete die Clement auf den Inder …
 
@@ -2935,12 +2935,12 @@ Das hatte »drei« werden sollen …
 Der Ex-Radscha brüllte dazwischen:
 
 »Genug mit diesem Possenspiel …!! Sie sollen das
-Mädchen haben … unter einer Bedingung …"
+Mädchen haben … unter einer Bedingung …«
 
 »Bedingungen — niemals!« erklärte Harald unerbittlich
-...
+…
 
-»Vielleicht die eine doch, Herr Harst …"
+»Vielleicht die eine doch, Herr Harst …«
 
 »Reden Sie … schnell!«
 
@@ -2949,7 +2949,7 @@ Harst … Denn sie hat niemanden auf der Welt, der sich
 ihrer annehmen würde … keine Eltern, keine Verwandten.
 — Amira ist tatsächlich ein Findelkind, Herr Harst … Mein
 Vater war’s, der sie auf einer Jagd im Dschungel unter
-einer Palme in einem Kistchen als …"
+einer Palme in einem Kistchen als …«
 
 Harald unterbrach ihn. »Das sind Lügen, Chanu,
 freche Lügen … — Wo ist Amira?«
@@ -2992,7 +2992,7 @@ hatte sie in keiner Weise brutal oder frech behandelt, nein,
 — sie betonte sogar, daß er stets höflich geblieben sei und
 ihr erklärt habe, es würde ihm sehr schwer, sie dort im
 Stollen einzukerkern … Sie möge ihm doch lieber versprechen
-nicht zu fliehen, — was sie schroff ablehnte, —
+nicht zu fliehen, — was sie schroff ablehnte. —
 
 So kam es denn, daß Amira jetzt nochmals das Gemach
 in der Berghütte für eine Nacht bezog, in dem sie so
@@ -3031,8 +3031,8 @@ Schloßverwalter eingesetzt, dem er zu Dank verpflichtet war.
 Dieser Engländer hieß Weacfield, Amira … Er nahm das
 verwaiste Kind seines einzigen Bruders zu sich … dann
 aber beging er allerlei Betrügereien und flüchtete unter
-Mitnahme einer größeren Geldsumme, die dem Radscha ge-
-hörte. Der alte Radscha ließ ihn verfolgen … Weacfield
+Mitnahme einer größeren Geldsumme, die dem Radscha gehörte.
+Der alte Radscha ließ ihn verfolgen … Weacfield
 wurde auf der Flucht erschossen, und seine Nichte — das
 sind Sie, Amira, ließ der ergrimmte Radscha dort in die
 Einsamkeit zu Sabattu bringen, damit dieser das Kind so
@@ -3044,7 +3044,7 @@ Weacfield lautet … Mit Vornamen heißen Sie Maria,
 Imogen, Jane …«
 
 Nicht nur die blonde Miß Weacfield war wie versteinert
-...
+…
 
 Auch ich … Und ich fragte denn auch: »Harald, woher
 weißt du dies alles?«
@@ -3061,11 +3061,11 @@ Dabsal mir alles anvertraut und mich gebeten, bei Jane
 Weacfield, falls sie gefunden würde, ein gutes Wort einzulegen
 … — Denn — er liebt Sie, Miß Jane … Und
 wenn Sie wollen, können Sie Rani von Pudukattai werden
-... "
+…«
 
 Jane schritt langsam auf den Springbrunnen zu, setzte
 sich auf den Rand des Marmorbassins und verbarg das
-Gesicht in den Händen … weinte ...
+Gesicht in den Händen … weinte …
 
 Weinte wohl deshalb, weil sie nun wußte, daß sie wirklich
 ganz allein auf der Welt dastehe …
@@ -3087,7 +3087,7 @@ Zeitschrift eine Reproduktion einer Photographie
 des Hochzeitszuges des Radschas von Pudukattai gesehen
 und neben dem Radscha dessen blonde, weiße Gemahlin
 auf dem Staatselefanten bemerkt hat, so … ist dieses Bild
-kein Bluff ...
+kein Bluff …
 
 Denn Jane Weacfield ist heute Fürstin von Pudukattai
 … —
