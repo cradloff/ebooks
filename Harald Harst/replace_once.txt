@@ -15,7 +15,6 @@
 \bElement\b	Clement
 ^ben	den
 ^ber	der
-\ber ich\b	er sich
 \bFahr\b	Jahr
 \bFahre\b	Jahre
 \bFahren\b	Jahren
