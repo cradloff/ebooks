@@ -45,7 +45,7 @@ Harald gab mir eine Banknote. »Da, prüfe, ob der
 Mann verkleidet ist.«
 
 Ich ging hinaus — durch den Vorgarten, über den
-Bürgersteig, reichte dem Bettler den Geldschein ...
+Bürgersteig, reichte dem Bettler den Geldschein …
 
 Und sah sofort, daß hier ein echter Greis, kein zurechtgeschminkter
 Spion oder dergleichen seiner Not zerschlissene
@@ -55,7 +55,7 @@ tiefsten Leides zeigte, — nicht jenen Ausdruck komödienhafter
 Wehleidigkeit der professionellen Schnorrer, nein, etwas
 wahrhaft Erschütterndes, das Mitgefühl Packendes.
 
-Der Alte stammelte einen Dank ...
+Der Alte stammelte einen Dank …
 
 Und — dabei veränderte sich sein Gesicht so plötzlich,
 daß ich einen Moment in sprachlosem Schreck den Mann
@@ -83,17 +83,17 @@ Fürchtete der Mann etwa mich?! Und — wenn ja —
 weshalb fürchtete er mich — — weshalb?!
 
 Ich vergaß den begonnenen Satz zu beenden. Ich war
-mit einem Male nur Harald Harsts gelehriger Schüler ...
+mit einem Male nur Harald Harsts gelehriger Schüler …
 
 Und deshalb warf ich das Mitleid ab wie eine hier
 ungeeignete Maske, nickte dem Bettler zu und machte kehrt,
 schritt in den Vorgarten zurück, pfiff ein paar Gassenhauertakte
 und schnitt drei — vier Rosen von einem Strauche, verhüllte
-durch solches Tun meine innersten Gedanken ...
+durch solches Tun meine innersten Gedanken …
 
-Stand dann vor Harald ...
+Stand dann vor Harald …
 
-Berichtete alles ...
+Berichtete alles …
 
 »Wir gehen spazieren,« bestimmte er. »Der Alte ist
 nach links weitergegangen. Wir schlendern nach rechts. Aber
@@ -105,7 +105,7 @@ nach links weitergegangen. Wir schlendern nach rechts. Aber
 
 Wir fanden in einer Seitenstraße ein Auto, ließen das
 Verdeck hochklappen, fuhren dem Bettler nach, an unserem
-Hause vorüber ...
+Hause vorüber …
 
 Nichts mehr von dem Greise — nichts.
 
@@ -130,7 +130,7 @@ aus Ihrem Hause und fuhren mit davon, Herr Harst.«
 
 »Wohin? Nach welcher Richtung?«
 
-»Dort — die Glebitzer runter ...«
+»Dort — die Glebitzer runter …«
 
 Unser Auto sauste weiter. Die Droschke konnte kaum
 zwei Minuten Vorsprung haben.
@@ -165,14 +165,14 @@ als anderswo?! Weshalb?!«
 Der Köchin Mathilde liebliche Stimme aus den unteren
 Regionen: »Das Telefong — — das Telefong!«
 
-Was uns wieder in Haralds Arbeitszimmer hetzte ...
+Was uns wieder in Haralds Arbeitszimmer hetzte …
 
 Wo sich nun Bechert meldete, Freund Fritz Bechert,
-Kriminalkommissar ...
+Kriminalkommissar …
 
 Harst rief: »Wieder in Berlin?«
 
-Und horchte dann gespannt ...
+Und horchte dann gespannt …
 
 Sagte in die Hörmuschel hinein: »Uns hat der Graf
 allerdings etwas ganz anderes erzählt. — Ja — wir erwarten
@@ -283,7 +283,7 @@ in einem Nachen auf das Haff hinaus, flüchteten bis Berlin.
 Diese Schilderung hatte in all ihren Teilen durchaus
 glaubwürdig geklungen.
 
-Und doch ...
+Und doch …
 
 Nun lasse ich Fritz Bechert sprechen, der von Harald mit
 diesem Tatbestand vertraut gemacht worden war.
@@ -305,7 +305,7 @@ Bei seinen Leuten ist er allerdings sehr beliebt, im
 übrigen ist er ein Mann, der über Leichen geht. Ich hatte
 <@pagebreak/>
 vorhin im Präsidium schon die Haftbefehle gegen ihn und
-die Gräfin ausfertigen lassen, da ein Ersuchen der Regierung ...«
+die Gräfin ausfertigen lassen, da ein Ersuchen der Regierung …«
 
 Hier wurde Bechert unterbrochen.
 
@@ -324,7 +324,7 @@ er in den Taxameter kletterte. Hier — dies.«
 
 Er hielt Harald eine Stiefelsohle hin, eine durchlöcherte
 Ledersohle, in der noch sechs kleine *blanke* Nägel
-steckten — *blanke* Nägel ...
+steckten — *blanke* Nägel …
 
 Die Innenseite der Sohle zeigte an einer Stelle in roter
 Tinte klare Buchstaben, die wie folgt angeordnet waren:
@@ -356,9 +356,9 @@ Nach den ersten Zügen fragte Freund Fritz:
 <@pagebreak/>
 »Die Nägel in der Sohle sind noch ganz blank, noch
 neu: der Orgelmann hat die Sohle also erst vor kurzem
-befestigt ...«
+befestigt …«
 
-»... und sehr lose,« nickte Harald. »So lose, daß er
+»… und sehr lose,« nickte Harald. »So lose, daß er
 sie hätte vor unserem Hause liegen lassen, abstreifen können,
 — was er auch tun wollte, mein Alter,« wandte er sich an
 mich. »Als Du ihm das Geld brachtest, suchte er gerade die
@@ -376,7 +376,7 @@ ein.
 Ronnows,« fügte Bechert hinzu.
 
 »Allerdings!« bestätigte Harst. »Eine wichtige Nachricht
-— eine Buchstabennachricht ...!«
+— eine Buchstabennachricht …!«
 
 Ein Lächeln huschte um seine Lippen.
 
@@ -384,7 +384,7 @@ Bechert hatte die elende Ledersohle wieder zur Hand
 genommen.
 
 »Hm — jedenfalls eine sehr kurze Nachricht,« meinte
-er. »Das R. R. kann heißen Robert Robba ...«
+er. »Das R. R. kann heißen Robert Robba …«
 
 »Oder Ronnow, Vater und Tochter, — zwei R’s!«
 
@@ -403,7 +403,7 @@ Bechert blickte Harst an. »Machen Sie Spaß?«
 
 Wieder starrte Bechert auf die roten Buchstaben.
 
-»So ... so ... sieben Städte ...! — Schraut, raten Sie
+»So … so … sieben Städte …! — Schraut, raten Sie
 die Sache?«
 
 »Mit nichten, lieber Bechert.«
@@ -439,18 +439,18 @@ Waren natürlich nicht Bechert, Harst, Schraut.
 Bewahre!
 
 Waren drei Herren, die sich scheinbar nicht kannten, jeder
-mit einem Köfferchen ...
+mit einem Köfferchen …
 
 Drückten dem Steward die Hand, drückten etwas in
 diese Hand, bekamen eine Kabine mit drei Betten, waren
 vereint.
 
-Um zwei Uhr in See ... — am Leuchtturm vorüber,
-zwischen den Molen hindurch ...
+Um zwei Uhr in See … — am Leuchtturm vorüber,
+zwischen den Molen hindurch …
 
 Das Meer in Laune — spiegelglatt, Mondschein…
 
-Getrennt standen wir an der Reling des Promenadendecks ...
+Getrennt standen wir an der Reling des Promenadendecks …
 
 Und — fuhren mit den Köpfen herum: vom Vorschiff
 ein Leierkasten, der… den roten Sarafan winselte!
@@ -461,14 +461,14 @@ des Bettlers. Aus Hunderten hätte ich *die* Töne des
 Quietschkastens herausgefunden. Ein so erbärmlich verstimmtes
 Ding gab es eben nur in einem Exemplar.
 
-Harst, Bechert, ich tauschten Blicke ...
+Harst, Bechert, ich tauschten Blicke …
 
 Dann verschwand Harst nach dem Vorschiff zu. Bechert
 und ich suchten die Kabine auf.
 
 »Sie werden alle drei am Bord sein,« flüsterte Freund
 Fritz. »Sowohl der Bettler als auch Ronnow und Tochter.
-Ich glaube, der Alte ...«
+Ich glaube, der Alte …«
 
 Harst trat ein, drückt die Tür zu, schaute mich an.
 
@@ -542,7 +542,7 @@ niemals die der jungen Aristokratin.
 Wer war’s sonst? — Der Graf?! Auch das nicht! Graf
 Alexander Ronnow hatte eine messerscharfe, etwas große
 Nase. Und die des Bettlers, des echten wie des falschen,
-war kurz und dick, stark gerötet ...
+war kurz und dick, stark gerötet …
 
 Wer war’s?! Vielleicht Robert Robba, der Artist, der
 Besitzer des Napoleon aus Wachs, mit dem er tatsächlich
@@ -564,7 +564,7 @@ Die helle Sommernacht war langsam in das Morgenzwielicht
 übergegangen. Bevor ich die Treppe zu den unteren
 Räumen hinabstieg, warf ich noch einen Blick nach der
 Küste hinüber, deren heller Strand in der Ferne wie ein
-weißer Strich schimmerte, die Küste Pommerns ...
+weißer Strich schimmerte, die Küste Pommerns …
 
 Und sah dort ein Fahrzeug — eine Motorjacht offenbar,
 die nun auf den Dampfer zuzuhalten schien.
@@ -592,7 +592,7 @@ Reling.
 
 Das Deck war leer geworden. Nur der Drehorgelspieler
 saß noch an der Kombüsentreppe und rauchte jetzt eine
-Zigarre ...
+Zigarre …
 
 <@pagebreak/>
 
@@ -610,9 +610,9 @@ Der Steuermann des Dampfers trat zu mir, stellte das
 Glas ein und sagte dann:
 
 »Das ist vielleicht eine ausländische Jacht. Ich kann
-die Flagge noch nicht unterscheiden ...«
+die Flagge noch nicht unterscheiden …«
 
-Harald kam herbei, grüßte ...
+Harald kam herbei, grüßte …
 
 »Ein schnelles Fahrzeug,« meinte er und wies auf die
 Jacht.
@@ -625,13 +625,13 @@ Dann ein gellendes Sirenengeheul von der Jacht, —
 lang, kurz, kurz, lang, lang — so folgten einander die Töne.
 
 Und nach kurzer Pause abermals: kurz, lang, kurz, lang,
-kurz, kurz ...
+kurz, kurz …
 
 »Teufel, was wollen die?!« brummte der Steuermann.
 
 Ich hatte nach rechts geschielt — nach dem Leiermann
 hin. Der saß und tat, als gingen diese Signale ihn nichts
-an — gar nichts ...
+an — gar nichts …
 
 Die Jacht beschrieb einen Bogen, hatte den Dampfer
 bald erreicht, hielt sich dicht neben ihm.
@@ -640,46 +640,46 @@ Jetzt sahen wir, daß die Herren drüben sehr unwahrscheinlich
 dichte Vollbärte hatten — Bärte, die so gewiß
 angeklebt waren, wie auch der meine Kunst war.
 
-Und nun — um Sekunden kam Harald zu spät ...
+Und nun — um Sekunden kam Harald zu spät …
 
 Schnellte vorwärts — dem Vorschiff zu, wo der Bettler
 soeben hochgefahren und mit der Drehorgel an die Backbordreling
-gelaufen war ...
+gelaufen war …
 
 Wo er sie rasch ins Wasser hinabgeworfen hatte und
-hinterdrein gesprungen war ...
+hinterdrein gesprungen war …
 
 <@pagebreak/>
 Harald schwang sich auf die Reling, schleuderte die Jacke
-von sich ...
+von sich …
 
-Von drüben ein Schuß — von der Jacht ...
+Von drüben ein Schuß — von der Jacht …
 
 Harst sank nach hinten über auf das Deck zurück.
 
-Da hatte auch Bechert schon die Dienstpistole herausgerissen ...
+Da hatte auch Bechert schon die Dienstpistole herausgerissen …
 
-»Im Namen des Gesetzes!« brüllte er ...
+»Im Namen des Gesetzes!« brüllte er …
 
-Wollte noch mehr hinzufügen ...
+Wollte noch mehr hinzufügen …
 
-Mußte sich ducken — hinter die eiserne Reling ...
+Mußte sich ducken — hinter die eiserne Reling …
 
 Kugeln pfiffen — klatschten gegen das Metall mit blechernem
-Klang ...
+Klang …
 
 Der Steuermann kniete neben mir im Schutze der Eisenplatten.
 
 »Herr, was bedeutet das alles?!« keuchte er.
 
 Harst kam herbeigekrochen, blickte durch ein Loch in der
-Reling ...
+Reling …
 
 »Sie haben die Drehorgel und den Mann aufgefischt,
-jagen davon ...!« rief er ...
+jagen davon …!« rief er …
 
 Der Kapitän erschien — mit nackten Füßen, in einen
-Mantel gehüllt — aus dem Bett ...
+Mantel gehüllt — aus dem Bett …
 
 »Klausen, was geht hier vor?« verlangte er von dem
 Steuermann Auskunft.
@@ -715,7 +715,7 @@ beschlagnahmt und die Insassen verhaftet werden
 sollen?«
 
 »Natürlich geht das, Herr Harst. — Wenn der Herr
-Kriminalkommissar es wünscht, wird der Telegraph sofort ...«
+Kriminalkommissar es wünscht, wird der Telegraph sofort …«
 
 Bechert nickte. »Ich wünsche es. Harst mag den Wortlaut
 des Telegramms aufsetzen.«
@@ -1048,7 +1048,7 @@ war betont, daß Robbas Automat so glänzend gearbeitet sei,
 daß man bis zum letzten Augenblick im Zweifel bliebe, ob
 es sich um einen Automaten oder doch nur um einen lebenden
 Menschen handele, der den Napoleon mime. Ferner
-war da erwähnt, daß der Automat unter anderem eine ...
+war da erwähnt, daß der Automat unter anderem eine …
 Drehorgel in Bewegung setze, welche die Nationalhymne
 des Landes spiele, in dem Robba sich gerade mit seinem Napoleon
 aus Wachs befände.«
@@ -1068,7 +1068,7 @@ kaum so sorgfältig durchsucht werden.«
 
 Bechert schnitt einer Zigarre bedächtig die Spitze ab.
 
-»Alles sehr schön, bester Harst ... Nur — ganz klar ist
+»Alles sehr schön, bester Harst … Nur — ganz klar ist
 mir die Sache doch noch nicht. Robba war zuletzt also in
 Riga im Auftrage der jungen Gräfin. In der Kiste für den
 Automaten wurde Graf Ronnow aus Riga weggeschafft —
@@ -1113,7 +1113,7 @@ suchen.«
 mit Danzig und den beiden Ronnows und dem echten Bettler?«
 
 »Ronnows sind ebenfalls hier, und in ihrer Begleitung
-ein Mann, den ich von Hörensagen längst kenne ...«
+ein Mann, den ich von Hörensagen längst kenne …«
 
 Wieder eine Kunstpause. — Bechert machte eine
 ungeduldige Handbewegung.
@@ -1183,7 +1183,7 @@ und der Nürnberger Scharfrichter tat’s noch mehr.
 <h2>5. Kapitel.</h2>
 <h3>Im Wachsfigurenkabinett.</h3>
 
-Halb elf Uhr abends ...
+Halb elf Uhr abends …
 
 Auf dem Rummelplatz war großer Betrieb. Ein halbes
 Dutzend Riesenorchestrions heulten ihre Walzer und
@@ -1247,7 +1247,7 @@ Seite in das Zelt hinein.
 Hinter den zugezogenen Fenstervorhängen des Wohnwagens
 brannte noch Licht.
 
-Aber — im Zelt blieb alles dunkel ...
+Aber — im Zelt blieb alles dunkel …
 
 Es wurde zwölf Uhr.
 
@@ -1255,7 +1255,7 @@ Es wurde zwölf Uhr.
 Turmuhren schlugen die Mitternachtstunde mit hallenden
 Klängen.
 
-Dann kreischte die Tür des Wohnwagens ...
+Dann kreischte die Tür des Wohnwagens …
 
 Jemand stieg die angelegte Treppe hinab — ein dicker
 Mensch mit blondem Schnurrbart: Robba — der Robba
@@ -1288,27 +1288,27 @@ Fritz befand sich unser Guckloch. Es herrschte in dieser Zeltecke
 ein Halbdunkel, das uns vor dem Bemerktwerden schützte.
 
 Jetzt wollte Robba den Teller auf den Holzsockel der
-Figur des Scharfrichters von Nürnberg stellen ...
+Figur des Scharfrichters von Nürnberg stellen …
 
-Wollte ...
+Wollte …
 
-Wollte wohl die Hände frei haben, um ... — Das,
-was er beabsichtigte, erfährt der Leser sehr bald ...
+Wollte wohl die Hände frei haben, um … — Das,
+was er beabsichtigte, erfährt der Leser sehr bald …
 
 Und da — da ereignete sich etwas, das selbst unsere
-Augen vor jähem Staunen weitete ...
+Augen vor jähem Staunen weitete …
 
 Die in ein mittelalterliches Gewand gekleidete Figur
 des Scharfrichters, der auf sein Richtschwert gelehnt dastand,
-bewegte sich plötzlich ...
+bewegte sich plötzlich …
 
-Das Schwert zuckte hoch ...
+Das Schwert zuckte hoch …
 
 <@pagebreak/>
 Robba stieß einen gurgelnden Laut aus.
 
 Der Teller, Messer, Gabel entfielen ihm. Er taumelte
-zurück, schlug rückwärts zu Boden ...
+zurück, schlug rückwärts zu Boden …
 
 Und noch während er so hintenübersank, rief der Scharfrichter
 mit einer vor Erregung schrillen Stimme:
@@ -1317,7 +1317,7 @@ mit einer vor Erregung schrillen Stimme:
 damit!«
 
 Robba klatschte mit dumpfem Krach zu Boden, regte
-sich nicht ...
+sich nicht …
 
 Da hatte Harst schon mit einem Messerschnitt das Guckloch
 vergrößert, hatte sich ins Zelt gedrängt.
@@ -1358,10 +1358,10 @@ hatte, daß er wider Erwarten in dem Zelte nicht allein sei!
 Er hatte die Gräfin nur undeutlich bemerkt, die gerade das
 Scharfrichtergewand übergestreift hatte. So kroch er in die
 eine Kiste hinein — so stand er jetzt mit fahlem Gesicht vor
-uns, wagte nicht, irgend eine Ausrede zu ersinnen ...
+uns, wagte nicht, irgend eine Ausrede zu ersinnen …
 
 »Sie wollten, glaube ich, hier stehlen,« sagte Harst verächtlich
-zu ihm. »Vielleicht die ganze Drehorgel ...!«
+zu ihm. »Vielleicht die ganze Drehorgel …!«
 
 Retter versuchte ein Lächeln. Er hatte seine Frechheit
 wiedergefunden. »Was sollte ich mit dem Ding?!« meinte
@@ -1372,13 +1372,13 @@ Nun lagen die Holzpfeifen des Orgelgehäuses frei.
 
 »Hm — es sind acht Pfeifen zu viel, Herr Retter,« erklärte
 Harald gleichmütig. »Acht Orgelpfeifen, in die man
-allerhand hineintun kann — zum Beispiel Edelsteine ...!«
+allerhand hineintun kann — zum Beispiel Edelsteine …!«
 
-Retter zitterte mit einem Male ... Seine Zähne schlugen
+Retter zitterte mit einem Male … Seine Zähne schlugen
 klappernd zusammen. Er sah ein, daß er verloren war.
 
 »Ein tadelloses Versteck, diese Röhren!« meinte Harst
-noch. »Bechert, verhaften Sie Retter ...! Robbas Frau, Retters
+noch. »Bechert, verhaften Sie Retter …! Robbas Frau, Retters
 Frau und der Bootsmann der Astarte sollen dann
 gleichfalls das Kolberger Polizeigefängnis kennen lernen!«
 
