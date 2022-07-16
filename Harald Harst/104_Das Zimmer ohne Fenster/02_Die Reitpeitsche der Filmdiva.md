@@ -143,7 +143,7 @@ Schlosse mit mir zusammen erzogen, entfloh jedoch mit siebzehn
 Jahren mit einem englischen Ingenieur. Wir hatten
 von ihr nichts mehr gehört. Plötzlich kam sie dann hier zu
 uns und söhnte sich mit uns aus. Durch Silvia fanden wir
-Anschluß an die Onyx-Gesellschaft...«
+Anschluß an die Onyx-Gesellschaft …«
 
 »Und Silvia wird im Auftrage Gorims und Nassubs
 hier bei Ihnen erschienen sein,« warf Harald ein.
@@ -187,14 +187,14 @@ und nachher wieder mit Mörtel geschickt befestigte, daß niemand
 vermuten konnte, an jener Stelle sei ein Versteck angelegt
 worden. Die Tapete hatte er aufgeschnitten und
 losgelöst, später wieder angeklebt. Ich wollte Sie nun bitten,
-meine Herren, mir zu helfen...«
+meine Herren, mir zu helfen …«
 
 »Gern, Prinzessin,« unterbrach Harst sie. »Vorher
 noch eine Frage: Sie hinterließen mir doch, als Sie damals
 <@pagebreak/>
 bei uns waren, jenen Brief, der »Leaxyeka« unterzeichnet
 war. Ich habe diesen Brief bisher nie erwähnt,
-da Sie selbst nie darauf zu sprechen kamen. Ich möchte...«
+da Sie selbst nie darauf zu sprechen kamen. Ich möchte …«
 
 Dolja Dortschakoff hatte sich vorgebeugt, hatte gerufen:
 »Einen Brief?! Ich — ich hätte Ihnen einen Brief
@@ -217,7 +217,7 @@ und stammelte:
 »Oh — ich ahne schon: ich bin damals gar nicht freiwillig
 zu Ihnen gegangen! Der Schamanensohn hat mich
 durch das Bawirutu dazu gezwungen! Und heute weiß ich
-nicht einmal mehr, daß...«
+nicht einmal mehr, daß …«
 
 Sie schaute Harst halb verzweifelt an. Die Stimme
 versagte ihr vor Erregung. Angst, etwas wie Grauen sprach
@@ -227,17 +227,17 @@ des Schamanensohnes.
 Harald beobachtete sie still.
 
 Sie lehnte sich langsam in den Stuhl bequem zurück,
-Sie… lächelte plötzlich...
+Sie… lächelte plötzlich …
 
 Und sagte in harmlos-scherzendem Tone: »Nein, wie
 man nur so vergeßlich sein kann! Ich habe den Brief ja
 selbst geschrieben, Herr Harst. Mit meines Vaters Schreibmaschine.
 Ich wollte Sie für uns stärker interessieren.
-Und...«
+Und …«
 
 Harald war aufgestanden, hatte sich vor Dolja Dortschakoffs
 Stuhl gestellt, hatte diese scharf angesehen und
-dann ihre Hände ergriffen...
+dann ihre Hände ergriffen …
 
 <@pagebreak/>
 Sein Gesicht zeigte die äußerste Anspannung seiner
@@ -253,7 +253,7 @@ Schamanensohne, der durch das Bawirutu soeben wieder
 der Prinzessin einen Befehl aus der Ferne zugesandt hatte!
 
 Harsts eiserne Willenskraft suchte diesen Einfluß des
-Turkmenen zu überwinden...
+Turkmenen zu überwinden …
 
 Harst wollte bei Dolja durch stärkere Hypnose alles beseitigen,
 was Gorim in der Ferne an tückischen Gedanken
@@ -270,11 +270,11 @@ langsam und jedes Wort der Prinzessin förmlich ins Hirn
 stoßend. »Verstehen Sie: nur mir gehorchen Sie!! —
 Antworten Sie!!«
 
-»Ich verstehe...« lispelte sie. »Ich... gehorche...«
+»Ich verstehe …« lispelte sie. »Ich … gehorche …«
 
-Es zuckte in ihrem Gesicht wie ein Krampf...
+Es zuckte in ihrem Gesicht wie ein Krampf …
 
-»... Gehorche dem... Stärkeren,« fügte sie rascher
+»… Gehorche dem … Stärkeren,« fügte sie rascher
 hinzu.
 
 Haralds Stirn bedeckte sich mit Schweißperlen vor ungeheurer
@@ -282,16 +282,16 @@ Willensanstrengung.
 
 »Mir gehorchen Sie!« zischte er, ließ die Hände der
 Prinzessin los und begann ihr Gesicht mit magnetischen
-zarten Strichen zu streicheln...
+zarten Strichen zu streicheln …
 
 »Schlafen Sie jetzt — — !! Verstehen Sie: Sie sollen
 schlafen!!«
 
-Minuten vergingen...
+Minuten vergingen …
 
 Dann — sanken Doljas Lider herab.
 
-Sie schlief...
+Sie schlief …
 
 Erschöpft ließ Harald sich in seinen Stuhl zurückfallen.
 
@@ -305,11 +305,11 @@ an.
 diese asiatischen Geheimnisse. — Aweisha nennt man das,
 Bawirutu auch. Ich habe einmal eine Abhandlung darüber
 gelesen — von Professor Glöwe, dem berühmten Psychiater.
-Am liebsten...«
+Am liebsten …«
 
-Er schwieg und senkte den Kopf...
+Er schwieg und senkte den Kopf …
 
-»Am liebsten... ja — am liebsten brächte ich Dolja
+»Am liebsten … ja — am liebsten brächte ich Dolja
 in Glöwes Sanatorium. Der Professor ist durch seine hypnotischen
 Kuren berühmt geworden.«
 
@@ -317,7 +317,7 @@ Kuren berühmt geworden.«
 ich.
 
 »Aber Gorim!« stieß Harst hervor. »Dieser Satan
-von Gorim wird...«
+von Gorim wird …«
 
 Dolja hatte plötzlich den Kopf gehoben, die Lider geöffnet.
 Sie war — — wach! Ein stärkerer Einfluß als
@@ -340,7 +340,7 @@ mir fremde Kraft mich zu widerspruchsvollen Handlungen.
 Nur unter Aufbietung all meiner Energie konnte ich diese
 Handlungen vorzeitig beenden und so, daß mir kein Schaden
 daraus erwuchs. Nun ist dieser seelische Druck nicht
-mehr vorhanden...«
+mehr vorhanden …«
 
 Harald hatte ihre rechte Hand ergriffen und nach dem
 Pulsschlag gefühlt.
@@ -388,7 +388,7 @@ und mir, mit zurückgewandtem Kopf zu:
 »Bitte mir nicht zu folgen! Ich werde die Falltür
 wieder schließen. — Oder — — Schraut mag ebenfalls
 hinabkommen. Für Sie, Prinzessin, ist dieser Anblick hier
-nichts...«
+nichts …«
 
 »Mein Gott!« meinte Dolja entsetzt. »Was ist denn
 geschehen, Herr Harst?!«
@@ -434,7 +434,7 @@ Ich folgte ihm.
 Da — mit einem Male sah ich ihn taumeln, sah, daß
 er sich wieder emporraffte und mir hastig ein Zeichen gab.
 
-Ich verstand...
+Ich verstand …
 
 Ich bekam seinen Arm zu packen, zerrte Harst wieder
 nach oben.
@@ -509,7 +509,7 @@ den beiden regungslosen Gestalten der gelbbraunen Asiaten.
 Er hatte sich gebückt und dem einen der Männer den
 Puls gefühlt.
 
-Er richtete sich wieder auf...
+Er richtete sich wieder auf …
 
 »Tot, — und deshalb erlosch auch der unheilvolle Einfluß
 auf Dolja Dortschakoff vollständig und plötzlich! Mit
@@ -572,7 +572,7 @@ Seine Taschenlampe beleuchtete das Gerümpel.
 Zentrumbohrer, Stichsäge und Brecheisen! Die beiden Turkmenen
 wollten sich also von hier mit Gewalt durch die Decke
 hindurcharbeiten. Sie haben geahnt, daß das Zimmer
-ohne Fenster noch Kostbarkeiten enthielt, und sie...«
+ohne Fenster noch Kostbarkeiten enthielt, und sie …«
 
 Er schwieg.
 
@@ -580,7 +580,7 @@ Er hatte rasch etwas vom Boden aufgehoben, das
 neben dem Handwerkszeug gelegen hatte.
 
 Es war — — eine Reitpeitsche mit rundem silbernen
-Knopf und breitem silbernen Ring...
+Knopf und breitem silbernen Ring …
 
 <@pagebreak/>
 
@@ -623,7 +623,7 @@ etwa Silvia gleichfalls hier war?!«
 
 <@pagebreak/>
 Von oben her — nur schwach vernehmbar — ein
-Schrei...
+Schrei …
 
 Und dann Doljas Stimme:
 
@@ -683,7 +683,7 @@ Es zeigte sich, daß der Mörtel herausgekratzt war
 und der Ziegelstein sich ohne Schwierigkeiten herausheben
 ließ.
 
-Harald faßte in die Öffnung hinein...
+Harald faßte in die Öffnung hinein …
 
 Und — holte ein in Packpapier gehülltes flaches, langes
 Kästchen heraus, etwa von der Höhe und Breite eines
@@ -692,25 +692,25 @@ Ziegelsteins.
 Ein Holzkästchen war’s — eine Konfektschachtel.
 
 Und als Dolja nun den Deckel hochschlug, prallte sie
-zurück...
+zurück …
 
 »Mein Gott — das — das sind ja all unsere Juwelen!«
 rief sie.
 
 Sie wühlte in den blitzenden Kostbarkeiten.
 
-»Nur — nur das goldene Kruzifix fehlt... Das
-scheint aber auch das einzige Stück zu sein, das ...«
+»Nur — nur das goldene Kruzifix fehlt … Das
+scheint aber auch das einzige Stück zu sein, das …«
 
 Sie konnte vor Erregung nicht weitersprechen.
 
 Sie sank auf den Diwan zurück, bleich und mehr
-entsetzt als erstaunt...
+entsetzt als erstaunt …
 
 »Herr Harst, was — — bedeutet das?!« fügte sie unsicher
 hinzu.
 
-»Schwer zu sagen, Prinzessin,« erwiderte Harald grüblerisch...
+»Schwer zu sagen, Prinzessin,« erwiderte Harald grüblerisch …
 
 Und nach längerer Pause:
 
@@ -797,7 +797,7 @@ Türen gelehnt.
 
 Kurz: der Schatz war gut gehütet!
 
-Und doch...
+Und doch …
 
 Nun — der Morgen kam. Um halb sieben erwachte
 ich.
@@ -813,16 +813,16 @@ auf.
 
 Wir begannen in aller Behaglichkeit zu essen, zu trinken.
 
-Dann jedoch... dann stellte Harald seine Tasse klirrend
-hin...
+Dann jedoch … dann stellte Harald seine Tasse klirrend
+hin …
 
-Sein Gesicht war wie versteinert...
+Sein Gesicht war wie versteinert …
 
 Er deutete auf die Tür, die nebenan ins Bibliothekzimmer
-führte...
+führte …
 
 Ich sah nichts. Ich sah nur, daß die zwei Stühle noch
-an der Tür lehnten...
+an der Tür lehnten …
 
 »Was gibt’s denn, Harald,« fragte ich.
 
@@ -833,7 +833,7 @@ Ich bemühte mich, nicht blind zu sein.
 Aber ich sah wirklich nichts Besonderes.
 
 »Der — Schlüssel fehlt im Schloß!« rief Harald
-da und sprang auf...
+da und sprang auf …
 
 <@pagebreak/>
 Sprang zum Bücherschrank, — — und der Kasten
@@ -932,7 +932,7 @@ zwar so gut, daß er sich ganz sicher fühlt. Ich habe mir da
 nun einen Trick konstruiert — richtig konstruiert, auf Grund
 <@pagebreak/>
 des Tatsachenmaterials, unter Ausnutzung aller Besonderheiten
-des Falles...«
+des Falles …«
 
 »Ah — und der Trick wäre?« meinte Bergel gespannt.
 
@@ -957,7 +957,7 @@ heutzutage mit Papiermark überhaupt nicht zu bezahlen.
 Pech! Die ganzen Dortschakoff-Juwelen sind nicht ein
 Zehntel so viel wert als das Brillantkollier!
 
-Bergel lachte...
+Bergel lachte …
 
 »Aha — verstehe! Das ist der Honig, der den Ungar
 wieder nach Berlin locken soll. Wenn der Kerl nur Appetit
@@ -966,7 +966,7 @@ danach bekommt!«
 »Den Appetit muß man ihm eben machen! Dazu
 brauche ich einen Ihrer befähigsten Beamten, der tadellos
 englisch spricht und der im Hotel Esplanade als amerikanischer
-Kriegsgewinnler absteigen muß...«
+Kriegsgewinnler absteigen muß …«
 
 Was Harald weiter von seinem Trick in längeren
 Ausführungen erläuterte, ließ allerdings die Hoffnung
@@ -1043,7 +1043,7 @@ Harst war sehr zufrieden mit dem Erfolg.
 »Silvia Longa war also doch dort im Keller,« meinte
 er. »Das steht fest. Sie hat die Juwelen in das Wandversteck
 getan. Sie vergaß dort ihre Reitgerte, die sie vielleicht
-bei sich trug, um... jemand zu züchtigen.«
+bei sich trug, um … jemand zu züchtigen.«
 
 »Wen?«
 
@@ -1153,10 +1153,10 @@ im Savoy-Hotel.
 Als der dicke Holländer das Esplanade verließ, blieben
 wir hinter ihm.
 
-Und — nun erfolgte der tragische Abschluß dieser Gaunerkomödie...
+Und — nun erfolgte der tragische Abschluß dieser Gaunerkomödie …
 
 Erfolgte an einem Orte, der uns nicht ganz fremd
-war...
+war …
 
 <h2>5. Kapitel.</h2>
 
@@ -1288,7 +1288,7 @@ bleiben können. —
 Mir wurde damals der Abschied von Dolja Dortschakoff
 sehr schwer. Wenn ich zehn Jahre jünger gewesen wäre
 und wenn die Prinzessin Wert darauf gelegt hätte, die Gattin
-des berühmten Max Schraut zu werden, dann...
+des berühmten Max Schraut zu werden, dann …
 
 Aber leider — sie legte gar keinen Wert darauf.
 
