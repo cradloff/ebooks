@@ -1,41 +1,40 @@
 <@pagebreak/>
-Ein seltsames Hochzeitsgeschenk
 
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, einschl. das Verfilmungsrecht,
-vorbehalten. — Copyright 1926 by Verlag moderner
-Lektüre G.&nbsp;in.&nbsp;b.&nbsp;H., Berlin.
+<#import "*/harst.ftl" as harst>
 
-Ein seltsames Hochzeitsgeschenk.
-halten Rabe!.
+******* TODO
+
+<@harst.introshort2/>
+
+<div class="title2">Walther Kabel.</div>
 
 <h2>1. Kapitel.</h2>
 
-<h3>Der Brief erreichte uns gerade an dem Tage, als der.</h3>
-Radscha Mar Schlag Dabsal von seinem Jagdschloß in den
+Der Brief erreichte uns gerade an dem Tage, als der
+Radscha Mar Shing Dabsal von seinem Jagdschloß in den
 Bergen nach seiner Residenz Pudukattai zurückgekehrt war
-—» und wir mit ihm.
+— und wir mit ihm.
 
 Harst prüfte die abgestempelte Postmarke …
 
 »aus Ceylon, aus Kolombo, mein Alter …«
 
-Sehr geehrter Herr Harst,
+<p class="centered">Sehr geehrter Herr Harst,</p>
 
 aus den Zeitungen ersah ich, daß Sie in Pudukattai weilen.
 Hoffentlich trifft mein Brief Sie dort noch an.
 
 Gestatten Sie, daß ich zunächst Ihnen über meine Person
-Ausschluß gebe. Im Jahre 1883 begab sich mein Vater,
+Aufschluß gebe. Im Jahre 1883 begab sich mein Vater,
 der ebenfalls Major der Heilsarmee war, mit mehreren
 anderen Offizieren und Soldaten hier nach Kolombo, um,
 wie wir uns ausdrücken, den Glaubensfeldzug zu beginnen.
 Seitdem haben zahllose verirrte Seelen sich vor der
-Fußbank eingefunden, und unser Werk gedieh zu Ehren
+Bußbank eingefunden, und unser Werk gedieh zu Ehren
 Gottes auf das herrlichste.
 
 Ich als einziges Kind meiner inzwischen dahingegangenen
-Eltern Gestaltete hier vor acht Jahren eine Glaubensschwester,
+Eltern heiratete hier vor acht Jahren eine Glaubensschwester,
 die ehemals der so verachteten Kaste der Rodias
 angehörte.
 
@@ -45,34 +44,34 @@ ganz besonderen Begleitumständen verschwunden. schon
 vor längerer Zeit merkte ich ihr eine völlige Veränderung
 an. Sie wurde still und in sich gekehrt, und dieser seelische
 Druck verstärkte sich bis zu tiefer Schwermut. Umsonst
-flehte ich sie an, mir die Ursache ihres geheimen Kümmere
+flehte ich sie an, mir die Ursache ihres geheimen Kummers
 zu nennen. Sie antwortete mir stets ausweichend, und
 nur zuweilen deutete sie mir an, daß sie dieses Schwere
 allein durchkämpfen müsse.
 
 Dann stellte ich vor einem Monat fest, daß sie nachts
 sich aus unserem Hause entfernte und stundenlang wegblieb.
-Sie hatte aus ihren Wunsch ein eigenes Schläferin.
-wer bezogen, und nur durch einen Zufall kam ich dahinter,
+Sie hatte auf ihren Wunsch ein eigenes Schlafzimmer
+bezogen, und nur durch einen Zufall kam ich dahinter,
 daß sie diese nächtlichen Spaziergänge unternahm.
 Zweimal versuchte ich ihr zu folgen. Sie war jedoch sehr
 vorsichtig, ahnte, daß ich hinter ihr her war und kehrte auf
-Umwegen wieder beim.
+Umwegen wieder heim.
 
 Von mir befragt, wohin sie diese nächtlichen Ausflüge
-führten, verweigerte sie mir jede Antwort und weint? nur
-so herzzerbrechend, daß ich nicht Reiter in sie drang.
+führten, verweigerte sie mir jede Antwort und weinte nur
+so herzzerbrechend, daß ich nicht weiter in sie drang.
 
 Drei Tage später hörte ich gegen Mitternacht Elizabeth
-in ihrem Schlafzimmer, das neben dem meinen liegt, lohnt
+in ihrem Schlafzimmer, das neben dem meinen liegt, laut
 aufschreien. Ich fand die Verbindungstür verschlossen und
-mußte daher erst auf die Veranda k;Anzug, um durch ein?
+mußte daher erst auf die Veranda hinaus, um durch eins
 der Fenster das Zimmer betreten zu können,
 
 Das Zimmer war leer, Herr Harst. das Bett unbenutzt.
 Und der eine Fensterflügel stand weit offen.
 
-Seitdem ist meine Frau von niemandem nicht Zeichen
+Seitdem ist meine Frau von niemandem mehr gesehen
 worden. Die hiesige Polizei hat sich die größte Mühe gegeben,
 den Vorfall aufzuklären — ohne jeden Erfolg!
 
@@ -88,23 +87,23 @@ Es handelt sich um das Kind einer (mir unbekannten)
 Eingeborenen, um die kleine Leiche eines Knaben, die in
 dem Zinkkasten in Kampfer eingebettet lag.
 
-Sie werden begleiten, Herr Harst, daß dieser entsetzliche
-Fund mich vollkommen. niedergeschmettert hat. Ich als
-Kommandeur der hicesiaetHeilSsarmeewäre für immer gesellschaftlich
+Sie werden begreifen, Herr Harst, daß dieser entsetzliche
+Fund mich vollkommen niedergeschmettert hat. Ich als
+Kommandeur der hiesigen Heilsarmee wäre für immer gesellschaftlich
 und auch für die Gläubigen erledigt gewesen,
 wenn ich irgend jemandem hiervon Mitteilung gemacht
-hätte. Auch so schon bin ich Star? bloßgestellt und müßte
-eigentlich von meinem Posten zurücktreten. samt wäre
+hätte. Auch so schon bin ich stark bloßgestellt und müßte
+eigentlich von meinem Posten zurücktreten. Damit wäre
 aber niemandem geholfen.
 
 Ich bitte Sie nun inständig, in meinem Interesse hierher
 zu kommen und das Dunkel dieser Ereignisse zu lüften.
-Über die Kanonartige werden wir einig werden.
+Über die Honorarfrage werden wir einig werden.
 
-Ihr sehr ergebener
+<p class="pre centered">Ihr sehr ergebener
 Daniel Bolling,
-Kolombo, Einmauern Gardens,
-Kalkuttastr.
+Kolombo, Cinnamom Gardens,
+Kalkuttastr. 6.</p>
 
 »Der Mann gefällt mir,« sagte Harald, nachdem er
 mir den Brief vorgelesen hatte. »Er macht keine überflüssigen
@@ -115,12 +114,12 @@ Es war Zeit, zum Abendessen in den Speisesaal hinabzugehen.
 
 Harald teilte dem Fürsten dann im Laufe der Unterhaltung
 mit, daß wir einen Ausflug nach Kolombo unternehmen
-möchten
+möchten …
 
-Radscha abgab erklärte, er Stelle uns gern seine Privatjacht
+Radscha Dabsal erklärte, er stelle uns gern seine Privatjacht
 zur Verfügung, und so kam es denn, daß wir schon
-am nächsten Morgen den Ruhm-Fluß Ahn Es dampften
-und achtzehn Stunden später im sagen von ziehende Anker
+am nächsten Morgen den Pudu-Fluß abwärts dampften
+und achtzehn Stunden später im Hafen von Kolombo Anker
 warfen.
 
 Da wir nachts in den Hafen eingelaufen waren, konnten
@@ -130,7 +129,7 @@ an Land gehen und uns in einer Fremdenpension
 am Hafen als amerikanische Touristen einmieten.
 
 Hier im Pensionat nahmen wir ein Bad, frühstückten
-und begaben uns in die Villenvorstadt Einmauern Gardens,
+und begaben uns in die Villenvorstadt Cinnamom Gardens,
 was eigentlich Zimtgärten bedeutet. Von diesen von
 den Portugiesen einst angelegten Zimtplantagen ist nichts
 mehr vorhanden als der Name, — und der umfaßt jetzt
@@ -140,7 +139,7 @@ Die Kalkuttastraße war bald gefunden.
 
 Das Grundstück Nr. 6, ein großer Garten mit einem
 schneeweißen Holzhause mit breiter Veranda, gefiel uns sofort
-durchs seine peinliche Sauberkeit und die wundervollen
+durch seine peinliche Sauberkeit und die wundervollen
 alten Bäume.
 
 Und dann der Major Daniel Bolling …
@@ -148,16 +147,16 @@ Und dann der Major Daniel Bolling …
 Ein kräftiger, blühender Mann mit blondem Vollbart
 …
 
-Ein Mann, in dessen Augen jetzt der Ausdruck diesen
-Weibes lag … —
+Ein Mann, in dessen Augen jetzt der Ausdruck tiefen
+Leides lag … —
 
 Wir hatten uns unter anderen Namen anmelden lassen:
-Herren und Schrak … — Und saßen nun mit Bolling im
+Horter und Schrack … — Und saßen nun mit Bolling im
 Garten in einem Holzpavillon, wo wir unmöglich belauscht
 werden konnten …
 
 Bolling hatte uns mit kurzem Dankeswort nochmals
-die Hand Gebrüll …
+die Hand gedrückt …
 
 »Herr Harst,« erklärte er nun, »fragen Sie, was Sie
 noch zu fragen haben … Mein Brief war ja nur kurz …
@@ -166,9 +165,9 @@ Ich werde Ihnen nichts verhehlen — nichts …«
 Harald, jetzt Mr. Horter, begann denn auch sogleich
 sein Verhör …
 
-»Mr. Bolling, Ihre Gattin war eine Rodia, Wir ist
+»Mr. Bolling, Ihre Gattin war eine Rodia. Mir ist
 bekannt, daß die Rodias selbst heute noch von den Singhalesen
-und den Tamilen, den Hauptvölkern Co: »ans, gemieden
+und den Tamilen, den Hauptvölkern Ceylons, gemieden
 werden … Selbst die moderne Zeit hat die Kastenunterschiede
 nicht verwischen können. — Woher stammte
 Ihre Frau?«
@@ -176,13 +175,13 @@ Ihre Frau?«
 »Aus der Wildnis, Herr Harst … aus dem Innern,
 <@pagebreak/>
 wo es Überall versteckte Dörfer der Rodias gibt … Bei
-einem unserer Werbefeldzüge kam 14 vor acht Jahren bis
+einem unserer Werbefeldzüge kam ich vor acht Jahren bis
 zu dem Dorfe Gannawa. Dort sah ich eine junge Rodia,
 ein Mädchen von fast weißer Hautfarbe, wie ja überhaupt
-die Rodias zumeist Zeit hellhäutig sind …: Dieses Mädchen
+die Rodias zumeist recht hellhäutig sind … Dieses Mädchen
 war die einzige, die sich bekehren ließ … Wir nahmen
-sie mit nach Kolombo, und vier vermute später war sie unter
-dem Spitznamen Elizabeth meine Frau …«
+sie mit nach Kolombo, und vier Monate später war sie unter
+dem Taufnamen Elizabeth meine Frau …«
 
 »Eine etwas romantische Ehe, Mr. Bolling …«
 
@@ -190,7 +189,7 @@ dem Spitznamen Elizabeth meine Frau …«
 
 »Bitte: Horter!!«
 
-»»Gut …»Herr Horter, — keineswegs romantisch, denn
+»Gut … Herr Horter, — keineswegs romantisch, denn
 Elizabeth zeigte sich überaus intelligent und hatte in den
 vier Monaten im Hause meines Glaubensbruders Simpson
 alles gelernt, was sie als Hausfrau eines Europäerheims
@@ -205,7 +204,7 @@ ihres alten Geisterglaubens, den man kaum als Religion
 bezeichnen kann …«
 
 Bolling zuckte die Achseln … »Herr Horter, Elizabeths
-Vater war und ist noch heute Dorfältesten in Gannawa. Er
+Vater war und ist noch heute Dorfältester in Gannawa. Er
 hat seine Tochter nur ziehen lassen, nachdem ich ihm Geld
 gegeben hatte. Seitdem ist niemand von der Familie noch
 irgendwie an mich herangetreten — niemand! Meine Frau
@@ -215,13 +214,13 @@ bis dann eben … dieses rätselhafte Unheil hereinbrach …«
 »Hat die Polizei auch in dem Dorfe Gannawa nach
 Ihrer Frau gesucht?«
 
-»Auch dort, Herr Harst, — — vergeblicg wie überall
-anderswo …«—
+»Auch dort, Herr Harst, — — vergeblich wie überall
+anderswo …«
 
-»un gut …« nickte Harald. »Dann zeigen Sie uns
-ich! das Innere Ihres Hauses und besonders das Schachteln.
+»Nun gut …« nickte Harald. »Dann zeigen Sie uns
+jetzt das Innere Ihres Hauses und besonders das Schlafzimmer
 <@pagebreak/>
-wer und den Zinkbehälter mit der kleinen Leiche …«
+und den Zinkbehälter mit der kleinen Leiche …«
 
 Wir schritten dem Hofe wieder zu …
 
@@ -229,27 +228,28 @@ Das Haus und das Schlafzimmer brachten nichts
 Neues, nichts Wichtiges …
 
 Wichtig dann jedoch der Augenblick, als Bolling die
-Truhe ausgeschlossen hatte …
+Truhe aufgeschlossen hatte …
 
 Oben in dieser Truhe mit den eigentümlichen Messingbeschlägen
 lagen farbige Leinengewänder, wie sie die eingeborenen
 Frauen und Mädchen hier tragen …
 
-Bolling. hob diese Gewänder empor …
+Bolling hob diese Gewänder empor …
 
-rief: »Der … — Zinkkasten »2!«
+rief: »Der … — Zinkkasten?!«
+
 Bückte sich … Wühlte in den anderen Dingen, die
-die Truhe unten fühlten …
+die Truhe unten füllten …
 
 Der Zinkbehälter war nicht mehr da … —
 
-»Wann haben Sie die Truhe zum kehrten Male qae-öffnet?«
+»Wann haben Sie die Truhe zum letzten Male geöffnet?«
 fragte Harald, ohne irgendwie über das Fehlen
 dieses unheimlichen Kastens enttäuscht zu sein …
 
 »Gestern morgen, Herr Horter …«
 
-»He Schreiben Sie mir dann, bitte, den Brustkasten und
+»Beschreiben Sie mir dann, bitte, den Zinkkasten und
 die kleine Leiche genauer …«
 
 Bolling mußte seine Gedanken erst wieder sammeln …
@@ -257,25 +257,25 @@ Bolling mußte seine Gedanken erst wieder sammeln …
 »Der Kasten … ja, das war einer jener luftdicht schließenden
 Behälter, in denen hier in den Tropen empfindliche
 Chemikalien, photographische Platten und Filme — kurz
-alles, was durch Feuchtigkeit verderben könnte, zum Verstand
-kommen … Die (Größe des Kastens betrug etwa
+alles, was durch Feuchtigkeit verderben könnte, zum Versand
+kommen … Die Größe des Kastens betrug etwa
 sechzig Zentimeter Länge, fünfundzwanzig Zentimeter
 Breite und zwanzig Zentimeter Höhe. — die Kindesleiche
-war Ware) das Mampferpulver bereits völlig mumifiziert
+war durch das Kampferpulver bereits völlig mumifiziert
 und lag völlig nackt in dem Kasten …«
 
-»haben Sie die die:ich Mumie berührt?«
+»haben Sie die kleine Mumie berührt?«
 
-»gen — rein …!« — Bolling schüttelte sich fast vor
+»Nein — nein …!« — Bolling schüttelte sich fast vor
 Ekel …
 
-»las ist sehr schade,« meinte Harald gleichmitig. »Ich
-hätte gern gewußt, ob die Mumie schon hart war als
+»Das ist sehr schade,« meinte Harald gleichmütig. »Ich
+hätte gern gewußt, ob die Mumie schon hart war, also
 <@pagebreak/>
 schon alt … — Nun, auch so hoffe ich zum Ziele zu kommen
-…
+…«
 
-Bolling konnte sein Erstaunen nicht. verhehlen. »Wie,
+Bolling konnte sein Erstaunen nicht verhehlen. »Wie,
 Sie glauben …«
 
 Harald ließ ihn nicht aussprechen …
@@ -284,32 +284,30 @@ Harald ließ ihn nicht aussprechen …
 … — Haben Sie sich einmal näher mit den Sitten
 und Gebräuchen der Rodias beschäftigt?«
 
-»Gewiß … Aber …««
+»Gewiß … Aber …«
 
-… über das Deckel jenes Engländers Knox, der
-neunzehn Jahre als Gefangenen in Kandy lebte, haben
+»… über das Buch jenes Engländers Knox, der
+neunzehn Jahre als Gefangener in Kandy lebte, haben
 Sie wohl nicht gelesen?«
 
 »Nein …«
 
 »Dieser Knox hat nachher im Jahre 1650 in London
-ein Buch Trick einen lassen un? schildert darin die damaligen
+ein Buch erscheinen lassen und schildert darin die damaligen
 Verhältnisse, Sitten und Gebräuche hier auf Ceylon so genau,
-wie seit ihm keiner mehr. Sein Kerl wurde 1689
-ins Deutsche übersetzt und sieht daheim in meiner Bibliothek
+wie seit ihm keiner mehr. Sein Werk wurde 1689
+ins Deutsche übersetzt und steht daheim in meiner Bibliothek
 als wertvolle Rarität …«
 
 »Nun ja, — — und?!«
 
-»O, iQ; meine nur, daß Knox noch heute als bester
+»O, ich meine nur, daß Knox noch heute als bester
 Kenner der Rodias gelten kann … — Jetzt gestatten Sie,
-daß drin uns vergl Schieden, Mr. Bolling .:… Nur noch
+daß wir uns verabschieden, Mr. Bolling … Nur noch
 eine Frage: Wie kommt man am bequemsten nach dem
 Dorfe Gannawa?«
 
-<h2>9. Kapitel.</h2>
-
-<h3>A.</h3>
+<h2>2. Kapitel.</h2>
 
 Morgens waren wir in Kandy …
 
@@ -317,17 +315,17 @@ Und mittags ein Uhr bestiegen wir dann einen mit
 zwei flinken Zebus bespannten leichten Wagen, der uns in
 die Wildnis bringen sollte.
 
-Unser Wagenlenker war ein -Singhalese, ein älterer,
+Unser Wagenlenker war ein Singhalese, ein älterer,
 stiller Mann, der noch nach Landessitte das Haar lang trug
-1m1d oben in dem Haar zwei große Schildpattkämme. Er
+und oben in dem Haar zwei große Schildpattkämme. Er
 <@pagebreak/>
 war uns von dem Hoteldirektor als ortskundig empfohlen
 worden. Wir hatten uns hier ebenfalls als Touristen ausgegeben,
-die möglichst seltene photographische Ausnahmen
+die möglichst seltene photographische Aufnahmen
 machen wollten.
 
 Sehr bald bog unser Gefährt von der breiten, tadellosen
-Straße in das Dickicht ab … Ein Fahrweg lies hier
+Straße in das Dickicht ab … Ein Fahrweg lief hier
 durch Wälder, Felder, Täler und steinige Bergterrassen in
 die Ferne …
 
@@ -346,78 +344,75 @@ Dann ein kaum mehr erkennbarer Pfad durch dichtesten
 Urwald …
 
 Der Singhalese dreht sich um und brüllt uns in seinem
-schauerlich en Englisch zu:
+schauerlichen Englisch zu:
 
 »Sind sofort in Gannawa … Noch fünf Minuten!«
 
 »Halt!« befiehlt Harst …
 
-Die Zebus stehen und Schnauzen …
+Die Zebus stehen und schnaufen …
 
-Wir klettern aus dem Kaffeetassen heraus …
+Wir klettern aus dem Marterkasten heraus …
 
 Harald erklärt dem Wagenbesitzer, daß er hier in der
 Nähe warten solle,
 
-Rechts ist eine Lichtung … Und« dort spannt der
+Rechts ist eine Lichtung … Und dort spannt der
 Singhalese seine Tiere aus, legt sich in den Wagen und
 verspricht, unsere Rucksäcke sorgsam bewachen zu wollen.
 
 Wir beide, jeder eine Kamera im Lederbehälter auf
-dem Rücken wandern zu Fuß weiter … — Bisher habe
-ich von Harald über unseren »Fall Elizabeth« kein Sterbenswörtchen
-herauspressen können … Er hat ob:n seine
+dem Rücken, wandern zu Fuß weiter … — Bisher habe
+ich von Harald über unseren »Fall Elizabeth« kein
+Sterbenswörtchen herauspressen können … Er hat eben seine
 Eigentümlichkeiten, der gute Harald … Jetzt verlange ich
-sehr energisch;, daß er mir Ausschluß Über seine Absichten
+sehr energisch, daß er mir Aufschluß Über seine Absichten
 gibt …
 
 <@pagebreak/>
-»am — du b’t ja beinahe grob,« meint er … »Du
-hättest lieber daß: ’m in Berlin mal deine Nase in das
-Knoxsche Buch steck’! sollen … Die G6’ schickte mit der verschwundenen
-Elizabeth wäre dir van: genau so klar wie
+»Hm — du bist ja beinahe grob,« meint er … »Du
+hättest lieber daheim in Berlin mal deine Nase in das
+Knoxsche Buch stecken sollen … Die Geschichte mit der
+verschwundenen Elizabeth wäre dir dann genau so klar wie
 mir …«
 
-»Vielleicht auch) nicht …! Im übrigen. verzichte ich
-jetzt auf jede sreudliche Belehrung Seinerseits … Ich
-werde mir Mühe c’ben, meine Nase wenigstens hier kräftig
-zu benutzen und sie …
+»Vielleicht auch nicht …! Im übrigen verzichte ich
+jetzt auf jede freundliche Belehrung deinerseits … Ich
+werde mir Mühe geben, meine Nase wenigstens hier kräftig
+zu benutzen und sie …«
 
 Meine bissige Bemerkung wurde jählings unterbrochen
+… Aus dem dichten Gestrüpp rechts vom Pfade brach eine
+Ziege hervor, ein schneeweiße Tier mit merkwürdigen
+Streifen auf dem Rücken — Streifen in rot, grün, ockergelb
+und schwarz. Es sah aus, als ob die Ziege eine grell
+gestreifte Rückendecke trüge.
 
-… Aus dem dich.:n Gestrüpp rechts firm Pfade brach eine
+Die Geiß mit dem prallen Euter machte vor uns halt,
+wedelte mit dem Stummelschwänzchen und meckerte vertraulich.
 
-lege hervor, »ein schneeweiße Sie: mit merkwürdigen
-
-Orientreisen auf dem Rücken — Streifen in rot, grün, Hellgelb
-und schwarz. Es sah aus, als 1) die Ziege eine grell
-gestreifte Rückend: ehe trüge.
-
-Die Geiß mich: dem prallen Gute« machte vor uns halt,
-wedelte mit dem Stummelschwänzchen und mehrere vertraulich.
-
-Um den Hals hatte sie einen 1U:vorigen langen Strick,
+Um den Hals hatte sie einen faserigen langen Strick,
 dessen Ende hinter ihr her schleifte.
 
-Aus dieser gehe erkannte ich um, daß die Streifen
-dem Tier mit Such’ aufgemalt war! und daß sie auch auf
+Aus dieser Nähe erkannte ich nun, daß die Streifen
+dem Tier mit Farbe aufgemalt waren und daß sie auch auf
 der Stirn genau dieselben Streifen hatte …
 
-Harald meinte lächelnd: »der Dorf Gannawa begrüßt
-uns durch ein: Geisterziege, Ei: sich losgerissen hat …
-Wollen einmal sehen, woher sie dar. Das Dickicht kann
-an der Stelle, wo das Tier soeben h’caustrat, kaum so undurchdringlich
-sein wie hier zum Beispiel …«
+Harald meinte lächelnd: »Das Dorf Gannawa begrüßt
+uns durch eine Geisterziege, die sich losgerissen hat …
+Wollen einmal sehen, woher sie kam. Das Dickicht kann
+an der Stelle, wo das Tier soeben heraustrat, kaum so
+undurchdringlich sein wie hier zum Beispiel …«
 
-Und Benahm den Strick der Ziege, traute ihr den
-Kopf und schritt weiter … Sie trotzte ihm willig, und
-bald darauf hatten wir auch heraus: fanden, daß nur eine
-dünne Wand von grünen Schling’lanzen an der einen
-Stelle eine Abzweigung des Pfades »erzählte, die aus eine
-Waldlichtung führte, an deren Bekränzt drei Bambushütten
+Und er nahm den Strick der Ziege, kraute ihr den
+Kopf und schritt weiter … Sie folgte ihm willig, und
+bald darauf hatten wir auch herausgefunden, daß nur eine
+dünne Wand von grünen Schlingpflanzen an der einen
+Stelle eine Abzweigung des Pfades verhüllte, die auf eine
+Waldlichtung führte, an deren Westrand drei Bambushütten
 standen …
 
-Der Fußpfad lief durch das hohe Brot auf die Hütten
+Der Fußpfad lief durch das hohe Gras auf die Hütten
 <@pagebreak/>
 zu, die seltsamerweise weder Tür- noch Fensteröffnungen
 Hatten und mit der Rückseite halb im Gestrüpp verborgen
@@ -430,16 +425,16 @@ Und Harst hatte es merkwürdig eilig … Was ich immerhin
 etwas leichtsinnig fand … denn daß diese Hütten ihre
 besondere Bedeutung haben mußten, war wohl klar …
 Bewohnt konnten sie nicht sein … Dann wäre das Gras
-aus der Lichtung weit stärker niedergerissen gewesen, dann
-Würde auch anderes noch verraten haben, daß hier Menschen
-hausen … — konnte man also wissen, was in den
-Bambushäuschen stete?! Vorratsöhäusjer etwa?! — Ausgeschlossen!
-So weit weg von dem eigentlichen Dorfe
+auf der Lichtung weit stärker niedergetreten gewesen, dann
+würde auch anderes noch verraten haben, daß hier Menschen
+hausten … — konnte man also wissen, was in den
+Bambushäuschen steckte?! Vorratshäuser etwa?! —
+Ausgeschlossen! So weit weg von dem eigentlichen Dorfe
 baut niemand Vorratshütten …!
 
-Inzwischen bot!? Harald die mittlere Hütte« erreicht …
+Inzwischen hatte Harald die mittlere Hütte erreicht …
 
-Wie’n
+Winkte …
 
 Ich war neben ihm …
 
@@ -448,36 +443,36 @@ Ich war neben ihm …
 
 Ich sah, daß diese mit den merkwürdigsten Dingen behängt
 waren …: Affenfellen, Vogelköpfen, Affenskeletten,
-getrockneten Eidechsen, gefärbten Stern und anderem
+getrockneten Eidechsen, gefärbten Eiern und anderem
 Kram!
 
-Und als ich diese groteske Sammlunug von Gegenständen
+Und als ich diese groteske Sammlung von Gegenständen
 gewahrte, kam mir die Erleuchtung: in Afrika hätte
 man die Bambushäuschen Fetischhütten genannt! Hier
 bei den Rodias waren es Geisterhütten … Und Harald
-hatte ja auch von einer Geisterziege gesprochen!«
+hatte ja auch von einer Geisterziege gesprochen!
 
 Dann meinte Harst auch schon: »Nun ist dir wohl das
-erste Licht ausgegangen, mein Alter …! Diese Häuschen
+erste Licht aufgegangen, mein Alter …! Diese Häuschen
 Hier sind gleichsam die Kirche der Rodias. In den primitiven
-religivosen Vorstellungen dieser Rodias spielen Geister
+religiösen Vorstellungen dieser Rodias spielen Geister
 die Hauptrolle. Um diese Geister günstig zu stimmen, bauen
-die Kobras Hütten mit dem Eingang nach einem undurchdringlichen
-Dick tot bin und stellen in diese Hütten nicht nur
+die Rodias Hütten mit dem Eingang nach einem undurchdringlichen
+Dickicht hin und stellen in diese Hütten nicht nur
 <@pagebreak/>
 jeden Tag Eßwaren hinein, sondern binden dort auch zuweilen
-eine Ziege an damit die Geister auch einmal Milch
-genießen können. Rede der Hütten hat an der Seite ein
-Türchen, lediglich zu dem Zweck, um die Lebensmittel hineinschicken
-zu können … Diese Ziege aber hat sich in sehr
-respektloser Weise heute- (o8aerissen Wand ist rot Schlüpft …
-Bitte — dort an der linken Hüte sicher du das schmale
-Türchen ofssenstchen …«
+eine Ziege an, damit die Geister auch einmal Milch
+genießen können. Jede der Hütten hat an der Seite ein
+Türchen, lediglich zu dem Zweck, um die Lebensmittel
+hineinschieben zu können … Diese Ziege aber hat sich in sehr
+respektloser Weise heute losgerissen und ist entschlüpft …
+Bitte — dort an der linken Hütte siehst du das schmale
+Türchen offenstehen …«
 
 Es stimmte …
 
-»Und wer ist die Lebensmittel auf?« fragte ich. »Doch
-wohl ein besonders ich lauer Rodia, der den Aberglauben
+»Und wer ißt die Lebensmittel auf?« fragte ich. »Doch
+wohl ein besonders schlauer Rodia, der den Aberglauben
 der Seinen verlacht …«
 
 »Irrtum …! Die Rodias sind unheimlich gewissenhaft,
@@ -486,10 +481,10 @@ ihnen würde es waren, nach Dunkelwerden diese Lichtung
 zu betreten. Ihre religiösen Gebräuche und Anschauungen
 haben seit Jahrhunderten nicht die geringste Wandlung erfahren.
 Was der Engländer Knox von ihnen berichtet,
-trifft vor« heute zu, wie neuere Forscher bestätigt haben,
+trifft noch heute zu, wie neuere Forscher bestätigt haben,
 nur sind die Rodias vorsichtiger und mißtrauischer geworden
-und plaudern so Zeit nichts mehr aus, was ihnen
-irgendwie unangenehm werden könnte, zumal unseres in
+und plaudern so leicht nichts mehr aus, was ihnen
+irgendwie unangenehm werden könnte, zumal vieles in
 ihrer schlichten Religion sie doch mit den modernen Strafgesetzen
 in Konflikt bringen könnte …«
 
@@ -506,16 +501,17 @@ Ihrigen erhalten?«
 
 »Gebeten?!«
 
-»Gewiß … Du wirst daß nachher schon verstehen …
-Jetzt wollen wir die drei Hütten, von innen besichtigen …
-Ich Falle Star! daß! wir etwas finden werden …«
-Lebensmittel …
+»Gewiß … Du wirst das nachher schon verstehen …
+Jetzt wollen wir die drei Hütten von innen besichtigen …
+Ich hoffe stark, daß wir etwas finden werden …«
+
+»Lebensmittel …«
 
 <@pagebreak/>
 »Nein …« Er sprach leiser. »Nein, lieber Alter:
 Frau Bolling!«
 
-»Wie?! Hier … hier in den … Geisterhütten …«?
+»Wie?! Hier … hier in den … Geisterhütten …?
 Aber — — die Polizei hat doch …«
 
 »nach Frau Elizabeth gesucht … ganz recht …
@@ -528,38 +524,37 @@ Ziege … Ich will mit der linken Hütte beginnen …«
 »Du meinst, Frau Bolling könnte fliehen wollen?«
 flüsterte ich, und ich war leicht erregt und fügte unsicher
 hinzu: »Soll ich sie denn festhalten, wenn sie entwischen
-will x?« …
+will?«
 
 »Und ob!! Aber ich denke, sie wird dort links stecken
-
-— Schau’ mal hier auf den Pfad … Das sind Spuren
-von europäischen Tawenstiefeln … Und diese Fährten laufen
-dort nach links, rührend nach) den beiden anderen
+… Schau’ mal hier auf den Pfad … Das sind Spuren
+von europäischen Damenstiefeln … Und diese Fährten laufen
+dort nach links, während nach den beiden anderen
 Hütten keine einzige dieser vielsagenden Spuren führt …«
 
-Er blickte scharf mußten, winkte mir dann …
+Er blickte scharf umher, winkte mir dann …
 
-»gomm’ nur mit … Frau Bolling ist dort, wo ich es
+»Komm’ nur mit … Frau Bolling ist dort, wo ich es
 vermute …«
 
 Er band die Ziege an einen Pfosten der mittleren
 Hütte fest. Dann schritten wir auf das offene Türchen der
 linken Hütte zu … Harald trat tief gebückt ein … Ich
-folgte … Seine Taschenlampe flammte auf … ck
+folgte … Seine Taschenlampe flammte auf …
 
 Hier im Innern ein paar Körbchen mit Früchten,
-eine Schulter nur gezogen Reis und eine zweite mit einem
-am Spiel;e gehaltenen? Tun …
+eine Schüssel mit gekochtem Reis und eine zweite mit einem
+am Spieße gebratenen Huhn …
 
-Im übrigen — Mole …
+Im übrigen — — nichts …
 
-Uhr tue eigentliche Tür nach dem. Dickicht stand
-gossen … Stadtteil konnte Frau Bolling dorthin nicht
-ctaifommen vom … Tümpel diese Dornenmasse dort vor
-der Tür konnte sich niemand hindurchdränagaen …
+Aber die eigentliche Tür nach dem Dickicht stand
+offen … Trotzdem konnte Frau Bolling dorthin nicht
+entkommen sein … Durch diese Dornenmasse dort vor
+der Tür konnte sich niemand hindurchdrängen …
 
-Harald sagte leiste auf deutsch, — und unsere Mutter«-
-Sprache bebrillte Traum Elizabeth sicherlich nicht:
+Harald sagte leiste auf deutsch, — und unsere Muttersprache
+beherrschte Frau Elizabeth sicherlich nicht:
 <@pagebreak/>
 »Sie ist hier … Blicke mal nach oben …«
 
@@ -573,21 +568,21 @@ Sah dort ein Lager von Maisstroh …
 
 »Frau Bolling,« rief Harald nun halblaut auf englisch,
 »bitte, zeigen Sie sich … Sie liegen unter dem
-Maisstroh … Die Bambusflöße sind so stark durchschlagen,
+Maisstroh … Die Bambusstäbe sind so stark durchgebogen,
 daß sie eine größere Last tragen müssen als nur
 das Strohlager … Fürchten Sie nichts von uns … Wenn
 Sie es wünschen, werden wir Ihrem Manne verschweigen,
-Wegs« T- Uhr Griwgtsdorf wieder aufgesucht haben …
+weshalb Sie Ihr Heimatdorf wieder aufgesucht haben …«
 
 Das Stroh raschelte …
 
-Sir Fatal in erneut europäischen Leinenkleid kam zum
+Eine Frau in einem europäischen Leinenkleid kam zum
 Vorschein …
 
 Sprang nun elastisch von dem Hängeboden herab …
 
-Ich war überrascht … Diese Frau Bolling sah voll
-kommen wie eine Europäerin aus — vollkommen …
+Ich war überrascht … Diese Frau Bolling sah vollkommen
+wie eine Europäerin aus — vollkommen …
 
 Frau Bolling blickte uns prüfend an …
 
@@ -596,7 +591,7 @@ Schlug die Hände vor das Gesicht …
 
 Harald redete ihr gütig zu …
 
-».— Ich kenne Ihren Herzenskummer … Ihr Mann
+»… Ich kenne Ihren Herzenskummer … Ihr Mann
 wird nichts erfahren … Begleiten Sie uns …«
 
 Seltsam: sie kam wirklich mit!
@@ -606,8 +601,8 @@ bisher …!
 
 <h2>3. Kapitel.</h2>
 
-<h3>Kaum saßen wir nun zu Dreien auf dem Rücksitz des.</h3>
-Zebu-Wagens, kaum waren wir. bei bereits anbrechender
+Kaum saßen wir nun zu Dreien auf dem Rücksitz des
+Zebu-Wagens, kaum waren wir bei bereits anbrechender
 Dunkelheit eine Weile unterwegs, als Frau Elizabeth gesprächig
 wurde …
 
@@ -620,14 +615,14 @@ gebildeten Dame … Sie erklärte, sie habe bereits sehr
 viel über uns in den Zeitungen gelesen, und sie interessiere
 sich glühend für unseren Beruf …
 
-Mit einem Wort: sie hatte jede Scheu und Verlegen:
-Wahrheit abgestreift, nachdem wir, gerade wir, ihr die Gewähr
+Mit einem Wort: sie hatte jede Scheu und Verlegenheit
+abgestreift, nachdem wir, gerade wir, ihr die Gewähr
 boten, daß wir ihr Geheimnis hüten würden …
 
 Unser alter Singhalese auf dem Kutschersitz fuhr jetzt
-nur im Schritt — der Dunkelheit gegen …
+nur im Schritt — der Dunkelheit wegen …
 
-Dann mußte ich mit der Tasckenlov’e neben dem Kutscher
+Dann mußte ich mit der Taschenlampe neben dem Kutscher
 Platz nehmen und den Weg beleuchten …
 
 Die Zebus schlugen einen tollen Trab an … Die
@@ -636,14 +631,15 @@ durchgeschüttelt …
 
 Aber — um fünf Uhr morgens langten wir in Kandy
 an …
+
 Harald kaufte für Frau Elizabeth einen Gesichtsschleier
 …
 
-Um acht Uhr Hafen wir im Zuge nach Kolombo …
-Erster Klasse, eigenes Abteil … Ich … schloß ein …
-Kein Wunder … denn die verflossene Nacht auf dem gelungen
-war ja schlimmer gewesen als ein Ritt aus einem
-»tosenden« Dromedar …
+Um acht Uhr saßen wir im Zuge nach Kolombo …
+Erster Klasse, eigenes Abteil … Ich … schlief ein …
+Kein Wunder … denn die verflossene Nacht auf dem Zebu-Wagen
+war ja schlimmer gewesen als ein Ritt auf einem
+»stoßenden« Dromedar …
 
 Ich schlief …
 
@@ -659,15 +655,15 @@ Bolling saß auf der Veranda … Kam uns entgegengelaufen
 
 »Schon wieder zurück, meine Herren?«
 
-»wir Sie sehen, Sir. Bolling …«
+»Wie Sie sehen, Mr. Bolling …«
 
 »und …?!«
 
-»Mit Erfolg …!?!? Wir haben Ihre Gattin gefunden
+»Mit Erfolg …!! Wir haben Ihre Gattin gefunden
 <@pagebreak/>
 … Das Heimweh hatte sie zu ihrer Familie getrieben,
 nachdem sie hier im Eingeborenenviertel mehrere Male
-mit ihrer Schwester zusammengetroffen war — dabei die
+mit ihrer Schwester zusammengetroffen war — daher die
 nächtlichen Spaziergänge. Sie sehen, Mr. Bolling, der
 Grund des Verschwindens Ihrer Gattin ist ein durchaus
 harmloser und … edler! Übrigens wäre Ihre Frau jetzt
@@ -676,13 +672,13 @@ ohnedies zurückgekehrt …«
 Bolling starrte Harald an …
 
 »Ja … gewiß, gewiß …« meinte er, noch vollkommen
-verwirrt … »Aber …’ aber … die Mumie des
+verwirrt … »Aber … aber … die Mumie des
 Kindes?!«
 
 »O, die sollte Ihre Frau für ihre Schwester lediglich
-sorgsam aufbewahren … Sie’s Kindermumien haben für
+sorgsam aufbewahren … Diese Kindermumien haben für
 die Rodias eine besondere Bedeutung … — Ihre Gattin
-gibt draußen im Auto … Vielleicht holen Sie sie herein.«
+sitzt draußen im Auto … Vielleicht holen Sie sie herein.«
 
 Bolling eilte davon …
 
@@ -700,20 +696,20 @@ seiner Frau verzeihen — niemals!«
 
 »Was denn?!«
 
-»Sie Ehe ist kinderlos, mein Alter … Und darunter
-litt die Frau außerordentlichem, zumal sie wußte, daß ihr
-Mann sich sehnlichst Rad kommenichaft wünschte. In solchen
+»Die Ehe ist kinderlos, mein Alter … Und darunter
+litt die Frau außerordentlich, zumal sie wußte, daß ihr
+Mann sich sehnlichst Nachkommenschaft wünschte. In solchen
 Fällen wenden Europäerinnen sich vielleicht an weise
-Frauen inne- Kurpfuscher. Hier Latte Frau Bolling es insofern
+Frauen und Kurpfuscher. Hier hatte Frau Bolling es insofern
 bequemer, als sie als geborene Rodia wußte, daß
 die »Geister« ihr helfen könnten, denn auch bei den Rodias
 gilt Kinderlosigkeit als Schmach …«
 
-Wir warten jetzt bis zum Hafen gelangt, bestiegen ein
-Boot und liefen uns nach der Jacht rudern. Und — jetzt
+Wir waren jetzt bis zum Hafen gelangt, bestiegen ein
+Boot und ließen uns nach der Jacht rudern. Und — jetzt
 war mir urplötzlich auch das Verständnis für die Handlungsweise
 <@pagebreak/>
-Frau Elizabeths ausgegangen … Ich sagte zu
+Frau Elizabeths aufgegangen … Ich sagte zu
 Harald: »Die Kindermumie war … ein Talisman der
 Fruchtbarkeit …!«
 
@@ -732,7 +728,7 @@ in jener Nacht, den Bolling hörte, stieß Frau Elizabeth nur
 aus, um ihr Verschwinden geheimnisvoller zu gestalten. —
 Du siehst, mein Alter, daß es mir, der den Inhalt des
 Knoxschen Buches kannte, wahrhaftig nicht schwer war, die
-Sache zu durchschmauen. Als Bolling erklärte, es habe sich
+Sache zu durchschauen. Als Bolling erklärte, es habe sich
 mehr um eine Mumie als um eine Leiche gehandelt, war
 das Rätsel für mich gelöst, und ich wußte genau, wo wir
 Frau Bolling entdecken würden …«
@@ -740,39 +736,39 @@ Frau Bolling entdecken würden …«
 »Und — wer hat die Mumie … gestohlen? Oder hat
 Frau Elizabeths Schwester sie zurückgeholt?«
 
-».Ja — das sind Fragen, die vielleicht ungeklärt bleiben
+»Ja — das sind Fragen, die vielleicht ungeklärt bleiben
 … Ich jedenfalls werde mir keine Mühe geben, mich
 darum irgendwie zu kümmern. Frau Bolling war sehr
-überrascht, als ich ihr sagte, daß der Kasten samt der Minute
+überrascht, als ich ihr sagte, daß der Kasten samt der Mumie
 aus der Truhe verschwunden sei. Sie versicherte mir,
 ihre Schwester habe dabei die Hand bestimmt nicht im
 Spiel … Im Gegenteil: Der Talisman sollte im Schlafzimmer
-bleiben! — Un&8 geht das nichts weiter an …
+bleiben! — Uns geht das nichts weiter an …
 Wir werden jetzt mit der Jacht eine Rundreise um Ceylon
 unternehmen, was ich mir längst gewünscht habe …« —
 
 Abends kam Daniel Bolling zu uns an Bord und überreichte
-Harald einen sehr anständigen Schein. Er war in
+Harald einen sehr anständigen Scheck. Er war in
 <@pagebreak/>
 glänzender Stimmung, der gute Bolling, hatte sich mit seinem
 wirklich liebreizenden Frauchen völlig ausgesöhnt und
-»… ahnte nichts von deren recht schwacher Bekehrung und
-deren RüÜCcksall in den heidnischen Aberglauben …
+… ahnte nichts von deren recht schwacher Bekehrung und
+deren Rückfall in den heidnischen Aberglauben …
 
 Hiermit ist nun, lieber Leser, die Vorgeschichte des
-»seltsamen Hochzeitöge Schenkel« erledigt, und ich überspringe
-einen Zeitraum von Frei Wochen …
+»seltsamen Hochzeitsgeschenkes« erledigt, und ich überspringe
+einen Zeitraum von drei Wochen …
 
 Drei Wochen ohne jede Berufsarbeit …
 
 Längst hatten wir Bolling, seine Frau, die Mumie und
 die Rodias vergessen …
 
-Da erreichte uns in Makellos an der Nordostküste eine
+Da erreichte uns in Kokelai an der Nordostküste eine
 Depesche des Radscha Dabsal …
 
-»Bitte, sofort zurückkehren …«« Mein Glück steht auf
-dem Spiel …« Dabsal.«
+»Bitte, sofort zurückkehren … Mein Glück steht auf
+dem Spiel … Dabsal.«
 
 Das war alles …
 
@@ -782,9 +778,9 @@ harmlose Teil dieses Abenteuers …
 Die Jacht steuerte nordwärts …
 
 In achtzehn Stunden waren wir bis zur Mündung
-des Ruhm gelangt …
+des Pudu gelangt …
 
-In weiteren. am! Stunden bis Pudukattai, der kleinen
+In weiteren acht Stunden bis Pudukattai, der kleinen
 Residenz …
 
 Etwas muß ich noch nachholen: Diese Depesche war
@@ -793,19 +789,19 @@ Er hatte uns bereits telegraphisch mitgeteilt, daß
 er sich mit Jane Weacfield verlobt habe, und wir hatten
 daraufhin ein langes Glückwunschtelegramm abgesandt.
 
-Als nun die Jacht in den großen See einließ, in dessen
-Mitte sich auf felsigen Insel das fürstliche Schloß erhebt, —
+Als nun die Jacht in den großen See einlief, in dessen
+Mitte sich auf felsiger Insel das fürstliche Schloß erhebt, —
 als wir kaum neben der Marmortreppe angelegt hatten,
-erschien auch Ton Mar Schlag Dabsal bei 1,13 an Bord und
+erschien auch schon Mar Shing Dabsal bei uns an Bord und
 drückte uns dankbar die Hände, machte dabei ein so bekümmertes
-Gesicht, daß wir ordentlich Geschlafen und geleitete
-uns sofort ins Schloß in unsere Gastgcmächer — dieselben,
+Gesicht, daß wir ordentlich erschraken und geleitete
+uns sofort ins Schloß in unsere Gastgemächer — dieselben,
 die wir nun schon zum dritten Male wieder bezogen
 …
 
 <@pagebreak/>
-Daß wäöäbrend unserer Abwesenheit irgend etwas mit
-der blonden Jane, der jungen Füruenbraut, geschehen sein
+Daß während unserer Abwesenheit irgend etwas mit
+der blonden Jane, der jungen Fürstenbraut, geschehen sein
 müsse, hatten wir uns schon aus der Depesche zusammengereimt
 …
 
@@ -820,116 +816,114 @@ Sie ist … geisteskrank geworden …«
 
 Harald und ich schauten uns ziemlich verständnislos
 an …
+
 Geisteskrank?! Wie sollten wir denn unter diesen traurigen
 Umständen dem armen Fürsten oder gar Jane helfen?!
 
 Harst nahm in einem anderen Sessel neben Dabsal
 Platz …
+
 Sagte herzlich: »Erzählen Sie, Dabsal … denn
 Schraut und ich können uns ja so gar kein Bild von …«
 
-Der Radscha ließ die Hände einigen und zeigte uns wieder
+Der Radscha ließ die Hände sinken und zeigte uns wieder
 sein trostloses, geradezu vergrämtes Antlitz …
 
 »Meine lieben deutschen Freunde,« erklärte er wehmütig,
-»meine herrscht e an Sie beide war gleichsam im
-ersten Schloß entworfen … Ich hätte nicht depeschieren
-sollen, daß mein Glück aus dem Spiel steht, sondern daß
+»meine Depesche an Sie beide war gleichsam im
+ersten Schreck entworfen … Ich hätte nicht depeschieren
+sollen, daß mein Glück auf dem Spiel steht, sondern daß
 es bereits zertrümmert ist …«
 
-Er kämpfte Höhlung und Schmerz gewaltsam nieder
-und fuhr dann beherrschen fort!
+Er kämpfte Rührung und Schmerz gewaltsam nieder
+und fuhr dann beherrschter fort:
 
 »Sie wissen, daß der hiesige englische Arzt Doktor
-Granveller meine geliebte, Atemlose Jane in sein Haus
-ausgenommen hatte … Ich war auch nach Ihrer Abreise
+Granveller meine geliebte, elternlose Jane in sein Haus
+aufgenommen hatte … Ich war auch nach Ihrer Abreise
 täglich mit Jane zusammen, und schließlich gab sie denn
 auch meinem stürmischen Werben nach, und wir verlobten
 uns … Tage eines Märchenglückes folgten … Jane und
-ich letzten wie in seligem Traum dahin. Dann aber kam
+ich lebten wie in seligem Traum dahin. Dann aber kam
 das Unheil. Heute vor vier Tagen ließ der Doktor mich
 <@pagebreak/>
 bereits um neun Uhr vormittags zu sich bitten. Mein
 Motorboot trug mich rasch über den See. Der Garten
-Granvellers s;übt ja an das Südufer, und so konnte ich jo-fo!
+Granvellers stößt ja an das Südufer, und so konnte ich sofort
 an der Wassertreppe anlegen, wo der Doktor mich schon
-Kavaliere. seine Sirene ließ mich das schlimmste fürchten
+erwartete. seine Miene ließ mich das schlimmste fürchten
 …
 
-»Arbeit,« sagte er zögernd zu mir, indem er meine
+»Hoheit,« sagte er zögernd zu mir, indem er meine
 Hand in der seinen behielt, »hier hat sich heute früh Trauriges
 zugetragen … Gegen halb neun brachte der Postbote
-für Jane ein Paket … Auf der Jadpapierumbüllung
-stand außer ihrer genauen Adresse noch das dick unter-itrichene
-Wort »Hechzeitsgeschen!« … — Jane klatschte
-kindlich-heiier in die Hände … »Das Paket muß ich sofort
-dienen …!« rief sie und stellte es auf einen Stuhl aus der
-Veranda neben den Frübstuks1usch …
+für Jane ein Paket … Auf der Packpapierumhüllung
+stand außer ihrer genauen Adresse noch das dick unterstrichene
+Wort »Hochzeitsgeschenk« … — Jane klatschte
+kindlich-heiter in die Hände … »Das Paket muß ich sofort
+öffnen …!« rief sie und stellte es auf einen Stuhl auf der
+Veranda neben den Frühstückstisch …
 
-»34h half ihr dabei … Aus der Papierumhüllung
-kam ein zierlich geschnitzten Holzkasten zum Vorschein. Der
-Teckel zeigte kostbare einigen von Elfenbein … Das
-ganze war eine kleine Truhe indischer Arbeit. — Der Teckel
-hatte einen Vor Schluß aus Messing, und als ich den Riegel
-zurückschob, sprang der Deckel von selbst aus … — Jane
+»Ich half ihr dabei … Aus der Papierumhüllung
+kam ein zierlich geschnitzter Holzkasten zum Vorschein. Der
+Deckel zeigte kostbare Einlagen von Elfenbein … Das
+ganze war eine kleine Truhe indischer Arbeit. — Der Deckel
+hatte einen Verschluß aus Messing, und als ich den Riegel
+zurückschob, sprang der Deckel von selbst auf … — Jane
 stieß einen lauten Schrei aus und sank mir halb ohnmächtig
 in die Arme … denn — in dem Kasten lag auf hellgelber
 Seide die mumifizierte Leiche eines neugeborenen
 farbigen Knäbleins … — Ich gebe zu, Hoheit, daß auch
-meine Frau und ich entließ! waren … Der Anblick der
+meine Frau und ich entsetzt waren … Der Anblick der
 kleinen Mumie wirkte so abstoßend, daß mir sogar als
-Arzt über diese freventliche Niedertracht daß Blut aus den
-Wangen strömte und ich erblaßte … — Hoheit Trick Braut
-ist nun durch Abscheu und Schreck in Neinkrämpfe gefallen
-und nur Wunsch eine starke Dosis Morphium brave ich die
-schwere Nervenschock ütterung in einen hoffentlich wohltätigen
+Arzt über diese freventliche Niedertracht das Blut aus den
+Wangen strömte und ich erblaßte … — Hoheit, Ihre Braut
+ist nun durch Abscheu und Schreck in Weinkrämpfe gefallen
+und nur durch eine starke Dosis Morphium habe ich die
+schwere Nervenerschütterung in einen hoffentlich wohltätigen
 Schlaf überleiten können …«
 
-Der Rad ha senkte trostlos den Kopf … sprach mit
+Der Radscha senkte trostlos den Kopf … sprach mit
 zitternder Stimme weiter …
 
-»Leider hat diese Hoffnung getragen … Denn als
+»Leider hat diese Hoffnung getrogen … Denn als
 <@pagebreak/>
 Jane erwachte, fiel sie abermals in Schreikrämpfe … Und
-Er Worte bewiesen, daß … auch ihr Verstand gelitten
-alte …
+ihre Worte bewiesen, daß … auch ihr Verstand gelitten
+hatte …«
 
 Der Fürst schluchzte leise auf …
 
 Harald und ich waren wie versteinert. Ein Blick hatte
-einiges en uns genügt … Wir … verstanden uns …
+zwischen uns genügt … Wir … verstanden uns …
 
 Diese Kindermumie — —, der Gedanke lag ja nur zu
 nahe, daß es dieselbe sei, die aus Major Bollings Haus
 gestohlen und nun zu diesem abscheulichen Racheakt (denn
 es konnte sich nur um einen solchen handeln!) benutzt worden
-war …! …
+war …!
 
-Dann sprachst Mar Schlag Dabsal mit gebrochener
-Stimme mir den einen Satz noch:
+Dann sprach Mar Shing Dabsal mit gebrochener
+Stimme nur den einen Satz noch:
 
 »Gestern ist Jane in ein Sanatorium nach Madras gebracht
 worden …«
 
 Stumm drückten wir dem fürstlichen Freunde die
+Hand …
 
-und …
 Und erst nach einer Weile sagte Harald mit aller Herzlichkeit,
 die ihm zur Verfügung stand:
 
-»Dabsal, vielleicht gelingt es den geraten dort in der
+»Dabsal, vielleicht gelingt es den Ärzten dort in der
 Anstalt, Jane wieder gesund zu machen … Schraut und
-Ich aber versprechen fuhren, den Absender dieses niederträchtigen
-Geschenke zu ermitteln, damit er seine Straße
+Ich aber versprechen Ihnen, den Absender dieses niederträchtigen
+Geschenks zu ermitteln, damit er seine Strafe
 erhält …« —
-
-E22 07-28
-
-»D= 3 ck  in
 
 <h2>4. Kapitel.</h2>
 
-<h3>Wir hatten Dabsal nichts davon erzählt, daß wir es in.</h3>
+Wir hatten Dabsal nichts davon erzählt, daß wir es in
 Kolombo mit einer ähnlichen Mumie (falls es nicht dieselbe
 war!) zu tun gehabt hatten.
 
@@ -2120,7 +2114,7 @@ des alten Inders beobachten …«
 <@pagebreak/>
 »Ich … will mit!« rief unser Käpten da … »Bart,
 Sie dürfen mir diese Bitte nicht abschlagen — — auf keinen
-Fall! Sie kennen mich ja … Ich bin zwar ein aller steis-beiniger
+Fall! Sie kennen mich ja … Ich bin zwar ein aller steifbeiniger
 Kerl, aber in Punkto Geriebenheit nehme ich es
 mit dem größten Japanergauner auf — und das will
 etwas heißen!!« —
@@ -2655,7 +2649,7 @@ geschehen war?! — Widersprüche, wohin man nur in dieses
 Knäuel Frist …’
 
 Tor! unten getan noch immer vor dem dürftigen
-Lager … dann schlug er ten Teppicvorhang der Türöffnung
+Lager … dann schlug er ten Teppichvorhang der Türöffnung
 zurück und betrat das andere Stübchen …
 
 Der Teppich glitt in die alte Lage …
@@ -2680,7 +2674,7 @@ Wir griffbereit hinter ihm … — Vorläufig noch Zuschauer
 Den Kasten des Bettes hat er geöffnet … Hat die
 Truhe mit der Kindesmumie herausgehoben … Dreht
 die Truhe um, schiebt deren Bodenbreit wie den Deckel
-eines Tederkasieus auf und nimmt zwei Päckchen heraus,
+eines Lederkastens auf und nimmt zwei Päckchen heraus,
 die mit Watte umhöüllt sind …
 
 Ich ahne: die zweifache Diebesbeute ist’s!
