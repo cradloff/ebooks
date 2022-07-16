@@ -6,7 +6,7 @@
 
 <h3>Wie der Napoleon gestohlen wurde.</h3>
 
-Als Harald damals die Wachsfigur <@refnote 1/>
+Als Harst am 17. Juli den Wunderautomaten, die Wachsfigur<@refnote 1/>
 Napoleons in Kolberg aus Anlaß der polizeilichen
 Auflösung des Robba’schen Wachsfigurenkabinetts kaufte,
 ahnten wir beide nicht, daß der wächserne Napoleon uns
@@ -21,7 +21,7 @@ stand dann auch in demselben Artikel eine kurze Übersicht
 Ereignisse, die mit der Festnahme der internationalen
 Diebesbande zusammenhingen. Falls der Leser sich für Robert
 Robba interessiert, wird er im vorigen Band (der
-Napoleon aus Wachs) genaueres finden.
+Napoleon aus Wachs) Genaueres finden.
 
 Jedenfalls: seit dem 19. Juli mittags war Robbas
 Wunderautomat »Napoleon« in Harald Harsts Raritätensammlung
@@ -49,7 +49,7 @@ ihn doch sofort zu begleiten, da seine Tochter Ingeborg,
 mit der zusammen er seit zehn Jahren in einem Pensionat
 in der Joachimsthaler Straße am Bahnhof Zoologischer
 Garten wohne, in der verflossenen Nacht einen ihm völlig
-unerklärlichen Selbstmordversuch durch vergiften unternommen
+unerklärlichen Selbstmordversuch durch Vergiften unternommen
 habe und nun darauf bestehe, nur einem Detektiv,
 der zugleich Gentleman in des Wortes bester Bedeutung
 sei, die Gründe hierfür anzugeben. —
@@ -88,7 +88,7 @@ Deutsch:
 
 »Mein Name ist Svendson — Professor Holger Svendson.
 Frau Börmer teilte mir mit, daß Sie mich zu sprechen
-wünschen.«
+wünschten.«
 
 Wir hatten uns erhoben. — Harald blieb ganz ruhig.
 Ein paar Fragen und Antworten genügten: der echte
@@ -110,7 +110,7 @@ Alter, hier stimmt etwas nicht. Ich wette, die Sache mit
 dem Selbstmordversuch stimmt. Der Mann, der sich bei
 uns als Svendson ausgab, muß ein Interesse daran gehabt
 haben, mich auf diesen Selbstmordversuch aufmerksam
-zu machen. Übrigens war der blondbärtige niemals
+zu machen. Übrigens war der Blondbärtige niemals
 ein Schwede. Das merkte ich schon an seinem tadellosen
 Deutsch. Es ist ein Deutscher.«
 
@@ -123,7 +123,7 @@ wischte weiter den Staub von den Paneelbrettern.
 
 »Abgeholt?!« rief Harald.
 
-»Nun ja... Sie schickten doch den ausländischen
+»Nun ja … Sie schickten doch den ausländischen
 Professor mit’n Zettel her, Herr Harst.«
 
 <@pagebreak/>
@@ -135,13 +135,15 @@ Ordnung?« fragte sie zögernd.
 »Scheint so!«
 
 Nur wenige Minuten drauf wußten wir, daß der
-blondbärtige mit einem Zettel, auf dem Haralds Handschrift
+Blondbärtige mit einem Zettel, auf dem Haralds Handschrift
 glänzend gefälscht war, zu Frau Auguste Harst gekommen
 war und den Napoleon auch ausgehändigt erhalten
 hatte.
 
 Den Zettel konnte Haralds Mutter uns noch zeigen.
-Er lautete: »Liebe Mutter, ich habe den Napoleon an
+Er lautete:
+
+> »Liebe Mutter, ich habe den Napoleon an
 Herrn Professor Svendson verkauft und bitte Dich, ihm
 die Wachsfigur zu übergeben. Schraut und ich kommen
 heute erst gegen drei Uhr zu Tisch. Gruß — Dein Harald!«
@@ -177,7 +179,7 @@ bald, nachdem ich das Polizeipräsidium verlangt hatte. Er
 versprach, uns Bescheid zu geben, sobald das Auto gefunden.
 Harald erzählte ihm noch, wie wir den Napoleon
 losgeworden waren. Bechert kondolierte und meinte, der
-blondbärtige verdiene den Großstern des Gaunerordens
+Blondbärtige verdiene den Großstern des Gaunerordens
 »mit Dietrichen und Brecheisen«, denn einen Harald Harst
 zu bestehlen, sei immerhin eine Auszeichnung wert. —
 
@@ -199,7 +201,7 @@ ausgegangen war, der sich Kaufmann Albert Müller aus
 Hamburg genannt hatte.
 
 Müllers Koffer war nicht mehr da. Und im Kleiderschrank
-fanden wir... den Rumpf des Wunderautomaten.
+fanden wir … den Rumpf des Wunderautomaten.
 Kopf, Arme und Beine fehlten.
 
 »Herr Müller« hatte sich also mit diesen Teilen des
@@ -224,7 +226,7 @@ gemacht, behaupte ich! Und »Müller« hat dies gewußt.
 <@pagebreak/>
 Mithin muß es zwischen den Svendsons und dem Blonden
 irgend eine Brücke geben. Die Brücke wird sich herausfinden
-lassen.«
+lassen.« —
 
 Und um acht Uhr abends belegten dann zwei Herren
 im Pensionat Börmer die Zimmer Nr. 8 und Nr. 9
@@ -232,7 +234,7 @@ im zweiten Stock gegenüber Nr. 3 und Nr. 4, in denen
 der Professor und seine Tochter wohnten.
 
 Daß die Herren mit Harst und Schraut nichts gemeinsam
-hatten — äußerlich! — Ist selbstverständlich. Sie hießen
+hatten — äußerlich! — ist selbstverständlich. Sie hießen
 Schmidt und Hilmer und waren Ferienreisende, Oberlehrer
 aus Stettin.
 
@@ -250,7 +252,7 @@ war nicht uralt und durchaus für Trinkgelder empfänglich.
 Bereits um halb zehn wußten wir folgendes.
 
 Der Herr Professor war Chemiker, Professor der Chemie.
-Seine Tochter war hübsch. Beide wohnten hier seid
+Seine Tochter war hübsch. Beide wohnten hier seit
 dem 8. Juli, hatten viel Verkehr und waren selten daheim.
 Aber — sie vertrugen sich schlecht miteinander. Jeden Tag
 gab es Szenen, leider stets in schwedischer Sprache, die
@@ -341,15 +343,15 @@ er sich als Professor der Chemie auswies, nahm ich keinen
 Anstand, ihm auch Atropin als Gegenmittel zu verabfolgen.
 Der Herr war übrigens Schwede, Herr Harst.«
 
-»Vielen Dank. Sie schweigen wohl über unsere Nachfrage...«
+»Vielen Dank. Sie schweigen wohl über unsere Nachfrage …«
 
-»Gewiß, Herr Harst, nur — stimmt irgend etwas
+»Gewiß, Herr Harst. Nur — stimmt irgend etwas
 nicht? Womöglich habe ich noch Unannehmlichkeiten, weil
-ich das Atropin ohne Rezept...«
+ich das Atropin ohne Rezept …«
 
 »Keine Sorge. Der Hund ist mit dem Leben davongekommen.
 Die Dosis Zyankali kann nur winzig gewesen
-sein. — Gute Nacht...«
+sein. — Gute Nacht …«
 
 Harald faßte mich unter. »Also eine Zyankalivergiftung,
 lieber Alter!« meinte er sehr ernst. »Svendson hat
@@ -364,7 +366,7 @@ Leben trachten?«
 »Gestatte. Du verfällst schon wieder in den alten Fehler.
 Du nimmst etwas als gewiß an, was durchaus noch
 <@pagebreak/>
-nicht gewiß ist, — wir werden ins Pensionat zurückkehren.«
+nicht gewiß ist. — Wir werden ins Pensionat zurückkehren.«
 
 In Nr. 9, Haralds Fremdenzimmer, angelangt, legte
 Harst die Schuhe ab und meinte: »Es ist jetzt elf Uhr. Wir
@@ -435,11 +437,11 @@ es auch gar keine Zyankalivergiftung.«
 
 »Oh — es war eine, Kind. Und — weil es sich allem
 Anschein nach um einen Anschlag auf Dein Leben gehandelt
-hat, weil außerdem...«
+hat, weil außerdem …«
 
 »Nun — außerdem?«
 
-»Hm — ich wollte Dir’s eigentlich verschweigen...«
+»Hm — ich wollte Dir’s eigentlich verschweigen …«
 
 »Was denn?«
 
@@ -459,7 +461,7 @@ Ingeborg schrie leise auf.
 »Vater — Vater, schämst Du Dich nicht, so ungeheure
 Verdächtigungen auszusprechen gegen einen Mann, mit
 dem Du jahrelang im Laboratorium zusammengearbeitet
-hast und den Du...«
+hast und den Du …«
 
 »Dieser Ton mir gegenüber dürfte höchst unpassend
 <@pagebreak/>
@@ -484,15 +486,15 @@ James Burton wohnt, nach Nr. 112. Wenn wir
 wüßten, wo Sigurd Barnö hier in Berlin abgestiegen ist,
 könnten wir ja auch ihn noch so ein wenig aufs Korn nehmen.
 Ich bin stets dafür, daß man das Eisen schmiedet,
-so lange es noch heiß ist. Nächtliche Ermittelungen haben
+so lange es noch heiß ist. Nächtliche Ermittlungen haben
 außerdem zumeist mehr Erfolg als solche am Tage. Nachts
 streifen die Menschen die Maske, die sie für das grelle Sonnenlicht
 anzulegen belieben, nur zu gern ab und werden so,
 wie sie wirklich sind. Ehrbare Beamte frönen nachts dem
 verbotenen Laster des Spiels, Damen der sogenannten besten
-Gesellschaft besuchen... — Ah — hörst Du...! Svendson
+Gesellschaft besuchen … — Ah — hörst Du …! Svendson
 geht noch aus! Das war soeben seine Tür, die ins
-Schloß gedrückt wurde...!« —
+Schloß gedrückt wurde …!« —
 
 Zwei Minuten später waren auch wir auf der Straße.
 Die hagere, etwas gebeugte Gestalt des Professors war in
@@ -532,14 +534,14 @@ Gegend um den Kurfürstendamm nachts abgrasen, schlurfte
 an der Türnische, deren Schatten uns barg, vorüber.
 
 Ein alter Mann mit weißem Patriarchenbart war’s,
-einen keinen Holzkasten am Schulterriemen vor dem Leibe,
+einen kleinen Holzkasten am Schulterriemen vor dem Leibe,
 — zerlumpt, kläglich, mühsam dahinschreitend.
 
 Er konnte uns nicht bemerkt haben. Kaum war er
 vorbei, als Harst sich näher an mich drängte.
 
 »Du, der Alte war vorhin in der Joachimsthaler
-Straße! Du — der Mann...«
+Straße! Du — der Mann …«
 
 Er verstummte.
 
@@ -549,17 +551,17 @@ vorübergefahren.
 
 »Was gibt’s?« fragte ich hastig.
 
-»Still...!!«
+»Still …!!«
 
 Und wieder schob er den Kopf etwas vor.
 
-Ich tat dasselbe...
+Ich tat dasselbe …
 
-Der Bettler... war verschwunden. Und Professor
+Der Bettler … war verschwunden. Und Professor
 Svendson lag halb kniend auf dem Bürgersteig.
 
 <@pagebreak/>
-Da riß Harald mich zurück...
+Da riß Harald mich zurück …
 
 »Vorsicht! Wir dürfen uns nicht einmischen. Man
 kommt Svendson schon zu Hilfe!«
@@ -611,7 +613,7 @@ Da kam von oben ein Herr mit einem kleinen Handkoffer
 herab.
 
 <@pagebreak/>
-Stutzte ... blieb stehen, musterte uns voller Mißtrauen,
+Stutzte … blieb stehen, musterte uns voller Mißtrauen,
 faßte in die rechte Jackentasche, ließ die Hand in der
 Tasche, fragte ziemlich scharfen Tones:
 
@@ -636,7 +638,7 @@ des bartlosen jungen Mannes dort oben auf dem
 Treppenabsatz.
 
 »Nehmen Sie die Hand aus der Tasche — ohne
-Waffe!« sagte Harst kurz. »Auch wir sind vorbereitet, —
+Waffe!« sagte Harst kurz. »Auch wir sind vorbereitet. —
 Schraut — heraus mit der Clement!«
 
 Diese Weisung war überflüssig. Ich hatte schon von
@@ -657,7 +659,7 @@ den Portier nicht zu wecken.«
 
 Der Herr war leicht zurückgefahren.
 
-»Wer... wer sind Sie?!« meinte er unsicher und
+»Wer … wer sind Sie?!« meinte er unsicher und
 ängstlich.
 
 »Das ist vorläufig gleichgültig. — Ihrem Deutsch
@@ -677,13 +679,13 @@ zu bringen, falls Sie es nicht vorziehen, uns mit
 in Ihre Wohnung zu nehmen und uns dort einige Fragen
 zu beantworten.«
 
-»Also... Kriminalbeamte...!« Das klang mehr
+»Also … Kriminalbeamte …!« Das klang mehr
 ärgerlich als ängstlich.
 
 »Wollen Sie oder wollen Sie nicht!« meinte Harst
 wieder energischer.
 
-»Gut — ich bin einverstanden. Ich... bin Sigurd
+»Gut — ich bin einverstanden. Ich … bin Sigurd
 Barnö. Ich werde Ihnen erklären, weshalb ich mich verkleidet
 hatte.«
 
@@ -722,8 +724,8 @@ Aus einem Klubsessel erhob sich ein blondbärtiger
 Herr und verbeugte sich verwundert vor uns.
 
 Ich mußte mir Mühe geben, meine Überraschung zu
-verbergen, denn der blonde Herr war... Der falsche Professor
-Svendson, der Dieb des Napoleon aus Wachs...!!
+verbergen, denn der blonde Herr war … der falsche Professor
+Svendson, der Dieb des Napoleon aus Wachs …!!
 
 <h2>3. Kapitel.</h2>
 
@@ -768,7 +770,7 @@ Herrn Professor Svendson schützen wollte.«
 
 »Vor wem? Wovor?«
 
-»Vor... Mordanschlägen eines Unbekannten.«
+»Vor … Mordanschlägen eines Unbekannten.«
 
 »Würden Sie sich hierüber vielleicht genauer aussprechen,
 Herr Barnö?«
@@ -877,7 +879,7 @@ offenbar der Meinung, Barnö hätte das Glasgefäß mit
 der Eisenstange zerschlagen. Ohne jedoch etwas von diesem
 Verdacht zu äußern, schickte er, vor Schreck leichenblaß
 geworden, Barnö mit dem Bemerken davon, daß er auf
-seine ferneren Dienste verzichte: Barnö suchte sich noch zu
+seine ferneren Dienste verzichte. Barnö suchte sich noch zu
 verteidigen, indem er darauf hindeutete, daß er ganz deutlich
 das Pfeifen einer Kugel gehört hätte, die von draußen
 hereingekommen sei — durch das offene Fenster.
@@ -899,7 +901,7 @@ Barnö bejahte zögernd. Es sei da vor anderthalb
 Monaten in Stockholm ein Amerikaner namens Burton
 aufgetaucht, ein Ingenieur, der mit Svendson geschäftliche
 Beziehungen angeknüpft und dann sehr viel im Hause des
-Professors verkehrt habe, wo er Ingeborg ganz unverholen
+Professors verkehrt habe, wo er Ingeborg ganz unverhohlen
 den Hof machte, begünstigt durch deren Vater, dem der
 schwerreiche Bewerber (Burton war Chefingenieur einer
 großen Fabrik) insofern recht genehm gewesen, als des
@@ -915,7 +917,7 @@ gegen ein Uhr nach Hause gekommen war, ermittelten weiter,
 daß ein Nachtwächter einen Mann gegen 12 Uhr in
 jener Nacht über den Zaun der Svendson’schen Villa hatte
 steigen sehen und auch angerufen hatte, stellten schließlich
-auch fest, daß jemand eine Buche, die vor dem Laboratoriumsfenster
+auch fest, daß jemand eine Buche, die vor dem Laboratoriumfenster
 stand, erklettert haben mußte. — Über diesen
 Nachforschungen waren Tage vergangen. Svendsons und
 Burton waren inzwischen nach Berlin gereist. Barnö und
@@ -960,7 +962,7 @@ zu lassen. —
 Als Barnö so weit gekommen, warf Harald lächelnd
 ein: »Und um mein Interesse noch stärker zu wecken, fälschten
 Sie dann das Schreiben an meine Mutter und holten
-den Napoleon...!«
+den Napoleon …!«
 
 <@pagebreak/>
 
@@ -986,10 +988,10 @@ wenn ich auch aus Liebe zu Ingeborg, von der ich mich,
 ohne freilich ihr Jawort zu besitzen, wiedergeliebt weiß,
 schon mancherlei getan habe, was ein wenig exzentrisch für
 einen braven Chemiker ist — so zum Beispiel die Verkleidung
-als Bettler...«
+als Bettler …«
 
-»... die übrigens tadellos gelungen war,« schaltete
-Harst ein... — »Beruhigen Sie sich, meine Herren...
+»… die übrigens tadellos gelungen war,« schaltete
+Harst ein … — »Beruhigen Sie sich, meine Herren …
 Ich sehe, ich war auf dem Holzwege. Den Napoleon stahl
 ein anderer, der sich als Doktor Gulbranson herausgeputzt
 hatte und daher gewußt haben muß, daß Sie, Herr Doktor,
@@ -1004,7 +1006,7 @@ Gestatten Sie rasch ein paar Bemerkungen. Sie
 sahen, daß ich heute hinter Svendson als Bettler herschlich.
 Und *ich* sah, daß man aus dem durch die Augsburger
 Straße rasenden geschlossenen Auto auf Svendson schoß.
-Ich sah ein Stück des Pistolenlaufes...«
+Ich sah ein Stück des Pistolenlaufes …«
 
 »Halt — hörten Sie denn einen Knall?«
 
@@ -1032,7 +1034,7 @@ Herr Barnö.«
 »Ausgeschlossen, Herr Harst. Er verkehrt nur mit
 Svendsons, sonst mit niemandem. Auch in Stockholm lebte
 er ganz für sich allein. Ich kenne Burton ja persönlich. Ein
-angstvoller, kaltblütiger, jedes Wort, jede Bewegung vorher
+kraftvoller, kaltblütiger, jedes Wort, jede Bewegung vorher
 prüfender Mann gibt sich nicht mit Leuten ab, die ihn
 nachher auspressen könnten. Ich betonte ja schon: mein
 ganzer Verdacht gegen Burton entsprang meiner Eifersucht,
@@ -1064,11 +1066,11 @@ sind. Wir haben Svendson und seine Tochter belauscht.«
 
 »Ein anderer Mann?! Ein Stellvertreter?! Ausgeschlossen,
 unmöglich! Burton hat ein so charakteristisches
-Profil, daß...«
+Profil, daß …«
 
 »Schon gut. Es war ja nur so eine Vermutung von
 mir.« Und Harst rauchte die Zigarette schweigend zu Ende,
-nahm eine neue, sann vor sich hin...
+nahm eine neue, sann vor sich hin …
 
 Sagte unvermittelt: »Sie beide werden nun genau so
 weiterleben wie bisher, werden also Burton und Svendson
@@ -1117,7 +1119,7 @@ blieb und erst Platz nahm, als Harald die Maske fallen
 ließ und leise erklärte:
 
 »Ich bin Harald Harst, Herr Professor. Dort mein
-Freund Schraut...«
+Freund Schraut …«
 
 Svendson wurde sichtlich verlegen, setzte sich aber zögernd
 und beantwortete ebenso zögernd Haralds Fragen.
@@ -1132,14 +1134,14 @@ Herr Harst?!«
 
 »Hm — und die Attentate auf Sie selbst?!« erklärte
 Harald mit Nachdruck. »Zuerst das in Stockholm, dann in
-der vergangenen Nacht...«
+der vergangenen Nacht …«
 
 »Stockholm!« rief Svendson ärgerlich dazwischen. »Ich
 weiß schon, wer mir nach dem Leben trachtet, um dann
 Ingeborg heiraten zu können! Ich werde den Burschen
-jetzt nicht mehr schonen! Es ist...«
+jetzt nicht mehr schonen! Es ist …«
 
-»... jedenfalls nicht Sigurd Barnö!« fiel Harst ihm
+»… jedenfalls nicht Sigurd Barnö!« fiel Harst ihm
 ins Wort. »Niemals ist es Barnö! Ich warne Sie, vorschnell
 ihn zu denunzieren. Im Gegenteil, Barnö hat Sie
 zu schützen gesucht. Der Attentäter ist — James Burton!«
@@ -1147,10 +1149,10 @@ zu schützen gesucht. Der Attentäter ist — James Burton!«
 <@pagebreak/>
 Auch mir kam diese Behauptung etwas überraschend.
 — Der Professor lächelte überlegen. »Sie mögen ja in
-Ihrem Fach eine Berühmtheit sein, Herr Harst!,« sagte er
-eisig. »Aber in diesem Falle...«
+Ihrem Fach eine Berühmtheit sein, Herr Harst,« sagte er
+eisig. »Aber in diesem Falle …«
 
-»... habe ich ebenfalls recht,« vollendete Harald den
+»… habe ich ebenfalls recht,« vollendete Harald den
 Satz mit einer Schroffheit, die fast beleidigend war.
 »Gelehrte sind noch nie gute Menschenkenner gewesen, noch
 nie, Herr Professor. Sie sind, wie ich gestern schon daheim
@@ -1166,16 +1168,16 @@ Ihres Todes. Möglich, daß Burton sogar schon Anzahlungen
 geleistet hat und daß, wenn Sie und Ihre Tochter
 plötzlich sterben, ihm die Erfindung für ein Butterbrot zufällt.
 Ich denke, wenn das alles zutrifft, hätte Burton
-wohl das allergrößte Interesse Sie und Fräulein
-Ingeborg rascher ins Jenseits...«
+wohl das allergrößte Interesse, Sie und Fräulein
+Ingeborg rascher ins Jenseits …«
 
 Professor Svendson war sehr blaß geworden. In
 seinem Gesicht leuchtete gleichzeitig etwas wie eine jähe Erkenntnis
-auf, die ihn auf’s schwerste erschütterte. Er
+auf, die ihn aufs schwerste erschütterte. Er
 unterbrach Harst, indem er wie beschwörend die Hand gegen
 ihn ausstreckte und murmelte: »Mein Gott — sind das
 alles Ihrerseits nur Kombinationen, Herr Harst?! Kann
-denn ein Mensch so... so folgerichtige Schlüsse aus winzigen
+denn ein Mensch so … so folgerichtige Schlüsse aus winzigen
 Kleinigkeiten ziehen?!«
 
 »Also stimmen diese Kombinationen?«
@@ -1250,7 +1252,7 @@ ich.
 
 »Im Gegenteil — wir bleiben!« Und — — das Licht
 seiner Taschenlampe fiel auf Burtons geöffneten Koffer —
-auf den Kopf und die Arme... unseres wächsernen Napoleon!!
+auf den Kopf und die Arme … unseres wächsernen Napoleon!!
 
 Dann wurde von draußen schon ein Schlüssel ins Türschloß
 gesteckt. Harst zog mich hinter einen Schrank, schaltete
@@ -1258,12 +1260,12 @@ die kleine Lampe aus.
 
 Burton trat ein, knipste das Licht an, riegelte die Tür
 zu, drehte sich um, sah den erbrochenen Koffer, die durchwühlten
-Schubladen...
+Schubladen …
 
-Da drängte Harald mich vorwärts...
+Da drängte Harald mich vorwärts …
 
 Burton sprang zurück, hatte nach der Tasche greifen
-wollen...
+wollen …
 
 Harst zischte — zielte auf den schlanken, stattlichen
 Mann, dessen brutales Gesicht nicht den geringsten Ausdruck
@@ -1278,9 +1280,9 @@ gewerbsmäßige Einbrecher.
 
 <@pagebreak/>
 Dann glitt sein Blick zu dem Wachskopf des Napoleon
-hin, kehrte zu Harst zurück...
+hin, kehrte zu Harst zurück …
 
-»Entleert Eure Taschen,« meinte er. »Wenn ihr
+»Entleert Eure Taschen,« meinte er. »Wenn Ihr
 nichts eingesteckt habt, schert Euch zum Teufel! Ich mag
 mit der deutschen Polizei keine Plackereien haben.«
 
@@ -1293,10 +1295,9 @@ Nacht erkennen.
 Jetzt lief alles für uns scheinbar sehr glimpflich ab.
 Da wir ja tatsächlich nichts gestohlen hatten, ließ Burton
 uns in stark verdächtiger Nachsicht zum Hause hinaus, schloß
-uns sogar die Haustür auf...!! Wir verschwanden schleunigst
+uns sogar die Haustür auf …!! Wir verschwanden schleunigst
 in den Regenschleiern — eilten heim und lagen gegen
-zwei Uhr wieder in den Betten der Pension Börmer.
-
+zwei Uhr wieder in den Betten der Pension Börmer. —
 »Unser Debüt als Fassadenkletterer war ein voller Erfolg,«
 meinte Harst, als wir uns gute Nacht sagten. —
 Den wahren Umfang dieses Erfolges lernte ich zwanzig
@@ -1323,7 +1324,7 @@ Pensionat ein neues Verbrechen versuchen würde, — was
 ich stark bezweifelte.
 
 Aber — genau um elf Uhr wurde die Tür von Nr. 3
-mit einem Dietrich geöffnet, Burton war’s — Burton,
+mit einem Dietrich geöffnet. Burton war’s — Burton,
 wieder in der Maske Doktor Gulbransons.
 
 Er hatte Schuhe mit Gummisohlen an. Lautlos glitt
@@ -1338,7 +1339,7 @@ Länge eines Spazierstockes haben konnte. Ich riet auf eine
 Schußwaffe — einen kurzen Stutzen.
 
 Nun herrschte im Zimmer lautlose Stille. Nur draußen
-stürmte und regnete es auch heute. Endlos langsam
+stürmte und regnete es auch heute. — Endlos langsam
 strichen die Minuten dahin. Wir durften uns kaum
 rühren. Es war eine Geduldsprobe, die Nerven und
 Kräfte kostete.
@@ -1365,18 +1366,18 @@ Da schob sich vor ihm hinter der Portiere der schwarze
 <@pagebreak/>
 Lauf eines Stutzens hervor — richtete sich auf seinen Kopf.
 
-Ich hielt den Atem an...
+Ich hielt den Atem an …
 
-Ich glaubte, nun würde Harald eingreifen — würde...
+Ich glaubte, nun würde Harald eingreifen — würde …
 
 Ich hatte den Gedanken noch nicht zu Ende gedacht,
-als ein leises metallisches Klacken ertönte... ein Geräusch,
+als ein leises metallisches Klacken ertönte … ein Geräusch,
 als ob in einem Büchsenschloß der Schlagbolzen vorschnellt.
 
-Svendson schnellte hoch...
+Svendson schnellte hoch …
 
 Und — Harst war mit zwei Sätzen neben dem Schreibtisch,
-riß den Fenstervorhang hoch...
+riß den Fenstervorhang hoch …
 
 Seine Clement hielt den maskierten Verbrecher in
 Schach.
@@ -1398,7 +1399,7 @@ Wachskopf benutzten Sie, um dessen Schatten auf den Vorhang
 Ihres Fensters fallen zu lassen. Das sollte Ihr Alibibeweis
 sein. Wahrscheinlich leistet der Kopf, dessen Profil
 dem Ihren so völlig gleicht, Ihnen zur Zeit denselben
-Dienst, so daß Barnö als Zeuge beschworen hätte Sie seien
+Dienst, so daß Barnö als Zeuge beschworen hätte, Sie seien
 auch zu dieser Stunde daheim gewesen. Sie mögen in
 den Zeitungen gelesen haben, daß ich den Napoleon gekauft
 hatte, und da wird Ihre Vielseitigkeit Ihnen den schon
@@ -1409,27 +1410,27 @@ In demselben Moment trat jetzt Ingeborg ein, in
 einen langen seidenen Schlafrock gehüllt.
 
 <@pagebreak/>
-Sie hatte eine Blume in der Hand — eine Nelke...
+Sie hatte eine Blume in der Hand — eine Nelke …
 
 Und — diesen Moment, wo Harald forschend zu
-Ingeborg hinschaute, benutze Burton...
+Ingeborg hinschaute, benutze Burton …
 
 Ein blitzschneller Sprung — und zwei Fausthiebe
-warfen Harst und mich zur Seite...
+warfen Harst und mich zur Seite …
 
 An Ingeborg vorbei stürmte der Verbrecher ins
-Nebenzimmer...
+Nebenzimmer …
 
-Ein Fenster klirrte... —
+Ein Fenster klirrte … —
 
 Wir kamen zu spät. Burton hatte den Hof des
-Gebäudes erreicht, war verschwunden...
+Gebäudes erreicht, war verschwunden …
 
 Die Nelke aber, die Svendsons Tochter auf ihrem
 Nachttisch gefunden, will ich im zweiten Teil dieses Abenteuers
 genauer beschreiben — in dem »Verein blaue Nelke«.
 
 Dann soll auch gesagt werden wer und was Burton
-in Wirklichkeit war...
+in Wirklichkeit war …
 
 
