@@ -8,14 +8,14 @@
 
 <h3>Was Harst beweisen wollte.</h3>
 
-... Vormittags elf Uhr. — Karl Hock und ich saßen
+… Vormittags elf Uhr. — Karl Hock und ich saßen
 am Sofatisch beim Frühstück. Harst stand am Schreibtisch,
 den Hörer des Fernsprechers am Ohr.
 
 »Gußfelder ist krank,« sagte er und legte den Hörer
 auf die Stützen zurück. »Er klagt über Schmerzen in allen
 Gliedern. Ich soll ihn nachher nochmals anrufen. Jetzt ist
-gerade der Arzt bei ihm. Er liegt zu Bett...«
+gerade der Arzt bei ihm. Er liegt zu Bett …«
 
 Und Harald nahm wieder Platz.
 
@@ -27,7 +27,7 @@ entscheiden.
 meinte Harald zu dem jungen Studenten, der trotz seiner
 etwas weichlichen Art ein lieber guter Kerl war. »Betrachten
 Sie sich bitte als mein Dauergast, bis Sie Ihre
-Studien beendet haben. Da Sie Waise sind, wird...«
+Studien beendet haben. Da Sie Waise sind, wird …«
 
 Diese Äußerungen des menschenfreundlichen Herzens
 meines alten gütigen Harald wurden durch das Schrillen
@@ -39,7 +39,7 @@ Harst lauschte, fügte hinzu:
 <@pagebreak/>
 Erbin der Perwart’schen Kohlengruben, die reichste junge
 Dame Deutschlands, Waise wie Sie, lieber Hock, Besitzerin
-des Perwart-Palais in der Erlenstraße im Tiergartenviertel...«
+des Perwart-Palais in der Erlenstraße im Tiergartenviertel …«
 
 Hock schaute Harald erstaunt an.
 
@@ -49,9 +49,9 @@ die Sache verblüffend einfach. Ich hörte in der verflossenen
 Nacht die Hupe des Autos der jungen Dame, hörte diese
 sehr eigenartigen Töne soeben wieder und dazu Geräusche
 auf der Straße, die mir anzeigten, daß ein Kraftwagen vor
-dem Hause halt gemacht und...«
+dem Hause halt gemacht und …«
 
-Es klopfte. Die Köchin Mathilde meldete... Fräulein
+Es klopfte. Die Köchin Mathilde meldete … Fräulein
 von Perwart an.
 
 Thea von Perwart trat ein, sie setzte sich, war etwas
@@ -73,7 +73,7 @@ Ihnen lösen, da ich eingesehen habe, daß Sie mir nicht
 dasjenige Maß von Vertrauen entgegenbringen, welches
 zu einer glücklichen Ehe unerläßlich ist. Ihre Zweifel an
 meiner Treue haben Sie in der verflossenen Nacht zu
-Herrn Harst getrieben, der Ihnen wahrscheinlich...
+Herrn Harst getrieben, der Ihnen wahrscheinlich …
 
 > Doch nein! Diese Gedanken will ich als Gentleman
 für mich behalten.
@@ -98,13 +98,13 @@ Ich wollte Sie nun bitten, Herr Harst, einige Vorkommnisse
 aufzuklären, die mir gänzlich unbegreiflich sind. Zunächst:
 ich habe meinen bisherigen Verlobten seit acht Tagen durch
 eine Detektei beobachten lassen. Der Beamte dieses Instituts,
-ein gebildeter Herr, hat mir nun...«
+ein gebildeter Herr, hat mir nun …«
 
 Harald machte eine kurze Handbewegung.
 
-»Verzeihen Sie, gnädiges Fräulein... Gußfelder hat
+»Verzeihen Sie, gnädiges Fräulein … Gußfelder hat
 mit Zelestine Drepp bestimmt nie etwas zu tun gehabt. Er
-hat einen Doppelgänger, der...«
+hat einen Doppelgänger, der …«
 
 »Mein Gott — — Doppelgänger?! Aber — — das
 ist ja unmöglich!«
@@ -112,23 +112,23 @@ ist ja unmöglich!«
 Sie schwieg und strich mit der Hand, über die Stirn.
 
 »Ich kann mir leicht zusammenreimen,« sagte Harald,
-»daß der Detektiv Ihnen mitgeteilt hat, Gußfelder...«
+»daß der Detektiv Ihnen mitgeteilt hat, Gußfelder …«
 
 »Oh — er behauptete unter anderem,« fiel sie ihm ins
 Wort, »Gußfelder wäre gleichzeitig an verschiedenen Orten
-gesehen worden...«
+gesehen worden …«
 
 Harst nickte. »Natürlich mußte der Detektiv dies unschwer
 feststellen. Wie erklärte er diese Tatsache?«
 
 »Er meinte, Benn hätte sich einen Doppelgänger sozusagen
-herausstaffiert, damit ihm seine...«
+herausstaffiert, damit ihm seine …«
 
-»... Abwege nicht so leicht nachgewiesen werden
-könnten...! — Hm — nicht übel — ganz logisch auch,
+»… Abwege nicht so leicht nachgewiesen werden
+könnten …! — Hm — nicht übel — ganz logisch auch,
 und doch falsch, gnädiges Fräulein. — Ich werde Gußfelder
 sofort anrufen, und dann sprechen Sie vielleicht mit ihm
-persönlich...« —
+persönlich …« —
 
 <@pagebreak/>
 Ich will Einzelheiten hier weglassen. — Fräulein von
@@ -223,11 +223,11 @@ eine Mirakulum anzündete:
 »Fahren wir nach Eichkamp in den Wald — zu den
 Trümmern der Hütte des rätselhaften Josef Bennarara.
 Man kann nie wissen, ob man nicht dort im Schutt noch
-etwas findet, das...«
+etwas findet, das …«
 
 Der Satz wurde nicht beendet.
 
-Das Telephon schlug an...
+Das Telephon schlug an …
 
 <@pagebreak/>
 
@@ -247,7 +247,7 @@ mehr fragen konnte.
 »Hm — wenn das nur stimmt! *Die* Frau macht auf
 mich durchaus nicht den Eindruck, als ob sie ängstlich sei.
 Im Gegenteil. — Jedenfalls: wir gehen zu dem Rendezvous!
-Und jetzt — zur Blockhütte...! Verkleidung
+Und jetzt — zur Blockhütte …! Verkleidung
 wäre zwecklos. Wir werden ja doch beobachtet. Ich habe
 schon morgens ein paar Leute um unser Grundstück patrouillieren
 sehen, die mir stark nach Spionen aussehen.«
@@ -267,7 +267,7 @@ Eine Unmenge Radspuren durchkreuzten die noch
 vorhandenen Schneeschanzen. Menschen waren nicht in der
 Nähe. Der Platz lag wie ausgestorben da.
 
-Nein — doch nicht ganz einsam...
+Nein — doch nicht ganz einsam …
 
 Ein junger, ärmlich gekleideter Bursche mit schmieriger
 Ballonmütze durchwühlte die Brandstätte mit einen Stock
@@ -287,9 +287,9 @@ Ich schaute schärfer hin.
 
 »Beachte die Schlappmütze,« fügte Harald noch hinzu.
 
-»Ah — das ist... ein verkleidetes Weib!« meinte ich
+»Ah — das ist … ein verkleidetes Weib!« meinte ich
 rasch. »Die tief ins Genick gezogene Mütze verbirgt das
-Haar...«
+Haar …«
 
 »Zelestinchen ist’s!« erklärte Harst mit eigentümlicher
 Ironie. »Zelestinchen hat sich, bevor sie sich in diesem
@@ -299,11 +299,11 @@ deshalb das Rendezvous in Hundekehle! Vastehste, min
 Jong, — — deshalb!! Sie wollte um keinen Preis mit
 uns hier zusammentreffen. Sie beobachtet auch stets die
 Umgebung nach Süden zu. Daß jemand von Norden her,
-also nicht aus der Bahnhofsrichtung... — Ah — was
-bedeutet das...?!«
+also nicht aus der Bahnhofsrichtung … — Ah — was
+bedeutet das …?!«
 
 Wir standen hinter zwei benachbarte dicke Kiefern
-geklemmt gut gedeckt da...
+geklemmt gut gedeckt da …
 
 Wir hatten soeben Zelestines Schlappmütze noch über
 die Balkenreste hinwegragen sehen. Nun — — sahen wir
@@ -313,13 +313,13 @@ obwohl Harst mich rasch hinter eine weiter links stehende
 Tanne gezogen hatte, von wo wir in die Trümmerstätte
 einen besseren Einblick nehmen konnten.
 
-»Verschwunden!« meinte Harald...
+»Verschwunden!« meinte Harald …
 
 »Allerdings.« — Ich schaute ihn unsicher an. Und
 fügte hinzu: »Das Blockhaus scheint also Kellerräume gehabt
-zu haben, und...«
+zu haben, und …«
 
-»... wahrscheinlich noch andere... Räume,« nickte
+»… wahrscheinlich noch andere … Räume,« nickte
 er, die Ruine drüben im Auge behaltend. »Wir werden
 Zelestine folgen. Vorwärts!«
 
@@ -357,7 +357,7 @@ zusammenfuhr, als Harald leise neben mir sagte:
 »Es sind Hick-Bock-Patentkisten, mein Alter. Ein englisches
 Patent. Sie lassen sich leicht auseinandernehmen
 und wieder zusammenfügen. Aber — das ist nicht das
-wichtigste. Sieh Dir mal da die Aufschriften an...«
+wichtigste. Sieh Dir mal da die Aufschriften an …«
 
 Ich entzifferte mühelos:
 
@@ -370,7 +370,7 @@ Buchstaben in blauer Farbe sichtbar, ohne Frage mit
 Blaustift flüchtig hingemalt.
 
 »Die Kisten stammen aus Australien,« meinte ich kurz.
-»Benn Gußfelder kam aus Australien, und...«
+»Benn Gußfelder kam aus Australien, und …«
 
 »Den Rest fragen wir Zelestinchen,« — womit Harald
 mich rasch nach links vor die nördliche Kellerwand schob.
@@ -378,15 +378,15 @@ mich rasch nach links vor die nördliche Kellerwand schob.
 Hier gab es denn auch eine tadellos versteckt angelegte
 Tür in dem Gebälk, deren Schloß, jedoch nur eingeklinkt
 war. — Harst hob den Klinkenriegel, und stieß die Balkentür
-auf. Dahinter... Finsternis...
+auf. Dahinter … Finsternis …
 
-Finsternis…, Balkenwände... Ein enger Gang —
+Finsternis…, Balkenwände … Ein enger Gang —
 geradeaus laufend, muffig, eisig, faulendes, nasses Laub als
-Streu auf den roh behauenen Dielen...
+Streu auf den roh behauenen Dielen …
 
-Und Harald, vor mir schreitend, zog die Clement...
+Und Harald, vor mir schreitend, zog die Clement …
 
-Ein feines Knacken...
+Ein feines Knacken …
 
 Die Sicherung sprang zurück. —
 
@@ -397,15 +397,15 @@ Der Gang war genau 63 Schritt lang.
 
 Dann eine Balkentür, ein viereckiger Raum mit einem
 eisernen Ofen, dessen Abzugsrohr oben wahrscheinlich in
-einen hohlen Baum mündete; ein Tisch, drei Stühle und...
+einen hohlen Baum mündete; ein Tisch, drei Stühle und …
 eine eiserne uralte Kriegskasse, also ein Eisenkasten von
 etwa drei Viertel Meter Höhe, Breite und Länge.
 
-Sonst... nichts...
+Sonst … nichts …
 
 <@pagebreak/>
 
-Absolut... nichts... —
+Absolut … nichts … —
 
 Wo war Zelestine?!
 
@@ -414,16 +414,16 @@ Schlüssel steckte oben im Schlüsselloch, das sich mitten im
 Deckel, zwischen plumpen Verzierungen befand.
 
 Er streckte schon die Hand aus, um den Schlüssel zu
-erfassen...
+erfassen …
 
 Mitten in dieser Bewegung verharrte sein Arm wie
 gelähmt.
 
-Sein Kopf flog herum...
+Sein Kopf flog herum …
 
-Nach der Balkentür — nach dem Gange hin...
+Nach der Balkentür — nach dem Gange hin …
 
-Und — da war die Tür auch schon zugefallen...
+Und — da war die Tür auch schon zugefallen …
 
 Da klirrte, kreischte etwas — etwas wie ein mächtiger
 verrosteter Riegel.
@@ -431,7 +431,7 @@ verrosteter Riegel.
 Mein Sprung zur Tür hin war eine Reflexbewegung —
 war die Folge von Haralds jäher Kopfdrehung. Und doch
 kam die Drehung zu spät. Mein Sprung desgleichen. Wir
-waren eingesperrt worden — von Zelestinchen...!!
+waren eingesperrt worden — von Zelestinchen …!!
 
 Harald nickte mir zu und deutete auf den eisernen
 Kasten:
@@ -443,19 +443,19 @@ Ich wurde etwas fahl. Ich fühlte es.
 
 »Attentat?« quetschte ich heiser hervor.
 
-»Ja...«
+»Ja …«
 
 Er richtete sich langsam auf. Sein Blick wanderte an
-dem Ofenrohr hoch...
+dem Ofenrohr hoch …
 
 Und seine Taschenlampe enthüllte dort in der Balkendecke
 ein rundes, mit Eisenblech benageltes Loch, durch das
 das Rohr hindurchlief.
 
 Dann war er schon mit einem Satz auf dem Tische,
-war mit der Rechten zwischen Rohr und Blechrand...
+war mit der Rechten zwischen Rohr und Blechrand …
 
-Riß beides ab...
+Riß beides ab …
 
 So legte er in der Balkendecke einen Ausschnitt frei,
 der recht umfangreich war — einen Notausgang, bisher
@@ -479,7 +479,7 @@ Harald war sofort neben mir — atmete tief auf und
 sagte:
 
 »Du, das war vielleicht um Bruchteile von Sekunden
-der einzig mögliche Rettungs...«
+der einzig mögliche Rettungs …«
 
 Er packte meinen Arm. Wir taumelten hin und her.
 Ein Erdbeben schien den Boden in Wellenform aufzustauchen.
@@ -496,14 +496,14 @@ der Schonung die Brandstätte, von der nur wenig
 zu bemerken war.
 
 Und rief: »Ah — Zelestine verschwindet gemächlich
-Richtung Bahnhof Eichkamp...!: Sie glaubt, wir seien
+Richtung Bahnhof Eichkamp …!: Sie glaubt, wir seien
 nun erledigt. Sie wird sich wundern — sehr wundern!«
 
 Und er drückte mich näher an die Eiche heran, war
 mir im Nu auf den Schultern und schwang sich oben in das
 Baumloch hinein.
 
-»Warte — in fünf Minuten bin ich da...«
+»Warte — in fünf Minuten bin ich da …«
 
 »Ich komme mit!« erklärte ich.
 
@@ -572,18 +572,18 @@ werfen! Weshalb so gedankenträge sein?! Es ist ja gar
 nicht so schwer — wirklich nicht.
 
 Freilich — ich selbst hab’s ja auch nicht herausgefunden.
-Ich eigne mich nicht dazu. Aber vielleicht Sie...
-Also... —
+Ich eigne mich nicht dazu. Aber vielleicht Sie …
+Also … —
 
 <@pagebreak/>
 
 »Na wenn’s dann so nicht geht, geht’s anders!«
 brummelte Harst mit einem Male. »Hör’ zu: *Alles verziehen.
-Kaufe bei Bur...* — das ist die Lösung.«
+Kaufe bei Bur …* — das ist die Lösung.«
 
 Allerdings — das war sie: erste vier Buchstaben von
 hinten lesen und den fünften alleinstehenden anhängen, ergibt
-»*alles*«, dann in derselben Art weiter...
+»*alles*«, dann in derselben Art weiter …
 
 Verblüffend einfach und verdammt schwer scheinend!
 Also Bluff!! —
@@ -618,14 +618,14 @@ unter diesen weißen Brauen wandte sich mir zu.
 
 »Und Sie?« fragte er.
 
-»Uhrkette...« — Ich reichte ihm meine Uhrkette.
+»Uhrkette …« — Ich reichte ihm meine Uhrkette.
 
 »Woher?«
 
 »Jefunden — vor zwee Jahre,« erklärte ich.
 
 Er schüttelte den Kopf. »So was mach ich nich. Da
-— gehn Se man wieder...«
+— gehn Se man wieder …«
 
 Ich blieb. »Ich wollt ein Medaillon kaufen für meine
 Braut,« sagte ich vereinbarungsgemäß.
@@ -658,11 +658,11 @@ lassen Uhr und Kette als Pfand hier, vastehste, und morgen
 hast de die Medaillöner zurück und ’n Batzen Schutt (Geld)
 dazu — vastehste!«
 
-»Hm — hm... ein Medaillon...« — Der Hehler
-schwankte. »E komische Sach’ ...! Es war heit’ schon
-was los mit ’n...«
+»Hm — hm … ein Medaillon …« — Der Hehler
+schwankte. »E komische Sach’ …! Es war heit’ schon
+was los mit ’n …«
 
-Da schwieg er. Er hatte fraglos sagen wollen: »... mit
+Da schwieg er. Er hatte fraglos sagen wollen: »… mit
 ’n Medaillon«, und hatte also auf Zelestine angespielt.
 
 Jetzt — — hatten *wir* ihn!!
@@ -676,16 +676,16 @@ Nathan unterlag Harstscher Gerissenheit.
 »So?! Mehr? Kennst de det Freilein?« zischte Burky
 hastig.
 
-»Und ob! Zelestine Drepp heeßt se...«
+»Und ob! Zelestine Drepp heeßt se …«
 
-»Wie?! Zelestine... Drepp?«
+»Wie?! Zelestine … Drepp?«
 
 »Na — tu man nich so, Nathan!! Det ist doch die
 <@pagebreak/>
 Freindin von den Austral-Josef. Du, — von ’n Josef
 Bennarara, Du!«
 
-Burky hüstelte...
+Burky hüstelte …
 
 »Bennarara?! Unbekannt!« Er zuckte dazu die Achseln.
 
@@ -739,14 +739,14 @@ minderwertige.«
 
 »Wissen Sie, daß er einen Doppelgänger hat?«
 
-Burky riß die Augen auf. »Doppelgänger?! Wie...
+Burky riß die Augen auf. »Doppelgänger?! Wie …
 wie meinen Sie das?!«
 
 <@pagebreak/>
-»Schon gut... Wo wohnt Bennarara? Mit wem
+»Schon gut … Wo wohnt Bennarara? Mit wem
 verkehrt er?«
 
-»Keine Ahnung, Herr Harst...« —
+»Keine Ahnung, Herr Harst …« —
 
 Wir verließen den Laden.
 
@@ -765,29 +765,29 @@ Brief nachher durch das Auto zum Präsidium.
 Es war dreiviertel sechs Uhr, als wir die Bar betraten.
 Wir wollten hier die »Weaner Galgenvögel« spielen.
 
-»Servus, Frailain, Servus...!«
+»Servus, Frailain, Servus …!«
 
 Zelestine thronte hinter dem Bartisch — einsam im
 einsamen Raume.
 
 »’n Abend,« sagte sie maulfaul.
 
-An ihrem Halse an goldenem Kettchen hing... das
+An ihrem Halse an goldenem Kettchen hing … das
 Medaillon.
 
 Harst hopste auf den hohen Stuhl, schob den Hut ins
 Genick.
 
-»Also — da san wir Frailain... Nu wird’s gemietlich,
-Frailain... A Sekt wollen wir... Und a
-Weaner Walzer...«
+»Also — da san wir Frailain … Nu wird’s gemietlich,
+Frailain … A Sekt wollen wir … Und a
+Weaner Walzer …«
 
 Zelestine taute auf. Gäste, die was springen ließen,
 waren ihr willkommen.
 
 Keine Ahnung hatte sie, daß die beiden Weaner dieselben
 waren, die jetzt eigentlich zu Gulasch zerteilt bei
-Eichkamp vier Meter unter der Erde liegen sollten...
+Eichkamp vier Meter unter der Erde liegen sollten …
 
 Sie taute noch mehr auf. Sie neppte uns nach Strich
 und Faden.
@@ -802,15 +802,15 @@ ich hatte dies Signal gehört.
 
 Nun konnten wir also beginnen.
 
-Ich... hatte plötzlich die Clement in der Hand,
+Ich … hatte plötzlich die Clement in der Hand,
 sagte nur:
 
 »Fräulein Drepp, der Eisenkasten läßt grüßen! Wenn
-Sie sich rühren, drücke ich ab...« (Was ich natürlich
+Sie sich rühren, drücke ich ab …« (Was ich natürlich
 *nicht* getan hätte!)
 
 Und Harst — — griff zu, riß ihr das Medaillon vom
-Halse...
+Halse …
 
 Sie war tatsächlich mehr tot als lebendig. Sie rührte
 sich nicht. Sie ächzte nur — so etwa, als unterdrücke sie
@@ -829,7 +829,7 @@ da erst begann Harald, die Drepp ins Gebet zu nehmen.
 Blockhütte Bennararas,« begann er. »Bennarara hatte
 Ihnen dies aufgetragen, telephonisch, nicht wahr?«
 
-»Ja...«
+»Ja …«
 
 »Was sagte er zu Ihnen?«
 
@@ -839,27 +839,27 @@ Leben und Widerstandskraft.
 »Wenn Sie nicht sprechen, wird die Geschichte mit der
 eisernen Kiste von mir hier dem Herrn Kommissar ohne
 jede Nachsicht vorgetragen werden, Fräulein Drepp,« meinte
-Harald eisig. »Andernfalls werde ich annehmen, daß...
-ein Versehen vorlag... — Also...«
+Harald eisig. »Andernfalls werde ich annehmen, daß …
+ein Versehen vorlag … — Also …«
 
-Sie atmete keuchend...
+Sie atmete keuchend …
 
-»Er... er sagte, ich... ich würde auf den Kisten
+»Er … er sagte, ich … ich würde auf den Kisten
 Nachricht finden. Mehr dürfe er mir nicht durch den Fernsprecher
-mitteilen...«
+mitteilen …«
 
 »Sie waren mit ihm uneins geworden — aus Eifersucht?
 <@pagebreak/>
 — Und Sie wollten den kleinen Hund ertränken und
-die Edelsteine...«
+die Edelsteine …«
 
 Wieder war sie leichenblaß geworden.
 
-»... die Edelsteine, die dem Studenten Sigurd Tomsör
-gehört hatten, für immer verschwinden lassen... — Hat
+»… die Edelsteine, die dem Studenten Sigurd Tomsör
+gehört hatten, für immer verschwinden lassen … — Hat
 Bennarara Tomsör ermordet?«
 
-»... Ja...« Nur gehaucht, das Ja, nur angedeutet...
+»… Ja …« Nur gehaucht, das Ja, nur angedeutet …
 
 »Haben Sie Tomsör mit Bennarara bekannt gemacht?«
 
@@ -878,7 +878,7 @@ verborgen gehabt hatte, weil er in seiner Wohnung nicht
 solche Werte unterbringen mochte. Noch hatte Zelestine die
 Wahrheit nicht geahnt. Erst eine Bemerkung Bennararas
 ließ jäh den Verdacht in ihr aufsteigen, daß hier ein Verbrechen
-vorläge...
+vorläge …
 
 Was sie noch weiter aussagen wollte, hörten wir von
 anderen Lippen. Zelestine selbst brach plötzlich ohnmächtig
@@ -904,7 +904,7 @@ wir eigentlich genau so schlau wie vorher. — Geben Sie mir
 doch mal das goldene Herz, lieber Harst. Es muß doch
 irgend etwas mit diesem Medaillon auf sich haben.«
 
-»Bitte...« —
+»Bitte …« —
 
 Man hatte Zelestine derweil im Auto nach dem Polizeipräsidium
 geschafft. Vogler und wir beide waren im Dienstzimmer
@@ -912,7 +912,7 @@ des Reviervorstandes allein.
 
 Der Kommissar nahm auch das herzförmige Stückchen
 Seide aus dem Medaillon heraus, beschaute alles mit Luchsaugen,
-fand nichts, schüttelte den Kopf...
+fand nichts, schüttelte den Kopf …
 
 »Ich entdecke nichts Besonderes,« meinte er.
 
@@ -928,17 +928,17 @@ sich. Dreierlei ist bewiesen.«
 
 »So?!«
 
-»Ja: daß...« — er hielt das Medaillon in der Hand
+»Ja: daß …« — er hielt das Medaillon in der Hand
 und betrachtete das Pastellbildchen darin durch seine scharfe
-Lupe — »... daß der Doppelgänger existiert — erstens!
+Lupe — »… daß der Doppelgänger existiert — erstens!
 Zweifeln Sie noch daran?«
 
-»Nein...«
+»Nein …«
 
 »Zweitens: daß Bennarara Anführer der Diamantengaunerbande
-ist...«
+ist …«
 
-»Hm — die Möglichkeit gebe ich zu...«
+»Hm — die Möglichkeit gebe ich zu …«
 
 »Möglichkeit?!« Harst verzog den Mund. »Dieses
 Kinderbild mit den üppigen Locken ist ein weiteres Zeichen
@@ -947,7 +947,7 @@ Intelligenz. — Bitte, nehmen Sie die Lupe und prüfen Sie die
 Locken. Was sehen Sie?«
 
 Vogler tat’s. Er zog die elektrische Deckenlampe tiefer
-und...
+und …
 
 »Donnerwetter!« entfuhr es ihm. »Buchstaben — —
 Worte — —, ah — ich lese hier:
@@ -958,10 +958,10 @@ Treffpunkt Hamburg am 27.
 All das eingeritzt mit einer Nadel — kaum sichtbar, — —
 allerdings glänzend!!«
 
-»Nicht wahr?! Glänzend! Ein Krähennest nur...«
+»Nicht wahr?! Glänzend! Ein Krähennest nur …«
 
 Vogler schnitt ein Gesicht. »Und das — das soll der
-Beweis für...«
+Beweis für …«
 
 »Fahren wir hinaus,« meinte Harst. »Es gibt noch
 mehr zu tun heute abend.«
@@ -977,20 +977,20 @@ kann nur heißen: vierter Baum von den hohlen Baum! —
 Es steht nun dort in der Nähe von Bennararas niedergebrannter
 Hütte eine Eiche, die gut in einen Räuberroman
 paßt: hohl, Steigeisen darin, darunter eine Erdhöhle, ein
-Gang... Sie werden sich’s anschauen können. — Wir
+Gang … Sie werden sich’s anschauen können. — Wir
 haben Bennarara doch in der Nacht zu schleuniger Flucht
 gezwungen, haben ihm die Polizei auf die Fersen gehetzt.
 Da hat er, besorgt um seine Sicherheit, außerdem im Gedanken
 an einen neuen letzten großen Schlag und an die
 geringe Vertrauenswürdigkeit der Mitglieder seiner Bande,
 alles das, was er an wertvoller Beute besaß, in dem
-Krähennest vorläufig untergebracht...«
+Krähennest vorläufig untergebracht …«
 
 »Ah — so deuten Sie’s! Aber — weshalb holt er die
 Sachen nicht selbst, lieber Harst?! Weshalb all diese Umstände,
-Zelestine Drepp auf...«
+Zelestine Drepp auf …«
 
-»Er... ist nicht abkömmlich, Vogler...«
+»Er … ist nicht abkömmlich, Vogler …«
 
 »Was heißt das?! Nicht abkömmlich?!«
 
@@ -1000,14 +1000,14 @@ sein mit dem, was ich bisher von meinen Vermutungen
 preisgab.«
 
 So endete das Gespräch. — Vogler und ich hatten jetzt
-neue Anregung zu neuem Nachdenken. — Bennarara...
+neue Anregung zu neuem Nachdenken. — Bennarara …
 nicht abkömmlich?! Das klang ja fast, als ob er verhaftet
 worden sei?!
 
 Meine Gedanken drehten sich im Kreise. Da war noch
-so viel Unklares. Da war Benn Gußfelder...
+so viel Unklares. Da war Benn Gußfelder …
 
-Ich stutzte mit einem Male... — Benn — *Benn*
+Ich stutzte mit einem Male … — Benn — *Benn*
 Gußfelder — — *Benn*arara — —!! War das ein
 Zufall?!
 
@@ -1016,7 +1016,7 @@ Waldesrauschen strebten wir drei der Schonung zu — der
 hohlen Eiche.
 
 Drangen in die Schonung ein, suchten bei den weißen
-Lichtblitzen unserer Taschenlampen den vierten Baum...
+Lichtblitzen unserer Taschenlampen den vierten Baum …
 
 <@pagebreak/>
 Ja — in einer so dichten Schonung gibt es viele vierte
@@ -1032,31 +1032,31 @@ Strauchwerk: ein liederlich gebautes Krähennest!
 Vogler wollte in seinem Eifer sofort nach oben turnen,
 aber Harald hielt ihn zurück.
 
-»Man kann nie wissen, Freund Vogler...!! Das
+»Man kann nie wissen, Freund Vogler …!! Das
 Nest kann auch andere Dinge enthalten!«
 
-»Na nu — was denn?! — Unsinn — ich...«
+»Na nu — was denn?! — Unsinn — ich …«
 
 »Warten Sie!« — Gegen diesen Ton gab es keinen
 Widerspruch.
 
 Harald kniete neben der Eiche und beleuchtete den
-Stamm...
+Stamm …
 
 Rutschte rund um den Baum, der etwa Schenkeldicke
 hatte und stellenweise dicht bemoost war. — Er kratzte das
-Moos weg und — erhob sich plötzlich...
+Moos weg und — erhob sich plötzlich …
 
 »Ich gebe zu, daß ich mich geirrt habe,« meinte er.
-»Bitte, entfernen Sie drei sich eine Strecke... Stellen Sie
-sich am besten dort hinter jene Buche... — so gehen Sie
+»Bitte, entfernen Sie drei sich eine Strecke … Stellen Sie
+sich am besten dort hinter jene Buche … — so gehen Sie
 doch! Und — — erschrecken Sie nicht!«
 
-Wir drei entfernten uns zögernd...
+Wir drei entfernten uns zögernd …
 
-Standen kaum hinter der Buche, als... mit gewaltigem
+Standen kaum hinter der Buche, als … mit gewaltigem
 Knall oben in den Wipfeln schräg vor uns das
-Nest... explodierte... —
+Nest … explodierte … —
 
 Unser Auto jagte gen Friedenau, Bismarckstraße, zu
 Doktor Benn Gußfelder.
@@ -1072,7 +1072,7 @@ zerrissen worden. Bennarara wollte die Mitwisserin los
 sein. Meine erste Annahme — Beute im Nest — bestand
 bei sorgfältiger Nachprüfung nicht ganz, weil zu vieles dagegen
 sprach, daß Bennarara der eifersüchtigen Drepp plötzlich
-wieder so großes Vertrauen schenken sollte...«
+wieder so großes Vertrauen schenken sollte …«
 
 <@pagebreak/>
 
@@ -1091,7 +1091,7 @@ früher einen Arzt konsultiert? Ist es derselbe Arzt?«
 
 »Nein. Es ist ein Doktor Lobling, Sanitätsrat Lobling.
 Vor vier Wochen hatte der Herr Direktor Doktor
-Prager holen lassen, als er die Mittelohrentzündung...«
+Prager holen lassen, als er die Mittelohrentzündung …«
 
 »Danke. — Wann teilte Ihr Herr Ihnen mit, daß er
 krank sei?«
@@ -1100,9 +1100,9 @@ krank sei?«
 
 »Er lag im Bett im halbdunklen Zimmer?«
 
-»Ja...«
+»Ja …«
 
-»Dann...« — Harald wandte sich an Vogler —
+»Dann …« — Harald wandte sich an Vogler —
 »dann verlangen Sie kraft Ihres Amtes, daß der Diener
 uns bis an die Schlafzimmertür führt.«
 
@@ -1113,9 +1113,9 @@ aufreißen. Sie war von innen versperrt.
 
 <@pagebreak/>
 Zwei Schultern preßten sich gegen das lackierte Holz.
-Da brachen die Riegel...
+Da brachen die Riegel …
 
-Und — — das Bett war leer...
+Und — — das Bett war leer …
 
 Aber — — das Fenster war nur angelehnt. Und von
 dem Balkon draußen hing eine seidene Strickleiter ein Stück
@@ -1129,14 +1129,14 @@ sind — auch ihrem Herrn gegenüber, verstanden!«
 
 Der Mann war völlig verdattert vor Überraschung.
 
-»Ich... ich gehorche,« stammelte er.
+»Ich … ich gehorche,« stammelte er.
 
-»Dann — weiter!« rief Harst...
+»Dann — weiter!« rief Harst …
 
 Und das Auto raste durch Berlin dem Tiergartenviertel
-zu... nach der Erlenstraße 16, zu Thea von Perwart.
+zu … nach der Erlenstraße 16, zu Thea von Perwart.
 
-Kein Wort sprach Harald — kein Wort...
+Kein Wort sprach Harald — kein Wort …
 
 Vogler war wütend.
 
@@ -1149,11 +1149,11 @@ noch da. — Du bleibst hier bei unserem Auto — auf dem
 Vordersitz neben dem Chauffeur,« befahl er mir. »Sobald
 ich einen Schuß abgebe, kommst Du mit dem Kraftwagen
 herbei. — Und Sie, Vogler, sprechen mit dem Chauffeur
-des anderen Autos und setzen sich in den Wagen. — Vorwärts...« —
+des anderen Autos und setzen sich in den Wagen. — Vorwärts …« —
 
 Vogler und er verschwanden. Der Kommissar kehrte
 jedoch sehr bald zurück. — »Es ist kein Auto da. Sie sollen
-langsam an Nr. 16 vorüberfahren und dann halten...«
+langsam an Nr. 16 vorüberfahren und dann halten …«
 
 Ich sah dann, als wir gerade an dem Gittertor von
 Nr. 16 vorbeikamen, daß ein Diener einem eleganten schlanken
@@ -1184,15 +1184,15 @@ hinter ihnen wieder sah ich vier Kriminalbeamte.
 
 Das Häuschen wurde umstellt. Im Erdgeschoß links
 brannte hinter den Laden Licht. Wir hörten Stimmen —
-Lachen, dann... einen Schrei — einen Fluch...
+Lachen, dann … einen Schrei — einen Fluch …
 
 »Schuft — Schuft!! Wollte Gott, ich hätte Dich schon
 in Australien niedergeknallt!« brüllte jemand. »Habe ich
 Dich deshalb, nur weil Du mein Zwillingsbruder bist, aus
 dem Zuchthaus in Sydney befreit, damit Du jetzt wie ein
-Vampyr Dich...«
+Vampyr Dich …«
 
-Erneutes Hohngelächter... —
+Erneutes Hohngelächter … —
 
 Harsts Dietrich arbeitete an der Hintertür. Die Zange
 half. Die Tür ließ uns ein.
@@ -1202,17 +1202,17 @@ Wir drei schlüpften in den Flur.
 Dann — flog die Tür jäh auf — die Tür des erleuchteten
 Zimmers.
 
-»Polizei!« rief Vogler. »Hände hoch...!!«
+»Polizei!« rief Vogler. »Hände hoch …!!«
 
 An einen Lehnsessel gefesselt saß da ein Mann — der
-wahre Benn Gußfelder...
+wahre Benn Gußfelder …
 
 Und sein Doppelgänger und vier andere Kerle, äußerlich
 <@pagebreak/>
-Gentlemans, stierten uns an... Nur einer regte sich,
+Gentlemans, stierten uns an … Nur einer regte sich,
 griff blitzschnell in die Tasche: Bennarara!
 
-Da schoß Vogler...
+Da schoß Vogler …
 
 Der Verbrecher sank nach hinten, kollerte auf den
 Teppich. Die Kugel hatte ihm die Stirn durchschlagen.
@@ -1251,12 +1251,12 @@ betonte sie. — So entstand der erste Verdacht. So
 kam eins zum anderen. — In übrigen bin ich recht gespannt,
 was Gußfelder uns über seine australischen Abenteuer erzählen
 <@pagebreak/>
-wird. — Gute Nacht... Wir haben den Schlaf
+wird. — Gute Nacht … Wir haben den Schlaf
 verdient.« —
 
 Was Gußfelder erzählte, gehört nicht mehr hierher.
 Ich bringe es zu Anfang des nächsten Bandes, der uns
-dem Leser als... Australienforscher vorstellt.
+dem Leser als … Australienforscher vorstellt.
 
 
 Nächster Band:
