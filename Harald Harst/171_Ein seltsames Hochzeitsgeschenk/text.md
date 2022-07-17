@@ -927,12 +927,12 @@ Wir hatten Dabsal nichts davon erzählt, daß wir es in
 Kolombo mit einer ähnlichen Mumie (falls es nicht dieselbe
 war!) zu tun gehabt hatten.
 
-Das alte Ehepaar Thronsessel empfing uns mit
-sjchmeczlich-bewegter Licebenckwürdigsfeit.
+Das alte Ehepaar Granveller empfing uns mit
+schmerzlich-bewegter Liebenswürdigkeit.
 
 Auch der gerade bei seinen Eltern zu Besuch weilende
 einzige Sohn, der in Madras beim dortigen Gouvernement
-Sekretär und uns bereits bekannt war hakte inzwischen
+Sekretär und uns bereits bekannt war, hatte inzwischen
 <@pagebreak/>
 schon genau wie die Polizei Nachforschungen nach dem Absender
 des Pakets angestellt …
@@ -940,13 +940,13 @@ des Pakets angestellt …
 Dieser Edward Granveller, eine elegante Erscheinung
 mit einem klugen, nur etwas verschlossenen Gesicht, zeigte
 uns dann auch nicht nur die Truhe und die Mumie, die
-stark nach Kampfer roch und der noch Kampserpulverstäub-en
-anzustellen, sondern auch das Packpapier und den Bindfaden
+stark nach Kampfer roch und der noch Kampferpulverstäubchen
+anhafteten, sondern auch das Packpapier und den Bindfaden
 sowie den Abschnitt der Paketadresse.
 
 Harald besichtigte alles sehr genau.
 
-Das Paket war in Negapatam, der nördlich der Buchtmündung
+Das Paket war in Negapatam, der nördlich der Pudu-Mündung
 liegenden Hafenstadt, zur Post gegeben worden.
 Edward Granveller erklärte, daß Nachfragen in Negapatam
 nur den Erfolg gehabt hätten, zweifelsfrei festzustellen, ein
@@ -960,27 +960,28 @@ bemerkte er … »Für diese Arbeit brauche ich eine gewisse
 Sammlung, die ich hier nicht habe …« —
 
 So kam es denn, daß wir abends halb elf in unserem
-Wohnungs8gemachh im Radschaschlosse an dem einen Sofatische
+Wohnungsgemach im Radschaschlosse an dem einen Sofatische
 saßen und bei hellster Beleuchtung die einzelnen Teile
 des unheilvollen Paketes prüften …
 
 Wir hatten damit soeben erst begonnen, als irgendwo
 in einem der Flure draußen eine so starke Detonation ertönte,
-daß wir förmlich von den Sesseln zahllosen …
+daß wir förmlich von den Sesseln hochflogen …
 
 Im Nu waren wir im Korridor …
 
-— Im Nu auch an der Stelle, 150 vor der Tür der Privatgemächer
+Im Nu auch an der Stelle, wo vor der Tür der Privatgemächer
 Dabsals offenbar ein Sprengkörper, eine
 Höllenmaschine, zur Explosion gebracht worden war …
+
 sehr bald traf die Polizei ein …
 
 Wir und Edward Granveller beteiligten uns bei den
-nach Forschungen und Feststellungen auf das eifrigste …
+Nachforschungen und Feststellungen auf das eifrigste.
 
-Stunden vergingen so … Stunden, in denen die T €-
+Stunden vergingen so … Stunden, in denen die
 Dienerschaft, die Wachtposten und die Palastbeamten verhört
-wurden …
+wurden.
 
 <@pagebreak/>
 Nichts kam dabei heraus …
@@ -1000,11 +1001,11 @@ Das eine Fenster stand offen …
 Als Harald den leeren Tisch erblickte, hatte er einen
 leisen Pfiff ausgestoßen …
 
-Dann war’s er mir einen eigentümlichen Blick zu …
+Dann warf er mir einen eigentümlichen Blick zu …
 
 »Also so war’s gemeint!« sagte er leise …
 
-Und da kam auch mir die Erleuchtung: das scheinba1ie
+Und da kam auch mir die Erleuchtung: das scheinbare
 Attentat — — wir hatten lediglich aus unseren Räumen
 herausgelockt werden sollen!! Nur das!
 
@@ -1016,14 +1017,14 @@ verschwinden!!«
 
 Er ging zum Fenster, schaltete die Taschenlampe ein …
 
-»Hier liegt eine Steine Staubschicht auf dem Fensterbrett
+»Hier liegt eine feine Staubschicht auf dem Fensterbrett
 … Hier sind keine Spuren … Der Dieb kam durch
 die offene, unverschlossene Tür …«
 
-? Er setzte sich, streckte die Beine weit von sich, schloß die
-lugen …
+Er setzte sich, streckte die Beine weit von sich, schloß die
+Augen …
 
-»Darauf,« flüsterte er, »wollen wir wetten, daß ich
+»Schraut,« flüsterte er, »wollen wir wetten, daß ich
 das Gestohlene hier finde?«
 
 »Hier?!«
@@ -1033,7 +1034,7 @@ sich in den Flur wagen … Suchen wir!«
 
 Wir suchten …
 
-Vier hinunter hatten wir hier für uns …
+Vier Zimmer hatten wir hier für uns …
 
 Suchten eine Stunde — umsonst …
 
@@ -1045,11 +1046,11 @@ zu schlüpfen … — Oder — halt, — etwas anderes …!«
 
 mit schnellen Schritten war er am Fenster …
 
-Riß den Flügel jenes Fensters aus, das vorher offen
-gewesen …«
+Riß den Flügel jenes Fensters auf, das vorher offen
+gewesen …
 
-Und — aus den hätten jetzt eine Gestalt in langen
-Sätzen zum Angerufen, unter dem linken Arm … ein großes
+Und — aus den Büschen jetzt eine Gestalt in langen
+Sätzen zum Inselufer, unter dem linken Arm … ein großes
 Paket …
 
 Hochparterre unsere Zimmer …
@@ -1064,14 +1065,14 @@ Ein Motor knatterte …
 
 Harald feuerte …
 
-Dann wir beide zur An!:Gestelle … Hinein in des
+Dann wir beide zur Anlegestelle … Hinein in des
 Fürsten elegante Motorbarkasse …
 
 Die Jagd begann …
 
 Ein Inder war’s, der dort hundert Meter vor uns
 nach Süden flüchtete — auf den Kanal zu, der die Stadt
-durchschneidet und dann in den Ruhm mündet …
+durchschneidet und dann in den Pudu mündet …
 
 Harst feuerte abermals … Ich steuerte …
 
@@ -1082,10 +1083,10 @@ Die Schüsse hatten die Leute alarmiert …
 
 Andere Boote nahmen gleichfalls die Verfolgung auf.
 
-Der Inder steuerte in verlangt hinein … Hier lag
+Der Inder steuerte in den Kanal hinein … Hier lag
 Frachtschiff an Frachtschiff … Hier verschwand das
 Motorboot hinter den Lastsampans … Und als wir nahe
-heran, lag daß Boot an einer Wassertreppe — an der eines
+heran, lag das Boot an einer Wassertreppe — an der eines
 großen Ladeplatzes … Von dem Inder keine Spur mehr …
 
 Harald ruft mir zu:
@@ -1109,8 +1110,8 @@ Wir schleichen auf die Veranda …
 Wir spähen durch einen Spalt der Fenstervorhänge ins
 Zimmer …
 
-Edward Granveller gibt am Schreibtisch und liest Zeitung
-… Gähnt … Gähnt wieder … Recht sich … —
+Edward Granveller sitzt am Schreibtisch und liest Zeitung
+… Gähnt … Gähnt wieder … Reckt sich … —
 
 Harald pocht an die Scheibe …
 
@@ -1124,25 +1125,24 @@ seine leichte Jacke an …
 
 Harst schaut sich um …
 
-Wir ist plötzlich so unbehaglich zumute … So, als ob
-vier sofort etwas sich ereignen wird, das ich nur dunkel
+Mir ist plötzlich so unbehaglich zumute … So, als ob
+hier sofort etwas sich ereignen wird, das ich nur dunkel
 ahne …
 
 Harst spricht mit harter Stimme:
 
 »Edward Granveller, Sie hätten sich die Hände waschen
-sollen … Aber dazu blieb Ihnen wohl keine Zeit …
+sollen … Aber dazu blieb Ihnen wohl keine Zeit …«
 
 Der blonde schlanke Herr beschaut seine Hände …
 
-»Ja — Sie haben noch an der rechten Hand Motorösl-flecke,«
-nicht Harald. »Nicht wahr, Sie …
+»Ja — Sie haben noch an der rechten Hand Motorölflecke,«
+nickt Harald. »Nicht wahr, Sie …«
 
-Schweigt sah …
+Schweigt jäh …
 
-Edward Granveller hat uns vorhin das Silberkästchen?
-mit den Zigaretten zugeschoben … Wir haben zugelangt:
-
+Edward Granveller hat uns vorhin das Silberkästchen
+mit den Zigaretten zugeschoben … Wir haben zugelangt
 … haben geraucht …
 
 Und — — Harald schweigt jäh …
@@ -1155,13 +1155,13 @@ Ich sinke im Sessel kraftlos zusammen …
 Auch Harst …
 
 <@pagebreak/>
-Nur noch Buche Nebel hindurch sehe ich Granvellers
+Nur noch durch Nebel hindurch sehe ich Granvellers
 lächelndes Gesicht …
 
 Höre wie aus endlosen Fernen ihn sprechen …
 
-»Sie sind wirklich ein Genie, Herr Harst … Aber umschlich
-war vorsichtig … Es tut mir leid um Sie. beide …
+»Sie sind wirklich ein Genie, Herr Harst … Aber auch
+ich war vorsichtig … Es tut mir leid um Sie beide …
 Jeder ist sich selbst der Nächste …«
 
 Mehr höre ich nicht …
@@ -1177,34 +1177,35 @@ Ein Bündel — gefesselt, geknebelt …
 In meinem Kopf wühlt jemand mit glühenden Eisen
 herum …
 
-eine Augen schmerzen, daß ich sie geschlossen halten
+Meine Augen schmerzen, daß ich sie geschlossen halten
 muß …
+
 Ein Bündel, fühle ich, — eingewickelt in Leinwand …
+
 Und reiße schließlich doch die Augen auf …
 
 Finsternis …
-Blitze zucken auf, leuchtende Sterne … ein ganzes
-Feterwerk … Neue Ohnmacht droht mir … Ich kämpfe
 
+Blitze zucken auf, leuchtende Sterne … ein ganzes
+Feuerwerk … Neue Ohnmacht droht mir … Ich kämpfe
 gegen die Schwäche an … Eine ungewisse Angst würgt
 mir in der Kehle …
 
 Und — meine Nase spürt immer deutlicher betäubenden
 Verwesungsgeruch …
 
-All meine Kraft Rasse in zusammen …
+All meine Kraft raffe ich zusammen …
 
 Will mich rühren …
 
-Höhle, daß ich auf Holz liege — festgebunden bin …
+Fühle, daß ich auf Holz liege — festgebunden bin …
 
-— —« nameinloses Grauen!! — mit mir unter
-
+Daß — — namenloses Grauen!! — mit mir unter
 derselben Hülle ein … Toter liegt — dicht neben mir …
 
 Entsetzen packt mich …
 
-Pakt mich doppelt, als ich jetzt Stimmen höre …
+Packt mich doppelt, als ich jetzt Stimmen höre …
 Tempelpauken … Brahminengesänge …
 
 Und — als ich Brandgeruch spüre …
@@ -1212,16 +1213,15 @@ Und — als ich Brandgeruch spüre …
 Grausige Erkenntnis: Der Verbrennungshof der Hindus
 am Seeufer …
 
-Derselbe Gerbrennung8bor. wo damals der verbrecherische
+Derselbe Verbrennungshof, wo damals der verbrecherische
 <@pagebreak/>
-Radscha Mar Schlag Chaos … nicht verbrannt
+Radscha Mar Shing Chani … nicht verbrannt
 wurde …
 
 Grauen, Entsetzen, Todesangst treiben mir Eisesschauer
 Über den Leib …
 
-Letzte Kraft … letzte Kraftanstrengung, — — ich; werfe
-
+Letzte Kraft … letzte Kraftanstrengung, — — ich werfe
 mich zur Seite …
 
 Wälze mich hin und der …
@@ -1230,7 +1230,7 @@ Höre den Balken, auf dem ich liege, sich bewegen …
 
 Höre ein Poltern …
 
-Und … tollere samt dem Balken und dem Toten von
+Und … kollere samt dem Balken und dem Toten von
 dem Scheiterhaufen herab …
 
 Man entfernt die Leinwand … Schneidet mich los …
@@ -1255,37 +1255,37 @@ mich …
 Die Tore des Verbrennungshofes werden gesperrt …
 Niemand darf hinaus, niemand herein …
 
-Brahminen bemühen sein um Harald …
+Brahminen bemühen sich um Harald …
 
 Wir haben ihn in die Tempelhalle getragen … Und
-—» nach einer Stunde erwacht er … Nach einer weiteren
+— nach einer Stunde erwacht er … Nach einer weiteren
 Stunde steht er aufrecht …
 
-(Es ist jetzt zehn Uhr vormittags …
+Es ist jetzt zehn Uhr vormittags …
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 
-<h3>Ein Boot bringt uns zu Doktor Granvellers Wasser-.</h3>
-Treppe … Uns und den Polizeiche] von Pudukattai …
+Ein Boot bringt uns zu Doktor Granvellers Wassertreppe
+… Uns und den Polizeichef von Pudukattai …
 
 Harald berichtet dem Beamten … Seine Stimme ist
 noch matt und klanglos …
 
-»Edward Granveller hat Miß Jane das Paket gesetzt
+»Edward Granveller hat Miß Jane das Paket geschickt
 … Der erste Verdacht gegen ihn kam mir, als sein
 Vater erwähnte, daß sein Sohn häufig Ausflüge unternehme
 und auch in Negapatam gewesen sei. In Negapatam war
-das Paket zur Post gegeben … Und — auch) der Tag
+das Paket zur Post gegeben … Und — auch der Tag
 stimmte … — Edward Granveller hat die Höllenmaschine
 in den Schrank gestellt … Er warf die Truhe durch das
-offene Fenster in das Gebü’h … Als er sich verkleidet
-hatte, Fliesen wir hinter ihm …«
+offene Fenster in das Gebüsch … Als er sich verkleidet
+hatte, blieben wir hinter ihm …«
 
 Der Polizeichef schüttelt sich vor Grauen …
 
-»Der Mensch muß eine Berlin sein!!«
+»Der Mensch muß eine Bestie sein!!«
 
 »Der Mensch hatte sich in Jane verliebt … Und toll
 vor Eifersucht wollte er Jane dann verderben … Niemals
@@ -1295,12 +1295,12 @@ sollte sie dem Fürsten gehören …«
 einziges Kind …«
 
 »Wir tun sie gewiß leid,« nickt Harst. »Und doch —
-wie sollten wir Edward schönen können — — unmöglich!«
+wie sollten wir Edward schonen können — — unmöglich!«
 
 Das Boot landet …
 
 Der Garten des Doktors liegt im Sonnenglanz da …
-Palmen rauschen … Uceberschlauke Arcekapalmen wiegen sich
+Palmen rauschen … Überschlanke Arekapalmen wiegen sich
 im Winde …
 
 Auf der Veranda im Liegestuhl eine helle Gestalt …:
@@ -1310,29 +1310,27 @@ an die Brüstung … Verneigt sich, ruft uns zu:
 »Guten Morgen, meine Herren … Bitte, treten Sie
 näher …«
 
-Und kannte? steckt er uns die Hand hin …
+Und harmlos steckt er uns die Hand hin …
 
--
-
-Ah Harald wird meiner
+Selbst Harald wird unsicher.
 
 <@pagebreak/>
 Aber der Polizeichef poltert schon heraus:
 
-»Spielen Sie keine Komödie »Edward Granveller …
+»Spielen Sie keine Komödie Edward Granveller …
 Sie sind verhaftet! Weshalb, — das wissen Sie wohl …!«
 
 Der junge Mann hebt den Kopf …
 
-»Verhalten … — — mich?! Mich?! Scherzen Sie?)
+»Verhaften … — — mich?! Mich?! Scherzen Sie?!«
 
 Sein Blick sucht Harsts Gesicht …
 
-»Her! Harst, ich begreife nicht …«
+»Herr Harst, ich begreife nicht …«
 
 Harald fragt nur:
 
-»und in der verflossenen Nacht, — — wo waren am
+»und in der verflossenen Nacht, — — wo waren Sie
 da?!«
 
 »Ich?! — Im Radschaschloß …! Besinnen Sie sich,
@@ -1341,7 +1339,7 @@ Sie beide begaben sich in Ihre Zimmer … Der Fürst und
 ich saßen noch bis gegen fünf Uhr bei Mokka und Zigaretten
 auf und besprachen das Geschehene …«
 
-»Und die Schüsse, — hörten Sie die nicht?!
+»Und die Schüsse, — hörten Sie die nicht?!«
 
 »Schüsse?! Nein …! — Fragen Sie doch den Radscha
 … Ich bin erst morgens heimgekehrt, gegen sechs Uhr …«
@@ -1355,24 +1353,26 @@ Harald blickt Granveller lange an …
 Und Granveller nimmt seinen Strohhut, folgt uns …
 
 Das Boot gleitet über den See … Wir schweigen …
-Wir … stehen dann vor Mar Schlag Dabsal …
+
+Wir … stehen dann vor Mar Shing Dabsal …
+
 Fragen … Antworten …
 
-Dabsal wird soll, als Harst erzählt, wie nahe uns der
+Dabsal wird fahl, als Harst erzählt, wie nahe uns der
 Flammentod gewesen.
 
 Dann aber schüttelt er den Kopf …
 
 »Edward Granveller hat mir bis sechs Uhr Gesellschaft
 geleistet, lieber Harst … Mithin kann er Ihnen niemals
-in dieser Weise noch dem Leben getrachtet haben …«
+in dieser Weise nach dem Leben getrachtet haben …«
 
-Ich, Mar Strauß, glaubte zu träumen …
+Ich, Max Schraut, glaubte zu träumen …
 
-Der Povlizehes macht ein sehr wenig geistvolles So
-ausficht
+Der Polizeichef macht ein sehr wenig geistvolles Gesicht
+…
 
-Harst wendet sich?) an Edward …
+Harst wendet sich an Edward …
 
 <@pagebreak/>
 »Entschuldigen Sie … Sie werden zugeben müssen,
@@ -1381,24 +1381,23 @@ daß wir allen Grund hatten, nur Sie für …«
 Granveller da hastig:
 
 »Herr Harst, — ich habe einen Doppelgänger … —
-
-Madras ereignete sich letztens folgendes …« Und mit
-einem Bis auf den Polizeichef: »Sie kennen die für mich
-recht peinliche Angelegenheit, Herr Wallt, die ja auch den
+In Madras ereignete sich letztens folgendes …« Und mit
+einem Blick auf den Polizeichef: »Sie kennen die für mich
+recht peinliche Angelegenheit, Herr Dalby, die ja auch den
 Anlaß gab, daß ich sechs Wochen Urlaub beantragte und
 auch erhielt …« Und wieder zu Harald und mir: »In
 Madras wurden einem Juwelier von einem Manne, der
 mir Zug um Zug glich, am hellen Tage Pretiosen gestohlen.
 Der Dieb hatte sogar meine Kleidung bis ins einzelne
 kopiert, und es war daher nicht weiter wunderbar, daß
-man mich verhaften wollt. Zum Glück konnte ich nachweisen,
+man mich verhaften wollte. Zum Glück konnte ich nachweisen,
 daß ich zur Zeit der Ausführung des Diebstahls
-mich bei meinem Freunde Lord: Garnison ausgehalten hatte.
+mich bei meinem Freunde Lord Salargan aufgehalten hatte.
 Die Polizei entließ mich daher mit vielen Entschuldigungen.
-Die Nachforscnmungen nach meinem Doppelgänger sind
-bisher erfolglos geblieben. Wir selbst ist dieser Mensch bisher
+Die Nachforschungen nach meinem Doppelgänger sind
+bisher erfolglos geblieben. Mir selbst ist dieser Mensch bisher
 nicht begegnet. Ihr Erlebnis, Herr Harst, zeigt mir
-aber, daß dieser Unbekannte es offenbar daraus anlegt,
+aber, daß dieser Unbekannte es offenbar darauf anlegt,
 mich zu verderben …« — Er hatte immer erregter gesprochen.
 Sein Gesicht brannte in tiefer Röte, und seine
 Hände hatten sich unwillkürlich zu Fäusten geballt. Zum
@@ -1406,82 +1405,80 @@ Radscha gewandt fügte er noch hinzu: »Ein wahres Glück
 für mich, daß Hoheit die Liebenswürdigkeit besaßen, mich
 in dieser Nacht noch bei sich zu behalten …! Was wäre
 mir geschehen, wenn Hoheit nicht wie jetzt für mich als
-Tage hätten auftreten können?! Wie hätte ich meine
+Zeuge hätten auftreten können?! Wie hätte ich meine
+Schuldlosigkeit nachweisen sollen?!«
 
-sie oft Paket nachweisen sollen?!«
-
-Der ahne Kerl konnte einem in der Tat leid tun …
+Der arme Kerl konnte einem in der Tat leid tun …
 Es mußte ein scheußliches Gefühl sein, jederzeit vielleicht
-für Verbrechen verantwortlich gemacht werden zu hörten,
-Hie ein anderer begangen hatte.
+für Verbrechen verantwortlich gemacht werden zu können,
+die ein anderer begangen hatte.
 
 Harald war denn auch der letzte, der unter diesen Umständen
-sich nicht nochmals bei Granveller entschuldigt Hähne.
-
+sich nicht nochmals bei Granveller entschuldigt hätte.
 <@pagebreak/>
 Sie tauschten einen Händedruck aus, und Harald meinte
-herzlichen Tones: »J4F werde diesen Doppelgänger finden,
+herzlichen Tones: »Ich werde diesen Doppelgänger finden,
 Herr Granveller … Das soll mein Dank dafür sein,
 daß Sie mir meinen Irrtum nicht weiter nachtragen …«
 
-Granveller und Wallt verabschiedeten sich bald darauf.
-Harald fühlte sich vor recht angegriffen, und daher begaben
+Granveller und Dalby verabschiedeten sich bald darauf.
+Harald fühlte sich noch recht angegriffen, und daher begaben
 wir uns in unsere Gastzimmer, wo er sich auf eine
 Ottomane legte. — Ich traute dem Frieden nicht recht …
-Wir kam es etwas merkwürdig vor, daß Harst bei seiner
+Mir kam es etwas merkwürdig vor, daß Harst bei seiner
 robusten Natur sich noch schonen wollte, anstatt diese rätselhafte
 Doppelgänger-Geschichte sofort in Arbeit zu nehmen.
 — Der Radscha hatte sich uns angeschlossen und saß nun zu
 Häupten des Ruhebettes in einem Sessel und starrte vor
 sich hin, während ich etwas ruhelos in dem weiten Raume
-hin und her ging. (Es war dasselbe Zimmer, aus dem die
-kleine Truhe mit der turnte vor etwa acht Stunden gestohlen
+hin und her ging. Es war dasselbe Zimmer, aus dem die
+kleine Truhe mit der Mumie vor etwa acht Stunden gestohlen
 worden war.
 
 Harald lag mit geschlossenen Augen da … Nach einer
 Weile erschienen zwei Diener und servierten das Frühstück.
-Ein Tisch!;en wurde an die Ottomane gerückt, und Harald
+Ein Tischchen wurde an die Ottomane gerückt, und Harald
 langte mit gutem Appetit zu …
 
-Schwanz unvermittelt, wie das so seine Art ist, fragte er
-Iden fürstlichen »Freund:
+Ganz unvermittelt, wie das so seine Art ist, fragte er
+den fürstlichen Freund:
 
-»Dabsal, Sie hatten also mit Granveller in dem kleinen
-Salon neben Ihrem Arbeitszimmer im Hauptflügel
+»Dabsal, Sie saßen also mit Granveller in dem kleinen
+Salon neben Ihrem Arbeitszimmer im Hauptflügel …
 Sie hatten die Fenster offen … Und doch hörten Sie nichts
 von den Schüssen, die wir auf den im Motorboot Fliehenden
 abgaben?«
 
-»ict8 …«
+»Nichts …«
 
 »Würden Sie sich dann vielleicht nachher mit Schraut
 in den kleinen Salon begeben und die Fenster öffnen …
 Ich werde von derselben Stelle, wie in der Nacht, zwei
 Schüsse abfeuern …«
 
-Der Fürst warf Harald einen unsicheren Bis zu …
+Der Fürst warf Harald einen unsicheren Blick zu …
 »Hm — Sie meinen, wir hätten die Schüsse hören müssen,
 lieber Harst?«
 
 <@pagebreak/>
 »Ja … Besonders in der stillen Nacht …«
 
-Der Radscha erhob sich … »Kommen Sie, Schlaf. Ich
+Der Radscha erhob sich … »Kommen Sie, Schraut. Ich
 bin sehr gespannt, was diese Probe ergeben wird …«
 
-Harald rief uns mochte nach: »Die Sache bleibt unter
+Harald rief uns noch nach: »Die Sache bleibt unter
 uns … Ich werde zum Schein nach Möwen feuern …«
 
 Dabsal seufzte nur … — Dann saßen wir in dem
-kleinen Salon …+… bartlosem.
+kleinen Salon … Warteten …
 
 Zehn Minuten nichts …
 
-Plötzlich ganz deutlich von draußen daß zweimalige
-Pirat Peng Peng von Schüssen aus einer Repetierpistole
+Plötzlich ganz deutlich von draußen das zweimalige
+blecherne Peng Peng von Schüssen aus einer Repetierpistole
 …
 
-Dabsal war zusammengezudät …
+Dabsal war zusammengezuckt …
 
 »Schraut, verstehen Sie das?!« rief er. »In der Nacht
 hörten Granveller und ich nichts, gar nichts, und jetzt …
@@ -1493,72 +1490,71 @@ Ein ganz anderer Harald wieder …
 
 Lebendig, die grauen Augen voller Feuer …
 
-»Ihr habt die So Affe natürlich gehört!« sagte er mit
+»Ihr habt die Schüsse natürlich gehört!« sagte er mit
 halbem Lächeln … »Das wußte ich … ahnte ich … Und
 Ihnen, Dabsal, kann ich nun fest versprechen, daß Ihre
 Braut in kurzem wiederhergestellt sein wird. Aber auch das
 bleibt unter uns …«
 
-Der Fürst war aufgesprungen, hatte Harsts Hand Ereignissen
+Der Fürst war aufgesprungen, hatte Harsts Hand ergriffen
 …
 
-»Woher diese Zuversicht bei« Ihnen?« fragte er bittend.
+»Woher diese Zuversicht bei Ihnen?« fragte er bittend.
 »Erklären Sie mir das … Lassen Sie mich nicht im
 Ungewissen … Bedenken Sie, daß …«
 
 Harald schaute dem Radscha in die dunklen Träumeraugen,
 in denen jetzt stets der Ausdruck stillen Leides lag …
 
-»Diktat,« sagte er leise, »auch jene Zeit wird kommen,
+»Dabsal,« sagte er leise, »auch jene Zeit wird kommen,
 wo ich Ihnen die gewünschten Erklärungen abgeben
-kann … Jetzt muß es Ihnen geringen, daß ich, der nie
-etwas verspricht, was er nichts halten von, Ihnen nochmals
+kann … Jetzt muß es Ihnen genügen, daß ich, der nie
+etwas verspricht, was er nichts halten kann, Ihnen nochmals
 wiederhole: Miß Jane wird genesen, und der gemeine
 <@pagebreak/>
-Streich dieses Hochzeitsgeschenke wird ohne Folgen
-bleiben … — Auf Wiedersehen, Dabsal …
+Streich dieses Hochzeitsgeschenks wird ohne Folgen
+bleiben … — Auf Wiedersehen, Dabsal …«
 
 Wir kehrten in unsere Gemächer zurück …
 
 Wo ich mich dann dicht vor Harald aufpflanzte …
 
-»wär’ mal,« flüsterte ich, »du … mißtraust Granveller
+»Hör’ mal,« flüsterte ich, »du … mißtraust Granveller
 …! Lüge nicht!«
 
-Sein Gesicht wurde sehr ernst. »Eis stimmt, mein Alter
-… sich traue ihm nicht … Vielleicht … arbeitet er
+Sein Gesicht wurde sehr ernst. »Es stimmt, mein Alter
+… Ich traue ihm nicht … Vielleicht … arbeitet er
 Hand in Hand mit seinem Doppelgänger … vielleicht …
 Wir werden …«
 
-Dr unterbrach ihn … »Entschuldige … Granveller
+Ich unterbrach ihn … »Entschuldige … Granveller
 hat die Höllenmaschine in den Schrank im Flur gestellt —
-nur er! (8 ist doch so?«
+nur er! Es ist doch so?«
 
 »Wer sonst, Max Schraut?! — Und diese Explosion
 war ein ganz schwerer Fehler … Diese Explosion hat Edward
-Granvellers seines Plänchen verraten … — Wir
-werden jetzt zunächst zum Verbrennungshof hinüberj:herum
-
-Ich muß den Oberpriester sprechen …«
+Granvellers feines Plänchen verraten … — Wir
+werden jetzt zunächst zum Verbrennungshof hinüberfahren
+… Ich muß den Oberpriester sprechen …«
 
 Des Fürsten Staatsbarkasse trug uns über den im
-Sonnenlicht gebohrten See … —
+Sonnenlicht gebadeten See … —
 
 Der Oberpriester erklärte auf Haralds Fragen, der
 Verbrennungshof würde nachts nicht bewacht … Wozu
-Such’! Es gebe hier ja nichts zu schien …
+auch?! Es gebe hier ja nichts zu stehlen …
 
-»Allerdings nicht,« meinte Harald halb Anregend. »Nur
+»Allerdings nicht,« meinte Harald halb scherzend. »Nur
 kann etwas gebracht werden: zwei Menschen, die auf die
 fertigen Scheiterhaufen gelegt werden, wie dies mit uns
 geschah! — Aber verschlossen ist der Hof doch nachts?«
 
-»Y Sahib Harst … Die Mauern und das Tor sind
-so hoch, daß im nicht verstehe, wie es möglich war, daß jemand
-»Sie beide über die Mauer schaffen und …
+»Ja, Sahib Harst … Die Mauern und das Tor sind
+so hoch, daß ich nicht verstehe, wie es möglich war, daß jemand
+Sie beide über die Mauer schaffen und …«
 
-Das »Wie« will ich jetzt ergründen …« — und wir
-verbitten die ungemütliche Stätte und begannen die Mauer
+»Das »Wie« will ich jetzt ergründen …« — und wir
+verließen die ungemütliche Stätte und begannen die Mauer
 von draußen zu besichtigen …
 
 An einer Kokospalme, die nach der Seeseite hin ziemlich
@@ -1582,11 +1578,11 @@ Doppelgängers …!«
 
 Lächelte wieder … Kam herab und meinte:
 
-»un können wir getrost mag Madras fahren … Dort
+»Nun können wir getrost nach Madras fahren … Dort
 wird sich das weitere finden …!«
 
-Ich … lächelte gleichfalls …- »Granvellers Urlaub ist
-morgen zu Ende …
+Ich … lächelte gleichfalls … »Granvellers Urlaub ist
+morgen zu Ende …«
 
 »Ja, und ich möchte vor ihm an Ort und Stelle sein.«
 
@@ -1597,13 +1593,12 @@ der alte Doktor Granveller uns erwarte …
 »Hm …« meinte Harst sinnend, »sollte der alte Herr
 etwa … — nun, wir werden ja hören …«
 
-Und wir … hörten denn eine sehr eigentümliche See
-
+Und wir … hörten denn eine sehr eigentümliche 
 Geschichte …
 
-<@pagebreak/>
+<@pagebreak 34/>
 
-Granvellers Zweites Ich).
+<h1>Granvellers Zweites Ich.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -2656,7 +2651,7 @@ Der Teppich glitt in die alte Lage …
 
 Und Harald im Nu den Teckel beiseite gelegt und im
 <@pagebreak/>
-Nu hinab … Wir nun bellend, mich herabbhebend …
+Nu hinab … Wir nun bellend, mich herabhebend …
 Wir beide zum Türvorhang …
 
 Harst lüftet ihn sacht …
