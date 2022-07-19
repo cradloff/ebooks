@@ -31,7 +31,7 @@ Der Siebzigjährige, ein prachtvolles Modell eines
 Fischergreises, nahm mit den teerbeklexten Händen die
 Zigarre.
 
-»Et jist wat, von wejen meine Elefantennarbe …
+»Et jift wat, von wejen meine Elefantennarbe …
 <@pagebreak/>
 Hei sticht und rumort, die Narbe …« erklärte er im Tone
 einer Pythia und streichelte den linken Oberschenkel, wo die
@@ -603,7 +603,7 @@ ein Weib …« leitete Harald das Verhör ein.
 Ich spitzte die Ohren. — Ein Weib?! Wüllner — der
 Jongleur?!
 
-»Ah — Sie wissen.«
+»Ah — Sie wissen …«
 
 »Wie Sie hören: ich weiß! — Was hat sie Ihnen
 erzählt, Herr Kraschan? Wie hat sie ihre Verkleidung als
@@ -809,7 +809,7 @@ friedlichen Gewässern ausgeführt wurde — dann aus
 der Regenfinsternis von Backbord her der Angreifer, ganz
 überraschend, wie ein Seegespenst, still, düster — —
 
-Ein Rammstoß…
+Ein Rammstoß …
 
 Der Mast knickte …
 
@@ -1300,7 +1300,7 @@ gleichzeitig unsere Handgelenke wie von Schmerzen gefoltert
 sich vereinigten. Zinkdraht war’s, den die Schufte zum
 Fesseln benutzten!
 
-Die kurze Betäubung wich.
+Die kurze Betäubung wich …
 
 Wir saßen nebeneinander auf dem Rande eines Bettes
 im erleuchteten Laubenstübchen.
