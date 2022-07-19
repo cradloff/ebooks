@@ -143,7 +143,7 @@ Also wieder heim — und nach oben in die beiden
 Fremdenzimmer, die Harald dem Grafen und seiner Tochter
 in der verflossenen Nacht zur Verfügung gestellt hatte.
 
-Und oben Frau Auguste Harst.
+Und oben Frau Auguste Harst …
 
 »Harald — sie sind ausgerückt! Kaum wart Ihr beide
 zum Hause hinaus, als der Graf und die junge Gräfin mit
@@ -320,7 +320,7 @@ der Drehorgel wieder gesehen?«
 
 »Nö, Herr Harst, das nich. Aber — aber gefunden hat
 mein Freund Julius etwas, das der Leiermann verlor, als
-er in den Taxameter kletterte. Hier — dies.«
+er in den Taxameter kletterte. Hier — dies …«
 
 Er hielt Harald eine Stiefelsohle hin, eine durchlöcherte
 Ledersohle, in der noch sechs kleine *blanke* Nägel
@@ -389,7 +389,7 @@ er. »Das R. R. kann heißen Robert Robba …«
 »Oder Ronnow, Vater und Tochter, — zwei R’s!«
 
 »Ja — und Dr ganz unten kann die Abkürzung für
-Doktor sein.«
+Doktor sein …«
 
 »Fällt ihm nicht ein! Das heißt Dresden.«
 
@@ -428,7 +428,7 @@ nach Danzig, Harst. Ich habe Urlaub. Ich komme mit.«
 aus. Um sieben Uhr fährt das Luxusauto des Atlantik-Hotels,
 Heringsdorf, von Berlin ab und ist um ein Uhr in
 Swinemünde. Um zwei geht der Dampfer. Also — beeilen
-wir uns…!« — —
+wir uns …!« — —
 
 Nachts waren wir in Swinemünde — gingen an Bord
 des Pillau-Dampfers, eines schwarzen Kastens, der einst
@@ -448,12 +448,12 @@ vereint.
 Um zwei Uhr in See … — am Leuchtturm vorüber,
 zwischen den Molen hindurch …
 
-Das Meer in Laune — spiegelglatt, Mondschein…
+Das Meer in Laune — spiegelglatt, Mondschein …
 
 Getrennt standen wir an der Reling des Promenadendecks …
 
 Und — fuhren mit den Köpfen herum: vom Vorschiff
-ein Leierkasten, der… den roten Sarafan winselte!
+ein Leierkasten, der … den roten Sarafan winselte!
 
 Nicht *ein* Leierkasten. *Der* Leierkasten. Eben der
 des Bettlers. Aus Hunderten hätte ich *die* Töne des
@@ -1305,7 +1305,7 @@ bewegte sich plötzlich …
 Das Schwert zuckte hoch …
 
 <@pagebreak/>
-Robba stieß einen gurgelnden Laut aus.
+Robba stieß einen gurgelnden Laut aus …
 
 Der Teller, Messer, Gabel entfielen ihm. Er taumelte
 zurück, schlug rückwärts zu Boden …
