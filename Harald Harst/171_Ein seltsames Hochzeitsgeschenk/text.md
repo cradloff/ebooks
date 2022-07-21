@@ -1602,7 +1602,7 @@ Geschichte …
 
 <h2>1. Kapitel.</h2>
 
-<h3>Ein gebrochener alter Mann saß uns gegenüber …</h3>
+Ein gebrochener alter Mann saß uns gegenüber …
 
 Doktor Granveller war über Nacht um viele Jahre
 älter geworden — fast zum Greise …
@@ -1611,16 +1611,16 @@ Mit zitternder Hand schob er immer wieder seine goldene
 Brille zurecht, während er traurig über die Geschehnisse
 der Nacht sprach …
 
-» -. Verehrter Herr Harst, ich habe nie etwas davon
-gemerkt, daß mein Sohn Edward Miß Jane besondere Aus-merfkifamfeit
+»… Verehrter Herr Harst, ich habe nie etwas davon
+gemerkt, daß mein Sohn Edward Miß Jane besondere Aufmerksamkeit
 erwiesen hätte … Und daß er an dem Tage
-in Vegapatam weilte, als das Unglückspaket dort ausgegeben
-wurde, — — eben ein wiegt …« Zoo sagte er unter
-anderem … Und dann rückte er sehr:rasend mit der
+in Negapatam weilte, als das Unglückspaket dort aufgegeben
+wurde, — — eben ein Zufall …« So sagte er unter
+anderem … Und dann rückte er sehr zögernd mit der
 eigentlichen Ursache seines Besuches heraus …
 
-»Edward ist heute acbtundzwarnzia glaubte alt geworden
-— gerade heute … zzür ihn ein trüber Geburtstag, denn
+»Edward ist heute achtundzwanzig Jahre alt geworden
+— gerade heute … Für ihn ein trüber Geburtstag, denn
 er leidet sehr unter dem Vorgefallenen und unter der nunmehr
 noch verstärkten Angst vor dem … Doppelgänger …
 — Ja, heute ist sein Geburtstag … Heute ist der Tag, an
@@ -1630,66 +1630,63 @@ schenkte …«
 
 Ganz leise die letzten Sätze nur …
 
-Wieder schob er die Brille auch? …
+Wieder schob er die Brille zurecht …
 
 <@pagebreak/>
-»Zwillinge, meine. Herren … In einer … furchtbaren
-Nacht … Ein Orkan legte von der See her Über
+»Zwillinge, meine Herren … In einer … furchtbaren
+Nacht … Ein Orkan fegte von der See her Über
 Kolombo hin … Wir wohnten im Villenviertel in der
 Kalkutta-Straße …«
 
 Harald und ich tauschten einen Blick …
 
-Und Harst fragte: »Welche Nummer, »Herr Doktor?«
+Und Harst fragte: »Welche Nummer, Herr Doktor?«
 
-»Sechs — Nummer sechs … « Ich hatte das Grundstück
+»Sechs — Nummer sechs … Ich hatte das Grundstück
 erworben und das Haus bauen lassen … Prächtige alte
 Bäume enthielt der Garten … Damals in jener Nacht,
 als meine Frau den Zwillingen das Leben gab, warf der
-Orkan einen riesigen Brotfruchtbaum auf daß Nebengebäude
-und erschlug drei meiner Diener … Lire schh4auerliche
-Nacht …
+Orkan einen riesigen Brotfruchtbaum auf das Nebengebäude
+und erschlug drei meiner Diener … Eine schauerliche
+Nacht …«
 
 Er atmete immer schwerer …
 
 »Eine Nacht, meine Herren, in der ich etwas erlebte,
-das ich bisher keinem Armenier anvertraut habe … keinem,
-nicht einmal meiner Frau … — J4 war mit meiner
+das ich bisher keinem Menschen anvertraut habe … keinem,
+nicht einmal meiner Frau … — Ich war mit meiner
 Frau in ihrer schweren Stunde ganz allein … Ich konnte
 keine Hilfe herbeiholen … Der Sturm hatte die Telephonleitungen
 zerstört, und ins Freie wagte sich auch niemand
-
-… Meine Frau wurde ohnmächtig, als das erste Knittern
+… Meine Frau wurde ohnmächtig, als das erste Kindlein
 da war … Ein zweites kam zur Welt … Ich holte
-aus der Küche warmes Wasser … Und als ich daß Schlafzimmer
+aus der Küche warmes Wasser … Und als ich das Schlafzimmer
 wieder betrat, war … einer der Säuglinge …
 verschwunden … An Stelle des Kindes lag in der Wiege
-
-… die Mumie eines braunen Säuglinge …«
+… die Mumie eines braunen Säuglings …«
 
 Der alte Herr trocknete sich den kalten Schweiß von der
 Stirn …
 
-Und … meine Frau noch) immer ohne Bewußtsein
-
+»… Und … meine Frau noch immer ohne Bewußtsein
 … Ich halb von Sinnen … Ich packte die Mumie, schleuderte
-sie Zum Fenster hinaus, beimnühte mich um mein Weib …
+sie Zum Fenster hinaus, bemühte mich um mein Weib …
 Tagelang kämpfte sie mit dem Tode … Als sie gerettet,
-wagte ich nicht? davon zu erwähnen, daß sie zwei Kindern
+wagte ich nichts davon zu erwähnen, daß sie zwei Kindern
 das Leben gegeben … Niemand erfuhr davon … Nur
 insgeheim begann ich Nachforschungen anzustellen. Ich
-wußte, daß die Rodias mich haßten, — — die Rodias, der verachtete
+wußte, daß die Rodias mich haßten, — die Rodias, der verachtete
 <@pagebreak/>
 Volksstamm … Wissen Sie etwas Über die Rodias,
 Herr Harst …«
 
 »Ja — einiges, Herr Doktor …«
 
-»Nun, — ich hatte als RegierungZ3arzt die Rodias
-zwangsweise mit Pestserum jungen müssen … Und das
+»Nun, — ich hatte als Regierungsarzt die Rodias
+zwangsweise mit Pestserum impfen müssen … Und das
 hatten sie mir nicht vergessen. Bei den Rodias besteht nun
 der Aberglaube, daß eine Kindesmumie zum Mutterglück
-verhielt. Die Mumie konnte nur von einem Rodia in die
+verhilft. Die Mumie konnte nur von einem Rodia in die
 Wiege gelegt worden sein … Nur ein Rodia konnte …
 mein Kind gestohlen haben … Meine Nachforschungen
 bewegten sich also hauptsächlich in dieser Richtung, blieben
@@ -1700,7 +1697,7 @@ kranke Frau. wochenlang habe ich die einsam gelegenen
 Rodiadörfer durchstreift, wochenlang mich den größten
 Strapazen unterzogen … Die Polizei hätte nicht sorgfältiger
 und schlauer vorgehen können als ich. — Dann wurde
-ich durch meine vielfach en Pflichten abgelenkt, und meine
+ich durch meine vielfachen Pflichten abgelenkt, und meine
 Nachforschungen konnte ich nur gelegentlich fortsetzen. Aber
 jahrelang habe ich noch in der Hoffnung gelebt, mein Kind
 irgendwo aufzufinden. Inzwischen wuchs Edward zu unserer
@@ -1709,34 +1706,34 @@ daß er uns nie Kummer oder Enttäuschungen bereitet
 hat … niemals! — So, meine Herren, nun kennen Sie
 meine Lebenstragödie.«
 
-Der alte Herr blickte Harald stehend an …
+Der alte Herr blickte Harald flehend an …
 
 »Erfüllen Sie mir die doppelte Bitte: Schweigen Sie
-und … ermitteln Sie den Geraubten, den … Gestrauchelter
+und … ermitteln Sie den Geraubten, den … Gestrauchelten
 …!!«
 
-Harst erwiderte herzlich! »Das soll geschehen, Herr
-Doktor! — Gestalten Sie mir nur ein paar Fragen …
-Zurätst: Sie haben wirklich niemandem von Ihrer Tragödie
-enge erzählt?«
+Harst erwiderte herzlich: »Das soll geschehen, Herr
+Doktor! — Gestatten Sie mir nur ein paar Fragen …
+Zunächst: Sie haben wirklich niemandem von Ihrer Tragödie
+etwas erzählt?«
 
-»jemandem, Herr Harst …«
+»Niemandem, Herr Harst …«
 
-»Mithin wären außer uns nur die Kinde&äräuber selbst
+»Mithin wären außer uns nur die Kindesräuber selbst
 <@pagebreak/>
 noch eingeweiht … — haben Sie aber vielleicht schriftlich
 die damaligen Vorgänge niedergelegt — in einer Art
 Beichte?«
 
-»Das ja …!? In dem Geheimfach meines Schreibtisches
-liegt mein Verstecke!des Geständnis mit der Massa;
-Schrift: »Nur dann nach meinem Tode zu öffnen, falls jemand
-auftauchen sollte, der meinem Sohn Edward über-ra’hend
-ähnlich sieht«…« — Dieses Geheimfach kennt sowohl
+»Das ja …! In dem Geheimfach meines Schreibtisches
+liegt mein versiegeltes Geständnis mit der Aufschrift:
+»Nur dann nach meinem Tode zu öffnen, falls jemand
+auftauchen sollte, der meinem Sohn Edward überraschend
+ähnlich sieht …« — Dieses Geheimfach kennt sowohl
 meine Frau als auch mein Sohn. Beiden habe ich jedoch
 verboten, es zu …«
 
-»Danke, Herr Doktor … « — Schraut und ich werden
+»Danke, Herr Doktor … — Schraut und ich werden
 noch heute nach Madras reisen. Der Fürst stellt uns seine
 Jacht wieder zur Verfügung. Ich glaube in Madras am
 ehesten etwas ausrichten zu können.«
@@ -1744,33 +1741,33 @@ ehesten etwas ausrichten zu können.«
 Der alte Herr verabschiedete sich …
 
 Sein Boot brachte ihn über den See zurück. Wir hatten
-ihn bis zur Anlegebrückt des Schlosses begleitet, und
+ihn bis zur Anlegebrücke des Schlosses begleitet, und
 als wir nun dem enteilenden Boote nachschauten, sagte
 Harald sinnend:
 
-»Dieser Ruhestand ist in der Tat eine Tragödie …!
+»Dieser Kindesraub ist in der Tat eine Tragödie …!
 Wie seltsam, daß wir beide in demselben Hauses in Kolombo,
 wo Granvellers Kind verschwand, zuerst Genaueres
-über die Säugling&mumie hörten, die nun Miß Jane zu
-geschickt worden ist und die vielleicht dieselbe ist, die damals
+über die Säuglingsmumie hörten, die nun Miß Jane zugeschickt
+worden ist und die vielleicht dieselbe ist, die damals
 in die Wiege gelegt wurde … — Was der Doktor uns erzählte,
-beweist auch) wieder so recht, wie das Leben Weit
-phantastischste Dramen dicker als sie dem Hirn eines
+beweist auch wieder so recht, wie das Leben Weit
+phantastischere Dramen dichtet als sie dem Hirn eines
 Schriftstellers entspringen können …«
 
 Zwei Tage später …
 
 Hafen von Madras … In dem Seitenarm, in dem
-unser Seegrund Kapitän O’Kelling stets mit seinem Frachtkutter
-zu liegen pflegte, hat die künstliche Jacht uns am
+unser Freund Kapitän O’Kelling stets mit seinem Frachtkutter
+zu liegen pflegte, hat die fürstliche Jacht uns am
 Bollwerk mit unseren Koffern abgesetzt, wendet und fährt
 davon: Haralds Befehl!
 
 denn Harald hat mir leise erklärt: »Wir werden hier
-inneres verduften! Auf der Jacht Hände uns jeder!«
+spurlos verduften! Auf der Jacht fände uns jeder!«
 
 <@pagebreak/>
-Dann bleibt er bei den Koffern Zuruf und schickt mich
+Dann bleibt er bei den Koffern zurück und schickt mich
 zur vornehmen »Lady Hamilton« …
 
 Nun — diese Lady ist doch nicht so arg vornehm …
@@ -1781,13 +1778,11 @@ an Deck …
 
 Ein Malaie kommt mir entgegen …
 
-Tuwan (Herr), der Käpten ist zum Nachtgrog bei
-Mutter eilten …«
+»Tuwan (Herr), der Käpten ist zum Nachtgrog bei
+Mutter Ohlsen …«
 
 Paratu und ein zweiter Matrose holen unsere Koffer
-
-… Wir quartieren uns in die bekommen neben O’Kellings
-
+… Wir quartieren uns in die Heckkammer neben O’Kellings
 Kajüte ein, erklären den braunen treuen Burschen, daß
 unsere Anwesenheit hier geheim bleiben muß …
 
@@ -1797,47 +1792,47 @@ Er umarmt uns vor Freude.
 
 »Kinder, die Freude …! — Ob ich Zeit für euch habe?!
 — Zu viel Zeit, was das Frachtgeschäft betrifft … Sind
-flaue niemals jetzt …«
+flaue Monate jetzt …«
 
 Am Morgen gibt es an Bord keinen Harst und Schraut
 mehr … Am Morgen sind wir gleichfalls malaiische Matrosen
 geworden mit schmierigen Leinenanzügen, Sandalen
 an nackten Füßen, einen löcherigen Strohhut auf
-dem Schädel, Ledergurt und daran den Knie mit verzier5ck
-frischeste — den malaiischen Dolch …
+dem Schädel, Ledergurt und daran den Kris mit verzierter
+Scheide — den malaiischen Dolch …
 
 Wir haben mit O’Kelling gefrühstückt und erzählen
-ihm, was wir in Puüdula1itai zuletzt erlebten …
+ihm, was wir in Pudukattai zuletzt erlebten …
 
-O’Kellings Grund klappt vor Entsetzen auf über die
+O’Kellings Mund klappt vor Entsetzen auf über die
 brennenden Scheiterhaufen … O’Kelling flucht, daß seine
 braunschwarzen Zahnstummel wackeln …
 
 »Nun werden wir uns Edward Granvellers Wohnung
-Tier »ansehen,« meint Harald. »Von außen … In der
-Bärte: »er wohnt er … bin neugierig, wie er sein Heim
-zeigt … Hie! hat …«
+hier ansehen,« meint Harald. »Von außen … In der
+Barrellstreet wohnt er … bin neugierig, wie er sein Heim
+hergerichtet hat …«
 
-las rechte klingt merkwürdig: hergerichtet!! —
+Das rechte klingt merkwürdig: hergerichtet!! —
 
-Wir schlendern über den Kai und müssen lange stiegen,
-Krebs 1.7 sie Luircllitreet finden …
+Wir schlendern über den Kai und müssen lange suchen,
+ehe wir die Barrellstreet finden …
 
 <@pagebreak/>
 Viel zu sehen gibt es hier nicht …
 
 Die Gitterpforte nur angelehnt … Der Garten verwahrlost
-… — Wir schreiben am Rande einer Seitenmauer
-hin … durch Bäume und Büsche schimmert ein
+… — Wir schleichen am Rande einer Seitenmauer
+hin … Durch Bäume und Büsche schimmert ein
 kleiner Bungalow. Auf der Treppe liegt eine englische
 Bulldogge und schläft. Wir kommen an die Rückseite des
-Grundstücks, an eine-.uralte, verwitterte Mauer, hinter der
-wir auf verwildertem Schmickplatz die Überreste des ältesten
+Grundstücks, an eine uralte, verwitterte Mauer, hinter der
+wir auf verwildertem Schmuckplatz die Überreste des ältesten
 Buddha-Tempels finden, — eine imposante Ruine …
 
 »Ein gutes Quartier,« meint Harald. »Nach allen
 Seiten Luft — Gärten … nach allen Seiten Ausgänge …«
-Und er zeigt auf die Holzpfeife in der ehrwürdigen
+Und er zeigt auf die Holzpforte in der ehrwürdigen
 Mauer … »So habe ich mir Granvellers Heim vorgestellt
 — als Fuchsbau … Ist ein Fuchsbau, mein Alter.«
 
@@ -1848,19 +1843,19 @@ Basarstraßen, von Menschen wimmelnd …
 
 Und plötzlich entdecke ich etwas …
 
-Mitten in einer Schlaf schwatzender amerikanischer
-Touristen (im Hafen liegt das Reiseshiff der Lord-Gesellschaft)
+Mitten in einer Schar schwatzender amerikanischer
+Touristen (im Hafen liegt das Reiseschiff der Cook-Gesellschaft)
 ein schlanker, bartloser Herr mit gebräuntem Gesicht,
 einer schmalen, etwas großen Nase und kurzer Oberlippe,
 die die tadellosen Oberzähne freigibt …: Edward
 Granveller!
 
-Ich Jahre ordentlich zusammen, als ich ihn erkenne …
+Ich fahre ordentlich zusammen, als ich ihn erkenne …
 
 Meine Hand umkrallt Haralds Arm …
 
-»Du Granveller …!!1 Dort links vor dem Tische des
-Scleierhändlers …!« —
+»Du Granveller …!! Dort links vor dem Tische des
+Schleierhändlers …!«
 
 Harald schaut hin …
 
@@ -1869,47 +1864,47 @@ Zieht mich näher, flüstert:
 »Ich bin überrascht … Granveller kann noch gar
 nicht hier sein … Er hatte zur Rückfahrt hierher ein
 Dampferbillett gelöst … Der Dampfer braucht zwei volle
-
 Tage …«
+
 »Dann — ist’s der andere Granveller!«
+
 Harald geht auf die Gruppe zu …
 
 <@pagebreak/>
 Granveller spricht mit einer jungen Amerikanerin …
 
-Eis ist Edwards Stimme — ohne Zweifel …
+Es ist Edwards Stimme — ohne Zweifel …
 
 Die Yankee-Maid sagt lachend:
 
 »Mr. Rellan, das müssen Sie uns zeigen …« Und
 zu einem hageren älteren Herrn:
 
-»ja, Mr. Rellan wird uns in ein Haus führen, wo
+»Pa, Mr. Rellan wird uns in ein Haus führen, wo
 ein Fakir mit zwei Köpfen wohnt … na, ich muß den
 Mann knipsen …« Und sie schlägt leicht mit der Hand
-aus ihre Reisekamera …
+auf ihre Reisekamera …
 
-Mr. Rellan schreitet mit der se’ihen Maid voran …
+Mr. Rellan schreitet mit der feschen Maid voran …
 
 Bis mit einem Male ein verwahrloster Schmuckplatz
-ich öffnet … In der Mitte eine Ruine: der Buddhist
-
-Tempel …
+sich öffnet … In der Mitte eine Ruine: der Buddha-Tempel
+…
 
 Rellan schreitet mit der Miß die Stufen empor …
 
-Rellans! — Es ist Edward Granvellers Ebenbild —
+Rellan?! — Es ist Edward Granvellers Ebenbild —
 in allem! Und doch nicht Edward! Kann es nicht sein …!
 
 Die Touristen verschwinden in der Tempelhalle … zur
 Hälfte scheint sie noch erhalten zu sein …
 
-Wir bleiben Brausen und warten.
+Wir bleiben draußen und warten.
 
-Wir grimmen Deckung hinter Gebüsch …
+Wir nehmen Deckung hinter Gebüsch …
 
-ist einem Male Trick ein! Rellan im Tempeleingang,
-eilt die Treppe hinab, fremder sich nach rechts wo das
+Mit einem Male erscheint Rellan im Tempeleingang,
+eilt die Treppe hinab, wendet sich nach rechts wo das
 Gäßchen einmündet, aus dem auch wir den Platz vorhin
 betraten …
 
@@ -1920,29 +1915,29 @@ Augen …
 Und wir trotten hinterdrein, Zigarette im Munde,
 untergehakt — bummelnde Matrosen …
 
-Als wir die Stelle erreichen, Decken wir einen morschen
-Bretterzaun und dahinter ein weißgestrichenes Haus zu?
+Als wir die Stelle erreichen, sehen wir einen morschen
+Bretterzaun und dahinter ein weißgestrichenes Haus aus
 Schlammziegeln … Vor der Tür unter einem gestickten
-Sonnensegel mit Vambuestüten hockt ein uralten indischer
-So alte« mit einer Brille auf der Nase und »sinnend auf
+Sonnensegel mit Bambusstützen hockt ein uralter indischer
+Schuster mit einer Brille auf der Nase und hämmert auf
 einer Stiefelsohle taktmäßig herum … Neben ihm sitzt ein
-Mädchen und reicht ihm die Geistvollen zu … Ein Mädchen
+Mädchen und reicht ihm die Holzspeilen zu … Ein Mädchen
 <@pagebreak/>
 von schwindendem Jugendreiz, mit auffallend heller
 Haut … mit dunklen melancholischen Augen.
 
 Der Alte schaut auf … Und Harst beginnt im Hafenkauderwelsch
-ein Paar neue Sandalen zu Behandeln …
+ein Paar neue Sandalen zu erhandeln …
 
 Setzt sich auf einen Schemel … Probiert die Sandalen
 an und bezahlt nach langem Feilschen …
 
 Der Alte katzbuckelt dankend, und die beiden Matrosen
-entfernen sich, wenden sich wieder dem wüsten Pläne zu …
+entfernen sich, wenden sich wieder dem wüsten Platze zu …
 der Tempelruine …
 
 Ein Schwarm erregter Touristen quillt uns entgegen
--… Harald spricht den Fremdenführer an …
+… Harald spricht den Fremdenführer an …
 
 »Was sein geschehen?« fragt er in fürchterlichem
 Englisch …
@@ -1952,36 +1947,36 @@ einen weißen Sahib gesehen hätten, — — so und so aussehend
 …
 
 Zeigt auf eine heulende ältere Dame, die nur noch den
-LYederbügel eines Handtäschchens in den Fingern hält …
+Lederbügel eines Handtäschchens in den Fingern hält …
 
 »Ein Dieb … Abgeschnitten hat er die Tasche …
 Waren die Juwelen der Dame drin …«
 
 »Nichts gesehen,« erklärt der malaiische Matrose
-gleichgültig …-.-
+gleichgültig …
 
-Und der Ach warm zieht weiter …
+Und der Schwarm zieht weiter …
 
-Wir sieh en uns an …
+Wir sehen uns an …
 
-… »Scheußlich für Granveller!« sage im. »Ich kann’s
-nicht glauben, Harald, daß er mit diesem Rellan genitein-same
+»Scheußlich für Granveller!« sage ich. »Ich kann’s
+nicht glauben, Harald, daß er mit diesem Rellan gemeinsame
 Sache gemacht hat — — niemals werde ich das
 glauben!«
 
-Harst lächelt mitleidig … »Und die Höllenmaschinek!«
+Harst lächelt mitleidig … »Und die Höllenmaschine?!«
 meint er nur …
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 
-<h3>- -. Meint er nur und geht auf die Ruine zu …</h3>
+… Meint er nur und geht auf die Ruine zu …
 
 Oben am Eingang lehnt wieder der Buddhist und
 winkt.
 
-Harald Kauderwelsch mit dem Priester …
+Harald kauderwelscht mit dem Priester …
 
 »Fakir?!« Der Priester grinst … »Kein Fakir hier …
 Nur Buddhastatue mit zwei Köpfen … große Seltenheit.«
@@ -1991,10 +1986,10 @@ Er eilt uns voraus …
 In der Halle drinnen Halbdunkel … Im Hintergrunde
 hat das eingestürzte Dach eine neue Wand geschaffen.
 Links eine Art Altar, darauf eine scheußlich bemalte
-Holzstatue mit zwei Wien Schädeln …
+Holzstatue mit zwei dicken Schädeln …
 
-Rellan hat die Amerikaner also nur hier in das Halb-,
-dunkel gelockt, um Gelegenheit zu dem Diebstahl zu standen
+Rellan hat die Amerikaner also nur hier in das Halbdunkel
+gelockt, um Gelegenheit zu dem Diebstahl zu finden
 … —
 
 Der fromme Buddhist erzählt …
@@ -2005,14 +2000,14 @@ Von dem Sahib, der die Tasche abgeschnitten hat …
 Und er deutet die Richtung an, wo Granvellers Grundstück
 liegt … »Aber ich schweige … Der Sahib ist ein großer
 Herr … ein Beamter beim Gouverneur … Ich schweige
--… die Sahibs sind schlecht …«
+… die Sahibs sind schlecht …«
 
 Und sein Gesicht verrät den Rassenhaß und die stille
 Wut, daß er den Dieb schonen muß … —
 
-Die beiden Malaien der:;alten den verfallenen Tempel
-— … Schlendern weiter … In das Gäßchen hinein … Der
-uralte Schuster gibt noch unter dem Sonnensegel, neben
+Die beiden Malaien verlassen den verfallenen Tempel
+… Schlendern weiter … In das Gäßchen hinein … Der
+uralte Schuster sitzt noch unter dem Sonnensegel, neben
 ihm das verblühte Mädchen mit dem hellen Gesicht …
 
 <@pagebreak/>
@@ -2022,19 +2017,19 @@ hat mich wieder untergefaßt …
 Auf Umwegen zum Hafen … zur »Lady Hamilton« …
 Harst paßt scharf auf, ob uns jemand folgt … Die Hitze
 ist unerträglich … Und um zwei Uhr nachmittags sind wir
-daheim in der Kajüte des Kutters, Seen uns an den gedeckten
-Tisch, und O’Kelling fragt … fragt :…
+daheim in der Kajüte des Kutters, setzen uns an den gedeckten
+Tisch, und O’Kelling fragt … fragt …
 
-Harald ist …
+Harald ißt …
 
 Ich muß erzählen …
 
-» abends wird’s in der. Zeitung stechen …« meint
+»Abends wird’s in der Zeitung stehen …« meint
 Freund Käpten … »Wir kaufen eine Nummer … Tolle
 Geschichte!! — Bester Harst, dieser Rellan scheint doch bei
 dem alten Schuster seinen Schlupfwinkel zu haben …«
 
-»Scheint,« nicht Harald …
+»Scheint,« nickt Harald …
 
 Nachher legt er sich in die Hängematte und schläft bis
 sieben Uhr … Bis der Matrose Paratu mit der Madras-Post
@@ -2042,32 +2037,32 @@ erscheint.
 
 In dem Blatt finden wir folgendes:
 
-Abermaliges Auftauchen des Doppelgängers
-Sir Edw. G’s.
+<p class="centered">Abermaliges Auftauchen des Doppelgängers
+Sir Edw. G’s.</p>
 
-Heute vormittag hat sich der bereits durch einen Ju-wvelendiebstahl
-berüchtigt gewordene und noch immer auf
+> Heute vormittag hat sich der bereits durch einen
+Juwelendiebstahl berüchtigt gewordene und noch immer auf
 freiem Fuße befindliche Doppelgänger des Sir Edward
 G. abermals in unserer Stadt gezeigt, nachdem er vorübergehend,
 wie wir schon berichteten, in Pudukattai
 ein Gastspiel gegeben hatte. Dieser Unbekannte verstand
-es heute, sich einer Gruppe amerikanischer Tau:-
-Kisten anzuschließen und einer der Damen in der Ruine
-des Buddha-Tempels auf dem Gegönnt-Platz das Hand:
-Täschchen kunstgerecht »abzuspeisen«, in dem sich Schmuckkästchen
+es heute, sich einer Gruppe amerikanischer Touristen
+anzuschließen und einer der Damen in der Ruine
+des Buddha-Tempels auf dem Gondari-Platz das Handtäschchen
+kunstgerecht »abzukneifen«, in dem sich Schmucksachen
 im Werte von 50&nbsp;000 Dollar befanden.
 
-Es wird nun endlich Zeit, daß unsere Polizei sich
+> Es wird nun endlich Zeit, daß unsere Polizei sich
 dieses Mannes denn doch mit etwas mehr Energie als
-lieber Mitnimmt. Für Sir Edward G., der sich zurzeit
+bisher annimmt. Für Sir Edward G., der sich zurzeit
 <@pagebreak/>
-noch auf Urlaub bei seinen Eltern in Pidukattai aufhält,
+noch auf Urlaub bei seinen Eltern in Pudukattai aufhält,
 hätte dieser neue Diebstahl vielleicht abermals zu
 Weiterungen geführt. Oder will unsere Polizei etwa
 warten, bis der deutsche Privatdetektiv Harst eingreift
 und unsere Stadt von einem Schädling befreit, der sich
 für gewöhnlich in einer Verkleidung bewegen dürfte
-und doch genug Frechheit Besitz, seine Ähnlichkeit mit
+und doch genug Frechheit besitzt, seine Ähnlichkeit mit
 Sir G. am hellen Tage in den Straßen spazieren zu
 führen. Übrigens hat dieser Gauner sich heute Mr.
 Rellan genannt.
@@ -2076,26 +2071,26 @@ Harald hatte vorgelesen …
 
 Meinte nun: »Etwas dürftig, der Artikel … Der
 Reporter der Madras-Post scheint von der Bestohlenen
-einen goldenen Hand. Druck empfangen zu haben, damit er
-ihren Namen verschweige … Ja könnte diesen Artikel
+einen goldenen Händedruck empfangen zu haben, damit er
+ihren Namen verschweige … Ich könnte diesen Artikel
 jedenfalls ergänzen, zum Beispiel durch die Angabe, daß
-Mr. Rellan mit einem alten indisch enthalten und mit
-einem Rodia-Y/solchen von der Insel Ceylon sehr eng verbündet
+Mr. Rellan mit einem alten indischen Schuster und mit
+einem Rodia-Mädchen von der Insel Ceylon sehr eng verbündet
 ist und daß dieses verblühte Rodia-Mädchen wahrscheinlich
-die Liceserantin der Kindermumie ist die zu dem
-einsamen Geschenk für Miß Jane benutzt wurde …«
+die Lieferantin der Kindermumie ist, die zu dem
+infamen Geschenk für Miß Jane benutzt wurde …«
 
 O’Kelling und ich riefen gleichzeitig:
 
-»vier — — eine Rodia?!«
+»Wie — — eine Rodia?!«
 
 »Ja …« Und ein Blick traf mich, der Bände sprach.
-». 35 denke, mein Alter, du Bast Frau Elizabeth Bolling genügend
-lange aus nächster Nähe gesehen …!«
+»Ich denke, mein Alter, du hast Frau Elizabeth Bolling
+genügend lange aus nächster Nähe gesehen …!«
 
 Ich — — mit voller Überlegung:
 
-»las Mädchen neben dem alten Fenster ist … eine
+»Das Mädchen neben dem alten Schuster ist … eine
 Schwester Frau Bollings!«
 
 Harald nickte und fuhr dann fort:
@@ -2107,22 +2102,22 @@ noch einen Schritt weiter kommen, wenn wir das Häuschen
 des alten Inders beobachten …«
 
 <@pagebreak/>
-»Ich … will mit!« rief unser Käpten da … »Bart,
+»Ich … will mit!« rief unser Käpten da … »Harst,
 Sie dürfen mir diese Bitte nicht abschlagen — — auf keinen
-Fall! Sie kennen mich ja … Ich bin zwar ein aller steifbeiniger
+Fall! Sie kennen mich ja … Ich bin zwar ein alter steifbeiniger
 Kerl, aber in Punkto Geriebenheit nehme ich es
 mit dem größten Japanergauner auf — und das will
 etwas heißen!!« —
 
 »Gut — einverstanden!« nickte Harst. »Um zehn Uhr
-brechen wir auf …« — — …
+brechen wir auf …« — —
 
 Viertel elf Uhr …
 
-Freund L’Kelling hat sich für unsere »Nachtarbeit«
+Freund O’Kelling hat sich für unsere »Nachtarbeit«
 ebenfalls in einen Malaien verwandeln lassen.
 
-Wir hatten die kleine Gasse 1:und den Bretterzaun mit
+Wir hatten die kleine Gasse und den Bretterzaun mit
 der offenen Pforte erreicht … Still und dunkel lag das
 weiße Häuschen des Schusters da.
 
@@ -2133,7 +2128,7 @@ Schatten der Büsche …
 
 Standen hier und beobachteten …
 
-In der Seitenwand des läuft eng zwei Fensterchen …
+In der Seitenwand des Häuschens zwei Fensterchen …
 Beide dicht verhängt … Nur an einer Stelle ein schmaler
 Lichtstreifen …
 
@@ -2154,22 +2149,22 @@ schlug eine Uhr …
 
 Elf … Erst elf Uhr …
 
-Der Käpten Flackerte wieder … Anstalt hatte sich
+Der Käpten gluckerte wieder … Harald hatte sich
 lang in das dürre Gras gelegt und kroch auf das Haus zu.
 
-O’Kelling brummte: »Schraut, wir worden dasselbe
-tun … Hier sieht man sich ja die Beine in den Leib …!«
+O’Kelling brummte: »Schraut, wir wollen dasselbe
+tun … Hier steht man sich ja die Beine in den Leib …!«
 
 <@pagebreak/>
-Ich hielt ihn erst … »Käpten, Harst kann verdammt
+Ich hielt ihn fest … »Käpten, Harst kann verdammt
 ungemütlich werden … Er wird schon winken …«
 
 Der Käpten knurrte etwas … Er schien von dem
 bisherigen Verlauf der Nacht nicht sonderlich entzückt zu
 sein …
 
-Ich beobachtete Harald, aber dann merkte ich plötzlich«,
-daß O’Kelling verschwunden war. Er hatte sich so laute
+Ich beobachtete Harald, aber dann merkte ich plötzlich,
+daß O’Kelling verschwunden war. Er hatte sich so lautlos
 entfernt, daß ich nichts gehört hatte.
 
 Ich überlegte … Der Käpten konnte nur nach links
@@ -2180,7 +2175,7 @@ Ich kroch am Rande der Büsche hin … Gab genau
 acht, ob das Gestrüpp irgendwo einen Durchschlupf gewährte
 …
 
-So kam ich sehr bald an die Vater, die das Grundstück
+So kam ich sehr bald an die Mauer, die das Grundstück
 hinten begrenzte, denn dieses war nur klein und schmal …
 
 Kein O’Kelling …! Nirgends!
@@ -2189,41 +2184,42 @@ Und — jetzt winkte Harald, winkte sehr energisch …
 
 Eine böse Geschluckte …! Harst war schon aufmerksam
 geworden, weil ich meinen ursprünglichen Platz verlassen
-Watte. Mit etwas gemischten Gefühlen eilte ich zu ihm
-in …
-»Und O’Kelling 2?!« fragte er flüsternd. Es war keine
-Frage, denn er fügte sofort hinzu: »Natürlich aus eigene
+hatte. Mit etwas gemischten Gefühlen eilte ich zu ihm
+hin …
+
+»Und O’Kelling?!« fragte er flüsternd. Es war keine
+Frage, denn er fügte sofort hinzu: »Natürlich auf eigene
 Faust auf Abenteuer ausgegangen, der Alte!! Das kommt
-davon, wenn man arwrtmütig ist und die Leute mitnimmt,
+davon, wenn man gutmütig ist und die Leute mitnimmt,
 die unsere Arbeit als besseren Sport betrachten! — Schau’
-mal hier in das trugen hinein … Wie gefüllt dir da?
+mal hier in das Stübchen hinein … Wie gefällt dir das
 Bild?!«
 
-Der Feustervorhaing ließ eine Spalte von zwei Finger
+Der Fenstervorhang ließ eine Spalte von zwei Finger
 Breite frei …
 
-Ich sah einen Teil eines ärmlich eingerichteten Klub«-
-jene, sah ein Kletterei Hof:Bett, auf dem der alte Schulter
-schlief — in Kleidern!, wie dies bei dem ärmeren Teile der
+Ich sah einen Teil eines ärmlich eingerichteten Stübchens,
+sah ein niederes Holzbett, auf dem der alte Schuster
+schlief — in Kleidern, wie dies bei dem ärmeren Teile der
 Bevölkerung üblich ist …
 
-Rechts, ihn mich mnsich’bar, mußte eine Schlange brennen
+Rechts, für mich unsichtbar, mußte eine Öllampe brennen
 <@pagebreak/>
 … Der trübe Lichtschein beleuchtete nur ganz matt
-das hastige Gesicht des Inders.
+das faltige Gesicht des Inders.
 
-» Weiter konnte ich nichts bemerken, was sitzen?wie Beachtung
+Weiter konnte ich nichts bemerken, was irgendwie Beachtung
 verdient hätte …
 
 Ich wollte mich schon mit der Frage an Harald wenden,
-was ihm in dem Stübchen aufgefallen ich, als von
+was ihm in dem Stübchen aufgefallen sei, als von
 rechts her ein Schatten über den Schläfer da drinnen fiel …
 
 Ein so unverkennbarer Schatten, daß ich vor Schreck
 zusammenzuckte …
 
-Denn sollte O-Beine wie dieser Schatten besaß nur
-Käpten Altan O’Kelling!!
+Denn solche O-Beine wie dieser Schatten besaß nur
+Käpten Allan O’Kelling!!
 
 Jetzt erschien er auch selbst in meinem Sehfelde …
 
@@ -2231,8 +2227,8 @@ Zusammengeduckt wie ein sprungbereiter Tiger, in der
 Linken einen Revolver, in der Rechten einen Dolch, — so
 schlich er auf das Lager des Schuhmachers zu …
 
-Leider d« nahe Harald mich jetzt beiseite und lugte in
-das Stübchen Tigern …
+Leider drängte Harald mich jetzt beiseite und lugte in
+das Stübchen hinein …
 
 »Verrückt!!« murmelte er …
 
@@ -2242,7 +2238,7 @@ jähen Staunens annahm …
 Er brachte das Auge noch näher an das Fenster heran
 und schüttelte wiederholt den Kopf, dann drehte er sich um.
 
-» »Folge mir!«
+»Folge mir!«
 
 Und lief um das Häuschen herum zur Hintertür …
 
@@ -2250,15 +2246,15 @@ Wir hinein in eine winzige Küche … Eine Tür neben
 dem Herde führte in eine Stube, in der nur ein sogenannter
 Ölschwimmer mit kleinem Flämmchen brannte … Auch
 hier ein Bett … Auf dem Bett das junge verblühte Weib,
-das Rodia- Mädchen … Aber … gefesselt — mit einem
-Knebel im Munde x.
+das Rodia-Mädchen … Aber … gefesselt — mit einem
+Knebel im Munde …
 
-Weiter — ins Nebengemach — — durch eine Türöffnung,
+Weiter — ins Nebengemach — durch eine Türöffnung,
 vor der ein Teppich als Vorhang hing …
 
 Jetzt sahen wir O’Kelling …
 
-Und unter Käpten stand dort nahe immer vor dem
+Und unser Käpten stand dort noch immer vor dem
 Lager des alten Inders und … hatte die Whiskyflasche in
 der Hand …
 
@@ -2266,7 +2262,7 @@ der Hand …
 Harald war neben ihm … Der Käpten fuhr herum …
 grinste wohlgefällig …
 
-»Na, habe ich’s nicht sein gemacht, besser Harst?! Sie
+»Na, habe ich’s nicht fein gemacht, bester Harst?! Sie
 beide hätten noch Stunden gewartet, ehe Sie vielleicht festgestellt
 hätten, daß dieser Kerl da gar sein Kerl ist, sondern
 Nur eine … Wachspuppe …!!«
@@ -2279,21 +2275,23 @@ Ich näherte mich dem Lager … Bückte mich … Es
 stimmte: es war nur ein Wachskopf, freilich ein tadelloses
 Ebenbild des Schusters …!
 
-»Verdorben?k! einwickeln?!« fragte unser Käpten gereizt.
+»Verdorben?! Inwiefern?!« fragte unser Käpten gereizt.
 »Gestatten Sie mal, Harst, — das lasse ich nicht auf
 mir sitzen!! Nichts habe ich verdorben …! Denn was Sie
 und Schraut nicht gesehen haben, als wir noch im Schatten
 der Büsche lauerten, das bemerkte ich — ich: ein Mann
-sichtlich zur Mauer an der Hinterseite des Grundstücks und
-war: im Nu ver’hwunden … Und der Mann war ein
+schlich zur Mauer an der Hinterseite des Grundstücks und
+war im Nu verschwunden … Und der Mann war ein
 Europäer in einem dunklen Anzug … Da sagte ich mir:
 das ist der Mr. Rellan gewesen! Nun kann man das Weib
-und den Schulter ins Verhör nehmen …! Und deshalb
+und den Schuster ins Verhör nehmen …! Und deshalb
 ließ ich Schraut allein, fand die Hintertür nur eingeklinkt
 und habe das Weib stumm gemacht, wollte auch dem
-Schulter beweisen, daß mit Altan O’Kelling nicht zu spaßen
+Schulter beweisen, daß mit Allan O’Kelling nicht zu spaßen
+ist …«
 
 Er blickte uns triumphierend an …
+
 »Sie sind ein Narr!!« rief Harald noch wütender …
 »Nun kann ich zusehen, wie ich Ihre Fehler wieder ausgleiche!!«
 
@@ -2301,17 +2299,17 @@ Er blickte uns triumphierend an …
 
 <h2>3. Kapitel.</h2>
 
-<h3>Unser armer Käpten durfte sich scheu zusammen …</h3>
+Unser armer Käpten duckte sich scheu zusammen …
 
 Harst wandte sich an mich …
 
-»Wir müssen« das Weib mitnehmen … Nur so können
+»Wir müssen das Weib mitnehmen … Nur so können
 wir Rellan in Sicherheit wiegen … — Vorwärts … Draußen
 hinter dem Hause steht ein zweiräderiger Karren …
 Wir dürfen nicht lange zögern … Irgendwo wird sich
 eine Decke hier finden lasen und etwas Stroh … Los
 denn … Du legst dich mit in den Wagenkasten, mein Alter,
-und hältst das Weib fest, damit es sich nicht etwa ausrichtet
+und hältst das Weib fest, damit es sich nicht etwa aufrichtet
 …«
 
 Und wie Harst es vorschlug, so geschah’s …
@@ -2319,33 +2317,33 @@ Und wie Harst es vorschlug, so geschah’s …
 Endlich hatten wir sie in eine Vorschiffkammer eingesperrt.
 Der Malaie Paratu mußte bei ihr wachen … Harst
 und ich brachten den Karren zurück. Als wir des Schusters
-Grundstü wieder erreichten, war es halb zwei Uhr morgens
+Grundstück wieder erreichten, war es halb zwei Uhr morgens
 …
 
 Ich fürchtete, daß Mr. Rellan inzwischen zurückgekehrt
 sein könnte … Aber als ich dies Harald gegenüber äußerte,
-tauchte der mich grimmig an …
+fauchte der mich grimmig an …
 
-»Bist du dein noch Zimmer nicht im Bilde?!?
+»Bist du denn noch immer nicht im Bilde?!«
 
 Das war alles …
 
-Nun stank der Karren wieder am alten Platz …-.« Nun
+Nun stand der Karren wieder am alten Platz … Nun
 wandte Harst sich der Hintertür zu. Wir traten ein …
 
 Ich still und gedrückt und ahnungslos …
 
-Harst voller Beweglichkeit …«
+Harst voller Beweglichkeit …
 
 Er begann die Räume zu durchsuchen … Ließ sich
 <@pagebreak/>
-Bei! … Beklopfte die Wände … Beleuchtete den Lehmfußboden
+Zeit … Beklopfte die Wände … Beleuchtete den Lehmfußboden
 …
 
 Nach einer halben Stunde hatte er dann gefunden,
-wo er suchte: Das Bett, auf dem die Wachsfigur des
+was er suchte: Das Bett, auf dem die Wachsfigur des
 alten Schusters lag, bestand aus einem flachen Kasten. In
-diesem Kasten lagen zwei Anzüge aus Leinenstoff, seiner
+diesem Kasten lagen zwei Anzüge aus Leinenstoff, ferner
 tadellose Herrenwäsche, Krawatten, zwei Paar braune
 Halbschuhe, ein Strohhut, ein Kästchen mit Schminken, ein
 Karton mit Perücken und falschen Bärten und — — die
@@ -2362,7 +2360,7 @@ Hierauf nahm er von dem Arbeitstische des Schusters
 ein Stück Kreide und malte über dem Bette des Weibes
 vier merkwürdige Zeichen an die Wand, — primitive Zeichnungen,
 genauer ausgedrückt: ein Kind, einen fliegenden
-Gokelhohn, eine Hand mit aus gespreizten Fingern und
+Gockelhahn, eine Hand mit ausgespreizten Fingern und
 einen kriechenden Affen, — all das so recht ungeschickt, wie
 von einem des Zeichnens Unkundigen.
 
@@ -2372,8 +2370,8 @@ Ich stand dabei und leuchtete ihm mit der Taschenlampe
 Stand dabei und zermarterte mir mein Hirn, was dies
 nun wieder sollte …
 
-»Geben wir!« meinte er dann. »O’Kellings Dummheiten
-sind nun verschmäht, und eigentlich sind sie auch gar
+»Gehen wir!« meinte er dann. »O’Kellings Dummheiten
+sind nun wettgemacht, und eigentlich sind sie auch gar
 nicht allzu schlimm gewesen …«
 
 Wir verließen das Häuschen, wanderten durch stille
@@ -2384,7 +2382,7 @@ Harald?!«
 
 Er war mit einem Male wieder besserer Laune …
 
-»Verlag soll glauben, daß die Rodias ihre Stammesgenossin
+»Rellan soll glauben, daß die Rodias ihre Stammesgenossin
 <@pagebreak/>
 zurückgeholt haben, mein Alter … — Wenn wir
 das Weib in der Hütte gelassen hätten, würde sie uns an
@@ -2393,18 +2391,18 @@ ihm her sind … Jetzt wird er die Zeichen sich derart deuten,
 daß eben Rodias das Mädchen mitnahmen … Besinne
 dich, daß auf den Seitenwänden der Geisterhütten
 in der Nähe des Dorfes Gannawa ähnliche Zeichen zu
-sehen waren außer den dort angenagelten Tieren … Dicke
+sehen waren außer den dort angenagelten Tieren … Diese
 meine Zeichnungen sollen bedeuten: »Des Kindes wegen
 haben wir das Mädchen entführt.« Ich werde dir das
 später genauer erklären …«
+
 »Und — wo steckte der alte Inder?« fragte ich weiter …
 
 »Der wird Rellan begleitet haben … — So, da ist der
-Kutter …
+Kutter …«
 
 O’Kelling hatte vor der Tür seiner Kajüte gestanden
 und inzwischen seine Maske abgelegt … Er war glücklich,
-
 als Harst ihm nun derb die Hand schüttelte und hinzufügte:
 »Ihr Streich hat sich zum Guten gewendet, Käpten
 …! Meine Anerkennung! Sie haben Ihre Sache doch
@@ -2418,7 +2416,7 @@ Harald und ich betraten dann die Vorschiffkammer und
 schickten Paratu hinaus.
 
 Die Rodia kauerte in einer Ecke … Die Hände waren
-ihr noch auf den Rüden gefesselt, und den Knebel hatte
+ihr noch auf den Rücken gefesselt, und den Knebel hatte
 man ihr mit einer Schnur festgebunden.
 
 Harst setzte sich dem Weibe gegenüber auf eine Kiste
@@ -2431,8 +2429,8 @@ Das Weib schüttelte den Kopf …
 »Du lügst,« meinte Harald gleichmütig. »Du bist eine
 Schwester Frau Bollings aus Kolombo …«
 
-Das wirkte … Die Rodia machte eine Bewegqung, als
-oh sie Harst am liebsten an den Hals geflogen wäre …
+Das wirkte … Die Rodia machte eine Bewegung, als
+ob sie Harst am liebsten an den Hals geflogen wäre …
 
 <@pagebreak/>
 »Dein Vater ist der Dorfälteste von Gannawa … Dein
@@ -2441,11 +2439,11 @@ Was ist aus dem Kinde geworden?«
 
 Die Rodia ließ den Kopf auf die Brust sinken …
 
-»Sache werde dir den Knebel herausnehmen,« fuhr Harald
+»Ich werde dir den Knebel herausnehmen,« fuhr Harald
 fort … »Wenn du dann etwa zu schreien beginnst,
 werde ich Mr. Rellan verhaften lassen …«
 
-Er entfernte den Knebel … Die Rodia blieb Stil …
+Er entfernte den Knebel … Die Rodia blieb still …
 
 »Falls du jetzt nicht antwortest, wird Rellan eingesperrt
 werden — und auch du! — Stahl dein Vater das
@@ -2461,7 +2459,7 @@ fließendem Englisch: »Ich weiß es nicht …«
 »So?! Ist nicht Mr. Rellan dieses damals geraubte
 Kind?«
 
-»IT4h4 weiß es nicht …«
+»Ich weiß es nicht …«
 
 Harst erhob sich … »Das genügt mir … — Verhalte
 dich hier still, und ich werde dich schonen …«
@@ -2469,41 +2467,43 @@ dich hier still, und ich werde dich schonen …«
 Wir traten in den Schiffsgang hinaus, wo Paratu
 wartete …
 
-»Du bleibst hier vor der Tür,« befahl Harald hemmungslosen.
-»Nimm der Frau die Fesseln ab und gib ihr,
+»Du bleibst hier vor der Tür,« befahl Harald dem
+Matrosen. »Nimm der Frau die Fesseln ab und gib ihr,
 was sie braucht …«
 
 Als wir in O’Kellings Kajüte waren, fragte der Käpten
-gespannt? »Nun, wie sieht’s mit dem Weibe, lieber
-Harst«?«
+gespannt: »Nun, wie steht’s mit dem Weibe, lieber
+Harst?«
 
 »Sie ist vernünftig geworden, und was ich bestätigt
-haben wollte, hat sie mir bestätigt. Zelt gehen wir
+haben wollte, hat sie mir bestätigt. Jetzt gehen wir
 schlafen …« —
 
 Um elf Uhr vormittags standen wir am Bollwerk des
 Haupthafens — noch immer in unserer unauffälligen Verkleidung.
 
-Der Tourendanwpfer von Pudukattai machte am Kali
+Der Tourendampfer von Pudukattai machte am Kai
 fest …
 
 <@pagebreak/>
 Unter den Fahrgästen sahen wir auch Edward Granveller,
 der dann mit seinen Koffern in einem Auto nach
 seinem Heim fuhr.
-Kopf »sehr sein!« meinte Harst lächelnd. »Er ist kein Summe
 
-An einem nahen Steuerhäuschen waren die Fahrpläne
+»sehr fein!« meinte Harst lächelnd. »Er ist kein Dummkopf
+…«
+
+An einem nahen Bretterhäuschen waren die Fahrpläne
 der verschiedenen Dampferlinien angeschlagen.
 
-Harald zeigte mit dem Finger aus den einen Fahrplan
-und auf einen Namen: Indra! …
+Harald zeigte mit dem Finger auf den einen Fahrplan
+und auf einen Namen: Sadra!
 
 »Merke dir den Namen, mein Alter … — Und jetzt
-wollen wir Granvellers Freund, den Lord Garnison, besuchen
+wollen wir Granvellers Freund, den Lord Salargan, besuchen
 … Du besinnst dich … Es ist dies der Lord, der
-Edwards Alibi. nachweisen konnte, bei dem Edward sich
-»Insel hatte, als sein zweites Ich den Juwelier befahl
+Edwards Alibi nachweisen konnte, bei dem Edward sich
+aufgehalten hatte, als sein zweites Ich den Juwelier bestahl
 …«
 
 Der Lord war daheim, wohnte in einer Fremdenpension
@@ -2512,7 +2512,7 @@ malaiischen Matrosen nicht vorlassen.
 
 Schließlich kam er selbst in die Vorhalle …
 
-Er war ein jüngerer Mann mit schlossen Zügen, hochmütig
+Er war ein jüngerer Mann mit schlaffen Zügen, hochmütig
 und ablehnend, voller Verachtung für jeden Farbigen.
 
 Erst als Harald ihm zuraunte, wer wir in Wahrheit
@@ -2520,35 +2520,34 @@ seien, wurde er zugänglicher …
 
 In seinem Wohnsalon fragte er dann mißtrauisch:
 
-»Was wünschen Sie, Herr Harst …? Geflissentlich halten
+»Was wünschen Sie, Herr Harst …? Hoffentlich halten
 Sie mich nicht zu lange auf … Ich muß sofort in den
-Dienst …« (Er war wie Granveller Beamter beim Gou-vernen’ent.)
+Dienst …« (Er war wie Granveller Beamter beim Gouvernement.)
 
-»Mahlend,« erklärte Harald leise, »es handelt sich um
+»Mylord,« erklärte Harald leise, »es handelt sich um
 Ihren Freund Granveller … Wir sind nach Madras gekommen,
 um hier Granvellers Doppelgänger zu ermitteln.
-Ich.«’tte Sie jedoch, mir fest zu sprechen Granveller
-gegetrüvber diesen Besuch bei Ihnen h1 versa Zweigen …
+Ich bitte Sie jedoch, mir fest zu sprechen Granveller
+gegenüber diesen Besuch bei Ihnen zu verschweigen …«
 
-»Wie Sie wünschen, Herr Harst …
+»Wie Sie wünschen, Herr Harst …«
 
-»Gestatten Sie jetzt eine etwas indiskrete Fratze …-.
-
+»Gestatten Sie jetzt eine etwas indiskrete Frage …
 <@pagebreak/>
-eins Sie einmal mit Hypnose behandelt worden, Mylord?«
+Sind Sie einmal mit Hypnose behandelt worden, Mylord?«
 
 »Ja … Ich litt an Zwangsvorstellungen …«
 
 »Danke … Mehr wollte ich nicht wissen … — Ich
 habe also Ihr Wort, daß Sie schweigen werden …«
 
-»In … — Aber … aber … dürfte ich nicht erfahren,
+»Ja … — Aber … aber … dürfte ich nicht erfahren,
 weshalb Sie …«
 
-»Später, Astloch … — Dieser Salon hat, wie ich
+»Später, Mylord … — Dieser Salon hat, wie ich
 sehe, einen direkten Ausgang nach dem Garten hin … Auch
 das interessiert mich … — Wir wollen jetzt nicht länger
-stören, Mylord … Verbindliwsten Dank …«
+stören, Mylord … Verbindlichsten Dank …«
 
 Und die beiden Matrosen verließen den Wohnsalon
 und das Haus Über die Gartentreppe und den Nebenausgang.
@@ -2557,9 +2556,9 @@ als wir Die Straße hinab schritten, meinte Harald:
 »Also auch das stimmte! Es mußte ja auch so sein …!«
 
 »Was?!«
-»Nun — — der Ort, mein Alter! Nun haben wir
-den Fuchs im Eisen … Nun warten wir die Nacht ab …
 
+»Nun — — der Trick, mein Alter! Nun haben wir
+den Fuchs im Eisen … Nun warten wir die Nacht ab …
 Vorher können wir in dem Gäßchen, wo der alte Schuster
 wohnt, noch einige Erkundigungen einziehen …«
 
@@ -2567,8 +2566,8 @@ wohnt, noch einige Erkundigungen einziehen …«
 
 <h2>3. Kapitel.</h2>
 
-<h3>Als wir daß Gäßchen durchschritten und an dem Brett-.</h3>
-Bretterzaun des alten Schuhmachers vorüberkamen, war der
+Als wir daß Gäßchen durchschritten und an dem Bretterzaun
+des alten Schuhmachers vorüberkamen, war der
 Platz unter dem Sonnensegel leer. — Gegenüber seinem
 Häuschen wohnte ein ebenso alter Chinese, der mit Merkmalen
 handelte:
