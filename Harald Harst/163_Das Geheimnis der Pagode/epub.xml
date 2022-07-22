@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">ceb621b0-7d62-429a-a877-e8807fa47617</entry>
+<entry key="title">Das Geheimnis der Pagode</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">163</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Geheimnis der Pagode.
+
+»Verzeihung, Herr Schraut, — — ich hätte was für Sie und Herrn Harst,« flüsterte er.
+
+»Hoffentlich ein Maulwurfsvertilgungsmittel!« meinte ich brummig.
+
+Natürlich begriff der Jüngling nicht, weshalb ich plötzlich von Maulwürfen redete, machte ein verlegenes Gesicht, grinste und stotterte:
+
+»Verzeihung, Herr Schraut, — — es handelt sich um einen Mord … Ein Maulwurfshaufen war allerdings auch dicht dabei …«
+
+Baron Söderlunds Liebe.
+
+Durch das Erbbegräbnis ging’s zu einer schmalen Treppe … Empor in die Pagode … Deren unterste Halle war wie ein Museum. Hier hatte der »verrückte Baron« seine Reiseandenken aufgestapelt — mit Geschmack und Geschick, das mußte man ihm lassen …
+
+Im Hintergrunde der Halle eine Holztreppe, die in das erste Stockwerk hinaufführte … Hier eine andere Raumverteilung, nur kleine Gemächer, die sich um eine achteckige Diele gruppierten …
+
+Und wieder eine Treppe zum zweiten Stock … Hier nur noch vier winzige Puppenstübchen … Hier stieß Lylian Botton eine der Türen auf …
+
+»Bitte, meine Herren, — — mein Kerker …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (163) Das Geheimnis der Pagode.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

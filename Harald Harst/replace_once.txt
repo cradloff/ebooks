@@ -11,6 +11,7 @@
 \bBieter\b	Meter
 \bden!	dem
 \b(\d+)[l1i]en\b	$1ten
+\bdürsten\b	dürften
 \bElement\b	Clement
 ^ben	den
 ^ber	der
@@ -32,6 +33,8 @@
 \bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
+\bMrs,	Mrs.
+\bMrs\s	Mrs. 
 \bnich!\b	nicht
 \bnicke\b	nickte
 \bober\b	oder
@@ -39,6 +42,7 @@
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bsic\b	sie
+\bSiek\b	Sie?
 \bTeich!\b	leicht
 \bTer\b	Der
 \btieſ	tief
