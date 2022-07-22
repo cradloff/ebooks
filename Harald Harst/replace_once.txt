@@ -41,6 +41,7 @@
 \bSähe\b	Sätze
 \bSaß\b	Satz
 \bSeht\b	Jetzt
+\bsic\b	sie
 \bSiek\b	Sie?
 \bTeich!\b	leicht
 \bTer\b	Der
