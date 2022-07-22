@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">4fd998a0-026a-4f7c-a010-f495f0eb84db</entry>
+<entry key="title">Das Geheimnis des Inselforts</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">167</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Geheimnis des Inselforts.
+
+»Mr. Harst,« sagte Betsy Grandell eines Abends, als wir auf der Veranda des weißen Bungalows saßen, »wir sollten doch einmal die Insel gründlich durchsuchen … Vielleicht finden wir dort doch etwas Interessantes …«
+
+Ihr Bruder John drohte ihr lächelnd mit dem Zeigefinger, bevor Harald noch etwas antworten konnte …
+
+»Betsy, Betsy …« meinte Dr. Grandell, »du scheinst noch immer an das gut erfundene Märchen deines indischen Verehrers zu denken — an das Märchen von den verborgenen Reichtümern, die er dir verschaffen wollte …!«
+
+Der Berg der Erkenntnis.
+
+Betsy Grandell nahm meine Hand …
+
+»Mr. Schraut, sagen Sie mir die Wahrheit … Ich sah Harst und Blooß den Fluß eilends hinabfahren … Ich konnte ihnen gerade noch mit meinem Boote ausweichen … — Was ist hier geschehen?«
+
+Das war eine böse Zwickmühle für mich …!
+
+Betsy direkt belügen, — das wollte mir nicht recht behagen …
+
+Zum Glück kam sie mir selbst zu Hilfe …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (167) Das Geheimnis des Inselforts.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1925</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

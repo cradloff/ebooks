@@ -22,12 +22,12 @@ Verwendung:
 </#macro>
 
 <#macro naechsterband band>
-<p>Nächster Band:</p>
+<p style="margin-top: 2em; margin-bottom: 1em;">Nächster Band:</p>
 
-<p class="centered">${band}</p>
+<p class="centered strong">${band}</p>
 </#macro>
 
 <#macro druck>
-Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
+<p class="centered" style="margin-top: 3em;">Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.</p>
 </#macro>
 
