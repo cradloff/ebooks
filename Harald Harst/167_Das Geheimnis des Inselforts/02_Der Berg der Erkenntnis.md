@@ -1,3 +1,5 @@
+<#import "*/harst.ftl" as harst>
+
 <h1>Der Berg der Erkenntnis.</h1>
 
 <h2>1. Kapitel.</h2>
@@ -527,7 +529,7 @@ und weil ihr in demselben Moment zum Bewußtsein
 kam, daß Reginald es gewesen, der ihr dort auf dem
 Berge begegnet war und der vielleicht für sie sehr energisch
 eintrat, sie vielleicht schützte und dabei ins Handgemenge
-mit Leuten kam, denen er gehörig eins auswische, — daher
+mit Leuten kam, denen er gehörig eins auswischte, — daher
 die Blutspritzer …«
 
 John Grandell fuhr sich mit der Hand über die schweißfeuchte
@@ -550,7 +552,7 @@ nichts!« —
 <h2>3. Kapitel.</h2>
 
 Gegen elf Uhr vormittags stahlen wir uns vorsichtig
-aus dem Hause. Ich trug den prall gefüllten Ruck.
+aus dem Hause. Ich trug den prall gefüllten Rucksack.
 Betsy war noch unsichtbar.
 
 Unten am Bootssteg nahmen wir einen einfachen
@@ -571,7 +573,7 @@ Legten sehr bald in dieser Wasserwildnis an einer
 trockenen Stelle an und … kostümierten uns … Denn als
 Europäer durften wir uns dem Berge nicht nähern … Nur
 als schlichte ärmliche Inder durften wir hoffen, von den
-Brahminen des Bergtempels nichts beachtet zu werden …
+Brahminen des Bergtempels nicht beachtet zu werden …
 
 Mit größter Sorgfalt färbten wir uns die Gesichter,
 Hals, Nacken und Arme. Viel Farbe war nicht nötig, denn
@@ -880,7 +882,7 @@ Jetzt preßte Harald nochmals die Spitze der Messerklinge
 auf die verborgene Feder …
 
 Und — siehe da, — die Kette glitt tiefer hinab, machte
-ins Griffweite halt und — begann sich wieder nach oben
+in Griffweite halt und — begann sich wieder nach oben
 zu bewegen …
 
 Harst sprang zu …
@@ -959,7 +961,7 @@ zusammengeknotet.
 
 Der Elende glotzte uns aus weiten starren Augen
 derart entsetzt an, daß wir, so wenig Mitleid er auch verdiente,
-unwillkürlich näher herantraten, weit seine röchelnden
+unwillkürlich näher herantraten, weil seine röchelnden
 Atemzüge bewiesen, daß er mit dem Erstickungstode
 kämpfte.
 
@@ -1056,7 +1058,7 @@ und er heißt Messid —, man müsse den Tod Tumirs
 und Ruwis rächen … Schuld an allem sei die Memsahib
 Betsy … Und wenn man ihr ein paar Edelsteine
 zeige, würde man sie wohl hier nach dem Mansawata locken
-können, wo sie dann niemals mehr gefunden werden würde.
+können, wo sie dann niemals mehr gefunden werden würde
 … — Wie ich schon erwähnte, Sahib, — ich hörte immer
 nur einiges von der Unterhaltung der beiden, konnte mir
 aber doch unschwer das Fehlende ergänzen und erfuhr so,
@@ -1233,7 +1235,7 @@ Harst hatte Reginald die Hand auf die Schulter gelegt
 … hatte gemütlich gesagt: »Tag, lieber Blooß … Da
 sind wir …« Und dann erst mit knapper Verbeugung zu
 Seiner Erhabenheit: »Sir Maccray, ich bin Harst … Das
-ist Schraut, und das da der bisher flüchtige Diener Laska.
+ist Schraut, und das da der bisher flüchtige Diener Laska
 … — Sie werden sich freuen, Sir Maccray, denn wir bringen
 Ihnen die Beweise für Blooß’ Schuldlosigkeit …«
 
@@ -1246,7 +1248,7 @@ Wut …
 Mein verehrter Mr. Harst, was Sie vielleicht als Beweise
 ansehen, schätze ich wahrscheinlich ganz anders ein …«
 
-»Was in diesem Falle gleichgültig wäre, Sir Maccray.
+»Was in diesem Falle gleichgültig wäre, Sir Maccray
 … Denn eine Depesche von mir an den Gouverneur in
 Madras dürfte genügen, Ihre Voreingenommenheit gegen
 Blooß in überzeugender Art darzutun und Blooß’ Freilassung
@@ -1263,7 +1265,7 @@ Harst wandte sich an Laska. »Erzähle!«
 
 Laska erzählte …
 
-Maccray fühlte, daß er hier eine klägliche Rolle spielte.
+Maccray fühlte, daß er hier eine klägliche Rolle spielte
 … Aber er schwieg, saß mit gesenktem Kopf da und machte
 sich zum Schein Notizen.
 
@@ -1299,7 +1301,7 @@ die ich nicht gern dadurch bloßstellen wollte, daß ich
 ihre gemeinsame Bootsfahrt mit dem steckbrieflich verfolgten
 <@pagebreak/>
 Messid preisgeben wollte … Ich wünsche auch nicht, daß
-Miß Betsy je erzählt, daß ich es war, der ihr auf dem Mansawata
+Miß Betsy je erfährt, daß ich es war, der ihr auf dem Mansawata
 zu Hilfe kam, der ihr also bis dorthin heimlich nachgerudert
 war …«
 
@@ -1395,7 +1397,7 @@ Ich fuhr herum …
 Sah Harst mit wilden Sätzen auf mich zustürmen …
 
 Sah aus der Felsöffnung einen Hagel von Steinstücken
-Hervorfliegen, sah dort das Gestein sich bewegen …
+hervorfliegen, sah dort das Gestein sich bewegen …
 
 <@pagebreak/>
 Dann ein noch kräftigerer Knall …
@@ -1473,8 +1475,7 @@ Und am Abend wurde damals auf John Grandells
 Veranda Verlobung gefeiert … Sogar Maccray war dabei
 … Und der dicke Tompsen fehlte ebensowenig …
 
-Nächster Band:
+<@harst.naechsterband band="Das Wespennest von Potanur."/>
 
-__Das Wespennest von Potanur.__
+<@harst.druck/>
 
-Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.

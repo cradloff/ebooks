@@ -1,6 +1,8 @@
 <@pagebreak/>
 
-<#include "intro_short2.ftl">
+<#import "*/harst.ftl" as harst>
+
+<@harst.introshort2/>
 
 <h2>1. Kapitel.</h2>
 
@@ -323,7 +325,7 @@ Harald raunte ihr zu:
 »O — hören Sie nur erst, was ich gesehen habe, und
 Sie werden mich nicht mehr schelten …«
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 
 In ihrem seidenen Staubmantel und der braunen, weichen
 Seglerkappe aus Wachstuch war sie gegen den dunklen
@@ -1006,7 +1008,7 @@ gekrümmten Malaiendolch, mit dem er recht auffällig spielte.
 Im übrigen war dieser Raum hier fraglos der Keller
 eines verlassenen Gebäudes …
 
-Und — umsonst blickte ich mit nach Freund Harald
+Und — umsonst blickte ich mich nach Freund Harald
 um …
 
 Erwartete nun jeden Moment, daß man ihn ebenfalls
@@ -1340,7 +1342,7 @@ Mr. Harst …«
 
 Da sagte denn auch ich:
 
-»Das stimmt. Mr. Blooß … Auch für mich sind dies
+»Das stimmt, Mr. Blooß … Auch für mich sind dies
 absolut unklare Andeutungen.«
 
 Harald blickte mich mit stillem Seufzer an … »Da hat
@@ -1348,7 +1350,7 @@ man dich, mein Alter, nun rund zehn Jahre in der Lehre
 gehabt und sich die redlichste Mühe gegeben, dir … die
 Augen auszuwischen und dein Hirn empfänglich für Kleinigkeiten
 zu machen … Manchmal gelingt es dir, deine angeborene
-Pomadigkeit abzuschütteln … So in dieser Nacht.
+Pomadigkeit abzuschütteln … So in dieser Nacht
 … Denn ich sehe es deinem Gesicht an, daß du Erfolg gehabt
 hast … Deine Augen reden eine klare Sprache … Du
 hast das famose Pergament zurückerobert …«
@@ -1493,7 +1495,9 @@ sind mit der Jacht entflohen …!«
 Wir hinein … Wir ruderten, als gälte es ein Wettrennen
 …
 
+<!--
 Unterwegs sagte Harald noch:
+-->
 
 Wir landeten genau dort, wo ich die drei Inder in dem
 Boote durch die Clement so schnell verscheucht hatte …
