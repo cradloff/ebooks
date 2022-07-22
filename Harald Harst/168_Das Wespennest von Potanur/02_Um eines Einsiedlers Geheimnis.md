@@ -1,3 +1,5 @@
+<#import "*/harst.ftl" as harst>
+
 <h1>Um eines Einsiedlers
 Geheimnis …</h1>
 
@@ -59,7 +61,7 @@ Schreiber …
 Dann sind wir mit dem schlanken, mit diesem Gauner-Gentleman
 wirklich allein …
 
-Er sitzt auf einem Fahrstuhl, die mit Lederriemen gefesselten
+Er sitzt auf einem Rohrstuhl, die mit Lederriemen gefesselten
 Hände im Schoße …
 
 »Sie wissen, wer ich bin,« beginnt Harald. »Ich habe
@@ -201,7 +203,7 @@ Insel …
 Billing beantwortet Harsts Fragen widerwillig und
 bissig …
 
-»Wann erhielten Sie die Nachricht von der Festnahme,
+»Wann erhielten Sie die Nachricht von der Festnahme
 der Wespen und von wem?«
 
 »Das kann Ihnen Wilson genauer angeben, denn der
@@ -252,7 +254,7 @@ Marys Blicke streifen Harst und mich …
 
 »Leider sind Sie’s!« brummt der Hüne Billing …
 
-Wilson sieht da und knetet seine Hände …
+Wilson steht da und knetet seine Hände …
 
 Ungemütlich!!
 
@@ -261,7 +263,7 @@ Dann Harst — höflich, aber bestimmt:
 »Miß Smieder, Sie waren wirklich am Seestrande
 baden?«
 
-»Gewiß … Hier — mein Haar ist noch etwas feucht.
+»Gewiß … Hier — mein Haar ist noch etwas feucht
 … — Weshalb fragen Sie?!«
 
 Ihre Sicherheit, Unbefangenheit sind verblüffend.
@@ -349,7 +351,7 @@ Wald einbiegen …
 
 <h2>2. Kapitel.</h2>
 
-»Ein. Detektiv ohne Phantasie ist wie ein Jockey ohne
+»Ein Detektiv ohne Phantasie ist wie ein Jockey ohne
 Beine,« pflegte Harald zuweilen zu sagen …
 
 Jetzt aber, als wir den Waldpfad entlang der Hütte
@@ -433,7 +435,7 @@ erinnerte mich an den Genossen des Blonden, an den
 schwarzhaarigen, unsympathischen Menschen … — Aber
 <@pagebreak/>
 gehen wir weiter … — Dann kamen wir in Frau Billings
-Schlafzimmer. Da mein Verdachts bereits rege, beschaute
+Schlafzimmer. Da mein Verdacht bereits rege, beschaute
 ich mir die Fensterbleche beider Fenster. Sie sind weiß
 lackiert. Das eine Blech verriet durch Kratzer ganz deutlich,
 daß jemand hier häufiger hinausklettert — jemand, Frau
@@ -516,7 +518,7 @@ Vater?! Der Mönch war doch …«
 Einsiedler. Der Mönch, der Buddhist, mag vorher gestorben
 sein. Dann nahm ein anderer seine Stelle ein …«
 
-»Hm — — das erscheint mit denn doch allzu … phantastisch
+»Hm — — das erscheint mir denn doch allzu … phantastisch
 …«
 
 »Mir nicht. Der Trauerflor um den Rahmen sagt
@@ -557,7 +559,7 @@ geschnarcht … — Nehmen Sie Platz, Billing …«
 »Meine Frau schickt Ihnen hier ein paar gute Happen,«
 erklärte der Hüne und setzte sich …
 
-»Bestellen Sie Ihrer Gattin unseren herzlichsten Dank.
+»Bestellen Sie Ihrer Gattin unseren herzlichsten Dank
 … — Darf ich Ihnen eine Zigarette anbieten …?«
 
 Ich schaute nach der Steintür neben dem Herd. Die
@@ -596,7 +598,7 @@ der Tür liegen …«
 
 »Meine Frau … Ganz zufällig …«
 
-»So — Ihre Gattin … — Es führt noch aber ein
+»So — Ihre Gattin … — Es führt doch aber ein
 Pfad durch den Wald in Richtung auf Ihre Plantage …
 Also muß Maunaloa wohl häufiger diesen Weg gegangen
 sein …«
@@ -650,7 +652,7 @@ Harst sagte seufzend:
 
 »Er ahnt nichts …! Armer Kerl!« — Und dann zog
 er mich zu der großen Palme hin, wo sich ein flacher, kaum
-merklicher Hügel erhob …: Das Grad des Einsiedlers!
+merklicher Hügel erhob …: Das Grab des Einsiedlers!
 
 Ein Hügel, von Blumen völlig bedeckt …
 
@@ -769,7 +771,7 @@ erwähnen Sie nichts hiervon meinem Manne gegenüber …
 Der gute James läßt sich so leicht die Laune verderben.
 Schon Ihr Verdacht gegen Mary hatte ihn ja vollständig
 außer Fassung gebracht … — Bitte, vielleicht begleiten die
-Herren mich jetzt noch eine Strecke … Ich mußt heim …«
+Herren mich jetzt noch eine Strecke … Ich muß heim …«
 
 Und Harald, noch besserer Schauspieler als diese Frau,
 verstand es meisterlich, den über seinen »Irrtum« tief Geknickten
@@ -948,7 +950,7 @@ und einem Pappdeckel selbst hergestellt hatte …
 
 Harald schlug es auf …
 
-Auf dem ersten Platte stand:
+Auf dem ersten Blatte stand:
 
 <p class="centered">Meine Lebensgeschichte.</p>
 
@@ -982,7 +984,7 @@ Sagte: »Dieser angebliche Mönch war ein Europäer …
 Vielleicht einer, der zum Buddhismus übertrat … die
 Lehre Buddhas übt auch auf Weiße ihren geheimnisvollen
 Zauber aus … — Die Rätsel mehren sich … Hier auf
-vom Titelblatt steht: Begonnen am 16. April 1899, — also
+dem Titelblatt steht: Begonnen am 16. April 1899, — also
 zu einer Zeit, als Frau Billings Vater hier bestimmt noch
 nicht die Rolle des Einsiedlers spielte … Mithin hieß der
 <@pagebreak/>
@@ -1172,7 +1174,7 @@ Felsengang … Und ich folgte langsam. Harst zog die andere
 Steintür auf … Der Lichtkegel zerschnitt die Finsternis
 …
 
-Ein Blick …: Dir Buddhastatue fehlte!!
+Ein Blick …: Die Buddhastatue fehlte!!
 
 Und — vor dem Postament lag gefesselt und geknebelt
 ein Mann …
@@ -1245,7 +1247,7 @@ sich genommen …
 
 Sie war’s, die die Flüchtlinge anrief …
 
-»Ergebt euch …!! — — Wage es doch, Harry, aus
+»Ergebt euch …!! — — Wage es doch, Harry, auf
 deine Mutter zu schießen!! Wage es!!« — Ihre Stimme
 war schrill wie das Klingen einer allzu straff gespannten
 Saite …
@@ -1287,7 +1289,7 @@ die Brust gegangen. Er röchelte schwer, und sein eingefallenes
 Gesicht zeigte das nahende Ende an …
 
 Der Blonde fügte hinzu: »Mein Unglück war, daß ich
-in Kolombo Harry Leewark kennen lehnte … Er fabelte
+in Kolombo Harry Leewark kennen lernte … Er fabelte
 mir von den Reichtümern vor, die wir hier auf Potakiwu
 mühelos erringen könnten … Ich bin leider ein sehr
 schwacher Charakter … Jetzt — — werde ich für alle Zeit
@@ -1305,7 +1307,7 @@ Harry Leewark war tot … — —
 In der Jachtkajüte lag auf dem schmalen Tische die in
 Decken gehüllte Buddhastatue …
 
-Und um von Tisch herum säßen daß Ehepaar Billing
+Und um den Tisch herum saßen das Ehepaar Billing
 und wir beide …
 
 Der Hüne Billing hielt die Hand seines Weibes in der
@@ -1321,7 +1323,7 @@ Jahren alle Beziehungen zu seiner Familie abgebrochen
 und galt als verschollen. Marias Vater wieder, eine ähnliche
 Abenteurernatur wie sein Bruder Patrick, ließ sich als
 Kapitän eines Frachtdampfers allerlei Unredlichkeiten zuschulden
-kommen und flüchtete. Steine einzige Tochter hörte
+kommen und flüchtete. Seine einzige Tochter hörte
 nichts mehr von ihm, heiratete einen Kaufmann namens
 Leewark, der sich dann in Point de Galle auf Ceylon niederließ,
 wo er sehr bald verstarb. Aus dieser Ehe war ein
@@ -1407,8 +1409,6 @@ Billing. Und der Blonde (sein Name sei verschwiegen!)
 wird sehr wahrscheinlich doch noch Mary Smieder heiraten,
 da Harald seine Begnadigung durchgesetzt hat …
 
-Nächster Band:
+<@harst.naechsterband band="Die Blinde vom Engelsriff."/>
 
-__Die Blinde vom Engelsriff.__
-
-Druck: V. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
+<@harst.druck/>

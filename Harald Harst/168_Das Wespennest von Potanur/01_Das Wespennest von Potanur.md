@@ -1,6 +1,8 @@
 <@pagebreak/>
 
-<#include "intro_short2.ftl">
+<#import "*/harst.ftl" as harst>
+
+<@harst.introshort2/>
 
 <h2>1. Kapitel.</h2>
 
@@ -48,13 +50,13 @@ Das war dem Sprachschatze der Singhalesen, der schlanken
 Kinder des sonnigen Ceylon, entnommen und bedeutete
 »Die Insel Nichts« … — Immerhin ganz charakteristisch
 für diese kahlen Dünen, kahlen Hügel, kahlen Ufer: Die
-Insel, aus der nichts gedeiht!
+Insel, auf der nichts gedeiht!
 
 Nach Potanur schwammen die Männer mit den gelblichen
 Turbanbündeln …
 
 Landeten in einer Bucht zwischen zwei Halbinseln, wo
-das Meer Berge stinkenden, faulender Algen aufgehäuft
+das Meer Berge stinkender, faulender Algen aufgehäuft
 hatte, — — Berge, die weithin die Luft verpesteten … —
 
 Seltsam genug: Die Schwimmer waren Europäer und
@@ -104,7 +106,7 @@ Ich wühlte also den trockenen Seetang, der den Boden
 unseres Zeltes bildete, mit den Händen so weit auf, bis ich
 an die feuchte, halb verfaulte Schicht gelangte …
 
-Gleich daraus warf unser Laternchen nur ganz trübe
+Gleich darauf warf unser Laternchen nur ganz trübe
 Lichtstrahlen auf die Hütte zweier nackter Insulaner, die nun
 auch den übrigen Inhalt ihrer Bündel auszupacken begannen:
 Konserven, Hartzwieback, zwei Flaschen kalten Tee
@@ -295,7 +297,7 @@ Sehen wieder den Strand der Bucht …
 
 Weit und breit — — nichts …
 
-Die Frau — — wie in Nebel ausgelöst …
+Die Frau — — wie in Nebel aufgelöst …
 
 Alles Suchen hilft keinen Deut …
 
@@ -411,7 +413,7 @@ ich mich — über die Läuse …!!
 
 Der Richter wollte mir einen Salon als Zelle anweisen,
 wenn ich gestehen würde, wenn ich das Versteck meiner
-Genossen und der weißen Frau verratet würde …
+Genossen und der weißen Frau verraten würde …
 
 Mein Mund blieb stumm …
 
@@ -423,7 +425,7 @@ Richter drohte mir, mich schon nachmittags aufknüpfen zu
 lassen … Der Polizeimeister drohte mit Prügel und Hungerkur
 …
 
-So war ich denn wieder allein … Nein, Furcht allein …
+So war ich denn wieder allein … Nein, nicht allein …
 Über Vereinsamung hatte ich ja nicht zu klagen … Nie im
 Leben habe ich wieder einen so läusereichen Raum wie diese
 Zelle gesehen … Selbst in der finstersten Polackei, wo doch
@@ -638,7 +640,7 @@ Mitteilung der Unbekannten ereilte uns das Geschick und
 man setzte uns in dem Dorfgefängnis fest. Diesmal wollen
 wir das Schicksal nicht wiederum herausfordern, sondern
 uns von hier rechtzeitig empfehlen. Besinne dich, daß Reginald
-Blocks uns seine Plantage hier genau beschrieben hat …
+Blooß uns seine Plantage hier genau beschrieben hat …
 In der Nähe der Gebäude im dichtesten tropischen Walde
 soll sich die ehemalige Behausung eines sogenannten büßenden
 Heiligen, eines buddhistischen Mönches, befinden. Reginald
@@ -685,7 +687,7 @@ Hütte des Mönchs stand.
 
 Dieser büßende Heilige hatte hier nach Reginalds Angaben
 <@pagebreak/>
-fast vierzig Jahre gehaust und war ernst vor kurzem
+fast vierzig Jahre gehaust und war erst vor kurzem
 verstorben.
 
 Die kleine Hütte, gänzlich verwahrlost und offenbar niemals
@@ -712,7 +714,7 @@ zu uns herein, dazu das Rauschen des Waldes
 und das nicht allzu ferne Toben der Brandung. Der Salzhauch
 des Meeres machte sich bis hierher bemerkbar.
 
-Alles in allein war dieses Quartier reizvoll und schön.
+Alles in allem war dieses Quartier reizvoll und schön
 … Palmen vor der Tür, Blumen, munteres Vogelvolk …
 
 Es gefiel mir hier …
@@ -832,7 +834,7 @@ schwer geschädigt worden sind … Kaum eine Plantage ist
 <@pagebreak/>
 verschont geblieben … Die Beute der Diebe beträgt bisher
 rund 40&nbsp;000 Pfund — ein ganz anständiges Sümmchen!
-Was eins aber am meisten wütet, ist das, daß den Schuften
+Was uns aber am meisten wütet, ist das, daß den Schuften
 nicht beizukommen ist! Darum bleibe ich dabei: Die Bande
 haust auf Potanur drüben! Die Bande hat sich dort ein
 Versteck hergestellt, das nicht zu finden ist … Wir alle hier
@@ -1211,7 +1213,7 @@ Wut …
 
 »Ah — genau wie der andere …! — Nun schön … —
 Sie suchen sie nicht, sondern Sie gehören mit zu der Bande,
-Freundchen! — Wollen Sie nun vernünftig Werden
+Freundchen! — Wollen Sie nun vernünftig werden
 und …«
 
 Hier gab es eine kleine Unterbrechung …
@@ -1230,13 +1232,13 @@ als Schutzschild für uns beide …
 
 Ohne sich um das Gezeter des Schreibens und das Gebrüll
 der Wärter zu kümmern, die wie die Tollhäusler mit
-ihren Karabinern herumhopsten und noch nicht zum Schuß
+ihren Karabinern herumhopsten und doch nicht zum Schuß
 kamen, — ohne auf die Drohungen des für eine Jahrmarktsbude
 als Schauobjekt reifen Polizeigewaltigen zu achten,
 <@pagebreak/>
 befahl er mit echt Harstschem Stimmaufwand, der ein
 paar Dutzend Läuse sogar vor Schreck von der Decke fallen
-ließ, daß der Schreiben und die Wärter augenblicklich mit
+ließ, daß der Schreiber und die Wärter augenblicklich mit
 einem Ponywagen unsere Koffer aus dem Versteck holen
 sollten …
 
@@ -1248,7 +1250,7 @@ ist euer Chef eine tote Leiche!«
 Ich merkte genau, daß dieser ganze Auftritt Harald denselben
 Spaß machte wie mir …
 
-Es war eilte Possenszene … Es war etwa wie der
+Es war eine Possenszene … Es war etwa wie der
 dritte Akt aus Fledermaus: Fideles Gefängnis!!
 
 Jedenfalls: Schreiber und Wärter verdufteten, ich
@@ -1389,7 +1391,7 @@ unserem Eintreffen bewachen zu lassen …
 »Wir werden dort wieder Quartier beziehen, denn das
 Häuschen gefällt uns … Entschuldigen Sie also schon, Sir
 Longsteet, wenn wir von Ihrer freundlichen Einladung keinen
-Gebrauch machen … Schraut und ich lieber die Natur,
+Gebrauch machen … Schraut und ich lieben die Natur,
 und die Lichtung dort mitten im Walde ist bezaubernd …«
 
 Dabei blieb es.
@@ -1403,7 +1405,7 @@ dessen kränkliches, vergrämtes Aussehen sofort jeden Argwohn
 verscheuchte, kauften einiges ein und unterhielten uns
 mit ihm über den Einbruch in seinem Hause. — Smieder
 weinte fast. Ihm waren tausend Pfund bares Geld gestohlen
-worden, das letzte, was er mit dem Zusammenbruch
+worden, das letzte, was er aus dem Zusammenbruch
 seines Geschäfts in Kolombo gerettet hatte …
 
 »Vielleicht erhalten Sie Ihr Geld zurück,« meinte Harald
@@ -1464,7 +1466,7 @@ steht dicht an der Felswand … — All das habe ich mir
 heute in der Zelle überlegt …«
 
 Jetzt begriff ich … Jetzt wußte ich auch, was der
-Spiegel solle …
+Spiegel sollte …
 
 »Du meinst, daß der Einsiedler noch einen zweiten
 Ausgang aus seinem Heim sich angelegt hatte …?!«
@@ -1480,7 +1482,7 @@ Risse … Und doch erkennt man das eingefügte Stück.
 Mithin zieht sich die Grotte durch den ganzen Felsen hindurch,
 und ein Schleichpfad dürfte von der Rückseite des
 Felsens in das Dickicht führen — als vierter Weg außer
-den drei anderen, die hier jener kennt: eine durch den
+den drei anderen, die hier jeder kennt: eine durch den
 Wald zur Blooß-Plantage, einer zum Strande und der
 dritte in der Richtung nach dem Dorfe … — Ich kann hier
 im Hohlspiegel nun gerade die Steintür neben dem Herd
@@ -1535,9 +1537,10 @@ Und meine Ohren dauernd lauschend — dorthin lauschend,
 wo die Steintür allerlei Überraschungen verhieß
 …
 
+<!-- hier fehlt was
 Zuweilen nur draußen der Laut eines Tieres — einer
-<!-- hier fehlt was -->
 eine andere Lage einnahmen …
+-->
 
 Ich schwitzte …
 
@@ -1698,7 +1701,7 @@ herab …
 
 Noch ein Hieb …
 
-Die Bretter zersplitterten … Million riß die Tür
+Die Bretter zersplitterten … Wilson riß die Tür
 auf …
 
 Ein mit Brettern verkleideter Gang … Er führte in
