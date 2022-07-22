@@ -54,7 +54,7 @@ Hinter mir dann der schnell verwehende Ruf: »Schraut
 Und für mich die Erkenntnis, daß Harald offenbar
 auf das andere, weit größere Boot, das ich für einen Motorkutter
 gehalten, hinübergesprungen war und von dort
-gerufen hatte...
+gerufen hatte …
 
 Gerufen — —!! — weshalb?! War’s ein Hilferuf
 gewesen?! War er dort an Bord des Kutters mit Leuten
@@ -98,26 +98,26 @@ einen Ruf, nachdem es mir vorhin schon so vorgekommen,
 als mischten sich in das Heulen und Brausen des Windes
 andere Laute.
 
-Ah — jetzt rief wirklich jemand um Hilfe...
+Ah — jetzt rief wirklich jemand um Hilfe …
 
-Und — das war eine Frauenstimme...
+Und — das war eine Frauenstimme …
 
-Hell — schrill — in höchster Todesangst...
+Hell — schrill — in höchster Todesangst …
 
 Zu sehen war nichts.
 
 Die Finsternis hing um mich herum wie pechschwarze
 Tücher. Nur die weisen Wellenkämme leuchteten gespenstisch.
-Dann schräg vor mir ein Lichtblitz...
+Dann schräg vor mir ein Lichtblitz …
 
-Wieder ein schriller Schrei...
+Wieder ein schriller Schrei …
 
-Der weiße Lichtkegel blieb — bewegte sich...
+Der weiße Lichtkegel blieb — bewegte sich …
 
-Licht aus einer Taschenlampe...
+Licht aus einer Taschenlampe …
 
 Und nun gewahrte ich auch, von dieser herumschwenkenden
-Leuchte bestrahlt, einen Menschen im Wasser...
+Leuchte bestrahlt, einen Menschen im Wasser …
 
 Eine Frau — —!!
 
@@ -182,7 +182,7 @@ Ohne Ihre Hilfe wäre ich ertrunken.«
 
 Sie kam wieder zu Kräften.
 
-»Bemühen Sie sich nicht mehr... Ich halte mich schon
+»Bemühen Sie sich nicht mehr … Ich halte mich schon
 selbst fest!« war ihre nächste Äußerung.
 
 Ich ließ also ihren Arm los, und sie rutschte ein Stückchen
@@ -212,7 +212,7 @@ Absicht?! — Ja — ohne Zweifel! Daran änderte auch
 ihre rasche Entschuldigung nichts.
 
 Ich wußte Bescheid. Mit dieser Dame stimmte irgend
-etwas nicht...
+etwas nicht …
 
 Nun — ich wollte mir nichts anmerken lassen. Ich
 brüllte:
@@ -221,9 +221,9 @@ brüllte:
 zwei Taschenlampen im Magen! — Ihr Segelboot ist
 wohl gekentert, Gnädigste?«
 
-»Nein — es war ein Paddelboot...!«
+»Nein — es war ein Paddelboot …!«
 
-Ein nettes Paddelboot!! dachte ich...
+Ein nettes Paddelboot!! dachte ich …
 
 Und dann verstummte das Gespräch wieder, da es zu
 viel Lungenkraft erforderte.
@@ -244,14 +244,14 @@ rauschte ebenfalls.
 
 »Ich denke, wir waten an Land,« sagte ich sehr laut.
 
-»Ja. Ich werde...«
+»Ja. Ich werde …«
 
 <@pagebreak/>
 Da war die Frau schon von der Jolle ins Wasser gerutscht
 und — — im Nu verschwunden.
 
 Ich sah nur noch, daß sie sich dem Ufer zuarbeitete.
-Ich kam zu spät. Sie... kniff aus, tauchte zwischen den
+Ich kam zu spät. Sie … kniff aus, tauchte zwischen den
 Bäumen unter.
 
 Ich stand da und war arg mißgelaunt. Wenn ich Harald
@@ -301,7 +301,7 @@ Sunda-Archipel liebevollst angenommen hatten.
 »Ja, mein Alter. Eine Film-Prau. Die Onyx-Film-A.G.
 Will hier auf dem ehrlichen Schwielow ein Tropenfilmchen
 herstellen. Ich las davon in der Zeitung. Schwimmen
-wir an Bord, es gibt dort etwas zu sehen...!!«
+wir an Bord, es gibt dort etwas zu sehen …!!«
 
 Das betonte er so seltsam, daß ich ahnte: an Bord der
 Prau stimmte etwas noch viel weniger als mit meiner geretteten
@@ -318,10 +318,10 @@ als im bleichen matten Mondlicht aus dem Heckaufbau
 zwei Kerle uns überraschend ansprangen.
 
 Zwei Kerle in Leinenhosen, Turbantücher um die
-Köpfe geschlungen — Kerle mit dunklen Gesichtern...
+Köpfe geschlungen — Kerle mit dunklen Gesichtern …
 
 Die Burschen nutzten ihren Vorteil aus, — — schlugen
-zu mit dicken Knütteln...
+zu mit dicken Knütteln …
 
 Ich krachte auf die Deckplanken. Für Sekunden war
 mir die Besinnung geschwunden.
@@ -345,7 +345,7 @@ jetzt durch seine Worte verraten wurde:
 stört es!«
 
 »Gestatte — wenn Dir vorhin eine Frau auf der treibenden
-Jolle die Taschenlampe...« Meine Verteidigungsrede
+Jolle die Taschenlampe …« Meine Verteidigungsrede
 war schon zu Ende, denn Harst meinte hastig:
 
 »Eine Frau? Hast Du sie aufgefischt? Trug sie Kniehosen?«
@@ -384,7 +384,7 @@ mein Alter! Und ihr nach sprangen die beiden braunen
 Kerle, die uns jetzt vor fünf Minuten so übel empfingen.
 Da rief ich Dir zu: »Schraut — — Schraut, Vorsicht —
 — Vorsicht!!« Ich fand dann hier in diesem Verschlag
-einen... Toten...«
+einen … Toten …«
 
 »Was?! Wie — — einen Toten?!«
 
@@ -437,19 +437,19 @@ Harald lehnte am Schreibtisch und las.
 Problem nicht entgehen lassen. — Mit wem habe ich
 die Ehre?«
 
-»Prinzessin Dolja Dortschakoff...«
+»Prinzessin Dolja Dortschakoff …«
 
 Sie erhob sich.
 
 »Ich werde morgen oder besser heute vormittag um
 elf Uhr wiederkommen, Herr Harst. Wenn Sie mich
-freundlichst hinausbegleiten wollen...«
+freundlichst hinausbegleiten wollen …«
 
 Er tat’s. Den Brief legte er auf den Schreibtisch, und
 überflog die merkwürdige Epistel, die mit Maschine geschrieben
 war:
 
-> Berlin, den 27. Juli 192...
+> Berlin, den 27. Juli 192…
 
 > An die Prinzessin Dolja Dortschakoff.
 
@@ -457,13 +457,13 @@ war:
 Sie alle weiteren Versuche, das Kruzifix zurückzuerlangen.
 Wir haben es längst eingeschmolzen. Wenn
 Sie Berlin nicht bis zum 1. August den Rücken gekehrt haben,
-ergeht es ihnen genau so wie...
+ergeht es ihnen genau so wie …
 
 > Nun — Sie wissen ja Bescheid.
 
 > Sie sehen nun, wie lächerlich der Aberglaube war,
 der sich an das Kruzifix knüpfte. Ebenso lächerlich wäre
-es, wenn Sie...
+es, wenn Sie …
 
 > Sie verstehen wohl!!
 
@@ -480,12 +480,12 @@ hatte, eine Prinzessin war!
 Ich setze mich an den Sofatisch und griff nach einer
 Zigarre.
 
-Harald schien diese... Prinzessin durch den Vorgarten
+Harald schien diese … Prinzessin durch den Vorgarten
 bis auf die Straße begleitet zu haben. Er kehrte noch
 immer nicht zurück.
 
 <@pagebreak/>
-Ich gähnte — gähnte wieder...
+Ich gähnte — gähnte wieder …
 
 Der Kopf wurde mir schwer. Ich war müde, schloß
 die Augen, legte die Zigarre weg.
@@ -500,7 +500,7 @@ hatten.
 Und sah: es war fünf Uhr morgens!
 
 Sah, daß die Zimmertür noch halb offen war, daß die
-elektrische Krone noch brannte und daß... vor mir auf
+elektrische Krone noch brannte und daß … vor mir auf
 dem Tische ein Zettel lag:
 
 > Falls Sie beide sich einmischen sollten, werden Sie
@@ -533,7 +533,7 @@ sieht doch alles.
 
 Das war kein Straßenkehrer. Das war ein Spion.
 Straßenkehrer tragen zumeist Dienstmützen und arbeiten
-nie allein, sondern zu mehreren. Das war ein... Spion.
+nie allein, sondern zu mehreren. Das war ein … Spion.
 
 <@pagebreak/>
 »Warte!« dachte ich. »Dich will ich schon wegbringen!«
@@ -547,7 +547,7 @@ ihm, eilte heim und fand Harald noch nicht vor.
 Also — zweite Maske angelegt, die eines Laternenputzers!
 
 Oh — Harst und ich haben drei Schränke voller Kostüme
-und Requisiten...!
+und Requisiten …!
 
 Kaum hatte ich mich einer Straßenlaterne schräg gegenüber
 liebevoll angenommen, als der Spion zurückkehrte.
@@ -556,13 +556,13 @@ brächte ich den Brenner in Ordnung.
 
 Der Spion trat zu mir, hob den Kopf.
 
-»He — eine Frage...«, rief er mir zu. »Haben Sie
+»He — eine Frage …«, rief er mir zu. »Haben Sie
 vielleicht soeben einen graubärtigen Herrn dort in Nr. 10
 verschwinden sehen?«
 
 »Und ob!! Einen Herrn mit’n Kneifer uf die Nese.«
 
-»Danke...«
+»Danke …«
 
 Der Spion trottete weiter, fegte zum Schein den Bürgersteig,
 blieb in der Nähe.
@@ -617,7 +617,7 @@ Frau ohne Hut, mit einem Tuch um den Kopf und einem
 schäbigen kleinen Koffer. Die Frau war jung und hübsch.
 Ich war mir meiner Sache nicht ganz sicher, aber ich vermutete,
 daß es die angebliche Prinzessin Dolja Dortschakoff
-sei...
+sei …
 
 <@pagebreak/>
 
@@ -747,18 +747,18 @@ vor mir ins Wasser gesprungen.«
 auf der Jolle ritt, war die Prinzessin Dolja Dortschakoff.«
 
 Harald starrte mich verblüfft an. »Unmöglich! Dann
-wäre alles das, was ich...« Er sprach immer leiser. Er
-schwieg...
+wäre alles das, was ich …« Er sprach immer leiser. Er
+schwieg …
 
 Sein ehrwürdiges Greisenantlitz senkte sich. Und so
-flüsterte er unvermittelt: »Dann... dann mußt Du die
+flüsterte er unvermittelt: »Dann … dann mußt Du die
 <@pagebreak/>
 Stimme verkannt haben, mein Alter. Ganz bestimmt! Es
 ist ausgeschlossen, daß die Frau, die Dir in den Wald entwich,
 die Prinzessin gewesen sein kann. Würdest Du das
 beschwören?«
 
-»Hm — das nicht gerade...!«
+»Hm — das nicht gerade …!«
 
 »Aha!« Er hob den Kopf. »Es ist eine üble Sache um
 eine bestimmte Form der Eifersucht. Man glaubt nicht,
@@ -773,7 +773,7 @@ Der Plan schien ihm selbst nicht zu gefallen. Er schaute
 wieder vor sich hin.
 
 »Oder — fahren wir nach Tegel, mein Alter, — und
-gleich...«, fügte er hinzu. »Das Zimmer ohne Fenster
+gleich …«, fügte er hinzu. »Das Zimmer ohne Fenster
 reizt mich. — Ja — — nach Tegel!! Vorwärts!«
 
 Die Straßenbahn hielt. Wir stiegen aus und wanderten
@@ -802,9 +802,9 @@ Unkrauthügeln Reste von steinernen Standbildern, von großen
 Vasen und Springbrunnen hervor. Hier jubilierten
 Vögel aller Art in den grünen Laubdächern, hier schlich
 eine schwarze Katze lautlos über den Weg, der mit ausgetretenen
-Ziegelsteinen belegt war...
+Ziegelsteinen belegt war …
 
-Und — kein Mensch zu sehen...
+Und — kein Mensch zu sehen …
 
 Bis wir erschrocken fast herumfuhren.
 
@@ -852,7 +852,7 @@ Hinweis auf die erhöhten Gewinne.
 »Hm,« meinte Harald, »kein Einnehmer verschickt heute
 <@pagebreak/>
 mehr solche Reklamen. Höchstens als Beilage zu neuen
-Losen für alte Kunden. Hm...!«
+Losen für alte Kunden. Hm …!«
 
 Und er steckte den Brief in die Tasche, stand auf. »Es
 wird auch eine Hintertür geben,« sagte er. »Die werden
@@ -860,7 +860,7 @@ wir öffnen.«
 
 <h2>4. Kapitel.</h2>
 
-<h3>Was wir fanden...</h3>
+<h3>Was wir fanden …</h3>
 
 Eine Tür mit einem Dietrich zu öffnen, ist weiter
 kein Kunststück, wenn es sich um ein altes Schloß, Dutzendware,
@@ -917,7 +917,7 @@ Nervosität.
 
 »Entweder hat der Briefschreiber mich zum Narren gemacht
 und es gibt gar kein solches Zimmer hier,« sagte er
-nun, als wir vor dem einen Alkoven standen, »oder aber...«
+nun, als wir vor dem einen Alkoven standen, »oder aber …«
 
 Und da schwieg er plötzlich, deutete auf ein Stückchen
 Holz von einer verfaulten Diele, das gerade vor uns lag.
@@ -926,20 +926,20 @@ Jetzt flüsterte er — ganz leise: »Wir waren doch schon
 einmal vor fünf Minuten hier. Und da war dieses Stücken
 Holz noch nicht völlig von der Diele losgetrennt. Da
 hing es noch mit der Diele zusammen. Jetzt ist es sogar etwa
-zehn Zentimeter von der Bruchstelle entfernt. Mithin...
+zehn Zentimeter von der Bruchstelle entfernt. Mithin …
 <@pagebreak/>
 war jemand hier — ist noch hier, — jemand, der
-uns beobachtet...!«
+uns beobachtet …!«
 
 Und — dazu lächelte er ein wenig, fügte hinzu: »Nun
-kenne ich das ganze Geheimnis! Auch das ist...«
+kenne ich das ganze Geheimnis! Auch das ist …«
 
-Mit einem Riesensatz schnellte er plötzlich vorwärts...
+Mit einem Riesensatz schnellte er plötzlich vorwärts …
 
 Wir waren von rechts, durch die Flurtür, eingetreten.
 Harald erreichte die andere Tür, die in den Nebenraum
 führte und die nur angelehnt war, in weitem Sprunge,
-über ein breites Loch in den Dielen hinwegsetzend...
+über ein breites Loch in den Dielen hinwegsetzend …
 
 Erreichte sie und — — stieß sie so kraftvoll auf, daß
 er die Türkante einem zurückweichenden Manne vor den
@@ -964,7 +964,7 @@ Fenster zu suchen.
 »Wir müssen jetzt systematischer vorgehen,« sagte Harst
 etwas ungeduldig. »Messen wir die Tiefe und Breite des
 Hauses aus und dann die einzelnen Stuben. In der Küche
-sah ich ein langes Stück Wäscheleine. Hole es...«
+sah ich ein langes Stück Wäscheleine. Hole es …«
 
 Ich eilte den Flur entlang, durch zwei Glastüren und
 einen kurzen Flur.
@@ -972,7 +972,7 @@ einen kurzen Flur.
 Und — ich verlief mich. In diesem wunderlichen Hause
 konnte das schon geschehen. Ich kam nicht in die Küche,
 sondern in eins der kleinen Hinterzimmer. Ich hatte die
-Tür hastig geöffnet und... hörte so gerade noch das Klappern
+Tür hastig geöffnet und … hörte so gerade noch das Klappern
 einer anderen Tür und das einschnappen eines Riegels.
 
 <@pagebreak/>
@@ -983,7 +983,7 @@ der sich linker Hand an dieses Stübchen anschloß.
 
 Ein Gedanke — blitzartig — so sehr nahe liegend: es
 war jemand vor mir geflüchtet — — in ein Versteck, in
-das... Zimmer ohne Fenster!
+das … Zimmer ohne Fenster!
 
 Leise schlich ich zu Harald zurück, teilte ihm mit, was
 ich beobachtet hatte.
@@ -1074,19 +1074,19 @@ denselben Liebesdienst. Ich war frei wie er.
 Die Falltür stand noch offen.
 
 Harald leuchtete hinab, streckte den rechten Arm durch
-das viereckige Loch in den Dielen...
+das viereckige Loch in den Dielen …
 
 Was wir sahen, war überraschend genug: da unten
 ein Zimmerchen von Dreieckform. An der einen Wand ein
 <@pagebreak/>
-Diwan. Darauf lag eine Frau in hellem seidenen Schlafrock...
+Diwan. Darauf lag eine Frau in hellem seidenen Schlafrock …
 
 Plötzlich schob Harst jetzt die Beine durch das Loch,
 klomm die schmale Eisenleiter hinab, riß vom Gesicht des
-blonden Weibes einen breiten Wattebausch weg...
+blonden Weibes einen breiten Wattebausch weg …
 
 Ich hatte noch mehr gesehen. An der anderen Wand
-ein hoher alter Ohrensessel...
+ein hoher alter Ohrensessel …
 
 Und in dem Sessel lag zusammengekauert ein Mann
 — ein Herr mit dünnem Scheitel. Das Gesicht war von
@@ -1095,7 +1095,7 @@ oben nicht zu erkennen.
 Ich beeilte mich, Harald zu folgen.
 
 Er war schon an den Sessel herangetreten, hatte dem
-Herrn den Kopf etwas gehoben...
+Herrn den Kopf etwas gehoben …
 
 »Hektor Alken,« sagte Harald leise. »Er ist tot. Da
 — man hat ihn erstochen.« Er schob die Jacke etwas beiseite.
@@ -1136,7 +1136,7 @@ bei uns hin und der Brief, der »Leaxyeka« unterzeichnet
 war. Dieses Verbrechen, Raub, betrifft fraglos die
 Dortschakoff-Juwelen, zu denen wohl auch ein Kruzifix gehörte.
 Die Diebe und gleichzeitig auch die Mörder sind zwei Turkmenen,
-wahrscheinlich Leute, die... — Doch all das hält
+wahrscheinlich Leute, die … — Doch all das hält
 uns jetzt zu lange auf.« —
 
 Ich mußte mich fügen. — Eine halbe Stunde später
@@ -1219,10 +1219,10 @@ noch lauter.
 
 Unser Boot folgte der Jacht.
 
-Silvia Longa lachte klingend — winkte...
+Silvia Longa lachte klingend — winkte …
 
 Der friedliche Schwielow-See hatte bis dahin wohl
-kaum eine solche Seeräuberszene erlebt wie jetzt...
+kaum eine solche Seeräuberszene erlebt wie jetzt …
 
 Harst schoß — drückte achtmal ab — zielte auf die
 Stelle, wo der Motor im Bootskörper der Jacht untergebracht
@@ -1237,13 +1237,13 @@ Deck jetzt die Herren vom Onyx-Film versammelt waren.
 
 Wir kletterten an Bord. Der Regisseur Perl, eine
 Berühmtheit, fuchtelte wild mit den Händen vor Haralds
-Gesicht hin und her...
+Gesicht hin und her …
 
-»Herr Harst, — was soll das?! Sie... haben ja
+»Herr Harst, — was soll das?! Sie … haben ja
 geschossen!!«
 
 Harald nahm langsam die weiße Greisenperücke und
-den Bart ab...
+den Bart ab …
 
 »Herr Perl, beruhigen Sie sich. Ich schoß nicht auf
 Sie. Silvia Longa wird die Kriminalpolizei jetzt wohl
@@ -1259,7 +1259,7 @@ die Prau dann steuerlos dem Ostufer zutrieb, wo Dortschakoffs
 Leiche im Walde verscharrt wurde? Wissen Sie,
 daß Ihre Diva die Filmaufnahme durch Beseitigung der
 Prau verhindern wollte, da sie es der Prinzessin, ihrer
-Milchschwester, nicht gönnte, die Rolle der...«
+Milchschwester, nicht gönnte, die Rolle der …«
 
 Herr Siegfried Perl kreischte jetzt:
 
@@ -1271,13 +1271,13 @@ traue ich solch einen infamen Streich schon zu!«
 Prinzessin geschickt hatte, damit er sie in dem Hause in Tegel
 zurückhielte.«
 
-Perl ballte die Fäuste...
+Perl ballte die Fäuste …
 
 »Ah — und mir hat sie erzählt, die Prinzessin habe
-den Gedanken, die Rolle der Gefangenen zu spielen, aufgegeben...
-Die... die Kanaille! Statt der Prinzessin
+den Gedanken, die Rolle der Gefangenen zu spielen, aufgegeben …
+Die … die Kanaille! Statt der Prinzessin
 fand sie sich heute hier ein — triumphierend, daß sie nun
-doch...«
+doch …«
 
 Harst unterbrach ihn.
 
@@ -1294,7 +1294,7 @@ faßt man die Diva noch ab — hoffentlich!« —
 Unser Boot ratterte, knatterte davon.
 
 Harst telegraphierte nicht, sondern telephonierte mit
-Fritz Bechert, Kriminalkommissar...
+Fritz Bechert, Kriminalkommissar …
 
 Und Bechert tat alles, Silvia Longa noch abzufangen.
 Doch die Diva hatte sich gehütet, in ihre Wohnung zurückzukehren.
@@ -1348,7 +1348,7 @@ Chloroform betäubt.
 England der Polizei den Raub der Juwelen gemeldet?«
 fragte Harald dann die Tochter Dortschakoffs.
 
-Und — die schwieg... schwieg beharrlich.
+Und — die schwieg … schwieg beharrlich.
 
 Ich dachte sofort an das Kruzifix, dachte noch an so
 manche ungelöste Frage dieses Problems. —
