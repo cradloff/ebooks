@@ -2,7 +2,7 @@
 
 <#include "*/intro_short.ftl">
 
-<h2>1. Kapitel</h2>
+<h2>1. Kapitel.</h2>
 
 »Die Unsicherheit in Berlin nimmt in erschreckender
 Weise zu,« sagte Harald Harst zu mir, als er die Abendzeitungen
@@ -21,7 +21,7 @@ auf die vom Abendrot vergoldeten Kronen der
 Bäume. Seine Zigarette, die er zwischen den Fingern der
 Rechten hielt, sandte einen gekräuselten Qualmfaden in die
 Höhe und hatte bereits eine lange Aschenspitze. Ich wunderte
-mich, daß er sie nutzlos weiter glimmen ließ, wunderte
+mich, daß er sie nutzlos weiterglimmen ließ, wunderte
 mich noch mehr, daß er die Augen immer mehr zusammenkniff,
 als gäbe es da draußen in den Lindenkronen
 etwas besonderes zu sehen.
@@ -73,7 +73,7 @@ Herr Schraut?«
 
 »Einen Verdacht hat er. — Da —!« Und ich deutete
 in den Hof hinab, wo Harald gerade die Leiter von der
-Stallwand abholte und sie nun zu der Linde trug. —
+Stallwand abhakte und sie nun zu der Linde trug. —
 
 Gleich darauf standen wir in Harsts Arbeitszimmer
 unter der elektrischen Krone und besichtigten den Drachen.
@@ -109,7 +109,7 @@ Uhr seiner etwas abgelegenen Villa zuschritt, ganz plötzlich
 überfallen, niedergeschlagen und völlig ausgeplündert.
 Außer einer goldenen Uhr mit Platinkette und
 Brillantringen vermißt Herr R. eine Brieftasche mit
-250 000 Mark Inhalt, ferner einen Briefumschlag mit
+250&nbsp;000 Mark Inhalt, ferner einen Briefumschlag mit
 Papieren, die er in der inneren Westentasche bei sich trug.
 Herr R. hat für die Wiederherbeischaffung dieser Gegenstände,
 hauptsächlich des Briefumschlags, eine Belohnung
@@ -279,7 +279,7 @@ an, als er sich eine Zeitung kaufte.
 Harald, jetzt ohne falschen Backenbart, hörte, daß Riemer
 dem Bekannten mitteilte, er müßte auf seinem Gute
 <@pagebreak/>
-Eberswalde etwas erledigen und würde morgen abend
+bei Eberswalde etwas erledigen und würde morgen abend
 wieder in Berlin sein.
 
 »Dann brauchen wir ihn nicht zu begleiten,« meinte
@@ -294,7 +294,7 @@ mir nicht. —
 Auf dem Potsdamer Platz verließen wir die Straßenbahn
 und gingen die Gasse zum Wannseebahnhof hinab.
 Harald steckte sich eine seiner Zigaretten an. Er rauchte
-nur seine Spezialmarke Mirakulum, obwohl — auch dies
+ja nur seine Spezialmarke Mirakulum, obwohl — auch dies
 muß erwähnt werden — der Preis der süßlich duftenden
 Dinger jetzt seine Verhältnisse weit überstieg. Der Krieg
 und dessen Folgen hatten ja aus dem Millionär Harald
@@ -320,7 +320,7 @@ falsch. Es war ein Motorrad mit einem zweiten Japaner
 auf dem Anhängesitz.«
 
 <@pagebreak/>
-Ich, gewohnt an solche Überraschungen meinte nur:
+Ich, gewohnt an solche Überraschungen, meinte nur:
 
 »Folgten sie uns von der Blücherstraße an?« (Dort
 liegt ja das Harstsche Grundstück.)
@@ -446,14 +446,14 @@ Pronke, der hier nicht praktizierte, sondern in Berlin bei
 einem Zahnarzt beschäftigt war und hier nur möbliert
 wohnte.
 
-»Komm jetzt mit,« meinte Hand vor dem Hause,
+»Komm’ jetzt mit,« meinte Harald vor dem Hause,
 das unweit des Bahnhofs lag. »Willi Pronke kann unser
 Mann sein. Der Beamte sagte ja auf dem Gemeindeamt,
 Pronke sei noch jung. Ein älterer Herr trägt solche Batisttücher
 mit buntem Rande kaum. Nur die Jugend ist
 meist eitel.«
 
-Wir leuteten in der zweiten Etage bei der Witwe
+Wir läuteten in der zweiten Etage bei der Witwe
 Kammler an. Dort wohnte Pronke. Seine Visitenkarte
 hing an der Tür.
 
@@ -488,7 +488,7 @@ Morgen.« —
 
 Auf der Straße faßte Harst mich unter.
 
-»Fein, was« schmunzelte er. »Das nennt man
+»Fein, was?« schmunzelte er. »Das nennt man
 Dusel haben. Ungeheuren Dusel. Willi Pronke, zur Zeit
 ohne Stellung, eitel, anspruchsvoll, jung! Da kann er
 aus Mangel an Kleingeld recht gut mal versuchsweise den
@@ -507,7 +507,7 @@ Ich werde ihm sagen, daß die Drachengeschichte von mir
 bereits durchschaut ist. — Los denn!«
 
 Wir kehrten um, fragten diesen und jenen und kamen
-schließlich auch vor die richtige Villa, die nur durch drei
+schließlich auch vor die richtige Villa, die — nur durch drei
 Grundstücke von der Riemers getrennt war. Sie lag so,
 daß sie von drei Seiten von Wald umgeben war, den man
 nicht zum Garten zurechtgestutzt hatte. Dieser Garten war
@@ -541,17 +541,17 @@ lassen.«
 Der elegante Japaner zuckte zusammen.
 
 »Ah — Sie wissen?« stammelte er. — Er tat mir
-leid. Er war so verblüfft, daß er geradezu komisch wirkte.
+leid. Er war so verblüfft, daß es geradezu komisch wirkte.
 
 »Nun, Sie geben alles zu, Hoheit. Das klärt die Lage.
-Ich bin für Kürze. Also die Papiere, die dem früheren
+Ich bin für Kürze. Also: die Papiere, die dem früheren
 Konsul Riemer in der vorvergangenen Nacht mit geraubt
 wurden, sind von Interesse für Sie?«
 
 Der Prinz hatte sich gefaßt. Er blickte zu Boden und
 überlegte.
 
-Nun schaute er Harald mit etwas erzwungenem
+Dann schaute er Harald mit etwas erzwungenem
 Lächeln an.
 
 »Ja, Mr. Harst. Die Papiere sind für mich wertvoll,«
@@ -601,7 +601,7 @@ den Ulster auf und — ich erschrak etwas — und faßte in
 die linke Brusttasche seiner Jacke, tat, als holte er dort
 sein Taschentuch hervor und nahm zugleich mit diesem die
 kleine Clementpistole heraus, legte sie sich in den Schoß
-und deckte den Mantel vorüber. Dann schneuzte er sich
+und deckte den Mantel darüber. Dann schneuzte er sich
 kräftig, nickte mir ernst zu und steckte das Tuch wieder in
 die Tasche.
 
@@ -610,7 +610,7 @@ einem Teebrett, auf dem eine kostbare japanische Teekanne
 aus Altsilber und drei silberne winzige Täßchen standen.
 
 Aus dem kurzen Halse der Teekanne stieg Dampf auf.
-Sie war also gefüllt. Drei Tassen dazu — der Prinz wollte
+Sie war also gefüllt. Drei Tassen dazu: der Prinz wollte
 uns Tee anbieten.
 
 Harald blickte seltsam starr auf das Tischchen. Seine
@@ -818,7 +818,7 @@ einmal anzusehen. Wollen Sie mit?«
 Harst schaute an Bechert vorbei durch das offene Verandafenster
 auf die Lindenkronen, nickte und meinte:
 
-»Eberswalde! Ja, da fahren wir mit!«
+»Eberswalde! Ja, da fahren wir mit!« —
 
 Ein Auto brachte uns in einer Stunde nach der idyllischen
 Stadt, brachte uns weiter nordwestlich bis an den
@@ -905,7 +905,7 @@ ist’s?«
 
 »Otto Riemer —«
 
-»Riemer — der — der Konsul a. D.?«
+»Riemer — der — der Konsul a.&nbsp;D.?«
 
 »Ja —«
 
@@ -962,7 +962,7 @@ nachsichtig.
 Dann blieb sie stehen. »So, wenn die Herren nun hier
 diesen Pfad immer geradeaus gehen, werden Sie an eine
 Schneise kommen,« erklärte sie. »An der Schneise gehn
-Sie rechts in den Wald. Da lagern die Zigeuner auf einer
+Sie rechts ins Tal hinab. Da lagern die Zigeuner auf einer
 Lichtung.«
 
 Wir bedankten uns. Harald gab ihr tausend Mark
@@ -998,7 +998,7 @@ sie zu ihrem Manne, »Jankel, tu’s! Ein so schönes Stück
 Geld!«
 
 Riemer zog seine Brieftasche hervor. »Ich lege noch
-250 000 Mark zu,« erklärte er. »Nun, entweder — oder!«
+250&nbsp;000 Mark zu,« erklärte er. »Nun, — entweder — oder!«
 
 Da nickte der Zigeuner. »Gut denn, Herr. Es sei!«
 
@@ -1027,7 +1027,7 @@ schon in den nächsten Minuten einsehen.
 Plötzlich betrat ein schlanker, kaum achtzehnjähriger
 Bursche die Lichtung. Jankel rief ihn sofort an.
 
-»Komm, hilf uns, Matthis, — rasch!«
+»Komm’, hilf uns, Matthis, — rasch!«
 
 So war dieser Matthis also der Erwartete. — Wer
 aber war der Tote?! Ich hätte Harald so gern einiges
@@ -1042,9 +1042,9 @@ Knirps schleppte sich mit einem gefüllten Sack.
 
 Riemer bezahlte nun Jankel den Kaufpreis für die
 Wagen, Pferde und Geschirre. Ich traute meinen Ohren
-nicht. Es waren zwei und eine Viertel Million!
+nicht: Es waren zwei und eine Viertel Million!
 
-Die Bande verschwand im Gänsemarsch, der Sohn
+Die Bande verschwand. Im Gänsemarsch, der Sohn
 Matthis als letzter, tauchten sie im Dunkel des Waldes
 unter.
 
@@ -1094,12 +1094,12 @@ Also doch! Riemer hatte sie versenkt!
 Er eilte schon wieder dem Walde zu. Mich dauerte
 das zweite Pferd. Sollte ich es ebenfalls ersäufen lassen?
 
-Wenn nur Harald dagewesen wäre! Wenn er mich
+Wenn nur Harald da gewesen wäre! Wenn er mich
 nur vorher von seinen Verdachtsgründen genau unterrichtet
 hätte! Dann wäre es mir leicht gewesen, einen Entschluß
 zu fassen!
 
-Ich war an derselben Stelle stehengeblieben. Und ich
+Ich war an derselben Stelle liegen geblieben. Und ich
 behielt recht: Riemer nahte mit dem zweiten Pferde und
 dem Wägelchen.
 
@@ -1146,7 +1146,7 @@ nach Eberswalde telephonieren.«
 »Und — wer ist der Tote?« fragte ich gereizt. Ich
 war es satt, im Dunkeln zu tappen.
 
-»Weißt zu es wirklich nicht, lieber Alter? Ich denke,
+»Weißt Du es wirklich nicht, lieber Alter? Ich denke,
 die Sache liegt doch so klar. Wir waren doch heute mittag
 auf der japanischen Botschaft in Berlin und sprachen
 mit einem Botschaftsrat über den Prinzen Hotowatu.«
@@ -1154,7 +1154,7 @@ mit einem Botschaftsrat über den Prinzen Hotowatu.«
 »Allerdings. Du erklärtest dem Herrn, daß die Frau
 des Adjutanten des Prinzen nach uns bei der Wirtin des
 Zahntechnikers Willi Pronke gewesen sei und von dieser
-genau dasselbe erfahren habe, was wir aus ihr herauslockten,
+genau dasselbe erfahren habe, was wir aus ihr herauslockten:
 daß Pronke das Batisttuch gehöre und daß er
 gestern abend verreist sei.«
 
@@ -1164,7 +1164,7 @@ herausrufen und teilte ihm mit, daß Pronke den
 Konsul beraubt habe. Daraufhin beschloß der Prinz, der
 nun durch uns, ganz wie er gehofft hatte, auf die Spur des
 Straßenräubers und des jetzigen Besitzers der Papiere
-geleitet worden war, uns für ewige Zeit auszuschalten.
+geleitet worden war, uns für einige Zeit auszuschalten.
 Er wollte uns durch den Tee betäuben und in der Villa bis
 auf weiteres gefangen halten, bis er eben die Papiere
 Pronke abgenommen und sich und sein Gefolge in Sicherheit
@@ -1195,7 +1195,7 @@ Eberswalde an Inspektor Ringler, der denn auch sofort mit
 Bechert im Auto herauskommen wollte.
 
 Wir aßen rasch etwas zu Abend und wandten uns
-dem nahen Gute zu. Es war jetzt etwas nach elf
+dann dem nahen Gute zu. Es war jetzt etwas nach elf
 Uhr. Der Mond war soeben über dem Waldrande aufgetaucht.
 Leichter Nebel lag hier im Tale. Es war kühl
 geworden. Der Herbst meldete sich. Einzelne Blätter
@@ -1225,7 +1225,7 @@ und beugte sich hinaus.
 »Ist dort jemand?« fragte er nicht allzu laut.
 
 Mit einem Male bückte er sich ruckartig ganz tief. Wir
-sahen wir noch seine Beine. Er rutschte dann völlig nach
+sahen nur noch seine Beine. Er rutschte dann völlig nach
 draußen, richtete sich vor dem Fenster auf, kletterte blitzschnell
 hinein und verschwand.
 
@@ -1248,7 +1248,7 @@ wünschenswert gewesen wäre.
 Da gewahrte ich noch drei schattengleiche Gestalten, die
 der Hauptpforte zuhuschten.
 
-»Herunter, Harald, sie fliehen bereits!« rief ich leise.
+»Herunter, Harald, — sie fliehen bereits!« rief ich leise.
 
 »Verwünschte Drähte!«
 
@@ -1301,9 +1301,9 @@ Dort strahlten zwei Scheinwerfer.
 Bechert und Ringler nahten hastig. Wieder genügten
 ein paar Sätze Haralds. Dann nahm er dem Inspektor die
 Laterne ab, schritt dem Hause zu, der niederen Hecke vor den
-Fenster.
+Fenstern.
 
-Und im Schatten der Hecke lag Otto Riemer — tot
+Und im Schatten der Hecke lag Otto Riemer — tot,
 erwürgt, mit halb zertrümmertem Schädel.
 
 Harald schaute sich die Leiche nur flüchtig an.
@@ -1322,9 +1322,9 @@ Zimmer, dessen Fenster vorhin erleuchtet gewesen.
 
 Der Schreibtisch zwischen den Fenstern war durchwühlt.
 <@pagebreak/>
-Papiere und anderes lag auf dem Boden herum.
+Papiere und anderes lagen auf dem Boden herum.
 
-Harst befahl nichts anzurühren, bis Bechert und Ringler
+Harst befahl, nichts anzurühren, bis Bechert und Ringler
 kämen. Bechert war ebenfalls in das Gutskontor gelaufen,
 um Ringler einige Winke über die Absperrung
 der Straßen zu geben.
@@ -1359,7 +1359,7 @@ Eberswalde ein.
 
 Harald gab alles zu Protokoll. Der die Untersuchung
 führende Richter war nur mit einer von Harsts logischen
-Folgerungen nicht ganz einverstanden: Daß Riemer die Zigeuner
+Folgerungen nicht ganz einverstanden: daß Riemer die Zigeuner
 so hastig weggeschickt hätte, damit diese nicht verrieten,
 daß der Zahntechniker ihnen den Zigeuneranzug abgekauft
 hatte.
@@ -1412,7 +1412,7 @@ telephonierte er.
 Dann kehrten wir mit den Herren der Gerichtskommission
 nach Eberswalde zurück. Mittags waren wir wieder
 daheim. Um sechs Uhr nachmittags besuchte uns der
-japanische Botschaftsrat Graf Sadokato und bat Harald
+japanische Botschaftsrat Graf Sadokato und bat Harald,
 im Auftrage der japanischen Regierung nach dem Prinzen
 Hotowatu zu suchen, der doch offenbar während der Überfahrt
 <@pagebreak/>
@@ -1441,8 +1441,7 @@ Swinemünde eingetroffen und dort an Bord einer japanischen
 Jacht gegangen. Jacht sofort in See, unbekannt
 wohin. Habe Verfolgung veranlaßt. Zwei Flottillen
 Minensuchboote sofort Verfolgung aufgenommen.
-
-> Gruß — Ringler.«
+— Gruß — Ringler.«
 
 »Eine große Sache muß es sein — sehr groß,« meinte
 Harald sinnend. »Die Papiere müssen viele Millionen wert

@@ -39,7 +39,7 @@ Narrow, ein Witwer von einigen fünfzig Jahren, empfing
 uns überaus liebenswürdig. Er saß gerade mit seinem
 Privatsekretär John Laccemoor bei der Arbeit, das
 heißt, er diktierte Briefe, Depeschen und ließ seine Milliarden
-eben wie ein Heer zum Kampf aufmarschieren.
+wie ein Heer zum Kampf aufmarschieren.
 
 Wir mußten Platz nehmen. »Warten Sie einen Augenblick.
 Ich bin sofort fertig,« sagte er und wandte sich
@@ -88,7 +88,7 @@ Ist das nicht geradezu toll, Mr. Harst?!«
 
 »Wann erhielten Sie die Depesche?«
 
-»Am 13. Oktober abends — ausgerechnet, am dreizehnten!«
+»Am 13. Oktober abends — ausgerechnet am dreizehnten!«
 
 »Die Nevada hat also Funksprucheinrichtung. — Über
 den Absendeort der Depesche ist nichts bekannt?«
@@ -127,7 +127,7 @@ Er reichte Harald ein mit Bleistift beschriebenes Blatt.
 
 <@pagebreak/>
 
-»Nach Ihrer Abreise habe ich Miß E. dreimal in Begleitung
+> »Nach Ihrer Abreise habe ich Miß E. dreimal in Begleitung
 zweier Herren gesehen. Europäer, mir und hier
 unbekannt. Einmal begegnete ich Miß E. tief verschleiert
 zu Fuß im Eingeborenenviertel. Sie kam aus dem
@@ -168,7 +168,7 @@ Die Depesche lautete:
 > »Detektiv Connword hat durch Bestechung eines
 Angestellten Mirzas festgestellt, daß Miß E. dreimal bei
 dem Wucherer war und dort ihren Schmuck verpfändet
-hat. Sie erhielt dafür 20 000 Pfund Sterling.
+hat. Sie erhielt dafür 20&nbsp;000 Pfund Sterling.
 Connword behauptet, daß Liebesgeschichte mitspielt. — Ermig.«
 
 Laccemoor hatte die Depesche übertragen. Als
@@ -188,7 +188,7 @@ reichliches Taschengeld, Mr. Narrow?«
 
 »Allerdings! Sie hat’s wahrlich nicht nötig, Schmuck
 zu versetzen! — Wie konnte sie nur! Wozu brauchte sie
-20 000 Pfund?!«
+20&nbsp;000 Pfund?!«
 
 Der stattliche Mann grübelte finster vor sich hin.
 
@@ -254,7 +254,7 @@ Laß nicht nach uns suchen.«
 Ja — Narrow hatte ganz recht: die Depesche war ein
 tolles Stück! — Und dann Evelyn in Bombay: zwei fremde
 Europäer, der Wucherer Hassan Mirza! — Da war schwer
-ein Vers drauf zu machen! —
+ein Vers draus zu machen! —
 
 Kurz vor zwölf hörte ich, daß die Ankerketten der Rania
 Maru durch die Klüsen rasselten. Dann begannen die
@@ -441,7 +441,7 @@ genau aufgetragen, was er mir ausrichten sollte. — Es war
 dies folgendes: Evelyn hatte in Bombay sofort nach unserer
 Abreise sich in ein Hotel begeben, wo zwei Amerikaner,
 William Prenn und Allan Orkry, wohnten. Diese beiden
-waren dann, nachdem Evelyn ihnen die 20 000 Pfund, den
+waren dann, nachdem Evelyn ihnen die 20&nbsp;000 Pfund, den
 Erlös aus der Verpfändung ihrer Juwelen, übergeben
 <@pagebreak/>
 hatte, mit einem Heuerbas in Verbindung getreten, der für
@@ -765,9 +765,10 @@ und ging mit ihm nach der anderen Seite davon.«
 wertvoll —«
 
 Dann schritten wir weiter. Harst faßte mich unter.
+
 »Du — Evelyn hat also ebenfalls einen Spion hier
 <@pagebreak/>
-zurückgelassen!« flüsterte er erregt. »Jetzt wird die Erde
+zurückgelassen!« flüsterte er erregt. »Jetzt wird die Sache
 gefährlich. Orkry weiß fraglos, wer wir sind. Ich wollte
 eigentlich sofort zu dem persischen Wucherer gehen, aber —
 Vorsicht ist besser! Kehren wir an Bord der Rania Maru
@@ -797,7 +798,7 @@ Ansicht zu sein?«
 
 »Sie nicht, Mr. Harst?«
 
-»Ich möchte erst ihre Meinung hören —«
+»Ich möchte erst Ihre Meinung hören —«
 
 »Oh — die würde Mr. Narrow vielleicht für unsinnig
 erklären!«
@@ -962,7 +963,7 @@ Zum Schein handelte der Wucherer mit Seidenstoffen,
 <@pagebreak/>
 Turbantüchern und billigen Goldwaren. Sein
 schräger Auslagetisch reichte bis auf die Straße hinaus und
-war mit einem vielfach gestickten Sonnenschutzdach überspannt.
+war mit einem vielfach geflickten Sonnenschutzdach überspannt.
 
 Wir stellten uns vor dem Tische auf und besichtigten
 laut sprechend und lachend die Waren. Sofort erschien auch

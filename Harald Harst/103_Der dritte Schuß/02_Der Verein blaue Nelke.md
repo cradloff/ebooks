@@ -1,6 +1,6 @@
 <@pagebreak 35/>
 
-<h1>Der Verein »blaue Nelke.«</h1>
+<h1>Der Verein »blaue Nelke«.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -46,11 +46,11 @@ Sie erklärte, sie habe zwar die in einem Glase Wasser
 stehende Nelke sofort auf dem Nachttischchen am Kopfende
 des Bettes bemerkt, jedoch angenommen, daß es sich
 hier um eine Aufmerksamkeit des Stubenmädchens der
-Pension handeln könnte...
+Pension handeln könnte …
 
 »Erst nachdem ich zur Ruhe gegangen und die Nachttischlampe
 ausgeschaltet hatte, begann mich der sehr kräftige
-Nelkenduft zu stören,« fuhr sie fort: »So sehr ich auch
+Nelkenduft zu stören,« fuhr sie fort. »So sehr ich auch
 Wohlgerüche liebe, — dieser Geruch war mir in seiner Aufdringlichkeit
 zuwider. Ich schaltete das Lämpchen wieder
 ein und wollte die Nelke mit dem Glase draußen auf das
@@ -73,7 +73,7 @@ der Pension vorzufinden glaubte. Daß Sie, Herr Harst,
 den mir so widerwärtigen Burton bereits entlarvt hatten,
 ahnte ich nicht.«
 
-»Der Tropfen ist Amylhidrit,« erklärte der Professor
+»Der Tropfen ist Amylhydrit,« erklärte der Professor
 jetzt. »Also ein Gift, das schon durch Einatmen den
 sofortigen Tod herbeiführt.«
 
@@ -93,15 +93,15 @@ wünschte.
 Wir waren so mit einem Male in Nr. 3 allein.
 Harald hatte die Nelke noch in der Hand.
 
-»Wenn Du sie besichtigen willst...«, meinte er und
+»Wenn Du sie besichtigen willst …«, meinte er und
 hielt sie mir hin.
 
-»Danke...«
+»Danke …«
 
 Er schaute mich sonderbar an.
 
 »Es gibt noch etwas zu sehen,« sagte er leise. »Die
-Nelke hat eine... Nummer — Bitte...«
+Nelke hat eine … Nummer. — Bitte …«
 
 Und er wies auf eine Stelle des Blumenstieles etwa
 vier Zentimeter unter der Blüte.
@@ -116,9 +116,9 @@ Harald legte die Nelke auf den Schreibtisch.
 
 »Ja. Eine numerierte Nelke. Immerhin merkwürdig.«
 Und er feuchtete den rechten Zeigefinger an und fuhr
-über die Stelle des Stieles hin, die Zahl blieb sichtbar.
+über die Stelle des Stieles hin. Die Zahl blieb sichtbar.
 
-»Also Ölfarbe, mein Alter...!«
+»Also Ölfarbe, mein Alter …!«
 
 Er griff nach einem Radiermesser, das auf der Schreibtischplatte
 lag, und kratzte die Zahl vorsichtig weg, drückte
@@ -154,20 +154,20 @@ empor. Auf der Halenseer Brücke blieb Harald
 plötzlich stehen.
 
 Von Südwest, wo etwa der Flugplatz Johannistal
-liegen mußte, kam ein grauweißer Benzinvogel ziemliche
+liegen mußte, kam ein grauweißer Benzinvogel ziemlich
 niedrigen Fluges daher, hinter sich eine feine Rauchfahne
 ziehend.
 
 Harst schaute empor.
 
-»Das war auch einer...!« sagte er mehr zu sich
+»Das war auch einer …!« sagte er mehr zu sich
 selbst.
 
 Er war schon seit Minuten tief in Gedanken gewesen.
 
 »Auch einer?!« meinte ich fragend.
 
-»Ja — der bekannte Luftpilot Edward Jolling...«
+»Ja — der bekannte Luftpilot Edward Jolling …«
 Er sprach noch immer wie geistesabwesend.
 
 Jolling?! Was war doch mit diesem Jolling letztens
@@ -195,7 +195,7 @@ plötzlich aus tausend Meter Höhe in die See gestürzt,
 war nur als Leiche geborgen worden. —
 
 Mein Gedächtnis versagte jetzt nicht mehr. Ich drehte
-den Kopf nach rechts...
+den Kopf nach rechts …
 
 »Harald, man fand in Jollings fest zusammengekrampfter
 rechter Hand eine blaue Nelke,« sagte ich hastig.
@@ -216,31 +216,31 @@ Rundschau las ich’s im Juni dieses Jahres. Es war der
 Direktor der neuen Gasanstalt in Kopenhagen. Er starb
 am Eröffnungstage des Riesenwerkes inmitten der geladenen
 Gäste, die die weiten Baulichkeiten besichtigten. Wie
-er hieß, ist mir entfallen. Nicht entfallen ist mir, daß er
-in der Linken nach seinem jähen Umsinken eine...«
+er hieß, ist mir entfallen. *Nicht* entfallen ist mir, daß er
+in der Linken nach seinem jähen Umsinken eine …«
 
-»... blaue Nelke umklammert hielt,« vollendete ich
+»… blaue Nelke umklammert hielt,« vollendete ich
 atemlos.
 
 »Ja, so war’s. — Nun grübele ich darüber nach, wer
-der vierte gewesen, Ingeborg Svendson eingerechnet, der...«
+der vierte gewesen, Ingeborg Svendson eingerechnet, der …«
 
 <@pagebreak/>
 Er schwieg, ruckte hoch. Sein Körper straffte sich. Die
 grauen Augen bekamen Feuer.
 
 »Die Nummer — — die Nummer!« murmelte er.
-»Die Nummer acht! Wenn’s sieben wären, die bisher...
-Aber — es sind nur drei, nur ... drei...! Mir
+»Die Nummer acht! Wenn’s sieben wären, die bisher …
+Aber — es sind nur drei, nur … drei …! Mir
 fällt kein weiteres Ereignis dieser Art ein — keins, keins!
-— Gehen wir...!«
+— Gehen wir …!«
 
-Er hakte sich in meinen Arm ein, zog mich vorwärts...
+Er hakte sich in meinen Arm ein, zog mich vorwärts …
 
 »Du — ich wünschte, es wäre bereits zwölf Uhr mittags.
 Dann darf man wohl eine Dame besuchen, eine feine
 ältere Dame in Trauer, die Frau Kommerzienrat Dr.
-Rosenhein...«
+Rosenhein …«
 
 Mein Geist war rege.
 
@@ -251,13 +251,13 @@ starb er mit einer Nelke in der Hand?«
 Republik Mexiko hier in Berlin den Spitzen der Behörden
 aus Anlaß der Erneuerung des deutsch-mexikanischen Handelsvertrages
 im April dieses Jahres im Hotel Adlon gab.
-Er starb an der Festtafel an... Herzschlag, als er soeben
+Er starb an der Festtafel an … Herzschlag, als er soeben
 an einer blauen Nelke gerochen hatte.«
 
 Nun besann auch ich mich auf diesen Todesfall, der
 dem glänzenden Diner ein jähes Ende bereitet hatte.
 
-»Du argwöhnst, daß diese blauen Nelken...«
+»Du argwöhnst, daß diese blauen Nelken …«
 
 Er unterbrach mich. »Keine vorschnellen Schlüsse! Ich
 argwöhne nichts. Ich bin da lediglich auf ein paar seltsame
@@ -281,15 +281,15 @@ Zufälle handeln!
 kriminelle Momente sich herausfinden lassen,« sprach Harst
 weiter. »Alles Seltsame ist noch lange nichts Verdächtiges.
 Die Kommerzienrätin freilich kann das Seltsame
-zum Verdächtigen umgestalten, falls sie — nun, bitte...!«
+zum Verdächtigen umgestalten, falls sie — nun, bitte …!«
 
 »Falls sie die Nelke aufbewahrt hat,« erklärte ich sehr
 bestimmt.
 
-»So ist’s! Falls... — ich wage kaum darauf zu
+»So ist’s! Falls … — ich wage kaum darauf zu
 hoffen.«
 
-»Und — falls die Nelke eben numeriert ist...!«
+»Und — falls die Nelke eben numeriert ist …!«
 
 »Gewiß! Davon hängt alles ab — alles!« —
 
@@ -331,7 +331,7 @@ verlangen Sensationen.
 
 So waren denn also die Zeitungen bereits von den
 Vorfällen der Nacht unterrichtet. — Harst kaufte ein Exemplar
-der B. M. P., schaute hinein. »Leider — hier ist die
+der B.&nbsp;M.&nbsp;B., schaute hinein. »Leider — hier ist die
 blaue Nelke erwähnt,« meinte er ärgerlich.
 
 Dann standen wir dem Direktor des Hotels gegenüber.
@@ -372,7 +372,7 @@ Der Direktor verließ das Büro.
 
 Harst flüsterte mir zu: »Wenn dieser Spanier die Berliner
 Mittagspost gelesen hat, mag er in dem Sensationsartikel
-auch auf die blaue Nelke gestoßen sein und...«
+auch auf die blaue Nelke gestoßen sein und …«
 
 Die Tür ging auf. Die beiden Kellner traten ein.
 
@@ -450,17 +450,17 @@ können. Aus dem »Seltsamen« war bereits unzweifelhaft
 ein Kriminalfall geworden. Daß der Spanier Hilger
 gleichsam entführt hatte, damit dieser über den Tod des
 Kommerzienrats und über die Blumenverkäuferin nichts
-aussagen sollte, stand für mich fest, — ebenso, das diese
+aussagen sollte, stand für mich fest, — ebenso, daß diese
 Blumenverkäuferin dem Kommerzienrat eine Mordnelke
 hingelegt hatte.
 
-Also Rosenhein war ermordet worden — durch Amylhidrit!
+Also Rosenhein war ermordet worden — durch Amylhydrit!
 <@pagebreak/>
 Weshalb? Wer waren die Mörder? Auf wessen
 Auftrag hatte die Blumenverkäuferin gehandelt? Wer
 war diese Frau gewesen? Wer war der Spanier, der durch
-den Artikel in der Mittagspost veranlaßt worden, den Berliner
-Hilger schleunigst verschwinden zu lassen?
+den Artikel in der Mittagspost veranlaßt worden, den Kellner
+Hilger schleunigst verschwinden zu lassen? —
 
 Harst bog in die Bellevue-Straße ein. Und im Postamt
 am Potsdamer Platz gab er zwei gleichlautende Depeschen
@@ -520,7 +520,7 @@ für morgen übernommen habe. Er müsse den Auftraggeber
 erst anrufen und ihn bitten, sich noch ein paar Tage zu
 gedulden. »Es handelt sich nämlich lediglich um die Beobachtung
 eines nicht ganz einwandfreien Bankbeamten,
-gnädige Frau...« meinte er zum Schluß, — — was natürlich
+gnädige Frau …« meinte er zum Schluß, — — was natürlich
 nicht stimmte. Mit Beobachtungen gaben wir uns
 nicht ab.
 
@@ -528,18 +528,18 @@ Er trat an den Schreibtisch und rief eine Nummer
 an, sagte nach einer Weile ärgerlich:
 
 »Der Tischapparat ist wieder in Unordnung. Entschuldigen
-Sie, gnädige Frau... Ich will von meinem
+Sie, gnädige Frau … Ich will von meinem
 Schlafzimmer aus telephonieren.«
 
 Er war nur wenige Minuten draußen, als die Köchin
-mich eiligst in den Stall holte. Ein Marder sei im Hühnerstall... —
+mich eiligst in den Stall holte. Ein Marder sei im Hühnerstall … —
 
 So ließ ich denn die Dame allein.
 
-Harst stand auf dem Hofe...
+Harst stand auf dem Hofe …
 
 »Du wirst Dich schleunigst maskieren und der Seiler
-folgen, ich halte sie noch zehn Minuten hin,« sagte er
+folgen, ich halte sie schon noch zehn Minuten hin,« sagte er
 kurz. »Beeile Dich! Und sei vorsichtig!«
 
 Frau von Seiler fuhr zuerst nach der Kufsteiner
@@ -564,9 +564,9 @@ seit vier Tagen in Berlin weilt, wie der Polizeiwachtmeister
 in Saßnitz unauffällig und rasch herausgebracht
 hat. Sie hat uns also belogen, was ich übrigens sofort
 annahm. Ich würde mich nicht weiter wundern, wenn
-sie ... die Blumenverkäuferin gewesen ist. Es dürfte sich
+sie … die Blumenverkäuferin gewesen ist. Es dürfte sich
 empfehlen, heute nacht ihre Wohnung in der Kufsteiner
-Straße zu... besichtigen.« —
+Straße zu … besichtigen.« —
 
 Für den Abend hatten wir uns mit Svendsons, Barnö
 und Gulbranson im Kabarett Grüner Kater verabredet.
@@ -578,9 +578,9 @@ anderen Tischseite nicht beachteten, beugte sich Harald plötzlich
 zu Svendson hin und sagte halblaut, — und ich verstand
 jedes Wort:
 
-»Gestatten Sie eine Frage, Herr Svendson... Wissen
+»Gestatten Sie eine Frage, Herr Svendson … Wissen
 Sie, daß die blaue Nelke numeriert war? Sie trug die
-Zahl acht...!«
+Zahl acht …!«
 
 Der Erfolg dieser Frage war stärker, als Harst es
 hatte voraussehen können.
@@ -593,9 +593,9 @@ zurück.
 Wir beide brachten ihn in die Garderobe, wo er sehr
 bald wieder zu sich kam. Er schickte Ingeborg mit einem
 Scherzwort in den Saal zurück. Und — ergriff Harsts
-Hand...
+Hand …
 
-»Eine... eine Acht?« flüsterte er, und sein Gesicht
+»Eine … eine Acht?« flüsterte er, und sein Gesicht
 war nichts als nervenfressende Angst. »Wirklich — eine
 Acht?«
 
@@ -606,7 +606,7 @@ Svendsons starrer Blick, der wie gebannt auf Haralds
 Gesicht ruhte, war ebenso merkwürdig wie seine Gegenfrage.
 
 »Was ist’s mit Jolling? Wer ist das? Ich kenne
-keinen Jolling...!«
+keinen Jolling …!«
 
 »Sie kennen ihn. Ich würde Ihnen raten, offen zu
 sein, Herr Professor. Es geht hier doch um Ihrer Tochter
@@ -717,7 +717,7 @@ gediegenen Möbeln, waren fünf Personen anwesend:
 vier Herren und Frau v. Seiler. Einer der Herren, ohne
 Zweifel der Spanier, lehnte in einem Sessel, die Beine
 zwanglos übereinander geschlagen. Frau v. Seiler und ein
-anderer jüngerer Herr saßen auf dem mit golddurchwirkten
+anderer jüngerer Herr saßen auf dem mit golddurchwirktem
 Brokatstoff bezogenen niederen Sofa, und die beiden außerdem
 noch vorhandenen Gentlemen — die Herren trugen
 Frackanzüge von erstklassigem Schnitt — standen an der
@@ -743,7 +743,7 @@ Haltung dabei änderte und sich langsam erhob.
 Mein leichter Sektrausch war verflogen.
 
 Harald nahm den hellen weichen Filzhut ab und verbeugte
-sich vor Villamara...
+sich vor Villamara …
 
 »Herr Graf Villamara, nicht wahr? — Für eine halbe
 Stunde wollen wir Sie anhören.« Das klang genau so
@@ -755,10 +755,10 @@ gleichfalls mein spärlich behaartes Haupt.
 »Sie gestatten, meine Herren,« sagte der Spanier etwas
 förmlich. »Dort Frau v. Seiler, die Sie ja bereits
 kennen. Dort Lord Windraymoor, dort Baron Löwengaard
-und van Zuiten...« — Seine die einzelnen
+und van Zuiten …« — Seine die einzelnen
 Personen andeutende Hand reckte sich jetzt vor und wies
 in die linke Zimmerecke neben dem Fenster. »Und dort
-Herr James Burton, unser Gefangener...«
+Herr James Burton, unser Gefangener …«
 
 Ich blickte hin. Ich sah Burton erst jetzt, sah, daß man
 ihn auf einen schweren geschnitzten Sessel gefesselt und
@@ -767,7 +767,7 @@ geknebelt hatte.
 Ich sah auch, daß sein Gesicht ohne jede Farbe und
 das Augenpaar wie verschleiert war.
 
-»Wollen Sie bitte Platz nehmen...« — Der Graf
+»Wollen Sie bitte Platz nehmen …« — Der Graf
 <@pagebreak/>
 zeigte auf zwei Klubsessel aus Saffianleder, die an der
 dem Sofa gegenüberliegenden Wand standen.
@@ -813,12 +813,12 @@ Graf. — Ich denke, wir wollen unsere gegenseitigen Beziehungen
 ohne Umschweife klarstellen. Sie und Ihre
 Freunde hier, Herr Graf, haben, soweit mir bisher bekannt,
 drei Menschen ermordet und zwei andere, den Professor
-und dessen Tochter, ermorden lassen wollen. Ich...«
+und dessen Tochter, ermorden lassen wollen. Ich …«
 
 »Verzeihung. Letzteres ist ein Irrtum, Herr Harst.«
 
 »Ich verstehe: Burton sollte nur Svendson ermorden.
-Burton ist einer...«
+Burton ist einer …«
 
 »Er hat seine Befugnisse weit überschritten,« fiel Villamara
 Harald wiederum ins Wort. »Wir merkten seine
@@ -857,7 +857,7 @@ die ersten Worte, die die Grenze untadeliger Höflichkeit
 Zum ersten Male meldete sich jetzt auch Frau v. Seiler.
 
 <@pagebreak/>
-»Graf, wollen wir nicht doch lieber...« — In diese
+»Graf, wollen wir nicht doch lieber …« — In diese
 zögernde Einleitung ihres fraglos dahin gerichteten Vorschlags,
 Burton zu schonen, platzte der blonde Lord Windraymoor
 hinein:
@@ -944,9 +944,9 @@ nieder.
 Er überlegte.
 
 »Herr Harst,« meinte er dann. »Burton könnte nichts
-zu seiner Entschuldigung anführen. Gar nichts. Ich...«
+zu seiner Entschuldigung anführen. Gar nichts. Ich …«
 
-In demselben Moment ein metallisches Knacken...
+In demselben Moment ein metallisches Knacken …
 
 Herr van Zuiten hatte abgedrückt, hatte glänzend getroffen.
 <@pagebreak/>
@@ -984,7 +984,7 @@ hier sollte an die Nerven ungeheure Anforderungen stellen.
 
 Die Nelke befand sich dicht vor Burtons Lippen. Ich
 merkte, daß Burton den Atem anhielt. Er wußte: ein
-Atemzug, und er war... hinüber!
+Atemzug, und er war … hinüber!
 
 Er bog den Kopf zurück. Die Nelke in des unerbittlichen
 Henkers Hand folgte.
@@ -994,7 +994,7 @@ erlaubte ihm nur, durch die Nase zu atmen. Er warf den
 Kopf verzweifelt hin und her. Die Nelke folgte ihm. Sein
 Gesicht rötete sich, wurde blaurot.
 
-Da schloß ich die Augen...
+Da schloß ich die Augen …
 
 Dieser Kampf da war entsetzlich.
 
@@ -1003,11 +1003,11 @@ Und hörte des Grafen harte Stimme: »Burton, denken
 Sie an Santa Rocka! Denken Sie an die Sonne, die
 dort menschliche Leiber ausdörrte! Sie waren der Verführer
 der anderen. Ihrem Hirn entsprang der verruchte
-Gedanke...«
+Gedanke …«
 
-Dann vernahm ich ein Röcheln...
+Dann vernahm ich ein Röcheln …
 
-Und dann... Stille...
+Und dann … Stille …
 
 Und leise Schritte über den Teppich.
 
@@ -1015,7 +1015,7 @@ Und leise Schritte über den Teppich.
 setzte, sah Burton leblos in den Fesseln hängen, sah Frau
 v. Seiler in der Sofaecke gegen eine Ohnmacht ankämpfen.
 
-Harald starrte zu Boden. Die Augen halb mit der linken
+Harald starrte zu Boden, die Augen halb mit der linken
 Hand bedeckt, den linken Ellenbogen aufgestützt haltend.
 
 »Es ist der vorletzte,« sagte der Spanier nun. Die
@@ -1045,9 +1045,9 @@ durch die Bleigeschosse der Stutzen.
 »Haben Sie sich das reiflich überlegt?« fragte der Spanier
 in überredendem Tone. — Harst blieb stumm.
 
-»Dann — —«, sagte Villamara gedehnt, »dann —
+»Dann — —,« sagte Villamara gedehnt, »dann —
 — müssen wir Sie beide mit uns nehmen. Sie werden
-unsere Zukunft teilen, bis... wir für die Welt verschwunden
+unsere Zukunft teilen, bis … wir für die Welt verschwunden
 <@pagebreak/>
 sind. — Wollen Sie gutwillig ein starkes Schlafmittel
 trinken?!«
@@ -1077,8 +1077,8 @@ Rocka, zu Mördern werden?! — Ich kenne das Drama
 von Santa Rocka. Vor acht Jahren ging ein Dampfer, der
 von Singapore nach Australien bestimmt war, im Orkan
 unter. Ein einziges Boot, mit Schiffbrüchigen vollgepfropft,
-rettete sich. Es war das kleinste Boot. Von den... Insassen...
-konnten... nur...«
+rettete sich. Es war das kleinste Boot. Von den … Insassen …
+konnten … nur …«
 
 Genau so, wie seine Stimme leiser und mühsamer
 wurde, kroch mir eine nicht zu bewältigende Schlafsucht in
@@ -1136,7 +1136,7 @@ Bord der Motorjacht des Doktors gehen — in Stralsund!
 
 Ich begriff alles: die fünf Verbündeten lauerten hier
 der Motorjacht auf! Svendson war nun an der Reihe, der
-blauen Nelke Opfer zu werden! Als... letzter! Der
+blauen Nelke Opfer zu werden! Als … letzter! Der
 vorletzte war Burton gewesen! —
 
 Harst war am Tische stehen geblieben und gähnte.
@@ -1149,10 +1149,10 @@ Die Santa Rocka wiegte sich träge vor ihren Ankern.
 Santa Rocka! Das Drama von Santa Rocka! Ich
 kannte nur erst die Einleitung davon. Was war damals
 <@pagebreak/>
-mit den Insassen des kleinen Bootes weiter geschehen?
+mit den Insassen des kleinen Bootes weiter geschehen? —
 Das schoß mir so durch den Kopf.
 
-Und Harald gähnte abermals...
+Und Harald gähnte abermals …
 
 »Bist Du gar nicht müde? Ich werde sehr bald wieder
 schlafen gehen,« sagte er matt.
@@ -1199,7 +1199,7 @@ Es kostete Mühe, mich durch die Öffnung gleichfalls
 hindurchzubringen. Die Tür ließ sich auch von außen nicht
 aufschließen. Die Riegel hatten Patentvorlegeschlösser.
 
-Endlich war auch ich aus der Kabine heraus.
+Endlich war auch ich aus der Kabine heraus. —
 »Waffen besorgen!« sagte Harald kurz. — In dem Gange
 befanden sich sechs Kabinentüren. Die Kabinen waren
 jetzt leer. Die Inhaber weilten wohl an Deck. Des Spaniers
@@ -1224,7 +1224,7 @@ Lichtern — bei dem Nebel ein Leichtsinn!!«
 
 Ich hörte das dumpfe, schauerliche Tuten eines Nebelhorns.
 
-Harst eilte die Treppe wieder hinab, winkte...
+Harst eilte die Treppe wieder hinab, winkte …
 
 »Sie bringen Svendson gefesselt hier nach dem Heck.
 Die Gerichtsszene wird sich wohl dort in der Heckkajüte
@@ -1233,7 +1233,7 @@ abspielen.«
 Er bog um die Treppe herum. Da war eine Flügeltür
 mit matten Glasscheiben aus Mahagoniholz. Wir traten
 ein, waren in einer Luxuskajüte, halb Speiseraum,
-halb Gesellschaftssaal, in der ein erkorener Geschmack ohne
+halb Gesellschaftssaal, in der ein erlesener Geschmack ohne
 Rücksicht auf die Geldkosten ein Märchen aus Tausend und
 eine Nacht geschaffen hatte.
 
@@ -1243,7 +1243,7 @@ dessen Decke, ein seidener großer Gebetteppich, bis
 <@pagebreak/>
 zum Parkettboden hinabreichte.
 
-Dann Stimmen, Geräusche...
+Dann Stimmen, Geräusche …
 
 Und jetzt des Professors Stimme — zitternd, schwankend,
 vor Erregung kaum wiederzuerkennen:
@@ -1253,11 +1253,11 @@ Auskunft von Ihnen! Sie sind mein Landsmann.
 Sie sind Schwede wie ich! Was soll dieser Piratenstreich
 gegen Gulbransons Jacht Christiania?! Weshalb behandelt
 man mich als Verbrecher, weshalb fesselt man mir die
-Hände?! Ich...«
+Hände?! Ich …«
 
 Und hart und schneidend Villamaras Stimme: »Sie
-haben wohl die drei Drohbriefe des Vereins Bl. N. erhalten,
-Holger Svendson! Bl. N. heißt Blaue Nelke. — Sie
+haben wohl die drei Drohbriefe des Vereins Bl.&nbsp;N. erhalten,
+Holger Svendson! Bl.&nbsp;N. heißt Blaue Nelke. — Sie
 besinnen sich noch auf unsere gemeinsame Reise auf dem
 »Prince Edward« von Singapore nach Melbourne, auf
 unsere Tischgesellschaft, die sich zum Scherz zu einem Verein
@@ -1265,11 +1265,11 @@ Blaue Nelke zusammenschloß. Gerade wir Mitglieder der
 Blauen Nelke entgingen in dem kleinen Rettungsboot dem
 Orkan, trieben tagelang auf See umher. Unser Proviant,
 unser Trinkwasser verringerte sich zusehends. Wir waren
-zwölf Personen in dem Boot, und wir wußten, daß nur
+dreizehn<@refnote 2/> Personen in dem Boot, und wir wußten, daß nur
 ein Wunder uns retten könnte. Dann tauchte das winzige
 Eiland Santa Rocka auf, — — Sie besinnen sich! Und
 da — da kam der Schurkenstreich, ersonnen von James
-Burton! Da ließ man uns zu sieben aussteigen, da stieß
+Burton! Da ließ man uns zu acht<@refnote/> aussteigen, da stieß
 das Boot mit den fünf Schurken wieder ab, die nun, nur
 noch fünf an der Zahl, genug Wasser und Lebensmittel hatten,
 um eine bewohnte fruchtbare Insel erreichen zu können.
@@ -1286,7 +1286,7 @@ Schwester. Sie starben vor Entkräftung, zu Tode gefoltert
 von der Tropensonne, die den Fels von Santa
 Rocka in ein Fegefeuer verwandelte. Ein Dampfer rettete
 dann uns fünf, die Sie hier vor sich sehen! Rettete uns
-fünf... Wahnsinnige, — wahnsinnig geworden in demselben
+fünf … Wahnsinnige, — wahnsinnig geworden in demselben
 Fegefeuer! Irrenhäuser wurden unser Aufenthalt.
 Vier Jahre vergingen, bis der letzte von uns, ich selbst, als
 geheilt die Stätte der Toten verlassen konnte. Da fanden
@@ -1310,16 +1310,16 @@ wußte. Deshalb nahmen die vier mich mit. Burton saß
 mir mit gespanntem Revolver gegenüber. Ich war machtlos.
 Und Burton zwang mich nachher auch zum Schweigen,
 als wir acht Tage drauf den Hafen von Gradjagar
-auf Sumatra erreichten. Ich wollte...«
+auf Sumatra erreichten. Ich wollte …«
 
 »Lüge! Alles Lüge!« fuhr Villamara dazwischen.
 »Zuiten, tun Sie Ihre Pflicht! Denken Sie an Ihre
-Schwester, die...«
+Schwester, die …«
 
 Harst hatte das Versteck verlassen. Die fünf kehrten
 uns den Rücken zu. Ich richtete mich gleichfalls auf. Diesmal
 gab es keine Luftstutzen, die uns bedrohten. Diesmal
-drohten unsere Pistolen die jäh Zurückweichenden. Ich
+bedrohten unsere Pistolen die jäh Zurückweichenden. Ich
 zerschnitt Svendsons Fesseln. Wir eilten hinaus, schlossen
 <@pagebreak/>
 die Salontür ab, hasteten nach oben, waren glücklich an
@@ -1329,14 +1329,14 @@ Ingeborg als Gefangene vor.
 Waren dann kaum zehn Meter von der Santa Rocka
 entfernt, hatten kaum den Motor angeworfen, als dicht neben
 uns ein riesiger Schatten im Nebel emporwuchs — ein
-Frachtdampfer...
+Frachtdampfer …
 
 Hörten des Grafen Stimme noch an Deck der Santa
-Rocka den Befehl zu unserer Verfolgung geben...
+Rocka den Befehl zu unserer Verfolgung geben …
 
-Hörten gellende Schreie ... Krachen, Splittern...
+Hörten gellende Schreie … Krachen, Splittern …
 Sahen undeutlich, wie die Santa Rocka, mittschiffs gerammt,
-in zwei Hälften zerschnitten, versank...
+in zwei Hälften zerschnitten, versank …
 
 Suchten nach Überlebenden — fanden nicht einen
 mehr. Der Frachtdampfer hatte sich schleunigst, da unbeschädigt
@@ -1357,7 +1357,7 @@ Drei Stunden später liefen wir in den Hafen von
 Saßnitz ein. Die Geschichte des Vereins Blaue Nelke ist
 hiermit zu Ende.
 
-Nächster Band:
+<#import "*/harst.ftl" as harst>
 
-__Das Zimmer ohne Fenster.__
+<@harst.naechsterband band="Das Zimmer ohne Fenster."/>
 
