@@ -396,7 +396,7 @@ könnte …«
 Jallahay nickte … Sein kluges, energisches Gesicht
 verzerrte sich in unendlichem Haß …
 
-»Sahib, mein Kind sollte des Fürsten Geliebte werden.
+»Sahib, mein Kind sollte des Fürsten Geliebte werden
 <@pagebreak/>
 … Und als ich sie deshalb heimlich mit dem Zwerge aus
 der Stadt fortschickte, hat der Radscha mich des Diebstahls
@@ -432,7 +432,7 @@ Nacht drangen dann gegen elf Uhr fünf Männer hier in
 die Höhle ein … Wir schliefen … Sie hatten den Tiger
 gefesselt schon mitgebracht. Ansura nahmen sie mit sich.
 Der Zwerg und ich wurden hier eingeschlossen. Wir konnten
-gerade mochte vor der Bestie hinter die Barrikade flüchten.
+gerade noch vor der Bestie hinter die Barrikade flüchten.
 Entsetzliche Stunden haben wir verlebt. — Wie sollen
 wir dir nur danken, Sahib …?! Denn jetzt besteht doch
 wenigstens eine geringe Hoffnung, daß ich mein Kind noch
@@ -570,7 +570,7 @@ nichts gefunden — absolut nichts!
 
 War wütend darüber …
 
-Ich — freute mich. Sein Übereifer war jetzt verraucht,
+Ich — freute mich. Sein Übereifer war jetzt verraucht
 … Und ich brauchte von seiner Seite keine Durchkreuzung
 meiner Pläne mehr zu befürchten.
 
@@ -691,7 +691,7 @@ müssen. Rund um den See zieht sich der fürstliche
 Park meilenweit hin, und nur am Südufer erheben sich
 zwei neuere Regierungsgebäude, das Haus des englischen
 Residenten und ein paar Wohngebäude reicher Inder, unter
-diesen Euch das Chan Goßkar Jallahays, meines neuen
+diesen auch das Chan Goßkar Jallahays, meines neuen
 Freundes und Schützlings.
 
 Dies mag genügen. Der Leser wird sich jetzt unschwer
@@ -806,7 +806,7 @@ Wie er die Schnur an einen Pflock im Turmgemäuer
 befestigte und dann dem Kanal zueilte …
 
 Ich hätte fraglos noch mehr beobachten können, wenn
-… mich nicht jetzt ein paar lautete derb bei den Fußgelenken
+… mich nicht jetzt ein paar Fäuste derb bei den Fußgelenken
 gepackt und mich mit gewaltigem Ruck von der Mauer
 herabgerissen hätten …
 
@@ -858,7 +858,7 @@ zusammen …
 Und da half gar nichts, daß ich ihm zurief, Jallahay
 und der Dakka säßen im Boot an der Wassertreppe …
 
-Er lachte mochte grimmiger …
+Er lachte noch grimmiger …
 
 Stopfte mir einen Fetzen Stoff in den Mund, legte
 mir eine Decke über den Kopf, hob mich wieder empor und
@@ -867,7 +867,7 @@ trug mich von dannen …
 <@pagebreak/>
 Wie ein Kind …
 
-Und dabei wiege im meine Hundertfünfundachtzig
+Und dabei wiege ich meine hundertfünfundachtzig
 Pfund!!
 
 Ins Freie trug er mich …
@@ -1042,9 +1042,9 @@ den Spiegel …
 
 Und den Spiegel nahm ich vom Nagel, riß den Nagel
 heraus und trieb ihn dort in eine Mauerfuge, wo sich das
-Loch befinden mußte … Hängte den Spiegel wieder aus
+Loch befinden mußte … Hängte den Spiegel wieder auf
 und … kam mir sehr genial vor, denn wenn der alte Kerl
-jetzt zu mir hereinwollte, würde er den Spiegel heruntergerissen,
+jetzt zu mir hereinwollte, würde er den Spiegel herunterreißen,
 und ich würde rechtzeitig aufmerksam werden …
 
 Feiner Gedanke!
@@ -1158,7 +1158,7 @@ Dann schob er sein Laubbett beiseite, nahm sechs Ziegel
 aus dem Fußboden heraus und dann ein paar Bretterstücke
 …
 
-Ich … hielt nur zunächst noch die Nase zu, denn der
+Ich … hielt mir zunächst noch die Nase zu, denn der
 Bettlergestank des Alten war in der Tat kaum zu ertragen.
 
 Armer Kerl — er war nicht nur bucklig … Er hatte
@@ -1290,7 +1290,7 @@ Inder verkleidet …
 
 In der Hand ein brennendes Stück Holz …
 
-Mit einem Male drückt er die Nadel mit dem Fuße
+Mit einem Male drückt er die Fackel mit dem Fuße
 aus …
 
 Ringsum die Mondnacht …
@@ -1351,7 +1351,7 @@ Diesmal treibt der Alte den Nachen von Norden her
 auf die Radschainsel zu … Wo eine hohe Mauer einen
 Garten an der Rückfront abschließt … Wo wir an einer
 Marmortreppe anlegen, und wo eine Tür aus Kupferplatten
-dem krummen langen Nagel nicht Lange widersteht …
+dem krummen langen Nagel nicht lange widersteht …
 
 Die Tür geht auf …
 
@@ -1556,7 +1556,7 @@ begaben sich noch in derselben Nacht, begleitet von
 dreißig Polizeibeamten, nach dem Inselpalast, wo Harst
 in Bromwells Zimmer das Diadem fand, das angeblich
 von Jallahay gestohlen worden war. — Wie wir bereits
-Gestern in einem kurzen Telegramm mitteilten, hat der
+gestern in einem kurzen Telegramm mitteilten, hat der
 Radscha sich in Gegenwart Seiner Exzellenz vergiftet, als
 Harald Harst ihm die vielfachen Vergehen vorhielt. Der
 Privatsekretär Bromwell sitzt jetzt hier in Madras im
@@ -1585,7 +1585,7 @@ Da … lächelte er … ein wenig verlegen … Und erwiderte:
 <@pagebreak/>
 »Mein Alter, lassen wir das alles ruhen … Ein jeder
 Mensch hat seine kleinen Schwächen … Im übrigen war
-dein Abenteuer mit dem stinkenden Buckligen noch ganz
+dein Abenteuer mit dem stinkenden Buckligen doch ganz
 interessant …«
 
 »Unglaublich!!« meinte ich nur und drohte ihm mit
@@ -1596,7 +1596,8 @@ nicht … Man kann Harald ja überhaupt so schwer etwas
 übelnehmen … Dazu ist er ein zu lieber Freund und
 Kamerad …
 
-Nächster Band:
-Der tote Radscha.
+<#import "*/harst.ftl" as harst>
 
-Druck: P. Lehmann. G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
+<@harst.naechsterband band="Der tote Radscha."/>
+
+<@harst.druck/>

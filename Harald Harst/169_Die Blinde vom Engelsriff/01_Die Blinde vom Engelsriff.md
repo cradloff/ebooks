@@ -1,6 +1,8 @@
 <@pagebreak/>
 
-<#include "intro_short2.ftl">
+<#import "*/harst.ftl" as harst>
+
+<@harst.introshort2/>
 
 <h2>1. Kapitel.</h2>
 
@@ -61,7 +63,7 @@ Haralds Gesicht war genau so ungläubig erstaunt wie
 das meine …
 
 »Weshalb haben Sie denn gerade einem blinden
-Weibe diesen besten anvertraut?!« fragte er kopfschüttelnd.
+Weibe diesen Posten anvertraut?!« fragte er kopfschüttelnd.
 
 James Billing erwiderte ernst: »Das ist eine Geschichte
 für sich, lieber Harst … Ich will sie Ihnen erzählen, denn
@@ -83,7 +85,7 @@ als eben der Leuchtturm fertig war und die Inderin gebeten
 hatte, sie und den Knaben auf dem Engelsriff wohnen
 zu lassen — als Leuchtturmwärterin. Nun haust sie
 dort in der Einsamkeit der Wasserwüste und … ist zufrieden
-und glücklich … Wir können kaum einen zuverlässigen
+und glücklich … Wir können kaum einen zuverlässigeren
 Menschen für diesen Posten finden. Alle fünf Tage
 bringt ein Kutter Lebensmittel und Trinkwasser nach dem
 Engelsriff, ferner Karbid für den Scheinwerfer und anderes,
@@ -91,7 +93,7 @@ was das Mädchen gerade benötigt … Und noch heute
 wissen wir nicht, wer die beiden sind. Wir halten sie für
 Geschwister … — Das wäre alles, bester Harst …«
 
-Harald hatte das Fernglas wieder zu den Augen …
+Harald hatte das Fernglas wieder an den Augen …
 
 »Weshalb der Name Engelsriff?« fragte er nach einer
 Weile …
@@ -192,7 +194,7 @@ enthält, in dem der Scheinwerfer steht, dessen Bedienung
 ja auch weiter keine Schwierigkeiten macht … Bei Eintritt
 der Dunkelheit wird er angezündet, und beim Morgengrauen
 ausgelöscht … Ansura und der Knabe wohnen in
-einem Häuschen, daß am Strande des Innenbeckens aus
+einem Häuschen, das am Strande des Innenbeckens aus
 Brettern erbaut ist. Die ganze Anlage ist einfach, aber
 zweckmäßig … selbst bei stärkstem Seegang reicht die
 Brandung nicht an das Riff heran, weil es noch von drei
@@ -332,7 +334,7 @@ und Liebe, — — alles ist hier ins Zehnfache gesteigert …«
 
 Die Zeit verrinnt …
 
-Am Horizont erscheint eint greller leuchtenden Strich:
+Am Horizont erscheint ein greller leuchtenden Strich:
 Der Scheinwerfer des Engelsriffs!
 
 Die ersten Korallenbänke tauchen auf …
@@ -345,7 +347,7 @@ Billing fährt nur noch mit halber Kraft …
 Harst steht auf der Steuerbank, das Glas an den
 Augen … Ich stütze ihn …
 
-Dann gleitet der Kutter wischen den lauernden Riffen
+Dann gleitet der Kutter zwischen den lauernden Riffen
 dahin …
 
 Noch ein paar Minuten …
@@ -527,7 +529,7 @@ der Riffwand durch Menschenhände ausgehauen war —
 eine Arbeit, die infolge der nicht allzu großen Härte des
 Korallenkalks kaum sehr schwierig gewesen sein konnte.
 
-Dieses Fenster maß etwa vier Meter im Quadrat, besaß
+Dieses Versteck maß etwa vier Meter im Quadrat, besaß
 auch mehrere Luftlöcher nach der offenen See zu und
 war völlig trocken.
 
@@ -540,7 +542,7 @@ wenig.
 
 »Licht aus!« befahl Harald wieder …
 
-Und dann stellen wir uns jeder vor eins der Luftlöcher,
+Und dann stellten wir uns jeder vor eins der Luftlöcher,
 konnten so die Einfahrt in das Beckens des Riffs
 bequem überschauen …
 
@@ -553,7 +555,7 @@ Wir sahen, daß es … mit einem kleinen Außenbord
 (Aufsteck-) Motor ausgestattet war …
 
 Und — außer dem Knaben und der Inderin (die keine
-Brille trug!) befand sich mich ein graubärtiger Mann in
+Brille trug!) befand sich noch ein graubärtiger Mann in
 dem Fahrzeug, — ein Inder von sehr stattlichem Wuchs …
 
 Dann war das Boot im Innenbecken, und wir konnten
@@ -667,7 +669,7 @@ auch sofort auf den Gedanken gekommen war, daß der so
 reife, kluge Junge ein Dakka-Zwerg sein könnte … In
 Indien gibt es ja nur drei Zwergenvölker. Zwei davon
 haben mehr Negertyp, und nur die Dakka sind der großen
-indischen Völkerfamilie abzurechnen …
+indischen Völkerfamilie zuzurechnen …
 
 »Willst du mir nicht noch mehr Neues auftischen?!«
 fragte ich genau so ironisch-überlegen … Und ich umwickelte
@@ -699,7 +701,7 @@ Eine dritte …
 Harst hatte rasch die Lampe ausgeschaltet …
 
 Durch die Luftlöcher sahen wir draußen den jungen
-Tag herausziehen …
+Tag heraufziehen …
 
 Hier drinnen … umwehten uns Düfte, von denen wir
 schleunigst jeder an eine der kleinen Öffnungen flüchteten
@@ -728,7 +730,7 @@ Harst rief lachend:
 
 Er schaltete seine Lampe wieder ein …
 
-Wir kletterten auf die Kiste, die unter dem Lohe stand.
+Wir kletterten auf die Kiste, die unter dem Loche stand.
 
 Wir … mühten uns umsonst ab …
 
@@ -794,7 +796,7 @@ Nur ein Boot, damit wir nach Potakiwu rudern könnten
 …
 
 So aber müssen wir bis abends sieben Uhr auf dieser
-trostlosen Sandinsel warten, bis wir einem eingeborenen
+trostlosen Sandinsel warten, bis wir einen eingeborenen
 Fischer herbeiwinken können …
 
 Der bringt uns zu Billings …
@@ -840,7 +842,7 @@ Bis Harald rief:
 <@pagebreak/>
 Frau Maria kam mit …
 
-Auch der die Wilson wurde noch telephonisch herbeigerufen
+Auch der dicke Wilson wurde noch telephonisch herbeigerufen
 …
 
 Und bei sinkender Sonne kamen die Korallenbänke in
@@ -982,7 +984,7 @@ um elf befanden wir beide uns in unserem geräumigen
 Gastzimmer, dessen drei Fenster auf den weiten Garten hinausgingen.
 
 Ich setzte mich gähnend in eine Ecke des Rohrsofas.
-Harst schritt auf und ab, die. Hände auf dem Rücken, den
+Harst schritt auf und ab, die Hände auf dem Rücken, den
 Kopf gesenkt. — In jener scheinbar so schlaffen Haltung, die
 ihm stets eigen, wenn sein Geist mit Hochdruck arbeitet und
 dann gleichsam für den Körper zu einer straffen Haltung
@@ -1103,8 +1105,8 @@ Gleich darauf hatte mich Gott Morpheus in das Traumland
 entführt … — —
 
 Am nächsten Vormittag gegen zehn Uhr saßen wir in
-des die Polizeimeisters Amtszimmer. Harald fragte, ob
-Wilson — vielleicht Zeitungsammelmappen besäße …
+des dicken Polizeimeisters Amtszimmer. Harald fragte, ob
+Wilson vielleicht Zeitungsammelmappen besäße …
 
 »Bedaure, verehrtester Harst … Hier — diese Zigarre
 tut’s auch … Prima Kraut. — Was wollen Sie übrigens —
@@ -1205,7 +1207,7 @@ des Kanals der Blooß-Plantage an Bord nehmen …
 
 <h2>5. Kapitel.</h2>
 
-Als wir dann beim Mittagessen denn Ehepaar Billing
+Als wir dann beim Mittagessen dem Ehepaar Billing
 unsere Absicht mitteilten, zwei oder drei Tage auf
 Schwertfischjagd auszuziehen, machte unser Gastgeber eine
 scherzhaft-drohende Handbewegung …
