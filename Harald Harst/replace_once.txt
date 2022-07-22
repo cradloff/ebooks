@@ -30,6 +30,7 @@
 \blebten	letzten
 \blett\b	jetzt
 \bLust\b	Luft
+\bm\	in
 \bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
