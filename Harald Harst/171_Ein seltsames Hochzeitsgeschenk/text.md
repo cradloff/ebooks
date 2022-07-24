@@ -862,7 +862,7 @@ kindlich-heiter in die Hände … »Das Paket muß ich sofort
 öffnen …!« rief sie und stellte es auf einen Stuhl auf der
 Veranda neben den Frühstückstisch …
 
-»Ich half ihr dabei … Aus der Papierumhüllung
+Ich half ihr dabei … Aus der Papierumhüllung
 kam ein zierlich geschnitzter Holzkasten zum Vorschein. Der
 Deckel zeigte kostbare Einlagen von Elfenbein … Das
 ganze war eine kleine Truhe indischer Arbeit. — Der Deckel
