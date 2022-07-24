@@ -15,7 +15,7 @@ Bergen nach seiner Residenz Pudukattai zurückgekehrt war
 
 Harst prüfte die abgestempelte Postmarke …
 
-»aus Ceylon, aus Kolombo, mein Alter …«
+»Aus Ceylon, aus Kolombo, mein Alter …«
 
 <p class="centered">Sehr geehrter Herr Harst,</p>
 
@@ -38,7 +38,7 @@ angehörte.
 
 Elizabeth, meine Frau, ist nun vor zwei Wochen unter
 <@pagebreak/>
-ganz besonderen Begleitumständen verschwunden. schon
+ganz besonderen Begleitumständen verschwunden. Schon
 vor längerer Zeit merkte ich ihr eine völlige Veränderung
 an. Sie wurde still und in sich gekehrt, und dieser seelische
 Druck verstärkte sich bis zu tiefer Schwermut. Umsonst
@@ -64,9 +64,9 @@ Drei Tage später hörte ich gegen Mitternacht Elizabeth
 in ihrem Schlafzimmer, das neben dem meinen liegt, laut
 aufschreien. Ich fand die Verbindungstür verschlossen und
 mußte daher erst auf die Veranda hinaus, um durch eins
-der Fenster das Zimmer betreten zu können,
+der Fenster das Zimmer betreten zu können.
 
-Das Zimmer war leer, Herr Harst. das Bett unbenutzt.
+Das Zimmer war leer, Herr Harst. Das Bett unbenutzt.
 Und der eine Fensterflügel stand weit offen.
 
 Seitdem ist meine Frau von niemandem mehr gesehen
@@ -172,7 +172,7 @@ Ihre Frau?«
 
 »Aus der Wildnis, Herr Harst … aus dem Innern,
 <@pagebreak/>
-wo es Überall versteckte Dörfer der Rodias gibt … Bei
+wo es überall versteckte Dörfer der Rodias gibt … Bei
 einem unserer Werbefeldzüge kam ich vor acht Jahren bis
 zu dem Dorfe Gannawa. Dort sah ich eine junge Rodia,
 ein Mädchen von fast weißer Hautfarbe, wie ja überhaupt
@@ -196,7 +196,7 @@ müßten Sie zugeben, daß sie nicht nur »Dame« im besten
 Sinne des Wortes, sondern auch äußerlich vollends Europäerin
 geworden ist.«
 
-»und ihre Familie?! Wie stellte die sich zu der Abtrünnigen?!
+»Und ihre Familie?! Wie stellte die sich zu der Abtrünnigen?!
 — Die Rodias sind doch fanatische Verehrer
 ihres alten Geisterglaubens, den man kaum als Religion
 bezeichnen kann …«
@@ -234,7 +234,7 @@ Frauen und Mädchen hier tragen …
 
 Bolling hob diese Gewänder empor …
 
-rief: »Der … — Zinkkasten?!«
+Rief: »Der … — Zinkkasten?!«
 
 Bückte sich … Wühlte in den anderen Dingen, die
 die Truhe unten füllten …
@@ -258,11 +258,11 @@ Chemikalien, photographische Platten und Filme — kurz
 alles, was durch Feuchtigkeit verderben könnte, zum Versand
 kommen … Die Größe des Kastens betrug etwa
 sechzig Zentimeter Länge, fünfundzwanzig Zentimeter
-Breite und zwanzig Zentimeter Höhe. — die Kindesleiche
+Breite und zwanzig Zentimeter Höhe. — Die Kindesleiche
 war durch das Kampferpulver bereits völlig mumifiziert
 und lag völlig nackt in dem Kasten …«
 
-»haben Sie die kleine Mumie berührt?«
+»Haben Sie die kleine Mumie berührt?«
 
 »Nein — nein …!« — Bolling schüttelte sich fast vor
 Ekel …
@@ -284,7 +284,7 @@ und Gebräuchen der Rodias beschäftigt?«
 
 »Gewiß … Aber …«
 
-»… über das Buch jenes Engländers Knox, der
+»… aber das Buch jenes Engländers Knox, der
 neunzehn Jahre als Gefangener in Kandy lebte, haben
 Sie wohl nicht gelesen?«
 
@@ -332,7 +332,7 @@ und wir erkannten sehr bald, daß wir uns ohne Führer
 niemals bis Gannawa durchgefunden hätten.
 
 Die Fahrt war im übrigen eine Marter. Die Zebus
-Hatten Patentlungen. Der Wagen rüttelte und stieß …
+hatten Patentlungen. Der Wagen rüttelte und stieß …
 Wir mußten uns dauernd krampfhaft festhalten … Nicht
 einmal rauchen konnten wir …
 
@@ -353,7 +353,7 @@ Die Zebus stehen und schnaufen …
 Wir klettern aus dem Marterkasten heraus …
 
 Harald erklärt dem Wagenbesitzer, daß er hier in der
-Nähe warten solle,
+Nähe warten solle.
 
 Rechts ist eine Lichtung … Und dort spannt der
 Singhalese seine Tiere aus, legt sich in den Wagen und
@@ -364,7 +364,7 @@ dem Rücken, wandern zu Fuß weiter … — Bisher habe
 ich von Harald über unseren »Fall Elizabeth« kein
 Sterbenswörtchen herauspressen können … Er hat eben seine
 Eigentümlichkeiten, der gute Harald … Jetzt verlange ich
-sehr energisch, daß er mir Aufschluß Über seine Absichten
+sehr energisch, daß er mir Aufschluß über seine Absichten
 gibt …
 
 <@pagebreak/>
@@ -413,7 +413,7 @@ standen …
 Der Fußpfad lief durch das hohe Gras auf die Hütten
 <@pagebreak/>
 zu, die seltsamerweise weder Tür- noch Fensteröffnungen
-Hatten und mit der Rückseite halb im Gestrüpp verborgen
+hatten und mit der Rückseite halb im Gestrüpp verborgen
 waren.
 
 Harst mit der Ziege am Strick war mir einige Schritt
@@ -452,7 +452,7 @@ hatte ja auch von einer Geisterziege gesprochen!
 
 Dann meinte Harst auch schon: »Nun ist dir wohl das
 erste Licht aufgegangen, mein Alter …! Diese Häuschen
-Hier sind gleichsam die Kirche der Rodias. In den primitiven
+hier sind gleichsam die Kirche der Rodias. In den primitiven
 religiösen Vorstellungen dieser Rodias spielen Geister
 die Hauptrolle. Um diese Geister günstig zu stimmen, bauen
 die Rodias Hütten mit dem Eingang nach einem undurchdringlichen
@@ -512,7 +512,7 @@ Frau Bolling!«
 »Wie?! Hier … hier in den … Geisterhütten …?
 Aber — — die Polizei hat doch …«
 
-»nach Frau Elizabeth gesucht … ganz recht …
+»… nach Frau Elizabeth gesucht … ganz recht …
 Aber die Polizei würde niemals in diese frommen Hütten
 eindringen, da die Beamten ganz genau wissen, daß die
 Rodias die Hütten nie betreten … — Übrigens ist es
@@ -655,7 +655,7 @@ Bolling saß auf der Veranda … Kam uns entgegengelaufen
 
 »Wie Sie sehen, Mr. Bolling …«
 
-»und …?!«
+»Und …?!«
 
 »Mit Erfolg …!! Wir haben Ihre Gattin gefunden
 <@pagebreak/>
@@ -849,7 +849,7 @@ bereits um neun Uhr vormittags zu sich bitten. Mein
 Motorboot trug mich rasch über den See. Der Garten
 Granvellers stößt ja an das Südufer, und so konnte ich sofort
 an der Wassertreppe anlegen, wo der Doktor mich schon
-erwartete. seine Miene ließ mich das schlimmste fürchten
+erwartete. Seine Miene ließ mich das schlimmste fürchten
 …
 
 »Hoheit,« sagte er zögernd zu mir, indem er meine
@@ -915,7 +915,7 @@ die ihm zur Verfügung stand:
 
 »Dabsal, vielleicht gelingt es den Ärzten dort in der
 Anstalt, Jane wieder gesund zu machen … Schraut und
-Ich aber versprechen Ihnen, den Absender dieses niederträchtigen
+ich aber versprechen Ihnen, den Absender dieses niederträchtigen
 Geschenks zu ermitteln, damit er seine Strafe
 erhält …« —
 
@@ -972,7 +972,7 @@ Im Nu auch an der Stelle, wo vor der Tür der Privatgemächer
 Dabsals offenbar ein Sprengkörper, eine
 Höllenmaschine, zur Explosion gebracht worden war …
 
-sehr bald traf die Polizei ein …
+Sehr bald traf die Polizei ein …
 
 Wir und Edward Granveller beteiligten uns bei den
 Nachforschungen und Feststellungen auf das eifrigste.
@@ -1042,7 +1042,7 @@ des Flurs … Das wäre ebenfalls möglich … Der Dieb
 brauchte nur über den Korridor in jenes Zimmer gegenüber
 zu schlüpfen … — Oder — halt, — etwas anderes …!«
 
-mit schnellen Schritten war er am Fenster …
+Mit schnellen Schritten war er am Fenster …
 
 Riß den Flügel jenes Fensters auf, das vorher offen
 gewesen …
@@ -1217,7 +1217,7 @@ Radscha Mar Shing Chani … nicht verbrannt
 wurde …
 
 Grauen, Entsetzen, Todesangst treiben mir Eisesschauer
-Über den Leib …
+über den Leib …
 
 Letzte Kraft … letzte Kraftanstrengung, — — ich werfe
 mich zur Seite …
@@ -1328,7 +1328,7 @@ Sein Blick sucht Harsts Gesicht …
 
 Harald fragt nur:
 
-»und in der verflossenen Nacht, — — wo waren Sie
+»Und in der verflossenen Nacht, — — wo waren Sie
 da?!«
 
 »Ich?! — Im Radschaschloß …! Besinnen Sie sich,
@@ -1596,7 +1596,7 @@ Geschichte …
 
 <@pagebreak 34/>
 
-<h1>Granvellers Zweites Ich.</h1>
+<h1>Granvellers zweites Ich.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1632,7 +1632,7 @@ Wieder schob er die Brille zurecht …
 
 <@pagebreak/>
 »Zwillinge, meine Herren … In einer … furchtbaren
-Nacht … Ein Orkan fegte von der See her Über
+Nacht … Ein Orkan fegte von der See her über
 Kolombo hin … Wir wohnten im Villenviertel in der
 Kalkutta-Straße …«
 
@@ -1668,14 +1668,14 @@ Stirn …
 
 »… Und … meine Frau noch immer ohne Bewußtsein
 … Ich halb von Sinnen … Ich packte die Mumie, schleuderte
-sie Zum Fenster hinaus, bemühte mich um mein Weib …
+sie zum Fenster hinaus, bemühte mich um mein Weib …
 Tagelang kämpfte sie mit dem Tode … Als sie gerettet,
 wagte ich nichts davon zu erwähnen, daß sie zwei Kindern
 das Leben gegeben … Niemand erfuhr davon … Nur
 insgeheim begann ich Nachforschungen anzustellen. Ich
 wußte, daß die Rodias mich haßten, — die Rodias, der verachtete
 <@pagebreak/>
-Volksstamm … Wissen Sie etwas Über die Rodias,
+Volksstamm … Wissen Sie etwas über die Rodias,
 Herr Harst …«
 
 »Ja — einiges, Herr Doktor …«
@@ -1691,7 +1691,7 @@ bewegten sich also hauptsächlich in dieser Richtung, blieben
 jedoch ohne Erfolg. Zu spät sah ich ein, welch schweren
 Fehler ich begangen, als ich gleichsam das geraubte Kind
 unterschlagen hatte, freilich nur in Rücksicht auf meine
-kranke Frau. wochenlang habe ich die einsam gelegenen
+kranke Frau. Wochenlang habe ich die einsam gelegenen
 Rodiadörfer durchstreift, wochenlang mich den größten
 Strapazen unterzogen … Die Polizei hätte nicht sorgfältiger
 und schlauer vorgehen können als ich. — Dann wurde
@@ -1749,7 +1749,7 @@ wo Granvellers Kind verschwand, zuerst Genaueres
 über die Säuglingsmumie hörten, die nun Miß Jane zugeschickt
 worden ist und die vielleicht dieselbe ist, die damals
 in die Wiege gelegt wurde … — Was der Doktor uns erzählte,
-beweist auch wieder so recht, wie das Leben Weit
+beweist auch wieder so recht, wie das Leben weit
 phantastischere Dramen dichtet als sie dem Hirn eines
 Schriftstellers entspringen können …«
 
@@ -1761,7 +1761,7 @@ zu liegen pflegte, hat die fürstliche Jacht uns am
 Bollwerk mit unseren Koffern abgesetzt, wendet und fährt
 davon: Haralds Befehl!
 
-denn Harald hat mir leise erklärt: »Wir werden hier
+Denn Harald hat mir leise erklärt: »Wir werden hier
 spurlos verduften! Auf der Jacht fände uns jeder!«
 
 <@pagebreak/>
@@ -2093,7 +2093,7 @@ Schwester Frau Bollings!«
 
 Harald nickte und fuhr dann fort:
 
-»die ganze Sache ist denn doch zu verzwickt und auch
+»Die ganze Sache ist denn doch zu verzwickt und auch
 zu schwerwiegend, als daß man sie etwa von der leichten
 Seite nehmen dürfte … — Wir werden heute nacht hoffentlich
 noch einen Schritt weiter kommen, wenn wir das Häuschen
@@ -2180,7 +2180,7 @@ Kein O’Kelling …! Nirgends!
 
 Und — jetzt winkte Harald, winkte sehr energisch …
 
-Eine böse Geschluckte …! Harst war schon aufmerksam
+Eine böse Geschichte …! Harst war schon aufmerksam
 geworden, weil ich meinen ursprünglichen Platz verlassen
 hatte. Mit etwas gemischten Gefühlen eilte ich zu ihm
 hin …
@@ -2263,7 +2263,7 @@ grinste wohlgefällig …
 »Na, habe ich’s nicht fein gemacht, bester Harst?! Sie
 beide hätten noch Stunden gewartet, ehe Sie vielleicht festgestellt
 hätten, daß dieser Kerl da gar sein Kerl ist, sondern
-Nur eine … Wachspuppe …!!«
+nur eine … Wachspuppe …!!«
 
 Harst sagte wütend:
 
@@ -2488,7 +2488,7 @@ Unter den Fahrgästen sahen wir auch Edward Granveller,
 der dann mit seinen Koffern in einem Auto nach
 seinem Heim fuhr.
 
-»sehr fein!« meinte Harst lächelnd. »Er ist kein Dummkopf
+»Sehr fein!« meinte Harst lächelnd. »Er ist kein Dummkopf
 …«
 
 An einem nahen Bretterhäuschen waren die Fahrpläne
@@ -2548,9 +2548,9 @@ das interessiert mich … — Wir wollen jetzt nicht länger
 stören, Mylord … Verbindlichsten Dank …«
 
 Und die beiden Matrosen verließen den Wohnsalon
-und das Haus Über die Gartentreppe und den Nebenausgang.
+und das Haus über die Gartentreppe und den Nebenausgang.
 
-als wir Die Straße hinab schritten, meinte Harald:
+Als wir die Straße hinab schritten, meinte Harald:
 »Also auch das stimmte! Es mußte ja auch so sein …!«
 
 »Was?!«
@@ -2572,7 +2572,7 @@ handelte.
 
 Dort kaufte Harald einen Bastkorb und erklärte dem
 Schlitzäugigen wieder im schönsten Hafenkauderwelsch, daß
-wir den Korb nachher abholen würden. dann fragte er
+wir den Korb nachher abholen würden. Dann fragte er
 nach einem Schuster … Dort drüben wohne einer, der sei
 aber nicht zu Hause, fügte er hinzu.
 
@@ -2710,7 +2710,7 @@ wollten den Fehler wieder ausgleichen, taten so, als hielten
 Sie uns für Rodias … Eine schlechte, billige Finte …
 — Wer sind Sie?«
 
-»Niemand,« erwiderte Rellan prompt. »ich habe keinen
+»Niemand,« erwiderte Rellan prompt. »Ich habe keinen
 Namen … Die Namen, die ich mir zulege, besagen
 gar nichts … Gestern nannte ich mich Rellan … Heute
 anders … Vorgestern wieder anders …« — Er sprach das
@@ -2758,7 +2758,7 @@ Mr. Rellan … Und … mein … Bruder, mein besseres
 Ich, soll … als verschwunden gelten, damit meinen Eltern
 die Schande erspart bleibt, mich ins Zuchthaus wandern
 zu sehen. — Sie sind sehr großmütig, Herr Harst, und ich
-Werde davon Gebrauch machen …«
+werde davon Gebrauch machen …«
 
 »Dann will ich Ihnen vorhalten, was für meinen
 Freund Schraut noch unbekannt geblieben,« nahm Harst
@@ -2802,7 +2802,7 @@ Freund Lord Galargan hypnotisiert, so daß er nachher angab,
 Sie seien in der kritischen Zeit bei ihm gewesen …!
 Sie haben auch … Miß Jane und den Radscha hypnotisiert
 …! Miß Jane zu dem Zweck, damit ihre Nervenzerrüttung
-länger anhielte. den Fürsten aber in derselben
+länger anhielte. Den Fürsten aber in derselben
 Absicht wie den Lord: um ein Alibi zu haben!! Vielleicht
 wäre ich niemals darauf gekommen, daß Sie Ihre Willensstärke
 als Hypnotiseur ausgenutzt haben, wenn nicht der
@@ -2952,7 +2952,7 @@ Mein … Glück war mit Harald zugleich vernichtet …
 Ich hetzte mich jedoch nicht mehr ab … Bemühte mich,
 nach Haralds Prinzip zu arbeiten: »Ruhe — Geduld!«
 
-O’Kelling tröstete mich immer Wieder …
+O’Kelling tröstete mich immer wieder …
 
 »Er lebt noch, Schraut …!! Ich bin Irländer,
 Schraut … Und wir Iren glauben an Träume … Ich
