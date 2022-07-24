@@ -2,8 +2,6 @@
 
 <#import "*/harst.ftl" as harst>
 
-******* TODO
-
 <@harst.introshort2/>
 
 <div class="title2">Walther Kabel.</div>
@@ -2564,93 +2562,93 @@ wohnt, noch einige Erkundigungen einziehen …«
 
 <@pagebreak/>
 
-<h2>3. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
-Als wir daß Gäßchen durchschritten und an dem Bretterzaun
+Als wir das Gäßchen durchschritten und an dem Bretterzaun
 des alten Schuhmachers vorüberkamen, war der
 Platz unter dem Sonnensegel leer. — Gegenüber seinem
-Häuschen wohnte ein ebenso alter Chinese, der mit Merkmalen
-handelte:
+Häuschen wohnte ein ebenso alter Chinese, der mit Korbwaren
+handelte.
 
 Dort kaufte Harald einen Bastkorb und erklärte dem
 Schlitzäugigen wieder im schönsten Hafenkauderwelsch, daß
 wir den Korb nachher abholen würden. dann fragte er
 nach einem Schuster … Dort drüben wohne einer, der sei
-aber nicht zu Hause, sügte’ er hinzu.
+aber nicht zu Hause, fügte er hinzu.
 
 Der alte Chinese nickte …
 
 »Selten da sein, der Schuster … Schlechte Kerl, der
 Schulter … mit keinem reden …«
 
-»» Wohnt er schon lange dort?«
+»Wohnt er schon lange dort?«
 
 »Erst dort nur wohnen junge Weib mit helle Haut …
 Weib sein von Ceylon … Weib hatten Wäscherei und
-Prahlerei … Dann vor halbe Jahr der Schulter auftauchen
-… Nichts mehr wissen … Alte Schulter sein grob
+Plätterei … Dann vor halbe Jahr der Schuster auftauchen
+… Nichts mehr wissen … Alte Schuster sein grob
 und unfreundlich …«
 
 Wir gingen wieder …
 
 Und blieben dann bis zum Abend an Bord der »Lady
-Hamilton« … 8-bis neun Uhr …
+Hamilton« … bis neun Uhr …
 
 Um diese Zeit führte mich Harald mit seinem geradezu
 verblüffenden Orientierungssinn auf den mohammedanischen
-Friedhof ::::d dort an eine alte Backsteinmauer, die
-wir rasch überkletterten … Jenseits. dieser Mauer lag das
+Friedhof und dort an eine alte Backsteinmauer, die
+wir rasch überkletterten … Jenseits dieser Mauer lag das
 Häuschen des indischen Schuhmachers …
 
 Die Hintertür war nur eingeklinkt … Lautlos schlichen
 <@pagebreak/>
-wir in die Küche … Keine lebende Seele traten wir an.
-Die Lack Frisur lag noch aus dem Bett …
+wir in die Küche … Keine lebende Seele trafen wir an.
+Die Wachsfigur lag noch auf dem Bett …
 
 »Dachte ich mir!« meinte Harst … »Suchen wir ein
 Versteck … In der Stube der Rodia befindet sich in der
 Decke oben eine Luke nach dem Bodenraum …«
 
-Der Lukendeckel ließ ein leicht hochklappen. Harald
+Der Lukendeckel ließ sich leicht hochklappen. Harald
 war mir auf die Schultern gestiegen, schwang sich empor und
-zog mich dann nun oben. Wir legten den Deckel wieder
+zog mich dann nach oben. Wir legten den Deckel wieder
 über die quadratische Öffnung — doch so, daß eine Ritze
-sterblich.
+freiblieb.
 
 Erst kurz vor zwölf blitzte unten in der Stube ein
 Lichtschein auf …
 
 Ich spähte hinab … Dort stand Rellan mit einer
 Taschenlampe vor dem Bett der Rodia und beleuchtete
-Harsts Trick ganzen …
+Harsts Zeichnungen …
 
 Lange stand er so, sehr lange …
 
-Dann lacht? er mit einem Male höhnisch auf … Ein
+Dann lachte er mit einem Male höhnisch auf … Ein
 Lachen, das ganz fremd klang, das niemals über Edward
-Granvcllerse Lippen gekommen wäre.
+Granvellers Lippen gekommen wäre.
 
-Und doch war aus dieser Mann da unten vor dem
-einfachcken Lager der Rodia ein Granveller, sogar ein Zwillingsbruder
-jenes Menschen, den Harald im Verdacht hatte,
-mit Rellan irgendwie wert unter zu sein … Also zwei
-Brüder, die auf darf!her Pfaden wanderten und die fraglos
-wurden, daß sich Brüder waren! Und — wenn dies sich
+Und doch war auch dieser Mann da unten vor dem
+einfachen Lager der Rodia ein Granveller, sogar ein
+Zwillingsbruder jenes Menschen, den Harald im Verdacht hatte,
+mit Rellan irgendwie verbündet zu sein … Also zwei
+Brüder, die auf dunklen Pfaden wanderten und die fraglos
+wußten, daß sie Brüder waren! Und — wenn dies sich
 so verhielt, wer löste dann die schweren Widersprüche, daß
-Rellan den anderen der Gefahr alt setzte, statt seiner mit
+Rellan den anderen der Gefahr aussetzte, statt seiner mit
 der Polizei in Konflikt zu geraten, wie dies schon einmal
 geschehen war?! — Widersprüche, wohin man nur in dieses
-Knäuel Frist …’
+Knäuel griff …!
 
-Tor! unten getan noch immer vor dem dürftigen
-Lager … dann schlug er ten Teppichvorhang der Türöffnung
+Dort unten Rellan noch immer vor dem dürftigen
+Lager … dann schlug er den Teppichvorhang der Türöffnung
 zurück und betrat das andere Stübchen …
 
 Der Teppich glitt in die alte Lage …
 
-Und Harald im Nu den Teckel beiseite gelegt und im
+Und Harald im Nu den Deckel beiseite gelegt und im
 <@pagebreak/>
-Nu hinab … Wir nun bellend, mich herabhebend …
+Nu hinab … Mir nun helfend, mich herabhebend …
 Wir beide zum Türvorhang …
 
 Harst lüftet ihn sacht …
@@ -2659,31 +2657,31 @@ Wir sehen …: Rellan kniet vor dem Bett …
 
 Die Puppe liegt auf dem Lehmboden …
 
-Wir auf weichen Sandalen, aus Zebzenspiten hinter
-den Ahnungslosen … +.
+Wir auf weichen Sandalen, auf Zehenspitzen hinter
+den Ahnungslosen …
 
-Wir griffbereit hinter ihm … — Vorläufig noch Zuschauer
+Wir griffbereit hinter ihm … Vorläufig noch Zuschauer
 …
 
 Den Kasten des Bettes hat er geöffnet … Hat die
 Truhe mit der Kindesmumie herausgehoben … Dreht
-die Truhe um, schiebt deren Bodenbreit wie den Deckel
-eines Lederkastens auf und nimmt zwei Päckchen heraus,
-die mit Watte umhöüllt sind …
+die Truhe um, schiebt deren Bodenbrett wie den Deckel
+eines Federkastens auf und nimmt zwei Päckchen heraus,
+die mit Watte umhüllt sind …
 
 Ich ahne: die zweifache Diebesbeute ist’s!
 
-Ich höre retten mir ein leises Geräusch …
+Ich höre neben mir ein leises Geräusch …
 
-Harst ist noch einen in vorgetreten … Harst …
-büc?! sich …
+Harst ist noch einen Schritt vorgetreten … Harst …
+bückt sich …
 
 Ein Griff …
 
 Er hält die Handgelenke des völlig Überraschten …
 
 Ich springe zu … Ein Ende Strick windet sich um die
-Handgelenke … Ein Auge:en noch — und Rellan ist unser!
+Handgelenke … Ein Knoten noch — und Rellan ist unser!
 
 Graugelb im Gesicht stiert der Mensch uns an …
 
@@ -2694,15 +2692,15 @@ Ihr habt das Mädchen entführt … Wollt ihr Geld?«
 
 Harald erwidert:
 
-»Komödie …!! »Lassen Sie das!! -. Setzen Sie sich
-auf den Bootsrand …
+»Komödie …!! Lassen Sie das!! — Setzen Sie sich
+auf den Bettrand …«
 
 Und wie dieser Mr. Rellan, Edward Granvellers
-Zwillingsbruder. ich! so im grellen Lichtschein unserer
+Zwillingsbruder, jetzt so im grellen Lichtschein unserer
 Taschenlampen vor uns saß, da kamen mir doch wieder gelinde
 Zweifel, ob ein solches Spiel der Natur wirklich möglich
 sein könne. Zug um Zug glich Rellan dem Bruder …
-Er war auch nicht der allergeringste Unterschied herausgewunden
+Er war auch nicht der allergeringste Unterschied herauszufinden
 …
 
 <@pagebreak/>
@@ -2720,7 +2718,7 @@ mit seiner Ironie, halb humoristisch …
 
 Harst meinte eisig:
 
-»Sie sind doch ein Rohr abgebrühterer Charakter, als
+»Sie sind doch ein noch abgebrühterer Charakter, als
 ich glaubte … — Also Sie bleiben dabei, Edward Granvellers
 Zwillingsbruder zu sein?«
 
@@ -2738,9 +2736,8 @@ stößt … Sie verstehen mich wohl …«
 anderer Ton als bisher …
 
 Und — das war für mich gleichzeitig wie die Erleuchtung
-eines bisher dunklen Bildes, auf dem ich die Einzel-batte
-nur als ineinander verschivinmende Linien geschaut
-
+eines bisher dunklen Bildes, auf dem ich die Einzelheiten
+nur als ineinander verschwimmende Linien geschaut
 hatte …
 
 Mit einem Schlage wußte ich’s jetzt: Es gab keinen
@@ -2752,78 +2749,77 @@ Harald fuhr fort:
 »Wenn Sie mich verstehen und wenn Sie gewillt sind,
 die Konsequenzen bis zum Äußersten zu ziehen, so werden
 Sie sich auch nicht sträuben, nunmehr alles zuzugeben, was
-ich Ihnen vorzuhalten habe, Edward Granveller’«
+ich Ihnen vorzuhalten habe, Edward Granveller!«
 
 <@pagebreak/>
 »Sträuben — weshalb?! — Ich begreife Sie vollkommen,
 Herr Harst … Ich soll Selbstmord begehen — als
 Mr. Rellan … Und … mein … Bruder, mein besseres
-Ich), soll … als verjchvuinden gelten, damit meinen Eltern
+Ich, soll … als verschwunden gelten, damit meinen Eltern
 die Schande erspart bleibt, mich ins Zuchthaus wandern
 zu sehen. — Sie sind sehr großmütig, Herr Harst, und ich
 Werde davon Gebrauch machen …«
 
 »Dann will ich Ihnen vorhalten, was für meinen
-Gesund Schraut noch unbekannt geblieben,« nahm Harst
+Freund Schraut noch unbekannt geblieben,« nahm Harst
 wieder das Wort … »Sie hatten das Bekenntnis Ihres
 Vaters schon in Kolombo gelesen?«
 
-»Ja, als Zwanzigjähriger, Herr Harst … Und …
+»Ja, als Zwanzigjähriger, Herr Harst … Und …«
 
-»»- -. Und Sie sprechen naß Ihrem Bruder, lernten [o
+»… und Sie forschten nach Ihrem Bruder, lernten so
 die Rodia kennen. Sie wurde Ihre Geliebte, sie teilte
-
-»Omen, mit, daß Ihr geraubter Zwillingsbruder gestorben
+Ihnen mit, daß Ihr geraubter Zwillingsbruder gestorben
+sei …«
 
 »Ja, Herr Harst … Er starb wenige Tage nach seiner
 Geburt … Die kleine Leiche wurde von den Rodias …
 zur Mumie präpariert …«
 
-Harald schrak zusa; nen. »Mein Gott, ist etwa die Mumie,
+Harald schrak zusammen. »Mein Gott, ist etwa die Mumie,
 die …«
 
-… Sie ist’s, Herr Harst …«
+»… Sie ist’s, Herr Harst …«
 
 »Und Sie haben sie durch ihre Geliebte aus Major
 Bollings Haus stehlen lassen, um sie Miß Jane zusenden
-zu können …! — Mensch, Sie … Sie sind ein Unsereiner!!«
+zu können …! — Mensch, Sie … Sie sind ein Ungeheuer!!«
 
 »Nicht doch, Herr Harst! Nicht ich …!! Nicht ich, Edward
 Granveller! Mein Unglück ist meine Doppelnatur …
 Ich habe mich nicht als Edward Granveller in Miß Jane
 verliebt, nicht als Edward den gemeinen Streich begangen.«
 
-»Genug!« rief Harald … »las ist Wortklauberei,
+»Genug!« rief Harald … »Das ist Wortklauberei,
 das ist nur der Versuch, sich vor sich selbst zu rechtfertigen!
-In … verabscheue Sie …! Sie sind Schimmer als der
-gemeinste Gauner … Sie haben Ihre chnm’. Wissens und
-»die Willenskraf4t zu schamlosen Taten Maschinist … Sie
-
-den hier den alten indischen Schulter arme neben- der
+Ich … verabscheue Sie …! Sie sind schlimmer als der
+gemeinste Gauner … Sie haben Ihre Intelligenz und
+die Willenskraft zu schamlosen Taten ausgenutzt … Sie
+ließen hier den alten indischen Schuster auftauchen, der
 <@pagebreak/>
-waren Sie in tadelloser Maske! Sie Hoheit hier Ihren
-Freund Lord Garnison hypnotisiert, so daß er nachher angab,
+waren Sie in tadelloser Maske! Sie haben hier Ihren
+Freund Lord Galargan hypnotisiert, so daß er nachher angab,
 Sie seien in der kritischen Zeit bei ihm gewesen …!
 Sie haben auch … Miß Jane und den Radscha hypnotisiert
-…!! Miß Jane zu dem Zudeck, damit ihre Nervenzerrüttung
+…! Miß Jane zu dem Zweck, damit ihre Nervenzerrüttung
 länger anhielte. den Fürsten aber in derselben
 Absicht wie den Lord: um ein Alibi zu haben!! Vielleicht
 wäre ich niemals darauf gekommen, daß Sie Ihre Willensstärke
 als Hypnotiseur ausgenutzt haben, wenn nicht der
 Radscha die Schüsse nicht gehört hätte! Er hörte sie nicht,
-weil Sie ihn eingeschläfert hatten …! Und als er erwähnte,
+weil Sie ihn eingeschläfert hatten …! Und als er erwachte,
 glaubte er bestimmt, Sie seien bis sechs Uhr morgens bei
 ihm gewesen …! — Und um auch das gleich zu erledigen:
 Sie haben Pudukattai zwar mit dem Dampfer verlassen,
 sind aber sehr bald an Land gegangen, benutzten die Eisenbahn,
-waren gestern krochen hier in Madras, bestahlen die
-Amerikanerin, fuhren mit der Bahn zum Hafenort Indra
+waren gestern schon hier in Madras, bestahlen die
+Amerikanerin, fuhren mit der Bahn zum Hafenort Sadra
 und bestiegen dort wieder den Dampfer, landeten heute
 vormittag hier und … wähnten sich nun völlig sicher!!«
 
 »Es ist so, Herr Harst …« Er verneigte sich.
 
-»39 werde jetzt die Polizei herbeirufen und Sie als
+»Ich werde jetzt die Polizei herbeirufen und Sie als
 den Doppelgänger Granvellers verhaften lassen … Haben
 Sie irgend etwas bei sich, das den wahren Sachverhalt an
 den Tag bringen könnte, — Papiere, dergleichen?!«
@@ -2832,7 +2828,7 @@ den Tag bringen könnte, — Papiere, dergleichen?!«
 mir habe, verrät nichts! — Nur — wenn Sie die Polizei
 herbeirufen, wie soll ich dann …«
 
-… Sie sehen in der Zelle das tun, was einzig und
+»… Sie sollen in der Zelle das tun, was einzig und
 allein Ihre Eltern vor völliger Verzweiflung bewahren
 kann …! — Schraut es ist doch wohl besser, du holst einen
 Beamten von der Straße … ich werde hier bleiben. Es
@@ -2842,8 +2838,8 @@ ist sicherer …«
 
 <h2>5. Kapitel.</h2>
 
-<h3>Ich eilte hinaus … Mußte freilich lange suchen, ehe.</h3>
-ich einen Beamten traf. Dann stieß ich endlich aus eine
+Ich eilte hinaus … Mußte freilich lange suchen, ehe
+ich einen Beamten traf. Dann stieß ich endlich auf eine
 Patrouille von drei Beamten …
 
 Der Name Harst genügte … Und der Name »Rellan«
@@ -2851,19 +2847,19 @@ genügte noch mehr …
 
 Im Laufschritt eilten wir nach dem Häuschen …
 
-Und -«- — fanden in dem Stübchen nur noch … die
+Und — — fanden in dem Stübchen nur noch … die
 Wachsfigur …
 
 Harald, Rellan, die Truhe mit der Mumie, die Juwelen,
 die Schminken — alles nicht mehr da — alles
 nicht mehr!
 
-Ich) ahnte Böses und begann das Stübchen kritisch zu
+Ich ahnte Böses und begann das Stübchen kritisch zu
 mustern …
 
 Und — wie ich dann gerade auf dem Lehmboden ein
 paar frische Blutspritzer entdeckt hatte, kam Freund O’Kelling
-hereingebracht, hinter ihm der Malaie Paratu …
+hereingekeucht, hinter ihm der Malaie Paratu …
 
 Der Käpten war so außer Atem, daß er nicht sprechen
 konnte … Er japste nur, schnappte nach Luft …
@@ -2873,8 +2869,8 @@ Paratu hatte bessere Lungen …
 »Sahib Schraut, das Weib ist entflohen!« rief er …
 
 Ich erblaßte und im Nu war mir jetzt Haralds und
-gelang Mensch winden klar: die Rodia hatte sich hier in die
-Stube geschlichen, hatte Harst hinterrücks niedrige hingen!
+Rellans verschwinden klar: die Rodia hatte sich hier in die
+Stube geschlichen, hatte Harst hinterrücks niedergeschlagen!
 
 Und nun begann die Suche nach Harst. Erst im Hause,
 dann auf dem Grundstück … in den Büschen …
@@ -2882,8 +2878,8 @@ dann auf dem Grundstück … in den Büschen …
 Inzwischen hatte O’Kelling die Polizei alarmiert …
 Und die Madras-Polizei ist vielleicht die beste in Indien …
 
-Den Pest der Nacht, den sprach;: n Tag kam ich nicht
-aus den Kleidern …«
+Den Rest der Nacht, den folgenden Tag kam ich nicht
+aus den Kleidern …
 
 <@pagebreak/>
 In Rücksicht auf Granvellers Eltern hielt ich an der
@@ -2894,71 +2890,71 @@ Verbrecher zu suchen sei …
 Natürlich wurde schon morgens offenbar, daß auch
 Edward Granveller nicht aufzufinden war … Der Zustand
 seines Arbeitszimmers deutete darauf hin, daß Diebe
-dort gehaust hatten … Es selten viele Wertgegenstände.
+dort gehaust hatten … Es fehlten viele Wertgegenstände.
 Und so kam die Polizei ganz von selbst auf die Vermutung,
 daß »Rellan« dort gehaust und den »armen Granveller«
 gleichfalls beseitigt habe …
 
 Am Abend dieses Tages hatte ich vor Erschöpfung
-einen s« Poren Ohnmachtsanfall. Aber trotzdem war ich
+einen schweren Ohnmachtsanfall. Aber trotzdem war ich
 um Mitternacht schon wieder unterwegs …
 
 In diesen bösen Stunden lernte ich so recht O’Kellings
 und seiner Matrosen treue Anhänglichkeit schätzen …
 
-Und — der zweite Tag matt der Unglücksnacht dämmerte
+Und — der zweite Tag nach der Unglücksnacht dämmerte
 herauf …
 
-Ich hatte mir drei Stunden Schlaf gegönnt … Unfall
-ich erwachte, stand Radscha Dabsal vor mir … Er war
+Ich hatte mir drei Stunden Schlaf gegönnt … Und
+als ich erwachte, stand Radscha Dabsal vor mir … Er war
 auf die Kunde von Haralds Verschwinden sofort mit der
 Bahn nach Madras gekommen …
 
 Sein Anblick brachte mich gleichsam zur Besinnung. Ich
-erkannte, das all diese Aufregung, all diese Gedanken und
+erkannte, daß all diese Aufregung, all diese Gedanken und
 Sorgen Geschehenes nicht mehr ändern könnten … War
-Palast etwa ermordet und irgendwo im Hafen versenkt
-werde«. so hatte im die Pflicht, den Mörder um jeden Preis
-zu finden und ihn der verdienten Straße zuzuführen …
+Harald etwa ermordet und irgendwo im Hafen versenkt
+worden, so hatte ich die Pflicht, den Mörder um jeden Preis
+zu finden und ihn der verdienten Strafe zuzuführen …
 
-Old auf die andere Pflicht, jetzt dafür zu sorgen, daß
+Und auch die andere Pflicht, jetzt dafür zu sorgen, daß
 Jane Weacfield schnell wieder gesund würde … —
 
-Die ganze Sachlage erhielt auch insofern nun ein alt
-anderes Aussehen, als im von Dabsal als erstes hörte, daß
+Die ganze Sachlage erhielt auch insofern nun ein
+anderes Aussehen, als ich von Dabsal als erstes hörte, daß
 das Ehepaar Granveller … freiwillig durch Gift aus dem
-Leben Hernieder sei …
+Leben geschieden sei …
 
-Sekt brauchte ich nichts mehr zu verheimlichen, jetzt erfuhr
+Jetzt brauchte ich nichts mehr zu verheimlichen, jetzt erfuhr
 alle Welt die Wahrheit …
 
 <@pagebreak/>
 Jetzt jagten Dabsal und ich im Auto zum Sanatorium
-Doktor Entbrannt hinaus, wo Jane noch immer unter
-schwersten Anfällen von Versolgungs Wahn und Ecreit-krämpfen
+Doktor Gulbranors hinaus, wo Jane noch immer unter
+schwersten Anfällen von Verfolgungswahn und Schreikrämpfen
 litt.
 
-Kaum hatte im dem Chefarzt mitgeteilt, daß Granveller
+Kaum hatte ich dem Chefarzt mitgeteilt, daß Granveller
 Jane hypnotisiert habe, als er auch schon ausrief:
-»Dann mache ich sie noch heute gesund. durch Gegenhypnose!«
+»Dann mache ich sie noch heute gesund durch Gegenhypnose!«
 
 Und er versprach nicht zu viel …
 
 Jane wurde gesund …
 
-Ich aber raste mit dem« Auto zur Stadt zurück …
-Mochten die siebenten ihr Glück genießen …
+Ich aber raste mit dem Auto zur Stadt zurück …
+Mochten die Liebenden ihr Glück genießen …
 
 Meine Gedanken gingen andere Wege …
 
 Mein … Glück war mit Harald zugleich vernichtet …
 
-Ich bebte mich jedoch) nicht mehr ab … Bemühte nicht,
-nach Haralds Prinzip zu »ersten: »Ruhe —« Geduld!«
+Ich hetzte mich jedoch nicht mehr ab … Bemühte mich,
+nach Haralds Prinzip zu arbeiten: »Ruhe — Geduld!«
 
-O’Kelling tröstete mit immer Wieder …
+O’Kelling tröstete mich immer Wieder …
 
-»Er lebt noch;, Schraut …!! Ich bin Irländer,
+»Er lebt noch, Schraut …!! Ich bin Irländer,
 Schraut … Und wir Iren glauben an Träume … Ich
 habe Harst im Traum gesehen …«
 
@@ -2971,28 +2967,33 @@ Ich behielt meine Gedanken für mich … Der gute
 Käpten mochte an solche Träume glauben …
 
 Ich … zwang mich zur Ruhe … Und nahm abends
-ein Schlafmittel … Schrei bis zehn Uhr vormittags …
-
+ein Schlafmittel … Schlief bis zehn Uhr vormittags …
 Frühstückte und ging zur Polizei …
+
 Nichts … nichts …! —
-Bitter enttäuscht kehrte im auf den Kutter zurück …
+
+Bitter enttäuscht kehrte ich auf den Kutter zurück …
+
 Der Käpten kam mir aufgeregt entgegen …
+
 »Sir es hat sich etwas ganz Seltsames ereignet.«
-o?
-Was sollte die;es Seltsame auch wohl mit Harald zu
+
+»So?«
+
+Was sollte dieses Seltsame auch wohl mit Harald zu
 tun haben?!
 
 <@pagebreak/>
 »Was denn?« fügte ich hinzu, da der brave Käpten
-
 Meine Gleichgültigkeit offenbar nicht recht begriff …
+
 »Kommen Sie …!«
 
 Und er zog mich in die Kajüte …
 
-Zeigte hier aus den Abreißkalender an der Wand …
+Zeigte hier auf den Abreißkalender an der Wand …
 
-»Dir haben heute den »fünften Februar, lieber
+»Wir haben heute den fünften Februar, lieber
 Schraut … Gestern abend riß ich das Blatt des vierten
 ab … Und vorhin sah ich, daß inzwischen irgend jemand
 noch vier Blätter abgerissen hat, sodaß nun die Neun sichtbar
@@ -3014,16 +3015,19 @@ Jubelte:
 
 »Harst … Harst!!« — —
 
-» Vielleicht … hatte ich zu früh gejubelt …
+Vielleicht … hatte ich zu früh gejubelt …
 
 Vielleicht …! — Wie und wo ich mit Harald wieder
 zusammentraf, wie wir dann den Kampf gegen Mr. Rellan
-ausnahmen, all das für das nach sie Mal …
+aufnahmen, all das für das nächste Mal …
 
-Für … alle die, die meinen Harst [so lieben wie ich …
+Für … alle die, die meinen Harst so lieben wie ich …
 
-Ende!
+<p class="centered strong">Ende!</p>
 
-Nächster Band:
-Der Abreißkalender des Kapitäns.
-Druck: P. Lehmann G.&nbsp;in.&nbsp;b.&nbsp;H., Berlin.
+<#import "*/harst.ftl" as harst>
+
+<@harst.naechsterband band="Der Abreißkalender des Kapitäns."/>
+
+<@harst.druck/>
+
