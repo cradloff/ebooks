@@ -1,19 +1,15 @@
 <@pagebreak/>
-Der Abreißkalender des Kapitäns
 
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, einschl. das Verfilmungsrecht,
-vorbehalten. — Copyright 1926 by Verlag moderner
-Lektüre G. in. b. H., Berlin.
+<#import "*/harst.ftl" as harst>
+<@harst.introshort3/>
 
-Der Abreißkalender des Kapitäns…
-Walter Rabe!.
+******* XXXXXXXX
 
 <h2>1. Kapitel.</h2>
 
-Es war ein Reklamekalender der Firma Ratterten,
-Madras … Ein dunkel Ding mit vielen Likörflaschen, die
-unten Beinchen hatten und vergnügt umherspritzten — ein
+Es war ein Reklamekalender der Firma Patterson,
+Madras … Ein buntes Ding mit vielen Likörflaschen, die
+unten Beinchen hatten und vergnügt umhertanzten — ein
 witziges Bild, das außerdem tadellos zu Käpten O’Kelling
 paßte, der ja eine ziemliche Schwäche für die Erzeugnisse
 von Likörfabriken besaß. —
@@ -23,49 +19,49 @@ habe ich bereits am Schluß des vorigen Bandes erzählt:
 Harst war in Madras von dem berüchtigten Mr. Rellan
 und dessen Helfershelfern »erledigt« worden, und erst der
 Abreißkalender zerstreute meine Angst um das Leben meines
-Freundes, da ich am Fürsten Februar durch O’Kelling
+Freundes, da ich am fünften Februar durch O’Kelling
 darauf aufmerksam gemacht wurde, daß ein Unbekannter
 nachts in die Kajüte eingedrungen sein müsse und von dem
 Kalender vier Blätter zu viel abgerissen habe, so daß nun
 das Datum des Neunten zu sehen war … Und auf dieses
-Blatt mit der Wien, großen Zahl Neun hatte der Eindringling
+Blatt mit der dicken, großen Zahl Neun hatte der Eindringling
 außerdem noch mit Bleistift das Wort »Gannawa«
-Hingekritzelt — kaum leserlich … Trotzdem glaubte ich im
-der »Handschrift die Haralds zu erkennen. —
+Hingekritzelt — kaum leserlich … Trotzdem glaubte ich in
+der Handschrift die Haralds zu erkennen. —
 
 <@pagebreak/>
-
 Nunmehr beginne ich also die Geschichte des Abreißkalenders
-des Kapitäns mit dem Augenblick, wo im O Feigling
+des Kapitäns mit dem Augenblick, wo ich O’Kelling
 freudestrahlend zurief:
 
-»Haar]: — — Harst …!!«
+»Harst — — Harst …!!«
 
-Freund Käpten machte dazu ein sehr zweifelhaftes See
+Freund Käpten machte dazu ein sehr zweifelhaftes Gesicht
+…
 
-»Hm, hm,« brummte er, « — — Harst?! .— So gern ich
+»Hm, hm,« brummte er, "— — Harst?! — So gern ich
 diese Ihre Hoffnung teilen möchte, lieber Schraut: aber
-das Gekritzelt da sieht wie von einem Kinde aus! Und
+das Gekritzel da sieht wie von einem Kinde aus! Und
 dann: weshalb sollte Harst sich nur auf diese Weise gemeldet
 haben?! weshalb hält er sich vor uns verborgen, wo er
-ne wissen muß, in welcher Angst und Sorge Sie um ihn
-finde!«
+doch wissen muß, in welcher Angst und Sorge Sie um ihn
+sind?!«
 
 »Er mag seine Gründe haben, O’Kelling … Schauen
 Sie sich mal dieses G von Gannawa an … Genau so zieht
-Harst die Schleifen — Terrain so …! Ich bleibe dabei: es
+Harst die Schleifen — genau so …! Ich bleibe dabei: es
 ist seine Schrift …!!«
 
 Ich stand noch immer vor dem Kalender …
 
-Und mit einem Male kam mir ein Mutter Gedanke …
+Und mit einem Male kam mir ein guter Gedanke …
 
 »Käpten, haben Sie das oberste Blatt angefaßt?«
 fragte ich …
 
 »Bewahre!«
 
-»Dunst werden wir sofort die Probe aufs Exempel
+»Dann werden wir sofort die Probe aufs Exempel
 machen … Vielleicht finden Sie auf dem Blatt Fingerabdrücke
 …«
 
@@ -88,31 +84,31 @@ Nicht Harst, sondern ein Fremder …!
 <@pagebreak/>
 Wer aber …?! —
 
-O’Kelling betrachtet die schwarzen jungen aus dem
+O’Kelling betrachtet die schwarzen Tupfen auf dem
 Kalenderblatt …
 
-»Also [o werden die Dinger zum Vorschein gebracht …«
+»Also so werden die Dinger zum Vorschein gebracht …«
 meint er kopfschüttelnd. »Man lernt immer noch etwas
 dazu, obwohl man schon so’n alter Esel ist und …«
 
 … Er stockt plötzlich … »Schraut, das sind niemals
 die Fingerspuren eines Europäers,« erklärt er lebhafter …
 »Jeder Europäer hat hier in diesem Klima besonders nachts
-—» und der Fremde kann nur nachts hier in der Kajüte gewesen
+— und der Fremde kann nur nachts hier in der Kajüte gewesen
 sein — feuchte Finger … Hätte ein Weißer die drei
 Finger aus das Papier gedrückt, um es festzuhalten und um
-das eine Wort hinkriteln zu können, so würden sich die
-Fingerspitzen — auf diesem schlechten, faserigen Papier auch
+das eine Wort hinkritzeln zu können, so würden sich die
+Fingerspitzen auf diesem schlechten, faserigen Papier auch
 von selbst durch den Schweiß abgezeichnet haben … Nur
-Eingeborene Schurken nicht … Sie können mir schon
+Eingeborene schwitzen nicht … Sie können mir schon
 glauben, lieber Schraut …«
 
 Ich glaubte ihm …
 
-Und dachte unwillkürlich sofort an Mr. gelang Helfershelferin
-und Geliebte, an das Rodia Mädchen, die ja
+Und dachte unwillkürlich sofort an Mr. Rellans Helfershelferin
+und Geliebte, an das Rodia-Mädchen, die ja
 eine Farbige von der Insel Ceylon war, genau wie auch
-daß Wort Gannawa der Name eines in der Wildnis Ceylons
+das Wort Gannawa der Name eines in der Wildnis Ceylons
 liegenden Dorfes der Rodia war.
 
 O’Kelling deutete mein Schweigen falsch …
@@ -124,49 +120,48 @@ O’Kelling deutete mein Schweigen falsch …
 Ich beruhigte ihn … »Ich zweifle keinen Augenblick
 an der Richtigkeit Ihrer Annahme, bester Käpten … Ich
 bin sogar jetzt überzeugt, daß wahrscheinlich die Rodia hier
-die’es »Gannawa« in aller Eile niedergeschrieben hat …
+dieses »Gannawa« in aller Eile niedergeschrieben hat …
 Nur — weshalb mag sie die vier Blätter vorher abgerissen
-ward daß »Gannawa« gerade aus das Blatt des
+und das »Gannawa« gerade auf das Blatt des
 Neunten gekritzelt haben?! — Darüber Sinne ich jetzt nach«
 
 O’Kelling lehnte sich in die Ecke des Rohrsofas zurück.
 
-»Derlei Fragen geben über meinen Horizont,« sagte er
+»Derlei Fragen gehen über meinen Horizont,« sagte er
 <@pagebreak/>
 ehrlich und rieb ein Zündholz an, um seine Pfeife wieder
 in Brand zu setzen …
 
 Ich seufzte unwillkürlich …
 
-»Ja, wenn wir Harald hier bei uns hätten.« meinte
+»Ja, wenn wir Harald hier bei uns hätten,« meinte
 Ich traurig … Und abermals überwältigten mich die Angst
-und die Verzweiflung um den seit drei Tagen Verschwand
-
-denen …
+und die Verzweiflung um den seit drei Tagen Verschwundenen
+…
 
 »Mut!« rief der brave Käpten da. »Nur nicht den
 Kopf hängen lassen, Schraut! Nur die Hoffnung nicht verlieren!
-Sie sind doch schließlich auch ein erfahrenen Detektiv,
+Sie sind doch schließlich auch ein erfahrener Detektiv,
 und Sie werden Harsts Arbeitsmethode genügend kennen,
 um …«
 
 Ich unterbrach ihn … Blitzartig war in meinem Hirn
-eine Seite von neuen Gedanken entstanden, war das wie
+eine Kette von neuen Gedanken entstanden, war das wie
 ein klares Bild aufgetaucht, was man als »Theorie«
 bezeichnet …: das Ergebnis von logischen Kombinationen!
 
-»& Reling,« meinte ich halb triumphierend, »wir werden
-nach Kolombo Jahren …! Wir ist da soeben eine Art
+»O’Kelling,« meinte ich halb triumphierend, »wir werden
+nach Kolombo fahren …! Mir ist da soeben eine Art
 Erleuchtung gekommen … Nehmen Sie mal folgendes an:
 Das Rodia-Mädchen, Rellans Geliebte, hat jetzt aus den
 Zeitungsberichten davon Kunde erhalten, daß Edward
-Granveller, den wir Mr. Rellan nennen, sich? in Jane
-Weacfield verliebt hatte, — in die Braut des Asiatica war
-Schlag Doktor … Ihre Eifersucht erwacht … Zum Schein
-bleibt sie Rellan treu und hilft ihm, Harst irgendwie nach)
+Granveller, den wir Mr. Rellan nennen, sich in Jane
+Weacfield verliebt hatte, — in die Braut des Radscha Mar
+Shing Dabsal … Ihre Eifersucht erwacht … Zum Schein
+bleibt sie Rellan treu und hilft ihm, Harst irgendwie nach
 ihrem Heimatdorfe Gonnawa zu schaffen. Bevor sie jedoch
 Madras verlassen, schleicht sie sich hier in Ihre Kajüte und
-läßt uns die Nachricht Zuruf, daß Harst am neunten in
+läßt uns die Nachricht zurück, daß Harst am neunten in
 Gannawa zu finden sein wird! Das heißt: wir sollen am
 neunten in Gannawa sein!«
 
@@ -177,16 +172,16 @@ Sein Hirn arbeitet langsam …
 Schließlich begreift er, versteht er …
 
 »Bravo, Schraut, — bravo! Das ist ’ne Sache, die
-Hand und Fuß hakt …! — Schraut, wir Jahren …! Mein
-Kutter schafft den Weg bis Kolombo in zwei ur’d ein halb
+Hand und Fuß hat …! — Schraut, wir fahren …! Mein
+Kutter schafft den Weg bis Kolombo in zwei und ein halb
 <@pagebreak/>
-Tagen ne Wir brauchen uns also gar nicht sonderlich zu
-beeilen …
+Tagen … Wir brauchen uns also gar nicht sonderlich zu
+beeilen …«
 
-Wir beschlichen denn auch, erst am nächsten Morgen in
-aller Frühe Madras zu verlassen … Denn wir hatten, es
+Wir beschließen denn auch, erst am nächsten Morgen in
+aller Frühe Madras zu verlassen … Denn wir hoffen, es
 könnte Harst inzwischen doch noch glücken zu entfliehen, —
-— falls er noch am leben …
+— falls er noch am Leben …
 
 Auch dieser Tag neigt sich seinem Ende zu …
 
@@ -195,20 +190,19 @@ Dämmerung kriecht über Stadt und Hafen hin …
 Vom Meere der naht eines der kurzen tropischen Gewitter
 …
 
-Ungeheure Regenmassen Fluten herab …
+Ungeheure Regenmassen fluten herab …
 
-Donnerschläge erschüttern die Luft, als ’ob das Firmament
-bersten wollte … Blitze durchsuchen die pechschwarze
-Finsternis und erlöschen rasch wieder wie gewaltige Magnesiumlichter
-…
+Donnerschläge erschüttern die Luft, als ob das Firmament
+bersten wollte … Blitze durchfurchen die pechschwarze
+Finsternis und erlöschen rasch wieder wie gewaltige
+Magnesiumlichter …
 
-O’Kelling und ich hier vor der Kajüte unter dem
-Sonnensegel … Der Regen glasiert wie Hagel aus das
+O’Kelling und ich sitzen vor der Kajüte unter dem
+Sonnensegel … Der Regen prasselt wie Hagel auf das
 straff gespannte Leinen … Das Deck des Kutters schwimmt,
 
-In der Kajüte brennt kein Licht. Die Tür steht weilt
+In der Kajüte brennt kein Licht. Die Tür steht weit
 offen, damit die Kühle des Gewitterregens Eingang fände
-
 in den stickigen Raum …
 
 Da … an uns vorüber huscht eine Gestalt …
@@ -219,26 +213,26 @@ Ein Inder …
 
 »Satan!!« brüllt der Käpten … »Der braune Satan
 kam aus der Kajüte … Der Schuft hatte sich bei dieser
-Finsternis an uns vorbei gedrückt …!«
+Finsternis an uns vorbeigedrückt …!«
 
 Mein erster Gedanke da — — der Kalender!
 
 Mit ein paar raschen Schritten bin ich in der Kajüte …
-Meine Taschenlampe stammt auf …
+Meine Taschenlampe flammt auf …
 
 Hinter mir steht O’Kelling …
 
 »Verdammt!!« kreischt er mit überschnappender
 Stimme … »Schraut, — — was bedeutet das?!«
 
-An dem Nagel an der Wand hängt der große Alters-fallenden
+An dem Nagel an der Wand hängt der große Abreißkalender
 …
 
 Die Neun ist nicht mehr oberstes Blatt …
 
 <@pagebreak/>
 Harmlos und ehrlich, wie es dem heutigen Tage entspricht,
-grinst uns eine fürs entgegen …
+grinst uns eine Fünf entgegen …
 
 Ich mache noch einen Schritt vorwärts …
 
@@ -247,75 +241,73 @@ Ich lasse die vordersten Blätter durch die Finger gleiten
 
 Fünf, sechs, sieben, acht, neun, zehn …
 
-sein Blatt fehlt …
+Kein Blatt fehlt …
 
 Es ist ein anderer Kalender … Der Kerl, der die
 Frechheit besaß, sich hier einzuschleichen, hat die Kalender
-verlautscht …
+vertauscht …
 
 Weshalb?!
 
 Ich beleuchte das Blatt des heutigen Tages, das oberste,
 aus nächster Nähe …
 
-Stube …
+Stutze …
 
 Mit Bleistift sieht da gekritzelt:
 
-Phalu Dringar
+<p class="centered">Phalu Dringar</p>
 
-Und wieder möchte ich schwören, daß dieses große
+Und wieder möchte ich schwören, daß dieses große P
 von Haralds Hand stammt …
 
 Der Käpten schiebt mich beiseite …
 
-»Darauf, wissen Sie, was J’halu Dringar ist?«
+»Schraut, wissen Sie, was Phalu Dringar ist?«
 
 In seinen Augen ist jetzt ein Ausdruck stillen Grauens.
 
 »Nun?!« frage ich zögernd, und ungewisse Angst packt
 mich …
 
-Allan O’Kelling bittet
+Allan O’Kelling hüstelt …
 
-»Hm … Skala Dringar ist … ist … eigentlich gar
+»Hm … Phalu Dringar ist … ist … eigentlich gar
 nichts,« erklärt der Alte leise. »Insofern gar nichts, als
 man hier seit zwei Jahren nur diesen Namen kennt, nicht
-aber das, was sich dahinzuer verbirgt … Die Worte Phalu
+aber das, was sich dahinter verbirgt … Die Worte Phalu
 Dringar stammen aus dem Malaiischen und bedeuten
-Totenvogel … Vielleicht ist Il;irren bekannt, daß es auf
-der Insel Borneo einen culenartigen Vogel gibt, der mit
-Vorliebe Aas heißt von nur nachts sichtbar wird …«
+Totenvogel … Vielleicht ist Ihnen bekannt, daß es auf
+der Insel Borneo einen eulenartigen Vogel gibt, der mit
+Vorliebe Aas frißt von nur nachts sichtbar wird …«
 
 Ich werde ungeduldig …
 
-»Und — was tat dieses Vieh hier in Madras verbrochen,
+»Und — was hat dieses Vieh hier in Madras verbrochen,
 O’Kelling?!«
 
-»Nun, seit zwei Fahren verschwinden hier junge eingeborene
+»Nun, seit zwei Jahren verschwinden hier junge eingeborene
 <@pagebreak/>
 Mädchen … Und überall, wo eine Familie von
-diesem Mißge’chick verlassen wurde, fand man in dem betreffenden
+diesem Mißgeschick betroffen wurde, fand man in dem betreffenden
 Hause stets eine Schwungfeder dieses Vogels,
 die unverkennbar ist, da sie dunkelbraun mit drei grünen
-gingen und weißen Querstreifen …«
+Ringen und weißen Querstreifen …«
 
 Ich … höre nicht mehr hin …
 
 Ich habe mich gebückt …
 
 Habe vom Fußboden gerade unter dem Kalender eine
-solche Feder ausgehoben …
+solche Feder aufgehoben …
 
 Die Feder des Totenvogels …
 
 Das Zeichen eines … Mädchenräubers vielleicht …
 
-GZ
-
 <h2>2. Kapitel.</h2>
 
-<h3>O’Kelling reißt mir die Feder aus der Hand …</h3>
+O’Kelling reißt mir die Feder aus der Hand …
 
 »Verdammt!! Nicht möglich …!!«
 
@@ -325,12 +317,12 @@ Ich … höre nichts … sehe nichts …
 
 Mein Geist ist abwesend … wandelt andere Pfade …
 
-Mädchen verschwunden … Mädchenhändler … Unterbricht
+Mädchen verschwunden … Mädchenhändler … Vielleicht
 gar Mr. Rellan … Zuzutrauen wäre es ihm schon …
 denn dieser Mensch, der Harst und mich dem Flammentode
 überliefern wollte, der Miß Jane eine Kindermumie als
-Hochzeitsges enk sandte, der eine überragende Intelligenz
-mit ungeheure Willensstärke in sich vereint und daneben
+Hochzeitsgeschenk sandte, der eine überragende Intelligenz
+mit ungeheurer Willensstärke in sich vereint und daneben
 geldgierig wie ein chinesischer Wucherer ist, — weshalb
 sollte dieses brutale Ungeheuer nicht auch mit jungem Menschenfleisch
 geschachert haben?!
@@ -347,11 +339,11 @@ Er horcht auf …
 
 Will etwas erwidern …
 
-Ich habe Chor Kalender schon von der Wand nÜnenom-men
+Ich habe den Kalender schon von der Wand genommen
 <@pagebreak/>
-… Und’in drei Minuten habe ich auf dem Kalenderblatt
+… Und in drei Minuten habe ich auf dem Kalenderblatt
 des Fünften dieselben drei Fingerspuren sichtbar gemacht,
-dazu noch eine schwache vierte: den Seitenabdruk
+dazu noch eine schwache vierte: den Seitenabdruck
 eines Daumens …
 
 Der Käpten brummt:
@@ -361,27 +353,25 @@ noch hier in Madras, falls es eben die Fingerspitzen der
 Rodia sind … — und falls Rellan wirklich nach Ceylon
 will …«
 
-Wir fällt etwas ein …
+Mir fällt etwas ein …
 
 »O’Kelling, wir hätten der Polizei doch alles mitteilen
-sollen … Die Polizei hätte dann die auffallenden
+sollen … Die Polizei hätte dann die ausfahrenden
 Schiffe doppelt scharf überwacht … Ob ich nicht noch jetzt
 den Polizeichef einweihe?! Das Gewitter ist vorüber …
-Ich nehme eine Nichtsein … Dann bin ich in fünf Minuten
+Ich nehme eine Rickscha … Dann bin ich in fünf Minuten
+dort …«
 
-Ort …
+Ich greife schon nach dem Hut …
 
-Ich greise schon nach dem Hut …
-
-Der Käpten sagt: »Ich komme mit … Und zu die
+Der Käpten sagt: »Ich komme mit … Und auch die
 Feder hier zeigen wir den Beamten …«
 
-Die Nichtsein rollt durch die nassen Straßen …
+Die Rickscha rollt durch die nassen Straßen …
 
 Der Polizeichef arbeitet noch in seinem Dienstzimmer,
-… ein älterer Engländer mit einem kühlen, geistvollen See
-
-sieht …
+… ein älterer Engländer mit einem kühlen, geistvollen Gesicht
+…
 
 Ich erzähle: von dem Abreißkalender Nummer eins,
 dann von dem zweiten … von der Feder, von meinem Verdacht,
@@ -391,7 +381,7 @@ identisch sein könne …
 Der Beamte schaut mich sinnend an …
 
 Und ich trage nun meine Bitte vor: noch schärfere Beobachtung
-des Schifjfsverkehrs!
+des Schiffsverkehrs!
 
 Bin gerade mit dem letzten Satz fertig, als das Telephon
 sich meldet.
@@ -409,13 +399,13 @@ ein Torpedojäger sofort in See geht …
 
 Dann hängt er ab, wendet sich mir zu …
 
-»ÖLlb= Schraut, eine kleine Motorjacht hat vor zehn
+»Herr Schraut, eine kleine Motorjacht hat vor zehn
 Minuten den Hafen verlassen und auf den Anruf einer
 Polizeibarkasse nicht gestoppt … Die Jacht suchte sich mit
 abgeblendeten Lichtern davonzustehlen … Ich hoffe, der
 Torpedojäger holt sie sehr bald ein … Wenn Sie wollen,
 machen Sie die Verfolgung mit … Beeilen Sie sich dann
-aber …
+aber …«
 
 Ich Überlege nicht lange …
 
@@ -435,7 +425,7 @@ lehnt der Malaie Paratu, mein Freund …
 
 O’Kelling ruft:
 
-»Neues, Paratu?k«
+»Neues, Paratu?«
 
 »Nichts, Käpten,« erwidert der Matrose.
 
@@ -444,7 +434,7 @@ noch die nötigen Befehle gegeben …
 
 Zündet die Pendellampe an …
 
-Auf der laufen die Matrosen hin und her … Ziehen
+Auf Deck laufen die Matrosen hin und her … Ziehen
 die Planke ein … Der Motor springt an … Der Kutter
 verläßt seinen bisherigen Liegeplatz …
 
@@ -452,22 +442,22 @@ Ich renne in der kleinen Kajüte auf und ab …
 
 Und bleibe mit einem Ruck stehen …
 
-Mein Bis hat den Kalender gestreift …
+Mein Blick hat den Kalender gestreift …
 
-Ist so etwas möglich!
+Ist so etwas möglich?!
 
 »Käpten!!«
 
 »Was gibt’s?«
 
 <@pagebreak/>
-tausend »Käpten, täusche ich mich?! Da — sehen Sie den Kalender
-…
+»Käpten, täusche ich mich?! Da — sehen Sie den Kalender
+…!«
 
 »Verflucht!!« brüllt O’Kelling … »Da … da ist ja
 jetzt wieder der Neunte zu sehen!! Und … das ist … der
-Alte Kalender … Da sind auch die drei Fingerabdrücke …
-—» Schraut — das geht nicht mit rechten Dingen zu!!«
+alte Kalender … Da sind auch die drei Fingerabdrücke …
+— Schraut — das geht nicht mit rechten Dingen zu!!«
 
 Ich beleuchte das oberste Blatt …
 
@@ -478,42 +468,41 @@ Der Käpten ruft Paratu …
 
 »Hast du auch gut aufgepaßt, als wir weg waren?«
 
-»Ja. Käpten …
+»Ja, Käpten …«
 
 »Paratu, und dennoch ist hier wieder jemand in der
 verschlossenen Kajüte gewesen!«
 
-Ich deute auf die beiden kleinen Fenster, die nach achte
-gestern hinausgehen. Sie sind offen … gerade groß genug,
+Ich deute auf die beiden kleinen Fenster, die nach achtern
+hinausgehen. Sie sind offen … gerade groß genug,
 eine schlanke Person hindurchzulassen …
 
 Und sage: »O’Kelling, jetzt bin ich überzeugt: die Rodia
 spielt hier den Kalendergeist!«
 
-Steine Taschenlampe bestrahlt den einen Fensterrahmen
-
+Meine Taschenlampe bestrahlt den einen Fensterrahmen
 … dann den andern …
+
 »Der dort ist trocken,« meine ich. »Keine Regentropfen
-
 mehr … Dort ist jemand hindurchgeklettert.«
+
 »Dann müßte der Jemand bis zum Heck geschwommen
-Stein … dann müßte der jemand nasse Kleider gehabt
+sein … dann müßte der jemand nasse Kleider gehabt
+haben,« ruft O’Kelling hitzig …
 
-haben,« ruft O’Kelling Strich …
-
-»Oder ist im Boot bis zum ’Hed gekommen,« bleibe ich
-Hat meiner Ansicht …
+»Oder ist im Boot bis zum Heck gekommen,« bleibe ich
+bei meiner Ansicht …
 
 Paratu betont nochmals, daß er auf alles ringsum
 scharf Obacht gegeben habe …
 
-Inzwischen ist der Kutter schon im Marinekutter angelangt
+Inzwischen ist der Kutter schon im Marinehafen angelangt
 …
 
-Der Torpedojäger »Sussex« wirst uns ein Schlepptau
+Der Torpedojäger »Sussex« wirft uns ein Schlepptau
 zu …
 
-Dir Verfolgung beginnt …
+Die Verfolgung beginnt …
 
 Nach Süden geht’s …
 
@@ -523,7 +512,7 @@ Fernglas an den Augen …
 
 Ein Frachtdampfer kommt uns entgegen …
 
-— Lichtsignale hinüber — herüber …
+Lichtsignale hinüber — herüber …
 
 Der Torpedojäger ändert den Kurs, hält mehr auf die
 Küste zu …
@@ -533,17 +522,17 @@ Wieder eine halbe Stunde …
 Hafenlichter am Strande … O’Kelling ruft mir zu:
 »Sadra!«
 
-Ich verstehe: der kleine ha Sadra …!
+Ich verstehe: der kleine Hafenort Sadra …!
 
 Und — jetzt sehe ich die Jacht … links von den Hafenlichtern
-… wo die versandete Mündung des Basar-Flusses
+… wo die versandete Mündung des Palar-Flusses
 helle angeschwemmte Inseln weit in das Meer hinausschickt
 … Zwischen Sandbarren verschwindet die Jacht …
 
 Der Torpedojäger muß stoppen … Zu flach sind die
 Fahrrinnen …
 
-Wir aber werfen. das Schlepptau los, und unsere »Lady
+Wir aber werfen das Schlepptau los, und unsere »Lady
 Hamilton« jagt weiter … Hinter ihr die Pinasse des
 Kriegsschiffes, auf deren Bug plötzlich ein Scheinwerfer
 aufflammt …
@@ -555,12 +544,12 @@ Die Jacht etwa achthundert Meter vor uns …
 Vom Torpedojäger ein scharfer Knall … Eine Granate
 heult über uns hinweg … eine zweite … eine dritte …
 
-Die Jacht ist von auf Reisenden Fontänen umgeben.
+Die Jacht ist von aufspritzenden Fontänen umgeben.
 
 Wendet scharf nach links …
 
-Ist in einen Seitenarm eingelaufen … Mangroven
-Dickicht schützt sie …
+Ist in einen Seitenarm eingelaufen … Mangrovendickicht
+schützt sie …
 
 Schuß auf Schuß in das Dickicht …
 
@@ -579,7 +568,7 @@ Kein Mensch hier an Bord …
 <@pagebreak/>
 Das Vorschiff brennt …
 
-O’Kelling und ich, Paratu und noch ein Matrose verargen
+O’Kelling und ich, Paratu und noch ein Matrose dringen
 in die Achterkajüten ein …
 
 Wir suchen …
@@ -601,45 +590,45 @@ Wir stellten fest, daß es sich um die Jacht jenes Lord
 Salargan handelt, den Edward Granveller seinen Freund
 nannte. Wer auf der Jacht sich befand, bleibt noch zu ermitteln,
 
-Das Motors, pt schleppt die Jacht in den Fluß, Unser
+Das Motorboot schleppt die Jacht in den Fluß. Unser
 Kutter macht dort am Ufer fest, wo die Besatzung an Land
 gegangen und in dem Dickicht verschwunden ist.
 
 Wir gehen in die Kajüte … Ich reibe mein Feuerzeug
-an, zünde die Pendellampe an»…
+an, zünde die Pendellampe an …
 
-Linke von mir ein greulicher Fluch … Da steht Freund
+Links von mir ein greulicher Fluch … Da steht Freund
 Käpten vor seinem Abreißkalender …
 
-»Co »tut
+»Schraut!!«
 
-Ich ahne schon … Wahrscheinlich hängt lebt dort wieder
+Ich ahne schon … Wahrscheinlich hängt jetzt dort wieder
 zur Abwechslung der Kalender Nummer zwei, der mit
-dem Datum des Fürsten und der Aufschrift Phalu Dringar
+dem Datum des Fünften und der Aufschrift Phalu Dringar
 …
 
-»Ödraut!!«
+»Schraut!!«
 
-Ja doch …!« Und ich trete neben O’Kelling …
+»Ja doch …!« Und ich trete neben O’Kelling …
 
-Irrtum …! -«- Das oberste Blatt zeigt die Zahl sechs …
+Irrtum …! — Das oberste Blatt zeigt die Zahl sechs …
 eine Aufschrift fehlt …
 
 »Also ist wiederum jemand hier gewesen,« sagt der
 Käpten mit einem Gesicht, als ob er einen Geist schaute …
 
 Ich prüfe das oberste Blatt mit der Sechs … Ich
-angesehene auch nicht die kleine Mühe, die Probe zu machen, ob
+scheue auch nicht die kleine Mühe, die Probe zu machen, ob
 <@pagebreak/>
 Fingerabdrücke darauf vorhanden sind. Nein, ich finde
 nichts … Diesmal hat der unsichtbare Besucher lediglich
 das Blatt mit dem Datum des Fünften abgerissen und zwar
 sehr unsauber … oben unter dem Blechstreifen, der die
-Blätter zusammenhält, hängen leben Papier.
+Blätter zusammenhält, hängen Fetzen Papier.
 
-O’Kelling fragt nichts … Hat nur zugeschaut. Ihr
+O’Kelling fragt nichts … Hat nur zugeschaut. Ich
 bringe den Kalender an seinen Platz zurück und gehe hinaus
-an
+an Deck.
 
 Unsere vier malaiischen Matrosen stehen an der Backbordreling
 beieinander und reden eifrig miteinander. Als
@@ -651,7 +640,7 @@ dichten Gebüsch. Der Mond beleuchtet den verkrauteten
 Flußarm und den Dschungel zu beiden Seiten. Wasservögel
 lärmen im Schiff … Einzelne Mangobäume schimmern
 wie gekalkt von dem Unrat der schwarzen Reiher, die
-in ihren Seiten sollten. Die Nester heben sich wie schwarze
+in ihren Ästen horsten. Die Nester heben sich wie schwarze
 Klumpen von dem Blattgrün ab …
 
 Ich frage die vier Malaien:
@@ -660,6 +649,7 @@ Ich frage die vier Malaien:
 
 Die verlegenen Gesichter beweisen, daß die Leute irgend
 etwas Besonderes bemerkt haben müssen …
+
 Paratu, mein Freund, antwortet mit schlecht gespielter
 Gleichgültigkeit:
 
@@ -667,87 +657,88 @@ Gleichgültigkeit:
 wachen … Du kannst dich niederlegen, Tuwan, du und der
 Käpten …«
 
-Mein Art sucht die Röhrichiwand zu durchdringen …
+Mein Blick sucht die Röhrichtwand zu durchdringen …
 
-Da ist eine Stelle, wo die hohen Robhrstengel niedergedrückt
+Da ist eine Stelle, wo die hohen Rohrstengel niedergedrückt
 sind … An dieser Stelle ist die Besatzung der jetzt
 beschlagnahmten Jacht an Land gegangen … Und durch
-diese Lücke erkenne ich nun gegen den besser Hintergrund
-Fell der vom Reiherunrat beschmutzen Mangos eine See
+diese Lücke erkenne ich nun gegen den hellen Hintergrund
+eines der vom Reiherunrat beschmutzen Mangos eine Gestalt
+…
 
 <@pagebreak/>
 
-<h2>8. Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 
-… Eine Gestalt =«—« nur die Umrisse … Denn dort im
-Baum’chatien lauert die Dunkelheit. Dorthin fällt das
-Mondlicht’ nicht …
+… Eine Gestalt — nur die Umrisse … Denn dort im
+Baumschatten lauert die Dunkelheit. Dorthin fällt das
+Mondlicht nicht …
 
 Ich habe das Fernglas noch am Riemen umgehängt …
 Stelle es ein … Erkenne nun, daß die Gestalt ein Weib ist,
 eine Inderin mit Kopftuch …
 
-ne Sie steht mit schlaff herabhängenden Armen regungs-da
-…
+Sie steht mit schlaff herabhängenden Armen regungslos
+da …
 
 Verdächtig regungslos …
 
-»Paratull«
+»Paratu!!«
 
-»Tuwan Schraut«
+»Tuwan Schraut?«
 
-»Ihr habt die Frau dort bemerkt … Weshalb verschwieg!
+»Ihr habt die Frau dort bemerkt … Weshalb verschwiegt
 ihr’s …«
 
 Der junge schlanke Malaie mit dem kühnen braunen
-Gesicht erwidert leise: »Tuwan, es ist kein Weib …!!«
-ich 29 Durchreise: unsere Matrosen sind abergläubisch wie
+Gesicht erwidert leise: »Tuwan, es ist kein Weib …!«
 
-Herr
+Ich begreife: unsere Matrosen sind abergläubisch wie
+ihr Herr!
+
 »Schiebt die Laufplanke hinüber!« befahl ich kurz …
 
 Sie gehorchen …
 
-hin »enge! knistern und knacken, als das lange
-du.« und einen Weg bahnt, Dann steckt es sehr …
+Die Rohrstengel knistern und knacken, als das lange
+Brett sich einen Weg bahnt. Dann steckt es fest …
 
-Ich schreite über die wippende Planke … Und -. Mit
+Ich schreite über die wippende Planke … Und — mit
 einem Male ist auch der Käpten zur Stelle, in jeder Hand
 einen Revolver … Kommt hinter mir her …
 
 Ich habe die Taschenlampe in der Linken, in der Rechten
-die Clement … Der Lichtkegel bist aus, trifft die Gestalt
+die Clement … Der Lichtkegel blitzt auf, trifft die Gestalt
 des Weibes …
 
 Ein Sprung — — und ich bin dicht vor …
 
-Pralle entgeht zurück
+Pralle entsetzt zurück …
 
-O’Kelling brüllt, — leider hat er’s ’noch immer nicht
+O’Kelling brüllt, — leider hat er’s noch immer nicht
 gelernt sich zu beherrschen:
 
-»Verdammt — — die Rodia … «!! Aufgeknüpft …!!«
+»Verdammt — — die Rodia …!! Aufgeknüpft …!!«
 
 Ja — aufgeknüpft … An einer dünnen Leine, so
-daß die Füße im Grase übt Über dem Boden schweben
+daß die Füße im Grase dicht Über dem Boden schweben …
 
 <@pagebreak/>
 Der Käpten drängt mich beiseite … Schneidet das
 Weib ab … läßt den Körper ins Gras gleiten … lockert
 die Schlinge …
 
-Ich helle ihm …
+Ich helfe ihm …
 
 Paratu erscheint … Wir versuchen alles, was man
 in solchen Fällen tun kann, um das vielleicht noch nicht
-völlig entflohene Leben zurüzurufen … denn der Körper
+völlig entflohene Leben zurückzurufen … denn der Körper
 der Rodia ist noch warm …
 
 Wir bemühen uns eine halbe Stunde umsonst … Fühlen,
 daß die Glieder erkalten … Geben es schließlich auf …
 Tragen die Frau an Bord und bedecken sie mit einem Stück
-
-Lichtkegel … —
+Segel … —
 
 Schlafen?! — Unmöglich …!!
 
@@ -757,31 +748,31 @@ gebracht …
 
 Sitzen auf dem Rohrsofa …
 
-»Rellans Quittung!« jage ich dumpf …
+»Rellans Quittung!« sage ich dumpf …
 
 Der Käpten nickt … »Ja — er muß gemerkt haben,
-laß die Rodia gegen ihn war …«
+daß die Rodia gegen ihn war …«
 
 »Nun glauben Sie also doch, daß die Rodia das Spiel
 mit den Kalendern getrieben hat?!«
 
-»Zeit ja, lieber Schraut … — Und so wahr ich Allan
+»Jetzt ja, lieber Schraut … — Und so wahr ich Allan
 O’Kelling heiße: dem Schuft Rellan soll es genau so ergehen
 wie dem armen Weibe — genau so!! Wir werden
 ihn finden, Schraut …! Wenn’s nur erst hell würde …!
 Das Lumpenpack gewinnt einen zu großen Vorsprung …«
 
-Wir rauchen und warten aus den jungen Tag …
+Wir rauchen und warten auf den jungen Tag …
 
 Wenn nur erst der Morgen da wäre! Wenn wir nur
-erst die Fährte der Flüchtlinge ausnehmen könnten! Nur
+erst die Fährte der Flüchtlinge aufnehmen könnten! Nur
 nicht diese Untätigkeit, die den Geist förmlich lähmte …!
-Nur nicht diese nervensressende Ungewißheit noch länger
+Nur nicht diese nervenfressende Ungewißheit noch länger
 ertragen müssen …!
 
-Ich sprang aus…
+Ich sprang auf …
 
-Ab »Was wollen Sie, Schraut?!« fragte der Käpten
+»Was wollen Sie, Schraut?!« fragte der Käpten
 müde …
 
 <@pagebreak/>
@@ -791,35 +782,35 @@ Er rappelte sich aus seiner Sofaecke auf …
 
 »Ein Viertel vier Uhr morgens,« meinte er mit einem
 Blick nach der Wanduhr … »Lange kann’s nicht mehr
-dauern, Schraut …« —« Er gähnte und reckte sich … »sollen
+dauern, Schraut …« — Er gähnte und reckte sich … »Sollen
 denn nun wir beide allein die Halunken verfolgen?!
 Oder nehmen wir noch Paratu mit? Die drei anderen
 Matrosen werden mit dem Kutter schon fertig, und Verlaß
 ist auf die Burschen …«
 
-— »Besser zu Dreien,« erklärte ich, und meine Stimme
+»Besser zu Dreien,« erklärte ich, und meine Stimme
 klang frischer … Endlich würde ja nun die Möglichkeit
 gegeben sein, aus den Spuren festzustellen, ob sich Harald
 etwa als Gefangener bei den Flüchtlingen befand.
 
-Der könnten instruierte nun die drei Malaien, die aus
+Der Käpten instruierte nun die drei Malaien, die auf
 der Lady Hamilton zurückbleiben sollten …
 
-Kanu war es einigermaßen hell geworden, als wir
-drei, mit allem Nötigen reichlich Menschen, über die Laufplanke
+Kaum war es einigermaßen hell geworden, als wir
+drei, mit allem Nötigen reichlich versehen, über die Laufplanke
 an Land gingen und hier auch sofort einen schmalen
 Pfad entdeckten, der ganz so aussah, als ob er sehr häufig
 benutzt worden war.
 
 Wir drei bewegten uns mit äußerster Vorsicht vorwärts
-… um wir halte in ja von Harald so manch?5
+… Zum Glück hatte in ja von Harald so manches
 gelernt, was Fährtenlesen betrifft … Nicht ein einziges
-Mal leicht ich trotz all der so schlau hergerichteten Nebenpsadc
-und trotz anderer kniete, mit denen man hier den richtigen
-Berg streckenweise durch die Baumwipfel geleitet hatte, von
+Mal wich ich trotz all der so schlau hergerichteten Nebenpfade
+und trotz anderer Kniffe, mit denen man hier den richtigen
+Weg streckenweise durch die Baumwipfel geleitet hatte, von
 dem richtigen Schleichpfade ab …
 
-Nach den Spuren schaute ich die Anzahl der Flüchtlinge
+Nach den Spuren schätzte ich die Anzahl der Flüchtlinge
 auf etwa vierzehn, darunter vielleicht fünf oder sechs
 Frauen. Aber leider, leider fand ich nirgends den Abdruck
 eines Europäerstiefels … Sollte Harst also doch nicht mehr
@@ -827,8 +818,8 @@ unter den Lebenden weilen?! — Und — — so begann denn
 für mich die Ungewißheit von neuem …!
 
 Freilich: man konnte Harald vielleicht getragen haben!
-Ober man hatte ihm Sandalen über die Füße gestreift —
-— vielleimt!! —
+Oder man hatte ihm Sandalen über die Füße gestreift —
+— vielleicht!! —
 
 <@pagebreak/>
 Gerade diese Ungewißheit war’s, die mich zu doppeltem
@@ -836,17 +827,16 @@ Eifer anspornte …
 
 Und doch nicht etwa zur Übereilung!
 
-Denn ich war mir der Gefahr sehr weh! bewußt, die
+Denn ich war mir der Gefahr sehr wohl bewußt, die
 hier auf Schritt und Tritt lauern konnte! Daß Rellan mit
 Verfolgern rechnete, war ja selbstverständlich, und daß er
 seine Gegenmaßnahmen treffen würde, war ebenso selbstverständlich,
 
 Zwei Stunden waren wir nun bereits unterwegs …
 
-Und — immer noch der ausgetretene, schmale Schleich-pfad
-… Zu beiden Seiten Strich und Bäume aller Art,
-
-anderen Kronen über uns eine zumeist so blickte grüne Wölbung
+Und — immer noch der ausgetretene, schmale Schleichpfad
+… Zu beiden Seiten Dickicht und Bäume aller Art,
+deren Kronen über uns eine zumeist so dichte grüne Wölbung
 bildeten, daß kaum ein Sonnenstrahl hindurchdrang …
 
 Plötzlich drängte sich Paratu neben mich …
@@ -855,7 +845,7 @@ Plötzlich drängte sich Paratu neben mich …
 mache … Meine Nase ist vielleicht besser als die deine,
 Tuwan … Ich rieche Rauch … Nicht von einem Lagerfeuer,
 Tuwan, sondern von einer brennenden Hütte, die
-mit Schilf jedoch?! ist … — Außerdem aber; schau’ zur
+mit Schilf gedeckt ist … — Außerdem aber: schau’ zur
 Sonne empor, Tuwan Schraut … Wir haben einen großen
 Kreis beschrieben und sind wieder in der Nähe des
 verkrauteten Flußarmes …«
@@ -876,49 +866,49 @@ um wieder ein Fahrzeug zur Verfügung zu haben!
 
 Diese neue Sorge ließ mich das Tempo beschleunigen.
 
-am halben Trab eilten wir weiter …
+Im halben Trab eilten wir weiter …
 
 dann spürte auch ich den Brandgeruch …
 
 Dann noch eine scharfe Biegung, und wir sahen ein
 <@pagebreak/>
 kleines, seeartiges Wasserbecken vor uns, sahen auf der
-Spie einer in den See hineinragenden Halbinsel zwei
+Spitze einer in den See hineinragenden Halbinsel zwei
 große Hütten in hellen Flammen stehen …
 
-hatten noch sehr: an dieser Halbinsel gab es eine
+Sahen noch mehr: an dieser Halbinsel gab es eine
 Landungsbrücke, an der eine malaiische Prau lag …
 
 Auch dieses plumpe Segelschiff brannte …
 
 Unser Käpten stand kopfschlackernd da …
 
-»Verdammt, ich kenne doch hier an der Koromandvel-ffiste
+»Verdammt, ich kenne doch hier an der Koromandelküste
 jede einzelne Landungsbrücke, und mag sie zu dem
 lausigsten Dorfe gehören! Dieser See ist mir fremd … Das
 muß ein ganz geheimer Schlupfwinkel sein …! Das
 muß …«
 
 Und schwieg … Schwieg mit Recht … Denn von
-links der jetzt das Knattern eines Motors …
+links her jetzt das Knattern eines Motors …
 
 Und aus dem Röhricht dort kam jetzt das stark bemannte
 Motorboot des Torpedojägers zum Vorschein …
 Hatte nun freie Fahrt … Schoß auf uns zu … —
 
 Ein paar Minuten später wußten wir, daß dieser See
-
 eine gut verborgene Verbindung mit dem Flußarm hatte
-und daß unser dunkel aus dem Flußarm … verschwinden
+und daß unser Kutter aus dem Flußarm … verschwunden
 war …
-Und wieder sei Wundern darauf war’s klar erwiesen,
-vi: ij; dieser See tatsächlich eine Art Piratennest ominösen und
-laß echte Alterchen noch einen zweiten ebenso versteckten Ausgang
-nach vom Meere hin besaß.-«-
+
+Und wieder zehn Minuten darauf war’s klar erwiesen,
+daß dieser See tatsächlich eine Art Piratennest gewesen und
+daß er außerdem noch einen zweiten ebenso versteckten Ausgang
+nach vom Meere hin besaß. —
 
 Unser Käpten tobte, fluchte, wütete …
 
-Zum Glück hatte sich der englische Marineoffizier [derart
+Zum Glück hatte sich der englische Marineoffizier sofort
 bereit erklärt, uns an Bord des noch vor den Sandinseln
 der Flußmündung ankernden Torpedojägers zu
 bringen und zwar sofort …
@@ -928,16 +918,16 @@ Kommandanten standen, und ich nun Bericht über die letzten
 Vorgänge erstattete, so auch über die Ermordung des
 Rodia-Mädchens …
 
-Und wieder eine halbe Stunde später jagte Lord Salar-gans
+Und wieder eine halbe Stunde später jagte Lord Salargans
 beschlagnahmte Jacht »Osiris« unter Führung O’Kellings
 <@pagebreak/>
 und bemannt mit sechs Kriegsschiffmatrosen nach
 Süden … Der Kommandant hatte sie uns zur Verfügung
-gestellt, da er selbst mit dem Torpedojäger nach hintrat
+gestellt, da er selbst mit dem Torpedojäger nach Madras
 zurückkehren mußte.
 
 So hatten wir denn wieder ein eigenes Schifflein unter
-den Füßen, waren hier unser neun, die alle daraus brannten,
+den Füßen, waren hier unser neun, die alle darauf brannten,
 Mr. Rellan recht bald aufgeknüpft zu sehen …
 
 Südwärts ging’s also, gen Kolombo …
@@ -945,48 +935,46 @@ Südwärts ging’s also, gen Kolombo …
 Ich hoffte noch immer, daß der Abreißkalender tatsächlich
 für uns den Wink enthalten habe, am Neunten in
 Gannawa zu sein und daß ich dort Harald wiederfinden
-würde, Mal gibt sich ja so sehr gern einer Hoffnung hin,
-mag sie auch noch so gering sein und aus noch so lockerem
+würde. Man gibt sich ja so sehr gern einer Hoffnung hin,
+mag sie auch noch so gering sein und auf noch so lockerem
 Sande aufgebaut sein …
 
 Ein Umstand bestärkte mich in dieser Hoffnung: daß
-Mr. Rellan, das Scheusal, das arme Rodia-Mädchen großer
+Mr. Rellan, das Scheusal, das arme Rodia-Mädchen getötet
 hatte, weil er eben gemerkt hatte, daß sie gegen ihn
-intrigierte! Mithin mußte diese Aufschrift aus dem Blatte
+intrigierte! Mithin mußte diese Aufschrift auf dem Blatte
 des Neunten, dieses Gannawa, wohl etwas zu bedeuten gehabt
 haben! Anderseits erschien es mir ausgeschlossen, daß
 Rellan von dieser Aufschrift Kenntnis erlangt haben
-könnte, Worin mir auch der Käpten recht gab.
-
-Ehre
+könnte. Worin mir auch der Käpten recht gab.
 
 <h2>4. Kapitel.</h2>
 
-<h3>Vierzehn erworben waren wir nun unterwegs …</h3>
+Vierzehn erworben waren wir nun unterwegs …
 
-Der Abend senkte seine Staaten über Strand und
+Der Abend senkte seine Schatten über Strand und
 Meer. Wir befanden uns etwa auf der Höhe von Pondicherry,
-der kleinen sranzesi’hen Kolonie hier an der Koro-mandelsfüste.
+der kleinen französischen Kolonie hier an der Koromandelküste.
 Wir hatten wiederholt uns begegnende Schiffe
 angefragt, ob sie nicht den Kutter gesichtet hätten. Die
-unweit fiel regelmäßig sehr ungewiß aus, weil Frachtkutter
+Antwort fiel regelmäßig sehr ungewiß aus, weil Frachtkutter
 von dem Äußeren der »Lady Hamilton« in diesen
 Gewässern nur zu häufig waren,
 
-Abermals trafen wir einen kleineren Schoner. und
+Abermals trafen wir einen kleineren Schoner, und
 <@pagebreak/>
 O’Kelling brüllte mit dem Sprachrohr seine Anfrage hinüber.
-Der Kapitän des Schoners wart ein guter Bekannter
+Der Kapitän des Schoners war ein guter Bekannter
 O’Kellings, und so entwickelte sich denn eine längere
-Er uns während die Jacht dicht neben dem Schoner
-verlief.
+Unterhaltung, während die Jacht dicht neben dem Schoner
+herlief.
 
 Der Schonerkapitän hatte kaum gehört, daß O’Kellings
 Kutter von Mädchenhändlern geraubt sei, als er auch
-schon yeruberrlef, er sei südlich von Pondicherry einem Kutter
-begegnet, der ihm so … verdammt bekannt vorgekonx
-men sei ., Und dieser Kutter habe auf die südliche Müw
-Verkleidung des Penner-Flusses zugehalten — — ganz bestimmt
+schon herüberrief, er sei südlich von Pondicherry einem Kutter
+begegnet, der ihm so … verdammt bekannt vorgekommen
+sei … Und dieser Kutter habe auf die südliche Mündung
+des Penner-Flusses zugehalten — — ganz bestimmt
 und an Bord seien nur Inder zu sehen gewesen …
 
 Aus dem weiteren Verlauf dieser Unterhaltung von
@@ -995,19 +983,19 @@ der Kutter nur die »Lady Hamilton« gewesen sein könne.
 
 Unsere Jacht wendete also wieder und strebte mit
 voller Kraft ihrer beiden Motoren derselben Flußmündung
-tu’ die etwa acht Meilen südlich von Pondicherry zu
-machen ist …
+zu, die etwa acht Meilen südlich von Pondicherry zu
+suchen ist …
 
-jenen zehn Uhr Abende bogen wir in den breiten und
+Gegen zehn Uhr Abends bogen wir in den breiten und
 von Fahrzeugen sehr belebten Mündungsarm ein, der den
 einzigen Verbindungsweg mit der im Innern gelegenen
-Industriestadt anruft! darstellt, die im Übrigen durch
+Industriestadt Garrutti darstellt, die im Übrigen durch
 sumpfige Dschungel von der Küste abgesperrt ist, selbst aber
-zu einem sehr gefunden Bergtale sich ausdehnt, wo kurzer,
-»über und Zinn durch modernen Bergbaubetrieb gewonnen
+zu einem sehr gesunden Bergtale sich ausdehnt, wo Kupfer,
+Silber und Zinn durch modernen Bergbaubetrieb gewonnen
 wird,
 
-Nach kurzer Beratung warten wir daher an einsamer
+Nach kurzer Beratung warfen wir daher an einsamer
 Uferstelle Anker und brachten das Beiboot der Jacht, das
 einen eingebauten Motor und volle Kuttertakelage besaß,
 zu Wasser.
@@ -1016,7 +1004,7 @@ O’Kelling, Paratu und ich bestiegen das Boot und begannen
 nun bei Mondschein die Ufer abzusuchen.
 
 Nachdem wir zuerst an dem nördlichen entlanggefahren
-waren, wendeten wir und steuerten am suchten flußaufwärts.
+waren, wendeten wir und steuerten am südlichen flußaufwärts.
 <@pagebreak/>
 Ein Uhr morgens war’s, als Paratu plötzlich zu
 uns nach dem Heck gelaufen kam …
@@ -1025,7 +1013,7 @@ Schon sein erregtes Gesicht und seine ebenso erregten
 Armbewegungen ließen uns das richtige erraten …
 
 »Unser Kutter — — unser Kutter!!« keuchte der Malaie
-».» »Dort links hinter der Prau liegt er … Erfüllte …!«
+… »Dort links hinter der Prau liegt er … Er ist’s …!«
 
 O’Kelling hob mit zitternden Händen das Fernglas …
 
@@ -1045,29 +1033,29 @@ Wollen mal erst den Kutter eine Weile beobachten …«
 
 Wir taten’s …
 
-— Unser Boot trieb langsam an der Prau und dem Autor
+Unser Boot trieb langsam an der Prau und dem Kutter
 vorüber …
 
-auf der Braut waren zwei Wachen zu sehen … Ich
-Hof sie an … Und Agentur führte dann mit seinen Landsleuten
+auf der Prau waren zwei Wachen zu sehen … Ich
+rief sie an … Und Paratu führte dann mit seinen Landsleuten
 (es handelte sich um Malaien) die kurze Unterhaltung.
 Die Wachen teilten uns mit, daß die Leute von dem
-Futter vor zwei Stunden im Boot an Land gerudert seien
+Kutter vor zwei Stunden im Boot an Land gerudert seien
 — sieben Inder mit sechs langen Warenballen …!
 
-Warenballen?! — Ohne Zweifel waren das sechs gewandte
+Warenballen?! — Ohne Zweifel waren das sechs geraubte
 Mädchen …!
 
-Unser Boot schoß nun auf den Kutter zu … O’Kek-ng
+Unser Boot schoß nun auf den Kutter zu … O’Kelling
 und ich schwangen uns an Deck … Mit schußbereiter
-Tasse durchsuchten wir unsere wiedergefundene »Lady
+Waffe durchsuchten wir unsere wiedergefundene »Lady
 Hamilton«. Im Vorschiff in einer Kammer lagen unsere
-ri Matrosen gefesselt und geknebelt … Wir befreiten sie,
+drei Matrosen gefesselt und geknebelt … Wir befreiten sie,
 ließen uns erzählen … Sie waren tatsächlich ganz übersehend
-überfallen und niedergeschlagen worden … zieht
-übten sie nicht … Sie waren hier in der Kammer wieder
+überfallen und niedergeschlagen worden … Mehr
+wüßten sie nicht … Sie waren hier in der Kammer wieder
 <@pagebreak/>
-zu sich gekommen uns Perlen keinen der Angreifer mehr gesehen.
+zu sich gekommen und hatten keinen der Angreifer mehr gesehen.
 Niemand hatte sich um sie gekümmert … —
 
 Inzwischen hatte Paratu im Ufergestrüpp das Boot
@@ -1075,15 +1063,15 @@ des Kutters entdeckt und es mit dem Beiboot der Jacht
 längsseit geholt,
 
 Ich schickte den Malaien dann mit dem Beiboot zur
-»Osiris« zurück und ließ den sechs englischen Master en ausrichten,
+»Osiris« zurück und ließ den sechs englischen Matrosen ausrichten,
 daß sie mit der Jacht nach Madras zurückkehren
 könnten.
 
 O’Kelling hatte derweil in der Kajüte Licht gemacht …
 
 Niemand wird es wunderbar finden, daß ich nun beim
-Eintritt in die Kajüte zuerst nach links blickte, wo der Abreißkalender
-hing …
+Eintritt in die Kajüte zuerst nach links blickte, wo der
+Abreißkalender hing …
 
 Er war noch da …
 
@@ -1094,7 +1082,7 @@ Freund Käpten meinte freudestrahlend:
 
 »Schraut, die Schufte haben sich hier sehr anständig benommen
 … sehr! Alles noch in bester Ordnung … Nichts
-wer allen …«
+gestohlen …«
 
 »Ja, sogar der Kalender zeigt schon den heutigen Tag
 …«
@@ -1115,18 +1103,18 @@ Er war schon neben mir …
 oder …«
 
 »Prau heißt’s …!«
-»Und — wer hat nun dies ge’chhrieben?! Die Rodia
+
+»Und — wer hat nun dies geschrieben?! Die Rodia
 ist doch tot … Und doch — es ist wieder dieselbe Handschrift
-…! — Unheimlich!! Unheimlib!! Ob die tote
-dran hier etwa …«
+…! — Unheimlich!! Unheimlich!! Ob die tote
+Rodia hier etwa …«
 
 <@pagebreak/>
-»Aber Käpten!! Blamieren Sie sich? nicht!« unterbrach
+»Aber Käpten!! Blamieren Sie sich nicht!« unterbrach
 ich ihn …
 
-Er runzelte die hastige Stirn … »Blamieren?! Wenn
-
-Sie auch nicht an übernatürliche Dinge glauben, Schraut?
+Er runzelte die faltige Stirn … »Blamieren?! Wenn
+Sie auch nicht an übernatürliche Dinge glauben, Schraut:
 es gibt gerade hier in Indien genug Dinge, daß ein ehrlicher
 Christenmensch …
 
@@ -1135,131 +1123,131 @@ Stoppte mitten im Satz ab.
 Brüllte (das wird er sich sein Lebtag nicht abgewöhnen!):
 
 »Schraut, da sieht ja noch was aus dem Blatt …!!
-Aber auf der schwarzen Druckfarbe der selben!!«
+Aber auf der schwarzen Druckfarbe der Sieben!!«
 
 Und er riß den Kalender vom Nagel, hielt ihn schräg
 gegen das Licht der Pendellampe …
 
-»am … die Klaue soll der Deubel lesen! — Schraut,
+»Hm … die Klaue soll der Deubel lesen! — Schraut,
 was heißt das?!«
 
 Ich probierte — buchstabierte:
 
-»Nebel an— Nebel an!!«
+»*Nebelan* — Nebel an!!«
 
-»Blech!! Das ist doch Quatsch, Schraut! Nebel an?!
-Was soll das?’!«
+»Blech!! Das ist doch Quatsch, Schraut! Nebel an!!
+Was soll das?!«
 
 Ich zuckte die Achseln. Ich wußte es selbst nicht …
 
-Der Käpten feuerte den Kalender Wollhemd auf den
+Der Käpten feuerte den Kalender wütend auf den
 Tisch … »Da soll ja das heilige Donnerwetter reinschlagen!!
 Nebel an …!! Was heißt das?! Erst … »Prau«,
 und dann »Nebel an« … — Schraut, Sie …«
 
-Wieder stoppte er … Ich) hatte den Kalender zur
+Wieder stoppte er … Ich hatte den Kalender zur
 Hand genannten und … lachte leise …
 
-»Wir sind … Schafsköpfe, O’Kelling!! Resultate
-Schafsköpfe …!!1 Das »Nebel an« ist ja klein geschrieben …
+»Wir sind … Schafsköpfe, O’Kelling!! Reguläre
+Schafsköpfe …!! Das »Nebel an« ist ja klein geschrieben …
 und es heißt auch gar nicht »Nebel«, sondern »neben«, also
 nebenan, — mithin: Prau nebenan!!«
 
 »Oho — — nebenan!! Prau nebenan!! Das hat
 Hand und Fuß …! — Schraut, das kann nur die Prau
-sein, deren Lachen Sie anriefen! Ob mit dieser Prau
+sein, deren Wachen Sie anriefen! Ob mit dieser Prau
 etwas nicht stimmt?!«
 
 Ich überlegte …
 
-Dann tat ich; das, was in krochen Falle die Sache
+Dann tat ich das, was in diesem Falle die Sache
 <@pagebreak/>
-wesentlich. hätte: ich wandte das bekannte Verfahren an,
-Am etwaige Fingerabdrücke sichtbar zu machen!.
+wesentlich klärte: ich wandte das bekannte Verfahren an,
+um etwaige Fingerabdrücke sichtbar zu machen!
 
-»Freilich — ich fand so lediglich den Abdruck einer
+Freilich — ich fand so lediglich den Abdruck einer
 Fingerkuppe … —
 
-Aber; dieser Finger war mir nicht fremd! ’Dieser
-Dinger gehörte s29 sicher Harald, wie ich selbst meine zehn
+Aber: dieser Finger war mir nicht fremd! Dieser
+Dinger gehörte so sicher Harald, wie ich selbst meine zehn
 Finger besaß!
 
-»Reling, Harst lebt!« — und meine Stimme bebte …
+»O’Kelling, Harst lebt!« — und meine Stimme bebte …
 Meine Zunge gehorchte mir kaum …!
 
 Dann starrten wir beide wie verzückt auf den dunklen,
-anblicken Fleck mit dem seinen Linienmuster …
+rundlichen Fleck mit dem feinen Linienmuster …
 
 Bis draußen an Deck Paratu sich meldete und fragte,
 ob er eintreten dürfe …
 
 »Was gibt’s!!« empfing der Käpten den Matrosen
-und erste auf den Kalender … »Paratu, da schau’ hin
-der Beweis, daß der Tuwan Harst noch nicht ne
-fehlt sich! Von ihm stammt der Fingerabdruck!
+und zeigte auf den Kalender … »Paratu, da schau’ hin
+der Beweis, daß der Tuwan Harst noch nicht abgekehlt
+ist! Von ihm stammt der Fingerabdruck!«
+
 Der Malaie grinste vor Freuden …
-»Also was gibt’s, Warnruf!« wiederholte O’Kelling …
+
+»Also was gibt’s, Paratu?!« wiederholte O’Kelling …
 »Bist du schon von der Jacht zurück?«
 
-»Wut der Jacht zurück, Käpten … Die sechs Matrosen
-warten Ihnen und Tuwan Schraut noch lebewohl sagen.«
-» hatte derweil meinen Entschluß schon gehabt …
+»Mit der Jacht zurück, Käpten … Die sechs Matrosen
+wollen Ihnen und Tuwan Schraut noch lebewohl sagen.«
 
-eins,« meinte ich leise, »Harst war der …, Das
+Ich hatte derweil meinen Entschluß schon gefaßt …
 
-— 1-P .-« Natürlich als Gefangener Rellans … Und
-
+»O’Kelling,« meinte ich leise, »Harst war hier … Das
+steht fest … Natürlich als Gefangener Rellans … Und
 — jetzt, behaupte ich, steckt die Bande auf der Prau! Die
-
-Lohn haben uns belogen … Die Prau ist mit Reling
-
+Wachen haben uns belogen … Die Prau ist mit Rellan
 verbündet … Wir werden sie entern … Da kommen uns
-die sechs Matrosen gerade recht …
+die sechs Matrosen gerade recht …!«
 
-Und ich trat auf das Deck hin »u, äugte zu der kaum
+Und ich trat auf das Deck hinaus, äugte zu der kaum
 dreißig Meter entfernten Prau hinüber …
 
 Dort an der Reling lehnte jetzt nur ein einzelner Malaie,
 ein älterer, graubärtiger Kerl … Das Mondlicht fiel
 ihm gerade ins Gesicht … Er hatte eine kurze Pfeife im
-Mundwinkel und glotzte zu den Steinen empor. —
+Mundwinkel und glotzte zu den Sternen empor. —
 
 Ich flüsterte mit Paratu … Der begriff sofort, winkte
 <@pagebreak/>
-zur Jacht hinüber, die kaum. fünf Schritt neben. Juni an
+zur Jacht hinüber, die kaum fünf Schritt neben uns an
 einer Trosse schaukelte …
 
 Ich will hier unseren Handstreich auf die Prau nicht
 zu ausführlich schildern …
 
 Paratu beschäftigte den alten Malaien, indem er mit
-dem Boote an die Prau heranruvderte und anscheinend von
+dem Boote an die Prau heranruderte und anscheinend von
 dem Alten nur über die Besatzung des Kutters, über die
 angeblich an Land gegangene Besatzung, Auskunft haben
 wollte … Der alte Bursche stellte sich jedoch schwerhörig,
 und Paratu wurde schließlich wütend und rief dem Kerl ein
 paar hastige Schimpfworte zu, — ein Vorgehen, das er sich
 getrost leisten konnte, da wir uns inzwischen mit der Jacht
-[on von der Flußseite her an die Prau herangemacht
-
+schon von der Flußseite her an die Prau herangemacht
 hatten …
-a. sechs Kriegsschiffmatrosen waren als erste an
 
-Waren sitze Kerle …
+Die sechs Kriegsschiffmatrosen waren als erste an
+Deck …
+
+Waren fixe Kerle …
 
 Und doch nicht fix genug, denn der alte Malaie war
 spurlos … verduftet, schien doch Unrat gewittert zu haben
 und mußte sich schleunigst irgendwo verkrochen haben …
 
 Wir waren nun unser neun hier auf der Prau … Alle
-gut bewaffnet … Alle zu entschlossen, ’diese Halunken
+gut bewaffnet … Alle auch entschlossen, diese Halunken
 nicht zu schonen …
 
 Paratu und zwei Matrosen blieben an Deck, damit uns
-keiner der Schufte auslasse …
+keiner der Schufte auskniffe …
 
 Dann wandten wir uns dem Heckaufbau zu, wo jede
-Frau eine Bambushütte als Kajüte sieben hat.
+Prau eine Bambushütte als Kajüte stehen hat.
 
 Die Tür war nur angelehnt …
 
@@ -1270,96 +1258,94 @@ Leer — nichts als armselige Möbel und zwei Hängematten
 
 Dann ging’s durch die Ladeluke in den Raum hinab …
 
-Hier war ein langer Tisch ausgestellt, Über dem drei
+Hier war ein langer Tisch aufgestellt, Über dem drei
 Laternen brannten …
 
-An dem mit Weinflaschen reich antworten Tisch haben
+An dem mit Weinflaschen reich garnierten Tisch saßen
 neun Inder …
 
 <@pagebreak/>
-sein — saßen nicht, … schsiejen’!
+sein — saßen nicht, … schliefen!!
 
-Halt die hörte auf die Arme gelegt — lagen so in
-also »möglichen Stellungen …
+Hatten die Köpfe auf die Arme gelegt — lagen so in
+allen möglichen Stellungen …
 
-Schnarchen …
+Schnarchten …
 
-Tabakdunst hing in der ist .-« Auf dem Tische zeigten
-Größe Weinlachen an, daß ’:e Herrschaften (Achtzig gezecht
-»3 den wollen Stoff stark verschwendet hatten »… —
+Tabakdunst hing in der Luft … Auf dem Tische zeigten
+große Weinlachen an, daß die Herrschaften tüchtig gezecht
+und den edlen Stoff stark verschwendet hatten … —
 
-O’Kelling schüttelte sein hastig:8 Haupt …-
+O’Kelling schüttelte sein faltiges Haupt …
 
-»Vergessene Bande!!1«
+»Versoffene Bande!!«
 
 Dann rüttelte er den einen Kerl …
 
-gurgelte umsonst …
+Rüttelte umsonst …
 
 Die waren alle Mann nicht munter zu kriegen, erwachten
 nicht einmal, als wir sie fesselten … —
 
-Leichte! Sieg …!! Weiter also …
+Leichter Sieg …!! Weiter also …
 
-wir im Vorschiff nun … die sechs geraubten Mädchen
+Und im Vorschiff nun … die sechs geraubten Mädchen
+… Eingepfercht in eine enge Kammer …
 
-Eingepfercht in eine enge Kammer …
+Verängstigt — verschüchtert …
 
-Vecängstugt — verschüchtert
-
-— wie rasch sie nun munter wurden, als sie in uns
+O — wie rasch sie nun munter wurden, als sie in uns
 die Retter erkannten …
 
-Wie sie sanatiernd erzählten und ihr Leidenstage
-schilderten .,
+Wie sie schnatternd erzählten und ihre Leidenstage
+schilderten …
 
-Uhr gerichteten vbasselbe … genau dasselbe … See
+Alle berichteten dasselbe … genau dasselbe … Gewaltsam
+hatte man sie in stillen Gassen in einen Karren geworfen,
+ihnen ein Tuch auf den Mund gedrückt, so daß sie
+ohnmächtig wurden …
 
-»kam Bette man sie in fallen Gassen in einen hatten Herren,
-Tönen ein Tuch auf den Mund gedrückt, so daß sie
-mächtig wurden …
-
-»Phalu Dringar!« -«. so hatte sich ihnen gegenüber
+»Phalu Dringar!« — so hatte sich ihnen gegenüber
 einer der Mädchenräuber genannt, dem die anderen gehorchten
 …
 
 Phalu Dringar — Totenvogel! —
 
 Aber nicht allzu lange hielten wir uns jetzt mit den
-Mädchen aus …
+Mädchen auf …
 
 Der alte Kerl, die Wache an Deck, mußte noch gefunden
 werden …
 
 Wir suchten …
 
-Bis eins der Mädchen uns zuflüsterte, daß in der damit:
-8« irrte Licht brenne …
+Bis eins der Mädchen uns zuflüsterte, daß in der Bambushütte
+Licht brenne …
 
 <@pagebreak/>
-Wir hinein … in
-Satz da wirklich der alte Kerl …
-— O’Kelling brüllte:
+Wir hinein …
+
+Saß da wirklich der alte Kerl …
+
+O’Kelling brüllte:
 
 »Lump, du …«
 
 Weiter kam er nicht …
 
-Der alte Kerl … lächelte
+Der alte Kerl … lächelte …
 
 »Harald!!« rief ich …
 
 Und war neben ihm … drückte seine Hände …
 
-»Schon gut, mein Alter,« sagte er gerührt, — »Die
-Sache ist nun ja! in n Ordnung … Und meine Überraschung
-ist mir geglückt
-
-& »am 4 »Was Er
+»Schon gut, mein Alter,« sagte er gerührt … — »Die
+Sache ist nun ja in Ordnung … Und meine Überraschung
+ist mir geglückt …«
 
 <h2>5. Kapitel.</h2>
 
-<h3>O’Kelling war wie vor den Kopf geschlagen …</h3>
+O’Kelling war wie vor den Kopf geschlagen …
 
 »Verdammt, daß Ab auch immer gleich mit solchen
 Kraftausdrücken um mich werfen muß!« polterte er verlegen
@@ -1671,7 +1657,7 @@ Ja, der benahm sich recht merkwürdig …! Der exr-fsärte,
 nachdem wir aus den Kutter zurückgekehrt waren und
 nachdem unsere kleine Flotte wieder nordwärts gen Madras
 steuerte (Flotte — denn wir waren ja drei Fahrzeuge insgesamt,
-die im Schlepp der »Osiris« tausende Prau mit ein-begrissen),
+die im Schlepp der »Osiris« tausende Prau mit einbegriffen),
 — recht merkwürdig …
 
 Seine Müdigkeit war zunächst wie weggefegt!!
@@ -1801,7 +1787,7 @@ auch seine anderen Seiten noch kennen zu lernen, nachdem
 wir ihn als Juwelendieb, Hypnotiseur und Mädchenhändler
 entlarvt haben … Er besitzt fraglos Beziehungen zu internationalen
 Händlern mit Men’ckensleisch, und da hier in
-Indien &in sckwunghastes Geschäft mit jungen hübschen
+Indien &in schwunghaftes Geschäft mit jungen hübschen
 Mädchen getrieben wird, würden wir uns so etwas verdient
 machen. wenn wir diese Organisation von Schurken
 vollzählig hinter Schloß und Riegel bringen könnten, was
@@ -1837,7 +1823,7 @@ Harald schickte mich dann weg … »Geh« wieder naß
 achtern, lieber Alter … Wir zwei fallen hier zu sehr aus…
 Du kannst Ja trotzdem die Frau und den Schoner im Auge
 behalten und auch O’Kelling einen Wink geben … Der
-Alte hat Secmannsaugen, die er ja täglich gehörig mit
+Alte hat Seemannsaugen, die er ja täglich gehörig mit
 ruhig!By gut …«
 
 Lachend ging ich davon …
@@ -1851,7 +1837,7 @@ wegsihnapptie …
 »Schraut,« meinte der blaunasige Irländer mit wehleidigem
 Gesicht, »wir beide haben den Korn wirklich nur
 zum Satanischen!! Nur Harst hat ihn zum Denken! —
-Natürlich — — die Prau …!! Wir Rindviccher sind wie
+Natürlich — — die Prau …!! Wir Rindviecher sind wie
 die Eisen mit’in Brett vor’in Schädel! — — Paratu,«
 brüllte er, »noch ein Stück Käse … na;ch’ dir aber vorher
 die Pfoten und bring’s auf ’nem Teller …«
@@ -1979,7 +1965,7 @@ Es glückte
 
 <@pagebreak/>
 Wir liefen in die schmale Bucht ein, wanden uns durch
-Röhricht, Schilfinscln und schmale Fahrrinnen hindurch und
+Röhricht, Schilfinseln und schmale Fahrrinnen hindurch und
 langten, als das Heer der Sterne gerade seinen vollen
 Glanz entfaltete, in dem geheimen Hafen gelang an, brachten
 den Kutter am Ostufer unter überhängenden Baume-zweigen
@@ -2481,7 +2467,7 @@ Ich staunte hinaus …
 
 Das war allerdings ein echt indisch/er Autos, und
 mitten in dieses Sumpfgebiet hatte Mutter Natur einen
-kahlen grauschwarzen rissigen Granitblock hineingesebt …
+kahlen grauschwarzen rissigen Granitblock hineingesetzt …
 
 Nochmals überflog ich den Sumpf mit prüfendem
 Blick … Vielleicht hundert Meter vor uns begann der Urwald
