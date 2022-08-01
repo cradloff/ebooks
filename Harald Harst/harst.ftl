@@ -1,4 +1,4 @@
-<#-- Werbeblock 'Kabels Kriminalbücher'
+<#-- Makros für häufige Text Blöcke
 
 Einbinden mit:
 <#import "*/harst.ftl" as harst>
