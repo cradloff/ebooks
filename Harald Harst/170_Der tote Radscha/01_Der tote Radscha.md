@@ -67,7 +67,7 @@ und jeden unserer Schritte bewachten …«
 Mir war dies genau so neu wie O’Kelling. Ich hatte
 nie etwas von Spionen bemerkt. Fragte daher mit Recht:
 
-»Irrst du dich auch nicht. Harald?! Wer sollte denn
+»Irrst du dich auch nicht, Harald?! Wer sollte denn
 ein Interesse daran gehabt haben, uns …«
 
 »Das weiß ich nicht, mein Alter … Möchte es aber
@@ -219,7 +219,7 @@ zwei Schemel. »Darf ich euch eine Erfrischung anbieten?«
 Zeit.« — Wir nahmen Platz und Harald berichtete nun dem
 <@pagebreak/>
 alten Inder von den Spionen, die uns hier nach dem Tode
-des Fürsten stets umschwärmt haften …
+des Fürsten stets umschwärmt hatten …
 
 »Es waren ärmere Leute, diese Spitzel … Im ganzen
 zählte ich neun, die sich ablösten. Zumeist waren ihrer drei
@@ -239,7 +239,7 @@ der Palastmeister des verstorbenen Fürsten …«
 »Du weißt es genau, Ramar?«
 
 »Ganz genau, Sahib … Denn die Kennzeichen, die
-du nanntest, passen vollständig aus Gessrim Halub, den
+du nanntest, passen vollständig auf Gessrim Halub, den
 Palastmeister.«
 
 »Dann höre die Beschreibung des anderen Spions,
@@ -359,7 +359,7 @@ Brahminen des Tempels, das helle Klingen goldener
 Becken, das heisere Schrillen von Bambusflöten und das
 Dröhnen von Pauken … Erkannten in der dicht gepreßten
 Menschenmenge die grauen Leiber der Staatselefanten mit
-den glitzernden Baldachinen, erkannten nach das hohe kostbare
+den glitzernden Baldachinen, erkannten auch das hohe kostbare
 Gerüst, auf dem die Leiche des Fürsten zum Verbrennungshofe
 gerollt worden war, ein Gerüst, wie ein altindischer
 Kampfwagen, mit Teppichen, Seidenstoffen, Brokatdecken
@@ -500,7 +500,7 @@ Sir Howard Allgreen.</p>
 mehreren Leuten beobachtet worden, unter denen sich
 zwei Leute aus dem Palaste des Radschas befanden, die
 mir damals in jener Nacht schon auffielen. Ich nehme
-an, daß der Radscha nicht tot ist, sondern daß, eine andere
+an, daß der Radscha nicht tot ist, sondern daß eine andere
 <@pagebreak/>
 Leiche eingeäschert werden wird. Gerade diese
 ständige Überwachung hat mich auf den Gedanken gebracht,
@@ -584,7 +584,7 @@ zu verraten, der meinen Zwillingsbruder spielen wird, so
 dürfte mein Plan gelingen. Ich werde also hier wieder in
 aller Öffentlichkeit nach einiger Zeit auftreten, werde einen
 Roman erfinden, der um so eher geglaubt werden wird,
-da mein Zwillingsbruder mir ja so sehr ähnlich sehen wird.
+da mein Zwillingsbruder mir ja so sehr ähnlich sehen wird
 … Ich werde diesen Roman mit allerlei Beiwerk ausstatten,
 — denn ich besitze Phantasie … Kurz: Unter dem
 Namen meines Bruders werde ich Fürst von Pudukattai
@@ -688,7 +688,7 @@ fiel …
 
 Ich hatte die Hände frei …
 
-Herunter mit dem Tuche, daß mich am Sehen hinderte
+Herunter mit dem Tuche, das mich am Sehen hinderte
 …
 
 Da — ein schwerer Stoß gegen mein Genick …
@@ -851,9 +851,9 @@ Harst neben ihm …
 
 »Mein Alter,« sagte Harald auf englisch, und seine
 Stimme vibrierte merklich, »dies hier ist der Zwillingsbruder
-des Radscha Mar Shing Chanu namens Mar Shing,
+des Radscha Mar Shing Chanu namens Mar Shing
 Dabsal … Dies hier ist das ärgste Verbrechen, das je ein
-Mensch begangen, denn ein Brüder hat den anderen hier
+Mensch begangen, denn ein Bruder hat den anderen hier
 verschwinden lassen. Vierzehn volle Jahre lebt Dabsal in
 diesem Stollen … Mit fünfzehn Jahren trat er die Wallfahrt
 nach dem Ganges an, mit fünfzehn Jahren schon besaß
@@ -889,7 +889,7 @@ Kind …
 
 »Mut, Dabsal!« sagte Harst da in seiner frischen Art.
 »Sie haben hier nun zwei Leidensgefährten, Sie sind nicht
-mehr allein … Sie worden in kurzem wieder ein anderer
+mehr allein … Sie werden in kurzem wieder ein anderer
 werden … Kommen Sie, Dabsal …«
 
 Und er nahm ihn unter den Arm und zog ihn zu der
@@ -910,7 +910,7 @@ Zeit hin …
 <@pagebreak/>
 »Wir werden uns schon befreien, Dabsal … Schraut
 und ich haben bereits in Kerkern gesessen, die weit schlimmer
-als dieser hier waren weit schlimmer …«
+als dieser hier waren … weit schlimmer …«
 
 Dabsal meinte zaghaft, — er mußte sehr nach Worten
 suchen, wenn er sich in englischer Sprache mit uns verständigen
@@ -1062,7 +1062,7 @@ Harald? Bisher sind deine Erklärungen ziemlich unklar
 …«
 
 »O — gedulde dich nur, bis auch Dabsal aufwacht …
-Ich möchte meine Erfinderidee nicht zweimal wiederkäuen.
+Ich möchte meine Erfinderidee nicht zweimal wiederkäuen
 … Du kannst ja jetzt dein Morgenbad nehmen, und dich
 so abermals überzeugen, daß unser Kerker durchaus komfortabel
 ist: Mineralbad, gut gelüftetes W.-C. — —
@@ -1343,7 +1343,7 @@ dem Steine …«
 »Hm — ich verstehe noch immer nicht …«
 
 »Aber, aber!! Als du zum ersten Male dorthin
-schwammst und mit deinem Fuße den Stein betrachtetest,
+schwammst und mit deinem Fuße den Stein befeuchtetest,
 als du den Balken fandst, — wann war das?«
 
 »Gestern morgen …«

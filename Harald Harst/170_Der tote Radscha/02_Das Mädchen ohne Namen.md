@@ -183,7 +183,7 @@ hatte mit dem Vater der Zwillinge Chanu und Dabsal
 Freundschaft geschlossen … Als ich dann mit Rilai nach
 fast zwanzig Jahren durch einen Boten hierher gerufen
 wurde, weil mein Vater im Sterben lag, fand ich Amira
-hier bereit vor, und mein Vater behauptete auch mir gegenüber,
+hier bereits vor, und mein Vater behauptete auch mir gegenüber,
 er habe das weiße Mädchen als Kind in der Wildnis
 gefunden, wir sollten es gut behandeln und getreulich
 Amira und Dabsal bewachen. Wir haben es getan, Sahib
@@ -255,7 +255,7 @@ Wir hoben die Bündel von den Schultern, und sehr
 bald glich die Kuppe der Felsen dem Lagerplatz einer munteren
 Touristenschar. Harst sorgte dafür, daß wir uns nur
 mit harmlos-heiteren Dingen beschäftigten … Er war
-trefflichen Laune, und mit Amira neckte er sich in so vergnügter
+trefflicher Laune, und mit Amira neckte er sich in so vergnügter
 Weise herum, daß selbst der ernste Dabsal das
 Lächeln wieder lernte.
 
@@ -673,7 +673,7 @@ Ist wie ausgewechselt … Stellt sich vor meinen Schaukelstuhl
 und … pfeift weiter …
 
 Seine schlanke, sehnige Gestalt in dem weißen Flanellanzug
-wiegt sich in den Hütten hin und her …
+wiegt sich in den Hüften hin und her …
 
 »Was hast du?!«
 
@@ -794,7 +794,7 @@ der Nähe gewählt haben, daß für ihn und Amira genügt,
 in dem also Amira ohne Aufsicht zurückgelassen werden
 kann, wenn Chanu abwesend ist …«
 
-»Hm, daß müßte schon ein ganz besonderes Versteck
+»Hm, das müßte schon ein ganz besonderes Versteck
 sein,« meinte ich zweifelnd.
 
 »Gewiß … Aber — was kennen wir denn von dem
@@ -1497,7 +1497,7 @@ wurde auf der Flucht erschossen, und seine Nichte — das
 sind Sie, Amira, ließ der ergrimmte Radscha dort in die
 Einsamkeit zu Sabattu bringen, damit dieser das Kind so
 erzöge, wie der Radscha es wünschte: Ganz als Inderin!
-— Sabattu tat dies nicht, sondern hat als frommen Buddhist
+— Sabattu tat dies nicht, sondern hat als frommer Buddhist
 Ihre freie Charakterentwicklung in keiner Weise gehemmt.
 — Nun wissen Sie, Amira, daß Ihr Vatersname
 Weacfield lautet … Mit Vornamen heißen Sie Maria,
