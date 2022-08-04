@@ -1347,7 +1347,7 @@ ist mir geglückt …«
 
 O’Kelling war wie vor den Kopf geschlagen …
 
-»Verdammt, daß Ab auch immer gleich mit solchen
+»Verdammt, daß ich auch immer gleich mit solchen
 Kraftausdrücken um mich werfen muß!« polterte er verlegen
 hervor. »Ich alter Esel werde nie klug! Entschuldigen Sie
 nur, bester Harst … Der Lump war nicht böse gemeint,
@@ -1356,44 +1356,44 @@ galt ja auch nicht Ihnen!«
 Harst streckte ihm die Hand hin … »Käpten, wir kennen
 uns doch … Wir haben so manchen Strauß nicht
 gegeneinander, sondern miteinander ausgefochten! — Hand
-her, Kamerad! Denn da sind noch andere, die mich begriffen
-wollen … geben Sie nur unseren Baronin an, der
-wartet ja schon voller Sehnsucht daraus, daß auch er mir
-seine anutgemeinten Glückwünsche darbringen kann …«
+her, Kamerad! Denn da sind noch andere, die mich begrüßen
+wollen … geben Sie nur unseren Paratu an, der
+wartet ja schon voller Sehnsucht darauf, daß auch er mir
+seine gutgemeinten Glückwünsche darbringen kann …«
 
 Harald sagte auch das halb scherzend. Aber ich merkte
 sehr wohl, wie er sich über diese Anhänglichkeit des Malaien
-Freude …
+freute …
 
-Und auch die betreten Mädchen, die Kriegsschiffmatrosen,
+Und auch die befreiten Mädchen, die Kriegsschiffmatrosen,
 — alles stand im Kreise um den tadellos verkleideten
 Harald herum …
 
-Dann konnte unser Käpten seine Neugier doch nicht!
-Sänger be:ahnen …
+Dann konnte unser Käpten seine Neugier doch nicht
+länger bezähmen …
 
 <@pagebreak/>
-»Harst, aller lieber Harst, jetzt schießen Sie mal 108,«
-bat er. »Wir brennen ja vor … vor …
+»Harst, alter lieber Harst, jetzt schießen Sie mal los,«
+bat er. »Wir brennen ja vor … vor …"
 
-»w-«. brennen! Sie lieber nicht,« lachte Harald. »Zu
+».... brennen Sie lieber nicht,« lachte Harald. »Zu-
 nächst gibt es für uns noch Wichtigeres zu tun … — Habt
-ihr die Bande unten im Ladedeck gesteigert?«
+ihr die Bande unten im Ladedeck gefesselt?«
 
-»und »8 — — und ob!! Besessen sind die Kerle — —
+»und ob — — und ob!! Besoffen sind die Kerle — —
 unglaublich!«
 
 »Ein Irrtum, O’Kelling …!« Und Harald wurde
-ernst … »Ich habe mir nämlich erkrankt, dem Leine einen
-gehörigen Schuß Chloralhydrat vinzuzusügen — ein Schlafmittel,
+ernst … »Ich habe mir nämlich erlaubt, dem Weine einen
+gehörigen Schuß Chloralhydrat hinzuzufügen — ein Schlafmittel,
 das im Verein mit Alkohol sehr kräftig wirkt …
 Gehen wir hinab und holen die Kerle an Deck, damit wir
-sie gleich aus die Jacht »keins« verfrachten können. — Vorwärts
-…! Ich erstatte nachher Bericht … Keine Ungoc-duld,
+sie gleich auf die Jacht »Osiris« verfrachten können. — Vorwärts
+…! Ich erstatte nachher Bericht … Keine Ungeduld,
 O’Kelling! Mein Bericht wird Sie ohnedies fraglos
 enttäuschen …« —
 
-So begaben wir uns denn in daß Ladedeck hinab …
+So begaben wir uns denn in das Ladedeck hinab …
 
 Auch die Inderinnen kamen mit …
 
@@ -1401,20 +1401,20 @@ Und eins dieser blutjungen hübschen Mädchen deutete
 hier auf einen schwarzbärtigen gut gekleideten Inder …
 
 »Das ist der Phalu Dringar!« rief sie, und am liebsten
-wäre ist dem Mädchenräuber ins Gesicht geflogen und hätte
+wäre sie dem Mädchenräuber ins Gesicht geflogen und hätte
 ihn nach Weiberart mit den Fingernägeln ihre Rache fühlen
 lassen,
 
 Harald nickte nur … »Es ist Mr. Rellan, allerdings!
-Rellan »alias Edward Granveller! Freilich Rellan in der
-eines: Tode als Händler mit lebender Menschenware!«
+Rellan alias Edward Granveller! Freilich Rellan in der
+neuen Rolle als Händler mit lebender Menschenware!«
 
-Er riß ihm den Turban, die vermute und den Bart Herr
+Er riß ihm den Turban, die Perücke und den Bart Her-
 unter …
 
 Ja — — es war Edward Granveller!
 
-»Und — er war Auswichen wach geworden … Er
+Und — er war inzwischen wach geworden … Er
 öffnete die Augen, schaute sich um … Sein Blick blieb auf
 Harald haften …
 
@@ -1422,30 +1422,29 @@ Ein wilder Haß verzerrte sein Gesicht …
 
 Mit kreischender, überschnappender Stimme rief er:
 
-»Triumphieren Sie nicht zu srüh’’ Noch ist nicht aller
+»Triumphieren Sie nicht zu früh!! Noch ist nicht aller
 <@pagebreak/>
-Tage Abend! Die8ämal hat das verrückte eifersüchtige Weib
-Sie befreit …!! Aber
+Tage Abend! Diesmal hat das verrückte eifersüchtige Weib
+Sie befreit …!! Aber ..."
 
 Harst wandte sich angewidert ab …
 
 »Gebt ihm einen Knebel!« befahl er … »Der Bursche
-ist es nicht wert, da« um von seinem Atem auch nur berührt
+ist es nicht wert, daß man von seinem Atem auch nur berührt
 wird …!«
 
-Rellan las«. ruiniert …
+Rellan lachte höhnisch …
 
-»Wir rot Co mochte ab, Herr Harst …! Seien Sie überzeugt!
-Mich halten keine Kerkermauern fest! Ich werde …
+»Wir rechnen noch ab, Herr Harst …! Seien Sie überzeugt!
+Mich halten keine Kerkermauern fest! Ich werde …"
 
 Da hatte Paratu ihm schon einen Knebel in den geifernden
 Mund geschoben … —
 
-Die neun Gefangenen wurden an Deck und dann Doktor!
+Die neun Gefangenen wurden an Deck und dann sofort
 auf die Jacht »Osiris« gebracht, wo es neben dem
-
 Maschinenraum eine Kammer mit eisernen Wänden gab, in
-Her das Benzin aufbewahrt wurde. Die Kammer hatte eine
+der das Benzin aufbewahrt wurde. Die Kammer hatte eine
 eiserne Tür, und ein Entweichen aus diesem Raume war
 unmöglich, sobald nur ein einzelner Posten vor der Tür
 aufgestellt wurde, — was denn auch geschah.
@@ -1459,15 +1458,13 @@ beide, an Bord hatte.
 
 Harst, der seine Verkleidung als alter Malaie inzwischen
 wieder in unseren Requisitenkoffer zurückgetan hatte, ließ
+sich jetzt das Frühstück, das Paratu auf dem Tische unter
+ein Sonnensegel vor der Kajüte in verschwenderischer Fülle
+aufgebaut hatte, vortrefflich schmecken …
 
-ich jetzt das Frühstü, das Paratu auf dem Tische unter
-ein Sonensegel vor der Kajüte in verschwenderischer Fülle
-ausgebaut hatte, vortrefflich) schmecken …
-
-Aber auch O’Kelling und ich langten warf zu, und unsre
-Käpten vertilgte heute wieder einmal geradezu unser
-
-eure Mengen Whisky und trank dauernd aus Haralds Gesundheit
+Aber auch O’Kelling und ich langten wacker zu, und unser
+Käpten vertilgte heute wieder einmal geradezu ungeh-
+eure Mengen Whisky und trank dauernd auf Haralds Gesundheit
 …
 
 Nachher, als wir den Nachtisch, Zigarren und Zigaretten
@@ -1480,31 +1477,31 @@ genossen, erzählte Harald seine Erlebnisse im Depeschenstil
 nieder — die Rodia! Ich erwachte erst nach vielen
 Stunden … Lag in einem Kasten, gefesselt, geknebelt …
 drei volle Tage … Ohne Nahrung … Dann wurde der
-Kasten an Forts der Jacht »Osiris« gebracht, deren Besatzung
-Rellan durch) seine Verdunkelten hatte unschädlich
+Kasten an Bord der Jacht »Osiris« gebracht, deren Besatzung
+Rellan durch seine Verbündeten hatte unschädlich
 machen lassen. An Bord der »Osiris« erhielt ich Essen und
 Trinken und zwar von dem Rodia-Mädchen, das inzwischen
-aus Eifersucht sich von Rellan losgesagt und sich durch den
+aus Eifersucht sich von Rellan losgesagt und euch durch den
 Kalender Nachricht gegeben hatte, daß Rellan mich nach
-dem Dorfe Gannawa bringen wollte. Die Rodia stete mir
-auch heimlich ein M:See zu und loderte meine Fesseln.
+dem Dorfe Gannawa bringen wollte. Die Rodia steckte mir
+auch heimlich ein Messer zu und lockerte meine Fesseln.
 Plötzlich erschien Rellan selbst … Höhnend rief er mir zu,
 daß er die Rodia aufgeknüpft habe, da sie ihm soeben bei
 einer Eifersuchtsszene verraten hätte, wie sie sich an Bord
-des Kutters geschlichen und ein den Fingerzeig gegeben
+des Kutters geschlichen und euch den Fingerzeig gegeben
 habe, wo ihr mich finden könntet. — Er kam zum Glück
 nicht auf den Gedanken, daß die Rodia mir eine Waffe
 ausgehändigt haben könnte … Mein Kasten wurde dann
-aus den Kutter geschafft, der damals in dem verkrauteten
+auf den Kutter geschafft, der damals in dem verkrauteten
 Flußarm lag. Rellan hatte die Jacht räumen müssen. Das
-wißt ihr ja alles, Hier nun befreit« ich mich, entnahm unserem
-Koffer das Schleppt, verkleidet« mich und konnte der
-Bande das Weingelage unschwer versalzen … Meine Nieder,
+wißt ihr ja alles. Hier nun befreite ich mich, entnahm unserem
+Koffer das Chloral, verkleidete mich und konnte der
+Bande das Weingelage unschwer versalzen … Meine Nieder-
 Schrift auf dem Kalender habt ihr ja bemerkt. Hättet ihr
-sie nicht gefunden, würde icq mich früher zu erkennen gegeben
+sie nicht gefunden, würde ich mich früher zu erkennen gegeben
 haben … Mit hat es viel Freude gemacht, eure Zurüstungen
-zur Eroberung der Platz zu beobachten … —
-Das genügt! wohl …!«
+zur Eroberung der Prau zu beobachten … —
+Das genügt wohl …!«
 
 Er gähnte herzhaft, warf den Zigarettenstummel Über
 Bord und fügte hinzu:
@@ -1515,15 +1512,14 @@ durchschlafen …«
 
 Er erhob sich, ging in die Nebenkammer der Kabine
 <@pagebreak/>
-und … schnarchte gleich darauf in der Hängematte [so nachdrücklich,
-daß er zu beneiden war.
+und … schnarchte gleich darauf in der Hängematte so
+nachdrücklich, daß er zu beneiden war.
 
 O’Kelling und ich saßen noch eine Stunde unter dem
 Sonnensegel und besprachen die Einzelheiten der Schilderung
 Haralds, ergänzten uns das, was er als überflüssig
-weggelassen hatte und … legten uns dann selbst. aus
-
-he … —
+weggelassen hatte und … legten uns dann selbst aufs
+Ohr … —
 
 Leider jedoch sollte unsere Ruhe sehr bald gestört werden
 …
@@ -1535,7 +1531,7 @@ Paratu weckte mich plötzlich …
 
 Es war zwei Uhr nachmittags …
 
-»Was gibt 8?« fragte ich schlaftrunken …
+»Was gibt's?« fragte ich schlaftrunken …
 
 »Tuwan, die Jacht signalisiert soeben, daß Rellan entflohen
 ist …«
@@ -1562,25 +1558,25 @@ Also ließ ich mich denn von Paratu allein zur »Osiris«
 rudern, die nur noch mit halber Kraft fuhr.
 
 Große Aufregung hier an Bord … Man führte mich
-in den Ma’chinenraum hinab. Der älteste der Seeleute, der
-jetzt! hier den Kapitän spielte, redete in einem fort … Der
+in den Maschinenraum hinab. Der älteste der Seeleute, der
+jetzt hier den Kapitän spielte, redete in einem fort … Der
 Mann war so vollständig kopflos, daß ich aus seinen wirren
 Worten erst allmählich die Hauptsache herausschälen konnte:
 Rellan war aus der verschlossenen eisernen Kammer entwischt,
 und die acht Inder … waren tot!!
 
 <@pagebreak/>
-Auch mir ah na dies stark an die Nerven …
+Auch mir ging dies stark an die Nerven …
 
-»ermordet!« fragte ich …
+»ermordet?!« fragte ich …
 
-»Weiß nicht, Herr Schraut … —.+ Sind noch gefesselt, die
+»Weiß nicht, Herr Schraut … Sind noch gefesselt, die
 Leute … Aber tot … tot!!«
 
-Vor der eisernen Tür »des Verschlage stand ein Matrose
+Vor der eisernen Tür des Verschlages stand ein Matrose
 — derselbe, der hier zuletzt die Wache gehabt hatte …
 
-Der Mann trat aschfahl vor Entsetzen …
+Der Mann war aschfahl vor Entsetzen …
 
 Ich riß die Tür auf und leuchtete hinein …
 
@@ -1594,34 +1590,34 @@ auf der Bastmatte, die den Fußboden bedeckte …
 Denn diese Verantwortung hier wollte ich doch nicht
 allein übernehmen …
 
-In fünf Y)unten war Harald zur Stelle,
+In fünf Minuten war Harald zur Stelle,
 
-C1 ließ Ei« Toten nach oben schaffen. Dann betrat er
-die Kammer … Besichtigte die Wände, die See …
+Er ließ die Toten nach oben schaffen. Dann betrat er
+die Kammer … Besichtigte die Wände, die Decke …
 
 Das, was niemand vorher bemerkt hatte, wurde nun
-offenbar: in der See befand sich eine große, kaum gab
+offenbar: in der Decke befand sich eine große, kaum auf-
 fällige Luke, um die Benzinbehälter bequemer hier hinabbefördern
 zu können. Die Luke führte in den Schiffsgang
 zwischen den Räumen der Besatzung, und es unterlag keinem
-weise!, daß Rellan diesen Fluchtweg gewählt hatte,
-Leichnam er seine Fesseln abgestreift und seine ach! Verbündeten
-zu ewigem Schweigen über seine Geheimnisse gen
+Zweifel, daß Rellan diesen Fluchtweg gewählt hatte,
+nachdem er seine Fesseln abgestreift und seine acht Verbündeten
+zu ewigem Schweigen über seine Geheimnisse gezwungen
+— das heißt — — sie ermordet hatte!!
 
-»nun — das Durst — — sie ermordet hatte!!
-mordet!! Ein so ungeheuerliches Verbrechen, daß
-rot zum Himmel schrie! Ermordet durch Gift, durch
-zu; 1: ein Stiche, die er jedem der Ärmsten in den Hals eingebracht
-hatte, — wahrscheinlich mit einer vergifteten Rade
-die er irgendwo in seinen Kleidern verborgen schob
-Monate …
+Ermordet!! Ein so ungeheuerliches Verbrechen, daß
+es recht zum Himmel schrie! Ermordet durch Gift, durch
+winzige Stiche, die er jedem der Ärmsten in den Hals beigebracht
+hatte, — wahrscheinlich mit einer vergifteten Nadel,
+die er irgendwo in seinen Kleidern verborgen gehabt
+hatte …
 
 Der Posten vor der Eisentür war ja erst durch das
-Schreien und Brüllen der Eingeschlossenen aufmerksam ge
+Schreien und Brüllen der Eingeschlossenen aufmerksam ge-
 worden, war davongerannt und hatte den Führer der Jacht
 herbeigeholt, der den Schlüssel bei sich hatte. Und als man
 <@pagebreak/>
-die Tür öffnete, war in der Kammer goß schon wieder
+die Tür öffnete, war in der Kammer alles schon wieder
 still geworden …
 
 Die Tragödie war vorüber … Die Inder tot …
@@ -1630,24 +1626,22 @@ Und diese Inder lagen nun aufgereiht oben an Deck
 der »Osiris« …
 
 Harald stand vor ihnen … Sein Blick schnellte zur
-eisernen Küste hinüber …
+fernen Küste hinüber …
 
-»Rellan muß ein sehr Mutter Schwimmer sein,« meinte
-er … »Vielleicht sangen wir ihn noch …«
+»Rellan muß ein sehr guter Schwimmer sein,« meinte
+er … »Vielleicht fangen wir ihn noch …«
 
 Und die Jacht und der Kutter kreuzten stundenlang —
 und ganz umsonst … —
 
-Rellan mußte von einem der zahlreichen Harstsche in
+Rellan mußte von einem der zahlreichen Haifische in
 die Tiefe gezogen worden sein … —
 
-Ei See
-
-Der Phalu Dringar.
+<h1>Der Phalu Dringar.</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>Etwas anderes gab uns Grund genug zum Grübeln …</h3>
+Etwas anderes gab uns Grund genug zum Grübeln …
 
 Uns: Käpten O’Kelling und mir!
 
@@ -1667,7 +1661,7 @@ engen Platz am Bugspriet des Kutters, ließ sich dort von
 Paratu einen Liegestuhl hinstellen und erklärte, er wolle
 lesen und … nicht gestört sein …
 
-<@pagebreak/>
+<@pagebreak 34/>
 Hatte sich aus seinem Koffer sein Lieblingsbuch her-vorgesuin
 Drittens verlorenes Paradies, und sich mit
 Freikam Mirakulum und seinem Fernglas ausgerüstet …
