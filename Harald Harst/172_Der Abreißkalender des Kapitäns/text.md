@@ -1374,10 +1374,10 @@ länger bezähmen …
 
 <@pagebreak/>
 »Harst, alter lieber Harst, jetzt schießen Sie mal los,«
-bat er. »Wir brennen ja vor … vor …"
+bat er. »Wir brennen ja vor … vor …«
 
-».... brennen Sie lieber nicht,« lachte Harald. »Zu-
-nächst gibt es für uns noch Wichtigeres zu tun … — Habt
+»… brennen Sie lieber nicht,« lachte Harald. «Zunächst
+gibt es für uns noch Wichtigeres zu tun … — Habt
 ihr die Bande unten im Ladedeck gefesselt?«
 
 »und ob — — und ob!! Besoffen sind die Kerle — —
@@ -1409,8 +1409,8 @@ Harald nickte nur … »Es ist Mr. Rellan, allerdings!
 Rellan alias Edward Granveller! Freilich Rellan in der
 neuen Rolle als Händler mit lebender Menschenware!«
 
-Er riß ihm den Turban, die Perücke und den Bart Her-
-unter …
+Er riß ihm den Turban, die Perücke und den Bart Herunter
+…
 
 Ja — — es war Edward Granveller!
 
@@ -1425,7 +1425,7 @@ Mit kreischender, überschnappender Stimme rief er:
 »Triumphieren Sie nicht zu früh!! Noch ist nicht aller
 <@pagebreak/>
 Tage Abend! Diesmal hat das verrückte eifersüchtige Weib
-Sie befreit …!! Aber ..."
+Sie befreit …!! Aber …«
 
 Harst wandte sich angewidert ab …
 
@@ -1436,7 +1436,7 @@ wird …!«
 Rellan lachte höhnisch …
 
 »Wir rechnen noch ab, Herr Harst …! Seien Sie überzeugt!
-Mich halten keine Kerkermauern fest! Ich werde …"
+Mich halten keine Kerkermauern fest! Ich werde …«
 
 Da hatte Paratu ihm schon einen Knebel in den geifernden
 Mund geschoben … —
@@ -1463,8 +1463,8 @@ ein Sonnensegel vor der Kajüte in verschwenderischer Fülle
 aufgebaut hatte, vortrefflich schmecken …
 
 Aber auch O’Kelling und ich langten wacker zu, und unser
-Käpten vertilgte heute wieder einmal geradezu ungeh-
-eure Mengen Whisky und trank dauernd auf Haralds Gesundheit
+Käpten vertilgte heute wieder einmal geradezu ungeheure
+Mengen Whisky und trank dauernd auf Haralds Gesundheit
 …
 
 Nachher, als wir den Nachtisch, Zigarren und Zigaretten
@@ -1496,8 +1496,8 @@ auf den Kutter geschafft, der damals in dem verkrauteten
 Flußarm lag. Rellan hatte die Jacht räumen müssen. Das
 wißt ihr ja alles. Hier nun befreite ich mich, entnahm unserem
 Koffer das Chloral, verkleidete mich und konnte der
-Bande das Weingelage unschwer versalzen … Meine Nieder-
-Schrift auf dem Kalender habt ihr ja bemerkt. Hättet ihr
+Bande das Weingelage unschwer versalzen … Meine Niederschrift
+auf dem Kalender habt ihr ja bemerkt. Hättet ihr
 sie nicht gefunden, würde ich mich früher zu erkennen gegeben
 haben … Mit hat es viel Freude gemacht, eure Zurüstungen
 zur Eroberung der Prau zu beobachten … —
@@ -1531,7 +1531,7 @@ Paratu weckte mich plötzlich …
 
 Es war zwei Uhr nachmittags …
 
-»Was gibt's?« fragte ich schlaftrunken …
+»Was gibt’s?« fragte ich schlaftrunken …
 
 »Tuwan, die Jacht signalisiert soeben, daß Rellan entflohen
 ist …«
@@ -1596,8 +1596,8 @@ Er ließ die Toten nach oben schaffen. Dann betrat er
 die Kammer … Besichtigte die Wände, die Decke …
 
 Das, was niemand vorher bemerkt hatte, wurde nun
-offenbar: in der Decke befand sich eine große, kaum auf-
-fällige Luke, um die Benzinbehälter bequemer hier hinabbefördern
+offenbar: in der Decke befand sich eine große, kaum auffällige
+Luke, um die Benzinbehälter bequemer hier hinabbefördern
 zu können. Die Luke führte in den Schiffsgang
 zwischen den Räumen der Besatzung, und es unterlag keinem
 Zweifel, daß Rellan diesen Fluchtweg gewählt hatte,
@@ -1613,8 +1613,8 @@ die er irgendwo in seinen Kleidern verborgen gehabt
 hatte …
 
 Der Posten vor der Eisentür war ja erst durch das
-Schreien und Brüllen der Eingeschlossenen aufmerksam ge-
-worden, war davongerannt und hatte den Führer der Jacht
+Schreien und Brüllen der Eingeschlossenen aufmerksam geworden,
+war davongerannt und hatte den Führer der Jacht
 herbeigeholt, der den Schlüssel bei sich hatte. Und als man
 <@pagebreak/>
 die Tür öffnete, war in der Kammer alles schon wieder
@@ -1647,8 +1647,8 @@ Uns: Käpten O’Kelling und mir!
 
 Nämlich — — unser Harald!
 
-Ja, der benahm sich recht merkwürdig …! Der exr-fsärte,
-nachdem wir aus den Kutter zurückgekehrt waren und
+Ja, der benahm sich recht merkwürdig …! Der erklärte,
+nachdem wir auf den Kutter zurückgekehrt waren und
 nachdem unsere kleine Flotte wieder nordwärts gen Madras
 steuerte (Flotte — denn wir waren ja drei Fahrzeuge insgesamt,
 die im Schlepp der »Osiris« tausende Prau mit einbegriffen),
@@ -1662,181 +1662,177 @@ Paratu einen Liegestuhl hinstellen und erklärte, er wolle
 lesen und … nicht gestört sein …
 
 <@pagebreak 34/>
-Hatte sich aus seinem Koffer sein Lieblingsbuch her-vorgesuin
-Drittens verlorenes Paradies, und sich mit
-Freikam Mirakulum und seinem Fernglas ausgerüstet …
+Hatte sich aus seinem Koffer sein Lieblingsbuch hervorgesucht:
+Miltons verlorenes Paradies, und sich mit
+dreißig Mirakulum und seinem Fernglas ausgerüstet …
 
-Hände; Meter vor ihm schaukelte die Prau durch die
+Hundert Meter vor ihm schaukelte die Prau durch die
 Wogen, und weitere fünfzig Meter vor ihm durchpflügte die
 schlanke Jacht den Meerbusen von Bengalen und … kam sich
 als Schleppdampfer so eines elenden Frachtschiffes sicherlich
-sehr degradiert vor … — …
+sehr degradiert vor … — 
 
-Reling und ich ruhten in den Hängematten unter
+O’Kelling und ich ruhten in den Hängematten unter
 dem Sonnensegel …
-Zäh Dir Käpten knurrte, die Tabakpiep zwischen den
 
-New:
+Der Käpten knurrte, die Tabakpiep zwischen den
+Zähnen:
 
-»las hat doch was zu bedeuten, Schraut!« Und er
+»Das hat doch was zu bedeuten, Schraut!« Und er
 zeigte mit dem Daumen nach Harald hin …
 
-»Sinne Zweifel!«
+»Ohne Zweifel!«
 
-»Was?
+»Was?!«
 
 »Keinen Schimmer …«
 
-in hat ihm ja einen chinesischen Papierschirm genau
+»Paratu hat ihm ja einen chinesischen Papierschirm gebracht
 …«
 
-— »Allerdings … Aber die Tatsache bleibt doch bestehen,
+»Allerdings … Aber die Tatsache bleibt doch bestehen,
+daß Harst etwas Besonderes bezweckt — — was?! strengen
+Sie auch mal Ihr Hirn an, Käpten!!«
 
-daß Harst etwas Besonderes Besuch — — was?! streng
-
-gen Sie alt 1,1 Zbza Hirn an, Käpten!!«
-
-»trat nachmittags fünf Uhr bei vierzig Grad im Schatten?!
+»Jetzt nachmittags fünf Uhr bei vierzig Grad im Schatten?!
 Ich bin froh, daß mein Hirn nicht schmilzt und mir
-»Jan davonfließt … — — Verdammt, ist das wieder ’n0
+nicht davonfließt … — — Verdammt, ist das wieder ’ne
+Hitze! Und dabei soll ein ehrlicher Christenmensch existieren?!
+Und noch nachdenken?!«
 
-?!Nr dabei soll ein ehrlicher Christenmensch existiert:
-7! Und noch nachdenken?!«
+Dann brühte er: »Paratu, Eislimonade!!«
 
-Down brühte er: »Pötraluv, Eislimonade!!«
+Der Malaie brachte ein hohes Glas: halb Whisky,
+halb Eiswasser und ein paar Tropfen Fruchtsaft!
 
-»her Malaie brachte ein hohes Glas: halb Whisky,
-halb Eiswasser und ein paar Tropfen Flüchtiger!
+Und Paratu zwinkerte mir zu:
 
-Und Paratu zwinkerte mir aus.
-
-»Auch ein Glas, Tuwan?k«
+»Auch ein Glas, Tuwan?«
 
 »Bitte … Aber umgekehrtes Verhältnis, mein Sohn:
-halb So!, halb Kielwasser, zehn Tropfen Whisky!«
+halb Saft, halb Eiswasser, zehn Tropfen Whisky!«
 
-»«imengesöff!« jagte O’Kelling mit grenzenloser Vermutung
--
+»Damengesöff!« sagte O’Kelling mit grenzenloser Verachtung
+… —
 
 <@pagebreak/>
 Und so ging denn die Reise weiter …
 
-Um sieben Uhr abends oben wir ein paar Bissen …
+Um sieben Uhr abends aßen wir ein paar Bissen …
 Auch Harald … Ich ging zu ihm nach dem Vorschiff …
 
 »Sag’ mal, Harald, was treibst du hier eigentlich …?«
 
-» Hm — ich habe mich mit dem größten Scheusal unterhalten,
+»Hm — ich habe mich mit dem größten Scheusal unterhalten,
 das je unseren Weg gekreuzt hat …«
 
 »Mit Mr. Rellan, dem von den Haien Gefressenen?«
-»Blech -».I!? Von den Haien gefressen!! Denkt nicht!
 
-ran …«
+»Blech …!! Von den Haien gefressen!! Denkt nicht
+dran …«
 
 »Also gut,« meinte ich mit Lammsgeduld. »Du hast
-dich also mit ihm unterhalten … viel!«
+dich also mit ihm unterhalten … Wie?!«
 
 »Einseitig … Ich habe mir von ihm erzählen lassen,
 wo er steckt …«
 
-»Ah sog…!! Und was hat er geantwortet?«
+»Ah so …!! Und was hat er geantwortet?«
 
 »Daß er natürlich, als er aus der eisernen Kammer
 entwich, unbemerkt von der Jacht zur Prau geschwommen
-ist. wo wir ihn nicht gesucht haben und wo wir ihn gefunden
-härten, was aber nicht in meiner Absicht lag, da ich gern
+ist, wo wir ihn nicht gesucht haben und wo wir ihn gefunden
+hätten, was aber nicht in meiner Absicht lag, da ich gern
 auch Rellans weitere Geheimnisse als Mädchenhändler
 Phalu Dringar kennen lernen möchte — seine Verbindungen
-naß außerhalb, seine Abnehmer und so weiter … All
+nach außerhalb, seine Abnehmer und so weiter … All
 das wäre uns verborgen geblieben, wenn ich euch gesagt
-hätte, was ja am nächsten lag: er ist aus der Platz! Denn
+hätte, was ja am nächsten lag: er ist auf der Prau! Denn
 das Wagnis bis zur Küste zu schwimmen wäre zu groß
 gewesen! — Ich aber lag hier und habe aufgepaßt, daß er
 nicht etwa die Prau verläßt und auf einen vorüberkommenden
 Sampan zuschwimmt … — eine Kleinigkeit, wo hier
 so nahe an Land so viele Baumstämme, Grasstücke und anderes
 auf den Wogen treiben, unter dem sich ein menschlicher
-Kopfes verbergen kann …«
+Kopf verbergen kann …«
 
 Ich — — blieb stumm …
 
-Stumm, denn was sollte ich erwidern?! ZI) hatte
+Stumm, denn was sollte ich erwidern?! Ich hatte
 alle Ursache, mich in meine schwarze Seele hinein gründlich
-zu shchämen! Ein Skandal, daß ich nicht an die Prau
+zu schämen! Ein Skandal, daß ich nicht an die Prau
 gedacht hatte!!
 
 Harst nahm eine neue Mirakulum und fügte hinzu:
 
 <@pagebreak/>
 »Der Abend naht, und wir werden unsere Wachsamkeit
-verdoppeln müssen, zumal dort links Grinsen uns ein kleiner
+verdoppeln müssen, zumal dort links hinter uns ein kleiner
 Schoner an uns klebt wie die Fliege am Honigglas …
-Dieser Schoner kommt mir Verhör hin vor … Blicke nicht
+Dieser Schoner kommt mir verdächtig vor … Blicke nicht
 hin, mein Alter, denn die Kerle würden mißtrauisch werden
 … Und das müssen wir verhüten — Du merkst, daß
-mir Rellans Flucht gar nicht so unangenehm ist, Der Mensch
-ist »18 Verbrecher sehr vielseitig, und es wäre interessant,
+mir Rellans Flucht gar nicht so unangenehm ist. Der Mensch
+ist als Verbrecher sehr vielseitig, und es wäre interessant,
 auch seine anderen Seiten noch kennen zu lernen, nachdem
 wir ihn als Juwelendieb, Hypnotiseur und Mädchenhändler
 entlarvt haben … Er besitzt fraglos Beziehungen zu internationalen
-Händlern mit Men’ckensleisch, und da hier in
-Indien &in schwunghaftes Geschäft mit jungen hübschen
+Händlern mit Menschenfleisch, und da hier in
+Indien ein schwunghaftes Geschäft mit jungen hübschen
 Mädchen getrieben wird, würden wir uns so etwas verdient
-machen. wenn wir diese Organisation von Schurken
+machen, wenn wir diese Organisation von Schurken
 vollzählig hinter Schloß und Riegel bringen könnten, was
-uns nur glückt, wenn wir schlau noch einige Zeit Freiheit
+uns nur glückt, wenn wir Rellan noch einige Zeit Freiheit
 gönnen …«
 
 Ich mußte ihm in alledem recht geben und sprach dies
 auch mit anerkennenden Worten aus, die ihm nur ein stilles
-ironisches Lächeln entlocken, was mich ein wenig reizte, [so
+ironisches Lächeln entlocken, was mich ein wenig reizte, so
 daß ich meinem Herzen entsprechend Luft machte …
 
-»Du solltest von anderen Menschen nicht allzuviel ver-lanvon’!«
-meinte ließ. »Es hat nicht jeder so viel … Geist
-wir du! Gast, — die Prau hätte ich als Rellans bereit
-nicht vergessen dürfen!’ Aber …«
+»Du solltest von anderen Menschen nicht allzuviel verlangen!«
+meinte ich. »Es hat nicht jeder so viel … Geist
+wie du! Gewiß, — die Prau hätte ich als Rellans Versteck
+nicht vergessen dürfen! Aber …«
 
 »Schon gut, mein Alter … Nur nicht wieder beleidigt
-er« Er gab mir die Hand. »Du mußt mich schon mit
-bitten Kellern hinichmen … Genau wie ich betone, daß
-hin mir der liebste Mensch auf Erden bist, meine Mutter
-ausgenommen, die jetzt daheim in Berlin-Schnarchenden]
+sein!« Er gab mir die Hand. »Du mußt mich schon mit
+meinen Fehlern hinnehmen … Genau wie ich betone, daß
+du mir der liebste Mensch auf Erden bist, meine Mutter
+ausgenommen, die jetzt daheim in Berlin-Schmargendorf
 sicherlich schon sich schmerzlich nach ihrem großen Jungen
-sehnt … —«- Sobald Rellan erledigt ist, fahren wir nach
-Pause … Wir kommen dann gerade in den deutschen
-
+sehnt … — Sobald Rellan erledigt ist, fahren wir nach
+Hause … Wir kommen dann gerade in den deutschen
 Frühling hinein, und der ist mir lieber als der ganze
-topenzattver — — Tatsache!!«
+Tropenzauber — — Tatsache!!«
 
 <@pagebreak/>
 Ich war schon wieder versöhnt …
 
-Harald schickte mich dann weg … »Geh« wieder naß
-achtern, lieber Alter … Wir zwei fallen hier zu sehr aus…
-Du kannst Ja trotzdem die Frau und den Schoner im Auge
+Harald schickte mich dann weg … «Geh’ wieder nach
+achtern, lieber Alter … Wir zwei fallen hier zu sehr auf …
+Du kannst Ja trotzdem die Prau und den Schoner im Auge
 behalten und auch O’Kelling einen Wink geben … Der
 Alte hat Seemannsaugen, die er ja täglich gehörig mit
-ruhig!By gut …«
+Whisky putzt …«
 
 Lachend ging ich davon …
 
 Der Käpten kaute in seiner Hängematte ein riesiges
 Stück Ziegenkäse … Als ich ihm den Inhalt meines Gesprächs
 mit Harald mitteilte, fiel ihm der Käse aus der
-Hand, rollte bis zur Reling, wo eine spreche Sturme ihn blitzschnell
-wegsihnapptie …
+Hand, rollte bis zur Reling, wo eine freche Möwe ihn blitzschnell
+wegschnappte …
 
 »Schraut,« meinte der blaunasige Irländer mit wehleidigem
-Gesicht, »wir beide haben den Korn wirklich nur
-zum Satanischen!! Nur Harst hat ihn zum Denken! —
+Gesicht, »wir beide haben den Kopp wirklich nur
+zum Hutaufsetzen!! Nur Harst hat ihn zum Denken! —
 Natürlich — — die Prau …!! Wir Rindviecher sind wie
-die Eisen mit’in Brett vor’in Schädel! — — Paratu,«
-brüllte er, »noch ein Stück Käse … na;ch’ dir aber vorher
+die Ochsen mit’m Brett vor’m Schädel! — — Paratu,«
+brüllte er, »noch ein Stück Käse … Wasch’ dir aber vorher
 die Pfoten und bring’s auf ’nem Teller …«
 
-Warnruf Hände standen nämlich in scharfem Widerspruch
+Paratus Hände standen nämlich in scharfem Widerspruch
 zu seinem sauberen, reinlichen Charakter … —
 
 Der Abend kam …
@@ -1844,7 +1840,7 @@ Der Abend kam …
 O’Kelling und ich zurrten unsere Hängematten höher,
 so daß wir über die Reling hinwegsehen konnten …
 
-Die Dämmerung rauchte das Meer in die rosigen fanden
+Die Dämmerung tauchte das Meer in die rosigen Farben
 des Sonnenuntergangs …
 
 Und dann brach die Nacht an …
@@ -1856,8 +1852,8 @@ Dann … schlich der verdächtige Schoner näher …
 Der Schoner segelte tadellos, hatte außerdem einen
 Hilfsmotor …
 
-Haralds Überholte er uns jetzt … Es war gerade die
-Zeit zwischen Nachtanbruch und Treppenaufgang, also am
+Harmlos Überholte er uns jetzt … Es war gerade die
+Zeit zwischen Nachtanbruch und Sternenaufgang, also am
 dunkelsten …
 
 Von der Prau war selbst mit dem Glase, das wir auch
@@ -1867,30 +1863,30 @@ schwimmender Mensch schon gar nicht …
 
 Aber auf dem Schoner, der die vorschriftsmäßigen Laternen
 führte, konnte man unschwer nach einigen Minuten,
-als er. an der Prau vorüber war, eine Gestalt blitzschnell
+als er an der Prau vorüber war, eine Gestalt blitzschnell
 über die Backbordreling gleiten sehen, und das war die
-uns abgekehrte Schriftseite …
+uns abgekehrte Schiffsseite …
 
 Blitzschnell …
 
 Da kam auch schon Harald zu uns …
 
 Sagte gleichmütig: »Der Schöner hat Rellan an Bord!
-— Käpten, signalisieren Sie der Jacht, daß wir Mosaikboden,
+— Käpten, signalisieren Sie der Jacht, daß wir Motorschaden,
 haben, daß die Jacht aber ruhig weiterfahren
-o
+soll …«
 
 Die Signale gingen in farbigen Lichtern am Mast hoch,
 und unser Motor stoppte …
 
-Indessen war der Schoner bereit noch links, zur Küste
+Indessen war der Schoner bereits nach links, zur Küste
 abgeschwenkt und mit bloßem Auge kaum mehr zu erkennen.
 
 Die »Lady Hamilton« trieb nun auf der mäßig bewegten
-See und konnte mit ihren gefesselten Segeln kaum
+See und konnte mit ihren gerefften Segeln kaum
 auf größere Entfernung bemerkt werden. Anderseits war
 der Schoner, der sein ganzes Zeug (Segel) gesetzt hatte,
-gegen den dunklen Hintergrund des Külsienstrichs deutlich
+gegen den dunklen Hintergrund des Küstenstrichs deutlich
 mit dem Fernglase zu erkennen.
 
 Wir äugten scharf nach ihm aus, während unsere vier
@@ -1900,29 +1896,29 @@ bereits grauschwarz verfärbtes Segel angebunden werden
 konnte, welches den Kutter wie ein Vorhang verdeckte,
 
 Inzwischen hatte der Schoner unweit der Küste gewendet
-und lief nun wieder südwärts, [so laß wir mit der
+und lief nun wieder südwärts, so daß wir mit der
 »Lady Hamilton« sehr bald auf tausend Meter hinter ihm
-waren, ohne befürchten zu müssen, daß man aus uns aufmerksam
-wurde, da der Segelvorhang von dem Schiffs-mitmpif
+waren, ohne befürchten zu müssen, daß man auf uns aufmerksam
+wurde, da der Segelvorhang von dem Schiffsrumpf
 und dem unteren Teil des Mastes nichts sehen ließ,
 während das alte Segel selbst sich von der dunklen Meeresoberfläche
 kaum abhob.
 
 <@pagebreak/>
-Mit unserem derart maskierten Kutter Blicken wir
+Mit unserem derart maskierten Kutter schlichen wir
 hinter dem Schoner drein …
 
 Bei uns an Bord war jetzt wieder jeder einzelne in
 jener angeregten Stimmung, die eine solche Verfolgung notwendig
 hervorruft … Unsere vier Malaien, Paratu an
-der Spitze, hatten dem »Phalu Dringar« blutige Rache jedoch)
-traten, weil der Schurke sie) erfrecht hatte, Harst tagelang
+der Spitze, hatten dem »Phalu Dringar« blutige Rache geschworen,
+weil der Schurke sich erfrecht hatte, Harst tagelang
 in einem Kasten gefangen zu halten, noch dazu gefesselt
 und geknebelt …
 
-Und wir alle waren auch gleichmäßig gaespannt daraus,
+Und wir alle waren auch gleichmäßig gespannt darauf,
 wo der Schoner sich schließlich an der Küste verkriechen
-wie« nachdem er nun bereits vier kleine Hafenorte passiert
+würde, nachdem er nun bereits vier kleine Hafenorte passiert
 hatte …
 
 Es ging also immer weiter nach Süden, — und auch den
@@ -1930,7 +1926,7 @@ Hafen von Pondicherry vermied der Schoner im großen
 Bogen …
 
 »Vielleicht wollen die Schufte gar ihren alten Schlupfwinkel
-wieder aussuchen,« meinte unser Käpten …
+wieder aufsuchen,« meinte unser Käpten …
 
 Und er meinte damit jene seeartige Erweiterung des
 Mündungsarmes des Penner-Flusses, wo Rellan die Baulichkeiten
@@ -1939,65 +1935,65 @@ er sich mit dem gestohlenen Kutter auf und davon machte …
 
 Und siehe da: der Alte behielt recht …
 
-Der jener bog in den Mündungsarm ein, durchfuhr
-ohne die Segel zu reisen die enge Passage zwischen den
+Der Schoner bog in den Mündungsarm ein, durchfuhr
+ohne die Segel zu reffen die enge Passage zwischen den
 Sandinseln und … verschwand …
 
 Nun — wir wußten Bescheid …
 
 Wir kannten ja auch die zweite versteckte Einfahrt in
 das seeartige Becken und mußten, wenn wir diesen der
-Brandung wegen etwas gefährlicheren Weg wählten, Winters
+Brandung wegen etwas gefährlicheren Weg wählten, mindestens
 zehn Minuten vor dem Schoner an Ort und Stelle
-ein.
+sein.
 
 Nur ein Seemann von O’Kellings Erfahrung durfte
 es zu dieser Nachtzeit und bei dieser Dunkelheit wagen, die
 Brandung zu passieren …
 
-Es glückte
+Es glückte …
 
 <@pagebreak/>
 Wir liefen in die schmale Bucht ein, wanden uns durch
 Röhricht, Schilfinseln und schmale Fahrrinnen hindurch und
 langten, als das Heer der Sterne gerade seinen vollen
-Glanz entfaltete, in dem geheimen Hafen gelang an, brachten
-den Kutter am Ostufer unter überhängenden Baume-zweigen
-in ein zuverlässiges Versteck uv wo on das Beiboot
-Blatt, Los Harald, ich und Agentur dann schleunigst nach
-der Spitze der Halbin’el ruderten, von wo wir das Boot dann
+Glanz entfaltete, in dem geheimen Hafen Rellans an, brachten
+den Kutter am Ostufer unter überhängenden Baumzweigen
+in ein zuverlässiges Versteck und machten das Beiboot
+flott, das Harald, ich und Paratu dann schleunigst nach
+der Spitze der Halbinsel ruderten, von wo wir das Boot dann
 mit Paratu zurückschickten, während wir uns in dem dichten
-»Winkel eines Mangobaumes verbargen …
+Wipfel eines Mangobaumes verbargen …
 
-Wir hatten hier noch keine fünf Minuten im Blätter«-
-grün ganz bequem gesessen, als sich etwas ereignete, woran
+Wir hatten hier noch keine fünf Minuten im Blättergrün
+ganz bequem gesessen, als sich etwas ereignete, woran
 wir auch nicht im entferntesten gedacht hatten …
 
-Nein …- nicht im entferntesten … —
+Nein … nicht im entferntesten … —
 
 Ich muß noch bemerken, daß wir die noch gut erhaltene
-Landung&brücke etwa acht Meter vor uns hatten, während
-gefurchter Hand die Brandruinen der Baulichkeiten. links aber
+Landungsbrücke etwa acht Meter vor uns hatten, während
+rechter Hand die Brandruinen der Baulichkeiten, links aber
 der Ausgang jenes Dschungelpfades, den wir damals nachts
-auf der Suche nach Harald meilenweit verekeln! hatten und
-doch so hoch lich wieder beinahe an dieselbe Stelle gekommen
-Spuren.
+auf der Suche nach Harald meilenweit verfolgt hatten und
+doch schließlich wieder beinahe an dieselbe Stelle gekommen
+waren.
 
 Von diesem Pfade her vernahmen wir mit einem Male
-Rasen und Pause en von Blättern …
+Rufen und Rauschen von Blättern …
 
-verstrich löste sie« wir::n aus dem Dunkel des Dickicht
-dort ins graue massige Tiergestalt …
+Plötzlich löste sich dann aus dem Dunkel des Dickichts
+dort eine graue massige Tiergestalt …
 
-»in … &Clesant … Auf dem Halle Boote der Mahut,
-der ie
+Ein … Elefant … Auf dem Halse hockte der Mahut,
+der Lenker …
 
-» den auf dem Rücken des Dickhäuters lagen an-s&:
-ck die! nebeneinander sechs gerollte -Teppiche …
+Und oben auf dem Rücken des Dickhäuters lagen anscheinend
+dicht nebeneinander sechs gerollte Teppiche …
 
-her Elefant schritt dem Wasser zu …
+Der Elefant schritt dem Wasser zu …
 
-Ein zweiter folgt …
+Ein zweiter folgte …
 
 Ein dritter …
 
@@ -2012,45 +2008,44 @@ nicht lange …
 
 <h2>2. Kapitel.</h2>
 
-<h3>— es Stab hier noch mehr zu sehen …</h3>
+O — es gab hier noch mehr zu sehen …
 
 Hinter den Elefanten her trottete eine Schar von etwa
-öwanzig Indern, die alle mit Karabinern, Revolvern und
-halblangen indischen Hauschwertern bewassinet waren und
-eine Art Uniform trugen: graue Leinenanzüge, Wickcl-gamasck.
-en und derbe Schnürschuhe, dazu breitrandige
+zwanzig Indern, die alle mit Karabinern, Revolvern und
+halblangen indischen Hauschwertern bewaffnet waren und
+eine Art Uniform trugen: graue Leinenanzüge, Wickelgamaschen
+und derbe Schnürschuhe, dazu breitrandige
 Strohhüte und Nackenschleier.
 
 Selbst die drei Mahuts waren ebenso angezogen.
 
-Die eleganten knieten nieder, und die Bewaffneten
-schnürten nun die Teppiche von den Rücken der Dick äu:
-los, nachdem sie die Karabiner in Pyramiden galant Tageshell
-hatten — ganz militärisch. Die Grippe machte für erstaunt
+Die Elefanten knieten nieder, und die Bewaffneten
+schnürten nun die Teppiche von den Rücken der Dickhäuter
+los, nachdem sie die Karabiner in Pyramiden zusammengestellt
+hatten — ganz militärisch. Die Truppe machte überhaupt
 einen recht disziplinierten Eindruck, und die Leute
-waren auch) spurlos gewachsen und jung und kräftig … —
+waren auch tadellos gewachsen und jung und kräftig … —
 
-Sollte dies etwa Skala Dringars Leibgarde sein?!
-1«ob es mir unwillkürlich Ei:ich den Kopf … Chef aber
-die Schutzwache der Organisation von Mäackenhändlern?!
+Sollte dies etwa Phalu Dringars Leibgarde sein?!
+schoß es mir unwillkürlich durch den Kopf … Oder aber
+die Schutzwache der Organisation von Mädchenhändlern?!
 
 Zu langem Nachdenken hatte ich keine Zeit …
 
-Harald sich in’ch leise an …
+Harald stieß mich leise an …
 
 »Achtzehn Opfer der Schurken!« flüsterte er …
 
-Und da wußte ich denn, was die gerollten Teppiche begleiteten
-…!
+Und da wußte ich denn, was die gerollten Teppiche
+bedeuteten …!
 
 Wollte etwas erwidern …
 
-Ein Ruf sollte über den See …
+Ein Ruf gellte über den See …
 
 Der Schoner kam …
 
-Fackeln lohten auf … Lagerfeuer knisterten, sandten.
-
+Fackeln lohten auf … Lagerfeuer knisterten, sandten
 Rauchwolken gen Himmel …
 
 Der Schoner legte an …
@@ -2059,62 +2054,60 @@ Die Uniformierten eilten mit Fackeln auf die Brücke …
 Bildeten gleichsam Spalier … Und stolz und aufrecht schritt
 … Edward Granveller zwischen ihnen hindurch — nicht
 mehr in Indertracht, nein, im weißen Leinenanzug, mit
-Hof!Oheim aus dem Kopf …
+Korkhelm auf dem Kopf …
 
 Grüßte die Leute …
 
 <@pagebreak/>
-Ein donnernder aufs:
+Ein donnernder Ruf:
 
-»Heil dem Phalu Dringar — — heil!!
+»Heil dem Phalu Dringar — — heil!!«
 
 Dem — — Phalu Dringar!! Dem Totenvogel …! —
 
-Weiß der Heimweh: diese Szene machte auf mich einen
+Weiß der Himmel: diese Szene machte auf mich einen
 besonderen Eindruck
 
 Ich fühlte geradezu, daß dieser Verbrecher bei seinen
 Leuten eine ungewöhnliche Verehrung genoß …
 
-Und hinter ihm gelassen drei andere Gestalten: ein
-unserer Perser, unverkennbar in seiner Tracht, mit dem
-Schwammigen Gesicht, dem schwarzen Hängeschnurrbart und
-der Lammpelzmüte …
+Und hinter ihm folgten drei andere Gestalten: ein
+dicker Perser, unverkennbar in seiner Tracht, mit dem
+schwammigen Gesicht, dem schwarzen Hängeschnurrbart und
+der Lammpelzmütze …
 
-Als zweiter ein wahren nickte, ein Neger, aber europäisch
+Als zweiter ein wahrer Riese, ein Neger, aber europäisch
 gekleidet, ein Somali-Neger, wie das hochmütige,
-oder geformte Gesicht verriet … Als dritten ein kleiner
-Aasgeier alter Inder, graubärtig, Hornbrille, Hakennase:
+edel geformte Gesicht verriet … Als dritter ein kleiner
+magerer alter Inder, graubärtig, Hornbrille, Hakennase:
 eine ausgesprochene Gaunervisage …! —
 
-Im Nu war dann an Land ein Spitzel! errichtet,
-sparsam Teppiche au&sgebreitet …
+Im Nu war dann an Land ein Spitzzelt errichtet,
+waren Teppiche ausgebreitet …
 
-Mr. Rellan, der Phalu Dringar, setzte sich vor den Zelteingang
-… Die anderen drei Ehrenmänner neben ihn …
+Mr. Rellan, der Phalu Dringar, setzte sich vor den
+Zelteingang … Die anderen drei Ehrenmänner neben ihn …
 
-Erstorben knallten …
+Sektkorken knallten …
 
-Zaun silbernen Pokalen schäumte her Wein …
+In silbernen Pokalen schäumte der Wein …
 
-Zigaretten, rannten wunden gereicht …
+Zigaretten, Zigarren wunden gereicht …
 
-Wir  WMuotesiumfadeln ermessen halb ihre Lichte
+Und … Magnesiumfackeln ergossen bald ihre Lichtschleier
+… das erste Opfer dieser Banditen …
 
-»rv … das erste Opfer dieser Banditen …
-Kiste Teppich war o’tsacrollt worden … Freche
+Der erste Teppich war aufgerollt worden … Freche
+Hände rissen einem jungen Weibe die Kleider vom Leibe …
+zerrten es vor das Zelt in das blendende Licht …
 
-11ö/cm einem jungen Weibe die Kleider vom Leibe …
-
-los vor das Zelt in das blendende Licht …
-
-»4m … Stachel …!
+Zum … Schacher …!
 
 Der Perser erhob sich …
 
-Prüfte die »Ware«
+Prüfte die »Ware« …
 
-N:. er Rellan einen Preis zu …
+Rief Rellan einen Preis zu …
 
 »Fünftausend Rupien!«
 
@@ -2122,19 +2115,20 @@ Der Phalu Dringar zuckte die Achsen …
 
 Schließlich einigte man sich auf achttausend …
 
-Und das Mädchen mit den kinospenden Formen, diese
+Und das Mädchen mit den knospenden Formen, diese
 <@pagebreak/>
-braune jung, wurde an Bord des Schoners geführt, nachdem
-sie ihre Kleider wieder hatte überweisen dürfen … —
+braune Juno, wurde an Bord des Schoners geführt, nachdem
+sie ihre Kleider wieder hatte überwerfen dürfen … —
+
 Phantastisch dies nächtliche Bild …
 
 Ein Maler hätte seine Freude daran gehabt …
 
 Und — das Geschäft ging weiter …
 
-Neue Sekusltaschen wurden geöffnet …
+Neue Sektflaschen wurden geöffnet …
 
-»Neue Teppiche entrollt …
+Neue Teppiche entrollt …
 
 Zuweilen konnte der Perser und Rellan sich nicht
 einig werden …
@@ -2142,7 +2136,7 @@ einig werden …
 Der Perser raufte sie dann förmlich das Haar … Bezahlte
 trotzdem …
 
-Und lebt — — der zehnte Teppich …
+Und jetzt — — der zehnte Teppich …
 
 Beinahe hätte ich laut aufgeschrien …
 
@@ -2155,11 +2149,11 @@ Hemde bekleidet …
 
 Ich umkrallte Haralds Arm …
 
-Ich sah, wie das Mädchen vor Schwäche umsank :…
+Ich sah, wie das Mädchen vor Schwäche umsank …
 
 Hörte das wimmernde Weinen …
 
-Sollten wir dritten, daß diese Untiere auch diesem
+Sollten wir dulden, daß diese Untiere auch diesem
 Kinde das zarte Leinen vom Körper rissen?!
 
 »Harald!« keuchte ich …
@@ -2179,9 +2173,9 @@ Warten! Und — — die Vergeltung für später aufsparen
 
 »Zehntausend Rupien!« bot der Perser.
 
-» Zwanzigtausend!« sagte der Phalu Dringar kalt …
+»Zwanzigtausend!« sagte der Phalu Dringar kalt …
 
-Das arme Geschöpf sank vor Rellan in die Oase …
+Das arme Geschöpf sank vor Rellan in die Knie …
 
 Ein seines tränenschweres Stimmchen flehte:
 
@@ -2192,78 +2186,75 @@ haben … Sie kennen doch meine Eltern … Sie werden …«
 »Gut — zwanzigtausend!« kreischte der Perser …
 
 Und man führte das blonde Mädchen davon — wie die
-übrigen — auf den Schoner]
+übrigen — auf den Schoner!
 
-Wir neun vor Anregung kc Schmeißt in Strömen
+Mir rann vor Aufregung der Schweiß in Strömen
 über den Leib und immer wieder zuckte meine Hand nach
-He! Jackentasche, nach der Clementpistole …
+der Jackentasche, nach der Clementpistole …
 
-Ehe — — eintrat
+Ruhe — — Ruhe …!
 
 Und ich bezwang mich …
 
-— aber eins »zwar ich mir zu: Dieser Rellan sollte durch
-ein Kugel sollen?! Bei der ersten Gelegenheit!! —
+aber eins schwor ich mir zu: Dieser Rellan sollte durch
+ein Kugel fallen!! Bei der ersten Gelegenheit!! —
 
-Paratu, braver Bursche, töribter Bursche …!!
+O Paratu, braver Bursche, törichter Bursche …!!
 
 alles hast du damals verdorben, hast dein Leben zwecklos
-geopfert …«.!]
+geopfert …!!
 
-Ja — — Paratu war’s, der dort urplötzlich aus der
+Ja — — Paratu war’s, der dort urplötzlich auf der
 Landungsbrücke erschien …
 
-Mittwoch war da V blonde Kind nicht auf dem Kavalier …
+Noch war das blonde Kind nicht auf dem Schoner …
 
-Diner stutzte, und die beiden Matrosen des Persers
-scülvacu zu Boden …
+Zwei Schüsse, und die beiden Matrosen des Persers
+schlugen zu Boden …
 
-Agentur riß das Mädchen an sich, sprang ins Wasser
-
-und [ck Damm dem Boote zu, das er am Ratte des Röh-rice15
+Paratu riß das Mädchen an sich, sprang ins Wasser
+und schwamm dem Boote zu, das er am Rande des Röhrichts
 versteckt hatte …
 
-Sie unglaublicher damals folgte …
+Ein unglaublicher Tumult folgte …
 
-»! mit hatte der So Euer aber auch eins seiner Boote
-her …
+Im Nu hatte der Schoner aber auch eins seiner Boote
+im Wasser …
 
-zu. alt warf die Arme in die Luft … Eine Kugel,
+Paratu warf die Arme in die Luft … Eine Kugel,
+die Rellan aus einem Karabiner abgefeuert hatte, war ihm
+verhängnisvoll geworden …
 
-651 aus einem Karabiner abgefeuert hatte, war ihm
-16 an ihn geworden …
+Er stürzte über Bord und tauchte nicht wieder auf …
 
-Er stürzte über Bord und tauchte nicht: wieder auf …
+Das blonde Kind wurde wieder eingefangen … Und
+der Schoner schoß in den See hinaus … sogar einen
+Scheinwerfer besaß der Perser … Sogar ein kleines Geschütz
+…
 
-las blonde Kind wurde wieder eingegangen … Und
-der Schoner [Maß in den See hinaus … sogar einen
-Scheinwerfer besaß der Perlen … Sogar ein kleines See
-
-schuf
-
-Präsidium Glück war Freund O’Kelling schlau Sprung, ohne
+Zum Glück war Freund O’Kelling schlau genug, ohne
 Rücksicht auf uns mit dem Kutter … auszukneifen …
 
 Drei Schüsse knallten hinter ihm drein …
 
 <@pagebreak/>
-Zaun gab der Schoner die Verfolgung aus und kehrte
+Dann gab der Schoner die Verfolgung auf und kehrte
 um …
 
-Harst Kunst mich am Ärmel …
+Harst zupft mich am Ärmel …
 
-»Rasch … Niemand wird uns bemerken Wir
-müssen uns unter der Anlegebrücke verbergen …
+»Rasch … Niemand wird uns bemerken … Wir
+müssen uns unter der Anlegebrücke verbergen …«
 
-Also herab vom Baume … Tür) Gras und Gestrüpp
-… Bis wir bis zum Halle im Wasser standen …
+Also herab vom Baume … Durch Gras und Gestrüpp
+… Bis wir bis zum Halse im Wasser standen …
 
 Bis der Schoner wieder anlegte … Und Rellan nun
-die ganze Halbinsel Abgang;cm sich …
+die ganze Halbinsel absuchen ließ …
 
 Nur zwei Wachen blieben zurück …
 
-Und im « ’« wir an Deck,
+Und im Handumdrehen waren wir an Deck,
 schlüpften durch die Vorderluke hinab und tappten im Finstern
 vorwärts …
 
@@ -2271,24 +2262,23 @@ Hörten hinter einer Tür Weinen, Schluchzen und fanden
 dort das blonde Kind und drei Inderinnen in einer schmalen
 langen Kammer …
 
-Im Hinmergrunde Kisten — leer, Holzwolle hing heran
-hinein …
+Im Hintergrunde Kisten — leer, Holzwolle hing heraus
+…
 
-aus
-sehr
+Wir hinein …
 
-83\. Kapitel.
+<h2>3. Kapitel.</h2>
 
 Meine Taschenlampe beleuchtet die vier Mädchen …
 
-Eng zujammengerückt kauern sie am Boden …
+Eng zusammengerückt kauern sie am Boden …
 
-Harst Frist näher …
+Harst tritt näher …
 
-»Wir werden euch retten … Ihr Fürst uns nicht verraten
-… Wir werden und hinter den Kisten verbergen …«
+»Wir werden euch retten … Ihr dürft uns nicht verraten
+… Wir werden uns hinter den Kisten verbergen …«
 
-Die Kisten. sind wirklich leer. Und es ist nicht allzu
+Die Kisten sind wirklich leer. Und es ist nicht allzu
 schwer, sie derart umzustellen, daß wir beide sitzend unter
 Ihnen ein sicheres Versteck finden.
 
@@ -2303,61 +2293,59 @@ hatte sich die blonde Europäerin niedergehockt, um sich
 flüsternd mit uns unterhalten zu können …
 
 An der Wand hing als sehr mäßige Leuchte ein kleines
-Retrolcumlatcrnhen, das kaum hinreichte, die allernächste
-Umgebung in ein trübes Halbdunkel zu taugen.
+Petroleumlaternchen, das kaum hinreichte, die allernächste
+Umgebung in ein trübes Halbdunkel zu tauchen.
 
-Das blonde Kind war durch) unsere Gegenwart wunderbar
+Das blonde Kind war durch unsere Gegenwart wunderbar
 aufgelebt. Als sie nun noch durch Harald unsere
 Namen hörte, rief sie leise:
 
-» van — dann Künste ich nichts mehr, Herr Harst …
-statt« »an Sie Von mir, was Sie wollen … ich bin nicht
-
-36 … Mein Vater ist Sir landete Luckward, früher
+»Dann — dann fürchte ich nichts mehr, Herr Harst …
+verlangen Sie Von mir, was Sie wollen … ich bin nicht
+feige … Mein Vater ist Sir Randolf Luckward, früher
 Oberst in der Kolonialarmee, jetzt Plantagenbesitzer in der
-Name von Zentral … Meine Mutter verlor ich frühzeitig,
-und Wein Vater hat mich, sein einziges Kind, halb als
-was erzogen. Edward Granveller und sein Freund
-ist Salargan verkehrten sehr viel bei uns. Als ich dann
-23 vier vorn einmal wie so oft allein durch die Felder
-mit und dabei ein Waldstück passierte, wurde ich von vier
+Nähe von Madras … Meine Mutter verlor ich frühzeitig,
+und mein Vater hat mich, sein einziges Kind, halb als
+Jungen erzogen. Edward Granveller und sein Freund
+Lord Salargan verkehrten sehr viel bei uns. Als ich dann
+vor vier Wochen einmal wie so oft allein durch die Felder
+ritt und dabei ein Waldstück passierte, wurde ich von vier
 fremden Indern überfallen, betäubt und weggeschleppt …
 
-fast Luckward berichtete weiter, daß Granveller-Rellan
+Daisy Luckward berichtete weiter, daß Granveller-Rellan
 unter anderem Namen weit oberhalb am Penner-Fluß
-in den Ostausläufern der ehrbaren-Berge eine
+in den Ostausläufern der Shevarry-Berge eine
 kleine, ganz einsam gelegene Plantage besaß, in der
-die »geraubten Mädchen untergebracht wurden, bis sich gesagt
-ich (5 1 sie pro. Saales wegzusänssen, Von dieser Plan
-— hinkt Kerl aus Leibgarde ihr Quartier hatte, waren
+die geraubten Mädchen untergebracht wurden, bis sich Gelegenheit
+bot, sie per Schiff wegzuschaffen. Von dieser Plantage,
+wo auch Rellans Leibgarde ihr Quartier hatte, waren
+die zehn Mädchen in drei Tagesmärschen auf den Elefanten
+bis zur Küste geschafft worden.
 
-Mädchen in drei Tagesmärschen auf den Ellen
-… zur Kur! geschafft worden.
-» Zebilduiung hatte eine geraume Zeit in Art
-… Gekommen, und kaum hatte sie ihre Erzählung benahm
+Daisys Schilderung hatte eine geraume Zeit in Anspruch
+Genommen, und kaum hatte sie ihre Erzählung beendet,
 als es über uns an Deck sehr lebendig wurde. Offenbar
-hatte man die Durchsuä’ung der Halbinsel aufgegeben.
+hatte man die Durchsuchung der Halbinsel aufgegeben.
 Der Schoner verließ dann den See. Wir hörten den Motor
-Arbeitern und Harald raunte mir zu:
+arbeiten und Harald raunte mir zu:
 
 »Sie fürchten, daß O’Kellings Kutter Hilfe herbeiholt
-
-Sie müssen diesen Platz von endgültig umgeben … Tee um
+Sie müssen diesen Platz nun endgültig aufgeben … Rellan
 <@pagebreak/>
 weiß jetzt auch, daß wir sehr wohl wissen, wie er entwischte
 und daß wir ihn entfliehen lassen wollten … Er wird
 ahnen, daß er bereits halb eingekreist ist … Entdeckt er
-Juni hier, so sind wir geliefert, mein Alter …«
+uns hier, so sind wir geliefert, mein Alter …«
 
 Dann schärfte er den Mädchen nochmals ein, sich ja
 nichts anmerken zu lassen, daß sie wieder Hoffnung geschöpft
 hätten. Sie sollten sich auf jeden Fall weiter so niedergeschlagen
-wie bisher zeigen und nie vergessen, daß von un?
-allein ihre Besfreiwvna abhinge. —
+wie bisher zeigen und nie vergessen, daß von uns
+allein ihre Befreiung abhinge. —
 
 Die Zeit verstrich …
 
-Bart sah nach der Uhr …
+Harst sah nach der Uhr …
 
 Drei Uhr morgens … Der Schoner war bereits eine
 Stunde unterwegs.
@@ -2366,75 +2354,74 @@ Harald flüsterte wieder:
 
 »Sie fahren den Mündungsarm des Penner auswärts.«
 
-»Boy!«
+»So?!«
 
-»Ja, — denn hätten sie die offene See zu gewinnen Durchsucht,
-so würde der Schonung sich schon bemerkbar man.
+»Ja, — denn hätten sie die offene See zu gewinnen gesucht,
+so würde der Seegang sich schon bemerkbar machen.
 Der Schoner fährt ganz ohne jede Schwankungen …«
 
 Das stimmte …
 
 »Mithin, mein Alter, wollen sie zur Plantage, zu
-Phalu Dringars &Hauptversteck … Sie wagen es des Kutters
+Phalu Dringars Hauptversteck … Sie wagen es des Kutters
 wegen nicht, daß Meer zu …«
 
 Harald verstummte jäh …
 
-Ich fragte rasch! »Was gibt’ak«
+Ich fragte rasch: »Was gibt’s?«
 
 »Schau nach links …!«
 
 Ich tat’s … Zur Linken lag die Bordwand des
-Schoners, die zustellt die Rückwand der Kammer bildete …
+Schoners, die zugleich die Rückwand der Kammer bildete …
 Ich erkannte dort einen dünnen hellen Strich …
 
-»Eine Seitenluke, mein Aber,« erklärte Harald leite …
+»Eine Seitenluke, mein Alter,« erklärte Harald leise …
 »Natürlich vernagelt … Ich will sie mal befühlen …«
 
 Er schob sich vorwärts …
 
 Nach einer Weile war er wieder neben mir … »Stimmt
-— eine vernagelte Luke … Für uns seiner zu eng … Die
-
+— eine vernagelte Luke … Für uns leider zu eng … Die
 Nägel würde ich schon entfernen können … Aber es hätte
 keinen Zweck …« —
 
 <@pagebreak/>
-Die Mädchen waren inzwischen auf den Kokoömatten
-eingeschlummert. Erschöpfung und das Bewuhßhtscein, uns
-beide als Retter und besser in der Nähe zu haben, gab
-ihnen — vielleicht! seit langer Zeit — die Wohltat eines
+Die Mädchen waren inzwischen auf den Kokosmatten
+eingeschlummert. Erschöpfung und das Bewußtsein, uns
+beide als Retter und Helfer in der Nähe zu haben, gab
+ihnen — vielleicht seit langer Zeit — die Wohltat eines
 ruhigen Schlummers…
 
-nach wir setzten uns so bequem wie irgend möglich
-und verzichten gleichfalls einzuschlafen. Wir dursten es
-Tone verraten tun, denn Harald hatte einen [9 leisen Schlag,
-daß er stets bei dem geringsten Geräusch. munter wurde.
+Auch wir setzten uns so bequem wie irgend möglich
+und versuchten gleichfalls einzuschlafen. Wir durften es
+ohne Bedenken tun, denn Harald hatte einen so leisen Schlaf,
+daß er stets bei dem geringsten Geräusch munter wurde.
 
 Und wirklich — ich war sehr bald in das aufregende
 Reich der Träume hinübergeglitten, — aufregend für den,
-der derartige Erlebnisse hinter sich hatte wie wir Beine …
+der derartige Erlebnisse hinter sich hatte wie wir beide …
 
 Ich träumte von dem armen Paratu, der sein Leben
-zwecklos geopfert hatte … kramte von dem dicken, widerlichen
-Per’er, der mir die Kaussumnien für die Mädchen
-gestern in die Ohren schrie …
+zwecklos geopfert hatte … Träumte von dem dicken, widerlichen
+Perser, der mir die Kaufsummen für die Mädchen
+gellend in die Ohren schrie …
 
-Und «- erwachte …
+Und -- erwachte …
 
-(brauchte — fühlte eine schwere Hand aus meinem
+Erwachte — fühlte eine schwere Hand auf meinem
 Munde …
 
-dann Harsts Stimme — wir!euch, ausgebracht:
+dann Harsts Stimme — wütend, aufgebracht:
 
-»Rum Zettel, ehe man sich auch munter bekommt!! Und
-in deiner Kehle hast du ein ganzes Zäncewertt!«
+»Zum Teufel, ehe man dich auch munter bekommt!! Und
+in deiner Kehle hast du ein ganzes Sägewerk!!«
 
-»Was!! denn so??!« kletterte 1-9 …
+»Was ist denn los?!« flüsterte ich ...
 
-»Soeben ha! man die vier Mädchen an Deck geholt, da-4
-Mr frische Luft schonappen sollen … Du hättest uns bei
-».. Felsufern 4«
+»Soeben hat man die vier Mädchen an Deck geholt, damit
+sie frische Luft schnappen sollen … Du hättest uns beinahe
+verraten ..."
 
 »Beinahe doch nur … — Wie spät ist’s?«
 
@@ -2442,12 +2429,12 @@ Mr frische Luft schonappen sollen … Du hättest uns bei
 
 »Donnerwetter …! Das hätte ich nicht gedacht! —
 
-»Allerdings, — sein Schlag ist beneidenswert …! —
+»Allerdings, — dein Schlaf ist beneidenswert …! —
 Ich habe inzwischen die Luke von den Nägeln befreit …
 Jetzt hängt sie nur noch in zwei Krampen und ist festgeklemmt
 … Der Schoner liegt in einem Sumpf dicht an
 einem Felsen … Wenn du einen Blick nach draußen tun
-willst. [so Holze mir …«
+willst, so folge mir …«
 
 Er schob sich bis zur Bordwand …
 
@@ -2455,11 +2442,11 @@ Er schob sich bis zur Bordwand …
 Ich hinter ihm drein …
 
 dann lüftet er den Lukendeckel behutsam … Nur
-12, daß unten eine zwei Finger breite Spalte entstand …
+so, daß unten eine zwei Finger breite Spalte entstand …
 
-Ich staunte hinaus …
+Ich schaute hinaus …
 
-Das war allerdings ein echt indisch/er Autos, und
+Das war allerdings ein echt indischer Sumpf, und
 mitten in dieses Sumpfgebiet hatte Mutter Natur einen
 kahlen grauschwarzen rissigen Granitblock hineingesetzt …
 
@@ -2481,18 +2468,17 @@ Felsen …«
 
 Wir saßen nun wieder hinter unseren Kisten … Und
 was kommen mußte, kam: Hunger und Durst meldeten
-
 sich!
 
-Meine stille Hoffnung, daß man den machen Lebensmittel
-und Trinkwasser: bringen und daß dann auch für uns
-etwas abfallen Gruft.?, zerrann in nichts, denn offenbar
-speiste man die Gesandt?nen oben an Deck oder in einem anderen
+Meine stille Hoffnung, daß man den Mädchen Lebensmittel
+und Trinkwasser bringen und daß dann auch für uns
+etwas abfallen würde, zerrann in nichts, denn offenbar
+speiste man die Gefangenen oben an Deck oder in einem anderen
 Raume …
 
-Und dieser Getan«? ließ mich, der ich nun einmal den
-empfindlicheren Magen und eine stets ausgedsörrte Stelle
-habe, auf die Geräusch! oben an Deck weit mehr achten als
+Und dieser Gedanke ließ mich, der ich nun einmal den
+empfindlicheren Magen und eine stets ausgedörrte Kehle
+habe, auf die Geräusche oben an Deck weit mehr achten als
 Harald es zu tun schien, der mir jetzt eingehend seine Vermutungen
 hinsichtlich Phalu Dringars fernerer Pläne entwickelte.
 
@@ -2501,46 +2487,46 @@ jetzt fiel mir etwas auf: die Stille an Deck …!
 
 <@pagebreak/>
 Gewiß, ich vernahm wohl das Trappeln von Füßen …
-Ade das waren niemals Schritte von Menschen …
+Aber das waren niemals Schritte von Menschen …
 
 Ich gab genau acht …
 
 Nein, niemals von Menschen …
 
-Dann hörte 1cm auch ein paar vordere Kreischtöne …
+Dann hörte ich auch ein paar besondere Kreischtöne …
 
-Messer — — Messer hausten an Deck!! Diese kleine freche
-Bande hatte ja stets einen seinen nieder dafür, ob sie Freundes
+Affen — — Affen hausten an Deck!! Diese kleine freche
+Bande hatte ja stets einen feinen Riecher dafür, ob sie fremdes
 Eigentum ungestraft betreten konnte!
 
-Messer …!! Mithin war die Besatzung, waren die
-Mädchen nicht! mehr da …
+Affen …!! Mithin war die Besatzung, waren die
+Mädchen nicht mehr da …
 
 »Harald!!«
 
 »Du wünschest?!«
 
 Und ich teilte ihm mit, was ich vermutete, fügte noch
-hinzu: »Man hat auch die Laterne hier in der Immer
-ausgelöscht «…! seine Annahme, man führe die Mädchen
+hinzu: »Man hat auch die Laterne hier in der Kammer
+ausgelöscht …! Deine Annahme, man führe die Mädchen
 nur an Deck, damit sie sich dort erholen, trifft nicht zu!«
 
 Seine Taschenlampe blitzte auf …
 
 Der Lichtkegel traf mein Gesicht, Nun sah ich aber
-auch Haralds Antlitz … Und das zeigte eine gewisse Anhöhe
+auch Haralds Antlitz … Und das zeigte eine gewisse Unruhe
 …
 
 Er lauschte … nickte …
 
-»Du gebe mich geschlagen,« meinte er … »Ehe tun«
+»Ich gebe mich geschlagen,« meinte er … »Es stimmt
+... Affen sind oben an Deck … — Da … sie jagen sich …
+kreischen ..."
 
-Affen sind oben an Deck … —« Da … sie jagen sich …
-in’s
-»x stand auf …
-»i7yr ist für uns nicht mehr vorhanden … Gehen
+Er stand auf …
 
-es
+»Gefahr ist für uns nicht mehr vorhanden … Gehen
+wir ...!"
 
 <h2>4. Kapitel.</h2>
 
