@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">befe9e0a-8f83-4d78-961c-381ff51b4db2</entry>
+<entry key="title">Ein seltsames Hochzeitsgeschenk</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">171</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Ein seltsames Hochzeitsgeschenk.
+
+… Seitdem ist meine Frau von niemandem mehr gesehen worden. Die hiesige Polizei hat sich die größte Mühe gegeben, den Vorfall aufzuklären — ohne jeden Erfolg!
+
+Ich stehe hier vor einem unfaßbaren Rätsel, das insofern noch eine besonders dunkle Seite hat, als meine Frau in ihrem Schlafzimmer in einer Truhe (wie ich bei einer Durchsuchung des Raumes feststellte) die Leiche eines neugeborenen Kindes in einem Zinkkasten versteckt hatte. — Von diesem Fund habe ich der Polizei keine Mitteilung gemacht.
+
+Es handelt sich um das Kind einer (mir unbekannten) Eingeborenen, um die kleine Leiche eines Knaben, die in dem Zinkkasten in Kampfer eingebettet lag.
+
+Granvellers zweites Ich.
+
+Ein gebrochener alter Mann saß uns gegenüber …
+
+Doktor Granveller war über Nacht um viele Jahre älter geworden — fast zum Greise …
+
+Mit zitternder Hand schob er immer wieder seine goldene Brille zurecht, während er traurig über die Geschehnisse der Nacht sprach …
+
+»Edward ist heute achtundzwanzig Jahre alt geworden — gerade heute … Für ihn ein trüber Geburtstag, denn er leidet sehr unter dem Vorgefallenen und unter der nunmehr noch verstärkten Angst vor dem … Doppelgänger … — Ja, heute ist sein Geburtstag … Heute ist der Tag, an dem in Kolombo, wo ich damals als Regierungsarzt meinen Wohnsitz hatte, mir meine Frau … Zwillinge schenkte …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (171) Ein seltsames Hochzeitsgeschenk.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h2</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
