@@ -381,7 +381,7 @@ zu benutzen und sie …«
 
 Meine bissige Bemerkung wurde jählings unterbrochen
 … Aus dem dichten Gestrüpp rechts vom Pfade brach eine
-Ziege hervor, ein schneeweiße Tier mit merkwürdigen
+Ziege hervor, ein schneeweißes Tier mit merkwürdigen
 Streifen auf dem Rücken — Streifen in rot, grün, ockergelb
 und schwarz. Es sah aus, als ob die Ziege eine grell
 gestreifte Rückendecke trüge.
@@ -684,7 +684,7 @@ Wir beide aber schlugen uns seitwärts in die Büsche
 und kehrten an Bord der Jacht des Radschas zurück …
 
 Unterwegs fragte ich Harald, worin denn nun eigentlich
-Frau Elizabeths Geheimnis beständen habe …
+Frau Elizabeths Geheimnis bestanden habe …
 
 Harald erwiderte ernst:
 
@@ -765,7 +765,7 @@ die Rodias vergessen …
 Da erreichte uns in Kokelai an der Nordostküste eine
 Depesche des Radscha Dabsal …
 
-»Bitte, sofort zurückkehren … Mein Glück steht auf
+> »Bitte, sofort zurückkehren … Mein Glück steht auf
 dem Spiel … Dabsal.«
 
 Das war alles …
@@ -1222,7 +1222,7 @@ Grauen, Entsetzen, Todesangst treiben mir Eisesschauer
 Letzte Kraft … letzte Kraftanstrengung, — — ich werfe
 mich zur Seite …
 
-Wälze mich hin und der …
+Wälze mich hin und her …
 
 Höre den Balken, auf dem ich liege, sich bewegen …
 
@@ -1242,7 +1242,7 @@ Ich brülle den Brahminen etwas zu …
 
 Man erstickt das Feuer …
 
-Man … findet oder auf einem der Scheiterhaufen
+Man … findet oben auf einem der Scheiterhaufen
 Harald — — neben einem Toten …
 
 Bewußtlos — vielleicht schon erstickt …
@@ -1292,7 +1292,7 @@ sollte sie dem Fürsten gehören …«
 »Entsetzlich! — — Die armen Eltern … Es ist ihr
 einziges Kind …«
 
-»Wir tun sie gewiß leid,« nickt Harst. »Und doch —
+»Mir tun sie gewiß leid,« nickt Harst. »Und doch —
 wie sollten wir Edward schonen können — — unmöglich!«
 
 Das Boot landet …

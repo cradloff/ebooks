@@ -148,7 +148,7 @@ als wir nun dem enteilenden Boote nachschauten, sagte
 Harald sinnend:
 
 »Dieser Kindesraub ist in der Tat eine Tragödie …!
-Wie seltsam, daß wir beide in demselben Hauses in Kolombo,
+Wie seltsam, daß wir beide in demselben Hause in Kolombo,
 wo Granvellers Kind verschwand, zuerst Genaueres
 über die Säuglingsmumie hörten, die nun Miß Jane zugeschickt
 worden ist und die vielleicht dieselbe ist, die damals
@@ -215,7 +215,7 @@ hier ansehen,« meint Harald. »Von außen … In der
 Barrellstreet wohnt er … bin neugierig, wie er sein Heim
 hergerichtet hat …«
 
-Das rechte klingt merkwürdig: hergerichtet!! —
+Das letzte klingt merkwürdig: hergerichtet!! —
 
 Wir schlendern über den Kai und müssen lange suchen,
 ehe wir die Barrellstreet finden …
@@ -666,7 +666,7 @@ grinste wohlgefällig …
 
 »Na, habe ich’s nicht fein gemacht, bester Harst?! Sie
 beide hätten noch Stunden gewartet, ehe Sie vielleicht festgestellt
-hätten, daß dieser Kerl da gar sein Kerl ist, sondern
+hätten, daß dieser Kerl da gar kein Kerl ist, sondern
 nur eine … Wachspuppe …!!«
 
 Harst sagte wütend:
@@ -983,7 +983,7 @@ aber nicht zu Hause, fügte er hinzu.
 Der alte Chinese nickte …
 
 »Selten da sein, der Schuster … Schlechte Kerl, der
-Schulter … mit keinem reden …«
+Schuster … mit keinem reden …«
 
 »Wohnt er schon lange dort?«
 
@@ -1380,7 +1380,7 @@ Bitter enttäuscht kehrte ich auf den Kutter zurück …
 
 Der Käpten kam mir aufgeregt entgegen …
 
-»Sir es hat sich etwas ganz Seltsames ereignet.«
+»Schraut, es hat sich etwas ganz Seltsames ereignet.«
 
 »So?«
 
@@ -1389,7 +1389,7 @@ tun haben?!
 
 <@pagebreak/>
 »Was denn?« fügte ich hinzu, da der brave Käpten
-Meine Gleichgültigkeit offenbar nicht recht begriff …
+meine Gleichgültigkeit offenbar nicht recht begriff …
 
 »Kommen Sie …!«
 
