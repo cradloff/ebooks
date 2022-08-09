@@ -24,7 +24,7 @@ Kalender vier Blätter zu viel abgerissen habe, so daß nun
 das Datum des Neunten zu sehen war … Und auf dieses
 Blatt mit der dicken, großen Zahl Neun hatte der Eindringling
 außerdem noch mit Bleistift das Wort »Gannawa«
-Hingekritzelt — kaum leserlich … Trotzdem glaubte ich in
+hingekritzelt — kaum leserlich … Trotzdem glaubte ich in
 der Handschrift die Haralds zu erkennen. —
 
 <@pagebreak/>
@@ -37,11 +37,11 @@ freudestrahlend zurief:
 Freund Käpten machte dazu ein sehr zweifelhaftes Gesicht
 …
 
-»Hm, hm,« brummte er, "— — Harst?! — So gern ich
+»Hm, hm,« brummte er, »— — Harst?! — So gern ich
 diese Ihre Hoffnung teilen möchte, lieber Schraut: aber
 das Gekritzel da sieht wie von einem Kinde aus! Und
 dann: weshalb sollte Harst sich nur auf diese Weise gemeldet
-haben?! weshalb hält er sich vor uns verborgen, wo er
+haben?! Weshalb hält er sich vor uns verborgen, wo er
 doch wissen muß, in welcher Angst und Sorge Sie um ihn
 sind?!«
 
@@ -121,7 +121,7 @@ bin sogar jetzt überzeugt, daß wahrscheinlich die Rodia hier
 dieses »Gannawa« in aller Eile niedergeschrieben hat …
 Nur — weshalb mag sie die vier Blätter vorher abgerissen
 und das »Gannawa« gerade auf das Blatt des
-Neunten gekritzelt haben?! — Darüber Sinne ich jetzt nach«
+Neunten gekritzelt haben?! — Darüber Sinne ich jetzt nach.«
 
 O’Kelling lehnte sich in die Ecke des Rohrsofas zurück.
 
@@ -133,7 +133,7 @@ in Brand zu setzen …
 Ich seufzte unwillkürlich …
 
 »Ja, wenn wir Harald hier bei uns hätten,« meinte
-Ich traurig … Und abermals überwältigten mich die Angst
+ich traurig … Und abermals überwältigten mich die Angst
 und die Verzweiflung um den seit drei Tagen Verschwundenen
 …
 
@@ -197,7 +197,7 @@ Magnesiumlichter …
 
 O’Kelling und ich sitzen vor der Kajüte unter dem
 Sonnensegel … Der Regen prasselt wie Hagel auf das
-straff gespannte Leinen … Das Deck des Kutters schwimmt,
+straff gespannte Leinen … Das Deck des Kutters schwimmt.
 
 In der Kajüte brennt kein Licht. Die Tür steht weit
 offen, damit die Kühle des Gewitterregens Eingang fände
@@ -393,7 +393,7 @@ Dann spricht er in die Muschel hinein:
 »Die Jacht soll mit allen Mitteln verfolgt werden …
 <@pagebreak/>
 Benachrichtigen Sie die Marinestation und bitten Sie, daß
-ein Torpedojäger sofort in See geht …
+ein Torpedojäger sofort in See geht …«
 
 Dann hängt er ab, wendet sich mir zu …
 
@@ -405,7 +405,7 @@ Torpedojäger holt sie sehr bald ein … Wenn Sie wollen,
 machen Sie die Verfolgung mit … Beeilen Sie sich dann
 aber …«
 
-Ich Überlege nicht lange …
+Ich überlege nicht lange …
 
 »Vielleicht nimmt der Torpedojäger den Kutter O’Kellings
 ins Schlepptau … Dann hätte ich unsere Koffer stets
@@ -586,7 +586,7 @@ Dunkelheit unmöglich zu verfolgen.
 
 Wir stellten fest, daß es sich um die Jacht jenes Lord
 Salargan handelt, den Edward Granveller seinen Freund
-nannte. Wer auf der Jacht sich befand, bleibt noch zu ermitteln,
+nannte. Wer auf der Jacht sich befand, bleibt noch zu ermitteln.
 
 Das Motorboot schleppt die Jacht in den Fluß. Unser
 Kutter macht dort am Ufer fest, wo die Besatzung an Land
@@ -719,7 +719,7 @@ gelernt sich zu beherrschen:
 »Verdammt — — die Rodia …!! Aufgeknüpft …!!«
 
 Ja — aufgeknüpft … An einer dünnen Leine, so
-daß die Füße im Grase dicht Über dem Boden schweben …
+daß die Füße im Grase dicht über dem Boden schweben …
 
 <@pagebreak/>
 Der Käpten drängt mich beiseite … Schneidet das
@@ -828,7 +828,7 @@ Und doch nicht etwa zur Übereilung!
 Denn ich war mir der Gefahr sehr wohl bewußt, die
 hier auf Schritt und Tritt lauern konnte! Daß Rellan mit
 Verfolgern rechnete, war ja selbstverständlich, und daß er
-seine Gegenmaßnahmen treffen würde, war ebenso selbstverständlich,
+seine Gegenmaßnahmen treffen würde, war ebenso selbstverständlich.
 
 Zwei Stunden waren wir nun bereits unterwegs …
 
@@ -866,7 +866,7 @@ Diese neue Sorge ließ mich das Tempo beschleunigen.
 
 Im halben Trab eilten wir weiter …
 
-dann spürte auch ich den Brandgeruch …
+Dann spürte auch ich den Brandgeruch …
 
 Dann noch eine scharfe Biegung, und wir sahen ein
 <@pagebreak/>
@@ -957,7 +957,7 @@ Wir hatten wiederholt uns begegnende Schiffe
 angefragt, ob sie nicht den Kutter gesichtet hätten. Die
 Antwort fiel regelmäßig sehr ungewiß aus, weil Frachtkutter
 von dem Äußeren der »Lady Hamilton« in diesen
-Gewässern nur zu häufig waren,
+Gewässern nur zu häufig waren.
 
 Abermals trafen wir einen kleineren Schoner, und
 <@pagebreak/>
@@ -984,14 +984,14 @@ voller Kraft ihrer beiden Motoren derselben Flußmündung
 zu, die etwa acht Meilen südlich von Pondicherry zu
 suchen ist …
 
-Gegen zehn Uhr Abends bogen wir in den breiten und
+Gegen zehn Uhr abends bogen wir in den breiten und
 von Fahrzeugen sehr belebten Mündungsarm ein, der den
 einzigen Verbindungsweg mit der im Innern gelegenen
-Industriestadt Garrutti darstellt, die im Übrigen durch
+Industriestadt Garrutti darstellt, die im übrigen durch
 sumpfige Dschungel von der Küste abgesperrt ist, selbst aber
 zu einem sehr gesunden Bergtale sich ausdehnt, wo Kupfer,
 Silber und Zinn durch modernen Bergbaubetrieb gewonnen
-wird,
+wird.
 
 Nach kurzer Beratung warfen wir daher an einsamer
 Uferstelle Anker und brachten das Beiboot der Jacht, das
@@ -1034,7 +1034,7 @@ Wir taten’s …
 Unser Boot trieb langsam an der Prau und dem Kutter
 vorüber …
 
-auf der Prau waren zwei Wachen zu sehen … Ich
+Auf der Prau waren zwei Wachen zu sehen … Ich
 rief sie an … Und Paratu führte dann mit seinen Landsleuten
 (es handelte sich um Malaien) die kurze Unterhaltung.
 Die Wachen teilten uns mit, daß die Leute von dem
@@ -1058,7 +1058,7 @@ Niemand hatte sich um sie gekümmert … —
 
 Inzwischen hatte Paratu im Ufergestrüpp das Boot
 des Kutters entdeckt und es mit dem Beiboot der Jacht
-längsseit geholt,
+längsseit geholt.
 
 Ich schickte den Malaien dann mit dem Beiboot zur
 »Osiris« zurück und ließ den sechs englischen Matrosen ausrichten,
@@ -1114,7 +1114,7 @@ ich ihn …
 Er runzelte die faltige Stirn … »Blamieren?! Wenn
 Sie auch nicht an übernatürliche Dinge glauben, Schraut:
 es gibt gerade hier in Indien genug Dinge, daß ein ehrlicher
-Christenmensch …
+Christenmensch …«
 
 Stoppte mitten im Satz ab.
 
@@ -1256,14 +1256,14 @@ Leer — nichts als armselige Möbel und zwei Hängematten
 
 Dann ging’s durch die Ladeluke in den Raum hinab …
 
-Hier war ein langer Tisch aufgestellt, Über dem drei
+Hier war ein langer Tisch aufgestellt, über dem drei
 Laternen brannten …
 
 An dem mit Weinflaschen reich garnierten Tisch saßen
 neun Inder …
 
 <@pagebreak/>
-sein — saßen nicht, … schliefen!!
+Nein — saßen nicht, … schliefen!!
 
 Hatten die Köpfe auf die Arme gelegt — lagen so in
 allen möglichen Stellungen …
@@ -1374,11 +1374,11 @@ länger bezähmen …
 »Harst, alter lieber Harst, jetzt schießen Sie mal los,«
 bat er. »Wir brennen ja vor … vor …«
 
-»… brennen Sie lieber nicht,« lachte Harald. «Zunächst
+»… brennen Sie lieber nicht,« lachte Harald. »Zunächst
 gibt es für uns noch Wichtigeres zu tun … — Habt
 ihr die Bande unten im Ladedeck gefesselt?«
 
-»und ob — — und ob!! Besoffen sind die Kerle — —
+»Und ob — — und ob!! Besoffen sind die Kerle — —
 unglaublich!«
 
 »Ein Irrtum, O’Kelling …!« Und Harald wurde
@@ -1401,13 +1401,13 @@ hier auf einen schwarzbärtigen gut gekleideten Inder …
 »Das ist der Phalu Dringar!« rief sie, und am liebsten
 wäre sie dem Mädchenräuber ins Gesicht geflogen und hätte
 ihn nach Weiberart mit den Fingernägeln ihre Rache fühlen
-lassen,
+lassen.
 
 Harald nickte nur … »Es ist Mr. Rellan, allerdings!
 Rellan alias Edward Granveller! Freilich Rellan in der
 neuen Rolle als Händler mit lebender Menschenware!«
 
-Er riß ihm den Turban, die Perücke und den Bart Herunter
+Er riß ihm den Turban, die Perücke und den Bart herunter
 …
 
 Ja — — es war Edward Granveller!
@@ -1501,7 +1501,7 @@ haben … Mit hat es viel Freude gemacht, eure Zurüstungen
 zur Eroberung der Prau zu beobachten … —
 Das genügt wohl …!«
 
-Er gähnte herzhaft, warf den Zigarettenstummel Über
+Er gähnte herzhaft, warf den Zigarettenstummel über
 Bord und fügte hinzu:
 
 »Jetzt lege ich mich schlafen … In Madras könnt ihr
@@ -1566,7 +1566,7 @@ und die acht Inder … waren tot!!
 <@pagebreak/>
 Auch mir ging dies stark an die Nerven …
 
-»ermordet?!« fragte ich …
+»Ermordet?!« fragte ich …
 
 »Weiß nicht, Herr Schraut … Sind noch gefesselt, die
 Leute … Aber tot … tot!!«
@@ -1588,7 +1588,7 @@ auf der Bastmatte, die den Fußboden bedeckte …
 Denn diese Verantwortung hier wollte ich doch nicht
 allein übernehmen …
 
-In fünf Minuten war Harald zur Stelle,
+In fünf Minuten war Harald zur Stelle.
 
 Er ließ die Toten nach oben schaffen. Dann betrat er
 die Kammer … Besichtigte die Wände, die Decke …
@@ -1689,7 +1689,7 @@ zeigte mit dem Daumen nach Harald hin …
 …«
 
 »Allerdings … Aber die Tatsache bleibt doch bestehen,
-daß Harst etwas Besonderes bezweckt — — was?! strengen
+daß Harst etwas Besonderes bezweckt — — was?! Strengen
 Sie auch mal Ihr Hirn an, Käpten!!«
 
 »Jetzt nachmittags fünf Uhr bei vierzig Grad im Schatten?!
@@ -1807,9 +1807,9 @@ Tropenzauber — — Tatsache!!«
 <@pagebreak/>
 Ich war schon wieder versöhnt …
 
-Harald schickte mich dann weg … «Geh’ wieder nach
+Harald schickte mich dann weg … »Geh’ wieder nach
 achtern, lieber Alter … Wir zwei fallen hier zu sehr auf …
-Du kannst Ja trotzdem die Prau und den Schoner im Auge
+Du kannst ja trotzdem die Prau und den Schoner im Auge
 behalten und auch O’Kelling einen Wink geben … Der
 Alte hat Seemannsaugen, die er ja täglich gehörig mit
 Whisky putzt …«
@@ -1845,12 +1845,12 @@ Und dann brach die Nacht an …
 
 Dann … schlich der verdächtige Schoner näher …
 
-»aha — — Achtung!!« rief O’Kelling …
+»Aha — — Achtung!!« rief O’Kelling …
 
 Der Schoner segelte tadellos, hatte außerdem einen
 Hilfsmotor …
 
-Harmlos Überholte er uns jetzt … Es war gerade die
+Harmlos überholte er uns jetzt … Es war gerade die
 Zeit zwischen Nachtanbruch und Sternenaufgang, also am
 dunkelsten …
 
@@ -1869,7 +1869,7 @@ Blitzschnell …
 
 Da kam auch schon Harald zu uns …
 
-Sagte gleichmütig: »Der Schöner hat Rellan an Bord!
+Sagte gleichmütig: »Der Schoner hat Rellan an Bord!
 — Käpten, signalisieren Sie der Jacht, daß wir Motorschaden,
 haben, daß die Jacht aber ruhig weiterfahren
 soll …«
@@ -1891,7 +1891,7 @@ Wir äugten scharf nach ihm aus, während unsere vier
 Malaien auf Haralds Geheiß am Bug drei lange Bambusstangen
 so als Gerüst befestigten, daß darüber ein altes,
 bereits grauschwarz verfärbtes Segel angebunden werden
-konnte, welches den Kutter wie ein Vorhang verdeckte,
+konnte, welches den Kutter wie ein Vorhang verdeckte.
 
 Inzwischen hatte der Schoner unweit der Küste gewendet
 und lief nun wieder südwärts, so daß wir mit der
@@ -2064,7 +2064,7 @@ Ein donnernder Ruf:
 Dem — — Phalu Dringar!! Dem Totenvogel …! —
 
 Weiß der Himmel: diese Szene machte auf mich einen
-besonderen Eindruck
+besonderen Eindruck.
 
 Ich fühlte geradezu, daß dieser Verbrecher bei seinen
 Leuten eine ungewöhnliche Verehrung genoß …
@@ -2194,12 +2194,12 @@ Ruhe — — Ruhe …!
 
 Und ich bezwang mich …
 
-aber eins schwor ich mir zu: Dieser Rellan sollte durch
+Aber eins schwor ich mir zu: Dieser Rellan sollte durch
 ein Kugel fallen!! Bei der ersten Gelegenheit!! —
 
 O Paratu, braver Bursche, törichter Bursche …!!
 
-alles hast du damals verdorben, hast dein Leben zwecklos
+Alles hast du damals verdorben, hast dein Leben zwecklos
 geopfert …!!
 
 Ja — — Paratu war’s, der dort urplötzlich auf der
@@ -2299,7 +2299,7 @@ aufgelebt. Als sie nun noch durch Harald unsere
 Namen hörte, rief sie leise:
 
 »Dann — dann fürchte ich nichts mehr, Herr Harst …
-verlangen Sie Von mir, was Sie wollen … ich bin nicht
+verlangen Sie von mir, was Sie wollen … ich bin nicht
 feige … Mein Vater ist Sir Randolf Luckward, früher
 Oberst in der Kolonialarmee, jetzt Plantagenbesitzer in der
 Nähe von Madras … Meine Mutter verlor ich frühzeitig,
@@ -2308,7 +2308,7 @@ Jungen erzogen. Edward Granveller und sein Freund
 Lord Salargan verkehrten sehr viel bei uns. Als ich dann
 vor vier Wochen einmal wie so oft allein durch die Felder
 ritt und dabei ein Waldstück passierte, wurde ich von vier
-fremden Indern überfallen, betäubt und weggeschleppt …
+fremden Indern überfallen, betäubt und weggeschleppt …«
 
 Daisy Luckward berichtete weiter, daß Granveller-Rellan
 unter anderem Namen weit oberhalb am Penner-Fluß
@@ -2321,7 +2321,7 @@ die zehn Mädchen in drei Tagesmärschen auf den Elefanten
 bis zur Küste geschafft worden.
 
 Daisys Schilderung hatte eine geraume Zeit in Anspruch
-Genommen, und kaum hatte sie ihre Erzählung beendet,
+genommen, und kaum hatte sie ihre Erzählung beendet,
 als es über uns an Deck sehr lebendig wurde. Offenbar
 hatte man die Durchsuchung der Halbinsel aufgegeben.
 Der Schoner verließ dann den See. Wir hörten den Motor
@@ -2405,27 +2405,27 @@ zwecklos geopfert hatte … Träumte von dem dicken, widerlichen
 Perser, der mir die Kaufsummen für die Mädchen
 gellend in die Ohren schrie …
 
-Und -- erwachte …
+Und — erwachte …
 
 Erwachte — fühlte eine schwere Hand auf meinem
 Munde …
 
-dann Harsts Stimme — wütend, aufgebracht:
+Dann Harsts Stimme — wütend, aufgebracht:
 
 »Zum Teufel, ehe man dich auch munter bekommt!! Und
 in deiner Kehle hast du ein ganzes Sägewerk!!«
 
-»Was ist denn los?!« flüsterte ich ...
+»Was ist denn los?!« flüsterte ich …
 
 »Soeben hat man die vier Mädchen an Deck geholt, damit
 sie frische Luft schnappen sollen … Du hättest uns beinahe
-verraten ..."
+verraten …«
 
 »Beinahe doch nur … — Wie spät ist’s?«
 
-»zehn Uhr vormittags …«
+»Zehn Uhr vormittags …«
 
-»Donnerwetter …! Das hätte ich nicht gedacht! —
+»Donnerwetter …! Das hätte ich nicht gedacht!«
 
 »Allerdings, — dein Schlaf ist beneidenswert …! —
 Ich habe inzwischen die Luke von den Nägeln befreit …
@@ -2439,7 +2439,7 @@ Er schob sich bis zur Bordwand …
 <@pagebreak/>
 Ich hinter ihm drein …
 
-dann lüftet er den Lukendeckel behutsam … Nur
+Dann lüftet er den Lukendeckel behutsam … Nur
 so, daß unten eine zwei Finger breite Spalte entstand …
 
 Ich schaute hinaus …
@@ -2511,20 +2511,20 @@ nur an Deck, damit sie sich dort erholen, trifft nicht zu!«
 
 Seine Taschenlampe blitzte auf …
 
-Der Lichtkegel traf mein Gesicht, Nun sah ich aber
+Der Lichtkegel traf mein Gesicht, nun sah ich aber
 auch Haralds Antlitz … Und das zeigte eine gewisse Unruhe
 …
 
 Er lauschte … nickte …
 
 »Ich gebe mich geschlagen,« meinte er … »Es stimmt
-... Affen sind oben an Deck … — Da … sie jagen sich …
-kreischen ..."
+… Affen sind oben an Deck … — Da … sie jagen sich …
+kreischen …«
 
 Er stand auf …
 
 »Gefahr ist für uns nicht mehr vorhanden … Gehen
-wir ...!"
+wir …!«
 
 <h2>4. Kapitel.</h2>
 
@@ -2532,9 +2532,9 @@ Wenn Harald auch erklärt hatte, daß er eine Gefahr für
 uns ausgeschlossen hielte, so unterließ er es trotzdem nicht,
 die üblichen Vorsichtsmaßregeln anzuwenden, nahm die entsicherte
 Clement in die Rechte und öffnete die Kammertür
-ganz langsam ...
+ganz langsam …
 
-von links her fiel durch den Niedergang der Vorschifftreppe
+Von links her fiel durch den Niedergang der Vorschifftreppe
 <@pagebreak/>
 ein breiter Streifen Sonnenlicht auf die Treppenstufen.
 In diesem Sonnenlicht zeichnete sich ganz scharf der
@@ -2549,7 +2549,7 @@ Dann schlich Harst auf die Treppe zu …
 Der Affenschatten verschwand blitzschnell, und oben an
 Deck erhob sich ein Höllenlärm …
 
-Als wir dann die Köpfe Über die Treppenluke hinausschoben,
+Als wir dann die Köpfe über die Treppenluke hinausschoben,
 war das Deck leer. Aber dafür sahen wir den
 mächtigen, langgestreckten Felsblock, der an der Westseite
 zwei verkrüppelte Mangobäume und einiges Buschwerk
@@ -2557,8 +2557,8 @@ trug, von mindestens hundert der langschwänzigen Gesellen
 besetzt, die sofort wieder ihr gellendes Gekreisch anstimmten,
 als sie nun uns beide Störenfriede gewahrten …
 
-Nich genug, daß sie uns mit diesem Konzert empfingen
-...!!
+Nicht genug, daß sie uns mit diesem Konzert empfingen
+…!!
 
 Nein — die freche Bande schien den Schoner bereits als
 Spielplatz und als ihr Eigentum betrachtet zu haben und
@@ -2567,9 +2567,9 @@ und unreifen Mangofrüchten, dem gegenüber wir
 wehrlos waren, da wir von unseren Pistolen keinen Gebrauch
 machen konnten und die Affenschar viel zu zahlreich
 war, um sich durch drohende Handbewegungen verscheuchen
-zu lassen,
+zu lassen.
 
-Es blieb uns also zunächst nichts anderes Übrig, als
+Es blieb uns also zunächst nichts anderes übrig, als
 vor dem Steinhagel schleunigst die Köpfe wieder verschwinden
 zu lassen …
 
@@ -2578,8 +2578,8 @@ zu lassen …
 Und fügte ernster hinzu: »Übrigens kommt es mir
 stark verdächtig vor, daß die Besatzung des Schoners die
 Vorderluke offengelassen hat … Das macht ganz den Eindruck,
-als ob vielleicht einige der Leute sehr bald zurück-
-kehren … Nehmen wir uns also doppelt in acht …!«
+als ob vielleicht einige der Leute sehr bald zurückkehren
+… Nehmen wir uns also doppelt in acht …!«
 
 Das Affenkonzert draußen verstummte. Die kleinen
 <@pagebreak/>
@@ -2608,7 +2608,7 @@ rauchte. Neben ihm lag sein kleiner Taschenspiegel, ein
 Hohlspiegel, den er nicht aus Eitelkeit stets bei sich trug.
 
 Ich ahnte sofort, daß er mit Hilfe dieses Spiegels, den
-er Über den Lukenrand hinausgehalten, die Umgebung gemustert
+er über den Lukenrand hinausgehalten, die Umgebung gemustert
 hatte.
 
 Während wir aßen und tranken, sagte Harald nur:
@@ -2637,9 +2637,9 @@ gewesen wären, hätten wir uns im ersten Eifer in voller
 Größe an Deck gezeigt. Durch das Bombardement wurden
 wir veranlaßt, selbst unsere Köpfe wieder in Sicherheit zu
 bringen, die vom Urwalde aus kaum bemerkt worden sein
-können, da die Reling bedeutend höher ist. seien wir also
+können, da die Reling bedeutend höher ist. Seien wir also
 den Affen dankbar, die uns jetzt auch warnen werden, falls
-jemand die Bambusbrücke Überschreitet …«
+jemand die Bambusbrücke überschreitet …«
 
 Ich hatte diesen Worten mit außerordentlich gemischten
 Gefühlen gelauscht …
@@ -2659,7 +2659,7 @@ Ich ließ die Hand mit dem Stück Büchsenfleisch, an dem
 ich gerade mit Mißbehagen einige überflüssige Maden festgestellt
 hatte, sinken und wiederholte erstaunt:
 
-».... Weg der Affen?! -- Sind denn die Affen nicht
+»… Weg der Affen?! — Sind denn die Affen nicht
 über die Brücke gekommen?!«
 
 »Nein …«
@@ -2684,14 +2684,14 @@ drei Meter …
 Ich zog den Spiegel wieder ein …
 
 <@pagebreak/>
-»Harald, die Affen sind futsch …"
+»Harald, die Affen sind futsch …«
 
-"Schon?"
+»Schon?«
 
 »Also zum Festland zurückgekehrt … Weißt du nun
 Bescheid?«
 
-»Nein …"
+»Nein …«
 
 »Mein Alter, dieser Felsen hier im Sumpf kann nur
 eine Erhebung des Felsbodens des nördlichen Teiles des
@@ -2716,8 +2716,7 @@ und den Ast in der richtigen Lage festgebunden.
 So brauchte ich denn nur das Spiegelbild im Auge zu behalten
 und konnte dabei gemächlich meine Zigarre rauchen.
 Harald wollte derweil den Schoner einmal gründlicher besichtigen
-und begab sich von der Kombüse aus in die Achter-
-räume.
+und begab sich von der Kombüse aus in die Achterräume.
 
 Ich war allein …
 
@@ -2731,7 +2730,7 @@ Auch die Brücke beschaute ich mir nun genauer … Sie
 war reichlich hundert Meter lang, und es mußte ungeheure
 Mühe gekostet haben, all diese Bambusstangen in den Sumpf
 <@pagebreak/>
-Hineinzurammen und dann noch den Oberbau zu vollenden.
+hineinzurammen und dann noch den Oberbau zu vollenden.
 
 Meine erste Zigarre war dann gerade aufgeraucht, als
 urplötzlich über dem Lukenrand der Kopf eines Mannes erschien
@@ -2750,14 +2749,14 @@ Jetzt kroch er zu mir herab, hob mir die Zigarre auf …
 Er triefte … grinste …
 
 »Tuwan Schraut, ich bin nicht tot …« sagte er harmlos
-...
+…
 
 »Das sehe ich, Paratu …«
 
 »Ich tat nur so, als ob ich getroffen war,« meinte er
 schlicht. »Ich wußte, daß sie mich erschießen würden …
 Da schwamm ich zum Heck des Schoners, stellte mich auf das
-Steuer und hielt nur den Kopf Über Wasser … Nachher
+Steuer und hielt nur den Kopf über Wasser … Nachher
 machte ich auch die Fahrt bis hierher auf dieselbe Weise
 mit …«
 
@@ -2791,7 +2790,7 @@ den Schoner verlassen könnten …
 Und als nun die ersten Abendschatten sich über das
 Sumpfgebiet herabsenkten, als von der Brücke kaum mehr
 etwas zu erkennen war, da … gingen wir den Weg der
-Affen ...
+Affen …
 
 Da krochen wir über die Reling auf den Felsen …
 
@@ -2810,9 +2809,9 @@ Hören mit einem Male Sprechen … Stimmen …
 
 Und erkannten oben auf der Brücke hinter Baumzweigen
 gegen den noch rosigen Abendhimmel acht Mann der
-Leibgarde Phalu Dringars: Den Hinmterhalt!!
+Leibgarde Phalu Dringars: Den Hinterhalt!!
 
-nun — mochten die Burschen sich hier nur von den
+Nun — mochten die Burschen sich hier nur von den
 Mücken peinigen lassen!
 
 Wir machten einen Bogen um diese ahnungslose Rotte
@@ -2850,7 +2849,7 @@ Da schwieg ich … und spähte nach den Gebäuden hinüber
 Der Nachtwind trug mir allerlei Geräusche zu … Dann
 nahm ich mein Fernglas und beobachtete die Gebäude …
 
-Paratu stieß mich leise an ... »Tuwan Harst kommt!«
+Paratu stieß mich leise an … »Tuwan Harst kommt!«
 
 Da sah auch ich ihn … In weitem Bogen strebte er zumeist
 kriechend unserem Versteck zu … stets Deckung suchend,
@@ -2862,15 +2861,15 @@ an Kerl Mays Indianerromantik … — Dann
 war Harald neben uns …
 
 Sagte nur: »Brechen wir sofort auf … Wir haben
-einen anstrengenden Marsch vor uns ...
+einen anstrengenden Marsch vor uns …«
 
 Und abermals schob er sich auf allen Vieren vorwärts.
-Ließ uns gar keine Zeit zum Fragen
+Ließ uns gar keine Zeit zum Fragen.
 
 Anstrengender Marsch?! Und — — die Mädchen?!
 Sollten wir die im Stiche lassen?!
 
-<h2>5. Kapitel</h2>
+<h2>5. Kapitel.</h2>
 
 Nach einer halben Stunde hatten wir das Ufergebiet
 des Penner-Flusses erreicht. Bisher war Harald stets zehn
@@ -2908,7 +2907,7 @@ Das war kurz, bündig und klar …
 So traten wir denn nachts zwei Uhr die recht schwierige
 Floßfahrt stromabwärts an. Unzählige Male rannten sich
 unsere Baumstämme fest, unzählige Male mußten wir ins
-Wasser springen, um das Floß wieder flott zu machen,
+Wasser springen, um das Floß wieder flott zu machen.
 
 Nach zwei Stunden hatten wir den unbequemen Teil
 dieser Fahrt hinter uns. Wir mußten uns jetzt etwa in
@@ -2981,13 +2980,13 @@ Harst kletterte schon lachend und triefend an Bord …
 
 Paratu folgte …
 
-O’Kelling brüllte: »Paratu — -- er ist’s! Boy, —
+O’Kelling brüllte: »Paratu — — er ist’s! Boy, —
 meine Arme! Ist das eine Freude!! Boy, du lebst!!«
 
 Und er drückte den Malaien an seine Brust, schüttelte
 uns dann die Hände … Sein Gesicht strahlte …
 
-»Kinder, Kinder, — der Tag fängt gut an ...!! Kinder,
+»Kinder, Kinder, — der Tag fängt gut an …!! Kinder,
 wo kommt ihr her …?!«
 
 »O’Kelling,« fragte Harst, »was sind dies hier für
@@ -3052,7 +3051,7 @@ Feuersbrunst …
 
 Harst und Paratu sind bereits oben …
 
-stehen starr … Winken dann … Winken …
+Stehen starr … Winken dann … Winken …
 
 Wir kraxeln empor …
 
@@ -3067,7 +3066,7 @@ Die Plantage — — in hellen Flammen …
 Taghell die Umgebung …
 
 Und um das abseits liegende Wohnhaus Gestalten,
-Übergossen vom rötlichen Feuerschein …
+übergossen vom rötlichen Feuerschein …
 
 Weiber … Mädchen …
 
@@ -3094,7 +3093,7 @@ eine leichte indische Decke: Daisy Luckward, Tochter des
 Obersten Luckward, Opfer Phalu Dringars wie die anderen
 …
 
-dann sind wir heran …
+Dann sind wir heran …
 
 Die Mädchen flüchten kreischend zu Daisy …
 
@@ -3120,15 +3119,15 @@ Phalu Dringar zechte mit den Seinen … Wir fanden die
 Waffen … Harmlose Geschöpfe wurden zu erbarmungslosen
 <@pagebreak/>
 Henkern … Betrunkene sanken halb tot unter die
-Tische … Es war ein leichtes Spiel, Herr Harst ..."
+Tische … Es war ein leichtes Spiel, Herr Harst …«
 
 Sie schauderte zusammen … Ihre Blicke waren leer.
 
 »Dort … in der Glut liegt alles, was Phalu Dringar
 gehörte … auch die Wachen … Niedergeknallt habe ich sie,
-als der Feuerschein sie einzeln herbeilockte …
+als der Feuerschein sie einzeln herbeilockte …«
 
-uns Männern rann es kalt über den Rücken …
+Uns Männern rann es kalt über den Rücken …
 
 Wir sehen die blutbefleckten Gewänder der Mädchen …
 Der Mordrausch ist verflogen … Aber die Zeichen der
