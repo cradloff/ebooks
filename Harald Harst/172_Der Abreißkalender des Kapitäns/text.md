@@ -3,8 +3,6 @@
 <#import "*/harst.ftl" as harst>
 <@harst.introshort3/>
 
-******* XXXXXXXX
-
 <h2>1. Kapitel.</h2>
 
 Es war ein Reklamekalender der Firma Patterson,
@@ -2534,40 +2532,41 @@ Wenn Harald auch erklärt hatte, daß er eine Gefahr für
 uns ausgeschlossen hielte, so unterließ er es trotzdem nicht,
 die üblichen Vorsichtsmaßregeln anzuwenden, nahm die entsicherte
 Clement in die Rechte und öffnete die Kammertür
-ganz langsam
+ganz langsam ...
 
 von links her fiel durch den Niedergang der Vorschifftreppe
 <@pagebreak/>
 ein breiter Streifen Sonnenlicht auf die Treppenstufen.
 In diesem Sonnenlicht zeichnete sich ganz scharf der
-Schatten eines Messer ab, der oben am Rande der Treppenstufe
+Schatten eines Affen ab, der oben am Rande der Treppenstufe
 sitzen mußte und … an einem Tauende kaute, — was
 ihm aber nicht sehr zu schmecken schien …
 
 Wir standen nun im Gang und lauschten nochmals …
 
-Dann schlich Harst aus die Treppe zu …
+Dann schlich Harst auf die Treppe zu …
 
-Der Messerscharfen verschwand blitzschnell, und oben zu
+Der Affenschatten verschwand blitzschnell, und oben an
 Deck erhob sich ein Höllenlärm …
 
-Als wir dann die Köpfe Über die Treppenluke hinausschicken,
+Als wir dann die Köpfe Über die Treppenluke hinausschoben,
 war das Deck leer. Aber dafür sahen wir den
-mächtigen, langgestreckten Felsblock, der an der Weltferne
+mächtigen, langgestreckten Felsblock, der an der Westseite
 zwei verkrüppelte Mangobäume und einiges Buschwerk
 trug, von mindestens hundert der langschwänzigen Gesellen
 besetzt, die sofort wieder ihr gellendes Gekreisch anstimmten,
 als sie nun uns beide Störenfriede gewahrten …
 
-Nr genug, daß sie uns mit diesem Konzert empfing
+Nich genug, daß sie uns mit diesem Konzert empfingen
+...!!
 
 Nein — die freche Bande schien den Schoner bereits als
 Spielplatz und als ihr Eigentum betrachtet zu haben und
 begann jetzt mit einem Bombardement von Steinen, Aststücken
-und Ameisen Mangofrüchten, dem gegenüber wir
+und unreifen Mangofrüchten, dem gegenüber wir
 wehrlos waren, da wir von unseren Pistolen keinen Gebrauch
 machen konnten und die Affenschar viel zu zahlreich
-war, ich sich durch drohende Handbewegungen verscheuchen
+war, um sich durch drohende Handbewegungen verscheuchen
 zu lassen,
 
 Es blieb uns also zunächst nichts anderes Übrig, als
@@ -2579,21 +2578,18 @@ zu lassen …
 Und fügte ernster hinzu: »Übrigens kommt es mir
 stark verdächtig vor, daß die Besatzung des Schoners die
 Vorderluke offengelassen hat … Das macht ganz den Eindruck,
-als ob vielleicht einige der Leute sehr bald zurück
-kehren …-. Nehmen wir uns also doppelt in acht …!«
+als ob vielleicht einige der Leute sehr bald zurück-
+kehren … Nehmen wir uns also doppelt in acht …!«
 
-Das Aslkbsenkonzert draußen vorspivimte. Die fkleive’t
-
-gen …
-
+Das Affenkonzert draußen verstummte. Die kleinen
 <@pagebreak/>
 Herrschaften schienen zufrieden zu sein, daß wir uns nicht
 mehr zeigten.
 
 Harsts Bemerkung, daß wir mit der Rückkehr eines
-Teiles der Besatzung rechnen müßten, war nicht! gerade dazu
-angetan, meine Stimmung irgendwie zu verbessern. sah
-hatte Hunger … die Zunge klebte mir am (Gaumen …
+Teiles der Besatzung rechnen müßten, war nicht gerade dazu
+angetan, meine Stimmung irgendwie zu verbessern. Ich
+hatte Hunger … die Zunge klebte mir am Gaumen …
 
 Harald ahnte wohl, wonach ich mich sehnte … Meinte
 nun:
@@ -2604,125 +2600,128 @@ umsehen …«
 
 Der Wink genügte …
 
-Und — ich sann die Kombüse, fand in einem Nebenraum
+Und — ich fand die Kombüse, fand in einem Nebenraum
 den Trinkwassertank und kehrte nach wenigen Minuten
-reich beladen zu Harald zurück, der sich aus die Treppenstufen
+reich beladen zu Harald zurück, der sich auf die Treppenstufen
 gesetzt hatte und in aller Gemütsruhe eine Mirakulum
 rauchte. Neben ihm lag sein kleiner Taschenspiegel, ein
 Hohlspiegel, den er nicht aus Eitelkeit stets bei sich trug.
 
-Ich ahnte sofort. daß er mit Hilfe dieses Spiegels, den
-er Über den Lukenrand hinausschaffen, die Umgebung gar-Mustert
+Ich ahnte sofort, daß er mit Hilfe dieses Spiegels, den
+er Über den Lukenrand hinausgehalten, die Umgebung gemustert
 hatte.
 
 Während wir aßen und tranken, sagte Harald nur:
-»ein interessanter Felsen, mein Alter … Hinter den Bäumen
+»Ein interessanter Felsen, mein Alter … Hinter den Bäumen
 führt eine Brücke aus Bambus über den Sumpf nach
-dem Urwald zu … Diese Stück« beweist, das die Plantage
-Phalu Dringars jenseits des Urzoaldes zu suchen ist … —
-Was mir nicht gefüllt, ist diese offene Luke …«
+dem Urwald zu … Diese Brücke beweist, daß die Plantage
+Phalu Dringars jenseits des Urwaldes zu suchen ist … —
+Was mir nicht gefällt, ist diese offene Luke …«
 
 »Der etwaigen Rückkehr der Schufte wegen,« warf ich
 kauend ein …
 
-»Nicht ganz.« meinte er … »Die Schufte werden viel
-[Sicht nicht kommen, aber … uns erwarten …«
+»Nicht ganz,« meinte er … »Die Schufte werden vielleicht
+nicht kommen, aber … uns erwarten …«
 
 »Erwarten?!«
 
 »Ja … Vielleicht hat Rellan doch noch immer den
 Verdacht, wir könnten hier irgendwo im Kutter stecken …
-Vielleicht weiß er sogar, wo wir verborgen waren … stellen
+Vielleicht weiß er sogar, wo wir verborgen waren … Vielleicht
 will er uns ohne Blutvergießen fangen … Und deshalb
 <@pagebreak/>
-ließ er den Kutter räumen, sich die Luke offen und
-legte uns einen Hinterhalt … — Wenn die Messer nicht
-gewesen wären, hätten wir uns im ersten Tiger in voller
-Größe an Deck gezeigt. Durch das Bombardemen! wurden
-wir veranlaßt, selbst unsere Köpfe wieder in Starrheit zu
-bringen, die vom Urwalde aus kaum bemerkt 1. ’ Fein
-können, da die Reling bedeutend höher ist. seien … finden
-Messer dankbar, die uns jetzt auch warnen werden, falls
+ließ er den Kutter räumen, ließ die Luke offen und
+legte uns einen Hinterhalt … — Wenn die Affen nicht
+gewesen wären, hätten wir uns im ersten Eifer in voller
+Größe an Deck gezeigt. Durch das Bombardement wurden
+wir veranlaßt, selbst unsere Köpfe wieder in Sicherheit zu
+bringen, die vom Urwalde aus kaum bemerkt worden sein
+können, da die Reling bedeutend höher ist. seien wir also
+den Affen dankbar, die uns jetzt auch warnen werden, falls
 jemand die Bambusbrücke Überschreitet …«
 
-Ich hatte diesen Worten mit außerordentlich gen:… her
+Ich hatte diesen Worten mit außerordentlich gemischten
 Gefühlen gelauscht …
 
 Ein Hinterhalt!!
 
 Zum — Harald hatte nicht so ganz unrecht …! Die
-offene Luke blieb eine Panama!
+offene Luke blieb eine Warnung!
 
 »Und wie gedenkst du diesen Hinterhalt zu vermeiden?«
 fragte ich …
 
-»Indem ich die Dunkelheit abwarte und dann den wies
-der Messer wähle.«
+»Indem ich die Dunkelheit abwarte und dann den Weg
+der Affen wähle.«
 
 Ich ließ die Hand mit dem Stück Büchsenfleisch, an dem
-ich gerade mit Mißbehagen einige überflüssige machen soest-nestellt
+ich gerade mit Mißbehagen einige überflüssige Maden festgestellt
 hatte, sinken und wiederholte erstaunt:
 
-»- -. Weg der Messer?! -. Sind denn die Messer nicht
+».... Weg der Affen?! -- Sind denn die Affen nicht
 über die Brücke gekommen?!«
 
 »Nein …«
-»Woher weißt du das …?!«
-»Nimm den Spiegel … Betrachte das Wurzelwerk
 
+»Woher weißt du das …?!«
+
+»Nimm den Spiegel … Betrachte das Wurzelwerk
 des einen Mangobaumes, das über den Rand des Felsens
 hinab bis ins Wasser reicht …«
 
-»Ich nahm den Spiegel …
+Ich nahm den Spiegel …
 
-Tch4 sah, daß … die Messer verschwunden waren …
+Ich sah, daß … die Affen verschwunden waren …
 
 Sah, daß gerade noch ein Dutzend Nachzügler hinter
-dem Vorhang des verfilzten Wurzelgeästes schlüpfte …
+den Vorhang des verfilzten Wurzelgeästes schlüpfte …
 
 Der Felsen war an jener Stelle vielleicht fünf Meter
 hoch, und der Wurzelvorhang hatte eine Breite von gut
 drei Meter …
 
-Ich 390g den Spiegel wieder ein …
+Ich zog den Spiegel wieder ein …
 
 <@pagebreak/>
-»gar, die Affen sind futsch …
+»Harald, die Affen sind futsch …"
 
-»all 0 zum Festland zurügekehrt … Weißt du nun
+"Schon?"
+
+»Also zum Festland zurückgekehrt … Weißt du nun
 Bescheid?«
 
-»Nein …
+»Nein …"
 
-»Mein leider, dieser Felsen hier im Sumpf kann nur
-eine »Erhebung des Felsbodens des nördlichen Teiles des
-Sumpfes sein … As heißt: das setzte Gestein sei sich
+»Mein Alter, dieser Felsen hier im Sumpf kann nur
+eine Erhebung des Felsbodens des nördlichen Teiles des
+Sumpfes sein … Das heißt: das feste Gestein setzt sich
 unter Wasser fort, und in diesem Gestein muß es eben eine
-Höhle geben, die den Messer gut bekannt ist und die sich bis
-zum Urwald solltest … — Du kennst ja solch ein Assen-völlhen
+Höhle geben, die den Affen gut bekannt ist und die sich bis
+zum Urwald erstreckt … — Du kennst ja solch ein Affenvölkchen
 … Der Schoner ist ihnen schon wieder langweilig
-geworden »… Sie kehren daher in ihr eigentliches Reich
+geworden … Sie kehren daher in ihr eigentliches Reich
 zurück. Und sobald es dunkel ist, folgen wir ihnen … Aber
-—» aufpassen müssen wir jetzt. Einer von uns muß dauernd
+— aufpassen müssen wir jetzt. Einer von uns muß dauernd
 die Brücke mit dem Spiegel beobachten … Ich werde den
 Anfang machen … Räume du alle Spuren unserer Mahlzeit
 wieder weg …«
 
 So geschah’s …
 
-Um leicht Uhr nahm ich Haralds Platz oben auf der
+Um sechs Uhr nahm ich Haralds Platz oben auf der
 Treppe ein. Er hatte den Spiegel in einen aufgespaltenen
-Art, den uns die Affen freundlichst zugeworfen hatten, eingeklemmt
+Ast, den uns die Affen freundlichst zugeworfen hatten, eingeklemmt
 und den Ast in der richtigen Lage festgebunden.
 So brauchte ich denn nur das Spiegelbild im Auge zu behalten
 und konnte dabei gemächlich meine Zigarre rauchen.
-Harald wollte derweil den Schoner einmal gründlicher bei
-1:31 Und begab sich von der Kombüse aus in die achtete
+Harald wollte derweil den Schoner einmal gründlicher besichtigen
+und begab sich von der Kombüse aus in die Achter-
 räume.
 
 Ich war allein …
 
-Der Affenfellen interessierte mich.
+Der Affenfelsen interessierte mich.
 
 Eigentlich war’s ja eine kleine Insel, deren Ostseite
 vollständig kahl, die Westseite dagegen, wie schon erwähnt,
@@ -2730,32 +2729,33 @@ mit Bäumen und Büschen bestanden war …
 
 Auch die Brücke beschaute ich mir nun genauer … Sie
 war reichlich hundert Meter lang, und es mußte ungeheure
-Bilde gekostet haben, all diese Bambusstangen in den Sumpf
+Mühe gekostet haben, all diese Bambusstangen in den Sumpf
 <@pagebreak/>
 Hineinzurammen und dann noch den Oberbau zu vollenden.
 
-Meine erste Zigarre war dann gerade aufgerauht, als
-
-Bogen über dem Lukenrand der Kopf eines Wannsee erwies
+Meine erste Zigarre war dann gerade aufgeraucht, als
+urplötzlich über dem Lukenrand der Kopf eines Mannes erschien
 … —
 
-Vor Schreck enthielt mir die Zigarre …
+Vor Schreck entfiel mir die Zigarre …
 
 Doppelter Schreck, denn … der Mann grinste mich vergnügt
-an, obwohl doch eigentlich Tote sich ernsthaften benehmen
+an, obwohl doch eigentlich Tote sich ernsthafter benehmen
 sollen …
 
-Der Mann war unser Paratu, der Kabarett
+Der Mann war unser Paratu, der Malaie!!
 
 Jetzt kroch er zu mir herab, hob mir die Zigarre auf …
-Er spielte … grinste …
 
-»Tuwan Schraut, ich bin nicht tot …« sagte er Garn
+Er triefte … grinste …
 
-» Das sehe ich, Paratu …«
+»Tuwan Schraut, ich bin nicht tot …« sagte er harmlos
+...
+
+»Das sehe ich, Paratu …«
 
 »Ich tat nur so, als ob ich getroffen war,« meinte er
-schlich. »Ich wußte, daß sie mich erschießen würden …
+schlicht. »Ich wußte, daß sie mich erschießen würden …
 Da schwamm ich zum Heck des Schoners, stellte mich auf das
 Steuer und hielt nur den Kopf Über Wasser … Nachher
 machte ich auch die Fahrt bis hierher auf dieselbe Weise
@@ -2766,14 +2766,14 @@ Ich drückte ihm die Hand …
 »Paratu, du bist ein ganzer Kerl!!«
 
 »Tuwan, ich habe Hunger …« erwiderte er ebenso
-ich Licht.
+schlicht.
 
 Ich schickte ihn in die Kombüse …
 
 Dann kam auch schon Harald zurück …
 
-Paratu wurde aunsgefragt, konnte aber nicht Neues
-angeben. Er hatte sich ja dort am He stets unter Wasser
+Paratu wurde ausgefragt, konnte aber nicht Neues
+angeben. Er hatte sich ja dort am Heck stets unter Wasser
 halten müssen.
 
 Man denke: Die ganzen Stunden hatte er sich dort festgeklammert,
@@ -2781,54 +2781,55 @@ noch dazu im Wasserwirbel der Schraube des
 Schoners!! Eine Leistung, die nur ein so eiserner Körper
 wie der unseres jungen braunen Freundes vollbringen
 konnte!! Und er selbst machte davon auch nicht das geringste
-Ausheben!
+Aufheben!
 
 So waren wir denn nun wieder unser drei … Waren
 <@pagebreak/>
-vorher Ungeduld, daß endlich die Dunkelheit käme, damit wir
+voller Ungeduld, daß endlich die Dunkelheit käme, damit wir
 den Schoner verlassen könnten …
 
-Und als nun die ersten Abendschatten sie über das
-Sumpfgebiet herabsenkten, als von der Brücke kaum Anrede
-As zu erkennen war, da … gingen wir den Weg der
+Und als nun die ersten Abendschatten sich über das
+Sumpfgebiet herabsenkten, als von der Brücke kaum mehr
+etwas zu erkennen war, da … gingen wir den Weg der
+Affen ...
 
-en
+Da krochen wir über die Reling auf den Felsen …
 
-Da »frohen wir über die Reling auf den Felsen …
+Da schlüpfte Harst als erster in das enge Loch hinter
+dem Vorhang des Wurzelgeästes hinein …
 
-Da schlüpfte Harsts als erster in das enge Loch hinter
-gelbem Vorhang des Wurzelgeästes hinein …
-
-xichitegel flammten auf … Ein Felsengang zog sie
-schräg in die Tiere hinab … Erweiterte sich zur Höhle …
-Aus dem feuchten Boden überall Affenspuren … Aber nicht
+Lichtkegel flammten auf … Ein Felsengang zog sich
+schräg in die Tiefe hinab … Erweiterte sich zur Höhle …
+Auf dem feuchten Boden überall Affenspuren … Aber nicht
 eine einzige menschliche Fährte … Nicht eine einzige …
 
-& um sich brannten später hatten wir auch den in
-einem Dickicht des Urwaldes ’liegenden’ Ausgang erreicht …
-Schlichen der Brücke zu, die noch Westen hin zu suchen war …
-Hören mit einem Male Sprechen … Stimmen»…
+Kaum vier Minuten später hatten wir auch den in
+einem Dickicht des Urwaldes liegenden Ausgang erreicht …
+Schlichen der Brücke zu, die nach Westen hin zu suchen war …
+Hören mit einem Male Sprechen … Stimmen …
 
-Und erkannten oben aus der Brücke hinter Baumzweigen
+Und erkannten oben auf der Brücke hinter Baumzweigen
 gegen den noch rosigen Abendhimmel acht Mann der
 Leibgarde Phalu Dringars: Den Hinmterhalt!!
 
 nun — mochten die Burschen sich hier nur von den
-Mut den reinigen lagen!
+Mücken peinigen lassen!
 
-»ir machten einen Bogen um diese ahnungslose Rotte
-2: ah erschien einen bequemen Pfad, der von der Brücke
+Wir machten einen Bogen um diese ahnungslose Rotte
+und erreichten einen bequemen Pfad, der von der Brücke
+abzweigte, bis Urwald lief, und eilten nordwärts …
 
-Wo bis Urwald sieh, und eilten nordwärts …
-Sir halbe Stunde später wurde der Wald lichter …
-Lbi »ii tagsüber auf … Und dann ein breites Gebirgstal,
-
+Eine halbe Stunde später wurde der Wald lichter …
+Felsen tauchte auf … Und dann ein breites Gebirgstal,
 — vor uns Lichter, erleuchtete Fenster … Gebäude …
-Die Schattige Phalu Dringars … «.] —
-Harst ließ Paratu und inc4y in einem Gebüsch zurück …
+
+Die Plantage Phalu Dringars …! —
+
+Harst ließ Paratu und mich in einem Gebüsch zurück …
 Er wollte zunächst allein sich an die Gebäude heranpirschen.
+
 Gewiß, die Plantage hatten wir nun gefunden. Wie
-Harst jedoch die achtzehn Märchen zu befreien gebohrte, war
+Harst jedoch die achtzehn Märchen zu befreien gedachte, war
 mir reichlich rätselhaft … Denn wir drei gegen gut dreißig
 tadellos bewaffnete Gegner, die doch fraglos überaus wachsam
 <@pagebreak/>
@@ -2836,50 +2837,48 @@ sein würden, — das war eine zu ungleiche Partie! Dabei
 mußten wir entschieden den Kürzeren ziehen!
 
 Flüsternd äußerte ich diese Bedenken gegenüber Paratu.
-Nun — beiden kam ich damit schlecht an … Der war so
-stark von Haralds Üüberlegenem Geiste überzeugt, daß er nur
+Nun — bei dem kam ich damit schlecht an … Der war so
+stark von Haralds überlegenem Geiste überzeugt, daß er nur
 erwiderte:
 
 »Tuwan Schraut, — eine kluge List von Tuwan Harst,
-und die dreißig sind blind un« taub!«
-ab Da schwieg ich … und [paßte nach den Gebäuden hin
+und die dreißig sind blind und taub!«
 
-er …
+Da schwieg ich … und spähte nach den Gebäuden hinüber
+…
 
 Der Nachtwind trug mir allerlei Geräusche zu … Dann
 nahm ich mein Fernglas und beobachtete die Gebäude …
 
-Paratu stieß mich leise an, »Tuwan Harst kommt!«
+Paratu stieß mich leise an ... »Tuwan Harst kommt!«
 
-Ton sah auch ich ihn … In weitem Wochen strebte er zumeist
+Da sah auch ich ihn … In weitem Bogen strebte er zumeist
 kriechend unserem Versteck zu … stets Deckung suchend,
 stets darauf bedacht, tiefere Stellen des Geländes kriechend
 zu passieren …
 
 Und wieder kam mir da die liebe sorgenlose Kindheitserinnerung
-an Kerl Maus Indianerromantik … — Dann
+an Kerl Mays Indianerromantik … — Dann
 war Harald neben uns …
 
-Sagte nur! »Brechen wir sofort auf … Wir haben
-einen ausliegenden Marsch vor uns .,
+Sagte nur: »Brechen wir sofort auf … Wir haben
+einen anstrengenden Marsch vor uns ...
 
-Und abermals ’chob er sich aus allen Vieren vorwärts.
+Und abermals schob er sich auf allen Vieren vorwärts.
 Ließ uns gar keine Zeit zum Fragen
 
-Anstrengender Morsch?! Und — — die Mädchens!
+Anstrengender Marsch?! Und — — die Mädchen?!
 Sollten wir die im Stiche lassen?!
 
-GZ ch—ch
-
-53\. Kapitel
+<h2>5. Kapitel</h2>
 
 Nach einer halben Stunde hatten wir das Ufergebiet
-des Penner-Flusses erreicht. Biester war Harald stets zehn
+des Penner-Flusses erreicht. Bisher war Harald stets zehn
 bis zwanzig Schritt voraus gewesen und hatte offenbar nur
-die eine Sorge gehabt, daß wir nicht gesellen würden.
+die eine Sorge gehabt, daß wir nicht gesehen würden.
 
 Der Oberlauf des Penner war hier nicht mehr schiffbar.
-Der Fluß glich einem Bergstrom. Das von oben
+Der Fluß glich einem Bergstrom. Das von Felsen
 <@pagebreak/>
 und Urwald eingerahmte Bett zeigte überall Steinblöcke,
 kleine Wasserfälle und schäumende Strudel. Landschaftlich
@@ -2887,46 +2886,47 @@ bot er ein wundervolles Bild dar.
 
 Endlich nun bequemte sich Freund Harst dazu, Paratu
 und mir zu erklären, weshalb wir die Umgebung der Plantage
-so im Cilmarschh verlassen hatten. Während wir auf
+so im Eilmarsch verlassen hatten. Während wir auf
 sein Geheiß drei angetriebene Baumstämme mit Lianen zu
-einem floß vereinigten, sagte er in seiner knappen Art:
+einem Floß vereinigten, sagte er in seiner knappen Art:
 
 »Rellan, der Perser und der riesige Somali saßen auf
-der Veranda des Wohnhauses … konnte sie belauschen.
-Sie sind nun überzeugt, daß wir beide doch nicht im.
+der Veranda des Wohnhauses … Ich konnte sie belauschen.
+Sie sind nun überzeugt, daß wir beide doch nicht im
 Schoner verborgen waren und daß ihre Sicherheit daher
 nicht bedroht ist. Sie wollen vorläufig auf der Plantage
-bleiben, bis wir die Suche nach ihnen ausgegeben haben.
+bleiben, bis wir die Suche nach ihnen aufgegeben haben.
 Sie werden rings um die Plantage in weitem Umkreis
-Posten ausstellen und den Schoner in dem Sumpf versenken,
-die Bambus€brüc zerstören und so alles vernichten, was
+Posten aufstellen und den Schoner in dem Sumpf versenken,
+die Bambusbrücke zerstören und so alles vernichten, was
 sie verraten könnte. Den Mädchen droht vorläufig keine Gefahr.
 Wir haben also genügend Zeit, den Hauptschlag gegen
-die Bande voraus ersten …«
+die Bande vorzubereiten …«
 
 Das war kurz, bündig und klar …
 
 So traten wir denn nachts zwei Uhr die recht schwierige
 Floßfahrt stromabwärts an. Unzählige Male rannten sich
-unsere Baumstämme fest, unzählige Male mußten wir in
-
+unsere Baumstämme fest, unzählige Male mußten wir ins
 Wasser springen, um das Floß wieder flott zu machen,
-wach zwei Stunden hatten wir den unbequemen Teil
-sicher Fahrt hinter uns. Wir mußten uns jetzt etwa in
+
+Nach zwei Stunden hatten wir den unbequemen Teil
+dieser Fahrt hinter uns. Wir mußten uns jetzt etwa in
 einer Höhe mit jenem Sumpfgebiet befinden, in dem der
-Affenfellen lag, denn der Fluß hatte bisher so viele Windungen
+Affenfelsen lag, denn der Fluß hatte bisher so viele Windungen
 und Krümmungen gehabt, daß wir in der Luftlinie
 gemessen kaum anderthalb Meilen zurückgelegt haben
 konnten.
+
 Als erstes Zeichen der Zivilisation begrüßte uns im
 Morgengrauen auf weiter Lichtung am linken Ufer eine
-Probe Rlatntage, Mine geräumige Landungsbrücke und vier
-Ort vertäute Frachtsampans, neben denen noch ein größerer
+große Plantage, eine geräumige Landungsbrücke und vier
+dort vertäute Frachtsampans, neben denen noch ein größerer
 <@pagebreak/>
-Kutter lag. — Um nicht bemerkt zu werden, verbargen (wir
+Kutter lag. — Um nicht bemerkt zu werden, verbargen wir
 uns in den Baumkronen unseres Floßes und trieben so
-langsam vorüber. Es war noch ziemlich dunkel, und mir so
-konnte e8—gescheben, daß selbst Paratu den drüben vertäuen
+langsam vorüber. Es war noch ziemlich dunkel, und nur so
+konnte es geschehen, daß selbst Paratu den drüben vertäuen
 Kutter nicht erkannte …
 
 Dieser Kutter verließ jetzt plötzlich seinen Liegeplatz und
@@ -2934,14 +2934,14 @@ schoß mit knatternden Motor in den Strom hinaus …
 
 Gerade da begannen unsere drei Baumstämme sich um
 sich selbst zu drehen, und die Wurzelenden verankerten sich
-bheimtücdischerweise im Röhricht des rechten Ufers, so daß
+heimtückischerweise im Röhricht des rechten Ufers, so daß
 das andere Ende herumschwenkte und auch die Kronen in
-die hohen Poststempel gedrückt wurden …
+die hohen Rohrstengel gedrückt wurden …
 
 Wir lagen fest …
 
-Weber dem Flusse schwebten reichte Morgennebel, in
-Herren der Kutter jetzt untergetaucht war … Das Motorengeräusch
+Über dem Flusse schwebten leichte Morgennebel, in
+denen der Kutter jetzt untergetaucht war … Das Motorengeräusch
 verstummte …
 
 Harald und Paratu stiegen ins Wasser, um unser Floß
@@ -2951,66 +2951,66 @@ gegen unsere Baumstämme …
 
 Und dann eine liebe, vertraute, tiefe Whiskystimme:
 
-»Wenn ihr verfluchten Schufte nicht sofort an Bord exr-
-[Per soll ihr bald merken, wie eine Revolverkugel
-schwebt!!«
+»Wenn ihr verfluchten Schufte nicht sofort an Bord erscheint,
+sollt ihr bald merken, wie eine Revolverkugel
+schmeckt!!«
 
-Altan O’Kelling, der Käpten …!!
+Allan O’Kelling, der Käpten …!!
 
-Wahrhaftig Altan O’Kelling!! Und an Deck der »Lady
+Wahrhaftig Allan O’Kelling!! Und an Deck der »Lady
 Hamilton« einige zwölf Leute mit Gewehren, mitten unter
 ihnen der kleine o-beinige Irländer …
 
 Gewehre, die uns bedrohten, die jeden Augenblick losgehen
 konnten …
 
-»Hallo!« brüllte ich … »Hahn in Katz’, Käpten! Gut
+»Hallo!« brüllte ich … »Hahn in Ruh’<@refnote 1/>, Käpten! Gut
 Freund hier!!«
 
 Und der Käpten:
 
 »Beim heiligen Patrick, das ist doch Schrauts Stimme!
-So ein vervammtes8 Pech!! Hatte ich da schon Schrift, daß
-ein vor in den Mädchenräubern sich nicht dieser Wasser
+So ein verdammtes Pech!! Hatte ich da schon gehofft, daß
+ein paar von den Mädchenräubern sich nicht dieser Wasserkutsche
 <@pagebreak/>
-Kutsche flußabwärts verkrümeln wollten!! Hatte mit dem
-
-Fernglas auf dem Floß von weiten! so’n paar Gentleman
-
+flußabwärts verkrümeln wollten!! Hatte mit dem
+Fernglas auf dem Floß von weitem so’n paar Gentleman
 bemerkt! Und nun seid ihr’s!!«
+
 Harst kletterte schon lachend und triefend an Bord …
-Paratu Holz:Co …
 
-O’Kelling brüllte: »Paratu — + er ist’s! Boy, —
-meine Arme! Ast das eine Freude!! Boy, du lebst!!« »Z
-Und er drückte den Malaien an!; 1.ernst, [hüstelte
+Paratu folgte …
 
+O’Kelling brüllte: »Paratu — -- er ist’s! Boy, —
+meine Arme! Ist das eine Freude!! Boy, du lebst!!«
+
+Und er drückte den Malaien an seine Brust, schüttelte
 uns dann die Hände … Sein Gesicht strahlte …
 
-»Kinder, Kinder, — der Tag hängt gut an. »M4! Kinde«
-so kommt ihr der …?!«
+»Kinder, Kinder, — der Tag fängt gut an ...!! Kinder,
+wo kommt ihr her …?!«
 
 »O’Kelling,« fragte Harst, »was sind dies hier für
-Leute?!« Und er zeigte aus die uns fremden Inder, die wie
+Leute?!« Und er zeigte auf die uns fremden Inder, die wie
 Matrosen gekleidet waren …
 
-T-x Käpten rieb sich schmunzelnd die Hände … »Dja,
-besser Harst, ter Allan O’Kelling ist auch nicht so ganz. auf
+Der Käpten rieb sich schmunzelnd die Hände … »Dja,
+besser Harst, der Allan O’Kelling ist auch nicht so ganz auf
 den Kopf gefallen! Sie wissen, daß ich mit dem Kutter vor
-dem Schoner ausrief und die offene See aussuchte. Dort
+dem Schoner auskniff und die offene See aufsuchte. Dort
 kreuzte ich bis zum Morgen vor der Flußarmmündung. Der
-Schoner kam nicht, Da wußte ich Bescheid, fuhr nach Pondicherry,
-meldete dar Polizei das Vorgefallene und bekam
-fünfzehn eingacborene Beamte in aller Stille mit. Wir beluden
-das Deck des Kutters mit leeren Fässern — da sehen.
-Sie die seine. Fracht, — überpinselten den Namen »Lady
-Hamilton«, schrieben dfür »Kalkutta« hin und gondelten
-hier in den Kenne!-Fluß hinein, denn da der Schoner sich
-nicht mehr auf die offene See gewagt hatte, mußte er Notar.
-in sich hier irgendwo verloren haben …!«
+Schoner kam nicht. Da wußte ich Bescheid, fuhr nach Pondicherry,
+meldete der Polizei das Vorgefallene und bekam
+fünfzehn eingeborene Beamte in aller Stille mit. Wir beluden
+das Deck des Kutters mit leeren Fässern — da sehen
+Sie die feine Fracht, — überpinselten den Namen »Lady
+Hamilton«, schrieben dafür »Kalkutta« hin und gondelten
+hier in den Penner-Fluß hinein, denn da der Schoner sich
+nicht mehr auf die offene See gewagt hatte, mußte er notwendig
+sich hier irgendwo verkrochen haben …!«
 
-»171 hatte andächtig zugehört, aber auch derweil das
-sein … veränderte Aussehen des Kutters gebührend gemustert
+Ich hatte andächtig zugehört, aber auch derweil das
+völlig veränderte Aussehen des Kutters gebührend gemustert
 …
 
 Um uns herum standen die braunen französischen
@@ -3018,10 +3018,10 @@ Kolonialpolizisten (Pondicherry ist ja französischer Besitz),
 — alles stramme Leute, mit denen man fraglos die Hölle
 stürmen konnte …
 
-Harald meinte dann sehr zufrieden? »Wir werden, bevor
+Harald meinte dann sehr zufrieden: »Wir werden, bevor
 <@pagebreak/>
 es völlig hell wird, mit dem Kutter irgendein Versteck
-aussuchen … Alles weitere ergibt sich dann von selbst …«
+aufsuchen … Alles weitere ergibt sich dann von selbst …«
 
 Am Abend desselben Tages …
 
@@ -3029,13 +3029,13 @@ Eine Schlange von einundzwanzig Menschen windet sich
 auf engen, kaum erkennbaren Wildpfaden durch den Urwald
 … Voran ein schlanker Europäer, der an einem Bambusstock
 eine Schiffslaterne trägt: Harst! — Der Lichtschein
-gleitet über den Boden verscheucht! giftiges Gewürm.
+gleitet über den Boden verscheucht giftiges Gewürm.
 Gen Norden geht’s, den Bergen zu, in einer Richtung, die
 uns eine halbe Meile östlich von der Plantage des Phalu
 Dringar vorüberführen muß …
 
 Der Wald hört auf. Bergiges Buschland beginnt. Der
-Mond ist schienen … die Laterne ge:wiwyt. — »hebt rund
+Mond ist erschienen … die Laterne gelöscht. — Jetzt sind
 Harst und Paratu uns als Späher zwanzig Meter voraus.
 Jetzt schwenken wir gegen Mitternacht nach Westen ein, um
 von Norden her jenes Tal zu erreichen, in dem die Plantage
@@ -3072,25 +3072,25 @@ Und um das abseits liegende Wohnhaus Gestalten,
 Weiber … Mädchen …
 
 <@pagebreak/>
-Tanzen wie Nachen um das sprühende, lohende Heim
+Tanzen wie Furien um das sprühende, lohende Heim
 des Phalu Dringar …
 
 Wir alle wie gelähmt …
 
-O’Kelling preßt hervor: »Harst, was ist dort &sc-
-geschehen k?!« —
+O’Kelling preßt hervor: »Harst, was ist dort
+geschehen?!«
 
-Zufällt steigt schon in das Tal hinab, Wir verteilen
+Harald steigt schon in das Tal hinab. Wir verteilen
 uns, kreisen die brennenden Gebäude ein, verengern den
 Kreis, rücken näher …
 
-Nicht Inseln Weibern Nn8’ä, die da den Hexentanz befriedigten
+Nicht achtzehn Weibern sind’s, die da den Hexentanz befriedigter
 Rache aufführen … Nicht achtzehn, — einundvierzig
-junge [schlanke Inderinnen, bestimmt für orientalische
+junge schlanke Inderinnen, bestimmt für orientalische
 Lasterhöhlen, drehen sich wie besessen zu der unheimlichen
 Musik der zischenden, brausenden Flammen … — Abseits
-am Zaune des Gartens lohnt ein blondes Kind, gehüllt in
-eine leichte indische Tee: Daisy Luckward, Tochter des
+am Zaune des Gartens lehnt ein blondes Kind, gehüllt in
+eine leichte indische Decke: Daisy Luckward, Tochter des
 Obersten Luckward, Opfer Phalu Dringars wie die anderen
 …
 
@@ -3104,33 +3104,31 @@ entgegen …
 Polternd, krachend stürzt gerade der Dachstuhl des
 Wohnhauses ein … Flammenzungen schießen hoch …
 
-Daisys schmales seines Gesicht wendet sich Harald zu …
+Daisys schmales feines Gesicht wendet sich Harald zu …
 
 Dieses Gesicht ist wie um viele Jahre gealtert …
 
 »Mein Werk!« sagte sie mit einer Stimme, die tonlos
-
-ob wie erloschen klingt … »In der Kammer des Schoners
-Gedanken Sie mir Ihr Taschenmesser in die Hand gleiten, Herr
-Brust … Vor drei Stunden leistete das Messer mir gute
+und wie erloschen klingt … »In der Kammer des Schoners
+ließen Sie mir Ihr Taschenmesser in die Hand gleiten, Herr
+Harst … Vor drei Stunden leistete das Messer mir gute
 Dienste … Der Wächter brachte uns das Nachtessen … War
 bald betrunken … Ich … bin zur Mörderin geworden …
-ich-:1id das rote Blut hat meine Erzählungen zu … Bestien
-»entgeht … Mordtaumel lauschte in ihren Adern … Der
-Phalu Dringar kehrte mit den Seinen … Wir fanden die
-Wasser … Harmlose Geschöpfe wurden zu erbarmungslosen
+Und das rote Blut hat meine Gefährtinnen zu … Bestien
+gemacht … Mordtaumel rauschte in ihren Adern … Der
+Phalu Dringar zechte mit den Seinen … Wir fanden die
+Waffen … Harmlose Geschöpfe wurden zu erbarmungslosen
 <@pagebreak/>
 Henkern … Betrunkene sanken halb tot unter die
-Tische … Es war ein leichtes Spiel, Herr Harst
+Tische … Es war ein leichtes Spiel, Herr Harst ..."
 
 Sie schauderte zusammen … Ihre Blicke waren leer.
 
-»Vor! … in der Glut liegt alles, was Phalu Dringar
-
-gehörte -… auch die Wachen … Niedergeknallt habe ich sie,
+»Dort … in der Glut liegt alles, was Phalu Dringar
+gehörte … auch die Wachen … Niedergeknallt habe ich sie,
 als der Feuerschein sie einzeln herbeilockte …
 
-uns Männern rann es kalt über den Rüden …
+uns Männern rann es kalt über den Rücken …
 
 Wir sehen die blutbefleckten Gewänder der Mädchen …
 Der Mordrausch ist verflogen … Aber die Zeichen der
@@ -3141,21 +3139,22 @@ Daisy Luckward stiert in die züngelnden Flammen …
 
 Wir schweigen …
 
-Jahren herum vor dem grauenvollen Schrei, der vom
+Fahren herum vor dem grauenvollen Schrei, der vom
 nahen Wohnhause herübergellt … von den brennenden
-Arabien dieses verruchten Schlupfwinkels vertierter Mädchen
-
-Händler …
+Resten dieses verruchten Schlupfwinkels vertierter
+Mädchenhändler …
 
 Und — aus dem einen Kellerfenster kriecht zwischen
 knisterndem Gebälk ein Etwas hervor, das einst … Mensch
 gewesen …
 
-23 jetzt nur vor ein bis zur Unkenntlichkeit versengter
+Jetzt nur vor ein bis zur Unkenntlichkeit versengter
 Körper …
 
 »Erbarmen!!« kreischt der Todgeweihte abermals …
+
 »Erbarmen!!« — des Totenvogels letzter Ruf …
+
 Die Hauswand stürzt …
 
 Begräbt ihn unter sich — — den Totenvogel, den Phalu
@@ -3170,48 +3169,49 @@ Die Mädchen desgleichen …
 Eine harte Stimme da:
 
 »Er hat’s verdient! Und Sie, Miß Luckward, werden
-vor aller Welt gepriesen werden, daß Sie diese. Bestien vernichtet
+vor aller Welt gepriesen werden, daß Sie diese Bestien vernichtet
 haben!«
 
 Eine harte Stimme, — die O’Kellings …
 
 <@pagebreak/>
 Und der Käpten streckt dem blonden Kinde die Hand
-…
+hin …
 
-»Hätten Sie’s nicht getan, Miß: ich würde die’en Satan
-gleichfalls lebendig geröstet haben! Sprechen Sie meine
-vier Malaien! Wir hatten’s uns zugescworen’« — —
+»Hätten Sie’s nicht getan, Miß: ich würde diesen Satan
+gleichfalls lebendig geröstet haben! Fragen Sie meine
+vier Malaien! Wir hatten’s uns zugeschworen!« — —
 
 Am Morgen hat Daisy Luckward durch Haralds gütiges
-Zureden die kniete Nervenkrise überwunden. hat eingesehen
+Zureden die schwere Nervenkrise überwunden, hat eingesehen,
 daß sie ihr Gewissen nicht durch Selbstvorwürfe zu
 belasten braucht …
 
 Und abends finden wir im Keller der Wohnhausruine
-den eisernen Kasten mit den Schädel und den Papieren des
+den eisernen Kasten mit den Schätzen und den Papieren des
 Phalu Dringar … Harst findet ihn …
 
 Die Papiere genügen, die ganze Organisation der Mädchenhändler
 für alle Zeit zu sprengen … In den verschiedensten
-Arten werden Mitschuldige verhaftet. Daisy Luckward
+Orten werden Mitschuldige verhaftet. Daisy Luckward
 aber wird zur Heldin des Tages … Die Zeitungen
 der ganzen Welt bringen ihren Namen … Und auch wir
-sind wieder einmal in aber Munde … Obwohl Harald damals
+sind wieder einmal in aller Munde … Obwohl Harald damals
 meinte, wir könnten mit dem Fall »Mr. Rellan« kaum
-große Ehre einlegen, da die Sache für »kriminalisti’che
-Feinmechanik« zu wenig Gelegenheit bot …— Vielleicht hat er
-nicht ganz unrecht damit Er sollte denn auch sehr bald ein
-anderes Problem vorgelegt erhalten — Tun wirkliches
-Problem, genau diese sei!:c Eclnsyck4 nach dem deutschen
+große Ehre einlegen, da die Sache für »kriminalistische
+Feinmechanik« zu wenig Gelegenheit bot. — Vielleicht hat er
+nicht ganz unrecht damit. Er sollte denn auch sehr bald ein
+anderes Problem vorgelegt erhalten — ein wirkliches
+Problem, genau wie seine Sehnsucht nach dem deutschen
 Frühling befriedigt wurde … — Wir reisten heim … Und
-Tod« März findet uns der Leser wieder Berlin-Schmargendorf,
-Lilücherstraße, vor — bei der Gartenarbeit und dann
-bei der anderen Arbeit, bei dem in der nannten Berliner
+Ende März findet uns der Leser wieder Berlin-Schmargendorf,
+Blücherstraße, vor — bei der Gartenarbeit und dann
+bei der anderen Arbeit, bei dem in der ganzen Berliner
 Presse geistvoll und leidenschaftlich erörterten Problem des
--… rätselhaften Gastes …
+… rätselhaften Gastes …
 
-so »er Band:
-Der rätselhafte Gast.
+<#import "*/harst.ftl" as harst>
 
-T:: « Richtung G in. bb. H, Berlin.
+<@harst.naechsterband title="Der rätselhafte Gast."/>
+
+<@harst.druck/>
