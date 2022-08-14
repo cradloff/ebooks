@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">e5646e7a-4513-438f-8e53-8d9a7b8be2cd</entry>
+<entry key="title">Der Abreißkalender des Kapitäns</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">172</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Abreißkalender des Kapitäns.
+
+Es war ein Reklamekalender der Firma Patterson, Madras … Ein buntes Ding mit vielen Likörflaschen, die unten Beinchen hatten und vergnügt umhertanzten — ein witziges Bild, das außerdem tadellos zu Käpten O’Kelling paßte, der ja eine ziemliche Schwäche für die Erzeugnisse von Likörfabriken besaß. —
+
+Wie der Kalender zum ersten Male sich meldete, das habe ich bereits am Schluß des vorigen Bandes erzählt: Harst war in Madras von dem berüchtigten Mr. Rellan und dessen Helfershelfern »erledigt« worden, und erst der Abreißkalender zerstreute meine Angst um das Leben meines Freundes, da ich am fünften Februar durch O’Kelling darauf aufmerksam gemacht wurde, daß ein Unbekannter nachts in die Kajüte eingedrungen sein müsse und von dem Kalender vier Blätter zu viel abgerissen habe, so daß nun das Datum des Neunten zu sehen war … Und auf dieses Blatt mit der dicken, großen Zahl Neun hatte der Eindringling außerdem noch mit Bleistift das Wort »Gannawa« hingekritzelt — kaum leserlich … Trotzdem glaubte ich in der Handschrift die Haralds zu erkennen. —
+
+Der Phalu Dringar.
+
+»Sag’ mal, Harald, was treibst du hier eigentlich …?«
+
+»Hm — ich habe mich mit dem größten Scheusal unterhalten, das je unseren Weg gekreuzt hat …«
+
+»Mit Mr. Rellan, dem von den Haien Gefressenen?«
+
+»Blech …!! Von den Haien gefressen!! Denkt nicht dran …«
+
+»Also gut,« meinte ich mit Lammsgeduld. »Du hast dich also mit ihm unterhalten … Wie?!«
+
+»Einseitig … Ich habe mir von ihm erzählen lassen, wo er steckt …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (172) Der Abreißkalender des Kapitäns.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
