@@ -4,11 +4,11 @@
 
 <h2>1. Kapitel.</h2>
 
-Wir waren Ende März nach monotelangeim Aufenthalt in
+Wir waren Ende März nach monatelangem Aufenthalt in
 Indien wieder heimgekehrt, und Harald hatte sich mit Feuereifer
 an die Bestellung unseres großen Gemüsegartens herangemacht,
 hatte der dicken Köchin Mathilde den strikten Befehl erteilt,
-immer noch« auf telephonische oder persönliche Anfrage zu
+immer noch auf telephonische oder persönliche Anfrage zu
 erklären, daß wir noch im Auslande weilten.
 
 Vier Tage ging denn auch alles gut, das heißt, niemand
@@ -17,9 +17,9 @@ abgeschnitten, daß wir bequem ein ganzes Jahr hätten faulenzen
 können.
 
 Wie gesagt: wir hätten unseren geliebten Detektivberuf
-getrost vorläufig an den Nagel hängen können
+getrost vorläufig an den Nagel hängen können …
 
-Vier Tage hing er nur an dem « bewußten Nagel … Dann
+Vier Tage hing er nur an dem bewußten Nagel … Dann
 ging der Tanz schon wieder los …
 
 Und das kam so …
@@ -28,32 +28,32 @@ Ein großer Komposthaufen ist die Freude jedes Gartenbesitzers
 …
 
 In diesen Komposthaufen schlug ich mit einer sogenannten
-Milliarde vormittags neun Uhr am 31. März eine gewaltige
+Mistforke vormittags neun Uhr am 31. März eine gewaltige
 Bresche, das heißt, ich füllte die Kompostmasse in eine Karre,
-»ie Harald dann mag den Beeten schob, um dort die Verzeihung
+die Harald dann nach den Beeten schob, um dort die Verteilung
 vorzunehmen.
 
 <@pagebreak/>
 Mit einem Male spürte ich, daß die Zinken der Forke
-sich in etwas Hartes einbohrten … etwas Metallisches, tä
+sich in etwas Hartes einbohrten … etwas Metallisches, das
 ein wenig nachgab, — vielleicht eine große leere Konservenbüchse,
-dachte ich … Wie allerdings eine sollte Büchse hier
+dachte ich … Wie allerdings eine solche Büchse hier
 in den »Stolz« unseres Gemüsegartens hineingelangt sein
 könnte, war mir unklar, denn wir hatten den Kompost mit
-Liebe und Sorgfalt! gesammelt, und selbst die Köchin Mathilde
-würde niemals gewagt haben, ausrangierte Wirtschafst8ögegen-stände
+Liebe und Sorgfalt gesammelt, und selbst die Köchin Mathilde
+würde niemals gewagt haben, ausrangierte Wirtschaftsgegenstände
 hier unterzubringen.
 
 Ich zerrte mit aller Macht …
 
-Und der Kompost wölbte sich, Harst … öffnete Biß zum
-Lohe, aus dem … ein Marmeladeneimer zum Vorschein kam
+Und der Kompost wölbte sich, barst … öffnete sich zum
+Loche, aus dem … ein Marmeladeneimer zum Vorschein kam
 … Meine Forke hatte gerade den Deckel durchbohrt, der offenbar
-sehr fest saß.«
+sehr fest saß.
 
 Harald kehrte gerade mit der leeren Karre zurück …
 
-»Na Nu?!« traf er. »Das ist ja ein Marmeladeneimer
+»Na nu?!« rief er. »Das ist ja ein Marmeladeneimer
 für zwanzig Pfund Inhalt!«
 
 »Allerdings! Wie mag das Ding nur …«
@@ -68,25 +68,25 @@ Und da war der Deckel an den Zinken haften geblieben,
 und der Eimer rollte Harald vor die Füße — — und aus dem
 Eimer ein in braunes Leder gehülltes rundliches Paket …
 
-»Hallo — — die Sache erscheint Dom nicht so ganz harmlos!«
+»Hallo — — die Sache erscheint doch nicht so ganz harmlos!«
 meinte Harald und bückte sich … schnupperte, als ob
-er etwas Unangenehmes rühme …
+er etwas Unangenehmes röche …
 
-Mut) ich wo’s …
+Auch ich roch’s …
 
 Der Komposthaufen duftete Ja fraglos kräftig …
 
-Über — dies hier war Verwesungsgeruch …
+Aber — dies hier war Verwesungsgeruch …
 
 Harst kniete schon nieder …
 
 Betrachtete die Lederhülle, die mit Bindfaden umschnürt
 war …
 
-Kreuze:
+Meinte:
 
-»Das ist ein Stück von einer Lederjacke … Und dachte
-Bindfaden ck- hm, das ist keine gewöhnliche Hanfschnur,
+»Das ist ein Stück von einer Lederjacke … Und da
+Bindfaden — hm, das ist keine gewöhnliche Hanfschnur,
 <@pagebreak/>
 sondern eine ganz dünne Leine, wie man sie bei Wasserfahrzeugen
 braucht …«
@@ -94,15 +94,15 @@ braucht …«
 Ich beugte mich tiefer …
 
 »Harald, da muß ein Kadaver eingewickelt sein … Vielleicht
-eine Maße …«
+eine Katze …«
 
 Er schlug die Lederhülle schon auseinander …
 
-— Und — wir beide fuhren zurück, als ob zwischen uns eine
+Und — wir beide fuhren zurück, als ob zwischen uns eine
 Bombe geplatzt wäre …
 
-Da lag auf dem … braunen Leder nun im hellen Lichte des
-BVorfrühlings8tages ein bereits stark in Verwesung übergegangener
+Da lag auf dem braunen Leder nun im hellen Lichte des
+Vorfrühlingstages ein bereits stark in Verwesung übergegangener
 menschlicher Kopf …
 
 Ein Kopf eines jüngeren blonden Mannes mit schmalem
@@ -118,13 +118,16 @@ Harst nahm den leeren Marmeladeneimer, stülpte ihn
 über den unheimlichen Fund und hob den Brief empor, dem
 natürlich schon der Leichengeruch äußerst stark anhaftete …
 
-Ah schaute mit hin, las mit:
+Ich schaute mit hin, las mit:
 
-»Deren
-Harald Harst
-mit der Bitte, dieses Verbrechen aufzuklären. —
-Einer, der nicht in aller Öffentlichkeit
-die Ungelegenheit verfolgen kann.«
+<p class="centered">»Herrn</p>
+
+<p class="centered">Harald Harst</p>
+
+<p class="centered">mit der Bitte, dieses Verbrechen aufzuklären. —</p>
+
+<p class="centered">Einer, der nicht in aller Öffentlichkeit
+die Angelegenheit verfolgen kann.«</p>
 
 So lautete die Aufschrift auf dem gelben Umschlag.
 
@@ -132,95 +135,93 @@ In dem Umschlag selbst steckte nur eine Zeitung: die
 »Berliner Mittagspost«, deren genaue Berichterstattung über
 alles Sensationelle bekannt ist!
 
-Und in dem Platte war ein Artikel rot angestrichen:
+Und in dem Blatte war ein Artikel rot angestrichen:
 
-»Der rät« .»hatte Gast. Wir sind heute in der
-
+> »*Der rätselhafte Gast*. Wir sind heute in der
 Lage, über den mysteriösen Gast des Schwedischen Pavillons
-
-in Wannsee unseren Lesern mit weiteren Einzelheiten dienen.
+in Wannsee unseren Lesern mit weiteren Einzelheiten dienen
 Zu können.
 
 <@pagebreak/>
-Um diese seltsamen Tatsachen nochmals von Beginn
+> Um diese seltsamen Tatsachen nochmals von Beginn
 an nach Tagen zu ordnen:
 
-Um 43. März landete an der Bootsbrücke des bekannten
+> *Am 4. März* landete an der Bootsbrücke des bekannten
 Restaurants ein Kanufahrer, ein jüngerer Herr in
 Lederjacke und Ledermütze. Er traf bei Dunkelwerden ein,
 übergab sein grün gestrichenes Zweisitzerkanu dem Hausdiener
 und ließ sich ein Zimmer geben, wo er sich eine
 Mahlzeit servieren ließ. Kurz vor acht Uhr entfernte er
-sie) zu Fuß, kehrte um neun zurück und ging zu Bett,
+sich zu Fuß, kehrte um neun zurück und ging zu Bett,
 nachdem er dem Hausdiener befohlen hatte, ihn um sieben
-zu Wesen und ihm gleichzeitig das Frühstück zu bringen.
+zu wecken und ihm gleichzeitig das Frühstück zu bringen.
 Morgens halb acht ruderte er in seinem Kanu davon.
 
-Um 6. März erschien er zu derselben Zeit. sich
+> *Am 6. März* erschien er zu derselben Zeit. Ließ
 sich dasselbe Zimmer geben und entfernte sich wieder gegen
-acht Uhr, kehrte diesmal aber erst um zehn Uhr sehr aufs
-geregt zurück, bestellte eine Blasrohr Rotwein und bedeutete
-dem Hausdiener. ihn um sechs zu weder. — Der Hausdiener
+acht Uhr, kehrte diesmal aber erst um zehn Uhr sehr aufgeregt
+zurück, bestellte eine Flasche Rotwein und bedeutete
+dem Hausdiener, ihn um sechs zu wecken. — Der Hausdiener
 tat es auch pünktlich, — das heißt, er pochte an die
-Tür. Niemand meldete siH9 jedoch, und als der Hausdiener
+Tür. Niemand meldete sich jedoch, und als der Hausdiener
 die Tür öffnete, fand er das Zimmer leer und auf
 dem Tische einen Fünfzigmarkschein, den der Gast offenbar
-dort zur Begleitung seiner Rechnung hi. gelegt hatte. Das
+dort zur Begleichung seiner Rechnung hingelegt hatte. Das
 eine Fenster stand offen, und der Kanufahrer war von
-hier fraglos an dem einen Berandarfeil:r hinabgeklettert,
+hier fraglos an dem einen Verandapfeiler hinabgeklettert,
 Hatte sein Fahrzeug geholt und war in aller Stille davongerudert.
 
-Am 8. März erschien er wieder bei Anbruch der
+> *Am 8. März* erschien er wieder bei Anbruch der
 Dunkelheit zum dritten und letzten Male im Schwedischen
 Pavillon, entschuldigte sich bei dem Wirt wegen seines
 eigentümlichen Verhaltens beim vorigen Besuch und erklärte,
-er habe nicht einschlafen können und s:ich daher schon
+er habe nicht einschlafen können und sei daher schon
 morgens zwei Uhr aufgebrochen. — Auch diesmal verlief
 alles wie bisher. Der junge Mann aß, trank und ging
-um acht zu Fuß davon. Inzwischen hatte jedoch einer der,
-jüngeren Kellner sie) vorgenommen, ihm heimlich zu fesselt.
-— — Der Kanufahrer begab sich in den nahen Wald und
+um acht zu Fuß davon. Inzwischen hatte jedoch einer der
+jüngeren Kellner sich vorgenommen, ihm heimlich zu folgen.
+— Der Kanufahrer begab sich in den nahen Wald und
 <@pagebreak/>
 erkletterte hier, wie der Kellner beobachten konnte, eine
 verkrüppelte Kiefer blieb eine Weile oben in der Krone
-und kletterte wieder herab. Dann ging er bis zum Seeleuten,
+und kletterte wieder herab. Dann ging er bis zum Seeufer,
 setzte sich hier in den Sand und … weinte und
 schluchzte so kläglich, daß der Kellner ganz weich gestimmt
 wurde. Gegen neun kehrte der rätselhafte Gast, der sich
-übrigens Kaufmann Fritz Schmidt nannte, in den C4hw2-dismGen
+übrigens Kaufmann Fritz Schmidt nannte, in den Schwedischen
 Pavillon zurück, trank wieder eine Flasche Rotwein
-und wollte. um sieben geweckt [Sinn. — Der Kellner
-hatte sich derweil in das Nebenzimmer gestrichen und von
-hier aus durch ein vorbereitetes Wort in der Verbindungstür
+und wollte um sieben geweckt sein. — Der Kellner
+hatte sich derweil in das Nebenzimmer geschlichen und von
+hier aus durch ein vorbereitetes Loch in der Verbindungstür
 seine Beobachtungen fortgesetzt.
 
-Viel zu sehen gab es nicht. Der junge Herr Schmidt
-tief im Zimmer nervös hin und her und trank zuweilen
-einen ShchluFck Wein … Seine Armbewegungen und seine
-kauten Seufzer deuteten auf eine verzweifelte Stimmung
-bin. Mitunter trat er an das Fenster, schlug den Vorhang
-Zuruf und reckte die gefalteten Hände zum ausgestirnten
+> Viel zu sehen gab es nicht. Der junge Herr Schmidt
+lief im Zimmer nervös hin und her und trank zuweilen
+einen Schluck Wein … Seine Armbewegungen und seine
+lauten Seufzer deuteten auf eine verzweifelte Stimmung
+hin. Mitunter trat er an das Fenster, schlug den Vorhang
+zurück und reckte die gefalteten Hände zum ausgestirnten
 Nachthimmel empor.
 
-Dann warf er’ ich in Kleidern auf das Bett und
-schlief ein. — Der’ Kellner verließ seinen Beobachtungsposten.
+> Dann warf er sich in Kleidern auf das Bett und
+schlief ein. — Der Kellner verließ seinen Beobachtungsposten.
 
-Und das wäre es besser gewesen, er hätte noch einige
+> Und das wäre es besser gewesen, er hätte noch einige
 Geduld bewiesen, denn … morgens war Herr Schmidt mit
 seinem Kanu verschwunden. —
 
-Tod jetzt das Unbegreifliche, das Rätselhafteste: an
+> Und jetzt das Unbegreifliche, das Rätselhafteste: an
 demselben Morgen, also am 9. März gegen acht Uhr,
 fanden Frauen, die im Walde Holz gesammelt hatten, am
-Teufel etwa an derselben Stelle, wo Schmidt am Abend
+Seeufer etwa an derselben Stelle, wo Schmidt am Abend
 vorher so jämmerlich geweint hatte, das durch Beilhiebe
 unbrauchbar gemachte Kanu und darin die hellgelbe elegante
 Reisetasche Schmidts, die dieser stets mit nach dem
-Schwedischen Pavillon gebracht hatte. Du? Tasche en!«Zelt
+Schwedischen Pavillon gebracht hatte. Die Tasche enthielt
 nichts als ein Päckchen Banknoten — zweiundzwanzigtausend
 Mark genau! —
 
-Alte Nachforschungen nach diesem Fritz Schmidt sind
+> Alle Nachforschungen nach diesem Fritz Schmidt sind
 <@pagebreak/>
 bis heute erfolglos geblieben. Man weiß weder, woher er
 kam noch wohin er ging …
@@ -230,13 +231,13 @@ So weit hatten Harald und ich gelesen …
 Da kam die dicke Köchin Mathilde den Hauptweg entlang
 und rief:
 
-»vier — — ein Brief … oben war der Postbote da!’
+»Hier — — ein Brief … Eben war der Postbote da!«
 
 Ein Brief …
 
 Gelber Umschlag … mit Haralds Adresse …
 
-Und: es war genau diozselbe Schrift wie auf dem anderen
+Und: es war genau dieselbe Schrift wie auf dem anderen
 gelben Umschlag, der dem abgeschnittenen Kopf beigelegen
 hatte!
 
@@ -244,7 +245,7 @@ Dieselbe schmucklose energische Männerhandschrift …
 
 Der Inhalt aber — — nur eine Karte mit den Worten:
 
-»Suchen Sie im Souper: Haufen!«
+»Suchen Sie im Komposthaufen!«
 
 Nichts weiter …! —
 
@@ -257,11 +258,9 @@ Gastes aus dem Schwedischen Pavillon!!
 Denn daß es Fritz Schmidts Kopf war, bezweifelte ich
 keinen Augenblick.
 
-ü
-
 <h2>2. Kapitel.</h2>
 
-Die dicke Mathilde war ahnungslos wieder davon-gewatschchclt
+Die dicke Mathilde war ahnungslos wieder davongewatschelt
 …
 
 Harald wandte sich mir zu, nachdem er eine Weile sinnend
@@ -269,35 +268,35 @@ Harald wandte sich mir zu, nachdem er eine Weile sinnend
 Laubenkolonie geschaut hatte …
 
 »Geh’ und hole den größten Ballon Spiritus aus meinem
-Laboratorium und auch4 ein Einmaceglas, in das der Kopf
+Laboratorium und auch ein Einmacheglas, in das der Kopf
 hineinpaßt …«
 
 Im Gebüsch wurde dann der Kopf in das Glas getan
 und Spiritus eingefüllt.
 
-Dann stellte Zufall- das Glas in den: Eimer. deckte die
+Dann stellte Harald das Glas in den Eimer, deckte die
 <@pagebreak/>
-zerschnittene LederjaFe über den Marmeladeneimer und schritt
+zerschnittene Lederjacke über den Marmeladeneimer und schritt
 mir voran dem Hause zu.
 
-In seinem Arbeitszimmer, das ich äbriegeln mußte, besichtigte
+In seinem Arbeitszimmer, das ich abriegeln mußte, besichtigte
 er den Kopf dann genauer …
 
 Meinte: »Ein Mädchen!!«
 
-Ich) fuhr ordentlich zusammen …
+Ich fuhr ordentlich zusammen …
 
-»Ein Mädchen k!«
+»Ein Mädchen?!«
 
 »Ja … Fritz Schmidt war ein verkleidetes Weib …
-Ein Mann hätte auch kaum so laut geweint und geschützt
+Ein Mann hätte auch kaum so laut geweint und geschluchzt
 und die Hände zum Himmel empor gereckt …«
 
 »Entschuldige, — woraus schließt du auf ein Mädchen?
-Das Haar ist doch …
+Das Haar ist doch …«
 
-zu weich und sein für Männerhaar … Außerdem
-fehlt jedes Anzeichen von Bordwache … Und schließlich noch
+»… zu weich und fein für Männerhaar … Außerdem
+fehlt jedes Anzeichen von Bartwuchs … Und schließlich noch
 die Zähne — das sind Frauenzähne, ganz abgesehen von den
 Löchern in den Ohrläppchen, den Löchern zu Ohrringen …«
 
@@ -308,16 +307,16 @@ Ich fragte weiter:
 
 »Was hältst du von alledem?«
 
-»Feine Ahnung … vorläufig …«
+»Keine Ahnung … vorläufig …«
 
 »Wirst du der Polizei Mitteilung machen?«
 
-»Heute noch4 nicht … — Gib mal das Stück Lederjacke
-her …
+»Heute noch nicht … — Gib mal das Stück Lederjacke
+her …«
 
-Während er es prüfte (es roh vor unangenehm nach
+Während er es prüfte (es roch vor unangenehm nach
 Verwesung), beschaute ich mir den grausigen Inhalt des
-Cinmacheglascs.
+Einmacheglases.
 
 Der Hals war offenbar mit einem Beil durchgeschlagen
 und zwar sehr ungeschickt.
@@ -333,9 +332,9 @@ Er langte nach dem Zigarettenkasten …
 Die ersten Rauchwölkchen seiner Mirakulum begleitete er
 mit den Worten:
 
-»Nuß die beiden Schriftproben des Mannes, der«.,
+»Auch die beiden Schriftproben des Mannes, der …
 <@pagebreak/>
-»die Angelegenheit richtet verfolgen kann«, dürften zunächst
+»die Angelegenheit nicht verfolgen kann«, dürften zunächst
 wenig nützen … Packen wir also alles, was den Fall »rätselhafter
 Gast« betrifft, unten in den Tresor, damit nicht etwa
 Mathilde beim Reinemachen womöglich den Kopf bemerkt …
@@ -343,7 +342,7 @@ Dann würde sie meine Zimmer nicht mehr betreten …«
 
 »Was ich ihr nicht verdenken kann,« nickte ich und war
 froh, als die Panzertür hinter dem grauenvollen Inhalt des
-Einmadcheglases zuschlug.
+Einmacheglases zuschlug.
 
 Harst nahm seine Mütze …
 
@@ -352,68 +351,68 @@ Alter …«
 
 »Komposthaufen?!«
 
-»Nun ja … Der Unbekannte mit der energischen schlichen
+»Nun ja … Der Unbekannte mit der energischen schlichten
 Handschrift hat offenbar doch gestern erst erfahren, daß wir
 wieder in Berlin sind … Daraufhin vergrub er nachts den
-Marmeladenemer in dem Schritt Staaten und schrieb da reif.
+Marmeladeneimer in dem Komposthaufen und schrieb den Brief.
 Er wird also Spuren hinterlassen haben …«
 
 Und das stimmte — stimmte jedoch auch wieder insofern
 nicht, als der Mann, wie wir deutlich erkannten, seine Fährten
 vorsichtig verwischt hatte, indem er mit einem Stock jeden
-einzelnen sinken seiner Schuhe zerkratzt hatte. Diese Spur
-führte zur linken Zaune&cke des Gemüsegartens. Hier war
+einzelnen Eindruck seiner Schuhe zerkratzt hatte. Diese Spur
+führte zur linken Zaunecke des Gemüsegartens. Hier war
 der Mensch über den Zaun geklettert.
 
-Wir standen jetzt ebenfalls dicht am Zaun …»Harald
-sagte aHsclzuck&end:
+Wir standen jetzt ebenfalls dicht am Zaun … Harald
+sagte achselzuckend:
 
 »Ein schlauer Bursche …! Schlau und unverständlich …
 Wenn er uns den Kopf der Ermordeten übermitteln konnte,
 muß er doch gewußt haben, wo der oder die Täter die ganze
-Leiche verscharrt haben, muß sie vielleicht kennen«.«
+Leiche verscharrt haben, muß sie vielleicht kennen …«
 
 Ich blickte ihn forschend an …
 
 »Harald, du vermutest, daß …«
 
-»-. daß der sann vielleicht gar der Mörder selbst ist,
-— allerdings das vermute im? … Ob es stimmt, weiß ich
-nicht … Was wissen wir denn überlaut?! Betrachtet man
+»… daß der Mann vielleicht gar der Mörder selbst ist,
+— allerdings das vermute ich … Ob es stimmt, weiß ich
+nicht … Was wissen wir denn überhaupt?! Betrachtet man
 die Einzelheiten dieses Problems, so könnte man tausend
 Fragen stellen … alles hängt haltlos in der Luft … Und
 <@pagebreak/>
-das mysteriöseste ist das nun diese unsere Forderung des
+das mysteriöseste ist doch nun diese unsere Entdeckung des
 Kopfes hier auf unserem Grund und Boden. Ich habe ja
-schon vieles erlebt: dies setzt allem die Krone aus!«
+schon vieles erlebt: dies setzt allem die Krone auf!«
 
-Er bückte ein plötzlich …
+Er bückte sich plötzlich …
 
 Der Zaun war ein ziemlich hoher Staketenzaun …
 
 Und — Harst deutete jetzt auf den oberen Querbalken
-des Zaunes du …
+des Zaunes …
 
 »Da — hier ist der Mann mit der Stiefelspitze auf den
 bestaubten Balken getreten, mein Alter … Was sagst du zu
 dieser Spur, die er zu verwischen vergaß?!«
 
-»Das … kann nur der Aden der Spitze eines Damen-sHuhes
+»Das … kann nur der Abdruck der Spitze eines Damenschuhes
 sein, Harald …«
 
 »Ganz recht … Ein winziger Schuh … Mithin ein
-neues « Rätsel!! — Ah — und hier … hier ein zweiter
-Aden — der eines Shuhabsatzes … Hier an dieser Stelle
-ist der Betreffende in den Garten eingestiegen, dort! hinausgeklettert
-… Der Absatz ist rote wichtiger als die Schuhspitze
-… der Aden noch klarer … Du siehst, es ist ein
+neues Rätsel!! — Ah — und hier … hier ein zweiter
+Abdruck — der eines Schuhabsatzes … Hier an dieser Stelle
+ist der Betreffende in den Garten eingestiegen, dort hinausgeklettert
+… Der Absatz ist noch wichtiger als die Schuhspitze
+… der Abdruck noch klarer … Du siehst, es ist ein
 Gummiabsatz gewesen, mit drei Nägeln befestigt. Die Nägelköpfe
-bilden ein Dreier. Westen wir die Abgründe der
+bilden ein Dreieck. Messen wir die Abstände der
 Nägelköpfe voneinander … — — So, das wäre gemacht …
 Zeichnen wir nun auch die Form der Schuhspitze genau nach
 … — Fertig …!«
 
-Dann schwang er ein elegant über den Zaun auf den
+Dann schwang er sich elegant über den Zaun auf den
 Feldweg …
 
 Kniete dicht am Zaun nieder …
@@ -423,40 +422,40 @@ Kniete dicht am Zaun nieder …
 Ich argloses Gemüt bezog diese grobe Injurie auf meine
 Person und sagte gereizt:
 
-»Gestatte mal!! — Wegs halb?!’!’«
+»Gestatte mal!! — Weshalb?!«
 
-»Weil der Mensch) hier beim Abspringen von der Launische
+»Weil der Mensch hier beim Abspringen von der Zaunhöhe
 gefallen ist … Da sind seine Hände im Sande zu erkennen,
-hier die Kiste, hier die Schuhspitzen …«
+hier die Knie, hier die Schuhspitzen …«
 
 Ich beugte mich über den Zaun …
 
-»Der Dummkopf hat diesen prachtvollen Keckeren nicht
+»Der Dummkopf hat diesen prachtvollen Steckbrief nicht
 verwischt …!« fügte Harald schon hinzu … Und ich war wieder
 <@pagebreak/>
 versöhnt … »Schau’ mal, lieber Alter, — die Entfernung
 von den Knien zu den Fußspitzen ist kaum fünfundzwanzig
 Zentimeter lang … Mithin …« — und er warf mir einen
-Bis zu, der mich zu einer Yeußerung aufforderte …
+Blick zu, der mich zu einer Äußerung aufforderte …
 
-»… mithin muß die Person sehr klein« gewesen sein,«
-ergänzte ich prompt, — was ja auch keine besondere Geistesproduktion
-war.
+»… mithin muß die Person sehr klein gewesen sein,«
+ergänzte ich prompt, — was ja auch keine besondere
+Geistesproduktion war.
 
 »Sehr klein — — ein Zwerg,« — und Harst kam wieder
 zu mir in den Garten zurückgeklettert. »Ein Zwerg, mein
-Alter … Kein Weib! Wäre es bin Weib gewesen, hätten
-die Röte, als die Person sich erhob, die Spuren der Knie
-verwischt. Außerdem würden sich; auch bei einer Frau die
-Knie nicht! so Scharf abgezeichnet haben — ’— zu der möchte
+Alter … Kein Weib! Wäre es ein Weib gewesen, hätten
+die Röcke, als die Person sich erhob, die Spuren der Knie
+verwischt. Außerdem würden sich auch bei einer Frau die
+Knie nicht so scharf abgezeichnet haben — — auch der Röcke
 wegen …«
 
 Er strahlte jetzt …
 
-»war Schraut, die Sache macht sieh) …? Wir werden
+»Max Schraut, die Sache macht sich …! Wir werden
 den Zwerg finden … Komm’ nur … Wir verändern uns
-ein wenig, und dann besuchen wir unter einem guten Bote
-wand den Luna-Park, der freilich erst am 1. Mai eröffnet
+ein wenig, und dann besuchen wir unter einem guten Vorwand
+den Luna-Park, der freilich erst am 1. Mai eröffnet
 wird …«
 
 Jeder Berliner kennt den Luna Park, den großen eleganten
@@ -473,29 +472,29 @@ die bescheidene Frage:
 »Glaubst du, daß unser Zwerg zu einer Schaubude des
 Luna-Parks gehört?«
 
-»Wenn du dir die Briefmarke des heute früh eingetroffen.
-merkliches des Unbekannten angesehen hättest, würdest du
+»Wenn du dir die Briefmarke des heute früh eingetroffen
+Briefes des Unbekannten angesehen hättest, würdest du
 den Stempel »Halensee« bemerkt haben,« erwiderte er mit
 jener leichten Ironie, die er leider nur zu häufig bereit hat.
 »Und wenn du wie ich die Zeitungen genau lesen würdest,
-hättest du in der Voranzeige der LunaUAttraktionen auch
+hättest du in der Voranzeige der Luna-Attraktionen auch
 <@pagebreak/>
-»Schäfers Zwergenheim’’ gefunden … — Ich, denke also, es
-lohnt schon, dort hinauszujahren …«
+»Schäfers Zwergenheim» gefunden … — Ich, denke also, es
+lohnt schon, dort hinauszufahren …«
 
 Wir fuhren … Straßenbahn bis zum Henriettenplatz in
-Halensee, gingen zu Fuß über die Beute und bogen dann
-rechts in die darunter Straße ein, wo sich der Zugang zu
+Halensee, gingen zu Fuß über die Brücke und bogen dann
+rechts in die Bornimer Straße ein, wo sich der Zugang zu
 den Bureaus des vornehmen »Rummels« befindet …
 
-Im Bureau redete’nur Harst …
+Im Bureau redete nur Harst …
 
-Ob nachts Platz für eine Bude sei … Wir wollten uns
+Ob noch Platz für eine Bude sei … Wir wollten uns
 als Schnellzeichner bewundern lassen — und so weiter …
 
 Der Herr im Bureau lachte uns aus …
 
-»Alles besetzt … Und Schnellzeichner?! Achat bessert?«
+»Alles besetzt … Und Schnellzeichner?! Noch besser!!«
 
 Harst zog ein enttäuschtes Gesicht …
 
@@ -505,43 +504,43 @@ dürften? Wir seien extra aus Frankfurt a. O. herübergekommen
 
 Wir durften …
 
-Kohlenbecken überall umher …
+Schlenderten überall umher …
 
-In der großen Halle war die Zwergenstadt bereits aus«-
-Gebaut …
+In der großen Halle war die Zwergenstadt bereits aufgebaut
+…
 
-Und die winzigen Verslein hausten hier schon jetzt in
+Und die winzigen Menschlein hausten hier schon jetzt in
 ihren Miniaturgebäuden …
 
-… Da war es denn nicht weiter schwer, den Gesuchten
+Da war es denn nicht weiter schwer, den Gesuchten
 herauszufinden …
 
-Harst hat ja für sollte Falle dank seiner unerschöpflichen
+Harst hat ja für solche Fälle dank seiner unerschöpflichen
 Phantasie stets einen »Trick« bereit …
 
-Wir freundeten uns als »Kollegen vom Variet6« mit
+Wir freundeten uns als »Kollegen vom Varieté« mit
 den kleinen Herrschaften an, und Harald bat, ob er nicht,
 da er nebenbei auch mal für Zeitungen schreibe, genaueres
 über die Größenverhältnisse der Liliputaner feststellen dürfe:
-Hand« und Zinksärge — und so weiter … Sollt’ ein Artikel
-sei Dom auch gleichzeitig eine gute Reklame …
+Hand- und Fußlänge — und so weiter … Solch’ ein Artikel
+sei doch auch gleichzeitig eine gute Reklame …
 
 So maß er denn Händchen und Füßchen, diktierte mir
 Namen und Straße, und konnte so in aller Bequemlichkeit
 Herrn Siegfried Orlik mit den Gummiabsätzen ermitteln …
 
-Es stimmte: Schiff Schuhebsätze waren fraglos die
+Es stimmte: Orliks Schuhabsätze waren fraglos die
 richtigen!!
 
 <@pagebreak/>
 Dann luden wir Herrn Liliputaner Orlik, ein Männlein
 mit greisenhaftem Kürbiskopf und schlauen Äuglein, sowie
-noch drei andere von den Grauen zum Frühschoppen ein,
-gingen in das nahe Tale Grunewald und spendeten den
-kleinen Leuten, die Freust) im Falles waren, alles, was
+noch drei andere von den Gnomen zum Frühschoppen ein,
+gingen in das nahe Café Grunewald und spendeten den
+kleinen Leuten, die ziemlich im Dalles waren, alles, was
 sie nur haben wollten …
 
-Der Erfolg blieb mit aus. Um halb zwölf waren sie
+Der Erfolg blieb nicht aus. Um halb zwölf waren sie
 voll des süßen Weines und tranken mit uns Brüderschaft …
 
 Siegfried Orlik jedoch bewies hier, daß er trotz des überreichen
@@ -555,11 +554,11 @@ und … stumm …
 
 Die anderen redeten desto mehr.
 
-Über das half uns nichts …
+Aber das half uns nichts …
 
-Und ur1 halb eins blies Harald dann zum Rückzug, des
-zahlte die Zehe und verabschiedete sich von den kleinen
-Leutchen
+Und um halb eins blies Harald dann zum Rückzug, bezahlte
+die Zeche und verabschiedete sich von den kleinen
+Leutchen …
 
 Wir wanderten dem Kurfürstendamm zu …
 
@@ -567,46 +566,46 @@ Wanderten Arm in Arm, die leicht Benebelten markierend
 …
 
 Und … auf der anderen Seite … wanderte Herr Orlik,
-der also ohne Frage Verdacht geschöpft hatte und uns nachspionieren
-wollte …
+der also ohne Frage Verdacht geschöpft hatte und uns
+nachspionieren wollte …
 
-Harmlose Seele, das kleine Männcdchten!! Harmlos insofern,
-als er sich nicht gerade übermäßig begabt als »der«
-folge« benahm … In anderer Beziehung war er ja durchaus
-nicht harmlos: vergleiche seine Beziehungen zu dem sei
-kriminellen Morde!
+Harmlose Seele, das kleine Männchen!! Harmlos insofern,
+als er sich nicht gerade übermäßig begabt als »Verfolger«
+benahm … In anderer Beziehung war er ja durchaus
+nicht harmlos: vergleiche seine Beziehungen zu dem
+geheimnisvollen Morde!
 
-Harald meinte autaqelaunt:
+Harald meinte gutgelaunt:
 
 »Wir werden den Kleinen abschütteln und auf die Probe
-stellen … Dort kommt ein Auto … — Hallo — — ![topp!!
+stellen … Dort kommt ein Auto … — Hallo — — stopp!!
 nach dem Luna-Park …!«
 
 Wir stiegen ein …
 
 <@pagebreak/>
-Das Auto gondelte davon, und Siegfried Orlik [schaute
+Das Auto gondelte davon, und Siegfried Orlik schaute
 uns traurig nach …
 
-Denn aus er lebte zurzeit im tiefsten Falles … Das
-hatte er vorhin im Tale gelegentlich erwähnt … Er konnte
-sie kein Auto leisten … Außerdem war auch keins zur Hand,
+Denn auch er lebte zurzeit im tiefsten Dalles … Das
+hatte er vorhin im Café gelegentlich erwähnt … Er konnte
+sich kein Auto leisten … Außerdem war auch keins zur Hand,
 
-In wenigen Minister waren wir wieder in der darunter
+In wenigen Minuten waren wir wieder in der Bornimer
 Straße. Hier rief Harald dem Fahrer das neue Ziel zu:
 Blücherstraße 6, Schmargendorf.
 
-Wir waren nachts zehn Minuten in der Blücherstraße,
+Wir waren nach zehn Minuten in der Blücherstraße,
 bogen nun aber zu Fuß in den Feldweg ein, der zwischen
 dem Laubengelände und der Hinterfront der Gärten entlangläuft
 …
 
 Und — siehe da: als wir die erste Biegung hinter
-uns haften, sahen wir Freund Orlik in seiner ganzen Wurstigkeit
-flink an einem Zaun lohnen und angestrengt nach
+uns hatten, sahen wir Freund Orlik in seiner ganzen Winzigkeit
+links an einem Zaun lehnen und angestrengt nach
 unserem Gemüsegarten hinüberspähen …
 
-Seine Aufmerksam Zeit!&;hier d in Tomposthaufen zu gelten.
+Seine Aufmerksamkeit schien dem Komposthaufen zu gelten.
 
 Er mußte deutlich erkennen, daß der Kompostberg den
 Marmeladeneimer mit dem unheimlichen Inhalt nicht mehr
@@ -617,12 +616,12 @@ näherten …
 
 Dann legte Harald dem Zwerge die Hand auf die Schulter.
 
-»Was treibst du denn hier?! sagte er gemütlich … »Nee
+»Was treibst du denn hier?!« sagte er gemütlich … »Nee
 — ist das mal ’ne Überraschung!! Wirklich, der Orlik!
 Mensch, Kollege, — was in aller Welt willst du gerade
 hier?!«
 
-Orlik war wie von einer Schlange gebissen, herum gefahren.
+Orlik war wie von einer Schlange gebissen, herumgefahren.
 
 Stierte uns an …
 
@@ -633,35 +632,35 @@ Harald wurde ernst, änderte den Ton …
 »Herr Orlik, geben wir die Komödie auf … Sie wissen,
 wer wir sind?« …
 
-Der Liliputaner Kiste … Sein Gesicht war farblos …
+Der Liliputaner nickte … Sein Gesicht war farblos …
 
-»Ich … im … merkte schon … im Tale was … Als
+»Ich … ich … merkte schon … im Café was … Als
 <@pagebreak/>
-»… als Sie … von Wannsee anfingen … Da … da übers
-setzte ich mir, daß Harald Harst einen Kopf größer als Schraut
-ist, und Grund dafür der … Und da … kam ich auch
-
-hinter … Ihren Trick mit den Maßen der Hände und
+… als Sie … von Wannsee anfingen … Da … da überlegte
+ich mir, daß Harald Harst einen Kopf größer als Schraut
+ist, und Schraut dafür dicker … Und da … kam ich auch
+… hinter … Ihren Trick mit den Maßen der Hände und
+Füße …«
 
 »Nun, dann können wir ja deutsch miteinander reden,
 Herr Orlik … Begleiten Sie uns … In meinem Arbeitszimmer
-hoben wir’s behaglicher I«
+haben wir’s behaglicher …«
 
 Der Kleine seufzte …
 
-»Ich … merke, ich habe die Sache das nicht schlau
+»Ich … merke, ich habe die Sache doch nicht schlau
 genug angefangen … Nun … nun habe ich mich übel hineingeritten
-… ganz übel … Über schließlich?: Sie werden
-Nachsicht mit mir haben, meine Herren …»’
+… ganz übel … Aber schließlich: Sie werden
+Nachsicht mit mir haben, meine Herren …«
 
-Er tat mir leid … Er machte ein so unglüliches Gesicht.
+Er tat mir leid … Er machte ein so unglückliches Gesicht.
 
 Harald beruhigte ihn …
 
 »Daß Sie nicht der Mörder jener Frau sind, sehe ich
 Ihnen an, und daß Sie Ihre Gründe gehabt haben werden,
 weshalb Sie uns den Kopf übermittelten und selbst im Verborgenen
-bleiben wollten, glaube ich gleichfalls ohne weiteres«
+bleiben wollten, glaube ich gleichfalls ohne weiteres
 … Kommen Sie also …«
 
 <h2>3. Kapitel.</h2>
@@ -801,7 +800,7 @@ vielgestaltiger und dadurch interessanter kaum je geboten war!
 
 Man denke: ein begrabener Frauenkopf, Blumen auf
 dem Grabe, im Grabe eine Schiefertafel mit einer Inschrift
-— — und in der Tasche des Lederjackenstüks 10000 Mark
+— — und in der Tasche des Lederjackenstücks 10000 Mark
 in Gold!!
 
 Man füge dies zu alledem, was der Zeitungsbericht besagte,
@@ -2853,7 +2852,7 @@ Salnavoor82« Dr
 »Sel&4;ow war mit Lydia verlobt?«
 
 »Ohne Frage … Dann kam heraus, daß er ein internationaler
-Gauner war … Während der Berlobungszeit
+Gauner war … Während der Verlobungszeit
 mag Lydia tatsächlich ein gleichlautendes Testament aufgesetzt
 haben. Sie vernichtete es dann. Selchow behielt neun; Briefe
 von ihr. Diese mögen, wie er selbst zugab, sehr konnte«-
@@ -3229,7 +3228,7 @@ ihm fraglos ausgezahlt worden wäre. —
 Wenn der Leser sich jetzt normale all die einzelnen Aha
 Eilande dieses Ringens um die Lösung eines scheinbar völlig
 undurdcsichtigen Rätsels vergegenwartigat, wird er mir recht
-geben, d;schieße? Problem geradezu ein Sculbeispiel dafür
+geben, d;schieße? Problem geradezu ein Schulbeispiel dafür
 ist, wie ein begabter Detektiv Spritzt für Schritt durch geistvolle
 Kombinationen und durch zähe Energie und kluge Entschlossenheit
 der Wahrheit näherzukommen vermag, bis dann
