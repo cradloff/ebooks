@@ -9,23 +9,23 @@
 »Eine scheußliche Nacht!« sagte Harst zu mir, als wir
 gegen elf Uhr abends am 23. November die Gitschiner
 Straße im Süden Berlins unter der Hochbahnstrecke
-entlang wanderten.
+entlangwanderten.
 
 Er klappte dabei den Ulsterkragen empor und warf
 den Rest seiner Zigarette im Bogen auf den regenfeuchten
 Fahrdamm.
 
 Der Herbststurm fegte in unregelmäßigen Stößen über
-das Häusermeer der Reichshauptstadt dahin, Hochbahnzüge
+das Häusermeer der Reichshauptstadt dahin. Hochbahnzüge
 donnerten über unseren Köpfen wie unsichtbare Poltergeister
 hinweg und warfen flüchtigen Lichtschein auf die
 Fronten der düsteren Gebäude, zwischen denen auch die wenigen
 Fußgänger an diesem unfreundlichen Abend dem behaglichen
-Heim zutrieb.
+Heim zutrieben.
 
 Es war so recht eine Nacht, in der niemand einen Hund
 ins Freie jagt. Und wir beide waren nun bereits drei
-Viertelstunden unterwegs, — scheinbar zwecklos —
+Viertelstunden unterwegs, — scheinbar zwecklos — —
 scheinbar!
 
 Wir hatten bis gegen halb zehn in der Krokodil-Bar
@@ -101,14 +101,14 @@ Untergrundbahn in Anspruch zu nehmen, schleppt sie zu
 Fuß den schweren Karton die Friedrichstraße hinab, am
 Halleschen Tor vorbei — bis hierher und wer weiß wohin
 noch! Weshalb meidet sie die Verkehrsmittel?! Doch nur
-deshalb, um mit dem Paket nicht aufzufallen: Und auffallen
+deshalb, um mit dem Paket nicht aufzufallen. Und auffallen
 könnte sie, wenn das Kind in dem Karton plötzlich
 zu schreien oder zu weinen beginnen würde …«
 
 »Hm — nicht so von der Hand zu weisen, diese
 Annahme,« nickte ich.
 
-Da war die echte Bardame bereits in die Prinzenstraße
+Da war die schicke Bardame bereits in die Prinzenstraße
 eingebogen.
 
 »Aha, Richtung Urbanhafen!!« meinte Harald mit
@@ -151,7 +151,7 @@ weiß, wir seien gerade Harst und Schraut. Nein, — das
 nicht! Immerhin: wir sind die Blamierten!«
 
 Er blieb plötzlich stehen, packte die obere Stange des
-Eisengeländers der Hofmauer und beugte sich vor …
+Eisengeländers der Kaimauer und beugte sich vor …
 
 »Hörtest Du …?!« flüsterte er. »Das war ein Schrei.«
 
@@ -190,7 +190,7 @@ daß wir hier warten …«
 
 Und er zog die Tür rasch zu.
 
-Ich sah, daß der Lichtstrom, der uns hierher gelockt
+Ich sah, daß der Lichtschein, der uns hierher gelockt
 hatte, aus der Karbidlaterne eines Zweirades stammte.
 
 Und im selben Moment dachte ich an den Radler, der
@@ -276,7 +276,7 @@ Ratten ersäuft zu werden …
 
 Verdankten unsere Rettung nur dem Umstande, daß
 die Bretterbude mit der Dachkante sich am Rande eines
-großen Krahnes verfangen hatte, der am Ufer vertäut gewesen.
+großen Kranes verfangen hatte, der am Ufer vertäut gewesen.
 
 So hatten wir der Mausefalle mit Hilfe der in der
 Bude gefundenen Werkzeuge entschlüpfen können, hatten den
@@ -399,8 +399,8 @@ drüben warf einen schwachen Lichtschein auf mein Gesicht.
 
 »Wo sind wir?« fragte ich.
 
-»Innsbruckerstraße …« meinte der Mann und zog
-den Kopf in den hochgeklappten Kragen seines Pelzes
+»Innsbrucker Straße …« meinte der Mann und zog
+den Kopf tiefer in den hochgeklappten Kragen seines Pelzes
 ein.
 
 Ich beugte mich noch mehr vor. Undeutlich erkannte
@@ -428,7 +428,7 @@ erklärte ich etwas zögernd:
 
 Es war dunkel im Wagen. Ich hörte aus diesen so
 zerstreut klingenden Worten heraus, daß irgend etwas
-Harsts rührigen Geist ganz gefangen hielt — irgend etwas
+Harsts rührigen Geist ganz gefangen hielt — irgend etwas,
 das mit diesem Unfall zusammenhing …
 
 <@pagebreak/>
@@ -450,7 +450,7 @@ stand weit offen. Es ist ein älteres Panzerspind. Ich war
 im Laden. Ein Schupobeamter hatte sich ebenfalls schon
 eingefunden. Ich flüsterte ihm zu, wer ich sei, und daß er
 den Kriminalkommissar zu uns schicken solle, der den Fall
-untersuchen würde. Übrigens, — das Auto ist ein sehr
+untersuchen würde. Übrigens — das Auto ist ein sehr
 eleganter Wagen, und der Tote im Innern, der sich mit
 dem Halse auf den Glasspitzen aufgespießt hat, ist der Eigentümer,
 ist kein anderer als …«
@@ -490,7 +490,7 @@ ihren Kraftwagen geleitet hatte.
 Von ihm hörten wir, daß der Herr Direktor Doktor
 Gußfelder heute abend zu Ehren der amerikanischen
 Abordnung von Industriellen ein Souper gegeben und daher
-das Haus seit acht Uhr nicht verlassen habe.
+das Haus seit acht Uhr nicht verlassen habe …
 
 Wir kehrten um.
 
@@ -580,7 +580,7 @@ junge Mensch in jäher Erregung.
 
 »Ja … Ich … ich kenne sie nämlich — — von
 Ansehen.« Er wurde verlegen. »Es war eine … eine
-Bardame namens Zelestine Drepp.«
+Bardame namens Zelestine Drepp …«
 
 »So … so! — Hm — Sollten Sie der Drepp vielleicht
 genau wie wir gefolgt sein, Herr Hock?«
@@ -595,12 +595,12 @@ klang fast feindselig. »Ich … ich hasse dieses Weib!«
 
 »Ah — hassen! Und weshalb?«
 
-»Weil mein Freund Tomsör, ein Schwede, sich ihretwegen
+»Weil mein Freund Tomför, ein Schwede, sich ihretwegen
 erschossen hat.«
 
 Harald lehnte sich ganz weit in den Klubsessel zurück
 und schaute den Studenten versonnen an, murmelte darauf:
-»Tomsör — Tomsör …! Ah, jetzt erinnere ich mich.
+»Tomför — Tomför …! Ah, jetzt erinnere ich mich.
 Wohnte er nicht in der Französischen Straße? Der Selbstmord
 liegt erst eine Woche zurück. — Sollte das Hündchen
 dort in dem Karton …«
@@ -613,7 +613,7 @@ es herauslassen. Es ist also nicht naß geworden?«
 eingehüllt.«
 
 Dann kam aus dem aufgeweichten Pappkarton ein allerliebster
-kleiner Rehpintscher mit großen, runden, klugen
+kleiner Rehpinscher mit großen, runden, klugen
 Äuglein zum Vorschein, schüttelte rasch die wärmende
 Schalbandage ab und war mit einem Satz auf Karl Hocks
 Schoß.
@@ -622,11 +622,11 @@ Hock lachte fröhlich. »Mucki liebt mich!« Er gab ihm
 einen Karbonadenknochen, mit dem Mucki denn auch sofort
 unter dem Sofa verschwand.
 
-»Also war Mucki Ihres Freundes Tomsör Eigentum?«
+»Also war Mucki Ihres Freundes Tomför Eigentum?«
 fragte Harald, wieder Platz nehmend.
 
 »So ist’s, Herr Harst. Ich habe Mucki geerbt, muß ihn
-aber vorläufig bei Sigurd Tomsörs Wirtin lassen, da ich
+aber vorläufig bei Sigurd Tomförs Wirtin lassen, da ich
 zu arm bin, die Steuer zu tragen. Ein Direktor Gußfelder
 möchte ihn gern kaufen, doch — das gibt es nicht.«
 
@@ -638,7 +638,7 @@ nachdem Zelestine Ihnen am Urbanhafen entwischt war?«
 <@pagebreak/>
 das Paket glücklich heraus, Herr Harst. Dann eilte ich nach
 der Französischen Straße zu Frau Winnig. Sie sagte mir,
-daß Zelestine, die ja Tomsör häufiger besucht hat — in allen
+daß Zelestine, die ja Tomför häufiger besucht hat — in allen
 Ehren, von ihr in meinem Auftrag Mucki sich habe aushändigen
 lassen …«
 
@@ -653,13 +653,13 @@ zu Ende.
 Meinte darauf, sich vorbeugend und Hock wieder seltsam
 durchdringend und doch wie geistesabwesend musternd:
 
-»War Tomsör reich?«
+»War Tomför reich?«
 
 »Sehr reich, Herr Harst … Aber er durfte mir nie
 Geld leihen, nie! Dazu bin ich zu stolz. Ich arbeite bis
 fünf nachmittags auf der Germania-Bank in der
 Französischen Straße, und dann besuche ich bis sieben Uhr noch
-zwei Kollegs … — Tomsör hatte mich zum Erben dessen
+zwei Kollegs … — Tomför hatte mich zum Erben dessen
 eingesetzt, was sein …«
 
 »Halt — er hatte ein Testament gemacht? Weshalb
@@ -675,7 +675,7 @@ abergläubisch und … hellsehend, Herr Harst. Als
 Sigurd festgestellt hatte, daß Zelestine ihn … betrog, da
 sagte er zu mir, und das war zwei Tage vor seinem Tode:
 »Ich werde bald sterben, Freund Karl. Sehr bald sogar;
-du sollst das erben, was mein persönliches Eigentum ist.
+Du sollst das erben, was mein persönliches Eigentum ist.
 Ich habe alles bereits schriftlich niedergelegt, und meine
 Eltern werden meine letzten Wünsche erfüllen.« — Näher
 ließ er sich über diese Todesahnungen nicht aus. Er hat
@@ -687,7 +687,7 @@ Harald langte nach einer neuen Mirakulum.
 
 »Ja — ich besinne mich. Ein Verbrechen ist ausgeschlossen.
 Es war Selbstmord. Aber — wo ist denn
-Tomsörs Testament geblieben?«
+Tomförs Testament geblieben?«
 
 »Verschwunden.«
 
@@ -707,7 +707,7 @@ fürchte fast, daß sie annehmen, ich hätte Sigurd zu einem
 lockeren Lebenswandel verführt — gerade ich!!« — Wie
 bitter der arme Kerl das hervorstieß!
 
-»Hatte Tomsör denn sehr wertvollen Schmuck?«
+»Hatte Tomför denn sehr wertvollen Schmuck?«
 
 »Er … handelte mit Edelsteinen, so unter der Hand,
 Herr Harst. Sein Vater ist Juwelier.«
@@ -747,7 +747,7 @@ Würgte.. stöhnte … und erbrach sich …
 Brach Knochensplitter aus, anderes noch …
 
 Und in dem unappetitlichen Gemenge ließ das Licht
-des einen Kronleuchters etwas aufblitzen …
+des sechsarmigen Kronleuchters etwas aufblitzen …
 
 Etwas …
 
@@ -802,7 +802,7 @@ hat ja den Tatbestand …«
 
 »Die Polizei konnte die Wahrheit nicht ahnen, Herr
 Hock,« fiel Harald ihm ins Wort. »Hat Zelestine Drepp
-jemals mit Sigurd Tomsör hypnotische Experimente angestellt?«
+jemals mit Sigurd Tomför hypnotische Experimente angestellt?«
 
 »Nie — nie! Bestimmt nicht!«
 
@@ -958,7 +958,7 @@ Ich mußte die Augen einen Augenblick schließen, mußte
 mich dem Sturme entgegenstemmen, der orkanartig durch
 die Blücherstraße fegte.
 
-Als ich die Augen wieder öffnete, standen drei
+Als ich die Augen wieder öffnete, standen — — drei
 Gestalten neben mir — — drei!
 
 Der neue Ankömmling war ein schlanker Herr im Gehpelz
@@ -969,7 +969,7 @@ soeben aufgetaucht, fragte nun, die etwas zurückweichende
 Dame scharf musternd:
 
 »Die Herrschaften verzeihen … Ich suche hier das
-Haus Nr. 10… Können Sie mir sagen, wo …«
+Haus Nr. 10 … Können Sie mir sagen, wo …«
 
 Harald faßte leicht an den Mützenschirm und meinte:
 
@@ -1007,7 +1007,7 @@ Fuß gekommen, Herr Direktor?«
 
 »Nein. Mein Auto wartet an der Ecke der Ringbahnstraße.«
 
-»Sehr gut. Dann begleiten Sie uns bitte.
+»Sehr gut … — Dann begleiten Sie uns bitte.
 Schraut und ich haben …«
 
 Er schwieg, horchte …
@@ -1238,7 +1238,7 @@ im Flur einen lohenden Haufen von Kisten und Stroh …
 Holte Harst und Gußfelder …
 
 Es war keine Möglichkeit mehr, in die Blockhütte
-einzudringen. Beißender Petroleumdunst schlug uns mit dem
+einzudringen. Beizender Petroleumdunst schlug uns mit dem
 dicken Qualm entgegen. Das Feuer verbreitete sich im Nu
 weiter, hatte schon die Balkenwände erfaßt. —
 
@@ -1301,7 +1301,7 @@ aufdringlicher Schärfe.
 »Wir werden bewacht,« meinte Harald. Dann schloß
 er die Haustür …
 
-Und ich schließe den ersten Teil der Geschichte des
+Und *ich* schließe den ersten Teil der Geschichte des
 Pakets im Urbanhafen. Im zweiten Teil findet man von
 der ersten Zeile an so seltsame weitere Begebnisse, daß ich
 sie dem Leser hier auch nicht einmal anzudeuten vermag …

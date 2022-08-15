@@ -10,7 +10,7 @@
 
 … Vormittags elf Uhr. — Karl Hock und ich saßen
 am Sofatisch beim Frühstück. Harst stand am Schreibtisch,
-den Hörer des Fernsprechers am Ohr.
+den Hörer des Fernsprechers am Ohr …
 
 »Gußfelder ist krank,« sagte er und legte den Hörer
 auf die Stützen zurück. »Er klagt über Schmerzen in allen
@@ -37,7 +37,7 @@ Harst lauschte, fügte hinzu:
 
 »Besuch! Und zwar Thea von Perwart, die einzige
 <@pagebreak/>
-Erbin der Perwart’schen Kohlengruben, die reichste junge
+Erbin der Perwartschen Kohlengruben, die reichste junge
 Dame Deutschlands, Waise wie Sie, lieber Hock, Besitzerin
 des Perwart-Palais in der Erlenstraße im Tiergartenviertel …«
 
@@ -64,9 +64,9 @@ einen mit Maschine geschriebenen Brief geschickt — noch nie!«
 Und sie reichte Harald Umschlag und Brief, der folgenden
 Inhalt hatte:
 
-> Fräulein Thea von Perwart.
+<p class="centered">Fräulein Thea von Perwart,</p>
 
-> Erlenstraße 16.
+<p class="right">Erlenstraße 16.</p>
 
 > Zu meinem Bedauern muß ich die Verlobung mit
 Ihnen lösen, da ich eingesehen habe, daß Sie mir nicht
@@ -161,7 +161,7 @@ die Verbrecherwelt hat vor ihm einen heillosen Respekt. —
 Heinz Vogler saß im Klubsessel und streckte die Beine
 behaglich von sich. Harst hatte ihm in aller Kürze die
 Geschehnisse der Nacht mitgeteilt, ebenso seinen Verdacht,
-daß der schwedische Student Sigurd Tomsör ermordet worden
+daß der schwedische Student Sigurd Tomför ermordet worden
 sei.
 
 »Das vermuten wir längst, können es aber nicht beweisen,
@@ -169,7 +169,7 @@ lieber Herr Harst,« warf Vogler ein. »Wir lassen
 die Drepp beobachten, haben jedoch nichts irgendwie Belastendes
 ermitteln können. Was nun Gußfelders Doppelgänger
 betrifft: ich glaube nicht an diesen Doppelgänger!
-Niemals. Selbst nicht nach den Bekundungen des Herrn
+Niemals! Selbst nicht nach den Bekundungen des Herrn
 Hock. Ganz unter uns: Gußfelder ist ein Abenteurer!
 Schon seine Behauptung, er habe sein großes Vermögen
 als Digger, als Goldgräber, in Australien erworben, klingt
@@ -202,17 +202,17 @@ Sie damit noch bis morgen früh, Doktor. Bis dahin hoffe
 ich Ihnen folgendes beweisen zu können: Erstens — daß
 der Doppelgänger existiert. Zweitens — daß dieser Doppelgänger
 Anführer der großen Diamantenschieberbande ist.
-Drittens — daß Sigurd Tomsör erschossen wurde. Und
+Drittens — daß Sigurd Tomför erschossen wurde. Und
 viertens — —, ja, was ich als Punkt vier beweisen werde,
 will ich vorläufig noch für mich behalten.«
 
 Dr. Vogler war einverstanden. »Gut — bis morgen
-Mittag unternehme ich nichts, bester Harst. Dann aber —
+mittag unternehme ich nichts, bester Harst. Dann aber —
 klappt die Falle zu!«
 
 Gleich darauf waren wir allein. Auch Karlchen Hock
 verabschiedete sich, da er seinen Umzug bewerkstelligen wollte.
-Er nahm Mucki mit, weil der reizende Pintscher ein wenig
+Er nahm Mucki mit, weil der reizende Pinscher ein wenig
 Bewegung haben mußte.
 
 Nun waren Harald und ich ganz unter uns. Nun
@@ -255,7 +255,7 @@ sehen, die mir stark nach Spionen aussehen.«
 Kurz vor ein Uhr nachmittags waren wir an Ort
 und Stelle. Der in der Nacht gefallene Schnee war größtenteils
 schon wieder unter den Strahlen der vom fast julimäßig
-blauen Himmel herabstürzenden Sonne dahingeschwunden.
+blauen Himmel herabglänzenden Sonne dahingeschwunden.
 
 Von den Resten der Balken des Blockhauses war nur
 noch sehr wenig übrig. Holzgierige Leute hatten wohl schon
@@ -270,7 +270,7 @@ Nähe. Der Platz lag wie ausgestorben da.
 Nein — doch nicht ganz einsam …
 
 Ein junger, ärmlich gekleideter Bursche mit schmieriger
-Ballonmütze durchwühlte die Brandstätte mit einen Stock
+Ballonmütze durchwühlte die Brandstätte mit einem Stock
 und steckte gelegentlich etwas in einen Sack, den er über dem
 Rücken trug.
 
@@ -279,7 +279,7 @@ und stets hinter Bäumen Deckung genommen hatten, waren
 wir von dem jungen Menschen noch nicht bemerkt worden.
 
 Harald winkte mir. »Bleib’ stehen,« sagte er leise.
-»Weißt du, wer der »Altertumsforscher« dort ist?« (So
+»Weißt Du, wer der »Altertumsforscher« dort ist?« (So
 nennt der Berliner scherzend die Leute, die in den
 Müllbergen nach noch leidlich brauchbaren Dingen suchen.)
 
@@ -361,7 +361,7 @@ wichtigste. Sieh Dir mal da die Aufschriften an …«
 
 Ich entzifferte mühelos:
 
-> Ollins, Sydn., Austrl. 102
+> Olkins, Sydn., Austrl. 102
 
 auf der einen, und auf der anderen dasselbe, nur statt 102
 stand da 103. Außerdem war noch über diesem Farbstempel
@@ -376,11 +376,11 @@ Blaustift flüchtig hingemalt.
 mich rasch nach links vor die nördliche Kellerwand schob.
 
 Hier gab es denn auch eine tadellos versteckt angelegte
-Tür in dem Gebälk, deren Schloß, jedoch nur eingeklinkt
-war. — Harst hob den Klinkenriegel, und stieß die Balkentür
+Tür in dem Gebälk, deren Schloß jedoch nur eingeklinkt
+war. — Harst hob den Klinkenriegel und stieß die Balkentür
 auf. Dahinter … Finsternis …
 
-Finsternis…, Balkenwände … Ein enger Gang —
+Finsternis … Balkenwände … Ein enger Gang —
 geradeaus laufend, muffig, eisig, faulendes, nasses Laub als
 Streu auf den roh behauenen Dielen …
 
@@ -489,14 +489,14 @@ uns nur einen dumpfen Knall gehört, bevor die Erde durch
 die Explosion zu bersten drohte.
 
 »Du schaust blaß darein, mein Alter,« lächelte Harald
-gutmütig. »Schade, das wir keinen Kognak dahaben.«
+gutmütig. »Schade, daß wir keinen Kognak dahaben.«
 
 Dann beobachtete er durch die dichten jungen Tannenreihen
 der Schonung die Brandstätte, von der nur wenig
 zu bemerken war.
 
 Und rief: »Ah — Zelestine verschwindet gemächlich
-Richtung Bahnhof Eichkamp …!: Sie glaubt, wir seien
+Richtung Bahnhof Eichkamp …! Sie glaubt, wir seien
 nun erledigt. Sie wird sich wundern — sehr wundern!«
 
 Und er drückte mich näher an die Eiche heran, war
@@ -518,14 +518,14 @@ Granatsplitter überall in den Balken stecken, fanden von Tisch
 und Stühlen nur noch Trümmer, den Ofen zerstört, die
 Tür nach dem Gang hin aus den Angeln geflogen.
 
-Wir wären hier also fraglos in Atome zerlegt worden,
+Wir wären hier also fraglos in Atome zerfetzt worden,
 und ob man je entdeckt hätte, wo Harst und Schraut geblieben,
 möchte ich bezweifeln.
 
 Harald sagte gar nichts — schritt in den Gang hinein
 — bis zu den beiden Patentkisten hin.
 
-»Betrachte die blauen Buchstaben,« bat er.
+»Beleuchte die blauen Buchstaben,« bat er.
 
 Dann schrieb er sie ab.
 
@@ -550,7 +550,7 @@ den Dienst, und wir waren Alleinherrscher in seiner
 Zweizimmerwohnung.
 
 Harald, ausnahmsweise eine Zigarre qualmend, grübelte
-über den blauen Buchstaben, saß in der Sofaecke, und
+über den blauen Buchstaben, saß in der Sofaecke und
 rief schließlich:
 
 »Nicht leicht — — nicht leicht!!« —
@@ -559,8 +559,8 @@ Hier sind die Buchstaben. Zunächst die der oberen
 Kiste:
 
 <div class="center pre">
-ELLA S ZREV I NEHE K EFUA B
-UBIE R
+ELLA&nbsp;S&nbsp;ZREV&nbsp;I&nbsp;NEHE&nbsp;K&nbsp;EFUA&nbsp;B
+UBIE&nbsp;R
 </div>
 
 Ich lade den Leser freundlichst ein, diesen ersten Teil
@@ -624,10 +624,10 @@ unter diesen weißen Brauen wandte sich mir zu.
 
 »Jefunden — vor zwee Jahre,« erklärte ich.
 
-Er schüttelte den Kopf. »So was mach ich nich. Da
+Er schüttelte den Kopf. »So was mach’ ich nich. Da
 — gehn Se man wieder …«
 
-Ich blieb. »Ich wollt ein Medaillon kaufen für meine
+Ich blieb. »Ich wollt’ ein Medaillon kaufen für meine
 Braut,« sagte ich vereinbarungsgemäß.
 
 <@pagebreak/>
@@ -668,7 +668,7 @@ Da schwieg er. Er hatte fraglos sagen wollen: »… mit
 Jetzt — — hatten *wir* ihn!!
 
 Jetzt sagte Harald grinsend: »Mensch, det Medaillonjeschäft
-mit det Mäjen hätt’s de ooch schlauer drehn kenn’n
+mit det Mäjen hätt’s de ooch schlauer drehn kenn’n,
 Du! Da war mehr zu vadienen, Du!«
 
 Nathan unterlag Harstscher Gerissenheit.
@@ -682,7 +682,7 @@ hastig.
 
 »Na — tu man nich so, Nathan!! Det ist doch die
 <@pagebreak/>
-Freindin von den Austral-Josef. Du, — von ’n Josef
+Freindin von den Austral-Josef, Du, — von ’n Josef
 Bennarara, Du!«
 
 Burky hüstelte …
@@ -755,7 +755,7 @@ Auto an. — »Krokodil-Bar, Augsburger,« befahl er.
 
 Im Auto lehnte er sich an mich. »Nun wird Zelestinchen
 ihr güldenes Herzchen hergeben müssen,« meinte er.
-»Armes Zelestinchen! Du wirst diese Nacht in einer Polizeistelle
+»Armes Zelestinchen! Du wirst diese Nacht in einer Polizeizelle
 zubringen!«
 
 Dann schrieb er rasch ein paar Zeilen für den langen
@@ -778,7 +778,7 @@ Medaillon.
 Harst hopste auf den hohen Stuhl, schob den Hut ins
 Genick.
 
-»Also — da san wir Frailain … Nu wird’s gemietlich,
+»Also — da san wir, Frailain … Nu wird’s gemietlich,
 Frailain … A Sekt wollen wir … Und a
 Weaner Walzer …«
 
@@ -855,25 +855,25 @@ die Edelsteine …«
 
 Wieder war sie leichenblaß geworden.
 
-»… die Edelsteine, die dem Studenten Sigurd Tomsör
+»… die Edelsteine, die dem Studenten Sigurd Tomför
 gehört hatten, für immer verschwinden lassen … — Hat
-Bennarara Tomsör ermordet?«
+Bennarara Tomför ermordet?«
 
 »… Ja …« Nur gehaucht, das Ja, nur angedeutet …
 
-»Haben Sie Tomsör mit Bennarara bekannt gemacht?«
+»Haben Sie Tomför mit Bennarara bekannt gemacht?«
 
 Sie begann zu zittern. Ihr Unterkiefer flog. Ein
 Nervenschock drohte. Vogler reichte ihr rasch Kognak.
 
-Dann beichtete sie: Bennarara hatte Tomsör wiederholt
+Dann beichtete sie: Bennarara hatte Tomför wiederholt
 hypnotisiert, hatte ihm schließlich ohne ihr Wissen in der
 Hypnose den Befehl gegeben, sich dann und dann zu erschießen.
 Diesem sogenannten posthypnotischen Befehl war
 der Student auch wirklich nachgekommen, übrigens eine unheilvolle
 Wirkung suggestiver Art, deren Möglichkeit viel umstritten
 ist. — Bennarara hatte dann durch Zelestine die
-Diamanten aus dem Versteck abholen lassen, wo Tomsör sie
+Diamanten aus dem Versteck abholen lassen, wo Tomför sie
 verborgen gehabt hatte, weil er in seiner Wohnung nicht
 solche Werte unterbringen mochte. Noch hatte Zelestine die
 Wahrheit nicht geahnt. Erst eine Bemerkung Bennararas
@@ -923,7 +923,7 @@ werde mir’s daheim ansehen.«
 
 Dann klopfte er gemächlich den Tabak in einer Zigarette
 fest, setzte sie in Brand und fügte hinzu: »Ich wollte bis
-morgen mittag vielerlei beweisen, Vogler, — besinnen Sie
+morgen mittag viererlei beweisen, Vogler, — besinnen Sie
 sich. Dreierlei ist bewiesen.«
 
 »So?!«
@@ -1029,8 +1029,8 @@ Astgabel, die rings durch die herüberragenden Zweige von
 Tannen geschützt war, ein großer schwarzer Klumpen
 Strauchwerk: ein liederlich gebautes Krähennest!
 
-Vogler wollte in seinem Eifer sofort nach oben turnen,
-aber Harald hielt ihn zurück.
+Vogler wollte in seinem Eifer sofort nach oben turnen.
+Aber Harald hielt ihn zurück.
 
 »Man kann nie wissen, Freund Vogler …!! Das
 Nest kann auch andere Dinge enthalten!«
@@ -1049,7 +1049,7 @@ Moos weg und — erhob sich plötzlich …
 
 »Ich gebe zu, daß ich mich geirrt habe,« meinte er.
 »Bitte, entfernen Sie drei sich eine Strecke … Stellen Sie
-sich am besten dort hinter jene Buche … — so gehen Sie
+sich am besten dort hinter jene Buche … — So gehen Sie
 doch! Und — — erschrecken Sie nicht!«
 
 Wir drei entfernten uns zögernd …
@@ -1123,11 +1123,11 @@ herab, die mit einer Schnur von einer nahen Linde aus sich
 wieder nach unten ziehen ließ.
 
 Vogler und ich kamen gar nicht dazu, irgend etwas zu
-fragen: — Harst brachte die Tür wieder in Ordnung, sagte
+fragen. — Harst brachte die Tür wieder in Ordnung, sagte
 zu dem Diener: »Sie schweigen darüber, daß wir hier gewesen
-sind — auch ihrem Herrn gegenüber, verstanden!«
+sind — auch Ihrem Herrn gegenüber, verstanden!«
 
-Der Mann war völlig verdattert vor Überraschung.
+Der Mann war völlig vertattert vor Überraschung.
 
 »Ich … ich gehorche,« stammelte er.
 
@@ -1248,18 +1248,17 @@ einen solchen Brief schreiben — mit Maschine, selbst die
 Namensunterschrift?! Und Fräulein von Perwart hatte
 noch nie von ihrem Verlobten einen getippten Brief erhalten,
 betonte sie. — So entstand der erste Verdacht. So
-kam eins zum anderen. — In übrigen bin ich recht gespannt,
+kam eins zum anderen. — Im übrigen bin ich recht gespannt,
 was Gußfelder uns über seine australischen Abenteuer erzählen
 <@pagebreak/>
 wird. — Gute Nacht … Wir haben den Schlaf
 verdient.« —
 
-Was Gußfelder erzählte, gehört nicht mehr hierher.
+*Was* Gußfelder erzählte, gehört nicht mehr hierher.
 Ich bringe es zu Anfang des nächsten Bandes, der uns
 dem Leser als … Australienforscher vorstellt.
 
+<#import "*/harst.ftl" as harst>
 
-Nächster Band:
-
-__Der unheimliche Mieter.__
+<@harst.naechsterband band="Der unheimliche Mieter."/>
 
