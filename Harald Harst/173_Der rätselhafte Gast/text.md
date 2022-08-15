@@ -479,7 +479,7 @@ jener leichten Ironie, die er leider nur zu häufig bereit hat.
 »Und wenn du wie ich die Zeitungen genau lesen würdest,
 hättest du in der Voranzeige der Luna-Attraktionen auch
 <@pagebreak/>
-»Schäfers Zwergenheim» gefunden … — Ich, denke also, es
+»Schäfers Zwergenheim« gefunden … — Ich, denke also, es
 lohnt schon, dort hinauszufahren …«
 
 Wir fuhren … Straßenbahn bis zum Henriettenplatz in
@@ -665,93 +665,96 @@ bleiben wollten, glaube ich gleichfalls ohne weiteres
 
 <h2>3. Kapitel.</h2>
 
-<h3>In Harsts Arbeitszimmer … ck.</h3>
-Ah Die Fenster weit offen … Draußen Frühlingssonnon-
+In Harsts Arbeitszimmer …
 
-ein …
+Die Fenster weit offen … Draußen Frühlingssonnenschein
+…
 
 Siegfried Orlik im Klubsessel … Beinahe darin versinkend
 …
 
 Und leise erzählend:
 
-»um 11. März hatte ich abends in Wannsee zu tun …
+»Am 11. März hatte ich abends in Wannsee zu tun …
 Ich bin, wie Sie wissen, Zauberkünstler … Ein Verein in
 Wannsee hatte mich für diesen Abend engagiert … Das
-Wetter war schön, und so fuhr ich schon mittags machte Wannsee
-und schlenderte noM2M durch&ch den Wald … Ich hatte in den
-Zeitungen von dem rätselhaften Gast gelesen und b-. ckb
-mich dabei in den Teil des Waldes, der der Insel Shwaney1-werder
+Wetter war schön, und so fuhr ich schon mittags nach Wannsee
+und schlenderte noch durch den Wald … Ich hatte in den
+Zeitungen von dem rätselhaften Gast gelesen und begab
+mich dabei in den Teil des Waldes, der der Insel Schwanenwerder
 <@pagebreak/>
 gegenüberliegt: Dort sollte ja die Kiefer stehen,
 die Fritz Schmidt erklettert hatte, und dort am Ufer hatte
 ihn der Kellner beobachtet und dort war auch das Kanu
-gefunden worden. Außer mir trieben sie) von andere neue
-gierige dort umher … Und da unsereiner ja überall …
-angesichts wird — die Mengen sind so sehr rüjichtglos! =,
+gefunden worden. Außer mir trieben sich noch andere Neugierige
+dort umher … Und da unsereiner ja überall …
+angeglotzt wird — die Mengen sind so sehr rücksichtslos! —,
 wandte ich mich sehr bald den tieferen Teilen des Waldes zu
 und bummelte ziellos umher, bis ich an eine Schonung gelangte,
-wo bereits als sonniger Stelle Anemonen blühten …«
+wo bereits an sonniger Stelle Anemonen blühten …«
+
 »Und dieser Anemonen wegen drangen Sie in die Schonung
-ein,« huschte Harald dem Tempo des Erzählers nachzuhelfen
+ein,« suchte Harald dem Tempo des Erzählers nachzuhelfen
 …
 
 Siegfried Orlik schüttelte den Kopf …
 
-»Nein, Herr Harst … Das heißt: eigentlich das der
-Anemonen. wegen … Denn mir fiel auf, daß da auf einem
+»Nein, Herr Harst … Das heißt: eigentlich doch der
+Anemonen wegen … Denn mir fiel auf, daß da auf einem
 flachen, kleinen Hügel, der mit Moos sauber bedeckt war,
-mitten in dem Moose zwei bereits verwelkte Anemonen«-
-Sträußchen steckten … Der Zügel glitt eben einem bescheidenen
+mitten in dem Moose zwei bereits verwelkte Anemonensträuschen
+steckten … Der Hügel glich eben einem bescheidenen
 Kindergrabe …«
 
-»Und — sie gruben mit den Händen na und fanden …«
+»Und — sie gruben mit den Händen nach und fanden …«
 
-»’— den Kopf, nur den Kopf, Herr Harst … eingenickt
-in ein Brütet Lederjacke … — Sie können sich wohl
+»… den Kopf, nur den Kopf, Herr Harst … Eingewickelt
+in ein Stück Lederjacke … — Sie können sich wohl
 mein Entsetzen vorstellen, als …«
 
 »Gewiß, gewiß … Und Sie vermuteten sofort, daß dieser
 Kopf der des rätselhaften Gastes sein müsse …«
 
-»Nichts nur vermuten, Herr Harst … Ich wußte es
-ganz bestimmt … He wußte es deshalb bestimmt, weil der
-Leine Hügel vor« eine Säiefertafel enthielt, die mit in die
-Hälst?! der Lederjacke eingewickelt war … Auf der Tafel stand
+»Nicht nur vermuten, Herr Harst … Ich wußte es
+ganz bestimmt … Ich wußte es deshalb bestimmt, weil der
+kleine Hügel noch eine Schiefertafel enthielt, die mit in die
+Hälfte der Lederjacke eingewickelt war … Auf der Tafel stand
 mit einem Griffel in lateinischen Buchstaben:
 
-Fritz Schmidt,
-» verunglückt am 9. März 19 …
-Ruhe sanft
+<p class="centered pre"><em>Fritz Schmidt</em>,
+verunglückt am 9. März 19…
+Ruhe sanft</p>
+
 Ja — so stand auf der Tafel …«
-Harald und ich schauten uns verblüff: an …
+
+Harald und ich schauten uns verblüfft an …
 
 <@pagebreak/>
 Dieses Geheimnis wurde immer dunkler …
 
 »Haben Sie die Tafel noch?« fragte Harst den Kleinen,
-der sehr sehr nervös auf dem Sessel hin und her rutschte …
+der jetzt sehr nervös auf dem Sessel hin und her rutschte …
 
 »Ja und nein, — denn ich habe die Tafel in eine Zeitung
-gewischt und sie in den Hügel zurückgelegt … Den Kopf
+gewickelt und sie in den Hügel zurückgelegt … Den Kopf
 und das Jackenstück nahm ich mit, um beides sofort bei der
 Polizei in Wannsee abzugeben … Aber unterwegs im
-Walde merke ihm, daß in der Tasche, die mit zu dem
+Walde merke ich, daß in der Tasche, die mit zu dem
 Lederstück gehörte, etwas Schweres steckte. Ich faßte hinein
 und … holte …«
 
-Er ’zauderte …
+Er zauderte …
 
 schaute zu Boden …
 
 Seufzte … fuhr fort:
 
-»Ah, Herr Harst, die Verführung war so sehr groß …
-Ich … habe lange mit mir gekämpft, ehe icm …«
+»Ach, Herr Harst, die Verführung war so sehr groß …
+Ich … habe lange mit mir gekämpft, ehe ich …«
 
-»Nun ja, — = und was fanden Sie in der Tasche?«
+»Nun ja, — — und was fanden Sie in der Tasche?«
 
-Siegfried Orlik druckste und drückte …
+Siegfried Orlik druckste und druckste …
 
 Das Geständnis wurde ihm sehr schwer …
 
@@ -759,23 +762,23 @@ Das Geständnis wurde ihm sehr schwer …
 
 »Mit Geld?«
 
-»Ja — mit goldenen sachlichen Pfundmünzen …«
+»Ja — mit goldenen englischen Pfundmünzen …«
 
 »Wieviel?«
 
-»Für 10000 Mark …«
+»Für 10&nbsp;000 Mark …«
 
 »So … so … — Und den Beutel haben Sie behalten?«
 
 »Nein, bewahre!!« Der Kleine war tief empört. »Nein,
-im habe ihn zu der Schiefertafel gelegt, nachdem ich mir eine
+ich habe ihn zu der Schiefertafel gelegt, nachdem ich mir eine
 der Münzen geliehen hatte, eine einzige nur …! Bei Gott,
+Herr Harst, das ist die Wahrheit … Nur eine einzige …«
 
-Herr Harst, das ist! die Wahrheit … Nur eine einzige …«
-»Ich) glaube Ihnen ja … Sie waren eben schlecht bei
-Rasse, und …
+»Ich glaube Ihnen ja … Sie waren eben schlecht bei
+Kasse, und …«
 
-Orlik … « weinte mit einem Male …
+Orlik … weinte mit einem Male …
 
 Die Reue packte ihn …
 
@@ -783,71 +786,70 @@ Eigentlich wirkte er jetzt unglaublich komisch … Dieses
 tränenüberströmte Greisengesicht, dazu der winzige Körper
 in dem großem Klubsessel: ein Bild für ein Witzblatt!
 
-Lord doch): wenn ich jemals gefühlt hatte, daß menschliche
+Und doch: wenn ich jemals gefühlt hatte, daß menschliche
 <@pagebreak/>
 Phantasie nicht hinreicht, Geschehnisse zu erfinden wie die
 Wirklichkeit das Leben sie kunterbunt aneinanderreiht, dann
-war es hie, wo dieser Gnom mit dem uralten Antlitz uns
-das Rätsel des Gastes nachts rätselvoller durch seine Angaben
-bestattet hatte!
+war es hier, wo dieser Gnom mit dem uralten Antlitz uns
+das Rätsel des Gastes noch rätselvoller durch seine Angaben
+gestaltet hatte!
 
-Nein, mir war nicht im entferntesten naß Lachen genannte!
-Hm Gegenteil: die unfreiwillige Komik des weinenden
-Zwerges verstärkte nur noch? durch ihren Kontrast zu dem
-grauenvollen Geheimnis den eintrat, daß wir es diesmal
+Nein, mir war nicht im entferntesten nach Lachen zumute!
+Im Gegenteil: die unfreiwillige Komik des weinenden
+Zwerges verstärkte nur noch durch ihren Kontrast zu dem
+grauenvollen Geheimnis den Eindruck, daß wir es diesmal
 mit einem Problem zu tun hatten, wie es uns verworrener,
 vielgestaltiger und dadurch interessanter kaum je geboten war!
 
 Man denke: ein begrabener Frauenkopf, Blumen auf
 dem Grabe, im Grabe eine Schiefertafel mit einer Inschrift
-— — und in der Tasche des Lederjackenstücks 10000 Mark
+— — und in der Tasche des Lederjackenstücks 10&nbsp;000 Mark
 in Gold!!
 
 Man füge dies zu alledem, was der Zeitungsbericht besagte,
 und man wird mir recht geben: ein Problem, aus
-Widersprüchen, aus phantastiscmen Einzelheiten zusammengesetzt
-— = ein Chaos von Tatsachen, die scheinbar Chaos
+Widersprüchen, aus phantastischen Einzelheiten zusammengesetzt
+— — ein Chaos von Tatsachen, die scheinbar Chaos
 bleiben mußten!
 
 Scheinbar!
 
-Über — es gibt eben einen Harald Harst, und wie dieser
-Harald das Chaos ordnete und mit zwingender Logik zu eilen
+Aber — es gibt eben einen Harald Harst, und wie dieser
+Harald das Chaos ordnete und mit zwingender Logik zu einem
 Übersichtlichen Ganzen zusammenschweißte, das erfährt der
-Leser in den folgenden Seiten, nachdem er bereits gIes’hen,
+Leser in den folgenden Seiten, nachdem er bereits gesehen,
 auf welche Weise Harst unseren kleinen Orlik herausfand.
 
-Dieser kleine, von Neue gepackte, weinende O:bis faßte
-nun in die linke Westentasche, suchte lange darin ums??« und
-brachte endlich aus dem hinter der Westenlkante … die eine
-Goldmünze zum Vorschein, die er dem Beutel eatiüviimen
-hatte …-.
+Dieser kleine, von Reue gepackte, weinende Orlik faßte
+nun in die linke Westentasche, suchte lange darin umher und
+brachte endlich aus dem Futter der Westenkante … die eine
+Goldmünze zum Vorschein, die er dem Beutel entnommen
+hatte …
 
 »Hier ist sie, Herr Harst,« schluchzte er … »Ich habe
-nicht den Mut gehabt. sie zu wechseln … sie zu … verbrauchen
-… Nehmen Sie sie, Herr Ha « — — bitte, bitte
-
+nicht den Mut gehabt, sie zu wechseln … sie zu … verbrauchen
+… Nehmen Sie sie, Herr Harst — — bitte, bitte
 … Dann … bin ich kein Leichenfledderer mehr … dann
 bin ich wieder ehrlich wie zuvor …«
 
 <@pagebreak/>
-Harst stete die Münze zu sie) und gab Orlik die Hand,
+Harst steckte die Münze zu sich und gab Orlik die Hand,
 
-»Seien Sie nicht töricht, meinte er herzlich. »Ihr sei
-Ringes Vergehen wird niemand erfahren …! — Können. Sie
+»Seien Sie nicht töricht, meinte er herzlich. »Ihr geringes
+Vergehen wird niemand erfahren …! — Können Sie
 uns genau beschreiben, wo das kleine Grab zu suchen ist?«
 
 Das konnte Siegfried …
 
 Und nachdem Harald ihm noch fünfzig Mark »geliehen«
-hatte, 309g der Kleine strahlend ab.
+hatte, zog der Kleine strahlend ab.
 
 Wir beide aßen dann Mittag. Mathilde brummte,
-weil der Praktisch); aufgewärmt werden mußte … Auf der
+weil der Bratfisch aufgewärmt werden mußte … Auf der
 Veranda aßen wir und erzählten nun Haralds Mutter alles,
-was den Kopf kriegt Schmidts betraf …
+was den Kopf Fritzi Schmidts betraf …
 
-Frau Auguste Harst konnte nur immer wieder den« Kopf
+Frau Auguste Harst konnte nur immer wieder den Kopf
 schütteln …
 
 »Glaubst du, daß die Frau oder das Mädchen wirklich
@@ -857,65 +859,65 @@ Und er antwortete zu meinem nicht geringen Erstaunen:
 
 »Ja, sie ist verunglückt …«
 
-Da meinte im achselzuFend:
+Da meinte im achselzuckend:
 
 »Gestatte: und wer hat ihr den Kopf abgeschnitten? Wo
-ist der Rumpf geblieben?!
+ist der Rumpf geblieben?!«
 
-Er lehnte sich) Zuruf …
+Er lehnte sich zurück …
 
 »Lieber Alter, das Rätsel des Todes dieser Person ist
 weit einfacher zu lösen als das ihrer Besuche im Schwedischen
-Pavillon … Ich werde dir hoffentlich 10M? heute den Namen
-des Mörders nennen können«…«
+Pavillon … Ich werde dir hoffentlich noch heute den Namen
+des Mörders nennen können …«
 
-»Trockene?! Du sprachst Dom soeben von einem Unglücksfall!«
+»Mörders?! Du sprachst doch soeben von einem Unglücksfall!«
 
-»Allerdings … Und da gibt es hier einen Mörder … —
-So, jetzt wollen wir unsere Arbeit wieder aufnehmen. See
-segnete Mahlzeit, liebe Mutter … Vielleicht sehen wir uns
+»Allerdings … Und doch gibt es hier einen Mörder … —
+So, jetzt wollen wir unsere Arbeit wieder aufnehmen. Gesegnete
+Mahlzeit, liebe Mutter … Vielleicht sehen wir uns
 ein paar Tage nicht. Schraut und ich werden als Ausländer
 in Wannsee zur Erholung Wohnung nehmen.«
 
 — Nachmittags drei Uhr mieteten sich zwei Amerikaner
-im Schwedisch)en Pavillon ein …
+im Schwedischen Pavillon ein …
 
 Zwei ältere Herren, die von hier aus die Umgebung
-durch wandern wollen, wie sie in gebrochenem Deutsch befanden
+durchwandern wollen, wie sie in gebrochenem Deutsch betonten
 <@pagebreak/>
-… Zwei Reihe Globetrotter anscheinend, die es Tore
-zogen, ihre eigenen Wege zu gehen.
+… Zwei reiche Globetrotter anscheinend, die es vorzogen,
+ihre eigenen Wege zu gehen.
 
 Diese Globetrotter tranken Kaffee und machten dann einen
 Spaziergang …
 
-Rad) der Schonung zunächst …
+Nach der Schonung zunächst …
 
 Es war noch hell genug, und wir fanden den Platz
-ohne Mühe …« fanden alles so, wie Orlik es beschrieben
+ohne Mühe … fanden alles so, wie Orlik es beschrieben
 hatte …
 
-Mit einem ganz eigenartigen Gefühl schaute im den
+Mit einem ganz eigenartigen Gefühl schaute ich den
 kleinen unauffälligen Hügel an … Ein Grab — und doch
 kein Grab …
 
 Wer mochte die Anemonensträuße gepflückt, wer den Hügel
-mit gumünen MooSFpolstern belegt haben? Wer hatte überhaupt
+mit grünen Moospolstern belegt haben? Wer hatte überhaupt
 den Kopf hierher gebracht?! —
 
 Harald bat mich, jetzt am Rande der Schonung Wache
 zu halten …
 
-»Ich) will mir die Schiefertafel und den Geldbeutel genauer
-ansehen und beides mitnehmen, mein Alter … &E8 sind
+»Ich will mir die Schiefertafel und den Geldbeutel genauer
+ansehen und beides mitnehmen, mein Alter … Es sind
 wichtige Beweisstücke, die wir nicht hier dem blinden Zufall
-des Gesundenwerdens überlassen können … — Orlik hat den
+des Gefundenwerdens überlassen können … — Orlik hat den
 Hügel wieder sehr sauber in Ordnung gebracht … Ich glaube
 kaum, daß inzwischen jemand hier gewesen ist …«
 
-So bezog im denn meinen Wachtposten …
+So bezog ich denn meinen Wachtposten …
 
-Die Dämmerung brach) bereits herein …
+Die Dämmerung brach bereits herein …
 
 In den Tiefen des Forstes lagerte Halbdunkel …
 
@@ -924,19 +926,19 @@ sehr bald fertig …
 
 Gerade als er aus der Schonung heraustrat, gerade als
 er mir leise zurief: »alles erledigt!« — gerade da war es
-mir; als ob weit links zwischen den Kiefern eine Gestalt von
+mir, als ob weit links zwischen den Kiefern eine Gestalt von
 Baum zu Baum huschte …
 
-Ich war mir meiner Sache jedoch Sicht ganz sicher und
+Ich war mir meiner Sache jedoch nicht ganz sicher und
 schwieg daher.
 
 Wir kehrten in den Schwedischen Pavillon und in unsere
 Zimmer zurück.
 
-Harst hängte ans Vorsicht ein TaschentuF; Über das,
+Harst hängte aus Vorsicht ein Taschentuch Über das
 <@pagebreak/>
 Schlüsselloch der Flurtür unseres gemeinsamen Wohnzimmers
-und riegelte auch ab. Dann setzten wir uns an den sprang;)
+und riegelte auch ab. Dann setzten wir uns an den Sofatisch
 und prüften die beiden Gegenstände, den großen, prall
 mit Goldmünzen gefüllten starken Leinenbeutel und die einfache
 Schiefertafel.
@@ -952,12 +954,12 @@ hellgelb lackiertem Holzrand — eine Tafel für kleine ABC-Schützen.
 
 Die Inschrift stimmte.
 
-Wichtig war die Schrift — lateinisch, mit einigen Schrotkorn
-— wie gedrückt.
+Wichtig war die Schrift — lateinisch, mit einigen Schnörkeln
+— wie gedruckt.
 
-Harst zarte die Achseln …
+Harst zuckte die Achseln …
 
-»Das alles macht uns nicht Flügels«
+»Das alles macht uns nicht klüger!«
 
 Und er schloß Beutel und Tafel in seinen Handkoffer ein.
 
@@ -966,7 +968,7 @@ Dann läutete er.
 Ein junger Kellner erschien und brachte uns die Speisekarte.
 
 Wir wählten aus, bestellten, und der Kellner wollte die
-Speisekarte wieder mitnehmen
+Speisekarte wieder mitnehmen …
 
 »Nein, wir vielleicht ihr noch brauchen, weil mehr essen,«
 meinte der Amerikaner Howard Hasting …
@@ -978,8 +980,8 @@ ich):
 
 »Bitte, sieh’ dir mal die Karte an!’«
 
-wenn, Mr. Hasting=Harst in Sold)ein Tone etwas sagte,
-tat Mr. Maxwell stets gut, die Augen aufzusperren »7
+wenn, Mr. Hasting-Harst in solchem Tone etwas sagte,
+tat Mr. Maxwell stets gut, die Augen aufzusperren …
 
 Ich schaute mir also die Karte an …
 
@@ -988,19 +990,19 @@ Zunächst fiel mir nichts auf …
 Dann aber stutzte ich …
 
 <@pagebreak/>
-Die Karte war lila hektographiert. Der, der das Original
+Die Karte war lila hektographiert<@refnote/>. Der, der das Original
 geschrieben, hatte eine Handschrift wie gedruckt …
 
 Und — diese lateinische Buchstaben hier hatten mit ihren
-schönen Ehnörfeln eine verblüffende Ähnlichkeit! mit der
-Safelinschrist …-…
+schönen Schnörkeln eine verblüffende Ähnlichkeit mit der
+Tafelinschrift …
 
 Verblüffend!!
 
 »Donnerwetter,« meinte ich, »mir scheint, wir haben den
 Totengräber gefunden!!«
 
-»Das haben wir …! Der Mann gehört das wahrscheinlich
+»Das haben wir …! Der Mann gehört doch wahrscheinlich
 hier zum Schwedischen Pavillon! Vielleicht einer der
 Kellner … Vielleicht gar derselbe Kellner, der Herrn Fritz
 Schmidt nachspionierte … vielleicht …« —
@@ -1010,45 +1012,45 @@ Zehn Minuten drauf wurde uns das Abendessen serviert.
 Mr. Hasting fragte dabei den jungen Kellner, der sehr
 gewandt war und ein frisches angenehmes Gesicht hatte:
 
-»Tochter Sie mir sagen, wo werden gebeugt Ihre Speisekarten?
+»Wollen Sie mir sagen, wo werden gedruckt Ihre Speisekarten?
 Ich will dort lassen drucken mir Besuchskarten …
-Diese heutigen mir gefallen …«
+Diese Drucktypen mir gefallen …«
 
 Der Kellner dienerte lächelnd …
 
-»Die Speisekarte ist nur hektographiert, Mr.  Betrug —
-Die Originalkarte für die Abzüge!Bleibe ich … — Er war
+»Die Speisekarte ist nur hektographiert, Mr. Hasting —
+Die Originalkarte für die Abzüge schreibe ich …« — Er war
 offenbar sehr stolz auf sein Werk …
 
-Aber — eins gefiel mir nicht: »sein Lächeln! Erz sollte
-höflichbescrcheiden sein, hatte aber doch einen Sir ins Ironische.
+Aber — eins gefiel mir nicht: sein Lächeln! Es sollte
+höflich-bescheiden sein, hatte aber doch einen Stich ins Ironische.
 — Täuschte ich mich?! — Wohl kaum …
 
-Wedshalb also lächelte dieser junge Mensch, der, wie nun
+Weshalb also lächelte dieser junge Mensch, der, wie nun
 erwiesen, den Kopf in der Schonung begraben hatte, in dieser
-Weise?! WegSshoalb also dieses fatale ironische kurzen um
-die Mundwinkel?! Wedgshalb …?!
+Weise?! Weshalb also dieses fatale ironische Zucken um
+die Mundwinkel?! Weshalb …?!
 
 Mr. Hasting-Harst meinte:
 
-»Oh — das sein sehr schade … Ader es doch hier geben
-in Wannsee € eine Druckerei?«
+»Oh — das sein sehr schade … Aber es doch hier geben
+in Wannsee eine Druckerei?«
 
 »Gewiß … In der Bergstraße …«
 
-Dann 390g er ein zurück.
+Dann zog er sich zurück.
 
 Harald schaute mich ernst an …
 
-»Also der ist 81 Und sicherlich ist’s derselbe, der »Tritt
+»Also der ist’s! Und sicherlich ist’s derselbe, der »Fritz
 <@pagebreak/>
-Schmidt« beobachtet hat .-… Auch das werden wir noch Herz
+Schmidt« beobachtet hat … Auch das werden wir noch
 herausbekommen, hoffe …« —
 
-Nach) dem Eisen schlenderten wir noch durch den Ort,
-gingen in das SchultheißVestaurant, setzten uns an einen
-Fenstertisch?;) und sahen, wie der Mond über den Uferwäldern
-des Sees emporstieg und sein SilberliHt über das stille
+Nach dem Eisen schlenderten wir noch durch den Ort,
+gingen in das Schultheiß-Restaurant, setzten uns an einen
+Fenstertisch und sahen, wie der Mond über den Uferwäldern
+des Sees emporstieg und sein Silberlicht über das stille
 Wasser streute, die ankernden Jachten beleuchtete und dem
 wundervollen Landschaftsbilde die poetischen Reize einer
 Mondnacht verlieh.
@@ -1059,21 +1061,19 @@ Pavillon und in ihren Zimmern.
 
 Müde waren wir … Die Betten tadellos …
 
-Ich s[Schlief sofort ein …
+Ich schlief sofort ein …
 
-Schrei nicht lange …
+Schlief nicht lange …
 
 Harst rüttelte mich …
 
 Ich fuhr hoch …
 
-Sitzung Eier,
-
-d. Kapitel.
+<h2>4. Kapitel.</h2>
 
 Harst saß auf meinem Bettrand …
 
-Durch eine Spalte der FenstervorhäInge warf der Mond
+Durch eine Spalte der Fenstervorhänge warf der Mond
 einen breiten hellen Streifen über die Dielen …
 
 »Was gibt’s?« fragte ich …
@@ -1090,9 +1090,9 @@ einen breiten hellen Streifen über die Dielen …
 
 »Weshalb denn?«
 
-»eilt er beides gestohlen hat …«
+»Weil er beides gestohlen hat …«
 
-Ich) stutzte …
+Ich stutzte …
 
 »Beides? Etwa den Beutel und die Tafel?«
 
@@ -1108,21 +1108,21 @@ im Walde ein, die im zu sehen geglaubt hatte …
 
 Ich erzählte …
 
-Harst wurde ungemüktlidm. »Das hättest du mir sofort
+Harst wurde ungemütlich. »Das hättest du mir sofort
 mitteilen sollen!! Natürlich ist’s der Kellner gewesen, der
 uns offenbar von Anfang an mißtraut hat … Ich wette, er
 ahnt, daß unser Amerikanertum in Schmargendorf gewachsen
 ist. Kellner sind scharfe Beobachter und gute Menschenkenner
-…  Zieh’ Ei? an … Wir müssen hinaus … Aber kein
+…  Zieh’ dich an … Wir müssen hinaus … Aber kein
 Licht und kein Geräusch … Beeile dich … Es ist jetzt halb
-zwölf Uhr … Unten. im Restaurant tat noch ein Stamm-tisc&ch
+zwölf Uhr … Unten im Restaurant tagt noch ein Stammtisch
 … Der Kellner wird noch auf sein …«
 
 In fünf Minuten war ich fertig …
 
 Harald hatte schon am Fensterkreuz des Wohnzimmers
-die seidene Trittleiter beseitigt. So stiegen wir denn in den
-Garten ’hinab …
+die seidene Trittleiter befestigt. So stiegen wir denn in den
+Garten hinab …
 
 Das Abenteuer wurde plötzlich etwas aufregend …
 
@@ -1140,7 +1140,7 @@ Er schritt in seinem grauen Ulster, in der Linken eine
 Handtasche, die Straße nach rechts hinab, also dem Walde zu.
 
 Zum Glück sind dort die Laternen nur spärlich vertreten
--… Die Verfolgung war nicht weiter schwierig.
+… Die Verfolgung war nicht weiter schwierig.
 
 Unser Mann wanderte eilends dahin …
 
@@ -1148,7 +1148,7 @@ Als er erst den Hochwald erreicht hatte, wagten wir uns
 Näher heran …
 
 Der Mond malte auf den mit Kiefernnadeln bestreuten
-Boden überall helle Allee«.,
+Boden überall helle Flecke …
 
 <@pagebreak/>
 Die Nadelbäume rauschten leise, und in der Ferne schrie
@@ -1156,8 +1156,8 @@ ein Käuzchen …
 
 Die Nacht war kühl …
 
-Rechter Hand blinkte der verspreche?! -«« schmale Nebelschwaden
-… zogen über das Wasser …
+Rechter Hand blinkte der Seespiegel … Schwache Nebelschwaden
+zogen über das Wasser …
 
 Unser Mann strebte dem Ufer zu …
 
@@ -1170,13 +1170,13 @@ eine mißtrauische Vorsicht, die irgendeine Ursache haben mußte.
 
 Besonders oft starrte er nach links in den Wald hinein,
 
-Stand minutenlang dicht hinter einer dicken Kiefer»…
+Stand minutenlang dicht hinter einer dicken Kiefer …
 
 Dann eilte er weiter …
 
 Erlenbüsche begrenzten den Uferstrich …
 
-In diesen Burschen verschwand er …
+In diesen Büschen verschwand er …
 
 Wir beide nun im Bogen im Laufschritt ihm nach …
 
@@ -1188,40 +1188,41 @@ Harst stürmte vorwärts …
 Ich hinterdrein …
 
 Und — ich sah nun, daß eine Strecke weiter zwei Männer
-
 ein Boot bestiegen — abstießen — davonruderten …
-Harst kniete neben … dem am Boden liegenden Kellner.
-Der Mann erholte sich rasch … ck
 
-seine Handtasmche war verschwunden …
+Harst kniete neben … dem am Boden liegenden Kellner.
+
+Der Mann erholte sich rasch …
+
+seine Handtasche war verschwunden …
 
 Und — seine erste Frage galt ihr …
 
-»Nr. Hasting,« meinte er mit schwerer Zunge, »wo …
+»Mr. Hasting,« meinte er mit schwerer Zunge, »wo …
 wo … ist meine Handtasche … Ich … muß … sie …
 wiederhaben … Man hat mich hier hinterrücks niedergeschlagen,
 und …«
 
-Ein neuer Schwächeanfall ließ ihn Harald in die Trug
+Ein neuer Schwächeanfall ließ ihn Harald in die Arme
 sinken …
 
 Doch — er hatte Energie und eine robuste Natur … Erholte
-sie) wieder …
+sich wieder …
 
-Vor Mord beleuchtete die mietete!so … Im Sande waren
+Der Mond beleuchtete die Uferstelle … Im Sande waren
 <@pagebreak/>
 Fährten zu erkennen. Ich sah die Spuren derjenigen, die
 den Kellner matt gesetzt hatten, — es waren die beiden
 Leute gewesen, die mit dem Boot davonruderten.
 
 »Wie heißen Sie?« fragte Harst nun unseren Mann,
-ohne sich) noch Mühe zu geben, weiter den Amerikaner zu
+ohne sich noch Mühe zu geben, weiter den Amerikaner zu
 spielen.
 
 »Schöller, Ernst Schöller, Mr. Hasting …«
 
 »Lassen Sie dies »Mr. Hasting« …! Sie wissen ganz
-gut, daß wir …« …
+gut, daß wir …«
 
 »Verzeihung … Allerdings — ich weiß … Die Herren
 sind Detektive …«
@@ -1232,11 +1233,11 @@ Verblüffend war diese seine Aufrichtigkeit …
 
 Ich mischte mich ein …
 
-»Ich) sah zwei Männer in einem Boot flüchten … ad
+»Ich sah zwei Männer in einem Boot flüchten … Ob
 man sie nicht verfolgen sollte?«
 
 Harald winkte ab … Zwecklos — zu spät! — Setzen
-Sie sie; hier auf die E.:uns, Herr Schöller … So …
+Sie sich hier auf die Böschung, Herr Schöller … So …
 Lehnen Sie sich an den Baum … Wie fühlen Sie sich?«
 
 »Danke — es geht, Herr Harst …«
@@ -1247,39 +1248,39 @@ Handtasche lagen der Beutel und die Schiefertafel?«
 »Ja, Herr Harst … Leugnen wäre Ihnen gegenüber eine
 Dummheit … Ich will alles offen eingestehen …«
 
-»sehr brav, Herr Schöller … — Sie sind da der,
+»sehr brav, Herr Schöller … — Sie sind doch der,
 der den rätselhaften Gast beobachtet hatte?«
 
 »Leider …«
 
 »Weshalb — — leider?«
 
-»Nun, weil ich durch; meinen Hang für alles Abenteurer«-
-lie jetzt in eine sehr peinliche Lage geraten bin … Das,
-was ich getan habe, kann mir sehr östlich ausgelegt werden.«
+»Nun, weil ich durch meinen Hang für alles Abenteuerliche
+jetzt in eine sehr peinliche Lage geraten bin … Das,
+was ich getan habe, kann mir sehr falsch ausgelegt werden.«
 
-»Vielleicht — vielleicht auch nicht, Herr höchster …«
-Und Harald setzte sie) neben ihn, 303 sein Zigarettenetui und
-zündete sie); eine Mirakulum an …
+»Vielleicht — vielleicht auch nicht, Herr Schöller …«
+Und Harald setzte sich neben ihn, zog sein Zigarettenetui und
+zündete sich eine Mirakulum an …
 
-»Schraut. wir müssen Schöller eine Kompresse auf die
-Korn?Beule legen,« wandte er sich an mich. »Geben Co Uhr
+»Schraut, wir müssen Schöller eine Kompresse auf die
+Kopfbeule legen,« wandte er sich an mich. »Geben Sie Ihr
 <@pagebreak/>
-Taschentuch, Herr Schöller … So … Beute es an, mein
+Taschentuch, Herr Schöller … So … Feuchte es an, mein
 Alter … Man soll bei solchen Kopfhieben vorsichtig sein …«
 
-heller war doch) noch recht matt …
+Schöller war doch noch recht matt …
 
-»Wollen wir die Yusspracge auch nicht lieber bis morgen
-verschieden 7« fragte Harst ihn rücksichtsvoll.
+»Wollen wir die Aussprache auch nicht lieber bis morgen
+verschieben?« fragte Harst ihn rücksichtsvoll.
 
-»Nein, nein … Jetzt; wo die Dinge in Fluß geraten
+»Nein, nein … Jetzt, wo die Dinge in Fluß geraten
 sind, will ich … reinen Tisch machen, Herr Harst … Ein
 Geständnis vor Ihnen fällt mir nicht schwer, denn Sie sind
 ja für Ihre Menschenfreundlichkeit bekannt … Sie werden
 nicht zu streng mit mir ins Gericht gehen …«
 
-»Allerdings mimt … — Was wollten Sie hier am
+»Allerdings nicht … — Was wollten Sie hier am
 Seeufer?«
 
 »Den Geldbeutel und die Tafel ins Wasser werfen …«
@@ -1299,10 +1300,10 @@ vorsichtiger gewesen sein …«
 den Hügel öffneten, Herr Harst …«
 
 »Und — wir sahen dann, daß die Speisekarte und die
-Sdähieferiafelinshrift von demselben Manne geschrieben war
+Schiefertafelinschrift von demselben Manne geschrieben war
 … — Jetzt erzählen Sie mal … Wie kamen Sie dazu, den
-verriet wieder verschwundenen Kopf und den Beutel und die
-Insel in der Schonung zu vergraben?«
+jetzt wieder verschwundenen Kopf und den Beutel und die
+Tafel in der Schonung zu vergraben?«
 
 Der Kellner machte eine Bewegung der Überraschung …
 
@@ -1311,154 +1312,151 @@ Bisher war ja der Kopf noch gar nicht erwähnt worden,
 »Wie — — der Kopf ist nicht mehr vorhanden?« rief
 Schöller ungläubig.
 
-»Fein … Den hat jemand anders mir zugestellt …«
+»Nein … Den hat jemand anders mir zugestellt …«
 
-»Unmöglich. vorn Harst! Und — — und der Betreffende
-sollte Beutel und Tafel liegen gelassen haben?!
+»Unmöglich, Herr Harst! Und — — und der Betreffende
+sollte Beutel und Tafel liegen gelassen haben?!«
 
 <@pagebreak/>
-»Gewiß …!? Nur den Kopf und das Stock der Lederjacke
-nahm er mit … Das Gold legte ihn nicht … Obwohl der
+»Gewiß …! Nur den Kopf und das Stück der Lederjacke
+nahm er mit … Das Gold lockte ihn nicht … Obwohl der
 Mann es sehr gut hätte gebrauchen können … — Jedenfalls:
 Kopf und Leder gelangten anonym in meinen Besitz. Ich
 ermittelte dann den Absender, der das Grab in der Schonung
 wirklich ganz zufällig gefunden hat …«
 
-Schöller meinte staunend: »Wie konnte der Kopftücher
+Schöller meinte staunend: »Wie konnte der Mooshügel
 nur jemandem auffallen?!«
 
-»Durch die Anemonensträuße …
+»Durch die Anemonensträuße …«
 
-»Ah — — also dadurch! — — »doch — nun hören Sie,
+»Ah — — also dadurch! — — Doch — nun hören Sie,
 Herr Harst … Sie haben ja sicherlich in den Zeitungen alles
-über den rätselhaften Gast gelesen, auch daß ich dem heran
-Fritz Schmidt nachgeschlichen bin und ihn auch vom Neben
-Zimmer aus beobachtet habe … — ich muß nun eingestehen,
+über den rätselhaften Gast gelesen, auch daß ich dem Herrn
+Fritz Schmidt nachgeschlichen bin und ihn auch vom Nebenzimmer
+aus beobachtet habe … — Ich muß nun eingestehen,
 daß ich bisher niemandem die volle Wahrheit anvertraut
 habe. Damals, als ich im Nebenzimmer versteckt war, habe
-ich gemerkt, daß … Schmidt ein Mädchen war, ein Tunnels
-Weib … Sie legte nämlich; Jacke und Weste ab, und da
-fielen mir die schlanke Taille ui:« die Plattform auf …
+ich gemerkt, daß … Schmidt ein Mädchen war, ein junges
+Weib … Sie legte nämlich Jacke und Weste ab, und da
+fielen mir die schlanke Taille und die Brustform auf …
 Vermutet hatte ich dies schon früher … — Und zweitens
 habe ich der Polizei unterschlagen, daß ich »Schmidt« —
-den wahren Namen kenne ich nicht — auf am 9. März
+den wahren Namen kenne ich nicht — auch am 9. März
 morgens vier Uhr »Schmidt« gefolgt bin — in einem Boot
-
-… Er verließ damals den Pavillon ja wieder in aller Heim«
-Achtet mit seinem Kanu. Ich ließ ihm einen Vorsprung …
-Er wucherte — oder besser — sie ruderte dicht am Ufer nach
-Linden zu … Die Naht war dunkel und regnerisch … Mit
+… Er verließ damals den Pavillon ja wieder in aller Heimlichkeit
+mit seinem Kanu. Ich ließ ihm einen Vorsprung …
+Er ruderte — oder besser — sie ruderte dicht am Ufer nach
+Cladow zu … Die Nacht war dunkel und regnerisch … Mit
 einem Male hörte ich vor mir etwa dort, wo sich das Kanu
 befinden mußte, die Geräusche …«
 
-» …- eines Dampfers …«
+»… eines Dampfers …«
 
 »Ja … eines Dampfers, Herr Harst, — auch einen Schrei,
-laute Stimmen und Riffe … Ich blieb an derselben Stelle
-
-… Der Dampfer schien »Stoppt zu haben … Dann fuhr er
-weiter … — Ich legte mich in die Riemen und stieß dann«…«
+laute Stimmen und Rufe … Ich blieb an derselben Stelle
+… Der Dampfer schien gestoppt zu haben … Dann fuhr er
+weiter … — Ich legte mich in die Riemen und stieß dann …«
 
 »… auf das halb zertrümmerte Kanu …«
 
-»so ist …«
+»so ist’s …«
 
 <@pagebreak/>
 »Und in dem Kanu lagen der Kopf des Mädchens, die
 gelbe Reisetasche und die halbe Lederjacke …«
 
-»Ja
+»Ja …«
 
-»Sie Haben doch Kanu an Land geschleppt und den Kopf
+»Sie haben das Kanu an Land geschleppt und den Kopf
 in das Leder gewickelt und im Morgengrauen beides in der
 Schonung versteckt …«
 
 »und nachmittags in meiner Freizeit das Grab hergerichtet,
-Herr Harst … Inzwischen hat: en die Frauen, die
+Herr Harst … Inzwischen hatten die Frauen, die
 im Walde Holz sammelten, das Kanu und die Reisetasche
 mit dem Gelde bereits gefunden. Und da war’s für mich
 natürlich zu spät, zur Polizei zu gehen und alles zu melden,
-da ich fürchHchtete, man würde mich womöglich des Mordes
+da ich fürchtete, man würde mich womöglich des Mordes
 verdächtigen. Gerade die Geldsumme, die ich schon nachts
-in der Reisetage)ernsteste und der Beutel mit Gold, der
+in der Reisetasche entdeckte und der Beutel mit Gold, der
 in der Tasche des Stückes Lederjacke steckte, ließen mich ja mit
 der Anzeige an die Polizei zögern und veranlaßten mich
 erst einmal abzuwarten … Mein Gedankengang dabei war
 folgender: Die Polizei wird leicht auf den Verdacht kommen,
 daß du, der das Mädchen auch in ihrem Zimmer beobachtet
-hat, wußtest, sie verfüge über größere Summen, daß du ihre
+hat, wußtest, sie verfüge über größere Summen, daß du ihr
 deshalb aufgelauert hast, nach verübter Tat aber nur einen
-Teil des Geldes an die genommen hast — zu« Schlauheit!«
+Teil des Geldes an dich genommen hast — aus Schlauheit!«
 
 Harald nickte … »so unrichtig dieser Gedankengang an
-sie; ist, Herr Schöller: Ihre Angst ist begreiflich! Sie als
-Laie in »kriminellen Dingen überschauten die Sachlage Eber
-mit. Sie meinten und meinen noch, das Mädchen sei ermordet
-worden … Daß Sie auf die Briefe Krater »Verunglückt«
-schrieben, taten Sie nur, um
+sich ist, Herr Schöller: Ihre Angst ist begreiflich! Sie als
+Laie in kriminellen Dingen überschauten die Sachlage eben
+nicht. Sie meinten und meinen noch, das Mädchen sei ermordet
+worden … Daß Sie auf die Schiefertafel »Verunglückt«
+schrieben, taten Sie nur, um …«
 
-»… ja, um, falls dieses Genusses Enkelin? von mir doch
+»… ja, um, falls dieses grausige Erlebnis von mir doch
 preisgegeben werden müßte, mich meines Schweigens wegen
 darauf hinausreden zu können, ich hätte lediglich einen Unfall
-ancenvmmcin …«
+angenommen …«
 
-»Unfall — Tochter Art, Herr Schöller?«
+»Unfall — welcher Art, Herr Schöller?«
 
 »Das … das weiß ich nicht, Herr Hast, habe darüber
-auch Mr nachgedacht … Bedenken Sie, in welcher Gemüter
-verlustig td) mich damals befand .,« bedeuten Sie, daß
+auch nicht nachgedacht … Bedenken Sie, in welcher Gemütsverfassung
+ich mich damals befand …! Bedenken Sie, daß
 <@pagebreak/>
-ich in jener Naht beim Anblick des in dem halb zertrüms-merten
+ich in jener Nacht beim Anblick des in dem halb zertrümmerten
 Kanu liegenden Kopfes fast den Verstand verlor …
 Ich bin beinahe ohnmächtig geworden, handelte nachher wie
-ein Träumender — anders kann ichG das nicht bezeichnen.
-Ich war nicht ich selbst … Und als im den Kopf Morgen, da
-wollte ich eben die unterlassene Anzeige bei der Polizei da-durch&
+ein Träumender — anders kann ich das nicht bezeichnen.
+Ich war nicht ich selbst … Und als im den Kopf vergrub, da
+wollte ich eben die unterlassene Anzeige bei der Polizei dadurch
 wieder gutmachen — sozusagen gutmachen, daß ich das
-Grab Schwäche … Ich wollte dem armen Mädchen etwas
+Grab schmückte … Ich wollte dem armen Mädchen etwas
 Liebes erweisen … So müssen Sie mein Tun einschätzen,
-Herr Harst, nicht anders«…«
+Herr Harst, nicht anders …«
 
-Der Kellner hatte sie jetzt in eine Erregung hineingekrochen,
+Der Kellner hatte sich jetzt in eine Erregung hineingesprochen,
 die seine Stimme zittern ließ …
 
-Harald beruhigte ihn … Und ich erneuerte schleunige!
-die Kompresse, die dem durch den Hieb doch noch recht Mitgenommenen
-offenbar guttat,
+Harald beruhigte ihn … Und ich erneuerte schleunigst
+die Kompresse, die dem durch den Hieb doch noch recht
+Mitgenommenen offenbar guttat,
 
 Zu längerem verweilen hier am Ufer war es doch zu
-Gefühl. Rauch ich begann zu ihren. Wir nahmen Schöller
+kühl. Auch ich begann zu frieren. Wir nahmen Schöller
 daher unter die Arme und schritten mit ihm langsam davon.
 
-Harald fragte vom allerlei, ohne daß der Kellner neues
+Harald fragte noch allerlei, ohne daß der Kellner neues
 angeben konnte.
 
-Der Fall blieb. dunkel, blieb geradezu ein Labyrinth von
-Widersprüchen. Der Leser wird, wenn er sich die Einzels
-arbeiten einmal selbst überlegt, unsäFzwer einsehen, daß ich
+Der Fall blieb dunkel, blieb geradezu ein Labyrinth von
+Widersprüchen. Der Leser wird, wenn er sich die Einzelheiten
+einmal selbst überlegt, unschwer einsehen, daß ich
 nicht zuviel behaupte. Ich will nur auf etwas aufmerksam
-Kratzen. weshalb schleppte das machen einen schweren Beutel
-Goldgeld mit sich?! Weshalb hatte sie noch« deutsches Geld
-in so hohem Betrage bei sich?’ —
+machen. Weshalb schleppte das Mädchen einen schweren Beutel
+Goldgeld mit sich?! Weshalb hatte sie noch deutsches Geld
+in so hohem Betrage bei sich?! —
 
-Während wir so mit voller durch den nächtlichen Wald
-gingen, blieb er plötzliHg stechen … Wir befanden uns gerade
+Während wir so mit Schöller durch den nächtlichen Wald
+gingen, blieb er plötzlich stehen … Wir befanden uns gerade
 auf einer Lichtung, in deren Mitte eine sehr alte verkrüppelte
-tiefer stand, deren Stamm erst schräg gewachsen war und dann
+Kiefer stand, deren Stamm erst schräg gewachsen war und dann
 wieder senkrecht verlief.
 
 »Dies ist der Baum,« sagte der Kellner …
 
-»Den das Mädchen erkletterte … fügte Harald hinzu.
+»Den das Mädchen erkletterte …," fügte Harald hinzu.
 
 »Ja … Und sie kletterte bis ganz nach oben, Herr Harst
-
-— Ich) begreife nicht, was sie dort getrieben haben mag …«
+… Ich begreife nicht, was sie dort getrieben haben mag …«
 
 <@pagebreak/>
 Harst deutete auf einen Haufen Reisig …
 
-»Setzen Sie sich, Herr Schöller … Schraut, Grüße ihn
+»Setzen Sie sich, Herr Schöller … Schraut, stütze ihn.«
 
 Und dann … erstieg er selbst den Baum …
 
@@ -1469,8 +1467,8 @@ stellte er das Glas ein und schaute nach Westen zu …
 
 Er ließ sich Zeit …
 
-Wir fiel es auf, daß er so lange oben auf der Kiefer
-blieb. Ich) konnte mir nicht recht erklären, was es dort zu
+Mir fiel es auf, daß er so lange oben auf der Kiefer
+blieb. Ich konnte mir nicht recht erklären, was es dort zu
 sehen gäbe.
 
 Endlich kam er wieder herab …
@@ -1478,55 +1476,51 @@ Endlich kam er wieder herab …
 »nun?!« fragte ich gespannt …
 
 »Nichts,« erwiderte er kurz … »Bringen wir Schöller
-heim …
+heim …«
 
 Schweigend ging’s weiter …
 
 Ich wußte: Harald hatte mit diesem »Nichts« geschwindelt
-
 … Er hatte von der Baumkrone aus etwas gesehen. Aber
 was?! Etwa das Boot mit den beiden Männern, die den
 Kellner überfallen hatten?! —
 
-voller wohnte unweit des Schwedischen Pavillons bei
-dem Pförtner einer Privatvilla. Er bedankte sie bei uns und
-so; los die Gittertür des Gartens auf. Harst hatte ihm noch
+Schöller wohnte unweit des Schwedischen Pavillons bei
+dem Pförtner einer Privatvilla. Er bedankte sich bei uns und
+schloß die Gittertür des Gartens auf. Harst hatte ihm noch
 erklärt, daß wir beide weiterhin die Amerikaner spielen
-würden und daß der Kellner sich dann richten solle.
+würden und daß der Kellner sich danach richten solle.
 
-Co. dreien winkte uns voll zu, bevor er in dem Pförtnek-haushen
+Schöller winkte uns noch zu, bevor er in dem Pförtnerhäuschen
 verschwand … Dann machten wir kehrt …
 
 Und Harald hakte mich unter …
 
 Meinte: »Jetzt kann ich’s dir ja sagen, mein Alter …
-Ich habe etwas von der dieser aus beobachtet … Das Fern
-Glas zeigte mir eine ziemlich große Privatjacht, die unweit
+Ich habe etwas von der Kiefer aus beobachtet … Das Fernglas
+zeigte mir eine ziemlich große Privatjacht, die unweit
 von Schwanenwerder ankert … Der Mond beschien die Jacht
-
 … Ein Boot lag am Fallreep …«
 
 Ich war enttäuscht. Auf dem Wannsee ankern Hunderte
 von Jachten …
 
-»in sah diese Jacht schon nachmittags, als wir »her
+»Ich sah diese Jacht schon nachmittags, als wir hier
 <@pagebreak/>
 anlangten … Der Wind ließ die Flagge am Heck flattern,«
+fügte Harald hinzu. »Und diese Flagge war — — die englische,
+mein Alter!«
 
-fügte Harald hinzu. »Und diese Flagge war — = die eng«.
-kleine, mein Alter!«
-»Ah — — ich besinne mich … Und im Schultheiß«.
+»Ah — — ich besinne mich … Und im Schultheiß-Restaurant
+fragtest du abends den Kellner, ob auch mal
+fremde Jachten die Elbe hinabkämen und bis Berlin …«
 
-Restaurant fragte;t du abends den Keiner, ob aus) mal
-fremde Jachten die Elbe hinabkämen und die Berlin …«
-
-»= ja — bis Berlin …! Und der alte Kellner erwiderte
-prompt: »Selten, sehr selten … Jetzt liegt! h)her allerdings
+»— ja — bis Berlin …! Und der alte Kellner erwiderte
+prompt: »Selten, sehr selten … Jetzt liegt hier allerdings
 eine englische Jacht in der Nähe … Sie gehört einem Lord
-
 — Den Namen weiß ich nicht …« — So sagte er … Du
-hattest gerade ein Witzblatt vor … Du schroff für die öden
-Kalauer mehr Anderer;se zu haben …!«
+hattest gerade ein Witzblatt vor … Du schienst für die öden
+Kalauer mehr Interesse zu haben …!«
 
 Ich schluckte diese bittere Pille …
 
@@ -1534,39 +1528,38 @@ Sagte nur: »Du glaubst also, daß die Jacht mit dem
 Mädchen irgendwie etwas zu tun hat?«
 
 »Sie hat mit ihr etwas zu tun … Ich behaupte: das
-Mädchen gehörte auf die Juni! Sie kam von der Jacht als
+Mädchen gehörte auf die Jacht! Sie kam von der Jacht als
 Gast zum Pavillon … Denn der alte Kellner im Schultheiß
 erklärte noch, daß die englische)e Luxusjacht seit dem 3. März
-hier unsere … Und am 4. März kam das Mädchen zum
-ersten Male zum Schwediscrchen Pavillon …«
+hier ankere … Und am 4. März kam das Mädchen zum
+ersten Male zum Schwedischen Pavillon …«
 
-Wir hatten diesen jetzt erreicht, aber Harald schritt vors.
-über …
+Wir hatten diesen jetzt erreicht, aber Harald schritt vorüber
+…
 
 Fuhr fort:
 
 »Man soll das Eisen schmieden, so lange es heiß ist …
-Deshalb werden wir ein Boot leihen und mal auf den See-hinaus8rudern
-…«
+Deshalb werden wir ein Boot leihen und mal auf den See
+hinausrudern …«
 
-Nachts um drei Uhr ein Boot »leihen«, — das heißt.
-auf deutsch. ein Boot heimlich entführen! Und das geschah;
-denn auch …-.
-
-»im »meine « Geigen — einzig,
+Nachts um drei Uhr ein Boot »leihen«, — das heißt
+auf deutsch: ein Boot heimlich entführen! Und das geschah
+denn auch …
 
 <@pagebreak/>
-53, Kapitel,
+
+<h2>5. Kapitel,</h2>
 
 Es war ein kleines Boot, und die Ruder hatte Harald
-gleimMfalls »geliehen«, also aus dem verschlossenen Verschlag
+gleichfalls »geliehen«, also aus dem verschlossenen Verschlag
 der Bootsbrücke herausgeholt …
 
 Er ruderte … Ich steuerte …
 
 Einzelne Nebelfetzen trieben über den See …
 
-Harst blieb stumm. Wir paßte das wenig. Ich hatte
+Harst blieb stumm. Mir paßte das wenig. Ich hatte
 so sehr viel zu fragen. Ob er antworten würde, war eine
 andere Sache …
 
@@ -1578,7 +1571,7 @@ Immerhin — ich wollte es versuchen …
 
 »Wie ist das Mädchen eigentlich zu Tode gekommen?!«
 
-»durch) den Dampfer …«
+»durch den Dampfer …«
 
 Diese drei Worte waren mir wie eine Offenbarung …
 
@@ -1586,45 +1579,44 @@ Diese drei Worte waren mir wie eine Offenbarung …
 hat?«
 
 »Ja, mein Alter … Der Dampfer rammte es in der
-dunklen regnerischen Nacht … Das Mädchen fiel nie
+dunklen regnerischen Nacht … Das Mädchen fiel ins
 Wasser … Die Dampferschraube traf sie, schlug ihr den Kopf
 ab und zerfetzte ihre Lederjacke, schleuderte Kopf und Jacke
 — ein Zufall — in das Kanu zurück … Der Rumpf versank
-und wird sich unten auf dem Seegrund im Kraut der.
-fangen haben. Der Regen aber spülte die Blutspuren aus
-dem Kanu fort. Die Reisetasche war nicht herausgefallen,
-Sdqcyöller brachte das Kanu an Land. Die Besatzung des
+und wird sich unten auf dem Seegrund im Kraut verfangen
+haben. Der Regen aber spülte die Blutspuren aus
+dem Kanu fort. Die Reisetasche war nicht herausgefallen.
+Schöller brachte das Kanu an Land. Die Besatzung des
 Dampfers — es wird ein Schlepper gewesen sein, hat wohl
-kaum rt bemerkt, was passiert war, und wenn, so hat sie
+kaum recht bemerkt, was passiert war, und wenn, so hat sie
 eben geschwiegen, um den Scherereien zu entgehen … —
-A! ich dir gestern erklärte, ich würde dir den Namen des
+Als ich dir gestern erklärte, ich würde dir den Namen des
 Mörders nennen, hieß das nichts anderes, als den Namen
-d-& Dampfers, denn der hat das Mädchen gemordet. — Die
-Flügel mußte notwendig darauf schließen, daß das Kanu
+des Dampfers, denn der hat das Mädchen gemordet. — Die
+Polizei mußte notwendig darauf schließen, daß das Kanu
 <@pagebreak/>
-durch Beilhiebe beschädigt sei, denn es war halb aus Ufer
-gezogen …»’
+durch Beilhiebe beschädigt sei, denn es war halb aufs Ufer
+gezogen …«
 
-»allerdings — das greift alles tadellos ineinander.«
+»allerdings — das greift alles tadellos ineinander,«
 nickte ich …
 
 »Es muß so gewesen sein, muß!«
 
-»Und — was wollte die Fremde im Schwedischen Pavillon
-2?«
+»Und — was wollte die Fremde im Schwedischen Pavillon?«
 
-»Das ist doch) sehr leicht zu beantworten … Sie wollte
+»Das ist doch sehr leicht zu beantworten … Sie wollte
 mit jemand zusammentreffen … Und der, mit dem sie sich
-troffen wollte, sollte natürlich das Geld erhalten. Deshalb
+treffen wollte, sollte natürlich das Geld erhalten. Deshalb
 führte Sie diese Summen bei sich. Der Unbekannte kam
 jedoch nicht. Das Mädchen war verzweifelt. Sie weinte,
 schluchzte … Es lag ihr also ungeheuer viel an dieses Zusammenkunft.
 Sie wollte den Unbekannten vielleicht durch
-das Geld zu irgend etwas bestimmen. Möglich? zu, daß
-es sie; um ein Weib handelte, ö5as das Mädchen zum Stelldichein
-bestellt hatte, gebaut nicht erschien …«
+das Geld zu irgend etwas bestimmen. Möglich auch, daß
+es sich um ein Weib handelte, das das Mädchen zum Stelldichein
+bestellt hatte, jedoch nicht erschien …«
 
-Ich nickte wieder … »Anrecht das läßt sich hören
+Ich nickte wieder … »Auch das läßt sich hören
 Auch das hat Hand und Fuß …«
 
 »Fraglos, mein Alter … — Steuere jetzt mehr rechts,
@@ -1634,7 +1626,7 @@ damit wir den Spaß inszenieren können …«
 
 »Warte ab …«
 
-»Die weiße elegante Jacht lag etwa hundert Meter links
+Die weiße elegante Jacht lag etwa hundert Meter links
 von uns …
 
 Mit einem Male ließ Harst das eine Ruder aus der
@@ -1648,23 +1640,23 @@ rief:
 
 Rief’s auf englisch …
 
-grinste nun mit dem anderen naß dem Flüchtling …
+Fischte nun mit dem anderen nach dem Flüchtling …
 
-5d) sah, daß man uns von der Jacht aus beobachtete …
+Ich sah, daß man uns von der Jacht aus beobachtete …
 
 und dann — ließ Harald auch das zweite Ruder seinen
-Ja: .:: entgleiten …
+Händen entgleiten …
 
 <@pagebreak/>
 Brüllte zur Jacht hinüber:
 
-»Hallo — — helfen Sie uns!?«
+»Hallo — — helfen Sie uns!!«
 
 Wieder auf englisch …
 
 Und der »Spaß« klappte …
 
-dort der Jacht stieß ein Boot ab … Zwei Leute saßen
+Von der Jacht stieß ein Boot ab … Zwei Leute saßen
 darin …
 
 Zwei Matrosen in sauberen Anzügen, jüngere Männer …
@@ -1678,8 +1670,8 @@ Trinkgeld gab Mr. Hasting den beiden Leuten …
 
 Eine Unterhaltung begann …
 
-Harst-Hasting versteht es, harmlose Gemüter au&8zuhoso-Heu
--… Und diese beiden waren harmlos …
+Harst-Hasting versteht es, harmlose Gemüter auszuhorchen
+… Und diese beiden waren harmlos …
 
 Wem die Jacht gehöre?
 
@@ -1689,42 +1681,42 @@ Ob man die Jacht nicht mal besichtigen dürfe?
 
 Wohl kaum … Mylord erlaube das nicht …
 
-Ob Seine Lordschaft denn mit Familie an Bord sel?k
+Ob Seine Lordschaft denn mit Familie an Bord sei?
 
 Nein, nur mit Schwester und Bruder … Die Schwester
 sei jedoch verreist, die Herren seien jetzt allein, aber schlechter
-Laune … —
+Laune …
 
-Wir dankten noch: äöl8 und ruderten weiter …
+Wir dankten nochmals und ruderten weiter …
 
 Waren bald wieder am Ufer, an der Landungsbrücke,
 von der wir unser Boot »geliehen« hatten …
 
-Und kehrten nun endlich auf dem Wege über die Strich«-
-Leiter in unser Zimmer Zuruf …
+Und kehrten nun endlich auf dem Wege über die Strickleiter
+in unser Zimmer zurück …
 
 Ein Teil des großen Rätsels war nun also gelöst …
 
-Die Tote war Lord Salnavoors Schwester …! Der ein:
-Matrose hatte aufs den Vornamen genannt: Lydia — —
+Die Tote war Lord Salnavoors Schwester …! Der eine
+Matrose hatte auch den Vornamen genannt: Lydia — —
 Lydia Salnavoor! —
 
 Harald trieb mich ins Bett …
 
-»Ausgschlasen, mein Alter … Morgen frisch sein! Morgen
+»Ausschlafen, mein Alter … Morgen frisch sein! Morgen
 werden wir den Rest des Geheimnisses erledigen …
-sein, nicht morgen … Heute =, denn der neue Tag ist
+Nein, nicht morgen … Heute —, denn der neue Tag ist
 längst da …«
 
 <@pagebreak/>
-Schlafen?! Einschlafen?! — ein Kunststük’! Ich hörte,
-daß auch Harald sie in seinem Bett dauernd Auserwählte …
+Schlafen?! Einschlafen?! — ein Kunststück!! Ich hörte,
+daß auch Harald sich in seinem Bett dauernd umherwälzte …
 
 Und ich?!
 
-Ich grübelte darüber nun) weshalb der Lord und sein
+Ich grübelte darüber nach weshalb der Lord und sein
 Bruder Lydias Verschwinden nicht gemeldet hatten, weshalb
-bezweifle, da sie dank fragltoy8 von dem Funde des zertrümmerten
+sie, da sie doch fraglos von dem Funde des zertrümmerten
 Kanus erfahren hatten, sich weiter in Schweigen hüllten?!
 
 Und sagte mir ferner, daß sehr wahrscheinlich der Lord
@@ -1736,9 +1728,9 @@ Männergestalten gesehen — nur! Nichts von ihnen erkannt.
 Ja — ein Teil des Problems war nun allerdings gelöst.
 
 Es blieb die Hauptfrage übrig: Weshalb hatten die
-Brüder mit der Jacht sich bis hierher ins Binnenland v’r«
-irrt, weshalb hatte ihre Schwester als Mann verkleidet [ich
-mit irgend jemandem treffen wollen — — mit wem?k!
+Brüder mit der Jacht sich bis hierher ins Binnenland verirrt,
+weshalb hatte ihre Schwester als Mann verkleidet sich
+mit irgend jemandem treffen wollen — — mit wem?!
 
 Dann — von Haralds Bett eine Stimme …:
 
@@ -1750,7 +1742,7 @@ Ich richtete mich auf …
 
 Sollte etwa …?!
 
-Dr war Harald schon an meinem Bett …
+Da war Harald schon an meinem Bett …
 
 »Nebenan im Wohnzimmer … Geräusche … Es war
 mir, als würde eine Leiter an die Hauswand gelehnt … der
@@ -1759,13 +1751,13 @@ Torheit, daß wir unsere Pistolen im Wohnzimmer ließen.«
 
 Er schwieg …
 
-Ich) hörte …
+Ich horchte …
 
 Auch mir war’s jetzt, als ob nebenan die Dielen knarrten.
 
-Danuüu — wurde plötzlich die Verbindungstür aufgerissen.
+Dann — wurde plötzlich die Verbindungstür aufgerissen.
 
-Greller Lichtschein einer elektrisMen Lampe flutet über
+Greller Lichtschein einer elektrischen Lampe flutet über
 uns hin …
 
 Zwei Männer in Sportanzügen …
@@ -1776,73 +1768,72 @@ Männer?! Nein — — zwei Herren, zwei englische
 <@pagebreak/>
 Gentlemen … Es können ja nur die Brüder Salnavoor sein.
 
-EnglisMe Worte drohen …
+Englische Worte drohen …
 
 Eine Stimme, der man es anhört, daß es bitterer Ernst ist.
 
-Und dazu noch Pistolen — die infamste Art von Wasser:
-LuftdruFpistolen modernster Art, — die keinen Lärm machen.
+Und dazu noch Pistolen — die infamste Art von Waffen:
+Luftdruckpistolen modernster Art, — die keinen Lärm machen.
 
 Schlimme Situation für uns …
 
-jede verdächtige Bewegung wird durch eine Kugel be
-straft, — so droht die englische Stimme abermals …
+jede verdächtige Bewegung wird durch eine Kugel bestraft,
+— so droht die englische Stimme abermals …
 
-Trotz alledem: Harald schwebt über der peinlichen Lag
-meint traten:
+Trotz alledem: Harald schwebt über der peinlichen Lage,
+meint trocken:
 
 »Mylord, Ihre Matrosen erzählten Ihnen von den beiden
-umgekehrten Ruderern … Und Sie, Mylord, waren Miß«-
-mißtrauischer als Ihre Leute … — Nun gut: was wünschen Sie
+umgekehrten Ruderern … Und Sie, Mylord, waren mißtrauischer
+als Ihre Leute … — Nun gut: was wünschen Sie
 von uns?«
 
 »und das fragen Sie noch!!« zischte Seine Lordschaft
-förmlich haßsprühend … »Das fragen Sie, der das …«
+förmlich haßsprühend … »Das fragen Sie, der doch …«
 
 »Verzeihung, Mylord … Ich glaube, Sie befinden sich
 in einem argen Irrtum, was unsere Personen betrifft …«
-Mut) er bediente sich der ergriff[Den Sprache, und er markierte
+Auch er bediente sich der englischen Sprache, und er markierte
 weiter Mr. Howard Hasting und gab seinem Englisch den
 nötigen amerikanischen Akzent …
 
 »Irrtum?!« Der Lord lachte schneidend. »Zum letzten
-Male fordere ich Sie auf: Was haben Sie mit Lydia aus
-gestellt, Sie brutales Ungeheuer …!! Wo ist Lydia?! Keine
+Male fordere ich Sie auf: Was haben Sie mit Lydia angestellt,
+Sie brutales Ungeheuer …!! Wo ist Lydia?! Keine
 Ausflüchte!! Eine klare Antwort …! Oder — bei Gott —
 man findet hier morgen früh Zwei … tote Schurken!«
 
 Harald blieb vollkommen ruhig …
 
-»Mahlend, gewiß kann ich Ihnen sagen, was aus Ihrer
+»Mylord, gewiß kann ich Ihnen sagen, was aus Ihrer
 Schwester geworden … mein Name ist Harald Harst … Ich
-bin der den:s4He Privatdetektiv Harst, bin durch eine Berg
-Zeitung besonderer Umstände mit dem Fall des rä:verhaften
+bin der deutsche Privatdetektiv Harst, bin durch eine Verkettung
+besonderer Umstände mit dem Fall des rätselhaften
 Gastes betraut worden …«
 
-»ah er löste den falschen Bart vom Gesicht, nahm die
+Und er löste den falschen Bart vom Gesicht, nahm die
 Perücke ab …
 
-» Bitte, Mitleid, so sehe im in »Zivil« aus …!«
+»Bitte, Mylord, so sehe ich in »Zivil« aus …!«
 
-rechne Lordschaft ließ die Distel«- sinken …
+Seine Lordschaft ließ die Pistole sinken …
 
 <@pagebreak/>
-»Mein Gott, — = ich … ich wage … gar nicht zu
+»Mein Gott, — — ich … ich wage … gar nicht zu
 fragen, was Sie über meiner Schwester Verbleib wissen …
 — Verzeihen Sie, Herr Harst … Gewiß erkenne ich Sie
-
-zt … Mein Bruder Percy und ich hatten ja schon die
+jetzt … Mein Bruder Percy und ich hatten ja schon die
 Absicht, Sie ins Vertrauen zu ziehen …«
 
 »Setzen wir uns nebenan ins Wohnzimmer, Mylord,« bat
-Harald höflich. »Wir dürften so Marsches zu besprechen haben,
+Harald höflich. »Wir dürften so manches zu besprechen haben,
 was …«
 
 Er brach mitten im Satz ab …
 
 Denn … die beiden Engländer schnellten plötzlich empor.
 
-steinigen der Länge nach hin …
+Schlugen der Länge nach hin …
 
 Harst … sprang über sie hinweg …
 
@@ -1852,34 +1843,34 @@ Ich ihm nach …
 
 Zu spät …
 
-Wir haben nur noch einen »dann die an das eine Fenster
-gelehrte Leiter hinabrutschen — in der Finsternis des gerade
+Wir sahen nur noch einen Mann die an das eine Fenster
+gelehnte Leiter hinabrutschen — in der Finsternis des gerade
 einsetzenden Regens verschwinden …
 
-» Wir zurück zu den Opfern dieses Meuchelmörders …
+Wir zurück zu den Opfern dieses Meuchelmörders …
 
 Percy Salnavoor, der jüngere Bruder, war tot …
 
-— Der Lord hatte einen Schuß quer durch die Brust …
+Der Lord hatte einen Schuß quer durch die Brust …
 lebte noch …
 
-… Minuten später war das Personal des Schwedischen
-Pavillons geweilt …
+Minuten später war das Personal des Schwedischen
+Pavillons geweckt …
 
-— Ein Arzt wurde geholt, die Polizei benachrichtigt …
+Ein Arzt wurde geholt, die Polizei benachrichtigt …
 
-Jetzt konnten wi nichts mehr verheimlichen … durften
+Jetzt konnten wir nichts mehr verheimlichen … durften
 nicht mehr. Die Dinge hatten eine Wendung genommen,
-die e3-uns zur Pflicht machte, die Polizei einzuweihet …
+die es uns zur Pflicht machte, die Polizei einzuweihen …
 
 Um sieben Uhr morgens saß der Berliner Kriminalkommissar
 Doktor Lüder in unserem Wohnzimmer, — Arnold
 Lüder, ein Mann von Weltruf, eine Zierde der tadellosen
 Berliner Kriminalpolizei …
 
-an? kein Fremden …
+Uns kein Fremder …
 
-Und mit Dr. Arnold Lüders besucht bei uns will ich
+Und mit Dr. Arnold Lüders Besuch bei uns will ich
 den zweiten Teil dieses interessanten Problems einleiten …
 
 <@pagebreak/>
@@ -2447,7 +2438,7 @@ England gebrannt und dauernd bewacht.
 schlau … Sie schrieb mir einen Brief, den ihre Brüder nicht
 abfassen konnten. Sie wies mich an, gleiches mit gleichem
 zu vergelten … Und so schickte ich ihr denn, nachdem sie
-sie) in einem zweiten Brief scheinbar von mir losgesagt hatte,
+sich in einem zweiten Brief scheinbar von mir losgesagt hatte,
 
 ein Schreiben, in dem ich sie — alles verabredungsgemäß
 — daran erinnerte, daß sie mir Briefe gesandt habe, die sie
@@ -2785,7 +2776,7 @@ Befehle genau zu knorrigen
 
 <@pagebreak/>
 »Gut, es sei …! Sie werden also von hier aus sofort
-im Auto nach Potsdam fahren, werden sie) dort an. einen
+im Auto nach Potsdam fahren, werden sich dort an. einen
 Mann wenden, der vor dem Bahnhof mit einem Handwagen
 steht — einem zweiräderigen Karren, wie ihn die Gepäckträger
 benutzen. Der Mann trägt eine blaue Seglermütze,
