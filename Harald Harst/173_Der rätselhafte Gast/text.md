@@ -1884,12 +1884,12 @@ den zweiten Teil dieses interessanten Problems einleiten …
 In unserem Wohnzimmer waren versammelt:
 
 Wir beide, jetzt ohne Masken. Dann Dr. Arnold
-Lüder, nahm verblüffend jung aussehend, fast wie ein frischer,
-schneidiger Bruder Studio. Über wer Menschenkenner war,
+Lüder, noch verblüffend jung aussehend, fast wie ein frischer,
+schneidiger Bruder Studio. Aber wer Menschenkenner war,
 der sah’s den Augen dieses Mannes an, daß man es hier
-mit keiner Durchschnittäönatur zu tun hatte. Als vierter dann
+mit keiner Durchschnittsnatur zu tun hatte. Als vierter dann
 der Kellner Ernst Schöller, den der Leser bereits zur Genüge
-kennt. als Fürsten der Kapitän der Jacht des Lords, ein
+kennt. Als Fünfter der Kapitän der Jacht des Lords, ein
 waschechter älterer Engländer namens Picktorn. —
 
 Vor dieser kleinen Versammlung begann Harald nun den
@@ -1903,24 +1903,24 @@ dem grünen Beutel entnommen hatte …
 
 Doktor Lüder machte sich eifrig Notizen …
 
-Kapitän Picktorn von der Such’ Adelaide, der das Deutsche
-Weithin beherrschte, saß mit fahlem Antlitz da …
+Kapitän Picktorn von der Jacht Adelaide, der das Deutsche
+leidlich beherrschte, saß mit fahlem Antlitz da …
 
 als Harald von dem Kopf Lydia Salnavoors gesprochen
 hatte, als Picktorn so erfuhr, daß Miß Lydia nicht mehr unter
 den Lebenden weilte, da hatte der Kapitän, seit zwanzig
-Jahren in Diensten der Familie Salnavoor, die Augen mich
+Jahren in Diensten der Familie Salnavoor, die Augen mit
 der Hand bedeckt und sein kräftiger Körper war zusammengezuckt
 wie unter einem Schwertstreich.
 
 Nun war Harald mit seinem Bericht fertig. Nun wandte
-Doktor Puder sich an Picktorn …
+Doktor Lüder sich an Picktorn …
 
-wer. Kapitän, was wissen Sie rissen Durch. nicht. Ziel
+»Herr Kapitän, was wissen Sie über Zweck und Ziel
 <@pagebreak/>
 dieser Reise der Jacht hierher? Hat Lord Austin Salnavoor,
-der ja nach Aus&gsage der gerade bis auf weiteres seines«
-munggCunfähig ist, Sie irgendwie eingeweiht?«
+der ja nach Aussage der Ärzte bis auf weiteres vernehmungsunfähig
+ist, Sie irgendwie eingeweiht?«
 
 »Nur zum geringsten Teil, Herr Kommissar … Wir verließen
 England am 23. Februar. Es hieß, Seine Lordschaft
@@ -1928,14 +1928,14 @@ wolle Deutschland besuchen und die deutschen Flüsse kennen
 lernen. Erst, als wir hier unweit der Insel Schwanenwerder
 Anker warfen, hat Seine Lordschaft mich in seine Kabine gerufen
 und mir etwa folgendes gesagt: »Picktorn, ich weiß,
-daß Sie zuverlässig sind. Sie als einziger der Besatzung soll
-erfahren, daß diese Reise alles andere nur keine Bergnügungs«-
-Tour ist. Meine Schwester ist durch eine Verkettung besonderer
+daß Sie zuverlässig sind. Sie als einziger der Besatzung sollen
+erfahren, daß diese Reise alles andere nur keine Vergnügungstour
+ist. Meine Schwester ist durch eine Verkettung besonderer
 Umstände in Dinge mit hineinverwickelt worden, die mit
-äußerster Vorsicht aus der Welt geshchafft werden müssen. Seine
+äußerster Vorsicht aus der Welt geschafft werden müssen. Seine
 Lordschaft hat dann nicht mehr viel hinzugefügt, Herr Harst …
-Er meinte nur noch, daß Miß fähig mit dem Kanu, das wir
-an Bord hatten, allein Ausfluge unternehmen würde, und
+Er meinte nur noch, daß Miß Lydia mit dem Kanu, das wir
+an Bord hatten, allein Ausflüge unternehmen würde, und
 daß ich unseren Matrosen diese Ausflüge als nichts Besonderes
 hinstellen solle.«
 
@@ -1958,41 +1958,41 @@ Lüder nahm dann wieder das Verhör auf …
 
 »Nein … Seine Lordschaft schien zunächst ganz unbesorgt.
 Er und Sir Percy waren viel unterwegs, auch nachts
--… Sie sprachen sich mir gegenüber ich! näher aus, aber
+… Sie sprachen sich mir gegenüber nicht näher aus, aber
 ich merkte, daß sie die Schwester suchten. Dabei wurden sie
-immer verschlossener und zugeknöpfter. Ich fühlte kindlich,
-daß die Angst sie langsam zermürbte.: — I) hatte mir deutsche
+immer verschlossener und zugeknöpfter. Ich fühlte deutlich,
+daß die Angst sie langsam zermürbte. — Ich hatte mir deutsche
 Zeitungen gekauft und las darin über den rätselhaften Gast
 <@pagebreak/>
-des schwedischen Pavillons »… Erst so erfuhr ich, daß Miß
+des schwedischen Pavillons … Erst so erfuhr ich, daß Miß
 Lydia dort gewohnt hatte.«
 
 Doktor Lüder erklärte dem Kapitän nun, daß er an Bord
 zurückkehren könne … »Ich werde mich nachher mit Herrn
-Harst und Schraut auf der Adelaide einfinden … Aus Wiedersehen,
+Harst und Schraut auf der Adelaide einfinden … Auf Wiedersehen,
 Herr Kapitän …«
 
 Nun kam Schöller an die Reihe, der bei seiner Aussage
 blieb und dann gleichfalls entlassen wurde,
 
 Inzwischen war die Leiche Sir Percys fortgeschafft und
-auch der so)wer verletzte Lord, der rochen) immer ohne Bewußte
-sein gewesen, mit aller Vorsicht im Krankenauto nach einem
+auch der schwer verletzte Lord, der noch immer ohne Bewußtsein
+gewesen, mit aller Vorsicht im Krankenauto nach einem
 Sanatorium in Wannsee gebracht worden.
 
 Als wir drei so gegen zehn Uhr vormittags über den
 See ruderten, fragte der Kommissar:
 
-»Bester Herr Harst, Sie haben sich das ohne Zweifel schon
+»Bester Herr Harst, Sie haben sich doch ohne Zweifel schon
 irgendeine Theorie zusammengestellt, was Lydias Ausflüge
 und was die späteren traurigen Ereignisse betrifft … Ob
 nicht dieses Gerücht von ihrer Verlobung stimmen kann und
 ob nicht gar ihr Verlobter oder ihr gewesener Verlobter der
-Mörder zu Percys sein mag? Erkannten Sie irgendeine
-Einzelheit von dem Manne, der die Leiter hin:rutschte?«
+Mörder Sir Percys sein mag? Erkannten Sie irgendeine
+Einzelheit von dem Manne, der die Leiter hinabrutschte?«
 
-»nichts — nur daß es ein Mann mit duftet Schlapp
-Mühe war. — Warten wir ab … Vielleicht finden wir in
+»nichts — nur daß es ein Mann mit dunkler Schlappmütze
+war. — Warten wir ab … Vielleicht finden wir in
 Lydias Kabine etwas …«
 
 Wir drei haben damals in dieser Kabine nichts gefunden,
@@ -2001,51 +2001,50 @@ auch nicht einen Fetzen Papier, der wichtig gewesen …
 Und genau so erging es uns in den Kabinen der Brüder
 Salnavoor …
 
-nichts … nicht? …
+nichts … nichts …
 
 Wir kehrten also gegen zwölf Uhr zum Schwedischen
 Pavillon zurück. Dort hatte ein großes Aufgebot der
-Kriminalpolizei die Nachforschungen mag dem Täter ausharren:
-men, wobei es den Beamten darauf ankam, festzustellen,
+Kriminalpolizei die Nachforschungen nach dem Täter aufgenommen,
+wobei es den Beamten darauf ankam, festzustellen,
 ob sich in Wannsee selbst oder einem der benachbarten Vororte
-ein Ausländer sein Anfang März aufhielte.
+ein Ausländer seit Anfang März aufhielte.
 
 <@pagebreak/>
-Mut) Lüder verabschiedete sich nun, da er nach;4 Berlin
+Auch Lüder verabschiedete sich nun, da er nach Berlin
 zurück mußte.
 
 Wir ließen uns draußen im Freien den Mittagstisch
 decken …
 
-Harald war ein und in sich gekehrt.
+Harald war still und in sich gekehrt.
 
 Schöller bediente Uns …
 
 Mit einem Male Fragte Harald den Kellner:
 
-»Sagen Sie mal, voller, ist eigentlich das Zimmer, in
+»Sagen Sie mal, Schöller, ist eigentlich das Zimmer, in
 dem Miß Salnavoor regelmäßig abstieg, von der Polizei damals
-versiegelt worden, oder Korso man hinein?«
+versiegelt worden, oder kann man hinein?«
 
-»Es war versiegelt, Herr Harst … Jetzt ist es zur Vermutung
+»Es war versiegelt, Herr Harst … Jetzt ist es zur Benutzung
 wieder freigegeben — seit fünf Tagen … Und so
-lange wohnt dort jetzt ein altes Fräulein …’
+lange wohnt dort jetzt ein altes Fräulein …«
 
 »Deutsche?«
 
 »Ja, eine Schriftstellerin aus Leipzig — oder Redakteurin
-
-… Jedenfalls ein kränkflicßhez Geschöpf, Herr Harst … Sie
+… Jedenfalls ein kränkliches Geschöpf, Herr Harst … Sie
 liegt zumeist im Walde in der Hängematte, dicht in Decken
 gehüllt …«
 
 »Name?«
 
-»Charlotte Gulber …
+»Charlotte Gulber …«
 
-»Oh das alte See Zahn jetzt auf ihrem stummen ist?«
+»Ob das alte Fräulein jetzt auf ihrem Zimmer ist?«
 
-»Ich denke, Herr Harst …
+»Ich denke, Herr Harst …«
 
 »Dann fragen Sie mal, ob wir die Dame einen Moment
 sprechen könnten …«
@@ -2056,107 +2055,108 @@ Kam zurück …
 
 »Fräulein Gulber läßt bitten …« —
 
-Sie stand mitten im Zimmer, das alte verspätete Go-sOöpfschen
+Sie stand mitten im Zimmer, das alte verhutzelte Geschöpfchen
 …
 
 Sie begrüßte uns herzlich …
 
-Und dann folgte na; einem Schwall von Worten —
+Und dann folgte nach einem Schwall von Worten —
 so recht typisch für ein altes Fräulein, das gern über sein
 Leiden spricht …
 
-»Nerven … Schlasisvsizkeit … Jeden Abend Tabletten —
--» Schlafmittel … Über etwas besser sei es doch) [Schon geworden
+»Nerven … Schlaflosigkeit … Jeden Abend Tabletten —
+— Schlafmittel … Aber etwas besser sei es doch Schon geworden
 — etwas besser …«
 
 <@pagebreak/>
-Harald ging gutmütig auf das Thema ein und meint,
-e& sei gut, wenn man bei nervöser Schlaflosigkeit einen
+Harald ging gutmütig auf das Thema ein und meinte,
+es sei gut, wenn man bei nervöser Schlaflosigkeit einen
 Fensterflügel etwas offen ließe …
 
-»Oh — das tat im auch die ersten drei Nächte, Herr
+»Oh — das tat ich auch die ersten drei Nächte, Herr
 Harst,« nickte das Fräulein …
 
 »und weshalb nachher nicht mehr?!«
 
-»Weil … weil, — — oh, Sie werden mich auslachen …
+»Weil … weil, — — oh, Sie werden mich auslachen …«
+
 Und dann kam das, was ich schon erwartet hatte … Der
 Umschwung — — das Neue …
+
 <h2>2. Kapitel.</h2>
 
-Fräulein Charlotte Gulber wiederholte … »Ja — aussahen,
+Fräulein Charlotte Gulber wiederholte … »Ja — auslachen,
 meine Herren! Denn — vor dem offenen Fenster hatte
-im Angst bekommen …«
+ich Angst bekommen …«
 
 »Und — weshalb?« fragte Harald begierig …
 
-»Weil … weil ich. in der dritten Nacht trotz meines
-Schlafpulvers aufwachte … Ich4 hatte das Gefühl, als ob
+»Weil … weil ich in der dritten Nacht trotz meines
+Schlafpulvers aufwachte … Ich hatte das Gefühl, als ob
 jemand im Zimmer sei … Aber — es war eine Täuschung
-
 … Nur vor dem Fenster auf den Dielen fand ich ein paar
 feuchte Stellen … Und die kamen mir wie Spuren vor …
-Natürlich Unsinn …! €EC8 regnete in jener Nacht, und ich
+Natürlich Unsinn …! Es regnete in jener Nacht, und ich
 selbst werde, da es etwas eingeregnet hatte, diese Spuren mit
 meinen Pantoffeln hervorgerufen haben …«
 
-Harst sagte freundliHg: »Wir lachen durchaus nicht über
-Ihre Vergeßlichkeit, Fräulein Gulber. Es war jemand im
+Harst sagte freundlich: »Wir lachen durchaus nicht über
+Ihre Ängstlichkeit, Fräulein Gulber. Es war jemand im
 Zimmer … — Wie hatten Sie den offenen Fensterflügel
-besejuigt?«
+befestigt?«
 
-»dessen — nur drei Finger breit, Herr Harst … Papier
-hatte ich dazwischen geklemmt und die Tensterknöpfe mit
-Bindfaden umwickelt … So konnte der Flügel sie; nicht
-bewegen«…«
+»Offen — nur drei Finger breit, Herr Harst … Papier
+hatte ich dazwischen geklemmt und die Fensterknöpfe mit
+Bindfaden umwickelt … So konnte der Flügel sich nicht
+bewegen …«
 
 »konnte aber bewegt werden, wenn jemand von draußen
-den Bindfaden leerte … — Inwiefern hatten Sie nun das
-Getrübt, daß jemand im Zimmer sei …?«
+den Bindfaden lockerte … — Inwiefern hatten Sie nun das
+Gefühl, daß jemand im Zimmer sei …?«
 
 <@pagebreak/>
-»Im — — Gefühl allein war’s nicht … Ich glaubte im
-Finstern einen Schatten nach dem Fenster gleiten zu sehen …
+»Hm — — Gefühl allein war’s nicht … Ich glaubte im
+Finstern einen Schatten nach dem Fenster gleiten zu sehen …«
 
-»Von wo aus …
+»Von wo aus …«
 
-»Dort vom Ofen her …
+»Dort vom Ofen her …«
 
 »Und Sie hielten diesen Schatten für Einbildung?«
 
-»Ja … Es war also Dietrichs jemand im Zimmer, Herr
-warst?«
+»Ja … Es war also wirklich jemand im Zimmer, Herr
+Harst?«
 
 »Natürlich, Fräulein Gulber … — Wissen Sie, daß
 dieses Zimmer dasjenige ist, das der vielbesprochene rätselhafte
-Gast stets innehatte?« …
+Gast stets innehatte?«
 
-»Nein, — = keine Ahnung …«
+»Nein, — — keine Ahnung …«
+
 »Dieser rätselhafte Gast war, wie nun feststeht, eine junge
 Engländerin namens Lydia Salnavoor … War — — denn
-
 sie ist tot …«
 
-»Oh —«— ermordet?!«
+»Oh — — ermordet?!«
 
-»Nein, verunglückt durch einen Dampfer.«…« Dieser Engländerin
-wegen hat sich jemand hier in Ihr »Zimmer. eingeschlichen
+»Nein, verunglückt durch einen Dampfer … Dieser Engländerin
+wegen hat sich jemand hier in Ihr Zimmer eingeschlichen
 … Er vermutete, daß Miß Salnavoor hier vielleicht
 etwas versteckt haben könnte … Deshalb wagte er’s,
 nachdem ihm der Zugang durch den offenen Fensterflügel
 erleichtert war …«
 
-»Entsetzlich …!!? Der Kerl hätte mit abschlachten
-können «.!!«
+»Entsetzlich …!! Der Kerl hätte mich abschlachten
+können …!!«
 
-»Er würde ein gehütet haben …! — Gestatten Sie nun,
+»Er würde sich gehütet haben …! — Gestatten Sie nun,
 daß Schraut und ich uns hier einmal umsehen?«
 
 Harald wandte sich dann an mich … »Eigentlich wäre es
 höflicher, wenn du Fräulein Gulber unterhieltest, mein Alter
-… Ist besorge hier das Nötige auch allein …« — Und er
+… Ich besorge hier das Nötige auch allein …« — Und er
 zwinkerte mir verstohlen zu … Ich verstand: ich sollte
-Fräulein Gulbers Aufmerksamkeit ablenken!t
+Fräulein Gulbers Aufmerksamkeit ablenken!!
 
 Nun — das war nicht schwer …
 
@@ -2173,15 +2173,15 @@ Inzwischen konnte ich meinen Harald still beobachten …
 Der hatte den Ofen untersucht … Der hatte Stühle aufgebaut
 und war auf den Ofen geklettert … Der hatte die
 Tapeten um den Ofen herum abgeklopft … Und jetzt lag
-er 27 den: Ofen lang auf den Dielen …
+er auf dem Ofen lang auf den Dielen …
 
-Wir jvien’s so, als ob er da« Eisenblech von den Dielen
-schmachte …
+Wir schien’s so, als ob er das Eisenblech von den Dielen
+losmachte …
 
 Harst erhob sich dann …
 
 »Leider umsonst,« meinte er lächelnd. »Das ist, wie wenn
-Rinder nach Ostereiern suchen und die Eltern haben keine
+Kinder nach Ostereiern suchen und die Eltern haben keine
 versteckt. Das ist nur eine Störung Ihrer Ruhe gewesen,
 Fräulein Gulber … Verzeihen Sie … Jetzt werden wir
 uns zurückziehen …«
@@ -2193,63 +2193,64 @@ habe ich ja bisher fast gar nicht gesprochen … Nein, Sie
 müssen noch bleiben …«
 
 Harald meinte liebenswürdig: »Wir werden uns ja
-vor häufiger sehen, Fräulein Gulber … Heute müssen wir
+noch häufiger sehen, Fräulein Gulber … Heute müssen wir
 uns leider der Angelegenheit Salnavoor widmen …«
 
-Wir zogen ab … hinüber in unsere Zimmer …-.
+Wir zogen ab … hinüber in unsere Zimmer …
 
 Wo Harst dann schmunzelnd flüsterte:
 
-»I4h habe doch« ein Geschrei gefunden!!«
+»Ich habe doch ein Osterei gefunden!!«
 
-»» Glocke ich mir … — Her damit! Unter dem Ofenblech?«
+»Dachte ich mir … — Her damit! Unter dem Ofenblech?«
 
-»IQ …«
+»Ja …«
 
 »Also kann’s nur ein Zettel oder ein dünnes Papier sein.«
 
-»teilte …«
+»Bitte …«
 
 Wir standen am Fenster … Er breitete einen Bogen
-tadellosen Briefpapiers nacheinander. oben links das Wappen
+tadellosen Briefpapiers auseinander. oben links das Wappen
 der Salnavoors, darunter in lila ein
 
-L. S.
-Beamte bei Berlin, d. 6. Mark 19.,
-Wein letzter Wille,
-Ich, Lydia Blinde Besitz) Salnavoor, jüngstes Kind Lord
-Austin Salnavoors, bestimme für den Fall meines als
-Feldweg folgende?:
+<p class="centered pre">L. G.
+Wannsee bei Berlin, d. 6. März 19…
+Mein letzter Wille.</p>
+
+> Ich, Lydia Ellinor Bessy Salnavoor, jüngstes Kind Lord
+Austin Salnavoors, bestimme für den Fall meines Ablebens
+folgendes:
 
 <@pagebreak/>
-Ich breite von meiner Großmutter mütterlicherseits her
+> Ich besitze von meiner Großmutter mütterlicherseits her
 ein Vermögen von achtundvierzigtausend Pfund Sterling,
 Dieses Vermögen wird von der Bank von England verwaltet.
 Es soll nun die gesamte Summe zur Errichtung
-eines Heims für Kinder von im Weltkriege gehaltenen heute
-eben Soldaten verwendet werden, und zwar soll der frühere
-preußisch? Rittmeister Karl v. Selchow, wohnhaft Berlin N.,
+eines Heims für Kinder von im Weltkriege gefallenen deutschen
+Soldaten verwendet werden, und zwar soll der frühere
+preußische Rittmeister Karl v. Selchow, wohnhaft Berlin N.,
 Kleine Auguststraße 10, die freie Verfügung über meine
 Hinterlassenschaft erhalten, da ich mit Herrn v. Selchow
-hinsichtlich des erwähnten Kinderheims alles genau vernehmbar!
+hinsichtlich des erwähnten Kinderheims alles genau vereinbart
 habe. Karl v. Selchow besitzt nach wie vor mein
 volles Vertrauen, und alles, was ich, dem Willen meiner
-Brücke gehordjend, gegen ihn unternahm, geschah nur zum
-Schein. — Da ich weiß. daß meine Brüder mein erstes
+Brüder gehorchend, gegen ihn unternahm, geschah nur zum
+Schein. — Da ich weiß, daß meine Brüder mein erstes
 gleichlautendes Testament heimlich vernichtet haben, werde
-ich; diese Urkunde, die ich eigenhändig und im Vollbesitz
+ich diese Urkunde, die ich eigenhändig und im Vollbesitz
 meiner Geisteskräfte niederschreibe, unter dem Schutzblech
-des Ofens hier in meinem ’Zimmer im Schwedischen Pavillon
+des Ofens hier in meinem Zimmer im Schwedischen Pavillon
 verbergen und dafür sorgen, daß Herr v. Selchow
 sie für mich in Verwahrung nimmt.
 
-nach) dem keuschen Bürgerlichen geschah und auch
-nach englismem Recht ist dieses Testament gültig.
+> nach dem Deutschen Bürgerlichen Gesetzbuch und auch
+nach englischem Recht ist dieses Testament gültig.
 
-Ich hoffe, daß mein Vermächtnis [so segensreich wirken
+> Ich hoffe, daß mein Vermächtnis so segensreich wirken
 wird, wie ich es erwarte.
 
-Lydia Blinde besser Salnavoor.
+> Lydia Ellinor Bessy Salnavoor.
 
 Harald und ich hatten die Urkunde gleichzeitig überflogen
 …
@@ -2258,12 +2259,13 @@ Kopfschüttelnd meinte Harst nun:
 
 »In der Tat ein seltsames Vermächtnis«
 
-»Ershcheint dir etwas an diesem Testament nicht einwandfrei?«
+»Erscheint dir etwas an diesem Testament nicht einwandfrei?«
 
 »Hm … Ich möchte darüber vorläufig noch nicht sprechen
-… Wir werden jedenfalls sofort rang Enkelin fahren und
+… Wir werden jedenfalls sofort nach Berlin fahren und
 Herrn v. Selchow aufsuchen …«
-6! Er steckte das Testament in seine Brieftasche und setzte
+
+Er steckte das Testament in seine Brieftasche und setzte
 hinzu:
 
 <@pagebreak/>
@@ -2271,15 +2273,15 @@ hinzu:
 
 »Inwiefern?!«
 
-»Tun — es liegt so nahe, daß man ihn des Mordanschlag
+»Nun — es liegt so nahe, daß man ihn des Mordanschlags
 auf die Brüder Salnavoor bezichtigen wird, und es
-eridcgeintk des weiteren Sultana möglich, daß er in das Zimmer
-Dr »den eindringen wollte und auch Finger Augen ist … —
-uv: nach dem Testament zu suchen … — Sohn — — sehen
-acht vor sagen …! Schauen wir uns diesen Rittmeister
+erscheint des weiteren durchaus möglich, daß er in das Zimmer
+drüben eindringen wollte und auch eingedrungen ist … —
+um nach dem Testament zu suchen … — Doch — — sehen
+geht vor sagen …! Schauen wir uns diesen Rittmeister
 an …« —
 
-Der Vorortzug brachte uns gegen drei Uhr naß Berlin
+Der Vorortzug brachte uns gegen drei Uhr nach Berlin
 hinein, und um halb vier standen wir vor dem Hause Nr. 10
 in der Kleinen Auguststraße.
 
@@ -2294,7 +2296,7 @@ Harst stellte sich vor …
 den Herrn Rittmeister sprechen und ihm eine für ihn sehr
 wichtige Urkunde persönlich übergeben …«
 
-Die Schwester erwiderte flüsternd«
+Die Schwester erwiderte flüsternd:
 
 »Das wird kaum möglich sein, Herr Harst … Herr von
 Selchow liegt seit zwei Wochen an Grippe schwer darnieder …
@@ -2311,55 +2313,55 @@ Erbschaftssache ihn dauernd beschäftigen …«
 
 Diese blonde schlanke Krankenpflegerin machte auf mich
 einen ganz vorzüglichen Eindruck. Sie hatte etwas sehr
-Ruhiges, Westturm«?es an sich, und ihr Tages Benehmen befasse,
+Ruhiges, Bestimmendes an sich, und ihr ganzes Benehmen bewies,
 daß sie aus besseren Kreisen stammte.
 
 <@pagebreak/>
 Harald erwiderte jetzt:
 
-»VielleiHcht kommen wir gar derselben Crbschaift8angelcegens
-Wahrheit wegen, Schwester … Ich glaube sogar bestimmt, daß …
-— das das läßt sich ja unschwer feststellen … Wir haben
-in Wannsee im Schwedischen Pavillon in einem Fremdens-zimmer
+»Vielleicht kommen wir gar derselben Erbschaftsangelegenheit
+wegen, Schwester … Ich glaube sogar bestimmt, daß …
+— doch das läßt sich ja unschwer feststellen … Wir haben
+in Wannsee im Schwedischen Pavillon in einem Fremdenzimmer
 …«
 
 Die Pflegerin rief erstaunt — freilich auch jetzt mit vorsichtig
 gedämpfter Stimme: …
 
 »Wannsee — — Schwedischer Pavillon?! Ist es das
-Testament einer englischen Dame …?k? — Herr Rittmeister hat
+Testament einer englischen Dame …? — Herr Rittmeister hat
 im Fieber so oft eine Miß Lydia erwähnt …«
 
 »Dann stimmt die Sache, Schwester … Miß Lydia
 Salnavoor …«
 
-Die Pflegerin erhob sie rasch … »Unter diesen Umständen
+Die Pflegerin erhob sich rasch … »Unter diesen Umständen
 — es handelt sich ja um eine freudige Botschaft —
 werde ich den Herrn Rittmeister vorbereiten, und dann rufe
 ich Sie herein, meine Herren …«
 
 Wir … waren allein … Harald schaute mich sinnend an.
 
-Flüsterte: »Eine Kabine Fährte, mein Alter … Wenn
+Flüsterte: »Eine falsche Fährte, mein Alter … Wenn
 Selchow krank ist, dann kann er nicht der …«
 
-Ich) verstand: »Nicht der Mörder sein …««
+Ich verstand: »Nicht der Mörder sein …«
 
 Wir brauchten nicht allzu lange zu warten.
 
-die Pflegerin öffnete die Tür und winkte … ox
+die Pflegerin öffnete die Tür und winkte … 
 
 Wir traten ein …
 
 In dem halb verdunkelten, nur einfenstrigen Zimmer lag
 linker Hand in einem schlichten eisernen Feldbett ein blasser,
 magerer Herr mit sehr dünnem blonden Scheitel und kurz
-gestatten Bärtchen …
+gestutztem Bärtchen …
 
 Er begrüßte uns mit matter, zitteriger Stimme …
 
 »Setzen Sie sich … setzen Sie sich … Bitte — —
-Schwester, Sie … Sie lassen uns wohl allein«…«
+Schwester, Sie … Sie lassen uns wohl allein …«
 
 Herr v. Selchow flüsterte dann:
 
@@ -2372,34 +2374,34 @@ Selchow legte es vor sich auf die Steppdecke …
 
 <@pagebreak/>
 »Oh — — dann … dann ist alles gut … Dann hätte
-In gar nicht zu diesem abscheulichen Mittel zu greifen
-brauchen und … und … einen Menschen zu einer Kopf
-baren Handlung anstiften …«
+ich gar nicht zu diesem abscheulichen Mittel zu greifen
+brauchen und … und … einen Menschen zu einer strafbaren
+Handlung anstiften …«
 
-»Sie haben jemand naß Wannsee geschickt, der in dem
-Zimmer naß dem Testament suchen sollte?«
+»Sie haben jemand nach Wannsee geschickt, der in dem
+Zimmer nach dem Testament suchen sollte?«
 
 »Ja — leider … Es war ein Bettler, der hier bei uns
-gerade an der für klingelte, als niemand außer mir in der
+gerade an der Tür klingelte, als niemand außer mir in der
 Wohnung war … Das heißt — eigentlich kein Bettler, Herr
 Harst … Ein Gelegenheitsdieb … Als auf sein Klingeln
 niemand öffnete, kam der Mann mit Hilfe eines Dietrichs
-Verein … Ich habe ihn dann überrascht«…«
+herein … Ich habe ihn dann überrascht …«
 
 Er faßte unter das Kopfkissen und brachte eine Mauserpistole
 zum Vorschein … »Ich … überredete ihn, für mich
-»… dieses dunkle Geschäft zu besorgen … Er sollte in Lydias
-Zimmer suchen … Der Mensch4 hat mir zweihundert Mark
+… dieses dunkle Geschäft zu besorgen … Er sollte in Lydias
+Zimmer suchen … Der Mensch hat mir zweihundert Mark
 für nichts abgenommen — — für nichts!«
 
 Er schwieg erschöpft und lag eine Weile mit halb geschlossenen
-Augen still und murmelte: »Für die Krieger-waisen
-… ja, ja … Lydias gutes Herz?!«
+Augen still und murmelte: »Für die Kriegerwaisen
+… ja, ja … Lydias gutes Herz!!«
 
 »sind Sie mit Lydia verlobt gewesen, Herr Rittmeister?«
 
 Er nickte … »Ich … bin ihr Verlobter, Herr Harst …
-Ich will Ihnen erzählen, wie freventliches die beiden Brüder
+Ich will Ihnen erzählen, wie freventlich die beiden Brüder
 Salnavoor an mir gesündigt haben …«
 
 <h2>3. Kapitel.</h2>
@@ -2411,9 +2413,9 @@ Was er erzählte war ein Roman … Zu lang, um ihn
 hier wiederzugeben …
 
 In München vor zwei Jahren hatte er Lydia kennen
-riegele:Nr, Sie hatten sich ineinander verliebt, und schri’tlich
+gelernt. Sie hatten sich ineinander verliebt, und schriftlich
 erbat Lydia dann von ihrem ältesten Bruder als Familienoberhaupt
-Bestie Einwilligung zur Eheschließung.
+die Einwilligung zur Eheschließung.
 
 <@pagebreak/>
 Jede Antwort blieb aus …
@@ -2427,39 +2429,35 @@ Der Herr war Percy Salnavoor …
 Die Polizei fand die Brieftasche nebst Inhalt in Selchows
 Zimmer hinter der Sofalehne. Trotz Lydias energischem Eintreten
 für ihren Verlobten wurde der Rittmeister vom
-Edzösfengericht zu einem Jahr Gefängnis verurteilt, aber
+Schöffengericht zu einem Jahr Gefängnis verurteilt, aber
 bedingt begnadigt. Das Gericht glaubte an keine so gemeine
 Intrige, wie sie hier doch ganz offenbar vorlag. — Miß
 Lydia wurde von den Brüdern damals halb gewaltsam nach
-England gebrannt und dauernd bewacht.
+England gebracht und dauernd bewacht.
 
-».»-. Sie sehen, Herr Harst, — es war ein Ränkespiel,
-»’wie es schlimmer kaum sein konnte … Aber Lydia war
+»… Sie sehen, Herr Harst, — es war ein Ränkespiel,
+wie es schlimmer kaum sein konnte … Aber Lydia war
 schlau … Sie schrieb mir einen Brief, den ihre Brüder nicht
 abfassen konnten. Sie wies mich an, gleiches mit gleichem
 zu vergelten … Und so schickte ich ihr denn, nachdem sie
 sich in einem zweiten Brief scheinbar von mir losgesagt hatte,
-
 ein Schreiben, in dem ich sie — alles verabredungsgemäß
 — daran erinnerte, daß sie mir Briefe gesandt habe, die sie
 aufs schwerste kompromittierten … — Die Komödie ging
-
 weiter … Lord Salnavoor willigte ein, daß Lydia mir die
 Briefe … abkaufen solle … Die Brüder und Lydia kamen
-mit der Jacht Adelaide nach« Deutschland. In Wannsee
-sollte der Handel perfekt gemacht werden, — — wie gejagt
+mit der Jacht Adelaide nach Deutschland. In Wannsee
+sollte der Handel perfekt gemacht werden, — — wie gesagt
 — — alles Komödie! Aber — — Lydia wurde ständig
 belauert … Unsere Hoffnung, daß sie entschlüpfen könnte,
 blieb eitel. Außerdem hatte ich auch beständig mit einem
-neuen hinterlistigen Nase;lag zu rechnen und mußte Tore
-
-vorsichtig sein. Kurz — unser Plan mich?!ans nicht nur, sondern
+neuen hinterlistigen Anschlag zu rechnen und mußte vorsichtig
+sein. Kurz — unser Plan mißlang nicht nur, sondern
 … Lydia wurde sogar, und das behaupte ich mit aller Bestimmtheit
-— von ihren Brüdern … beseitigt! Sie ist tot
-
-Herr Harst …!! Grauen Sie mir: sie ist ermorde:ich worden! Sie
-war der »rätselhafte Gast! Sie ist die Person, die man nun
-seit vielen Lagert sucht …!«
+— von ihren Brüdern … beseitigt! Sie ist tot,
+Herr Harst …! Glauben Sie mir: sie ist ermordet worden! Sie
+war der »rätselhafte Gast«! Sie ist die Person, die man nun
+seit vielen Tagen sucht …!«
 
 <@pagebreak/>
 Er schwieg abermals …
@@ -2472,7 +2470,7 @@ Rücksprache nunmehr zu beenden …« sagte sie sehr bestimmt.
 für den Kranken verantwortlich …«
 
 Harald sah wohl selbst ein, daß wir nicht länger bleiben
-dursten …
+durften …
 
 Wir verabschiedeten uns von Selchow und erklärten,
 morgen Vormittag wiederkommen zu wollen. —
@@ -2487,14 +2485,14 @@ schon recht klapperiger Herr …
 
 War sehr liebenswürdig … Sagte uns feierlich: »Der
 Rittmeister ist so schwach, daß er schon nach zehn Schritten
-nimmst;ich werden würde.«
+ohnmächtig werden würde.«
 
-Zeit verabschiedeten uns dankend, und auf der Treppe
-mir 18):
+Wir verabschiedeten uns dankend, und auf der Treppe
+meinte ich:
 
 »nun bist du wohl zufrieden, Harald?!«
 
-»Wie man’s nimmt, lieber Alter … Ja — [Ob By zufrieden
+»Wie man’s nimmt, lieber Alter … Ja — ich bin zufrieden
 … Würdest du dir den alten, halb blinden Sanitätsrat
 wählen, wenn du so schwer krank bist?! Wohl kaum!«
 
@@ -2502,48 +2500,47 @@ Ich mußte ihm recht geben …
 
 Er winkte ein Auto herbei …
 
-Wir stiegen ein, fuhren heim — nach « »nargendorf …
+Wir stiegen ein, fuhren heim — nach Schmargendorf …
 
-Und abends neun Uhr bezogen dann zur. Leute, die wie
-rc htshchaffene Arbeiter aussahen, in der Kleinen Auguststraße
+Und abends neun Uhr bezogen dann zwei Leute, die wie
+rechtschaffene Arbeiter aussahen, in der Kleinen Auguststraße
 vor Nr. 10 ihren Beobachtungsposten am Fenster einer
 Kneipe schräg gegenüber … Aßen dort Eisbein mit Sauerkohl,
-tranken Weißbier und lugten durch; die Spalte der
-Durchsuche nach der Hausflur von Nr. 10 hinüber …
+tranken Weißbier und lugten durch die Spalte der
+Vorhänge nach der Haustür von Nr. 10 hinüber …
 
-Geh wurde halb elf …
+Es wurde halb elf …
 
-Dir hatten vorsichtigerweise stets sofort bezahlt, was wir
-ne »hin! hätten …
+Wir hatten vorsichtigerweise stets sofort bezahlt, was wir
+verzehrt hatten …
 
 <@pagebreak/>
 Und — — jetzt sagte Harald hastig:
 
-»Aufbruch!! Selchow in Damenbegleitung!?«
+»Aufbruch!! Selchow in Damenbegleitung!!«
 
 Wir verließen die Kneipe …
 
 Das Paar merkte nichts von uns Verfolgern …
-Bahnhof Friedrichstraße sahen wir Selchow 4m hellen
-
+Bahnhof Friedrichstraße sahen wir Selchow im hellen
 Licht: blonder Spitzbart — — sehr gesund — — sehr anständig
 angezogen!
-Und — — die Pflegerin trug zwar einen Schleier, konnte
 
-trotzdem: uns nicht täuschen, war jetzt ganz moderne junge
+Und — — die Pflegerin trug zwar einen Schleier, konnte
+trotzdem uns nicht täuschen, war jetzt ganz moderne junge
 Dame ohne Schwesternhäubchen …
 
 »Zwei zweiter Wannsee,« verlangte der »Patient« am
 Fahrkartenschalter …
 
-Und die beiden arbeiten stiegen dann dritter Klasse ein. —
+Und die beiden Arbeiter stiegen dann dritter Klasse ein. —
 
-»Wannsee!!’
+»Wannsee!!«
 
-Stiegen wieder aus … vor uns das Paar …
+Stiegen wieder aus … Vor uns das Paar …
 
 Harald, mich unterfassend: »Ich kann dir genau sagen,
-wohin sie sich wenden werden: nun dem Sanatorium, wo
+wohin sie sich wenden werden: nach dem Sanatorium, wo
 Lord Salnavoor untergebracht ist … — Wir tun am besten,
 ihnen vorauszueilen …«
 
@@ -2551,15 +2548,15 @@ Wir taten’s …
 
 So kamen wir denn sehr bald im Sanatorium an …
 
-Harald salzig mit dem Chefarzt …
+Harald sprach mit dem Chefarzt …
 
-Und sofort wurde Lord Salnavoors Bett aus dem Erde
-gesHotzimmer Nr. 2 in ein anderes gerollt …
+Und sofort wurde Lord Salnavoors Bett aus dem Erdgeschoßzimmer
+Nr. 2 in ein anderes gerollt …
 
-Und in das neue Bett letzte man ebenso flink auf Haralds
+Und in das neue Bett legte man ebenso flink auf Haralds
 Geheiß eine Art Puppe hinein, die von draußen durch die
-Fenster bei der schOchwachen Nachtlampenbeleuchtung wohl für
-einen »Schlafenden gehalten werden konnte.
+Fenster bei der schwachen Nachtlampenbeleuchtung wohl für
+einen Schlafenden gehalten werden konnte.
 
 Harst selbst nahm im Kittel eines Krankenwärters am
 Fußende des neuen Bettes Platz, während ich in den Schrank
@@ -2579,56 +2576,55 @@ Dann — eine vierte Kugel — aus einer Luftpistole …
 
 Dann — nichts mehr …
 
-Nun war Bord Austin nach Ansicht der beiden Verbrecher
+Nun war Lord Austin nach Ansicht der beiden Verbrecher
 bestimmt erledigt …
 
 Und — diese Verbrecher durften unbelästigt den Garten
 wieder verlassen …
 
-Unbelästigt nun Berlin heimkehren — so war’s mit dem
+Unbelästigt nach Berlin heimkehren — so war’s mit dem
 Chefarzt vereinbart.
 
-It: der Emsige im Bett aber fanden wir vier Schußlöcher
+In der Puppe im Bett aber fanden wir vier Schußlöcher
 in der Brustgegend. Hätte der Lord in dem Bett gelegen, wäre
 er unbedingt von den Kugeln sofort getötet worden. —
 
 Der Chefarzt teilte uns dann noch mit, daß abends
 eine Dame angeblich von der Englischen Botschaft das Sanatorium
-angerufen und sie nach dem Befinden des Lords
+angerufen und sich nach dem Befinden des Lords
 erkundigt habe, auch wissen wollte, ob Seine Lordschaft
 gut untergebracht sei, wo das Zimmer läge, ob es Sonne
 habe — und so weiter.
 
-Dicke Dame war natürlich »die Pflegerin« gewesen …!!
+Diese Dame war natürlich »die Pflegerin« gewesen …!!
 
-Der Chefarzt erhielt dann mochte von Harst verschiedene
+Der Chefarzt erhielt dann noch von Harst verschiedene
 Instruktionen, die er genau zu befolgen versprach, und gerade
-noch4 mit dem letzten Zuge fuhren wir nach Berlin zurück, da
+noch mit dem letzten Zuge fuhren wir nach Berlin zurück, da
 wir ja den Herrn Rittmeister am Vormittag wieder besuchen
 wollten. —
 
-Und gegen halb elf vormittags fand dieser Besuch denn.
+Und gegen halb elf vormittags fand dieser Besuch denn
 auch statt …
 
 Der Herr Rittmeister lag tadellos blaß geschminkt im
 halb verdunkelten Zimmer …
 
-Ein glänzender Komödiant war dieser Selchow »… Falls
-er so sich, was wir stark bezweifelten …
+Ein glänzender Komödiant war dieser Selchow … Falls
+er so hieß, was wir stark bezweifelten …
 
 Er drückte uns die Hand … Seine Stimme war ein
 halbes Schluchzen …
 
 »Meine Herren, ich … ich weiß alles … Lydia ist tot
-
-… Die Pflegerin hat es mir vorsichtig beigebracht …«
-Oh — ich ahnte ja, daß meine Braut nicht mehr unter den —
+… Die Pflegerin hat es mir vorsichtig beigebracht …
+Oh — ich ahnte ja, daß meine Braut nicht mehr unter den
 Lebenden weilte … Aber — man klammert sich an die geringste
 Hoffnung …«
 
 <@pagebreak/>
-Harst kondolierte herzlich … aus ich redete etwas von
-»»schweren: Verlust« — und [so weiter …
+Harst kondolierte herzlich … Auch ich redete etwas von
+»schwerem Verlust« — und so weiter …
 
 Dann holte Harald einen Brief hervor …
 
@@ -2640,52 +2636,51 @@ vom Garten aus erschossen worden …!«
 
 Selchow runzelte die Stirn …
 
-»Herr Harst, verlangen Sie« nicht, daß ich mit dem Manne
-Mitleid haben soll! UnmögliHb! Er hat … zu viel
-Unheil angerichtet! — trotzdem regt mich die e Nachricht
-auf … Bitte — reichen Sie mir den Portwein … Ich) habe
+»Herr Harst, verlangen Sie nicht, daß ich mit dem Manne
+Mitleid haben soll! Unmöglich! Er hat … zu viel
+Unheil angerichtet! — Trotzdem regt mich diese Nachricht
+auf … Bitte — reichen Sie mir den Portwein … Ich habe
 da auch für Sie zwei Gläser bereitstellen lassen … Bitte —
-sterben Sie ein, Herr Schraut … Ich möchte auf Ihr
+schenken Sie ein, Herr Schraut … Ich möchte auf Ihr
 Wohl trinken, meine Herren …«
 
 Harst winkte ab …
 
 »Wie sind vormittags stets strikte Abstinenzler, Herr Rittmeister
-… Entschuldigen Sie« schon … Aber wir …«
+… Entschuldigen Sie schon … Aber wir …«
 
 Selchow lachte schrill …
 
-»Öc … Dr — — Sie werden trotzdem trinken …!! Trinken
+»He … he, — — Sie werden trotzdem trinken …!! Trinken
 müssen, meine Herren … Hilft Ihnen nichts … Gefangene
-Büchse: saufen das, was sie vorgestellt bekommen!!«
+Füchse saufen das, was sie vorgestellt bekommen!!«
 
 Und — im Nu hatte er unter der Steppdecke in jeder
 Hand eine … Luftpistole zum Vorschein gebracht …
 
-Und — — hinter dem Türvorhang zeigte sie nun die
+Und — — hinter dem Türvorhang zeigte sich nun die
 Pflegerin — — gleichfalls bewaffnet …
 
-Der Herr Rittmeister saß jetzt aufrecht! im Bett …
+Der Herr Rittmeister saß jetzt aufrecht im Bett …
 
-ragte mit eisigem Hohn:
+Sagte mit eisigem Hohn:
 
 »Falls Sie noch ein paar Stunden zu leben wünschen,
 rate ich Ihnen dringend, den Mund zu halten und die Arme
-emporzustreFen … Das Lustspiel hier ist zu Ende … Die
-Erprobte beginnt — — für Sie beide!! — — Bitte?!«
+emporzustrecken … Das Lustspiel hier ist zu Ende … Die
+Tragödie beginnt — — für Sie beide!! — — Bitte!!«
 
-»» Die Lage für uns war zu ungünstig, als daß wir irgendwie
+Die Lage für uns war zu ungünstig, als daß wir irgendwie
 an Gegenwehr hätten denken können …
 
-Und — — die Pflegerin legte uns dann sein säuberlich
+Und — — die Pflegerin legte uns dann fein säuberlich
 <@pagebreak/>
 Stricke um die Handgelenke, bog uns die Arme nach hinten,
 band unsere Hände an die Stuhllehnen …
+
 Nun Hatte der Herr Rittmeister die Oberhand …!!
 
-Eide) eitlen demmafian eine
-
-Kapitel.
+<h2>4. Kapitel.</h2>
 
 »Meine Herren,« begann er nun ganz geschäftsmäßig,
 »wir müssen uns zu einigen versuchen … Der Anschlag
@@ -2855,7 +2850,7 @@ Möglichkeit alles bis jetzt Dagewesene übertrifft. Er wollte Lydias
 Vermögen an sich bringen. Lydia kam hier ums Leben, —
 vielleicht auch durch Selchow … Das werden wir noch feststellen
 … Dann wollte er die beiden Brüder beseitigen, die
-doch das Haupthindcernis waren, das Bermächtniä& an sich Du
+doch das Haupthindernis waren, das Bermächtniä& an sich Du
 reißen. Ihm selbst, hoffte er, würde man nichts am Zeuge
 flicken können … Er war ja kennst … — Warnung du die … sie
 Einzelheiten dieses teuflisch-genialen Planes vor Augen führst,
@@ -3043,7 +3038,7 @@ ja begleiten …«
 
 »Schraut wird es tun … — Vorwärts, wer? Alter …
 <@pagebreak/>
-Tochter kommt dann der Hauptshchlag … Oder …« — er
+Tochter kommt dann der Hauptschlag … Oder …« — er
 überlegte — »eigentlich könntest du das ebenfalls gleich einleiten
 … Wenn die Meldung erledigt ist, rufe Lüder an …
 Er soll das Haus Nr. 10 durch zwei Leute, die sich etwas
@@ -3197,7 +3192,7 @@ zum Teil in raffiniertester Weise umgemodelten Angaben des
 »sOwerkranfen« Selchow als Kern der Wahrheit bereits her«
 aufgeklärt hatte. Lydia Salnavoor hatte sich in München
 von sollten umgarnen lassen, und er war’s gewesen, der ihr
-den Gedanken an eine Stiftung zugunsten deutscher Krieger-waisen
+den Gedanken an eine Stiftung zugunsten deutscher Kriegerwaisen
 gleichsam suggeriert hatte … Dann verübte er den
 Diebstahl, indem er Percy Salnavoor die Brieftasche ents-wendcte,
 als dieser nach München gekommen war, um seine
