@@ -24,7 +24,7 @@ der Obststadt Werder unternommen, hatten dort gut zu
 Abend gegessen und gegen neun Uhr trotz der Warnung
 eines Fischers die Heimfahrt angetreten.
 
-Im Nordwesten hatten dichte schwarze Wolkenberge gelagert,
+Im Nordwesten hatten dicke schwarze Wolkenberge gelagert,
 die allerdings ein heraufziehendes Unwetter anzeigten.
 Harald war jedoch nicht zu bewegen gewesen, in Werder
 vorsichtshalber die Nacht zuzubringen.
@@ -49,14 +49,14 @@ Die Jolle kam von dem fremden Fahrzeug frei und raste
 mit gerefften Segeln weiter in die Dunkelheit.
 
 Hinter mir dann der schnell verwehende Ruf: »Schraut
-— Schraut — —!!«
+— — Schraut — —!!«
 
 Und für mich die Erkenntnis, daß Harald offenbar
 auf das andere, weit größere Boot, das ich für einen Motorkutter
 gehalten, hinübergesprungen war und von dort
 gerufen hatte …
 
-Gerufen — —!! — weshalb?! War’s ein Hilferuf
+Gerufen — —!! — Weshalb?! War’s ein Hilferuf
 gewesen?! War er dort an Bord des Kutters mit Leuten
 zusammengestoßen, die ihn derart empfangen hatten, daß
 er meiner Hilfe bedurfte?!
@@ -87,7 +87,7 @@ dem Westufer nähern und dort stranden.
 So ritt ich denn als Bootsreiter getrost durch die Finsternis.
 Wenn ich Haralds wegen nicht in Sorge gewesen,
 hätte ich das Abenteuer als angenehme Abwechselung
-im einerlei der letzten Tage empfunden. Wir, Harst und
+im Einerlei der letzten Tage empfunden. Wir, Harst und
 ich, waren seit einer Woche ohne Beschäftigung gewesen.
 Was unser Beruf ist, weiß der Leser. Wir sind Sucher —
 Sucher aller Wahrheit, Gentlemandetektive, Sucher der Kriminalfälle,
@@ -107,7 +107,7 @@ Hell — schrill — in höchster Todesangst …
 Zu sehen war nichts.
 
 Die Finsternis hing um mich herum wie pechschwarze
-Tücher. Nur die weisen Wellenkämme leuchteten gespenstisch.
+Tücher. Nur die weißen Wellenkämme leuchteten gespenstisch.
 Dann schräg vor mir ein Lichtblitz …
 
 Wieder ein schriller Schrei …
@@ -199,13 +199,13 @@ recht sonderbare Dinge abgespielt haben müßten.
 
 Ich faßte in die rechte Beinkleidtasche.
 
-Dort stecke *meine* Taschenlampe. Die vertrug ebenfalls
+Dort steckte *meine* Taschenlampe. Die vertrug ebenfalls
 ein kaltes Bad. Ich wollte mein Gegenüber mir doch
 einmal ansehen.
 
 Kaum hatte ich nun die Lampe eingeschaltet, als die
 Frau, bevor der Lichtkegel noch ihr Gesicht traf, aufschrie
-und wie halt suchend den einen Arm ausstreckte. Dabei
+und wie Halt suchend den einen Arm ausstreckte. Dabei
 schlug sie mir die Taschenlampe aus der Hand.
 
 Absicht?! — Ja — ohne Zweifel! Daran änderte auch
@@ -260,7 +260,7 @@ leicht ironisches Lächeln bereithaben und sagen: »Lieber
 Alter, mir wäre sie nicht entwischt!«
 
 Ich stand noch nicht lange an dieser Stelle, als von
-Norden her, sich aus der Finsternis eine Männergestalt herauslöste:
+Norden her sich aus der Finsternis eine Männergestalt herauslöste:
 Freund Harald!
 
 »Ah — auch gelandet!« meinte er erfreut. »Komm’
@@ -290,7 +290,7 @@ von Berlin entfernt, eine Prau mit den charakteristischen
 Bug- und Heckaufbauten, den beiden plumpen Masten,
 den gerefften schweren Mattensegeln!
 
-Ob ich eine Prau kannte!! Ob — —!! — wer unsere
+Ob ich eine Prau kannte!! Ob — —!! — Wer unsere
 früheren Abenteuer gelesen hat, weiß, daß wir vor Jahren
 uns auch einer malaiischen Piratenbande dort im
 Sunda-Archipel liebevollst angenommen hatten.
@@ -299,7 +299,7 @@ Sunda-Archipel liebevollst angenommen hatten.
 
 <@pagebreak/>
 »Ja, mein Alter. Eine Film-Prau. Die Onyx-Film-A.G.
-Will hier auf dem ehrlichen Schwielow ein Tropenfilmchen
+will hier auf dem ehrlichen Schwielow ein Tropenfilmchen
 herstellen. Ich las davon in der Zeitung. Schwimmen
 wir an Bord, es gibt dort etwas zu sehen …!!«
 
@@ -360,7 +360,7 @@ Die Arbeit glückte.
 Wir standen jetzt aufrecht. Haralds Taschenlampe
 flammte auf und beleuchtete den Raum.
 
-Die Onyx-Film-A.G. Hatte für den Bau des malaiischen
+Die Onyx-Film-A.G. hatte für den Bau des malaiischen
 Seglers einen alten Dampferrumpf benutzt, den
 Rumpf eines kleinen Schleppdampfers.
 
@@ -445,7 +445,7 @@ Sie erhob sich.
 elf Uhr wiederkommen, Herr Harst. Wenn Sie mich
 freundlichst hinausbegleiten wollen …«
 
-Er tat’s. Den Brief legte er auf den Schreibtisch, und
+Er tat’s. Den Brief legte er auf den Schreibtisch, und ich
 überflog die merkwürdige Epistel, die mit Maschine geschrieben
 war:
 
@@ -638,7 +638,7 @@ des Sees verankert gewesen. Weshalb hatten die
 »Prinzessin« und die beiden braunen Kerle, die uns nachher
 niederschlugen, sich bei dem Orkan mit dem Fahrzeug
 auf den See hinausgewagt?! Weshalb hatten sie die Prau
-überhaupt aufgesucht? Und weshalb flohen sie von Bord
+überhaupt aufgesucht? Und weshalb flohen sie von Bord,
 als Harald von unserer Jolle hinübersprang? Etwa, weil
 sie den Mann ermordet hatten, der in dem Deckverschlage
 lag und der nachher verschwunden war?!
@@ -657,7 +657,7 @@ Weibe.
 
 Nun — die Verfolgung endete vor einem eleganten
 Mietspalast der Innsbrucker Straße, Berlin W. Die Frau
-betrat das Haus durch den Kellereingang »für Lieferanten«.
+betrat das Haus durch den Kellereingang »Für Lieferanten«.
 
 <@pagebreak/>
 Ich wartete volle zwei Stunden. Die Frau erschien
@@ -693,7 +693,7 @@ Nun — mehr brauchte ich nicht zu erfahren.
 Ich kehrte nach Bahnhof Charlottenburg zurück.
 
 An dem Tische des Straßenkehrers saß jetzt ein alter
-weißbärtiger Mann, Typ Künstler, der das hungern kennt.
+weißbärtiger Mann, Typ Künstler, der das Hungern kennt.
 
 Und dieser Alte blinzelte mir verstohlen zu.
 
@@ -729,7 +729,7 @@ machen. Die Außenwände sind völlig von
 wildem Wein überwuchert, so daß man nicht sieht, daß zwei
 Fenster im ersten Stock vor Jahren einmal zugemauert worden
 sind. Das Haus enthält also ein Zimmer ohne Fenster
-— —!!! vielleicht steht dieses Zimmer zu den Dingen
+— —!!! Vielleicht steht dieses Zimmer zu den Dingen
 in Beziehung, die auf dem Schwielow-See sich abspielen
 dürften. — Jemand, der weiß, daß Sie gern Geheimnisse
 aufdecken.
@@ -774,7 +774,7 @@ wieder vor sich hin.
 
 »Oder — fahren wir nach Tegel, mein Alter, — und
 gleich …«, fügte er hinzu. »Das Zimmer ohne Fenster
-reizt mich. — Ja — — nach Tegel!! Vorwärts!«
+reizt mich. — Ja — — nach Tegel!! Vorwärts!« —
 
 Die Straßenbahn hielt. Wir stiegen aus und wanderten
 zu Fuß weiter. Der bewölkte Himmel ließ den
@@ -842,7 +842,7 @@ Dann ging er davon.
 
 Harald drehte den Brief hin und her. — Ja, es war
 der Aufdruck eines staatlichen Lotterieeinnehmers vom
-Belle-Alliance-Platz auf dem Umschlag. Der Umschlag war offen,
+Belle Alliance-Platz auf dem Umschlag. Der Umschlag war offen,
 die Briefklappe nur eingeschoben.
 
 Harst zog ein bedrucktes Blatt heraus. Es war die
@@ -973,7 +973,7 @@ Und — ich verlief mich. In diesem wunderlichen Hause
 konnte das schon geschehen. Ich kam nicht in die Küche,
 sondern in eins der kleinen Hinterzimmer. Ich hatte die
 Tür hastig geöffnet und … hörte so gerade noch das Klappern
-einer anderen Tür und das einschnappen eines Riegels.
+einer anderen Tür und das Einschnappen eines Riegels.
 
 <@pagebreak/>
 Ich stand sofort regungslos.
@@ -993,7 +993,7 @@ ich beobachtet hatte.
 Wir begaben uns in jenen Alkoven, aus dem die Geräusche
 hervorgedrungen waren.
 
-Er suchten die tapezierten Wände nach einer Geheimtür
+Wir suchten die tapezierten Wände nach einer Geheimtür
 ab.
 
 Wir suchten so, wie wir zu suchen verstehen.
@@ -1142,7 +1142,7 @@ uns jetzt zu lange auf.« —
 Ich mußte mich fügen. — Eine halbe Stunde später
 waren Beamte in dem verfallenen Hause, denen Harst für
 den Abend völlige Aufklärung versprach. »Jetzt muß ich
-mit Schraut noch eine Autofahrt unternehmen, meine Herren,
+mit Schraut noch eine Autofahrt unternehmen, meine Herren.
 Entschuldigen Sie uns.«
 
 In unseren Masken bestiegen wir ein Taxameterauto,
@@ -1167,7 +1167,7 @@ Künstlereifersucht und wohl auch aus Haß gegen eine Verwandte
 sich auf sehr üble Geschichten eingelassen. Die Filmschau
 brachte einen Artikel letztens, daß die Onyx-Gesellschaft
 einen neuen Star entdeckt habe, der in dem neuen
-exotischen Film »die Gefangene des Malaienfürsten« die
+exotischen Film »Die Gefangene des Malaienfürsten« die
 Hauptrolle spielen würde und zwar an Stelle Silvia Longas,
 die mehr für Salondamen geeignet sei.«
 
@@ -1284,7 +1284,7 @@ Harst unterbrach ihn.
 »Wer war der Herr, der auf der Libelle mit Silvia
 Longa entfloh, Herr Perl?«
 
-»Das war der ungarische Graf Niclas Tessöny,
+»Das war der ungarische Graf Niclas Tefföny,
 Silvias neuester Verehrer.«
 
 »Dann auf Wiedersehen, Herr Perl. Ich will nach
