@@ -2,7 +2,7 @@
 
 <#import "*/harst.ftl" as harst>
 
-<@harst.introshort3/>
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 
@@ -539,7 +539,7 @@ Dann luden wir Herrn Liliputaner Orlik, ein Männlein
 mit greisenhaftem Kürbiskopf und schlauen Äuglein, sowie
 noch drei andere von den Gnomen zum Frühschoppen ein,
 gingen in das nahe Café Grunewald und spendeten den
-kleinen Leuten, die ziemlich im Dalles waren, alles, was
+kleinen Leuten, die ziemlich im Dalles<@refnote/> waren, alles, was
 sie nur haben wollten …
 
 Der Erfolg blieb nicht aus. Um halb zwölf waren sie
