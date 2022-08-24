@@ -36,7 +36,7 @@ Das war Fräulein Irmgard Hölderlin …
 »Herr Harst,« erklärte sie mit ihrem eingerosteten Stimmchen,
 <@pagebreak/>
 »ich weiß gar nicht, wie ich den Mut gefunden habe,
-Hier zu Ihnen zu kommen … Wo Sie doch eine Berühmtheit
+hier zu Ihnen zu kommen … Wo Sie doch eine Berühmtheit
 sind und nur Kriminalfälle bearbeiten, die, wie man
 sich wohl ausdrückt, sensationell sind …«
 
@@ -94,7 +94,7 @@ Sie kramte in ihrem Pompadour und brachte drei meterlange
 Stücke einer grün-roten dünnen Schnur zum Vorschein.
 
 »Hier — dies ist sie, Herr Harst … Drei Enden Schnur
-… Und diese Schnüre waren um Das Geländer der Bank
+… Und diese Schnüre waren um das Geländer der Bank
 geschlungen, die Herr Schmidt mir zusammengezimmert hat
 … Vor drei Tagen fand ich die erste Schnur … Das nach
 unten hängende Ende schien in der Erde zu stecken. Als ich
@@ -367,7 +367,7 @@ Er kam an die Zaunpforte …
 
 »Ja, Kapitän Schmidt … Sie wünschen?«
 
-»Mein Name ist Harst … Hier mein Freund Schraut …
+»Mein Name ist Harst … Hier mein Freund Schraut …«
 
 »Ah — — sehr angenehm … — Wollen die Herren
 nicht eintreten? — Fräulein Hölderlin ist also wirklich bei
@@ -540,7 +540,7 @@ Harald erhob sich …
 Sie jetzt nur näher, Herr Schmidt … Was ich sehen wollte,
 habe ich gesehen …«
 
-»und das war …?!«
+»Und das war …?!«
 
 »Die Fährte eines Menschen mit kleinem Fuß …«
 
@@ -650,7 +650,7 @@ beiden bestand auch nicht die geringste Ähnlichkeit. —
 Der Kapitän qualmte aus seiner Zigarre dicke Wolken.
 
 Fragte dann: »Was mag der … der hinterlistige Lump
-Nur mit »Ihr Liebstes« gemeint haben?! — Fräulein Hölderlin
+nur mit »Ihr Liebstes« gemeint haben?! — Fräulein Hölderlin
 steht doch ganz allein auf der Welt da …«
 
 »Sie irren …: Nicki, ihr Hündchen!«
@@ -678,7 +678,7 @@ in Atome zerrissen zu werden — gar keine Lust!«
 »Und wenn Sie morgen etwa wieder solch eine bedrohliche
 Schnur finden sollten, so telephonieren Sie mich bitte an.
 Außerdem möchte ich Ihnen raten, uns beide, Schraut und
-Mich, einmal hier in Ihrem Häuschen mit übernachten zu
+mich, einmal hier in Ihrem Häuschen mit übernachten zu
 lassen … Vielleicht schon heute … Wir würden dann nach
 <@pagebreak/>
 Dunkelwerden in etwas anderer Aufmachung uns bei Ihnen
@@ -777,11 +777,11 @@ beleuchtet wurde …
 
 Aha — Irmgard Hölderlin wohnte Nummer fünfzig,
 Mansarde, nach vorn heraus, und da war auch schon diese
-Mansarde …«
+Mansarde …
 
 <@pagebreak/>
 »Vielleicht trampelst du nicht derart wie ein Lastelefant,«
-äußerte Harst jetzt wieder in gereiztem Tone »Die Läufer
+äußerte Harst jetzt wieder in gereiztem Tone. »Die Läufer
 hier auf den Treppen sind dünn wie Löschpapier und altersschwach
 wie der Gehirnkasten eines gewissen Max Schraut!
 Es ist nicht unbedingt nötig, daß die Hausbewohner zusammenlaufen,
@@ -898,7 +898,7 @@ Malersmann, genau wie Heringe, weil sie das sogenannte
 billigste und salzigste Volksnahrungsmittel sind.
 
 Dies überlegte ich mir zuerst, denn ich hatte ja nichts
-weiter zu tun,
+weiter zu tun.
 
 Dann beschäftigte ich mich in Gedanken mit dem alten
 Weibe und kam dank der Lehrjahre bei Harst zu folgenden
@@ -1173,7 +1173,7 @@ der oder die Täterin wohl lediglich aus Rache die Ärmste
 getötet hatte.
 
 Aber wie die Person in die Wohnung gelangt war, blieb
-vorläufig ein vollkommenes Rätsel. Die Flurtür war Verschlossen
+vorläufig ein vollkommenes Rätsel. Die Flurtür war verschlossen
 und mit der Sperrkette gesichert gewesen. Die
 Polizei hatte sie erst aufbrechen müssen.
 
@@ -1193,13 +1193,13 @@ in seiner Brieftasche gehabt hatte …
 
 Harst blieb dabei: das bucklige alte Weib sei verkleidet
 gewesen — eine tadellose Maske, — wahrscheinlich eine
-junge Person, wahrscheinlich ein Mann — ein sehr Schmächtiger,
+junge Person, wahrscheinlich ein Mann — ein sehr schmächtiger,
 zierlich gebauter Mensch, der in Frauenkleidern sich zu bewegen
 gewohnt sei …
 
 Wir fünf standen dicht beieinander …
 
-»Wenn Sie sich hier umtun wollen, Herr Harst,—«
+»Wenn Sie sich hier umtun wollen, Herr Harst, —
 bitte …« meinte der Regierungsrat höflich …
 
 Harald nickte … »Sehr gern …«
@@ -1284,7 +1284,7 @@ Harald hatte den Herren diesmal auch nicht die geringste
 Kleinigkeit verheimlicht, hatte hervorgehoben, wie das alte
 Fräulein ohne jeden Zweifel entweder aus ihrer eigenen oder
 aus der Vergangenheit ihres Vaters etwas zu verbergen
-Haben müsse, hatte den plötzlichen Ohnmachtsanfall der Hölderlin
+haben müsse, hatte den plötzlichen Ohnmachtsanfall der Hölderlin
 erwähnt und ebenso seine Vermutung, daß die geheime
 Inschrift auf dem Zettel Nr. 2 »Denken Sie an die
 Marianne!« sich sehr wohl auf ein Schiff beziehen könne.
@@ -1340,7 +1340,7 @@ tun … Wir betreten unser Haus … Du ziehst in meinem
 Arbeitszimmer die Fenstervorhänge zurück, öffnest die Fenster,
 und ich eile durch den Gemüsegarten auf den Parallelweg,
 biege wieder in die Blücherstraße ein und hoffe dann den
-Mann unauffällig »beschatten« zu können … Du bleibst.
+Mann unauffällig »beschatten« zu können … Du bleibst.«
 
 Alles geschah wie vereinbart …
 
@@ -1408,7 +1408,7 @@ Bedeutung …!«
 Er lehnte sich in den Klubsessel zurück, grub die Zähne in
 die Unterlippe …
 
-»Grün-rot …!!« murmelte er … «Grün-rot …!! Wenn’s
+»Grün-rot …!!« murmelte er … »Grün-rot …!! Wenn’s
 die Farben einer Reederei wären?! Nicht ausgeschlossen!«
 
 Er sprang auf …
@@ -1556,7 +1556,7 @@ wanderten wieder heim …
 
 Zu Fuß — — absichtlich …
 
-Als wir am Ringbahnhof Friedenau-Wilmersdorf Vorüberkamen,
+Als wir am Ringbahnhof Friedenau-Wilmersdorf vorüberkamen,
 sagte Harst:
 
 »Es ist wieder jemand hinter uns her … Diesmal ein
@@ -1819,7 +1819,7 @@ Die beiden Kommissare, Harst und ich lauschten atemlos.
 Was Schmidt berichtete, war in der Tat so unglaublich,
 daß man vor einem neuen Rätsel stand …
 
-Der Fall der «grün-roten Schnur« wuchs sich immer mehr
+Der Fall der »grün-roten Schnur« wuchs sich immer mehr
 zu einem unergründlichen Geheimnis aus …
 
 <h1>Die Brigg Atlanta.</h1>
@@ -2112,7 +2112,7 @@ Wohnung der ermordeten Hölderlin ein deutliches Geräusch.
 Wie das Knarren einer Schranktür …
 
 Das alte Sofa, auf dem wir beide saßen, stand an der
-Verbindungswand … Diese Wand war nur eine Rabitzwand<@refnote/>,
+Verbindungswand … Diese Wand war nur eine Rabitzwand<@refnote/>.
 
 Harst legte mir die Linke mit schwerem Druck auf den
 Schenkel …
@@ -2256,7 +2256,7 @@ Tür …
 Wir schließen hinter uns ab …
 
 Harst gleitet mit seiner Taschenlampe auf Strümpfen still
-hin und her …«
+hin und her …
 
 Ich merke: er sucht etwas!
 
@@ -2290,7 +2290,7 @@ Beuge mich über die Edelsteine …
 
 »Das … das ist ja ein … Schatz!«
 
-»Stimmt — mindestens eine Million wert …
+»Stimmt — mindestens eine Million wert …«
 
 Und er tut die Steine wieder in das Ledersäckchen, hüllt
 sie in dünne Watteschichten …
@@ -2329,7 +2329,7 @@ Ich bin wie ein Blitz mit den Beinen aus dem Bett …
 
 »Ja — glaubst du, davongeflogen?!«
 
-»Etwa der Schmächtige?!
+»Etwa der Schmächtige?!«
 
 »Wahrscheinlich …«
 
@@ -2338,7 +2338,7 @@ Ich bin wie ein Blitz mit den Beinen aus dem Bett …
 »Durch die Luftscheibe des Atelierfensters … Die hatten
 wir nicht verriegelt …«
 
-»und nun?!«
+»Und nun?!«
 
 »Nun hört das Versteckspielen auf. So ist dem Menschen
 nicht beizukommen … Dann also mit offenem Visier! Wir
@@ -2410,7 +2410,7 @@ Unten auf der Straße meinte Lüder achselzuckend:
 
 »Die Jule war’s nicht … Also der Schmächtige!«
 
-»Allerdings, bestätigte Harst … »Und deshalb werden
+»Allerdings,« bestätigte Harst … »Und deshalb werden
 Schraut und ich Doktor Gulba unsere Antrittsvisite machen
 … In aller Höflichkeit und Harmlosigkeit …«
 
@@ -2438,7 +2438,7 @@ Und er — mit einem Aufblitzen in den Augen:
 
 »Ah — — Bericht erstatten!«
 
-»Vielleicht …
+»Vielleicht …«
 
 Er ließ Meinen Arm los … Lächelte … Zog sein Zigarettenetui
 …
@@ -2548,7 +2548,7 @@ kenne den Mörder …«
 
 »Ah — — nicht möglich! — Pardon, das sollte nicht
 heißen, daß ich an Ihren Worten irgendwie zweifele …
-Ich bin nur erstaunt, denn nach den Berichten der Heutigen
+Ich bin nur erstaunt, denn nach den Berichten der heutigen
 Berliner Mittagszeitung scheint der Doppelmörder ein Mensch
 <@pagebreak/>
 von so überragender Intelligenz zu sein, daß man Bedenken
@@ -2558,7 +2558,7 @@ hat, ob man ihn überhaupt jemals entdecken wird …«
 lagen die Dinge auch noch recht ungünstig. Im Verlauf der
 letzten beiden Stunden ist ein Umschwung eingetreten …«
 
-»und — wodurch, Herr Harst?!«
+»Und — wodurch, Herr Harst?!«
 
 »Hierdurch!«
 
@@ -2737,7 +2737,7 @@ obwohl ich das nicht glaube … Er wird überhaupt nicht
 mehr auftauchen, behaupte ich … — Schluß … Wiederhören
 …«
 
-» Harald hängte ab …
+Harald hängte ab …
 
 Und ich fragte verdutzt:
 
@@ -2832,7 +2832,7 @@ Dies bestärkte mich nur in der Überzeugung, daß der Fall
 »Grün-rote Schnur« denn doch wesentlich anders lag, als
 es bisher den Anschein hatte. — Ich zog mich um, nahm
 ein Bad und stand so gegen halb acht, als die Dämmerung
-bereits hereinbrach, am Fenster von Haralds Arbeitszimmer,
+bereits hereinbrach, am Fenster von Haralds Arbeitszimmer.
 
 Meine Stimmung lag unter dem Gefrierpunkt … Ich
 wollte Harald eine Standpauke halten, die sich … hören
@@ -2850,7 +2850,7 @@ Essen Sie einen Happen mit?«
 
 »Gern …«
 
-So ließ ich denn hier servieren,
+So ließ ich denn hier servieren.
 
 Lüder war müde und abgespannt …
 
@@ -2900,7 +2900,7 @@ der Kern der Sache ist?!«
 
 Ich zuckte nur die Achseln …
 
-»und — woher die Diamanten?!« fuhr Lüder grübelnd
+»Und — woher die Diamanten?!« fuhr Lüder grübelnd
 fort. »Ich habe doch Gulbas Artikel über die Unglücksfahrt
 der Atlanta gelesen … An Bord der Atlanta können die
 Edelsteine sich nicht befunden haben. Die Brigg hatte Maschinen
@@ -2909,7 +2909,7 @@ neun Menschen, die Frau des Kapitäns eingerechnet, die ihren
 Mann begleitete, weil sie ganz jung verheiratet waren …«
 
 <@pagebreak/>
-»und trotzdem behaupte ich: Die Diamanten waren an
+»Und trotzdem behaupte ich: Die Diamanten waren an
 Bord der Atlanta! Denn aus Harsts ganzen Reden ging das
 hervor …«
 
@@ -2924,7 +2924,7 @@ Das Telephon hatte angeschlagen …
 eingeschnappt, wie?! — Lüder ist bei dir … Ich weiß es …
 Ihr könnt euch sofort mal etwas verändern: Arbeiterkostüm
 … Fuselduft … leicht bezecht … — Du verstehst … Dann
-Kommt nach der Göbenstraße Nr. 108 in die Kellerdestille von
+kommt nach der Göbenstraße Nr. 108 in die Kellerdestille von
 Krauske … Dort wird jemand sitzen und Eisbein essen und
 wie ein rotnasiger, rotbärtiger Stromer aussehen — Schluß!«
 
@@ -2988,7 +2988,7 @@ habe ich allerlei vorgeredet … Bei dem schlampigen Weibe
 wohnen noch zwei Dirnen … Meine Schlafstelle ist das Badezimmer
 der Wohnung — — die Wanne …«
 
-»Und — was soll das alles?!« fragte Lüder kopfschüttelnd,
+»Und — was soll das alles?!« fragte Lüder kopfschüttelnd.
 
 »Das werdet ihr sofort sehen … Fassen wir uns unter
 … Los denn — nach Kulmstraße 18 …«
@@ -3050,7 +3050,7 @@ Streifen …
 
 Leuchtete uns beiden …
 
-Wir kletterten vom Hängeboden Herab …
+Wir kletterten vom Hängeboden herab …
 
 Die Lampe erlosch … Wir standen neben der Wanne …
 
@@ -3113,7 +3113,7 @@ Ein doppelter Schrei …
 
 Lüder droht:
 
-»Ruhe — — Kriminalpolizei?!
+»Ruhe — — Kriminalpolizei?!«
 
 Seine Dienstpistole hält den Mechaniker in Schach …
 
@@ -3236,7 +3236,7 @@ So war denn die Tragödie dieser Nacht zustande gekommen
 ein und dieselbe Person … Klausnitz war im Auto an uns
 vorbeigejagt… heim nach der Rubensstraße …
 
-»und dort,« erklärte Harald mir, als wir nach Hause wanderten,
+»Und dort,« erklärte Harald mir, als wir nach Hause wanderten,
 »dort in seiner Wohnung sah ich, daß der Gentleman
 Doktor Gulba seine Augenbrauen in der Eile schlecht von
 der schwarzen Schminke gesäubert hatte … Klausnitz hatte
@@ -3252,7 +3252,7 @@ Hilversum. Diese Verwandten sandten uns beiden einen
 anständigen Scheck. Harald hat einen Teil der Summe der alten
 Jule geschenkt, die übrigens immer noch Händlerin ist …
 Nur daß sie jetzt stets ein schwarzes Kopftuch trägt …: Trauer
-um den Stiefsohn, den sie über alles geliebt Hat!
+um den Stiefsohn, den sie über alles geliebt hat!
 
 <#import "*/harst.ftl" as harst>
 
