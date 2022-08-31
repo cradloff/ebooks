@@ -1,21 +1,14 @@
 <@pagebreak/>
 
-<@pagebreak/>
-
-Harald Harst: Aus meinem Leben
-
-Die Taubenzüchter
-
-Erzählt von
-Max Schraut
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 
 Dort, wo die Waldpromenade des Ostseebades Kranz nach
 Osten zu, von alten Birken eingefaßt, neben der Fahrstraße
-nach Kranzbeck zum Kurischen Haff hinläuft, zieht sic9 rechts
+nach Kranzbeck zum Kurischen Haff hinläuft, zieht sich rechts
 von dieser Straße und Promenade ein weites mooriges Gelände
-hin, in dessen undurchdringlichen Dickdungen noch der
+hin, in dessen undurchdringlichen Dickungen noch der
 Elch haust und zuweilen bei seinen Wanderungen auch bis
 an die Straße vordringt, harmlose Spaziergänger erschreckt
 und doch in stolzer Ruhe niemals irgendwie von ihnen Notiz
@@ -23,114 +16,118 @@ nimmt.
 
 Ein Teil dieses Moores, durch das nur wenige Wege
 und Pfade laufen, die stellenweise unter Wasser stehen, heißt
-im Volk&ömunde das Totenmoor.
+im Volksmunde das Totenmoor.
 
 Einer alten Sage nach sollen hier einmal die Ordensritter
 eine kleine Feste erbaut haben, die dann eines Nachts
-von den heidnischen Preußen gestürmt worden sein. Die
+von den heidnischen Preußen gestürmt worden sei. Die
 Besatzung aber, so berichtet die Sage weiter, wurde von den
 Siegern in einem großen Moorloche versenkt, —
 
 Von diesem Totenmoor handelte auch der Brief, den
 Harald Harst an einem heißen Julitage von dem Besitzer
-des dem Moor benachbarten Gutes Turban erhielt.
+des dem Moor benachbarten Gutes Ludau erhielt.
 
-Nachdem Harald den Brief langsam solche« »Anschlag,
+Nachdem Harald den Brief langsam gelesen, Umschlag,
 <@pagebreak/>
 Briefmarke und Poststempel nach seiner Gewohnheit gründlich
-geprüft hatte, reichte er ihn mir über den Tische hin und
+geprüft hatte, reichte er ihn mir über den Tisch hin und
 meinte:
-»Wenn die Angaben stimmen, scheint es sie in der Tat
-um eine recht merkwürdige Angelegenheit zu handeln«…«
-Wir saßen auf der Veranda des Harstschen Nachthemd
-Hauses, hatten soeben gefrühstückt und dabei unsere Tauben
+
+»Wenn die Angaben stimmen, scheint es sich in der Tat
+um eine recht merkwürdige Angelegenheit zu handeln …«
+
+Wir saßen auf der Veranda des Harstschen Familienhauses,
+hatten soeben gefrühstückt und dabei unsere Tauben
 gefüttert, die so zahm waren, daß sie vom nahen Stalle
 stets sofort durch die offenen Fenster in die Veranda geflogen
-kamen, sehr zum Morgen der Köchin Mathilde, die stets
-etwas von »Schmutzzerei« murmelte, weil die Tierchen eben
+kamen, sehr zum Ärger der Köchin Mathilde, die stets
+etwas von »Schmutzerei« murmelte, weil die Tierchen eben
 nicht stubenrein waren und auf den Dielen der Veranda ihren
 rückwärtigen Nöten freien Lauf ließen.
-Ich las folgendes:
-»Turban bei Kranz,
-Samland, Osttor.,
-den 3. Juni 19.
 
-Ohr geehrter Herr Harst!
+Ich las folgendes:
+
+<p class="pre right">»Ludau bei Kranz,
+Samland, Ostpr.,
+den 3. Juni 19.</p>
+
+<p class="centered">Sehr geehrter Herr Harst!</p>
 
 Sie gestatten, daß ich mich mit einer Angelegenheit an
 Sie wende, die mich seit Wochen schon beschäftigt, jedoch gestern
 erst sozusagen spruchreif wurde,
 
-Ich) habe am 1. Mai dieses Jahres das zu meinem Gute
+Ich habe am 1. Mai dieses Jahres das zu meinem Gute
 gehörige Totenmoor (folgte nähere Beschreibung) an einen
 Amerikaner verpachtet, der, geborener Deutscher ursprünglich,
 sich jetzt wieder in seinem einstigen Vaterlande und in
 seiner Heimatprovinz ansässig machen wollte. Er hat seinen
-Namen Aufschnitt amerikanisiert und nennt sich jetzt Goudsmith,
-ist etwa fünfzig Sagte alt und ein stiller, ernster Mann,
+Namen Gutschmidt amerikanisiert und nennt sich jetzt Goudsmith,
+ist etwa fünfzig Jahre alt und ein stiller, ernster Mann,
 der mir eigentlich recht sympathisch war — — war! — Er
-nächste also das Totenmoor auf zwei Jahre, ließ sich von
+pachtete also das Totenmoor auf zwei Jahre, ließ sich von
 einer Königsberger Firma dort auf der höchsten und sichersten
-Stelle des Moores ein Anschaut errichten, das fertig und
+Stelle des Moores ein Blockhaus errichten, das fertig und
 auseinandernehmbar geliefert wurde und nebenbei einen
 ebensolchem Stall,
 
-In acht Tagen waren die Gebäude Dir und fertig.
+In acht Tagen waren die Gebäude fix und fertig.
 
 <@pagebreak/>
 Inzwischen war auch Goudsmiths Diener, ein riesiger
-Mulatte, mit dem Gepäck seines Herr:. eingetroffen, eine ganze
-Wagenladung von Koffern und Kisten. und in weiteren drei
-Tagen lieferte ein Königsberger Geschirr die Möbel, so daß
+Mulatte, mit dem Gepäck seines Herrn eingetroffen, eine ganze
+Wagenladung von Koffern und Kisten, und in weiteren drei
+Tagen lieferte ein Königsberger Geschäft die Möbel, so daß
 Goudsmith mir bereits am 12. Mai sein neues Heim zeigen
-konnte. Das heißt: er zeigte mir nur das Drohung, den
-Stall nicht. Er meinte, an dem Stallgebäude sei ja doch) nichts
+konnte. Das heißt: er zeigte mir nur das Blockhaus, den
+Stall nicht. Er meinte, an dem Stallgebäude sei ja doch nichts
 zu sehen. Ich merkte aber genau, er wollte mir den Stall
 nicht zeigen. Und hiermit begann mein Mißtrauen gegen
-die beiden Leute, die dort im Totenmoor von den Mädchen
+die beiden Leute, die dort im Totenmoor von den Mücken
 buchstäblich aufgefressen werden müssen,
 
-— Dieser geringe Anlaß, eben Goudsmiths Bestreben, mich
-von dem Stalle fernzuha’:-n, genügte mir, bei diesem ersten
+Dieser geringe Anlaß, eben Goudsmiths Bestreben, mich
+von dem Stalle fernzuhalten, genügte mir, bei diesem ersten
 Besuche auch weiter die Augen gründlich zu gebrauchen.
 
-Kochs etwas fiel mir dann auf: der Mulatte, der sich
-James, Kaspar nennt, behandelte seinen Herrn durchaus als
+Noch etwas fiel mir dann auf: der Mulatte, der sich
+James Kaspar nennt, behandelte seinen Herrn durchaus als
 Gleichgestellten und trat auch mir gegenüber in einer Weise
 auf, als ob er nicht Diener, sondern Mitpächter sei. Im
-übrigen machte dieser James den CindruFX eines gebildeten
+übrigen machte dieser James den Eindruck eines gebildeten
 Mannes.
 
-Als ich von diesem Besuch mit meinem Jagdwagen herumfuhr,
-wandte sich plötzlich mein alter Kutscher um’ und meinte:
+Als ich von diesem Besuch mit meinem Jagdwagen heimfuhr,
+wandte sich plötzlich mein alter Kutscher um und meinte:
 
 »Herr Baron, in dem Stalle sind Tauben, mindestens
-fünfzig Stück … Ich habe durch das eine Fenster hinein
-geschaut, denn der von innen gebrachte Vorhang war durch
+fünfzig Stück … Ich habe durch das eine Fenster hineingeschaut,
+denn der von innen angebrachte Vorhang war durch
 eine der Tauben beiseite geschoben worden.«
 
 Mein Kutscher wußte mir dann noch zu berichten, daß die
 Tauben in der einen Hälfte des Stalles frei umherflogen, und
-daß im Dache zwei wenig auffällige Fürsten vorhanden seien,
+daß im Dache zwei wenig auffällige Türchen vorhanden seien,
 
-In den nächsten Tagen vergaß ich all diese. Wir hatten
-mit der Frühjahrs8bestellung genug zu tun,
+In den nächsten Tagen vergaß ich all dies. Wir hatten
+mit der Frühjahrsbestellung genug zu tun,
 
 Dann — so Ende Mai — meldete mir mein Förster,
 daß er auf einem nächtlichen Pirschgang beobachtet habe,
-wie ein Schwarm Tauben von mindestens Preis Stück von
-dem Stalle Goudsmith aufgeflogen und in der ’.;’len Mond«-
-naht dann nach »Dessen davongegangen sei.
+wie ein Schwarm Tauben von mindestens dreißig Stück von
+dem Stalle Goudsmith aufgeflogen und in der hellen Mondnacht
+dann nach Westen davongezogen sei.
 
 <@pagebreak/>
-In der ersten Jammerte wieder hörte ich von dem Vorsteher
-des Bahnhofs Turban (die Bahnlinie Königsberg—Kranz
+In der ersten Juniwoche wieder hörte ich von dem Vorsteher
+des Bahnhofs Ludau (die Bahnlinie Königsberg—Kranz
 führt dicht an meinem Gut vorüber), daß Mr. Goudsmith
 jede Woche eine große Kiste aus Holland erhalte — — mit
 Tauben! Als Eilfracht! Immer aus demselben holländischen
-Grenzdorfe Balkensteg.
+Grenzdorfe Vallenpiep.
 
-Und- am 15. Juni konnte mir mein Förster abermals mitteilen,
+Und am 15. Juni konnte mir mein Förster abermals mitteilen,
 daß ein großer Taubenschwarm nachts von dem Blockhause
 gen Westen davongeflogen sei.
 
@@ -145,15 +142,15 @@ Die Polizei arbeitete schnell. Gestern erhielt ich von dem
 mir persönlich bekannten Leiter der Kriminalabteilung folgendes
 Schriftstück, das ich hier wörtlich wiedergebe:
 
-»Gegen die beiden von Ihnen beargwöhnten Herren
+> »Gegen die beiden von Ihnen beargwöhnten Herren
 liegt nicht das geringste vor. Ernest Goudsmith besaß bis
-vor fünf Monaten in New Schleppe, Vereinigte Staaten,
-ein Inweliergeschäft, das er veräußerte, weil er nach Deutschland
+vor fünf Monaten in New Orleans, Vereinigte Staaten,
+ein Juweliergeschäft, das er veräußerte, weil er nach Deutschland
 zurückkehren wollte.
 
-Mit ihm eng befreundet war der Farbige James Kaspar,
-Mulatte, Doktor der Chemie an der NeJerakademie in New
-Orleans. Kaspar beschäftigte ein; schon dort in Amerika
+> Mit ihm eng befreundet war der Farbige James Kaspar,
+Mulatte, Doktor der Chemie an der Negerakademie in New
+Orleans. Kaspar beschäftigte sich schon dort in Amerika
 viel mit der Erforschung des Vogelfluges, mit den Wanderungen
 der Zugvögel und der wissenschaftlichen Prüfung
 des Orientierungssinnes der Brieftauben. Er gab vor
@@ -161,17 +158,17 @@ vier Monaten seine Stellung an der Akademie auf und
 erklärte, er wolle in Deutschland seine Forschungen über
 Vogelflug usw. fortsetzen.
 
-Die von Ihnen festgestellten Einzelheiten über das
+> Die von Ihnen festgestellten Einzelheiten über das
 Treiben der beiden Amerikaner im Totenmoor dürften
 durchaus harmlos sein. Doktor James Kaspar wird, wie
 <@pagebreak/>
 viele Gelehrte dies tun, seine Forschungen geheim halten
 wollen.
 
-Na alledem … liegt für uns kein Grund vor, die beiden
+> Nach alledem … liegt für uns kein Grund vor, die beiden
 irgendwie zu belästigen.«
 
-Dieses Schreiben, Herr Harst, konnte schau’- meinen Argwohn
+Dieses Schreiben, Herr Harst, konnte jedoch meinen Argwohn
 nur verstärken …
 
 Ich entschloß mich, Ihnen den Fall vorzutragen, und betone,
@@ -180,100 +177,107 @@ jede Woche eine Kiste Tauben für Goudsmith eintrifft und
 daß Doktor James Kaspar auch fernerhin hier die Rolle eines
 Dieners spielt.
 
-Außerdem nahe ich« 8. Goudsmith ist Witwer. Vor zwei
-Boden erschien nun im Totenmoor sein einziges Kind, seine
+Außerdem noch etwas. Goudsmith ist Witwer. Vor zwei
+Wochen erschien nun im Totenmoor sein einziges Kind, seine
 Tochter Bessy, die bis dahin in einem Schweizer Pensionat
 gelebt hatte.
 
-Er machte mir mit dem jungen Mädchen »eine«: offiziellen
-Besuch), stellte sie mir vor und bat, ob Bessy uns nicht zuweilen
+Er machte mir mit dem jungen Mädchen einen offiziellen
+Besuch, stellte sie mir vor und bat, ob Bessy uns nicht zuweilen
 auch zwanglos besuchen dürfe, da sie sich dort in der
 Einsamkeit doch zu sehr langweilen würde.
 
 Uns gefiel Miß Bessy ausgezeichnet. Sie kommt fast
-jeden zweiten Tag zu uns herüber, macht aber. seit ein paar
+jeden zweiten Tag zu uns herüber, macht aber seit ein paar
 Tagen einen merkwürdig gedrückten Eindruck.
 
-Zeit drei Tagen ist sie ausgeblieben. Mein Ältester,
-der mir bei der Bcwirtschaf’’ig von Turban Gilt, war nun
-gestern nach dem BloFhaus8 gewandert und hörte dort, daß
-das junge Mädchen zu Bekannten nachts Berlin gereist sei.
+Seit drei Tagen ist sie ausgeblieben. Mein Ältester,
+der mir bei der Bewirtschaftung von Ludau hilft, war nun
+gestern nach dem Blockhaus gewandert und hörte dort, daß
+das junge Mädchen zu Bekannten nach Berlin gereist sei.
 
 Erkundigungen bei den Bahnbeamten unserer Station
-Turban ergaben jedoch, daß Miß Bessy von niemandem auf
+Ludau ergaben jedoch, daß Miß Bessy von niemandem auf
 dem Bahnhof bemerkt worden war. Auffallend ist ja auch,
 daß sie uns von dieser Reise nichts gesagt hat, obwohl sie
-mit meiner Frau auf recht vertrautem Fuße »und, ebenso mit
-Erwin, meinem Geleiten.
+mit meiner Frau auf recht vertrautem Fuße stand, ebenso mit
+Erwin, meinem Ältesten.
 
-Sollten nun Ihnen, Herr Harst, diese Mr«? VTNeobachtuns
-gen den Eintrat machen, daß mein Delta … »seicht des
-gründet ist, so bitte ich Sie, hierher zu k.:. n. Weber die
+Sollten nun Ihnen, Herr Harst, diese meine Beobachtungen
+den Eintrat machen, daß mein Verdacht vielleicht begründet
+ist, so bitte ich Sie, hierher zu kommen. Über die
 <@pagebreak/>
 Honorarfrage werden wir einig werden. Geben Sie mir bitte
-Nachricht, ob im Sie erwarten darf. Am besten einen Brief
-in einem Umschlag mit irgendeinem FirmenaufdruFck und
+Nachricht, ob ich Sie erwarten darf. Am besten einen Brief
+in einem Umschlag mit irgendeinem Firmenaufdruck und
 ohne Ihre volle Namensunterschrift, da man nie wissen kann,
 ob ein Schreiben nicht in falsche Hände gerät. Ich habe diesen
 Brief selbst meinem Sohne verschwiegen, denn ich kenne Ihre
 Arbeitsmethode, möglichst niemanden einzuweihen.
 
-Ihr sehr ergebener
-Uhr Freiherr von Sahib?!.«
+<p class="centered">Ihr sehr ergebener</p>
 
-— Ich hatte dieses Schreiben ebenfalls sehr langsam geht[
-Ofen und mir sofort alle Einzelheiten eingeprägt. Unsereiner
+<p class="right">Udo Freiherr von Balitzki.«</p>
+
+— Ich hatte dieses Schreiben ebenfalls sehr langsam gelesen
+und mir sofort alle Einzelheiten eingeprägt. Unsereiner
 ist ja daran gewöhnt, eine Unmenge von solchen Einzelheiten
 nicht vergessen zu dürfen, denn ein Detektiv mit schlechtem
-Gedächtnis gliche einem Klaviervirtuosen Tone Gehör.
+Gedächtnis gliche einem Klaviervirtuosen ohne Gehör.
 
-»Raum?« fragte Harald, als im den Brief beiseite legte.
+»Nun?« fragte Harald, als ich den Brief beiseite legte.
 
 »Faul!!«
 
 »Stimmt — sehr faul! Die »Reise« der Tochter am
-Faulsten!! Denn beachtet man ihre »gedrückte Stimmung«,
+faulsten!! Denn beachtet man ihre »gedrückte Stimmung«,
 so darf man vermuten, daß das geheimnisvolle Treiben ihres
 Vaters und des Mulatten ihre junge Seele belastet. —
 — Setz’ dich bitte an die Schreibmaschine, mein Alter, nimm
-einen der Bogen mit der Pseudo=Firma und — dann los …«
+einen der Bogen mit der Pseudo-Firma und — dann los …«
 
 Er diktierte — ich tippte …
 
-In der linken obersten Folge des Briefbogens stand protzig
+In der linken obersten Ecke des Briefbogens stand protzig
 in Zweifarbendruck:
 
-Horst & Scheu,
-Agenturen,
+<p class="pre centered">Horst & Schrack,
+Agenturen.
 Telephon: Kurfürst 1982—1987,
-Berlin-Ihm., Blücherstr. 10.
+Berlin-Schm., Blücherstr. 10.</p>
+
 Ich tippte …
-Herrn Baron v. Sahib?!:
-Turban bei Kranz,
-Samland, Osttor.,
-5\. Juli 19.,
-Euer Hohwohlqaeboren Angebot Interesses uns. Wir
+
+<p class="centered">Herrn Baron v. Balitzki:</p>
+
+<p class="right">Ludau bei Kranz,</p>
+<p class="right">Samland, Ostpr.,</p>
+<p class="right">5\. Juli 19.,</p>
+
+> Euer Hochwohlgeboren Angebot interessiert uns. Wir
 <@pagebreak/>
 werden uns erlauben, in den nächsten Tagen persönlich
 Gegenvorschläge zu unterbreiten.
-Hochachtungsvoll
-Horst & Schenkel,
-Dieser harmlose Brief ging noch4 an demselben Tage ab.
+
+<p class="centered">Hochachtungsvoll</p>
+
+<p class="right">Horst & Schrack.</p>
+
+Dieser harmlose Brief ging noch an demselben Tage ab.
 
 Und am nächsten Morgen reisten wir beide dann nach
-Kranz …-
+Kranz …
 
-TD
 <h2>2. Kapitel.</h2>
-Hier in dem vielbesuchten Ostseebade etwa als Harst und
-Schraut aufzutreten — — gar noch unmaskiert, war Russen
 
-schlossen — gänzlich’ 18geschlossen, denn auch in Ostpreußen
+Hier in dem vielbesuchten Ostseebade etwa als Harst und
+Schraut aufzutreten — — gar noch unmaskiert, war ausgeschlossen
+— gänzlich ausgeschlossen, denn auch in Ostpreußen
 hatten wir übergenug persönliche Bekannte, die Haralds
-kühne Hakennase und mein gemütliches Komikeraosicht unter
+kühne Hakennase und mein gemütliches Komikergesicht unter
 Tausenden sofort herausgefunden hätten …
 
-So tauchten denn und) auf der Kranken Uferpromenade
+So tauchten denn auch auf der Kranzer Uferpromenade
 am 7. Juli zwei neue Erscheinungen auf, die jedoch auf
 niemanden Eindruck machten und von niemandem beachtet
 wurden …
@@ -282,9 +286,9 @@ Zwei ältere Herren, gänzlich Typ von braven Beamten
 aus einem Provinznest …
 
 Bei herrlichstem Wetter schleppten sie ihre Schirme mit
-riß herum — Schirme von der Gattung »Mußgsprite« …
+sich herum — Schirme von der Gattung »Musspritze« …
 
-Nein — kein holdes MädHenauge kümmerte sich um diese
+Nein — kein holdes Mädchenauge kümmerte sich um diese
 ehrbaren Gestalten, die in einem Häuschen an den Tennisplätzen
 Quartier bezogen hatten: Erdgeschoßzimmer mit Veranda
 — schlicht und sauber!
@@ -294,84 +298,84 @@ entlang … Zum Teufelsmoor waren’s von hier keine zwanzig
 Minuten, wenn man die Wege im Moor kannte und nasse
 Füße nicht scheute … —
 
-Also am 7. Juli beehrten wir Kranz in »Felsen soliden
-Aufzuges und mit den ebenso Kollegen Namen »her Mittelschullehrer
-aus der kennen Käsestadt Tilsit — alles ans
+Also am 7. Juli beehrten wir Kranz in diesem soliden
+Aufzuge und mit den ebenso soliden Namen zweier Mittelschullehrer
+aus der schönen Käsestadt Tilsit — alles angeblich
 <@pagebreak/>
-schlich — angeblich … — Die Hauptsache war, unsere biedere
+— angeblich … — Die Hauptsache war, unsere biedere
 Wirtin glaubte uns und meldete uns als Hommel und
-Schwelle an, wobei ihr nur das Mißgeschick passierte, daß
+Schnierke an, wobei ihr nur das Mißgeschick passierte, daß
 sie auf dem Anmeldezettel statt Hommel Hammel gelesen hatte
-und nun Freund Harald mit konstanter Bescheid mit »Herr
+und nun Freund Harald mit konstanter Bosheit mit »Herr
 Hammel« anredete, obwohl Harst mit feinsten Rede sie auf
 diese Verwechslung zweier Buchstaben aufmerksam machte
 … Hammel schien ihr eben geläufiger zu sein, und wenn sie
 schon mal zufällig Hommel sagen wollte, wurde sie wieder
 unsicher, ob’s auch stimmte, und sagte … Hummel!!
 
-Das so nebenbei … Peng ich konnte diese kleine Episode
+Das so nebenbei … Denn ich konnte diese kleine Episode
 Harst-Hammel unmöglich übergehen … —
 
 Wie gesagt, wir waren nun richtiggehende Kurgäste in
-Kranz … Kurgäste, die Durchgang nicht zur Erholung hier
-— weilten, sondern im Gegenteil etwas sehr Anstrengendes und
-erstaunt« Umständen sehr Gefährliches beabsichtigten: dem Taus
-deutschen von Totenmoor hinter seine Schliche zu kommen!!
+Kranz … Kurgäste, die Durchaus nicht zur Erholung hier
+weilten, sondern im Gegenteil etwas sehr Anstrengendes und
+unter Umständen sehr Gefährliches beabsichtigten: dem
+Taubenzüchter von Totenmoor hinter seine Schliche zu kommen!!
 
-Den:: so nannte man hier in Kranz den Mr. Ernest
+Denn so nannte man hier in Kranz den Mr. Ernest
 Goudsmith unter der einheimischen Bevölkerung, wie uns
-unsere Wirtin mitgeteilt hatte, als Harst»-Hommel auf das
+unsere Wirtin mitgeteilt hatte, als Harst-Hommel auf das
 Moor zu sprechen kam.
 
-Im übrigen waren die Kranken dem Amerikaner gegenüber
-jedoch durchschaut arglos — durchaus! — Warum sollte ein
+Im übrigen waren die Kranzer dem Amerikaner gegenüber
+jedoch durchaus arglos — durchaus! — Warum sollte ein
 Mann nicht Tauben züchten, und warum sollte er nicht dort
 im Moor hausen, wo er den Grund und Boden so billig
 hatte pachten können …! —
 
-Es war für uns recht wertvoll, die Stimmung der Kranken
+Es war für uns recht wertvoll, die Stimmung der Kranzer
 gegenüber dem neuen Nachbar kennen zu lernen. Volkesstimme
 — Gottesstimme! Das Volk hat ja im allgemeinen
-eine sehr seine Nase für anrüchige Dinge. Wer es versteht,
-aus einem Lust von Klares und Übertreibungen den Kern
-herauszuschälen, wird auch das Männlein Wahrheit finden.
+eine sehr feine Nase für anrüchige Dinge. Wer es versteht,
+aus einem Wust von Klatsch und Übertreibungen den Kern
+herauszuschälen, wird auch das Körnlein Wahrheit finden.
 Hier gab es nichts herauszuschälen … Die Bevölkerung
-zeigte keinerlei Interesse für das Anschaut, — ein Beweis,
-daß der Fenster des Barons zu schweigen verstand, denn der
+zeigte keinerlei Interesse für das Blockhaus, — ein Beweis,
+daß der Förster des Barons zu schweigen verstand, denn der
 <@pagebreak/>
-wußte ja, daß sein Herr die Einsiedler dort in der Müden-wildnis
+wußte ja, daß sein Herr die Einsiedler dort in der Mückenwildnis
 durchaus nicht für harmlos hielt. —
 
 Um Nachmittag dieses 7. Juli unternahmen Herr Hommel
-und sein Freund Feuerte einen Spaziergang durch;) das
-Moor, bewaffnet mit Schmetterlingsnetzen und Entäußert
-Trommeln. Unsere eigentliche Bewaffnung war die übliche:
+und sein Freund Schnierke einen Spaziergang durch das
+Moor, bewaffnet mit Schmetterlingsnetzen und Botanisiertrommeln.
+Unsere eigentliche Bewaffnung war die übliche:
 Clementpistolen, Taschenlampen, Dietriche, Patentmesser, —
-außerdem Mückenschleier und Lederhandschuhe zum Sdqhuß
+außerdem Mückenschleier und Lederhandschuhe zum Schutz
 gegen die fliegenden Blutsauger.
 
-Wir wollten eben zunächst mal das Terrain sondieren?!
+Wir wollten eben zunächst mal das Terrain sondieren!!
 Wollten als Jugenderzieher und Schmetterlingssammler das
 Moor durchstreifen und so ganz zufällig uns der neu entstandenen
 Siedlung nähern … Alles Weitere würde sich
-dann von selbst ergeben ., —
+dann von selbst ergeben … —
 
-Es war ein glühend heißer Tag»…
+Es war ein glühend heißer Tag …
 
 Als wir von dem Fahrwege abbogen und nun sehr bald
-auf dem weichen, federnden Pfade auf gut Glück ’in diese
-Wildnis von Birken, Ellen, verkrüppelten Kiefern, Farnsträuchern
-und MooVSbeerengestrüpp eindrangen, letzte sich
+auf dem weichen, federnden Pfade auf gut Glück in diese
+Wildnis von Birken, Erlen, verkrüppelten Kiefern, Farnsträuchern
+und Moosbeerengestrüpp eindrangen, legte sich
 uns diese würzige, schwere, feuchte Luft mit einem dumpfen
-Du auf die Brust, beinahe als ob wir einen indischen
+Druck auf die Brust, beinahe als ob wir einen indischen
 Dschungel betreten hätten …
 
 Der Pfad war so schmal, daß wir hintereinander gehen
 mußten …
 
-Gdelängelte in langen Windungen über die höher gelegenen
-Stellen hin und war »… 3) oft genug z1rch4 bräuns-liHe
-Wasserla4on gesperrt, in denen es von Käsern und
+Schlängelte in langen Windungen über die höher gelegenen
+Stellen hin und war doch oft genug durch bräunliche
+Wasserlachen gesperrt, in denen es von Käfern und
 allerlei Gewürm nur so wimmelte …
 
 Wundersam war’s, daß schon hier keine zweihundert
@@ -379,23 +383,23 @@ Meter von der Promenade entfernt, auf der geputzte Menschen
 sich fröhlich bewegten, eigentlich eine andere Welt begann
 — eine Welt für sich …
 
-Keiner der Badegäste hätte sie) hier in das Moor
+Keiner der Badegäste hätte sich hier in das Moor
 hineingetraut … Schon die erste Wasserpfütze hätte Neugierige
 zurückgescheucht … —
 
-Dann teilte sich der Pfad … Ein kaum »:äaübarer
+Dann teilte sich der Pfad … Ein kaum erkennbarer
 <@pagebreak/>
-Steig lief naß Süden, und den benutzen wir, denn nur
-am Süden war das Totenmoor zu suchen, wie wir auf einer
+Steig lief nach Süden, und den benutzen wir, denn nur
+im Süden war das Totenmoor zu suchen, wie wir auf einer
 Karte von Kranz und Umgegend festgestellt hatten …
 
 Emsig bemühten wir uns, die hier im Sumpfe hausenden
 Falter mit unseren Netzen zu erwischen …
 
 Ein leichter Tod war ihnen beschieden — durch Aether
-… Dann [preßten wir sie auf lange Nadeln und steckten sie
-auf unsere Strohhüte … Das sah, durchaus sammlermäßig
-aus … Das gab uns noch« mehr das Gepräge völlig harmloser
+… Dann spießten wir sie auf lange Nadeln und steckten sie
+auf unsere Strohhüte … Das sah durchaus sammlermäßig
+aus … Das gab uns noch mehr das Gepräge völlig harmloser
 älterer Herren, die lediglich einer ebenso harmlosen
 Neigung zuliebe diese Wildnis durchqueren …
 
@@ -406,12 +410,12 @@ Und mit einem Male standen wir vor einem Grenzpfahl,
 auf dessen Holztafel kaum mehr leserlich in schwarzer Ölfarbe
 stand:
 
-Majorat Zukam.
-Betreten verboten.
+<p class="pre centered">Majorat Ludau.
+Betreten verboten.</p>
 
 Wir waren also am Ziel …
 
-Wenn auch noch nicht in der Nähe des Blohauses …
+Wenn auch noch nicht in der Nähe des Blockhauses …
 Weit konnte es nicht mehr sein … Das Gebiet des Totenmoores
 maß keine achthundert Meter im Geviert.
 
@@ -423,15 +427,15 @@ Die Brücke fanden wir …
 
 Vier roh behauene Birkenstämme ohne Geländer … Von
 dem ebenso rohen Sperrbalken, der wie eine Eisenbahnschranke
-geschlossen war, hing an Traten ein Kistendeckel
+geschlossen war, hing an Drähten ein Kistendeckel
 Herab, auf dem man mit Teer in lateinischen Buchstaben
 gepinselt hatte:
 
-Gesperrten Weg! —
-Lebensgefahr!t!
-Der Tochter …
+<p class="pre centered">Gesperrter Weg!
+Lebensgefahr!!</p>
+<p class="right">Der Pächter.</p>
 
-Aha — — also Mr. Ernest Goudsmith war der Rekorder
+Aha — — also Mr. Ernest Goudsmith war der Urheber
 dieser Warnung!
 
 <@pagebreak/>
@@ -440,7 +444,7 @@ sich vielleicht an diese Warnung kehren … Wir beide stiegen
 getrost über den Balken und verfolgten den Pfad weiter …
 
 Wenn wir bisher das Moor nur in seiner bescheidenen
-Art von Wildnis kennen gelernt hatten, — — hier begann nun
+Art von Wildnis kennen gelernt hatten, — hier begann nun
 in der Tat ein sumpfiger Urwald, wie wir ihn bis dahin
 nirgends in Deutschland angetroffen hatten … Das hügelige
 Terrain war von offenen Wasserlachen überall durchzogen,
@@ -450,7 +454,7 @@ Pfad wurde breiter, dafür jedoch immer sumpfiger. An
 manchen Stellen lagen Bretter und flache Steine, über die
 man hinweg balancieren mußte.
 
-Gerade als wir eine dieser Stellen hinter uns Ratten
+Gerade als wir eine dieser Stellen hinter uns hatten
 und vor uns einen größeren Hügel, an dessen Rande der
 Steig dicht am Wasser hinlief, hörten wir mit einem Male
 rechts von uns Stimmen — — ganz gedämpft …
@@ -461,13 +465,13 @@ die tiefere Männerstimme unterbrach …
 Zu verstehen war nichts …
 
 Und — wie sollten wir wohl hier in diese Mauer von
-Seiten, Zweigen, Gestrüpp und Brombeerranken uns einen
+Ästen, Zweigen, Gestrüpp und Brombeerranken uns einen
 Weg bahnen?!
 
-Über Harst-Hommel war in sollen Fällen nie verlegen,
+Aber Harst-Hommel war in solchen Fällen nie verlegen,
 
-Er bückte sich, schob ganz unten an der Erde die Danken
-auseinander und begann dann mit oben Taschenmesser zu
+Er bückte sich, schob ganz unten an der Erde die Ranken
+auseinander und begann dann mit dem Taschenmesser zu
 arbeiten …
 
 Siehe da — — es gelang!
@@ -475,19 +479,19 @@ Siehe da — — es gelang!
 Diese grüne Mauer war keine zwei Meter dick, und wie
 Indianer aus den poetischen Zeiten eines Lederstrumpf krochen
 wir nun in einem Tunnel von Farnkräutern den Hügel
-höher hinan, bis uns Marionette den Weg versperrten …
+höher hinan, bis uns Mauerreste den Weg versperrten …
 
 Mauerreste, die an dieser Stelle vielleicht zwei Meter
 hoch waren …
 
-Mauerreste, dick mit Moo&vpolstern überzogen …
+Mauerreste, dick mit Moospolstern überzogen …
 
-Und in Augenhöhe etwa ein Fensterlos mit eint »pro
+Und in Augenhöhe etwa ein Fensterloch mit einem Vorhang
 <@pagebreak/>
-Hang von Brombeerranken, durch die man bequem hindurch
-(vorn konnte … hinein in eine Art Hofraum …
+Hang von Brombeerranken, durch die man bequem hindurchlugen
+konnte … hinein in eine Art Hofraum …
 
-Wir sahen’s auf den ersten Bis: es war dies die Ruine
+Wir sahen’s auf den ersten Blick: es war dies die Ruine
 der sagenhaften Ordensritterburg …
 
 Keine bloße Sage, wie wir hier in Kranz erfahren hatten.
@@ -496,73 +500,72 @@ Nein, — es hatte hier im Totenmoor wirklich einst eine
 kleine Burg gegeben, deren Bestimmung gewesen, den Zugang
 zum Kurischen Haff freizuhalten …
 
-Und in dem ehemaligen Burghofe erblickten wir « ein
+Und in dem ehemaligen Burghofe erblickten wir ein
 junges Mädchen, das auf einem Mauerklotz saß und jetzt
 bitterlich weinte, dazu noch einen jungen schlanken Herrn in
 einer Art Jagdanzug, der soeben wütend mit seinem derben
-Krückstock in die auch) dort wuchernden Farnstauden hinein-hieb
+Krückstock in die auch dort wuchernden Farnstauden hineinhieb
 …
 
 Die beiden glaubten sich ohne Zweifel unbeobachtet und
 unbelauscht …
 
-Die beiden konnten nur Bessy Goudsmith und Erwin vor
+Die beiden konnten nur Bessy Goudsmith und Erwin von
 Balitzki sein …
 
-Und wie richtig im geraten hatte, bewiesen schon die
+Und wie richtig ich geraten hatte, bewiesen schon die
 nächsten Minuten …
 
-Das Mädchen, das übrigens ein sei« schlichtes helles
-Kleid und einen lila Schleier um das aschblonde Haar geschwunden
+Das Mädchen, das übrigens ein sehr schlichtes helles
+Kleid und einen lila Schleier um das aschblonde Haar gewunden
 trug und ein mehr pikantes als schönes Gesicht hatte,
-dem freilich ein gewisser Liebreiz nicht abzuspreHchen war, —
+dem freilich ein gewisser Liebreiz nicht abzusprechen war, —
 dieses junge Wesen hatte jetzt die Hände von dem tränenfeuchten
 Antlitz sinken lassen und rief dem schlanken Manne
 mit fragenden Stimme zu:
 
-»Hitze müssen mir versprechen, zu schweigen, Herr Baron
-… Sie müssen!! Es wäre besser, Sie hätten mich) hier nie
+»Sie müssen mir versprechen, zu schweigen, Herr Baron
+… Sie müssen!! Es wäre besser, Sie hätten mich hier nie
 entdeckt!!«
 
-Baron Erwin Sahib?! erwiderte ebenso laut und erregt:
+Baron Erwin Balitzki erwiderte ebenso laut und erregt:
 
 »Bessy, ich will wissen, weshalb man uns diese Lüge
-ausflickt, Sie seien verreist! Weshalb kommen Sie nicht zu
+auftischt, Sie seien verreist! Weshalb kommen Sie nicht zu
 uns, weshalb verbergen Sie sich hier in diesem Gemäuer?!
 Ich flehe Sie an, Bessy: haben Sie doch Vertrauen zu mir!!
-
 <@pagebreak/>
 Fordere ich denn so Unbilliges?! Waren Sie bei uns nicht
 ein stets gern gesehener Gast?! Habe ich …«
 
-»ob — — quälen Sie mich doch nicht!!« Und das klang
+»Oh — — quälen Sie mich doch nicht!!« Und das klang
 wie ein Schrei der Verzweiflung. »Quälen Sie mich nicht
 — — haben Sie Mitleid mit mir! Dieser unselige Zufall,
 daß Sie mich hier entdeckt haben, kann … kann nur dadurch
 wieder gutgemacht werden, daß Sie … schweigen …!! Geben
 Sie mir Ihr Wort, Baron …!! Ich flehe Sie an!!«
 
-Balitzki beugte ein zu ihr hinab und huschte nach) ihrer
-Hand 5 …
+Balitzki beugte sich zu ihr hinab und haschte nach ihrer
+Hand …
 
-Und — in demselben AugenblickX flüsterte Harald mir zu:
+Und — in demselben Augenblick flüsterte Harald mir zu:
 
 »Achtung …!! Links — — in dem Turmrest!!«
 
-Dieser Hofraum wurde nach ’Süden zu von der Ruine
-eines Turmes begrenzt, t’e saß völlig unter Hopfen« und
+Dieser Hofraum wurde nach Süden zu von der Ruine
+eines Turmes begrenzt, die fast völlig unter Hopfen- und
 Brombeerranken verschwand …
 
 Ich schaute dorthin …
 
-Ich sah zwischen den Ganzen etwa drei Meter über dem
-Boden ein tiefbraunes Gesicht …: Doktor James Zustand!
+Ich sah zwischen den Ranken etwa drei Meter über dem
+Boden ein tiefbraunes Gesicht …: Doktor James Kaspar!!
 Nur er konnte es sein — — nur er!!
 
-Und dieses Gesicht war derart in flammender Wut Vers
-zerrt, daß man für den jungen Baron alles befürchten konnte.
+Und dieses Gesicht war derart in flammender Wut Verzerrt,
+daß man für den jungen Baron alles befürchten konnte.
 
-Haß, Eifersucht, zierliche Wildheit gaben diesen Zügen
+Haß, Eifersucht, tierische Wildheit gaben diesen Zügen
 einen Ausdruck, wie man ihn selten auf dem Gesicht eines
 Menschen finden wird …
 
@@ -570,15 +573,16 @@ Ungezügelte Leidenschaften lohten aus den aufgerissenen
 Augen …
 
 Jede Spur von geistigem Leben war von diesem Antlitz
-weggewischt … Nur die Bestie, das heiße Mischchlingasblut
+weggewischt … Nur die Bestie, das heiße Mischlingsblut
 zeichneten ihre Kerben um Mund und Augen …
 
-Dann zog sie) der Mulatte langsam wieder in das grüne
-Gestrüpp Zuruf … Aber die Umrisse seines Kopfes blieben
-hinter den Naturvorhängen der Ganzen immer noch erkennbar.
-— Obwohl ich; James Kaspar so scharf. beobachtet Hatte,
+Dann zog sich der Mulatte langsam wieder in das grüne
+Gestrüpp zurück … Aber die Umrisse seines Kopfes blieben
+hinter den Naturvorhängen der Ranken immer noch erkennbar.
+
+Obwohl ich James Kaspar so scharf beobachtet Hatte,
 obwohl ich also meine Aufmerksamkeit gleichsam hatte teilen
-müssen, war mir doch nichts von dem entgangen »Gas sich
+müssen, war mir doch nichts von dem entgangen was sich
 <@pagebreak/>
 zwischen den beiden jungen Leuten inzwischen weiter abgespielt
 hatte …
@@ -586,7 +590,7 @@ hatte …
 Baron Erwin hielt Bessys Hand …
 
 Seine Stimme war nicht mehr gereizt und erregt, sondern
-nur sehr ernst und tief. bewegt …
+nur sehr ernst und tief bewegt …
 
 »Bessy, ich kann Sie nicht leiden sehen … Nein, das
 kann ich nicht …! Und obgleich ich weiß, daß ich mich den
@@ -597,41 +601,40 @@ niemand erfahren, daß … daß Sie sich nur verborgen halten
 traurig … Und erlauben Sie mir, daß ich hin und wieder
 Sie hier besuchen darf …
 
-»Nein — — meinst« »Und sie sprang auf … Auch über
-ihre Lippen kam nun die werden: liebe 2 Reede … «« Beschwöre
-Sie, Erwin, betreten Sie nie mehr das Totenmouv« — — nie
-mehr, bis … bis im Ihnen vielleicht eines Tages … alles
-+… erklären kann …«
+»Nein — — nein!!« Und sie sprang auf … Auch über
+ihre Lippen kam nun die vertrauliche Anrede … »Ich Beschwöre
+Sie, Erwin, betreten Sie nie mehr das Totenmoor — — nie
+mehr, bis … bis ich Ihnen vielleicht eines Tages … alles
+… erklären kann …«
 
 Hand in Hand standen sie da …
 
-Und Baron Erwin lächelte jetzt fast gräflich …
+Und Baron Erwin lächelte jetzt fast glücklich …
 
-»Besitz, Sie haben Angst, daß mir hier im Totenmoor
+»Bessy, Sie haben Angst, daß mir hier im Totenmoor
 etwas zustoßen könnte … Sie fürchten für mich irgendeine
 Gefahr … — Oh, Bessy, dann … dann bin ich Ihnen
 nicht gleichgültig … dann …«
 
-Sie war schnell zurückstecken …
+Sie war schnell zurückgetreten …
 
-»Schien Sie … gehen Sie …!! Wenn … wenn Sie
+»Gehen Sie … gehen Sie …!! Wenn … wenn Sie
 mich lieb haben, lassen Sie mich allein … Und … kommen
-
 Sie niemals wieder hierher …! Erwin — — hören Sie auf
 mich!! Erwin, — — später … später …!! — Gehen Sie
 jetzt …«
 
 Sie war in eine Erregung geraten, die der junge Baron
-für sie nur günstig deuten konnte …
+für sich nur günstig deuten konnte …
 
-Erwin Sahib?! schaute sie an …
+Erwin Balitzki schaute sie an …
 
-»Ich) werde … wachsam sein, Bessy!« rief er halblaut …
+»Ich werde … wachsam sein, Bessy!« rief er halblaut …
 »Leben Sie wohl, Bessy …!«
 
-Und er 3043 grüßend sein Jagdhütlein und entfernte sich
+Und er zog grüßend sein Jagdhütlein und entfernte sich
 <@pagebreak/>
-nach rot/ist hin, drängte sich durch die Büsche und verschwand.
+nach rechts hin, drängte sich durch die Büsche und verschwand.
 
 Harst war mit einem Male neben mir verschwunden …
 
@@ -640,59 +643,59 @@ der Baron sich entfernte …
 
 Und ich selbst konnte zweierlei feststellen: das Gesicht des
 Mulatten war jetzt völlig unsichtbar geworden. Und Bessy
-hatte sie) wieder auf den MauerblockX gesetzt und die gefalteten
+hatte sich wieder auf den Mauerblock gesetzt und die gefalteten
 Hände gegen die Brust gepreßt …
 
 Sie weinte … weinte …
 
-Wir aber wurde siedendheiß bei dem Gedanken, daß der
+Mir aber wurde siedendheiß bei dem Gedanken, daß der
 Farbige etwa dem Baron auflauern könnte …
 
-Zuzutrauen war «  Atem sonderbaren Gelehrten alles,
-Aber ich hoffte auf Harst. Vielleicht hegte er dieselben Besorgnisse
-für den Baron …
+Zuzutrauen war diesem sonderbaren Gelehrten alles.
+Aber ich hoffte auf Harst. Vielleicht hegte er dieselben
+Besorgnisse für den Baron …
 
 Nein — sicherlich hegte er dieselben Besorgnisse!! Gerade
-er würde die Sachlage ja weit genauer »Geschaut
+er würde die Sachlage ja weit genauer überschaut
 haben als ich!
 
 So blieb ich denn getrost hier auf meinem Lauscherposten
 unter den grünen großen Blättern der Farnstauden.
 Und mir ging so mancherlei durch den Kopf …
 
-Den Inhalt des Briefes des Barons Uhr »Bart?! vergegenwärtigte
-ich mir … Und für mich unterlag es kaum
+Den Inhalt des Briefes des Barons Udo Balitzki
+vergegenwärtigte ich mir … Und für mich unterlag es kaum
 noch einem Zweifel, daß Bessy irgendwie hinter das geheimnisvolle
-und ohne Frage verbrecherische Drei.,;Rittes Vaters
+und ohne Frage verbrecherische Treiben ihres Vaters
 und des Mulatten gekommen war und sich gleichsam von
 den beiden losgesagt hatte, indem sie hier in die Ruine
-flüchtete und für die Veffeintlichkeit verreist war …
+flüchtete und für die Öffentlichkeit verreist war …
 
-Oder — — worin bestand dieses verbrecherische Treiben
+Aber — — worin bestand dieses verbrecherische Treiben
 der beiden Amerikaner?!
 
-Sd4h4on Harald und ich hat!en hin und her geraten und
-das nicht einmal einen Inhalt dafür gefunden, wozu Goudsmith
+Schon Harald und ich hatten hin und her geraten und
+doch nicht einmal einen Anhalt dafür gefunden, wozu Goudsmith
 die Tauben benutzte …
 
-LL Man?Tante ja vielleicht annehmen, da« die Taubenschwärme,
-die den Weg nach Westen e&! »’:gen, ihrer
-Heimat, dem voltändishen Grenzdorfe Bat … p wieder zwingen
-und vielleicht an ihren Flügeln wie Bestanden etwas
+Man konnte ja vielleicht annehmen, daß die Taubenschwärme,
+die den Weg nach Westen eingeschlagen, ihrer
+Heimat, dem holländischen Grenzdorfe Vallenpiep wieder
+zuflogen und vielleicht an ihren Flügeln wie Brieftauben etwas
 <@pagebreak/>
 mit sich führten … Was jedoch?! Es konnte ein dabei nur
-um ganz leichte Gegenstände handeln! Ich) hatte gemeint,
+um ganz leichte Gegenstände handeln! Ich hatte gemeint,
 Goudsmith sei vielleicht Banknotenfälscher … Und die Tauben
 beförderten eben die Falsifikate über die deutsch-holländische
 Grenze … — Harald hatte erwidert, diese Beförderungsart
-von Falschgeld sei einmal viel zu umständlich und Fuchs zu
+von Falschgeld sei einmal viel zu umständlich und auch zu
 gefährlich, da zu leicht eine der Tauben unterwegs abgeschossen
 werden könne, wodurch für die Fälscher sofort die
 Gefahr des Entdecktwerdens auftauche. — Dann hatte Harst
-hinzugefügt, vielleicht läge Diamantenschmchmuggel vor, — aber
+hinzugefügt, vielleicht läge Diamantenschmuggel vor, — aber
 auch dagegen spräche der Umstand, daß die Tauben in Kisten
-von Holland nach Deutschland kämen. und daß die holländischen
-Grenzbeamten fraglos zum die Tauben selbst untersuchen
+von Holland nach Deutschland kämen, und daß die holländischen
+Grenzbeamten fraglos auch die Tauben selbst untersuchen
 würden. — Kurz — wir hatten vorläufig auch noch
 nicht die geringste Ahnung, was Goudsmith und der farbige
 Doktor hier im Totenmoor heimlich gegen das Strafgesetz
@@ -701,14 +704,12 @@ unternahmen …
 Und wie ich mir dies so überlegte, da … sprang drüben
 Bessy plötzlich auf, streifte ihre kostbaren Brillantringe von
 den Fingern und löste die Brillantbrosche von ihrer Bluse,
-schGleouvderte alles mit einem Gesicht8aus 32druck, in dem Schmerz,
+schleuderte alles mit einem Gesichtsausdruck, in dem Schmerz,
 Ekel und Empörung lohten, in das Gestrüpp …
 
 Dann wandte sie sich um und schritt der Turmruine zu,
-schob einen Erlenbusch) beiseite und betrat tief gebückt das
-Unsere des Turmrestes …
-
-Mr Ei
+schob einen Erlenbusch beiseite und betrat tief gebückt das
+Innere des Turmrestes …
 
 <h2>3. Kapitel.</h2>
 
@@ -768,7 +769,7 @@ Wutanfall, wie sie die Ringe in das Gestrüpp schleuderte …
 
 »Ah — — also ihren ganzen Schimmel?« fragte Harst …
 
-»Ja … Mit Wut und Ekel entledigte sie sie) ihrer
+»Ja … Mit Wut und Ekel entledigte sie sich ihrer
 Brillanten … Und den braunen Doktor fertigte sie dann
 in einer Weise ab, als ob er ein verhaßter Lakai Ware … —
 der Erlenbusch vor dem Turme verdeckt den Eingang … Bessy
@@ -915,7 +916,7 @@ war im Nu in der Finsternis verschwunden …
 
 Die Luke schlug zu … —
 
-Und als sie sie) schloß, vernahmen wir trotz des Nachgrollens
+Und als sie sich schloß, vernahmen wir trotz des Nachgrollens
 des Donners im Stalle eine überlaute Stimme …
 
 Dann wurde die Stalltür aufgerissen …
@@ -1155,7 +1156,7 @@ Seite zu schlichen …
 
 Eis gelang nicht …
 
-Er setzte sie) wieder neben mich …
+Er setzte sich wieder neben mich …
 
 »Also einen Monat … Dann haben sie ihr Schäfchen
 im Trockenen,« meinte er gedämpft. »Dann verduften sie
@@ -1411,7 +1412,7 @@ einem Jener undurchdringlichen Dickichte angelangt, in denen
 nur ein Messer freie Bahn schafft …
 
 Aber hier hat jemand vor uns gearbeitet … Hier hat
-ein Messer Nankenzweige, Reste beseitigt und ein Schlupf
+ein Messer Rankenzweige, Reste beseitigt und ein Schlupf
 los hergestellt, daß man gehört gehen kann … Hier legt
 Harst seine leichte Bürde nieder und sagt: »Bleibe bei ihr!«
 
@@ -1590,7 +1591,7 @@ Bekanntlich häuten sich »aus die Kreuzottern, schlüpfen
 also, wenn ihre Zeit gekommen, aus ihrem alten Kleide
 heraus und lassen es liegen.
 
-Diese »EHhlangenhemden« oder »Bipernmäntel«, wie sie
+Diese »Schlangenhemden« oder »Vipernmäntel«, wie sie
 im Mittelalter hießen, spielten in den abergläubischen Vorstellungen
 des Volkes eine große Rolle.
 
@@ -1723,7 +1724,7 @@ Dann aber trat in ihr Antlitz ein weicherer Ausdruck …
 
 Wie verzweifelt, wie in stummem Flehen flüsterte sie:
 »Ich … kann nicht anders …! Das Schicksal ist hart und
-erbarmungslos.«.! Jetzt werde ich auch Erwin Sahib?! vorn
+erbarmungslos.«.! Jetzt werde ich auch Erwin Balitzki vorn
 verlieren …! Mag es sein! Mag alles um mich herum zusammenstürzen,
 mag man mich einsperren — — jahrelang.
 Meine Lippen bleiben stumm!! — — Herr Harst, wenn die
@@ -1946,7 +1947,7 @@ Nun, wer Harald kennt, weiß genau, wie schnell er zu
 versöhnen ist.
 
 Wir blieben mit den beiden Herren in der Veranda
-sitzen und erörterten den Fall Goudsmith, sowohl die «Halbstein-Sache«
+sitzen und erörterten den Fall Goudsmith, sowohl die »Halbstein-Sache«
 als auch den Mord …
 
 Als sich Dickhut und der Amtsvorsteher dann vergl
@@ -2062,7 +2063,7 @@ die jedoch) auch4 älteren Datums sein könnten … Er hatte
 uns beiden gleichsam eine Falle stellen wollen …
 
 Mithin schied der Baron hier aus. Harald meinte, Erwin
-Sahib?! sei eines Mordes gar nicht fähig … Außerdem schien
+Balitzki sei eines Mordes gar nicht fähig … Außerdem schien
 auch) bestimmt zwei Leute beteiligt gewesen.
 
 Und trotzdem wurde ich persönlich immer wieder von der
@@ -2157,7 +2158,7 @@ Winde lustig knallte …
 
 Harst flüsterte:
 
-»Die Wappenfarben der Freiherren von Sahib?!!?«
+»Die Wappenfarben der Freiherren von Balitzki!?«
 
 Ich starrte hinüber …
 
@@ -2210,9 +2211,9 @@ Ich folgte ihm- ziemlich widerwillig …
 Als wir die Waldpromenade erreicht hatten, meinte er:
 
 »Nun wollen wir den Mörder suchen … Am Bahnhof
-bekommen wir ein Auto … Wir fahren nach Turban …«
+bekommen wir ein Auto … Wir fahren nach Ludau …«
 
-»Turban?«
+»Ludau?«
 
 »Ja … Es kommt uns ganz gelegen, daß die Familie
 Balitzki den schönen Tag zu einem Ausflug naß Kranz
@@ -2436,7 +2437,7 @@ So saßen wir denn und warteten: …
 
 Worauf, — — ich ahnte es so ganz entfernt … Vielleicht
 auf einen des Ottern—Bundes, auf den Baron Erwin
-Sahib?! … Vielleicht …!
+Balitzki … Vielleicht …!
 
 Und dann … bewegten sich die Büsche und Strauche
 vor dem Eingang …
@@ -2745,7 +2746,7 @@ Verfassung sich bei ihr einfanden.
 Die gute Seele hatte d »7 zum im Nu ein Abendbrot
 für uns bereit.
 
-Gegen elf Uhr verabschiedete sie) Dickhut. Er hatte
+Gegen elf Uhr verabschiedete sich Dickhut. Er hatte
 sich bereits darüber getröstet, daß er als Beamter mit dieser
 Verbrecherbande, die Ernest Goudsmith so kaltblütig er?« Art
 hatte, Ich uf eine Art Vertrag eingelassen habe.
@@ -2785,9 +2786,9 @@ sind wir, denn wie konnte sonst auf dem Lanzenzettel stehen,
 daß wir nicht nur zum Schein abreisen sollten?! So eine
 zweistöckige Veranda ist sehr hellhörig — sehr!! Und ich
 habe denn auch bereits von unserer Wirtin erfahren, daß
-dort oben jetzt ein Herr aus Königsberg sie) eingemietet hat,
-ein Baron Günter von Sahib?!, ein Neffe des alten Barons
-auf Turban …«
+dort oben jetzt ein Herr aus Königsberg sich eingemietet hat,
+ein Baron Günter von Balitzki, ein Neffe des alten Barons
+auf Ludau …«
 
 Dann traten wir in die Veranda ein …
 
@@ -2806,7 +2807,7 @@ Harst 309 mich rasch in unser Schlafzimmer …
 dir an, daß du wie vor den Kopf geschlagen bist … Glaube
 ich dir gern … Die Geschichte war wirklich tadellos gedeichselt
 — tadellos! — Jetzt ins Bett … Morgen vormittag kommt
-die große Cnthüllungsfeier … Da machen wir unserem
+die große Enthüllungsfeier … Da machen wir unserem
 Auftraggeber, dem alten Baron, endlich die Antrittsvisite.«
 
 Und er begann sich zu entkleiden, war für keine Frage
@@ -2831,7 +2832,7 @@ Goudsmith war nicht anzuzweifeln …!! Niemals!! Meinen Kopf
 hältst ich zum Pfande gesetzt, daß Goudsmith ertränkt worden,
 Und — das sollten die Balitzkis getan haben?! — Freilich —
 gegen sie sprach der Lanzenzettel, sprach auch noch anderes:
-unser Uceberwohner Günter von Sahib?!
+unser Uceberwohner Günter von Balitzki
 
 Und dann — schlief ich das ein …
 
@@ -2955,7 +2956,7 @@ Jetzt sah ich …
 Sah ich rechts an der Wand um den Sofatisch) neun
 Personen sitzen …
 
-Hechts jüngere Herren, darunter Erwin von Sahib?! …
+Hechts jüngere Herren, darunter Erwin von Balitzki …
 
 Neben ihm Bessy — ganz t:echt neben ihm … Und
 neben Bessy wieder ein graubärtiger Unbekannter … Ferner
@@ -2963,7 +2964,7 @@ der Amerikaner, der Mann, den wir für Matthias Burton
 gehalten hatten …
 
 Als Harst die Tür aufgerissen hatte, waren nur Erwin
-von Sahib?! und Burton aufgesprungen …
+von Balitzki und Burton aufgesprungen …
 
 Der Baron trat rasch) auf uns zu: »Wer sind Sie,
 meine Herren?! Was wollen Sie?!« — Seine Stimme
