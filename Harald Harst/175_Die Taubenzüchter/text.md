@@ -713,22 +713,23 @@ Innere des Turmrestes …
 
 <h2>3. Kapitel.</h2>
 
-Inzwischen war es sechs Uhr zweiten und ich begann
+Inzwischen war es sechs Uhr geworden und ich begann
 mich allgemach zu langweilen.
-Bessy erschien nicht wieder … und auch) Harald ließ sich
+
+Bessy erschien nicht wieder … und auch Harald ließ sich
 Zeit.
 
 Meine Gedanken begannen also von neuem das Rätsel
-der Blohaussiedlung zu umschwärmen, genau wie mich die
+der Blockhaussiedlung zu umschwärmen, genau wie mich die
 Mücken umschwärmten. —
 
 <@pagebreak/>
-Dann rate ich plötzlich) hoch …
+Dann ruckte ich plötzlich hoch …
 
-Der Muülatte betrat den Burghof … In der Linken trug
-er einten Korb, der mit einem Tuche zugesellt war.
+Der Mulatte betrat den Burghof … In der Linken trug
+er einen Korb, der mit einem Tuche zugedeckt war.
 
-Er schritt auf den Erlenbusch zu, he: den Eingang zur
+Er schritt auf den Erlenbusch zu, der den Eingang zur
 Turmruine verdeckte.
 
 Rief hier laut:
@@ -741,78 +742,78 @@ Was die beiden sprachen, konnte ich nicht verstehen …
 Aber Bessys Bewegungen deuteten an, daß ihr der farbige
 Doktor gründlich verhaßt war …
 
-Sie nahm ihm den Lord ab und trat in die Ruine zurück.
+Sie nahm ihm den Korb ab und trat in die Ruine zurück.
 James Kaspar drehte sich um und ging davon.
 
 Stille und Einsamkeit ringsum …
 
 Dann — hinter mir ein ganz schwaches Geräusch …:
-Harald?! ich
-Aber ich — wie sah der Ärmste aus!!? Gesicht und
+Harald!!
 
-Hände mit Mückenstichen bekehrt …
+Aber — — wie sah der Ärmste aus!! Gesicht und
+Hände mit Mückenstichen bedeckt …
 
 Die Nase aufgeschwollen … an den Wangen klebten noch
-ein paar der kleinen Blutsauger, die er zerbeult hatte …
+ein paar der kleinen Blutsauger, die er zerdrückt hatte …
 
 Und trotzdem nickte er mir schmunzelnd zu und flüsterte:
 
 »War ’ne lohnende Sache, mein Alter! Wir sind einen
 guten Schritt vorwärtsgekommen!! Habe da so allerlei ausbaldowert
 … Schlaue geriebene Leute, der Goudsmith und
-der Mulatte … —« Tod davon später … Ist hier inzwischen
-etwas Gesicht;Ehen, das dir wichtig enge)her? — James Kaspar
-mit dem Nahrungsmittelkorb,/ —. das weiß im …«
+der Mulatte … — Doch davon später … Ist hier inzwischen
+etwas geschehen, das dir wichtig erschien? — James Kaspar
+mit dem Nahrungsmittelkorb, — das weiß ich …«
 
-Ich) berichtete kurz von Bessys Verzweiflung, von ihrem
+Ich berichtete kurz von Bessys Verzweiflung, von ihrem
 Wutanfall, wie sie die Ringe in das Gestrüpp schleuderte …
 
-»Ah — — also ihren ganzen Schimmel?« fragte Harst …
+»Ah — — also ihren ganzen Schmuck?« fragte Harst …
 
 »Ja … Mit Wut und Ekel entledigte sie sich ihrer
 Brillanten … Und den braunen Doktor fertigte sie dann
-in einer Weise ab, als ob er ein verhaßter Lakai Ware … —
+in einer Weise ab, als ob er ein verhaßter Lakai Wäre … —
 der Erlenbusch vor dem Turme verdeckt den Eingang … Bessy
-befindet sie; jetzt in der Ruine …«
+befindet sich jetzt in der Ruine …«
 
 »Dann wollen wir es für heute genug sein lassen,« meinte
 <@pagebreak/>
 Harald. »Komm’ nur … Hilf mir aber vorher den Mückenschleier
-zu befestigen … Diese Bretter sind ja wie toll …«
+zu befestigen … Diese Viecher sind ja wie toll …«
 
 Wir krochen dann wieder lautlos auf den Pfad zurück.
 
 Harald voran … Und als wir nun die Richtung nach
 der primitiven Brücke eingeschlagen hatten, als wir eine
-seltener sumpfigen Stellen des Pfades erreichten, wo Steine
+jener sumpfigen Stellen des Pfades erreichten, wo Steine
 und Bretter gelegt waren, da blieb Harst plötzlich auf einem
 der flachen Steine stehen und deutete vor sich auf eins der
-Bretter
+Bretter …
 
-»Schau’ dir das Ding mal genau ans!« meinte er. »Es
-ist eine Alarmeinrichtung, nichts anderes ».1«
+»Schau’ dir das Ding mal genau an!« meinte er. »Es
+ist eine Alarmeinrichtung, nichts anderes …!«
 
-Ich bemühte mich ganz umsonst, irgend etwas Aufs
-faltiges zu erstrecken. — Alarmeinrichtung?! Dann hatte
-ich Tod) unbedingt etwas sehen müssen …
+Ich bemühte mich ganz umsonst, irgend etwas Auffälliges
+zu entdecken. — Alarmeinrichtung?! Dann hätte
+ich doch unbedingt etwas sehen müssen …
 
 Harald zeigte auf das uns zugekehrte Ende des Brettes.
 
-»Da, mein Alter, — ein der Baumast liegt unter diesem
+»Da, mein Alter, — ein dicker Baumast liegt unter diesem
 Brettende … Nun verfolge diesen Ast mal mit den Augen
 in das Gestrüpp hinein … Blicke aber recht scharf hin …
 So ganz leicht ist der Draht nicht zu bemerken …«
 
-Ich bemerkte ihn Brandung … Es war dunkler Eisendraht,
+Ich bemerkte ihn dennoch … Es war dunkler Eisendraht,
 der nach oben in das Geäst einer Kiefer führte …
 
 »Und dort oben,« ergänzte Harald, »ist ein elektrischer
 Zugkontakt angenagelt … Und von dort läuft ein isolierter
-grünbrauner doppelter Kupferdraht mag Süden, also nach
-dem Anschaute hin … Wer ahnungslos auf dieses Brett
+grünbrauner doppelter Kupferdraht nach Süden, also nach
+dem Blockhause hin … Wer ahnungslos auf dieses Brett
 tritt, drückt den Ast in den schlammigen Boden mit herab.
-Dann wird durch; den Kontakt der Stromkreis geschlossen,
-und im Anschaute schlägt eine der Alarmglocken an. Es
+Dann wird durch den Kontakt der Stromkreis geschlossen,
+und im Blockhause schlägt eine der Alarmglocken an. Es
 werden dort mehrere vorhanden sein, eben so viele, als das
 Totenmoor Zugangswege hat. Die beiden Amerikaner wissen
 also stets genau, ob jemand ihr Pachtgebiet betreten hat und
@@ -822,55 +823,53 @@ von welcher Seite …«
 meinte ich kopfschüttelnd. »Hast du etwa danach
 gesucht?«
 
-»Wein — der Mulatte begab ein hierher und hat die
+»Nein — der Mulatte begab sich hierher und hat die
 <@pagebreak/>
 Einrichtung nachgesehen. Ich war hinter ihm … Er blieb
 eine ganze Weile hier … Irgend etwas muß ihm verdächtig
-erschienen sein … Ich weiß auch wo? …«
+erschienen sein … Ich weiß auch was …«
 
 »und das wäre?«
 
-»Das wären wir, lieber Alter … —Sieh’ mal, die Sache
-ist die! Als wir dieses Brett auf dem Hinwege tberschritten,
-erschlug die betreffende AlarmgloXe an … Da machte sich
+»Das wären wir, lieber Alter … Sieh’ mal, die Sache
+ist die! Als wir dieses Brett auf dem Hinwege überschritten,
+schlug die betreffende Alarmglocke an … Da machte sich
 dann der Mulatte sofort mit dem Korbe auf den Weg, um
 festzustellen, wer von Norden her nahte. Und so fand er
 im Hofe der ehemaligen Ordensburg den Baron Erwin, der
-jedo4) mit einem sogenannten Moorkahn Bessy besucht hatte.
-also zu Wasser von Stück « bis hierher vorgedrungen war
-
+jedoch mit einem sogenannten Moorkahn Bessy besucht hatte,
+also zu Wasser von Süden bis hierher vorgedrungen war
 … Der braune Doktor beobachtete das Liebespaar, beobachtete
 dann auch den sich wieder entfernenden Baron. Er
-wußte also, daß der Baron die Glocke nicht zum Hatten
+wußte also, daß der Baron die Glocke nicht zum Läuten
 gebracht haben konnte, und deshalb ging er hierher und …
 suchte nach den Spuren des anderen Eindringlings
 Fand jedoch nichts, wie mir sein unzufriedenes Gesicht verriet
-… Wird gebahnt haben, ein Elch sei vielleicht auf das
+… Wird gedacht haben, ein Elch sei vielleicht auf das
 Brett getreten … — Kurz: wir waren es, die den Mulatten
 herbeigerufen haben … Wir haben dem Liebespaar den eifersüchtigen
-Famos Kaspar unwvoiisentlih; auf den Hals gesetzt
-
-— Wir sind schuld daran, daß man Bessy nun wahrschein«.
-li noch strenger bewachen und a:i33 die Gräben des Toten
-Moors mit Alarwmeinrichtungen versehen wird … — So,
+James Kaspar unwissentlich auf den Hals gehetzt
+… Wir sind schuld daran, daß man Bessy nun wahrscheinlich
+noch strenger bewachen und auch die Gräben des Totenmoores
+mit Alarmeinrichtungen versehen wird … — So,
 jetzt wollen wir das Brett umgehen, wenn wir uns dabei
 auch die Schuhe voll Schlamm schöpfen … Folge mir …«
 
-ESqhuhbe voll Schlamm schöpfen ich — ich danke!!
+Schuhe voll Schlamm schöpfen — — ich danke!!
 
-Biß zu den Knien sanken wir ein, und ich war heilfroh,
+Bis zu den Knien sanken wir ein, und ich war heilfroh,
 als wir die Steine hinter dem Brett erreicht hatten …
 
 Dann ging’s im Eiltempo heimwärts …
 
 Um sieben Uhr waren wir wieder in unserem Quartier.
-Unsere Wirtin, Witwe eines Schiffkapitäns, vorn« sie uns
+Unsere Wirtin, Witwe eines Schiffkapitäns, verpflegte uns
 auch und hatte das Abendbrot schon bereit.
 
-Um neun Uhr gingen: wir zu Bett. Um ich),9 zwölf
+Um neun Uhr gingen wir zu Bett. Um halb zwölf
 <@pagebreak/>
 weckte Harald mich … Wir zogen uns leise an und gelangten
-durch4 die Veranda lautlos ins Freie.
+durch die Veranda lautlos ins Freie.
 
 Die Luft war schwül und mit Elektrizität gesättigt … Im
 Süden stand eine schwarze Wolkenbank …
@@ -886,10 +885,10 @@ Das gefährliche Brett umgingen wir …
 
 Die Ruine ließen wir rechts liegen …
 
-InzwisHchHen war die Wolkenbank höher und höher ge
-stiegen, bedeckte fast schon den halben Himmel …
+Inzwischen war die Wolkenbank höher und höher gestiegen,
+bedeckte fast schon den halben Himmel …
 
-Der Pfad war ans jetzt ganz unverkannt … Wir tasteten
+Der Pfad war uns jetzt ganz unbekannt … Wir tasteten
 uns vorwärts … Die Finsternis nahm zu …
 
 Dann merkten wir, daß der Boden beträchtlich anstieg,
@@ -906,15 +905,15 @@ genügte, auch die eine Tür des Stalles zu erkennen …
 
 Harald raunte mir zu:
 
-»Der Schlüssel in der Stalltür …!?!? Achtung!!«
+»Der Schlüssel in der Stalltür …!! Achtung!!«
 
 Ein Blitz fuhr hernieder …
 
-Im selben Anugenblik flog oben auf dem Kartons eine
-große Luke auf, und ein Schwarm Fanden flatterte heraus,
+Im selben Augenblick flog oben auf dem Stalldach eine
+große Luke auf, und ein Schwarm Tauben flatterte heraus,
 war im Nu in der Finsternis verschwunden …
 
-Die Luke schlug zu … —
+Die Luke schlug zu …
 
 Und als sie sich schloß, vernahmen wir trotz des Nachgrollens
 des Donners im Stalle eine überlaute Stimme …
@@ -930,8 +929,8 @@ Goudsmith rief wütend:
 »Wenn du nachmittags nicht die Zeit in der Burg vertrödelt
 hättest, wären es zwanzig mehr gewesen!! Diese
 verfluchte Narretei! Laß das Mädel in Ruhe, sage ich dir!!
-Schlimm genug, daß mein Kind jetzt dort in der Ruine hausen!
-Auch daran bist du schuld — — nur das!«
+Schlimm genug, daß mein Kind jetzt dort in der Ruine haust!!
+Auch daran bist du schuld — — nur du!!«
 
 Dann verschwanden sie im Wohnhause …
 
@@ -941,41 +940,41 @@ Tisch …
 
 Der Streit zwischen den beiden ging weiter …
 
-— Der Mulatte hatte sich in den Stuhl vor dem Tisch
+Der Mulatte hatte sich in den Stuhl vor dem Tisch
 geworfen …
 
-Auf der Wachs8tuhHdecke des Tisches lagen allerlei Instrumente,
-wie sie die Juweliers benutzen …
+Auf der Wachstuchdecke des Tisches lagen allerlei Instrumente,
+wie sie die Juweliere benutzen …
 
-Leider. war infolge des jetzt unaufhörlich tobenden Donners
-kein Wort zu verstehen. Nur der Gesichhtsau8dru der beiden
+Leider war infolge des jetzt unaufhörlich tobenden Donners
+kein Wort zu verstehen. Nur der Gesichtsausdruck der beiden
 Streitenden bewies, daß es mit ihrer Freundschaft nicht weit
 her war …
 
 Goudsmith lief in dem kleinen Zimmer erregt hin und
-her … Der Muüulatte verfolgte ihn mit Blicken, die geradezu
+her … Der Mulatte verfolgte ihn mit Blicken, die geradezu
 Bände sprachen …
 
 Es begann zu regnen …
 
-Das weit überhängende Dach Schüsse uns …
+Das weit überhängende Dach schützte uns …
 
-Harst hatte nur Zeigen für die Instrumente auf dem Tisch.
+Harst hatte nur Augen für die Instrumente auf dem Tisch.
 
 Hin und wieder verschwand der ruhelos auf und ab
-schreitende Ernest Goudtlinith aus unserem Gesichtsfeld
+schreitende Ernest Goudsmith aus unserem Gesichtsfeld …
 
 Der Streit der beiden schien abzuflauen …
 
 Wieder wurde Goudsmith unsichtbar … Wir sahen, daß
-der Mulatte scharf dorthin schaute, wo Bessys Vater sich des.
-finden mußte …
+der Mulatte scharf dorthin schaute, wo Bessys Vater sich befinden
+mußte …
 
 James Kaspar fragte dann etwas …
 
 Was — wir konnten es nicht verstehen …
 
-Darauf gähnte der Mulatte herzhaft, erhob sich »Tau!l
+Darauf gähnte der Mulatte herzhaft, erhob sich faul
 und verließ das Zimmer …
 
 <@pagebreak/>
@@ -1001,10 +1000,10 @@ In der Linken einen Gummiknüttel …
 
 Wir waren herumgeschnellt …
 
-Und ehe wir nachts irgendwie zu Worte kamen, klat’hte
+Und ehe wir noch irgendwie zu Worte kamen, klatschte
 mir der Gummiknüttel schon über die Schläfe …
 
-Umsinkend sah iF nur noch mit schwindendem Bewußtsein,
+Umsinkend sah ich nur noch mit schwindendem Bewußtsein,
 daß auch Harald seinem Geschick nicht entging …
 
 Die Hiebe dieses Armes hatten uns für längere Zeit
@@ -1012,93 +1011,93 @@ kampfunfähig gemacht und unser Hirn der Arbeit des Nachdenkens
 gänzlich überhoben …
 
 Als wir so allgemach unsere fünf Sinne wieder beieinander
-hatten, lagen wir auf ein paar WolldeckXen in einem
-Matuerloch, das gerade lang genug war, daß wir uns aus
-strecken konnten. Die Höhe war gering … Zur Not konnten
+hatten, lagen wir auf ein paar Wolldecken in einem
+Mauerloch, das gerade lang genug war, daß wir uns ausstrecken
+konnten. Die Höhe war gering … Zur Not konnten
 wir gebückt stehen …
 
 Eine scheußliche Moderluft herrschte hier … Eine Petroleumlampe
-brannte an einem in das alte Gemäuer einges-schlagenen
-Nagel … Die Tür dieser Zelle bestand aus Wien
-Balken und war so klein, daß man nur kriechend hindurch.
-gelangen konnte. Und in der Tür war eine seine Klappe
+brannte an einem in das alte Gemäuer eingeschlagenen
+Nagel … Die Tür dieser Zelle bestand aus dicken
+Balken und war so klein, daß man nur kriechend hindurchgelangen
+konnte. Und in der Tür war eine kleine Klappe
 — eine Art Schiebefenster, aber aus Eisen …
 
 <@pagebreak/>
 
-<h2>1. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
-<h3>Also ich hatte meine fünf Sinne wieder beieinander …</h3>
+Also ich hatte meine fünf Sinne wieder beieinander …
 
 Und Freund Harald schien schon früher den Krallen tiefer
 Bewußtlosigkeit entschlüpft zu sein …
 
-Freund Harald begrüßte meine geistige Lüftete in diese
-zuweilen so unschöne Welt mit den klassischen. Worten:
+Freund Harald begrüßte meine geistige Rückkehr in diese
+zuweilen so unschöne Welt mit den klassischen Worten:
 
 »Wir haben uns wie die Schulbuben benommen, mein
 Alter … Genau so!! Zwei wie wir stehen da vor dem
 Fenster und merken nicht, daß Goudsmith die telephonische
 Nachricht erhält, daß Spione in der Nähe … Diese Nachricht
-kann er nur von Bessy Gekommen haben … nur!! Bessy
+kann er nur von Bessy bekommen haben … nur!! Bessy
 wird vielleicht aus Angst vor dem Gewitter hier nach dem
-Drohung geeilt sein, sah uns und kehrte um — — telephonierte
-… Nun sitzen wir sein in der Patsche … Nun
+Blockhaus geeilt sein, sah uns und kehrte um — — telephonierte
+… Nun sitzen wir fein in der Patsche … Nun
 können wir zusehen, wie wir die Geschichte wieder einrenken,
 denn in diesem Mauerloch holen wir uns unfehlbar das
-Rheuma«
+Rheuma!«
 
 Ich rieb mir die Beule an der Stirn und wiederholte
 nachdenklich:
 
-»Öm — = einrenken … — Geschichte einrenken?! —
+»Hm — — einrenken … — Geschichte einrenken?! —
 Wie stellst du dir das vor?«
-»Oh — — sehr einfach, mein Alter … Es handelt sich
 
-flediglicg darum, mit Bessy einmal sprechen zu können …
+»Oh — — sehr einfach, mein Alter … Es handelt sich
+lediglich darum, mit Bessy einmal sprechen zu können …
 Wir befinden uns hier in der Turmruine, und da Bessy
-uns zweifellos verraten hat« wird sie uns auch bewachen,
+uns zweifellos verraten hat, wird sie uns auch bewachen,
 denn sie liebt ihren Vater und tut aus Liebe zu ihm manches,
 was ihr zuwider … Sobald sie uns also das erste Menü
-reicht, werde ich den Kavalier spielen, obwohl ich; mit dem
-von Müden punktierten Gesicht und mit der Leute an der
-Schläfe keineswegs einem Adonis gleichen dürfte …
+reicht, werde ich den Kavalier spielen, obwohl ich mit dem
+von Mücken punktierten Gesicht und mit der Beule an der
+Schläfe keineswegs einem Adonis gleichen dürfte …«
 
-Und — siehe das — Dem Adonis wurde sofort eine
+Und — siehe da! — Dem Adonis wurde sofort eine
 Antwort zuteil …
 
-Das Schiebefenster der Tür hatte sich lautlos ., öffnet …
+Das Schiebefenster der Tür hatte sich lautlos geöffnet …
 
-Jedoch nicht gerade lautlos war die Sturm-, die nun
+Jedoch nicht gerade lautlos war die Stimme, die nun
 <@pagebreak/>
 von dorther ertönte … Es war der tiefe, volle Baß des
 Doktor-Mulatten, der uns zurief:
 
 »Miß Bessy werden Sie niemals sprechen, Herr Harst!!
--»- Wir wissen, wer Sie beide sind … Sie hätten in Ihren
+— Wir wissen, wer Sie beide sind … Sie hätten in Ihren
 Brieftaschen nicht Ihre Ausweise mit sich herumschleppen
-sollen 1 Einrenken können Sie die Geschichte also nur,
+sollen! Einrenken können Sie die Geschichte also nur,
 wenn Sie mit der Wahrheit herausrücken … Wer hat Sie
 beide auf unsere Fährte gehetzt?«
 
 Harald lachte den Kerl aus … »Können Sie nicht noch
 naivere Fragen stellen, James Kaspar?«
 
-Über mit dem braunen Doktor war jetzt nicht zu scherzen.
+Aber mit dem braunen Doktor war jetzt nicht zu scherzen.
 
-Er brüllte sofort wie ein grimmer Zeit:
+Er brüllte sofort wie ein grimmer Leu:
 
-»Sie werden noch; um Ihr Leben winseln, Sie beide!!
-Glauben Sie etwa, daß ich, Dock:Tor James Kaspar, mir von
+»Sie werden noch um Ihr Leben winseln, Sie beide!!
+Glauben Sie etwa, daß ich, Doktor James Kaspar, mir von
 Ihnen das Spiel verderben lasse?! Gestern nachmittag
-sind Sie mir entwischt … Fest habe ich Sie, und keine
+sind Sie mir entwischt … Jetzt habe ich Sie, und keine
 Macht der Welt holt Sie früher aus diesem Turme heraus,
 als ich dies zulasse …! In vier Wochen sind wir so weit
 … Dann verschwinden wir … Diese vier Wochen müssen
-Sie schon hier zubringen …
+Sie schon hier zubringen …«
 
 Seine anfängliche Erregung legte sich … Jeder seiner
-Säße klang ruhiger, der letzte fast schon höflich …
+Sätze klang ruhiger, der letzte fast schon höflich …
 
 Und das war keine Gehörtäuschung, war kein Irrtum
 von mir … Denn nun kam als allerletztes, als Hauptpunkt
@@ -1110,18 +1109,16 @@ Totenmoor, und zweitens: Sie teilen Ihrem Auftraggeber
 mit, daß gegen Goudsmith und mich nichts Verdächtiges
 vorliegt, und daß Bessy aus freien Stücken hier im Turme
 wohnt, um den ihr lästigen Bewerbungen des Barons Erwin
-zu entgehen … — Ihr Auftraggeber kann nur Baron Uhr
+zu entgehen … — Ihr Auftraggeber kann nur Baron Udo
 von Balitzki sein … kein anderer! Balitzki hat ja bereits
-den Förster, seinen Geleiten, und sogar Bessy gegen uns
-eingenommen … — Wie steht’s damit, Herr Harst?!«)Satz
+den Förster, seinen Ältesten, und sogar Bessy gegen uns
+eingenommen … — Wie steht’s damit, Herr Harst?!«
 
-Und Harald: »Wie’s steht?! Schleicht, sehr schlecht …
-
+Und Harald: »Wie’s steht?! Schlecht, sehr schlecht …
 <@pagebreak/>
-Daß wir Ihre Bedingungen auch) nur einer Erörterung für
+Daß wir Ihre Bedingungen auch nur einer Erörterung für
 wert erachten könnten, damit haben Sie wohl kaum gerechnet
-
-Sie müssen sich also schon der Mühe weiter unterwaschen,
+… Sie müssen sich also schon der Mühe weiter unterziehen,
 uns hier zu bewachen, was für Sie sehr umständlich
 und zeitraubend ist … Natürlich werden wir jede Gelegenheit
 zum Entfliehen sofort benutzen, und dann … hat Ihr
@@ -1131,30 +1128,30 @@ Der Mulatte schob das Türfenster krachend zu.
 
 Harst sah jetzt nach der Uhr …
 
-»Sein, mein Alter … Zehn Uhr vormittags ohne Frage
+»Zehn, mein Alter … Zehn Uhr vormittags ohne Frage
 — am 8. Juli …!«
 
 Dann zog er die Uhr langsam auf …
 
-»Unter Umstände« »essen wir hier wirklich vier Wochen
-ausharren,« fügte er Huhn. »Dann sind wir Rheumatiker
+»Unter Umständen müssen wir hier wirklich vier Wochen
+ausharren,« fügte er hinzu. »Dann sind wir Rheumatiker
 für alle Zeit … Dann können wir uns in ein Sanatorium
 auf Lebenszeit einkaufen und in Rollstühlen fahren … Ich
-denke, wir versuchen eine andere Art der Ein!; .:na mit
-dem br’’’nen Doktor …«
+denke, wir versuchen eine andere Art der Einigung mit
+dem braunen Doktor …«
 
 Er sprach das ziemlich laut …
 
 Seine Absicht war klar: er wollte feststellen, ob James
-draußen noch horchte … Dann hätte James Sir eben fraglos
-gemeldet und ein erkundigt, wie diese »Einigung« aussehen
+draußen noch horchte … Dann hätte James sich eben fraglos
+gemeldet und sich erkundigt, wie diese »Einigung« aussehen
 sollte. Aber niemand meldete sich.
 
 Da erhob Harald sich, trat an die Balkentür, und versuchte,
 die eiserne Scheibe des eingelassenen Fensters zur
-Seite zu schlichen …
+Seite zu schieben …
 
-Eis gelang nicht …
+Es gelang nicht …
 
 Er setzte sich wieder neben mich …
 
@@ -1164,40 +1161,40 @@ hier aus dem Totenmoor … Und man wird sie kaum wiederfinden
 … Schlaue Kerle … schlaue Kerle …! Die stecken
 sogar uns in die Tasche …«
 
-Diese Worte machten auf mich ganz den »Schluck, als
-ob Harald nunmehr wüßte, was Goudsmith « — in seiner
-Einsiedelei gegen das Gesicht sündigte …
+Diese Worte machten auf mich ganz den Eindruck, als
+ob Harald nunmehr wüßte, was Goudsmith hier in seiner
+Einsiedelei gegen das Gesetz sündigte …
 
 <@pagebreak/>
-»Wodurch haben sie dann ihr Schatten im Trockenen?«
+»Wodurch haben sie dann ihr Schäfchen im Trockenen?«
 erlaubte ich mir zu fragen … Ich dachte dabei an das
-Inuwelierhandwerkäs3zeug auf dem Tische … Und fügte vorsichtig
-hinzu, um wirr nicht zu blamieren …: »Goudsmith
-war in New Orleans Juwelier … Wenn es sich also das
-um Edelsteine handelte?«
+Juwelierhandwerkszeug auf dem Tische … Und fügte vorsichtig
+hinzu, um mich nicht zu blamieren …: »Goudsmith
+war in New Orleans Juwelier … Wenn es sich also doch
+um Edelsteine handelte?!«
 
 Harald nickte zerstreut … »Natürlich, Edelsteine …!!
-Um dies bestätigt zu bekommen, genügte schon Bessys hohnvolle
+Um dies bestätigt zu bekommen, genügte schon Bessys haßvolle
 Wut gegen ihren Schmuck … Aber nicht gewöhnliche
 Edelsteine … Das betonte ich früher bereits … Ein ausgesprochener
 Schmuggel über die Grenze ist unmöglich …
 Nein, hier handelt es sich bestimmt um anderes …« — Er
 sprach ziemlich geistesabwesend … Mußte irgend etwas
-entdeckt. haben, das ihn stark beschäftigte … Und — sah sehr
-bald, daß seine Augen stets dieselbe Richtung herbestellen:
+entdeckt haben, das ihn stark beschäftigte … Und — sah sehr
+bald, daß seine Augen stets dieselbe Richtung beibehielten:
 auf den flachen, großen Feldstein in der Mauer neben der
-Für — jenen Stein, in den das Ordensschild mit dem Kreuze
+Tür — jenen Stein, in den das Ordensschild mit dem Kreuze
 eingemeißelt war.
 
 Was es dort zu sehen gab, begriff ich nicht recht …
 
 Allerdings, die an der Mauer über unseren Köpfen hängende
-Laterne war alles andere als ein Klopfend)ter, vielmehr
+Laterne war alles andere als ein Kronleuchter, vielmehr
 eine recht verschmutzte Karbidlaterne … Der Stein
 lag mithin in trüber Dämmerung da …
 
-Und das mußte ihm etwas Besonderes anhaften … Ein
-Harst stiert nicht umsonst einen Feldstein an»…
+Und doch mußte ihm etwas Besonderes anhaften … Ein
+Harst stiert nicht umsonst einen Feldstein an …
 
 Ich flüsterte wieder …:
 
@@ -1205,52 +1202,53 @@ Ich flüsterte wieder …:
 
 Merkwürdige Antwort, die ich erhielt …
 
-»Rollte mich wundern!!« meinte Harald …
+»Sollte mich wundern!!« meinte Harald …
 
 »Was denn?!«
 
-»Nun, die ganze Anlage …:«
+»Nun, die ganze Anlage …«
 
 »Anlage?!«
-Seine Stimme wurde noch leise! …
-»Allerdings — — Anlage!! — Kennst du die Keller
 
-Raunte der Marienburg?«
+Seine Stimme wurde noch leiser …
+
+»Allerdings — — Anlage!! — Kennst du die Kellerräume
+der Marienburg?«
+
 »Nein …«
 
 <@pagebreak/>
-»Nun — dort in den Kellern könntest du Ähnliches linken
-… Die Totenstillen hatten sich Geheimgänge angelegt
-… Die Türen waren harmlose flachge große Steine — —
-wie der da! Ich würde mich Wanderer, wenn meine Vermutung
-falsch; wäre …«
+»Nun — dort in den Kellern könntest du Ähnliches finden
+… Die Ordensritter hatten sich Geheimgänge angelegt
+… Die Türen waren harmlose flache große Steine — —
+wie der da! Ich würde mich wundern, wenn meine Vermutung
+falsch wäre …«
 
 Ah — das gab mir Leben und Feuer!! Diese Worte
-wirkten wie der Freiheit köstliche Fanfarent!«
+wirkten wie der Freiheit köstliche Fanfaren!!«
 
 Meine Stimme sank zu einem Hauch herab …
 
 »Du glaubst also, daß der Stein uns …«
 
-Er mitteilen?; mich nicht …
+Er unterbrach mich nicht …
 
-Über seine Hand hatte sich schwer auf meinen Arm gelegt
+Aber seine Hand hatte sich schwer auf meinen Arm gelegt
 …
 
-Der Stein … bewegte …
+Der Stein … bewegte … sich …
 
-Drehte sich … Drehte gibt wie eine Drehtür … in
-Zapfen, die in die Mitte seiner Oder und Unterkante eingelassen
+Drehte sich … Drehte sich wie eine Drehtür … in
+Zapfen, die in die Mitte seiner Ober- und Unterkante eingelassen
 sein mußten …
 
 So wurde dann in der Mauer eine Öffnung frei, die
-Hund) den flachen Stein von oben nach unten halbiert Erde
-
+durch den flachen Stein von oben nach unten halbiert wurde
 … Und diese beiden Hälften der Öffnung waren gerade breit
 genug, einen erwachsenen und nicht zu dicken Mann hindurchzulassen
 …
 
-Tod — kein Mann erschien …
+Doch — kein Mann erschien …
 
 Ein Frauenkopf mit lila Schleier …
 
@@ -1260,48 +1258,48 @@ Sie legte den Finger auf die Lippen …
 
 Sie legte denselben Finger dann auf den Stein …
 
-Und hob die beiden Hände mit gespreizten Fingern.«…
+Und hob die beiden Hände mit gespreizten Fingern …
 Das konnte nur zehn bedeuten — nur zehn Uhr abends …
 
 Und — — der Stein schwang lautlos wieder herum und
 fügte sich in die Maueröffnung genau ein … —
 
-Ich) konnte meine Not!Stier nicht bezähmen …«.
+Ich konnte meine Neugier nicht bezähmen …
 
-fragte Harald fast und leise:
+Ich fragte Harald rasch und leise:
 
-»Das sollte das?«
+»Was sollte das?«
 
-»Hm — ganz verstanden Habe ich’s aus nicht, mein
-Alter … Ich denke, Bessy wird uns heute abend um: »an Uhr
-die Gehotmpforte wieder öffnen … Vielleicht irre ich; 8 zu)
+»Hm — ganz verstanden Habe ich’s auch nicht, mein
+Alter … Ich denke, Bessy wird uns heute abend um zehn Uhr
+die Geheimpforte wieder öffnen … Vielleicht irre ich mich auch
 <@pagebreak/>
-…» Vielleicht sollen wir auch selbständig fliehen … Bessy
+… Vielleicht sollen wir auch selbständig fliehen … Bessy
 hätte ihre Zeichen unbedingt sorgsamer geben müssen …
 So war wirklich schwer zu erraten, was sie wollte — —
 sehr schwer zu erraten!«
 
-Und — — er suchte in seiner Brusttasche nach dem Zigarettenetui»…
+Und — — er suchte in seiner Brusttasche nach dem Zigarettenetui …
 
 <h2>5. Kapitel.</h2>
 
 Es hätte keinen Zweck, hier die Stunden bis zehn Uhr
-abends eingehender zu schildern. Es ereignete sich? auch
+abends eingehender zu schildern. Es ereignete sich auch
 nichts von Wichtigkeit. Wir schliefen, aßen, rauchten und
-unterhielten uns. Als im Harald fragte, in welcher besonderen
+unterhielten uns. Als ich Harald fragte, in welcher besonderen
 Art denn Goudsmith und der Mulatte Brillanten
-zu Betrügereien benutzten, da winkte er lästig ab …: »Später,
-mein Alter … im mag mich ja täuschen … Alles mag
+zu Betrügereien benutzten, da winkte er lässig ab …: »Später,
+mein Alter … ich mag mich ja täuschen … Alles mag
 ganz anders sein …«
 
 So wurde es denn zehn Uhr …
 
 In der letzten halben Stunde hatte ich vor Ungeduld
-meine Taschenuhr etwa. alle fünf Minuten befragt »… —
+meine Taschenuhr etwa alle fünf Minuten befragt … —
 
 Endlich zehn — — endlich …!!
 
-Fünf Minuten verstrichen««.-
+Fünf Minuten verstrichen …
 
 Zehn Minuten …
 
@@ -1314,14 +1312,14 @@ wir!!«
 
 Er hob den Arm … Die Laterne erlosch …
 
-im will noch bemerken, daß der Mulatte sich bisher
+Ich will noch bemerken, daß der Mulatte sich bisher
 nicht wieder am Schiebefenster gezeigt hatte …
 
-Fenster gab’s in diesem Kellerloch mit. Also war die
-Finsternis tatsächlich pechrabenschwarz »… Nicht die Hand
+Fenster gab’s in diesem Kellerloch nicht. Also war die
+Finsternis tatsächlich pechrabenschwarz … Nicht die Hand
 vor Augen zu sehen …
 
-Und da sahen wir etwas …
+Und doch sahen wir etwas …
 
 Etwas sehr Eigentümliches …
 
@@ -1336,9 +1334,9 @@ Hier aber in der Ruine, hier im Totenmoor waren sie
 ansässig …
 
 Und sie waren’s, die bewirkten, daß die pechrabenschwarze
-Finsternis in einer geradezu geisterhaftenUrt durch diese
+Finsternis in einer geradezu geisterhaften Art durch diese
 gelbgrünen Lichtstreifen der Pilzwucherungen unterbrochen
-wurde …«
+wurde …
 
 Lichtstreifen … Uns gegenüber an der Mauer …
 
@@ -1348,19 +1346,20 @@ Nein, durchaus nicht …!
 
 Da hatte Menschenhand nachgeholfen, hatte einen Namen
 in großen lateinischen Buchstaben entstehen lassen …
-M. Burton …
 
-M. Burton«.!
+<p class="centered"><em>M. Burton …</em></p>
 
-Vice!!schlecht Maxwell Burton …
+M. Burton …!
 
-Aber — wie war dieses M. Balkon von Menschenhand
+Vielleicht Maxwell Burton …
+
+Aber — wie war dieses M. Burton von Menschenhand
 gerade hier an die Wand gezaubert?! Wann?! Von Burton
-selbst?! Hatte ein Burton hier eingekerkert gelesen?!
+selbst?! Hatte ein Burton hier eingekerkert gesessen?!
 
 Viele Fragen, keine Antwort …
 
-Oder — — doch) eine Antwort?!
+Oder — — doch eine Antwort?!
 
 Denn wie Harald und ich noch verwundert die leuchtende
 Inschrift anschauen, wie wir noch nebeneinander dastehen und
@@ -1369,42 +1368,42 @@ könnte, da … ein Geräusch …
 
 Eine Gestalt mit einer abgeblendeten Laterne …
 
-Bessy — = Bessy!
+Bessy — — Bessy!
 
-Also das gekommen?!
+Also doch gekommen!!
 
-Und steht und stiert mit vorgestreftem Kopf auf die
+Und steht und stiert mit vorgestrecktem Kopf auf die
 leuchtenden Pilzwucherungen, die hier den Namen Burton
 bilden …
 
-Ihre Lippen bewegen sich, flüstern heiser und ie zitternd
+Ihre Lippen bewegen sich, flüstern heiser und wie zitternd
 vor unnennbarem Entsetzen:
 
-»Matthias Burton …!! Also das …!!«
+»Matthias Burton …!! Also doch …!!«
 
 <@pagebreak/>
 Dann schwankt sie … taumelt … mir in die Arme …
 
-Eine Bewußtlose halte ich … Harst hat die Laterne aufs
-gefangen …
+Eine Bewußtlose halte ich … Harst hat die Laterne aufgefangen
+…
 
 Dann tritt er rasch dicht an die Wand heran … Seine
 Fingernägel zerstören die Buchstaben, die Pilze, den Namen,
 bis nur noch etwas davon übrig — — leuchtende Flecke, die
 nichts mehr verraten …
 
-Es gibt nun hier keinen Namen M. Balkon mehr …
+Es gibt nun hier keinen Namen M. Burton mehr …
 
-Es gibt hier nur voll zwei Männer und ein ohnmächtiges
+Es gibt hier nur noch zwei Männer und ein ohnmächtiges
 Weib …
 
 Zwei Männer, die jetzt mit Bessy Goudsmith die Zelle
 durch die Steintür verlassen …
 
-Hinter der Tür ein schmaler feüuGßter Gang. Harald
+Hinter der Tür ein schmaler feuchter Gang. Harald
 trägt das Mädchen … Ich gehe voran, leuchte …
 
-Sehe mit einem Male Gestrüpp vor mir — den üÜber-wucherten
+Sehe mit einem Male Gestrüpp vor mir — den überwucherten
 Ausgang …
 
 Wir sind außerhalb der alten Burgruine … Sind vor
@@ -1412,8 +1411,8 @@ einem Jener undurchdringlichen Dickichte angelangt, in denen
 nur ein Messer freie Bahn schafft …
 
 Aber hier hat jemand vor uns gearbeitet … Hier hat
-ein Messer Rankenzweige, Reste beseitigt und ein Schlupf
-los hergestellt, daß man gehört gehen kann … Hier legt
+ein Messer Rankenzweige, Äste beseitigt und ein Schlupfloch
+hergestellt, daß man gebückt gehen kann … Hier legt
 Harst seine leichte Bürde nieder und sagt: »Bleibe bei ihr!«
 
 Kehrt um — verschwindet wieder in dem gemauerten
@@ -1433,11 +1432,11 @@ Beugt sich über Bessy …
 »So — noch immer bewußtlos …?! — Vielleicht ganz
 gut … Denn Doktor James Kaspar liegt vor unserer Zellentür
 als Leiche … erdolcht … von hinten … Drei Stiche
-ins Herz … Das Ware kein Anblick für das Mädchen …«
+ins Herz … Das Wäre kein Anblick für das Mädchen …«
 
 Und er nahm sie wieder in die Arme … Er trug sie
 <@pagebreak/>
-darf; den Burghof und durch den Erlenbusch; in die Erdgeschoßräume
+durch den Burghof und durch den Erlenbusch in die Erdgeschoßräume
 des Turmrestes …
 
 In ein Gelaß, das recht wohnlich hergerichtet war, das
@@ -1446,76 +1445,73 @@ neues Fenster …
 
 Hier legte er sie auf das Bett …
 
-Und nach fünf Minuten war Bessy wieder zu sich Hochkommen
+Und nach fünf Minuten war Bessy wieder zu sich gekommen
 und saß aufrecht da und weinte bitterlich …
 
 Wir hatten auf den einfachen Holzstühlen am Tische
 Platz genommen …
 
 »Miß Bessy!« begann Harald zartfühlend … »ich möchte
-Sie einiges fragen … Zunächst aber betone ich, das ich durch«=.
-graue begreifen kann, wenn Sie aus Liebe zu Ihrem Vater
+Sie einiges fragen … Zunächst aber betone ich, das ich durchaus
+begreifen kann, wenn Sie aus Liebe zu Ihrem Vater
 jede Aussage verweigern … Sie wissen, wer wir sind, und
-Sie ahnen sicherlich Rauch, wer uns beide hierher gerufen hat
--… Ihr Vater und James Kaspar, der Mulatte, sind …
+Sie ahnen sicherlich auch, wer uns beide hierher gerufen hat
+… Ihr Vater und James Kaspar, der Mulatte, sind …
 Brillantenfälscher …«
 
 Das Mädchen zuckte merklich zusammen und warf einen
-Steuer Blick auf Harald …
+scheuen Blick auf Harald …
 
-»-. Brillantenfälscher, wie ich jetzt bestimmt weiß,« fuhr
+»… Brillantenfälscher, wie ich jetzt bestimmt weiß,« fuhr
 er fort … »Denn ich habe die von Ihnen weggeworfenen
-Schmuckstücke gefunden und untersucht … Auch) Ihre Diamanten
+Schmuckstücke gefunden und untersucht … Auch Ihre Diamanten
 sind sogenannte »Halbsteine«, das heißt, die obere
-Hälfte ist elf und die untere Hilfe ein tadelloser Similtb
-
-… Werden diese Sollten naß besonderem Verfahren aneins-andergeklebt
+Hälfte ist echt und die untere Hilfe ein tadelloser Simili
+… Werden diese Hälften nach besonderem Verfahren aneinandergeklebt
 und in Fassungen gebracht, so kann kaum ein
-Juwelier den Schwindel herains8erkennen, geschweige denn ein
+Juwelier den Schwindel herauserkennen, geschweige denn ein
 Laie … Diese Halbsteine, die im Blockhause hergestellt wurden,
 trugen dann die Tauben über die Grenze, und ich vermute,
-daß jede Taube ’zehn bis fünfzehn Steine tragen Könnte
-
-Diese Art Betrug ist außerordentlich lohnend. Man
-kann den oberen eilten Teil eines Halbsteines ganz flach
-schleifen, braucht dazu nur wenig echtes Material:ad »erhält
-denrochFg durch; den großen Simili-Unterteil eine« »sein von
-rospaitvoller Größe. — Uhr, Miß Bessy, wol’’« =:e antworten
-9«
+daß jede Taube zehn bis fünfzehn Steine tragen konnte
+… Diese Art Betrug ist außerordentlich lohnend. Man
+kann den oberen echten Teil eines Halbsteines ganz flach
+schleifen, braucht dazu nur wenig echtes Material und erhält
+dennoch durch den großen Simili-Unterteil einen Stein von
+respektvoller Größe. — Also, Miß Bessy, wollen Sie antworten?«
 
 <@pagebreak/>
 Sie schaute Harald aus tränenverschleierten Augen an …
 
 »Sie … Sie wissen ja bereits alles, Herr Harst,« sagte
-sie mit schweren Seufzer … »Ich hatte keine Ahnung, weshalb
-der Na mit diesem … diesem elenden Farbigen, der
+sie mit schwerem Seufzer … »Ich hatte keine Ahnung, weshalb
+der Pa mit diesem … diesem elenden Farbigen, der
 von jeher sein böser Geist war, in diese Einsamkeit gezogen
--… Lange konnte mir nicht verborgen bleiben, daß die beiden
+… Lange konnte mir nicht verborgen bleiben, daß die beiden
 Hier Heimlichkeiten vorhatten. Ich beobachtete sie … Und
-als sie vor acht Tagen wieder einen Taubenschwarm aufs
-steigen ließen, wollte ich mir Gewißheit verschaffen und …«
+als sie vor acht Tagen wieder einen Taubenschwarm aufsteigen
+ließen, wollte ich mir Gewißheit verschaffen und …«
 
-»’-… haben eine der Tauben heruntergeschossen — mit
+»… haben eine der Tauben heruntergeschossen — mit
 einer Luftbüchse …!«
 
 Bessy starrte Harald fassungslos an …
 
-»Dr … woher wissen Sie dies?! Waren Sie damals
+»Wo … woher wissen Sie dies?! Waren Sie damals
 schon hier, Herr Harst?«
 
-»Fein, Miß Bessy … Aber ich hatte genau denselben
+»Nein, Miß Bessy … Aber ich hatte genau denselben
 Gedanken wie Sie … Auch ich hätte eine gute Luftbüchse
-benutzt, um festzustellen, was die Tauben nach) Holland
+benutzt, um festzustellen, was die Tauben nach Holland
 trügen …«
 
-Bessy schluchzte auf … »Herr Harst/ … fünfzehn
-Halbsteine waren in winzigen Stühlen aus Schleierstoff
-dem Tierchen, das meine Kugel getroffen, an die Schwung
-jede«.1 gebunden … Und da bin ich denn mit der Taube zu
+Bessy schluchzte auf … »Herr Harst, … fünfzehn
+Halbsteine waren in winzigen Stückchen aus Schleierstoff
+dem Tierchen, das meine Kugel getroffen, an die Schwungfedern
+gebunden … Und da bin ich denn mit der Taube zu
 meinem Vater geeilt und habe ihn auf Knien angefleht, sich
 doch nicht dieser Gefahr und der Schande des Entdecktwerdens
-auszusetzen … Dom der Mulatte besaß den größeren
-Barfuß … Ich) flüchtete in die Turmruine … Ich wollte …«
+auszusetzen … Doch der Mulatte besaß den größeren
+Einfluß … Ich flüchtete in die Turmruine … Ich wollte …«
 
 Tränen erstickten ihre Stimme …
 
@@ -1527,61 +1523,62 @@ Dann sagte Harst leise:
 
 Bessy fuhr mit einem Schrei empor …
 
-»am Gott, halten Sie mich etwa für die Mörderin, Herr
+»Um Gott, halten Sie mich etwa für die Mörderin, Herr
 Harst?!«
 
-Und abwehrend Briefe sie die Hände vor, hob sie Floß«
-li empor zu flehender Gebärde …
+Und abwehrend streckte sie die Hände vor, hob sie plötzlich
+empor zu flehender Gebärde …
 
 <@pagebreak/>
 »Ich schwöre Ihnen, Herr Harst, — — ich habe den
 Mulatten …«
 
-»Das weiß ich,« unterbra&g Harald sie. »Einem solchen
+»Das weiß ich,« unterbrach Harald sie. »Einem solchen
 Hünen wie den Doktor Kaspar zu fällen, dazu gehören
 mehr Kräfte, als Sie sie besitzen … Nein, Miß Bessy, —
-Sie sind nicht die Täterin … Über Sie werden den Täter
-vielleicht kennen … Hier spielt von ein zweites Geheimnis
+Sie sind nicht die Täterin … Aber Sie werden den Täter
+vielleicht kennen … Hier spielt noch ein zweites Geheimnis
 mit, und dieses heißt: Matthias Burton!!«
 
 Bessy erblaßte abermals bis in die Lippen …
 
 »Nein — nein, Herr Harst, danach dürfen Sie nicht
-hinausragen! — Nein, — das ersparen Sie mir …!! Als ich
+fragen! — Nein, — das ersparen Sie mir …!! Als ich
 die leuchtende Schrift erblickte, ging’s mir wie ein Blitz
-durchs das Hirn … — Sein, hierüber verweigere ich die
+durchs das Hirn … — Nein, hierüber verweigere ich die
 Aussage … Machen Sie mit mir, was Sie wollen …!! Mag
-das Gericht mich einsperren …!? Mag««…«
+das Gericht mich einsperren …! Mag …«
 
 Harald nahm ihre Hand …
 
 »Miß Bessy, kein Mensch wird Sie einsperren … —
-Kommen Die, wir bringen Sie nach dem Blockhause … Ihr
+Kommen Sie, wir bringen Sie nach dem Blockhause … Ihr
 Vater ist seinen Verführer los … Von den Tauben werde
 ich den Behörden vorläufig nichts mitteilen. Den Mord
 muß ich melden … Kommen Sie … Wir haben draußen
-Mondschein … Schraut mag hier den toten Doktor des
-wachen …«
+Mondschein … Schraut mag hier den toten Doktor bewachen
+…«
 
 So war ich denn allein in der Turmruine …
 
-Ging und fand die Stelle, wo der Körper dch8 Mulatten
+Ging und fand die Stelle, wo der Körper des Mulatten
 vor der Zellentür auf dem Gesicht lag …
 
 Meine Laterne beleuchtete die massige Gestalt …
 
-Beleuchtete vor? etwas …
+Beleuchtete noch etwas …
 
-Not) etwas … —
+Noch etwas … —
 
 Dort steht das Etwas …
 
 <@pagebreak/>
-Die Kreuzottern
+
+<h1>Die Kreuzottern.</h1>
 
 <h2>1. Kapitel.</h2>
 
-Meine Laterne zeigte mir auf dem Rüden des Toten
+Meine Laterne zeigte mir auf dem Rücken des Toten
 ein fingerbreites, zerknittertes, farbiges Band …
 
 Erst bei näherem Burschen erkannte reges als eine
@@ -1916,7 +1913,7 @@ nicht … — Als ich Bessy vorhielt, daß es vielleicht einen
 Ottern-Bund gäbe und daß sie heimlich von der Schwelle
 des Blockhauses eine Otternhaut aufgeben habe, zeigte ihr
 ganzes Benehmen, daß sie einen falschen Bund kennen müsse
-— trotz ihres Ableugneuns. — Tag wäre alles, Her! Kriminals-kommissar.
+— trotz ihres Ableugnens. — Tag wäre alles, Her! Kriminals-kommissar.
 Nun können Sie Bessy ja ins Verhör nehmen
 
 — Ob sie etwas aussagen wird, bezweifle ich. Und Sie
@@ -2336,7 +2333,7 @@ Sprach aber sofort in demselben Tone weiter:
 »Der dunkle Lappen, der da vor dem »feineren Stalle
 Fenster hängt, bewegte ein ganz wenig … Ich) sah auch die
 Finger, die den Vorhang kostete 3«. oben hatten … Es
-ist also ein Mensch ich:1 Stalle … Vielleicht gar Gouüdsmith.«
+ist also ein Mensch ich:1 Stalle … Vielleicht gar Goudsmith.«
 
 »Dann könnten von ihn zu einer Aussage zwingen,«
 meinte ich eifrig …
