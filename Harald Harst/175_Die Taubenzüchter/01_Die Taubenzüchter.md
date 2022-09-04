@@ -2,7 +2,7 @@
 
 <#import "*/harst.ftl" as harst>
 
-<@harst.introshort/>
+<@harst.introshort3/>
 
 <h2>1. Kapitel.</h2>
 
@@ -243,7 +243,7 @@ Er diktierte — ich tippte …
 In der linken obersten Ecke des Briefbogens stand protzig
 in Zweifarbendruck:
 
-<p class="pre centered">Horst & Schrack,
+<p class="pre centered">Horst &amp; Schrack,
 Agenturen.
 Telephon: Kurfürst 1982—1987,
 Berlin-Schm., Blücherstr. 10.</p>
@@ -254,7 +254,7 @@ Ich tippte …
 
 <p class="right">Ludau bei Kranz,</p>
 <p class="right">Samland, Ostpr.,</p>
-<p class="right">5\. Juli 19.,</p>
+<p class="right">5. Juli 19..</p>
 
 > Euer Hochwohlgeboren Angebot interessiert uns. Wir
 <@pagebreak/>
@@ -263,7 +263,7 @@ Gegenvorschläge zu unterbreiten.
 
 <p class="centered">Hochachtungsvoll</p>
 
-<p class="right">Horst & Schrack.</p>
+<p class="right">Horst &amp; Schrack.</p>
 
 Dieser harmlose Brief ging noch an demselben Tage ab.
 
