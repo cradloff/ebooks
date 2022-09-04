@@ -2397,42 +2397,40 @@ Der Lichtkegel erlosch …
 <h2>4. Kapitel.</h2>
 
 Nur von dem Lager des Fremden her die untrüglichen
-Zeilen eines todmüden Schülers, tiefe Atmen, leise
+Zeichen eines todmüden Schläfers, tiefes Atmen, leise
 Schnarchtöne …
 
 Harald raunte mir ins Ohr:
 
 »Das kann nur Matthias Burton sein … Wer sonst?!
-Der Mensch hat ein hinter; amerikanisches Gesicht, bartlos,
+Der Mensch hat ein typisch amerikanisches Gesicht, bartlos,
 wulstig, und selbst seine braunen breiten Schnürschuhe deuten
 auf einen Yankee hin …«
 
-»Dann schob er den Stein wieder vor die Öffnung —
+Dann schob er den Stein wieder vor die Öffnung —
 ganz leise …
 
-Mond weinte nun: »Schrie.:3 haben wir Doktor Dickhut
+Und meinte nun: »Übrigens haben wir Doktor Dickhut
 von diesem Gang sehr wenig mitgeteilt … Ich glaube, den
 Stein erwähnten wir gar nicht … Vielleicht hat gar der
 Kommissar den Burton zufällig erwischt und vorläufig dort
 eingesperrt … Oder aber: Bessy bewacht den Schläfer, sorgt
 für seine Sicherheit … Jedenfalls wollen wir vorläufig hier
-
 in dem gemauerten Gange bleiben … — Du siehst: etwas
 hat sich schon ereignet! Ich werde nun den Stein wieder
 öffnen … Mit aller Vorsicht — nur ein paar Finger
-
 breit …«
 
 Harst hatte den Stein wieder ein wenig herumgedrückt
 und sich dicht vor diese Öffnung gesetzt. Ich neben ihm …
 
-So saßen wir denn und warteten: …
+So saßen wir denn und warteten …
 
 Worauf, — — ich ahnte es so ganz entfernt … Vielleicht
 auf einen des Ottern—Bundes, auf den Baron Erwin
 Balitzki … Vielleicht …!
 
-Und dann … bewegten sich die Büsche und Strauche
+Und dann … bewegten sich die Büsche und Sträucher
 vor dem Eingang …
 
 Ein Mann drängte sich hindurch, kam in den Gang …
@@ -2441,9 +2439,9 @@ Ein zweiter, dritter, vierter, fünfter …
 
 Ein halbes Dutzend …
 
-Namen — mit hellgrünen Machen vor den Gesicht-«n …
+Kamen — mit hellgrünen Masken vor den Gesichtern …
 
-In grünen, getupften Umhängen … Mit grünen « den.
+In grünen, getupften Umhängen … Mit grünen Kappen.
 
 <@pagebreak/>
 Harst hatte mich angestoßen …
@@ -2453,7 +2451,7 @@ Harst hatte mich angestoßen …
 Ich verstand …
 
 So — nun konnten die Vermummten uns guten Abend
-[sagen …
+sagen …
 
 Und — sie taten’s …
 
@@ -2464,9 +2462,9 @@ Jeder in der Rechten dasselbe wie wir: Repetierpistolen!
 
 Der Vorderste machte zwei Schritt vor uns halt …
 
-Der Vorderste sprach) mit tiefer Stimme:
+Der Vorderste sprach mit tiefer Stimme:
 
-»Gern Harst, Sie und Ihr Freund haben sich in Dinge
+»Herr Harst, Sie und Ihr Freund haben sich in Dinge
 gemischt, die Ihnen verboten … Der Bund ladet Sie beide
 vor sein Gericht …«
 
@@ -2476,51 +2474,52 @@ erheblich erheiternd …
 Harald erwiderte mit einer Stimme, der wohl nur ich
 das heimliche Kichern anmerkte:
 
-»Diese Ladung lohnen wir ab! — Wer sind Sie?!«
+»Diese Ladung lehnen wir ab! — Wer sind Sie?!«
 
-»Die Ottern «…!! Eine alte Vereinigung, ein Bund,
+»Die Ottern …!! Eine alte Vereinigung, ein Bund,
 der sich zum Ziele gesetzt hat, das Recht zu schützen und das
 Unrecht zu strafen …«
 
-»Sehr empfcehlenöwerte Grundsätze, ohne Frage! Nur
+»Sehr empfehlenswerte Grundsätze, ohne Frage! Nur
 scheinen Sie, meine Herren, zuweilen Recht und Unrecht zu
-verwechseln. Denn Schraut und ich sind als Schüsse des
-Rechtes vielleiHMt etwas bekannter als Sie …! Und doch
-laden Sie uns vor Ihr Gericht??? Wie reimt sich das zusammen?!«
+verwechseln. Denn Schraut und ich sind als Schützer des
+Rechtes vielleicht etwas bekannter als Sie …! Und doch
+laden Sie uns vor Ihr Gericht?! Wie reimt sich das zusammen?!«
 
 »Es handelt sich hier um eine Angelegenheit, Herr Harst,
 bei der Sie Ihre Ironie getrost sich sparen können. Wir
-sind keine läppischen Spießbürger, die an Munutimnenschanz
+sind keine läppischen Spießbürger, die an Mummenschanz
 Gefallen finden, sondern Männer, die vor nichts zurückschrecken.
-— Ich) fordere Sie auf, Ihre Waffen abzuliefern
+— Ich fordere Sie auf, Ihre Waffen abzuliefern
 und sich ohne Widerstand fesseln zu lassen …«
 
-»Und ich fordere Sie auf, diesen Unfug nicht auf die Spie
-zu treiben! — Hier ist meine Pistole …!! — Wer lind Sie?!«
+»Und ich fordere Sie auf, diesen Unfug nicht auf die Spitze
+zu treiben! — Hier ist meine Pistole …!! — Wer sind Sie?!«
 
 <@pagebreak/>
-Natürlich waren’s die Söhne des Barons Uhr Bart?!
-und drei weitere junge Leute … Weshalb tat Harald so.
+Natürlich waren’s die Söhne des Barons Udo Balitzki
+und drei weitere junge Leute … Weshalb tat Harald so,
 als ob er nicht wüßte, wen er vor sich hatte?!
 
 Ich schrak zusammen …
 
 Denn hinter uns jetzt eine andere Stimme — durch die
-Würze zwischen Stein und Mauer …
+Lücke zwischen Stein und Mauer …
 
-»Hüten Sie sich!! Ich drücke ab, wenn Sie nicht augen-blifliHh
-gelockert«
+»Hüten Sie sich!! Ich drücke ab, wenn Sie nicht augenblicklich
+gehorchen!!«
 
 Der Schläfer!!
 
 Also — — eine Falle das Ganze …
 
 Man hatte uns erwartet
-— Und nochmals rief der Amerikaner — und man hörte
+
+Und nochmals rief der Amerikaner — und man hörte
 seinem Deutsch den Ausländer an:
 
-»Person Sie Ihre Piste »en weg — augenbliflih! Ich
-Drüse ab … Und das, was Ihnen dann geschieht, ist kein
+»Werfen Sie Ihre Pistolen weg — augenblicklich! Ich
+drücke ab … Und das, was Ihnen dann geschieht, ist kein
 Kugelschuß …!!«
 
 Harst schaute zu dem Sprecher der Ottern auf …
@@ -2532,15 +2531,16 @@ Ein schrilles Lachen …
 »Mann, — — Baron, ich?! Wie kommen Sie denn
 darauf?! Wäre für mich eine große Ehre, Baron zu sein!!
 — Geben Sie Ihre Pistolen her! Ich warne Sie! Unser
-Freund dort in der Zelle verfügt über eine Tasse, die Ihnen
+Freund dort in der Zelle verfügt über eine Waffe, die Ihnen
 verteufelt unangenehm werden könnte!«
 
 Oh — das war nicht mehr die Sprache eines Mannes,
-der hier nur einen halben Ausdruck:« Sichere inszenieren wollte
-Das war trotz der vorstellen S:inne bitterer Cenyst’
+der hier nur einen halben Fastnachtsscherz inszenieren wollte.
+
+Das war trotz der verstellten Stimme bitterer Ernst!!
 
 Und — — Harald legte jetzt achselzuckend seine Pistole vor
-sich auf den Boden und erhob sie. Ich folgte seinem Beispiel.
+sich auf den Boden und erhob sich. Ich folgte seinem Beispiel.
 
 Und ebenso gutwillig streckten wir die Hände vor …
 
@@ -2549,68 +2549,69 @@ Ebenso schnell schnappten Stahlfesseln zu …
 Nun trat der Amerikaner in den Gang … — gleichfalls
 im Otternkostüm …
 
-Dann müßten wir in die Zelle hinein … Man lautete uns
-durch die offene Zellentür bis an eine. mit M »3 und.
-Schimmel über und über loderte Mauer …
+Dann mußten wir in die Zelle hinein … Man führte uns
+durch die offene Zellentür bis an eine mit Moos und
+Schimmel über und über bedeckte Mauer …
 
 <@pagebreak/>
 Hier warf man uns Tücher über die Köpfe … Wir
 hörten das Kreischen rostiger Türangeln, dann hinter uns
 nochmals das Kreischen und nun zog man uns die Tücher
-weg. Ein Gewölbe … Nadeln brannten in eisernen Ringen.
+weg. Ein Gewölbe … Fackeln brannten in eisernen Ringen.
 
 Ein eichener uralter langer Tisch …
 
 Dahinter die sieben Vermummten …
 
 Und — — neben uns noch drei Gefesselte …
-Ich traute meinen Augen nicht …
-Bessy — — ihr Vater — — und Doktor Franz Diktat,
 
+Ich traute meinen Augen nicht …
+
+Bessy — — ihr Vater — — und Doktor Franz Dickhut,
 der Kriminalkommissar … —
 
 Jetzt war mir nicht mehr fastnachtsmäßig zumute …
 
-Die Aufmachung hier war keineswegs auf plumpe Effekt-bascrcheret
+Die Aufmachung hier war keineswegs auf plumpe Effekthascherei
 berechnet …
 
 Auf dem Tische stand als einziges Zeichen des Bundes
-ein Holzgestell! in Kreu3zform, an das mit Draht sieben lebende
+ein Holzgestell in Kreuzform, an das mit Draht sieben lebende
 Kreuzottern befestigt waren …
 
 Die Schlangen wanden sich unaufhörlich hin und her …
 Suchten sich zu befreien … Es waren armlange Exemplare
-
-Ihre Perläuglein blinkten im Fackellicht …
+… Ihre Perläuglein blinkten im Fackellicht …
 
 Hinter dem Tische saßen die anderen sieben Ottern, in
-der Bitte der Sprecher, der nun mit seiner tiefen, verstellten
+der Mitte der Sprecher, der nun mit seiner tiefen, verstellten
 Stimme begann:
 
 »Ernest Goudsmith und Bessy Goudsmith, euer Urteil
 ist bereits gesprochen. Ihr beide habt den Diamantenhändler
 Matthias Burton zusammen mit dem von uns bestraften
 Mulatten Doktor James Kaspar ermordet — im Moor
-versenkt? Ihr habt eure Schuld eingestanden »… Ihr kennt
+versenkt! Ihr habt eure Schuld eingestanden … Ihr kennt
 eure Strafe …!«
 
 Bessy weinte, lehnte sich an ihren Vater …
 
 Goudsmith rief in ohnmächtiger Wut:
 
-»Mörder seid ihr — — feige Mörder! Schnur mein
-Kind!? Sie hat keinen Teil an dem Verbrechen, das ich
+»Mörder seid ihr — — feige Mörder! Schont mein
+Kind!! Sie hat keinen Teil an dem Verbrechen, das ich
 ruhig eingestehe — — als Tat meines Genossen James
+Kaspar! — Schont mein Kind!!«
 
-Kaspar! — Schont mein Sind!!«
 Ich starrte Bessy an …
+
 Sie taumelte jetzt vorwärts …
 
 <@pagebreak/>
 Sank vor dem Tische in die Knie, reckte die gefesselten
 Hände empor …
 
-»Erbarmen — — Erbarmen!! Rauch mein Vater ist
+»Erbarmen — — Erbarmen!! Auch mein Vater ist
 schuldlos!«
 
 Der Sprecher lachte höhnisch …
@@ -2618,36 +2619,36 @@ Der Sprecher lachte höhnisch …
 »Ein Feigling ist er!! — Stehen Sie auf, Bessy Goudsmith!!
 Ihr Leben soll geschont werden, wenn die drei
 Herren da …« — er zeigte auf uns — »auf unsere Bedingungen
-eingehen …? — Herr Harst, ich frage Sie also —
+eingehen …! — Herr Harst, ich frage Sie also —
 auch Sie, Herr Doktor Dickhut, — auch Sie, Herr Schraut:
-wollen Sie hier vor uns Ihr Ehrenwort dahin abgeben…
+wollen Sie hier vor uns Ihr Ehrenwort dahin abgeben,
 daß Sie scheinbar sich um den Mord an dem Mulatten
 weiter bekümmern, daß Sie dann aber schließlich erklären
-werden. nichts heraus8geFpmnden Zu haben, was auf eine bestimmte
+werden, nichts herausgefunden Zu haben, was auf eine bestimmte
 Person als Täter deuten könnte? Wollen Sie dieses
-Versprechen leisten, so soll Bessy geschont werden …« Es
+Versprechen leisten, so soll Bessy geschont werden …«
 
-Doktor Diktat, der kleine hagere Mann mit dem intelligenten
-Schar’lpielergesiht, sagte verächtlich:
+Doktor Dickhut, der kleine hagere Mann mit dem intelligenten
+Schauspielergesicht, sagte verächtlich:
 
-»Narrensöpossen das alles!! Niemals werde ich …«
+»Narrenspossen das alles!! Niemals werde ich …«
 
-Halt — — nicht zu voreilig!« warnte der Sprecher …
+»Halt — — nicht zu voreilig!« warnte der Sprecher …
 
 Und gab den anderen Ottern einen Wink …
 
-Man warf uns wieder die Tücher über die Köpfe
+Man warf uns wieder die Tücher über die Köpfe …
 
 Man führte uns davon …
 
 Vor uns kreischten die Türangeln …
 
-Hinter uns kreiste Bessy … weinte … schrie …
+Hinter uns kreischte Bessy … weinte … schrie …
 
-Wir lief’s kalt über den Rüden …
+Mir lief’s kalt über den Rücken …
 
-Harst und ich hatten 1923 der Hinrichtung der Gilde
-Mörderin Marie Schtnedeck beigewohnt … Genau so gellend
+Harst und ich hatten 1923 der Hinrichtung der Giftmörderin
+Marie Schnedeck beigewohnt … Genau so gellend
 hatte die Mörderin vor Angst geschrien … entsetzlich anzuhören
 …
 
@@ -2660,24 +2661,24 @@ Vor uns ein Moortümpel …
 Neben uns drei der Vermummten, die den gefesselten
 und geknebelten Goudsmith festhielten.
 
-Er wehrte ein … Er tobte fast …
+Er wehrte sich … Er tobte fast …
 
 <@pagebreak/>
 Man band ihm einen Mauerstein an die Füße, hob ihn
-empor …«.
+empor …
 
 Ich brüllte:
 
-»Unholde — — Mörder!!?«
+»Unholde — — Mörder!!«
 
 Da flog Goudsmith auch schon in den Tümpel …
 
-Not war’s hell genug, das Furchtbare genau beobachten
+Noch war’s hell genug, das Furchtbare genau beobachten
 zu können …
 
-Wir troff der kalte Schweiß von der Stirn …
+Mir troff der kalte Schweiß von der Stirn …
 
-Und gefühllos sagte der Sprecher der Ottern«
+Und gefühllos sagte der Sprecher der Ottern:
 
 »Er ist gerichtet! Gehen wir!«
 
@@ -2687,13 +2688,13 @@ Man führte uns zurück in das Gewölbe … Zurück vor
 den Eichentisch … Vor dem Tische lag Bessy, — anscheinend
 bewußtlos …
 
-Der Sprechen wandte sich an Doktor Dickhut:
+Der Sprecher wandte sich an Doktor Dickhut:
 
 »Nun, Herr Kommissar, — werden Sie jetzt Ihr Ehrenwort
-geben oder wünschen Sie, daß auch4 die Tochter dem
+geben oder wünschen Sie, daß auch die Tochter dem
 Vater nachfolgt?! — Noch eine Warnung, bevor Sie antworten
 … Sollten Sie Ihr Ehrenwort brechen, so werden
-Sie dasselbe Schicksal erleiden wie Goudsmith! — Niederlegen
+Sie dasselbe Schicksal erleiden wie Goudsmith! — Überlegen
 Sie es sich reiflich, ob der Schuft von Mulatte ein Mädchenleben
 wert ist …!«
 
@@ -2701,23 +2702,22 @@ Harald mischte sich ein …
 
 »Obwohl es mir schwer wird, Ihnen, die ich nur mit
 tiefster Verachtung strafen kann, mein Ehrenwort zu geben,
-will ich; es doch; in Rücksicht auf dieses fraglos schuldlose
-Wesen tun … auch in Sccrauts Namen … Wir Vers
-sprechen, daß wir uns um den Mord nicht mehr kümmern
+will ich es doch in Rücksicht auf dieses fraglos schuldlose
+Wesen tun … auch in Schrauts Namen … Wir versprechen,
+daß wir uns um den Mord nicht mehr kümmern
 und nichts von dem verraten werden, was hier geschehen
-
-Im übrigen betone ich nochmals, daß nur das Mitleid
+… Im übrigen betone ich nochmals, daß nur das Mitleid
 mit Bessy mich zu diesem Versprechen bestimmt und daß ich
 euch Ottern für jämmerliche Schurken halte …«
 
 Das war deutlich …
 
 Und das veranlaßte nun auch den Kommissar, Harsts
-Beispiel zu folgen, wobei er diese Mörderbande voll mit
-ganz anderen Nugsdrücken belegte …
+Beispiel zu folgen, wobei er diese Mörderbande noch mit
+ganz anderen Ausdrücken belegte …
 
 <@pagebreak/>
-Was das Lumpenpacks auch) verdiente.
+Was das Lumpenpacks auch verdiente.
 
 Man führte uns drei hierauf bis zu dem Versteck unseres
 Moorkahns …
@@ -2726,54 +2726,54 @@ Im flammenden Abendrot nahm man uns die Fesseln
 ab und befahl uns, sofort auf kürzestem Wege nach Kranz
 zurückzukehren …
 
-Wie wir in Kranz ankamen, kann sie jeder denken …:
-Zerstoben, hungrig, durstig und in einer Stimmung, als ob
+Wie wir in Kranz ankamen, kann sich jeder denken …:
+Zerstochen, hungrig, durstig und in einer Stimmung, als ob
 wir einen Tag in der Hölle zugebracht hatten.
 
-Dickhut begleitete uns nach) unserem Heim …
+Dickhut begleitete uns nach unserem Heim …
 
 Unsere Wirtin geriet rein aus dem Häuschen, als ihre
-hochverehrter, berühmten Berliner Gäste in einer solchen
+hochverehrten, berühmten Berliner Gäste in einer solchen
 Verfassung sich bei ihr einfanden.
 
-Die gute Seele hatte d »7 zum im Nu ein Abendbrot
+Die gute Seele hatte denn auch im Nu ein Abendbrot
 für uns bereit.
 
 Gegen elf Uhr verabschiedete sich Dickhut. Er hatte
 sich bereits darüber getröstet, daß er als Beamter mit dieser
-Verbrecherbande, die Ernest Goudsmith so kaltblütig er?« Art
-hatte, Ich uf eine Art Vertrag eingelassen habe.
+Verbrecherbande, die Ernest Goudsmith so kaltblütig ertränkt
+hatte, sich auf eine Art Vertrag eingelassen habe.
 
 Wir begleiteten ihn bis auf die schmale stille Dorfstraße
 hinaus …
 
-Hier meinte der Lommissar nochmals: »Ich werde die
-naht riecht schlafen können — unmöglich! Wir wird immer
-das Bild vorschweben, wie die drei Unholde den armen Genosse
+Hier meinte der Kommissar nochmals: »Ich werde die
+Nacht nicht schlafen können — unmöglich! Mir wird immer
+das Bild vorschweben, wie die drei Unholde den armen
 Goudsmith wie einen tollen Hund ertränkten …«
 
 Zufällig schaute ich Harald in das von der nächsten
-Straßenlaterne hell beschienene Gesicht»…
+Straßenlaterne hell beschienene Gesicht …
 
 Täuschte ich mich?!
 
-Glitt wirklich) ein Lächeln über seine Züge?!
+Glitt wirklich ein Lächeln über seine Züge?!
 
-Ich) blickte genauer hin … Da war das Lächeln schon
-wieder verschwunden … Ich mußte mich gekäuscrcht haben.
+Ich blickte genauer hin … Da war das Lächeln schon
+wieder verschwunden … Ich mußte mich getäuscht haben.
 
-Dickhut schritt davon, drehte [ich nochgmals um und winkte
+Dickhut schritt davon, drehte sich nochmals um und winkte
 uns zu …
 
-Wir winkten zurück und wandten uns dem kleinen Bord
-Garten wieder zu — unserer Glasveranda, über der im
-ersten Hinweis genau eine sollte Veranda lag.
+Wir winkten zurück und wandten uns dem kleinen Vorgarten
+wieder zu — unserer Glasveranda, über der im
+ersten Stockwerk genau eine solche Veranda lag.
 
 <@pagebreak/>
 Ich blickte empor — zum ausgestirnten Nachthimmel …
 
-»Recht so!« flüsterte Harald. »Recht [so!! Eine der Ottern
-muß dort oben wohnen … Denn nur von der oberen Des
+»Recht so!« flüsterte Harald. »Recht so!! Eine der Ottern
+muß dort oben wohnen … Denn nur von der oberen
 Veranda aus können wir belauscht worden sein … Belauscht
 sind wir, denn wie konnte sonst auf dem Lanzenzettel stehen,
 daß wir nicht nur zum Schein abreisen sollten?! So eine
@@ -2792,9 +2792,9 @@ dem geistigen und seelischen Gleichgewicht gebracht …
 
 Ottern — — und wieder Balitzkis?!
 
-Sollten die Ottern also doch« die Balitzkis sein?! —
+Sollten die Ottern also doch die Balitzkis sein?! —
 
-Harst 309 mich rasch in unser Schlafzimmer …
+Harst zog mich rasch in unser Schlafzimmer …
 
 »Spare dir alle Fragen, mein Alter … Ich sehe es
 dir an, daß du wie vor den Kopf geschlagen bist … Glaube
@@ -2805,31 +2805,29 @@ Auftraggeber, dem alten Baron, endlich die Antrittsvisite.«
 
 Und er begann sich zu entkleiden, war für keine Frage
 mehr zu haben, rieb sich vor dem Spiegel Gesicht und Hände
-mit einer Salbe ein, d. ’’ns unsere Wirtin als schnellstes
-Heilmittel gegen März.: 5. »en empfohlen und besorgt hatte
-… Dann schlüpfte er 3 elf, rief mir ein Gute Nacht zu
-und war im nächsten 2.Zement eingeschlafen. — Bemerkenswerte
-Natur!! Ich) wünschte, ich hätte Hirn und Körper auch
-so in der Gewalt, Denn bevor ich einschlummerte, gingen
-Kinos Stunden hin … Zu vieles gab’s, was mich beschäftigte
+mit einer Salbe ein, die uns unsere Wirtin als schnellstes
+Heilmittel gegen Mückenstiche empfohlen und besorgt hatte
+… Dann schlüpfte er ins Bett, rief mir ein Gute Nacht zu
+und war im nächsten Moment eingeschlafen. — Bemerkenswerte
+Natur!! Ich wünschte, ich hätte Hirn und Körper auch
+so in der Gewalt. Denn bevor ich einschlummerte, gingen
+noch Stunden hin … Zu vieles gab’s, was mich beschäftigte
 <@pagebreak/>
 … Hauptsächlich die Ottern!! »Tadellos gedeichselt,«
-so hatte Harald sich ausgebeult … — Also schien die Szene
-im Gewölbe das nur Spiegelfechterei Jewesen zu sein?! —
-
+so hatte Harald sich ausgedrückt … — Also schien die Szene
+im Gewölbe das nur Spiegelfechterei gewesen zu sein?! —
 Unmöglich — — unmöglich!! Ausgeschlossen, daß man zum
 Beispiel etwa nur eine Puppe in den Moortümpel geworfen
-hatte — — ausgeschlossen!! Dieser Mord an Ernest Geruch
-
-Goudsmith war nicht anzuzweifeln …!! Niemals!! Meinen Kopf
-hältst ich zum Pfande gesetzt, daß Goudsmith ertränkt worden,
+hatte — — ausgeschlossen!! Dieser Mord an Ernest Goudsmith
+war nicht anzuzweifeln …!! Niemals!! Meinen Kopf
+hätte ich zum Pfande gesetzt, daß Goudsmith ertränkt worden.
 Und — das sollten die Balitzkis getan haben?! — Freilich —
 gegen sie sprach der Lanzenzettel, sprach auch noch anderes:
-unser Uceberwohner Günter von Balitzki
+unser Überwohner Günter von Balitzki
 
 Und dann — schlief ich das ein …
 
-Dann träumte ich, daß Baumloch selbst in einen Moortümpel
+Dann träumte ich, daß man mich selbst in einen Moortümpel
 werfen wollte … Ich verteidigte mich mit aller
 Kraft gegen drei Ottern …
 
@@ -2844,22 +2842,22 @@ Schaltete die Nachttischlampe ein …
 
 Und — sah die Bescherung …
 
-Die Wasserkaraffe hatte im herabgestoßen … Ihr Wasserstrahl
+Die Wasserkaraffe hatte ich herabgestoßen … Ihr Wasserstrahl
 hatte mich getroffen … Auf dem Bettvorleger war sie
-zerschellt … Das war. das Hohngelächter gewesen — das
+zerschellt … Das war das Hohngelächter gewesen — das
 Klirren des Glases!
 
 Und dann — ein Blick nach Haralds Bett hinüber …
 
-Drei — — leert!
+Leer — — leer!!
 
 Und an den Fuß der Nachttischlampe ein Zettel gestützt …
 
 Ich las:
 
-»Solltest du frühzeitig aufwachen, mein Alter, so kannst
+> »Solltest du frühzeitig aufwachen, mein Alter, so kannst
 du nach dem Blockhause kommen. Ich konnte nicht
-schlafen. H.« …
+schlafen. H.«
 
 Ich sah nach der Uhr …
 
@@ -2874,25 +2872,25 @@ Ich marschierte im Eilschritt …
 
 Ich gelangte an das Alarmbrett, umging es …
 
-Kam in die Nähe der Anhänger … Sah die Vorderfenster
+Kam in die Nähe der Blockhäuser … Sah die Vorderfenster
 erleuchtet …
 
 Und — prallte zurück …
 
 Über mir aus der Krone einer Kiefer das schauerliche
-Lachen eines Häuschens …
+Lachen eines Käuzchens …
 
-Und dem Lachen folgte ein zischender Laut … Ich blidäte
+Und dem Lachen folgte ein zischender Laut … Ich blickte
 empor …: Harst — Harst!!
 
-Er rutschte herab … War im Jugendlich neben mir …
+Er rutschte herab … War im Augenblick neben mir …
 
 »Brav, mein Alter …!! — Sie sind alle versammelt …
 alle … Komm’ nur … Die Dachluke ist offen … Ich hole
 die Leiter …«
 
 Die Fenstervorhänge waren dicht geschlossen, wie ich
-noch schnell feststellte. Tour an dem einen Fenster klafften
+noch schnell feststellte. Nur an dem einen Fenster klafften
 sie oben etwa zwei handbreit … Und diese Nachlässigkeit
 hatte Harald genügt … Er hatte gesehen — alle!! Wen
 also?! Wen?!
@@ -2919,24 +2917,24 @@ Die Verbindungstür geschlossen …
 Haralds Taschenmesser arbeitet still und schnell ein Loch
 in die Füllung …
 
-Haralds GeschiFlimkeit vermeidet jedes Geräusch …
+Haralds Geschicklichkeit vermeidet jedes Geräusch …
 
 Das Schlüsselloch konnten wir nicht benutzen … Die
 dort drüben Anwesenden saßen außerhalb des Sehfeldes der
 kleinen Öffnung …
 
-Nun aber war’s mit dem Los in der Füllung ein
-aünstigere3 Spiel …
+Nun aber war’s mit dem Loch in der Füllung ein
+günstigeres Spiel …
 
 <@pagebreak/>
 Harst schaute hindurch …
 
 Zu lange …
 
-Ei wollte ihn ungeduldig beiseite drängen …
+Ich wollte ihn ungeduldig beiseite drängen …
 
 Da … legte er die Hand bereits auf den Türdrücker …
-Da … stieß er die Tür auf … ganz warf …
+Da … stieß er die Tür auf … ganz weit …
 
 Rief laut:
 
@@ -2946,12 +2944,12 @@ ersparen …«
 
 Jetzt sah ich …
 
-Sah ich rechts an der Wand um den Sofatisch) neun
+Sah ich rechts an der Wand um den Sofatisch neun
 Personen sitzen …
 
-Hechts jüngere Herren, darunter Erwin von Balitzki …
+Sechs jüngere Herren, darunter Erwin von Balitzki …
 
-Neben ihm Bessy — ganz t:echt neben ihm … Und
+Neben ihm Bessy — ganz dicht neben ihm … Und
 neben Bessy wieder ein graubärtiger Unbekannter … Ferner
 der Amerikaner, der Mann, den wir für Matthias Burton
 gehalten hatten …
@@ -2959,62 +2957,62 @@ gehalten hatten …
 Als Harst die Tür aufgerissen hatte, waren nur Erwin
 von Balitzki und Burton aufgesprungen …
 
-Der Baron trat rasch) auf uns zu: »Wer sind Sie,
+Der Baron trat rasch auf uns zu: »Wer sind Sie,
 meine Herren?! Was wollen Sie?!« — Seine Stimme
-sollte drohend klingen, aber der Ton gelang ihm. nicht ganz.
+sollte drohend klingen, aber der Ton gelang ihm nicht ganz.
 
 Harst, den Hut in der Linken, verneigte sich leicht …
 
-»Baron Erwin, ich denke, wir lassen jetzt jedes Komödiens-spiel
-… Gewiß. Schraut und ich haben Ihnen unser Wort
+»Baron Erwin, ich denke, wir lassen jetzt jedes Komödienspiel
+… Gewiß, Schraut und ich haben Ihnen unser Wort
 verpfändet … Aber unter Verhältnissen, die in keiner Weise
 der Wirklichkeit entsprachen … Ihr Otternbund wollte uns
 beide und den Kommissar lediglich ausschalten … Fräulein
 Bessy hat dabei ihre Rolle ebenso vorzüglich gespielt wie
-Herr Ernest Goudsmith, … der jetzt dort in der Maske eines
+Herr Ernest Goudsmith, der jetzt dort in der Maske eines
 bejahrten Herrn sitzt. Ich war mir keinen Augenblick im
 Zweifel, was Sie mit dieser Gerichtssitzung bezweckten. Meine
 Anerkennung auch für die … Ermordung des Herrn Goudsmith
-… Leider sah ich jedoch genau, daß der anschHeinnd
-Gefesselte im Wasser sofort die Hände frei hatte und — cm
-Gummischlauch in den Mund führte, dessen anderes he
+… Leider sah ich jedoch genau, daß der anscheinend
+Gefesselte im Wasser sofort die Hände frei hatte und einen
+Gummischlauch in den Mund führte, dessen anderes Ende
 <@pagebreak/>
 in einen durchlöcherten Ball führte, der oben auf dem
-Tümpel zwischen den Wasserpflanzen schwamm, so daß Hand«-
-Goudsmith weiter atmen konnte … — Kurz: Sie haben Goudsmith
-nicht ertränkt, sondern wollten ihm nur die Stürzt
+Tümpel zwischen den Wasserpflanzen schwamm, so daß Goudsmith
+weiter atmen konnte … — Kurz: Sie haben Goudsmith
+nicht ertränkt, sondern wollten ihm nur die Flucht
 ermöglichen … Er sollte als tot gelten … — Herr Baron,
 von uns beiden haben Sie nichts zu fürchten … Wir werden
 schweigen … Nur die volle Wahrheit möchten wir bestätigt
 haben … Diese Wahrheit glaube ich herausgefunden
-zu haben … Gestatten Sie, daß wir Platz nehmen … 0)
+zu haben … Gestatten Sie, daß wir Platz nehmen … Ich
 werde Ihnen kurz entwickeln, wie ich mir die Vorfälle als
-Ganzes im Geiste zusammengeschmiedet habe …
+Ganzes im Geiste zusammengeschmiedet habe …«
 
 Gegen Harsts liebenswürdige Bestimmtheit ist schwer
 etwas auszurichten …
 
-So kapitulierte denn nun auch Baron Erwin vor per
-überlegenen Intelligenz und meinte mit einem halb konnten
-Seufzer: »Bitte, meine Herren, — stehen Sie sich … 2x
-sind gespannt, was Sie, Herr Harst, von all diesen Geiccha
-Ereignissen denken, die das wahrlich nicht so einfach zu über
-schauen sind …«
+So kapitulierte denn nun auch Baron Erwin vor der
+überlegenen Intelligenz und meinte mit einem halb komischen
+Seufzer: »Bitte, meine Herren, — setzen Sie sich … Wir
+sind gespannt, was Sie, Herr Harst, von all diesen Geschehnissen
+denken, die doch wahrlich nicht so einfach zu überschauen
+sind …«
 
-Wir Rücken uns zwei Stühle an den Tisch … Nahm:n
+Wir rückten uns zwei Stühle an den Tisch … Nahmen
 Platz … Dann begann Harst:
 
-»Daß der Mulatte der böse Geist Herrn Goudsmith
-gewesen ist, hat uns schon Fräulein Bessy bestätigt … U1.d
-daß dieser farbige Doktor der eigentliche Machen des Halbstein
--Schmuggels war, entnahm ich einzelnen Sätzen während
+»Daß der Mulatte der böse Geist Herrn Goudsmiths
+gewesen ist, hat uns schon Fräulein Bessy bestätigt … Und
+daß dieser farbige Doktor der eigentliche Macher des
+Halbstein-Schmuggels war, entnahm ich einzelnen Sätzen während
 des Streites zwischen den beiden. Herr Goudsmith wollte
 seiner Tochter wegen, die er über alles liebte und die sich
-vergrämt und verzweifelt in die Ruine zurückstecken hatte,
-den Schmuggel sofort beenden und schnell Fuchs; den Rest
-der Steine fortschaffen … Der Mulatte, eine sehr hab
-gierige Natur, dazu noch in Fräulein Bessy auf seine Art
-verliebt, weigerte ein entschieden, das lohnende Geschäft auszugeben,
+vergrämt und verzweifelt in die Ruine zurückgezogen hatte,
+den Schmuggel sofort beenden und schnell auch den Rest
+der Steine fortschaffen … Der Mulatte, eine sehr habgierige
+Natur, dazu noch in Fräulein Bessy auf seine Art
+verliebt, weigerte ein entschieden, das lohnende Geschäft aufzugeben,
 und überraschte uns beide denn auch als Lauscher,
 schlug uns nieder und hatte fraglos die Absicht, uns …
 für immer verschwinden zu lassen … Sie, Herr Goudsmith,
@@ -3023,7 +3021,7 @@ haben dann zur selben Stunde, als Ihre Tochter uns befreite,
 zusammen mit dem Baron Erwin den Mulatten in
 der Ruine stellen wollen, damit er …«
 
-Hier mischte sich zu unserer Ueberrasqung der Amerikaner
+Hier mischte sich zu unserer Überraschung der Amerikaner
 ein …
 
 »Entschuldigen Sie, Herr Harst, — ich möchte hier zunächst
@@ -3032,76 +3030,73 @@ können Sie unmöglich das Richtige kombiniert haben. — Ich
 unterhielt schon in New Orleans Geschäftsbeziehungen zu
 Goudsmith. Ich bin Edelsteinhändler. Dann schrieb der
 Mulatte ohne Wissen Goudsmiths an mich und bestellte Edelsteine,
-die im) hier persönlich abliefern und bezahlt erhalten
+die ich hier persönlich abliefern und bezahlt erhalten
 sollte. Der Mulatte jedoch sperrte mich in die Ruine, in
-jene Zelle ein und beraubt? frisch. Das war drei Tage vor
+jene Zelle ein und beraubte mich. Das war drei Tage vor
 Ihrer Ankunft hier. Zum Glück wußte er nichts von dem
 beweglichen Stein, so daß Bessy mich hinauslassen konnte.
 Wir täuschten einen Unfall vor. James Kaspar glaubte, ich
 sei ertrunken. In Wahrheit brachte mich Bessy zu Baron
-Erwin, der mir insgeheim bei dem Förster seines Batterie
+Erwin, der mir insgeheim bei dem Förster seines Vaters
 Quartier besorgte. Wir wollten nun im Einverständnis mit
-Goudsmith James Kaspar das Geheimnis Folgen, wo jener
-die mir Vergalten Diamanten verstellt hatte. Dann trafen
+Goudsmith James Kaspar das Geheimnis entlocken, wo jener
+die mir geraubten Diamanten versteckt hatte. Dann trafen
 Sie beide hier ein, Herr Harst, und wir griffen zu allerlei
 Mitteln, Goudsmiths Vergehen, eben den Halbstein-Schmuggel,
 um jeden Preis nicht an die Öffentlichkeit dringen zu lassen.
-Als der Mulatte Sie beide eingekercert hatte, waren es
+Als der Mulatte Sie beide eingekerkert hatte, waren es
 Goudsmith und ich, die den Farbigen zwingen wollten, das
-Blockhaus und Europa sofort zu verlassen. Wir überlas sitzen
+Blockhaus und Europa sofort zu verlassen. Wir überraschten
 ihn gerade dabei, als er meine Edelsteine in der Ruine aus
 einer Mauerritze vor der Kerkertür hervorholte. Es kam
 zu einem kurzen Kampf, in dem ich in der Notwehr den
-Mulatten nicederstachm …«
+Mulatten niederstach …«
 
 Er wandte sich darauf an den Baron Erwin …
 
 »So, und nun können Sie Herrn Harst das übrige
 mitteilen …«
 
-Da rief Bessy, und in diesem Augenblick, wo sie … Ursprung
-und nun mit leidenschaftlicher Worten für en
-
+Da rief Bessy, und in diesem Augenblick, wo sie aufsprang
+und nun mit leidenschaftlicher Worten für den
 <@pagebreak/>
 Vater und den Geliebten eintrat, zeigte sie erst so recht, wie
-Cliebreizend sie aussehen konnte …
+liebreizend sie aussehen konnte …
 
-Auch Baron Erwin suchte dann vor seinen zukünftigen
-Schwiegervater auf das warnte zu verteidigen»…
+Auch Baron Erwin suchte dann noch seinen zukünftigen
+Schwiegervater auf das wärmste zu verteidigen …
 
 Liebe formte hier die Sätze … Liebe machte all diese
 Menschen beredt …
 
-»Herr Harst,« erklärte der junge Baron, »der Steine
-Bund existierte einst, als wir noch Primaner waren …«
-Nur Ungehörige der Familie Balitzki gehörten ihm an …
+»Herr Harst,« erklärte der junge Baron, »der Otternbund
+existierte einst, als wir noch Primaner waren …
+Nur Angehörige der Familie Balitzki gehörten ihm an …
 Jetzt, wo wir den Bund als Schreckmittel benutzen wollten,
 fanden wir uns wieder zusammen, und benutzten die alten
-Umhänge, Kappen und Masten, Auch den Mulatten haben
+Umhänge, Kappen und Masken. Auch den Mulatten haben
 wir auf diese Weise einschüchtern wollen … Er war jedoch
 zu schlau … — Ich liebe Bessy, und Bessys Vater will
 aus Liebe zu seinem Kinde fernerhin als tot gelten … Die
-Waise eines Gesc3cIübertreterg werden meine Eltern als
+Waise eines Gesetzesübertreters werden meine Eltern als
 Schwiegertochter nicht ablehnen …« —
 
 Und wenn du nun, freundlicher Leser, dir die Einzelheiten
-dieses unseres Abenteurers nochmals ins Gedärme
+dieses unseres Abenteurers nochmals ins Gedächtnis
 zurückrufst, so wirst du unschwer nach dem Inhalt dieses
 letzten Kapitels dir selber die geistigen Brücken zwischen den
-einzelnen Vergangen schlagen können … —
+einzelnen Vorgängen schlagen können … —
 
 Ich habe nur noch etwas hinzuzufügen: Ernest Goudsmith
-hat sich nachher auf Harsts Zureden das der Polizei
+hat sich nachher auf Harsts Zureden doch der Polizei
 gestellt, und ebenso hat Harald bei dem alten Baron den
 Vermittler gespielt. Goudsmith kam mit einer geringen
-Strafe davon, und Erwin und Bessy sind längst ein glückte
-blies Paar … —
+Strafe davon, und Erwin und Bessy sind längst ein glückliches
+Paar … —
 
-Hiermit für heute ein freundlichst »Auf Wiedersehen« …
+Hiermit für heute ein freundliches »Auf Wiedersehen« …!
 
-Ohrringe »eentmmmetn Gemmtintgn Poren Dir
+<@harst.naechsterband band="Harsts schwerstes Problem."/>
 
-Nächster Band: 0,9 …
-Harsts schwerstes Problem,
+<@harst.druck/>
 
-Druck: P. Lehmann, G in. b. H., Berlin.
