@@ -59,7 +59,7 @@ Turkmenen mich näher zu äußern.«
 
 Harst schaute die Prinzessin ernst an. »Wenn diese
 Hemmung nicht mehr vorhanden, erzählen Sie uns bitte
-zunächst, wann Sie und ihr Vater die Turkmenen zum
+zunächst, wann Sie und Ihr Vater die Turkmenen zum
 ersten Male als Feinde spürten.«
 
 »Vor einem halben Jahr in London, Herr Harst. Sie
@@ -67,10 +67,10 @@ hatten sich in demselben Hause eingemietet und zwar als
 Kaufleute, gingen stets gut angezogen und beachteten uns
 scheinbar nicht. Da die Gesichter der Turkmenen zumeist
 einander so sehr gleichen, daß unter hundert mindestens
-fünf geradezu zum verwechseln ähnlich sehen, dachten wir
+fünf geradezu zum Verwechseln ähnlich sehen, dachten wir
 gar nicht daran, die beiden könnten etwa unsere beiden ehemaligen
 Diener Gorim und Nassub sein. Erst als mein
-Vater eines abends den größeren Teil der Juwelen, darunter
+Vater eines Abends den größeren Teil der Juwelen, darunter
 auch ein mit Edelsteinen besetztes Kruzifix, einpackte
 und zu sich steckte, als ich dann fragte, weshalb er dies
 tue, blickte er mich erstaunt an und erwiderte, wie aus
@@ -116,7 +116,7 @@ Art Fernhypnose, gezwungen habe, die Juwelen mit in
 den Klub zu nehmen und den beiden so Gelegenheit zu geben,
 den Raubüberfall ausführen zu können. Das Bawirutu
 ist in Europa unter anderem Namen längst bekannt
-und, längst — — bespöttelt worden. Und doch ist es sehr
+und längst — — bespöttelt worden. Und doch ist es sehr
 ernst zu nehmen. Ich könnte Ihnen mancherlei Erlebnisse
 berichten, die Ihnen geradezu unglaublich erscheinen würden.
 Bei all diesen seltsamen Geschehnissen spielt das Bawirutu
@@ -180,7 +180,7 @@ daß der Rest der Juwelen in dem Zimmer
 ohne Fenster in der Polsterung des Lehnsessels versteckt
 gewesen und von dort durch die Turkmenen gestohlen sei.
 Das trifft nur zum Teil zu. In dem Sessel waren lediglich
-drei altertümliche Halsketten verborgen. Alles
+drei goldene altertümliche Halsketten verborgen. Alles
 übrige hatte mein Vater noch besser verwahrt: in der Höhlung
 hinter einem Ziegelstein, den er vorsichtig herausnahm
 und nachher wieder mit Mörtel geschickt befestigte, daß niemand
@@ -221,13 +221,13 @@ nicht einmal mehr, daß …«
 
 Sie schaute Harst halb verzweifelt an. Die Stimme
 versagte ihr vor Erregung. Angst, etwas wie Grauen sprach
-aus ihren starren Blicken. — Grauen vor der Macht Gorims,
+aus ihren starren Blicken, — Grauen vor der Macht Gorims,
 des Schamanensohnes.
 
 Harald beobachtete sie still.
 
-Sie lehnte sich langsam in den Stuhl bequem zurück,
-Sie… lächelte plötzlich …
+Sie lehnte sich langsam in den Stuhl bequem zurück.
+Sie … lächelte plötzlich …
 
 Und sagte in harmlos-scherzendem Tone: »Nein, wie
 man nur so vergeßlich sein kann! Ich habe den Brief ja
@@ -248,8 +248,8 @@ Seine Augen waren groß und schienen hervorzuquellen.
 Seine Blicke bohrten sich in Doljas halb verschleierte
 Augen ein.
 
-Ich — ich ahnte: Harst kämpfte hier mit Gorim, dem
-Schamanensohne, der durch das Bawirutu soeben wieder
+Ich — ich ahnte: *Harst kämpfte hier mit Gorim, dem
+Schamanensohne,* der durch das Bawirutu soeben wieder
 der Prinzessin einen Befehl aus der Ferne zugesandt hatte!
 
 Harsts eiserne Willenskraft suchte diesen Einfluß des
@@ -274,7 +274,7 @@ Antworten Sie!!«
 
 Es zuckte in ihrem Gesicht wie ein Krampf …
 
-»… Gehorche dem … Stärkeren,« fügte sie rascher
+»… gehorche dem … Stärkeren,« fügte sie rascher
 hinzu.
 
 Haralds Stirn bedeckte sich mit Schweißperlen vor ungeheurer
@@ -284,7 +284,7 @@ Willensanstrengung.
 Prinzessin los und begann ihr Gesicht mit magnetischen
 zarten Strichen zu streicheln …
 
-»Schlafen Sie jetzt — — !! Verstehen Sie: Sie sollen
+»Schlafen Sie jetzt — —!! Verstehen Sie: Sie sollen
 schlafen!!«
 
 Minuten vergingen …
@@ -301,8 +301,8 @@ an.
 
 <@pagebreak/>
 »Das — das kostet Nerven!« stöhnte er auf. »Wirklich
-— das kostet Nerven! Es ist etwas unheimliches um
-diese asiatischen Geheimnisse. — Aweisha nennt man das,
+— das kostet Nerven! Es ist etwas Unheimliches um
+diese asiatischen Geheimnisse. — Aweisha nennt man das
 Bawirutu auch. Ich habe einmal eine Abhandlung darüber
 gelesen — von Professor Glöwe, dem berühmten Psychiater.
 Am liebsten …«
@@ -359,7 +359,7 @@ meinte Harald, der noch immer über etwas nachzugrübeln
 schien. »Wann waren Sie zum letzten Male dort unten,
 Prinzessin?«
 
-»Vorgestern, zusammen mit den Polizeibeamten.«
+»Vorgestern, zusammen mit den Polizeibeamten.« —
 
 Nun sollte es sich zeigen, daß diese seltsame Geschichte
 des Zimmers ohne Fenster eigentlich erst — — begann!!
@@ -416,7 +416,7 @@ waren.
 
 Ich hatte mich gebückt.
 
-Ich sah dieses abschreckende Bild der verstummten Körper,
+Ich sah dieses abschreckende Bild der verkrümmten Körper,
 und Erinnerungen an den Weltkrieg wurden in mir
 lebendig.
 
@@ -689,7 +689,7 @@ Und — holte ein in Packpapier gehülltes flaches, langes
 Kästchen heraus, etwa von der Höhe und Breite eines
 Ziegelsteins.
 
-Ein Holzkästchen war’s — eine Konfektschachtel.
+Ein Holzkästchen war’s — eine Konfektschachtel …
 
 Und als Dolja nun den Deckel hochschlug, prallte sie
 zurück …
@@ -869,7 +869,7 @@ dem Sofa ein Versteck gefunden,« erklärte Harald, der
 schon wieder sehr gelassen sich Tee einschenkte. »Der Mensch
 kannte also den Kasten der Gestalt nach, wußte, was der
 Kasten enthielt: die Dortschakoff-Juwelen! Mithin wird
-der Dieb der ungarische Graf Niclas Tessöny gewesen
+der Dieb der ungarische Graf Niclas Tefföny gewesen
 sein, der Geliebte Silvias, der in der Anhalter Straße
 ein so elegantes Heim seit acht Wochen gemietet hatte und
 der nun — verduftet ist.«
@@ -877,7 +877,7 @@ der nun — verduftet ist.«
 Er trank den Tee aus, griff nach einer Zigarette.
 
 »Lieber Alter, wir haben uns böse blamiert als Schatzhüter.
-Dieser Tessöny ist uns über! Der Kerl hat viel riskiert.
+Dieser Tefföny ist uns über! Der Kerl hat viel riskiert.
 Aber — er hat gesiegt. Nun heißt es für uns, die
 Scharte wieder auszuwetzen.«
 
@@ -910,12 +910,12 @@ Wir fuhren zur Polizei.
 Kommissar Bergel, der die Ermittlungen gegen Silvia
 Longa führte, ließ sich alles genau erzählen.
 
-»Wie wollen Sie Tessöny denn jetzt finden, bester
+»Wie wollen Sie Tefföny denn jetzt finden, bester
 Herr Harst? Der Mensch ist ja längst über alle Berge!
 Wir haben schon durch telegraphische Nachfragen herausbekommen,
-daß Tessöny ein Schwindler sein muß, ein
+daß Tefföny ein Schwindler sein muß, ein
 Hochstapler. Die Antwortdepeschen liefen heute morgen
-ein. Es gibt keinen Grafen Tessöny. Das Adelsprädikat
+ein. Es gibt keinen Grafen Tefföny. Das Adelsprädikat
 ist glatt erfunden.«
 
 »Dachte ich mir,« nickte Harst.
@@ -942,7 +942,7 @@ Harald nahm ein Stück Papier und schrieb.
 
 Dann las er vor:
 
-Notiz für die Presse in den Polizeibericht über den
+> Notiz für die Presse in den Polizeibericht über den
 Diebstahl der Dortschakoff-Juwelen einzuflechten:<br/>
 Trotz seiner Schlauheit und Kühnheit hat der Gauner doch
 insofern übereilt gehandelt, als er aus dem Bücherschranke
@@ -970,7 +970,7 @@ Kriegsgewinnler absteigen muß …«
 
 Was Harald weiter von seinem Trick in längeren
 Ausführungen erläuterte, ließ allerdings die Hoffnung
-gerechtfertigt erscheinen, daß Tessöny sich diesen »Happen«
+gerechtfertigt erscheinen, daß Tefföny sich diesen »Happen«
 nicht entgehen lassen würde. —
 
 Wir kehrten wieder nach Hause zurück.
@@ -983,8 +983,8 @@ Wir kehrten wieder nach Hause zurück.
 
 Am nächsten Morgen brachten die Zeitungen lange
 Berichte über den Fund der Dortschakoff-Juwelen im Zimmer
-ohne Fenster und über den kecken neuen Diebstahl der
-selben Juwelen. Dann folgte Haralds Notiz über den
+ohne Fenster und über den kecken neuen Diebstahl derselben
+Juwelen. Dann folgte Haralds Notiz über den
 Brillantschmuck des Radschas.
 
 In diesen Berichten war die Reitgerte Silvia Longas
@@ -995,12 +995,12 @@ In derselben Morgenausgabe der Berliner Zeitungen
 stand an anderer Stelle eine andere Notiz — auch Haralds
 Produkt:
 
-»Wie wir erfahren, hat gestern nachmittag ein in Berlin
+> »Wie wir erfahren, hat gestern nachmittag ein in Berlin
 sehr bekannter Herr im Tiergarten eine Reitpeitsche mit
 silbernem Knopf und silbernem breiten Ring, Monogramm
-S. L. verloren. Der Herr zahlt dem Wiederbringer, da
+S.&nbsp;L. verloren. Der Herr zahlt dem Wiederbringer, da
 die Reitgerte teures Andenken, fünf Goldmark Belohnung.
-— Nachricht unter H. H. 100 postlagernd Potsdam W 29,
+— Nachricht unter H.&nbsp;H.&nbsp;100 postlagernd Potsdam W&nbsp;29,
 Elßholzstraße.«
 
 Der Leser wird leicht begreifen, was diese kurze Notiz
@@ -1016,7 +1016,7 @@ Bergel ließ daher das Postamt unauffällig überwachen.
 
 Morgens war die Notiz erschienen, und schon nachmittags
 gegen halb sechs erkundigte sich eine ältere Frau
-auf dem Postamt nach einem Briefe unter H. H. 100.
+auf dem Postamt nach einem Briefe unter H.&nbsp;H.&nbsp;100.
 
 Die Frau wurde verfolgt. Der eingeweihte Schalterbeamte
 hatte ihr tatsächlich einen Brief ausgehändigt,
@@ -1024,7 +1024,7 @@ der mit Maschine geschrieben war.
 
 Auch dieser Brief war Haralds Erzeugnis und lautete:
 
-»Wenn Sie Ihre Reitgerte wiederhaben wollen, kommen
+> »Wenn Sie Ihre Reitgerte wiederhaben wollen, kommen
 Sie morgen früh sieben Uhr in den Tiergarten an die
 Kreuzung des Reitweges am Rosengarten mit der Viktoriaallee.«
 
@@ -1047,10 +1047,10 @@ bei sich trug, um … jemand zu züchtigen.«
 
 »Wen?«
 
-»Tessöny, denke ich. Tessöny wird Silvia betrogen
+»Tefföny, denke ich. Tefföny wird Silvia betrogen
 haben. Und da hat sie sich gerächt.«
 
-»Ah — indem sie Tessöny die Juwelen wegnahm,
+»Ah — indem sie Tefföny die Juwelen wegnahm,
 die dieser wieder den Turkmenen gestohlen hatte, und sie
 in das Wandversteck legte.«
 
@@ -1064,7 +1064,7 @@ Tiergarten.
 Wir fanden ein ausgezeichnetes Versteck in einem dichten
 Gebüsch und waren nun außerordentlich begierig, ob
 Silvia wirklich auf den Brief hereinfallen würde, der ja
-nun, wie sie annehmen mußte, nicht dem Herrn H. H. 100
+nun, wie sie annehmen mußte, nicht dem Herrn H.&nbsp;H.&nbsp;100
 dem Inhalt nach bekannt geworden.
 
 Die Reitgerte hatte Harald auf den Reitweg gelegt.
@@ -1076,11 +1076,11 @@ Dame auf und näherte sich vorsichtig der Wegkreuzung.
 
 Als sie sich eben nach der Reitgerte bückte, sahen wir
 hinter ihr einen Strolch, der gerade einen dicken Baum als
-Deckung benutze.
+Deckung benutzte.
 
 Harald preßte meinen Arm.
 
-»Ein überraschendes Ergebnis: Tessöny!!« flüsterte er.
+»Ein überraschendes Ergebnis: Tefföny!!« flüsterte er.
 
 Silvia Longa hatte ein Päckchen Banknoten auf den
 Reitweg geworfen und eilte mit der Reitpeitsche hastig
@@ -1106,7 +1106,7 @@ in der Invalidenstraße in einem Hotel dritten Ranges.
 
 Ihn jetzt schon verhaften zu lassen, wäre grundverkehrt
 <@pagebreak/>
-gewesen. Daß es Tessöny war, hatte uns sein
+gewesen. Daß es Tefföny war, hatte uns sein
 charakteristischer Gang bewiesen: stark einwärts! — Daß er
 die Juwelen irgendwo versteckt und nicht im Hotel bei sich
 hatte, war so gut wie selbstverständlich. Man mußte sie
@@ -1121,7 +1121,7 @@ in Unterhandlungen getreten sei, auf die ihn die Notizen
 über den Dortschakoff-Diebstahl aufmerksam gemacht
 hätten. —
 
-Nun sollte sich zeigen, ob Harald den Gauner Tessöny
+Nun sollte sich zeigen, ob Harald den Gauner Tefföny
 richtig eingeschätzt hatte.
 
 Bisher waren ja Harsts Tricks über Erwarten geglückt.
@@ -1135,15 +1135,15 @@ zu ein Uhr in den Teeraum des Hotels bestellt habe.
 
 Um ein Uhr saßen wir beide in tadellosen Masken
 gleichfalls im Teeraum. Kurz nach eins erschien ein sehr
-dicker, blondbärtiger Herr, der stark einwärts ging: Tessöny
+dicker, blondbärtiger Herr, der stark einwärts ging: Tefföny
 als Holländer, der die gestohlenen Juwelen dem zahlungsfähigen
 Toffler andrehen wollte, was insofern eine Frechheit
 war, als er doch wußte, daß auch Harst (angeblich) mit
 Toffler wegen der Brillantschnur verhandele.
 
-Fünf Minuten nach Tessöny kam Toffler nebst Privatsekretär.
+Fünf Minuten nach Tefföny kam Toffler nebst Privatsekretär.
 
-Dreegen-Tessöny spielte seine Rolle vorzüglich.
+Dreegen-Tefföny spielte seine Rolle vorzüglich.
 
 Er vereinbarte mit Toffler, daß dieser abends die Juwelen
 besichtigen solle und zwar in Dreegens Hotelzimmer
@@ -1160,12 +1160,12 @@ war …
 
 <h2>5. Kapitel.</h2>
 
-<h3>Tessöny holt die Beute.</h3>
+<h3>Tefföny holt die Beute.</h3>
 
 Dieser Ort war der Tegeler Wald unweit des verwahrlosten
-Hauses. —
+Hauses … —
 
-Tessöny fuhr mit der Straßenbahn nach Tegel.
+Tefföny fuhr mit der Straßenbahn nach Tegel.
 
 Wir beide desgleichen.
 
@@ -1180,7 +1180,7 @@ Also — — Silvia Longa!! Und — Harald hatte auch
 darin recht gehabt: Silvia mußte den hochstaplerischen
 Pseudo-Grafen jetzt wie die Sünde hassen! —
 
-Wir vier bewegten uns dann, Tessöny voran, als
+Wir vier bewegten uns dann, Tefföny voran, als
 zweite die Verschleierte, am weitesten zurück Harald und
 ich, dem Walde zu.
 
@@ -1191,7 +1191,7 @@ aufzufallen.
 Schließlich aber, als der Forst uns aufnahm, rückten
 wir doch näher auf.
 
-Tessöny war wieder äußerst mißtrauisch. Doch das
+Tefföny war wieder äußerst mißtrauisch. Doch das
 half ihm nichts. Die Verschleierte war schlau. Wir nicht
 minder.
 
@@ -1200,12 +1200,12 @@ als der blonde Vollbart) endlich in einem schluchtartigen
 buschreichen Tale halt machte und hier nun rasch aus
 der Erde ein Paket ausgrub, war Silvia lautlos herangekommen.
 
-Sie blieb zwei Schritt hinter Tessöny stehen.
+Sie blieb zwei Schritt hinter Tefföny stehen.
 
 Und als dieser sich nun wieder aufrichtete, das Paket
 in der linken Hand, lachte die Longa schneidend auf.
 
-Tessöny fuhr herum.
+Tefföny fuhr herum.
 
 »Ah — Herr Graf sind verwirrt!« höhnte die Filmdiva.
 »Ich denke, Herr Graf kennen mich!«
@@ -1228,7 +1228,7 @@ und ich stahl sie Dir — aus Rache, weil ein Betrüger
 wie Du es gewagt hat, mich zu umgarnen, mich vor
 aller Welt bloßzustellen!«
 
-Und ehe Tessöny sich’s versah, hatte sie ihm mit der
+Und ehe Tefföny sich’s versah, hatte sie ihm mit der
 Reitpeitsche zweimal über das Gesicht geschlagen.
 
 Wir hörten die Hiebe klatschen. Wir hörten des Hochstaplers
@@ -1239,7 +1239,7 @@ eindrang.
 Aber die Filmdiva war auf einen solchen Angriff vorbereitet.
 
 Sie hatte einen kleinen Damenrevolver bei sich gehabt,
-und die drohend erhobene Waffe scheuchte Tessöny zurück.
+und die drohend erhobene Waffe scheuchte Tefföny zurück.
 
 Die Diva lachte.
 
@@ -1252,11 +1252,11 @@ als Waise lebt. Ich will gutmachen, was ich ihr angetan.
 
 Harald hielt es jetzt doch für angebracht, sich zu zeigen.
 
-Tessöny sah uns hinter den Büschen hervortreten. Sein
+Tefföny sah uns hinter den Büschen hervortreten. Sein
 Zusammenzucken machte die Diva aufmerksam. Sie wandte
 den Kopf.
 
-Und den Moment benützte Tessöny: er stürmte davon!
+Und den Moment benützte Tefföny: er stürmte davon!
 
 Doch — die Revolverkugel der Longa war schneller.
 
@@ -1272,7 +1272,7 @@ Damen sich unter vielen Tränen. —
 Ich habe über die Dortschakoff-Juwelen nicht mehr
 viel zu sagen.
 
-Tessöny entpuppte sich tatsächlich als vielgesuchter
+Tefföny entpuppte sich tatsächlich als vielgesuchter
 internationaler Gauner, dessen Sündenregister so lang war,
 daß er hätte hundert Jahre alt werden müssen, um all
 die Strafen abzusitzen.
