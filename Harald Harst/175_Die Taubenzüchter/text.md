@@ -22,7 +22,7 @@ Einer alten Sage nach sollen hier einmal die Ordensritter
 eine kleine Feste erbaut haben, die dann eines Nachts
 von den heidnischen Preußen gestürmt worden sei. Die
 Besatzung aber, so berichtet die Sage weiter, wurde von den
-Siegern in einem großen Moorloche versenkt, —
+Siegern in einem großen Moorloche versenkt. —
 
 Von diesem Totenmoor handelte auch der Brief, den
 Harald Harst an einem heißen Julitage von dem Besitzer
@@ -56,7 +56,7 @@ den 3. Juni 19.</p>
 
 Sie gestatten, daß ich mich mit einer Angelegenheit an
 Sie wende, die mich seit Wochen schon beschäftigt, jedoch gestern
-erst sozusagen spruchreif wurde,
+erst sozusagen spruchreif wurde.
 
 Ich habe am 1. Mai dieses Jahres das zu meinem Gute
 gehörige Totenmoor (folgte nähere Beschreibung) an einen
@@ -70,7 +70,7 @@ pachtete also das Totenmoor auf zwei Jahre, ließ sich von
 einer Königsberger Firma dort auf der höchsten und sichersten
 Stelle des Moores ein Blockhaus errichten, das fertig und
 auseinandernehmbar geliefert wurde und nebenbei einen
-ebensolchem Stall,
+ebensolchem Stall.
 
 In acht Tagen waren die Gebäude fix und fertig.
 
@@ -85,7 +85,7 @@ Stall nicht. Er meinte, an dem Stallgebäude sei ja doch nichts
 zu sehen. Ich merkte aber genau, er wollte mir den Stall
 nicht zeigen. Und hiermit begann mein Mißtrauen gegen
 die beiden Leute, die dort im Totenmoor von den Mücken
-buchstäblich aufgefressen werden müssen,
+buchstäblich aufgefressen werden müssen.
 
 Dieser geringe Anlaß, eben Goudsmiths Bestreben, mich
 von dem Stalle fernzuhalten, genügte mir, bei diesem ersten
@@ -108,10 +108,10 @@ eine der Tauben beiseite geschoben worden.«
 
 Mein Kutscher wußte mir dann noch zu berichten, daß die
 Tauben in der einen Hälfte des Stalles frei umherflogen, und
-daß im Dache zwei wenig auffällige Türchen vorhanden seien,
+daß im Dache zwei wenig auffällige Türchen vorhanden seien.
 
 In den nächsten Tagen vergaß ich all dies. Wir hatten
-mit der Frühjahrsbestellung genug zu tun,
+mit der Frühjahrsbestellung genug zu tun.
 
 Dann — so Ende Mai — meldete mir mein Förster,
 daß er auf einem nächtlichen Pirschgang beobachtet habe,
@@ -204,7 +204,7 @@ mit meiner Frau auf recht vertrautem Fuße stand, ebenso mit
 Erwin, meinem Ältesten.
 
 Sollten nun Ihnen, Herr Harst, diese meine Beobachtungen
-den Eintrat machen, daß mein Verdacht vielleicht begründet
+den Eindruck machen, daß mein Verdacht vielleicht begründet
 ist, so bitte ich Sie, hierher zu kommen. Über die
 <@pagebreak/>
 Honorarfrage werden wir einig werden. Geben Sie mir bitte
@@ -317,7 +317,7 @@ Das so nebenbei … Denn ich konnte diese kleine Episode
 Harst-Hammel unmöglich übergehen … —
 
 Wie gesagt, wir waren nun richtiggehende Kurgäste in
-Kranz … Kurgäste, die Durchaus nicht zur Erholung hier
+Kranz … Kurgäste, die durchaus nicht zur Erholung hier
 weilten, sondern im Gegenteil etwas sehr Anstrengendes und
 unter Umständen sehr Gefährliches beabsichtigten: dem
 Taubenzüchter von Totenmoor hinter seine Schliche zu kommen!!
@@ -428,7 +428,7 @@ Die Brücke fanden wir …
 Vier roh behauene Birkenstämme ohne Geländer … Von
 dem ebenso rohen Sperrbalken, der wie eine Eisenbahnschranke
 geschlossen war, hing an Drähten ein Kistendeckel
-Herab, auf dem man mit Teer in lateinischen Buchstaben
+herab, auf dem man mit Teer in lateinischen Buchstaben
 gepinselt hatte:
 
 <p class="pre centered">Gesperrter Weg!
@@ -468,7 +468,7 @@ Und — wie sollten wir wohl hier in diese Mauer von
 Ästen, Zweigen, Gestrüpp und Brombeerranken uns einen
 Weg bahnen?!
 
-Aber Harst-Hommel war in solchen Fällen nie verlegen,
+Aber Harst-Hommel war in solchen Fällen nie verlegen.
 
 Er bückte sich, schob ganz unten an der Erde die Ranken
 auseinander und begann dann mit dem Taschenmesser zu
@@ -562,7 +562,7 @@ Ich sah zwischen den Ranken etwa drei Meter über dem
 Boden ein tiefbraunes Gesicht …: Doktor James Kaspar!!
 Nur er konnte es sein — — nur er!!
 
-Und dieses Gesicht war derart in flammender Wut Verzerrt,
+Und dieses Gesicht war derart in flammender Wut verzerrt,
 daß man für den jungen Baron alles befürchten konnte.
 
 Haß, Eifersucht, tierische Wildheit gaben diesen Zügen
@@ -580,7 +580,7 @@ Dann zog sich der Mulatte langsam wieder in das grüne
 Gestrüpp zurück … Aber die Umrisse seines Kopfes blieben
 hinter den Naturvorhängen der Ranken immer noch erkennbar.
 
-Obwohl ich James Kaspar so scharf beobachtet Hatte,
+Obwohl ich James Kaspar so scharf beobachtet hatte,
 obwohl ich also meine Aufmerksamkeit gleichsam hatte teilen
 müssen, war mir doch nichts von dem entgangen was sich
 <@pagebreak/>
@@ -599,10 +599,10 @@ verschweige, wo und wie ich Sie gefunden habe: von mir wird
 niemand erfahren, daß … daß Sie sich nur verborgen halten
 — niemand! — So, und nun seien Sie nicht mehr so
 traurig … Und erlauben Sie mir, daß ich hin und wieder
-Sie hier besuchen darf …
+Sie hier besuchen darf …«
 
 »Nein — — nein!!« Und sie sprang auf … Auch über
-ihre Lippen kam nun die vertrauliche Anrede … »Ich Beschwöre
+ihre Lippen kam nun die vertrauliche Anrede … »Ich beschwöre
 Sie, Erwin, betreten Sie nie mehr das Totenmoor — — nie
 mehr, bis … bis ich Ihnen vielleicht eines Tages … alles
 … erklären kann …«
@@ -772,7 +772,7 @@ Wutanfall, wie sie die Ringe in das Gestrüpp schleuderte …
 
 »Ja … Mit Wut und Ekel entledigte sie sich ihrer
 Brillanten … Und den braunen Doktor fertigte sie dann
-in einer Weise ab, als ob er ein verhaßter Lakai Wäre … —
+in einer Weise ab, als ob er ein verhaßter Lakai wäre … —
 der Erlenbusch vor dem Turme verdeckt den Eingang … Bessy
 befindet sich jetzt in der Ruine …«
 
@@ -829,7 +829,7 @@ Einrichtung nachgesehen. Ich war hinter ihm … Er blieb
 eine ganze Weile hier … Irgend etwas muß ihm verdächtig
 erschienen sein … Ich weiß auch was …«
 
-»und das wäre?«
+»Und das wäre?«
 
 »Das wären wir, lieber Alter … Sieh’ mal, die Sache
 ist die! Als wir dieses Brett auf dem Hinwege überschritten,
@@ -843,7 +843,7 @@ also zu Wasser von Süden bis hierher vorgedrungen war
 dann auch den sich wieder entfernenden Baron. Er
 wußte also, daß der Baron die Glocke nicht zum Läuten
 gebracht haben konnte, und deshalb ging er hierher und …
-suchte nach den Spuren des anderen Eindringlings
+suchte nach den Spuren des anderen Eindringlings …
 Fand jedoch nichts, wie mir sein unzufriedenes Gesicht verriet
 … Wird gedacht haben, ein Elch sei vielleicht auf das
 Brett getreten … — Kurz: wir waren es, die den Mulatten
@@ -1225,7 +1225,7 @@ wie der da! Ich würde mich wundern, wenn meine Vermutung
 falsch wäre …«
 
 Ah — das gab mir Leben und Feuer!! Diese Worte
-wirkten wie der Freiheit köstliche Fanfaren!!«
+wirkten wie der Freiheit köstliche Fanfaren!!
 
 Meine Stimme sank zu einem Hauch herab …
 
@@ -1270,7 +1270,7 @@ Ich fragte Harald rasch und leise:
 
 »Was sollte das?«
 
-»Hm — ganz verstanden Habe ich’s auch nicht, mein
+»Hm — ganz verstanden habe ich’s auch nicht, mein
 Alter … Ich denke, Bessy wird uns heute abend um zehn Uhr
 die Geheimpforte wieder öffnen … Vielleicht irre ich mich auch
 <@pagebreak/>
@@ -1407,7 +1407,7 @@ Sehe mit einem Male Gestrüpp vor mir — den überwucherten
 Ausgang …
 
 Wir sind außerhalb der alten Burgruine … Sind vor
-einem Jener undurchdringlichen Dickichte angelangt, in denen
+einem jener undurchdringlichen Dickichte angelangt, in denen
 nur ein Messer freie Bahn schafft …
 
 Aber hier hat jemand vor uns gearbeitet … Hier hat
@@ -1432,7 +1432,7 @@ Beugt sich über Bessy …
 »So — noch immer bewußtlos …?! — Vielleicht ganz
 gut … Denn Doktor James Kaspar liegt vor unserer Zellentür
 als Leiche … erdolcht … von hinten … Drei Stiche
-ins Herz … Das Wäre kein Anblick für das Mädchen …«
+ins Herz … Das wäre kein Anblick für das Mädchen …«
 
 Und er nahm sie wieder in die Arme … Er trug sie
 <@pagebreak/>
@@ -1487,7 +1487,7 @@ sie mit schwerem Seufzer … »Ich hatte keine Ahnung, weshalb
 der Pa mit diesem … diesem elenden Farbigen, der
 von jeher sein böser Geist war, in diese Einsamkeit gezogen
 … Lange konnte mir nicht verborgen bleiben, daß die beiden
-Hier Heimlichkeiten vorhatten. Ich beobachtete sie … Und
+hier Heimlichkeiten vorhatten. Ich beobachtete sie … Und
 als sie vor acht Tagen wieder einen Taubenschwarm aufsteigen
 ließen, wollte ich mir Gewißheit verschaffen und …«
 
@@ -1739,7 +1739,7 @@ wird nur ihr Geheimnis verteidigen … Und dieses Geheimnis
 ist das der … Kreuzottern, des Bundes der Ottern!
 — Wir haben hier nichts mehr zu tun … Suchen wir aber
 auf dem Burghof nach Spuren der beiden Personen, die
-Hier den farbigen Doktor beseitigten …« — Und er trat
+hier den farbigen Doktor beseitigten …« — Und er trat
 ins Freie hinaus, wo der ausgestirnte Nachthimmel bereits
 Morgendämmerung vortäuschte …
 
@@ -1885,7 +1885,7 @@ wissen Sie darüber Einzelheiten …«
 ist bereits erwiesen, daß der Baron Erwin in der verflossenen
 Nacht im Blockhause war …«
 
-»So?! das ist mir neu — tatsächlich!«
+»So?! Das ist mir neu — tatsächlich!«
 
 »Ich könnte Ihnen noch mehr berichten, Herr Harst …
 Ich werde es nicht tun. Von Ihnen verlange ich jetzt aber,
@@ -2016,7 +2016,7 @@ Kaspar, dem Mulatten, befaßt haben, einem Ausländer?!«
 Worauf Harald achselzuckend erwidert hatte: »Das muß
 eben noch aufgeklärt werden …!«
 
-Und jetzt — — die erste Nachricht des Bundes an uns,
+Und jetzt — — die erste Nachricht des Bundes an uns.
 
 Jetzt konnte ich ihn beobachten, wie er mit jener Sorgfalt,
 die ihm stets eigen, im nahen Walde nach der Kiefer
@@ -2061,7 +2061,7 @@ Balitzki sei eines Mordes gar nicht fähig … Außerdem seien
 auch bestimmt zwei Leute beteiligt gewesen.
 
 Und trotzdem wurde ich persönlich immer wieder von der
-Unbestimmten Ahnung geradezu gepeinigt, Balitzki könnte
+unbestimmten Ahnung geradezu gepeinigt, Balitzki könnte
 zum mindesten seine Hand mit im Spiele gehabt haben. —
 
 Mit einem Male war Harald dann wieder neben mir …
@@ -2112,7 +2112,7 @@ harten Promenade, wo der Boden keine Eindrücke annahm,
 hatte der Mann die Bretter losgebunden. Er konnte dies
 unbedingt tun, denn die Promenade war wenig belebt.
 
-»und — — die Ottern?« fragte ich … »Wie hast du
+»Und — — die Ottern?« fragte ich … »Wie hast du
 herausgebracht, daß sie …«
 
 »Wenn du genau hinsehen würdest, mein Alter, müßtest
@@ -2246,7 +2246,7 @@ hinein und hieß auch mich einsteigen …
 Er nahm die Stoßstange, befahl mir:
 
 »Gib genau auf das Wasser acht … Knie dich dort
-Nieder … Wir müssen damit rechnen, daß inzwischen hier
+nieder … Wir müssen damit rechnen, daß inzwischen hier
 gleichfalls Alarmvorrichtungen angebracht worden sind …«
 
 In kurzem glitt unser Kahn in die Dämmerung des
@@ -2513,7 +2513,7 @@ Der Schläfer!!
 
 Also — — eine Falle das Ganze …
 
-Man hatte uns erwartet
+Man hatte uns erwartet.
 
 Und nochmals rief der Amerikaner — und man hörte
 seinem Deutsch den Ausländer an:
@@ -2624,7 +2624,7 @@ auch Sie, Herr Doktor Dickhut, — auch Sie, Herr Schraut:
 wollen Sie hier vor uns Ihr Ehrenwort dahin abgeben,
 daß Sie scheinbar sich um den Mord an dem Mulatten
 weiter bekümmern, daß Sie dann aber schließlich erklären
-werden, nichts herausgefunden Zu haben, was auf eine bestimmte
+werden, nichts herausgefunden zu haben, was auf eine bestimmte
 Person als Täter deuten könnte? Wollen Sie dieses
 Versprechen leisten, so soll Bessy geschont werden …«
 
@@ -2823,7 +2823,7 @@ war nicht anzuzweifeln …!! Niemals!! Meinen Kopf
 hätte ich zum Pfande gesetzt, daß Goudsmith ertränkt worden.
 Und — das sollten die Balitzkis getan haben?! — Freilich —
 gegen sie sprach der Lanzenzettel, sprach auch noch anderes:
-unser Überwohner Günter von Balitzki
+unser Überwohner Günter von Balitzki.
 
 Und dann — schlief ich das ein …
 
@@ -2863,7 +2863,7 @@ Ich sah nach der Uhr …
 
 Genau eins …
 
-Also raus aus den Federn
+Also raus aus den Federn.
 
 Helle Sommernacht …
 
