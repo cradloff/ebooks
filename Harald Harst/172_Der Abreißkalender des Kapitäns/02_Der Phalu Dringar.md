@@ -12,7 +12,7 @@ Ja, der benahm sich recht merkwürdig …! Der erklärte,
 nachdem wir auf den Kutter zurückgekehrt waren und
 nachdem unsere kleine Flotte wieder nordwärts gen Madras
 steuerte (Flotte — denn wir waren ja drei Fahrzeuge insgesamt,
-die im Schlepp der »Osiris« tausende Prau mit einbegriffen),
+die im Schlepp der »Osiris« laufende Prau mit einbegriffen),
 — recht merkwürdig …
 
 Seine Müdigkeit war zunächst wie weggefegt!!
@@ -61,7 +61,7 @@ nicht davonfließt … — — Verdammt, ist das wieder ’ne
 Hitze! Und dabei soll ein ehrlicher Christenmensch existieren?!
 Und noch nachdenken?!«
 
-Dann brühte er: »Paratu, Eislimonade!!«
+Dann brüllte er: »Paratu, Eislimonade!!«
 
 Der Malaie brachte ein hohes Glas: halb Whisky,
 halb Eiswasser und ein paar Tropfen Fruchtsaft!
@@ -148,7 +148,7 @@ gönnen …«
 
 Ich mußte ihm in alledem recht geben und sprach dies
 auch mit anerkennenden Worten aus, die ihm nur ein stilles
-ironisches Lächeln entlocken, was mich ein wenig reizte, so
+ironisches Lächeln entlockten, was mich ein wenig reizte, so
 daß ich meinem Herzen entsprechend Luft machte …
 
 »Du solltest von anderen Menschen nicht allzuviel verlangen!«
@@ -233,7 +233,7 @@ Blitzschnell …
 Da kam auch schon Harald zu uns …
 
 Sagte gleichmütig: »Der Schoner hat Rellan an Bord!
-— Käpten, signalisieren Sie der Jacht, daß wir Motorschaden,
+— Käpten, signalisieren Sie der Jacht, daß wir Motorschaden
 haben, daß die Jacht aber ruhig weiterfahren
 soll …«
 
@@ -453,7 +453,7 @@ Sektkorken knallten …
 
 In silbernen Pokalen schäumte der Wein …
 
-Zigaretten, Zigarren wunden gereicht …
+Zigaretten, Zigarren wurden gereicht …
 
 Und … Magnesiumfackeln ergossen bald ihre Lichtschleier
 … das erste Opfer dieser Banditen …
@@ -494,7 +494,7 @@ Neue Teppiche entrollt …
 Zuweilen konnte der Perser und Rellan sich nicht
 einig werden …
 
-Der Perser raufte sie dann förmlich das Haar … Bezahlte
+Der Perser raufte sich dann förmlich das Haar … Bezahlte
 trotzdem …
 
 Und jetzt — — der zehnte Teppich …
@@ -538,7 +538,7 @@ Warten! Und — — die Vergeltung für später aufsparen
 
 Das arme Geschöpf sank vor Rellan in die Knie …
 
-Ein seines tränenschweres Stimmchen flehte:
+Ein feines tränenschweres Stimmchen flehte:
 
 »Herr Granveller, Sie … Sie werden … Erbarmen
 <@pagebreak/>
@@ -752,7 +752,7 @@ Die Mädchen waren inzwischen auf den Kokosmatten
 eingeschlummert. Erschöpfung und das Bewußtsein, uns
 beide als Retter und Helfer in der Nähe zu haben, gab
 ihnen — vielleicht seit langer Zeit — die Wohltat eines
-ruhigen Schlummers…
+ruhigen Schlummers …
 
 Auch wir setzten uns so bequem wie irgend möglich
 und versuchten gleichfalls einzuschlafen. Wir durften es
@@ -1009,7 +1009,7 @@ Gefühlen gelauscht …
 
 Ein Hinterhalt!!
 
-Zum — Harald hatte nicht so ganz unrecht …! Die
+Hm — Harald hatte nicht so ganz unrecht …! Die
 offene Luke blieb eine Warnung!
 
 »Und wie gedenkst du diesen Hinterhalt zu vermeiden?«
@@ -1168,7 +1168,7 @@ eine einzige menschliche Fährte … Nicht eine einzige …
 Kaum vier Minuten später hatten wir auch den in
 einem Dickicht des Urwaldes liegenden Ausgang erreicht …
 Schlichen der Brücke zu, die nach Westen hin zu suchen war …
-Hören mit einem Male Sprechen … Stimmen …
+Hörten mit einem Male Sprechen … Stimmen …
 
 Und erkannten oben auf der Brücke hinter Baumzweigen
 gegen den noch rosigen Abendhimmel acht Mann der
@@ -1178,11 +1178,11 @@ Nun — mochten die Burschen sich hier nur von den
 Mücken peinigen lassen!
 
 Wir machten einen Bogen um diese ahnungslose Rotte
-und erreichten einen bequemen Pfad, der von der Brücke
-abzweigte, bis Urwald lief, und eilten nordwärts …
+herum, erreichten einen bequemen Pfad, der von der Brücke
+aus durch den Urwald lief, und eilten nordwärts …
 
 Eine halbe Stunde später wurde der Wald lichter …
-Felsen tauchte auf … Und dann ein breites Gebirgstal,
+Felsen tauchten auf … Und dann ein breites Gebirgstal,
 — vor uns Lichter, erleuchtete Fenster … Gebäude …
 
 Die Plantage Phalu Dringars …! —
@@ -1191,7 +1191,7 @@ Harst ließ Paratu und mich in einem Gebüsch zurück …
 Er wollte zunächst allein sich an die Gebäude heranpirschen.
 
 Gewiß, die Plantage hatten wir nun gefunden. Wie
-Harst jedoch die achtzehn Märchen zu befreien gedachte, war
+Harst jedoch die achtzehn Mädchen zu befreien gedachte, war
 mir reichlich rätselhaft … Denn wir drei gegen gut dreißig
 tadellos bewaffnete Gegner, die doch fraglos überaus wachsam
 <@pagebreak/>
@@ -1220,7 +1220,7 @@ stets darauf bedacht, tiefere Stellen des Geländes kriechend
 zu passieren …
 
 Und wieder kam mir da die liebe sorgenlose Kindheitserinnerung
-an Kerl Mays Indianerromantik … — Dann
+an Karl Mays Indianerromantik … — Dann
 war Harald neben uns …
 
 Sagte nur: »Brechen wir sofort auf … Wir haben
@@ -1333,7 +1333,7 @@ Und der Käpten:
 
 »Beim heiligen Patrick, das ist doch Schrauts Stimme!
 So ein verdammtes Pech!! Hatte ich da schon gehofft, daß
-ein paar von den Mädchenräubern sich nicht dieser Wasserkutsche
+ein paar von den Mädchenräubern sich mit dieser Wasserkutsche
 <@pagebreak/>
 flußabwärts verkrümeln wollten!! Hatte mit dem
 Fernglas auf dem Floß von weitem so’n paar Gentleman
@@ -1404,7 +1404,7 @@ von Norden her jenes Tal zu erreichen, in dem die Plantage
 liegt — von Norden, denn von dort erwartet Rellan kaum
 einen Feind. Mühselige Kletterei beginnt. Unser Käpten
 schwitzt und flucht leise, beteuert immer wieder, daß er seit
-Jahrzehnten keine solche Strecke zu Fuß gelangen sei, was
+Jahrzehnten keine solche Strecke zu Fuß gelaufen sei, was
 ich ihm ohne weiteres glaube …
 
 Dann vor uns ein ziemlich steiler, turmhoher Abhang.
@@ -1446,8 +1446,8 @@ Harald steigt schon in das Tal hinab. Wir verteilen
 uns, kreisen die brennenden Gebäude ein, verengern den
 Kreis, rücken näher …
 
-Nicht achtzehn Weibern sind’s, die da den Hexentanz befriedigter
-Rache aufführen … Nicht achtzehn, — einundvierzig
+Nicht achtzehn Weiber sind’s, die da den Hexentanz befriedigter
+Rache aufführen … Nicht achtzehn, — einunddreißig
 junge schlanke Inderinnen, bestimmt für orientalische
 Lasterhöhlen, drehen sich wie besessen zu der unheimlichen
 Musik der zischenden, brausenden Flammen … — Abseits

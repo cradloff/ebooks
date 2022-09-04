@@ -94,7 +94,7 @@ die Fingerspuren eines Europäers,« erklärt er lebhafter …
 »Jeder Europäer hat hier in diesem Klima besonders nachts
 — und der Fremde kann nur nachts hier in der Kajüte gewesen
 sein — feuchte Finger … Hätte ein Weißer die drei
-Finger aus das Papier gedrückt, um es festzuhalten und um
+Finger auf das Papier gedrückt, um es festzuhalten und um
 das eine Wort hinkritzeln zu können, so würden sich die
 Fingerspitzen auf diesem schlechten, faserigen Papier auch
 von selbst durch den Schweiß abgezeichnet haben … Nur
@@ -121,7 +121,7 @@ bin sogar jetzt überzeugt, daß wahrscheinlich die Rodia hier
 dieses »Gannawa« in aller Eile niedergeschrieben hat …
 Nur — weshalb mag sie die vier Blätter vorher abgerissen
 und das »Gannawa« gerade auf das Blatt des
-Neunten gekritzelt haben?! — Darüber Sinne ich jetzt nach.«
+Neunten gekritzelt haben?! — Darüber sinne ich jetzt nach.«
 
 O’Kelling lehnte sich in die Ecke des Rohrsofas zurück.
 
@@ -157,7 +157,7 @@ Granveller, den wir Mr. Rellan nennen, sich in Jane
 Weacfield verliebt hatte, — in die Braut des Radscha Mar
 Shing Dabsal … Ihre Eifersucht erwacht … Zum Schein
 bleibt sie Rellan treu und hilft ihm, Harst irgendwie nach
-ihrem Heimatdorfe Gonnawa zu schaffen. Bevor sie jedoch
+ihrem Heimatdorfe Gannawa zu schaffen. Bevor sie jedoch
 Madras verlassen, schleicht sie sich hier in Ihre Kajüte und
 läßt uns die Nachricht zurück, daß Harst am neunten in
 Gannawa zu finden sein wird! Das heißt: wir sollen am
@@ -185,7 +185,7 @@ Auch dieser Tag neigt sich seinem Ende zu …
 
 Dämmerung kriecht über Stadt und Hafen hin …
 
-Vom Meere der naht eines der kurzen tropischen Gewitter
+Vom Meere her naht eines der kurzen tropischen Gewitter
 …
 
 Ungeheure Regenmassen fluten herab …
@@ -277,7 +277,7 @@ aber das, was sich dahinter verbirgt … Die Worte Phalu
 Dringar stammen aus dem Malaiischen und bedeuten
 Totenvogel … Vielleicht ist Ihnen bekannt, daß es auf
 der Insel Borneo einen eulenartigen Vogel gibt, der mit
-Vorliebe Aas frißt von nur nachts sichtbar wird …«
+Vorliebe Aas frißt und nur nachts sichtbar wird …«
 
 Ich werde ungeduldig …
 
@@ -801,7 +801,7 @@ Pfad entdeckten, der ganz so aussah, als ob er sehr häufig
 benutzt worden war.
 
 Wir drei bewegten uns mit äußerster Vorsicht vorwärts
-… Zum Glück hatte in ja von Harald so manches
+… Zum Glück hatte ich ja von Harald so manches
 gelernt, was Fährtenlesen betrifft … Nicht ein einziges
 Mal wich ich trotz all der so schlau hergerichteten Nebenpfade
 und trotz anderer Kniffe, mit denen man hier den richtigen
@@ -948,7 +948,7 @@ könnte. Worin mir auch der Käpten recht gab.
 
 <h2>4. Kapitel.</h2>
 
-Vierzehn erworben waren wir nun unterwegs …
+Vierzehn Stunden waren wir nun unterwegs …
 
 Der Abend senkte seine Schatten über Strand und
 Meer. Wir befanden uns etwa auf der Höhe von Pondicherry,
@@ -1049,7 +1049,7 @@ und ich schwangen uns an Deck … Mit schußbereiter
 Waffe durchsuchten wir unsere wiedergefundene »Lady
 Hamilton«. Im Vorschiff in einer Kammer lagen unsere
 drei Matrosen gefesselt und geknebelt … Wir befreiten sie,
-ließen uns erzählen … Sie waren tatsächlich ganz übersehend
+ließen uns erzählen … Sie waren tatsächlich ganz überraschend
 überfallen und niedergeschlagen worden … Mehr
 wüßten sie nicht … Sie waren hier in der Kammer wieder
 <@pagebreak/>
@@ -1120,7 +1120,7 @@ Stoppte mitten im Satz ab.
 
 Brüllte (das wird er sich sein Lebtag nicht abgewöhnen!):
 
-»Schraut, da sieht ja noch was aus dem Blatt …!!
+»Schraut, da steht ja noch was auf dem Blatt …!!
 Aber auf der schwarzen Druckfarbe der Sieben!!«
 
 Und er riß den Kalender vom Nagel, hielt ihn schräg
@@ -1144,7 +1144,7 @@ Nebel an …!! Was heißt das?! Erst … »Prau«,
 und dann »Nebel an« … — Schraut, Sie …«
 
 Wieder stoppte er … Ich hatte den Kalender zur
-Hand genannten und … lachte leise …
+Hand genommen und … lachte leise …
 
 »Wir sind … Schafsköpfe, O’Kelling!! Reguläre
 Schafsköpfe …!! Das »Nebel an« ist ja klein geschrieben …
@@ -1167,7 +1167,7 @@ Freilich — ich fand so lediglich den Abdruck einer
 Fingerkuppe … —
 
 Aber: dieser Finger war mir nicht fremd! Dieser
-Dinger gehörte so sicher Harald, wie ich selbst meine zehn
+Finger gehörte so sicher Harald, wie ich selbst meine zehn
 Finger besaß!
 
 »O’Kelling, Harst lebt!« — und meine Stimme bebte …
@@ -1179,9 +1179,9 @@ rundlichen Fleck mit dem feinen Linienmuster …
 Bis draußen an Deck Paratu sich meldete und fragte,
 ob er eintreten dürfe …
 
-»Was gibt’s!!« empfing der Käpten den Matrosen
-und zeigte auf den Kalender … »Paratu, da schau’ hin
-der Beweis, daß der Tuwan Harst noch nicht abgekehlt
+»Was gibt’s?!« empfing der Käpten den Matrosen
+und zeigte auf den Kalender … »Paratu, da schau’ hin!
+Da ist der Beweis, daß der Tuwan Harst noch nicht abgekehlt
 ist! Von ihm stammt der Fingerabdruck!«
 
 Der Malaie grinste vor Freuden …
@@ -1355,7 +1355,7 @@ Harst streckte ihm die Hand hin … »Käpten, wir kennen
 uns doch … Wir haben so manchen Strauß nicht
 gegeneinander, sondern miteinander ausgefochten! — Hand
 her, Kamerad! Denn da sind noch andere, die mich begrüßen
-wollen … geben Sie nur unseren Paratu an, der
+wollen … Sehen Sie nur unseren Paratu an, der
 wartet ja schon voller Sehnsucht darauf, daß auch er mir
 seine gutgemeinten Glückwünsche darbringen kann …«
 
@@ -1497,7 +1497,7 @@ Koffer das Chloral, verkleidete mich und konnte der
 Bande das Weingelage unschwer versalzen … Meine Niederschrift
 auf dem Kalender habt ihr ja bemerkt. Hättet ihr
 sie nicht gefunden, würde ich mich früher zu erkennen gegeben
-haben … Mit hat es viel Freude gemacht, eure Zurüstungen
+haben … Mir hat es viel Freude gemacht, eure Zurüstungen
 zur Eroberung der Prau zu beobachten … —
 Das genügt wohl …!«
 
@@ -1580,7 +1580,7 @@ Ich riß die Tür auf und leuchtete hinein …
 
 Allerdings: ein grauenvolles Bild!
 
-Du lagen die acht Inder umgesunken halb übereinander
+Da lagen die acht Inder umgesunken halb übereinander
 auf der Bastmatte, die den Fußboden bedeckte …
 
 »Holt Harst!« befahl ich …
