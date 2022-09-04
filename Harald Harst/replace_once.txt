@@ -52,6 +52,7 @@
 \bwirft\b	wirst
 \bWir\.	Mr.
 i[cd]\)	ich
+I[cd]\)	Ich
 iM	ich
 no[cd]\)	noch
 nod\)	noch
