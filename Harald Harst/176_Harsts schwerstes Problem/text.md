@@ -1,13 +1,6 @@
 <@pagebreak/>
 
-<@pagebreak/>
-
-Harald Harst: Aus meinem Leben
-
-Harsts schwerstes Problem
-
-Erzählt von
-Max Schraut
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 <h3>Der Tiger Brutus.</h3>
@@ -26,105 +19,105 @@ dreizehnten!!
 Nach dem Abendbrot sagte Harald, als ich mir gerade den
 Klubsessel näher an den warmen Ofen gerückt hatte:
 
-»Wache es dir nicht allzu behaglich, mein Alter … Um
+»Mache es dir nicht allzu behaglich, mein Alter … Um
 zehn Uhr brechen wir auf, und um halb zehn beginnen wir
 mit der Toilette … Es findet heute ein Wohltätigkeitsfest
-statt, und da dürfen wir nicht fechten …«
+statt, und da dürfen wir nicht fehlen …«
 
 Ich schaute ihn prüfend an …
 
-»Im — du und ein Wohltätigkeitsfest 21«
+»Hm — du und ein Wohltätigkeitsfest?!«
 
 »Weshalb nicht?! Auf diese Weise kommt man am leichtesten
 in den Garten hinein …«
 
 <@pagebreak/>
-»Ad) so …!! — Und was interessiert dich jetzt im Winter
-an den übelduftenden Tierhäusferny!«
+»Ach so …!! — Und was interessiert dich jetzt im Winter
+an den übelduftenden Tierhäusern?!«
 
-»Der Tod des einen Wächters »… Bitte, hier ist die Abendzeitung
+»Der Tod des einen Wächters … Bitte, hier ist die Abendzeitung
 … Hier steht’s …«
 
 Ich las …:
 
-Ein Wärter im Zoo von dem Tiger Frühzug
-getötet. Der Wärter mich! den falschen
-Papieren, — Heute früh acht Uhr wurde der 28jährige
+> *Ein Wärter im Zoo von dem Tiger Brutus
+getötet. Der Wärter mit den falschen
+Papieren.* — Heute früh acht Uhr wurde der 28jährige
 Wärter Karl Emser, als er den Innenkäfig des Tigers
-Brutus reinigen wollte, von der Bestie durch) einen Tatzenhieb
-durch die Gitterstäbe niedergestreckt. Ein Kollege Kutters
-lief sofort auf die Straße. um einen Arzt zu holen, und
+Brutus reinigen wollte, von der Bestie durch einen Tatzenhieb
+durch die Gitterstäbe niedergestreckt. Ein Kollege Emsers
+lief sofort auf die Straße, um einen Arzt zu holen, und
 hatte auch das Glück, den amerikanischen Arzt Doktor Allan
-Grimby zu dem Schwerverletzten bringen zu können, Leider
-starb der Wärter jedoch) nach wenigen Minuten, ohne das
-Bewußtem wiedererlangt zu haben, — Die Polizei stellte
+Grimby zu dem Schwerverletzten bringen zu können. Leider
+starb der Wärter jedoch nach wenigen Minuten, ohne das
+Bewußtsein wiedererlangt zu haben. — Die Polizei stellte
 dann fest, daß dieser angebliche Karl Emser in Wirklichkeit
-ein Oberleutnant a, D. Freiherr von Lüttjen war, der offen
-bar aus Not arm 1. Januar diese Stellung als Wärter mit
-Hilfe falscher Papiere sich verschafft hatte. In dem Etübäck cm,
-das der Freiherr Karl von Lüttjen betr »hatte, fand die
-Polizei unter anderem die Police einer Amsterdamer Los
-densvcrsichherungsgescllschaft, bei der der Oberleutnant a, D…
-sein Leben zu Gunsten seines Bruders Brust mit 100000
-Gulden versichert! hatte. Auch) die Quittungen über die
-moralischen Prämienzahlungen wurden in derselben Mappe
+ein Oberleutnant a. D. Freiherr von Lüttjen war, der offenbar
+aus Not arm 1. Januar diese Stellung als Wärter mit
+Hilfe falscher Papiere sich verschafft hatte. In dem Stübchen
+das der Freiherr Karl von Lüttjen bewohnte, fand die
+Polizei unter anderem die Police einer Amsterdamer
+Lebensversicherungsgesellschaft, bei der der Oberleutnant a. D.
+sein Leben zu Gunsten seines Bruders Ernst mit 100&nbsp;000
+Gulden versichert hatte. Auch die Quittungen über die
+monatlichen Prämienzahlungen wurden in derselben Mappe
 entdeckt.
 
-Es Mutter etwas seltsam an, daß ein Mann, der aus Not
+> Es mutet etwas seltsam an, daß ein Mann, der aus Not
 Tierwärter wurde, in der Lage war, jeden Monat die recht
-be:nächtliche Prämie nach Amsterdam zu senden. Jedenfalls
-durfte die holländische Bersicherung8ges.bald oft diesig Dingen
+beträchtliche Prämie nach Amsterdam zu senden. Jedenfalls
+dürfte die holländische Versicherungsgesellschaft diesen Dingen
 wohl erst einmal auf den Grund gehen, bevor sie das Kapital
 dem Bruder des Toten auszahlt. — Wie wir erfahren
 haben, lebt der Freiherr Ernst von Lüttjen in Neuyork als
-… Keller, Buch er war früher Offizier.
+… Keller. Auch er war früher Offizier.
 
 <@pagebreak/>
 Ich hatte sehr langsam und sorgfältig gelesen …
 
-Was die Zeitung da im setzten Absatz ihres Artikels
-gedruckt hatte, war Nichte anderes als eine Verdächtigung, ein
-Hinweis, daß hier VersiHHerungsschu:Inder vorliegen könnte. —
+Was die Zeitung da im letzten Absatz ihres Artikels
+gedruckt hatte, war Nichts anderes als eine Verdächtigung, ein
+Hinweis, daß hier Versicherungsschwindel vorliegen könnte. —
 
-Ich legte das Blatt aus den Tisch zurück …
+Ich legte das Blatt auf den Tisch zurück …
 
-Harald lehnte am Kaminofen und hatte eine halb aufgeraucht!
-e Miralkulum zwischen den Hager …
+Harald lehnte am Kaminofen und hatte eine halb aufgerauchte
+Miralkulum zwischen den Lippen …
 
 Und ohne seine Stellung zu ändern, ohne die Zigarette
 aus dem Munde zu nehmen, sagte er mit jener verschleiert
 klingenden Stimme, die bei ihm stets anzeigt, daß seine Gedanken
-aufs schärfste aus einen besonderen Gegenstand konzentriert
+aufs schärfste auf einen besonderen Gegenstand konzentriert
 sind …:
 
-»Die Zeitungsschreiber haben oft einen seinen Richter
-für Lumperciein«…«
+»Die Zeitungsschreiber haben oft einen feinen Riecher
+für Lumpereien …«
 
-»Du meinst! also, daß die Geschichte mit der Lebensversicherung
+»Du meinst also, daß die Geschichte mit der Lebensversicherung
 wirklich nicht ganz reinlich ist?«
 
 »Hm — vielleicht …!! Wir werden ja sehen …«
 
-»Das denn y«
+»Was denn?«
 
 »So warte doch ab, mein Alter … Übrigens wird es
-allwi4. Dir daß wir in den Frack schlüpfen … Los also
-… Wiedersehen «…« Und er ging in sein Sclafzimmter,
-mäßige« Zu, »eine Ränmme leitete des Flurs betrat, — —
+allmählich Zeit, daß wir in den Frack schlüpfen … Los also
+… Wiedersehen …« Und er ging in sein Schlafzimmer,
+während ich meine Räume jenseits des Flurs betrat. — —
 
 Zehn Uhr … Ein Auto setzte zwei Herren vor dem
 Eingang des Hauptrestaurants des Zoo ab … Wir waren
-plötzlich) erheblich älter geworden … Und niemand hätte in den
-beiden bereits aufgerollten Kavalieren Harst und Schraut elf
-kann!! …
+plötzlich erheblich älter geworden … Und niemand hätte in den
+beiden bereits angejahrten Kavalieren Harst und Schraut
+erkannt …
 
 Wir lösten Eintrittskarten, und zehn Minuten drauf
-standen wir im dunklen verschneiten Garten in unseren Gebügelten
+standen wir im dunklen verschneiten Garten in unseren Gehpelzen
 und Zylindern vor dem Raubtierhause …
 
-Bisher halte ne niemand angehalten …
+Bisher hatte uns niemand angehalten …
 
-Jetzt aber trat aus dem Abhalten des Ei Spange ein Mann
+Jetzt aber trat aus dem Schatten des Eingangs ein Mann
 in der Joppe und mit der Dienstmütze der Zoo-Beamten
 hervor …
 
@@ -132,7 +125,7 @@ Harald tippte an die Zylinderkrempe, näselte:
 
 »Sagen Sie mal, ob man wohl die Stelle sich ansehen
 <@pagebreak/>
-sann, wo der Wärter Emser niedergeschlagen wurde?« Und
+kann, wo der Wärter Emser niedergeschlagen wurde?« Und
 er holte seine Brieftasche hervor … »Hier — — genügt ein
 Fünfhunderter?«
 
@@ -141,40 +134,39 @@ bei sich und beleuchtete uns jetzt …
 
 »Wer sind die Herren?« fragte er vorsichtig …
 
-»Peitungsgredakteure … — Und Sie?«
+»Zeitungsredakteure … — Und Sie?«
 
-»See Wärter Mattieß …«
+»Der Wärter Mattieß …«
 
 »Der, der den Arzt holte?«
 
 »Ja …«
 
-»Sie waren mit Emser zusammen hier rum Wauvtteryauye
+»Sie waren mit Emser zusammen hier im Raubtierhause
 beschäftigt?«
 
-»I …«
+»Ja …«
 
 »Sehr interessant … — Ahnten Sie, daß Emser ein
-früheren Offizier war?«
+früherer Offizier war?«
 
 »Nee, Herr … Emser benahm sich so janz wie unsereiner
-
-… Offen jestanden, — — iF war platt — — ein Baron als
-Kollege!! Aber heutzutage ist Alters Verglich …«
+… Offen jestanden, — — ick war platt — — ein Baron als
+Kollege!! Aber heutzutage ist allens meeglich …«
 
 »Stimmt, Herr Mattieß … — Wie ist’s nun, könnten wir
-mal Gurgeln …?«
+mal hinein …?«
 
-»Nee, bedaure … Der wär’ jejen die Vorschrift … Und
-außerdem wollt’ ich auch jrade zum Arzt … Wir ist seit Seite
-Kranich so recht koscher zumute, so, als ob mir was in die Knochens
-stet …«
+»Nee, bedaure … Det wär’ jejen die Vorschrift … Und
+außerdem wollt’ ich auch jrade zum Arzt … Mir ist seit heite
+nich so recht koscher zumute, so, als ob mir was in die Knochens
+steckt …«
 
 »Sehr bedauerlich … Wir wollen Sie natürlich nicht zu
 etwas Verbotenen verführen, Herr Mattieß … Vielleicht nehmen
 Sie uns dann mit hinaus …«
 
-»Litt: sichern … Kommen Sie man …
+»Bitt scheen … Kommen Sie man …«
 
 Er schloß dann die Pforte des Haupteingangs auf …
 
@@ -187,31 +179,31 @@ mit seltsam mißtrauischen Blicken …
 
 Meinte dann:
 
-»Gut« Nacht, die Seltene …«
+»Gut’ Nacht, die Herrens …«
 
 <@pagebreak/>
 »Gut’ Nacht … Hier haben Sie den Fünfhunderter …
-Mädchen Sie sich einen vergnügten Abend …
+Machen Sie sich einen vergnügten Abend …«
 
-»Dank sichern …! Soll geschehen riß
+»Dank scheen …! Soll jeschehen …«
 
 Und der Wärter schlurfte davon …
 
 Harst zog mich mit sich fort …
 
-Rief ein Auto an, Hob mich hinein … Und im
-Auto hatte er im Nu »den Pelzkragen hochgeklappt, den
-Zylinder mir in den Schoß geworfen und einen Filzhut über«-
-gestülpt …
+Rief ein Auto an … Schob mich hinein … Und im
+Auto hatte er im Nu den Pelzkragen hochgeklappt, den
+Zylinder mir in den Schoß geworfen und einen Filzhut übergestülpt
+…
 
-»Jahre nach Hause …« — und draußen war er wieder …
+»Fahre nach Hause …« — und draußen war er wieder …
 
 Sehr schlau …!! Es war nur die Frage, ob er Mattieß
 noch erwischte. Denn daß er hinter ihm drein wollte, unterlag
 keinem Zweifel … Auch auf mich hatte dieser Wärter
 einen recht unsympathischen Eindruck gemacht …
 
-Ich fuhr also allein heim, echte mich in Haralds Arbeitszimmer
+Ich fuhr also allein heim, setzte mich in Haralds Arbeitszimmer
 vor den Kamin und leistete mir eine gute Zigarre.
 
 Ehrensache, daß ich Harst erwartete …
@@ -226,10 +218,10 @@ Nickte nur …
 
 »Ich wollte dich nicht stören, mein Alter … Ich bin schon
 eine Stunde hier. — Du schnarchtest so schön … Und wenn
-du Schrankes, klingt das wie … wie Geisterstimmen … von
+du schnarchst, klingt das wie … wie Geisterstimmen … von
 Geistern, die stark erkältet sind …«
 
-Ich war nun völlig munter geworden»…
+Ich war nun völlig munter geworden …
 
 Setzte mich neben ihn, fragte:
 
@@ -237,7 +229,7 @@ Setzte mich neben ihn, fragte:
 
 »Betrat nach einigen Umwegen das Haus gegenüber dem
 Zooeingang, in dem der amerikanische Arzt Doktor Grimby
-sie) eingemietet hat — Hochparterre, links, zwei Vorderzimmer.«
+sich eingemietet hat — Hochparterre, links, zwei Vorderzimmer.«
 
 »Ah — was mag er dort gewollt haben? Er sagte ja, er
 fühle sich krank … Ob er ihn konsultiert hat?«
@@ -252,60 +244,56 @@ Dann betrat er wieder die Straße …«
 
 »Hm — — gestatte eine Frage … Weshalb wolltest du
 eigentlich das Raubtierhaus dir ansehen?«
+
 »Weil — — ja, weil mir der Tod Karl von Lüttjens nicht
+ganz einwandfrei erscheint …
 
-Janz einwandfrei erscheint …
-
-»Wie Dach
+»Wie das?!«
 
 »Der Tiger Brutus gilt als durchaus harmlos, hat noch
-nie mit der Pranke durch das Gitter sei tragen. Ich habe
+nie mit der Pranke durch das Gitter geschlagen. Ich habe
 mich schon abends bei dem Direktor des Zoo danach erkundigt
-
 … — Wie sollte also dieser Tiger ausgerechnet seinen Wärter
-aufgefallen haben, der stets auf bestem Fuße mit ihm stand?!
-Denn Lüttjen verstand die Tiere zu behandeln wie s’lten einer
-
-… Ritt das betonte der Direktor. — Merkwürdig ist nur,
+angefallen haben, der stets auf bestem Fuße mit ihm stand?!
+Denn Lüttjen verstand die Tiere zu behandeln wie selten einer
+… Auch das betonte der Direktor. — Merkwürdig ist nur,
 daß die Herren dort so gar keinen Verdacht geschöpft haben
-
 … — Morgen werden wir uns die Leiche Lüttjens ansehen
-
 … Jetzt gehen wir schlafen …«
 
 <h2>2. Kapitel.</h2>
 <h3>Ernst und Tassilo.</h3>
 
 Morgens neun Uhr … Wir saßen beim Frühstück, als
-das Telephon schrillte»…
+das Telephon schrillte …
 
-Harst melde! sich …
+Harst meldete sich …
 
-Rast: »Wie :- der Arzt und der Wärter? — — Nein,
+Ruft: »Wie — der Arzt und der Wärter? — — Nein,
 Bedaure, lieber Bechert … Wir haben gerade etwas anderes
-vor …’
+vor …«
 
-Hang! ad …
+Hängt ab …
 
-Schnur mich an … »Denke dir, Doktor Allan Grimby
-fast vor einer Stunde in seinem Wohnzimmer erstochen aufgefunden
+Schaut mich an … »Denke dir, Doktor Allan Grimby
+ist vor einer Stunde in seinem Wohnzimmer erstochen aufgefunden
 worden … Und der Wärter Mattieß hat sich im
 Raubtierhause erhängt — ist gleichfalls tot … — Bechert
 bat, wir sollten den Mord aufklären helfen. Ich lehnte ab
-… Die Sache wird verzwickt … Ich mochte das nicht greise
-geben, war ich weiß. Monatlich hat der Tisch ermordet. Denn
+… Die Sache wird verzwickt … Ich möchte das nicht preisgeben,
+was ich weiß. Mattieß hat den Arzt ermordet. Denn
 <@pagebreak/>
 Grimby ist nach Angabe des Gerichtsarztes zwischen zwölf
 und zwei Uhr getötet worden, also zu einer Zeit, als ich
 Mattieß’ Schatten auf den Fenstervorhängen sah … — Wir
 beide, mein Alter, werden an diesem Fall in aller Stille
-arbeiten … Wir beide werden ganz im Hintergrunde Blei
-den. Niemand darf erfahren, daß Harst und Schraut an
+arbeiten … Wir beide werden ganz im Hintergrunde Bleiben.
+Niemand darf erfahren, daß Harst und Schraut an
 diesen Vorkommnissen interessiert sind. Niemand wird uns
 in Berlin vermuten, denn wir werden noch heute vormittag
-abreisen — zum Beispiel nach; Kopenhagen. Ich werde den
-Reporter Bink anrufen, und Wink wird dafür sorgen, daß die
-Zeitungen eine unauffä’l’ge Notiz in diesem Sinne bringen.«
+abreisen — zum Beispiel nach Kopenhagen. Ich werde den
+Reporter Bink anrufen, und Bink wird dafür sorgen, daß die
+Zeitungen eine unauffällige Notiz in diesem Sinne bringen.«
 
 Ich war überrascht. Wenn Harald derart großzügig einen
 Feldzug einleitete, dann mußte er voraussehen, daß es ein
@@ -315,16 +303,16 @@ Nachdem er dann Bink verständigt hatte, fragte ich ihn
 geradezu:
 
 »Weshalb war dir Mattieß gestern nacht nach so kurzer
-Bekanntschaft derart vertuschte, daß du ihm nachgeblickt?«
+Bekanntschaft derart verdächtig, daß du ihm nachschlichst?«
 
-Harst lehnte nett am Schreibtisch, spielte mit seinem.
+Harst lehnte noch am Schreibtisch, spielte mit seinem
 indischen Brieföffner, der die Form einer Kobra hatte, —
-nebenbei ein Geschenk des Radscha von Misere …
+nebenbei ein Geschenk des Radscha von Misore …
 
-Sie Augen des Kopfes des Reptil bestanden aus mittels
-großen Brillanten von prächtigem Feuer …
+Die Augen des Kopfes des Reptils bestanden aus mittelgroßen
+Brillanten von prächtigem Feuer …
 
-Harst hielt mir den Griff des Boiesössners entgegen, und
+Harst hielt mir den Griff des Brieföffners entgegen, und
 das war der Kopf und ein Teil des Leibes …
 
 Hielt ihn mir so hin, daß die schillernden Augen mich
@@ -338,32 +326,36 @@ Sagte: »Mattieß hatte allerdings merkwürdige Augen.«
 Ich drückte mich absichtlich vorsichtig aus …
 
 »Ja — sehr merkwürdige, mein Alter … Deshalb hat
-er sie) auch selbst aufgeknüpft …«
+er sich auch selbst aufgeknüpft …«
 
 Dies verstand ich allerdings nicht …
 
-Er hatte ich;zog das Kursbuch zur Hand genommen …
+Er hatte schon das Kursbuch zur Hand genommen …
 
-»Wolf Uhr zehn Minuten ob. Stettiner Bahnhof,« —
+»Zwölf Uhr zehn Minuten ab Stettiner Bahnhof,« —
 <@pagebreak/>
 und er warf das Kursbuch weg und setzte sich an den
 Schreibtisch …
+
 »Reiche mir das mal die Maschine, mein Alter …«
+
 Er tippte einen Brief …
+
 Ich stand hinter ihm und las mit:
 
-Herrn Gerichtsarzt
+> Herrn Gerichtsarzt
 
-Professor Dr. Körner,
-Polizeipräsidium,
-hier.
+> <p class="centered">Professor Dr. Körner,</p>
 
-Einer, der seinen Namen nicht nennen will, rät Ihnen
+> <p class="right pre">Polizeipräsidium,
+hier.</p>
+
+> Einer, der seinen Namen nicht nennen will, rät Ihnen
 dringend, die Kopfwunden des Freiherrn Karl von Lüttjen
 daraufhin zu untersuchen, ob diese Wunden nicht vielleicht
 mit einer kleinen eisernen Harke mit spitzen Zinken von
 Menschenhand geschlagen worden sind — und nicht durch
-… Tigerkrallen. Außerdem dürfte es sich empfehlen, den
+Tigerkrallen. Außerdem dürfte es sich empfehlen, den
 Toten daraufhin zu untersuchen, ob wirklich diese Wunden
 sein Ableben herbeigeführt haben. Vielleicht steht der
 Mord an dem amerikanischen Arzt zu dem »Tigerunfall«
@@ -376,7 +368,7 @@ Du nimmst an, daß Mattieß gerade den Doktor Grimby holte,
 damit dieser dem freiherrlichen Tierwärter rascher ins Jenseits
 verhülfe …«
 
-Harst nickte …«-
+Harst nickte …
 
 »Ganz recht … Und Mattieß ermordete Grimby, damit
 dieser nicht etwa den Verräter spiele …«
@@ -385,9 +377,9 @@ dieser nicht etwa den Verräter spiele …«
 
 »Weil er mußte …«
 
-»Erscholl … mußte er?«
+»Weshalb … mußte er?«
 
-»Die Augen, mein Alter, die Augen!! — Packe Birne
+»Die Augen, mein Alter, die Augen!! — Packe bitte
 Unsere Koffer … In den Requisitenkoffer kommen die Masken
 Nummer acht, neun, elf hinein …«
 
@@ -407,130 +399,129 @@ gemeint haben?!
 Während ich unseren Requisitenkoffer füllte, während ich
 die Perücken, die Bärte, die Schachteln mit Schminke, die
 Flaschen mit »echter« Hautfarbe und vieles andere an der
-richtigen Stelle verstaute, mußte ich? auch immer wieder an
+richtigen Stelle verstaute, mußte ich auch immer wieder an
 die »künstliche« Tigerpranke, die Harke, denken …
 
 Ich ordnete die Vorfälle in meinem Hirn und schuf mir
 folgendes Gesamtbild:
 
-Mattieß und Doktor Allan Grimby haben beschlossen,
-Karl Emser alias Karl Freiherrn von Sausten zu ermorden.
+> Mattieß und Doktor Allan Grimby haben beschlossen,
+Karl Emser alias Karl Freiherrn von Lüttjen zu ermorden.
 (Weshalb — — die Frage blieb noch offen.) Mattieß und
 Lüttjen sind morgens allein im Raubtierhause, und ersterer
-
-… schlägt den Kollegen mit der spitzzinfigen Harke nieder, verbirgt
+schlägt den Kollegen mit der spitzzinkigen Harke nieder, verbirgt
 das Mordinstrument und holt seinen Verbündeten
-Grimby, Der Amerikaner gibt dem Verletzten irgendwie
-den Nest. Dann erst ruft Mattieß andere Angestellte des
-300 herbei. — Rade)Es aber ermordet Mattieß seinen Mitwisser
+Grimby. Der Amerikaner gibt dem Verletzten irgendwie
+den Rest. Dann erst ruft Mattieß andere Angestellte des
+Zoo herbei. — Nachts aber ermordet Mattieß seinen Mitwisser
 und … hängt sich dann selbst auf. (Weshalb —
-auch) diese Frage bleibt offen.)
+auch diese Frage bleibt offen.)
 
-Dieses Gesamtbild ist klar, einfach; und übersichtlich. Es
+Dieses Gesamtbild ist klar, einfach und übersichtlich. Es
 ist gleichsam das Präludium des eigentlichen Problems, ein
-Präludium, in dem freilich einige Pianissimo Stellen (und
-das sind die rote zu beantwortenden Fragen) dem Hörer und
-Leser vorläufig noch allzu pianissimo enge;einen und sein
+Präludium, in dem freilich einige Pianissimo-Stellen (und
+das sind die noch zu beantwortenden Fragen) dem Hörer und
+Leser vorläufig noch allzu pianissimo erscheinen und sein
 Interesse allzu rege erhalten mögen …
 
-Ein sehr tragismches Präludium, und doch ein Nichts im
+Ein sehr tragisches Präludium, und doch ein Nichts im
 Vergleich zu der Fortsetzung des Spiels. Und diese Fortsetzung
-mit ihrem Harstschen Nebermaß an Geschehnissen verlangt
-von mir, der ich hier auf eine bestimmte Anzahl Druck«-
-seiten angewiesen bin, größte Sparsamkeit mit jeder Zeile,
+mit ihrem chaotischen Übermaß an Geschehnissen verlangt
+von mir, der ich hier auf eine bestimmte Anzahl Druckseiten
+angewiesen bin, größte Sparsamkeit mit jeder Zeile,
 <@pagebreak/>
-größte Zurückhaltung bei der Schi’berung den Nebensächlichem.
+größte Zurückhaltung bei der Schilderung von Nebensächlichem.
 
-Und deshalb: ein Sprung über ach! Stunden hinweg …!
+Und deshalb: ein Sprung über acht Stunden hinweg …!
 — Unsere Reise nach Kopenhagen hatte bereits in Rostock ihr
 Ende gefunden. In Rostock machten wir uns unsichtbar,
 verwandelten uns in einem Hotelzimmer auf das gründlichste
-und erwischten gerade noch den Zug naß Berlin, mieteten
-uns in Berlin in einem Hause am Wittendeorgplatzz als Kaufe
-Leute aus Rostock ein und saßen abends acht Uhr in einem
-kleinen Restaurant unweit des Hauses, wo Nr. Altan Grimby
+und erwischten gerade noch den Zug nach Berlin, mieteten
+uns in Berlin in einem Hause am Wittenbergplatz als Kaufleute
+aus Rostock ein und saßen abends acht Uhr in einem
+kleinen Restaurant unweit des Hauses, wo Dr. Allan Grimby
 gewohnt hatte …
 
 Wir saßen, aßen, lasen die Abendzeitungen. Da stand
-zunächst, daß ein Doktor Allan Grimbty) in der amerikanischen
-Kolonie gänzlich Anbetung! sei und daß der Ermordete höchstwahrscheinlich
-ein … Gauner gewesen, denn in einem Vers
-steck seines Koffers hatte man nicht nur tadelloses Einbrecherwerkzeug,
-sondern auch Augweizspapiaere aus drei Mensch)irdene
+zunächst, daß ein Doktor Allan Grimby in der amerikanischen
+Kolonie gänzlich unbekannt sei und daß der Ermordete höchstwahrscheinlich
+ein … Gauner gewesen, denn in einem Versteck
+seines Koffers hatte man nicht nur tadelloses Einbrecherwerkzeug,
+sondern auch Ausweispapiere auf drei verschiedenen
 Namen Gefunden.
 
 Da stand weiter, daß der arme Tiger Brutus zu Unrecht
 beschuldigt worden sei. Karl von Lüttjen sei zweifellos mit
 einer Harke niedergeschlagen und dann von dem falschen
 Arzte durch Gift vollends getötet worden. (Harsts Rohrpostbrief
-an Brot. Dr. Körner hatte also seine Schuldigkeit
+an Prof. Dr. Körner hatte also seine Schuldigkeit
 getan.)
 
-Da stand drittens, daß auch der Winter Eugen Mattieß
+Da stand drittens, daß auch der Wärter Eugen Mattieß
 offenbar diesen Namen unberechtigt geführt hatte. Ein anderer
-Engen Mattieß hatte sich bei der Polizei ge:meldet und Zuges
-geben, daß ihm seine Papiere vor einem halben Jahr gestohlen
+Eugen Mattieß hatte sich bei der Polizei gemeldet und Zugegeben,
+daß ihm seine Papiere vor einem halben Jahr gestohlen
 worden seien. Und seit sechs Monaten war Mattieß
 im Zoo angestellt …
 
-Da stand viertens, daß der Bombay das L2arl v. Lüttjen,
-der das in Amerika Kellner sein sollte, vor kurzem nach
-Deutschland zurückgekehrt sei und sich gleichfalls im Pl.zei-präsidium
+Da stand viertens, daß der Bruder des Karl v. Lüttjen,
+der doch in Amerika Kellner sein sollte, vor kurzem nach
+Deutschland zurückgekehrt sei und sich gleichfalls im Polzeipräsidium
 eingefunden habe. —
 
-Das waren also eine ganze Menge Feurigstem für die
-sensations8hungrigen Berliner … Zum Teil aus für uns
+Das waren also eine ganze Menge Neuigkeiten für die
+sensationshungrigen Berliner … Zum Teil auch für uns
 
-Und »a sagte Harst leise aus tiefem Summen heraus:
+Und da sagte Harst leise aus tiefem Sinnen heraus:
 
 <@pagebreak/>
 »Wir müssen diesen lebenden Baron Lüttjen, Ernst von
 Lüttjen, unbedingt dauernd im Auge behalten …«
 
-»Hm!« meinte i4, »zunächst wissen wir seine Wohnung
+»Hm!« meinte ich, »zunächst wissen wir seine Wohnung
 nicht, und dann wird die Kriminalpolizei den Herrn wohl
-schon gründlich »beschatten« …« (Beschatten beißt eben dauernd
-Schluchten.)
+schon gründlich »beschatten« …« (Beschatten heißt eben dauernd
+beobachten.)
 
-»Seine Wohnung weiß ich, mein Alter «.« erklärte
+»Seine Wohnung weiß ich, mein Alter …« erklärte
 Harald sehr gleichmütig …
 
-»So?! Woher denn?f«
+»So?! Woher denn?!«
 
 Er zog einen Brief aus der Tasche …
 
-»Der kam kurz vor unserer Abreise heute an »… Eilbrief,
-
+»Der kam kurz vor unserer Abreise heute an … Eilbrief,
 eingeschrieben — an mich … Du warst gerade oben bei
 meiner Mutter …«
-Und — — Eiche da: ich las, staunte …
+
+Und — — siehe da: ich las, staunte …
 
 Von Ernst von Lüttjen …
 
-Der!schrieb: »Sehr geehrter Herr Harst, ich; bitte Sie,
+Der schrieb: »Sehr geehrter Herr Harst, ich bitte Sie,
 den Todesfall meines Bruders untersuchen zu wollen. Ich
 kann bei der ganzen Sachlage zu leicht in den Verdacht geraten,
-wown6glich an diesem Morde mitbeteiligt gewesen zu
-sein, da ja leider Kein Bruder Karl von mir, der ich als
-Oberkellner in eilen der vornehmsten Restaurants Neuyorks
-Recht viel vertiefte, keinerlei Unterstützungen annehmen wollte,
+womöglich an diesem Morde mitbeteiligt gewesen zu
+sein, da ja leider mein Bruder Karl von mir, der ich als
+Oberkellner in einem der vornehmsten Restaurants Neuyorks
+Recht viel verdiente, keinerlei Unterstützungen annehmen wollte,
 so daß ich dies nur auf dem Umwege über die Lebensversicherung
 erreichen konnte — in welcher Weise, das erkläre
-ich Ihnen persönlich, — Nochmals die herzliche Bitte: nehmen
-Sie sich meiner an! — Ich wohne Stiefel Krause, Krausenstr. 14,
-Dimmer 12a. — Ihr sehr ergebener Brust Lüttjen (früher
+ich Ihnen persönlich. — Nochmals die herzliche Bitte: nehmen
+Sie sich meiner an! — Ich wohne Hotel Krause, Krausenstr. 14,
+Zimmer 12a. — Ihr sehr ergebener Ernst Lüttjen (früher
 Ernst Freiherr von Lüttjen).«
 
-Los … staunte … fragte«
+Las … staunte … fragte:
 
 »Und was Hast du geantwortet?«
 
-»Kurz Rech-postilarte: Bitte heute abend halb zehn Uhr
+»Durch Rohrpostkarte: Bitte heute abend halb zehn Uhr
 Restaurant Zum Tierpark schräg gegenüber dem Zoo-Eingang.
 H. H. — Mithin dürfen wir jeden Augenblick mit
 Lüttjens Erscheinen rechnen …«
 
-Wir saßen es, daß wir die Eingangstür im Auge behalten
+Wir saßen so, daß wir die Eingangstür im Auge behalten
 konnten …
 
 <@pagebreak/>
@@ -540,10 +531,10 @@ Zwei Herren traten ein …
 
 Schauten sich suchend um …
 
-Das kleine Lokal war dicht gefüllt, kein Tisch) unbesetzt
+Das kleine Lokal war dicht gefüllt, kein Tisch unbesetzt
 … Und unser Tisch bot noch Raum für vier Personen …
 
-Die beiden Herren trafen an uns izeran …
+Die beiden Herren trafen an uns heran …
 
 »Gestatten,« sagte der eine, ein schlanker Herr mit einem
 vornehmen, müden Gesicht …
@@ -558,31 +549,32 @@ Hatten beide bartlose, schmale Gesichter. Der Kleinere
 trug ein randloses Monokel …
 
 Und diese Tischnachbarn sprachen leise englisch miteinander,
-englisch) mit unverkennbar amerikanischen Akzent.
+englisch mit unverkennbar amerikanischen Akzent.
 
-Sprachen da) nicht leise genug, als daß wir nicht mit
-unseren;Luch8ohren jedes Wort aufgegangen hätten.
+Sprachen doch nicht leise genug, als daß wir nicht mit
+unseren Luchsohren jedes Wort aufgefangen hätten.
+
 Sprachen über … Harst … Immer wieder … Blickten
-nach der Tür — immer wieder … Warten sich mit Vornamen
+nach der Tür — immer wieder … Nannten sich mit Vornamen
 … Ernst hieß der größere, Tassilo der kleinere mit
-he: Monokel …
+dem Monokel …
 
 Da ging mir ein Licht auf …
 
 Also das war Ernst Lüttjen!! — Donnerwetter, — Der
-mußte als Oberkellner manches Herz gesucht haben drüben
+mußte als Oberkellner manches Herz geknickt haben drüben
 im Dollarlande …!
 
 »Ernst« und »Tassilo« hatten sich jeder ein Wiener
 Schnitzel bestellt und tranken Rotwein. Ihre Unterhaltung
 glitt allmählich in ein anderes Fahrwasser über … Sie
-glaubten offenbar, daß wir sein Wort englisch verständen, da
-wir nach) Möglichkeit im »Meclenbörger Platt« unsere sparsamer
+glaubten offenbar, daß wir kein Wort englisch verständen, da
+wir nach Möglichkeit im »Mecklenbörger Platt« unsere sparsamen
 Bemerkungen austauschten und im übrigen so taten,
 als hätten wir lediglich für unsere Abendzeitungen Interesse.
 
 Ernst Lüttjen sagte unter anderem, daß er das Gefühl
-habe, von der Kriminalpolizei überwacht zu werden … «Deshalb
+habe, von der Kriminalpolizei überwacht zu werden … »Deshalb
 <@pagebreak/>
 habe im auch mit dir dreimal das Auto gewechselt,
 Tassilo …! Ich wünschte nicht, daß das Stelldichein mit Harst
@@ -591,84 +583,84 @@ zu kommen, es ist bereits nach zehn Uhr …«
 
 »Trotzdem warten wir noch,« meinte der andere.
 
-»ÄFatürliHd, Daß, natürlich: …! Ab muß Harst für
-
+»Natürlich, Taß, natürlich: …! Ich muß Harst für
 mich gewinnen … Ich merkte ja ganz deutlich bei
 der Vernehmung durch den höflichen Kriminalkommissar, daß
 der Herr mir mißtraute, und daß ihm die Geschichte von den
 Prämien für die Lebensversicherung sehr zweideutig vorkam,
 obwohl ich doch immer aufs neue betonte, daß … — na, du
-kennst das alles ja, Daß! — Jedenfalls ist es einfach zum
-Verrücktwerden, daß der Minute Karl so kurz nach meiner
+kennst das alles ja, Taß! — Jedenfalls ist es einfach zum
+Verrücktwerden, daß der arme Karl so kurz nach meiner
 Ankunft hier im alten Vaterlande auf diese Art enden mußte!!
 Wenn er nur nicht so ein Eisenkopf gewesen wäre!! Wenn
 er nur auf mich gehört hätte und diese lächerliche Stellung
-sofort aufgegeben haben würde ».!!’
-— »Eisenkopf — — und ob!!« Mitte Tassilo. »Weiß Gott,
+sofort aufgegeben haben würde …!!«
+
+»Eisenkopf — — und ob!!« nickte Tassilo. »Weiß Gott,
 ich habe ihm genug zugesetzt, daß er bei mir Privatsekretär
 werden sollte … Er wurde grob … Privatsekretär — das
 sei ein verschleiertes Almosen!! — Wir gingen schließlich
-mit Toten Köpfen ausgetrunken …«
+mit roten Köpfen auseinander …«
 
 Ernst Lüttjen seufzte … »Ja, der gute Karl war nicht
 leicht zu behandeln — — im Gegenteil!! Nun ist er in so
-sMeuflicher Weise umgebracht worden!! Und wenn ich meine
-ganzen Ersparnisse dranscizen sollte: es muß aufgeklärt werden,
+scheußlicher Weise umgebracht worden!! Und wenn ich meine
+ganzen Ersparnisse dransetzen sollte: es muß aufgeklärt werden,
 wer hinter dieser Untat als treibende Kraft steckt …!
-Dieser Wärter Eugen Mattieß hatte da keinerlei Interesse
-daran, Karl zu beseitigen …! Die beiden Stauden recht gut
+Dieser Wärter Eugen Mattieß hatte doch keinerlei Interesse
+daran, Karl zu beseitigen …! Die beiden standen recht gut
 miteinander, wie das übrige Personal ausgesagt hat …«
 
 Tassilo schob den Käseteller beiseite …
 
 »Überhaupt …« meinte er sehr gedehnt, «— überhaupt,
-— — nun auch) rosa der Mord an dem angeblichen Doktor
-Grimby ».h1«
+— — nun auch noch der Mord an dem angeblichen Doktor
+Grimby …!!«
 
 Ernst Lüttjen beugte sich über den Tisch …
 
-»Grimby «.!!« flüsterte er … »Grimby …!! — Weißt du,
+»Grimby …!!« flüsterte er … »Grimby …!! — Weißt du,
 <@pagebreak/>
-Daß, am liebsten würde ich auf öde LedenErersscygernngssumme
-verzichten oder sie … verschenken …! Dir zum Beispiel, Daß!
-Andacht die Polizei wie) in Wie läßt! Bin ich etwa
-deshalb nach Dich Germany zurüfgekehr!, um mich h)her einsperren
-zu lassen?! Du könntest die 100000 Gulden außerdem
-besser brauchen alle ich, und …«
+Taß, am liebsten würde ich auf die Lebensversicherungssumme
+verzichten oder sie … verschenken …! Dir zum Beispiel, Taß!
+Nur damit die Polizei mich in Ruhe läßt! Bin ich etwa
+deshalb nach Old Germany zurückgekehrt, um mich hier einsperren
+zu lassen?! Du könntest die 100&nbsp;000 Gulden außerdem
+besser brauchen als ich, und …«
 
-»Vor As!« wehrte der andere energisch ab. »Sprechen
+»Hör’ auf!« wehrte der andere energisch ab. »Sprechen
 wir von angenehmeren Dingen … — Ob man nicht mal
 bei Harst anruft, Ernst? Ich würde es an deiner Stelle tun,
-Zwist sitzen wir hier in diesem TadalSsqualm ganz umsonst
-die Mätternacmt …«
+sonst sitzen wir hier in diesem Tabaksqualm ganz umsonst
+bis Mitternacht …«
 
-Lüttjen erhob sich dann auch) und benutzte den neben dem
-Bückte!! hängenden Fernsprecher.
+Lüttjen erhob sich dann auch und benutzte den neben dem
+Büfett hängenden Fernsprecher.
 
-Wir bezahlten … Wir wüßten, wach für eine Auskunft er
-erhalten würde: Harst und China! in dringender, eiliger Ain-gelegenhel!
-nach Kopenhagen lernten …!!
+Wir bezahlten … Wir wußten, was für eine Auskunft er
+erhalten würde: Harst und Schraut in dringender, eiliger
+Angelegenheit nach Kopenhagen berufen …!!
 
-Wir verließen die Kneipe, machen Tassilo einen sehr tiefen
+Wir verließen die Kneipe, machten Tassilo einen sehr tiefen
 linkischen Bückling …
 
-Ei hätte ahnten sollen!? Aber — er ahnte nichts!
+Ei hätte ahnen sollen!! Aber — er ahnte nichts!
 
 <h2>3. Kapitel.</h2>
 <h3>Die Milliardärin.</h3>
 
-— Wert der Straße mittelsten wir sofort ein Zoo heran, das
+Auf der Straße mittelsten wir sofort ein Auto heran, das
 gerade langsam vorüberfuhr …
 
-»1 Abend, Klimke,« tippte Harald zu dem Chauffeur …
+»’n Abend, Klimke,« sagte Harald zu dem Chauffeur …
 
 Und — ich hatte wieder einmal die beste Gelegenheit, mich
 gründlich zu wundern, denn Klimke war ein Privatdetektiv,
-den wir zuweilen als Besser benutzten,
+den wir zuweilen als Helfer benutzten,
 
-Harst! beschrieb Klimke die beiden eleganten Herren …
+Harst beschrieb Klimke die beiden eleganten Herren …
 
-»Also hinterdrein, Klimke, und recht Gesicht …!’
+»Also hinterdrein, Klimke, und recht geschickt …!«
 
 Wir verschwanden im Innern der Kraftdroschke … —
 
@@ -677,89 +669,90 @@ der nahen Augsburger Straße, wo Tassilo das Haus Nr. 21
 aufschloß,
 
 <@pagebreak/>
-Wir verrichten das Auto und paßten auf, ob irgendwo
+Wir verließen das Auto und paßten auf, ob irgendwo
 im Vorderhause Fenster hell würden …
 
-Ja «— drei Fenster — = ganz oben in der Mansarde!t
+Ja — drei Fenster — — ganz oben in der Mansarde!!
 
-Also vor! hauste Tassilo …!
+Also dort hauste Tassilo …!
 
-Harst sollte Klimke nach der Sie Augsburger und Ranke
-Straße … Dort sollte der Helfer warten,
+Harst sollte Klimke nach der Ecke Augsburger und Rankestraße
+… Dort sollte der Helfer warten,
 
-Wir betraten das Hauch Nr. 21 …
+Wir betraten das Haus Nr. 21 …
 
-Und mit Hilfe jener Unverfrorenheit, über die ein Des
-Berlin unbedingt verfügen muß, kletterten wir bei eingeschlossen
-Nachtbeleuchtung die Treppen empor — bis zur Maste
-Leibgarde …
+Und mit Hilfe jener Unverfrorenheit, über die ein Detektiv
+unbedingt verfügen muß, kletterten wir bei eingeschalteter
+Nachtbeleuchtung die Treppen empor — bis zur Mansarde
+…
+
 Hier freilich gingen wir auf Zehenspitzen …
 
 Zwei Wohnungen hier: »Anna Lauter, Schneiderin«, —
 und »Baron Tassilo von Nordall« verrieten uns die Türleisten
 …
 
-Vier von Nordall und Botanik
+Also von Nordall und Baron!!
 
-Das Gerüchte Harald … Wir machten kehrt …
+Das genügte Harald … Wir machten kehrt …
 
 Gingen bis zur Rankestraße, und Klimke baute sich mit
 dem Auto schräg gegenüber von Nr. 21 auf …
 
-Als wir vor! kaum fünf Minuten hielten, sagte Harald,
-indem er die infolge der Februarkälte immer wieder des
-Steigende Fensterscheibe sauber wischte;
+Als wir dort kaum fünf Minuten hielten, sagte Harald,
+indem er die infolge der Februarkälte immer wieder
+beschlagene Fensterscheibe sauber wischte:
 
-»Dr ist eine Dame, mein Alter, die nun schon das fünfte
+»Da ist eine Dame, mein Alter, die nun schon das fünfte
 Mal vorübergeht. Wir sind ihr gleichgültig … Aber nach
-der Mansarde blickt sie immer wieder empor .,»’
+der Mansarde blickt sie immer wieder empor …!«
 
-»Dauert
+»Dame?!«
 
-»Ja — — äußerlich …!!? Vielleicht auch innerlich …
+»Ja — — äußerlich …!! Vielleicht auch innerlich …
 Polizeivigilantin auf keinen Fall … Zu elegant … Bin
-Neugierig, ob sie’s auf Ernst Lüttjen »abgesehen bat …«
+Neugierig, ob sie’s auf Ernst Lüttjen abgesehen hat …«
 
 Ich war ebenfalls neugierig …
 
-Nach; einer Stunde wußten wir, daß die »ob Mittag
+Nach einer Stunde wußten wir, daß die Unbekannte
 zuerst Ernst Lüttjen bis zum Hotel Krause gefolgt und dann
 bis zum Hotel Bristol gefahren war, wo der Portier vor
-ihr wie ein Stehaufmännchen bücklingte … Er TT
+ihr wie ein Stehaufmännchen bücklingte …
 
-Und wieder nach zehn Minuten hatte Harald Von: dem
+Und wieder nach zehn Minuten hatte Harald Von dem
 Portier durch einen geldwerten Händedruck erfahren, daß die
 <@pagebreak/>
 »Elegante« keineswegs Polizeivigilantin oder eine polnische
 Gräfin sei, sondern viel was Feineres: Frau Tessa Goulden
-aus Fensters, bildhübsche Witwe und Milliardärin, die hier
+aus Neuyork, bildhübsche Witwe und Milliardärin, die hier
 im Bristol mit ihrem Hofstaat, zehn Personen, seit etwa einer
 Woche wohnte …
 
-Als Durst mir dies in unserem Klimke-Auto mitteilte,
-stieß ich einen langen plebejismchen Pfiff aus und rief;
+Als Harst mir dies in unserem Klimke-Auto mitteilte,
+stieß ich einen langen plebejischen Pfiff aus und rief:
 
 »Donnerwetter, — ob diese Milliardeuse etwa hinter
 Lüttjen-Ernst her ist?!«
 
-»Du bist naiv!!« jagte Harald nur …
+»Du bist naiv!!« sagte Harald nur …
 
-Und das dies, daß Tessa Goulden sich offenbar drüben
+Und das hieß, daß Tessa Goulden sich offenbar drüben
 jenseits des großen Tümpels in den vornehmen Ober verliebt
-hatte und ihn hier nun höchstselbst beobachtete, ob er und)
+hatte und ihn hier nun höchstselbst beobachtete, ob er auch
 nicht allzu stark die Berliner Großstadt, Freuden und Mädchen
 genoß …
 
-Dieser Ernst Lüttjen hatte allerdings unter diesen Ums«-
-ständen die 100&nbsp;000 Gulden Bersicherungsgeld nicht nötig, denn
+Dieser Ernst Lüttjen hatte allerdings unter diesen Umständen
+die 100&nbsp;000 Gulden Versicherungsgeld nicht nötig, denn
 die andere »Goulden« rechnete mit Millionen … —
 
-Wir kehrten also in unser Quartier am Wittenbergplaß-zurüs,
-und Harst lohnte Klimke sehr anständig … »Wenn
+Wir kehrten also in unser Quartier am Wittenbergplatz
+zurück, und Harst lohnte Klimke sehr anständig … »Wenn
 wir Sie morgen brauchen, rufe ich an … Gute Nacht,
 Klimke …«
 
-Bevor wir ins Bett gingen, fragte im Harst:
+Bevor wir ins Bett gingen, fragte ich Harst:
 
 »Was hältst du nun von Ernst Lüttjen?«
 
@@ -768,93 +761,92 @@ Verdacht erhaben …!«
 
 Am nächsten Morgen waren wir schon um neun Uhr
 im Hotel Krause … Man führte uns höflichst nach Zimmer
-13 a, — eine Zahl, die hier die ominöse 13 ersetzte,«… —
+12&nbsp;a, — eine Zahl, die hier die ominöse 13 ersetzte … —
 
 Ernst Lüttjen saß beim Kaffee … Erhob sich … musterte
-Wohnung und erkannte uns …
+uns und erkannte uns …
 
 »Ah — die Tischgenossen von gestern abend … Sie
-wünschen, meine Herren?!
+wünschen, meine Herren?!«
 
 Er war ahnunggslos …
 
 Harst lächelte … nannte unsere Namen …
 
 <@pagebreak/>
-Quittiert Gesicht sprach Bände … Aber er beherrschte sich
+Lüttjens Gesicht sprach Bände … Aber er beherrschte sich
 und meinte nur:
 
 »Und Sie haben natürlich mit angehört, Herr Harst, wie
-mein Freund und ich uns nach Ihnen schauten!«
+mein Freund und ich uns nach Ihnen sehnten!«
 
-Wie setzten uns … — Harst erklärte, es sei unbedingt!
-erforderlichg, daß selbst Baron Tassilo Nordall nichts davon
+Wir setzten uns … — Harst erklärte, es sei unbedingt
+erforderlich, daß selbst Baron Tassilo Nordall nichts davon
 erführe, daß wir in Berlin und nicht in Kopenhagen seien,
 
-Lüttjen antwortete, er habe zwar vor Daß ungern Geheimnisse
+Lüttjen antwortete, er habe zwar vor Taß ungern Geheimnisse
 … Wenn es aber sein müßte …
 
-»Es muß sein,« betonte Harst. »Sie, Baron, sind gar:
+»Es muß sein,« betonte Harst. »Sie, Baron, sind ganz
 zweifellos der Mittelpunkt eines großzügigen Gaunerplanes.«
 
-»Ihr!« Lüttjen lächelte … »Wie käme gerade ich zu
+»Ich?!« Lüttjen lächelte … »Wie käme gerade ich zu
 der zweifelhaften Ehre, für ein Gaunerkonsortium …«
 
-»Oh,« unterbrach) Harald ihn, »Sie sind der Erbe von
+»Oh,« unterbrach Harald ihn, »Sie sind der Erbe von
 Gulden …«
 
 Offensichtlich hatte er die letzten Worte absichtlich so
-doppeideutig gewählt: Gulden — Goulden«.!
+doppeldeutig gewählt: Gulden — Goulden …!
 
-Hätten konnte denn auch eine Bewegung der Überraschung
+Lüttjen konnte denn auch eine Bewegung der Überraschung
 nur schlecht unterdrücken …
 
 »Verzeihung, Herr Harst, — wie … meinen Sie das:
 Erbe von Gulden?«
 
-»Idch4 meine Gulden und Goulden, Baron … Mit Gulden
-die Bersiherungssumute, mit Goulden die Dame, die Ihnen
+»Ich meine Gulden und Goulden, Baron … Mit Gulden
+die Versicherungssumme, mit Goulden die Dame, die Ihnen
 hierher nachgereist ist …«
 
-»Gern Harst, woher wissen Sie denn, daß diese Dame für
+»Herr Harst, woher wissen Sie denn, daß diese Dame für
 mich … Interesse hat? Und — hier in Berlin ist sie? Das
 ist mir neu — vollkommen neu …!«
 
 »Wie stehen Sie zu der Dame, Baron?«
 
-»Sie sah mich im Astoria-Zettel, — — drüben … Und
+»Sie sah mich im Astoria-Hotel, — — drüben … Und
 sie erkundigte sich nach mir … wußte eine Aussprache unter
 vier Augen herbeizuführen und bot mir bei sich die Stellung
 eines Privatsekretärs an. So sehr sie mir nun auch gefiel:
 wir Lüttjens sind etwas sehr … feinfühlig …! Wir arbeiten
 weit lieber, als daß wir uns … etwas halb schenken lassen
--… — Ich lehnte ab … Und … reiste hier nach Berlin, um
-meinen Brüder Karl zu besuchen …« Seine Stimme klare.
-
+… — Ich lehnte ab … Und … reiste hier nach Berlin, um
+meinen Bruder Karl zu besuchen …« Seine Stimme klang
 <@pagebreak/>
-jetzt sHmerzlichbewegt … »Karl ist tot … Und Tessa Goulden
-ist mir also gefolgt … Eigentlich rechnete im damit«…«
+jetzt schmerzlich-bewegt … »Karl ist tot … Und Tessa Goulden
+ist mir also gefolgt … Eigentlich rechnete ich damit …«
 
 »Sie ist Ihnen doch nicht gleichgültig, Baron?«
 
 »Nein … nein, — leider nein! Und trotzdem fliehe ich
 sie … Doch — lassen wir das, Herr Harst …«
 
-»Dann etwas anderes, Baron … Wegs halb bewogen Sie
-Ihren Bruder dazu, die Lebensversicherung abzuschließen e«
+»Dann etwas anderes, Baron … Weshalb bewogen Sie
+Ihren Bruder dazu, die Lebensversicherung abzuschließen?«
 
 »Weil ich ihm dann die Beträge der Prämien schicken
 konnte — stets etwas mehr … Nur so nahm er Geld von
 mir an … — Im übrigen habe ich gestern meinen Freund
-Tassilo nach) langem Hin und Her dazu überredet, die handelte
-dauernd Gulden von mir anzunehmen … Ich will nichts von
+Tassilo nach langem Hin und Her dazu überredet, die hunderttausend
+Gulden von mir anzunehmen … Ich will nichts von
 dem Gelde sehen … Und Tassilo kann es brauchen … Er
 schlägt sich als Schriftsteller nur kümmerlich durch und wollte
 trotzdem meinen Bruder unterstützen … Heute werde ich der
-Polizei diese Schenkung mitteilen, und dann wird die Geschäfte
+Polizei diese Schenkung mitteilen, und dann wird die Behörde
 mich wohl in Ruhe lassen …«
 
-»Das tut sie Schachtes schon, Baron … Ich habe den
+»Das tut sie ohnedies schon, Baron … Ich habe den
 Herren heute früh einen Wink gegeben, daß Sie über jeden
 Verdacht erhaben sind …«
 
@@ -864,57 +856,58 @@ Sie nun über den an meinem Bruder verübten Mord?«
 »Darüber möchte ich mich noch nicht äußern, Baron …
 Nur eins ist gewiß: Sie sind, wie ich schon bemerkte, der
 Mittelpunkt der Anstrengungen einer Verbrecherbande, die
-bereits den ersten Vorteil errungen hat«…«
+bereits den ersten Vorteil errungen hat …«
 
-».». Errungen?! Wodurch denn?!«
+»… Errungen?! Wodurch denn?!«
 
-»Auch) das erkläre ich Ihnen später … Im Vertrauen —
+»Auch das erkläre ich Ihnen später … Im Vertrauen —
 wie alles: der angebliche Doktor Grimby ist von dem angeblichen
-Tagen Mattieß ermordet worden, und Mattieß wieder
-knüpfte sie) auf, weil er es … der Augen wegen mußte!«
+Eugen Mattieß ermordet worden, und Mattieß wieder
+knüpfte sich auf, weil er es … der Augen wegen mußte!«
 
 »Der Augen wegen? — Verzeihen Sie, das verstehe ich
 nicht recht, Herr Harst …«
 
 »Sie werden es schon verstehen, wenn die Zeit gekommen
-Sir, Baron … Denken Sie stets an die Augen «.! Die sind
+ist, Baron … Denken Sie stets an die Augen …! Die sind
 <@pagebreak/>
-hier« das wichtigste … — Und nun wollen wir uns wieder
-verabschieden … — Die Hauptsache: Diskretion!! Zu nie«
+hier das wichtigste … — Und nun wollen wir uns wieder
+verabschieden … — Die Hauptsache: Diskretion!! Zu
 niemandem auch nur eine Silbe, daß wir … Sie beschützen,
-Baron »… Sie hören noch von uns … Wiedersehen …«
+Baron … Sie hören noch von uns … Wiedersehen …«
 
-da. Kapitel.
-Das tote Auge,
+<h2>4. Kapitel.</h2>
+
+<h3>Das tote Auge,</h3>
 
 Als wir das Hotel verließen, hatten wir die Augen überall
-— aber unsere Zug-»!’
+— aber unsere Augen!
 
 Und spähten emsig und heimlich nach einem Spion aus.
-— Merkten jedoch) nichts, — aufgenommen einem Straßen«-
-Händler, einen buckligen schmierigen Kerl mit Säufernase,
-der mit einem Male an der Ecke Friedrichstraße wi: der sichtbar
-wurde, dann aber verschwaind … —
+— Merkten jedoch nichts, — ausgenommen einem Straßenhändler,
+einen buckligen schmierigen Kerl mit Säufernase,
+der mit einem Male an der Ecke Friedrichstraße wieder sichtbar
+wurde, dann aber verschwand … —
 
-Wir schritten bei sonnigem Winterwetter den 1 Aden: ck,
+Wir schritten bei sonnigem Winterwetter den Linden zu.
 
 Harald sagte plötzlich:
 
 »Der Bucklige kann ein Bezahlter der Goulden sein,
 kann aber auch »die Augen« sein …«
 
-Wieder die … Jungen!!
+Wieder die … Augen!!
 
 Diesmal sollte Harald aber endlich mit einer Erklärung
-Heransgrücen — ans« jeden Fall!! Bisher hatte ich angenommen,
-daß er die Augen des angeblichen Engen Mattieß
+herausrücken — auf jeden Fall!! Bisher hatte ich angenommen,
+daß er die Augen des angeblichen Eugen Mattieß
 meinte — vielleicht in irgendeiner übertragenen Bedeutung …
 Mattieß war tot. Also konnte er nicht der Straßenhändler
 sein, also mußten »die Augen« etwas ganz anderes sein
-—» ein Mensch!! Eine bestimmte Persönlichkeit!!
+— ein Mensch!! Eine bestimmte Persönlichkeit!!
 
-»Der sind »die Angen’’?« fragte ich. »Bitte — Antwort,
-Harald! Und keine Ausflüchte, Laß mich nicht. abermals
+»Wer sind »die Augen"?« fragte ich. »Bitte — Antwort,
+Harald! Und keine Ausflüchte. Laß mich nicht abermals
 im Dunkeln neben dir hertappen, während du selbst bereits
 allerlei weißt und gleichsam im Hellen schreitest!«
 
@@ -922,23 +915,23 @@ Wir bogen in die Große Passage ein, wo das übliche
 Menschengewimmel herrschte.
 
 Harst antwortete nicht, faßte mich vielmehr unter und zog
-mit an das Schaufenster eines RNadiogeschäfts.
+mich an das Schaufenster eines Radiogeschäfts.
 
 <@pagebreak/>
-Die qaroße Fensterscheibe wirkte wie ein Spiegel …
+Die große Fensterscheibe wirkte wie ein Spiegel …
 
-Und hier sagte er, scheinbar auf einen Sechhsröhrenempe
-Anfänger zeigend:
+Und hier sagte er, scheinbar auf einen Sechsröhrenempfänger
+zeigend:
 
 »Der Mann versteht’s …«
 
-Was denn 7«
+»Was denn?«
 
-»Er steht vollkommen anderes aus. Der Bart ist weg,
+»Er sieht vollkommen anderes aus. Der Bart ist weg,
 der schäbige Mantel ein anständiger Ulster, und der Hut
-tadellos … Den Händvlerkasten hat er zugeklappt — ist jetzt
+tadellos … Den Händlerkasten hat er zugeklappt — ist jetzt
 ein kleiner brauner Handkoffer … Und dieser Koffer verrät
-nimm … Ich sah vorhin, daß der Kasten an der Seite
+ihn … Ich sah vorhin, daß der Kasten an der Seite
 mit Leder bezogen war …«
 
 Und ich schaute in den Spiegel der Fensterscheibe …
@@ -946,12 +939,12 @@ Und ich schaute in den Spiegel der Fensterscheibe …
 Fand den Mann …
 
 Da stand er uns gegenüber an dem Schaufenster eines
-Loderwarengeschäf!s …
+Lederwarengeschäfts …
 
 »Nicht hinsehen!« warnte Harst …
 
-Dann zog er mich« mit sich) fort, redete alles Mögliche,
-erzählte mir Wisse, lachte …
+Dann zog er mich mit sich fort, redete alles Mögliche,
+erzählte mir Witze, lachte …
 
 So schritten wir die Linden hinab dem Brandenburger
 Tor zu …
@@ -959,17 +952,16 @@ Tor zu …
 Und dann:
 
 »Mein Alter, nun müssen wir die Reihenfolge wechseln
-
-Das heißt: der Mann muß aus der Rolle des Beob-achtenden
+… Das heißt: der Mann muß aus der Rolle des Beobachtenden
 in die des Beobachteten gedrängt werden … Ich
 werde vom nächsten Zigarrengeschäft aus Freund Klimke
 anläuten, Klimke kann in zehn Minuten zur Stelle sein.«
 
 So geschah’s
 
-Als wir durch ’den Tiergarten gingen, der heute ein win-terlfiuwes
+Als wir durch den Tiergarten gingen, der heute ein winterliches
 Bild darbot, — als wir uns dem sogenannten Stern
-näherten, bemerkte ich ein Eichhörndeon, das in weiten Sprüngen
+näherten, bemerkte ich ein Eichhörnchen, das in weiten Sprüngen
 über die weiße Schneedecke hüpfte …
 
 Wir schauten dem Tierchen zu, wie es jetzt an einer
@@ -979,30 +971,31 @@ ist zur Stelle — gute Maske! Ja, der Klimke ist brauchbar!«
 Dann wandten wir uns nach rechts und befanden uns
 in kurzem in dem alten Stadtteil Moabit vor dem mächtigen
 <@pagebreak/>
-Bau des Kriminalgericht8, wo wir vor dem Eingang auf und
-ab schlenderten, als ob wir hier jemand erwarteten»…
+Bau des Kriminalgerichts, wo wir vor dem Eingang auf und
+ab schlenderten, als ob wir hier jemand erwarteten …
 
-So konnten wir bequem den Vorplatz und die Zugangs-straßen
+So konnten wir bequem den Vorplatz und die Zugangsstraßen
 beobachten, sahen nun auch »unseren Mann« und
-Blinkte, den Keller …
+Klimke, den Helfer …
 
 Ich fragte Harald von neuem:
-ij: »sobald nennst du diesen Menschen »die Augen«? Wer
-V3 (Y
 
-Und Harst fertigte mich wieder naß alter Methode ab,
+»Weshalb nennst du diesen Menschen »die Augen«? Wer
+ist’s?«
+
+Und Harst fertigte mich wieder nach alter Methode ab,
 indem er erklärte:
 
-»Du bist genau [so neugierig wie Baron Ernst Lüttjen
+»Du bist genau so neugierig wie Baron Ernst Lüttjen
 … Wenn ich dir jetzt sagen würde, wer dieser Verwandlungskünstler
 ist, würdest du ohne Zweifel annehmen, ich wollte
 dich verulken … Also — lassen wir’s!«
 
-Das war so seine Methode«.!!
+Das war so seine Methode …!!
 
 Diesmal schnappte ich aber gründlich ein …
 
-»Wenn du mir nicht sofort alles erklärst, gehe im heim
+»Wenn du mir nicht sofort alles erklärst, gehe ich heim
 — — nach der Blücherstraße, und kümmere mich überhaupt
 um nichts mehr, um gar nichts!« — Diese Drohung, in gereiztem
 Tone vorgebracht, verpuffte jedoch wirkungslos …
@@ -1012,43 +1005,43 @@ ist vielleicht ganz gut, wenn wir uns trennen … Dann wird
 sich ja herausstellen, wen von uns beiden der Mann für den
 wichtigeren Gegner, also für Harst hält … Gehe in unser
 Quartier am Wittenbergplatz … Und, damit du mir nicht
-grollt, mein Alter: der Mann mit den Augen war gestern
+grollst, mein Alter: der Mann mit den Augen war gestern
 ebenfalls in der kleinen Kneipe, wo wir mit Lüttjen und
 Nordall an einem Tische saßen … — So, nun schnappe
 wieder aus!«
 
-Er reichte mir die Hand, fügte hinzu: …
+Er reichte mir die Hand, fügte hinzu:
 
 »Im Grunde bist du ganz allein daran schuld, daß dir
 die richtige Erkenntnis noch nicht aufgegangen ist … Man
 muß eben beobachten können … Das ist die Hauptsache!«
 
-Halb versöhnt verließ im ihn und schritt die Straße
-Alt Moabit hinab …
+Halb versöhnt verließ ich ihn und schritt die Straße
+Alt-Moabit hinab …
 
 Schon nach vier Minuten hatte ich festgestellt, daß ich
 <@pagebreak/>
 von »unserem Manne« nicht verfolgt wurde. Ich kaufte mir
-in einem Hukgeschäft rasch eine blaue Tuchmüße, schlug den
-Ausfertigen hoch, setzte mir meinen Kneifer auf und entfernte
+in einem Hutgeschäft rasch eine blaue Tuchmütze, schlug den
+Ulsterkragen hoch, setzte mir meinen Kneifer auf und entfernte
 in einem Hausflur den Backenbart.
 
-Eiligst kehrte ich so nach4 dem Kriminalg nicht zurück, erspähte
-aber nur noch Klimke, der gerade in die Nathenower
-Straße einbog»…
+Eiligst kehrte ich so nach dem Kriminalgericht zurück, erspähte
+aber nur noch Klimke, der gerade in die Rathenower
+Straße einbog …
 
 Ich blieb hinter ihm, denn … vor ihm ging »unser
-Mann«, und noch weiter voraus bemerkte ich Harsts.
+Mann«, und noch weiter voraus bemerkte ich Harst.
 
-Doch — nicht dies allein das sich mir als Bild einer
-typischen Verbrecher-»Beschattung dar … Nein, — ich durfte
+Doch — nicht dies allein bot sich mir als Bild einer
+typischen Verbrecher-Beschattung dar … Nein, — ich durfte
 geradezu triumphieren! Denn sehr bald stellte ich fest, daß
 wir hier nicht lediglich zu vieren diesen Weg zurücklegten …
 Da war nämlich zwischen Klimke und mir noch ein fünfter
 Mann, ein kleiner hagerer Kerl mit einem grauen Schifferbart
-und Ausland!schien X-Beinen … Ulster, weiche Reisemütze
-und Schlucht: rings rochen stark nach Amerika, Mein erster
-Gedanke war: das muß ein Beauftragter der Goulden Genick!
+und unglaublichen X-Beinen … Ulster, weiche Reisemütze
+und Schuhformat rochen stark nach Amerika. Mein erster
+Gedanke war: das muß ein Beauftragter der Goulden sein!!
 
 Also zu fünfen ging’s so bis zum Stettiner Bahnhof …
 
@@ -1056,72 +1049,72 @@ Und hier nun kam für »unseren Mann« der Kladderadatsch
 …!!
 
 Harst verschwand spurlos im Bahnhofsgebäude, und »die
-Augen« suchten verzweifelt naß) »Freund Harald, was sehr
+Augen« suchten verzweifelt nach Freund Harald, was sehr
 spaßig zu beobachten war …
 
 Endlich gab der Mann die Sache auf und fuhr mit einer
-Straßenbahn bis zum Zoologischen Garten — im Irtebwagen,
+Straßenbahn bis zum Zoologischen Garten — im Triebwagen,
 während wir drei anderen, nämlich Klimke, der X-Beinige
-und ich uns auf den Anhänger und die Borderplattsorm Vers
-feilt hätten … Jetzt sollte ich jedoch erkennen, daß dieser
+und ich uns auf den Anhänger und die Borderplattsorm verteilt
+hatten … Jetzt sollte ich jedoch erkennen, daß dieser
 Kerl mit dem Handkoffer und dem pechschwarzen Schnurrbart
 wirklich ein ganz gewiegter Bursche war …
 
 Er mochte vielleicht ahnen, daß er »beschattet« wurde …
-Er vergalt gleiches mit gleichem … Betrat einen Erfinden,
+Er vergalt gleiches mit gleichem … Betrat einen Eckladen,
 ein Friseurgeschäft, und … ward nicht mehr gesehen …
 
-Nacht einer halben Stunde erst merkte ich, daß der Laden
-allzuweit Eingänge halte. Der X—Beinige war hineingeqgangen,
+Nach einer halben Stunde erst merkte ich, daß der Laden
+zwei Eingänge hatte. Der X—Beinige war hineingeqgangen,
 <@pagebreak/>
 kam sofort wieder heraus. Klimke ahnte nichts von meiner
 Anwesenheit auf diesem Kriegsschauplatz … Und so schlenderte
 ich denn nun hinter dem »Amerikaner« drein, der für
-Klimke sich) aus dem einfachen Grunde nicht mehr interessieren
+Klimke sich aus dem einfachen Grunde nicht mehr interessieren
 konnte, weil unser Helfer in einem Hausflur Posto
 gefaßt hatte …
 
-Der X-Einige aber wandte sich der Zuversicht zu, benutzte
-einen Omnibus bis zu den Linden und betrat das Hotel Ei…ob.
+Der X-Beinige aber wandte sich der Innenstadt zu, benutzte
+einen Omnibus bis zu den Linden und betrat das Hotel Bristol.
 
 Bristol — — Goulden!! Also doch!!
 
 Ich stand auf der Mittelpromenade vor dem Hotel …
 
-Und da legte mir jemand die Hand auf die Schulter»…
+Und da legte mir jemand die Hand auf die Schulter …
 
-Ich fuhr herum … Das war nicht der Rastloser Sanft
-Mann, der hier vor mir stand … Tag war ein gänzlich
-anderes Gesicht … Und doch war es Abprallt!
+Ich fuhr herum … Das war nicht der Rostocker Kaufmann,
+der hier vor mir stand … Das war ein gänzlich
+anderes Gesicht … Und doch war es Harald!
 
-»Lag, mein Alter …« schmunzelte er … »Das! deine
-Sack)e brav gemacht … Sehr brav … Ich aber auch, schätze
-ist … — Was meinst du wohl, wer der Amerikaner war?«
+»Tag, mein Alter …« schmunzelte er … »Hast deine
+Sache brav gemacht … Sehr brav … Ich aber auch, schätze
+ich … — Was meinst du wohl, wer der Amerikaner war?«
 
 »Ein Detektiv!« erwiderte ich und machte ein arg enttäuschtes
 Gesicht …
 
-Harald schüttelte den Kopf»…
+Harald schüttelte den Kopf …
 
-»G’immt riß Kanal … D18 war Mr. Ionathan Bamby,
+»Stimmt nicht ganz … Das war Mr. Jonathan Bamby,
 der Privatsekretär der Witwe Goulden …«
 
-»Woher weißt du das«
+»Woher weißt du das?«
 
-»Von ihm selbst …’«
+»Von ihm selbst …«
 
 »Du hast ihn gesprochen?«
 
-»zu «- Tour im Friseurekladen — nur wenige Worte …
+»Ja — Dort im Friseureckladen — nur wenige Worte …
 Ich fragte ihn geradezu, ob er ein Kollege sei, nannte unter
 Diskretion meinen Namen … Da nannte er den seinen …
-Komm jetzt, wir werden Frau Goulden besuchen …« ck
+Komm jetzt, wir werden Frau Goulden besuchen …«
 
-»und … »unser Mann« … y!«
+»und … »unser Mann« …?!«
 
 »Ist daheim … Vorläufig nicht zu fürchten … Er glaubte
 sich sicher … Er hatte es von dem Friseurgeschäft nicht
-weit bis nach) Hause … Nur bis zur Augsburger Straße 21,
+weit bis nach Hause … Nur bis zur Augsburger Straße 21,
 Mansarde …«
 
 Ich starrte Harald verdutzt an …
@@ -1131,30 +1124,31 @@ Ich begriff …
 <@pagebreak/>
 »Baron Tassilo Nordall?«
 
-… »Ja … Die 100000 Gulden hat er auf seine Weise schon
+»Ja … Die 100&nbsp;000 Gulden hat er auf seine Weise schon
 an sich gebracht … Fortsetzung folgt …!«
 
 Ich brauchte Zeit, ehe ich mich von der Überraschung
 erholen konnte …
 
-»Unglaublich!« meinte ich dann … »Also »… ein falscher
+»Unglaublich!« meinte ich dann … »Also … ein falscher
 Freund Lüttjens!«
 
 »Und ob!! — Aber nun hin zu der Milliardärin … Ich
 habe einiges mit ihr und Bamby zu besprechen …«
 
-Alte wir dann im ersten Star angelangt waren, stürzte
+Als wir dann im ersten Stock angelangt waren, stürzte
 Bamby gerade aus dem Wohnsalon der Frau Goulden in
-
 den Flur — erregt — mehr als erregt … Stutzte …
-»Was ist geschehen, Mr. Bamby?’ fragte Harst leise …
-»Gott sei Dank, — — Sie sind’s! »Frau Goulden liegt
 
-ohnmächtig auf dem Diwan, und ihre Shmudschatulle liegt
+»Was ist geschehen, Mr. Bamby?« fragte Harst leise …
+
+»Gott sei Dank, — — Sie sind’s! Frau Goulden liegt
+ohnmächtig auf dem Diwan, und ihre Schmuckschatulle liegt
 leer daneben …«
+
 Wir traten ein …
 
-Fackel zehn Minuten war Frau Goulden wieder bei
+Nach zehn Minuten war Frau Goulden wieder bei
 Bewußtsein …
 
 Erzählte …
@@ -1162,21 +1156,21 @@ Erzählte …
 Und — wir waren starr …
 
 Erzählte: Der berühmte Detektiv Harst habe sich bei ihr
-melden lassen durch eine Besuchskarte, die in einem verschlossenen
-Umschlag steckte … Ruf der Karte habe mit
+melden lassen durch eine Besuchskarte, die in einem
+verschlossenen Umschlag steckte … Auf der Karte habe mit
 Bleistift geschrieben gestanden:
 
-Bitte um eine Unterredung in Sachen Lüttjen …
+> Bitte um eine Unterredung in Sachen Lüttjen …
 
-Sie hatte den Herrn empfangen. Rad) wenigen Worten
-schon hatte er ihr ein Du vor das (Gesicht Gebrüll …
-Sie verlor das Bewußtsein … Ihre Schmudschatulle hatte
+Sie hatte den Herrn empfangen. Nach wenigen Worten
+schon hatte er ihr ein Tuch vor das Gesicht gedrückt …
+Sie verlor das Bewußtsein … Ihre Schmuckschatulle hatte
 auf dem Schreibtisch gestanden … Alles war geraubt … Und
 auch Karte und Briefumschlag fehlten … —
 
 Wir blieben nur kurze Zeit …
 
-»Wir riefen die Kriminalpolizei an …
+Wir riefen die Kriminalpolizei an …
 
 Fuhren zu Tassilo Nordall … Mit drei Kriminalbeamten,
 
@@ -1186,21 +1180,19 @@ Erbrachen die Tür …
 
 <@pagebreak/>
 Und in seinem Arbeitszimmer auf dem Teppich lag der
-Baron — «— tot, entsetzlich verstümmelt — mit einem Hammer
+Baron — — tot, entsetzlich verstümmelt — mit einem Hammer
 erschlagen …
 
 Als nachher die Leiche aufgehoben wurde, lag auf dem
 Teppich eine Brillantbrosche …
 
-Eier Eure Firma« emsig
-
 <h2>5. Kapitel.</h2>
 
 Ich habe mich in den letzten Zeilen absichtlich ganz kurz
-gefaßt, und ich muß dies und) noch in den folgenden Abschnitten
-tun, da ich sonst Wichtigeres fortlassen »ruhte.
+gefaßt, und ich muß dies auch noch in den folgenden Abschnitten
+tun, da ich sonst Wichtigeres fortlassen müßte.
 
-Die Kriminalpolizei hatte also eingegossen. Harald hatte
+Die Kriminalpolizei hatte also eingegriffen. Harald hatte
 sie gerufen, weil er eben den Zeitpunkt für gekommen hielt, wo
 wir unser Inkognito aufgeben könnten.
 
@@ -1213,20 +1205,20 @@ gewesen sein könne, der die Milliardärin beraubt und seinen
 — Harsts Namen benutzt hatte, um sich bei Frau Goulden
 Zutritt zu verschafften. Nordall sei vormittags ein halb
 zwölf in dem Hause Augsburger Straße 21 verschwunden,
-könne sich rasch maskiert haben und im Auto nach) dem Bristol
+könne sich rasch maskiert haben und im Auto nach dem Bristol
 gefahren sein, so daß wir und der Sekretär Bamby nur noch
 die bewußtlose Witwe vorfanden.
 
 Natürlich mußte Harald nun auch angeben, wodurch er
-den ersten Verdacht ’gegen den Baron geschöpft habe …
+den ersten Verdacht gegen den Baron geschöpft habe …
 Seine Antwort war: »Der angebliche Eugen Mattieß, der
-Wärter und Mörder, hatte einen Kultur in den Augen,
+Wärter und Mörder, hatte einen Ausdruck in den Augen,
 der mir sagte, daß er ein vorzügliches Medium sein müsse —
-für hypnotische Experimente. Wer sie) wie je) von Beruf
-wegen mit Hypnose beschäftigt hat, liest ans menschlichen
-Augen so mancherlei heraus. So habe ich) zum Beispiel in
-denen des: Barons Tassilo Nordall jenen durchdringenden,
-starren, herrischen By gefunden, der all denen eigentümlich
+für hypnotische Experimente. Wer sich wie ich von Beruf
+wegen mit Hypnose beschäftigt hat, liest aus menschlichen
+Augen so mancherlei heraus. So habe ich zum Beispiel in
+denen des Barons Tassilo Nordall jenen durchdringenden,
+starren, herrischen Blick gefunden, der all denen eigentümlich
 <@pagebreak/>
 ist, die infolge ungeheurer Willensstärke zumeist glänzende
 Hypnotiseure sind. Und drittens wieder hat der Freiherr
@@ -1234,146 +1226,151 @@ Ernst von Lüttjen in seinen Augen den leicht verträumten,
 zerstreuten Ausdruck jener Naturen, die wie Mattieß tadellose
 Medien abgeben. Schon an dem Tisch in der Kneipe
 erschien mir Nordall verdächtig, weil er, als die Rede auf
-die Versicherungssumme von 100000 Gulden kam, seinen
+die Versicherungssumme von 100&nbsp;000 Gulden kam, seinen
 Freund so intensiv anstarrte, als ob er ihm wortlos etwas
-Besonderes suggerieren wollte. Und heute vormittag des
-richtete uns Lüttjen dann, daß er seine Rechte an die Versicherungssumme
-an Nordall durch; Schenkung abgetreten
+Besonderes suggerieren wollte. Und heute vormittag berichtete
+uns Lüttjen dann, daß er seine Rechte an die Versicherungssumme
+an Nordall durch Schenkung abgetreten
 habe, was nach den Bedingungen der holländischen Gesellschaft
 zulässig ist. In Nordalls Wohnung wurde gestern nacht
 die Schenkungsurkunde aufgesetzt. — Ich bin überzeugt, daß
-Nordall auch) Mattieß und den angeblichen Arzt durch Hypnose
+Nordall auch Mattieß und den angeblichen Arzt durch Hypnose
 zu seinen willenlosen Werkzeugen gemacht hat, und daß
-ihm dabei allein um die 100000 Gulden zu tun war. Es
-handelte sie) also um einen von langer Hand vorbereiteten
-Plan, dessen Bitterlich:en eine geradezu ungeheuerliche Verruchtheit
+ihm dabei allein um die 100&nbsp;000 Gulden zu tun war. Es
+handelte sich also um einen von langer Hand vorbereiteten
+Plan, dessen Einzelheiten eine geradezu ungeheuerliche Verruchtheit
 beweisen. Daß Nordall in die Beziehungen zwischen
 Ernst von Lüttjen und der Milliardärin eingeweiht war, stand
-für mich gleichfalls fest, und der beste Beweis für seine vorn
+für mich gleichfalls fest, und der beste Beweis für seine
 verbrecherische Intelligenz ist die Tatsache, daß er unter meinem
-Namen und angeblich, Lüttjens wegen die Milliardärin aussah)
-te, um sie zu berauben.«
+Namen und angeblich Lüttjens wegen die Milliardärin aufsuchte,
+um sie zu berauben.«
 
 So entwickelte Harald vor den Beamten angesichts des
 toten Nordall seine einfachen Kombinationen, die wieder
 einmal zeigten, wie glänzend er zu beobachten versteht.
 
-Leider aber sollte dann schon die Ausginge der Sohne
-Inderin, die neben Nordall in der Mansarde wohnte, dieses
-schickte Gedanfengebäude total einreißen,
+Leider aber sollte dann schon die Aussage der Schneiderin,
+die neben Nordall in der Mansarde wohnte, dieses
+schlichte Gedankengebäude total einreißen,
 
 Die Schneiderin, sofort vernommen, sagte aus:
 
-»Ich hörte den Baron Nordall gegen halb zwölf heim
-kehren. Die Wand seines Arbeitszimmers ist gleichzeitig
+»Ich hörte den Baron Nordall gegen halb zwölf heimkehren.
+Die Wand seines Arbeitszimmers ist gleichzeitig
 die meines kleinen Schneiderateliers. Ich schnitt gerade
-Schurken zu und hörte den Baron hin und her gehen und vergnügt
+Blusen zu und hörte den Baron hin und her gehen und vergnügt
 <@pagebreak/>
 pfeifen. Ich nehme es auf meinen Eid, daß er seine
 Wohnung bis zwölf Uhr nicht verlassen hat, denn mit kurzen
-Unterbrechungen begann sein Pfeifkonzert immer wieder, Er
+Unterbrechungen begann sein Pfeifkonzert immer wieder. Er
 pflegte viel und sehr laut zu pfeifen, fast virtuosenhaft. Nach
 zwölf wurde es dann still bei ihm. Wenn also der Raub
 bei Frau Goulden etwa zehn Minuten vor zwölf ausgeführt
 wurde, kann der Baron nicht in Frage kommen.«
+
 Eine sofort vorgenommene Probe, ob das Pfeifen bei
 der Schneiderin drüben wirklich deutlich zu hören sei, bestätigte
 nur die Angaben der Modistin, die im übrigen noch
 betonte, daß sie weder einen Todesschrei noch Lärm, noch
-habe verdächtige Geräusche hier bei Nordall vernommen
+sonstwie verdächtige Geräusche hier bei Nordall vernommen
 habe.
 
-Muslim war es ausgeschlossen, daß Nordall bei Frau
+Mithin war es ausgeschlossen, daß Nordall bei Frau
 Goulden gewesen war.
-Und dann erschien auch schon der telephonisch herbel-Herufene
-Ernst von Lüttjen und erklärte nach genauer Des
-sihligung der Leiche, daß es sich trotz des durch; Hammerschläge
+
+Und dann erschien auch schon der telephonisch herbeigerufene
+Ernst von Lüttjen und erklärte nach genauer Besichtigung
+der Leiche, daß es sich trotz des durch Hammerschläge
 zerfetzten Gesichts unzweifelhaft um Nordall handele,
 Indem er auf dessen linke Hand hinwies, an der nicht nur
-seiner kostbare Ringe und der Wappenring der Nordall Sterling
+zwei kostbare Ringe und der Wappenring der Nordall steckten,
 sondern die auch auf dem Handrücken eine zackige Narbe
-Teufel.
-] Es war also auch ausgeschlossen, daß Nordall etwa einen
-Kissens ähnlich)en Mann hier ermordet hatte, um etwa für
-die Wesentlichen als tot zu gelten und mit seinem Rauhe
+aufwies.
+
+Es war also auch ausgeschlossen, daß Nordall etwa einen
+entfernt ähnlichen Mann hier ermordet hatte, um etwa für
+die Öffentlichkeit als tot zu gelten und mit seinem Rauhe
 ungestört flüchten zu können.
 
 Der Tote war Nordall. Sein Mörder aber — und das
 stellte sich durch telephonische Anfrage bei Frau Goulden
-Heraus — mußte der Räuber des Inhalts der Schmudkkassette
-ein denn die unter der Leiche gefundene Brillantbrosche
-störte Frau Goulden «…!! —
+Heraus — mußte der Räuber des Inhalts der Schmuckkassette
+sein denn die unter der Leiche gefundene Brillantbrosche
+gehörte Frau Goulden …! —
+
 Die Herren der Mordkommission und wir beide standen
-ter vor einem unlösbaren Rätsel …
-… Ein Rätsel, das noch dadurch dunkler wurde, daß Ernst
-on Füttern den taten Freund gegen Harsts Verdächtigungen
+hier vor einem unlösbaren Rätsel …
+
+Ein Rätsel, das noch dadurch dunkler wurde, daß Ernst
+von Lüttjen den toten Freund gegen Harsts Verdächtigungen
 <@pagebreak/>
-energisch und gereizt in Schulz nahm und wiederholt erklärte,
-Nordall sei der hier eilte, uneigennützigste Freund gewesen, den
-man sie) nur denken könne,
+energisch und gereizt in Schutz nahm und wiederholt erklärte,
+Nordall sei der treueste, uneigennützigste Freund gewesen, den
+man sich nur denken könne,
 
 Harald bat Lüttjen denn auch mit warmen Worten um
 Entschuldigung und gab ehrlich zu, daß all seine Kombinationen
 nicht gestimmt Hätten, wie er nun selbst einsehe.
 
-Und dann — = fand man in Nordalls Schreibtisch ein
+Und dann — — fand man in Nordalls Schreibtisch ein
 Testament, in dem der Baron die Hälfte seiner Habe Ernst
-von Lüttjen vernmadte, die andere Hälfte aber seinem anderen
-Freunde, dem Schriftsteller Edmund Orlik, Berlin W« Gobet—straße
+von Lüttjen vermachte, die andere Hälfte aber seinem anderen
+Freunde, dem Schriftsteller Edmund Orlik, Berlin W., Göbenstraße
 12, Gartenhaus rechts, vier Treppen. Dem Testament
 lag eine vom heutigen Tage datierte Urkunde bei, durch die
-Soldat das Unrecht »auf die 100000 Gulden im Falle seines
-vorzeitigen Ablebens gleichfalls an Schritt abtrat, im »Falle
+Nordall das Anrecht auf die 100&nbsp;000 Gulden im Falle seines
+vorzeitigen Ablebens gleichfalls an Orlik abtrat, im Falle
 seines späteren Todes aber sein Vermögen zur Hälfte Ernst
-von Lüttjen und dem Schriftsteller vormachte,
+von Lüttjen und dem Schriftsteller vermachte,
 
-Eine kanalartige Untersuchung der Räume förderte auch)
+Eine sorgfältige Untersuchung der Räume förderte auch
 nicht das Geringste zutage, was Nordall zum Maskieren
 hätte benutzen können, und so lag die Annahme denn nur zu
 nahe, daß der Mann, der um halb zwölf das Haus Augsburger
 Straße 21 betreten hatte, gar nicht Nordall gewesen sei
-zumal auch« ein brauner Handkoffer nicht gefunden wurde, den
-Nordall nach Harsts Wehmütig in der Rolle des buckligen
+zumal auch ein brauner Handkoffer nicht gefunden wurde, den
+Nordall nach Harsts Meinung in der Rolle des buckligen
 Straßenhändlers benutzt hatte. —
 
 Der Leser erkennt wohl aus dieser knappen Schilderung
 zur Genüge, daß dieses Problem in der Tat für Harald eine
-Ausgabe darstellte, die jetzt nach diesen völligen Fehlschlägen
+Aufgabe darstellte, die jetzt nach diesen völligen Fehlschlägen
 fast aussichtslos erschien, —
 
 Nachmittags um vier Uhr verließen Ernst von Lüttjen
-und wir beide die Mansarde, Unten auf der Straße bat
+und wir beide die Mansarde. Unten auf der Straße bat
 Lüttjen dann Harald nochmals, den Mörder seines Bruders
-und den Nordalls weiter zu suchen …«
+und den Nordalls weiter zu suchen …
 
 Harald hob mit einem stark verstimmten Gesicht die
 Schultern …
 
-»Schwere Sache, Baron …!! Suchen!! Wo, wie?! In
+»Schwere Sache, Baron …! Suchen!! Wo, wie?! In
 Nordalls Wohnung hat der Mörder keinerlei Spuren außer
 <@pagebreak/>
-der Brillantbrosche zurüFgelassen und außer der Mordwaffe,
-dem [Zweien Hammer, der Ihres Freundes Eigentum war …
+der Brillantbrosche zurückgelassen und außer der Mordwaffe,
+dem schweren Hammer, der Ihres Freundes Eigentum war …
 Trotzdem will ich nicht mutlos werden … Ich habe mich heute
 blamiert … Ich werde es nicht wieder tun … — Seien Sie
 im übrigen überzeugt, daß auch diese Ermordung Ihres Freundes
 mit den anderen Verbrechen eng zusammenhängt — —
 ganz eng … — Auf Wiedersehen …«
 
-Wir beide kehrten nun in unser eigentlich Heim nach
+Wir beide kehrten nun in unser eigentliches Heim nach
 der Blücherstraße zurück,
 
-Harst war still und in sich gekehrt»…
+Harst war still und in sich gekehrt …
 
 Wir wußten durch Lüttjen, daß der Schriftsteller Edmund
 Orlik ein altes Männchen war, dem der Baron Nordall es
 zu verdanken hatte, daß er bei einigen Redaktionen als Mitarbeiter
-angekommen war, — ein altes, Bedrohliches Mann«-
-dicken, das dort in der Göbenstraße ganz allein in zwei elenden
+angekommen war, — ein altes, gebrechliches Männchen,
+das dort in der Göbenstraße ganz allein in zwei elenden
 Stübchen hauste. Also kam auch Orlik nicht etwa als Mörder
 seines jüngeren Freundes Nordall in Betracht.
 
-Hierüber sprach) Harald abends, als wir wieder vor beim
+Hierüber sprach Harald abends, als wir wieder vor dem
 Kamin saßen.
 
 Harald qualmte eine Mirakulum nach der anderen …
@@ -1382,62 +1379,64 @@ Zuweilen schloß er die Augen und schien eingeschlafen
 zu sein …
 
 Dann sprang er wieder auf und lief im Zimmer hin und
-er …«
+her …
 
-? Und blieb so plötzlich vor meinem Sessel stehen … sagte
+Und blieb so plötzlich vor meinem Sessel stehen … sagte
 hart auflachend:
 
-»Blind sind sie — — blindltj«
+»Blind sind sie — — blind!!«
 
-»Wer 71«
+»Wer?!«
 
 »Du auch …! Eine Blindheit, an der Ernst von Lüttjen
 schuld ist …«
 
 »Inwiefern?!«
-»Welt er hoch und heilig versicherte, der Tote sei Nordall
-Der Tote heißt Max Burkhard«…:«
-Das war wieder einmal eine von Haralds »Bomben« …
-»- Und diesmal verfehlte sie ihre Wirkung nicht …
 
-Es gibt seinen Ausdruck, der mein Erstaunen auch nur
+»Weil er hoch und heilig versicherte, der Tote sei Nordall
+Der Tote heißt Max Burkhard …«
+
+Das war wieder einmal eine von Haralds »Bomben« …
+
+Und diesmal verfehlte sie ihre Wirkung nicht …
+
+Es gibt keinen Ausdruck, der mein Erstaunen auch nur
 <@pagebreak/>
 annähernd wiedergeben kann, als Harald einen Namen nannte,
 der mir insofern nicht ganz fremd, als es einen bekannten
 Musiker dieses Namens gibt …
 
 Harst fügte schon hinzu: »Ich habe die Zeitungen der
-stehlen vierzehn Tage durchgesehen, als du dich gegen fünf
+letzten vierzehn Tage durchgesehen, als du dich gegen fünf
 Uhr etwas aufs Ohr gelegt hattest … Ich fand eine Anzeige,
 in der eine Frau Helene Burkhard um Nachricht über ihren
 seit Tagen verschwundenen Mann, der Bankbeamter war, bat
-und dabei erwähnte, ihr Kram leide zuweilen an Gedächtnisschwäche,
+und dabei erwähnte, ihr Mann leide zuweilen an Gedächtnisschwäche,
 so daß er vielleicht irgendwo herumirre, ohne sich
-aus seinen Namen und seine Wohnung besinnen zu können.«
+auf seinen Namen und seine Wohnung besinnen zu können.«
 
 »Die Anzeige ist vor acht Tagen nur ein einziges Mal
 erschienen,« fuhr er nach kurzer Pause fort … »Das wichtige
 ist, daß die Beschreibung Burkhards auch die Angabe einer
 geschlängelten Narbe auf dem linken Handrücken enthält …
 — Wir wollen einmal, obwohl es bereits halb neun ist, zu
-Frau Burkhard nach der Wilmergdorfser Straße Nr. 9 fahren
-
-» Wir werden schon in das ’Haus hineingelangen. Wenn
+Frau Burkhard nach der Wilmersdorfer Straße Nr. 9 fahren
+… Wir werden schon in das Haus hineingelangen. Wenn
 Burkhard …«
 
 Ich unterbrach Harald …
 
-»Sehen wir da) mal erst im Fernsprechverzeichnis nach
-… Dietrich! hat Burkhard Telephon …«
+»Sehen wir doch mal erst im Fernsprechverzeichnis nach
+… Vielleicht hat Burkhard Telephon …«
 
-»Sehr gut … Daran habe ist) nicht gedacht, mein Alter.«
+»Sehr gut … Daran habe ich nicht gedacht, mein Alter.«
 
-Gleich darauf rief« er Burkhards Dummer an. Eine
+Gleich darauf rief er Burkhards Nummer an. Eine
 Frauenstimme meldete sich …
 
 »Nein — mein Mann ist nicht mehr in Berlin … Er
-hat mir einen Brief geschrieben, daß ihm das feinere Zu«-
-soammenlcben mit mir unmöglich sei … Er schickte mir fünftausend
+hat mir einen Brief geschrieben, daß ihm das fernere
+Zusammenleben mit mir unmöglich sei … Er schickte mir fünftausend
 Mark und ist nach Amerika gegangen. Ich will
 nichts mehr von ihm wissen. Er hat, wie er brutal zugab,
 eine Geliebte gehabt, die er mitgenommen hat … Ich kehre
@@ -1447,9 +1446,9 @@ Harst bedankte sich für die Auskunft und hängte ab …
 
 Wandte sich mir zu …
 
-»Glaubst du zu Amerika, mein Alter?«
+»Glaubst du an Amerika, mein Alter?«
 
-»Wein!«
+»Nein!!«
 
 <@pagebreak/>
 »Siehst du, da hast du den Beweis, daß Baron Nordall
@@ -1457,69 +1456,70 @@ auch diesen ihm entfernt ähnlich sehenden Mann in seine
 Netze gelockt hat, und daß er selbst mit der Beute, den Juwelen
 der Frau Goulden, entflohen ist … Ich habe den Beamten
 und Baron Lüttjen gegenüber nur so getan, als ob ich
-mich geirrt! hätte … Ich wußte schon in der Mansardenwohnung,
+mich geirrt hätte … Ich wußte schon in der Mansardenwohnung,
 daß der Tote nicht Nordall war, denn es war ja
-erstens zu auffällig, daß das Gesicht durch) Hammerschläge
+erstens zu auffällig, daß das Gesicht durch Hammerschläge
 derart zerstört war, und zweitens, daß ausgerechnet ein
-Etui des Raubes, die Brosche, unter der Leiche lag … Des
-derjenige, der in Vorhalle Wohnung so Bergung! gepfiffen hat,
+Stück des Raubes, die Brosche, unter der Leiche lag …
+Derjenige, der in Nordalls Wohnung so vergnügt gepfiffen hat,
 war Burkhard … Und als Nordall mit den Pretiosen heimkehrte,
 hat er ihn ermordet, nachdem Burkhard einen seiner
-Anzüge angezogen hatte. Nur: hart stand eben gleichfalls
-unter dem hypnotischen Einfluß dieses Verbrechers …
+Anzüge angezogen hatte. Burkhard stand eben gleichfalls
+unter dem hypnotischen Einfluß dieses Verbrechers …«
 
 Ich nickte nur …
 
 Dies alles erschien mir weit glaubhafter, als daß ein
 Fremder, der vorher bei Frau Goulden den großen Fischzug
-getan, dann mit der Beute Sir zu Nordall sollte begeben und
-den Baron gelötet haben sollte — — verstarb getötet, — —
+getan, dann mit der Beute sich zu Nordall sollte begeben und
+den Baron getötet haben sollte — — weshalb getötet, — —
 weshalb?!
 
 Harst war jetzt lebendig geworden …
 
-»Also Nordall existiert noch, mein Alter!« sagte er unter-nehmung&tustig.
-»Nordall jüngerer uns … Wir müssen abgekauft
-rechnen, daß er uns dauernd überwacht … Spielen wir
-hier das Licht brennen … Und begeben wir uns nach Wöben-straße
-12 … Diesen Orlik muß ich mir ansehen …’
+»Also Nordall existiert noch, mein Alter!« sagte er unternehmungslustig.
+»Nordall fürchtet uns … Wir müssen also
+damit rechnen, daß er uns dauernd überwacht … Lassen wir
+hier das Licht brennen … Und begeben wir uns nach Göbenstraße
+12 … Diesen Orlik muß ich mir ansehen …«
 
 Kaum war der Satz beendet, als draußen die Flurglocke
 schrillte …
 
-Ich) ging öffnen …
+Ich ging öffnen …
 
 Ein ärmlich gekleideter alter Herr stand vor mir …
 
-»Sie gestatten … Edmund Orlik heiße ich … Könnte ich.
-Herrn Harst sprechen 2«
+»Sie gestatten … Edmund Orlik heiße ich … Könnte ich
+Herrn Harst sprechen?«
 
-Ich mußte mich zusammennehmen, um meine Über
-Jahrgang zu verbergen …
+Ich mußte mich zusammennehmen, um meine Überraschung
+zu verbergen …
 
 <@pagebreak/>
 »Bitte, legen Sie ab, Herr Orlik, ich bin Max Schraut,
-Harsts Freund
+Harsts Freund …«
 
 Ich half ihm aus dem nassen, schäbigen Pelerinenmantel.
 
 Dann saß er zwischen uns vor dem Kamin … Trank ein
-Krach Portwein …
+Glas Portwein …
 
-Und — — ich wußte bestimmt; dieses armselige, jedoch«
-Uhr Männlein konnte niemals ein Verbündeter Nordalls sein.
+Und — — ich wußte bestimmt: dieses armselige, gebrechliche
+Männlein konnte niemals ein Verbündeter Nordalls sein.
 
-In diesen trüben alten Augen lag ein Ausdruck Kind
-Acker Güte …
+In diesen trüben alten Augen lag ein Ausdruck kindlicher
+Güte …
 
 Harst behandelte Orlik dann auch ganz so, als ob auch er
 jeden Verdacht gegen Nordalls Freund fallengelassen habe
-—» gegen Edmund Orlik, der nun unser Gast war …
+— gegen Edmund Orlik, der nun unser Gast war …
 
-Dar nun erzählte, weswegen er zu uns gekommen»…
+Der nun erzählte, weswegen er zu uns gekommen …
 
 <@pagebreak/>
-Die große Falle
+
+<h1>Die große Falle.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Der Mann unter dem Diwan.</h3>
@@ -1528,11 +1528,11 @@ Große Falle …
 
 Besser — eine groß angelegte Falle …
 
-» Anders war Tassilo Nordall scheinbar nicht zu greifen! —
+Anders war Tassilo Nordall scheinbar nicht zu greifen! —
 
-Dr — zunächst also Edmund Orlik …
+Doch — zunächst also Edmund Orlik …
 
-Er nahm auch) die dargebotene Zigarre dankbar an und
+Er nahm auch die dargebotene Zigarre dankbar an und
 sagte nach den ersten Zügen:
 
 »Ich kann mir keine Zeitung halten, meine Herren … Ich
@@ -1542,47 +1542,47 @@ gelesen haben. So erfuhr ich denn erst recht spät von der
 Ermordung Nordalls, meines Freundes und Wohltäters …
 Ja — Wohltäters, meine Herren … Denn die geringen
 Dienste, die ich dem Baron leisten durfte, hat er überreich
-vergolten, obwohl er selbst nicht viel übrig hat, Ich wäre
+vergolten, obwohl er selbst nicht viel übrig hat. Ich wäre
 vielleicht längst verhungert, wenn er sich meiner nicht angenommen
-hätte, und dies stets in so vornehmer, sorgfältiger
+hätte, und dies stets in so vornehmer, feinfühliger
 Art, daß ich mich nie durch diese Almosen irgendwie gedemütigt
 fühlte … — Ja, meine Herren, — wenn ein Mann
 von siebzig Jahren wie ich, dem man doch einige Menschenkenntnis
 zutrauen darf, so warm für einen jüngeren Freund
 eintritt, muß dieser Freund wohl Charaktervorzüge besitzen,
-die ihn über jeden Verdacht auch nur der geringsten unechten«-
-haften Handlung weit hinausheben Und um dies vor Ihnen
-beiden, die das den Baron so [Schwer beargwöhnt haben,
+die ihn über jeden Verdacht auch nur der geringsten unehren-
+haften Handlung weit hinausheben. Und um dies vor Ihnen
+beiden, die doch den Baron so schwer beargwöhnt haben,
 <@pagebreak/>
 besonders zu betonen, bin ich zu Ihnen gekommen. Ich hielt
-es einfach) für meine Pflicht, dem toten Freunde diesen Dienst
+es einfach für meine Pflicht, dem toten Freunde diesen Dienst
 zu erweisen — den letzten Liebesdienst …«
 
 Seine Stimme war schmerzlich bewegt … Sein gutes
-altes Gesicht Frühe eine Trauer aus, die tief zu Herzen ging.
+altes Gesicht drückte eine Trauer aus, die tief zu Herzen ging.
 
 Dann sprach er weiter: »Heute früh um halb acht war
-Nordall bei mir, — — ad, zum letzten Male! Er teilte mir
+Nordall bei mir, — — ach, zum letzten Male! Er teilte mir
 mit, daß er einen Zusatz zu seinem Testament gemacht habe
 — der Versicherungssumme wegen … Sie wissen ja Bescheid,
 meine Herren. — Er war sehr trübe gestimmt … Sagte
 unter anderem, daß er an Vorahnungen leide und daß er
 glaube, er werde nicht mehr lange leben … — Als er dann
-gegangen war, rate mich allmählicg eine unbestimmte Angst
+gegangen war, packte mich allmählich eine unbestimmte Angst
 … So gegen halb zwölf Uhr machte ich mich zum Ausgehen
 fertig und wanderte nach der Augsburger Straße. Es mag
-zwölf gewesen sein, als im dort anlangte … Ich schlenderte
+zwölf gewesen sein, als ich dort anlangte … Ich schlenderte
 unschlüssig vor dem Hause des Barons auf und ab … Vielleicht
 zehn Minuten. Dann entschloß ich mich doch, zu ihm
-nach) oben zu gehen … Auf der obersten Treppe begegnete mir
+nach oben zu gehen … Auf der obersten Treppe begegnete mir
 ein Herr, der von der Mansarde kam … Ich hatte noch eine
 Tür klappen gehört. Der Mann trug einen braunen Handkoffer
-und stutzte, als er mich Billigte … eilte dann auffällig
-rasch an mir vorüber. Sein Verhaften war scheu und ängstlich,
+und stutzte, als er mich erblickte … eilte dann auffällig
+rasch an mir vorüber. Sein Verhalten war scheu und ängstlich,
 und eine ungewisse Ahnung stieg da in mir auf, daß dieser
 Mann ein schlechtes Gewissen hätte …«
 
-»Konnten Sie uns den Mann genau beschreiben, Herr
+»Könnten Sie uns den Mann genau beschreiben, Herr
 Orlik?« fragte Harst gespannt. »Er war bärtig und trug
 wohl eine Brille?«
 
@@ -1591,9 +1591,9 @@ Orlik schüttelte den greisen Kopf.
 »Nein, Herr Harst … Der Herr war bartlos wie der
 Baron, hatte auch wohl eine ganz entfernte Ähnlichkeit mit
 ihm … ganz entfernt … Daran habe ich erst später gedacht,
-an. diese Ähnlichkeit. Wäre sie auffallender gewesen, so
+an diese Ähnlichkeit. Wäre sie auffallender gewesen, so
 hätte ich dies wohl sogleich bemerkt. Wie gesagt: mich machte
-nur das scheue Benehmen und die fluchtartige Eile aufmerksam«…«
+nur das scheue Benehmen und die fluchtartige Eile aufmerksam …«
 
 <@pagebreak/>
 »Und dann?« — Harald war sichtlich ungeduldig …
@@ -1601,46 +1601,46 @@ nur das scheue Benehmen und die fluchtartige Eile aufmerksam«…«
 »Dann läutete ich oben bei dem Baron … Niemand
 öffnete … Nur die Schneiderin nebenan schaute zu ihrer
 Flurtür heraus und rief mir zu, der Baron sei wohl ausgegangen.
-Sie kennt mich ja von Ansehen, die Fanden …«
+Sie kennt mich ja von Ansehen, die Lauter …«
 
-»Ah — Sie sprachen also mit der Sauber? — Das hat
+»Ah — Sie sprachen also mit der Lauter? — Das hat
 die Modistin bei ihrer Vernehmung anzugeben vergessen …
-—» I4) muß doch mal sehen, ob sie Telephon hat …«
+— Ich muß doch mal sehen, ob sie Telephon hat …«
 
-… Harst war ganz nervös geworden … Denn diese Angaben
+Harst war ganz nervös geworden … Denn diese Angaben
 Edmund Orliks, an denen kaum zu zweifeln war, warfen ja
 Haralds neueste Kombinationen abermals über den Haufen.
 
 Die Lauter hatte Fernsprechanschluß. Harald rief sie an.
 
-Und sie erklärte, daß sie bei eilten erneuten Vernehmung
-durch die Kriminalpolizei ihre Vergeßlichkeit, was den Besuch)
+Und sie erklärte, daß sie bei einer erneuten Vernehmung
+durch die Kriminalpolizei ihre Vergeßlichkeit, was den Besuch
 des Schriftstellers Orlik betraf, schon ausgeglichen habe …
 Abends sieben Uhr sei sie erneut vernommen worden, —
 
-Harst hängte ab und setzte sich wieder, Seine Stirn lag
-in Falten. Ich merkte, wie schwer ihn dieser harte Flog
+Harst hängte ab und setzte sich wieder. Seine Stirn lag
+in Falten. Ich merkte, wie schwer ihn dieser harte Schlag
 traf, daß er wiederum einsehen mußte, sich geirrt zu haben.
 Es war ja nun so gut wie erwiesen, daß der Mörder des
 Barons der Bankbeamte Burkhard gewesen war, — wenigstens
-war ich hiervon überzeugt
+war ich hiervon überzeugt ...
 
-Dann Ah Harald zu dem alten Männlein:
+Dann sagte Harald zu dem alten Männlein:
 
 »Herr Orlik, Sie müssen unbedingt sofort der Kriminalpolizei
 Ihre Beobachtungen mitteilen …«
 
-»Das wollte im auch,« Kiste Orlik. »Und Sie beide wollte
+»Das wollte ich auch,« nickte Orlik. »Und Sie beide wollte
 ich bitten, mich zu begleiten …«
 
-»Gern … Brechen wir auf …—
+»Gern … Brechen wir auf …" —
 
-Und so fuhren wir den im Mute zum Alexanderplatz,
-wo wir im Polizeipräsidium den Kriminalkommissar Dr. Tür
-der voll antrafen. Der Leser kann sich unschwer vorstellen,
+Und so fuhren wir denn im Auto zum Alexanderplatz,
+wo wir im Polizeipräsidium den Kriminalkommissar Dr. Lü-
+der noch antrafen. Der Leser kann sich unschwer vorstellen,
 wie wichtig auch ihm nun die Aussage Orliks erschien, die
 Harald noch dahin ergänzte, daß dieser Mann mit dem braunen
-Handkoffer, der dem Baron Nordall entfernt ähnlich) sah,
+Handkoffer, der dem Baron Nordall entfernt ähnlich sah,
 wohl zweifellos der Mörder des Barons und der Dieb der
 Juwelen der Frau Goulden gewesen sein müsse.
 
@@ -1653,8 +1653,8 @@ diese Vermutung also völlig aufgegeben,
 
 Nach einer halben Stunde verabschiedeten wir uns wieder
 von Doktor Lüder und brachten den alten Schriftsteller im
-Auto nach) der Göbenstraße zurück, wo Harst ihm noch schnell
-einen größeren Geldbetrag in die Hand drückte, ’Dann rollte
+Auto nach der Göbenstraße zurück, wo Harst ihm noch schnell
+einen größeren Geldbetrag in die Hand drückte. Dann rollte
 das Auto mit uns wieder davon — der Blücherstraße zu …
 
 Und jetzt mußte ich erkennen, wie falsch meine Kombinationen
@@ -1662,103 +1662,103 @@ hinsichtlich Burkhards gewesen waren, denn als ich
 nun sehr eifrig für meine Überzeugung eintrat, daß Burkhard
 der Mörder Nordalls gewesen, da meinte Harald kühl:
 
-— »Mein lieber Alter, du vergißt gänzlich, daß ich Burkhards
+»Mein lieber Alter, du vergißt gänzlich, daß ich Burkhards
 Person nur in diesen Fall mit hineingezogen habe, weil
 er auf der Hand die geschlängelte Narbe hat … Alles weitere,
-— seine Schalteten mit Nordall — war ja nur eine Vermutung
-von mir … Und diese Verantwortung ist nunmehr hinfällig.
+— seine Ähnlichkeit mit Nordall — war ja nur eine Vermutung
+von mir … Und diese Vermutung ist nunmehr hinfällig.
 Allerdings nur so lange, bis wir Frau Helene Burkhard
 eine Photographie Nordalls vorgelegt haben … Wenn
 Frau Burkhard dann erklärt, daß eine gewisse Ähnlichkeit
-vorläge, dann erst bist du vielleicht im Recht …»’
+vorläge, dann erst bist du vielleicht im Recht …»
 
 Was ich nun ohne weiteres auch einsah … —
 
-Halb zwölf war’s, als wir wieder in Haralds Arbeitet
+Halb zwölf war’s, als wir wieder in Haralds Arbeits-
 Zimmer vor dem Kamin Platz nahmen …
 
 Ich zündete mir eine Zigarre an …
 
-Harst lag, die V’ine weit vorgestreckt, im Klubsessel …
+Harst lag, die Beine weit vorgestreckt, im Klubsessel …
 die Augen geschlossen …
 
-Wi« schwiegen»…
+Wir schwiegen …
 
-Dann bemerkte ich, daß Harald durch die fast ganz gen
-Schloßherrn Lider dauernd nach einer Folge des Perserteppich
+Dann bemerkte ich, daß Harald durch die fast ganz geschlossenen
+Lider dauernd nach einer Ecke des Perserteppich
 hin blinzelte … Und mit einem Male sagte er ganz laut:
 
 »Ja, mein Alter, nun müssen wir also ganz von vorn
 anfangen. Alles, was ich mir zusammengereimt hatte, ist
-falsch) — alles … Der Baron Nordall ist tot, und es heißt
+falsch — alles … Der Baron Nordall ist tot, und es heißt
 <@pagebreak/>
 nun, den Hauptmacher dieses Kranzes von unheimlichen Verbrechen
 aufzuspüren … Dabei bleibe ich: ein einzelner Mann
 kommt in Betracht, einer, der mehr kann wie wir, einer, der
 unserer Künste spottet, einer, der einst in den Annalen der
-Kriminoalgeschichte als ein Genie blutigster Art genannt werden
-wirdt’
+Kriminalgeschichte als ein Genie blutigster Art genannt werden
+wird!"
 
 Und nach kurzer Pause:
 
-»Wir fällt gerade ein, daß mir vorhin mein Zigarettenetui
+»Mir fällt gerade ein, daß mir vorhin mein Zigarettenetui
 hinter den Diwan gerutscht ist … Hilf mir mal den
 Diwan von der Wand abrücken …«
 
-Ich wollte erstaunt herausplaßen, daß das Zigarettenetui
-das vor uns auf dem Rauchtischchen liege … Aber Harst
+Ich wollte erstaunt herausplatzen, daß das Zigarettenetui
+doch vor uns auf dem Rauchtischchen liege … Aber Harst
 hatte schon mit bedeutungsvollem Blick den Zeigefinger auf
 die Lippen gelegt …
 
 Jetzt … ging mir ein Licht auf …
 
-Ich Wüste scharf nach der Jeppichecke hin … Da lag
+Ich blickte scharf nach der Teppichecke hin … Da lag
 ein Häuflein Straßenschmutz, ganz naß, mit Schnee vermischt.
 
 Ich begriff …
 
 Hier hatte sich jemand eingeschlichen …
 
-Und — falls!e Haralds Beispiel, nahm die Clement! aus
-der Schlüsseltasche … Dann … rufen wir den Diwan ab.
+Und — folgte Haralds Beispiel, nahm die Clement aus
+der Schlüsseltasche … Dann … rückten wir den Diwan ab.
 
-Und »… darunter lag ein kleiner, magerer Strolch,
+Und … darunter lag ein kleiner, magerer Strolch,
 
 Erhob sich …
 
 Noch nie habe ich ein so erbärmliches Geschöpf gesehen
-wie diesen Menschen, in dessen Augen das Diebe Dr Schwinden
+wie diesen Menschen, in dessen Augen das Fieber der Schwind-
 sucht flackerte, der nur Lumpen auf dem Leibe trug, dessen
 Gesicht nur aus Haut und Knochen bestand …
 
-Trällernd winselte er jetzt um Erbarmen …
+Zitternd winselte er jetzt um Erbarmen …
 
 »Nur nicht die Polizei … Ich … will auch alles wieder
 herausgeben, alles …« Und mit bebenden Händen brachte
-er aus seinen Lumpen verschiedene Silbersacgen zum Vorschein:
+er aus seinen Lumpen verschiedene Silbersachen zum Vorschein:
 Aschbecher, Zigarrenlämpchen, Harsts Brieföffner in
-CEdlangensform mit den Diamantenaugen …
+Schlangenform mit den Diamantenaugen …
 
-»Wie sind Sie hier hineingelangt?’ fragte Harald nicht
-gerade unfreundlich) …
+»Wie sind Sie hier hineingelangt?" fragte Harald nicht
+gerade unfreundlich …
 
 <@pagebreak/>
-»Durch das Schlafzimmer dort — vom Zofe aus … Die
-Fenster. standen halb offen …«
+»Durch das Schlafzimmer dort — vom Hofe aus … Die
+Fenster standen halb offen …«
 
 »Wie heißen Sie?«
 
 »Gustav Lobbert, Herr … Ich habe … mal bessere Tage
-gesehen … Ich war Buchhalter … Dann bekam Ad) die
+gesehen … Ich war Buchhalter … Dann bekam ich die
 Schwindsucht … Und nun bin ich seit einem Jahr …
 Bettler …«
 
 Er schluchzte …
 
-Duft) seine jährliche Jacke und das zerrissene Hemd sah
-ich die eingefallene Brust … Tänzelnd atmete der Mann
+Duch seine löcherige Jacke und das zerrissene Hemd sah
+ich die eingefallene Brust … Röchelnd atmete der Mann
 jetzt vor Erregung … Zitterte, daß ihm die Zähne im Munde
-klapperten
+klapperten ...
 
 Harst sagte zu mir: …
 
@@ -1771,13 +1771,13 @@ sollen Sie haben …«
 
 Ich ging in meine Räume hinüber …
 
-Rad) einer Viertelstunde saß Lobbert am warmen Kamin
+Nach einer Viertelstunde saß Lobbert am warmen Kamin
 und aß und trank — aß nicht, nein, schlang das, was Harald
-aus der Kühe geholt hatte, voller Gier hinab …
+aus der Küche geholt hatte, voller Gier hinab …
 
 Ich mußte inzwischen im Stalle das kleine Stübchen, das
 eigentlich für den Kutscher bestimmt war, der uns freilich
-fehlte, da auch Pferd und Wagen nicht vorhanden, grüidlich
+fehlte, da auch Pferd und Wagen nicht vorhanden, gründlich
 heizen … Der eiserne Ofen erwärmte den Raum in kurzem,
 und Bett und schlichte Möbel waren vorhanden …
 
@@ -1786,7 +1786,7 @@ neues Heim,
 
 Lobbert meinte vor Freude …
 
-Wir verließen ihn und betrafen wieder das Haus
+Wir verließen ihn und betraten wieder das Haus ...
 
 Das Unwetter dauerte noch immer an …
 
@@ -1799,17 +1799,18 @@ wird uns eine Spur finden lassen …«
 Also das war’s!
 
 <@pagebreak/>
-Harst rechnete damit, daß Lobbert das Stoffhüllen
+Harst rechnete damit, daß Lobbert das Stallstübchen
 sehr bald wieder preisgeben würde … Daß Lobbert ein
 Spion des großen Unbekannten sei … daß wir durch Lobbert
 vielleicht diesen vielfachen Mörder aufstöbern könnten …! —
 
-Maske acht …; bessere Arbeiter!
+Maske acht …: bessere Arbeiter!
 
 Maske acht war fertig …
 
-Und wir dann durch) Harsts Schlafzimmerfenster in den
+Und wir dann durch Harsts Schlafzimmerfenster in den
 Hof …
+
 In den leeren Kaninchenstall …
 
 Erst gegen zwei trat das ein, was Harald vermutet hatte.
@@ -1822,18 +1823,18 @@ Er drückte sie wieder zu …
 
 Das Schneetreiben hatte gerade für Minuten ausgesetzt.
 
-Wie ließen Lobbert Vorsprung …
+Wir ließen Lobbert Vorsprung …
 
-Du den Gemüsegarten schlich er … Auf den Fahrweg
+Durch den Gemüsegarten schlich er … Auf den Fahrweg
 zwischen den Gärten und dem Laubengelände … Schlich der
 Blücherstraße zu …
 
 Das Schneetreiben begann wieder …
 
-Lobbert schaute sie) immer wieder um … Aber wir
+Lobbert schaute sich immer wieder um … Aber wir
 waren vorsichtig …
 
-So ging’s denn naß Halensee zu, über die Halenseer
+So ging’s denn nach Halensee zu, über die Halenseer
 Brücke, hinein in die Villenkolonie Grunewald …
 
 Und hier in der Hubertusallee … kletterte Lobbert über
@@ -1847,45 +1848,45 @@ Villengrundstücke …
 Wir hatten gerade noch gesehen, daß im Erdgeschoß der
 Villa zwei Fenster hell geworden waren …
 
-Lobbert hatte also die Villa betreten, denn« auf den
+Lobbert hatte also die Villa betreten, denn auf den
 Fenstervorhängen hatte sich einen Augenblick die Figur des
-Ed,;windsüchtigen als Schatten deutlich) abgezeichnet …
+Schwindsüchtigen als Schatten deutlich abgezeichnet …
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>Der Stahlschrank.</h3>
 
-Als wir nach Hause kamen, war Harz!los erster Gang zum
+Als wir nach Hause kamen, war Haralds erster Gang zum
 Schreibtisch … zum Berliner Adreßbuch …
 
-Er suchte nach dem Bewohner der Villa HubertiutLallee 88,
-Grunewald»…
+Er suchte nach dem Bewohner der Villa Hubertusallee 88,
+Grunewald …
 
-Las mir dann vor: »Wirklichen Geheimer Rat, Exzellenz
-Graf Max v. Schönborn, Unterstaatssekretär a, D. — Johanna
-Viereck, Wirtschafterin. — Gustav Lobbert, Diener und
+Las mir dann vor: »Wirklicher Geheimer Rat, Exzellenz
+Graf Max v. Schönborn, Unterstaatssekretär a. D. — Johanna
+Miseck, Wirtschafterin. — Gustav Lobbert, Diener und
 Gärtner.«
 
-(ist hatte wieder einmal Gelegenheit, regelrecht platt
+Ich hatte wieder einmal Gelegenheit, regelrecht platt
 zu sein …
 
-Lobbert, Diener bei einer Exzellenz!! Unglaublich ich
+Lobbert, Diener bei einer Exzellenz!! Unglaublich --!!
 
 Harst pfiff das berühmte Lied:
 
-Ah wie [so trügerisch sind Frauenherzen …
+> Ach wie so trügerisch sind Frauenherzen …
 
 Aber hier mußte man das »Frauenherzen« notwendig
 in »verkleidete herrschaftliche Diener« umändern …
 
 Und ich fragte:
 
-»Meinst du wirklich) …?«
+»Meinst du wirklich …?«
 
 Und er:
 
-»Ich meine, daß wir nun abermals einen Schritt porwärtge-gekommen
+»Ich meine, daß wir nun abermals einen Schritt vorwärtsgekommen
 sind, daß wir aber diesen Schritt nicht wieder
 nach rückwärts zu tun brauchen wie bisher! Diesmal haben
 wir einen Erfolg zu verzeichnen! Dieser Lobbert war ein
@@ -1894,7 +1895,7 @@ Er hätte sich unfehlbar sagen müssen, daß wir den Stall
 längere Zeit beobachten würden … Er hätte unfehlbar bis
 zum Morgen warten sollen, ehe er wieder auskniff!«
 
-»Hm — — aber es ist das wohl ausgeschlossen, daß diese
+»Hm — — aber es ist doch wohl ausgeschlossen, daß diese
 Exzellenz aus Nr. 88 etwa …«
 
 »Bitte — abwarten! Keine vorschnellen Schlüsse … Abwarten
@@ -1904,25 +1905,25 @@ gründlich durchsuchen … Denn der Kerl hat womöglich nicht
 Nur den Auftrag gehabt, uns zu belauschen, sondern auch …
 — wir werden ja sehen!«
 
-Und wir … sahen »A!
+Und wir … sahen ...!!
 
 Sahen, daß es uns kalt überlief …
 
 Sowohl in Harsts Bett als auch in dem meinen fanden
 wir unter dem Laken, gerade dort, wo die menschliche Kehrseite
 hingehört, je ein Stück Pappe von Handgröße, in dem
-kleine Stecknadeln, die Spitzen nach oben, bereits! waren.
+kleine Stecknadeln, die Spitzen nach oben, befestigt waren.
 
 Und diese Spitzen zeigten sich mit einer dünnen bräunlichen
 Masse überzogen — wie lackiert …
 
-Die chHzemisch)e Untersuchung dieses Ueberzuges ergab, daß
-es sie) um das berüchtigte, blitzartig wirkende Nervengift
+Die chemische Untersuchung dieses Überzuges ergab, daß
+es sich um das berüchtigte, blitzartig wirkende Nervengift
 Curare handelte …
 
 Weiter fanden wir nichts …
 
-Es genügte auch!! Hätten wir uns in diese Betten gefegt,
+Es genügte auch!! Hätten wir uns in diese Betten gelegt,
 so würden wir keinen Arzt mehr gebraucht haben …
 
 Harst schloß die beiden Pappstücke sorgsam in den Geldschrank
@@ -1933,11 +1934,11 @@ wunderbar gemütlich, so wie aus Urgroßmutters Zeiten, als
 die Herren Verbrecher noch nicht so großzügig und vielseitig
 wie heute waren!
 
-Ruhe?! Nachts dem Funde dieser PappstüFe?! — Wir
+Ruhe?! Nach dem Funde dieser Pappstücke?! — Mir
 war’s, als ob mein Laken geradezu mit Nadeln gespickt wäre
-… I4 wälzte mich hin und her, her und hin … Ich
+… Ich wälzte mich hin und her, her und hin … Ich
 wurde immer nervöser … immer heißer wurde mir’s …
-Ich schaltete die Nachvyttischlampe wieder ein … Halb vier
+Ich schaltete die Nachttischlampe wieder ein … Halb vier
 morgens …
 
 schließlich hielt ich es im Bette nicht mehr aus …
@@ -1947,24 +1948,24 @@ Es war halb fünf geworden …
 Ich befand mich wie im Fieber …
 
 Ich zog den Schlafrock an, schlüpfte in die warmen
-Morgenschuhe und sch4lich über den Flur in Haralds Ars-beitgzimmer
+Morgenschuhe und schlich über den Flur in Haralds Arbeitszimmer
 …
 
 Arbeitszimmer?!
 
-Meist — heute eine Räucherkammer …
+Nein — heute eine Räucherkammer …
 
 <@pagebreak/>
-Poller Zigarettenqualm»…
+Voller Zigarettenqualm …
 
 Und vor dem Kamin Harst im Klubsessel …
 
-Empfing mit … »Na, auch nicht geschlafen, wer«
-Alter 21«
+Empfing mich … »Na, auch nicht geschlafen, mein
+Alter ?!«
 
-»Sein — — keine Rede …ck«
+»Nein — — keine Rede …!«
 
-Und ich; warf mich in den zweiten Sessel …
+Und ich warf mich in den zweiten Sessel …
 
 »Der Graf benahm mir die Ruhe,« versuchte ich zu
 scherzen …
@@ -1980,7 +1981,7 @@ Meinte: »Wieder der … Mann mit den Augen …«
 
 »Oh — der ist nie aus dem Spiel ausgeschieden … Mag
 vieles falsch gewesen sein, was ich annahm: dieser Mann
-Weibe »Nur durch) Hypnose hat er seine Puppen dirigiert,
+bleibt! Nur durch Hypnose hat er seine Puppen dirigiert,
 nur so!«
 
 Ich konnte nur mein haarloses Haupt schütteln …
@@ -1989,20 +1990,20 @@ Ich konnte nur mein haarloses Haupt schütteln …
 all deine Kombinationen nicht stimmten, daß wir ganz von
 vorn wieder anfangen müßten!«
 
-— »Na — so wörtlich war das nicht zu nehmen — durchaus
+»Na — so wörtlich war das nicht zu nehmen — durchaus
 nicht! Ich habe mich durch den Zwischenfall Orlik verblüffen
-lassen … Das war eine Torheit … Wenn Orlik auch) behauptet
+lassen … Das war eine Torheit … Wenn Orlik auch behauptet
 hat, daß der Mann, der ihm auf der Treppe begegnete,
 nur eine ganz entfernte Ähnlichkeit mit Baron
-Nordall gehabt hat: Nordall kann sich) durch kleine Kunstgriffe
+Nordall gehabt hat: Nordall kann sich durch kleine Kunstgriffe
 für die matten Augen das alten Herrn genügend verwandelt
 haben — — du verstehst!«
 
 Jetzt war ich vollkommen munter … Mein Hirn war
-lebendig wie nach einer gut durchschlafenen Naht …
+lebendig wie nach einer gut durchschlafenen Nacht …
 
 »Wie!« rief ich, »du bist jetzt wieder zu deiner alten
-Theorie zurüsgekehrt, daß Nordall lebt?!«
+Theorie zurückgekehrt, daß Nordall lebt?!«
 
 »Ja …!! Denn ich habe den »Zwischenfall« Orlik richtig
 einschätzen gelernt … Ich weiß jetzt, daß Nordall gestern
@@ -2011,41 +2012,41 @@ früh halb acht nur deshalb seinen »Freund« in der Göbenstraße
 aufsuchte, weil er eben Orlik … hypnotisieren wollte,
 was er fraglos schon öfters getan hat … Er hat ihn hypnotisiert
 und ihm in der Hypnose den Befehl gegeben,
-mittags zu einer bestimmten Zeit die Treppen … emporzu-steigen.
-So schlug er sich einen Zeugen dafür, daß ein Fremder,
+mittags zu einer bestimmten Zeit die Treppen emporzusteigen.
+So schuf er sich einen Zeugen dafür, daß ein Fremder,
 der ihm nur ganz entfernt ähnlich sah, mit dem Koffer
 in ängstlicher Weise das Haus verließ …«
 
-»Donnerwetter, — — das hat Hand und Flucht«
+»Donnerwetter, — — das hat Hand und Fuß!!«
 
 »Ja, — und daß Nordall nun auch den Lobbert zu
-uns schickte, hat aunch4 Hand und Fuß!! Nur hat er diesmal,
-als er Tellers hypnotisierte, einen groben Fehler gemacht
+uns schickte, hat auch Hand und Fuß!! Nur hat er diesmal,
+als er Lobbert hypnotisierte, einen groben Fehler gemacht
 … Er vergaß seinem Medium zu befehlen, seinen wahren
-Namen zu verschweigen … Und das wird ihm das Gen!
-brechen.«.! Er rechnete damit, daß Lobberts kläglicher Aufzug
-uns rühren würde, Das stimmte zum Schein. Ich
+Namen zu verschweigen … Und das wird ihm das Genick
+brechen ...! Er rechnete damit, daß Lobberts kläglicher Aufzug
+uns rühren würde. Das stimmte zum Schein. Ich
 spielte den Mitleidigen. Und nun wird Baron Tassilo
 Nordall überzeugt sein, daß wir nicht ahnen, wer der Attentäter
-war, — es sei denn, daß er ihn beim gründlichen Aus«-
-hinausragen Ruhe danach4 inquiriert, ob wir Lobberts8s Namen zu
+war, — es sei denn, daß er ihn beim gründlichen Ausfragen
+auch danach inquiriert, ob wir Lobberts Namen zu
 wissen verlangt hätten … Wenn dem so ist, dann wird
 Nordall sich natürlich am liebsten seiner Dummheit wegen
 backpfeifen mögen …«
 
 Um halb sieben versuchten wir dann zum zweiten Male
-Abblasen zu gehen — einzuschlafen …
+schlafen zu gehen — einzuschlafen …
 
 Diesmal gelang’s … —
 
 Halb zehn war’s, als jemand mich rüttelte …
 
-Harst stand vor meinem Welt — fertig angezogen …
+Harst stand vor meinem Bett — fertig angezogen …
 
 Und sagte eigentümlich langsam:
 
 »Denke dir: Lobbert ist wieder da!! Er tut so, als habe
-er sein Stoffhüllen gar nicht verlassen …!’
+er sein Stallstübchen gar nicht verlassen …!"
 
 Das wirkte …
 
@@ -2054,103 +2055,103 @@ ich fuhr mit den Beinen aus dem Bett …
 »Hast du ihn denn nicht der beiden Pappstücke wegen ins
 Gebet genommen?!« …
 
-»Natürlich …? Unter Tränen schwor er, daß er niemals
+»Natürlich …! Unter Tränen schwor er, daß er niemals
 <@pagebreak/>
-zu solchem Tun fähig wäre!! Niemals!! — Natürlich schwor.
+zu solchem Tun fähig wäre!! Niemals!! — Natürlich schwor
 er im guten Glauben, da er Ja in Hypnose gehandelt hat
 und ihm sein »Meister« befohlen hat, alles zu vergessen,
 was er als »Medium« ausführte … — Merkst du, weshalb
-Nordall ihn zurü&geshic?! hat? Natürlich) nur deshalb,
-weil er ist eben ausgefragt und [so seinen Fehler erkannt
-bat! Nur deshalb1t«
+Nordall ihn zurückgeschickt hat? Natürlich nur deshalb,
+weil er ihn eben ausgefragt und so seinen Fehler erkannt
+hat! Nur deshalb!!«
 
-Seht saß auf dem Bettrand und rieb mir die Stirn …
+Ich saß auf dem Bettrand und rieb mir die Stirn …
 
-Hinter dieser Stirn sah’s wie in einem Dienerhaus aus,
+Hinter dieser Stirn sah’s wie in einem Bienenhaus aus,
 
-»Dann … dann müßte Nordall also by Erzeollenz Schöne
-Dorn wohne! …! Harald, hältst div das für möglich?!«
+»Dann … dann müßte Nordall also bei Exzellenz Schönborn
+wohnen …! Harald, hältst du das für möglich?!«
 
-»Rein!«
+»Nein!«
 
 »Oder Schönborn müßte mit Nordall identisch sein …«
 
-»Auch) nicht möglich, mein Alter! Denn ich habe mich
+»Auch nicht möglich, mein Alter! Denn ich habe mich
 bei dem Gemeindevorsteher der Kolonie Grunewald, den ich
-persönlich) als verschwiegen kenne, soeben mag dem Grafen
+persönlich als verschwiegen kenne, soeben nach dem Grafen
 erkundigt. Antwort: ein alter Herr, halb gelähmt, wird
-nur im Verlust gefahren, wohnt seit fünfzehn Jahren dort
-Nr. 88 …
+nur im Rollstuhl gefahren, wohnt seit fünfzehn Jahren dort
+Nr. 88 …"
 
 Ich … rieb mir noch kräftiger die Stirn …
 
-»Himmel, da finde sich ein anderer heraus!!?«
+»Himmel, da finde sich ein anderer heraus!!«
 
-»Ja — ein schweres Problem, Max Schraut »… Vielleicht
-hat unser Stallibewohner sich den Namen Lobbert zu Unrecht
+»Ja — ein schweres Problem, Max Schraut … Vielleicht
+hat unser Stallbewohner sich den Namen Lobbert zu Unrecht
 zugelegt. Vielleicht gibt es auch mehrere Gustav Lobbert,
-Vielleicht hat unser Lobbert auch) die Dir: gar nicht betreten,
+Vielleicht hat unser Lobbert auch die Villa gar nicht betreten,
 sondern den Garten nur als Durchweg nach einem anderen
 Grundstück benutzt … Vielleicht …«
 
-»Soll — wir [ her doch den Schatten auf den Noch na nk«
+»Halt — wir sahen doch den Schatten auf den Vorhängen!«
 
-»Längst du beschwören, daß es Lobberts Schaffner wart«
+»Kannst du beschwören, daß es Lobberts Schatten war?!«
 
-»Im — — allerdings nicht!«
+»Hm — — allerdings nicht!«
 
 »Nun also … Es bleibt also als einzige Lösung: unser
 Lobbert hat ein anderes Grundstück aufgesucht!!«
 
 Ich blieb stumm …
 
-»Sieh’ dich an,« sagte Harald. »Das Frühstück steht bereit
+»Zieh’ dich an,« sagte Harald. »Das Frühstück steht bereit
 … Und dann werden wir Lobbert auf andere Art ins
-Gebet nehmen)«
+Gebet nehmen!«
 
 <@pagebreak/>
-Ins Gebet nehmen!! Ich wußte, wie … Harst war 1a
-selbst ein tadelloser Hypnotiseur … Er wollte seine Wi !«getrost
-gegen die des Baron -Nordall ausspielen … w sie
+Ins Gebet nehmen!! Ich wußte, wie … Harst war ja
+selbst ein tadelloser Hypnotiseur … Er wollte seine Willenskraft
+gegen die des Baron Nordall ausspielen … wollte
 versuchen, ob er auf diese Weise vielleicht der Wahrheit
 näher käme!
 
-». sollte nicht sein …
+Es ... sollte nicht sein …
 
 Als wir nach dem Frühstück in den Stall gingen und
-Lobbert auf diese besondere Wisse vc hören w!! 1, fanden
-wir ihn Kot auf — — vergiftet … mit enijetztiua) verzerrtem
+Lobbert auf diese besondere Wisse verhören wollten, fanden
+wir ihn tot auf — — vergiftet … mit entsetzlich verzerrtem
 Gesicht …
 
 Auf dem Tische ein Zettel …
 
-Eine zitterige sich ihr Sagt’s- ist …
+Eine zitterige kindliche Handschrift ...
 
-Ich ertrage dies erb. irmlicdye So en nicht lästiger … Ich
-Heiße gar nicht Gustav Halbe 1 … Mag man in.) nantenlos
-verscharren, Ihnen, Herr Harst, danke ich von ganzem
+> Ich ertrage dies erbärmliche Leben nicht länger … Ich
+Heiße gar nicht Gustav Lobbert … Mag man mich namenlos
+verscharren. Ihnen, Herr Harst, danke ich von ganzem
 Herzen …
 
-las war unseres Siallbewohners Ab’chiedsögruß.
+Das war unseres Stallbewohners Abschiedsgruß.
 
-Wir rices’n die B ’Uzei an.
+Wir riefen die Polizei an.
 
-Harst teilte den Beamten das Rüstige mit, — aber sein
+Harst teilte den Beamten das Nötige mit, — aber kein
 Wort von Nr. 88, kein Wort von den beiden Pappstücken,
-sein Wort, daß er diesen Selbstmord für »künstlich« hielt,
-für die Befolgung eines hycknotischen Befehls.
+kein Wort, daß er diesen Selbstmord für »künstlich« hielt,
+für die Befolgung eines hypnotischen Befehls.
 
 Der Tote wurde weggeschafft …
 
-Wir hatten den Toten. photographiert, bevor wir die
-Polizei geraten hatten, Wir entwischten die drei Platten
+Wir hatten den Toten photographiert, bevor wir die
+Polizei gerufen hatten. Wir entwickelten die drei Platten
 und stellten von der besten fünf Abzüge her … —
 
-Mittlerweile war es ein Uhr Bewerbern,
+Mittlerweile war es ein Uhr geworden.
 
 Da … kam Besuch …
 
-Ein Auto hielt vor unserem Vorgarten»…
+Ein Auto hielt vor unserem Vorgarten …
 
 Wir staunten …
 
@@ -2166,16 +2167,16 @@ Braut vor!
 
 <@pagebreak/>
 »Wissen Sie, Herr Harst,« meinte er lächelnd, »heute
-früh habe im mir mein Benehmen gründlich überlegt —
-meine … Beheimatet Tessa gegenüber! Im Grunde habe
+früh habe ich mir mein Benehmen gründlich überlegt —
+meine … Bockbeinigkeit Tessa gegenüber! Im Grunde habe
 ich sie ja längst geliebt … Und da bin ich denn einfach nach
-dem Bristol gefahren, habe mir einen Busch; rote Rosen
+dem Bristol gefahren, habe mir einen Busch rote Rosen
 mitgenommen — und alles übrige kam von selbst! Tessa
 hat mir’s nicht schwer gemacht …«
 
-Und Frau Goulden sagte mit reizender BVersHämtheit:
+Und Frau Goulden sagte mit reizender Verschämtheit:
 
-»Der Ernst war ein ganz törichter Fuß, Herr Harst …
+»Der Ernst war ein ganz törichter Bub, Herr Harst …
 Ich habe ihm wahrhaftig nachlaufen müssen … Aber jetzt
 tut’s mir nicht leid — gar nicht leid … Jetzt habe ich auch
 den Verlust meiner Juwelen verschmerzt … Was bedeutet
@@ -2183,33 +2184,33 @@ der Verlust einer Million, wenn man am nächsten Tage
 einen … Schatz findet!«
 
 Eine prächtige Frau, diese Tessa! Der Baron Lüttjen
-war direkt zu beneiden?! —
+war direkt zu beneiden!! —
 
 Wir setzten unseren Gästen Wein vor, stießen auf das
-Wohl des Brautpaares nun …
+Wohl des Brautpaares an …
 
-Und dann begann Frau Goulden mit: ihrem Anliegen
+Und dann begann Frau Goulden mit ihrem Anliegen
 herauszurücken …
 
 »Lieber Herr Harst, ich möchte hier nach Deutschland für
-immer übersiedeln und für Brust und mich ein großes Gut
+immer übersiedeln und für Ernst und mich ein großes Gut
 kaufen, vielleicht so einen alten herrschaftlicher Besitz mit
-Strich und Park … Ernst weiß nun, daß das frühere
-Stammgut der Barons von Nordall, das im Mcecklenburgischen
-unweit des Seebades Vrunghaupten liegt und das schon vor
-fünfzig Jahren in andere Hände nberging, zu verkaufen ist
--… Wir möchten es uns zunächst ansehen und schon heute
+Schloß und Park … Ernst weiß nun, daß das frühere
+Stammgut der Barons von Nordall, das im Mecklenburgischen
+unweit des Seebades Brunshaupten liegt und das schon vor
+fünfzig Jahren in andere Hände überging, zu verkaufen ist
+… Wir möchten es uns zunächst ansehen und schon heute
 nachmittag dorthin reisen. Ich habe nun von Neuyork, weil
 ich mit Kreditbriefen, Banken und so weiter ungern zu tun
 habe, eine größere Summe Bargeld mitgebracht, die ich nicht
 gern mitnehmen möchte … Ernst riet mir, die Banknoten
-Ihnen in Verwahrung zu geben … Sie haben da) sicherlich
+Ihnen in Verwahrung zu geben … Sie haben doch sicherlich
 einen Geldschrank, und bei Ihnen ist die halbe Million am
 sichersten untergebracht …«
 
 <@pagebreak/>
 Sie holte aus ihrem umfangreichen Handtäschchen ein
-Paket hervor, das versiegelt war»…
+Paket hervor, das versiegelt war …
 
 »Hier ist das Geld, Herr Harst … Bitte, nehmen Sie es
 an sich … Und falls wir mit dem Besitzer von Nordallhof
@@ -2223,80 +2224,80 @@ Harst erwiderte etwas erstaunt:
 
 »Aber verehrte gnädige Frau, weshalb haben Sie das
 Geld nicht dem Hotel in Verwahrung gegeben?! Das Bristol
-bat doch) moderne Stahlkammer …!«
+hat doch moderne Stahlkammer …!«
 
 Frau Goulden lachte …
 
-»Las wollte im schon … Das wäre ja auch) am einfachsten
+»Das wollte ich schon … Das wäre ja auch am einfachsten
 gewesen … Aber Ernst ist so abergläubisch und
-Unruhe, im Bristol seien mir bereits meine Juwelen gestohlen
+meinte, im Bristol seien mir bereits meine Juwelen gestohlen
 worden, und deshalb …«
 
 »Ah — — verstehe …!! — Nun gut, gnädige Frau …
-Ich will Ihren Schal hüten!«
+Ich will Ihren Schatz hüten!«
 
 »Meinen Schatz?! Das ist Ernst!! Das elende Geld
-ist kein Schloß!!«
+ist kein Schatz!!«
 
 Wir lachten …
 
 Und in vergnügtester Stimmung fuhr das Brautpaar
 wieder davon … —
 
-Harald schloß das Paket ein … Es lag nun in beurteile:
-Bad) neben den beiden gefährlicher Pappstücken …
+Harald schloß das Paket ein … Es lag nun in demselben
+Fach neben den beiden gefährlicher Pappstücken …
 
 Er schloß es ein … Ich sah zu … Ich sah sein nachdenkliches
 Gesicht, die Falten auf seiner Stirn …
 
-»Behagt dir die Satze nicht?« fragte ich …
+»Behagt dir die Sache nicht?« fragte ich …
 
-Er schaute mich) an …
+Er schaute mich an …
 
-Senkte wieder den Als …
+Senkte wieder den Blick …
 
 »Ja und nein … Vielleicht läßt sich mit dieser halben
-Million etwas anfangen »… t«
+Million etwas anfangen ...!"
 
 Ich lachte …
 
-»Willst du spekulieren 2!«
+»Willst du spekulieren ?!«
 
 <@pagebreak/>
-»Vielleicht ja … Spekulieren auf Forts 18 Habgier …«
+»Vielleicht ja … Spekulieren auf Nordalls Habgier …«
 
-So) reimte mir sofort das Richtige zusammen …
+Ich reimte mir sofort das Richtige zusammen …
 
-»Du willst ihn hierher Toten — — kurz; das Geld?«
+»Du willst ihn hierher locken — — durch das Geld?«
 
-»30 …
+»Ja ..."
 
 »und wie soll er’s erfahren, daß bei uns eine halbe
-Million lagerte!«
+Million lagert?!«
 
-»Crfahreuy!« Er lächelte … »Lieber Alter, das braucht
-er nicht zu erschien … Er weiß es schon ».!!’
+»Erfahren?!« Er lächelte … »Lieber Alter, das braucht
+er nicht zu erfahren … Er weiß es schon ...!!"
 
-Ich wurde zur Bildsäule — — mit offenen Wunde, — —
+Ich wurde zur Bildsäule — — mit offenen Munde, — —
 sicherlich kein bezaubernder Anblick …
 
-Und schlummerte dann:
+Und stammelte dann:
 
-»är … weiß es schon!«
+»Er … weiß es schon!«
 
-»30«.[«
+»Ja ...!"
 
-Und er schloß die Tür des Stahlschrankes»…
+Und er schloß die Tür des Stahlschrankes …
 
-dieser Stahlsranf steht im sogenannten Stahlkammer,
-also im Zimmer neben Haarfarbe Arbeitslose) …
+dieser Stahlschrank steht im sogenannten Musikzimmer,
+also im Zimmer neben Haralds Arbeitsreich …
 
 Dieser Stahlschrank wurde die große Falle …
 
 Nun weiß es der Leser …
 
 <h2>3. Kapitel.</h2>
-<h3>Doch Lobbert!!.</h3>
+<h3>Doch Lobbert!!</h3>
 
 Dann saßen wir wieder in Harsts Nebengleis, diesem uns
 aufdringlich eleganten, goß) nachweisen und eigenartigen
@@ -2335,7 +2336,7 @@ war.
 Und weiter dachte ich: Welch ein Ungeheuer ist dieser
 Nordall!! Wie entsetzlich nutzt er seine Macht über die
 Menschen aus!! Erst läßt er Karl Lüttjen ermorden …
-Dann betraten die hunderttausend Gulden an sie), was noch
+Dann betraten die hunderttausend Gulden an sich, was noch
 zwei Opfer fordert, den Wärter Mattieß und den angeblichen
 
 Doktor Grimby! Dann der Juwelenraub — — wieder ein
@@ -2390,7 +2391,7 @@ das gehen? — — Gut … Wir erwarten Sie also … Sie
 [Vettern dann beide auf das Dach und säubern die Kamine
 in üblicher Weise … In der Zwischenzeit maskieren wir uns
 und verlassen nachher unser Haus, während Sie und Ihr
-Kollege vor? bei uns sie) säubern, etwas von unserer Garderobe
+Kollege vor? bei uns sich säubern, etwas von unserer Garderobe
 anlegen und nachher als saubere brave Herren zum
 Anhalter Bahnhof fahren, wo Sie Fahrkarten nach Leipzig
 lösen und dann recht geschickt verduften … Sie versichern
@@ -2528,7 +2529,7 @@ und waren dann den Verfolger losgeworden.
 
 Harald drückte Klimke den wohlverdienten Obolus in die
 Hand und gab ihm den Auftrag, zusammen mit dem Freunde
-in der Maske zweier Wächter der Nachtwachgesellschhaft die
+in der Maske zweier Wächter der Nachtwachgesellschaft die
 Blücherstraße scharf zu beobachten, auch vom Hofe aus — —
 recht auffällig …
 
@@ -2821,7 +2822,7 @@ von dem Einbruch schräg gegenüber bei dem berühmten Herrn
 Haar« …
 
 Der Detektiv und sein Freund seien verreist … Und das
-hätten sie) drei Verbrecher zunutze gemacht, obwohl Herr
+hätten sich drei Verbrecher zunutze gemacht, obwohl Herr
 Harst doch) zwei Wächter für sein Haus bestellt hätte … Aber
 die drei Schufte hatten die Wächter erst halb erwürgt, gefesselt
 und geknebelt und dann den Geldschrank erbrochen …
@@ -3024,7 +3025,7 @@ Orlik, den Ermittelten, zu Ihren blinden Werkzeugen gemacht
 »Allerdings …«
 
 »Und zuletzt haben Sie Gustav Lobbert angebracht, — —
-er mußte sie) auf Ihren Befehl selbst den Tod geben …«
+er mußte sich auf Ihren Befehl selbst den Tod geben …«
 
 »Allerdings …«
 
@@ -3061,7 +3062,7 @@ nette Einfälle … So zum Beispiel die Sache mit dem
 Paket und dem roten Lappen …! Aber im übrigen: Stümper!?
 — — Wo ist denn Graf Schönborn geblieben?!«
 
-Jetzt lachte er schallend, wand sie) förmlich in Lach-krämpfen
+Jetzt lachte er schallend, wand sich förmlich in Lachkrämpfen
 …
 
 Kein Zweifel: der Mensch war geisteskrank! Der war
