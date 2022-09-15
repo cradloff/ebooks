@@ -10,11 +10,18 @@ Verwendung:
 <@harst.druck/>
 -->
 
-<#macro kkb band titel>
-<div class="kkb">
-<div><span class="reihe">Kabels Kriminalbücher.</span> <span class="band">Band ${band}:</span></div>
-<div class="titel">${titel}</div>
-<div class="bezug">Durch jede Buchhandlung zu beziehen.</div>
+<#macro introshort>
+<div style="border: solid black 1px; margin: 1em; padding: 0.5em; font-size: x-large; text-align: center;">
+Harald Harst: Aus meinem Leben
+</div>
+
+<h1>${property.title}</h1>
+
+<div style="font-weight: bold; text-align: center;">
+Erzählt von
+</div>
+<div style="font-weight: bold; font-size: larger; text-align: center;">
+Max Schraut
 </div>
 </#macro>
 
@@ -38,5 +45,13 @@ Verwendung:
 
 <#macro druck>
 <p class="centered" style="margin-top: 3em;">Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.</p>
+</#macro>
+
+<#macro kkb band titel>
+<div class="kkb">
+<div><span class="reihe">Kabels Kriminalbücher.</span> <span class="band">Band ${band}:</span></div>
+<div class="titel">${titel}</div>
+<div class="bezug">Durch jede Buchhandlung zu beziehen.</div>
+</div>
 </#macro>
 

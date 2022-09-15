@@ -163,7 +163,7 @@ nich so recht koscher zumute, so, als ob mir was in die Knochens
 steckt …«
 
 »Sehr bedauerlich … Wir wollen Sie natürlich nicht zu
-etwas Verbotenen verführen, Herr Mattieß … Vielleicht nehmen
+etwas Verbotenem verführen, Herr Mattieß … Vielleicht nehmen
 Sie uns dann mit hinaus …«
 
 »Bitt scheen … Kommen Sie man …«
@@ -237,7 +237,7 @@ fühle sich krank … Ob er ihn konsultiert hat?«
 »Glaub’ ich nicht … Bis halb eins blieb er dort …
 Dann betrat er wieder die Straße …«
 
-»und?!«
+»Und?!«
 
 <@pagebreak/>
 »Kehrte in den Zoo zurück … Das war alles …«
@@ -246,7 +246,7 @@ Dann betrat er wieder die Straße …«
 eigentlich das Raubtierhaus dir ansehen?«
 
 »Weil — — ja, weil mir der Tod Karl von Lüttjens nicht
-ganz einwandfrei erscheint …
+ganz einwandfrei erscheint …«
 
 »Wie das?!«
 
@@ -270,7 +270,7 @@ das Telephon schrillte …
 Harst meldete sich …
 
 Ruft: »Wie — der Arzt und der Wärter? — — Nein,
-Bedaure, lieber Bechert … Wir haben gerade etwas anderes
+bedaure, lieber Bechert … Wir haben gerade etwas anderes
 vor …«
 
 Hängt ab …
@@ -287,7 +287,7 @@ Grimby ist nach Angabe des Gerichtsarztes zwischen zwölf
 und zwei Uhr getötet worden, also zu einer Zeit, als ich
 Mattieß’ Schatten auf den Fenstervorhängen sah … — Wir
 beide, mein Alter, werden an diesem Fall in aller Stille
-arbeiten … Wir beide werden ganz im Hintergrunde Bleiben.
+arbeiten … Wir beide werden ganz im Hintergrunde bleiben.
 Niemand darf erfahren, daß Harst und Schraut an
 diesen Vorkommnissen interessiert sind. Niemand wird uns
 in Berlin vermuten, denn wir werden noch heute vormittag
@@ -380,7 +380,7 @@ dieser nicht etwa den Verräter spiele …«
 »Weshalb … mußte er?«
 
 »Die Augen, mein Alter, die Augen!! — Packe bitte
-Unsere Koffer … In den Requisitenkoffer kommen die Masken
+unsere Koffer … In den Requisitenkoffer kommen die Masken
 Nummer acht, neun, elf hinein …«
 
 Dann tippte er auf den Briefumschlag die Anschrift …
@@ -448,7 +448,7 @@ Kolonie gänzlich unbekannt sei und daß der Ermordete höchstwahrscheinlich
 ein … Gauner gewesen, denn in einem Versteck
 seines Koffers hatte man nicht nur tadelloses Einbrecherwerkzeug,
 sondern auch Ausweispapiere auf drei verschiedenen
-Namen Gefunden.
+Namen gefunden.
 
 Da stand weiter, daß der arme Tiger Brutus zu Unrecht
 beschuldigt worden sei. Karl von Lüttjen sei zweifellos mit
@@ -459,7 +459,7 @@ getan.)
 
 Da stand drittens, daß auch der Wärter Eugen Mattieß
 offenbar diesen Namen unberechtigt geführt hatte. Ein anderer
-Eugen Mattieß hatte sich bei der Polizei gemeldet und Zugegeben,
+Eugen Mattieß hatte sich bei der Polizei gemeldet und zugegeben,
 daß ihm seine Papiere vor einem halben Jahr gestohlen
 worden seien. Und seit sechs Monaten war Mattieß
 im Zoo angestellt …
@@ -470,7 +470,7 @@ Deutschland zurückgekehrt sei und sich gleichfalls im Polizeipräsidium
 eingefunden habe. —
 
 Das waren also eine ganze Menge Neuigkeiten für die
-sensationshungrigen Berliner … Zum Teil auch für uns
+sensationshungrigen Berliner … Zum Teil auch für uns.
 
 Und da sagte Harst leise aus tiefem Sinnen heraus:
 
@@ -561,7 +561,7 @@ dem Monokel …
 
 Da ging mir ein Licht auf …
 
-Also das war Ernst Lüttjen!! — Donnerwetter, — Der
+Also das war Ernst Lüttjen!! — Donnerwetter, — der
 mußte als Oberkellner manches Herz geknickt haben drüben
 im Dollarlande …!
 
@@ -613,7 +613,7 @@ miteinander, wie das übrige Personal ausgesagt hat …«
 
 Tassilo schob den Käseteller beiseite …
 
-»Überhaupt …« meinte er sehr gedehnt, «— überhaupt,
+»Überhaupt …« meinte er sehr gedehnt, »— überhaupt,
 — — nun auch noch der Mord an dem angeblichen Doktor
 Grimby …!!«
 
@@ -656,7 +656,7 @@ gerade langsam vorüberfuhr …
 
 Und — ich hatte wieder einmal die beste Gelegenheit, mich
 gründlich zu wundern, denn Klimke war ein Privatdetektiv,
-den wir zuweilen als Helfer benutzten,
+den wir zuweilen als Helfer benutzten.
 
 Harst beschrieb Klimke die beiden eleganten Herren …
 
@@ -666,7 +666,7 @@ Wir verschwanden im Innern der Kraftdroschke … —
 
 Lüttjen und sein Freund Tassilo wanderten zu Fuß nach
 der nahen Augsburger Straße, wo Tassilo das Haus Nr. 21
-aufschloß,
+aufschloß.
 
 <@pagebreak/>
 Wir verließen das Auto und paßten auf, ob irgendwo
@@ -677,7 +677,7 @@ Ja — drei Fenster — — ganz oben in der Mansarde!!
 Also dort hauste Tassilo …!
 
 Harst sollte Klimke nach der Ecke Augsburger und Rankestraße
-… Dort sollte der Helfer warten,
+… Dort sollte der Helfer warten.
 
 Wir betraten das Haus Nr. 21 …
 
@@ -711,7 +711,7 @@ der Mansarde blickt sie immer wieder empor …!«
 
 »Ja — — äußerlich …!! Vielleicht auch innerlich …
 Polizeivigilantin auf keinen Fall … Zu elegant … Bin
-Neugierig, ob sie’s auf Ernst Lüttjen abgesehen hat …«
+neugierig, ob sie’s auf Ernst Lüttjen abgesehen hat …«
 
 Ich war ebenfalls neugierig …
 
@@ -720,7 +720,7 @@ zuerst Ernst Lüttjen bis zum Hotel Krause gefolgt und dann
 bis zum Hotel Bristol gefahren war, wo der Portier vor
 ihr wie ein Stehaufmännchen bücklingte …
 
-Und wieder nach zehn Minuten hatte Harald Von dem
+Und wieder nach zehn Minuten hatte Harald von dem
 Portier durch einen geldwerten Händedruck erfahren, daß die
 <@pagebreak/>
 »Elegante« keineswegs Polizeivigilantin oder eine polnische
@@ -782,7 +782,7 @@ mein Freund und ich uns nach Ihnen sehnten!«
 
 Wir setzten uns … — Harst erklärte, es sei unbedingt
 erforderlich, daß selbst Baron Tassilo Nordall nichts davon
-erführe, daß wir in Berlin und nicht in Kopenhagen seien,
+erführe, daß wir in Berlin und nicht in Kopenhagen seien.
 
 Lüttjen antwortete, er habe zwar vor Taß ungern Geheimnisse
 … Wenn es aber sein müßte …
@@ -878,7 +878,7 @@ Baron … Sie hören noch von uns … Wiedersehen …«
 
 <h2>4. Kapitel.</h2>
 
-<h3>Das tote Auge,</h3>
+<h3>Das tote Auge.</h3>
 
 Als wir das Hotel verließen, hatten wir die Augen überall
 — aber unsere Augen!
@@ -906,7 +906,7 @@ Mattieß war tot. Also konnte er nicht der Straßenhändler
 sein, also mußten »die Augen« etwas ganz anderes sein
 — ein Mensch!! Eine bestimmte Persönlichkeit!!
 
-»Wer sind »die Augen"?« fragte ich. »Bitte — Antwort,
+»Wer sind »die Augen«?« fragte ich. »Bitte — Antwort,
 Harald! Und keine Ausflüchte. Laß mich nicht abermals
 im Dunkeln neben dir hertappen, während du selbst bereits
 allerlei weißt und gleichsam im Hellen schreitest!«
@@ -957,7 +957,7 @@ in die des Beobachteten gedrängt werden … Ich
 werde vom nächsten Zigarrengeschäft aus Freund Klimke
 anläuten, Klimke kann in zehn Minuten zur Stelle sein.«
 
-So geschah’s
+So geschah’s.
 
 Als wir durch den Tiergarten gingen, der heute ein winterliches
 Bild darbot, — als wir uns dem sogenannten Stern
@@ -1105,12 +1105,12 @@ der Privatsekretär der Witwe Goulden …«
 
 »Du hast ihn gesprochen?«
 
-»Ja — Dort im Friseureckladen — nur wenige Worte …
+»Ja — dort im Friseureckladen — nur wenige Worte …
 Ich fragte ihn geradezu, ob er ein Kollege sei, nannte unter
 Diskretion meinen Namen … Da nannte er den seinen …
 Komm jetzt, wir werden Frau Goulden besuchen …«
 
-»und … »unser Mann« …?!«
+»Und … »unser Mann« …?!«
 
 »Ist daheim … Vorläufig nicht zu fürchten … Er glaubte
 sich sicher … Er hatte es von dem Friseurgeschäft nicht
@@ -1172,7 +1172,7 @@ Wir blieben nur kurze Zeit …
 
 Wir riefen die Kriminalpolizei an …
 
-Fuhren zu Tassilo Nordall … Mit drei Kriminalbeamten,
+Fuhren zu Tassilo Nordall … Mit drei Kriminalbeamten.
 
 Läuteten … läuteten …
 
@@ -1252,7 +1252,7 @@ einmal zeigten, wie glänzend er zu beobachten versteht.
 
 Leider aber sollte dann schon die Aussage der Schneiderin,
 die neben Nordall in der Mansarde wohnte, dieses
-schlichte Gedankengebäude total einreißen,
+schlichte Gedankengebäude total einreißen.
 
 Die Schneiderin, sofort vernommen, sagte aus:
 
@@ -1283,19 +1283,19 @@ Und dann erschien auch schon der telephonisch herbeigerufene
 Ernst von Lüttjen und erklärte nach genauer Besichtigung
 der Leiche, daß es sich trotz des durch Hammerschläge
 zerfetzten Gesichts unzweifelhaft um Nordall handele,
-Indem er auf dessen linke Hand hinwies, an der nicht nur
+indem er auf dessen linke Hand hinwies, an der nicht nur
 zwei kostbare Ringe und der Wappenring der Nordall steckten,
 sondern die auch auf dem Handrücken eine zackige Narbe
 aufwies.
 
 Es war also auch ausgeschlossen, daß Nordall etwa einen
 entfernt ähnlichen Mann hier ermordet hatte, um etwa für
-die Öffentlichkeit als tot zu gelten und mit seinem Rauhe
+die Öffentlichkeit als tot zu gelten und mit seinem Raube
 ungestört flüchten zu können.
 
 Der Tote war Nordall. Sein Mörder aber — und das
 stellte sich durch telephonische Anfrage bei Frau Goulden
-Heraus — mußte der Räuber des Inhalts der Schmuckkassette
+heraus — mußte der Räuber des Inhalts der Schmuckkassette
 sein denn die unter der Leiche gefundene Brillantbrosche
 gehörte Frau Goulden …! —
 
@@ -1307,11 +1307,11 @@ von Lüttjen den toten Freund gegen Harsts Verdächtigungen
 <@pagebreak/>
 energisch und gereizt in Schutz nahm und wiederholt erklärte,
 Nordall sei der treueste, uneigennützigste Freund gewesen, den
-man sich nur denken könne,
+man sich nur denken könne.
 
 Harald bat Lüttjen denn auch mit warmen Worten um
 Entschuldigung und gab ehrlich zu, daß all seine Kombinationen
-nicht gestimmt Hätten, wie er nun selbst einsehe.
+nicht gestimmt hätten, wie er nun selbst einsehe.
 
 Und dann — — fand man in Nordalls Schreibtisch ein
 Testament, in dem der Baron die Hälfte seiner Habe Ernst
@@ -1322,7 +1322,7 @@ lag eine vom heutigen Tage datierte Urkunde bei, durch die
 Nordall das Anrecht auf die 100&nbsp;000 Gulden im Falle seines
 vorzeitigen Ablebens gleichfalls an Orlik abtrat, im Falle
 seines späteren Todes aber sein Vermögen zur Hälfte Ernst
-von Lüttjen und dem Schriftsteller vermachte,
+von Lüttjen und dem Schriftsteller vermachte.
 
 Eine sorgfältige Untersuchung der Räume förderte auch
 nicht das Geringste zutage, was Nordall zum Maskieren
@@ -1336,7 +1336,7 @@ Straßenhändlers benutzt hatte. —
 Der Leser erkennt wohl aus dieser knappen Schilderung
 zur Genüge, daß dieses Problem in der Tat für Harald eine
 Aufgabe darstellte, die jetzt nach diesen völligen Fehlschlägen
-fast aussichtslos erschien, —
+fast aussichtslos erschien. —
 
 Nachmittags um vier Uhr verließen Ernst von Lüttjen
 und wir beide die Mansarde. Unten auf der Straße bat
@@ -1358,7 +1358,7 @@ mit den anderen Verbrechen eng zusammenhängt — —
 ganz eng … — Auf Wiedersehen …«
 
 Wir beide kehrten nun in unser eigentliches Heim nach
-der Blücherstraße zurück,
+der Blücherstraße zurück.
 
 Harst war still und in sich gekehrt …
 
@@ -1394,7 +1394,7 @@ schuld ist …«
 »Inwiefern?!«
 
 »Weil er hoch und heilig versicherte, der Tote sei Nordall
-Der Tote heißt Max Burkhard …«
+… Der Tote heißt Max Burkhard …«
 
 Das war wieder einmal eine von Haralds »Bomben« …
 
@@ -1616,7 +1616,7 @@ Die Lauter hatte Fernsprechanschluß. Harald rief sie an.
 Und sie erklärte, daß sie bei einer erneuten Vernehmung
 durch die Kriminalpolizei ihre Vergeßlichkeit, was den Besuch
 des Schriftstellers Orlik betraf, schon ausgeglichen habe …
-Abends sieben Uhr sei sie erneut vernommen worden, —
+Abends sieben Uhr sei sie erneut vernommen worden. —
 
 Harst hängte ab und setzte sich wieder. Seine Stirn lag
 in Falten. Ich merkte, wie schwer ihn dieser harte Schlag
@@ -1649,7 +1649,7 @@ Im Grunde waren dies ja von Harsts Seite aus Sätze,
 die überflüssig erschienen. Mich wunderte es, daß er Burkhard
 nicht erwähnte … Genau so wenig sprach er von seiner
 Annahme, Burkhard sei vielleicht der Ermordete. Er hatte
-diese Vermutung also völlig aufgegeben,
+diese Vermutung also völlig aufgegeben.
 
 Nach einer halben Stunde verabschiedeten wir uns wieder
 von Doktor Lüder und brachten den alten Schriftsteller im
@@ -1722,7 +1722,7 @@ Hier hatte sich jemand eingeschlichen …
 Und — folgte Haralds Beispiel, nahm die Clement aus
 der Schlüsseltasche … Dann … rückten wir den Diwan ab.
 
-Und … darunter lag ein kleiner, magerer Strolch,
+Und … darunter lag ein kleiner, magerer Strolch.
 
 Erhob sich …
 
@@ -1762,7 +1762,7 @@ klapperten …
 
 Harst sagte zu mir: …
 
-»Suche einen alten Anzug und Wäsche von dir heraus,«
+»Suche einen alten Anzug und Wäsche von dir heraus.«
 
 Und zu dem Erbärmlichen:
 
@@ -1782,7 +1782,7 @@ heizen … Der eiserne Ofen erwärmte den Raum in kurzem,
 und Bett und schlichte Möbel waren vorhanden …
 
 Um halb eins führten wir den Schwindsüchtigen in sein
-neues Heim,
+neues Heim.
 
 Lobbert meinte vor Freude …
 
@@ -1902,7 +1902,7 @@ Exzellenz aus Nr. 88 etwa …«
 und — — bevor wir zu Bett gehen, die Zimmer
 gründlich durchsuchen … Denn der Kerl hat womöglich nicht
 <@pagebreak/>
-Nur den Auftrag gehabt, uns zu belauschen, sondern auch …
+nur den Auftrag gehabt, uns zu belauschen, sondern auch …
 — wir werden ja sehen!«
 
 Und wir … sahen …!!
@@ -1941,7 +1941,7 @@ wurde immer nervöser … immer heißer wurde mir’s …
 Ich schaltete die Nachttischlampe wieder ein … Halb vier
 morgens …
 
-schließlich hielt ich es im Bette nicht mehr aus …
+Schließlich hielt ich es im Bette nicht mehr aus …
 
 Es war halb fünf geworden …
 
@@ -2050,7 +2050,7 @@ er sein Stallstübchen gar nicht verlassen …!«
 
 Das wirkte …
 
-ich fuhr mit den Beinen aus dem Bett …
+Ich fuhr mit den Beinen aus dem Bett …
 
 »Hast du ihn denn nicht der beiden Pappstücke wegen ins
 Gebet genommen?!« …
@@ -2058,7 +2058,7 @@ Gebet genommen?!« …
 »Natürlich …! Unter Tränen schwor er, daß er niemals
 <@pagebreak/>
 zu solchem Tun fähig wäre!! Niemals!! — Natürlich schwor
-er im guten Glauben, da er Ja in Hypnose gehandelt hat
+er im guten Glauben, da er ja in Hypnose gehandelt hat
 und ihm sein »Meister« befohlen hat, alles zu vergessen,
 was er als »Medium« ausführte … — Merkst du, weshalb
 Nordall ihn zurückgeschickt hat? Natürlich nur deshalb,
@@ -2067,7 +2067,7 @@ hat! Nur deshalb!!«
 
 Ich saß auf dem Bettrand und rieb mir die Stirn …
 
-Hinter dieser Stirn sah’s wie in einem Bienenhaus aus,
+Hinter dieser Stirn sah’s wie in einem Bienenhaus aus.
 
 »Dann … dann müßte Nordall also bei Exzellenz Schönborn
 wohnen …! Harald, hältst du das für möglich?!«
@@ -2089,7 +2089,7 @@ Ich … rieb mir noch kräftiger die Stirn …
 
 »Ja — ein schweres Problem, Max Schraut … Vielleicht
 hat unser Stallbewohner sich den Namen Lobbert zu Unrecht
-zugelegt. Vielleicht gibt es auch mehrere Gustav Lobbert,
+zugelegt. Vielleicht gibt es auch mehrere Gustav Lobbert.
 Vielleicht hat unser Lobbert auch die Villa gar nicht betreten,
 sondern den Garten nur als Durchweg nach einem anderen
 Grundstück benutzt … Vielleicht …«
@@ -2119,7 +2119,7 @@ näher käme!
 Es … sollte nicht sein …
 
 Als wir nach dem Frühstück in den Stall gingen und
-Lobbert auf diese besondere Wisse verhören wollten, fanden
+Lobbert auf diese besondere Weise verhören wollten, fanden
 wir ihn tot auf — — vergiftet … mit entsetzlich verzerrtem
 Gesicht …
 
@@ -2128,7 +2128,7 @@ Auf dem Tische ein Zettel …
 Eine zitterige kindliche Handschrift …
 
 > Ich ertrage dies erbärmliche Leben nicht länger … Ich
-Heiße gar nicht Gustav Lobbert … Mag man mich namenlos
+heiße gar nicht Gustav Lobbert … Mag man mich namenlos
 verscharren. Ihnen, Herr Harst, danke ich von ganzem
 Herzen …
 
@@ -2160,7 +2160,7 @@ Goulden …
 
 Ich ließ das Paar ein …
 
-Sie strahlten … Sie sahen so unheimlich verlobt aus,
+Sie strahlten … Sie sahen so unheimlich verlobt aus.
 
 Und richtig: Lüttjen stellte uns die Milliardeuse als seine
 Braut vor!
@@ -2272,7 +2272,7 @@ Ich reimte mir sofort das Richtige zusammen …
 
 »Ja …«
 
-»und wie soll er’s erfahren, daß bei uns eine halbe
+»Und wie soll er’s erfahren, daß bei uns eine halbe
 Million lagert?!«
 
 »Erfahren?!« Er lächelte … »Lieber Alter, das braucht
@@ -2289,7 +2289,7 @@ Und stammelte dann:
 
 Und er schloß die Tür des Stahlschrankes …
 
-dieser Stahlschrank steht im sogenannten Musikzimmer,
+Dieser Stahlschrank steht im sogenannten Musikzimmer,
 also im Zimmer neben Haralds Arbeitsreich …
 
 Dieser Stahlschrank wurde die große Falle …
@@ -2402,7 +2402,7 @@ Harstsche Haus und wandten sich dem Zentrum der Stadt zu
 … Nach der Königstraße, wo Freund Bechert wohnte, wohlbestallter
 Kriminalkommissar …
 
-Fritz Bechert war Schon telephonisch verständigt worden.
+Fritz Bechert war schon telephonisch verständigt worden.
 Bei ihm kletterten wir nacheinander in die Badewanne und
 schlüpften dann in die Arbeiteranzüge, verwandelten auch
 unsere Gesichter gründlichst und konnten nun sicher sein, daß
@@ -2415,7 +2415,7 @@ Bechert ahnte natürlich, daß wir hinter einem ganz besonderen
 Wilde her waren, fragte aber nichts weiter …
 
 Dann verabschiedeten wir uns wieder. Es war mittlerweile
-sechs Uhr geworden und völlig dunkel,
+sechs Uhr geworden und völlig dunkel.
 
 Mit Geld waren wir reichlich versehen. In verschiedenen
 Geschäften kauften wir allerlei ein: einfache Handkoffer,
@@ -2423,7 +2423,7 @@ Wäsche, — — vieles andere!
 
 So fuhren wir nun nach der Blücherstraße, wo in der
 großen Mietskaserne schräg gegenüber unserem Hause stets
-möblierte Zimmer zu haben waren,
+möblierte Zimmer zu haben waren.
 
 Wir waren bescheiden und begnügten uns mit dem einen
 Kellerstübchen, das der Portier des Hauses »an solide Herren«
@@ -2462,7 +2462,7 @@ ganz harmlos …
 Und siehe da: ein Gärtner erzählte uns, Exzellenz Schönborn
 habe seinen Diener plötzlich entlassen, und Lobbert sei
 nach seiner Heimat Westpreußen gereist. Das habe die
-Wirtschafterin Seiner Exzellenz dem Hausmann Stelter Heute
+Wirtschafterin Seiner Exzellenz dem Hausmann Stelter heute
 vormittag mitgeteilt, und von Stelter habe er es wieder
 erfahren …
 
@@ -2489,7 +2489,7 @@ Der Gärtner fragte neugierig:
 
 »In welchem Hause haben Sie das Bild denn gefunden?«
 
-»oh — in Moabit, Turmstraße … Aber das ist ja
+»Oh — in Moabit, Turmstraße … Aber das ist ja
 gleichgültig … Natürlich ist Lobbert betrunken gewesen …
 Aber reden wir von etwas anderem …«
 
@@ -2503,7 +2503,7 @@ Lobbert gehörte doch nach Nr. 88 zu Graf Max Schönborn
 …«
 
 Wir wanderten rasch zur Halenseer Brücke. Dorthin
-hatten wir zu zehn Uhr den Kollegen Klimke bestellt,
+hatten wir zu zehn Uhr den Kollegen Klimke bestellt.
 
 Und Klimke war da … Pendelte auf und ab …
 
@@ -2533,7 +2533,7 @@ für mich behalten, denn das gehörte mit zur »großen Falle«,
 
 Station Schmargendorf stiegen Harst und ich aus …
 Klimke fuhr weiter, denn seine Wächtertätigkeit sollte er
-noch in dieser Nacht aufnehmen,
+noch in dieser Nacht aufnehmen.
 
 <h2>4. Kapitel.</h2>
 
@@ -2893,7 +2893,7 @@ geöffnet hat?«
 
 »Entlassen …!«
 
-»Ach nee …! War doch ’n netter Mensch, der Lobbert,
+»Ach nee …! War doch ’n netter Mensch, der Lobbert.
 Brauchen Sie vielleicht ’n andern anständigen Diener? Ich
 hab’ da ’n Freund, der mal bei einem Baron fünf Jahre war
 <@pagebreak/>
@@ -3116,7 +3116,7 @@ Streich, das gefälschte Testament, nach dieser Richtung
 hin würdigt, der muß zugeben, daß Tassilo Nordall ein
 Verbrecher von ganz besonderen Fähigkeiten war — von
 <@pagebreak/>
-Einfällen, die nur einem kranken Hirn entspringen konnten,
+Einfällen, die nur einem kranken Hirn entspringen konnten.
 
 Nordall hat noch zwei Jahre in der Irrenanstalt Herzberge
 gelebt, wo er sich ausschließlich mit der Abfassung
@@ -3127,7 +3127,7 @@ War ein Roman fertig, so verbrannte er ihn sofort.
 
 Nur eine einzige dieser Kriminalgeschichten ist in Harsts
 Hände gelangt, weil Nordall kurz vor seinem Tode den
-Wunsch aussprach, daß sie Harald übermittelt würde,
+Wunsch aussprach, daß sie Harald übermittelt würde.
 
 Über diese Kriminalerzählung zum Schluß noch ein
 paar Worte.
@@ -3140,7 +3140,7 @@ Wächter »Mattieß« und der Amerikaner »Grimby« gewesen,
 hat sich nie feststellen lassen. —
 
 Und nun zum Schluß des »schwersten Problems« noch
-einen Hinweis auf den folgenden Band dieser Sammlung,
+einen Hinweis auf den folgenden Band dieser Sammlung.
 
 Dieser Band ist das Werk des irrsinnigen Tassilo Nordall,
 also jene Kriminalgeschichte, die er in Herzberge geschrieben
