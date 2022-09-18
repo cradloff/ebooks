@@ -10,6 +10,7 @@
 \b[bdh]in\s[nu][nu]d\s[bdh]er\b	hin und her
 \bBieter\b	Meter
 \bden!	dem
+\bdien\b	dicken
 \b(\d+)[l1i]en\b	$1ten
 \bdürsten\b	dürften
 \bElement\b	Clement

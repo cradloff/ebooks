@@ -50,6 +50,12 @@ Max Schraut
 <h1>${property.title}</h1>
 </#macro>
 
+<#macro introshort3>
+<@harst.introshort2/>
+
+<div class="title2">Walther Kabel.</div>
+</#macro>
+
 <#macro naechsterband band>
 <p style="margin-top: 2em; margin-bottom: 1em;">Nächster Band:</p>
 
