@@ -41,12 +41,19 @@ Max Schraut
 
 <#-- Intro am Seitenkopf:
 	Nachdruck verboten. Alle Rechte ...
+
 	TITEL
 -->
 <#macro introshort2>
 <div class="copyright">Nachdruck verboten. – Alle Rechte, einschl. des Verfilmungsrecht, vorbehalten. Copyright ${property.pubDate} by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin.</div>
 
 <h1>${property.title}</h1>
+</#macro>
+
+<#macro introshort3>
+<@harst.introshort2/>
+
+<div class="title2">Walther Kabel.</div>
 </#macro>
 
 <#macro naechsterband band>
