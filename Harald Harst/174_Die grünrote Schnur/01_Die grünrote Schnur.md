@@ -446,7 +446,7 @@ Und auch Harald schien seine Ansicht über den Kapitän
 gründlich geändert zu haben, denn er sagte jetzt ganz offen:
 
 »Fräulein Hölderlins Vater war doch Steuermann …
-Und da glaubten wir, Sie hätten Hölderlin viel gekannt,
+Und da glaubten wir, Sie hätten Hölderlin vielleicht gekannt,
 weil Sie dem alten Fräulein nun doch hier ein Stückchen
 Gärtchen überlassen haben …«
 
@@ -549,7 +549,7 @@ Ich, Max Schraut, mußte innerlich lächeln …
 Ich hatte genau bemerkt, daß Harald beim Aufsehen
 diese Fährte mit dem eigenen Stiefel verwischte.
 
-Nun nehmen wir die grün-rote Schnur und die Stelle
+Nun nahmen wir die grün-rote Schnur und die Stelle
 in Augenschein, wo das untere Schnurende in die Erde
 eingescharrt war …
 
@@ -856,13 +856,13 @@ Ich gewann Interesse für diese besondere Art von Atelierbesichtigung,
 und dieses Interesse steigerte sich noch, als
 Harald nach anderthalb Minuten flüsterte:
 
-»Bitte, beuge dein Haupt, stolzer Sugambrer!« —
+»Bitte, beuge dein Haupt, stolzer Sugambrer<@refnote 1/>!« —
 was bekanntlich auf die heidnische germanische Vorzeit sich
 bezieht.
 
 Ich beugte also mein mit einem Filzhut bedecktes, spärlich
 behaartes Haupt zum Schlüsselloch hinab und spielte Stubenmädchen,
-— eine Kategorie von Hausangestellten, die über
+— eine Kategorie von Hausangestellten, die übler
 Nachrede gemäß Sehnsucht nach dieser Art von Guckkastenlöchern
 haben soll …
 
@@ -909,7 +909,7 @@ das Maß der Neugier hinausgeht, — das Weib hängt also
 mit der grün-roten Schnur zusammen, bildlich gesprochen,
 und mit den Zetteln und den Hundertgrammfläschchen!
 
-Kaum hakte ich die Glieder dieser Gedankenkette säuberlich
+Kaum hatte ich die Glieder dieser Gedankenkette säuberlich
 aneinandergefügt, als Harald mir beinahe wieder auf
 die Frühlingsknospen meiner Zehen getreten wäre …
 
@@ -933,7 +933,7 @@ schauen — eine kapitale Dummheit!
 Sie machte die Tür wieder zu …
 
 Harst bückte sich zum Schlüsselloch hinab und … taumelte
-einem Male nach hinten, klatschte zu Boden, wurde
+mit einem Male nach hinten, klatschte zu Boden, wurde
 noch halb von mir aufgefangen, und …
 
 Ja — und — ich mußte die kapitale Dummheit schleunigst
@@ -964,7 +964,7 @@ Rücken an Rücken, die Hände über der Brust gefesselt,
 aneinander gebunden mit einer Waschleine, geknebelt, und,
 damit wir uns nicht zur Seite rollen könnten, noch mit
 den Füßen und Hälsen am Holzbohrer geknotet, die man tief
-im die Dielen getrieben hatte … —
+in die Dielen getrieben hatte … —
 
 Harst war wach …
 
@@ -1021,7 +1021,7 @@ mit den Füßen, die ja übrigens mit denen Haralds zusammengebunden
 waren, wurden durch die Matte bis zu ganz
 schwachen Geräuschen gedämpft.
 
-So telegraphierte ich denn zurück!:
+So telegraphierte ich denn zurück:
 
 »Zwecklos — — unmöglich!«
 
@@ -1143,7 +1143,7 @@ stehen …
 
 Harst und Schraut erzählten …
 
-Die Herren von der Mordkommission spitzen die Ohren.
+Die Herren von der Mordkommission spitzten die Ohren.
 
 Nahmen uns mit hinüber in das kleine Wohnzimmer der
 Hölderlin …
@@ -1305,7 +1305,7 @@ auch für uns, mein Alter. Deshalb habe ich der Polizei
 gegenüber auch mit nichts zurückgehalten. Man soll mir
 <@pagebreak/>
 nicht den Vorwurf machen, daß ich Wichtiges aus persönlichem
-Ehrgeiz verschwiegen hatte. In diesem Falle war die Verantwortung
+Ehrgeiz verschwiegen hätte. In diesem Falle war die Verantwortung
 zu groß …«
 
 Selten nur hatte er in dieser Weise gesprochen … sehr
@@ -1566,7 +1566,7 @@ Mann mit einem Handwagen, auf dem eine große Kiste steht.«
 
 <h2>5. Kapitel.</h2>
 
-Mann und Handwagen Alkoven getreulich hinter uns …
+Mann und Handwagen blieben getreulich hinter uns …
 
 Unser Weg führte bald ein Stück durch unbebautes Gelände
 … Jeder Berliner, der im Westen wohnt, kennt diese
@@ -1603,7 +1603,7 @@ Und Mann und Wagen kamen …
 Und Harst und Schraut verlegten dem braven Gelegenheitsarbeiter
 den Weg …
 
-»Stopp, Freunden,« meinte Harald … »Wer sind Sie?«
+»Stopp, Freundchen,« meinte Harald … »Wer sind Sie?«
 
 Der Mann grinste …
 
@@ -1750,13 +1750,13 @@ wegen kleiner Diebereien vorbestraft und zurzeit ohne
 Obdach! — Wem der Handwagen gehörte, wurde ebenfalls
 von der Kriminalpolizei ermittelt. Bullke hatte den Handwagen
 erst heute früh gestohlen. Nur über die Holzkiste
-ließ sie nichts feststellen, obwohl Harald darauf drang, daß
-Nichts unterlassen würde, deren Herkunft einwandfrei zu ergründen.
+ließ sich nichts feststellen, obwohl Harald darauf drang, daß
+nichts unterlassen würde, deren Herkunft einwandfrei zu ergründen.
 
 So ging denn auch dieser Tag zur Rüste …
 
 Wir waren daheim geblieben. Wir standen dauernd in
-telephonischen Verkehr mit dem uns längst bekannten Kriminalkommissar
+telephonischem Verkehr mit dem uns längst bekannten Kriminalkommissar
 Doktor Lüder, einem der fähigsten Köpfe des
 großen Polizeipalastes am Alexanderplatz.
 

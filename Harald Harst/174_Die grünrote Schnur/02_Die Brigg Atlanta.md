@@ -90,7 +90,7 @@ ist mir der Schreck über diese Lumperei ordentlich in
 die Knochen gefahren, und wenn Ihr Kognak, Herr Harst,
 nicht so tadellos wäre, würde ich wohl …«
 
-»Schenken Sie ein nur einen dritten ein …« lachte
+»Schenken Sie sich nur einen dritten ein …« lachte
 Harald … »Alle guten Dinge sind drei … Und dann werden
 wir die Höllenmaschine besichtigen …« —
 
@@ -163,7 +163,7 @@ Das Auto hielt vor unserem Hause …
 
 Wir stiegen aus … Harst bezahlte …
 
-Mit ekelhaften Geknatter sauste da ein rücksichtsloser
+Mit ekelhaftem Geknatter sauste da ein rücksichtsloser
 Benzinradler an uns vorüber …
 
 Harald verhandelte noch mit dem Chauffeur … Ich hörte
@@ -193,7 +193,7 @@ Es war ein schmutziger, schon oft gebrauchter Tennisball. Immerhin
 war die Oberfläche noch soweit sauber, daß man die
 mit Bleistift geschriebenen Worte deutlich lesen konnte:
 
-<p class="centered">»Es wird Zeit, dar Sie beide abbauen!!«</p>
+<p class="centered">»Es wird Zeit, daß Sie beide abbauen!!«</p>
 
 »Unglaublich!« rief ich. »Das soll doch ohne Zweifel
 heißen, wir sollen den Mann in Ruhe lassen!«
@@ -288,7 +288,7 @@ Wohnung der ermordeten Hölderlin ein deutliches Geräusch.
 Wie das Knarren einer Schranktür …
 
 Das alte Sofa, auf dem wir beide saßen, stand an der
-Verbindungswand … Diese Wand war nur eine Rabitzwand<@refnote/>.
+Verbindungswand … Diese Wand war nur eine Rabitzwand<@refnote 2/>.
 
 Harst legte mir die Linke mit schwerem Druck auf den
 Schenkel …
@@ -405,7 +405,7 @@ Schreitet humpelnd davon, schaut sich immer wieder um
 Wir auf der anderen Seite, wir Malerinnen, schwatzen
 und lachen …
 
-Die Alte humpelt eilends, stutzt sich auf ihren Stock …
+Die Alte humpelt eilends, stützt sich auf ihren Stock …
 Und — verschwindet im Hause Kulmstraße 18 …
 
 Also — doch die Jule!!
@@ -616,7 +616,7 @@ Und er — mit einem Aufblitzen in den Augen:
 
 »Vielleicht …«
 
-Er ließ Meinen Arm los … Lächelte … Zog sein Zigarettenetui
+Er ließ meinen Arm los … Lächelte … Zog sein Zigarettenetui
 …
 
 »Vielleicht, mein Alter … Das ist jedenfalls eine Mirakulum
@@ -859,7 +859,7 @@ Ich ahnte, daß er mir noch etwas verheimlicht hatte … —
 
 Um zwei Uhr waren wir daheim …
 
-Mathilde, die die Köchin, rief uns im Flur entgegen:
+Mathilde, die dicke Köchin, rief uns im Flur entgegen:
 
 »Herr Harald, soeben ist ein Brief abgegeben worden …
 Ein Briefträger mit rotem Bart brachte ihn, — ein Rohrpostbrief
@@ -1289,7 +1289,7 @@ Ein doppelter Schrei …
 
 Lüder droht:
 
-»Ruhe — — Kriminalpolizei?!«
+»Ruhe — — Kriminalpolizei!!«
 
 Seine Dienstpistole hält den Mechaniker in Schach …
 
