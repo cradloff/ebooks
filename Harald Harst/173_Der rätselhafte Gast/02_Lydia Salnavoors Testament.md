@@ -6,7 +6,7 @@
 
 <h2>1. Kapitel.</h2>
 
-<h3>Ein sonniger Apriltag …</h3>
+Ein sonniger Apriltag …
 
 In unserem Wohnzimmer waren versammelt:
 
@@ -302,7 +302,7 @@ und war auf den Ofen geklettert … Der hatte die
 Tapeten um den Ofen herum abgeklopft … Und jetzt lag
 er auf dem Ofen lang auf den Dielen …
 
-Wir schien’s so, als ob er das Eisenblech von den Dielen
+Mir schien’s so, als ob er das Eisenblech von den Dielen
 losmachte …
 
 Harst erhob sich dann …
@@ -339,9 +339,9 @@ Wo Harst dann schmunzelnd flüsterte:
 
 Wir standen am Fenster … Er breitete einen Bogen
 tadellosen Briefpapiers auseinander. Oben links das Wappen
-der Salnavoors, darunter in lila ein.
+der Salnavoors, darunter in lila ein
 
-<p class="centered pre">L. G.
+<p class="centered pre">L. S.
 Wannsee bei Berlin, d. 6. März 19…
 Mein letzter Wille.</p>
 
@@ -350,6 +350,7 @@ Austin Salnavoors, bestimme für den Fall meines Ablebens
 folgendes:
 
 <@pagebreak/>
+
 > Ich besitze von meiner Großmutter mütterlicherseits her
 ein Vermögen von achtundvierzigtausend Pfund Sterling.
 Dieses Vermögen wird von der Bank von England verwaltet.
@@ -773,7 +774,7 @@ Wohl trinken, meine Herren …«
 
 Harst winkte ab …
 
-»Wie sind vormittags stets strikte Abstinenzler, Herr Rittmeister
+»Wir sind vormittags stets strikte Abstinenzler, Herr Rittmeister
 … Entschuldigen Sie schon … Aber wir …«
 
 Selchow lachte schrill …
@@ -988,7 +989,7 @@ wenn man in diese Abgründe menschlicher Verworfenheit hinabblickt!!«
 
 Wieder fragte ich:
 
-»Harald, wir hoffst hin dem Kerker zu entfliehen, den
+»Harald, wie hoffst du dem Kerker zu entfliehen, den
 Selchow uns zugedacht hat?«
 
 Er rauchte zwei Züge …
@@ -1123,13 +1124,13 @@ Harst begann ein kurzes Verhör …
 
 Die vier hatten Angst …
 
-Der Dicke schwitze vor Aufregung, als ob’s im Hochsommer
+Der Dicke schwitzte vor Aufregung, als ob’s im Hochsommer
 wäre …
 
 Er rückte denn auch als erster mit der Sprache heraus.
 
 Der Schlepper sei sein Eigentum, und die drei dort seine
-Leute … vor seit Wochen habe sich Selchow an ihn herangemacht
+Leute … vor sechs Wochen habe sich Selchow an ihn herangemacht
 … Es sei gerade faule Zeit gewesen — Winter,
 nichts zu verdienen … Und da hätten sie sich denn mit ihm
 eingelassen … In einer regnerischen Nacht war dann der
@@ -1216,7 +1217,7 @@ und die nachher sich auf jeden Fall rehabilitieren möchten. Der
 Herr ist sogar persönlich einmal bei mir gewesen … Er
 machte auf mich einen recht günstigen Eindruck. Nun freilich
 gewinnt seine »Leidensgeschichte«, wie er sich stets ausdrückte,
-ein ganz anderes Nachsehen …«
+ein ganz anderes Aussehen …«
 
 »Allerdings!« nickte Harst. »Der Mann ist fraglos sogar
 sehr gefährlich — sehr! Wir wollen nun alles Nötige zu
@@ -1258,7 +1259,7 @@ Er war schon neben mir …
 
 Er atmete erleichtert auf …
 
-»Ja — geglückt! So recht geglaubt habe ich das nicht
+»Ja — geglückt! So recht geglaubt habe ich doch nicht
 an einen vollen Erfolg! Nun freilich haben wir die ganze
 Bande mit einem Schlage dingfest! — Drücke das Brett wieder
 vor, mein Alter …«

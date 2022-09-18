@@ -145,6 +145,7 @@ in Wannsee unseren Lesern mit weiteren Einzelheiten dienen
 zu können.
 
 <@pagebreak/>
+
 > Um diese seltsamen Tatsachen nochmals von Beginn
 an nach Tagen zu ordnen:
 
@@ -316,7 +317,7 @@ Ich fragte weiter:
 »Heute noch nicht … — Gib mal das Stück Lederjacke
 her …«
 
-Während er es prüfte (es roch vor unangenehm nach
+Während er es prüfte (es roch noch unangenehm nach
 Verwesung), beschaute ich mir den grausigen Inhalt des
 Einmacheglases.
 
@@ -481,7 +482,7 @@ jener leichten Ironie, die er leider nur zu häufig bereit hat.
 »Und wenn du wie ich die Zeitungen genau lesen würdest,
 hättest du in der Voranzeige der Luna-Attraktionen auch
 <@pagebreak/>
-»Schäfers Zwergenheim« gefunden … — Ich, denke also, es
+»Schäfers Zwergenheim« gefunden … — Ich denke also, es
 lohnt schon, dort hinauszufahren …«
 
 Wir fuhren … Straßenbahn bis zum Henriettenplatz in
@@ -623,7 +624,7 @@ Dann legte Harald dem Zwerge die Hand auf die Schulter.
 Mensch, Kollege, — was in aller Welt willst du gerade
 hier?!«
 
-Orlik war wie von einer Schlange gebissen, herumgefahren.
+Orlik war wie von einer Schlange gebissen herumgefahren.
 
 Stierte uns an …
 
@@ -861,7 +862,7 @@ Und er antwortete zu meinem nicht geringen Erstaunen:
 
 »Ja, sie ist verunglückt …«
 
-Da meinte im achselzuckend:
+Da meinte ich achselzuckend:
 
 »Gestatte: und wer hat ihr den Kopf abgeschnitten? Wo
 ist der Rumpf geblieben?!«
@@ -982,7 +983,7 @@ ich):
 
 »Bitte, sieh’ dir mal die Karte an!!.«
 
-Wenn, Mr. Hasting-Harst in solchem Tone etwas sagte,
+Wenn Mr. Hasting-Harst in solchem Tone etwas sagte,
 tat Mr. Maxwell stets gut, die Augen aufzusperren …
 
 Ich schaute mir also die Karte an …
@@ -1049,7 +1050,7 @@ Harald schaute mich ernst an …
 Schmidt« beobachtet hat … Auch das werden wir noch
 herausbekommen, hoffe …« —
 
-Nach dem Eisen schlenderten wir noch durch den Ort,
+Nach dem Essen schlenderten wir noch durch den Ort,
 gingen in das Schultheiß-Restaurant, setzten uns an einen
 Fenstertisch und sahen, wie der Mond über den Uferwäldern
 des Sees emporstieg und sein Silberlicht über das stille
@@ -1106,7 +1107,7 @@ bin vorhin aufgestanden und habe im Koffer nachgesehen …
 — — weg!! Beides!«
 
 »Donnerwetter …!« Und da — — fiel mir die Gestalt
-im Walde ein, die im zu sehen geglaubt hatte …
+im Walde ein, die ich zu sehen geglaubt hatte …
 
 Ich erzählte …
 
@@ -1167,7 +1168,7 @@ Wir blieben weiter zurück, denn jetzt drehte er sich
 mehrmals um …
 
 Irgend etwas schien seinen Verdacht erregt zu haben …
-Uns konnte er kaum bemerkt haben, und da zeigte er nun
+Uns konnte er kaum bemerkt haben, und doch zeigte er nun
 eine mißtrauische Vorsicht, die irgendeine Ursache haben mußte.
 
 Besonders oft starrte er nach links in den Wald hinein.
@@ -1405,7 +1406,7 @@ angenommen …«
 
 »Unfall — welcher Art, Herr Schöller?«
 
-»Das … das weiß ich nicht, Herr Hast, habe darüber
+»Das … das weiß ich nicht, Herr Harst, habe darüber
 auch nicht nachgedacht … Bedenken Sie, in welcher Gemütsverfassung
 ich mich damals befand …! Bedenken Sie, daß
 <@pagebreak/>
@@ -1413,7 +1414,7 @@ ich in jener Nacht beim Anblick des in dem halb zertrümmerten
 Kanu liegenden Kopfes fast den Verstand verlor …
 Ich bin beinahe ohnmächtig geworden, handelte nachher wie
 ein Träumender — anders kann ich das nicht bezeichnen.
-Ich war nicht ich selbst … Und als im den Kopf vergrub, da
+Ich war nicht ich selbst … Und als ich den Kopf vergrub, da
 wollte ich eben die unterlassene Anzeige bei der Polizei dadurch
 wieder gutmachen — sozusagen gutmachen, daß ich das
 Grab schmückte … Ich wollte dem armen Mädchen etwas
@@ -1427,7 +1428,7 @@ Harald beruhigte ihn … Und ich erneuerte schleunigst
 die Kompresse, die dem durch den Hieb doch noch recht
 Mitgenommenen offenbar guttat.
 
-Zu längerem verweilen hier am Ufer war es doch zu
+Zu längerem Verweilen hier am Ufer war es doch zu
 kühl. Auch ich begann zu frieren. Wir nahmen Schöller
 daher unter die Arme und schritten mit ihm langsam davon.
 
@@ -1532,7 +1533,7 @@ Mädchen irgendwie etwas zu tun hat?«
 »Sie hat mit ihr etwas zu tun … Ich behaupte: das
 Mädchen gehörte auf die Jacht! Sie kam von der Jacht als
 Gast zum Pavillon … Denn der alte Kellner im Schultheiß
-erklärte noch, daß die englische)e Luxusjacht seit dem 3. März
+erklärte noch, daß die englische Luxusjacht seit dem 3. März
 hier ankere … Und am 4. März kam das Mädchen zum
 ersten Male zum Schwedischen Pavillon …«
 
@@ -1612,7 +1613,7 @@ mit jemand zusammentreffen … Und der, mit dem sie sich
 treffen wollte, sollte natürlich das Geld erhalten. Deshalb
 führte Sie diese Summen bei sich. Der Unbekannte kam
 jedoch nicht. Das Mädchen war verzweifelt. Sie weinte,
-schluchzte … Es lag ihr also ungeheuer viel an dieses Zusammenkunft.
+schluchzte … Es lag ihr also ungeheuer viel an dieser Zusammenkunft.
 Sie wollte den Unbekannten vielleicht durch
 das Geld zu irgend etwas bestimmen. Möglich auch, daß
 es sich um ein Weib handelte, das das Mädchen zum Stelldichein

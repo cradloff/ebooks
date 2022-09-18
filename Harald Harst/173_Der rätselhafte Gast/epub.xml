@@ -30,7 +30,7 @@ Lydia Salnavoors Testament.
 <entry key="rights">Public Domain</entry>
 <entry key="pubDate">1926</entry>
 <entry key="toc">true</entry>
-<entry key="toc-entries">h1, h3</entry>
+<entry key="toc-entries">h1, h2</entry>
 <entry key="freemarker">true</entry>
 </properties>
 
