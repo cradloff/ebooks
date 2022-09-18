@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">69b4b15a-3287-465f-a0e4-f1d95d9bfc59</entry>
+<entry key="title">Die grünrote Schnur</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">174</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die grünrote Schnur.
+
+Seltsame menschliche Gewächse gedeihen im bunten Garten dieser Welt …
+
+Menschen trifft man, die einem vorkommen, als stammten sie von einem anderen Planeten …
+
+Einsiedlerische Originale hausen im Getriebe der Millionenstädte — unbeachtet, unbekannt, kaum von den Flurnachbarn in den Mietskasernen eines neugierigen Blickes oder Wortes gewürdigt … —
+
+Solch ein Wesen, ein altes, vertrocknetes Fräulein mit einem spitzen Vogelgesichtchen, erwies uns beiden an einem warmen Apriltage die Ehre …
+
+Die Brigg Atlanta.
+
+Kapitän Friedrich Schmidt kippte den zweiten Kognak hinter die Binde, und zwar einen ausgewachsenen Kognak, Format Sherryglas … Dann begann er:
+
+»Die Geschichte verhält sich so, meine Herren … Ich war heute nachmittag in der Stadt, um verschiedenes einzukaufen, und kam erst gegen halb acht Uhr nach meiner Laube zurück.  Wie ich dann mein Gärtchen betrat, war es schon beinahe dunkel … Ich verschloß die Zaunpforte, und wie ich so den Schlüssel in die Tasche schob, da … ja … da war mir’s wie eine Art Vorahnung, meine Herren, — so ein merkwürdiges Gefühl hatte ich, als ob in meiner Abwesenheit dieser … dieser unbekannte Halunke hier wieder etwas … etwas berissen hätte …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (174) Die grünrote Schnur.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h2</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
