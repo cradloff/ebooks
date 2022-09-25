@@ -1564,9 +1564,9 @@ Gras …
 
 <h2>1. Kapitel.</h2>
 
-+… Was war das nur …?!.
+… Was war das nur …?!
 
-Was nur?k!
+Was nur?!
 
 Wirklich die Klänge einer Drehorgel?!
 
@@ -1574,7 +1574,7 @@ Nein — das war ein wildes Durcheinander von Melodien,
 
 Eine Katzenmusik von mindestens sechs Drehorgeln …
 
-3Zwischenein brüllende Stimmen»…
+Zwischenein brüllende Stimmen …
 
 Kreischende Geräusche …
 
@@ -1591,7 +1591,7 @@ Als erstes, nachdem ich das Bewußtsein wiedererlangt hatte.
 
 Um mich her Dunkelheit …
 
-Schräg über mir ein matt rötliches Viereck »… Ein kleines
+Schräg über mir ein matt rötliches Viereck … Ein kleines
 Fenster, das mit einem roten Stück Leinwand verhängt war.
 
 Dann fielen mir die Augen wieder zu …
@@ -1605,10 +1605,10 @@ Und doch nur für kurze Zeit …
 Das erneute Erwachen brachte mir einen klareren Kopf
 und empfänglichere Sinne …
 
-Ich fühlte, daß im lang ausgestreckt auf Decken lag, gefesselt
+Ich fühlte, daß ich lang ausgestreckt auf Decken lag, gefesselt
 und geknebelt … Die Arme waren mir über der
 Brust festgeschnürt, und die Ellenbogen offenbar an Nägel
-gebunden, die man durch) die Teer in den Fußboden dieses
+gebunden, die man durch die Decken in den Fußboden dieses
 Kerkers getrieben hatte …
 
 In einer Ecke unterschied ich Kisten und Stangen …
@@ -1635,12 +1635,12 @@ Das konnte nur einem sich drehenden Karussell und seinen
 Lampen zuzuschreiben sein!
 
 Und dies und die Affen und die Katzenmusik und die
-Stimmen der Ausrufer besagten genug — übergenug!t!
+Stimmen der Ausrufer besagten genug — übergenug!!
 
 Ein Rummelplatz!
 
-Und dieser Raum hier ein Wagen von Schaustellern .,!!
-Ein Gerätewagein!
+Und dieser Raum hier ein Wagen von Schaustellern …!!
+Ein Gerätewagen!
 
 Und — — ich nicht allein in diesem Kerker!!
 
@@ -1652,7 +1652,7 @@ Erkenne eine menschliche Gestalt …
 
 Neben ihr eine zweite …
 
-Kann jedoch) nicht feststellen, wer es ist.
+Kann jedoch nicht feststellen, wer es ist.
 
 Menschen jedenfalls, Leidensgefährten …
 
@@ -1662,7 +1662,7 @@ Vielleicht — — ja, — wer denn noch?!
 
 Wer?!
 
-Und da fällt mir die Szene ein, wie einer der die?!
+Und da fällt mir die Szene ein, wie einer der drei
 »Helfer« auf uns zukam, von der Parkmauer her …
 
 Wie wir beide in diesen dreien nichtahnend Helga und
@@ -1680,7 +1680,7 @@ Gitterpforte …
 
 Alles nur darauf berechnet, uns unschädlich zu machen!!
 
-»Und das: wer war das dritte Opfer hier neben mir?!
+Und doch: wer war das dritte Opfer hier neben mir?!
 Wer nur?!
 
 Ich strengte meine Augen über Gebühr an, um Einzelheiten
@@ -1690,10 +1690,10 @@ Unmöglich, die Gesichter zu erkennen …
 
 Sie blieben nur hellere Flecke …
 
-Und doch) schien es mir so, als ob die dritte Person
+Und doch schien es mir so, als ob die dritte Person
 Harald sein müßte …
 
-Eier …!
+Schien …!
 
 Ich konnte mich auch irren …
 
@@ -1722,54 +1722,54 @@ Baarsörs stehend und die hagere Frau Gunvor dort am
 Schreibtisch beobachtend …
 
 Dann dieselbe Frau aus dem Fenster steigend — auf die
-
 Mauerkrone kletternd — im Garten verschwindend …
+
 Seltsam — — sehr seltsam für eine Dame der besten
 Gesellschaft!
 
 Weshalb hatte sie sich gerade nachts in das Heim des
 <@pagebreak/>
 Toten eingeschlichen?! Und — ob sie diesen Weg nicht schon
-häufiger zurüFfgelegt hatte?!
+häufiger zurückgelegt hatte?!
 
 Wahrscheinlich!!
 
 Eins war gewiß: der Fall Sigurd Baarsör, der sich nun
 auf zwei Hauptfragen konzentriert hatte — Mord oder Selbstmord?!
-— — dieser Fall war nicht so einfach) zu lösen …
-Dieser Fall hatte uns nun seine gefährlicher Seiten gezeigt,
+— — dieser Fall war nicht so einfach zu lösen …
+Dieser Fall hatte uns nun seine gefährlichen Seiten gezeigt,
 hatte sich immer mehr verwirrt …
 
 War der Ingenieur tatsächlich mit einem geistigen Defekt
 belastet gewesen?! War er irrsinnig gewesen? Hatte er
-Selbstmord verübt, um seine Frau in eine schwere. Auftrage
+Selbstmord verübt, um seine Frau in eine schwere Anklage
 zu verstricken?!
 
 Wo lag die Wahrheit?!
 
 Ich schloß die Augen …
 
-Alles Grübeln war zwecklos
+Alles Grübeln war zwecklos …
 
-Ich lauschte auf das Gedudel ’der Drehorgeln, auf »das
-Kreischen der Ufer …
+Ich lauschte auf das Gedudel der Drehorgeln, auf das
+Kreischen der Affen …
 
 Plötzlich … fuhr eine Hand über mein Gesicht …
 
-Eine fühle kleine Hand …
+Eine kühle kleine Hand …
 
 Ich reiße die Augen auf …
 
-Auf meiner Brust hockt ein Gesehen …
+Auf meiner Brust hockt ein Äffchen …
 
-Und dort rechts huschen noch drei andere kleine behaart-Gestalten
-umher …
+Und dort rechts huschen noch drei andere kleine behaarte
+Gestalten umher …
 
 Die Affen sind ausgebrochen …
 
 Der, der mir auf der Brust hockt, betastet mein Gesicht,
 
-Der Knebel in meinem Munde scheint ihm zu mißfallen-
+Der Knebel in meinem Munde scheint ihm zu mißfallen.
 
 Er zerrt an der Schnur …
 
@@ -1792,9 +1792,8 @@ bewege, schleunigst davonspringt …
 
 Gepriesen, — denn — — ich kann meine Zähne gebrauchen
 …! Ich kann mit meinen Zähnen — und die sind
-so echt wie meine Glatze! — an die Knoten meiner Hände
-
-Sesseln heran, und nicht zum ersten Male geschieht’s, daß
+so echt wie meine Glatze! — an die Knoten meiner Handfesseln
+heran, und nicht zum ersten Male geschieht’s, daß
 ich Fesseln, Knoten mit den Zähnen löse …!
 
 Ich mache mich an die Arbeit …
@@ -1807,17 +1806,17 @@ Es genügt …
 
 In wenigen Minuten kann ich mich erheben …
 
-Die Messer flitzen hin und her …
+Die Affen flitzen hin und her …
 
 Ich betaste meine Taschen …
 
 Hallo — — da ist meine Taschenlampe …
 
-Und wahrhaftig, — — da ist auch meine Clementpistole!]
+Und wahrhaftig, — — da ist auch meine Clementpistole!!
 
 Oh — müssen die Burschen sich sicher fühlen, die uns
-Gingen «! Müssen die von der Güte der Fesselung überzeugt
-sein!!1
+fingen …! Müssen die von der Güte der Fesselung überzeugt
+sein!!
 
 Freilich — an die Affen hatten sie nicht gedacht …! —
 
@@ -1829,10 +1828,10 @@ Da hat dicht neben mir eine Frau gelegen …
 
 Das war meine Nachbarin …
 
-Eine Frau — scheinbar alt, Runzeln, graues Haar »…
+Eine Frau — scheinbar alt, Runzeln, graues Haar …
 Aber junge blaue Augen …
 
-Helga — — da Helga!!
+Helga — — doch Helga!!
 
 Und dort nach der Rückwand des Wagens hin — —
 noch zwei Männer …
@@ -1840,7 +1839,7 @@ noch zwei Männer …
 Der eine — — der Bauer, der mit uns gesprochen,
 Helgas Bruder …!
 
-Als ersten befreie ich; Harst, dann die andern …
+Als ersten befreie ich Harst, dann die andern …
 
 Und kaum fertig damit, verstummt draußen auch schon
 die Katzenmusik …
@@ -1861,7 +1860,7 @@ Nun müssen sehr bald die erscheinen, die uns fingen …
 
 Wir warten und halten die Waffen bereit …
 
-Wir wissen, daß wir jetzt die Verband haben — das
+Wir wissen, daß wir jetzt die Vorhand haben — das
 bessere Spiel, die besseren Aussichten. —
 
 Die Lampen der Karusselle erlöschen …
@@ -1869,21 +1868,21 @@ Die Lampen der Karusselle erlöschen …
 Unser Fenster wird dunkel …
 
 Und das vergeht noch eine Viertelstunde, bevor wir
-draußen. Stimmen hören, Lachen, Kreischen von Weibern …
+draußen Stimmen hören, Lachen, Kreischen von Weibern …
 
-Mut) das verstummt …
+Auch das verstummt …
 
-Nur unsere Gesehen in ihrer Kiste, die so kurze Zeit
+Nur unsere Äffchen in ihrer Kiste, die so kurze Zeit
 halbe Freiheit gekostet haben, sind unheimlich munter …
 
 Schnattern, — als ob sie uns undankbare Menschen beschimpfen,
 weil wir ihnen ihren Liebesdienst so schlecht gelohnt
 haben …
 
-Endlich .; Schritte auf der Treppe, die zur Wagentür
+Endlich … Schritte auf der Treppe, die zur Wagentür
 emporführt …
 
-E. Kapitel.
+<h2>2. Kapitel.</h2>
 
 Endlich kreischt ein Schlüssel im Schloß der Wagentür.
 
@@ -1895,32 +1894,32 @@ Wir liegen, als ob wir noch immer geknebelt und gebunden
 
 Zwei Männer, ein Weib …
 
-Alle drei ’vermummt … Die Gesichter verborgen hinter
-schwarzen Langes …
+Alle drei vermummt … Die Gesichter verborgen hinter
+schwarzen Lappen …
 
 Das Weib drückt die Tür zu …
 
-Ah — [so ist’s recht … In
+Ah — so ist’s recht …
 
 Heidi — — aufgesprungen, eingepackt, zugeschlagen …
 
 Heidi — — wir haben sie fest …
 
 <@pagebreak/>
-Wir sind Sieger »…
+Wir sind Sieger …
 
 Wir reißen den dreien die Lappen herunter …
 
 Das Weib, der eine Mann: uns fremd!
 
-Der zweite aber, — he — das ist Herr Eben RNordscjösld,
+Der zweite aber, — he — das ist Herr Sven Nordscjöld,
 der Fragwürdige von der Fähre!!
 
 Unsere Pistolen drohen …
 
 Die drei sind zahme Lämmer …
 
-Denn was Harst ihres da vorträgt, ist sehr eindeutig:
+Denn was Harst ihnen da vorträgt, ist sehr eindeutig:
 Ungehorsam — — eine Kugel!! — Sehr eindeutig!!
 
 Sie stehen nebeneinander an der Rückwand, die drei …
@@ -1929,7 +1928,7 @@ Wir fünf ihnen gegenüber …
 
 Grell beleuchtet sind die drei …
 
-Jedes Mienenspiel Pferd beobachtet …
+Jedes Mienenspiel wird beobachtet …
 
 Und Harst fragt den Kerl von der Dampffähre:
 
@@ -1937,15 +1936,15 @@ Und Harst fragt den Kerl von der Dampffähre:
 
 Schweigen …
 
-»Seien Sie verständig, Mann!« warnt Hallo. »Wenn
+»Seien Sie verständig, Mann!« warnt Harald. »Wenn
 ich die Polizei herbeirufe, wandern Sie ins Zuchthaus. Sie
 haben uns auf dem Trajekt ersäufen wollen … Sie besaßen
-Papiere eines Kaufmanns Eben Nordscjöld … Natürlich
-beißen Sie ganz anders … — Heraus mit der Sprache!«
+Papiere eines Kaufmanns Sven Nordscjöld … Natürlich
+heißen Sie ganz anders … — Heraus mit der Sprache!«
 
 Der Mann wird gefügig …
 
-»3HBH bin der Wildester eines Karussells … Mein Name
+»Ich bin der Mitbesitzer eines Karussells … Mein Name
 ist Holger Hangson … Der dort ist mein Brüder Friedrich,
 und das da seine Frau Anna …«
 
@@ -1956,41 +1955,42 @@ und das da seine Frau Anna …«
 »Dann bleiben Sie bei der Wahrheit … Nur das kann
 Sie vor dem Zuchthaus retten … Ich werde Sie schonen,
 wenn Sie ehrlich sind — nur dann! Andernfalls … —
-Zaun, — Sie kennen mich?«
+nun, — Sie kennen mich!«
 
 »Ja, Herr Harst … Ich weiß, daß Sie nachsichtig sein
 können … — Die Sache ist die, Herr Harst … Die Geschäfte
 gehen schlecht … Unser Karussell ist veraltet … Da
-halten wir denn, mein Bruder und ich, um nähere Schulden
-loszuwerden, einen … einen Eindruck ausgekundschaftet,
+hatten wir denn, mein Bruder und ich, um nähere Schulden
+loszuwerden, einen … einen Einbruch ausgekundschaftet,
 <@pagebreak/>
-der sich lohnte … bei einer reichen Witwe in der Kunst
-
+der sich lohnte … bei einer reichen Witwe in der 
 Kungsgatan …«
+
 »Bei Frau Gaarsen?«
-»Ja … Über — — woher wissen Sie das, Herr -Harst?«
+
+»Ja … Aber — — woher wissen Sie das, Herr Harst?«
 
 »Sprechen Sie weiter … — Sie führten diesen Einbruch
-ans und wurden abgefaßt?«
+aus und wurden abgefaßt?«
 
 »Erst als wir das Haus durch den Garten wieder verließen
 — nach der Farnögatan zu — — mit der Beute …
 Da trat uns ein Mann entgegen … Wir wollten uns nicht
 verhaften lassen … Der Mann verlangte blinden Gehorsam,
-lich uns dann mit der Beute entweichen … C&s8 waren Silber-famen
+ließ uns dann mit der Beute entweichen … Es waren Silbersachen
 …«
 
 »Und dieser Mann schickte Sie nach Saßnitz, Holger
-Hangson k«
+Hangson?«
 
-»Ja … Mit den Papieren des Eben Nordscjöld und mit
+»Ja … Mit den Papieren des Sven Nordscjöld und mit
 dem Befehl, Ihnen und Ihrem Freunde Schraut aufzulauern
 und Sie beide …«
 
-»… In ermorden …«
+»… zu ermorden …«
 
-»I … — Ich sollte dafür 25000 Kronen erhalten, —
-wenn es mißglückte, nur 1000 Kronen …’«
+»Ja … — Ich sollte dafür 25&nbsp;000 Kronen erhalten, —
+wenn es mißglückte, nur 1000 Kronen …«
 
 »und der Mann hat Sie, Ihren Bruder und dessen Frau
 dann auch zu dem neuen Anschlag angestiftet …«
@@ -1998,19 +1998,19 @@ dann auch zu dem neuen Anschlag angestiftet …«
 »Ja, — — wir sollten Sie fünf überfallen, wie’s dann
 auch geschehen … Der Mann gab uns zu diesem Zweck eine
 Gaspatrone … Naher sollten wir Sie fünf in den Teich
-neben der Nordecke des Parkes werfen … — Mit Clement
+neben der Nordecke des Parkes werfen … — Mit Steinen
 an den Füßen … Das brachten wir nicht über uns … Wir
-stoppten Sie hier auf den Schaubudenplatz der Fischerboot«-
-Stadt von Göteborg und hier in den Wagen »… Dem Manne
+stoppten Sie hier auf den Schaubudenplatz der Fischervorstadt
+von Göteborg und hier in den Wagen … Dem Manne
 habe im gesagt, daß Sie fünf ersäuft seien. Da gab er mir
-die versprach)Omen 30000 Kronen …«
+die versprochenen 30&nbsp;000 Kronen …«
 
 »Wo trafen Sie mit diesem Menschen zusammen?«
 
 »Stets abends oder nachts in der Kungsgatan unter den
 alten Linden …« —
 
-»Inne sah der Mann aus?«
+»Wie sah der Mann aus?«
 
 »Er war bucklig, hatte einen schwarzen Vollbart und trug
 <@pagebreak/>
@@ -2024,44 +2024,44 @@ gelang mir nicht …«
 »Wir wollten morgen das Karussell abbauen und Göteborg
 mit den Wagen verlassen … Dann wollten wir Sie
 irgendwo gefesselt am Wege niederlegen und verschwinden …
-Wir hofften, Sie würden nicht ahnen, wo Sie sich befanden
+Wir hofften, Sie würden nicht ahnen, wo Sie sich befunden
 haben …«
 
 Harst lachte …
 
-»Langsam, Sie sind ein Narr?! Aber ein gefährlicher
+»Hangson, Sie sind ein Narr!! Aber ein gefährlicher
 Narr!! Eigentlich verdienten Sie kein Mitleid … Weil mir
 aber Ihre Angaben wertvoll sind, will ich Gnade vor Recht
-ergehen lassen. — Alt Ihnen an dem Manne, der Sie zu
-diesen Verbrechen Anstifters, irgend etwas ausgefallen?«
+ergehen lassen. — Ist Ihnen an dem Manne, der Sie zu
+diesen Verbrechen anstiftete, irgend etwas aufgefallen?«
 
 Hangson dachte nach …
 
 »Hm — ich glaube, Herr Harst, es war gar kein Mann,
 sondern ein Weib … Vielleicht die Witwe Gaarsen … —
-vielleicht«…«
+vielleicht …«
 
-»Deshalb nehmen Sie an, daß es ein Weib gewesen sein
-ganze«
+»Weshalb nehmen Sie an, daß es ein Weib gewesen sein
+kann?«
 
 »Der Stimme wegen … Die klang so unnatürlich tief,
 Herr Harst … Und dann noch die Hände … Es waren sehr
 schmale lange Hände mit vielen Ringen … Im übrigen aber
 trat das Weib so energisch auf, daß ich und mein Bruder, als
-sie uns damals im Garten stellte, nicht zu machten Vaters
-…- Dr — — es kann auch ein Mann gewesen sein. Kann
+sie uns damals im Garten stellte, nicht zu mucksen wagten
+… — Doch — — es kann auch ein Mann gewesen sein. Kann
 — — ich weiß es nicht … Friedrich meint, es war ein Mann.«
 
 »Was haben Sie denn mit der Diebesbeute getan?«
 
 »Oh — die brauchten wir nicht mehr … Die haben wir
-vorhin durch) Anna in den Hausflur der Frau Gaarsen legen
-lassen,«… Beim Verkauf der Silbersachgen wären wir womöglich
-noch Geklappt worden … Wir haben ja nun die
+vorhin durch Anna in den Hausflur der Frau Gaarsen legen
+lassen … Beim Verkauf der Silbersachen wären wir womöglich
+noch beklappt worden … Wir haben ja nun die
 30&nbsp;000 Kronen …«
 
 <@pagebreak/>
-»und der Mann hat Ihnen ohne weiteres geglaubt, daß
+»Und der Mann hat Ihnen ohne weiteres geglaubt, daß
 Sie uns fünf in dem Teich ertränkt haben?«
 
 »Ja … Ich zeigte dem Manne Ihre Sportmützen und
@@ -2084,55 +2084,54 @@ Jahren geradezu vom Unglück verfolgt worden … Das verbittert
 die Menschen … Das macht selbst anständige Charaktere
 dem Verbrechen zugänglich … Wir haben gearbeitet
 und geschuftet, wir haben in der freien Zeit allerlei andere
-Arbeiten angenommen.«… Und doch — es ging mit uns
+Arbeiten angenommen … Und doch — es ging mit uns
 immer mehr rückwärts — immer mehr … Und dann kam
 die unselige Stunde, wo wir den Entschluß faßten, den Einbruch
-zu begehen, unsere erste schlechte Tat! Dann … nur
-den wir Sklaven dieses Unbekannten, von dem wir nicht
+zu begehen, unsere erste schlechte Tat! Dann … wurden
+wir Sklaven dieses Unbekannten, von dem wir nicht
 einmal wissen, ob Mann oder Weib … Wenn’s ein Weib
 ist, dann ist’s ein leibhaftiger Satan!! — Herr Harst, glauben
 Sie nicht, daß ich so ohne weiteres mich zu dem Mordversuch
-hergab! O nein — Schuh habe mich gesträubt, aber dieser
+hergab! O nein — ich habe mich gesträubt, aber dieser
 Teufel, dieses hagere Scheusal sagte mir, Sie beide kämen
 nach Göteborg, um den Diebstahl aufzuklären … Und — —
 das war der größte Trumpf, den dieser Mann ausspielte! Ich
 kannte Sie von Namen … Ich sah mich schon im Gefängnis
-
 — — Doch — ich will mich hier nicht reinwaschen …
-Ich bin ein Gestrauchelter, und …
+Ich bin ein Gestrauchelter, und …«
 
 Seine Stimme hatte bei den letzten Sätzen immer mehr
 gezittert …
 
 <@pagebreak/>
-Jetzt versagte sie ihm …-
+Jetzt versagte sie ihm …
 
 Und Holger Hangson heuchelte nicht … Was er vorbrachte,
 klang ehrlich und überzeugend …
 
 Harst sagte in seiner milden Art:
 
-— »Lassen Sie es gut sein, Hangson … Ein reuiger Sünder
+»Lassen Sie es gut sein, Hangson … Ein reuiger Sünder
 ist besser als tausend Pharisäer, die da glauben, die Moral
 in Erbpacht genommen zu haben … — Es bleibt bei meinem
 Entschluß: Ich werde schweigen … Und wenn ich den Tod
 Sigurd Baarsörs aufklären sollte — denn nur deshalb bin
-ich; hier —, so werde ich versuchen, Sie drei auch dann nicht
+ich hier —, so werde ich versuchen, Sie drei auch dann nicht
 zu erwähnen, falls eben die Polizei mit eingreifen sollte …
 — Jetzt werden wir fünf uns entfernen. Bleiben Sie fernerhin
 brav, Hangson! Das Geld, das der Unbekannte Ihnen
 gab, können Sie …«
 
-»ob — — nichts davon behalte ich, nichts!« rief Hangson
+»Oh — — nichts davon behalte ich, nichts!« rief Hangson
 erregt, »Ich werde es …«
 
 »Schicken Sie es anonym einer Wohltätigkeitsanstalt …
-—» Und hier — — diese tausend Kronen können Sie von mir
+— Und hier — — diese tausend Kronen können Sie von mir
 getrost annehmen … Das, was Sie mir mitteilten, ist mehr
 wert als nur diese Summe …« —
 
-Dann schritten wir fünf durch die nächtlich stille Villenvorstadt
-…
+Dann schritten wir fünf durch die nächtlich stille
+Fischervorstadt …
 
 Der eine der Brüder Helgas hatte uns erklärt, daß er
 uns zu seiner Mutter führen würde … »Falls Sie sich
@@ -2140,7 +2139,7 @@ nicht scheuen, Herr Harst, das Heim einer … Hehlerin zu
 betreten,« fügte er hinzu. »Wir haben doch aber manches
 miteinander zu besprechen, und anderswo dürften wir kaum
 sicher genug sein, da nicht nur mein Bruder und ich, sondern
-auch Helga von der verehrten Polizei mit sehnsüchtigen Wissen
+auch Helga von der verehrten Polizei mit sehnsüchtigen Blicken
 erwartet werden.«
 
 Harst hatte nur erwidert: »Bringen Sie uns zu Ihrer
@@ -2149,26 +2148,27 @@ Mutter …«
 Und so geleitete uns denn der als Bauer verkleidete
 Gustaf Sörlarg, der älteste der drei Geschwister, bis in eine
 breitere Straße, bis zu einem schmalen, uralten Hause, vor
-dem gerade eine Entlassene stand.
+dem gerade eine Gaslaterne stand.
 
 <@pagebreak/>
-Das Laternenlicht beschien ein Holzschild über der Haus
+Das Laternenlicht beschien ein Holzschild über der Haustür
+mit verwaschenen Buchstaben:
 
-für mit vernäht)Omen Buchstaben:
-9\. Sörlarg
-An« und Verkauf alter Sachen jeder Art.
+<p class="centered"><em>H. Sörlarg</em></p>
+
+<p class="centered">An- und Verkauf alter Sachen jeder Art.</p>
 
 Aber — Gustaf Sörlarg schritt vorüber, nachdem er sich
-Tüchtig umgeschaut hatte …
+flüchtig umgeschaut hatte …
 
-»Diebe Lallt« sagte er auf deuten zu Harald …
+»Dicke Luft!!« sagte er auf deutsch zu Harald …
 
 Das hieß nichts anderes als: Gefahr droht!
 
-Wir beschlepnigten trotzdem nicht das Tempo, sondern
+Wir beschleunigten trotzdem nicht das Tempo, sondern
 schritten harmlos weiter.
 
-Die Straße senkte sich hier, und nach einer’ scharfen Biegung
+Die Straße senkte sich hier, und nach einer scharfen Biegung
 schimmerte vor uns ein Seitenkanal des Göteborger
 Hafens …
 
@@ -2178,16 +2178,16 @@ An dieser Mauer gingen wir auf dem schmalen Fußgängerwege
 entlang …
 
 Gustaf Sörlarg war plötzlich ein paar Meter voraus und
-—.» Wie spurlos verschwunden …
+… wie spurlos verschwunden …
 
 Frau Helga, die sich dicht neben mir hielt und die bisher
 kein einziges Wort gesprochen hatte, flüsterte halblaut, so
 daß Harald und ich es hören mußten:
 
 »Jetzt rasch … Links hinein … Sigmar wird die Tür
-wieder schlichen …«
+wieder schließen …«
 
-Tür?! …
+Tür?!
 
 In der alten verwitterten Mauer gab es hier tatsächlich
 ein Türchen, gerade hoch und breit genug, einen Menschen
@@ -2195,8 +2195,8 @@ hindurchzulassen …
 
 Kein Türchen gewöhnlicher Art …
 
-Nein — mehr ein geheimes Schlupfloch, das nur Kino
-geweihte bemerken und öffnen konnten …
+Nein — mehr ein geheimes Schlupfloch, das nur Eingeweihte
+bemerken und öffnen konnten …
 
 Ein Türchen ganz nach Art der Geheimtüren in alten
 deutschen Schlössern und Burgen: ein Eisenrahmen, mit
@@ -2215,23 +2215,22 @@ Gustaf Sörlarg lächelte spöttisch:
 waren wieder zwei von den Greifern in der Nähe … Nun
 mögen sie suchen …! Diese Mauer, Herr Harst, stammt aus
 dem 17. Jahrhundert und stellt einen Teil der früheren
-Dafenbefestigungen dar. — So, — — folgen Sie mir bitte.«
+Hafenbefestigungen dar. — So, — — folgen Sie mir bitte.«
 
 Nach etwa hundert Meter führte ein schräger Schacht
 in die Tiefe. Eine steile Holztreppe brachte uns in einen
-Ein Brettern abgestützten Gang, der sich bis zu einer Mauer
-
+mit Brettern abgestützten Gang, der sich bis zu einer Mauer
 hinzog,
 
 Gustaf Sörlarg bückte sich und öffnete hier eine genau
-gleiche Pforte — ein Fürchten, meinte mit überlegener Ironie:
+gleiche Pforte — ein Türchen, meinte mit überlegener Ironie:
 
 »Herr Harst, ich weihe Sie hiermit in das größte und
 wichtigste Geheimnis meines Elternhauses ein … Ich kann
 leider auf meine Eltern ebenso wenig stolz sein wie auf mich
 und Sigmar. Mein Vater sitzt im Zuchthaus … Meine
 Mutter ist ein besonderer Liebling der Polizei, aber nie
-abzufassen. Und trotzdem besten wir Sörlargs einen stark
+abzufassen. Und trotzdem besitzen wir Sörlargs einen stark
 ausgeprägten Familiensinn …«
 
 Dann durchschnitt er das Pförtchen …
@@ -2239,29 +2238,29 @@ Dann durchschnitt er das Pförtchen …
 Wir folgten und standen in einem Keller, der in einer
 Ecke lediglich einen Haufen Kartoffeln enthielt …
 
-… Und wenig später saßen wir in einem Hinterzimmer des
+Und wenig später saßen wir in einem Hinterzimmer des
 Sörlargschen Hauses um einen Tisch herum …
 
 <h2>3. Kapitel.</h2>
 
-Unter einer Hehlerin, die ihr Ein« und Verkaufsgeschäft
-für alte Sachen dazu benutzt, um Dieben die Beute billig ab
-handeln zu können, — unter der Frau eines Zuchthäuslers
+Unter einer Hehlerin, die ihr Ein- und Verkaufsgeschäft
+für alte Sachen dazu benutzt, um Dieben die Beute billig abhandeln
+zu können, — unter der Frau eines Zuchthäuslers
 wird jeder sich eine Vorstellung machen, wie er sie vielleicht
 irgendeinem Schauerroman entnimmt …
 
-Frau Sörlarg hätte in jedes Kaffeekränzchen braver Hand«
-werkerfrauen hineingepaßt …
+Frau Sörlarg hätte in jedes Kaffeekränzchen braver Handwerkerfrauen
+hineingepaßt …
 
 <@pagebreak/>
-Sie war ein rundliches, noch recht ins; aussehendes
+Sie war ein rundliches, noch recht frisch aussehendes
 Weiblein mit einem unendlich gutmütigen Gesicht und freundlichen
 blaugrauen Augen, denen all das fehlte, was die
 Verbrecherin kennzeichnen soll …
 
 In diesen Augen war nichts Lauerndes, Verstecktes oder
 Hinterhältiges … Blank, jung und vergnügt waren sie …
-Und so war auch das ganze lebhafte Versuchen …
+Und so war auch das ganze lebhafte Persönchen …
 
 Als ihr ältester Sohn uns ihr vorgestellt hatte, da hatte
 sie uns zunächst staunend gemustert …
@@ -2272,14 +2271,14 @@ Dann machte sie uns eine Art Knix und sagte freundlich:
 … Ich weiß, wie liebevoll Sie Helga in Berlin behandelt
 haben … Sie haben das Herz eben auf dem rechten Fleck
 … — Und nun nehmen Sie bitte Platz, meine Herren …
-Oh will nur wieder die Hunde in den Hausflur lassen …
+Ich will nur wieder die Hunde in den Hausflur lassen …
 Dann sind wir vor jeder Überraschung sicher …«
 
 Wir hatten die beiden mächtigen, breitbrüstigen englischen
-Bulldoggen [schon vorhin gesehen …
+Bulldoggen schon vorhin gesehen …
 
 Und nun saßen wir alle um den großen Sofatisch herum
-… Tranken Tee und aßen die angestrichen Brötchen, die
+… Tranken Tee und aßen die appetitlichen Brötchen, die
 Mutter Sörlarg und Helga in aller Eile hergerichtet hatten,
 
 Dann begann Gustaf Sörlarg zu sprechen …
@@ -2291,49 +2290,50 @@ Frau Mutter wieder weiterflüchtete. Ein Zufall führte uns
 Helga auf dem Fehrbelliner Platz in den Weg … Wir
 hatten sie seit Jahren nicht gesehen, und da sie dicht verschleiert
 war, hätten wir sie nie erkannt. Aber sie erkannte
-uns … Und alles weitere ergab sich von selbst. Wir des
-schlossen, mag der Heimat zu reisen und für Helga uns mit
-aller Kraft einzugehen. Ein Hochstapler ist ja zugleich ein
+uns … Und alles weitere ergab sich von selbst. Wir beschlossen,
+nach der Heimat zu reisen und für Helga uns mit
+aller Kraft einzusetzen. Ein Hochstapler ist ja zugleich ein
 wenig Detektiv, Herr Harst, muß wissen, wie er den Häschern
-entgeht und wie diese Häscher arbeiten. — Der zweite Zu
-Fall: wir trafen mit Ihnen auf dem Trajekt zusammen! Wir
+entgeht und wie diese Häscher arbeiten. — Der zweite Zufall:
+wir trafen mit Ihnen auf dem Trajekt zusammen! Wir
 konnten uns als gebürtige Stockholmer ausweisen … Niemand
 <@pagebreak/>
 beargwöhnte uns. Und unangefochten kamen wir hier
-nach) Göteborg, wo wir genügend Freunde haben, die uns
+nach Göteborg, wo wir genügend Freunde haben, die uns
 verbergen würden, bei denen wir wohnen könnten. Unsere
 Mutter wollten wir zunächst nicht besuchen, sondern erst einmal
 dafür sorgen, daß wir mit Ihnen und Ihrem Freunde
-in Verbindung kämen. Ich war’s, der ein nickte Villa
+in Verbindung kämen. Ich war’s, der sich in die Villa
 Barnalundi schlich, als Sie gerade in der Diele das Personal
 sich vorstellen ließen. Ich wußte, daß Sie sich unbedingt von
 dem Diener Högersen den Ofen im Damensalon zeigen lassen
-würden. Deshalb legte ich den Brief in den Ofenaussatz.
-Alles ging nach) Wunsch. Ich sprach) mit Ihnen an der Tatsache,
+würden. Deshalb legte ich den Brief in den Ofenaufsatz.
+Alles ging nach Wunsch. Ich sprach mit Ihnen an der Parkecke,
 und wir drei haben dann Ihrem Befehl gemäß die Villa
-beobachtet, Aber — — leider bemerkten wir nicht Auffälliges,
-während wir anderseits wieder bemerkt ’worden
-waren »… Und mit erregt Male passierte uns dasselbe wie
+beobachtet. Aber — — leider bemerkten wir nicht Auffälliges,
+während wir anderseits wieder bemerkt worden
+waren … Und mit einem Male passierte uns dasselbe wie
 Ihnen: die Gaspatrone tat ihre Schuldigkeit, und wir drei
 waren gründlich außer Gefecht gesetzt — vielleicht eine halbe
 Stunde vor Ihrem Erscheinen. Die beiden Hangsons hatten
-uns eben überrumpelt, Und die Hangsons haben natürlich
+uns eben überrumpelt. Und die Hangsons haben natürlich
 den Befehl, uns drei zu betäuben und zu töten, von demselben
-dem Geschlecht naß fragwürdigen Gentleman erhalten,
+dem Geschlecht nach fragwürdigen Gentleman erhalten,
 der auch für Sie beide ein so gefährliches Interesse zeigte.
 Alles weitere wissen Sie … — Es handelt sie nun darum,
-Herr Harst: Wie können wir diesen hageren Buckligen erst
-decken? — Denn daß dieser Morsche der Mörder Baarsörs.
+Herr Harst: Wie können wir diesen hageren Buckligen entdecken?
+— Denn daß dieser Mensch der Mörder Baarsörs
 ist, unterliegt für mich keinem Zweifel!«
 
-Harst trank einen Schirm …
+Harst trank einen Schluck …
 
 Dann meinte er in seiner zuweilen so sehr bedächtigen Art:
 
 »Ich möchte doch nicht so ohne weiteres einen Mord annehmen
 … Die Möglichkeit eines Selbstmordes erscheint mir
-nicht ganz ausgeschlossen«…«
-Die beiden Brüder Sörlarg Mächten sehr erstaunte Gesichter
+nicht ganz ausgeschlossen …«
+
+Die beiden Brüder Sörlarg machten sehr erstaunte Gesichter
 …
 
 »Selbstmord?!« rief Gustaf … »Nein, — nach alledem,
@@ -2342,28 +2342,28 @@ was ich über meinen Herrn Schwager weiß, dürfte …«
 »Verzeihung, — Sie wissen eben nicht genug,« unterbrach
 <@pagebreak/>
 Harald ihn … »Was Sie wissen, ist nicht so erschöpfend wie
-die Ergebnisse unserer Erkundigungen hier«…«
+die Ergebnisse unserer Erkundigungen hier …«
 
 Jetzt begann auch ich doppelt scharf aufzuhorchen …
 
 Denn mein guter Harald hatte ja im allgemeinen weder
 über die Witwe Gaarsen noch über Frau Gunvor Baarsörs
 nächtlichen Ausflug in den Seitenflügel des Hauses Farnögatan
-11 sie; gründlich geäußert, obwohl er da fraglos seine
+11 sich gründlich geäußert, obwohl er doch fraglos seine
 besondere Meinung über die beiden Damen sich gebildet hatte.
 
 »Und — was haben diese Erkundigungen ergeben?« fragte
-der ältere Göteborg gespannt …
+der ältere Sörlarg gespannt …
 
 Harald zögerte — erwiderte dann:
 
 »Das Ergebnis ist so widerspruchsvoll, daß ich es noch
 näher nachprüfen muß. Der Mörder des Ingenieurs müßte
 ein menschliches Ungeheuer sein, wie es selten gefunden wird
-»… Und zwar ein Wesen von einer … — da nein, ich will
+… Und zwar ein Wesen von einer … — doch nein, ich will
 mich nicht näher darüber auslassen. Jedenfalls erscheint es
 mir sehr fraglich, ob die Person, die ich beargwöhne, zu
-sollen Tat fähig wäre. Erscholl will ich auch die zweite
+solcher Tat fähig wäre. Deshalb will ich auch die zweite
 Möglichkeit nachprüfen: Selbstmord!«
 
 Die stille Frau Helga meldete sich jetzt — ganz bescheiden
@@ -2372,7 +2372,7 @@ Die stille Frau Helga meldete sich jetzt — ganz bescheiden
 »Herr Harst, Sie haben vielleicht die Witwe Olga Gaarsen
 im Auge … Aber …«
 
-»Nein?« fiel ihr Harald ernst ins Wort. »Nicht Frau
+»Nein!« fiel ihr Harald ernst ins Wort. »Nicht Frau
 Gaarsen … Bestimmt nicht!«
 
 Und das meinte er ehrlich …
@@ -2380,7 +2380,7 @@ Und das meinte er ehrlich …
 Helga seufzte …
 
 »Herr Harst, — wenn’s nicht Frau: Gaarsen ist, dann
-wird die Wahrheit nie an den Tag kommen!’
+wird die Wahrheit nie an den Tag kommen!«
 
 Und Harald — sehr bestimmt: »Die Wahrheit kommt an
 den Tag!! — Einige Fragen, Frau Helga … Während
@@ -2393,7 +2393,7 @@ die neuen Leute aus?«
 bediente?«
 
 <@pagebreak/>
-»Nein «…« — Ihre Augen wurden feucht … »Damals
+»Nein …« — Ihre Augen wurden feucht … »Damals
 hatte er sich bereits völlig von mir losgesagt … völlig.«
 
 »Mein armes Kind,« flüsterte Frau Sörlarg mitleidig
@@ -2401,26 +2401,26 @@ und streichelte die Hände ihrer Tochter. »Du warst viel zu
 schade für den Menschen, genau so wie du auch nicht in
 unsere Familie hineinpaßt …«
 
-Und sie machte dazu ein so ehrlich bekümrtertes Gesicht,
-daß man eigentlich hätte lassen müssen über diese ehrliche
+Und sie machte dazu ein so ehrlich bekümmertes Gesicht,
+daß man eigentlich hätte lachen müssen über diese ehrliche
 Selbsterkenntnis …
 
-— Dann fügte Frau Sörlarg hinzu:
+Dann fügte Frau Sörlarg hinzu:
 
 »Herr Harst, unsereiner hat so seine Beziehungen nach
 überallhin … Es sind ja meist leider Beziehungen, mit denen
 man nicht prahlen kann … Aber über das, was in der Stadt
-vorgeht, weiß ich immer sehr gut Bescheid … So auch) über
-die Familie Baarsör … über diese seinen Leute, die von
-meinten Helga immer nur so redeten, als ob mein Kind was
+vorgeht, weiß ich immer sehr gut Bescheid … So auch über
+die Familie Baarsör … über diese feinen Leute, die von
+meiner Helga immer nur so redeten, als ob mein Kind was
 dafür konnte, daß wir Sörlargs bei der Polizei bekannter
 sind als beim christlichen Jungfrauenverein … — Wer die
 vier Kanaillen gemietet hat, Herr Harst, — die vier neuen?!
 Oh — das kann ich Ihnen sagen … aus bester Quelle, nämlich
-von der Je sindevermittlerin selbst … Die alte Gnädige
-bat es getan, der magere Drache, der!! Ja, ja, — die alte
+von der Gesindevermittlerin selbst … Die alte Gnädige
+hat es getan, der magere Drache, der!! Ja, ja, — die alte
 Gnädige!! Da machen Sie ein erstauntes Gesicht, Herr Harst,
-— und doch) stimmt’s!«
+— und doch stimmt’s!«
 
 Allerdings: Haralds Miene glich vollkommen der meinen,
 und ich schaute drein, als ob mir einer erzählt hätte, ich
@@ -2431,7 +2431,7 @@ So ähnlich …
 Denn — diese Erklärung Frau Sörlargs bewies ja einwandfrei,
 daß der infolge seiner Eheschließung zwischen dem
 Ingenieur und seinen Eltern bestehende Bruch fraglos schon
-nach) einem Jahr etwa wieder heimlich eingerenkt worden war
+nach einem Jahr etwa wieder heimlich eingerenkt worden war
 — heimlich, da die Öffentlichkeit hier in Göteborg davon
 nichts wußte!
 
@@ -2446,29 +2446,29 @@ nicht sein!«
 Die hier um den Tisch Versammelten merkten wohl, daß
 diese Äußerung Haralds nicht einem von uns galt, sondern
 daß er lediglich seine Gedanken halb unbewußt in Worte
-gekleidet hatte … — Wir aber hatte diese Äußerung gleichsam
-einen Bis in ein bis dahin völlig dunkles Gemach
+gekleidet hatte … — Mir aber hatte diese Äußerung gleichsam
+einen Blick in ein bis dahin völlig dunkles Gemach
 gewährt …
 
 In ein Gemach, ähnlich dem, worin Frau Gunvor Baarsör
-gestern nacht am Schreibtisch) gesessen und in Stößen von
+gestern nacht am Schreibtisch gesessen und in Stößen von
 Briefen gewühlt hatte …
 
 »Es ist wider die Natur!« hatte Harald gesagt … Und
 das hatte sich nur auf Frau Gunvor Baarsör beziehen können,
 wie ich nun begriff …
 
-Not) mehr begriff ich: der hagere Bucklige, der die Brüder
+Noch mehr begriff ich: der hagere Bucklige, der die Brüder
 Hangson sich untertan gemacht hatte, konnte ebenfalls Frau
 Baarsör sein — — vielleicht!!
 
-Und Harsts Bemerkung »Wider die Natur!!« —. das galt
+Und Harsts Bemerkung »Wider die Natur!!« — das galt
 der Möglichkeit, daß eine Mutter den eigenen Sohn vergiftet
 haben könnte!!
 
 Das war’s!!
 
-Frau Gunvor Baarsör konnte die Mörderin sein —
+Frau Gunvor Baarsör *konnte* die Mörderin sein —
 konnte …!
 
 Hatte nicht Harald vorhin von einem »widerspruchsvollen
@@ -2481,61 +2481,62 @@ dachte, der Täter wirklich sein solltet!
 Und nun, nachdem Helgas Mutter uns offenbart hatte,
 daß das Zerwürfnis zwischen Eltern und Sohn längst ausgeglichen
 worden war und daß Frau Gunvor die vier neuen
-Die Verboten besorgt hatte, — nun gewann auch das von uns
-nachts Beobachtete, Frau Gumvorsg Aufenthalt in dem
+Dienstboten besorgt hatte, — nun gewann auch das von uns
+nachts Beobachtete, Frau Gunvors Aufenthalt in dem
 möblierten Heim ihres toten Sohnes, eine ganz besondere
 Bedeutung …
 
 Ohne Zweifel hatte die hagere Dame diesen Weg durch
 <@pagebreak/>
-das Fenster, über die Mauer und durchs den Garten nicht!
+das Fenster, über die Mauer und durch den Garten nicht
 zum ersten Male gewählt!
 
 Ohne Zweifel hatte auch Sigurd Baarsör diesen Weg des
 öfteren benutzt, um ins Elternhaus heimlich zu gelangen! —
 
-All das wogte by schuf) den Kopf wie die von verschiedenen
-Winden Rufe rührten Wasser eines Binnensees …
+All das wogte mir durch den Kopf wie die von verschiedenen
+Winden aufgerührten Wasser eines Binnensees …
 
-Unklar war viel:; bei alledem …
+Unklar war vieles bei alledem …
 
-Eins war gew’,: Harald beargwöhnte dieses magere
-Weib, das uns schon beim ersten Sehen wie eine heraus
-geputzte Vogelscheuche vorgekommen war! —
+Eins war gewiß: Harald beargwöhnte dieses magere
+Weib, das uns schon beim ersten Sehen wie eine herausgeputzte
+Vogelscheuche vorgekommen war! —
 
-Nacht immer war es still in Mutter Sörlargs Hinterstübchen,
+Noch immer war es still in Mutter Sörlargs Hinterstübchen,
 wo die elektrische Hängelampe mit dem lilaseidenen
-Schirm und den lila Franse! über dem gebeten Tische ein
+Schirm und den lila Fransen über dem gedeckten Tische ein
 so behagliches Licht spendete, wo der Tee duftete und jetzt
-auch unsere Zigarren, die Frau Sörlarg uns nach den Brot«-
-sehen angeboten hatte …
+auch unsere Zigarren, die Frau Sörlarg uns nach den Brötchen
+angeboten hatte …
 
-Ganz still war’s in der altmodisch und da so traulich ein
-gerichteten Stube …
+Ganz still war’s in der altmodisch und doch so traulich
+eingerichteten Stube …
 
 Nur der Kanarienvogel dort an der Wand hüpfte von
-Stange zu Stange und entsicherte leise, als ob er ungehalten
-darüber wäre, daß seine Herrin so spät vor Gäste hätte …
+Stange zu Stange und zwitscherte leise, als ob er ungehalten
+darüber wäre, daß seine Herrin so spät noch Gäste hätte …
 
 In dieses Schweigen hinein fielen Frau Helgas Worte
 wie überlaute Hammerschläge:
 
-»Mutter, wenn Frau Gunvor die vier Dienstboten sei
-mietet hat, die mich so … drangsaliert und gequält haben,
+»Mutter, wenn Frau Gunvor die vier Dienstboten gemietet
+hat, die mich so … drangsaliert und gequält haben,
 dann … dann hat diese … diese Dame auch ihre schmalen
 Hände bei all dem anderen mit im Spiele gehabt … Dann
-hat sie meine Ehe und mein Glück z3Zerstört … Dann hat
-sie mit als Ladendiebin hingestellt, und — — dann ist sie
-der bullige Mann, auf dessen Veranlassung die Hangsons
+hat sie meine Ehe und mein Glück zerstört … Dann hat
+sie mich als Ladendiebin hingestellt, und — — dann ist sie
+der bucklige Mann, auf dessen Veranlassung die Hangsons
 Herrn Harst und Herrn Schraut in die See warfen! Dann
-hat sie nur zum Schein an Herrn Harst sich um Verstand
+hat sie nur zum Schein an Herrn Harst sich um Beistand
 gewandt … Dann … — doch nein, das will ich nicht aussprechen!«
 
 Harst schien erwacht zu sein …
 
 Harst wandte sich an Helga …
+
 <@pagebreak/>
-»Sie wollten sagen: dann ist sie auch Sigurds Vordersitz!
+»Sie wollten sagen: dann ist sie auch Sigurds Mörderin!!
 — Aber bedenken Sie, Frau Helga, — was gehört dazu,
 daß eine Mutter den Sohn tötet!«
 
@@ -2547,15 +2548,15 @@ Harst fuhr fort:
 »Es ist bereits zwei Uhr morgens … Wir alle brauchen
 die Nachtruhe … Denn an unsere körperlichen und geistigen
 Kräfte werden vielleicht noch hohe Anforderungen gestellt
-werden … Morgen ist auch noch4 ein Tag …
+werden … Morgen ist auch noch ein Tag …
 
-Frau ’Sörlarg nickte beifällig …
+Frau Sörlarg nickte beifällig …
 
-»Recht [o, Herr Harst … Nichts übereilen, nichts übers
+»Recht so, Herr Harst … Nichts übereilen, nichts übers
 Knie brechen … Bitte, folgen Sie mir … Ich bringe Sie
 beide in dem freundlichen Giebelstübchen meines alten Hauses
 unter … Dort stehen zwei Betten, stets frisch bezogen …
-Für unerwartete Gäste«…«
+Für unerwartete Gäste …«
 
 Sie lächelte beinahe schalkhaft …
 
@@ -2567,9 +2568,9 @@ Während sie dies sagte, stiegen wir schon die Treppen
 empor, nachdem wir den drei Geschwistern durch Handschlag
 Gute Nacht und Auf Wiedersehen geboten hatten …
 
-Und oben in dem weiß Befürchten, peinlich sauberen Stübchen
+Und oben in dem weiß getünchten, peinlich sauberen Stübchen
 mit dem kleinen, dicht verhangenen Fenster fuhr das
-infolge Weiblein fort (daß sie eine schlaue, gefährliche Hehlerin,
+frische Weiblein fort (daß sie eine schlaue, gefährliche Hehlerin,
 hatte ich längst vergessen):
 
 »Sie beide, meine Herren, werden mich ja nicht verraten
@@ -2578,11 +2579,11 @@ mich betrifft: niemand kann für seine … Neigungen!« Wieder
 lächelte sie … Das Licht der einfachen elektrischen Pendellampe
 traf voll ihr rosiges Gesicht und die vergnügten klaren
 Augen … »Ja — Neigungen, meine Herren …! Sehen Sie,
-—» mein Mann sitzt schuldlos im Zuchthaus … Den Raubanfall,
+— mein Mann sitzt schuldlos im Zuchthaus … Den Raubanfall,
 den man ihm zur Last legt, hat er nie begangen …
 Wir kennen den Täter, aber wir verraten ihn nicht, denn der
 <@pagebreak/>
-Mann hat sich lediglich raten wollen … Und nun spiele ich
+Mann hat sich lediglich rächen wollen … Und nun spiele ich
 mit der dummen Polizei Versteck … Jede Woche einmal wird
 bei mir Haussuchung gehalten. Sie findet nie was, die
 Polizei … — So, und jetzt, meine Herren, schauen Sie her.«
@@ -2593,10 +2594,11 @@ Was sie uns zeigte, wird der Leser nachher aus dem
 Gang der Ereignisse erfahren …
 
 Dann wünschte sie uns angenehme Ruhe und ging …
-»Palast verschloß die Tür von innen, die ein Patentschloß
+
+Harald verschloß die Tür von innen, die ein Patentschloß
 hatte …
 
-d. Kapitel.
+<h2>4. Kapitel.</h2>
 
 Ich schaute meinen Harald an und sagte: »Weißt du, in
 dem Hause einer Hehlerin haben wir doch noch nicht genächtigt
@@ -3088,7 +3090,7 @@ einen dicken Brief …
 
 »Wer ich bin, Frau Baarsör? — — Der, den Sie fürchten
 -. Und das, was Sie gesucht haben, hat mir soeben ein
-Zufall in die Hände gespielt … Hier unter der Teppichecko
+Zufall in die Hände gespielt … Hier unter der Teppichecke
 hinter dem Schreibtisch lag dieser Brief … — Bitte — —
 machen Sie keinen Gebrauch von Ihrer Waffe, denn — —
 hinter Ihnen steht Kriminalinspektor Lundström, der sie etwas
