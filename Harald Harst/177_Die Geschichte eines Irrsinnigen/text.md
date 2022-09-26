@@ -25,7 +25,7 @@ Um sieben hatten wir auf der Veranda des Harstschen
 Hauses gefrühstückt, und um halb acht arbeiteten wir bereits
 mit Spaten und Harke.
 
-Der Himmel war vollkommen klar,
+Der Himmel war vollkommen klar.
 
 Ein angenehmer Luftzug milderte die Kraft der Sonnenstrahlen
 … In den uralten Kastanien und Linden des Hofes
@@ -64,7 +64,7 @@ Zum Glück hatte ich den Gartenschlauch noch in der Hand.
 
 Zum Glück sprang Harald sofort zu und holte aus der
 kleinen Kabine des zerstörten Eindeckers einen ganz in Leder
-gekleideten Mann heraus — — bewußtlos zwar, aber lebend,
+gekleideten Mann heraus — — bewußtlos zwar, aber lebend.
 
 Einen Mann?!
 
@@ -84,7 +84,7 @@ Sah das ihr fremde, elegante Zimmer …
 
 Richtete sich auf …
 
-Fragte mit keuchenden Atemzügen
+Fragte mit keuchenden Atemzügen.
 
 <@pagebreak/>
 »Wo bin ich?!«
@@ -282,7 +282,7 @@ Dann waren wir allein …
 
 Die Polizei ließ die Trümmer des Eindeckers wegschaffen,
 und um zehn Uhr vormittags erinnerten nur noch die abgebrochenen
-Äste der Kastanie an das Drama dieses Morgens,
+Äste der Kastanie an das Drama dieses Morgens.
 
 Wir nahmen absichtlich unsere Gartenarbeit wieder auf,
 damit es nicht etwa auffiele, daß wir im Hause blieben.
@@ -300,7 +300,7 @@ hören …«
 Plötzlich erschien da Harsts Mutter bei uns im Gemüsegarten
 …
 
-»Sie schläft jetzt,« flüsterte Frau Harst, »Das arme,
+»Sie schläft jetzt,« flüsterte Frau Harst. »Das arme,
 arme Kind …! Sie hat mir erzählt, was alles sie gelitten
 hat … Erst zweiundzwanzig Jahre, und schon so tief verstrickt
 in all die Schlechtigkeiten der Welt — ohne ihre Schuld.«
@@ -439,11 +439,11 @@ Begleitumstände.
 
 Harst depeschierte:
 
-Reisen sofort ab. — H. Harst,
+Reisen sofort ab. — H. Harst.
 
 Und das taten wir auch.
 
-So erreichten wir noch den Abendtrajekt nach Trelleborg,
+So erreichten wir noch den Abendtrajekt nach Trelleborg.
 
 Das Fährschiff war wenig besetzt.
 
@@ -648,7 +648,7 @@ mit schmalen welken Lippen …
 
 Das ist Frau Baarsör …
 
-Sie begrüßt uns überaus Höflich, bedankt sich bei uns, daß
+Sie begrüßt uns überaus höflich, bedankt sich bei uns, daß
 wir die weite Reise nicht gescheut haben …
 
 Wir nehmen Platz …
@@ -671,7 +671,7 @@ Vogelscheuche!!
 Harst drechselt gleichfalls Redensarten …
 
 Und dann beginnt die geschminkte Vogelscheuche von
-Neuem:
+neuem:
 
 »… Unser armer, armer Junge!! Daß gerade er so
 blind sein mußte, daß gerade er dieses Mädchen heiratete,
@@ -684,7 +684,7 @@ hofften ihn zur Vernunft zu bringen …«
 Harst erlaubte sich jetzt die Bemerkung, daß er über die
 Einzelheiten des Falles bereits orientiert sei, da der Eindecker
 Frau Helgas in unseren Kastanienbaum stürzte …
-und So weiter …
+und so weiter …
 
 »Ich bin also genügend informiert, gnädige Frau …
 Und wir wollen Sie auch nicht länger dem Krankenlager Ihres
@@ -762,7 +762,7 @@ Högersen nahm hier offenbar eine Vertrauensstellung
 ein und spielte den Hausverwalter. Es war kaum anzunehmen,
 daß auch er zu denen gehörte, die der einsamen,
 verlassenen Frau Helga mit versteckter Frechheit entgegengetreten
-waren,
+waren.
 
 Harald wollte nun dem Personal gegenüber sofort unsere
 Stellung hier im Hause richtig kennzeichnen und befahl
@@ -794,7 +794,7 @@ hat? Etwa der junge Herr Baarsör selbst?«
 »Nein, nein, Herr Harst, der bestimmt nicht …«
 
 <@pagebreak/>
-»und — wer sonst?!«
+»Und — wer sonst?!«
 
 Der Diener wurde verlegen … noch verlegener als vorhin
 … Blickte zu Boden …
@@ -906,7 +906,7 @@ Harald sagte zu den vieren etwa folgendes:
 oder die Mörderin Herrn Baarsörs vollends zu überführen
 … Ich rechne damit, daß Sie mir meine Arbeit erleichtern
 werden. Ich werde Sie vielleicht morgen einzeln vernehmen
-… Im Übrigen haben Sie sich, so lange ich hier in der
+… Im übrigen haben Sie sich, so lange ich hier in der
 Villa bin, meinen Anweisungen unbedingt zu fügen … —
 So, nun gehen Sie wieder …!«
 
@@ -993,7 +993,7 @@ die es in Wahrheit mit ihm gut meinten!!«
 Jetzt hatte Högersen nur die Rechte wie zum Schwur
 emporgereckt …
 
-»und wenn man mich aus dem Wege zu räumen versuchte,
+»Und wenn man mich aus dem Wege zu räumen versuchte,
 — und wenn mich der Tod jede Sekunde umlauern
 sollte: ich will, daß die Wahrheit an den Tag kommt! Und
 deshalb, Herr Harst: jetzt will ich alles sagen! Herr Sigurd
@@ -1252,7 +1252,7 @@ Ich habe unumstößliche Beweise, daß Helga insgeheim Dinge
 treibt, die sie mir entfremden mußten. Ihr Vorhaltungen
 zu machen, dazu bin ich zu stolz und stehe auch den Nachtseiten
 des Lebens zu fern, als daß ich Charakterfehler, die
-in der Herkunft begründet sind, ausmerzen könnte,
+in der Herkunft begründet sind, ausmerzen könnte.
 
 <p class="centered">Ihr sehr ergebener</p>
 <p class="right">Sigurd Baarsör.</p>
@@ -1307,7 +1307,7 @@ zuerst ihn und dann mich erschießen. — Doch seitdem hat sich
 in mir eben eine so vollkommene Wandlung vollzogen, daß
 ich Ihnen heute offen in die Augen sehen und Sie nur bitten
 kann: beweisen Sie Helgas Unschuld! — Wenn ich Sie dabei
-irgendwie unterstützen kann: mit tausend Freuden tue ich’s«
+irgendwie unterstützen kann: mit tausend Freuden tue ich’s.«
 
 »Hegen Sie irgendeinen Verdacht?« fragte Harst gedämpft.
 
@@ -1393,7 +1393,7 @@ Sie dazu?!«
 Ihnen für diese Mitteilung sehr dankbar — außerordentlich
 dankbar!« Harald liebt sonst keine überschwenglichen Ausdrücke.
 Daß er dieses »außerordentlich« sogar zweimal anwandte,
-gab diesem Personalwechsel eine besondere Bedeutung,
+gab diesem Personalwechsel eine besondere Bedeutung.
 
 Was wir sonst noch mit Frau Olga Gaarsen besprachen,
 brauche ich hier nicht anzuführen.
@@ -1570,7 +1570,7 @@ Was nur?!
 
 Wirklich die Klänge einer Drehorgel?!
 
-Nein — das war ein wildes Durcheinander von Melodien,
+Nein — das war ein wildes Durcheinander von Melodien.
 
 Eine Katzenmusik von mindestens sechs Drehorgeln …
 
@@ -1767,7 +1767,7 @@ Gestalten umher …
 
 Die Affen sind ausgebrochen …
 
-Der, der mir auf der Brust hockt, betastet mein Gesicht,
+Der, der mir auf der Brust hockt, betastet mein Gesicht.
 
 Der Knebel in meinem Munde scheint ihm zu mißfallen.
 
@@ -1992,7 +1992,7 @@ und Sie beide …«
 »Ja … — Ich sollte dafür 25&nbsp;000 Kronen erhalten, —
 wenn es mißglückte, nur 1000 Kronen …«
 
-»und der Mann hat Sie, Ihren Bruder und dessen Frau
+»Und der Mann hat Sie, Ihren Bruder und dessen Frau
 dann auch zu dem neuen Anschlag angestiftet …«
 
 »Ja, — — wir sollten Sie fünf überfallen, wie’s dann
@@ -2123,7 +2123,7 @@ brav, Hangson! Das Geld, das der Unbekannte Ihnen
 gab, können Sie …«
 
 »Oh — — nichts davon behalte ich, nichts!« rief Hangson
-erregt, »Ich werde es …«
+erregt. »Ich werde es …«
 
 »Schicken Sie es anonym einer Wohltätigkeitsanstalt …
 — Und hier — — diese tausend Kronen können Sie von mir
@@ -2220,7 +2220,7 @@ Hafenbefestigungen dar. — So, — — folgen Sie mir bitte.«
 Nach etwa hundert Meter führte ein schräger Schacht
 in die Tiefe. Eine steile Holztreppe brachte uns in einen
 mit Brettern abgestützten Gang, der sich bis zu einer Mauer
-hinzog,
+hinzog.
 
 Gustaf Sörlarg bückte sich und öffnete hier eine genau
 gleiche Pforte — ein Türchen, meinte mit überlegener Ironie:
@@ -2279,7 +2279,7 @@ Bulldoggen schon vorhin gesehen …
 
 Und nun saßen wir alle um den großen Sofatisch herum
 … Tranken Tee und aßen die appetitlichen Brötchen, die
-Mutter Sörlarg und Helga in aller Eile hergerichtet hatten,
+Mutter Sörlarg und Helga in aller Eile hergerichtet hatten.
 
 Dann begann Gustaf Sörlarg zu sprechen …
 
@@ -2389,7 +2389,7 @@ die neuen Leute aus?«
 
 »Sigurd …«
 
-»und wissen Sie, ob er sich dabei eines Vermittlungsbureaus
+»Und wissen Sie, ob er sich dabei eines Vermittlungsbureaus
 bediente?«
 
 <@pagebreak/>
@@ -2732,7 +2732,7 @@ Wir schritten den Gang hinab bis zu der Mauerpforte.
 
 Harst öffnet die Pforte ein wenig, späht hinaus …
 
-Wie ein Blitz sind wir draußen, gehen zum Hafen hinab,
+Wie ein Blitz sind wir draußen, gehen zum Hafen hinab.
 
 Der Morgen graut bereits …
 
@@ -2806,7 +2806,7 @@ etwas Großes im Gange …
 
 <@pagebreak/>
 Der Leiter der Kriminalabteilung war soeben erst zurückgekehrt,
-wie der Pförtner uns erklärte,
+wie der Pförtner uns erklärte.
 
 Wir ließen uns melden …
 
@@ -2819,7 +2819,7 @@ Miene, verrieten durch nichts, daß wir uns kannten …
 
 Der Kriminalinspektor begrüßte uns sehr liebenswürdig
 … Außer ihm waren noch zwei Beamte im Zimmer … Er
-schickte sie weg und ließ die Frauen abführen,
+schickte sie weg und ließ die Frauen abführen.
 
 Der Inspektor meinte arglos:
 
@@ -2990,7 +2990,7 @@ mehr vor …
 Budenbesitzer mit …
 
 Daß sie nicht nach dem Dorfe Koolpiek sich gewandt hatten,
-war klar,
+war klar.
 
 Harst meinte gelassen: »Leihen wir uns Räder und bleiben
 wir dem Grundsatz getreu, immer das Gegenteil anzunehmen,
@@ -3022,7 +3022,7 @@ auch schon waren und wo vielleicht noch was zu finden
 ist — — Sie wissen schon!
 
 Auch die Anschrift auf dem Umschlag mußte Hangson
-mit seiner derben Klaue schreiben,
+mit seiner derben Klaue schreiben.
 
 Dann verabschiedeten wir uns und radelten nach Göteborg
 zurück, waren aber noch keine zweihundert Meter von
@@ -3032,7 +3032,7 @@ war kurz und doch bedeutungsvoll. Die beiden
 Hochstapler erzählten uns, wie sie der Polizei entwischt waren,
 und Harald gab ihnen den Auftrag, das Haus in der Kungsgatan
 unauffällig, aber scharf zu überwachen. Dann trennten
-wir uns wieder, —
+wir uns wieder. —
 
 Gegen elf Uhr trug Harald dann den Brief zu Frau
 Gunvor … Er brauchte nicht zu fürchten, daß sie ihn erkennen
@@ -3107,7 +3107,7 @@ Wir beide verließen die enge Ecke, und Harald zeigte
 dem Inspektor den dicken Umschlag, auf dem mit fester, energischer
 Handschrift geschrieben stand:
 
-> Im Falle meines Todes der Polizei abzugeben,
+> Im Falle meines Todes der Polizei abzugeben.
 
 <p class="right">Sigurd Baarsör, Ingenieur.</p>
 
@@ -3193,7 +3193,7 @@ Nachwort: Ich, Max Schraut, habe an der Niederschrift
 meines Nachahmers wenig geändert. Ich hoffe, daß meine
 Freunde und Leser von der Geschichte eines Irrsinnigen
 leidlich befriedigt sein werden. Im nächsten Band komme
-ich selbst nun wieder zu Worte,
+ich selbst nun wieder zu Worte.
 
 <@harst.naechsterband band="Acht Stearintropfen."/>
 
