@@ -270,7 +270,7 @@ gegen die schöne Helga intrigiert haben. Es sind keine Geschwister
 da, und das alte Ehepaar Baarsör gehört in Göteborg
 mit zu den angesehensten Leuten — vornehme Naturen,
 die natürlich unter dieser Heirat des einzigen Kindes sehr
-gelitten haben und nun völlig zusammengebrochen sind …
+gelitten haben und nun völlig zusammengebrochen sind …«
 
 Haaglund erhob sich …
 
@@ -336,7 +336,7 @@ beweisen! — Helga Baarsör.«
 Harst sagte ernst:
 
 »Gehen wir ins Haus, Mutter … Erzähle uns dort,
-was die Frau dir mitgeteilt hat …
+was die Frau dir mitgeteilt hat …«
 
 <@pagebreak/>
 
@@ -1292,7 +1292,7 @@ Immer noch starrte Harald auf den Brief …
 Meinte versonnen:
 
 »Gnädige Frau, haben Sie sich über den Mord ein Urteil
-gebildet?
+gebildet?«
 
 »Ja …! Das eine, daß Frau Helga schuldlos ist und
 daß hier ein ganz infamer Schurkenstreich vorliegt — etwas
@@ -2548,7 +2548,7 @@ Harst fuhr fort:
 »Es ist bereits zwei Uhr morgens … Wir alle brauchen
 die Nachtruhe … Denn an unsere körperlichen und geistigen
 Kräfte werden vielleicht noch hohe Anforderungen gestellt
-werden … Morgen ist auch noch ein Tag …
+werden … Morgen ist auch noch ein Tag …«
 
 Frau Sörlarg nickte beifällig …
 
@@ -2767,7 +2767,7 @@ Ich teilte diese Bedenken Harald mit …
 
 Er meinte kurz:
 
-»Das ist selbstverständlich …
+»Das ist selbstverständlich …«
 
 Ein paar fragwürdige Kerle kamen vorüber, glotzten uns
 an … blieben stehen …
