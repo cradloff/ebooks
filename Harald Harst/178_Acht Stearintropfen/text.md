@@ -1,27 +1,6 @@
-<@pagebreak/>
-Band 178 Der Detektiv Preis 20 Pfg.
+<@pagebreak 3/>
 
-<@pagebreak/>
-Der Bettelnd
-
-Kriminalerzählungen
-von
-Jahren Rabe!.
-
-Band 178:
-
-Acht Stearintropfen.
-
-Ei (8
-Dezent.
-04-9 0 Dr Ehe Ecke Ei Er Sie des.
-
-Verlag moderner Lektüre Bett 67 Zu 8«-
-Berlin 26, Elisabeth — Ufer 44
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, einschl. das Verfilmungsrecht,
-vorbehalten. — Copyright 1926 by Verlag moderner
-Lektüre G. in. b. H., »Berlin.
+<@harst.introshort2/>
 
 <h2>1. Kapitel.</h2>
 <h3>Die Sonnenuhr.</h3>
@@ -39,7 +18,7 @@ Vater Mond tat noch anderes …
 Spähte mit neugierigen Augen in das Buschwerk am
 Rande des Weges, der sich von der Fähre sandig und staubig
 unweit des Swineufers nach Osternothafen, dem kleinen
-Fischerorte gegenüber dem Luru8bade Swinemünde, hinzog …
+Fischerorte gegenüber dem Luxusbade Swinemünde, hinzog …
 dicht vorüber an Kapitän Ollenpricks kleinem, blitzsauberen
 Häuschen, in dessen Vorgärtchen mancherlei Blumen, in zierliche,
 mit Muscheln umrahmte Beete verteilt, ihre Düfte mit
@@ -55,14 +34,14 @@ Und Vater Mond kannte Kapitän Ollenpricks Häuschen
 und die ganze Umgebung doch bereits seit vielen, vielen
 Jahren.
 
-Nr nie waren jedoch in solch einer lauen Sommernacht
+Noch nie waren jedoch in solch einer lauen Sommernacht
 wie der heutigen, in den Büschen zwei Männer verborgen
 gewesen …
 
 Zwei, die nur Vater Mond von oben her erspähen
 konnte …
 
-Zwei Männer in Sportanzügen und mit weihen Mützen
+Zwei Männer in Sportanzügen und mit weißen Mützen
 und mit schönen blonden Spitzbärten, die leider nicht ganz
 echt waren …
 
@@ -74,32 +53,32 @@ Seit gestern waren wir in Swinemünde, wohnten dicht
 am Kurpark als brave Kaufleute und Sommergäste aus
 Berlin …
 
-— Der acht Stearintropfen wegen hatte Käpten Wilm Ollenprick
+Der acht Stearintropfen wegen hatte Käpten Wilm Ollenprick
 uns herbeordert. Sein Brief war kurz und erschöpfend
 und wie ein gespickter Hase gewesen, aber nicht gespickt mit
 schönem Speck, sondern mit unschönen Flüchen …
 
-Auf diesen Brief hin waren wir sofort abgereist, den.
-erstens hatten dem Briefe gleich fünsgundert Mark Honorarvorschuß
-beigelegen und zweitens war sein rein schriftlichen
+Auf diesen Brief hin waren wir sofort abgereist, denn
+erstens hatten dem Briefe gleich fünfhundert Mark Honorarvorschuß
+beigelegen und zweitens war sein rein schriftlicher
 Inhalt, die Kernflüche abgerechnet, so sonderbar und daher
-verlockend, daß wir uns diesen seinen Fall nicht entgehen
+verlockend, daß wir uns diesen feinen Fall nicht entgehen
 lassen wollten.
 
 Wilm Ollenprick hatten wir noch nicht gesprochen, sondern
 nach unserer Ankunft lediglich durch einen Dienstmann einen
-schönen Gruß von seinem früheren Kollegen Schlußsatz ausrichten
-lassen. — Scrathart: dann wußte er eben Bescheid,
-daß Schraut	—Harst zur Stelle waren.
+schönen Gruß von seinem früheren Kollegen Schrathart ausrichten
+lassen. — Schrathart: dann wußte er eben Bescheid,
+daß Schraut-Harst zur Stelle waren.
 
 Sie waren zur Stelle …
 
-Sie hatten gegen halb elf sich in die Büsche gestrauchelt
+Sie hatten gegen halb elf sich in die Büsche geschlängelt
 und behielten nun das Häuschen mit der grünen Tür und
 den blanken Messingbeschlägen im Auge …
 
 Dauernd. Auch die Umgebung. Insbesondere dort links
-am Zaun des Vorgärtchens die Gemenge …
+am Zaun des Vorgärtchens die Sonnenuhr …
 
 <@pagebreak/>
 Eine selbstgebaute … Auf einem Pfahle war da schräg
@@ -108,7 +87,7 @@ große Aluminiumscheibe festgeschraubt, die das Zifferblatt
 der Sonnenuhr darstellte … Dann gehörte noch der Zeiger
 dazu, der vom Mittelpunkt schief in die Luft ragte. All
 das hatte Wilm Ollenprick eigenhändig gebastelt und Pfahl
-und Brett sein weiß lackiert. — So stand’s in seinem Briefe
+und Brett fein weiß lackiert. — So stand’s in seinem Briefe
 zu lesen und so sahen wir’s nun vor uns …
 
 Und diese Sonnenuhr, über die der Käpten sich zuerst
@@ -117,13 +96,13 @@ bitteren Kummer …
 
 Da war nämlich irgendein Schweinigel von Kerl, der
 fast jede Nacht das schöne, blanke Zifferblatt beschmutzte, indem
-er acht dies Stearintropfen auf das Metall träufelte …
+er acht dicke Stearintropfen auf das Metall träufelte …
 
 Immer genau acht, nie einen mehr, nie einen weniger.
 
 Und als dieser heimtückische Schweinigel dies achtmal
 getan, da war Wilm Ollenprick die Geschichte dennoch zu
-dumm geworden, und er hatte sie nachts Blicke Male auf
+dumm geworden, und er hatte sich nachts etliche Male auf
 die Lauer gelegt — mit einer echten Rhinozerospeitsche, von
 der er in seinem Briefe versicherte, daß ein einziger Hieb
 über die Sitzpolster den also Gestraften vier Wochen zwinge,
@@ -139,8 +118,8 @@ Und dies unheimliche Wunder hatte Wilm Ollenprick
 veranlaßt, an uns zu schreiben …
 
 »Ich habe Augen wie ein Falke, trotz meiner siebzig
-Jahre,« hieß es in dem Brief. »Und ich hätte den Lumpen
-Kerl unbedingt sehen müssen, der mir — die Pest fahre ihm
+Jahre,« hieß es in dem Brief. »Und ich hätte den Lumpenkerl
+unbedingt sehen müssen, der mir — die Pest fahre ihm
 in die Därme! — das Zifferblatt mit Stearin besiegelt, der
 verdammte Lausesohn!! Aber — ich sah ihn nicht, und
 doch waren die acht Tropfen wieder da!!«
@@ -151,28 +130,28 @@ diese harmlose Geschichte ihn interessierte …
 
 Harmlos?!
 
-un eben: er behauptete mir gegenüber, daß die Sache
-auf keinen Fall harmlos sei und daß auch Wilm Ollenp-iFX
-dies sehr gut wisse, naß nicht mit der Wahrheit herausrücken
+Nun eben: er behauptete mir gegenüber, daß die Sache
+auf keinen Fall harmlos sei und daß auch Wilm Ollenprick
+dies sehr gut wisse, nur nicht mit der Wahrheit herausrücken
 wolle.
 
-Nun — »Die acht Etwas haben sich dann nachher
-trug als etwas entpuppt, das es vielleicht in seiner
+Nun — »Die acht Stearintropfen» haben sich dann nachher
+doch als etwas entpuppt, das es vielleicht in seiner
 Eigenart nur einmal auf der Welt gibt …
 
-Tastsinn als ein »Problem« … Und Problem klingt
+Tatsächlich als ein »Problem« … Und Problem klingt
 anspruchsvoll … —
 
-Da nun Wilm Eleganz mit seinen Falfenaugen den
-»Schweinigel« trotz mehrfacher Nachtwachen nicht hatte Satz
-decken können, wollten wir mal unsere Augen auf die Probe
+Da nun Wilm Ollenprick mit seinen Falkenaugen den
+»Schweinigel« trotz mehrfacher Nachtwachen nicht hatte entdecken
+können, wollten wir mal unsere Augen auf die Probe
 stellen. Vielleicht waren sie besser als die des alten Seebären,
 
 Mitternacht war’s nun …
 
 Die letzte Fähre, die den Fluß kreuzte, hatte soeben noch
 eine ganze Menge Badegäste gebracht, die in Osternothafen
-wohnten und die in Steinen Trupps an uns vorübergezogen
+wohnten und die in kleinen Trupps an uns vorübergezogen
 waren …
 
 Nun wurde es still …
@@ -201,15 +180,15 @@ zu sehen an dem alten Herrn …
 
 Und wirklich — dort saß er mit seiner Angelrute, die Piep
 <@pagebreak/>
-im Munde, die blaue Seemannsmüße tief in die Stirn
-Gebrüll …
+im Munde, die blaue Seemannsmütze tief in die Stirn
+gedrückt …
 
-Wir kannten ihn.«… Er kannte uns nicht …
+Wir kannten ihn … Er kannte uns nicht …
 
 Als Harst nun stehen blieb und fragte, wie’s mit dem
 Fange sei, grunzte er nur:
 
-»wer Walfische, einen Hai, einen Schwertfisch und einen
+»Zwei Walfische, einen Hai, einen Schwertfisch und einen
 Neugierigen!«
 
 Das war grob …
@@ -220,26 +199,26 @@ und dem bärbeißigen Ausdruck der verwitterten Züge.
 Harst lachte …
 
 »Käpten, wir dürfen wohl neben Ihnen Platz nehmen …
-Wir sind nämlich die Firma Scrathart …«
+Wir sind nämlich die Firma Schrathart …«
 
 Ah — da flog der Kopf hoch …
 
 »Verdammt, daß hätten Sie gleich sagen sollen!!«
 
-Wie setzten uns auf den Bollwerkrand und ließen die
+Wir setzten uns auf den Bollwerkrand und ließen die
 Beine baumeln …
 
 Ollenprick beäugte uns, grinste und meinte:
 
-»Aha — falsche Bärte! Sehr sein! — Gut, daß Sie da
-sind, meine Herren … Der Satz hat in dieser Nacht
-das Zifferblatt wieder ’betledert …
+»Aha — falsche Bärte! Sehr fein! — Gut, daß Sie da
+sind, meine Herren … Der Schweinigel hat in dieser Nacht
+das Zifferblatt wieder bekleckert …«
 
 Ich war platt …
 
-»Nicht möglich?!« rief ich … »Wir haben ja gewacht!t«
+»Nicht möglich?!« rief ich … »Wir haben ja gewacht!«
 
-»So?! Gewalt?! Sie beide …?! Und — nichts bemerkt?«
+»So?! Gewacht?! Sie beide …?! Und — nichts bemerkt?«
 
 »Nichts!« erklärte ich … »Bis halb fünf waren wir auf
 der Lauer …«
@@ -251,19 +230,19 @@ Ollenprick starrte ins Wasser …
 »Die Kanaillen sind schlau,« brummte er …
 
 Da fragte Harald: »Glauben Sie denn, daß es mehrere
-ins?«
+sind?«
 
 Der Käpten schrak merklich zusammen …
 
 »Weiß nicht … Kann sein, Herr Harst … Weiß wirklich
-nicht … :. Begreife überhaupt nicht, was die … die Halunken
-wollen … Schabernack?! Keine Ahnung … t«
+nicht … Begreife überhaupt nicht, was die … die Halunken
+wollen … Schabernack?! Keine Ahnung …!«
 
 <@pagebreak/>
 Aha — 	—: Harald hatte fraglos recht mit seiner Vermutung
 gehabt — fraglos! Der Alte wußte etwas! Sein
-Benehmen war zu merkwürdig! Er wagte uns nicht grau
-sehen …? Er war eine zu biedere Haut, um Komödie spielen
+Benehmen war zu merkwürdig! Er wagte uns nicht anzusehen
+…? Er war eine zu biedere Haut, um Komödie spielen
 zu können.
 
 Eine Weile schwiegen wir …
@@ -272,14 +251,14 @@ Mein Blick streifte über das jenseitige Ufer hin und blieb
 plötzlich auf einer dort am Bollwerk vertäuten Segeljacht
 haften …
 
-Da lag auf dem KajüideX ein Mann halb hinter einem
+Da lag auf dem Kajütdeck ein Mann halb hinter einem
 Ballen Segel und hatte ein Fernglas an den Augen …
 
-Ich Wüste wieder weg …
+Ich blickte wieder weg …
 
 Aber nach einer Weile schaute ich wieder hin: der Kerl
-war noch da, und der Kerl glotzte mit seinem Fernglas zweifels
-los nach uns herüber!
+war noch da, und der Kerl glotzte mit seinem Fernglas zweifellos
+nach uns herüber!
 
 Inzwischen hatte Harald wieder begonnen:
 
@@ -287,7 +266,7 @@ Inzwischen hatte Harald wieder begonnen:
 nicht weiter. Sie verheimlichen uns etwas, was diese acht
 Stearintropfen betrifft …«
 
-Stempel streifte einen Versuchen Wurm über seinen Angelhaken
+Ollenprick streifte einen frischen Wurm über seinen Angelhaken
 und meinte:
 
 »Herr Harst, ich habe Sie beide hierher gebeten, damit
@@ -295,7 +274,7 @@ Sie mir den oder die Halunken ausfindig machen, die mir
 mein Zifferblatt beschweinigeln … Ich sichere Ihnen weitere
 tausend Mark zu, wenn Ihnen dies gelingt. Und damit
 könnten Sie zufrieden sein, denn 1500 Mark sind heutzutage
-ne anständige Summe …«
+’ne anständige Summe …«
 
 Harald erwiderte ziemlich kühl:
 
@@ -308,25 +287,25 @@ Drohung, — das wissen Sie sehr gut, und auch ich weiß
 es! Wenn Sie uns also nicht reinen Wein einschenken, so
 können Sie Ihr Vorschußhonorar abzüglich unserer Unkosten
 <@pagebreak/>
-zurüFhaben und wir reisen heim … — Entscheiden Sie sich!«
+zurückhaben und wir reisen heim … — Entscheiden Sie sich!«
 
 Wilm Ollenprick kaute mit den noch tadellos erhaltenen
-— Zähnen dir Unterlippe …
+Zähnen die Unterlippe …
 
 Knurrte dann: »Ich habe nichts weiter zu erklären, Herr
 Harst … Sie als Detektiv vermuten immer gleich ein großes
 Geheimnis hinter jedem Narrenstreich … Das liegt bei
-Ihnen wohl so in! Beruf … Aber in diesem Falle irren Siehst
-… Ich habe nie was mit acht Stearintropfen zu tun
+Ihnen wohl so im Beruf … Aber in diesem Falle irren Sie
+sich … Ich habe nie was mit acht Stearintropfen zu tun
 gehabt!! Ich gebe Ihnen mein Wort darauf! Und Wilm
 Ollenprick hat noch nie eine falsche Versicherung abgegeben —
 noch nie!«
 
 Jetzt blickte er Harald fest an …
 
-Und seine dunklen, lebhaften Augen unter den buschigen.
-grauen Augenbrauen zeigten einen ehrlichen, aber … des
-kümmerten Ausdruck …
+Und seine dunklen, lebhaften Augen unter den buschigen
+grauen Augenbrauen zeigten einen ehrlichen, aber … bekümmerten
+Ausdruck …
 
 Irgendeine Sorge quälte ihn doch … —
 
@@ -338,27 +317,26 @@ dann vielleicht ein guter Bekannter, ein Verwandter …«
 Ollenprick seufzte jetzt …
 
 »Sie sind gründlich, Herr Harst … — Ha, ein Verwandter,
-— das gebe im zu! Aber — — sprechen darf ich darübe-nicht,
-— bei Gott nicht, Herr Harst! Ich kann Sie nur
+— das gebe ich zu! Aber — — sprechen darf ich darüber
+nicht, — bei Gott nicht, Herr Harst! Ich kann Sie nur
 bitten: reisen Sie nicht ab!! Überlassen Sie mich nicht
-dieser … dieser Unruhe, die wißt nun schon wochenlang
+dieser … dieser Unruhe, die mich nun schon wochenlang
 quält — der Stearintropfen wegen … Ermitteln Sie den
 Kerl oder die Kerle, die mir auf diese Weise ihre Anwesenheit
 kundtun … Ich muß die Leute sehen und mit Ihnen …
-verhandeln … — ja, Idee … Das Lumpenpack soll
-mich in Ruhe lassen … im werde mich freikaufen, wenn es
-sein muß …
+verhandeln … — ja, verhandeln … Das Lumpenpack soll
+mich in Ruhe lassen … ich werde mich freikaufen, wenn es
+sein muß …«
 
-»Einverstanden!« Kiste Harald … »Einverstanden, — —
-wir bleiben … Und jetzt wollen wir uns entfernen, wollen:
-ist tun, als ’ob wir: Zufallsbekannte wären … Wiedersehen.
-5 …«
+»Einverstanden!« nickte Harald … »Einverstanden, — —
+wir bleiben … Und jetzt wollen wir uns entfernen, wollen
+so tun, als ob wir: Zufallsbekannte wären … Wiedersehen
+…«
 
 <@pagebreak/>
 Er erhob sich, grüßte …
-Und wir schritten davon — nach Osternothafen …
 
-«
+Und wir schritten davon — nach Osternothafen …
 
 <h2>2. Kapitel.</h2>
 <h3>Neue Beobachtungen.</h3>
@@ -1324,7 +1302,7 @@ Aufwärterin, Frau Englisch (die Mutter der duftenden Jungfrau
 aus der Kantiges, mußte unbedingt eingeweiht und durch
 Geld gefügig gemacht werden — gefügig und schweigsam! Denn
 Frau Harsts sollte ihre Obliegenheiten an mich abtreten,
-auch ihre Alltagstleidung, damit niemand merke, daß Max
+auch ihre Alltagskleidung, damit niemand merke, daß Max
 Schraut nun die Säuberung der Gästezimmer und alles
 übrige erledigte. — Au hierbei traf eine Anzahl günstiger
 Umstände zusammen. Frau Bodens wohnte am äußersten
@@ -2059,7 +2037,7 @@ Bis der gute Harald meinte:
 Ich lache über mich selbst — darüber, daß ich so … vernagelt
 war, die Absichten dieser Herrschaften nicht gleich zu durchschauen,
 und daß ich all die Stunden dort unten in Ollenpricks
-bombensicherem Kellershlafgemach gesessen und vollkommen
+bombensicherem Kellerschlafgemach gesessen und vollkommen
 falsch spekuliert habe! — Kinder, dabei war’s doch
 <@pagebreak/>
 mit den Händen zu greifen, daß die Gesellschaft auskneifen
@@ -2700,7 +2678,7 @@ So konnten Harst und ich denn ohne Aufsehen den eins
 einzigen Insassen, der kleinen Jacht, Herrn Peter Patra, herausklopfen,
 der sich hinten in der Kajüte eingeschlossen hatte.
 
-Peter Patra machte ein sehr empörte8 Gesicht, als Harald
+Peter Patra machte ein sehr empörtes Gesicht, als Harald
 ihm in der Kajüte mit der Clement in der Hand die näht«-
 hie Schurkerei vorhielt …
 
