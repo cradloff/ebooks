@@ -43,12 +43,12 @@ gegenüber Harsts beunruhigender Mitteilung, es hätte sich
 ein Verfolger, Spion oder dergleichen an unsere Fersen
 geheftet.
 
-»Etwa ein Mitglied der Garde jener Helen Jones<@refnote 1/>,
+»Etwa ein Mitglied der Garde jener Helen Jones<@refnote/>,
 die hohnlachend den Kelch mit dem vergifteten Sekt leerte?«
 fragte ich hastig weiter.
 
 Harald hob zweifelnd die Schultern. »Ich glaube es
-nicht — Helen Jones’ Kavaliere dürften sämtlich in dem
+nicht. — Helen Jones’ Kavaliere dürften sämtlich in dem
 Massengrab auf der Insel der Seligen ruhen. Immerhin
 — wir werden vorsichtig sein.« (Vergl. den vorigen
 Band »Die namenlose Jacht«.)
@@ -57,7 +57,7 @@ Ich hütete mich, nun etwa in auffälliger Weise zu dem
 eleganten Fremden hinüberzustarren.
 
 Harald las die Times. Nach einer Weile gab er mir
-das Hauptblatt ...
+das Hauptblatt …
 
 »Da — überfliege mal diese Zusammenstellung! Eine
 nette Serie!«
@@ -116,7 +116,7 @@ und das Zwischengericht serviert hatte, fragte ich Harald
 etwas zögernd:
 
 »Der Herr macht mir durchaus nicht den Eindruck, als
-ob er ...«
+ob er …«
 
 Ich schwieg. Der Hoteldirektor war neben unserem
 Tische aufgetaucht.
@@ -127,7 +127,7 @@ einer Verbeugung.
 Harald nahm das Telegramm und öffnete es.
 
 Der Hoteldirektor blieb stehen. »Auch ein Brief ist für
-Sie abgegeben worden, Mr. Harst«, erklärte er. »Ich soll
+Sie abgegeben worden, Mr. Harst,« erklärte er. »Ich soll
 Ihnen den Brief jedoch nur unter vier Augen im Büro
 aushändigen, bat der Überbringer, ein noch sehr junger
 Europäer, der mir fremd ist.«
@@ -138,7 +138,7 @@ Der Direktor entfernte sich.
 
 Harald las die Depesche. Ich beobachtete sein Gesicht.
 
-»Merkwürdig!« meinte er. »Hör’ mal zu ...
+»Merkwürdig!« meinte er. »Hör’ mal zu …
 
 > Ich bitte Sie, Mr. Harst, schnellstens nach Schottland
 zu kommen. Ich brauche Ihre Hilfe. Benutzen
@@ -161,10 +161,10 @@ und sichtlich zerstreut und — erhob sich plötzlich.
 
 Jetzt hatte ich Zeit, über dieses »Merkwürdig!« nachzudenken.
 Die Depesche lag noch neben Haralds Teller. Ich
-nahm sie, las sie nochmals, sann und sann ...
+nahm sie, las sie nochmals, sann und sann …
 
 Und da fiel zufällig mein Blick auf den Pfeilerspiegel,
-glitt nach links ...:
+glitt nach links …:
 
 Der Platz des eleganten Fremden mit dem blonden
 Spitzbart war leer!
@@ -205,7 +205,7 @@ hinzusetzen pflegt, las ich mit Bleistift hingekritzelt:
 
 > Fahren Sie nicht nach Schloß Gnir!
 
-»So — und nun der Brief selbst, mein Alter«, munterte
+»So — und nun der Brief selbst, mein Alter,« munterte
 Harst mich auf. »Maschinenschrift, wie Du siehst. Eine
 Maschine, die fehlerlos schreibt.«
 
@@ -236,7 +236,7 @@ am Hafen sein. Wir reisen mit der Ozeana ab.«
 »Sehr wohl, Mr. Harst.«
 
 Wir begaben uns in den ersten Stock in unsere
-Zimmer. Im Wohnsalon auf dem Sofatisch ... lag ein
+Zimmer. Im Wohnsalon auf dem Sofatisch … lag ein
 Zettel, — — dieselbe kritzlige Schrift wie auf der Rückseite
 des Umschlages:
 
@@ -248,7 +248,7 @@ werden hier heimlich beobachtet.«
 das alles?! Dieser Zettel, die zweite Warnung, kann doch
 soeben erst geschrieben worden sein, denn erst vor zehn
 Minuten habe ich im Büro des Hotels mich für die Ozeana
-entschieden. Es ist der schnellste Dampfer der Australia-Linie ...«
+entschieden. Es ist der schnellste Dampfer der Australia-Linie …«
 
 Er starrte auf den Zettel, fügte hinzu:
 
@@ -276,7 +276,7 @@ haben, war ein Übermaß gefahrvoller Überraschungen,
 jäher Zwischenfälle und rätselhafter Einzelszenen.
 Es war eben — der Kampf gegen Lionel Barring,
 über den die Zeitungen aller Länder spaltenlange Berichte
-brachten, die leider ... zumeist der üppigen Phantasie
+brachten, die leider … zumeist der üppigen Phantasie
 schlecht unterrichteter Reporter entsprungen waren.
 
 <@pagebreak/>
@@ -303,14 +303,14 @@ auf meine Beschreibung des Blondbärtigen hin mitgeteilt,
 daß der Herr ebenfalls im Atlantic wohnt, und zwar seit
 einer Woche. Er traf hier ein, angeblich von Bombay
 <@pagebreak/>
-kommend als wir gerade mit dem elenden Rattenkasten, dem
+kommend, als wir gerade mit dem elenden Rattenkasten, dem
 Südpol, die Jagd auf die Australia begannen, das heißt
-den hiesigen Hafen verlassen hatten ...«
+den hiesigen Hafen verlassen hatten …«
 
 »Ah — sehr interessant!« warf ich, ehrlich gespannt
 auf das weitere, hin.
 
-»Ja, sehr interessant! denn der Herr ... hat sich in
+»Ja, sehr interessant! denn der Herr … hat sich in
 die Hotelliste als Lionel Barring, Advokat, eingetragen.«
 
 »Donnerwetter!! Und — das sagst Du mir erst jetzt?!«
@@ -334,7 +334,7 @@ so ernst lagen?!
 
 »Höre weiter,« fuhr er fort und schwenkte in eine
 Seitenstraße ein, in der wir sofort aus dem Fenster eines
-schmalen, dunklen Hauses leise angerufen wurden ...
+schmalen, dunklen Hauses leise angerufen wurden …
 
 Es war eine berüchtigte Gasse, eine Gasse, wo die
 käufliche Liebe ihr Domizil aufgeschlagen hatte.
@@ -345,7 +345,7 @@ Policeman vorüberkam, wurde aus den lockenden
 Stimmen ein girrendes Dirnenlachen.
 
 <@pagebreak/>
-»Höre weiter ... — Nachdem der Direktor mir im
+»Höre weiter … — Nachdem der Direktor mir im
 Büro erklärt hatte, daß der bewußte Herr Lionel Barring
 heiße und Nr. 9 uns schräg gegenüber bewohne — übrigens
 hatte er Wert darauf gelegt, dieses Zimmer zu erhalten —,
@@ -365,7 +365,7 @@ blieb.«
 »Gut — und die ernste Gefahr?«
 
 »Warte doch ab. Deine Sorge um Deinen gut genährten
-Kadaver bereitet Dir nur zu oft ...«
+Kadaver bereitet Dir nur zu oft …«
 
 Er blieb stehen. Vor uns war aus einer Haustür ein
 verschleiertes schlankes Weib mit aufgelöstem Blondhaar
@@ -381,7 +381,7 @@ Hastig flüsterte sie — und es war eine junge, angenehme
 Stimme:
 
 »Mr. Harst, lassen Sie sich warnen! Benutzen Sie
-nicht die Ozeana! Später ... mehr!«
+nicht die Ozeana! Später … mehr!«
 
 Ehe Harald noch zupacken und die Fremde zurückhalten
 konnte, war sie schon wieder mit zwei langen gewandten
@@ -401,9 +401,9 @@ Der Beamte kam rasch herbei.
 erklärte Harst. »Ich wünsche, daß die Frau festgestellt
 wird.«
 
-»Sehr wohl, Mister ... sehr wohl ...«
+»Sehr wohl, Mister …, sehr wohl …«
 
-Der farbige Polizist faßte den Drücker ...
+Der farbige Polizist faßte den Drücker …
 
 Und — die Tür ging auf.
 
@@ -411,13 +411,13 @@ Hinten in dem langen Flur schimmerte Licht. Eine
 elektrische Birne verbreitete trübe Helle.
 
 »Es ist ein Durchgangshaus nach der Queen-Straße,
-Mister«, meinte der Beamte unschlüssig. »Es dürfte wenig
-Zweck haben, die Frau zu suchen ...«
+Mister,« meinte der Beamte unschlüssig. »Es dürfte wenig
+Zweck haben, die Frau zu suchen …«
 
 »Gut — lassen wir’s. — Da — bitte, — — Sie
 rauchen doch?«
 
-»Sehr wohl, Mister. — Danke ...«
+»Sehr wohl, Mister. — Danke …«
 
 Wir gingen weiter.
 
@@ -450,7 +450,7 @@ auf dem Fenster die scharfen Silhouetten zweier Männer
 — unverkennbar in den Profillinien: der Direktor und der
 spitzbärtige Advokat Lionel Barring!
 
-»Barring begleicht seine Rechnung«, sagte Harald leise
+»Barring begleicht seine Rechnung,« sagte Harald leise
 und blätterte weiter in einem Buche, das er rasch aus dem
 Lesesaal geholt hatte.
 
@@ -460,13 +460,13 @@ Das Buch war der englische Adels-Almanach.
 meinte ich und streckte die Beine von mir, daß der
 Rohrsessel knarrte.
 
-»Ohne Zweifel ...« Und in einem Atem sprach er
+»Ohne Zweifel …« Und in einem Atem sprach er
 weiter, oder besser las er vor:
 
 > »Allan Howard Torky Gnirable, Lord und Pair von
 England, Sohn des Herzogs Allan Howard Richard
 Gnirable, verstorben am 2. März 1920. — Unverheiratet,
-Besitzer der Herrschaft Gnirable, 250 ...«
+Besitzer der Herrschaft Gnirable, 250 …«
 
 Plötzlich verstummte er, flüsterte, — hatte also auch
 beim Lesen den Eingang im Auge behalten:
@@ -496,7 +496,7 @@ Er stellte sich ihr in den Weg.
 
 »Soeben in der Raffalar-Street hatten Sie Ihren
 schottischen Seidenmantel über dem linken Arm und eine
-blonde Perücke auf, Mistreß«, sagte er hastig. »Wünschen
+blonde Perücke auf, Mistreß,« sagte er hastig. »Wünschen
 Sie, daß ich den Hoteldirektor hole?«
 
 Ihr Gesicht ward von Röte überflutet. Die Lippen
@@ -530,7 +530,7 @@ an den Tisch gerückt. Sie nahm Platz.
 
 »Schreiben Sie ganz schnell — ich betone: ganz schnell:
 
-Reisen Sie nicht mit der Ozeana, Mr. Harst!
+> Reisen Sie nicht mit der Ozeana, Mr. Harst!
 
 Schneller — schneller!! — So, danke. Das genügt mir.«
 
@@ -542,7 +542,7 @@ Ein Nicken.
 
 »Und Ihr Name, Mistreß?«
 
-»Maria Gould ...«
+»Maria Gould …«
 
 »Danke. Es stimmt. Sie sind gleichzeitig mit einem
 Herrn Lionel Barring hier im Atlantic abgestiegen. Ihr
@@ -558,16 +558,16 @@ lärmender Weise. Sie beachteten uns zwar nicht, da sie
 über Börsengeschäfte sprachen. Immerhin mußte Harst
 nunmehr Maria Gould entlassen.
 
-»Ich danke Ihnen, Miß Gould«, sagte er leise. »Versuchen
+»Ich danke Ihnen, Miß Gould,« sagte er leise. »Versuchen
 Sie nicht, uns zu entwischen. Ich werde mir erlauben,
-Sie nach zehn Minuten auf ihrem Zimmer aufzusuchen.«
+Sie nach zehn Minuten auf Ihrem Zimmer aufzusuchen.«
 
 <@pagebreak/>
 Miß Gould drehte sich kurz um und ging hinaus.
 Harst schaute ihr durch die Tür nach. Sie schritt die Haupttreppe
 empor.
 
-»Nimm den Zettel«, winkte Harald mir zu. »Wir
+»Nimm den Zettel,« winkte Harald mir zu. »Wir
 wollen doch vorsichtig sein.«
 
 Und wir blieben hinter Miß Gould, sahen sie im
@@ -578,17 +578,17 @@ ersten Stock in Nr. 14 verschwinden.
 <h2>3. Kapitel.</h2>
 <h3>Die beiden Büchsen.</h3>
 
-»Hm — wir könnten eigentlich auch sofort zu ihr hinein«,
+»Hm — wir könnten eigentlich auch sofort zu ihr hinein,«
 meinte Harst etwas erregt. »An dieser Miß Gould
 gefällt mir mancherlei nicht. Es ist besser, wir lassen ihr
-keine Zeit ...«
+keine Zeit …«
 
 Er hatte mir den Zettel abgenommen und einen flüchtigen
 Blick auf die Schrift geworfen.
 
 »Lies,« rief er keuchend. »Lies! Das ist ja unglaublich!«
 
-Und ich las ... las ...
+Und ich las … las …
 
 Da stand nichts von dem, was Harald diktiert hatte.
 Da stand:
@@ -596,7 +596,7 @@ Da stand:
 »Finden werden Sie mich nicht, Mr. Harst!«
 
 Und — es war tatsächlich eine auffällige Ähnlichkeit
-zwischen der kritzligen Schrift und dieser Schriftprobe Mrs.
+zwischen der kritzligen Schrift und dieser Schriftprobe Miß
 Goulds unschwer festzustellen! —
 
 Harald war weitergeeilt, hatte schon die äußere Tür
@@ -605,7 +605,7 @@ von Nr. 14 geöffnet und klopfte.
 <@pagebreak/>
 Klopfte abermals.
 
-Rüttelte an der Innentür ...
+Rüttelte an der Innentür …
 
 Warf sich plötzlich mit der Schulter dagegen.
 
@@ -616,7 +616,7 @@ hatte die Schlüsselzange in der Hand.
 
 Ein Etagenkellner kam, blieb stehen. Es war derselbe,
 der auch uns auf Nr. 6 und 7 bediente. Er wußte,
-wer wir waren; Leute, deren Handlungen einwandfrei
+wer wir waren: Leute, deren Handlungen einwandfrei
 sind, selbst wenn der Schein dagegen spricht.
 
 »Etwas vorgefallen, Mr. Harst?« fragte er nur.
@@ -638,7 +638,7 @@ um. Und — auf dem Teppich unweit des großen Kleiderschrankes
 lag ein weißes Stückchen Papier, handgroß, aus
 einem Notizbuch herausgerissen.
 
-Ich hob es auf. Und ... las:
+Ich hob es auf. Und … las:
 
 »Wozu das alles?! Begreifen Sie denn nicht, Mr.
 Harst?!«
@@ -659,8 +659,8 @@ Sechziger, der für scharfe Getränke weit mehr Vorliebe besaß
 als für dienstliche Aufregungen, wollte erst noch allerlei
 Fragen stellen.
 
-»So gehen Sie doch, Mr. Ollan«, meinte Harald
-jedoch. »Spuren, Fußeindrücke, finden Sie fraglos besser
+»So gehen Sie doch, Mr. Ollan,« meinte Harald
+jedoch. »Spuren, Fußeindrücke finden Sie fraglos besser
 als wir.«
 
 Diese plumpe Schmeichelei wirkte. Ollan schoß davon
@@ -682,7 +682,7 @@ Diese Tür war nur eingeklinkt. In Nr. 15
 hing vor ihr eine dicke Portiere, an der ein Rohrsofa gestanden
 hatte. Dieses war mitten ins Zimmer geschoben.
 
-Die Flurtür<@refnote 2/> von Nr. 15 war von außen versperrt. Der
+Die Flurtür<@refnote/> von Nr. 15 war von außen versperrt. Der
 Schlüssel steckte. Wir mußten nach Nr. 14 zurück, fanden
 hier den etwas verstörten Hoteldirektor vor.
 
@@ -697,7 +697,7 @@ Holländer.«
 
 »Seit wann?«
 
-»Hm — seit — — seit ...«
+»Hm — seit — — seit …«
 
 »Seit dem Tage, an dem Miß Maria Gould einzog,
 nicht wahr?«
@@ -715,7 +715,7 @@ Gould!«
 
 »Nicht möglich!«
 
-»Bitte ...!!« — Und Harald hatte die beiden Koffer
+»Bitte …!!« — Und Harald hatte die beiden Koffer
 Miß Goulds, die auf einem Gestell standen, rasch aufgebrochen.
 Sie enthielten nur gebündelte alte Zeitungen.
 
@@ -727,7 +727,7 @@ Indem trat auch schon Mr. Ollan wieder ein.
 strahlend. »Der Strick ist Blendwerk der Hölle! Das Weib
 hat niemals den Weg durch das Fenster genommen.«
 
-»Leider nein«, nickte Harst. »Das Weib ist als
+»Leider nein,« nickte Harst. »Das Weib ist als
 Professor Tougreeve davongefahren. Sie brauchen sie aber
 nicht zu verfolgen, Mr. Ollan. Es ist lediglich eine
 Abenteurerin, die hier stehlen wollte, jedoch das Feld
@@ -749,12 +749,12 @@ andere Büchse — zwei besponnene Kupferdrähte. Und der
 eine Draht war durchschnitten.
 
 »Mit meiner Nagelschere — als Du den Zettel
-studiertest«, erklärte Harald leise. »Also ein Geschenk von
+studiertest,« erklärte Harald leise. »Also ein Geschenk von
 Maria Gould!!«
 
 »Nettes Geschenk!«
 
-»Ja ... — Horch, da tickt ziemlich lautlos ein Uhrwerk.
+»Ja … — Horch, da tickt ziemlich lautlos ein Uhrwerk.
 Die eine Büchse ist eine elektrische Batterie, die
 andere enthält das Uhrwerk und die Sprengladung.«
 
@@ -776,7 +776,7 @@ hat eine Kabine auf der Ozeana belegt, Mr. Harst.«
 
 »Danke. — Ein Auto steht für uns bereit?«
 
-»Sehr wohl ...« —
+»Sehr wohl …« —
 
 Auch wir fuhren zum Hafen. Unterwegs sagte Harald:
 »Nun werden wir also Mr. Barring kennen lernen. Lionel
@@ -791,9 +791,9 @@ Aber jetzt schwieg er und rauchte mit Behagen seine
 Mirakulum. —
 
 Am Kai lag die prächtige Ozeana mit ihren vier dicken
-einzelnen Schornsteinen.
+gelben Schornsteinen.
 
-Arme Ozeana ...!! — Doch — davon später.
+Arme Ozeana …!! — Doch — davon später.
 
 Zunächst: Schon um 10 Uhr, als wir kaum eine
 Stunde unterwegs waren, als die Küste Australiens uns
@@ -809,7 +809,7 @@ Professor Dr. Tougreeve überlassen.«
 
 Als wir dann diesen Tougreeve aufsuchten (er packte
 gerade Bücher aus), sahen wir auf den ersten Blick, daß
-der Gelehrte nicht etwa ein markiertes Frauenzimmer war.
+der Gelehrte nicht etwa ein maskiertes<@refnote/> Frauenzimmer war.
 Und Tougreeve bewies uns auch sehr bald, daß er in
 Australien mineralogische Studien getrieben habe und
 gestern abend erst in Melbourne angelangt sei — aus dem
@@ -827,7 +827,7 @@ Weniger harmlos war diese Seereise auf der Ozeana.
 Wenn der Leser Zeitungen vom 5. März 1923 noch
 zur Verfügung hat, wird er unter »Auslandstelegrammen«
 die Meldung finden, daß der Australia-London-Steamer
-Ozeana am 4. nachts halb zwölf unweit der Karimon-Djava-Inseln,
+Ozeana am 4. nachts halb zwölf unweit der Karimon-Djawa-Inseln<@refnote/>,
 also kurz vor dem Hafen von Batavia, durch
 vier Explosionen in den Gepäckkammern schwer leck wurde
 und daß der größte Teil der Passagiere infolge einer Panik
@@ -842,7 +842,7 @@ wir blieben auf dem Schiff, waren allerdings, als die
 Explosionen den Dampfer erbeben machten, aus dem Rauchsalon
 für alle Fälle in unsere Doppelkabine geeilt, wo dann
 <@pagebreak/>
-wieder einer der ... Kritzelzettel uns bewies, daß entgegen
+wieder einer der … Kritzelzettel uns bewies, daß entgegen
 unserer bisherigen Annahme Miß Gould auch an Bord
 war und daß sie diesen Zettel soeben erst in die Kabine
 durch die kleine Luftscheibe vom Gange aus hineingeworfen
@@ -867,10 +867,10 @@ als nun auf dem Oberdeck nur noch ein Häuflein von etwa
 dreißig Menschen beieinander stand, da zog Harst mich
 beiseite.
 
-»Komm’ nach vorn«, sagte er.
+»Komm’ nach vorn,« sagte er.
 
 Wir schritten mühselig auf den schiefen Deckplanken
-zum Bug hin. Wir ... fanden dort einen jener großen
+zum Bug hin. Wir … fanden dort einen jener großen
 Kabinenkoffer amerikanischen Patents, die im Falle der
 Not als Rettungsfloß benutzt werden können.
 
@@ -882,7 +882,7 @@ Seine aufgeschnallten beiden Traggerüste hätten uns tagelang
 Harald schüttelte immer wieder den Kopf.
 
 <@pagebreak/>
-»Korrigieren wir unsere bisherigen Vermutungen«,
+»Korrigieren wir unsere bisherigen Vermutungen,«
 meinte er ernst. »Miß Gould hat uns niemals die Höllenmaschine
 ins Hotelzimmer gestellt. Das tat Lionel Barring,
 dessen Gegnerin diese rätselhafte Verkleidungskünstlerin ist.
@@ -935,9 +935,9 @@ Verfolger auf unserer Spur.
 
 Wir langten abends 9 Uhr in Lammerty an. Dieses
 einzige Städtchen am Rande eines Hochmoores ist den
-größeren Teil des Jahres über in Nebel und ... dünne
+größeren Teil des Jahres über in Nebel und … dünne
 Rauchschwaden gehüllt. Der Rauch stammt von dem unterirdisch
-brennenden Torfmoor von Besty Baany, das in
+brennenden Torfmoor von Besty Barry<@refnote/>, das in
 einer Fläche von rund 8000 Quadratmetern seit Menschengedenken
 schwelt.
 
@@ -946,7 +946,7 @@ Es stiegen außer uns noch etwa zwölf Personen aus.
 Ich nahm mir einen Jungen, der meinen Koffer
 trug, und begab mich zu dem würdigen Pfarrer von Lammerty,
 Reverend Mr. Stuart Wellery, den uns in London
-der Kollege Albert Ernest Alverson<@refnote 3/>, ein alter Bekannter von
+der Kollege Albert Ernest Alverson<@refnote/>, ein alter Bekannter von
 uns, empfohlen und an den er auch einige aufklärende
 Worte depeschiert hatte.
 
@@ -961,7 +961,7 @@ vorzüglichen Eindruck machte, hatte ein nicht minder vorzügliches
 Abendessen bereit. Bei Tisch kam das Gespräch
 dann sehr bald auf den dreifachen Mord.
 
-»Ja, da ist mir vorhin etwas sehr Merkwürdiges zugestoßen«,
+»Ja, da ist mir vorhin etwas sehr Merkwürdiges zugestoßen,«
 sagte der alte Herr bedächtig. »Ich war mit einem
 der Ermordeten, dem Schloßbibliothekar Dr. Gustav Lorm,
 übrigens ein Deutscher von Geburt, so ein wenig befreundet.
@@ -977,7 +977,7 @@ Herren, Nüsse halten sich nur in trockener Luft, und Schloß
 Gnir ist feucht wie ein Keller mit Grundwasser. — Heute
 abend habe ich nun, da ich die Walnüsse doch wohl als
 mein Eigentum betrachten durfte, ein paar davon gegessen.
-Und da ... — aber warten Sie, ich zeige es Ihnen ...«
+Und da … — aber warten Sie, ich zeige es Ihnen …«
 
 Und er ging und brachte zwei genau aneinander
 passende Nußschalenhälften, die durch dunklen Siegellack
@@ -990,13 +990,13 @@ Der alte Herr schilderte uns wortreich seine ungeheure
 Überraschung über diesen Fund. »Ich habe bisher niemandem
 etwas davon mitgeteilt, auch James nicht (das
 <@pagebreak/>
-war ein bejahrter Diener)«, fügte der Pfarrer hinzu. »Ich
+war ein bejahrter Diener),« fügte der Pfarrer hinzu. »Ich
 wollte erst mit Ihnen darüber sprechen, Mr. Harst.«
 
-»Sehr verständig, Ehrwürden«, nickte Harald.
+»Sehr verständig, Ehrwürden,« nickte Harald.
 »Schweigen Sie auch weiterhin.« Und er drehte den
 großen, wertvollen Edelstein zwischen den Fingern und
-fuhr leise fort: »Ich ... kenne diesen Stein nämlich. Und
+fuhr leise fort: »Ich … kenne diesen Stein nämlich. Und
 ich glaube bestimmt, daß der Mord an den drei Herren mit
 diesen Diamanten irgendwie in Verbindung steht.«
 
@@ -1010,14 +1010,14 @@ des Vorjahres, als Schraut und ich gerade in Arabien
 waren, wurde bei Söderholm eingebrochen und auch dieser
 Diamant gestohlen.«
 
-Jetzt ruckte ich zusammen wie unter einem Fausthieb ...
+Jetzt ruckte ich zusammen wie unter einem Fausthieb …
 
-Hotel Atlantic in Melbourne ... Speisesaal ...
+Hotel Atlantic in Melbourne … Speisesaal …
 Die Melbourne-Times und die Zusammenstellung der
-unaufgeklärten großen Verbrechen fielen wie ein ...
+unaufgeklärten großen Verbrechen fielen wie ein …
 
 Ich starrte Harald an. Aber — ein verstohlener Wink
-von ihm hieß mich schweigen ...
+von ihm hieß mich schweigen …
 
 Ich starrte auf die Schalen der Walnuß.
 
@@ -1079,7 +1079,7 @@ Tischdecke aus.
 So fanden wir denn bei dieser Untersuchung noch
 siebzehn Nüsse heraus, die mit bräunlichem Siegellack unauffällig
 zugeklebt waren. Nachdem wir sie vorsichtig geöffnet
-hatten, lagen vor uns ... sechzehn prächtige große Perlen
+hatten, lagen vor uns … sechzehn prächtige große Perlen
 von wunderbarem Glanz, Perlen von so auserlesener
 Größe und Güte, wie man sie selten antrifft. Sechzehn
 Perlen. Und in der siebzehnten Nuß hatte ein ganz eng
@@ -1091,7 +1091,7 @@ Sie lautete:
 
 »Ehrwürden! Sie haben einem Manne Ihre Freundschaft
 geschenkt, der — — ein Verbrecher war! — Ich sage
-»ein Verbrecher *war*«, denn ich weiß, daß Sie nur nach
+»ein Verbrecher *war*,« denn ich weiß, daß Sie nur nach
 meinem Tode sich mit Recht als Erben des Nußbeutels als
 einer wertlosen Sache betrachten und dann vielleicht diesen
 Zettel sowie die Perlen und den Edelstein finden werden
@@ -1139,7 +1139,7 @@ Verbrechergemeinschaft, deren Oberhaupt Barring
 ist. Sie nennt sich »Die große Null« und ist in Sektionen
 zu je drei Mann eingeteilt. Nur die drei Mitglieder einer
 Sektion kennen sich. Im übrigen gibt es innerhalb der
-»großen Null« verschiedene Grade. Zu den Versammlungen
+»großen Null« verschiedene Grade. Zu den Versammlungen,
 die stets nachts in den Tokkara-Höhlen stattfinden, erscheinen
 die Mitglieder maskiert. Ich habe drei solcher Versammlungen
 mitgemacht. In der letzten am 3. Oktober
@@ -1149,7 +1149,7 @@ daß der Mann jener Thomas Gould war, der als Ingenieur
 ebenfalls in den Diensten des Lords stand. Er wurde
 von der Euston-Klippe in die Tiefe gestürzt. Alle Welt
 hat an einen Unfall geglaubt. — Ich, ferner der Stallmeister
-des Lords, Mr. Beckerley, und der Chauffeur Evans
+des Lords, Mr. Beckerley<@refnote/>, und der Chauffeur Evans
 gehörten zur Sektion 6. Wir drei haben unter Anleitung
 Lionel Barrings den Einbruch bei dem Grafen Söderholm
 verübt. Von der Beute unterschlugen wir den Edelstein
@@ -1202,6 +1202,6 @@ Jedenfalls: Der Kampf begann! —
 
 Wie er begann?! — — Lieber Leser, *Deine* Phantasie
 reicht da nicht aus, wirklich nicht! Du wirst das sehr
-bald zugeben müssen ...
+bald zugeben müssen …
 
 

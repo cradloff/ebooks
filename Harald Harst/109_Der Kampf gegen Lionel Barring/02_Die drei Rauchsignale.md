@@ -18,7 +18,7 @@ Der Märzsturm verschlang mit seinem Toben zuweilen
 das Dröhnen der lauten Uhrschläge, daß ich ganz scharf hinhorchen
 mußte, um richtig mitzählen zu können.
 
-Nun der letzte Schlag ...
+Nun der letzte Schlag …
 
 »Zwölf!« sagte ich unwillkürlich halblaut.
 
@@ -28,7 +28,7 @@ Haralds lässige Gestalt bekam Leben. Sein linker Arm
 fuhr nach vorn, und Doktor Lorms zu einem kleinen Ball
 zusammengeknüllter Zettel verschwand in der weit offenen
 Tür des Ofens — mitten in die flammenden Buchenscheite
-hinein ...
+hinein …
 
 <@pagebreak/>
 Dann wandte Harst den Kopf, sah mich sehr ernst an
@@ -40,7 +40,7 @@ noch im Koffer!«
 Und wieder da ein Neues, Unerwartetes: Die nur
 angelehnte Tür nach meinem Zimmer flog auf.
 
-Auf der Schwelle stand ... Lionel Barring, in einen
+Auf der Schwelle stand … Lionel Barring, in einen
 dunklen Pelz gehüllt, auf dem Kopfe einen schwarzen
 Velourshut.
 
@@ -66,7 +66,7 @@ des Tisches, am weitesten vom Kamin und von der Lampe
 weg, Platz nehmen.
 
 Mit einem Male bemerkte er da die sechzehn Perlen.
-Blieb einen Moment wie erstarrt, lächelte sofort ...
+Blieb einen Moment wie erstarrt, lächelte sofort …
 
 »Ah — sehr interessant! Sehr! Der Söderholm-Schmuck!«
 
@@ -91,7 +91,7 @@ Sie beide vor weiteren Unvorsichtigkeiten zu warnen und
 um Ihnen das absolut Zwecklose einer Einmischung in
 mein Tun und Treiben klarzumachen.« Er rauchte ein
 paar Züge. »Ich wohne zur Zeit wieder einmal im
-Schlosse Gnir als Gast meines ... Prinzipals, des Lords«,
+Schlosse Gnir als Gast meines … Prinzipals, des Lords,«
 fuhr er fort. »Das heißt: ich bin gleichzeitig auch in
 London und anderswo, Mr. Harst, da ich die Fähigkeit besitze,
 mein Ich zu vervielfältigen.«
@@ -102,13 +102,13 @@ Lionel Barring verneigte sich nach Harst hin. »Sie
 werden sehr bald merken, daß ich nicht phantasiere. Wenn
 Sie morgen früh in London telephonisch beim Traveller-Klub
 anfragen wollen, wird man Ihnen antworten, daß
-Rechtsanwalt Barring um diese Zeit dort mit Lord Bosporus
+Rechtsanwalt Barring um diese Zeit dort mit Lord Baldrouf
 und Sir Garnalan Karten gespielt hat, umgeben
 von genug Zeugen, die jederzeit beeiden könnten, daß dies
 der Wahrheit entspricht. — Wie denken Sie sich also wohl
 Ihr Eingreifen in meine Liebhabereien, Mr. Harst? Ich
 bin unmöglich zu fassen. Man wird Sie auslachen, wenn
-Sie etwa behaupten wollten, ich hätte den Dampfer
+Sie etwa behaupten wollten, *ich* hätte den Dampfer
 Ozeana versenken wollen. Denn — Advokat Barring ist
 noch nie in Australien gewesen, könnten tausend Menschen
 <@pagebreak/>
@@ -116,7 +116,7 @@ bezeugen. Advokat Barring hat sich seit Januar des
 Jahres stets nur für wenige Tage aus London entfernt.
 Also — wie denken Sie sich das alles?«
 
-»Meine Sache!« erklärte<@refnote 4/> Harald kühl.
+»Meine Sache!« erklärte<@refnote 8/> Harald kühl.
 
 Barring rauchte hastiger. »Sie wollen also tatsächlich
 nach Schloß Gnir, Mr. Harst, — so scheint es! Gut, ich
@@ -172,15 +172,15 @@ gestohlen zu haben?« fragte Harald da ebenso unvermittelt.
 gewiß, aber — wer ist denn Lionel Barring?! Ein sehr
 angesehener Advokat von 36 Jahren in London, der gleichzeitig
 auch anderswo und auch an einem dritten Orte sich
-zeigt. Welches Gericht würde mich verurteilen?!«
+zeigt. Welches Gericht würde *mich* verurteilen?!«
 
 Er stand dicht neben Harald — so dicht, daß dieser
-nur zuzupacken brauchte ...
+nur zuzupacken brauchte …
 
 Und — — er tat’s.
 
 Er fuhr empor, umfaßte Barrings Handgelenke mit
-eisernem, blitzschnellem Griff ...
+eisernem, blitzschnellem Griff …
 
 »Schraut — ein Stück Schnur her!« rief er. »Der
 Schurke tat nur so, als hätte er im Nebenzimmer Verbündete!
@@ -191,7 +191,7 @@ Meine Augen glitten zur Tür — — unwillkürlich.
 Und — — keuchend sagte ich:
 
 »Gib ihn frei, Harald! Da stehen drei Männer mit
-Masken vor ...«
+Masken vor …«
 
 Harst hatte Barring schon losgelassen und setzte sich
 wieder. Sein Gesicht war blaß geworden.
@@ -206,14 +206,14 @@ Dieser Mann glich in Anzug und Gestalt, Gesicht,
 Haartracht und Größe genau Lionel Barring. Sogar die
 Narbe war vorhanden.
 
-Ich starrte abwechselnd den einen, den anderen an ...
+Ich starrte abwechselnd den einen, den anderen an …
 
 Hörte kaum hin, daß Barring uns gute Nacht
-wünschte ...
+wünschte …
 
-Starrte den beiden nach ...
+Starrte den beiden nach …
 
-Bis die Tür zum Nebenzimmer ins Schloß fiel ...
+Bis die Tür zum Nebenzimmer ins Schloß fiel …
 
 Und blickte dann auf Harst.
 
@@ -235,7 +235,7 @@ Minutenlang schwiegen wir. Ich fühlte, daß meine
 Hände vor innerer Erregung eiskalt geworden waren. Ich
 stand auf und holte aus dem einen Koffer die Reiseflasche
 mit Kognak, schraubte den Aluminiumbecherdeckel ab, und
-... ein Papier flatterte auf den Teppich.
+… ein Papier flatterte auf den Teppich.
 
 Ein Streifen Papier, der in dem Deckel gelegen hatte.
 Und darauf war mit Maschine geschrieben:
@@ -259,16 +259,16 @@ Harald ging ins Nebenzimmer, nahm die Lampe mit.
 Was — — fanden wir? Was?!
 
 <@pagebreak/>
-Leser, strenge deine Phantasie bis zum äußersten an.
-Errätst du es?! — Nein — — niemals!
+Leser, strenge Deine Phantasie bis zum äußersten an.
+Errätst Du es?! — Nein — — niemals!
 
-Stelle Dir vor, daß du dieses Zimmer betrittst, um
-dich zu vergewissern, ob die vier Männer es wirklich verlassen
+Stelle Dir vor, daß Du dieses Zimmer betrittst, um
+Dich zu vergewissern, ob die vier Männer es wirklich verlassen
 haben.
 
 Stelle Dir vor, daß der Lichtschein der Petroleumlampe
 Dir plötzlich eine auf dem Bett reglos daliegende
-weibliche Gestalt zeigt, daß du sofort in dieser Frau — —
+weibliche Gestalt zeigt, daß Du sofort in dieser Frau — —
 Maria Gould erkennst!!
 
 Stelle Dir das alles vor, bedenke dabei auch, daß
@@ -281,7 +281,7 @@ um Mund und Augen wenig Abbruch taten.
 
 Harst gewann als erster seine Fassung zurück.
 
-»Sie lebt, sie ist nur durch Äther betäubt«, sagte er
+»Sie lebt, sie ist nur durch Äther betäubt,« sagte er
 nach kurzer Untersuchung.
 
 Wir trugen sie ins andere Zimmer, legten sie auf
@@ -296,28 +296,28 @@ griff ans Herz, ließ jeden feinsten Nerv vibrieren.
 
 Kaum hatte Frau Gould sich etwas erholt, kaum mit
 bewußtem Blick uns angesehen, als sie einen gellenden,
-wahnwitzigen Schrei wildester Angst ausstieß ...
+wahnwitzigen Schrei wildester Angst ausstieß …
 
 »Geht — — geht!!« kreischte sie überlaut. »Habt
 Erbarmen! Nehmt — — nehmt die Schlange weg!«
 
 Sie schnellte auf, stolperte, verkroch sich in der einen
-Ecke von Kamin und Wand, wimmerte, heulte auf ...
+Ecke von Kamin und Wand, wimmerte, heulte auf …
 
 <@pagebreak/>
-Wir standen dabei — blaß untätig ...
+Wir standen dabei — blaß untätig …
 
-Wir hatten Schweißperlen auf der Stirn ...
+Wir hatten Schweißperlen auf der Stirn …
 
 Und von draußen donnerte jetzt der Reverend gegen
-die Tür ...
+die Tür …
 
 »Ha — was ist geschehen?! Wer schreit da?!«
 
 Ich öffnete.
 
 »Die — — die Schlange!!« kreischte die arme Wahnsinnige.
-»Oh — — sie erdrückt mich! Ah ... ich sterbe
+»Oh — — sie erdrückt mich! Ich … ich sterbe
 — — sterbe!«
 
 Und mit einem qualvollen Seufzer sank sie plötzlich in
@@ -341,9 +341,9 @@ bekam auch nach einer Weile Verbindung mit Schloß Gnir.
 Ein Diener des Lords meldete sich.
 
 »Wecken Sie sofort Seine Lordschaft und bestellen Sie,
-das Harald Harst ihn im Pfarrhause von Lammerty erwartet.
+daß Harald Harst ihn im Pfarrhause von Lammerty erwartet.
 Seine Lordschaft soll auch die beiden Londoner
-Detektivbeamten mitbringen. — Halt, noch eine Frage ...
+Detektivbeamten mitbringen. — Halt, noch eine Frage …
 Wohnt Mr. Barring zur Zeit im Schlosse? — Ja? —
 Dann soll er nichts davon erfahren, daß Seine Lordschaft
 das Schloß verläßt. Verstehen Sie: nichts! Bestellen Sie
@@ -366,26 +366,26 @@ genau so verstört wie wir.
 Stimme. »Mr. Harst, ich habe sie ja getraut, die
 hübsche Maria Everson und den stattlichen Gould, der nachher
 von der Klippe stürzte. Sie waren erst zwei Jahre verheiratet.
-Maria Everson war vorher Kinoschauspielerin ...«
+Maria Everson war vorher Kinoschauspielerin …«
 
 »Ah!« machte Harst. »Daher — — daher!!«
 
 Der Reverend warf ihm einen fragenden Blick zu.
 
-»Frau Gould war in Melbourne, Ehrwürden«, erklärte
+»Frau Gould war in Melbourne, Ehrwürden,« erklärte
 Harald. »Und zwar in verschiedenen Masken, so
 auch als Professor Tougreeve.«
 
 »Nicht möglich!«
 
 »Sie war ja Filmschauspielerin, verstand mit Perücken,
-Schminken und so weiter umzugehen ...«
+Schminken und so weiter umzugehen …«
 
 »Allerdings — allerdings. Sie stellte im Film vielfach
 Hochstaplerinnen in Männerkleidung dar. — Doch —
-was bedeutet dies alles? Wer ist Mistreß Gould ...«
+was bedeutet dies alles? Wer ist Mistreß Gould …«
 
-»Später, Ehrwürden ... Wenn der Lord ein Auto
+»Später, Ehrwürden … Wenn der Lord ein Auto
 benutzt, kann er in zehn Minuten hier sein. — Hat er ein
 Auto?«
 
@@ -397,7 +397,7 @@ Auto?«
 in Monte Carlo. Als er Lord Gnirable wurde, als sein
 <@pagebreak/>
 Vater gestorben war, übernahm er nichts als Schulden.
-Dann ... Aber das interessiert Sie kaum?«
+Dann … Aber das interessiert Sie kaum?«
 
 »Nicht sehr, Ehrwürden. — Etwas anderes. Gibt es
 hier in der Nähe eine Höhle, die Tokkara heißt?«
@@ -422,20 +422,20 @@ als Junge bin ich nicht dort unten gewesen, Mr. Harst.«
 
 Der Reverend wandte den Kopf. »James, Du vergißt,
 was Du mir letztens erzählt hast,« sagte er gütig. »Besinne
-Dich — von den drei Rauchsäulen, die Du ...«
+Dich — von den drei Rauchsäulen, die Du …«
 
-»Aber Ehrwürden«, platzte der Diener heraus, »das
+»Aber Ehrwürden,« platzte der Diener heraus, »das
 — das ist doch nur ganz nebensächlich, denke ich.«
 
 »Nun, so sehr nebensächlich kam mir das doch nicht
-vor, lieber James«, erklärte der Pfarrer. »Teile mal Mr.
+vor, lieber James,« erklärte der Pfarrer. »Teile mal Mr.
 Harst Deine Beobachtungen mit.«
 
-»Was gibt’s da viel zu berichten«, brummte der Alte
+»Was gibt’s da viel zu berichten,« brummte der Alte
 widerwillig. »Wenn ich mir recht überlege: ich habe da
 aus einer Mücke einen Elefanten gemacht!«
 
-»Oho«, meinte der Reverend. »Plötzlich so anders
+»Oho,« meinte der Reverend. »Plötzlich so anders
 gesonnen, James?! Deutetest Du mir damals vor etlichen
 <@pagebreak/>
 Wochen nicht an, daß es mit den drei Rauchsäulen was
@@ -467,7 +467,7 @@ an der Zugglocke der Gartentür gerissen wurde.
 
 »Der Lord!« rief der Reverend.
 
-»Ja«, nickte Harald. »Ich hörte das Auto trotz der
+»Ja,« nickte Harald. »Ich hörte das Auto trotz der
 Sturmstöße. Gehen wir in Ihr Studierzimmer, Ehrwürden.«
 
 <@pagebreak/>
@@ -509,7 +509,7 @@ Mr. Barring nicht erfahren, daß ich hierher gebeten
 wurde?! Überhaupt — weshalb sind Sie beide hier bei
 dem Reverend abgestiegen?!«
 
-»Ich soll den dreifachen Mord aufklären, Mylord«, entwickelte
+»Ich soll den dreifachen Mord aufklären, Mylord,« erwiderte
 Harst kühl. »Meine Detektivarbeit erfordert volle
 Handlungsfreiheit. Ich bin kein Spitzel, Mylord, der
 Material für Ehescheidungsklagen sammelt. Ihre dreitausend
@@ -526,7 +526,7 @@ ist’s mit Lionel Barring?«
 »Er wohnt jetzt im Schloß, Mylord. Wann ging er
 heute zu Bett?«
 
-»Heute ...? — Hm — wir saßen bis etwa Mitternacht
+»Heute …? — Hm — wir saßen bis etwa Mitternacht
 in der Bibliothek und prüften Rechnungen. Dann
 verabschiedete Barring sich.«
 
@@ -541,20 +541,20 @@ Doktor Lorms Geständnis zu erwähnen.
 
 Lord Gnirable schüttelte immer wieder den Kopf.
 
-»An ihren Angaben ist gar nicht zu zweifeln«, meinte
+»An Ihren Angaben ist gar nicht zu zweifeln,« meinte
 er darauf. »Und trotzdem klingt das alles wie ein Kapitel
 aus einem Schauerroman: ein Beutel Nüsse, Juwelen,
 Diebstahl, ein Mann, der sich rühmt, an mehreren Orten
 gleichzeitig weilen zu können, eine arme Irrsinnige, drei
 <@pagebreak/>
-Maskierte ... — was sagen Sie dazu, Inspektor?«
+Maskierte … — was sagen *Sie* dazu, Inspektor?«
 fragte er Groubby.
 
 Der zuckte die Achseln. Sein listiges Fuchsgesicht
-blieb undurchdringlich. — »Mister Barring ist ein Ehrenmann«,
+blieb undurchdringlich. — »Mister Barring ist ein Ehrenmann,«
 meinte er.
 
-»Den wir sofort herbeirufen werden«, fügte Gnirable
+»Den wir sofort herbeirufen werden,« fügte Gnirable
 hinzu. »Ich werde telephonieren.«
 
 Er tat’s. Da das Fremdenzimmer Barrings ebenfalls
@@ -599,7 +599,7 @@ Inspektor?! Es waren harmlose, pflichttreue Männer.«
 gesehen?« fragte Harald jetzt, indem er sein Zigarettenetui
 hervorzog.
 
-»Gegen 10 Uhr«, erwiderte der Detektivinspektor.
+»Gegen 10 Uhr,« erwiderte der Detektivinspektor.
 »Ein Kaufmann aus Lammerty traf sie unweit der Felsenhügel
 auf dem Moor. Sie schienen nur spazieren zu
 gehen, rauchten und unterhielten sich lebhaft.« —
@@ -617,29 +617,29 @@ Dennoch hörten wir alle, da wir jetzt in einem der
 Vorderzimmer saßen, das rasch sich nähernde Geräusch
 eines Autos. Es hielt vor dem Hause.
 
-»Wie, schon Barring?!« rief der Lord. »Das ist ja ...«
+»Wie, schon Barring?!« rief der Lord. »Das ist ja …«
 
 Er brach mitten im Satze ab.
 
 Das Auto fuhr weiter. Das Rattern des Motors
 ging im Heulen der Windsbraut unter.
 
-»Seltsam«, murmelte Gnirable.
+»Seltsam,« murmelte Gnirable.
 
-Harst winkte mir. »Wir sind sofort wieder da«, sagt
+Harst winkte mir. »Wir sind sofort wieder da,« sagt
 er zu den übrigen Herren.
 
 Wir gingen über den Flur in sein Zimmer.
 
 Der Diwan war leer. Maria Gould fehlte.
 
-»Man hat sie also wieder entführt«, meinte Harald.
+»Man hat sie also wieder entführt,« meinte Harald.
 <@pagebreak/>
 »Ich dachte mir so etwas. Es wird Barring gewesen sein.«
 
 Er bückte sich, zeigte auf das eine Kissen des Diwans,
 wo noch der Eindruck des Kopfes der armen Frau sichtbar
-war. In dieser Einbeulung des Kissens lag ... eine der
+war. In dieser Einbeulung des Kissens lag … eine der
 Söderholm-Perlen.
 
 Harst seufzte und blickte mich an. »Barring!! Wer
@@ -652,7 +652,7 @@ Aufregung hervorrief.
 
 Lord Gnirable wollte durchaus festgestellt haben, wie
 die Entführer ins Haus gelangt waren. Wir alle schritten
-zur Hintertür, die auf den Hof mündete. Sie war ... weit
+zur Hintertür, die auf den Hof mündete. Sie war … weit
 offen.
 
 James fanden wir nebenan in der Küche am Tisch
@@ -675,14 +675,14 @@ ich auf die Tür schaute, durch die er eintreten mußte.
 
 James riß die Tür auf, meldete:
 
-»Mister Barring ...« —
+»Mister Barring …« —
 
-Barring ... Lionel Barring ...!
+Barring … Lionel Barring …!
 
 <@pagebreak/>
-Phantom ...!
+Phantom …!
 
-Rätselwesen ...!
+Rätselwesen …!
 
 Barring — genau derselbe Barring wie die beiden
 anderen — genau: Pelzmantel, Velourshut, Krawatte,
@@ -718,9 +718,9 @@ Harald nickte. »Gut, Mr. Barring. Ich werde Sie
 nicht vergessen. — Haben Sie Brüder?«
 
 »Nein, nur eine Schwester. — Sie meinen, es könnten
-Zwillingsbruder von mir sein?!«
+Zwillingsbrüder<@refnote/> von mir sein?!«
 
-»Möglich ist alles, Mr. Barring: — Wir können nun
+»Möglich ist alles, Mr. Barring. — Wir können nun
 also wieder an unsere Nachtruhe denken, meine Herren. Ich
 werde morgen oder besser heute mittag nach Schloß Gnir
 kommen, Mylord.«
@@ -734,12 +734,12 @@ Das Schrillen des Telephons störte diesen Aufbruch.
 — Der Reverend meldete sich, sagte dann zu Harald: »Sie
 werden gewünscht.«
 
-Harst rief seinen Namen in die Muschel ...
+Harst rief seinen Namen in die Muschel …
 
-»Ah — Mister Barring ... Wie meinen Sie? — So,
-danke ...« — Und er legte den Hörer weg.
+»Ah — Mister Barring … Wie meinen Sie? — So,
+danke …« — Und er legte den Hörer weg.
 
-»Mylord«, erklärte er, »Lionel Barring hat Frau
+»Mylord,« erklärte er, »Lionel Barring hat Frau
 Gould in die Nervenheilanstalt des Doktors Mainargar
 gebracht. Dies wollte er mir mitteilen. Weiter nichts.«
 
@@ -750,7 +750,7 @@ Mißbrauch meines Namens.«
 
 Harst sagte langsam: »Das ist weit mehr, Mr. Barring.
 Das ist ein Kampf gegen Gespenster. Aber — ich
-nehme diesen Kampf auf! — Gute Nacht ...« Er verbeugte
+nehme diesen Kampf auf! — Gute Nacht …« Er verbeugte
 sich. Wir gingen in unsere Zimmer hinüber.
 
 <@pagebreak/>
@@ -764,7 +764,7 @@ Hier warf Harald sich erschöpft in den Lehnsessel.
 Ich setzte mich ihm gegenüber. »Was nun?!« fragte
 ich. »Was wirst Du beginnen?«
 
-»Warte ...!« — Er stand auf und trat halb in den
+»Warte …!« — Er stand auf und trat halb in den
 Flur.
 
 »Ehrwürden — einen Augenblick!« rief er.
@@ -782,7 +782,7 @@ entlang nach Süden.«
 
 »Danke. — Könnten wir einen Imbiß mitnehmen?«
 
-»Aber — aber Sie wollen doch nicht etwa ...«
+»Aber — aber Sie wollen doch nicht etwa …«
 
 »Ich muß, Ehrwürden.« —
 
@@ -799,7 +799,7 @@ Barring, den echten Barring, der ja fraglos harmlos, ein
 Ehrenmann war.
 
 Sprachen über die unechten Barrings, über Maria
-Gould, über die »große Null« mit ihren Dreimänner-Sektionen ...
+Gould, über die »große Null« mit ihren Dreimänner-Sektionen …
 
 Hatten in den rechten Außentaschen der Mäntel die
 gespannten und gesicherten Clementpistolen.
@@ -809,7 +809,7 @@ Kriegspfade — die Augen überall — stets lauschend —
 alle Sinne anstrengend.
 
 Keinem Menschen begegneten wir. Nur ein Hund
-trabte an uns vorbei, knurrte ...
+trabte an uns vorbei, knurrte …
 
 Nach einer Viertelstunde ging’s in einen langen,
 tiefen Hohlweg hinab. Hier verstummte der Sturm plötzlich.
@@ -824,7 +824,7 @@ verbreiterte sich immer mehr.
 Und da — blieb Harald mit einem Male stehen, legte
 mir die Hand auf den Arm.
 
-»Sieh«, sagte er nur.
+»Sieh,« sagte er nur.
 
 Ich folgte der Richtung seiner Blicke. Wir standen
 noch hoch genug, um über die Wände des Hohlweges hinabschauen
@@ -836,38 +836,38 @@ drei Rauchsäulen. Ich sah, daß sie nicht die gleiche Farbe
 hatten. Die mittlere war die schwärzeste.
 
 <@pagebreak/>
-»Rauchpatronen«, erklärte Harald. »Also Signale!
+»Rauchpatronen,« erklärte Harald. »Also Signale!
 Das — — behagt mir nicht!«
 
 Die Qualmfäden drüben schossen tatsächlich wie Fontänen
 empor. Niemals rührten sie von einem Feuer her.
 
-Plötzlich krallte sich Harst’s Hand um meinen Arm
-zusammen ...
+Plötzlich krallte sich Harsts Hand um meinen Arm
+zusammen …
 
-»Hörst Du ...? Ein ... Auto,« flüsterte er. »Hinter
+»Hörst Du …? Ein … Auto,« flüsterte er. »Hinter
 uns. Noch nicht zu erkennen, da es ohne Laternen und
-Scheinwerfer fährt. Ich denke, wir ... drücken uns!«
+Scheinwerfer fährt. Ich denke, wir … drücken uns!«
 
 Er zog mich rasch seitwärts hinter ein Gestrüpp. Hier
 duckten wir uns zusammen — ganz klein, nahmen die Mehrlader
-hervor ...
+hervor …
 
 Eine Möwe kreischte irgendwo in der Luft.
 
-»Ein ... Mensch, ein neues Signal«, erklärte Harst,
+»Ein … Mensch, ein neues Signal,« erklärte Harst,
 und ich merkte, daß seine Stimme leicht schwankte.
 
-Die Möwenschreie wiederholten sich ...
+Die Möwenschreie wiederholten sich …
 
-Hier — — dort — — immer aufs neue ...
+Hier — — dort — — immer aufs neue …
 
 »Eingekreist!« flüsterte der Freund neben mir. »Richtig
-eingekreist! Die ... große Null veranstaltet ein Kesseltreiben
+eingekreist! Die … große Null veranstaltet ein Kesseltreiben
 auf uns! — Ah — — das Auto!«
 
 Rechts blitzten die strahlenden Streifen von
-Scheinwerfern — nahten rasch ...
+Scheinwerfern — nahten rasch …
 
 Harald warf sich lang hin. »Kriechen!« befahl er.
 »Bleib’ hinter mir!«
@@ -887,11 +887,11 @@ seine Beine.
 <@pagebreak/>
 Dann — aus dem Gestrüpp ein dumpfer Schlag.
 
-Harsts Beine zuckten wie im Krampf ...
+Harsts Beine zuckten wie im Krampf …
 
-Und plötzlich lagen zwei ... drei Kerle auf meinem
-Rücken. Eine Hand suchte meine Kehle. Aber ... ich
-schoß... schoß blindlings mit zurückgebogenem Arm ...
+Und plötzlich lagen zwei … drei Kerle auf meinem
+Rücken. Eine Hand suchte meine Kehle. Aber … ich
+schoß … schoß blindlings mit zurückgebogenem Arm …
 
 Bis ich einen Hieb auf den Hinterkopf erhielt und bewußtlos
 alles über mich ergehen lassen mußte.
@@ -902,7 +902,7 @@ Klang weiterer Schüsse, die nicht aus meiner Clement
 kamen. — —
 
 Und ich tappte mich schwerfällig wieder ins Bewußtsein
-zurück — ganz allmählich ...
+zurück — ganz allmählich …
 
 Hörte, daß eine bekannte Stimme sagte:
 
@@ -913,13 +913,13 @@ Die drei Kerle sind mausetot.«
 Mr. Alverson — bestimmt! — Ah — Harst kommt
 wieder zu sich.«
 
-Alverson ... Alverson?! Wer war das doch — wer?!
+Alverson … Alverson?! Wer war das doch — wer?!
 — Ich strengte mein wirres Hirn an. Dann die Erleuchtung,
-dann ein Ruck ...
+dann ein Ruck …
 
-Ich saß aufrecht da, hatte die Augen offen ...
+Ich saß aufrecht da, hatte die Augen offen …
 
-In einer jener aus Torfstücken aufgeführten Schäferhütten
+In einer jener aus Torfstücken ausgeführten<@refnote/> Schäferhütten
 befand ich mich, wie man sie noch heute hier und
 da auf den schottischen Hochmooren antrifft. — Ein kleines
 Holzfeuer brannte. Eine Laterne hing an der Wand mir
@@ -928,8 +928,7 @@ gegenüber.
 Albert Ernest Alverson, der Freund und Kollege aus
 London, der uns an den Reverend empfohlen hatte, saß
 neben mir, stützte mich. Und Harald wieder hatte eine
-zartere Stütze ... — Ja — ich traute meinen Augen nicht:
-
+zartere Stütze … — Ja — ich traute meinen Augen nicht:
 <@pagebreak/>
 Maria Gould war’s — Maria Gould in einem Sportanzug
 mit Kniehosen! Neben ihr lag ein kurzer Pelzmantel.
@@ -946,7 +945,7 @@ Gould zu verdanken.«
 nun Sie, lieber Schraut. — Boys, Boys, ich sag’ Euch, ein
 blutiger Strauß mit den zehn Schuften war’s. Die Bande
 hatte Euch schön eingekesselt. Wenn Mistreß Gould nicht
-durch die drei Rauchsäulen ...«
+durch die drei Rauchsäulen …«
 
 »Halt — erzählen Sie im Zusammenhang, Alverson.
 Oder besser, Frau Gould, — tun Sie es!«
@@ -973,13 +972,13 @@ entdeckte, daß einer der falschen Barrings, der unechten, der
 zweite Kammerdiener Lord Gnirables war, ein Mann
 namens Edward Tesgore. Und dieser Tesgore reiste dann
 kurz nach der Ermordung der drei anderen Opfer der
-Euston-Klippe nach ... Australien. Ich wußte längst durch
+Euston-Klippe nach … Australien. Ich wußte längst durch
 Mr. Alverson, daß Sie beide ebenfalls in Australien waren.
-So ... begleitete ich denn insgeheim diesen Tesgore bis
+So … begleitete ich denn insgeheim diesen Tesgore bis
 Melbourne. Was sich dort zutrug, ist Ihnen bekannt. Ich
 hatte erst die Absicht, mich Ihnen zu offenbaren, Mr. Harst.
 Aber Sie wurden so scharf beobachtet, daß ich mich darauf
-beschränkte ...«
+beschränkte …«
 
 »Weiter — und nach der Rückkehr nach England, Frau
 Gould?«
@@ -990,14 +989,14 @@ verfrachteten und mit mir davonfuhren. Sie hatten mich
 chloroformiert, diese Schurken, und als ich zu mir kam, lag
 ich in einer sehr heißen Höhle, während neben mir eine
 Lampe brannte. Ich war gefesselt. Stellen Sie sich mein
-Entsetzen vor, als plötzlich eine große Schlange ...«
+Entsetzen vor, als plötzlich eine große Schlange …«
 
 »Wie entkamen Sie?« warf Harald wieder ein.
 
 »Ich entkam nicht. Die Schurken verscheuchten das
 Reptil, ließen mich Äther einatmen, und — ich erwachte
 auf dem Diwan in ihrem Zimmer, Mr. Harst. Ich erkannte
-Sie leider nicht, spielte die Wahnsinnige und ...«
+Sie leider nicht, spielte die Wahnsinnige und …«
 
 »Wohin brachten die Verbrecher Sie dann?«
 
@@ -1005,7 +1004,7 @@ Sie leider nicht, spielte die Wahnsinnige und ...«
 für wahnsinnig. Einer der unechten Barrings übergab
 mich dem Anstaltsleiter. Aber der Arzt hat dann nachher
 Mr. Alverson, der mich holen kam, geglaubt, daß ich
-nur ...«
+nur …«
 
 »Sie waren also ohne Frage im selben Zuge mit mir
 <@pagebreak/>
@@ -1070,33 +1069,33 @@ wer der wahre Anführer der Verbrecherbande
 sein könnte. — Kaum war der Lord hinausgegangen, als
 ich mich über den Tisch beugte.
 
-»Harald, eine Frage ...,« bat ich. — Merkwürdig —
+»Harald, eine Frage …« bat ich. — Merkwürdig —
 <@pagebreak/>
 wie bleischwer mir plötzlich die Zunge im Munde lag! Und
 — wie müde ich wurde! Wie müde! Wie undeutlich ich
 nur noch Harst erkannte — wie durch Schleier hindurch.
 
 »Der Kaffee — — der Mokka — — Schlaftrunk!!«
-schoß es mir durch das träge Hirn ...
+schoß es mir durch das träge Hirn …
 
 Und gewaltsam die Augen aufreißend sah ich nun,
-weshalb Harald nicht antwortete: er ... schlief bereits in
+weshalb Harald nicht antwortete: er … schlief bereits in
 dem tiefen Klubsessel!
 
-Taumelnd stand ich auf ... — Ich wollte hinaus,
+Taumelnd stand ich auf … — Ich wollte hinaus,
 wollte Hilfe herbeirufen. Und — mir gegenüber erschien
 da wie aus der getäfelten Wand heraussteigend einer der
-... Barrings: im Pelzmantel, ohne Hut, mit Handschuhen.
+… Barrings: im Pelzmantel, ohne Hut, mit Handschuhen.
 
 Die schleimige heisere Stimme höhnte sofort: »Bemühen
-Sie sich nicht, Mr. Schraut ...« — und im selben
+Sie sich nicht, Mr. Schraut …« — Und im selben
 Moment packte mich ein Schwindel. Ich fühlte, daß ich
 zusammensank. —
 
 Stunden waren verflossen. Da kam ich zu mir. Da
 war ich neben Harald an die Platte eines dicht vor dem
 geheizten Kamin umgekippten Tisches sitzend festgebunden.
-Da stand uns schräg gegenüber an der Wand ... Lionel
+Da stand uns schräg gegenüber an der Wand … Lionel
 Barring im Frack, elegant, vornehm, — aber ein Satanslächeln
 um die Lippen. — Auch Harst war bei Besinnung.
 Und er war’s, der jetzt zu dem Verbrecher sagte:
@@ -1120,7 +1119,7 @@ Hand hatten — auch im Handschuh. Dieselbe Hand fand
 ich bei Lord Gnirable vor, als ich ihn dann im Studierzimmer
 kennen lernte. Andere Umstände, Kleinigkeiten,
 ließen den Verdacht zur Gewißheit werden. — Nun frage
-ich Sie: weshalb schickten Sie ihren Diener nach Melbourne
+ich Sie: weshalb schickten Sie Ihren Diener nach Melbourne
 und mir die Depesche und das Geld?«
 
 »Weil es aufgefallen wäre, wenn ich nicht alles getan
@@ -1141,14 +1140,14 @@ echte Barring sich gestern nacht täuschen lassen. Ich hatte
 die Uhren hier, auch die seine, um eine halbe Stunde vorgestellt.
 Um halb zwölf trennten wir uns, nicht um zwölf!«
 
-»Ein abgenutzter Trick«, sagte Harald kühl. »Ich
+»Ein abgenutzter Trick,« sagte Harald kühl. »Ich
 würde Ihnen raten, einmal zum Fenster hinauszuschauen.
 Die drei Rauchsäulen, die ich bestellt habe, steigen jetzt
-hoch ...«
+hoch …«
 
 Gnirable fuhr zusammen.
 
-»Sie denken wohl«, sprach Harst weiter, »daß wir
+»Sie denken wohl,« sprach Harst weiter, »daß wir
 nichts von der großen Null wissen! Sie irren sich! Ich
 <@pagebreak/>
 habe in der Melbourne-Times eine genaue Zusammenstellung
@@ -1161,9 +1160,9 @@ Mörder! Versuchen Sie es!«
 Der Lord sprang zu, riß die Feuerbrände auseinander,
 warf sie in den Kamin, trat die Glut des schwelenden
 Teppichs aus. Dann verschwand er wortlos. — Wir
-hörten hinter uns das Zufallen einer Tür. Nun Stille ...
+hörten hinter uns das Zufallen einer Tür. Nun Stille …
 zehn Minuten lang. Bis Maria Gould, Groubby und
-Scheffer lärmend eindrangen, Revolver in den Händen ...
+Scheffer lärmend eindrangen, Revolver in den Händen …
 
 »Gott sei Dank — Sie leben!« rief Frau Gould
 strahlend. »Denken Sie, wir haben Barring abgefaßt, als
@@ -1174,13 +1173,13 @@ Schurke ist!« meinte er. —
 
 Leider — er war’s nicht. Gnirable war entkommen.
 — Abends zehn Uhr wurden in den Tokkara-Höhlen zwölf
-Männer verhaftet, also vier Sektionen der »großen Null«,
+Männer verhaftet, also vier Sektionen der »großen Null,«
 — leider nur zwölf! Denn daß der unheimliche Bund noch
 mehr Mitglieder zählte, merkten wir sehr bald. Der Kampf
 gegen das Phantom Lionel Barring ging ja weiter und
 brachte noch übergenug Überraschungen.
 
-Nächster Band:
+<#import "*/harst.ftl" as harst>
 
-__Das Geheimnis der Tokkara-Höhlen.__
+<@harst.naechsterband band="Das Geheimnis der Tokkara-Höhlen."/>
 
