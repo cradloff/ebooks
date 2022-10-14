@@ -22,13 +22,13 @@ Arme hochzurecken.
 
 Harst erklärte darauf etwas ungeduldig: »Begreifen
 Sie doch, daß wir es nur gut mit Ihnen meinen. Wir
-sind weder...«
+sind weder …«
 
 Ein Schuß zerriß den Satz. Die Kugel ging zwischen
 Haralds und meinem Kopf hindurch, schlug in die Wand
-ein...
+ein …
 
-»Alle Wetter!« rief Charley Goddlepy abermals und
+»Alle Wetter!« rief Charles<@refnote 2/> Goddlepy abermals und
 beeilte sich, seine Greifwerkzeuge nach oben zu heben.
 
 Auch Harst sagte: »Gut — wenn’s denn schon sein
@@ -45,7 +45,7 @@ stählerne Armbänder.
 Die beiden Fremden setzten sich uns gegenüber auf
 einen Sandsack. Sie hatten eine große Karbidlaterne bei
 sich, die der eine anzündete und seitwärts an die Wand
-hing. Bei dieser Beleuchtung konnten wir unsere noch
+hing. Bei dieser Beleuchtung konnten wir unsere noch immer
 reichlich geheimnisvollen Überwinder bequem betrachten.
 
 Beide trugen Vollbärte, die jedoch noch nicht lange
@@ -62,7 +62,7 @@ wegnehmen müssen,« begann derselbe, der vorhin das
 
 »Bitte,« erwiderte Harald ebenso höflich. »Sie haben
 ja auch so ziemlich einen Tag gefastet, nachdem Sie bei
-Ihrer Arbeit unten im Kielraum überrascht wurden. — Ich
+Ihrer Arbeit unten im Kielraum überrascht wurden, — ich
 meine, bei dem Versuch, die namenlose Jacht durch Einschlagen
 von Löchern zu versenken.«
 
@@ -73,7 +73,7 @@ Der »Sprecher« entgegnete dann: »Sie irren, Mr.
 Harst. Wir sind wie Sie durch einen Zufall auf die Jacht
 geraten.«
 
-»So?! Und weshalb zeigen Sie ich dann so gewalttätig
+»So?! Und weshalb zeigen Sie sich dann so gewalttätig
 uns gegenüber?! Wer sind Sie beide denn?«
 
 »Schiffbrüchige. Im übrigen sind wir nicht verpflichtet,
@@ -83,7 +83,7 @@ Ihnen Auskunft zu geben, Mr. Harst.«
 <@pagebreak/>
 Sicherheit Ihrer Gefährten leichtfertig umgehen wollen.
 Ich sagte schon vorhin, daß diese Ihre Sicherheit auf der
-einsamen Insel schwer bedroht ist. Eine Bande von Verbrechern...«
+einsamen Insel schwer bedroht ist. Eine Bande von Verbrechern …«
 
 »Lassen Sie das. Das alles ist uns gleichgültig. Wir
 kennen weder eine einsame Insel, noch haben wir von Verbrechern
@@ -94,7 +94,7 @@ Harsts durchdringenden Blick kennt, weiß genau, daß nur
 ganz abgefeimte Heuchler unter diesem Blick nicht erröten
 oder doch wenigstens verlegen werden.
 
-»Ihre Antwort,« sagte Harst sorgsam, »beweist mir,
+»Ihre Antwort,« sagte Harst langsam, »beweist mir,
 daß folgendes bei der Insel sich ereignet hat. Sie beide
 und drei andere Männer sollten diese Jacht außerhalb der
 Gewässer der Insel versenken. Sie haben die Jacht mit
@@ -108,7 +108,7 @@ Boote nach der Insel zurück, während Sie beide hier an
 Bord blieben, um die andere Jacht zu beobachten.«
 
 Man brauchte wirklich nicht Detektiv zu sein, um aus
-den Gesichtern unserer langbärtiger Überwinder mit aller
+den Gesichtern unserer krausbärtigen Überwinder mit aller
 Gewißheit herauslesen zu können, daß Haralds scharfsinnige
 Schlußfolgerungen mit den Tatsachen sich deckten.
 
@@ -130,13 +130,13 @@ Jacht, auf der sich übles Gesindel befindet, deshalb nicht
 fürchten, weil Ihr und Ihrer Schicksalsgefährten Schlupfwinkel,
 eben die Insel, so gut gesichert ist, daß Sie alle sich
 genügend geschützt glauben. Das kann täuschen, Mister,
-sogar sehr täuschen. Auf jener fremden Jacht sind... entsprungene
+sogar sehr täuschen. Auf jener fremden Jacht sind … entsprungene
 Sträflinge aus Neu-Kaledonien!«
 
 Diese letzten Worte brachten eine überraschende Wirkung
 hervor.
 
-Die beiden Geheimnisvollen schauten sich an. In Ihren
+Die beiden Geheimnisvollen schauten sich an. In ihren
 Augen schimmerten Angst, Unruhe und bange Fragen.
 
 Wieder war es der Sprecher, der sich leidlich als Herr
@@ -144,7 +144,7 @@ der Situation zeigte.
 
 »Ich wiederhole, Mr. Harst: all das läßt uns kalt! —
 Wir werden Sie drei nun in die Geheimkammer einsperren.
-Es muß sein...«
+Es muß sein …«
 
 »Weil Sie wissen, daß diese Jacht von Ihren Freunden
 gesucht wird und daß sehr bald ein Motorboot oder dergleichen
@@ -171,7 +171,7 @@ beiden Fremden in das unsichtbare Schnappschloß gedrückt.
 
 Im Finstern saßen wir und flüsterten miteinander.
 <@pagebreak/>
-Charley Goddlepy hatte die Unterhaltung mit einer ehrlich
+Charles Goddlepy hatte die Unterhaltung mit einer ehrlich
 gemeinten Schmeichelei für Harald eingeleitet.
 
 »Sie sind wirklich ein Teufelskerl, Harst, ein Genie!
@@ -190,7 +190,7 @@ nicht total versagt.«
 Melbourner überstürzt.
 
 »Ich meine, daß die Lichtsignale der beiden Geheimnisvollen
-vielleicht auch von... der Australia bemerkt worden
+vielleicht auch von … der Australia bemerkt worden
 sind, eben von Helen Jones und ihrer Garde, und daß
 daher weit eher anzunehmen ist, diese Zufallspiraten »Helen
 Jones und Kompagnie« erscheinen auf diesem Fahrzeug —
@@ -200,7 +200,7 @@ dasaßen, ein Geräusch an der Bordwand gehört haben,
 als ob ein Boot vorsichtig daran entlangschrammte. Dieses
 vorsichtige Anlegen hätten die Freunde der beiden Geheimnisvollen
 sich wahrscheinlich erspart.  Nur — — Feinde
-nahen so behutsam. Und deshalb...«
+nahen so behutsam. Und deshalb …«
 
 <@pagebreak/>
 
@@ -217,13 +217,13 @@ Nur die Wogen klatschten gegen die Außenplanken,
 und nur ein paar Ratten zernagten irgendwo in der Nähe
 ein Brett oder einen Balken.
 
-Dann irgendwoher ein Ruf — — ein Zuruf...
+Dann irgendwoher ein Ruf — — ein Zuruf …
 
 Wir horchten auf.
 
 »Verdammt — Helen Jones!!« keuchte Goddlepy erregt.
 »Sie haben wieder einmal recht gehabt, Harst. Die
-Banditen sind...«
+Banditen sind …«
 
 Dumpfe dröhnende Schläge schallten aus der Tiefe des
 Schiffes herauf.
@@ -241,14 +241,14 @@ Ich bekam das Messer zu fassen. Sehr bald hatte
 Harst dann meine Lederriemen trotz ihrer Drahtgeflechteinlage
 durchtrennt. Fünf Minuten später hatten wir bereits
 jeder ein Stück Büchsenfleisch und ein paar Zwiebacke
-in Arbeit. Harald wünschte, daß wir Vorrat aßen.
+in Arbeit. Harald wünschte, daß wir Vorrat äßen.
 
 Noch immer kamen die dumpfen Schläge von unten
 herauf. Bis — — Stille eintrat. Bis wir dann, nachdem
 Harald die Tür geöffnet hatte, in die Finsternis des Ganges
 hinaushuschten und vorsichtig an Deck schlichen.
 
-Wir... kamen zu spät. Ein Ruderboot stieß gerade
+Wir … kamen zu spät. Ein Ruderboot stieß gerade
 von der Backbordseite ab. Wir ließen uns nicht sehen. Im
 Moment war das Boot außerdem in den grauen Nebelmassen
 verschwunden.
@@ -268,7 +268,7 @@ wir uns, die Lukenöffnung nach dem Kielraum abzudichten.
 Dann wird die Jacht sich noch tagelang über Wasser halten.«
 
 Ich hatte mich zufällig nach links gedreht. Ein Windstoß
-setzte das Deck von Nebelschwaden frei. Und — so
+fegte das Deck von Nebelschwaden frei. Und — so
 sah ich als erster, daß da vorn am Mast zwei Gestalten
 standen — zwei reglose Gestalten — an demselben Mast,
 an dem der Mann mit der Muscheldose erschossen worden
@@ -276,7 +276,7 @@ war.
 
 Sofort dachte ich an die beiden Geheimnisvollen.
 
-Ich lief dorthin — war nun dicht vor Ihnen.
+Ich lief dorthin — war nun dicht vor ihnen.
 
 Sie waren’s. Aber — sie waren’s auch nicht. Leichenfahle
 Gesichter mit verdrehten Augen leuchteten durch die
@@ -288,12 +288,12 @@ wir sie losgebunden und in die Heckkajüte getragen hatten.
 
 Harst riß ihnen die Knebel zwischen den Zähnen hervor.
 <@pagebreak/>
-Goddlepy fluchte und flößte Ihnen Kognak ein. Der
+Goddlepy fluchte und flößte ihnen Kognak ein. Der
 Sprecher erwachte zuerst, stierte um sich, lallte:
 
-»Ah — wir... wir hatten auf Sie gehofft, Mr.
-Harst. Wir... wir wurden von den Schurken mit Riemen
-geschlagen, damit wir... etwas verraten sollten.«
+»Ah — wir … wir hatten auf Sie gehofft, Mr.
+Harst. Wir … wir wurden von den Schurken mit Riemen
+geschlagen, damit wir … etwas verraten sollten.«
 
 Er schloß die Augen wieder. —
 
@@ -392,7 +392,7 @@ Der Mann schwieg.
 »Sie dürfen nichts verraten. Das weiß ich,« fuhr
 Harald daher fort. »Und doch kenne ich Ihr und Ihrer
 Freunde Geheimnis, dessen Ursprung ein Jahr zurückliegt.
-Ich nenne nur den Namen... Destorbier!«
+Ich nenne nur den Namen … Destorbier!«
 
 Der Sprecher zuckte merklich zusammen. Trotzdem
 blieb er stumm.
@@ -406,10 +406,10 @@ Australia und bedroht das Geheimnis der Insel! Mann,
 nehmen Sie doch Vernunft an!«
 
 Der Sprecher lachte schrill. »Und wenn ein Dutzend
-Piratenjachten hier...«
+Piratenjachten hier …«
 
 Da fiel ihm wohl ein, daß er sich fast verraten hätte,
-unterbrach sich...
+unterbrach sich …
 
 »Nochmals, Mr. Harst: ich warne Sie!« Und er
 machte kehrt und verschwand wieder in der Kajüte.
@@ -430,21 +430,21 @@ Das Wasser ringsum wurde ruhiger und ruhiger.
 Aber auch der Wind flaute ab, wurde von der Insel abgefangen,
 so daß unsere ausgeräumte Jacht langsam wie
 <@pagebreak/>
-eine Schnecke dahinschlich und schließlich... dem Steuer
+eine Schnecke dahinschlich und schließlich … dem Steuer
 nicht mehr gehorchte. Aber — wir waren in der Bucht!
 Und die Strömung drückte uns allgemach an die Ostseite
 des Buchtgestades in einen tiefen Winkel hinein, wo wir
 dann unser Schifflein an ein paar Felsen mit Stricken vertäuten,
 die wir flink aus Sackleinwand gedreht hatten.
 
-So... gelangten wir zur Insel... der Seligen...
+So … gelangten wir zur Insel … der Seligen …
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
 <h3>Ein vornehmes Gefängnis.</h3>
 
-Die Insel der Seligen...!
+Die Insel der Seligen …!
 
 Ob der Leser bereits ahnt, weshalb ich das weltferne
 Eiland so getauft habe? Ob er ebenfalls wie Harst den
@@ -456,7 +456,7 @@ nichts von Destorbier — gar nichts!
 
 Und daher will ich auch mit dem Aufschluß über diesen
 Namen so lange warten, bis die Umstände mich im Verlaufe
-dieses Abenteuers mit... Destorbier persönlich
+dieses Abenteuers mit … Destorbier persönlich
 zusammenführten. —
 
 Die namenlose Jacht war also festgemacht. Und
@@ -482,7 +482,7 @@ täten Sie?!«
 »Genau dasselbe wollte ich, lieber Goddlepy. Ein
 Floß läßt sich jedoch nicht ohne Lärm bauen. Wenn wir
 dagegen die Zinkbadewanne aus dem Waschraum der Luxuskabine
-als Boot...«
+als Boot …«
 
 »Herr Gott — ein feiner Gedanke! Los denn!«
 
@@ -492,14 +492,14 @@ beiden bin ich. Sie und Schraut können losen. Der Verlierer
 bleibt hier an Bord.« —
 
 Ich bin bei solchen Gelegenheiten stets Pechvogel.
-Ich... verlor, und Goddlepy und Harald ruderten mit
-Ihrem Patentzinknachen still in den Nebel hinaus.
+Ich … verlor, und Goddlepy und Harald ruderten mit
+ihrem Patentzinknachen still in den Nebel hinaus.
 
 So war ich denn mit den beiden Geheimnisvollen allein
 an Bord. Ich ging zunächst nach ihnen sehen. Sie schliefen,
 warfen sich aber unruhig hin und her.
 
-Ich schlenderte dann, die entsicherte Clement im der
+Ich schlenderte dann, die entsicherte Clement in der
 rechten Jackentasche, auf Deck hin und her.
 
 So eine Nebelnacht an einem unbekannten Gestade,
@@ -508,13 +508,13 @@ dazu das Bewußtsein, Gelichter schlimmster Art in
 nächster Nähe zu haben, — eine solche Nacht hat ihre eigentümlichen
 Reize.
 
-Hm — Reize! Sagen wir lieber: Schattenseiten!
+Hm — Reize?! Sagen wir lieber: Schattenseiten!
 Das ist aufrichtiger.
 
 Die himmelhohen kerzengerade emporsteigenden Ufer
 der Bucht waren oben von Möwen und anderen Seevögeln
 bevölkert, deren heisere Schreie die einzigen Laute blieben,
-die ich lange Zelt vernahm — so lange, bis...
+die ich lange Zeit vernahm — so lange, bis …
 
 Ja — bis nach Süden zu an der Steilwand plötzlich
 für Sekunden ein greller Lichtkegel aufflammte, fraglos ein
@@ -522,7 +522,7 @@ Leuchtstab oder eine kleine Taschenlampe.
 
 Und in der zurückfallenden Helle dieses weißen Kegels
 gewahrte ich einen Menschen, der dort scheinbar an der
-schroffen Wand hing — vielleicht an einem Seile...
+schroffen Wand hing — vielleicht an einem Seile …
 
 So kurz nur dauerte das Aufflammen der Lampe, daß
 <@pagebreak/>
@@ -535,32 +535,32 @@ Hierhin — dorthin schaute ich.
 Wartete, daß der Lichtkegel nochmals aufblitzte.
 
 Wurde nervös, malte mir in Gedanken allerlei üble
-Zwischenfälle aus: Daß ich überfallen werden könnte, daß
+Zwischenfälle aus: daß ich überfallen werden könnte, daß
 die Bewohner der Insel mich unschädlich machen würden —
 stumm, damit ihr Geheimnis bewahrt bliebe!
 
 Und faßte meine treue Clement fester, lehnte mich an
-die Steuerbordreling und horchte — horchte...
+die Steuerbordreling und horchte — horchte …
 
 Die Möwen kreischten. Zuweilen klang’s wie heisere
 Schreie von Menschen.
 
 Unheimlich war das alles. Das war so, als ob da
-aus den Nebelschleiern irgendwoher ein Unheil näher schlich
-— unaufhaltsam...
+aus den Nebelschleiern irgendwoher ein Unheil näherschlich
+— unaufhaltsam …
 
-Mir wurde heiß, wurde kalt...
+Mir wurde heiß, wurde kalt …
 
-Die verd... Nerven gehorchten nicht mehr. Ich begann
+Die verd… Nerven gehorchten nicht mehr. Ich begann
 Gespenster zu sehen. Glaubte da am Heck eine Gestalt
 wahrzunehmen. Eilte hin. Natürlich — — nichts!
 
 Kognak!! Alkohol!! Er mußte helfen.
 
 So ging ich leise in die Heckkajüte, schaltete meine
-Taschenlampe ein...
+Taschenlampe ein …
 
-Stutzte...
+Stutzte …
 
 Das Krankenlager — — war leer!
 
@@ -576,10 +576,10 @@ So fand alles seine einleuchtende Erklärung.
 
 Ich wollte nun wieder an Deck, wollte mir aber
 wenigstens eine Zigarette leisten, klappte unseren Koffer auf
-und suchte nach der großen Blechschachtel...
+und suchte nach der großen Blechschachtel …
 
 <@pagebreak/>
-Hatte sie schon in der Hand, als... als kräftige Fäuste
+Hatte sie schon in der Hand, als … als kräftige Fäuste
 mich packten — eine dicke wollene Decke mir über den Kopf
 flog und mir die Beine vom Boden weggerissen wurden.
 
@@ -590,8 +590,8 @@ Von den Angreifern hörte und sah ich nichts.
 
 Lautlos schritten sie über die Deckplanken. Lautlos
 wurde mir ein breiter Gurt unter den Armen festgeschnallt.
-Lautlos... glitt ich empor — — höher und höher — —
-höher und höher...
+Lautlos … glitt ich empor — — höher und höher — —
+höher und höher …
 
 Vernahm die Möwenschreie immer deutlicher. Wurde
 oben wiederum von kräftigen Armen in Empfang genommen,
@@ -608,7 +608,7 @@ mir die Handfesseln ab.
 Und nun — Stille — lähmende Stille.
 
 Ich war frei, ich konnte mir die Decke vom Kopfe ziehen.
-Ich... wagte es nicht.
+Ich … wagte es nicht.
 
 Bis — bis mir der angenehme Duft einer frisch gebackenen
 Mehlspeise in die Nase stieg. Bis unter mir der
@@ -616,15 +616,15 @@ Korbsessel behaglich knarrte.
 
 Da — riskierte ich’s.
 
-Und zog die Wolldecke herunter...
+Und zog die Wolldecke herunter …
 
-Hatte die Augen frei...
+Hatte die Augen frei …
 
 Sah mir gegenüber — jenseits eines reich gedeckten
 Tisches — Harst und den kleinen Goddlepy, die soeben
 gleichfalls ihre Kopfhüllen entfernt hatten.
 
-Wir drei stierten uns an — schauten in die Runde...
+Wir drei stierten uns an — schauten in die Runde …
 
 Ein großes Zimmer war’s. Mit einfachen, aber gefälligen
 Möbeln. Über dem Tische brannte eine Petroleumhängelampe.
@@ -643,11 +643,11 @@ Ich erstattete kurz Bericht.
 
 »Also — — Gefangene der Geheimnisvollen sind wir
 nun!« meinte Harst darauf. »Man empfängt uns glänzend.
-Es wäre schade, dieses köstlich duftende Omlette kalt werden
+Es wäre schade, dieses köstlich duftende Omelette kalt werden
 zu lassen. Langen Sie zu, Goddlepy. Sie sind der
 Älteste.«
 
-Als der Melbourner nun die Porzelanplatte aufhob
+Als der Melbourner nun die Porzellanplatte aufhob
 und sie Harald hinhielt, lag darunter ein Zettel.
 
 > »Gentlemen! Sie sollen meine Gäste sein, bis sich
@@ -705,14 +705,14 @@ Uhr nachmittag, fanden den Tisch im Nebenzimmer wieder
 mit einem delikaten Frühstück gedeckt, aßen und — bekamen
 bis zum Abend keine Menschenseele zu Gesicht.
 
-Die Person, die wir dann sahen, war...
+Die Person, die wir dann sahen, war …
 
 Doch nein. Das muß ich genauer schildern.
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
-<h3>Wo das Grammophon spielte...</h3>
+<h3>Wo das Grammophon spielte …</h3>
 
 Wir merkten schon mittags, daß wir offenbar von den
 Bewohnern der Insel niemand kennenlernen sollten. Jedenfalls
@@ -739,7 +739,7 @@ Nachmittag einmal an einem der Schränke gerüttelt hatte,
 <@pagebreak/>
 die an den Dielen befestigt waren, scharf zurechtgewiesen,
 hatte gemeint, wir müßten die Wünsche des Herrn der
-Insel unbedingt respektieren. Trotzdem war er mißmutig
+Insel unbedingt respektieren. Trotzdem war er mißmütig
 und schweigsam. Für einen Mann von seiner besonderen
 Vorliebe für alles Außergewöhnliche mußte es geradezu unerträglich
 sein, daß er das Eiland verlassen sollte, ohne sich
@@ -759,18 +759,18 @@ da, bis Harald urplötzlich leise rief:
 Wir taten’s. Wir standen nun im Halbdunkel. Harst
 hatte uns bis in den Hintergrund gedrängt. Er selbst lugte
 näher dem Eingang zu mit erhobenem Kopf zum nördlichen
-Schluchtrand empor, winkte nun...
+Schluchtrand empor, winkte nun …
 
 »Kommt — — seht! Aber Vorsicht!«
 
-Ja — wir sahen — — staunten...
+Ja — wir sahen — — staunten …
 
 Da oben stand Helen Jones ohne Hut in weißem
-Kleide neben zwei ebenfalls weiß gekleideten Europäern...
+Kleide neben zwei ebenfalls weiß gekleideten Europäern …
 
-Da oben — etwa fünfunddreißig Meter über uns...
+Da oben — etwa fünfunddreißig Meter über uns …
 
-In der Stille des nahenden Abends hörten wird die
+In der Stille des nahenden Abends hörten wir die
 Verbrecherin übermütig lachen.
 
 Dann schritten die drei weiter und verschwanden.
@@ -784,11 +784,11 @@ spielten.
 »Nun — — dürfen wir’s!« sagte er, und es klang
 wie Triumph, wie eine Drohung gleichzeitig.
 
-»He — was dürfen wir?« fragte der kleine Kollege,
+»He — was dürfen wir?« fragte der kleine Kollege
 verständnislos.
 
 <@pagebreak/>
-»Wir dürfen... handeln!« erklärte Harst. »Das
+»Wir dürfen … handeln!« erklärte Harst. »Das
 heißt also: wir bleiben hier in der Laube, bis es dunkel
 geworden. Dann, wenn wir nicht mehr beobachtet werden
 können, beginnen wir.«
@@ -800,7 +800,7 @@ Schraut?«
 
 »Na also! Ich denke, daß nun doch erwiesen ist, daß
 Helen Jones mit zu den Bewohnern der Insel gehört.
-Weshalb sollen wir...«
+Weshalb sollen wir …«
 
 »Stören Sie mich nicht,« unterbrach Harald ihn. »Ich
 habe einen Plan zu entwerfen.«
@@ -818,7 +818,7 @@ Wir eilten in unsere Zimmer. Harst warnte:
 
 Und wir fanden im Wohnzimmer den Abendbrottisch
 *noch nicht* abgeräumt. Wir hatten um halb acht
-Abend gespeist, und nun war es neun Uhr geworden. Auch
+zu Abend gespeist, und nun war es neun Uhr geworden. Auch
 im Schlafzimmer war noch nichts zur Nacht besorgt.
 
 »Komisch!« grunzte Goddlepy. »Die bedienenden
@@ -830,7 +830,7 @@ sind zwischen sieben und acht Uhr abends heute samt den
 worden. Die Insel ist im Besitz der Verbrecher.
 Daß wir drei hier sind, ahnt Helen nicht.«
 
-»Verdammt...! Also so liegen die Dinge!«
+»Verdammt …! Also so liegen die Dinge!«
 
 »Ja — — so, lieber Goddlepy. Deshalb müssen *wir*
 handeln.«
@@ -868,7 +868,7 @@ und den Bohrer zu sich. Sie, Goddlepy, verwahren dieses
 Fläschchen Chloroform und diesen kräftigen Bindfaden in
 der Umhüllung Ihres geschätzten Kadavers. Ich gehe voran.
 Ich allein schalte die Lampe ein. Ihr beide schießt sofort,
-wenn wir angegriffen werden. — Aufbruch...!«
+wenn wir angegriffen werden. — Aufbruch …!«
 
 »Halt — zuvor noch einen Schluck Kognak, Harst,«
 bettelte Goddlepy.
@@ -906,36 +906,36 @@ Kamen endlich in einen Raum, in dem hohe Büchergestelle
 und ein großer, mit Papieren bedeckter Schreibtisch
 verrieten, daß hier ein Gelehrter hauste.
 
-Kamen dann durch zwei leere Zimmer...
+Kamen dann durch zwei leere Zimmer …
 
 Und — — machten jäh halt.
 
 Vor uns schmetterte ein Grammophon im nächsten
-Raum einen Militärmarsch...
+Raum einen Militärmarsch …
 
 Und — dazu Stimmengewirr, Gläserklingen, Gelächter.
 
-Dazu Bratendunst, der bis zu uns hin wehte...
+Dazu Bratendunst, der bis zu uns hin wehte …
 
 Harald betastete die Tür.
 
 »Bohrer her!« flüsterte er.
 
-Ich reichte ihm den Zentrumbohrer...
+Ich reichte ihm den Zentrumbohrer …
 
 Während jenseits der Tür ein Gassenhauer die Tafelnden
-erfreute, fraß der Bohrer sich ins Holz ein...
+erfreute, fraß der Bohrer sich ins Holz ein …
 
-Drei Löcher...
+Drei Löcher …
 
-Für drei Augen...
+Für drei Augen …
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 <h3>Das Gastmahl der Sterbenden.</h3>
 
-Ein keiner Saal. Zwei Kronleuchter mit je vier
+Ein kleiner Saal. Zwei Kronleuchter mit je vier
 Petroleumlampen. An den Wänden überall Leuchter mit
 dicken Kerzen. In der Mitte eine Tafel mit funkelndem
 Silber, Kristall, kostbaren Vasen. Am einen Ende saß, das
@@ -985,7 +985,7 @@ Drei — vier der Kavaliere rannten hinaus.
 
 Die Mulatten und unsere beiden Geheimnisvollen entfernten
 sich gleichfalls, schleppten dann Sektflaschen heran,
-immer mehr...
+immer mehr …
 
 Bis die vier Banditen wieder eintraten, in der Mitte
 zwischen sich einen ehrwürdigen, weißhaarigen, kräftigen
@@ -995,12 +995,12 @@ Das Antlitz dieses Mannes war farblos vor Erregung.
 Hinter den blinkenden Gläsern der Hornbrille glühten ein
 Paar große Schwärmeraugen. —
 
-Helen Jones schnellte hoch...
+Helen Jones schnellte hoch …
 
 »Sekt — — Sekt in die Kelche, damit wir anstoßen
 können auf den berühmten Weltverbesserer Daniel Destorbier,
 der sein ungeheures Vermögen opferte, um hier in aller
-Stille... die Insel der Seligen zu schaffen, die Insel der
+Stille … die Insel der Seligen zu schaffen, die Insel der
 unschuldig Verurteilten, der Opfer der blinden Justiz, der
 Opfer, die er befreite und die er hierher brachte! Aus Neu-Kaledonien
 holte er sich seine Lieblinge! Bevölkerte diese
@@ -1014,7 +1014,7 @@ mit der Jacht L’amour, der Ihr den Namen genommen
 habt, die Ihr schon versenken wolltet, — — ersäufen!! —
 Sekt her!! — So — stoßt an! Kameraden, Freunde, — es
 lebe der berühmte Narr Daniel Destorbier, der jetzt wegen
-Gefangenenbefreiung von den Behörden gesucht wird! Er lebe
+Gefangenbefreiung von den Behörden gesucht wird! Er lebe
 hoch — — hoch — — hoch!!«
 
 Helen leerte ihr Glas, schleuderte es dann nach dem
@@ -1023,12 +1023,12 @@ Greise, traf nicht.
 Das Glas zerschellte an der Wand.
 
 Das Schrankgrammophon in der Ecke dudelte aufs neue
-einen Marsch...
+einen Marsch …
 
 Gläser flogen an die Wände, andere Sektkelche wurden
-gefüllt...
+gefüllt …
 
-Es war der reinste Hexensabbat...!!
+Es war der reinste Hexensabbat …!!
 
 Und neben der Tafel stand hoch aufgerichtet Daniel
 Destorbier, ein Lächeln unendlicher Verachtung um den
@@ -1036,21 +1036,21 @@ Mund.
 
 Einer von Helens Kavalieren stimmte jetzt ein Lied
 an — das schlüpfrig-freche Lied der Sträflinge von
-Neu-Kaledonien...
+Neu-Kaledonien …
 
 Die ganze Bande sprang wieder von den Stühlen
 hoch, gröhlte mit. Nur die fünf Meergreise stierten blöde
 vor sich hin.
 
-Und — da geschah das Entsetzliche — das Grauenvolle...:
+Und — da geschah das Entsetzliche — das Grauenvolle …:
 
-Ein schriller Schrei übertönte den Gesang...
+Ein schriller Schrei übertönte den Gesang …
 
 Helen lag am Boden, wand sich in Krämpfen,
 Zuckungen.
 
 Dem Schrei folgte ein zweiter — — dritter — —
-vierter...
+vierter …
 
 <@pagebreak/>
 Des Greises überlaute Stimme nun wie eine Posaune
@@ -1073,7 +1073,7 @@ geführt, in die Küchenräume, wo zwei Neger die Köche
 Lebende heraus.
 
 Am Morgen begruben wir die Toten in einem Massengrab.
-Die von den Banditen bei der Überumpelung der
+Die von den Banditen bei der Überrumpelung der
 Insel erschossenen Sträflinge, alles zu Unrecht Verurteilte,
 wurden besonders bestattet. —
 
@@ -1109,13 +1109,12 @@ besser: wir wollen es nicht wissen. — All das gehört ja
 auch nicht mehr mit zu diesem unseren Abenteuer, welches
 das letzte australische war, — denn nun begann jener
 monatelange Kampf gegen Lionel Barring, begann jene
-Reihe von Detektiverlebnissen, die sich wie ein überlautes
+Reihe von Detektiverlebnissen, die sich wie ein überbuntes
 Gewirr von Schlinggewächsen um die Person jenes außergewöhnlichen
 Mannes ranken, dessen Entlarvung meinem
 Freunde Harald vorbehalten blieb.
 
-Nächster Band:
+<#import "*/harst.ftl" as harst>
 
-__Der Kampf gegen Lionel Barring.__
-
+<@harst.naechsterband band="Der Kampf gegen Lionel Barring."/>
 

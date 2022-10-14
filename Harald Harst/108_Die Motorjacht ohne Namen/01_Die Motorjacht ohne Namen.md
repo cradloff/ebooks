@@ -13,9 +13,9 @@ gab, uns wieder einmal als Seeleute zu bewähren.
 
 Ich nehme an, daß der Leser sich noch auf die Vorgänge
 in New-London besinnt. Die Gemeinde der Harst-Freunde
-und ständigen Leser könnte sich nun immerhin noch
+und -ständigen Leser könnte sich nun immerhin noch
 erweitert haben. Daher will ich hier doch kurz erwähnen,
-daß wir in Australien eine Betrügerin entlarvt, Ihren
+daß wir in Australien eine Betrügerin entlarvt, ihren
 Bruder erschossen und dessen drei Genossen unschädlich gemacht
 hatten. Diese Helen Jones hatte nun mit ihrem
 Bruder auf ganz besondere Art heimlich Zettelmitteilungen
@@ -48,12 +48,12 @@ Dolling nickte. »Das stimmt, Mr. Harst. In Adelaide
 liegt meine Motorjacht »Australia«. — Wie kommen Sie
 übrigens so unvermittelt auf die Jacht zu sprechen? Ich
 habe Ihnen gegenüber bisher doch mit keinem Wort erwähnt,
-daß...«
+daß …«
 
 »Oh — ich weiß, daß die reichen Züchter hier sehr
 gern ein paar Wochen sich auf See erholen, Mr. Dolling.
 Deshalb meine Frage. — Hatten Sie vielleicht letztens eine
-unternommen?«
+Seereise unternommen?«
 
 »Ja. Ich wollte mit der Australia einmal recht weit
 nach Süden, möglichst bis an die Eisfelder des Südpols,
@@ -77,18 +77,18 @@ gleichzeitig Kapitän meines Handelsdampfers »Wales« ist,
 der regelmäßig Gefrierfleisch nach Europa bringt. Ich besitze
 im ganzen vier Dampfer. Will ich die Australia zu
 einer Erholungsreise benutzen, so gibt Kapitän Tobber das
-Kommando des Wales an den ersten Steuermann ab. Auf
+Kommando des Wales an den Ersten Steuermann ab. Auf
 der Australia nehme ich zumeist nur eine Besatzung von sechs
-Mann mit...«
+Mann mit …«
 
-»Weiter...!« drängte Harald ungeduldig. »Was erlebten
-Sie? Sie... fanden eine noch unbekannte Insel,
+»Weiter …!« drängte Harald ungeduldig. »Was erlebten
+Sie? Sie … fanden eine noch unbekannte Insel,
 nicht wahr?«
 
 Dolling richtete sich mit einem Ruck auf. »Mr. Harst,
 woher wissen Sie das? Ich habe doch über die Insel nur
-dieser... dieser Verbrecherin gegenüber einige Andeutungen
-fallen lassen...! Woher können Sie also...«
+dieser … dieser Verbrecherin gegenüber einige Andeutungen
+fallen lassen …! Woher können Sie also …«
 
 »Weiter, Mr. Dolling! Und — in aller Kürze bitte.«
 
@@ -110,24 +110,24 @@ wir in der Bucht in ruhigem Wasser vor Anker. Zu sehen
 war nicht viel: nur turmhohe steile Felswände rahmten die
 Bucht ein.
 
-Ich bestieg allein das Diggy (kleinstes Boot) und
+Ich bestieg allein das Dingi<@refnote/> (kleinstes Boot) und
 ruderte, von Nebelschwaden umgeben, tiefer in die Bucht
 <@pagebreak/>
 hinein, die sich sehr bald kanalartig verengerte und in zahlreichen
-Mündungen etwa nach Osten zu sich fortsetzte.
+Windungen etwa nach Osten zu sich fortsetzte.
 
 Stellen Sie sich mein Erstaunen vor, als ich mit einem
 Male in diesem schmalen Fahrwasser auf eine vor Anker
 liegende Jacht stieß. Ich sah Licht hinter den Fenstern, sah
-euch ein paar Menschen an Bord. Aber — als ich die Jacht
-dann anrief, verschwanden die Leute...«
+auch ein paar Menschen an Bord. Aber — als ich die Jacht
+dann anrief, verschwanden die Leute …«
 
 Er machte eine längere Pause und füllte die Likörgläser.
 
 »Bevor ich nun weitererzähle,« meinte er mit gedämpfter
 Stimme, »müssen Sie drei mir versprechen, über diese
 Dinge genau so Stillschweigen zu bewahren, wie ich dies
-bisher getan habe. Nur der... Hochstaplerin deutete ich
+bisher getan habe. Nur der … Hochstaplerin deutete ich
 mein Erlebnis einmal kurz an. Und sie hat es denn auch
 wirklich Ihnen ausgeplaudert, Mr. Harst.«
 
@@ -137,11 +137,11 @@ in der Bucht der unbekannten Insel?«
 
 Dolling blickte Harald ungläubig an. »Mr. Harst,
 wenn dieses Weib Ihnen wirklich nichts von alledem gesagt
-hat, begreife ich nicht, woher Sie...«
+hat, begreife ich nicht, woher Sie …«
 
-»Weiter!«
+»Weiter!!«
 
-»Ja doch... ja doch! — Ich ruderte also ganz nahe
+»Ja doch … ja doch! — Ich ruderte also ganz nahe
 an die fremde Jacht heran und kletterte an Deck. Hier trat
 mir dann ein Herr entgegen, der etwa folgendes sehr hastig
 hervorstieß:
@@ -169,14 +169,14 @@ Insel irgendwie Fremden verraten hätte. Von der fremden
 Jacht hatte ich meinen wackeren Matrosen und auch Kapitän
 Tobber nichts gesagt. Ich begründete meine Bitte, das
 Vorhandensein des Eilandes zu verschweigen, mit der Erklärung,
-daß ich die Insel später etwas auf Bodenschätze
+daß ich die Insel später einmal auf Bodenschätze
 hin untersuchen wollte.«
 
 »Und — wußte Jones’ Schwester etwas von der
 fremden Jacht?«
 
 »Ja. Die vier Monate waren zwar noch nicht vorüber,
-als...«
+als …«
 
 »Gut. Danke, Mr. Dolling. — Hat denn kein anderes
 Schiff die Insel bisher bemerkt?«
@@ -194,7 +194,7 @@ Helen Jones für kurze Zeit untergebracht worden waren.
 Die Aufschrift des Zettels ist in einer lächerlich kindlichen
 Geheimschrift abgefaßt, die ich sofort glatt entziffern konnte.
 Ich will Ihnen den Inhalt des Zettels vorlesen. Hören
-Sie...
+Sie …
 
 > »Sieh zu, daß Du schleunigst aus Chester Dolling
 noch mehr über sein Abenteuer auf jener unbekannten
@@ -203,8 +203,8 @@ die er dort bestieg, dasselbe Schiff ist, von dem ich Dir
 gelegentlich so seltsame Dinge mitteilte. Frage Dolling
 <@pagebreak/>
 auf recht geschickte Weise, ob die Jacht wirklich eine
-größere Motorjacht war. — Zum übrigen bleibt es bei
-unseren Vereinbarungen.«
+größere Motorjacht war. — Im übrigen bleibt es bei
+unseren Vereinbarungen.««
 
 Bevor der Großzüchter sich hierzu noch irgendwie
 äußern konnte, kam einer der berittenen schwarzen Polizisten,
@@ -215,7 +215,7 @@ rief uns zu:
 »Gentlemen, meine beiden Kameraden sind dicht hinter
 Lammery-Station aus dem Hinterhalt erschossen und die
 Verbrecher befreit worden. Ich bitte um Ihre Unterstützung,
-damit die Entflohenen...«
+damit die Entflohenen …«
 
 <@pagebreak/>
 
@@ -227,7 +227,7 @@ Wir waren aufgesprungen.
 »Pferde satteln!!« brüllte der kleine Kollege Goddlepy
 dem Diener Dollings zu, der soeben auf der Terrasse erschienen
 war. »Ich selbst benutze mein Motorrad. Ich
-will...«
+will …«
 
 »Halt, Goddlepy,« meinte Harst sehr bestimmt. »Ihr
 Motorrad werden Schraut und ich uns leihen. Sie selbst
@@ -247,7 +247,7 @@ heißt: meistenteils war ich mit meiner Achterseite hoch in
 der Luft!
 
 Wir rasten die staubige Straße südwärts, die sich stets
-in der Nähe des Schienenstranges hielt, von New-London
+in der Nähe des Schienenstranges hielt, der von New-London
 als Kleinbahn bis zur Hauptstrecke führt. Die
 Kleinbahn war Dollings Eigentum.
 
@@ -324,7 +324,7 @@ dem heutigen Tag erneut die Lehre: Eile mit Weile! Hätten
 wir uns in New-London Zeit gelassen, so wären wir mit
 Dollings Tourenauto den Banditen gefolgt. Aber weil
 der Chauffeur gerade an dem Motor herumbastelte, glaubte
-ich klüger zu tun, wenn wir Goddlepys...«
+ich klüger zu tun, wenn wir Goddlepys …«
 
 Und — siehe da: im selben Moment betraten Goddlepy
 und Dolling in hellen Staubmänteln und Autobrillen
@@ -367,12 +367,12 @@ Noch gewagter war es von uns, so fest zu schlafen, wie
 wir — leider! — alle drei schliefen, selbst Harald.
 
 Jedenfalls: vier Meilen vor Pooncarif kam die Bescherung,
-ein... Eisenbahnüberfall!
+ein … Eisenbahnüberfall!
 
 Und zwar ein Überfall, der einzig und allein uns
 dreien galt!
 
-Ehe wie noch recht ahnten, was vor sich ging, standen
+Ehe wir noch recht ahnten, was vor sich ging, standen
 vier Kerle in unserem Abteil, mit Lappen vor den Gesichtern,
 mit Revolvern und Stricken in den Händen.
 
@@ -397,7 +397,7 @@ erleben, Mr. Harst! Zwei Stunden noch — und
 von Ihnen und Ihren Gefährten sind nur noch verkohlte
 Reste übrig!«
 
-Harald erwiderte lediglich: »Und Sie... werden
+Harald erwiderte lediglich: »Und Sie … werden
 am Galgen sterben, Helen!«
 
 Lachend ritten die Schurken im hellen Mondlicht der
@@ -416,10 +416,10 @@ mir die Hände und Füße, in denen der Blutkreislauf fast
 ganz aufgehört hatte, rasch abstarben und aufquollen.
 
 Wir standen so, daß wir einander den Rücken zukehrten.
-Zuerst meldete sich Goddlepy:
+Zuerst meldete sich Goddlepy.
 
 »Verdammt — es sind Ameisen hier!« fluchte er.
-»Die Bestien werden...«
+»Die Bestien werden …«
 
 »Schweigen Sie!« meinte Harald sofort. »Es sind
 Kapillo-Ameisen, und — Gott sei Dank sind es solche!!«
@@ -430,9 +430,9 @@ Poltern von Harsts Platz her.
 »He — was treiben Sie da?« fragte der geschwätzige
 kleine Kollege.
 
-Abermals Rascheln, Poltern...
+Abermals Rascheln, Poltern …
 
-Und dann... dann wälzte sich Harald plötzlich von der
+Und dann … dann wälzte sich Harald plötzlich von der
 <@pagebreak/>
 Seite her mitsamt dem dicht über dem Wurzelstock abgebrochenen
 Stamm des Grasbaumes, der von den Ameisen unten
@@ -464,7 +464,7 @@ hatten sich wohl nicht die Zeit gelassen, ringsum die Büsche
 in Brand zu setzen.
 
 Morgens um sieben langten wir auf einer kleinen
-Farm an. Um elf Uhr vormittag saßen wir abermals im
+Farm an. Um elf Uhr vormittags saßen wir abermals im
 Zuge nach Melbourne. Helen Jones und ihre fünf Gefährten
 hatten jetzt volle zehn Stunden Vorsprung.
 
@@ -491,14 +491,14 @@ Goddlepy persönlich, und daher sagte er sich auch mit Recht,
 daß er auch Harald und mich nicht für Schwindler halten
 dürfte.
 
-»Heiliger Patrick!« rief er, »die... die Australia ist
+»Heiliger Patrick!« rief er, »die … die Australia ist
 ja schon heute morgen mit einem Mr. Harst und einem
 Mr. Schraut in See gegangen! Die beiden Herren waren
 heute in aller Frühe bei mir und zeigten mir gleichfalls
-einen Brief Dollings vor, der...«
+einen Brief Dollings vor, der …«
 
 <@pagebreak/>
-»...natürlich gefälscht war,« beendete Harald den
+»… natürlich gefälscht war,« beendete Harald den
 Satz. »Wir brauchen uns hier dann nicht lange aufzuhalten,
 Mr. Owen. Beantworten Sie mir nur ganz kurz
 folgende Fragen: Wer ist als Kapitän an Bord der Australia?
@@ -523,7 +523,7 @@ Koffer trugen.«
 »Danke, Mr. Owen. Haben Sie den gefälschten Brief
 noch da?«
 
-»Gewiß. — Bitte....«
+»Gewiß. — Bitte …«
 
 Harald verglich Dollings echtes Schreiben mit der
 Fälschung.
@@ -566,7 +566,7 @@ schaffte. — Harst war wütend, zumal die Besatzung dieses
 ehrwürdigen Äppelkahns offenbar aus dem Altersheim für
 Seeleute stammte und diese fünf Herrschaften den Rum weit
 mehr liebten als Pflichterfüllung und Bescheidenheit. Die
-alten verso... Kerle glaubten, mit uns Landratten nicht
+alten verso… Kerle glaubten, mit uns Landratten nicht
 viel Umstände machen zu brauchen. Schon um zehn Uhr
 vormittags gab es zwischen dem Kapitän Mr. Doggerby und
 Harald einen gewaltigen Krach, der damit endete, daß
@@ -647,7 +647,7 @@ unser Floß rasch von dem anderen. Das letzte, was wir
 von den fünf Unglücksgefährten hörten, waren ein paar
 Flüche Doggerbys, die Harald galten. Nun trieben wir drei
 auf unserem kläglichen Fahrzeug allein dahin — volle zwei
-Stunden...
+Stunden …
 
 Längst waren die unten angebrachten Tonnen und
 Kannen losgerissen. Längst lag das Floß so tief im Wasser,
@@ -655,7 +655,7 @@ daß jeder Wogenkamm darüber hinwegbrauste.
 
 Und — als abermals ein solches Ungetüm von Welle
 uns für eine Minute in Gischt und grüne Wassermassen
-hüllte, da... da war unser kleiner armer Goddlepy verschwunden.
+hüllte, da … da war unser kleiner armer Goddlepy verschwunden.
 Er, den die Seekrankheit hier auf dem Floße
 aufs heftigste gepeinigt hatte, war wohl ein Opfer der von
 selbst aufgegangenen Knoten des Stricks geworden, die ihn
@@ -684,7 +684,7 @@ wahrnahmen, — Rückenflossen jener Tiger des Meeres,
 die schon stets der Schrecken aller schiffbrüchigen Floßfahrer
 gewesen sind.
 
-Und — noch mehr sahen wir gleichzeitig...:
+Und — noch mehr sahen wir gleichzeitig …:
 
 Dort westwärts eine größere Jacht, die schlingernd und
 offenbar ohne Besatzung (sie trieb bald hierhin, bald dorthin)
@@ -698,9 +698,9 @@ zu drücken, nachdem sie sich halb auf den Rand hinaufgeschnellt
 hatten.
 
 Ich feuerte mit der Clement nach ihnen — Kopfschüsse!
-Sie versanken...
+Sie versanken …
 
-Ich feuerte abermals...
+Ich feuerte abermals …
 
 Derweil stand Harald mit einer mir unbegreiflichen
 Gleichgültigkeit mit dem Fernglas vor den Augen da und
@@ -715,11 +715,11 @@ Die Haifische hatten sich jetzt über zwei nur angeschweißte
 Artgenossen hergemacht und rissen ihnen ganze
 Stücke aus dem Leibe.
 
-Ich drehte mich nach Harald um...
+Ich drehte mich nach Harald um …
 
 »Eine Jacht ohne Namen,« sagte er kopfschüttelnd.
 »Und — vorn am Mast ist ein Toter festgebunden, ein
-halbes Skelett schon fast...«
+halbes Skelett schon fast …«
 
 Ich riß ihm förmlich das Fernglas aus der Hand.
 
@@ -837,7 +837,7 @@ Dann tat er ein paar Züge und blies einige Rauchringe.
 »Ich denke, mein Alter, wir dürften uns hier auf jener
 Jacht befinden,« erklärte er sinnend, »die auf dem Zettel
 erwähnt ist, den ich in New-London fand, — auf jener
-Jacht, von der es hieß, daß es ein »seltsames Schiff« sei, —
+Jacht, von der es hieß, daß es ein »seltsames Schiff« sei. —
 Du besinnst Dich doch?«
 
 »Ob ich mich besinne! — Aber — wie kommst Du auf
@@ -876,10 +876,10 @@ Ecke bereits aufrecht dastanden.
 Als ich den vordersten umkippte, nachdem ich die Seitennaht
 <@pagebreak/>
 aufgetrennt hatte und der Sand herausgeflossen war,
-prallte ich entsetzt zurück...
+prallte ich entsetzt zurück …
 
-Ein... blasses, schmales, faltiges Männergesicht
-leuchtete mir aus diesem Versteck entgegen...
+Ein … blasses, schmales, faltiges Männergesicht
+leuchtete mir aus diesem Versteck entgegen …
 
 Ein Gesicht — — unverkennbar: Freund Goddlepy! —
 
@@ -894,21 +894,21 @@ und lallte schließlich:
 »Verdammt — träume ich nur?! Seid Ihr’s leibhaftig?!«
 
 »Leibhaftig!« lachte Harald. »Mein lieber kleiner
-Goddlepy, wir freuen uns unglaublich, daß...«
+Goddlepy, wir freuen uns unglaublich, daß …«
 
 Da richtete der Melbourner Kollege sich mit einem
 Ruck vollends auf, schaute wild um sich und flüsterte:
 
 »Ich rate, die Pistolen zur Hand zu nehmen! Hier
 an Bord ist’s nicht geheuer! Es sind noch mehr Leute als
-blinde Passagiere...«
+blinde Passagiere …«
 
-Da — schwieg er jäh...
+Da — schwieg er jäh …
 
-Und — — auch wir horchten...
+Und — — auch wir horchten …
 
 Ein lauter, donnernder Knall hatte auch uns zusammenfahren
-lassen...
+lassen …
 
 <@pagebreak/>
 
@@ -937,13 +937,13 @@ hinabriß, eins der Fässer, die wir doch unter den Floßplanken
 angebunden hatten. Die Nägel, die wir außen
 in die Faßwände geschlagen, verfingen sich in meiner Jacke.
 So trieb ich halb bewußtlos und immer wieder Wasser
-schluckend dahin, bis ich...«
+schluckend dahin, bis ich …«
 
 <@pagebreak/>
 »Schon gut, Goddlepy,« nickte Harald. »Und hier an
 Bord?«
 
-»Oh — hier... kniffen die beiden Kerle vor mir aus,
+»Oh — hier … kniffen die beiden Kerle vor mir aus,
 als ich die Kajüte betrat, um dem scheußlichen Leichengeruch
 zu entgehen. Der eine feuerte noch einen Revolver auf mich
 ab. In meiner Erschöpfung verkroch ich mich dann hier
@@ -967,7 +967,7 @@ verstehe!«
 Harald in seiner frischen, heiteren Art. »Jetzt muß uns
 zunächst daran liegen, die nähere Bekanntschaft der beiden
 Leute zu machen, von denen der eine auf Sie feuerte. Allerdings
-fürchte ich, daß wir... zu spät kommen!«
+fürchte ich, daß wir … zu spät kommen!«
 
 Nach dieser letzten, recht unklaren Bemerkung ergriff
 er das Handbeil und hatte dann auch mit ein paar wuchtigen
@@ -979,7 +979,7 @@ Jacht lagerte. Als zweites bemerkte Harst, daß — — unser
 Floß fehlte.
 
 »Dachte ich’s mir doch!« meinte er achselzuckend. »Die
-Kerle haben sich bereits empfohlen, und wir sind zu spät gekommen...!
+Kerle haben sich bereits empfohlen, und wir sind zu spät gekommen …!
 — So, nun laßt uns mal nach dem Versteck
 der beiden suchen, in dem sie sich verborgen hielten, als
 Schraut und ich die sämtlichen Räume durchstöberten.«
@@ -1005,12 +1005,12 @@ zusammenhängen, und zwar: Dollings Abenteuer auf der
 unbekannten Insel mit der ebenso unbekannten Motorjacht,
 der Zettel, auf dem diese Insel und die Jacht gleichfalls
 erwähnt waren, drittens, was Helen Jones und ihre Banditen
-damit zu tun haben, ...«
+damit zu tun haben, …«
 
-»... viertens — — fünftens... sechstens...!!«
+»… viertens — — fünftens … sechstens …!!«
 fiel ihm Harald ins Wort und hielt ihm sein Zigarettenetui
 hin. »Da — bedienen Sie sich! Rauchen wir die Friedenspfeife.
-Ich werde reden...«
+Ich werde reden …«
 
 Als die Zigaretten brannten, zog Harst die Muscheldose
 aus der Tasche. »Bitte, Goddlepy, — woher stammt
@@ -1041,20 +1041,20 @@ gestellt hat. Diese zweite Schar von Flüchtlingen
 überrascht Dolling in der Bucht der unbekannten Insel.
 Und diese Leute haben auf ihrer Flucht einen ihnen besonders
 verhaßten Sträflingsaufseher mitgenommen, dem
-mal einer der Deportierten die kunstvolle Tabaksdose geschenkt
+mal einer der Deportierten die kunstvolle Tabakdose geschenkt
 hat. Jedenfalls: der Tote war ein Aufseher aus
 Kaledonien. Das bewies seine Leibwäsche, die den Stempel
 der staatlichen Verwaltung der Insel trug. Die Wäsche
-war *nicht* Sträflingswäsche, und daher...«
+war *nicht* Sträflingswäsche, und daher …«
 
-Dann — dann kam’s...!! Dann erhielten wir den
+Dann — dann kam’s …!! Dann erhielten wir den
 Beweis, daß die beiden anscheinend mit dem Floß geflüchteten
-Leute noch an Bord waren...
+Leute noch an Bord waren …
 
-»Hände hoch!!« brüllte jemand durch die offene Tür,
-vom dunklen Deck uns zu...
+»Hände hoch!!« brüllte jemand durch die offene Tür
+vom dunklen Deck uns zu …
 
-Zwei Gestalten dort... zwei Revolver...
+Zwei Gestalten dort … zwei Revolver …
 
 »Alle Wetter!!« brummte Goddlepy.
 
@@ -1067,7 +1067,4 @@ Harald Harst hat noch stets genügt.«
 So — — begann der zweite Teil unseres Abenteuers.
 So machten wir die Bekanntschaft von Leuten, denen wir
 später Freiheit und Leben retten durften.
-
-<@pagebreak/>
-
 
