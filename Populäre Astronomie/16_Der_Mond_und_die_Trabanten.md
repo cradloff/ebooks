@@ -176,6 +176,7 @@ Wir stellen, unsrer Gewohnheit gemäß, die vorzüglichsten Zahlenwerthe der
 Trabanten tabellarisch zusammen.
 
 <@pagebreak/>
+
 <table>
 <caption>Scheinbare Größe der Planeten, von den Trabanten aus gesehen;
 scheinbare Größe der Trabanten von den Planeten aus; Durchmesser der Trabanten

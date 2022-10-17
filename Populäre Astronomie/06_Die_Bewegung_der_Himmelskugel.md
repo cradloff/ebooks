@@ -5,11 +5,84 @@ Die Bewegung der Himmelskugel, oder die Achsendrehung der Erde.
 ---------------------------------------------------------------
 
 Nicht der wahre Ort, den die Himmelskörper im Weltraume einnehmen, wird von uns
-wahrgenommen, sondern, wie wir gesehn haben, nur die Rich
+wahrgenommen, sondern, wie wir gesehn haben, nur die Richtung,
+<@pagebreak 70/>
+in welcher er sich befindet, oder die Lage und
+Neigung der geraden Linie zwischen ihm und unserm
+Auge zu den uns umgebenden Gegenständen; auch
+die Bewegungen und Entfernungen der Sterne zeigen
+sich uns nur durch die Veränderungen und Unterschiede
+in diesen Richtungen: alle unsere Beobachtungen
+in diesem Theile der Astronomie beschränken sich
+auf die Winkel, die jene Linien mit einander machen.
+Unter keinem Bilde lassen sich daher alle diese Erscheinungen
+besser darstellen, als unter dem einer Kugel,
+die unser Auge, oder, der Gleichförmigkeit willen,
+den Mittelpunkt der Erde, von allen Seiten gleich
+weit umgibt. Man nennt sie die *Himmelskugel*
+oder *Sphäre*. Wie bei allen Kugeln sind die durch
+den Mittelpunkt gehenden Kreise einander gleich und
+größer als alle übrigen.
 
-[Seite 70, 71 fehlt]
+Von dieser Kugel sehen wir immer nur einen
+Theil, der desto größer wird, je höher unser Standpunkt
+ist, und je freier wir umherblicken können. Der
+Kreis, der den sichtbaren Theil begrenzt, heißt
+der *scheinbare Horizont*, zum Unterschied von
+dem ihm parallelen größten Kreise der Kugel, welchen
+man den *wahren Horizont* nennt; zwar sind
+beide Kreise wol 8 -- 900 Meilen von einander entfernt,
+aber bei der ungeheuren Entfernung der Himmelskörper
+ist dieser Unterschied nur sehr selten von
+Bedeutung.
 
-<@pagebreak 72/>
+*Horizontal* nennt man jede Linie oder Fläche,
+die dem Horizonte parallel ist; z. B. die Oberfläche
+der Seen, Meere, und, mit sehr kleinen Abweichungen,
+auch die der Flüssigkeiten in Gefäßen. Die 
+*Vertikallinie* eines Ortes ist die auf dem Horizonte
+desselben senkrechte Linie: es ist die Richtung des
+Bleilothes und des freien Falles der Körper. Verlängert
+trifft sie die Himmelskugel in zwei Punkten, über
+<@pagebreak/>
+und unter uns; jener heißt *Zenith* oder *Scheitelpunkt*,
+dieser der *Nadir* oder *Fußpunkt*, der
+also niemals sichtbar ist. Alle durch Zenith und Nadir
+gehenden Kreise heißen *Vertikalkreise*. Ein
+*Höhenkreis* ist jeder dem Horizonte parallele Kreis
+der Sphäre.
+
+Diese Betrachtungen bieten uns ein leichtes
+Mittel dar, die Lage der Sterne an unserer sichtbaren
+Halbkugel zu bestimmen. Man denke sich nämlich
+den vierten Theil eines Vertikalkreises vom Zenith
+durch den zu untersuchenden Stern bis auf den Horizont,
+so ist der Bogen zwischen Stern und Horizont
+die *Höhe* des Sterns, und die Entfernung des
+Punktes, wo der Kreis den Horizont erreicht, von einem
+andren, der Lage nach bekannten Punkte desselben,
+das *Azimut*: durch Höhe und Azimut ist nun
+die Lage des Sterns vollständig gegeben, und seine
+scheinbaren Bewegungen können durch die Veränderungen
+dieser Lage genau bezeichnet werden. Die Höhe eines
+Sterns im Horizont ist 0°, und sein Azimut die Entfernung
+von jenem einmal angenommenen Punkte;
+ein Stern im Zenith hat dagegen eine Höhe von 90°,
+wobei das Azimut gleichgiltig ist, weil sich alle Vertikalkreise
+im Zenith durchkreuzen. Eine größere Höhe
+als 90° ist unmöglich. Man setzt diese Eintheilung
+auch unter dem Horizonte fort, wobei jedoch die Lage
+eines Sterns nicht durch Beobachtungen, sondern nur
+durch Berechnung bestimmt werden kann.
+
+Aber die Lage zum Horizonte ändert sich mit jedem
+Augenblicke. In einem größeren und kleineren
+Bogen bewegen sich alle Sterne an unserm Himmel;
+einige erheben sich über den Horizont, andre senken
+sich an der entgegengesetzten Seite unter ihn, ja einige
+verlassen die sichtbare Halbkugel gar nicht, sondern
+beschreiben, in so fern das Sonnenlicht sie nicht
+<@pagebreak/>
 verdunkelt, einen Kreis, dessen Größe mit der Entfernung von einem uns
 unbeweglich scheinenden Punkte zunimmt. Dabei bleibt die gegenseitige Lage der
 Sterne unverändert, alle durchwandern ihre Kreise in derselben Zeit, etwa einem

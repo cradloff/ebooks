@@ -179,6 +179,7 @@ mehreren Jahren folgende Resultate: die größte Höhe der Fluth über die Ebbe 
 den Syzygien der
 
 <@pagebreak/>
+
 <table>
 <tr><td>Nachtgleichen                                      </td><td>19'27</td></tr>
 <tr><td>in den Syzygien der Sonnenwenden                   </td><td>16 98</td></tr>

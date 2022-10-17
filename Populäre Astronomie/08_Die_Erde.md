@@ -8,7 +8,7 @@ Zwischen den übrigen Planeten, weder zu den größten, noch zu den kleinsten,
 weder zu den fernsten, noch nächsten gehörend, bewegt sich die Erde um die
 Sonne. Durch die Entdeckungen Koperniks aus dem Mittelpunkte des Weltalls
 verstoßen, wiederholt sich der Mensch gern, daß seine Erde gleich weit von den
-<@pagebreak/>
+<@pagebreak 103/>
 Extremen der Größe und Entfernung abstehe, daß die Neigung ihrer Bahn die
 schöne Abwechselung der Jahrszeiten erzeuge, die selbst Jupiter entbehren
 müsse, und sie deshalb vorzüglich zum Wohnsitz harmonisch gebildeter, des
@@ -133,6 +133,7 @@ Rücksicht genau untersucht sein wird; in Deutschland, Frankreich; England und
 andren Ländern ist es schon zum Theil geschehen.
 
 Folgendes sind die Dimensionen der Erde: 
+
 <table>
 <tr><td>Halbmesser des Aequators </td><td>3271691 Toisen.</td></tr>
 <tr><td>Halbmesser an den Polen  </td><td>3260964   "</td></tr>
@@ -281,6 +282,7 @@ rechten Seite enthalten 384,900, und 385,500 Quadrat-Meilen.
 Die Größe der fünf Welttheile ist nach den genauesten Karten:
 
 <@pagebreak/>
+
 <table>
 <tr><td>Europa </td><td>153,529 oder 158,400 □ Meilen.</td></tr>
 <tr><td>Asien  </td><td>763,208 — 768,057 —</td></tr>

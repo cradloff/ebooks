@@ -338,33 +338,46 @@ sein. Er fällt dann wieder zurück, und das Spiel des Hin und Herfallens dauert
 ewig fort, wenn es von keinem fremden Hindernisse gestört wird.
 
 <@pagebreak/>
-Ein solches wird aber schon durch die Achsendrehung der Erde erzeugt. Alle
-Theile der Erde schwingen sich zwar in derselben Zeit um ihre Achse, allein die
-Kreise, die sie in 24 Stunden beschreiben, sind von sehr verschiedener Größe.
-Je weiter ein Körper von der Achse entfernt ist, desto rascher ist seine
-Bewegung nach Osten; die Spitze des Thurms beschreibt in gleicher Zeit einen
-größern Kreis, und bewegt sich rascher als sein Fuß. Läßt man nun einen Körper
-von einem Thurme oder der Mündung eines Schachts in die Tiefe fallen, so theilt
-er oben die Geschwidigkeit der ihn umgebenden Körper, eilt also den sich
-langsamer bewegenden in der Tiefe voraus, und scheint sich daher nach Osten zu
-bewegen (vergl. S. 216). Auch befanden sich bei Benzenbergs Versuchen alle von
-großen Höhen gefallene Körper etwas östlich von dem in der Vertikale liegenden
-Punkte. Der durch jene Röhre fallende Stein würde sich daher in keiner graden
-Linie dem Mittelpunkte nähern, sondern in krummen, veränderlichen Bahnen um ihn
+Ein solches wird aber schon durch die Achsendrehung
+der Erde erzeugt. Alle Theile der Erde
+schwingen sich zwar in derselben Zeit um ihre Achse,
+allein die Kreise, die sie in 24 Stunden beschreiben,
+sind von sehr verschiedener Größe. Je weiter ein
+Körper von der Achse entfernt ist, desto rascher ist seine
+Bewegung nach Osten; die Spitze des Thurms beschreibt
+in gleicher Zeit einen größern Kreis, und bewegt
+sich rascher als sein Fuß. Läßt man nun einen
+Körper von einem Thurme oder der Mündung eines
+Schachts in die Tiefe fallen, so theilt er oben die
+Geschwindigkeit der ihn umgebenden Körper, eilt also
+den sich langsamer bewegenden in der Tiefe voraus,
+und scheint sich daher nach Osten zu bewegen (vergl.
+S. 216). Auch befanden sich bei Benzenbergs
+Versuchen alle von großen Höhen gefallene Körper etwas
+östlich von dem in der Vertikale liegenden Punkte.
+Der durch jene Röhre fallende Stein würde sich daher
+in keiner graden Linie dem Mittelpunkte nähern, sondern
+in krummen, veränderlichen Bahnen um ihn
 laufen.
 
-Nimmt die Erde mit der Nähe zum Mittelpunkte an Dichte zu, so folgt die Stärke
-der Anziehung, oder der Schwere in ihrem Innern einem andren Gesetze, als wir
-oben angegeben haben; welches wir aber wol nie kennen lernen möchten <@refnote 1/>.
+Nimmt die Erde mit der Nähe zum Mittelpunkte
+an Dichte zu, so folgt die Stärke der Anziehung,
+oder der Schwere in ihrem Innern einem
+andren Gesetze, als wir oben angegeben haben; welches
+wir aber wol nie kennen lernen möchten <@refnote 1 "" ""/>.
 
-<@footnote 1>Ich kann nicht begreifen, wie in so vielen Lehrbüchern der Astronomie und
-Geographie der Satz aufgestellt werden kann, daß die Schwere zunehme, je
-geringer die Entfernung vom Erdmittelpunkte wird, und daß *deshalb* das Innere
-der Erde die dichtesten Stoffe enthalten müsse. Selbst dem Laien ist es klar,
-daß die Schwere eines Körpers im Mittelpunkt der Erde, wie sehr auch die Dichte
-nach Innen zunehme, dennoch = 0 sein müsse, da er von allen Seiten gleich stark
-angezogen wird. Auch ist unser, so leicht zu beweisender Satz schon von Newton,
-_Principia, L. 1 Prop. 73_, angeführt.</@footnote>
+<@footnote 1>Ich kann nicht begreifen, wie in so vielen Lehrbüchern
+der Astronomie und Geographie der Satz aufgestellt werden
+kann, daß die Schwere zunehme, je geringer die
+Entfernung vom Erdmittelpunkte wird, und daß *deshalb*
+das Innere der Erde die dichtesten Stoffe enthalten
+müsse. Selbst dem Laien ist es klar, daß die
+Schwere eines Körpers im Mittelpunkt der Erde, wie
+sehr auch die Dichte nach Innen zunehme, dennoch
+= 0 sein müsse, da er von allen Seiten gleich stark
+angezogen wird. Auch ist unser, so leicht zu beweisender
+Satz schon von Newton, _Principia, L. 1 Prop.
+73_, angeführt.</@footnote>
 
 <@pagebreak/>
 Wenn die Planeten bloß von der Anziehungskraft der Sonne bewegt würden, so
@@ -676,6 +689,7 @@ neuesten Beobachtungen der Entfernung und Größe nicht mehr ganz stimmen, sind
 daher für unsren Zweck ausreichend.
 
 <@pagebreak/>
+
 <table>
 <caption>Tab. 1. Die Masse und Dichtigkeit der Sonne und der Planeten, nebst der
 Fallbeschleunigung der Schwere an ihrer Oberfläche, die auf der Erde als
@@ -693,6 +707,7 @@ in Fußen.</caption>
 </table>
 
 <@pagebreak/>
+
 <table>
 <caption>Tab. 2. Dieselben Größen bei den Trabanten und die Massen im Verhältniß zu den
 Hauptplaneten.</caption>

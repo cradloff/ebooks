@@ -92,7 +92,7 @@ Sterne, die man auch in der Nähe des Schwans mit bloßen Augen zu erkennen
 glaubt; aber selbst den Fernröhren der Neuern war es nicht gelungen diese
 Vermuthung zu bestätigen, bis endlich *Herschel* durch seine Werkzeuge bis an die
 Grenzen dieser Nebelmasse vordrang, indem er sie vollständig in einzelne Sterne
-zu zertheilen vermochte<@refnote 1/>. Die Anzahl derselben ist so ungeheuer, daß er sie
+zu zertheilen vermochte<@refnote 1 "" ""/>. Die Anzahl derselben ist so ungeheuer, daß er sie
 nur auf ähnliche Weise zu schätzen vermochte, wie Archemedes die Sandkörner,
 welche ein Körper von der Größe der Erde enthalten kann, oder wie der
 Naturforscher die Anzahl der Eier eines Fisches. Er zählte nämlich die Sterne,
@@ -205,20 +205,27 @@ Fleck, der in der Mitte, oder wo sonst eine größere Anhäufung von Sternen sta
 findet, einen etwas stärkeren Schimmer hat. Die Gestalt und scheinbare Größe
 derselben wird aber, nachdem wir uns 
 <@pagebreak/>
-in der Nähe der Aequatorebene oder [???]
-Milchstraße befinden, sehr verschieden sein [???] einzelnen Sterne können in dieser
-großen [???] selbst von dem herschelschen Fernrohre nicht [???] werden, welches nur dann
-Nebelflecken von [???]Beschaffenheit derjenigen der Milchstraße auflösen [???] wenn sie
-nicht mehr als 20 mal so weit von [???] entfernt sind, als jene. Die äußere Gestalt
-der Nebelflecken macht es zwar auf den ersten Blick nicht unwahrscheinlich, daß
-sie entfernte Milchstraßen seien, und ihre geringe Größe nur von ihrer
-Entfernung herrühre, allein diese zuerst von Lambert und Kant geäußerte
-Vermuthung zeigt sich bei genauerer Prüfung nur bei einer kleinen Anzahl
-begründet. Wenn wir auch diejenigen von unsrer gegenwärtigen Betrachtung
-ausschließen, welche, aus einer weit verbreiteten Nebelmasse bestehend,
-wesentlich von jenen Sternnebeln verschieden sind, so scheinen doch die übrigen
-größtentheils eben so nah als die Milchstraße zu sein, einige näher als sie,
-und nur eine verhältnißmäßig geringe Anzahl noch entfernter.
+in der Nähe der Aequatorebene oder der Pole der
+Milchstraße befinden, sehr verschieden sein. Allein die
+einzelnen Sterne können in dieser großen Entfernung
+selbst von dem herschelschen Fernrohre nicht erkannt
+werden, welches nur dann Nebelflecken von der
+Beschaffenheit derjenigen der Milchstraße auflösen kann,
+wenn sie nicht mehr als 20 mal so weit von uns entfernt
+sind, als jene. Die äußere Gestalt der Nebelflecken
+macht es zwar auf den ersten Blick nicht unwahrscheinlich,
+daß sie entfernte Milchstraßen seien,
+und ihre geringe Größe nur von ihrer Entfernung
+herrühre, allein diese zuerst von Lambert und Kant
+geäußerte Vermuthung zeigt sich bei genauerer Prüfung
+nur bei einer kleinen Anzahl begründet. Wenn wir
+auch diejenigen von unsrer gegenwärtigen Betrachtung
+ausschließen, welche, aus einer weit verbreiteten Nebelmasse
+bestehend, wesentlich von jenen Sternnebeln
+verschieden sind, so scheinen doch die übrigen größtentheils
+eben so nah als die Milchstraße zu sein, einige
+näher als sie, und nur eine verhältnißmäßig geringe
+Anzahl noch entfernter.
 
 Viele Nebelflecken lassen sich nämlich in einzelne Sterne auflösen, die
 dasselbe Ansehn wie die kleinen Lichtpunkte der Milchstraße haben, ohne daß es
@@ -232,15 +239,20 @@ Aequatorgegend desselben liegenden Sterngruppen mit den Planeten vergleichen
 dürften.
 
 <@pagebreak/>
-[???]ternnebel scheinen uns noch näher zu [???] Milchstraße. Viele lösen sich nämlich in
-[???] sehr nahe stehender, oft nur eine Sekunde [???] Sterne auf, die einzeln an
-Glanz den [???]punkten der Milchstraße ähnlich sind. Wenn wir [???]diese den oben
-angewandten Maßstab anwenden, [???]müßten sie, um eine so geringe scheinbare
-Entfernung haben zu können, ungeheuer weit von uns entfernt sein, und dann
-wieder unermeßlich groß, weil sie noch gesehn werden können. Sie sind daher
-wahrscheinlich größtentheils wirklich weniger entfernt und bestehn aus kleinen,
-einander näheren Sternen, die sich vielleicht in keiner größeren Entfernung von
-uns befinden, als die Sterne der ersten Größe.
+Andre Sternnebel scheinen uns noch näher zu
+sein, als die Milchstraße. Viele lösen sich nämlich in
+eine Menge sehr nahe stehender, oft nur eine Sekunde
+entfernter Sterne auf, die einzeln an Glanz den
+Sternpunkten der Milchstraße ähnlich sind. Wenn wir
+auf diese den oben angewandten Maßstab anwenden,
+so müßten sie, um eine so geringe scheinbare Entfernung
+haben zu können, ungeheuer weit von uns entfernt
+sein, und dann wieder unermeßlich groß, weil
+sie noch gesehn werden können. Sie sind daher wahrscheinlich
+größtentheils wirklich weniger entfernt und
+bestehn aus kleinen, einander näheren Sternen, die
+sich vielleicht in keiner größeren Entfernung von uns
+befinden, als die Sterne der ersten Größe.
 
 Andre dagegen scheinen, nach ihrer Entfernung und ihrem Glanze, wirklich
 entfernte Milchstraßen zu sein, d. h. große Sternsysteme, oder Gruppen von
@@ -283,10 +295,80 @@ Sterne viel kleiner, und einander viel näher sein. Dagegen ist es auch möglich
 daß er noch viel weiter entfernt ist, als die Milchstraße, welches nur größere
 Entfernungen und Ausdehnungen der Sterne voraussetzt. Da wir aber kein sicheres
 Maß für diese beiden Gegenstände besitzen, so können wir schlechterdings
+<@pagebreak/>
+nicht mit Gewißheit bestimmen, ob eine beobachtete
+Sterngrußße in der Näde des Sirius aus kleinen
+einander nahen Sternen, oder viele hundert Sternweiten
+von einander entfernten bestehe. Noch weniger
+Zuverlässigkeit herrscht bei den noch nicht vollständig
+aufgelösten Nebelflecken, denn nicht nur findet dieselbe
+und eine noch größere Ungewißheit in Hinsicht der
+Entfernung und Ausdehnung statt, sondern es bleibt,
+trotz der Erfahrung der Astronomen, noch immer unentschieden,
+ob sie überhaupt aus Sternen bestehen.
+Wenn wir indeß auch über die Natur eines einzelnen
+Sternnebels, wie über die eines Sterns in Ungewißheit
+bleiben, so können wir doch die oben angeführten
+Vermuthungen über die Entfernung jener Körper im
+Ganzen für naturgemäß halten, obgleich die Ausnahmen
+sehr zahlreich sein mögen.
 
-[Seite 454 und 455 fehlt]
+Die zweite Abtheilung der Nebenflecken bilden
+diejenigen Körper, die wirklich aus einem zusammenhängenden,
+schwach leuchtenden Körper bestehen, deren
+Licht bald gleichförmig über den ganzen Raum, den
+sie einnehmen, verbreitet ist, bald an einigen Punkten
+stärker ist, bald aus einer Nebelmasse besteht, in der
+sich einer oder mehrere Sterne befinden,, welche von
+den Fixsternen fast nur durch ein matteres Licht und
+den sie begleitenden Nebel abweichen. Man unterscheidet
+die drei Hauptklassen derselben.
 
-<@pagebreak 456/>
+Die *erste* Klasse enthält alle diejenigen Nebelmassen,
+welche sich mit sehr mattem, aber ziemlich
+gleichförmigen Lichte über einen großen, nicht scharf
+begrenzten Raum verbreiten. Von ihnen entsteht
+wahrscheinlich ein schwacher Schimmer, der sich um
+das Sternbild des *Orion* nach allen Seiten 60° weit
+erstreckt, und dieser Gegend des Himmels einen besonderen
+Glanz verleiht; ein ähnlicher Schimmer findet
+<@pagebreak/>
+sich in dem nördlichen Flügel der *Jungfrau*. An
+diese, die ihre außerordentliche Größe wahrscheinlich
+ihrer Nähe verdanken, reihen sich an vielen Stellen
+des Himmels, in und außer der Milchstraße, eine
+Menge kleinerer. Ihre Gestalt scheint durchaus kein
+allgemeines Gesetz zu beobachten.
+
+Bedeutend kleiner als diese, aber viel deutlicher
+zu erkennen sind die Nebelflecken *zweiter* Klasse. Ihre
+Gestalt, obgleich oft sehr unregelmäßig, ist doch schon
+schärfer begrenzt; ihr nicht selten starkes Licht nimmt
+an mehrern Stellen, vorzüglich in der Nähe der
+Mittelpunkte zu, und oft in so bedeutendem Grade,
+daß sich daselbst fast sternähnliche Körper von
+verhältnismäßig sehr bedeutendem Umfange gebildet haben,
+um welche sich die Nebelmasse fast ganz zusammengezogen
+hat, so daß nur noch eine dünne sich wol
+stralenförmig von dem Kerne ausbreitende Atmosphäre
+übrig geblieben ist. Der Kern steht jedoch an
+Glanz den Fixsternen sehr nach, von denen er durch
+seinen Umfang und sein nebliges Ansehen bedeutend
+abweicht. Zu dieser Klasse gehören die nächst der
+Milchstraße berühmtesten Nebelflecken am Himmel,
+diejenigen im *Schwerte des Orion* und am *Gürtel
+der Andromeda*. Obgleich dieser den bloßen
+Augen sichtbar ist, so ist er doch zuerst von Simon
+Mayer, dem Entdecker der Jupiterstrabanten, beobachtet.
+Er stellt sich als zwei an ihren Grundlinien
+verbundene Dreiecke dar, wovon die Achse 40 Minuten,
+und die gemeinschaftliche Grundlinie 15 Minuten groß
+ist. Diese Nebelmasse, die also einen bedeutenden
+Raum am Himmen einnimmt, besteht daher wahrscheinlich
+aus einer Doppelpyramide. Der Nebelfleck
+im *Schwerte des Orion* ist von Huyghens entdeckt,
+und wegen seiner Größe und seines Glanzes
+<@pagebreak/>
 der schönste Nebelfleck am Himmel, so daß er früher für eine Oeffnung gehalten
 wurde, wodurch man in den Licht- oder Feuerhimmel (Empyreum) sehen könne. Er
 befindet sich in der Mitte jener ungeheuren Nebelmasse, und könnte wol für

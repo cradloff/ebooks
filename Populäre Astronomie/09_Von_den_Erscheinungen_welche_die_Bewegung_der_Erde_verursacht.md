@@ -10,7 +10,7 @@ Bewegungen und deren Wirkungen Übergehn.
 
 Man kann eigentlich nicht von *mehrern* Bewegungen der Erde reden. Die Bahn
 eines jeden
-<@pagebreak/>
+<@pagebreak 131/>
 Theils ihrer Oberfläche ist eine krumme Linie, deren Eigenschaften
 wir entwickeln müßten; indeß würde dieses wegen ihrer Unregelmäßigkeit äußerst
 schwierig, ja bei dem jetzigen Stande der Mathematik fast unmöglich sein. Zum
@@ -214,6 +214,7 @@ man nennt sie die *astronomischen Klimate*. Sie sind in folgender Tabelle
 enthalten:
 
 <@pagebreak/>
+
 <table>
   <tr><th>Klima</th><th>reicht bis</th><th>faßt in sich</th><th colspan="2">Dauer des längsten Tages.</th></tr>
   <tr><td> 1</td><td>8°34'</td><td>8°34'xx 12½</td><td>Stunden</td></tr>
@@ -447,6 +448,7 @@ Tab. 2. Gerade Aufsteigung der Sonne im Mittage der folgenden Tage:
 </table>
 
 <@pagebreak/>
+
 <table>
   <tr><td>Mai </td><td>31</td><td>68°</td><td>Aug.  </td><td>19</td><td>148°</td><td>Novbr.</td><td> 7</td><td>223°</td></tr>
   <tr><td>Juni</td><td>10</td><td> 79</td><td>      </td><td>29</td><td>158</td><td>      </td><td>17</td><td>233</td></tr>

@@ -16,6 +16,7 @@ Wir wollen, unsrer Gewohnheit gemäß, die Hauptpunkte in Tabellen
 zusammenstellen und dann in Anmerkungen die Größen vergleichen.
 
 <@pagebreak/>
+
 <table>
 <caption>Tab. 1. Größe der Sonne und der Planeten</caption>
 <tr><td></td><td colspan="2">Durchmesser.         </td><td>Oberfläche.</td><td>Rauminhalt.</td><td>Umfang.</td></tr>
@@ -36,6 +37,7 @@ zusammenstellen und dann in Anmerkungen die Größen vergleichen.
 </table>
 
 <@pagebreak/>
+
 <table>
 <caption>Tab. 2. Größe des Sonnendurchmessers, von den Planeten aus gesehn: 1.
 in Sekunden; 2. ihr geocentrischer Durchmesser 1; Oberfläche der Sonnenscheibe,
@@ -185,6 +187,7 @@ bestimmen, wie auf der Erde. Folgende Tabelle enthält die auf die Achsendrehung
 sich beziehenden Größen.
 
 <@pagebreak/>
+
 <table>
 <caption>Tab. 3. Neigung des Aequators zur Planetenbahn, Umlaufszeit um die
 Achse, Umlaufszeit um die Sonne in Planetentagen und Geschwindigkeit der
@@ -235,38 +238,49 @@ Größe und Rotation der Himmelskörper, wie wir gesehn haben, von einander
 unabhängig zu sein scheinen, so ist die außerordentlich große Umlaufszeit der
 *Sonne* auffallend, 
 <@pagebreak/>
-und erregt die Vermuthung, daß sie [???] Ursachen als bei
-den Planeten veranlaßt [???] regellos scheint die Neigung des Aequators zur
-[???] zu sein; zwar ist sie bis jetzt nur bei fünf Planeten mit
-Wahrscheinlichkeit festgesetzt, bei <img alt="Venus" src="Venus.png"/>, <img
-alt="Saturn" src="Saturn.png"/>, <img alt="Mars" src="Mars.png"/>, <img
-alt="Erde" src="Erde.png"/>, <img alt="Jupiter" src="Jupiter.png"/>, zeigt aber
-keinen Zusammenhang weder mit der Entfernung, noch mit der Größe, noch mit der
-Dauer des Tages. Venus und Erde, die einander in allen Punkten so ähnlich sind,
-sind hier weit von einander getrennt; Jupiter und Saturn ebenfalls, und dieser
-steht nahe bei Mars der sonst nichts Aehnliches mit ihm hat. Allein wenn wir
-bedenken, daß im Laufe der Jahrtausende die Neigung vielleicht alle möglichen
-Werthe von 0° bis 90° annehmen könne, welches selbst bei der Erde nicht völlig
-widerlegt ist oder doch in einem großen Zwischenraume schwanke, so erregt diese
-Unregelmäßigkeit keine Verwunderung mehr, indem in einigen Jahrtausenden das
-Verhältniß gänzlich geändert sein kann. Uebrigens gehört die Neigung zu den für
-den Planeten wichtigsten Gegenständen. Wie bei der Erde wird dadurch die Länge
-der Jahreszeiten, die verschiedene Länge der Tage, kurz das ganze Klima
-bestimmt (vergl. S. 152). Am gleichförmigsten sind die Jahreszeiten im
-*Jupiter*; die Sonne entfernt sich nur wenige Grade vom Aequator, wo ewiger
-Sommer herrschen wird, wenn nicht etwa eine starke Luft- oder Wolkendecke,
-welches auch die Natur der Gase und der Flüssigkeiten, die sie bilden, sei, die
-Hitze mildert. Zwischen dem Aequator und den Polen ist nun ein allmäliger
-Uebergang von der Hitze zur strengsten Kälte; dennoch wird nur ein kleiner
-Theil der Polarländer im Winter völlig ohne Sonne sein. Dieser Winter dauert
-aber sechs Jahre; Tag und Nacht sind überall fast einander gleich. Wie die
-Erscheinungen der Wärme und Kälte sich durch die 
+und erregt die Vermuthung, daß sie durch andre
+Ursachen als bei den Planeten veranlaßt sei. Ganz
+regellos scheint die Neigung des Aequators zur Bahn
+zu sein; zwar ist sie bis jetzt nur bei fünf Planeten
+mit Wahrscheinlichkeit festgesetzt, bei <img alt="Venus" src="Venus.png"/>, <img alt="Saturn" src="Saturn.png"/>, <img alt="Mars" src="Mars.png"/>, <img alt="Erde" src="Erde.png"/>, <img alt="Jupiter" src="Jupiter.png"/>,
+zeigt aber keinen Zusammenhang weder mit der Entfernung,
+noch mit der Größe, noch mit der Dauer des
+Tages. Venus und Erde, die einander in allen Punkten
+so ähnlich sind, sind hier weit von einander getrennt;
+Jupiter und Saturn ebenfalls, und dieser
+steht nahe bei Mars der sonst nichts Aehnliches mit ihm
+hat. Allein wenn wir bedenken, daß im Laufe der
+Jahrtausende die Neigung vielleicht alle möglichen
+Werthe von 0° bis 90° annehmen könne, welches
+selbst bei der Erde nicht völlig widerlegt ist oder
+doch in einem großen Zwischenraume schwanke, so
+erregt diese Unregelmäßigkeit keine Verwunderung
+mehr, indem in einigen Jahrtausenden das Verhältniß
+gänzlich geändert sein kann. Uebrigens gehört die
+Neigung zu den für den Planeten wichtigsten Gegenständen.
+Wie bei der Erde wird dadurch die Länge
+der Jahreszeiten, die verschiedene Länge der Tage, kurz
+das ganze Klima bestimmt (vergl. S. 152). Am
+gleichförmigsten sind die Jahreszeiten im *Jupiter*;
+die Sonne entfernt sich nur wenige Grade vom Aequator,
+wo ewiger Sommer herrschen wird, wenn nicht
+etwa eine starke Luft- oder Wolkendecke, welches auch die
+Natur der Gase und der Flüssigkeiten, die sie bilden,
+sei, die Hitze mildert. Zwischen dem Aequator und
+den Polen ist nun ein allmäliger Uebergang von der
+Hitze zur strengsten Kälte; dennoch wird nur ein
+kleiner Theil der Polarländer im Winter völlig ohne
+Sonne sein. Dieser Winter dauert aber sechs Jahre;
+Tag und Nacht sind überall fast einander gleich. Wie
+die Erscheinungen der Wärme und Kälte sich durch die 
 <@pagebreak/>
-[???] gestalten, wie der
-rasche Umschwung in [???] fünfstündigen Nacht durch Abkühlung [???] welchen
-Einfluß die Oertlichkeiten üben, werden wir nie ganz erfahren; aber wir können
-annehmen, daß die Erscheinungen der Atmosphäre nicht nur am Äequator, sondern
-auf der ganzen Jupiterskugel weit größere Regelmäßigkeit behaupten werden als
+Atmosphäre gestalten, wie der rasche Umschwung in
+seiner kaum fünfstündigen Nacht durch Abkühlung
+wirke, welchen Einfluß die Oertlichkeiten üben, werden
+wir nie ganz erfahren; aber wir können annehmen,
+daß die Erscheinungen der Atmosphäre nicht nur am
+Aequator, sondern auf der ganzen Jupiterskugel
+weit größere Regelmäßigkeit behaupten werden als
 bei uns.
 
 *Mars* und *Saturn* sind in der Eintheilung der Klimate nicht sehr von der Erde
@@ -354,6 +368,7 @@ der Erde und der andren unteren Planeten auf den oberen verhalte. Folgende
 Tabelle enthält die Angaben dazu.
 
 <@pagebreak/>
+
 <table>
 <caption>Tab. 4. Mittlerer Werth der größten Elongationen (S. 167) der unteren
 Planeten von der Sonne, von den oberen Planeten aus beobachtet.</caption>

@@ -166,6 +166,7 @@ wir uns zu den einzelnen Systemen wenden, wollen wir die Elemente der Bahnen in
 folgenden Tabellen zusammenstellen.
 
 <@pagebreak/>
+
 <table>
 <caption>Tab. 1. Entfernungen der Trabanten von den Hauptplaneten, in Theilen
 des Halbmessers derselben und in deutschen Meilen.</caption>
@@ -249,6 +250,7 @@ uns bei Gegenständen, deren Ursache wir nicht einsehn, nicht zu sehr, durch
 Analogie verleitet, gewagten Vermuthungen überlassen.
 
 <@pagebreak/>
+
 <table>
 <caption>Tab. 2. Siderische Umlaufszeiten, Neigung der Trabanten zu der
 Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
@@ -261,7 +263,7 @@ Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
 <tr><td> III.  7   3   42  33,4  </td><td>3  0 30 </td><td>314 24</td></tr>
 <tr><td>  IV. 16  16   31  49,7  </td><td>2 41 26 </td><td>316 39</td></tr>
 <tr><td>Saturnstrabanten.</td><td></td><td></td></tr>
-<tr><td>Ring. 4 -- 5 St.?</td><td rowspan="8" valign="middle">30°</td><td rowspan="8" valign="middle">170°38'</td></tr>
+<tr><td>Ring. 4 -- 5 St.?</td><td rowspan="8" style="vertical-align: middle;">30°</td><td rowspan="8" style="vertical-align: middle;">170°38'</td></tr>
 <tr><td>  "       10    32M.?</td></tr>
 <tr><td>   I.  0T.22St.37M.30,1S.</td></tr>
 <tr><td>  II.  1   8   53   8,7  </td></tr>
@@ -271,7 +273,7 @@ Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
 <tr><td>  VI. 15  22   41  13,9  </td></tr>
 <tr><td> VII. 79   7   54  37,4  </td><td>22°42'</td><td>148°40'</td></tr>
 <tr><td>Uranustrabanten</td><td></td><td></td></tr>
-<tr><td>   I.  5T.21St.25M.20,6S.</td><td rowspan="6" valign="middle">etwas mehr oder weniger als 90°</td><td rowspan="6"></td></tr>
+<tr><td>   I.  5T.21St.25M.20,6S.</td><td rowspan="6" style="vertical-align: middle;">etwas mehr oder weniger als 90°</td><td rowspan="6"></td></tr>
 <tr><td>  II.  8  16   57  47,5  </td></tr>
 <tr><td> III. 10  23    3  59    </td></tr>
 <tr><td>  IV. 13  10   56  29,8  </td></tr>
@@ -290,7 +292,7 @@ ist gleich dem dreifachen des zweiten. Z. B. die tägliche Bewegung
 <tr><td>des ersten Trabanten ist </td><td>6 Z 23°29'30"38</td></tr>
 <tr><td>die doppelte des dritten </td><td>3 " 10 38  7 08</td></tr>
 
-<tr><td align="right">      Summa</td><td>10 Z 4° 7'37"46</td></tr>
+<tr><td style="text-align: right;">      Summa</td><td>10 Z 4° 7'37"46</td></tr>
 <tr><td>die dreifache des zweiten</td><td>10 " 4  7 27 42</td></tr>
 
 <tr><td></td>                         <td>          10"04</td></tr>
@@ -396,40 +398,57 @@ durchschnitten und tritt nachher auf die andre Seite derselben, wo sie nach 7½
 Jahre wiederum 9½ Erdhalbmesser von ihr entfernt ist. Ein Raum von der Größe
 des Erdbahndurchmessers wird daher von ihr in weniger als einem Jahre
 <@pagebreak/>
-durchschnitten, und nur in dieser Zeit kann die Ebene des Ringes[???] zwischen
-der Sonne und der Erde durchgehen und für[???] uns unsichtbar sein. Zwar ist
-der von der Sonne beleuchtete Rand des Ringes uns immer zugekehrt allein die so
-äußerst geringe Dicke desselben, etwa ⅑ Sek., reicht nicht hin ihn uns sichtbar
-zu machen. Nur ein Fernrohr, wie Herschel es besaß, vermochte es, und dann
-zeigte er sich als ein äußerst zarter Silberfaden, woran die viel breitern
-Trabanten wie Perlen aufgereiht zu sein schienen. Herschel verlor also den Ring
-niemals aus seinen Augen. Indeß ist er auch für Andre gewöhnlich nur ¼ Jahr und
-unter den allerungünstigsten Umständen in 15 Jahren nur 9 Monate unsichtbar.
-Durch mittelmäßige Fernröhre sieht man oft nur die Enden des Rings als zwei
-glänzende Punkte; die übrigen Theile desselben sind unsichtbar, weil ihr Licht,
-wegen der Entfernung der beiden Arme des Rings, zu schwach ist und von dem
+durchschnitten, und nur in dieser Zeit kann die Ebene des Rings
+zwischen der Sonne und der Erde durchgehen und er
+uns unsichtbar sein. Zwar ist der von der Sonne erleuchtete
+Rand des Ringes uns immer zugekehrt
+allein die so äußerst geringe Dicke desselben, etwa ⅑
+Sek., reicht nicht hin ihn uns sichtbar zu machen.
+Nur ein Fernrohr, wie Herschel es besaß, vermochte
+es, und dann zeigte er sich als ein äußerst zarter
+Silberfaden, woran die viel breitern Trabanten wie
+Perlen aufgereiht zu sein schienen. Herschel verlor
+also den Ring niemals aus seinen Augen. Indeß ist
+er auch für Andre gewöhnlich nur ¼ Jahr und unter
+den allerungünstigsten Umständen in 15 Jahren nur
+9 Monate unsichtbar.  Durch mittelmäßige Fernröhre
+sieht man oft nur die Enden des Rings als zwei
+glänzende Punkte; die übrigen Theile desselben sind
+unsichtbar, weil ihr Licht, wegen der Entfernung der
+beiden Arme des Rings, zu schwach ist und von dem
 Glanze des Planeten verdunkelt wird.
 
-Es ist merkwürdig, daß die Hindostaner den Saturn mit Henkeln abbilden. Sollten
-sie das Dasein der Ringe schon vor der Erfindung der Fernröhre gekannt haben?
+Es ist merkwürdig, daß die Hindostaner den Saturn
+mit Henkeln abbilden. Sollten sie das Dasein der
+Ringe schon vor der Erfindung der Fernröhre gekannt
+haben?
 
-In seiner Bewegung um die Sonne sich den andren Planeten anschließend zeichnet
-sich *Uranus* in seinem Trabantensysteme von allen übrigen auf eine auffallende
-Weise aus. Die Uranustrabanten bewegen sich nämlich in fast senkrecht auf
-seiner Bahn stehenden Ebenen. Alle bis jetzt von uns betrachteten Himmelskörper
-bewegen sich in Bahnen die eine geringe Anzahl von Graden zur Ekliptik geneigt
-sind, und stets von der Sonne oder dem Hauptplaneten aus gesehn von Westen nach
-Osten, oder von Rechts zu Links, wenn der Beobachter im Aequator oder in der
+In seiner Bewegung um die Sonne sich den
+andren Planeten anschließend zeichnet sich *Uranus*
+in seinem Trabantensysteme von allen übrigen auf
+eine auffallende Weise aus. Die Uranustrabanten
+bewegen sich nämlich in fast senkrecht auf seiner Bahn
+stehenden Ebenen. Alle bis jetzt von uns betrachteten
+Himmelskörper bewegen sich in Bahnen die eine geringe
+Anzahl von Graden zur Ekliptik geneigt sind,
+und stets von der Sonne oder dem Hauptplaneten
+aus gesehn von Westen nach Osten, oder von Rechts
+zu Links, wenn der Beobachter im Aequator oder in der
 <@pagebreak/>
-Ekliptik[???] aufrecht steht, so daß sein Haupt nach Norden[???] gewandt ist.
-Zwar weichen einige Planetenbahnen und[???] die Bahnen der Saturnstrabanten
-schon bedeutend davon ab, aber sie sind noch immer rechtgängig. Sobald jedoch
-die Bahn senkrecht auf der Ekliptik ist, und sich der Stern weder rechtgängig
-noch rückgängig sondern von Norden nach Süden bewegt, so ist nur eine kleine
-Aenderung der Neigung nöthig um ihn rückgängig zu machen. Dieses scheint der
-Fall bei den Uranustrabanten zu sein; indeß kann ihre Bahn selbst nicht mit
-Herschels Rieseninstrumente, dem einzigen durch das man bis jetzt alle Theile
-des Uranussystems wahrnehmen konnte, genau bestimmt werden.
+Ekliptik aufrecht steht, so daß sein Haupt nach Norden
+gewandt ist. Zwar weichen einige Planetenbahnen
+und die Bahnen der Saturnstrabanten schon bedeutend
+davon ab, aber sie sind noch immer rechtgängig.
+Sobald jedoch die Bahn senkrecht auf der Ekliptik ist,
+und sich der Stern weder rechtgängig noch rückgängig
+sondern von Norden nach Süden bewegt, so ist nur
+eine kleine Aenderung der Neigung nöthig um ihn
+rückgängig zu machen. Dieses scheint der Fall bei
+den Uranustrabanten zu sein; indeß kann ihre Bahn
+selbst nicht mit Herschels Rieseninstrumente, dem
+einzigen durch das man bis jetzt alle Theile des
+Uranussystems wahrnehmen konnte, genau bestimmt
+werden.
 
 Herschel, dem man Alles verdankt, was man vom Uranus und seinen Trabanten weiß,
 glaubt auch 1798 ein Paar Ringe bemerkt zu haben, die sich rechtwinklig

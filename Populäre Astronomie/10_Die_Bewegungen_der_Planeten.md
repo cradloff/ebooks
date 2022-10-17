@@ -603,6 +603,7 @@ so sehr dem Mittelalter nähern, als wir es in andren Rücksichten versucht
 haben.
 
 <@pagebreak/>
+
 <table>
   <caption>Tab. 5. Größte und kleinste Entfernung der Planeten von der Erde in
 deutschen Meilen; kleinster und größter scheinbarer Durchmesser; synodischer

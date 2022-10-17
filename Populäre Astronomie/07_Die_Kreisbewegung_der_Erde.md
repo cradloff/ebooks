@@ -10,24 +10,43 @@ Jahre ihre Bahn um die Erde. Wenn wir den Stand der Sonne zwischen den Sternen
 mit dem Fernrohre verfolgen, so sehen wir sie nach Verlauf eines Tages etwa um
 1° nach Osten vorgerückt; sie entfernt sich
 <@pagebreak 86/>
-immer mehr von den Sternen, die sie
-umgaben, bis diejenigen nach Verlauf von sechs Monaten um Mitternacht an unserm
-Mittagskreise prangen, welche früher durch den Glanz der nahen Sonne verdunkelt
-wurden. Von jetzt an nähert sie sich ihnen immer mehr von der westlichen Seite,
-und nach neuen sechs Monaten hat die Sonne ihren Kreislauf vollendet, und
-befindet sich wieder in ihrer früheren Lage. Auch mit dem unbewaffneten Auge
-läßt sich ihre Bahn verfolgen. Die auf ihrem Wege befindlichen Sterne, die kurz
-nach ihr untergingen, verlieren sich bald in ihrem Lichte, bis sie nach einigen
-Tagen am östlichen Himmel, des Morgens vor Sonnenaufgang, wieder erscheinen,
-und indem die alten Astronomen auf diese Weise die verschiedenen Orte der Sonne
-zwischen den Sternen, und ihre Bewegung beobachteten, vermochten sie die Bahn
-der Sonne zu bestimmen; freilich konnten sie mit ihren unvollkommenen
-Instrumenten, [...] den Mangel eines besseren Zeitmaßes, als [...] Sanduhren
-gewährten, nicht [...] die mit ihren Fernröhren [...] der Zeit, und be-[...]
-Sternen ver-[...]
+immer mehr von den Sternen, die sie umgaben, bis
+diejenigen nach Verlauf von sechs Monaten um
+Mitternacht an unserm Mittagskreise prangen, welche
+früher durch den Glanz der nahen Sonne verdunkelt
+wurden. Von jetzt an nähert sie sich ihnen immer
+mehr von der westlichen Seite, und nach neuen sechs
+Monaten hat die Sonne ihren Kreislauf vollendet,
+und befindet sich wieder in ihrer früheren Lage.
+Auch mit dem unbewaffneten Auge läßt sich ihre Bahn
+verfolgen. Die auf ihrem Wege befindlichen Sterne,
+die kurz nach ihr untergingen, verlieren sich bald in
+ihrem Lichte, bis sie nach einigen Tagen am östlichen
+Himmel, des Morgens vor Sonnenaufgang, wieder
+erscheinen, und indem die alten Astronomen auf diese
+Weise die verschiedenen Orte der Sonne zwischen den
+Sternen, und ihre Bewegung beobachteten, vermochten
+sie die Bahn der Sonne zu bestimmen; freilich
+konnten sie mit ihren unvollkommenen Instrumenten,
+und durch den Mangel eines besseren Zeitmaßes, als
+ihnen ihre Wasser- und Sanduhren gewährten, nicht
+mit den Neueren wetteifern, die mit ihren Fernröhren
+und Pendeluhren die Sonne zu jeder Zeit, und besonders
+in den Kulminationen, mit den Sternen vergleichen
+können.
 
-[Seite 86 fehlt teilweise]
+Es bleibt auf den ersten Anblick zwar unentschieden,
+ob die Sonne sich um die Sterne, oder diese sich
+um jene bewegen; indeß fast dieselben Gründe, welche
+die Achsendrehung der Erde beweisen, entscheiden auch
+für die Bewegung der Sonne, und da hier keine
+Sinnentäuschung unser Urtheil besticht, so hat sie seit
+den ältesten Zeiten niemand bezweifelt.
 
+Die Sonnenbahn oder die *Ekliptik* ist nicht
+genau im Aequator, oder einem andren Parallelkreise,
+sondern ein um den Mittelpunkt der Erde laufender,
+also größter Kreis der Himmelskugel, welcher den
 <@pagebreak/>
 Aequator unter einem Winkel von 23½° schneidet. In diesem Kreise bewegt sie
 sich fast mit gleicher Geschwindigkeit von Westen nach Osten, theils in der

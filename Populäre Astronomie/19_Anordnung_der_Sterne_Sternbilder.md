@@ -217,6 +217,7 @@ letztern durch mehrere Ursachen auszeichnen; ferner in *ältere* und *neuere*, w
 dieser Unterschied für ihre Erklärung wichtig ist.
 
 <@pagebreak/>
+
 <table>
 <caption>Nördliche Sternbilder der Alten (23)</caption>
 <tr><td>Der kleine Bär</td><td>24</td><td>Der Pfeil</td><td>18</td></tr>
@@ -253,6 +254,7 @@ eingeführt worden. Es bleiben daher nur 21 Sternbilder.
 </table>
 
 <@pagebreak/>
+
 <table>
 <caption>Südliche Sternbilder der Alten (15).</caption>
 <tr><td>Der Wallfisch    </td><td>97</td><td>Der Becher        </td><td>21</td></tr>
@@ -369,6 +371,7 @@ Größe zählen, haben andre wol 20. Man rechnet gewöhnlich folgende zu ihnen.
 </table>
 
 <@pagebreak/>
+
 <table>
 <caption>In der südlichen Halbkugel (7). </caption>
 <tr><td><em>Rigel</em> im Orion;         </td><td><em>Acharnar</em> im Eridanus;</td></tr>
@@ -695,11 +698,84 @@ nördliche ist der Schwan — verdanken Royer (1679) ihr Dasein. Halley's *Eiche
 Karls II.* (1677) ist das zweite Denkmal dieses elenden Fürsten. Eher verdient
 noch Johann III. Sobieski, König von Polen, der berühmte Besieger der Türken,
 das Denkmal, das ihm Hevel (1690) in *Sobieski's Schilde* gesetzt hat.
+<@pagebreak/>
+Der *brandenburgische Szepter* rührt von Kirch
+her, die *Georgsharfe*, zu Ehren der englischen
+Könige gleiches Namens von hell, der *Einsiedler*,
+ein indianischer Vogel, auch wol als Eule abgebildet,
+von Le Monnier, die *Katze* von Lalande.
 
-[Seite 402 und 403 fehlt]
+Das größte Verdienst um die Beobachtung der
+südlichen Himmelshalbkugel, hat sich der französische
+Astronom *La Caille* durch seine Beobachtungen auf
+dem Vorgebirge der Guten Hoffnung erworben. Seine
+Sternbilder führen sämmtlich den Namen wissenschaftlicher
+Werkzeuge, bis auf den *Tafelberg*, den er
+nach seinem Beobachtungsorte benannt hat. Auf ähnliche
+Weise hat Lalande den *Luftball* und Bode
+die *Buchdruckerpresse*, die *Elektrisirmaschine*
+und die *Logleine* gebildet.
 
-<@pagebreak 404/>
-den Tag auf und unter, sondern sie beziehn sich auf den Lauf der Sonne und werden, weil
+Wir wenden uns nun zu der zwar am wenigsten
+zahlreichen, aber wichtigsten und berühmtesten
+Klasse von Sternbildern, zu denen des *Thierkreises*.
+Ihre Anzahl ist bei allen Völkern, deren Sernkunde
+sich auch nur einigermaßen ausgebildet hat,
+gleich der Anzahl der Monate im Jahre, also 12,
+so daß die Sonne in jedem Monate etwa *ein* Zeichen
+zu durchlaufen scheint. Es gab auch noch eine Entheilung
+des Thierkreises in 28 Theile, wovon der
+Mond täglich einen Theil durchlief, und ebenfalls eine
+große Rolle in der Astronomie spielte -- man
+nanne beide die Palläste der Sonne und des Mondes
+--; wir beschränken uns jedoch auf die erste
+Eintheilung.
+
+Wenn wir jetzt eine Himmelkarte oder einen
+Himmelsglobus betrachten, so sehn wir , daß sich der
+Aequator und die Ekliptik in der Jungfrau und in
+den Fischen durchschneiden. So war es aber, wie
+wir wissen, nicht immer, sondern vermöge der Bewegung
+der Nachtgleichen (S. 148.) rücken diese
+<@pagebreak/>
+Punkte jährlich 50"1 der Ordnung der Zeichen entgegen,
+so daß sie nach etwa 2160 Jahren um den
+12ten Theil oder ein ganzes Zeichen zurückgewichen
+sind. Wenn wir daher eine Himmelskugel oder einen
+Thierkreis vor uns sehen, worin die Punkte der
+Nachtgleichen von den unsrigen verschieden sind, und
+wir haben uns überzeugt, daß die Zeichnung nicht
+ein Werk des Zufalls oder die Folge von Ungenauigkeiten
+ist, sonder auf Beobachtungen beruht, so können
+wir leicht auf die Zeit schließen, in welcher sie
+verfertigt worden sind. Die Nachtgleichenpunkte seien
+z. B. 40° von den unsrigen verschieden; da dieses vor
+etwa 2880 Jahren oder 1050 Jahre vor Christi
+Geburt statt fand, so paßt der Thierkreis nur auf
+diese zeit. Auf die Verfertigung desselben läßt sich
+indeß aus dieser Betrachtung allein nicht mit Sicherheit
+schließen, da er ja einem ältern nachgeahmt sein
+kann. Gewöhnlich sind überdieß die Punkte der
+Nachtgleichen nicht deutlich angegeben, und lassen sich
+nur durch Vermuthungen bestimmen. Zur Entscheidung
+über die Erbauungszeit eines Thierkreises -- in
+dem Lande der Pyramiden sind auch Thierkreise gigantisch
+-- gehören daher nicht nur historische und
+antiquarische Untersuchungen, wie bei andren Ueberresten
+der Vorzeit, sondern auch astronomische. Diese
+kleine Abschweifung sei uns vergönnt, da gewiß viele
+meiner Zuhörer, die von dem Streite über den berühmten
+Thierkreis von Tentyra gehört haben, sich
+verwundern, theils wie ein solcher Streit überhaupt
+entschieden werden kann, theils wie er trotz
+der Bemühungen so vieler ausgezeichneten Männer
+noch nicht entschieden ist.
+
+Die Alten bestimmten häufig die Jahreszeit nach
+dem Auf- oder Untergang eines Gestirns. Es sind
+dieses nicht die täglichen, denn alle Sterne gehen jeden
+<@pagebreak/>
+Tag auf und unter, sondern sie beziehn sich auf den Lauf der Sonne und werden, weil
 sich ihrer vorzüglich die Dichter bedient haben, der *poetische Auf-* und *Untergang*
 der Gestirne genannt. Aber unter dieser Bezeichnung werden drei verschiedene
 Zeiten verstanden.
@@ -1070,6 +1146,7 @@ im zukünftigen Monate 4 Stunden vor Mitternacht. Nach diesen Grundzügen ist
 folgende Tabelle eingerichtet.
 
 <@pagebreak/>
+
 <table>
 <tr><td>Januar   </td><td>24</td><td>22</td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td></tr>
 <tr><td>Februar  </td><td>22</td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td></tr>
@@ -1099,7 +1176,7 @@ Sternhimmel, so wie er sich den 1sten August Abends 10 Uhr zeigt, kennen zu
 lernen. Die einzelnen Sternbilder sind jedoch auch zu andren Zeiten sichtbar.
 
 Unsre Karte gibt nun den Anblick des Himmels für jeden Tag im Jahre etwa 10½
-Uhr Abends<@refnote 1/>, und es ist immer der dem Namen des Monats und des Tages
+Uhr Abends<@refnote 1 "" ""/>, und es ist immer der dem Namen des Monats und des Tages
 anstoßende Theil bis etwa 50° über den Nordpol hinaus sichtbar; der
 entgegengesetzte Theil der Karte enthält dagegen die uns alsdann nicht
 sichtbaren Sterne. Den 15sten September 10 Uhr Abends sieht man z. B. die

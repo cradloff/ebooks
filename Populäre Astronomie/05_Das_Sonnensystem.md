@@ -274,7 +274,7 @@ Bahnen Juno bald der nächste, bald der entfernteste derselben, eine
 Verschlingung, die sich sonst im ganzen Sonnensysteme nicht findet. (S. die
 Kupfertafel I.)
 
-Noch unregelmäßiger ist die *Größe* der Planeten. Zwar ist Merkur d​er
+Noch unregelmäßiger ist die *Größe* der Planeten. Zwar ist Merkur der
 nächste und der kleinste der ältern Planeten, auch ist die Erde etwas größer
 als Venus, aber Mars ist kleiner als beide; von den drei oberen Planeten ist
 Uranus der kleinste, und Jupiter der größte von allen; die vier Mittelplaneten
@@ -297,11 +297,83 @@ die Kometen zwar nur eine untergeordnete und fast ephemere Rolle am Himmel,
 indeß haben ihre Bahnen die Grenzen des Sonnensystems für uns viel weiter
 hinausgerückt, als die Planeten, und wenn wir uns dasselbe als eine Kugel
 vorstellen wollen, welche die äußersten Punkte der weitesten Kometenbahnen
-berührt, so können wir ihren Halbmesser nicht kleiner, als 400 Er[?]
+berührt, so können wir ihren Halbmesser nicht kleiner, als 400 *Erdenweiten*,
+<@pagebreak/>
+oder Entfernungen der Erde von der
+Sonne, annehmen, also 8000 Mill. Meilen (S.53.);
+denn ein Komet, der von 1680, dessen Sonnenferne
+138 Erdweiten beträgt, ist mit völliger Sicherheit beobachtet,
+und wir haben keinen Grund anzunehmen,
+daß er die weiteste Entfernung habe; dem von 1811
+schreibt man sogar 450 Erdweiten zu. Ob in jenem
+ungeheuren Raume noch Planeten wallen, ist
+unbekannt; vielleicht wiederholen sich in diesem
+Mikrokosmus des Weltsystems noch einige Erscheinungen,
+die wir unter den Fixsternen bemerken, z. B. daß
+zwei oder mehrere Körper von fast gleicher Größe sich
+um einen gemeinschaftlichen Punkt -- den Schwerpunkt
+-- bewegen; oder es finden sich vielleicht Planeten,
+die, wie die Sonne, von Kometen umkreist
+werden. Auf keinen Fall ist jener Raum unnütz verschwendet;
+denn wenn auch nicht Millionen Kometen
+ihn in allen Richtungen durchkreuzen, so würde die
+Selbstständigkeit des Sonnensystems einer weiten
+Entfernung von jeder andern Sonne bedürfen, wenn
+überhaupt eine solche Selbstständigkeit nothwendig
+oder nützlich ist.
 
-[Seite 66 und 67 fehlt]
+Auf eine scharfsinnige Art hat man die *Achsendrehung*
+vieler Himmelskörper erkannt. Die Körper
+bewegen sich nicht um einen außerhalb befindlichen
+Punkt, sondern um eine durch ihren Mittelpunkt
+gehende Linie. Es ist die Bewegung einer Rolle oder
+einer Kugel, die man an zwei Punkten fest hält.
+Je näher ein Theil des Körpers dieser Linie ist, desto
+langsamer bewegt er sich, und am raschesten sind die
+von ihr am weitesten entfernten Theile der Oberfläche.
+Der Körper verändert dabei im Ganzen seine Lage
+nicht, und der äußere Beobachter wird die Achsendrehung
+nimmer wahrnehmen können, wenn ihm nicht
+die Verschiedenheiten der Oberfläche sich als helle oder
+<@pagebreak/>
+dunkle Flecken über die Scheibe zu bewegen scheinen.
+Fast bei allen Körpern, deren Größe so feine Beobachtungen
+erlaubt, sind Flecken und Achsendrehung bemerkt
+worden, und auch bei vielen andren, wo die
+einzelnen Flecken nicht unterschieden werden konnten,
+wie bei vielen Trabanten und Fixsternen, bringt die
+größere oder geringere Anzahl der Flecken einen Unterschied
+der Farbe und des Lichts an den verschiedenen 
+Theilen der Oberfläche hervor. Die Zeit, die
+bis zur Wiederkehr der Flecken an denselben Ort der
+Scheibe verfließt, ist die *Dauer* der Achsendrehung,
+wobei man freilich die durch unsre und des Körpers
+fortschreitende Bewegung veränderte Lage wohl
+berücksichtigen muß.
 
-<@pagebreak 68/>
+Die größte Schwierigkeit besteht darin, die
+unbeweglichen von den beweglichen Flecken zu unterscheiden;
+denn auch diese, ähnlich den irdischen Wolken,
+zeigen sich als dunkle Stellen, deren Bewegung
+aber ganz andren Gesetzen, als denen der Achsendrehung
+gehorcht. Hier sucht man nun durch vergleichende Beobachtungen
+vieler Flecken, wovon vielleich nicht *einer*
+sich ganz regelmäßig bewegt, die gemeinschaftliche
+Bewegung herauszufinden.
+
+Mit dieser Untersuchung eng verknüpft ist die
+*Topographie* der Himmelskörper. Die Aufsuchung
+und Zeichnung der einzelnen Flecken, die Entwerfung
+von Karten ist keinesweges eine leichte Aufgabe, indem
+Veränderungen in der Atmosphäre der Erde und
+des Sterns, und viele in der Oberfläche des Gestirns
+waltenden Kräfte die Gestalt und Farbe häufig abändern.
+Man hat sich aber nicht darauf beschränkt, bloß
+die horizontalen Begrenzungen der Flecken zu beobachten,
+sondern man hat sogar aus der Lage und der Stärke der
+Beleuchtung und der Länge der Schatten die höhe
+der Berge und die Tiefe der Thäler berechnet, ja
+<@pagebreak/>
 Spuren von organischen Wesen aufgesucht und vielleicht gefunden, und Hypothesen
 darauf gegründet, über deren Kühnheit man erstaunen muß, wenn man ihre schwache
 Grundlage betrachtet. Es ist natürlich, daß so specielle Untersuchungen nur auf
