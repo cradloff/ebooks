@@ -1,3 +1,4 @@
+ = 	—
 [-—]“[-—]	—
 °	«
 !1	!!
@@ -52,6 +53,9 @@
 \bvor!\b	dort
 \bwirft\b	wirst
 \bWir\.	Mr.
+c\)	ch
+d\)	ch
+e\)	ch
 i[cd]\)	ich
 iM	ich
 no[cd]\)	noch
@@ -65,6 +69,7 @@ Nr,	Nr.
 \?\s[1!]	?!
 …\s[1!]	…!
 …\s[2k][!1]	…?!
+scj	sch
 si[cd]\)	sich
 …\sk\b	…?
 ßz	tz

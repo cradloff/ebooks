@@ -13,7 +13,7 @@ Ich habe bereits im vorigen Band erwähnt, daß das
 Städtchen Lammerty bei Nordwind zumeist in Nebel und
 dünne Rauchschwaden gehüllt ist. Diese Rauchschwaden
 rühren von einem unterirdisch brennenden Teile des Lammerty-Hochmoores,
-Besty Barry genannt her. 8000 Quadratmeter
+Besty Barry genannt, her. 8000 Quadratmeter
 umfaßt dieses in den Tiefen des Torfmoores seit
 Menschengedenken wütende Feuer, und die Oberfläche von
 Besty Barry ist zu jeder Jahreszeit so heiß, daß kein Halm
@@ -24,7 +24,7 @@ felsigen Hügelreihe begrenzt, in der sich die Tokkara-Höhlen
 hinziehen.
 
 Ich muß dies alles hier nochmals erwähnen, da es zum
-Verständnis des folgenden nötig ist. Außerdem dürfte es
+Verständnis des Folgenden nötig ist. Außerdem dürfte es
 aber auch angebracht sein, die Nerven des Lesers durch diese
 Randbemerkungen ein wenig zur Ruhe kommen zu lassen. —
 
@@ -180,11 +180,11 @@ stand. »Das Geheimnis der Tokkara-Höhlen hat viele Seiten,
 die noch kein Mensch umgeblättert hat — wenigstens kein
 ehrlicher Mensch außer Lord John und uns. Lionel Barring
 kennt diesen Backofen natürlich und nun verstehe ich
-auch seine Bemerkung über Lord James Selbstmord. — Die
+auch seine Bemerkung über Lord Johns Selbstmord. — Die
 Hitze hier ist fraglos eine Folge des brennenden Besty-Barry-Moors.
 Und …«
 
-Er schwieg, packte meinen Arm…
+Er schwieg, packte meinen Arm …
 
 Flüsterte: »Da — da huschte soeben etwas vorüber —
 dort hinten …«
@@ -196,7 +196,7 @@ Clement.
 »Komm,« sagte er leise.
 
 Wir gingen ein paar Schritt nach Norden zu. Da lag …
-Ein Haufen Kohlblätter, geschnitzte Rüben und ein
+ein Haufen Kohlblätter, geschnitzelte Rüben und ein
 Häufchen Hafer.
 
 Und — zwischen den Kohlblättern saß ein kleines
@@ -233,7 +233,7 @@ Flucht aus dem Schlosse plötzlich einen völligen Nervenzusammenbruch
 erlitt. Ihre Weibernatur hatte doch
 schließlich von all den Aufregungen kapituliert. In bedenklichstem
 Zustande wurde Maria Gould damals zu Pfarrer
-Mallaray transportiert. —
+Wellery transportiert. —
 
 Und nun hier — — ein Kaninchen! Hier in der unbekannten
 Nebenhöhle der Tokkara-Höhlen, in denen nach Frau
@@ -364,7 +364,7 @@ Tisch und Stuhl, nahm die eine Laterne mit und hoffte in
 der heißen Grotte oben einen Ausgang ins Freie zu finden.
 Ich wanderte mutig dahin — immer weiter — trotz der
 Hitze, die mir fast den Atem benahm. Kaninchen liefen vor
-mir davon. Ich wußte nicht, daß…«
+mir davon. Ich wußte nicht, daß …«
 
 »Und dann überfiel die Riesenschlange Sie?«
 
@@ -398,11 +398,11 @@ Harald rauchte ebenfalls, sagte nun:
 
 »Jetzt sollen Sie vernehmen, Mylord, was sich in Schloß
 Gnir zugetragen hat. Sie werden sich hoffentlich inzwischen
-soweit erholen, daß Sie uns nachher bis an den Abgrund
+so weit erholen, daß Sie uns nachher bis an den Abgrund
 begleiten können …«
 
 »Niemals! Nie wieder betrete ich die Schlangengrotte!«
-rief Lord John ehrlich. »Das können Sie nach dem
+rief Lord John ehrlich. »Das können Sie nach dem,
 was ich dort erlebt habe, nicht verlangen!«
 
 Harst nickte. »Ihre Weigerung ist verständlich, Mylord.
@@ -474,11 +474,11 @@ dieser Gattung gehörte das gut sechs Meter lange Ungeheuer
 an) auf uns zu …
 
 <@pagebreak/>
-»Auf die Stelle dicht unter dem Kopf zielen«, schrie
+»Auf die Stelle dicht unter dem Kopf zielen!«, schrie
 Harald und riß mich zurück, stand still, feuerte …
 
 Das blecherne Peng Peng der Pistolenknalle hallte
-überlaut in der Grotte wieder, weckte ein vielfaches Echo …
+überlaut in der Grotte wider, weckte ein vielfaches Echo …
 
 Und auch ich drückte wieder ab …
 
@@ -495,7 +495,7 @@ mit einem fortwährenden blitzschnellen Hin- und Herschleudern
 des Leibes, mit förmlichen Sprüngen …
 
 Und während dieses Todeskampfes fortwährend das
-Dröhnen des metallenen Kopfes, der an die Felsen stieß… —
+Dröhnen des metallenen Kopfes, der an die Felsen stieß … —
 
 Harst machte dem grauenvollen Schauspiel ein Ende
 indem er keck sich näher wagte und durch die leeren Augenöffnungen
@@ -518,7 +518,6 @@ Statue. Wäre es nicht Metall gewesen, hätte die Boa
 es leicht zerschlagen können.
 
 Staunend sah ich mir diese seltsame Maskerade an.
-
 <@pagebreak/>
 Ich begriff nicht, was für einen Zweck sie haben könnte.
 
@@ -550,7 +549,7 @@ Ich äußerte diese Bedenken auch unverhohlen.
 »Oh — Barring wird die Schlangen irgendwie betäubt
 haben,« meinte Harald. »Das läßt sich durch die verschiedenartigsten
 Mittel bewerkstelligen. — Doch, — jetzt …
-weiter … Wir dürfen uns hier nicht länger aufhalten.«
+weiter …! Wir dürfen uns hier nicht länger aufhalten.«
 
 <@pagebreak/>
 
@@ -596,7 +595,7 @@ breiten Schlundes nach der Möglichkeit eines Abstiegs zu
 untersuchen.
 
 Nach zehn Minuten fand Harald an der Ostwand der
-Höhle eine Stelle die weniger schroff abfiel. Er ließ die
+Höhle eine Stelle, die weniger schroff abfiel. Er ließ die
 eine Laterne an dem Strick herab und stellte fest, daß eine
 Menge Zacken und Vorsprünge, Risse und schmale Grate
 einen gefahrvollen, aber immerhin gangbaren Weg in die
@@ -621,7 +620,7 @@ Zwischen Schluchtwand und dem Wasserlauf war ein
 freier Streifen Geröll von durchschnittlich ein Meter Breite.
 Wir folgten dem Flusse, der nach Osten zu dahinströmte,
 bis an einen hohen Tunnel, in dem er schäumend verschwand,
-um dort — wer weiß wo — wieder zu erscheinen.
+um dann — wer weiß wo — wieder zu erscheinen.
 
 Dies äußerte ich auch zu Harald.
 
@@ -630,7 +629,7 @@ Dies äußerte ich auch zu Harald.
 wo er wieder zu Tage tritt. — Hinein ins Wasser! Tief
 kann es nicht sein!«
 
-Es reichte uns nur bis zu den Hüften. Wir drangen
+Es reichte uns nur bis zu den Hüften. — Wir drangen
 in den Tunnel ein. Schritt für Schritt tastete Harald sich
 vorwärts. Die Decke über uns senkte sich oft so tief, daß
 wir uns fast bis auf die Wasseroberfläche vorbeugen mußten.
@@ -660,10 +659,10 @@ dicht daneben.
 »Hallo — das ist ja der alte James!« rief Harald
 erstaunt.
 
-Es war James, der Diener des Pfarrers Mallony aus
+Es war James, der Diener des Pfarrers Wellery aus
 Lammerty! Derselbe James, den wir im Verdacht gehabt
-hatten, daß er mit Lionel Barring im Bunde stände! Der
-selbe James, der mit dem greisen Baptiste aus dem Schlosse
+hatten, daß er mit Lionel Barring im Bunde stände! Derselbe
+James, der mit dem greisen Baptiste aus dem Schlosse
 so eng befreundet war! —
 
 James stierte uns wie Gespenster an.
@@ -684,7 +683,7 @@ noch?!«
 — Ein paar Fragen, James. — Dies hier ist ein Schmugglerwarenlager?«
 
 »Ja … — Aber — Sie … Sie werden doch nichts
-verraten, Mr. Harst …«, flehte der Alte weinerlich.
+verraten, Mr. Harst …,« flehte der Alte weinerlich.
 »Schmuggeln ist doch keine Sünde, Mr. Harst. Ich selbst
 bin ja heute auch nur zufällig hier.«
 
@@ -825,7 +824,7 @@ Baptistes Kopf war herumgeschreckt. Wie abwehrend
 hatten seine Arme sich uns entgegengestreckt. Dann erkannte
 er uns, erhob sich rasch, ließ die Arme sinken und nahm die
 <@pagebreak/>
-unterwürfige Haltung eines gut geschulten Bedienten an, der
+unterwürfige Haltung eines gutgeschulten Bedienten an, der
 sein Knechtstum seit Jahrzehnten wie etwas Selbstverständliches
 trägt.
 
@@ -840,7 +839,7 @@ Groubby? Weshalb, lieber Baptiste? Haben Sie ein
 schlechtes Gewissen?«
 
 Der Greis trat mehr in den Schatten zurück. Er war
-rot geworden. »Schlechtes Gewissen..?!«, stammelte er
+rot geworden. »Schlechtes Gewissen …?!«, stammelte er
 mit einem kläglichen Versuch, recht harmlos zu erscheinen.
 
 Harst wandte sich langsam mir zu. »Wir müssen uns
@@ -873,7 +872,7 @@ Willenskraft auf und erwiderte heiser und undeutlich: »Ich
 — ich weiß nichts von einem Fremden, Mr. Harst, — gar
 nichts weiß ich.«
 
-Harald nahm mir mit kaum merklichen Achselzucken das
+Harald nahm mir mit kaum merklichem Achselzucken das
 Buch aus der Hand, rückte sich einen Stuhl an den Tisch
 und legte das Buch — es war eine englische Prachtausgabe
 der Gedichte Heinrich Heines — vor sich hin.
@@ -910,7 +909,7 @@ recht lange?«
 Der Graukopf stöhnte, schlug die Hände vor das verzweifelte
 <@pagebreak/>
 Gesicht. »Haben — — haben Sie’s denn gefunden,
-Mr. Harst?«, murmelte er.
+Mr. Harst?,« murmelte er.
 
 »Ja, Seite 106, aus dem Liederzyklus »Die Heimkehr,«
 Nummer 57, die beiden letzten Zeilen sind … unterpunktiert.«
@@ -923,7 +922,7 @@ zuraunte.«
 
 »Und — was flüsterte *er*?«
 
-»Daß… daß um fünf Uhr heute morgen die Entscheidung
+»Daß … daß um fünf Uhr heute morgen die Entscheidung
 fallen würde — Punkt fünf Uhr …«
 
 Harald faßte des Alten Hand. »Baptiste, wer ist der
@@ -961,8 +960,8 @@ Gehirnerschütterung davon, und ein weiteres Spiel des Zufalls
 wollte es, daß ich kurz darauf auf dem Heimweg
 von …« — er stockte — »von … Bekannten ihn auffand.«
 
-»Auf dem Heimweg von der Schlangenhöhle,« ergänzte
-Harald. »Sprechen Sie nur weiter Baptiste.«
+»Auf dem Heimweg von der Schmugglerhöhle,« ergänzte
+Harald. »Sprechen Sie nur weiter, Baptiste.«
 
 »Es war eine fürchterliche Sturmnacht damals, Mr.
 Harst,« stotterte der Alte verwirrt. »Als ich Toms leises
@@ -993,13 +992,13 @@ Armer Vater, armer Baptiste. Thomas hat in dem Gedicht
 folgendes unterpunktiert:
 
 > »… Nahn sich mir die Höllenmächte,
-Und ich schieß mich tot im Ernst.«
+Und ich schieß mich tot im Ernst.««
 
 Mit einem winselnden Aufschrei schnellte der alte
 Mann auf …
 
-»Meine … meine Ahnung!«, jammerte er. »Ich —
-ich muß…«
+»Meine … meine Ahnung!,« jammerte er. »Ich —
+ich muß …«
 
 Er wollte davonrennen … — Harst hielt ihn zurück,
 blickte auf die große Standuhr der Bibliothek, eine elektrische
@@ -1014,7 +1013,7 @@ Und die Standuhr war … zehn Minuten vor fünf.
 <h3>Lionel, der Großmütige.</h3>
 
 »Baptiste, eilen Sie uns voran — auf dem kürzesten
-Wege zu dem Versteck Ihres Sohnes!«, befahl Harald in
+Wege zu dem Versteck Ihres Sohnes!,« befahl Harald in
 leichter Erregung.
 
 Alverson und ich fieberten förmlich. Baptiste zitterte,
@@ -1054,7 +1053,7 @@ Ich hatte meine Uhr in der Hand.
 
 Es war … zwei Minuten vor fünf.
 
-»Tom — Tom — —!!«, kreischte der Greis in
+»Tom — Tom — —!!,« kreischte der Greis in
 wildester Angst. »Tom — tu’ es nicht! Denk’ an Maria!!«
 
 So brüllte er ins Leere hinein …
@@ -1079,7 +1078,7 @@ Kante des Gesteinbodens standen in dieser Öffnung zwei
 Männer, von denen der eine auf den anderen mit erhobener
 Pistole zielte …
 
-»Zurück!«, donnerte Lionel Barring uns zu. »Zurück
+»Zurück!,« donnerte Lionel Barring uns zu. »Zurück
 — oder dieser Lump, der den Bund verraten wollte, der
 plötzlich Gewissensbisse bekam, lebt keine Sekunde länger!«
 
@@ -1109,7 +1108,7 @@ Stunde hier,« rief Barring triumphierend. »Stand und
 trauerte er seinem verlorenen Liebesglück nach! Ahnte nicht,
 daß zwei Augenpaare ihn von unten her entdeckt hatten.
 Und — so fand ich denn endlich — endlich den Verräter
-hier in seinem Versteck auf! Längst hatte ich vermutet, daß…«
+hier in seinem Versteck auf! Längst hatte ich vermutet, daß …«
 
 Der Wind trug da plötzlich den ersten Schlag der Turmuhr
 bis in die Höhle hinein …
@@ -1126,10 +1125,10 @@ die drohende Waffe. Barrings Augen aber glitten unaufhörlich
 blitzschnell von seinem Opfer zu uns hin — von uns
 zu Thomas Gould, der regungslos an dem Gestein lehnte.
 
-Baptiste sank plötzlich mit einem gurgelnden Laut in
+Baptiste sank plötzlich mit einem winselnden Laut in
 die Knie.
 
-»Erbarmen — Erbarmen!«, kreischte er. »Mylord,
+»Erbarmen — Erbarmen!,« kreischte er. »Mylord,
 ich habe Ihrem Vater und Ihnen sechsunddreißig Jahre treu
 gedient …! Mylord — es ist mein Sohn, den Sie töten
 wollen, — — mein einziges Kind!«
@@ -1170,7 +1169,7 @@ Woche verschwunden. Dann, als wir bereits wieder in
 Berlin waren, meldete sich die … große Null wieder. Und
 — — der Kampf ging weiter …
 
-Nächster Band:
+<#import "*/harst.ftl" as harst>
 
-__Die große Null__
+<@harst.naechsterband band="Die große Null." />
 
