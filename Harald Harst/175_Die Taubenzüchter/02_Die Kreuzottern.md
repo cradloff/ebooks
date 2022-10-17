@@ -63,7 +63,7 @@ alles … Damals maß ich dem unvollendeten Satz keinerlei
 Bedeutung bei. Heute kann ich ihn mir nur dahin ergänzen:
 
 > »Die Ottern werden dich doch noch erwischen — töten
-— — oder: so ähnlich …«
+— — oder so ähnlich …«
 
 Das heißt also: Es muß einen Geheimbund geben,
 der sich als geheimes Zeichen der »Otternhemden« bedient,
@@ -169,7 +169,7 @@ hier den farbigen Doktor beseitigten …« — Und er trat
 ins Freie hinaus, wo der ausgestirnte Nachthimmel bereits
 Morgendämmerung vortäuschte …
 
-Aber wie suchten umsonst …
+Aber wir suchten umsonst …
 
 Was wir bemerkten, waren ältere Fährten, und was
 Harald dann schließlich doch entdeckte, waren lediglich Beweise
@@ -378,7 +378,7 @@ nahmen wir unsere leichten Mäntel und zogen in die Dünen
 zu einem ergiebigen Nachmittagsschlaf …
 
 Fanden auch eine Mulde, in der einzelne Stauden
-Strandhafer angenehme Kopfkissen abgaben und strecken uns
+Strandhafer angenehme Kopfkissen abgaben und streckten uns
 lang hin, ließen uns von Mutter Sonne braten und schlummerten
 auch sehr bald ein.
 
@@ -446,7 +446,7 @@ Und jetzt — — die erste Nachricht des Bundes an uns.
 
 Jetzt konnte ich ihn beobachten, wie er mit jener Sorgfalt,
 die ihm stets eigen, im nahen Walde nach der Kiefer
-suchte, vorn der der Ast abgeschnitten war …
+suchte, von der der Ast abgeschnitten war …
 
 Er entschwand meinen Blicken …
 
@@ -619,7 +619,7 @@ Dann sagte ich leise:
 <@pagebreak/>
 »Nicht?!«
 
-»Nein …? Die Dinge liegen nicht so einfach, als du
+»Nein …! Die Dinge liegen nicht so einfach, als du
 glaubst … Ich habe so meine besondere Vermutung, die ich
 freilich erst nachprüfen muß … — Machen wir kehrt …«
 
@@ -663,7 +663,7 @@ die man ihm schon verzeihen muß?! —
 Jetzt hatten wir einen der Gräben dicht an der Waldgrenze
 erreicht …
 
-Keine fünfzig Meter lag am Ufer eine Moorkahn mit
+Keine fünfzig Meter lag am Ufer ein Moorkahn mit
 einer Stoßstange darin … Da weit und breit niemand zu
 sehen war, kletterte Harald schleunigst in das plumpe Ding
 hinein und hieß auch mich einsteigen …
@@ -753,7 +753,7 @@ Er schwieg plötzlich …
 Sprach aber sofort in demselben Tone weiter:
 
 »Der dunkle Lappen, der da vor dem kleineren Stallfenster
-hängt, bewegte ein ganz wenig … Ich sah auch die
+hängt, bewegte sich ganz wenig … Ich sah auch die
 Finger, die den Vorhang beiseite geschoben hatten … Es
 ist also ein Mensch im Stalle … Vielleicht gar Goudsmith.«
 
@@ -807,7 +807,7 @@ Und meiner Taschenlampe greller Lichtkegel fiel in die
 Zelle hinein, fiel auf die wollenen Decken, die uns als Lager
 gedient hatten …
 
-Auf diesen Teer lag ein Mensch … Lag auf der Seite
+Auf diesen Decken lag ein Mensch … Lag auf der Seite
 … Schlief … schlief wie ein Toter … schnarchte leise …
 
 Ein Fremder …
@@ -853,7 +853,7 @@ und sich dicht vor diese Öffnung gesetzt. Ich neben ihm …
 So saßen wir denn und warteten …
 
 Worauf, — — ich ahnte es so ganz entfernt … Vielleicht
-auf einen des Ottern—Bundes, auf den Baron Erwin
+auf einen des Ottern-Bundes, auf den Baron Erwin
 Balitzki … Vielleicht …!
 
 Und dann … bewegten sich die Büsche und Sträucher
@@ -1241,7 +1241,7 @@ noch Stunden hin … Zu vieles gab’s, was mich beschäftigte
 <@pagebreak/>
 … Hauptsächlich die Ottern!! »Tadellos gedeichselt,«
 so hatte Harald sich ausgedrückt … — Also schien die Szene
-im Gewölbe das nur Spiegelfechterei gewesen zu sein?! —
+im Gewölbe doch nur Spiegelfechterei gewesen zu sein?! —
 Unmöglich — — unmöglich!! Ausgeschlossen, daß man zum
 Beispiel etwa nur eine Puppe in den Moortümpel geworfen
 hatte — — ausgeschlossen!! Dieser Mord an Ernest Goudsmith
@@ -1251,7 +1251,7 @@ Und — das sollten die Balitzkis getan haben?! — Freilich —
 gegen sie sprach der Lanzenzettel, sprach auch noch anderes:
 unser Überwohner Günter von Balitzki.
 
-Und dann — schlief ich das ein …
+Und dann — schlief ich doch ein …
 
 Dann träumte ich, daß man mich selbst in einen Moortümpel
 werfen wollte … Ich verteidigte mich mit aller
@@ -1438,7 +1438,7 @@ vergrämt und verzweifelt in die Ruine zurückgezogen hatte,
 den Schmuggel sofort beenden und schnell auch den Rest
 der Steine fortschaffen … Der Mulatte, eine sehr habgierige
 Natur, dazu noch in Fräulein Bessy auf seine Art
-verliebt, weigerte ein entschieden, das lohnende Geschäft aufzugeben,
+verliebt, weigerte sich entschieden, das lohnende Geschäft aufzugeben,
 und überraschte uns beide denn auch als Lauscher,
 schlug uns nieder und hatte fraglos die Absicht, uns …
 für immer verschwinden zu lassen … Sie, Herr Goudsmith,

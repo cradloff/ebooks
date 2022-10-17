@@ -52,7 +52,7 @@ Ich las folgendes:
 
 <p class="pre right">»Ludau bei Kranz,
 Samland, Ostpr.,
-den 3. Juni 19.</p>
+den 3. Juni 19...</p>
 
 <p class="centered">Sehr geehrter Herr Harst!</p>
 
@@ -71,8 +71,8 @@ der mir eigentlich recht sympathisch war — — war! — Er
 pachtete also das Totenmoor auf zwei Jahre, ließ sich von
 einer Königsberger Firma dort auf der höchsten und sichersten
 Stelle des Moores ein Blockhaus errichten, das fertig und
-auseinandernehmbar geliefert wurde und nebenbei einen
-ebensolchem Stall.
+auseinandernehmbar geliefert wurde und nebenbei einem
+ebensolchen Stall.
 
 In acht Tagen waren die Gebäude fix und fertig.
 
@@ -309,7 +309,7 @@ Wirtin glaubte uns und meldete uns als Hommel und
 Schnierke an, wobei ihr nur das Mißgeschick passierte, daß
 sie auf dem Anmeldezettel statt Hommel Hammel gelesen hatte
 und nun Freund Harald mit konstanter Bosheit mit »Herr
-Hammel« anredete, obwohl Harst mit feinsten Rede sie auf
+Hammel« anredete, obwohl Harst mit feinster Rede sie auf
 diese Verwechslung zweier Buchstaben aufmerksam machte
 … Hammel schien ihr eben geläufiger zu sein, und wenn sie
 schon mal zufällig Hommel sagen wollte, wurde sie wieder
@@ -348,7 +348,7 @@ daß der Förster des Barons zu schweigen verstand, denn der
 wußte ja, daß sein Herr die Einsiedler dort in der Mückenwildnis
 durchaus nicht für harmlos hielt. —
 
-Um Nachmittag dieses 7. Juli unternahmen Herr Hommel
+Am Nachmittag dieses 7. Juli unternahmen Herr Hommel
 und sein Freund Schnierke einen Spaziergang durch das
 Moor, bewaffnet mit Schmetterlingsnetzen und Botanisiertrommeln.
 Unsere eigentliche Bewaffnung war die übliche:
@@ -490,7 +490,7 @@ Mauerreste, dick mit Moospolstern überzogen …
 
 Und in Augenhöhe etwa ein Fensterloch mit einem Vorhang
 <@pagebreak/>
-Hang von Brombeerranken, durch die man bequem hindurchlugen
+von Brombeerranken, durch die man bequem hindurchlugen
 konnte … hinein in eine Art Hofraum …
 
 Wir sahen’s auf den ersten Blick: es war dies die Ruine
@@ -524,7 +524,7 @@ trug und ein mehr pikantes als schönes Gesicht hatte,
 dem freilich ein gewisser Liebreiz nicht abzusprechen war, —
 dieses junge Wesen hatte jetzt die Hände von dem tränenfeuchten
 Antlitz sinken lassen und rief dem schlanken Manne
-mit fragenden Stimme zu:
+mit fragender Stimme zu:
 
 »Sie müssen mir versprechen, zu schweigen, Herr Baron
 … Sie müssen!! Es wäre besser, Sie hätten mich hier nie
@@ -685,7 +685,7 @@ die den Weg nach Westen eingeschlagen, ihrer
 Heimat, dem holländischen Grenzdorfe Vallenpiep wieder
 zuflogen und vielleicht an ihren Flügeln wie Brieftauben etwas
 <@pagebreak/>
-mit sich führten … Was jedoch?! Es konnte ein dabei nur
+mit sich führten … Was jedoch?! Es konnte sich dabei nur
 um ganz leichte Gegenstände handeln! Ich hatte gemeint,
 Goudsmith sei vielleicht Banknotenfälscher … Und die Tauben
 beförderten eben die Falsifikate über die deutsch-holländische
@@ -1547,7 +1547,7 @@ Bessy erblaßte abermals bis in die Lippen …
 »Nein — nein, Herr Harst, danach dürfen Sie nicht
 fragen! — Nein, — das ersparen Sie mir …!! Als ich
 die leuchtende Schrift erblickte, ging’s mir wie ein Blitz
-durchs das Hirn … — Nein, hierüber verweigere ich die
+durch das Hirn … — Nein, hierüber verweigere ich die
 Aussage … Machen Sie mit mir, was Sie wollen …!! Mag
 das Gericht mich einsperren …! Mag …«
 
