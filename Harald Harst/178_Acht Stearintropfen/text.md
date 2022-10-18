@@ -145,7 +145,7 @@ anspruchsvoll … —
 Da nun Wilm Ollenprick mit seinen Falkenaugen den
 »Schweinigel« trotz mehrfacher Nachtwachen nicht hatte entdecken
 können, wollten wir mal unsere Augen auf die Probe
-stellen. Vielleicht waren sie besser als die des alten Seebären,
+stellen. Vielleicht waren sie besser als die des alten Seebären.
 
 Mitternacht war’s nun …
 
@@ -355,7 +355,7 @@ Nicht auf uns etwa. Denn er lag mit seinem Fernglas schon
 auf der Lauer, als wir uns dem angelnden Käpten näherten.«
 
 Wir sahen jetzt links am Wege eine Kantine, die für die
-Hier ankernden fremden Fischkutter errichtet war.
+hier ankernden fremden Fischkutter errichtet war.
 
 Da die wenigen Tische unter dem Sonnensegel vor der
 Kantine leer waren, da wir auch Durst hatten und die liebe
@@ -381,7 +381,7 @@ harmlosen Sparren … Er leidet an Gespensterfurcht …«
 »Was Sie sagen?!« lächelte nun auch Harald. »Na —
 <@pagebreak/>
 so alte Seeleute sind ja alle etwas abergläubisch … —
-»Kennen Sie denn den Käpten genauer?«
+Kennen Sie denn den Käpten genauer?«
 
 »Und ob! Meine Mutter ist ja bei ihm Aufwärterin …
 Und nur deshalb weiß ich, daß sein Schlafzimmer unten
@@ -501,7 +501,7 @@ Umzug ohne Weiterungen. Mittags ein Uhr machten wir
 es uns in den Hempelschen Zimmern bequem. —
 
 Die »Acht Stearintropfen« hatten sich bisher als recht
-ungefährlich bewiesen. Doch das sollte sich urplötzlich ändern,
+ungefährlich bewiesen. Doch das sollte sich urplötzlich ändern.
 
 Denn als ich Harald nun, während wir unsere Kleider
 aus den Koffern packten, fragte, weshalb er denn vorhin
@@ -517,8 +517,8 @@ stürzte …
 
 Harald lächelte über mein geistlos-verblüfftes Gesicht …
 
-»Dja, lieber Alter,« meinte er noch leiser, — da staunst
-du!« Man muß eben Augen haben … Eine lange Angelrute,
+»Dja, lieber Alter,« meinte er noch leiser, — »da staunst
+du! Man muß eben Augen haben … Eine lange Angelrute,
 ein Blechbüchschen an der Spitze dieser Rute, gefüllt
 mit heißem Stearin, — ein Giebelfenster in des Käptens
 Häuschen und ein Mann, der die Rute bediente, — — das
@@ -644,7 +644,7 @@ Zunächst trat sie aus den Büschen ins Freie und spähte
 umher …
 
 Als ihr die Luft ringsum völlig rein dünkte, begann sie
-Zwischen den Sträuchern etwas im Sande zu verscharren …
+zwischen den Sträuchern etwas im Sande zu verscharren …
 
 Es war die Luftbüchse …
 
@@ -672,7 +672,7 @@ Jacke ein Stück Leinwand verborgen gehabt, hüllte die Waffe
 ein und machte kehrt …
 
 »Jetzt gebe ich für Ollenpricks Leben keinen Pfifferling
-Mehr,« sagte Harald mit überaus ernstem Gesicht … »Jetzt
+mehr,« sagte Harald mit überaus ernstem Gesicht … »Jetzt
 <@pagebreak/>
 werden wir energisch eingreifen müssen! Zunächst — sehen
 wir, was Jenny und die Hagere tun …«
@@ -722,7 +722,7 @@ Eine wahrhaft tadellos durchgeführte Theaterszene …!
 
 Zumal der Hauptwitz dabei war, daß die Hopfenstange
 ihren Roman auf den Malkasten gelegt und ihn nachher mitzunehmen
-vergessen hatte!«
+vergessen hatte!
 
 <@pagebreak/>
 Wir beide paßten wie die Schießhunde auf …
@@ -899,7 +899,7 @@ Ich roch und zuckte die Achseln …
 
 »Allerdings — sehr scharf! Wir werden es mal chemisch
 untersuchen … — Buch und Tasche lassen wir hier liegen
-— Oder nein, wir nehmen sie mit und werfen sie irgendwohin,
+… Oder nein, wir nehmen sie mit und werfen sie irgendwohin,
 wo sie gefunden werden müssen … Das Lesezeichen
 lassen wir in dem Roman liegen … Die goldene Brosche
 behalten wir vorläufig … Der Raubanfall muß glaubhaft
@@ -944,7 +944,7 @@ und Konsorten werden sich wundern …!«
 Wir bogen in die Dorfstraße ein. Uns war Osternothafen
 ja längst bekannter Boden …
 
-Und kehrten dann gegen sieben Uhr zu Hempels zurück,
+Und kehrten dann gegen sieben Uhr zu Hempels zurück.
 
 Im Flur trafen wir Fräulein Jenny … Sie grüßte
 kühl und förmlich …
@@ -1172,7 +1172,7 @@ Sie, wer die Schüsse abfeuerte?«
 wenn ich den verdammten heimtückischen Schuft …«
 
 <@pagebreak/>
-»… — kein männlichen Schuft, Ollenprick, — ein
+»… — kein männlicher Schuft, Ollenprick, — ein
 Weib!«
 
 Der Käpten stierte Harald ungläubig an …
@@ -1187,7 +1187,7 @@ Hempel?«
 »Hempel …?! Nein … Ich kannte mal einen August
 Hempel … Aber das sind gut dreißig Jahre her … Der
 war damals in Bombay Buchhalter … Und ich hatte mit
-ihm des öfteren als Kapitän dienstlich Zu tun …«
+ihm des öfteren als Kapitän dienstlich zu tun …«
 
 »Bei Ihnen wohnen doch Badegäste,« sprang Harst nun
 auf das andere Thema über … »Maler sind’s … Auch die
@@ -1206,7 +1206,7 @@ worden ist?«
 und ihren Roman verloren … Beides wurde jedoch gefunden
 und ihr wieder zugestellt …«
 
-»und als sie gestern abend nach Hause kam, trug sie den
+»Und als sie gestern abend nach Hause kam, trug sie den
 Windschleier um die Schultern?«
 
 »Nein — sie hatte ihn um den Kopf gewickelt, und das
@@ -1461,7 +1461,7 @@ meiste jedoch Raritäten …
 
 Harald, noch immer recht mangelhaft bekleidet, stöberte
 <@pagebreak/>
-Überall umher. Jedes Stück interessierte ihn. Als ich andeutete,
+überall umher. Jedes Stück interessierte ihn. Als ich andeutete,
 daß es vielleicht ratsam sei, den Schreibtisch zu durchsuchen,
 erklärte er:
 
@@ -1921,8 +1921,8 @@ Bestimmtheit an. — Da wir die Antwort verweigern werden,
 dürften die Herrschaften vielleicht etwas brutaler vorgehen,
 was unsere Behandlung betrifft. Um dies zu verhindern,
 empfiehlt es sich, daß wir unsere Fesseln abstreifen. Wir
-Haben zwar versprochen, nicht zu fliehen, und ganz artig
-Still zu sein, nicht aber, auch diese Stricke um die Handgelenke
+haben zwar versprochen, nicht zu fliehen, und ganz artig
+still zu sein, nicht aber, auch diese Stricke um die Handgelenke
 länger als nötig zu dulden. — Bitte — knote mir
 die Stricke auf …!«
 
@@ -1933,7 +1933,7 @@ Pistolen zunächst in die Jackentaschen …
 
 Das heißt: man vergesse nicht, daß ich noch immer das
 Kostüm der Frau Backstich trug und das Jackentasche bei
-mir Kleidertasche bedeutete. bisher hatte ich meine Clement
+mir Kleidertasche bedeutete. Bisher hatte ich meine Clement
 im Unterrock befestigt gehabt.
 
 Harald schaltete seine Taschenlampe ein … (Er hatte vor
@@ -2066,7 +2066,7 @@ Erhielt ein Trinkgeld und verschwand …
 
 Die Depesche war Freund Becherts Antwort auf Haralds
 Anfrage — eine chiffrierte Depesche, die Harst in kurzem dann
-Übertragen hatte …
+übertragen hatte …
 
 Bechert meldete:
 
@@ -2198,7 +2198,7 @@ Und Ollenprick brüllte jetzt:
 <@pagebreak/>
 Gesindel, was es wissen wollte …! Ich hatte die Adresse
 mit Bleistift auf der Innenseite des ablösbaren Unterteils
-Des Kästchens notiert — vor Jahren …!!«
+des Kästchens notiert — vor Jahren …!!«
 
 »Und — sie lautet?«
 
@@ -2207,7 +2207,7 @@ Ollenprick lachte wie ein Irrsinniger …
 »Sie lautet … ja — jetzt muß ich’s sagen … Sie lautet:
 
 > Saßnitz, Insel Rügen, Bergstraße 2, bei Witwe Olga
-Wernicke.
+Wernicke.«
 
 <h2>3. Kapitel.</h2>
 <h3>Frau Karlas Schuld.</h3>
@@ -2215,7 +2215,7 @@ Wernicke.
 Am selben Tage neun Uhr abends …
 
 Über der Ostsee lagerte bereits der rosige Schein des
-Beginnenden Sonnenuntergangs …
+beginnenden Sonnenuntergangs …
 
 Das Meer war nur schwach bewegt …
 
@@ -2236,13 +2236,13 @@ Gebilde aus Schminke, Bärten, Perücken, angeklebten Augenbrauen,
 durch Wachs umgeformten Nasen und so weiter. —
 
 Also — — die Motorjacht »Swine«, die der Käpten von
-Seinem Bekannten, dem Baurat, ausgeliehen hatte, jagte
+seinem Bekannten, dem Baurat, ausgeliehen hatte, jagte
 mit uns gen Rügen … —
 
-Die etwas erregte Szene Zwischen Harald und dem Käpten,
+Die etwas erregte Szene zwischen Harald und dem Käpten,
 mit der ich das vorige Kapitel geschlossen habe, löste sich
 nachher in Wohlgefallen auf, da Harst mit gewohnter Energie
-Sich sofort zu tatkräftigem Handeln aufraffte.
+sich sofort zu tatkräftigem Handeln aufraffte.
 
 <@pagebreak/>
 Und das, was er anordnete, gab uns die Gewißheit, daß
@@ -2337,7 +2337,7 @@ euch ein wenig nervös, weil ich mit dem Fernglas nicht genau
 erkennen konnte, ob’s die Medusa auch wirklich war …
 Nun glaube ich’s bestimmt …«
 
-»und — — woher?!« fragte Ollenprick etwas verständnislos
+»Und — — woher?!« fragte Ollenprick etwas verständnislos
 …
 
 »Weil ich soeben am Hafeneingang hier ein kleines Beiboot
@@ -2359,7 +2359,7 @@ Der Insasse trug Matrosentracht und war ein kleiner, sehniger
 Kerl … Ohne Zweifel Peter Patra, der dritte Intimus
 Herbert Rings …
 
-Ganz dicht schlängelte er sich an der »Swine« vorüber,
+Ganz dicht schlängelte er sich an der »Swine« vorüber.
 
 Und gerade da rief Harald dem Käpten zu:
 
@@ -2406,7 +2406,7 @@ einem kleinen villenartigen Hause halt, das in einem Garten
 lag und von vier mächtigen Kastanien beschattet wurde.
 
 Vorn eine große Glasveranda … Darüber im ersten Stock
-ein Balkon, der ganz von blühenden Blumen umgeben war,
+ein Balkon, der ganz von blühenden Blumen umgeben war.
 
 Ollenprick zeigte auf die Hausnummer …
 
@@ -2529,7 +2529,7 @@ Ollenprick und ich mit unseren Taschenlampen hinterdrein
 
 »Wo ist die Vase?« fragte Harald …
 
-»Der Käpten deutete in eine Ecke, wo halb hinter einem
+Der Käpten deutete in eine Ecke, wo halb hinter einem
 Wandschirm auf schwarzer Säule dieses prachtvolle alte Erzeugnis
 japanischer Töpferkunst, mit frischen großen Mohnblüten
 gefüllt, uns mit seinen köstlichen Farben nunmehr
@@ -2711,7 +2711,7 @@ Blank verschwunden, ebenso Ihre Freunde … — Trotzdem
 behaupte ich, daß Sie irgendwo mit Herbert Ring ein Stelldichein
 vereinbart haben …«
 
-»oh — hätte ich es nur getan!« klagte Patra kläglich.
+»Oh — hätte ich es nur getan!« klagte Patra kläglich.
 »Denn — was habe ich nun von all der Mühe, die ich auf
 mich genommen habe, — von diesen wochenlangen Spitzeldiensten?!
 Nichts — — nichts!! Nicht ein einziger Edelstein
@@ -2993,8 +2993,8 @@ Und — — wir beide, Harald und ich, die wir als erste
 emporgeklommen waren, sahen voller Grauen dort in der
 Tiefe der Schlucht einen Haufen regloser Gestalten … —
 
-Am nächsten Tage war in allen deutschen Zeitungen Zu
-Lesen, daß fünf Touristen, die nachts auf dem Wege von
+Am nächsten Tage war in allen deutschen Zeitungen zu
+lesen, daß fünf Touristen, die nachts auf dem Wege von
 Stubbenkammer nach Saßnitz von einem Gewitter überrascht
 worden waren, von einem Blitze in eine der tiefsten
 Kalksteinschluchten geschleudert und nur als Leichen geborgen
