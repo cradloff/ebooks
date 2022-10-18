@@ -1,3337 +1,3170 @@
 <@pagebreak/>
- 
+
 <@pagebreak/>
-W6ieDSC/ASCHEI/ LI. LL € (6
-Nachdruc> verboten. =- Alle Rechte, einſchl. das Verfiänkungs5-
-recht, vorbehalten. -- Copyright 1926 by VerlHdg axoverne1
-Leitüre G. m. b. H., Berling9/959, Matierstr.
+Nachdruck verboten. — Alle Rechte, einschl. das Verfiänkungs5-recht,
+vorbehalten. — Copyright 1926 by Wertlos axoverne1
+Verhöre G. in. b. H., Berling9/959, Unterste.
 
-I ? AU N 63
+? Au N 63
 
-98 8 A
-maſter kabel. 7: SEPT 104
+98
+Master Kabel. 7: Art 104
 
-Wilm Ollenpricks Inſei.
+Wilm Ollenpricks Insel.
 
-1. Kapitel.
+<h2>1. Kapitel.</h2>
 
-Der Sciffskapitän a. D. Wilhelm OllenpriFX war glücklich.
+<h3>Der Schiffskapitän a. D. Wilhelm OllenpriFX war glücklich.</h3>
 
-Wir ſaßen in der Weinlaube vor ſeinem Häusc<hen,: das da
-ſo gemütlich am rechten Ufer der Swine liegt, mit Ausſicht
-auf Fluß, Hafen und Leuchtturm ...
+Wir saßen in der Weinlaube vor seinem Häuschen,: das da
+so gemütlich am rechten Ufer der Swine liegt, mit Aussicht
+auf Fluß, Hafen und Leuchtturm …
 
-Wir ſaßen im Halbdunkel ... Nur durc das eine Zimmer=
-fenſter, wo die elektriſ<e De>enlampe brannte, fiel ein breiter
-Lichtſirom über den Laubentiſch und die Bowle und die alten,
-geſchliffenen Römer.
+Wir saßen im Halbdunkel … Nur durch das eine Zimmerfenster,
+wo die elektrische Deckenlampe brannte, fiel ein breiter
+Lichtstrom über den Laubentisch und die Bowle und die alten,
+geschliffenen Römer.
 
-Harſt nahm einen langen Shlu> der köſtlichen Erdbeers
-bowle und erwiderte ſinnend:
+Harst nahm einen langen Schluck der köstlichen Erdbeerbowle
+und erwiderte sinnend:
 
-„Sie haben doch ſicherlich in Ihrem Leben mancderlet
-GSonderbares kennen gelernt, Ollenpri> . .. Erzählen Sie uns
+»Sie haben doch sicherlich in Ihrem Leben mancherlei
+Sonderbares kennen gelernt, Ollenprick … Erzählen Sie uns
 als Dank dafür, daß Ihre Sonnenuhr jetzt nicht mehr- mit
-Siearin beträufelt wird, und daß niemand mehr mit einer
-Luftbüchſe nach Ihnen ſchießt, das ſeltſamſte Erlebnis aus
-Ihrem fünfzigjährigen Seemann8daſein ... Es muß aber
+Stearin beträufelt wird, und daß niemand mehr mit einer
+Luftbüchse nach Ihnen schießt, das seltsamste Erlebnis aus
+Ihrem fünfzigjährigen Seemann8dasein … Es muß aber
 
- 
+auch wirklich etwas Seltsames und … etwas Wahres sein,
+Freund Käpten … Kein Schiffslatein, keine Seemünchausiade!«
 
-auc< wirklic) etwas Seltſames und ... etwas Wahres ſein,
-Freund Käpten ... Kein Sciffslatein, keine Seemünc»
-haufiade!“
+Ollenprick kniff die Dinge etwas zu und qualmte mächtige
+Wolken aus seiner Piep …
 
-Oilenpri> kniff die Tinge etwas zu und qualmte mächtige
-Wolken aus ſeiner Piep .
-Det. 179. 1
 <@pagebreak/>
-2BE00DOB820D202020SS 29 02020820 0BD020202080SDs
+»Im — etwas Seltsames … Dja — das ist schwer, lieber
+Harst, denn Sie Und in dieser Weg Ziehung verdammt verwöhnt
+… Aber … — etwas habe ich doch mal erlebt, das ich stets
+ganz für mich behalten habe … Denn — — es hätte mir ja
+doch niemand die Geschichte geglaubt …«
 
-„Im -- eiwa3 Seltſames . . Dja -- das iſt ſchwer, lieber
-Harſt, denn Sie Jind in dieſer Bez ziehung verdammt verwöhnt
-. Aber ... = etwa38 habe ich doch mal erlebt, das ich ſtets
-ganz für mid) behalten habe ... Denn -=- -- es hätte mir ja
-doch niemand die Geſchichte geglaubt ...“
+»Wenn sie nur wahr ist!« schmunzelte Harald …
 
-„Wenn ſie nur wahr iſt!“ ſ<munzelte Harald ...
+»Mein Wort darauf,« meinte der alte Käpten sehr ernst
 
-„Mein Wort darauf,“ meinte der alte Käpten ſehr ernſt
+… »Mein Wort darauf, daß die Insel existiert, wenn sie
+auch auf keiner Seekarte verzeichnet ist …«
 
-. „Mein Wort darauf, daß die Inſel exiſtiert, wenn ſie
-aud) auf keiner Seekarte verzeihnet iſt ...“
+Als Ollenprick so von einer Insel zu sprechen begann,
+konnte ich, Max Schraut, eine Handbewegung der Enttäuschung
+nicht ganz unterdrücken.
 
-Als Ollenpri> ſo von einer Inſel zu ſpreHhen begann,
-konnte ih, Max Schraut, eine Handbewegung der Enitäu=
-ſh<ung nicht ganz unterdrücken.
+Der Käpten sah’s …
 
-Der Käpten ſah's .
+Sagte: »Schraut, auch Sie werden bei meiner Erzählung
+auf Ihre Kosten kommen … auch Sie! — — Also hören
+Sie … — Es war im Jahre 1914, im Juni. Da lag ich
+mit meinem Frachtdampfer im Hafen von Madras … Der
+Dampfer müßte ins Dock, damit die am Schiffsboden wuchernden
+Muscheln mal gründlich entfernt würden … Ich hatte
+also volle acht Tage nichts zu tun und unternahm deshalb mit
+dem Großboot des Dampfers, das vorzüglich segelte, einmal
+eine längere Tour in den Meerbusen von Bengalen. Außer
+mir waren nur noch zwei malerische Matrosen auf dem Boot.
 
-Sagte: „Schraut, auch Sie werden bei meiner Erzählung
-auf Ihre Koſten kommen ... auc<ß Sie! -- -- Ulſo hören
-Sie ... = Es war im Jahre 1914, im Zuni. Da lag ich
-mit meinem Frachtdampfer im Hafen von Madras ... Der
-Dampfer müßte ins Do>, damit die am Schiffsboden wuchern»
-den Muſc<heln mal gründlich entſernt würden ... I< hatte
-alſo volle a<t Tage nicht3 zu tun und unternahm deshalb mit
-dem Großboot des Dampfers8, das vorzüglich ſegelte, einmal
-eine längere Tour in den Meerbuſen von Bengalen. Außer
-mir waren nur noh zwei maleiiſche Matroſen auf dem Boot.
-
-NatürliH hatten wir das übliche Pech ... Sturm kam
-auf, ſteigerte ſich zum Orkan, und eine niederträchtige Woge
-ſpülte mir meine beiden -Begleiter über Bord ...
+Natürlich hatten wir das übliche Pech … Sturm kam
+auf, steigerte sich zum Orkan, und eine niederträchtige Woge
+spülte mir meine beiden -Begleiter über Bord …
 
 Arme Kerle! Es war nachts, und an Rettung nicht zu
-benken ... IcH mußte froh ſein, daß das Boot vor dem Winde
-dahinjagte und ich niht auch zu viel Waſſer ſchluckte ...
+denken … ich mußte froh sein, daß das Boot vor dem Winde
+dahinjagte und ich nicht auch zu viel Wasser schluckte …
 
-Morgen8 ließ der Orian nach ...
+Morgens ließ der Oman nach …
 
-Und mit einem Male war die Sonne da, und ich er=
-bli>te ein paar Seemeilen vor mir ein kleines Felſeninſelhen
-mit grünen Bäumen ...
+Und mit einem Male war die Sonne da, und ich erblickte
+ein paar Seemeilen vor mir ein kleines Felseninselhen
+mit grünen Bäumen …
 
-IH rieb mir ordentliH die Augen, denn ich glaubte zu
-träumen ...
+Ich rieb mir ordentlich die Augen, denn ich glaubte zu
+träumen …
 
-Wußte ich doch genau, daß es hier im BengaliſH<en Meer=
+Wußte ich doch genau, daß es hier im Bengalischen Meerbusen
 <@pagebreak/>
-DSSSSSSSSSSS 3 0202000050 2002022D
+unmöglich an- dieser Stelle eine Insel geben könnte …
 
-buſen unmöglich an- dieſer Stelle eine Inſel geben könnte ...
+Ich umrundete das hätte Ding, das ich auf zweitausend
+Meter Durchmesser schätzte …
 
-Ih umrundete das lütte Ding, das ich auf zweitauſend
-Meter Durchmeſſer ſchätzte ...
+Da war denn auch an der Ostseite eine schmale Bucht …
 
-Da war denn aud an der Oſtſeite eine ſHmale Bucht ...
+Ich steuere die Bucht an, komme in einen kleinen, waldumgebenen
+Binnensee …
 
-IH ſteuere die Bucht an, komme in einen kleinen, wald=
-umgebenen Binnenſee ..
+Das reine Paradies, meine Herren! Da waren Papageien,
+lustige Affen, — kurz, da tummelten sich auf und im Wasser
+und auf dem Lande so ziemlich alle harmlosen Vertreter des
+Tierreichs der Tropen umher …
 
-Das reine Paradies, meine Herren! Da waren Bapageien,
-luſtige Affen, -- kurz, da tummelten ſih auf und im Waſſer
-und auf dem Lande ſo ziemlich alle harmloſen Vertreter des
-Tierreichs der Tropen umher .
+Ich war erstaunt über diese Menge Viehzeug …!
 
-IH war erſtaunt über dieſe Menge Viehzeug ..!
+Na — ich sollte noch weit mehr staunen …!!
 
-Na = ich ſollte no< weit mehr ſtaunen ..!!
+Ich landete …
 
-Ih landete ... '
+Und mit einem Male kommt da aus den Büschen ein
+splitternackter kleiner Junge hervor …
 
-Und mit einem Male kommt da aus den Büſchen ein
-ſplitterna>ter kleiner Iunge hervor ...
-
-Strammes, braungebranntes Kerlchen, höchſtens drei Jahre
+Strammes, braungebranntes Kerlchen, höchstens drei Jahre
 alt.
 
-Dieſer Knirps bleibt ſtehen, beäugt mich und kräht dann
-in deutſcher Sprache:
+Dieser Knirps bleibt stehen, beäugt mich und kräht dann
+in deutscher Sprache:
 
-„Du mußt hier wieder weg, fremder Mann! Hier darf
-niemand landen ..!“
+»Du mußt hier wieder weg, fremder Mann! Hier darf
+niemand landen …!«
 
-Ih lache, daß mir rein die Puſte wegbleibt ...
+Ich lache, daß mir rein die Puste wegbleibt …
 
-Dann ſage ich:
+Dann sage ich:
 
-„Mein Jung', ih bin auh ein Deutſcher ... Und zwar
-der Käpten Wilhelm OllenpriäX .,. Wer biſt du denn, kleiner
-Landsmann?“
+»Mein Jung’, ich bin auch ein Deutscher … Und zwar
+der Käpten Wilhelm OllenpriäX … Wer bist du denn, kleiner
+Landsmann?«
 
-„Das weiß ich nicht, Fremder,“ erwidert der Kleine. „Und
-danach darfſt du auch gar nicht fragen ... Du mußt ſchnell
-wieder davonſegeln ... Wenn dich Iupp und Strupp ſehen,
-töten ſie did. Sie haben nocH keinen Menſchen, der hier
-landete, lebend wieder weggelaſſen ...“ -- Nun, Sie können
-ſiH wohl denken, lieber Harſt, welhen EindruF dieſe War=
-nung des Kindes auf mich alten Seebären machte: gar keine!
+»Das weiß ich nicht, Fremder,« erwidert der Kleine. »Und
+danach darfst du auch gar nicht fragen … Du mußt schnell
+wieder davonsegeln … Wenn dich Trupp und Strupp sehen,
+töten sie dich. Sie haben noch keinen Menschen, der hier
+landete, lebend wieder weggelassen …« — Nun, Sie können
+sich wohl denken, lieber Harst, wollen Eintrat diese Warnung
+des Kindes auf mich alten Seebären machte: gar keine!
 
-I<h lachte ... Der kleine braungebrannte Kerl war ja
-au<h zu ulkig ...
+Ich lachte … Der kleine braungebrannte Kerl war ja
+auch zu ulkig …
 
-„Wer ſind denn Iupp und Strupp?“ fragte iG aber»
+»Wer sind denn Trupp und Strupp?« fragte ich abermals,
 <@pagebreak/>
-DSSSSSDSSSSSS ii OSSSOSDSDBDSDSSOSD
+indem ich für alle Fälle in die Tasche faßte und meine
+Mauserpistole hervorholte …
 
-mals, indem ich für alle Fälle in die Taſche faßte und meine
-Mauſerpiſtole hervorholte ...
+Der Knirps gute die Pistole an und schnitt ein höchst
+geringschätziges Gesicht …
 
-Der Knirps gute die Piſtole an und ſchnitt ein höchſt
-geringſc<häßziges Geſicht ...
+Erwiderte nur: »Fremder — — verschwinde!! Mit
+Jupp und Strupp ist nicht zu spaßen — gar nicht zu spaßen?!«
 
-Erwiderte nur: „Fremder = =- verſhwinde!! Mit
-Jupp und Strupp iſt nicht zu ſpaßen =- gar nicht zu ſpaßen?!“
+Nun wurde mir aber die Geschichte doch zu dumm …
 
-Nun wurde mir aber die Geſchihte doH zu dumm ...
+Ich trat noch näher an den kleinen blonden Bengel heran,
+der mir im übrigen ausgezeichnet gefiel …
 
-IH trat noh näher an den kleinen blonden Bengel her=
-an, der mir im übrigen ausgezeichnet gefiel ...
+Da war das Bürschlein aber auch schon wie ein Blitz
+in den Sträuchern untergetaucht, indem er mehrmals sehr
+schrill und überraschend laut »Kai — Kai!!« rief …
 
-Da war das Bürſchlein aber auch ſhon wie ein Bliß
-in den Sträuchern untergetaucht, indem er mehrmals ſehr
-ſchrill und überraſchend laut „Kui -- Kui!!“ rief ...
+In das Dickicht getraute ich wirr doch nicht hinein …
+Denn ich sagte mir, daß dieses Kai — Kai wohl eine Art
+Alarmsignal sei …
 
-In das Dickicht getraute ih micr doch nicht hinein ...
-Denn ich ſaate mir, daß dieſes Kui =-- Kui wohl eine Urt
-Alarmſignal ſei ...
+So stand ich denn und musterte mißtrauisch die Büsche,
+als rechts von mir auf ein paar kahlen, steilen Felsen plötzlich
+der Knirps in Begleitung eines genau so großen und
+ebenfalls splitternackten Mädelhens auftauchte …
 
-So ſtand ich denn und muſterte mißtrauiſch die Büſche,
-als rechts von mir auf ein paar kahlen, ſteilen Felſen plötz=
-lig der Knirps in Begleitung eines genau ſo großen und
-ebenfalls ſpliiternackten Mädelhens auftauchte ...
+Die Kinder schneller einander so auffallend, daß im mir
+sofort dachte, es müßten Zwillinge sein …
 
-Die Kinder ähnelten einander ſo auffallend, daß im mir
-ſofort dachte, es müßten Zwillinge ſein ...
+Sie gaben mir jetzt beide durchs lebhafte Zeichen zu verstehen,
+im solle schleunigst fliehen. Dies lag nun durchaus
+nicht in meiner Absicht, denn ich ahnte, daß es sich hier um
+ein Rätsel ganz besonderer Art handeln müsse, dessen Eigenart
+von? durch den Umstand verstärkt wurde, daß diese Insel
+ohne Zweifel völlig unbekannt sein — müsse, was immerhin
+glaubhaft erschien, weil sie weit außerhalb der den Meerbusen
+von Bengalen durchschneidenden Dampferlinien lag und weil
+die Küstenfischer sich niemals so weit vom Lande weg wagen,
+um dieses felsige Eiland etwa wie ich durch einen Zufall entdecken
+zu können.
 
-Sie gaben mir jetzt beide durc<g lebhafte Zeichen zu ver=
-ſtehen, im ſolle ſchleunigſt fliehen. Dies lag nun durchaus
-nicht in meiner Abſicht, denn ich ahnte, daß es ſich hier um
-ein Rätſel ganz beſonderer Art handeln müſſe, deſſen Eigen=
-art noM2 dur< den Umſtand verſtärkt wurde, daß dieſe Inſel
-ohne Zweifel völlig unbekannt ſein - müſſe, was immerhin
-glaubhaft erſchien, weil ſie weit außerhalb der den Meerbuſen
-von Bengalen durchſchneidenden Dampferlinien lag und weil
-die Küſtenfiſcher ſi niemals ſo weit vom Lande weg wagen,
-um dieſes felſige Eiland etwa wie iH dur< einen Zufall ent=
-deden zu können.
+Nein, ich hatte keineswegs die Absicht, die Insel zu verlassen,
+bevor ich nicht in Erfahrung gebracht, was es mit
+diesen Kindern auf sich haben könnte.
 
-Nein, ich hatte keine8weg8 die Abſicht, die Inſel zu ver=
-laſſen, bevor iM nicht in Erfahrung gebracht, was es mit
-dieſen Kindern auf ſi haben könnte.
-
-Immerhin bewies mir das Benehmen der naten, blon=
+Immerhin bewies mir das Benehmen der nahen, blonden
 <@pagebreak/>
-DSEEBSSEBSDISSSS 35 DOE EDEDISIODOODOSD
+Zwillinge, daß mir tatsächlich Gefahr drohte. Und als
+ich dann noch aus den Tiefen der Inselwälder jetzt dasselbe
+schrille Kai—Kai vernahm, merkte ich, daß sich Leute näherten,
+die im mir doch besser vom Boote aus ansehen wollte.
 
-den Zwillinge, daß mir tatſächlih Gefahr drohte. Und als
-ich dann nod) aus den Tiefen der Inſfelwälder jetzt dasſelbe
-ſchrille Kui=-Kui vernahm, merkte ich, daß ſich Leute näherien,
-die im mir doch beſſer vom Boote aus anſehen wollte.
+So kletterte ich denn wieder in mein Fahrzeug hinein.
+und hielt meine Pistole schußbereit.
 
-So kletterte iM denn wieder in mein Fahrzeug hinein.
-und hielt meine Piſtole ſhußbereit.
+Das laute, schrille Kai—Kai kam näher und näher …
 
-Das laute, ſchrille Kui=-Kui kam näher und näher ...
+Die Kinder winkten immer eifriger …
 
-Die Kinder winkten immer eifriger ...
+Ich weiß nun nicht, Herr Harst, ob Sie jemals in
 
-Ich weiß nun nicht, Herr Harſt, ob Sie jemals in
+— Australien waren …«
 
-- Auſtralien waren ...“
+»Gewiß, Käpten,« nickte Harald eifrig. »Wir waren dort
+-»… Und ich glaube zu ahnen, weshalb Sie danach fragen
+… Kai — Kai ist der Jagdruf der Australneger. Das ist uns
+sehr wohl bekannt …«
 
-„Gewiß, Käpten,“ nickte Harald eifrig. „Wir waren dort
--„.. Und ich glaube zu ahnen, we8halb Sie danach fragen
-.. Kui = Kui iſt der Jagdruf der Auſtralneger. Das iſt uns
-jehr wohl bekannt ...“
+Ollenprick trank sein Bowlenglas leer und meinte dann:
 
-Ollenpri> trank ſein Bowlenglas leer und meinte dann:
+»Gut, wenn Sie über die Bedeutung dieses Kai — Kai
+unterrichtet sind, dann kann ich fortfahren … Also ich hörte,
+daß die Stimmen sich rasch näherten. Ich erwartete jeden
+Moment, daß Jupp und Strupp aus den Büschen hervorschossen
+würden. Aber plötzlich verstummten die Rufe, die
+Kinder kletterten rang der Waldseite zu von dem Felsen
+herab, wurden unsichtbar und — — gleichzeitig flog ein
+halbzentnerschwerer Stein haarscharf an meinem Kopfe vorüber,
+schlug gegen den Mast und fiel polternd ins Boot …
 
-„Gut, wenn Sie über die Bedeutung dieſes Kui = Kui
-unterrichtet ſind, dann kann ich fortfahren ... Alſo ich hörte,
-daß die Stimmen ſi< raſc< näherten. I<h erwartete jeden
-Moment, daß Jupp und Strupp aus den Büſchen hervor=
-krießen würden. Aber plößlich verſtummten die Rufe, die
-Kinder kletterten naMg der Waldſeite zu von dem Felſen
-herab, wurden unſichtbar und = -- gleichzeitig flog ein
-halbzentnerſ<werer Stein haarſcharf an meinem Kopfe vor»
-über, ſc<lug gegen den Maſt und fiel polternd ins Boot ...
+Ein zweiter folgte …
 
-Ein zweiter folgte ...
+Und wenn ich mich nicht schleunigst geduckt hätte, wäre
+mein Schädel zu Brei zerschmettert worden …
 
-Und wenn ich mid) nicht ſchleunigſt gedu>t hätte, wäre
-mein Schädel zu Brei zerſchmettert worden ...
-
-Raſch ergriff ih den Boots8haken und ſtieß vom Land ab,
+Rasch ergriff ich den Bootshaken und stieß vom Land ab,
 verfolgt von einem weiteren Steinbombardement, dem ich
-ſelbſt i=“-“<rn wehrlos gegenüberſtand, 3l8 im do<F; unmöglich
-auf gut Glü> in die Büſche hineinfeue«." konnte . ... Ich ſah
-ja nichts von meinen Gegnern, und mußte fürchten, wo=
-möglich die Kinder zu verletzen.
+selbst ich	—»-»hin wehrlos gegenüberstand, 3l8 im Docht; unmöglich
+auf gut Glück in die Büsche hineinfeue«.« konnte … Ich sah
+ja nichts von meinen Gegnern, und mußte fürchten, womöglich
+die Kinder zu verletzen.
 
-Nachdem ich außer Wurſweite war, nahm ie) mein Ferns=
-glas und muſterte den Saum der Büſche, erkannte auch ein=
-mal flüchtig ein ſchwarzes Geſicht, das jedo< ebenſo gut ein
+Nachdem ich außer Durchwehte war, nahm ich mein Trinkglas
+und musterte den Saum der Büsche, erkannte auch einmal
+flüchtig ein schwarzes Gesicht, das jedoch ebenso gut ein
 <@pagebreak/>
-DSSSSSSSSSSS 6 DSSS D0D0ID20SBDSIO20S
-
-großer Affe wie ein Auſtralnigger hätte ſein können ...
-' SdhließliH hißte im die Segel und begann die Inſel
-no<hmals zu umrunden, fand an der Weſtſeite eine zweite
-Bucht, deren Eingang durch Niffreihen verde>t war, ſteuerte
-hinein und fand hier in der ſich ebenfalls ſeeartig erweitern=
-den Bucht ... einen über und über mit Roſt bede>ten Dampfer
--=- ein Wras .. .
+großer Affe wie ein Australnigger hätte sein können …
+Schließlich hißte im die Segel und begann die Insel
+nochmals zu umrunden, fand an der Westseite eine zweite
+Bucht, deren Eingang durch Riffreihen verdeckt war, steuerte
+hinein und fand hier in der sich ebenfalls Derartig erweiternden
+Bucht … einen über und über mit Rost bedeckten Dampfer
+— ein Wege …
 
 Leider aber hatten die geheimnisvollen Hüter der Kinder
-mich und mein Boot beſtändig im Auge behalten, und als
-iM nun auf das Wra> zuruderte, begann das Steinboms=
-bardement von neuem ...
+mich und mein Boot beständig im Auge behalten, und als
+ich nun auf das Wrack zuruderte, begann das Steinboms-bardement
+von neuem …
 
-Wit knapper Not gelangte ih wieder ins offene Meer,
-ohne Jupp und Strupp erblikt zu haben.
+Mit knapper Not gelangte ich wieder ins offene Meer,
+ohne Jupp und Strupp erblickt zu haben.
 
-Jetzt beſchloß ich, mit weſtlichem Kur8 wieder nac Madras
-zurüFzukehren, dort der Hafenpolizeti mein Abenteuer zu
-melden und die Entſendung eines Polizeidampfers nach der
-Inſel zu veranlaſſen.
+Jetzt beschloß ich, mit westlichem Kurs wieder nach Madras
+zurüFzukehren, dort der Hafengelichters mein Abenteuer zu
+melden und die Entsendung eines Polizeidampfers nach der
+Insel zu veranlassen.
 
-Zwei Tage ſpäter war ih in Madras ...
+Zwei Tage später war ich in Madras …
 
-Ih kannte den dortigen Hafenmeiſter ſchr genau, und
-wollte mal zunächſt ſo hinten herum nachfragen, ob er etwas
-von der Inſel wüßte ...
+Ich kannte den dortigen Hafenmeister sehr genau, und
+wollte mal zunächst so hinten herum nachfragen, ob er etwas
+von der Insel wüßte …
 
-Er ſchaute mich lachend an ...
+Er schaute mich lachend an …
 
-„Inſel?! RNber Ollenprik!! Wie kommen Sie denn
-darauf?! =- Unſinn, in der Gegend des Meerbuſens gibt's
-niht mal Korallenriffe ... Shauen Sie do<m mal Ihre See=
-karten an ... Ueberall mindeſtens dreitauſend Meter Tiefe!“
+»Insel?! Anker Ollenprick!! Wie kommen Sie denn
+darauf?! — Unsinn, in der Gegend des Meerbusens gibt’s
+nicht mal Korallenriffe … Schauen Sie vorhin mal Ihre Seekarten
+an … Überall mindestens dreitausend Meter Tiefe!«
 
-Dieſe Abfuhr ärgerte mih. Außerdem hatte ich auch
+Diese Abfuhr ärgerte mich. Außerdem hatte ich auch
 allerlei Schreibereien mit meinem Reeder, und nach drei
-Sagen kam mir mein Erlebnis ſchon ſelbſt wie ein Traum
-vor ... = Dann begann das Gemunkel über den bevor=
-ſtehenden Krieg, und über alledem verblaßte das Bild der
-Inſel immer mehr in meinem Gedächtnis ...
+Sagen kam mir mein Erlebnis schon selbst wie ein Traum
+vor … — Dann begann das Gemunkel über den bevorstehenden
+Krieg, und über alledem verblaßte das Bild der
+Insel immer mehr in meinem Gedächtnis …
 
-Gewiß, iM habe noF oft daran gedacht ... Aber nie
-mit jemandem darüber geſprochen ... -
+Gewiß, ich habe vor oft daran gedacht … Aber nie
+mit jemandem darüber gesprochen … —
 
-So, das wäre alſo mein ſeltſamſte8s Erlebnis, und ich
+So, das wäre also mein seltsameres Erlebnis, und ich
 <@pagebreak/>
-2DSDSDSDOSSES- 7 0020280 0SDüDSSIDOSSOSDS
+kann Ihnen beiden versichern, daß es von Na bis Z aus]
+Wahrheit beruht …«
 
-kann Ihnen beiden verſichern, daß e8 von YA bis Z auſ]
-Wahrheit beruht ...“
+Er schwieg, füllte unsere Römer und trank uns dann zu
+— lächelte dabei …:
 
-Er ſchwieg, füllte unſere Nömer und trank uns dann zu
--- lächelte dabei ..:
+»Das wäre was für Sie, lieber Harst …! Freilich, deswegen
+nach Indien zu reisen — ein teurer Scherz!!«
 
-„Das wäre was für Sie, lieber Harſt ..! Freilich, des-
-wegen nach Indien zu reiſen -- ein teurer Sherz!!“
+»Stimmt,« nickte Harald versonnen. »Ein teurer Scherz,
+falls nicht …«
 
-„Stimmt,“ ni&te Harald verſonnen. „Ein teurer Scherz,
-falls nicht ...“ ;
+Und — brach mitten im Satz ab …
 
-Und -- brach mitten im Satz ab ...
+Ollenprick fragte begierig:
 
-Ollenpri> fragte begierig:
+»He — — falls nicht?! Was heißt das?!«
 
-„He = - falls niht?! Was heißt das?!“
+Harald vollendete ernst:
 
-Harald vollendete ernſt:
-
-„Falls nicht wirklih ein Dampfer mal im Meerbuſen
+»Falls nicht wirklich ein Dampfer mal im Meerbusen
 von Bengalen verloren ging und die Reederei nicht etwa
-eine Belohnung ausgeſeßt hat für genaue Nachrichten über
-das Schiff ...“
+eine Belohnung ausgesetzt hat für genaue Nachrichten über
+das Schiff …«
 
-Ollenpri> ſchüttelte den Kop ...
+Ollenprick schüttelte den Kap …
 
-„Das ſind ja zwölf Jahre her, als ich die Inſel entde>te
-... Und der Dampfer in der Bucht hat ſicherlih ſchon jahre=
-lang dort gelegen =-- dem Roſt na<h zu urteilen ... Within
+»Das sind ja zwölf Jahre her, als ich die Insel entdeckte
+… Und der Dampfer in der Bucht hat sicherlich schon jahrelang
+dort gelegen — dem Rost nach zu urteilen … Mithin
 dürfte der Dampfer vor rund fünfzehn Jahren überfällig
-geworden ſein ..!“ ,
+geworden sein …!«
 
-Harald nahm eine friſche Zigarette ...
+Harald nahm eine frische Zigarette …
 
-„Lieber Käpten, trozdem möchte ich Sie einiges fragen.“ -
+»Lieber Käpten, trotzdem möchte ich Sie einiges fragen.« —
 
-„Bitte . .!“
+»Bitte …!«
 
-9. Kapitel.
+<h2>9. Kapitel.</h2>
 
-Und Harald fragte:
+<h3>Und Harald fragte:.</h3>
 
-„Sie betonten den Tierreichtum der Inſel ... Wollen
-Sie mir mal genauer angeben, was Sie von Tieren ſahen?“
+»Sie betonten den Tierreichtum der Insel … Wollen
+Sie mir mal genauer angeben, was Sie von Tieren sahen?«
 
-»„Bapageien aller Arten ... Dann ſtraußähnli<he Bögel,
-die ſogenannten Emus ... Ferner Affen, Hunde ...“
+»»Papageien aller Arten … Dann straußähnliche Vögel,
+die sogenannten Emus … Ferner Affen, Hunde …«
 
-„Halt -- was für Hunde?“
+»Halt — was für Hunde?«
 
-Ollenpri> beſchrieb die Hunde ... Und Harſt meinte:
+Ollenprick beschrieb die Hunde … Und Harst meinte:
+
 <@pagebreak/>
-DAIODDVSSDOSSSO 3 DDESOSOSSDSSSOESD
+»Das waren keine Hunde, lieber Käpten, sondern australische
+Beutelwölfe …«
 
-„Das waren keine Hunde, lieber Käpten, ſondern auſtra=
-liſ<e Beuteiwölfe ...“
+»Mag sein … — Außerdem waren auch Känguruhs da,
+ferner kleine schwarze Bären, ganz kleine …«
 
-„Mag ſein ... = Außerdem waren au<h Känguruhs da,
-ferner kleine ſchwarze Bären, ganz kleine ...“
+»Aha — australische Beutelbären … — Das genügt
+mir schon …«
 
-„Aha = auſtraliſche Beutelbären ... = Das genügt
-mir ſchon ...“
+»Genügt?!«
 
-„Genügt?!“
-
-„Ia, mein lieber Ollenpri> ... E8 genügt, um trotz der
-inzwiſchen verfloſſenen fünfzehn Jahre die Nachforſhungen
+»Ja, mein lieber Ollenprick … Es genügt, um trotz der
+inzwischen verflossenen fünfzehn Jahre die Nachforschungen
 einleiten zu können. Ob etwas dabei herauskommen wird,
-vermag ich heute natürlich no< nicht zu ſagen.“
+vermag ich heute natürlich noch nicht zu sagen.«
 
-„Herauskommen?! Was8 denn?! Etwa Name, Heimat=
-hafen und Beſitzer des verroſteten Dampfer8 auf meine“
-Inſel 2“
+»Herauskommen?! Was denn?! Etwa Name, Heimathafen
+und Besitzer des verrosteten Dampfers auf meine«
+Insel 2«
 
-Zum erſten Male ſprach er jetzt von „ſeiner“ Inſel ...
-Und er tat's mit gewiſſem Stolz ... Er fühlte ſic als En:=
-deder ... ES war zugleich auh der Stolz eines Manyves, der
-einem Harald Harſt zu einem Abenteuer verhelfen konnte --
-zu einem zweiten, denn auch die Geſchichte der aht Siearin=
-tropfen hatien wir ihm zu verdanken.
+Zum ersten Male sprach er jetzt von »seiner« Insel …
+Und er tat’s mit gewissem Stolz … Er fühlte sie als Er:-
+Feder … Es war zugleich auch der Stolz eines Wannsee, der
+einem Harald Harst zu einem Abenteuer verhelfen konnte —
+zu einem zweiten, denn auch die Geschichte der acht Stearintropfen
+hatten wir ihm zu verdanken.
 
-„Ih hoffe,“ erwiderte Harald ſchlicht. „Vielleicht kommt
-auh noFG mehr dabei heraus ... Vielleicht bringe ih auch
-in Erfahrung wem die beiden Kinder gehören, die doc
-offenbar deutſcher Herkunft ſind ...“
+»Ich hoffe,« erwiderte Harald schlicht. »Vielleicht kommt
+auch rosa mehr dabei heraus … Vielleicht bringe ich auch
+in Erfahrung wem die beiden Kinder gehören, die doch
+offenbar deutscher Herkunft sind …«
 
-Ollenpri> lachte leiſe ...
+Ollenprick lachte leise …
 
-„Serehriefter, =- gehen Sie mit keinem allzu großen
-Vertrauen an die Sache heran ...! Bedenken Sie, daß der
-Weltkrieg dazwiſchen liegt, daß Needereien ihre Bureaus
-geſchloſſen haben, die einſt ihre fünfzehn bis zwanzig Dampfer
-unterwegs hatten ... Bedenken Sie ferner, daß der Dampfer
-dort in der Weſtbucht meiner Inſel durc<aus kein deutſches
-Schiff zu ſein braucht, und daß e8 Ihnen doch unmöglich iſt,
-bei allen Reedereien der Welt anzufragen ...“
+»Verehrtester, — gehen Sie mit keinem allzu großen
+Vertrauen an die Sache heran …! Bedenken Sie, daß der
+Weltkrieg dazwischen liegt, daß Reedereien ihre Bureaus
+geschlossen haben, die einst ihre fünfzehn bis zwanzig Dampfer
+unterwegs hatten … Bedenken Sie ferner, daß der Dampfer
+dort in der Westbucht meiner Insel durchaus kein deutsches
+Schiff zu sein braucht, und daß es Ihnen doch unmöglich ist,
+bei allen Reedereien der Welt anzufragen …«
 
-Harſt ſawieg dazu, rauchte und hielt den Bli> geſenkt ...
+Harst Hauses dazu, rauchte und hielt den Blick gesenkt …
 
-Wahrſcheinlih hatte er dieſe Sätze Ollenprick8 nur
-wie fernes Wellengeplätſ<er an ſein Ohr dringen gehört
+Wahrscheinlich hatte er diese Sätze Ollenpricks nur
+wie fernes Wellengeplätscher an sein Ohr dringen gehört
 <@pagebreak/>
-SSDSDSS0ODSEHLSE0OS 9 G0O80EuEGEBDOSGSOS82S
+und war mit seinen Gedanken weit, weit weg gewesen —
+dort am Strande der unbekannten Insel im Meerbusen von
+Brillanten.
 
-und war mit ſeinen Gedanken weit, weit weg geweſen --
-dort om Strande der unbekannten Inſel im Meerbuſen von
-Beiügalen.
+Rauch »unser Käpten schien gemerkt zu haben, daß seine
+soeben geäußerten Zweifel in den Wind gesprochen waren,
+Er verstummte gleichfalls …
 
-UAUuch „unſer Käpten ſchien gemerkt zu haben, daß ſeine
-ſoeben geäußerten Zweifel in den Wind geſprochen waren,
-Er verſtummte gleichfalls .
-
-Und ſo ſaßen wir drei denn nun ſchweigend in der lauen
-Sommernacht um den Tiſch und die lieblich duftende Bowle
-herum und führten ein jeder ſeine eigenen Gedanken unbe
-einflußt durch die der anderen ſpazieren ...
+Und so saßen wir drei denn nun schweigend in der lauen
+Sommernacht um den Tisch und die lieblich duftende Bowle
+herum und führten ein jeder seine eigenen Gedanken runde
+beeinflußt durch die der anderen spazieren …
 
 Wohin wohl?
 
-Fraglos8 gen Oſten -- naH Aſiens Südküſten, nach In=
-dien, nac; Madras, nach der einſamen Weite des rieſigen
-Golfe38 von Bengalen.
+Fraglos gen Osten — naß Asiens Südküsten, nach Armdicken,
+nach; Madras, nach der einsamen Weite des riesigen
+Golfes von Bengalen.
 
-Ih, Max Schraut, Schüler Harald Harſts ſeit nunmehr
+Ich, Max Schraut, Schüler Harald Harsts seit nunmehr
 zwölf Jahren, kombinierte folgendermaßen:
 
-Der Dampfer gehörte entweder einem Menageriebeſitzer
-oder war von dieſem gemietet worden. Das Schiff kam aus
-Auſtralien, wo der Menageriebeſitzer ſeinen Tierbeſtand durch
-derartige Tiere ergänzt und auch zwei Auſtralneger mitge»
-nommen hatte. Der Dampfer war auf der Fahrt na< Kals
-kutta, erlitt in einem Orkan ſc<were Havarie und wurde iv
-der Weſtbucht der Inſel Ollenpri>d8 auf Grund geſetzt. In
-dem Orkan war ein Teil der Beſazung umgekommen. Der
-Reſt der Leute fiel bi3 auf die beiden Kinder und die beiden
-Neger einer Seuche zum Opfer. Da der Sturm aud die
-Rettungsboote zerſchlagen hatte, blieben die Schwarzen mit
-den beiden Kindern auf der Inſel. --
+Der Dampfer gehörte entweder einem Menageriebesitzer
+oder war von diesem gemietet worden. Das Schiff kam aus
+Australien, wo der Menageriebesitzer seinen Tierbestand durch
+derartige Tiere ergänzt und auch zwei Australneger mitgenommen
+hatte. Der Dampfer war auf der Fahrt nach Kalkutta,
+erlitt in einem Orkan schwere Havarie und wurde in
+der Westbucht der Insel Ollenpricks auf Grund gesetzt. In
+dem Orkan war ein Teil der Besatzung umgekommen. Der
+Rest der Leute fiel bis auf die beiden Kinder und die beiden
+Neger einer Seuche zum Opfer. Da der Sturm auch die
+Rettungsboote zerschlagen hatte, blieben die Schwarzen mit
+den beiden Kindern auf der Insel. —
 
-Das war mein Bild der Geſchehniſſe
+Das war mein Bild der Geschehnisse
 
-Aber -- es geſiel mir nicht ..
+Aber — es Sessel mir nicht …
 
 Nein, da war ein Punkt in den Vorgängen, der nicht
-recht in dieſes Gemälde hineinpaßte:
+recht in dieses Gemälde hineinpaßte:
 
-WesShalb wehrten die Auſtralneger jeden Fremden von
-den Küſten des Inſelchens ab?! WesShalb wollten ſie alſo
+Weshalb wehrten die Australneger jeden Fremden von
+den Küsten des Inselchens ab?! Weshalb wollten sie also
 mit den Kindern dort allein bleiben?!
+
 <@pagebreak/>
-DSESSSODS20200222 10 2020002020020 2020DS
+Er 7 — — auch dafür gab es vielleicht eine Erklärung —
+vielleicht …
 
-GER 7 -- - auch dafür gab es vielleiht eine Erklärung --
-vielleicht .
-
-Und =. u die, daß der Reſt der Veſaßung aus irgend
+Und 	—. u die, daß der Rest der Besatzung aus irgend
 welchen Gründen von den Negern getötet worden war und
-daß die Schwarzen, falls ſie jemand landen ließen, eine Ents
-Dde>ung ihrer Schandtaten befürchteten! --
+daß die Schwarzen, falls sie jemand landen ließen, eine Ende
+Böschung ihrer Schandtaten befürchteten! —
 
-Der Leſer merkt jeht wohl bereiis, wie ſchwer dieſem Ges
-Heimnis dur< ſogenannte logiſche Schlüſſe beizukommen war.
+Der Leser merkt jetzt wohl bereits, wie schwer diesem See
+Beinahe durch sogenannte logische Schlüsse beizukommen war.
 
-Ich könnie hier nocd) verſchiedene andere Nebenpunkte
-erwähnen, die „mein Bild“ gleichfalls als Zerrbild erſcheinen
-ließen, will mid) aber nicht auf dieſe Urt von unfruchtbaren
-Erörterungen einlaſſen, ſondern hier nur gleic) betonen,
-daß „mein Bild“ ſich ſpäter als abſolut irrig herausſtellte. =
+Ich könnte hier noch verschiedene andere Nebenpunkte
+erwähnen, die »mein Bild« gleichfalls als Zerrbild erscheinen
+ließen, will mich aber nicht auf diese Art von unfruchtbaren
+Erörterungen einlassen, sondern hier nur gleich betonen,
+daß »mein Bild« sich später als absolut irrig herausstellte. —
 
-Nachdem wir drei ſo etwa eine halbe Stunde lang unſere
-'Sprechwerlzeuge gründlic< geſchont hatten, dajür aber um ſo
-eifriger der Bowle alle Ehre angetan hatten, wurde Ollens
-pri dieſe ſiiile Zeherrunde denn doh zu langweilig, und er
-platzte plötzjid mit der Bemerkung heraus:
+Nachdem wir drei so etwa eine halbe Stunde lang unsere
+Sprechwerlzeuge gründlich geschont hatten, dafür aber um so
+eifriger der Bowle alle Ehre angetan hatten, wurde Offene
+per diese Brille Triefende denn doch zu langweilig, und er
+platzte plötzlich mit der Bemerkung heraus:
 
-„Kinder, wenn ich eu<h lieber kein Sterbens8wört<hen von
-meiner Inſel berichtet hätte!! Wir ſind ſtumm wie die
-Fiſche geworden! =- Harſt, erzählen Sie mir jetzt einmal einen
-:Shwankl aus Ihrem Leben!“
+»Kinder, wenn ich euch lieber kein Sterbenswörtchen von
+meiner Insel berichtet hätte!! Wir sind stumm wie die
+Fische geworden! — Harst, erzählen Sie mir jetzt einmal einen
+Diwan?! aus Ihrem Leben!«
 
-Harald hob langſam den auf die Bruſt geſenkten Kopf
+Harald hob langsam den auf die Brust gesenkten Kopf
 und entgegnete:
 
-„Wir wollen beſſer zu Bett gehen ... Die Bowle iſt leer,
-Mein Kopf iſt ſchwer, drum reicht mir mein Lager her ..t“
+»Wir wollen besser zu Bett gehen … Die Bowle ist leer,
+Mein Kopf ist schwer, drum reicht mir mein Lager her … t«
 
-„Reim' dich, oder ich freſſe dich!“ grinſte der Käpten und
-HADES: „Gut - alſo zur Koje! Morgen iſt auch noh ein
+»Nenn’ dich, oder ich fresse dich!« grinste der Käpten und
+Hades: »Gut — also zur Koje! Morgen ist auch noch ein
 
-ag!“
+Kg!«
 
-So ſagten wir unſerem alten gemütlichen Ollenprick
-Denn gute Nacht und kletlerten die ſteile Treppe zu den
-Maniſardenſtübhen ſeines Häu8hens8 empor, wo wir in dem
-einen kleinen Zimmer ſchliefen und in dem anderen wohnten,
-=- das heißt, meiſtenteils waren wir ja im Freien, und das“
-WohnſtübHhen daher überflüſſig.
+So sagten wir unserem alten gemütlichen Ollenprick
+Denn gute Nacht und kletterten die steile Treppe zu den
+Manisardenstübhen seines Häuschens empor, wo wir in dem
+einen kleinen Zimmer schliefen und in dem anderen wohnten,
+— das heißt, meistenteils waren wir ja im Freien, und das«
+Wohnstübchen daher überflüssig.
 
-Während wir uns entkleideten, tippte iH vorſichtig bei
+Während wir uns entkleideten, tippte ich vorsichtig bei
 <@pagebreak/>
-DSSSSSSSSOSSDS 11 8200005020200 02
+Harald an, was er von Ollenpricks Insel und deren geheimnisvollen
+Bewohnern hielte.
 
-Harald an, wa38 er von Ollenpri>3 Inſel und deren geheim=
-niSvollen Bewohnern hielte.
+Er erklärte mir, — und diese Antwort war für ihn so
+recht charakteristisch:
 
-Er erklärte mir, = und dieſe Antwort war für ihn ſo
-re<ht <Harakteriſtiſch:
+»Die Kinder, die Australneger und das Wrack sind nur
+die äußere Hülle des Rätsels, mein Alter … Der Kern dürfte
+Überraschungen ungeahnter Art bergen. — Gute Nacht …«
 
-„Die Kinder, die Auſtralneger und das Wra> ſind nur
-die äußere Hülle des Rätſels, mein Alter ... Der Kern dürfte
-Ueberraſchungen ungeahnter Art bergen. -- Gute Nacht ...“
+Nun war ich genau so schlau wie vorhin, grämte mich
+aber darüber nicht weiter, denn mein von der Bowle angebetet
+Hirn verlangte na Ruhe. Ich schlief ein, schlief
+bis gegen zehn Uhr vormittags …
 
-Nun war ich genau ſo ſchlau wie vorhin, grämte mich
-aber darüber nicht weiter, denn mein von der Bowle um=
-nebeltes Hirn verlangte na Ruhe. Id ſchlief ein, ſchlief
-bis gegen zehn Uhr vormittags ...
+Erwachte …
 
-Erwacte ...
+Harsts Bett war leer …
 
-Harſt8 Bett war leer ...
+Und als ich dann nach unten ging, saß OllenpriFX in der
+Laube und machte ein Gesicht wie sieben Tage Regenwetter.
 
-Und al8 iH dann nad) unten ging, ſaß OllenpriFX in der
-Laube und machte ein Geſicht wie ſieben Tage Regenwetter.
+»Morgen, Käpten …«
 
-„Morgen, Käpten ...“
+»Morgen, Schraut …
 
-„Morgen, Schraut ...
+»Dr ist Harst?«
 
-„Do iſt Harſt?“
+»Abgereist …«
 
-„Abgereiſt ...“
+Ich stand wie Vors Weib: Salzsäule!
 
-Ih ſtand wie Lot8 Weib: Salzſäule!
+»Abgereist?«
 
-„Abgereiſjt?“
-
-„Ia, heute mit dem Frühzug ... Er läßt Ihnen ſagen,
-Sie ſollten heute noF nach Genua reiſen und dort das Eins
+»Ja, heute mit dem Frühzug … Er läßt Ihnen sagen,
+Sie sollten heute vor nach Genua reisen und dort das Eins
 treffen des Dampfers Columbus erwarten, der über Bombay,
-Madras nad) Kalkutta fährt. = Er hat no<g in Hamburg zu
-tun, läßt er weiter beſtellen, und Sie ſollten über Berlin
-reiſen und von dort no<+ die Tropenausrüſtung mitnehmen.“
-Er ſeufzte . .. „Wiſſen Sie, Schraut, der Abſchied von Ihrem
-Freunde iſt mir verdammt ſc<wer geworden ... Und am
-ſchwerſten traf e8 mich, daß er mir nicht verriet, was er in
-Hamburg wollte und ob er mit Ihnen meine Inſel aufſuchen
-will ... Er gab mir Antworten, die keine waren ... Er iſt
-ein komiſcher Menſch ...“
+Madras nach Kalkutta fährt. — Er hat noch in Hamburg zu
+tun, läßt er weiter bestellen, und Sie sollten über Berlin
+reisen und von dort noch die Tropenausrüstung mitnehmen.«
+Er seufzte … »Wissen Sie, Schraut, der Abschied von Ihrem
+Freunde ist mir verdammt schwer geworden … Und am
+schwersten traf es mich, daß er mir nicht verriet, was er in
+Hamburg wollte und ob er mit Ihnen meine Insel aufsuchen
+will … Er gab mir Antworten, die keine waren … Er ist
+ein komischer Mensch …«
 
-„Allerdings ... das iſt er ...“
+»Allerdings … das ist er …«
 
-Und ich ſetzte mic) und begann zu frühſtücken ...
+Und ich setzte mich und begann zu frühstücken …
 
-I< redete mit Ollenpri> über dies und jene3 ...
+Ich redete mit Ollenprick über dies und jenes …
 
-“
+«
+
 <@pagebreak/>
-DSCOEIDSSSDSES 12 EE0o0B8ES2S0200D0E2E02
+Bis der Alte unvermittelt sagte:
 
-Bis der Alte unvermittelt ſagte:
+»Schraut, ich komme mit …!«
 
-„Schraut, ih komme mit ..!“
+Ich dritte ihn an …
 
-Ih bliFte ihn an ...
+»Im — kein schlechter Gedanke, Käpten … Im übrigen
+haben Sie ja auch ein gutes Recht darauf, mit nach
+Ihrer Insel zu reisen, denn — natürlich geht’s dorthin, und
+natürlich hat Harst auch schon irgend etwas herausgefunden,
+das zu Ihrem damaligen Abenteuer in Beziehung steht …«
 
-„Im = kein ſ<lehter Gedanke, Käpten ... Im übrigen
-haben Sie ja auc< ein gutes Recht darauf, mit nach
-Ihrer Inſel zu reiſen, denn -- natürlich geht's dorthin, und
-natürlig hat Harſt auch ſchon irgend etwas herausgefunden,
-das zu Ihrem damaligen Abenteuer in Beziehung ſteht ...“
+»Er war ja gestern nacht nochmals hier unten, Schraut,
+und holte sich ein paar alte Jahrgänge der Deutschen See-mannsgszeitung
+… Da werden Sie wohl schon geschlafen
+haben …«
 
-„Er war ja geſtern nacht nochmals hier unten, Schraut,
-und holte ſi< ein paar alte Jahrgänge der Deutſchen See-
-mannsgszeitung ... Da werden Sie wohl ſchon geſchlafen
-haben ...“ '
+Szene Jahrgänge?«
 
-JESENe Jahrgänge?“
+»Die vier von 1908 bis 1912.«
 
-„Die vier von 1908 bis 1912.“
+»Stehen in dieser Zeitung auch Schiffsverluste drin?«
 
-„Stehen in dieſer Zeitung auch Schiffsverluſte drin?“
+»änd ob — und ob. — Harst ist übrigens nur eine Stunde
+im Welt gewesen, sagte er mir …«
 
-„änd ob -- und ob. -- Harſt iſt übrigens nur eine Stunde
-im Belt geweſen, ſagte er mir .. „“
+»Wo sind die vier Bände?«
 
-„Wo ſind die vier Bände?“
+»In meinem Zimmer auf dem Schreibtisch liegen sie 6:0
 
-„In meinem Zimmer auf dem Schreibtiſch liegen jie 6:0
+Ich sprang auf, holte sie …
 
-I< ſprang auf, holte ſie ...
+Oh — das waren recht dicke Folianten …
 
-Oh -- das waren recht di>e Folianten ...
+Und trotzdem begann ich sie eilends durchzublättern …
 
-Und trozdem begann ich ſie eilends durchzublättern ..
+Vielleicht hatte Harald hier irgend etwas auf den unbekannten
+Dampfer Bezügliches gefunden und die Stelle angestrichen
+…
 
-Vielleicht hatte Harald hier irgend etwas auf den unbe=
-kannten Dampfer Bezügliches gefunden und die Stelle ange=
-ſtrichen ...
+Vielleicht …!
 
-Vielleiht ..!
+Als ich den zweiten Band, den des Jahre8&nbsp;1909, gerade
+vorhatte, entdeckte im — mehr ein Zufall -, daß die Seite
+129 herausgeschnitten war …
 
-Als ich den zweiten Band, den de8 Jahre8 1909, gerade
-vorhatte, entde>te im = mehr ein Zufall -, daß die Seite
-129 heraus8geſhnitten war .. . |
+Ollenprick erklärte, das könne nur Harst getan haben …
 
-Ollenpri> erklärte, das könne nur Harſt getan haben ...
+Also … doch!! Er hatte etwas gefunden, und er hatte
+das Gefundene mit sich genommen!
 
-Alſo ... do<h!! Er hatte eiwas gefunden, und er hatie
-das Gefundene mit ſich genommen!
+Gemeinheit!! —
 
-Gemeinheit!! --
+Nachmittags reisten Wilm Ollenprick und ich gen Berlin.
 
-Nachmittags reiſten Wilm Ollenpri> und ich gen Berlin.
+Zwei Tage drauf waren wir in Genua im Hotel Vermutung,
+wo Harald und ich stets abstiegen.
 
-Zwei Tage drauf waren wir in Genua im Hotel Ter=
-minus, wo Harald und id) ſtets abſtiegen.
 <@pagebreak/>
-DSSDSSSDSDOSSS 13 SSODSDSDSESESHSD
+Dort lag schon eine chiffrierte Depesche für mich …
 
-Dort lag ſhon eine <iffrierte Depeſche für mich ...
-
-Ih dechiffrierte jie ... Las ſie Ollenpri>X vor ... Wir
-beide waren einfach platt ... Was in aller Welt bedeutete
+Ich dechiffrierte sie … Las sie OllenprickX vor … Wir
+beide waren einfach platt … Was in aller Welt bedeutete
 dies nun wieder?!
 
-Die Depeſche lautete:
+Die Depesche lautete:
 
-„Allergrößte Vorſicht geboken. Inſel-Sache offenbar
-ſchwere8 Berbrechen. Habe in Hamburg in ein Weſpen
-neſt gefaßt. =- Berlaſſe du ſofort das Hotel und verſchwinde,
-Tadelloſe Maske für Columbus nötig. Wahrſcheinlih auch
-du ſ<on von Spionen umgeben. Gruß H.“
+»Allergrößte Vorsicht gebeten. Insel-Sache offenbar
+schweres Verbrechen. Habe in Hamburg in ein Wespen
+Nest gefaßt. — Verlasse du sofort das Hotel und verschwinde,
+Tadellose Maske für Columbus nötig. Wahrscheinlich auch
+du schon von Spionen umgeben. Gruß H.«
 
-3. Kapitel.
+<h2>3. Kapitel.</h2>
 
-Alſo = =- verſchwinden ſollen wir!
+<h3>Also — — verschwinden sollen wir!.</h3>
 
-Das heißt: jeden Berfolger täuſchen, von unſerer Fährte
-ablenken und dann uns ... verändern, unkenntlich machen!!
+Das heißt: jeden Verfolgen täuschen, von unserer Fährte
+ablenken und dann uns … verändern, unkenntlich machen!!
 
-Wäre ich unter dieſen Umſtänden allein geweſen, ſo hätte
-mir's weiter keine Schwierigkeiten gemacht, auch den ſchlaueſten
+Wäre ich unter diesen Umständen allein gewesen, so hätte
+mir’s weiter keine Schwierigkeiten gemacht, auch den schlauesten
 Spion hineinzulegen!
 
-So jedoF war mir Wilm Ollenpri> ein böſer Stein am
-Bein, und daher ſagte ih ihm aud ganz offen, daß er am
-beſten täte, wieder gen Swinemünde abzurutſchen.
+So jeder war mir Wilm Ollenprick ein böser Stein am
+Bein, und daher sagte ich ihm auch ganz offen, daß er am
+besten täte, wieder gen Swinemünde abzurutschen.
 
-„Niemals!“ erklärte er. .
+»Niemals!« erklärte er …
 
-Ih war auf dieſe Weigerung vorbereitet.
+Ich war auf diese Weigerung vorbereitet.
 
-„Dann müſſen Sie aber auc aufs genaueſte befolgen,
-was ich anordne, Käpten ..!“ meinte ich recht eindringlich ...
+»Dann müssen Sie aber auch aufs genaueste befolgen,
+was ich anordne, Käpten …!« meinte ich recht eindringlich …
 
-„Tue ich -- keine Sorge!“ =-
+»Tue ich — keine Sorge!« —
 
-Wir bummelten durch die Stadt = bi8 zum Abend.
-Dann beſtellte ih telephoniſcH bei einem Autoverleihgeſchäft
-einen Tourenwagen zu vier Uhr morgens an den Garten=
-au8gang des Hotels, bezahlte heimlich unſere Rechnung, ver=
-pflihtete den mir gut bekannten Hoteldirektor zum Schweigen
-und beſtad) einen der deutſchen Kellner, damit er uns morgens
-hülfe, die Koffer ins Auto zu tragen.
+Wir bummelten durch die Stadt — bis zum Abend.
+Dann bestellte ich telephonisch bei einem Autoverleihgeschäft
+einen Tourenwagen zu vier Uhr morgens an den Gartenausgang
+des Hotels, bezahlte heimlich unsere Rechnung, verpflichtete
+den mir gut bekannten Hoteldirektor zum Schweigen
+und bestach einen der deutschen Kellner, damit er uns morgens
+verhülfe, die Koffer ins Auto zu tragen.
 
-Ulles klappte“
+Alles klappte«
+
 <@pagebreak/>
-DSSSOSOSSSSSOSO 11 00E2020202028E20200
+Das Auto jagte mit uns davon, zur Stadt hinaus — und
+ich stellte sehr bald fest, daß niemand hinter uns her war.
 
-Das Auto jagte mit uns davon, zur Stadt hinaus -- und
-ich ſtellte ſehr bald feſt, daß niemand hinter uns her war.
+In einer einsamen Kneipe vor dem Dorfe Vorsichtig, in
+einem armseligen Fremdenzimmer begann die Maskerade …
 
-In einer einſamen Kneipe vor dem Dorfe VBentiglia, in
-einem armſeligen Fremdenzimmer begann die Maskerade ...
+Und um acht Uhr früh erschien dann der Hoteldirektor mit
+seinem eigenen Auto und holte uns wieder ab, steuerte den
+Wagen selbst, so daß keinerlei Betrat zu fürchten war. Das
+geschlossene Auto hatte kaum drei Minuten vor der Schenke
+gehalten. Während der Hoteldirektor den Wirt beschäftigte,
+waren wir hineingeschlüpft.
 
-Und um acht Uhr früh erſchien dann der Hoteldirektor mit
-ſeinem eigenen Auto und holte uns wieder ab, ſteuerte den
-Wagen ſelbſt, ſo daß keinerlei Berrat zu fürchten war. Das
-geſchloſſene Auto hatte kaum drei Minuten vor der Shenke
-gehalten. Während der Hoteldirektor den Wirt beſchäftigte,
-waren wir hineingeſchlüpft.
+Auch hier Ulappte alles nach; Wunsch.
 
-Aud) hier Ulappte alles nac; Wunſd.
+Und nachmittags sechs Uhr gingen wir beide dann an
+Bord des soeben eingetroffenen Ostasiendampfers, Columbus
+— als würdiges, älteres Ehepaar, — ich wieder einmal
+»Glatteis Tante« spielend, und der Käpten gleichfalls vollständig
+unkenntlich …
 
-Und nachmittags ſehs Uhr gingen wir beide dann an
-Bord de38 ſoeben eingetroffenen Oſtaſiendampfers, Columbus
--- als würdiges, älteres Ehepaar, -- ic< wieder einmal
-„Charley8 Tante“ ſpielend, und der Käpten gleichfalls voll»
-ſtändig unkenntlich ...
+Wir hatten eine der großen Kabinen mittschiffs belegt
+… Wir hießen hier Herr und Frau Konnte aus Frankfurt
+a. d. Oder … Wir spielten die Kränklichen, wollten in der
+Kabine speisen und suchten uns nachher für unsere Liegestühle
+einen ganz versteckten Platz hinter einem Ventilator …
 
-Wir hatten eine der großen Kabinen mitiſchiffs belegt
-.. Wir hießen hier Herr und Frau Scrinke aus Frankfurt
-a. d. Oder ... Wir ſpielien die Kränklichen, wollten in der
-Kabine ſpeiſen und ſuchten uns nachher für unſere Liegeſtühle
-einen ganz verſte>ten Platz hinter einem Bentilaior ...
+All dies, lieber Leser, ist ja nur die Einleitung für das
+große Abenteurerdrama …
 
-All dies, lieber Leſer, iſt ja nur die Einleitung für das
-große Abenteurerdrama ...
+Ich fasse mich daher kurz: Bis dicht vor Madras merkten
+wir während der Reise nicht das geringste davon, daß Harald
+an Bord …
 
-Id) faſſe mich daher kurz: Bis diht vor Madras merkten
-wir während der Reiſe nicht das geringſte davon, daß Harald
-an Bord ...
+Nichts …
 
-Nichts ...
+Obwohl ich doch alle Fahrgäste erster Kajüte scharf unter
+die Lupe nahm — sehr scharf!
 
-Obwohl ich doH alle Fahrgäſte erſter Käjüte ſcharf unter
-die Lupe nahm -- ſehr ſcharf!
+Bis kurz vor Madras …
 
-Bis kurz vor Madras ...
+Da erst gesellte sich) abends gegen neun Uhr einer der
+Stewards zu uns, die in der »Zweiten Kajüte« Dienst taten.
 
-Da erſt geſellte ſich) abend8 gegen neun Uhr einer der
-Stewards zu uns, die in der „Zweiten Kajüte“ Dienſt taten.
+Ein Mann mit blondem Spitzbart, blauroter Nase und
+Pockennarben …
 
-Ein Mann mit blondem Spißtbart, blauroter Naſe und
-Po&ennarben ...
+Der Spitzbart war falsch, das Blaurot ebenso und die
+Pockennarben erst recht …
 
-Der Spitzbart war falſc<, das Blaurot ebenſo und die
-Pockennarben erſt recht .. .
 <@pagebreak/>
-DSSSSSSSSSSS 15 DSSSOSSDIDODSSSDS-
+Er blieb nur ganz kurze Zeit …
 
-Er blieb nur ganz kurze Zeit ...
+Flüsterte mir nur zu:
 
-Flüſterte mir nur zu:
+»Alles steht gut … In Madras steigt ihr im Deutschen
+Fremdenheim ab … Das weitere findet sich dann …«
 
-„Alles ſteht gut ... In Madras ſteigt ihr im Deutſchew
-Fremdenheim ab ... Das weitere findet ſich dann .,.“
+Ich wollte noch etwas fragen …
 
-Ich wollte noh etwas fragen ...
+Er verschwand schon wieder …
 
-Er verſ<hwand ſchon wieder ...
+Und mein Herr Gemahl stierte ihm nach wie einer Geistererscheinung
+… —
 
-Und mein Herr Gemahl ſtierte ihm nach wie einer Geiſter»
-erſheinung ... =
+Am folgenden Tage schlenderte das Ehepaar Konnte
+gegen elf Uhr am Hafen von Madras entlang …
 
-Am folgenden Tage ſchlenderte das Ehepaar Scrinke
-gegen elf Uhr am Hafen von Madras entlang ...
+Die liebe Tropensonne meinte es nur zu gut, und wir
+schnitten wie die Heizer im Kesselraum …
 
-Die liebe Tropenſonne meinte e8 nur zu gut, und wir
-ſHwißten wie die Heizer im Keſſelraum ...
+Harald war bisher unsichtbar geblieben, und ich wieder
+hatte mich überzeugt, daß Spione nicht hinter uns her waren.
 
-Harald war bisher unſichtbar geblieben, und ic) wieder
-hatte mich überzeugt, daß Spione nicht hinter un3 her waren.
+So war denn auch meine Laune trotz der Bullenhitze-glänzend
+…
 
-So war denn aud meine Laune trotz der Bullenhitze-
-glänzend ...
+Mit ohne Absicht hatte ich die Schritte hier naß dem:
+Hafen gelenkt … Denn hier in Madras hauste ja unser
+alter lieber Freund Altan O’Kelling, der Besitzer des Frachtkutters
+»Lady Hamilton« …
 
-Nit ohne Abſicht hatte iG die Schritte hier naH dem:
-Hafen gelenkt ... Denn hier in Madras hauſte ja unſer
-alter lieber Freund Allan O'Kelling, der Beſizer des Fracht=
-kutter8 „Lady Hamilton“ ...
+I) hielt es nicht für ausgeschlossen, daß Harald sich bereits
+mit O’Kelling in Verbindung gesetzt hatte, falls der eben gerade
+in Madras weilte. Meistenteils war er ja unterwegs,
+gondelte mit seinem Kutter zwischen den Küstenorten hin
+und her und verdiente wenig, sehr wenig, denn die Zeiten
+waren schlecht … sehr schlecht … Kriegsnachwehen wie überall?
 
-I) hielt es nicht für ausgeſchloſſen, daß Harald ſich bereits
-mit O'Kelling in Berbindung geſetzt hatte, falls der eben ge=
-rade in Madra38 weilte. Meiſtenteils war er ja unterwegs,
-gondelte mit ſeinem Kutter zwiſhen den Küſtenorten hin
-und her und verdiente wenig, ſehr wenig, denn die Zeiten
-waren ſchlecht ... ſehr ſchlecht ... Krieg8nachwehen wie überall?
+Ollenprick, mein Herr Gemahl, schwelgte in Erinnerungen
+an alte Zeiten — als er noch selbst einen großen Frachtdampfer
+befehligt und die Weltmeere unermüdlich durchkreuzt
+hatte — fast vierzig Jahre lang …
 
-Ollenpri>, mein Herr Gemahl, ſchwelgte in Erinnerungen
-an alte Zeiten -- als er noch ſelbſt einen großen Fracht=
-dampfer befehligt und die Weltmeere unermüdlich dur<kreuzt
-hatte -- faſt vierzig Jahre lang ...
-
-Und dieſer ſiebzigjährige Mann, der freilich über eine
-eiſerne Geſundheit verfügte, war dur< dieſe Reiſe derart
-aufgelebt, daß iM mich zuweilen geradezu ſchämte, wenn er
-ſo niemal8 Spuren von Müdigkeit zeigte und ſelbſt bei der
-größten Siedehitze, ſo zum Beiſpiel im Roten Meer, noh.
-Wißte machen oder ... fluchen konnte. Letzteres verſtand er
+Und dieser siebzigjährige Mann, der freilich über eine
+eiserne Gesundheit verfügte, war durch diese Reise derart
+aufgelebt, daß ich mich zuweilen geradezu schämte, wenn er
+so niemals Spuren von Müdigkeit zeigte und selbst bei der
+größten Siedehitze, so zum Beispiel im Roten Meer, noch.
+Bitte machen oder … fluchen konnte. Letzteres verstand er
 <@pagebreak/>
-DSSDSSSESSSDISS 16 DSOSDSSODSSDSSO
+am besten … Das ist ja dem Leser auch längst bekannt, —
+von den acht Stearintropfen her, von jener erbaulichen Szene
+Her, wo Wilm Ollenprick das Fluchen feierlichst abschwor, um
+dann dech4 schon nach zwölf Stunden zu beweisen, daß sein
+Vorrat an Kraftausdrücken unerschöpflih war … —
 
-am beſten ... Das iſt ja dem Leſer auch längſt bekannt, --
-von den aht Stearintropfen her, von jener erbaulichen Szene
-Her, wo Wilm Ollenpri> das Fluchen feierlichſt abſ<wor, um
-dann de<4 ſ<on nach zwölf Stunden zu beweiſen, daß ſein
-Borrat an Kraftausdrü>en unerſchöpflih war ... =
+Madras, die Hafenstadt an der indischen Coromandels-Küste,
+habe im hier schon so oft geschildert, daß ich wohl auf
+jede Beschreibung der Stadt verzichten kann …
 
-Madras, die Hafenſtadt an der indiſ<en Coromandels-
-Küſte, habe im hier ſchon ſo oft geſchildert, daß iM wohl auf
-jede Beſchreibung der Stadt verzichten kann ...
+Wir schritten also dem abseits gelegenen Hafenbassin zu,
+in dem die kleineren Fahrzeuge ihren Liegeplatz hatten …
 
-Wir ſchritten alſo dem abſeits gelegenen Hafenbaſſin zu,
-in dem die kleineren Fahrzeuge ihren Liegeplatz hatten ...
+Ich war überaus gespannt, ab ich die »Lady Hamilton«
+erspähen würde …
 
-Ih war überaus geſpannt, ab ih die „Lady Hamilton“
-erſpähen würde ...
+Ich freute mich darauf, den ulkigen, kleinen O’Kelling
+wiederzusehen, und ich fragte mich mit einigem Recht, wie
+sich wohl diese beiden Seeleute vertragen würden, die so jeder
+seine Eigentümlichkeiten hatten und bei ihrer hitzzlöpfigen
+Natur nur zu leicht aneinander geraten könnten.
 
-IH freute mid) darauf, den ulkigen, kleinen O'Kelling
-wiederzuſehen, und ich fragte mich mit einigem Recht, wie
-ſich wohl dieſe beiden Seeleute vertragen würden, die ſo jeder
-ſeine Eigentümlichkeiten hatten und bei ihrer hitßzlöpfigen
-Natur nur zu leiht aneinander geraten könnten.
-
-Aud) Wilm Ollenpri>, dem ich natürlich längſt ſo allerlei
-von O'Felling erzählt hatte, ſo zum Beiſpiel von den ver=
-ſchiedenen Fahrten, die wir mit der „Lady Hamilton“ von
+Auch Wilm Ollenprick, dem ich natürlich längst so allerlei
+von O’Kelling erzählt hatte, so zum Beispiel von den verschiedenen
+Fahrten, die wir mit der »Lady Hamilton« von
 Berufs wegen unternommen, brannte förmlich darauf, die
-Bekanntſchaft dieſes Unikums zu macheit und half mir eifrig
-bei der Umſc)au nach dem hellgrau geſtrichenen Kutter, =-
-=- wenigſtens hatte die „Lady Hamilton“ vor fünf Monaten
-dieſe Toiieitenſarbe bevorzugt.
+Bekanntschaft dieses Unikums zu machen und half mir eifrig
+bei der Umschau nach dem hellgrau gestrichenen Kutter, —
+— wenigstens hatte die »Lady Hamilton« vor fünf Monaten
+diese Toiieitensarbe bevorzugt.
 
-Und dann drücie mein Herr Gemahl plötzlich in höht
-Unzarter Art meinen Arm und flüſterte mit ſeinem Kapitäns»
-BelleinaB:
+Und dann drückte mein Herr Gemahl plötzlich in hält
+Unzarter Art meinen Arm und flüsterte mit seinem Kapitäns-Weitergab:
 
-„Dort liegt der Aeppelkahn .. 1!“
+»Dort liegt der Äppelkahn …!!«
 
 Und er wollte die rechte Hand heben und mir die Richtung
-„andeuten ...
+»andeuten …
 
 Wollte
 
-Über ebenſo jäh war jet vor uns ein zerlumpter, ſhmies
-riger, ſtinkender indiſcher Bettler vor uns aufgetaucht, und
-zwar ſo dicht, daß er Wilm Ollenpri>s Hand mit dem Obers
-Xörper berührte ...
+Über ebenso jäh war jetzt vor uns ein zerlumpter, schwieg
+eifriger, stinkender indischer Bettler vor uns aufgetaucht, und
+zwar so dicht, daß er Wilm Ollenpricks Hand mit dem Obere
+Gönnen berührte …
+
 <@pagebreak/>
-DSSDSDSSSDSEDSSS 17 SEOSODDOEDSIHSDOISGES
+Ollenprick fluchte …
 
-Ollenpri>k fluchte ...
+»Willst du nach Schweinestall duftender Schweinigel dich
+gefälligst wegscheren … »t! Willst du deine …«
 
-„Willſt du nah Schweineſtall duftender Shweinigel dic<
-gefälligſt wegſcheren . „t! Willſt du deine ...“
+Der alte zottelbärtige Inder hatte uns da bereits zugeraunt:
 
-Der alte zottelbärtige Inder hatte uns da bereits ZUge=
-raunt:
+»Macht kehrt, ihr … Schafsköpfe!! Wollt ihr alles Vers
+derben? — Heute abend elf Uhr findet ihr euch mit den
+Koffern auf der »Lady Hamilton« ein …«
 
-„Madht kehrt, ihr ... Schafsköpfe!! Wollt ihr alles vers
-derben? -- Heute abend elf Uhr findet ihr euch mit den
-Koffern auf der „Lady Hamilton“ ein ...“
+Dann spielte er wieder den Bettler, der große, berühmte
+Harst …
 
-Dann ſpielte er wieder den Bettler, der große, berühmte
-Harſt ...
+Winselte kläglich um ein Almosen …
 
-Winſelte kläglih um ein Almoſen ...
+Ollenprick glotzte den Schmierfink nun derart verblüfft
+an, daß ich tatsächlich mir das Lachen verbeißen mußte …
 
-Ollenpri> glotzte den Schmierfink nun derart verblüfft
-an, daß ich tatſächlich mir das Lachen verbeißen mußte ...
+Ich faßte in mein dem Kostüm als Frau Konnte erst
+spielendes Handtäschchen und warf ein paar Münzen auf
+den Steinbelag des Hafenkais …
 
-Ich faßte in mein dem Koſtüm als Frau Scrinke ents
-ſprehendes HandtäſHc<hen und warf ein paar Münzen auf
-den Steinbelag des Hafenkais ...
+Dann zog im meinen noch immer ganz versauerten Gemahl
+mit mir — links um kehrt —, und flüsterte ihm zu:
 
-Dann 30g im meinen noh immer ganz vertatterten Ges
-mahl mit mir -- links um kehrt --, und flüſterte ihm zu: |
+»Ollenprick, Sie müssen sich mehr zusammennehmen!!«
 
-„Ollenpri&, Sie müſſen ſich mehr zuſammennehmen!!!“
+»Heiliger Klabautermann!!« entschuldigte er sich … »Der
+alte Kerl stank ja tatsächlich zehn Meilen gegen den Wind nach
+Schweiß und alten Lumpen! Wie sollte ich da ahnen, daß
+es unser Harst war?!«
 
-„Heiliger Klabautermann!!!“ entſchuldigte er ſiH ... „Der
-alte Kerl ſtank ja tatſächlich zehn Meilen gegen den Wind nach
-Schweiß und alten Lumpen! Wie ſollte ih da ahnen, daß
-es unſer Harſt war?!“
+»Käpten, Gestank gehört eben mit zur Maske … Ein
+Bettler, der nach Lavendelseife duftet, findet wenig Glauben,
+was seine Echtheit betrifft …
 
-„Käpten, Geſtank gehört eben mit zur Maske ... Ein
-Bettler, der nach Lavendelſeife duftet, findet wenig Glauben,
-was ſeine Ehtheit betrifft .
+Und so stelzten wir denn unserem Fremdenheim zu, gaben
+scharf acht, ob auch wirklich niemand hinter uns her sei …
 
-Und ſo ſtelzten wir denn unſerem Fremdenheim zu, gaben
-ſharf aht, ob auh wirklich niemand hinter uns her ſei ...
+Ich traute dem Frieden nicht recht, denn vorhin glaubte
+ich einen rotbärtigen Matrosen am Kai bemerkt zu haben,
+den ich morgens schon in der Straße gesehen hatte, in der
+unser deutsches Quartier lag, — vorhin, gerade als Ollenprick
+die Hand heben wollte …
 
-IH traute dem Frieden nicht recht, denn vorhin glaubte
-ic< einen rotbärtigen Matroſen am Kai bemerkt zu haben,
-den iM morgens ſchon in der Straße geſehen hatte, in der
-unſer deutſches Quartier lag, = vorhin, gerade als Ollenpri>
-die Hand heben wollte ...
+Dann war aber Haralds Auftauchen dazwischen gekommen,
+und nun war der verdächtige Kerl weg — wie vom Erdboden
+weggeblasen …
 
-Dann war aber Haralds Auftauchen dazwiſchen gekommen,
-und nun war der verdächtige Kerl weg -- wie vom Erdboden
-weggeblaſen ...
 <@pagebreak/>
-B8S0SDSSSSSSOSS 18 DSSSOSOIDIOODSEDS
+Immerhin hatte mich dieser Rotfuchs argwöhnisch gemacht,
+und als wir unsere im ersten Stock des Pensionats gelegenen
+Zimmer erreicht hatten, spähte ich durch die engen Eilten
+der herabgelassenen Stabjalousien hindurch und blieb etwa
+zehn Minuten auf diesem Beobachtungsposten, ohne freilich
+den Matrosen unten auf der Straße herausfinden zu können.
+Die Straße war sehr belebt, und es war daher auch nicht ganz
+einfach, einen bestimmten Menschen sofort zu entdecken, zumal
+Seeleute in Menge vorüberkamen.
 
-Immerhin hatte mich dieſer Notfu<8 argwöhniſch gemacht,
-und als wir unſere im erſten Sto> des Penſionats gelegenen
-Zimmer erreicht hatten, ſpähte ich dur< die engen Riten
-ver herabgelaſſenen Stabjalouſien hindurH und blieb etwa
-zehn Minuten auf dieſem Beobachtungspoſten, ohne freilich
-den Matroſen unten auf der Straße herausfinden zu können.
-Die Straße war ſehr belebt, und e8 war daher auc<h nicht ganz
-einfach, einen beſtimmten Menſchen ſofort zu entde>en, zu»
-mal Seeleute in Menge vorüberkamen.
+OllenpriFckX erachtete diese meine Vorsicht als höchst überflüssig
+und sagte halb ironisch:
 
-OllenpriF>X erachtete dieſe meine Borſih<t als höhſt über»
-flüſſig und ſagte halb ironiſch:
+»Ihr Detektive seid alle so’n bißchen vom Verfolgungswahn
+befallen … Harst hat uns doch auf dem Dampfer ans
+gedeutet, daß wir …«
 
-„Ihr Detektive ſeid alle ſo'n biß<en vom VBerfolgung8»
-wahn befallen ... Harſt hat uns do< auf dem Dampfer ans
-gedeutet, daß wir ...“
+»Leiser!!« fuhr ich ihn an … »Wie können Sie hier,
+wo die Zimmer durch so dünne Wände voneinander getrennt
+sind, mit derartigem Stimmaufwand den Namen Harst
+nennen! Wissen Sie denn, ob wirklich) nebenan harmlose
+Leute wohnen?!«
 
-„Leiſer!!“ fuhr ich ihn an ... „Wie können Sie hier,
-wo die Zimmer durd) ſo dünne Wände voneinander getrennt
-ſind, mit derartigem Stimmaufwand den Namen Harſt
-nennen! Wiſſen Sie denn, ob wirkli) nebenan harmloſe
-Leute wohnen?!“
+Ich hatte diesen gereizten Satz kaum beendet, als ein sehr
+merkwürdiger Zwischenfall eintrat …
 
-Id) hatte dieſen gereizten Satz kaum beendet, al8 ein ſehr
-merkwürdiger Zwiſchenfall eintrat ...
+Die Tür unseres Wohnsalons öffnete sich lautlos, und
+blitzschnell huschte ein gutgekleideter Farbiger herein, der die
+Tracht der indischen Dienstmänner trug …
 
-Die Tür unſere8 Wohnſalons öffnete ſic) lautlos, und
-blitſ<hnell huſchte ein gutgekleideter Farbiger herein, der die
-Tracht der indiſchen Dienſtmänner trug ...
+Ein Blick in das braune Gesicht genügte …
 
-Ein Bli> in das braune Geſicht genügte ...
+Es war Paratu, einer der malaiischen Matrosen
+O’Kellings …
 
-E8 war Paratu, einer der malaiiſ<en Matroſen
-O'Kellings ...
+Ein Mann, der überaus zuverlässig war und der Harald
+und mir schon wichtige Dienste geleistet hatte …
 
-Ein Mann, der überaus zuverläſſig war und der Harald
-und mir ſchon wichtige Dienſte geleiſtet hatte ...
-
-Nachdem er die Tür ebenſo leiſe wieder zugedrückt hatte,
+Nachdem er die Tür ebenso leise wieder zugedrückt hatte,
 legte er den Zeigefinger auf die Lippen, zeigte mit der Linken
-nac<4 der Verbindungswand de8 Nebenzimmers und reichte
-mir einen Brief .. .
+nach4 der Verbindungswand des Nebenzimmers und reichte
+mir einen Brief …
 
-Dann verſhwand er in der gleihen Weiſe ... --
+Dann verschwand er in der gleiten Weise … —
 
-Ollenpri>k ſtarrte mich an ...
+Ollenprick starrte mich an …
 
-Jetzt ... flüſterte er ...
+Jetzt … flüsterte er …
+
 <@pagebreak/>
-DSSSSDSSSSDSDOS 19 082202020020 S0302020202
+»Wer war denn das?!«
 
-„Wer war denn das?!“
+Ich hatte anderes zu tun … Ich öffnete den frisch Zuge
+klebten Umschlag, der keine Adresse zeigte, und 3o0g den
+Zettel hervor …
 
-Ih hatte anderes zu tun ... Ich öffnete den friſch zuge
-klebten Umſchlag, der keine Adreſſe zeigte, und 3o0g den
-Zettel hervor ...
+Dort stand lediglich — mit Bleistift von Harald flüchtig
+gefesselt:
 
-Dort ſtand lediglich =- mit Bleiſtift von Harald flüchtig
-gefrigelt:
+»Die Dame neben euch auf Nr. 12 Spionin. Wenn
+möglich, sofort für einige Stunden »ausschalten« … Dann
+sofort auf Umwegen zur »Lady«. H.«
 
-„Die Dame neben eu< auf Nr. 12 Spionin. Wenn
-möglich, ſofort für einige Siunden „ausſchalten“ ,.. Dann
-ſofort auf Umwegen zur „Lady“. H.“
-
-Alſo doch!!
+Also doch!!
 
 Eine Spionin, und zwar unmittelbar neben uns!!
 
-Ih gab OllenpriF> den Zettel ...
+Ich gab OllenpriFck den Zettel …
 
-Er las; ſc<lentferte den Kopf ...
+Er las; schlentferte den Kopf …
 
-Flüſterte: „Was heißt das =- ausſc<halten?1“
+Flüsterte: »Was heißt das — ausschalten?!«
 
-„Das werden Sie gleich mit erle>en, Käpten ...,“* ers
-widerte ich nod) leiſer. „I<h muß mir nur erſt überlegen, wie
-wir die Geſchichte reht ſ<lau anfangen. -=- Halt, ein Ge-
-danke ... I< lege mich hier auf den Diwan, ſpiele die Ohn=
-mächtige, und Sie klopfen bei Nr. 12 an und bitten flehent=
-lim, Ihnen doh beizuſtehen, da Ihre Frau plötzlih umges=
-ſunken ſei ... IM nehme nur das Chloroformfläſhhen aus
-dem Koffer ...“ =-
+»Das werden Sie gleich mit erleben, Käpten …« elf
+widerte ich noch leiser. »Ich muß mir nur erst überlegen, wie
+wir die Geschichte recht schlau anfangen. — Halt, ein Gedanke
+… Ich lege mich hier auf den Diwan, spiele die Ohnmächtige,
+und Sie klopfen bei Nr. 12 an und bitten flehentlich,
+Ihnen doch beizustehen, da Ihre Frau plötzlich umgehenden
+sei … im nehme nur das Chloroformfläschchen aus
+dem Koffer …« —
 
-Alles was recht iſt: Ollenpri> benahm ſich tadellos 3=
-ſhi>t ... I< hätte ihm das kaum zugetraut .
+Alles was recht ist: Ollenprick benahm sich tadellos 3-
+schickt … Ich hätte ihm das kaum zugetraut …
 
-Der Flur war leer ..
+Der Flur war leer …
 
-Er klopfte ... Er hatte unſere Tür offen gelaſſen ...
-Ih hörte ihn mit einer weiblichen Perſon reden .. .
+Er klopfte … Er hatte unsere Tür offen gelassen …
+Ich hörte ihn mit einer weiblichen Person reden …
 
-Dann kamen ſie zu mir herein, ...
+Dann kamen sie zu mir herein …
 
-I lag mit geſchloſſenen Auoen da .
+lag mit geschlossenen Augen da …
 
-Die Fremde hielt mir ein Niechfläſchhen unter die Naſe.
+Die Fremde hielt mir ein Riechfläschchen unter die Nase.
 
-Und dieſen Liebos8dienſt lohnte ich ſchſeht ...
+Und diesen Liebesdienst lohnte ich schlecht …
 
-Drei Minuten drauf lag ſtatt meiner eine blonde, ſchlanke
-Frau von vielleiht dreißig Jahren auf demſelben Diwan,
-betäubt dur< Chloroform ...
+Drei Minuten drauf lag statt meiner eine blonde, schlanke
+Frau von vielleicht dreißig Jahren auf demselben Diwan,
+betäubt durch Chloroform …
 
 Ein gemeiner Streich, könnte mancher denken! Aber
-man ſtelle ſi die Sachlage vor: Hier handelte es ſich nach
+man stelle sich die Sachlage vor: Hier handelte es sich nach
 <@pagebreak/>
-DSSSDSDSSSDSS 20 SSOSSDOSSDSDSSDODSDS
+Harsts Behauptung um ein schweres Verbrechen, und diese
+Fremde, die ich nun ausggeschaltet hatte, war zweifellos
+irgendwie mit an diesem Verbrechen beteiligt! Da konnte
+also von Rücksichtnahme und Schonung nicht gut die Rede
 
-Harſt3 Behauptung um ein ſc<were8 Berbrechen, und dieſe
-Fremde, die iH nun ausggeſchaltet hatte, war zweifellos
-irgendwie mit an dieſem Berbrechen beteiligt! Da konnte
-alſo von Rücſihtnahme und Schonung nicht gut die Rede
+sein!
 
-ſein!
+Auf einen Wink von mir hatte der Käpten die Tür verriegelt
+…
 
-Auf einen Wink von mir hatte der Käpten die Tür ver=
-riegelt ...
+Es kam nun darauf an, die Blonde irgendwo zu verbergen
+…
 
-E83 kam nun darauf an, die Blonde irgendwo zu ver=
-bergen .
+Wir legten sie im Schlafzimmer in einen Schrank, bohrten
+schnell in die Rückwand ein paar Luftlöcher und schlossen
+den Schrank ab. Den Schlüssel steckte ich ein.
 
-Wir legten ſie im Schlafzimmer in einen Schrank, bohrten
-ſhnell in die Rü>wand ein paar Luftlöher und ſchloſſen
-den Schrank ab. Den Schlüſſel ſte>te ich ein.
+Schon eine halbe Stunde drauf saßen wir mit unserem
+Gepäck in einem Auto …
 
-Schon eine halbe Stunde drauf ſaßen wir mit unſerem
-Gepäk in einem Auto ...
-
-Eine ähnliche Komödie wie in Genua begann. Wir vers
-ließen Madras, ſchiten das Auto von einem Raſthauſe zurü>
-und beſtellten telephoniſ< ein andere8 Auto, das uns --
-jetzt ſo, wie Wilm OllenpricK und Max Schraut in Wirklich=
-keit ausfahen, nach der Stadt zurückbrachte und mit unſerem
-Gepäc am Haupthafen abſetzte, wo wir an einer Bootsanlege=
-ſtelle ſo lange warteten, bis der Krafiwagen ſich wiede" ent=
-fernt hatte, damit der braune Chauffeur, falls doH Spione
-uns belauert haben ſollten, niht verraten könnte, wo wir
+Eine ähnliche Komödie wie in Genua begann. Wir Vers
+ließen Madras, schien das Auto von einem Rasthause zurück
+und bestellten telephonisch ein anderes Auto, das uns —
+jetzt so, wie Wilm Ollenprick und Max Schraut in Wirklichkeit
+aussahen, nach der Stadt zurückbrachte und mit unserem
+Gepäck am Haupthafen absetzte, wo wir an einer Bootsanlegestelle
+so lange warteten, bis der Kraftwagen sich Liebe« entfernt
+hatte, damit der braune Chauffeur, falls doch Spione
+uns belauert haben sollten, nicht verraten könnte, wo wir
 geblieben waren.
 
-Ein Ruderboot verſhwand dann mit uns zwiſchen den
-gewaltigen Leibern der ankernden Ozeanrieſen. Der Boots=
-beſitzer, ein alter Inder, mußte uns bald hierhin, bald dortz
-hin rudern, und erſt nach Tiner halben Stunde landeten wir
-dann in dem kleinen Hafenbaſſin, unweit der „Lady Ha=
-milton“, von wo unſere Koffer dur< O'Kelling38 Malaien raſch
-an Bord der „Lady“ geſchafft wurden.
+Ein Ruderboot verschwand dann mit uns zwischen den
+gewaltigen Leibern der ankernden Ozeanriesen. Der Bootsbesitzer,
+ein alter Inder, mußte uns bald hierhin, bald dort
+hin rudern, und erst nach Tiger halben Stunde landeten wir
+dann in dem kleinen Hafenbassin, unweit der »Lady Hamilton«,
+von wo unsere Koffer durch O’Kellings Malaien rasch
+an Bord der »Lady« geschafft wurden.
 
-Und nun kam denn auh in der He&Fkajüte de8 Kutter8
-die Begrüßungsſzene zwiſchen mir und Allan O'Kelling, und
-die überraſchende und ſcherzhafte ... Erneuerung der Bekannt
-ſhaft zwiſchen den beiden Kapitänen.
+Und nun kam denn auch in der Heckkajüte des Kutters
+die Begrüßungsszene zwischen mir und Altan O’Kelling, und
+die überraschende und scherzhafte … Erneuerung der Bekannt
+Untersuchungshaft zwischen den beiden Kapitänen.
+
 <@pagebreak/>
-SSSDSODBSSDOSOSSO 21 SEDEBDEBSSSOES
-
-Ollenpri> ſchaute den kleinen O'Kelling mit unglaublic<
-verblüſftem Geſicht an ..
+Ollenprick schaute den kleinen O’Kelling mit unglaublich
+verblüfften Gesicht an …
 
 Dann rief er:
 
-„Da ſoll doc wirkli<h der Teufel uns 'ne Buddel Sekt
-ſpendieren ..!! Das iſt ja derſelbe O'Kelling, der mal als
-erjier Steuermann auf meinem Dampfer „Hamburg“ ein hals
-bes Jahr meiſtenteils ... beſ ... trunken war!! -- Menſ<,
-Mann, = - ſind Sie's denn wirklih?! I< glaubte, Sie
-müßten ſich längſt radikal tot geſoffen haben!“
+»Da soll doch wirklich der Teufel uns ’ne Buddel Sekt
+spendieren …!! Das ist ja derselbe O’Kelling, der mal als
+erster Steuermann auf meinem Dampfer »Hamburg« ein halbes
+Jahr meistenteils … des … trunken war!! — Mensch,
+Mann, — — sind Sie’s denn wirklich?! Ich glaubte, Sie
+müßten sich längst radikal tot gesoffen haben!«
 
-Und Ollenpri> ſtre&te dem um zwei Köpfe kleineren Eng=
-länder beide Hände hin ...
+Und Ollenprick streckte dem um zwei Köpfe kleineren Engländer
+beide Hände hin …
 
-O'Kelling grinſte und zeigte ſeine drei ſchwarzen Zahn=
-ſtummel ...
+O’Kelling grinste und zeigte seine drei schwarzen Zahnstummel
+…
 
-„So ſchnell geht's mit dem Toiſaufen denn doh nicht,
-Ollenpri>!! Gewiß, ic) habe mein Lebtag eine ſtarke Neis=
-gung für noch ſtärkere Getränke gehabt ... Aber auch das
-hatte ſeinen Vorteil ... Mein werter Kadaver iſt verart mit
-Rum durchſeßt, daß alle Krantheits8bazillen krepieren, die ſich
-verſehentlich mal in mein Inneres wagen ..!“
+»So schnell geht’s mit dem Loskaufen denn doch nicht,
+Ollenprick!! Gewiß, ich habe mein Lebtag eine starke Fortgang
+für noch stärkere Getränke gehabt … Aber auch das
+hatte seinen Vorteil … Mein werter Kadaver ist derart mit
+Rum durchlebt, daß alle Krantheitsbazillen krepieren, die sich
+versehentlich mal in mein Inneres wagen …!«
 
 Und die beiden Kapitäne lachten, daß Ihnen die Tränen
-über die braunen Wangen lieſen, drüFten ſich immer wieder
-die Hände und hatten mich total vergeſſe, begannen in olten
-Erinnerungen zu ſchwelgen, und mußten erjt durch meinen
-Zwiſchenruf daran gemahnt werden, daß wir dod) jetzt ent=
-ſchieden Wichtigeres vorhätten, als dieſe propſeuHien Er-
-lebniſſe von einſt.
+über die braunen Wangen liegen, trösten sich immer wieder
+die Hände und hatten mich total vergesse, begannen in alten
+Erinnerungen zu schwelgen, und mußten erst durch meinen
+Zwischenruf daran gemahnt werden, daß wir doch jetzt entschieden
+Wichtigeres vorhätten, als diese propseuHien Erlebnisse
+von einst.
 
-Wir nahmen um den runden Tiſch Plaz ...
+Wir nahmen um den runden Tisch Platz …
 
-O'Felling kratzte ſich den Schädel und meinte:
+O’Kelling kratzte sich den Schädel und meinte:
 
-„Iw. = wo Harſt iſt?! =- Nicht weit, lieder Schraut ...
-Dart im Nebenraum ſ<läft er ... Laſſen wir ihn ſchlafen ...
-Es iſt ja alles bereits in Ordnung ... Wir verlaſſen ſofort
-den Hafen -- ſofort ... Harſt hat mir genaue Verhaliunng2=
-maßregeln gegeben, gan3 genaue. Ih bin in alles eingeweiht
-... Entſchuldigen Sie mich alſo ... IG muß an Des ...“
+»Im. — wo Harst ist?! — Nicht weit, Lieder Schraut …
+Dar! im Nebenraum schläft er … Lassen wir ihn schlafen …
+Es ist ja alles bereits in Ordnung … Wir verlassen sofort
+den Hafen — sofort … Harst hat mir genaue Verhaltungsmaßregeln
+gegeben, ganz genaue. Ich bin in alles eingeweiht
+… Entschuldigen Sie mich also … Ich muß an Des …«
 
-Er verließ die mir ſo wohlbekannte Kajüte ...
+Er verließ die mir so wohlbekannte Kajüte …
 
-Und gleiH darauf machte die „Lady Hamilton“ vom Bolls=
+Und gleich darauf machte die »Lady Hamilton« vom Bollwerk
 <@pagebreak/>
-SDSSSOSDOSDDEIOSOO 22 SSOSDSSDSEDOES
+los, und schlich mit knatterndem Hilfsmotor in die eiserne
+See hinaus …
 
-werk los, und ſ<lic< mit knatterndem Hilfsmotor in die offeiue
-See hinaus ...
+Kurs: Kapitän Ollenpricks Insel!!
 
-Kurs: Kapitän Ollenpri>s Inſel!!
+Das heißt: genau nach Osten, mitten in den Meerbusen
+von Bengalen hinein — — mehr auf gut Glü, denn die
+Insel selbst mußte erst gesucht werden!
 
-Das heißt: genau nach Oſten, mitten in den Meerbuſen
-von Bengalen hinein -- -=- mehr auf gut Glü, denn die
-Inſel ſelbſt mußte erſt geſuc<t werden!
+denn Omen meine Omen
 
-enn emen meme emen
+<h2>4. Kapitel.</h2>
 
-4, Kapitel.
+Der Leser kann sich unschwer vorstellen, wie gespannt
+Ollenprick und ich auf Haralds Hamburger Erlebnisse und
+auf den Inhalt der Seite 129 des Jahrgangs 1999 der Heute
+sehen Seemannszeitung waren.
 
-Der Leſer kann ſiHh unſchwer vorſtellen, wie geſpannt
-Ollenpri>d und ich auf Harald8 Hamburger Erlebniſſe und
-auf den Inhalt der Seite 129 de8 Jahrgangs 1999 der Deuts
-ſ<en SeemannS8zeitung waren.
+So sehr wir ihm auch den Schlaf gönnten, — denn ohne
+Not legte Harst sich am Tage wahrhaftig nicht in die Koje! -,
+so wünschten wir doch, daß er recht bald erwache …
 
-So ſehr wir ihm auch den Schlaf gönnten, -- denn ohne
-Not legte Harſt ſic) am Tage wahrhaftig nicht in die Koje! -,
-ſo wünſchten wir doch, daß er re<ht bald erwache ...
+Eis war jetzt seit Uhr nachmittags …
 
-Es8 war jetzt ſeHs Uhr nachmittags ...
+Als wir erst die Stadt und die Küste außer Sicht hatten,
+begaben wir uns an Deck und saßen nun hier mit O’Kelling
+unter dem Sonnensegel vor der Kajütentür.
 
-Al3 wir erſt die Stadt und die Küſte außer Sicht hatten,
-begaben wir uns an De> und ſaßen nun hier mit O'Kelling
-unter dem Sonnenſegel vor der Kajütentür.
-
-E8 war no<h gehörig heiß, und dazu herrſchte leider
-völlige Windſtille. Die See lag wie geſhmolzene8 Blei da,
-und die lieben anhänglihen Haifiſche, die ſo gern jedem
+Es war noch gehörig heiß, und dazu herrschte leider
+völlige Windstille. Die See lag wie gestrichenes Blei da,
+und die lieben anhänglichen Haifische, die so gern jedem
 Schiff das Geleit geben, waren in der klaren Flut deutlich
-zu erkennen ...
+zu erkennen …
 
-Ollenpri> fragte O'Kelling, ob dieſer aucF; von Harald
-etwas über die Seite Nr. 129 erfahren habe ...
+Ollenprick fragte O’Kelling, ob dieser Ruck; von Harald
+etwas über die Seite Nr. 129 erfahren habe …
 
-„Und ob!!“ niäte der kleine Kutterkapitän. „Und ob!!
-Alles hat er mir erzählt, alles ...“
+»Und ob!!« Kiste der kleine Kutterkapitän. »Und ob!!
+Alles hat er mir erzählt, alles …«
 
-Dann ſc<aute er nach ſeiner Taſchenuhr, die den Namen
-„3Zwiebel“ durc<haus verdiente ... E8 war ſo ein uraltes, ſil=
-bernes Ding von Taſſengröße ... Aber O'Kelling liebte
-ſie und trug ſie wie ein WertſtüX in einem RVohlederſä><hen.
+Dann schaute er nach seiner Taschenuhr, die den Namen
+»3Zwiebel« durchaus verdiente … Es war so ein uraltes, silbernes
+Ding von Tassengröße … Aber O’Kelling liebte
+sie und trug sie wie ein Pendeltür in einem RVohledersäckchen.
 
-„Im -- ſieben Uhr ...,“ meinte er. „Um ſieben wollte
-Harſt gewe>t werden ... Dann mag er Ihnen alles berichten
+»Im — sieben Uhr …« meinte er. »Um sieben wollte
+Harst geweckt werden … Dann mag er Ihnen alles berichten
 <@pagebreak/>
-DSDSSSSSSSSS 93 DSOSDSSSSSDSD
+… Ich bin nicht für so lange Erzählungen … Außerdem
+würde ich auch sicherlich die Hälfte vergessen …«
 
-... Ih bin nicht für ſo lange Erzählungen ... Außerdem
-würde ich auh ſicherlih die Hälfte vergeſſen ...“
+Ich sprang auf …
 
-Ich ſprang auf ... .
+»Ich werde ihn weder …!« rief ich, denn daß wollte ich
+mir nicht nehmen lassen … Ich hatte Sehnsucht nach Harald
+… Wir hatten uns nun ja im Verlauf von zwei Wochen
+nur ganz flüchtig gesprochen, einmal an Bord des Columbus
+und das zweite Mal in Madras am Kai — vor rund acht
+Stunden …
 
-„Ich werde ihn weden ..!“ rief ih, denn da8 wollte ich
-mir nicht nehmen laſſen ... I< hatte Sehnſucht nach Harald
-... Wir hatten uns nun ja im Berlauf von zwei Wochen
-nur ganz flüchtig geſprochen, einmal an Bord des Columbus
-und vas zweite Mal in Madras am Kai -- vor rund acht
-Siunden ...
+Ich also: Hinein in die Kajüte und die Tür zur Neben
+Kabine vorsichtig geöffnet …
 
-IH alſo: Hinein in die Kajüte und die Tür zur Neben
-kabine vorſichtig geöffnet ...
+Hier in diesem kleinen Nebenraum hatten Harald und ich
+vor Monaten längere Zeit gehaust …
 
-Hier in dieſem kleinen Nebenraum hatten Harald und ich
-vor Monaten längere Zeit gehauſt .
+Schöne, aufregende Tage waren daß gewesen …! —
 
-Schöne, aufregende Tage waren da8 geweſen ...! =
+Das kleine Fenster ließ nur schwaches Licht herein …
 
-Das kleine Fenſter ließ nur ſ<waches Licht herein ...
+Dort an der Wand die beiden schmalen Betten übereinander
+…
 
-Dort an der Wand die beiden ſchmalen Betten überein=
-ander ...
+Und — — beide leer …
 
-Und -- -- beide leer ...
+Au) die Kabine leer …
 
-Au) die Kabine leer ...
+Kein Harald — nirgends …
 
-Kein Harald -- nirgends ...
+Dann bemerkte ich auf dem unteren Bett einen Zettel …
 
-Dann bemerkte ic auf dem unteren Bett einen Zettel ...
+Schoß wie ein Stoßvogel darauf zu …
 
-Schoß wie ein Stoßvogel darauf zu .
+Las … Von Harald — wenig, aber vieldeutig:
 
-Las ... Bon Harald -- wenig, aber vieldeutig:
+Habe mich doch entschlossen, die Fahrt mit der Ärgern
+Partei mitzumachen. — Gruß H.
 
-Habe mich dod) entſchloſſen, die Fahrt mit der Gegena
-partei mitzumachen. -- Gruß H.
+Ein Arg nach dem kleinen Fenster hin …
 
-Ein BliX nach dem kleinen Fenſter hin ...
+Es war nur angelehnt …
 
-E8 war nur angelehnt ...
+Also dort war er hinausgeschlüpft, ganz heimlich …
 
-Alſo dort war er hinaus8geſchlüpft, ganz heimlic< ...
+Hatte sich wohl gescheut, O’Kelling von seinem abenteuerlichen
+Plan etwas mitzuteilen!
 
-Hatte ſic) wohl geſcheut, O'Kelling von ſeinem aben=
-teuerlihen Plan etwas mitzuteilen!
+Man denke: »Fahrt mit der Gegenpartei!« — Das hieß
+doch nichts anderes, als daß er mit den Hamburger »Wespen«
+nach Käpten Ollenpricks Insel wollte!
 
-Man denke: „Fahrt mit der Gegenpartei!“ -- Das hieß
-doh nichts anderes, als daß er mit den Hamburger „Weſpen“
-nach Käpten Ollenpri>s Inſel wollte!
+Natürlich verkleidet …
 
-Natürlich verkleidet ...
+Natürlich als Matrose — dergleichen?!
 
-NatürliHh als Matroſe -- dergleichen?!
 <@pagebreak/>
-DSDSDSEGBDOILDLS 241 DSE DEHOBSEEDD
+Und ich eilte wieder an Dr, zeigte den beiden Kapitänen
+den Zettel …
 
-Und iH eilte wieder an De, zeigte den beiden Kapitänen
-den Zettel ...
+Sie waren sprachlos …
 
-Sie waren ſprachlos ...
+O’Kelling fluchte …
 
-O'Kelling fluchte ...
+»Soll ein Leichtsinn von Harst!! Und nun muß ich
+Ihnen ja doch die ganze Sache berichten … Werde mir dazu
+erst die Kehle schmieren … Gehörig schmieren!! — Paratu!!«
 
-„Solh ein Leichtſinn von Harſt!! Und nun muß ich
-Ihnen ja doh die ganze Sache berichten ... Werde mir dazu
-erſt die Kehle ſchmieren ... Gehörig ſ<mieren!! -- Paratu!!“
+Der Malaie kam vom Vorderdeck herbei. Ich hatte ihn
+schon vorher begrüßt …
 
-Der Malaie kam vom Borderde> herbei. Ih hatte ihn
-ſchon vorher begrüßt ...
-
-O'Kelling ließ Whisky, Eis, Sodawaſſer und Zigarren
-bringen ...
+O’Kelling ließ Whisky, Eis, Sodawasser und Zigarren
+bringen …
 
 Dann legte er los:
 
-„Herrſc<haften, iH mad<h's kurz ... Die Geſchichte verhält
-ſiH ſo ... Auf der Seite 129 fand Harſt die Meldung, daß
-die große Dampfja<ht des Hamburger Großkaufmannes und
-WMillionärs Iohanne8 Margenbe> ſeit Dezember 1903 über=
-fällig, alſo verſchollen ſei. Die Jacht hieß Sybille und war
-von Melbourne in Auſtralien nach Kalkutta unterwegs ge=
-weſen. An Bord hatten ſich befunden: Johannes Margenbe>
-nebſt Frau, die ihn in Melbourne mit Zwillingen beſchenkt
-batte, ferner eine Beſazung von rund fünfzehn Köpfen. =-
-Gerade die Zwillinge hatten Harſt nun ſofort vermuten laſſen,
-daß der verroſtete Dampfer in der Weſtbucht der unbekannten
-Inſel die Iacht Sybille ſein müſſe, denn all das auſtraliſche
-Getier, das Sie, Ollenpri>, dort auf der Inſel vorfanden,
-ſprach doch ebenfalls ſehr für dieſe Vermutung. -- Harſt fuhr
-alſo na) Hamburg und erkundigte ſich hier nach der Fa=
-milie Margenbe>, ohne natürlih den Grund ſeiner Wiß=
-begierde zu verraten. So hörte er denn, daß Iohannes8 Max»
-genbe> von ſeinem Bruder Beter beerbt worden war, und
-daß dieſer vorher von den inzwiſchen verſtorbenen Eltern der
-Brüder verſioßen worden war, weil er nicht nur einen über=
-aus leichtfertigen Lebenswandel geführt, ſondern auch ſchließ=
-liM noH eine der eleganteſten Halbweitdamen Hamburgs ge»
-heiratet hatte, was damals im Jahre 1907 in der berühmten
-Hanſeſtadt einen ungeheuren Skandal hervorgerufen hatte ...
+»Herrschaften, ich madch’s kurz … Die Geschichte verhält
+sich so … Auf der Seite 129 fand Harst die Meldung, daß
+die große Dampfjacht des Hamburger Großkaufmannes und
+Millionärs Johannes Margenbeck seit Dezember 1903 überfällig,
+also verschollen sei. Die Jacht hieß Sybille und war
+von Melbourne in Australien nach Kalkutta unterwegs gewesen.
+An Bord hatten sich befunden: Johannes Margenbeck
+nebst Frau, die ihn in Melbourne mit Zwillingen beschenkt
+hatte, ferner eine Besatzung von rund fünfzehn Köpfen. —
+Gerade die Zwillinge hatten Harst nun sofort vermuten lassen,
+daß der verrostete Dampfer in der Westbucht der unbekannten
+Insel die Jacht Sybille sein müsse, denn all das australische
+Getier, das Sie, Ollenprick, dort auf der Insel vorfanden,
+sprach doch ebenfalls sehr für diese Vermutung. — Harst fuhr
+also na) Hamburg und erkundigte sich hier nach der Familie
+Margenbeck, ohne natürlich den Grund seiner Wißbegierde
+zu verraten. So hörte er denn, daß Johannes Margenbeck
+von seinem Bruder Peter beerbt worden war, und
+daß dieser vorher von den inzwischen verstorbenen Eltern der
+Brüder verließen worden war, weil er nicht nur einen überaus
+leichtfertigen Lebenswandel geführt, sondern auch schließlich
+noch eine der elegantesten Halbweltdamen Hamburgs geheiratet
+hatte, was damals im Jahre 1907 in der berühmten
+Hansestadt einen ungeheuren Skandal hervorgerufen hatte …
+
 <@pagebreak/>
-ODSSODSESSSSSSS 295 SBO SDSSSSDDSS-
+— Zu diesem Peter MargenbeckX begab sich nunmehr Harst
+und ließ sich vorsichtshalber als Schiffskapitän unter anderem
+Namen melden, erzählte dem durch die Erbschaft zum Millionär
+gewordenen eine gut erfundene Geschichte, und zwar des
+Inhalts, daß er direkt aus Indien, aus Madras käme, wo
+er zufällig von Fischern gehört habe, es solle da im Meerbusen
+von Bengalen auf einer Insel ein Wrack liegen, das
+von zwei Australnegern bewacht würde, die außerdem zwei
+weiße Kinder bei sich hätten … — Harst merkte, daß diese
+Andeutungen den Millionär Mancherlei völlig außer Fassung
+brachten, tat jedoch so, als ob ihm die Erregung des einstigen
+Wüstlings vollkommen entginge, und erklärte weiter, er habe
+seinerzeit von dem Verlust der Dampfjacht Sybille Kenntnis
+erhalten und hielte es daher für seine Pflicht, Herrn Peter
+Margenbeck von diesen merkwürdigen Gerüchten Mitteilung
+zu machen, worauf dieser erwiderte, auf derartige Fischernachen
+sei wohl kaum etwas zu geben, trotzdem würde er
+die nötigen Nachforschungen einleiten, ob es sich etwa wirklich
+um die Kinder seines Bruders handele … — Hiermit war
+Harst entlassen.
 
--=- Zu dieſem Peter Margenbe>X begab ſich nunmehr Harſt
-und ließ ſich vorſichtShalber als SHiff8kapitän unter anderem
-Namen melden, erzählte dem durch die Erbſchaft zum Millio»
-när gewordenen eine gut erfundene Geſchichte, und zwar des
-Inhaits, daß er direkt aus Indien, aus Madras käme, wo
-er zufällig von Fiſchern gehört habe, es ſolle da im Meer»
-buſen von Bengalen auf einer Inſel ein Wrack liegen, das
-von zwei Auſtralnegern bewa<t würde, die außerdem zwei
-weiße Kinder bei ſich hätten ... -- Harſt merkte, daß dieſe
-Andeutungen den Millionär MargenbeF völlig außer Faſſung
-brachten, tat jedoch ſo, als ob ihm die Erregung des einſtigen
-Wüſtlings vollkommen entginge, und erklärte weiter, er habe
-ſeinerzeit von dem Berluſt der Dampfjacht Sybille Kenntnis
-erhalten und hielte e8 daher für ſeine Pflicht, Herrn Beter
-MargenbeX> von dieſen merkwürdigen Gerüchten Mitteilung
-zu machen, worauf dieſer erwiderte, auf derartige Fiſcher-
-märchen ſei wohl kaum etwas zu geben, troßdem würde er
-die nötigen Nachforſchungen einlciten, ob es ſich etwa wirklich
-um die Kinder ſeines Bruders handele ... = Hiermit war
-Harſt entlaſſen.
-
-Nber = = kaum war er die Stra3e, in der das alte
-Batrizierhaus der Margenbe>s ſie erhebt, ein Giüä ent=
-langgeſchritten, al8 er auch ſc<hon feſtſtellte =- womit er
-Übrigens gerechnet hatte =, daß Beter Margenbe> ihm heims=
-lim folgte. Nachher bemerkte er auc< noh zwei andere Leute,
-die ihn dauernd belauerten, und dies mit einer GeſchiFlich=
-keit, daß e8 ſelbſt ihm nicht gelang, die Berfolger abzu»
-ſchüttein ... Da er leider in dem Hotel, wo er abgeſtiegen war,
-ſeinen richtigen Namen angegeben hatte, mußte er damit
-rehnen, daß Margenbe> bereit8 wüßte, wer der angebliche
-Kapitän geweſen. Des8halb au< ſchiäte er Ihnen, lieber
-SHraut, die Chiffredepeſihe nach Genua und verſchwand bei
-Nacht und Nebel aus ſeinem Hotel und verſchaffte ſich nach»
-ber die Steilung als Steward auf dem Dampfer Columbus,
-den dann au<h die Gegenpartei, nämlih Peter Margenbeck
-nebſt Frau. und ſeinen beiden Shwägern benutzte. -- Harſt
+Oder — 	— kaum war er die Skizze, in der das alte
+Patrizierhaus der Margenbecks sie erhebt, ein Giüä entlanggeschritten,
+als er auch schon feststellte — womit er
+Übrigens gerechnet hatte 	—, daß Peter Margenbeck ihm leichthin
+folgte. Nachher bemerkte er auch noch zwei andere Leute,
+die ihn dauernd belauerten, und dies mit einer GeschiFlich-keit,
+daß es selbst ihm nicht gelang, die Verfolgen abzuschütteln
+… Da er leider in dem Hotel, wo er abgestiegen war,
+seinen richtigen Namen angegeben hatte, mußte er damit
+rechnen, daß Margenbeck bereits wüßte, wer der angebliche
+Kapitän gewesen. Deshalb auch schätze er Ihnen, lieber
+Schraut, die Chiffredepesche nach Genua und verschwand bei
+Nacht und Nebel aus seinem Hotel und verschaffte sich nachher
+die Stellung als Steward auf dem Dampfer Columbus,
+den dann auch die Gegenpartei, nämlich Peter Margenbeck
+nebst Frau. und seinen beiden Schwachem benutzte. — Harst
 <@pagebreak/>
-DSSTSSOSDSBOSD 26 DSSS SISESBSDSBESOS>
-
-nimmt nun an, daß Peter MargenbeFX, um ſeinen Bruder
+nimmt nun an, daß Peter MargenbeFX, um seinen Bruder
 beerben zu können, irgendwie die Jacht Sybille und die
-Beſatzung verſchwinden ließ. Die Einzelheiten hierüber müß=
-ten natürlih no<h aufgeklärt werden ...“
+Besatzung verschwinden ließ. Die Einzelheiten hierüber müßten
+natürlich noch aufgeklärt werden …«
 
-Dies alles hatte O'Kelling in ſeiner pomadigen Art hübſch
-bedächtig vorgetragen und un8 ſo ein knappes, aber über=
-ſichtliches Bild der Vorgänge geliefert, das nur nod) in eini=
-gen Punkten zu ergänzen war ...
+Dies alles hatte O’Kelling in seiner pomadigen Art hübsch
+bedächtig vorgetragen und uns so ein knappes, aber übersichtliches
+Bild der Vorgänge geliefert, das nur noch in einigen
+Punkten zu ergänzen war …
 
-„Die neben uns im Deutſchen Fremdenheim wohnende
-Dame war alſo wohl Frau Margenbe>k?“ fragte ich jetzt ...
+»Die neben uns im Deutschen Fremdenheim wohnende
+Dame war also wohl Frau Margenbeck?« fragte ich jetzt …
 
-„Stimmt =- Frau Lydia MargenbeX ... Das Quartett
-der fragwürdigen Herrſchaften hatte eben doH gegen Sie und
-Ollenpri> Berdacht geſchöpft ... Man hat Sie beide ſtändig
-beobachtet ... =- Peter Margenbe> wieder hat heute mittag
-in aller Stille eine mitielgroße Jacht gemietet =- von einem
-Bekannten von mir ... angeblich zu einer Kreuzfahrt -- für
-eine Woche ... I< mußte Harald für dieſen Bekannten --
-es iſt der holländiſche Kapitän Diemenbrook, und die Jacht
-Heißt Oſtindia. = eine Empfehlung ſchreiben. Nun wiſſen
-wir ja, wozu Harſt dieſen Wiſ< Papier haben wollte ...
-Natürlich, um auf der Oſtindia ſich einſ<muggeln zu können
-... Was in jedem Falle ein Leichtſinn iſt, denn Diemenbrooks
-Jachtbeſazung iſt niht mit meinen vier Malaien zu ver=
-gleihen ... Auf meine Leute iſt Berlaß, das haben Sie ja
-ſelbſt vor Monaten erprobt, lieber Shraut ... Anders ſteht's
-mit der braunen Bande von der Oſtindia ... Das ſind ein-
-ſ<ließliHz de8 Kochs acht Kerle, und Geſindel iſt's, das Die=
-menbrook nur behält, weil er ihnen nicht viel zu zahlen
-brauchi ... Das Lumpenpac> ſtiehlt ſich das übrige zuſammen,
-macht Geſchäfte auf eigene Rehnung, -- -- aber welcher Art!
--- Immerhin: wenn dieſe Halunken Harſt nicht verraten, ſo
-hat er von dem Hamburger Quartett ſelbſt niht8 zu fürchten,
-denn die bilden ſich ein, daß Sie, Käpten Ollenpri>, Harſt
-ſind ...!! Der heilige Patri mag ſie in dieſer Dämlichkeit
-erhalten!“
+»Stimmt — Frau Lydia MargenbeX … Das Quartett
+der fragwürdigen Herrschaften hatte eben doch gegen Sie und
+Ollenprick Verdacht geschöpft … Man hat Sie beide ständig
+beobachtet … — Peter Margenbeck wieder hat heute mittag
+in aller Stille eine mittelgroße Jacht gemietet — von einem
+Bekannten von mir … angeblich zu einer Kreuzfahrt — für
+eine Woche … Ich mußte Harald für diesen Bekannten —
+es ist der holländische Kapitän Diemenbrook, und die Jacht
+Heißt Ostindia. — eine Empfehlung schreiben. Nun wissen
+wir ja, wozu Harst diesen Wisch Papier haben wollte …
+Natürlich, um auf der Ostindia sich einschmuggeln zu können
+… Was in jedem Falle ein Leichtsinn ist, denn Diemenbrooks
+Jachtbesatzung ist nicht mit meinen vier Malaien zu dergleichen
+… Auf meine Leute ist Verlaß, das haben Sie ja
+selbst vor Monaten erprobt, lieber Schraut … Anders steht’s
+mit der braunen Bande von der Ostindia … Das sind ein-schließliHz
+des Kochs acht Kerle, und Gesindel ist’s, das Diemenbrook
+nur behält, weil er ihnen nicht viel zu zahlen
+braucht … Das Lumpenpack stiehlt sich das übrige zusammen,
+macht Geschäfte auf eigene Rechnung, — — aber welcher Art!
+— Immerhin: wenn diese Halunken Harst nicht verraten, so
+hat er von dem Hamburger Quartett selbst nichts zu fürchten,
+denn die bilden sich ein, daß Sie, Käpten Ollenprick, Harst
+sind …!! Der heilige Paris mag sie in dieser Dämlichkeit
+erhalten!«
 
-So ſprach O'Kelling ...
+So sprach O’Kelling …
+
 <@pagebreak/>
-DSSEDSSBSSDISESSE 977 S2DSIODEDSSEDIS
+Und OllenprickX lachte herzlich über die letzte Bemerkung.
 
-Und Ollenpri>X lachte herzliH über die lezte Bemerkung.
+Wir aber war wirklich nicht nach Lachen zumute! Eine
+jähe Angst um Harald hatte mich Gegners … Und mit Recht!
+Diesem Millionär Peter Margenbeck würde es ja ein leichtes
+sein, des Holländers Leute zu bestehen … Und was dann
+alles geschehen konnte, war gar nicht auszudenken!!
 
-Mir aber war wirkliß niht na<ß Lachen zumute! Eine
-jähe Angſt um Harald hatte mich gepa&Xt ... Und mit Recht!
-Dieſem Millionär Peter Margenbe> würde e38 ja ein leichtes
-ſein, des Holländer8 Leute zu beſtehen ... Und was dann
-alles geſHehen konnte, war gar nicht auszudenken!!
+Wir wurde ganz heiß vor Unruhe, und mit einer Stimme,
+der man meine seelische Verfassung wohl anmerken mußte,
+rief ich O’Kelling zu:
 
-Mir wurde ganz heiß vor Unruhe, und mit einer Stimme,
-der man meine ſeeliſche Verfaſſung wohl anmerken mußte,
-rief iH O'Kelling zu:
+»Wissen Sie, wann die Ostindia in See geht?«
 
-„Wiſſen Sie, wann die Oſtindia in See geht?“
+O’Kelling hob die Schultern …
 
-O'Kelling hob die Schultern ...
+»Vielleicht spät abends … Jedenfalls sind wir mit unserer
+»Lady« bestimmt die ersten auf der Insel, denn mein Kutter
+läuft beinahe ebenso schnell wie die Ostindia …«
 
-„Bielleicht ſpät abends ... Jedenfalls ſind wir mit unſerer
-„Lady“ beſtimmt die erſten auf der Inſel, denn mein Kutter
-läuft beinahe ebenſo ſchnell wie die Oſtindia ...“
+Ich traute dem Frieden nicht recht … Erhob mich, nahm
+mein Fernglas und äugte gen Westen, woher wir gekommen
+… Sah jedoch nur zwei, Frachtdampfer und einige Sicherten
+… Das war alles …!
 
-Ih traute dem Frieden nicht re<ht ... Erhob mich, nahm
-mein Fernglas und äugte gen Weſten, woher wir gekommen
-... Sah jedoh nur zwei , Frachtdampfer und einige SiimEntien
-... Das war alles . !
+Dann brachte Paratu das Abendessen.
 
-Dann brachte Baraku das Abendeſſen.
+Dann Sonne sank … Die Nacht kam herbei. Dämmerung
+gibt es in den Tropen nicht. Mit einem Schlage wird es
+dunkel … —
 
-Dann Sonne ſank ... Die Nacht kam herbei. Dämmerung
-gibt es in den Tropen niht. Wit einem Sclage wird es
-dunkel ... =-
+Die Matrosen hatten die vorschriftsmäßigen Laternen
+angezündet … Die Nacht hatte eine frische Brise Bechert
+gezaubert … Die Segel der »Lady« waren prall gefüllt,
+und vor unserem Kiel schäumten und sprühten die langen
+Wogen des weiten Meerbusens von Bengalen …
 
-Die Matroſen hatten die vorſ<hrift8mäßigen Laternen
-angezündet ... Die Nacht hatte eine friſche Briſe herbeis
-gezaubert ... Die Segel der „Lady“ waren prall gefüllt,
-und vor unſerem Kiel ſchäumten und ſprühten die langen
-Wogen des weiten Meerbuſens von Bengalen ...
+Wir drei saßen bis gegen Mitternacht bei Lampenbeleuchtung
+auf dem Achterdeck … Auf dem Vorschiff klimperte der
+Malaie Paratu auf seinem heimischen Zupfinstrument und
+sang dazu die seltsam eintönigen, schwermütigen Weisen seines
+Volkes, das einst in diesen Breiten als Piraten so sehr gefürchtet
+war …
 
-Wir drei ſaßen bis gegen Mitternacht bei Lampenbeleuch-»
-tung auf dem Acterde>k ... Auf dem Borſ<iff klimperte der
-Malaie Paratu auf ſeinem heimiſchen Zupfinſtrument und
-ſang dazu die ſeltſam eintönigen, ſhwermütigen Weiſen ſeines
-Bolkes, das einſt in dieſen Breiten als Piraten ſo ſehr ge»
-fürchtet war. ...
+Dann gingen wir schlafen … —
 
-Dann gingen wir ſchlafen ... =-
+Und — — anderthalb Tage noch verstrichen uns in derselben
+Weise …
 
-Und -- -- anderihalb Tage noch verſtrihen uns in der«
-ſelben Weiſe ...
 <@pagebreak/>
-DSSSOEDISDSDESO 28 DSI SODE0OEBEE2DS
+Dann meinte Ollenprick, wir sollten jetzt in langen Schirm
+gen kreuzen und scharf nach allen Seiten Ausschau halten.
 
-Dann meinte Ollenprik, wir ſollten jetzt in langen Schlu
-gen kreuzen und ſcharf nach allen Seiten Ausſc<au halten.
+Drei Stunden später, gegen acht Uhr abends, brüllte
+Paratu von der Spitze des Mastes herab:
 
-Drei Stunden ſpäter, gegen a<t Uhr abends, brüllte
-Paratu von der Spitße des Maſtes herab:
+»Land — — eine Insel!! Scharf nach Backbord!«
 
-„Land =-- -- eine Inſel!! Scharf nach Backbord!“
+Der Kutter änderte den Kurs …
 
-Der Kutter änderte den Kurs ...
+Ollenprick war auf das Kajütendeck geklettert …
 
-Ollenpri> war auf das Kajütende> geklettert ...
+Es war … seine Insel …!!
 
-E38 war ... ſeine Inſel ..!!
+Aber der Wind schlief jetzt plötzlich ein, und so mußten
+wir denn mit dem Motor uns bedächtig dem Eiland aus
+treiben lassen …
 
-Aber der Wind ſchlief jezt plößlich ein, und ſo muzten
-wir denn mit dem Motor uns bedächtig dem Eiland zus
-treiben laſſen ...
+Ehe wir es noch auf zwei Seemeilen vor uns hatten, war
+die Nacht da …
 
-Ehe wir es noh auf zwei Seemeilen vor uns hatten, war
-die Nacht da ...
+Trotzdem konnten wir den Kutter nachts innerhalb der
+Riffe und Klippen, die den Zugang zu der Westbucht verdeckten,
+Anker werfen lassen …
 
-Trotzdem konnten wir den Kutter no<F innerhalb der
-Riffe und Klippen, die den Zugang zu der Weſtbucht ver=
-de>ten, Anker werfen laſſen ..
+Dann ließ ich sofort das Beiboot der »Lady« zu Wasser
+bringen, und Ollenprick und ich ruderten vorsichtig in die
+Bucht hinein, um wenigstens festzustellen, ob das Wrack noch
+vorhanden. Dann wollten wir wieder umkehren und erst am
+frühen Morgen die Insel gut bewaffnet und in Begleitung
+O’Kellings und zweier Matrosen durchsuchen …
 
-Dann ließ ich ſofort das Beiboot der „Lady“ zu Waſſer
-bringen, und Ollenpri> und ich ruderten vorſichtig in die
-Bucht hinein, um wenigſtens feſtzuſtellen, ob das Wrack noch
-vorhanden. Dann wollten wir wieder umkehren und erſt am
-frühen Morgen die Inſel gut bewaffnet und in Begleitung
-O'Kellings und zweier Matroſen durchſuchen ...
+Das … wollen wir …
 
-Das ... wollien wir ...
+Es kam etwas anders …
 
-Es kam etwas anders .,.
+Ganz anders …
 
-Ganz anders ...
+<h2>5. Kapitel.</h2>
 
-5. Kapitel.
+<h3>Unsere Schuld war es nicht, daß es anders kam …</h3>
 
-Unſere Shuld war es nicht, daß e3 ander8 kam ...
+O’Kelling hatte ja so bestimmt erklärt, daß wir die ersten
+an Ort und Stelle sein würden …
 
-O'Kelliug hatte ja ſo beſtimmt erklärt, daß wir die erſten
-an Ort und Stelle ſein würden ...
+Ein Irrtum — ein böser Irrtum!!
 
-Ein Irrtum -- ein böſer Irrtum!!!
+Denn kaum hatte unser kleines Boot die enge Einfahrt
+passiert, als auch schon aus der Finsternis einer Reihe von
+Klippen ein anderes Boot hervorschoß …
 
-Denn kaum hatte unſer kleines Boot die enge Einfahrt
-paſſiert, als auh ſchon aus der Finſternis einer Reihe von
-Klippen ein anderes Boot hervorſchoß ...
 <@pagebreak/>
-DSSDSSDSDDSSSS 29 D2L080DS00DSSODSD
+Blitzschnell …
 
-Blitzſchnell ...
+Und blitzschnell wurden Ollenprick und ich auch durch
+Hiebe mit langen Bootshaken niedergeschlagen, ehe wir recht
+zur Besinnung kamen, was eigentlich vorging …
 
-Und blitßſchnell wurden Ollenpri> und ich auch durch
-Hiebe mit langen Boots8haken niedergeſchlagen, ehe wir recht
-zur Beſinnung kamen, was eigentlich vorging ...
+Wir brachen zusammen …
 
-Wir brachen zuſammen ...
+Ich freilich nur für Sekunden halb bewußtlos …
 
-I<H freilih nur für Sekunden halb bewußtlos ..
+Und doch nicht fähig, mich 2a zur Wehr zu setzen.
 
-Und doh nicht fähig, mich 2a zur Wehr zu ſetßen.
+Wurde gefesselt … geknebelt … Bekam ein Tuch über
+die Augen …
 
-Wurde gefeſſelt ... geknebelt ... Bekam ein Tuch über
-die Augen ...
+Mußte mich ausschließlich auf mein Gehör verlassen …
 
-Mußte mich ausſchließlic) auf mein Gehör verlaſſen ...
+Merkte, daß man mich an Bord eines größeren Schiffes
+brachte … Es konnte nur die Jacht Ostindia sein …
 
-Merkte, daß man mich an Bord eines größeren Sciffes
-brachte ... E8 konnte nur die Jacht Oſtindia ſein ...
-
-In eine Kammer wurde ich eingeſperrt ... Nicht allein
-... Ih konnte mir das Tuch von den Augen abſtreifen ...
+In eine Kammer wurde ich eingesperrt … Nicht allein
+… Ich konnte mir das Tuch von den Augen abstreifen …
 An der Bretterwand hing eine verräucherte Petroleumlampe
 
-. Sie beſchien eine Geſtalt neben mir: Wilm Ollenpric>!!
-Seine Kopfwunde hatte man oberflächlich verbunden ... Sein
-Geſi<ht war no< mit Biut befleXt ... Aber er hatte die
-Augen offen und nite mir matt zu ... =
+… Sie beschien eine Gestalt neben mir: Wilm Ollenprick!!
+Seine Kopfwunde hatte man oberflächlich verbunden … Sein
+Gesicht war noch mit Blut verlegt … Aber er hatte die
+Augen offen und nickte mir matt zu … —
 
-Alſo hatte O'Kelling8 unrichtige Vorausſage uns beide
-den Gegnern in die Hände geſpielt ... Wir waren blindlings
-in dieſe Falle hineingetappt, die Peter Margenbe> im Berein
-mit dem von ihm nun alſo wirklich beſto<enen Leuten des
-Holländers Diemenbrook uns geſtellt hatte ...
+Also hatte O’Kellings unrichtige Voraussage uns beide
+den Gegnern in die Hände gespielt … Wir waren blindlings
+in diese Falle hineingetappt, die Peter Margenbeck im Herein
+mit dem von ihm nun also wirklich bestochenen Leuten des
+Holländers Diemenbrook uns gestellt hatte …
 
-Wir beide waren Gefangene ...
+Wir beide waren Gefangene …
 
-Und daß Margenbe>X auch den Kutter O'Kellings kapern
-würde, daß er vielleiht ſhon Harald genau ſo wie uns au8=
-geſchaltet hatte, daß er mithin Herr der Situation war und
-ſeine Berbrehen nun weiter vertuſchen konnte, -- all das
-war kaum nod anzuzweifeln ...
+Und daß MargenbeckX auch den Kutter O’Kellings kapern
+würde, daß er vielleicht schon Harald genau so wie uns ausgeschaltet
+hatte, daß er mithin Herr der Situation war und
+seine Verbrechen nun weiter vertuschen konnte, — all das
+war kaum noch anzuzweifeln …
 
-Was ſollte werden?! Und -- wie würde all das enden?!
+Was sollte werden?! Und — wie würde all das enden?!
 Wie nur?!
 
-Gine unanehenre Wut paäto mich bei dioſen Gedanken ...
+Eine ungeheure Wut rate mich bei diesen Gedanken …
 
-Jene Wut, au8 der bei leidlich energiſchen Naturen ges
-wöhnlich) ein Uebermaß von Tatkraft und Betätigungswillen
-hberaus8wächſt ...
+Jene Wut, aus der bei leidlich energischen Naturen gewöhnlich)
+ein Übermaß von Tatkraft und Betätigungswillen
+hberaus8wächst …
+
 <@pagebreak/>
-DSSOSODSDSSOSSO 30 0800003020200 S2SDO
+Sollte ich, Max Schraut, die Dinge treiben lassen wie sie
+wollten?! Sollte ich ruhig mitansehen, daß Margenbeck die
+Kinder seines Bruders anderswohin schleppte und uns alle
+als ihm gefährliche Zeugen beseitigte?!
 
-Sollte iH, Max Scraut, die Dinge treiben laſſen wie ſie
-wollten?! Sollte ic) ruhig mitanſehen, daß Margenbe> die
-Kinder ſeines Bruder8 anders8wohin ſchleppte und uns alle
-als ihm gefährliche Zeugen beſeitigte?!
+Hatte ich nicht von Harald in all den Jahren unserer
+Freundschaft so unendlich viel gelernt, — hatte ich nicht
+bereits Proben davon abgelegt, daß auch ich allein fähig
+war, den Kampf gegen eine Verbrecherbande mit Aussicht
+auf Erfolg aufzunehmen?! —
 
-Hatte iM nicht von Harald in all den Jahren unſerer
-Freundſchaft ſo unendli< viel gelernt, = haite ich nicht
-bereit3 Proben davon abgelegt, daß auh ich allein fähig
-war, den Kampf gegen eine Verbreherhorde mit Ausſicht
-auf Erfolg aufzunehmen?! =-
+Ich lauschte …
 
-IH lauſchte ...
+Draußen im Schiffsgang vor unserer Kammer alles still.
 
-Draußen im Sciffsgang vor unſerer Kammer alles ſtill.
+Man hatte uns in aller Eile hierher gebracht.!. So
+eilig, daß man sich nicht einmal Zeit ließ; uns die Taschen
+zu leeren …
 
-Man hatte uns in aller Eile hierher gebracht .!. So
-eilig, daß man ſich nicht einmal Zeit ließ; uns die Taſchen
-zu leeren ...
+Und — ich rollte mich nun näher zu Ollenprick hin …
 
-Und -- ich rollte mih nun näher zu Ollenpri> hin ...
+Ich machte dem Käpten durch Kopfbewegungen klar, das
+er mir den Knebel aus dem Munde entfernen solle …
 
-IH machte dem Käpten durc< Kopfbewegungen klar, da3
-er mir den Knebel aus dem Munde entfernen ſolle ...
+Er verstand mich- …
 
-Er verſtand mich- ...
+Er tat’s mit den Zähnen …
 
-Er tat's mit den Zähnen ...
-
-Und der alte ſehnige Ollenpri> verfügte no< “über cin
+Und der alte sehnige Ollenprick verfügte noch »über ein
 Gebiß, um das ihn jeder Jüngling hätte beneiden können.
 
-Nun konnte ich ſprechen, flüſtern ...
+Nun konnte ich sprechen, flüstern …
 
-Konnte Ollenpri>8 Handfeſſeln mit den Zähnen löſen.
+Konnte Ollenpricks Handfesseln mit den Zähnen lösen.
 
 Die Kerle, die uns gebunden hatten, waren recht flüchtig
-mit dem Berknoten der Stri>e vorgegangen ... Hatten ſich
-eben keine Zeit gelaſſen ...
+mit dem Versuchen der Stricke vorgegangen … Hatten sich
+eben keine Zeit gelassen …
 
-Zum Glü> ...!!
+Zum Glück …!!
 
-Und dann -=- waren wir beide die Stri>e los ...
+Und dann — waren wir beide die Stricke los …
 
-Standen aufrecht da ...
+Standen aufrecht da …
 
-„Was nun?!“ flüſterte der alte Käpen, und ich merkte
+»Was nun?!« flüsterte der alte Lägen, und ich merkte
 ihm an, daß es ihm ähnlich erging wie mir: Wut kochte in
-ihm -- Wut und Wille zum Handeln!
+ihm — Wut und Wille zum Handeln!
 
-Id) ſ<lich zur kleinen Tür ...
+Ich schlich zur kleinen Tür …
 
-Beleuchtete ſie mit der Taſchenlampe ...
+Beleuchtete sie mit der Taschenlampe …
 
-Fand ſchnell heraus, das von außen nur ein eiſerner Nie»
-gel vorgeſ<oben war und daß gerade dort eine Spalte zwiſchen
+Fand schnell heraus, das von außen nur ein eiserner Riegel
+vorgeschoben war und daß gerade dort eine Spalte zwischen
 <@pagebreak/>
-2O2BD2DSDB02EBD20S 31 D0 00002020 202D0S
+den Türbrettern klaffte, wo ich die Spie meines Messers
+gegen den Riegel drüben mußte, um ihn ganz allmählich
+zurückzuschicken …
 
-den Türbrettern klaffte, wo iH die Spie meine8 Meſſers
-gegen den Niegel drüken mußte, um ihn ganz allmählich
-zurüczuſchieben ..
+Und — auch das gelang …
 
-Und -- aud das gelang ...
+Die Tür ging auf …
 
-Die Tür ging auf ...
+Der Schiffsgang dunkel — — leer …
 
-Der Sciffsgang dunkel -- -- leer ...
+Wir beide nach Linie … Schritt für Schritt …
 
-Wir beide nad) linis ... Schritt für Schritt ...
+Wir beide über die Vorschifftreppe an Des …
 
-Wir beide über die Vorſchifftreppe an Des ...
+Dunkelheit … Mattes Sternenlicht über uns …
 
-Dunkelheit ... Matte8 Sternenliht über uns ...
+Und an Deck keine Seele …
 
-Und an De> keine Seele ...
+Merkwürdig!! Keine Seele …!
 
-Merkwürdig!! Keine Seele ...!
+Die Jacht lag unweit des Wracks, hart am steil abfallenden
+Ufer, wie wir nun sahen …
 
-Die Jacht lag unweit des Wracds, hart am ſteil abfallen=
-den Ufer, wie wir nun ſahen ...
+Wir krochen zur Backbordreling …
 
-Wir krochen zur Ba&bordreling ...
+Hatten uns zusammen …
 
-Dudten un8 zuſammen ...
+Da waren achtern doch ein paar Leute …
 
-Da waren achtern doH ein paar Leute ...
+Ich erkannte ein helles Frauengewand, zwei hell gekleidete
+Männer … Sie saßen in Korbsesseln halb hinter dem recht
+hohen Oberlichtaufbau …
 
-Ih erkannte ein helles Frauengewand, zwei hell gekleidete
-Männer ... Sie ſaßen in Korbſeſſeln halb hinter dem recht
-hohen Oberlichtoufbau ...
+OllenprickX flüsterte mir zu:
 
-Ollenpri>X flüſterte mir zu:
+»Seine Sorge, — sie kehren uns den Rücken zu …!
 
-„Zeine Sorge, = ſie kehren uns den Rücken zu ..!
+Oh — er hatte doch die besseren Nutzen, der alte Käpten?
 
-Oh -- er hatte doh die beſſeren Nuzen, der alte Käpten?
-
-Und -- wir ſprangen an Land ...
+Und — wir sprangen an Land …
 
 Da war gerade in Höhe der Reling im Steilufer eine
-ſhmale Terraſſe ...
+schmale Terrasse …
 
-Wieder kauerten wir tief gebückt = jezt auf dem kahlen
-Fels, und beobachteten die drei ...
+Wieder kauerten wir tief gebückt — jetzt auf dem kahlen
+Fels, und beobachteten die drei …
 
-Sie hatten offenbar nichts bemerkt ...
+Sie hatten offenbar nichts bemerkt …
 
-Ih konnte mi“ denken, wer da8 Woh war: Frau Lydia
-Margenbe>!! Dieſelbe Frau, die ſi als Spivcnin im Deut=
-ſchen Fremdenheim neben uns eingeniſtet gehabt hatte und
-die wir in den Schrank geſperrt hatten! = Und die beiden
-Männer?! Vielleicht ihre Brüder, fro“l»8 wür*>iqa einer ſol&en
-Schweſter, die nun die Millionärin ſpielen konnte ...
+Ich konnte mich« denken, wer daß Loch war: Frau Lydia
+Margenbeck!! Dieselbe Frau, die sich als Friseur im Deutschen
+Fremdenheim neben uns eingenistet gehabt hatte und
+die wir in den Schrank gesperrt hatten! — Und die beiden
+Männer?! Vielleicht ihre Brüder, frol8 würckiqa einer solchen
+Schwester, die nun die Millionärin spielen konnte …
 
-Dann krochen wir auf allen Vieren vorwärts ...
+Dann krochen wir auf allen Vieren vorwärts …
 
-Ein ſchwieriges Unterfangen ...
+Ein schwieriges Unterfangen …
 
-“
 <@pagebreak/>
-DSSEEGDBDESODES 32 DSSO20D020020DSSOSO
+Denn die Terrasse zog sich nach Osten hin, und wir mußten
+dicht am Achterschiff vorüber, wo die drei saßen, mußten jedes
+Geräusch vermeiden …
 
-Denn die Terraſſe 30g ſich nach Oſten hin, und wir mußten
-diht am Ückhterſchiff vorüber, wo die drei ſaßen, mußten jedes
-Geräuſch vermeiden ...
+Ich warnte Ollenprick …
 
-Ich warnte Ollenpri> ... .
+»Feine Angst!« hauchte er zurück. »Ich werde nichts der
+derben!«
 
-„Feine Angſt!“ hauchte er zurück. „I< werde nicht3 ver
-derben!“
+Wir krochen — förmlich Zentimeter für Zentimeter …
 
-Wir krochen -- förmlich Zentimeter für Zentimeter ...
+Wir krochen wie Schlangen, eng an den Boden geschmiegt.
 
-Wir krochen wie Schlangen, eng an den Boden geſchmiegt.
+Sondern nun bereits einzelne Worte des Gesprächs der drei.
 
-Hörtein nun bereits einzelne Worte des Geſprächs der drei.
+Hörten bald mehr …
 
-Hörten bald mehr ...
+Ein ironisches Auflachen des Weibes …
 
-Ein ironiſches Auflachen de8 Weibes8 ...
+»Wir haben uns ganz umsonst Gedanken gemacht —
+ganz überflüssiger Weise!« meinte sie spöttisch. »Der gute
+Peter leidet ja noch immer an jener Krankheit, die Nu
+schwache Naturen befällt — an Gewissensqualen!! Lächerlich
+ist das!! Das macht nervös und überempfindlich! Was soll
+uns jetzt noch zustoßen? Die beiden Berühmtheiten haben wir
+fest, und …«
 
-„Wir haben uns ganz umſonſt Gedanken gemacht --
-ganz überflüſſiger Weiſe!“ meinte ſie ſpöttiſH. „Der gute
-Peter leidet ja noc< immer an jener Krankheit, die nu
-ſchwache Naturen befällt = an Gewiſſensqualen!! Lächerlich
-iſt das!! Das macht nervö8 und überempfindlih! Was ſoll
-uns jetzt noch zuſtoßen? Die beiden Berühmtheiten haben wir
-feſt, und ...“
+Da waren wir vorüber …
 
-Da waren wir vorüber ...
+Da verstanden wir nichts mehr …
 
-Da verjtanden wir nichts mehr ...
+Eis wäre besser gewesen, wir hätten hier eine Weile
+gehorcht …
 
-Es8 wäre beſſer geweſen, wir hätten hier eine Weile
-gehorcht ... ;
+Aber — unsere Lage war noch« immer höchst bedenklich
+-… Jeden AugenbliX konnte ein Zufall uns wieder in die
+Gewalt der Gegner bringen …
 
-Aber = unſere Lage war no<+“ immer höchſt bedenklich
--.. Jeden AugenbliX konnte ein Zufall uns wieder in die
-Gewalt der Gegner bringen ...
+Die Terrasse stieg an, — bis wir den Sieiluferrand oben
+erreicht hatten …
 
-Die Terraſſe ſtieg an, -- bis wir den Sieiluferrand oben
-erreicht hatten ...
+Noch fünf Meter — hinein in die Büsche …
 
-No<h fünf Meter -=- hinein in die Büſche ...
+Wir atmeten auf …
 
-Wir atmeten auf ...
+Erhoben uns …
 
-Erhoben uns ...
+»Verdammt!« brummte Ollenprick und rieb seine Knie
 
-„Verdammt!“ brummte Ollenpri& und rieb ſeine Knie
+… »Verdammt, das war, als ob zwei Schildkröten kriechen,
+nur daß diese langsamen Hierher »sich nicht die Knie durc-sheuern
+— — verdammt!«
 
-. „Verdammt, das war, al8 ob zwei Scildkröten kriechen,
-nur daß dieſe langſamen Biecher „fich niht die Knie durc=
-ſheuern -- -- verdammt!“
-
-Auch meine Knie ſchmerzten ... Aber -- -- was tat's?!
-Wir waren frei, wir waren auf Wilm Ollenpri>s8 Inſel! Und
+Auch meine Knie schmerzten … Aber — — was tat’s?!
+Wir waren frei, wir waren auf Wilm Ollenpricks Insel! Und
 <@pagebreak/>
-DSSODDDDSDOSDSOSIdOSO 33 0080020020020 20200
+— wir hatten durch die Worte Lydia Margenbecks bereits den
+Beweis erhalten, daß Haralds Vermutung stimmte: Peter
+Margenbeck hatte seinen leidlichem Bruder, seine Schwägerin
+und eine ganze Schiffsbesatzung beseitigt, hatte nur die
+Kinder und die beiden Australneger am Leben gelassen! Des
+Geldes, der Erbschaft wegen!! So mußte es sein — — mußte!!
 
--- wir hatten durch die Worte Lydia Margenbe>s8 bereits den
-Beweis erhalten, daß Harald8 Vermutung ſtimmte: Peter
-Margenbe> hatte ſeinen leiblihen Bruder, ſeine Schwägerin
-und eine ganze Sciffsbeſazung beſeitigt, hatte nur die
-Kinder und die beiden Auſtralneger am Leben gelaſſen! Des
-Geldes, der Erbſchaft wegen!! So mußte es ſein -- -- mußte!!
+Wie oft hatte mich Harald vor voreiligen Schlüssen sei
+warnt …!
 
-Wie oft hatte mich Harald vor voreiligen Schlüſſen ges
-warnt ..!
+Und die Zukunft lehrte, daß vieles, vieles an diesem
+Problem »Wilm Ollenpricks Insel« ganz, ganz anders war,
+als wir es ahnen konnten … —
 
-Und die Zukunft lehrte, daß viele8, vieles an dieſem
-Problem „Wilm Ollenpri>s Inſel“ ganz, ganz anders war,
-als wir e8 ahnen konnten ... =
+Wieder fragte der alte Käpten jetzt:
 
-Wieder fragte der alte Käpten jeßt:
+»Was nun?«
 
-„Was nun?“
+Und diese Frage brachte mich geradezu in Verwirrung …
 
-Und dieſe Frage brachte mich geradezu in Berwirrung ...
+Denn — nun hieß es, schleunigst einen Feldzugsplan entwerfen
+… Nun hieß es, die wiedergewonnene Freiheit auch
+derart ausnutzen, daß wir unser Ziel erreichten: den Gegner
+matt zu setzen!
 
-Denn - nun hieß es, ſchleunigſt einen Feldzugsplan ent=
-werfen ... Nun hieß es, die wiedergewonnene Freiheit auch
-derart ausnutzen, daß wir unſer Ziel erreichten: den Gegner
-matt zu ſetzen!
+Ich überlegte …
 
-Ih überlegte ...
+Und flüsterte dann ehrlich beschämt:
 
-Und flüſterte dann ehrlich beſchämt:
+»Ollenprick, wir haben einen großen Fehler gemacht …!
+Wir hätten uns im Vorschiff der Jacht Sybille nach Harald
+umtun sollen!«
 
-„Ollenpri>, wir haben einen großen Fehler gemacht ..!
-Wir hätten uns im Borſ<hiff der Jacht Sybille na<H Harald
-umtun ſollen!“
+Der Käpten antwortete nicht …
 
-Der Käpten antwortete nicht ...
+Denn — vor uns aus dem Gestrüpp richtete sich eine
+Gestalt auf … ein schwarzbärtiger indischer Matrose …
 
-Denn -- vor uns aus dem Geſtrüpp richtete ſi eine
-Geſtalt auf ... ein ſc<hwarzbärtiger indiſ<er Matroſe .
+Kein Inder — —: Harst!! Denn er meinte leise: »Mein
+Alter, der Fehler war nicht so arg …! Hier bin ich!!«
 
-Kein Inder = --: Harſt!! Denn er meinte leiſe: „Mein
-Alter, der Fehler war nicht ſo arg ..! Hier bin ich!!“
+Und — so waren denn nun wir drei auf Käpten Offene
+Reis Insel glücklich vereint …
 
-Und -=- ſo waren denn nun wir drei auf Käpten Ollens
-pris Inſel glü>lich vereint ..
-
-Det. 1799 2
 <@pagebreak/>
-DSSDSESODIBSDS 31 O0 G0EBEB0DDE0585E080
 
-Die Rache zweier JDiidlinge.
+Die Rache zweier Wildlinge.
 
-1. Kapitel.
+<h2>1. Kapitel.</h2>
 
-Wir drei glüklich vereint ..!
+<h3>Wir drei glücklich vereint …!.</h3>
 
-War das eine Freude!! War das ein Händedrücen, ein
+War das eine Freude!! War das ein Handschellen, ein
 Hin und Her von Fragen!!
 
-Harald wehrte ab ...
+Harald wehrte ab …
 
-„Lieber Alter, -- -- ſtopp mit alledem!! Wir benehmen
-uns hier wie die Penſionsbafiſche ..! Hier heißt's handeln,
-nicht reden! Und das, was ihr beide zu tun hadt, iſt nicht
-gerade einfaM ... Denn iH muß an Bord der Oſtindia zu=
-rücf, wo ich Sciffsko<h ſpiele ... I< ſah, wie ihr beide euch
-davonmachtet ... I<h hätte es lieber geſehen, wenn ihr damit
-noch gewartet hättet, denn jezt bin ich der einzige Farbige
-an Bord der Jacht, und ih muß Borſorge treffen, daß nicht
-etwa der Verdacht auf mich fällt, euch befreit zu haben. -- Ihr
-müßt nun hier in der Nähe der Bucht euch ſicher verbergen
-und zwar ſo, daß ihr die Bucht beobachten könnt. Dann gebt
-genau auf mein Signal acht ... Sobald iH meinen Turban
-abnehme und wieder aufſeße, -müßt ihr euch irgendwie an
-O'Kellings Kutter heranſchlängeln, den Herr Peter Margen=
-be& jetzt bereits in ſeiner Gewalt haben dürfte ... Dann
-müſſen O'Kelling und ſeine Malaien befreit werden, und
-dann geht's der Margenbe>=Kolonne ans Leder! Der hat,
-wie ihr wohl ſchon gemerkt habt, Diemenbooks Leute für ſich
-gewonnen. Der Holländer ſelbſt ſitzt unten im Kielraum
-der Oſtindia eingeſperrt ... I< befreie ihn ſchon zur rechten
-Zeit ... = So, nun auf Wiederſehen ... IG muß an Bord
-zurü>k ...“
+»Lieber Alter, — — stopp mit alledem!! Wir benehmen
+uns hier wie die Pensionsbafische …! Hier heißt’s handeln,
+nicht reden! Und das, was ihr beide zu tun habt, ist nicht
+gerade einfach … Denn ich muß an Bord der Ostindia zurück,
+wo ich Schiffskoch spiele … Ich sah, wie ihr beide euch
+davonmachtet … Ich hätte es lieber gesehen, wenn ihr damit
+noch gewartet hättet, denn jetzt bin ich der einzige Farbige
+an Bord der Jacht, und ich muß Vorsorge treffen, daß nicht
+etwa der Verdacht auf mich fällt, euch befreit zu haben. — Ihr
+müßt nun hier in der Nähe der Bucht euch sicher verbergen
+und zwar so, daß ihr die Bucht beobachten könnt. Dann gebt
+genau auf mein Signal acht … Sobald ich meinen Turban
+abnehme und wieder aussehe, müßt ihr euch irgendwie an
+O’Kellings Kutter heranschlängeln, den Herr Peter Margenbeck
+jetzt bereits in seiner Gewalt haben dürfte … Dann
+müssen O’Kelling und seine Malaien befreit werden, und
+dann geht’s der Margenbeck	—Kolonne ans Leder! Der hat,
+wie ihr wohl schon gemerkt habt, Diemenbrooks Leute für sich
+gewonnen. Der Holländer selbst sitzt unten im Kielraum
+der Ostindia eingesperrt … Ich befreie ihn schon zur rechten
+Zeit … — So, nun auf Wiedersehen … Ich muß an Bord
+zurück …«
 
-Und =- weg war er, ehe wir noch re<ht zur Beſinnung
-gekommen ...
+Und — weg war er, ehe wir noch recht zur Besinnung
+gekommen …
+
 <@pagebreak/>
-DSSSBDSSDSDSSDSS 35 SEO DSDSSSDDSS-
+Ganz lautlos verschwand er …
 
-Ganz lautlos verſchwand er ...
+Was Ollenprick zu der Bemerkung veranlaßte:
 
-Was Ollenpri> zu der Bemerkung veranlaßte:
+»Der Harst hat’s heute aber wirklich verdammt eilig!«
 
-„Der Harſt hat's heute aber wirklih verdammt eilig!“
+»Und wir — wir können nun zusehen, wo wir ein passendes
+Versteck finden,« meinte ich ziemlich kleinlaut, denn ich
+ahnte, daß diese Aufgabe hier in völlig unbekanntem Gelände
+eine böse Nuß war. »Vorwärts also, Käpten, — wir dürfen
+keine Mine verlieren. Der Morgen darf uns hier nicht
+mehr im Freien antreffen …«
 
-„Und wir -- wir können nun zuſehen, wo wir ein paſſen=
-des Berſte> finden,“ meinte ic<h ziemlich kleinlaut, denn ich
-ahute, daß dieſe Aufgabe hier in völlig unbekanntem Gelände
-eine böſe Nuß war. „Vorwärts alſo, Käpten, = wir dürfen
-keine Minu.e verlieren. Der Morgen darf uns hier nicht
-mehr im Freien antreffen ...“
+Ollenprick folgte mir …
 
-Ollenpri> folgte mir ...
+Die Nacht war trotz des klaren Himmels recht dunkel.
+Ein ganz seiner Nebel lagerte über der Insel, lagerte auch
+über der stillen Bucht. Diese Nebelschwaden mußten irgendwo
+im Innern der Insel aufsteigen und durch den schwachen
+Nachtwind bis hierher verteilt werden. Wahrscheinlich befand
+sich im Mittelpunkte des felsigen und dicht bewaldeten
+Eilandes ein Binnensee oder ein größeren Sumpf, von dem
+diese feuchten Schleier stammten.
 
-Die Nacht war troß des klaren Himmels recht dunkel.
-Ein ganz feiner Nebel lagerte über der Inſel, lagerte auch
-über der ſtillen Bucht. Dieſe Nebelſchwaden mußten irgend=
-wo im Innern der Inſel aufſteigen und durch den ſchwachen
-Nachtwind bis hierher verteilt werden. Wahrſcheinlich be=
-fand ſi im Mittelpunkte des felſigen und dicht bewaldeten
-Eilandes ein Binnenſee oder ein grözerer Sumpf, von dem
-dieſe feuchten Schleier ſiammten.
-
-Ic) drang nun zunächſt tiefer in das Diicht ein, um an
-die Grenze des Urwaldes zu gelangen, der ſich am Südufer
-der Bucht bis auf wenige Meter an die Steilküſte heranzog.
-Auf dieſen Punkt hatte ich es abgeſehen. Wenn wir dort
-einen der ſehr hohen, dichtbelaubten Baumrieſen erklettern
+Ich drang nun zunächst tiefer in das Dicht ein, um an
+die Grenze des Urwaldes zu gelangen, der sich am Südufer
+der Bucht bis auf wenige Meter an die Steilküste heranzog.
+Auf diesen Punkt hatte ich es abgesehen. Wenn wir dort
+einen der sehr hohen, dichtbelaubten Baumriesen erklettern
 konnten, würden wir einen Schlupfwinkel haben, wie wir ihn
-uns nicht beſſer wünſchen konnten.
+uns nicht besser wünschen konnten.
 
-Der Marſ< bis zu jener Stelle hin war ebenſo anſtren=
-gend wie zeitraubend. Erſt nach einer guten halben Stunde
-ſtanden wir am Fuße eines Baumes, um deſſet mächtige
-Lufiwurzeln merkwürdigerweiſe das Geſtrüpp vor Ungerer
-Zeit ſchon entfernt worden ſein mußte. Offenbar hatte
-man es au8gerodet und dann noh durch Feuer nachgeholfen.
+Der Marsch bis zu jener Stelle hin war ebenso anstrengend
+wie zeitraubend. Erst nach einer guten halben Stunde
+standen wir am Fuße eines Baumes, um besser mächtige
+Luftwurzeln merkwürdigerweise das Gestrüpp vor Unseren
+Zeit schon entfernt worden sein mußte. Offenbar hatte
+man es au8gerodet und dann noch durch Feuer nachgeholfen.
 
 Schon dies fiel mir auf. Nur die beiden hier als
-Wächter der Kinder hauſenden Schwarzen konnten dieſe
-kleine Blöße geſchaffen haben, und da dieſe ſiH um den
-mindeſtens drei Meter dien Stamm herumz3og, mußte ſie
-au< einen ganz beſtimmten Zwe&> haben. ;
+Wächter der Kinder hausenden Schwarzen konnten diese
+kleine Blöße geschaffen haben, und da diese sich um den
+mindestens drei Meter dicken Stamm herauszog, mußte sie
+auch einen ganz bestimmten Zweck haben.
+
 <@pagebreak/>
-:DSSSSSDSSDSODSODSS 36 2000003002020 00
+Ich befühlte den Stamm …
 
-Id befühlte den Stamm ...
+Und — siehe da — meine Vermutung traf zu …!
 
-Und -- ſiehe da = meine Vermutung traf zu ..!
+Da waren in die rissige Rinde unauffällig kurze Alte
+knarren hineingetrieben worden, die nur zu Handgriffen
+und Ausruhen dienen konnten. Mit einem Wort: die Neger
+hatten gerade diesen Baum so hergerichtet, daß er unschwer
+erklettert werden konnte!
 
-Da waren in die riſſige Rinde unauffällig kurze Aſts
-knorren hineingetrieben worden, die nur zu Handgriffen
-und Fußſtüßen dienen konnten. Mit einem Wort: die Neger
-hatten gerade dieſen Baum ſo hergerichtet, daß er unſchwer
-erflettert werden konnte!
-
-Als ich dieſe meine Vermutung flüſternd dem Käpten
-mitteilte, erklärte der ſofort, e8 ſei nicht unmöglich, daß die
-Schwarzen ſich hier oben eine Baumhütte gebaut hätten.
-Wenn nicht als dauernde Wohnung, ſo doh als Zufluchtsort
+Als ich diese meine Vermutung flüsternd dem Käpten
+mitteilte, erklärte der sofort, es sei nicht unmöglich, daß die
+Schwarzen sich hier oben eine Baumhütte gebaut hätten.
+Wenn nicht als dauernde Wohnung, so doch als Zufluchtsort
 für die Stunde der Gefahr.
 
-Genau dasſelbe hatte ih mir gedacht.
+Genau dasselbe hatte ich mir gedacht.
 
-Mit allergrößter Behutſamkeit begann ih daher den
-Anſtieg ...
+Mit allergrößter Behutsamkeit begann ich daher den
+Anstieg …
 
-Ollenpri> folgte nicht minder vorſichtig ...
+Ollenprick folgte nicht minder vorsichtig …
 
-Als wir die erſten Aeſte erreicht hatten, ging es raſcher
-aufwärts ...
+Als wir die ersten Reste erreicht hatten, ging es rascher
+aufwärts …
 
-Und mit einem Male bemerkte iH dann rechts von mir
-„eine dunkle, vierec>ige Maſſe, = tatſächlih eine aus immer=
-grünen Zweigen geflochtene Hütte, die ſo geſchi>t angelegt
-War, daß man ſie unmöglich weder von unten noch von der
-Bucht aus ſehen konnte, obwohl die Plattform von BambuSs
-ſtangen, auf der ſie ruhte, nac; Weſten zu, alſo nach der
-Bucht hin lag ...
+Und mit einem Male bemerkte ich dann rechts von mir
+»eine dunkle, viereckige Masse, — tatsächlich eine aus immergrünen
+Zweigen geflochtene Hütte, die so geschickt angelegt
+War, daß man sie unmöglich weder von unten noch von der
+Bucht aus sehen konnte, obwohl die Plattform von Bambus
+Stangen, auf der sie ruhte, nach; Westen zu, also nach der
+Bucht hin lag …
 
-Ih ſchwang mich auf die Plattform hinauf und konnte
-nun auch die Tür der Hütte unterſcheiden.
+Ich schwang mich auf die Plattform hinauf und konnte
+nun auch die Tür der Hütte unterscheiden.
 
-Ih lauſchte ...
+Ich lauschte …
 
-GS<hob mich näher heran ...
+Schob mich näher heran …
 
-Betaſtete die Tür ...
+Betastete die Tür …
 
-Da war ein Holzriegel = ganz primitiv ... Er war zus
-geſchoben ... Mithin mußte dieſe Baumvilla leer ſein .
+Da war ein Holzriegel — ganz primitiv … Er war aus
+geschoben … Mithin mußte diese Baumvilla leer sein …
 
-IH öffnete den Niegel, 30g die Tür auf ...
+Ich öffnete den Riegel, zog die Tür auf …
 
-Jetzt durfte ich e8 wagen, meine Taſchenlampe zu benußen.
+Jetzt durfte ich es wagen, meine Taschenlampe zu benutzen.
 
-IH ſah zu meinem Erſtaunen, daß in dieſem kleinen
+Ich sah zu meinem Erstaunen, daß in diesem kleinen
 <@pagebreak/>
-2DSODSSESOSDSDDSOSO 327 DSEODSODSDSSOODO-
+Kunstwerk von Hüsteln die ganze Einrichtung einer Schiffskabine
+für zwei Personen untergebracht war …
 
-Kunſtwerk von Hüttlein die ganze Einrichtung einer Schiffs»
-kabine für zwei Perſonen untergebracht war. ...
+Kroch hinein … Der Käpten dicht hinter mir …
 
-Krod) hinein .. Der Käpten dicht hinter mir ,..
+»Heiliger Bimmstengel!!« rief Ollenprick leise. »Alles
+was recht ist!! Das nenn’ ich mir ein seines Quartier!!
+Diese Kai- Kai — Nigger, die mich hier vor Jahren mit
+Steinen bombardierten, haben Sinn für Gemütlichkeit!«
 
-„Heiliger Bimmſtengel!!“ rief Ollenpri> leiſe. „Alles
-was recht iſt!! Das nenw' ich mir ein feines Quartier!!
-Dieſe Kui- Kui = Nigger, die mi< hier vor Jahren mit
-Steinen bombardierten, haben Sinn für Gemütlichkeit!“
-
-Inzwiſchen hatte ich zwei kleine Fenſter entde>t, die ohne
-Zweifel ebenfalls aus der Jacht Sybille ſtammten, deren
-Wra> dort draußen lag, = genau wie die Möbelſtü>ke nur“
+Inzwischen hatte ich zwei kleine Fenster entdeckt, die ohne
+Zweifel ebenfalls aus der Jacht Sybille stammten, deren
+Wrack dort draußen lag, — genau wie die Möbelstücke nur«
 von dort herrühren konnten.
 
-Dieſe Fenſter waren zum Glü> von innen mit dickem,
-grünen Stoff verhängt, ſonſt hätte man nur zu leicht draußen
-auf der Bucht den grellen Schein meiner Taſchenlampe ſehen
+Diese Fenster waren zum Glück von innen mit dickem,
+grünen Stoff verhängt, sonst hätte man nur zu leicht draußen
+auf der Bucht den grellen Schein meiner Taschenlampe sehen
 können.
 
-So aber konnten Ollenpri> und ich uns in der Hütte
-ganz zwanglos bewegen, denn die geflo<htenen Wände waren
-ſauber mit Stoff als Tapetenbeſatz beſpannt und daher gleich=
-falls lichtſicher.
+So aber konnten Ollenprick und ich uns in der Hütte
+ganz zwanglos bewegen, denn die geflochtenen Wände waren
+sauber mit Stoff als Tapetenbesatz bespannt und daher gleichfalls
+sichtlicher.
 
-Der Käpten ſchloß die Tür ... Auch innen war an dieſer
-ein Verſhluß angebracht, jedoH ein weit „vornehmeres“,
-nämli9 das Meſſingſ<loß einer Kabinentür.
+Der Käpten schloß die Tür … Auch innen war an dieser
+ein Verschluß angebracht, jedoch ein weit »vornehmeres«,
+nämli9 das Messingschloß einer Kabinentür.
 
-Nun ſchauten wir uns hier in dieſem kleinen Gemach erſt
-einmal in Ruhe um ...
+Nun schauten wir uns hier in diesem kleinen Gemach erst
+einmal in Ruhe um …
 
-WirkliH =- = erſtaunlih war's, wie nett und behaglich
-das Ganze wirkte. Sogar die De>Xe war mit gelbgrauem Stoff
-beſpannt, und in der Mitte hing eine elegante Karbidlampe.
+Wirklich — 	— erstaunlich war’s, wie nett und behaglich
+das Ganze wirkte. Sogar die Kehre war mit gelbgrauem Stoff
+bespannt, und in der Mitte hing eine elegante Karbidlampe.
 
-Dann ließ ein leiſer Ausruf des Käptens mich raſch die
-Richtung meiner Blike ändern ...
+Dann ließ ein leiser Ausruf des Käptens mich rasch die
+Richtung meiner Blicke ändern …
 
-Ollenpri> hatte von dem ſc<malen Mahagoniwaſc<tiſch
-mit verſenkbarer Schüſſel einen Kamm aufgehoben ..
+Ollenprick hatte von dem schmalen Mahagoniwaschtisch
+mit versenkbarer Schüssel einen Kamm aufgehoben …
 
-Einen Damenfriſierkamm ...
+Einen Damenfrisierkamm …
 
-Und -- zwiſchen den Zinken hingen noh ein paar lange
-blonde Frauenhaare ... .
+Und — zwischen den Zinken hingen noch ein paar lange
+blonde Frauenhaare …
 
-„Bielleicht von dem kleinen Mädel,“ meinte der Käpten.
+»Vielleicht von dem kleinen Mädel,« meinte der Käpten.
+
 <@pagebreak/>
-DSDSSSSSDOSBDSBES 28 BED0DS0DBDEBSLDOBDS
+»Sie muß ja inzwischen mindestens fünfzehn Jahre alt geworden
+sein — mindestens …!«
 
-„Sie muß ja inzwiſchen mindeſtens fünfzehn Jahre alt ge=
-worden ſein -- mindeſtens ...!“
+Ich trat an den Waschtisch heran …
 
-I<H trat an den Waſchtiſch heran ...
+Zog die eine Schieblade auf …
 
-Zog die eine Shieblade auf ...
+Da lagen allerlei Dinge, wie sie von Damen zur Toilette
+benutzt werden …
 
-Da lagen allerlei Dinge, wie ſie von Damen zur Toilette
-benußt werden ...
+Da waren Haarnadeln, Bürsten, Tuben, — alles Kulturartikel,
+die eben nur gleichfalls mochte von der Jacht Sybille
+stammen konnten …
 
-Da waren Haarnadeln, Bürſten, Tuben, -- alles Kultur-
-artikel, die eben nur gleichfalls no<& von der Jacht Sybille
-ſtammen konnten ...
+Ich prüfte die Tuben und Bürsten … Man sah ahnen an,
+daß sie schon recht alt waren.
 
-I<H prüfte die Tuben und Bürſten . .. Man ſah AHNEN an,
-daß ſie ſchon recht alt waren.
+Dann wandte ich mich dem schmalen Kleiderschranke zu.
 
-Dann wandte ih mich dem ſchmalen Kleiderſchranke zu.
+Und — — fand hier eine ganze Menge Damengarderobe
+… Freilich: alles unmodern, alles von den Jahren gekennzeichnet
+…!
 
-Und -- - fand hier eine ganze Menge Damengarderobe
-... Freilich: alles unmodern, alles von den Jahren gekenn=
-zeichnet ..!
+Hierauf untersuchte ich die beiden übereinanderstehenden
+Kabinenbetten. Das obere war nur mit einer Decke belegt.
+Das untere war sauber bezogen, und unter der Steppdecke
+lag ein Nachthemd — ein Frauennachthemd!
 
-Hierauf unterſuchte ich die beiden übereinanderſtehenden
-Kabinenbetten. Da8 obere war nur mit einer Dede belegt.
-Das untere war ſauber bezogen, und unter der Steppdecke
-lag ein Nachthemd -- ein Frauennachthemd!
+Ollenprick lachte leise …
 
-Ollenpri> lachte leiſe ..
+»Boudoir der kleinen Krabbe von damals!!« meinte er
+scherzend … »Hoffentlich erscheint sie hier nicht, Brahmas
+und schmeißt uns hinaus, lieber Schraut!«
 
-„Boudoir der kleinen Krabbe von damals!!!“ meinte er
-ſcherzend ... „HoffentliH erſcheint ſie hier nicht, BIPALTNUG
-und ſchmeißt uns hinaus, lieber Schraut!“
+Ich brachte das Bett wieder in Ordnung …
 
-IH brachte das Bett wieder in Ordnung ...
+»Wir wär’s schon ganz lieb, wenn sie erschiene … Denn
+dann könnte man sie warnen … — vor dem lieben Oheim,
+der den Erbschleicher gespielt hat …! — Überhaupt, Käpten,
+im bin sehr neugierig, wie sich diese Geschichte weiter entwickeln
+wird. Ob etwa Peter Margenbeck sich bereits mit
+den beiden Australnegern in Verbindung gesetzt hat?!«
 
-„Mir wär's ſchon ganz lieb, wenn ſie erſchiene ... Denn
-dann könnte man ſie warnen ... = vor dem lieben Oheim,
-der den Erbſchleicher geſpielt hat ..! =- Ueberhaupt, Käpten,
-im bin ſehr neugierig, wie ſiH dieſe Geſchichte weiter ent=
-wickeln wird. Ob etwa Peter Margenbe> ſich bereits mit
-den beiden Auſtralnegern in Berbindung geſeßt hat?!“
-
-„Glaube ich nicht ... Die Jacht Oſtindia kann erſt kurz
-vor uns die Inſel erreicht haben, und da dürfte Margenbe>
-kaum Zeit gehabt haben, ſich den beiden mißtrauiſ<en Schwar»
-zen zu erkennen zu geben ... -- Nein, lieber Schraut, dieſes
-feinen Halunken Hauptſorge war unſer Kutter und deſſen
-Beſatzung, beſonders Harſt und Schraut, die er alle beide
+»Glaube ich nicht … Die Jacht Ostindia kann erst kurz
+vor uns die Insel erreicht haben, und da dürfte Margenbeck
+kaum Zeit gehabt haben, sich den beiden mißtrauischen Schwarzen
+zu erkennen zu geben … — Nein, lieber Schraut, dieses
+seinen Halunken Hauptsorge war unser Kutter und dessen
+Besatzung, besonders Harst und Schraut, die er alle beide
 <@pagebreak/>
-DSSSSSSSSDSDS 3) 080D0020S0SBD000
+dort an Bord vermutete … alle beide, wobei ich den Harst
+vorstellte, worauf ich ja sehr stolz bin, sehr sogar!«
 
-dort an Bord vermutete ... alle beide, wobei ich den Harſt
-vorſtellte, worauf ich ja ſehr ſtolz bin, ſehr ſogar!“
+Ich schaltete meine Taschenlampe wieder aus …
 
-I<h ſchaltete meine Taſchenlampe wieder aus ...
+»Sehen wir, was auf der Bucht geschieht …«
 
-„Sehen wir, wa8 auf der Bucht geſchieht ...“
+Und ich hob den einen Fenstervorhang …
 
-Und ich hob den einen Fenſtervorhang ...
+Da lagen jetzt draußen schräg unter uns auf dem matt
+schillernden Wasser drei Fahrzeuge: das verrostete Wrack,
+die Jacht Ostindia und … O’Kellings Kutter! — Also war
+den vornehmen Piraten der Anschlag auf die »Lady Hamilton«
+doch geglückt. Im stillen hatte ich noch immer gehofft, daß
+der mit allen Salben gesalbte O’Kelling noch zur Zeit Lunte
+riechen und auskneifen würde!
 
-Da lagen jetzt draußen ſchräg unter uns auf dem matt
-ſhillernden Waſſer drei Fahrzeuge: das verroſtete Wrack,
-die Jacht Oſtindia und ... O'Kellings Kutter! = Alſo war
-den vornehmen Piraten der Anſchlag auf die „Lady Hamilton“
-do< geglückt. Im ſtillen hatte ih noch immer gehofft, daß
-der mit allen Salben geſalbte O'Kelling noh zur Zeit Lunte
-rieHhen und auskneifen würde!
+Ollenprick stand dicht neben mir im Finstern …
 
-Ollenpri> ſtand dicht neben mir im Finſtern ...
+Der Wind hatte merklich aufgefrischt … Der Urwaldriese,
+in dessen Krone dieses Hütchen errichtet war, rauschte und
+ächzte … Einzelne Reste rieben sich an den Wänden der
+Hütte … Das gab andauernd Geräusche ab, die leider …
+andere Geräusche übertönten …
 
-Der Wind hatte merklich aufgefriſcht ... Der Urwaldrieſe,
-in deſſen Krone dieſes HütthHen errichtet war, rauſchte und
-ächzte ... Einzelne Aeſte rieben ſih an den Wänden der
-Hütte ... Das gab andauernd Geräuſche ab, die leider ...
-andere Geräuſche übertönten ...
+Nur so war es möglich, daß wir beide auf recht unangenehme
+Art die Bekanntschaft zweier jungen Menschenkinder
+machten, deren Leben bisher hier auf der weltfernen namenlosen
+Insel wie ein seltsamer Traum dahingeflossen war …
 
-Nur ſo war es möglich, daß wir beide auf re<ht unan-
-genehme Art die Bekanntſchaft zweier jungen Menſchenkinder
-machten, deren Leben bis8her hier auf der weltfernen namen=
-loſen Inſel wie ein ſeltſamer Traum dahingefloſſen war ...
+Auf recht unangenehme Art …
 
-Auf reht unangenehme Art ...
+Wirklich, diese beiden Wildlinge, die hier in Gesellschaf!
+der Australneger aufgewachsen waren, nahmen nicht viel
+Rücksicht, handelten ganz nach dem schlichten Grundsatz »Auge
+um Auge, Zahn um Zahn« …!
 
-Wirklich, dieſe beiven Wildlinge, die hier in Geſellſchaf!
-der Auſtralneger aufgewachſen waren, nahmen nicht viel
-Rücſicht, handelten ganz na< dem ſchlichten Grundſatz „Auge
-um Auge, Zahn um Zahn“ ..!
+Mit einem Male erhielt ich von hinten einen Hieb mich!
+einer Keule über den Schädel, daß ich jählings zu Boden sank.
 
-Mit einem Male erhielt iH von hinten einen Hieb mi!
-einer Keule über den Schädel, daß ich jähling8 zu Boden ſank.
-
-Ein Hieb war's, der mein Schädeldac<h fraglos wie ein"
-Ei gekni>t hätte, wenn ich nicht die Sportmüße aufgehab!
-hätte und wenn nicht in deren Futter ... eine Anzahl Zigarren
-geſte&t hätten, die im in meiner ZigarrentaſHe aus
-dem ſehr einfachen Grunde nicht hatte unterbringen können.
-weil dieſe Taſche mir geſtern auf der „Lady Hamilton“ über
+Ein Hieb war’s, der mein Schädeldach fraglos wie ein«
+Ei geknickt hätte, wenn ich nicht die Sportmütze aufschob!
+hätte und wenn nicht in deren Futter … eine Anzahl Zigarren
+gesteckt hätten, die im in meiner Zigarrentasche aus
+dem sehr einfachen Grunde nicht hatte unterbringen können.
+weil diese Tasche mir gestern auf der »Lady Hamilton« über
 Bord gefallen war.
+
 <@pagebreak/>
-DSSDSSSSSSSSS 10 DSS SODSOEDSOSIOSOS
+Gesegnet diese Zigarren!! Sie waren freilich zu Rauchtabak
+geworden, aber mein Schädel blieb heil!
 
-Geſegnet dieſe Zigarren!! Sie waren freilih zu Rauch»
-tabak geworden, aber mein Scädel blieb heil!
+Peinlichen Dusel hatte der brave Ollenprick gehabt …
 
-Aehnlihen Duſel hatte der brave Ollenpri> gehabt ...
+Ganz ähnlichen …
 
-Ganz ähnlichen ...
+Er war leidenschaftlicher Offenen … Und in Madras
+hatte er sich mit drei Rollen Kautabak versorgt, die er, damit
+sie feucht blieben, gleichfalls im Müdßgenfutter untergebracht
+hatte … Aus diesen drei. Voller war ein breiter Fladen
+geworden, — doch des Käptens Hirnschale blieb unverletzt,
+was nun mal die Hauptsache war!
 
-Er war leidenſc<haftliher Priemer ... Und in Madras
-hatte er ſiH mit drei Rollen Kautabak verſorgt, die er, damit
-ſie feucht blieben, gleichfalls im Müdßgenfutter untergebracht
-batte ... Aus dieſen drei. Nollen war ein breiter Fladen
-geworden, =- doh des Käptens Hirnſ<hale blieb unverlett,
-was nun mal die Hauptſache war!
+<h2>2. Kapitel.</h2>
 
-2. Kapitel.
-
-Ih kam zu mir ... Mein verehrter Schädel brummte
-wie eine Rieſenbaßgeige ... Und das lieblihe Funtenſprühen
+Ich kam zu mir … Mein verehrter Schädel brummte
+wie eine Riesenbaßgeige … Und das liebliche Funkensprühen
 vor den Augen bewies mir, daß der Hieb in meinem Hirn
-doh einige Verwirrung angerichtet hatte.
+doch einige Verwirrung angerichtet hatte.
 
-Aber auch dieſes Feuerwerk ging vorüber ...
+Aber auch dieses Feuerwerk ging vorüber …
 
-Ic< zwang mit aller Gewalt meinen armen Hadaver zur
-regelrechten Wiederaufnahme ſeiner Tätigkeit ... Das heißt:
-zunächſt ſtellte ihm feſt, daß ich noFH in der Baumkabine und
-zwar auf dem unteren Bette lag ... gefeſſelt ... und nicht
-ſc<leht!! I< konnte gerade den Kopf drehce.; und die Finger
-und Zehen bewegen -- ſonſt nichts!
+Ich zwang mit aller Gewalt meinen armen Kadaver zur
+regelrechten Wiederaufnahme seiner Tätigkeit … Das heißt:
+zunächst stellte ihm fest, daß ich voll in der Baumkabine und
+zwar auf dem unteren Bette lag … gefesselt … und nicht
+schlecht!! Ich konnte gerade den Kopf drohe.; und die Finger
+und Zehen bewegen — sonst nichts!
 
-Die Karbidlampe an der Dee brannte ...
+Die Karbidlampe an der See brannte …
 
-Id) ſah zwei ſchlanke Geſtalten, = junge, braune Geſichter,
--- kräftige, tief gebräunte Körper ...
+Ich sah zwei schlanke Gestalten, — junge, braune Gesichter,
+— kräftige, tief gebräunte Körper …
 
-Fraglos die Zwillinge ...
+Fraglos die Zwillinge …
 
-Die Wildlinge, die jungen Robinſone, -- die Kinder Io»
-hanne3 Margenbe>s ...
+Die Wildlinge, die jungen Robinsone, — die Kinder Johannes
+Margenbecks …
 
 Der Jüngling war bis auf ein Affenfell um die Lenden
-völlig nat. Das blonde Haar hatte er zu einem Schopf
-hohgebunden und mit Muſchels und Perlenſchnüren durch
-flochten ..
+völlig na!. Das blonde Haar hatte er zu einem Schopf
+losgebunden und mit Wahrheit und Perlenschnüren durch
+flochten …
+
 <@pagebreak/>
-DSSSOSSDSSDSSSS 11 SSSSSOSBDOSDISS-
+Das Mädchen trug eine Art Mantel von Affenfell, dazu.
+Sandalen aus Bast, und das Haar frei herabhängend.
 
-Das Mädd<en trug eine Art Mantel von Affenfell, dazu.
-Sandalen aus Baſt, -und das Haar frei herabhängend.
+Prachtvolles, aschblondes Haar war’s …
 
-Prachtvolles, aſchblondes Haar war's ...
+Und in dem Gesicht der von der Sonne so tief gebräunten:
+Jungfrau war ein Ausdruck von ungezügelter Wildheit …
 
-Und in dem Geſicht der von der Sonne ſo tief gebräunten:
-Jungfrau war ein Ausdru> von ungezügelter Wildheit ...
+In den Augen ein Blick von Haß und … Mordgier,
+könnte man fast sagen …
 
-In den Augen ein Blik von Haß und ... Mordgier,
-könnte man faſt ſagen ...
+So schaute sie mich an …
 
-So ſchaute ſie mich an ...
+So schaute mich auch der Jüngling an, trat nun rasch-näher,
+hob drohend den rechten Arm mit der kurzen schweren
+Wurfkeule, und sagte in fließendem Deutsch:
 
-So ſchaute mich auch der Jüngling an, trat nun raſch-
-näher, hob drohend den rechten Arm mit der kurzen ſchweren
-Wurfkeule, und ſagte in fließendem Deutſch:
+»Wenn du auch nur den Mund auftust, töte ich dich!«
 
-„Wenn du auch nur den Mund auftuſt, töte iH dich!“
+Das war keine leere Drohung …
 
-Das war keine leere Drohung ...
+Und die MüsSskulatur dieses Jüngling8arme8s und dazu
+die Keule bestimmten Herrn Max Schraut, vorläufig den.
+Mund zu halten …
 
-Und die MüsSskulatur dieſes Jüngling8arme8s und dazu
-die Keule beſtimmten Herrn Max Schraut, vorläufig den.
-Mund zu halten ...
+Au das Mädchen trat neben mein Lager …
 
-Au das Mädchen trat neben mein Lager ...
+Setzt erst erkannte ich, wie schön sie war, und welch Gemütliches
+Eben maß diesen voll erblühten Jungfrauenleid zierte.
 
-Setzt erſt erfannte ich, wie ſchön ſie war, und welch herr=
-liches Ebenmaß dieſen voll erblühten Iungfrauenleid zierte.
+Ei? wandte sich an den Bruder:
 
-Si2 wandte ſid) an den Bruder:
+»Frage ihn, Neptun …! Und wenn er lügt, stirbt er!!«
 
-„Frage ihn, Neptun ..! Und wenn er lügt, ſtirbt er!!““
-
-Das war ja eine reizende junge Dame!! Dieſes „ſtirbt
-ert!“ ſprach ſie in einem Tone, wie etwa ein Staatsanwalt
+Das war ja eine reizende junge Dame!! Dieses »stirbt
+er!!« sprach sie in einem Tone, wie etwa ein Staatsanwalt
 auf dem Hinrichtungsplatz zum Delinquenten!
 
-Und Neptun, der Bruder, fragte ...:
+Und Neptun, der Bruder, fragte …:
 
-„Wa38 wollt ihr hier auf der Inſel?“
+»Was wollt ihr hier auf der Insel?«
 
-Da8 war eine kitzliche Frage ...
+Das war eine kitzliche Frage …
 
-Denn wenn ich die Wahrheit «ſagte, ſo konnte der Jüng»
-ling meine Antwort nur zu leiht al8 Schwindel anſehen und-
-mir einen neuen Denkzettel mit ſeiner Keule verabfolgen ...
-Alſo = =- Diplomat ſein, Max Scraut!!
+Denn wenn ich die Wahrheit »sagte, so konnte der Jüngling
+meine Antwort nur zu leicht als Schwindel ansehen andeute
+einen neuen Denkzettel mit seiner Keule verabfolgen …
+Also — — Diplomat sein, Max Schraut!!
 
-„Euretwegen kamen wir her,“ erkläre ih. „Wir gehören
+»Euretwegen kamen wir her,« erkläre ich. »Wir gehören
 zu dem kleinen Fahrzeug, dem Kutter, der jetzt von der Jacht
-Oſtindia gewaltſam in die Bucht gebracht worden iſt.“
+Ostindia gewaltsam in die Bucht gebracht worden ist.«
 
-Dieſe Antwort deutete an, daß wir mit Peter Margenbe>
+Diese Antwort deutete an, daß wir mit Peter Margenbeck
 nichts zu tun hatten.
+
 <@pagebreak/>
-DSSSODSSSSSSS 1292 OdDIOSSEESESSSOSO
+Der Jüngling Neptun schaute fragend sein Schwesterlein
+an …
+»Er scheint nicht zu lügen, Ozeana … Wir haben ja
+beobachtet, daß zuerst die Jacht in die Bucht einlief und daß
+dann erst nach zwei Stunden der Kutter draußen zwischen
+den Klippen Anker warf …«
 
-Der Jüngling Neptun ſchaute fragend ſein Schweſterlein
-an...
-„Er ſcheint ni<t zu lügen, Ozeana ... Wir haben ja
-beobachtet, daß zuerſt die Jacht in die Bucht einlief und daß
-dann erſt nac zwei Stunden der Kutter draußen zwiſchen
-den Klippen Anker warf ...“
-
-Da ſagte ic ſchnell, denn die Sachlage mußte ſchleunigſt
+Da sagte ich schnell, denn die Sachlage mußte schleunigst
 geklärt werden:
 
-„Wir ſind Feinde der Leute der Jacht ... Ihr habt viel=
-leicht auch geſehen, daß ein Boot von dem Kutter in die
-Bucht einbog und daß die beiden Inſaſſen des Vootes von
+»Wir sind Feinde der Leute der Jacht … Ihr habt vielleicht
+auch gesehen, daß ein Boot von dem Kutter in die
+Bucht einbog und daß die beiden Insassen des Bootes von
 
--einem anderen Boote gefangengenommen wurden ... Das
-waren wir beide ...“
-Der Jüngling nickte ... „Ia, ein Boot kam in die Vucht
+einem anderen Boote gefangengenommen wurden … Das
+waren wir beide …«
+Der Jüngling nickte … »Ja, ein Boot kam in die Bucht
 
-... Und zwei Männer waren darin ... Mehr erkannten wir
-nicht. Es war ſchon zu dunkel. =- WesLhalb ſeid ihr Feinde
-der Jacht ?“
+… Und zwei Männer waren darin … Mehr erkannten wir
+nicht. Es war schon zu dunkel. — Mehrzahl seid ihr Feinde
+der Jacht?«
 
-Oh -- nun hatte ich gewonnenes Spiel!!
+Oh — nun hatte ich gewonnenes Spiel!!
 
-Nun durfte ich ſprechen!
+Nun durfte ich sprechen!
 
-Und ich redete wie ein Reichstags8abgeordneter, der au83=
-nahmsweiſe mal von der Sache, die er vertritt, ſelbſt etwas
-hält ...
+Und ich redete wie ein Reichstagsabgeordneter, der ausnahmsweise
+mal von der Sache, die er vertritt, selbst etwas
+hält …
 
-Ih begann mit Kapitän Ollenpri>ks Abenteuer ..
+Ich begann mit Kapitän Ollenpricks Abenteuer …
 
-Aha = darauf beſannen die Geſchwiſter ſich, daß hier vor
-vielen Jahren ein Deutſcher hatte landen wollen ...
+Aha — darauf besannen die Geschwister sich, daß hier vor
+vielen Jahren ein Deutscher hatte landen wollen …
 
-„3a,“ nicdte Ozeana eifrig, „= damals lebten Iupp und
--Strupp noh ..!“
+»Ja,« nickte Ozeana eifrig, «	— damals letzten Trupp und
+-Strupp noch …!«
 
-Und ich berichtete weiter: von Harald und mir, -- daß
-wir Detektive ſeien, daß uns Ollenpri>s Erlebni8 ſehr inter=
-eſſiert habe und daß Harſt dann in Hamburg Peter Margen=
-ie kennengeiernt und ſofort gegen ihn Berdacht geſchöpft
+Und ich berichtete weiter: von Harald und mir, — daß
+wir Detektive seien, daß uns Ollenpricks Erlebnis sehr interessiert
+habe und daß Harst dann in Hamburg Peter Margen-ie
+kennengelernt und sofort gegen ihn Verdacht geschöpft
 
-abe ...
+habe …
 
-Als iM den Namen Peter Margenbe&> erwähnte, ver=
-zerrten ſi) die Geſichter der beiden Geſchwiſter auf eine faſt
-'abſc<hre>ende Brt ...
+Als ich den Namen Peter Margenbeck erwähnte, verzerrten
+sich) die Gesichter der beiden Geschwister auf eine fast
+abschreckende Bett …
 
-Ih fuhr fort:
+Ich fuhr fort:
+
 <@pagebreak/>
-DSSSSSSSDSSS 13 0000 SSD0BDESSSDSD
+»So kamen wir naß Madras … Und in Madras ereignete
+sich folgendes …
 
-„So kamen wir naH Madras ... Und in Madras er=
-eignete ſich folgendes ...
+Ich erzählte von Lydia Margenbeck, die neben uns gewohnt
+und die wir in den Schrank eingeschlossen hatten
+Ich schilderte die bisherigen Vorgänge hier auf der Insel …
+Und meine beiden Zuhörer unterbrachen mich nicht mehr …
+Sie glaubten mir …
 
-IH erzählte von Lydia Margenbe>, die neben uns ge=
-wohnt und die wir in den Schrank eingeſchloſſen hatten
-Ih ſ<ilderte die biSherigen Borgänge hier auf der Inſel ...
-Und meine beiden Zuhörer unterbrachen mich nicht mehr ...
-Sie glaubten mir ...
+Der Jüngling begann mir wortlos die Fesseln abzunehmen.
 
-Der Jüngling begann mir wortlos die Feſſeln abzunehmen.
+Nur Ozeana sagte etwas verlegen:
 
-Nur ODzeana ſagte etwas verlegen:
+»Du darfst uns nicht zürnen, Landsmann … Wir hielten
+euch beide — für Freunde des Schurken, der unsere Eltern
+heimtückisch; betrogen hat … Wir hatten die Leute der Jacht
+belauscht, als sie gleich nach ihrer Ankunft in der Bucht
+flüchtig die Insel durchsuchten … Da hörten wir, mit wem
+wir es zu tun hatten … Verzeihe uns, Landsmann …«
 
-„Du darfſt uns nicht zürnen, Landsmann ... Wir hielten
-eu<h beide - für Freunde des Schurken, der unſere Eltern
-heimtückiſc; betrogen hat ... Wir hatten die Leute der Jacht
-belauſcht, als ſie gleich nach ihrer Unkunft in der Bucht
-flüchtig die Inſel durchſuchten ... Da hörten wir, mit wem
-wir es zu tun hatten ... Berzeihe uns, Landsmann ...“
+Wie gern tat ich’s …
 
-Wie gern tat ich's ...
+Und wie freute ich mich, als sich nun auch vom oberen
+Bette her Käpten Ollenprick meldete, indem er nach einem
+einleitenden grimmen Flure rief:
 
-Und wie freute i<ß mich, als ſich nun auch vom oberen
-Bette her Käpten Ollenpri> meldete, indem er nach einem
-einleitenden grimmen Fluce rief:
+»Kinder, für eure Jahre habt ihr einen ganz netten Hieb
+am Leibe …!! Daß mein Schädel diesen Klaps überstanden
+hat, verdanke ich freilich nur meinem Kautabak … Und wenn
+ihr mir nun die Stricke abnehmen wollt, dann kann ich mir
+auch wieder ein kleines Stück Labsal in den Gaumen schieden,
+denn den gerade dort befindlichen Priem habe ich vor
+Schreck über den Keulenhieb regelrecht verschluckt …«
 
-„Kinder, für eure Jahre habt ihr einen ganz netten Hieb
-am Leibe ..!! Daß mein Schädel dieſen Klaps überſtanden
-hat, verdanke ich freilih nur meinem Kautabak ... Und wenn
-ihr mir nun die Strike abnehmen wollt, dann kann ich mir
-au<h wieder ein kleines Stü> Labſal in den Gaumen ſchie=
-ben, denn den gerade dort befindlihen Priem habe ich vor
-Schre> über den Keulenhieb regelrecht verſchluckt ...“
-
-Ollenpri>& erhielt ſein „kleines Labſal“, und dann ſaßen
-wir beide auf dem unteren Bett, und die Geſchwiſter uns
-gegenüber auf Schiffsſtühlen ...
+Ollenprick& erhielt sein »kleines Labsal«, und dann saßen
+wir beide auf dem unteren Bett, und die Geschwister uns
+gegenüber auf Schiffsstühlen …
 
 Es war jetzt vier Uhr morgens.
 
-Draußen war der junge Tag bereits heraufgezogen ...
+Draußen war der junge Tag bereits heraufgezogen …
 
-Da beſann ich mich auf Haralds Befehl ...
+Da besann ich mich auf Haralds Befehl …
 
-Erhob mich ... Trat ans Fenſter ... Schlug den Bor=
-hang etwas zurüs ...
+Erhob mich … Trat ans Fenster … Schlug den Vorhang
+etwas zurück …
 
-Id) hatte in den Beinen noh ein verdammt unſichere3
-Gefühl ... Die Knie zitterten mir ... Ia, wenn ich mir zur
+Ich hatte in den Beinen noch ein verdammt unsicheres
+Gefühl … Die Knie zitterten mir … Ja, wenn ich mir zur
 <@pagebreak/>
-SDSSOESODSODDDESS 411 080 0S0B8SDSD0SS
+Anregung wenigstens eine Zigarre hätte anzünden können!!
+Aber ich hatte vorhin nachgesehen und festgestellt, daß die
+schönen braunen Nipkotinnudeln sämtlich derart herbestellt
+waren, daß nicht mal ein Stummel hätte zurechtgestutzt werden
+können
 
-Anregung wenigſtens eine Zigarre hätte anzünden können!!
-Aber iH hatte vorhin nachgeſehen und feſtgeſtellt, daß die
-ſchönen braunen Nipkotinnudeln ſämtlich derart zerbrödelt
-waren, daß nicht mal ein Stummel hätte zurechtgeſtutzt wer»
-den können
+Und so mit zitternden Knien schaute ich durch die grünen
+Zweige auf die Bucht hinab …
 
-Und ſo mit ziiternden Knien ſchaute ih dur< die grünen
-Zweige auf die Bucht hinab .
+Die Sonne war gerade aufgegangen … Der Himmel
+strahlte in lichter Bläue, und über der Bucht schweben Baron
+von Seevögeln …
 
-Die Sonne war gerade aufgegangen ... Der Himmel
-ſtrahlte in lichter Bläue, und über der Bucht ſhweb.en S aren
-von Seevögeln ...
+Und dann … rieb ich mir die Augen …
 
-Und dann ... rieb ich mir die Yugen ...
+Rieb sie mir immer wieder …
 
-Rieb ſie mir immer wieder ...
-
-War iH denn mit einem Male etwa hühnerolind ges
+War ich denn mit einem Male etwa hühnerolind sei
 worden?!
 
-ZLGo waren die Jacht und der Kutter?!
+Lag waren die Jacht und der Kutter?!
 
 Wo?!
 
-Und -=- ich rief Ollenpri> herbei .
+Und — ich rief Ollenprick herbei …
 
-„FHäpten, was ſagen Sie nun dazu, he?!“
+»Käpten, was sagen Sie nun dazu, he?!«
 
-Nuch er gloßte, ſtierte, ſtarrte, ſchlenferte den Kopf ...
+Auch er größte, stierte, starrte, schlenkerte den Kopf …
 
-Auch er war einfach ſprachlos ...
+Auch er war einfach sprachlos …
 
 Dann aber meinte er:
 
-„Die werden nun wohl in der Oſtbucht ankern ...t“
+»Die werden nun wohl in der Ostbucht ankern … t«
 
-Die Geſchwiſter ſtanden am anderen Fenſter ...
+Die Geschwister standen am anderen Fenster …
 
-Aud) ſie vermochten ſi? das Verſchwinden der beiden
-Fahrzeuge nicht zu erklären ...
+Auch sie vermochten sich? das Verschwinden der beiden
+Fahrzeuge nicht zu erklären …
 
 Dann meinte der Jüngling:
 
-„Ich werde zur O tbucht eilen „.. I< bin in ku“2cm u: üs.“
+»Ich werde zur Erdacht eilen »… Ich bin in ku2cm u: As.«
 
-Inzwiſchen "hatte iq mir die Sache jedoc<; von ailen
-Seiten gründlich überlegt und erklärte, daß e8 ratſamer wäre,
-die Bauimhütte zunächſt nicht zu verlaſſen ...
+Inzwischen »hatte iq mir die Sache jedoch; von allen
+Seiten gründlich überlegt und erklärte, daß es ratsamer wäre,
+die Bauimhütte zunächst nicht zu verlassen …
 
-.-». Denn ich nehme an, daß Beter Margenbe> vielleicht
-auf den hinterliſtigen Gedanken gekommen iſt, mit beiden
-Fahr2ceugen die Inſel zum Schein 3zu verlaſſen, während hier
-ein paar Leute heimlich zurücblieben, die eu) beide und uns
-abfangen ſollen, ſobald wir uns zeigen ...“
+-». Denn ich nehme an, daß Peter Margenbeck vielleicht
+auf den hinterlistigen Gedanken gekommen ist, mit beiden
+Fahr2ceugen die Insel zum Schein 3zu verlassen, während hier
+ein paar Leute heimlich zurückließen, die ein) beide und uns
+abfangen sollen, sobald wir uns zeigen …«
 
-Ollenpri> pflihtete mir bei ...
+Ollenprick pflichtete mir bei …
+
 <@pagebreak/>
-22DDO2DBDO200DDSO 15 S0 0020202082200
+»Das kann schon sein, lieber Schraut, und deshalb wäre
+es für dich, mein Sohn,« wandte er sich an den Jüngling,
+»denn doch zu gefährlich, dich bis zur Ostbucht zu schleichen!«
 
-„Da8 kann ſchon ſein, lieber Schraut, und de8halb wäre
-es für dich, mein Sohn,“ wandte er ſic) an den Jüngling,
-„denn doh zu gefährlich, dich bis zur Oſtbucht zu ſchleichen!“
-
-Nber der ſtattliche ſ<hlanke Neptun (wie er gerade zu
-dem Namen gekommen, erfährt der Leſer ſpäter) -- alſo
+Oder der stattliche schlanke Neptun (wie er gerade zu
+dem Namen gekommen, erfährt der Leser später) — also
 Neptun lächelte nur und erwiderte:
 
-„Lapitän, du brauchſt meinetwegen di< nicht zu ſorgen
+»Fortan, du brauchst meinetwegen dich nicht zu sorgen
 
-. Ich wandere durc< die Baumkronen zum Oſtſtrande, und
-oben in den Baumwipfeln ſieht mich niemand!“
+… Ich wandere durch die Baumkronen zum Oststrande, und
+oben in den Baumwipfeln sieht mich niemand!«
 
-„Na -- dann nur los!“ niäkte Ollenpri>. „Damit wir
-Gewiti beit haben!“ *
+»Na — dann nur los!« Kiste Ollenprick. »Damit wir
+Gewirr bei! haben!««
 
-Der Züngling verließ die Hütte ..
+Der Jüngling verließ die Hütte …
 
-Seine Schweſter aber holte uns aus einem Vorratsraum
-neben der Hütte allerlei köſtlihe Früchte, ein paar gebratene
-Fiſche und eine Kanne voll Palmwein ...
+Seine Schwester aber holte uns aus einem Vorratsraum
+neben der Hütte allerlei köstliche Früchte, ein paar gebratene
+Fische und eine Kanne voll Palmwein …
 
-Während wir uns ſtärkten, verſuchte ich die liebliche wilde
-Ozeana ein wenig auszufragen ...
+Während wir uns stärkten, versuchte ich die liebliche wilde
+Ozeana ein wenig auszufragen …
 
-Sie war jedo< ſehr vorſichtig in ihren Antworten und
-meinte ſchließlich:
+Sie war jedoch sehr vorsichtig in ihren Antworten und
+meinte schließlich:
 
-„Herr Schraut, du mußt di< noch gedulden ... Ohne
-meinen Bruder darf ich nichts tun, was nicht mit zu unſeren
-Abſichten gehört ...“
+»Herr Schraut, du mußt dich noch gedulden … Ohne
+meinen Bruder darf ich nichts tun, was nicht mit zu unseren
+Absichten gehört …«
 
-Ihre YAusdruFs8weiſe war genau wie die des Jünglings
-etwas ungewandt ... Kein Wunder, denn die Zwillinge hatten
-während ihres einſamen Lebens hier auf der Inſel kaum
-Gelegenheit gehabt, ihren deutſchen Wortſc<haß irgendwie zu
-bereihern. --
+Ihre YAusdruFs8weise war genau wie die des Jünglings
+etwas ungewandt … Kein Wunder, denn die Zwillinge hatten
+während ihres einsamen Lebens hier auf der Insel kaum
+Gelegenheit gehabt, ihren deutschen Wortschatz irgendwie zu
+versichern. —
 
-Nur eins erfuhren wir von Ozeana: daß ſie ſelbſt hier
+Nur eins erfuhren wir von Ozeana: daß sie selbst hier
 die Baumhütte bewohnte, während ihr Bruder in einer nahen
-Felſengrotte mitten im Urwald hauſte.
+Felsengrotte mitten im Urwald hauste.
 
-Auf meine Frage, wann und wie die beiden Auſtralneger
-geſtorben, deutete Ozeana nur ſtumm auf ihre Wurfkeule
-aus Eijenholz und machte dazu ein Paar Augen, daß es
-mir falt über den Rüden lief ...
+Auf meine Frage, wann und wie die beiden Australneger
+gestorben, deutete Ozeana nur stumm auf ihre Wurfkeule
+aus Eigenheit und machte dazu ein Paar Augen, daß es
+mir fast über den Rücken lief …
 
-E35 war klar: die Geſchwiſter hatten die Neger erſchlagen!
+E35 war klar: die Geschwister hatten die Neger erschlagen!
+
 <@pagebreak/>
-BSSSSSDSSSOSSS 16 DSDSDSOEFOSEIS
 
-3. Kapitel.
+<h2>3. Kapitel.</h2>
 
-Als die TageSszeitungen damals nach dem Wiederaufs=
-tauchen der Geſchwiſter MargenbeX über deren Sci&ſale
-lange Berichte brachten, habe iM mir einige dieſer Artikel
-aufbewahrt und mit Randbemerkungen verſehen, -- denn in
-all dieſen Berichten hatte die holde Dame Phantaſie die
-Hauptarbeit geleiſtet. Die wirklihen Geſchehniſſe bleiben
-bis zu dem Tage, wo dieſe meine eigene Niederſchrift ver=
-öffentliht wird, ein ſtreng gehütetes Geheimnis derjenigen
-Perſonen, die damals das Drama auf Käpten Ollenpricks8 Inſel
-miterlebt haben ...
+Als die Tageszeitungen damals nach dem Wiederauftauchen
+der Geschwister MargenbeX über deren Schicksale
+lange Berichte brachten, habe ich mir einige dieser Artikel
+aufbewahrt und mit Randbemerkungen versehen, — denn in
+all diesen Berichten hatte die holde Dame Phantasie die
+Hauptarbeit geleistet. Die wirklichen Geschehnisse bleiben
+bis zu dem Tage, wo diese meine eigene Niederschrift veröffentlicht
+wird, ein streng gehütetes Geheimnis derjenigen
+Personen, die damals das Drama auf Käpten Ollenpricks Insel
+miterlebt haben …
 
-Dies ſc<i>e ih voraus ...
+Dies schicke ich voraus …
 
-Und nun zur Fortſezung unſerer Abenteuer auf dem
-unbekannten Eiland .
+Und nun zur Fortsetzung unserer Abenteuer auf dem
+unbekannten Eiland …
 
-Nun wieder zurü& in die zierlihe Baumhütte, wo Ozeana
-ſoeben angedeutet hat, wel<es Ende Jupp und Strupp ge=
-funden hatten ... |
+Nun wieder zurück in die zierliche Baumhütte, wo Ozeana
+soeben angedeutet hat, welches Ende Jupp und Strupp gefunden
+hatten …
 
-I<h ſelbſt blieb ſtuym, nachdem das Mädchen in nicht
-mißzuverſtehender Weiſe auf die Keule gezeigt hatte.
+Ich selbst blieb Sturm, nachdem das Mädchen in nicht
+mißzuverstehender Weise auf die Keule gezeigt hatte.
 
-Aber der alte Käpten blieb nicht ſtumm ...
+Aber der alte Käpten blieb nicht stumm …
 
-RVief entſetzt:
+Rief entsetzt:
 
-„Wie -- -- ihr habt die Nigger getötet?“
+»Wie — — ihr habt die Nigger getötet?«
 
-„3a,“ erwiderte Ozeana mit ſprühenden Augen. „Ia --
-und wir haben nur das getan, was jeder in unſerer Lage
-getan hätte -- jever!! Jupp und Strupp hatten unſere
-Mutter ... ertränft =- -- dort in der Oſtbucht . ..“
+»Ja,« erwiderte Ozeana mit sprühenden Augen. »Ja —
+und wir haben nur das getan, was jeder in unserer Lage
+getan hätte — jener!! Jupp und Strupp hatten unsere
+Mutter … ertränkt — — dort in der Ostbucht …«
 
-Abermals wurde es mir unheimlich kühl auf dem Rüden.
+Abermals wurde es mir unheimlich kühl auf dem Rücken.
 
-Und die fur<tbare Frage drängte ſic) mir auf, was wohl
-noh ſonſt an Entſeßzlichem hier auf dieſem Eiland geſchehen
-ſein möchte ...
+Und die furchtbare Frage drängte sich mir auf, was wohl
+noch sonst an Entsetzlichem hier auf diesem Eiland geschehen
+sein möchte …
 
-Was wohl?! -- Und mein gedankenſhwerer Bli> hing
+Was wohl?! — Und mein gedankenshwerer Blick hing
 <@pagebreak/>
-2D022020220202020 17 DD0DSS0DDSEDSBEBS-
+versonnen an dem reinen Antlitz des jungen Weibes im
+Affenfellmantel …
 
-verſonnen an dem reinen Antlitz des jungen Weibes im
-Uffenfellmantel ...
+Da wurde auch schon die Tür der Hütte aufgestoßen, und
+der Jüngling trat ein …
 
-Da wurde auch ſhon die Tür der Hütte aufgeſtoßen, und
-der Jüngling trat ein ...
+Ein geringschätziges Lächeln um die roten Lippen …
 
-Ein geringſchätziges Lächeln um die roten Lippen ...
+Hielt seine Wurfkeule hoch …
 
-Hielt ſeine Wurfkeule hoch ...
+Der durch die offene Tür hereinfallende Tagesschimmer
+ließ das Blut auf der Keule förmlich leuchten …
 
-Der dur<h die offene Tür hereinfallende Tagesſhimmer
-ließ das Blut auf der Keule förmlich leuchten ...
+Ein einzelner Tropfen fiel herab und verscharrte in dem
+Bastteppich der Hütte …
 
-Ein einzelner Tropfen fiel herab und verſi>äerte in dem
-Baſtteppic< der Hütte ...
+Ich war blaß geworden …
 
-Ih war blaß geworden ...
+Ollenprick graugelb …
 
-Ollenpri> graugelb ...
-
-„Vier Farbige und ein Weißer waren's,“ ſagte der Iüng=
-ling mit der ganzen Schlichtheit eines Menſc<hen, der nur
-nah primitiven Naturgeſetzen handelt ... „Sie hatten Ge=
-wehre und Revolver ... Sie lagen im Geſtrüpp vor meiner
-Grotte und lauerten auf mich ... Ih ſah ſie von oben ..;
-I<H holte vier Steine ... Den Europäer erſchlug ich dann mit
-der Keule ... Er hat vor mir auf den Knien gelegen und um
-ſein Leben gewinſelt ... Er nannte mir ſeinen Namen: Heltor
-Borell, der Bruder der Gattin Beter Margenbe>s! Er gab
-zu, daß er und die vier anderen uns greifen ſollten, und daß.
+»Vier Farbige und ein Weißer waren’s,« sagte der Jüngling
+mit der ganzen Schlichtheit eines Menschen, der nur
+nach primitiven Naturgesetzen handelt … »Sie hatten Gewehre
+und Revolver … Sie lagen im Gestrüpp vor meiner
+Grotte und lauerten auf mich … Ich sah sie von oben …;
+Ich holte vier Steine … Den Europäer erschlug ich dann mit
+der Keule … Er hat vor mir auf den Knien gelegen und um
+sein Leben gewinselt … Er nannte mir seinen Namen: Keller
+Borell, der Bruder der Gattin Peter Margenbecks! Er gab
+zu, daß er und die vier anderen uns greifen sollten, und daß.
 die Schiffe zurückkehren würden, wenn er auf dem Berge am
-Nordufer ein Feuer anzünden würde. I< wußte genug. Er
-iſt tot. Er war einer von denen, die unſere Eltern betrogen
-haben ...“
+Nordufer ein Feuer anzünden würde. Ich wußte genug. Er
+ist tot. Er war einer von denen, die unsere Eltern betrogen
+haben …«
 
-Mir traten eiskalte Schweißtropfen auf die Stirn ...
+Wir traten eiskalte Schweißtropfen auf die Stirn …
 
-Ollenpri> ſagte heiſer:
+Ollenprick sagte heiser:
 
-„Mein Junge, das ... das ... iſt Mord!“
+»Mein Junge, das … das … ist Mord!«
 
-Der Jüngling ſchüttelte den Kopf ...
+Der Jüngling schüttelte den Kopf …
 
-„Sapitän, du weißt nicht, was hier geſchehen iſt ... Du
-wirſt es wiſſen, wenn meine Schweſter und ich Gericht über
-die anderen halten ... Heute abend werden wir das Feuer
-anzünden ...“
+»Kapitän, du weißt nicht, was hier geschehen ist … Du
+wirst es wissen, wenn meine Schwester und ich Gericht über
+die anderen halten … Heute abend werden wir das Feuer
+anzünden …«
 
-Ih griff nac< der Kanne Palmwein und trank ...
+Ich griff nach der Kanne Palmwein und trank …
 
-Mir war zumute, als ob ic< all dies nur träumte ...
+Wir war zumute, als ob ich all dies nur träumte …
+
 <@pagebreak/>
-DFSSSDSSSDSSDSS 18 DSSSDSSSIOD0D
-
 Und der Jüngling fügte hinzu:
 
-„Die Toten habe ich in den Abgrund neben meiner Grotte
-Zeworfen ... Dort in der Tiefe rauſcht ein unterirdiſches
-"Waſſer und nimmt die Leichen mit ...“
+»Die Toten habe ich in den Abgrund neben meiner Grotte
+Geworfen … Dort in der Tiefe rauscht ein unterirdisches
+»Wasser und nimmt die Leichen mit …«
 
-„3a,“ ſagte Ozeana ernſt, „dort hinein verſ<wanden auch
-Iupp und Strupp ... Dort werdea no< andere verſchwinden.“
+»Ja,« sagte Ozeana ernst, »dort hinein verschwanden auch
+Trupp und Strupp … Dort werden noch andere verschwinden.«
 
-Dieſe Worte des jungen Mädchens müſſen auf den Leſer
-notwendig den Eindru> einer unglaublichen, faſt abſtoßenden
-Gefühlsroheit maHhen. Und doh: auf mich, der Ohrenzeuge
-dieſer Säße war, wirkten ſie ganz anders. Denn ich hatte
-dieſes junge, ſc<lanke, kräftige Weib, das hier in der Wildnis
--groß geworden und das hinſichtlih Moral und Anſtand -
-genau ſo primitiv und natürlich dachte wie der gleichaltrige
-"Bruder, diht vor mir ... I< ſah ihre ehrlichen, offenen
-Augen, ſah die natürliche Leidenſhaft des Wunſches nach
-'Vergeltung darin glühen, und wußte, daß dieſe beiden Wild
-linge auf dieſem Eiland ſeeliſm unendlich gelitten und unend=
-lih Gdmerzlihes und Entſetzlihes dur<gema<t haben
-mußten ... -.
+Diese Worte des jungen Mädchens müssen auf den Leser
+notwendig den Eindruck einer unglaublichen, fast abstoßenden
+Gefühlsroheit machen. Und doch: auf mich, der Ohrenzeuge
+dieser Säße war, wirkten sie ganz anders. Denn ich hatte
+dieses junge, schlanke, kräftige Weib, das hier in der Wildnis
+groß geworden und das hinsichtlich Moral und Anstand —
+genau so primitiv und natürlich dachte wie der gleichaltrige
+»Bruder, dicht vor mir … Ich sah ihre ehrlichen, offenen
+Augen, sah die natürliche Leidenschaft des Wunsches nach
+Vergeltung darin glühen, und wußte, daß diese beiden Wild
+Schlinge auf diesem Eiland seelisch unendlich gelitten und unendlich
+Schmerzliches und Entsetzliches durchgemacht haben
+mußten … —.
 
-Die volle Wahrheit war mir no<F fremd. Aber das, was
-Dieſe jungen Gemüter ſo weit verhärtet haben mußte, konnte
-nur geradezu Grauenvolles geweſen ſein. =
+Die volle Wahrheit war mir nachts fremd. Aber das, was
+Diese jungen Gemüter so weit verhärtet haben mußte, konnte
+nur geradezu Grauenvolles gewesen sein. —
 
-Kein Wunder, daß der alte Ollenpri>, dem wohl doch
-Das VBerſtändnis für all dieſe traurigen Dinge abging, jett
-wie in väterliher Entrüſtung Ozeanas Hand ergriff und
+Kein Wunder, daß der alte Ollenprick, dem wohl doch
+Das Verständnis für all diese traurigen Dinge abging, jetzt
+wie in väterlicher Entrüstung Ozeanas Hand ergriff und
 eindringlich rief:
 
-„Kind, Kind, wie kannſt du als Mädchen ſolhe Aeuße=
-rungen tun! -- Kind, beſinne dich auf dich ſelbſt! Du biſt
--ein reifer Menſc<, und du mußt einſehen, daß ...“
+»Kind, Kind, wie kannst du als Mädchen solche Äußerungen
+tun! — Kind, besinne dich auf dich selbst! Du bist
+ein reifer Mensch, und du mußt einsehen, daß …«
 
-Der erſtaunte BliX Ozeanas verſchlug ihm jäh die Rede.
+Der erstaunte Arg Ozeanas verschlug ihm jäh die Rede.
 
-„Herr Kari: än,“ meinte ſie etwas unwillig, „du wirſt meine
-'Worte anderes beurteilen, wenn du ... meine Mutter ges
-Jehen haſt ...“ -- Dann wandte ſie ſiH an den Bruder ...
-„Gehen wir zu deiner Grotte ... Wir haben jetzt nichts mehr
-Zu fürchten ... Die beiden deutſchen Landsleute ſcheinen nicht
+»Herr Kali: an,« meinte sie etwas unwillig, »du wirst meine
+Worte anderes beurteilen, wenn du … meine Mutter sei
+Gehen hast …« — Dann wandte sie sich an den Bruder …
+»Gehen wir zu deiner Grotte … Wir haben jetzt nichts mehr
+Zu fürchten … Die beiden deutschen Landsleute scheinen nicht
 <@pagebreak/>
-SSSSSSSSSDSSS 197 O000DSDE20200002
+zu begreifen, daß wir ein heiliges Recht haben, Vergeltung
+zu üben …«
 
-zu begreifen, daß wir ein heiliges Recht haben, Bergeltung
-zu üben ...“
+Der Jüngling Kiste nur …
 
-Der Jüngling niäte nur ...
+Und begann schweigend vom Baum hinabzusteigen …
+Wir folgten … Ozeana als letzte …
 
-Und begann ſchweigend vom Baum hinabzuſteigen ...
-Wir folgten ... Ozeana als lette ...
+Wie im Traum schritten wir dann durch den Urwald
+hinter dem Jüngling drein … Stets auf einem unsichtbaren
+Pfade, der über Fel8gestein sich durch DiFXicht und Gestrüpp
+schlängelte — unsichtbar, weil der kahle Fels keine Spuren
+annahm …
 
-Wie im Traum ſchritten wir dann dur<ß den Urwald
-hinter dem Jüngling drein ... Stets auf einem unſichtbaren
-Pfade, der über Fel8geſtein ſiH durch DiFXicht und Geſtrüpp
-ſhlängelte =- unſichtbar, weil der kahle Fels keine Spuren
-annahm ...
+Dieser Pfad mit seinen zahllosen Windungen endete nach
+einem Marsche von fünf Minuten vor einer hohen Felsmasse,
+die mitten unter den Urwaldriesen sich erhob …
 
-Dieſer Pfad mit ſeinen zahlloſen Windungen endete nach
-einem Marſ<e von fünf Minuten vor einer hohen Felsmaſſe,
-die mitten unter den Urwaldrieſen ſich erhob ...
+Ein zerklüfteter Hügel schwarzgrauen Gesteins war’s …
 
-Ein zerklüfteter Hügel ſ<hwarzgrauen Geſteins war's ...
+In schmalen Terrassen stieg er nach9 Norden zu an …
 
-In ſchmalen Terraſſen ſtieg er na<9 Norden zu an ...
+Auf diesen Terrassen wuchsen einzelne Büsche und Beerensträucher
+— Dornen von jener Art, die ihre fingerdicken
+Ranken, bewehrt mit fingerlangen Stacheln, wie pfeilgespickte
+Vorhänge viele Meter tief nach unten senden …
 
-Auf dieſen Terraſſen wuchſen einzelne Büſche und Dor»
-nenſträuc<er -- Dornen von jener Art, die ihre fingerdi>en
-Ranken, bewehrt mit fingerlangen Stacheln, wie pfeilgeſpickte
-Vorhänge viele Meter tief nach unten ſenden ...
+Und links neben diesem Hügel klaffte im Waldboden
+eine vielleicht anderthalb Meter breite Spalte, die sich,
+vielfach gekrümmt, im Düster des Waldes verlor, stellenweise
+aber von trügerischen Brücken von Planzengewirr und Moos
+überspannt war …
 
-Und links neben dieſem Hügel klaffte im Waldboden
-eine vielleiht anderthalb Meter breite Spalte, die ſich,
-vielfach gekrümmt, im Düſter de8 Waldes verlor, ſtellenweiſe
-aber von trügeriſchen Brü>ken von Planzengewirr und Moos
-überſpannt war ...
+Ozeana deutete stumm auf diese Kluft …
 
-Ozeana deutete ſtumm auf dieſe Kluft ...
+Wir beide traten näher, beugten uns herab, und vernahmen
+in der Tiefe tatsächlich ein dumpfes Rauschen, ohne je
+doch trotz der Tageshelle etwas von dem dort unten fließenden
+Wasser wahrnehmen zu können …
 
-Wir beide traten näher, beugten uns herab, und vernah=
-men in der Tiefe tatſächlih ein dumpfes Rauſchen, ohne je
-doch troß der Tageshelle etwas von dem dort unten fließen=
-den Waſſer wahrnehmen zu können. ...
+Als« dies war der Abgrund, in dem die Australneger und
+jetzt auch Hektor Borell und die vier farbigen Matrosen verschwunden
+waren!!
 
-Alſ» dies war der Abgrund, in dem die Auſtralneger und
-jeßt auch Hektor Borell und die vier farbigen Matroſen ver»
-ſhwundea waren!!
+Eine eisige Luft stieg aus der Felskluft empor, dazu noch
+ein fauliger Gerüchts wie von verwesenden Pflanzen …
 
-Erne eiſige Luft ſtieg aus der Felskluft empor, dazu noh
-ein fauliger Geruc<g wie von verweſenden Pflanzen ...
+Arbeit uns sagte der Jüngling:
 
-Nebeii uns ſagte der Jüngling:
-
-„Id habe ein einziges Mal verſucht, an einem Tau dort
+»Ich habe ein einziges Mal versucht, an einem Tau dort
 <@pagebreak/>
-2DSSSSSDSSDSSDS 50 2D08S80OSSSSSSESOS
+hinabzuklettern … Nur ein einziges Mal … Aber dort
+unten drohen Schrecknisse, die nichts wieder emportrieben. Ein
+Pesthauch machte mir das Atmen schwer … Vor meinen
+Augen begann sich alles zu drehen, und die mitgenommene
+Nadel entfiel meiner Hand … Da kehrte ich schleunigst um.«
 
-bhinabzuklettern ... Nur ein einziges Mal ... Aber dort
-unten drohen Schre&niſſe, die mi<g wieder emportrieben. Ein
-Peſthbauch machte mir das Atmen ſchwer ... Vor meinen
-Augen begann ſich alles zu drehen, und die mitgenommene
-Fadel entfiel meiner Hand ... Da kehrte iH ſchleunigſt um.“
+Ollenprick murmelte etwas von »Hölle« und trat schnell
+Zuruf.
 
-Ollenpri>d murmelte etwas von „Hölle“ und trat ſchnell
-zurüf.
+Inzwischen war Ozeana bereits die beiden ersten Terrassen
+emporgestiegen … Wir folgten ihr …
 
-Inzwiſchen war Ozeana bereits die beiden erſten Terraſſen
-emporgeſtiegen ... Wir folgten ihr .
+Sie stand vor einem der pfeilgespickten Dornenvorhänge,
+drückte ihn jetzt mit Hilfe eines durch die Ranken geschobenen
+dicken Astes von der Felswand ab und legte so eine schmale
+Spalte frei — den Eingang zu des Jünglings Höhlenbehausung
+…
 
-Sie ſtand vor einem der pfeilgeſpikten Dornenvorhänge,
-drücdte ihn jetzt mit Hilfe eines durc< die Ranken geſ<hobenen
-dien Aſtes von der Felswand ab und legte ſo eine ſchmale
-Spalte frei = den Eingang zu des Jünglings Höhlen=
-behauſung ...
-
-Und was OllenpriX und ich jetzt hier in dieſer geräu=
-migen, hellen Grotte, die ihr Licht durch zahlloſe kleine
-Riſſe der Felſende>Xe empfing, zu ſehen bekamen, war nicht
-minder überraſchend als die Baumhütte mit ihrer behaglichen
+Und was Eleganz und ich jetzt hier in dieser geräumigen,
+hellen Grotte, die ihr Licht durch zahllose kleine
+Risse der FelsendeckXe empfing, zu sehen bekamen, war nicht
+minder überraschend als die Baumhütte mit ihrer behaglichen
 Kabineneinrichtung.
-aus der Jacht Sybille zu einem harmoniſchen Ganzen vereint
+aus der Jacht Sybille zu einem harmonischen Ganzen vereint
 
-Au hier hatten fleißige und geſhi>te Hände die Möbel
-... Hier gab's ſogar einen kleinen Schreibtiſch, einen Bücy2r=
-ſ<hranf, und auf einem langen Tiſch allerhand nautiiche
-Inſtrumente ...
+Au hier hatten fleißige und Geschichte Hände die Möbel
+… Hier gab’s sogar einen kleinen Schreibtisch, einen Bücy2r-schranf,
+und auf einem langen Tisch allerhand nautische
+Instrumente …
 
-Im Hintergrund aber war ein großer, grüner Borhang
-an einer Bambusſtange angebra<ht. Der Vorhang hatte
-Meſſingringe, und als der Iüngling ihn nun zur Seite 309,
-flirrten dieſe Ringe leiſe und fein, und übertönten die noh
-leiſeren Ausrufe des Staunens, die ſich OllenpriX und mir
-über die Lippen drängten ...
+Im Hintergrund aber war ein großer, grüner Vorhang
+an einer Bambusstange angebracht. Der Vorhang hatte
+Messingringe, und als der Jüngling ihn nun zur Seite zog,
+flirrten diese Ringe leise und sein, und übertönten die noch
+leiseren Ausrufe des Staunens, die sich Eleganz und mir
+über die Lippen drängten …
 
-Mit Recht ...!
+Mit Recht …!
 
-Denn hier in dieſem Grottenwinkel ſtand ein mit ſ<warzem
-Stoff bede>Xtes Bett, auf dem ... die Mumie einer Frau
-ruhte ...
+Denn hier in diesem Grottenwinkel stand ein mit schwarzem
+Stoff Gehetztes Bett, auf dem … die Mumie einer Frau
+ruhte …
 
-Eine tadellos erhaltene Mumie ...
+Eine tadellos erhaltene Mumie …
+
 <@pagebreak/>
-DDSSDSSSSSDSSS 531 DSSSSODODBDSDSBDDID
-
 Einer Frau, die ein weißes Kleid trug, deren blondes
-Haar ſauber friſiert war ...
+Haar sauber frisiert war …
 
-„Unſere Mutter!“ ſagte Ozeana laut. „Unſere arme
-Mutiter, die ſich ſelbſt den Tod gab ...“
+»Unsere Mutter!« sagte Ozeana laut. »Unsere arme
+Mutter, die sich selbst den Tod gab …«
 
-Eins fiel mir an der Mumie ſofort auf: die Hände
-waren mit ſchwarzen Stoffſtreifen umwidelt ..!!
+Eins fiel mir an der Mumie sofort auf: die Hände
+waren mit schwarzen Stoffstreifen umwickelt …!!
 
 Und dann des Jünglings Stimme:
 
-„Unſere Mutter, die in den Tod getrieben wurde --
-genau wie mein Bater! Ein Teufel in Menſchengeſtalt hat
-ſie in den Tod geſchi>t, und die Neger waren ſeine Werks=
-zeuge!“
+»Unsere Mutter, die in den Tod getrieben wurde —
+genau wie mein Vater! Ein Teufel in Menschengestalt hat
+sie in den Tod geschickt, und die Neger waren seine Werks-zeuge!«
 
-Unklarer nod) als bi8her waren mir jetzt die Geſchehniſſe
-hier auf Wilm Ollenpri>s Inſel ...
+Unklarer noch als bisher waren mir jetzt die Geschehnisse
+hier auf Wilm Ollenpricks Insel …
 
-Tauſend Fragen hätte ich ſtellen mögen ...
+Tausend Fragen hätte ich stellen mögen …
 
-Wollte aber niht aufdringlich) erſcheinen ...
+Wollte aber nicht aufdringlich) erscheinen …
 
-Wollte warten, bis der Jüngling von ſelber ſpräche.
+Wollte warten, bis der Jüngling von selber spräche.
 
-Der 3o0g jezt den Vorhang wieder zu ...
+Der 3o0g jetzt den Vorhang wieder zu …
 
-Meinte mit dem faſt würdevollen Ernſt eine8 weit über
-ſeine Jahre hinaus Gereiften:
+Meinte mit dem fast würdevollen Ernst eines weit über
+seine Jahre hinaus Gerefften:
 
-„Landsleute, ſpäter werdet ihr alles erfahren -- ſpäter,
-vielleicht ſhon in der kommenden Nacht ... Cins nur müßt
-ihr nie vergeſſen, wenn ihr unſer Tun richtig beurteilen
-wollt: Wir ſind die Kinder unglüklicher Eltern, denen ein
+»Landsleute, später werdet ihr alles erfahren — später,
+vielleicht schon in der kommenden Nacht … Eine nur müßt
+ihr nie vergessen, wenn ihr unser Tun richtig beurteilen
+wollt: Wir sind die Kinder unglücklichen Eltern, denen ein
 Schurke jede Lebensfreude nahm und denen das Leben eine
-Laſt wurde = =- um unſeretwegen!!“
+Last wurde — — um unseretwegen!!«
 
-Dann bat er uns, auf den Shiffsſeſſeln Platz zu nehmen,
-die um den kleinen Tiſc< herumſtanden, brachte Zigarren
-und Zigaretten herbei, = alles no<F; aus den Borräten der
-Jacht Sybille ...
+Dann bat er uns, auf den Shiffssesseln Platz zu nehmen,
+die um den kleinen Tisch herumstanden, brachte Zigarren
+und Zigaretten herbei, — alles nachts; aus den Verraten der
+Jacht Sybille …
 
-Wir beſprahßen nun ganz eingehend, was abends ges
-ſchehen ſollte ...
+Wir begrenzten nun ganz eingehend, was abends geschehen
+sollte …
 
-Was wir beſchloſſen, erſieht der Leſer aus den ſpäteren
+Was wir beschlossen, ersieht der Leser aus den späteren
 Vorgängen,
 
-Nachher holten Ollenpri> und ich den fehlenden Nacht»
-ſc<laf droben in der Baumbhütte gründlich nach, wo wir ganz
-ungeſtört waren.
+Nachher holten Ollenprick und ich den fehlenden Nachtschlaf
+droben in der Baumhütte gründlich nach, wo wir ganz
+ungestört waren.
+
 <@pagebreak/>
-DSSSOSSSSOSDISSS 72 0688088020050 200E02
+Der Käpten war derjenige von uns, der zuerst einschlief.
+Bevor er sich niederlegte, hatte er nur noch zu mir gesagt:
 
-Der Käpten war derjenige von uns, der zuerſt einſchlief.
-Bevor er ſiH niederlegte, hatte er nur noch zu mir geſagt:
+»Schraut, Schraut — das soll nun meine Insel sein?!
+Das ist eine Insel des Gelernt — mehr als das! Für
+meine robusten Nerven ist das zu … zu starker Tobak! Ich
+werde kein Auge zutun können!«
 
-„Sh<hraut, Shraut -- das ſoll nun meine Inſel ſein?!
-Das iſt eine Inſel des Screens -- mehr als das! Für
-meine robuſten Nerven iſt das zu ... zu ſtarker Tobak! Ih
-werde kein Auge zutun können!“
+Drei Minuten später schnarchte er in geradezu beneidenswerten
+Weise.
 
-Drei Minuten ſpäter ſ<narchte er in geradezu beneiden3=
-werter Weiſe.
+Ich lag noch lange was …
 
-Id) lag noh lange wah ...
+Wie ein spukhafter Traum waren die letzten Erlebnisse
+gewesen … —
 
-Wie ein ſpukhafter Traum waren die letzten Erlebniſſe
-geweſen ... -
+Und auch im Schlafe verfolgten mich noch die Gedanken
 
-Und auch im Schlafe verfolgten mich noh die Gedanken
+an die mir noch rätselhaften Stilvolle der unglülichen
+Familie des Millionärs Johannes Mancherlei …
 
-an die mir noh rätſelhaften ShiFſale der unglülichen
-Familie des Willionärs Iohannes Margenbes ...
+<h2>4. Kapitel.</h2>
 
-4. Kapitel.
+<h3>Abends elf Uhr an demselben Tage …</h3>
 
-Abends elf Uhr an demſelben Tage ...
+Die: Menschen auf der flachen Kuppe des Berges am
+Nordende des Eilands …
 
-Bie: Menſc<hen auf der fläßen Kuppe de8 Berges am
-Nordende des Eilands ...
+Bier Menschen, die in dieser brütenden Schwüle, die
+Abenden Meerbusen und Insel lastet, Etagere Reste zu
+einem mächtigen Haufen aufschichten …
 
-Bier Menſc<en, die in dieſer drüFenden Schwüle, die
-über .dem Meerbuſen und Inſel laſtet, troXene Aeſte zu
-einem mächtigen Haufen aufſchichten ...
+Der ganze westliche Horizont ist mit pechschwarzem Gewölk
+bedeckt …
 
-Der ganze weſtliche Horizont iſt mit pehſ<hwarzem Ge=
-wölk bededt ...
+Über diese Wolkenwand, die sich langsam höher schiebt,
+läuft hin und wieder ein fahler Schein, als ob ein Gigant
+»eine Riesenlaterne zuweilen aufleuchten läßt … —
 
-Ueber dieſe Wolkenwand, die ſiH langſam höher ſchiebt,
-1äuft hin und wieder ein fahler Schein, als ob ein Gigant
-„eine Nieſenlaterne zuweilen aufleuchten läßt ... =
+Wir zünden den Holzstoß an …
 
-Wir zünden den Holzſtoß an ...
+Die Flammen knistern, fauchen, legen kerzengerade empor.
 
-Die Flammen kniſtern, fauchen, leXen kerzengerade empor.
+Kein Lufthauch ist zu spüren …
 
-Kein Lufthau<h iſt zu ſpüren ...
+Über der See liegt die Schwärze der Gewitternacht …
+»Nur die weißen Wogenkämme leuchten wie Striche … wie
+wandernde Striche … —
 
-Ueber der See liegt die Schwärze der Gewitternacht ...
-“Rur die weißen Wogenkämme leu<hten wie Striche ... wie
-wandernde Striche ... =
-
-Kaum brennt der Holzſtoß mit hellen Flammen, als wir
+Kaum brennt der Holzstoß mit hellen Flammen, als wir
 <@pagebreak/>
-2DSSSSSDDSSSS 33 00S020SDIODSBDSDS
-
-auh ſchon die Bergkuppe verlaſſen und von einem tiefer ge=
-legenen Borſprung uns mit Hilfe der Fernrohre, die der
+auch schon die Bergkuppe verlassen und von einem tiefer gelegenen
+Vorsprung uns mit Hilfe der Fernrohre, die der
 Jüngling Neptun hierher mitgenommen, das Meer nach den
-beiden Fahrzeugen abſuchen ..
+beiden Fahrzeugen absuchen …
 
-Und mit welcher angſjtvollen Sorgfalt ſpähe gerade ich
-na<4 den Schiffen aus!!
+Und mit welcher angstvollen Sorgfalt spähe gerade ich
+nach4 den Schiffen aus!!
 
 Den ganzen Tag über hat mich ja die Ungewißheit, was
-inzwiſchen aus Harald geworden ſein mochte, gequält ..!
+inzwischen aus Harald geworden sein mochte, gequält …!
 
-Unſere Bereinbarung, daß er uns mit dem Turban
-gleihſam das Signal zum LoSsſchlagen geben wollte, war ja
-hinfällig geworden ... Die beiden Fahrzeuge hatten die Inſel
-verlaſſen gehabt ...
+Unsere Vereinbarung, daß er uns mit dem Turban
+gleichsam das Signal zum Losschlagen geben wollte, war ja
+hinfällig geworden … Die beiden Fahrzeuge hatten die Insel
+verlassen gehabt …
 
 Meine Sorge um den Freund war daher gewiß nicht
-grundlos ... Was alles konnte inzwiſchen geſchehen ſein „.!!
-Man konnte ſeine Maske durchſchaut haben, man konnte ihn
-längſt beſeitigt haben! War es Peter Margenbe>X und ſeinem
-Anhang nicht reht gut zuzutrauen, daß ſie den Kutter
-O'Kellings mit Mann und Maus auf offener See verſenkt
-hatten, daß ſie auc Harſt mit in die Tiefe geſ<hi>t hatten,
-ebenſo den Holländer, den Kapitän Diemenbrook?!
+grundlos … Was alles konnte inzwischen geschehen sein«.!!
+Man konnte seine Maske durchschaut haben, man konnte ihn
+längst beseitigt haben! War es Peter MargenbeckX und seinem
+Anhang nicht recht gut zuzutrauen, daß sie den Kutter
+O’Kellings mit Mann und Maus auf offener See versenkt
+hatten, daß sie auch Harst mit in die Tiefe geschickt hatten,
+ebenso den Holländer, den Kapitän Diemenbrook?!
 
-Das waren die Gedanken, die mich nach dem erqui>enden
-SdHhlummer in der Baumhütte unabläſſig gefoltert hatien!!
+Das waren die Gedanken, die mich nach dem erquickenden
+Schlummer in der Baumhütte unablässig gefoltert hatten!!
 
-Ih hatte ſie für mich behalten, -- denn mir ſtand Harald
-ja am nächſten! Wie ſollten Ollenpri& und die Geſchwiſter
-begreifen, daß man ſich derart eines anderen Mannes wegen
-mit allerlei traurigen, bedrohlihen Mutmaßungen abquälen
-könnte! Was wußte ſelbſt Ollenpri> ſchließlich davon, wie
-eng und heilig die FreundſHaſt zwiſchen Harald und mir war!
+Ich hatte sie für mich behalten, — denn mir stand Harald
+ja am nächsten! Wie sollten Ollenprick und die Geschwister
+begreifen, daß man sich derart eines anderen Mannes wegen
+mit allerlei traurigen, bedrohlichen Mutmaßungen abquälen
+könnte! Was wußte selbst Ollenprick schließlich davon, wie
+eng und heilig die Freundschaft zwischen Harald und mir war!
 
-Und = -- unabläſſig ſpähte ich nun über das finſtere
-Meer hin ...
+Und — — unablässig spähte ich nun über das finstere
+Meer hin …
 
-Bi3 neben mir der Jüngling plötzlich rief:
+Sie neben mir der Jüngling plötzlich rief:
 
-„Dort -- dort an den Klippen ſind ſie ..!? Vor der
-Weſtbucht ... Der Kutter voran ...“ |
+»Dort — dort an den Klippen sind sie …!? Vor der
+Westbucht … Der Kutter voran …«
 
-Ah -- das war wie eine Erlöſung!! Der Kutter, die
-„Lady Hamilton“, exiſtiert noF ..!!? Da8 bedeutete hoffen
-dvürfen!! Und =- ich atmete tief auf ... IH fühlte neue
+Ah — das war wie eine Erlösung!! Der Kutter, die
+»Lady Hamilton«, existiert vor …!!? Das bedeutete hoffen
+drücken!! Und — ich atmete tief auf … Ich fühlte neue
 <@pagebreak/>
-DSDSEDSEGSDBDBDS 51 SLSDSSSSSSDOO
+Energie in meinen Adern … Ich war der erste, der nun
+zu schleunigem Aufbruch nach der Ostbucht mahnte …
 
-Energie in meinen Adern ... I<h war der erſte, der nun
-zu ſchleunigem Aufbruch nach der Oſtbucht mahnte ...
+Du Finsternis und grollenden Donner, durchs Gestrüpp
+und Dickicht eilten wir vier der Bucht zu — beim Seine
+Kalender Blitze, beim Tosen und Brüllen der Batterien des
+Himmels …
 
-Dur Finſternis und grollenden Donner, durchg Geſtrüpp
-und Di>dicht eilten wir vier der Bu<ht zu = beim Seine
-zuFender Blitze, beim Toſen und Brüllen der Batterien des
-Himmels ... R
+Erreichten das Wrack der Sybille …
 
-Erreichten das Wra> der Sybille ...
+Kauerten hinter der halb zerstörten Reling …
 
-Kauerten hinter der halb zerſtörten Reling ...
+Sahen beim Lichte der feurigen Schlangen des immer
+näherkommenden Gewitters den Kutter und die Ostindia am
+Steilufer anlegen …
 
-Sahen beim Lichte der feurigen Schlangen de8 immer
-näherkommenden Gewitters den Kutter und die Oſtindia am
-Steilufer anlegen ...
+Sahen behende Gestalten die beiden Schiffe vertäuen
+… Sahen beim Laternenlicht mitten unter der wilden Bande
+der Jachtbesatzung die hagere schwarzbärtige Gestalt des ans
 
-Sahen behende Geſtalten die beiden Sciffe vertäuen
-... Sahen beim Laternenlicht mitten unter der wilden Bande
-der Jachtbeſatzung die hagere ſ<warzbärtige Geſtalt des an=
+schlichen SciffsfoH8 … Auch die drei Hamburger, das
+Weib und die beiden Männer … Kein Quartett mehr …
+Der vierte lag unten im Abgrund — der vierte, Hektor
 
-geblihen SciffsfoH8 ... Auch die drei Hamburger, das
-Weib und die beiden Männer ... Kein Quartett mehr ...
-Der vierte lag unten im Abgrund -- der vierte, Hektor
+Borell, Peters Schwager …
 
-Borell, Peter8 Schwager ...
+Sahen die drei an der Hereling …
 
-Sahen die drei an der Hereling ...
+Merkten, daß die drei nach den Leuten ausspähten, die
+uns hatten abfangen sollen und … die nicht mehr letzten!
 
-Merkten, daß die drei nach den Leuten ausſpähten, die
-uns hatten abfangen ſollen und ... die niht mehr lebten!
+Niemand erschien am Ufer …
 
-Niemand erſchien am Ufer ...
+Niemand überbrachte den dreien irgendeine Meldung …
 
-Niemand überbrachte den dreien irgendeine Meldung ...
+Sie sprachen erregt miteinander … Neben ihnen brannte
+eine Schiffslaterne … Ich konnte ihre Gesichter erkennen …
+Ich hörte den Jüngling Neptun neben mir keuchend flüstern:
 
-Sie ſprachen erregt miteinander ... Neben ihnen brannte
-eine Sciffslaterne ... Ic< konnte ihre Geſichter erkennen ...
-Ich hörte den Jüngling Neptun neben mir keuchend flüſtern:
+»oh — — wenn sie Biß doch an Land wagen wollten!!
+Wenn sie es nur täten …!!«
 
-„oh - - wenn ſie ſiß do<H an Land wagen wollten!!
-Wenn ſie es nur täten ..!!“
+Und ich spürte den Rachedurst in dieser zitternden Stimme.
 
-Und ich ſpürte den Nachedurſt in dieſer zitternden Stimme.
-
-Die drei aber blieben, ſhauten immer wieder nach denen
-aus, die niht mehr auftauchen konnten ...
+Die drei aber blieben, schauten immer wieder nach denen
+aus, die nicht mehr auftauchen konnten …
 
 Warteten
 
-Und meine Blike hingen abwechſelnd an Harald und den
-drei Geſtalten am Hes ...
+Und meine Blicke hingen abwechselnd an Harald und den
+drei Gestalten am See …
 
-Jetzt ſchritt Harſt langſam zum Vorſchiff ... Kletterte lang=
-iam auf den Kutter hinüber ...
+Jetzt schritt Harst langsam zum Vorschiff … Kletterte langsam
+auf den Kutter hinüber …
+
 <@pagebreak/>
-2DD2DSDEDSDSSESS 55 DSSSSSODBDSBOBDED
+Die Matrosen der Jacht, die den Kutter bisher bedient
+hatten, befanden sich jetzt sämtlich auf der Ostindia.
 
-' Die Matroſen der Jacht, die den Kutter bisher bedient
-hatten, befanden ſich jetzt ſämtli auf der Oſtindia.
+Und — Harald tauchte nun in der Vorschiffluke der »Lady«
+unter …
 
-Und -- Harald tauchte nun in der Vorſchiffluke der „Lady“
-unter ...
+Was er dort wollte, — 	— ich ahnte es …
 
-Was er dort wollte, = = ich ahnte es ..
+Wandte mich flüsternd an Ollenprick:
 
-Wandte mich flüſternd an Ollenprick:
+»Achtung! Harst wird die Gefangenen befreien! Harst hat
+gemerkt, daß wir Herren der Insel sind, und daß Hektor
+Borell und die vier Farbigen nicht mehr mitspielen! — Achtung
+also!! Wir werden ja sehen, ob er das Signal gibt!« —
 
-„Achtung! Harſt wird die Gefangenen befreien! Harſt hat
-gemerkt, daß wir Herren der Inſel ſind, und daß Hektor
-Borell und die vier Farbigen nicht mehr mitſpielen! =- Ach=
-tung alſo!! Wir werden ja ſehen, ob er das Signal gibt!“ --
+Das Gewitter zog seitlich an der Insel vorüber … Nur
+ein kurzer Vegenschauer kam hernieder …
 
-Das Gewitter 30g ſeitlich an der Inſel vorüber ... Nur
-ein kurzer Vegenſchauer kam hernieder ...
+Und dann — erschien Harald wieder auf dem Vorschiff …
+Ganz harmlos … Schlenderte über das Deck, hatte im Arm
+ein paar Pakete … So, als ob er aus der Vorratskammern
+der »Lady« Lebensmittel geholt hätte … — ganz harmlos …
 
-Und dann -- erſchien Harald wieder auf dem Vorſchiff . .
-Ganz harmlos ... Schlenderte über das Ded, hatte im Arm
-ein paar Pakete ... So, als ob er qus der Vorratskammoer
-der „Lady“ Lebensmittel geholt hätte ... =- ganz harmlos ...
-
-Und kletterte zur Oſtindia hinüber, legte die Pakete auf
-den Dedel der einen Luke und ... nahm ſeinen Turban ab!
+Und kletterte zur Ostindia hinüber, legte die Pakete auf
+den Deckel der einen Luke und … nahm seinen Turban ab!
 
 Das Signal!!
 
 Neben mir des Jünglings frohloFende Stimme:
 
-„Fampf =- =- Kampf „.!!“
+»Kampf — — Kampf«.!!«
 
 Und links von mir Ozeana nicht minder freudig:
 
-„Wir werden ſie überfallen ..!! Sie werden ſich gar
-niht wehren können!!“
+»Wir werden sie überfallen …!! Sie werden sich gar
+nicht wehren können!!«
 
-Ia = wir vier hatten Waffen übergenug! Wir hatten
-jeder zwei Nepetierpiſtolen, = das waren allein ſchon rund
-fünfzig Schuß ...
+Ja — wir vier hatten Waffen übergenug! Wir hatten
+jeder zwei Repetierpistolen, — das waren allein schon rund
+fünfzig Schuß …
 
-Und dann noh die Wurfkeulen der Geſchwiſter =- keine
+Und dann noch die Wurfkeulen der Geschwister — keine
 zu verachtenden Nahkampfwaffen!!
 
-Das waren nur wir vier ...
+Das waren nur wir vier …
 
-Und außer uns noH drei Europäer: Harſt, O'Kelling
-und Diemenbrook, ferner O'Kellings vier Malaien ..
+Und außer uns noch drei Europäer: Harst, O’Kelling
+und Diemenbrook, ferner O’Kellings vier Malaien …
 
-Alſo elf gegen nunmehr acht Gegner!!
+Also elf gegen nunmehr acht Gegner!!
 
-Die Partie ſtand ſchlecht für Herrn Peter Margenbe>X =-
--- verdammt ſchlecht!!
+Die Partie stand schlecht für Herrn Peter MargenbeckX —
+— verdammt schlecht!!
+
 <@pagebreak/>
-DSSSSSSSSSDSS 56 000 DDSODoDSBD2DS020&S
+… Nahm seinen Turban ab, der machte Schiffskoch der
+Ostindia …
 
-... Nahm ſeinen Turban ab, der unehte Shiffsko<h der
-Oſtindia ..
+Setzte ihn wieder auf …
 
-Setzte ihn wieder auf .
+Und kaum war’s geschehen, als ich auch schon von der
+»Lady Hamilton« her blitzschnell mehrere Gestalten auf die
+Jacht hinüberspringen sah …
 
-Und kaum war's geſchehen, al8 ich auh ſchon von der
-„Lady Hamilton“ her blitzſchnell mehrere Geſtalten auf die
-Jacht hinüberſpringen ſah ...
+Da war’s Zeit für uns vier …
 
-Da war's Zeit für uns vier ...
+Höchste Zeit …
 
-Höchſte Zeit ...
+Da verließen wir das Wrack …
 
-Da verließen wir das Wrack ...
+Huschten auf der Felsterrasse entlang …
 
-Huſchten auf der Felsterraſſe entlang ...
+Hörten schon Haralds drohenden Ruf:
 
-Hörten ſchon Haralds drohenden Ruf:
+»Keinen Widerstand!!? Sie sind umzingelt …!!«
 
-„Keinen Widerſtand!!? Sie ſind umzingelt ..!!“
-
-Und -- um dieſem Befehl Nachdruä zu verleihen, ließ
-au<h id) nun mein gewiß nicht zartes Stimmen erſchallen ...
+Und — um diesem Befehl Nachtrug zu verleihen, ließ
+auch ich nun mein gewiß nicht zartes Stimmen erschallen …
 
 Brüllte mit voller Lungenkraft:
 
-„Hände ho<!! Hier ſind Iohannes8 Margenbe>s Kinder!!!“
+»Hände hoch!! Hier sind Johannes Margenbecks Kinder!!«
 
-ES war, als ob der Mond, der bisher hinter dem dichten
-Gewittergewölk verſte>t geweſen, dieſe nächtliche wilde Szene
-in beſonderes Licht tauchen wollte ...
+Es war, als ob der Mond, der bisher hinter dem dichten
+Gewittergewölk versteckt gewesen, diese nächtliche wilde Szene
+in besonderes Licht tauchen wollte …
 
-Der Mond kam hinter den Wolken hervor ..
+Der Mond kam hinter den Wolken hervor …
 
-Beleuchtete die drei Europäer, die fünf Farbigen, -=-
-ac<t Menſchen, die ſich mit einem Sclage einer gefährlichen
-Uebermacht gegenüberſahen ...
+Beleuchtete die drei Europäer, die fünf Farbigen, —
+acht Menschen, die sich mit einem Schlage einer gefährlichen
+Übermacht gegenübersahen …
 
-Und dicht vor dieſem kleinen ſchreFgelähmten Häuflein
-ſtand Harſt, der den falſchen Bart und den Turban wegac=
-worfen hatte ...
+Und dicht vor diesem kleinen schreFgelähmten Häuflein
+stand Harst, der den falschen Bart und den Turban weggeworfen
+hatte …
 
-Der ſein ſo überaus <arakteriſtiſ<e8 Geſiht nun den
-Gegnern zeigte -- in der Rechten die Clement, in der Linken
-aber einen langen eiſernen Schraubenſchlüſſel ...
+Der sein so überaus charakteristisches Gesicht nun den
+Gegnern zeigte — in der Rechten die Clement, in der Linken
+aber einen langen eisernen Schraubenschlüssel …
 
 Und abermals rief er:
 
-„Bei dem geringſten Anzeihen von Widerſtand ſchießen
-wir!! = Die Matroſen ſollen zuerſt einzeln vortreten!“
+»Bei dem geringsten Anzeichen von Widerstand schießen
+wir!! — Die Matrosen sollen zuerst einzeln vortreten!«
 
-Und dieſe fünf Halunken, die ihren Kapitän ſo ſchamlos
-verraten hatten, bewieſen nun ihre ganze kläglihe Erbärms
-lichkeit ...
+Und diese fünf Halunken, die ihren Kapitän so schamlos
+verraten hatten, bewiesen nun ihre ganze klägliche Erbarmt
+Möglichkeit …
+
 <@pagebreak/>
-DSO2D2O2020202202 57 DSS0000220200202
+Kamen scheu zusammengeballt und ließen sich fesseln …
 
-Kamen ſc<eu zuſammengeduFt und ließen ſich feſſeln ....
+Nur die drei Weißen waren jetzt noch übrig …
 
-Nur die drei Weißen waren jezt noch übrig ...
+Peter Mancherlei, sein Weib und deren Bruder Achilles.
+Borell …
 
-Peter Margenbes, ſein Weib und deren Bruder Achilles.
-Borell ...
+Nur die drei …
 
-Nur die drei ...
+Und diese drei hatten nur Augen für das schlanke Maat«-
+oben und den kräftigen Jüngling, für die beiden Wildlinge…
+für die lebenden Zeugen einstiger Frevel …
 
-Und dieſe drei hatten nur Augen für das ſ<lanke Mäd»=
-dHen und den kräftigen Jüngling, für die beiden Wildlinge,.
-für die lebenden Zeugen einſtiger Frevel ...
+Die Zwillinge waren neben Harald getreten …
 
-Die Zwillinge waren neben Harald getreten ...
+Standen da wie zwei Bildsäulen …
 
-Standen da wie zwei Bildſäulen ...
+Ließen kein Auge von Peter Margenbeck … —
 
-Ließen kein Auge von Peter Margenbe> ... =-
+Harst winkte O’Kellings Malaien …
 
-Harſt winkte O'Kellings Malaien ..
+»Nehmt den dreien die Waffen ab!«
 
-„Nehmt den dreien die Waffen ab!“
+Und — auch das duldeten sie — auch daß …
 
-Und -- aud) das duldeten ſie = auch da8 ...
+Selten habe im drei Menschen gesehen, die so vollkommen
+sich in ihr Schlaf ergaben wie diese hier …
 
-Selten habe im drei Menſchen geſehen, die ſo vollkommen
-ſiH in ihr Schiſal ergaben wie dieſe hier ...
+Es schien, als ob das Grauen vor der Vergangenheit möchte
+Angst vor den beiden regungslosen Rächern ihnen Hirn
+und Glieder gelähmt hatte …
 
-ES ſchien, als ob das Grauen vor der Bergangenheit und-
-die Angſt vor den beiden regungsloſen Rächern ihnen Hirn
-und Glieder gelähmt hatte .
+Die Malaien waren mit der mühelosen Arbeit fertig …
 
-Die Malaien waren mit der müheloſen Arbeit fertig ...
+Hatten bei jedem der drei eine Mauserpistole und bei
+den Männern noch je ein Dolchmesser gefunden …
 
-Hatten bei jedem der drei eine Mauſerpiſtole und bei
-den Männern no< je ein Dolhmeſſer gefunden ...
+Jetzt war’s der Jüngling, der aus seiner starren Ruhe-erwachte
+und zu Harald sagte:
 
-Jetzt war's der Jüngling, der aus ſeiner ſtarren Ruhe-
-erwachte und zu Harald ſagte:
+»Herr Harst, meine Schwester und im werden Gericht
+halten … Sofort … In meiner Grotte …! — Herr Harst,
+du wirst die drei dorthin schaffen lassen … Nichts soll ihnen.
+erspart werden, selbst die Fesseln nicht …!«
 
-„Herr Harſt, meine Schweſter und im werden Gericht
-balten ... Sofort ... In meiner Grotte ..! -- Herr Harſt,
-vu wirſt die drei dorthin ſchaffen laſſen ... Nichts ſoll ihnen.
-erſpart werden, ſelbſt die Feſſeln nicht ..!“
+Und er wand den Strick, den er um die Lenden trug…
+mit schnellen Griffen los und näherte sich dem blondbärtigen,
+schauten Peter Margenbeck …
 
-Und er wand den Stri>, den er um die Lenden trug,.
-mit ſchnellen Griffen los und näherte ſich dem blondbärtigen,
-ſchlanten Peter Margenbe> ...
-
-Da ſchien dieſer Mann, der bis8her ſchreXerſtarrte Statue
-geweſen, ſih doch darauf zu beſinnen, daß er durch ſein
-ganzes bisherigen Berhalten ſeine Schuld wortlo8 zugegeben.
+Da schien dieser Mann, der bisher schreXerstarrte Statue
+gewesen, sich doch darauf zu besinnen, daß er durch sein
+ganzes bisherigen Verhaften seine Schuld wortlos zugegeben.
 
 Da rief er Harald zu:
 
-„Herr Harſt, ich proteſtiere gegen dieſe Behandlung ..!
+»Herr Harst, ich protestiere gegen diese Behandlung …!
 <@pagebreak/>
-DSSODSSDEBDSSSDS 53 SSSSDSOGSSSDDOO
+Wenn überhaupt hier ein Gericht zu entscheiden hat, so …«
 
-Wenn überhaupt hier ein Gericht zu entſcheiden hat, ſo ...“
+Harald unterbrach ihn kalt …
 
-Harald unterbrach ihn kalt .
+»Dieser hochfahrende Ton dürfte hier wohl kaum am
+Platze sein … — Wir wollen hören, was Ihres Bruders
+Kinder Ihnen vorzuwerfen haben.«
 
-„Dieſer hoc<fahrende Ton dürfie hier wohl kaum am
-Platze ſein ... = Wir wollen hören, was Ihres Bruders
-Kinder Ihnen vorzuwerfen haben.“
+Und dabei blieb es …
 
-Und dabei blieb es ...
+Gutwillig folgten die drei …
 
-Gutwillig folgten die drei ...
+Es war ein stiller Gang bis zur Grotte im Urwald …
 
-E8 war ein ſiiller Gang bis zur Grotte im Urwald ...
+Laternenlicht tanzte über Sträucher und Büsche hin …
 
-Laternenlicht tanzte über Sträucher und Büſche hin ...
+Nur wir Europäer nahmen an dem teil, was nun folgte.
 
-Nur wir Europäer nahmen an dem teil, was nun folzte.
+Die Malaien O’Kellings bewachten die fünf farbigen
+Matrosen.
 
-Die Malaien O'Kellings8 bewachten die fünf farbigen
-Matroſen.
+Ein stiller Gang …
 
-Ein ſtiller Gang ...
+Kein Wort wurde gesprochen …
 
-Kein Wort wurde geſprochen ...
+Der Jüngling Neptun schritt voraus …
 
-Der Jüngling Neptun ſchritt voraus ...
+Hinter ihm Wilm Ollenprick, dann die drei Gefangenen,
+die nicht gefesselt worden waren, und dann Harst, Ozeana, ich,
+O’Kelling und Diemenbrook …
 
-Hinter ihm Wilm Ollenpri>, dann die drei Gefangenen,
-die nicht gefeſſelt worden waren, und dann Harſt, Ozeana, ich,
-O'Kelling und Diemenbrook .
+Ein stiller, unheimlicher Zug …
 
-Ein ſtiller, unheimlicher Zug ...
+Begleitet von dem ärgerlichen Schnattern und Kreischen
+der aus ihrer Ruhe aufgestörten Affen …
 
-Begleitet von dem ärgerlichen Shnattern und Kreiſchen
-der aus ihrer Ruhe aufgeſtörten Affen ...
+Und Affen gab’s hier im Walde in Unmenge … All
+die Tiere, die die Jacht Sybille einst an Bord gehabt, hatten
+sie hier auf der Insel fast unheimlich vermehrt … —
 
-Und Affen gab's hier im Walde in Unmenge ... All
-die Tiere, die die Jacht Sybille einſt an Bord gehabt, hatten
-ſic hier auf der Inſel faſt unheimli<ß vermehrt ... --
-
-Nun ging's die Terraſſen des Felſenhügels hinan ...
+Nun ging’s die Terrassen des Felsenhügels hinan …
 
 Nun hinein in die Grotte, in der das Mädchen Ozeana,
-die zuletzt voraus8geeilt war, bereit8 zwei Karbidlampen ans=
-gezündet hatte ...
+die zuletzt vorausgeeilt war, bereits zwei Karbidlampen ans-gezündet
+hatte …
 
-IH ſah, wie Harald ſich hier erſtaunt umſc<haute ...
+Ich sah, wie Harald sich hier erstaunt umschaute …
 
-IH hatte bisher kaum Zeit gehabt, ihm die Hand zu
-drücken ..
+Ich hatte bisher kaum Zeit gehabt, ihm die Hand zu
+drücken …
 
-Jetzt drängte ich mich neben ihn, flüſterte:
+Jetzt drängte ich mich neben ihn, flüsterte:
 
-„Wir werden einen ſchweren Stand mit den Geſchwiſtern
-haben ... Sie wollen Richter und Henker in einer Perſon
-Jpielen ...“
+»Wir werden einen schweren Stand mit den Geschwistern
+haben … Sie wollen Richter und Henker in einer Person
+Spielen …«
 
-„Warten wir ab, mein Alter ... ES8 ſind eben Wildlinoe,
+»Warten wir ab, mein Alter … Eis sind eben Wildlinge,
 <@pagebreak/>
-DSB SDSSSSSSS 53) SSOSDSSSDSDISDSSD
+die beiden … Erst müssen wir wissen, was hier einst vorgegangen
+ist …« —
 
-die beiden ... Erſt müſſen wir wiſſen, was hier einſt vor»
-gegangen iſt ...“ =
+Der Jüngling benahm sich jetzt ruhig und voller Würde.
 
-Der Züngling benahm ſich jezt ruhig und voller Würde.
+Drei Klappstühle stellte er vor den Tisch, um den wir
+anderen Platz nehmen sollten, — drei Klappstühle für die
+drei Angeklagten …
 
-Drei Klappſtühle ſtellte er vor den Tiſch, um den wir
-anderen Platz nehmen ſollten, =- drei Klappſtühle für die
-drei Angeklagten ...
+Und dann lehnte er sich neben seiner Schwester an den
+großen Tisch, auf dem die nautischen Instrumente lagen …
 
-Und dann lehnte er ſih neben ſeiner Schweſter an den
-großen Tiſc<, auf dem die nautiſchen Inſtrumente lagen ...
+Wir hatten uns gesetzt …
 
-Wir hatten uns geſeßt ...
+Schweigen …
 
-Schweigen ...
+Harst wandte sich dann dem Jüngling zu:
 
-Harſt wandte ſich dann dem Jüngling zu:
+»Was ist’s, das du deinem Onkel Peter MargenbeckX und
+den beiden andern vorzuwerfen hast?«
 
-„Was iſt's, das du deinem Onkel Peter Margenbe>X und
-den beiden andern vorzuwerfen haſt?“
+… So begann diese denkwürdige Gerichtssitzung …
 
-. So begann dieſe denkwürdige Gerichtsſizung ...
+<h2>5. Kapitel.</h2>
 
-5. Kapitel.
+Der Jüngling drehte sich um und nahm von dem großen
+Tische ein breites Buch auf …
 
-Der Jüngling drehte ſih um und nahm von dem großen
-Siſche ein breites Buh auf .
+Sagte: »Es ist das Tagebuch meiner Mütter, das sie
+während der Reise im Jahre 1908 geführt hat … Ich werde
+aus diesem Buche einige Stellen vorlesen …«
 
-Sagte: „Es iſt das Tagebuch meiner Mütter, das ſie
-während der Reiſe im Jahre 1908 geführt hat ... I< werde
-aus dieſem Buche einige Stellen vorleſen ...“
+Und er las …:
 
-Und er las ..:
+Melbourne, Australien, den 5. Dezember 1908. — Ich
+bin so überaus Trübes, daß ich meinen geliebten Gatten
+mit Zwillingen beschenkt habe. Ich werde diese ferne, fremde
+Stadt, in der ich Mutter wurde, stets lieb behalten. Johannes
+ist fast närrisch; vor Freude. Am liebsten würde er den ganzen
+Tag über an meinem Bette sitzen und unsere Kinder des
+wundern. Ich bin wirklich sehr, sehr gräflich.
 
-Melbourne, Auſtralien, den 5. Dezember 1908. -- I<
-bin ſo überaus glüli<h, daß iH meinen geliebten Gatten
-mit Zwillingen beſchenkt habe. I< werde dieſe ferne, fremde
-Stadt, in der ic) Mutter wurde, ſtets lieb behalten. Johannes
-iſt faſt närriſc; vor Freude. Am liebſten würde er den ganzen
-Tag über an meinem Bette ſizen und unſere Kinder bes
-wundern. Id) bin wirklich ſehr, ſehr glüFlich.
-
-Den. 10. Dezember. -- Heute bin ic zum erſten Male
+Den. 10. Dezember. — Heute bin ich zum ersten Male
 <@pagebreak/>
-DSSSSSSSSSSS 60 DSESSDOSOSSDSISD
+aufgestanden. Leider kehrte Johannes von einem Spaziergang
+durch; die Stadt recht verstimmt zurück. Er hat auf
+der Straße seinen Bruder Peter und dessen Frau getroffen,
+denen es recht schlecht geht. Johannes hat ihnen Geld gegeben.
+Er drückte mir gegenüber sein Erstaunen aus, wie
+das Ehepaar gerade jetzt nach Melbourne gelangt sein könne,
+und er meinte, daß sein Bruder vielleicht absichtlich hierher
+gekommen sei, um ihn wieder einmal tüchtig zu branvichatzen.
 
-aufgeſtanden. Leider kehrte Johannes von einem Spazier»
-gang durc<; die Stadt recht verſtimmt zurü. Er hat auf
-ver Straße ſeinen Bruder Peter und deſſen Frau getroffen,
-denen e8 re<ht ſ<leht geht. Johanne38 hat ihnen Geld ge=
-geben. Er drücte mir gegenüber ſein Erſtaunen aus, wie
-das Ehepaar gerade jezt nac<h Melbourne gelangt ſein könne,
-und er meinte, daß ſein Bruder vielleicht abſichtliH< hierher
-gekommen ſei, um ihn wieder einmal tüchtig zu branvichatzen.
+14\. Dezember. Nun ist es doch so gekommen, wie
+ich’s befürchtet hatte. Johannes hat sich durch Peters Bitten
+dazu bestimmen lassen, nicht nur das Ehepaar, sondern auch
+die beiden Brüder Borell, Peters Schwager, mit nach Kalkutta
+zu nehmen. — Ich werde das bange Gefühl nicht los,
+als ob uns von diesen vier Abenteurern irgendeine Gefahr
+droht.
 
-14. Dezember. Nun iſt es doch ſo gekommen, wie
-ich's befürchtet hatte. Johannes hat ſich durc<h Peters Bitten
-dazu beſtimmen laſſen, niht nur das Ehepaar, ſondern auch
-die beiden Brüder Borell, Peters Schwäger, mit nach Kal=
-iutta zu nehmen. = Ich werde das bange Gefühl nicht los,
-al8 ob uns von dieſen vier Abenteurern irgendeine Gefahr
-droht. |
+17\. Dezember. Ein Tag des Unheils!! An Bord
+der Jacht ist das Gelbfieber ausgebrochen. Hektor Borell,
+der ein paar Semester Medizin studiert hat, behandelt die
+Kranken …
 
-17. Dezember. Ein Tag de8 Unheils!! An Bord
-der Jacht iſt das Gelbfieber aus8gebro<en. Hektor Borell,
-der ein paar Semeſter Medizin ſtudiert hat, behandelt die
-Kranken ...
-
-19. Dezember. = Wir ſind bereit8 im Meerbuſen von
-Bengalen. Die Beſatzung unſerer Jacht iſt bis auf drei
+19\. Dezember. — Wir sind bereits im Meerbusen von
+Bengalen. Die Besatzung unserer Jacht ist bis auf drei
 Mann der furchtbaren Seuche erlegen: den Steuermann
-Henning und die beiden Auſtralneger Iupp und Strupp, die
-Peter zu Shauzweken mit nach Europa nehmen will.
+Henning und die beiden Australneger Trupp und Strupp, die
+Peter zu Schaukasten mit nach Europa nehmen will.
 
-20. Dezember.- = Nun iſt auch über Iohanne8 und mich
-das Unheil hereingebroH<en. Seit vier Tagen hatten wir
-beide an den Fingern einen ganz merkwürdigen Ausſchlag
-Heute nun hat Hektor Borell uns die entſetzliche Wahrheit
-geſagt: Der Ausſchlag iſt ni<ht8 andere8 als der Beginn
+20\. Dezember.- — Nun ist auch über Johannes und mich
+das Unheil hereingebrochen. Seit vier Tagen hatten wir
+beide an den Fingern einen ganz merkwürdigen Ausschlag
+Heute nun hat Hektor Borell uns die entsetzliche Wahrheit
+gesagt: Der Ausschlag ist nichts anderes als der Beginn
 
-der Lepra=Krankheit, des Ausſate8, -=- -=- unheilbar, an=
-ſteFend und langſam den Leib verfallen laſſend!
-21. Dezember. = Wir ankern in der Bucht einer bisher
+der Lepra	—Krankheit, des Aufsatzes, — — unheilbar, anblickend
+und langsam den Leib verfallen lassend!
+21\. Dezember. — Wir ankern in der Bucht einer bisher
 
-unbekannten Inſel mitten im Bengaliſ<en Meerbuſen. Io-
-hannes und iH haben beſchloſſen, mit den Kindern und den
-beiden Negern hier auf der Inſel zu bleiben, da man uns
-als Leprakranke doh in Deutſchland internieren würde. Peter,
+unbekannten Insel mitten im Bengalischen Meerbusen. Johannes
+und ich haben beschlossen, mit den Kindern und den
+beiden Negern hier auf der Insel zu bleiben, da man uns
+als Leprakranke doch in Deutschland internieren würde. Peter,
 <@pagebreak/>
-DSDSDSDODSODOSS 61 00 00SDSD2D020DESE0S
+seine Frau und die Brüder Borell werden mit dem Große
+Boot der Jacht die indische Küste zu erreichen suchen. Steuermann
+Henning ist gestern verunglückt, fiel ins Wasser und
+wurde von einem Haifisch in die Tiefe gezogen. — Johannes,
+ich, die Kinder und die Jacht sollen als verschollen gelten …
+So hat Johannes es mit seinem Bruder vereinbart. Heute
+abend verlassen die vier die Insel.
 
-ſeine Frau und die Brüder Borell werden mit dem Großs
-boot der Jacht die indiſche Küſte zu erreichen ſuchen. Steuer»
-mann Henning iſt geſtern verunglü>t, fiel ins Waſſer und
-wurde von einem Haifiſch in die Tiefe gezogen. =- Johannes,
-ich, die Kinder und die Jacht ſollen als verſchollen gelten ...
-So hat Johannes e8 mit ſeinem Bruder vereinbart. Heute
-abend verlaſſen die vier die Inſel.
-
-5. März 1909. -- Nun bin ich mit meinen Kindern und
+5\. März 1909. — Nun bin ich mit meinen Kindern und
 den beiden Schwarzen hier auf dem Eiland allein. Ich bin
-ſc<on zu ſtumpf geworden, um noh Tränen zu finden ...
-Johannes hat ſich erſchoſſen. Er ertrug dieſes Daſein nicht
-mehr. Er fürchtete ſtet8, die Kinder anſteken zu können, die
-wir ſtet8 nur von weitem ſahen, da wir ſie völlig der Obhut
+schon zu stumpf geworden, um noch Tränen zu finden …
+Johannes hat sich erschossen. Er ertrug dieses Dasein nicht
+mehr. Er fürchtete stets, die Kinder anstecken zu können, die
+wir stets nur von weitem sahen, da wir sie völlig der Obhut
 der Neger anvertraut hatten.
 
-18. April 1913. - Bis heute habe ich dieſe8 elende
-Daſein ausgehalten. Jetzt bin ih am Rande meiner Kräfte.
-Seltſamerweiſe ſind meine Finger wieder völlig geheilt, aber
-troßdem ſtet no<+ das Lepragift in meinem Körper. Und
-ein Pflanzengift, das iM hier gefunden, wird mich erlöſen,
-da ich doh nichts von meinen Kindern habe, die ich von mir
-fernhalten muß. -- IH weiß, daß der Saft der Kuruſſa=
-Pflanze, wenn man ihn in größerer Menge trinkt, nicht nur
-raſc< und ſc<merzlos tötet, ſondern den Leib au< vor der
-Verweſung bewahrt. =- I<h will mich ſo wenigſtens als Tote
+18\. April 1913. — Bis heute habe ich dieses elende
+Dasein ausgehalten. Jetzt bin ich am Rande meiner Kräfte.
+Seltsamerweise sind meine Finger wieder völlig geheilt, aber
+trotzdem stet noch das Lepragift in meinem Körper. Und
+ein Pflanzengift, das ich hier gefunden, wird mich erlösen,
+da ich doch nichts von meinen Kindern habe, die ich von mir
+fernhalten muß. — Ich weiß, daß der Saft der Kurussa-Pflanze,
+wenn man ihn in größerer Menge trinkt, nicht nur
+rasch und schmerzlos tötet, sondern den Leib auch vor der
+Verwesung bewahrt. — Ich will mich so wenigstens als Tote
 meinen Kindern erhalten.
 
-19. April. = Soeben habe iH ein ganzes Liter des
-Kuruſſa=-Safte8 getrunken. Lebt wohl, meine Kinder, die ich
-in Gedanken an da8 Meer, das mir nur Unheil beſcherte,
+19\. April. — Soeben habe ich ein ganzes Liter des
+Zurufen—Kaltes getrunken. Lebt wohl, meine Kinder, die ich
+in Gedanken an daß Meer, das mir nur Unheil bescherte,
 Neptun und Ozeana genannt habe!
 
--=- -=-- Der Jüngling klappte das Buch langſam zu und
-legte e8 auf den Tiſ< zurüs ...
+— — Der Jüngling klappte das Buch langsam zu und
+legte es auf den Tisch zurück …
 
-Sagte dann: „I< habe dieſen Aufzeichnungen meiner
-Mutter nur noFH wenig hinzuzufügen. -- Jupp und Strupp
-hatten die Tote hier in dieſer Grotte aufgebahrt, -=- dort
-hinter dem Vorhang ruht ſie. Al8 wir Geſchwiſter dann
-groß und fräftig geworden, la8 iM? das Tagebuch immer
+Sagte dann: »Ich habe diesen Aufzeichnungen meiner
+Mutter nur voll wenig hinzuzufügen. — Jupp und Strupp
+hatten die Tote hier in dieser Grotte aufgebahrt, — dort
+hinter dem Vorhang ruht sie. Als wir Geschwister dann
+groß und kräftig geworden, las ich? das Tagebuch immer
 <@pagebreak/>
-DSSSSSISSDSDSDSS (2 DSSHSDOSDISSDSIESDS
-
-wieder, da in mir der Berdacht aufgeſtiegen war, daß mein
-Onkel Peter meine Eltern mit Hilfe Hektor Borells ſchändlic<
-irregeführt hatte. I< vermutete, daß. meine Eltern niemals
-wirkli) leprakrank geweſen waren, ſondern daß Hektor Borell
-irgendwie an ihren Fingern den verdächtigen Ausijchlag
-hervorgerufen hätte. =- Bor einem Jahr etwa ſtellte ich
-Jupp und Strupp dieſerhalb zur Rede. Zögernd nur gaben
-ſie ſ<ließlich zu, al8 iH ſie mit einem Revolver bedrohte,
-daß mein Berdacht berechtigt jei. Sie waren von Hektor
-Borell beſto<en .worden, ſowohl die Eltern al8 auc<4 uns
+wieder, da in mir der Verdacht aufgestiegen war, daß mein
+Onkel Peter meine Eltern mit Hilfe Hektor Borells schändlich
+irregeführt hatte. Ich vermutete, daß. meine Eltern niemals
+wirklich) leprakrank gewesen waren, sondern daß Hektor Borell
+irgendwie an ihren Fingern den verdächtigen Ausschlag
+hervorgerufen hätte. — Vor einem Jahr etwa stellte ich
+Jupp und Strupp dieserhalb zur Rede. Zögernd nur gaben
+sie schließlich zu, als ich sie mit einem Revolver bedrohte,
+daß mein Verdacht berechtigt sei. Sie waren von Hektor
+Borell bestochen worden, sowohl die Eltern als auch4 uns
 gleich nach der Abfahrt des Großbootes zu töten, hatten aber
-hierzu nicht den Mut gefunden. -- Ozeana und ich. haben
-daraufhin die Neger erſchoſſen.“
+hierzu nicht den Mut gefunden. — Ozeana und ich. haben
+daraufhin die Neger erschossen.«
 
-Ey ſchwieg und ſchaute die drei Angeklagten ſtarr an. =
+Ei schwieg und schaute die drei Angeklagten starr an. —
 
-Welchen Eindru> der Inhalt des Tagebudes8 ſowie die
-lezten Erklärungen des Jüngling8 auf uns gemacht hatten,
-die wir hier gleichſam als Richter ſaßen, kann der Leſer ſich
-ſelbſt unſHwer ausmalen.
+Welchen Eindruck der Inhalt des Tagebuches sowie die
+letzten Erklärungen des Jünglings auf uns gemacht hatten,
+die wir hier gleichsam als Richter saßen, kann der Leser sich
+selbst unschwer ausmalen.
 
-Ein Berbrechen, eine Erbſchleiherei von ſolcher raffi=
-nierten, ſataniſ<en Heimtü>e ſtand in den Annalen der
-Kriminalgeſchi<hte wohl einzig da ...
+Ein Verbrechen, eine Erbschleicherei von solcher raffinierten,
+satanischen Heimtücke stand in den Annalen der
+Kriminalgeschichte wohl einzig da …
 
-Maun denke: Zwei geſunden, glüklihen Menſc<hen wird
-dur<4 einen Schurken eingeredet, daß ſie leprakrank ſeien.
-Verzweifelt werfen ſie das Leben von ſi<h = -=- 3wei in
-Wahrheit ganz Geſunde!!
+Mann denke: Zwei gefunden, glücklichen Menschen wird
+durch4 einen Schurken eingeredet, daß sie leprakrank seien.
+Verzweifelt werfen sie das Leben von sich — — Zwei in
+Wahrheit ganz Gesunde!!
 
-Das Hirn ſträubt ſiH einem, an ſolhe Berruchtheit zu
+Das Hirn sträubt sich einem, an solche Verruchtheit zu
 glauben!!
 
-Und dohH: dort vor uns ſaßen die drei, die von alledem
-gewußt hatten ...! Kein Wort der Verteidigung kam über
-ihre bleichen Lippen ...
+Und doch: dort vor uns saßen die drei, die von alledem
+gewußt hatten …! Kein Wort der Verteidigung kam über
+ihre bleichen Lippen …
 
-Und nun -- nun erhob iH meine Stimme, i<, Max
-Schraut ...
+Und nun — nun erhob ich meine Stimme, ich, Max
+Schraut …
 
-„Peter Margenbe>,“ ſagte ih mahnend, „-- Peter Mar=
-g2be>d, Sie brauchen hier Ihre Frau und Ihren Schwager
-nicht zu ſchonen ..! Aus ein paar Säßen, die ich erlauſch?
+»Peter Margenbeck,« sagte ich mahnend, «— Peter Mar-g2beckd,
+Sie brauchen hier Ihre Frau und Ihren Schwager
+nicht zu schonen …! Aus ein paar Säßen, die ich Geräusch?
 <@pagebreak/>
-DSSSSSSSSSDSS (3 08220 SS0BDSSEDSBSOS
+habe, gewann ich die -Überzeugung, daß Sie hier mehr der
+Verführte, jedenfalls nicht der Anstifter sind …«
 
-habe, gewann ich die -Ueberzeugung, daß Sie hier mehr der
-Verführte, jedenfalls nicht der Anſtifter ſind .,.“
+Margenbeck hob den Kopf …
 
-Margenbe> hob den Kopf ...
+»Nicht Anstifter — trotzdem mitschuldig!« erklärte er fest.
 
-„Nicht Anſtifter = troßdem mitſchuldig!“ erklärte er feſt.
+Worauf der Jüngling abermals das Wort nahm …
 
-Worauf der Jüngling abermals das Wort nahm ...
+An uns Richter wandte er sich …
 
-An uns Richter wandte er ſich ...
+»Haben die drei den Tod verdient?«
 
-„Haben die drei den Tod verdient?“
+Wilm Ollenprick als Ältester antwortete:
 
-Wilm Ollenpri> als Aelteſter antwortete:
+»Sie haben ihn verdient … Doch nicht wir dürfen hier
+richten … Wir werden die drei den Behörden übergeben.«
 
-„Sie haben ihn verdient ... Doch nicht wir dürfen hier
-richten ... Wir werden die drei den Behörden übergeben.“
+Ich war gespannt, wie die Geschwister diese Äußerung
+hinnehmen würden …
 
-I< war geſpannt, wie die Geſchwiſter dieſe Aeußerung
-hinnehmen würden ...
+Der Jüngling nickte ernst …
 
-Der Jüngling nite ernſt .,.
+»Gut — er sei …!!«
 
-„Gut -- eV ſei ..!!“
+Und schritt zum Ausgang der Grotte, hob den Sonnenvorhang
+…
 
-Und ſc<hritt zum Ausgang der Grotte, hob den Dornen=
-vorhang ...
+»Verläßt diese Stätte, die ihr nur entweiht — — das
+Grab meiner Mutter! Kehrt zu den Schiffen zurüE … Wir
+folgen euch!«
 
-„BVerlaßt dieſe Stätte, die ihr nur entweiht = -=- das
-Grab meiner Mutter! Kehrt zu den Schiffen zurüE ... Wir
-folgen euch!“
+Die drei sprangen empor und verließen fluchtartig die
+»Grotte … Stürmten die Terrasse hinab …
 
-Die drei ſprangen empor und verließen fluchtartig die
-„Grotte ... Stürmten die Terraſſe hinab ...
+Der Mond leuchtete ihnen …
 
-Der Mond leuchtete ihnen ...
+Wir andern waren ebenfalls rasch ins Freie getreten …
 
-Wir andern waren ebenfalls raſch ins Freie getreten ...
+Ich ahnte, was der Jüngling beabsichtigte, als er die drei
+allein den Weg wählen ließ …
 
-Id) ahnte, was der Jüngling beabſichtigte, al8 er die drei
-allein den Weg wählen ließ ...
+Nebeneinander eilten sie dahin … Hofften vielleicht, irgendwie
+uns entschlüpfen zu können … Bogen nach rechts ab,
+wo der Urwald weniger dicht und wo … sich der Abgrund
+hinzog, dort im Baumschatten als solcher nicht zu erkennen.
 
-Nebeneinander eilten ſie dahin ... Hofften vielleicht, ir=
-gendwie uns entſchlüpfen zu können ... Bogen nach rechts ab,
-wo der Urwald weniger dicht und wo ... ſih der Nbgrund
-hinzog, dort im Baumſc<atten als ſolher nicht zu erkennen.
+Dann: — — drei gellende Schreie … Nochmals — —
+nur dumpfer, wie aus den Tiefen der Erde, dann — nichts
+mehr …
 
-Dann: -- -- drei gellende Shreie ... Nochmals -- --
-nur dumpfer, wie aus den Tiefen der Erde, dann -=- nichts
-mehr ...
+Die Verbrecher hatten sich selbst gerichtet: Gottesackers!
+— hatten gerade den Weg gewählt, der sie ins Verderben
+führte …!! — —
 
-Die Verbrecher hatten ſich ſelbſt gerichtet: Gotte3urteil!
--- hatten gerade den Weg gewählt, der ſie ins Berderben
-führte ...!! -- =-
-
-Co korn ich denn hiermit die Schilderung dieſe3 unſeres
+Co Korn ich denn hiermit die Schilderung dieses unseres
 <@pagebreak/>
-'DSOSSSDSDSDS (1 DSODESDISSOBDIOD2S
+Abenteuers schließen, möchte aber doch noch darauf hing
+weisen, daß ohne Zweifel das grauenvolle: Verbrechen, das
+an den Eltern der Geschwister begangen worden war, viels-leiht
+noch viele Jahre oder gar für immer in Dunkel gehüllt
+geblieben wäre, wenn nicht Harst so zielbewußt und geistvoll
+das Geheimnis von Wilm Ollenpricks Insel gelöst hätte …
 
-Abenteuers ſchließen, möhte aber doH no<+ darauf hinz
-weiſen, daß ohne Zweifel das grauenvolle: Verbrechen, das
--an den Eltern der Geſchwiſter begangen worden war, viels=
-leiht noh viele Jahre oder gar für immer in Dunkel gehüllt
-geblieben wäre, wenn nicht Harſt ſo zielbewußt und geiſtvoll
-das Geheimnis von Wilm Ollenpri>s Inſel gelöſt hätte ...
+Daß die Geschwister MargenbeX dann bei entfernteren
+Verwandten in Hamburg Aufnahme fanden, daß sie als die
+»Erben des großen Margenbeschen Vermögens einer
+Sorgenlosen Zukunft entgegensehen, — all das Würstchen
+Leser aus den Tageszeitungen bekannt sein.
 
-Daß die Geſchwiſter MargenbeX dann bei entfernteren
-Berwandten in Hamburg Aufnahme fanden, daß ſie als die
-"Erben des großen Margenbeſ<hen Wermögens einer
-Jorgenloſen Zukunft entgegenſehen, -- all das dürfte .dem
-Leſer aus den TageS8zeitungen bekannt ſein.
+Nächster Band:
+Das Geheimnis eines Grabes.
 
-Nächſter Band:
-Das Geheimni8 eine8 Grabes8.
-
-Druck: P. Lehmann, G. m. b. H., Berlin.
-<@pagebreak/>
-Der Detektiv
-
-Eine Reihe höchſt ſpannender Detektivabenteuer.
-GBiSher ſind folgende Bände erſchienen:
-
-Band 74: Das Geheimnis der Kabine 24.
-
-„- 75: Da3 Rätſel der Trollhätta-Inſel,
-„" 76: Lord Plemborn35 Verbrechen.
-
-77; Die Leiche im Gletſ<ertunnel.
-78: Sc<s leere Briefvogen.
-79: Das5 Geheimnis des Elefantenjägers.
-80: Lady Myntors letzter Wunſch.
-81: Der Giftpfeil ves Wedda.
-82: Die Schlangenbeſchwörer von Agra.
-83: Das Patent des Doktor Murphiſon,
-84: Die Buſchklepper der Thar-Wüſte.
-5: Da5 blinde Hindumädc<hen.
-86: Die Wundergeige des Virtuoſen.
-87: Der Geiſterſpiegel.
-88: Das Geheimnis des Wannſee83.
-89: Giftkonfekt.
-90: Schatten an der Wand.
-91: Der tote Zigeuner,
-: Das Rätſel der Schonerjacht.
-93: Die tote Karawane.
-94: Das Wunder von Patna.
-95: Frau Jnges Tränen.
-96: Der tote Kanarienvogel.
-: Der Obſtkahn am Eliſabethufer.
-98: Das geheimnisvolle Fenſter,
-99: Anita Armands5 Verhängnis.
-100: Unſer 100. Abenteuer.
-101: Die Piraten der Havelſeen,
-: Der Napoleon aus Wachs,
-: Der dritte Schuß.
-104: Das Zimmer chne Fenſter.
-: Das Raket im Urbanhafen.
-106: Der unheimliche Mieter.
-107: Das Känguruh ver Miß Dolling.
-
--=- Preis pro Band 20 Pf. -
-
-Zu beziehen durch jede Buchhandlung oder vom
-Derlag moderner Cektüre G.m.b.5B., Berlin SO 26,
-Eliſabeth - Ufer 44.
-
-FTTVITSRTRTANTVNVNS
-PO -
-It
-
-FTTSTTVVRRS2D
-DD DD
-| do
-
-= >
->>
-Gv
-
-TE2V2
--
-SD
-Sr
+Druck: P. Lehmann, G. in. b. H., Berlin.
