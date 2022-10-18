@@ -2219,30 +2219,30 @@ Beginnenden Sonnenuntergangs …
 
 Das Meer war nur schwach bewegt …
 
-Und durch diese rosigen Wogen mit ihren rosigen Häuschen
-schoß pfeilschOnell eine schlanke Motorjacht hindurch —
+Und durch diese rosigen Wogen mit ihren rosigen Kämmen
+schoß pfeilschnell eine schlanke Motorjacht hindurch —
 mit scharfem Bug, mit zwei wirbelnden Schrauben …
 
-Die Motorjacht »Swine« des Wasserbaurat8 Binzer aus
+Die Motorjacht »Swine« des Wasserbaurats Sinzel aus
 Swinemünde …
 
 Und auf der Jacht drei Herren …
 
-… Drei, die weder Harst, Schraut und Ollenprick noch sonst
+Drei, die weder Harst, Schraut und Ollenprick noch sonst
 jemandem glichen …
 
 Drei Herren, deren Gesichter Phantasiegebilde waren, —
-»Gebilde aus Schminke, Bärten, Perücken, angeklebten Augenbrauen,
-durch Wachs. umgeformten Nasen und so weiter. —
+Gebilde aus Schminke, Bärten, Perücken, angeklebten Augenbrauen,
+durch Wachs umgeformten Nasen und so weiter. —
 
 Also — — die Motorjacht »Swine«, die der Käpten von
 Seinem Bekannten, dem Baurat, ausgeliehen hatte, jagte
 mit uns gen Rügen … —
 
 Die etwas erregte Szene Zwischen Harald und dem Käpten,
-mit der ich; das vorige Kapitel geschlossen habe, löste sich
+mit der ich das vorige Kapitel geschlossen habe, löste sich
 nachher in Wohlgefallen auf, da Harst mit gewohnter Energie
-Sich sofort zu tatkräftigen Handeln aufraffte.
+Sich sofort zu tatkräftigem Handeln aufraffte.
 
 <@pagebreak/>
 Und das, was er anordnete, gab uns die Gewißheit, daß
@@ -2251,7 +2251,7 @@ ja Frau Blank an), verhindern würden.
 
 Mich schickte Harst, nachdem wir mit unseren Masken
 fertig waren, zu Herrn August Hempel, wo ich unschwer
-herausbrachte, daß das schieß geübte Fräulein Jenny nicht
+herausbrachte, daß das schießgeübte Fräulein Jenny nicht
 daheim war, sondern mit der Medusa und einigen Freunden
 eine Kreuztour unternehme.
 
@@ -2265,8 +2265,8 @@ den Hafen …
 
 Wir drei sitzen am Heck auf der Steuerbank … Unsere
 Jacht wiegt sich wie ein eiliger Schwan … Das Kielwasser
-rauscht … Wogenspritzer werfen glänzende Perlen über. das
-See 504
+rauscht … Wogenspritzer werfen glänzende Perlen über das
+Deck …
 
 Ein prachtvoller Abend …
 
@@ -2278,7 +2278,7 @@ seiner Frau getrennt hat …
 Aber Ollenprick schüttelt den Kopf …
 
 »Darf nicht, lieber Harst … Nicht übelnehmen … Darf
-nicht! Eignet sich nicht für andere … War eine Schwach
+nicht! Eignet sich nicht für andere … War eine Schmach
 und Schande …«
 
 Harald sagt tastend:
@@ -2289,10 +2289,10 @@ Käpten …«
 »War er … Zwanzig Jahre … — Aber suchen Sie mich
 nicht weiter auszuholen …«
 
-Harst wirst den Stummel seiner Mirakulum über Bord.
+Harst wirft den Stummel seiner Mirakulum über Bord.
 
 »Ja — die Reiterin — Zirkusreiterin Karla Blank!«
-spricht er halblaut vor« sich hin … »Und dort in Australien
+spricht er halblaut vor sich hin … »Und dort in Australien
 <@pagebreak/>
 wird sie wohl auch sehr viel zu Pferde gewesen sein — vielleicht
 zu viel!«
@@ -2302,53 +2302,52 @@ Besondere Bedeutung klingt durch diese Worte …
 Ollenprick nickt versonnen …
 
 Murmelt: »Zu viel — — mag schon stimmen! Manche
-Weiber haben den Teufel im Leibe«
+Weiber haben den Teufel im Leibe!«
 
 Links jetzt unzählige Lichter: Binz!
 
 Und vor uns die großen elektrischen Bogenlampen von
-Saßnitz	—Hafen …
+Saßnitz-Hafen …
 
-Wie werden leicht nervös …
+Wir werden leicht nervös …
 
 Nun soll sich’s ja entscheiden, ob die Medusa hier angelegt
-hat … —!
+hat … —
 
 Ein Viertel zwölf … Wir biegen in den Hafen ein …
 Ollenprick ist hier so gut wie zu Hause … Dort liegen rechts
-an der Zollstation die mächtigen Seiner zweier Fährdampsjer
+an der Zollstation die mächtigen Leiber zweier Fährdampfer
 … Dort links eine Halbflottille Minensuchboote … Und
 dann kleinere Segler, Jachten, Boote …
 
 Ollenpricks kundiger Blick betastet gleichsam die Jachten.
 
-Und sein Mund flucht»…
+Und sein Mund flucht …
 
 Die Medusa ist nicht da …
 
 Er schaut Harst an …
 
-»»Pech!! Tage nun?2t«
+»Pech!! Was nun?!«
 
-»Deck 2?!« meint Harald. »Durchaus nicht — — durchaus
+»Pech?!« meint Harald. »Durchaus nicht — — durchaus
 nicht! Die Medusa konnte ja gar nicht hier sein … Sie
-ankert vor dem Binzer Seesteg … Acta war nur deshalb gleich
+ankert vor dem Binzer Seesteg … Ich war nur deshalb gleich
 euch ein wenig nervös, weil ich mit dem Fernglas nicht genau
 erkennen konnte, ob’s die Medusa auch wirklich war …
 Nun glaube ich’s bestimmt …«
 
 »und — — woher?!« fragte Ollenprick etwas verständnislos
-…«
+…
 
 »Weil ich soeben am Hafeneingang hier ein kleines Beiboot
-mit einem einzelnen Mann darin Billigte — und mit
+mit einem einzelnen Mann darin erblickte — und mit
 einem Fernrohr, das er auf unsere »Swine« gerichtet hatte
 … Also ein Wachtposten der Herrschaften, schätze ich …
 Wollen unsere Jacht nun festlegen … Dann wird sich ja
 <@pagebreak/>
-zeigen, ob der Kerl sich heranpirscht, um uns näher zu des
-
-beäugen …« …
+zeigen, ob der Kerl sich heranpirscht, um uns näher zu
+beäugen …«
 
 Ein Hafenbeamter wies uns einen Liegeplatz an.
 
@@ -2366,7 +2365,7 @@ Und gerade da rief Harald dem Käpten zu:
 
 »Herr Baurat, ich denke, wir gehen schlafen …«
 
-Und ich, schnell den Fritz durchschauend, rief gleichfalls:
+Und ich, schnell den Trick durchschauend, rief gleichfalls:
 
 »Herr Baurat, von mir aus einverstanden … Und auch
 der Herr Baurat wird müde sein …«
@@ -2374,7 +2373,7 @@ der Herr Baurat wird müde sein …«
 Dann war das Boot vorüber …
 
 Dann konnten wir im Vertrauen auf unsere tadellosen
-Masken annehmen, daß der Spion in uns niemals Verfolgen
+Masken annehmen, daß der Spion in uns niemals Verfolger
 vermuten würde … —
 
 Das kleine Beiboot schlich jetzt wieder zum Hafen hinaus.
@@ -2385,20 +2384,21 @@ nahm.
 
 Harald lachte vergnügt …
 
-»Sehen Sie, Ollenprick, da fährt er bis und singt nicht
+»Sehen Sie, Ollenprick, da fährt er hin und singt nicht
 mehr, — das heißt, — er wird seinen Kumpanen nun melden,
 daß bisher kein verdächtiges Fahrzeug in Saßnitz eingelaufen
 sei. Er kann uns nicht erkannt haben … Außerdem führt
 die »Swine« ja auch die Regierungsflagge, und mit den
 Titulaturen sind wir nicht gerade leise gewesen.«
 
-Gegen Mitternacht wanderten wir dem Alte Saßnitz zu,
+Gegen Mitternacht wanderten wir dem Orte Saßnitz zu,
 der mit seinen an die steilen hohen Ufer angeklebten Häuser
-und der modernen Uferpromenade, von Bodwanstalton und
+und der modernen Uferpromenade, von Badeanstalten und
 neuen Hotels einen so eigenartigen Anblick bietet und vielleicht
 <@pagebreak/>
 dasjenige Ostseebad ist, das landschaftlich am schönsten
-liegt. ]
+liegt.
+
 Ollenprick wanderte uns voran und zeigte den Weg …
 
 In einer der höher gelegenen Straßen machte er vor
@@ -2413,7 +2413,7 @@ Ollenprick zeigte auf die Hausnummer …
 »So, nun können wir Frau Wernicke herausklingeln …«
 sagte er …
 
-Harst Kiste …
+Harst nickte …
 
 »Nur zu, Käpten! — Wann waren Sie das letzte Mal
 hier?«
@@ -2433,14 +2433,14 @@ Sagte merkwürdig hastig:
 »Da — — ein Pantoffel …!«
 
 Ja — auf der obersten Stufe lag ein zierlicher eleganter
-Damenvpantoffel …
+Damenpantoffel …
 
-Ollenprick Hütte sich …
+Ollenprick bückte sich …
 
 Rief:
 
 »Das … das ist ja einer von den Pantoffeln, die ich
-Linda zu Weihnachten Straße — von Berlin aus …«
+Linda zu Weihnachten schickte — von Berlin aus …«
 
 Harst drängte den Alten beiseite …
 
@@ -2455,8 +2455,8 @@ Ollenprick stierte Harald an …
 »Sie … Sie … fürchten …?!«
 
 <@pagebreak/>
-»». daß wir zu spät kommen, Käpten …! — Aber schnell
-hinein … Nur keine« Zeit verlieren!«
+»… daß wir zu spät kommen, Käpten …! — Aber schnell
+hinein … Nur keine Zeit verlieren!«
 
 Der Käpten wußte im Hause Bescheid …
 
@@ -2465,13 +2465,13 @@ das Linda Blanks — daneben ihr Schlafstübchen …
 
 Die Türen unverschlossen, das Bett zerwühlt …
 
-Die Bewohnerin dieser beiden geradezu luxuriös einges-richteten
+Die Bewohnerin dieser beiden geradezu luxuriös eingerichteten
 Räume verschwunden …
 
-Dem Kundigen sagte ein einziger Art, was hier geschehen
+Dem Kundigen sagte ein einziger Blick, was hier geschehen
 …
 
-Und dann gegenüber in das Schlafzimmer Frau Vernichtet
+Und dann gegenüber in das Schlafzimmer Frau Wernickes
 …
 
 Auch diese Tür unverschlossen …
@@ -2486,7 +2486,7 @@ Unser armer Käpten …!!
 
 Er tat mir unendlich leid …
 
-Er war vollkommen niedergebrochen, größte sich auf mich
+Er war vollkommen niedergebrochen, stützte sich auf mich
 und seufzte nur kläglich … Das Fluchen war ihm wieder
 vergangen.
 
@@ -2504,46 +2504,46 @@ des Kindes angelegt?«
 
 »So, daß das Geld seinen Wert behielt, Herr Harst: in
 den besten Edelsteinen, die es je in Amsterdam zu kaufen
-Aus wie
+gab …«
 
 »Und wer bewahrte die Steine auf?«
 
-»Linda selbst — seit einem Jahre, seit meinem letzter
-Besuch hier. Damals war sie vierzehn … Sie war wer!
+»Linda selbst — seit einem Jahre, seit meinem letzten
+Besuch hier. Damals war sie vierzehn … Sie war weit
 <@pagebreak/>
 über ihre Jahre hinaus reif, beinahe schon erwachsen … Und
 da habe ich dann die Edelsteine, die — ich solange bei mir
-vorliegt hatte, hierher mitgenommen und Linda gleichzeitig
-eine japanische Base mitgebracht, in der sie das Päckchen
-verbergen konnte. Es war eine jener alten Kommen	—Vasen,
+versteckt hatte, hierher mitgenommen und Linda gleichzeitig
+eine japanische Vase mitgebracht, in der sie das Päckchen
+verbergen konnte. Es war eine jener alten Samura-Vasen,
 die sehr kostbar, sehr schwer und sehr eigenartig sind, weil …«
 
-»- weil sie sich auseinanderschrauben lassen — ich weiß!
+»… weil sie sich auseinanderschrauben lassen — ich weiß!
 — und weil so die hohlen Wandungen als Versteck benutzt
-werden können … — Nach oben!!t«
+werden können … — Nach oben!!«
 
 Er stürmte die Treppe hinan …
 
-OllenpriFck und im mit unseren Taschenlampen hinterdrein
+Ollenprick und ich mit unseren Taschenlampen hinterdrein
 — in Lindas Wohngemach …
 
-»Wo ist die Base?« fragte Harald …
+»Wo ist die Vase?« fragte Harald …
 
-»Der Käpten deutete in eine Sie, wo halb hinter einem
+»Der Käpten deutete in eine Ecke, wo halb hinter einem
 Wandschirm auf schwarzer Säule dieses prachtvolle alte Erzeugnis
-japanischer Töpferkunst, mit knirschen großen Mohnblüten
+japanischer Töpferkunst, mit frischen großen Mohnblüten
 gefüllt, uns mit seinen köstlichen Farben nunmehr
 entgegenleuchtete, beschienen von den Lichtkegeln dreier
 Taschenlampen …
 
-»Gott sei Dank — — noch da!t« rief Ollenprick …
+»Gott sei Dank — — noch da!!« rief Ollenprick …
 
 Aber Harald war mißtrauischer …
 
-Hob die Base herab, nahm die Blüten heraus …
+Hob die Vase herab, nahm die Blüten heraus …
 
 Und — — gleich darauf kam über des Käptens farblos
-gewordenen Lippen ein Flur.
+gewordenen Lippen ein Fluch.
 
 Das Päckchen Diamanten war verschwunden …
 
@@ -2559,14 +2559,14 @@ Hinter uns Karla Blanks Stimme — von der Flurtür her:
 
 Da stand sie — blaß, erschöpft, ohne Hut …
 
-»Seinen Teil!« wiederholte sie, und ihre Stimme wahr
-von aufsteigenden Tränen halb erstickt … »Eine ungeheure«
-Gemeinheit das alles … Mein Bruder — oh, — ich hab«
+»Keinen Teil!« wiederholte sie, und ihre Stimme war
+von aufsteigenden Tränen halb erstickt … »Eine ungeheure
+Gemeinheit das alles … Mein Bruder — oh, — ich habe
 ihm nur zu sehr vertraut! Mein Bruder hat mich auf der
 <@pagebreak/>
 Medusa eingesperrt gehabt … Alle waren gegen mich —
 alle! Selbst Jenny, meine Freundin …! Peter Patra hatten
-sie als Spion im Beiboot hierher Besitz … Wollten auf
+sie als Spion im Beiboot hierher geschickt … Wollten auf
 seine Rückkehr warten … Faßten wieder einen anderen
 Entschluß … Und verschwanden von Bord … Ich rief um
 Hilfe … Ein Boot kam an der Jacht vorüber … Man befreite
@@ -2583,17 +2583,17 @@ Harst trat rasch auf sie zu …
 »Ihr Bruder hat sich des in dem chinesischen Kästchen
 enthaltenen Testaments des Kapitäns bedient?« fragte er.
 
-… »Ja … Als Ausweis Linda gegenüber … Linda sollte
+»Ja … Als Ausweis Linda gegenüber … Linda sollte
 glauben, daß er im Auftrage Ollenpricks käme … Und hohnlachend
 hat er mir die Einzelheiten seines Planes entwickelt
 … Er wollte zuerst Frau Wernicke und die Dienstboten in
-aller Stille ausschalten … Wollte dann erst Linda weder,
+aller Stille ausschalten … Wollte dann erst Linda wecken,
 ihr erklären, er käme in Ollenpricks Auftrag und solle sie
 schleunigst nach Swinemünde bringen, da sie hier vor mir
-wollt’ mehr sicher sei — vor mir, ihrer Mutter, die man ihr
+nicht mehr sicher sei — vor mir, ihrer Mutter, die man ihr
 stets als … Verbrecherin geschildert hat … Und das …
-haben Sie getan, Wilhelm Dilettant, Sie und mein Mann.
-der nicht verzeihen und vergessen konnte.«.!«
+haben Sie getan, Wilhelm Ollenprick, Sie und mein Mann,
+der nicht verzeihen und vergessen konnte …!«
 
 Jetzt hatte sie sich hochaufgerichtet, stand vor Wilm
 Ollenprick als Anklägerin …
@@ -2604,39 +2604,39 @@ verziehen werden kann?! Glauben Sie denn, daß ich
 jemals aus wirklicher verbrecherischen Neigung dort in Australien
 den Buschräuber spielte?! — Nein — niemals! Abenteuerlust
 war’s! Das unruhige Zirkusblut! Dort auf unserer
-Farmerstite ich vor langer -Weile. Dort hat Matthias, der
+Farm erstickte ich vor langer Weile. Dort hat Matthias, der
 <@pagebreak/>
 niemals zu mir paßte, mich derart vernachlässigt, daß ich
 auch halb aus Trotz schließlich die berüchtigte Reiterin von
-Komfort	—Station wurde, wie man die unbekannte, stets maskierte
+Ranfort-Station wurde, wie man die unbekannte, stets maskierte
 Buschräuberin nannte, die die Goldtransporte plünderte
 und den Raub doch stets wieder an den Rand der
 Straße legte, die nie einen Tropfen Blut vergoß!! Das
-war meine ’Schuld!! Und dann kam Matthias eines Tages
+war meine Schuld!! Und dann kam Matthias eines Tages
 hinter mein Geheimnis … Da verkaufte er die Farm …
 Da kehrte er mit mir nach Europa zurück — auf einem
 Frachtdampfer, dessen Kapitän Sie waren, Wilhelm Ollenprick
 … Auf diesem Dampfer gebar ich mein Kind … Und
-als wir in Hamburg landeten, verstieß Matthias mich, der
-schwand mit Linda, ließ mir nur genügend Geld zurück, daß
+als wir in Hamburg landeten, verstieß Matthias mich, verschwand
+mit Linda, ließ mir nur genügend Geld zurück, daß
 ich von den Zinsen bescheiden leben konnte. Matthias hat
 Ihnen den Haß gegen mich eingeimpft, und er und Sie haben
 mein Kind in demselben Hasse erzogen, so daß Linda mich
 fürchtet und verachtet, mich, ihre Mutter!! — Endlich kann
-im nun hier mit Ihnen Abrechnung halten, Kapitän Ehrenwort!
-Endlich stehen wir uns Auge in Auge gegenüber?
-Und hier frage im jetzt einen Mann, dem ich ein Urteil über
+ich nun hier mit Ihnen Abrechnung halten, Kapitän Ollenprick!
+Endlich stehen wir uns Auge in Auge gegenüber!
+Und hier frage ich jetzt einen Mann, dem ich ein Urteil über
 menschliche Schwächen zutraue, — hier frage ich Sie, Herr
 Harst: War meine Schuld wirklich so riesengroß, daß man
-mir mein Kind nehmen durfte?! Habe ich nicht bereut, habe —
+mir mein Kind nehmen durfte?! Habe ich nicht bereut, habe
 ich nicht schon vor Jahren vor Ollenprick auf den Knien
-gelegen und …
+gelegen und …«
 
-Harst stierte ihr da mit schlichen Bewegung die Hand hin.
+Harst streckte ihr da mit schlichter Bewegung die Hand hin.
 
 »Was Sie getan, war nicht derart, daß man Sie derart
 quälen durfte — niemals! Der Kapitän mag von Ihrem
-Manne aufgesetzt worden sein … Ihr Mann wieder wird
+Manne aufgehetzt worden sein … Ihr Mann wieder wird
 Ihnen zu wesensfremd gewesen sein, als daß Sie eine glückliche
 Ehe führen konnten …«
 
@@ -2644,12 +2644,12 @@ Und dann zu Ollenprick:
 
 »Käpten, — hier, reichen Sie Frau Blank die Hand!
 Versöhnen Sie sich! Denn jetzt sind Sie beide Verbündete
-gegen »irren Schurken, den wir samt seinem Anhang ohne
+gegen einen Schurken, den wir samt seinem Anhang ohne
 <@pagebreak/>
 Hilfe der Polizei fangen wollen, um jedes Aufsehen zu vermeiden
-…ck«
+…!«
 
-Sehr zögernd stierte der Käpten seine Hand der bisherigen
+Sehr zögernd streckte der Käpten seine Hand der bisherigen
 Gegnerin hin …
 
 Als aber erst ihre Finger in den seinen ruhten, als er
@@ -2660,14 +2660,14 @@ weich und gerührt …
 <h2>4. Kapitel.</h2>
 <h3>Die Kalksteinschlucht.</h3>
 
-Es gibt für mich hier’ voll eine Unmenge zu berichten …
+Es gibt für mich hier noch eine Unmenge zu berichten …
 
 Daher: In der Kürze liegt die Würze! —
 
 Zunächst bemühten wir uns nun um Frau Wernicke und
-die Magd, brachten beide zur Besinnung Zuruf und baten
+die Magd, brachten beide zur Besinnung zurück und baten
 dann Frau Blank, vorläufig hier im Hause zu bleiben.
-Inzwischen hatte Harald aufs mit Frau Fremder ein ernstes
+Inzwischen hatte Harald auch mit Frau Wernicke ein ernstes
 Wort gesprochen und sie gleichfalls von ihrem Vorurteil gegen
 Frau Blank gründlich kuriert.
 
@@ -2676,46 +2676,46 @@ und Ollenprick uns dem jetzt Wichtigsten zuwenden konnten:
 der Verfolgung der Flüchtlinge!
 
 Als wir mit der Jacht bei anbrechenden Tage gen Binz
-fuhren, um dort uns erst einmal nach der Medusa anzutun,
+fuhren, um dort uns erst einmal nach der Medusa umzutun,
 fanden wir diese zu unserem Erstaunen noch am Binzer Bootsstege
 vertäut.
 
-So konnten Harst und ich denn ohne Aufsehen den eins
-einzigen Insassen, der kleinen Jacht, Herrn Peter Patra, herausklopfen,
+So konnten Harst und ich denn ohne Aufsehen den einzigen
+Insassen, der kleinen Jacht, Herrn Peter Patra, herausklopfen,
 der sich hinten in der Kajüte eingeschlossen hatte.
 
 Peter Patra machte ein sehr empörtes Gesicht, als Harald
-ihm in der Kajüte mit der Clement in der Hand die näht«-
-hie Schurkerei vorhielt …
+ihm in der Kajüte mit der Clement in der Hand die nächtliche
+Schurkerei vorhielt …
 
 »Leugnen Sie nicht …! Wir sind in alles eingeweiht!«
 <@pagebreak/>
-jagte er drohend. »Wenn wir Sie der Polizei übergeben,
-wandern Sie wegen Beihilfe zur Entführung einer Winters
-langjährigen ins Gefängnis!«
+sagte er drohend. »Wenn wir Sie der Polizei übergeben,
+wandern Sie wegen Beihilfe zur Entführung einer Minderjährigen
+ins Gefängnis!«
 
-Herr Klown Peter Patra schwor bei allen Heiligen sämtlichen
+Herr Klown Peter Patra schwor bei allen Heiligen sämtlicher
 Religionsbekenntnisse, daß er von nichts eine Ahnung
 hätte …
 
 »Wollen Sie uns angeben, wo Ihre Verbündeten stecken?«
-fragte Harald eisig. »Ich habe nicht Luft, an Sie viele
+fragte Harald eisig. »Ich habe nicht Lust, an Sie viele
 Worte zu verschwenden …«
 
 »Herr Harst, — ich weiß es nicht!« rief der Artist wie
 verzweifelt. »Ich war mit dem Beiboot nach Saßnitz geschickt
-worden, um dort …
+worden, um dort …«
 
-… zu spionieren, und als Sie zurüFkehrten, war Frau
+»… zu spionieren, und als Sie zurückkehrten, war Frau
 Blank verschwunden, ebenso Ihre Freunde … — Trotzdem
 behaupte ich, daß Sie irgendwo mit Herbert Ring ein Stelldichein
 vereinbart haben …«
 
 »oh — hätte ich es nur getan!« klagte Patra kläglich.
 »Denn — was habe ich nun von all der Mühe, die ich auf
-mich genommen habe, — von diesen wochenlangen Spitels-diensten?!
+mich genommen habe, — von diesen wochenlangen Spitzeldiensten?!
 Nichts — — nichts!! Nicht ein einziger Edelstein
-wird mir zufallen, und im werde meine Gutmütigkeit
+wird mir zufallen, und ich werde meine Gutmütigkeit
 im Gefängnis büßen! Schon in der Nacht, als ich die Medusa
 hier im Beiboot wieder erreichte, hat der Ortsgendarm von
 Binz mich ins Gebet genommen, und es bedurfte meiner
@@ -2731,16 +2731,16 @@ blieb in der Kajüte in seiner höchst mangelhaften Bekleidung
 guter Laune zurück.
 
 Ich war, ehrlich gesagt, maßlos erstaunt darüber, daß
-Harald diesen Menschen so ohne weiteres laufen ließ, Kein
+Harald diesen Menschen so ohne weiteres laufen ließ. Kein
 einziger dieses Gelichters verdiente Schonung, lediglich Frau
-Karla Blank?!
+Karla Blank!
 
 <@pagebreak/>
-Also maßlos erstaunt war 1H, was sich sehr bald als
+Also maßlos erstaunt war ich, was sich sehr bald als
 gänzlich überflüssig herausstellte, denn Harald hatte keineswegs
 die Absicht, diesen heuchlerischen Burschen entwischen
 zu lassen. Das merkte ich nun, als wir wieder unsere Jacht
-aneinanderreiht hatten und als Harald hier auf dem Achterdeck
+erreicht hatten und als Harald hier auf dem Achterdeck
 erklärte:
 
 »Ollenprick — Schraut, hört mich an … Ich muß hier in
@@ -2748,15 +2748,15 @@ Binz bleiben … Ich muß ganz heimlich von Bord … Denn
 der Patra beobachtet uns natürlich … Ich werde mich an
 der Backbordseite ins Wasser gleiten lassen … Dort hinter
 den Querplanken der Dampferanlegebrücke sieht mich niemand
-…auch Patra nicht … Ihr beide Fahrt naß Saßnitz
+… auch Patra nicht … Ihr beide Fahrt nach Saßnitz
 zurück. Von dort aus behaltet ihr die Medusa mit einem
 Fernglas im Auge. Verläßt sie hier den Steg innerhalb der
 nächsten zwei Stunden, so ist Patra an Bord … Dann bleibt
 ihr hinter ihr … — So, nun verschwinde ich …«
 
-Zum Sein stieg er in die Achterkajüte hinab »… In
-Wahrheit kroch er hinter das KajütdeX und schwamm gleich
-darauf um den Bug herum hinter die Plankenwand»…
+Zum Schein stieg er in die Achterkajüte hinab … In
+Wahrheit kroch er hinter das Kajütdeck und schwamm gleich
+darauf um den Bug herum hinter die Plankenwand …
 
 Wir machten die Jacht los und stachen in See … Wir
 beide, der Käpten und ich, waren nun aufs äußerste gespannt,
@@ -2767,51 +2767,53 @@ waren vorüber. Die Medusa lag noch immer am Binzer
 Stege. Freilich konnten wir sie nur undeutlich auf die weite
 Entfernung hin erkennen. Aber — sie war da! Also hatte
 Patra fraglos den Landweg gewählt, und Harald würde hinter
-»ihm bleiben, um vielleicht auf diese Weise dorthin geführt
-zu werden, wo Herbert Ging mit der geraubten Linda, den
+ihm bleiben, um vielleicht auf diese Weise dorthin geführt
+zu werden, wo Herbert Ring mit der geraubten Linda, den
 Juwelen und seinen Verbündeten den Klown erwartete. — —
 
 Und dann kam für Ollenprick und mich ein endloser Tag
-im Hafen von Saßnitz … Ein Tag, an dem wir nichts;anderes
-taten, als naß Harald Ausschau halten …
+im Hafen von Saßnitz … Ein Tag, an dem wir nichts anderes
+taten, als nach Harald Ausschau halten …
 
 Der Abend brach an …
 
 Ollenprick hatte so und so oft zu Frau Karla Blank
-nach he? Bergstraße ach?! wollen. HZav3l19 hatte es verboten
+nach der Bergstraße gehen wollen. Harald hatte es verboten
 <@pagebreak/>
 — direkt verboten, hatte uns gewarnt: »Bleibt an Bord!
-Jede Minute kann von mir Forscht eintreffen!«
+Jede Minute kann von mir Nachricht eintreffen!«
 
-Der Abend kam … ]
+Der Abend kam …
 
 Ein hohler Ostwind fuhr über die See hin … Ein Gewitter
-drohte … Um östlichen Horizont wetterleuchtete es …
+drohte … Am östlichen Horizont wetterleuchtete es …
 
 So wurde es zehn Uhr …
 
-Die ersten Regentropfen fielen
+Die ersten Regentropfen fielen …
 
 Dann — urplötzlich stand Harald vor uns … auf dem
-Schreiber …
-— »Rasch — verschließt die Kajüte!« sagte er … »Beeilt
-euch?! Nehmt Regenmäntel mit … Es gibt sicherlich ein
+Achterdeck …
+
+»Rasch — verschließt die Kajüte!« sagte er … »Beeilt
+euch! Nehmt Regenmäntel mit … Es gibt sicherlich ein
 Unwetter … Das kommt uns gerade recht …«
 
-Dann folgten wir ihm, und an einer Er schloß sich
+Dann folgten wir ihm, und an einer Ecke schloß sich
 uns eine vierte Gestalt an … Frau Karla …
 
-Schweigend ging’s den Fahrweg entlang, der naß den
+Schweigend ging’s den Fahrweg entlang, der nach den
 berühmten Kreidefelsen von Stubbenkammer führt …
 
-Wer diesen Weg einmal bei Tage zurügelegt hat, wird
+Wer diesen Weg einmal bei Tage zurückgelegt hat, wird
 seine Schönheit preisen … Der weiß auch, daß es noch einen
-näheren, aber weit mühsameren Pfad mag Stubbenkammer
+näheren, aber weit mühsameren Pfad nach Stubbenkammer
 gibt — nur für Fußgänger … Und in diesen Pfad bog
 Harald ein …
 
 Der Regen meinte es gnädig mit uns. Es tröpfelte
-Nr be
+nur …
+
 Aber der Wind war zum Sturm geworden, und mehr
 als einmal stolperten wir, da nur Harst seine Taschenlampe
 eingeschaltet, aber halb verhüllt hatte …
@@ -2824,15 +2826,15 @@ Wurzelwerk zum Teil in der Luft schwebte und erst
 weiter unten in Ritzen der Schluchtwand sich wieder eingekrallt
 hatte …
 
-»Hier steten sie,« sagte Harald. »Hier hat Herbert Ring
+»Hier stecken sie,« sagte Harald. »Hier hat Herbert Ring
 einen Schlupfwinkel vorbereitet gehabt … Bis hierher schlich
 ich hinter Patra drein … bis hierher … — Nun vorsichtig
 <@pagebreak/>
-»… Folgt mir Schritt für Schritt … Die Schlucht ist sehr
+… Folgt mir Schritt für Schritt … Die Schlucht ist sehr
 tief … Dort hinter der Krümmung gibt es eine ähnliche
 Buche wie diese hier … Und deren Wurzeln dienen als
 Strickleiter … Unter deren Wurzeldecke befindet sich der
-»Eingang zu der Kalksteinhöhle …«
+Eingang zu der Kalksteinhöhle …«
 
 <h2>5. Kapitel.</h2>
 <h3>Ein Gericht des Himmels.</h3>
@@ -2844,72 +2846,80 @@ letzter …
 
 Es regnete stärker … Das Gewitter war näher gekommen.
 
-Ich fand die Stelle, mit denen einzelne stark« Wurzeläste
+Ich fand die Stelle, mit denen einzelne starke Wurzeläste
 verbunden waren … Der Abstieg war weniger schwierig als
 ich angenommen hatte …
 
 Nun reichte mir aus der Finsternis heraus jemand die
-Hand … Ein Ahnung … Ich stand im Höhleneingang …
+Hand … Ein Schwung … Ich stand im Höhleneingang …
 
 Ein gerade umlaufender Blitz zeigte mir, daß vor diesem
 engen Eingang eine Wolldecke von schmutzig grauer Farbe
 hing — in der Farbe des Kalkgesteins ringsum …
 
-Wir vier nun im Dunkeln. Dann dritte Harsts Lampe
+Wir vier nun im Dunkeln. Dann blitzte Harsts Lampe
 ein wenig auf … Nur ein dünner Lichtstrahl …
 
 Er schlich voran …
+
 Eng war die Höhle … Erweiterte sich erst nach drei
 scharfen Biegungen …
+
 Und dann … sahen wir die, die wir suchten …
+
 Sahen Laternenschein …
+
 Kisten, Tonnen, Menschen, die auf Klappstühlen saßen …
+
 Ein Bild wie ein Schmugglernest …
+
 Sahen auch Linda …
+
 Kein Kind mehr … Ein junges, blondes Weib …
 
 <@pagebreak/>
-Abseits saß sie, und vor ihr stand Herbert Ding …
+Abseits saß sie, und vor ihr stand Herbert Ring …
 Seine Handbewegungen bewiesen, wie erregt er war …
 
 Unweit davon Jenny Hempel — ungeratene Tochter
-ehrlichsten Eltern … ich
-Jenny lachte ironisch … Ab
+ehrlicher Eltern …
 
-»So laß sie doch in Ruhe, Herbert!« rief sie … »Sir
-dir keine Mühe mehr … Sie hat dies eben durchschaut!
-Mag sieht«?
+Jenny lachte ironisch …
+
+»So laß sie doch in Ruhe, Herbert!« rief sie … »Gib
+dir keine Mühe mehr … Sie hat dich eben durchschaut!
+Mag sie!!«
 
 Das Kind Karla Blanks sprang auf …
 
-»Gebt mich frei?!« sagte sie mit unendlicher Verachtung
-in Ton und Gebärde. »Ihr habt ja die Edelsteine!! Wir
+»Gebt mich frei!!« sagte sie mit unendlicher Verachtung
+in Ton und Gebärde. »Ihr habt ja die Edelsteine!! Mir
 liegt nichts daran — nichts!! In diesen Stunden hier bin
-im zu besserer Einsicht gelangt, in diesen Stunden hier ist
-die Sehnsucht rasch der Frau in mir erwacht, die mir am
+ich zu besserer Einsicht gelangt, in diesen Stunden hier ist
+die Sehnsucht nach der Frau in mir erwacht, die mir am
 nächsten steht und von der man mich fernhielt, aus Gründen,
 die ich nicht mehr anerkenne …! Zu meiner Mutter will
-iq — — zu meiner Mutter, die nur mich wollte, nur noch
+ich — — zu meiner Mutter, die nur mich wollte, nur nach
 mir verlangte, nicht nach den elenden Brillanten! Gebt
-mich frei, und ich schwöre euch, daß ich euer Fenster hier
+mich frei, und ich schwöre euch, daß ich euer Versteck hier
 nicht verraten werde, daß ich verschweigen werde, daß ihr
 von hier aus mit einem Kutter nach Schweden fliehen wollt,
-wenn Harald Harst die Suche Raum euch aufgegeben hat!«
+wenn Harald Harst die Suche nach euch aufgegeben hat!«
 
 Herbert Ring lachte dem blonden Kinde ins Gesicht …
 
-»Du Närrin!! Eid freilassen hieße Harst mitteilen, daß
-wir voll in der Nähe sind! — Sei dich nur wieder, Linda!
-Du wirst die Sehnsucht nach der … Reiterin von Munterte-Station,
+»Du Närrin!! Dich freilassen hieße Harst mitteilen, daß
+wir noch in der Nähe sind! — Setz’ dich nur wieder, Linda!
+Du wirst die Sehnsucht nach der … Reiterin von Ranfort-Station,
 nach der Buschklepperin, die am Orte ihrer Überfälle
 stets ein Stück Papier mit acht Stearintropfen als
-ihr besonderes Kennzeichen zurüFließ, vor ein wenig bezähmen
-müssen … Ein seines Möütterlein, kleine Linda!
-Acht Stearintropfen von Stearin mit Schaffen gestreckt, wie
+ihr besonderes Kennzeichen zurückließ, noch ein wenig bezähmen
+müssen … Ein feines Mütterlein, kleine Linda!
+Acht Stearintropfen von Stearin mit Schaffett gestreckt, wie
 in der australischen Wildnis üblich!! Eine Buschklepperin —
-— und …
+— und …«
 
-Da weite das blonde schlanke Kind mit der kleinen Faust
+Da hatte das blonde schlanke Kind mit der kleinen Faust
 ausgeholt …
 
 <@pagebreak/>
@@ -2921,7 +2931,7 @@ ihrem Kinde, und riß das blonde Mädel an ihre Brust …
 
 Da war auch schon Haralds Stimme wie die Posaune des
 Jüngsten Gerichts durch die Kalksteinhöhle dröhnend und
-drohend an das Ohr dieser jämmerlichen Verbrecher gedrungen»…
+drohend an das Ohr dieser jämmerlichen Verbrecher gedrungen …
 
 Und — dieses »Hände hoch!« war kein Scherz …
 
@@ -2933,25 +2943,25 @@ Da knallte auch schon Harsts Clement …
 
 Und Rings Sportmütze wirbelte davon …
 
-Da standen sie nun, die vier Männer und die breite
+Da standen sie nun, die vier Männer und die bleiche
 Jenny …!
 
-Da war’s Wilm Dilettant, der nach SeemaungZart nun
+Da war’s Wilm Ollenprick, der nach Seemannsart nun
 seinem Herzen Luft machte …
 
 Noch nie hatte er an Kraftausdrücken derartiges geleistet
 wie jetzt …
 
 Und zum Schluß trat er vor Ring hin, in der Rechten
-ein Kur Holzlatte, die er vom Boden aufgehoben …
+ein Stück Holzlatte, die er vom Boden aufgehoben …
 
 »Wo sind die Edelsteine, du Kanaille? Her damit!«
 
-Herbert Ring wollte Freie werden, doch — — der Käpten
+Herbert Ring wollte frech werden, doch — — der Käpten
 holte aus … Zog dem Burschen eins mit der Latte über den
-Rücken, daß der sofort in die Knie folgte …
+Rücken, daß der sofort in die Knie knickte …
 
-Und — schleunigst aus der Brusttasche ein Nächsten her-au8nahmi
+Und — schleunigst aus der Brusttasche ein Päckchen herausnahm
 — noch versiegelt …
 
 Die Diamanten …!!
@@ -2961,11 +2971,11 @@ Ollenprick schmunzelte …
 »So — die hätten wir!! — Nun, Herr Harst, — was
 tun wir mit dem Gesindel?!«
 
-Harald deutete nach dem Höhleneingaing …
+Harald deutete nach dem Höhleneingang …
 
-»Sie mögen sich zum Teufel schienen! Zuerst aber nehmen
+»Sie mögen sich zum Teufel scheren! Zuerst aber nehmen
 wir ihnen die Waffen ab … In Frau Karlas Interesse soll
-jeder öffentliche Skandal vermieden werden!t«
+jeder öffentliche Skandal vermieden werden!!«
 
 Die fünf waren wie die Lämmer …
 
@@ -2976,18 +2986,18 @@ Sie konnten uns nichts anhaben.
 Wir aber traten erst den Rückweg nach Saßnitz an, nachdem
 das Gewitter ausgetobt hatte — gegen vier Uhr morgens.
 
-Wir kÜletterten bei Tageslicht zum Rande der Schlucht
+Wir kletterten bei Tageslicht zum Rande der Schlucht
 empor …
 
 Und — — wir beide, Harald und ich, die wir als erste
-emporgellomnien waren, sahen voller Grauen dort in der
+emporgeklommen waren, sahen voller Grauen dort in der
 Tiefe der Schlucht einen Haufen regloser Gestalten … —
 
 Am nächsten Tage war in allen deutschen Zeitungen Zu
 Lesen, daß fünf Touristen, die nachts auf dem Wege von
-Stubbenkammer na Saßnitz von einem Gewitter überrascht
-worden waren, von einem Blitze in eine der tiefsten Kali-steinsHluchten
-geschleudert und nur als Leichen. geborgen
+Stubbenkammer nach Saßnitz von einem Gewitter überrascht
+worden waren, von einem Blitze in eine der tiefsten
+Kalksteinschluchten geschleudert und nur als Leichen geborgen
 worden waren.
 
 So stand’s in den Zeitungen …
@@ -2996,11 +3006,12 @@ Heute erfährt die Welt die Wahrheit …
 
 Heute kann im meinen Freunden und Lesern frohen
 Herzens mitteilen, daß es wohl kaum wieder ein so zärtliches,
-inniges Verhältnis ewig)en Mutter und Kind geben wird
-wie zwischen Linda und der Reiterin von Komfort—Station,
-der «+, Buschklepperin mit den acht Stearintropfen …
+inniges Verhältnis zwischen Mutter und Kind geben wird
+wie zwischen Linda und der Reiterin von Ranfort-Station,
+der … Buschklepperin mit den acht Stearintropfen …
 
-Nächster Band:
-Wilm Ollenpriäs Insel,
+<#import "*/harst.ftl" as harst>
 
-Du; V Lehmann, G. in. b. H., Berlin.
+<@harst.naechsterband band="Wilm Ollenpricks Insel."/>
+
+<@harst.druck/>
