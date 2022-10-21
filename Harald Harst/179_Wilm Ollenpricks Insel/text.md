@@ -382,7 +382,7 @@ und war mit seinen Gedanken weit, weit weg gewesen —
 dort am Strande der unbekannten Insel im Meerbusen von
 Bengalen.
 
-auch unser Käpten schien gemerkt zu haben, daß seine
+Auch unser Käpten schien gemerkt zu haben, daß seine
 soeben geäußerten Zweifel in den Wind gesprochen waren.
 Er verstummte gleichfalls …
 
@@ -457,14 +457,14 @@ Harald hob langsam den auf die Brust gesenkten Kopf
 und entgegnete:
 
 »Wir wollen besser zu Bett gehen … Die Bowle ist leer,
-Mein Kopf ist schwer, drum reicht mir mein Lager her …!«
+mein Kopf ist schwer, drum reicht mir mein Lager her …!«
 
 »Reim’ dich, oder ich fresse dich!« grinste der Käpten und
 gähnte. »Gut — also zur Koje! Morgen ist auch noch ein
 Tag!«
 
 So sagten wir unserem alten gemütlichen Ollenprick
-Denn gute Nacht und kletterten die steile Treppe zu den
+denn gute Nacht und kletterten die steile Treppe zu den
 Mansardenstübchen seines Häuschens empor, wo wir in dem
 einen kleinen Zimmer schliefen und in dem anderen wohnten,
 — das heißt, meistenteils waren wir ja im Freien, und das
@@ -496,7 +496,7 @@ Laube und machte ein Gesicht wie sieben Tage Regenwetter.
 
 »Morgen, Käpten …«
 
-»Morgen, Schraut …
+»Morgen, Schraut …«
 
 »Wo ist Harst?«
 
@@ -631,7 +631,7 @@ den mir gut bekannten Hoteldirektor zum Schweigen
 und bestach einen der deutschen Kellner, damit er uns morgens
 hülfe, die Koffer ins Auto zu tragen.
 
-Alles klappte
+Alles klappte.
 
 <@pagebreak/>
 Das Auto jagte mit uns davon, zur Stadt hinaus — und
@@ -737,7 +737,7 @@ Witze machen oder … fluchen konnte. Letzteres verstand er
 <@pagebreak/>
 am besten … Das ist ja dem Leser auch längst bekannt, —
 von den acht Stearintropfen her, von jener erbaulichen Szene
-Her, wo Wilm Ollenprick das Fluchen feierlichst abschwor, um
+her, wo Wilm Ollenprick das Fluchen feierlichst abschwor, um
 dann doch schon nach zwölf Stunden zu beweisen, daß sein
 Vorrat an Kraftausdrücken unerschöpflich war … —
 
@@ -818,7 +818,7 @@ es unser Harst war?!«
 
 »Käpten, Gestank gehört eben mit zur Maske … Ein
 Bettler, der nach Lavendelseife duftet, findet wenig Glauben,
-was seine Echtheit betrifft …
+was seine Echtheit betrifft …«
 
 Und so stelzten wir denn unserem Fremdenheim zu, gaben
 scharf acht, ob auch wirklich niemand hinter uns her sei …
@@ -886,7 +886,7 @@ Jetzt … flüsterte er …
 <@pagebreak/>
 »Wer war denn das?!«
 
-Ich hatte anderes zu tun … Ich öffnete den frisch Zugeklebten
+Ich hatte anderes zu tun … Ich öffnete den frisch zugeklebten
 Umschlag, der keine Adresse zeigte, und zog den
 Zettel hervor …
 
@@ -958,7 +958,7 @@ den Schrank ab. Den Schlüssel steckte ich ein.
 Schon eine halbe Stunde drauf saßen wir mit unserem
 Gepäck in einem Auto …
 
-Eine ähnliche Komödie wie in Genua begann. Wir Verließen
+Eine ähnliche Komödie wie in Genua begann. Wir verließen
 Madras, schickten das Auto von einem Rasthause zurück
 und bestellten telephonisch ein anderes Auto, das uns —
 jetzt so, wie Wilm Ollenprick und Max Schraut in Wirklichkeit
@@ -1089,7 +1089,7 @@ nur ganz flüchtig gesprochen, einmal an Bord des Columbus
 und das zweite Mal in Madras am Kai — vor rund acht
 Stunden …
 
-Ich also Hinein in die Kajüte und die Tür zur Nebenkabine
+Ich also hinein in die Kajüte und die Tür zur Nebenkabine
 vorsichtig geöffnet …
 
 Hier in diesem kleinen Nebenraum hatten Harald und ich
@@ -1179,7 +1179,7 @@ noch eine der elegantesten Halbweltdamen Hamburgs geheiratet
 hatte, was damals im Jahre 1907 in der berühmten
 Hansestadt einen ungeheuren Skandal hervorgerufen hatte …
 <@pagebreak/>
-— Zu diesem Peter MargenbeckX begab sich nunmehr Harst
+— Zu diesem Peter Margenbeck begab sich nunmehr Harst
 und ließ sich vorsichtshalber als Schiffskapitän unter anderem
 Namen melden, erzählte dem durch die Erbschaft zum Millionär
 gewordenen eine gut erfundene Geschichte, und zwar des
@@ -1203,7 +1203,7 @@ Harst entlassen.
 Aber — 	— kaum war er die Straße, in der das alte
 Patrizierhaus der Margenbecks sich erhebt, ein Stück entlanggeschritten,
 als er auch schon feststellte — womit er
-Übrigens gerechnet hatte —, daß Peter Margenbeck ihm heimlich
+übrigens gerechnet hatte —, daß Peter Margenbeck ihm heimlich
 folgte. Nachher bemerkte er auch noch zwei andere Leute,
 die ihn dauernd belauerten, und dies mit einer Geschicklichkeit,
 daß es selbst ihm nicht gelang, die Verfolger abzuschütteln
@@ -1238,7 +1238,7 @@ in aller Stille eine mittelgroße Jacht gemietet — von einem
 Bekannten von mir … angeblich zu einer Kreuzfahrt — für
 eine Woche … Ich mußte Harald für diesen Bekannten —
 es ist der holländische Kapitän Diemenbrook, und die Jacht
-Heißt Ostindia — eine Empfehlung schreiben. Nun wissen
+heißt Ostindia — eine Empfehlung schreiben. Nun wissen
 wir ja, wozu Harst diesen Wisch Papier haben wollte …
 Natürlich, um auf der Ostindia sich einschmuggeln zu können
 … Was in jedem Falle ein Leichtsinn ist, denn Diemenbrooks
@@ -1291,8 +1291,8 @@ gibt es in den Tropen nicht. Mit einem Schlage wird es
 dunkel … —
 
 Die Matrosen hatten die vorschriftsmäßigen Laternen
-angezündet … Die Nacht hatte eine frische Brise herbei-
-gezaubert … Die Segel der »Lady« waren prall gefüllt,
+angezündet … Die Nacht hatte eine frische Brise herbeigezaubert
+… Die Segel der »Lady« waren prall gefüllt,
 und vor unserem Kiel schäumten und sprühten die langen
 Wogen des weiten Meerbusens von Bengalen …
 
@@ -1309,8 +1309,8 @@ Und — — anderthalb Tage noch verstrichen uns in derselben
 Weise …
 
 <@pagebreak/>
-Dann meinte Ollenprick, wir sollten jetzt in langen Schlä-
-gen kreuzen und scharf nach allen Seiten Ausschau halten.
+Dann meinte Ollenprick, wir sollten jetzt in langen Schlägen
+kreuzen und scharf nach allen Seiten Ausschau halten.
 
 Drei Stunden später, gegen acht Uhr abends, brüllte
 Paratu von der Spitze des Mastes herab:
@@ -1324,8 +1324,8 @@ Ollenprick war auf das Kajütendeck geklettert …
 Es war … seine Insel …!!
 
 Aber der Wind schlief jetzt plötzlich ein, und so mußten
-wir denn mit dem Motor uns bedächtig dem Eiland zu-
-treiben lassen …
+wir denn mit dem Motor uns bedächtig dem Eiland zutreiben
+lassen …
 
 Ehe wir es noch auf zwei Seemeilen vor uns hatten, war
 die Nacht da …
@@ -1428,7 +1428,7 @@ Ich lauschte …
 
 Draußen im Schiffsgang vor unserer Kammer alles still.
 
-Man hatte uns in aller Eile hierher gebracht ... So
+Man hatte uns in aller Eile hierher gebracht … So
 eilig, daß man sich nicht einmal Zeit ließ, uns die Taschen
 zu leeren …
 
@@ -1502,9 +1502,9 @@ Ich erkannte ein helles Frauengewand, zwei hell gekleidete
 Männer … Sie saßen in Korbsesseln halb hinter dem recht
 hohen Oberlichtaufbau …
 
-OllenprickX flüsterte mir zu:
+Ollenprick flüsterte mir zu:
 
-»Seine Sorge, — sie kehren uns den Rücken zu …!"
+»Seine Sorge, — sie kehren uns den Rücken zu …!«
 
 Oh — er hatte doch die besseren Augen, der alte Käpten!
 
@@ -1536,8 +1536,7 @@ Geräusch vermeiden …
 
 Ich warnte Ollenprick …
 
-»Keine Angst!« hauchte er zurück. »Ich werde nichts ver-
-derben!«
+»Keine Angst!« hauchte er zurück. »Ich werde nichts verderben!«
 
 Wir krochen — förmlich Zentimeter für Zentimeter …
 
@@ -1551,7 +1550,7 @@ Ein ironisches Auflachen des Weibes …
 
 »Wir haben uns ganz umsonst Gedanken gemacht —
 ganz überflüssiger Weise!« meinte sie spöttisch. »Der gute
-Peter leidet ja noch immer an jener Krankheit, die Nur
+Peter leidet ja noch immer an jener Krankheit, die nur
 schwache Naturen befällt — an Gewissensqualen!! Lächerlich
 ist das!! Das macht nervös und überempfindlich! Was soll
 uns jetzt noch zustoßen? Die beiden Berühmtheiten haben wir
@@ -1592,8 +1591,8 @@ und eine ganze Schiffsbesatzung beseitigt, hatte nur die
 Kinder und die beiden Australneger am Leben gelassen! Des
 Geldes, der Erbschaft wegen!! So mußte es sein — — mußte!!
 
-Wie oft hatte mich Harald vor voreiligen Schlüssen ge-
-warnt …!
+Wie oft hatte mich Harald vor voreiligen Schlüssen gewarnt
+…!
 
 Und die Zukunft lehrte, daß vieles, vieles an diesem
 Problem »Wilm Ollenpricks Insel« ganz, ganz anders war,
@@ -1693,7 +1692,7 @@ sich im Mittelpunkte des felsigen und dicht bewaldeten
 Eilandes ein Binnensee oder ein größeren Sumpf, von dem
 diese feuchten Schleier stammten.
 
-Ich drang nun zunächst tiefer in das Dicht ein, um an
+Ich drang nun zunächst tiefer in das Dickicht ein, um an
 die Grenze des Urwaldes zu gelangen, der sich am Südufer
 der Bucht bis auf wenige Meter an die Steilküste heranzog.
 Auf diesen Punkt hatte ich es abgesehen. Wenn wir dort
@@ -1744,9 +1743,9 @@ aufwärts …
 Und mit einem Male bemerkte ich dann rechts von mir
 eine dunkle, viereckige Masse, — tatsächlich eine aus immergrünen
 Zweigen geflochtene Hütte, die so geschickt angelegt
-War, daß man sie unmöglich weder von unten noch von der
-Bucht aus sehen konnte, obwohl die Plattform von Bambus-
-Stangen, auf der sie ruhte, nach Westen zu, also nach der
+war, daß man sie unmöglich weder von unten noch von der
+Bucht aus sehen konnte, obwohl die Plattform von Bambusstangen,
+auf der sie ruhte, nach Westen zu, also nach der
 Bucht hin lag …
 
 Ich schwang mich auf die Plattform hinauf und konnte
@@ -1758,8 +1757,8 @@ Schob mich näher heran …
 
 Betastete die Tür …
 
-Da war ein Holzriegel — ganz primitiv … Er war zu-
-geschoben … Mithin mußte diese Baumvilla leer sein …
+Da war ein Holzriegel — ganz primitiv … Er war zugeschoben
+… Mithin mußte diese Baumvilla leer sein …
 
 Ich öffnete den Riegel, zog die Tür auf …
 
@@ -1957,8 +1956,8 @@ Margenbecks …
 
 Der Jüngling war bis auf ein Affenfell um die Lenden
 völlig nackt. Das blonde Haar hatte er zu einem Schopf
-losgebunden und mit Muschel- und Perlenschnüren durch-
-flochten …
+losgebunden und mit Muschel- und Perlenschnüren durchflochten
+…
 
 <@pagebreak/>
 Das Mädchen trug eine Art Mantel von Affenfell, dazu
@@ -2053,7 +2052,7 @@ Ich begann mit Kapitän Ollenpricks Abenteuer …
 Aha — darauf besannen die Geschwister sich, daß hier vor
 vielen Jahren ein Deutscher hatte landen wollen …
 
-»Ja,« nickte Ozeana eifrig, >>— damals lebten Jupp und
+»Ja,« nickte Ozeana eifrig, »— damals lebten Jupp und
 Strupp noch …!«
 
 Und ich berichtete weiter: von Harald und mir, — daß
@@ -2070,10 +2069,10 @@ Ich fuhr fort:
 
 <@pagebreak/>
 »So kamen wir nach Madras … Und in Madras ereignete
-sich folgendes …"
+sich folgendes …«
 
 Ich erzählte von Lydia Margenbeck, die neben uns gewohnt
-und die wir in den Schrank eingeschlossen hatten ...
+und die wir in den Schrank eingeschlossen hatten …
 Ich schilderte die bisherigen Vorgänge hier auf der Insel …
 Und meine beiden Zuhörer unterbrachen mich nicht mehr …
 Sie glaubten mir …
@@ -2123,7 +2122,7 @@ Anregung wenigstens eine Zigarre hätte anzünden können!!
 Aber ich hatte vorhin nachgesehen und festgestellt, daß die
 schönen braunen Nikotinnudeln sämtlich derart zerbröckelt
 waren, daß nicht mal ein Stummel hätte zurechtgestutzt werden
-können ...
+können …
 
 Und so mit zitternden Knien schaute ich durch die grünen
 Zweige auf die Bucht hinab …
@@ -2136,8 +2135,7 @@ Und dann … rieb ich mir die Augen …
 
 Rieb sie mir immer wieder …
 
-War ich denn mit einem Male etwa hühnerblind ge-
-worden?!
+War ich denn mit einem Male etwa hühnerblind geworden?!
 
 Wo waren die Jacht und der Kutter?!
 
@@ -2162,13 +2160,13 @@ Fahrzeuge nicht zu erklären …
 
 Dann meinte der Jüngling:
 
-»Ich werde zur Ostbucht eilen »… Ich bin in kurzem zurück."
+»Ich werde zur Ostbucht eilen … Ich bin in kurzem zurück.«
 
 Inzwischen hatte ich mir die Sache jedoch von allen
 Seiten gründlich überlegt und erklärte, daß es ratsamer wäre,
 die Baumhütte zunächst nicht zu verlassen …
 
-»... Denn ich nehme an, daß Peter Margenbeck vielleicht
+»… Denn ich nehme an, daß Peter Margenbeck vielleicht
 auf den hinterlistigen Gedanken gekommen ist, mit beiden
 Fahrzeugen die Insel zum Schein zu verlassen, während hier
 ein paar Leute heimlich zurückblieben, die euch beide und uns
@@ -2327,7 +2325,7 @@ Mir war zumute, als ob ich all dies nur träumte …
 Und der Jüngling fügte hinzu:
 
 »Die Toten habe ich in den Abgrund neben meiner Grotte
-Geworfen … Dort in der Tiefe rauscht ein unterirdisches
+geworfen … Dort in der Tiefe rauscht ein unterirdisches
 Wasser und nimmt die Leichen mit …«
 
 »Ja,« sagte Ozeana ernst, »dort hinein verschwanden auch
@@ -2348,11 +2346,11 @@ Schmerzliches und Entsetzliches durchgemacht haben
 mußten …
 
 Die volle Wahrheit war mir noch fremd. Aber das, was
-Diese jungen Gemüter so weit verhärtet haben mußte, konnte
+diese jungen Gemüter so weit verhärtet haben mußte, konnte
 nur geradezu Grauenvolles gewesen sein. —
 
 Kein Wunder, daß der alte Ollenprick, dem wohl doch
-Das Verständnis für all diese traurigen Dinge abging, jetzt
+das Verständnis für all diese traurigen Dinge abging, jetzt
 wie in väterlicher Entrüstung Ozeanas Hand ergriff und
 eindringlich rief:
 
@@ -2366,7 +2364,7 @@ Der erstaunte Blick Ozeanas verschlug ihm jäh die Rede.
 Worte anderes beurteilen, wenn du … meine Mutter gesehen
 hast …« — Dann wandte sie sich an den Bruder …
 »Gehen wir zu deiner Grotte … Wir haben jetzt nichts mehr
-Zu fürchten … Die beiden deutschen Landsleute scheinen nicht
+zu fürchten … Die beiden deutschen Landsleute scheinen nicht
 <@pagebreak/>
 zu begreifen, daß wir ein heiliges Recht haben, Vergeltung
 zu üben …«
@@ -2404,8 +2402,8 @@ aber von trügerischen Brücken von Planzengewirr und Moos
 Ozeana deutete stumm auf diese Kluft …
 
 Wir beide traten näher, beugten uns herab, und vernahmen
-in der Tiefe tatsächlich ein dumpfes Rauschen, ohne je-
-doch trotz der Tageshelle etwas von dem dort unten fließenden
+in der Tiefe tatsächlich ein dumpfes Rauschen, ohne jedoch
+trotz der Tageshelle etwas von dem dort unten fließenden
 Wasser wahrnehmen zu können …
 
 Also dies war der Abgrund, in dem die Australneger und
@@ -2510,7 +2508,7 @@ Wir besprachen nun ganz eingehend, was abends geschehen
 sollte …
 
 Was wir beschlossen, ersieht der Leser aus den späteren
-Vorgängen,
+Vorgängen.
 
 Nachher holten Ollenprick und ich den fehlenden Nachtschlaf
 droben in der Baumhütte gründlich nach, wo wir ganz
@@ -2584,7 +2582,7 @@ hinfällig geworden … Die beiden Fahrzeuge hatten die Insel
 verlassen gehabt …
 
 Meine Sorge um den Freund war daher gewiß nicht
-grundlos … Was alles konnte inzwischen geschehen sein ...!!
+grundlos … Was alles konnte inzwischen geschehen sein …!!
 Man konnte seine Maske durchschaut haben, man konnte ihn
 längst beseitigt haben! War es Peter Margenbeck und seinem
 Anhang nicht recht gut zuzutrauen, daß sie den Kutter
@@ -2651,7 +2649,7 @@ Sie sprachen erregt miteinander … Neben ihnen brannte
 eine Schiffslaterne … Ich konnte ihre Gesichter erkennen …
 Ich hörte den Jüngling Neptun neben mir keuchend flüstern:
 
-»oh — — wenn sie sich doch an Land wagen wollten!!
+»Oh — — wenn sie sich doch an Land wagen wollten!!
 Wenn sie es nur täten …!!«
 
 Und ich spürte den Rachedurst in dieser zitternden Stimme.
@@ -2659,7 +2657,7 @@ Und ich spürte den Rachedurst in dieser zitternden Stimme.
 Die drei aber blieben, schauten immer wieder nach denen
 aus, die nicht mehr auftauchen konnten …
 
-Warteten ...
+Warteten …
 
 Und meine Blicke hingen abwechselnd an Harald und den
 drei Gestalten am Heck …
@@ -2698,7 +2696,7 @@ Das Signal!!
 
 Neben mir des Jünglings frohlockende Stimme:
 
-»Kampf — — Kampf ...!!«
+»Kampf — — Kampf …!!«
 
 Und links von mir Ozeana nicht minder freudig:
 
@@ -2891,7 +2889,7 @@ Jetzt drängte ich mich neben ihn, flüsterte:
 
 »Wir werden einen schweren Stand mit den Geschwistern
 haben … Sie wollen Richter und Henker in einer Person
-Spielen …«
+spielen …«
 
 »Warten wir ab, mein Alter … Es sind eben Wildlinge,
 <@pagebreak/>
@@ -2913,7 +2911,7 @@ Schweigen …
 
 Harst wandte sich dann dem Jüngling zu:
 
-»Was ist’s, das du deinem Onkel Peter MargenbeckX und
+»Was ist’s, das du deinem Onkel Peter Margenbeck und
 den beiden andern vorzuwerfen hast?«
 
 … So begann diese denkwürdige Gerichtssitzung …
@@ -2934,8 +2932,8 @@ bin so überaus glücklich, daß ich meinen geliebten Gatten
 mit Zwillingen beschenkt habe. Ich werde diese ferne, fremde
 Stadt, in der ich Mutter wurde, stets lieb behalten. Johannes
 ist fast närrisch vor Freude. Am liebsten würde er den ganzen
-Tag über an meinem Bette sitzen und unsere Kinder be-
-wundern. Ich bin wirklich sehr, sehr glücklich.
+Tag über an meinem Bette sitzen und unsere Kinder bewundern.
+Ich bin wirklich sehr, sehr glücklich.
 
 Den 10. Dezember. — Heute bin ich zum ersten Male
 <@pagebreak/>
@@ -2981,8 +2979,8 @@ und ich haben beschlossen, mit den Kindern und den
 beiden Negern hier auf der Insel zu bleiben, da man uns
 als Leprakranke doch in Deutschland internieren würde. Peter,
 <@pagebreak/>
-seine Frau und die Brüder Borell werden mit dem Groß-
-Boot der Jacht die indische Küste zu erreichen suchen. Steuermann
+seine Frau und die Brüder Borell werden mit dem Großboot
+der Jacht die indische Küste zu erreichen suchen. Steuermann
 Henning ist gestern verunglückt, fiel ins Wasser und
 wurde von einem Haifisch in die Tiefe gezogen. — Johannes,
 ich, die Kinder und die Jacht sollen als verschollen gelten …
@@ -3063,7 +3061,7 @@ ihre bleichen Lippen …
 Und nun — nun erhob ich meine Stimme, ich, Max
 Schraut …
 
-»Peter Margenbeck,« sagte ich mahnend, >>— Peter Margenbeck,
+»Peter Margenbeck,« sagte ich mahnend, »— Peter Margenbeck,
 Sie brauchen hier Ihre Frau und Ihren Schwager
 nicht zu schonen …! Aus ein paar Sätzen, die ich erlauscht
 <@pagebreak/>
@@ -3124,8 +3122,8 @@ führte …!! — —
 
 So kann ich denn hiermit die Schilderung dieses unseres
 <@pagebreak/>
-Abenteuers schließen, möchte aber doch noch darauf hin-
-weisen, daß ohne Zweifel das grauenvolle Verbrechen, das
+Abenteuers schließen, möchte aber doch noch darauf hinweisen,
+daß ohne Zweifel das grauenvolle Verbrechen, das
 an den Eltern der Geschwister begangen worden war, vielleicht
 noch viele Jahre oder gar für immer in Dunkel gehüllt
 geblieben wäre, wenn nicht Harst so zielbewußt und geistvoll
@@ -3134,7 +3132,7 @@ das Geheimnis von Wilm Ollenpricks Insel gelöst hätte …
 Daß die Geschwister Margenbeck dann bei entfernteren
 Verwandten in Hamburg Aufnahme fanden, daß sie als die
 Erben des großen Margenbeckschen Vermögens einer
-Sorgenlosen Zukunft entgegensehen, — all das dürfte dem
+sorgenlosen Zukunft entgegensehen, — all das dürfte dem
 Leser aus den Tageszeitungen bekannt sein.
 
 <#import "*/harst.ftl" as harst>
