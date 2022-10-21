@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-Das Geheimnis eines Grabes.
+<h1>Das Geheimnis eines Grabes.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Der Blonde und der Schwarze.</h3>
@@ -11,14 +11,16 @@ gesagt hatte, daß er diese Faulenzerei nicht länger ertrüge …
 Und zehn Minuten nach acht brachte die Köchin Mathilde
 uns einen soeben eingegangenen Brief …
 
-Ostseebad Arendsee, Mecklenburg,
-den 6. August 192 …
-Villa Anna, Seestraße. 6.
-Sehr geehrter Herr Harst,
+<p class="right">Ostseebad Arendsee, Mecklenburg,</p>
+<p class="right">den 6. August 192…</p>
+<p class="right">Villa Anna, Seestraße. 6.</p>
+<p class="centered">Sehr geehrter Herr Harst,</p>
+
 Sie werden es vielleicht frech von mir finden, daß ich es
 wage, Ihnen etwas mitzuteilen, wovon ich annehme, daß ein
-Geheimnis dahintersteckt. Freie — denn ich bin erst vierzehn
+Geheimnis dahintersteckt. Frech — denn ich bin erst vierzehn
 Jahre und Obertertianer.
+
 Ich wohne hier mit meiner älteren Schwester seit acht
 Tagen. Ich habe Grippe gehabt und soll mich erholen.
 Weil meine Schwester nun nicht viel gehen mag, habe
@@ -29,12 +31,12 @@ Vorgestern vormittag lag ich in den Dünen westlich von
 Arendsee.
 
 Mein Platz war insofern sehr günstig, als dort der Wald
-eine einzelne Reihe von Krüppelkiefern auf einem Dünens-wall
+eine einzelne Reihe von Krüppelkiefern auf einem Dünenwall
 bis wenige Meter an die äußerste Grenze der auslaufenden
-Wellen Forscher. Hier war ich eingeschlafen, und
+Wellen vorschickt. Hier war ich eingeschlafen, und
 erwachte plötzlich, richtete mich auf und merkte sofort, daß
 ich nicht sehr fest geschlafen haben konnte, denn ich erfaßte
-später) mit Auge und Verstand das Meriwürdige des …
+später mit Auge und Verstand das Merkwürdige des
 Bildes, das sich dort links von mir in einem Dünenkessel
 meinen Blicken darbot.
 
@@ -43,19 +45,19 @@ Dieses Bild, sehr geehrter Herr Harst, war folgendes:
 Der Dünenkessel war klein, aber tief, so daß nur jemand,
 der wie ich einen ziemlich hohen Standort hatte, die Frau
 beobachten konnte, die dort kniete und mit den Händen vor
-sich den seinen, leichten Seesand zur Seite schob.
+sich den feinen, leichten Seesand zur Seite schob.
 
 Jedenfalls befreite die Frau (sie trug ein spärliches
 Lodenkostüm, Lodenhut und grünen Schleier) den Deckel einer
-dunklen Kiste von der darüber gehäuften Farbschicht und
-klappte den Deckel dann empor. Eis war eine Kiste von!
+dunklen Kiste von der darüber gehäuften Sandschicht und
+klappte den Deckel dann empor. Es war eine Kiste von
 vielleicht zwei Meter Länge und sechzig Zentimeter Breite.
 Das sah ich genau.
 
 Und nun, Herr Harst, werden Sie vielleicht, wenn ich
 Ihnen jetzt mitteile, was die Kiste enthielt, annehmen, daß
-ich nur geträumt habe, zumal auch der Schluß meines Je
-Llebnisse8 recht seltsam war.
+ich nur geträumt habe, zumal auch der Schluß meines Erlebnisses
+recht seltsam war.
 
 In der Kiste lag ein Mensch, ein Mann.
 
@@ -68,7 +70,7 @@ Sand wieder über den Deckel und verwischte sorgfältig alle
 Spuren ihrer Anwesenheit. Hierauf schritt sie in den Wald
 Hinein und verschwand.
 
-Ich) hatte nicht die Absicht, ihr zu folgen, denn mich lockte
+Ich hatte nicht die Absicht, ihr zu folgen, denn mich lockte
 <@pagebreak/>
 es über alle Maßen, mir den Mann in der Kiste einmal
 genauer anzusehen.
@@ -82,15 +84,15 @@ Der Deckel zeigte sich mir nun aus dieser Nähe als dunkel
 gebeiztes Eichenholz. Oben auf dem Deckel war folgendes
 eingeschnitten:
 
-H. V;B; 4; 8; 4925.
+<p class="centered">H.v.B. 1.4.1925.</p>
 
 Darunter ein Kreuz und ein Palmenzweig. —
 
-Der Vershgluß des Deckels bestand aus einem einfachen
+Der Verschluß des Deckels bestand aus einem einfachen
 bronzierten Haken.
 
-Ich schlug also den Deckel hoch uns … fuhr erstaunt
-Flur 6-54
+Ich schlug also den Deckel hoch und … fuhr erstaunt
+zurück ...
 
 Denn: jetzt lag in der Kiste nicht ein Mann mit blondem
 Schnurrbart, sondern mit schwarzen, langen Vollbart …
@@ -108,7 +110,7 @@ hin.
 
 Um nun aber festzustellen, ob etwa unter diesem Toten
 in der schmalen Kiste noch ein zweiter, eben der Blondbärtige,
-liege, fühlte im mit der Hand in diesen primitiven Sarg
+liege, fühlte ich mit der Hand in diesen primitiven Sarg
 hinein.
 
 Nein — da war nur die eine Mumie! Nichts weiter.
@@ -122,20 +124,20 @@ Herr Harst. Ich hielt dies für richtiger, als mich hier in
 diesem Nest an die Ortspolizei zu wenden, die ja doch kein
 Verständnis für dies dunkle Geheimnis gehabt hätte.
 
-In! Übrigen, sehr geehrter Herr Harst, bin ich bis heute
-nicht wieder in der Nähe des geheimnisvollen Grabens sei —
+Im Übrigen, sehr geehrter Herr Harst, bin ich bis heute
+nicht wieder in der Nähe des geheimnisvollen Grabens ge-
 Wesen,
 
 Alles weitere überlasse ich Ihnen. Ich würde mich sehr
 freuen, wenn Sie mir eine Antwort zukommen ließen, was
 Sie von der Sache halten.
 
-Mit bestem Gruß
-Ihr Fritz Rummel,
-Obertertianer…
+<p class="centered">Mit bestem Gruß</p>
+<p class="right">Ihr Fritz Rummel,</p>
+<p class="right">Obertertianer.</p>
 
 <h2>2. Kapitel.</h2>
-<h3>WaSsFrißweitererzählte …</h3>
+<h3>Was Fritz weiter erzählte …</h3>
 
 Bereits mittags gondelten wir vom Stettiner Bahnhof
 ab … So, wie wir in Wirklichkeit aussahen, nicht maskiert,
@@ -143,7 +145,7 @@ aber inkognito.
 
 Und abends gegen acht wehte uns Seeluft um die Nase.
 
-Um Viertel neun hatten wir in der Villa Anna, See
+Um Viertel neun hatten wir in der Villa Anna, See-
 Straße 6, zwei Zimmer belegt, und um neun begegneten wir
 im Garten des Pensionats unserem Fritz Rummel.
 
@@ -159,7 +161,7 @@ Er saß auf einer Bank und pfiff ein Liedchen …
 
 Beäugte uns …
 
-Doppelte plötzlich) hoch …
+Schnellte plötzlich hoch …
 
 Sein etwas breit geratener Mund öffnete sich …
 
@@ -169,7 +171,7 @@ Dann — — ein freudiges:
 
 Da fiel Harald ihm schon ins Wort …
 
-»… Das sind die Kaufleute Herren und Schrack aus
+»… Das sind die Kaufleute Horter und Schrack aus
 Berlin, mein Junge! Vergiß das nicht!«
 
 Dann drückten wir ihm die Hand …
@@ -182,80 +184,80 @@ so freudig leuchten sehen …
 Wir setzten uns neben ihn auf die Bank, nahmen ihn in
 die Mitte.
 
-Oh — — war er jetzt stolz, der Spitze Rummel!!
+Oh — — war er jetzt stolz, der Fritze Rummel!!
 
-So zwischen Harst und Schraut, — 	— das war doch
-noch4 ’ne Sitzung!!
+So zwischen Harst und Schraut, — — das war doch
+noch ’ne Sitzung!!
 
 Und dann meinte Harald:
 
-»Junge, du siehst aber durchaus nicht erholungs8bedürftig
-aus
+»Junge, du siehst aber durchaus nicht erholungsbedürftig
+aus ..."
 
-Reiße griente …
+Fritze griente …
 
 »Weißt du etwas Neues? Du warst wohl heute dort
 in den Dünen, wie?!«
 
 Fritze starrte Harst an …
 
-»In! — allerdings … Ließen Sie’s?«
+»Hm — allerdings … Riechen Sie’s?«
 
-»Ja … Du Schaltest etwas nach Kampfer … Also mußt
+»Ja … Du duftest etwas nach Kampfer … Also mußt
 du dir vermutlich den primitiven Sarg wieder aus nächster
 Nähe angesehen haben …«
 
 »Stimmt, Herr Harst … Heute nachmittag sechs Uhr …
 Die Grünverschleierte war auch wieder da, und außerdem —
-außerdem war heute rote ein anderer Mann da — ein
+außerdem war heute noch ein anderer Mann da — ein
 lebender …«
 
 »Junge, das berichte mal etwas eingehender bitte … In
 der Kürze liegt nicht immer die Würze …«
 
-Fritze Rummel schlenderte mit den Beinen ö
+Fritze Rummel schlenkerte mit den Beinen ...
 
 <@pagebreak/>
-»Sie werden staunen, Herr Herren … staunen! — Ich
+»Sie werden staunen, Herr Horter … staunen! — Ich
 hatte mich also heute nachmittag wieder mal dort in mein
 »Lager« am Ende des Dünenwalles begeben, war kaum zehn
 Minuten dort, als die Grüne unter den Kiefern auftauchte …
 Alles wickelte sich jetzt genau so ab, wie beim ersten Male …
 In dem Kasten lag der Blondbärtige … Ich paßte genau auf
-… Und dann schloß die Grüne die Kiste wieder und Knisternde
+… Und dann schloß die Grüne die Kiste wieder und entfernte
 sich in den Wald — — genau wie das erstemal …
 Aber heute hatte ich mir vorgenommen, ihr auf jeden Fall
-nachzuschleichen … Daraus wurde nichts, denn — — andern
-kommt’s, Herr Herren — — Sie werden’s kaum glauben.«
+nachzuschleichen … Daraus wurde nichts, denn — — und
+nun kommt’s, Herr Horter — — Sie werden’s kaum glauben.«
 
-»Hm «.!!« meinte Harald … »Weshalb sollte ich dir
-nicht glauben, mein Junge!« Ei lächelte sein … »Vielleicht
+»Hm ...!!« meinte Harald … »Weshalb sollte ich dir
+nicht glauben, mein Junge!« Er lächelte fein … »Vielleicht
 weiß ich sogar schon, was du noch weiter hast …«
 
 »Verzeihen Sie schon, — das ist aber … unmöglich!«
 
-»Bogen gut … — Also — was erlebtest du noch? Sahst
-du etwa den Blonden aus dem geheimnisvollen Grase leids-haftig
-wandern?«
+»Schon gut … — Also — was erlebtest du noch? Sahst
+du etwa den Blonden aus dem geheimnisvollen Grabe leibhaftig
+wandeln?«
 
 Fritzens Augen wurden riesengroß …
 
 »Ja — ja, — mit einem Male tauchte ein Mann weit
 vor mir in den Dünen auf, gerade, als ich der verschleierten
-Frau folgen wollte … Da blieb ich denn in meinem Herz
+Frau folgen wollte … Da blieb ich denn in meinem 
 Versteck … Der Mann benahm sich sehr auffällig, drehte sich
 immer wieder um und näherte sich ganz allmählich meinem
 »Lager« … Und — mir wurde es ganz heiß und kalt, als
 ich nun sah, daß der Mann … einen blonden, dicken, herabhängenden
 Schnurrbart hatte, genau wie … wie der in der
-Sargkiste … Ich dachte mich in meinem Versteck ganz tief
+Sargkiste … Ich duckte mich in meinem Versteck ganz tief
 zusammen, ganz tief, ließ ihn vorüber und bin ihm dann
 nachgeschlichen …«
 
 »Das war sehr klug, lieber Fritz,« lobte Harald. »Wo
 blieb denn der Mann?«
 
-»Ja, denken Sie, Herr Harst, — er betrat eine der ersten
+»Ja, denken Sie, Herr Harst, — er betrat eins der ersten
 Häuser von Arendsee … Es ist leicht zu erkennen, liegt dicht
 an jener Stelle des Waldes, wo die vielen Erlen wachsen.«
 
@@ -267,30 +269,30 @@ er dort wohnt?«
 ist nur ein einstöckiges Häuschen und gehört einem Fischer. —
 Weil ich nun vermutete, der Mann sei ein Badegast, und
 weil das Häuschen die Bezeichnung Waldstraße 8 hat, ging
-im in das Lesezimmer des Kurhauses und sah die Turnte
-durch. Ich fand am 1. Juni bei Fischer Klemens, Wald
+ich in das Lesezimmer des Kurhauses und sah die Kurliste
+durch. Ich fand am 1. Juni bei Fischer Klemens, Wald-
 Straße 8, den Privatgelehrten John Rütter aus Berlin gemeldet
 — als einzigen Gast des Fischers …«
 
 »Bravo, mein Junge!! Damit hast du uns die Arbeit
 hier schon ganz wesentlich erleichtert … Nur darfst du jetzt
 nichts mehr auf eigene Faust unternehmen — verstanden!!
-Denn deine Beobachtungen, mein Lieder Fritz, scheinen mir
+Denn deine Beobachtungen, mein lieber Fritz, scheinen mir
 sehr stark auf ein verbrecherisches Unternehmen hinzudeuten
-— sehr stark! Welcher Art dieses Verbrechen ist, 1lä3t sich
+— sehr stark! Welcher Art dieses Verbrechen ist, läßt sich
 schwer sagen … Jedenfalls kein alltägliches. Im Gegenteil,
 wir dürften es hier ohne Zweifel mit Leuten zu tun haben,
 die mit außerordentlicher Vorsicht ihre wahren Absichten in
 Dunkel zu hüllen wissen, und die, wenn sie sich irgendwie
 bedroht sehen, sicherlich zu den äußersten Mitteln greifen, um
 ihre dunklen Pläne zu schützen … — Nochmals also, mein
-Junge: Nur mit uns zusammen kümmerst du dicht nunmehr
+Junge: Nur mit uns zusammen kümmerst du dich nunmehr
 um das seltsame Grab!«
 
 »Jawohl, Herr Harst … Auf mich ist Verlaß,« erklärte
 Fritze Rummel sehr ernst.
 
-»Gut, dann wollen wir uns für heute Lebewohl sagen! See
+»Gut, dann wollen wir uns für heute Lebewohl sagen ...
 Gute Nacht, kleiner Verbündeter … Wir gehen noch ins
 Kurhaus zum Abendschoppen …« —
 
@@ -304,7 +306,7 @@ ein wenig zu erörtern.
 
 Schweigend bummelten wir am Kurhause vorüber …
 
-Schweigend auf den Besitzers, wo an diesem herrlich
+Schweigend auf den Seesteeg, wo an diesem herrlich
 <@pagebreak/>
 milden, windstillen Augustabend eine ganze Menge Kurgäste
 promenierten …
@@ -313,17 +315,17 @@ Bis zur Spitze, wo unter uns die See leise schäumte und
 gurgelte …
 
 Hier beobachteten wir, wie in den Villen von Arendsee
-und Brunshaupten (das Nachbarbach allmählich einzelne
-Fenster hell wurden und wie auf« die Nacht langsam sich
+und Brunshaupten (das Nachbarbad) allmählich einzelne
+Fenster hell wurden und wie auch die Nacht langsam sich
 über Meer und Land ausgebreitete … In diesem Halbdunkel
 schwebten wie weiße Pünktchen zahllose Möwen, ließen sich
--.auf die See hinab und täuschten hier, dicht zusammengedrängt,
+auf die See hinab und täuschten hier, dicht zusammengedrängt,
 Weiße Flecken vor …
 
 Und plötzlich sagte Harald da ganz von selbst:
 
 »Bilde dir nicht ein, lieber Alter, daß ich mir über diesen
-Tal! bereits eine Theorie gebildet habe … Wenn ich vorhin
+Fall bereits eine Theorie gebildet habe … Wenn ich vorhin
 erriet, daß der Blonde lebend wieder aufgetaucht sei, so
 war’s tatsächlich ein Schuß ins Blaue, nichts weiter …«
 
@@ -334,11 +336,11 @@ ins Blaue gelängen! Leider, leider geschieht das sehr selten.«
 
 »Nun,« meinte er gutmütig auflachend, »so ganz war’s
 ja doch nicht ins Blaue hineingezielt. Denn wenn man Fritz
-Rummels Erlebnisse genau zergliedert, muß man ja nots-wendig
+Rummels Erlebnisse genau zergliedert, muß man ja notwendig
 auf die Vermutung kommen, daß dieser Kistensarg
-lediglich den Eingang zu irgendeinem in den Dünen ans
+lediglich den Eingang zu irgendeinem in den Dünen an-
 gelegten unterirdischen Versteck vorstellt, und daß der Blonde,
-der nachher nicht mehr in der Kiste lag, einen zweiten Au22
+der nachher nicht mehr in der Kiste lag, einen zweiten Aus-
 Gang benutzt hat. — Immerhin, sehr merkwürdig bleibt dies
 alles in jedem Falle, da nicht recht einzusehen ist, weshalb
 wohl diese Leute bei der Anlage eines unterirdischen Schlupfwinkels
@@ -350,12 +352,12 @@ Dienste geleistet.« —
 … Und brach jäh ab …
 
 Da hatte unten am Bootsstege eins der Segelboote soeben
-»angelegt, das für Spazierfahrten der Kurgäste bestimmt war.
+angelegt, das für Spazierfahrten der Kurgäste bestimmt war.
 
 <@pagebreak/>
-Und — jetzt saß auch ich einen einzelnen Herrn, der
-eilends die dicht neben unserem Platte liegende Treppe hinabstieg,
-und in das Boot sprang, in dem sich Null ein junger,
+Und — jetzt sah auch ich einen einzelnen Herrn, der
+eilends die dicht neben unserem Platze liegende Treppe hinabstieg,
+und in das Boot sprang, in dem sich nur ein junger,
 sonngebräunter Fischer befand …
 
 Dieser Mann im grauen Sportanzug und Schlappmütze
@@ -363,7 +365,7 @@ hatte nun einen dicken, blonden, herabhängenden Schnurrbart.
 Gewiß — derartige Schnurrbärte gibt’s übergenug …
 
 Und doch erriet ich Haralds Gedanken und machte sie
-zu den meinen: der Herr war »der Blonde«!!!
+zu den meinen: der Herr war »der Blonde«!!
 
 Das Boot stieß vom Stege ab …
 
@@ -379,7 +381,7 @@ Am Bootsstege unten lagen noch zwei Segelboote …
 Wir wählten dasjenige, das einem alten, verwitterten,
 weißbärtigen Fischer gehörte …
 
-Harst sagte nur: »Jahren Sie uns spazieren … Steuern
+Harst sagte nur: »Fahren Sie uns spazieren … Steuern
 werde ich selbst … Wir verstehen etwas davon …«
 
 Sehr bald merkte ich, daß Harald gerade dieses Boot
@@ -399,15 +401,15 @@ ließ sich ahnungslos von Harald ausfragen …
 
 Ob er den Besitzer des Bootes dort drüben kenne?
 
-»30, daß es bei such’ Klemens…«
+»Jo, dat es dei jung’ Klemens…«
 
 »Und der Herr?«
 
-»Da! es all Klemens ein Badegast …«
+»Dat es oll Klemens sin Badegast …«
 
 »Der fährt wohl häufig?«
 
-»3 … daß es ’n Gekehrten … Bei fängt Leuchtquallen.«
+»Jo … dat es ’n Jeliehrter … Dei fängt Leuchtquallen.«
 
 <@pagebreak/>
 »Wie heißen Sie eigentlich?«
@@ -417,28 +419,28 @@ Ob er den Besitzer des Bootes dort drüben kenne?
 »Sagen Sie mal, Herr Drews, hat es hier in der Nähe
 mal alte Befestigungswerke gegeben?«
 
-»Im — man sechs, hat dort drüben am Strande mal
+»Hm — man secht, datt dort drüben am Strande mal
 ne Burg stand, Herr …«
 
-Er deutete mit der ’Sand etwa dorthin, wo das geheimnisvolle
+Er deutete mit der Hand etwa dorthin, wo das geheimnisvolle
 Grab liegen mußte …
 
-… Dort am Walde, Herr,« fügte er hinzu. »Der jetzige
-Wald »ist jung, steht noch seine die arg J39r7E: Vorher
-war dort Mischwald, Herr, — uralte Fugen, Eichen und
-Tannen — turmhoch … Das alles daß der Besitzer des
+"… Dort am Walde, Herr,« fügte er hinzu. »Der jetzige
+Wald ist jung, steht noch keine vierzig Jahre ... Vorher
+war dort Mischwald, Herr, — uralte Buchen, Eichen und
+Tannen — turmhoch … Das alles hat der Besitzer des
 Gutes Zweilinden wegschlagen lassen. Er brauchte Geld,
-Herr … Ich besinne mich voll auf den alten Wald …
+Herr … Ich besinne mich noch auf den alten Wald …
 Das war eine Pracht …!«
 
 »Wem gehört denn Zweilinden?«
 
 »Den Baronen von Struvesund, einer früher dänischen
-Sämtlich? … Jetzt lebt nur noch die Baronesse Helga von dem
+Familie … Jetzt lebt nur noch die Baronesse Helga von dem
 ganzen Geschlecht …«
 
 »So … so … Wir trafen heute nachmittag dort im
-Walde eine junge Dame im grünen Lodenostüm …«
+Walde eine junge Dame im grünen Lodenkostüm …«
 
 »Oh — das ist sie, das ist die Baronesse, Herr …«
 
@@ -446,8 +448,8 @@ Walde eine junge Dame im grünen Lodenostüm …«
 
 »Ja, Herr … Ein Mädchen mit dem Herzen auf dem
 rechten Fleck … Arbeitet für drei … Will das Gut wieder
-hochbringen … Ihr Großvater hat den schönen Wald Kerl
-unterschlagen lassen, und ihr Vater war auch ein Verscharrt
+hochbringen … Ihr Großvater hat den schönen Wald herunterschlagen
+lassen, und ihr Vater war auch ein Verschwen-
 der … Die Baronesse ist ganz aus der Art geschlagen, Herr.«
 
 Der Wind frischte auf …
@@ -457,9 +459,9 @@ Ich hörte andächtig zu und beobachtete das andere Boot.
 Fischer Jan Drews schielte nach links in die Finsternis
 hinein und brummte:
 
-»Da h3 he! Deckel!«
+»Da is hei wedder!«
 
-Und dieses »he!« gleich »er« bezog sich auf einen großen
+Und dieses »hei« gleich »er« bezog sich auf einen großen
 Schoner, der drüben in der Finsternis ohne Lichter auf den
 <@pagebreak/>
 Wellen trieb und den ich nur mit Hilfe des Krimstechers notdürftig
@@ -470,11 +472,11 @@ Laternen …
 
 Also — auf fauler Fahrt …
 
-Und an See fremden Schiff hatte des Blonden Boot
+Und an diesem fremden Schiff hatte des Blonden Boot
 angelegt …
 
 <h2>3. Kapitel.</h2>
-<h3>Ein Hochstapler ad.</h3>
+<h3>Ein Hochstapler a.D.</h3>
 
 Harald wandte sich an den Alten …
 
