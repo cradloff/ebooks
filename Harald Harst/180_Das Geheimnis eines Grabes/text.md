@@ -1,2977 +1,2819 @@
-<@pagebreak/>
- 
-<@pagebreak/>
-Der Deiekiiv
+<@pagebreak 3/>
 
-Rriminalerzählungen
+Das Geheimnis eines Grabes.
 
-JDaiter Rabel.
-
-.-
-
-Band 180:
-
-Das Geheimnis
-eines Grabes.
-
- 
-
-dS=530 NH 0 SL 0 S0 0 GBO S0 0 SW 0 E05 0 58
-
-Derlag moderner Cektüre G. m. b. H.
-B Berlin 26, Eliſabeth =Ufer 44 A
-<@pagebreak/>
-Nachdru> verboten. =-- Alle Rechte, einſchl. das Verfilmung83-
-recht, vorbehalten. -- Copyright 1926 by Verlag moderner
-Lektüre G. m, b.H., Berlin.
-
-„-
-
-Druck: P. Lehmann, G. m. b. H., Berlin.
-<@pagebreak/>
- 
-
-1. Kapitel.
-Der Blonde und der S<hwarze.
+<h2>1. Kapitel.</h2>
+<h3>Der Blonde und der Schwarze.</h3>
 
 Das war an jenem Tage, als Harald morgens zu mir
-geſagt hatte, daß er dieſe Faulenzerei nicht länger ertrüge ...
+gesagt hatte, daß er diese Faulenzerei nicht länger ertrüge …
 
-Und zehn Minuten na< a<ht brachte die Köchin Mathilde
-uns einen ſoeben eingegangenen Brief ...
+Und zehn Minuten nach acht brachte die Köchin Mathilde
+uns einen soeben eingegangenen Brief …
 
-Oſtſeebad Arendſee, Me>lenburg,
-den 6. Auguſt 192..
-Villa Anna, Seeſtraße. 6.
-Sehr geehrter Herr Harſt,
-Sie werden es vielleiHt freHh von mir finden, daß ich es
-wage, Ihnen etwas mitzuteilen, wovon iH annehme, daß ein
-Geheimnis dahinterſte>t. FreH& =- denn ich bin erſt vierzehn
-Jahre und Obertertianer. 3
-Ich wohne hier mit meiner älteren Schweſter ſeit acht
-Tagen. I< habe Grippe gehabt und ſoll mich erholen.
-Weil meine Schweſter nun nicht viel gehen mag, habe
-Det. 180. 1
+Ostseebad Arendsee, Mecklenburg,
+den 6. August 192 …
+Villa Anna, Seestraße. 6.
+Sehr geehrter Herr Harst,
+Sie werden es vielleicht frech von mir finden, daß ich es
+wage, Ihnen etwas mitzuteilen, wovon ich annehme, daß ein
+Geheimnis dahintersteckt. Freie — denn ich bin erst vierzehn
+Jahre und Obertertianer.
+Ich wohne hier mit meiner älteren Schwester seit acht
+Tagen. Ich habe Grippe gehabt und soll mich erholen.
+Weil meine Schwester nun nicht viel gehen mag, habe
 <@pagebreak/>
-DSDSODOSSSD0OSDSES 1 DSSOSESSSOBDODOSSD
+ich mich immer allein am Strande und im Walde umhergetrieben.
 
-ic< mich immer allein am Strande und im Walde umher=
-getrieben.
+Vorgestern vormittag lag ich in den Dünen westlich von
+Arendsee.
 
-Vorgeſtern vormittag lag iM in den Dünen weſtlich von
-Arendſee.
-
-Mein Platz war inſofern ſehr günſtig, als dort der Wald
-eine einzelne Reihe von Krüppelkiefern auf einem Dünens=
-wall bis wenige Meter an die äußerſte Grenze der auss=
-laufenden Wellen vorſchi&t. Hier war ich eingeſchlafen, und
-erwachte plößlih, rihtete mich auf und merkte ſofort, daß
-ich nicht ſehr feſt geſchlafen haben konnte, denn ich erfaßte
-ſoglei) mit Auge und Berſtand das Meriwürdige des .
-Bildes, das ſich dort link8 von mir in einem Dünenkeſſel
+Mein Platz war insofern sehr günstig, als dort der Wald
+eine einzelne Reihe von Krüppelkiefern auf einem Dünens-wall
+bis wenige Meter an die äußerste Grenze der auslaufenden
+Wellen Forscher. Hier war ich eingeschlafen, und
+erwachte plötzlich, richtete mich auf und merkte sofort, daß
+ich nicht sehr fest geschlafen haben konnte, denn ich erfaßte
+später) mit Auge und Verstand das Meriwürdige des …
+Bildes, das sich dort links von mir in einem Dünenkessel
 meinen Blicken darbot.
 
-Dieſes Bild, ſehr geehrter Herr Harſt, war folgendes:
+Dieses Bild, sehr geehrter Herr Harst, war folgendes:
 
-Der Dünenkeſſel war klein, aber tief, ſo daß nur jemand,
-der wie ich einen ziemliß hohen Standort hatte, die Frau
+Der Dünenkessel war klein, aber tief, so daß nur jemand,
+der wie ich einen ziemlich hohen Standort hatte, die Frau
 beobachten konnte, die dort kniete und mit den Händen vor
-ji den feinen, leichten Seeſand zur Seite ſchob.
+sich den seinen, leichten Seesand zur Seite schob.
 
-Jedenfalls befreite die Frau (ſie trug ein grünliche3
-Lodenkoſtüm, Lodenhut und grünen Scleier) den Deckel einer
-dunklen Kiſie von der darüber gehäuften Sandſc<hi<ht und
-klappte den De>el dann empor. Es8 war eine Kiſte vont
-vielleiht zwei Meter Länge und ſechzig Zentimeter Breite.
-Das ſah ich genau.
+Jedenfalls befreite die Frau (sie trug ein spärliches
+Lodenkostüm, Lodenhut und grünen Schleier) den Deckel einer
+dunklen Kiste von der darüber gehäuften Farbschicht und
+klappte den Deckel dann empor. Eis war eine Kiste von!
+vielleicht zwei Meter Länge und sechzig Zentimeter Breite.
+Das sah ich genau.
 
-Und nun, Herr Harſt, werden Sie vielleicht, wenn ich
-Ihnen jetzt mitteile, was die Kiſte enthielt, annehmen, daß
-iM nur geträumt habe, zumal auc der Schluß meines GE
-Llebniſſe8 recht ſeltſam war.
+Und nun, Herr Harst, werden Sie vielleicht, wenn ich
+Ihnen jetzt mitteile, was die Kiste enthielt, annehmen, daß
+ich nur geträumt habe, zumal auch der Schluß meines Je
+Llebnisse8 recht seltsam war.
 
-In der Kiſte lag ein Menſch, ein Mann.
+In der Kiste lag ein Mensch, ein Mann.
 
-Ein Mann mit blondem Schnurrbart, Herr Harſt ...
+Ein Mann mit blondem Schnurrbart, Herr Harst …
 
-Die Frau beugte ſich über ihn und ſchien zu beten ...
+Die Frau beugte sich über ihn und schien zu beten …
 
-Dann klappte ſie den Kiſtende>el wieder zu, breitete den
-Sand wieder über den De>el und verwiſchte ſorgfältig alle
-Spuren ihrer Anweſenheit. Hierauf ſchritt ſie in den Wald
-Hinein und verſchwand.
+Dann klappte sie den Kistendeckel wieder zu, breitete den
+Sand wieder über den Deckel und verwischte sorgfältig alle
+Spuren ihrer Anwesenheit. Hierauf schritt sie in den Wald
+Hinein und verschwand.
 
-Ici) hatte nicht die Abſic<t, ihr zu folgen, denn mid) lockte
+Ich) hatte nicht die Absicht, ihr zu folgen, denn mich lockte
 <@pagebreak/>
-DSSSSESDSSESSS 5 0220 DSSSSESSSISE
+es über alle Maßen, mir den Mann in der Kiste einmal
+genauer anzusehen.
 
-es über alle Maßen, mir den Mann in der Kiſte einmal
-genauer anzuſehen.
+Ich ließ also etwa eine Viertelstunde verstreichen. Dann
+kroch ich aus meinem Versteck hervor und in das kleine
+Dünental, wo ich sehr bald den Deckel der Kiste freigelegt
+hatte …
 
-I< ließ alſo etwa eine Biertelſtunde verſtreichen. Dann
-kroH ich aus meinem VBerſte> hervor und in das kleine
-Dünental, wo ich ſehr bald den Dedel der Kiſte freigelegt
-haite ...
+Der Deckel zeigte sich mir nun aus dieser Nähe als dunkel
+gebeiztes Eichenholz. Oben auf dem Deckel war folgendes
+eingeschnitten:
 
-Der Dedel zeigte ſih mir nun aus dieſer Nähe als dunkel
-gebeiztes Eichenholz. Oben auf dem De>el war folgendes
-eingeſchnitten:
+H. V;B; 4; 8; 4925.
 
-H. V;B; 4; 8%; 4925.
+Darunter ein Kreuz und ein Palmenzweig. —
 
-Darunter ein Kreuz und ein Palmenzweig. =
+Der Vershgluß des Deckels bestand aus einem einfachen
+bronzierten Haken.
 
-Der Verſhgluß des De>els beſtand aus einem einfachen
-bronzterten Haden.
+Ich schlug also den Deckel hoch uns … fuhr erstaunt
+Flur 6-54
 
-IH ſc<lug alſo den De>el hoc< uns ... fuhr erſtannt
-ZULÜE 6-54
+Denn: jetzt lag in der Kiste nicht ein Mann mit blondem
+Schnurrbart, sondern mit schwarzen, langen Vollbart …
 
-Denn: jetzt lag in der Kiſte niht ein Mann mit blondem
-Schnurrbart, ſondern mit ſgwarzem, langen Boltbart ...
-
-Ein ſc<harfer Geruch nach Kampfer ſtieg mir in die Naſe
+Ein scharfer Geruch nach Kampfer stieg mir in die Nase
 und ließ meine Augen tränen.
 
-Ih jc<aute no<mals hin: Es war tatſächlich ein anderer
-Toter, Herr Harſt! Das nehme ich auf mein Ehrenwort, Herr
-Sarſt! :
+Ich schaute nochmals hin: Es war tatsächlich ein anderer
+Toter, Herr Harst! Das nehme ich auf mein Ehrenwort, Herr
+Harst!
 
-Und dieſe ſc<warzbärtige Leiche war ohne Zweifel als
-Mumie präpariert worden. Darauf wies ſchon der Kampfer=
-geruch hin.
+Und diese schwarzbärtige Leiche war ohne Zweifel als
+Mumie präpariert worden. Darauf wies schon der Kampfergeruch
+hin.
 
-Um nun aber feſtzuſtellen, ob etwa unter dieſem Toten
-in der ſchmalen Kiſte noc<h ein zweiter, eben der Blondbärtige,
-liege, fühlte im mit der Hand in dieſen primitiven Sarg
+Um nun aber festzustellen, ob etwa unter diesem Toten
+in der schmalen Kiste noch ein zweiter, eben der Blondbärtige,
+liege, fühlte im mit der Hand in diesen primitiven Sarg
 hinein.
 
-Nein -- da war nur vie eine Mumie! Nichts weiter.
-Und da habe ich den Sarg denn wieder geſchloſſen und den
-Sand darüber gebreitet. --
+Nein — da war nur die eine Mumie! Nichts weiter.
+Und da habe ich den Sarg denn wieder geschlossen und den
+Sand darüber gebreitet. —
 
-Anderthalb Tage überlegte ih mir nun, wa8 ich tun
-ſollte. Dann kam ich auf den Gedanken, an Sie zu ſchreiben,
-Herr Harſt. I< hielt dies fär richtiger, al8 mich hier in
+Anderthalb Tage überlegte ich mir nun, was ich tun
+sollte. Dann kam ich auf den Gedanken, an Sie zu schreiben,
+Herr Harst. Ich hielt dies für richtiger, als mich hier in
 <@pagebreak/>
-DSSSDSSSDSSD2SS 6 2DE8S00D2D20DS03OS
+diesem Nest an die Ortspolizei zu wenden, die ja doch kein
+Verständnis für dies dunkle Geheimnis gehabt hätte.
 
-dieſem Neſt an die Ort8polizei zu wenden, die ja doh kein
-Verſtändnis für dies dunkle Geheimnis gehabt hätte.
+In! Übrigen, sehr geehrter Herr Harst, bin ich bis heute
+nicht wieder in der Nähe des geheimnisvollen Grabens sei —
+Wesen,
 
-Int Übrigen, ſehr geehrter Herr Harſt, bin iM bis heute
-nicht wieder in der Nähe des geheimnisvollen Grabens ges -
-weſen,
-
-QLlles weitere überlaſſe ich Ihnen. I< würde mich ſehr
+Alles weitere überlasse ich Ihnen. Ich würde mich sehr
 freuen, wenn Sie mir eine Antwort zukommen ließen, was
 Sie von der Sache halten.
 
-Mit beſtem Gruß
-Ihr Friz Rummel,
-Obertertianer,.
+Mit bestem Gruß
+Ihr Fritz Rummel,
+Obertertianer…
 
-2. Rapitel.
-WaSsFrißweitererzählte...
+<h2>2. Kapitel.</h2>
+<h3>WaSsFrißweitererzählte …</h3>
 
-Bereit8 mittag8 gondelten wir vom Stettiner Bahnhof
-ab ... So, wie wir in Wirklichkeit ausſahen, nicht maskiert,
+Bereits mittags gondelten wir vom Stettiner Bahnhof
+ab … So, wie wir in Wirklichkeit aussahen, nicht maskiert,
 aber inkognito.
 
-Und abends gegen acht wehte uns Seeluft um die Naſe.
+Und abends gegen acht wehte uns Seeluft um die Nase.
 
 Um Viertel neun hatten wir in der Villa Anna, See
-ſtraße 6, zwei Zimmer belegt, und um neun begegneten wir
-im Garten des Penſionats unſerem Friz Rummel.
+Straße 6, zwei Zimmer belegt, und um neun begegneten wir
+im Garten des Pensionats unserem Fritz Rummel.
 
-Man ſah's ihm an, daß er „helle“ war ...
+Man sah’s ihm an, daß er »helle« war …
 
-War ſo einer von den modernen Obertertianern ==
-kräftig, ſportgeſtählt ...
+War so einer von den modernen Obertertianern —
+kräftig, sportgestählt …
 
-Gefiel uns auf den erſten Bli>, der Junge ...
+Gefiel uns auf den ersten Blick, der Junge …
+
 <@pagebreak/>
-200 S2DEBESSSDSS 7  DS20020DS08S05208509D
+Er saß auf einer Bank und pfiff ein Liedchen …
 
-Er ſaß auf einer Bank und pfiff ein Liedchen ...
+Beäugte uns …
 
-Beäugte uns ...
+Doppelte plötzlich) hoch …
 
-Scqnellte plötzlich) hoch .
+Sein etwas breit geratener Mund öffnete sich …
 
-Sein etwas breit geratener Mund öffnete ſih .
+Dann — — ein freudiges:
 
-Dann -- - ein freudiges:
+»Herr Gott, — das sind doch …«
 
-„Herr Gott, =- das ſind doh ...“
+Da fiel Harald ihm schon ins Wort …
 
-Da fiel Harald ihm ſchon ins Wort ...
+»… Das sind die Kaufleute Herren und Schrack aus
+Berlin, mein Junge! Vergiß das nicht!«
 
-„*.. Das ſind die Kaufleute Horter und Sc<hra>X aus
-Berlin, mein Iunge! Vergiß das nicht!“
+Dann drückten wir ihm die Hand …
 
-Dann drücdten wir ihm die Hand ...
+Er strahlte …
 
-Er ſtrahlte ...
+Noch nie habe ich ein stupsnasiges, keckes Jungengesicht
+so freudig leuchten sehen …
 
-Noch nie habe ich ein ſtups8naſiges, ke>e8 Jungengeſicht
-ſo freudig leuchten ſehen ...
-
-Wir ſetzten uns neben ihn auf die Bank, nahmen ihn in
+Wir setzten uns neben ihn auf die Bank, nahmen ihn in
 die Mitte.
 
-Oh - - war er jeßt ſtolz, der Frize Rummel!!
+Oh — — war er jetzt stolz, der Spitze Rummel!!
 
-So zwiſchen Harſt und Schraut, = = das war doch
-no<4 'ne Sitzung!!
+So zwischen Harst und Schraut, — 	— das war doch
+noch4 ’ne Sitzung!!
 
 Und dann meinte Harald:
 
-„Junge, du ſiehſt aber dur<aus nicht erholungs8bedürftig
+»Junge, du siehst aber durchaus nicht erholungs8bedürftig
 aus
 
-Friße griente ...
+Reiße griente …
 
-„Weißt du etwas Neue8? Du warſt wohl heute dort
-in den Dünen, wie?!“
+»Weißt du etwas Neues? Du warst wohl heute dort
+in den Dünen, wie?!«
 
-Fritze ſtarrte Harſt an ...
+Fritze starrte Harst an …
 
-„Int = allerding8 ... Riehen Sie'8?“
+»In! — allerdings … Ließen Sie’s?«
 
-„3a ... Du dDufteſt etwas nac Kampfer ... Alſo mußt
-du dir vermutlich den primitiven Sarg wieder aus nächſter
-Nähe angeſehen haben ...“
+»Ja … Du Schaltest etwas nach Kampfer … Also mußt
+du dir vermutlich den primitiven Sarg wieder aus nächster
+Nähe angesehen haben …«
 
-„Stimmt, Herr Harſt ... Heute nachmittag ſehs Uhr ...
-Die Grünverſchleierte war auch wieder da, und außerdem =
-außerdem war heute noF& ein anderer Mann da -- ein
-lebender ...“
+»Stimmt, Herr Harst … Heute nachmittag sechs Uhr …
+Die Grünverschleierte war auch wieder da, und außerdem —
+außerdem war heute rote ein anderer Mann da — ein
+lebender …«
 
-„Junge, das berichte mal etwas eingehenver bitte ... In
-der Kürze liegt niht immer die Würze ...“
+»Junge, das berichte mal etwas eingehender bitte … In
+der Kürze liegt nicht immer die Würze …«
 
-Fritze Rummel ſc<hlenkerte mit den Beinen ö
+Fritze Rummel schlenderte mit den Beinen ö
+
 <@pagebreak/>
-DSSSSSSSSSSS 3 B8E8808S080B0E8B20S
+»Sie werden staunen, Herr Herren … staunen! — Ich
+hatte mich also heute nachmittag wieder mal dort in mein
+»Lager« am Ende des Dünenwalles begeben, war kaum zehn
+Minuten dort, als die Grüne unter den Kiefern auftauchte …
+Alles wickelte sich jetzt genau so ab, wie beim ersten Male …
+In dem Kasten lag der Blondbärtige … Ich paßte genau auf
+… Und dann schloß die Grüne die Kiste wieder und Knisternde
+sich in den Wald — — genau wie das erstemal …
+Aber heute hatte ich mir vorgenommen, ihr auf jeden Fall
+nachzuschleichen … Daraus wurde nichts, denn — — andern
+kommt’s, Herr Herren — — Sie werden’s kaum glauben.«
 
-„Sie werden ſtaunen, Herr Horter ... ſiaunen! =- Ich
-hatte mich alſo heute nachmittag wieder mal dort in mein
-„Lager“ am Ende des Dünenwalles begeben, war kaum zehn
-Minuten dort, als die Grüne unter den Kiefern auftauchte ...
-Ulles wickelte ſich jezt genau ſo ab, wie beim erſten Niale ...
-In dem Kaſten lag der Blondbärtige ... I< paßie genau auf
-... Und dann ſc<loß die Grüne die Kiſte wieder und ents=
-fernte ſich in den Wald -- -- genau wie das erſtemal ...
-Aber heute hatte iH mir vorgenommen, ihr auf jeden Fall
-nachzuſhleihen ... Daraus wurde nichts, denn -- -- und-
-nun kommt's, Herr Horter = =- Sie werden'8 kaum glauben.“
+»Hm «.!!« meinte Harald … »Weshalb sollte ich dir
+nicht glauben, mein Junge!« Ei lächelte sein … »Vielleicht
+weiß ich sogar schon, was du noch weiter hast …«
 
-„Om „.!!“ meinte Harald ... „Weshalb ſollte i<ß dir
-nicht glauben, mein Junge!“ Ey läcelte fein ... „Vielleicht
-weiß ic) ſogar ſchon, was du nod) weiter haſt ...“
+»Verzeihen Sie schon, — das ist aber … unmöglich!«
 
-„Verzeiben Sie ſc<on, -- das iſt aber ... unmöglich!“
+»Bogen gut … — Also — was erlebtest du noch? Sahst
+du etwa den Blonden aus dem geheimnisvollen Grase leids-haftig
+wandern?«
 
-„Edqon gut ... = Alſo -- was erlebteſt du nog? GSahſt
-du etwa den Blonden aus dem geheimnisvollen Grave leids=
-haftig wandein?“
+Fritzens Augen wurden riesengroß …
 
-Fritzens AYugen wurden rieſengroß ...
+»Ja — ja, — mit einem Male tauchte ein Mann weit
+vor mir in den Dünen auf, gerade, als ich der verschleierten
+Frau folgen wollte … Da blieb ich denn in meinem Herz
+Versteck … Der Mann benahm sich sehr auffällig, drehte sich
+immer wieder um und näherte sich ganz allmählich meinem
+»Lager« … Und — mir wurde es ganz heiß und kalt, als
+ich nun sah, daß der Mann … einen blonden, dicken, herabhängenden
+Schnurrbart hatte, genau wie … wie der in der
+Sargkiste … Ich dachte mich in meinem Versteck ganz tief
+zusammen, ganz tief, ließ ihn vorüber und bin ihm dann
+nachgeschlichen …«
 
-„3a = ja, = mit einem Male tauchte ein Mann weit
-vor mir in den Dünen auf, gerade, als ic<ß der verſchleierten
-Frau folgen wollte ... Da blieb ich denn in meinem Berz
-ſte> ... Der Mann benahm ſich ſehr auffällig, drehte ſich
-immer wieder um und näherte ſich ganz allmählih meinem
-„Lager“ ... Und -=- mir wurde es ganz heiß und kalt, als
-ih nun ſah, daß der Mann ... einen blonden, dien, herab=
-hängenden Schnurrbart hatte, genau wie ... wie der in der
-Sargliſte ... IG du&te mich in meinem Berſte> ganz tief
-zuſammen, ganz tief, ließ ihn vorüber und bin ihm dann
-nachgeſchlihen ...“
+»Das war sehr klug, lieber Fritz,« lobte Harald. »Wo
+blieb denn der Mann?«
 
-„Das war ſehr klug, lieber Friß,“ lobte Harald. „Wo
-blieb denn der Mann?“
+»Ja, denken Sie, Herr Harst, — er betrat eine der ersten
+Häuser von Arendsee … Es ist leicht zu erkennen, liegt dicht
+an jener Stelle des Waldes, wo die vielen Erlen wachsen.«
 
-„3a, denken Sie, Herr Harjt, = er betrat ein3 der erſten
-Häuſer von Arendſee ... Es iſt leicht zu erkennen, liegt dicht
-an jener Stelle des Waldes, wo die vielen Erlen wachſen.“
 <@pagebreak/>
-DSSODSSGSSSSSSS 9) 8092020800 B8S8SBSEB3S
+»Also dieses Haus betrat der Mann … Meinst du, daß
+er dort wohnt?«
 
-„Alſo dieſes Haus betrat der Mann ... Meinſt du, daß
-er dort wohnt?“
+»Ja … Ich sah ihn ja am Fenster unten rechts … Es
+ist nur ein einstöckiges Häuschen und gehört einem Fischer. —
+Weil ich nun vermutete, der Mann sei ein Badegast, und
+weil das Häuschen die Bezeichnung Waldstraße 8 hat, ging
+im in das Lesezimmer des Kurhauses und sah die Turnte
+durch. Ich fand am 1. Juni bei Fischer Klemens, Wald
+Straße 8, den Privatgelehrten John Rütter aus Berlin gemeldet
+— als einzigen Gast des Fischers …«
 
-„3a ... Ih ſah ihn ja am Fenſter unten rechts ... Es
-iſt nur ein einſtöFiges Häu8<Hen und gehört einem Fiſcher. --
-Weil i<ß nun vermutete, der Mann ſei ein Badegaſt, und
-weil das Häus8c<hen die Bezeichnung Waldſtraße 8 hat, ging
-im in das Leſezimmer des Kurhauſes und ſah die Kurlijte
-durc<. Id fand am 1. Juni bei Fiſher Klemens, Wald
-ſtraße 8, den Privatgelehrten John Rütter aus Berlin ge»
-meldet -- als einzigen Gaſt des Fiſchers ...“
+»Bravo, mein Junge!! Damit hast du uns die Arbeit
+hier schon ganz wesentlich erleichtert … Nur darfst du jetzt
+nichts mehr auf eigene Faust unternehmen — verstanden!!
+Denn deine Beobachtungen, mein Lieder Fritz, scheinen mir
+sehr stark auf ein verbrecherisches Unternehmen hinzudeuten
+— sehr stark! Welcher Art dieses Verbrechen ist, 1lä3t sich
+schwer sagen … Jedenfalls kein alltägliches. Im Gegenteil,
+wir dürften es hier ohne Zweifel mit Leuten zu tun haben,
+die mit außerordentlicher Vorsicht ihre wahren Absichten in
+Dunkel zu hüllen wissen, und die, wenn sie sich irgendwie
+bedroht sehen, sicherlich zu den äußersten Mitteln greifen, um
+ihre dunklen Pläne zu schützen … — Nochmals also, mein
+Junge: Nur mit uns zusammen kümmerst du dicht nunmehr
+um das seltsame Grab!«
 
-„Bravo, mein Junge!! Damit haſt du un3 die Arbeit
-hier ſhon ganz weſentlich erleihtert ... Nur darfſt du jetzt
-nicht8 mehr auf eigene Fauſt unternehmen -- verſtanden!1!
-Denn deine Beobachtungen, mein lieder Fritz, ſcheinen mir
-ſehr ſtark auf ein verbrecheriſches Unternehmen hinzudeuten
--- ſehr ſtark! Welcher Urt dieſes Berbrechen ijt, 1lä3t ſich
-ſ<wer ſagen ... Jedenfalls kein alltäglihes. Im Gegenteil,
-wir dürſten e8 hier ohne Zweifel mit Leuten zu tun haben,
-die mit außerordentliher Borſiht ihre wahren Abſichten in
-Dunkel zu hüllen wiſſen, und die, wenn ſie ſich irgendwie
-bedroht ſehen, ſiherlich zu den äußerſten Mitteln greifen, um
-ihre dunklen Pläne zu ſchützen ... =- Nochmals alſo, mein
-Junge: Nur mit uns zuſammen kümmerſt du di<ß nunmehr
-um das ſeltſame Grab!“ j
+»Jawohl, Herr Harst … Auf mich ist Verlaß,« erklärte
+Fritze Rummel sehr ernst.
 
-„Jawohl, Herr Harſt ... Auf mich iſt Berlaß,“ erklärte
-Fritze Rummel ſehr ernſt.
+»Gut, dann wollen wir uns für heute Lebewohl sagen! See
+Gute Nacht, kleiner Verbündeter … Wir gehen noch ins
+Kurhaus zum Abendschoppen …« —
 
-„Gut, dann wollen wir uns für heute Lebewohl ſagen | HES
-Gute Nacht, kleiner Berbündeter ... Wir gehen noch ins
-Kurhaus zum Übendſchoppen ...“ = ;
+Zum Abendschoppen?!
 
-Zum Abendſc<hoppen?!
+Harald Harst und Bierphilister?!
 
-Harald Harſt und Bierphiliſter?! '
+Und als wir dann die Seestraße hinabschritten, hielt ich
+den rechten Augenblick für gekommen, um den Fall »Kistengrab«
+ein wenig zu erörtern.
 
-Und als wir dann die Seeſtraße hinabſchritten, hielt iG
-den rechten Rugenbli> für gekommen, um den Fall „Kiſten»
-grab“ ein wenig zu erörtern.
+Schweigend bummelten wir am Kurhause vorüber …
 
-Schweigend bummelten wir am Kurhauſe vorüber ...
-
-G&weigend auf den Seeſteeg, wo an dieſem herrlich
+Schweigend auf den Besitzers, wo an diesem herrlich
 <@pagebreak/>
-DSSSSDSIDIDSSSS 10 D9SES S0 BD0SSSDEDIS
+milden, windstillen Augustabend eine ganze Menge Kurgäste
+promenierten …
 
-milden, windſtillen Auguſtabend eine ganze Menge Kurgäſte
-promenierten .
+Bis zur Spitze, wo unter uns die See leise schäumte und
+gurgelte …
 
-Vis zur Spitze, wo unter uns die See leiſe ſhäumte und
-gurgelte ...
+Hier beobachteten wir, wie in den Villen von Arendsee
+und Brunshaupten (das Nachbarbach allmählich einzelne
+Fenster hell wurden und wie auf« die Nacht langsam sich
+über Meer und Land ausgebreitete … In diesem Halbdunkel
+schwebten wie weiße Pünktchen zahllose Möwen, ließen sich
+-.auf die See hinab und täuschten hier, dicht zusammengedrängt,
+Weiße Flecken vor …
 
-Hier beobachteten wir, wie in den Villen von Arendſee
-und Brunshaupten (das Nachbarbad) allmählich einzelne
-Fenſter hell wurden und wie aur“ die Nacht langſam ſi<h
-über Meer und Land ausSsbreitete ... In dieſem Halbdunkel
-ſchwebten wie weiße Pünktchen zahlloſe Möwen, ließen ſich
--.auf die See hinab und täuſchten hier, dicht zuſammengedrängt,
-Weiße Fle>en vor ...
+Und plötzlich sagte Harald da ganz von selbst:
 
-Und plößtlich ſagte Harald da ganz von ſelbſt: :
-
-„Bilde dir nicht ein, lieber Alter, daß ich mir über dieſen
-Tall bereits eine Theorie gebildet habe ... Wenn i<h vorhin
-erriet, daß der Blonde lebend wieder aufgetau<t ſei, ſo
-war's tatſjählih ein Schuß ins Blaue, nichts weiter ...“
+»Bilde dir nicht ein, lieber Alter, daß ich mir über diesen
+Tal! bereits eine Theorie gebildet habe … Wenn ich vorhin
+erriet, daß der Blonde lebend wieder aufgetaucht sei, so
+war’s tatsächlich ein Schuß ins Blaue, nichts weiter …«
 
 Und ich:
 
-„IH wünſchte, Harald, daß mir ebenfalls ſolhe Schüſſe
-ins Blaue gelängen! Leider, leider geſchieht das ſehr ſelten.“
+»Ich wünschte, Harald, daß mir ebenfalls solche Schüsse
+ins Blaue gelängen! Leider, leider geschieht das sehr selten.«
 
-„Nun,“ meinte er gutmütig auflachend, „ſo ganz war's
+»Nun,« meinte er gutmütig auflachend, »so ganz war’s
 ja doch nicht ins Blaue hineingezielt. Denn wenn man Fritz
-Rummels Eriebniſſe genau zergliedert, muß man ja nots=
-wendig auf die Bermutung kommen, daß dieſer Kiſtenſarg
+Rummels Erlebnisse genau zergliedert, muß man ja nots-wendig
+auf die Vermutung kommen, daß dieser Kistensarg
 lediglich den Eingang zu irgendeinem in den Dünen ans
-gelegten unterirdiſchen Berſte> vorſtellt, und daß der Blonde,
-der nachher nicht mehr in der Kiſte lag, einen zweiten Au22
-gang benutzt hat. --- Immerhin, ſehr merkwürdig bleibt dies
-alles in jedem Falle, da nicht recht einzuſehen iſt, we8halb
-wohl dieſe Leute bei der Anlage eine38 unterirdiſ<en Sclupfs=
-winkels in den Dünen ſo umſtändlih vorgegangen find.
-Wozu ausgerechnet ein Grab herſtellen, um einen Eingang
-zu verde>en?! Ein Brett, mit Sand bede>t, hätte dieſelben
-Dienſte geleiſtet.“ =
+gelegten unterirdischen Versteck vorstellt, und daß der Blonde,
+der nachher nicht mehr in der Kiste lag, einen zweiten Au22
+Gang benutzt hat. — Immerhin, sehr merkwürdig bleibt dies
+alles in jedem Falle, da nicht recht einzusehen ist, weshalb
+wohl diese Leute bei der Anlage eines unterirdischen Schlupfwinkels
+in den Dünen so umständlich vorgegangen sind.
+Wozu ausgerechnet ein Grab herstellen, um einen Eingang
+zu verdecken?! Ein Brett, mit Sand bedeckt, hätte dieselben
+Dienste geleistet.« —
 
-... Und brach jäh ab ...
+… Und brach jäh ab …
 
-Da hatte unten am Bootsſtege ein8 der Segelboote ſoeben
-„angelegt, das für Spazierfahrten der Kurgäſte beſtimmt war.
+Da hatte unten am Bootsstege eins der Segelboote soeben
+»angelegt, das für Spazierfahrten der Kurgäste bestimmt war.
+
 <@pagebreak/>
-DOSSDSSSDSSSDDO 11 DS0S0DSDOEODSEDS
+Und — jetzt saß auch ich einen einzelnen Herrn, der
+eilends die dicht neben unserem Platte liegende Treppe hinabstieg,
+und in das Boot sprang, in dem sich Null ein junger,
+sonngebräunter Fischer befand …
 
-Und =- jezt ſaß auh i<H einen einzelnen Herrn, der
-eilends die dicht neben unſerem Plate liegende Treppe hinab=
-ſtieg, und in das Boot ſprang, in dem ſich nulr ein junger,
-ſonngebräunter Fiſcher befand ...
+Dieser Mann im grauen Sportanzug und Schlappmütze
+hatte nun einen dicken, blonden, herabhängenden Schnurrbart.
+Gewiß — derartige Schnurrbärte gibt’s übergenug …
 
-Dieſer Mann im grauen Sportanzug und Shlappmüße
-hatte nun einen dien, blonden, herabhängenden SHhnurrbart.
-Gewiß = derartige Shnurrbärte gibt's übergenug ...
+Und doch erriet ich Haralds Gedanken und machte sie
+zu den meinen: der Herr war »der Blonde«!!!
 
-Und doc< erriet iM Haralds Gedanken und machte ſie
-'zu den meinen: der Herr war „der Blonde“!!!
+Das Boot stieß vom Stege ab …
 
-Das Boot ſtieß vom Stege ab ...
+Langsam entfaltete sich das Großsegel …
 
-Langſam entfaltete ſich das Großſegel ...
+Harst raunte mir zu:
 
-Harſt raunte mir zu:
+»Man soll einen derartigen Wink des Zufalls nicht unbeachtet
+lassen! Folgen wir ihm …«
 
-„Man ſoll einen derartigen Wink de3 Zufalls nicht un=
-beachtet laſſen! Folgen wir ihm ...“
+Am Bootsstege unten lagen noch zwei Segelboote …
 
-Am Bootsſtege unten lagen no< zwei Segelboote ...
+Wir wählten dasjenige, das einem alten, verwitterten,
+weißbärtigen Fischer gehörte …
 
-Wir wählten dasjenige, das einem alten, verwiiterien,
-weißbärtigen Fiſcher gehörte ..
+Harst sagte nur: »Jahren Sie uns spazieren … Steuern
+werde ich selbst … Wir verstehen etwas davon …«
 
-Harſt ſagte nur: „Fahren Sie uns ſpazieren ... Steuern
-werde ich ſelbſt ... Wir verſtehen etwas davon ...“
+Sehr bald merkte ich, daß Harald gerade dieses Boot
+aus zwei Gründen gewählt hatte. Es hatte nicht weiße, sondern
+braune Segel. Es war also schwerer zu erspähen, besonders
+jetzt, wo die Dunkelheit immer mehr zunahm.
 
-Gehr bald merkte ih, daß Harald gerade dieſe38 Boot |
-aus zwei Gründen gewählt hatte. E83 hatte nicht weiße, ſon-
-dern braune Segel. Es war alſo ſchwerer zu erſpähen, be=
-ſonders jetzt, wo die Dunkelheit immer meyr zunahm.
+Zweitens: es segelte weit besser als das Fahrzeug des
+Blonden! —
 
-Zweiten8: es ſegelte weit beſſer al8 das Fahrzeug des
-Blonden! =-
+Beide Boote waren in kurzem auf gleicher Höhe, aber
+mit gut dreihundert Meter Zwischenraum … —
 
-Veide Boote waren in kurzem auf gleicher Höhe, aber
-mit gut dreihyndert Meter Zwiſhenraum ... --
+Der alte Fischer hatte sich zu uns auf die Steuerbank
+gesetzt, hatte sich eine meiner Zigarren angezündet und …
+ließ sich ahnungslos von Harald ausfragen …
 
-Der alte Fiſcher hatte ſi<z zu uns auf die Steuerbank
-geſetzt, hatte jic) eine meiner Zigarren angezündet und ...
-ließ ſich ahnungslos von Harald ausfragen ...
+Ob er den Besitzer des Bootes dort drüben kenne?
 
-Ob er den Beſizer des Bootes dort drüben kenne?
+»30, daß es bei such’ Klemens…«
 
-„30, dat es dei jung' Klemen8,.“
+»Und der Herr?«
 
-„Und der Herr?“
+»Da! es all Klemens ein Badegast …«
 
-„Dat es oll Klemens ſin Bodegaſt ...“
+»Der fährt wohl häufig?«
 
-„Der fährt wohl häufig?“
+»3 … daß es ’n Gekehrten … Bei fängt Leuchtquallen.«
 
-„3 ... dat e8 'n Zeliehrter ... Dei fängt Leuhtquallen.“
 <@pagebreak/>
-DSEDSEDSBDSSSSE 12 DSEBSSOEBSE3ESB0202S0S
+»Wie heißen Sie eigentlich?«
 
-„Wie heißen Sie eigentlich?“
+»Jan Drews, Herr …«
 
-„Ian Drews, Herr ...“
+»Sagen Sie mal, Herr Drews, hat es hier in der Nähe
+mal alte Befestigungswerke gegeben?«
 
-„Sagen Sie mal, Herr Drews, hat e8 hier in der Nähe
-mal alte Befeſiigungswerke gegeben?“
+»Im — man sechs, hat dort drüben am Strande mal
+ne Burg stand, Herr …«
 
-„Im = man ſedcht, datt dort drüben am Strande mal
-'ne Burg ſtand, Herr ...“
+Er deutete mit der ’Sand etwa dorthin, wo das geheimnisvolle
+Grab liegen mußte …
 
-Er deutete mit der 'Sand etwa dorthin, wo das geheim=
-ni8volle Grab liegen mußte ...
+… Dort am Walde, Herr,« fügte er hinzu. »Der jetzige
+Wald »ist jung, steht noch seine die arg J39r7E: Vorher
+war dort Mischwald, Herr, — uralte Fugen, Eichen und
+Tannen — turmhoch … Das alles daß der Besitzer des
+Gutes Zweilinden wegschlagen lassen. Er brauchte Geld,
+Herr … Ich besinne mich voll auf den alten Wald …
+Das war eine Pracht …!«
 
-. Dort am Walde, Herr,“ fügte er hinzu. „Der jezige
-Wald "iſt jung, ſteht nog feine vie zig J39r7E%: Vorher
-war dort Mij<wald, Herr, = uralie Bugen, Eicßen und
-Tannen -- turmhoh ... Da38 alles dat der Bezjizer des
-Gutes Zweilinden wegſchlagen laſjen. Er brauchte Geld,
-Herr ... IH beſinne mich noFH auf den alien Wald ...
-Da8 war eine Pracht ...!“
+»Wem gehört denn Zweilinden?«
 
-„Wem gehört denn Zweilinden?“
+»Den Baronen von Struvesund, einer früher dänischen
+Sämtlich? … Jetzt lebt nur noch die Baronesse Helga von dem
+ganzen Geschlecht …«
 
-„Den Baronen von Struveſund, einer früher däniſchen
-Famili2 ... Jetzt lebt nur noh die Baroneſſe Helga von dem
-ganzen Geſchlecht ...“
+»So … so … Wir trafen heute nachmittag dort im
+Walde eine junge Dame im grünen Lodenostüm …«
 
-„So ... ſo ... Wir trafen heute nachmittag dort im
-Walde eine junge Dame im grünen Loden,oſtüm ...“
+»Oh — das ist sie, das ist die Baronesse, Herr …«
 
-„Oh -- das iſt ſie, das iſt die Baroneſſe, Herr ...“
+»Also Helga Struvesund …«
 
-„Alſo Helga Siruveſund ...“
+»Ja, Herr … Ein Mädchen mit dem Herzen auf dem
+rechten Fleck … Arbeitet für drei … Will das Gut wieder
+hochbringen … Ihr Großvater hat den schönen Wald Kerl
+unterschlagen lassen, und ihr Vater war auch ein Verscharrt
+der … Die Baronesse ist ganz aus der Art geschlagen, Herr.«
 
-„3a, Herr .... Ein Mädchen mit dem Herzen auf dem
-rechten Fle> ... Arbeitet für drei ... Will das Gut wieder
-hochbringen ... Ihr Großvater hat den ſchönen Wald hers
-unterſchlagen laſſen, und ihr Bater war auch ein Berſchwens
-der ... Die Baroneſſe iſt ganz aus der Art geſchlagen, Herr.“
+Der Wind frischte auf …
 
-Der Wind friſchte auf ...
+Ich hörte andächtig zu und beobachtete das andere Boot.
 
-Ih hörte andächtig zu und beobachtete das andere Boot.
-
-Fiſher Ian Drews ſc<hielte nach link8 in die Finſternis
+Fischer Jan Drews schielte nach links in die Finsternis
 hinein und brummte:
 
-„Da i3 hei wedder!“
+»Da h3 he! Deckel!«
 
-Und dieſes „hei“ gleich „er“ bezog ſich auf einen großen
-Schoner, der drüben in der Finſternis ohne Lichter auf den
+Und dieses »he!« gleich »er« bezog sich auf einen großen
+Schoner, der drüben in der Finsternis ohne Lichter auf den
 <@pagebreak/>
-DESEDDSDSSODSSD 13 DSSS DSGDSDDOGD
+Wellen trieb und den ich nur mit Hilfe des Krimstechers notdürftig
+erkennen konnte …
 
-Wellen trieb und den ich nur mit Hilfe des Krimſtehers not=
-dürftig erkennen konnte ... :
+Ein Schoner ohne Lichter, das heißt ohne die vorschriftsmäßigen
+Laternen …
 
-Ein Schoner ohne Lichter, das heißt ohne die vorſchrift3=
-mäßigen Laternen ...
+Also — auf fauler Fahrt …
 
-Alſo -- auf fauler Fahrt .
+Und an See fremden Schiff hatte des Blonden Boot
+angelegt …
 
-Und an EEE fremden Schiff hatte des Blonden Boot
-angelegt .
+<h2>3. Kapitel.</h2>
+<h3>Ein Hochstapler ad.</h3>
 
-3. Kapitel.
-Ein Hochſtapler a.D.
+Harald wandte sich an den Alten …
 
-Harald wandte ſich an den Alten ...
+»Sie haben den Schoner dort also schon häufiger bemerkt,
+Herr Drews?«
 
-„Sie haben den Schoner dort alſo ſchon häufiger be=
-merkt, Herr Drews?“
+»Und ob, Herr … Man spricht aber über so was nicht
+… Was? geht es mich an?! Gar nichts — rein gar nichts,
+Herr … Und ich habe noch nie zu jemandem ein Wort über
+Klemens’ Jüngsten nächtliche Spazierfahrten erwähnt
+Wozu?! Wenn einer schmuggeln will — gut, mag er!«
 
-„Und ob, Herr ... Man ſpricht aber über ſo was nicht
-... Was2 geht e8 mich an?! Gar nichts = rein gar nichts,
-Herr ... Und i< habe no<H nie zu jemandem ein Wort über
-Klemens' Jüngſten nächtlihe Spazierfahrten erwähnt
-Wozu?! Wenn einer ſ<muggeln will -- gut, mag er!“
+»Wo wohnen Sie?« warf Harald hin und lugte mit dem
+Glas nach den beiden Fahrzeugen aus …
 
-„Wo wohnen Sie?“ warf Harald hin und lugte mit dem
-Glas nah den beiden Fahrzeugen aus .
+»Nu — doch neben Klemens, Herr, in der Waldstraße —
+Nummer sieben …«
 
-„Nu -- doch neben Klemens, Herr, in der Waldſtraße =
-Nummer ſieben ...“
 <@pagebreak/>
-O22BDESOE202DDSDS 1i D0SDESHSSD0SDSEDI
+»Und Sie haben Badegäste bei sich untergebracht?«
 
-„Und Sie haben Badegäſte bei ſich untergebracht?“
+»Nu nee — leider nicht … Gestern sind meine Kerle
+Schatten abgereist …«
 
-„Nu nee =- leider nic) ... Geijiern ſind meine Herrs
-ſchaſten abgereiſt ...“
+»Dann könnten wir beide wohl zu Ihnen ziehen? In
+der Villa Anna ist es uns zu laut … Wir brauchen Ruhe,
+sind nervös …«
 
-„Dann fönnten wir beide wohl zu Ihnen ziehen? In
-der Billa Anna iſt e8 uns zu laut ... Wir brauchen Ruhe,
-ſind nervö8 ...“
+Jan Drews feixte … »So — verbiß?! Na, das sieht
 
-Jan Drews feixte ... „So -=- nervis8?! Na, das ſieht
+man Ihnen nicht an, Herr … Sie sehen beide so aus, als
+ob Sie immer in frischer Luft zu tun hätten … Wie See
+Leute …«
 
-man Ihnen nicht an, Herr ... Sie ſehen beide ſo aus, als
-cb Sie immer in friſcher Luft zu tun hätten ... Wie See
-leute ...“
+»Dir waren auch in den Tropen, noch vor kurzem,
+Herr Drews … Duftende müssen heute rührig sein …«
 
-„Dir waren auc in den Tropen, noh vor kurzem,
-Herr Drews ... Krufleute müſſen heute rührig ſein ...“ n
+»Allerdings, Herr, allerdings …«
 
-„WÜileivings, Herr, allerdings ...“
+Woraus Harald meinte, nun könnten wir umkehren. —
 
-Worauſ Harald meinte, nun könnten wir umkehren. =
+Und so kam’s, daß wir noch an diesem Abend gegen
+zehn Uhr das Quartier wechselten.
 
-Und ſo kam's, daß wir noch an dieſem Abend gegen
-zehn Uhr das Quartier wechſelten.
+Jan Drews zeigte uns voller Stolz seine beiden Gaststuben,
+und seine erwachsene Tochter, die ihm als Witwer
+die Wir:scharf führte, bemühte sich ebenso rechts, uns auf
+die Vorzüge dieser Zimmer aufmerksam zu machen.
 
-Ian Drews zeigte uns voller Stolz ſeine beiden Gaſt=
-ſtuben, und ſeine erwachſene Tochter, die ihm als Witwer
-die Wir:ſhaft führte, bemühte ſi ebenſo redliH, uns auf
-die Vorzüge dieſer Zimmer aufmerkſam zu machen.
+Unbehaglich war’s bei Jan, und die blonde, stattliche
+Tochter war die schönste Zierde des blitzsauberen Fachwerks
+Häuschens … —
 
-Urbehaglih war's bei Jan, und die blonde, ſtattliche
-Tochter war die ſghönſte Zierde des blitzſauberen Fachwerks
-häus8chens ... --
+Gegen halb zwölf war dann alles still im Hause …
 
-Gegen halb zwölf war dann alles ſtill im Hauſe ...
+Unsere Zeit war gekommen …
 
-Unſere Zeit war gekommen ...
+Aus dem Fenster des Wohnzimmers in den Vorgarten
+zu steigen, war weiter keine Kunst … Die Straße lag deren
+da. Auch bei Fischer Klemens nebenan war alles
+Anker …
 
-Aus dem Fenſter des Wohnzimmers in den Vorgarien
-zu ſteigen, war weiter keine Kunſt ... Die Straße lag ver=
-„u da. Au<h bei Fiſher Klemens nebenan war alles
-unfkel. .
+Wir wanderten am Waldrande dem Strande zu. Harst
+sprach über die Ergebnisse der Segelpartie, meinte, daß die
+Baronesse Helga, die Grüne, vielleicht an den Schmugglerunternehmungen
+beteiligt sei … »Sie braucht Geld … Das
+Gut ist verschuldet … Die Agrarier haben heutzutage eines
+dies nichts zu lachen … Da kann auch wohl eine Baronesse
+an unerlaubte Nebeneinkünfte denken!«
 
-Wir wanderten am Waldrande dem Strande zu. Harſt
-ſpracß über die Ergebniſſe der Segelpartie, meinte, daß die
-Baroneſſe Helga, die Grüne, vielleicht an den Shmuggler»
-unternehmungen beteiligt ſei ... „Sie braucht Geld ... Das
-Gut iſt verſchuldet ... Die Agrarier haben heutzutage ohnes
-dies nichts zu lachen ... Da kann aud) wohl eine Baroneſſe
-an unerlaubte Nebeneinkünfte denken!“
 <@pagebreak/>
-DD0DDDSDEBODSSD 15 8000200200202
+Ich meinte:
 
-I<h meinte:
+»Lieber Harald, deine Redseligkeit ist verfänglich …
+Glaubst du wirklich an Schmugglergeschäfte?«
 
-„Lieber Harald, deine Redſeligkeit iſt verfänglich ..
-Glaubſt du wirklich an Schmugglergeſchäfte?“
+Sein
 
-Zein 0
+»Aha, — deshalb also!! — Und woran glaubst du in:
+Wahrheit 2«
 
-„Aha, -- deshalb alſo!! -- Nnd woran glaubſt du in:
-Wahrheit 2“
-
-„Hältſt du mich für allwiſſend, mein Alter?! -- Keine:
-Ahnung habe ich, was die Leute treiben.“
+»Hältst du mich für allwissend, mein Alter?! — Keine:
+Ahnung habe ich, was die Leute treiben.«
 
 Wir hatten den Strand erreicht.
 
-Aus dem zarten Gewölk waren ſc<hwarze Wolkenfetzen:
-geworden, die ſich immer mehr zuſammenballten ...
+Aus dem zarten Gewölk waren schwarze Wolkenfetzen:
+geworden, die sich immer mehr zusammenballten …
 
-Wir ſchritten auf dem durch die auslaufenden Wellen
-angefeuchteten Strandſtreifen dahin. E8 war ſo dunkel, daß:
+Wir schritten auf dem durch die auslaufenden Wellen
+angefeuchteten Strandstreifen dahin. Es war so dunkel, daß:
 man keine zwanzig Meter etwas deutlich erkennen konnte.
 
-Harald ſchlug jezt ein Tempo an, daß ich gehörig Schweiß,
-verlor. Die Nacht war ſchwül .
+Harald schlug jetzt ein Tempo an, daß ich gehörig Schweiß,
+verlor. Die Nacht war schwül …
 
-Nach zehn Minuten bog Harſt link8 ab. Seine vor».
-züglihen Augen hatten ihm den Dünenwall gezeigt, und an.
-der Spitze dieſes Walles8 vorüber gingen wir nun vorſichtig
-quer dur< die Dünen und ſuchten den kleinen Neitel das.
+Nach zehn Minuten bog Harst links ab. Seine vor«.
+täglichen Augen hatten ihm den Dünenwall gezeigt, und an.
+der Spitze dieses Falles vorüber gingen wir nun vorsichtig
+quer durch die Dünen und suchten den kleinen Reiter das.
 geheimnisvolle Grab.
 
-Frize Nummels8 Beſchreibung hatte durchaus genügt,
-Harſt ſagte plößlich:
+Spitze Rummels Beschreibung hatte durchaus genügt,
+Harst sagte plötzlich:
 
-„Hier muß es ſein! Du ſpielſt Wache.“
+»Hier muß es sein! Du spielst Wache.«
 
-I< legte mich alſo oben hinter Strandhaferſtauden.
+Ich legte mich also oben hinter Strandhaferstauden.
 
-Von meinem Plate aus erkannte ich Harſt nur als
-dunkle Maſſe, die in ſtändiger Bewegung blieb ...
+Von meinem Platte aus erkannte ich Harst nur als
+dunkle Masse, die in ständiger Bewegung blieb …
 
-Fünf Minuten verſtrichen ...
+Fünf Minuten verstrichen …
 
 Dann Haralds Stimme:
 
-„Nicht8s!! Es muß ein falſcher Keſſel ſein ... Sucher
-wir weiter ...“ !
+»Nichts!! Es muß ein falscher Kessel sein … Sucher
+wir weiter …«!
 
-Weine Freude an dieſem nächtlichen Ausflug erhielt
-einen ſtarken Dämpfer. I< ahnte, daß wir nichts finden.
-würden. Upd -- das ſtimmte! --
+Weine Freude an diesem nächtlichen Ausflug erhielt
+einen starken Dämpfer. Ich ahnte, daß wir nichts finden.
+würden. Tod — das stimmte! —
 
-Um ein Uhr morgens wanderten wir bei leiſe rieſelndem
-Regen mißmutig heim ...
+Um ein Uhr morgens wanderten wir bei leise rieselndem
+Regen mißmutig heim …
+
 <@pagebreak/>
--DSISDDSEDSSSSS 16 DSDS DSSISOSDSIESS
+Wir begriffen beide nicht, wie es möglich war, daß
+unsere Expedition so ergebnislos verlaufen war …
 
-Wir begriffen beide niht, wie e8 möglich war, daß
-unſere Expedition ſo ergebnislo8 verlaufen war ...
+Daß Spitze Rummel uns etwa angelogen hatte, erschien
+vollkommen ausgeschlossen.
 
-Daß Frize Rummel uns etwa angelogen hatte, erſchien
-vollkommen ausgeſchloſſen.
+Harst war schweigsam, sagte mir nachher in unserer gemeinsamen
+Schlafstube nur kurz gute Nacht und kroch ins
+Bett …
 
-Harſt war ſchweigſam, ſagte mir nachher in unſerer ge=
-meinſamen Sclafſtube nur kurz gute Nacht und kroch ins
-Bett ...
+Ich auch …
 
-Ih auh ..
+Aber schlafen?!
 
-Aber ſchlafen?!
+Lieber Leser, falls du einmal in einem Zimmer genächtigt
+Hast, in dem andauernd mit deutlich seinem Singen unbekannten
+Mücken dein Haupt umspielen, so wirst du begreifen,
+daß ich nach einer Weile aufstand und mir verzweifelt aus
+»dem Koffer meine Flasche Ügol (Zahnwasser) holte, mir
+damit Gesicht und Hände einrieb und dann erst etwas Ruhe
+vor den kleinen geflügelten Kanaillen hatte, die hier in der
+Nähe des morastigen WaldstüFes sicherlich zu Millionen
+vorkamen …
 
-Lieber Leſer, fall8 du einmal in einem Zimmer genäctigt
-Haſt, in dem andauernd mit teufliich feinem Singen und-
-Summen Mücken dein Haupt umſpieken, ſo wirſt du begreifen,
-daß ich nacH einer Weile aufſtand und mir verzweifelt aus
-"dem Koffer meine Flaſhe Ügol (Zahnwaſſer) holte, mir
-damit Geſi<ht und Hände einrieb und dann erſt etwas Rube
-:vor den kleinen geflügelten Kanaillen hatte, die hier in ver
-Nähe des moraſtigen WaldſtüFes ſicherlich zu Willionen
-vorkamen. ...
-
-Aber auch das Agol mit ſeinem Pfefferminzgeruh ſollte
-mir den erſehnten Schlummer nicht bringen.
+Aber auch das Saal mit seinem Pfefferminzgeruch sollte
+mir den ersehnten Schlummer nicht bringen.
 
 Der neue Störenfried meiner müden Gebeine war diesmal
-Harald ...
+Harald …
 
-Harald erhob ſich ganz leiſe ...
+Harald erhob sich ganz leise …
 
-Er nahm wohl an, ich ſchliefe bereits.
+Er nahm wohl an, ich schliefe bereits.
 
-Id glaubte ſchon, daß auch er ſeine Flaſche Agol her»
-vorſuchen würde ...
+Ich glaubte schon, daß auch er seine Flasche Saal hervorsuchen
+würde …
 
-Zrt: 5
+Art:
 
-Er machte kein Licht, ſondern hantierte im Dunkeln vor
-Jeinem Vette umher ...
+Er machte kein Licht, sondern hantierte im Dunkeln vor
+Seinem Setzte umher …
 
-Die verſchiedenartigen Geräuſche belehrten mich, daß er
-... fich anzog!!
+Die verschiedenartigen Geräusche belehrten mich, daß er
+… sich anzog!!
 
-Da knipſte ic denn meine Taſchenlampe an und bes
-leuchtete die Szenerie ...
+Da knipste ich denn meine Taschenlampe an und des
+leuchtete die Szenerie …
 
-Er ſtond in Unterhoſen da und ſchob gerade das Nacht=
-Hemd über den Kopf ...
+Er stand in Unterhosen da und schob gerade das Nachthemd
+über den Kopf …
 
-„Du, es iſt nod) lange nicht Morgen,“ meinte ich ...
+»Du, es ist noch lange nicht Morgen,« meinte ich …
+
 <@pagebreak/>
-ODDBSSEDIDLSOS. 17 DSSDODDSOEDOLS
+»Leider nicht,« entgegnete er und schlüpfte in sein Obers
+Hemd …
 
-„Leider nicht,“ entgegnete er und ſchlüpfte in ſein Obers
-hemd ... :
+»Der Müden wegen?« fragte ich.
 
-„Der Müden wegen?“ fragte ich.
+»Nein, Freund Rummels wegen …«
 
-„Nein, Freund Rummels wegen ...“
+Da setzte im mich mit einem Ruck aufrecht …
 
-Da ſetzte im mich mit einem Ru> aufrecht ...
+»Was heißt das?!«
 
-„Was heißt das?!“
+»Das heißt: der Junge ist ungehorsam gewesen. Ich
+fürchte eben, daß unser Fritze, als wir nach dem Stege gingen,
+aus Abenteuerlust und Stellen nach dem Dünenkessel
+geeilt ist, daß man ihn dort überrascht hat, und daß deswegen
+das Grab verschwunden ist …«
 
-„Das heißt: der Iunge iſt ungehorſam geweſen. I<
-fürchte eben, daß unſer Fritze, als wir nach dem Stege gin=
-gen, aus Abenteuerluſt und Eitelieit naM dem Dünenkeſſel
-geeilt iſt, daß man ihn dort überraſcht hat, und daß deswegen
-das Grab verſchwunden iſt ...“
+Nun verstand ich …
 
-Nun verſtand ich ..
+Und ich sagte hastig:
 
-Und ich ſagte haſtig:
+»Du fürchtest für den Jungen?«
 
-„Du fürchteſt für den Jungen?“
+»Ja … Wir wollen mal nach der Villa Anna gehen
+»… Dort werden wir schon von der Straße aus werfen,
+ob Fritz nicht heimgekehrt ist. Seine Schwester Klara wird
+doch fraglos die Ortspolizei benachrichtigt haben … In der
+Villa werden dann einige Fenster hell sein …« —
 
-„Ia ... Wir wollen mal nad) der Villa Anna gehen
-„.. Dort werden wir ſchon von der Straße aus merien,
-ob Fritz nicht heimgekehrt iſt. Seine Schweſter Klara wird
-doch fraglos die Ort8polizei benachrichtigt haben ... In der
-Villa werden dann einige Fenſter hell ſein ...“ --
+Weit hatten wir’s nicht bis zur Seestraße … Und — —
+was Harald vermutet, traf zu: Unten im Erdgeschoß vier
+Fenster hell! Und die Haustür offen, im Flur Licht …
 
-Weit hatten wir's nicht bis zur Seeſtraße ... Und =- -=-
-was Harald vermutet, traf zu: Unten im Erdgeſchoß vier
-Fenſter hell! Und die Haustür offen, im Flur Licht ...
+»Kehrt — es genügt,« meinte Harst.
 
-„Kehrt -- es genügt,“ meinte Harſt.
+Wir wanderten wieder nach der Waldstraße … Der
+Morgen graute bereits …
 
-Wir wanderten wieder naM der Waldſtraße ... Der
-Morgen graute bereits . 5
+Und gegenüber von Fischer Klemens Häuschen fanden
+wir in einem Gebüsch und unter einem wilden Birnbaum ein
+günstiges Versteck …
 
-Und gegenüber von Fiſher Klemens Häus8<Hen fanden
-wir in einem Gebüſch und unter einem wilden Birnbaum ein
-günſtiges Verſte> ... |
+»Ich glaube nicht, daß Herr John Rütter, der Blonde,
+schon heimgekehrt ist,« meinte Harald leise 9 … »Es kann
+jedenfalls nichts schaden, wenn wir hier eine Weile aufs
+passen. Ich möchte den Mann beobachten, falls wir ihn noch
+erwischen, worauf ich stark hoffe, denn dort links neben der
+Haustür sind an den drei Fenstern die Vorhänge nicht »Angezogen.
+Und dort dürften Rütters Stuben liegen. Aus
+der anderen Seite sind die Gardinen weit einfacher und …«
 
-„Id) glaube nicht, daß Herr John Rütter, der Blonde,
-ſchon heimgekehrt iſt,“ meinte Harald leiſe 9.. „Es kann
-jedenfalls nichts ſchaden, wenn wir hier eine Weile aufs
-paſſen. Ich möchte den Mann beobachten, fall8 wir ihn noh
-erwiſchen, worauf ich ſtark hoffe, denn dort links neber der
-Haustür ſind an den drei Fenſtern die Vorhänge nicht »U=
-gezogen. Und dort dürften Rüiter8 Stuben liegen. Auſj
-der anderen Seite ſind die Gardinen weit einfacher und ..,“
 <@pagebreak/>
-DSDDSSSSSSOSDS 18 DSSODSODISSSBDS
+Und brach mitten im Habe ab …
 
-Und brach mitten im Saße ab .
-
-Ein Radler kam den Weg entlang, der vom Walde her ſich
-mit der gepflaſterten Straße vereinigte ...
+Ein Radler kam den Weg entlang, der vom Walde her sich
+mit der gepflasterten Straße vereinigte …
 
 Ein Radler im grauen Sportanzug und mit grauer
-Sportmüße ....
+Sportmütze …
 
 John Rütter:
 
-Wir hatten GlüE> gehabt ...
+Wir hatten Glück gehabt …
 
-Bor dem Häuscen ſtieg er vom Rade, ſchaute ſiHh mehr=
-mals um, klinkte die unverſhloſſene Haustür auf und ver=
-ſhHwand im Flur ...
+Vor dem Häuschen stieg er vom Rade, schaute sich mehrmals
+um, klinkte die unverschlossene Haustür auf und verschwand
+im Flur …
 
-GleiH darauf zog er den Borhang des linken der drei
-Fenſter zu ... Dort ſchlief er offenbar.
+Gleich darauf zog er den Vorhang des linken der drei
+Fenster zu … Dort schlief er offenbar.
 
-Wir warteten no<H ein paar Minuten ...
+Wir warteten noch ein paar Minuten …
 
-Dann wollten wir gerade auf Umwegen davonſchleichen,
-als die Haustür ſich auftat und ein ... ſ<hwarzbärtiger Mann
-mit Lodenumhang, grauem Filzhut und Hornbrille heraus=
-WAL: 5.2:
+Dann wollten wir gerade auf Umwegen davonschleichen,
+als die Haustür sich auftat und ein … schwarzbärtiger Mann
+mit Lodenumhang, grauem Filzhut und Hornbrille herausragt:
+5.2:
 
-Rütter =- =- wieder John Rütter, die8mal verkleidet ..!!
+Rütter — — wieder John Rütter, diesmal verkleidet …!!
 
-Er ſpannte einen Regenſchirm auf und ging langſam
-die Waldſtraße entlang bis zum Kurplatz, bog hier in die
-Seeſtraße ein ...
+Er spannte einen Regenschirm auf und ging langsam
+die Waldstraße entlang bis zum Kurplatz, bog hier in die
+Seestraße ein …
 
-Wir waren ihm gefolgt ... In vorſichtiger Entfernung
-.».» Blieben an der E>Xe der Seeſtraße ſtehen ...
+Wir waren ihm gefolgt … In vorsichtiger Entfernung
+».» Blieben an der Ecke der Seestraße stehen …
 
-„Er will die Billa Anna beobachten,“ meinte Harald ...
-„Natürlich des Jungen wegen ... -- Da -- er macht halt
-=- -=- vor der Villa, -- -- geht weiter ... I< wette, daß er
-bald wieder heimkehren wird ... -- Raſch, benußen wir die
-gute Gelegenheit, mein Alter ... Er hat die Haustür nicht
-abgeſchloſſen ...“
+»Er will die Villa Anna beobachten,« meinte Harald …
+»Natürlich des Jungen wegen … — Da — er macht halt
+— — vor der Villa, — — geht weiter … Ich wette, daß er
+bald wieder heimkehren wird … — Rasch, benutzen wir die
+gute Gelegenheit, mein Alter … Er hat die Haustür nicht
+abgeschlossen …«
 
-Wir eilten na <dem Hauſe des Fiſ<her8 Klemens ...
+Wir eilten na echten Hause des Fischers Klemens …
 
-I< fand Haralds Vorgehen reihlih gewagt ... Wenn
-jemand von der Familie Klemen8 bereit8 munter war, dann
-ſetzten wir alles aufs Spiel ...
+Ich fand Haralds Vorgehen reichlich gewagt … Wenn
+jemand von der Familie Klemens bereits munter war, dann
+setzten wir alles aufs Spiel …
 
-Wir kamen wirkliß glü>lih ins Haus, ſchlüpften vom
+Wir kamen wirklich glücklich ins Haus, schlüpften vom
 Flur in das Zimmer linker Hand und befanden uns nun in
-Rütter8 Wohnſtube.
+Rütters Wohnstube.
+
 <@pagebreak/>
-2D2DSSSSSSDSSSDSSO 19 082000 DSS0S00020S
+Die Tür nach der Schlafstube stand offen …
 
-Die Tür nah der Sclafſtube ſtand offen ...
+Harst schaute sich um …
 
-Harſt ſchaute ſih um ...
+Da war zwischen den Fenstern einer jener mächtigen
+altertümlichen Bauernschränke aufgestellt, und dessen Tür
+öffnete Harald sehr vorsichtig …
 
-Da war zwiſchen den Fenſtern einer jener mächtigen
-altertümlihen Bauernſ<ränke aufgeſtellt, und deſſen Tür
-öffnete Harald ſehr vorſichtig ...
+Der Schrank war leer …
 
-Der Schrank war leer ...
+Harald trat in das Möbelstück hinein … Die Bodens
+breiter waren dick und knarrten nicht …
 
-Harald trat in das MöbelſtüF hinein ... Die Bodens
-breiter waren di> und knarrten nicht ...
+Er winkte, zog die Tür zu …
 
-Er winkte, 3og die Tür zu ...
+Wir mußten gebückt stehen …
 
-Wir mußten gebü>t ſtehen ...
+Hörten schon nach wenigen Minuten jemand das Zimmer
+betreten …
 
-Hörten ſchon nad) wenigen Minuten jemand das Zimmer
-betreten ...
+Es mußte Rütter sein …
 
-E38 mußte Rütter ſein ..
+Er riegelte die Flurtür ab, ging in die Schlafstube …
 
-Er riegelte die Flurtür ab, ging in die Sclafſtube ...
+Und nach abermals fünf Minuten tat Herr John Rütter
+genau dasselbe, was ich tue, wenn ich eingeschlafen bin:
+er sägte!!
 
-Und na<h abermals fünf Minuten tat Herr Iohn Rütter
-genau dasſelbe, was ich tue, wenn ich eingeſchlafen bin:
-er ſägte!!
+Harst öffnete die Schranktür noch weiter …
 
-Harſt öſfnete die Shranktür noh weiter ...
+Dann schlich er, nachdem er seine braunen Schnürschuhe
+ausgezogen hatte, zu Rütter hinein …
 
-Dann ſ<lic<h er, nachdem er ſeine braunen Schnürſchuhe
-au8gezogen hatte, zu Rütter hinein ..
+Ich wartete mit einigem Herzklopfen …
 
-Ih wartete mit einigem Herzklopfen ...
+In der Verbindungstür tauchte Harald wieder auf und
+flüsterte:
 
-In der Berbindungstür tauchte Harald wieder auf und
-flüſterte:
+»Wer ein Fläschchen Chloroform auf dem Mächtigen
+stehen hat, darf sich nicht wundern, wenn er chloroformiert
+wird … Herr Rütter wird mit etwas wüstem Kopf erwachen
+und nicht ahnen, was man ihm angetan hat … Komm nur,
+mein Alter … Ich will dir etwas recht Interessantes zeigen.«
 
-„Wer ein Fläſ<h<en Chloroform auf dem Nachttiſ<<en
-ſtehen hat, darf ſich nicht wundern, wenn er <loroformiert
-wird ... Herr Rütter wird mit etwas wüſtem Kopf erwachen
-und nicht ahnen, was man ihm angetan hat ... Komm nur,
-mein Ulter ... I< will dir etwas recht Intereſſantes zeigen.“
+Haralds Taschenlampe beleuchtete den im Bett Liegenden.
 
-Haralds8 Taſchenlampe beleuchtete den im Bett Liegenden.
+Und — dieser Mann hatte jetzt nichts mehr von blondem
+Schnurrbart im Gesicht — war bartlos … hatte dunkles
+Haar … Auf dem Nachttischchen lagen eine blonde Scheitelperücke
+und der dies, blonde Ungarnschnurrbart …
 
-Und -- dieſer Mann hatte jezt nichts mehr von blondem
-Schnurrbart im Geſiht = war bartlos ... hatte dunkles
-Haar ... Auf dem Nachitiſchc<hen lagen eine blonde Sceitel-
-perü>e und der di&e, blonde Ungarnſchnurrbart ...
+»Nun?!« meinte Harald … »Kommt dir das Gesicht
+nicht bekannt vor?«
 
-„Nun?!“ meinte Harald ... „Kommt dir das Geſicht
-nicht bekannt vor?“
+»Allerdings,« nickte ich …
 
-„Allerdings,“ ni>te ich ..
 <@pagebreak/>
-DSSSSDOSSSSDSSOS 20 SSDSOSEBSEDSOD
+»Dein Personengedächtnis war schon immer miserabel …
+Dieser Herr ist der Berliner Kriminalassistent Reiter, der
+berühmte Reiter, einst ein gefährlicher Hochstapler, bis er
+»umsattelte« und von der Polizei mit offenen Armen aufs
+genommen wurde …«
 
-„Dein Perſonengedähtnis war ſchon immer miſerabel ...
-Dieſer Herr iſt der Berliner Kriminalaſſiſtent Reiter, der
-berühmte Reiter, einſt ein gefährlicher Hochſtapler, bi3 er
-„umſattelte“ und von der Polizei mit offenen Armen aufs
-genommen wurde ...“
-
-Harald faßte bereit8 in die innere Taſche von Reiters
-Ja>e und 303g deſſen Brieftaſche heraus ...
+Harald faßte bereits in die innere Tasche von Reiters
+Jacke und 303g dessen Brieftasche heraus …
 
 », Kapitel.
-Bater Drews Sorgen.
+Vater Drews Sorgen.
 
-Brieftaſhe ...
+Brieftasche …
 
-Aber -- der Inhalt enttäuſchte mich ...
+Aber — der Inhalt enttäuschte mich …
 
-Da war allerdings ein kurzes Shreiben der Baroneſſe
-Helga Struveſund ...
+Da war allerdings ein kurzes Schreiben der Baronesse
+Helga Struvesund …
 
-Es beſagte gar nichts ...
+Es besagte gar nichts …
+
 <@pagebreak/>
-SGSESSOOBE2DS 21 0082008028502 2S
-
-18. Mai 192..
-RNittergut Zweilinden
-bei Arendſee, Medlenburg.
+18\. Mai 192 …
+Rittergut Zweilinden
+bei Arendsee, Mecklenburg.
 
 Geehrter Herr Reiter,
 
-iH bitte Sie alſo, beſtimmt hierher zu kommen. Nehmen
+ich bitte Sie also, bestimmt hierher zu kommen. Nehmen
 Sie Urlaub, falls Ihre Behörde Sie nicht fortläßt, weil
 
-ich nur Ihnen und nur mündlic) und perſönlich mein An-
-liegen vortragen will. I< hatte urſprünglich beabſichtigt,
-mic an Harſt zu wenden, aber erſtens ifi dieſe Verühmts
-heil, was die Honorarfrage angeht, wohl ſehr anſpruchsvoll,
-und zweitens erſchien es mir fraglich, ob er ſich ... =-
-Doch nein, auch dies beſſer perſönlich.
+ich nur Ihnen und nur mündlich und persönlich mein Anliegen
+vortragen will. Ich hatte ursprünglich beabsichtigt,
+mich an Harst zu wenden, aber erstens ist diese Berühmte
+heil, was die Honorarfrage angeht, wohl sehr anspruchsvoll,
+und zweitens erschien es mir fraglich, ob er sich … —
+Doch nein, auch dies besser persönlich.
 
-Hochachtent
-Helga Struveſund.
+Beobachtend
+Helga Struvesund.
 
-Zarſt ſchob die Brieftaſche wieder in die Jaäe zurü> ...
+Harst schob die Brieftasche wieder in die Tage zurück …
 
-„Wir können gehen,“ meinte er ...
+»Wir können gehen,« meinte er …
 
-Die Straße war leer ... Die wenigen Schritte bis zu
-Ian Drews Häus8<gen waren ungefährlih. Niemand bes
-merkte uns. E8 war jeht bereit3 heller Tag ...
+Die Straße war leer … Die wenigen Schritte bis zu
+Jan Drews Lauschigen waren ungefährlich. Niemand des
+merkte uns. Es war jetzt bereits heller Tag …
 
-Dann ſaßen wir in unſerem Wohnzimmer in den alt=
-väterlihen RNohrſeſſeln und rauchten zur Beruhigung jeder
-eine Wirakulum ...
+Dann saßen wir in unserem Wohnzimmer in den altväterlichen
+Rohrsesseln und rauchten zur Beruhigung jeder
+eine Mirakulum …
 
-Harald ſann vor ſich hin ...
+Harald sann vor sich hin …
 
-Er ſah etwas abgeſpannt aus ... Sein ſchmales Geſicht
-zeigte eine Sclaffheit der Zuge, die ich .nur ſelten an ihm
-beobachtet haite.
+Er sah etwas abgespannt aus … Sein schmales Gesicht
+zeigte eine Schlaffheit der Zuge, die Schnur selten an ihm
+beobachtet hatte.
 
-Dann ſagte er achſelzu>dend: „Nun iſt die Geſchichte
-noch ſc<leierhafter geworden. Aus8 dem Brief der Baroneſſe
-geht ja zur Genüge hervor, daß unſere erite Annahme vers
-fehlt war und daß e8 ſich hier ni<ßt um ein Beröre<hen,
-ſondern um die AufdeXung eines ſolHhen zu handeln ſcheint.
-Immerhin iſt und bleibt das Berhalten der Baroneſſe und
-Reiters ein vollkommenes Rätſel. Beachte bitte nur das
+Dann sagte er achselzuckend: »Nun ist die Geschichte
+noch schleierhafter geworden. Aus dem Brief der Baronesse
+geht ja zur Genüge hervor, daß unsere erste Annahme Vers
+fehlt war und daß es sich hier nicht um ein Verstehen,
+sondern um die Aufdeckung eines solchen zu handeln scheint.
+Immerhin ist und bleibt das Verhaften der Baronesse und
+Reiters ein vollkommenes Rätsel. Beachte bitte nur das
 <@pagebreak/>
-DDSSSSEwDSSSS 22 DSDSSEDIEDSSSOD
+eine: sie haben tote fraglos Fritze Rummel vorläufig festgesetzt,
+damit er sie nicht verrät!«
 
-eine: ſie haben doH& fraglo8 Fritze Rummel vorläufig feſt»
-geſeßzt, damit er ſie nicht verrät!“
-
-Er drüdte den Reſt ſeine? Mirakulum in den Aſchenſchale
+Er drückte den Rest seine? Mirakulum in den Aschenschale
 aus und fuhr fort:
 
-„Du wirſt zugeben, mein Alter, daß da Widerſprüche
-vorhanden ſind, die ſih beim beſten Willen nicht ſo ohne
-weiteres klären laſſen. Das Ganze erſcheint mir eine ſehr
-harte Nuß, es ſei denn, daß ...“
+»Du wirst zugeben, mein Alter, daß da Widersprüche
+vorhanden sind, die sich beim besten Willen nicht so ohne
+weiteres klären lassen. Das Ganze erscheint mir eine sehr
+harte Nuß, es sei denn, daß …«
 
-Er zögerte, weiterzuſprehen ...
+Er zögerte, weiterzusprechen …
 
-„Nun?t“ munterte ich ihn auf ...
+»Nun?!« munterte ich ihn auf …
 
-„Ia = es ſei denn, daß der Brief der Baroneſſe eine
-Fälſchung iſt, und zwar dergeſtalt, daß dieſes Schreiben nur
-die wahren Abſichten der Berbündeten verſchleiern ſoll und
-daß ... Reiter rüfällig geworden und die Baroneſſe aus
-Geldknappheit alle moraliſchen Bedenken zurücgeſtellt hat.“
+»Ja — es sei denn, daß der Brief der Baronesse eine
+Fälschung ist, und zwar dergestalt, daß dieses Schreiben nur
+die wahren Absichten der Verbündeten verschleiern soll und
+daß … Reiter ruckartig geworden und die Baronesse aus
+Geldknappheit alle moralischen Bedenken zurückgestellt hat.«
 
-„Im = etwas unwahrſc<heinlih ..!“ warf ich ein.
+»Im — etwas unwahrscheinlich …!« warf ich ein.
 
-„Unwahrſcheinlichkeiten, mein Alter, muß man bei uns
-ſerem Beruf ſehr genau prüfen,“ erwiderte Harald und griff
-nach einer weiteren Zigarette ... „Unwahrſcheinlichkeiten ſind -
-oft wie Gemälde, die nur aus der Ferne wirken ... Und...“
+»Unwahrscheinlichkeiten, mein Alter, muß man bei unserem
+Beruf sehr genau prüfen,« erwiderte Harald und griff
+nach einer weiteren Zigarette … »Unwahrscheinlichkeiten sind —
+oft wie Gemälde, die nur aus der Ferne wirken … Und …«
 
-Etwas Unerwartetes trat ein ... |
+Etwas Unerwartetes trat ein …
 
-Etwas, das uns Vater Drews in anderem Lichte zeigte. -
+Etwas, das uns Vater Drews in anderem Lichte zeigte. —
 
-E8 hatte kurz an der Flurtür geklopft, und dann war
-der alte Fiſcher, ohne ein Herein abzuwarten, ſofort mit ein
-paar ſchnellen Schritten dicht vor unſerem Tiſch, ſhaute uns
-merkwürdig forſh<end an und platte heraus:
+Es hatte kurz an der Flurtür geklopft, und dann war
+der alte Fischer, ohne ein Herein abzuwarten, sofort mit ein
+paar schnellen Schritten dicht vor unserem Tisch, schaute uns
+merkwürdig forschend an und platte heraus:
 
-„Meine Herren, entſhuldigen Sie nur meinen mangels
-haften Anzug ... Meine Tochter Martha,“ fügte er in einem
-Atem hinzu, „iſt ... iſt in der Nacht mit einem Male auf
-und davon ...“
+»Meine Herren, entschuldigen Sie nur meinen mangels
+haften Anzug … Meine Tochter Martha,« fügte er in einem
+Atem hinzu, »ist … ist in der Nacht mit einem Male auf
+und davon …«
 
-Seinen mißtrauiſ<en Bliken merkte man an, daß er
-Fräulein Marthas Flucht mit unſerem Einzug in ſein Haus
-in irgendeine uns noch unklare Berbindung brachte ...
+Seinen mißtrauischen Blicken merkte man an, daß er
+Fräulein Marthas Flucht mit unserem Einzug in sein Haus
+in irgendeine uns noch unklare Verbindung brachte …
 
 Harald deutete freundlich) auf einen Stuhl.
 
-„Setzen Sie ſich zunächſt mal, Herr Drews ... So, und
-nun, = wie meinen Sie das: auf und davon?!“
+»Setzen Sie sich zunächst mal, Herr Drews … So, und
+nun, — wie meinen Sie das: auf und davon?!«
+
 <@pagebreak/>
-DSSSSSSSSSSS 22 SSSSSSDSSSSS
+»Na — Sie ist so gegen Mitternacht heimlich aus dem
+Hause geschlichen, Herr Herren … Und bisher nicht zurück
+gekehrt … — meine Martha!! Noch nie hat sie das getan,
+noch nie! — Und ich habe einen so leisen Schlaf … Ich
+hörte die Hintertür knarren … Und da sah ich Martha
+gerade noch nach den Feldern laufen … Ein großes Tuch
+hatte sie um den Kopf …«
 
-„Na - Sie iſt ſo gegen Mitternacht heimlih aus dem
-Hauſe geſchlichen, Herr Horter ... Und bisher nicht zurück
-gefchrt ... =- meine Martha!! Noch nie hat ſie das getan,
-noh nie! =- Und ich habe einen ſo leiſen Schlaf ... Ih
-hörte die Hintertür knarren ... Und da ſah ih Martha
-geräde noH nach den Feldern laufen ... Ein großes Tuch
-hatte ſie um den Kopf ...“
+Pause …
+Und dann — nach einem abermaligen sehr argwöhnischen
+Bis auf uns: »Und — und Sie, meine Herren, waren
 
-Pauſe .
-Und dann -- na<h einem abermaligen ſehr argwöhniſchen
-Bli auf uns: „Und -- und Sie, meine Herren, waren
+die Nacht über doch auch nicht zu Hause …!«
 
-die Nacht über doH auch nicht zu Hauſe ..!“
+Harald nickte …
 
-Harald nickte ...
+»Nein, Herr Drews, — wir waren nicht daheim …
+Das stimmt … Wir hatten draußen zu tun … Aber —
+an den! Verschwinden Fräulein Marthas sind wir nicht
+schuld, wirklich nicht … — Ich sehe es Ihnen an, daß Sie
+diesen nächtlichen Ausgang Ihrer Tochter mit uns irgendwie
+in Verbindung bringen … Da tun Sie uns vielleicht nicht
+so ganz unrecht — nicht so ganz … — Wir wollen im
+Vertrauen auf Ihre Verschwiegenheit mit offenen Karten
+spielen, Herr Drews … Geben Sie mir Ihre Hand …
+Sie werden schweigen … So, und nun hören Sie mal genau
+hin … Wir heißen nicht Herren und Schrack und sind auch
+nicht Kaufleute … Nein, wir sind Detektive … Wissen Sie,
+was ein Detektiv ist …«
 
-„Nein, Herr Drews, -- wir waren nicht daheim ...
-Das ſtimmt ... Wir hatten draußen zu tun ... Aber --
-an dent Berſchwinden Fräulein Marthas ſind wir nicht
-ſchuld, wirklich nicht ... = IH ſehe es Ihnen an, daß Sie
-dieſen nächtlihen Au8gang Ihrer Tochter mit uns irgendwie
-in Berbindung bringen ... Da tun Sie uns vielleicht nicht
-ſo ganz unreHt -- nicht ſo ganz ... = Wir wollen im
-Vertrauen auf Ihre Verſchwiegenheit mit offenen Karten
-ſpielen, Herr Drews ... Geben Sie mir Ihre Hand ...
-Sie werden ſchweigen ... So, und nun hören Sie mal genau
-hin ... Wir heißen nicht Horter und Schra> und ſind au<
-nicht Kaufleute ... Nein, wir ſind Detektive ... Wiſſen Sie,
-was ein Detektiv iſt ...“
-
-Jan Drews8 braunes verſhrumpelte8 Geſiht, das ſo etwa
-einem vertro>neten Bratapfel glich, nahm den AuS8dru> eines
-ſo grenzenloſen Staunens an, daß Harald gutmütig lachend
+Jan Drews braunes verschrumpeltes Gesicht, das so etwa
+einem vertrockneten Bratapfel glich, nahm den Ausdruck eines
+so grenzenlosen Staunens an, daß Harald gutmütig lachend
 meinte:
 
-„Sie ſcheinen unſere Namen zu kennen, Vater Drew8
-... Wir ſind tatſächlich die beiden Berliner Detektive ... Und
-was uns hergeführt hat, ſollen Sie jetzt erfahren ...“
+»Sie scheinen unsere Namen zu kennen, Vater Drews
+… Wir sind tatsächlich die beiden Berliner Detektive … Und
+was uns hergeführt hat, sollen Sie jetzt erfahren …«
 
-Er erzählte dem alten Manne alles, -- nicht8 verſchwieg
-PUL
-Und zum Schluß meinte Harald noh:
+Er erzählte dem alten Manne alles, — nichts verschwieg
+Wut
+Und zum Schluß meinte Harald noch:
 
-„Fennt Ihre Tochter vielleiht die Baroneſſe Helga?“
+»Kennt Ihre Tochter vielleicht die Baronesse Helga?«
+
 <@pagebreak/>
-2SDSDSSDSSSDS 241 029 020DBD20E020208S
+Da schien Vater Drews wie aus einem Traume zu ein
 
-Da ſc<ien Vater Drews wie aus einem Traume zu er=
+wachen …
 
-wachen ...
+Schüttelte den Kopf, murmelte:
 
-Scüttelte den Kopf, murmelte:
+»Unglaublich — — unglaublich!! — Ob Martha die
+Berlin von Zweilinden kennt? — Ha, natürlich, Herr …
 
-„Unglaublich = -- unglaubli<h!! =- Ob Martha die
-Serrin von Zweilinden kennt? -- Za, natürlich, Herr ...
+Herren … Sie war ja drei Jahre Stubenmädugen in Zweilinden,
+und sie verehrt die Baronesse über alle Maßen.«
 
-Horter ... Sie war ja drei Jahre Stubenmädugen in Zwei=
-linden, und ſie verehrt die Baroneſſe über alle Maßen.“
-
-Kaum hatte Drew8 den Satz beendet, als wir das
+Kaum hatte Drews den Satz beendet, als wir das
 Knarren der Hintertür hörten.
 
-Harſt ſprang auf ... Viß unſere Flurtür auf ... Und
--- -=- im Flur ſtand ... Martha Drews!!
+Harst sprang auf … Miß unsere Flurtür auf … Und
+— — im Flur stand … Martha Drews!!
 
-„Herein mit dir, Deern!“ rief der Alte. Herein mit dir!
-Wo warſt du die Nacht über?“
+»Herein mit dir, Deren!« rief der Alte. Herein mit dir!
+Wo warst du die Nacht über?«
 
-Harald ſagte freundlih: „Nicht wahr, Fräulein Martha,
-Sie waren in Zweilinden?“
+Harald sagte freundlich: »Nicht wahr, Fräulein Martha,
+Sie waren in Zweilinden?«
 
-Das blonde Fiſcherkind hatte ſich ſchnell gefaßt ...
+Das blonde Fischerkind hatte sich schnell gefaßt …
 
-Ihre Untwort klang kühl und ruhig:
+Ihre Antwort klang kühl und ruhig:
 
-„3a, iM war dort ... I< bekam ſo ſtarke Zahnſchmerzen
--.. Und da die Baroneſſe ein gutes Mittel gegen Zahnweh
-beſitzt, wollte ich mir Linderung verſchaffen. Die Baroneſſe
-hat mich aud) gleich nod) dabehalten, damit ich nichts nachts
-no<mals den Weg zurüczulegen brauchte. =- Bater, haſt du
-dic< etwa meinetwegen geängſtigt?!“
+»Ja, ich war dort … Ich bekam so starke Zahnschmerzen
+-… Und da die Baronesse ein gutes Mittel gegen Zahnweh
+besitzt, wollte ich mir Linderung verschaffen. Die Baronesse
+hat mich auch gleich noch dabehalten, damit ich nichts nachts
+nochmals den Weg zurückzulegen brauchte. — Vater, hast du
+dich etwa meinetwegen geängstigt?!«
 
-Drews war aufgeſtanden. Seine Stimme klang drohend
+Drews war aufgestanden. Seine Stimme klang drohend
 
-. „Deern, das ſind Flauſen mit den Zahnſchmerzen!! Her-
-aus mit der Wahrheit!!!“ '
+… »Deren, das sind Brausen mit den Zahnschmerzen!! Heraus
+mit der Wahrheit!!«
 
-Martha machte ein ſehr gekränkte8 Geſicht und holte aus
-der Kleidertaſche ein Fläſ<hen hervor ... „Hier ſind die
-Zahnſc<hmerzentropfen, Bater ... “
+Martha machte ein sehr getränktes Gesicht und holte aus
+der Kleidertasche ein Fläschchen hervor … »Hier sind die
+Zahnschmerzentropfen, Vater …«
 
-Der Alte wurde unſicher ...
+Der Alte wurde unsicher …
 
-Blickte Harſt fragend an ...
+Blickte Harst fragend an …
 
-Und Harald meinte leichthin: „Weshald ſollte Ihre
-Tochter Sie belügen, Herr Drews?! -- Vielleicht brühen Sie
-uns jeßt eine gute Taſſe Kaffee auf, Fräulein Bartha ...
-Wir wollen die Morgenſtunden genießen ,.. Dor Regen hat
+Und Harald meinte leichthin: »Weshalb sollte Ihre
+Tochter Sie belügen, Herr Drews?! — Vielleicht brühen Sie
+uns jetzt eine gute Tasse Kaffee auf, Fräulein Gattin …
+Wir wollen die Morgenstunden genießen … Vor Regen hat
 <@pagebreak/>
-DSESDSSDSEDSSIOSEO32 25 DSSESSISSEEDIEOD
+ja aufgehört, und dort zeigt sich schon ein großes Stück
+blauen Himmels …«
 
-ja aufgehört, und dort zeigt ſich ſchon ein großes Stü
-blauen Himmels ...“
+Hiermit war die Sache scheinbar abgetan …
 
-Hiermit war die Sache ſcheinbar abgetan ...
+Scheinbar …
 
-Edkeinbar ...
+Fräulein Martha zog sich in die Küche zurück, und der
+alte Drews flüsterte:
 
-Fräulein Martha 30g ſich in die Küche zurü>, und der
-alte Drews flüſterte:
+»Die Martha ist ein gutes Kind … Sie lügt nicht …
+— So, und nun will ich mich erst mal anziehen … Auf
+Wiedersehen, meine Herren …«
 
-„Die Martha iſt ein gutes Kind ... Sie lügt nicht ...
--- So, und nun will ic mich erſt mal anziehen ... Auf
-Wiederſehen, meine Herren ...“
+<h2>5. Kapitel.</h2>
+<h3>Fünf in einer Zelle.</h3>
 
-5. Kapitel.
-Fünf in einer Zelle.
+Die Tür klappte hinter ihm zu …
 
-Die Tür klappte hinter ihm zu ...
+»Sie lügt doch!« meinte Harald leise. »Lieber Alter,
+mit unserem Inkognito ist nun vorbei … Das kommt
+davon, wenn man die Kofferschlüssel abzuziehen vergißt!«
 
-„Sie lügt doh!“ meinte Harald leiſe. „Lieber Alter,
-mit unſerem Inkognito iſs nun vorbei ... Das kommt
-davon, wenn man die Kofferſhlüſſel abzuziehen vergißt!“
+Und er deutete auf unseren Requisitenkoffer, der Linie
+an der Wand auf einem Bock stand …
 
-Und er veutete auf unſeren Reguijiienkoffer, der linis
-an der Wand auf einem Bo> ſtand ...
+Wahrhaftig, — — die Schlüssel stecken!!
 
-Wahrbaftig, == = die SHlüſſel ſte&ten!!
-
-Nut war auh mir alles klar: Martha mußte gemerkt
-haben, wie wir durch das Fenſter das Haus vorließen. Das
-baite fie argwöhniſc<; gemacht, und de8zalb Hatte ſie ſich hier
-ins Zimmer geſchlihen und den Inhalt des Koffers ſich ans=
-geſehei: ..! Und dieſer Inhalt -- Perü&en, Bärte, Schmins=
-fen, Koſtüme* und ſo weiter -- hatten ihr ſofort geſagt, daß
+Nu! war auch mir alles klar: Martha mußte gemerkt
+haben, wie wir durch das Fenster das Haus vorließen. Das
+hatte sie argwöhnisch; gemacht, und deshalb Hatte sie sich hier
+ins Zimmer geschlichen und den Inhalt des Koffers sich ans-gesehei:
+…! Und dieser Inhalt — Perücken, Bärte, Schmuggler,
+Kostüme« und so weiter — hatten ihr sofort gesagt, daß
 <@pagebreak/>
-DSOSSDODODSIDS 26 D0dDD8ESO0OSBD2S
+-e8 mit unserer harmlosen Berufstätigkeit als Kaufleute nicht
+weit her sein könnte!
 
--e8 mit unſerer harmloſen Berufstätigkeit als Kaufleute nicht
-weit her ſein könnte!
+»Ja — und unsere Ausweise liegen obenauf!« nickte
+Harald … »Merkwürdig dabei ist nur das eine, daß Martha
+sofort gewußt hat, wir seien des geheimnisvollen Grabes und
+Somit auch der Baronesse wegen hier. Mithin, lieber Alter …«
 
-„Ia = und unſere AuSweiſe liegen obenauf!“ nicte
-Harald ... „Merkwürdig dabei iſt nur das eine, daß Martha
-ſofort aewußt hat, wir ſeien des geheimnisvollen Grabes und
-Jomit auch der Baroneſſe wegen hier. Mithin, lieber Alter . .“
+»-. mithin ist Martha Drews gleichfalls eingeweiht,«
+ergänzte ich ohne Zaudern.
 
-„-. mithin iſt Martha Drews8 gleichfalls eingeweiht,“
-ergänzte iM ohne Zaudern.
+»Sehr richtig … Und vielleicht ist der junge Klemens,
+der den Herrn John Rütter immer spazieren fährt, mit der
+blonden Martha so ein wenig vertraut … Liedesleute vielleicht
+— in aller Heimlichkeit … — Jedenfalls bin ich gespannt,
+wie sich die Dinge nun weiter entwickeln werden.«
 
-„Sehr richtig ... Und vielleicht iſt der junge Klemens,
-der den Herrn John Rütter immer ſpazieren fährt, mit der
-blonden Martha ſo ein wenig vertraut ... Liedesleute viel=
-leiht -- in aller Heimlichkeit ... -- Jedenfalls bin ich ge=
-ſpannt, wie ſich die Dinge nun weiter entwickeln werden.“
+Bald darauf brachte Martha den Koffer …
 
-Bald darauf brachte Martha den Koffee ...
-
-Und jetzt, wo wir mit ihr allein waren, hatte ſich ihr
-ganzes Berhalten weſentlich geändert. Mit nervöſer Haſt
-ſtellte ſie Taſſen, Kanne und Sahnennapf auf den Tiſch,
-wagte nicht aufzubli>ken, wollte raſch wieder aus der Stube
+Und jetzt, wo wir mit ihr allein waren, hatte sich ihr
+ganzes Verhaften wesentlich geändert. Mit nervöser Hast
+stellte sie Tassen, Kanne und Sahnennapf auf den Tisch,
+wagte nicht aufzublicken, wollte rasch wieder aus der Stube
 Hinaus.
 
-Harald rief ſie an ...
+Harald rief sie an …
 
-„Fräulein Martha!“
+»Fräulein Martha!«
 
-Sie begann geradezu kläglich zu ſchluchzen ...
+Sie begann geradezu kläglich zu schluchzen …
 
-Murmelte: „IH -- ich will ... ehrlih ſein ... I<h
-„.. habe ... Ihren Koffer dort aufgemacht ... Und .. und
+Murmelte: »Ich — ich will … ehrlich sein … Ich
+»… habe … Ihren Koffer dort aufgemacht … Und … und
 Da ich mit dem Willi Klemens heimlich verlobt bin, wovon
-auch Bater nod) nichts weiß, wollte iH Willi warnen, wt
-er do<m mir gegenüber zugegeben hat, daß er mit der Baros»
-neſſe zuſammen ... ſchmuggelt ... Und da bin ich eben nad
-Zweilinden gelaufen ... I< hoffte, Willi dort zu treffen
-„.» Er war aber nicht da ...“
+auch Vater noch nichts weiß, wollte ich Willi warnen, wt
+er vorhin mir gegenüber zugegeben hat, daß er mit der Baros-nesse
+zusammen … schmuggelt … Und da bin ich eben nach
+Zweilinden gelaufen … Ich hoffte, Willi dort zu treffen
+».» Er war aber nicht da …«
 
-Harald beruhigte ſie ... Und da8 blonde, friſche Mäd=
-<en trodnete die Tränen und meinte: „I< wußte ja, Herr
-Harſt, daß Sie ein mitfühlende8 Herz haben ... IH hade ja
-T4on ſo viel von Ihnen geleſen ...“
+Harald beruhigte sie … Und daß blonde, frische Mädchen
+trocknete die Tränen und meinte: »Ich wußte ja, Herr
+Harst, daß Sie ein mitfühlendes Herz haben … Ich habe ja
+T4on so viel von Ihnen gelesen …«
 
-„Bitte =- nennen Sie mich Horter, Fräulein Martha ...
+»Bitte — nennen Sie mich Herren, Fräulein Martha …
+
 <@pagebreak/>
-DSSSSSSSDSDS 27 DOO S0SS0S0SD0S0ES00S
+— Was haben Sie denn die ganze Zeit über in Zweilinden
+getan?«
 
--- Wa3 haben Sie denn die ganze Zeit über in Zweilinden
-getan?“ |
+»Auf die Baronesse und Willi gewartet …«
 
-„Auf die Baroneſſe und Willi gewartet ...“
+»Haben Sie dort jemandem erzählt, wer wir in Wirklichkeit
+sind?«
 
-„Haben Sie dort jemandem erzählt, wer wir in Wirk»
-lichfeit ſind?“
+»Nein, nein … Bestimmt nicht …«
 
-„Nein, nein ... Beſtimmt nicht...“
+»So — dann bitte ich Sie dringend, Fräulein Martha,
+auch weiter zu schweigen, da wir nicht wegen des Schmuggelns
+hier sind … Wir werden Ihrem Verlobten also nichts antun,
+im Gegenteil, wir können ihn weit eher schützen …«
 
-„So -=- dann bitte ich Sie dringend, Fräulein Martha,
-auch weiter zu ſchweigen, da wir nicht wegen des Shmuggelns
-hier ſind ... Wir werden Ihrem Berlobten alſo nicht8 an=
-tun, im Gegenteil, wir können ihn weit eher ſchüßen ...“
+Marthas Gesicht leuchtete auf … »Oh — ich danke Ihnen,
+Herr 122,27 Holte! 36: 55
 
-Marthas Geſicht leuchtete auf ... „Oh -- ich danke Ihnen,
-HEPT 122,27 HOLtEL 36: 55
+Dann ging sie …
 
-Dann ging ſie ...
+Harald füllte bedächtig unsere Kaffeetassen …
 
-Harald füllte bedächtig unſere Kaffeetaſſen ...
+Sagte unvermittelt: »Wir werden sofort nochmals das
+Grab suchen, daß heißt den Eingang zu den Kellern der
+Burg, von der Drews uns erzählte … Ich bin da auf einen
+ganz besonderen Gedanken gekommen … Frage nicht …
+Alles wird sich ja von selbst herausstellen — alles …«
 
-Sagte unvermittelt: „Wir werden ſofort nohmals8 das
-Grab ſuchen, da8 heißt den Eingang zu den Kellern der
-Burg, von der Drews uns erzählte ... I< bin da auf einen
-ganz beſonderen Gedanken gekommen ... Frage niht ...
-Alles wird ſich ja von ſelbſt herausſtellen = alles ...“
-
-Ohne Nachtſchraf alſo wieder einen Strandſpaziergang!!
-Gewiß, der Kaffee hatte meine erſchlafften Nerven etwas
-aufgepulvert ... Und die erſten zehn Minuten unſeres
-Morgenſpaziergangs hielt dieſe künſtlihe Friſche denn auc<
-leidlih an. Nachher, als wir an Ort und Stelle angelangt
-waren und Harſt nun den bewußten Dünenkeſſel wirklich ges
-funden hatte, da ſaß ich untätig im Sande und ſchaute ihm
-ohne ſonderliches Intereſſe zu, wie er Maulwurf ſpielte ...
+Ohne Nachtschlaf also wieder einen Strandspaziergang!!
+Gewiß, der Kaffee hatte meine erschlafften Nerven etwas
+aufgepulvert … Und die ersten zehn Minuten unseres
+Morgenspaziergangs hielt diese künstliche Frische denn auch
+leidlich an. Nachher, als wir an Ort und Stelle angelangt
+waren und Harst nun den bewußten Dünenkessel wirklich gefunden
+hatte, da saß ich untätig im Sande und schaute ihm
+ohne sonderliches Interesse zu, wie er Maulwurf spielte …
 
 Diesmal grub er mit den Händen weit tiefer als in der
-vergangenen Nacht. Dies8mal (e8 war ja derſelbe Dünens
-keſſel, und es mußte der richtige ſein!) ſtieß er denn auch
-in dem aus8gehobenen Sandloh nah einer Biertelſtunde auf
-Mauerwerk ...
+vergangenen Nacht. Diesmal (es war ja derselbe Füttert
+Kessel, und es mußte der richtige sein!) stieß er denn auch
+in dem ausgehobenen Sandloch nach einer Viertelstunde auf
+Mauerwerk …
 
-Und -- was bedeutete Martha Drews Mokka gegenüber
-dieſem ſichtbaren Zeichen, daß wir auf der rehten Fährte
-waren! Max Scraut vergaß ſeine Jahre und den fehlen=
-den Nachtſ<Hlaf. Wit einem Schlage freute iH mich des
+Und — was bedeutete Martha Drews Mokka gegenüber
+diesem sichtbaren Zeichen, daß wir auf der rechten Fährte
+waren! Max Schraut vergaß seine Jahre und den fehlenden
+Nachtschlaf. Mit einem Schlage freute ich mich des
 <@pagebreak/>
-DSSDSODSODSSDBESD 28 SDSSSEDSBSSESDOSDS
+köstlichen Morgens, des erfrischenden Seewindes, des Kiefernduftes
+und der am Strande umherstolzierenden Krähen, die
+nach ’angespülten toten Fischen suchten … —
 
-köſtlichen Morgens, des erfriſ<enden Seewindes, des Kiefern»
-duftes und der am Strande umherſtolzierenden Krähen, die
-nah 'angeſpülten toten Fiſchen ſuchten ... »
+Eis war jetzt sechs Uhr morgens …
 
-ES8 war jeßt ſehs Uhr morgens .
+Keine Menschenseele weit und breit …
 
-Keine Menſchenſeele weit und breit ...
+Nur auf See ein paar Fischerboote …
 
-Nur auf See ein paar Fiſcherboodte ...
+Und — ich griff mit zu …
 
-Und =- ich griff mit zu ...
+Ich holte aus dem nahen Walde Tannenzweige und
+stärkere Reste, damit wir das Loch Abstützen konnten und der
+Sand nicht immer nachrieselte und alle Arbeit illusorisch
+machte …
 
-IH holte aus dem nahen Walde Tannenzweige und
-ſtärkere Neſte, damit wir das Loch abſtüßen konnten und der
-Sand nigt immer nacrieſelte und alle Arbeit illuſoriſch
-machte ...
+So gelang es uns denn, diesen Schacht allmählich zu elf
+erweitern …
 
-So gelang es uns denn, dieſen Schacht allmäßlich ZU ebs
-weitern ...
-
-Die liebe Sonne meinte e3 gut -- zu gut ... Wir zogen
-die Jagen aus ...
+Die liebe Sonne meinte es gut — zu gut … Wir zogen
+die Jagen aus …
 
 Wir freuten uns: nicht nur Mauerwerk lag jetzt frei,
-ſondern auch ein ſtarkes Brett, das offenbar ein Loh in dem
-Mauerwerk bededte.
+sondern auch ein starkes Brett, das offenbar ein Loch in dem
+Mauerwerk bedeckte.
 
 Dann endlich: Harald hob das Brett heraus!!
 
 Endlich?!
-Und unter dem Brett da8, wa38 wir ſtet8 vermutet hatten:
-eine Maueröffnung, zaEig, IDEE -- zweiſello8 ein
+Und unter dem Brett daß, was wir stets vermutet hatten:
+eine Maueröffnung, sprich, Idee — zweifellos ein
 
-Loh in einem Kellergewölbe .
+Loch in einem Kellergewölbe …
 
-Harſt leuchtete hinein ...
+Harst leuchtete hinein …
 
-Der Lichtkegel der Taſchenlampe fiel drei Meter tief auf
+Der Lichtkegel der Taschenlampe fiel drei Meter tief auf
 den mit verwitterten, großen Ziegeln ausgelegten Boden
-eines Kellers! : ?
+eines Kellers!:?
 
 Wir waren am Ziel! Wir hatten gefunden, was dem
-Geheimnis des Grabes einen großen Teil des Geheimnis3vollen
-nahm: der Weg zu dem von Harald vermuteten unterirdiſchen
-Schlupfwinkel war entdet! Und damit war au< die anfäng=
-lim? ſo dunkle Frage gelöſt, we8Shalb Freund Frize Nummel
-nachher in dem Kiſtenſarge eine Mumie ſtatt des Blonden
+Geheimnis des Grabes einen großen Teil des Geheimnisvollen
+nahm: der Weg zu dem von Harald vermuteten unterirdischen
+Schlupfwinkel war Kutter! Und damit war auch die anfänglich?
+so dunkle Frage gelöst, weshalb Freund Spitze Nummer
+nachher in dem Kistensarge eine Mumie statt des Blonden
 gefunden hatte!
 
-I< betone hier:“ Einen Teil de8 Geheimnisvollen!! --
-Der Leſer wird ſich ja ſelbſt ſagen, daß no< übergenug ge»
+Ich betone hier:« Einen Teil des Geheimnisvollen!! —
+Der Leser wird sich ja selbst sagen, daß noch übergenug geradezu
 <@pagebreak/>
-DSSDSSSDOSSSS 29 DSSSDSDSSDSOS
+rätselhafte Einzelheiten vorhanden waren, die dieses
+Problem nach wie vor als etwas Besonderes hinstellten. Ich
+erinnere nur an das seltsame Benehmen der Baronesse Helga,
+die vor dem Kistensarge, wie unser Freund Obertertianer betont
+hatte, niederkniete und zu beten schien, — ich erinnere weiter
+an den Schoner, den der Blonde, also John Reiter, so häufig
+mit dem Segelboote aufsuchte! —
 
-radezit rätſelhafte Einzelheiten vorhanden waren, die dieſes
-Problem nach wie vor als etwas Beſonderes hinſtellten. Ich
-erinnere nur an das ſeltſame Benehmen der Baroneſſe Helga,
-die vor dem Kiſtenſarge, wie unſer Freund Obertertianer betoni
-batte, niederkniete und zu beten ſchien, -- id) erinnere weiter
-an den Schoner, den der Blonde, alſo John Reiter, ſo häufig
-mit dem Segelboote aufſuchte! =
+Harst sagte jetzt zu. mir:
 
-Harſt ſagte jezt zu. mir:
-
-„ID werde hinabſpringen, mein Alter ... Sobald ich
-unten feſtgeſtellt habe, das die Luft rein iſt, kannſt du mir
+»Ich werde hinabspringen, mein Alter … Sobald ich
+unten festgestellt habe, das die Luft rein ist, kannst du mir
 folgen 77
 
-Und er faßte in die Shlüſſeltaſ<e der Beinkleider und
-nahm ſeine Clementpiſtole in die Hand, entſicherte ſie und
+Und er faßte in die Schlüsseltasche der Beinkleider und
+nahm seine Clementpistole in die Hand, entsicherte sie und
 
-ließ ſich ſehr geſc<i>t hinabfallen, kam auf die Füße
-zu ſtehen, und leuchtete zunächſt die Umgebung ab ...“Dann
-verſchwand er nach links
+ließ sich sehr geschickt hinabfallen, kam auf die Füße
+zu stehen, und leuchtete zunächst die Umgebung ab …»Dann
+verschwand er nach links
 
-IH wartete drei Minuten ... fünf Minuten .
+Ich wartete drei Minuten … fünf Minuten …
 
-Mir wurde bereits recht bängli< zumute, al38 i< Harſt
-aus der Ferne rufen hörte: „Komm nur, -- «lies in Ord-=
-nung!“
+Wir wurde bereits recht bänglich zumute, als ich Harst
+aus der Ferne rufen hörte: »Komm nur, — »lies in Ordnung!«
 
 Seine Stimme hallte in dem Gewölbe dröhnend wider,
-und wenn niht vom Strande her noFH+ das Geräuſ<H der
+und wenn nicht vom Strande her nachts das Geräusch der
 Brandung gleichzeitig an mein Ohr gedrungen wäre, hätte
-ich vielleicht nicht ſo leichtgläubig angenommen, daß es NEIOG
-Harald ſei, der nach mir rief .
+ich vielleicht nicht so leichtgläubig angenommen, daß es Ding
+Harald sei, der nach mir rief …
 
-Ich rutſchte alſo in das Loh hinein ...
+Ich rutschte also in das Loch hinein …
 
-Hinter mir her rieſelte eine Menge Sand ... Und mein
-Pech wollte es, daß ich nog ſo unglücklich unten landete, daß
-ich naFH vorn auf die Zände fiel ...
+Hinter mir her rieselte eine Menge Sand … Und mein
+Pech wollte es, daß ich noch so unglücklich unten landete, daß
+ich matt vorn auf die Hände fiel …
 
-Fiel ... und glei) liegen blieb ...
+Fiel … und gleich) liegen blieb …
 
-Denn von hinten hatten ſich jähling8 zwei Kerle über
-mich geworfen ...
+Denn von hinten hatten sich jählings zwei Kerle über
+mich geworfen …
 
-Eine Decke flog mir über den Kopf ...
+Eine Decke flog mir über den Kopf …
 
-Und bevor ich noh reht zur Beſinnung kam, hatte man
-mir ſchon die Hände auf dem Rücken zuſammengebunden und
-mich wieder hochgeriſſen ...
+Und bevor ich noch recht zur Besinnung kam, hatte man
+mir schon die Hände auf dem Rücken zusammengebunden und
+mich wieder hochgerissen …
+
 <@pagebreak/>
-DSSDSSDSSOSS 30 DSDSESSOESEBSOS
+Die Decke hinderte mich am Sehen …
 
-Die De>e hinderte mih am Sehen ...
+Rücksichtslos stießen die beiden Kerle mich vorwärts …
 
-Rücſichtslos8 ſtießen die beiden Kerle mich vorwärts ...
+Ich taumelte nach etwa sechzig Schritten ein paar Stufen
+hinunter …
 
-Ich taumelte nach etwa ſechzig Schritten ein paar Stufen
-hinunter ...
+Stolperte über ein paar Beine, sank zu Boden und hörte
+noch4 das Zuschlagen einer offenbar sehr schweren Tür …
 
-Stolperte über ein paar Beine, ſank zu Boden und hörte
-no<4 das Zuſchlagen einer offenbar ſehr ſ<Hweren Tür ...
+Dann Stille …
 
-Dann Siille ..
+Ich rappelte mich auf …
 
-Id) rappelte mich auf ...
+Die Decke war mir vom Kopf geglitten, und der Strick
+um die Handgelenke hatte sich gelöst.
 
-Die De>e war mir vom Kopf geglitten, und der Stri>
-um die Handgelenke hatte ſich gelöſt.
+Trotzdem konnte ich nichts von der Umgebung erkennen …
 
-Troßdem konnte ich ni<ht8 von der Umgebung erkennen ...
+Pechfinster war es hier …
 
-Pechfinſter war es hier ... ,
+Und jetzt … eine Stimme …
 
-Und jetzt ... eine Stimme ...
+Jetzt war’s Harald:
 
-Jetzt war's Harald:
+»Bist Du’s, mein Alter?«
 
-„Biſt du's, mein Alter?“
+Oh See
 
-HOT eEE
+»Tot man dir die Taschenlampe abgenommen?«
 
-„Hot man dir die Taſchenlampe abgenommen?“
+Ich mußte erst meine Jackentasche befühlen …
 
-IH mußte erſt meine Ja>entaſche befühlen ...
+»Ja — Lampe und Pistole …«
 
-„3a -- Lampe und Piſtole ...“
+»Wie mir! Tröste dich u Die Halunken fielen so
+urplötzlich über mich her, daß …
 
-„Wie mir! Tröſte dic< u Die Halunken fielen ſo
-“ urplößlich über mich her, daß .
+Und da geschah’s
 
-Und da geſc<hah's
+Da eine andere, ganz helle Knabenstimme:
 
-Da eine andere, ganz helle Knabenſtimme:
+»Gott sei Dank, nun sind wir hier wenigstens nicht mehr
+allein, Herr Harst …!«
 
-„Gott ſei Dank, nun ſind wir hier wenigſtens niht mehr
-allein, Herr Harſt ..!“
+Unser Fritz!
 
-Unſer Fritz!
+»Junge, du auch hier?!« fragte Harald erstaunt …
 
-„Junge, du auch hier?!“ fragte Harald erſtaunt ...
+»Und ob, Herr Harst! Und auch die Baronesse Struvesund
+sitzt hier neben mir an der Wand …«
 
-„Und ob, Herr Harſt! Und au< die Baroneſſe Struve»
-ſund ſitzt hier neben mir an der Wand ...“
+Die Baronesse meldete sich:
 
-Die Baroneſſe meldete ſich:
+»Leider sitze ich hier, meine Herren … Nun sind wir zu
+vieren … Und hätten es uns wohl kaum träumen lassen,
+auf diese Weise bekannt zu werden!«
 
-„Leider ſize ic< hier, meine Herren ... Nun ſind wir zu
-vieren ... Und hätten e8 uns wohl kaum träumen laſſen,
-auf dieſe Weiſe bekannt zu werden!“
+Harsts Benzinfeuerzeug flammte auf …
 
-Harſis Benzinfeuerzeug flammte auf .
+»Das winzige Lichtlein genügte kaum, dieses feuchte, quadratische
+Kellergelaß auch nur notdürftig zu erleuchten …
 
-"Das winzige Lichtlein genügte kaum, dieſes feuchte, qua»
-dratiſche Kellergelaß auc< nur notdürftig zu erleuchten ...
 <@pagebreak/>
-DD0DSD0EG0220DIO222 31 0208052228220 8
+Da saßen tatsächlich links an der Wand die Baronesse
+und Fritz Rummel …
 
-Da ſaßen tatſächlich link8 an der Wand die Baroneſſe
-und Friz Rummel ...
+Und wir beide erhoben uns, nahmen neben ihnen Platz.
 
-Und wir beide erhoben uns, nahmen neben ihnen Plat.
+Das Flämmchen erlosch wieder …
 
-Das Flämmdyen erloſch wieder ...
+»Baronesse, wissen Sie, wer uns hier eingesperrt hat?«
 
-„Baroneſſe, wiſſen Sie, wer uns hier eingeſperrt hat?“
+Ich war auf die Antwort außerordentlich gespannt …
 
-IH war auf die Antwort außerordentlich geſpannt ...
-
-Und dieſe Untwort war kurz und entſprad) ohne Zweiſel
+Und diese Antwort war kurz und entsprach ohne Zweifel
 der Wahrheit:
 
-„Id) weiß es nicht, Herr Harſt, und ich habe nicht einmal.
-die geringſte Bermittung, wer es ſein könnte ...“
+»Ich weiß es nicht, Herr Harst, und ich habe nicht einmal.
+die geringste Vermutung, wer es sein könnte …«
 
-„Dann wäre es wohl am beſten, Baroneſſe,“ meinte Ha=
-rald ſehr höflich, „wenn Sie uns jetßt mitteilen würden, was
-e8 mit dem Kiſtengrabe und mit John Reiter ſowie dem
-Schoner auf ſich hat ...“
+»Dann wäre es wohl am besten, Baronesse,« meinte Harald
+sehr höflich, »wenn Sie uns jetzt mitteilen würden, was
+es mit dem Kistengrabe und mit John Reiter sowie dem
+Schoner auf sich hat …«
 
-Er hatte ſeine Stimme vorſichtig gedämpft ...
+Er hatte seine Stimme vorsichtig gedämpft …
 
-Die Baroneſſe erwiderte ebenſo leiſe:
+Die Baronesse erwiderte ebenso leise:
 
-„Gern, Herr Harſt ... Sie ſollen alles hören ... Ih ...“
+»Gern, Herr Harst … Sie sollen alles hören … Ich …«
 
-Neber dieſes „I<hH“ kam die Baroneſſe jedoH nicht hina1:3.
+Nebel dieses »Ich« kam die Baronesse jedoch nicht Sinai:3.
 
-Ein großer Riegel kreiſchte mißtönend ... Die di>e Holz
-tür ging auf ... und die drei Stufen hinunter ſtolperte ein
-Menſ<, ein neuer Leidens8gefährte, brummte wütend: „Der
-Henker hole die Scufte!“
+Ein großer Riegel kreischte mißtönend … Die dicke Holz
+für ging auf … und die drei Stufen hinunter stolperte ein
+Mensch, ein neuer Leidensgefährte, brummte wütend: »Der
+Henker hole die Schufte!«
 
-Die Baroneſſe rief:
+Die Baronesse rief:
 
-„Reiter = -- Sie etwa?!“
+»Reiter — — Sie etwa?!«
 
-„Hallo = -=- Sie etwa, Baroneſſe?!“
+»Hallo — — Sie etwa, Baronesse?!«
 
-Und um uns fünf herum war die Finſternis und die
-feuchtkalte Moderluft unſerer Zelle ... Nun fehlte nur noh
-Willi Klemens, der junge Fiſcher ,.. Dann = -=- wären wir
-vollzählig geweſen ...!!
+Und um uns fünf herum war die Finsternis und die
+feuchtkalte Moderluft unserer Zelle … Nun fehlte nur noch
+Willi Klemens, der junge Fischer … Dann — — wären wir
+vollzählig gewesen …!!
+
 <@pagebreak/>
- 
-<@pagebreak/>
-DSODSSSODSSDOSSO 33 0000002020200 20
 
+<@pagebreak/>
 Die Stimme
-aus dem Jenſeits.
+aus dem Jenseits.
 
-1. Kapitel.
-' Der große Schre.
+<h2>1. Kapitel.</h2>
+<h3>Der große Ihre.</h3>
 
-IH glaube kaum, daß meine verehrten Leſer und lieben
-Freunde aus dem ſoeben beendeten erſten Teil ſelbſt bei her=
-vorragendem Kombinations8talent hHeraus8gefunden haben
-können, um was e8 ſich bei all den bi8her geſchilderten Ge=
-ſHehniſſen, die man als „Geheimnis eine8 Grabes“ bezeichnen
+Ich glaube kaum, daß meine verehrten Leser und lieben
+Freunde aus dem soeben beendeten ersten Teil selbst bei hervorragendem
+Kombinationstalent herausgefunden haben
+können, um was es sich bei all den bisher geschilderten Geschehnissen,
+die man als »Geheimnis eines Grabes« bezeichnen
 kann, handeln dürfte.
 
-Ic<h möchte nun die nächſten Ereigniſſe nur kurz ſtreifen.
+Ich möchte nun die nächsten Ereignisse nur kurz streifen.
 
-John Reiter ſetzte ſih zu uns, nachdem ich ihm die
-Handfeſſeln abgenommen hatte, die auc< bei ihm nur zanz
-loſe zugezogen waren. Harſt hatte wieder ſein Feuerzeug für
-kurze Zeit aufleuchten laſſen, und bei dieſem ſpärlihen Licht
-hatte ſiH 3wiſchen Reiter und uns eine Erkennungsſzene abs
-geſpielt, die inſofern der Komik nicht entbehrte, als der bes
-kannte Kriminalaſſiſtent ſein maßloſe8 Erſtaunen, gerade uns
+John Reiter setzte sich zu uns, nachdem ich ihm die
+Handfesseln abgenommen hatte, die auch bei ihm nur ganz
+lose zugezogen waren. Harst hatte wieder sein Feuerzeug für
+kurze Zeit aufleuchten lassen, und bei diesem spärlichen Licht
+hatte sich Zwischen Reiter und uns eine Erkennungsszene als
+gespielt, die insofern der Komik nicht entbehrte, als der des
+kannte Kriminalassistent sein maßlose8 Erstaunen, gerade uns
 beide hier vorzufinden, in Worte kleidete, die für uns nicht
-gerade ſ<meichelhaft waren ..
+gerade schmeichelhaft waren …
 
-Reiter hatte dann kaum neben un8 Plat genommen, als
-Harald ihn auch ſchon bat, uns doh zu erzählen, wie man ihn
-„abgefangen“ habe „...
+Reiter hatte dann kaum neben uns Platz genommen, als
+Harald ihn auch schon bat, uns doch zu erzählen, wie man ihn
+»abgefangen« habe»…
 
-Det. 180. 2
 <@pagebreak/>
-DSSDDSOSSOSDIES 31 SSDSSD2oOSBSESBDSS
+Worauf der Beamte in seiner recht eigenartigen Ausdrucksweise
+berichtete:
 
-Worauf der Beamte in ſeiner re<ht eigenartigen Au»
-dru&sweiſe berichtete:
-
-„Es muß einer ſ<on viel Grüße im Schädel haben,
-um John Reiter einzuwi&Feln. Aber dieſe Gentlemen, die ih
-nicht mal von der Kehrſeite kenne, haben fraglos übergenug
-Gehirngrüße zur Berfügung ... Stellen Sie ſich vor, Herr
-Harſt: Zuerſt haben die Herrſchafien ſich morgens in meine
-Zimmer eingeſchlihen und mich <loroformiert und meine
-Sachen dur<ſu<t. IH würde wohl noch im Narkoſerauſch
+»Es muß einer schon viel Grüße im Schädel haben,
+um John Reiter einzuwi&Feln. Aber diese Gentlemen, die ich
+nicht mal von der Kehrseite kenne, haben fraglos übergenug
+Gehirngrüße zur Verfügung … Stellen Sie sich vor, Herr
+Harst: Zuerst haben die Herrschaften sich morgens in meine
+Zimmer eingeschlichen und mich chloroformiert und meine
+Sachen durchsucht. Ich würde wohl noch im Narkoserausch
 im Bett liegen, wenn mich nicht die in meinem Schlafzimmer
-überreichlih vorhandenen Müden derart gepeinigt hätten,
-daß ich über ſtarkem Nieſen erwachte ... Das Viehzeug muß
-mir in die Naſenlöcher gekrabbelt ſein ... Jedenfalls: I<
+überreichlich vorhandenen Müden derart gepeinigt hätten,
+daß ich über starkem Niesen erwachte … Das Viehzeug muß
+mir in die Nasenlöcher gekrabbelt sein … Jedenfalls: Ich
 erwachte, merkte an meinem benommenen Kopf, was los
-war, und 3og mich an, unterſuchte die Zimmer, fand heraus?
-daß zwei Kerle in dem Schrank im Wohnzimmer geſte>t
-hatten und daß ſie nachher durch das eine Fenſter hinaus=
-geflettert waren ...“
+war, und zog mich an, untersuchte die Zimmer, fand heraus?
+daß zwei Kerle in dem Schrank im Wohnzimmer gesteckt
+hatten und daß sie nachher durch das eine Fenster hinausgeklettert
+waren …«
 
-„Ein beſonderer Gedanke trieb miHh dann hier in die
-Dünen ... I< weiß ja nicht, Herr Harſt, wie weit Sie
-bereits in die Dinge hier eingeweiht ſind ... Mein Unglü>
-wurde jedenfalls das Sandloch in dem Dünenteſſel ... I<
-war wie? vor den Kopf geſchlagen, als ich es ſah, und ich
-konnte mir aud) nicht im entfernteſten zuſammenreimen, wer
-dieſes Lo) ſo kunſtgereht ausgehoben und abgeſtüßt haben
-könnte ... Wie ich dann, alle Borſiht beiſeite laſſend, mit
-der Piſtole in der Hand hinabſprang ...“
+»Ein besonderer Gedanke trieb mich dann hier in die
+Dünen … Ich weiß ja nicht, Herr Harst, wie weit Sie
+bereits in die Dinge hier eingeweiht sind … Mein Unglück
+wurde jedenfalls das Sandloch in dem Dünenkessel … Ich
+war wie? vor den Kopf geschlagen, als ich es sah, und ich
+konnte mir auch nicht im entferntesten zusammenreimen, wer
+dieses So) so kunstgerecht ausgehoben und abgestützt haben
+könnte … Wie ich dann, alle Vorsicht beiseite lassend, mit
+der Pistole in der Hand hinabsprang …«
 
-»„--. wie wir, die wir das Loch gebuddelt hatten,“ warf
-Harald ein ...“
+»»—. wie wir, die wir das Loch gebuddelt hatten,« warf
+Harald ein …«
 
-John. Reiter blieb eine Weile ſtumm ... .
+John. Reiter blieb eine Weile stumm …
 
-Dann ...
+Dann …
 
-„Alſo Sie beide -- -=- Sie beide!! = Nun, im Grunde
-bleibt es ſich ja gleich, wer den Schacht aus8gehoben hat ...
-Der ShHhacht wurde für mich zur Mauſefalle ... regelrecht!
-Kaum hatten meine Pedalen unten im Gewölbe den Flieſen»
-boden berührt, als von hinten ...“
+»Also Sie beide — — Sie beide!! — Nun, im Grunde
+bleibt es sich ja gleich, wer den Schacht ausgehoben hat …
+Der Schlucht wurde für mich zur Mausefalle … regelrecht!
+Kaum hatten meine Pedalen unten im Gewölbe den Fliesenboden
+berührt, als von hinten …«
+
 <@pagebreak/>
-SOSSE <S0GOCEGEBEOEO 2) BEDEESESDDBSEIDOD
+-»». wie bei uns, Herr Reiter …!? Den Rest können
+Sie sich sparen … — — Und nun, Baronesse, wo hat man
+Sie und Fritz Rummel abgefangen! Ich nehme an, daß
+der Junge gestern abend das Kistengrab entgegen meinem
+Verbot nochmals besucht hat …«
 
--»». wie bei uns, Herr Reiter ...!? Den Reſt können
-Sie ſich ſparen ... = =- Und nun, Baroneſſe, wo hat man
-Sie und Friz Rummel äbgefangen! I< nehme an, daß
-der Junge geſtern abend das Kiſtengrab entgegen meinem
-Verbot no<hmals8 beſucht hat ...“
+»Ja,« meldete Fritze sich sehr kleinlaut …
 
-„3a,“ meldete Fritze ſic<h ſehr kleinlaut ...
+Und die Baronesse ergänzte: »Ich überraschte ihn gestern
+abend, als er in dem Dünenkessel den Deckel der Kiste freilegen
+wollte … Wir hatten inzwischen jedoch schon bemerkt, daß
+der Junge uns nachspionierte, und die Kiste entfernt und
+das »Grab« verschwinden lassen … Als ich ihn fragte, was
+er hier treibe, wollte er mir entwischen. Ich hielt ihn jedoch
+fest und 303g ihn mit mir in den nahen Wald, um ihn
+dort gründlich auszufragen, denn ich fürchtete, daß er seine
+Beobachtungen auch anderen bereits mitgeteilt haben konnte
+… Im Walde riß er sich jedoch los, und kaum war sei mir
+entkommen, als auch schon mein Sisal mich ereilte: See
+über den Kopf und kräftige Arme, die mich davontrugen …«
 
-Und die Baroneſſe ergänzte: „I< überraſchte ihn geſtern
-abend, als er in dem Dünenkeſſel den Deckel der Kiſte freilegen
-wollte ... Wir hatten inzwiſchen jedo< ſchon bemerkt, daß
-der Junge uns nachſpionierte, und die Kiſte entfernt und
-das „Grab“ verſchwinden laſſen ... Als ich ihn fragte, was
-er hier treibe, wollte er mir entwiſchen. Ic hielt ihn je=
-doh feſt und 303g ihn mit mir in den nahen Wald, um ihn
-dort gründlich auszufragen, denn ich fürchtete, daß er ſeine
-Beobachtungen au< anderen bereits mitgeteilt haben konnte
-... Im Walde riß er ſic) jedoch los, und kaum war jer mir
-entfommen, als auch ſhon mein Siſal mich ereilte: Dee
-über den Kopf und kräftige Arme, die mich davontrugen ...“
+»Genau wie mich,« meinte Spitze Rummel …
 
-„Genau wie mich,“ meinte Frize Rummel. ...
+Eine Pause trat ein …
 
-Eine Pauſe trat ein ... .
+John Reiter sagte dann:
 
-John Reiter ſagte dann:
+»Wenn man nur wüßte, wer diese gerissenen Burschen
+sind, die jetzt hier die Herren in unseren Gewölben spielen
+… — Baronesse, haben Sie nicht irgendeine Vermutung?«
 
-„Wenn man nur wüßte, wer dieſe geriſſenen Burſchen
-ſind, die jezt hier die Herren in unſeren Gewölben ſpielen
-... = Baroneſſe, haben Sie nicht irgendeine Bermutung?“
+»Nein … — Herr Harst, wir wurden vorhin unterbrochen
+… Ich will Ihnen und Ihrem Freunde nun in aller Kürze
+darüber Aufschluß geben, um was es sich hier handelt …
+Daß das von uns hergerichtete Grab lediglich …«
 
-„Nein ... = Herr Harſt, wir wurden vorhin unterbrochen
-... Ih will Ihnen und Ihrem Freunde nun in aller Kürze
-darüber Aufſchluß geben, um was es ſich hier handelt .
-Daß das von uns hergeridzete Grab lediglich ...“
+Dann — — wieder kreischte der Türriegel …
 
-Dann -- -- wieder kreiſchte der Türriegel ...
+Laternenschein fiel in die drohende Finsternis unseres
+Kerkers …
 
-Laternenſ<ein fiel in die drohende Finſternis unſeres
-Kerkers ...
+Die Tür ging auf …
 
-Die Tür ging auf ...
-
-Draußen drei gut angezogene Männer =- =- Herren in
-Sportanzügen =- =- vor den Geſichtern aus grauer Lein=
-wand geſchnittene Bollmasken ...
+Draußen drei gut angezogene Männer — — Herren in
+Sportanzügen — — vor den Gesichtern aus grauer Leinwand
+geschnittene Felsmassen …
 
 Einer der drei rief:
+
 <@pagebreak/>
-DSSDSSSSDOSSS 36 D0DODE0OBDOS2020D
+»Bitte — — die Herren Harst und Schraut …!«
 
-„Bitte = =- die Herren Harſt und Schraut ...1"
+Durchaus höflich, diese Aufforderung …
 
-Durchaus höflich, dieſe Aufforderung .
+Wir erhoben uns …
 
-Wir erhoben uns ...
+Harst schritt voran …
 
-Harſt ſchritt voran ...
-
-Zwei der Männer hielten Piſtolen bereit ...
+Zwei der Männer hielten Pistolen bereit …
 
 Der Sprecher warnte:
 
-„I< hoffe, daß Sie uns nicht zwingen werden, von unz
-Fferen Waffen Gebrauch zu machen. Wir müßten es tun-.
+»Ich hoffe, daß Sie uns nicht zwingen werden, von uns
+Tiefen Waffen Gebrauch zu machen. Wir müßten es tun-.
 
-„Feine Sorge,“ erwiderte Harald. „I< habe keine Luſt,
-mich niederknallen zu.„laſſen ...“
+»Feine Sorge,« erwiderte Harald. »Ich habe keine Luft,
+mich niederknallen zu.«lassen …«
 
-Wir ſtanden nun in dem Hauptgewölbe ...
+Wir standen nun in dem Hauptgewölbe …
 
-Die Tür fiel zu ... Der Riegel wurde vorgeſchoben ...
+Die Tür fiel zu … Der Riegel wurde vorgeschoben …
 
-Harald ſc<aute ji<h um, tat ganz ſo, als ob die drei gar
-nmt<t vorhanden, ſagte zu mir: „So ausgedehnte Keller=
-räume hätte iH hier nicht vermutet ...“
+Harald schaute sich um, tat ganz so, als ob die drei gar
+Furcht vorhanden, sagte zu mir: »So ausgedehnte Kellerräume
+hätte ich hier nicht vermutet …«
 
-„Wir au<h nicht,“ erklärte da der Sprecher etwas ironiſch,
-während ſi< die beiden anderen Gentlemen mehr abſeits
-hielten und ihre Biſtolen un8 andauernd bedrohten. „Wollten
-Sie mir jetzt folgen, meine Herren,“ fügte der Sprecher hin=
-ZU ... „Wir hätten mit Ihnen einiges zu verhandeln ...“
+»Wir auch nicht,« erklärte da der Sprecher etwas ironisch,
+während sich die beiden anderen Gentlemen mehr abseits
+hielten und ihre Pistolen uns andauernd bedrohten. »Wollten
+Sie mir jetzt folgen, meine Herren,« fügte der Sprecher hinzu
+… »Wir hätten mit Ihnen einiges zu verhandeln …«
 
-Er ſchritt nach links, den breiten Gewölbegang hinab ...
-Wir hiniterdrein ... Hinter uns die beiden Wächter ...
+Er schritt nach links, den breiten Gewölbegang hinab …
+Wir hinterdrein … Hinter uns die beiden Wächter …
 
-Die Keller waren auffallend gut erhalten, wenn au<h die
+Die Keller waren auffallend gut erhalten, wenn auch die
 Nähe der See hier überall Pilzbildungen und Schimmel an
-den Wänden hervorgerufen hatte ...
+den Wänden hervorgerufen hatte …
 
-IH ſah mehrere jchwarz nachgedunkelte Türen -- fraglo8
-aus Eichenholz ... Jede andere Holzart wäre hier längſt
-verfault .
+Ich sah mehrere schwarz nachgedunkelte Türen — fraglos
+aus Eichenholz … Jede andere Holzart wäre hier längst
+verfault …
 
-Dann bog der Sprecher rechts ab .
+Dann bog der Sprecher rechts ab …
 
-Ein ' kurzer Seitengang, eine offene Tür ... Ein Gelaß,
-das im Hintergrunde bereits eingeſtürzt war und an dieſer
-Einſturzſtelle das die Wurzelwerk von Bäumen zeigte.
-Mithin mußte dieſer Raum unterhalb des Waldes liegen.
+Ein ’ kurzer Seitengang, eine offene Tür … Ein Gelaß,
+das im Hintergrunde bereits eingestürzt war und an dieser
+Einsturzstelle das die Wurzelwerk von Bäumen zeigte.
+Mithin mußte dieser Raum unterhalb des Waldes liegen.
 
-Hier brannten an den tro>enen und pilzfreien Wänden
-zwei Laternen. Und hier ... ſtand linker Hand die Sarg»
+Hier brannten an den trockenen und pilzfreien Wänden
+zwei Laternen. Und hier … stand linker Hand die Sargkiste,
 <@pagebreak/>
-DSSDSSSSSDSSDS 37 S00SDDSSIOS00E82S
-
-kiſte, während rechts ein roh aus Brettern zuſammengeſchla=
-gener Tiſc) und ebenſol<e Schemel zu ſehen waren.
+während rechts ein roh aus Brettern zusammengeschlagenen
+Tisch und ebensolche Schemel zu sehen waren.
 
 Der Sprecher wies auf zwei der Schemel an der einen
-Tiſchſeite ...
+Tischseite …
 
-„Bitte, ſezen Sie ſich, meine Herren ...“
+»Bitte, setzen Sie sich, meine Herren …«
 
-Eins fiel mir auf: der Mann konnte kein Deutſcher ſein?
-Der Mann ſprach das Deutſche mit merklichem Akzent ...
+Eins fiel mir auf: der Mann konnte kein Deutscher sein?
+Der Mann sprach das Deutsche mit merklichem Akzent …
 
-Wir nahmen Blaß ...
+Wir nahmen Blaß …
 
-Id) kann wohl ſagen, daß ich recht geſpannt darauf war,
-was dieſe drei Gentlemen von uns wünſchten ...
+Ich kann wohl sagen, daß ich recht gespannt darauf war,
+was diese drei Gentlemen von uns wünschten …
 
-Ih ſchaute die Sargkiſte an ...
+Ich schaute die Sargkiste an …
 
-Harald fragte dann plößlich:
+Harald fragte dann plötzlich:
 
-„Sie ſind Dänen, meine Herren, nicht wahr ?“.
+»Sie sind Dänen, meine Herren, nicht wahr?«.
 
-Der Sprecher ſchwieg ...
+Der Sprecher schwieg …
 
-Meinte erſt nach einer geraumen Weile:
+Meinte erst nach einer geraumen Weile:
 
-„Bermuten Sie dies, Herr Harſt, weil die Baroneſſe
-Helga einem urſprünglich däniſchen Geſchlecht entſtammt?“
+»Vermuten Sie dies, Herr Harst, weil die Baronesse
+Helga einem ursprünglich dänischen Geschlecht entstammt?«
 
-„Vielleißt ... = Was haben Sie nun mit uns zu ver»
-handeln?“ y
+»Vielleicht … — Was haben Sie nun mit uns zu verhandeln?«
 
-„Im -=- verhandeln dürfte hier nicht der richtige Au8=
-dru> ſein, Herr Harſt ... Sie müſſen bedenken, daß wir Sie
-in unſerer Gewalt haben und daß wir Sie zwingen können,
-alles zu tun, was ...“
+»Im — verhandeln dürfte hier nicht der richtige Ausdruck
+sein, Herr Harst … Sie müssen bedenken, daß wir Sie
+in unserer Gewalt haben und daß wir Sie zwingen können,
+alles zu tun, was …«
 
-„Geſtatten Sie ...,“ fiel ihm Harald ins Wort ... „Sie
-vertennen die Situation ... Bon „Zwingen“ kann hier keine
-Nede ſein, ... Glauben Sie etwa, daß wir uns vor den
-Piſtolen Ihrer Freunde dort fürchten ?!“
+»Gestatten Sie …« fiel ihm Harald ins Wort … »Sie
+versonnen die Situation … Von »Zwingen« kann hier keine
+Rede sein … Glauben Sie etwa, daß wir uns vor den
+Pistolen Ihrer Freunde dort fürchten?!«
 
-Der Sprecher lachte ...
+Der Sprecher lachte …
 
-„Entſchuldigen Sie ſchon, Herr Harſt ...,“ meinte er aber=
-mals mit deutlicher Ironie ... „Willi Klemens wird über=
-wacht. Sobald er ſich hierher wagen ſollte, ergeht es ihm genau
-ſo wie Ihnen und den übrigen, das heißt: wir nehmen ihn
-feſt! = Das Sandloh, daß Sie mit ſo viel Mühe ausgehoben
-haben, iſt längſt wieder zugeſchüttet und der Sand geglättet
-... Klemens kann alſo nur den zweiten Eingang benußen, und
-der befindet ſich hier.“ =- Er hob den Arm und deuiete auf
+»Entschuldigen Sie schon, Herr Harst …« meinte er abermals
+mit deutlicher Ironie … »Willi Klemens wird überwacht.
+Sobald er sich hierher wagen sollte, ergeht es ihm genau
+so wie Ihnen und den übrigen, das heißt: wir nehmen ihn
+fest! — Das Sandloch, daß Sie mit so viel Mühe ausgehoben
+haben, ist längst wieder zugeschüttet und der Sand geglättet
+… Klemens kann also nur den zweiten Eingang benutzen, und
+der befindet sich hier.« — Er hob den Arm und deutete auf
 <@pagebreak/>
-'D*SSDSSSOISSDDSS 33 SOS SSEODSSEOOS
+das Wurzelwerk der Bäume drüben in der Er. »Sie müssen
+einsehen, daß Sie und Ihr Freund nur die Wahl zwischen
+blindem Gehorsam oder …«
 
-das Wurzelwerk der Bäume drüben in der Ee. „Sie müſſen
-einſehen, daß Sie und Ihr Freund nur die Wahl zwiſchen
-blindem Gehorſam oder ...“
+Und jetzt ereignete ein etwas, das uns beiden voll uns-begreifliher
+war als alles BorauS8gegangene …
 
-Und jetzt ereignete ſim etwas, das un8 beiden noFH uns=
-begreifliher war als alles BorauS8gegangene ...
+Die Tür nach dem Kellergang war offen geblieben …
 
-Die Tür nad dem Kellergang war offen geblieben ...
+Und aus der Finsternis dort jetzt eine merkwürdig harte,
+energische Stimme, die in Wahrheit einen metallischen Klang
+hatte … —
 
-Und aus der Finſternis dort jezt eine merkwürdig harte,
-energiſ<e Stimme, die in Wahrheit einen metalliſchen Klang
-hatte ... -
+»Baron Arnstör, hüten Sie sich — — hüten Sie sich!!
+Die Toten stehen auf!!«
 
-„Baron Arnſtör, hüten Sie ſih =- -- hüten Sie ſich!!
-Die Toten ſtehen auf!!“
+Diese Säße, die da urplötzlich aus dem Dunkel hervordröhnten,
+wie das Grollen eines jäh aufgetauchten Gewitters,
+— diese Sätze übten auf die drei Gentlemen eine verblüffende
+Wirkung aus …
 
-Dieſe Säße, die da urplößlih aus dem Dunkel hervor»
-dröhnten, wie das Grollen eines jäh aufgetauchten Gewitters,
-- dieſz Sätze übten auf die drei Gentlemen eine verblüffende
-Wirkung aus ...
+Dr? Sprecher fuhr hoch, taumelte nach vorn, größte sich
+schwer auf den Brettertisch … Seine Arme zitterten derart,
+daß der Tisch dauernd knarrte …
 
-De? Sprecher fuhr hoh, taumelte nach vorn, ſtüßte ſich
-ſ<wer auf den Brettertiſ< ... Seine Arme zitterten derart,
-daß der Tiſ< dauernd knarrte ...
+Und die beiden anderen wieder hatten die Pistolen gesenkt.
 
-Und die beiden anderen wieder hatten die Piſtolen geſenkt.
+Starrten den Baron Amtston an …
 
-Starrten den Baron Arnſtröm an ...
+Bis der eine mit seltsam matter Stimme rief:
 
-Bis der eine mit ſeltſam matter Stimme rief:
+»Arnstör, das … das … war doch Baginski!!«
 
-„Arnſtör, das ... das ... war do< Baginski!!“
+Da raffte der Baron sich auf …
 
-Da raffte der Baron ſich auf .
+»Ihm nach … ihm nacht!« brüllte er wie in sinnloser
+Angst. »Er darf uns nicht entwischen, — — ihm nach!!«
 
-„Ihm nad) ... ihm nacht!“ brüllfe er wie in ſinnloſer
-Angſt. „Er darf uns nicht entwiſchen, =- -- ihm nach!!“
+Und er riß eine der Laternen von der Wand …
 
-Und er riß eine der Laternen von der Wand .
+Wir beide existierten jetzt nicht mehr für diese Leute,
+die wie gehetzt davonrasten, um denjenigen zu suchen, der ihnen
+einen so, furchtbaren Schreck eingeflößt hatte …
 
-Wir beide exiſtierten jezt nict mehr für dieſe Leute,
-die wie gehetzt davonraſten, um denjenigen zu ſuchen, der ihnen
-einen ſo, fur<tbaren Schre> eingeflößt hatte ...
+Wir waren allein …
 
-Wir waren allein ...
 <@pagebreak/>
-DSSSSSSDOSSSSS 329) DS0S0SSDSSDSIDBDISD
 
-2. Kapitel.
-Ein Raubrittergeſ<le<ht.
+<h2>2. Kapitel.</h2>
+<h3>Ein Raubrittergeschlecht.</h3>
 
-„Fliehen wir!“ meinte iM halblaut, und ſprang von dem
-Schemel empor ...
+»Fliehen wir!« meinte ich halblaut, und sprang von dem
+Schemel empor …
 
-Harald ſchüttelte den Kopf .
+Harald schüttelte den Kopf …
 
-„WeShalb, mein Alter?! = Da du nun ſchon aufgeſtan=
-den biſt, reihe mir auc< meine Piſtole und meine Taſchen-
-lampe ... Dort links auf dem Schemel liegt ja ein ganzes
-Waffenarſenal ...“
+»weshalb, mein Alter?! — Da du nun schon aufgestanden
+bist, Reihe mir auch meine Pistole und meine Taschenlampe
+… Dort links auf dem Schemel liegt ja ein ganzes
+Waffenarsenal …«
 
-Ich ſchaute hin ...
+Ich schaute hin …
 
-ES ſtimmte ... = Und nun waren wir niht mehr wehr-
-lo8 ... Nun ſagte Harald mit einem Lächeln, das für unſere
+Es stimmte … — Und nun waren wir nicht mehr wehrlos
+… Nun sagte Harald mit einem Lächeln, das für unsere
 Gegner nichts Gutes verhieß:
 
-„So, jezt werde iM mit dem Herrn Baron Arnſtör ein
-Wort Deutſch reden!! -- Du kannſt die Tür ſchließen ... I<
-möchte mir mal die Sargkiſte anſehen ...“
+»So, jetzt werde ich mit dem Herrn Baron Arnstör ein
+Wort Deutsch reden!! — Du kannst die Tür schließen … Ich
+möchte mir mal die Sargkiste ansehen …«
 
-Ich 30g die ſ<were Eichentür zu ...
+Ich zog die schwere Eichentür zu …
 
-Sie hatte ein uraltes, verroſtete8 Kaſtenſ<loß ... Der
-Schlüſſel ſtete von innen ... IH drehte ihn um ... Es ging
-ganz leiht ... Das Schloß war gut geölt.
+Sie hatte ein uraltes, verrostetes Kastenschloß … Der
+Schlüssel stete von innen … Ich drehte ihn um … Es ging
+ganz leicht … Das Schloß war gut geölt.
 
-Harald hatte ſeine Taſchenlampe eingeſchaltet „und den
-Dedkel der Sargliſte aufgeklappt ...
+Harald hatte seine Taschenlampe eingeschaltet »und den
+Deckel der Sargkiste aufgeklappt …
 
-Der grelle Lichtkegel beleuchtete die ſhwarzbärtige Mumie.
+Der grelle Lichtkegel beleuchtete die schwarzbärtige Mumie.
 
-Unſere Naſen ſpürten den Kampfergeruch .
+Unsere Nasen spürten den Kampfergeruch …
 
-„Ein Seemann!“ meinte Harald, bücte ſich und befühlte
-die Mumie ...
+»Ein Seemann!« meinte Harald, bückte sich und befühlte
+die Mumie …
 
-„Der Mann kann erſt vor kurzem geſtorben ſein,“
-fügte er hinzu. „Man hat hier zur Verhütung der Bor=
+»Der Mann kann erst vor kurzem gestorben sein,«
+fügte er hinzu. »Man hat hier zur Verhütung der Verwesung
 <@pagebreak/>
-DSSSDSSSSSSSS 1) DSSSDSSESEOL&S
+offenbar die modernste Methode angewandt … Einspritzungen
+von Kampfer, Formalin und Benzol … Ich
+schätze, daß dieser Unbekannte vielleicht vor einem halben Jahr
+verstorben ist …«
 
-weſung offenbar die modernſte Methode angewandt ... Ein=
-ſprizungen von Kampfer, Formalin und Benzol ... I<
-ſhäßze, daß dieſer Unbekannte vielleicht vor einem halben Iahr
-verſtorben iſt ...“
+Und er richtete sich wieder auf …
 
-Und er richtete ſich wieder auf ...
+»So, mein Alter, jetzt wollen: wir mit den drei Dänen
+abrechnen …«
 
-„So, mein Alter, jezt wollen: wir mit den drei Dänen
-abrechnen ...“
+Er klappte den Kistendeckel zu …
 
-Er klappte den Kiſtende>el zu ...
+»Gehen wir in den Gang hinaus … Dort überrasäyen
+wir sie am leichtesten …«
 
-„Gehen wir in den Gang hinaus ... Dort überraſäyen
-wir ſie am leichteſten ...“
+Und ich schloß die Tür auf …
 
-Und ich ſchloß die Tür auf ...
+Wir standen im Dunkeln …
 
-Wir ſtanden im Dunkeln ...
+Lauschten …
 
-Lauſchten ...
+Kein Geräusch — 	— nirgends …
 
-Kein GeräuſH = = nirgends ...
+In Wahrheit Totenstille …
 
-In Wahrheit Totenſtille ...
+Harst hatte seine Taschenlampe wieder eingeschaltet …
+Linker Hand zeigte sich die Abschlußmauer des breiten sei
+wölbten Ganges …
 
-Harſt hatte ſeine Taſchenlampe wieder eingeſchaltet ...
-Linker Hand zeigte ſi die Abſchlußmauer des breiten ges
-wölbten Ganges ..
+Wir wandten uns nach rechts …
 
-Wir wandten uns nah rechts ...
+Suchten die drei und den Mann, der den Baron Arnstör
+und dessen Freunde so sehr erschreckt hatte … — —
 
-Suchten die drei und den Mann, der den Baron Arnſtör
-und deſſen Freunde ſo ſehr erſchre&t hatte ... == =
+Weshalb den Leser auf die Folter spannen?!
 
-Weshalb den Leſer auf die Folter ſpannen?!
+Wir … fanden nichts …
 
-Wir ... fanden nichts ...
+Wir hatten die Baronesse, John Reiter und unseren Fritz
+aus dem Keller herausgelassen. Sie halfen uns suchen …
 
-Wir hatten die Baroneſſe, John Reiter und unſeren Friß
-aus dem Keller herausgelaſſen. Sie halfen uns ſuchen ...
+Als Harald hierbei den Namen Arnstör als den des
+Mannes nannte, der mit un&F verhandelt hatte, zuckte die
+blonde Herrin von Zweilinden merklich zusammen.
 
-Als Harald hierbei den Namen Arnſtör als den des
-Mannes nannte, der mit un&F verhandelt hatte, zu>te die
-blonde Herrin von Zweilinden merkliß zuſammen.
+»Genie,« erwiderte sie, »es gibt wohl ein Geschlecht dieses
+Namens ’in Dänemark … Wir haben jedoch — wir Struvesund
+— niemals mit den Arnstörs irgendwelche Beziehungen
+unterhalten. Wir sind uns fremd …«
 
-„Gewi3,“ erwiderte ſie, „e8 gibt wohl ein Geſchlecht dieſe3
-Namens 'in Dänemark ... Wir haben jedoM = wir Struve=
-ſund -- niemals mit den Arnſtörs irgendwelche Beziehungen
-unterhalten. Wir ſind uns fremd ...“
+Hieß sprach die schlanke Baronesse vor der Tür eines
+der anderen leeren Kellerräume, die wir genau so sorgfältig
+durchstöberten wie all die übrigen Winkel dieser vom Dünen
+fand begrabenen Posto vor einstigen trabivon Freundin«.
 
-Die8 ſpraH die ſchlanke Baroneſſe vor der Tür eines
-der anderen leeren Kellerräume, die wir genau ſo ſorgfältig
-dur<hſtöberten wie all die übrigen Winkel dieſer vom Dünen
-ſand bearabenen Noſto dor oinſtiaon trabivon Strandbur«.
 <@pagebreak/>
-22S0SDSDDEDIDSSO 41 DSOSSSDSSSBDSSOS
+Natürlich erwähnte Harst aus die Stimme, die uns:
+befreit hatte, die Stimme aus der Finsternis …
 
-Natürlich erwähnte Harſt auH die Stimme, die uns:
-befreit hatte, die Siimme aus der Finſternis ...
+Und als die Baronesse hierzu nichts zu sagen wußte.
+da wiederholte Harald wörtlich, was der eine der Freunde
+Arnstörs in der Erregung ausgerufen:
 
-Und als die Baroneſſe hierzu nihts zu ſagen wußte.
-da wiederholte Harald wörtlih, was der eine der Freunde
-Arnſtörs8 in der Erregung aus8gerufen:
+»Arnstör, das … das … war doch Baginski!«
 
-„Arnſtör, das ... das ... war doc< Baginskit“
+Wir beide und die Baronesse waren. allein, als Harst
+auch dies vorbrachte … Wohl mit Absicht hatte er gewartet,
+bis Reiter und der übereifrige Fritz sich entfernt hatten …
 
-Wir beide und die Varoneſſe waren. allein, als Harſt
-auch dies vorbrachte ... Wohl mit Abſicht hatte er gewartet,
-bis Reiter und der übereifrige Friß ſic< entfernt hatten ...
+Hatte wohl geahnt, daß dieser Name Baginski der Gut3-herrin
+von Zweilinden nicht fremd sein könne …
 
-Hatte wohl geahnt, daß dieſer Name Baginski der Gut3=
-herrin von Zweilinden nicht fremd ſein könne ...
+Hatte richtig vermutet …
 
-Hatte richtig vermutet ...
+Denn Helga von Struvesund stand sekundenlang wie übers
+überwältigt von ungeheurem Schreck mit hängenden Armen Band
+flüsterte nur:
 
-Denn Helga von Struveſund ſtand ſekundenlang wie übers
-wältigt von ungeheurem Sc<hre> mit hängenden Armen da-
-und flüſterte nur:
+»Unmöglich — — unmöglich …!! Ich begreife es nicht!!«
 
-„Unmöglich = =- unmöglich ..!! IH begreife e8 nicht!!“
+Und diese Worte waren letzten Endes genau so … uns
+begreiflich wie die des Fremden, der dem Baron mit seiner
+Wiederkehr der Toten gedroht hatte …
 
-Und dieſe Worte waren letzten Endes genau ſo ... uns
-begreiflich wie die de8 Fremden, der dem Baron mit ſeiner
-Wiederkehr der Toten gedroht hatte ...
-
-Wir drei allein ...
+Wir drei allein …
 
 Und zwanzig Schritt weiter in den Gewölben hörten wir
-des Knaben helles Organ und Reiter8 ruhige Antworten ....
+des Knaben helles Organ und Reiters ruhige Antworten …
 
-Da ſagte Harald:
+Da sagte Harald:
 
-* „Baroneſſe, ic) nehme beinahe an, daß dieſer Baginski
-der mumifizierte Tote in der Kiſte iſt ... Das heißt: zum
-mindeſten doH die Stimme dieſes Baginski!“
+» »Baronesse, ich nehme beinahe an, daß dieser Baginski
+der mumifizierte Tote in der Kiste ist … Das heißt: zum
+mindesten doch die Stimme dieses Baginski!«
 
-Helga Struveſunds, von meiner Taſchenlampe beleuchtetes
-feinlieniges Antlitz zeigte einen hilfloſen Aus8dru> ...
+Helga Struvesunds, von meiner Taschenlampe beleuchtetes
+seinlieniges Antlitz zeigte einen hilflosen Ausdruck …
 
-Sie wiegte wie in tiefem, halb verſtörtem Nachdenken den
-Kopf hin und her und erwiderte flüſternd:
+Sie wiegte wie in tiefem, halb verstörtem Nachdenken den
+Kopf hin und her und erwiderte flüsternd:
 
-„Ia, der Tote iſt allerdings mein Onkel, Graf Hendrik
-Baginski. = Die Grafen Baginski, Herr Harſt, haben einſt
-dieſe Burg erbaut ... E8 war ein kühnes Raubritierge»
-ſchlecht ... Bon dieſer Burg aus, zu der ein kleiner, ſicherer
-Hafen ehemals gehörte, ſandten ſie ihre Schiffe über die
-Meere ... Raubritter zur See, Herr Harſt ..“ = So ſpraß-
+»Ja, der Tote ist allerdings mein Onkel, Graf Hendrik
+Baginski. — Die Grafen Baginski, Herr Harst, haben einst
+diese Burg erbaut … Es war ein kühnes Raubrittergeschlecht
+… Von dieser Burg aus, zu der ein kleiner, sicherer
+Hafen ehemals gehörte, sandten sie ihre Schiffe über die
+Meere … Raubritter zur See, Herr Harst …« — So sprachlose
 <@pagebreak/>
--DSSSSDSDSSSS 12 SSSSODSDSSSD0IOSD
+Baronesse mit merklichem Zögern … »Bis eines Tages
+die Flotte der Hansa ihrem Treiben ein Ende machte, die
+Burg erstürmte und durch Pulver bis auf die Grundmauern
+sprengte … Die Baginskis flüchteten nach Norden und ließen
+sich auf der Südostspitze der dänischen Insel Laaland nieder.
+»Meine Mutter war die Schwester des letzten Grafen Baginski
+— — des Mannes in der Sargkiste!«
 
-die Baroneſſe mit merklihem Zögern ... „Bis eine8 Tages
-die Flotte der Hanſa ihrem Treiben ein Ende machte, die
-Burg erſtürmte und dur< Pulver bi8 auf die Grundmauern
-ſprengte ... Die Baginskis flüchteten na< Norden und ließen
-ſich auf der Südoſtſpize der däniſchen Inſel Laaland nieder.
-"Meine Mutter war die Shweſter des letzten Grafen Baginski
--=- - des Mannes in der Sargkiſte!“
-
-Da nahte Laternenſchein: Iohn Reiter. und Frit!
+Da nahte Laternenschein: John Reiter. und Fritz!
 
 Der Junge rief uns zu:
 
-„Nichts zu finden =- -=- gar nichts?!“
+»Nichts zu finden — — gar nichts?!«
 
-Und der bekehrte Hochſtapler meinte:
+Und der bekehrte Hochstapler meinte:
 
-* „E8 muß alſo unbedingt noF; einen dritten Weg ins
-Freie geben, Baroneſſe ... Wo ſollten die Leute ſonſt hins
-geraten ſein?!“
+» »Es muß also unbedingt noch; einen dritten Weg ins
+Freie geben, Baronesse … Wo sollten die Leute sonst hing
+geraten sein?!«
 
-Dann durchſuchten wir gemeinſam nochmals die Gewölbe
-.der ehemaligen Raubburg ...
+Dann durchsuchten wir gemeinsam nochmals die Gewölbe
+der ehemaligen Raubburg …
 
-Wir ſuchten jetzt mit jener Hartnäigkeit und Sorgfalt,
-die man vou ſelbſt anwendet, ſobald e8 ſich um etwas handelt,
-das unbedingt vorhanden ſein muß.
+Wir suchten jetzt mit jener Bartlosigkeit und Sorgfalt,
+die man von selbst anwendet, sobald es sich um etwas handelt,
+das unbedingt vorhanden sein muß.
 
-Wir prüften die feuchten, verwitterten Mauern ... Es
-konnte hier ja vielleicht noh eine Geheimtür geben ... Eine
-Piratenburg mußte fraglos beſondere Schlupfwinkel gehabt
-haben ...
+Wir prüften die feuchten, verwitterten Mauern … Es
+konnte hier ja vielleicht noch eine Geheimtür geben … Eine
+Piratenburg mußte fraglos besondere Schlupfwinkel gehabt
+haben …
 
-Alles umſonſt ..!
+Alles umsonst …!
 
-Stundenlang mühten wir uns ab ...
+Stundenlang mühten wir uns ab …
 
 Harald unterließ nichts, was die Frage hätte klären
-können, wo die drei und „der Unbekannte mit der Stimme
-des Grafen“ geblieben ſein könnten ...
+können, wo die drei und »der Unbekannte mit der Stimme
+des Grafen« geblieben sein könnten …
 
-Wir ſtanden vor einem Rätſel ...
+Wir standen vor einem Rätsel …
 
-Wir redeten uns gegenſeitig Mut zum Ausharren zu ...
+Wir redeten uns gegenseitig Mut zum Ausharren zu …
 
-Nochmals verſtrihen zwei Stunden .
+Nochmals verstrichen zwei Stunden …
 
-Da erklärte die Baroneſſe: „Geben wir's für heute auf
-«. Der Abend iſt bereit8 wieder angebrochen, und es wird
-Zeit, daß wir an unſer leiblihe8 Wohl denken ... I<h habe
-Hunger ...“
+Da erklärte die Baronesse: »Geben wir’s für heute auf
+«. Der Abend ist bereits wieder angebrochen, und es wird
+Zeit, daß wir an unser leibliches Wohl denken … Ich habe
+Hunger …«
 
-Harald 30g den mächtigen, altertümlichen SHlüſſel zu der
+Harald zog den mächtigen, altertümlichen Schlüssel zu der
 <@pagebreak/>
-2202dD20208B2002D02DS 413 0000000202082
+Tür des trockenen Kellerraumes hervor, in dem die Anders
+Unterredung mit dem Baron ein so jähes und in der Tat Unbegreifliches
+Ende gefunden hatte …
 
-Tür des troFenen Kellerraumes8 hervor, in dem die Unters
-redung mit dem Baron ein ſo jähes und in der Tat undbe=
-greifliches Ende gefunden hatte ...
+Er schloß die Tür auf, denn von hier aus wollten wir
+uns ins Freie, in den Wald begeben …
 
-Er ſc<loß die Tür auf, denn von hier aus wollten wir
-uns ins Freie, in den Wald begeben ...
+Laternenlicht durchdrang das Dunkel des Kellergelasses.
 
-LaternenliHht dur<drang das Dunkel des Kellergelaſſes.
+Die Stimme der Baronesse meldete das neue Rätsel:
 
-Die Stimme der Baroneſſe meldete das neue Rätſel:
+»Die Sargkiste fehlt!«
 
-„Die Sargkiſte fehlt!“
+Ja — 	— sie war verschwunden …
 
-Ia = = ſie war verſhwunden ...
-
-So ſpurlo8 verſHwunden, daß wir beide, nachdem die
-Baroneſſe uns den geheimen Aus8gang in den Wald gezeigt
-batte, überzeugt waren, daß nur Baron Arnſtör und ſeine
-Freunde die Mumie geraubt haben konnten, nachdem ſie durch
-den uns nod) unbekannten driiten Weg aus den Gewölben
+So spurlos verschwunden, daß wir beide, nachdem die
+Baronesse uns den geheimen Ausgang in den Wald gezeigt
+hatte, überzeugt waren, daß nur Baron Arnstör und seine
+Freunde die Mumie geraubt haben konnten, nachdem sie durch
+den uns noch unbekannten dritten Weg aus den Gewölben
 in die Dünen und in den Wald gelangt waren.
 
-Wir fünf ſtanden jetzt, von Kiefern umrauſcht, mitten in
-dem Brombeerdi>kic<ht, das ſi<h wie ein undurchdringlicher
-Zaun um die einfa<ße hölzerne Falltür herumzog, die im
+Wir fünf standen jetzt, von Kiefern umrauscht, mitten in
+dem Brombeerdickicht, das sich wie ein undurchdringlicher
+Zaun um die einfache hölzerne Falltür herumzog, die im
 Wurzelwerk einer uralten Tanne verborgen war und in das
-Kellergelaß mit der eingeſtürzten Rückwand hinabführte.
+Kellergelaß mit der eingestürzten Rückwand hinabführte.
 
-Kiefern rauſchten ...
+Kiefern rauschten …
 
-Die Oſtſee rauſchte ...
+Die Ostsee rauschte …
 
-Sternenhimmel ſchimmerte dur< die Bäume ...
+Sternenhimmel schimmerte durch die Bäume …
 
-Es war wieder Nacht geworden ..
+Es war wieder Nacht geworden …
+
 <@pagebreak/>
-DODSDOSDDELDEODS 11 DESDSDBDSSEDEDS
 
-. 3. Kapitel.
-Der letzte BaginsSki.
+<h2>3. Kapitel.</h2>
+<h3>Der letzte Palast?!.</h3>
 
-Als der friſche, nächtlihe Seewind, der mit feinem
-Säuſeln durch die Stämme fuhr, mein vor körperlicher und
-geiſtiger Abſpannung heißes Geſiht zum erſten Male nach
-dem Uufſtieg aus der Unterwelt getroffen hatte, da war mir
-alles das, was wir in dieſen letzten Stunden erlebt hatten,
-wie eint wirrer, beängſtigender Traum vorgekommen ..
+Als der frische, nächtliche Seewind, der mit seinem
+Säuseln durch die Stämme fuhr, mein vor körperlicher und
+geistiger Abspannung heißes Gesicht zum ersten Male nach
+dem Aufstieg aus der Unterwelt getroffen hatte, da war mir
+alles das, was wir in diesen letzten Stunden erlebt hatten,
+wie eint wirrer, beängstigender Traum vorgekommen …
 
-Allen Borgängen, die mit abwechſlungsreichen Einzel=
-beiten in ſchneller Tolge ſic) uns aufdrängen, haftet ja, ſo=
-bald unſer Geiſt wieder zur Rude gelangt, etwas Unwills=
-fürlihes an ...
+Allen Vorgängen, die mit abwechslungsreichen Einzelheiten
+in schneller Folge sich uns aufdrängen, haftet ja, sobald
+unser Geist wieder zur Ruhe gelangt, etwas Unwills-fürlihes
+an …
 
-Dieſe8 Gefühl des Unwirklihen war bei mir ſo ſtark
-au8geprägt, daß ic< tatenlos zuſc<aute, wie Harald und
-Neiter den Sandboden hier in der kleinen Lichtung des
-hohen Brombeer= und Dornengeſtrüpp8 ableuchieten ...
+Dieses Gefühl des Unwirtlichen war bei mir so stark
+ausgeprägt, daß ich tatenlos zuschaute, wie Harald und
+Reiter den Sandboden hier in der kleinen Lichtung des
+hohen Brombeer	— und Dornengestrüpps ableuchteten …
 
-Tatenlos und wie benommen ...
+Tatenlos und wie benommen …
 
-Genau ſo erging e8 offenbar der Baroneſſe und unſerem
-kleinen Frige Rummel ... :
+Genau so erging es offenbar der Baronesse und unserem
+kleinen Folge Rummel …
 
-„Feine friicßen Spuren ...,“ erflärte Harald dann ...
-„Freilich ſind hier im Sande genug Fährten -- alle gleich
-verſchwommen ... Da läßt ſich das Alter der einzelnen Spur
-nur ſc;wer feſtſtellen ...“
+»Feine reichen Spuren …« erklärte Harald dann …
+»Freilich sind hier im Sande genug Fährten — alle gleich
+verschwommen … Da läßt sich das Alter der einzelnen Spur
+nur so;wer feststellen …«
 
-Dieſe Worte Karalds rüttelten mich auf. I<h hob jett
-mit einem Liofornoaſt die beiden nur loſe im Erdreich ſte>en=
+Diese Worte Haralds rüttelten mich auf. Ich hob jetzt
+mit einem Liofornoast die beiden nur lose im Erdreich steckenden
 <@pagebreak/>
-DDESSEDESIDSO 415 DVEGBSSBDEBDEOD
-
-den Dornenbüſche heraus, die uns die Baroneſſe vorhin als
+Dornenbüsche heraus, die uns die Baronesse vorhin als
 den Zugang zu der kleinen Lichtung gezeigt hatte, drängte
-mich ins Freie, zwiſchen die Bäume des Strandwaldes, und
-ließ hier den Lichtkegel meiner Taſchenlampe umhergleiten ...
+mich ins Freie, zwischen die Bäume des Strandwaldes, und
+ließ hier den Lichtkegel meiner Taschenlampe umhergleiten …
 
-Die Kiefern und Tannen ſtanden hier ziemlich weit au3»-
-einander, ſo daß ein flüchtiger Blik nach dem nahen Strande
-hin mir die vom Mondlicht ſilbern überſtrahite See in all
-ihrer Schönheit darbot ...
+Die Kiefern und Tannen standen hier ziemlich weit auseinander,
+so daß ein flüchtiger Blick nach dem nahen Strande
+hin mir die vom Mondlicht silbern überstrahlte See in all
+ihrer Schönheit darbot …
 
-- Yber dieſer Blik, der gleihſam nur der ferneren Ums
-gebung ohne beſtimmte Abſicht gegolten hatte, = dieſer Bli>
-kehrte haſtig zu einem beſtimmten Punkt des mondhellen
-Meeres zurü ...
+— Aber dieser Blick, der gleichsam nur der ferneren Ums
+Umgebung ohne bestimmte Absicht gegolten hatte, — dieser Blick
+kehrte hastig zu einem bestimmten Punkt des mondhellen
+Meeres zurück …
 
-Denn -- -- dort ſ<haukelte auf den trägen Wellen ein
-kleiner Shoner ..
+Denn — — dort schaukelte auf den trägen Wellen ein
+kleiner Schoner …
 
-Keine hundert Meter vom Ufer entfernt .
+Keine hundert Meter vom Ufer entfernt …
 
-- Ein Schoner, auf den ein mit drei Leuten beſetzte8 Ruder=
-boot zuhielt ...
+— Ein Schoner, auf den ein mit drei Leuten besetztes Ruderboot
+zuhielt …
 
-Unwillkürlic) dachte im an jenen Schoner, den wir bes
-reits einmal beobachtet hatten ... -
+Unwillkürlich dachte im an jenen Schoner, den wir bereits
+einmal beobachtet hatten … —
 
-Ein leiſer Ruf lo>te nun auh Harſt und Reiter neben
-mich ...
+Ein leiser Ruf lockte nun auch Harst und Reiter neben
+mich …
 
-John Reiter hatte das Fahrzeug mit den beiden Maſten
-kaum richtig ins Auge gefaßt, als er auch ſchon der Baro=
-neſſe eifrig winkte ...
+John Reiter hatte das Fahrzeug mit den beiden Masten
+kaum richtig ins Auge gefaßt, als er auch schon der Baronesse
+eifrig winkte …
 
-„Der Schoner -- -- der Sconer!! Er iſt's! Er führt
-keine Lichter ... Er muß es ſein ..t“
+»Der Schoner — — der Schoner!! Er ist’s! Er führt
+keine Lichter … Er muß es sein … t«
 
-Reiters merkliche Erregung teilte ſih auh der Baroneſſe
+Reiters merkliche Erregung teilte sich auch der Baronesse
 mit 5.
-Sie ſtarrte auf die See hinaus ...
+Sie starrte auf die See hinaus …
 
-Flüſterte atemlos:
+Flüsterte atemlos:
 
-„Mein Gott, was bedeutet das nun wieder . 2?!“
-In demſelben Moment raunte Harald mir zu:
-„Borwärts! Folge mir ..!!“
+»Mein Gott, was bedeutet das nun wieder … 2?!«
+In demselben Moment raunte Harald mir zu:
+»Vorwärts! Folge mir …!!«
 
-Und e" wandte ſich nach links, begann zu laufen ...
-I< hinterdrein ...
+Und e« wandte sich nach links, begann zu laufen …
+Ich hinterdrein …
+
 <@pagebreak/>
-SSSSSSSSSSSS 416 DB20D0S8ESELD0DIOESD
+Das Dunkel des Waldes verschluckte uns …
 
-Das Dunkel des Waldes verſhlu>te uns ...
+John Reiter, die Baronesse und Knie Rummel waren
+so völlig von dem Anblick des Schoners und des Bootes
+gefangengenommen, daß sie gar nicht bemerkten, wie wir
+uns so hastig entfernten …
 
-John Reiter, die Baroneſſe und Frie Rummel waren
-ſo völlig von dem Anbli> des Schoner8 und des Bootes
-gefangengenommen, daß ſie gar nicht bemerlten, wie wir
-uns ſo haſtig entſernten .
+Harst bog in die Dünen ab …
 
-Harſt bog in die Dünen ab ...
+Lief hinab zum Strande …
 
-Lief hinab zum Strande ...
+Befahl in seiner kurzen Art:
 
-Befaht in ſeiner kurzen Art:
+»Schuhe aus, — — Jacke und Weste desgleichen! Die
+Pistole und die Taschenlampe unter die Müßte …«
 
-„Schuhe aus, = =- Jake und Weſte de8gleihen! Die
-Piſtole und die Taſchenlampe unter die Müßte ...“
+Im Zu waren wir schwimmfertig, krochen ins Wasser …
 
-Im Yu waren wir ſchwimmfertig, kro<hen ins Waſſer ...
+Schwammen … dem Schoner zu …
 
-Shwammen ... dem Schoner zu ...
+Ed&wammen ruhig und gleichmäßig …
 
-Ed&wammen ruhig und gleichmäßig ..
+Und im Bogen von links an den Schoner heran …
 
-Und im Bogen von links an den Shoner heran ...
+Hatten Glüä …
 
-Hatten Glüä ...
+Doppeltes Glut …
 
-Doppeltes Glüs ...
+Niemand bemerkte uns, und der Schoner hißte erst seine
+Segel, als wir bereits hinten am Heck an einem herabhängenden
+Tauende einen Halt gefunden … —
 
-Niemand bemerkte uns, und der Schoner hißte erſt ſeine
-Segel, als wir bereits hinten am He> an einem herabhän=
-genden Tauende einen Halt gefunden ... =
-
-Während wir noFH durc<h den Silberglanz der leicht be=
-wegten MeeresfläHe dem Schoner zuſtrebten, hatten wir
+Während wir voll durch den Silberglanz der leicht bewegten
+Meeresfläche dem Schoner zustrebten, hatten wir
 genau beobachtet, daß die drei Leute im Boot von zwei
-Männern, die ſih an De>X de8 Sconers befanden, durch
-Stöße mit langen Bootshaken verſc<heu<t wurden, daß e8 den
-dreien aber ſchließlih doch gelang, ſich an De>X zu ſchwingen,
-und daß dort ein kurzer, ſtiller Kampf ſtattfand ...
+Männern, die sich an Deck des Schoners befanden, durch
+Stöße mit langen Bootshaken verscheucht wurden, daß es den
+dreien aber schließlich doch gelang, sich an Deck zu schwingen,
+und daß dort ein kurzer, stiller Kampf stattfand …
 
-Dieſe Beobachtungen genügten mir: ohne Zweifel waren
-die drei im Boot der Baron Arnſtör und ſeine Freunde!
+Diese Beobachtungen genügten mir: ohne Zweifel waren
+die drei im Boot der Baron Arnstör und seine Freunde!
 
-Wie der Kampf auslief, konnten wir nicht erkennen ...
+Wie der Kampf auslief, konnten wir nicht erkennen …
 
-Hingen nun an dem Tau, hörten das Knallen der ſich
-entfaltenden Segel und wurden von dem raſch in Fahrt
-kommenden Schoner mit durch das Waſſer geſchleift ...
+Hingen nun an dem Tau, hörten das Knallen der sich
+entfaltenden Segel und wurden von dem rasch in Fahrt
+kommenden Schoner mit durch das Wasser geschleift …
 
-Nod immer ſchien niemand an Bord des kleinen Fahr»
-zeugs zu ahnen, daß zwei ungeladene Gäſte am He> die Reiſe
-mitmachten ... --
+Not immer schien niemand an Bord des kleinen Fahrzeugs
+zu ahnen, daß zwei ungeladene Gäste am Heck die Reise
+mitmachten … —
+
 <@pagebreak/>
-DDOGGOBDBDESDSIS 17 D0800D020200020202
+Ich gebe ehrlich zu, daß ich dieses Wagnis, uns auf
+Gnade oder Ungnade den Fremden oben auf dem Schoner
+zu überantworten, beinahe für unsinnig hielt. Was Harald
+Amsterdam bezweckte, war mir vollkommen unklar. Und wenn nicht
+die ganze Situation so wenig geeignet gewesen wäre, Freund
+Harald eine kleine Standpauke zu halten, dann hätte ich’s
+ohne Frage getan … Zumal es wahrhaftig kein Vergnügen
+war, in dieser Weise Anhängsel eines in voller Fahrt begriffenen
+Schoners zu spielen.
 
-Ich gebe ehrlih zu, daß ich dieſes Wagnis, uns auf
-Gnade oder Ungnade den Fremden oben auf dem Schonev
-zu überantworten, beinaße für unſinnig hielt. Was Harald
-dam bezwedte, war mir vollkommen unklar. Und wenn nicht
-die ganze Situation ſo wenig geeignet geweſen wäre, Freund
-Harald eine kleine Standpauke zu halten, dann hätte ich's
-ohne Troge getan ... Zumal es wahrhaftig kein Bergnügen
-war, in dieſer Weiſe Anhängſel eines in voller Fahrt be=
-griffenen Schoners zu ſpielen.
+Und — wie lange sollte das eigentlich noch dauern?!
+Wie lange noch?!
 
-Und -- wie lange ſollte das eigentlih noh dauern?!
-Wie lange noh?!
-
-Wie lange würden wir noch unbemerkt bleiben?! -- Wenn
+Wie lange würden wir noch unbemerkt bleiben?! — Wenn
 ich den Kopf nur ein wenig nach hinten bog, dann konnte ich
 den Oberleib des Mannes genau erkennen, der den Schoner
-ſteuerte ... Und dieſer Mann ſchien mir einer der Freunde
-des Baron8 Arnſtör zu ſein ... =
+steuerte … Und dieser Mann schien mir einer der Freunde
+des Barons Arnstör zu sein … —
 
-Wenn man mit Harald Harſt auf Abenteuer au8zieht, tut
-man in jedem Falle gut, ſich keinerlei Gedanken darüber zu
-maden, wie eine ſcheinbar recht ungünſtige und verfahrene
-Sache auslaufen dürfte. =- Mir als Harſts altem Freunde
-hätte dieſer oft erprobte WeiSsheitsſatz rechtzeitig die üble
-Laune in eine zuverſihtlihe, gehobene Stimmung verwandeln
-ſollen.
+Wenn man mit Harald Harst auf Abenteuer aussieht, tut
+man in jedem Falle gut, sich keinerlei Gedanken darüber zu
+machen, wie eine scheinbar recht ungünstige und verfahrene
+Sache auslaufen dürfte. — Wir als Harsts altem Freunde
+hätte dieser oft erprobte Weisheitssatz rechtzeitig die üble
+Laune in eine zuversihtlihe, gehobene Stimmung verwandeln
+sollen.
 
-Denn: -- meine Stimmung hob ſich tatſächlich bald ...
+Denn: — meine Stimmung hob sich tatsächlich bald …
 
-Nämlich in demſelben Moment, als mein guter Harald
+Nämlich in demselben Moment, als mein guter Harald
 mit katzenartiger Gewandtheit an dem Tau emporklomm und
-naD raſchem Bli> über die Reling dem unbekannten Steuer»
-mann die Mühe, den Schoner zu lenken, abnahm ...
+nach raschem Blick über die Reling dem unbekannten Steuermann
+die Mühe, den Schoner zu lenken, abnahm …
 
 Das heißt: ohne Einwilligung des Herrn!!
 
-Und -- mit meiner Hilfe ..!
+Und — mit meiner Hilfe …!
 
-IH war Harſt ſchleunigſt gefolgt ...
+Ich war Harst schleunigst gefolgt …
 
-IH kam gerade noH zur Zeit, dem Manne die Hände
-auf dem Rüden zuſammenzubinden, während Harald ihm
+Ich kam gerade noch zur Zeit, dem Manne die Hände
+auf dem Rücken zusammenzubinden, während Harald ihm
 wenig höflich die Kehle zudrückte.
 
-Das De> war leer ...
+Das Deck war leer …
+
 <@pagebreak/>
-DSSSSSSSSDSS 18 SD2S80SO02IDSSD0SE0
-
 Aber unten in der Kajüte, deren Treppe matt erleuchtet
-War, hörten wir ſprechen.
+War, hörten wir sprechen.
 
-Nachdem wir unſeren Gefangenen (e8 war tatſächlich einer
-von Arnſtörs8 Berbündeten) ſo an die Steuerbank gebunden
-Hatten, daß er uns nicht weiter ſtören konnte, =- nachdem
--er auch noh einen Knebel in den Mund bekommen hatte,
-was er gleichfalls ohne Widerſtand ſich gefallen ließ, we
--eben der Schre über den unerwarteten Angriff ihn völlig
-gelähmt hatte -- nachdem wir beide nun volle Bewegungs=
-Freiheit beſaßen, ſhlihen wir auf unſeren naſſen Strümpfen
-die Kajüttreppe hinab und lauſchten an der Tür, hinter der
+Nachdem wir unseren Gefangenen (es war tatsächlich einer
+von Arnstörs Verbündeten) so an die Steuerbank gebunden
+Hatten, daß er uns nicht weiter stören konnte, — nachdem
+er auch noch einen Knebel in den Mund bekommen hatte,
+was er gleichfalls ohne Widerstand sich gefallen ließ, wo
+eben der Ihre über den unerwarteten Angriff ihn völlig
+gelähmt hatte — nachdem wir beide nun volle Bewegungsfreiheit
+besaßen, schlichen wir auf unseren nassen Strümpfen
+die Kajüttreppe hinab und lauschten an der Tür, hinter der
 es recht lebhaft zuging.
 
-Erregte Stimmen ...
+Erregte Stimmen …
 
-Hin und wieder ein lauter Fluh ..
+Hin und wieder ein lauter Fluß …
 
-Dann ein höhniſches Gelächter ...
+Dann ein höhnisches Gelächter …
 
-Kein Zweifel: Arnſtör und ſein anderer Freund hatten
-Dort eine harte AuSZeinanderſezung mit den beiden Leuten, die
+Kein Zweifel: Arnstör und sein anderer Freund hatten
+Dort eine harte AuSZeinandersezung mit den beiden Leuten, die
 ihnen vorhin den Zutritt zum Schoner verwehrt hatten!
 
-Leider war jedoH von der Unterredung kein Wort zu
-verſtehen. Man hörte wohl die verſchiedenen Stimmen, nicht
--aber das, was die Beteiligten redeten ...
+Leider war jedoch von der Unterredung kein Wort zu
+verstehen. Man hörte wohl die verschiedenen Stimmen, nicht
+aber das, was die Beteiligten redeten …
 
-Dann geſchah etwas, das uns beide lebhaft an die eine
-"Szene in den Kellergewölben unter den Dünen erinnerte:
+Dann geschah etwas, das uns beide lebhaft an die eine
+»Szene in den Kellergewölben unter den Dünen erinnerte:
 Mit einem Male erklang in der Kajüte eine neue, überlaute
-Stimme ...
+Stimme …
 
-Ueberlaut ....
+Überlaut …
 
-Jedes Wort zu verſtehen ...
+Jedes Wort zu verstehen …
 
-Jedes Wort ...
+Jedes Wort …
 
-em Arnſtör, hüten Sie ſi<h!! Die Toten ſtehen
+ein Arnstör, hüten Sie sich!! Die Toten stehen
 
-auf!“
+auf!«
 
-Genau alſo die Worte wie in den Kellergewölben ..
+Genau also die Worte wie in den Kellergewölben …
 
-Und jekt, = -- tiefſte Stille in der Kajüte ...
+Und jetzt, — — tiefste Stille in der Kajüte …
 
-Jetzt pate Harald den Meſſingdrücker ...
+Jetzt rate Harald den Messingdrücker …
 
-Riß die Tür auf .
+Riß die Tür auf …
 
-Die große Karbidlampe un der De&e beleuchtete die ſelt»
-Jame Szene ...
+Die große Karbidlampe un der Decke beleuchtete die seltsame
+Szene …
+
 <@pagebreak/>
-DSSSSDSSSSSSS 19 D0SS0220S00S00DS2D
+Da saßen auf einem schmalen Glanzledersofa, wie man es
+so häufig in den Kajüten von Segelfahrzeugen antrifft, zwei
+Männer, ein Seltener, ein Jüngerer, — beide gefesselt …
 
-Da ſaßen auf einem ſ<malen Glanzlederſofa, wie man es
-ſo häufig in den Kajüten von Segelfahrzeugen antrifft, zwei
-Männer, ein Aelterer, ein Jüngerer, -- beide gefeſſelt ...
+Da standen rechts an der Wand Arnstör und sein
+Freund, die Arme wie abwehrend hochgerest …
 
-Da ſtanden re<ht8 an der Wand Arnſtör und ſein
-Freund, die Arme wie abwehrend hochgerest ...
+» Starrten geradeaus auf die halb offene Tür, die wohl
+in eine Nebenkammer der Kajüte führte …
 
-„ Starrten geradeaus auf die halb offene Tür, die wohl
-in eine Nebenkammer der Kajüte führte ...
+Sahen nicht einmal, daß wir beide, triefend vor Nässe
+und in recht merkwürdigem Kostüm, in der anderen Tür
 
-Sahen niht einmal, daß wir beide, triefend vor Näſſe
-und in re<t merkwürdigem Koſtüm, in der anderen Tür
-
-ſtanden ..
+standen …
 Hatten nur Augen für jene Stelle, woher nun abermals
-die Stimme aus dem Ienſeit8 erſ<hollen war = -=- aus der
+die Stimme aus dem Jenseits erschollen war — — aus der
 
-Nebenkammer offenbar ...
+Nebenkammer offenbar …
 
-Jetzt erbli&ten wir hier die Geſichter des Baron8 und
-ſeines Freundes ohne die Leinwandmasken ...
+Jetzt erblickten wir hier die Gesichter des Barons und
+seines Freundes ohne die Leinwandmasken …
 
-Bartloſe, energiſ<e Geſichter, ſonngebräunt ...
+Bartlose, energische Gesichter, sonngebräunt …
 
-Und doH = = jeßt verzerrt, in den Zügen den Au8Zs=
-dru> eines ungeheuren Entſetzens ...
+Und doch — 	— jetzt verzerrt, in den Zügen den Au8Zs-druck
+eines ungeheuren Entsetzens …
 
-Die Stimme aus dem Ienſeit3!!
+Die Stimme aus dem Jenseits!!
 
-De8 toten Grafen Hendrik Baginski Stimme!!
+Des toten Grafen Hendrik Baginski Stimme!!
 
-Dann -- -- eine andere „..
+Dann — — eine andere»…
 
-Die Haralds ...
+Die Haralds …
 
-Kurz und befehlend ...
+Kurz und befehlend …
 
-Unterſtüßt von dem ſtillen Drohen unſerer beiden
-Piſtolen ... =
+Unterstützt von dem stillen Drohen unserer beiden
+Pistolen … —
 
-Arnſtör und ſein Freund gaben das Spiel verloren ...
+Arnstör und sein Freund gaben das Spiel verloren …
 
-Ih hatte die beiden Seeleute auf dem Sofa ſchleunigſt
-lo8gebunden ...
+Ich hatte die beiden Seeleute auf dem Sofa schleunigst
+losgebunden …
 
-Zwei ſtämmige Scliffer ... Sie ſprachen nur re<ht ges
-brochen Deutſch, waren gleichfalls Dänen ...
+Zwei stämmige Schiffer … Sie sprachen nur recht gebrochen
+Deutsch, waren gleichfalls Dänen …
 
 Halfen uns, den Baron und den anderen auf dem Sofa
-in derſelben Weiſe unterzubringen .. i
+in derselben Weise unterzubringen …
 
-So wurden wir Herren de8 Schoner8 „Gjedſer“, der dem
-älteren Scjiffer gehörte ... Der jüngere war ſein Sohn ...
-Marmöl hießen ſie mit Bater8namen ... =-
+So wurden wir Herren des Schoners »Stecken«, der dem
+älteren Schiffer gehörte … Der jüngere war sein Sohn …
+Marmöl hießen sie mit Vatersnamen … —
+
 <@pagebreak/>
-DSODODSSSDSDSS 50 00SDSSSDOSSE0OSS
+Herren des Schoners …
 
-Herren des Sconer3 ...
-
-Und der junge Marmöl eilte an DeX und übernahm
-das Steuer, das wir vorhin feſtgebunden hatten ... Der
+Und der junge Marmöl eilte an Der und übernahm
+das Steuer, das wir vorhin festgebunden hatten … Der
 alte Marmöl holte den Gefangenen in die Kajüte hinab.
-Nun hatten wir den Baron Arnſtör und ſeine beiden Freunde
-zu unſerer Berfügung ... Nun mußte ſich ja endlich herans8=
-ſtellen, was dieſe drei mit den Geheimniſſen der Baroneſſe
-zu tun hatten ...
+Nun hatten wir den Baron Arnstör und seine beiden Freunde
+zu unserer Verfügung … Nun mußte sich ja endlich herausstellen,
+was diese drei mit den Geheimnissen der Baronesse
+zu tun hatten …
 
-Harſt hatte dem alten Marmöl Befehl gegeben, zu wens=
-den und wieder auf die Küſte zuzuſteuern ...
+Harst hatte dem alten Marmöl Befehl gegeben, zu Menschen
+und wieder auf die Küste zuzusteuern …
 
-Wir beide waren mit den drei däniſc<en Gentlemen in
-der Kajüte allein ... *
+Wir beide waren mit den drei dänischen Gentlemen in
+der Kajüte allein …«
 
-Das vornehm=ſc<hmale Geſicht de8 Barons zeigte einen
-merkwürdig verängſtigten Ausdru>. -- Bevor Harald noh
-das Wort an ihn richtete, ſagte Arnſtör in beinahe flehen=
-dem Tone:
+Das vornehm	—schhmale Gesicht des Barons zeigte einen
+merkwürdig verängstigten Ausdruck. — Bevor Harald noch
+das Wort an ihn richtete, sagte Arnstör in beinahe flehendem
+Tone:
 
-„Herr Harſt, mögen wir auh zur Zeit Gegner ſein ...
-Troßzdem bitte ih Sie: Laſſen Sje den Schoner gründlich
-durchſuchen! Sie wiſſen wohl, warum ...“
+»Herr Harst, mögen wir auch zur Zeit Gegner sein …
+Trotzdem bitte ich Sie: Lassen Sie den Schoner gründlich
+durchsuchen! Sie wissen wohl, warum …«
 
-„3a ... Sie möchten gern darüber Gewißheit haben, wer
-der Mann iſt, der nun ſchon zweimal im entſcheidenden
-AugenbliX Ihnen warnend und drohend zurief, daß die ...
-Toten aufſtehen!! = Dieſe Stimme des verſtorbenen Grafen
-Hendrik Baginski intereſſiert mih nicht weiter ... Dennoch
-werden wir nacher den Mann fünden, hoffe ich...
-Jetzt iſt e8 an Ihnen, mir darüber Aufſchluß zu geben,
-weshalb Sie ſich mit Hilfe Ihrer Freunde in die Angelegen=
-heiten der Baroneſſe Struveſund eingemiſcht haben ... Und
--- was ſind dies für Angelegenheiten?!“
+»Ja … Sie möchten gern darüber Gewißheit haben, wer
+der Mann ist, der nun schon zweimal im entscheidenden
+Augenblick Ihnen warnend und drohend zurief, daß die …
+Toten aufstehen!! — Diese Stimme des verstorbenen Grafen
+Hendrik Baginski interessiert mich nicht weiter … Dennoch
+werden wir nachher den Mann fänden, hoffe ich …
+Jetzt ist es an Ihnen, mir darüber Aufschluß zu geben,
+weshalb Sie sich mit Hilfe Ihrer Freunde in die Angelegenheiten
+der Baronesse Struvesund eingemischt haben … Und
+— was sind dies für Angelegenheiten?!«
 
-Dieſe Antwort Haralds überraſchte mihH in einem Punkte
-außerordentlih. Konnte das wohl ſtimmen, daß ihn der
+Diese Antwort Haralds überraschte mich in einem Punkte
+außerordentlich. Konnte das wohl stimmen, daß ihn der
 
-tote Graf Baginski ſo wenig intereſſierte?! =- Nein, da8
-entſpraM niemals den Zatſachen, niemals!! WesShalb alſo
-dieſe offenbare Unwahrheit = -=- weShalb?! Ein Harſt
+tote Graf Baginski so wenig interessierte?! — Nein, daß
+entsprach niemals den Tatsachen, niemals!! Weshalb also
+diese offenbare Unwahrheit — — weshalb?! Ein Harst
 
-ſprit derartiges nie ohne beſtimmte Abſicht aus. Was
+April derartiges nie ohne bestimmte Absicht aus. Was
 <@pagebreak/>
-DSDDSSDSBDDBSDDS 31 DS2DS0SDSEI0IDSIOS
+also bezweäte er mit dieser kleinen Lüge?! Sollte er etwa
+bereits wissen, was es mit dieser Stimme aus dem Jenseits
+auf sich hatte?!
 
-alſo bezweäte er mit dieſer kleinen Lüge?! Sollte er etwa
-bereits wiſſen, was es mit dieſer Stimme aus dem Ienſeits
-auf ſic< hatte?!
+Mein prüfender Blick glitt über sein schmales, geistvolles
+Antlitz hin … Dieses Antlitz wirkte selbst mit dem Stoppels-bart
+von anderthalb Tagen seltsam vornehm, und verriet
+wie immer die hinter der hohen, klugen Stirn schlummernde
+Energie …
 
-Mein prüfender Bli> glitt über ſein ſ<Hmales, geiſtvolles
-Antlitz hin ... Dieſe38 Antlitz wirkte ſelbſt mit dem Stoppels-
-bart von anderthalb Tagen ſeltſam vornehm, und verriet
-wie immer die hinter der hohen, klugen Stirn ſ<hlummernde
-Energie ...
+Dann schaute ich den dänischen Baron an, eine Männergestalt,
+die zweifellos etwas außerordentlich Sympathisches an
+sich hatte … Und von Baron Arnstörs Gesicht glitt mein
+Blick ebenso prüfend zu den beiden anderen Herren hinüber
+… Auch deren Gesichter besaßen die untrüglichen Zeichen
+edler Abkunft, besonders das des jüngsten der drei erschien
+mir wie das typische Bild eines überaus abgeklärten, leicht
+blasierten Aristokraten …
 
-Dann ſchaute ich den däniſ<en Baron an, eine Männer»
-geſtalt, die zweifellos etwas außerordentlich Sympathiſche8 an
-ſiH hatte ... Und von Baron Arnſtörs Gehicht glitt mein
-Bli> ebenſo prüfend zu den beiden anderen Herren hin=
-über ... Auch deren Geſichter beſaßen die untrüglihen Zeichen
-edler Abkunft, beſonder8 das des jüngſten der drei erſchien
-mir wie das typiſche Bild eines überaus abgeklärten, leicht
-blaſierten Ariſtokraten .
+Und — merkwürdig! — Dieser offenbar jüngste unserer
+Gefangenen hatte die Lippen zu einem deutlich ironischen
+Lächeln verzogen …
+Ein eigenartiges Lächeln, aus dem noch mehr als Ironie
+herauszulesen war … Überhaupt ein Mann, der auf mich
+ganz den Eindruck machte, als ob er sowohl den Baron als
+auch den dritten Gentleman völlig in die Tasche steckte. Er
+Stabjalousien mir ohne Zweifel der intelligenteste zu sein, wenn er
+dies auch offenbar absichtlich nicht irgendwie hervorkehren
+wollte. Er hatte außerordentlich lebhafte Augen, dazu einen
+feingezeichneten Mund, um den sich freilich tiefe Falten wie
+Wülste zum Kinn hinabzogen — jene Falten, die stets auf
+besonders stark entwickelte Energie hindeuteten.
 
-Und =- merkwürdig! =- Dieſer offenbar jüngſte unſerer
-Gefangenen hatte die Lippen zu einem deutli ironiſchen
-Lächeln verzogen ... .
-| Ein eigenartiges Lächeln, aus dem no< mehr als Ironie
-berauSzuleſen war ... Ueberhaupt ein Mann, der auf mich
-ganz den Etitdru> machte, als ob er ſowohl den Baron als
-auh den dritten Gentleman völlig in die Taſche ſte>te. Er
-ſien mir ohne Zweifel der intelligenteſte zu ſein, wenn er
-die8 auch offenbar abſichtlich nicht irgendwie hervorkehren
-wollte. Er hatte außerordentli<h lebhafte Augen, dazu einen
-feingezeichneten Mund, um den ſich freilich tiefe Falten wie
-Wülſte zum Kinn hinabzogen =- jene Falten, die ſtet8 auf
-beſonders ſtark entwi>elte Energie hindeuteten.
+Diese meine Beobachtungen hatten mich völlig vergessen.
+lassen, daß Baron Arnstör auf Haralds Fragen immer noch
+die Antwort schuldig geblieben war. — Merkwürdig: Harald
+schien auf eine Antwort auch weiter gar kein Gewicht zu
+legen, sondern starrte mit halb zugekniffenen Augen vor sich
+Tue hast …
 
-Dieſe meine Beobachtungen hatten mich völlig vergeſſen.
-laſſen, daß Baron Arnſtör auf Haralds Fragen immer no<
-die Antwort ſchuldig geblieben war. =- Merkwürdig: Harald
-ſchien auf eine Antwort auch weiter gar kein Gewicht zu
-legen, ſondern ſtarrte mit halb zugekniffenen Augen vor ſich
-HUE <ais . |
 <@pagebreak/>
-D2DSdSDSSSIOE0ODSS 3292 GSSD 2020SDSSEO2S
+Erst nach einer geraumen Weile hob er den Kopf und
+meinte sehr entschieden: »Sie sind unhöflich genug, Baron,
+sich vollends in Schweigen zu hüllen … Gut denn, —
+wir werden Sie drei einzeln verhören und mit dem Jüngsten
+den Anfang machen …«
 
-Erſt na<H einer geraumen Weile hob er den Kopf und
-meinte ſehr entſchieden: „Sie ſind unhöfliHh genug, Baron,
-ſich vollends in Schweigen zu hüllen ... Gut denn, =-
-wir werden Sie drei einzeln verhören und mit dem Jüngſten
-den Anfang machen ...“
+Darauf blickte er den jungen Edelmann an und fragte
+ebenso kurz:
 
-Darauf bli&te er den jungen Edelmann an und fragte
-ebenſo kurz:
+»Ihr Name, bitte …?«
 
-„Ihr Name, bitte ..?“
+»Graf Bereit Baginski,« erklärte der Däne mit leichter
+Verneigung …
 
-„Graf Henrik Baginski,“ erklärte der Däne mit leichter
-Verneigung ...
+Harald und ich trauten unseren Ohren nicht …
 
-Harald und ich trauten unſeren Ohren nicht ...
-
-Und der angeblihe Graf Baginski fügte mit derſelben
+Und der angebliche Graf Baginski fügte mit derselben
 kühlen Förmlichkeit hinzu:
 
-„Freilich will man mir das Recht abſtreiten, dieſen
-Namen führen zu dürfen ...“
+»Freilich will man mir das Recht abstreiten, diesen
+Namen führen zu dürfen …«
 
-Da ... eine Unterbrehung ...
+Da … eine Unterbrechung …
 
-Durd) Harald ...
+Durch Harald …
+
 <@pagebreak/>
-SSDSSESGDSSBEDD 53 2 S&ECO0OSDSSOESC0OS
 
-4. Kapitel.
-Helga und Hendrik
+<h2>4. Kapitel.</h2>
+<h3>Helga und Hendrik.</h3>
 
-Durcy yarald ...
+Durch Harald …
 
 Denn er vollendete nun den von dem jungen Grafen
-begonnenen Saß ...
+begonnenen Satz …
 
-„„"-. Anſprüche auf das zu erheben, was die Baroneſſe
-Helga Struveſund mit Hilfe des anerkannt tüchtigen Kriminal
-beamten Reiter in den Gewölben der ehemaligen Raubburg
-gefunden hat und mit Hilfe dieſes Shoner8 nah dem Schloſſe
-des verſtorbenen Grafen Baginski bringen ließ ... Ulſo
-nah der Südoſtſpitze der Inſel Laaland ...“
+»-. Ansprüche auf das zu erheben, was die Baronesse
+Helga Struvesund mit Hilfe des anerkannt tüchtigen Kriminalbeamten
+Reiter in den Gewölben der ehemaligen Raubburg
+gefunden hat und mit Hilfe dieses Schoners nach dem Schlosse
+des verstorbenen Grafen Baginski bringen ließ … Also
+nach der Südostspitze der Insel Laaland …«
 
-Der Baron Arnſtör lachte jetzt ironiſ<m auf ... „Ah -
-ſo hat die Baroneſſe Ihnen doch ſchon gebeichtet, Herr Harſt!“
-meinte er ſcheinbar beluſtigt ... „Schwer genug wird es ihr
-wohl geworden ſein, denn ſie hat dieſe ganze abenteuerliche
-Geſchichte entſprehßend ihrem romantiſchen Sinn mit ſo viel
-lächerlihem Beiwerk umgeben, daß ...“
+Der Baron Arnstör lachte jetzt immerhin auf … »Ah —
+so hat die Baronesse Ihnen doch schon gebeichtet, Herr Harst!«
+meinte er scheinbar belustigt … »Schwer genug wird es ihr
+wohl geworden sein, denn sie hat diese ganze abenteuerliche
+Geschichte entsprehßend ihrem romantischen Sinn mit so viel
+lächerlichen Beiwerk umgeben, daß …«
 
-„Darüber ſpäter, Baron,“ fiel Harſt ihm ins Wort ...
-„Im übrigen irren Sie ſih ... Das Fräulein von Struve»
-ſund hat bisher nicht Gelegenheit gehabt, mir irgend etwas
-anzuvertrauen ... Ih konnte mir aus dem, iwas ich hier
+»Darüber später, Baron,« fiel Harst ihm ins Wort …
+»Im übrigen irren Sie sich … Das Fräulein von Struvesund
+hat bisher nicht Gelegenheit gehabt, mir irgend etwas
+anzuvertrauen … Ich konnte mir aus dem, raus ich hier
 <@pagebreak/>
-2DS200dDDSSDSODDO 54 DSOSSSOSDDOOD
+mit erlebt habe, unschwer zusammenreimen, daß das Ganze
+eine der seltsamsten Schatzgeschichten sein müßte, die ich je
+kennengelernt habe … Es lag doch so sehr nahe, daß der
+hier vor Arendsee so häufig auftauchende Schoner nur Wertsachen
+irgendwelchen Art insgeheim nach einem anderen
+Orte beförderte, — Wertsachen, die nur aus den Kellerräumen
+der uralten Piratenburg stammen konnten … Also
+wahrscheinlich Beutestücke aus jener Zeit, da die Grafen
+Baginski das Seeräuberhandwerk betrieben … Beutestücke,
+von deren Existenz die Baronesse Helga erst nach dem Tode
+ihres Oheims Baginski etwas erfahren haben dürfte, vielleicht
+durchs ein Testament …«
 
-mit erlebt habe, unſchwer zuſammenreimen, daß das Ganze
-eine der ſeltſamſten Schatßgeſchichten ſein müßte, die ich je
-kennengelernt habe ... Es lag doch ſo ſehr nahe, daß der
-hier vor Arendſee ſo häufig auftauchende Shoner nur Wert=
-ſaßen irgendwelher Art ins8geheim nach einem anderen
-Orte beförderte, -- Wertſachen, die nur au8 den Keller=
-räumen der uralten Piratenburg ſtammen konnten ... Alſo
-wahrſcheinlich Beuteſtüfe aus jener Zeit, da die Grafen
-Baginski das Seeräuberhandwerk betrieben ... Beuteſtüce,
-von deren Exiſtenz die Baroneſſe Helga erſt na< dem Tode
-ihres Oheims Baginski etwas erfahren haben dürfte, viel=
-leiht durhg ein Teſtament ...“
+Ich, Max Schraut, hörte andächtig zu …
 
-Ich, Max Schraut, hörte andächtig zu ...
+Weiß der Himmel: an diese Lösung hatte im nicht gedacht!!
+Nein — niemals!! — Piratenbeute von ehemals — oh, das
+klang doch eigentlich reichlich abgeschwächt, das war so … so —
+überaus alltäglich, so gar nicht sensationell!!
 
-Weiß der Himmel: an dieſe Löſung hatte im nicht gedacht!!
-Nein -- niemals!! -- Biratenbeute von ehemals -- oh, das
-klang doh eigentlich reihlich abgeſ<hmadt, das war ſo ... ſo -
-überaus alltäglich, ſo gar nicht ſenſationell!!
+Freilich wenn man die Geschehnisse als Ganzes bewertete,
+wenn man an Spitze Rummels Brief, das geheimnisvolle
+Grab in den Dünen, und an all das übrige dachte, — —
+dann war’s doch kein so alltäglicher Fall … Der Kern, eben
+die Piratenbeute, war nichts Besonderes, doch das Drum und
+Dran konnte sich schon sehen lassen!! —
 
-Freilich wenn man die Geſchehniſſe al8 Ganzes bewertete,
-wenn man an Frize Rummels Brief, das geheimnisvolle
-Grab in den Dünen, und an all das übrige dachte, =-- --
-dann war's doh kein ſo alltäglicher Fall ... Der Kern, eben
-die Piratenbeute, war nichts Beſonderes, doH das Drum und
-Dran konnte ſich ſchon ſehen laſſen!! =-
+Der angebliche Graf Baginski nahm nun wieder das
+Wort … Sehr höflich, sehr vornehm in jedem Auftrag …
 
-Der angeblihe Graf Baginski nahm nun wieder das
-Wort ... Sehr höflich, ſehr vornehm in jedem Ausdrus ...
+»Herr Harst, wir wollen, denke ich, das Kriegsbeil zwischen
+uns begraben … Sie und Ihr Freund können überzeugt
+sein, daß wir drei gegen Sie nichts Feindseliges mehr unternehmen
+werden. Ich will auch mit meiner Kusine Helga
+Frieden schließen, denn im Grunde haben wir, meine Freunde
+und ich, es mehr auf einen etwas derben Scherz als auf
+einen Eingriff in die Rechte der Baronesse abgesehen gehabt.«
 
-„Herr Harſt, wir wollen, denke ich, das Kriegsbeil zwiſchen
-uns begraben ... Sie und Ihr Freund können überzeugt
-ſein, daß wir drei gegen Sie nichts Feindſeliges mehr unter=
-nehmen werden. I<h will auch mit meiner Kuſine Helga
-Frieden ſchließen, denn im Grunde haben wir, meine Freunde
-und ich, e8 mehr auf einen etwa8 derben Scherz als auf
-einen Eingriff in die Nechte der Baroneſſe abgeſehen gehabt.“
-
-Oh - das war denn doch ein ziemlich freher Schwindel,
-fand iM ..!! Hinter dem abgeklärten Bornehmgetue dieſes
-Grafen Baginski verbarg ſich nichts als feige8 Verheimlichen
-ſeiner wahren Abſichten ...!! Hatte er doh vorhin noch
+Oh — das war denn doch ein ziemlich freier Schwindel,
+fand ich …!! Hinter dem abgeklärten Vornehmgetue dieses
+Grafen Baginski verbarg sich nichts als leises Verheimlichen
+seiner wahren Absichten …!! Hatte er doch vorhin noch
 <@pagebreak/>
-DSDSSDSSSSSDO 55 80 0DSDODSLI0202008
+betont, er sei der einzige, der berechtigten Anspruch auf das
+habe, was die Baronesse nun sich angeeignet hatte …! —
+Und jetzt wollte er plötzlich behaupten, daß … alles nur ein
+-… derber Scherz gewesen?! — Schade, der junge Mann
+war mir recht sympathisch gewesen … Jetzt jedoch hatte er
+bei mir gründlich verspielt — — gründlich!
 
-betont, er ſei der einzige, der berechtigten Anſpruch auf das
-habe, was die Baroneſſe nun ſich angeeignet hatte ..! =-
-Und jetzt wollte er plößlic< behaupten, daß ... alles nur ein
-“ -.. derber Scherz geweſen?! -- Schade, der junge Mann
-war mir recht ſympathiſch geweſen ... Jetzt jedoch haite er
-bei mir gründlich verſpielt = =- gründlich!
+Wer beschreibt daher mein Erstaunen, als Harald diesem
+eleganten Schwindler in höflichster Weise erwiderte:
 
-Wer beſchreibt daher mein Erſtaunen, al8 Harald dieſem
-eleganten Schwindler in höflihſter Weiſe erwiderte:
+»Herr Graf Baginski, ich glaube an diesen derben Scherz,
+— — trotz der ein wenig verblüfften Gesichter Ihrer Freunde,
+die ohne Zweifel alles bisher für bittersten Ernst gehalten
+haben …!«
 
-„Herr Graf Baginski, ich glaube an dieſen derben Scherz,
-=- =- troß der ein wenig verblüfften Geſichter Ihrer Freunde,
-die ohne Zweifel alle8 bisher für bitterſten Ernſt gehalten
-haben ...!“
+»Allerdings!« rief Baron Arnstör da. »Allerdings — —
+vollkommen für Ernst!! Denn du, lieber Hendrik, hast stets
+so getan, als ob …«
 
-„Allerdings!“ rief Baron Arnſtör da. „Allerdings =- -=-
-vollkommen für Ernſt!! Denn du, lieber Hendrik, haſt ſtets
-ſo getan, als ob ...“
+Harald nickte nur und fügte hinzu: »Jetzt wollen wir
+Ihnen zunächst die Fesseln abnehmen … Schraut, hilf mir.«
 
-Harald ni>te nur und fügte hinzu: „Jetzt wollen wir
-Ihnen zunächſt die Feſſeln abnehmen ... Schraut, hilf mir.“
+Ich half … Recht widerwillig … Denn ich traute den
+drei Gentlemen jetzt noch weniger als vordem … Ihr ganzes
+Verhalten erschien mir reichlich widerspruchsvoll … Aber
+Harst mußte ja wohl seine Gründe dafür haben, diese Herren
+so zart mit Handschuhen anzufassen …
 
-IH half ... Recht widerwillig ... Denn ich traute den
-drei Gentlemen jezt no< weniger al8 vordem ... Ihr ganzes
-Verhalten erſ<hien mir reichlih widerſpruchsvoll ... Aber
-Harſt mußte ja wohl ſeine Gründe dafür haben, dieſe Herren
-ſo zart mit Handſchuhen anzufaſſen ..
+Kaum hatten sie So ihre Bewegungsfreiheit wiedergewonnen,
+als der junge Graf Baginski Harald auch schon die
+Rechte hinstreckte und feierlich erklärte: Meinen un und
 
-Kaum hatten ſie Jo ihre Bewegungsfreiheit wiederge=
-wonnen, als der junge Graf Baginski Harald auch ſchon die
-Rechte hinſtre>te und feierlih erklärte: Meinen un und
+… auf ehrliche Kameradschaft fernerhin, Herr Harst …
+Dann reichte er auch mir die Hand …
 
-. auf ehrliche Kameradſchaft fernerhin, Herr Zarſt .
-Dann reichte er auc mir die Hand .
+Der Baron Arnstör und der andere Aristokrat machten
+uns nur ziemlich steife Verbeugungen …
 
-Der Baron Arnſtör und der andere Ariſtokrat machten
-uns nur ziemlich ſteife Berbeugungen ...
+Wir alle nahmen wieder Platz …
 
-Wir alle nahmen wieder Platz ...
+Sollten jedoch nicht lange sitzen bleiben …
 
-Sollten jedoH nicht lange ſitzen bleiben ...
+Die Kajütentür flog auf, und als erste trat die Baronesse
+Helga ein — — nicht gerade als Friedensengel, denn sie
+hielt in der halb erhobenen Rechten eine Mauserpistole, und
+ihr schmales, pikantes Gesichtchen zeigte einen Ausdruck, als
+ob ihr die Kugeln in diesem Pistolenlauf sehr lagen säßen …
 
-Die Kajütentür flog auf, und als erſte trat die Baroneſſe
-Helga ein -- -- nicht gerade als Friedensengel, denn ſie
-hielt in der halb erhobenen Nechten eine Mauſerpiſtole, und
-ihr ſchmales, pilantes Geſiht<hen zeigte einen Ausdru&, als
-ob ihr die Kuneln in dieſem Biſtolenlauf ſehr loXer ſäßen ...
 <@pagebreak/>
-DSSSOSDSSSODDDOD 566 0000020200 202202
+Hinter ihr aber tauchten John Reiter, der junge Marmöl
+und … Knie Rummel auf …
 
-Hinter ihr aber tauchten Iohn Reiter, der junge Marmöl
-und ... Frie Rummel auf ...
+Vor ihr jedoch schnellte Hendrik Baginski von seinem
+Schiffsstuhl hoch und rief seltsam gepreßt:
 
-Vor ihr jedoH ſchnellte Hendrik Bagins8ki von ſeinem
-Sciiffsſtuhl ho<ß und rief ſeltſam gepreßt:
+»Schade, Baronesse, — 	— Sie sind etwas zu früh elf
+schienen …!«
 
-„Schade, Baroneſſe, = = Sie ſind etwas zu früh ers
-ſhienen ...!“
+Merkwürdig: Helga von Struvesund starrte den Grafen
+wie einen bösen Geist an, wich einen Schritt zurück und
+stammelte wie eine Trunkene:
 
-Merkwürdig: Helga von Struveſund ſtarrte den Grafen
-wie einen böſen Geiſt an, wic) einen Shritt zurük und
-ſtammelte wie eine Trunkene:
+»Hendrik, was … was tun Sie denn hier?!«
 
-„Hendrik, was ... was tun Sie denn hier?!“
+Der junge Graf Baginski senkte beschämt den Kopf …
 
-Der junge Graf Baginski ſenkte beſchämt den Kopf ...
+Tatsächlich: beschämt!! — Nur so war der völlig veränderte
+Ausdruck seines Gesichts zu deuten …
 
-Tatſä<hliH: beſhämt!! -- Nur ſo war der völlig verän=
-derte Ausdru> ſeines Geſichts zu deuten ...
+Dann fügte die Baronesse schon hinzu — und ihre
+Stimme klang jetzt geradezu entsetzt und erschüttert:
 
-Dann fügte die Baroneſſe ſchon hinzu = und ihre
-Stimme klang jetzt geradezu entſezt und erſchüttert:
+»Hendrik, — 	— Sie einer der drei … der drei Gegner?!
+— Oh — — das hätte ich Ihnen niemals zugetraut —
+niemals!! Sie wollten also mit Gewalt an sich bringen,
+was Ihnen Ihr Vater mit Recht vorenthalten hat?«
 
-„Hendrik, = = Sie einer der drei ... der drei Gegner?!
-- Oh - -- das hätte ich Ihnen niemals zugetraut --
-niemal8!! Sie wollten alſo mit Gewalt an ſich bringen,
-was Ihnen Ihr Vater mit Recht vorenthalten hat?“
+Ha, Max Schraut, spitzte gewaltig die Ohren …
 
-IHG, Max Schraut, ſpitzte gewaltig die Ohren ...
+Hier kamen Dinge an den Tag, die wahrlich seltsam genug
+waren: …
 
-Hier kamen Dinge an den Tag, die wahrlich ſeltſam genug
-waren: .,.
+Und diese beiden jungen Menschenkinder da, die sich nun
+mit so eigentümlichen Blicken maßen, — dieser Graf Hendrik
+und die rassige Baronesse schienen völlig vergessen zu hatten,
+daß hier in der Kajüte und draußen im Schiffsgang verschiedene
+Zeugen dieser Unterredung aufs gespannteste jedes
+Wort, jede Miene belauerten …
 
-Und dieſe beiden jungen Menſchenkinder da, die ſich nun
-mit ſo eigentümlichen Bliken maßen, =- dieſer Graf Hendrik
-und die raſſige Baroneſſe ſchienen völlig vergeſſen zu ha=
-ben, daß hier in der Kajüte und draußen im Schiff8gang ver»
-ſchiedene Zeugen diejer Unterredung aufs geſpannteſte jedes
-Wort, jede Miene belauerten ...
+Baginski war jetzt die helle Nöte ins Gesicht geschossen.
+Der schwere Vorwurf, den Helga gegen ihn erhoben hatte,
+schien sein Ehrgefühl aufs tiefste verletzt zu haben … Auf
+seiner Stirn erschienen drohende Falten, und rauhen Tones
+stieß er hervor: »Halten Sie mich für einen Dieb, Helga?!
+Könnte ich nicht weit eher von Ihnen behaupten, daß …
+Sie mir … alles gestohlen haben … t!«
 
-Baginski war jezt die helle Nöte ins Geſicht geſchoſſen.
-Der ſ<were Vorwurf, den Helga gegen ihn erhoben hatte,
-ſchien ſein Ehrgefühl aufs tiefſte verlezt zu haben ... Auf
-ſeiner Stirn erſchienen drohende Falten, und rauhen Tone3
-ſtieß er hervor: „Halten Sie mich für einen Dieb, Helga?!
-Könnte iM nicht weit eher von Ihnen behaupten, daß ...
-Sie mir ... alle8 geſtohlen haben ..t!“
-
-Bei dieſen Worten erbleihte die Baroneſſe und trat
+Bei diesen Worten erbleichte die Baronesse und trat
 <@pagebreak/>
-DSDSSSSSSSDS 577 SOSSSSDSSSDOSSS-
+mit flammenden Augen ganz nahe an Baginski heran …
+! »Schönen Sie sich!!« jagte sie, am ganzen Körper
+zitternd. »Ich habe Ihnen nichts gestohlen — —. nichts?
+Wollen Sie mich etwa dafür verantwortlich machen, daß
+Onkel Hendrik Sie, den leichtfertigen Lebemann, verstoßen
+und enterbt hat?! Ich habe meinerseits alles getan, um
+dies zu verhindern … Ich bin für Sie eingetreten, so weit
+ich dies konnte, denn ich habe unsere gemeinsamen Jugendjahre
+nicht vergessen …«
 
-mit flammenden Augen ganz nahe an Bagins8ki heran ...
-! „Gdämen Sie ſi<!!“ jagte ſie, am ganzen Körper
-zitternd. „IH habe Ihnen nichts geſtohlen -- --. nichts?
-Wollen Sie mich etwa dafür verantwortlih machen, daß
-Onkel Hendrik Sie, den leichtfertigen Lebemann, verſtoßen
-und enterbt hat?! Id habe meinerſeits alle3 getan, um
-dies zu verhindern ... Ih bin für Sie eingetreten, ſo weit
-ich dies konnte, denn ich habe unſere gemeinſamen Jugend=
-jahre nicht vergeſſen ...“
-
-Der junge Graf ſchaute die Baroneſſe jezt unſicher und-
-zweifelnd an, meinte zögernd: „Helga, ich kenne Sie ... Ic<h
-weiß, daß Sie ſelbſt eine Notlüge verachten ... Helga, iſt
+Der junge Graf schaute die Baronesse jetzt unsicher und-zweifelnd
+an, meinte zögernd: »Helga, ich kenne Sie … Ich
+weiß, daß Sie selbst eine Notlüge verachten … Helga, ist
 Ihnen denn nicht bekannt, unter welcher Bedingung mein.
-Vater mir verzeihen wollte?“
+Vater mir verzeihen wollte?«
 
-„Nein ... Eine Bedingung!! Welche denn?!“
+»Nein … Eine Bedingung!! Welche denn?!«
 
-Baginski ergriff ihre Hand ...
+Baginski ergriff ihre Hand …
 
-„Helga, = = ich ſollte Ste heiraten, ſollte um Sie-
-werben ...,“ erklärte er leiſe. „Und -- da38 ſ<lug ich-
+»Helga, — 	— ich sollte Sie heiraten, sollte um Stockwerken
+…« erklärte er leise. »Und — das schlug ich
 
-meinem Vater ab, denn -- wie durfte ih mit meiner wilden,.
-wüſten Bergangenheit e8 wagen, mich Ihnen als Freier zu
-nähern ...“ !
+meinem Vater ab, denn — wie durfte ich mit meiner wilden…
+wüsten Vergangenheit es wagen, mich Ihnen als Freier zu
+nähern …«!
 
-Jetzt ſchoß der Baroneſſe eine helle Blutwelle in die
-Wangen. ... Sie 3og mit einem RuF ihre Hamd zuvrü>,
-drehte ſic) kurz um ... und verließ die Kajüte, iiidem ſie
-Reiter und dem Knaben kurz zuwinkte ...
+Jetzt schoß der Baronesse eine helle Blutwelle in die
+Wangen … Sie zog mit einem Ruf ihre Hand zudrückt,
+drehte sich kurz um … und verließ die Kajüte, indem sie
+Reiter und dem Knaben kurz zuwinkte …
 
 Baginski wollte hinter ihr drein. Aber ein Zuruf
-Harſts hielt ihn zurüs ...
+Harsts hielt ihn zurück …
 
-„Bleiben Sie, Graf ... Sie werden jetzt bei der Baroneſſe
-dod) nichts ausrichten ...“
+»Bleiben Sie, Graf … Sie werden jetzt bei der Baronesse
+doch nichts ausrichten …«
 
-In der Kajüte nun wieder Stille ...
+In der Kajüte nun wieder Stille …
 
-Wir hörten deutlich, wie ein Boot von dem Schoner“
-abſtieß ...
+Wir hörten deutlich, wie ein Boot von dem Schoner«
+abstieß …
 
-Dann vernahmen wir das Raſſeln der Ankerkette des
-Sc<Honers, und merkten an den veränderten Bewegungen des
-Schiffes, daß der alte Marmöl die „Gjedjer“ vor der Branz-
-duna verankert hatte.
+Dann vernahmen wir das Rasseln der Ankerkette des
+Schoners, und merkten an den veränderten Bewegungen des
+Schiffes, daß der alte Marmöl die »Stehlen« vor der Branz-duna
+verankert hatte.
+
 <@pagebreak/>
-DSSSSODOSDDDODOS 53 D00S0SS0IDBDES
+Baginski stand noch immer in der Haltung eines Mannes
+da, der ungeahnte Offenbarungen erst einmal geistig verarbeiten
+muß …
 
-Baginski ſtand noch immer in der Haltung eines Mannes
-da, der ungeahnte Offenbarungen erſt einmal geiſtig ver=
-arbeiten muß .
+Bis meines »Freundes ruhige und beruhigende Schüsse
+das unbehagliche Schweigen löste …
 
-Bis meines „Freundes ruhige und beruhigende Shüiie
-das unbehaglihe Schweigen löſte .
+»Hier scheinen eine ganze Menge von Mißverständnissen
+obzuwalten, deren Beseitigung bei einigem Taktgefühl nicht
+allzu schwer fallen dürfte … — Gehen wir an Dr, meine
+Herren.«
 
-„Hier ſcheinen eine ganze Menge von Mißverſtändniſſen
-obzuwalten, deren Beſeitigung bei einigem Taktgefühl nicht
-allzu ſchwer fallen dürfte ... =- Gehen wir an De, meine
-Herren.“
+Wir gingen … Und draußen empfing uns der reine
+SalzhauFß des weiten Meeres, empfing uns der milde
+Schimmer des Nachtgestirns … — Ich blickte naß dem
+nahen Strande hinüber … Ich sah das Boot mit Helga,
+Reiter und Fritz … Die drei landeten gerade, stritten dem
+Walde zu — der Stelle, wo der geheime Eingang in die
+Gewölbe sich befand …
 
-Wir gingen ... Und draußen empfing uns der reine
-SalzhauFß de8 weiten Meeres, empfing uns der milde
-Schimmer des Nachtgeſtirns ... =- I< blikte naß dem
-nahen Strande hinüber ... I< ſah das Boot mit Helga,
-Reiter und Friß ... Die drei landeten gerade, ſtritten dem
-Walde zu =- der Stelle, wo der geheime Eingang in die
-Gewölbe ſic) befand ...
-
-Dann befahl Harſt dem alten Marmösl: „Maden Sie
-das Beiboot des Schoners8 klar ... Wir werden den toten
+Dann befahl Harst dem alten Kannst: »Machen Sie
+das Beiboot des Schoners klar … Wir werden den toten
 Grafen wieder dorthin bringen, wo er offenbar zu ruhen
-gewünſc<t hat.“ Und er deutete auf die eihene Sargtkiſte, .
-die vorn an der Reling ſtand .
+gewünscht hat.« Und er deutete auf die eichene Sargkiste, …
+die vorn an der Reling stand …
 
---------
 <@pagebreak/>
-DSSSSDSSDSEDS 5) SOSSSSOSDDOD
 
-5. Kapitel.
-Die Beutekammer der Bagins8kis.
+<h2>5. Kapitel.</h2>
+<h3>Die Beutekammer der Baginskis.</h3>
 
-Auch wir landeten ... Hoben die Sargkiſte aus dem
-Boote und ſchritten hinter dem jungen Grafen drein, der
-ſich jezt quer durc die Dünen nah links wandte, dorthin,
-wo de Wald die ſ<hmale Zunge weit in die hellen Sandhügel
-vorſhob ... = Ein ſtiller Zug ernſter Männer ... Wie
-ein nächtliches Begräbnis faſt ...
+Auch wir landeten … Hoben die Sargkiste aus dem
+Boote und schritten hinter dem jungen Grafen drein, der
+sich jetzt quer durch die Dünen nach links wandte, dorthin,
+wo he Wald die schmale Zunge weit in die hellen Sandhügel
+vorschob … — Ein stiller Zug ernster Männer … Wie
+ein nächtliches Begräbnis fast …
 
-Und hier zwiſchen den Tannen der Waldzunge, zwiſchen
-zwei knorrigen Stämmen mit vom Winde bloßgelegtem dich-
-tem Wurzelwerk hob der Graf einen nur leicht mit Sanv
-I ac<hte>igen ſ<weren HolzdeFXel empor ... Sagte
-azu:
+Und hier zwischen den Tannen der Waldzunge, zwischen
+zwei knorrigen Stämmen mit vom Winde bloßgelegtem dichtem
+Wurzelwerk hob der Graf einen nur leicht mit Sand
+achteckigen schweren Holzdeckel empor … Sagte
+dazu:
 
-„Delga kannte natürlich auch dieſen Aus8gang ... Helga
-hätte uns ſofort verfolgen können, denn ſie mußte wiſſen,
-daß wir drei durch dieſes Schlupfloch entflohen waren und
-daß wir dann die Sargkiſte geholt hatten. Aber Sie wollte
-Ihnen, Herr Harſt, die Beutekammer der Baginski8s nicht
-zeigen ... Vielleicht ſhämte ſie ſih der ehemaligen Piratens=
-ſtreihe meines Geſchlechts ...“
+»Brigg kannte natürlich auch diesen Ausgang … Helga
+hätte uns sofort verfolgen können, denn sie mußte wissen,
+daß wir drei durch dieses Schlupfloch entflohen waren und
+daß wir dann die Sargkiste geholt hatten. Aber Sie wollte
+Ihnen, Herr Harst, die Beutekammer der Baginskis nicht
+zeigen … Vielleicht schämte sie sich der ehemaligen Piratens-streihe
+meines Geschlechts …«
 
-Dann ſtieg er als erſter in den gemauerten Schac<t hin=
-ab, in dem eine verroſtete eiſerne Leiter lehnte ...
+Dann stieg er als erster in den gemauerten Schacht hinab,
+in dem eine verrostete eiserne Leiter lehnte …
 
-E8 war nicht ganz einfa<, die Sargtkiſte hier hinab=
+Es war nicht ganz einfach, die Sargkiste hier hinab
 
-zuſchaffen ..
-Unten ein kurzer Gang ... Eine kleine Eichentür ..
-Und dann -- -- ſtrahlende Lichtfluten, als Baginski dieſe
+herbeizuschaffen …
+Unten ein kurzer Gang … Eine kleine Eichentür …
+Und dann — — strahlende Lichtfluten, als Baginski diese
 
-Tür geöffnet hatte ...
+Tür geöffnet hatte …
 
-Strahlende Lichtfluten von drei Karbidlaternen „
+Strahlende Lichtfluten von drei Karbidlaternen«
 
-Und -=- - ein leiſer Aufſchrei aus weibliher Kehle ..
+Und — — ein leiser Aufschrei aus weiblicher Kehle …
 
-Helga ..!!
+Helga …!!
 
-Und mein ſtaunender Bli> überflog dieſe8 kreisrunde
-Gewölbe, deſſen Wände mit den koſtbarſten, freilich längſt
-halb vermoderten Teppichen behangen waren ... Ueberflog
+Und mein staunender Blick überflog dieses kreisrunde
+Gewölbe, dessen Wände mit den kostbarsten, freilich längst
+halb vermoderten Teppichen behangen waren … Überflog
 <@pagebreak/>
-DSSSSSSSSSSS 60 DSODSEGDSEDDoOES
+auch die Truhen und Kisten, die alten Schiffskanonen aus
+Bronze, die Waffen und Schiffsinstrumente …
 
-auch die Truhen und Kiſten, die alten Schiffskanonen aus
-Bronze, die Waffen und Schiffsinſtrumente ...
+Bis Harst und der Baron Arnstör, die den Sarg trugen,
+mich beiseite drängten und das runde Gewölbe betraten,
+in dem außer Helga auch) neun John Reiter und unser Fritz
+anwesend waren …
 
-Bis Harſt und der Baron Arnſtör, die den Sarg trugen,
-mich beiſeite drängten und das runde Gewölbe betraten,
-in dem außer Helga auc<) noMm John Reiter und unſer Fritz
-anweſend waren ...
+Harald und Arnstör setzten den Sarg nieder.
 
-Harald und Arnſtör ſezten den Sarg nieder.
+Und Harst wandte sich dann an die Baronesse …
 
-Und Harſt wandte ſiH dann an die Baroneſſe ...
+»Ich denke, wir klären die Angelegenheit nun vollkommen,
+Fräulein von Struvesund … Insbesondere dürfte
+es angebracht sein, einige Irrtümer zu beseitigen, die vielleicht
+…«
 
-„IH denke, wir klären die Angelegenheit nun voll=
-kommen, Fräulein von Struveſund ... InSsbeſondere dürfte
-es angebracht ſein, einige Irrtümer zu beſeitigen, die viel=
-leiht ...“
+Die Baronesse hatte eine zustimmende Handbewegung
+gemacht … »Ich ahnte, daß die Herren hier erscheinen Fürsten,«
+sagte sie mit einer gewissen kühlen Ablehnung. »Daß
+Sie aber so schnell hier auftauchen würden, hatte im doch
+nicht vermutet …« Ihr Bis wich dem des jungen Grafen
+Baginski hartnäckig aus …
 
-Die Baroneſſe hatte eine zuſtimmende Handbewegung
-gemacht ... „Ih ahnte, daß die Herren hier erſheinen würs=
-den,“ ſagte ſie mit einer gewiſſen kühlen Ablehnung. „Daß
-Sie aber ſo ſchnell hier auftauchen würden, hatte im doch
-nicht vermutet ...“ Ihr Bli wich dem des jungen Grafen
-Baginski hartnä>ig aus ...
+Dieser Hendrik Baginski hatte sich jetzt zu Häupten des
+Sarges seines Vaters aufgestellt, die Hände gefaltet und die
+Augen starr auf die Baronesse gerichtet — starr und vor
+vorwurfsvoll, als ob er erwartete, daß sie wenigstens ein einziges
+freundliches Wort finden würde …
 
-Dieſer Hendrik Baginski hatte ſih jeht zu Häupten des
-Sarges ſeines Vater38 aufgeſtellt, die Hände gefaltet und die
-Augen ſtarr auf die Baroneſſe gerichtet = ſtarr und vor
-wurfsvoll, als ob er erwartete, daß ſie wenigſtens ein cin=
-ziges freundliches Wort finden würde ...
+Eine mehr als unbehagliche Stimmung lag über den
+hier in der Beutekammer Versammelten.
 
-Eine mehr als unbehaglihe Stimmung lag über den
-hier in der Beutekammer Berſammelten.
+Dann wieder Haralds ’angenehmes Organ, das diesmal
+ganz wie versöhnender Orgelklang war …
 
-Dann wieder Haralds 'angenehmes Organ, das die8mal
-ganz wie verſöhnender Orgelklang war .
-
-„Meine Herrſchaften,“ ſagte er, „wenn Sie nicht reden
-wollen, ſo muß ich wohl auf Grund all der kleinen Bruchs
-ſtüFe, die 1H biSher ſammeln konnte, ein Bild dieſer ſo
-myſteriöſen Geſchehniſſe zuſammenſtellen. =- Sie, Graf Hendrik
-Baginski, ſind von Ihrem Bater enterbt worden, weil Sie
+»Meine Herrschaften,« sagte er, »wenn Sie nicht reden
+wollen, so muß ich wohl auf Grund all der kleinen Bruchs
+Brücke, die 1H bisher sammeln konnte, ein Bild dieser so
+mysteriösen Geschehnisse zusammenstellen. — Sie, Graf Hendrik
+Baginski, sind von Ihrem Vater enterbt worden, weil Sie
 in Kopenhagen in einen Kreis von Lebemännern geraten
-waren, die Sie nicht gerade nach der günſtigen Seite hin
-beeinflußten. Zu dieſem Kreiſe gehörten auch die beiden
+waren, die Sie nicht gerade nach der günstigen Seite hin
+beeinflußten. Zu diesem Kreise gehörten auch die beiden
 Herren, die Sie nun hierher begleitet haben, und zwar war
 <@pagebreak/>
-DSSSDSSDSDDSSSS (1 00 00DS0DISO0SOSD
+Baron Arnstör wohl derjenige, der nach Ihrer Enterbung
+und nach dem Tode Ihres Vaters auf den Gedanken kam, der
+Baronesse die Wegschaffung der hier verborgenen Kostbarkeiten
+zu erschweren oder ihr sonstwie Ungelegenheiten zu bereiten
+…«
 
-Baron Arnſtör wohl derjenige, der nach Ihrer Enterbung
-und nah dem Tode Ihres Vaters auf den Gedanken kam, der
-Baroneſſe die Wegſchaffung der hier verborgenen Koſtbar»
-keiten zu erſchweren oder ihr ſonſtwie Ungelegenheiten zu be=
-reiten ...“
+Arnstör lachte ironisch auf … Es war ein häßliches
+Lachen, das gleichsam mit einem Ruck dem Baron eine Larve
+vom Gesicht riß und nun erst sein wahres Antlitz enthüllte.
 
-Arnſtör lachte ironiſ< auf ... E8 war ein häßliches
-Lachen, das gleihſam mit einem RuFX dem Baron eine Larve
-vom Geſicht riß und nun erſt ſein wahres Antlitz enthüllte.
+Hendrik Baginski warf ihm einen finsteren Blick zu …
+Erklärte zögernd und mit verbissenem Ingrimm:
 
-Hendrik Bagins8ki warf ihm einen finſteren Blik zu ...
-Erklärte zögernd und mit verbiſſenem Ingrimm:
+»Sie haben nicht ganz unrecht, Herr Harst … Vielleicht
+habe ich zu spät eingesehen, daß meine Freunde …«
 
-„Sie haben nicht ganz unrecht, Herr Harſt ... Vielleicht
-habe iM zu ſpät eingeſehen, daß meine Freunde ...“
+Er machte nur noch eine unwillige Handbewegung und
+schwieg … Ä
 
-Er machte nur no<h eine unwillige Handbewegung und
-ſhwieg ... Ä
+Harald sprach weiter … Schneller als bisher. Er wollte
+die unerquicklichen Dinge schleunigst zu Ende bringen …
 
-Harald ſprach weiter ... Schneller als bi8her. Er wollte
-die unerquiklihen Dinge ſchleunigſt zu Ende bringen ...
+»Ihre Enterbung, Graf Hendrik, war nicht nur die Folge
+Ihres leichtfertigen Lebenswandels, sondern auch die Ihrer
+Weigerung, um Ihre Kusine sich zu bewerben. Sie haben mir
+anvertraut, daß Sie der Baronesse sich nur deshalb nicht
+zu nähern wagten, weil Sie sich ihrer unwürdig fühlten …«
 
-„Ihre Enterbung, Graf Hendrik, war nicht nur die Folge
-Ihres leichtfertigen Lebens8wandel8, ſondern au< die Ihrer
-Weigerung, um Ihre Kuſine ſiH zu bewerben. Sie haben mir
-anvertraut, daß Sie der Baroneſſe ſiH nur de8halb nicht
-zu nähern wagten, weil Sie ſi< ihrer unwürdig fühlten ...“
+»So ist’s,« meinte der Graf leise …
 
-„Sv iſt's,“ meinte der Graf leiſe ...
+Ich schaute verstohlen zu Helga von Struvesund hinüber
+… Und merkte, daß ihr abermals das Blut in die Wangen
+gestiegen war, daß jetzt aber auch in ihren Augen ein glückverheißender
+Schimmer aufleuchtete …
 
-IH ſc<haute verſtohlen zu Helga von Struveſund hinüber
-... Und merkte, daß ihr abermal8 das Blut in die Wangen
-geſtiegen war, daß jetzt aber auh in ihren Augen ein glück=
-verheißender Schimmer aufleuchtete .
+»Nun zu den einleitenden Ereignissen,« fuhr Harald
+fort … »Das Geheimnis eines Grabes kam erst wie der
+sprichwörtlich bekannte Stein ins Rollen, nachdem unser
+kleiner Freund Fritz Rummel Schraut und mir schriftlich
+seine Beobachtungen mitgeteilt hatte. Der alte Graf Baginski
+dürfte in seinem Testament den Wunsch ausgesprochen
+haben, hier in den Gewölben beigesetzt zu werden. Die
+Baronesse fand aber in dem Testament noch andere Bestimmungen,
+die ein hier auf die geheime Beutekammer
+bezogen …«
 
-„Nun zu den einleitenden Ereigniſſen,“ fuhr Harald
-fort . .. „Das Geheimnis eine8 Grabes kam erſt wie dev
-ſprichwörtlich bekannte Stein ins Rollen, nachdem unſer
-kleiner Freund Friz Rummel Schraut und mir ſchriftlich
-ſeine Beobachtungen mitgeteilt hatte. Der alte Graf Bas
-ginski dürfte in ſeinem Teſtament den Wunſc< au8geſprochen
-haben, hier in den Gewölben beigeſezt zu werden. Die
-Baroneſſe fand aber in dem Teſtament no< andere Be=
-ſtimmungen, die ſim hier auf die geheime Beutekammer
-bezogen ...“
 <@pagebreak/>
-DSSDSSSSSSSDSSD 62 2SDSEOOSDOBDSIO>
+Jetzt meldete sich Helga von Struvesund …
 
-Jetzt meldete ſic) Helga von Struveſund ...
+»So ist’s, Herr Harst … Ich fand den Eingang zu der
+Beutekammer nicht, weil mein Onkel in seinem Erstaunen
+darüber nur Andeutungen gemacht hatte, die …«
 
-„So iſt's, Herr Harſt ... I< fand den Eingang zu der
-Beutekammer nicht, weil mein Onkel in ſeinem Teſtamett
-darüber nur Andeutungen gemacht hatte, die ...“
+»-. die John Reiter nachher enträtselte,« vollendete
+Harst … »Und um mit Reiter insgeheim sich verständigen
+zu können, versahen Sie den schlichten Sarg des einbalsamierten
+Grafen mit einem beweglichen Bodenbrett, — ein
+etwas abenteuerlicher Gedanke, der trotzdem seinen Zweck
+verfehlte, weil eben Freund Fritz gerade durch; Ihr Verhaften
+vor dem Sarge, in dem er zwei verschiedene Tote sah,
+zu seinem Briefe an uns bewogen wurde … Das Geheimnis
+des Dünengrabes war also in Wirklichkeit nichts anderes
+als das Geheimnis einer überaus vorsichtigen und eigenartigen
+Aussprache zwischen Ihnen und Reiter, Baronesse …«
 
-„-. die John Reiter nachher enträtſelte,“ vollendete
-Harſt ... „Und um mit Reiter ins8geheim ſich verſtändigen
-zu können, verſahen Sie den ſchlichten Sarg des einbalſa=
-mierten Grafen mit einem beweglichen Bodenbrett, = ein
-etwas abenteuerliher Gedanke, der troßdem ſeinen Zwe>
-verfehlte, weil eben Freund Friz gerade durc; Ihr Wer=
-halten vor dem Sarge, in dem er zwei verſchiedene Tote ſah,
-zu ſeinem Briefe an uns bewogen wurde ... Das Geheimnis
-des Dünengrabe8 war alſo in Wirklichkeit nichts anderes
-al8 das Geheimnis einer überaus vorſichtigen und eigenarti=
-gen Ausſprache zwiſchen Ihnen und Reiter, Baroneſſe ...“
-
-Helga von Struveſund nickte wieder und meinte zaudernd:
-„Es war meine Idee, Herr Harſt ... I< habe in meinen
-Adern von meiner Mutter her ein gut Teil de8 abenteuer»
-luſtigen Blutes der Baginskis ... Ih neige etwas zu Ertra=
-vaganzen ... IH gebe zu, daß ich außerdem meines Betters8
-Hendrik Spione fürchtete, der, obwohl er ja mein ſchriftliches
-Anerbieten, das Vermögen ſeines Vater8 als Geſchenk von
+Helga von Struvesund nickte wieder und meinte zaudernd:
+»Es war meine Idee, Herr Harst … Ich habe in meinen
+Adern von meiner Mutter her ein gut Teil des abenteuerlustigen
+Blutes der Baginskis … Ich neige etwas zu Extravaganzen
+… Ich gebe zu, daß ich außerdem meines Bettlers
+Hendrik Spione fürchtete, der, obwohl er ja mein schriftliches
+Anerbieten, das Vermögen seines Vaters als Geschenk von
 mir anzunehmen, niemals irgendwie beantwortet hatte, meiner
-Bermutung nach mich dauernd beobachten ließ, wofür ich Be=
-weiſe zu haben glaubte ...“
+Vermutung nach mich dauernd beobachten ließ, wofür ich Beweise
+zu haben glaubte …«
 
-Der junge Graf richtete ſich mit einem Ru> auf ... Seine
-vor Entrüſtung flammenden Augen bohrten ſich in das hohn=
-voll verzerrte Antlitz ſeines bi8herigen Freundes ein ...
+Der junge Graf richtete sich mit einem Ruck auf … Seine
+vor Entrüstung flammenden Augen bohrten sich in das hohnvoll
+verzerrte Antlitz seines bisherigen Freundes ein …
 
-„Arnſtör1“ rief er keuchend, „dieſe Spione kannſt nur du
-eu8geſc<hi>t haber -- nur du!! Und jetzt begreife ih auch
-alles andere ..? Du haſt mich dazu verführt, Helga dieſen
-Sireich zu ſpielen! Du wußteſt von den Transporten der
-Beuteſtüke mit Hilfe des Schoner8 nah dem Schloſſe meines
-Vaters! Du tateſt ſo, als ob wir Helga lediglich einmal- für
-kurze Zeit gefangenhalten wollten! In Wahrheit, ſo ſcheint
-es mir jeßt, hatteſt du es auf die Kleinodien abgeſehen!“
+»Arnstör!« rief er keuchend, »diese Spione kannst nur du
+eu8geschhickt haben — nur du!! Und jetzt begreife ich auch
+alles andere …? Du hast mich dazu verführt, Helga diesen
+Streich zu spielen! Du wußtest von den Transporten der
+Beutestücke mit Hilfe des Schoners nach dem Schlosse meines
+Vaters! Du tatest so, als ob wir Helga lediglich einmal- für
+kurze Zeit gefangenhalten wollten! In Wahrheit, so scheint
+es mir jetzt, hattest du es auf die Kleinodien abgesehen!«
+
 <@pagebreak/>
-DDECDSSSSSSSS 63 DESB880ECSOBEOBDSBS
+Helga hatte dieser Auseinandersetzung zwischen den bisherigen
+Freunden: mit offenbar atemloser Spannung gelauscht.
+In ihrem pikanten Antlitz zeigte sie jetzt ein Ausdruck
+starken Zweifels an der Wahrheit dieser letzten Äußerungen
+ihres Vetters. Vielleicht hielt sie dessen Vorwürfe
+gegen Arnstör für einen schlauen Versuch, sie zu täuschen …
 
-Helga hatte dieſer AuSeinanderſezung zwiſchen den bi3=
-herigen Freunden: mit offenbar atemloſer Spannung ge=
-lauſcht. In ihrem pikanten Antlitz zeigte ſic jet ein Aus8=
-dru> ſtarken Zweifels an der Wahrheit dieſer lezten Aeuße=
-rungen ihres Vetters. Vielleicht hielt ſie deſſen Vorwürfe
-gegen Arnſtör für einen ſchlauen Verſuch, ſie zu täuſchen ...
+Da war es abermals Harald, der die Situation rasch
+474\.4 Zu
 
-Da war es abermals Harald, der die Situation raſch
-474.4 ZM
+»Baronesse,« meinte er mit einem leisen Lächeln, »Graf
+Hendrik könnte Ihnen sofort beweisen, daß er seine beiden
+Freunde längst durchschaut hat, und daß er hier in den
+Gewölben und auf dem Schoner auf Grund einer Kunst,
+die man »Bauchreden« nennt, den Dingen eine andere Wendung
+geben wollte … Denn er war es, der … die Stimme
+aus dem Losriß ertönen ließ — nur er … Und diese
+Stimme gab Schraut und mir die Freiheit wieder, und …«
 
-„Baroneſſe,“ meinte er mit einem leiſen Lächeln, „Graf
-Hendrik könnte Ihnen ſofort beweiſen, daß er feine beiden
-Freunde längſt durc<ſ<haut hat, und daß er hier in den
-Gewölben und auf dem Schoner auf Grund einer Kunſt,
-die man „Bauchreden“ nennt, den Dingen eine andere Wen=
-dung geben wollte ... Denn er war e3, der ... die Stimme
-aus dem Inſeit8 ertönen ließ =- nur er ... Und dieſe
-Stimme gab Schraut und mir die Freiheit wieder, und ...“
-
-Der Baron Arnſtör hatte ſchrill und hämiſc< aufgelacht,
+Der Baron Arnstör hatte schrill und hämisch aufgelacht,
 winkte dem anderen Herrn und meinte:
 
-„Wir ſind hier überſlüſſig geworden ... Gehen wir ...
-Werde glü>lic) mit deiner Baroneſſe, Freund Hendrik ..t!“
-Und hoſtig verſchwanden die beiden
+»Wir sind hier überflüssig geworden … Gehen wir …
+Werde glücklich mit deiner Baronesse, Freund Hendrik … t!«
+Und hastig verschwanden die beiden
 
-Auf Haralds leiſe Aufforderung hin entfernten auch wir
-anderen uns nach den Gewölben hin und ließen die Baro-«
-neſſe und Hendrik Baginski allein ...
+Auf Haralds leise Aufforderung hin entfernten auch wir
+anderen uns nach den Gewölben hin und ließen die Bord-«
+Baronesse und Hendrik Baginski allein …
 
-In dem Hauptgang der ausgedehnten Kellerräume ſagte
-John Reiter ſchmunzelnd zu uns und Friz Rummel:
+In dem Hauptgang der ausgedehnten Kellerräume sagte
+John Reiter schmunzelnd zu uns und Fritz Rummel:
 
-„Von der Biratenbeoute iſt nur noh wenig in der Kammer
-verblieben ... Zwei Schiffsladungen ſind bereit8 nach der
-Inſel Laaland geſchafft worden ... Die dritte unterbleibt, denn
-die Baroneſſe und der Graf werden ſie) nun wohl in Liebe
-und Güte einigen, hoffe ich ...“
+»Von der Biratenbeoute ist nur noch wenig in der Kammer
+verblieben … Zwei Schiffsladungen sind bereits nach der
+Insel Laaland geschafft worden … Die dritte unterbleibt, denn
+die Baronesse und der Graf werden sich nun wohl in Liebe
+und Güte einigen, hoffe ich …«
 
-„Hatte der alte Graf in ſeinem Teſtament beſtimmt, daz
-ſein Sohn nichts von der Exiſtenz der Beuteiammer erfahren
-ſollte ..2“ meinte Harald ...
+»Hatte der alte Graf in seinem Testament bestimmt, das
+sein Sohn nichts von der Existenz der Beuteiammer erfahren
+sollte … 2« meinte Harald …
 
-„Stimmt, Herr Harſt ... Der alte Herr liebte ſeine
-NicGte über alles und ... haßte ſeinen Sohn ..! -- Eine
+»Stimmt, Herr Harst … Der alte Herr liebte seine
+Mochte über alles und … haßte seinen Sohn …! — Eine
 <@pagebreak/>
-DSSDOSSEBSSSSDO 641 DE 0DESEELDESSBES
+tolle Geschichte, das Ganze! Und doch: ich habe noch. Kies
+abermals einen so abenteuerlichen Fall miterlebt wie diesen —
+noch nie!! Kein eigentlichen Kriminalfall, aber …«
 
-tolle Geſchichte, das Ganze! Und doch: ic< habe nod. nies
-mals einen ſo abenteuerlichen Fall miterlebt wie dieſen =-
-noch nie!! Kein eigentliher Kriminalfall, aber ,..“
+Und schwieg … Vor uns tauchten Hand in Hand Helga
+und Hendrik auf …
 
-Und ſ<wieg ... Bor uns tauchten Hand in Hand Helga
-und Hendrik auf ...
+Als »… Brautpaar, als Jugendgespielen, die sich nun
+endlich gefunden hatten. — —
 
-Uls „... Broutpaar, als Jugendgeſpielen, die ſiHh nun
-endlich gefunden hatten. =- -=-
-
-Was ſoll iH hier zum Schluß no hinzufügen?! =
-Soll ih erwähnen, daß Freund Friz genau ſo wie John
+Was soll ich hier zum Schluß noch hinzufügen?! —
+Soll ich erwähnen, daß Freund Fritz genau so wie John
 Reiter und wir beide aus der Beutekammer, aus einer der mit
-goldenen Geräten angefüllten Kiſte uns etwas zum Andenken
-aus8wählen mußten? Oder daß Fritze Rummel hierbei einen
-beſonders guten Griff tat, indem er ein mit Iuwelen bes=
-ſetztes Käſthen als Geſchenk mitnahm? -- Jedenfalls: Das
-Geheimnis eines Grabes verhalf uns zu einem koſtbaren
-goldenen Kel von allerfeinſter Nürnberger Arbeit ... Und
-als drei Monate ſpäter Helga und Hendrik ſich bei uns in
-Verlin=S<hmargendorf als Ehepaar vorſtellten, füllte Harald
-dieſen güldeneit Kelch mit perlendem Sekt, und -- ſo tranken
-'wir auf da3. Wohl der Iungverheirateten! =-
+goldenen Geräten angefüllten Kiste uns etwas zum Andenken
+auswählen mußten? Oder daß Fritze Rummel hierbei einen
+besonders guten Griff tat, indem er ein mit Juwelen Gesichtes
+Kästchen als Geschenk mitnahm? — Jedenfalls: Das
+Geheimnis eines Grabes verhalf uns zu einem kostbaren
+goldenen Zelt von allerfeinster Nürnberger Arbeit … Und
+als drei Monate später Helga und Hendrik sich bei uns in
+Berlin	—Schmargendorf als Ehepaar vorstellten, füllte Harald
+diesen güldeneit Kelch mit perlendem Sekt, und — so tranken
+wir auf das. Wohl der Jungverheirateten! —
 
 Die Zugänge zu den Gewölben der Baginski-Burg unweit
-Arendſee ſind jetzt ſorgfältig zugeſchüttet ... Falls der
-freundliche Leſer einmal nach dem Oſtſeebade kommen ſollte,
-mag er dur< jene Dünen wandern und ſich dabei all das
-ins Gedächtnis zurü&rufen, was er hier ſoeben über das
-Geheimnis eine3 Grabe3 erfahren hat ... Und damit nehme
-ic für heute Abſchied von meinen Freunden ... Wieder=-
-Jehen ..!! =- -- in der HochzeitSnaht der Traude Amelonxen!
+Arendsee sind jetzt sorgfältig zugeschüttet … Falls der
+freundliche Leser einmal nach dem Ostseebade kommen sollte,
+mag er durch jene Dünen wandern und sich dabei all das
+ins Gedächtnis zurückrufen, was er hier soeben über das
+Geheimnis eines Grabes erfahren hat … Und damit nehme
+ich für heute Abschied von meinen Freunden … Wiedersehen
+…!! — — in der Hochzeitsnacht der Traude Anstarren!
 
-Nächſter Band:
-Traudes Hoch<zeits8abend,
-<@pagebreak/>
-t Der Detektiv
-
-Eine Reihe höchſt ſpannender Detektivabenteuer.-
-BiSher ſind folgende Bände erſchienen:
-
-Band 108: Die Motorjacht ohne Namen,
-„ 109: Der Kampf gegen Lionel Barring.
-„ 110: Das Geheimnis der Tokkara-Höhle.
-„ 111: Die große Null.
-5. 4127 :Das Geheimnis des Bosporus,.
-„ 113: Anna Karſtens Amulett,
-„ 114: Der Mann mit dem GlaSauge.
-„ 115: Der Kopf des Maharadſcha,
-„ 116: Die Treppe des Todes.
-„ 117: Dr. Groupys Berhängnis.
-„» 118: Das Geiſterſchiff.
-„ 119: Der Tennisſchläaer der Rani.
-„ 120: Der Mann am Kreuze.
-- 121: Tawa Burru, per Verrücdte,
-„ 122: Das Biratendorf.
-„ 123: Die Hexenfüche.
-„ 124: Das Geheimnis von H. O.3.
-„ 125: Die Gräfin mit ven Kormoranen.
-„ 126: Der Bouillonkeller 113
-„ 127: Der tote Tümmler.
-„» 128: Das Erbe des Verſchollenen.
-„ 129: Das5 Geheimnis ver Dabri-Fälle.
-„ 130: Die Faktorei auf der Toteninſel.
-„ 131: DaS geſtohlene Auto.
-„ 132: Das Rätſel der Spielkarten.
-„ 133: Die Diamanten des Bettlers,
-„» 134: Die Photographien d. Sennor Trimaldo.
-„» 135: Der Kofkain-Klub.
-
--- Preis pro Band 20 Pf. --
-
- 
-
-Zu beziehen durch jede Buchhandlung oder vom
-PEO moderne" Cektüre G. m. b. H., Berlin SO 26,
-Eliſabeth - Ufer 44.
+Nächster Band:
+Traudes Hochzeitsabend,
