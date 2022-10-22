@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 55/>
 Vierte Vorlesung.
 =================

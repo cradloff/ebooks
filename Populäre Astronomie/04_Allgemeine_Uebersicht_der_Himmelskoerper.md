@@ -1,4 +1,4 @@
-<#import "*/pa.ftl" as pa>
+<#import "pa.ftl" as pa>
 
 <@pagebreak 43/>
 Dritte Vorlesung.
