@@ -162,7 +162,7 @@ vorkommen, als die andren. In der Anzahl der Sterne des Himmels herrscht
 übrigens, jene allgemeinen Verhältnisse ausgenommen, durchaus keine
 Regelmäßigkeit, so daß sich an einigen Stellen, in einem gleichen Raume der
 Himmelskugel, 500 mal so viel befinden als in andren. Genauen Beobachtungen zu
-Folge, befinden wir uns in Rücksicht der Dicke nicht in der Aequatorzone der
+Folge, befinden wir uns in Rücksicht der Dicke nicht in der Äquatorzone der
 Milchstraße — wenn wir uns dieses Ausdruckes bedienen dürfen — sondern ihrem
 Nordpole etwas näher.
 
@@ -174,7 +174,7 @@ halten, allein ihre Verästlung, und die an vielen Stellen sehr unregelmäßige
 Sternenmenge setzen eine wirkliche Unregelmäßigkeit in der Vertheilung der
 Sterne voraus. Sie macht daher wahrscheinlich nicht *eine* Sterngruppe aus,
 sondern besteht aus einer großen Anzahl aneinander gereiheter Sternhaufen, die
-sich in der Nähe des Aequators der Milchstraße, so nahe an einander befinden,
+sich in der Nähe des Äquators der Milchstraße, so nahe an einander befinden,
 daß sie uns den Anblick *eines* großen Nebelflecks gewähren, und vielleicht auch
 durch irgend ein Band mit einander verknüpft sind. Wie die einzelnen Sterne
 einer Sterngruppe 
@@ -197,15 +197,15 @@ einiger Planeten.
 
 Wenn wir statt in der Nähe des Mittelpunktes der Milchstraße, um einen
 Durchmesser von ihr entfernt wären, so würde sie eine scheinbare Größe von 60°
-haben; bei einer Entfernung von 10 ihrer Durchmesser betrüge die Größe 2° 52',
+haben; bei einer Entfernung von 10 ihrer Durchmesser betrüge die Größe 2° 52’,
 und bei 100 Durchmessern wird sie uns wie ein kleiner, dem bloßen Auge kaum
-sichtbarer Nebel erscheinen, dessen Durchmesser 17' beträgt, aber natürlich
+sichtbarer Nebel erscheinen, dessen Durchmesser 17’ beträgt, aber natürlich
 nicht als Ring, sondern als ein mattschimmernder, nicht sehr scharf begrenzter
 Fleck, der in der Mitte, oder wo sonst eine größere Anhäufung von Sternen statt
 findet, einen etwas stärkeren Schimmer hat. Die Gestalt und scheinbare Größe
 derselben wird aber, nachdem wir uns 
 <@pagebreak/>
-in der Nähe der Aequatorebene oder der Pole der
+in der Nähe der Äquatorebene oder der Pole der
 Milchstraße befinden, sehr verschieden sein. Allein die
 einzelnen Sterne können in dieser großen Entfernung
 selbst von dem herschelschen Fernrohre nicht erkannt
@@ -235,7 +235,7 @@ Theile derselben angesehn werden, wenn nicht ihre Lage sehr davon abwiche. Sie
 sind daher wahrscheinlich nicht weiter von uns entfernt, als sie, und bilden
 einen Theil jenes großen, uns von allen Seiten umgebenden Riesensystems, zu dem
 sie sich etwa wie die Kometen zum Sonnensysteme verhalten, wenn wir die in der
-Aequatorgegend desselben liegenden Sterngruppen mit den Planeten vergleichen
+Äquatorgegend desselben liegenden Sterngruppen mit den Planeten vergleichen
 dürften.
 
 <@pagebreak/>
@@ -262,7 +262,7 @@ Ausdehnung, welche bei allen diesen Erscheinungen höchst mannigfaltig sind. Von
 diesen konnten einige durch die besten Fernröhre in Sterne zertheilt werden,
 andre behielten zwar ihren Nebelschein ganz oder zum Theil bei, indem nur die
 größten Sterne etwas deutlicher hervorragten, allein sie zeigten in allen ihren
-übrigen Eigenschaften so viel Aehnlichkeit mit den Sternnebeln, daß ein geübter
+übrigen Eigenschaften so viel Ähnlichkeit mit den Sternnebeln, daß ein geübter
 Beobachter, wie Herschel, nicht zweifeln konnte, daß auch sie sich in größerer
 Nähe, der Milchstraße ähnlich zeigen würden. Herschel schätzt bei einigen die
 Entfernung auf mehrere hundert Milchstraßenentfernungen. Je tiefer wir in den
@@ -297,7 +297,7 @@ Entfernungen und Ausdehnungen der Sterne voraussetzt. Da wir aber kein sicheres
 Maß für diese beiden Gegenstände besitzen, so können wir schlechterdings
 <@pagebreak/>
 nicht mit Gewißheit bestimmen, ob eine beobachtete
-Sterngrußße in der Näde des Sirius aus kleinen
+Sterngrußße in der Nähe des Sirius aus kleinen
 einander nahen Sternen, oder viele hundert Sternweiten
 von einander entfernten bestehe. Noch weniger
 Zuverlässigkeit herrscht bei den noch nicht vollständig
@@ -369,7 +369,7 @@ aus einer Doppelpyramide. Der Nebelfleck
 im *Schwerte des Orion* ist von Huyghens entdeckt,
 und wegen seiner Größe und seines Glanzes
 <@pagebreak/>
-der schönste Nebelfleck am Himmel, so daß er früher für eine Oeffnung gehalten
+der schönste Nebelfleck am Himmel, so daß er früher für eine Öffnung gehalten
 wurde, wodurch man in den Licht- oder Feuerhimmel (Empyreum) sehen könne. Er
 befindet sich in der Mitte jener ungeheuren Nebelmasse, und könnte wol für
 deren Centralkörper gehalten werden.
@@ -408,14 +408,14 @@ Nebelmassen ansehn, besonders da diese um so weniger glänzend und dicht zu sein
 scheinen, je dichter der Kern ist.
 
 Die Entfernung dieser Nebelflecken scheint weit weniger bedeutend zu sein, als
-wir es aus ihrer äußern Aehnlichkeit mit den Sternnebeln vermuthen sollten. Ihre
+wir es aus ihrer äußern Ähnlichkeit mit den Sternnebeln vermuthen sollten. Ihre
 scheinbare Größe ist oft so beträchtlich, daß sie, wenn auch noch die Entfernung
 sehr groß wäre, selbst unsre, in der Astronomie an das Ungeheure gewöhnte
 Einbildungskraft überbieten würde, der Umfang des oft schon sehr stark
 kondensirten Kerns, der, wie wir gesehn haben, sich sehr nahe an die Fixsterne
 schließt, würde diese ebenfalls zu sehr an Größe übertreffen, wenn wir ihn uns
 in der Entfernung vieler Sternweiten denken müßten; auch macht schon ihre
-Aehnlichkeit mit vielen Erscheinungen der uns umgebenden Einzelsterne eine
+Ähnlichkeit mit vielen Erscheinungen der uns umgebenden Einzelsterne eine
 ähnliche Lage wahrscheinlich. Aber fast zur Gewißheit werden diese Vermuthungen
 durch eine Wahrnehmung Herschels an einem nicht weit von dem großen Nebelfleck
 im Schwerte des Orion entfernten, kleinern. Dort fand er nämlich im Jahre 1774
@@ -451,7 +451,7 @@ verbreiteten Aether, oder dem noch fast
 <@pagebreak/>
 gestaltlosen Nebel erster Klasse bis zu
 den planetarischen Nebelsternen und den ausgebildeten Einzel- oder
-Doppelsternen sind alle Uebergänge beobachtet, so daß man oft in Zweifel
+Doppelsternen sind alle Übergänge beobachtet, so daß man oft in Zweifel
 bleibt, zu welcher Klasse ein beobachteter Körper zu zählen ist. Wenn wir auch
 keinen Nebel beobachtet haben, der sich aus dem Weltraume allmälig zusammenzog,
 den Gesetzen der Massenanziehung gemäß immer dichter wurde, und wo schon einer,
@@ -479,7 +479,7 @@ gleichsetzen — über eine Mill. mal dünner gewesen sein, als die atmosphäris
 Luft. So unzuverlässig auch diese Zahlen sind, so sieht man doch wohl, daß die
 Verdünnung der Nebelmasse kein Einwand gegen die eben entwickelte Ansicht sein
 kann. Diese Verwandlung ist freilich nicht beobachtet, so wenig als die
-Zerstörung eines Fixsterns, der durch dieselben Uebergänge sich wieder im
+Zerstörung eines Fixsterns, der durch dieselben Übergänge sich wieder im
 Weltraume auflösete: allein selbst die ältesten Erfahrungen über diesen
 Gegenstand zählen kaum ein halbes Jahrhundert, und was sind selbst Millionen
 Jahre, wenn von Verwandlungen der Himmelskörper die Rede ist? Aber selbst in
@@ -543,7 +543,7 @@ Dasein von Dauer sein soll. Wahrscheinlich befinden wir uns auch hier noch
 nicht an den Grenzen der Stufenleiter. Wie viele Milchstraßen mögen sich zu
 höheren Gruppen vereinigen, und diese wieder zu höheren u. s. f., bis zu einem
 Centralkörper, der alle diese Welten an sich fesselt; oder geht die Stufenfolge
-in's Unendliche fort, und ist die Anzahl von Welten wirklich unendlich? Aber so
+in’s Unendliche fort, und ist die Anzahl von Welten wirklich unendlich? Aber so
 weit sie auch gehn mag, wir wissen nur, daß, den Mond und vielleicht die
 Meteorkörper ausgenommen, wir auf der untersten Stufe dieser Riesenleiter
 stehn. Wahrlich kein würdiger Platz für die Erde, welche wir früher in den
@@ -559,7 +559,7 @@ so sehr unser Genuß noch erhöht worden wäre, wenn wir es an der Hand der
 ernsten, aber treuen Gefährtin der Astronomie, der Mathematik, hätte
 durchwandern können, so kennen wir doch nur den kleinsten Theil derselben. Zwar
 werden der Kalender und die Schiffahrt, die Hauptgegenstände, worin sich die
-Astronomie als eine kräftig in's Leben eingreifende Wissenschaft zeigt, nicht
+Astronomie als eine kräftig in’s Leben eingreifende Wissenschaft zeigt, nicht
 mehr bedeutend vervollkommnet werden können; allein die Wahrheit, nicht der
 Nutzen ist es, den wir in der Wissenschaft suchen: und welche Entdeckungen
 verspricht uns nicht die fernere Beobachtung des Himmels! Der Schleier, welcher

@@ -91,7 +91,7 @@ mal, und den aller Planeten zusammengenommen 600 mal. Von
 <@pagebreak/>
 welcher Seite wir
 also das Sonnensystem betrachten mögen, die Sonne ist den übrigen Körpern immer
-weit überlegner noch, als diese es ihren Trabanten sind. Uebrigens finden
+weit überlegner noch, als diese es ihren Trabanten sind. Übrigens finden
 zwischen den Beobachtungen der ausgezeichnetsten Astronomen bedeutende
 Unterschiede in der Größe der Planeten statt; am stärksten sind diese bei den
 vier kleineren.
@@ -175,11 +175,11 @@ Mittelst der Achsendrehung werden zwei Punkte am Körper durch ihre
 Unbeweglichkeit ausgezeichnet: es sind die Endpunkte der Achse, und sie heißen
 die *Pole*; der auf der Achse senkrechte, größte Kreis ist der 
 <@pagebreak/>
-*Aequator*. Der
+*Äquator*. Der
 im Norden der Ekliptik liegende Pol, heißt der *Nordpol*, der im Süden
-liegende, der *Südpol*, und die beiden durch den Aequator begrenzte Halbkugeln
+liegende, der *Südpol*, und die beiden durch den Äquator begrenzte Halbkugeln
 die *Nord-* und *Süd-Halbkugel*. Diese Eintheilung findet nur dann nicht statt,
-wenn der Aequator genau senkrecht auf der Ekliptik steht, welches als einzelner
+wenn der Äquator genau senkrecht auf der Ekliptik steht, welches als einzelner
 Fall höchst unwahrscheinlich ist. Zieht man durch einen willkürlich
 angenommenen, aber genau bestimmten Ort des Planeten einen ersten Meridian, so
 kann man jeden Punkt der Oberfläche durch Länge und Breite eben so genau
@@ -189,21 +189,21 @@ sich beziehenden Größen.
 <@pagebreak/>
 
 <table>
-<caption>Tab. 3. Neigung des Aequators zur Planetenbahn, Umlaufszeit um die
+<caption>Tab. 3. Neigung des Äquators zur Planetenbahn, Umlaufszeit um die
 Achse, Umlaufszeit um die Sonne in Planetentagen und Geschwindigkeit der
 Achsendrehung.</caption>
 <tr><td></td><td>*Neigung*.</td><td>*Umlaufzeit* oder *Tag*.</td><td>Kreisbewegung um d. Sonne.</td><td>Geschwindigkeit in einer Min. in deutschen Meilen.</td><td>*Jahre* ungefähr.</td></tr>
 <tr><td>Sonne  </td><td>     "     </td><td>25T. 1St.26Sek. </td><td>    "   </td><td> 18,36</td><td>   "    </td></tr>
 <tr><td>Merkur </td><td> 23° ?     </td><td>    24St. 0°50" </td><td>   87,94</td><td>  1,31</td><td> 88 Tage</td></tr>
-<tr><td>Venus  </td><td> 71°55'    </td><td>    23   21 19  </td><td>  230,23</td><td>  3,76</td><td>225  -- </td></tr>
-<tr><td>Erde   </td><td> 23°27'52"9</td><td>    23   56  4,1</td><td>  366,26</td><td>  3,76</td><td>  1 Jahr</td></tr>
-<tr><td>Mars   </td><td> 28°42'    </td><td>    24   39 21,7</td><td>  668,79</td><td>  1,94</td><td>  2  -- </td></tr>
+<tr><td>Venus  </td><td> 71°55’    </td><td>    23   21 19  </td><td>  230,23</td><td>  3,76</td><td>225  -- </td></tr>
+<tr><td>Erde   </td><td> 23°27’52"9</td><td>    23   56  4,1</td><td>  366,26</td><td>  3,76</td><td>  1 Jahr</td></tr>
+<tr><td>Mars   </td><td> 28°42’    </td><td>    24   39 21,7</td><td>  668,79</td><td>  1,94</td><td>  2  -- </td></tr>
 <tr><td>Vesta  </td><td>     "     </td><td>        "       </td><td>    "   </td><td>  "   </td><td>  3½ -- </td></tr>
 <tr><td>Juno   </td><td>     "     </td><td>        "       </td><td>    "   </td><td>  "   </td><td>  4  -- </td></tr>
 <tr><td>Ceres  </td><td>     "     </td><td>        "       </td><td>    "   </td><td>  "   </td><td>  4  -- </td></tr>
 <tr><td>Pallas </td><td>     "     </td><td>        "       </td><td>    "   </td><td>  "   </td><td>  4  -- </td></tr>
 <tr><td>Jupiter</td><td>  3°       </td><td>     9   55 33  </td><td>10473,85</td><td>104,92</td><td> 12  -- </td></tr>
-<tr><td>Saturn </td><td> 30° 5'    </td><td>    10   16  0,4</td><td>25149,12</td><td> 83,07</td><td> 29½ -- </td></tr>
+<tr><td>Saturn </td><td> 30° 5’    </td><td>    10   16  0,4</td><td>25149,12</td><td> 83,07</td><td> 29½ -- </td></tr>
 <tr><td>Uranus </td><td> 90° ?     </td><td>     9 ?        </td><td>80000 ? </td><td> 45 ? </td><td> 84  -- </td></tr>
 </table>
 
@@ -240,7 +240,7 @@ unabhängig zu sein scheinen, so ist die außerordentlich große Umlaufszeit der
 <@pagebreak/>
 und erregt die Vermuthung, daß sie durch andre
 Ursachen als bei den Planeten veranlaßt sei. Ganz
-regellos scheint die Neigung des Aequators zur Bahn
+regellos scheint die Neigung des Äquators zur Bahn
 zu sein; zwar ist sie bis jetzt nur bei fünf Planeten
 mit Wahrscheinlichkeit festgesetzt, bei <img alt="Venus" src="Venus.png"/>, <img alt="Saturn" src="Saturn.png"/>, <img alt="Mars" src="Mars.png"/>, <img alt="Erde" src="Erde.png"/>, <img alt="Jupiter" src="Jupiter.png"/>,
 zeigt aber keinen Zusammenhang weder mit der Entfernung,
@@ -248,7 +248,7 @@ noch mit der Größe, noch mit der Dauer des
 Tages. Venus und Erde, die einander in allen Punkten
 so ähnlich sind, sind hier weit von einander getrennt;
 Jupiter und Saturn ebenfalls, und dieser
-steht nahe bei Mars der sonst nichts Aehnliches mit ihm
+steht nahe bei Mars der sonst nichts Ähnliches mit ihm
 hat. Allein wenn wir bedenken, daß im Laufe der
 Jahrtausende die Neigung vielleicht alle möglichen
 Werthe von 0° bis 90° annehmen könne, welches
@@ -256,18 +256,18 @@ selbst bei der Erde nicht völlig widerlegt ist oder
 doch in einem großen Zwischenraume schwanke, so
 erregt diese Unregelmäßigkeit keine Verwunderung
 mehr, indem in einigen Jahrtausenden das Verhältniß
-gänzlich geändert sein kann. Uebrigens gehört die
+gänzlich geändert sein kann. Übrigens gehört die
 Neigung zu den für den Planeten wichtigsten Gegenständen.
 Wie bei der Erde wird dadurch die Länge
 der Jahreszeiten, die verschiedene Länge der Tage, kurz
 das ganze Klima bestimmt (vergl. S. 152). Am
 gleichförmigsten sind die Jahreszeiten im *Jupiter*;
-die Sonne entfernt sich nur wenige Grade vom Aequator,
+die Sonne entfernt sich nur wenige Grade vom Äquator,
 wo ewiger Sommer herrschen wird, wenn nicht
 etwa eine starke Luft- oder Wolkendecke, welches auch die
 Natur der Gase und der Flüssigkeiten, die sie bilden,
-sei, die Hitze mildert. Zwischen dem Aequator und
-den Polen ist nun ein allmäliger Uebergang von der
+sei, die Hitze mildert. Zwischen dem Äquator und
+den Polen ist nun ein allmäliger Übergang von der
 Hitze zur strengsten Kälte; dennoch wird nur ein
 kleiner Theil der Polarländer im Winter völlig ohne
 Sonne sein. Dieser Winter dauert aber sechs Jahre;
@@ -276,10 +276,10 @@ die Erscheinungen der Wärme und Kälte sich durch die
 <@pagebreak/>
 Atmosphäre gestalten, wie der rasche Umschwung in
 seiner kaum fünfstündigen Nacht durch Abkühlung
-wirke, welchen Einfluß die Oertlichkeiten üben, werden
+wirke, welchen Einfluß die Örtlichkeiten üben, werden
 wir nie ganz erfahren; aber wir können annehmen,
 daß die Erscheinungen der Atmosphäre nicht nur am
-Aequator, sondern auf der ganzen Jupiterskugel
+Äquator, sondern auf der ganzen Jupiterskugel
 weit größere Regelmäßigkeit behaupten werden als
 bei uns.
 
@@ -291,7 +291,7 @@ dem Verhältniß von 4:5 und die Größe der Sonnenscheibe, und die Menge Licht 
 Wärme, die Mars von ihr erhält, wie 16:25, oder wie 2:3, welches schon sehr
 wichtige Veränderungen hervorbringen muß. Es wird daher für das Klima der
 verschiedenen Breitengrade nicht nur die geographische Breite und die
-Oertlichkeit wirken, sondern auch die wahre Entfernung der Sonne, wenn sie dem
+Örtlichkeit wirken, sondern auch die wahre Entfernung der Sonne, wenn sie dem
 Zenith des Orts am nächsten steht. Das 30 jährige *Saturnsjahr* mit seinem 15
 jährigen Winter und Sommer muß die Unterschiede beider Jahreszeiten durch ihre
 Dauer noch weit stärker machen als bei uns. Bei *Merkur* findet das Gegentheil
@@ -309,20 +309,20 @@ Bahn wird beinahe dieselben Erscheinungen hervorgebracht haben, die wir oben
 bei der Erde (S. 153) betrachtet haben. Wenn man die Zoneneintheilung der Erde
 auf die Venus anwenden wollte, so würde sich die heiße Zone nach der
 Schröterschen Annahme von 72° südlicher bis 72° nördlicher Breite erstrecken,
-und die kalte Zone 18° vom Aequator beginnen, also heiße und kalte Zone in
-einander greifen. Die Polarkreise sind dem Aequator näher, als die Wendekreise;
+und die kalte Zone 18° vom Äquator beginnen, also heiße und kalte Zone in
+einander greifen. Die Polarkreise sind dem Äquator näher, als die Wendekreise;
 die ganze Region von 18° bis 72° Breite hat bald die Sonne im Zenith, bald
 keine Nacht, und bald keinen Tag. Schon bei 18° Breite würde dasjenige
 eintreten, was bei uns erst im 66½° eintritt, daß nämlich am kürzesten Tage die
-Sonne nicht aufgeht. Tag und Nacht nehmen sehr rasch ab und zu, und am Aequator
+Sonne nicht aufgeht. Tag und Nacht nehmen sehr rasch ab und zu, und am Äquator
 sind zwar immer Tag und Nacht gleich, es ist aber nicht immer Sommer: und wenn
 die Oberfläche und die Atmosphäre der Venus denen der Erde gleich sind, so wird
-auch den Aequatorialströmen das Eis nicht unbekannt und die Polarmeere werden
+auch den Äquatorialströmen das Eis nicht unbekannt und die Polarmeere werden
 nicht immer unzugänglich sein.
 
 Bei *Uranus* verschwindet nun der Zonenunterschied fast ganz, indem vielleicht
 selbst in den höchsten Breiten die Sonne im Zenith sein kann; es giebt dort
-weder Wende- nach Polarkreise, und dem Aequator wie den Polen wird Kälte und
+weder Wende- nach Polarkreise, und dem Äquator wie den Polen wird Kälte und
 Wärme nicht unbekannt sein. Indeß wird die lange Dauer des Jahres den einzelnen
 Erscheinungen längere Zeit zur Entwicklung verstatten, und wenn auch im Ganzen
 auf dem Uranus, wegen seiner Achsendrehung, die größte Mannigfaltigkeit in der
@@ -330,14 +330,14 @@ Witterung herrschen
 <@pagebreak/>
 wird — auch die Excentricität seiner jährlichen Bahn ist
 nicht ganz unbedeutend, sie bewirkt einen Unterschied in der Lichtmenge wie 4:5
-— so werden doch die Aenderungen langsamer eintreten.
+— so werden doch die Änderungen langsamer eintreten.
 
 Bei den vier kleinen Planeten bringt schon die Excentricität der Bahn
 bedeutende Veränderungen hervor. *Juno* und *Pallas* empfangen in ihrer
 Sonnennähe drei mal so viel Licht und Wärme als in der Sonnenferne, welches
 wahrscheinlich auch einen großen Unterschied in dem Klima der Nord- und
 Südhalbkugeln begründet. Durch die Bewegung der Apsiden, welcher die übrigen
-Planeten nicht minder unterworfen sind, als die Erde, und die Aenderung der
+Planeten nicht minder unterworfen sind, als die Erde, und die Änderung der
 Neigung, welche ebenfalls wahrscheinlich überall größeren oder geringeren
 Schwankungen unterworfen ist, ändern sich die von diesen abhängigen
 klimatischen Verhältnisse.
@@ -360,7 +360,7 @@ Planeten (S. 254) durch die Dauer der Tage dividirt wurden. Je kleiner der
 Planet und je 
 <@pagebreak/>
 länger der Tag ist, desto langsamer bewegt sich die Oberfläche.
-Der Uebersicht willen ist noch die ungefähre Dauer des Jahres in Erdentagen und
+Der Übersicht willen ist noch die ungefähre Dauer des Jahres in Erdentagen und
 Jahren hinzugefügt.
 
 Vielleicht wünschen einige meiner Zuhörer zu wissen, wie sich die Sichtbarkeit
@@ -373,12 +373,12 @@ Tabelle enthält die Angaben dazu.
 <caption>Tab. 4. Mittlerer Werth der größten Elongationen (S. 167) der unteren
 Planeten von der Sonne, von den oberen Planeten aus beobachtet.</caption>
 <tr><td>                                      </td><td>Merkur.</td><td>Venus. </td><td>Erde.  </td><td>Mars.  </td><td>Ceres.</td><td>Jupiter.</td><td>Saturn.</td></tr>
-<tr><td><img alt="Venus" src="Venus.png"/>    </td><td>32°21' </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td></tr>
-<tr><td><img alt="Erde" src="Erde.png"/>      </td><td>22 47  </td><td>46°20' </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td></tr>
-<tr><td><img alt="Mars" src="Mars.png"/>      </td><td>14 43  </td><td>28 21  </td><td>41° 1' </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td></tr>
-<tr><td><img alt="Ceres" src="Ceres.png"/>    </td><td> 8  2,5</td><td>15  9  </td><td>21 11  </td><td>33°44'5</td><td>   "   </td><td>   "   </td><td>   "   </td></tr>
-<tr><td><img alt="Jupiter" src="Jupiter.png"/></td><td> 4 16  </td><td> 7  0  </td><td>11  5  </td><td>17  2  </td><td>32° 8' </td><td>   "   </td><td>   "   </td></tr>
-<tr><td><img alt="Saturn" src="Saturn.png"/>  </td><td> 2 19,5</td><td> 4 21  </td><td> 6  1,2</td><td> 9 12  </td><td>16 52  </td><td>33° 3' </td><td>   "   </td></tr>
+<tr><td><img alt="Venus" src="Venus.png"/>    </td><td>32°21’ </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td></tr>
+<tr><td><img alt="Erde" src="Erde.png"/>      </td><td>22 47  </td><td>46°20’ </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td></tr>
+<tr><td><img alt="Mars" src="Mars.png"/>      </td><td>14 43  </td><td>28 21  </td><td>41° 1’ </td><td>   "   </td><td>   "   </td><td>   "   </td><td>   "   </td></tr>
+<tr><td><img alt="Ceres" src="Ceres.png"/>    </td><td> 8  2,5</td><td>15  9  </td><td>21 11  </td><td>33°44’5</td><td>   "   </td><td>   "   </td><td>   "   </td></tr>
+<tr><td><img alt="Jupiter" src="Jupiter.png"/></td><td> 4 16  </td><td> 7  0  </td><td>11  5  </td><td>17  2  </td><td>32° 8’ </td><td>   "   </td><td>   "   </td></tr>
+<tr><td><img alt="Saturn" src="Saturn.png"/>  </td><td> 2 19,5</td><td> 4 21  </td><td> 6  1,2</td><td> 9 12  </td><td>16 52  </td><td>33° 3’ </td><td>   "   </td></tr>
 <tr><td><img alt="Uranus" src="Uranus.png"/>  </td><td> 1 19,3</td><td> 2  9,7</td><td> 2 59,3</td><td> 4 33,3</td><td> 8 18  </td><td>15 44  </td><td>   "   </td></tr>
 </table>
 
@@ -426,14 +426,14 @@ alsdann als eine Sichel dar, deren Hörner bald spitzer bald runder sind. Diese
 Verschiedenheit rührt von Bergen her, die in seiner südlichen Halbkugel eine
 Höhe von 1/127 seines Durchmessers, oder fast 58000 Fuß erreichen, also mehr
 als zwei mal so hoch wie der Dholagir sind; sie liegen in großen Gebirgsketten
-unter dem 65 - 70sten Grade der Breite, verflachen sich zwar dem Aequator zu,
+unter dem 65 — 70sten Grade der Breite, verflachen sich zwar dem Äquator zu,
 erheben sich aber wieder in der nördlichen Halbkugel. Seine *Abplattung* ist
 unbedeutend.
 
 Die *Atmosphäre* zeichnet sich durch große Klarheit und geringe Stralenbrechung
 aus. Man hat nur sehr selten Wolken erblickt; jedoch zeigten sich im Jahre 1801
 plötzlich in den mittleren nördlichen und südlichen Breiten große Wolkenzüge
-die sich 20 - 60 Fuß in der Sekunde von Westen nach Osten fortbewegten und nach
+die sich 20 — 60 Fuß in der Sekunde von Westen nach Osten fortbewegten und nach
 ½ Merkursjahre wieder verschwanden. Man vermuthet, daß ihre Ursachen denen
 unseres Höhenrauchs ähnlich sind; Schade nur daß wir auch diese nicht genauer
 kennen. In diesem ewig heitern Himmel sind jedoch Winde nicht unmöglich, 
@@ -469,7 +469,7 @@ Nähe der Venus zur
 Sonne nicht befremden; denn auch der Marsbewohner möchte für unwahrscheinlich
 halten, daß die der Sonne viel nähere Erde so große Eismassen an den Polen
 haben könne, und dennoch findet dieses sogar in höherem Grade statt als bei
-Mars. Uebrigens brauchen jene weißen Flecken nicht gerade von gefrornem
+Mars. Übrigens brauchen jene weißen Flecken nicht gerade von gefrornem
 *Wasser* herzurühren.
 
 Merkwürdig ist der fast immer heitere Himmel der Venus. Zwar ist die
@@ -504,7 +504,7 @@ weit minder klare Atmosphäre auszeichnen. Dunkle Flecken von mannigfaltiger
 Gestalt und Größe werden kommen und verschwinden, und manche Theile der Erde
 fast immer mit einer Nebel- oder Wolkenhülle bedeckt erscheinen. Vorzüglich
 kenntlich wird die Regenzeit in den wärmern Ländern sein, indem sich alsdann
-ein dunkler Ring parallel dem Aequator um die ganze Erde schlingt und seinen
+ein dunkler Ring parallel dem Äquator um die ganze Erde schlingt und seinen
 Stand mit dem der Sonne ändert.
 
 Durch sein trübes, feuerrothes Licht, den Astrologen ein Zeichen von Unglück,
@@ -513,7 +513,7 @@ Herschels Berechnung, wie 15:16 abgeplattet, nach Schröter aber nur wie
 102:103. Seine Oberfläche ist mit Flecken bedeckt; allein die Höhe der Berge
 und die Tiefe der Thäler ist weit schwieriger zu bestimmen, als bei Venus, weil
 er wegen seiner Entfernung immer als volle Scheibe, oder nur wenig kleiner
-erscheint, und, wie wir beim Monde sehn werden, die sichelformigen Phasen
+erscheint, und, wie wir beim Monde sehn werden, die sichelförmigen Phasen
 vorzüglich zur Beobachtung dieser Gegenstände geeignet sind. Indeß sind zwei
 glänzend weiße Flecken an bei Polen merklich; sie sind in den Nachtgleichen des
 Mars fast einander gleich, werden aber größer, wenn die Sonne sich ihrem
@@ -523,7 +523,7 @@ Wintersonnenwende
 nähert. Auch ist ihre Größe in verschiedenen Jahren ungleich.
 Sie reichen etwa bis zum 70sten Grad der Breite.
 
-Ein jeder meiner Zuhörer wird sich der Aehnlichkeit dieser Erscheinung mit dem
+Ein jeder meiner Zuhörer wird sich der Ähnlichkeit dieser Erscheinung mit dem
 Polareise der Erde erinnern, und es ist die Meinung Herschels, Schröters,
 Gruithuisens und aller neueren Astronomen, daß sie von Eise, oder einem ihm
 ähnlichen Körper herrühren. Große weiße Flecken um den Nordpol, wie im Jahre
@@ -535,10 +535,10 @@ Auch über ihn erstreckt sich, wie wir gesehen haben, das Zodiakallicht (S.
 250).
 
 Eine andre Klasse von Flecken sind die *atmosphärischen*. Schröter hat Wolken
-beobachtet, deren Geschwindigkeit 5 — 47' in der Sekunde betrug, ganz so wie
-auf unsrer Erde, aber auch zuweilen einige die sich 90' in der Sekunde
+beobachtet, deren Geschwindigkeit 5 — 47’ in der Sekunde betrug, ganz so wie
+auf unsrer Erde, aber auch zuweilen einige die sich 90’ in der Sekunde
 fortbewegten; also fehlt es auch auf dem Mars nicht an heftigen Orkanen. Dem
-Aequator parallele Streifen, die sich um den ganzen Planeten erstrecken, lassen
+Äquator parallele Streifen, die sich um den ganzen Planeten erstrecken, lassen
 dort auf gewisse Jahreszeiten und Zonen beschränkte Erscheinungen vermuthen.
 Alles dieses deutet auf eine nahe Verwandtschaft des Mars mit der Erde, und
 macht es nicht unmöglich, daß er von Wesen bewohnt sein könne, deren
@@ -566,10 +566,10 @@ welche wahrscheinlich ebenfalls von atmosphärischen Ereignissen herrühren.
 
 Von allen Planeten spielt aber die Atmosphäre bei *Ceres* und *Pallas* die
 größte Rolle, so daß sie ihnen ein kometenähnliches Ansehn giebt. Der
-Halbmesser der Ceres ist 175 Meilen, und die Höhe der Atmosphäre 65 - 150 M.;
+Halbmesser der Ceres ist 175 Meilen, und die Höhe der Atmosphäre 65 — 150 M.;
 bei Pallas ist jener gleich 206 M., und diese über 100. Zuweilen ganz heiter,
 sind sie nach wenigen Stunden wieder in den Kometennebel gehüllt, dessen Glanz
-und Größe den stärksten Wechseln unterworfen ist. Der N​ebel ist an der
+und Größe den stärksten Wechseln unterworfen ist. Der Nebel ist an der
 Oberfläche der Planeten am stärksten und verliert sich allmälig.
 
 In einem raschen Sprunge wenden wir uns von dem kleinsten zu dem größten aller
@@ -580,24 +580,24 @@ an Glanze nicht gleich, sondern ist gelblich, ist aber nach ihr
 der glänzendste
 Stern am Himmel, dessen Scheibe zuweilen von einem unbewaffneten, aber scharfem
 Auge zu erkennen ist. Seine rasche Achsendrehung verursacht eine starke
-Abplattung. Nach Laplace's Berechnung verhält sich der Durchmesser der Pole zu
-denen des Aequators wie 69:74. Beobachtungen gaben das Verhältniß 9:10, oder
+Abplattung. Nach Laplace’s Berechnung verhält sich der Durchmesser der Pole zu
+denen des Äquators wie 69:74. Beobachtungen gaben das Verhältniß 9:10, oder
 15:16.
 
 Seine Oberfläche ist mit zahlreichen und mannigfaltigen Flecken bedeckt; ob
 diese aber durch atmosphärische Verdunklungen, Unebenheiten der Oberfläche,
 oder vielleicht gar fremde, sich um den Jupiter schwingende Körper veranlaßt
 werden, ist bis jetzt noch unentschieden. Am ausgezeichnetsten stellen sich
-hier dem Aequator parallele dunkle Streifen dar; bald ist nur einer da, bald
+hier dem Äquator parallele dunkle Streifen dar; bald ist nur einer da, bald
 sind ihrer 6 oder 8, ein großer trennt sich in mehrere kleinere, kleinere
 verbinden sich oder verschwinden ganz, werden auch wol durch einen schräg
 laufenden Streif verbunden; andre dagegen bleiben Jahrelang fast unverändert.
 Die veränderlichen sind wahrscheinlich Wolkenringe von denen Jupiter wie die
-Aequatorzone unserer Erde zu gewissen Zeiten umgeben wird. Daß sie sich bei
+Äquatorzone unserer Erde zu gewissen Zeiten umgeben wird. Daß sie sich bei
 jenem viel weiter nach den Polen erstrecken ist eine natürliche Folge des sehr
 gleichmäßigen, durch die geringe Neigung des Jupitersäquators veranlaßten
-Klima's (S. 153). Dieses erklärt auch wol, daß ein dem Mittelpunkte naher
-großer Streifen so unveränderlich zu sein scheint, denn kleinere Aenderungen
+Klima’s (S. 153). Dieses erklärt auch wol, daß ein dem Mittelpunkte naher
+großer Streifen so unveränderlich zu sein scheint, denn kleinere Änderungen
 könnte man wegen der großen Entfernung Jupiters nicht wahrnehmen, und man
 braucht nicht anzunehmen, daß es ein Ring sei, der den Jupiter, ähnlich dem des
 Saturn, umgebe, und nur aus minder festen Stoffen bestehe.
@@ -638,7 +638,7 @@ und Jupitersbahnen erhöhen das Ungleichförmige dieser Erscheinungen noch mehr.
 Daß furchtbare Orkane die Atmosphäre durchtoben müssen, sieht man aus der
 schnellen Bewegung der Wolken, die nach Schröter 17 bis 348 Fuß, ja 7350 und
 11148 Fuß in der Sekunde zurücklegen, also die Geschwindigkeit der stärksten
-Erdorkane (119' in der Sek.), ja selbst die des Schalls (1028') weit
+Erdorkane (119’ in der Sek.), ja selbst die des Schalls (1028’) weit
 übertreffen. Ihre Hauptrichtung ist, wie bei Merkur und der Sonne, von Westen
 nach Osten, also von der Erde verschieden, wo Ostwinde herrschend sind (S.
 218). Alle diese Erscheinungen machen das Dasein von Bergen und Meeren und
@@ -651,7 +651,7 @@ begabt, zeigt sich uns *Saturn*, an Größe und Entfernung der zweite Planet
 unsres Systems. Seine sichtbare Scheibe ist die veränderlichste. Ihre
 Abplattung ändert sich, nach Schröter, in wenigen Stunden von dem Verhältnisse
 12:11 zu dem von 8:7; zuweilen scheint er gar kein Sphäroid zu sein, und nach
-Herschel ist er sowohl am Aequator als an den Polen eingedrückt, fast viereckig
+Herschel ist er sowohl am Äquator als an den Polen eingedrückt, fast viereckig
 und der größte Durchmesser ist unter 43° Breite.
 
 Er zeigt hellere und dunklere Flecken und Streifen, wie Jupiter, nur daß die

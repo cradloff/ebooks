@@ -35,7 +35,7 @@ hatte, daß die Erde jährlich einen Kreis durchläuft, dessen Durchmesser, wie
 man späterhin fand, etwa 42 Millionen Meilen beträgt, durfte man hoffen, daß
 dieses eine 
 <@pagebreak/>
-Aenderung in der Lage der Sterne hervorbringen würde.
+Änderung in der Lage der Sterne hervorbringen würde.
 
 Ein Stern befinde sich in der Ebene der Ekliptik, in _S_ (Fig. 19.); _E_ sei die
 Sonne und der um sie beschriebene Kreis die Bahn der Erde; _GF_ sei ein Stück des
@@ -64,7 +64,7 @@ kleiner
 sind die Winkel; aber sie sind so klein, daß bis jetzt bei keinem Fixsterne
 mit Sicherheit eine Parallaxe entdeckt worden ist.
 
-Bradley's Versuche haben wir schon angeführt. Zwar machte er zwei andre
+Bradley’s Versuche haben wir schon angeführt. Zwar machte er zwei andre
 köstliche Entdeckungen, die Nutation und Aberration (S. 151, 158.); allein der
 eigentliche Zweck seiner Arbeit, die Auffindung der Parallaxe, mißlang, und er
 konnte als Ergebniß seiner Beobachtungen nur anführen, daß sie kleiner als eine
@@ -223,7 +223,7 @@ hat. Zwar sind die
 Beobachtungen der alten griechischen und arabischen
 Astronomen wegen ihrer Ungenauigkeit zu so feinen Versuchen nicht anwendbar;
 allein von Flamstead, der den Himmel vor etwa 100 Jahren beobachtete, bis
-jetzt, hat man bei manchen Sternen eine sehr ​bedeutende Bewegung
+jetzt, hat man bei manchen Sternen eine sehr bedeutende Bewegung
 beobachtet. Sie beträgt bei Arktur, wo sie am stärksten zu sein scheint,
 jährlich 2½". Nach Andren ist sie bei α in der Leier noch beträchtlicher.
 
@@ -240,7 +240,7 @@ ist, und durch ein Fortschreiten der Sonne mit ihren zahllosen Begleitern
 veranlaßt wird, so werden diejenigen Fixsterne, welche gerade vor oder hinter
 uns liegen, unbeweglich sein, die andren aber hinter uns zu rücken scheinen.
 Die Sonne sei von _A_ nach _B_ (Fig. 20.) fortgerückt; so sind die Winkel _ABC_,
-_ABD_... um welche sich die Lage der Sterne _C,D_... geändert hat, gleich der
+_ABD_… um welche sich die Lage der Sterne _C,D_… geändert hat, gleich der
 scheinbaren Größe, unter welcher die Linie _AB_ von dem Sterne aus gesehn wird.
 _F_, dem sich die Sonne am meisten nähert, und _G_ von dem sie sich am meisten
 entfernt, verändern ihre Lage gar nicht, obgleich, wenn der zurückgelegte Raum
@@ -249,7 +249,7 @@ _AB_ groß genug ist, _F_ an Glanz bedeutend zugenommen und _H_ abgenommen
 haben wird.
 Allein da der Glanz nicht so genau beobachtet werden kann, als die Bewegung, so
 werden wir nur diese berücksichtigen können, und sie findet auch bei den
-Sternen _C,D_... mehr oder weniger statt, und zwar um so stärker, je näher sie
+Sternen _C,D_… mehr oder weniger statt, und zwar um so stärker, je näher sie
 uns sind, und je mehr sie gerade seitwärts liegen.
 
 Wenn man alle diese Umstände berücksichtigt, so läßt sich bei weitem der größte
@@ -337,7 +337,7 @@ Dieses war das Resultat der ersten Entdeckung; Die spätern Beobachtungen haben
 es aber außer Zweifel gesetzt, indem man bei den meisten Doppelsternen eine *Bewegung
 um einen gemeinschaftlichen Mittelpunkt* entdeckt hat. Wir haben in der 17ten
 Vorlesung gezeigt, daß ein sich frei bewegender Himmelskörper, der in die Nähe
-eines andren kommt, von diesem angezogen wird und in seiner Bahn Aenderungen
+eines andren kommt, von diesem angezogen wird und in seiner Bahn Änderungen
 erleidet. Es entsteht dadurch, unabhängig von der fortschreitenden Bewegung
 beider Körper, auch eine um den gemeinschaftlichen Schwerpunkt (S. 358). Bei den
 Körpern unsres Sonnensystems fällt dieser fast durchgängig innerhalb des
@@ -367,7 +367,7 @@ eigenes Licht zu haben! (S. 325).
 Die *Ebene*, in welcher die Doppelsterne sich bewegen, hat alle möglichen Lagen
 zu unsrer Gesichtslinie. Zuweilen ist sie senkrecht darauf; dann bleibt die
 scheinbare Entfernung beider Sterne fast unverändert, wie bei δ Schlange, ε
-Bootes u. a. Kleine Aenderungen, die dennoch in der Entfernung beider Sterne
+Bootes u. a. Kleine Änderungen, die dennoch in der Entfernung beider Sterne
 statt finden, wie bei Kastor, rühren wahrscheinlich von einer elliptischen
 Bewegung her. Bei andren, wo die Ebene ihrer Bahn in der Gesichtslinie ist,
 scheint der kleinere sich dem größeren zu nähern, wird von ihm bedeckt und
@@ -458,7 +458,7 @@ und vielleicht ist nicht einer davon ausgenommen.
 
 Diese Veränderlichkeit erstreckt sich auch auf den Glanz und die Größe der
 Fixsterne. Am merkwürdigsten sind die *periodischen* Wechsel. *Algol* im Haupte der
-Medusa, β Perseus) hat eine Glanzperiode von 2 Tagen 20 Stunden 49 Minuten. Ueber
+Medusa, β Perseus) hat eine Glanzperiode von 2 Tagen 20 Stunden 49 Minuten. Über
 2½ Tage glänzt er als Stern zweiter Größe, 3½
 <@pagebreak/>
 Stunden nimmt er ab, wird dann auf 18 Minuten plötzlich blaß und erreicht nach
@@ -466,7 +466,7 @@ Stunden nimmt er ab, wird dann auf 18 Minuten plötzlich blaß und erreicht nach
 Periode von einigen Tagen bis Wochen. Der Stern ο im Wallfisch, der wegen
 seiner auffallenden Eigenschaften den Namen *Mira* (der Wunderbare) empfangen
 hat, hat in seinem höchsten Glanze die zweite oder dritte Größe und ist
-weißlich. Seine Farbe geht darauf in's Röthliche über, und wenn er am kleinsten
+weißlich. Seine Farbe geht darauf in’s Röthliche über, und wenn er am kleinsten
 und kaum sichtbar ist, ist er gelblich. Seine Periode dauert 334 Tage, zu
 Hevels Zeiten war er einmal 4 Jahre unsichtbar. — Auf eine andre Weise zeichnet
 sich η *Antinous* aus, seine Lichtperiode ist 7 Tage 4 Stunden. Sein starkes
@@ -523,13 +523,13 @@ durch Ringe, wie die des Saturn, an deren Dasein wir bei der Mannigfaltigkeit
 der Erscheinungen in der Fixsternwelt nicht zweifeln können, können ähnliche
 Erscheinungen hervorgebracht werden.
 
-Außer diesen regelmäßigen Aenderungen gibt es noch eine große Anzahl von
+Außer diesen regelmäßigen Änderungen gibt es noch eine große Anzahl von
 Sternen, die ähnliche Erscheinungen ohne bestimmte Zeitfolge darbieten. Die
 merkwürdigsten sind das *Entstehen* und *Verschwinden* von Sternen. Viele Sterne,
 welche die Griechen und Araber kannten, suchen wir jetzt vergebens am Himmel,
 und viele, die wir jetzt kennen, waren den Alten unbekannt, welches nicht bloß
 eine Folge von Nachlässigkeit sein kann. Ein neu entstandener Stern bewog
-Hipparch 140 Jahre v.​Chr. einen Sternkatalog zu entwerfen, damit solche
+Hipparch 140 Jahre v.Chr. einen Sternkatalog zu entwerfen, damit solche
 Erscheinungen seinen Nachfolgern nicht entgehen möchten, und in spätern
 Jahrhunderten hat es nicht an ähnlichen Ereignissen gefehlt.
 

@@ -37,7 +37,7 @@ Sternen beschäftigen.
 
 Des Menschen Phantasie, die gerade da am thätigsten ist, wo er mit seiner
 Vernunft nichts ergründen kann, fand auch lange Zeit vor Homer und der Bibel in
-der Anordnung der ausgezeichnetern Sterne Aehnlichkeit mit Gegenständen, die in
+der Anordnung der ausgezeichnetern Sterne Ähnlichkeit mit Gegenständen, die in
 der Wirklichkeit oder in der Einbildungskraft lebten. In 
 <@pagebreak/>
 paarweise gestellten
@@ -52,8 +52,8 @@ hindurch nur ein Spiel der Phantasie, die Sterne zu betrachten und zu benennen,
 so begann allmälig ein ernsteres Geschäft, indem die Veränderungen der
 Jahreszeiten und die Arbeiten des Ackerbaues nach den Erscheinungen der
 Fixsterne bestimmt wurden. Der unvollkommne und meistentheils mit dem
-Sonnenlaufe nicht übereinstimmende Kalender (S. 195.) zwang z. B. die Aegypter,
-um nicht von den Ueberschwemmungen des Nils übereilt zu werden, auf die Zeit zu
+Sonnenlaufe nicht übereinstimmende Kalender (S. 195.) zwang z. B. die Ägypter,
+um nicht von den Überschwemmungen des Nils übereilt zu werden, auf die Zeit zu
 achten, wann der Sirius sich wieder in der Morgendämmerung zeigte, nachdem er
 eine Zeitlang von der Sonne verdunkelt gewesen war. Andre Sterne zeigten ihnen
 die Zeit der Aussaat und der Ernte an. Die Sternbilder erhielten dadurch eine
@@ -63,19 +63,19 @@ verschieden waren, über das ganze Land, wohin sich ihr Einfluß erstreckte. Aus
 dem gewöhnlichen Fehlschlusse, daß eine Begebenheit, die auf eine andre folgt,
 auch ihre Wirkung sei, der auch bei den Erscheinungen des Mondes und der
 Kometen den Aberglauben so sehr befördert hat, sah man die Erzeugnisse des
-Bodens, den Regen, die Ueberschwemmungen, die Dürre und die Krankheiten 
+Bodens, den Regen, die Überschwemmungen, die Dürre und die Krankheiten 
 <@pagebreak/>
 der Jahreszeiten, auf welche man die Gestirne bezog, als Wirkungen derselben an.
 Wie nah lag nun der Gedanke, diese Sterne den Göttern zu weihen, welche jene
 Erscheinungen veranlaßten, oder sie für Sinnbilder jener Götter zu halten! Aus
 dem Sternbilde, dessen Aufgang mit dem Austreten des Nils gleichzeitig war,
-entstand daher das Sternbild des Anubis bei den Aegyptern; auf ähnliche Weise
+entstand daher das Sternbild des Anubis bei den Ägyptern; auf ähnliche Weise
 entstanden bei andren Völkern die Sternbilder der Derketis und der Erntegöttin
 (bei den Griechen Ceres). Man vergaß über die wichtigere Beziehung, die man
 ihnen jetzt beilegte, die frühere Bezeichnung und Benennung, und mit dem Namen
 der Götter gab man ihnen auch ihre Gestalt. So wurde aus dem Sternbilde des
 Anubis das Bild eines Hundes, aus dem der Derketis ein Fisch, und aus dem der
-Ceres oder einer ähnlichen Göttin eine Jungfrau mit Aehren, und da die Gestalt
+Ceres oder einer ähnlichen Göttin eine Jungfrau mit Ähren, und da die Gestalt
 und die Attribute der Götter sich auf die Arbeiten des Ackerbaues, der
 Viehzucht, der Schifffahrt und dergl. bezogen, so glaubte man oft in den
 Sternbildern ein Symbol derselben zu sehn. Die Götter haben daher ihre Gestalt
@@ -83,7 +83,7 @@ nicht von den Sternbildern erhalten, sondern diese von jenen. Daß aber Götter
 statt der edleren menschlichen Gestalt mit Hundsköpfen und Fischschwänzen
 abgebildet wurden, ist eben so sehr von der Astronomie unabhängig, als daß sie
 als Ibis, Affen, Elephanten oder sonst mit thierischen Theilen gedacht wurden,
-wovon sich keine Aehnlichkeit unter den Sternbildern findet. Einige kleinere
+wovon sich keine Ähnlichkeit unter den Sternbildern findet. Einige kleinere
 Sternbilder, die ohne die physischen Beziehungen nicht von den übrigen
 ausgezeichnet worden wären, und deren Sterne zu andren Bildern gezogen waren,
 wie z. B. die Wage, die Fische, wurden wahrscheinlich erst später gebildet, und
@@ -104,12 +104,12 @@ historischer Begebenheiten, die bei den Sternbildern noch durch astronomische
 Symbole vermehrt wurden, welche dann freilich wieder auf den Mythenkreis
 zurückwirkten. So entstanden die Sternbilder und die an sie geknüpften Sagen.
 
-Nur bei wenigen Sterngruppen war die Aehnlichkeit mit irdischen Gegenständen so
+Nur bei wenigen Sterngruppen war die Ähnlichkeit mit irdischen Gegenständen so
 auffallend, daß man überall dasselbe oder ein ähnliches Bild sah, wie bei den
-Zwillingen, dem fliegenden Vogel, einigen Schlangen und Riesen; im Uebrigen
+Zwillingen, dem fliegenden Vogel, einigen Schlangen und Riesen; im Übrigen
 aber war die Phantasie unumschränkt. Was kümmerten den seefahrenden Phönicier
 die Ochsen und Ziegen der Ackerbau treibenden Völker, was den Chaldäer die
-Überschwemmungen des Nils und den Aegypter die Regenzeiten am Eufrat? Die
+Überschwemmungen des Nils und den Ägypter die Regenzeiten am Eufrat? Die
 Indier hatten andre Jahrszeiten, andre Produkte und andre Götter als die
 übrigen Völker; jedes selbstständige Volk bildete den Himmel nach seiner
 Phantasie, seinem Klima, seinen Jahreszeiten und seiner Religion. Allein nicht
@@ -120,18 +120,18 @@ eine Behörde, etwa eine Priesterkaste, den Sternbildern ein größeres Ansehn
 verschaffen konnte. Ein früher gebildetes Volk brachte mit seiner Kultur auch
 seine Mythen und die in vielen Punkten damit eng verbundene Astronomie zu
 rohern Völkern, selbst die *Sterndeuterei* trug durch ihre große Verbreitung dazu
-bei, mehr Aehnlichkeit in die Sternbezeichnung der verschiedenen Länder zu
+bei, mehr Ähnlichkeit in die Sternbezeichnung der verschiedenen Länder zu
 bringen. Auf diese Weise wurden vorzüglich die wichtigern Sternbilder weit
 verbreitet, so daß die Völker ihre Bezeichnungen zuweilen wechselseitig von
 einander entlehnten. Manche Sternbilder, die eine Hauptrolle bei den
 Beschäftigungen eines Volkes spielten, verdrängten die weniger wichtigen bei
-andren Völkern, und wenn Aegypten von den Phöniciern die Fischgöttin Derketis
+andren Völkern, und wenn Ägypten von den Phöniciern die Fischgöttin Derketis
 empfing, so gab es dafür das Anubisgestirn, den großen Hund, zurück.
 
 So bildete sich allmälig durch den Verkehr der Völker, wenn auch nicht eine
 gleiche, doch eine ähnliche Bezeichnung aus, und nur die entfernten und ganz
 außer Berührung stehenden Nationen behielten die ursprüngliche Verschiedenheit
-bei, z.B. die Chinesen und Aegypter.
+bei, z.B. die Chinesen und Ägypter.
 
 Je später ein Volk seine Bildung erlangte, und je mannigfaltiger deren Quellen
 waren, desto weniger Einheit herrschte auch in seinen Sagen. Dieß ist
@@ -148,11 +148,11 @@ verschmolzen. Alles dieses zeigt sich auch bei den Sternbildern der Griechen.
 Es sind großentheils die ägyptischen, denn auch außer jenen alten Führern
 schöpften die Thales und Pythagoras ihre Weisheit von ägyptischen Priestern;
 aber statt der ägyptischen Namen lesen wir griechische, und aus dem mächtigen
-Aegyptergotte ist ein Jagdhund geworden, der den Orion begleitet.
+Ägyptergotte ist ein Jagdhund geworden, der den Orion begleitet.
 
 Die Sternbilder der Neueren haben einen noch mannigfaltigern Ursprung. Bald
 ging man in die Mythen der Alten ein, gab z. B. dem Bootes Jagdhunde, dem
-Herkules den Cerberus, und fügte auch wol in der Taube mit dem Oelzweige eine
+Herkules den Cerberus, und fügte auch wol in der Taube mit dem Ölzweige eine
 hebräische Sage hinzu; bald dachte man an die Bewohner und Erzeugnisse der
 Erdzonen, in deren Zenith die Sterne kommen konnten, z. B. der Indianer und der
 Tukan im Süden, das Rennthier im Norden. Oft gab man den Sternbildern Gestalt
@@ -160,7 +160,7 @@ und Namen wissenschaftlicher Werkzeuge; so entstand der Grabstichel, der
 Luftball u. a. am Himmel; nicht selten suchten dadurch die Astronomen Fürsten
 und Gelehrten ein Denkmal zu setzen, z. B. Friedrichs Ehre, Kants Eiche, der
 Erntehüter (dem Astronomen Messier); sehr selten achten sie auf wirkliche
-Aehnlichkeit — denn an Phantasie stehn die Gelehrten den Naturvölkern eben so
+Ähnlichkeit — denn an Phantasie stehn die Gelehrten den Naturvölkern eben so
 sehr nach, als sie ihnen an Kenntnissen überlegen sind — z. B. beim südlichen
 Kreuze; desto öfter folgten sie aber nicht der Einbildungskraft, sondern der
 Laune, z. B. beim Fuchs mit der Gans, der Katze u. d. gl.
@@ -293,7 +293,7 @@ Der fliegende Fisch         </td><td> 8</td><td>Der Oktant                </td><
 <tr><td>Der südliche Triangel       </td><td> 5</td><td>Der Tukan                 </td><td> 9</td></tr>
 <tr><td>Der Paradiesvogel           </td><td>11</td><td>Die männliche Hyder       </td><td>10</td></tr>
 <tr><td>Der Tafelberg               </td><td>30</td><td>Die Bildhauerwerkstatt    </td><td>12</td></tr>
-<tr><td>Sobieski's Schild           </td><td> 7</td><td>Der Phönix                </td><td>13</td></tr>
+<tr><td>Sobieski’s Schild           </td><td> 7</td><td>Der Phönix                </td><td>13</td></tr>
 <tr><td>Der Indianer                </td><td>12</td><td>Die Elektrisirmaschine    </td><td>22</td></tr>
 <tr><td>Der Pfau                    </td><td>14</td><td>Die beiden Wolken         </td><td>--</td></tr>
 </table>
@@ -311,11 +311,11 @@ Südpols.
 <tr><td>Die Jungfrau (<img alt="Jungfrau" src="Jungfrau.png"/>)</td><td>110</td><td>Die Fische (<img alt="Fische" src="Fische.png"/>)</td><td>113</td></tr>
 </table>
 
-Also im Ganzen 106 Sternbilder. Die Zahlen neben den Ueberschriften bedeuten
+Also im Ganzen 106 Sternbilder. Die Zahlen neben den Überschriften bedeuten
 die Anzahl der zugehörigen Sternbilder; die neben den einzelnen Sternbildern
 stehenden, die Anzahl der darin sichtbaren Sterne, eine natürlich sehr
 willkürliche Bestimmung, die an und für sich keine Sicherheit gewährt, sondern
-nur im Allgemeinen die verhaltnißmäßige Größe der verschiedenen Sternbilder
+nur im Allgemeinen die verhältnißmäßige Größe der verschiedenen Sternbilder
 bestimmt. Der Stier z. B. 
 <@pagebreak/>
 der 141 Sterne zählt, und die Jungfrau gehören zu
@@ -335,7 +335,7 @@ Weise abgeholfen zu haben. Er bezeichnete nämlich den Hauptstern einen Bildes
 mit α, die andren mit den übrigen Buchstaben des griechischen Alphabets;
 reichte dieses nicht aus, so nahm er zu den lateinischen Buchstaben seine
 Zuflucht, und wenn es nöthig war, auch noch zu Ziffern. So ist z. B. der
-Polarstern, α kleiner Bär, Pollur, β Zwillinge. Am einfachsten wäre es, sich
+Polarstern, α kleiner Bär, Pollux, β Zwillinge. Am einfachsten wäre es, sich
 fortlaufender Zahlen zu bedienen.
 
 Wie *ein* Blick auf den Sternenhimmel zeigt, sind die Sterne von sehr
@@ -347,7 +347,7 @@ sechsten Größe erkennen, bei sehr heiterem Himmel und sehr scharfem Auge auch 
 <@pagebreak/>
 noch weiter; die übrigen nennt man *teleskopische Sterne*, da sie nur mit
 Hilfe des Fernrohrs zu erkennen sind. Die Anzahl der Klassen, oder der Größen
-der Sterne, geht aber, wie es scheint, mit Hilfe des Fernrohrs in's Unendliche;
+der Sterne, geht aber, wie es scheint, mit Hilfe des Fernrohrs in’s Unendliche;
 denn selbst das herschelsche Teleskop, womit man fast das Ziel des menschlichen
 Gesichtsorgans erreicht zu haben glaubte, indem die Anzahl der sichtbaren
 Sternklassen dadurch gegen die andren Fernröhre außerordentlich vermehrt wurde,
@@ -450,13 +450,13 @@ hatten die alten Araber mehre Waffen und einen Esel.
 
 Der größte Stern im kleinen Bären, der äußerste Stern an dessen Schwanze, ist
 der Polarstern. Man findet ihn, wenn man eine gerade Linie durch die beiden
-ersten Sterne (α, β) des großen Wagens verlängert. Er ist jetzt etwa 1°29' vom
+ersten Sterne (α, β) des großen Wagens verlängert. Er ist jetzt etwa 1°29’ vom
 Pol entfernt, und wird sich ihm noch bis zum Jahre 2101 nähern, wo dann die
-Entfernung 28' beträgt. Durch die Fortrückung der Nachtgleichen entfernt er
+Entfernung 28’ beträgt. Durch die Fortrückung der Nachtgleichen entfernt er
 sich dann wieder von ihm bis sich der Pol nach 2328 Jahren 
 <@pagebreak/>
 dem Sterne γ am Knie
-des Cepheus auf 1°53' genähert haben wird. Im Jahre 2800 v. Chr. war er nur 9'
+des Cepheus auf 1°53’ genähert haben wird. Im Jahre 2800 v. Chr. war er nur 9’
 von dem Sterne α des Drachen entfernt. Wegen seiner so geringen Entfernung vom
 Pol bleibt seine Lage von der täglichen Bewegung fast unverändert (S. 72),
 wodurch er den Schiffern sehr wichtig wird. Den Griechen soll Thales zuerst
@@ -473,7 +473,7 @@ einen Felsen gefesselt, einem Meerungeheuer, dem *Wallfische*, preis geben muß.
 Zu ihren Füßen steht ihr Retter *Perseus*, der Sohn des Jupiter und der Danae, sie
 mit gezücktem Schwerte und dem Medusenkopfe vertheidigend. Wahrscheinlich hat
 das Bild eines Riesen mit gehobenem Schwerte, womit die Sterngruppe des Perseus
-einige Aehnlichkeit hat, und die Anordnung der Sterne in der *Andromeda*, worin
+einige Ähnlichkeit hat, und die Anordnung der Sterne in der *Andromeda*, worin
 man mit einiger Einbildungskraft ein liegendes Frauenzimmer erkennen kann,
 sowohl jene Benennungen als die des Cepheus und der Kassiopea veranlaßt. Statt
 des Cepheus bildete man auch wol den Nereus ab. Die Araber hatten statt der
@@ -482,7 +482,7 @@ den Perseus bilden, wurden von den Arabern auch wol zum Theil zu denen des
 Stiers gerechnet.
 
 <@pagebreak/>
-Das Sternbild des *Herkules* hat in der That einige Aehnlichkeit mit einem
+Das Sternbild des *Herkules* hat in der That einige Ähnlichkeit mit einem
 knieenden oder springenden Riesen, worin natürlich jedes Volk *seinen* Heros sah.
 Die Chaldäer ihren Nimrod, und die Griechen den Herkules, Orpheus, Theseus,
 Nessus u. a. Herkules behielt die Oberhand, und es war natürlich daß man den
@@ -497,7 +497,7 @@ Statt seiner ist auch eine Stange oder eine Deichsel abgebildet worden.
 
 Ein schönes großes Kreuz wurde bald als *Schwan*, bald als Storch oder fallender
 Geier abgebildet, aber immer als Vogel mit ausgebreiteten Schwingen, dem das
-Sternbild auch nicht unähnlich ist. Es ist bei den Griechen *Leda's* Schwan, oder
+Sternbild auch nicht unähnlich ist. Es ist bei den Griechen *Leda’s* Schwan, oder
 der Schwan, in welchen der von den Bacchantinnen zerrissene *Orpheus* verwandelt
 wurde.
 
@@ -511,7 +511,7 @@ Retter des *Arion*; nach Einigen ist er indeß ein Symbol des *Neptun* oder des
 
 <@pagebreak/>
 Ein auffallendes Beispiel von der Gewohnheit der Griechen, die durch ihre
-Aehnlichkeit mit irdischen Gegenständen gebildeten Sterngruppen mit den Mythen
+Ähnlichkeit mit irdischen Gegenständen gebildeten Sterngruppen mit den Mythen
 zu verflechten, gibt die *Krone* und der *Triangel*. Jene, von den Arabern als
 Schüssel gebildet, wurde bei den Griechen die Krone der *Ariadne*, welche ihr
 Gemal Bacchus nach ihrem Tode in den Himmel versetzte, und der Triangel, der
@@ -522,11 +522,11 @@ zum ägyptischen *Delta*.
 Auf eine unangenehme Weise sticht gegen diese zarten Dichtungen das *Haar der
 Berenice* ab, das aus keiner frommen Götterverehrung, sondern aus einer groben
 Schmeichelei entstanden ist. Die Gemalin des Königs Ptolemäus Philadelphus von
-Aegypten hatte der Venus ihr schönes Haar gewidmet, wenn ihr Gemal in einem
+Ägypten hatte der Venus ihr schönes Haar gewidmet, wenn ihr Gemal in einem
 Kriege siegen würde. Er siegte, und das Opfer wurde gebracht; aber die
 alexandrinischen Astronomen versetzten es in den Himmel, an die Stelle der
 Spindel, des Bündels Efeu oder der wilden Rose, die früher, oder bei andren
-Völkern an seiner Stelle gewesen waren. Bei Bayer ist's eine Korngarbe. Noch
+Völkern an seiner Stelle gewesen waren. Bei Bayer ist’s eine Korngarbe. Noch
 weniger hätte *Antinous*, der Günstling des Kaisers Hadrian, den von Jupiters
 *Adler* geraubten troischen Fürstensohn *Ganymedes* aus dem Himmel verdrängen
 sollen. Jedoch hat Ptolemäus beide eigentlich nur genannt; aufgenommen sind
@@ -540,7 +540,7 @@ der Nähe der Jagdhunde. Besser verdient die
 *Friedrichsehre* ihren Platz, den ihr
 Bode (1787), zu Ehren des eben gestorbenen großen Königs Friedrich II., auf
 Kosten der Ketten der Andromeda anwies. Dem Astronomen Messier hat _Lalande_ in
-dem Erntehüter (französich _Messier_) ein Denkmal gesetzt. Einen ähnlichen
+dem Erntehüter (französisch _Messier_) ein Denkmal gesetzt. Einen ähnlichen
 Ursprung haben *Herschels* Teleskop von Bode (1790), der *poniatowskische Stier*,
 zu Ehren eines polnischen Königs, von Poczobut, und der *Mauerquadrant* von
 Lalande. Statt der *Fliege* zeichnen die Franzosen gern die französischen
@@ -565,13 +565,13 @@ Pferdekopf. Die
 <@pagebreak/>
 Griechen deuten es auf ein von Merkur dem Kastor geschenktes Pferd.
 
-Der *Schlangenträger* endlich wird von den Griechen auf Aeskulap gedeutet; aber
+Der *Schlangenträger* endlich wird von den Griechen auf Äskulap gedeutet; aber
 auch alle andren griechischen Heroen, die mit Schlangen kämpften, werden damit
 in Verbindung gebracht, so Jason, Laokoon, Herkules u. a. Im letztern Falle ist
 es die lernäische Schlange. Die Mauren in Afrika sollen zwar auch eine Schlange
 haben, statt des Mannes aber einen Kranich.
 
-In der *südlichen Halbkugel*, oder vielmehr auf dem Aequator glänzt *Orion*, das
+In der *südlichen Halbkugel*, oder vielmehr auf dem Äquator glänzt *Orion*, das
 schönste Sternbild am Himmel. Die drei dicht neben einander stehenden Sterne
 zweiter Größe, der Gürtel des Orion, der Jakobsstab oder die drei Könige
 genannt, machen als eine Hauptzierde des Himmels in den Winterabenden
@@ -596,7 +596,7 @@ von den Schäfern in den Brunnen gestürzten Vaters Ikarus verrieth; oder den
 schnellen Hund, den Aurora dem Jäger Orion schenkte u. a. m.
 
 Die Araber nannten das Sternbild des Orion, wahrscheinlich wegen seiner Lage im
-Aequator, die Mitte des Himmels. Indeß theilt er diese Ehre mit den Zwillingen,
+Äquator, die Mitte des Himmels. Indeß theilt er diese Ehre mit den Zwillingen,
 welche jenen Namen wahrscheinlich erlangt haben, weil sie vornehmlich vor den
 Sternbildern des Thierkreises in den Zenith der arabischen Beobachter kommen
 können.
@@ -604,21 +604,21 @@ können.
 Auf ähnliche Weise wie den kleinen Hund deutete man auch den *großen Hund*; aber
 *Sirius* ist ein viel zu ausgezeichnetes Gestirn, als daß er nicht eine
 Hauptrolle in der astronomischen Mythologie übernehmen sollte. In der That war
-er in Aegypten ein Bild des hundsköpfigen Gottes *Anubis*. Sein Aufgang, d. h.
+er in Ägypten ein Bild des hundsköpfigen Gottes *Anubis*. Sein Aufgang, d. h.
 die Zeit, wann er wieder in der Morgenröthe sichtbar wurde, nachdem er einige
-Zeit von der Sonne verdunkelt war, wurde von den Aegyptern sehr genau
+Zeit von der Sonne verdunkelt war, wurde von den Ägyptern sehr genau
 beobachtet, weil alsdann das Steigen des Nils begann, und veranlaßte dadurch
 auch eine genauere Bestimmung des Jahres (S. 5). Er mag daher wol bei den
-Aegyptern als ein Sinnbild jenes Gottes, oder selbst des Nils, der auch Siris
-hieß, verehrt sein. Bei den Aegyptern und Kopten heißt der Sirius auch *Sothes*,
+Ägyptern als ein Sinnbild jenes Gottes, oder selbst des Nils, der auch Siris
+hieß, verehrt sein. Bei den Ägyptern und Kopten heißt der Sirius auch *Sothes*,
 nach dem schon erwähnten ägyptischen Gotte, oder Heros, oder König, dem man
 alle Erfindungen zuschrieb (S. 5). Die hohe Achtung welche dieser Stern bei den
-Aegyptern genoß, gab dem ganzen Sternbilde den Namen des Hundsgestirns, und
+Ägyptern genoß, gab dem ganzen Sternbilde den Namen des Hundsgestirns, und
 <@pagebreak/>
 verdrängte wahrscheinlich die Gestalten, unter denen man sich dieses Sternbild
 bei andren Völkern gedacht haben mochte (S. 381). Nach ihm haben die Hundstage
 ihren Namen. Die Griechen, nach ihrer Gewohnheit sich alles anzueignen, machten
-aus dem hundsköpfigen Aegyptergotte einen Jagdhund des Orion, indeß hieß er
+aus dem hundsköpfigen Ägyptergotte einen Jagdhund des Orion, indeß hieß er
 auch bei den Arabern der *Hund des Riesen* (Orion).
 
 *Sirius* und *Procyon*, die Hauptsterne des großen und des kleinen Hundes, beide
@@ -647,7 +647,7 @@ Sternbild
 seine Gestalt der Göttin, der es geweiht war. Es liegt auch in der
 Natur des Menschen, Gegenstände und Gestalten, die man für heilig zu halten
 gewohnt ist, auch in schönen großen Sternen am Himmel glänzen zu sehn, und der
-große Hund, oder der südliche Fisch, wurden von den Aegyptern und Phöniciern
+große Hund, oder der südliche Fisch, wurden von den Ägyptern und Phöniciern
 gewiß nicht mit geringerer Ehrfurcht betrachtet, als das *südliche Kreuz* von
 neueren Seefahrern.
 
@@ -666,7 +666,7 @@ Centauren, Chiron, Nessûs u. m. a. bezogen.
 
 *Eridanus*, der Strom, in welchen sich der unglückliche *Phaeton* stürzte, nachdem
 er durch die ungeschickte Lenkung des Sonnenwagens die Welt in Flammen gesetzt
-hatte, ist nach einigen der Po; bei den Aepyptern der Nil. Er hieß auch wol der
+hatte, ist nach einigen der Po; bei den Ägyptern der Nil. Er hieß auch wol der
 Strom des Riesen (Orion), der Ocean u. s. w.
 
 Statt des *Altars* zeichnete man auch verschiedene Geräthschaften. In der
@@ -693,11 +693,11 @@ beziehen: der *Indianer*, der *Tukan*, der *Schwertfisch* (Dorado), der *fliegen
 Fisch*, das *Chamäleon*, der *Paradiesvogel*, die *Biene*, der *Kranich*, der *Pfau*, der
 *Phönix*, die *männliche Wasserschlange* und das *südliche Dreieck*.
 
-Die *Taube* Noa's mit dem Oelzweige, und das schöne südliche *Kreuz* — das
-nördliche ist der Schwan — verdanken Royer (1679) ihr Dasein. Halley's *Eiche
+Die *Taube* Noa’s mit dem Ölzweige, und das schöne südliche *Kreuz* — das
+nördliche ist der Schwan — verdanken Royer (1679) ihr Dasein. Halley’s *Eiche
 Karls II.* (1677) ist das zweite Denkmal dieses elenden Fürsten. Eher verdient
 noch Johann III. Sobieski, König von Polen, der berühmte Besieger der Türken,
-das Denkmal, das ihm Hevel (1690) in *Sobieski's Schilde* gesetzt hat.
+das Denkmal, das ihm Hevel (1690) in *Sobieski’s Schilde* gesetzt hat.
 <@pagebreak/>
 Der *brandenburgische Szepter* rührt von Kirch
 her, die *Georgsharfe*, zu Ehren der englischen
@@ -726,14 +726,14 @@ so daß die Sonne in jedem Monate etwa *ein* Zeichen
 zu durchlaufen scheint. Es gab auch noch eine Entheilung
 des Thierkreises in 28 Theile, wovon der
 Mond täglich einen Theil durchlief, und ebenfalls eine
-große Rolle in der Astronomie spielte -- man
-nanne beide die Palläste der Sonne und des Mondes
---; wir beschränken uns jedoch auf die erste
+große Rolle in der Astronomie spielte — man
+nannte beide die Palläste der Sonne und des Mondes
+—; wir beschränken uns jedoch auf die erste
 Eintheilung.
 
 Wenn wir jetzt eine Himmelkarte oder einen
-Himmelsglobus betrachten, so sehn wir , daß sich der
-Aequator und die Ekliptik in der Jungfrau und in
+Himmelsglobus betrachten, so sehn wir, daß sich der
+Äquator und die Ekliptik in der Jungfrau und in
 den Fischen durchschneiden. So war es aber, wie
 wir wissen, nicht immer, sondern vermöge der Bewegung
 der Nachtgleichen (S. 148.) rücken diese
@@ -758,10 +758,10 @@ schließen, da er ja einem ältern nachgeahmt sein
 kann. Gewöhnlich sind überdieß die Punkte der
 Nachtgleichen nicht deutlich angegeben, und lassen sich
 nur durch Vermuthungen bestimmen. Zur Entscheidung
-über die Erbauungszeit eines Thierkreises -- in
+über die Erbauungszeit eines Thierkreises — in
 dem Lande der Pyramiden sind auch Thierkreise gigantisch
--- gehören daher nicht nur historische und
-antiquarische Untersuchungen, wie bei andren Ueberresten
+— gehören daher nicht nur historische und
+antiquarische Untersuchungen, wie bei andren Überresten
 der Vorzeit, sondern auch astronomische. Diese
 kleine Abschweifung sei uns vergönnt, da gewiß viele
 meiner Zuhörer, die von dem Streite über den berühmten
@@ -831,7 +831,7 @@ Bei einer solchen Verwirrung und Ungewißheit kann es nicht befremden, daß man
 in den Sternbildern des Thierkreises bald eine Beziehung auf das Klima
 Aegytens, bald auf die 
 <@pagebreak/>
-Klimate Chaldäa's, Baktriens, oder Indiens zu sehen
+Klimate Chaldäa’s, Baktriens, oder Indiens zu sehen
 glaubte; daß ihre Bildung bald einige Jahrhunderte, bald Jahrtausende vor
 Christus statt gefunden haben soll.
 
@@ -875,16 +875,16 @@ December beginnende Jagd erklären.
 
 Nach Andren beziehen sich die Zeichen auf die Jahreszeiten, in welchen sie vor
 etwa 4000 Jahren des Abends wieder sichtbar wurden; dann passen sie wieder gut
-auf Aegypten, wo die Sonne damals in der Sommersonnenwende im Löwen stand. Das
+auf Ägypten, wo die Sonne damals in der Sommersonnenwende im Löwen stand. Das
 Gestirn des Thierkreises, das um diese Zeit in der Nacht am Himmel glänzte,
 wurde halb *Steinbock* halb *Fisch*, theils wegen des hohen Standes der Sonne,
-theils wegen der beginnenden Ueberschwemmung des Nils. Der *Wassermann* und die
-*Fische* zeigen die Ueberschwemmung in ihrer größten Stärke. Der Nil beginnt
+theils wegen der beginnenden Überschwemmung des Nils. Der *Wassermann* und die
+*Fische* zeigen die Überschwemmung in ihrer größten Stärke. Der Nil beginnt
 nämlich um die Mitte des Juni zu steigen, steigt 46 Tage, fällt dann eben so
 lange, bis er wieder seinen niedrigen Stand um die Mitte Septembers erreicht
 hat. Die drei folgenden Zeichen deuten auf die Viehzucht und den Ackerbau. Die
 wieder beginnende Hitze im Januar, die Ernte im Februar, die Gleichheit der
-Tage und Nächte im März, die Krankheiten im April und die aus Aethiopien
+Tage und Nächte im März, die Krankheiten im April und die aus Äthiopien
 kommenden Stürme im Mai konnten durch den *Löwen*, die *Jungfrau*, die *Wage* u. s.
 f. bezeichnet werden. Wie sehr hier 
 <@pagebreak/>
@@ -904,13 +904,13 @@ verbunden, einer römischen V ähnlich ist. Diese kleine Gruppe wurde von den
 Griechen die *Hyaden* genannt, weil bei ihnen oder dem Volke, von dem sie diesen
 Namen aufnahmen, die Regenzeit bei dem heliakischen Aufgange dieser Gestirne
 begann. Bei den Römern hießen sie die *Sau* mit den *Ferkeln*, vielleicht nur durch
-eine falsche Uebersetzung, denn das Wort Hyaden hat im Griechischen
-Aehnlichkeit mit dem Ausdrucke für das Schwein.
+eine falsche Übersetzung, denn das Wort Hyaden hat im Griechischen
+Ähnlichkeit mit dem Ausdrucke für das Schwein.
 
 Westlich von den Hyaden ist im Stier ein Haufe kleiner Sterne, das
 *Siebengestirn*. Man nannte sie auch die Hesperiden, Töchter des Atlas. Homer
 kannte hier nur 6 Sterne; da bald nach ihm 7 gezählt wurden, so sagte man, daß
-der siebente, *Elektra*, erst nach Troja's Brande erschienen sei. Nachher kamen
+der siebente, *Elektra*, erst nach Troja’s Brande erschienen sei. Nachher kamen
 *Atlas* und seine Gemahlin *Plejone* hinzu, so daß die 9 Hauptsterne des
 Siebengestirns nach Atlas und seiner Familie benannt sind, indeß sind jetzt
 darin nur sechs von der 5ten bis 6ten Größe sichtbar der siebte soll »mit
@@ -928,10 +928,10 @@ Die *Zwillinge* haben ihren Namen offenbar von den paarweise gestellten Sternen.
 Bei den Griechen waren es *Kastor* und *Pollux*, Apollo und Herkules, Theseus und
 Pirithous u. a. m. Die neun griechischen Dichter beziehn sie fast nur auf Kastor
 und Pollux. Bei den Orientalen waren hier früher ein Paar Ziegen, und bei den
-Aegyptern ein Jüngling und ein Mädchen, welche sich die Hände reichten. Vielleicht
+Ägyptern ein Jüngling und ein Mädchen, welche sich die Hände reichten. Vielleicht
 ein Symbol der sich wieder verjüngenden und schaffenden Natur.
 
-Der *Krebs* ist vielleicht bloß aus einem Irrthume entstanden. Die Aegypter
+Der *Krebs* ist vielleicht bloß aus einem Irrthume entstanden. Die Ägypter
 zeichneten hier den ihnen heiligen Skarabäus, eine den Griechen unbekannte
 Käferart, die sie für einen Taschenkrebs hielten. Ein berühmter Astronom heiligte
 vielleicht durch die Annahme dieser Benennung den Irrthum, so daß man ihn
@@ -958,13 +958,13 @@ Arabern war hier eine Jungfrau mit einer Garbe.
 Die Flügel sind ihr erst später beigelegt. Es ist nach Einigen Erigone, die
 sich ihrem von den Schäfern (S. 392.) getödteten Vater Ikarus in den Brunnen
 nachstürzte. Der schöne Stern erster Größe hat seinen Namen von der Garbe
-(_spica_, die Aehre); der Stern *Vindemiatrix* (Weinleserin), weil er zur Zeit der
+(_spica_, die Ähre); der Stern *Vindemiatrix* (Weinleserin), weil er zur Zeit der
 Weinlese aufging.
 
 Die *Wage* machte früher die Scheeren des Skorpions aus. Sie scheint ein
 Erzeugniß der Astronomen zu sein, die sie geradezu wegen der Gleichheit der
 Tage und Nächte benannten. Man fügte ihr auch wol den *Mochos* bei, den Erfinder
-von Wage und Gewicht. Nach Andren ist's die Wage der *Asträa*, die, seitdem die
+von Wage und Gewicht. Nach Andren ist’s die Wage der *Asträa*, die, seitdem die
 Göttin die Erde verlassen hat, am Himmel glänzt.
 
 Der *Skorpion* ist ein schönes Bild für die Seuchen und verderblichen Winde, die
@@ -980,14 +980,14 @@ Bogen und Pfeil ab, und nannten das Sternbild auch wol nur den *Bogen*.
 
 Der *Steinbock* ist, wie mehrere andre Sternbilder, sphynxartig, halb Gemse, halb
 Fisch. Sein Fischschwanz erinnert an die folgenden beiden Zeichen. Bei den
-Griechen ist's Amalthea, von ihrem Pflegling Jupiter an den Himmel versetzt,
+Griechen ist’s Amalthea, von ihrem Pflegling Jupiter an den Himmel versetzt,
 oder es ist Pan, der sich auf der Flucht vor dem Ungeheuer Typhon in ein
 ähnliches Wesen verwandelt hat.
 
 Der *Wassermann*, bei den Orientalen das Wassergefäß, ein Wasser ausgießender
 Gott, ist das deutlichste Symbol am ganzen Himmel, und darf nicht, wie der
 Löwe, fürchten auf die verschiedensten Arten gedeutet zu werden. Daß übrigens
-die Griechen ihn für den aus der allgemeinen Ueberschwemmung geretteten
+die Griechen ihn für den aus der allgemeinen Überschwemmung geretteten
 Deukalion, oder den Mundschenken der Götter Ganymed erklärten, darf uns nicht
 stören.
 
@@ -1003,13 +1003,13 @@ Ehe wir zu den Eigenschaften der einzelnen Sterne übergehn können, müssen wir
 uns erst mit ihrer Lage am Himmel bekannt gemacht haben, wie wir 
 <@pagebreak/>
 uns auch auf
-der Erde erst eine Uebersicht aller Länder verschaffen müssen, ehe wir die
+der Erde erst eine Übersicht aller Länder verschaffen müssen, ehe wir die
 Eigenthümlichkeiten der einzelnen Gebiete untersuchen können. Aber so schwer
 die übrigen Theile der Astronomie sind, so leicht ist dieser, und dieß ist
 vielleicht auch der Grund, daß in diesem Stücke die rohen Völker und Menschen
 die gebildeten weit übertreffen. Während die Schäfer und Hirten des Alterthums
 und der neuern Zeit die ihnen fast jede Nacht offenen Gebiete des Himmels eben
-so genau kannten, als das Land, welches sie bewohnten, ist's eine Auszeichnung
+so genau kannten, als das Land, welches sie bewohnten, ist’s eine Auszeichnung
 des gebildeten Theils der Nationen, daß sie, während zahllose weniger
 anziehende und schwierigere Gegenstände ihre Aufmerksamkeit fesseln und sie
 vielleicht in fremde Länder wandern, um Naturschönheiten zu sehn, den schönsten
@@ -1032,7 +1032,7 @@ zu erreichen, stand ihrer Verbreitung entgegen.
 Viel bequemer ist die Verfertigung und der Gebrauch der *Himmelsgloben*, die auf
 eine ähnliche Weise eingerichtet sind, wie die Erdkugeln. Man bezeichnet
 nämlich zwei entgegengesetzte Punkte an der Kugel, zieht zwischen ihnen den
-Aequator und trägt nun die Sterne nach ihrer Abweichung und geraden
+Äquator und trägt nun die Sterne nach ihrer Abweichung und geraden
 Aufsteigung, die Ekliptik, die Wende- und Polarkreise nebst Abweichungs- und
 Mittagskreisen auf. Man sieht hierbei freilich die Sterne nicht ganz in
 derselben Lage wie am Sternhimmel, oder in der Hohlkugel, sondern was hier
@@ -1048,10 +1048,10 @@ gewöhnlich mit einem durch die Pole gehenden, unbeweglichen Kreise, dem
 Meridiane, unter den die um ihre Achse bewegliche Kugel nach und nach alle ihre
 Theile bringen kann. Auf diese Weise kann der Unterschied in der geraden
 Aufsteigung der Sterne leicht gefunden werden. Bezeichnet man nämlich den Punkt
-des Aequators, in welchem er von dem Meridiane getroffen wird, indem dieser
+des Äquators, in welchem er von dem Meridiane getroffen wird, indem dieser
 durch den einen Stern geht, dreht darauf die Kugel so lange um ihre Achse, bis
 der andre Stern durch den Meridian geht, und bezeichnet auch hier den Punkt des
-Aequators, so gibt der Unterschied in der Lage beider Punkte unmittelbar den
+Äquators, so gibt der Unterschied in der Lage beider Punkte unmittelbar den
 Bogen zwischen beiden Sternen. Aus diesem läßt sich leicht die Zeit berechnen,
 die zwischen der Kulmination 
 <@pagebreak/>
@@ -1064,7 +1064,7 @@ den Punkt der Ekliptik, in welchem sich die Sonne um diese Zeit befindet, und
 verfahre dann, wie vorhin. Auf diese Weise kann man auch die Tageszeit finden,
 an welcher ein Stern durch den Meridian geht. Ob diese vor oder nach Mittag,
 und der Stern westlich oder östlich von der Sonne ist, hängt davon ab, ob man
-den Bogen am Aequator von Osten nach Westen, oder von Westen nach Osten gezählt
+den Bogen am Äquator von Osten nach Westen, oder von Westen nach Osten gezählt
 hat.
 
 Die Kugel ruht gewöhnlich zur Hälfte auf einem kreisförmigen Gestelle, welches
@@ -1079,7 +1079,7 @@ diejenige Lage zum Horizont, welche die Himmelspole in Berlin haben, und lasse
 sie in dieser Stellung unbeweglich, drehe dann die Kugel so, daß der eine Stern
 im Meridiane steht, und dann wiederum nach der Ordnung der Zeichen bis der
 andre Stern im Horizonte ist. Der Bogen zwischen den Durchschnittspunkten des
-Meridians und des Aequators, der durch die kleine oben erwähnte 
+Meridians und des Äquators, der durch die kleine oben erwähnte 
 <@pagebreak/>
 Scheibe
 gefunden wird, gibt die Anzahl der zwischen beiden Erscheinungen verflossenen
@@ -1097,7 +1097,7 @@ Das einfachste Mittel aber, um, in Ermangelung mündlichen Unterrichts, den
 Himmel kennen zu lernen, und demjenigen ähnlich, durch welches wir die
 Erdoberfläche kennen lernen müssen, sind die Himmelskarten. Zwar kann man keine
 Kugeloberfläche genau auf Ebenen abzeichnen; allein durch verschiedene
-Einrichtungen hat man den Ueberblick, welchen die Karten gewähren, der Wahrheit
+Einrichtungen hat man den Überblick, welchen die Karten gewähren, der Wahrheit
 ähnlicher zu machen versucht. Wie in der Geographie hat man auch hier
 Generalkarten, die den ganzen Himmel in 2, 4 oder 6 Blättern enthalten, und
 Specialkarten, worauf einzelne Sternbilder gezeichnet sind. Bayer (1603), Hevel
@@ -1119,7 +1119,7 @@ Nacht vor Augen haben, sind also leicht zu lernen, und an sie können dann die
 Fuhrmann, Andromeda, der Schwan und Herkules bleiben größtentheils über dem
 Horizonte, dagegen geht ein gleich großer Theil des Himmels um den Südpol bei
 uns nicht auf. Der übrige Theil des Himmels geht täglich auf und täglich unter,
-und der 38° vom Nordpol oder 52° nördlich vom Aequator entfernte Kreis rückt
+und der 38° vom Nordpol oder 52° nördlich vom Äquator entfernte Kreis rückt
 jede 24 Stunden nach und nach durch unsren Zenith. Der Fixsternhimmel würde
 also, wenn die Sonne nicht durch ihren Glanz die Sterne verdunkelte, uns jeden
 Tag dasselbe Schauspiel gewähren, und sich uns in 24 St. in allen möglichen

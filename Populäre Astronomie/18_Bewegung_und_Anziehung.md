@@ -227,7 +227,7 @@ Bei einem kugelförmig gestalteten Körper vereinigt sich die Anziehung aller
 ihrer Theile auf die Art, daß die mittlere Richtung derselben (S. 344) durch
 den Mittelpunkt der Kugel geht; daher fallen auch alle Körper der Erdoberfläche
 nach ihrem Mittelpunkte, da die Abweichung wegen der elliptischen Gestalt der
-Erde unbedeutend ist. Uebrigens ist die Anziehung des ganzen Erdkörpers oder
+Erde unbedeutend ist. Übrigens ist die Anziehung des ganzen Erdkörpers oder
 die *Schwere* fast das einzige Beispiel der Massenanziehung, das wir innerhalb
 unsres Planeten wahrnehmen, aber auch ihr Einfluß wird in vielen Fällen
 verhindert oder 
@@ -413,7 +413,7 @@ Planeten die Sonne — entfernen würde, und diejenige, um welche er sich ihm
 nähern würde, wenn er sich durch seine Trägheit nicht immer wieder entfernte.
 Jenes Bestreben, sich zu entfernen, nennt man die *Flieh-* oder *Schwungkraft*
 (*Centrifugalkraft*), die Anziehung, in so fern man sie sich in einem Punkte
-koncentrirt denkt, die *Centripetalkraft*. Ueberwiegt diese, so nähert sich der
+koncentrirt denkt, die *Centripetalkraft*. Überwiegt diese, so nähert sich der
 Planet oder Komet der Sonne und der Trabant dem Planeten, z. B. in dem Aphel;
 überwiegt die Fliehkraft, so entfernen sie sich, wie in dem Perihel. Wären die
 Bahnen Kreise, so würden beide Bestrebungen einander beständig gleich und
@@ -426,7 +426,7 @@ der Planetenbahn umgekehrt wie die Quadrate der Entfernung der Planeten, ist
 also in der Sonnennähe stärker als in der Sonnenferne, und bei den entfernteren
 Planeten schwächer als bei den nähern. Auch die Trabanten der drei oberen
 Planeten folgen demselben Gesetze. Bei der Erde, wo nur ein Trabant ist, läßt
-sich zwar die Uebereinstimmung nicht auf diese Art nachweisen; aber hier finden
+sich zwar die Übereinstimmung nicht auf diese Art nachweisen; aber hier finden
 wir die Schwere an der Erdoberfläche mit der Centripetalkraft der Erde auf den
 Mond übereinstimmend. An der Oberfläche der Erde, d. h.
 <@pagebreak/>
@@ -439,7 +439,7 @@ Wenn wir nun auch noch über den Ursprung der Bewegungen der Himmelskörper im
 Dunklen bleiben, so können wir uns doch jetzt einige Erscheinungen derselben
 sehr wohl erklären. Alle ​Himmelskörper ziehen einander an; aber wenn ihre
 Entfernung von einander zu groß, oder ihre Masse zu klein ist, so ist die
-Wirkung unbedeutend. So verhält sich's mit dem Einflusse entfernter Fixsterne
+Wirkung unbedeutend. So verhält sich’s mit dem Einflusse entfernter Fixsterne
 auf die einzelnen Planeten, so mit der wechselseitigen Anziehung der Planeten,
 die nur den schärfsten Beobachtungen merklich ist. Allein wenn die Masse der
 Körper und ihre Nähe zu einander groß genug ist, so kann der kleinere zu einer
@@ -495,14 +495,14 @@ eben so wohl statt finden, wie bei der Bewegung der Erde und der drei oberen
 Planeten um die Sonne, wodurch die Umläufe der Trabanten nicht beeinträchtigt
 werden.
 
-Auf diese Weise ist's auch erklärlich, wie bei der so mächtigen Anziehungskraft
+Auf diese Weise ist’s auch erklärlich, wie bei der so mächtigen Anziehungskraft
 die Welt noch bestehn kann, und die Himmelskörper nicht schon längst in
 einander gestürzt sind. Hier erklärt das Beharrungsvermögen das Räthsel.
 Schwieriger noch ist für die Atomisten, daß die kleinen Moleküle, welche die
 Bestandtheile aller Körper bilden, sich nicht einander nähern und der Körper
-immer dichter wird. Hier ist's, nach ihnen, die Wärme, welche den Zwischenraum
+immer dichter wird. Hier ist’s, nach ihnen, die Wärme, welche den Zwischenraum
 zwischen den Molekülen einnimmt. Wir, die keine Molekülen kennen, bedürfen auch
-jenes Hilfsmittels nicht; wahr ist's aber, daß die Ausdehnung der Körper durch
+jenes Hilfsmittels nicht; wahr ist’s aber, daß die Ausdehnung der Körper durch
 die Verdampfung vermittelt wird.
 
 Das Spiel der Anziehungs- und Schwungkräfte ist aber nicht bloß auf die Umläufe
@@ -527,26 +527,26 @@ Centripetalkraft überwogen. Bei der Erde z. B. streben die Theile, sich durch
 ihre Fliehkraft mit einer Geschwindigkeit von etwa sieben Linien in der Sekunde
 oder 1/239 der Beschleunigung der Schwere zu entfernen. Diese überwiegt daher
 bei weitem, und jeder Körper fällt dem Mittelpunkte der Erde zu. Ganz ohne
-Wirkung ist diese Fliehkraft jedoch nicht; denn die Körper am Aequator drücken
+Wirkung ist diese Fliehkraft jedoch nicht; denn die Körper am Äquator drücken
 nicht mehr mit der ganzen Stärke, die sie durch die bloße Schwere haben
 würden, sondern nur 288/289 davon: der Unterschied wird in den höheren Breiten,
 wo die Geschwindigkeit der Achsendrehung, und daher die Fliehkraft
 unbedeutender wird, kleiner, und an den Polen selbst, wo weder Achsendrehung
 noch Fliehkraft ist, wirkt die Schwere mit ihrer ganzen Stärke. An den Polen
 wäre also, wenn die Erde eine vollkommne Kugel wäre, ein stärkerer Druck als am
-Aequator: eine flüssige Masse ist aber nur dann im Gleichgewicht, wenn 
+Äquator: eine flüssige Masse ist aber nur dann im Gleichgewicht, wenn 
 <@pagebreak/>
 überall
 gleicher Druck ist, nach denselben Gesetzen, wie in zusammenhängenden mit
-Flüssigkeit gefüllten Röhren, hebt sich die Erde am Aequator und senkt sich an
+Flüssigkeit gefüllten Röhren, hebt sich die Erde am Äquator und senkt sich an
 den Polen; sie hört auf kugelförmig zu sein, und nimmt die Gestalt eines an den
-Polen abgeplatteten Sphäroids an (S. 106.). Aehnliches findet bei den übrigen
+Polen abgeplatteten Sphäroids an (S. 106.). Ähnliches findet bei den übrigen
 Himmelskörpern statt. Wir haben zwar hierbei angenommen, daß die Erde flüssig
 sei; wenn sie es indeß jetzt auch nicht mehr ist, so war sie es doch, wie die
 ganze Beschaffenheit ihrer Oberfläche zeigt, früherhin. Sie konnte daher, ehe
 sie erstarrte, die ihrem Gleichgewichte angemessene Gestalt annehmen. Wäre
 dieses nicht der Fall, so würden die Polarmeere sich bald meilenhoch über die
-Aequatorregion ergießen. Die kleinen Unebenheiten der Erdoberfläche, welche
+Äquatorregion ergießen. Die kleinen Unebenheiten der Erdoberfläche, welche
 örtlichen Ursachen ihren Ursprung verdanken, verdienen hier keine
 Berücksichtigung.
 
@@ -567,7 +567,7 @@ Die merkwürdigsten
 Erscheinungen möchte sie wol bei Kometen hervorbringen, wenn bei ihnen
 überhaupt Achsendrehung statt findet. Bei ihnen ist nämlich die Masse so gering
 und die Ausdehnung so groß, daß eine sehr starke Abplattung statt finden muß;
-doch kann das Verhältnis, der Größe der Achse zu den Durchmessern am Aequator
+doch kann das Verhältnis, der Größe der Achse zu den Durchmessern am Äquator
 nie kleiner werden, als 1:2; bei einer noch stärkern Umdrehung würden die
 Körper zerstieben.
 
@@ -597,7 +597,7 @@ ohne zurückzufallen. Wenn nun der ausgedehnte Körper sich durch Erkältung, di
 durch irgend eine chemische Operation entstehen kann, wieder zusammenzieht, so
 wird zwar das Innere auf einen kleinern Raum beschränkt werden, auch wird die
 von der Schwungkraft nicht sehr bewegte Masse vermöge der Schwere zurückfallen,
-aber die dem Aequator nahen Theile können, da sie keine Schwere haben, auch
+aber die dem Äquator nahen Theile können, da sie keine Schwere haben, auch
 nicht fallen und bleiben als dünner Ring zurück, wogegen sich die Polargegenden
 mit dem Hauptkörper vereinigen. Wir können hier nicht die Umstände aufzählen,
 welche eine solche Erscheinung veranlassen und ihr folgen, noch die Einflüsse
@@ -605,7 +605,7 @@ angeben, die der Planet auf die Bildung des Ringes, und umgekehrt, ausgeübt hat
 — dieß vermag man nur durch die Hilfe einer sehr mühsamen Berechnung —; aber es
 ist klar, daß auf die angegebene Weise einer und mehr Ringe gebildet werden
 können. Beim Saturn (S. 233.), und vielleicht beim Uranus, finden wir diese
-Erscheinungen verwirklicht; da der Ring in der Ebene des Aequators ist, so hat
+Erscheinungen verwirklicht; da der Ring in der Ebene des Äquators ist, so hat
 dieser seine Lage seit der Bildung des Ringes nicht geändert. Fände man beim
 Uranus das Gegentheil, so würden wir berechtigt sein auf große Revolutionen in
 seinem Innern zu schließen. Wenn sich Herschels Annahme über die Rotationszeit
@@ -620,7 +620,7 @@ Diese Ringbildung ist jedoch nicht die nothwendige
 Folge einer solchen Zusammenziehung. War die vom Hauptkörper getrennte
 Masse des Ringes nicht gleichförmig — wie es auch in der That beim Saturn statt
 findet — sondern war auf einem oder mehreren Theilen derselben die Masse sehr
-gehäuft, so ballte sich wol auch ein großer Theil des Uebrigen zu einer Kugel
+gehäuft, so ballte sich wol auch ein großer Theil des Übrigen zu einer Kugel
 und statt eines Ringes bildeten sich einer oder mehrere Nebenkörper. War es
 eine Sonne, die diese Revolutionen erlitt, so bildeten sich Planeten, waren es
 diese, so bildeten sich Trabanten. Auf diese Weise suchte wenigstens Laplace
@@ -628,7 +628,7 @@ den Ursprung dieser Körper zu erklären, und wenn auch vielleicht die Gesetze
 der Schwere, wodurch ein größerer Körper einen kleinern an sich fesselt, die
 Bewegung kleinerer Körper um größere auf eine weit einfachere Weise erklären,
 so spricht das merkwürdige Phänomen, daß die Trabanten- und Planetenbahnen sich
-nie weit von dem Aequator des Hauptkörpers entfernen, für jene Hypothese.
+nie weit von dem Äquator des Hauptkörpers entfernen, für jene Hypothese.
 
 Die Achsendrehung sowohl als die elliptische oder Kreisbewegung wird durch die
 Vereinigung des Beharrungsvermögens mit der Anziehungskraft hervorgebracht, und
@@ -790,7 +790,7 @@ dagegen stehn uns noch andre Mittel zu Gebote. Das einfachste ist, die Zeit zu
 beobachten, in welcher ein von einem erhöhten Standpunkte herabfallender Körper
 durch eine bekannte Strecke fällt. Durch Berechnung kann man alsdann leicht die
 Beschleunigung finden, aber der Widerstand und die Bewegungen der Luft, so wie
-die Schwierigkeit, Oerter aufzufinden, von denen ein Körper tief genug in der
+die Schwierigkeit, Örter aufzufinden, von denen ein Körper tief genug in der
 senkrechten Richtung hinabfallen kann, gewähren dieser Methode die Genauigkeit
 nicht, die man durch das *Pendel* (S. 107.) erlangt. Dieses wollen wir hier
 vorläufig als eine leichte freischwebende Stange ansehen, an deren unterem Ende
@@ -834,10 +834,10 @@ welche in ihren Wasser- und Sanduhren nur ein sehr unvollkommnes Zeitmaß besaß
 Das Pendel ist ein Hauptmittel geworden, die Gestalt der Erdoberfläche, oder
 vielmehr die Stärke (Intensität) der Schwere an jedem Orte, kennen zu lernen.
 Ein Sekundenpendel, das in Paris 3600 Schwingungen in der Stunde machte, machte
-an dem Aequator bedeutend weniger, es mußte dort verkürzt werden, als es auch
+an dem Äquator bedeutend weniger, es mußte dort verkürzt werden, als es auch
 die Sekunden richtig angeben sollte, dagegen bewegt es sich in Lappland noch
 rascher als in Paris, wo also das Sekundenpendel kürzer als im hohen Norden
-ist; am längsten ist es also am Pol, am kürzesten am Aequator; oder die
+ist; am längsten ist es also am Pol, am kürzesten am Äquator; oder die
 Anziehung der Schwere ist dort am stärksten, hier am schwächsten, eine
 Bestätigung der oben entwickelten Theorie. Die genauen Pendelbeobachtungen, die
 man in Verbindung mit Gradmessungen in verschiedenen Ländern angestellt hat,
@@ -894,7 +894,7 @@ eine lange, sehr bewegliche, horizontal liegende Stange zwang (eine Art Pendel,
 worauf die Erdschwere keinen Einfluß übte). Eine, auf diese sehr sorgfältig
 angestellten Versuche, deren genauere Beschreibung aber unsrem Plane nicht
 angemessen sein würde, begründete Rechnung gab die Dichte der Erde 4,5, welches
-wenig von Maskelyne's Beobachtungen abweicht.
+wenig von Maskelyne’s Beobachtungen abweicht.
 
 Der Körper der Erdrinde, wenn wir auch die Atmosphäre nicht berücksichtigen
 wollen, sind aber weniger dicht als die gesammte Erde, die Hauptmasse derselben

@@ -15,7 +15,7 @@ verschiedensten Bahnen umlaufen: es sind die *Kometen*.
 Jeder Körper, welcher der Anziehungskraft der Sonne gehorcht, bewegt sich in
 einer Ellipse, Parabel oder Hyperbel (S. 59.) um die Sonne, die sich in einem
 der Brennpunkte dieser Linien befindet. Die letzteren beiden dehnen ihre Arme
-in's Unendliche aus und kehren nie wieder zur Sonne zurück, wenn sie einmal von
+in’s Unendliche aus und kehren nie wieder zur Sonne zurück, wenn sie einmal von
 ihr gewichen sind; sie entfernen sich alsdann immer weiter von ihr, bis sie in
 den Bereich eines andren, sie stärker als die Sonne anziehenden Himmelskörpers
 gelangen und ihre Bewegung andren Gesetzen gehorcht. Ob es solche Körper gebe,
@@ -64,14 +64,14 @@ bewahrt ist, ist der von 1682. Halley verglich den der Beobachtung
 unterworfenen Theil seiner Bahn mit dem Kometen von 1607, fand die Gleichheit
 beider, berechnete seine Umlaufszeit auf 75½ Jahre und sagte sein
 Wiedererscheinen auf das Jahr 1759 voraus. Durch seine Wiederkehr wurde
-Halley's-Theorie bestätigt; er war auch schon 1456 und 1531 beobachtet und wird
+Halley’s-Theorie bestätigt; er war auch schon 1456 und 1531 beobachtet und wird
 1835 von Neuem sichtbar sein.
 
 Ein für die Theorie vorzüglich wichtiger Komet ist der von Halley und Newton
 berechnete große Komet von 1680. Seine Umlaufszeit scheint 575 Jahre zu
 betragen. Er war, wenn man Whistons Rechnungen trauen darf, Zeuge der Sündfluth
-und der ogygischen Ueberschwemmung, des trojanischen Krieges, der Zerstörung
-Ninive's, erschien beim Begräbniß Julius Cäsars, um dessen Seele zum Olymp zu
+und der ogygischen Überschwemmung, des trojanischen Krieges, der Zerstörung
+Ninive’s, erschien beim Begräbniß Julius Cäsars, um dessen Seele zum Olymp zu
 führen, und erhielt dafür Tempel und den Namen des *Julischen Gestirns*. In der
 für viele Völker unglücksvollen Zeit Kaiser Justinians und im Anfange der
 Kreuzzüge erschien er wieder, und 2255 
@@ -164,7 +164,7 @@ größten ist, und vorzüglich von seiner Nähe und Lage zur Erde ab. Zuweilen
 kommen sie der Erde sehr nahe. Der Komet von 1680 *soll* sich nach Whiston der
 Erde, zur Zeit der Sündfluth, bis auf 96000 Meilen genähert haben und 1440 hat
 ein andrer den Mond verdunkelt, ist also zwischen Erde und Mond durchgegangen.
-Ueberhaupt kann jeder Komet, dessen Perihelium innerhalb und dessen Aphelium
+Überhaupt kann jeder Komet, dessen Perihelium innerhalb und dessen Aphelium
 außerhalb der Erdbahn fällt, der Erde sehr nahe kommen, ja sie sogar berühren.
 
 Die ganze Lehre von den Kometenbahnen ist übrigens noch in ihrer Kindheit, und
@@ -241,7 +241,7 @@ Durchmesser der Sonne zugekehrt ist, ähnlich dem muthmaßlichen Verhältnisse d
 Mondes zur Erde (S. 208.); z. B. bei dem Kometen des Jahrs 1744 verhielten sich
 die beiden Durchmesser wie 3:2. Die *Größe* der Scheibe ist sehr verschieden,
 zuweilen von der scheinbaren Größe der Sonne und des Mondes, wie in den Jahren
-146 v. Chr., 59 (zu Nero's Zeiten), 1006 und 1652 nach Chr., zuweilen nur durch
+146 v. Chr., 59 (zu Nero’s Zeiten), 1006 und 1652 nach Chr., zuweilen nur durch
 die schärfsten Fernröhre zu erkennen. Indeß sind die Messungen ihrer
 scheinbaren Größen sehr unzuverlässig. Die Atmosphäre ist nicht scharf genug
 begrenzt, daß man sie als Grundlage der Messung betrachten könnte, und die
@@ -282,7 +282,7 @@ Eine sehr merkwürdige Erscheinung bot der Komet von 1618 dar. Er erschien
 nämlich anfangs mit gleichförmiger Oberfläche, bald wurde er aber dunkler und
 löste sich in einen Haufen Sterne auf, wovon vorzüglich drei sich durch ihren
 Glanz auszeichneten. Seine Farbe war nach Kepler wie fließendes Gold, in
-Konstantinopel blutroth. Aehnliches sah Hevel im J. 1661. Die Ursache dieser
+Konstantinopel blutroth. Ähnliches sah Hevel im J. 1661. Die Ursache dieser
 Phänomene ist bis jetzt völlig dunkel; vielleicht gehören sie zu den später zu
 behandelnden Meteorsteinen.
 
@@ -304,7 +304,7 @@ Kometen haben, geht den Planeten völlig ab. Der Kopf des Kometen ist noch von
 lockeren haarigen Dünsten umgeben, die ihn sehr zu vergrößern scheinen. Es
 hatte z. B. der Kern des Kometen von 1807 einen Durchmesser von etwa 1½" oder
 172 Meilen, die Atmosphäre 45", aber mit dem Haare betrug der Durchmesser der
-Scheibe 6', also acht mal so viel, wie ohne dasselbe. Dieses bildet nun
+Scheibe 6’, also acht mal so viel, wie ohne dasselbe. Dieses bildet nun
 gewöhnlich die Grundlage eines Kegels, der sich von dem Kometen nach der der
 Sonne entgegengesetzten Seite erstreckt. Die Dunstmasse dieses Kegels oder
 *Schweifes* scheint sich allmälig in dem Raume zu verlieren; er hört nur dann
@@ -358,7 +358,7 @@ Umläufen noch ausgezeichneter sein. Der Komet von 1682 erregte wegen seiner
 Größe die Aufmerksamkeit aller damaligen Astronomen, war aber schweiflos.
 Halley sagte seine Wiederkehr auf das Jahr 1759 voraus; aber seine Gestalt
 hatte sich um diese Zeit so sehr verändert, und er hatte an seiner Größe so
-viel verloren, daß er nur durch die Uebereinstimmung seiner Bahn (S. 317.)
+viel verloren, daß er nur durch die Übereinstimmung seiner Bahn (S. 317.)
 wiedererkannt werden konnte. Eben so unbedeutend war er auch 1531, aber 1456
 hatte er einen Schweif von 60° Länge. Vielleicht ist der Wechsel der
 Lichtstärke periodisch.
@@ -371,8 +371,8 @@ Grenze, beugt die Spitze, wenn der Körper bewegt wird, zurück und kann
 durch verschiedene Umstände alle Gestalten annehmen, die man bei den
 Kometenschweifen bemerkt hat. Wir dürfen aber nicht 
 <@pagebreak/>
-aus der Aehnlichkeit der
-Erscheinungen auf die Aehnlichkeit der Ursachen schließen. Die Ursache, welche
+aus der Ähnlichkeit der
+Erscheinungen auf die Ähnlichkeit der Ursachen schließen. Die Ursache, welche
 die Flamme in die Höhe treibt, die Leichtigkeit des brennenden Gases, findet
 bei den Kometen nicht statt, wo vielmehr der Stoff des Schweifes noch immer
 schwerer ist, als der im Weltraum verbreitete Aether, wenn man dessen Dasein
@@ -380,9 +380,9 @@ auch zugeben will. Vielleicht ist folgende Ansicht nicht sehr von der Wahrheit
 entfernt. Der Komet, in seiner Entfernung von der Sonne ein fester (vielleicht
 metallischer) Körper, wie die Planeten, wird in der Nähe derselben, durch die
 verhältnißmäßig starke Hitze, an seiner Oberfläche größtentheils in Dampf
-verwandelt, der sich, vermöge seiner Elasticitat, nach allen Seiten
+verwandelt, der sich, vermöge seiner Elasticität, nach allen Seiten
 gleichförmig verbreitet, aber wegen seiner großen Ausdehnung fast ohne Einfluß
-auf das Licht, und daher unsichtbar ist. Aehnliche Ursachen, wie diejenigen,
+auf das Licht, und daher unsichtbar ist. Ähnliche Ursachen, wie diejenigen,
 welche die Ebbe und Fluth (S. 209.) hervorbringen, werden diesen Dampf
 vorzüglich an den beiden von der Sonne ab- und ihr zugekehrten Richtungen
 ausdehnen. Aber an der von der Sonne abgewendeten Seite findet der Dampf nicht
@@ -398,7 +398,7 @@ so bewegt sich dieser weniger langsam, und erscheint deshalb zurückgebogen. Ist
 die Bewegung 
 <@pagebreak/>
 stark, so bildet sich wol ein neuer Schweif. Auch die übrigen
-Aenderungen der Gestalt können bei einem von so heftigen Revolutionen
+Änderungen der Gestalt können bei einem von so heftigen Revolutionen
 durchwühlten Körper, wie der Komet in seiner Sonnennähe ist, nicht befremden.
 Eine starke Strömung von warmen Gase kann z. B. den Nebel zum Theil wieder in
 Dampf verwandeln, und so das Fächerförmige, Gespaltene des Schweifes
@@ -420,7 +420,7 @@ mag sich die Masse der Kometen vorzüglich an der der Sonne zugekehrten Seite
 anhäufen, und die durch den Unterschied der Anziehung veranlaßte atmosphärische
 Fluth, auf der der Sonne abgekehrten Seite am stärksten sein. Diese
 Achsendrehung ist also der Schweifbildung sehr günstig. Dasselbe findet statt,
-wenn, wie wahrscheinlich bei Uranus, der Aequator senkrecht auf der von der
+wenn, wie wahrscheinlich bei Uranus, der Äquator senkrecht auf der von der
 Sonne zum Kometen 
 <@pagebreak/>
 gezogenen Linie, dem Radius Vektor, steht. Wenn aber, wie
@@ -460,7 +460,7 @@ Körpers, in dem er sich bewegt, vereinigen sich also, um seine elliptische
 Bewegung zu vermindern und seine Bahn sowohl der Kreisform als der Sonne zu
 nähern, in welche er sich also, wenn kein andrer Umstand diesen Ursachen
 entgegenwirkt, endlich stürzen wird. Wenn die Atmosphäre der Sonne in der
-Richtung ihres Aequators sehr ausgedehnt ist, wie es aus den Erscheinungen des
+Richtung ihres Äquators sehr ausgedehnt ist, wie es aus den Erscheinungen des
 Zodiakallichts zu folgen scheint, so werden die Kometen aus Ähnlichen Ursachen
 sich immer mehr dieser Ebene nähern; aber hier stoßen sie auf neue Feinde.
 Wenn nämlich ihre Excentricität größer als die der Planeten ist, und ihre Bahn
@@ -484,7 +484,7 @@ nicht.
 
 In dem Aberglauben der Völker aller Zeiten und Länder haben die Kometen eine
 Hauptrolle gespielt. Gewöhnlich waren sie Unglücksverkünder, zuweilen auch das
-Gegentheil. Im Jahre 59 nach Chr. deutete ein Komet auf Nero's Tod, also auf
+Gegentheil. Im Jahre 59 nach Chr. deutete ein Komet auf Nero’s Tod, also auf
 ein glückliches Ereigniß; bei Mithridats Geburt auf Unglück; bei Cäsars Tode
 war er ein Zeichen, daß Cäsar unter die Götter aufgenommen sei. 1337 wurde ein
 Pfauenschwanz (Komet) am Himmel gesehn, der auf den Zwist zwischen Pabst und
@@ -515,7 +515,7 @@ Unterschiede bemerkt, denn auch auf den Fall der Meteorsteine und auf Ebbe und
 Fluth ist *bis jetzt* jeder Komet ohne Wirkung geblieben. Daß es einmal geschehen
 könne, läßt sich nicht läugnen, denn der Komet von 1770 kam der Erde fast so
 nahe als der Mond, und würde, wenn er eben so viel Masse gehabt hätte, als sie,
-das Jahr um zwei Stunden 47'33" verlängert haben, oder wenn er nur 1/5000
+das Jahr um zwei Stunden 47’33" verlängert haben, oder wenn er nur 1/5000
 derselben gehabt hätte, um 3½"; aber es ist gar keine Veränderung eingetreten.
 Auch im Jupiterssystem, das er auf seiner Bahn durchschnitten hat, ist durch
 seine Anwesenheit nichts verändert worden, ja es ist sogar möglich, daß ihn
@@ -568,7 +568,7 @@ erreichen aber auch, nach Benzenberg, eine Höhe von 22, ja 40 deutschen Meilen.
 Ihre Anzahl ist in verschiedenen Ländern und Zeiten verschieden, und scheint
 von denselben Umständen abzuhängen wie die Anzahl der sichtbaren Sterne. In
 unsren Klimaten sieht man zuweilen in einer Nacht mehrere Tausende; in
-den Aequinoktialländern und bei wolkenfreiem Himmel ist ihre Anzahl noch größer,
+den Äquinoktialländern und bei wolkenfreiem Himmel ist ihre Anzahl noch größer,
 und dieses scheint in noch höherem Grade in *den* Ländern der Fall zu sein, wo
 durch die Ausdünstungen der Vulkane die oberen Schichten der Luft wärmer und
 verdünnter sind. Unter diesen günstigen Umständen lassen sie wol auf ihrer Bahn
@@ -633,7 +633,7 @@ schlug sich der Wasserdampf als Eis auf sie nieder.
 Der Ursprung aller dieser Körper ist noch jetzt unentschieden. Wenn wir auch die
 schleimigen Massen für Erzeugnisse unsrer Atmosphäre halten wollten, so
 verrathen doch die Bestandtheile der Meteorsteine eine fremde Welt. Zwar haben
-sie zuweilen einige Aehnlichkeit mit den vulkanischen Auswürflingen unsrer
+sie zuweilen einige Ähnlichkeit mit den vulkanischen Auswürflingen unsrer
 Erde, aber ihre große Masse und Dichtigkeit, und die bedeutende Entfernung, in
 der sie sich von 
 <@pagebreak/>

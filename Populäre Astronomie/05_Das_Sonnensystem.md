@@ -16,7 +16,7 @@ beobachten. Um das Sonnensystem mit einem Blicke zu übersehen, müssen wir es
 von der Sonne aus betrachten. Zwar mußte der Erdbewohner alle Bewegungen der
 Sternenwelt, wie sie sich ihm darstellen, genau kennen, ehe er sich auf einen
 andren Himmelskörper versetzen konnte; aber wir wollen dem Astronomen auf
-seinem rauhen Pfade nicht folgen, und da uns die Sonne eine bessere Uebersicht
+seinem rauhen Pfade nicht folgen, und da uns die Sonne eine bessere Übersicht
 gewährt, so wollen wir sie während dieser Vorlesung zu unserm Standpunkte
 wählen, und erst späterhin wieder zur Erde zurückkehren.
 
@@ -71,7 +71,7 @@ Die vierte und zahlreichste Klasse machen die *Kometen* aus. Sie bewegen sich
 in sehr länglichen Bahnen in allen Richtungen um die Sonne; ihre Perioden
 umfassen oft Jahrhunderte, und wenn man aus dem, nach Kometen genauer
 durchsuchten Theile des Himmels, und aus der Zeit, in welcher sie beobachtet
-werden konnten, auf ihre Anzahl schließen darf; so gibt's ihrer mehr als eine
+werden konnten, auf ihre Anzahl schließen darf; so gibt’s ihrer mehr als eine
 Million. Selten nur ist ihre Lage zur Erde günstig genug, um am Himmel eine
 auffallende Erscheinung darzubieten; in diesem Falle waren sie aber lange ein
 Gegenstand abergläubischer Besorgniß.
@@ -92,7 +92,7 @@ Kreisen rollten; selbst Kopernikus große Entdeckung vereinfachte die
 Himmelsbewegungen nur wenig, bis endlich Kepler, nach vieljährigem vergeblichen
 Bemühen, den Schatz von eigenen und fremden Erfahrungen, den er vor sich hatte,
 durch gleichförmige Kreisbewegungen zu erklären, im J. 1618, einem in der
-Geschichte Europa's sonst berüchtigten Zeitpunkte, auf den Gedanken kam, die
+Geschichte Europa’s sonst berüchtigten Zeitpunkte, auf den Gedanken kam, die
 Bahn der Planeten mit der Ellipse zu vergleichen, und die folgenden
 Erfahrungen, unter dem Namen der drei *keplerschen Gesetze* bekannt, sind die
 Früchte 30 jährigen Fleißes.
@@ -119,7 +119,7 @@ werden können, zeigt, sobald er abgestumpft wird, eine Ellipse, durch gerade
 Abstumpfung einen Kreis, der also nur die einfachste Art der Ellipsen ist.
 Durch andre Schnitte des Kegels entstehn die Parabel und Hyperbel, beides ihre
 Arme ins Unendliche erstreckende krumme Linien. Die merkwürdigste Eigenschaft
-der letzten ist, daß sie sich in's Unendliche zweien geraden Linien nähern,
+der letzten ist, daß sie sich in’s Unendliche zweien geraden Linien nähern,
 ohne sie je zu erreichen.
 
 Von diesen drei Linien ist für uns die Ellipse am wichtigsten, weil sich in ihr
@@ -225,9 +225,9 @@ Aristoteles, Kopernikus und Kepler ein helleres Licht, wenn sie den nur durch
 Gewohnheit uns minder wunderbaren Fall der Körper betrachteten, wobei, wie bei
 den Himmelskörpern, ohne sichtbaren Stoß eine Annäherung Statt findet. Aber die
 allgemeine Verbreitung dieser Anziehung gezeigt und ihre Gesetze zuerst
-entwickelt zu haben, ist *Newton's* ausschließliches Verdienst.
+entwickelt zu haben, ist *Newton’s* ausschließliches Verdienst.
 
-Ueberrascht von der Ordnung und Einfachheit, die er in der Planetenwelt zu
+Überrascht von der Ordnung und Einfachheit, die er in der Planetenwelt zu
 erblicken glaubte, ihre mathematischen und physischen Ursachen nicht kennend,
 und auch in mystischen Ideen befangen, hielt Kepler die Ordnung selbst für das
 Princip der Himmelserscheinungen, und suchte nun auch in der Entfernung der
@@ -313,8 +313,8 @@ unbekannt; vielleicht wiederholen sich in diesem
 Mikrokosmus des Weltsystems noch einige Erscheinungen,
 die wir unter den Fixsternen bemerken, z. B. daß
 zwei oder mehrere Körper von fast gleicher Größe sich
-um einen gemeinschaftlichen Punkt -- den Schwerpunkt
--- bewegen; oder es finden sich vielleicht Planeten,
+um einen gemeinschaftlichen Punkt — den Schwerpunkt
+— bewegen; oder es finden sich vielleicht Planeten,
 die, wie die Sonne, von Kometen umkreist
 werden. Auf keinen Fall ist jener Raum unnütz verschwendet;
 denn wenn auch nicht Millionen Kometen
@@ -413,7 +413,7 @@ Alle diese Fragen zerfallen in zwei Hauptabtheilungen, solche, die sich aus die
 Lage des Körpers im Weltsystem oder seine Bewegung beziehen, und solche,
 wodurch er sich als Individuum von den übrigen Himmelskörpern unterscheidet, z.
 B. Größe, Achsendrehung. An diese reihet sich die Frage, in wiefern jene
-Gegenstände Aenderungen unterworfen sind. Diese scheinen vorzüglich bei der
+Gegenstände Änderungen unterworfen sind. Diese scheinen vorzüglich bei der
 ersten Abtheilung statt zu finden; sie bestehn indeß größtentheils in nicht
 sehr ausgedehnten Schwankungen. In der zweiten Abtheilung ist uns bis jetzt
 keine Veränderung merklich, ob man aber dieses noch nach Jahrtausenden wird

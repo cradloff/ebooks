@@ -9,7 +9,7 @@ Der Mond und die Trabanten.
 Kein Himmelskörper ist uns seiner eigenthümlichen Beschaffenheit nach so genau
 bekannt wie der Mond. Sein Durchmesser von 480 Meilen erscheint uns fast einen
 Fuß, und eine Linie von 40 Meilen einen Zoll groß. Mit einem guten Fernrohre
-ist eine Strecke von 1000' noch deutlich zu erkennen; ja selbst viel kleinere,
+ist eine Strecke von 1000’ noch deutlich zu erkennen; ja selbst viel kleinere,
 durch Glanz oder Farbe ausgezeichnete Stellen sind uns auf der uns zugekehrten
 Mondscheibe sichtbar, und keine bedeutende Veränderung in der Lage eines
 größern Fleckens hätte uns entgehen können. Aber die Lage der Flecken auf der
@@ -32,9 +32,9 @@ der Sonne, allmälig alle ihre Seiten zuwenden, so wie es die Erde und alle
 tritt aber hierbei die sehr merkwürdige Erscheinung ein, daß die
 Achsendrehungszeit des Mondes genau seiner Umlaufszeit um die Erde gleichkommt,
 also etwa 27 Tage dauert. Wie bei den Planeten heißen die beiden unbeweglichen
-Punkte der Oberfläche (S. 260) die Pole, zwischen beiden ist der *Aequator*,
+Punkte der Oberfläche (S. 260) die Pole, zwischen beiden ist der *Äquator*,
 der den Mond in eine *nördliche* und eine *südliche Halbkugel* theilt, und zum
-*ersten Meridian* wird am passendsten der auf dem Aequator senkrechte
+*ersten Meridian* wird am passendsten der auf dem Äquator senkrechte
 Durchmesser der uns sichtbaren Mondscheibe gewählt, von wo aus 90° nach Osten
 und 90° nach Westen gezählt werden.
 
@@ -67,7 +67,7 @@ um die Erde (S. 194) wird von der Achsendrehung getheilt.
 Durch verschiedene Ursachen wird uns im Norden oder Süden, im Osten oder Westen
 ein Theil der abgewendeten Mondscheibe zugekehrt, wobei zu gleicher Zeit immer
 ein eben so großer Theil der uns gewöhnlich zugekehrten Scheibe abgewendet
-wird. Da diese Aenderungen nur kurzen Perioden unterliegen, so nennt man sie
+wird. Da diese Änderungen nur kurzen Perioden unterliegen, so nennt man sie
 *Schwankungen*, und zwar, wenn sie den Norden oder Süden betreffen,
 *Schwankungen in der Breite*, und wenn sie den Osten oder Westen betreffen,
 *Schwankungen in der Länge*.
@@ -77,18 +77,18 @@ ist 5° zu ihm
 <@pagebreak/>
 geneigt (S. 194). Der Radius Vektor — so wollen wir die von dem
 Mittelpunkt der Erde nach dem des Mondes gezogene Linie nennen — trifft daher
-die Mondsoberfläche nicht immer im Aequator, sondern ist zuweilen 5¼ Mondsgrade
+die Mondsoberfläche nicht immer im Äquator, sondern ist zuweilen 5¼ Mondsgrade
 nördlich oder südlich davon entfernt. Ist nun jener Punkt, der Mittelpunkt der
-uns sichtbaren Mondscheibe, im Süden des Aequators, so sind alle Polarländer
-des Mondes innerhalb 5°15' vom Südpol sichtbar, dagegen eine eben so große
+uns sichtbaren Mondscheibe, im Süden des Äquators, so sind alle Polarländer
+des Mondes innerhalb 5°15’ vom Südpol sichtbar, dagegen eine eben so große
 Strecke um den Nordpol unsichtbar; das Entgegengesetzte findet statt, wenn
-jener Punkt nördlich vom Aequator liegt. Dieses ist die vornehmste *Schwankung
+jener Punkt nördlich vom Äquator liegt. Dieses ist die vornehmste *Schwankung
 in der Breite*.
 
 Die Durchschnittspunkte des Mondsäquators und der Mondsbahn haben trotz ihrer
 Bewegung die merkwürdige Eigenschaft, daß sie immer mit den
 Durchschnittspunkten der Ekliptik und der Mondsbahn zusammen fallen, oder mit
-andren Worten: die drei Kreise, die Ekliptik, die Bahn und der Aequator des
+andren Worten: die drei Kreise, die Ekliptik, die Bahn und der Äquator des
 Mondes, schneiden sich in *einer* geraden Linie.
 
 2\. Die Scheibe kann nur dann unverändert bleiben, wenn die Rotation des Mondes
@@ -113,19 +113,19 @@ weicht die Gesichtslinie von unsrem Auge aus mehr oder weniger von dem Radius
 Vektor ab.
 
 Die Bewohner des Nordpols der Erde sehn von dem Monde, wenn er sich über dem
-Aequator befindet, 1° mehr im Norden und 1° weniger im Süden. Aehnliches findet
+Äquator befindet, 1° mehr im Norden und 1° weniger im Süden. Ähnliches findet
 am Südpol der Erde statt. Nach den verschiedenen geographischen Breiten des
 Beobachtungsortes sind diese Werthe verschieden.
 
 4\. Durch die Größe der Erde wird auch ein ähnliches Schwanken in der Länge
-hervorgebracht. Ist der Mond im Zenith des Aequators, so wird man bei seinem
+hervorgebracht. Ist der Mond im Zenith des Äquators, so wird man bei seinem
 Aufgange 1° mehr von seiner westlichen Seite, und bei seinem Untergange 1° mehr
 von seiner östlichen Seite erblicken, während ein eben so großer Theil an der
 entgegengesetzten Seite verborgen bleibt. Dieses ist die *tägliche Schwankung*,
 deren Größe von der Abweichung des Mondes, der Breite des Beobachtungsortes und
 dem Stande des Mondes auf seiner täglichen Bahn abhängt.
 
-Diese vier Schwankungen werden also nur durch die Lage des Mondaquators, die
+Diese vier Schwankungen werden also nur durch die Lage des Mondäquators, die
 fortschreitende Bewegung des Mondes, die Abweichung des Mondes und des
 Beobachtungsortes vom Erdäquator und die Achsendrehung der Erde veranlaßt, es
 sind nur *optische* Schwankungen; eine wirkliche *physische*, die abwechselnd
@@ -183,10 +183,10 @@ scheinbare Größe der Trabanten von den Planeten aus; Durchmesser der Trabanten
 in deutschen Meilen.</caption>
 <tr><td colspan="2">Größe des Planeten</td><td colspan="2">Größe der Trabanten</td><td colspan="2">Durchmesser der Trabanten</td></tr>
 <tr><td>Erde.         </td><td>Saturn.    </td><td>Erde.      </td><td>Saturn.    </td><td>Erde.   </td><td>Saturn.  </td></tr>
-<tr><td>1°52'35"      </td><td>  I. 37°54'</td><td>31'26"5    </td><td>  I.  4' 4"</td><td>  480   </td><td>  I.  60?</td></tr>
+<tr><td>1°52’35"      </td><td>  I. 37°54’</td><td>31’26"5    </td><td>  I.  4’ 4"</td><td>  480   </td><td>  I.  60?</td></tr>
 <tr><td><hr/>         </td><td> II. 29 18 </td><td><hr/>      </td><td> II.  3  2 </td><td><hr/>   </td><td> II.  60?</td></tr>
 <tr><td>Jupiter.      </td><td>III. 23 36 </td><td>Jupiter.   </td><td>III. 10  8 </td><td>Jupiter.</td><td>III. 108 </td></tr>
-<tr><td>  I. 19°48'42"</td><td> IV. 18 22 </td><td>  I. 33'16"</td><td> IV.  7 12 </td><td>  I. 564</td><td> IV. 108 </td></tr>
+<tr><td>  I. 19°48’42"</td><td> IV. 18 22 </td><td>  I. 33’16"</td><td> IV.  7 12 </td><td>  I. 564</td><td> IV. 108 </td></tr>
 <tr><td> II. 12 24 51 </td><td>  V. 13  8 </td><td> II. 17 13 </td><td>  V. 13  9 </td><td> II. 465</td><td>  V. 263 </td></tr>
 <tr><td>III.  7 46 25 </td><td> VI.  5 39 </td><td>III. 18 59 </td><td> VI. 13 16 </td><td>III. 818</td><td> VI. 633 </td></tr>
 <tr><td> IV.  4 25  4 </td><td>VII.  1 57 </td><td> IV.  7 30 </td><td>VII.  4 35 </td><td> IV. 568</td><td>VII. 398</td></tr>
@@ -203,8 +203,8 @@ die übrigen Trabanten, ja sogar für den Mond, ist die Größe der Durchmesser
 noch nicht ganz genau bekannt.
 
 Nur bei der Erde scheinen Sonne und Mond von fast gleicher Größe am Himmel,
-beim Jupiter und Saturn, wo der scheinbare Durchmesser der Sonne 6'10" und
-3'22" beträgt, steht sie den meisten Trabanten weit nach, und nur ihr ungleich
+beim Jupiter und Saturn, wo der scheinbare Durchmesser der Sonne 6’10" und
+3’22" beträgt, steht sie den meisten Trabanten weit nach, und nur ihr ungleich
 höherer Glanz und ihre immer runde Scheibe zeichnen sie von den Monden aus, die
 wie unser Mond bald sichelförmig, bald voll sind, aber in weit schnellerem
 Wechsel, weil ihre periodischen Umläufe größtentheils nur wenige Tage dauren.
@@ -220,13 +220,13 @@ des *Saturn*. Abgesehen von den sieben Trabanten, von denen die meisten die
 Sonne weit 
 <@pagebreak/>
 an Größe zu übertreffen scheinen, schlingt sich der breite,
-glänzende Ring um ihren Aequator. In den Polargegenden bis 64° Breite liegt er
+glänzende Ring um ihren Äquator. In den Polargegenden bis 64° Breite liegt er
 stets unter dem Horizonte, und ist nur von einem erhöhten Standpunkte aus
-sichtbar; wenn man sich aber noch einige Grade dem Aequator nähert, so nimmt er
-am Himmelsäquator eine Breite von 13° ein. Kommt man dem Aequator noch näher,
-so wird der Winkel kleiner, und im Aequator selbst würde man ihn nur seiner
+sichtbar; wenn man sich aber noch einige Grade dem Äquator nähert, so nimmt er
+am Himmelsäquator eine Breite von 13° ein. Kommt man dem Äquator noch näher,
+so wird der Winkel kleiner, und im Äquator selbst würde man ihn nur seiner
 Dicke nach sehn können, wenn die Sonnenstrahlen auch die innere Oberfläche des
-Rings erreichen könnten. Ueberhaupt rauben verschiedene Ursachen den
+Rings erreichen könnten. Überhaupt rauben verschiedene Ursachen den
 Saturninern einen Theil des schönen Anblicks, der, wenn er statt findet,
 vielleicht zu theuer erkauft ist. Denn so lange die Sonne über der südlichen
 Saturnshalbkugel weilt, also 15 Jahre hindurch, steht die nördliche Seite des
@@ -236,7 +236,7 @@ Mondscheibe im Neumonde, verbreitet ist, sondern er verdeckt sogar die Sonne
 für einen großen Landstrich, der noch größer sein würde, wenn das Licht nicht
 durch den Zwischenraum der Ringe durchblickte, und durch die starke Atmosphäre
 des Planeten und, wie es scheint, auch der Ringe, weiter verbreitet würde.
-Aehnliches findet für die Südhalbkugel statt. Auch des Nachts ist der Ring
+Ähnliches findet für die Südhalbkugel statt. Auch des Nachts ist der Ring
 unsichtbar, und man sieht ihn fast nur im Sommer und am Tage, zu gleicher Zeit
 mit der Sonne, am Himmel, wo er also, durch den Sonnenglanz verdunkelt, nur
 ein sehr schwaches Licht, etwa wie unser Mond am Tage, haben kann.
@@ -246,7 +246,7 @@ diesen in einem weit größeren Maßstabe erwiedert. Der Mond, den
 <@pagebreak/>
 wir 30 Min.
 groß sehn, sieht die Erde als eine helle Scheibe von einem Durchmesser von
-1°53', also mit einer etwa 13 mal so großen Scheibe, als der Mond und die Sonne
+1°53’, also mit einer etwa 13 mal so großen Scheibe, als der Mond und die Sonne
 für uns haben, welche aber nicht einen Kreis um den Mond zu beschreiben
 scheint, sondern fast unbeweglich am Himmel ist. Da eine Linie von der Erde
 nach dem Mondsmittelpunkte die Mondsoberfläche fast immer in demselben Punkte
@@ -308,7 +308,7 @@ Die Sonne ist zwar in dem Neumonde etwas größer als in dem Vollmonde, aber der
 Unterschied beträgt nur etwa 1/200 der ganzen Entfernung; auch die scheinbare
 Geschwindigkeit der Sonne auf ihrer jährlichen Bahn ist nur kleinen
 Schwankungen unterworfen: aber sehr charakteristisch für den Mond ist die sehr
-geringe Neigung seines Aequators zur Ekliptik, die auch zugleich die Bahn des
+geringe Neigung seines Äquators zur Ekliptik, die auch zugleich die Bahn des
 Mondes um die Sonne ist. Da diese sich nur sehr wenig vom Mondsäquator
 entfernt, so ist der Unterschied der Jahrszeiten sehr gering; desto bedeutender
 aber ist der 15tägige Wechsel von Tag und Nacht. Der Sonnentag vertritt dort
@@ -317,9 +317,9 @@ Winter.
 
 Wie sich diese Erscheinungen bei den Trabanten der andren Planeten gestalten,
 ist uns bis jetzt unbekannt; sie unterscheiden sich zwar dadurch von dem Monde,
-daß ihre Bahn fast in dem Aequator des Hauptplaneten ist, und deshalb beim
+daß ihre Bahn fast in dem Äquator des Hauptplaneten ist, und deshalb beim
 Saturn und Uranus sehr von der Sonnenbahn derselben abweicht; aber die Lage
-ihres Aequators werden wir wol niemals kennen lernen. Die Planeten und die
+ihres Äquators werden wir wol niemals kennen lernen. Die Planeten und die
 übrigen Trabanten müssen ihnen einen überaus schönen Anblick gewähren. Jupiter
 zeigt sich dem ersten Trabanten 
 <@pagebreak/>
@@ -353,7 +353,7 @@ kleine Abweichungen, wie bei der Erde, dem Monde, Saturn, sind wahrscheinlich;
 können aber wegen der geringen Größe der Körper nicht beobachtet werden. Desto
 merkwürdiger ist die Ausnahme, welche die Saturnsringe machen. Wir haben ihre
 Gestalt schon oben (S. 233) angegeben. Sie erheben sich nur 57 Meilen auf
-beiden Seiten über den Aequator; der innere Ring, dessen Breite 3935 Meilen
+beiden Seiten über den Äquator; der innere Ring, dessen Breite 3935 Meilen
 beträgt, ist daher etwa 35 mal so breit als dick, und der äußere, 1339 Meilen
 breite, etwa 12 mal so breit, wodurch die Lichtmenge, die zwischen die Ringe
 kommen kann, größer ist; auch hat man zwar noch keinen Fixstern, jedoch schon
@@ -365,7 +365,7 @@ wol über 700 Meilen beträgt. Diese waren daher nicht sowohl als Berge, sondern
 als eingewachsene Weltkörper zu betrachten, die bloß ein günstiges Ereigniß
 erwarten um loszubrechen und als Trabanten um den Saturn zu kreisen, oder die
 früherhin Trabanten waren und nachher mit dem Ringe vereinigt worden sind.
-Ueberhaupt ist es möglich, und findet auch beinahe bei den vier Mittelplaneten
+Überhaupt ist es möglich, und findet auch beinahe bei den vier Mittelplaneten
 statt, daß zwei Körper fast in derselben Entfernung von ihrem Hauptkörper um
 ihn kreisen; jedoch würde dieses nur dann immer so bleiben können, wenn die
 Geschwindigkeit beider genau dieselbe wäre: wo dieses aber, wie es unendlich
@@ -426,7 +426,7 @@ verbessert werden können. Die beste Generalkarte des Mondes, die
 Gruithuisensche, liegt der diesem Werke beiliegenden Karte zum Grunde.
 
 Das Auge sieht nur eine Fläche, und man würde nimmermehr einen wirklichen
-Gegenstand von einem Gemälde unterscheiden, wenn man nicht durch's Gefühl die
+Gegenstand von einem Gemälde unterscheiden, wenn man nicht durch’s Gefühl die
 Gestalt unmittelbar prüfen, oder den 
 <@pagebreak/>
 Gegenstand von verschiedenen Seiten
@@ -469,7 +469,7 @@ allmälige Vorrücken der Lichtgrenze fast überall anwendbar, aber in den höhe
 Breiten des Mondes wird sie weniger genau, und die durchbrochene und unebene
 Lichtgrenze, die Schwierigkeit den ersten Sonnenstral, der den Berg erreicht,
 zu erhaschen, und mehrere andre Umstände machen sie nur für höhere
-Aequatorialberge anwendbar.
+Äquatorialberge anwendbar.
 
 Schröter, der fleißigste und genaueste Beobachter, den der Mond bis jetzt
 gefunden hat, maß daher die Höhe der Berge durch den Schatten. So wie man auf
@@ -510,7 +510,7 @@ Die Oberfläche unsres Mondes bietet, wie die unsrer Erde, eine Abwechselung von
 Berg und Thal, Hoch- und Tiefebenen dar; aber die Höhen zeigen sich selten als
 jene langen, sich verzweigenden Züge, oder 
 <@pagebreak/>
-Hochebenen (Plateau's), an deren
+Hochebenen (Plateau’s), an deren
 Grenzen sich Gebirge aufthürmen und sich stralenförmig in die benachbarten
 Länder erstrecken, wie wir sie meistentheils auf der Erde finden. Zwar giebt es
 einige hohe Gebirgszüge wie die *Mondsappenninen*, die sich zwischen 15° und
@@ -564,9 +564,9 @@ Tiefen können ihr
 Dasein nur einer Hebung oder Senkung des Bodens verdanken.
 
 Die ersten Beobachter erklärten sie unbedenklich für *Krater*, d. h. für
-Oeffnungen noch rauchender oder erloschener Vulkane, und die Wälle für die aus
+Öffnungen noch rauchender oder erloschener Vulkane, und die Wälle für die aus
 diesen Kratern ausgeworfenen Massen. Allein ein Krater, der einen Durchmesser
-von vielen Meilen hat — der des Aetna hat 4000 Fuß — möchte trotz der Gewalt
+von vielen Meilen hat — der des Ätna hat 4000 Fuß — möchte trotz der Gewalt
 des Feuers auf einem Körper wie der Mond unmöglich sein. Auch findet man in der
 Wölbung niemals ein noch fortdaurendes Feuer, sehr selten noch Spuren wirklich
 ausgeworfener Massen, und nur wo diese sich finden kann man auf wirkliche, den
@@ -592,7 +592,7 @@ Abgrunde schwebt, und sich nicht mehr halten kann, da es seines
 Gipfels beraubt ist, stürzt in die Tiefe zurück; nur die Seitentheile
 desselben, die auf der Mondsoberfläche stehn, können sich halten, die übrige,
 nicht gehörig gestützte Masse senkt sich allmälig in die vom Gas gebildete
-Höhle, bis die Ueberreste der Wölbung nach Außen und Innen gehörig abgedacht
+Höhle, bis die Überreste der Wölbung nach Außen und Innen gehörig abgedacht
 sind, und das Ganze einen gewissen Grad des Gleichgewichts erlangt hat; von der
 Wölbung ist alsdann nur jener Wall, und von den Gashöhlen nur die beckenförmige
 Vertiefung übrig geblieben. Daher auch Schröters Erfahrung, daß gewöhnlich die
@@ -606,8 +606,8 @@ Rande der Mondscheibe.
 
 An Ausdehnung stehn die Gasentbindungen der Erde denen des Mondes keinesweges
 nach, wenn wirklich die weitverbreiteten Vulkane der südöstlichen Inseln
-Asiens, die Vulkane Kamschatka's, Süditaliens, der Maskarenischen Inseln,
-Westindiens, Quito's oder Guatimala's u. m. a. alle nur auf gemeinschaftlichen
+Asiens, die Vulkane Kamschatka’s, Süditaliens, der Maskarenischen Inseln,
+Westindiens, Quito’s oder Guatimala’s u. m. a. alle nur auf gemeinschaftlichen
 Herden ruhen. Aber aus mehrern Ursachen bringen sie nicht *die* Erscheinungen
 hervor, welche wir auf dem Monde finden. Die äußere Atmosphäre der Erde setzt
 dem inneren Drucke ein mächtiges Hinderniß entgegen und raubt ihm einen großen
@@ -724,9 +724,9 @@ wenn die Sonne sich über ihren Horizont erhebt, also in ihrem Mittage oder
 Sommer; gegen Sonnenuntergang blassen sie ab.
 
 In noch höherem Grade findet dieser Farbenwechsel in einigen Stellen des Meeres
-der Krisen (_K_), Grimaldi's (23), Riccioli's (22) statt: beim Sonnenaufgange
+der Krisen (_K_), Grimaldi’s (23), Riccioli’s (22) statt: beim Sonnenaufgange
 blaß, werden sie immer dunkler je mehr die Sonne über ihren Horizont steigt; in
-den Aequatorgegenden geschieht dieses früher als in den nördlichen oder
+den Äquatorgegenden geschieht dieses früher als in den nördlichen oder
 südlichen Regionen, und bei Sonnenuntergang blassen sie oft plötzlich ab; auch
 tritt nicht selten schon früher eine schnelle Farbenänderung ein. Die
 fruchtbaren Ebenen der Erde, die im Winter mit Wasser oder Schnee bedeckt, sich
@@ -739,7 +739,7 @@ Ausdünstungen der Mondsoberfläche hervorgebracht werden.
 Endlich die dritte Klasse der Flecken zeichnet sich durch die dunkle Farbe aus,
 die schon beim Sonnenaufgange statt findet und wenig vermehrt wird. Es sind
 unter andren die Flecken Hygin und Schröter (_T_ und _S_), beide in der Nähe
-des Aequators, fast auf der Mitte der uns zugekehrten Mondscheibe. Eine mit
+des Äquators, fast auf der Mitte der uns zugekehrten Mondscheibe. Eine mit
 üppiger Vegetation bedeckte Gegend der Erde, die selbst im Winter nicht ganz
 davon entblößt wird, 
 <@pagebreak/>
@@ -748,13 +748,13 @@ denn die Farbe der Pflanzen, welche den fruchtbaren Gegenden der Erde einen so
 eigenthümlichen Reiz verleihet, dürfen wir nie hoffen zu erkennen, da schon
 eine Entfernung weniger Meilen hinreicht, das schöne Grün des Laubes in ein
 dunkles Grau oder Schwarz zu verwandeln. — Zwischen diesen drei Klassen von
-Flecken finden übrigens alle möglichen Uebergänge statt, und aus den
+Flecken finden übrigens alle möglichen Übergänge statt, und aus den
 zahlreichen Schattirungen kann man mit etwas Phantasie auf die
 Pflanzenphysiognomieen der Mondsländer schließen.
 
 Alles durch die Veränderungen eines Himmelskörpers erzeugte Gas und der Dampf,
 den *alle* Körper entwickeln, verbreiten sich ihrer Leichtigkeit und
-Elasticitat wegen über dessen Oberfläche, und bilden den *Dunstkreis* oder die
+Elasticität wegen über dessen Oberfläche, und bilden den *Dunstkreis* oder die
 *Atmosphäre*. Nicht sowohl das Dasein eines Dunstkreises ist also bei einem
 Körper Gegenstand der Untersuchung, sondern vielmehr die Bestandtheile und die
 Elasticität desselben. Jene werden wir wol nie bei einem fremden Himmelskörper
@@ -834,14 +834,14 @@ gebildete Erscheinung nicht das bloße Werk der Natur sein könne; aber in der
 weiteren Verfolgung dieser Entdeckung spricht sich eine lebhafte Phantasie aus,
 die vielleicht das Richtige geahnet, vielleicht aber auch auf Irrthümer geführt
 hat. Die Mondsbewohner oder Seleniten bedürfen eines Schutzes gegen die Strenge
-ihres Winters, welche selbst die Aequatorländer nicht verschont. Feuerung würde
+ihres Winters, welche selbst die Äquatorländer nicht verschont. Feuerung würde
 ihnen bei der Dünne ihrer Atmosphäre nicht nützen, da diese ihnen nicht genug
 Wärmestoff geben kann; sie müssen also, nach Art der Kamschadalen, im Winter in
 zum Theil unterirdischen Wohnungen leben. Solche Wohnungen enthält nun jenes
 Riesengebäude für ein zahlreiches Volk. Hohe Rauchsäulen, die sich zuweilen
 daraus erheben, verrathen die Thätigkeit und Kultur der Bewohner, die
 vielleicht ihre meilenlangen Riesenbauten weniger Mühe gekostet haben, als die
-Aegypter und Chinesen die ihrigen, da wegen der geringen Größe des Mondes auch
+Ägypter und Chinesen die ihrigen, da wegen der geringen Größe des Mondes auch
 die Körper dort über 5 mal leichter sind, als bei uns. Auch zeigt es sich nicht
 isolirt; gerade Straßen verbinden es mit andren dunklen Stellen, wo ähnliche
 Gebilde zu sein scheinen; der durch regelmäßige Vierecke eingetheilte Boden

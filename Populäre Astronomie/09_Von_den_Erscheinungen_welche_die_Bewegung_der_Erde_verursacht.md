@@ -28,7 +28,7 @@ im *Durchschnitt*, oder seine *mittlere Entfernung*
 
 Zuweilen begnügt man sich eine von den Extremen gleich weit entfernte Zahl zu
 wählen, welches vorzüglich dann geschieht, wenn, wie bei der Entfernung der
-Planeten, die Aenderungen allmälig — stetig — statt finden; in unserm Beispiele
+Planeten, die Änderungen allmälig — stetig — statt finden; in unserm Beispiele
 wäre die Mitte in dieser Rücksicht
 
 (6 + 6 7/8) / 2 = 6 7/16
@@ -39,14 +39,14 @@ bleiben uns deshalb nur noch einige ihrer Wirkungen übrig.
 
 <@pagebreak/>
 Die Erde ist, wie wir gesehen haben, ein kugelähnlicher Körper, dessen
-Durchmesser durch die Pole etwa 1/305 kleiner ist, als am Aequator; andre
+Durchmesser durch die Pole etwa 1/305 kleiner ist, als am Äquator; andre
 Abweichungen von der Kugelgestalt sind unbedeutend, und selbst jene Abplattung
 hat auf keine der im Folgenden zu betrachtenden Erscheinungen bedeutenden
 Einfluß; daher wir hier die Erde als eine vollkommne Kugel betrachten wollen,
 deren Umkreis 5400 Meilen und deren Durchmesser 1719 Meilen beträgt. Ihre
-Oberfläche wird durch den Aequator in zwei gleiche Theile getheilt und durch
+Oberfläche wird durch den Äquator in zwei gleiche Theile getheilt und durch
 die geographische Länge und Breite wird die Lage eines jeden Ortes auf der Erde
-bestimmt (S. 76). Die Breite hängt nur vom Aequator ab, aber die Länge zählt
+bestimmt (S. 76). Die Breite hängt nur vom Äquator ab, aber die Länge zählt
 man von einem willkürlich angenommenen ersten Meridiane an, und läßt sich dabei
 von verschiedenen Ursachen leiten. Eratosthenes wählte den durch die *Säulen
 des Herkules* (Gibraltar und Ceuta), als die äußersten Punkte der damals
@@ -66,12 +66,12 @@ Zuweilen, aber minder häufig,
 zählt man 180° östlich und 180° westlich; in
 diesem Falle hätte also Ferro 20° westliche Länge von Paris.
 
-Folgende Tabelle enthält für einige Oerter, wo vorzügliche Sternwarten waren
+Folgende Tabelle enthält für einige Örter, wo vorzügliche Sternwarten waren
 oder sind, und durch welche man wol den ersten Meridian gezogen hat, die
 östliche Länge von dem Meridiane von Ferro.
 
 <table>
-  <tr><td>Bagdad                </td><td> 62°</td><td> 4'</td><td>22"</td><td>Palermo     </td><td> 31°</td><td> 1'</td><td>45"</td></tr>
+  <tr><td>Bagdad                </td><td> 62°</td><td> 4’</td><td>22"</td><td>Palermo     </td><td> 31°</td><td> 1’</td><td>45"</td></tr>
   <tr><td>Berlin                </td><td> 31 </td><td> 2 </td><td> 0 </td><td>Paris       </td><td> 20 </td><td> 0 </td><td> 0</td></tr>
   <tr><td>Bremen                </td><td> 26 </td><td>26 </td><td>42 </td><td>Pecking     </td><td>134 </td><td> 7 </td><td>30</td></tr>
   <tr><td>Dublin                </td><td> 11 </td><td>21 </td><td> 0 </td><td>Petersburg  </td><td> 47 </td><td>59 </td><td> 0</td></tr>
@@ -83,7 +83,7 @@ oder sind, und durch welche man wol den ersten Meridian gezogen hat, die
   <tr><td>Kopenhagen            </td><td> 30 </td><td>15 </td><td>30 </td><td>Slough, Herschels Stw.</td><td>17 </td><td> 3 </td><td>45</td></tr>
   <tr><td>Lissabon              </td><td>  8 </td><td>33 </td><td>15 </td><td>Teneriffa, Pik</td><td>1 </td><td> 8 </td><td> 0</td></tr>
   <tr><td>London, St. Paul      </td><td> 17 </td><td>34 </td><td>15 </td><td>Upsala      </td><td> 35 </td><td>18 </td><td>45</td></tr>
-  <tr><td>Madrit                </td><td> 13 </td><td>58 </td><td> 0 </td><td>Uranienborg, Tycho's Stw.</td><td> 30 </td><td>22 </td><td>25</td></tr>
+  <tr><td>Madrit                </td><td> 13 </td><td>58 </td><td> 0 </td><td>Uranienborg, Tycho’s Stw.</td><td> 30 </td><td>22 </td><td>25</td></tr>
   <tr><td>Mexiko                </td><td>277 </td><td>34 </td><td>15 </td><td></td><td></td><td></td><td></td></tr>
   <tr><td>New York              </td><td>303 </td><td>31 </td><td> 0 </td><td>Wien        </td><td> 34 </td><td> 2 </td><td>45</td></tr>
 </table>
@@ -93,17 +93,17 @@ unbedeutend ist, ist man jetzt, der größeren Gleichförmigkeit mit den
 Französischen Karten willen, übereingekommen, den ersten Meridian durch den
 Punkt zu nehmen, welcher 20° westlich von Paris ist. Es ist nach dieser Tabelle
 sehr leicht, Längen, die nach einem gewissen Meridian gemacht sind, auf irgend
-einen andern zurückzuführen. Z.B. Die Lange eines Ortes ist 151° 25' 45"
+einen andern zurückzuführen. Z.B. Die Lange eines Ortes ist 151° 25’ 45"
 östlich von London, und man will wissen, wie weit er östlich von Paris ist, so
 addirt man die Länge von London dazu, erhält dadurch die östliche Lange des
 Orts von
 <@pagebreak/>
-Ferro 168° 5' 30", und zieht davon die Länge von Paris ab; der Rest:
-148° 59' 30", ist die östliche Länge des Orts von Paris.
+Ferro 168° 5’ 30", und zieht davon die Länge von Paris ab; der Rest:
+148° 59’ 30", ist die östliche Länge des Orts von Paris.
 
 Sollten mehr als 360° herauskommen, wenn z. B. ein Ort 300° östlich von
-Pecking, also von Ferro 434° 7' 30", und von Paris 414° 7' 30" entfernt ist, so
-ziehe man 360° ab, und man findet für die östliche Länge von Paris 54° 7' 30".
+Pecking, also von Ferro 434° 7’ 30", und von Paris 414° 7’ 30" entfernt ist, so
+ziehe man 360° ab, und man findet für die östliche Länge von Paris 54° 7’ 30".
 
 Die Länge ist zur Bestimmung der Lage eines Orts der Erdoberfläche nicht minder
 nothwendig, als die Breite; ungleich wichtiger ist diese aber für die
@@ -122,13 +122,13 @@ ist, wie in dem Winter der Polarländer, so erschlafft die Lebenskraft und
 erstirbt wol gar. Alle diese Wechsel hängen daher größtentheils von der
 Bewegung der Erde um die Sonne ab.
 
-Durch die zum Aequator geneigte Ebene der Ekliptik zerfällt die Oberfläche der
+Durch die zum Äquator geneigte Ebene der Ekliptik zerfällt die Oberfläche der
 Erde in fünf Abtheilungen, die man, weil sie, von Parallelkreisen
 <@pagebreak/>
 eingeschlossen, meistens Ringe um die Erde bilden, *Zonen* oder *Gürtel* nennt.
 
 Von den beiden Wendekreisen wird die erste Abtheilung, die *heiße Zone*,
-eingeschlossen. In dem engen Raume zwischen dem Aequator und den Wendekreisen
+eingeschlossen. In dem engen Raume zwischen dem Äquator und den Wendekreisen
 bewegt sich die Sonne während des halben Jahres hin und her, so daß sie jeden
 Parallelkreis zwei mal durchschneidet. Zwar steht sie nicht auf jedem Theile
 derselben senkrecht, sondern die Reihe der Punkte, über denen sie es ist,
@@ -150,7 +150,7 @@ mitten in seiner Laufbahn ein Ziel, das dem unter milderem Himmel lebenden noch
 weit entfernter geblieben wäre.
 
 <@pagebreak/>
-Zwischen den Wende- und den Polarkreisen, auf beiden Seiten des Aequators,
+Zwischen den Wende- und den Polarkreisen, auf beiden Seiten des Äquators,
 erstrecken sich die *zwei gemäßigten Zonen*. Die Sonne steigt nie bis in ihren
 Zenith, immer nördlich, oder immer südlich, wirkt sie mit weit geringerer
 Stärke, als in der heißen Zone. Minder gigantisch und üppig hat sich hier das
@@ -179,7 +179,7 @@ Zone herrscht die Natur durch
 ihre Güte, in der kalten durch ihre Strenge; nur in der gemäßigten ist beides
 in seiner Harmonie vereinigt; dort hat sie auch den Fleiß der Menschen durch
 größere Milde belohnt, und in Europa wie in Amerika ist an die Stelle des
-rauhen Klima's der früheren Zeiten ein milderer Himmel getreten.
+rauhen Klima’s der früheren Zeiten ein milderer Himmel getreten.
 
 Die Völker der alten Welt, von denen die Astronomie begründet wurde, hielten
 nur die Zone, in welcher sie lebten, nämlich die nördliche gemäßigte, für
@@ -208,7 +208,7 @@ gemäßigten und kalten 0,519 und 0,083. Kaum der zwölfte Theil der Erdoberflä
 gehört daher der kalten Zone an, wogegen die schönsten aller Zonen, die
 gemäßigten, mehr als die Hälfte derselben einnehmen.
 
-Neben den fünf Zonen, oder den *geographischen Klimaten*, gibt's noch eine
+Neben den fünf Zonen, oder den *geographischen Klimaten*, gibt’s noch eine
 andre Eintheilung der Erde, nach der Dauer des längsten Tages, in 30 Theile:
 man nennt sie die *astronomischen Klimate*. Sie sind in folgender Tabelle
 enthalten:
@@ -217,7 +217,7 @@ enthalten:
 
 <table>
   <tr><th>Klima</th><th>reicht bis</th><th>faßt in sich</th><th colspan="2">Dauer des längsten Tages.</th></tr>
-  <tr><td> 1</td><td>8°34'</td><td>8°34'xx 12½</td><td>Stunden</td></tr>
+  <tr><td> 1</td><td>8°34’</td><td>8°34’xx 12½</td><td>Stunden</td></tr>
   <tr><td> 2</td><td>16 44</td><td>8 10</td><td>13 </td><td>-</td></tr>
   <tr><td> 3</td><td>24 12</td><td>7 28</td><td>13½</td><td>-</td></tr>
   <tr><td> 4</td><td>30 48</td><td>6 36</td><td>14 </td><td>-</td></tr>
@@ -252,16 +252,16 @@ enthalten:
 <@pagebreak/>
 Die ersten 24 Klimate werden durch den Unterschied von einer halben Stunde in
 der Dauer des längsten Tages bezeichnet; aber die Größe derselben, die anfangs
-8° 34' beträgt, sinkt an den Polarkreisen auf 3' Minuten hinab, so daß
+8° 34’ beträgt, sinkt an den Polarkreisen auf 3’ Minuten hinab, so daß
 innerhalb der kalten Zone ein ganzer Monat als Unterschied in der Länge des
 Tages zur Bezeichnung der Klimate angenommen wird. Wie bei der Größe der
 Parallelkreise (S. 108) sind auch bei der Tageslänge die Veränderungen in der
-Nähe des Aequators kleiner; während die ersten 23½° nur eine Verschiedenheit
+Nähe des Äquators kleiner; während die ersten 23½° nur eine Verschiedenheit
 von 1½ Stunde verursachen, beträgt er für die letzten 23½° der gemäßigten Zone
 8¾ Stunden.
 
 Alle sich auf die Gestalt und die Bewegung der Erde beziehenden Erscheinungen
-ändern sich bei gleichen Räumen in der Nähe des Aequators in weit geringerem
+ändern sich bei gleichen Räumen in der Nähe des Äquators in weit geringerem
 Maße als in höheren Breiten, und dieses bestätigt sich auf eine merkwürdige
 Weise bei der Thier- und Pflanzenwelt. Denn in dem ganzen ungeheuren
 Landstriche, den man unter dem Namen der heißen Zone begreift, und noch viel
@@ -283,11 +283,11 @@ Veränderung von einigen Graden fast gar keinen Unterschied mehr hervorbringt.
 Ja örtliche Umstände herrschen so sehr den astronomischen vor, daß sogar eine
 dem Pol nähere Gegend ein wärmeres Klima haben kann, da, dem gewöhnlichen Gange
 der Natur entgegen, einige Eskimo-Stämme im Winter nach Norden wandern. So
-stehn die kalte und die heiße Zone, obgleich einander auf's entschiedenste
+stehn die kalte und die heiße Zone, obgleich einander auf’s entschiedenste
 entgegengesetzt, doch wiederum gemeinschaftlich der gemäßigten Zone gegenüber,
 wie das Nichts und das Unendliche dem Etwas.
 
-Uebrigens darf wol kaum hinzugefügt werden, daß die Natur keine scharfe Grenze
+Übrigens darf wol kaum hinzugefügt werden, daß die Natur keine scharfe Grenze
 zwischen den verschiedenen geographischen oder astronomischen Klimaten kennt;
 vielmehr gehen die Erscheinungen in einander über, und jene Angaben betreffen
 nur immer den Hauptcharakter eines Erdgürtels.
@@ -340,14 +340,14 @@ einige Zeit nach der Wintersonnenwende die Kälte am größten, oder die Wärme 
 geringsten ist, und während des Frühlings und eines Theils des Sommers wieder
 zunimmt. Dieses ist auch der Grund, daß die vier Jahreszeiten nicht vor und
 nach jenen vier entsprechenden Punkten sind, sondern auf sie folgen. Auch hier
-wird der regelmäßige Gang der Temperatur durch die Einflüsse der Oertlichkeit
+wird der regelmäßige Gang der Temperatur durch die Einflüsse der Örtlichkeit
 und der Atmosphäre bedeutend abgeändert; ja die Temperatur der den
 Sonnenstralen weniger ausgesetzten Körper z. B. der Keller, der Quellen und
 auch der Oceane, bleibt fast unverändert, daher sie im Sommer kälter und im
 Winter wärmer sind, als die benachbarten Körper der Erdoberfläche.
 
 Schwieriger ist die Bestimmung der Jahreszeiten für die *heiße Zone*. Der
-Aequator hat nach den Nachtgleichen zwei Sommer, während die gemäßigten Theile
+Äquator hat nach den Nachtgleichen zwei Sommer, während die gemäßigten Theile
 der Erde Frühling oder Herbst haben. Auf ähnliche Weise verhält es sich mit den
 übrigen Theilen der Zone, nur daß dort das Jahr durch die beiden Durchgänge der
 Sonne durch den Zenith ungleich getheilt wird. Diese Erscheinungen haben jedoch
@@ -380,7 +380,7 @@ sind.
 In allen von der Bewegung der Erde abhängenden Erscheinungen sind unsre
 *Antipoden* oder *Gegenfüßler* am meisten von uns verschieden. Sie sind an dem
 Ort der Erdoberfläche, den eine von unserem Standpunkte durch den Mittelpunkt
-der Erde gezogene Linie erreicht, eben so weit südlich vom Aequator, als wir
+der Erde gezogene Linie erreicht, eben so weit südlich vom Äquator, als wir
 nördlich, und in der Länge um 180° von
 <@pagebreak/>
 uns verschieden, also überhaupt am
@@ -392,12 +392,12 @@ dieselben, aber die Tageszeiten verschieden. Das Entgegengesetzte findet bei
 den *Antdken* oder *Gegenwohnern* statt. Sie wohnen unter demselben Meridian
 aber in verschiedenen Halbkugeln; ihre Jahreszeiten sind einander
 entgegengesetzt, aber ihre Tageszeiten gleich. Jene sind für uns nahe der
-Nordwestküste Amerika's, diese in der Nähe des Vorgebirges der Guten Hoffnung.
+Nordwestküste Amerika’s, diese in der Nähe des Vorgebirges der Guten Hoffnung.
 
 Dieß wären die vorzüglichsten Resultate der beiden Hauptbewegungen; jetzt
 wollen wir noch einiges den verschiedenen Bewegungen Eigenthümliche anführen.
 
-1\. *Die Achsendrehung der Erde*. Jeder Punkt des Aequators, wo sie am
+1\. *Die Achsendrehung der Erde*. Jeder Punkt des Äquators, wo sie am
 raschesten ist, beschreibt in 23 St. 56 Min. 4,1 Sek. 5400 Meilen, oder in der
 Sekunde 1428 par. Fuß. Die Geschwindigkeit der übrigen Theile der Oberfläche
 nimmt in demselben Verhältnisse ab wie die Parallelkreise (S. 108); am Pol ist,
@@ -423,7 +423,7 @@ jährlichen Bahn zurücklegt, und ihre Entfernungen, die mittlere Entfernung (S.
 
 <table>
   <tr><th>Monat.</th><th>Bogen.</th><th>Entf.</th><th>Monat.</th><th>Bogen.</th><th>Entf.</th></tr>
-  <tr><td>Januar</td><td>61'10"</td><td>0,983</td><td>Juli</td><td>57'13"</td><td>1,0168</td></tr>
+  <tr><td>Januar</td><td>61’10"</td><td>0,983</td><td>Juli</td><td>57’13"</td><td>1,0168</td></tr>
   <tr><td>Februar</td><td>60 51</td><td>0,986</td><td>August</td><td>57 28</td><td>1,0144</td></tr>
   <tr><td>März</td><td>60 05</td><td>0,992</td><td>Septb.</td><td>58 10</td><td>1,0082</td></tr>
   <tr><td>April</td><td>59 03</td><td>0,0066</td><td>Oktbr.</td><td>59 07</td><td>10,001</td></tr>
@@ -462,15 +462,15 @@ Tab. 2. Gerade Aufsteigung der Sonne im Mittage der folgenden Tage:
  
 Innerhalb zehn Tagen beträgt der Unterschied 9° — 11°, das letztere im December
 und Januar, wo die Sonne sowohl ihrer größern Nähe, als auch ihrer größeren
-Abweichung willen, schneller längs dem Aequator fortrückt. Im Juni und Juli
+Abweichung willen, schneller längs dem Äquator fortrückt. Im Juni und Juli
 dagegen bewegt sich die Sonne zwar wegen ihrer Entfernung langsamer, rückt aber
-wegen ihrer größeren Abweichung in der Richtung des Aequators schneller fort.
+wegen ihrer größeren Abweichung in der Richtung des Äquators schneller fort.
 Da beide Erscheinungen sich einander zum Theil aufheben, so sind die
 Sommermonate weniger von den übrigen verschieden, als die Wintermonate.
 
 Die *mittlere Geschwindigkeit*, d. h. diejenige, welche die Sonne haben würde,
 wenn sie statt einer Ellipse in derselben Zeit einen Kreis gleichförmig
-durchliefe, ist 59' 8⅓"; aber ihr wirklicher Ort weicht oft sehr von der Lage,
+durchliefe, ist 59’ 8⅓"; aber ihr wirklicher Ort weicht oft sehr von der Lage,
 die sie unter jenen Voraussetzungen haben würde, dem *mittleren Orte* ab. Den
 Bogen der Ekliptik, der zwischen den beiden Ständen der Sonne ist, nennt man
 die *Gleichung des Mittelpunkts der Sonne*.
@@ -480,41 +480,41 @@ Durchgängen durch den Meridian oder zwischen zwei wahren Mittagen verfließt.
 Diese ist aber sehr verschieden; theils rührt dieß von der elliptischen,
 ungleichförmigen Bewegung der Sonne, theils aber von der Neigung der Bahn zum
 <@pagebreak/>
-Aequator her. Die Zeit nämlich, um welche der Sonnentag kleiner ist, als der
+Äquator her. Die Zeit nämlich, um welche der Sonnentag kleiner ist, als der
 Sternentag, hängt von dem Bogen ab, den die Sonne während eines Tages längs dem
-Aequator zurücklegt; dieser würde aber auch bei einer gleichförmigen
+Äquator zurücklegt; dieser würde aber auch bei einer gleichförmigen
 Kreisbewegung in der Ekliptik ungleich bleiben, in den Sonnenwenden am größten
 sein, und in den Nachtgleichen am kleinsten. Die mittlere Geschwindigkeit von
-59' 8⅓" hat die Sonne nur am 11. Febr., 14. Mai, 26. Juli und 1. November, wo
+59’ 8⅓" hat die Sonne nur am 11. Febr., 14. Mai, 26. Juli und 1. November, wo
 also der mittlere Sonnentag dem wahren gleich ist.
 
 Der *wahre Mittag*, der uns durch die Sonnenuhren gezeigt wird, ist daher sehr
-verschieden von der Zeit, in welcher eine sich gleichförmig in dem Aequator
+verschieden von der Zeit, in welcher eine sich gleichförmig in dem Äquator
 bewegende Sonne durch den Meridian gehn würde; im Anfange Novembers ist der
-wahre Mittag 16' 16" früher, in der Mitte Februars 14' 40" später, in der Mitte
+wahre Mittag 16’ 16" früher, in der Mitte Februars 14’ 40" später, in der Mitte
 des April und Juni und am Ende des August und December fallen beide Zeiten
 zusammen. Aber die kleine Ungewißheit, welche dadurch über die Zeit des wahren
 Mittags bleibt, ist zu unbedeutend gegen die Vortheile, die man aus einer
 gleichmäßigen Zeiteintheilung zieht, als daß man, nicht im gewöhnlichen Leben
-den durch's ganze Jahr gleichförmigen Gang unsrer Feder- und Pendeluhren dem
+den durch’s ganze Jahr gleichförmigen Gang unsrer Feder- und Pendeluhren dem
 wahren aber ungleichförmigen Gange der Sonnenuhren vorziehn sollte.
 
 3\. *Die Vorrückung der Nachtgleichen oder die Präcession*. Durch die Wirkung
 der Sonne und des Mondes auf das Erdsphäroid, die bei einer vollkommnen Kugel
-nicht statt finden würde, erreicht die Erde jedes Jahr den Aequator etwas
+nicht statt finden würde, erreicht die Erde jedes Jahr den Äquator etwas
 früher, so daß die Nachtgleichen etwas früher eintreten, oder die
-Aequinoktialpunkte auf der Ekliptik etwas nach Westen gerückt sind. Der
+Äquinoktialpunkte auf der Ekliptik etwas nach Westen gerückt sind. Der
 Unterschied beträgt,
 <@pagebreak/>
 nach Gauß, jährlich einen Bogen von 50",2, und in 25813,3
 Jahren, oder in einer runden Zahl in 26000 Jahren vollenden die
-Aequinoktialpunkte einen Umlauf um die Ekliptik von Osten nach Westen, also der
+Äquinoktialpunkte einen Umlauf um die Ekliptik von Osten nach Westen, also der
 Richtung des Sonnenlaufs entgegen. Diesen großen, schon von Hipparch, wenn auch
 minder genau entdeckten Zeitraum nennt man das *platonische Jahr*.
 
 Diese Bewegung ändert nichts in der Lage der Sterne zur Ekliptik, wol aber die
 Lage zum Himmelsäquator. Der ganze Sternenhimmel scheint sich nämlich von
-Westen nach Osten, also rechtgängig um den Aequator zu schieben, so daß er in
+Westen nach Osten, also rechtgängig um den Äquator zu schieben, so daß er in
 etwa 72 Jahren 1° oder in 2151 Jahren 30 Grad oder ein Zeichen der Ekliptik
 zurücklegt, und diejenigen Sterne, welche jetzt in den Nachtgleichen liegen,
 vor etwa 2150 Jahren 30° östlicher lagen.
@@ -532,17 +532,17 @@ Ekliptik bewegt, oder daß die Pole der Erde um die Pole der Ekliptik in 26000
 Jahren von Osten nach Westen einen Kreis beschreiben.
 
 Von vorzüglicher Wichtigkeit ist diese Erscheinung für die Dauer des Jahres.
-Aehnliche Gründe, wie diejenigen, welche für uns das gewöhnliche Leben statt
+Ähnliche Gründe, wie diejenigen, welche für uns das gewöhnliche Leben statt
 des Sternentages den Sonnentag zum Maßstabe zu
 <@pagebreak/>
 nehmen bewogen haben, machen
 auch die Rückkehr der Sonne zur Nachtgleiche zu einer wichtigern Periode für
 uns, als ihre Rückkehr zu denselben Sternen, indem die Jahreszeiten und alle
-übrigen Wirkungen der Sonne auf die Erde von ihrer Lage zum Aequator abhängen.
+übrigen Wirkungen der Sonne auf die Erde von ihrer Lage zum Äquator abhängen.
 Man nennt die Zeit von einer Frühlingsnachtgleiche zur andren das *tropische
 Jahr*, im Gegensatz des *siderischen*, welches die Umlaufszeit der Sonne durch
 einen ganzen Kreis ist. Es ist kleiner als dieses und enthält nur 365 Tage 5
-St. 48' 49". In dieser Zahl findet nur eine Ungewißheit zwischen 48" und 51"6
+St. 48’ 49". In dieser Zahl findet nur eine Ungewißheit zwischen 48" und 51"6
 statt. Alle unsre Monate und Feste beziehen sich auf das tropische Jahr, und
 die Nachtgleichen und Sonnenwenden fallen immer ungefähr auf denselben Tag des
 Jahrs wie vor 2000 Jahren, wogegen nach dem siderischen alle diese
@@ -550,7 +550,7 @@ Erscheinungen jetzt einen Monat früher eintreten würden, und statt des Mai wä
 der April der schönste Monat im Jahre.
 
 Auf diesem Jahre beruht der *Kalender* aller gebildeten Völker, Anfangs hatten
-die Aegypter ein Jahr von 365 Tagen, und obgleich sie dessen Größe bald
+die Ägypter ein Jahr von 365 Tagen, und obgleich sie dessen Größe bald
 richtiger auf 365¼, Tage setzten, so behielten sie dennoch jenes bei, und ihre
 Monate und Feste durchwanderten daher das ganze Jahr. Nach 1460 Jahren war
 diese Wanderung vollendet und die früheren Verhältnisse kehrten zurück. Dieser
@@ -561,11 +561,11 @@ dem Jahre von 365¼, Tagen berechnete. Dieses ist der *Julianische Kalender*.
 Nach ihm rechneten alle europäischen Völker bis 1582, als Gregor XIII. in
 seinem verbesserten
 <@pagebreak/>
-*Gregorianischen Kalender* das Jahr aus 365 T. 5 St. 49'30"
+*Gregorianischen Kalender* das Jahr aus 365 T. 5 St. 49’30"
 setzte. Cäsar hatte alle vier Jahre einen Schalttag angesetzt, Gregor warf ihn
 in 100 Jahren einmal aus, nahm ihn aber alle 400 Jahr wieder an, so daß in 400
-Jahren 97 Schalttage sind. Der Unterschied, der sich seit Casars Zeiten auf 10
-Tage gehäuft hatte, wurde ausgeworfen. Die katholischen Völker Europa's nahmen
+Jahren 97 Schalttage sind. Der Unterschied, der sich seit Cäsars Zeiten auf 10
+Tage gehäuft hatte, wurde ausgeworfen. Die katholischen Völker Europa’s nahmen
 die neue Einrichtung sogleich an, die protestantischen folgten zu verschiedenen
 Zeiten; nur die Anhänger der griechisch-katholischen Religion, die Russen und
 Neugriechen, rechnen noch nach dem alten Stile. Der Unterschied beträgt jetzt
@@ -576,8 +576,8 @@ Schalttag wieder auswirft.
 
 4\. *Die Nutation* oder das *Schwanken der Erdachse*. Der Einfluß der Sonne und
 des Mondes beschränkt sich nicht auf die gleichförmige Rotation der Erdachse um
-die Pole der Ekliptik, sondern durch die Aenderung der Lage der Mondbahn zur
-Ekliptik und zum Aequator entsteht ein periodisches Nähern und Entfernen der
+die Pole der Ekliptik, sondern durch die Änderung der Lage der Mondbahn zur
+Ekliptik und zum Äquator entsteht ein periodisches Nähern und Entfernen der
 Pole der Erde und der Ekliptik. Bei genauerer Betrachtung zeigt es sich, daß
 die Erdpole, wenn man von der Vorrückung der Nachtgleichen absieht, in etwa 18
 Jahren nach der Ordnung der Zeichen eine Ellipse beschreiben, deren großer
@@ -598,17 +598,17 @@ und ist nur den Astronomen wichtig.
 der Planeten auf die Erde ist der Winkel von 23½°, auch ohne die durch die
 Nutation hervorgebrachten Schwankungen, Veränderungen unterworfen, die seit
 2000 Jahren beständig in seiner Abnahme bestehn. Seine Größe, die jetzt nach
-Bohnenberger 23°27'52"9 ist, nimmt in 100 Jahren 45"0 ab, eine Abnahme, die,
+Bohnenberger 23°27’52"9 ist, nimmt in 100 Jahren 45"0 ab, eine Abnahme, die,
 wenn sie in demselben Verhältnisse fortdauert, in 8000 Jahren 1° und in 188000
 Jahren die 23½° betragen wird. Die dadurch auf der Erde hervorgebrachten
 Veränderungen müßten ungeheuer sein: die Sonne vollendete alsdann ihren
-jährlichen und täglichen Lauf im Aequator, in jedem Mittage hätten die
-Aequatorländer die versengende Sonne im Zenith, Tag und Nacht wären auf der
+jährlichen und täglichen Lauf im Äquator, in jedem Mittage hätten die
+Äquatorländer die versengende Sonne im Zenith, Tag und Nacht wären auf der
 Erde beständig gleich, und die angenehme Abwechselung der Jahreszeiten würde
 fehlen. Wie in der heißen Zone der Sommer, so würde in der gemäßigten ein
 beständiger Frühling herrschen, in der kalten die Sonne an keinem Tage ganz
 verschwinden, und an den Polen durch die Stralenbrechung niemals untergehn. Ob
-der Wechsel von Tag und Nacht hinreichend wäre jenen Wär​meunterschied zu
+der Wechsel von Tag und Nacht hinreichend wäre jenen Wärmeunterschied zu
 erzeugen, der durch den Regen das Gedeihen der Pflanzen bedingt? — Vielleicht;
 denn auch im Frühling haben wir Regen und die heiße Zone hat an vielen Stellen
 mehrere Monate hindurch täglich ihre Gewitter und Regengüsse, welche der
@@ -617,17 +617,17 @@ Achsendrehung
 wenigstens eben so sehr als dem Wechsel der Jahreszeiten ihr
 Dasein verdanken. Und dann hätte man in der gemäßigten Zone in der Wirklichkeit
 jenen ewigen Frühling, der bis jetzt nur in der Phantasie der Dichter lebt, bis
-sich die Ekliptik in ihrer langsamen Bewegung wieder vom Aequator entfernt.
+sich die Ekliptik in ihrer langsamen Bewegung wieder vom Äquator entfernt.
 Nach neuen 188000 Jahren haben sich alle Erscheinungen wieder in den
 gegenwärtigen Zustand gesetzt, und wahrscheinlich tritt dann eine Veränderung
 nach der entgegengesetzten Seite ein, indem die Schiefe zunimmt. Etwa 600000
 Jahre — die Länge der Zeit darf uns in Betrachtungen über die Bewegungen der
 Himmelskörper und die Veränderungen ihrer Oberfläche nicht irre machen —
-nachdem die Ekliptik den Aequator verlassen hat, steht sie darauf senkrecht;
+nachdem die Ekliptik den Äquator verlassen hat, steht sie darauf senkrecht;
 die Sonne bewegt sich in ihrer Bahn durch alle Parallelkreise, steht im Laufe
 des Jahres nach und nach auf allen senkrecht, und ist in den Sonnenwenden in
 dem Zenith der Pole. Die Wärme, die bei der gegenwärtigen Lage der beiden
-großen Himmelskreise auf die Aequatorgegenden zu freigebig gespendet wird, ist
+großen Himmelskreise auf die Äquatorgegenden zu freigebig gespendet wird, ist
 alsdann gleichförmiger über die ganze Erde verbreitet; das Eis wird an den
 Polen verschwinden, und der Winter, der dort nicht viel strenger werden kann,
 als er ist, es nicht wieder in der Menge hervorzubringen vermögen. Auch die
@@ -635,18 +635,18 @@ gemäßigten Zonen, obgleich in eine mehrere Tage dauernde Nacht gehüllt, wenn
 die Sonne sich den Wintersonnenwenden nähert, könnte alsdann von dem reichen
 Vorrath von Wärme zehren, den ihnen der Sommer verliehen hat. Die rasche
 Bewegung der Sonne und ihr kurzes Verweilen an jedem Ort — in *einem* Monat
-beträgt die Aenderung ihrer Mittagshöhe 30° — verhindert ein sehr starkes
+beträgt die Änderung ihrer Mittagshöhe 30° — verhindert ein sehr starkes
 Erwärmen des Bodens, so daß weder Kälte noch Wärme einen für die organischen
 Wesen gefährlichen
 <@pagebreak/>
 Grad erlangen möchten, obgleich die Temperaturwechsel viel
-bedeutender sein könnten als jetzt. Am meisten vielleicht möchte der Aequator
+bedeutender sein könnten als jetzt. Am meisten vielleicht möchte der Äquator
 gewinnen, der seinen ewigen Sommer gegen einen ewigen Frühling austauschen
 würde.
 
-Aber diese Spiele der Phantasie zerschneidet die kalte Berechnung *La Place's*,
-daß die ganze Aenderung der Schiefe nur in einem Schwanken bestehe, dessen
-ganzer Umfang 1° 20' betrage; ein Unterschied, der zu klein ist, um bedeutende
+Aber diese Spiele der Phantasie zerschneidet die kalte Berechnung *La Place’s*,
+daß die ganze Änderung der Schiefe nur in einem Schwanken bestehe, dessen
+ganzer Umfang 1° 20’ betrage; ein Unterschied, der zu klein ist, um bedeutende
 Veränderungen hervorzubringen. Einen größeren Spielraum gibt uns Schubert. Nach
 ihm schwankt die Schiefe der Ekliptik zwischen 18° und 29°, und 65000 Jahre sei
 die Dauer dieser Oscillation, in deren Mitte wir uns ungefähr befinden; diese
@@ -656,13 +656,13 @@ Unterschied in dem Resultate jener beiden berühmten Astronomen beweist. Die
 Möglichkeit, daß die erwähnten Zustände eintreten, und ähnliche Erscheinungen
 der Planetenwelt werden unsre Abschweifung entschuldigen.
 
-Durch die Aenderung der Schiefe der Ekliptik wird nur die Lage des genannten
-Kreises verändert, auf die Lage des Aequators zu den Sternen übt sie keinen
+Durch die Änderung der Schiefe der Ekliptik wird nur die Lage des genannten
+Kreises verändert, auf die Lage des Äquators zu den Sternen übt sie keinen
 Einfluß.
 
 Eine Oscillation in beschränkten Grenzen, wie nach Schubert und La Place, und
 ein Wandern von Pol zu Pol sind jedoch nicht die einzigen möglichen Fälle.
-Vielleicht nähert sich die Ekliptik immer mehr und mehr dem Aequator oder einer
+Vielleicht nähert sich die Ekliptik immer mehr und mehr dem Äquator oder einer
 andren Ebene, etwa dem Sonnenäquator, so daß nach einer langen Periode die
 Entfernung beider fast unendlich klein ist, auf eine ähnliche Weise wie sich
 die Arme der Hyperbel jenen beiden geraden Linien, den Asymptoten nähern
@@ -674,13 +674,13 @@ Gründe entschieden werden können, da die Bewegung so sehr langsam ist.
 immer in demselben Theile der Bahn, sondern rücken jährlich 11"8 in der
 Ekliptik vor. Die Zeit also bis die Erde wieder in die Sonnenferne kommt, oder
 das *anomalistische Jahr*, ist etwas größer als das Sternenjahr, und beträgt
-365 T. 6 St. 13'. Während die Apsiden 11"8 (oder nach Schubert 15"4) vorrücken,
+365 T. 6 St. 13’. Während die Apsiden 11"8 (oder nach Schubert 15"4) vorrücken,
 gehn die Nachtgleichen 50"2 zurück, das Aphelium und Perihelium entfernt sich
 daher jährlich 62"0 mehr von den Nachtgleichen, oder ihre Länge nimmt so viel
 zu. Dieses beträgt in 58 Jahren 1°, und in 21000 Jahren vollenden die Apsiden
 ihre Wanderung durch alle Zeichen der Ekliptik.
 
-Man möchte zwar diese Aenderung für kein gleichmäßiges Fortrücken halten, indem
+Man möchte zwar diese Änderung für kein gleichmäßiges Fortrücken halten, indem
 die Erde das Aphelium nur alle Jahr einmal erreicht und daher die 62"0
 sprungweise zurückgelegt zu werden scheinen; dieses ist jedoch nicht der Fall.
 Die Lage der Ekliptik ändert sich gleichmäßig, und wenn man aus Beobachtungen
@@ -690,7 +690,7 @@ vorhergehenden und dem folgenden Aphelium ist. Das hier Gesagte findet auch bei
 der Vorrückung der Nachtgleichen und vielen andren Bewegungen der Himmelskörper
 seine Anwendung.
 
-Der Punkt der Sonnennähe ist jetzt 9° 51' 46" östlich von der
+Der Punkt der Sonnennähe ist jetzt 9° 51’ 46" östlich von der
 Wintersonnenwende. In unsrem Winterhalbjahre hat daher die Erde ihre größte
 Nähe zur Sonne und ihre schnellste Bewegung denn beide
 <@pagebreak/>
@@ -720,8 +720,8 @@ Verhältnisse nähern wir uns also, wenn auch mit sehr langsamen Schritten.
 Dieses sind die vorzüglichsten Bewegungen der Erde. Man nennt die kleinen,
 durch Einwirkung des Mondes, der Planeten und auch durch die verschiedene Lage
 der Sonne hervorgebrachten Veränderungen *Störungen* der Erdbewegungen; davon
-beziehen sich die Präcession und Nutation auf Aenderung der Lage des Aequators
-und der Achse, und die Aenderungen der Schiefe und der Apsidenlinie auf die
+beziehen sich die Präcession und Nutation auf Änderung der Lage des Äquators
+und der Achse, und die Änderungen der Schiefe und der Apsidenlinie auf die
 Erdbahn. Es gibt noch mehrere andre kleine Veränderungen,
 <@pagebreak/>
 die aber zu
@@ -729,20 +729,20 @@ unbedeutend und verwickelt sind, um hier eine Stelle finden zu können.
 
 Alle Störungen in den Bewegungen der Erde und der andren Himmelskörper haben
 entweder eine deutliche Periode, wie die Nutation; oder sie haben keine, oder
-doch eine so lange, daß die Aenderung immer fortzuschreiten scheint. Diese
+doch eine so lange, daß die Änderung immer fortzuschreiten scheint. Diese
 werden *Säkularbewegungen* genannt, weil ihre Größe gewöhnlich nur durch
 hundertjährige Anhäufung merklich wird. Zu ihnen gehören die Bewegungen der
-Nachtgleichen und der Apsiden, die Aenderungen der Schiefe und die meisten
+Nachtgleichen und der Apsiden, die Änderungen der Schiefe und die meisten
 kleinen nicht mit angeführten Störungen. Bei den Bestimmungen, die sich auf die
-Größe der mittleren Bewegungen beziehen, werden die periodischen Aenderungen
+Größe der mittleren Bewegungen beziehen, werden die periodischen Änderungen
 nicht berücksichtigt, wol aber die säkularen; so daß z. B. in der mittleren
 Schiefe der Ekliptik, oder der Abweichung und geraden Aufsteigung der Sterne,
-die Nutation keine Aenderung hervorbringt, wol aber die allmälige Verminderung
+die Nutation keine Änderung hervorbringt, wol aber die allmälige Verminderung
 der Schiefe und die Präcession.
 
 Daß die Bewegung der Erde ohne diese regelmäßigen Störungen auch noch durch
 zufällige Einflüsse von Himmelskörpern, etwa von Kometen, oder durch
-Erscheinungen in ihrem Innern, Aenderungen erlitten habe, ist zwar möglich,
+Erscheinungen in ihrem Innern, Änderungen erlitten habe, ist zwar möglich,
 aber bis jetzt noch völlig unentschieden; es ist jedoch, wegen einiger
 seltsamen Phänomene an der Erdoberfläche, z. B. der tropischen Pflanzen und
 Thiere im Norden, der ungeheuren Wassermasse und der Gestalt der Kontinente in
@@ -829,7 +829,7 @@ Aberration einen direkten Beweis für die Erdbewegung.
 Bei größerer Geschwindigkeit der Erde, also im Perihel, ist die Geschwindigkeit
 und die Aberration etwas größer, als im Aphelium, allein der Unterschied ist
 unbedeutend. Dasselbe findet bei der Achsendrehung der Erde statt, die noch 64
-mal langsamer ist, als die jährliche Bewegung, daher selbst am Aequator, wo die
+mal langsamer ist, als die jährliche Bewegung, daher selbst am Äquator, wo die
 Bewegung am schnellsten ist, die dadurch entstehende Aberration unmerklich, und
 in höheren Breiten noch unbedeutender ist.
 

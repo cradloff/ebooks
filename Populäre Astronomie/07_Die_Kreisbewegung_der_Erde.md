@@ -44,24 +44,24 @@ Sinnentäuschung unser Urtheil besticht, so hat sie seit
 den ältesten Zeiten niemand bezweifelt.
 
 Die Sonnenbahn oder die *Ekliptik* ist nicht
-genau im Aequator, oder einem andren Parallelkreise,
+genau im Äquator, oder einem andren Parallelkreise,
 sondern ein um den Mittelpunkt der Erde laufender,
 also größter Kreis der Himmelskugel, welcher den
 <@pagebreak/>
-Aequator unter einem Winkel von 23½° schneidet. In diesem Kreise bewegt sie
+Äquator unter einem Winkel von 23½° schneidet. In diesem Kreise bewegt sie
 sich fast mit gleicher Geschwindigkeit von Westen nach Osten, theils in der
-nördlichen, theils in der südlichen Halbkugel. Je mehr sie sich vom Aequator
+nördlichen, theils in der südlichen Halbkugel. Je mehr sie sich vom Äquator
 entfernt, oder je größer ihre Abweichung wird, desto höher steigt sie über
 unsren Horizont, und desto länger verweilt sie über ihm. Wenn wir bloß die
-Aenderung ihrer Abweichung betrachten, so ist sie am raschesten, wenn die Sonne
-aus dem Aequator tritt; die Geschwindigkeit nimmt aber ab, je mehr sie sich von
+Änderung ihrer Abweichung betrachten, so ist sie am raschesten, wenn die Sonne
+aus dem Äquator tritt; die Geschwindigkeit nimmt aber ab, je mehr sie sich von
 ihm entfernt, ihr Steigen wird geringer, jemehr sie sich ihrer größten
 Abweichung nähert, und wenn sie diesen Punkt erreicht hat, scheint sie einige
 Zeit zu ruhen. Von da wendet sie sich wieder nach Süden, anfangs langsam, dann
-schneller, bis sie den Aequator, 6 Monate nachdem sie ihn verlassen hat, wieder
+schneller, bis sie den Äquator, 6 Monate nachdem sie ihn verlassen hat, wieder
 erreicht. Ihre jetzt sehr rasche Bewegung nimmt in der südlichen Halbkugel nach
 demselben Gesetze, wie in der nördlichen, ab, wird bei der größten südlichen
-Abweichung sehr langsam, und nach 6 Monaten ist die Sonne wieder im Aequator.
+Abweichung sehr langsam, und nach 6 Monaten ist die Sonne wieder im Äquator.
 Indessen ist sie auch auf ihrer Bewegung von Westen nach Osten fortgerückt, und
 hat ihre Bahn in der Ekliptik vollendet.
 
@@ -120,8 +120,8 @@ Die Ekliptik wird durch die vier bemerkten Punkte in vier fast gleiche Theile
 getheilt. Die beiden Punkte, in denen sie die größte Abweichung hat, heißen
 *Sonnenwenden* oder *Solstitien* (Sonnenstillstände), und zwar der nördliche
 die *Sommersonnenwende*, der südliche, die *Wintersonnenwende*. Die beiden
-Punkte, in denen sie den Aequator schneidet, heißen die *Nachtgleichen* oder
-*Aequinoktien*, und zwar derjenige, durch welchen sie sich von der südlichen
+Punkte, in denen sie den Äquator schneidet, heißen die *Nachtgleichen* oder
+*Äquinoktien*, und zwar derjenige, durch welchen sie sich von der südlichen
 nach der nördlichen Halbkugel begibt, die *Frühlingsnachtgleiche*, der andre
 die *Herbstnachtgleiche*. Man nennt diese vier Punkte auch Sommer- und Winter-,
 Frühlings- und Herbstpunkt. Die Ursachen aller dieser Benennungen liegen theils
@@ -155,10 +155,10 @@ Caper, Amphora, Pisces._
 
 Die bemerkenswerthesten Zeichen sind der Widder und die Wage, als Zeichen der
 Frühlings- und Herbstnachtgleiche, weil die Sonne in diesen Punkten ihrer Bahn
-ist, wenn sie in jene Zeichen tritt. Aehnliches findet bei dem Krebs und dem
+ist, wenn sie in jene Zeichen tritt. Ähnliches findet bei dem Krebs und dem
 Steinbock in Rücksicht der Sommer- und Wintersonnenwende statt. Man nennt daher
 die ersten 3 Zeichen die Frühlingszeichen, die andren die Sommer- Herbst- und
-Winterzeichen. Man nennt deshalb auch zwei, dem Aequator parallele Kreise,
+Winterzeichen. Man nennt deshalb auch zwei, dem Äquator parallele Kreise,
 welche durch die äußersten Punkte der Sonnenbahn gehen, die *Wendekreise des
 Krebses* und des *Steinbockes*.
 
@@ -185,9 +185,9 @@ zweiten male durchschneidet, steht sie um *Mitternacht* am tiefsten.
 
 Durch die Verbindung der eigenthümlichen Bewegung der Sonne mit der täglichen
 entsteht die Veränderung der Länge der Tage und Nächte. Wenn die Sonne ihren
-Lauf, wie die Sterne, in einem dem Aequator parallelen Kreise vollendete, so
+Lauf, wie die Sterne, in einem dem Äquator parallelen Kreise vollendete, so
 würde während des ganzen Jahres kein Unterschied in der Dauer der Tage und
-Nächte statt finden, und wenn sie im Aequator bliebe, so würden auf der ganzen
+Nächte statt finden, und wenn sie im Äquator bliebe, so würden auf der ganzen
 Erde, und durch das ganze Jahr Tag und Nacht stets einander gleich sein;
 <@pagebreak/>
 doch jetzt, da sie während eines halben Jahrs alle Parallelkreise zwischen 23½°
@@ -198,15 +198,15 @@ Für die Bewohner des Erdäquators ist zu jeder Zeit Tag und Nacht einander
 gleich; auf den Polen ist die Sonne nur so lange sichtbar als sie in derselben
 Halbkugel, und unsichtbar, wann sie in der entgegengesetzten ist: dort ist also
 6 Monate Tag und 6 Monate Nacht. In den übrigen Theilen der Erde dagegen findet
-nur dann Gleichheit der Tage und Nächte statt, wenn die Sonne im Aequator ist,
-weshalb auch die Schneidepunkte der Sonnenbahn und des Aequators
+nur dann Gleichheit der Tage und Nächte statt, wenn die Sonne im Äquator ist,
+weshalb auch die Schneidepunkte der Sonnenbahn und des Äquators
 *Nachtgleichen* heißen; sobald sie aber in die nördliche Halbkugel tritt, wird
 der Tagesbogen größer, und um so mehr, je nördlicher der Ort des Beobachters,
 und je größer die Abweichung der Sonne ist, und an den nördlichsten Theilen der
 Erde verschwindet der Nachtbogen ganz und die Sonne vollendet ihre ganze
 tägliche Bahn über dem Horizonte. Dieser Theil wird größer, die Sonne steigt
 höher über den Horizont der nördlichen Halbkugel, bis sie ihre größte
-Entfernung vom Aequator in der Sommersonnenwende erreicht hat. Hier scheint sie
+Entfernung vom Äquator in der Sommersonnenwende erreicht hat. Hier scheint sie
 von ihrem Laufe zu ruhen; sie vollendet während einiger Tage ihre tägliche Bahn
 im Wendekreise des Krebses, die Bewohner der nördlichen Halbkugel haben ihren
 längsten Tag, und in dem Parallelkreise, der von dem Nordpol 23½° entfernt ist,
@@ -215,11 +215,11 @@ Erdoberfläche, der zwischen jenem Parallelkreise und dem Pole ist, nicht unter.
 Man nennt diesen Kreis den *nördlichen Polarkreis*; er ist eben so weit vom Pol
 entfernt, als die Wendekreise
 <@pagebreak/>
-vom Aequator. Die Sonne kehrt nun durch dieselben
-Stufen nach dem Aequator zurück; die Länge der Tage und die Höhe der Sonne
+vom Äquator. Die Sonne kehrt nun durch dieselben
+Stufen nach dem Äquator zurück; die Länge der Tage und die Höhe der Sonne
 nehmen in demselben Verhältnisse ab, als sie früher zugenommen hatten; der
 Theil der Erde, wo die Sonne nicht untergeht, wird kleiner; in der
-Herbstnachtgleiche vollendet sie ihren täglichen Kreis wieder im Aequator, und
+Herbstnachtgleiche vollendet sie ihren täglichen Kreis wieder im Äquator, und
 Tag und Nacht sind auf der ganzen Erde einander gleich. Nun schreitet sie nach
 Süden, und spendet dort die Wärme und das Licht, die sie im vergangenen halben
 Jahre der nördlichen Halbkugel gegeben; aber bei uns werden die Tage kürzer,
@@ -231,7 +231,7 @@ Zwischen dem Südpol und dem 23½° davon entfernten Parallelkreise, dem
 *südlichen Polarkreise*, geht die Sonne nicht unter; aber in der nördlichen
 Halbkugel ist ein eben so großer Strich um den Pol in beständige Nacht gehüllt,
 und der übrige Theil hat seinen kürzesten Tag; dieser wird jedoch mit jedem
-Tage größer, indem sich die Sonne dem Aequator wieder nähert, und wenn sie ihn
+Tage größer, indem sich die Sonne dem Äquator wieder nähert, und wenn sie ihn
 und das Zeichen des Widders erreicht, ist das Gleichgewicht auf der ganzen Erde
 hergestellt. Es ist merkwürdig, daß, so verschieden Tag und Nacht auf der
 ganzen Erde vertheilt sind, nach Verlauf des Jahres kein Theil der Erde
@@ -248,15 +248,15 @@ ihn schon erreicht haben; die Zeit zwischen zwei oberen Kulminationen der
 Sonne, oder der *Sonnentag*, ist also größer als der Sternentag. Der
 Unterschied zwischen beiden ist die Zeit, welche die Sonne gebraucht, um einen
 Bogen zurückzulegen, der der Größe ihrer täglichen Fortrückung nach der
-Richtung des Aequators auf der jährlichen Bahn gleichkommt. Dieser ist zwar von
+Richtung des Äquators auf der jährlichen Bahn gleichkommt. Dieser ist zwar von
 verschiedener Größe, und die Sonnentage haben deshalb eine veränderliche Länge,
 indeß beträgt sie, im Durchschnitt betrachtet, 24 Stunden, 3 Minuten, 56,55
-Sekunden Sternenzeit, und ein Sternentag ist so viel als 23 Stunden, 56' 4"1
+Sekunden Sternenzeit, und ein Sternentag ist so viel als 23 Stunden, 56’ 4"1
 Sonnenzeit, wenn man den Sonnentag auf ähnliche Weise in Stunden, Minuten und
 Sekunden theilt, wie den Sternentag. Die Zeit, welche die Sonne gebraucht, um
 nach Vollendung ihrer jährlichen Bahn wieder zu derselben Lage gegen die Sterne
-zurückzukehren, oder das *Sternenjahr* beträgt 365 Tage, 6 Stunden, 9' 14"946
-Sonnenzeit oder 366 Tage, 6 Stunden, 9' 11"7 Sternenzeit. Sternen- und
+zurückzukehren, oder das *Sternenjahr* beträgt 365 Tage, 6 Stunden, 9’ 14"946
+Sonnenzeit oder 366 Tage, 6 Stunden, 9’ 11"7 Sternenzeit. Sternen- und
 Sonnenzeit können leicht aus einander berechnet werden.
 
 Ein Stern, der im Anfange des Frühlings dicht bei der Sonne steht, wird im
@@ -306,11 +306,11 @@ Osten hin um die Erde wandert; man geht der Sonne entgegen, die Tage sind
 kürzer, und wenn die Reise zu Ende ist, so hat man einen ganzen Tag gewonnen,
 indem man in dem angegebenen Beispiele den 6ten Februar schreiben würde. Diese
 Abweichung, die den ersten Weltumseglern so merkwürdig erschien, beruht also
-auf sehr einfachen Ursachen. Uebrigens ist es völlig gleichgiltig, wie lange
+auf sehr einfachen Ursachen. Übrigens ist es völlig gleichgiltig, wie lange
 Zeit der Reisende zu seiner Wanderung gebraucht, der Unterschied beträgt immer
 einen Tag.
 
-Wie nach dem Horizont und dem Aequator, so kann man auch die Lage der Sterne
+Wie nach dem Horizont und dem Äquator, so kann man auch die Lage der Sterne
 nach der Ekliptik bestimmen, und aus mehreren Gründen ist dieses in vielen
 Fällen angemessener. Es geschieht auf ähnliche Weise, wie dort. Die durch die
 Pole der Ekliptik gehenden größten Kreise nennt man *Breitenkreise*, einen
@@ -425,7 +425,7 @@ Orte des Himmels, der demjenigen, worin die Sonne uns erscheint,
 entgegengesetzt ist. Denkt man sich ferner durch die Sonne, die wir jetzt als
 Mittelpunkt der Himmelskugel ansehen wollen, einen dem Erdäquator parallelen
 Kreis, so wird dieser die Erdbahn in zwei Punkten schneiden; sobald die Erde in
-einem dieser Punkte ist, so ist der Radius Vektor im Aequator, nämlich in den
+einem dieser Punkte ist, so ist der Radius Vektor im Äquator, nämlich in den
 Nachtgleichen, je mehr sich aber die
 <@pagebreak/>
 Erde davon entfernt und in dem nördlichen
@@ -435,7 +435,7 @@ Wintersonnenwende, erscheint der Radius Vektor und die Sonne am südlichsten;
 eine dieser entgegengesetzte Lage findet in der Sommersonnenwende statt, wo die
 Erde am südlichsten ist und ihre nördliche Halbkugel der Sonne zuwendet. Volle
 Bestätigung findet aber die Ansicht von der Bewegung der Erde in der
-Uebereinstimmung mit den bei den Planeten gefundenen Gesetzen. Wendet man die
+Übereinstimmung mit den bei den Planeten gefundenen Gesetzen. Wendet man die
 Keplerschen Gesetze auf die Erde an, so könnte man fast ohne Beobachtungen die
 vorzüglichsten Erscheinungen der Sonne voraus bestimmen. Auch werden wir in der
 scheinbaren Bewegung der Sterne, in der Aberration, einen direkten Beweis der
@@ -449,7 +449,7 @@ Meilen ist sogar die Parallaxe der Erdbahn unmerklich, und die Entfernung
 selbst des nächsten Fixsterns ist gewiß nicht geringer, da unser System sich
 wahrscheinlich über 10,000 Mill. Meilen weit von der Sonne aus erstreckt und,
 um selbstständig bleiben zu können, eine große Entfernung der Fixsterne
-verlangt. Tycho's Einwurf, von der Verschwendung des Raums zwischen den
+verlangt. Tycho’s Einwurf, von der Verschwendung des Raums zwischen den
 Fixsternen hergenommen, ist ohne Bedeutung. (S. 66.)
 
 Lange dauerte es, ehe der Mensch sich diesen Gedanken befreunden und von der
@@ -461,7 +461,7 @@ litt, daß er den thörichten Wahn aufgeben mußte, als wären alle Wesen
 seinetwillen erschaffen, so hat sich dafür sein Gesichtskreis vergrößert, seine
 Begriffe erweitert, er verläßt sich weniger auf die Eindrücke der Sinne und die
 dunklen Gefühle, er lernt den menschlichen Verstand, der sich vorzüglich in der
-Astronomie auf's glänzendste offenbart, als das köstlichste Geschenk des Ewigen
+Astronomie auf’s glänzendste offenbart, als das köstlichste Geschenk des Ewigen
 kennen, und wenn er nun, von Bewunderung und Dankbarkeit hingerissen, den Geber
 alles Guten verehrt, so zeigt er sich der Menschheit werther, als jene
 Mystiker, die, sich alles Vertrauens zu sich selbst, aller Kraft entäußernd,

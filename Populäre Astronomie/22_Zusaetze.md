@@ -7,13 +7,13 @@ S. 107. Die Vermuthung, daß die Südhalbkugel der Erde von der Nordhalbkugel
 verschieden sei, gründet sich vornehmlich auf eine Gradmessung, die der
 französische Astronom *La Caille* am *Vorgebirge der guten Hoffnung* angestellt
 hat. Ihre Genauigkeit wird jedoch durch neuere Untersuchungen sehr in Zweifel
-gezogen. Auch stimmen Gradmessungen in Ostindien und die Pendelversuche *Biot's,
-Sabine's, Kater's u. A.* von Spitzbergen und der Baffinsbay bis Sierra Leona und
+gezogen. Auch stimmen Gradmessungen in Ostindien und die Pendelversuche *Biot’s,
+Sabine’s, Kater’s u. A.* von Spitzbergen und der Baffinsbay bis Sierra Leona und
 Paramatta, im südlichen Theile Neuhollands, sehr gut mit der Abplattung der Erde
 von etwa 1/300.
 
-S. 163. Die Länge des Apheliums der <img alt="Vesta" src="Vesta.png"/> ist nicht 270° 19' 0", sondern 70° 19'
-0", dagegen die Länge des Apheliums der <img alt="Juno" src="Juno.png"/> nicht 33° 16' 0" sondern 233° 16' 0".
+S. 163. Die Länge des Apheliums der <img alt="Vesta" src="Vesta.png"/> ist nicht 270° 19’ 0", sondern 70° 19’
+0", dagegen die Länge des Apheliums der <img alt="Juno" src="Juno.png"/> nicht 33° 16’ 0" sondern 233° 16’ 0".
 
 Die ganze Tabelle ist für den Anfang des Jahres 1810 berechnet.
 
@@ -29,7 +29,7 @@ Entfernungen der Himmelskörper abgeändert werden.
 
  S. 216. Z. 14. statt nun l. nur um. 
 
-  " "    Z. 17. statt 60° 17' l. 6° 17'. 
+  " "    Z. 17. statt 60° 17’ l. 6° 17’. 
 
 S. 210 und 212. Die erste Reihe der Seite 210 muß gestrichen und dafür vor die
 erste Reihe der S. 212. gesetzt werden.
@@ -45,7 +45,7 @@ Beobachter, wie Lahrmamn und *Gruithuisen*, so bedeutend von einander abweichen.
 S. 317. Aus einer genauen Berechnung der Beobachtungen beim Kometen von 1680,
 dem Haller und Newton eine Umlaufszeit von 575 Jahren beilegten, schließt
 Encke, daß seine Periode nicht unter 2000 Jahre sein könne. Andre geben ihm
-sogar 8--9000 Jahre, und im Aphelium eine Entfernung von 430
+sogar 8—9000 Jahre, und im Aphelium eine Entfernung von 430
 Erdbahnhalbmessern.
 
 S. 320. Wie sehr die Anzahl der beobachteten Kometen durch die Verbesserung der

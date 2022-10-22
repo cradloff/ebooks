@@ -51,20 +51,20 @@ Verhältnisse mit dem auf der Erde zurückgelassenen Raume ist. Alles dieses
 findet nur bei einem kugelähnlichen Körper statt. Auch der Schatten der Erde,
 den die Sonne in den Mondfinsternissen auf unsren Trabanten wirft, ist stets
 von einem Kreisbogen begrenzt, in welcher Lage auch die Erde sei, und nur eine
-Kugel vermag dieses zu bewirken. Ueberdieß sind alle uns bekannten
+Kugel vermag dieses zu bewirken. Überdieß sind alle uns bekannten
 freischwebenden Körper, von dem Wassertropfen bis zu den Planeten und der
 Sonne, Kugeln; sollte unsre Erde davon allein eine Ausnahme machen?
 
 Nach der Entscheidung dieser Frage war die Bestimmung der *Größe* eine leichte,
 aber nicht minder wichtige Aufgabe, indem von der Kenntniß der Größe der Erde
 auch die aller andren Himmelskörper abhängt. Die erste Schätzung derselben
-verdanken wir dem *Eratosthenes*, einem vor 2000 Jahren in Aegypten lebenden
+verdanken wir dem *Eratosthenes*, einem vor 2000 Jahren in Ägypten lebenden
 Astronomen. Er fand, daß zu
 <@pagebreak/>
 Siene in Oberägypten die Sonne einst im Mittage der
 Sommersonnenwende in einen tiefen Brunnen keinen Schatten warf, also im Zenith
 des Ortes stand. In Alexandrien zeigte zu derselben Zeit der Schatten, daß die
-Sonne 1/50 des Kreises vom Zenith entfernt sei; beide Oerter lagen beinahe in
+Sonne 1/50 des Kreises vom Zenith entfernt sei; beide Örter lagen beinahe in
 demselben Meridian und 5000 Stadien von einander entfernt; also mußte der
 Umkreis der ganzen Erde 250000 Stadien betragen. Diese Messung, oder vielmehr
 Schätzung, war sehr nützlich, indem sie den Alten einen Begriff von der Größe
@@ -75,12 +75,12 @@ Weit genauer war eine Messung des Kalifen Almamum i. J. 827; sie ist aber für
 uns, wegen unserer Unbekanntschaft mit dem Maße, ebenfalls ohne Nutzen.
 
 Ganz anders verhält es sich mit den, seit 150 Jahren zuerst in Frankreich, dann
-aber in vielen Ländern Europa's und andrer Welttheile angestellten
+aber in vielen Ländern Europa’s und andrer Welttheile angestellten
 *Gradmessungen*. Dieses sind nämlich Messungen, des Bogens zwischen den
-Zenithen zweier auf demselben Meridiane liegenden Oerter der Erde, deren
+Zenithen zweier auf demselben Meridiane liegenden Örter der Erde, deren
 Entfernung von einander genau gemessen wird. Gesetzt, man habe die Polhöhe
-eines Orts zu 49° 14' beobachtet, die eines andren zu 54° 44', und die
-Entfernung beider Oerter 82½ Meilen gefunden, so würden 5½° am Himmel 82½
+eines Orts zu 49° 14’ beobachtet, die eines andren zu 54° 44’, und die
+Entfernung beider Örter 82½ Meilen gefunden, so würden 5½° am Himmel 82½
 Meilen auf der Erde entsprechen und das Verhältniß 5½°: 1° = 82½ M.: 15 M., die
 Größe eines Grades zu 15 Meilen festsetzen; den Umfang der ganzen Erde also zu
 360-15 = 5400 Meilen. Je größer die gemessene Linie ist, desto genauer wird das
@@ -105,7 +105,7 @@ welcher durch die Umdrehung einer Ellipse um die kleine Achse gebildet wird;
 wobei also die Meridiane Ellipsen und die Parallelkreise Kreise sind. Direkte
 Messungen von Graden eines Meridians sollten dieses bestätigen; ein Grad
 nämlich in höheren Breiten müßte, nach Newtons Annahme, größer sein, als einer
-in der Nähe des Aequators. Aber aus fehlerhaften Versuchen schien das
+in der Nähe des Äquators. Aber aus fehlerhaften Versuchen schien das
 Gegentheil zu folgen, und der Streit wurde erst zum Vortheil der Newtonschen
 Theorie entschieden, als die französische Akademie durch Bouguer und Condamine
 in *Quito* und durch Maupertuis in *Lappland* Gradmessungen anstellen ließ.
@@ -116,7 +116,7 @@ Grade einfach, hängen von so vielen Umständen ab, daß sie sehr selten in der
 Erfahrung vollkommne Regelmäßigkeit zeigen, und dieß bestätigte sich auch hier.
 Die verschiedenen Messungen gaben nämlich für das Sphäroid widersprechende
 Werthe. Die Erde ist also kein vollkommnes Sphäroid, sondern wahrscheinlich an
-der südlichen Halbkugel verkürzt; ja selbst die Oerter der Erde, die gleiche
+der südlichen Halbkugel verkürzt; ja selbst die Örter der Erde, die gleiche
 Polhöhe haben, scheinen nicht in einem Kreise zu liegen, so daß also selbst die
 Parallelkreise verschieden gekrümmt sind. Dieses bestätigen auch Versuche mit
 dem *Pendel*. Dieser ist in der Hauptsache eine frei schwingende Stange; aus
@@ -126,7 +126,7 @@ Schwere an dem Beobachtungsorte und daraus die Krümmung der Erdoberfläche
 berechnet werden. Wir kennen also die Gestalt der Erde bis jetzt keinesweges
 genau; indeß wenn man alle Umstände und Berechnungen vergleicht, so scheint sie
 sich nicht weit von der Gestalt eines Sphäroids zu entfernen, wobei der
-Durchmesser des Aequators zu dem der Pole sich wie 305 : 304 verhält. Künftige
+Durchmesser des Äquators zu dem der Pole sich wie 305 : 304 verhält. Künftige
 Messungen werden das Einzelne der Erdgestaltung genauer bestimmen, und es ist
 zu hoffen, daß in kurzer Zeit der größte Theil der kultivirten Erde in dieser
 Rücksicht genau untersucht sein wird; in Deutschland, Frankreich; England und
@@ -135,9 +135,9 @@ andren Ländern ist es schon zum Theil geschehen.
 Folgendes sind die Dimensionen der Erde: 
 
 <table>
-<tr><td>Halbmesser des Aequators </td><td>3271691 Toisen.</td></tr>
+<tr><td>Halbmesser des Äquators </td><td>3271691 Toisen.</td></tr>
 <tr><td>Halbmesser an den Polen  </td><td>3260964   "</td></tr>
-<tr><td>Ein Grad am Aequator     </td><td>  56728,0 "</td></tr>
+<tr><td>Ein Grad am Äquator     </td><td>  56728,0 "</td></tr>
 <tr><td>Ein Grad unter 45° Breite</td><td>  57007,6 "</td></tr>
 <tr><td>Ein Grad am Pole         </td><td>  57289,6 "</td></tr>
 </table>
@@ -156,13 +156,13 @@ Der Umfang der Erde beträgt 360 Grad, also 5400 Meilen; der Durchmesser 1719
 und der Halbmesser 859,5; die Oberfläche 9261900 Quadratmeilen, und der Inhalt
 2650 Millionen Kubikmeilen.
 
-Von allen Parallelkreisen ist der Aequator der größte; die übrigen sind desto
-kleiner, je mehr sie vom Aequator entfernt sind. Alle Kreise werden aber in 360
+Von allen Parallelkreisen ist der Äquator der größte; die übrigen sind desto
+kleiner, je mehr sie vom Äquator entfernt sind. Alle Kreise werden aber in 360
 Grade getheilt; die Größe der Grade nimmt daher in demselben Verhältnisse ab,
 als die der Parallelkreise. Da die Kenntniß derselben von sehr ausgedehntem
 Nutzen ist, so enthält folgende Tabelle die Größe eines Grades der
 Parallelkreise von 5 zu 5° in deutschen oder geographischen Meilen, wovon 15
-auf einen Grad des Aequator gehn.
+auf einen Grad des Äquator gehn.
 
 <table>
 <tr><td> 0°</td><td>15,000</td><td>25°</td><td>13,605</td><td>50°</td><td>9,642</td><td>75°</td><td>3,082</td></tr>
@@ -182,7 +182,7 @@ Unterschied nimmt aber in höheren Breiten rasch zu, so daß eine geringe
 Abweichung schon bedeutende Veränderungen verursachen kann.
 
 Wenn in der Astronomie von der Lage und Bewegung eines Himmelskörpers die Rede
-ist, ohne nähere Bestimmung, welchen Theil desselben man meint, so ist's immer
+ist, ohne nähere Bestimmung, welchen Theil desselben man meint, so ist’s immer
 der Mittelpunkt desselben. Es ist natürlich, daß man alles auch auf den
 Mittelpunkt der Erde zu beziehen sucht; aber wir können nur auf der Oberfläche
 der Erde, also nur die *scheinbare Lage* der Gestirne beobachten, und diese
@@ -202,15 +202,15 @@ Sie hängt gänzlich von der Entfernung des Gestirns ab. Für die Fixsterne ist
 der Unterschied völlig
 <@pagebreak/>
 unmerklich, für die Sonne etwa 8", und für die nächsten
-Planeten auch nicht sehr bedeutend. Für den Mond aber beträgt sie wol 62'; um
+Planeten auch nicht sehr bedeutend. Für den Mond aber beträgt sie wol 62’; um
 diesen Winkel erscheint er uns also am Horizonte tiefer, als er es vom
 Mittelpunkte der Erde aus sein würde, und ein Stern, der nahe unter ihm ist,
 kann oft über ihm zu stehn scheinen. Wegen der Abplattung der Erde und der
 Ungleichheit der Linien vom Mittelpunkte der Erde nach der Oberfläche, ist die
-Horizontalparallaxe in den höheren Breiten kleiner, als am Aequator; der
-Unterschied zwischen der Horizontalparallaxe des Mondes am Aequator, der
-*Aequatorialparallaxe*, und der in den höchsten Breiten kann 15" betragen. Für
-keinen andren Himmelskörper beträgt er mehr als 1/10", ist also völlig
+Horizontalparallaxe in den höheren Breiten kleiner, als am Äquator; der
+Unterschied zwischen der Horizontalparallaxe des Mondes am Äquator, der
+*Äquatorialparallaxe*, und der in den höchsten Breiten kann 15" betragen. Für
+keinen andren Himmelskörper beträgt er mehr als ⅒", ist also völlig
 unmerklich. Die Parallaxe ist für denselben Körper, wenn er sich in größerer
 Entfernung befindet, kleiner, welches beim Monde wol 26" ausmachen kann.
 
@@ -221,7 +221,7 @@ unabhängig gemacht, sondern sogar in den Beobachtungen, die in den
 verschiedensten Zeiten und Ländern angestellt sind, Gleichförmigkeit möglich
 gemacht.
 
-Uebrigens ist die Parallaxe eine den Astronomen höchst willkommne Erscheinung,
+Übrigens ist die Parallaxe eine den Astronomen höchst willkommne Erscheinung,
 indem sie das einzige Mittel zur Berechnung der Entfernung der Himmelskörper
 gibt; denn aus dem Winkel _EMA_, (Fig. 10.)und der Linie _EA_, dem Halbmesser
 der Erde, läßt sich die Entfernung _ES_ sehr leicht berechnen. — Keine Lage auf
@@ -229,7 +229,7 @@ der Erde ist vielleicht zur Beobachtung der Parallaxe geeigneter als Stockholm
 und das Vorgebirge der
 <@pagebreak/>
 Guten Hoffnung; beide liegen fast in demselben
-Mittagskreise, aber jenes 59° 20' nördlicher Breite, dieses fast 34° südlicher
+Mittagskreise, aber jenes 59° 20’ nördlicher Breite, dieses fast 34° südlicher
 Breite, also über 93 Grade von einander entfernt.
 
 Die Oberfläche der Erde besteht aus drei Klassen von Körpern, starren Körpern,
@@ -259,10 +259,10 @@ zusammenstoßen, und die beide Hauptoceane sich nur durch schmale
 Meerengen, die Barrow- und Baffinsstraße, und zwischen Norwegen, Island und
 Grönland, mit dem Nordocean vereinigen können, haben große, in das höchste
 Alterthum hinaufgehende Naturerscheinungen, vielleicht durch allmälige
-Aenderung der Erdachse hervorgegangene Strömungen, alle Festländer nach Süden
-hin zugespitzt: in einem weiten Gebiete, nur von verhaltnißmäßig wenigen Inseln
-unterbrochen, erstreckt sich der Ocean zwischen den *Südspitzen* Amerika's,
-Afrika's, Asiens und Neuhollands.
+Änderung der Erdachse hervorgegangene Strömungen, alle Festländer nach Süden
+hin zugespitzt: in einem weiten Gebiete, nur von verhältnißmäßig wenigen Inseln
+unterbrochen, erstreckt sich der Ocean zwischen den *Südspitzen* Amerika’s,
+Afrika’s, Asiens und Neuhollands.
 
 Es ist merkwürdig, daß die beiden Hauptstreifen Land von den Linien, die sie
 ihrer größten Länge nach durchschneiden, auch in fast gleiche Theile getheilt
@@ -272,7 +272,7 @@ Meer, Mekka, Abessinien, Monomotapa zum Vorgebirge der Guten Hoffnung. Sie ist
 etwa 2000 Meilen lang, nur durch das Kaspische Meer und den Arabischen
 Meerbusen unterbrochen, und schneidet das Land fast in gleiche Theile: denn auf
 der linken Seite sind 889,600 Quadrat-Meilen und auf der rechten 889,100;
-allerdings eine überraschende Uebereinstimmung.
+allerdings eine überraschende Übereinstimmung.
 
 Das Neue Kontinent wird auf ähnliche Weise durch eine Linie von Patagonien bis
 zu den Kanadischen Seen getheilt, die, etwa 1500 Meilen lang, nur durch den
@@ -302,7 +302,7 @@ Felsen werden hier allmälig vom Wasser zertrümmert, während dort der Ocean
 seinen Raub absetzt und Länder und Inseln bildet, wo sonst die Wellen tobten.
 Alles auf der Erde ist in beständigem Wechsel, und wie auf dem Boden aller
 Oceane Land ist, war einst auf den Gipfeln der Berge das Wasser mit seinen
-Bewohnern. Die dunklen Sagen aller Völker reden von großen Ueberschwemmungen;
+Bewohnern. Die dunklen Sagen aller Völker reden von großen Überschwemmungen;
 Thiere und Pflanzen der heißen Zone an den Küsten des nördlichen Eismeers,
 Meermuscheln und Fische auf den Alpen, alles deutet auf große Veränderungen der
 Erde hin.
@@ -321,7 +321,7 @@ Geographie, ja auch der Naturphilosophie an, bis zu den mikroskopischen
 Versuchen der Chemiker und Physiker über die Krystalle, müssen sich mit der
 Geognosie vereinigen, um ihm Aufschlüsse über die Bildung der Erde zu geben.
 
-Aber nicht Vermuthungen, deren Begründung außerhalb unsres gegenwartigen
+Aber nicht Vermuthungen, deren Begründung außerhalb unsres gegenwärtigen
 Gesichtskreises liegt, sondern Thatsachen wollen wir unsren Zuhörern vorlegen,
 und ob wir gleich auf eine Kenntniß des Inneren der Erde auf ewig verzichten
 müssen, so hat doch die Untersuchung der an vielen Stellen von dem Menschen,
@@ -337,32 +337,32 @@ entblößt, sind die Urgebirge entweder früher gebildet worden, als irgend ein
 Theil der organischen Welt, oder doch unter Umständen, die alles Lebende
 ertödtet haben.
 
-In ihren Bestandtheilen den Urgebirgen ähnlich, bilden die *Uebergangsgebirge*
+In ihren Bestandtheilen den Urgebirgen ähnlich, bilden die *Übergangsgebirge*
 die zweite und jüngere Klasse der Gebirge; aber die geringe Vollkommenheit, ja
 zuweilen der gänzliche Mangel
 <@pagebreak/>
 an krystallinischem Gefüge, verräth ein weniger
 langsames Entstehen, ja zuweilen selbst die Wirkung gewaltiger Kräfte, die das
-Urgebirge zerstörten, um aus den Trümmern neue Felsmassen zu bilden. Ueberreste
+Urgebirge zerstörten, um aus den Trümmern neue Felsmassen zu bilden. Überreste
 von Farrenkräutern, Korallen und Muscheln deuten auf eine Flüssigkeit, die vom
 Wasser, und eine Atmosphäre, die von der jetzigen nicht sehr verschieden war.
 
 Durch Reichthum an Kalk und fast völligen Mangel an Krystallisation zeichnen
 sich die *Flözgebirge* von den vorigen aus. Fast immer geschichtet, gleichen
 sie den Niederschlägen von Erdtheilen, die der Ocean fortgerissen hat, und
-zahlreiche Ueberreste der niederen Klassen des Thier-und Pflanzenreichs
+zahlreiche Überreste der niederen Klassen des Thier-und Pflanzenreichs
 bezeugen ein bedeutend jüngeres Alter, als das der beiden vorhergehenden
-Gebilde. Doch merkwürdig ist's, daß fast keine einzige von den zahlreichen
+Gebilde. Doch merkwürdig ist’s, daß fast keine einzige von den zahlreichen
 Pflanzen- und Thierarten mit den noch jetzt lebenden übereinstimmt; in den
-Polargegenden findet man Ueberreste organischer Wesen, deren verwandte Arten
-jetzt nur noch am Aequator leben, und umgekehrt.
+Polargegenden findet man Überreste organischer Wesen, deren verwandte Arten
+jetzt nur noch am Äquator leben, und umgekehrt.
 
 Dasselbe gilt auch von den *tertiären Gebirgen*. Aber hier finden sich neben
-den Ueberresten der niederen Thierklassen auch Säugethiere, Vögel und
+den Überresten der niederen Thierklassen auch Säugethiere, Vögel und
 Amphibien, und es ist merkwürdig, daß gerade die wunderbaren Formen der
 Faulthiere, der Elephanten, und ähnlicher Thiere, mit gigantischen Ochsen,
 Hirschen u. dergl., so häufig gefunden werden. Auch von Waldungen sind uns
-unermeßliche Ueberreste in den Stein- und Braunkohlen-Gebirgen geblieben. Es
+unermeßliche Überreste in den Stein- und Braunkohlen-Gebirgen geblieben. Es
 darf uns zwar nicht befremden, daß einige Thier und Pflanzenformen ausgeartet
 oder ganz vernichtet sind, da selbst die wenigen Jahre, seitdem der Mensch sich
 der Zoologie und Botanik mit größerer Aufmerksamkeit widmet, nicht ohne
@@ -378,8 +378,8 @@ veranlaßt. Indeß wenn das Reich der organischen Wesen auch durch den Untergang
 mancher Art vermindert ist, so wird dieser Verlust doch reichlich durch die
 Bildung des Menschen entschädigt. Er scheint, mit den ihm am nächsten stehenden
 Affen, ganz der neueren Zeit anzugehören; in keinem Gestein, das den früheren
-Gebilden angehört, ist eine Spur von ihm gefunden, und wenn sich Ueberreste von
-ihm zeigen, so ist's in loser Erde, oder in neuen, noch jetzt sich bildenden
+Gebilden angehört, ist eine Spur von ihm gefunden, und wenn sich Überreste von
+ihm zeigen, so ist’s in loser Erde, oder in neuen, noch jetzt sich bildenden
 Gesteinen. Mit dem Menschen, als ihrem edelsten Werke, scheint daher die Natur
 die Hauptperiode ihrer Bildungsthätigkeit geschlossen zu haben, und sie jetzt
 nur noch in niedren Pflanzen- und Thiergebilden zeigen zu können.
@@ -394,7 +394,7 @@ plötzlichen Durchbrüchen, deren Spuren wir noch sehen, ganze Gebirge, und
 lagerte auf die flachen Gegenden Steine und Erde in solcher Höhe, daß der
 größte Theil des Landes damit bedeckt ist.
 <@pagebreak/>
-Ueberall finden sich Spuren von
+Überall finden sich Spuren von
 Pflanzen, Thieren, ja auch Menschen, zum Theil noch deutlich zu erkennen, zum
 Theil durch Verwesung in fruchtbare *Dammerde* aufgelöst, die wiederum zur
 Erzeugung organischer Wesen beiträgt; so daß sie uns in Zweifel läßt, ob wir
@@ -411,7 +411,7 @@ ihnen günstige Umstände erwarten, um sich mit furchtbarer Explosion zu
 entzünden. Aber zum Glück treten jene Umstände nur selten ein, und wenn es
 geschieht, hat die gütige Natur für Rettungsmittel gesorgt, indem entweder die
 Stärke der Erdrinde jenem Drucke widersteht, oder wenn ein schwacher Theil
-gebrochen wird, ist's nur dieser, aus welchem sich die empörten Elemente
+gebrochen wird, ist’s nur dieser, aus welchem sich die empörten Elemente
 befreien; so daß ein kleiner Theil der Erdoberfläche für den übrigen zum Opfer
 wird. So lebt der Mensch sicher auf diesen Höhlen, diesen Ruinen, vergißt der
 Gefahren, die jeden Augenblick auf ihn einbrechen können, und bedenkt nur, daß
@@ -443,7 +443,7 @@ An der Oberfläche der Erde am größten, nimmt die Dichtigkeit in einem sehr
 raschen Verhältnisse ab, so daß sie in der Höhe von 25 Meilen nicht den
 300millionten Theil derselben beträgt, also schon in dieser geringen Entfernung
 von der Erde unmerklich ist. Wenn sie nun auch ganz unbegrenzt ist und sich im
-Weltraume verliert, so ist sie doch ​in einem so hohem Grade verdünnt, daß
+Weltraume verliert, so ist sie doch in einem so hohem Grade verdünnt, daß
 ihr Einfluß auf die Himmelserscheinungen unmerklich ist, und man ihr Dasein
 außerhalb einer geringen Entfernung von der
 <@pagebreak/>
@@ -452,7 +452,7 @@ braucht. Das Verhältniß, in welchem die beiden erstgenannten Bestandtheile zu
 einander stehen, scheint fast überall, in allen Zonen, in Höhen und Tiefen, in
 menschen-vollen und leeren Räumen, unverändert zu bleiben. Der Wasserdampf, der
 in geringerer und sehr veränderlicher Menge den übrigen Bestandtheilen der
-Atmosphare beigemengt ist, scheint in noch größerem Verhältnisse von der
+Atmosphäre beigemengt ist, scheint in noch größerem Verhältnisse von der
 Oberfläche der Erde an abzunehmen.
 
 Schon in der dritten Vorlesung haben wir von den Täuschungen der Sinne
@@ -512,9 +512,9 @@ Horizont finden wir dergleichen Gegenstände, daher scheint uns dort die Grenze
 des Gewölbes weiter hinausgerückt, als in der Höhe.
 
 Indeß finden sich auf dem Ocean und den weiten Wüsten, Steppen und Savannen
-Afrika's, Asiens und Amerika's oft eben so wenig unterschiedene Gegenstände auf
+Afrika’s, Asiens und Amerika’s oft eben so wenig unterschiedene Gegenstände auf
 der Erde, als in der Luft, und dennoch erscheinen uns dieselben in jener
-plattgedrückten Gestalt. Richtiger ist daher wol *Euler's* Erklärung: Jedes
+plattgedrückten Gestalt. Richtiger ist daher wol *Euler’s* Erklärung: Jedes
 durch einen durchsichtigen Körper gehende Licht wird geschwächt. Auch durch die
 Luft gesehn, erscheinen uns die Gegenstände desto klarer, je reiner und dünner
 sie ist; und in heißen und hohen Gegenden erblicken wir oft Sterne mit
@@ -566,11 +566,11 @@ wovon wir im Spiegel Beispiele sehen; man nennt dieses *Zurückwerfung*,
 vorigen abweichenden Richtung, so daß der Stral, wenn er in einen dichteren
 Körper tritt, sich der auf der gemeinschaftlichen Oberfläche beider Körper
 senkrechten Linie nähert. Die Ablenkung ist um so größer, je größer der Winkel
-ist, den sie mit einander machen, so daß nur dann keine Aenderung statt findet,
+ist, den sie mit einander machen, so daß nur dann keine Änderung statt findet,
 wenn der Stral senkrecht auf die Oberfläche fällt. Man nennt diese Erscheinung
 *Brechung des Lichts*, *Refraktion*. Wir sehn den Körper immer in der Richtung,
 welche der Stral hat, wenn er unser Auge erreicht, also nicht in der wahren
-Stelle. So scheint z.B. ein zum Theil in Wasser gehaltener Stab gebrochen.
+Stelle. So scheint ab. ein zum Theil in Wasser gehaltener Stab gebrochen.
 Beides, Spiegelung und Brechung des Lichts, zeigt sich uns nur dann regelmäßig,
 wenn die Oberfläche beider Körper völlig eben ist; da dieses aber fast nie der
 Fall ist, so wird ein Theil des Lichts nach allen Richtungen *zerstreuet*
@@ -655,14 +655,14 @@ ist ein für die Astronomen zugleich sehr wichtiger und sehr schwieriger Punkt.
 Am Horizont, wo der Stral die größte und dichteste Luftmasse zu durchschneiden
 hat, beträgt der Refraktionswinkel 34 Minuten. Um diesen Winkel sind also die
 Sterne unter dem Horizont, wenn sie am Rande desselben erscheinen, und der
-Mittelpunkt der Sonne und des Mondes, deren Durchmesser etwa 30' beträgt, sind
-noch 50' unter dem Horizont, wenn ihr oberer Rand schon hervorbricht. Man nennt
+Mittelpunkt der Sonne und des Mondes, deren Durchmesser etwa 30’ beträgt, sind
+noch 50’ unter dem Horizont, wenn ihr oberer Rand schon hervorbricht. Man nennt
 diesen Winkel die *Horizontalrefraktion*. Mit der Höhe nimmt er sehr rasch ab,
-daher der obere Theil der Sonne und des Mondes beim Auf- und Untergange 6'
+daher der obere Theil der Sonne und des Mondes beim Auf- und Untergange 6’
 <@pagebreak/>
 weniger, als der untere gehoben ist, und sie deshalb plattgedrückt erscheinen.
-Bei 1° Höhe beträgt die Refraktion nur noch 24⅓'; bei 5°, noch 10'; bei 10°,
-5½'; bei 20°, 2¾'; bei 40°, 1¼'; bei 60°, ½' und nimmt von da an etwa einen
+Bei 1° Höhe beträgt die Refraktion nur noch 24⅓’; bei 5°, noch 10’; bei 10°,
+5½’; bei 20°, 2¾’; bei 40°, 1¼’; bei 60°, ½’ und nimmt von da an etwa einen
 Sekunde auf jeden Grad ab. Am Zenith endlich ist sie = 0. Je höher der Stern in
 seiner täglichen Bahn steht, desto geringer ist sie, am kleinsten also beim
 oberen Durchgang durch den Meridian; ein Grund mehr, den Stern in dieser Lage
@@ -694,13 +694,13 @@ Umstand ist die *Irradiation*. Ein glänzender, in einiger Entfernung
 befindlicher Körper bringt in unsrem Auge einen Reiz hervor, der ihn nach allen
 Seiten um etwa zwei Minuten, oder den Durchmesser um vier Minuten vergrößert.
 Die Entfernung und Größe des Himmelskörpers scheinen darauf keinen bedeutenden
-Einfluß zu üben; statt 32' hat der Mond einen Durchmesser von 36', Jupiter
-statt 38", 4½ Min.; die Fixsterne, die keine Sekunde im Durchmesser haben, 4';
+Einfluß zu üben; statt 32’ hat der Mond einen Durchmesser von 36’, Jupiter
+statt 38", 4½ Min.; die Fixsterne, die keine Sekunde im Durchmesser haben, 4’;
 Venus und Merkur scheinen uns, selbst wenn sie sichelförmig sind, rund zu sein;
 bei den Neumonden, den Sonnen- und Mondfinsternissen wird der erleuchtete Theil
 des Mondes auf Kosten des dunklen vergrößert. So scheint auch ein entferntes
 Licht größer zu sein. Dieses hat die älteren Astronomen oft getäuscht, indem
-sie z. B. dem Sirius einen Durchmesser von 4' gaben. Durch Fernröhre wird die
+sie z. B. dem Sirius einen Durchmesser von 4’ gaben. Durch Fernröhre wird die
 Irradiation sehr vermindert und um so mehr, je besser sie sind; daher die
 seltsame Erscheinung, daß die Fixsterne immer um desto kleiner erscheinen, je
 stärker das Fernrohr vergrößert.
@@ -737,7 +737,7 @@ Fernröhre, die das Licht eines Sterns in einer größeren Oberfläche auffangen
 ist es weit weniger merklich.
 
 Astronomische Beobachtungen können nur bei heiterem Himmel statt finden, denn
-durch einen Wolkengürtel ist selbst die Sonne ​nicht sichtbar; aber
+durch einen Wolkengürtel ist selbst die Sonne nicht sichtbar; aber
 glücklicher Weise senden uns die von der Sonne erleuchteten Wolken und andre
 Körper das Licht derselben als *Tageslicht* zu, wodurch auch die der
 unmittelbaren Stralen der Sonne, des *Sonnenlichts*, entbehrenden Gegenstände
@@ -754,6 +754,6 @@ großen Entfernungen nicht wahrnehmbar sind, bedeckt die heißen Länder in ihre
 Regenzeit und folgt fast beständig der Bahn der Sonne durch die verschiedenen
 Parallelen zwischen den Wendekreisen. Ein Beobachter auf dem Monde, der Sonne
 oder einem der näheren Planeten wird daher diesen Gürtel als einen dunklen, dem
-Aequator parallelen, beweglichen Streif wahrnehmen. Aehnliche Erscheinungen
+Äquator parallelen, beweglichen Streif wahrnehmen. Ähnliche Erscheinungen
 werden uns die meisten Planeten zeigen.
 

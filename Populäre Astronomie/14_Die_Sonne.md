@@ -17,7 +17,7 @@ Vollkommenheit der neueren Beobachtungsweise kennen wir noch keine
 unbezweifelte Fortbewegung der Sonne im Raume.
 
 Ihre Größe ist aber nur scheinbar der des Mondes nicht sehr überlegen, sie
-beträgt zwar nur 32'2"9; aber bei der großen Entfernung von 21 Mill. Meilen ist
+beträgt zwar nur 32’2"9; aber bei der großen Entfernung von 21 Mill. Meilen ist
 ihr wirklicher Durchmesser 112,4 mal, ihre Oberfläche 12641, und ihr
 körperlicher Inhalt 1421150 mal so groß, wie die der Erde. Ihr Durchmesser
 beträgt 193260 Meilen, etwa 1/216 der Entfernung der
@@ -32,19 +32,19 @@ keinesweges als eine ebene, überall gleich stark glänzende Fläche, sondern si
 hat einzelne, oft scharf begrenzte hellere und dunkle Stellen, die beständig
 ihre Lage auf der Sonnenscheibe verändern und die wir gleich genauer
 untersuchen wollen. Durch die Bewegung dieser Flecken hat man entdeckt, daß
-sich die Sonne in 25 Tagen 1 Stunde 0 Min. 26 Sek., in einer 7°7'58" zur
+sich die Sonne in 25 Tagen 1 Stunde 0 Min. 26 Sek., in einer 7°7’58" zur
 Ekliptik geneigten Ebene, und zwar von Osten nach Westen, um ihre Achse drehe.
 Einem Bewohner der Sonne würden sich daher während dieser Zeit dieselben
 Erscheinungen darbieten, wie uns während des Tages, nur daß die Planeten sich
 um ihn in derselben Richtung zu bewegen scheinen, wie die Sterne. Die Sonne hat
-ihre Pole wie ihren *Aequator*, der die Ekliptik, in zwei Punkten schneidet,
+ihre Pole wie ihren *Äquator*, der die Ekliptik, in zwei Punkten schneidet,
 wovon der aufsteigende Knoten, d. h. derjenige, durch welchen sich die Flecken
 von dem südlichen nach dem nördlichen Theile der Ekliptik begeben (S. 97), von
-der Sonne aus gesehn (S. 100) eine Länge von 258°13'5", der absteigende Knoten
-also 11°46'55", hat. Dem Erdenbewohner bieten sich die Folgen der Achsendrehung
+der Sonne aus gesehn (S. 100) eine Länge von 258°13’5", der absteigende Knoten
+also 11°46’55", hat. Dem Erdenbewohner bieten sich die Folgen der Achsendrehung
 der Sonne minder einfach dar. Der Sonnenäquator zeigt sich ihm als die Hälfte
 einer sehr zusammengedrückten Ellipse, indem nur der auf der Linie zwischen der
-Erde und der Sonne senkrecht stehende Durchmesser des Aequators sich in seiner
+Erde und der Sonne senkrecht stehende Durchmesser des Äquators sich in seiner
 vollen Breite zeigt, der auf diesem perpendikular stehende aber, selbst wenn er
 am größten ist, noch nicht den sechsten Theil davon beträgt. Die dem
 Sonnenäquator parallel laufenden Kreise zeigen
@@ -61,8 +61,8 @@ In der Gestalt dieser Ellipsen, ihren Krümmungen und Neigungen werden durch den
 Kreislauf der Erde große Veränderungen hervorgebracht. Wenn sie immer in der
 Ebene des Sonnenäquators bliebe, so würden dieser und die Parallelkreise sich
 ihr immer als gerade Linien darstellen, wegen der Neigung derselben findet
-dieses jedoch nur den 10. ​Dec. und den 10. ​Juni statt, wo sich die
-Erde in der Knotenlinie des Aequators und der Ekliptik befindet; zu jeder
+dieses jedoch nur den 10. Dec. und den 10. Juni statt, wo sich die
+Erde in der Knotenlinie des Äquators und der Ekliptik befindet; zu jeder
 andern Zeit beschreiben die Flecken einen mehr oder weniger gekrümmten Bogen.
 Am 10. December, im aufsteigenden Knoten, scheinen die Flecken sich in einer
 geraden Linie vom südlichen Theile der Ekliptik nach dem nördlichen zu bewegen.
@@ -71,8 +71,8 @@ niedriger als diejenigen, wo sie verschwinden, oder ihr Westen. Allmälig
 krümmen sich diese Linien und bilden Bogen, deren Krümmung nach dem Nordpol der
 Ekliptik gerichtet ist: dieses geschieht im Winter und im Frühjahr, aber zu
 gleicher Zeit ändert sich ihre Breite, und am 10. März sind die Ost- und
-Westpunkte in gleicher Entfernung vom Aequator. Die Ellipse hat nämlich jetzt
-ihre größte Weite und die Erde ihren südlichsten Stand unter dem Aequator der
+Westpunkte in gleicher Entfernung vom Äquator. Die Ellipse hat nämlich jetzt
+ihre größte Weite und die Erde ihren südlichsten Stand unter dem Äquator der
 Sonne erreicht, der sich daher in der nördlichen Hälfte der uns zugekehrten
 <@pagebreak/>
 Sonnenscheibe befindet, so daß seine Krümmung nach Norden gekehrt ist. Man
@@ -87,11 +87,11 @@ Linien. Zwar sind die Flecken keinesweges unveränderlich, sie entstehn und
 verschwinden vielmehr und haben auch eigne, selbst von der Sonne aus sichtbare
 Bewegungen; jene Bewegung ist jedoch allen gemeinschaftlich und wird nur durch
 die eigenthümlichen Bewegungen modificirt. Während der 27 tägigen Achsendrehung
-der Sonne gehn alle Theile ihres Aequators vor unsren Äugen über die Scheibe,
+der Sonne gehn alle Theile ihres Äquators vor unsren Äugen über die Scheibe,
 aber von December bis Juni sehn wir die nördlichen Polarländer der Sonne, die
 uns in den übrigen Monaten des Jahres unsichtbar sind, wofür wir aber alsdann
 die uns früher verborgenen Südpolarländer erblicken. Wie auf der Erde kann auf
-der Sonne die Lage der einzelnen Flecken nach ihrer Entfernung vom Aequator und
+der Sonne die Lage der einzelnen Flecken nach ihrer Entfernung vom Äquator und
 von einem willkürlich angenommenen Längenkreise bestimmt werden, und ihre Größe
 durch die Anzahl der Grade die sie auf der Sonnenkugel einnehmen. Der
 Sonnenäquator hat natürlich, wie jeder Kreis, 360 Grade, wovon aber jeder
@@ -105,10 +105,10 @@ sie sich dem Rande nähern, desto kleiner werden sie. Ein kreisförmiger Fleck i
 der Mitte wird in der Nahe des westlichen Randes länglich, und eben so tritt er
 wieder nach 14 Tagen am östlichen Rande hervor, wenn seine Gestalt bis dahin
 unverändert geblieben ist; dagegen wird ein runder Fleck am östlichen Rande, in
-der Mitte zu einer in der Richtung des Aequators ausgedehnten Ellipse. Diese
+der Mitte zu einer in der Richtung des Äquators ausgedehnten Ellipse. Diese
 scheinbaren Veränderungen dürfen also nicht mit den wirklichen verwechselt
 werden. Die Gegend, worin die Flecken häufig sind, erstreckt sich nicht 34°
-über den Aequator hinaus.
+über den Äquator hinaus.
 
 Der Halbmesser und der Umkreis der Sonne ist über 100 mal so groß wie die der
 Erde, da die Umlaufszeit aber nur 25 mal so groß ist, so bewegt sich ihre
@@ -122,13 +122,13 @@ fortgerissen wird, unverändert; sie tritt vielmehr in die Reihe der Fixsterne
 ein, und diese Untersuchung bleibt deshalb einer der folgenden Vorlesungen
 vorbehalten.
 
-Eine Achsendrehung verursacht überall eine Erhöhung um den Aequator und eine
+Eine Achsendrehung verursacht überall eine Erhöhung um den Äquator und eine
 Abplattung an den Polen, wie bei der Erde. Theoretische Gründe setzen sie bei
 der Sonne auf 1/37470, also für die Erfahrung unmerklich. Zwar glaubte man
 gefunden zu haben, daß der Durchmesser der Sonne durch die 
 <@pagebreak/>
 Pole sich zu denen
-des Aequators wie 408:407 verhalte, also eine Erhöhung an den Polen stattfinde,
+des Äquators wie 408:407 verhalte, also eine Erhöhung an den Polen stattfinde,
 wie bei der durch die Anziehung des Mondes auf den Erdocean hervorgebrachten
 Gestalt (S.209); allein dieses beruht wahrscheinlich nur auf Täuschung.
 
@@ -164,7 +164,7 @@ Verlust, den diese durch allmälige Verlöschung erleiden würde, berechnet; ind
 werden auch durch diese Hypothese, wie wir bald sehen werden, die Erscheinungen
 nicht erklärt, und sie bleibt ähnlichen Einwürfen unterworfen, wie jene.
 
-Die Meinung des berühmten cordovischen Arztes *Averrhoes*, *Otto's* von
+Die Meinung des berühmten cordovischen Arztes *Averrhoes*, *Otto’s* von
 *Guerike* u. v. a., daß die Flecken von Kometen oder Trabanten herrühren, die
 nahe vor der Sonne vorübergehen, wird durch die Ungleichförmigkeit der Bewegung
 der Flecken widerlegt. Die größte Schwierigkeit bei der Erklärung macht die
@@ -180,7 +180,7 @@ Sonne genauer zu ergründen versucht. Die Sonne ist, nach ihrer Ansicht, ein
 dunkler, unebener Körper, mit Bergen durchschnitten, die, obgleich über 100
 Meilen hoch, 
 <@pagebreak/>
-die unsrigen im Verhältnis an Höhe nicht übertreffen. Ueber ihr
+die unsrigen im Verhältnis an Höhe nicht übertreffen. Über ihr
 erhebt sich eine wol 500 Meilen hohe Atmosphäre, die, wie die unsrige, mit
 verschiedenartigen Wolken gefüllt ist; aber in der höchsten Region sind die
 *Lichtwolken*, die sowohl der Sonne selbst als den andren Körpern des Systems
@@ -196,13 +196,13 @@ dem schönsten weißen Lichte an, alle dunklen Schattirungen von Grau und
 Bräunlich. Die ganz dunklen nannte man *Kernflecken*, die graulichen,
 *Halbschatten*. Es finden sich aber auch Stellen, die an Glanz die allgemeine
 Oberfläche übertreffen; diese nannte man Sonnenfackeln und hielt sie für die
-Oerter, wo Vulkane früher dunklere Massen ausstießen, aber endlich in Ruhe
+Örter, wo Vulkane früher dunklere Massen ausstießen, aber endlich in Ruhe
 gebracht uns ihre Flamme zeigen. Man sieht sie vorzüglich in der Nähe der
 Ränder. Diese Benennungen hat Herschel durch die passendern Benennungen,
-Oeffnungen, Spalten, Poren u. dergl. ersetzt. Folgendes sind die vorzüglichsten
+Öffnungen, Spalten, Poren u. dergl. ersetzt. Folgendes sind die vorzüglichsten
 Erscheinungen der Sonnenoberfläche.
 
-*Oeffnungen* sind diejenigen Stellen, wo die Lichtwolken der Sonne von einander
+*Öffnungen* sind diejenigen Stellen, wo die Lichtwolken der Sonne von einander
 entfernt sind, so daß der dunkle Sonnenkörper sichtbar wird. Sie sind anfangs
 klein, vergrößern sich allmälig, auch vereinigen sich wol mehrere kleinere zu
 einer größeren. Sie entstehen wahrscheinlich durch die Strömung eines Gases,
@@ -216,12 +216,12 @@ Das Gas bewegt sich dabei nicht nach allen Seiten gleichförmig hin, sondern
 richtet sich zuweilen schief, so daß die Lichtwolken, nach einer Gegend mehr
 hingetrieben als zur andern, auf den Seiten dichtere Lichtanhäufungen bilden.
 
-Es findet sich zuweilen ein Unterschied in der Farbe dieser Oeffnungen, der
+Es findet sich zuweilen ein Unterschied in der Farbe dieser Öffnungen, der
 wahrscheinlich durch eine dünne Schicht niedrigerer, höchst veränderlicher
-Wolken hervorgebracht wird. Vor ihrem Verschwinden werden die Oeffnungen oft
+Wolken hervorgebracht wird. Vor ihrem Verschwinden werden die Öffnungen oft
 von einem Lichtstreif durchbrochen, der sich wie eine Brücke über einen Abgrund
 darstellt, dessen Tiefe durch ein gutes Teleskop wohl bemerkt wird. Sind die
-Oeffnungen kleiner, so nennt man sie *Poren*, die sich gewöhnlich zu Oeffnungen
+Öffnungen kleiner, so nennt man sie *Poren*, die sich gewöhnlich zu Öffnungen
 vergrößern, oft aber auch verschwinden. *Runzeln* oder *Falten* sind kleine
 längliche Erhöhungen und Vertiefungen des Lichtstoffs; einige dieser Stellen,
 wie es scheint niedriger als die andren, sind dunkeler, wodurch die Oberfläche
@@ -239,10 +239,10 @@ darstellen, sich offenbar
 Landschaften wie im Monde zeigen. Durch die Wolken der Sonnenatmosphäre werden
 Gestalt und Lage dieser Runzeln oft verändert.
 
-Minder tief als diese Oeffnungen sind die *Halbschatten* (*Buckeln*). Nur die
+Minder tief als diese Öffnungen sind die *Halbschatten* (*Buckeln*). Nur die
 äußere Oberfläche der Lichtwolken ist durchbrochen, und man sieht auf minder
 erleuchtete Wolken, die aber nicht so dunkel wie der Sonnenkörper sind. Ihre
-Tiefe ist merklich und bald haben sie Oeffnungen in ihrem Innern wodurch der
+Tiefe ist merklich und bald haben sie Öffnungen in ihrem Innern wodurch der
 Kern sichtbar ist, bald nicht. Wahrscheinlich haben nicht ganz senkrecht von
 dem Sonnenkörper in die Höhe steigende Strömungen sich an der Stelle der
 Lichtatmosphäre einen Weg gebahnt, der am leichtesten zu durchbrechen war, und
@@ -250,15 +250,15 @@ die niedrigeren Wolken umgangen: zuweilen sehen sie einer Anhäufung sehr
 dichter Wolken ähnlich.
 
 *Furchen* sind lange schmale Erhöhungen der Lichtwolken, welche gewöhnlich die
-Oeffnungen umgeben, aber auch in andren Theilen der Sonnenoberfläche vorkommen.
+Öffnungen umgeben, aber auch in andren Theilen der Sonnenoberfläche vorkommen.
 Sie sind wol 15O0 Meilen lang, verschwinden aber bald.
 
 *Knoten* nennt man sehr kleine und hohe Lichtstellen, die sich nur am Rande der
 Sonne befinden. Wahrscheinlich sind es Furchen die uns durch die Kugelgestalt
 der Sonne zusammengedrückt erscheinen.
 
-Nach Cassini und Schröter haben die meisten Flecken vorzüglich am Aequator eine
-beschleunigte Bewegung, welche sich auf den Aequatorgegenden der Sonne als ein
+Nach Cassini und Schröter haben die meisten Flecken vorzüglich am Äquator eine
+beschleunigte Bewegung, welche sich auf den Äquatorgegenden der Sonne als ein
 Wind von Westen nach Osten zeigen würde. Die Erdwinde gehen von Osten nach
 Westen (S. 218).
 
@@ -326,7 +326,7 @@ verschieden sind.
 Das Gesagte gilt für die Sonne, wie für alle andren Himmelskörper; wir werden
 ihre Erscheinungen betrachten, die das Dasein vernünftiger, oder unvernünftiger
 organischer Wesen wahrscheinlicher machen könnten, aber nie über die
-Aehnlichkeit oder Unähnlichkeit derselben mit den Erdbewohnern eine Vermuthung
+Ähnlichkeit oder Unähnlichkeit derselben mit den Erdbewohnern eine Vermuthung
 zu bilden wagen.
 
 Es ist möglich, ja sogar wahrscheinlich, daß die größere und geringere Anzahl
@@ -353,7 +353,7 @@ ausdehnen, also nicht bis zur Hälfte der Merkursbahn reichen, (in dieser
 Entfernung würde nämlich nach dem dritten Keplerschen Gesetze ein Planet sich
 mit einer Geschwindigkeit um die Sonne bewegen, die der Achsendrehungszeit
 gleich käme), dessenungeachtet kann die Atmosphäre sich noch weiter erstrecken.
-Am Aequator, wo die Schwungkraft am größten ist, scheint sich die Atmosphäre am
+Am Äquator, wo die Schwungkraft am größten ist, scheint sich die Atmosphäre am
 weitesten auszudehnen; an den Polen aber weit minder, so daß der ganze
 Sonnenkörper ein linsenartig plattgedrücktes Sphäroid ausmacht, welches sich
 uns als eine große, den Sonnenkörper von allen Seiten umgebende Ellipse zeigen

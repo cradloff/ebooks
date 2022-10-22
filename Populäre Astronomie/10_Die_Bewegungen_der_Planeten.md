@@ -61,8 +61,8 @@ kleinsten zur größten Entfernung.</caption>
   <caption>Tab. 3. Siderische Umlaufszeit, die Anzahl der in einer Sekunde
 zurückgelegten deutschen Meilen, der in einem Monat durchlaufenen Bogen der
 Planetenbahn und die größte Mittelpunktsgleichung.</caption>
-  <tr><th></th><th>Umlaufszeit.</th><th>Geschw. in 1"</th><th>Bog. ​in 1M.</th><th>Mittelp.Gl.</th></tr>
-  <tr><td><img alt="Merkur" src="Merkur.png"/>  </td><td>   87 T. 969258</td><td>6,53 M.</td><td>124°5  </td><td>23°40'45"0</td></tr>
+  <tr><th></th><th>Umlaufszeit.</th><th>Geschw. in 1"</th><th>Bog. in 1M.</th><th>Mittelp.Gl.</th></tr>
+  <tr><td><img alt="Merkur" src="Merkur.png"/>  </td><td>   87 T. 969258</td><td>6,53 M.</td><td>124°5  </td><td>23°40’45"0</td></tr>
   <tr><td><img alt="Venus" src="Venus.png"/>    </td><td>  224 "  700824</td><td>4,85 " </td><td> 48,7  </td><td> 4 47 10,7</td></tr>
   <tr><td><img alt="Erde" src="Erde.png"/>      </td><td>  365 "  256383</td><td>4,12 " </td><td> 30,0  </td><td> 1 55 28,5</td></tr>
   <tr><td><img alt="Mars" src="Mars.png"/>      </td><td>  686 "  979619</td><td>3,29 " </td><td> 15,87 </td><td>10 41 33,4</td></tr>
@@ -71,7 +71,7 @@ Planetenbahn und die größte Mittelpunktsgleichung.</caption>
 <@pagebreak/>
 
 <table>
-  <tr><th></th><th>Umlaufszeit.</th><th>Geschw. in 1"</th><th>Bog. ​in 1M.</th><th>Mittelp.Gl.</th></tr>
+  <tr><th></th><th>Umlaufszeit.</th><th>Geschw. in 1"</th><th>Bog. in 1M.</th><th>Mittelp.Gl.</th></tr>
   <tr><td><img alt="Vesta" src="Vesta.png"/>    </td><td> 1327 "  598293</td><td>2,73 " </td><td>  8,25 </td><td>10 10 57,8</td></tr>
   <tr><td><img alt="Juno" src="Juno.png"/>      </td><td> 1593 "  841740</td><td>2,56 " </td><td>  6,88 </td><td>29 29 59,0</td></tr>
   <tr><td><img alt="Ceres" src="Ceres.png"/>    </td><td> 1681 "  400908</td><td>2,52 " </td><td>  6,53 </td><td> 9  0  7,6</td></tr>
@@ -85,7 +85,7 @@ Planetenbahn und die größte Mittelpunktsgleichung.</caption>
   <caption>Tab. 4. Lage der Planetenellipsen.</caption>
   <tr><th>Neigung zur Ekliptik.</th><th>Länge des aufft. Knotens.</th><th>Länge
 des Apheliums.</th><th>Neigung zum Sonnenäquat.</th></tr>
-  <tr><td><img alt="Merkur" src="Merkur.png"/>  </td><td> 7° 0' 0" </td><td> 46° 4' 1"</td><td>254°30'14"</td><td> 2°54' 4"</td></tr>
+  <tr><td><img alt="Merkur" src="Merkur.png"/>  </td><td> 7° 0’ 0" </td><td> 46° 4’ 1"</td><td>254°30’14"</td><td> 2°54’ 4"</td></tr>
   <tr><td><img alt="Venus" src="Venus.png"/>    </td><td> 3 23 28,5</td><td> 74 57 18 </td><td>308 44 18 </td><td> 4  9 12</td></tr>
   <tr><td><img alt="Erde" src="Erde.png"/>      </td><td> 0  0  0  </td><td>  0  0  0 </td><td>279 39 22 </td><td> 7 30  0</td></tr>
   <tr><td><img alt="Mars" src="Mars.png"/>      </td><td> 1 51  5  </td><td> 48  3 48 </td><td>152 33 49 </td><td> 5 49 55</td></tr>
@@ -179,10 +179,10 @@ Ungewißheit von mehreren Minuten statt.
 
 Von den in diesen Tabellen enthaltenen Größen sind die mittleren Entfernungen
 und Umlaufszeiten keinen oder fast keinen Veränderungen unterworfen; im übrigen
-aber erleiden die Planeten ähnliche Aenderungen wie die Erde. Die Länge der
+aber erleiden die Planeten ähnliche Änderungen wie die Erde. Die Länge der
 Aphelien und Knoten ändert sich beständig, theils durch eine fortschreitende
 Säkularbewegung, theils durch ein Hin- und Herschwanken um einen mittleren
-Werth. Indeß muß man hiervon eine scheinbare Aenderung in der Länge der Knoten
+Werth. Indeß muß man hiervon eine scheinbare Änderung in der Länge der Knoten
 und Aphelien ausnehmen, welche durch das Fortrücken der Nachtgleichen auf der
 Erde verursacht wird. Die Zeit, bis ein Planet wieder auf denselben Längegrad
 kommt — der *tropische* oder *periodische* Umlauf — ist daher verschieden von
@@ -190,7 +190,7 @@ der heliocentrischen Rückkehr zu denselben Sternen, dem *siderischen* Umlaufe,
 der länger dauert als jener.
 
 Eben so verhält es sich mit den Veränderungen in der Neigung der Ebenen der
-Planetenbahnen auf unsre Ekliptik; sie rühren theils von einer Aenderung in der
+Planetenbahnen auf unsre Ekliptik; sie rühren theils von einer Änderung in der
 Lage der Ekliptik, theils in der der Planetenbahnen her. Indeß sind diese
 Untersuchungen zu verwickelt für unsren Zweck, und wir gehn deshalb zu den
 *geocentrischen* Bewegungen der Planeten über.
@@ -322,7 +322,7 @@ Stern alsdann ohnedieß unsichtbar ist; desto merkwürdiger sind aber die
 letzteren Erscheinungen durch ihre Seltenheit und ihre Wichtigkeit für die
 Astronomie. Sie bringen keine Verfinsterung der Sonne hervor — denn der
 Schattenkegel, den die große Sonne hinter den viel kleineren Planeten bildet,
-erreicht im ganzen Sonnensystem nie den entfernteren Planeten — : sondern Venus
+erreicht im ganzen Sonnensystem nie den entfernteren Planeten —: sondern Venus
 oder Merkur ziehen als kleiner runder Fleck durch die Sonnenscheibe, und zwar
 von Osten nach Westen, weil diese Erscheinungen nur in den unteren
 Konjunktionen eintreten können. Man nennt sie die *Durchgänge* der Venus oder
@@ -345,15 +345,15 @@ Bahnen der Erde und der Planeten ab.
 *Merkur*, derjenige der beiden unteren Planeten, welcher der Sonne am nächsten
 ist, wegen seiner geringen Größe und der Nähe zur Sonne erst lange nach der
 oberen Konjuktion zu erkennen, entfernt sich von der Sonne bis auf einen
-scheinbaren Abstand von 16° 12' oder 28° 14' — einen so bedeutenden Unterschied
+scheinbaren Abstand von 16° 12’ oder 28° 14’ — einen so bedeutenden Unterschied
 können die Unregelmäßigkeiten der Bahnen hervorbringen, — im Durchschnitt bis
-auf 22° 30'. Weil die Sonne sich jetzt rascher als Merkur bewegt, so nähern
+auf 22° 30’. Weil die Sonne sich jetzt rascher als Merkur bewegt, so nähern
 sich beide wieder, obgleich sich dieser noch eine Zeitlang nach Osten
 fortbewegt; bei 18° Abstand von der Sonne geht ihr Merkur nach Westen entgegen,
 taucht sich des Abends bei _C_ in ihre Stralen, und setzt dann seinen Weg auf
 der Westseite der Sonne fort, bis er, wenn er wieder etwa 18° von der Sonne
 entfernt ist, rechtgängig wird, also zwar der Sonne folgt, sich aber dennoch
-von ihr entfernt, und bald darauf seine größte Elongation von 22°30' auf der
+von ihr entfernt, und bald darauf seine größte Elongation von 22°30’ auf der
 Westseite erreicht. Nun nähert er sich mit immer zunehmender Geschwindigkeit,
 bis er sich in der oberen Konjunktion des Morgens in ihren Stralen verliert. Er
 durchläuft im Ganzen auf seiner rückgängigen Bewegung einen Bogen von 13° in
@@ -364,7 +364,7 @@ dieselbe Lage zur Erde und Sonne einnimmt, schwankt zwischen 106 und 130 Tagen.
 Merkur muß nämlich, wenn er seinen siderischen Umlauf von 88 Tagen vollendet
 hat, der Sonne nacheilen, die indessen etwa 90° fortgerückt ist. Er holt sie im
 Durchschnitt nach 28 Tagen ein, nachdem er noch 114° zurückgelegt hat, also
-überhaupt 474°, denn 360°: 474° = 88 T : 116 T. Er entfernt sich wol bis auf 7°
+überhaupt 474°, denn 360°: 474° = 88 T: 116 T. Er entfernt sich wol bis auf 7°
 von der Ekliptik, und steht daher in seinen unteren Konjunktionen gewöhnlich zu
 weit von der Sonne ab, um die Erscheinung eines Durchgangs zu gewähren. Diese
 ereignen sich in einem Jahrhundert ungefähr 14 mal; der letzte war den 5. März
@@ -375,11 +375,11 @@ durch Nähe und Größe alle andren an Glanz übertreffende Gestirn gewährt im
 Ganzen dieselben Erscheinungen wie Merkur, nur in größerem Maßstabe, auch weit
 regelmäßiger, weil seine Abweichung von der Kreisbahn und der Ebene der
 Ekliptik viel unbeträchtlicher ist. Ihre größte Elongation beträgt 45° — 47°
-12", der Bogen ihrer rückgängigen Bewegung ist zwischen 28° 48' östlich und
-westlich von der unteren Konjunktion; die mittlere Größe derselben ist 16° 12'
+12", der Bogen ihrer rückgängigen Bewegung ist zwischen 28° 48’ östlich und
+westlich von der unteren Konjunktion; die mittlere Größe derselben ist 16° 12’
 und ihre mittlere Dauer 42 Tage. Man möchte glauben, daß dieser Bogen 2 mal 28°
-48' = 57° 36' betragen müsse, aber da die Sonne in dieser Zeit 41° 24'
-vorrückt, so bleiben dem Planeten nur noch 16° 12'. Den schönsten Anblick
+48’ = 57° 36’ betragen müsse, aber da die Sonne in dieser Zeit 41° 24’
+vorrückt, so bleiben dem Planeten nur noch 16° 12’. Den schönsten Anblick
 gewährt sie, wenn sie etwa 40° von der Sonne entfernt ist; ihr Glanz ist dann
 zuweilen so groß, daß man sie am hellen Tage erblicken kann, welches, wie jede
 andre seltene und auffallende Erscheinung, auf abergläubische Weise gedeutet
@@ -399,7 +399,7 @@ sehr genau bekannt; nach dem dritten Keplerschen Gesetze lassen sich daraus die
 Verhältnisse der Entfernungen berechnen und sehr genau in Theilen der
 Entfernung der Erde von der Sonne angeben, wie in Tab. 2. dieser Vorlesung (S.
 162). Aber wie groß ist diese Entfernung? Die gewöhnliche Methode, die
-Entfernung von Oertern, zu denen man nicht gelangen kann, zu beobachten, welche
+Entfernung von Örtern, zu denen man nicht gelangen kann, zu beobachten, welche
 in der Aufsuchung des Winkels besteht, unter dem eine ihrer Größe nach bekannte
 Grundlinie von dem entfernten Orte aus gesehen werden könnte, und die auch beim
 Monde angewendet wird, haben wir oben (S. 53) angegeben; aber selbst die größte
@@ -407,7 +407,7 @@ Standlinie, die wir auf der Erde nehmen könnten, wird von der Sonne aus nur
 unter einem Winkel von wenigen Sekunden gesehen. Dennoch bleibt diese
 Beobachtung das einzige Mittel, und man konnte nur auf eine genauere Methode
 sinnen. Diese glaubte *Halley* in den Venusdurchgängen zu finden; denn der
-Unterschied der in verschiedenen Oertern beobachteten Zeit des Eintritts der
+Unterschied der in verschiedenen Örtern beobachteten Zeit des Eintritts der
 Venus in die Sonnenscheibe, oder die Zeit, welche der Planet zu seinem
 Durchgange durch die Sonne gebraucht, ist ein sehr feines Maß,
 <@pagebreak/>
@@ -415,7 +415,7 @@ sogar für den
 kleinen Bogen, den er indessen in seinem Umlaufe zurücklegt. Hieraus können
 alsdann die übrigen Größen berechnet werden. In den Jahren 1761 und 1769, wo
 diese Erscheinungen statt fanden, wurden sie in Otaheite, in Lappland und auf
-allen Sternwarten von 120 Astronomen beobachtet, und das Ergebniß von Enke's
+allen Sternwarten von 120 Astronomen beobachtet, und das Ergebniß von Enke’s
 genauester Berechnung aller Angaben gab der *Sonnenparallaxe*, d. h. dem
 Winkel, unter welchem von der Sonne aus der Halbmesser der Erde gesehen werden
 würde, eine Größe von 8" 55 und der mittleren Entfernung der Sonne 20,878,745
@@ -431,7 +431,7 @@ Die zweite und zahlreichere Abtheilung sind die *oberen Planeten*. Bei ihnen,
 wie bei den unteren Planeten sind zwei Bewegungen zu berücksichtigen erstens
 ihr eigener Kreislauf um die Sonne, und zweitens die durch die Bewegung der
 Erde hervorgebrachte Täuschung. Wir wollen zuerst die erste Bewegung betrachten
-und, wie oben, vorläusig annehmen, daß sie kreisförmig und in der Ebene der
+und, wie oben, vorläufig annehmen, daß sie kreisförmig und in der Ebene der
 Ekliptik sei.
 
 _S_ und _E_ (Fig. 13) seien Sonne und Erde _ABCDA_ die Bahn des Planeten, so
@@ -469,7 +469,7 @@ Bogen _BAD_ ist die Bewegung des Planeten nach der Ordnung der Zeichen. In der
 Opposition dagegen bewegt sich der Planet nach _EB_, also der Ordnung der
 Zeichen entgegen, und da seine eigene direkte Bewegung wegen seiner größeren
 Entfernung geringer ist, als die der Erde, so behält die scheinbare indirekte
-Bewegung das Uebergewicht, und in der Nähe der Opposition verwandelt sich
+Bewegung das Übergewicht, und in der Nähe der Opposition verwandelt sich
 daher, nach einem augenblicklichen Ruhepunkte, die direkte in die indirekte
 Bewegung, und auf der westlichen Seite der Sonne _CDA_ diese in jene. So
 verschieden also auch die Bewegung der unteren Planeten von der der oberen zu
@@ -502,7 +502,7 @@ der Himmelskugel zu jeder Zeit angeben.
 
 Die Durchgänge, die bei der Venus so wichtig sind, können bei den oberen
 Planeten nicht stattfinden, wol aber könnten wir *ihnen* die Sonne verdunkeln,
-wenn nicht die Größe der Sonne und die Entfernungen zu bedeutend wären. Oefter
+wenn nicht die Größe der Sonne und die Entfernungen zu bedeutend wären. Öfter
 werden *sie* uns durch die Sonne bedeckt; es wird aber nicht wahrgenommen, weil
 auch ohne dieß die Planeten in den Konjunktionen durch den Sonnenglanz
 verdunkelt werden.
@@ -517,10 +517,10 @@ der Aphelien u. a. m. ist, so werden wir uns doch im Folgenden nur sehr kurz
 fassen können.
 
 Der nächste aller oberen Planeten ist Mars. Seine direkte Bewegung geht von der
-Konjunktion bis er sich 236° 48' von der Sonne entfernt hat; von hier aus
+Konjunktion bis er sich 236° 48’ von der Sonne entfernt hat; von hier aus
 bewegt er sich nach einem augenblicklichen Stillstande in 76 Tagen durch 16°
-12' rückgängig. In der Mitte dieser rückgängigen Bewegung ist seine Opposition
-und bei 136° 48' westlicher Entfernung von der Sonne fängt er seine direkte
+12’ rückgängig. In der Mitte dieser rückgängigen Bewegung ist seine Opposition
+und bei 136° 48’ westlicher Entfernung von der Sonne fängt er seine direkte
 Bewegung wieder an. In der Opposition ist sein Glanz und sein Durchmesser am
 größten, und wegen seiner Nähe konnte man seine Parallaxe ziemlich genau
 finden, und daraus die Entfernung der Sonne und der übrigen Planeten berechnen;
@@ -558,12 +558,12 @@ Nächst der Venus ist der durch seine Größe und seine Trabanten ausgezeichnete
 sind für ihn untere Planeten, die ihm wegen ihres geringen Abstandes von der
 Sonne größtentheils unsichtbar sind. Seine rückgängige Bewegung beginnt und
 endigt sich nach einem augenblicklichen Stillstande bei einer Entfernung von
-115° 12' von der Sonne. Er legt indessen in 121 Tagen 9° 5' zurück.
+115° 12’ von der Sonne. Er legt indessen in 121 Tagen 9° 5’ zurück.
 
 Durch sieben Trabanten und einen ihn umgebenden Ring ist *Saturn* merkwürdig.
 Er bewegt sich so langsam, daß er, um *ein* Zeichen zurückzulegen, fast 2½ Jahr
-gebraucht. Seine rückgängige Bewegung beginnt und endigt bei 108° 54' Abstand
-von der der Sonne. Er legt dabei 6° 18' in 131 Tagen zurück.
+gebraucht. Seine rückgängige Bewegung beginnt und endigt bei 108° 54’ Abstand
+von der der Sonne. Er legt dabei 6° 18’ in 131 Tagen zurück.
 
 Der letzte und wegen seiner großen Entfernung *Uranus* genannte Planet ist von
 *Herschel*, den
@@ -610,7 +610,7 @@ deutschen Meilen; kleinster und größter scheinbarer Durchmesser; synodischer
 Umlauf.</caption>
   <tr><th colspan="2"></th><th colspan="2">Entfernung</th><th colspan="2">Scheinb. Größe</th><th rowspan="2">synodischer Umlauf</th></tr>
   <tr><th colspan="2"></th><th>größte</th><th>kleinste</th><th>kleinste</th><th>größte</th></tr>
-  <tr><td>Merkur </td><td><img alt="Merkur" src="Merkur.png"/>  </td><td> 30,981,072</td><td> 10,776,418</td><td>   4, 0</td><td>  11" 6</td><td>115 T. 21 St. 3' 34"</td></tr>
+  <tr><td>Merkur </td><td><img alt="Merkur" src="Merkur.png"/>  </td><td> 30,981,072</td><td> 10,776,418</td><td>   4, 0</td><td>  11" 6</td><td>115 T. 21 St. 3’ 34"</td></tr>
   <tr><td>Venus  </td><td><img alt="Venus" src="Venus.png"/>    </td><td> 36,435,294</td><td>  5,822,196</td><td>   9, 5</td><td>  65, 5</td><td>583 "  22 "   6  56</td></tr>
   <tr><td>Mars   </td><td><img alt="Mars" src="Mars.png"/>      </td><td> 56,007,691</td><td>  7,617,893</td><td>   2, 9</td><td>  21, 2</td><td>779 "  22 "  28  33</td></tr>
   <tr><td>Vesta  </td><td><img alt="Vesta" src="Vesta.png"/>    </td><td> 74,934,827</td><td> 23,703,273</td><td>   0,16</td><td>   0,51</td><td>504 "   9 "  13</td></tr>

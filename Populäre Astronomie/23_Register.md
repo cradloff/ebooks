@@ -60,13 +60,13 @@ kosmische, politische 404.
 
 Azimut 71. 
 
-Aequator 73. 76, der Sonne 239.
+Äquator 73. 76, der Sonne 239.
 
-Aequatorhöhe 77.
+Äquatorhöhe 77.
 
-Aequatorialparallaxe 109. 
+Äquatorialparallaxe 109. 
 
-Aequinoktium 89. 
+Äquinoktium 89. 
 
 Bedeckung der Sonne durch 
 einen Planeten, 171. 178. 
@@ -266,7 +266,7 @@ Irradation 97.
 
 Jahreszeiten 142. 
 
-Joricentrisch 222. 
+Jovicentrisch 222. 
 
 Kalender 150. 
 
@@ -393,14 +393,14 @@ Osten 75.
 
 Ostwinde 217. 
 
-Oeffnungen auf der Sonne 244. 
+Öffnungen auf der Sonne 244. 
 
 Parabel 58. 
 
 Parabolische Berechnung 321. 
 
 <@pagebreak/>
-Parallelische Bewegung ... 
+Parallelische Bewegung … 
 
 Parallaxe 53. 109. 
 

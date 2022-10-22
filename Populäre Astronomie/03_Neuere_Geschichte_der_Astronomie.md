@@ -55,7 +55,7 @@ damaligen Sitte, in Italien studirt hatte, setzte ihn ein Kanonikat in
 Marienburg in Preußen in den Stand, sich seiner Lieblingsbeschäftigung, der
 Astronomie, ganz zu widmen. Von der ausnehmenden Verwicklung des ptolemäischen
 Systems ermüdet, suchte er bei den alten Philosophen eine einfachere Anordnung
-des Weltalls zu finden. Er fand, daß die Aegypter die Venus und den Merkur um
+des Weltalls zu finden. Er fand, daß die Ägypter die Venus und den Merkur um
 die Sonne kreisen ließen; daß Nicetas, nach Cicero, die Erde sich um ihre Achse
 schwingen ließ, und dadurch die ungeheure Geschwindigkeit der täglichen
 Bewegung des Sternhimmels beseitigte. Nach den Angaben des Aristoteles und
@@ -104,7 +104,7 @@ Fernröhre. *Galilei* (geb. zu Pisa 1564 nach Chr. und gestorben 1642) war der
 glückliche Astronom, der zuerst den unermeßlichen Nutzen des neuentdeckten
 Teleskopes erkannte, und es bald vervollkommnete. Der erste Blick, den er durch
 dasselbe nach den Sternen richtete, zeigte ihm die Trabanten des Jupiter und
-mit ihnen eine neue Aehnlichkeit zwischen den Planeten und der Erde. Die hellen
+mit ihnen eine neue Ähnlichkeit zwischen den Planeten und der Erde. Die hellen
 Punkte, die er jenseit der Grenze des hellen und dunklen Theils der Mondscheibe
 entdeckte, lehrten ihn das Dasein und die Höhe seiner Berge kennen. Er
 beobachtete die Phänomene des Saturnringes, die Flecken und die Achsendrehung
@@ -116,7 +116,7 @@ an verschiedenen Stellen von der Ruhe der Erde und der Bewegung des Himmels die
 Rede ist, und nach dem Buche Josua die Sonne einmal in ihrem Laufe stehen
 blieb, um den Sieg der Israeliten über die Eingebornen vollständig zu machen
 (nirgends steht jedoch, daß sie sich seitdem wieder bewegt habe), wurde
-Galilei's Lehre von einer Gesellschaft Kardinale für ketzerisch erklärt, und er
+Galilei’s Lehre von einer Gesellschaft Kardinale für ketzerisch erklärt, und er
 selbst, vor die Inquisition gefordert, mußte, um dem Gefängnisse zu entgehen,
 sich zum Widerrufe entschließen.
 
@@ -139,8 +139,8 @@ Alter und seine Arbeiten verdienten.
 Indeß das Glück, das seine Dialogen machten, und die siegreiche Art, womit alle
 Schwierigkeiten gegen die Bewegung der Erde aufgelöst waren, erweckten die
 Eifersucht der Inquisition, und der 70 jährige Greis wurde von neuem vor ihren
-Gerichtshof gefordert. Trotz der Vorstellungen des Großherzogs v​on
-Toskana, seines Beschützers, wurde er in's Gefängniß geworfen und mit der
+Gerichtshof gefordert. Trotz der Vorstellungen des Großherzogs von
+Toskana, seines Beschützers, wurde er in’s Gefängniß geworfen und mit der
 Strafe eines Abtrünnigen bedroht, wenn er fortführe, des Kopernikus System zu
 lehren. Er wurde zu folgender berüchtigten Abschwörungsformel gezwungen: „Ich,
 Galilei, im 70sten Jahre meines Alters persönlich vor Gericht gestellt, und die
@@ -162,7 +162,7 @@ von Florenz nicht verlassen. Er starb auch daselbst 9 Jahre nachher zu Arretri.
 
 Während dieses in Italien geschah, entdeckte Kepler in Deutschland die Gesetze
 der Planetenbewegungen. Ehe wir jedoch zu diesen übergehn, wollen wir die
-Fortschritte der Astronomie im Norden Europa's, seit dem Tode des Kopernikus,
+Fortschritte der Astronomie im Norden Europa’s, seit dem Tode des Kopernikus,
 nachholen.
 
 Hier bietet die Geschichte der Wissenschaft eine Menge Beobachter dar. Einer
@@ -200,7 +200,7 @@ genauere Kenntniß der astronomischen Stralenbrechung, und endlich seine
 zahlreichen Beobachtungen über die Planeten, welche den Entdeckungen Keplers
 als Grundlage dienten, sind die ausgezeichneten Dienste, welche Tycho der
 Astronomie geleistet hat. Aber was ihn bei den Laien am bekanntesten machte,
-die Erfindung eines neuen Systems, gereicht ihm am wenigsten zum Ruhme. Ueber
+die Erfindung eines neuen Systems, gereicht ihm am wenigsten zum Ruhme. Über
 die Einwendungen der Gegner des Kopernikus gegen die Bewegung der Erde
 betroffen, und vielleicht auch aus Eitelkeit, einem neuen Systeme seinen Namen
 zu geben, verfehlte er das System der Natur. Nach ihm ist die Erde unbeweglich
@@ -226,7 +226,7 @@ machte unter den drückendsten Nahrungssorgen jene Entdeckungen, die seinen
 Namen auf ewig der Vergessenheit entreißen. Ein mystisches Werk über die
 geheimnißvollen Verhältnisse der Zahlen und Figuren erwarb ihm den Schutz des
 Tycho zu Prag, der ihn zu Beobachtungen aufmunterte und ihm den Titel eines
-kaiserlichen Mathematikus verschaffte. Tycho's Tod setzte ihn in den Besitz
+kaiserlichen Mathematikus verschaffte. Tycho’s Tod setzte ihn in den Besitz
 einer zahlreichen Sammlung von Beobachtungen, wovon er den edelsten Gebrauch
 machte, indem er darauf drei der wichtigsten Entdeckungen gründete, die jemals
 in der Naturlehre gemacht sind.
@@ -250,7 +250,7 @@ entwickelte dieses in seinem berühmten Werke über den Mars.
 
 Die geheimnißvollen Analogieen der Pythagoräer, die vielleicht durch ähnliche
 Entdeckungen veranlaßt waren, verführten Kepler; aber er verdankte ihnen auch
-eine seiner schönsten Entdeckungen. Ueberzeugt, daß die mittleren Entfernungen
+eine seiner schönsten Entdeckungen. Überzeugt, daß die mittleren Entfernungen
 der Planeten zur Sonne diesen Analogieen gemäß sein müßten, verglich er sie
 lange mit den regulären geometrischen Figuren und den Intervallen der Töne.
 Nach 17 jährigen Betrachtungen und Rechnungen, als er die Potenzen der Zahlen
@@ -264,7 +264,7 @@ Arbeit, haben allen spätern zum Muster gedient.
 Kepler erklärte die Lage des Sonnensystems durch 
 <@pagebreak/>
 die Gesetze des musikalischen
-Einklangs. Ueberhaupt gefällt er sich in seinen letzten Werken in spekulativen
+Einklangs. Überhaupt gefällt er sich in seinen letzten Werken in spekulativen
 Träumereien, die er für das Leben und die Seele der Astronomie hält. Er leitet
 daraus die Excentricität der Erdbahn, die Dichtigkeit der Sonne, ihre Parallaxe
 und andre Resultate ab, deren jetzt entdeckte Ungenauigkeit ein Beweis von den
@@ -340,7 +340,7 @@ es vorbehalten, die himmlischen Bewegungen durch die allgemeine Lehre von der
 Schwere zu beweisen.
 
 Dieser mit Recht so gefeierte Naturforscher wurde zu Woolstrop in England den
-25sten December 1642, dem Todesjahre Galilei's, geboren. Seine ersten Versuche
+25sten December 1642, dem Todesjahre Galilei’s, geboren. Seine ersten Versuche
 kündigten durch ihren Erfolg seinen künftigen Ruf an. Ein rasches Lesen der
 Elementarbücher der Astronomie reichte für ihn hin, sie zu begreifen, 
 <@pagebreak/>

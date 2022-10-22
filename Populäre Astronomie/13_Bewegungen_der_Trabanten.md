@@ -88,7 +88,7 @@ Strecke von ihm entfernen, dann zurückkehren, zwischen uns und dem Planeten als
 ein dunkler Fleck auf dessen Scheibe durchgehn, sich westlich eben so weit
 entfernen als früherhin östlich, und dann hinter dem Planeten nach Osten
 zurückkehren. Die Größe einer ganzen Oscillation beträgt unter den günstigsten
-Umständen nur 28' und der Trabant wird in der Nähe des Planeten oft durch
+Umständen nur 28’ und der Trabant wird in der Nähe des Planeten oft durch
 dessen größeren Glanz verdunkelt. Sobald aber die Bahn zur Ekliptik geneigt
 ist, welches in der That immer der Fall ist, so wird sie uns als eine mehr oder
 weniger zusammengedrückte Ellipse erscheinen, je nachdem der Winkel, den eine
@@ -105,7 +105,7 @@ ihrer eigenen Ebene und, wie die Achsendrehung der Himmelskörper,
 <@pagebreak/>
 nur ein
 Verschieben der Theile in einander, das ein entfernter Beobachter bloß dann
-wahrnehmen kann, wenn dadurch ausgezeichtete Punkte, Flecken, ihren Ort
+wahrnehmen kann, wenn dadurch ausgezeichnete Punkte, Flecken, ihren Ort
 verändern: Man kann daher die Ringe als eine verkörperte Trabantenbahn ansehen,
 deren Projektion wir auf der Himmelskugel erblicken, und die Erscheinungen, die
 sich dort erst nach und nach wahrend eines Trabantenumlaufs zeigen, werden hier
@@ -256,9 +256,9 @@ Analogie verleitet, gewagten Vermuthungen überlassen.
 Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
 <tr><td>Umlaufszeit.</td><td>Neigung.</td><td>Aufsteigender Knoten</td></tr>
 <tr><td>Mond</td><td></td><td></td></tr>
-<tr><td>      27T. 7St.43M.11,6S.</td><td>5° 9'45"</td><td>veränderl.</td></tr>
+<tr><td>      27T. 7St.43M.11,6S.</td><td>5° 9’45"</td><td>veränderl.</td></tr>
 <tr><td>Jupiterstrabanten</td><td></td><td></td></tr>
-<tr><td>   I.  1T.18St.27M.33,5S.</td><td>3° 5'30"</td><td>314°30'</td></tr>
+<tr><td>   I.  1T.18St.27M.33,5S.</td><td>3° 5’30"</td><td>314°30’</td></tr>
 <tr><td>  II.  3  13   13  42,0  </td><td>3  4 25 </td><td>314 45</td></tr>
 <tr><td> III.  7   3   42  33,4  </td><td>3  0 30 </td><td>314 24</td></tr>
 <tr><td>  IV. 16  16   31  49,7  </td><td>2 41 26 </td><td>316 39</td></tr>
@@ -271,7 +271,7 @@ Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
 <tr><td>  IV.  2  17   44  51,1  </td></tr>
 <tr><td>   V.  4  12   25  11,1  </td></tr>
 <tr><td>  VI. 15  22   41  13,9  </td></tr>
-<tr><td> VII. 79   7   54  37,4  </td><td>22°42'</td><td>148°40'</td></tr>
+<tr><td> VII. 79   7   54  37,4  </td><td>22°42’</td><td>148°40’</td></tr>
 <tr><td>Uranustrabanten</td><td></td><td></td></tr>
 <tr><td>   I.  5T.21St.25M.20,6S.</td><td rowspan="6" style="vertical-align: middle;">etwas mehr oder weniger als 90°</td><td rowspan="6"></td></tr>
 <tr><td>  II.  8  16   57  47,5  </td></tr>
@@ -289,10 +289,10 @@ Trabanten in seiner Bahn um Jupiter, addirt zu dem doppelten Bogen des dritten,
 ist gleich dem dreifachen des zweiten. Z. B. die tägliche Bewegung 
 
 <table>
-<tr><td>des ersten Trabanten ist </td><td>6 Z 23°29'30"38</td></tr>
+<tr><td>des ersten Trabanten ist </td><td>6 Z 23°29’30"38</td></tr>
 <tr><td>die doppelte des dritten </td><td>3 " 10 38  7 08</td></tr>
 
-<tr><td style="text-align: right;">      Summa</td><td>10 Z 4° 7'37"46</td></tr>
+<tr><td style="text-align: right;">      Summa</td><td>10 Z 4° 7’37"46</td></tr>
 <tr><td>die dreifache des zweiten</td><td>10 " 4  7 27 42</td></tr>
 
 <tr><td></td>                         <td>          10"04</td></tr>
@@ -300,15 +300,15 @@ ist gleich dem dreifachen des zweiten. Z. B. die tägliche Bewegung
 
 ein fast verschwindender Unterschied. Ein ähnliches Verhältniß findet zwischen
 der jedesmaligen Länge der drei Trabanten statt. Im Jahre 1760 war einmal die
-Länge der drei Trabanten 6 Z 26° 18' 24"; 4 Z 17° 4' 48"; 6 Z 12° 27' 43".
+Länge der drei Trabanten 6 Z 26° 18’ 24"; 4 Z 17° 4’ 48"; 6 Z 12° 27’ 43".
 Addirt man die erste Zahl zur doppelten dritten und zieht davon die dreifache
-zweite ab, 6 Z 26° 18' 24" + 12 Z 24° 55' 26" — 13 Z 21° 14' 24", so erhält man
+zweite ab, 6 Z 26° 18’ 24" + 12 Z 24° 55’ 26" — 13 Z 21° 14’ 24", so erhält man
 bis auf 34 Sek., 6 Zeichen oder 180°, und dieses findet für jede Lage der
 Trabanten statt. Der vierte Trabant, theilt diese Regelmäßigkeit nicht.
 
 Von den *Neigungen* der Jupiterstrabanten scheint die des ersten unveränderlich
-zu sein; die Neigung des zweiten schwankt in 30 Jahren um 55' 38"; bei dem
-dritten in 142 Jahren um 24' 40", und bei dem vierten in 531 Jahren um 29' 56";
+zu sein; die Neigung des zweiten schwankt in 30 Jahren um 55’ 38"; bei dem
+dritten in 142 Jahren um 24’ 40", und bei dem vierten in 531 Jahren um 29’ 56";
 also weit geringere Abweichungen als bei dem Monde (S. 194). Die in der Tabelle
 angegebenen Werthe sind die mittleren.
 
@@ -319,7 +319,7 @@ Planeten, werden die drei ersten Trabanten bei jedem Umlaufe total verfinstert
 und verfinstern Jupiter wiederum, nur der vierte entzieht sich der
 Verfinsterung zuweilen; sie dauert 2 — 5 Stunden und gehört zu den
 Erscheinungen welche, da sie für alle Erdbewohner in demselben Augenblicke
-eintreten, zur Bestimmung der Länge der Oerter auf der Erde dienen: sie sind
+eintreten, zur Bestimmung der Länge der Örter auf der Erde dienen: sie sind
 daher in den Ephemeriden voraus berechnet, und die Zeit des Eintritts der
 Trabanten in die Jupitersschatten, die *Immersion*, und ihres Austritts, die
 *Emersion*, ist genau angegeben. Monatlich sind im Durchschnitt 33 Finsternisse
@@ -374,11 +374,11 @@ Zwischenraume von 568 Meilen folgt der kleinere äußere
 <@pagebreak/>
 Ring von 1379 Meilen
 Breite. Ihre Neigung ist entweder dieselbe wie bei den Trabanten, oder ist
-höchstens 4' verschieden; die Dicke ist nur 113¼ Meilen groß, und die Gestalt
+höchstens 4’ verschieden; die Dicke ist nur 113¼ Meilen groß, und die Gestalt
 der Ringe nicht eckig — kein Himmelskörper hat eine solche Begrenzung — sondern
 abgerundet, so daß ein senkrechter Durchschnitt durch Saturn und die Ringe sehr
 flache Ellipsen zeigt. Der innere Ring besteht vielleicht, aus mehreren. Der
-äußere Ring dreht sich, nach Herrschel, in 10½ Stunde um Saturn; Schröter
+äußere Ring dreht sich, nach Herschel, in 10½ Stunde um Saturn; Schröter
 leugnet es zwar, indeß müßte in diesem Falle, nach Laplace, der Ring allmälig
 zerstört werden. Der innere Ring muß sich, nach desselben berühmten
 Mathematikers Berechnung, in 4 — 5 Stunden um Saturn drehen.
@@ -433,7 +433,7 @@ Himmelskörper bewegen sich in Bahnen die eine geringe
 Anzahl von Graden zur Ekliptik geneigt sind,
 und stets von der Sonne oder dem Hauptplaneten
 aus gesehn von Westen nach Osten, oder von Rechts
-zu Links, wenn der Beobachter im Aequator oder in der
+zu Links, wenn der Beobachter im Äquator oder in der
 <@pagebreak/>
 Ekliptik aufrecht steht, so daß sein Haupt nach Norden
 gewandt ist. Zwar weichen einige Planetenbahnen
@@ -442,7 +442,7 @@ davon ab, aber sie sind noch immer rechtgängig.
 Sobald jedoch die Bahn senkrecht auf der Ekliptik ist,
 und sich der Stern weder rechtgängig noch rückgängig
 sondern von Norden nach Süden bewegt, so ist nur
-eine kleine Aenderung der Neigung nöthig um ihn
+eine kleine Änderung der Neigung nöthig um ihn
 rückgängig zu machen. Dieses scheint der Fall bei
 den Uranustrabanten zu sein; indeß kann ihre Bahn
 selbst nicht mit Herschels Rieseninstrumente, dem
@@ -462,12 +462,12 @@ Venusscheibe betrage, und dessen Lichterscheinungen denen der Venus gleich
 seien. Seine Lage änderte sich regelmäßig; er schien sich in 9 — 12 Tagen um
 den Planeten zu drehen. Die Beobachtungen waren an den verschiedensten Orten
 und Zeiten angestellt, es lag nichts Widersprechendes in ihnen. Friedrich II.
-schlug vor den neuen Himmelskörper d'Alembert zu nennen, und Lambert entwarf
+schlug vor den neuen Himmelskörper d’Alembert zu nennen, und Lambert entwarf
 sogar Tafeln für ihn. Aber er ist nicht wieder gesehn worden, und Köhler zeigte
 sogar, wie durch eine Verschiebung des Okulars im Fernrohre eine ähnliche
 <@pagebreak/>
 Erscheinung hervorgebracht werden könne. Da man jedoch an andren Himmelskörpern
-nichts Aehnliches wahrgenommen hat, so liegt, wenn auch kein Mond, doch
+nichts Ähnliches wahrgenommen hat, so liegt, wenn auch kein Mond, doch
 vielleicht etwas Wirkliches zum Grunde.
 
 Dieses sind die vorzüglichsten Erscheinungen der Bewegungen in der

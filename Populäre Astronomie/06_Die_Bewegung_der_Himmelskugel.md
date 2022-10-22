@@ -31,7 +31,7 @@ Kreis, der den sichtbaren Theil begrenzt, heißt
 der *scheinbare Horizont*, zum Unterschied von
 dem ihm parallelen größten Kreise der Kugel, welchen
 man den *wahren Horizont* nennt; zwar sind
-beide Kreise wol 8 -- 900 Meilen von einander entfernt,
+beide Kreise wol 8 — 900 Meilen von einander entfernt,
 aber bei der ungeheuren Entfernung der Himmelskörper
 ist dieser Unterschied nur sehr selten von
 Bedeutung.
@@ -110,25 +110,25 @@ dazu in so hohem Grade geeignet, als die Pole selbst.
 Der senkrecht auf der Achse, durch den
 <@pagebreak/>
 Mittelpunkt der Sphäre gehende Kreis
-heißt der *Aequator*; er theilt, wie alle größten Kreise, den Himmel in zwei
+heißt der *Äquator*; er theilt, wie alle größten Kreise, den Himmel in zwei
 gleiche Theile, die *nördliche* und die *südliche* Halbkugel, in deren
 Mittelpunkten die entsprechenden Pole sind. Die senkrecht auf der Achse
 stehenden kleineren Kreise nennt man *Tages-* oder *Parallelkreise*; sie sind
 die Bahnen aller Himmelskörper auf ihrer täglichen Bewegung. Ein durch die Pole
 gehender Kreis heißt *Abweichungskreis*, und wenn er auch durch den Zenith
 geht, *Meridian* oder *Mittagskreis*. Auf ähnliche Art wie S. 71, bestimmt man
-die Lage eines Sternes zum Aequator. Der Bogen eines Abweichungskreises
-zwischen dem Aequator und dem Sterne ist dessen *Abweichung* (*Deklination*),
-und der Bogen des Aequators zwischen dem Orte, wo der Abweichungskreis den
-Aequator trifft, und einem andern einmal bestimmten Punkte desselben, die
+die Lage eines Sternes zum Äquator. Der Bogen eines Abweichungskreises
+zwischen dem Äquator und dem Sterne ist dessen *Abweichung* (*Deklination*),
+und der Bogen des Äquators zwischen dem Orte, wo der Abweichungskreis den
+Äquator trifft, und einem andern einmal bestimmten Punkte desselben, die
 *gerade Aufsteigung* (*Rektascension*); durch beide wird die Lage des Sterns
-zum Aequator auf ähnliche Weise, wie durch Höhe und Azimut zum Horizonte,
+zum Äquator auf ähnliche Weise, wie durch Höhe und Azimut zum Horizonte,
 bestimmt, und wie dort der Unterschied statt fand zwischen Sternen über und
 unter dem Horizont, so hier in der nördlichen und in der südlichen Halbkugel.
 Die verschiedenen Punkte desselben Parallelkreises haben gleiche Abweichung und
 unterscheiden sich nur durch die gerade Aufsteigung; das Umgekehrte findet für
 die Punkte eines Abweichungskreises statt. Die geringste Abweichung ist im
-Aequator, sie ist = 0; die größte in den Polen, wo eine nördliche oder südliche
+Äquator, sie ist = 0; die größte in den Polen, wo eine nördliche oder südliche
 Abweichung von 90° ist; aber die gerade Aufsteigung ist gleichgiltig, da alle
 Abweichungskreise sich in den Polen schneiden.
 
@@ -138,9 +138,9 @@ Kugel darzustellen.
 Man bezeichne zuerst die beiden Pole an zwei
 entgegengesetzten Punkten der Kugel; der sie verbindende Durchmesser ist
 alsdann die Achse. Ein Kreis, gleich weit von den Polen entfernt um die Kugel
-gezogen, ist der Aequator; man theile ihn in 360 gleiche Theile, und ziehe, je
+gezogen, ist der Äquator; man theile ihn in 360 gleiche Theile, und ziehe, je
 nach der Größe der Kugel von 10° zu 10° oder 5° zu 5° Abweichungskreise durch
-ihn. Zwischen den Polen und dem Aequator sind immer Viertelkreise oder
+ihn. Zwischen den Polen und dem Äquator sind immer Viertelkreise oder
 *Quadranten*. Durch diese ziehe man ebenfalls jede 5° oder 10° Parallelkreise.
 In das dadurch entstandene Netz kann man nun die Sterne nach ihrer Abweichung
 und geraden Aufsteigung eintragen, nur muß man letztere von einem
@@ -178,7 +178,7 @@ und auf ähnliche Weise der ganze Kreis in 32 Theile getheilt. Man nennt einen
 so eingetheilten Kreis, oder vielmehr eine Figur, wo diese 16, 32 oder 64
 Halbmesser bezeichnet worden sind, eine *Windrose*, theils wegen ihrer Gestalt
 (Fig. 9.), theils weil die Schiffer sich derselben bedienen, um die Richtung
-der Fahrt und des Windes zu bezeichnen. Es ware freilich weit
+der Fahrt und des Windes zu bezeichnen. Es wäre freilich weit
 wissenschaftlicher, wenn man sie durch die Größe des Bogens bezeichnete, um den
 sie von dem Süd- oder Nordpunkte entfernt ist, statt _S O_ würde man 45 Grad
 östlich von Süd, statt _S O_ g. _O_ 56<sup>1</sup>/<sub>4</sub>° sagen, und
@@ -198,14 +198,14 @@ die *Erdpole*. Die Ebene des Himmelsäquators schneidet die Erdoberfläche in de
 *Erdäquator* oder *Gleicher*, welcher die Erde in die *Nord-* und
 *Süd-Halbkugel* theilt. *Meridiane* oder Mittagskreise nennt man durch die Pole
 gehende Kreise, und die *Parallelkreise* sind, wie bei der Himmelskugel, dem
-Aequator parallel. Die ganze Erde kann man sich mit einem Netz von
+Äquator parallel. Die ganze Erde kann man sich mit einem Netz von
 Parallelkreisen und Meridianen bedeckt denken, und jeder Ort wird durch seine
-Lage zu denselben bestimmt. Die Entfernung seines Parallelkreises von Aequator
+Lage zu denselben bestimmt. Die Entfernung seines Parallelkreises von Äquator
 heißt die *geographische Breite* eines Orts: sie kann nördlich und südlich
-sein; am Aequator ist sie = 0 und an den Polen = 90°. Der Bogen des Aequators
+sein; am Äquator ist sie = 0 und an den Polen = 90°. Der Bogen des Äquators
 zwischen zwei Meridianen ist der Unterschied der *geographischen Länge*. Um die
 Länge zu bestimmen, zählt man von einem willkürlichen Anfangspunkt entweder
-360° um den Aequator, oder 180° östlich und 180° westlich. In den Polen
+360° um den Äquator, oder 180° östlich und 180° westlich. In den Polen
 durchschneiden sich alle Meridiane.
 
 Durch die Achsendrehung des Himmels gehen während des Tages nach und nach alle
@@ -219,7 +219,7 @@ Himmelskugel.
 
 Die Höhe des Himmelspols über dem Horizont eines Orts nennt man die *Polhöhe*:
 sie ist der geographischen Breite gleich; und den Bogen des Meridians zwischen
-unsrem Horizont und dem Aequator die *Aequatorhöhe*: sie ist der Entfernung des
+unsrem Horizont und dem Äquator die *Äquatorhöhe*: sie ist der Entfernung des
 Orts vom Erdpole gleich.
 
 Jeder Stern geht täglich zweimal durch den Meridian, oder er *kulminirt*. Es
@@ -237,7 +237,7 @@ ist; aber wo beide Beobachtungen möglich sind, dienen sie dazu, die Lage des
 Pols näher zu bestimmen, da er genau in der Mitte zwischen dem höchsten und
 niedrigsten Stande des Sternes ist.
 
-Der kulminirende Punkt des Aequators heißt die *Mitte des Himmels*. Die
+Der kulminirende Punkt des Äquators heißt die *Mitte des Himmels*. Die
 Entfernung des Punktes, wo der Stern aufgeht, von dem Ostpunkte, nennt man die
 *Morgenweite*, und die Entfernung seines Untergangspunktes vom Westpunkte die
 <@pagebreak/>
@@ -245,11 +245,11 @@ Entfernung des Punktes, wo der Stern aufgeht, von dem Ostpunkte, nennt man die
 unsrem Horizonte ist, nennt man den *Tagesbogen*, den der darunter ist, den
 *Nachtbogen* des Sternes. Beide werden durch den Meridian halbirt, aber
 gewöhnlich sind sie sehr ungleich, ja oft fehlt einer ganz. Nur für die
-Bewohner des Aequators sind alle Tages - und Nachtbogen einander gleich, weil
+Bewohner des Äquators sind alle Tages- und Nachtbogen einander gleich, weil
 der Horizont, der durch die Pole geht, alle Tageskreise halbirt; welches auch
 die Lage des Sterns sei, er wird immer ½ Tag über und ½ Tag unter dem Horizonte
-sein. Entfernt man sich vom Aequator nach den Polen hin, so werden die Bogen
-immer verschiedener; nur der Aequator wird überall vom Horizonte gleich
+sein. Entfernt man sich vom Äquator nach den Polen hin, so werden die Bogen
+immer verschiedener; nur der Äquator wird überall vom Horizonte gleich
 getheilt, die in ihm sich bewegenden Sterne gehn genau im Ostpunkte auf und im
 Westpunkte unter, und ihre Morgen- und Abendweite ist gleich 0. Die in
 derselben Halbkugel sich bewegenden Sterne aber, also für uns die nördlichen,
@@ -270,20 +270,20 @@ deren Abweichung zwischen 50° und
 90° ist, nie *untergehn*. Ein gleich großer Theil des Himmels um den Südpol,
 der 50° unter unsrem Horizonte ist, wird uns unsichtbar bleiben, da die Sterne
 selbst bei ihrer oberen Kulmination den Horizont nicht erreichen, also niemals
-*aufgehn*. Endlich an den Polen ist der Horizont der Aequator selbst, die Bahn
-der Sterne ist dem Aequator parallel, keiner von den in derselben Halbkugel
+*aufgehn*. Endlich an den Polen ist der Horizont der Äquator selbst, die Bahn
+der Sterne ist dem Äquator parallel, keiner von den in derselben Halbkugel
 sich bewegenden Sternen geht unter, keiner der andren Halbkugel auf. Die
 letztere Ansicht von den Polen aus nennt man die *parallele Himmelskugel*, die
-vom Aequator aus die *gerade*, und die von allen übrigen Punkten der Erde die
+vom Äquator aus die *gerade*, und die von allen übrigen Punkten der Erde die
 *schiefe Himmelskugel*.
 
 Alles dieses gilt nicht nur für die. Fixsterne, sondern, mit sehr geringen
 Einschränkungen, auch für die Sonne, die Planeten u. s. w., deren Bewegung
 gewöhnlich viel langsamer als die tägliche ist. So lange sie in der nördlichen
 Halbkugel sind, verhalten sie sich wie die nördlichen Sterne, in der
-Südhalbkugel, wie die südlichen; am Aequator ist ihr Tag- und Nachtbogen
+Südhalbkugel, wie die südlichen; am Äquator ist ihr Tag- und Nachtbogen
 einander gleich, und in höheren Breiten gehn sie oft gar nicht auf oder unter.
-Nur bei ihren Uebergängen von einer Halbkugel in die andre, wo sie
+Nur bei ihren Übergängen von einer Halbkugel in die andre, wo sie
 verhältnißmäßig rasch in der Abweichung fortrücken, weichen sie zuweilen
 merklich ab. Dieses ist von vorzüglicher Wichtigkeit für die Länge der Tage und
 Nächte, welche weiter nichts ist, als das Verhältniß der Tagesbogen der Sonne
@@ -296,19 +296,19 @@ nicht nur für alle Tageszeiten dieselbe, indem stets in gleichen Zeiten gleiche
 Bogen
 <@pagebreak/>
 zurückgelegt werden, sondern sie hat selbst seit Jahrtausenden keine
-Veränderung erlitten, da nach Laplace's Berechnungen die Dauer des Sternentages
+Veränderung erlitten, da nach Laplace’s Berechnungen die Dauer des Sternentages
 sich seit mehr denn 2000 Jahren nicht um <sup>1</sup>/<sub>100</sub>
 Sekunde geändert hat. Eine solche Periode ist daher vorzüglich zum Zeitmaß
 geeignet, und wenn sie auch, wie wir sehn werden, für das bürgerliche Leben
 nicht sehr bequem ist, so ist sie es doch in hohem Grade für die Astronomen.
 Sie ist auch sehr leicht zu finden; denn ist die Umlaufszeit *eines* Sterns
-bekannt, so ist's auch die der ganzen Himmelskugel.
+bekannt, so ist’s auch die der ganzen Himmelskugel.
 
 Man theilt den Sternentag in 24 Stunden, jede Stunde in 60 Minuten zu 60
 Sekunden, oder den Tag in 1440 Minuten, oder 86,400 Sekunden, und bedient sich
 dabei einiger Abkürzungen, so daß man z. B. statt 366 Tage, 6 Stunden, 9
 Minuten, 11 <sup>7</sup>/<sub>10</sub> Sekunden schreibt: 366 Tage, 6 St.,
-9' 11"7. Es ist die Umdrehungszeit der Erde um die Sonne.
+9’ 11"7. Es ist die Umdrehungszeit der Erde um die Sonne.
 
 In 24 Stunden beschreibt jeder Stern einen Kreis oder 360° am Himmel; in jeder
 Stunde also 15°, in der Minute einen Bogen von 15 Minuten, und in der Sekunde
@@ -317,14 +317,14 @@ Sterns bekannt, so darf man sie nur mit 15 multipliciren und statt der Stunden
 Grade setzen, um die Größe des Bogens zu kennen, um welchen der Stern
 fortgerückt ist; oder, wenn die Zeit bekannt ist, die zwischen der Kulmination
 zweier Fixsterne verflossen ist, den Unterschied in der geraden Aufsteigung zu
-finden. Betrug diese z. B. 3 Stunden, 16' 56<sup>2</sup>/<sub>3</sub>", so
+finden. Betrug diese z. B. 3 Stunden, 16’ 56<sup>2</sup>/<sub>3</sub>", so
 deuten
 <table>
 <tr><td>die 3 Stunden auf                 </td><td>45°</td><td>   </td><td></td></tr>
 <tr><td>16 Min                            </td><td>4  </td><td>—  </td><td></td></tr>
-<tr><td>56 Sek                            </td><td>—  </td><td>14'</td><td></td></tr>
+<tr><td>56 Sek                            </td><td>—  </td><td>14’</td><td></td></tr>
 <tr><td><sup>2</sup>/<sub>3</sub> Sek     </td><td>—  </td><td>—  </td><td>10"</td></tr>
-<tr><td>                                  </td><td>49°</td><td>14'</td><td>10".</td></tr>
+<tr><td>                                  </td><td>49°</td><td>14’</td><td>10".</td></tr>
 </table>
 
 <@pagebreak/>
@@ -347,9 +347,9 @@ Erfahrung von der Bewegung der Sonne, des Mondes und der Planeten zwang sie,
 jedem derselben eine eigene Sphäre anzuweisen. Diese nur der Kindheit der
 Astronomie zu verzeihende Ansicht schwand bald; aber wie sollte man sich die
 Achsendrehung des Himmels erklären? Wie ungeheuer müßte die Kraft sein, welche
-die Sonne taglich durch 130 M. ​Meilen fortbewegt, wieviel größer noch
+die Sonne täglich durch 130 M. Meilen fortbewegt, wieviel größer noch
 die, welche einen viele tausendmal entfernteren Himmelskörper um uns treiben
-sollte: und nun ist's nicht die Sonne allein, nicht *ein* Fixstern, sondern der
+sollte: und nun ist’s nicht die Sonne allein, nicht *ein* Fixstern, sondern der
 ganze Sternenhimmel mit seinen Millionen von Welten. Doch wenn wir uns auch mit
 der so ungeheuren Kraft befreunden wollten, welches Band umschlingt jene durch
 Billionen von Meilen getrennten Welten, daß sie sich in derselben Zeit um uns
@@ -357,7 +357,7 @@ bewegen, der
 <@pagebreak/>
 wenige Tausend Meilen entfernte Mond, wenn man seine andren
 Bewegungen unberücksichtigt läßt, die 400 mal weiter entfernte Sonne, und die
-noch unendlich entfernteren, kaum durch's Fernrohr zu erkennenden Nebelflecke.
+noch unendlich entfernteren, kaum durch’s Fernrohr zu erkennenden Nebelflecke.
 Doch selbst wenn wir das Ungeheure und Unerklärliche annehmen wollen, wenn
 jedem Himmelskörper gleich bei seiner Erschaffung jene Geschwindigkeit
 beigelegt war: wie sollten wir uns den regelmäßigen Kreislauf der andren
@@ -401,7 +401,7 @@ welchem die Sterne befestigt sind, und die Erde als eine Ebene, worauf jenes
 sich stützt.
 
 Jetzt gestalten sich auch die Bewegungen der Himmelskörper viel einfacher. Die
-Sonne kreist um uns in einer den Aequator schräg durchschneidenden Bahn, und
+Sonne kreist um uns in einer den Äquator schräg durchschneidenden Bahn, und
 nähert sich bald mehr dem Nordpol, bald mehr dem Südpol; auf eine ähnliche
 Weise umkreist uns auch der Mond; aber unregelmäßig bleiben die Bahnen der
 Planeten. Zwei von ihnen beziehen sich auffallend auf die Sonne, sie
@@ -442,5 +442,5 @@ Erde hervorgebracht wird. Die Erdachse ist also nicht unveränderlich, sondern
 beschreibt einen kleinen Kreis am Himmel, jedoch so langsam, daß die Bewegung
 erst in einer Reihe von Jahren sehr merklich wird. Der Pol zeigt nicht immer
 auf denselben Punkt am Himmel, und die Abweichung und gerade Aufsteigung sind
-einer langsamen Aenderung unterworfen.
+einer langsamen Änderung unterworfen.
 

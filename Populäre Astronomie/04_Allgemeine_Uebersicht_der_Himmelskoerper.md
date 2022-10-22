@@ -4,7 +4,7 @@
 Dritte Vorlesung.
 =================
 
-Allgemeine Uebersicht der Himmelskörper und der Art, sie zu beobachten.
+Allgemeine Übersicht der Himmelskörper und der Art, sie zu beobachten.
 -----------------------------------------------------------------------
 
 Zu den schönsten Gegenständen, womit die Natur das menschliche Auge erfreut,
@@ -41,7 +41,7 @@ der Zufall einen Beobachter in einen tiefen Brunnen führt, oder die Sterne
 durch eine lange Röhre betrachtet werden, so sieht man, selbst wenn die Sonne
 hoch am Himmel steht, die in der Nacht bekannt gewordenen Sterne wieder; auch
 unsere Fernröhre machen sie uns zu jeder Tageszeit sichtbar. Der Glanz der
-Sonne ist's also nur, welcher die Sterne verdunkelt, und sie bewegt sich
+Sonne ist’s also nur, welcher die Sterne verdunkelt, und sie bewegt sich
 zwischen ihnen am Himmel, aber als das erste Gestirn.
 
 Dieser Bewegung ungeachtet behält der bei weitem größere Theil der Gestirne
@@ -87,14 +87,14 @@ solchen Begleiter am Monde.
 Nicht selten beobachtet man Sterne, die zuweilen der Sonne an Größe wenig
 nachzustehen scheinen, ihr sehr nahe kommen, und sich dann auf lange Zeit,
 vielleicht auf ewig, wieder von ihr entfernen, wodurch sie sich von den
-Planeten unterscheiden. Da sie gewöhnlich von haarahnlichen Schweifen oder
+Planeten unterscheiden. Da sie gewöhnlich von haarähnlichen Schweifen oder
 Büscheln begleitet sind, heißen sie *Kometen*, *Haar-* oder *Schweifsterne*.
 Alle diese Körper theilen die allgemeine regelmäßige Bewegung des Himmels, und
 unterscheiden sich dadurch von den Erscheinungen unserer Atmosphäre, den
 Wolken, Nordlichtern u. a., die, wenn nicht Winde oder andere irdische Ursachen
-sie zerstreuen, unbeweglich über unserm Haupte schweben. Unentschieden ist's
+sie zerstreuen, unbeweglich über unserm Haupte schweben. Unentschieden ist’s
 noch, wohin jene Steine und schleimigen Massen zu zählen sind, die zuweilen auf
-die Erde fallen, die Feuerkugeln, Sternschnuppen u. dgl. Vielleicht gelingt's
+die Erde fallen, die Feuerkugeln, Sternschnuppen u. dgl. Vielleicht gelingt’s
 uns in der Folge, diese Fragen zu beantworten.
 
 Die Sonne mit ihren Planeten, Trabanten und zahllosen Kometen oder das
@@ -144,7 +144,7 @@ in unserm Auge bilden, erscheinen ihm in gleicher
 Größe, unabhängig von ihrer Entfernung. Ein Körper
 _B_ <@pa.fig nr="1"/> erscheint uns nicht größer, als _C_, weil
 beide denselben Winkel am Auge _A_ bilden. Wenn
-sich aber _B_ dem Auge nähert und in die Lage _B'_ kommt,
+sich aber _B_ dem Auge nähert und in die Lage _B’_ kommt,
 so wird der Winkel größer und der Körper scheint
 dem Auge um so größer zu werden, je mehr er sich
 ihm nähert. Wir bleiben zweifelhaft, ob ein vor unserm
@@ -176,7 +176,7 @@ Bequemlichkeit willen den ganzen Kreis in 360 Theile getheilt, die man Grade
 nennt, und jeden Grad wieder in 60 Minuten zu 60 Sekunden. Ein Winkel der den
 7ten Theil des Kreises einschließt, enthielte alsdann 51 Grade, 25 Minuten, 42
 und etwa <sup>857</sup>/<sub>1000</sub> Sekunden, oder, wie man gewöhnlich
-abgekürzt schreibt, 51°25'42",857.
+abgekürzt schreibt, 51°25’42",857.
 
 Ein Winkel, der den vierten Theil des Kreises umschließt, oder 90° mißt, heißt
 ein *rechter Winkel*; ein größerer *stumpf*, ein kleinerer *spitz*. Es kommt
@@ -193,7 +193,7 @@ scheinbaren Entfernungen nehmen mit der Nähe der Gegenstände zu.
 
 Zum Glück beobachtet der Mensch nicht bloß mit dem äußeren Auge; zwar kennt der
 Säugling und der eben von Blindheit Genesene den Unterschied der Entfernungen
-nicht, er hascht nach dem Schmetterling' wie nach dem in den Wolken fliegenden
+nicht, er hascht nach dem Schmetterling’ wie nach dem in den Wolken fliegenden
 Adler; aber bald lernt er, häufig getäuscht, durchs Gefühl die Empfindungen des
 Auges prüfen; Körper, deren Gestalt und Größe ihm bekannt sind, scheinen ihm
 auch in der Entfernung nicht kleiner; es müßte sonst von einem ungewöhnlichen
@@ -251,7 +251,7 @@ seines ruhig segelnden Schiffes eine Spur von Bewegung; nichts wird daselbst
 durch den Mangel an Ruhe geändert, und ein von dem Maste herabfallender Stein
 fällt am Fuße desselben nieder, obgleich das Schiff indeß weit fortgerückt ist;
 erst wenn er das Ufer sich entfernen sieht, schließt er, daß, da jenes in Ruhe
-bleibt, das Schiff wol das sich Bewegende sein müsse; eben so geht's dem
+bleibt, das Schiff wol das sich Bewegende sein müsse; eben so geht’s dem
 Luftschiffer. Da nun die Himmelskörper auf ihrer Bahn noch weit weniger
 Störungen erleiden, als See- und Luftschiff, so können ihre Bewohner durchaus
 keine Empfindung von Bewegung haben.

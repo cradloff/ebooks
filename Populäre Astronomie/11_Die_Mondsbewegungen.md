@@ -71,24 +71,24 @@ der Sonne nennt man die *Syzygien*. Die vier Punkte in der Mitte zwischen ihnen
 und den Quadraturen heißen die *Oktanten*.
 
 Die Zeit nach welcher der Mond wieder in dieselbe Lage zu den Gestirnen kommt,
-oder der *siderische Monat*, ist 27 T. 7 St. 43' 11" 56; er legt daher täglich
-13° 10' 35", oder in einer Zeitsekunde etwa ½ Raumsekunde zurück. Wegen der
+oder der *siderische Monat*, ist 27 T. 7 St. 43’ 11" 56; er legt daher täglich
+13° 10’ 35", oder in einer Zeitsekunde etwa ½ Raumsekunde zurück. Wegen der
 <@pagebreak/>
 Vorrückung der Nachtgleichen ist die Zeit bis er wieder dieselbe Länge in der
-Ekliptik erreicht etwas kleiner, nämlich 27 T. 7 St. 43' 4"72. Indeß ist er der
+Ekliptik erreicht etwas kleiner, nämlich 27 T. 7 St. 43’ 4"72. Indeß ist er der
 Erde auf ihrer jährlichen Bahn um die Sonne gefolgt und muß nun noch eine
 Strecke zurücklegen bis er wieder dieselbe Lage zur Erde und Sonne erlangt. Die
 Zeit zwischen zwei Neu- oder Vollmonden oder der *synodische Monat* beträgt 29
-T. 12 St. 44' 2"86, also täglich 12° 11' 27", eine schon von Ptolemäus sehr
+T. 12 St. 44’ 2"86, also täglich 12° 11’ 27", eine schon von Ptolemäus sehr
 genau gefundene Größe, indem er eine lange, zwischen zwei Neumonden verflossene
 Zeit, etwa 200 Jahr, durch die Anzahl der Monate dividirte. Die Neueren, die
 weit größere Perioden vergleichen konnten, bestimmten sie nun 0"1 genauer.
 
 Die Entfernung des Mondes von der Erde ist 51844 Meilen oder 60,3
-Erdhalbmesser, seine größte Mittelpunktsgleichung 60° 17' 54" 5. Durch die
+Erdhalbmesser, seine größte Mittelpunktsgleichung 60° 17’ 54" 5. Durch die
 jährliche Bewegung der Erde wird der Mond, der die Bewegung der Erde theilt, zu
 einer schlängelnden Bewegung gezwungen; seine größten Entfernungen von der Erde
-betragen indeß, von der Sonne aus gesehn, nur 8' — 9', etwa den siebenten Theil
+betragen indeß, von der Sonne aus gesehn, nur 8’ — 9’, etwa den siebenten Theil
 von den Abweichungen der Erde selbst. Aber der Mond, beständig von den
 Einflüssen der großen Sonne und der nahen Erde beherrscht, und in die
 verschiedensten Verhältnisse zu beiden kommend, wird sehr bedeutende
@@ -119,11 +119,11 @@ den Achteln der Mondsbahn, die nahe an den Syzygien sind, legt der Mond eine
 weit größere Strecke zurück, als in den übrigen; er ist daher in dem ersten und
 dritten Oktanten weiter vorgerückt, und steht in dem zweiten und vierten weiter
 in seiner Bahn zurück, als er es bei gleichförmiger Bewegung sein würde. Die
-Länge des Mondes ist deshalb dort 37' 5" größer und hier eben so viel kleiner,
+Länge des Mondes ist deshalb dort 37’ 5" größer und hier eben so viel kleiner,
 als sie bei einer gleichförmigen elliptischen Bewegung sein würde. In den
 Syzygien und Quadraturen, obgleich hier die Geschwindigkeit am meisten
 abweicht, bleibt jedoch die mittlere Länge. Diese Ungleichheit, die man
-*Variation* nennt, ist eine Entdeckung Tycho's, der zuerst den Mond in allen
+*Variation* nennt, ist eine Entdeckung Tycho’s, der zuerst den Mond in allen
 Theilen seiner Bahn beobachtete.
 
 Noch beträchtlicher ist die *Evektion*, welche
@@ -134,8 +134,8 @@ bewegt sich der Mond rascher, in der Erdferne langsamer, der Unterschied bringt
 die Mittelpunktsgleichung hervor; in den Syzygien, wo sich die drei Körper auf
 *einer* geraden Linie befinden, ist die Wirkung viel bedeutender, als wenn die
 Apsidenlinie mit den Quadraturen übereinkommt. In jenem Falle ist die
-Mittelpunktsgleichung 7° 36', in diesem nur etwa 5°, die Abweichung von dem
-mittleren Werthe ist daher 1° 18' 2" 45. Ungeachtet ihrer Größe war die
+Mittelpunktsgleichung 7° 36’, in diesem nur etwa 5°, die Abweichung von dem
+mittleren Werthe ist daher 1° 18’ 2" 45. Ungeachtet ihrer Größe war die
 Evektion den Alten entgangen, weil sie den Mond fast nur in den Syzygien
 beobachteten; erst Ptolemäus entdeckte sie, als er den Mond auch in den
 Quadraturen beobachtete.
@@ -146,10 +146,10 @@ entgegenwirkte, so würde die Mondsbahn um 1/368 enger, der Mond also der Erde
 näher sein. Diese Größe wird um die Sonnennähe der Erde, also Ende Decembers
 zunehmen, um die Sonnenferne abnehmen, und ihren größten Werth in der mittleren
 Entfernung der Erde, die auf das Perihelium folgt, also Ende März haben; die
-Geschwindigkeit des Mondes ist dann geringer und seine Länge ist um 11' 16"
+Geschwindigkeit des Mondes ist dann geringer und seine Länge ist um 11’ 16"
 kleiner, als sie ohne diesen Umstand sein würde; in der auf die Erdferne
 folgenden mittleren Entfernung der Erde von der Sonne, gegen Ende Septembers,
-ist die Länge um 11' 16' größer.
+ist die Länge um 11’ 16’ größer.
 
 Diese vier Ungleichheiten: die *Mittelpunktsgleichung* durch die Excentricität
 der Bahn, die *Variation* durch die verschiedene Anziehung der Sonne in den
@@ -167,38 +167,38 @@ erreicht sie bei jedem Umlaufe früher als vorhin. Diese Ablenkung beschränkt
 sich nicht auf die Durchschnittslinie der Monds- und Erdbahn, sondern findet in
 jeder Lage des Mondes statt (vergl. S. 155). Berechnet man aus den Bewegungen
 desselben seine Knoten, so findet man, daß diese eine tägliche mittlere
-Bewegung von etwa 3' 10" 8 haben, und in 6793 T. 10 St. 6' 30" rückgängig einen
+Bewegung von etwa 3’ 10" 8 haben, und in 6793 T. 10 St. 6’ 30" rückgängig einen
 Umlauf um die Ekliptik vollenden. Indeß ist diese Bewegung wegen des
 veränderlichen Einflusses der Sonne und der Erde sehr verschieden; in den
 Knoten, wo der Mond in der Erdbahn ist und in den Quadraturen = 0; in den
 Syzygien am stärksten, so daß die wahre Länge der Knoten von der mittleren um
-1° 37' 45" verschieden sein kann.
+1° 37’ 45" verschieden sein kann.
 
 Die Sonne vergrößert in den Syzygien durch ihren so mächtigen Einfluß die
 Entfernung des Mondes von der Erde, sie wird daher auch eine Bewegung der
 *Apsiden* veranlassen, und es ist klar, daß sich diese nach ihrer eigenen
 Bewegung richtet. Die Erdnähe und Erdferne folgen der Sonne so, daß sie in 3232
-T. 13 St. 56' 16"8, oder täglich 6' 40"9 rechtgängig einen Kreislauf um die
+T. 13 St. 56’ 16"8, oder täglich 6’ 40"9 rechtgängig einen Kreislauf um die
 Ekliptik vollenden. Ihre Bewegung ist zweimal so schnell als die der Knoten;
-sie entfernen sich täglich 9' 51" 7 von
+sie entfernen sich täglich 9’ 51" 7 von
 <@pagebreak/>
 einander, und die ganze Periode bis sie
-wieder zusammentreffen ist 1931 T. 17 St. 45' (vergl. S.155). Auch diese
+wieder zusammentreffen ist 1931 T. 17 St. 45’ (vergl. S.155). Auch diese
 Bewegung ist sehr schwankend.
 
 Durch dieselben Ursachen ward auch die *Neigung* der Bahn zur Ekliptik
-verändert. Die Abweichung in der Breite des Mondes kann auf 8' 47" steigen; um
+verändert. Die Abweichung in der Breite des Mondes kann auf 8’ 47" steigen; um
 so viel nämlich ist sie kleiner, wenn die Knotenlinie in die Quadraturen, und
 größer, wenn sie in die Syzygien fällt. In diesem Falle beträgt die Breite 5°
-17' 17", in jenem nur 5° 0' 13" wogegen in den Oktanten der mittlere Werth 5°
-9' bleibt.
+17’ 17", in jenem nur 5° 0’ 13" wogegen in den Oktanten der mittlere Werth 5°
+9’ bleibt.
 
 Die hier entwickelten sind nur die *vorzüglichsten* Abweichungen; von
 *kleineren* hat Bürg in seinen Mondstafeln 24 Gleichungen in der Länge, 12 in
 der Breite und 12 in den Entfernungen berechnet, also 48. Ihre Wirkungen
 betragen einige Minuten. Durch diese Unregelmäßigkeit schwankt die stündliche
-Bewegung des Mondes zwischen 28' und 38'; die mittlere *Geschwindigkeit* ist
-32' 50" 46.
+Bewegung des Mondes zwischen 28’ und 38’; die mittlere *Geschwindigkeit* ist
+32’ 50" 46.
 
 Die ganze *Umlaufszeit*, die sonst bei allen übrigen Himmelskörpern sehr
 regelmäßig ist, nimmt beim Monde in einem Jahrhundert 10"2 ab. Diese Größe
@@ -233,11 +233,11 @@ denselben Knoten, nennt man den *Knoten-* oder *Drachenmonat*, weil man früher,
 vielleicht in Folge eines Aberglaubens bei den Finsternissen, den aufsteigenden
 Knoten des Mondes *Drachenkopf* und den absteigenden *Drachenschwanz* zu nennen
 pflegte<a class="refnote" id="rn1" href="#fn1">*)</a>. Seine Dauer ist 27 T. 5
-St. 5' 49".
+St. 5’ 49".
 
 <@pagebreak/>
 Der Zeitraum zwischen zwei auf einander folgenden Erdnähen oder Erdfernen
-(*Anomalie*) oder der *anomalistische Monat* ist 27T. 13 St. 18' 35". Ihr
+(*Anomalie*) oder der *anomalistische Monat* ist 27T. 13 St. 18’ 35". Ihr
 Unterschied entspringt aus der Bewegung der Apsiden. Sie sind wegen ihrer
 Beziehung zu den Finsternissen, die wir gleich näher kennen lernen werden,
 schon von den Alten untersucht worden.
@@ -254,23 +254,23 @@ Astronomen ist die von 161178 Tagen oder 441 Jahren und 103 Tagen, 5458
 synodischen und 5923 Knotenmonaten. Wegen ihres sehr hohen Alters ist eine
 Periode von 600 Jahren oder 7421 synodischen Monaten merkwürdig.
 
-Da die Bahn des Mondes zum Aequator geneigt ist, so wird seine Geschwindigkeit
+Da die Bahn des Mondes zum Äquator geneigt ist, so wird seine Geschwindigkeit
 in gerader Aufsteigung sehr ungleichförmig sein, am größten bei seiner größten
-Abweichung, am kleinsten, wenn er den Aequator schneidet. Seine mittlere
-tägliche Bewegung ist 13° 10' 35", die der Sonne nach derselben Richtung etwa
+Abweichung, am kleinsten, wenn er den Äquator schneidet. Seine mittlere
+tägliche Bewegung ist 13° 10’ 35", die der Sonne nach derselben Richtung etwa
 1°, der Mond entfernt sich also
 <@pagebreak/>
-von der Sonne täglich um 12° 10' nach Osten,
+von der Sonne täglich um 12° 10’ nach Osten,
 oder nähert sich ihr eben so viel nach Westen. Dieses bewirkt einen Unterschied
 von etwa 50 Zeitminuten, um welche der Mond jeden Tag im Durchschnitte später
 aufgeht als den vorhergehenden. Der Vollmond, der um Mitternacht kulminirt und
 bei Sonnenuntergang aufgeht, wird am folgenden Tage schon fast eine Stunde
 später aufgehn. Indeß wenn die Sonne in den Nachtgleichen ist, etwa im
 September in der Wage, so wird der Vollmond, der sich an dem entgegengesetzten
-Theile des Himmels befindet, ebenfalls nicht weit vom Aeguator, in dem Widder,
+Theile des Himmels befindet, ebenfalls nicht weit vom Äquator, in dem Widder,
 sein, und längs desselben, in der Rektascension, viel langsamer fortrücken als
 gewöhnlich; der Mond geht daher weniger spät auf, in unsren Klimaten etwa nur
-20' später als den vorhergehenden Tag, und dem Landmanne, der um diese Zeit
+20’ später als den vorhergehenden Tag, und dem Landmanne, der um diese Zeit
 gerade mit der Ernte beschäftigt ist, leuchtet einige Tage hindurch der bald
 nach Sonnenuntergang aufgehende Mond bei seiner Arbeit. Man nennt diese
 Erscheinung deshalb den *Erntemond*. Sie ist um so schöner, je nördlicher die
@@ -289,8 +289,8 @@ die Luft verfinstern.
 <@pagebreak/>
 Von keinem Körper war die Entfernung so früh und so genau bekannt wie vom
 Monde; schon die Griechen hatten sie berechnet. Sie ist auch bei weitem die
-kleinste unter allen Himmelskörpern, denn die Aequatorealparallaxe ist zwischen
-61' 22"4 und 53' 46"2, und ihr mittlerer Werth 57' 34" 3, woraus sich die
+kleinste unter allen Himmelskörpern, denn die Äquatorealparallaxe ist zwischen
+61’ 22"4 und 53’ 46"2, und ihr mittlerer Werth 57’ 34" 3, woraus sich die
 Entfernung leicht bestimmen läßt. Diese beträgt 47951 bis 54763, im
 Durchschnitt 51357 deutsche Meilen, und ist wegen der Excentricität der
 Mondsbahn und des Einflusses der Sonne den schon oben erwähnten Veränderungen
@@ -339,7 +339,7 @@ Schattenkegel.
 
 Den Raum, welcher nur einen Theil des Lichts empfängt, nennt man den
 *Halbschatten*; er zeigt sich überall, wo das Licht mehr als ein glänzender
-Punkt ist, und erstreckt sich stets in's Unendliche; er umgibt den *Schatten*
+Punkt ist, und erstreckt sich stets in’s Unendliche; er umgibt den *Schatten*
 d. h. den Ort, wohin gar kein Licht von jenem leuchtenden Körper kommt.
 
 Bei den Finsternissen, zu denen wir uns jetzt
@@ -390,7 +390,7 @@ Wenn der Mond sich in der Ekliptik bewegte, so würde in jedem Vollmonde eine
 totale centrale Mondfinsterniß statt finden, durch die bedeutende Neigung der
 Mondbahn tritt jedoch eine centrale wol nie, und eine totale sehr selten ein;
 die partialen sind häufiger, indem sie sich schon zeigen wenn auch der
-Mittelpunkt des Mondes noch etwa 64' (= Parall. des Mondes + ½ Durchmesser des
+Mittelpunkt des Mondes noch etwa 64’ (= Parall. des Mondes + ½ Durchmesser des
 Mondes + ½ Parall. der Sonne - ½ Durchm. der Sonne <a class="refnote" id="rn2"
 href="#fn2">*)</a>) von der Ekliptik entfernt ist. Der Mond ist dann wol noch
 13½° von dem einen Durchschnitte seiner Bahn mit der
@@ -407,7 +407,7 @@ sein Dasein auf eine dem Unwissenden schreckliche Weise kund. Zwar ist ihre
 Ursache eben so einfach, als bei jenen, aber ihre genauere Berechnung ist weit
 größeren Schwierigkeiten unterworfen. Der 50000 Meilen lange Schattenkegel, den
 der Mond hinter sich wirft, erreicht zuweilen die Erde nicht, und wenn er sie
-trifft, so ist's nur ein Theil ihrer Oberfläche, der höchstens 2° in
+trifft, so ist’s nur ein Theil ihrer Oberfläche, der höchstens 2° in
 Durchmesser hat; an diesen Stellen, wo kein Theil der Sonne sichtbar ist, ist
 die Finsterniß *total*; wenn der Schattenkegel die Erde nicht erreicht, so ist
 an den Stellen derselben, die der Spitze des Kegels (S. 58) am nächsten liegen,
@@ -438,7 +438,7 @@ synodischen Laufe, in einer Stunde 30½ Minuten. Aber eine Minute auf der Bahn
 des Mondes, der ungefähr 60 Erdhalbmesser vom Mittelpunkt der Erde entfernt
 ist, ist 60 mal so groß, wie eine Minute auf der Erdoberfläche, also etwa 1°
 oder 15 Meilen; in einer Stunde rückt mithin der Schatten fast 460 Meilen vor.
-Der Aequator bewegt sich nach derselben Richtung in der Stunde 15° oder 225
+Der Äquator bewegt sich nach derselben Richtung in der Stunde 15° oder 225
 Meilen, der Schatten eilt ihm also in der Stunde noch 235 Meilen von Westen
 nach Osten voraus. Der Theil der Erde, den er am frühesten erreicht, hat Sonne
 und Mond im östlichen Horizont, also Sonnenaufgang, die westlichen Orte haben
@@ -454,8 +454,8 @@ jedoch ereignen sie sich unter günstigen Umständen, selbst wenn der Mond noch
 21° davon entfernt ist; sobald aber sein Abstand geringer ist als 15°, so
 müssen sie eintreten. Sie haben also ein weit ausgedehnteres Gebiet, als die
 Mondfinsternisse; auch finden sie schon statt, wenn die Breite des Mondes nicht
-üb​er 1° 34' beträgt (= Parall. des Mondes + ½ Durchmesser des Mondes -
-Parall. der Sonne + ½ Durchmesser der Sonnne. Vergl. S. 201 Anm.). Man nennt
+über 1° 34’ beträgt (= Parall. des Mondes + ½ Durchmesser des Mondes -
+Parall. der Sonne + ½ Durchmesser der Sonne. Vergl. S. 201 Anm.). Man nennt
 die geocentrische Entfernung des Mondes von der Sonne oder dessen Breite zu der
 Zeit, wann die partiale, totale oder ringförmige Finsterniß an einem gewissen
 Orte beginnt, den *Halbmesser der partialen, totalen oder ringförmigen
@@ -480,7 +480,7 @@ solchen Zeitraume in derselben Reihefolge, und wenn diese einmal durch
 Erfahrung festgesetzt ist, so kann man leicht die Finsternisse vorausbestimmen;
 so konnte z. B. Halley aus der den 22. Juni 1666 beobachteten Finsterniß leicht
 auf die ähnliche vom 2. Juli 1684 schließen. Der chaldäischen Periode bedienten
-sich auch wahrscheinlich Thales und die alten Aegypter. In dieser Zeit sind
+sich auch wahrscheinlich Thales und die alten Ägypter. In dieser Zeit sind
 gewöhnlich 70 Finsternisse, 29 Mond- und 41 Sonnenfinsternisse; die Anzahl
 beider verhält sich wie 5:7, die Sonnenfinsternisse sind also häufiger, welches
 auch schon aus dem Obigen folgt. In jedem Jahre sind zwei bis sieben
@@ -505,7 +505,7 @@ wieder die Natur, der Abergläubische freut sich, der drohenden Gefahr entgangen
 zu sein, und der Astronom, die Bahn des Mondes und die Länge seines Ortes
 genauer angeben zu können.
 
-Ueberhaupt gehören die Finsternisse zu den für die Astronomie wichtigsten
+Überhaupt gehören die Finsternisse zu den für die Astronomie wichtigsten
 Erscheinungen. Die Leichtigkeit sie zu beobachten, die Regelmäßigkeit ihrer
 Wiederkehr nach kurzen Zeiträumen, und das Ansehn, das ihre Vorhersagung den
 Priestern und Astronomen verschaffte, machten sie zu einer der am häufigsten
