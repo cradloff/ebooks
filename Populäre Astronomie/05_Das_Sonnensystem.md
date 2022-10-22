@@ -49,7 +49,7 @@ geringen Größe, ihrer fast gleichen Entfernung von der Sonne und der
 Unregelmäßigkeit ihrer Bahn kaum zu den Planeten zu rechnen gewagt, und
 *Asteroiden* genannt hat, sind in den ersten Jahren unseres Jahrhunderts von
 Piazzi, Olbers und Harding entdeckt. Auch die Erde, welche Unwissenheit, Dünkel
-und Aberglaube in den Mittelpunkt des Weltalls gesetzt, und erhalten halten,
+und Aberglaube in den Mittelpunkt des Weltalls gesetzt, und erhalten hatten,
 nimmt erst seit zwei
 <@pagebreak/>
 Jahrhunderten ihren bescheidenen Platz unter den Planeten
@@ -104,10 +104,10 @@ beschreibt, ist den Zeiten proportional.
 3. Die Quadrate der Umlaufszeiten verhalten sich, wie die Würfel der großen
 Achsen der Bahnen.
 
-Die *Ellipse* (Fig. 5.) ist die dem Kreise am meisten sich nähernde krumme
+Die *Ellipse* <@pa.fig nr="5"/> ist die dem Kreise am meisten sich nähernde krumme
 Linie. Ein in einiger Entfernung schräg gehaltener, oder in *einer* Richtung
-verlängerter Kreis, erscheint als Ellipse. Sie gehört mit der Parabel (Fig. 6)
-und Hyperbel (Fig. 7) zu der unter dem Namen der Kegelschnitte bekannten Klasse
+verlängerter Kreis, erscheint als Ellipse. Sie gehört mit der Parabel <@pa.fig nr="6"/>
+und Hyperbel <@pa.fig nr="7"/> zu der unter dem Namen der Kegelschnitte bekannten Klasse
 von krummen Linien. Der *Kegel*, ein spitz zulaufender Körper, dessen
 Grundfläche eine Kreisfläche ist, und dessen übrige Begrenzung durch alle
 gerade Linien gebildet wird, welche von der Spitze
@@ -122,7 +122,7 @@ ohne sie je zu erreichen.
 
 Von diesen drei Linien ist für uns die Ellipse am wichtigsten, weil sich in ihr
 alle Himmelskörper, einige Kometen vielleicht ausgenommen, bewegen. Die Linie
-_AB_ (Fig. 5), von welcher sie der größten Länge nach durchschnitten wird,
+_AB_ <@pa.fig nr="5"/>, von welcher sie der größten Länge nach durchschnitten wird,
 heißt die *große Achse*, die auf dieser im Mittelpunkte _M_ senkrechte, die
 *kleine Achse*. Auf der großen Achse sind zwei, gleich weit vom Mittelpunkte
 entfernte Punkte _F_, _f_, vorzüglich ausgezeichnet, indem je zwei, von ihnen
@@ -154,7 +154,7 @@ Wenn uns die Ebene, worin der Planet sich bewegt, die Größe und Lage der
 Apsidenlinie und die Excentricität bekannt ist, so kennen wir die Planetenbahn
 in allen ihren Theilen, nicht aber den Grad der Geschwindigkeit des Körpers in
 der Ellipse. Diesen finden wir durch das zweite keplersche Gesetz. Wenn _AFB_
-(Fig. 8.) der vom Radius Vektor in einer gewissen Zeit, z. B. einem Monat,
+<@pa.fig nr="8"/> der vom Radius Vektor in einer gewissen Zeit, z. B. einem Monat,
 zurückgelegte Raum ist, so wird er den Raum _BFC_ wenn er eben so groß wie
 _AFB_ ist, in derselben Zeit zurücklegen; einen doppelt so großen Raum in einer
 doppelt so großen Zeit, und überhaupt wird die Zeit, welche der Planet bedarf,
@@ -272,7 +272,7 @@ Standpunkte aus.
 Bei den Mittelplaneten ist durch die Excentricität ihrer
 Bahnen Juno bald der nächste, bald der entfernteste derselben, eine
 Verschlingung, die sich sonst im ganzen Sonnensysteme nicht findet. (S. die
-Kupfertafel I.)
+<a href="Tabelle_1.xhtml">Kupfertafel I.</a>)
 
 Noch unregelmäßiger ist die *Größe* der Planeten. Zwar ist Merkur der
 nächste und der kleinste der ältern Planeten, auch ist die Erde etwas größer
@@ -357,7 +357,7 @@ denn auch diese, ähnlich den irdischen Wolken,
 zeigen sich als dunkle Stellen, deren Bewegung
 aber ganz andren Gesetzen, als denen der Achsendrehung
 gehorcht. Hier sucht man nun durch vergleichende Beobachtungen
-vieler Flecken, wovon vielleich nicht *einer*
+vieler Flecken, wovon vielleicht nicht *einer*
 sich ganz regelmäßig bewegt, die gemeinschaftliche
 Bewegung herauszufinden.
 
@@ -371,17 +371,22 @@ waltenden Kräfte die Gestalt und Farbe häufig abändern.
 Man hat sich aber nicht darauf beschränkt, bloß
 die horizontalen Begrenzungen der Flecken zu beobachten,
 sondern man hat sogar aus der Lage und der Stärke der
-Beleuchtung und der Länge der Schatten die höhe
+Beleuchtung und der Länge der Schatten die Höhe
 der Berge und die Tiefe der Thäler berechnet, ja
 <@pagebreak/>
-Spuren von organischen Wesen aufgesucht und vielleicht gefunden, und Hypothesen
-darauf gegründet, über deren Kühnheit man erstaunen muß, wenn man ihre schwache
-Grundlage betrachtet. Es ist natürlich, daß so specielle Untersuchungen nur auf
-nahen Himmelskörpern mit Erfolg angestellt werden konnten. Auf dem nächsten
-derselben, dem Monde, ist man am glücklichsten gewesen, und wir kennen manchen
-Theil desselben genauer, als einige der Erde, aber auch bei der Sonne und den
-Planeten ist der Fleiß mit anziehenden Erfahrungen belohnt worden. Wir werden
-sie in der Folge in ihren verschiedenen Abtheilungen ausführlicher behandeln.
+Spuren von organischen Wesen aufgesucht und vielleicht
+gefunden, und Hypothesen darauf gegründet,
+über deren Kühnheit man erstaunen muß, wenn man
+ihre schwache Grundlage betrachtet. Es ist natürlich,
+daß so specielle Untersuchungen nur auf nahen
+Himmelskörpern mit Erfolg angestellt werden konnten.
+Auf dem nächsten derselben, dem Monde, ist man am
+glücklichsten gewesen, und wir kennen manchen Theil
+desselben genauer, als einige der Erde, aber auch bei
+der Sonne und den Planeten ist der Fleiß mit anziehenden
+Erfahrungen belohnt worden. Wir werden
+sie in der Folge in ihren verschiedenen Abtheilungen
+ausführlicher behandeln.
 
 Durch die Kenntniß von den Bewegungen der Himmelskörper und den Abweichungen
 derselben von der elliptischen Bahn läßt sich der Grad ihrer wechselseitigen

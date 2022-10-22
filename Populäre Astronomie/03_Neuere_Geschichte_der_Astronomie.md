@@ -50,7 +50,7 @@ hatten, abwerfend, sich mit raschen und
 ununterbrochenen Schritten zur jetzigen Höhe erhoben hat, bei *Kopernikus*
 Entdeckung des wahren Weltsystems.
 
-*Kopernikus* war geb. in Thorn den 19. Febr. 1473, Nachdem er, nach der
+*Kopernikus* war geb. in Thorn den 19. Febr. 1473. Nachdem er, nach der
 damaligen Sitte, in Italien studirt hatte, setzte ihn ein Kanonikat in
 Marienburg in Preußen in den Stand, sich seiner Lieblingsbeschäftigung, der
 Astronomie, ganz zu widmen. Von der ausnehmenden Verwicklung des ptolemäischen
@@ -161,7 +161,7 @@ er sich nicht der Macht der Inquisition entziehen könne, durfte er das Gebiet
 von Florenz nicht verlassen. Er starb auch daselbst 9 Jahre nachher zu Arretri.
 
 Während dieses in Italien geschah, entdeckte Kepler in Deutschland die Gesetze
-der Planetenbewegungen. Ehe wir jedoch zu diesen Übergehn, wollen wir die
+der Planetenbewegungen. Ehe wir jedoch zu diesen übergehn, wollen wir die
 Fortschritte der Astronomie im Norden Europa's, seit dem Tode des Kopernikus,
 nachholen.
 
@@ -352,7 +352,7 @@ Bekanntmachung seiner Werke; indeß verschaffte ihm Barrow, sein Freund und
 Lehrer, eine Stelle als Professor der Mathematik in Cambridge, und in dieser
 Periode gab er auch, auf den Wunsch des Halley und das Ansuchen der königlichen
 Gesellschaft, seine _Prinzipia_ heraus. Die Universität, deren Mitglied er war,
-erwählte ihn zu ihrem Repräsentanten im konventionellen Parlamente im I. 1688.
+erwählte ihn zu ihrem Repräsentanten im konventionellen Parlamente im J. 1688.
 Er wurde von der Königinn Anna zum Baronet und zum Münzdirektor ernannt, und im
 J. 1703 zum Präsidenten der königlichen Gesellschaft erhoben, eine Würde, die
 er bis an seinen Tod bekleidete.
@@ -397,7 +397,7 @@ céleste_ von *La Place* stellt sich würdig dem Newtonschen Werke an die Seite.
 Lichts und die Variation der Erdachse, und in ihnen neue Beweise für die
 <@pagebreak/>
 Bewegung der Erde und die ungeheure Entfernung der Fixsterne. *La Caille*
-beobachtete den Himmel der südlichen Halbkugel, und wahrend Schröter die Berge
+beobachtete den Himmel der südlichen Halbkugel, und während Schröter die Berge
 und Thäler der Sonne, des Mondes und der Planeten zu ergründen erstrebte, drang
 Herschel mit seinen Fernröhren in Entfernungen, die selbst die Phantasie sich
 nicht vorzustellen wagt, suchte die Vertheilung der Sterne durch den
