@@ -170,12 +170,12 @@ Mittelpunkt, so heißt sie *Durchmesser*, *Diameter*. Diese sind die größten
 aller Sehnen. Der Kreisbogen, den zwei Halbmesser einschließen, bietet ein
 <@pagebreak/>
 bequemes Maß für den Winkel dar, dessen Größe man bestimmen kann, in so fern
-der Bogen <sup>1</sup>/<sub>3</sub>, <sup>1</sup>/<sub>4</sub>,
-<sup>1</sup>/<sub>10</sub> des ganzen Umkreises beträgt. Man hat der
+der Bogen ⅓, ¼,
+⅒ des ganzen Umkreises beträgt. Man hat der
 Bequemlichkeit willen den ganzen Kreis in 360 Theile getheilt, die man Grade
 nennt, und jeden Grad wieder in 60 Minuten zu 60 Sekunden. Ein Winkel der den
 7ten Theil des Kreises einschließt, enthielte alsdann 51 Grade, 25 Minuten, 42
-und etwa <sup>857</sup>/<sub>1000</sub> Sekunden, oder, wie man gewöhnlich
+und etwa <@pa.bruch z="857" n="1000"/> Sekunden, oder, wie man gewöhnlich
 abgekürzt schreibt, 51°25’42",857.
 
 Ein Winkel, der den vierten Theil des Kreises umschließt, oder 90° mißt, heißt

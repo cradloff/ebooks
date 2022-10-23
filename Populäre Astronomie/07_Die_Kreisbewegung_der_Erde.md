@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 Sechste Vorlesung.
 ==================
 
@@ -141,10 +143,10 @@ Kreis 360 Grade umfaßt, 30° enthält. Folgendes sind ihre Namen mit den für s
 üblichen Zeichen:
 
 <table>
-  <tr><td><img alt="Widder" src="Widder.png"/> Widder,</td><td><img alt="Stier" src="Stier.png"/> Stier,</td><td><img alt="Zwillinge" src="Zwillinge.png"/> Zwillinge,</td></tr>
-  <tr><td><img alt="Krebs" src="Krebs.png"/> Krebs,</td><td><img alt="Löwe" src="Loewe.png"/> Löwe,</td><td><img alt="Jungfrau" src="Jungfrau.png"/> Jungfrau,</td></tr>
-  <tr><td><img alt="Wage" src="Wage.png"/> Wage,</td><td><img alt="Skorpion" src="Skorpion.png"/> Skorpion,</td><td><img alt="Schütz" src="Schuetz.png"/> Schütz,</td></tr>
-  <tr><td><img alt="Steinbock" src="Steinbock.png"/> Steinbock,</td><td><img alt="Wassermann" src="Wassermann.png"/> Wassermann,</td><td><img alt="Fische" src="Fische.png"/> Fische.</td></tr>
+  <tr><td><@pa.widder/> *Widder*,</td><td><@pa.stier/> *Stier*,</td><td><@pa.zwillinge/> *Zwillinge*,</td></tr>
+  <tr><td><@pa.krebs/> *Krebs*,</td><td><@pa.loewe/> *Löwe*,</td><td><@pa.jungfrau/> *Jungfrau*,</td></tr>
+  <tr><td><@pa.wage/> *Wage*,</td><td><@pa.skorpion/> *Skorpion*,</td><td><@pa.schuetz/> *Schütz*,</td></tr>
+  <tr><td><@pa.steinbock/> *Steinbock*,</td><td><@pa.wassermann/> *Wassermann*,</td><td><@pa.fische/> *Fische*.</td></tr>
 </table>
 
 Für die des Lateins kundigen Zuhörer sind folgende alten Verse eine leichte
@@ -168,7 +170,7 @@ Sternbildern gleiches Namens werden
 wir in der Folge aus einander setzen: hier genüge es zu bemerken, daß die
 Benennungen oft Symbole von Gegenständen der Witterung und des Ackerbaues sind.
 
-Wahrend die Sonne auf ihrer Bahn fortrückt, dreht sich die Erde um ihre Achse
+Während die Sonne auf ihrer Bahn fortrückt, dreht sich die Erde um ihre Achse
 und bietet ihr, wie den übrigen Sternen, nach und nach fast alle Theile ihrer
 Oberfläche dar; aber der Tages- und der Nachtbogen der Sonne ist nicht, wie der
 der übrigen Sterne, bloß ein Gegenstand der Neu- oder Wißbegierde: *ihre*
@@ -322,7 +324,7 @@ und südlich
 sein, die Länge zählt man auf der Ekliptik von Westen nach Osten
 nach der Ordnung der Zeichen. Man bedient sich zur Bestimmung der Länge statt
 der Grade auch wol der Zeichen selbst; z. B. 6 Zeichen 20°, oder abgekürzt, 6Z.
-20° oder 20° <img alt="Zeichen" src="Zeichen.png"/> (S. 90.) sind
+20° oder 20° <@pa.zeichen/> (S. 90.) sind
 gleichbedeutend mit 200° Länge. 0Z 0° ist der Anfangspunkt selbst, nämlich die
 Frühlingsnachtgleiche. Ein nach Länge und Breite bestimmter Stern ist seiner
 Lage nach völlig bekannt. Die Breite der Sonne ist stets = 0, da sie immer in
@@ -334,15 +336,15 @@ Osten, also nach der Ordnung der Zeichen; man nennt diese Bewegung
 entgegengesetzten Richtung, so zuweilen die Planeten, *rückgängig*, *indirekt*.
 
 Die Punkte, worin die Bahn eines Himmelskörpers die Ebenen der Ekliptik
-schneidet, nennt man die *Knoten*, und zwar ist der *aufsteigende Knoten* (<img
-alt="aufsteigender Knoten" src="AufsteigenderKnoten.png"/>) da, wo der Stern
-sich nach Norden bewegt, und der *absteigende* (<img alt="absteigender Knoten"
-src="AbsteigenderKnoten.png"/>), wo er sich nach Süden begibt. Man bestimmt die
+schneidet, nennt man die *Knoten*, und zwar ist der *aufsteigende Knoten*
+(<@pa.aufsteigenderKnoten/>) da, wo der Stern
+sich nach Norden bewegt, und der *absteigende* (<@pa.absteigenderKnoten/>),
+wo er sich nach Süden begibt. Man bestimmt die
 Lage der Bahn eines Himmelskörpers durch die Neigung derselben zur Ekliptik und
 die Länge der Knoten.
 
 Von zwei Sternen, die dieselbe Länge haben, sagt man, sie seien in
-*Konjunktion* (<img alt="Konjunktion" src="Konjunktion.png"/>); man bedient
+*Konjunktion* (<@pa.konjunktion/>); man bedient
 sich dieses Ausdrucks gewöhnlich in Verbindung mit der Sonne, und da die
 vornehmsten sich bewegenden Himmelskörper keine von der Ekliptik sehr
 verschiedene Bahn haben, so werden sie oft, vom Glanze der Sonne überstralt,
@@ -354,7 +356,7 @@ dem Namen
 der Sonnenfinsternisse so berühmten Erscheinungen. Ein Stern, der
 sich an der entgegengesetzten Seite der Ekliptik befindet, dessen Länge also
 180° von der der Sonne entfernt ist, und um Mitternacht kulminirt, ist in
-*Opposition* (<img alt="Opposition" src="Opposition.png"/>) mit der Sonne. Ist
+*Opposition* (<@pa.opposition/>) mit der Sonne. Ist
 seine Breite überdieß = 0, oder befindet er sich in der Ekliptik, so ist die
 Erde gerade zwischen ihm und der Sonne, und er kann, wenn er kein leuchtender
 Körper ist, obgleich in der günstigsten Lage zu glänzen, verdunkelt werden. So

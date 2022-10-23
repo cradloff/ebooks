@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 Fünfte Vorlesung.
 =================
 
@@ -37,7 +39,7 @@ ist dieser Unterschied nur sehr selten von
 Bedeutung.
 
 *Horizontal* nennt man jede Linie oder Fläche,
-die dem Horizonte parallel ist; z. B. die Oberfläche
+die dem Horizonte parallel ist; z.B. die Oberfläche
 der Seen, Meere, und, mit sehr kleinen Abweichungen,
 auch die der Flüssigkeiten in Gefäßen. Die 
 *Vertikallinie* eines Ortes ist die auf dem Horizonte
@@ -164,24 +166,24 @@ wo die
 Sterne aufgehn, ist *Osten*, da, wo sie untergehn, *Westen*. Diese vier
 Punkte und die ihnen benachbarten Striche des Horizonts: *Norden* oder
 *Mitternacht*, *Osten* oder *Morgen*, *Süden* oder *Mittag* und *Westen* oder
-*Abend* heißen die vier Weltgegenden. (S. Fig. 6. wo _N_, _O_, _S_ und _W_ die
+*Abend* heißen die vier Weltgegenden. (S. <@pa.fig nr="6"/> wo _N_, _O_, _S_ und _W_ die
 vier mit denselben Buchstaben anfangenden Weltgegenden bedeuten). In der Mitte
 zwischen Nord und Ost ist *Nordost*, _NO_, und so für die übrigen Weltgegenden
 *Nordwest*, _NW_, *Südost*, _SO_, *Südwest*, _SW_, so daß der Horizont in 8
 Theile getheilt ist. Zwischen beiden ist Nordnordost, _NNO_, Nordnordwest,
-_NNW_, Ostnordost, _ONO_, u. s. w., also 16 Theile. Durch die Punkte Nord gen
+_NNW_, Ostnordost, _ONO_, u.s.w., also 16 Theile. Durch die Punkte Nord gen
 Ost, _N_ g. _O_, Nordost gen Nord, _NO_ g. _N_, Nordost gen Ost, _NO_ g. _O_.
-und Ost gen Nord, _O_ g. _N_., oder _N_ <sup>1</sup>/<sub>4</sub> _NO_,
-_NO_ <sup>1</sup>/<sub>4</sub> _N_, _NO_ <sup>1</sup>/<sub>4</sub> _O_,
-_O_ <sup>1</sup>/<sub>4</sub> _NO_ wird der Quadrant zwischen Nord und Ost,
+und Ost gen Nord, _O_ g. _N_., oder _N_ ¼ _NO_,
+_NO_ ¼ _N_, _NO_ ¼ _O_,
+_O_ ¼ _NO_ wird der Quadrant zwischen Nord und Ost,
 und auf ähnliche Weise der ganze Kreis in 32 Theile getheilt. Man nennt einen
 so eingetheilten Kreis, oder vielmehr eine Figur, wo diese 16, 32 oder 64
 Halbmesser bezeichnet worden sind, eine *Windrose*, theils wegen ihrer Gestalt
-(Fig. 9.), theils weil die Schiffer sich derselben bedienen, um die Richtung
+<@pa.fig nr="9"/>, theils weil die Schiffer sich derselben bedienen, um die Richtung
 der Fahrt und des Windes zu bezeichnen. Es wäre freilich weit
 wissenschaftlicher, wenn man sie durch die Größe des Bogens bezeichnete, um den
 sie von dem Süd- oder Nordpunkte entfernt ist, statt _S O_ würde man 45 Grad
-östlich von Süd, statt _S O_ g. _O_ 56<sup>1</sup>/<sub>4</sub>° sagen, und
+östlich von Süd, statt _S O_ g. _O_ 56¼° sagen, und
 statt daß man bei der Windrose von 32 Theilen um mehrere Grade ungewiß bleibt,
 die Lage völlig genau angeben können indeß da bis jetzt die alte Eintheilung
 Genauigkeit genug gewährt hat, so ist sie noch immer die herrschende geblieben.
@@ -277,7 +279,7 @@ letztere Ansicht von den Polen aus nennt man die *parallele Himmelskugel*, die
 vom Äquator aus die *gerade*, und die von allen übrigen Punkten der Erde die
 *schiefe Himmelskugel*.
 
-Alles dieses gilt nicht nur für die. Fixsterne, sondern, mit sehr geringen
+Alles dieses gilt nicht nur für die Fixsterne, sondern, mit sehr geringen
 Einschränkungen, auch für die Sonne, die Planeten u. s. w., deren Bewegung
 gewöhnlich viel langsamer als die tägliche ist. So lange sie in der nördlichen
 Halbkugel sind, verhalten sie sich wie die nördlichen Sterne, in der
@@ -297,7 +299,7 @@ Bogen
 <@pagebreak/>
 zurückgelegt werden, sondern sie hat selbst seit Jahrtausenden keine
 Veränderung erlitten, da nach Laplace’s Berechnungen die Dauer des Sternentages
-sich seit mehr denn 2000 Jahren nicht um <sup>1</sup>/<sub>100</sub>
+sich seit mehr denn 2000 Jahren nicht um <@pa.bruch z="1" n="100"/>
 Sekunde geändert hat. Eine solche Periode ist daher vorzüglich zum Zeitmaß
 geeignet, und wenn sie auch, wie wir sehn werden, für das bürgerliche Leben
 nicht sehr bequem ist, so ist sie es doch in hohem Grade für die Astronomen.
@@ -307,7 +309,7 @@ bekannt, so ist’s auch die der ganzen Himmelskugel.
 Man theilt den Sternentag in 24 Stunden, jede Stunde in 60 Minuten zu 60
 Sekunden, oder den Tag in 1440 Minuten, oder 86,400 Sekunden, und bedient sich
 dabei einiger Abkürzungen, so daß man z. B. statt 366 Tage, 6 Stunden, 9
-Minuten, 11 <sup>7</sup>/<sub>10</sub> Sekunden schreibt: 366 Tage, 6 St.,
+Minuten, 11 <@pa.bruch z="7" n="10"/> Sekunden schreibt: 366 Tage, 6 St.,
 9’ 11"7. Es ist die Umdrehungszeit der Erde um die Sonne.
 
 In 24 Stunden beschreibt jeder Stern einen Kreis oder 360° am Himmel; in jeder
@@ -317,14 +319,14 @@ Sterns bekannt, so darf man sie nur mit 15 multipliciren und statt der Stunden
 Grade setzen, um die Größe des Bogens zu kennen, um welchen der Stern
 fortgerückt ist; oder, wenn die Zeit bekannt ist, die zwischen der Kulmination
 zweier Fixsterne verflossen ist, den Unterschied in der geraden Aufsteigung zu
-finden. Betrug diese z. B. 3 Stunden, 16’ 56<sup>2</sup>/<sub>3</sub>", so
+finden. Betrug diese z. B. 3 Stunden, 16’ 56⅔", so
 deuten
 <table>
-<tr><td>die 3 Stunden auf                 </td><td>45°</td><td>   </td><td></td></tr>
-<tr><td>16 Min                            </td><td>4  </td><td>—  </td><td></td></tr>
-<tr><td>56 Sek                            </td><td>—  </td><td>14’</td><td></td></tr>
-<tr><td><sup>2</sup>/<sub>3</sub> Sek     </td><td>—  </td><td>—  </td><td>10"</td></tr>
-<tr><td>                                  </td><td>49°</td><td>14’</td><td>10".</td></tr>
+<tr><td>die 3 Stunden auf</td><td>45°</td><td>   </td><td></td></tr>
+<tr><td>16 Min.          </td><td>4  </td><td>—  </td><td></td></tr>
+<tr><td>56 Sek.          </td><td>—  </td><td>14’</td><td></td></tr>
+<tr><td>⅔ Sek.           </td><td>—  </td><td>—  </td><td>10"</td></tr>
+<tr><td>                 </td><td>49°</td><td>14’</td><td>10".</td></tr>
 </table>
 
 <@pagebreak/>
@@ -421,7 +423,7 @@ sich um ihre Achse dreht, um uns sich der Mond und viel weiter entfernt die
 Sonne bewege, diese aber in ihrem Laufe die Planeten mit sich fortziehe (zwei
 in einer geringeren Entfernung und acht in einer größern, als die Erde). Ganz
 unregelmäßig bewegen sich die Kometen; aber auch sie scheinen sich auf die
-Sonne, zu beziehen, nur weicht ihre Bahn sehr vom Kreise ab. Die Planeten
+Sonne zu beziehen, nur weicht ihre Bahn sehr vom Kreise ab. Die Planeten
 gehorchen also der Sonne und diese, obgleich eine Million mal größer, bewegt
 sich um die kleine Erde; allerdings eine Erfahrung, die, wenn sie gegründet
 wäre, die Erdbewohner mit gerechtem Stolze erfüllen könnte; aber wir werden

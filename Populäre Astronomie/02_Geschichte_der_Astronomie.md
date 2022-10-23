@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak/>
 Erste Vorlesung.
 ================
@@ -428,7 +430,7 @@ Rücksicht der Sonnenwende fand er sie ungleich getheilt, da von der Frühling-
 zur Sommer-Sonnenwende 94½, und von dieser zum Herbstpunkte nur 92½ Tage
 verflossen. Um diese Unterschiede zu erklären, behielt er zwar mit Plato die
 gleichförmige Kreisbewegung bei, aber, statt in den Mittelpunkt, setzte er die
-Erde <sup>1</sup>/<sub>24</sub> Halbmesser davon entfernt, und die
+Erde <@pa.bruch z="1" n="24"/> Halbmesser davon entfernt, und die
 Erdferne in den 6ten Grad der Zwillinge. Nach diesen Grundsätzen entwarf er die
 ersten Sonnentafeln, die man in der Geschichte der Astronomie kennt. Zwar haben
 die neueren Erfahrungen über die Lage und Größe der Sonne seine Ansichten
