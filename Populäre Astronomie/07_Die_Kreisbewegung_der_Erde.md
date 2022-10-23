@@ -143,10 +143,10 @@ Kreis 360 Grade umfaßt, 30° enthält. Folgendes sind ihre Namen mit den für s
 üblichen Zeichen:
 
 <table>
-  <tr><td><@pa.widder/> *Widder*,</td><td><@pa.stier/> *Stier*,</td><td><@pa.zwillinge/> *Zwillinge*,</td></tr>
-  <tr><td><@pa.krebs/> *Krebs*,</td><td><@pa.loewe/> *Löwe*,</td><td><@pa.jungfrau/> *Jungfrau*,</td></tr>
-  <tr><td><@pa.wage/> *Wage*,</td><td><@pa.skorpion/> *Skorpion*,</td><td><@pa.schuetz/> *Schütz*,</td></tr>
-  <tr><td><@pa.steinbock/> *Steinbock*,</td><td><@pa.wassermann/> *Wassermann*,</td><td><@pa.fische/> *Fische*.</td></tr>
+  <tr><td><@pa.widder/> <em>Widder</em>,</td><td><@pa.stier/> <em>Stier</em>,</td><td><@pa.zwillinge/> <em>Zwillinge</em>,</td></tr>
+  <tr><td><@pa.krebs/> <em>Krebs</em>,</td><td><@pa.loewe/> <em>Löwe</em>,</td><td><@pa.jungfrau/> <em>Jungfrau</em>,</td></tr>
+  <tr><td><@pa.wage/> <em>Wage</em>,</td><td><@pa.skorpion/> <em>Skorpion</em>,</td><td><@pa.schuetz/> <em>Schütz</em>,</td></tr>
+  <tr><td><@pa.steinbock/> <em>Steinbock</em>,</td><td><@pa.wassermann/> <em>Wassermann</em>,</td><td><@pa.fische/> <em>Fische</em>.</td></tr>
 </table>
 
 Für die des Lateins kundigen Zuhörer sind folgende alten Verse eine leichte
@@ -324,7 +324,7 @@ und südlich
 sein, die Länge zählt man auf der Ekliptik von Westen nach Osten
 nach der Ordnung der Zeichen. Man bedient sich zur Bestimmung der Länge statt
 der Grade auch wol der Zeichen selbst; z. B. 6 Zeichen 20°, oder abgekürzt, 6Z.
-20° oder 20° <@pa.zeichen/> (S. 90.) sind
+20° oder 20° <@pa.zeichen/> <@pa.seite 90/> sind
 gleichbedeutend mit 200° Länge. 0Z 0° ist der Anfangspunkt selbst, nämlich die
 Frühlingsnachtgleiche. Ein nach Länge und Breite bestimmter Stern ist seiner
 Lage nach völlig bekannt. Die Breite der Sonne ist stets = 0, da sie immer in
@@ -445,14 +445,14 @@ Erdbewegung kennen lernen.
 
 Der einzige Einwurf, den man dieser Ansicht machen konnte, war, daß trotz der
 Grundlinie von 41 Mill. Meilen, kein Fixstern eine Veränderung in seiner Lage
-oder eine Parallaxe zeigt (S. 53.). Indeß läßt er sich leicht durch die
+oder eine Parallaxe zeigt <@pa.seite 53/>. Indeß läßt er sich leicht durch die
 ungeheure Entfernung der Fixsterne beseitigen; bei einer Entfernung von 4 Bill.
 Meilen ist sogar die Parallaxe der Erdbahn unmerklich, und die Entfernung
 selbst des nächsten Fixsterns ist gewiß nicht geringer, da unser System sich
 wahrscheinlich über 10,000 Mill. Meilen weit von der Sonne aus erstreckt und,
 um selbstständig bleiben zu können, eine große Entfernung der Fixsterne
 verlangt. Tycho’s Einwurf, von der Verschwendung des Raums zwischen den
-Fixsternen hergenommen, ist ohne Bedeutung. (S. 66.)
+Fixsternen hergenommen, ist ohne Bedeutung. <@pa.seite 66/>
 
 Lange dauerte es, ehe der Mensch sich diesen Gedanken befreunden und von der
 erhabenen Rolle, die er im Mittelpunkte des Weltalls einnahm,

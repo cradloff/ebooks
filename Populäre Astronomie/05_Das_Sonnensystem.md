@@ -302,7 +302,7 @@ vorstellen wollen, welche die äußersten Punkte der weitesten Kometenbahnen
 berührt, so können wir ihren Halbmesser nicht kleiner, als 400 *Erdenweiten*,
 <@pagebreak/>
 oder Entfernungen der Erde von der
-Sonne, annehmen, also 8000 Mill. Meilen (S.53.);
+Sonne, annehmen, also 8000 Mill. Meilen <@pa.seite 53/>;
 denn ein Komet, der von 1680, dessen Sonnenferne
 138 Erdweiten beträgt, ist mit völliger Sicherheit beobachtet,
 und wir haben keinen Grund anzunehmen,
@@ -392,7 +392,7 @@ ausführlicher behandeln.
 
 Durch die Kenntniß von den Bewegungen der Himmelskörper und den Abweichungen
 derselben von der elliptischen Bahn läßt sich der Grad ihrer wechselseitigen
-Einwirkungen bestimmen, und da diese, wie wir gesehn haben (S. 62.), von der
+Einwirkungen bestimmen, und da diese, wie wir gesehn haben <@pa.seite 62/>, von der
 Entfernung und der Masse der Körper abhängt und die Entfernung bekannt ist, so
 kann man auch die Massen berechnen. Auch in dieser Rücksicht steht die Sonne
 oben an, indem sie alle Planeten und Trabanten zusammengenommen 800 mal an

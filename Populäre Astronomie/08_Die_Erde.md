@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 Siebente Vorlesung
 ==================
 
@@ -191,7 +193,7 @@ abweichen. Es sei (Fig. 10.) _E_ der Mittelpunkt der von Westen nach Osten sich
 um ihre Achse drehenden Erde, _S_ ein Stern, _A_ der Ort des Beobachters, so
 ist die wahre Lage des Sterns in der Richtung _ES_, die beobachtete Lage ist
 aber _AS_; der Winkel _AES_, um welchen der Stern *niedriger* erscheint, als er
-wirklich ist, heißt die *Parallaxe* (S. 53.). Diese ist am größten, wenn _S_ im
+wirklich ist, heißt die *Parallaxe* <@pa.seite 53/>. Diese ist am größten, wenn _S_ im
 Horizonte des Ortes _A_ ist, und so groß wie der Winkel, in welchem der
 Erdhalbmesser von dem beobachteten Sterne aus erscheinen würde; man nennt sie
 *Horizontalparallaxe*. Je höher der Stern über dem Horizonte steht, desto
@@ -646,7 +648,7 @@ Erdoberfläche zugekehrt ist. Der Stern erscheint uns daher höher, als es ohne
 Stralenbrechung der Fall sein würde. Der Winkel, um welchen dadurch die Lage
 des Sterns verändert wird, oder der *Refraktionswinkel*, muß daher immer von
 der beobachteten Höhe abgezogen werden, und unterscheidet sich dadurch von der
-Parallaxe (S. 110), welche den Himmelskörper zu niedrig angibt. Er hängt nur
+Parallaxe <@pa.seite 110/>, welche den Himmelskörper zu niedrig angibt. Er hängt nur
 von dem Gange des Lichts in der Atmosphäre oder der Höhe des Himmelskörpers
 über unsrem Horizonte ab, ist daher von der Entfernung des Himmelskörpers ganz
 unabhängig, und auch dadurch von der Parallaxe verschieden, deren Größe von der
@@ -666,7 +668,7 @@ Bei 1° Höhe beträgt die Refraktion nur noch 24⅓’; bei 5°, noch 10’; be
 Sekunde auf jeden Grad ab. Am Zenith endlich ist sie = 0. Je höher der Stern in
 seiner täglichen Bahn steht, desto geringer ist sie, am kleinsten also beim
 oberen Durchgang durch den Meridian; ein Grund mehr, den Stern in dieser Lage
-zu beobachten (S. 77).
+zu beobachten <@pa.seite 77/>.
 
 Die Refraktion hängt nicht von der Höhe allein ab, sondern auch von der Wärme
 und Schwere der Luft; je wärmer, je leichter diese ist, desto geringer ist die
