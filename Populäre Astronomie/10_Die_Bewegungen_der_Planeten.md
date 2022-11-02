@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 161/>
 Neunte Vorlesung.
 =================
@@ -17,33 +19,33 @@ beobachtet, sehr zusammengesetzt zu sein, indeß ist dieses nur eine Folge der
 Bewegungen der Erde. Wie sie sich von der Sonne aus — heliocentrisch —
 darstellen, werden folgende Tabellen erläutern.
 
-<table>
+<table class="vborder">
   <caption>Tab. 1. Entfernungen der Planeten von der Sonne, in deutschen Meilen, 15 auf einen Grad.</caption>
-  <tr><th></th><th></th><th>kleinste</th><th>größte</th><th>mittlere</th></tr>
-  <tr><td>Merkur </td><td><img alt="Merkur" src="Merkur.png"/>  </td><td>  7,412,613</td><td>  9,751,675</td><td>  8,082,144</td></tr>
-  <tr><td>Venus  </td><td><img alt="Venus" src="Venus.png"/>    </td><td> 14,998,639</td><td> 15,205,897</td><td> 15,102,268</td></tr>
-  <tr><td>Erde   </td><td><img alt="Erde" src="Erde.png"/>      </td><td> 20,528,093</td><td> 21,229,397</td><td> 20,878,745</td></tr>
-  <tr><td>Mars   </td><td><img alt="Mars" src="Mars.png"/>      </td><td> 28,847,290</td><td> 34,778,294</td><td> 31,812,792</td></tr>
-  <tr><td>Vesta  </td><td><img alt="Vesta" src="Vesta.png"/>    </td><td> 44,932,670</td><td> 53,705,430</td><td> 49,319,050</td></tr>
+  <tr><td>       </td><td>               </td><td>kleinste  </td><td>größte    </td><td>mittlere</td></tr>
+  <tr><td>Merkur </td><td><@pa.merkur/>  </td><td> 7,412,613</td><td> 9,751,675</td><td> 8,082,144</td></tr>
+  <tr><td>Venus  </td><td><@pa.venus/>   </td><td>14,998,639</td><td>15,205,897</td><td>15,102,268</td></tr>
+  <tr><td>Erde   </td><td><@pa.erde/>    </td><td>20,528,093</td><td>21,229,397</td><td>20,878,745</td></tr>
+  <tr><td>Mars   </td><td><@pa.mars/>    </td><td>28,847,290</td><td>34,778,294</td><td>31,812,792</td></tr>
+  <tr><td>Vesta  </td><td><@pa.vesta/>   </td><td>44,932,670</td><td>53,705,430</td><td>49,319,050</td></tr>
 </table>
 
 <@pagebreak/>
 
-<table>
-  <tr><th></th><th></th><th>kleinste</th><th>größte</th><th>mittlere</th></tr>
-  <tr><td>Juno   </td><td><img alt="Juno" src="Juno.png"/>      </td><td> 41,572,237</td><td> 69,635,763</td><td> 55,754,000</td></tr>
-  <tr><td>Ceres  </td><td><img alt="Ceres" src="Ceres.png"/>    </td><td> 53,235,198</td><td> 62,318,002</td><td> 57,776,600</td></tr>
-  <tr><td>Pallas </td><td><img alt="Pallas" src="Pallas.png"/>  </td><td> 43,652,217</td><td> 71,943,443</td><td> 57,797,830</td></tr>
-  <tr><td>Jupiter</td><td><img alt="Jupiter" src="Jupiter.png"/></td><td>103,361,858</td><td>113,825,604</td><td>108,593,731</td></tr>
-  <tr><td>Saturn </td><td><img alt="Saturn" src="Saturn.png"/>  </td><td>187,952,378</td><td>210,322,822</td><td>199,137,600</td></tr>
-  <tr><td>Uranus </td><td><img alt="Uranus" src="Uranus.png"/>  </td><td>381,828,330</td><td>419,212,930</td><td>400,520,630</td></tr>
+<table class="vborder">
+  <tr><td>       </td><td>              </td><td>kleinste   </td><td>größte     </td><td>mittlere</td></tr>
+  <tr><td>Juno   </td><td><@pa.juno/>   </td><td> 41,572,237</td><td> 69,635,763</td><td> 55,754,000</td></tr>
+  <tr><td>Ceres  </td><td><@pa.ceres/>  </td><td> 53,235,198</td><td> 62,318,002</td><td> 57,776,600</td></tr>
+  <tr><td>Pallas </td><td><@pa.pallas/> </td><td> 43,652,217</td><td> 71,943,443</td><td> 57,797,830</td></tr>
+  <tr><td>Jupiter</td><td><@pa.jupiter/></td><td>103,361,858</td><td>113,825,604</td><td>108,593,731</td></tr>
+  <tr><td>Saturn </td><td><@pa.saturn/> </td><td>187,952,378</td><td>210,322,822</td><td>199,137,600</td></tr>
+  <tr><td>Uranus </td><td><@pa.uranus/> </td><td>381,828,330</td><td>419,212,930</td><td>400,520,630</td></tr>
 </table>
 
-<table>
+<table class="vborder">
   <caption>Tab. 2. Mittlere Entfernung der Planeten von der Sonne, die mittlere
 Entfernung der Erde = 1 gesetzt, die Excentricität und das Verhältniß der
 kleinsten zur größten Entfernung.</caption>
-  <tr><th></th><th>Entfernung.</th><th>Excentricität.</th><th>Verhältn.</th></tr>
+  <tr><td></td><td>Entfernung.</td><td>Excentricität.</td><td>Verhältn.</td></tr>
   <tr><td>Merkur </td><td> 0,387099</td><td>0,2056212</td><td> 2 :  3</td></tr>
   <tr><td>Venus  </td><td> 0,723332</td><td>0,0068618</td><td>75 : 76</td></tr>
   <tr><td>Erde   </td><td> 1,000000</td><td>0,0167947</td><td>29 : 30</td></tr>
@@ -57,51 +59,51 @@ kleinsten zur größten Entfernung.</caption>
   <tr><td>Uranus </td><td>19,183177</td><td>0,0466703</td><td>10 : 11</td></tr>
 </table>
 
-<table>
+<table class="vborder">
   <caption>Tab. 3. Siderische Umlaufszeit, die Anzahl der in einer Sekunde
 zurückgelegten deutschen Meilen, der in einem Monat durchlaufenen Bogen der
 Planetenbahn und die größte Mittelpunktsgleichung.</caption>
-  <tr><th></th><th>Umlaufszeit.</th><th>Geschw. in 1"</th><th>Bog. in 1M.</th><th>Mittelp.Gl.</th></tr>
-  <tr><td><img alt="Merkur" src="Merkur.png"/>  </td><td>   87 T. 969258</td><td>6,53 M.</td><td>124°5  </td><td>23°40’45"0</td></tr>
-  <tr><td><img alt="Venus" src="Venus.png"/>    </td><td>  224 "  700824</td><td>4,85 " </td><td> 48,7  </td><td> 4 47 10,7</td></tr>
-  <tr><td><img alt="Erde" src="Erde.png"/>      </td><td>  365 "  256383</td><td>4,12 " </td><td> 30,0  </td><td> 1 55 28,5</td></tr>
-  <tr><td><img alt="Mars" src="Mars.png"/>      </td><td>  686 "  979619</td><td>3,29 " </td><td> 15,87 </td><td>10 41 33,4</td></tr>
+  <tr><td>               </td><td>Umlaufszeit.</td><td>Geschw. in 1"</td><td>Bog. in 1M.</td><td>Mittelp.Gl.</td></tr>
+  <tr><td><@pa.merkur/>  </td><td>   87 T. 969258</td><td>6,53 M.</td><td>124°5  </td><td>23°40’45"0</td></tr>
+  <tr><td><@pa.venus/>   </td><td>  224 "  700824</td><td>4,85 " </td><td> 48,7  </td><td> 4 47 10,7</td></tr>
+  <tr><td><@pa.erde/>    </td><td>  365 "  256383</td><td>4,12 " </td><td> 30,0  </td><td> 1 55 28,5</td></tr>
+  <tr><td><@pa.mars/>    </td><td>  686 "  979619</td><td>3,29 " </td><td> 15,87 </td><td>10 41 33,4</td></tr>
 </table>
 
 <@pagebreak/>
 
-<table>
-  <tr><th></th><th>Umlaufszeit.</th><th>Geschw. in 1"</th><th>Bog. in 1M.</th><th>Mittelp.Gl.</th></tr>
-  <tr><td><img alt="Vesta" src="Vesta.png"/>    </td><td> 1327 "  598293</td><td>2,73 " </td><td>  8,25 </td><td>10 10 57,8</td></tr>
-  <tr><td><img alt="Juno" src="Juno.png"/>      </td><td> 1593 "  841740</td><td>2,56 " </td><td>  6,88 </td><td>29 29 59,0</td></tr>
-  <tr><td><img alt="Ceres" src="Ceres.png"/>    </td><td> 1681 "  400908</td><td>2,52 " </td><td>  6,53 </td><td> 9  0  7,6</td></tr>
-  <tr><td><img alt="Pallas" src="Pallas.png"/>  </td><td> 1682 "  545086</td><td>2,52 " </td><td>  6,53 </td><td>28 13 58,4</td></tr>
-  <tr><td><img alt="Jupiter" src="Jupiter.png"/></td><td> 4332 "  606308</td><td>1,78 " </td><td>  2,53 </td><td> 5 31 16,0</td></tr>
-  <tr><td><img alt="Saturn" src="Saturn.png"/>  </td><td>10758 "  969840</td><td>1,32 " </td><td>  1,02 </td><td> 6 26 12,1</td></tr>
-  <tr><td><img alt="Uranus" src="Uranus.png"/>  </td><td>30688 "  713687</td><td>0,93 " </td><td>  0,357</td><td> 5 21  9,7</td></tr>
+<table class="vborder">
+  <tr><td></td><td>Umlaufszeit.</td><td>Geschw. in 1"</td><td>Bog. in 1M.</td><td>Mittelp.Gl.</td></tr>
+  <tr><td><@pa.vesta/>  </td><td> 1327 "  598293</td><td>2,73 " </td><td>  8,25 </td><td>10 10 57,8</td></tr>
+  <tr><td><@pa.juno/>   </td><td> 1593 "  841740</td><td>2,56 " </td><td>  6,88 </td><td>29 29 59,0</td></tr>
+  <tr><td><@pa.ceres/>  </td><td> 1681 "  400908</td><td>2,52 " </td><td>  6,53 </td><td> 9  0  7,6</td></tr>
+  <tr><td><@pa.pallas/> </td><td> 1682 "  545086</td><td>2,52 " </td><td>  6,53 </td><td>28 13 58,4</td></tr>
+  <tr><td><@pa.jupiter/></td><td> 4332 "  606308</td><td>1,78 " </td><td>  2,53 </td><td> 5 31 16,0</td></tr>
+  <tr><td><@pa.saturn/> </td><td>10758 "  969840</td><td>1,32 " </td><td>  1,02 </td><td> 6 26 12,1</td></tr>
+  <tr><td><@pa.uranus/> </td><td>30688 "  713687</td><td>0,93 " </td><td>  0,357</td><td> 5 21  9,7</td></tr>
 </table>
 
-<table>
+<table class="vborder">
   <caption>Tab. 4. Lage der Planetenellipsen.</caption>
-  <tr><th>Neigung zur Ekliptik.</th><th>Länge des aufft. Knotens.</th><th>Länge
-des Apheliums.</th><th>Neigung zum Sonnenäquat.</th></tr>
-  <tr><td><img alt="Merkur" src="Merkur.png"/>  </td><td> 7° 0’ 0" </td><td> 46° 4’ 1"</td><td>254°30’14"</td><td> 2°54’ 4"</td></tr>
-  <tr><td><img alt="Venus" src="Venus.png"/>    </td><td> 3 23 28,5</td><td> 74 57 18 </td><td>308 44 18 </td><td> 4  9 12</td></tr>
-  <tr><td><img alt="Erde" src="Erde.png"/>      </td><td> 0  0  0  </td><td>  0  0  0 </td><td>279 39 22 </td><td> 7 30  0</td></tr>
-  <tr><td><img alt="Mars" src="Mars.png"/>      </td><td> 1 51  5  </td><td> 48  3 48 </td><td>152 33 49 </td><td> 5 49 55</td></tr>
-  <tr><td><img alt="Vesta" src="Vesta.png"/>    </td><td> 7  7 52  </td><td>103 10 12 </td><td>270 19  0 </td><td> 4 27 31</td></tr>
-  <tr><td><img alt="Juno" src="Juno.png"/>      </td><td>13  4 27  </td><td>171  9 50 </td><td> 33 16  0 </td><td>16 27 48</td></tr>
-  <tr><td><img alt="Ceres" src="Ceres.png"/>    </td><td>34 37 28  </td><td> 80 56 55 </td><td>326 44 12 </td><td> 3 43 28</td></tr>
-  <tr><td><img alt="Pallas" src="Pallas.png"/>  </td><td>10 37 30,4</td><td>172 33 54 </td><td>301 22 17 </td><td>37  8 12</td></tr>
-  <tr><td><img alt="Jupiter" src="Jupiter.png"/></td><td> 1 18 51,5</td><td> 98 30  4 </td><td>191 17 48 </td><td> 6 24 16</td></tr>
-  <tr><td><img alt="Saturn" src="Saturn.png"/>  </td><td> 2 29 38  </td><td>112  1 55 </td><td>269 15 11 </td><td> 5 57 28</td></tr>
-  <tr><td><img alt="Uranus" src="Uranus.png"/>  </td><td> 0 46 26  </td><td> 72 53 35 </td><td>347 29 37 </td><td> 6 44  5</td></tr>
+  <tr><td>Neigung zur Ekliptik.</td><td>Länge des aufft. Knotens.</td><td>Länge
+des Apheliums.</td><td>Neigung zum Sonnenäquat.</td></tr>
+  <tr><td><@pa.merkur/> </td><td> 7° 0’ 0" </td><td> 46° 4’ 1"</td><td>254°30’14"</td><td> 2°54’ 4"</td></tr>
+  <tr><td><@pa.venus/>  </td><td> 3 23 28,5</td><td> 74 57 18 </td><td>308 44 18 </td><td> 4  9 12</td></tr>
+  <tr><td><@pa.erde/>   </td><td> 0  0  0  </td><td>  0  0  0 </td><td>279 39 22 </td><td> 7 30  0</td></tr>
+  <tr><td><@pa.mars/>   </td><td> 1 51  5  </td><td> 48  3 48 </td><td>152 33 49 </td><td> 5 49 55</td></tr>
+  <tr><td><@pa.vesta/>  </td><td> 7  7 52  </td><td>103 10 12 </td><td>270 19  0 </td><td> 4 27 31</td></tr>
+  <tr><td><@pa.juno/>   </td><td>13  4 27  </td><td>171  9 50 </td><td> 33 16  0 </td><td>16 27 48</td></tr>
+  <tr><td><@pa.ceres/>  </td><td>34 37 28  </td><td> 80 56 55 </td><td>326 44 12 </td><td> 3 43 28</td></tr>
+  <tr><td><@pa.pallas/> </td><td>10 37 30,4</td><td>172 33 54 </td><td>301 22 17 </td><td>37  8 12</td></tr>
+  <tr><td><@pa.jupiter/></td><td> 1 18 51,5</td><td> 98 30  4 </td><td>191 17 48 </td><td> 6 24 16</td></tr>
+  <tr><td><@pa.saturn/> </td><td> 2 29 38  </td><td>112  1 55 </td><td>269 15 11 </td><td> 5 57 28</td></tr>
+  <tr><td><@pa.uranus/> </td><td> 0 46 26  </td><td> 72 53 35 </td><td>347 29 37 </td><td> 6 44  5</td></tr>
 </table>
 
 Die *erste* Tabelle enthält die auf die Entfernungen sich beziehenden Werthe,
-so daß der mittlere Werth gleich weit von dem größten und dem kleinsten ist (S.
-131). Die Zunahme in der Geschwindigkeit ist sehr rasch, da der folgende Planet
-immer fast doppelt so weit entfernt ist (S. 64.). Nur die vier kleinen Planeten
+so daß der mittlere Werth gleich weit von dem größten und dem kleinsten ist <@pa.seite 131/>.
+Die Zunahme in der Geschwindigkeit ist sehr rasch, da der folgende Planet
+immer fast doppelt so weit entfernt ist <@pa.seite 64/>. Nur die vier kleinen Planeten
 machen eine Ausnahme, indem ihre mittleren Entfernungen fast einander gleich
 sind, ihre Bahnen aber sich so oft durchkreuzen, daß diese Planeten im Laufe
 der Zeit an einander stoßen können, und es vielleicht auch müssen, so daß, wenn
@@ -117,16 +119,13 @@ Venus ist sie am kleinsten, indem ihre Bahn dem Kreise am nächsten kommt,
 wogegen die Bahnen der Juno und Pallas am meisten in die Länge gezogen, am
 excentrischsten sind. Man kann alle Planeten nach der Excentricität ihrer
 Bahnen in folgende vier Gruppen theilen. Es sind von den excentrischsten
-Planeten angefangen: <img alt="Juno" src="Juno.png"/>, <img alt="Pallas"
-src="Pallas.png"/>, <img alt="Merkur" src="Merkur.png"/>, <img alt="Mars"
-src="Mars.png"/>, <img alt="Vesta" src="Vesta.png"/>, <img alt="Ceres"
-src="Ceres.png"/>, <img alt="Saturn" src="Saturn.png"/>, <img alt="Jupiter"
-src="Jupiter.png"/>, <img alt="Uranus" src="Uranus.png"/>, <img alt="Erde"
-src="Erde.png"/>, <img alt="Venus" src="Venus.png"/>. Die Bahn unsrer Erde ist
+Planeten angefangen: <@pa.juno/>, <@pa.pallas/>, <@pa.merkur/>, <@pa.mars/>,
+<@pa.vesta/>, <@pa.ceres/>, <@pa.saturn/>, <@pa.jupiter/>, <@pa.uranus/>,
+<@pa.erde/>, <@pa.venus/>. Die Bahn unsrer Erde ist
 daher nächst der der Venus die kreisförmigste. Die dritte Rubrik gibt das
 Verhältniß der kleinsten zur größten Entfernung in ganzen Zahlen an.
 
-Dem zweiten und dritten Keplerschen Gesetze (S. 58.) gehorchen die Zahlen der
+Dem zweiten und dritten Keplerschen Gesetze <@pa.seite 58/> gehorchen die Zahlen der
 *dritten* Tabelle. Die erste Kolumne dem Gesetze, daß die Quadrate der
 Umlaufszeiten sich wie die Würfel der mittleren Entfernungen verhalten.
 Berechnet man den Umfang der ganzen von den Planeten durchlaufenen Ellipsen in
@@ -137,7 +136,7 @@ die Zahlen sehr leicht durch das Verhältniß: so wie die Umlaufszeit sich zum
 zwölften Theil des siderischen Jahres verhält, so verhalten sich 360 Grade zu
 dem in einem Monat durchlaufenen heliocentrischen Bogen. Z. B. beim Merkur
 <@pagebreak/>
-(88 : 365¼) / 12 = 360° : — 124° 8. Er nimmt in dem selben Verhältnisse ab, wie die
+<@pa.bruch z="88 : 365¼" n="12"/> = 360° : —124° 8. Er nimmt in dem selben Verhältnisse ab, wie die
 Umlaufszeit zunimmt. Bei der Erde beträgt er gerade 30° oder *ein* Zeichen,
 oder täglich etwa 1°; bei dem Merkur sind es täglich über 4°, bei dem Uranus
 fast 43 Sekunden, ein noch immer sehr merklicher Fortschritt, der seine
@@ -151,30 +150,22 @@ Planetenellipsen; die *vierte* Tabelle dagegen bestimmt die Lage der
 Planetenbahnen gegen einander. Es ist natürlich, daß man dabei größtentheils
 von der Erdbahn ausgegangen ist. Durch die Neigung der Bahnen zu ihr, durch die
 Lage des Punktes, wo der Planet sich aus der südlichen nach der nördlichen
-Seite der Ekliptik begibt — des aufsteigenden Knoten, <img alt="aufsteigender
-Knoten" src="AufsteigenderKnoten.png"/> (S. 97) — und die Länge des Apheliums
+Seite der Ekliptik begibt — des aufsteigenden Knoten, <@pa.aufsteigenderKnoten/>
+<@pa.seite 97/> — und die Länge des Apheliums
 werden alle hierauf sich beziehenden Fragen beantwortet. Die Neigung steigt
-nach folgender Ordnung: <img alt="Uranus" src="Uranus.png"/>, <img
-alt="Jupiter" src="Jupiter.png"/>, <img alt="Mars" src="Mars.png"/>, <img
-alt="Saturn" src="Saturn.png"/>, <img alt="Venus" src="Venus.png"/>, <img
-alt="Merkur" src="Merkur.png"/>, <img alt="Vesta" src="Vesta.png"/>, <img
-alt="Pallas" src="Pallas.png"/>, <img alt="Juno" src="Juno.png"/>, <img
-alt="Ceres" src="Ceres.png"/>.
+nach folgender Ordnung: <@pa.uranus/>, <@pa.jupiter/>, <@pa.mars/>, <@pa.saturn/>,
+<@pa.venus/>, <@pa.merkur/>, <@pa.vesta/>, <@pa.pallas/>, <@pa.juno/>, <@pa.ceres/>.
 
 Die vierte Rubrik verdient hier einen Platz, weil die Lage der Planetenbahnen
 zu einer festen Ebene auf der Sonne von größerer Wichtigkeit ist, als die Lage
 zu einem Planeten, dessen einziger Vorzug darin besteht, daß wir darauf wohnen.
 Von dem Sonnenäquator werden wir in der Folge reden. In der Neigung zu ihm ist
-die Lage der Mittelplaneten weniger abweichend. Die Reihenfolge ist: <img
-alt="Merkur" src="Merkur.png"/>, <img alt="Ceres" src="Ceres.png"/>, <img
-alt="Venus" src="Venus.png"/>,
+die Lage der Mittelplaneten weniger abweichend. Die Reihenfolge ist: <@pa.merkur/>,
+<@pa.ceres/>, <@pa.venus/>,
 <@pagebreak/>
-<img alt="Vesta" src="Vesta.png"/>, <img
-alt="Mars" src="Mars.png"/>, <img alt="Saturn" src="Saturn.png"/>, <img
-alt="Jupiter" src="Jupiter.png"/>, <img alt="Uranus" src="Uranus.png"/>, <img
-alt="Erde" src="Erde.png"/>, <img alt="Juno" src="Juno.png"/>, <img
-alt="Pallas" src="Pallas.png"/>. Die Erde gehört also zu den am meisten
-geneigten Planeten. Uebrigens findet in der Lage des Sonnenäquators eine
+<@pa.vesta/>, <@pa.mars/>, <@pa.saturn/>, <@pa.jupiter/>, <@pa.uranus/>, <@pa.erde/>,
+<@pa.juno/>, <@pa.pallas/>. Die Erde gehört also zu den am meisten
+geneigten Planeten. Übrigens findet in der Lage des Sonnenäquators eine
 Ungewißheit von mehreren Minuten statt.
 
 Von den in diesen Tabellen enthaltenen Größen sind die mittleren Entfernungen
@@ -200,9 +191,9 @@ wirklichen Bewegungen der Planeten aus einem unbeweglichen Standpunkte
 betrachteten, würden sie uns schon ziemlich unregelmäßig erscheinen, aber indem
 wir durch eine Täuschung der Sinne die Bewegung der Erde
 <@pagebreak/>
-auf die Planeten
-übertragen, bringen wir den unregelmäßigen Wechsel von direkter und indirekter
-(S. 97.), rascher und langsamer Bewegung hervor.
+auf die Planeten übertragen, bringen wir den unregelmäßigen
+Wechsel von direkter und indirekter <@pa.seite 97/>,
+rascher und langsamer Bewegung hervor.
 
 Die Planeten zerfallen geocentrisch in zwei an Ausdehnung und Eigenschaften
 sehr ungleiche Abtheilungen, nämlich die Planeten, denen die Sonne näher ist,
@@ -210,8 +201,8 @@ als die Erde, oder die *unteren* Planeten, und diejenigen von denen sie weiter
 entfernt ist, oder die *oberen* Planeten. Zu jenen gehören bloß Venus und
 Merkur, deren Erscheinungen wir jetzt genauer beleuchten wollen.
 
-_S_ (Fig. 12) sei die Sonne, um welche der Planet in der Richtung _ABCD_ seine
-Bahn durchläuft, _E_, die Erde; die Bahn wollen wir vorläufig kreisförmig und
+_S_ <@pa.fig nr="12"/> sei die Sonne, um welche der Planet in der Richtung _ABCD_ seine
+Bahn durchläuft, _E_ die Erde; die Bahn wollen wir vorläufig kreisförmig und
 in der Ebene der Ekliptik annehmen, so daß die Erde in der Ebene der
 Planetenbahn ist, so wird jede Lage des Planeten zur Erde und Sonne durch
 irgend einen Punkt des Kreises _ABCD_ bezeichnet werden können. Am
@@ -244,7 +235,7 @@ ruhen schien, wird wieder rechtgängig und schneller, bis er sich in der Nähe
 von _A_, der obern Konjunktion, des Morgens in die Sonnenstralen taucht. Die
 obere Konjunktion ist also der Punkt der raschesten direkten Bewegung, die
 untre Konjunktion die rascheste indirekte; da wo beide Bewegungen an einander
-grenzen, in _B_ und _D_, in der Nahe der Quadraturen (S. 98.), scheint der
+grenzen, in _B_ und _D_, in der Nähe der Quadraturen <@pa.seite 98/>, scheint der
 Planet zu ruhen.
 
 Mit der Veränderung der Entfernung des Planeten von der Erde wechselt auch sein
@@ -275,7 +266,7 @@ der Radius Vektor und die Gesichtslinie 180° mit einander machen und uns, wie
 beim Neumonde, kein Theil der erleuchteten Scheibe zugekehrt ist. Diese
 *Lichterscheinungen* oder *Phasen* sind auf der östlichen wie auf der
 westlichen Seite der Sonne, der immer die erhabenste Seite der Planetensichel
-zugekehrt ist. Indeß ist diese wegen der Irradiation (S. 128), nur durch
+zugekehrt ist. Indeß ist diese wegen der Irradiation <@pa.seite 128/>, nur durch
 Fernröhre deutlich zu erkennen;
 <@pagebreak/>
 dem bloßen Auge erscheinen die Planeten fast
@@ -284,7 +275,7 @@ immer kreisförmig.
 Um die Größe des erleuchteten Theils auszudrücken, theilt man den Durchmesser
 des Planeten in 12 Theile oder *Zolle*, und sagt nun der Stern sei 1 Z, 2 Z, 3
 Z etc., erleuchtet. Dieses bezieht sich nur auf das Verhältnis des erleuchteten
-und dunklen Theils der uns zugekehrten Scheibe, denn in _A_ ist diese wohl 5O
+und dunklen Theils der uns zugekehrten Scheibe, denn in _A_ ist diese wohl 50
 mal kleiner als in _C_, wo sie am nächsten ist. In der Nähe der oberen
 Konjunktion ist sie hell aber klein; in der Nähe der untern dunkler, aber groß;
 in den größten Elongationen _B_, _D_ dagegen sowohl an Größe als an Beleuchtung
@@ -311,7 +302,7 @@ Planet der Erde voreilt und sich daher in der Richtung _BCD_, d. h. nach Westen
 zu bewegen scheint.
 
 So lange der Planet sich auf der Westseite der Sonne in dem Halbkreise _ABC_
-befindet, erscheint er des Morgens und ist *Morgenstern* (S. 98.); im
+befindet, erscheint er des Morgens und ist *Morgenstern* <@pa.seite 98/>; im
 Halbkreise _ADC_ ist er des Abends sichtbar und heißt *Abendstern*. Die Grenzen
 beider Zustände sind die Konjunktionen.
 
@@ -397,12 +388,12 @@ Für die theoretische Astronomie äußerst wichtige Erscheinungen sind die
 Parallaxe der Sonne bestimmt. Die Umlaufszeiten der Planeten um die Sonne sind
 sehr genau bekannt; nach dem dritten Keplerschen Gesetze lassen sich daraus die
 Verhältnisse der Entfernungen berechnen und sehr genau in Theilen der
-Entfernung der Erde von der Sonne angeben, wie in Tab. 2. dieser Vorlesung (S.
-162). Aber wie groß ist diese Entfernung? Die gewöhnliche Methode, die
+Entfernung der Erde von der Sonne angeben, wie in Tab. 2. dieser Vorlesung <@pa.seite 162/>.
+Aber wie groß ist diese Entfernung? Die gewöhnliche Methode, die
 Entfernung von Örtern, zu denen man nicht gelangen kann, zu beobachten, welche
 in der Aufsuchung des Winkels besteht, unter dem eine ihrer Größe nach bekannte
 Grundlinie von dem entfernten Orte aus gesehen werden könnte, und die auch beim
-Monde angewendet wird, haben wir oben (S. 53) angegeben; aber selbst die größte
+Monde angewendet wird, haben wir oben <@pa.seite 53/> angegeben; aber selbst die größte
 Standlinie, die wir auf der Erde nehmen könnten, wird von der Sonne aus nur
 unter einem Winkel von wenigen Sekunden gesehen. Dennoch bleibt diese
 Beobachtung das einzige Mittel, und man konnte nur auf eine genauere Methode
@@ -434,7 +425,7 @@ Erde hervorgebrachte Täuschung. Wir wollen zuerst die erste Bewegung betrachten
 und, wie oben, vorläufig annehmen, daß sie kreisförmig und in der Ebene der
 Ekliptik sei.
 
-_S_ und _E_ (Fig. 13) seien Sonne und Erde _ABCDA_ die Bahn des Planeten, so
+_S_ und _E_ <@pa.fig nr="13"/> seien Sonne und Erde _ABCDA_ die Bahn des Planeten, so
 werden alle mögliche Lagen desselben zur Erde und Sonne durch irgend einen
 Punkt dieses Kreises angegeben werden können. Seine Bewegung, obgleich von
 verschiedene
@@ -451,9 +442,9 @@ Beziehung auf die Erde; auch die Größe ist in der Konjunktion am kleinsten und
 in der Opposition am größten. In diesen Rücksichten sind die untern den obern
 Planeten gleich, weichen aber in den Lichterscheinungen von ihnen ab. Diese
 finden nämlich bei den letzteren in weit geringerem Grade statt; die beiden
-Linien von der Sonne und der Erde nach den Planeten (S. 169) machen stets einen
-nur kleinen Winkel mit einander, und selbst wo er am größten<a class="refnote"
-id="rn1" href="#fn1">*)</a> ist, in den Quadraturen _B_ und _D_, nimmt der
+Linien von der Sonne und der Erde nach den Planeten <@pa.seite 169/> machen stets einen
+nur kleinen Winkel mit einander, und selbst wo er am größten<a class="refnote" id="rn1" href="#fn1">*)</a>
+ist, in den Quadraturen _B_ und _D_, nimmt der
 erleuchtete Theil immer noch mehr als die Hälfte der Scheibe ein, die also nun
 etwas oval erscheint; bei den entfernteren Planeten ist kaum eine Abnahme der
 Scheibe zu bemerken. Von _B_ zu _C_ nimmt die Größe des erleuchteten Theils
@@ -542,7 +533,7 @@ Thierkreises
 <@pagebreak/>
 verdankt, weil der verhältnißmäßig weite Abstand des Mars vom
 Jupiter schon längst das Dasein eines Planeten in diesem Zwischenraume
-vermuthen ließ (S. 64).
+vermuthen ließ <@pa.seite 64/>.
 
 Um die genaue Bestimmung der Bahnen dieser Gestirne hat sich vorzüglich *Gauß*
 großes Verdienst erworben, indem er das merkwürdige Resultat gefunden hat, daß
@@ -576,8 +567,8 @@ Bahn erkannt war, wurde er von ihm *Georgium Sidus*, nach dem Namen des
 englischen Königes, und von den Franzosen *Herschel* benannt. Bode schlug den
 passenden Namen *Uranus* vor, als Vater des Saturn und Großvater des Jupiter.
 Dieser Name ist jetzt fast allgemein angenommen, nur zuweilen nennen ihn die
-Engländer noch *Georgian*. Sein Zeichen ist auch wol <img alt="Uranus"
-src="Uranus.png"/>. Er ist, wie Saturn, durch Trabanten und Ringe
+Engländer noch *Georgian*. Sein Zeichen ist auch wol <@pa.uranus/>.
+Er ist, wie Saturn, durch Trabanten und Ringe
 ausgezeichnet. Seine rückgängige Bewegung beginnt bei 115° Entfernung von der
 Sonne, und er beschreibt in 151 Tagen 4°. Er gebraucht sieben Jahre um *ein*
 Zeichen am Himmel zurückzulegen. Sehr merkwürdig ist die Lage seiner Ringe und
@@ -608,20 +599,20 @@ haben.
   <caption>Tab. 5. Größte und kleinste Entfernung der Planeten von der Erde in
 deutschen Meilen; kleinster und größter scheinbarer Durchmesser; synodischer
 Umlauf.</caption>
-  <tr><th colspan="2"></th><th colspan="2">Entfernung</th><th colspan="2">Scheinb. Größe</th><th rowspan="2">synodischer Umlauf</th></tr>
-  <tr><th colspan="2"></th><th>größte</th><th>kleinste</th><th>kleinste</th><th>größte</th></tr>
-  <tr><td>Merkur </td><td><img alt="Merkur" src="Merkur.png"/>  </td><td> 30,981,072</td><td> 10,776,418</td><td>   4, 0</td><td>  11" 6</td><td>115 T. 21 St. 3’ 34"</td></tr>
-  <tr><td>Venus  </td><td><img alt="Venus" src="Venus.png"/>    </td><td> 36,435,294</td><td>  5,822,196</td><td>   9, 5</td><td>  65, 5</td><td>583 "  22 "   6  56</td></tr>
-  <tr><td>Mars   </td><td><img alt="Mars" src="Mars.png"/>      </td><td> 56,007,691</td><td>  7,617,893</td><td>   2, 9</td><td>  21, 2</td><td>779 "  22 "  28  33</td></tr>
-  <tr><td>Vesta  </td><td><img alt="Vesta" src="Vesta.png"/>    </td><td> 74,934,827</td><td> 23,703,273</td><td>   0,16</td><td>   0,51</td><td>504 "   9 "  13</td></tr>
-  <tr><td>Juno   </td><td><img alt="Juno" src="Juno.png"/>      </td><td> 90,865,160</td><td> 20,342,840</td><td>   0,70</td><td>   3,13</td><td>474 "   0 "  43</td></tr>
-  <tr><td>Ceres  </td><td><img alt="Ceres" src="Ceres.png"/>    </td><td> 83,547,399</td><td> 32,005,801</td><td>   0,70</td><td>   2,20</td><td>466 "  14 "  59</td></tr>
-  <tr><td>Pallas </td><td><img alt="Pallas" src="Pallas.png"/>  </td><td> 93,172,840</td><td> 22,422,820</td><td>   0,01</td><td>   4,19</td><td>466 "  17 "  59</td></tr>
-  <tr><td>Jupiter</td><td><img alt="Jupiter" src="Jupiter.png"/></td><td>135,055,001</td><td> 82,132,461</td><td>  31, 5</td><td>  51, 9</td><td>398 "  21 "  12  29</td></tr>
-  <tr><td>Saturn </td><td><img alt="Saturn" src="Saturn.png"/>  </td><td>231,552,219</td><td>166,722,981</td><td>  14, 6</td><td>  20, 2</td><td>378 "   2 "  12  55</td></tr>
-  <tr><td>Uranus </td><td><img alt="Uranus" src="Uranus.png"/>  </td><td>440,442,327</td><td>360,598,933</td><td>   3, 4</td><td>   4, 2</td><td>369 "  15 "  44  41</td></tr>
-  <tr><td>Sonne  </td><td><img alt="Sonne" src="Sonne.png"/>    </td><td> 21,229,397</td><td> 20,528,093</td><td>1890, 6</td><td>1955, 2</td><td></td></tr>
-  <tr><td>Mond   </td><td><img alt="Mond" src="Mond.png"/>      </td><td>     55,265</td><td>     48,422</td><td>1762, 0</td><td>2011, 0</td><td></td></tr>
+  <tr><td colspan="2">                  </td><td colspan="2">Entfernung</td><td colspan="2">Scheinb. Größe</td><td rowspan="2">synodischer Umlauf</td></tr>
+  <tr><td colspan="2">                  </td><td>größte     </td><td>kleinste   </td><td>kleinste</td><td>größte</td></tr>
+  <tr><td>Merkur </td><td><@pa.merkur/> </td><td> 30,981,072</td><td> 10,776,418</td><td>   4, 0</td><td>  11" 6</td><td>115 T. 21 St. 3’ 34"</td></tr>
+  <tr><td>Venus  </td><td><@pa.venus/>  </td><td> 36,435,294</td><td>  5,822,196</td><td>   9, 5</td><td>  65, 5</td><td>583 "  22 "   6  56</td></tr>
+  <tr><td>Mars   </td><td><@pa.mars/>   </td><td> 56,007,691</td><td>  7,617,893</td><td>   2, 9</td><td>  21, 2</td><td>779 "  22 "  28  33</td></tr>
+  <tr><td>Vesta  </td><td><@pa.vesta/>  </td><td> 74,934,827</td><td> 23,703,273</td><td>   0,16</td><td>   0,51</td><td>504 "   9 "  13</td></tr>
+  <tr><td>Juno   </td><td><@pa.juno/>   </td><td> 90,865,160</td><td> 20,342,840</td><td>   0,70</td><td>   3,13</td><td>474 "   0 "  43</td></tr>
+  <tr><td>Ceres  </td><td><@pa.ceres/>  </td><td> 83,547,399</td><td> 32,005,801</td><td>   0,70</td><td>   2,20</td><td>466 "  14 "  59</td></tr>
+  <tr><td>Pallas </td><td><@pa.pallas/> </td><td> 93,172,840</td><td> 22,422,820</td><td>   0,01</td><td>   4,19</td><td>466 "  17 "  59</td></tr>
+  <tr><td>Jupiter</td><td><@pa.jupiter/></td><td>135,055,001</td><td> 82,132,461</td><td>  31, 5</td><td>  51, 9</td><td>398 "  21 "  12  29</td></tr>
+  <tr><td>Saturn </td><td><@pa.saturn/> </td><td>231,552,219</td><td>166,722,981</td><td>  14, 6</td><td>  20, 2</td><td>378 "   2 "  12  55</td></tr>
+  <tr><td>Uranus </td><td><@pa.uranus/> </td><td>440,442,327</td><td>360,598,933</td><td>   3, 4</td><td>   4, 2</td><td>369 "  15 "  44  41</td></tr>
+  <tr><td>Sonne  </td><td><@pa.sonne/>  </td><td> 21,229,397</td><td> 20,528,093</td><td>1890, 6</td><td>1955, 2</td><td></td></tr>
+  <tr><td>Mond   </td><td><@pa.mond/>   </td><td>     55,265</td><td>     48,422</td><td>1762, 0</td><td>2011, 0</td><td></td></tr>
 </table>
 
 <@pagebreak/>
@@ -643,12 +634,9 @@ daher beim Mars, der in beiden Rücksichten ausgezeichnet ist, am meisten;
 dagegen je entfernter der Planet ist, z. B. Uranus, desto weniger bedeutend ist
 die Größe von etwa 42 Mill. Meilen, um welche ihre Entfernung von der Erde sich
 durch die Bewegung derselben ändert. Für die verhältnißmäßige Größe des
-Unterschiedes haben die Planeten folgende Reihefolge: <img alt="Mars"
-src="Mars.png"/> <img alt="Venus" src="Venus.png"/> <img alt="Juno"
-src="Juno.png"/> <img alt="Pallas" src="Pallas.png"/> <img alt="Vesta"
-src="Vesta.png"/> <img alt="Ceres" src="Ceres.png"/> <img alt="Merkur"
-src="Merkur.png"/> <img alt="Jupiter" src="Jupiter.png"/> <img alt="Saturn"
-src="Saturn.png"/> <img alt="Uranus" src="Uranus.png"/>.
+Unterschiedes haben die Planeten folgende Reihefolge: <@pa.mars/> <@pa.venus/>
+<@pa.juno/> <@pa.pallas/> <@pa.vesta/> <@pa.ceres/> <@pa.merkur/> <@pa.jupiter/>
+<@pa.saturn/> <@pa.uranus/>.
 
 *Synodischer Umlauf* ist die Zeit die von einer Opposition oder Konjunktion bis
 zur nächstfolgenden verfließt, ihre Dauer ist schwankend und die angegebenen
@@ -662,7 +650,7 @@ Planeten völlig dieselbe, so würden sie, wenn sie einmal in Konjunktion sind,
 sich nie trennen und wenn sie es nicht sind, diese nie erreichen. Ist die
 Geschwindigkeit beider verschieden, so eilt der raschere voraus und holt den
 langsamern erst dann wieder ein, wenn er einen Umlauf mehr gemacht hat als
-dieser. Verhalten sich z. B. die scheinbaren heliocentrischen Geschwindigkeiten
+dieser. Verhalten sich z.B. die scheinbaren heliocentrischen Geschwindigkeiten
 der beiden Körper wie 1 : 1¼, so wiederholen sich die Konjunktionen nach vier
 Umläufen des ersten oder fünf des zweiten; verhalten sie sich dagegen wie 2 :
 7, so wiederholen sich die Konjunktionen schon nach ⅖ Umläufen des ersten oder
@@ -677,7 +665,7 @@ beantworten.
 Fast alle in diesem Abschnitte enthaltenen Gegenstände haben wir so angegeben,
 wie sie einem Beobachter im Mittelpunkte der Erde erscheinen würden; da wir uns
 indeß in einer bedeutenden Entfernung davon befinden, so werden sie sich uns
-etwas anders zeigen. Wir haben diese Abweichung schon (S. 109) unter dem Namen
+etwas anders zeigen. Wir haben diese Abweichung schon <@pa.seite 109/> unter dem Namen
 *Parallaxe* kennen gelernt; die Sterne erscheinen uns dadurch etwas niedriger
 als vom Mittelpunkte der Erde aus, aber der Unterschied ist
 <@pagebreak/>
@@ -686,7 +674,7 @@ näheren Planeten unbedeutend, und bei den entfernteren fast unmerklich.
 
 Mehr als durch die Parallaxe erniedrigt, werden sie durch die *Stralenbrechung*
 erhöht, indeß da sie sich darin nicht von den übrigen Sternen unterscheiden, so
-verweisen wir auf S. 126.
+verweisen wir auf <@pa.seite0 126/>.
 
 In weit geringerem Grade, als bei den Fixsternen, findet das *Funkeln* bei den
 Planeten statt, und obgleich viel glänzender als die meisten Fixsterne, haben
@@ -694,7 +682,7 @@ selbst Venus und Jupiter ein weit ruhigeres, mondähnlicheres Licht, wodurch ein
 geübtes Auge, auch ohne ihre Stellung zu kennen, leicht die Körper des
 Sonnensystems von den Fixsternen unterscheiden kann. Indeß sind diejenigen
 planetarischen Körper, deren Durchmesser wegen ihrer geringen Größe und
-Entfernung sehr klein erscheint, den Fixsternen ähnlicher. (S. 129).
+Entfernung sehr klein erscheint, den Fixsternen ähnlicher. <@pa.seite 129/>.
 
 Sie können sich unsrem Zenith nur bis auf einen gewissen Bogen nähern, da sie
 sich von der Ekliptik nicht über eine gewisse Grenze entfernen, und dieser
@@ -703,7 +691,7 @@ nur Pallas kann ihn allenfalls erreichen. Am meisten nähern sie sich dem
 Zenith, wenn sie im Winter in der Opposition oder im Sommer in der Konjunktion
 sind; da sie aber im letzten Falle nicht sichtbar sind, so vereinigt sich
 alles, um den Anblick der obern Planeten in jener Periode zum schönsten zu
-machen (S. 177), indem durch ihre Höhe auch die störenden Einflüsse der
+machen <@pa.seite 177/>, indem durch ihre Höhe auch die störenden Einflüsse der
 Atmosphäre weniger wirken.
 
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Meine Leser müssen mir

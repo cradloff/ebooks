@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 Achte Vorlesung.
 =================
 
@@ -6,7 +8,7 @@ Von den Erscheinungen, welche die Bewegung der Erde verursacht.
 
 Nachdem wir die vornehmsten Eigenschaften der Erde, die sie ihrer Gestalt und
 ihren Bestandtheilen verdankt, entwickelt haben, können wir jetzt zu ihren
-Bewegungen und deren Wirkungen Übergehn.
+Bewegungen und deren Wirkungen übergehn.
 
 Man kann eigentlich nicht von *mehrern* Bewegungen der Erde reden. Die Bahn
 eines jeden
@@ -24,29 +26,31 @@ Durchschnitt, oder, um ein einfacheres Beispiel zu wählen: wenn ein Körper bal
 6, bald 6¼, 6⅝, 6¾, oder 6⅞ Fuß von uns entfernt ist, so ist seine Entfernung
 im *Durchschnitt*, oder seine *mittlere Entfernung*
 
-= (6 + 6¼ + 6⅝ + 6¾ + 6⅞) / 5 = 6½
+= <@pa.bruch z="(6 + 6¼ + 6⅝ + 6¾ + 6⅞)" n="5"/> = 6½.
 
 Zuweilen begnügt man sich eine von den Extremen gleich weit entfernte Zahl zu
 wählen, welches vorzüglich dann geschieht, wenn, wie bei der Entfernung der
 Planeten, die Änderungen allmälig — stetig — statt finden; in unserm Beispiele
 wäre die Mitte in dieser Rücksicht
 
-(6 + 6 7/8) / 2 = 6 7/16
+<@pa.bruch z="(6 + 6⅞)" n="2"/> = 6<@pa.bruch z="7" n="16"/>.
 
-Die beiden Hauptbewegungen, die Achsendrehung und die Kreisbewegung der Erde,
-haben wir in zwei besondern Vorlesungen (Vorl. 5 und 6) betrachtet; hier
-bleiben uns deshalb nur noch einige ihrer Wirkungen übrig.
+Die beiden Hauptbewegungen, die Achsendrehung
+und die Kreisbewegung der Erde, haben wir in zwei
+besondern Vorlesungen (Vorl. <a href="${resolve('06_Die_Bewegung_der_Himmelskugel.md')}">5</a> und <a href="${resolve('07_Die_Kreisbewegung_der_Erde.md')}">6</a>) betrachtet;
+hier bleiben uns deshalb nur noch einige ihrer Wirkungen
+übrig.
 
 <@pagebreak/>
 Die Erde ist, wie wir gesehen haben, ein kugelähnlicher Körper, dessen
-Durchmesser durch die Pole etwa 1/305 kleiner ist, als am Äquator; andre
+Durchmesser durch die Pole etwa <@pa.bruch z=1 n=305/> kleiner ist, als am Äquator; andre
 Abweichungen von der Kugelgestalt sind unbedeutend, und selbst jene Abplattung
 hat auf keine der im Folgenden zu betrachtenden Erscheinungen bedeutenden
 Einfluß; daher wir hier die Erde als eine vollkommne Kugel betrachten wollen,
 deren Umkreis 5400 Meilen und deren Durchmesser 1719 Meilen beträgt. Ihre
 Oberfläche wird durch den Äquator in zwei gleiche Theile getheilt und durch
 die geographische Länge und Breite wird die Lage eines jeden Ortes auf der Erde
-bestimmt (S. 76). Die Breite hängt nur vom Äquator ab, aber die Länge zählt
+bestimmt <@pa.seite 76/>. Die Breite hängt nur vom Äquator ab, aber die Länge zählt
 man von einem willkürlich angenommenen ersten Meridiane an, und läßt sich dabei
 von verschiedenen Ursachen leiten. Eratosthenes wählte den durch die *Säulen
 des Herkules* (Gibraltar und Ceuta), als die äußersten Punkte der damals
@@ -71,21 +75,23 @@ oder sind, und durch welche man wol den ersten Meridian gezogen hat, die
 östliche Länge von dem Meridiane von Ferro.
 
 <table>
-  <tr><td>Bagdad                </td><td> 62°</td><td> 4’</td><td>22"</td><td>Palermo     </td><td> 31°</td><td> 1’</td><td>45"</td></tr>
-  <tr><td>Berlin                </td><td> 31 </td><td> 2 </td><td> 0 </td><td>Paris       </td><td> 20 </td><td> 0 </td><td> 0</td></tr>
-  <tr><td>Bremen                </td><td> 26 </td><td>26 </td><td>42 </td><td>Pecking     </td><td>134 </td><td> 7 </td><td>30</td></tr>
-  <tr><td>Dublin                </td><td> 11 </td><td>21 </td><td> 0 </td><td>Petersburg  </td><td> 47 </td><td>59 </td><td> 0</td></tr>
-  <tr><td>Edinburg              </td><td> 14 </td><td>29 </td><td>30 </td><td>Philadelphia</td><td>302 </td><td>24 </td><td> 0</td></tr>
-  <tr><td>Gibraltar             </td><td> 12 </td><td>20 </td><td>15 </td><td>Port Jackson, Neuholland</td><td>168 </td><td>59 </td><td>30</td></tr>
-  <tr><td>Göttingen             </td><td> 27 </td><td>35 </td><td>15 </td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>Greenwich             </td><td> 17 </td><td>40 </td><td> 0 </td><td>Prag        </td><td> 32 </td><td> 5 </td><td> 0</td></tr>
-  <tr><td>Königsberg, in Preußen</td><td> 38 </td><td> 6 </td><td> 0 </td><td>Seeberg bei Gotha</td><td>28 </td><td>23 </td><td>45</td></tr>
-  <tr><td>Kopenhagen            </td><td> 30 </td><td>15 </td><td>30 </td><td>Slough, Herschels Stw.</td><td>17 </td><td> 3 </td><td>45</td></tr>
-  <tr><td>Lissabon              </td><td>  8 </td><td>33 </td><td>15 </td><td>Teneriffa, Pik</td><td>1 </td><td> 8 </td><td> 0</td></tr>
-  <tr><td>London, St. Paul      </td><td> 17 </td><td>34 </td><td>15 </td><td>Upsala      </td><td> 35 </td><td>18 </td><td>45</td></tr>
-  <tr><td>Madrit                </td><td> 13 </td><td>58 </td><td> 0 </td><td>Uranienborg, Tycho’s Stw.</td><td> 30 </td><td>22 </td><td>25</td></tr>
-  <tr><td>Mexiko                </td><td>277 </td><td>34 </td><td>15 </td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>New York              </td><td>303 </td><td>31 </td><td> 0 </td><td>Wien        </td><td> 34 </td><td> 2 </td><td>45</td></tr>
+  <tr><td>Bagdad                    </td><td>62°</td><td> 4’</td><td>22"</td><td>Palermo                      </td><td>31°</td><td>1’</td><td>45"</td></tr>
+  <tr><td>Berlin                    </td><td>31</td> <td> 2</td> <td>0</td>  <td>Paris                        </td><td>20</td> <td>0</td> <td>0</td></tr>
+  <tr><td>Bremen                    </td><td>26</td> <td>26</td> <td>42</td> <td>Pecking                      </td><td>134</td><td>7</td> <td>30</td></tr>
+  <tr><td>Dublin                    </td><td>11</td> <td>21</td> <td>0</td>  <td>Petersburg                   </td><td>47</td> <td>59</td><td>0</td></tr>
+  <tr><td>Edinburg                  </td><td>14</td> <td>29</td> <td>30</td> <td>Philadelphia                 </td><td>302</td><td>24</td><td>0</td></tr>
+  <tr><td>Gibraltar                 </td><td>12</td> <td>20</td> <td>15</td> <td rowspan="2">Port Jackson,<br/>Neuholland</td> <td></td><td></td><td></td></tr>
+  <tr><td>Göttingen                 </td><td>27</td> <td>35</td> <td>15</td>                                      <td>168</td> <td>59</td><td>30</td></tr>
+  <tr><td>Greenwich                 </td><td>17</td> <td>40</td> <td>0</td>  <td>Prag                         </td><td>32</td> <td>5</td> <td>0</td></tr>
+  <tr><td rowspan="2">Königsberg,<br/>in Preußen</td><td>&nbsp;</td><td></td><td></td><td rowspan="2">Seeberg bei<br/>Gotha</td><td></td><td></td><td></td></tr>
+  <tr>                                   <td>38</td> <td> 6</td> <td>0</td>                                        <td>28</td> <td>23</td><td>45</td></tr>
+  <tr><td>Kopenhagen                </td><td>30</td> <td>15</td> <td>30</td> <td rowspan="2">Slough, Her-<br/>schels Stw.</td> <td></td><td></td><td></td></tr>
+  <tr><td>Lissabon                  </td><td>8</td>  <td>33</td> <td>15</td>                                       <td>17</td> <td>3</td> <td>45</td></tr>
+  <tr><td rowspan="2">London, St.<br/>Paul</td><td></td><td></td><td></td>   <td>Teneriffa, Pik               </td><td>1</td>  <td>8</td> <td>0</td></tr>
+  <tr>                                   <td>17</td> <td>34</td> <td>15</td> <td>Upsala                       </td><td>35</td> <td>18</td><td>45</td></tr>
+  <tr><td>Madrit                    </td><td>13</td> <td>58</td> <td>0</td>  <td rowspan="2">Uranienborg,<br/>Tycho’s Stw.</td><td></td><td></td><td></td></tr>
+  <tr><td>Mexiko                    </td><td>277</td><td>34</td> <td>15</td>                                       <td>30</td> <td>22</td><td>25</td></tr>
+  <tr><td>New York                  </td><td>303</td><td>31</td> <td>0</td>  <td>Wien                         </td><td>34</td> <td>2</td> <td>45</td></tr>
 </table>
 
 Ganz genau liegt Ferro nicht 20° westlich von Paris; indeß da der Unterschied
@@ -93,7 +99,7 @@ unbedeutend ist, ist man jetzt, der größeren Gleichförmigkeit mit den
 Französischen Karten willen, übereingekommen, den ersten Meridian durch den
 Punkt zu nehmen, welcher 20° westlich von Paris ist. Es ist nach dieser Tabelle
 sehr leicht, Längen, die nach einem gewissen Meridian gemacht sind, auf irgend
-einen andern zurückzuführen. Z.B. Die Lange eines Ortes ist 151° 25’ 45"
+einen andern zurückzuführen. Z.B. Die Länge eines Ortes ist 151° 25’ 45"
 östlich von London, und man will wissen, wie weit er östlich von Paris ist, so
 addirt man die Länge von London dazu, erhält dadurch die östliche Lange des
 Orts von
@@ -215,9 +221,9 @@ enthalten:
 
 <@pagebreak/>
 
-<table>
-  <tr><th>Klima</th><th>reicht bis</th><th>faßt in sich</th><th colspan="2">Dauer des längsten Tages.</th></tr>
-  <tr><td> 1</td><td>8°34’</td><td>8°34’xx 12½</td><td>Stunden</td></tr>
+<table class="vborder">
+  <tr style="border-bottom: 1px solid;"><td>Klima</td><td>reicht bis</td><td>faßt in sich</td><td colspan="2">Dauer des längsten Tages.</td></tr>
+  <tr><td> 1</td><td>8°34’</td><td>8°34’</td><td>12½</td><td>Stunden</td></tr>
   <tr><td> 2</td><td>16 44</td><td>8 10</td><td>13 </td><td>-</td></tr>
   <tr><td> 3</td><td>24 12</td><td>7 28</td><td>13½</td><td>-</td></tr>
   <tr><td> 4</td><td>30 48</td><td>6 36</td><td>14 </td><td>-</td></tr>
@@ -255,7 +261,7 @@ der Dauer des längsten Tages bezeichnet; aber die Größe derselben, die anfang
 8° 34’ beträgt, sinkt an den Polarkreisen auf 3’ Minuten hinab, so daß
 innerhalb der kalten Zone ein ganzer Monat als Unterschied in der Länge des
 Tages zur Bezeichnung der Klimate angenommen wird. Wie bei der Größe der
-Parallelkreise (S. 108) sind auch bei der Tageslänge die Veränderungen in der
+Parallelkreise <@pa.seite 108/> sind auch bei der Tageslänge die Veränderungen in der
 Nähe des Äquators kleiner; während die ersten 23½° nur eine Verschiedenheit
 von 1½ Stunde verursachen, beträgt er für die letzten 23½° der gemäßigten Zone
 8¾ Stunden.
@@ -400,7 +406,7 @@ wollen wir noch einiges den verschiedenen Bewegungen Eigenthümliche anführen.
 1\. *Die Achsendrehung der Erde*. Jeder Punkt des Äquators, wo sie am
 raschesten ist, beschreibt in 23 St. 56 Min. 4,1 Sek. 5400 Meilen, oder in der
 Sekunde 1428 par. Fuß. Die Geschwindigkeit der übrigen Theile der Oberfläche
-nimmt in demselben Verhältnisse ab wie die Parallelkreise (S. 108); am Pol ist,
+nimmt in demselben Verhältnisse ab wie die Parallelkreise <@pa.seite 108/>; am Pol ist
 die Bewegung = 0. Die Achsendrehung bringt den Wechsel von Tag und Nacht und
 den Auf- und Untergang aller Himmelskörper hervor.
 
@@ -418,17 +424,17 @@ Zahlen bleiben unverändert, man mag die scheinbare Bewegung der Sonne von der
 Erde aus, oder die Bewegung der letztern von der Sonne aus betrachten.
 
 Tab. 1. Die Bogen, welche die Sonne an dem ersten Tage jedes Monats auf ihrer
-jährlichen Bahn zurücklegt, und ihre Entfernungen, die mittlere Entfernung (S.
-131.) als Einheit genommen.
+jährlichen Bahn zurücklegt, und ihre Entfernungen, die mittlere Entfernung <@pa.seite 131/>
+als Einheit genommen.
 
-<table>
-  <tr><th>Monat.</th><th>Bogen.</th><th>Entf.</th><th>Monat.</th><th>Bogen.</th><th>Entf.</th></tr>
-  <tr><td>Januar</td><td>61’10"</td><td>0,983</td><td>Juli</td><td>57’13"</td><td>1,0168</td></tr>
-  <tr><td>Februar</td><td>60 51</td><td>0,986</td><td>August</td><td>57 28</td><td>1,0144</td></tr>
-  <tr><td>März</td><td>60 05</td><td>0,992</td><td>Septb.</td><td>58 10</td><td>1,0082</td></tr>
-  <tr><td>April</td><td>59 03</td><td>0,0066</td><td>Oktbr.</td><td>59 07</td><td>10,001</td></tr>
-  <tr><td>Mai</td><td>58 06</td><td>0,0088</td><td>Novbr.</td><td>60 10</td><td>0,991</td></tr>
-  <tr><td>Juni</td><td>57 26</td><td>0,1046</td><td>Decbr.</td><td>60 56</td><td>0,986</td></tr>
+<table class="vborder">
+  <tr><td>Monat. </td><td>Bogen.</td><td>Entf. </td><td>Monat.</td><td>Bogen.</td><td>Entf.</td></tr>
+  <tr><td>Januar </td><td>61’10"</td><td>0,983 </td><td>Juli  </td><td>57’13"</td><td>1,0168</td></tr>
+  <tr><td>Februar</td><td>60 51 </td><td>0,986 </td><td>August</td><td>57 28</td><td>1,0144</td></tr>
+  <tr><td>März   </td><td>60 05 </td><td>0,992 </td><td>Septb.</td><td>58 10</td><td>1,0082</td></tr>
+  <tr><td>April  </td><td>59 03 </td><td>0,0066</td><td>Oktbr.</td><td>59 07</td><td>10,001</td></tr>
+  <tr><td>Mai    </td><td>58 06 </td><td>0,0088</td><td>Novbr.</td><td>60 10</td><td>0,991</td></tr>
+  <tr><td>Juni   </td><td>57 26 </td><td>0,1046</td><td>Decbr.</td><td>60 56</td><td>0,986</td></tr>
 </table>
 
 Die Größe der Bogen nimmt zu, wenn die Entfernungen abnehmen. Dieses würde auch
@@ -439,8 +445,8 @@ Geschwindigkeit zunimmt, jemehr sich die Erde der Sonne nähert.
 
 Tab. 2. Gerade Aufsteigung der Sonne im Mittage der folgenden Tage:
 
-<table>
-  <tr><td>Jan.</td><td>1</td><td>282°</td><td>Febr.</td><td>20</td><td>334°</td><td>April</td><td>11</td><td>20°</td></tr>
+<table class="vborder">
+  <tr><td>Jan. </td><td>1</td><td>282°</td><td>Febr.</td><td>20</td><td>334°</td><td>April</td><td>11</td><td>20°</td></tr>
   <tr><td>     </td><td>11</td><td>293</td><td>März </td><td> 2</td><td>343</td><td>     </td><td>21</td><td>29</td></tr>
   <tr><td>     </td><td>21</td><td>304</td><td>     </td><td>12</td><td>353</td><td>Mai  </td><td> 1</td><td>39</td></tr>
   <tr><td>     </td><td>31</td><td>314</td><td>     </td><td>22</td><td>  2</td><td>Mai  </td><td>11</td><td>48</td></tr>
@@ -449,7 +455,7 @@ Tab. 2. Gerade Aufsteigung der Sonne im Mittage der folgenden Tage:
 
 <@pagebreak/>
 
-<table>
+<table class="vborder">
   <tr><td>Mai </td><td>31</td><td>68°</td><td>Aug.  </td><td>19</td><td>148°</td><td>Novbr.</td><td> 7</td><td>223°</td></tr>
   <tr><td>Juni</td><td>10</td><td> 79</td><td>      </td><td>29</td><td>158</td><td>      </td><td>17</td><td>233</td></tr>
   <tr><td>    </td><td>20</td><td> 89</td><td>Sept. </td><td> 8</td><td>167</td><td>      </td><td>27</td><td>243</td></tr>
@@ -549,19 +555,19 @@ Jahrs wie vor 2000 Jahren, wogegen nach dem siderischen alle diese
 Erscheinungen jetzt einen Monat früher eintreten würden, und statt des Mai wäre
 der April der schönste Monat im Jahre.
 
-Auf diesem Jahre beruht der *Kalender* aller gebildeten Völker, Anfangs hatten
+Auf diesem Jahre beruht der *Kalender* aller gebildeten Völker. Anfangs hatten
 die Ägypter ein Jahr von 365 Tagen, und obgleich sie dessen Größe bald
-richtiger auf 365¼, Tage setzten, so behielten sie dennoch jenes bei, und ihre
+richtiger auf 365¼ Tage setzten, so behielten sie dennoch jenes bei, und ihre
 Monate und Feste durchwanderten daher das ganze Jahr. Nach 1460 Jahren war
 diese Wanderung vollendet und die früheren Verhältnisse kehrten zurück. Dieser
 deshalb für sie wichtige Zeitraum ist unter dem Namen der *Sothischen Periode*
 berühmt. Auch bei den Griechen und Römern wurde jene Jahresdauer zum Grunde
 gelegt, bis Julius Caesar mit Hilfe griechischer Astronomen den Kalender nach
-dem Jahre von 365¼, Tagen berechnete. Dieses ist der *Julianische Kalender*.
+dem Jahre von 365¼ Tagen berechnete. Dieses ist der *Julianische Kalender*.
 Nach ihm rechneten alle europäischen Völker bis 1582, als Gregor XIII. in
 seinem verbesserten
 <@pagebreak/>
-*Gregorianischen Kalender* das Jahr aus 365 T. 5 St. 49’30"
+*Gregorianischen Kalender* das Jahr auf 365 T. 5 St. 49’30"
 setzte. Cäsar hatte alle vier Jahre einen Schalttag angesetzt, Gregor warf ihn
 in 100 Jahren einmal aus, nahm ihn aber alle 400 Jahr wieder an, so daß in 400
 Jahren 97 Schalttage sind. Der Unterschied, der sich seit Cäsars Zeiten auf 10
@@ -667,7 +673,7 @@ andren Ebene, etwa dem Sonnenäquator, so daß nach einer langen Periode die
 Entfernung beider fast unendlich klein ist, auf eine ähnliche Weise wie sich
 die Arme der Hyperbel jenen beiden geraden Linien, den Asymptoten nähern
 <@pagebreak/>
-(S. 59). Dieses möchte indeß in den nächsten Jahrhunderten nur durch theoretische
+<@pa.seite 59/>. Dieses möchte indeß in den nächsten Jahrhunderten nur durch theoretische
 Gründe entschieden werden können, da die Bewegung so sehr langsam ist.
 
 6\. *Die Bewegung der Apsidenlinie*. Die Sonnennähe und Sonnenferne sind nicht
@@ -699,8 +705,8 @@ wechselseitig, nach dem zweiten Keplerschen Gesetze. Im Sommer der Südhalbkugel
 ist die Sonne der Erde näher, als im Winter, die Wärme daher etwas größer, aber
 sie entfernt sich auch schneller; im Sommer der Nordhalbkugel dagegen ist die
 Sonne zwar nicht ganz so nah, aber sie verweilt auch sieben Tage länger. Gewinn
-und Verlust an Warme ersetzen sich wahrscheinlich; wenigstens kann die
-bedeutend geringere Wärme der Südhalbkugel (S. 144) nicht durch diesen geringen
+und Verlust an Wärme ersetzen sich wahrscheinlich; wenigstens kann die
+bedeutend geringere Wärme der Südhalbkugel <@pa.seite 144/> nicht durch diesen geringen
 Unterschied verursacht werden. Die Dauer der Jahreszeiten ist jetzt bei uns:
 
 <table>
@@ -771,7 +777,7 @@ Empfindung haben wir, wenn wir uns mit gleicher Geschwindigkeit und in der
 entgegengesetzten Richtung gegen ihn bewegen, während er in Ruhe ist. Sind
 dagegen sowohl wir, als der Körper in Bewegung, so erleiden wir denselben
 Einfluß, als wenn ihm, außer seiner eigenen Bewegung, auch die unsrige in
-entgegengesetzter Richtung beigelegt wäre. Bedeutet Fig. 11. _AB_ die
+entgegengesetzter Richtung beigelegt wäre. Bedeutet <@pa.fig0 nr=11/> _AB_ die
 Geschwindigkeit und Richtung unsrer Bewegung und _CB_ die des Körpers, so
 scheint es uns, als wären wir in Ruhe und der Körper habe die Bewegungen _CB_
 und _BA_, oder _CA_; oder da wir indeß bis _B_ vorgerückt sind, die Richtung
@@ -797,7 +803,7 @@ beträgt; die Abweichungen der Erdbahn von dem Kreise sind in dieser Rücksicht
 unbedeutend. Die Länge des Sterns wird dadurch in den Konjunktionen mit der
 Sonne am kleinsten und in den Oppositionen am größten, in den Quadraturen
 findet keine Abirrung in der Länge statt; die Breite dagegen ist in der der
-ersten Quadratur (S. 98.) am kleinsten und in der zweiten am größten. Wir sehn
+ersten Quadratur <@pa.seite 98/> am kleinsten und in der zweiten am größten. Wir sehn
 jedoch nicht den Kreis selbst, sondern nur die Art, wie er sich an der
 Himmelskugel darstellt — seine *Projektion* —; er erscheint uns daher fast
 immer als Ellipse, deren größter Durchmesser mit der Linie, welche die

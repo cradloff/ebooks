@@ -20,6 +20,7 @@ Verwendung:
 </#macro>
 
 <#macro seite0 nr>
+<#compress>
 <#-- Datei ermitteln -->
 <#if nr &lt; 27>
 	<#assign datei="02_Geschichte_der_Astronomie.md" />
@@ -70,11 +71,10 @@ Verwendung:
 </#if>
 
 <a href="${resolve(datei)}#page${nr}">S. ${nr}.</a>
+</#compress>
 </#macro>
 
-<#macro seite nr>
-(<@seite0 nr/>)
-</#macro>
+<#macro seite nr>(<@seite0 nr/>)</#macro>
 
 <#macro sonne>&#x2609;</#macro>
 <#macro mond>&#x263D;</#macro>

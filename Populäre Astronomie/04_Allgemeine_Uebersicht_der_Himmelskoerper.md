@@ -302,7 +302,7 @@ Nur für die nächsten Himmelskörper, als den Mond, die Venus zc. ist sie
 anwendbar; schon für die Sonne reicht sie nicht mehr aus, deren Entfernung, so
 wie die von andern Himmelskörpern, nur aus denen des Mondes und der Venus, und
 nach theoretischen Gründen auf zum Theil sehr mühsame Weise berechnet werden
-konnte. So fand man, daß z. B. die Sonne etwa 21 Mill. Meilen entfernt ist.
+konnte. So fand man, daß z. B. die Sonne etwa 21 Mill. Meilen<@refnote 1/> entfernt ist.
 
 Innig verbunden mit der Frage über die Entfernung der Himmelskörper ist die
 über die Größe derselben; eine sehr leichte Aufgabe, sobald jene beantwortet

@@ -137,9 +137,9 @@ andren Ländern ist es schon zum Theil geschehen.
 Folgendes sind die Dimensionen der Erde: 
 
 <table>
-<tr><td>Halbmesser des Äquators </td><td>3271691 Toisen.</td></tr>
+<tr><td>Halbmesser des Äquators  </td><td>3271691 Toisen<@refnote 2/>.</td></tr>
 <tr><td>Halbmesser an den Polen  </td><td>3260964   "</td></tr>
-<tr><td>Ein Grad am Äquator     </td><td>  56728,0 "</td></tr>
+<tr><td>Ein Grad am Äquator      </td><td>  56728,0 "</td></tr>
 <tr><td>Ein Grad unter 45° Breite</td><td>  57007,6 "</td></tr>
 <tr><td>Ein Grad am Pole         </td><td>  57289,6 "</td></tr>
 </table>
@@ -166,7 +166,7 @@ Nutzen ist, so enthält folgende Tabelle die Größe eines Grades der
 Parallelkreise von 5 zu 5° in deutschen oder geographischen Meilen, wovon 15
 auf einen Grad des Äquator gehn.
 
-<table>
+<table class="vborder right">
 <tr><td> 0°</td><td>15,000</td><td>25°</td><td>13,605</td><td>50°</td><td>9,642</td><td>75°</td><td>3,082</td></tr>
 <tr><td> 5°</td><td>14,944</td><td>30°</td><td>12,990</td><td>55°</td><td>8,604</td><td>80°</td><td>2,605</td></tr>
 <tr><td>10°</td><td>14,771</td><td>35°</td><td>12,287</td><td>60°</td><td>7,500</td><td>85°</td><td>1,307</td></tr>
@@ -189,7 +189,7 @@ der Mittelpunkt desselben. Es ist natürlich, daß man alles auch auf den
 Mittelpunkt der Erde zu beziehen sucht; aber wir können nur auf der Oberfläche
 der Erde, also nur die *scheinbare Lage* der Gestirne beobachten, und diese
 kann von der *wahren* Lage zu dem Mittelpunkte der Erde sehr bedeutend
-abweichen. Es sei (Fig. 10.) _E_ der Mittelpunkt der von Westen nach Osten sich
+abweichen. Es sei <@pa.fig nr="10"/> _E_ der Mittelpunkt der von Westen nach Osten sich
 um ihre Achse drehenden Erde, _S_ ein Stern, _A_ der Ort des Beobachters, so
 ist die wahre Lage des Sterns in der Richtung _ES_, die beobachtete Lage ist
 aber _AS_; der Winkel _AES_, um welchen der Stern *niedriger* erscheint, als er
@@ -225,7 +225,7 @@ gemacht.
 
 Übrigens ist die Parallaxe eine den Astronomen höchst willkommne Erscheinung,
 indem sie das einzige Mittel zur Berechnung der Entfernung der Himmelskörper
-gibt; denn aus dem Winkel _EMA_, (Fig. 10.)und der Linie _EA_, dem Halbmesser
+gibt; denn aus dem Winkel _EMA_, <@pa.fig nr="10"/> und der Linie _EA_, dem Halbmesser
 der Erde, läßt sich die Entfernung _ES_ sehr leicht berechnen. — Keine Lage auf
 der Erde ist vielleicht zur Beobachtung der Parallaxe geeigneter als Stockholm
 und das Vorgebirge der
@@ -238,20 +238,20 @@ Die Oberfläche der Erde besteht aus drei Klassen von Körpern, starren Körpern
 oder *Land*, tropfbar flüssigen, oder *Wasser*, und luftförmigen, oder
 *Atmosphäre*. Die letztere ist gleichmäßig über die ganze Erde verbreitet; aber
 sehr ungleichförmig ist die Vertheilung von Land und Wasser. Erst in dem
-letzten Jahrhundert ist sie genauer bekannt geworden, denn die Erbe kann nicht,
+letzten Jahrhundert ist sie genauer bekannt geworden, denn die Erde kann nicht,
 wie ein entfernter Himmelskörper, von *einem* Standpunkte aus beobachtet
 werden; selbst der höchste Berg gewährt nur eine sehr beschränkte Aussicht, und
 um den 16ten Theil der Erdoberfläche übersehen zu können, müßten wir uns über
 360 Meilen von der Erde erheben. Um ihre Oberfläche kennen zu lernen waren
-daher mühsame, oft lebensgefährliche Reisen nöthig; und erst in dem 18tten und
+daher mühsame, oft lebensgefährliche Reisen nöthig; und erst in dem 18ten und
 19ten Jahrhundert war der Sinn für die Wissenschaft stark genug, daß einige
 Männer für sie ihr Vermögen, ihre Gesundheit, ja ihr Leben wagten und
 aufopferten.
 
-Von den 9¼, Millionen Quadratmeilen ist nur ¼ — ⅓, also etwa 3 Millionen
+Von den 9¼ Millionen Quadratmeilen ist nur ¼ — ⅓, also etwa 3 Millionen
 Meilen, Land, das sehr ungleichförmig in drei Inseln vertheilt ist, wovon die
 größte Europa, Asia und Afrika, die zweite Nord- und Südamerika und die
-kleinste Neuholland umfaßt. Zwischen ihnen erstrecken sich der große und der
+kleinste Neuholland<@refnote 3/> umfaßt. Zwischen ihnen erstrecken sich der große und der
 Atlantische Ocean, die sich in Norden in dem Nordocean, und in Süden in dem
 Indischen und dem Südocean vereinigen. Vorzüglich scheint der Südtheil der Erde
 dem Wasser anzugehören, denn während nach dem Norden hin die beiden größten
@@ -286,12 +286,12 @@ Die Größe der fünf Welttheile ist nach den genauesten Karten:
 <@pagebreak/>
 
 <table>
-<tr><td>Europa </td><td>153,529 oder 158,400 □ Meilen.</td></tr>
-<tr><td>Asien  </td><td>763,208 — 768,057 —</td></tr>
-<tr><td>Afrika </td><td>531,000 —</td></tr>
-<tr><td>Amerika</td><td>753,000 oder 800,000 —</td></tr>
-<tr><td>Australien etwa</td><td>200,000 —</td></tr>
-<tr><td>Neuholland allein</td><td>151,380 —</td></tr>
+<tr><td>Europa           </td><td>153,529 oder 158,400</td><td>□ Meilen.</td></tr>
+<tr><td>Asien            </td><td>763,208 — 768,057   </td><td>—</td></tr>
+<tr><td>Afrika           </td><td>531,000             </td><td>—</td></tr>
+<tr><td>Amerika          </td><td>753,000 oder 800,000</td><td>—</td></tr>
+<tr><td>Australien etwa  </td><td>200,000             </td><td>—</td></tr>
+<tr><td>Neuholland allein</td><td>151,380             </td><td>—</td></tr>
 </table>
 
 Beide großen Theile der Erdoberfläche, Land und Wasser, sind indeß keineswegs
@@ -316,7 +316,7 @@ metallführenden Gebirge eingedrungen zu sein glaubt, von dem Gipfel der
 höchsten Berge
 <@pagebreak/>
 bis zu dem Boden der tiefsten Schachte ist der Mensch dem
-Mittelpunkte der Erde kaum um 1/1000 näher gekommen. Gezwungen, auf die
+Mittelpunkte der Erde kaum um <@pa.bruch z="1" n="1000"/> näher gekommen. Gezwungen, auf die
 Kenntniß des Inneren der Erde auf immer zu verzichten, suchte er sich durch
 Vermuthungen zu entschädigen, und alle Wissenschaften, von der Geschichte und
 Geographie, ja auch der Naturphilosophie an, bis zu den mikroskopischen
@@ -365,7 +365,7 @@ Amphibien, und es ist merkwürdig, daß gerade die wunderbaren Formen der
 Faulthiere, der Elephanten, und ähnlicher Thiere, mit gigantischen Ochsen,
 Hirschen u. dergl., so häufig gefunden werden. Auch von Waldungen sind uns
 unermeßliche Überreste in den Stein- und Braunkohlen-Gebirgen geblieben. Es
-darf uns zwar nicht befremden, daß einige Thier und Pflanzenformen ausgeartet
+darf uns zwar nicht befremden, daß einige Thier- und Pflanzenformen ausgeartet
 oder ganz vernichtet sind, da selbst die wenigen Jahre, seitdem der Mensch sich
 der Zoologie und Botanik mit größerer Aufmerksamkeit widmet, nicht ohne
 Beispiele der Art sind; aber das gänzliche Aufhören fast aller organischen
@@ -572,7 +572,7 @@ ist, den sie mit einander machen, so daß nur dann keine Änderung statt findet,
 wenn der Stral senkrecht auf die Oberfläche fällt. Man nennt diese Erscheinung
 *Brechung des Lichts*, *Refraktion*. Wir sehn den Körper immer in der Richtung,
 welche der Stral hat, wenn er unser Auge erreicht, also nicht in der wahren
-Stelle. So scheint ab. ein zum Theil in Wasser gehaltener Stab gebrochen.
+Stelle. So scheint z.B. ein zum Theil in Wasser gehaltener Stab gebrochen.
 Beides, Spiegelung und Brechung des Lichts, zeigt sich uns nur dann regelmäßig,
 wenn die Oberfläche beider Körper völlig eben ist; da dieses aber fast nie der
 Fall ist, so wird ein Theil des Lichts nach allen Richtungen *zerstreuet*
@@ -619,7 +619,7 @@ dem 48½ Grade der Breite und dem Pol, in den Nachtgleichen vom 72sten Grade an,
 ja am Nordpol werden die beiden Dämmerungen nur zwischen dem 12. November und
 29\. Januar unterbrochen, und die dunkle sechsmonatliche Nacht wird um 100 Tage
 verkürzt. Unter 60° Breite ist während vier Monaten keine völlige Nacht; unter
-52° — 53° währt sie von der Mitte Oktobers bis zum ersten März 2 bis 2¼,
+52° — 53° währt sie von der Mitte Oktobers bis zum ersten März 2 bis 2¼
 Stunden, nimmt dann bis zur Mitte des Mai auf 3¾ Stunden zu, so daß bis Anfang
 Septembers Morgen- und Abenddämmerung sich begegnen; darauf vermindert sich
 ihre Länge wieder, bis sie um die Mitte des Oktobers wieder zwei Stunden
@@ -631,7 +631,7 @@ findet. Von dieser *astronomischen Dämmerung* unterscheidet man die
 pflegt man vom Eintritt der Nacht zu sprechen. Durch die Dämmerung wird das
 Licht der Sonne noch auf einen schmalen Ring der dunklen Halbkugel verbreitet,
 der sich dem Bewohner eines außerirdischen Himmelskörpers als ein schmaler
-Streif zeigen muß, welcher sich längs der Lichtgrenze oder der die helle, und
+Streif zeigen muß, welcher sich längs der Lichtgrenze oder der die helle und
 dunkle Halbkugel begrenzenden Linie erstreckt.
 
 Weniger auffallend, aber für die Astronomen noch wichtiger, ist die Wirkung der

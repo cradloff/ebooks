@@ -24,9 +24,15 @@ blockquote p {
 }
 
 /* Leerzeichen in Tabellen beibehalten */
-table {
+td, th {
 	white-space: pre-wrap;
+	vertical-align: top;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
 }
+
+table.vborder td { border-left: 1px solid #000; }
+table.vborder td:first-child { border-left: none; }
 
 /* cover */
 #cover {
@@ -71,6 +77,25 @@ a.refnote {
 	font-size: x-small;
 	vertical-align: super;
 	text-decoration: none;
+}
+
+.anmerkungen {
+	text-align: center;
+	font-size: large;
+}
+
+/* zentrierter Text */
+.centered {
+	text-align: center;
+}
+
+/* rechtsbündig */
+.right {
+	text-align: right;
+}
+
+.pre {
+	white-space: pre-wrap;
 }
 
 /* gesperrter Text */

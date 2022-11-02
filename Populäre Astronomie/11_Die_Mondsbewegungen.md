@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 187/>
 Zehnte Vorlesung.
 ================
@@ -17,7 +19,7 @@ betrachtet, eine nicht sehr vom Kreise abweichende Ellipse, aber seine Nähe hat
 uns eine große Anzahl von Abweichungen kennen gelehrt, deren Erklärung zu den
 Triumphen der Mathematik gehört.
 
-In Fig. 14 sei _S_ die Sonne, _E_ die Erde, der um sie beschriebene Kreis die
+In <@pa.fig0 14/> sei _S_ die Sonne, _E_ die Erde, der um sie beschriebene Kreis die
 Bahn des Mondes, so ist dieser in _A_, wo seine Bahn durch eine von der Sonne
 nach der Erde gezogene Linie geschnitten wird, in seiner Konjunktion mit der
 Sonne; kein Theil der uns zugekehrten Scheibe ist erleuchtet, es ist *Neumond*.
@@ -149,7 +151,7 @@ Entfernung der Erde, die auf das Perihelium folgt, also Ende März haben; die
 Geschwindigkeit des Mondes ist dann geringer und seine Länge ist um 11’ 16"
 kleiner, als sie ohne diesen Umstand sein würde; in der auf die Erdferne
 folgenden mittleren Entfernung der Erde von der Sonne, gegen Ende Septembers,
-ist die Länge um 11’ 16’ größer.
+ist die Länge um 11’ 16" größer.
 
 Diese vier Ungleichheiten: die *Mittelpunktsgleichung* durch die Excentricität
 der Bahn, die *Variation* durch die verschiedene Anziehung der Sonne in den
@@ -208,19 +210,19 @@ fortzudauern, sondern nach einer gewissen Periode sich die Abnahme wieder in
 Zunahme zu verwandeln, so daß auch hier nur eine Oscillation statt findet.
 
 Der Zeitraum zwischen einem Neumonde und dem folgenden dient seit den ältesten
-Zeiten zur Eintheilung der Zeit. Da er indeß aus 29½ Tagen besteht; so hat man
+Zeiten zur Eintheilung der Zeit. Da er indeß aus 29½ Tagen besteht, so hat man
 dem *bürgerlichen Monat* abwechselnd 29 und 30 Tage gegeben. Nach 33 Monaten
 <@pagebreak/>
 muß dann einer von den 29tägigen Monaten 30 Tage haben. Der vierte Theil des
 Monats, oder die Dauer eines Mondviertels ist etwa 7 Tage, daraus entsprang die
 Eintheilung in *Wochen*. Das Mondjahr oder 12 bürgerliche Monate von 354 Tagen,
 ist 11¼ Tage von dem Sonnenjahre verschieden, daher schaltete man von Zeit zu
-Zeit Monate ein. (S. 14.). Die *goldne Zahl des Meton*, oder die Periode von 19
+Zeit Monate ein. <@pa.seite 14/>. Die *goldne Zahl des Meton*, oder die Periode von 19
 Sonnenjahren zu 365¼ Tagen enthält 235 synodische Monate. In 19 Mondenjahren =
 228 Monaten mußten sieben Monate eingeschaltet werden. Dieses ist die Grundlage
 der Kalender fast aller Völker, die nach Sonnenjahren rechnen und doch
 Mondsmonate haben, z. B. bei den Juden. Mit dem Jahre von 365 Tagen, das die
-meisten alten Völker hatten, stimmt die *Sothische Periode* (S. 5.) von 25
+meisten alten Völker hatten, stimmt die *Sothische Periode* <@pa.seite 5/> von 25
 Jahren oder 9125 Tagen gut, in welchen 309 synodische Monate, also 9
 Schaltmonate sind. Diese Zahl mit 1460 multiplicirt gibt 36500 Jahre, in
 welchen sich alle Erscheinungen von Sonne und Mond wiederholen würden. Das Jahr
@@ -245,7 +247,7 @@ schon von den Alten untersucht worden.
 Als ein Zeitraum, nach welchem die Erscheinungen des Mondes sich in derselben
 Ordnung wiederholten, war im Alterthum die *Chaldäische Periode* berühmt. Sie
 enthielt 18 Jahre 11 Tage, oder 223 synodische, 239 anomalistische, 241
-periodische und 242 Knotenmonate, die oben (S. 4.) angeführte ist dieselbe, nur
+periodische und 242 Knotenmonate, die oben <@pa.seite 4/> angeführte ist dieselbe, nur
 der größeren Genauigkeit willen mit 3 multiplicirt. Eine andre sehr genaue,
 aber wegen ihrer Länge nicht angewendete, von Hipparch erfundene Periode
 bestand aus 126007 Tagen und enthielt 345 Jahre, 4267 synodische, 4573
@@ -303,7 +305,7 @@ die Grenze zwischen dem erleuchteten und dunklen Theile bilde; weil alsdann der
 Winkel am Monde ein rechter Winkel ist, und sie den Winkel, den Sonne und Mond
 mit der Erde machten, beobachten konnten, so konnten sie die Entfernung der
 Sonne berechnen. Bei der Unsicherheit dieser Methode ist ihr so sehr falsches
-Resultat (S. 15.) nicht befremdend.
+Resultat <@pa.seite 15/> nicht befremdend.
 
 Die Mond- und Sonnenfinsternisse.
 ---------------------------------
@@ -325,7 +327,7 @@ sich; ist der dunkle Körper der größere, so wird der Schatten, sich immer
 weiter ausdehnend, sich ins Unendliche erstrecken; ist er kleiner, so wird nur
 den Gegenständen, welche sich innerhalb einer gewissen Entfernung von ihm
 befinden, das Licht gänzlich entzogen werden, in einer größeren Entfernung wird
-der Mangel an Licht kaum bemerkt. Diesen Fall haben wir schon oben (S. 171) bei
+der Mangel an Licht kaum bemerkt. Diesen Fall haben wir schon oben <@pa.seite 171/> bei
 den unteren Planeten angeführt, die man wol zuweilen als kleine Flecken sich
 durch die die Sonne bewegen sieht, aber Verdunkelung findet wegen der großen
 Entfernung nicht statt. Diese kann aber, trotz der überwiegenden Größe der
@@ -373,7 +375,7 @@ Zeit des Beobachtungsorts
 <@pagebreak/>
 verwandeln. In Paris z. B. ist den 2ten September
 1830 um 11 Uhr Abends eine totale Mondfinsterniß; in Berlin, das etwa 11°
-östlich ist, ist es alsdann 44 Min. später (S. 95); die Finsterniß ist also
+östlich ist, ist es alsdann 44 Min. später <@pa.seite 95/>; die Finsterniß ist also
 dort etwa ¼ Stunde vor Mitternacht.
 
 Die Stralenbrechung veranlaßt hierbei einige merkwürdige Erscheinungen. Die
@@ -410,13 +412,13 @@ der Mond hinter sich wirft, erreicht zuweilen die Erde nicht, und wenn er sie
 trifft, so ist’s nur ein Theil ihrer Oberfläche, der höchstens 2° in
 Durchmesser hat; an diesen Stellen, wo kein Theil der Sonne sichtbar ist, ist
 die Finsterniß *total*; wenn der Schattenkegel die Erde nicht erreicht, so ist
-an den Stellen derselben, die der Spitze des Kegels (S. 58) am nächsten liegen,
+an den Stellen derselben, die der Spitze des Kegels <@pa.seite 58/> am nächsten liegen,
 noch ein schmaler Ring der Sonne unverfinstert; dieses sind die *ringförmigen*
 Finsternisse. Die Orte der Erde, wo sie statt finden, sind dabei fast denselben
 Bedingungen unterworfen, wie bei den totalen Finsternissen, nur ist der
 scheinbare Durchmesser des Mondes kleiner, als der der Sonne. Eine ähnliche
 Erscheinung, jedoch in viel kleinerem Maßstabe, sind die Durchgänge der unteren
-Planeten vor der Sonnenscheibe (S. 171). *Partial* ist die Sonnenfinsterniß an
+Planeten vor der Sonnenscheibe <@pa.seite 171/>. *Partial* ist die Sonnenfinsterniß an
 den Stellen, die gewissermaßen im Halbschatten sind, indem die Sonne nur zum
 Theil verfinstert ist. Da wo die Mittelpunkte fast in einer geraden Linie
 liegen, ist sie *central*. Die partialen Finsternisse erstrecken
@@ -454,8 +456,8 @@ jedoch ereignen sie sich unter günstigen Umständen, selbst wenn der Mond noch
 21° davon entfernt ist; sobald aber sein Abstand geringer ist als 15°, so
 müssen sie eintreten. Sie haben also ein weit ausgedehnteres Gebiet, als die
 Mondfinsternisse; auch finden sie schon statt, wenn die Breite des Mondes nicht
-über 1° 34’ beträgt (= Parall. des Mondes + ½ Durchmesser des Mondes -
-Parall. der Sonne + ½ Durchmesser der Sonne. Vergl. S. 201 Anm.). Man nennt
+über 1° 34’ beträgt (= Parall. des Mondes + ½ Durchmesser des Mondes —
+Parall. der Sonne + ½ Durchmesser der Sonne. Vergl. <@pa.seite 201/> Anm.). Man nennt
 die geocentrische Entfernung des Mondes von der Sonne oder dessen Breite zu der
 Zeit, wann die partiale, totale oder ringförmige Finsterniß an einem gewissen
 Orte beginnt, den *Halbmesser der partialen, totalen oder ringförmigen
@@ -469,13 +471,13 @@ Sonnenfinsterniß und eine totale in 200 Jahren.
 
 Die Finsternisse hängen vorzüglich von der Lage der Knoten ab, und die
 Perioden, die sich auf diese beziehen gelten auch für jene, oder sind vielmehr
-durch sie entstanden. Eine solche Periode ist die oben (S. 196) erwähnte
+durch sie entstanden. Eine solche Periode ist die oben <@pa.seite 196/> erwähnte
 *chaldäische* von 18 Jahren und 11 Tagen oder 223 synodischen Monaten, nach
 welcher der Mond beinahe wieder in dieselbe Lage zur
 <@pagebreak/>
 Sonne und Erde und zur
 Knotenlinie kommt. Sie ist jedoch nicht völlig genau; die Perioden Hipparchs
-(S. 196) kommen der Wahrheit näher. Die Finsternisse wiederholen sich in einem
+<@pa.seite 196/> kommen der Wahrheit näher. Die Finsternisse wiederholen sich in einem
 solchen Zeitraume in derselben Reihefolge, und wenn diese einmal durch
 Erfahrung festgesetzt ist, so kann man leicht die Finsternisse vorausbestimmen;
 so konnte z. B. Halley aus der den 22. Juni 1666 beobachteten Finsterniß leicht
@@ -524,6 +526,6 @@ entgegengesetzten Punkte dienen konnte.</div>
 
 <div class="footnote" id="fn2"><a href="#rn2">*)</a> Die unbedeutende Parall.
 der Sonne ist nur der Gleichförmigkeit willen nicht weggelassen; wegen des
-Beweises s. S. 176.</div>
+Beweises s. <@pa.seite 176/></div>
 
 
