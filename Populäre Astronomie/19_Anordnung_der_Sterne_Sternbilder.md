@@ -589,7 +589,7 @@ liegen nämlich an den entgegengesetzten Seiten des Himmels, und sind fast
 Antipoden auf der Himmelskugel, wenn man sich des Ausdrucks bedienen dürfte.
 
 <@pagebreak/>
-Der Jäger hat in seiner Nahe den *Hasen* und den kleinen *Hund*; indeß deutet man
+Der Jäger hat in seiner Nähe den *Hasen* und den kleinen *Hund*; indeß deutet man
 auf diesen alle in der Mythologie bekannten Hunde: den Hund, den Helena auf
 ihrer Flucht mit Paris verlor; oder den Hund, welcher der Erigone den Tod ihres
 von den Schäfern in den Brunnen gestürzten Vaters Ikarus verrieth; oder den

@@ -294,7 +294,7 @@ bringen. Der schottische Baron *Neper* (1600) berechnete *Logarithmen*, und
 Rechnungen so sehr erleichtert
 wurden; dasselbe bewirkten *Descartes* in Frankreich, *Galilei* in Italien,
 *Huygens* in Holland und endlich die beiden Heroen, der Engländer *Newton* und
-der Deutsche *Leibnitz* durch ihre mathematischen Entdeckungen, wahrend
+der Deutsche *Leibnitz* durch ihre mathematischen Entdeckungen, während
 *Galilei*, *Kepler* und *Newton* das Hauptwerkzeug der neuern Astronomie, das
 Fernrohr, verbesserten. Vorzüglich leistete *Huygens* (1629 — 1695) durch seine
 Erfindung der *Pendeluhr*, dem genauesten Maße der Zeit, der Wissenschaft die

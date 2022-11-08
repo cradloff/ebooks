@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 238/>
 Dreizehnte Vorlesung.
 =====================
@@ -20,7 +22,7 @@ Ihre Größe ist aber nur scheinbar der des Mondes nicht sehr überlegen, sie
 beträgt zwar nur 32’2"9; aber bei der großen Entfernung von 21 Mill. Meilen ist
 ihr wirklicher Durchmesser 112,4 mal, ihre Oberfläche 12641, und ihr
 körperlicher Inhalt 1421150 mal so groß, wie die der Erde. Ihr Durchmesser
-beträgt 193260 Meilen, etwa 1/216 der Entfernung der
+beträgt 193260 Meilen, etwa <@pa.bruch z="1" n="216"/> der Entfernung der
 <@pagebreak/>
 Erde von der Sonne oder
 der Erdweite, jede Raumsekunde entspricht etwa 100 Meilen, und ihr Rauminhalt
@@ -37,10 +39,10 @@ Ekliptik geneigten Ebene, und zwar von Osten nach Westen, um ihre Achse drehe.
 Einem Bewohner der Sonne würden sich daher während dieser Zeit dieselben
 Erscheinungen darbieten, wie uns während des Tages, nur daß die Planeten sich
 um ihn in derselben Richtung zu bewegen scheinen, wie die Sterne. Die Sonne hat
-ihre Pole wie ihren *Äquator*, der die Ekliptik, in zwei Punkten schneidet,
+ihre Pole wie ihren *Äquator*, der die Ekliptik in zwei Punkten schneidet,
 wovon der aufsteigende Knoten, d. h. derjenige, durch welchen sich die Flecken
-von dem südlichen nach dem nördlichen Theile der Ekliptik begeben (S. 97), von
-der Sonne aus gesehn (S. 100) eine Länge von 258°13’5", der absteigende Knoten
+von dem südlichen nach dem nördlichen Theile der Ekliptik begeben <@pa.seite 97/>, von
+der Sonne aus gesehn <@pa.seite 100/> eine Länge von 258°13’5", der absteigende Knoten
 also 11°46’55", hat. Dem Erdenbewohner bieten sich die Folgen der Achsendrehung
 der Sonne minder einfach dar. Der Sonnenäquator zeigt sich ihm als die Hälfte
 einer sehr zusammengedrückten Ellipse, indem nur der auf der Linie zwischen der
@@ -102,7 +104,7 @@ Den größten
 <@pagebreak/>
 Raum scheinen sie im Mittelpunkte der Scheibe einzunehmen; je mehr
 sie sich dem Rande nähern, desto kleiner werden sie. Ein kreisförmiger Fleck in
-der Mitte wird in der Nahe des westlichen Randes länglich, und eben so tritt er
+der Mitte wird in der Nähe des westlichen Randes länglich, und eben so tritt er
 wieder nach 14 Tagen am östlichen Rande hervor, wenn seine Gestalt bis dahin
 unverändert geblieben ist; dagegen wird ein runder Fleck am östlichen Rande, in
 der Mitte zu einer in der Richtung des Äquators ausgedehnten Ellipse. Diese
@@ -124,13 +126,13 @@ vorbehalten.
 
 Eine Achsendrehung verursacht überall eine Erhöhung um den Äquator und eine
 Abplattung an den Polen, wie bei der Erde. Theoretische Gründe setzen sie bei
-der Sonne auf 1/37470, also für die Erfahrung unmerklich. Zwar glaubte man
+der Sonne auf <@pa.bruch z="1" n="37470"/>, also für die Erfahrung unmerklich. Zwar glaubte man
 gefunden zu haben, daß der Durchmesser der Sonne durch die 
 <@pagebreak/>
 Pole sich zu denen
 des Äquators wie 408:407 verhalte, also eine Erhöhung an den Polen stattfinde,
 wie bei der durch die Anziehung des Mondes auf den Erdocean hervorgebrachten
-Gestalt (S.209); allein dieses beruht wahrscheinlich nur auf Täuschung.
+Gestalt <@pa.seite 209/>; allein dieses beruht wahrscheinlich nur auf Täuschung.
 
 Die Alten hielten die Sonne für eine reine Feuerkugel, eine, wegen der vielen
 schwarzen und rothen *Flecken*, die man durch das Teleskop entdeckt, schlecht
@@ -159,7 +161,7 @@ Andre hielten die Sonne für eine, aus den edelsten Metallen bestehende,
 geschmolzene, glühende Masse, und die Flecken für dunkle schlackenartige, auf
 dem Sonnenkörper schwimmende Haufen, die nach einem längeren oder kürzeren
 Verweilen einsinken und verschwinden. Man hat nach dieser Hypothese die
-Erhitzung der Körper, welche sich in der Nahe der Sonne befinden und den
+Erhitzung der Körper, welche sich in der Nähe der Sonne befinden und den
 Verlust, den diese durch allmälige Verlöschung erleiden würde, berechnet; indeß
 werden auch durch diese Hypothese, wie wir bald sehen werden, die Erscheinungen
 nicht erklärt, und sie bleibt ähnlichen Einwürfen unterworfen, wie jene.
@@ -251,7 +253,7 @@ dichter Wolken ähnlich.
 
 *Furchen* sind lange schmale Erhöhungen der Lichtwolken, welche gewöhnlich die
 Öffnungen umgeben, aber auch in andren Theilen der Sonnenoberfläche vorkommen.
-Sie sind wol 15O0 Meilen lang, verschwinden aber bald.
+Sie sind wol 1500 Meilen lang, verschwinden aber bald.
 
 *Knoten* nennt man sehr kleine und hohe Lichtstellen, die sich nur am Rande der
 Sonne befinden. Wahrscheinlich sind es Furchen die uns durch die Kugelgestalt
@@ -260,7 +262,7 @@ der Sonne zusammengedrückt erscheinen.
 Nach Cassini und Schröter haben die meisten Flecken vorzüglich am Äquator eine
 beschleunigte Bewegung, welche sich auf den Äquatorgegenden der Sonne als ein
 Wind von Westen nach Osten zeigen würde. Die Erdwinde gehen von Osten nach
-Westen (S. 218).
+Westen <@pa.seite 218/>.
 
 Von der Sonne aus wird man zuerst die in der niedren Atmosphäre befindlichen
 Wolken und die mannigfaltigen Bildungen darin erkennen; in viel 
@@ -365,11 +367,11 @@ Sonnenäquators, so daß die Atmosphäre, wenn kein stärkeres Licht sie
 verdunkelte, einem Paar an die Sonnenscheibe sich anschließender Pyramiden
 nicht unähnlich sein würde. Aber so lange die Sonne über dem Horizonte weilt,
 oder die Dämmerung noch fortwährt, ist ein so schwaches Licht wie das der
-Sonnenatmosphäre, das wegen seiner Lage im Thierkreise (S. 3) *Zodiakallicht*
+Sonnenatmosphäre, das wegen seiner Lage im Thierkreise <@pa.seite 3/> *Zodiakallicht*
 genannt wird, völlig unsichtbar. Es erscheint also nur einige Zeit vor
 Sonnenaufgang oder nach Sonnenuntergang; in jenem Falle ist nur ein Theil der
 <@pagebreak/>
-westlichen, in diesem nur ein Theil der östlichen Pyramide sichtbar. Je kurzer
+westlichen, in diesem nur ein Theil der östlichen Pyramide sichtbar. Je kürzer
 die Dämmerung, und je senkrechter die große Achse der Pyramide auf unsrem
 Horizonte steht, oder je mehr sich diese nach dem Zenith erstreckt, desto
 schöner glänzt das Zodiakallicht. In der heißen Zone werden alle diese

@@ -74,24 +74,24 @@ Folgende Tabelle enthält für einige Örter, wo vorzügliche Sternwarten waren
 oder sind, und durch welche man wol den ersten Meridian gezogen hat, die
 östliche Länge von dem Meridiane von Ferro.
 
-<table>
-  <tr><td>Bagdad                    </td><td>62°</td><td> 4’</td><td>22"</td><td>Palermo                      </td><td>31°</td><td>1’</td><td>45"</td></tr>
-  <tr><td>Berlin                    </td><td>31</td> <td> 2</td> <td>0</td>  <td>Paris                        </td><td>20</td> <td>0</td> <td>0</td></tr>
-  <tr><td>Bremen                    </td><td>26</td> <td>26</td> <td>42</td> <td>Pecking                      </td><td>134</td><td>7</td> <td>30</td></tr>
-  <tr><td>Dublin                    </td><td>11</td> <td>21</td> <td>0</td>  <td>Petersburg                   </td><td>47</td> <td>59</td><td>0</td></tr>
-  <tr><td>Edinburg                  </td><td>14</td> <td>29</td> <td>30</td> <td>Philadelphia                 </td><td>302</td><td>24</td><td>0</td></tr>
-  <tr><td>Gibraltar                 </td><td>12</td> <td>20</td> <td>15</td> <td rowspan="2">Port Jackson,<br/>Neuholland</td> <td></td><td></td><td></td></tr>
-  <tr><td>Göttingen                 </td><td>27</td> <td>35</td> <td>15</td>                                      <td>168</td> <td>59</td><td>30</td></tr>
-  <tr><td>Greenwich                 </td><td>17</td> <td>40</td> <td>0</td>  <td>Prag                         </td><td>32</td> <td>5</td> <td>0</td></tr>
-  <tr><td rowspan="2">Königsberg,<br/>in Preußen</td><td>&nbsp;</td><td></td><td></td><td rowspan="2">Seeberg bei<br/>Gotha</td><td></td><td></td><td></td></tr>
-  <tr>                                   <td>38</td> <td> 6</td> <td>0</td>                                        <td>28</td> <td>23</td><td>45</td></tr>
-  <tr><td>Kopenhagen                </td><td>30</td> <td>15</td> <td>30</td> <td rowspan="2">Slough, Her-<br/>schels Stw.</td> <td></td><td></td><td></td></tr>
-  <tr><td>Lissabon                  </td><td>8</td>  <td>33</td> <td>15</td>                                       <td>17</td> <td>3</td> <td>45</td></tr>
-  <tr><td rowspan="2">London, St.<br/>Paul</td><td></td><td></td><td></td>   <td>Teneriffa, Pik               </td><td>1</td>  <td>8</td> <td>0</td></tr>
-  <tr>                                   <td>17</td> <td>34</td> <td>15</td> <td>Upsala                       </td><td>35</td> <td>18</td><td>45</td></tr>
-  <tr><td>Madrit                    </td><td>13</td> <td>58</td> <td>0</td>  <td rowspan="2">Uranienborg,<br/>Tycho’s Stw.</td><td></td><td></td><td></td></tr>
-  <tr><td>Mexiko                    </td><td>277</td><td>34</td> <td>15</td>                                       <td>30</td> <td>22</td><td>25</td></tr>
-  <tr><td>New York                  </td><td>303</td><td>31</td> <td>0</td>  <td>Wien                         </td><td>34</td> <td>2</td> <td>45</td></tr>
+<table class="vborder4">
+  <tr><td>Bagdad</td>     <td> 62°</td><td> 4’</td><td>22"</td><td>Palermo</td>       <td> 31°</td><td> 1’</td><td>45"</td></tr>
+  <tr><td>Berlin</td>     <td> 31</td> <td> 2</td> <td> 0</td> <td>Paris</td>         <td> 20</td> <td> 0</td> <td> 0</td></tr>
+  <tr><td>Bremen</td>     <td> 26</td> <td>26</td> <td>42</td> <td>Pecking</td>       <td>134</td> <td> 7</td> <td>30</td></tr>
+  <tr><td>Dublin</td>     <td> 11</td> <td>21</td> <td> 0</td> <td>Petersburg</td>    <td> 47</td> <td>59</td> <td> 0</td></tr>
+  <tr><td>Edinburg</td>   <td> 14</td> <td>29</td> <td>30</td> <td>Philadelphia</td>  <td>302</td> <td>24</td> <td> 0</td></tr>
+  <tr><td>Gibraltar</td>  <td> 12</td> <td>20</td> <td>15</td> <td>Port Jackson,</td> <td></td>    <td></td>   <td></td></tr>
+  <tr><td>Göttingen</td>  <td> 27</td> <td>35</td> <td>15</td> <td>Neuholland</td>    <td>168</td> <td>59</td> <td>30</td></tr>
+  <tr><td>Greenwich</td>  <td> 17</td> <td>40</td> <td> 0</td> <td>Prag</td>          <td> 32</td> <td> 5</td> <td> 0</td></tr>
+  <tr><td>Königsberg,</td><td></td>    <td></td>   <td></td>   <td>Seeberg bei</td>   <td></td>    <td></td>   <td></td></tr>
+  <tr><td>in Preußen</td> <td> 38</td> <td> 6</td> <td> 0</td> <td>Gotha</td>         <td> 28</td> <td>23</td> <td>45</td></tr>
+  <tr><td>Kopenhagen</td> <td> 30</td> <td>15</td> <td>30</td> <td>Slough, Her-</td>  <td></td>    <td></td>   <td></td></tr>
+  <tr><td>Lissabon</td>   <td>  8</td> <td>33</td> <td>15</td> <td>schels Stw.</td>   <td> 17</td> <td> 3</td> <td>45</td></tr>
+  <tr><td>London, St.</td><td></td>    <td></td>   <td></td>   <td>Teneriffa, Pik</td><td>  1</td> <td> 8</td> <td> 0</td></tr>
+  <tr><td>Paul</td>       <td> 17</td> <td>34</td> <td>15</td> <td>Upsala</td>        <td> 35</td> <td>18</td> <td>45</td></tr>
+  <tr><td>Madrit</td>     <td> 13</td> <td>58</td> <td> 0</td> <td>Uranienborg,</td>  <td></td>    <td></td>   <td></td></tr>
+  <tr><td>Mexiko</td>     <td>277</td> <td>34</td> <td>15</td> <td>Tycho’s Stw.</td>  <td> 30</td> <td>22</td> <td>25</td></tr>
+  <tr><td>New York</td>   <td>303</td> <td>31</td> <td> 0</td> <td>Wien</td>          <td> 34</td> <td> 2</td> <td>45</td></tr>
 </table>
 
 Ganz genau liegt Ferro nicht 20° westlich von Paris; indeß da der Unterschied
@@ -221,32 +221,32 @@ enthalten:
 
 <@pagebreak/>
 
-<table class="vborder">
-  <tr style="border-bottom: 1px solid;"><td>Klima</td><td>reicht bis</td><td>faßt in sich</td><td colspan="2">Dauer des längsten Tages.</td></tr>
+<table class="vborder1 vborder2 vborder3">
+  <tr style="border-bottom: 1px solid;"><td>Klima</td><td>reicht bis</td><td>faßt in sich</td><td colspan="2">Dauer des<br/>längsten Tages.</td></tr>
   <tr><td> 1</td><td>8°34’</td><td>8°34’</td><td>12½</td><td>Stunden</td></tr>
-  <tr><td> 2</td><td>16 44</td><td>8 10</td><td>13 </td><td>-</td></tr>
+  <tr><td> 2</td><td>16 44</td><td>8 10</td><td>13</td> <td>-</td></tr>
   <tr><td> 3</td><td>24 12</td><td>7 28</td><td>13½</td><td>-</td></tr>
-  <tr><td> 4</td><td>30 48</td><td>6 36</td><td>14 </td><td>-</td></tr>
+  <tr><td> 4</td><td>30 48</td><td>6 36</td><td>14</td> <td>-</td></tr>
   <tr><td> 5</td><td>36 31</td><td>5 43</td><td>14½</td><td>-</td></tr>
-  <tr><td> 6</td><td>41 24</td><td>4 53</td><td>15 </td><td>-</td></tr>
+  <tr><td> 6</td><td>41 24</td><td>4 53</td><td>15</td> <td>-</td></tr>
   <tr><td> 7</td><td>45 32</td><td>4  8</td><td>15½</td><td>-</td></tr>
-  <tr><td> 8</td><td>49  2</td><td>3 30</td><td>16 </td><td>-</td></tr>
+  <tr><td> 8</td><td>49  2</td><td>3 30</td><td>16</td> <td>-</td></tr>
   <tr><td> 9</td><td>52  0</td><td>2 58</td><td>16½</td><td>-</td></tr>
-  <tr><td>10</td><td>54 31</td><td>2 31</td><td>17 </td><td>-</td></tr>
+  <tr><td>10</td><td>54 31</td><td>2 31</td><td>17</td> <td>-</td></tr>
   <tr><td>11</td><td>56 38</td><td>2  7</td><td>17½</td><td>-</td></tr>
-  <tr><td>12</td><td>58 27</td><td>1 49</td><td>18 </td><td>-</td></tr>
+  <tr><td>12</td><td>58 27</td><td>1 49</td><td>18</td> <td>-</td></tr>
   <tr><td>13</td><td>60  0</td><td>1 33</td><td>18½</td><td>-</td></tr>
-  <tr><td>14</td><td>61 19</td><td>1 19</td><td>19 </td><td>-</td></tr>
+  <tr><td>14</td><td>61 19</td><td>1 19</td><td>19</td> <td>-</td></tr>
   <tr><td>15</td><td>62 26</td><td>1  7</td><td>19½</td><td>-</td></tr>
-  <tr><td>16</td><td>63 23</td><td>- 57</td><td>20 </td><td>-</td></tr>
+  <tr><td>16</td><td>63 23</td><td>- 57</td><td>20</td> <td>-</td></tr>
   <tr><td>17</td><td>64 11</td><td>- 48</td><td>20½</td><td>-</td></tr>
-  <tr><td>18</td><td>64 50</td><td>- 39</td><td>21 </td><td>-</td></tr>
+  <tr><td>18</td><td>64 50</td><td>- 39</td><td>21</td> <td>-</td></tr>
   <tr><td>19</td><td>65 22</td><td>- 32</td><td>21½</td><td>-</td></tr>
-  <tr><td>20</td><td>65 48</td><td>- 26</td><td>22 </td><td>-</td></tr>
+  <tr><td>20</td><td>65 48</td><td>- 26</td><td>22</td> <td>-</td></tr>
   <tr><td>21</td><td>66  8</td><td>- 20</td><td>22½</td><td>-</td></tr>
-  <tr><td>22</td><td>66 21</td><td>- 13</td><td>23 </td><td>-</td></tr>
+  <tr><td>22</td><td>66 21</td><td>- 13</td><td>23</td> <td>-</td></tr>
   <tr><td>23</td><td>66 29</td><td>-  8</td><td>23½</td><td>-</td></tr>
-  <tr><td>24</td><td>66 32</td><td>-  3</td><td>24 </td><td>-</td></tr>
+  <tr><td>24</td><td>66 32</td><td>-  3</td><td>24</td> <td>-</td></tr>
   <tr><td>25</td><td>67 23</td><td>- 51</td><td> 1</td><td>Monat</td></tr>
   <tr><td>26</td><td>69 50</td><td>2 27</td><td> 2</td><td>-</td></tr>
   <tr><td>27</td><td>73 39</td><td>3 49</td><td> 3</td><td>-</td></tr>
@@ -427,14 +427,14 @@ Tab. 1. Die Bogen, welche die Sonne an dem ersten Tage jedes Monats auf ihrer
 jährlichen Bahn zurücklegt, und ihre Entfernungen, die mittlere Entfernung <@pa.seite 131/>
 als Einheit genommen.
 
-<table class="vborder">
-  <tr><td>Monat. </td><td>Bogen.</td><td>Entf. </td><td>Monat.</td><td>Bogen.</td><td>Entf.</td></tr>
-  <tr><td>Januar </td><td>61’10"</td><td>0,983 </td><td>Juli  </td><td>57’13"</td><td>1,0168</td></tr>
-  <tr><td>Februar</td><td>60 51 </td><td>0,986 </td><td>August</td><td>57 28</td><td>1,0144</td></tr>
-  <tr><td>März   </td><td>60 05 </td><td>0,992 </td><td>Septb.</td><td>58 10</td><td>1,0082</td></tr>
-  <tr><td>April  </td><td>59 03 </td><td>0,0066</td><td>Oktbr.</td><td>59 07</td><td>10,001</td></tr>
-  <tr><td>Mai    </td><td>58 06 </td><td>0,0088</td><td>Novbr.</td><td>60 10</td><td>0,991</td></tr>
-  <tr><td>Juni   </td><td>57 26 </td><td>0,1046</td><td>Decbr.</td><td>60 56</td><td>0,986</td></tr>
+<table class="vborder2 vborder3 vborder5">
+  <tr><th>Monat. </th><th>Bogen.</th><th>Entf. </th><th>Monat.</th><th>Bogen.</th><th>Entf.</th></tr>
+  <tr><td>Januar</td> <td>61’10"</td><td>0,983</td> <td>Juli</td>  <td>57’13"</td><td>1,0168</td></tr>
+  <tr><td>Februar</td><td>60 51</td> <td>0,986</td> <td>August</td><td>57 28</td><td>1,0144</td></tr>
+  <tr><td>März</td>   <td>60 05</td> <td>0,992</td> <td>Septb.</td><td>58 10</td><td>1,0082</td></tr>
+  <tr><td>April</td>  <td>59 03</td> <td>0,0066</td><td>Oktbr.</td><td>59 07</td><td>10,001</td></tr>
+  <tr><td>Mai</td>    <td>58 06</td> <td>0,0088</td><td>Novbr.</td><td>60 10</td><td>0,991</td></tr>
+  <tr><td>Juni</td>   <td>57 26</td> <td>0,1046</td><td>Decbr.</td><td>60 56</td><td>0,986</td></tr>
 </table>
 
 Die Größe der Bogen nimmt zu, wenn die Entfernungen abnehmen. Dieses würde auch
@@ -445,25 +445,20 @@ Geschwindigkeit zunimmt, jemehr sich die Erde der Sonne nähert.
 
 Tab. 2. Gerade Aufsteigung der Sonne im Mittage der folgenden Tage:
 
-<table class="vborder">
-  <tr><td>Jan. </td><td>1</td><td>282°</td><td>Febr.</td><td>20</td><td>334°</td><td>April</td><td>11</td><td>20°</td></tr>
-  <tr><td>     </td><td>11</td><td>293</td><td>März </td><td> 2</td><td>343</td><td>     </td><td>21</td><td>29</td></tr>
-  <tr><td>     </td><td>21</td><td>304</td><td>     </td><td>12</td><td>353</td><td>Mai  </td><td> 1</td><td>39</td></tr>
-  <tr><td>     </td><td>31</td><td>314</td><td>     </td><td>22</td><td>  2</td><td>Mai  </td><td>11</td><td>48</td></tr>
-  <tr><td>Febr.</td><td>10</td><td>324</td><td>April</td><td> 1</td><td> 11</td><td>     </td><td>21</td><td>58</td></tr>
-</table>
-
-<@pagebreak/>
-
-<table class="vborder">
-  <tr><td>Mai </td><td>31</td><td>68°</td><td>Aug.  </td><td>19</td><td>148°</td><td>Novbr.</td><td> 7</td><td>223°</td></tr>
-  <tr><td>Juni</td><td>10</td><td> 79</td><td>      </td><td>29</td><td>158</td><td>      </td><td>17</td><td>233</td></tr>
-  <tr><td>    </td><td>20</td><td> 89</td><td>Sept. </td><td> 8</td><td>167</td><td>      </td><td>27</td><td>243</td></tr>
-  <tr><td>    </td><td>30</td><td> 99</td><td>      </td><td>18</td><td>176</td><td>Decbr.</td><td> 7</td><td>254</td></tr>
-  <tr><td>Juli</td><td>10</td><td>110</td><td>      </td><td>28</td><td>185</td><td>      </td><td>17</td><td>265</td></tr>
-  <tr><td>    </td><td>20</td><td>120</td><td>Oktob.</td><td> 8</td><td>194</td><td>      </td><td>27</td><td>267</td></tr>
-  <tr><td>    </td><td>30</td><td>130</td><td>      </td><td>18</td><td>203</td><td></td><td></td><td></td></tr>
-  <tr><td>Aug.</td><td> 9</td><td>139</td><td>      </td><td>28</td><td>213</td><td></td><td></td><td></td></tr>
+<table class="vborder2 vborder3 vborder5 vborder6 vborder8">
+  <tr><td>Jan.</td> <td>1</td><td>282°</td><td>Febr.</td><td>20</td><td>334°</td><td>April</td><td>11</td><td>20°</td></tr>
+  <tr><td></td>     <td>11</td><td>293</td><td>März</td> <td> 2</td><td>343</td><td></td>     <td>21</td><td>29</td></tr>
+  <tr><td></td>     <td>21</td><td>304</td><td></td>     <td>12</td><td>353</td><td>Mai</td>  <td> 1</td><td>39</td></tr>
+  <tr><td></td>     <td>31</td><td>314</td><td></td>     <td>22</td><td>  2</td><td>Mai</td>  <td>11</td><td>48</td></tr>
+  <tr><td>Febr.</td><td>10</td><td>324</td><td>April</td><td> 1</td><td> 11</td><td></td>     <td>21</td><td>58</td></tr>
+  <tr><td><@pagebreak/>Mai</td> <td>31</td><td>68°</td><td>Aug.</td>  <td>19</td><td>148°</td><td>Novbr.</td><td> 7</td><td>223°</td></tr>
+  <tr><td>Juni</td><td>10</td><td> 79</td><td></td>      <td>29</td><td>158</td><td></td>      <td>17</td><td>233</td></tr>
+  <tr><td></td>    <td>20</td><td> 89</td><td>Sept.</td> <td> 8</td><td>167</td><td></td>      <td>27</td><td>243</td></tr>
+  <tr><td></td>    <td>30</td><td> 99</td><td></td>      <td>18</td><td>176</td><td>Decbr.</td><td> 7</td><td>254</td></tr>
+  <tr><td>Juli</td><td>10</td><td>110</td><td></td>      <td>28</td><td>185</td><td></td>      <td>17</td><td>265</td></tr>
+  <tr><td></td>    <td>20</td><td>120</td><td>Oktob.</td><td> 8</td><td>194</td><td></td>      <td>27</td><td>267</td></tr>
+  <tr><td></td>    <td>30</td><td>130</td><td></td>      <td>18</td><td>203</td><td></td><td></td><td></td></tr>
+  <tr><td>Aug.</td><td> 9</td><td>139</td><td></td>      <td>28</td><td>213</td><td></td><td></td><td></td></tr>
 </table>
  
 Innerhalb zehn Tagen beträgt der Unterschied 9° — 11°, das letztere im December
@@ -711,9 +706,9 @@ Unterschied verursacht werden. Die Dauer der Jahreszeiten ist jetzt bei uns:
 
 <table>
   <tr><td>der Frühling</td><td>92 Tage 21 St. 16 Min.</td></tr>
-  <tr><td>der Sommer  </td><td>93 " 13 " 52 "</td></tr>
-  <tr><td>der Herbst  </td><td>89 " 17 "  8 "</td></tr>
-  <tr><td>der Winter  </td><td>89 "  1 " 31 "</td></tr>
+  <tr><td>der Sommer</td>  <td>93 " 13 " 52 "</td></tr>
+  <tr><td>der Herbst</td>  <td>89 " 17 "  8 "</td></tr>
+  <tr><td>der Winter</td>  <td>89 "  1 " 31 "</td></tr>
 </table>
 
 Im Jahre 1248 war das Perihelium fast genau im Punkte der Wintersonnenwende,

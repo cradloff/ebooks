@@ -137,11 +137,11 @@ andren Ländern ist es schon zum Theil geschehen.
 Folgendes sind die Dimensionen der Erde: 
 
 <table>
-<tr><td>Halbmesser des Äquators  </td><td>3271691 Toisen<@refnote 2/>.</td></tr>
-<tr><td>Halbmesser an den Polen  </td><td>3260964   "</td></tr>
-<tr><td>Ein Grad am Äquator      </td><td>  56728,0 "</td></tr>
+<tr><td>Halbmesser des Äquators</td>  <td>3271691 Toisen<@refnote 3/>.</td></tr>
+<tr><td>Halbmesser an den Polen</td>  <td>3260964   "</td></tr>
+<tr><td>Ein Grad am Äquator</td>      <td>  56728,0 "</td></tr>
 <tr><td>Ein Grad unter 45° Breite</td><td>  57007,6 "</td></tr>
-<tr><td>Ein Grad am Pole         </td><td>  57289,6 "</td></tr>
+<tr><td>Ein Grad am Pole</td>         <td>  57289,6 "</td></tr>
 </table>
 
 <@pagebreak/>
@@ -251,7 +251,7 @@ aufopferten.
 Von den 9¼ Millionen Quadratmeilen ist nur ¼ — ⅓, also etwa 3 Millionen
 Meilen, Land, das sehr ungleichförmig in drei Inseln vertheilt ist, wovon die
 größte Europa, Asia und Afrika, die zweite Nord- und Südamerika und die
-kleinste Neuholland<@refnote 3/> umfaßt. Zwischen ihnen erstrecken sich der große und der
+kleinste Neuholland<@refnote/> umfaßt. Zwischen ihnen erstrecken sich der große und der
 Atlantische Ocean, die sich in Norden in dem Nordocean, und in Süden in dem
 Indischen und dem Südocean vereinigen. Vorzüglich scheint der Südtheil der Erde
 dem Wasser anzugehören, denn während nach dem Norden hin die beiden größten
@@ -286,12 +286,12 @@ Die Größe der fünf Welttheile ist nach den genauesten Karten:
 <@pagebreak/>
 
 <table>
-<tr><td>Europa           </td><td>153,529 oder 158,400</td><td>□ Meilen.</td></tr>
-<tr><td>Asien            </td><td>763,208 — 768,057   </td><td>—</td></tr>
-<tr><td>Afrika           </td><td>531,000             </td><td>—</td></tr>
-<tr><td>Amerika          </td><td>753,000 oder 800,000</td><td>—</td></tr>
-<tr><td>Australien etwa  </td><td>200,000             </td><td>—</td></tr>
-<tr><td>Neuholland allein</td><td>151,380             </td><td>—</td></tr>
+<tr><td>Europa</td>           <td>153,529 oder 158,400</td><td>□ Meilen.</td></tr>
+<tr><td>Asien</td>            <td>763,208 — 768,057</td>   <td>—</td></tr>
+<tr><td>Afrika</td>           <td>531,000</td>             <td>—</td></tr>
+<tr><td>Amerika</td>          <td>753,000 oder 800,000</td><td>—</td></tr>
+<tr><td>Australien etwa</td>  <td>200,000</td>             <td>—</td></tr>
+<tr><td>Neuholland allein</td><td>151,380</td>             <td>—</td></tr>
 </table>
 
 Beide großen Theile der Erdoberfläche, Land und Wasser, sind indeß keineswegs

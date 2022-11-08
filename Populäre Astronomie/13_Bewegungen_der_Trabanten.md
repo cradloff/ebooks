@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 220/>
 Zwölfte Vorlesung.
 ==================
@@ -64,12 +66,12 @@ Planeten wegen ihrer Größe und Nähe stärker auf ihre Trabanten, als die Erde
 auf unsren Mond, welches wiederum der Bahn eine etwas größere Regelmäßigkeit
 gestattet.
 
-Sie haben, wie der Mond, einen *syderischen* und einen *synodischen* Umlauf (S.
-189, 190): dieser begreift den Zeitraum zwischen zwei Konjunktionen oder
+Sie haben, wie der Mond, einen *syderischen* und einen *synodischen* Umlauf
+(<@pa.seite0 189/>, 190): dieser begreift den Zeitraum zwischen zwei Konjunktionen oder
 Oppositionen der Trabanten und der Sonne, von dem Hauptplaneten aus gesehn. Ist
 dieser z. B. Jupiter, wobei die Bewegungen vorzüglich aufmerksam beobachtet
 sind, so nennt man diese Betrachtungsweise *jovicentrisch*, beim Saturn
-*chronocentrisch*, wie bei der Erde *geocentrisch* (S. 55). Wegen der
+*chronocentrisch*, wie bei der Erde *geocentrisch* <@pa.seite 55/>. Wegen der
 langsamern Bewegung der entferntern Planeten um die Sonne, und der durch
 mehrere Umstände verursachten rascheren Bewegung der Trabanten um den Planeten,
 ist der Unterschied der synodischen und sideralen Umläufe im Ganzen weniger
@@ -108,7 +110,7 @@ Verschieben der Theile in einander, das ein entfernter Beobachter bloß dann
 wahrnehmen kann, wenn dadurch ausgezeichnete Punkte, Flecken, ihren Ort
 verändern: Man kann daher die Ringe als eine verkörperte Trabantenbahn ansehen,
 deren Projektion wir auf der Himmelskugel erblicken, und die Erscheinungen, die
-sich dort erst nach und nach wahrend eines Trabantenumlaufs zeigen, werden hier
+sich dort erst nach und nach während eines Trabantenumlaufs zeigen, werden hier
 auf einmal gesehen.
 
 Der Trabant wird nicht immer vor dem Mittelpunkt der Planetenscheibe durchgehn,
@@ -149,12 +151,12 @@ Jupiters, etwa 42 Millionen Meilen, in 17 Minuten zurück, welches auf 1 Sekunde
 etwa 40000 Meilen ausmacht, eine ungeheuere, von keiner andern uns bekannten
 Bewegung erreichte Geschwindigkeit. Diese schöne Entdeckung verdankt man
 *Römer* und *Cassini* und ist späterhin von *Bradley* durch die Aberration des
-Lichts bestätigt worden (S. 159).
+Lichts bestätigt worden <@pa.seite 159/>.
 
 Da die Trabanten fast dieselbe Lage zur Erde und Sonne haben, wie die
 Hauptplaneten, so müssen sie dieselben Lichterscheinungen zeigen, wie jene.
 Allein sie sind so weit entfernt, daß die Phasen selbst an den Hauptkörpern
-nicht wahrzunehmen sind (S. 176), und die geringe Größe der Trabantenscheiben
+nicht wahrzunehmen sind <@pa.seite 176/>, und die geringe Größe der Trabantenscheiben
 würde ihre Beobachtung auch bei größerer Nähe unmöglich machen.
 <@pagebreak/>
 Indeß würde z.
@@ -167,25 +169,25 @@ folgenden Tabellen zusammenstellen.
 
 <@pagebreak/>
 
-<table>
+<table class="vborder">
 <caption>Tab. 1. Entfernungen der Trabanten von den Hauptplaneten, in Theilen
 des Halbmessers derselben und in deutschen Meilen.</caption>
-<tr><td colspan="3">In Halbmessern d. Hauptplaneten</td></tr>
-<tr><td>Erde.</td><td>Saturn.</td><td>Uranus</td></tr>
+<tr style="border-top: 2px solid; border-bottom: 1px solid;"><th colspan="3">In Halbmessern d. Hauptplaneten</th></tr>
+<tr style="border-bottom: 1px solid;"><th>Erde.</th><th>Saturn.</th><th>Uranus</th></tr>
 <tr><td>     60,31795</td><td>Ring.  1,7010</td><td>  I. 13,120</td></tr>
-<tr><td>--</td>           <td>  "    2,4232</td><td> II. 17,022</td></tr>
-<tr><td>Jupiter.</td>     <td>   I.  3,080</td> <td>III. 19,845</td></tr>
+<tr><td></td>             <td>  "    2,4232</td><td> II. 17,022</td></tr>
+<tr><th>Jupiter.</th>     <td>   I.  3,080</td> <td>III. 19,845</td></tr>
 <tr><td>  I.  5,81296</td><td>  II.  3,952</td> <td> IV. 22,752</td></tr>
 <tr><td> II.  9,24868</td><td> III.  4,893</td> <td>  V. 45,507</td></tr>
 <tr><td>III. 14,75240</td><td>  IV.  6,268</td> <td> VI. 91,008</td></tr>
 <tr><td> IV. 25,94686</td><td>   V.  8,754</td> <td></td></tr>
 <tr><td></td>             <td>  VI. 20,295</td><td></td></tr>
 <tr><td></td>             <td> VII. 59,154</td><td></td></tr>
-<tr><td colspan="3">In deutschen Meilen</td></tr>
-<tr><td>Erde.</td><td>Saturn.</td><td>Uranus</td></tr>
+<tr style="border-top: 2px solid; border-bottom: 1px solid;"><th colspan="3">In deutschen Meilen</th></tr>
+<tr style="border-bottom: 1px solid;"><th>Erde.</th><th>Saturn.</th><th>Uranus</th></tr>
 <tr><td>      51844</td><td>Ring.  13865</td><td>  I.  49123</td></tr>
-<tr><td>--</td>         <td>  "    19747</td><td> II.  64423</td></tr>
-<tr><td>Jupiter.</td>   <td>   I.  25081</td><td>III.  74302</td></tr>
+<tr><td></td>           <td>  "    19747</td><td> II.  64423</td></tr>
+<tr><th>Jupiter.</th>   <td>   I.  25081</td><td>III.  74302</td></tr>
 <tr><td>  I.  58059</td><td>  II.  32039</td><td> IV.  85186</td></tr>
 <tr><td> II.  92376</td><td> III.  39853</td><td>  V. 170383</td></tr>
 <tr><td>III. 147347</td><td>  IV.  51053</td><td> VI. 340743</td></tr>
@@ -214,7 +216,9 @@ unwahrscheinlich macht. Noch unregelmäßiger ist der Gang bei Uranus; bei den
 übrigen Trabanten nahm der Unterschied der Entfernungen mit den Entfernungen
 zu, bei Saturn betrugen sie:
 
-0,872; 0,941; 1,375; 1,486; 11,541; 38,859 aber bei Uranus:
+0,872; 0,941; 1,375; 1,486; 11,541; 38,859
+
+aber bei Uranus:
 
 3,902; 2,823; 2,907; 22,855; 45,501.
 
@@ -251,34 +255,34 @@ Analogie verleitet, gewagten Vermuthungen überlassen.
 
 <@pagebreak/>
 
-<table>
+<table class="vborder">
 <caption>Tab. 2. Siderische Umlaufszeiten, Neigung der Trabanten zu der
 Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
-<tr><td>Umlaufszeit.</td><td>Neigung.</td><td>Aufsteigender Knoten</td></tr>
-<tr><td>Mond</td><td></td><td></td></tr>
+<tr style="border-top: 2px solid;"><th>Umlaufszeit.</th><th>Neigung.</th><th>Aufsteigender Knoten</th></tr>
+<tr style="border-top: 1px solid;"><th>Mond</th><th></th><th></th></tr>
 <tr><td>      27T. 7St.43M.11,6S.</td><td>5° 9’45"</td><td>veränderl.</td></tr>
-<tr><td>Jupiterstrabanten</td><td></td><td></td></tr>
+<tr style="border-top: 1px solid;"><th>Jupiterstrabanten</th><th></th><th></th></tr>
 <tr><td>   I.  1T.18St.27M.33,5S.</td><td>3° 5’30"</td><td>314°30’</td></tr>
-<tr><td>  II.  3  13   13  42,0  </td><td>3  4 25 </td><td>314 45</td></tr>
-<tr><td> III.  7   3   42  33,4  </td><td>3  0 30 </td><td>314 24</td></tr>
-<tr><td>  IV. 16  16   31  49,7  </td><td>2 41 26 </td><td>316 39</td></tr>
-<tr><td>Saturnstrabanten.</td><td></td><td></td></tr>
+<tr><td>  II.  3  13   13  42,0</td>  <td>3  4 25</td> <td>314 45</td></tr>
+<tr><td> III.  7   3   42  33,4</td>  <td>3  0 30</td> <td>314 24</td></tr>
+<tr><td>  IV. 16  16   31  49,7</td>  <td>2 41 26</td> <td>316 39</td></tr>
+<tr style="border-top: 1px solid;"><th>Saturnstrabanten.</th><th></th><th></th></tr>
 <tr><td>Ring. 4 -- 5 St.?</td><td rowspan="8" style="vertical-align: middle;">30°</td><td rowspan="8" style="vertical-align: middle;">170°38'</td></tr>
 <tr><td>  "       10    32M.?</td></tr>
 <tr><td>   I.  0T.22St.37M.30,1S.</td></tr>
-<tr><td>  II.  1   8   53   8,7  </td></tr>
-<tr><td> III.  1  21   18  25,9  </td></tr>
-<tr><td>  IV.  2  17   44  51,1  </td></tr>
-<tr><td>   V.  4  12   25  11,1  </td></tr>
-<tr><td>  VI. 15  22   41  13,9  </td></tr>
-<tr><td> VII. 79   7   54  37,4  </td><td>22°42’</td><td>148°40’</td></tr>
-<tr><td>Uranustrabanten</td><td></td><td></td></tr>
-<tr><td>   I.  5T.21St.25M.20,6S.</td><td rowspan="6" style="vertical-align: middle;">etwas mehr oder weniger als 90°</td><td rowspan="6"></td></tr>
-<tr><td>  II.  8  16   57  47,5  </td></tr>
-<tr><td> III. 10  23    3  59    </td></tr>
-<tr><td>  IV. 13  10   56  29,8  </td></tr>
-<tr><td>   V. 38   1   48   0    </td></tr>
-<tr><td>  VI.107  16   39  56    </td></tr>
+<tr><td>  II.  1   8   53   8,7</td>  </tr>
+<tr><td> III.  1  21   18  25,9</td>  </tr>
+<tr><td>  IV.  2  17   44  51,1</td>  </tr>
+<tr><td>   V.  4  12   25  11,1</td>  </tr>
+<tr><td>  VI. 15  22   41  13,9</td>  </tr>
+<tr><td> VII. 79   7   54  37,4</td>  <td>22°42’</td><td>148°40’</td></tr>
+<tr style="border-top: 1px solid;"><th>Uranustrabanten</th><th></th><th></th></tr>
+<tr><td>   I.  5T.21St.25M.20,6S.</td><td rowspan="6" style="vertical-align: middle;">etwas mehr<br/>oder weniger<br/>als 90°</td><td rowspan="6"></td></tr>
+<tr><td>  II.  8  16   57  47,5</td>  </tr>
+<tr><td> III. 10  23    3  59</td>    </tr>
+<tr><td>  IV. 13  10   56  29,8</td>  </tr>
+<tr><td>   V. 38   1   48   0</td>    </tr>
+<tr><td>  VI.107  16   39  56</td>    </tr>
 </table>
 
 <@pagebreak/>
@@ -289,13 +293,11 @@ Trabanten in seiner Bahn um Jupiter, addirt zu dem doppelten Bogen des dritten,
 ist gleich dem dreifachen des zweiten. Z. B. die tägliche Bewegung 
 
 <table>
-<tr><td>des ersten Trabanten ist </td><td>6 Z 23°29’30"38</td></tr>
-<tr><td>die doppelte des dritten </td><td>3 " 10 38  7 08</td></tr>
-
-<tr><td style="text-align: right;">      Summa</td><td>10 Z 4° 7’37"46</td></tr>
+<tr><td>des ersten Trabanten ist</td><td>6 Z 23°29’30"38</td></tr>
+<tr><td>die doppelte des dritten</td><td>3 " 10 38  7 08</td></tr>
+<tr><td style="text-align: right;">Summa</td><td style="border-top: 1px solid;">10 Z 4° 7’37"46</td></tr>
 <tr><td>die dreifache des zweiten</td><td>10 " 4  7 27 42</td></tr>
-
-<tr><td></td>                         <td>          10"04</td></tr>
+<tr><td></td><td style="border-top: 1px solid;">          10"04</td></tr>
 </table>
 
 ein fast verschwindender Unterschied. Ein ähnliches Verhältniß findet zwischen
@@ -304,12 +306,12 @@ Länge der drei Trabanten 6 Z 26° 18’ 24"; 4 Z 17° 4’ 48"; 6 Z 12° 27’ 
 Addirt man die erste Zahl zur doppelten dritten und zieht davon die dreifache
 zweite ab, 6 Z 26° 18’ 24" + 12 Z 24° 55’ 26" — 13 Z 21° 14’ 24", so erhält man
 bis auf 34 Sek., 6 Zeichen oder 180°, und dieses findet für jede Lage der
-Trabanten statt. Der vierte Trabant, theilt diese Regelmäßigkeit nicht.
+Trabanten statt. Der vierte Trabant theilt diese Regelmäßigkeit nicht.
 
 Von den *Neigungen* der Jupiterstrabanten scheint die des ersten unveränderlich
 zu sein; die Neigung des zweiten schwankt in 30 Jahren um 55’ 38"; bei dem
 dritten in 142 Jahren um 24’ 40", und bei dem vierten in 531 Jahren um 29’ 56";
-also weit geringere Abweichungen als bei dem Monde (S. 194). Die in der Tabelle
+also weit geringere Abweichungen als bei dem Monde <@pa.seite 194/>. Die in der Tabelle
 angegebenen Werthe sind die mittleren.
 
 Wegen ihrer Nähe zum Jupiter und der geringen
@@ -341,7 +343,7 @@ den 20.    4.    3.    0 2.    1.
  —  23.       4.    1. 0       2. 3.
 </div>
 
-Sie sind zuweilen bei dem sehr heitern Himmel der Berge und der warmern Klimate
+Sie sind zuweilen bei dem sehr heitern Himmel der Berge und der wärmern Klimate
 einem scharfen unbewaffneten Auge sichtbar; es ist daher nicht ganz
 unwahrscheinlich, daß ihr Dasein, wie Turner behauptet, den indischen und
 tibetanischen Astronomen aus alten Traditionen bekannt ist.
@@ -377,7 +379,7 @@ Breite. Ihre Neigung ist entweder dieselbe wie bei den Trabanten, oder ist
 höchstens 4’ verschieden; die Dicke ist nur 113¼ Meilen groß, und die Gestalt
 der Ringe nicht eckig — kein Himmelskörper hat eine solche Begrenzung — sondern
 abgerundet, so daß ein senkrechter Durchschnitt durch Saturn und die Ringe sehr
-flache Ellipsen zeigt. Der innere Ring besteht vielleicht, aus mehreren. Der
+flache Ellipsen zeigt. Der innere Ring besteht vielleicht aus mehreren. Der
 äußere Ring dreht sich, nach Herschel, in 10½ Stunde um Saturn; Schröter
 leugnet es zwar, indeß müßte in diesem Falle, nach Laplace, der Ring allmälig
 zerstört werden. Der innere Ring muß sich, nach desselben berühmten
@@ -402,8 +404,8 @@ durchschnitten, und nur in dieser Zeit kann die Ebene des Rings
 zwischen der Sonne und der Erde durchgehen und er
 uns unsichtbar sein. Zwar ist der von der Sonne erleuchtete
 Rand des Ringes uns immer zugekehrt
-allein die so äußerst geringe Dicke desselben, etwa ⅑
-Sek., reicht nicht hin ihn uns sichtbar zu machen.
+allein die so äußerst geringe Dicke desselben, etwa
+<@pa.bruch z=1 n=9/> Sek., reicht nicht hin ihn uns sichtbar zu machen.
 Nur ein Fernrohr, wie Herschel es besaß, vermochte
 es, und dann zeigte er sich als ein äußerst zarter
 Silberfaden, woran die viel breitern Trabanten wie
@@ -457,7 +459,7 @@ bedarf aber der Bestätigung noch sehr. Vielleicht werden wir sie in kurzem
 durch die Frauenhoferschen Fernröhre erlangen.
 
 In den Jahren 1645 — 1764 glaubten mehrere Astronomen von Neapel bis Kopenhagen
-einen *Mond der Venus* entdeckt zu haben, dessen Durchmesser ⅓ — ¼, der
+einen *Mond der Venus* entdeckt zu haben, dessen Durchmesser ⅓ — ¼ der
 Venusscheibe betrage, und dessen Lichterscheinungen denen der Venus gleich
 seien. Seine Lage änderte sich regelmäßig; er schien sich in 9 — 12 Tagen um
 den Planeten zu drehen. Die Beobachtungen waren an den verschiedensten Orten
@@ -472,7 +474,7 @@ vielleicht etwas Wirkliches zum Grunde.
 
 Dieses sind die vorzüglichsten Erscheinungen der Bewegungen in der
 Planetenwelt, und von welcher Seite wir sie auch betrachteten, überall boten
-sich uns überraschende Ansichten dar. Die Hohe Gesetzmäßigkeit in den
+sich uns überraschende Ansichten dar. Die hohe Gesetzmäßigkeit in den
 Verhältnissen der Entfernungen und Umlaufszeiten erregt unser Erstaunen nicht
 mehr; sie ist seit Newton bewiesen, es *mußte* so sein; aber die mit der
 Entfernung der Planeten zunehmende Anzahl der Begleiter; die Ähnlichkeit der
@@ -489,5 +491,5 @@ ihre Nothwendigkeit einzusehn; und wie wir sie fast sämmtlich dem Fleiße der
 Beobachter des letzten halben Jahrhunderts verdanken, so mögen sie in dem
 nächsten halben Jahrhundert aus der Reihe der räthselhaften in die der
 bewiesenen Erscheinungen übertreten, und indeß ein neuer Vorrath anziehender
-Erfahrungen für den Scharfsinn der Matthematiker und Physiker gesammelt werden.
+Erfahrungen für den Scharfsinn der Mathematiker und Physiker gesammelt werden.
 

@@ -8,15 +8,21 @@ Verwendung:
 -->
 
 <#macro fig0 nr>
+<#compress>
 <a href="figuren.xhtml#${nr}">Fig. ${nr}.</a>
+</#compress>
 </#macro>
 
 <#macro fig nr>
+<#compress>
 (<@fig0 nr="${nr}"/>)
+</#compress>
 </#macro>
 
 <#macro bruch z n>
+<#compress>
 <sup>${z}</sup>/<sub>${n}</sub>
+</#compress>
 </#macro>
 
 <#macro seite0 nr>
@@ -75,6 +81,8 @@ Verwendung:
 </#macro>
 
 <#macro seite nr>(<@seite0 nr/>)</#macro>
+
+<#macro karte><a href="karte.xhtml">Karte</a></#macro>
 
 <#macro sonne>&#x2609;</#macro>
 <#macro mond>&#x263D;</#macro>

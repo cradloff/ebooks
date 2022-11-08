@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 280/>
 
 Fünfzehnte Vorlesung.
@@ -32,7 +34,7 @@ der Sonne, allmälig alle ihre Seiten zuwenden, so wie es die Erde und alle
 tritt aber hierbei die sehr merkwürdige Erscheinung ein, daß die
 Achsendrehungszeit des Mondes genau seiner Umlaufszeit um die Erde gleichkommt,
 also etwa 27 Tage dauert. Wie bei den Planeten heißen die beiden unbeweglichen
-Punkte der Oberfläche (S. 260) die Pole, zwischen beiden ist der *Äquator*,
+Punkte der Oberfläche <@pa.seite 260/> die Pole, zwischen beiden ist der *Äquator*,
 der den Mond in eine *nördliche* und eine *südliche Halbkugel* theilt, und zum
 *ersten Meridian* wird am passendsten der auf dem Äquator senkrechte
 Durchmesser der uns sichtbaren Mondscheibe gewählt, von wo aus 90° nach Osten
@@ -41,7 +43,7 @@ und 90° nach Westen gezählt werden.
 Wenn der Mond auf unsrer Erde durch seine Nähe die Ebbe und Fluth hervorbringen
 konnte, so wird die mächtigere Erde einen noch weit stärkeren Einfluß auf den
 Mond üben, welcher vorzüglich in einer Verlängerung der uns zugekehrten
-Mondachse bestehen muß (S. 208). Erwägt man ferner, daß der Einfluß der Erde
+Mondachse bestehen muß <@pa.seite 208/>. Erwägt man ferner, daß der Einfluß der Erde
 nicht, wie der des Mondes, vorübergehend, sondern beständig nach derselben
 Seite hinwirkt, so wird die Mondskugel, wenn sie mit flüssigen Körpern bedeckt
 ist, oder einmal weich oder flüssig war, sich in ein Sphäroid verwandelt haben,
@@ -54,7 +56,7 @@ und Mond findet also der Unterschied statt, daß die Anziehung auf diesem nicht
 ein periodisches Steigen und Fallen hervorbringt, wie die Ebbe und Fluth,
 sondern daß die von der Erde am wenigsten und am weitesten entfernten Theile
 sich daurend gehoben haben. Nun wird auch noch eine Abplattung durch die
-Rotation veranlaßt; diese beträgt aber nach der Theorie nur 1/216000 oder etwa
+Rotation veranlaßt; diese beträgt aber nach der Theorie nur <@pa.bruch z="1" n="216000"/> oder etwa
 50 Fuß. Die Umdrehungsgeschwindigkeit dieses Ellipsoids ist genau der mittleren
 Geschwindigkeit des Mondes in seinem Umlaufe um die Erde gleich; denn selbst
 ein sehr geringer Unterschied in beiden Perioden würde, durch lange Zeiträume
@@ -62,7 +64,7 @@ gehäuft, uns nicht entgangen sein: aber in den 200 Jahren, daß er beständig m
 Fernröhren untersucht worden ist, und, den Beschreibungen nach, seit
 Jahrtausenden, hat der Mond uns immer dieselbe Oberfläche zugekehrt; sogar die
 kleine Beschleunigung der Geschwindigkeit des Mondes auf seiner Kreisbewegung
-um die Erde (S. 194) wird von der Achsendrehung getheilt.
+um die Erde <@pa.seite 194/> wird von der Achsendrehung getheilt.
 
 Durch verschiedene Ursachen wird uns im Norden oder Süden, im Osten oder Westen
 ein Theil der abgewendeten Mondscheibe zugekehrt, wobei zu gleicher Zeit immer
@@ -75,7 +77,7 @@ wird. Da diese Änderungen nur kurzen Perioden unterliegen, so nennt man sie
 1\. Der Mondsäquator fällt nicht mit der Ebene seiner Bahn zusammen, sondern
 ist 5° zu ihm 
 <@pagebreak/>
-geneigt (S. 194). Der Radius Vektor — so wollen wir die von dem
+geneigt <@pa.seite 194/>. Der Radius Vektor — so wollen wir die von dem
 Mittelpunkt der Erde nach dem des Mondes gezogene Linie nennen — trifft daher
 die Mondsoberfläche nicht immer im Äquator, sondern ist zuweilen 5¼ Mondsgrade
 nördlich oder südlich davon entfernt. Ist nun jener Punkt, der Mittelpunkt der
@@ -105,7 +107,7 @@ ein eben so großes
 Stück abgewandt. Die Größe dieser Veränderung beträgt die
 Summe aller Gleichungen des Mittelpunkts, also etwa 8°. Dieß ist die vornehmste
 *Schwankung in der Länge*; sie offenbart uns im Ganzen 16° von der abgewendeten
-Mondshälfte. Die Perioden sind die der Gleichungen (S. 193).
+Mondshälfte. Die Perioden sind die der Gleichungen <@pa.seite 193/>.
 
 3\. Diese Erscheinungen würde man auch von dem Mittelpunkte der Erde aus
 wahrnehmen: da wir uns aber immer in einer großen Entfernung davon befinden, so
@@ -177,26 +179,26 @@ Trabanten tabellarisch zusammen.
 
 <@pagebreak/>
 
-<table>
+<table class="vborder">
 <caption>Scheinbare Größe der Planeten, von den Trabanten aus gesehen;
 scheinbare Größe der Trabanten von den Planeten aus; Durchmesser der Trabanten
 in deutschen Meilen.</caption>
-<tr><td colspan="2">Größe des Planeten</td><td colspan="2">Größe der Trabanten</td><td colspan="2">Durchmesser der Trabanten</td></tr>
-<tr><td>Erde.         </td><td>Saturn.    </td><td>Erde.      </td><td>Saturn.    </td><td>Erde.   </td><td>Saturn.  </td></tr>
-<tr><td>1°52’35"      </td><td>  I. 37°54’</td><td>31’26"5    </td><td>  I.  4’ 4"</td><td>  480   </td><td>  I.  60?</td></tr>
-<tr><td><hr/>         </td><td> II. 29 18 </td><td><hr/>      </td><td> II.  3  2 </td><td><hr/>   </td><td> II.  60?</td></tr>
-<tr><td>Jupiter.      </td><td>III. 23 36 </td><td>Jupiter.   </td><td>III. 10  8 </td><td>Jupiter.</td><td>III. 108 </td></tr>
-<tr><td>  I. 19°48’42"</td><td> IV. 18 22 </td><td>  I. 33’16"</td><td> IV.  7 12 </td><td>  I. 564</td><td> IV. 108 </td></tr>
-<tr><td> II. 12 24 51 </td><td>  V. 13  8 </td><td> II. 17 13 </td><td>  V. 13  9 </td><td> II. 465</td><td>  V. 263 </td></tr>
-<tr><td>III.  7 46 25 </td><td> VI.  5 39 </td><td>III. 18 59 </td><td> VI. 13 16 </td><td>III. 818</td><td> VI. 633 </td></tr>
-<tr><td> IV.  4 25  4 </td><td>VII.  1 57 </td><td> IV.  7 30 </td><td>VII.  4 35 </td><td> IV. 568</td><td>VII. 398</td></tr>
+<tr style="border-top: 2px solid; border-bottom: 1px solid;"><th colspan="2">Größe des Planeten</th><th colspan="2">Größe der Trabanten</th><th colspan="2">Durchmesser der Trabanten</th></tr>
+<tr><td>Erde.</td>         <td>Saturn.</td>    <td>Erde.</td>      <td>Saturn.</td>    <td>Erde.</td>   <td>Saturn.</td>  </tr>
+<tr><td>1°52’35"</td>      <td>  I. 37°54’</td><td>31’26"5</td>    <td>  I.  4’ 4"</td><td>  480</td>   <td>  I.  60?</td></tr>
+<tr><td><hr/></td>         <td> II. 29 18</td> <td><hr/></td>      <td> II.  3  2</td> <td><hr/></td>   <td> II.  60?</td></tr>
+<tr><td>Jupiter.</td>      <td>III. 23 36</td> <td>Jupiter.</td>   <td>III. 10  8</td> <td>Jupiter.</td><td>III. 108</td> </tr>
+<tr><td>  I. 19°48’42"</td><td> IV. 18 22</td> <td>  I. 33’16"</td><td> IV.  7 12</td> <td>  I. 564</td><td> IV. 108</td> </tr>
+<tr><td> II. 12 24 51</td> <td>  V. 13  8</td> <td> II. 17 13</td> <td>  V. 13  9</td> <td> II. 465</td><td>  V. 263</td> </tr>
+<tr><td>III.  7 46 25</td> <td> VI.  5 39</td> <td>III. 18 59</td> <td> VI. 13 16</td> <td>III. 818</td><td> VI. 633</td> </tr>
+<tr><td> IV.  4 25  4</td> <td>VII.  1 57</td> <td> IV.  7 30</td> <td>VII.  4 35</td> <td> IV. 568</td><td>VII. 398</td></tr>
 </table>
 
 <@pagebreak/>
 Was von den Uranustrabanten bekannt ist, haben wir schon oben angeführt; für
 diesen Abschnitt hat die Beobachtung noch keine Ausbeute gegeben, als etwa die
 scheinbare Größe, unter welcher ihnen Uranus erscheint, die bloß von der
-Entfernung der Trabanten und der Große des Planeten abhängt, aber vereinzelt
+Entfernung der Trabanten und der Größe des Planeten abhängt, aber vereinzelt
 kein Interesse gewährt. Dieses erstreckt sich auch auf die beiden ersten
 Saturnstrabanten, wobei die angegebenen Zahlen noch sehr ungewiß sind. Auch für
 die übrigen Trabanten, ja sogar für den Mond, ist die Größe der Durchmesser
@@ -212,7 +214,7 @@ Einen sehr schönen Anblick müssen die Trabanten dem Jupiter darbieten, wenn
 ihrer drei oder vier am Himmel prangen: der nächste übertrifft den Mond etwas
 an scheinbarer Größe, und selbst der entfernteste erscheint dem
 Jupitersbewohner noch größer als die Sonne. Die so sehr häufigen und totalen
-Sonnen- und Trabantenfinsternisse auf dem Jupiter (S. 232) erhöhen das
+Sonnen- und Trabantenfinsternisse auf dem Jupiter <@pa.seite 232/> erhöhen das
 Anziehende der Himmelserscheinungen im Jupiters-System noch mehr, und sind auch
 vielleicht nicht ganz ohne Einfluß auf die Thier- und Pflanzenwelt. Den
 anziehendsten Anblick von allen Planetenbewohnern haben unstreitig die Bewohner
@@ -251,8 +253,8 @@ für uns haben, welche aber nicht einen Kreis um den Mond zu beschreiben
 scheint, sondern fast unbeweglich am Himmel ist. Da eine Linie von der Erde
 nach dem Mondsmittelpunkte die Mondsoberfläche fast immer in demselben Punkte
 trifft, so wird dieser Punkt, der Mittelpunkt der uns zugekehrten
-Mondshalbkugel, die Erde beständig in der Nahe des Zeniths haben, um den sie
-vermöge der physischen und der zwei ersten optischen Schwankungen (S.284) zu
+Mondshalbkugel, die Erde beständig in der Nähe des Zeniths haben, um den sie
+vermöge der physischen und der zwei ersten optischen Schwankungen <@pa.seite 284/> zu
 oscilliren scheint; aber sie wird ihm nicht immer dieselbe Seite, sondern durch
 ihre Achsendrehung nach und nach alle Theile ihrer Oberfläche zuwenden. Die an
 dem Saume der uns sichtbaren Mondshälfte Wohnenden sehn die Erde beständig an
@@ -305,7 +307,7 @@ der Sonne eintritt.
 
 Der ganze Sternhimmel erscheint auf dem Monde fast eben so wie auf der Erde.
 Die Sonne ist zwar in dem Neumonde etwas größer als in dem Vollmonde, aber der
-Unterschied beträgt nur etwa 1/200 der ganzen Entfernung; auch die scheinbare
+Unterschied beträgt nur etwa <@pa.bruch z="1" n="200"/> der ganzen Entfernung; auch die scheinbare
 Geschwindigkeit der Sonne auf ihrer jährlichen Bahn ist nur kleinen
 Schwankungen unterworfen: aber sehr charakteristisch für den Mond ist die sehr
 geringe Neigung seines Äquators zur Ekliptik, die auch zugleich die Bahn des
@@ -336,9 +338,9 @@ In der letzten Rubrik unsrer Tabelle sind die Durchmesser der Trabanten
 enthalten, die indeß noch nicht völlig genau sind. Wir sehn aber daraus, daß
 ihre Größe in keinem Zusammenhange mit der Größe des Planeten zu stehn scheint,
 indem der Mond nur von dem dritten und vierten Jupiters- und dem sechsten
-Saturnstrabanten an Größe Übertroffen wird. Sein körperlicher Inhalt ist nur 50
+Saturnstrabanten an Größe übertroffen wird. Sein körperlicher Inhalt ist nur 50
 mal in dem der Erde enthalten, wogegen die Summe der Jupiterstrabanten etwa
-1/8000, und die der Saturnstrabanten ohne die Ringe, 1/16000 ihres Planeten
+<@pa.bruch z="1" n="8000"/>, und die der Saturnstrabanten ohne die Ringe, <@pa.bruch z="1" n="16000"/> ihres Planeten
 beträgt. Innerhalb eines Systems beobachtet die Größe der Trabanten keine
 größere Ordnung als die der Planeten. Die beiden ersten Saturnstrabanten sind,
 bis auf Vesta, die kleinsten Körper des ganzen Sonnensystems und der sechste
@@ -352,7 +354,7 @@ kleine Abweichungen, wie bei der Erde, dem Monde, Saturn, sind wahrscheinlich;
 <@pagebreak/>
 können aber wegen der geringen Größe der Körper nicht beobachtet werden. Desto
 merkwürdiger ist die Ausnahme, welche die Saturnsringe machen. Wir haben ihre
-Gestalt schon oben (S. 233) angegeben. Sie erheben sich nur 57 Meilen auf
+Gestalt schon oben <@pa.seite 233/> angegeben. Sie erheben sich nur 57 Meilen auf
 beiden Seiten über den Äquator; der innere Ring, dessen Breite 3935 Meilen
 beträgt, ist daher etwa 35 mal so breit als dick, und der äußere, 1339 Meilen
 breite, etwa 12 mal so breit, wodurch die Lichtmenge, die zwischen die Ringe
@@ -371,7 +373,7 @@ ihn kreisen; jedoch würde dieses nur dann immer so bleiben können, wenn die
 Geschwindigkeit beider genau dieselbe wäre: wo dieses aber, wie es unendlich
 wahrscheinlicher ist — denn eine um wenige Meilen größere Entfernung würde
 schon nach dem dritten Keplerschen Gesetze eine etwas geringere Geschwindigkeit
-veranlassen (S. 58) — nicht statt findet, wird früher oder später der
+veranlassen <@pa.seite 58/> — nicht statt findet, wird früher oder später der
 schnellere den langsamern einholen, und beide werden sich unter
 <@pagebreak/>
 den furchtbarsten Revolutionen zu *einem* Körper vereinigen. Ist einer von beiden
@@ -423,7 +425,7 @@ Mondsoberfläche; aber eine wirkliche Topographie beginnt erst mit *Schröters*
 Arbeiten (1791), der zuerst Karten einzelner Mondländer entwarf, die jetzt kaum
 durch die neuen Frauenhoferschen Fernröhre in den Händen *Gruithuisens* u. a.
 verbessert werden können. Die beste Generalkarte des Mondes, die
-Gruithuisensche, liegt der diesem Werke beiliegenden Karte zum Grunde.
+Gruithuisensche, liegt der diesem Werke beiliegenden <@pa.karte/> zum Grunde.
 
 Das Auge sieht nur eine Fläche, und man würde nimmermehr einen wirklichen
 Gegenstand von einem Gemälde unterscheiden, wenn man nicht durch’s Gefühl die
@@ -436,7 +438,7 @@ nur auf eine unvollständige Art gewährt. Beim Monde, der uns immer dieselbe
 Scheibe zuwendet, ist uns auch dieses fast gänzlich versagt, und der
 Unterschied in der Farbe und die verschiedene Beleuchtung sind fast die
 einzigen Grundlagen unsrer Beobachtung. Wir werden jedoch sehen, daß diese,
-verbunden mit guten Gesichtsmerkzeugen und glücklicher Kombinationsgabe, völlig
+verbunden mit guten Gesichtswerkzeugen und glücklicher Kombinationsgabe, völlig
 ausreichen, um alle Unebenheiten der Mondsoberfläche genau kennen zu lernen.
 
 Am einfachsten werden die am Rande des Mondes befindlichen Höhen und Tiefen
@@ -457,7 +459,7 @@ dem dunklen Theile. Faßt man den ersten Moment, wo die Sonne sie erleuchtet,
 und mißt ihre Entfernung von 
 <@pagebreak/>
 der Grenze, in deren Horizont die Sonne jetzt ist,
-so ist klar, daß, wenn (Fig. 15) _PQ_ ein Stück der Mondsoberfläche, _S_ die
+so ist klar, daß, wenn <@pa.fig nr="15"/> _PQ_ ein Stück der Mondsoberfläche, _S_ die
 Sonne, _M_ der Mittelpunkt des Mondes, _B_ der Berg und _A_ in der Lichtgrenze
 ist, welche die Sonne am Horizonte hat, aus der beobachteten Größe _AB_ auch
 _MB_ gefunden werden kann, und dieses ist der Halbmesser des Mondes und die
@@ -490,7 +492,7 @@ andren, oder über eine Ebene mißt, mißt man auch die Höhe der letzteren übe
 eine Einsenkung. Man beobachtet sie, wenn der Schatten gerade die Hälfte des
 Fleckens, d. h. die größte Tiefe der Einsenkung erreicht hat. Die Vertiefungen
 sind meistentheils beckenförmig, viel weiter als tief, und daher ist der
-Mittelpunkt leichter zu bestimmen, oder doch zu schätzen. Es sei (Fig. 16) _PQ_
+Mittelpunkt leichter zu bestimmen, oder doch zu schätzen. Es sei <@pa.fig nr="16"/> _PQ_
 ein Stück der Mondsoberfläche, _S_ die Sonne, _T_ der Mittelpunkt der Tiefe und
 _AB_ meßbar, so läßt sich _BT_ leicht berechnen, wenn die Sonne gerade so
 steht, daß die Linie _ST_, welche die Grenze des Schattens berührt genau die
@@ -517,18 +519,18 @@ einige hohe Gebirgszüge wie die *Mondsappenninen*, die sich zwischen 15° und
 45° nördlicher Breite und 10° östlicher bis 10° westlicher Länge mit geringen
 Unterbrechungen 150 deutsche Meilen weit erstrecken, oft nur *eine* Meile breit
 sind, sich aber auch zu ordentlichen Alpenlandschaften erweitern, deren Gipfel
-10 — 20000 Fuß hoch sind, z. B. in der Nahe von *Huyghens*, oder die Gebirge
+10 — 20000 Fuß hoch sind, z. B. in der Nähe von *Huyghens*, oder die Gebirge
 *Dörfel* und *Leibnitz*, an dem östlichen und südöstlichen Theile der uns
 zugekehrten Scheibe, wovon sieben Kuppen über eine deutsche Meile hoch sind,
 und mit denen also nur der Dolaghir und einige andre tibetanische Berge
 wetteifern können: aber bei weitem die meisten Höhen zeigen sich als
-*Ringgebirge*, d. h. als kreisförmige Walle, die einen gewöhnlich vertieften
+*Ringgebirge*, d. h. als kreisförmige Wälle, die einen gewöhnlich vertieften
 Raum einschließen. Ihr Durchmesser steigt von einigen 100 Fuß auf 40 — 50
 Meilen. Die Höhe der Wälle, die zuweilen auf allen Seiten 6 — 7000 Fuß hoch
 sind, erhebt sich an einigen Punkten auf 11000 Fuß, verschwindet jedoch
 zuweilen ganz, so daß die kreisförmigen Vertiefungen sich mitten in der Ebene
 befinden. Den umgekehrten Fall, nämlich von Wällen eingeschlossene Ebenen,
-findet man häufiger, z. B. bei *Archimedes* (4 unsrer Karte), *Newton* (südlich
+findet man häufiger, z. B. bei *Archimedes* (4 unsrer <@pa.karte/>), *Newton* (südlich
 von Plato, 2 d. Karte) u.a.m. Obgleich der innere Raum gewöhnlich beckenförmig
 ausgehöhlt, also viel weiter als tief ist, so ist dennoch ihre Tiefe sehr
 bedeutend, wol 11000 Fuß, ja einer von ihnen, *Bernouilli* (etwas nördlich von
@@ -601,13 +603,13 @@ Vertiefung auszufüllen. Nur an einigen Stellen vermochte die Mondsoberfläche
 dem Drucke zu widerstehen, vielleicht weil das Gas durch seine Ausdehnung nicht
 mehr Elasticität genug besaß, die Decke seiner Höhlen noch ferner zu heben,
 oder weil es durch Seitenkanäle einen Ausweg gefunden hatte. Eine solche
-Wölbung befindet sich in der Nahe von Schickard (6 der Karte) am südöstlichen
+Wölbung befindet sich in der Nähe von Schickard (6 der <@pa.karte/>) am südöstlichen
 Rande der Mondscheibe.
 
 An Ausdehnung stehn die Gasentbindungen der Erde denen des Mondes keinesweges
 nach, wenn wirklich die weitverbreiteten Vulkane der südöstlichen Inseln
 Asiens, die Vulkane Kamschatka’s, Süditaliens, der Maskarenischen Inseln,
-Westindiens, Quito’s oder Guatimala’s u. m. a. alle nur auf gemeinschaftlichen
+Westindiens, Quito’s oder Guatimala’s u.m.a. alle nur auf gemeinschaftlichen
 Herden ruhen. Aber aus mehrern Ursachen bringen sie nicht *die* Erscheinungen
 hervor, welche wir auf dem Monde finden. Die äußere Atmosphäre der Erde setzt
 dem inneren Drucke ein mächtiges Hinderniß entgegen und raubt ihm einen großen
@@ -650,12 +652,12 @@ nämlich, der Stütze, die sie früher hob und hielt, des Gases selbst, beraubt,
 stürzen entweder ein und werden zu Rillen, deren Ufer etwas erhöht sind, oder,
 wenn sie durch den Zusammenhang der Theile sich größtentheils halten, so bilden
 sie an einigen Stellen durchbrochene *Bergadern*. Diese sind gewöhnlich sehr
-breit und niedrig, z. B. im heiteren Meere (_Mare Serenitatis, H_ unsrer Karte)
+breit und niedrig, z.B. im heiteren Meere (_Mare Serenitatis, H_ unsrer <@pa.karte/>)
 sind solche Adern, die 372 — 956 Fuß hoch, und 43 mal so breit sind. Daher
 entsteht der merkwürdige Unterschied der Mondsoberfläche von der Erde, daß
-wahrend dort die Züge der Berge und Thäler gewöhnlich von Hochländern ausgehen,
+während dort die Züge der Berge und Thäler gewöhnlich von Hochländern ausgehen,
 sie sich hier von Vertiefungen stralenförmig nach allen Seiten zu erstrecken
-scheinen, z. B. bei Kopernikus, Kepler, Tycho (8, 9 und 5 unsrer Karte).
+scheinen, z.B. bei Kopernikus, Kepler, Tycho (8, 9 und 5 unsrer <@pa.karte/>).
 
 Eine vorzüglich interessante Erscheinung gewährt das Ineinandergreifen mehrerer
 solcher Gebilde. Man findet dann gewöhnlich eines von beiden auf Kosten des
@@ -697,11 +699,11 @@ Auf dem übrigen Theile des Mondes zeichnen sich vorzüglich große Flecken aus,
 die keine bedeutende Unebenheiten zeigen, und daher von den älteren Beobachtern
 ziemlich rasch für *Meere*, Seen, Sümpfe gehalten und demgemäß benannt wurden.
 So entstand, nach Riccloli, der *stürmische Ocean* (_Oceanus Procellarum, A_
-unsrer Karte), das *Regenmeer* (_Mare Imbrium, B_), das *heitere Meer* (_M.
+unsrer <@pa.karte/>), das *Regenmeer* (_Mare Imbrium, B_), das *heitere Meer* (_M.
 Serenitatis, H_), das *fruchtbare Meer* (_M. Foecunditatis, N_), das *ruhige
 Meer* (_M. Tranquillitatis, M_), das *Meer der Feuchtigkeit* (_M. Humorum, R_),
 das *Nektarmeer* (_M. Nectaris, O_), das *Meer der Krisen* (_M. Crisium, R_),
-u. m. a. Sie sind aber weder von gleicher Höhe, indem das ruhige Meer (_M_) am
+u.m.a. Sie sind aber weder von gleicher Höhe, indem das ruhige Meer (_M_) am
 niedrigsten, der stürmische Ocean (_A_) am höchsten ist, noch eben, welches
 statt finden müßte, wenn sie mit einer Flüssigkeit bedeckt wären; sondern mehr
 oder weniger abhängig, mit größeren und kleinen Ringgebirgen, Furchen,
@@ -761,7 +763,7 @@ Elasticität desselben. Jene werden wir wol nie bei einem fremden Himmelskörper
 kennen lernen; diese lehrt uns die Dämmerung und die Stralenbrechung kennen.
 Aus dem Bogen, um welchen der Sonnenstral an dem Rande des Mondes in den
 Mondfinsternissen — der besten Zeit zu solchen Beobachtungen — abgelenkt wird,
-hat man die Größe der Horizontalrefraktion des Mondes (S. 126) auf 4½ Sek.
+hat man die Größe der Horizontalrefraktion des Mondes <@pa.seite 126/> auf 4½ Sek.
 bestimmt. Die Größe der Dämmerung, welche Schröter als einen grauen Streif an
 der Lichtgrenze des Mondes erblickte, beträgt 2°—3° oder 10—12 deutsche Meilen,
 welches auf eine Atmosphäre deutet, die, bei einer Höhe von etwa 8000 Fuß, die
@@ -783,7 +785,7 @@ Theil von der Höhe der Sonne abhängt.
 Jetzt bleibt uns noch *eine* Frage übrig: ob der Mond mit Pflanzen bedeckt und
 von Thieren und vielleicht auch von vernünftigen Wesen bewohnt sei? Wir müßten
 erst die Möglichkeit ihres Daseins darthun, und dann Erscheinungen nachweisen,
-die nur von Pflanzenwuchs oder willkürlichen Bewegungen der Thiers oder
+die nur von Pflanzenwuchs oder willkürlichen Bewegungen der Thiere oder
 absichtlichen vernünftiger Wesen herrühren können.
 
 Die Möglichkeit möchte wol niemand zu leugnen wagen. Wenn in der verdünnten
@@ -802,7 +804,7 @@ nur eine von der unsrigen etwas verschiedene organische Welt bezeugen.
 Ein Verfechter für den Aufenthalt organischer Wesen auf dem Monde ist
 vorzüglich Gruithuisen; er hält einen großen Theil der oben angeführten
 Veränderungen in der Farbe der Flecken für Folge der Vegetation, und wagt sogar
-Vermuthungen über die Arten der Bäume und Stauden des Mondes (S. 309). Große,
+Vermuthungen über die Arten der Bäume und Stauden des Mondes <@pa.seite 309/>. Große,
 hellere Streifen, welche diese Mondwälder durchkreuzen, hält er für Alleen, die
 sich entweder vernünftige Wesen — *Seleniten* — oder gigantische Thiere gebahnt
 haben. Aber das Dasein vernünftiger Wesen ist nur dann unbezweifelt, wenn ein
@@ -824,8 +826,8 @@ Schröter gesucht, und endlich
 <@pagebreak/>
 glaubt sie *Gruithuisen* entdeckt zu haben. Im
 Flecken Schröter (_S_), also, nach Gruithuisen, im fruchtbarsten Theile des
-Mondes (S. 308), nah an der schönen Mondsgegend, in deren Zenith beständig die
-Erde ist, finden sich zwei 5 Meilen lange, geradlinige Walle, wovon einer genau
+Mondes <@pa.seite 308/>, nah an der schönen Mondsgegend, in deren Zenith beständig die
+Erde ist, finden sich zwei 5 Meilen lange, geradlinige Wälle, wovon einer genau
 im Meridiane liegt, der andre von Nordwest nach Südost geht; beide werden durch
 mehrere Mittelarme verbunden, so daß das Ganze eine Figur bildet, worin alle
 Linien und alle Winkel genau 45° oder 90° sind. In Nordosten ist noch ein

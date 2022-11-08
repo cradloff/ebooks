@@ -322,11 +322,11 @@ zweier Fixsterne verflossen ist, den Unterschied in der geraden Aufsteigung zu
 finden. Betrug diese z. B. 3 Stunden, 16’ 56⅔", so
 deuten
 <table>
-<tr><td>die 3 Stunden auf</td><td>45°</td><td>   </td><td></td></tr>
-<tr><td>16 Min.          </td><td>4  </td><td>—  </td><td></td></tr>
-<tr><td>56 Sek.          </td><td>—  </td><td>14’</td><td></td></tr>
-<tr><td>⅔ Sek.           </td><td>—  </td><td>—  </td><td>10"</td></tr>
-<tr><td>                 </td><td>49°</td><td>14’</td><td>10".</td></tr>
+<tr><td>die 3 Stunden auf</td><td>45°</td><td></td>   <td></td></tr>
+<tr><td>16 Min.</td>          <td>4</td>  <td>—</td>  <td></td></tr>
+<tr><td>56 Sek.</td>          <td>—</td>  <td>14’</td><td></td></tr>
+<tr><td>⅔ Sek.</td>           <td>—</td>  <td>—</td>  <td>10"</td></tr>
+<tr><td></td>                 <td>49°</td><td>14’</td><td>10".</td></tr>
 </table>
 
 <@pagebreak/>

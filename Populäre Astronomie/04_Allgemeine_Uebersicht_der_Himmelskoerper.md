@@ -216,7 +216,7 @@ Gesichtskreises deckt, von Wolken herrühre, oder von einem nahen Hügel, oder
 einem entfernten Gebirge.
 
 Schon die Wolken, die nur wenige Tausend
-Fuß von der Erde entfernt sind, erscheinen uns in
+Fuß<@refnote 1/> von der Erde entfernt sind, erscheinen uns in
 gleicher Höhe mit den meilenhohen, und alle halten
 wir für Theile desselben sich über uns erstreckenden
 Gewölbes, über welchem selbst die Himmelskörper
@@ -302,7 +302,7 @@ Nur für die nächsten Himmelskörper, als den Mond, die Venus zc. ist sie
 anwendbar; schon für die Sonne reicht sie nicht mehr aus, deren Entfernung, so
 wie die von andern Himmelskörpern, nur aus denen des Mondes und der Venus, und
 nach theoretischen Gründen auf zum Theil sehr mühsame Weise berechnet werden
-konnte. So fand man, daß z. B. die Sonne etwa 21 Mill. Meilen<@refnote 1/> entfernt ist.
+konnte. So fand man, daß z. B. die Sonne etwa 21 Mill. Meilen<@refnote/> entfernt ist.
 
 Innig verbunden mit der Frage über die Entfernung der Himmelskörper ist die
 über die Größe derselben; eine sehr leichte Aufgabe, sobald jene beantwortet

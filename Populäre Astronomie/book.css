@@ -29,10 +29,36 @@ td, th {
 	vertical-align: top;
 	padding-left: 0.5em;
 	padding-right: 0.5em;
+	font-weight: normal;
 }
 
+table {
+	border-collapse: collapse;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+/* senkrechte Rahmen zwischen den Spalten */
 table.vborder td { border-left: 1px solid #000; }
+table.vborder th { border-left: 1px solid #000; }
 table.vborder td:first-child { border-left: none; }
+table.vborder th:first-child { border-left: none; }
+table.vborder1 td:nth-child(1) { border-right: 1px solid #000; }
+table.vborder1 th:nth-child(1) { border-right: 1px solid #000; }
+table.vborder2 td:nth-child(2) { border-right: 1px solid #000; }
+table.vborder2 th:nth-child(2) { border-right: 1px solid #000; }
+table.vborder3 td:nth-child(3) { border-right: 1px solid #000; }
+table.vborder3 th:nth-child(3) { border-right: 1px solid #000; }
+table.vborder4 td:nth-child(4) { border-right: 1px solid #000; }
+table.vborder4 th:nth-child(4) { border-right: 1px solid #000; }
+table.vborder5 td:nth-child(5) { border-right: 1px solid #000; }
+table.vborder5 th:nth-child(5) { border-right: 1px solid #000; }
+table.vborder6 td:nth-child(6) { border-right: 1px solid #000; }
+table.vborder6 th:nth-child(6) { border-right: 1px solid #000; }
+table.vborder7 td:nth-child(7) { border-right: 1px solid #000; }
+table.vborder7 th:nth-child(7) { border-right: 1px solid #000; }
+table.vborder8 td:nth-child(8) { border-right: 1px solid #000; }
+table.vborder8 th:nth-child(8) { border-right: 1px solid #000; }
 
 /* cover */
 #cover {
@@ -101,6 +127,13 @@ a.refnote {
 /* gesperrter Text */
 .g {
 	letter-spacing: 0.25em;
+}
+
+/* um 90° gedreht
+   Achtung: bei Tabellen muss die Caption in eine Zeile umgewandelt werden
+   und die Tabellen müssen in etwa quadratisch sein */
+.landscape {
+	transform: rotate(-90deg);
 }
 
 /* dünne Linie mit Verlauf als Trenner */

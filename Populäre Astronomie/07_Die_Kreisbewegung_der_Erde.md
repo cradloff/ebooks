@@ -79,27 +79,27 @@ verschiedenen Zeiten des Jahres.
 <tr><td>26. "</td><td>18. "</td><td> 2</td><td>28. "</td><td>16. "</td><td></td></tr>
 <tr><td>28. "</td><td>16. "</td><td> 3</td><td> 1. Oktob.</td><td>13. "</td><td></td></tr>
 <tr><td>31. "</td><td>13. "</td><td> 4</td><td> 4. "</td><td>11. "</td><td>= 10 Tage.</td></tr>
-<tr><td colspan="6"> </td></tr>
+<tr><td colspan="6"></td> </tr>
 <tr><td> 3. April</td><td>10. "</td><td> 5</td><td> 6. "</td><td> 8. "</td><td></td></tr>
 <tr><td> 5. "</td><td> 8. "</td><td> 6</td><td> 9. "</td><td> 6. "</td><td></td></tr>
 <tr><td> 8. "</td><td> 5. "</td><td> 7</td><td>11. "</td><td> 3. "</td><td></td></tr>
 <tr><td>11. "</td><td> 2. "</td><td> 8</td><td>14. "</td><td>28. Febr.</td><td>= 10 bis 11 T.</td></tr>
-<tr><td colspan="6"> </td></tr>
+<tr><td colspan="6"></td> </tr>
 <tr><td>13. "</td><td>31. August</td><td> 9</td><td>17. "</td><td>26. "</td><td></td></tr>
 <tr><td>16. "</td><td>28. "</td><td>10</td><td>19. "</td><td>23. "</td><td></td></tr>
 <tr><td>19. "</td><td>25. "</td><td>11</td><td>22. "</td><td>20. "</td><td></td></tr>
 <tr><td>22. "</td><td>22. "</td><td>12</td><td>25. "</td><td>17. "</td><td>= 11 Tage</td></tr>
-<tr><td colspan="6"> </td></tr>
+<tr><td colspan="6"></td> </tr>
 <tr><td>25. "</td><td>19. "</td><td>13</td><td>28. "</td><td>14. "</td><td></td></tr>
 <tr><td>28. "</td><td>16. "</td><td>14</td><td>31. "</td><td>11. "</td><td></td></tr>
 <tr><td> 2. Mai</td><td>12. "</td><td>15</td><td> 3. November</td><td> 8. "</td><td></td></tr>
 <tr><td> 5. "</td><td> 9. "</td><td>16</td><td> 6. "</td><td> 5. "</td><td>= 12 bis 13 T.</td></tr>
-<tr><td colspan="6"> </td></tr>
+<tr><td colspan="6"></td> </tr>
 <tr><td> 8. "</td><td> 6. "</td><td>17</td><td>10. "</td><td> 2. "</td><td></td></tr>
 <tr><td>12. "</td><td> 2. "</td><td>18</td><td>13. "</td><td>29. Januar</td><td></td></tr>
 <tr><td>16. "</td><td>29. Juli</td><td>19</td><td>18. "</td><td>25. "</td><td></td></tr>
 <tr><td>21. "</td><td>24. "</td><td>20</td><td>22. "</td><td>21. "</td><td>= 15 bis 16 T.</td></tr>
-<tr><td colspan="6"> </td></tr>
+<tr><td colspan="6"></td> </tr>
 <tr><td>26. "</td><td>19. "</td><td>21</td><td>27. "</td><td>16. "</td><td></td></tr>
 <tr><td> 1. Juni</td><td>13. "</td><td>22</td><td> 3. "</td><td>10. "</td><td></td></tr>
 <tr><td>21. "</td><td>21. Juni</td><td>23½</td><td>22. "</td><td>22. Dec.</td><td>= 30 bis 33 T.</td></tr>

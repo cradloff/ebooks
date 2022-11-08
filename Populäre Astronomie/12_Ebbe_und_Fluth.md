@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 207/>
 Elfte Vorlesung.
 ================
@@ -32,7 +34,7 @@ jedoch so daß in einem Stücke der Kugeloberfläche, das sich etwa 45° um den
 Zenith- und Nadirpunkt erstreckt, ein Steigen des Wassers und in dem übrigen
 Theile eine Senkung statt findet. Wenn der Himmelskörper ruhig in seiner Lage
 bleibt, so wird sich dadurch die Erdoberfläche zu einem Sphäroid bilden das
-sich aber dadurch von dem Erdsphäroid (S. 106) unterscheidet, daß es durch
+sich aber dadurch von dem Erdsphäroid <@pa.seite 106/> unterscheidet, daß es durch
 Umdrehung einer Ellipse um ihre große Achse entstanden ist; diese liegt in der
 von dem Himmelskörper durch den Mittelpunkt der Erde gezogenen Linie. Wenn
 durch irgend einen Umstand an einem Punkte der Erdkugel eine Erhöhung der
@@ -88,7 +90,7 @@ Wasserstandes in den Äquatorländern, weil die Sonne immer mehr als 45°
 entfernt ist; an den Polen würde das Wasser, auch wenn es nicht in Eis
 verwandelt wäre, nie an diesen Bewegungen Theil nehmen können, da dort eine
 ewige Ebbe ist. Im Ganzen wird das Wasser von den Polen dem Äquator zugezogen
-und dadurch die Wirkung der Achsendrehung (S. 106) vermehrt, wenn einige Fuß
+und dadurch die Wirkung der Achsendrehung <@pa.seite 106/> vermehrt, wenn einige Fuß
 bei der Gestalt der Erde Berücksichtigung verdienten.
 
 Dieß wären die Erscheinungen wenn die Sonne stets im Äquator bliebe; aber sie
@@ -114,7 +116,7 @@ stark wirkt, als die 65 Millionenmal so große Sonne. Wenden wir die eben
 entwickelten Sätze auf ihn an, so wird auch er zwei Ebben und zwei Fluthen in
 ungefähr 25 Stunden hervorbringen; denn so viel Zeit verfließt zwischen zwei
 oberen Durchgängen des Mondes durch den Meridian. Wenn er im Äquator ist, ist
-diese Periode etwas kürzer (S. 197), die Fluthen aber sind stärker. Dieses
+diese Periode etwas kürzer <@pa.seite 197/>, die Fluthen aber sind stärker. Dieses
 findet auch im Apogeum statt. Wir wollen seine Fluth _B_ nennen.
 
 Beide Körper bestimmen durch ihre Anziehung das Steigen und Fallen des Wassers,
@@ -150,7 +152,7 @@ Nachtgleichen, wo der Mond in höheren Breiten ist und am schwächsten wirkt.
 In der nördlichen Halbkugel sind die größten Fluthen diejenigen, welche in den
 Syzygien der Sommersonnenwende nach Mittag, und in der Wintersonnenwende nach
 Mitternacht statt finden, also im Sommer des Abends, im Winter des Morgens. Die
-kleinsten aller Fluthen sind in den Ouadraturen der Frühlingsnachtgleiche vor
+kleinsten aller Fluthen sind in den Quadraturen der Frühlingsnachtgleiche vor
 Mittag und in der
 <@pagebreak/>
 Herbstnachtgleiche vor Mitternacht. Die Ursache ist aus dem
@@ -181,10 +183,10 @@ den Syzygien der
 <@pagebreak/>
 
 <table>
-<tr><td>Nachtgleichen                                      </td><td>19’27</td></tr>
-<tr><td>in den Syzygien der Sonnenwenden                   </td><td>16 98</td></tr>
+<tr><td>Nachtgleichen</td>                                      <td>19’27</td></tr>
+<tr><td>in den Syzygien der Sonnenwenden</td>                   <td>16 98</td></tr>
 <tr><td>die kleinste Höhe in den Quadrat. der Nachtgleichen</td><td> 7 49</td></tr>
-<tr><td>die kleinste Höhe in den Quadrat. der Sonnenwenden </td><td> 9 68</td></tr>
+<tr><td>die kleinste Höhe in den Quadrat. der Sonnenwenden</td> <td> 9 68</td></tr>
 </table>
 
 Die Höhe scheint in den freien Meeren im Durchschnitt 3 Fuß zu betragen, z. B.
@@ -192,13 +194,13 @@ am Vorgebirge der guten Hoffnung, bei Guinea, Sumatra, Martinique 4 Fuß; bei
 Eumana nur 13 Zoll, Vandiemensland 18 Zoll. Auffallend niedrig in Otaheite 12 —
 14 Zoll. In den amerikanischen Polarmeeren fand Parry starke Ebbe und Fluth,
 obgleich sie sonst über 65° nicht mehr einzutreten pflegen. Auch in Ströme
-erstreckt sich die Fluth aus den Oceanen, z. B. in den Maragnon 120 Meilen
+erstreckt sich die Fluth aus den Oceanen, z.B. in den Maragnon 120 Meilen
 weit; in kleinere Flüsse nach Verhältniß ihrer Mündung.
 
 Bei nicht ganz freier Bewegung finden auch in der Zeit der Fluth
 Unregelmäßigkeiten statt, z. B. in St. Malo 6 Stunden, bei Dieppe 10½ Stunden
 nach der Kulmination des Mondes. Von dieser Zahl und dem Mondlaufe sind nun die
-übrigen Zeitbestimmungen abhängig; man nennt sie deshalb den *Hafenfaß*
+übrigen Zeitbestimmungen abhängig; man nennt sie deshalb den *Hafensatz*
 (_Etablissement du port_).
 
 In offenen Meeren sind die Zeiten, in welchen das Wasser steigt und fällt,
@@ -274,7 +276,7 @@ veranlaßte Schwankung nur 0,28 Linien beträgt. Während beim Meere die
 Einwirkung vorzüglich im Steigen des Wassers bestand, besteht sie bei der
 Atmosphäre in vermindertem Luftdruck, also im *Fallen* des Barometers; die
 Entfernung der Erde und des Mondes wurde durch die Anziehung der Sonne
-vergrößert (S. 193). Daß aber alle diese Erscheinungen aus ähnlichen Ursachen
+vergrößert <@pa.seite 193/>. Daß aber alle diese Erscheinungen aus ähnlichen Ursachen
 entspringen wird ein jeder meiner Zuhörer nach einigem Nachdenken überzeugt
 sein.
 
@@ -283,7 +285,7 @@ Einfluß der Wärme. Die an der Oberfläche des Äquators erwärmten Theile der
 Luft steigen in die Höhe, dehnen sich dort nach allen Seiten aus, und ihre
 Stelle nehmen sogleich die unteren Schichten der benachbarten Luft ein; der
 Verlust, den diese erleiden, wird wiederum größtentheils durch Zufluß niedriger
-benachbarter Luftschichten ersetzt u. s. w. Da am Äquator das Steigen fast
+benachbarter Luftschichten ersetzt u.s.w. Da am Äquator das Steigen fast
 unaufhörlich statt findet, so entsteht dadurch eine Strömung der oberen Luft
 nach den Polen und eine Strömung der niedrigeren nach dem Äquator, die sich in
 der nördlichen Halbkugel als *Nordwind*, in der südlichen als *Südwind* zeigen
