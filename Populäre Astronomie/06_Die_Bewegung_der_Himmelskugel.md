@@ -215,7 +215,7 @@ Abweichungskreise von Osten nach Westen über jedem Meridiane weg, die Lage der
 Parallelkreise aber bleibt unverändert. Der Zenith eines Orts am Erdäquator ist
 in dem Himmelsäquator, für die Erdpole in den
 <@pagebreak/>
-Himmelspolen; ein Ort z. B. im
+Himmelspolen; ein Ort z.B. im
 50\. Grade der Breite hat seinen Zenith in demselben Abweichungskreise der
 Himmelskugel.
 
@@ -264,7 +264,7 @@ wird in seinem niedrigsten Stande den Horizont berühren, ohne unter ihn zu
 sinken; seine Morgen- und Abendweite fallen mit dem Nord- oder Südpunkte
 zusammen, und betragen also 90°. Alle Sterne aber, deren Entfernung von einem
 Pol geringer ist, als die Höhe desselben über unsrem Horizonte, vollenden ihre
-ganze Kreisbahn an der uns sichtbaren Himmelshalbkugel. Beobachten wir z. B.
+ganze Kreisbahn an der uns sichtbaren Himmelshalbkugel. Beobachten wir z.B.
 unter 5O° nördlicher Breite, wo der Pol vom Horizonte entfernt ist, so werden
 alle Sterne, deren Entfernung geringer, oder
 <@pagebreak/>
@@ -280,7 +280,7 @@ vom Äquator aus die *gerade*, und die von allen übrigen Punkten der Erde die
 *schiefe Himmelskugel*.
 
 Alles dieses gilt nicht nur für die Fixsterne, sondern, mit sehr geringen
-Einschränkungen, auch für die Sonne, die Planeten u. s. w., deren Bewegung
+Einschränkungen, auch für die Sonne, die Planeten u.s.w., deren Bewegung
 gewöhnlich viel langsamer als die tägliche ist. So lange sie in der nördlichen
 Halbkugel sind, verhalten sie sich wie die nördlichen Sterne, in der
 Südhalbkugel, wie die südlichen; am Äquator ist ihr Tag- und Nachtbogen
@@ -308,7 +308,7 @@ bekannt, so ist’s auch die der ganzen Himmelskugel.
 
 Man theilt den Sternentag in 24 Stunden, jede Stunde in 60 Minuten zu 60
 Sekunden, oder den Tag in 1440 Minuten, oder 86,400 Sekunden, und bedient sich
-dabei einiger Abkürzungen, so daß man z. B. statt 366 Tage, 6 Stunden, 9
+dabei einiger Abkürzungen, so daß man z.B. statt 366 Tage, 6 Stunden, 9
 Minuten, 11 <@pa.bruch z="7" n="10"/> Sekunden schreibt: 366 Tage, 6 St.,
 9’ 11"7. Es ist die Umdrehungszeit der Erde um die Sonne.
 
@@ -319,7 +319,7 @@ Sterns bekannt, so darf man sie nur mit 15 multipliciren und statt der Stunden
 Grade setzen, um die Größe des Bogens zu kennen, um welchen der Stern
 fortgerückt ist; oder, wenn die Zeit bekannt ist, die zwischen der Kulmination
 zweier Fixsterne verflossen ist, den Unterschied in der geraden Aufsteigung zu
-finden. Betrug diese z. B. 3 Stunden, 16’ 56⅔", so
+finden. Betrug diese z.B. 3 Stunden, 16’ 56⅔", so
 deuten
 <table>
 <tr><td>die 3 Stunden auf</td><td>45°</td><td></td>   <td></td></tr>

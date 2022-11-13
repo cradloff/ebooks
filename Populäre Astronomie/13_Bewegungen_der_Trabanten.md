@@ -13,7 +13,7 @@ begleitet. Alle Erscheinungen des Mondes finden auch bei den Trabanten statt,
 aber sie stellen sich uns auf eine andre Weise dar, da wir sie nicht von dem
 Mittelpunkte der Bewegung aus, wie beim Monde, sondern aus der Ferne
 betrachten, so weit unsre Fernröhre es erlauben. Vor der Erfindung derselben,
-d. h. bis über 1600 Jahre n. Chr., war daher der Mond der einzige Trabant, die
+d.h. bis über 1600 Jahre n. Chr., war daher der Mond der einzige Trabant, die
 übrigen 17 sind eine Entdeckung der beiden letzten Jahrhunderte.
 
 Die *Jupiters-Trabanten* wurden fast gleichzeitig von *Simon Mayer* und von
@@ -69,7 +69,7 @@ gestattet.
 Sie haben, wie der Mond, einen *syderischen* und einen *synodischen* Umlauf
 (<@pa.seite0 189/>, 190): dieser begreift den Zeitraum zwischen zwei Konjunktionen oder
 Oppositionen der Trabanten und der Sonne, von dem Hauptplaneten aus gesehn. Ist
-dieser z. B. Jupiter, wobei die Bewegungen vorzüglich aufmerksam beobachtet
+dieser z.B. Jupiter, wobei die Bewegungen vorzüglich aufmerksam beobachtet
 sind, so nennt man diese Betrachtungsweise *jovicentrisch*, beim Saturn
 *chronocentrisch*, wie bei der Erde *geocentrisch* <@pa.seite 55/>. Wegen der
 langsamern Bewegung der entferntern Planeten um die Sonne, und der durch

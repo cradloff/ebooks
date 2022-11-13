@@ -91,7 +91,7 @@ Planeten unterscheiden. Da sie gewöhnlich von haarähnlichen Schweifen oder
 Büscheln begleitet sind, heißen sie *Kometen*, *Haar-* oder *Schweifsterne*.
 Alle diese Körper theilen die allgemeine regelmäßige Bewegung des Himmels, und
 unterscheiden sich dadurch von den Erscheinungen unserer Atmosphäre, den
-Wolken, Nordlichtern u. a., die, wenn nicht Winde oder andere irdische Ursachen
+Wolken, Nordlichtern u.a., die, wenn nicht Winde oder andere irdische Ursachen
 sie zerstreuen, unbeweglich über unserm Haupte schweben. Unentschieden ist’s
 noch, wohin jene Steine und schleimigen Massen zu zählen sind, die zuweilen auf
 die Erde fallen, die Feuerkugeln, Sternschnuppen u. dgl. Vielleicht gelingt’s
@@ -302,7 +302,7 @@ Nur für die nächsten Himmelskörper, als den Mond, die Venus zc. ist sie
 anwendbar; schon für die Sonne reicht sie nicht mehr aus, deren Entfernung, so
 wie die von andern Himmelskörpern, nur aus denen des Mondes und der Venus, und
 nach theoretischen Gründen auf zum Theil sehr mühsame Weise berechnet werden
-konnte. So fand man, daß z. B. die Sonne etwa 21 Mill. Meilen<@refnote/> entfernt ist.
+konnte. So fand man, daß z.B. die Sonne etwa 21 Mill. Meilen<@refnote/> entfernt ist.
 
 Innig verbunden mit der Frage über die Entfernung der Himmelskörper ist die
 über die Größe derselben; eine sehr leichte Aufgabe, sobald jene beantwortet

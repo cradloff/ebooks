@@ -150,13 +150,13 @@ die sie verbindet, die *Apsidenlinie*.
 
 In ähnlichen Beziehungen, wie hier, gebraucht man die Ausdrücke: Excentricität,
 Apsiden, Achse, bei der Bahn der Trabanten; nur statt Sonnennähe, Sonnenferne
-sagt man z. B. beim Monde: *Erdnähe*, *Erdferne*, *Perigeum*, *Apogeum*.
+sagt man z.B. beim Monde: *Erdnähe*, *Erdferne*, *Perigeum*, *Apogeum*.
 
 Wenn uns die Ebene, worin der Planet sich bewegt, die Größe und Lage der
 Apsidenlinie und die Excentricität bekannt ist, so kennen wir die Planetenbahn
 in allen ihren Theilen, nicht aber den Grad der Geschwindigkeit des Körpers in
 der Ellipse. Diesen finden wir durch das zweite keplersche Gesetz. Wenn _AFB_
-<@pa.fig nr="8"/> der vom Radius Vektor in einer gewissen Zeit, z. B. einem Monat,
+<@pa.fig nr="8"/> der vom Radius Vektor in einer gewissen Zeit, z.B. einem Monat,
 zurückgelegte Raum ist, so wird er den Raum _BFC_ wenn er eben so groß wie
 _AFB_ ist, in derselben Zeit zurücklegen; einen doppelt so großen Raum in einer
 doppelt so großen Zeit, und überhaupt wird die Zeit, welche der Planet bedarf,
@@ -198,7 +198,7 @@ Erfinder sie nicht geahnet hat. Aus dem einfachen Grundsatze, daß die Körper s
 einander nach dem Verhältnisse ihrer Masse, und verkehrt wie die Quadrate
 ihrer Entfernung zu nähern suchen, oder einander *anziehen*, lassen sich fast
 alle, auch die zusammengesetztesten Erscheinungen bei den Bewegungen der
-Himmelskörper erklären. Die Sonne z. B. ist vom Monde 400 mal so weit entfernt
+Himmelskörper erklären. Die Sonne z.B. ist vom Monde 400 mal so weit entfernt
 als die Erde, sie wird ihn also 160,000 mal schwächer anziehn; aber sie hat
 337,000 mal so viel Masse als diese, mithin wird der Mond von der Sonne noch
 immer etwa doppelt so stark angezogen, als von der Erde. Alle Himmelskörper
@@ -311,7 +311,7 @@ schreibt man sogar 450 Erdweiten zu. Ob in jenem
 ungeheuren Raume noch Planeten wallen, ist
 unbekannt; vielleicht wiederholen sich in diesem
 Mikrokosmus des Weltsystems noch einige Erscheinungen,
-die wir unter den Fixsternen bemerken, z. B. daß
+die wir unter den Fixsternen bemerken, z.B. daß
 zwei oder mehrere Körper von fast gleicher Größe sich
 um einen gemeinschaftlichen Punkt — den Schwerpunkt
 — bewegen; oder es finden sich vielleicht Planeten,
@@ -401,7 +401,7 @@ ihre Anzahl und ihre Beschaffenheit noch ganz im Dunkeln liegen.
 
 Das Verhältniß der Masse eines Körpers zu seinem Rauminhalt macht seine
 *Dichtigkeit* aus. Je größer die Masse oder das Gewicht eines Körpers in einem
-gewissen Raume ist, desto größer ist seine Dichtigkeit. Gold z. B. ist etwa 19
+gewissen Raume ist, desto größer ist seine Dichtigkeit. Gold z.B. ist etwa 19
 mal so dicht, wie Wasser, weil ein Kubikfuß Gold 19 mal so viel wiegt, wie ein
 Kubikfuß Wasser. Wo die Masse berechnet und die Größe beobachtet werden kann,
 ist auch die

@@ -277,12 +277,12 @@ die Sonne auf diese Weise zur Uhr des Universums gemacht.
 
 Der *bürgerliche Tag* beginnt bei uns um Mitternacht, also im niedrigsten
 Stande der Sonne; eine sehr passende Einrichtung, weil alsdann auch in den
-Geschäften der Menschen eine Pause ist. Viele Völker, z. B. die Juden,
+Geschäften der Menschen eine Pause ist. Viele Völker, z.B. die Juden,
 Chinesen, Italiener, fangen ihren Tag des Abends an, Ptolemäus des Morgens. Die
 meisten europäischen Völker, und auch die Deutschen, zählen die 24 Stunden des
 Tages immer nur von 1 — 12, so daß um Mitternacht und um Mittag 12 Uhr ist;
 andre zählen von 1 — 24, wie die Italiener, und auch für die Astronomen ist
-dieß bequemer; und wieder andre, z. B. manche orientalische Völker, theilen den
+dieß bequemer; und wieder andre, z.B. manche orientalische Völker, theilen den
 Tag in 12 Stunden und die Nacht ebenfalls; eine sehr unbequeme Eintheilung,
 weil wegen der Veränderung der Dauer der Tage und Nächte die Stunden ungleich
 werden.
@@ -323,7 +323,7 @@ und südlich
 <@pagebreak/>
 sein, die Länge zählt man auf der Ekliptik von Westen nach Osten
 nach der Ordnung der Zeichen. Man bedient sich zur Bestimmung der Länge statt
-der Grade auch wol der Zeichen selbst; z. B. 6 Zeichen 20°, oder abgekürzt, 6Z.
+der Grade auch wol der Zeichen selbst; z.B. 6 Zeichen 20°, oder abgekürzt, 6Z.
 20° oder 20° <@pa.zeichen/> <@pa.seite 90/> sind
 gleichbedeutend mit 200° Länge. 0Z 0° ist der Anfangspunkt selbst, nämlich die
 Frühlingsnachtgleiche. Ein nach Länge und Breite bestimmter Stern ist seiner
@@ -332,7 +332,7 @@ der Ekliptik bleibt.
 
 Die meisten Himmelskörper bewegen sich auf der Himmelskugel von Westen nach
 Osten, also nach der Ordnung der Zeichen; man nennt diese Bewegung
-*rechtgängig*, *direkt*, z. B. die Sonne, der Mond; einige nach der
+*rechtgängig*, *direkt*, z.B. die Sonne, der Mond; einige nach der
 entgegengesetzten Richtung, so zuweilen die Planeten, *rückgängig*, *indirekt*.
 
 Die Punkte, worin die Bahn eines Himmelskörpers die Ebenen der Ekliptik
@@ -421,7 +421,7 @@ Zeichen des Widders, so werden wir, von der Sonne aus gesehn, in der Wage zu
 sein scheinen; tritt die Sonne in den Stier, so werden wir in dem Skorpion
 gesehn werden; die Lage des Radius Vektor bleibt völlig dieselbe, ob die Sonne
 von dem Widder durch den Stier, die Zwillinge und so fort, oder die Erde von
-der Wage durch den Skorpion, den Schütz u. s. w. die Ekliptik durchwandere. In
+der Wage durch den Skorpion, den Schütz u.s.w. die Ekliptik durchwandere. In
 beiden Fällen ist die Richtung der Bewegung dieselbe; nur sind wir immer an dem
 Orte des Himmels, der demjenigen, worin die Sonne uns erscheint,
 entgegengesetzt ist. Denkt man sich ferner durch die Sonne, die wir jetzt als

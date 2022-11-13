@@ -35,14 +35,14 @@ vorüber ist, und würde ohne die Reibung an dem Boden niemals in Ruhe kommen.
 Diese Eigenschaft der Körper wird die *Trägheit* oder das *Beharrungsvermögen*
 genannt, und zeigt sich darin, daß, selbst nachdem die Ursache, wodurch ein
 Körper nach irgend einer Richtung bewegt wurde, aufgehört hat, dieser stets in
-gerader Linie, mit *gleichförmiger Geschwindigkeit* fortrückt, d. h. in gleichen
+gerader Linie, mit *gleichförmiger Geschwindigkeit* fortrückt, d.h. in gleichen
 Zeiten gleiche Räume zurücklegt. Ohne sie würde jene Kugel stehen bleiben,
 sobald die Hand sie verlassen hat. Auf der Erde sehn wir zwar diese Erscheinung
 wegen der Reibung an andre Körper, des Widerstandes der Luft, der Wirkung der
 Schwere nie in ihrer Reinheit; allein wo diese Umstände von geringerer
-Bedeutung sind, z. B. bei der Bewegung einer Kugel auf einem polirten Tische,
+Bedeutung sind, z.B. bei der Bewegung einer Kugel auf einem polirten Tische,
 dauert die ihr einmal mitgetheilte Geschwindigkeit lange fort. Dagegen zeigen
-sich uns ihre Wirkungen überall. Wenn z. B. ein Körper durch irgend ein
+sich uns ihre Wirkungen überall. Wenn z.B. ein Körper durch irgend ein
 Hinderniß, etwa einen ihn spannenden Faden, oder einen Reif, zu einer krummen
 Bewegung in _AB_ <@pa.fig nr="17"/> gezwungen ist, und der Faden reißt, wenn er sich in _B_
 befindet, so entflieht er in der geraden Linie _BC_, welche seine krumme Bahn in
@@ -53,7 +53,7 @@ nichts ändert, und nur in der Veränderung der Lage zu den umgebenden
 Gegenständen besteht, so ist ein bewegter 
 <@pagebreak/>
 Körper eben so empfänglich für neue
-Eindrücke, als ein ruhiger. Wenn z. B. einer 10 Fuß in der Sek. fortrückenden
+Eindrücke, als ein ruhiger. Wenn z.B. einer 10 Fuß in der Sek. fortrückenden
 Kugel eine neue Bewegung von 4 Fuß nach derselben Richtung mitgetheilt wird, so
 wird ihre Geschwindigkeit 14 Fuß betragen; ist die Richtung entgegengesetzt, so
 beträgt sie nur 6 Fuß in der Sekunde. Diese Fälle, wo die neue Bewegung genau
@@ -65,7 +65,7 @@ würde, immer etwas nach der Richtung _AE_
 abgelenkt, und wenn _E_ der Punkt ist, wo er, vermöge der zweiten Bewegung
 allein, nach einer Sek. anlangen würde, so wird er jetzt nach einer Sek. in _F_
 sein, wenn _EF_ der Linie _AF_ parallel und gleich ist. Zieht man _EF_, so ist
-_AEDF_ ein Parallelogramm, d. h. eine vierseitige Figur, worin die gegenüberliegenden
+_AEDF_ ein Parallelogramm, d.h. eine vierseitige Figur, worin die gegenüberliegenden
 Linien parallel, und daher auch einander gleich sind, und die Linie _AF_ die
 Richtung, in welcher der Körper sich bewegt, und das Maß seiner
 Geschwindigkeit, eine Diagonale desselben ist. Jener Satz für einen durch zwei
@@ -94,7 +94,7 @@ wenn er bloß dem Beharrungsvermögen gehorchte, in einer Sek. 10 Fuß zurückle
 würde, so wird diese in der zweiten Sekunde fortdauern: aber die mit gleicher
 Stärke fortwirkende Kraft legt dem Körper von neuem eine Geschwindigkeit von 10
 Fuß in der Sek. bei, mithin beträgt sie am Ende der zweiten Sekunde 20 Fuß; aus
-ähnlichen Gründen am Ende der dritten 30 Fuß u. s. f. Aus einer auf diese
+ähnlichen Gründen am Ende der dritten 30 Fuß u.s.f. Aus einer auf diese
 Bedingungen gegründeten Berechnung folgt, daß ein Körper, der bloß durch diese
 Kraft bewegt wird, in der ersten Sek. 5 Fuß, in zweien 20 Fuß, in dreien 45
 Fuß, in 10 Sek. 1000 Fuß zurücklegt, daß also die Länge der Bahn mit den
@@ -110,7 +110,7 @@ mehr zurücklegt als in der vorhergehenden.
 Ein Beispiel der gleichförmig beschleunigten Bewegung ist der Fall der Körper
 in der Nähe der Oberfläche unsrer Erde; wenigstens sind die Unterschiede nicht
 bedeutend. Ein frei fallender Körper bewegt sich immer desto rascher, je länger
-er schon gefallen ist, so daß er, wenn er z. B. in der ersten Sekunde 15 Fuß
+er schon gefallen ist, so daß er, wenn er z.B. in der ersten Sekunde 15 Fuß
 zurückgelegt hat, in zweien 60 und in dreien 135 fällt. Theilt man einem
 Körper, statt ihn frei fallen zu lassen, eine Geschwindigkeit von 60 Fuß in der
 Sek. nach der Richtung des Falls mit, so sind die in 1, 2 oder 3 Sekunden
@@ -124,7 +124,7 @@ Richtung der mitgetheilten Bewegung der des Falles nicht gleich oder
 entgegengesetzt ist; denn die ursprüngliche Richtung des Körpers wird durch den
 Fall beständig geändert, und seine Bahn wird zur krummen Linie, welche alle
 Eigenschaften der Parabel <@pa.seite 59/> hat. In einer Parabel bewegen sich also die
-schräg geworfenen Körper, z. B. Kanonenkugeln, Bomben und dergleichen. Hierbei
+schräg geworfenen Körper, z.B. Kanonenkugeln, Bomben und dergleichen. Hierbei
 ist jedoch der Widerstand der Luft, der in vielen Fällen bedeutende
 Abweichungen hervorbringt, unberücksichtigt gelassen.
 
@@ -164,12 +164,12 @@ Stellen unsrer Vorlesungen berührt haben, sind hauptsächlich folgende:
 
 Alle Körper suchen sich einander zu nähern, oder sie *ziehen einander an*; die
 Stärke dieser Anziehung nennen wir *Masse*. Ein Körper, der einen dritten, unter
-übrigens gleichen Umständen, zwei mal so stark anzieht, d. h. eine zweimal so
+übrigens gleichen Umständen, zwei mal so stark anzieht, d.h. eine zweimal so
 große Beschleunigung hervorbringt, als ein andrer, hat daher zwei mal so viel
 Masse als er. Diese Masse ist bei fast allen Erscheinungen der Körper von der
 größten Wichtigkeit, welches hier nicht weiter entwickelt werden kann; eine
 ihrer vorzüglichsten Eigenschaften ist ihr Verhältniß zu dem *Gewichte* der
-Körper. Ein Körper z. B. der 20 Pfund wiegt, hat doppelt so viel Masse und
+Körper. Ein Körper z.B. der 20 Pfund wiegt, hat doppelt so viel Masse und
 zieht unter übrigens gleichen Verhältnissen einen andren doppelt so stark an,
 als ein 10 Pfund wiegender. Wir finden in der Natur auch noch andre Beispiele
 von Anziehungen, die nicht in so innigem Zusammenhange mit der Masse stehn, z.B.
@@ -192,16 +192,16 @@ Dieser besitzt die Eigenschaft, daß, wenn er verhindert wird sich in irgend
 einer Richtung zu bewegen, auch das Ganze nach dieser Richtung unbeweglich ist,
 vorausgesetzt daß der Zusammenhang der Theile des Körpers groß genug ist, um
 ein Zerreißen zu verhüten. Körper an der Oberfläche der Erde sind im
-Gleichgewichte, d. h. sie fallen nicht, wenn jener Punkt gehalten wird, daher
+Gleichgewichte, d.h. sie fallen nicht, wenn jener Punkt gehalten wird, daher
 sein Name. Er hängt bloß von der Gestalt und Masse eines Gegenstandes ab, und
 bleibt daher unverändert, von welcher Kraft, und in welcher Richtung dieser
-auch bewegt werde. Er ist bei Kugeln, Sphäroiden u. a. ähnlichen Körpern im
+auch bewegt werde. Er ist bei Kugeln, Sphäroiden u.a. ähnlichen Körpern im
 Mittelpunkte.
 
 Man kann sich sogar bei vielen von einander getrennten Körpern einen
 Schwerpunkt denken: er ist hier nämlich der Punkt, auf welchem die Körper im
 Gleichgewicht wären, wenn sie durch unbiegsame Linien zusammengehalten würden.
-So ist z. B., wie wir sehen werden, die Masse der Sonne fast 340000 mal so groß
+So ist z.B., wie wir sehen werden, die Masse der Sonne fast 340000 mal so groß
 als die der Erde, der gemeinschaftliche Schwerpunkt beider Körper 340000 mal
 näher zur Sonne als zur Erde, also nur einige Meilen von dem Mittelpunkte der
 Sonne entfernt.
@@ -218,7 +218,7 @@ Konjunktion mit ihr wären <@pa.seite 97/>, so hätten sie sich fast alle schon 
 Sonne vereinigt, ehe ihnen der Mittelpunkt derselben auch nur um *einen*
 Durchmesser entgegengekommen wäre. Ein ähnliches Verhältniß, obgleich minder
 ausgezeichnet, findet zwischen den Planeten und Trabanten statt. Wir konnten
-daher in den vorhergehenden Vorlesungen die Centralkörper, d. h. die Sonne in
+daher in den vorhergehenden Vorlesungen die Centralkörper, d.h. die Sonne in
 Rücksicht der Planeten und diese in Rücksicht der Trabanten, als in Ruhe
 annehmen, und fast nur die Bewegung der letzteren betrachten. Aus ähnlichen
 Gründen berücksichtigt man bei dem Fall und Druck der irdischen Körper, worin
@@ -319,7 +319,7 @@ als er, gar nicht angezogen; auf ihn wirken also nur die Theile der Kugel, die
 vom Mittelpunkte der Erde nicht weiter entfernt sind als er, oder eine Kugel,
 deren Halbmesser dieser Entfernung gleich ist. Die Masse zweier Kugeln, die aus
 einem gleichförmigen Stoffe bestehn, verhalten sich wie die Würfel ihrer
-Halbmesser. Hätte sich nun z. B. der Körper um ⅓ des Halbmessers der Erde von
+Halbmesser. Hätte sich nun z.B. der Körper um ⅓ des Halbmessers der Erde von
 ihrer Oberfläche entfernt, so ist der Halbmesser der auf ihn wirkenden Kugel
 nur ⅔ von dem der Erde, und wenn wir diese als völlig gleichförmig annehmen
 wollen, die auf ihn wirkende Masse nur ⅔⨉⅔⨉⅔ = <@pa.bruch z="8" n="27"/> der Erdmasse. Aber
@@ -375,7 +375,7 @@ nach kurzer Zeit in sie stürzen, indem die Anziehung der Sonne nicht nur
 ununterbrochen wirkt, sondern sogar wegen der Annäherung des Planeten in
 starkem Verhältnisse zunimmt. Wenn sie wiederum bloß ihrem Beharrungsvermögen
 folgten, indem etwa die Anziehung der Sonne plötzlich aufhörte, so würden sie
-sich in der Richtung, der sie zuletzt folgten, d. h. in der geraden Linie,
+sich in der Richtung, der sie zuletzt folgten, d.h. in der geraden Linie,
 welche die Planetenbahn zu der Zeit, als die Anziehung der Sonne aufhörte,
 berührt, mit gleichförmiger Geschwindigkeit fortbewegen, und sich immer mehr
 von der Sonne entfernen. Durch den Kampf der Anziehung mit der Trägheit aber
@@ -402,7 +402,7 @@ nähern würde, wenn er sich durch seine Trägheit nicht immer wieder entfernte.
 Jenes Bestreben, sich zu entfernen, nennt man die *Flieh-* oder *Schwungkraft*
 (*Centrifugalkraft*), die Anziehung, in so fern man sie sich in einem Punkte
 koncentrirt denkt, die *Centripetalkraft*. Überwiegt diese, so nähert sich der
-Planet oder Komet der Sonne und der Trabant dem Planeten, z. B. in dem Aphel;
+Planet oder Komet der Sonne und der Trabant dem Planeten, z.B. in dem Aphel;
 überwiegt die Fliehkraft, so entfernen sie sich, wie in dem Perihel. Wären die
 Bahnen Kreise, so würden beide Bestrebungen einander beständig gleich und
 entgegengesetzt sein.
@@ -416,7 +416,7 @@ Planeten schwächer als bei den nähern. Auch die Trabanten der drei oberen
 Planeten folgen demselben Gesetze. Bei der Erde, wo nur ein Trabant ist, läßt
 sich zwar die Übereinstimmung nicht auf diese Art nachweisen; aber hier finden
 wir die Schwere an der Erdoberfläche mit der Centripetalkraft der Erde auf den
-Mond übereinstimmend. An der Oberfläche der Erde, d. h.
+Mond übereinstimmend. An der Oberfläche der Erde, d.h.
 <@pagebreak/>
 einen Erdhalbmesser vom Mittelpunkte entfernt, ist die Beschleunigung der
 Schwere etwa 15 Fuß. Auf dem ungefähr 60 mal entferntern Monde muß sie demnach
@@ -431,7 +431,7 @@ Wirkung unbedeutend. So verhält sich’s mit dem Einflusse entfernter Fixsterne
 auf die einzelnen Planeten, so mit der wechselseitigen Anziehung der Planeten,
 die nur den schärfsten Beobachtungen merklich ist. Allein wenn die Masse der
 Körper und ihre Nähe zu einander groß genug ist, so kann der kleinere zu einer
-elliptischen Bahn um den großen gezwungen werden. Es komme z. B. ein kleiner
+elliptischen Bahn um den großen gezwungen werden. Es komme z.B. ein kleiner
 Komet, der bisher eine Ellipse um die Sonne beschrieb, in die Nähe Jupiters, so
 zieht dieses große Gestirn ihn an. Gewöhnlich überwiegt die Geschwindigkeit des
 Kometen und die Anziehungskraft der Sonne die Ablenkung durch den Planeten; ist
@@ -511,7 +511,7 @@ würden aber alle Körper der Oberfläche sich in gerader Linie entfernen, und s
 die Erde allmälig zerstieben, wenn ihnen nicht die Schwere entgegenwirkte,
 welche die Theile wieder dem Mittelpunkte der Erde nähert. Bei allen Körpern,
 die eine Achsendrehung haben, wird die Centrifugalkraft von der
-Centripetalkraft überwogen. Bei der Erde z. B. streben die Theile, sich durch
+Centripetalkraft überwogen. Bei der Erde z.B. streben die Theile, sich durch
 ihre Fliehkraft mit einer Geschwindigkeit von etwa sieben Linien in der Sekunde
 oder <@pa.bruch z="1" n="239"/> der Beschleunigung der Schwere zu entfernen. Diese überwiegt daher
 bei weitem, und jeder Körper fällt dem Mittelpunkte der Erde zu. Ganz ohne
@@ -563,7 +563,7 @@ Indeß ist es möglich, daß nicht alle Theile des Körpers eine gemeinschaftlic
 Achsendrehung haben, sondern daß die entfernteren Schichten der beweglichen
 Atmosphäre, welche jener Zerstreuung vorzüglich unterworfen sind, sich viel
 langsamer um den Körper bewegen, etwa wie ein sich in dieser Entfernung
-befindender Trabant. Dieses scheint z. B. bei den Theilen der Sonnenatmosphäre
+befindender Trabant. Dieses scheint z.B. bei den Theilen der Sonnenatmosphäre
 statt zu finden, welche wir wahrscheinlich in dem Thierkreislicht erblicken (S.
 250.).
 
@@ -622,7 +622,7 @@ Die Achsendrehung sowohl als die elliptische oder Kreisbewegung wird durch die
 Vereinigung des Beharrungsvermögens mit der Anziehungskraft hervorgebracht, und
 man würde sich täuschen, wenn man sie etwa für eine den Körpern eingepflanzte
 Kraft halten wollte. Sie unterscheidet sich indessen von den fortschreitenden
-Bewegungen dadurch, daß sie, bloß von der Anziehung, d. h. der Masse des
+Bewegungen dadurch, daß sie, bloß von der Anziehung, d.h. der Masse des
 Körpers abhängig, den mannigfaltigen Störungen und Ablenkungen, weit weniger
 unterworfen ist als jene.
 
@@ -668,7 +668,7 @@ noch nicht gelungen. Auch bei den übrigen Körpern ist diese Größe noch sehr
 unzuverlässig bestimmt.
 
 Aus der Masse und scheinbaren Größe läßt sich die *Dichtigkeit* leicht berechnen
-<@pa.seite 68/>. Hat z. B. ein Körper 120 mal so viel Rauminhalt und nur 30 mal so
+<@pa.seite 68/>. Hat z.B. ein Körper 120 mal so viel Rauminhalt und nur 30 mal so
 viel Masse als die Erde, so ist seine Dichtigkeit auch nur der vierte Theil
 derselben, oder 0,25, wenn wir die Dichtigkeit der Erde als Einheit annehmen.
 Aber diese Zahlen sind wegen der Ungewißheit der scheinbaren Größe und der
@@ -757,7 +757,7 @@ Himmelskörpern berechnet, deren Masse und Durchmesser bekannt sind.
 Diese Größen sind für alle Erscheinungen der Oberfläche höchst wichtig. Nach
 ihnen richtet sich nämlich die Kraft, die man daselbst anwenden muß, um einen
 Gegenstand vom Boden zu erheben, oder seinen Fall zu verhindern. Mit derselben
-Kraft, womit z. B. der Mensch *einen* Kubikzoll Eisen hebt, hebt er auf dem
+Kraft, womit z.B. der Mensch *einen* Kubikzoll Eisen hebt, hebt er auf dem
 Jupiter etwa ⅖, auf der Sonne nur <@pa.bruch z="1" n="28"/>, auf dem Monde aber 5. Ein Selenit, der
 dieselbe Stärke besäße wie der Mensch, würde also auf dem Monde mit gleicher
 Kraftanstrengung 5 mal so viel 
@@ -796,7 +796,7 @@ zurückzuführen. Wenn wir daher von der Länge eines Pendels reden, so verstehn
 wir darunter die Entfernung jenes Punkts, worin man sich die Masse koncentrirt
 denkt, vom Aufhängepunkte.
 
-Wenn das Pendel in Ruhe ist, so hängt es senkrecht, d. h. in der Richtung der
+Wenn das Pendel in Ruhe ist, so hängt es senkrecht, d.h. in der Richtung der
 Anziehung, sobald es aber durch einen Stoß davon entfernt wird, kehrt es wieder
 mit beschleunigter Bewegung dahin zurück. In der senkrechten Lage angelangt,
 wird es zwar von der Schwere nicht ferner beschleunigt, setzt aber seine
@@ -833,7 +833,7 @@ man in Verbindung mit Gradmessungen in verschiedenen Ländern angestellt hat,
 haben die Unregelmäßigkeit der Erdoberfläche nachgewiesen <@pa.seite 107/>.
 
 Auf die bisher angegebene Weise hat man die Massen der Himmelskörper im
-Verhältnis zur Erde kennen gelernt; wir wissen z. B. daß Jupiter 316 mal so
+Verhältnis zur Erde kennen gelernt; wir wissen z.B. daß Jupiter 316 mal so
 viel Masse hat und ¼ so dicht ist als die Erde, allerdings schon ein
 Fortschritt, den selbst Kepler kaum gehofft haben kann; aber wir befinden uns
 hier in demselben Falle wie oben bei den Entfernungen der Himmelskörper; wir

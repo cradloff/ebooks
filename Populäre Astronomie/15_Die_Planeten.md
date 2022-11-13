@@ -144,7 +144,7 @@ Ihre Reihenfolge ist von dem kleinsten anfangend: <@pa.vesta/>, <@pa.juno/>,
 den größten, die vier
 Mittelplaneten sind die kleinsten, Vesta und Jupiter, die äußersten Glieder der
 Reihe, verhalten sich wie 1:112. Die Zahlen sind zugleich die doppelte
-Parallaxe der Sonne auf den Planeten. Diese ist z. B. für die Erde = 8"55.
+Parallaxe der Sonne auf den Planeten. Diese ist z.B. für die Erde = 8"55.
 
 Eine, zwar für einen äußeren Körper minder auffallende, aber für die Planeten
 selbst höchst wichtige Bewegung ist die um eine durch ihren Mittelpunkt gehende
@@ -160,7 +160,7 @@ eine *Rotation* bemerkt worden. Die Zeit, die bis zur nächsten Wiederkehr der
 Flecken an denselben Ort verfließt, ist die *Rotationsperiode*. Die Beobachtung
 ist zwar nicht schwer, jedoch muß man die verschiedenen Seiten, welche uns der
 Körper durch seine eigene oder unsre Bewegung im Raume zuwenden würde, wohl
-berücksichtigen. So ist es z. B. nicht durch die Rotation, daß wir alle Theile
+berücksichtigen. So ist es z.B. nicht durch die Rotation, daß wir alle Theile
 der Oberfläche eines Körpers sehen, der sich um uns oder um den wir uns drehen;
 bei der Sonne wurde durch unsere Bewegung die Periode um zwei Tage scheinbar
 verlängert.
@@ -205,7 +205,7 @@ Achsendrehung.</caption>
 Die ersten beiden Rubriken enthalten Resultate von Beobachtungen. Man zählt die
 Umläufe, die in einer gewissen längern Zeit statt finden, berücksichtigt die
 wohlbekannten Bewegungen der Erde und des Planeten, und berechnet daraus die
-Dauer eines Umlaufs. Man fand z. B. beim Jupiter in 3 Jahren oder 1096 Tagen
+Dauer eines Umlaufs. Man fand z.B. beim Jupiter in 3 Jahren oder 1096 Tagen
 und 3 Stunden 2652 Umwälzungen; durchs Dividiren erhielt man daraus für *eine*
 Umwälzung die oben angegebene Zeit, ohne daß ein kleiner Fehler in den
 Beobachtungen einen merklichen Irrthum verursachen konnte <@pa.vergl 190/>.
@@ -341,7 +341,7 @@ desto geringer, je langsamer die Kreisbewegung und je schneller die
 Achsendrehung ist. Die Zahlen der dritten Rubrik, welche die Anzahl der
 *sideralen Umläufe* enthält, die der Planet in seinem Jahre macht, würden etwas
 kleiner sein müssen, wenn man statt der Sternentage der Planeten ihre
-Sonnentage genommen hätte; bei der Erde z. B. sind ihrer statt 366,26 nur
+Sonnentage genommen hätte; bei der Erde z.B. sind ihrer statt 366,26 nur
 365,25. Ihre Anzahl, nimmt mit der Entfernung der Planeten von der Sonne zu.
 Keine deutliche Ordnung beobachten die Zahlen der vierten Rubrik, sie ist:
 <@pa.jupiter/>, <@pa.saturn/>, <@pa.uranus/>, <@pa.erde/>, <@pa.venus/>, <@pa.mars/>,

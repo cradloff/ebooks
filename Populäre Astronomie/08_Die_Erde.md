@@ -179,7 +179,7 @@ sie bei der Berechnung der Tabelle nicht berücksichtigt worden. Die
 <@pagebreak/>
 Zahlen gelten sowohl für die nördliche, als südliche Halbkugel. In den ersten 20° ist
 der Unterschied sehr klein, und daher auch die davon abhängigen Erscheinungen,
-z. B. die Ungleichheit der Tags- und Nachtbogen der Sonne unbedeutend. Der
+z.B. die Ungleichheit der Tags- und Nachtbogen der Sonne unbedeutend. Der
 Unterschied nimmt aber in höheren Breiten rasch zu, so daß eine geringe
 Abweichung schon bedeutende Veränderungen verursachen kann.
 
@@ -483,7 +483,7 @@ entfernter sein sollte, als der andre. Aber weder die Farbe, noch die Gestalt
 des Himmels bestätiget jene Ansicht. Was die schöne *Himmelsbläue* verursacht,
 ist sogar jetzt noch nicht völlig bekannt; wahrscheinlich hat die Luft,
 obgleich sie uns, in geringer Masse, völlig durchsichtig erscheint, eine Farbe,
-und ist dadurch andren Gasen, z. B. dem Chlor, dem Joddampfe ähnlich. Welchem
+und ist dadurch andren Gasen, z.B. dem Chlor, dem Joddampfe ähnlich. Welchem
 von den beiden Hauptbestandtheilen der Luft wir das schöne Blau verdanken, oder
 ob dieses durch die Mischung der verschiedenen Farben derselben verursacht
 werde, ist noch unentschieden. Auch kennen wir die Wirkung des luftförmigen
@@ -702,17 +702,17 @@ Venus und Merkur scheinen uns, selbst wenn sie sichelförmig sind, rund zu sein;
 bei den Neumonden, den Sonnen- und Mondfinsternissen wird der erleuchtete Theil
 des Mondes auf Kosten des dunklen vergrößert. So scheint auch ein entferntes
 Licht größer zu sein. Dieses hat die älteren Astronomen oft getäuscht, indem
-sie z. B. dem Sirius einen Durchmesser von 4’ gaben. Durch Fernröhre wird die
+sie z.B. dem Sirius einen Durchmesser von 4’ gaben. Durch Fernröhre wird die
 Irradiation sehr vermindert und um so mehr, je besser sie sind; daher die
 seltsame Erscheinung, daß die Fixsterne immer um desto kleiner erscheinen, je
 stärker das Fernrohr vergrößert.
 
 Nach *Smith* kann das Auge keinen Gegenstand mehr für sich unterscheiden,
 dessen scheinbarer Durchmesser kleiner als 40" ist; daher erscheinen eckige
-Gegenstände, z. B. Kirchthürme, in der Entfernung abgerundet; indeß werden
+Gegenstände, z.B. Kirchthürme, in der Entfernung abgerundet; indeß werden
 schmale Streifen viel besser erkannt als Kreise, die nicht breiter sind; ein
 weißer Gegenstand auf schwarzem Grunde erscheint leichter, als umgekehrt, und
-bei sehr glänzenden Gegenständen, z. B. Sternen, dehnt sich durch Irradiation
+bei sehr glänzenden Gegenständen, z.B. Sternen, dehnt sich durch Irradiation
 das Bild so sehr aus, daß es dem Auge sichtbar werden kann; daher Fixsterne,
 deren Durchmesser keine halbe Sekunde beträgt, deutlich unterschieden werden
 können. Die Astronomen, welche den Himmelskörper durch das Fernrohr zu

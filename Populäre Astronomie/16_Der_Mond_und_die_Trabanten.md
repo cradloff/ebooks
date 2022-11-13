@@ -28,7 +28,7 @@ der sich dergestalt um uns
 bewegt, daß er uns stets sein Gesicht zukehrt, sich auch nach und nach allen
 Weltgegenden zuwendet. Würde man dem Monde die Bewegung um die Erde rauben, so
 würde sein Mittelpunkt ruhen, aber seine Oberfläche sich nach wie vor um
-denselben drehen, und jedem außerhalb ihrer Bahn gelegenen Himmelskörper, z. B.
+denselben drehen, und jedem außerhalb ihrer Bahn gelegenen Himmelskörper, z.B.
 der Sonne, allmälig alle ihre Seiten zuwenden, so wie es die Erde und alle
 übrigen Planeten auch in Rücksicht ihres Centralkörpers, der Sonne, thun. Es
 tritt aber hierbei die sehr merkwürdige Erscheinung ein, daß die
@@ -414,16 +414,16 @@ Versuch gelang dieses nur höchst unvollkommen. Das größte Verdienst erwarb si
 Mond. Er glaubte, Meere und Länder, Seen und Inseln, Berge und Thäler im Monde
 zu erblicken, und benannte die Stellen nach ähnlichen Gegenden auf der Erde. So
 sah man im Monde das Mittelländische und Schwarze Meer, Korsika und Sardinien,
-den Berg Sinai u. a. Vier Jahre nachher entwarf *Riccioli* in Bologna eine
+den Berg Sinai u.a. Vier Jahre nachher entwarf *Riccioli* in Bologna eine
 Mondsbeschreibung; sie stand der ältern des Hevel bedeutend nach, aber er
 benannte die Flecken meistentheils nach den Namen berühmter Astronomen,
-Pythagoras, Kopernikus, Galilei u. a., vergaß auch sich selbst nicht. Diese
+Pythagoras, Kopernikus, Galilei u.a., vergaß auch sich selbst nicht. Diese
 Idee wurde fast allgemein angenommen, und Hevels Namen blieben nur bei
 einzelnen Gegenständen in Gebrauch. Auch *Cassini* (1680), *Lambert* (1774) und
 *Tob. Mayer* (1775) erwarben sich Verdienste um die genauere Bestimmung der
 Mondsoberfläche; aber eine wirkliche Topographie beginnt erst mit *Schröters*
 Arbeiten (1791), der zuerst Karten einzelner Mondländer entwarf, die jetzt kaum
-durch die neuen Frauenhoferschen Fernröhre in den Händen *Gruithuisens* u. a.
+durch die neuen Frauenhoferschen Fernröhre in den Händen *Gruithuisens* u.a.
 verbessert werden können. Die beste Generalkarte des Mondes, die
 Gruithuisensche, liegt der diesem Werke beiliegenden <@pa.karte/> zum Grunde.
 
@@ -478,7 +478,7 @@ gefunden hat, maß daher die Höhe der Berge durch den Schatten. So wie man auf
 der Erde aus dem Schatten eines Berges auf dessen Höhe schließen kann, wenn man
 den Stand der Sonne kennt, so auch beim Monde, wo die Lage der Sonne, wenn wir
 sie auch nicht berechnen wollten, uns durch die Lichtgrenze gegeben ist.
-Vorzüglich gut läßt sich der Schatten in der Nähe der Lichtgrenze, d. h. des
+Vorzüglich gut läßt sich der Schatten in der Nähe der Lichtgrenze, d.h. des
 Sonnenaufganges, messen, weil er da am längsten ist. Man ist hierbei nicht, wie
 bei der Hevelschen Methode, an eine bestimmte Zeit gebunden, sondren kann so
 oft und in so verschiedenen Lagen beobachten, als man will. Auch die *Tiefen*
@@ -490,7 +490,7 @@ entgegengesetzte im Schatten, dagegen bei den Tiefen die letztere die
 erleuchtete ist. Auf dieselbe Weise, wie man die Höhe eines Berges über einen
 andren, oder über eine Ebene mißt, mißt man auch die Höhe der letzteren über
 eine Einsenkung. Man beobachtet sie, wenn der Schatten gerade die Hälfte des
-Fleckens, d. h. die größte Tiefe der Einsenkung erreicht hat. Die Vertiefungen
+Fleckens, d.h. die größte Tiefe der Einsenkung erreicht hat. Die Vertiefungen
 sind meistentheils beckenförmig, viel weiter als tief, und daher ist der
 Mittelpunkt leichter zu bestimmen, oder doch zu schätzen. Es sei <@pa.fig nr="16"/> _PQ_
 ein Stück der Mondsoberfläche, _S_ die Sonne, _T_ der Mittelpunkt der Tiefe und
@@ -519,18 +519,18 @@ einige hohe Gebirgszüge wie die *Mondsappenninen*, die sich zwischen 15° und
 45° nördlicher Breite und 10° östlicher bis 10° westlicher Länge mit geringen
 Unterbrechungen 150 deutsche Meilen weit erstrecken, oft nur *eine* Meile breit
 sind, sich aber auch zu ordentlichen Alpenlandschaften erweitern, deren Gipfel
-10 — 20000 Fuß hoch sind, z. B. in der Nähe von *Huyghens*, oder die Gebirge
+10 — 20000 Fuß hoch sind, z.B. in der Nähe von *Huyghens*, oder die Gebirge
 *Dörfel* und *Leibnitz*, an dem östlichen und südöstlichen Theile der uns
 zugekehrten Scheibe, wovon sieben Kuppen über eine deutsche Meile hoch sind,
 und mit denen also nur der Dolaghir und einige andre tibetanische Berge
 wetteifern können: aber bei weitem die meisten Höhen zeigen sich als
-*Ringgebirge*, d. h. als kreisförmige Wälle, die einen gewöhnlich vertieften
+*Ringgebirge*, d.h. als kreisförmige Wälle, die einen gewöhnlich vertieften
 Raum einschließen. Ihr Durchmesser steigt von einigen 100 Fuß auf 40 — 50
 Meilen. Die Höhe der Wälle, die zuweilen auf allen Seiten 6 — 7000 Fuß hoch
 sind, erhebt sich an einigen Punkten auf 11000 Fuß, verschwindet jedoch
 zuweilen ganz, so daß die kreisförmigen Vertiefungen sich mitten in der Ebene
 befinden. Den umgekehrten Fall, nämlich von Wällen eingeschlossene Ebenen,
-findet man häufiger, z. B. bei *Archimedes* (4 unsrer <@pa.karte/>), *Newton* (südlich
+findet man häufiger, z.B. bei *Archimedes* (4 unsrer <@pa.karte/>), *Newton* (südlich
 von Plato, 2 d. Karte) u.a.m. Obgleich der innere Raum gewöhnlich beckenförmig
 ausgehöhlt, also viel weiter als tief ist, so ist dennoch ihre Tiefe sehr
 bedeutend, wol 11000 Fuß, ja einer von ihnen, *Bernouilli* (etwas nördlich von
@@ -565,7 +565,7 @@ Tiefen können ihr
 <@pagebreak/>
 Dasein nur einer Hebung oder Senkung des Bodens verdanken.
 
-Die ersten Beobachter erklärten sie unbedenklich für *Krater*, d. h. für
+Die ersten Beobachter erklärten sie unbedenklich für *Krater*, d.h. für
 Öffnungen noch rauchender oder erloschener Vulkane, und die Wälle für die aus
 diesen Kratern ausgeworfenen Massen. Allein ein Krater, der einen Durchmesser
 von vielen Meilen hat — der des Ätna hat 4000 Fuß — möchte trotz der Gewalt
@@ -669,7 +669,7 @@ zurückgesunken, oder durch andre uns unbekannte Ursachen verschwunden ist, z.B.
 die nordöstliche Grenze 
 <@pagebreak/>
 der Regenbogenbucht (_Sinus Iridum, C_). Auch jetzt
-ruhen die Kräfte keinesweges. So wurde z. B. der große Fleck Cassini südöstlich
+ruhen die Kräfte keinesweges. So wurde z.B. der große Fleck Cassini südöstlich
 von Plato (2), trotz seiner Größe, von keinem der Beobachter des 17.
 Jahrhunderts gesehn, obgleich ihnen viel kleinere und weniger günstig gelegene
 nicht entgingen; erst im 18. Jahrhundert wurde er beobachtet, und ist also

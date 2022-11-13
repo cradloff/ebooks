@@ -21,7 +21,7 @@ andren, weit weniger wichtigen aber, für deren Abweichungen halten. Um nun jene
 Hauptbewegungen ihrer Richtung und Geschwindigkeit nach angeben zu können,
 müssen wir sie von jenen Abweichungen so unabhängig als möglich machen. Dieses
 geschieht am besten, indem wir einen *Durchschnitts-* oder *mittleren Werth*
-annehmen, z. B. statt des ungleichen Sonnentages die Größe desselben im
+annehmen, z.B. statt des ungleichen Sonnentages die Größe desselben im
 Durchschnitt, oder, um ein einfacheres Beispiel zu wählen: wenn ein Körper bald
 6, bald 6¼, 6⅝, 6¾, oder 6⅞ Fuß von uns entfernt ist, so ist seine Entfernung
 im *Durchschnitt*, oder seine *mittlere Entfernung*
@@ -107,7 +107,7 @@ Orts von
 Ferro 168° 5’ 30", und zieht davon die Länge von Paris ab; der Rest:
 148° 59’ 30", ist die östliche Länge des Orts von Paris.
 
-Sollten mehr als 360° herauskommen, wenn z. B. ein Ort 300° östlich von
+Sollten mehr als 360° herauskommen, wenn z.B. ein Ort 300° östlich von
 Pecking, also von Ferro 434° 7’ 30", und von Paris 414° 7’ 30" entfernt ist, so
 ziehe man 360° ab, und man findet für die östliche Länge von Paris 54° 7’ 30".
 
@@ -348,7 +348,7 @@ zunimmt. Dieses ist auch der Grund, daß die vier Jahreszeiten nicht vor und
 nach jenen vier entsprechenden Punkten sind, sondern auf sie folgen. Auch hier
 wird der regelmäßige Gang der Temperatur durch die Einflüsse der Örtlichkeit
 und der Atmosphäre bedeutend abgeändert; ja die Temperatur der den
-Sonnenstralen weniger ausgesetzten Körper z. B. der Keller, der Quellen und
+Sonnenstralen weniger ausgesetzten Körper z.B. der Keller, der Quellen und
 auch der Oceane, bleibt fast unverändert, daher sie im Sommer kälter und im
 Winter wärmer sind, als die benachbarten Körper der Erdoberfläche.
 
@@ -469,7 +469,7 @@ wegen ihrer größeren Abweichung in der Richtung des Äquators schneller fort.
 Da beide Erscheinungen sich einander zum Theil aufheben, so sind die
 Sommermonate weniger von den übrigen verschieden, als die Wintermonate.
 
-Die *mittlere Geschwindigkeit*, d. h. diejenige, welche die Sonne haben würde,
+Die *mittlere Geschwindigkeit*, d.h. diejenige, welche die Sonne haben würde,
 wenn sie statt einer Ellipse in derselben Zeit einen Kreis gleichförmig
 durchliefe, ist 59’ 8⅓"; aber ihr wirklicher Ort weicht oft sehr von der Lage,
 die sie unter jenen Voraussetzungen haben würde, dem *mittleren Orte* ab. Den
@@ -736,7 +736,7 @@ hundertjährige Anhäufung merklich wird. Zu ihnen gehören die Bewegungen der
 Nachtgleichen und der Apsiden, die Änderungen der Schiefe und die meisten
 kleinen nicht mit angeführten Störungen. Bei den Bestimmungen, die sich auf die
 Größe der mittleren Bewegungen beziehen, werden die periodischen Änderungen
-nicht berücksichtigt, wol aber die säkularen; so daß z. B. in der mittleren
+nicht berücksichtigt, wol aber die säkularen; so daß z.B. in der mittleren
 Schiefe der Ekliptik, oder der Abweichung und geraden Aufsteigung der Sterne,
 die Nutation keine Änderung hervorbringt, wol aber die allmälige Verminderung
 der Schiefe und die Präcession.
@@ -745,7 +745,7 @@ Daß die Bewegung der Erde ohne diese regelmäßigen Störungen auch noch durch
 zufällige Einflüsse von Himmelskörpern, etwa von Kometen, oder durch
 Erscheinungen in ihrem Innern, Änderungen erlitten habe, ist zwar möglich,
 aber bis jetzt noch völlig unentschieden; es ist jedoch, wegen einiger
-seltsamen Phänomene an der Erdoberfläche, z. B. der tropischen Pflanzen und
+seltsamen Phänomene an der Erdoberfläche, z.B. der tropischen Pflanzen und
 Thiere im Norden, der ungeheuren Wassermasse und der Gestalt der Kontinente in
 der Südhalbkugel, nicht ganz unwahrscheinlich.
 

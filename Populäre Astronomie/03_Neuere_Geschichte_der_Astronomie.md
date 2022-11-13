@@ -146,7 +146,7 @@ lehren. Er wurde zu folgender berüchtigten Abschwörungsformel gezwungen: „Ic
 Galilei, im 70sten Jahre meines Alters persönlich vor Gericht gestellt, und die
 Augen gerichtet auf das heilige Evangelium, das ich mit meinen Händen berühre,
 mit aufrichtigem Herzen und Glauben, schwöre ab, verfluche und verabscheue den
-Irrthum, die Ketzerei der Bewegung der Erde u. s. w.” Man erzählt, daß er in
+Irrthum, die Ketzerei der Bewegung der Erde u.s.w.” Man erzählt, daß er in
 dem Augenblicke, wo er aufstand, empört, zu einem falschen Eide gezwungen zu
 sein, mit dem Fuße stampfend, gesagt habe: „Und doch bewegt sie sich.”
 

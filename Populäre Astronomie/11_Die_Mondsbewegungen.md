@@ -221,7 +221,7 @@ Zeit Monate ein. <@pa.seite 14/>. Die *goldne Zahl des Meton*, oder die Periode 
 Sonnenjahren zu 365¼ Tagen enthält 235 synodische Monate. In 19 Mondenjahren =
 228 Monaten mußten sieben Monate eingeschaltet werden. Dieses ist die Grundlage
 der Kalender fast aller Völker, die nach Sonnenjahren rechnen und doch
-Mondsmonate haben, z. B. bei den Juden. Mit dem Jahre von 365 Tagen, das die
+Mondsmonate haben, z.B. bei den Juden. Mit dem Jahre von 365 Tagen, das die
 meisten alten Völker hatten, stimmt die *Sothische Periode* <@pa.seite 5/> von 25
 Jahren oder 9125 Tagen gut, in welchen 309 synodische Monate, also 9
 Schaltmonate sind. Diese Zahl mit 1460 multiplicirt gibt 36500 Jahre, in
@@ -342,7 +342,7 @@ Schattenkegel.
 Den Raum, welcher nur einen Theil des Lichts empfängt, nennt man den
 *Halbschatten*; er zeigt sich überall, wo das Licht mehr als ein glänzender
 Punkt ist, und erstreckt sich stets in’s Unendliche; er umgibt den *Schatten*
-d. h. den Ort, wohin gar kein Licht von jenem leuchtenden Körper kommt.
+d.h. den Ort, wohin gar kein Licht von jenem leuchtenden Körper kommt.
 
 Bei den Finsternissen, zu denen wir uns jetzt
 <@pagebreak/>
@@ -362,7 +362,7 @@ ganze Mond, *partial*, wenn er uns nur theilweise verfinstert ist; in sehr
 seltenen Fällen, oder eigentlich mit völliger Genauigkeit nie, befinden sich
 die Mittelpunkte der drei Weltkörper in *einer* geraden Linie: dann ist die
 Finsterniß *central*. Wenn uns die Zeit ihres Anfangs aus astronomischen
-Ephemeriden für irgend einen Ort, z. B. Paris, bekannt ist, und man hat den Ort
+Ephemeriden für irgend einen Ort, z.B. Paris, bekannt ist, und man hat den Ort
 der Ekliptik, in dessen Zenith jetzt die Sonne ist, berechnet, so hat der
 diesem entgegengesetzte Ort der Erde den Mond in seiner Scheitel, und die ganze
 Erdhalbkugel, in deren Mitte dieser Ort ist, sieht den Anfang der
@@ -373,7 +373,7 @@ da der Stand der Sonne in verschiedenen Meridianen verschieden ist, so ist es
 auch die Zeit, und man muß die für einen gewissen Ort angegebene Zeit in die
 Zeit des Beobachtungsorts
 <@pagebreak/>
-verwandeln. In Paris z. B. ist den 2ten September
+verwandeln. In Paris z.B. ist den 2ten September
 1830 um 11 Uhr Abends eine totale Mondfinsterniß; in Berlin, das etwa 11°
 östlich ist, ist es alsdann 44 Min. später <@pa.seite 95/>; die Finsterniß ist also
 dort etwa ¼ Stunde vor Mitternacht.
@@ -385,7 +385,7 @@ Der Mond erhält nämlich noch etwas von der Erdatmosphäre zurückgestraltes
 Licht. Dieses ist aber an Stärke und Farbe sehr von dem Zustande unsrer
 Atmosphäre abhängig; gewöhnlich erscheint der Mond, zum großen Entsetzen der
 Abergläubischen, wie eine glühende Kohle; indeß ist er bei jeder Finsterniß
-anders, ja zuweilen verschwindet er ganz, so daß ihn z. B. den 25. April 1642
+anders, ja zuweilen verschwindet er ganz, so daß ihn z.B. den 25. April 1642
 Hevel selbst durch Fernröhre nicht entdecken konnte.
 
 Wenn der Mond sich in der Ekliptik bewegte, so würde in jedem Vollmonde eine
@@ -426,11 +426,11 @@ liegen, ist sie *central*. Die partialen Finsternisse erstrecken
 sich wol über
 einen Kreis der Erdoberfläche, der einen Durchmesser von 70° hat. Die Größe des
 verfinsterten Theils bestimmt man hier, wie bei den Phasen des Mondes und der
-Planeten, durch die Anzahl der *Zolle* d. h. Zwölftel der Sonnen- oder
+Planeten, durch die Anzahl der *Zolle* d.h. Zwölftel der Sonnen- oder
 Mondscheibe.
 
 Die Zeit dieser Finsternisse ist nicht für alle Theile der Erde dieselbe,
-sondern die Mitte des Schattens, d. h. die Linie welche, durch die Mittelpunkte
+sondern die Mitte des Schattens, d.h. die Linie welche, durch die Mittelpunkte
 der Sonne und des Mondes gezogen, unsre Erde berührt, bewegt sich rasch über
 sie hin. Der Schatten einer Wolke, die von den Winden über Berge und Thäler
 fortgerissen, einigen Zuschauern das Licht der Sonne verbirgt, und andren
@@ -480,7 +480,7 @@ Knotenlinie kommt. Sie ist jedoch nicht völlig genau; die Perioden Hipparchs
 <@pa.seite 196/> kommen der Wahrheit näher. Die Finsternisse wiederholen sich in einem
 solchen Zeitraume in derselben Reihefolge, und wenn diese einmal durch
 Erfahrung festgesetzt ist, so kann man leicht die Finsternisse vorausbestimmen;
-so konnte z. B. Halley aus der den 22. Juni 1666 beobachteten Finsterniß leicht
+so konnte z.B. Halley aus der den 22. Juni 1666 beobachteten Finsterniß leicht
 auf die ähnliche vom 2. Juli 1684 schließen. Der chaldäischen Periode bedienten
 sich auch wahrscheinlich Thales und die alten Ägypter. In dieser Zeit sind
 gewöhnlich 70 Finsternisse, 29 Mond- und 41 Sonnenfinsternisse; die Anzahl

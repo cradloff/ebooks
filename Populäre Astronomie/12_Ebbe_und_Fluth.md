@@ -120,7 +120,7 @@ diese Periode etwas kürzer <@pa.seite 197/>, die Fluthen aber sind stärker. Di
 findet auch im Apogeum statt. Wir wollen seine Fluth _B_ nennen.
 
 Beide Körper bestimmen durch ihre Anziehung das Steigen und Fallen des Wassers,
-indem die Einwirkung der andren Himmelskörper völlig unmerklich ist. Wenn z. B.
+indem die Einwirkung der andren Himmelskörper völlig unmerklich ist. Wenn z.B.
 durch die Wirkung der Sonne das Wasser 1½ Fuß über seiner mittleren Höhe stehen
 würde, durch den Mond aber 2¾ Fuß darunter, so wird die Erniedrigung 2¾ - 1½ =
 1¼ Fuß sein. Man geht indeß gewöhnlich bei den Berechnungen nicht von dem
@@ -175,7 +175,7 @@ bei St. Malo gar 50 Fuß. Man nennt diese hohen Wasserstände *Springfluthen*;
 sie entstehn nicht sowohl durch ein sichtbares Zuströmen des Meeres, sondern
 durch ein Heben desselben. Diese Größen hängen zwar von der Beschaffenheit der
 Ufer ab, beobachten aber in ihren verhältnißmäßigen Größen die oben
-entwickelten allgemeinen Gesetze. So fand man z. B. in Brest, als daselbst auf
+entwickelten allgemeinen Gesetze. So fand man z.B. in Brest, als daselbst auf
 Laplace’s Veranlassung Beobachtungen angestellt wurden, im Durchschnitt von
 mehreren Jahren folgende Resultate: die größte Höhe der Fluth über die Ebbe in
 den Syzygien der
@@ -189,7 +189,7 @@ den Syzygien der
 <tr><td>die kleinste Höhe in den Quadrat. der Sonnenwenden</td> <td> 9 68</td></tr>
 </table>
 
-Die Höhe scheint in den freien Meeren im Durchschnitt 3 Fuß zu betragen, z. B.
+Die Höhe scheint in den freien Meeren im Durchschnitt 3 Fuß zu betragen, z.B.
 am Vorgebirge der guten Hoffnung, bei Guinea, Sumatra, Martinique 4 Fuß; bei
 Eumana nur 13 Zoll, Vandiemensland 18 Zoll. Auffallend niedrig in Otaheite 12 —
 14 Zoll. In den amerikanischen Polarmeeren fand Parry starke Ebbe und Fluth,
@@ -198,7 +198,7 @@ erstreckt sich die Fluth aus den Oceanen, z.B. in den Maragnon 120 Meilen
 weit; in kleinere Flüsse nach Verhältniß ihrer Mündung.
 
 Bei nicht ganz freier Bewegung finden auch in der Zeit der Fluth
-Unregelmäßigkeiten statt, z. B. in St. Malo 6 Stunden, bei Dieppe 10½ Stunden
+Unregelmäßigkeiten statt, z.B. in St. Malo 6 Stunden, bei Dieppe 10½ Stunden
 nach der Kulmination des Mondes. Von dieser Zahl und dem Mondlaufe sind nun die
 übrigen Zeitbestimmungen abhängig; man nennt sie deshalb den *Hafensatz*
 (_Etablissement du port_).
@@ -206,7 +206,7 @@ nach der Kulmination des Mondes. Von dieser Zahl und dem Mondlaufe sind nun die
 In offenen Meeren sind die Zeiten, in welchen das Wasser steigt und fällt,
 einander gleich; in gleichen Zeiten nach dem höchsten oder niedrigsten Stande
 hat das Wasser gleiche Höhe. An den Ufern finden aber wol Ausnahmen davon
-statt, z. B. bei Brest gebraucht das Meer zuweilen 14½ Minuten mehr Zeit zum
+statt, z.B. bei Brest gebraucht das Meer zuweilen 14½ Minuten mehr Zeit zum
 Fallen als zum Steigen.
 
 Dieses sind die vorzüglichsten Erscheinungen der für den Seefahrer so sehr
@@ -244,7 +244,7 @@ davon befindet, die
 Geschwindigkeit des Schiffes mißt. Wahrscheinlich wird sie
 durch eine andre sehr allgemeine Strömung von den *Polen nach dem Äquator* hin
 veranlaßt, deren Ursachen zwar nicht ganz bekannt sind, wobei jedoch die
-physikalen Eigenschaften des Meers z. B. sein specifisches Gewicht von Einfluß
+physikalen Eigenschaften des Meers z.B. sein specifisches Gewicht von Einfluß
 zu sein scheinen. Die Gewässer der Polarmeere kommen aus der höheren Breite, wo
 die Achsendrehung den Körpern der Oberfläche nur eine geringe Geschwindigkeit
 nach Westen ertheilt, in Gegenden, wo diese viel bedeutender ist. Das Wasser
@@ -325,7 +325,7 @@ sind jene großen Winde nicht in allen Jahrszeiten merklich.
 
 Die Strömungen des Meeres und der Luft sind von der höchsten Wichtigkeit für
 die Verbindung der Völker, und selbst für die Kultur ganzer Welttheile. Ja
-ihnen verdankt z. B. ganz Amerika, wie Humboldt bemerkt, einen Theil seiner
+ihnen verdankt z.B. ganz Amerika, wie Humboldt bemerkt, einen Theil seiner
 Bevölkerung, indem die durch die Ostwinde gefahrlos hingeführten Schiffe eine
 mühsame und von Vielen gemiedene Rückfahrt haben. So einflußreich aber diese
 Strömungen auch auf die Entwickelung des Menschengeschlechts sind, so sind ihre

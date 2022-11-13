@@ -54,7 +54,7 @@ hindurch nur ein Spiel der Phantasie, die Sterne zu betrachten und zu benennen,
 so begann allmälig ein ernsteres Geschäft, indem die Veränderungen der
 Jahreszeiten und die Arbeiten des Ackerbaues nach den Erscheinungen der
 Fixsterne bestimmt wurden. Der unvollkommne und meistentheils mit dem
-Sonnenlaufe nicht übereinstimmende Kalender <@pa.seite 195/> zwang z. B. die Ägypter,
+Sonnenlaufe nicht übereinstimmende Kalender <@pa.seite 195/> zwang z.B. die Ägypter,
 um nicht von den Überschwemmungen des Nils übereilt zu werden, auf die Zeit zu
 achten, wann der Sirius sich wieder in der Morgendämmerung zeigte, nachdem er
 eine Zeitlang von der Sonne verdunkelt gewesen war. Andre Sterne zeigten ihnen
@@ -88,7 +88,7 @@ als Ibis, Affen, Elephanten oder sonst mit thierischen Theilen gedacht wurden,
 wovon sich keine Ähnlichkeit unter den Sternbildern findet. Einige kleinere
 Sternbilder, die ohne die physischen Beziehungen nicht von den übrigen
 ausgezeichnet worden wären, und deren Sterne zu andren Bildern gezogen waren,
-wie z. B. die Wage, die Fische, wurden wahrscheinlich erst später gebildet, und
+wie z.B. die Wage, die Fische, wurden wahrscheinlich erst später gebildet, und
 erhielten nun den astronomischen Begriffen angemessene Benennungen.
 
 <@pagebreak/>
@@ -153,10 +153,10 @@ aber statt der ägyptischen Namen lesen wir griechische, und aus dem mächtigen
 Ägyptergotte ist ein Jagdhund geworden, der den Orion begleitet.
 
 Die Sternbilder der Neueren haben einen noch mannigfaltigern Ursprung. Bald
-ging man in die Mythen der Alten ein, gab z. B. dem Bootes Jagdhunde, dem
+ging man in die Mythen der Alten ein, gab z.B. dem Bootes Jagdhunde, dem
 Herkules den Cerberus, und fügte auch wol in der Taube mit dem Ölzweige eine
 hebräische Sage hinzu; bald dachte man an die Bewohner und Erzeugnisse der
-Erdzonen, in deren Zenith die Sterne kommen konnten, z. B. der Indianer und der
+Erdzonen, in deren Zenith die Sterne kommen konnten, z.B. der Indianer und der
 Tukan im Süden, das Rennthier im Norden. Oft gab man den Sternbildern Gestalt
 und Namen wissenschaftlicher Werkzeuge; so entstand der Grabstichel, der
 Luftball u.a. am Himmel; nicht selten suchten dadurch die Astronomen Fürsten
@@ -316,13 +316,13 @@ die Anzahl der zugehörigen Sternbilder; die neben den einzelnen Sternbildern
 stehenden, die Anzahl der darin sichtbaren Sterne, eine natürlich sehr
 willkürliche Bestimmung, die an und für sich keine Sicherheit gewährt, sondern
 nur im Allgemeinen die verhältnißmäßige Größe der verschiedenen Sternbilder
-bestimmt. Der Stier z. B. 
+bestimmt. Der Stier z.B. 
 <@pagebreak/>
 der 141 Sterne zählt, und die Jungfrau gehören zu
 den größten Sternbildern des Himmels.
 
 Die einzelnen Sterne wurden sonst durch ihre Lage in dem Sternbilde bezeichnet,
-z. B. das Herz des Löwen, das Auge des Stiers, einige erhielten auch eigene
+z.B. das Herz des Löwen, das Auge des Stiers, einige erhielten auch eigene
 Namen; indeß fühlten die alten Griechen und Römer den Mangel einer genaueren
 Bezeichnung weniger als die Araber, die auf Sternverzeichnisse große
 Aufmerksamkeit verwendeten, und einer großen Anzahl von Sternen eigene Namen
@@ -334,7 +334,7 @@ Augsburg erwarb sich das Verdienst dem Bedürfnisse auf die noch jetzt übliche
 Weise abgeholfen zu haben. Er bezeichnete nämlich den Hauptstern einen Bildes
 mit α, die andren mit den übrigen Buchstaben des griechischen Alphabets;
 reichte dieses nicht aus, so nahm er zu den lateinischen Buchstaben seine
-Zuflucht, und wenn es nöthig war, auch noch zu Ziffern. So ist z. B. der
+Zuflucht, und wenn es nöthig war, auch noch zu Ziffern. So ist z.B. der
 Polarstern, α kleiner Bär, Pollux, β Zwillinge. Am einfachsten wäre es, sich
 fortlaufender Zahlen zu bedienen.
 
@@ -391,8 +391,8 @@ auch wol zur ersten Klasse gezählt: *Deneb* im Schwan, *Kastor* und selbst *Pol
 in den Zwillingen; *Denebola* im Löwen, und *Alfard* in der Wasserschlange.
 
 Die Anzahl der Sterne nimmt allmälig in den folgenden Klassen zu. Nach
-Flamsteads Katalog z. B. sind Sterne der ersten Größe 20, der zweiten 76, der
-dritten 323, der vierten 512 u. s. f. Andre geben etwas verschiedene Zahlen,
+Flamsteads Katalog z.B. sind Sterne der ersten Größe 20, der zweiten 76, der
+dritten 323, der vierten 512 u.s.f. Andre geben etwas verschiedene Zahlen,
 überall aber ist die Zunahme rasch.
 
 Es ist übrigens nicht leicht, die Sterne am Himmel zu zählen. Nicht wegen ihrer
@@ -485,7 +485,7 @@ Stiers gerechnet.
 Das Sternbild des *Herkules* hat in der That einige Ähnlichkeit mit einem
 knieenden oder springenden Riesen, worin natürlich jedes Volk *seinen* Heros sah.
 Die Chaldäer ihren Nimrod, und die Griechen den Herkules, Orpheus, Theseus,
-Nessus u. a. Herkules behielt die Oberhand, und es war natürlich daß man den
+Nessus u.a. Herkules behielt die Oberhand, und es war natürlich daß man den
 *Drachen*, der sich um die Bären schlingt, und den die Bibel schon kennt, zur
 lernäischen Schlange machte, welcher Herkules auf den Kopf tritt, oder zum
 Hüter der hesperischen Gärten. *Cerberus*, oder vielmehr die dreiköpfige
@@ -567,7 +567,7 @@ Griechen deuten es auf ein von Merkur dem Kastor geschenktes Pferd.
 
 Der *Schlangenträger* endlich wird von den Griechen auf Äskulap gedeutet; aber
 auch alle andren griechischen Heroen, die mit Schlangen kämpften, werden damit
-in Verbindung gebracht, so Jason, Laokoon, Herkules u. a. Im letztern Falle ist
+in Verbindung gebracht, so Jason, Laokoon, Herkules u.a. Im letztern Falle ist
 es die lernäische Schlange. Die Mauren in Afrika sollen zwar auch eine Schlange
 haben, statt des Mannes aber einen Kranich.
 
@@ -604,7 +604,7 @@ können.
 Auf ähnliche Weise wie den kleinen Hund deutete man auch den *großen Hund*; aber
 *Sirius* ist ein viel zu ausgezeichnetes Gestirn, als daß er nicht eine
 Hauptrolle in der astronomischen Mythologie übernehmen sollte. In der That war
-er in Ägypten ein Bild des hundsköpfigen Gottes *Anubis*. Sein Aufgang, d. h.
+er in Ägypten ein Bild des hundsköpfigen Gottes *Anubis*. Sein Aufgang, d.h.
 die Zeit, wann er wieder in der Morgenröthe sichtbar wurde, nachdem er einige
 Zeit von der Sonne verdunkelt war, wurde von den Ägyptern sehr genau
 beobachtet, weil alsdann das Steigen des Nils begann, und veranlaßte dadurch
@@ -681,7 +681,7 @@ der Rückkehr, daß er von der Schlange aufgehalten worden sei, die ihn nicht an
 die Quelle habe lassen wollen. Apollo aber stellte, als er den Ungrund der
 Beschuldigung erfuhr, den Raben zur Strafe neben den Becher und die Schlange
 mußte ihm das Trinken verwehren. Den Becher deutete man auch auf alle
-mythischen Becher, den des Herkules, Apollo, Bacchus u. m. a. Seine Sterne
+mythischen Becher, den des Herkules, Apollo, Bacchus u.m.a. Seine Sterne
 wurden wol zu der Jungfrau oder dem Löwen gezogen. Unter der Schlange dachte
 man sich auch die lernäische.
 
@@ -749,7 +749,7 @@ ein Werk des Zufalls oder die Folge von Ungenauigkeiten
 ist, sondern auf Beobachtungen beruht, so können
 wir leicht auf die Zeit schließen, in welcher sie
 verfertigt worden sind. Die Nachtgleichenpunkte seien
-z. B. 40° von den unsrigen verschieden; da dieses vor
+z.B. 40° von den unsrigen verschieden; da dieses vor
 etwa 2880 Jahren oder 1050 Jahre vor Christi
 Geburt statt fand, so paßt der Thierkreis nur auf
 diese Zeit. Auf die Verfertigung desselben läßt sich
@@ -811,7 +811,7 @@ zu werden anfängt, bis auch sein östliches Ende wieder ganz sichtbar wird, so
 ist der Zwischenraum natürlich noch größer.
 
 Mit Hilfe einer künstlichen Himmelskugel können alle diese Zeiten für irgend
-einen Ort leicht gefunden werden. So findet man z. B. für die Zeitpunkte der
+einen Ort leicht gefunden werden. So findet man z.B. für die Zeitpunkte der
 kosmischen, akronyktischen und heliakischen Aufgänge des Sirius, in Leipzig den
 8\. August, 8. Februar und 23. August; für die Untergänge den 17. November, 17.
 Mai und 27. April. So bedeutend ist der Unterschied zwischen diesen Aufgängen
@@ -916,7 +916,7 @@ Siebengestirns nach Atlas und seiner Familie benannt sind, indeß sind jetzt
 darin nur sechs von der 5ten bis 6ten Größe sichtbar der siebte soll »mit
 fliegenden Haaren« davon 
 <@pagebreak/>
-gegangen sein, d. h. wahrscheinlich als Komet, welches ohne Zweifel auf einer
+gegangen sein, d.h. wahrscheinlich als Komet, welches ohne Zweifel auf einer
 Täuschung beruht. Sehr verbreitet bei den Arabern und Deutschen ist die Benennung
 das *Huhn* und die *Küchlein*, weil ein Stern dritter Größe, *Alcyone*, von kleinern
 umgeben ist. Der griechische Name, die *Plejaden*, der ursprünglich wol nur *viele
@@ -926,7 +926,7 @@ Morgendämmerung wieder sichtbar wurden.
 
 Die *Zwillinge* haben ihren Namen offenbar von den paarweise gestellten Sternen.
 Bei den Griechen waren es *Kastor* und *Pollux*, Apollo und Herkules, Theseus und
-Pirithous u. a. m. Die neun griechischen Dichter beziehn sie fast nur auf Kastor
+Pirithous u.a. m. Die neun griechischen Dichter beziehn sie fast nur auf Kastor
 und Pollux. Bei den Orientalen waren hier früher ein Paar Ziegen, und bei den
 Ägyptern ein Jüngling und ein Mädchen, welche sich die Hände reichten. Vielleicht
 ein Symbol der sich wieder verjüngenden und schaffenden Natur.
@@ -953,7 +953,7 @@ Haares, auf die Reife der Früchte gedeutet. Er ist bei den Griechen natürlich
 der nemäische Löwe.
 
 Die *Jungfrau* war bald die ägyptische Göttin Isis, bald die syrische Atergatis,
-bald Ceres, Fortuna, die Friedensgöttin, Themis u. a. Auch bei den
+bald Ceres, Fortuna, die Friedensgöttin, Themis u.a. Auch bei den
 Arabern war hier eine Jungfrau mit einer Garbe.
 Die Flügel sind ihr erst später beigelegt. Es ist nach Einigen Erigone, die
 sich ihrem von den Schäfern <@pa.seite 392/> getödteten Vater Ikarus in den Brunnen
@@ -1038,7 +1038,7 @@ Mittagskreisen auf. Man sieht hierbei freilich die Sterne nicht ganz in
 derselben Lage wie am Sternhimmel, oder in der Hohlkugel, sondern was hier
 rechts ist, ist dort links und umgekehrt, welches besonders merklich ist, wenn
 man nicht nur die einzelnen Sterne, sondern auch die Bilder zeichnet, unter
-welchen sie vorgestellt werden; wenn z. B. Herkules uns das Gesicht, und
+welchen sie vorgestellt werden; wenn z.B. Herkules uns das Gesicht, und
 Andromeda die linke Seite zukehrt, so müßte uns eigentlich hier jener den
 Rücken, und diese die rechte Seite zuwenden; Es wird jedoch in diesem, freilich
 auch unwesentlichen Punkte, keine große Genauigkeit beobachtet.
@@ -1113,7 +1113,7 @@ Horizonte steht, so werden alle
 <@pagebreak/>
 Sternbilder, die keine 52° von ihm entfernt
 sind, bei uns niemals untergehn. Zu diesen gehören die beiden Bären, der
-Drache, Cepheus, Kassiopea u. a. Diese Sternbilder, die wir in jeder heitern
+Drache, Cepheus, Kassiopea u.a. Diese Sternbilder, die wir in jeder heitern
 Nacht vor Augen haben, sind also leicht zu lernen, und an sie können dann die
 übrigen, nach und nach erscheinenden, angereiht werden. Auch Perseus, der
 Fuhrmann, Andromeda, der Schwan und Herkules bleiben größtentheils über dem
@@ -1130,15 +1130,15 @@ Zeiten des Tages ein, und nur diejenigen, bei denen die Sonne weit genug unter
 unsrem Horizonte ist, sind uns sichtbar; daher können wir nicht jeden Anblick
 des Himmels in allen Jahreszeiten beobachten.
 
-Die Sterne bewegen sich von Osten nach Westen über uns, so, daß z. B. die
+Die Sterne bewegen sich von Osten nach Westen über uns, so, daß z.B. die
 Sternbilder des Thierkreises nach der Reihe über uns wegziehen; auf die
-Zwillinge folgt der Krebs, auf diesen der Löwe u. s. f. Da ihrer 12 und im Tage
+Zwillinge folgt der Krebs, auf diesen der Löwe u.s.f. Da ihrer 12 und im Tage
 24 Stunden sind, so wird jedes folgende Zeichen immer ungefähr 2 Stunden später
 aufgehn, kulminiren und untergehn. Nun legt aber die Sonne in diesen
 Sternbildern täglich etwa 
 <@pagebreak/>
 1°, oder monatlich im Durchschnitte ein Sternbild
-zurück, und zwar ebenfalls nach der Ordnung der Zeichen; wenn also z. B. vor
+zurück, und zwar ebenfalls nach der Ordnung der Zeichen; wenn also z.B. vor
 einem Monate etwa um Mitternacht die Zwillinge eine gewisse Lage zur Sonne und
 am Himmel hatten, so hat sie jetzt der Krebs, und wieder in einem Monate wird
 sie der Löwe haben; die Zwillinge dagegen haben diese Lage jetzt 2 Stunden, und
@@ -1179,15 +1179,15 @@ Unsre Karte gibt nun den Anblick des Himmels für jeden Tag im Jahre etwa 10½
 Uhr Abends<@refnote 1 "" ""/>, und es ist immer der dem Namen des Monats und des Tages
 anstoßende Theil bis etwa 50° über den Nordpol hinaus sichtbar; der
 entgegengesetzte Theil der Karte enthält dagegen die uns alsdann nicht
-sichtbaren Sterne. Den 15sten September 10 Uhr Abends sieht man z. B. die
+sichtbaren Sterne. Den 15sten September 10 Uhr Abends sieht man z.B. die
 Milchstraße im Scheitel, und in ihr die schönen Sternbilder, den Adler, den
-Schwan, Kassiopea, Perseus, den Fuhrmann u. a.; rechts von der Milchstraße den
-Schlangenträger, die Leier, Herkules, die Krone, Bootes u. a., worunter sich
+Schwan, Kassiopea, Perseus, den Fuhrmann u.a.; rechts von der Milchstraße den
+Schlangenträger, die Leier, Herkules, die Krone, Bootes u.a., worunter sich
 mehrere Sterne erster Größe befinden; links neben der
 <@pagebreak/>
 Milchstraße glänzen unter andren Andromeda, Pegasus und der Stier. Im Meridiane
 sind der Wassermann, Pegasus, wozu noch die jeden Abend sichtbaren Sternbilder
-der Bären, des Drachen u. s. w. kommen. Indem man abwechselnd die Karte und den
+der Bären, des Drachen u.s.w. kommen. Indem man abwechselnd die Karte und den
 Himmel betrachtet, zuerst den Polarstern, den man mittelst der zwei ersten
 Sterne des großen Bären leicht finden kann <@pa.seite 392/> aufsucht, und dann die
 ebenfalls bald zu erkennende Milchstraße, so kann man leicht die Lage aller

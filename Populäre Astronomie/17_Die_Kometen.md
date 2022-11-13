@@ -141,7 +141,7 @@ die meistentheils teleskopischen Kometen bemerken sollen; daß sie weder am
 Tage, noch in der hellen Dämmerung erscheinen können — in der totalen
 Sonnenfinsterniß der Jahre 60 v. Chr., 409 und 1491 n. Chr. sah man Kometen am
 Himmel —; daß sie hoch genug über unseren Horizont steigen müssen, also nicht
-zu südlich sein dürfen — weshalb uns z. B. der enkische Komet i. J. 1822
+zu südlich sein dürfen — weshalb uns z.B. der enkische Komet i. J. 1822
 unsichtbar geblieben ist und daß uns selbst in günstigen Fällen bei heiterem
 Himmel viele durch Zufall entgehen können: so darf man ihre Anzahl wenigstens
 auf eine Million setzen, obgleich uns im Durchschnitt jährlich nur zwei
@@ -157,7 +157,7 @@ indirekt, bald gar nicht zu bewegen scheinen; aber wie wir bei den Kometen
 überall Extreme finden, so zeigt sich dieses auch in der geocentrischen
 Bewegung. Viele sind mehrere Wochen über unsrem Horizont, andre gehn in langer
 Zeit nicht unter; einige scheinen kaum an der Himmelskugel fortzurücken,
-dagegen beschrieb z. B. der Komet von 1769 in einem Monate 60°, der von 1760 in
+dagegen beschrieb z.B. der Komet von 1769 in einem Monate 60°, der von 1760 in
 einem Tage 41½ und der von 
 <@pagebreak/>
 1472 sogar 120°. Dieses hängt von den Elementen der
@@ -181,7 +181,7 @@ lernt, welche der Ellipse in ihrer Sonnennähe am nächsten kommt; die ganze
 Ellipse vermochte man aber früher nur durch die Rückkehr desselben Kometen zu
 finden. So wurde die Bahn der Kometen von 1680 und 1682 bestimmt, indem man mit
 ihnen die Bahnen früher beobachteter Kometen verglich. Die *elliptische*
-Berechnung, d. h. die vollständige Bestimmung der Kometenellipse hat man erst
+Berechnung, d.h. die vollständige Bestimmung der Kometenellipse hat man erst
 in den neuesten Zeiten aus einem einmaligen Erscheinen des Kometen zu berechnen
 gewagt. Und, dennoch sind nur drei vollständige Beobachtungen nöthig, um die Lage 
 <@pagebreak/>
@@ -205,7 +205,7 @@ Wir wenden uns nun zu den *Kometen* selbst. Anaxagoras und Demokrit hielten sie
 für das zusammenfließende Licht mehrerer Planeten, eine Erklärung, welche sie,
 wahrscheinlich eben so wenig verstanden, als wir. Aristoteles, dessen
 Ansichten, wenn auch nicht von Irrthum, doch wenigstens von Unsinn frei waren,
-hielt sie wie die Sternschnuppen, Meteorsteine u. a. für eine Wirkung unsrer
+hielt sie wie die Sternschnuppen, Meteorsteine u.a. für eine Wirkung unsrer
 Atmosphäre, eine freilich sehr bequeme Erklärung, wenn er uns nur angegeben
 hätte, wie sie in unsrer Atmosphäre entstehen. Zwar hatte Seneka sehr helle
 Ansichten über die Kometen, die er mit Pythagoras für Himmelskörper erklärte,
@@ -240,14 +240,14 @@ Umstand ausgezeichnet ist.
 Die *Gestalt* der Kometen scheint sphäroidisch zu sein, so daß der größte
 Durchmesser der Sonne zugekehrt ist, ähnlich dem muthmaßlichen Verhältnisse des
 <@pagebreak/>
-Mondes zur Erde <@pa.seite 208/>; z. B. bei dem Kometen des Jahrs 1744 verhielten sich
+Mondes zur Erde <@pa.seite 208/>; z.B. bei dem Kometen des Jahrs 1744 verhielten sich
 die beiden Durchmesser wie 3:2. Die *Größe* der Scheibe ist sehr verschieden,
 zuweilen von der scheinbaren Größe der Sonne und des Mondes, wie in den Jahren
 146 v. Chr., 59 (zu Nero’s Zeiten), 1006 und 1652 nach Chr., zuweilen nur durch
 die schärfsten Fernröhre zu erkennen. Indeß sind die Messungen ihrer
 scheinbaren Größen sehr unzuverlässig. Die Atmosphäre ist nicht scharf genug
 begrenzt, daß man sie als Grundlage der Messung betrachten könnte, und die
-Grenze der Atmosphäre und des Kerns ist so undeutlich, daß z. B. Herschel den
+Grenze der Atmosphäre und des Kerns ist so undeutlich, daß z.B. Herschel den
 Durchmesser des Kerns des Kometen von 1811 auf 1000 Meilen und Schröter ihn auf
 120 schätzte, indem sie aus der von ihnen beobachteten scheinbaren Größe und
 der bekannten Entfernung die *wahre Größe* leicht berechnen konnten <@pa.seite 53/>.
@@ -304,7 +304,7 @@ nicht wesentlich von den Planeten unterschieden, welche sie ebenfalls, nur in
 geringerem Grade, besitzen. Aber das *Haar* und der *Schweif*, welche die *meisten*
 Kometen haben, geht den Planeten völlig ab. Der Kopf des Kometen ist noch von
 lockeren haarigen Dünsten umgeben, die ihn sehr zu vergrößern scheinen. Es
-hatte z. B. der Kern des Kometen von 1807 einen Durchmesser von etwa 1½" oder
+hatte z.B. der Kern des Kometen von 1807 einen Durchmesser von etwa 1½" oder
 172 Meilen, die Atmosphäre 45", aber mit dem Haare betrug der Durchmesser der
 Scheibe 6’, also acht mal so viel, wie ohne dasselbe. Dieses bildet nun
 gewöhnlich die Grundlage eines Kegels, der sich von dem Kometen nach der der
@@ -314,12 +314,12 @@ auf, sichtbar zu sein, wenn sein Glanz für *unser* Auge zu schwach wird, einem
 besseren Auge erscheint er in viel größerer Länge; durch ein Fernrohr, das, ihn
 zu sehr vergrößernd, seinen Glanz mindert, wird er kleiner gesehn als durch ein
 gleich gutes, aber weniger vergrößerndes Rohr. Auch bei heiterem Himmel ist er
-viel größer, z. B. der Schweif des Kometen von 1769 schien in London 43° groß,
+viel größer, z.B. der Schweif des Kometen von 1769 schien in London 43° groß,
 in Paris 58°, auf der Insel Bourbon 60° und auf Teneriffa 75°. Man findet sogar
-nicht selten Schweife von 90° Länge, z. B. 1618, 1680, so daß sich auch die
+nicht selten Schweife von 90° Länge, z.B. 1618, 1680, so daß sich auch die
 Erde zuweilen mitten in dieser Dunsthülle befindet. Wiederum sind 
 <@pagebreak/>
-ganz schweiflose Kometen nicht selten z. B. 1585, 1665, 1682. Man darf diese
+ganz schweiflose Kometen nicht selten z.B. 1585, 1665, 1682. Man darf diese
 Schweife nicht mit denen vergleichen, welche die Bahn der Schiffe im Meere,
 oder die der Feuerkugeln in der Luft bezeichnen; diese richten sich nur nach
 dem Wege des Körpers, jene aber nach der Lage der Sonne.
@@ -343,7 +343,7 @@ nicht beobachtet.
 
 Der Schweif ist aber selten regelmäßig, sondern gewöhnlich so gebogen, daß die
 Wölbung nach *der* Seite gerichtet ist, wohin die Bewegung geht, also die Spitze
-zurückgebogen. Diese ist oft gespalten oder fächerförmig z. B. 1744. Sehr oft
+zurückgebogen. Diese ist oft gespalten oder fächerförmig z.B. 1744. Sehr oft
 finden sich zwei Schweife, die wol mit Nordlicht-ähnlichen Stralen 
 <@pagebreak/>
 verbunden
@@ -402,7 +402,7 @@ die Bewegung
 stark, so bildet sich wol ein neuer Schweif. Auch die übrigen
 Änderungen der Gestalt können bei einem von so heftigen Revolutionen
 durchwühlten Körper, wie der Komet in seiner Sonnennähe ist, nicht befremden.
-Eine starke Strömung von warmen Gase kann z. B. den Nebel zum Theil wieder in
+Eine starke Strömung von warmen Gase kann z.B. den Nebel zum Theil wieder in
 Dampf verwandeln, und so das Fächerförmige, Gespaltene des Schweifes
 hervorbringen. Je größer die Wärme, desto geringer ist die Menge des Nebels und
 desto kleiner ist der Schweif; je größer dagegen die Menge des Dampfes ist,
@@ -443,7 +443,7 @@ etwas über die Ursachen anführen, welche die *Excentricität* der Kometen
 fortdauernd *vermindern*. Dieses rührt vielleicht von dem im Weltraume
 verbreiteten dünnen Stoffe, oder auch von der Sonnenatmosphäre her, in welcher
 sich die Kometen oft bewegen. Die Rechnung zeigt, daß ein solcher Widerstand
-die Excentricität beständig mindern werde, dagegen auf die Lage der Bahn, d. h.
+die Excentricität beständig mindern werde, dagegen auf die Lage der Bahn, d.h.
 ihre Neigung zur Ekliptik und ihre Knoten, keinen Einfluß übe. Bei den dichtern
 Planeten findet dieses in so unbedeutendem Grade statt, daß man seit
 Jahrtausenden keine Veränderungen in den Bewegungen der Erde wahrgenommen hat,
@@ -602,7 +602,7 @@ berühmt gewordenen Körper sind daher erst seit wenigen Jahren außer Zweifel
 gesetzt, und seitdem so häufig beobachtet worden, daß man über die
 Hartnäckigkeit der Naturforscher erstaunen muß, die ihr Dasein so lange Zeit
 ganz verwerfen konnten. In Großbritannien und Irland, Frankreich, Deutschland
-und Italien d. h. auf den 33000 Quadratmeilen der Erde, wo man diesen
+und Italien d.h. auf den 33000 Quadratmeilen der Erde, wo man diesen
 Untersuchungen vorzügliche Aufmerksamkeit geschenkt hat, sind in den ersten 22
 Jahren unsres Jahrhunderts 27 Meteorsteinfälle beobachtet worden. Da kein Grund
 bekannt ist, warum auf den 9300000 Q. M. der Erde nicht verhältnißmäßig eben so
@@ -620,7 +620,7 @@ An die eigentlichen Meteorsteine, deren Bestandtheile in verschiedenen
 Verhältnissen gemengte Metalle und Erden sind, reihen sich wahrscheinlich die
 unter den Namen *Meteorregen*, *Meteorstaub* u.a.m. bekannten Erscheinungen. Zwar
 gehören nicht alle aus der Luft gewöhnlich mit Regen oder Schnee herabkommenden
-Körper hierher, indem z. B. der Blut-Regen und Schnee ihre Farbe organischen
+Körper hierher, indem z.B. der Blut-Regen und Schnee ihre Farbe organischen
 Stoffen verdanken; aber viele haben ähnliche Bestandtheile wie die Meteorsteine
 und sind vielleicht kleine Trümmer derselben, die lange in der Atmosphäre
 schwebten und endlich entweder sich von selbst herabsenkten, oder von den

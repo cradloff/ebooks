@@ -35,8 +35,8 @@ vermischt sich mit dem schwachen Lichte, welches den ganzen Himmel bedeckt;
 oder wenn ihrer mehrere neben einander stehn, so vereinigt sich ihr Licht zu
 einer blassen Wolke, worin wir zwar die einzelnen Sterne nicht mehr
 unterscheiden können, deren Schein aber um so stärker wird, je größer die
-Anzahl und der Glanz der Sterne ist. So erscheinen dem ganz schwachen Auge z. B.
-die Plejaden u. a. als kleine Wolken. Ein besseres Auge sieht hier die
+Anzahl und der Glanz der Sterne ist. So erscheinen dem ganz schwachen Auge z.B.
+die Plejaden u.a. als kleine Wolken. Ein besseres Auge sieht hier die
 einzelnen Sterne deutlich, aber ihm werden die Sterne höherer Ordnungen, welche
 dem schwachen Auge ganz verschwanden, eine ähnliche Erscheinung darbieten, und
 da mit der Höhe der Ordnungen die Anzahl der Sterne in raschem Verhältnisse
@@ -77,7 +77,7 @@ Nordpol, oder den nach Norden hin am weitesten von ihm entfernten Punkt des
 Himmels, in der Nähe des Haars der Berenice unter 186° gerader Aufsteigung und
 32° Abweichung, und den Südpol an der entgegengesetzten Seite des Himmels, in
 der Bildhauerwerkstatt hat. Seine Breite ist sehr verschieden, zuweilen bis auf
-2° eingeengt, beträgt sie an andren Stellen, z. B. dem Einhorn 17°. Sie ist
+2° eingeengt, beträgt sie an andren Stellen, z.B. dem Einhorn 17°. Sie ist
 matt beim Perseus, am schmalsten und glänzendsten im Schiff 
 <@pagebreak/>
 und Centauren in
@@ -125,13 +125,13 @@ Sternweiten beträgt, nach der entgegengesetzten Richtung aber, in der Nähe des
 großen Hundes, nur 300, weil hier in einem gleichen Raume nur ⅗ so viel Sterne
 als beim Adler zu sein scheinen. Der Durchmesser des ganzen Rings beträgt also
 etwa 800 Sternweiten. Dieser ungeheuere Raum ist nun ganz mit Sternen besäet,
-wovon wir die uns nahen, d. h. diejenigen, welche nur 6 — 7 Sternweiten (24 —
+wovon wir die uns nahen, d.h. diejenigen, welche nur 6 — 7 Sternweiten (24 —
 28 Billionen Meilen) von uns entfernt sind, mit bloßen Augen sehen. Von jenen,
 <@pagebreak/>
 mehrere hundert Sternweiten entfernten Körpern würde der Glanz der Sonne und
 der Sterne erster Größe denjenigen, welchen die Sterne der Milchstraße für uns
 haben, nicht übertreffen, und alle mit unbewaffnetem Auge sichtbaren Sterne, ja
-selbst die mit mäßigen Fernröhren zu erkennenden, d. h. alle, die sich
+selbst die mit mäßigen Fernröhren zu erkennenden, d.h. alle, die sich
 innerhalb 40 Sternweiten (160 Bill. Meilen) befänden, würden Theile eines
 Nebelflecks sein, dessen einzelne Sterne selbst mit Herschelschen Fernröhren
 kaum als Punkte zu unterscheiden sind.
@@ -257,7 +257,7 @@ sich vielleicht in keiner größeren Entfernung von uns
 befinden, als die Sterne der ersten Größe.
 
 Andre dagegen scheinen, nach ihrer Entfernung und ihrem Glanze, wirklich
-entfernte Milchstraßen zu sein, d. h. große Sternsysteme, oder Gruppen von
+entfernte Milchstraßen zu sein, d.h. große Sternsysteme, oder Gruppen von
 Nebelflecken, in welchen die einzelnen Sterne eine ähnliche Anordnung und Größe
 haben, als in der Milchstraße — wenn auch nicht in derselben Gestalt und
 Ausdehnung, welche bei allen diesen Erscheinungen höchst mannigfaltig sind. Von
@@ -488,7 +488,7 @@ Jahre, wenn von Verwandlungen der Himmelskörper die Rede ist? Aber selbst in
 dieser kurzen Zeit sind, vorzüglich in der zweiten und dritten Klasse, sehr
 bedeutende Veränderungen wahrgenommen worden; die Massen scheinen sich
 größtentheils immer mehr zusammenzuziehen, und die Kerne sich mehr zu
-entwickeln, wie es z. B. vorzüglich beim großen Nebelfleck im Orion beobachtet
+entwickeln, wie es z.B. vorzüglich beim großen Nebelfleck im Orion beobachtet
 ist. In einem Jahrtausend wird der Bildungsgang dieser Körper wahrscheinlich
 mit größerer Genauigkeit angegeben werden können, als jetzt, und vielleicht
 sind die Astronomen dann Zeuge von mehrern Bildungs- und Zerstörungsprocessen
@@ -513,7 +513,7 @@ früher mit Nebelmasse angefüllt, die sich aber durch die Verdichtung von ihnen
 zurückgezogen hat. Vielleicht scheinen sie aber nur dunkler in Vergleich mit
 dem hellern Schimmer der Nebelmasse. Einen ähnlichen Ursprung, wie diese Säume,
 haben vielleicht einige durch ihr Dunkel ausgezeichnete Stellen des Himmels,
-die sich gewöhnlich in der Nähe von vorzüglich hellen Theilen befinden, z. B.
+die sich gewöhnlich in der Nähe von vorzüglich hellen Theilen befinden, z.B.
 im Skorpion, im Fuchs und in den sogenannten *Kohlensäcken* der südlichen
 Halbkugel. Indeß, wenn die Sterne auf die mannigfaltigste Art am Himmel
 verbreitet sind, ist es wol möglich, daß einige Stellen des Himmels
@@ -543,7 +543,7 @@ nicht die letzte Stufe der Weltbildung; denn es finden sich noch andre
 Milchstraßen, mit denen die unsrige in Wechselberührung stehn muß, wenn ihr
 Dasein von Dauer sein soll. Wahrscheinlich befinden wir uns auch hier noch
 nicht an den Grenzen der Stufenleiter. Wie viele Milchstraßen mögen sich zu
-höheren Gruppen vereinigen, und diese wieder zu höheren u. s. f., bis zu einem
+höheren Gruppen vereinigen, und diese wieder zu höheren u.s.f., bis zu einem
 Centralkörper, der alle diese Welten an sich fesselt; oder geht die Stufenfolge
 in’s Unendliche fort, und ist die Anzahl von Welten wirklich unendlich? Aber so
 weit sie auch gehn mag, wir wissen nur, daß, den Mond und vielleicht die

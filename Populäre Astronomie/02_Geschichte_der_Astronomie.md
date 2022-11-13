@@ -145,9 +145,9 @@ genauer als 365¼ Tag bestimmen konnten.
 Merkwürdig sind ein paar Traditionen der ägyptischen Priester: nämlich daß die
 Sonnenbahn einst senkrecht auf dem Äquator gewesen sei, welches eine Idee von
 den Veränderungen der Schiefe der Ekliptik voraussetzt; und zweitens, daß
-während 11340 Jahren die Sonne ihren Lauf 4 mal geändert habe, d. h. wol nur,
+während 11340 Jahren die Sonne ihren Lauf 4 mal geändert habe, d.h. wol nur,
 daß Sonne und Mond ihren Lauf 4 mal zu gleicher Zeit angefangen haben. Denn
-1835 Sonnenjahre, s. v. a. 2922 Mondenjahre, sind gerade ¼ von 11340. Ein
+1835 Sonnenjahre, s.v.a. 2922 Mondenjahre, sind gerade ¼ von 11340. Ein
 Beweis mehr von ihrer genauen Kenntniß der Mondsbahn.
 
 Die *Kometen* hielten sie für Meteore, obgleich schon die Chaldäer ihre Natur
@@ -512,7 +512,7 @@ nicht erklärte, wie diese Kugeln durch ihre Wirkung auf die Planeten die
 mannigfaltigen Bewegungen hervorbringen, so verdient seine Hypothese kaum
 Erwähnung. Viel sinnreicher ist’s, auf einem Umkreise, in dessen Mittelpunkt
 die Erde ist, sich den Mittelpunkt eines andern Umkreises bewegen zu lassen,
-auf welchem sich wieder ein dritter bewegt u. s. f. bis zum letzten Umkreise,
+auf welchem sich wieder ein dritter bewegt u.s.f. bis zum letzten Umkreise,
 auf welchem sich der Körper selbst gleichförmig bewegt. Wenn der Halbmesser
 eines dieser Kreise die Summe der übrigen übertrifft, so wird die scheinbare
 Bewegung des Körpers um die Erde aus einer gleichförmigen mittleren Bewegung

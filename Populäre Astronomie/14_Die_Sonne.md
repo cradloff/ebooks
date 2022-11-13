@@ -40,7 +40,7 @@ Einem Bewohner der Sonne würden sich daher während dieser Zeit dieselben
 Erscheinungen darbieten, wie uns während des Tages, nur daß die Planeten sich
 um ihn in derselben Richtung zu bewegen scheinen, wie die Sterne. Die Sonne hat
 ihre Pole wie ihren *Äquator*, der die Ekliptik in zwei Punkten schneidet,
-wovon der aufsteigende Knoten, d. h. derjenige, durch welchen sich die Flecken
+wovon der aufsteigende Knoten, d.h. derjenige, durch welchen sich die Flecken
 von dem südlichen nach dem nördlichen Theile der Ekliptik begeben <@pa.seite 97/>, von
 der Sonne aus gesehn <@pa.seite 100/> eine Länge von 258°13’5", der absteigende Knoten
 also 11°46’55", hat. Dem Erdenbewohner bieten sich die Folgen der Achsendrehung
@@ -167,7 +167,7 @@ werden auch durch diese Hypothese, wie wir bald sehen werden, die Erscheinungen
 nicht erklärt, und sie bleibt ähnlichen Einwürfen unterworfen, wie jene.
 
 Die Meinung des berühmten cordovischen Arztes *Averrhoes*, *Otto’s* von
-*Guerike* u. v. a., daß die Flecken von Kometen oder Trabanten herrühren, die
+*Guerike* u.v.a., daß die Flecken von Kometen oder Trabanten herrühren, die
 nahe vor der Sonne vorübergehen, wird durch die Ungleichförmigkeit der Bewegung
 der Flecken widerlegt. Die größte Schwierigkeit bei der Erklärung macht die
 große Veränderlichkeit der Flecken. Man kann sie nicht, wie bei dem Monde, für
@@ -294,7 +294,7 @@ nicht in Betracht ziehen können, so müßten sie ja von dem reineren, durch kei
 dichte Atmosphäre getrübten Sonnenlichte eine größere 
 <@pagebreak/>
 Wärme erlangen. Hohe
-Bergebenen, wie Quito, Persien, Tibet u. a., die in wärmern Zonen gelegen, sich
+Bergebenen, wie Quito, Persien, Tibet u.a., die in wärmern Zonen gelegen, sich
 nur durch eine dünnere Atmosphäre von dem Tieflande unterscheiden, haben ein
 weit kühleres Klima. Kennen wir nun nicht einmal die Ursachen, welche auf der
 Erde die Wärme und Kälte bedingen; wenn der Sonne oder der Wärme auf gleiche

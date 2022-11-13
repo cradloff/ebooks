@@ -46,7 +46,7 @@ wahrlich den Ausländern an die Seite stellen können, kaum
 <span epub:type="pagebreak" id="pageVII" title="VII" xmlns:epub="http://www.idpf.org/2007/ops"/>
 erwähnt sind, theilt
 diese Astronomie mit fast allen ausländischen Werken. Auch fehlt es nicht an
-Irrthümern, z. B. daß der Venusmond eine optische Täuschung sei, weil er immer
+Irrthümern, z.B. daß der Venusmond eine optische Täuschung sei, weil er immer
 dieselben Phasen darbot, wie der Hauptplanet u. dgl.
 
 Diese Fehler suchte ich nun möglichst zu vermeiden; die Materien wurden

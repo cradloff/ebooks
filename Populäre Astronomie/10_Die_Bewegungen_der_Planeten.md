@@ -200,7 +200,7 @@ befindet, wo er um den ganzen Durchmesser seiner Bahn der Erde näher ist; in
 beiden Fällen aber werden wir ihn fast nie sehen können, weil er von den
 Stralen der Sonne verdunkelt wird. Seine Entfernung von der Sonne bleibt zwar
 immer gleich groß, aber der Winkel, unter welchem sich uns die Linie von der
-Sonne zum Planeten — der *Radius Vektor* — darstellt, d. h. die scheinbare
+Sonne zum Planeten — der *Radius Vektor* — darstellt, d.h. die scheinbare
 Entfernung des Planeten von der Sonne oder seine *Elongation*, ist sehr
 veränderlich. In den Konjunktionen scheinen der Planet und die Sonne fast auf
 *einer* geraden Linie zu sein, aber sobald der Planet, nachdem er uns einige
@@ -286,7 +286,7 @@ beiden Elongationen und der oberen Konjunktion statt findet. Nur in der unteren
 Konjunktion bleibt die
 <@pagebreak/>
 rückgängige Bewegung, weil der nähere und raschere
-Planet der Erde voreilt und sich daher in der Richtung _BCD_, d. h. nach Westen
+Planet der Erde voreilt und sich daher in der Richtung _BCD_, d.h. nach Westen
 zu bewegen scheint.
 
 So lange der Planet sich auf der Westseite der Sonne in dem Halbkreise _ABC_
@@ -336,7 +336,7 @@ von ihr entfernt, und bald darauf seine größte Elongation von 22°30’ auf de
 Westseite erreicht. Nun nähert er sich mit immer zunehmender Geschwindigkeit,
 bis er sich in der oberen Konjunktion des Morgens in ihren Stralen verliert. Er
 durchläuft im Ganzen auf seiner rückgängigen Bewegung einen Bogen von 13° in
-etwa 23 Tagen. Sein ganzer *synodischer* Umlauf, d. h. die Zeit
+etwa 23 Tagen. Sein ganzer *synodischer* Umlauf, d.h. die Zeit
 <@pagebreak/>
 bis er wieder
 dieselbe Lage zur Erde und Sonne einnimmt, schwankt zwischen 106 und 130 Tagen.
@@ -395,7 +395,7 @@ kleinen Bogen, den er indessen in seinem Umlaufe zurücklegt. Hieraus können
 alsdann die übrigen Größen berechnet werden. In den Jahren 1761 und 1769, wo
 diese Erscheinungen statt fanden, wurden sie in Otaheite, in Lappland und auf
 allen Sternwarten von 120 Astronomen beobachtet, und das Ergebniß von Enke’s
-genauester Berechnung aller Angaben gab der *Sonnenparallaxe*, d. h. dem
+genauester Berechnung aller Angaben gab der *Sonnenparallaxe*, d.h. dem
 Winkel, unter welchem von der Sonne aus der Halbmesser der Erde gesehen werden
 würde, eine Größe von 8" 55 und der mittleren Entfernung der Sonne 20,878,745
 deutsche Meilen, eine Zahl welche auch unsren Tabellen zum Grunde liegt. Wie
@@ -492,7 +492,7 @@ und durch die von der Excentricität bedingten Punkte unterschieden. So
 interessant auch
 <@pagebreak/>
 die Untersuchung der Einzelheiten der Bewegung der Knoten und
-der Aphelien u. a. m. ist, so werden wir uns doch im Folgenden nur sehr kurz
+der Aphelien u.a.m. ist, so werden wir uns doch im Folgenden nur sehr kurz
 fassen können.
 
 Der nächste aller oberen Planeten ist Mars. Seine direkte Bewegung geht von der
@@ -619,7 +619,7 @@ kleinsten Durchmesser auch kleiner als die aller übrigen Planeten. Die
 Unterschiede zwischen den größten und kleinsten Werthen dieser Tabelle sind um
 so bedeutender, je größer die Excentricität, und je näher uns der Planet ist,
 daher beim Mars, der in beiden Rücksichten ausgezeichnet ist, am meisten;
-dagegen je entfernter der Planet ist, z. B. Uranus, desto weniger bedeutend ist
+dagegen je entfernter der Planet ist, z.B. Uranus, desto weniger bedeutend ist
 die Größe von etwa 42 Mill. Meilen, um welche ihre Entfernung von der Erde sich
 durch die Bewegung derselben ändert. Für die verhältnißmäßige Größe des
 Unterschiedes haben die Planeten folgende Reihefolge: <@pa.mars/> <@pa.venus/>
