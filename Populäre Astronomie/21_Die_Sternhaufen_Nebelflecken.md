@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 443/>
 
 Zwanzigste Vorlesung.
@@ -33,12 +35,12 @@ vermischt sich mit dem schwachen Lichte, welches den ganzen Himmel bedeckt;
 oder wenn ihrer mehrere neben einander stehn, so vereinigt sich ihr Licht zu
 einer blassen Wolke, worin wir zwar die einzelnen Sterne nicht mehr
 unterscheiden können, deren Schein aber um so stärker wird, je größer die
-Anzahl und der Glanz der Sterne ist. So erscheinen dem ganz schwachen Auge z.
-B. die Plejaden u. a. als kleine Wolken. Ein besseres Auge sieht hier die
+Anzahl und der Glanz der Sterne ist. So erscheinen dem ganz schwachen Auge z. B.
+die Plejaden u. a. als kleine Wolken. Ein besseres Auge sieht hier die
 einzelnen Sterne deutlich, aber ihm werden die Sterne höherer Ordnungen, welche
 dem schwachen Auge ganz verschwanden, eine ähnliche Erscheinung darbieten, und
 da mit der Höhe der Ordnungen die Anzahl der Sterne in raschem Verhältnisse
-zunimmt (S. 390), so wird das bessere Auge zwar viel mehr Sterne, aber auch
+zunimmt <@pa.seite 390/>, so wird das bessere Auge zwar viel mehr Sterne, aber auch
 mehr Wölkchen erblicken. Richtet man auf diese ein gutes Fernrohr, so werden
 sie sich zwar in Sterne auflösen, allein es werden sich neue am Himmel bilden,
 und sogar das beste Fernrohr, womit bis jetzt diese Körper untersucht worden
@@ -68,7 +70,7 @@ mannigfaltig ist ihre Gestalt; zuweilen ist sie kreisförmig oder elliptisch,
 aber oft ganz unregelmäßig, zuweilen sind sie sogar verästelt (dendritisch).
 
 Zu diesen gehört der größte uns bekannte Nebelfleck, die *Milchstraße*. Dieser
-herrliche Kranz, der, ungeachtet seines seltsamen Namens (S. 377), eine der
+herrliche Kranz, der, ungeachtet seines seltsamen Namens <@pa.seite 377/>, eine der
 schönsten Zierden unsres Himmels ist, bildet fast einen Ring um uns, dessen
 Durchschnitt zu den größten Kreisen unsrer Himmelskugel gehört, der seinen
 Nordpol, oder den nach Norden hin am weitesten von ihm entfernten Punkt des
@@ -93,7 +95,7 @@ glaubt; aber selbst den Fernröhren der Neuern war es nicht gelungen diese
 Vermuthung zu bestätigen, bis endlich *Herschel* durch seine Werkzeuge bis an die
 Grenzen dieser Nebelmasse vordrang, indem er sie vollständig in einzelne Sterne
 zu zertheilen vermochte<@refnote 1 "" ""/>. Die Anzahl derselben ist so ungeheuer, daß er sie
-nur auf ähnliche Weise zu schätzen vermochte, wie Archemedes die Sandkörner,
+nur auf ähnliche Weise zu schätzen vermochte, wie Archimedes die Sandkörner,
 welche ein Körper von der Größe der Erde enthalten kann, oder wie der
 Naturforscher die Anzahl der Eier eines Fisches. Er zählte nämlich die Sterne,
 welche das Feld seines Teleskops enthielt, und berechnete dann wie viele
@@ -144,7 +146,7 @@ Theilen, welche die *Pole* desselben bilden, sind die Sterne am dünnsten
 verbreitet; jemehr wir uns aber mit dem Fernrohre der Straße nähern, desto mehr
 häufen sich die Sterne, bis sie endlich in der Milchstraße selbst am dichtesten
 zusammengedrängt sind. Diese ist daher keine Kugel, sondern ein flaches
-Sphäroid, wie wahrscheinlich die mit dem Zodiakallichte (S. 251) umgebene
+Sphäroid, wie wahrscheinlich die mit dem Zodiakallichte <@pa.seite 251/> umgebene
 Sonne, nur daß sie nicht, wie diese, aus einem mit einer Atmosphäre umgebenen
 Kerne besteht, sondern aus ziemlich gleichförmig verbreiteten Sternen, deren
 ungeheure Zwischenräume vielleicht nicht minder zahlreich mit Trabanten und
@@ -297,7 +299,7 @@ Entfernungen und Ausdehnungen der Sterne voraussetzt. Da wir aber kein sicheres
 Maß für diese beiden Gegenstände besitzen, so können wir schlechterdings
 <@pagebreak/>
 nicht mit Gewißheit bestimmen, ob eine beobachtete
-Sterngrußße in der Nähe des Sirius aus kleinen
+Sterngruppe in der Nähe des Sirius aus kleinen
 einander nahen Sternen, oder viele hundert Sternweiten
 von einander entfernten bestehe. Noch weniger
 Zuverlässigkeit herrscht bei den noch nicht vollständig
@@ -319,7 +321,7 @@ schwach leuchtenden Körper bestehen, deren
 Licht bald gleichförmig über den ganzen Raum, den
 sie einnehmen, verbreitet ist, bald an einigen Punkten
 stärker ist, bald aus einer Nebelmasse besteht, in der
-sich einer oder mehrere Sterne befinden,, welche von
+sich einer oder mehrere Sterne befinden, welche von
 den Fixsternen fast nur durch ein matteres Licht und
 den sie begleitenden Nebel abweichen. Man unterscheidet
 die drei Hauptklassen derselben.
@@ -364,7 +366,7 @@ Er stellt sich als zwei an ihren Grundlinien
 verbundene Dreiecke dar, wovon die Achse 40 Minuten,
 und die gemeinschaftliche Grundlinie 15 Minuten groß
 ist. Diese Nebelmasse, die also einen bedeutenden
-Raum am Himmen einnimmt, besteht daher wahrscheinlich
+Raum am Himmel einnimmt, besteht daher wahrscheinlich
 aus einer Doppelpyramide. Der Nebelfleck
 im *Schwerte des Orion* ist von Huyghens entdeckt,
 und wegen seiner Größe und seines Glanzes
@@ -389,7 +391,7 @@ mannigfaltig in Gestalt, verhältnißmäßiger Größe und Anzahl, als die Doppe
 und Polygonalsterne, sich von diesen nur durch den schwachen Nebel
 unterscheiden, der sie umgibt. Zuweilen enthalten sie eine große Anzahl kleiner
 Sterne, deren Zwischenräume durch den Nebel ausgefüllt sind. In diesem Falle
-schließen sie sich also an die oben (S. 452) erwähnten, uns sehr nahen
+schließen sie sich also an die oben <@pa.seite 452/> erwähnten, uns sehr nahen
 Sternhaufen an. Vorzüglich sind die Doppel-Nebelsterne häufig, und oft findet
 man, daß da, wo sich ein Kern schon gebildet hat, sich an dem entgegengesetzten
 Ende ein zweiter zu entwickeln scheint. Herschel hat in diesen beiden Klassen
@@ -509,13 +511,13 @@ aus ihrer meistentheils elliptischen Gestalt zu folgen.
 Merkwürdig sind die *dunklen Säume* vieler Nebelflecken. Vermuthlich waren diese
 früher mit Nebelmasse angefüllt, die sich aber durch die Verdichtung von ihnen
 zurückgezogen hat. Vielleicht scheinen sie aber nur dunkler in Vergleich mit
-dem Hellern Schimmer der Nebelmasse. Einen ähnlichen Ursprung, wie diese Säume,
+dem hellern Schimmer der Nebelmasse. Einen ähnlichen Ursprung, wie diese Säume,
 haben vielleicht einige durch ihr Dunkel ausgezeichnete Stellen des Himmels,
 die sich gewöhnlich in der Nähe von vorzüglich hellen Theilen befinden, z. B.
 im Skorpion, im Fuchs und in den sogenannten *Kohlensäcken* der südlichen
 Halbkugel. Indeß, wenn die Sterne auf die mannigfaltigste Art am Himmel
 verbreitet sind, ist es wol möglich, daß einige Stellen des Himmels
-steinreicher sind, als andre, auf deren Kosten jene vielleicht gebildet wurden.
+sternreicher sind, als andre, auf deren Kosten jene vielleicht gebildet wurden.
 Man braucht hierbei nicht mit einigen der frühern Seefahrer anzunehmen, daß man
 in den Kohlensäcken durch ein Loch im Empyreum in die ewige Finsterniß blicke.
 

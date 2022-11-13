@@ -25,7 +25,7 @@ Verwendung:
 </#compress>
 </#macro>
 
-<#macro seite0 nr>
+<#macro seite00 nr>
 <#compress>
 <#-- Datei ermitteln -->
 <#if nr &lt; 27>
@@ -76,11 +76,13 @@ Verwendung:
 	<#assign datei="24_Erklaerung_der_Kupfertafeln.md"/>
 </#if>
 
-<a href="${resolve(datei)}#page${nr}">S. ${nr}.</a>
+<a href="${resolve(datei)}#page${nr}">${nr}</a>
 </#compress>
 </#macro>
 
+<#macro seite0 nr>S. (<@seite00 nr/>).</#macro>
 <#macro seite nr>(<@seite0 nr/>)</#macro>
+<#macro vergl nr>(vergl. S. <@seite00 nr/>)</#macro>
 
 <#macro karte><a href="karte.xhtml">Karte</a></#macro>
 

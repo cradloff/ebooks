@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 Achtzehnte Vorlesung.
 =====================
 
@@ -52,7 +54,7 @@ hindurch nur ein Spiel der Phantasie, die Sterne zu betrachten und zu benennen,
 so begann allmälig ein ernsteres Geschäft, indem die Veränderungen der
 Jahreszeiten und die Arbeiten des Ackerbaues nach den Erscheinungen der
 Fixsterne bestimmt wurden. Der unvollkommne und meistentheils mit dem
-Sonnenlaufe nicht übereinstimmende Kalender (S. 195.) zwang z. B. die Ägypter,
+Sonnenlaufe nicht übereinstimmende Kalender <@pa.seite 195/> zwang z. B. die Ägypter,
 um nicht von den Überschwemmungen des Nils übereilt zu werden, auf die Zeit zu
 achten, wann der Sirius sich wieder in der Morgendämmerung zeigte, nachdem er
 eine Zeitlang von der Sonne verdunkelt gewesen war. Andre Sterne zeigten ihnen
@@ -157,13 +159,13 @@ hebräische Sage hinzu; bald dachte man an die Bewohner und Erzeugnisse der
 Erdzonen, in deren Zenith die Sterne kommen konnten, z. B. der Indianer und der
 Tukan im Süden, das Rennthier im Norden. Oft gab man den Sternbildern Gestalt
 und Namen wissenschaftlicher Werkzeuge; so entstand der Grabstichel, der
-Luftball u. a. am Himmel; nicht selten suchten dadurch die Astronomen Fürsten
-und Gelehrten ein Denkmal zu setzen, z. B. Friedrichs Ehre, Kants Eiche, der
+Luftball u.a. am Himmel; nicht selten suchten dadurch die Astronomen Fürsten
+und Gelehrten ein Denkmal zu setzen, z.B. Friedrichs Ehre, Kants Eiche, der
 Erntehüter (dem Astronomen Messier); sehr selten achten sie auf wirkliche
 Ähnlichkeit — denn an Phantasie stehn die Gelehrten den Naturvölkern eben so
-sehr nach, als sie ihnen an Kenntnissen überlegen sind — z. B. beim südlichen
+sehr nach, als sie ihnen an Kenntnissen überlegen sind — z.B. beim südlichen
 Kreuze; desto öfter folgten sie aber nicht der Einbildungskraft, sondern der
-Laune, z. B. beim Fuchs mit der Gans, der Katze u. d. gl.
+Laune, z.B. beim Fuchs mit der Gans, der Katze u.d.gl.
 
 Aber was von englischen Astronomen angegeben war, wurde von den Franzosen nicht
 aufgenommen, was diese einzuführen suchten, von den Deutschen 
@@ -201,7 +203,7 @@ durch Ptolemäus bekannt geworden. Man nennt daher die alten Sternbilder die
 auch Hipparch und andre alexandrinische Astronomen einige neue Sternbilder
 gebildet, und sie nach mythischen Gründen benannt; so verdankt vielleicht die
 Sterngruppe des Hasen ihren Namen der Nähe des Jägers. Daß nicht eine religiöse
-Scheu von solchen Neuerungen abhielt, zeigt z. B. Antinous, der sein Dasein
+Scheu von solchen Neuerungen abhielt, zeigt z.B. Antinous, der sein Dasein
 einer groben Schmeichelei verdankt.
 
 Ptolemäus faßte indeß nicht alle Sterne in seinen Sternbildern zusammen. Es
@@ -218,53 +220,53 @@ dieser Unterschied für ihre Erklärung wichtig ist.
 
 <@pagebreak/>
 
-<table>
+<table class="vborder2">
 <caption>Nördliche Sternbilder der Alten (23)</caption>
 <tr><td>Der kleine Bär</td><td>24</td><td>Der Pfeil</td><td>18</td></tr>
-<tr><td>Der große Bär </td><td>87</td><td>Der Adler</td><td rowspan="2">74</td></tr>
-<tr><td>Der Drache    </td><td>80</td><td>Antinous </td></tr>
-<tr><td>Cepheus       </td><td>35</td><td>Der Delfin</td><td>18</td></tr>
-<tr><td>Bootes        </td><td>54</td><td>Das Füllen</td><td rowspan="2">10</td></tr>
-<tr><td>Die Krone     </td><td>21</td><td>(kleine Pferd)</td></tr>
-<tr><td>Herkules      </td><td>89</td><td>Das Pferd oder</td><td rowspan="2">89</td></tr>
-<tr><td>Die Leier     </td><td>22</td><td>Pegasus</td></tr>
-<tr><td>Der Schwan    </td><td>81</td><td>Andromeda</td><td>63</td></tr>
-<tr><td>Kassiopea     </td><td>55</td><td>Der nördliche Triangel</td><td>16</td></tr>
-<tr><td>Perseus       </td><td>59</td><td>Das Haar der Berenice</td><td>43</td></tr>
-<tr><td>Der Fuhrmann  </td><td>66</td><td></td><td></td></tr>
-<tr><td>Ophiuchus     </td><td>74</td><td></td><td></td></tr>
-<tr><td>Die Schlange  </td><td>64</td><td></td><td></td></tr>
+<tr><td>Der große Bär</td> <td>87</td><td>Der Adler</td><td rowspan="2">74</td></tr>
+<tr><td>Der Drache</td>    <td>80</td><td>Antinous</td> </tr>
+<tr><td>Cepheus</td>       <td>35</td><td>Der Delfin</td><td>18</td></tr>
+<tr><td>Bootes</td>        <td>54</td><td>Das Füllen</td><td rowspan="2">10</td></tr>
+<tr><td>Die Krone</td>     <td>21</td><td>(kleine Pferd)</td></tr>
+<tr><td>Herkules</td>      <td>89</td><td>Das Pferd oder</td><td rowspan="2">89</td></tr>
+<tr><td>Die Leier</td>     <td>22</td><td>Pegasus</td></tr>
+<tr><td>Der Schwan</td>    <td>81</td><td>Andromeda</td><td>63</td></tr>
+<tr><td>Kassiopea</td>     <td>55</td><td>Der nördliche Triangel</td><td>16</td></tr>
+<tr><td>Perseus</td>       <td>59</td><td>Das Haar der Berenice</td><td>43</td></tr>
+<tr><td>Der Fuhrmann</td>  <td>66</td><td></td><td></td></tr>
+<tr><td>Ophiuchus</td>     <td>74</td><td></td><td></td></tr>
+<tr><td>Die Schlange</td>  <td>64</td><td></td><td></td></tr>
 </table>
 
 Das Haar der Berenice und Antinous sind eigentlich davon auszunehmen; denn
 obgleich sie Ptolemäus schon genannt hat, so sind sie doch erst von Tycho
 eingeführt worden. Es bleiben daher nur 21 Sternbilder.
 
-<table>
+<table class="vborder2">
 <caption>Nördliche Sternbilder der Neueren (16).</caption>
-<tr><td>Der kleine Löwe    </td><td>53</td><td>Friedrichsehre     </td><td>42</td></tr>
-<tr><td>Die Jagdhunde      </td><td>25</td><td>Der Berg Mänalus   </td><td>11</td></tr>
-<tr><td>Cerberus           </td><td>24</td><td>Karls Herz         </td><td> 3</td></tr>
-<tr><td>Der Mauerquadrant  </td><td> 8</td><td>Die Fliege (Lilien)</td><td> 6</td></tr>
-<tr><td>Der poniatowskische</td><td>  </td><td>Das Rennthier      </td><td>10</td></tr>
-<tr><td> Stier             </td><td> 7</td><td>Der Erntehüter     </td><td>10</td></tr>
-<tr><td>Der Fuchs mit der  </td><td>  </td><td>Das Kamelopard     </td><td>58</td></tr>
-<tr><td> Gans              </td><td>35</td><td>Der Luchs          </td><td>44</td></tr>
-<tr><td>Die Eidechse       </td><td>16</td><td>Herschels Teleskop </td><td>17</td></tr>
+<tr><td>Der kleine Löwe</td>    <td>53</td><td>Friedrichsehre</td>     <td>42</td></tr>
+<tr><td>Die Jagdhunde</td>      <td>25</td><td>Der Berg Mänalus</td>   <td>11</td></tr>
+<tr><td>Cerberus</td>           <td>24</td><td>Karls Herz</td>         <td> 3</td></tr>
+<tr><td>Der Mauerquadrant</td>  <td> 8</td><td>Die Fliege (Lilien)</td><td> 6</td></tr>
+<tr><td>Der poniatowskische</td><td></td>  <td>Das Rennthier</td>      <td>10</td></tr>
+<tr><td> Stier</td>             <td> 7</td><td>Der Erntehüter</td>     <td>10</td></tr>
+<tr><td>Der Fuchs mit der</td>  <td></td>  <td>Das Kamelopard</td>     <td>58</td></tr>
+<tr><td> Gans</td>              <td>35</td><td>Der Luchs</td>          <td>44</td></tr>
+<tr><td>Die Eidechse</td>       <td>16</td><td>Herschels Teleskop</td> <td>17</td></tr>
 </table>
 
 <@pagebreak/>
 
-<table>
+<table class="vborder2">
 <caption>Südliche Sternbilder der Alten (15).</caption>
-<tr><td>Der Wallfisch    </td><td>97</td><td>Der Becher        </td><td>21</td></tr>
-<tr><td>Eridanus         </td><td>84</td><td>Der Rabe          </td><td> 9</td></tr>
-<tr><td>Orion            </td><td>78</td><td>Der Centaur       </td><td>35</td></tr>
-<tr><td>Der Hase         </td><td>19</td><td>Der Wolf          </td><td>24</td></tr>
-<tr><td>Der kleine Hund  </td><td>14</td><td>Der Altar         </td><td> 9</td></tr>
-<tr><td>Der große Hund   </td><td>31</td><td>Die südliche Krone</td><td>12</td></tr>
+<tr><td>Der Wallfisch</td>    <td>97</td><td>Der Becher</td>        <td>21</td></tr>
+<tr><td>Eridanus</td>         <td>84</td><td>Der Rabe</td>          <td> 9</td></tr>
+<tr><td>Orion</td>            <td>78</td><td>Der Centaur</td>       <td>35</td></tr>
+<tr><td>Der Hase</td>         <td>19</td><td>Der Wolf</td>          <td>24</td></tr>
+<tr><td>Der kleine Hund</td>  <td>14</td><td>Der Altar</td>         <td> 9</td></tr>
+<tr><td>Der große Hund</td>   <td>31</td><td>Die südliche Krone</td><td>12</td></tr>
 <tr><td>Das Schiff (Argo)</td><td>64</td><td>Der südliche Fisch</td><td>24</td></tr>
-<tr><td>Die Hyder        </td><td>60</td><td></td><td></td></tr>
+<tr><td>Die Hyder</td>        <td>60</td><td></td><td></td></tr>
 </table>
 
 Weil die Alten die Polargegenden der südlichen Himmelshalbkugel nicht
@@ -272,43 +274,41 @@ beobachten konnten, so erstrecken sich auch ihre Sternbilder nur über den
 nördlichen Theil derselben. Weit ausgedehnter sind die Beobachtungen der
 Neueren.
 
-<table>
+<table class="vborder2">
 <caption>Südliche Sternbilder der Neueren (40).</caption>
-<tr><td>Das chemische Laboratorium  </td><td>14</td><td>Die Buchdruckerwerkstatt  </td><td>16</td></tr>
-<tr><td>Die Georgsharfe             </td><td>11</td><td>Die Katze                 </td><td>28</td></tr>
-<tr><td>Die Pendeluhr               </td><td>12</td><td>Der Kompaß u. die Logleine</td><td>16</td></tr>
-<tr><td>Der brandenburgische Szepter</td><td> 6</td><td>Die Luftpumpe             </td><td>25</td></tr>
-<tr><td>Das Rhomboidalnetz          </td><td>10</td><td>Der Uransextant           </td><td>41</td></tr>
-<tr><td>Der Grabstichel             </td><td>16</td><td>Der Einsiedlervogel       </td><td>18</td></tr>
-<tr><td>Der Schwertfisch (Dorado)   </td><td> 6</td><td>Das Kreuz                 </td><td> 5</td></tr>
-<tr><td>Die Taube                   </td><td>10</td><td>Die Biene                 </td><td> 4</td></tr>
-<tr><td>Die Malerstaffelei          </td><td> 8</td><td>Das Kamäleon              </td><td>10</td></tr>
-<tr><td>Das Einhorn                 </td><td>31</td><td>Die Eiche Karls II.       </td><td>12</td></tr>
-<tr><td>
-<@pagebreak/>
-Der fliegende Fisch         </td><td> 8</td><td>Der Oktant                </td><td>43</td></tr>
-<tr><td>Das Teleskop                </td><td> 8</td><td>Das Mikroskop             </td><td>10</td></tr>
-<tr><td>Das Lineal und der Maßstab  </td><td>12</td><td>Der Luftball              </td><td> 8</td></tr>
-<tr><td>Der Zirkel                  </td><td> 4</td><td>Der Kranich               </td><td>13</td></tr>
-<tr><td>Der südliche Triangel       </td><td> 5</td><td>Der Tukan                 </td><td> 9</td></tr>
-<tr><td>Der Paradiesvogel           </td><td>11</td><td>Die männliche Hyder       </td><td>10</td></tr>
-<tr><td>Der Tafelberg               </td><td>30</td><td>Die Bildhauerwerkstatt    </td><td>12</td></tr>
-<tr><td>Sobieski’s Schild           </td><td> 7</td><td>Der Phönix                </td><td>13</td></tr>
-<tr><td>Der Indianer                </td><td>12</td><td>Die Elektrisirmaschine    </td><td>22</td></tr>
-<tr><td>Der Pfau                    </td><td>14</td><td>Die beiden Wolken         </td><td>--</td></tr>
+<tr><td>Das chemische Laboratorium</td>  <td>14</td><td>Die Buchdruckerwerkstatt</td>  <td>16</td></tr>
+<tr><td>Die Georgsharfe</td>             <td>11</td><td>Die Katze</td>                 <td>28</td></tr>
+<tr><td>Die Pendeluhr</td>               <td>12</td><td>Der Kompaß u. die Logleine</td><td>16</td></tr>
+<tr><td>Der brandenburgische Szepter</td><td> 6</td><td>Die Luftpumpe</td>             <td>25</td></tr>
+<tr><td>Das Rhomboidalnetz</td>          <td>10</td><td>Der Uransextant</td>           <td>41</td></tr>
+<tr><td>Der Grabstichel</td>             <td>16</td><td>Der Einsiedlervogel</td>       <td>18</td></tr>
+<tr><td>Der Schwertfisch (Dorado)</td>   <td> 6</td><td>Das Kreuz</td>                 <td> 5</td></tr>
+<tr><td>Die Taube</td>                   <td>10</td><td>Die Biene</td>                 <td> 4</td></tr>
+<tr><td>Die Malerstaffelei</td>          <td> 8</td><td>Das Kamäleon</td>              <td>10</td></tr>
+<tr><td>Das Einhorn</td>                 <td>31</td><td>Die Eiche Karls II.</td>       <td>12</td></tr>
+<tr><td><@pagebreak/>Der fliegende Fisch</td><td> 8</td><td>Der Oktant</td>            <td>43</td></tr>
+<tr><td>Das Teleskop</td>                <td> 8</td><td>Das Mikroskop</td>             <td>10</td></tr>
+<tr><td>Das Lineal und der Maßstab</td>  <td>12</td><td>Der Luftball</td>              <td> 8</td></tr>
+<tr><td>Der Zirkel</td>                  <td> 4</td><td>Der Kranich</td>               <td>13</td></tr>
+<tr><td>Der südliche Triangel</td>       <td> 5</td><td>Der Tukan</td>                 <td> 9</td></tr>
+<tr><td>Der Paradiesvogel</td>           <td>11</td><td>Die männliche Hyder</td>       <td>10</td></tr>
+<tr><td>Der Tafelberg</td>               <td>30</td><td>Die Bildhauerwerkstatt</td>    <td>12</td></tr>
+<tr><td>Sobieski’s Schild</td>           <td> 7</td><td>Der Phönix</td>                <td>13</td></tr>
+<tr><td>Der Indianer</td>                <td>12</td><td>Die Elektrisirmaschine</td>    <td>22</td></tr>
+<tr><td>Der Pfau</td>                    <td>14</td><td>Die beiden Wolken</td>         <td>--</td></tr>
 </table>
 
 Die beiden Wolken sind zwei dichte Gruppen kleiner Sterne in der Nähe des
 Südpols.
 
-<table>
+<table class="vborder2">
 <caption>Sternbilder des Thierkreises (12).</caption>
-<tr><td>Der Widder (<img alt="Widder" src="Widder.png"/>)</td><td> 66</td><td>Die Wage (<img alt="Wage" src="Wage.png"/>)</td><td> 51</td></tr>
-<tr><td>Der Stier (<img alt="Stier" src="Stier.png"/>)</td><td>141</td><td>Der Skorpion (<img alt="Skorpion" src="Skorpion.png"/>)</td><td> 44</td></tr>
-<tr><td>Die Zwillinge (<img alt="Zwillinge" src="Zwillinge.png"/>)</td><td> 85</td><td>Der Schütz (<img alt="Schütz" src="Schuetz.png"/>)</td><td> 69</td></tr>
-<tr><td>Der Krebs (<img alt="Krebs" src="Krebs.png"/>)</td><td> 83</td><td>Der Steinbock (<img alt="Steinbock" src="Steinbock.png"/>)</td><td> 51</td></tr>
-<tr><td>Der Löwe (<img alt="Löwe" src="Loewe.png"/>)</td><td> 95</td><td>Der Wassermann (<img alt="Wassermann" src="Wassermann.png"/>)</td><td>108</td></tr>
-<tr><td>Die Jungfrau (<img alt="Jungfrau" src="Jungfrau.png"/>)</td><td>110</td><td>Die Fische (<img alt="Fische" src="Fische.png"/>)</td><td>113</td></tr>
+<tr><td>Der Widder (<@pa.widder/>)</td>      <td> 66</td><td>Die Wage (<@pa.wage/>)</td>            <td> 51</td></tr>
+<tr><td>Der Stier (<@pa.stier/>)</td>        <td>141</td><td>Der Skorpion (<@pa.skorpion/>)</td>    <td> 44</td></tr>
+<tr><td>Die Zwillinge (<@pa.zwillinge/>)</td><td> 85</td><td>Der Schütz (<@pa.schuetz/>)</td>        <td> 69</td></tr>
+<tr><td>Der Krebs (<@pa.krebs/>)</td>        <td> 83</td><td>Der Steinbock (<@pa.steinbock/>)</td>  <td> 51</td></tr>
+<tr><td>Der Löwe (<@pa.loewe/>)</td>         <td> 95</td><td>Der Wassermann (<@pa.wassermann/>)</td><td>108</td></tr>
+<tr><td>Die Jungfrau (<@pa.jungfrau/>)</td>  <td>110</td><td>Die Fische (<@pa.fische/>)</td>        <td>113</td></tr>
 </table>
 
 Also im Ganzen 106 Sternbilder. Die Zahlen neben den Überschriften bedeuten
@@ -341,8 +341,8 @@ fortlaufender Zahlen zu bedienen.
 Wie *ein* Blick auf den Sternenhimmel zeigt, sind die Sterne von sehr
 verschiedenem Glanze; man hat sie daher schon seit den ältesten Zeiten in
 verschiedene Klassen getheilt. Die scheinbar größten oder glänzendsten Sterne
-nennt man Sterne *erster Größe*, die auf diese folgenden, Sterne *zweiter Größe* u.
-s. f. Mit dem unbewaffneten Auge kann man die Sterne bis zur fünften oder
+nennt man Sterne *erster Größe*, die auf diese folgenden, Sterne *zweiter Größe* u.s.f.
+Mit dem unbewaffneten Auge kann man die Sterne bis zur fünften oder
 sechsten Größe erkennen, bei sehr heiterem Himmel und sehr scharfem Auge auch wol 
 <@pagebreak/>
 noch weiter; die übrigen nennt man *teleskopische Sterne*, da sie nur mit
@@ -362,22 +362,22 @@ werden. Auch die Anzahl der Sterne, die zu einer jeden Klasse gehören, ist
 deshalb nicht für alle Astronomen dieselbe, während einige nur 12 Sterne erster
 Größe zählen, haben andre wol 20. Man rechnet gewöhnlich folgende zu ihnen.
 
-<table>
+<table class="vborder">
 <caption>In der nördlichen Halbkugel (8).</caption>
-<tr><td><em>Kapella</em> im Fuhrmann;     </td><td><em>Wega</em> in der Leier;</td></tr>
-<tr><td><em>Arkturus</em> im Bootes;      </td><td><em>Aldebaran</em> im Stier;</td></tr>
-<tr><td><em>Atair</em> im Adler;          </td><td><em>Regulus</em> im Löwen;</td></tr>
+<tr><td><em>Kapella</em> im Fuhrmann;</td>     <td><em>Wega</em> in der Leier;</td></tr>
+<tr><td><em>Arkturus</em> im Bootes;</td>      <td><em>Aldebaran</em> im Stier;</td></tr>
+<tr><td><em>Atair</em> im Adler;</td>          <td><em>Regulus</em> im Löwen;</td></tr>
 <tr><td><em>Procyon</em> im kleinen Hunde;</td><td><em>Beteigeze</em> im Orion;</td></tr>
 </table>
 
 <@pagebreak/>
 
-<table>
+<table class="vborder">
 <caption>In der südlichen Halbkugel (7). </caption>
-<tr><td><em>Rigel</em> im Orion;         </td><td><em>Acharnar</em> im Eridanus;</td></tr>
-<tr><td><em>Sirius</em> im großen Hunde; </td><td><em>Spika</em> in der Jungfrau;</td></tr>
+<tr><td><em>Rigel</em> im Orion;</td>         <td><em>Acharnar</em> im Eridanus;</td></tr>
+<tr><td><em>Sirius</em> im großen Hunde;</td> <td><em>Spika</em> in der Jungfrau;</td></tr>
 <tr><td><em>Fomahand</em> im südl. Fisch;</td><td><em>Antares</em> im Skorpion;</td></tr>
-<tr><td>                                 </td><td><em>Kanopus</em> im Schiffe;</td></tr>
+<tr><td></td>                                 <td><em>Kanopus</em> im Schiffe;</td></tr>
 </table>
 
 Die letzten beiden fehlen auf unsrer Karte, weil sie unter unsren Breiten
@@ -405,7 +405,7 @@ wegen
 ihrer unregelmäßigen Lage. Wenn man zerstreute irdische Körper zählen
 will, so muß man sie in Reihen ordnen, dieß ist aber bei den Sternen unmöglich.
 Indeß erreicht man durch die Gruppirung der Sterne in den Sternbildern, den
-Zweck mit hinlänglicher Genauigkeit. Wenn man die bei den Sternbildern (S. 385)
+Zweck mit hinlänglicher Genauigkeit. Wenn man die bei den Sternbildern <@pa.seite 385/>
 angegebenen Zahlen addirt, so erhält man 1511 Sterne in der nördlichen, 1131 in
 der südlichen Halbkugel und 1016 in den Sternbildern des Thierkreises, also im
 Ganzen 3658. Die Zahl der südlichen ist geringer, theils weil sie nicht so
@@ -458,7 +458,7 @@ sich dann wieder von ihm bis sich der Pol nach 2328 Jahren
 dem Sterne γ am Knie
 des Cepheus auf 1°53’ genähert haben wird. Im Jahre 2800 v. Chr. war er nur 9’
 von dem Sterne α des Drachen entfernt. Wegen seiner so geringen Entfernung vom
-Pol bleibt seine Lage von der täglichen Bewegung fast unverändert (S. 72),
+Pol bleibt seine Lage von der täglichen Bewegung fast unverändert <@pa.seite 72/>,
 wodurch er den Schiffern sehr wichtig wird. Den Griechen soll Thales zuerst
 seinen Nutzen bei der Schiffahrt gelehrt haben; nach Humboldt beschiffen die
 Eingebornen Kolumbiens, in deren Horizont er beinahe ist, ihre Küstenmeere,
@@ -488,7 +488,7 @@ Die Chaldäer ihren Nimrod, und die Griechen den Herkules, Orpheus, Theseus,
 Nessus u. a. Herkules behielt die Oberhand, und es war natürlich daß man den
 *Drachen*, der sich um die Bären schlingt, und den die Bibel schon kennt, zur
 lernäischen Schlange machte, welcher Herkules auf den Kopf tritt, oder zum
-Hüter der hesperischen Garten. *Cerberus*, oder vielmehr die dreiköpfige
+Hüter der hesperischen Gärten. *Cerberus*, oder vielmehr die dreiköpfige
 Schlange, wurde dem Herkules erst von Hevel (1690) in die Hand gegeben. Bayer
 bildete dafür einen Apfelzweig (1603). Der *Pfeil* ist bald derjenige, womit
 Herkules die Juno und den Pluto verwundet, oder womit er den Geier des
@@ -593,7 +593,7 @@ Der Jäger hat in seiner Nähe den *Hasen* und den kleinen *Hund*; indeß deutet
 auf diesen alle in der Mythologie bekannten Hunde: den Hund, den Helena auf
 ihrer Flucht mit Paris verlor; oder den Hund, welcher der Erigone den Tod ihres
 von den Schäfern in den Brunnen gestürzten Vaters Ikarus verrieth; oder den
-schnellen Hund, den Aurora dem Jäger Orion schenkte u. a. m.
+schnellen Hund, den Aurora dem Jäger Orion schenkte u.a.m.
 
 Die Araber nannten das Sternbild des Orion, wahrscheinlich wegen seiner Lage im
 Äquator, die Mitte des Himmels. Indeß theilt er diese Ehre mit den Zwillingen,
@@ -608,15 +608,15 @@ er in Ägypten ein Bild des hundsköpfigen Gottes *Anubis*. Sein Aufgang, d. h.
 die Zeit, wann er wieder in der Morgenröthe sichtbar wurde, nachdem er einige
 Zeit von der Sonne verdunkelt war, wurde von den Ägyptern sehr genau
 beobachtet, weil alsdann das Steigen des Nils begann, und veranlaßte dadurch
-auch eine genauere Bestimmung des Jahres (S. 5). Er mag daher wol bei den
+auch eine genauere Bestimmung des Jahres <@pa.seite 5/>. Er mag daher wol bei den
 Ägyptern als ein Sinnbild jenes Gottes, oder selbst des Nils, der auch Siris
 hieß, verehrt sein. Bei den Ägyptern und Kopten heißt der Sirius auch *Sothes*,
 nach dem schon erwähnten ägyptischen Gotte, oder Heros, oder König, dem man
-alle Erfindungen zuschrieb (S. 5). Die hohe Achtung welche dieser Stern bei den
+alle Erfindungen zuschrieb <@pa.seite 5/>. Die hohe Achtung welche dieser Stern bei den
 Ägyptern genoß, gab dem ganzen Sternbilde den Namen des Hundsgestirns, und
 <@pagebreak/>
 verdrängte wahrscheinlich die Gestalten, unter denen man sich dieses Sternbild
-bei andren Völkern gedacht haben mochte (S. 381). Nach ihm haben die Hundstage
+bei andren Völkern gedacht haben mochte <@pa.seite 381/>. Nach ihm haben die Hundstage
 ihren Namen. Die Griechen, nach ihrer Gewohnheit sich alles anzueignen, machten
 aus dem hundsköpfigen Ägyptergotte einen Jagdhund des Orion, indeß hieß er
 auch bei den Arabern der *Hund des Riesen* (Orion).
@@ -662,12 +662,12 @@ Jupiter, wegen seiner Verachtung der Götter und seiner Mordlust, in einen Wolf
 verwandelt wurde. Man bildete hier früher einen Hengst ab, und im Orient einen
 Panther oder eine Löwinn. Der Centaur, an dessen Stelle die Araber früher einen
 Palmbaum abgebildet zu haben scheinen, wird von den Griechen auf alle
-Centauren, Chiron, Nessûs u. m. a. bezogen.
+Centauren, Chiron, Nessus u.m.a. bezogen.
 
 *Eridanus*, der Strom, in welchen sich der unglückliche *Phaeton* stürzte, nachdem
 er durch die ungeschickte Lenkung des Sonnenwagens die Welt in Flammen gesetzt
 hatte, ist nach einigen der Po; bei den Ägyptern der Nil. Er hieß auch wol der
-Strom des Riesen (Orion), der Ocean u. s. w.
+Strom des Riesen (Orion), der Ocean u.s.w.
 
 Statt des *Altars* zeichnete man auch verschiedene Geräthschaften. In der
 *südlichen Krone* sahn die Griechen Ixions Rad, die Araber ein Zelt, oder einen
@@ -701,7 +701,7 @@ das Denkmal, das ihm Hevel (1690) in *Sobieski’s Schilde* gesetzt hat.
 <@pagebreak/>
 Der *brandenburgische Szepter* rührt von Kirch
 her, die *Georgsharfe*, zu Ehren der englischen
-Könige gleiches Namens von hell, der *Einsiedler*,
+Könige gleiches Namens von Hell, der *Einsiedler*,
 ein indianischer Vogel, auch wol als Eule abgebildet,
 von Le Monnier, die *Katze* von Lalande.
 
@@ -723,7 +723,7 @@ Ihre Anzahl ist bei allen Völkern, deren Sernkunde
 sich auch nur einigermaßen ausgebildet hat,
 gleich der Anzahl der Monate im Jahre, also 12,
 so daß die Sonne in jedem Monate etwa *ein* Zeichen
-zu durchlaufen scheint. Es gab auch noch eine Entheilung
+zu durchlaufen scheint. Es gab auch noch eine Eintheilung
 des Thierkreises in 28 Theile, wovon der
 Mond täglich einen Theil durchlief, und ebenfalls eine
 große Rolle in der Astronomie spielte — man
@@ -736,7 +736,7 @@ Himmelsglobus betrachten, so sehn wir, daß sich der
 Äquator und die Ekliptik in der Jungfrau und in
 den Fischen durchschneiden. So war es aber, wie
 wir wissen, nicht immer, sondern vermöge der Bewegung
-der Nachtgleichen (S. 148.) rücken diese
+der Nachtgleichen <@pa.seite 148/> rücken diese
 <@pagebreak/>
 Punkte jährlich 50"1 der Ordnung der Zeichen entgegen,
 so daß sie nach etwa 2160 Jahren um den
@@ -746,13 +746,13 @@ Thierkreis vor uns sehen, worin die Punkte der
 Nachtgleichen von den unsrigen verschieden sind, und
 wir haben uns überzeugt, daß die Zeichnung nicht
 ein Werk des Zufalls oder die Folge von Ungenauigkeiten
-ist, sonder auf Beobachtungen beruht, so können
+ist, sondern auf Beobachtungen beruht, so können
 wir leicht auf die Zeit schließen, in welcher sie
 verfertigt worden sind. Die Nachtgleichenpunkte seien
 z. B. 40° von den unsrigen verschieden; da dieses vor
 etwa 2880 Jahren oder 1050 Jahre vor Christi
 Geburt statt fand, so paßt der Thierkreis nur auf
-diese zeit. Auf die Verfertigung desselben läßt sich
+diese Zeit. Auf die Verfertigung desselben läßt sich
 indeß aus dieser Betrachtung allein nicht mit Sicherheit
 schließen, da er ja einem ältern nachgeahmt sein
 kann. Gewöhnlich sind überdieß die Punkte der
@@ -805,7 +805,7 @@ wenn der Stern aufgeht. Jener Zeitpunkt ist der heliakische Untergang,
 dieser
 der heliakische Aufgang. Bei kleineren Sternen ist die Entfernung größer, so
 daß die Sonne 18° unter dem Horizonte sein muß, wenn alle Sterne sichtbar sein
-sollen (vergl. S. 124.). Wird nicht von einzelnen Sternen, sondern von einem
+sollen <@pa.vergl 124/>. Wird nicht von einzelnen Sternen, sondern von einem
 ganzen Sternbilde die Zeit gesucht, daß es im Westen von der Sonne verdunkelt
 zu werden anfängt, bis auch sein östliches Ende wieder ganz sichtbar wird, so
 ist der Zwischenraum natürlich noch größer.
@@ -821,15 +821,15 @@ Jahrhunderte veränderlich sind.
 
 Man würde indeß dennoch aus den Sternen, die zu irgend einer Zeit auf- und
 untergingen, auf die Jahreszeit schließen können, besonders da der heliakische
-Aufgang, wie es scheint, am meisten beobachtet worden ist — so sehen wir es z.
-B. (S. 5.) bei dem Sirius — wenn nicht die Dichter leichtsinnig, ohne selbst zu
+Aufgang, wie es scheint, am meisten beobachtet worden ist — so sehen wir es z.B.
+<@pa.seite 5/> bei dem Sirius — wenn nicht die Dichter leichtsinnig, ohne selbst zu
 beobachten, oder vielleicht ohne einen richtigen Begriff von diesen Aufgängen
 zu haben, von einander abgeschrieben, und was verschiedenen Zeiten und Ländern
 angehörte unter einander geworfen hätten.
 
 Bei einer solchen Verwirrung und Ungewißheit kann es nicht befremden, daß man
 in den Sternbildern des Thierkreises bald eine Beziehung auf das Klima
-Aegytens, bald auf die 
+Ägytens, bald auf die 
 <@pagebreak/>
 Klimate Chaldäa’s, Baktriens, oder Indiens zu sehen
 glaubte; daß ihre Bildung bald einige Jahrhunderte, bald Jahrtausende vor
@@ -885,8 +885,8 @@ lange, bis er wieder seinen niedrigen Stand um die Mitte Septembers erreicht
 hat. Die drei folgenden Zeichen deuten auf die Viehzucht und den Ackerbau. Die
 wieder beginnende Hitze im Januar, die Ernte im Februar, die Gleichheit der
 Tage und Nächte im März, die Krankheiten im April und die aus Äthiopien
-kommenden Stürme im Mai konnten durch den *Löwen*, die *Jungfrau*, die *Wage* u. s.
-f. bezeichnet werden. Wie sehr hier 
+kommenden Stürme im Mai konnten durch den *Löwen*, die *Jungfrau*, die *Wage* u.s.f.
+bezeichnet werden. Wie sehr hier 
 <@pagebreak/>
 alles schwankend ist haben wir schon oben
 angedeutet, und was wir von den einzelnen Sternbildern sagen werden, bestätigt
@@ -956,7 +956,7 @@ Die *Jungfrau* war bald die ägyptische Göttin Isis, bald die syrische Atergati
 bald Ceres, Fortuna, die Friedensgöttin, Themis u. a. Auch bei den
 Arabern war hier eine Jungfrau mit einer Garbe.
 Die Flügel sind ihr erst später beigelegt. Es ist nach Einigen Erigone, die
-sich ihrem von den Schäfern (S. 392.) getödteten Vater Ikarus in den Brunnen
+sich ihrem von den Schäfern <@pa.seite 392/> getödteten Vater Ikarus in den Brunnen
 nachstürzte. Der schöne Stern erster Größe hat seinen Namen von der Garbe
 (_spica_, die Ähre); der Stern *Vindemiatrix* (Weinleserin), weil er zur Zeit der
 Weinlese aufging.
@@ -969,7 +969,7 @@ Göttin die Erde verlassen hat, am Himmel glänzt.
 
 Der *Skorpion* ist ein schönes Bild für die Seuchen und verderblichen Winde, die
 in manchen Jahreszeiten wüthen. Er wird auch in den Mythus von Orion verwickelt
-(S 397.).
+<@pa.seite 397/>.
 
 <@pagebreak/>
 Der *Schütz*, ein Centaur mit Bogen und Pfeil, der sich dadurch von dem
@@ -1055,9 +1055,9 @@ der andre Stern durch den Meridian geht, und bezeichnet auch hier den Punkt des
 Bogen zwischen beiden Sternen. Aus diesem läßt sich leicht die Zeit berechnen,
 die zwischen der Kulmination 
 <@pagebreak/>
-beider Sterne verfließt. (Vergl. S. 72 — 80.).
+beider Sterne verfließt. (Vergl. S. <@pa.seite00 72/> — <@pa.seite00 80/>.).
 Dieser Zweck wird auch noch durch eine kleine um den Nordpol angebrachte
-Scheibe erleichtert, an welcher man unmittelbar den Stundenwinkel (S. 81.)
+Scheibe erleichtert, an welcher man unmittelbar den Stundenwinkel <@pa.seite 81/>
 ablesen kann. Wünscht man den Unterschied in der geraden Aufsteigung eines
 Sterns von der Sonne an irgend einem Tage im Jahre zu wissen, so suche man erst
 den Punkt der Ekliptik, in welchem sich die Sonne um diese Zeit befindet, und
@@ -1072,8 +1072,8 @@ den *Horizont* vorstellt, so daß dessen Mittelpunkt auch derjenige der Kugel is
 Man gibt ihr eine solche Lage, daß ihr Pol in einem eben so großen Bogen über
 dem Horizonte steht, als die Polhöhe an dem Beobachtungsorte beträgt, also in
 Berlin etwa 52½°. So erlangt man durch Umdrehen der Kugel um ihre Achse ein sehr
-treues Bild der Erscheinungen des Auf- und Unterganges der Sterne. Will man z.
-B. die Zeit wissen, um welche ein Stern in Berlin früher aufgeht, als ein
+treues Bild der Erscheinungen des Auf- und Unterganges der Sterne. Will man z.B.
+die Zeit wissen, um welche ein Stern in Berlin früher aufgeht, als ein
 andrer durch den Meridian geht, so stelle man die Pole der Kugel zuerst in
 diejenige Lage zum Horizont, welche die Himmelspole in Berlin haben, und lasse
 sie in dieser Stellung unbeweglich, drehe dann die Kugel so, daß der eine Stern
@@ -1086,7 +1086,7 @@ gefunden wird, gibt die Anzahl der zwischen beiden Erscheinungen verflossenen
 Zeit. Nimmt man statt des ersten der beiden Sterne die Sonne, so findet man
 die Zeit des Auf- und Untergangs der Sterne. Man sieht, daß durch diese
 Himmelskugel eine große Anzahl der den Auf- und Untergang der Sonne und der
-Gestirne, die Dauer des Tages und ähnliche Gegenstande betreffenden Fragen
+Gestirne, die Dauer des Tages und ähnliche Gegenstände betreffenden Fragen
 beantwortet werden können, und sie daher die Quelle einer eben so angenehmen,
 als nützlichen Unterhaltung ist. Auch braucht sie keinesweges groß zu sein;
 denn eine Kugel von 1 Fuß Durchmesser gewährt, bei ungleich weniger Kosten und
@@ -1147,19 +1147,19 @@ folgende Tabelle eingerichtet.
 
 <@pagebreak/>
 
-<table>
-<tr><td>Januar   </td><td>24</td><td>22</td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td></tr>
-<tr><td>Februar  </td><td>22</td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td></tr>
-<tr><td>März     </td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>22</td></tr>
-<tr><td>April    </td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td></tr>
-<tr><td>Mai      </td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td></tr>
-<tr><td>Juni     </td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td></tr>
-<tr><td>Juli     </td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td></tr>
-<tr><td>August   </td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td></tr>
+<table class="vborder" style="border-top: 2px solid;">
+<tr><td>Januar</td>   <td>24</td><td>22</td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td></tr>
+<tr><td>Februar</td>  <td>22</td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td></tr>
+<tr><td>März</td>     <td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>22</td></tr>
+<tr><td>April</td>    <td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td></tr>
+<tr><td>Mai</td>      <td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td></tr>
+<tr><td>Juni</td>     <td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td></tr>
+<tr><td>Juli</td>     <td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td></tr>
+<tr><td>August</td>   <td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td></tr>
 <tr><td>September</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td></tr>
-<tr><td>Oktober  </td><td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td></tr>
-<tr><td>November </td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td></tr>
-<tr><td>December </td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td></tr>
+<tr><td>Oktober</td>  <td> 6</td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td></tr>
+<tr><td>November</td> <td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td></tr>
+<tr><td>December</td> <td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td></tr>
 </table>
 
 <@pagebreak/>
@@ -1168,7 +1168,7 @@ gefolgt, die Stunden von 1 bis 24 zu zählen. Nimmt man etwa Mittag als Anfang
 des Tages an, so bedeutet 12 Mitternacht; 14, 2 Uhr nach Mitternacht; 22, 10
 Uhr Morgens; 24 Mittag. Die senkrechten Rubriken bedeuten immer, daß in den
 angegebenen Tagesstunden der Himmel an gleichen Monatstagen denselben Anblick
-gewährt. So ist z. B. der Fixsternhimmel den 1sten August im Anfange aller
+gewährt. So ist z.B. der Fixsternhimmel den 1sten August im Anfange aller
 Monate in der angegebenen Stunde sichtbar, also im Winter am Tage, mithin gar
 nicht, und im Sommer in der Nacht. Da aber alsdann die Dämmerung die
 Beobachtung hindert, so bleibt nur eine kurze Zeit übrig, um den ganzen
@@ -1189,7 +1189,7 @@ Milchstraße glänzen unter andren Andromeda, Pegasus und der Stier. Im Meridian
 sind der Wassermann, Pegasus, wozu noch die jeden Abend sichtbaren Sternbilder
 der Bären, des Drachen u. s. w. kommen. Indem man abwechselnd die Karte und den
 Himmel betrachtet, zuerst den Polarstern, den man mittelst der zwei ersten
-Sterne des großen Bären leicht finden kann (S. 392.) aufsucht, und dann die
+Sterne des großen Bären leicht finden kann <@pa.seite 392/> aufsucht, und dann die
 ebenfalls bald zu erkennende Milchstraße, so kann man leicht die Lage aller
 sichtbaren Sternbilder kennen lernen.
 
@@ -1199,5 +1199,5 @@ werden, deren Breite nicht viel unter 50° ist, also, da es auf einige Grade
 nicht ankommt, in ganz Deutschland.
 
 <@footnote 1>Statt 10 Uhr, wie auf der Karte steht, müßte es also eigentlich 10½
-heißen, und statt Europa, nördlich von 5O° nördlicher Breite.</@footnote>
+heißen, und statt Europa, nördlich von 50° nördlicher Breite.</@footnote>
 

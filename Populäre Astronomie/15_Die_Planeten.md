@@ -208,7 +208,7 @@ wohlbekannten Bewegungen der Erde und des Planeten, und berechnet daraus die
 Dauer eines Umlaufs. Man fand z. B. beim Jupiter in 3 Jahren oder 1096 Tagen
 und 3 Stunden 2652 Umwälzungen; durchs Dividiren erhielt man daraus für *eine*
 Umwälzung die oben angegebene Zeit, ohne daß ein kleiner Fehler in den
-Beobachtungen einen merklichen Irrthum verursachen konnte (vergl. <@pa.seite0 190/>).
+Beobachtungen einen merklichen Irrthum verursachen konnte <@pa.vergl 190/>.
 
 In der ganzen Tabelle fehlen die Zahlen für die vier kleinen Planeten, und auch
 für den Uranus sind sie höchst unzuverlässig, weil diese Himmelskörper für so
@@ -252,7 +252,7 @@ gänzlich geändert sein kann. Übrigens gehört die
 Neigung zu den für den Planeten wichtigsten Gegenständen.
 Wie bei der Erde wird dadurch die Länge
 der Jahreszeiten, die verschiedene Länge der Tage, kurz
-das ganze Klima bestimmt (vergl. <@pa.seite0 152/>). Am
+das ganze Klima bestimmt <@pa.vergl 152/>. Am
 gleichförmigsten sind die Jahreszeiten im *Jupiter*;
 die Sonne entfernt sich nur wenige Grade vom Äquator,
 wo ewiger Sommer herrschen wird, wenn nicht

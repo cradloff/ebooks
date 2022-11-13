@@ -167,7 +167,7 @@ Mittelst der gemeinschaftlichen Anziehung des Mondes durch die Sonne und die
 Erde zu der sie verbindenden Linie, wird jener immer der Ekliptik genähert und
 erreicht sie bei jedem Umlaufe früher als vorhin. Diese Ablenkung beschränkt
 sich nicht auf die Durchschnittslinie der Monds- und Erdbahn, sondern findet in
-jeder Lage des Mondes statt (vergl. S. 155). Berechnet man aus den Bewegungen
+jeder Lage des Mondes statt <@pa.vergl 155/>. Berechnet man aus den Bewegungen
 desselben seine Knoten, so findet man, daß diese eine tägliche mittlere
 Bewegung von etwa 3’ 10" 8 haben, und in 6793 T. 10 St. 6’ 30" rückgängig einen
 Umlauf um die Ekliptik vollenden. Indeß ist diese Bewegung wegen des
@@ -185,7 +185,7 @@ Ekliptik vollenden. Ihre Bewegung ist zweimal so schnell als die der Knoten;
 sie entfernen sich täglich 9’ 51" 7 von
 <@pagebreak/>
 einander, und die ganze Periode bis sie
-wieder zusammentreffen ist 1931 T. 17 St. 45’ (vergl. S.155). Auch diese
+wieder zusammentreffen ist 1931 T. 17 St. 45’ <@pa.vergl 155/>. Auch diese
 Bewegung ist sehr schwankend.
 
 Durch dieselben Ursachen ward auch die *Neigung* der Bahn zur Ekliptik

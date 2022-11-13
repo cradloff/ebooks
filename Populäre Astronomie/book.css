@@ -10,6 +10,12 @@ h2 {
 	font-weight: normal;
 }
 
+h3 {
+	text-align: center;
+	font-size: large;
+	font-weight: normal;
+}
+
 p {
 	margin: 2pt 0 2pt;
 	text-indent: 1em;

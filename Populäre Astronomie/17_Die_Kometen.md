@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 315/>
 
 Sechszehnte Vorlesung.
@@ -13,7 +15,7 @@ vielmehr wird sie noch von einer großen Anzahl von Körpern in den
 verschiedensten Bahnen umlaufen: es sind die *Kometen*.
 
 Jeder Körper, welcher der Anziehungskraft der Sonne gehorcht, bewegt sich in
-einer Ellipse, Parabel oder Hyperbel (S. 59.) um die Sonne, die sich in einem
+einer Ellipse, Parabel oder Hyperbel <@pa.seite 59/> um die Sonne, die sich in einem
 der Brennpunkte dieser Linien befindet. Die letzteren beiden dehnen ihre Arme
 in’s Unendliche aus und kehren nie wieder zur Sonne zurück, wenn sie einmal von
 ihr gewichen sind; sie entfernen sich alsdann immer weiter von ihr, bis sie in
@@ -60,7 +62,7 @@ Sonnennähe erblicken, und verlieren sie dann wieder auf lange Zeit. Wir sehen
 sie oft nur wenige Tage, höchstens ein Jahr, und ihre Umlaufszeit, die ganz dem
 dritten Keplerschen Gesetze folgt, währt oft Jahrhunderte und Jahrtausende. Der
 Komet, dessen Bahn und Umlaufszeit zuerst berechnet, und durch die Erfahrung
-bewahrt ist, ist der von 1682. Halley verglich den der Beobachtung
+bewährt ist, ist der von 1682. Halley verglich den der Beobachtung
 unterworfenen Theil seiner Bahn mit dem Kometen von 1607, fand die Gleichheit
 beider, berechnete seine Umlaufszeit auf 75½ Jahre und sagte sein
 Wiedererscheinen auf das Jahr 1759 voraus. Durch seine Wiederkehr wurde
@@ -121,7 +123,7 @@ unbeschränkt. Wenn bei einigen die Neigung nur 7° betrug, also weniger wie bei
 manchen Planeten, und in einigen Fällen noch geringer ist, so stehn andre fast
 senkrecht darauf; bald geht ihre Bahn von Osten nach Westen, bald umgekehrt um
 die Sonne, und man hat bemerkt, daß unter 34 genau berechneten Kometenbahnen 17
-rechtläufig und 17 rückläufig waren (S. 97.).
+rechtläufig und 17 rückläufig waren <@pa.seite 97/>.
 
 Auch in Rücksicht ihrer Entfernung von der Sonne scheinen die Kometen fast
 gleichförmig vertheilt zu sein; denn so weit sie beobachtet werden konnten,
@@ -222,7 +224,7 @@ Mitte zu an Dichtigkeit und Undurchsichtigkeit zunimmt. Oft befindet sich in
 der Mitte ein viel kleinerer *Kern*, der sich durch seine größere Dichte und
 Undurchsichtigkeit von der Atmosphäre unterscheidet. An die Scheibe schließen
 sich oft einer, zwei oder mehrere mannigfach gestaltete, veränderliche
-Schweife, deren Lange nicht selten Millionen Meilen beträgt. Der Glanz, der
+Schweife, deren Länge nicht selten Millionen Meilen beträgt. Der Glanz, der
 zuweilen dem der nächsten Planeten nicht nachsteht, ist bei den kleinen Kometen
 so unbedeutend, daß er selbst durch teleskopische Sterne verdunkelt wird. Auch
 an Farbe sind sie sehr verschieden; zuweilen haben sie ein silberweißes Licht
@@ -238,7 +240,7 @@ Umstand ausgezeichnet ist.
 Die *Gestalt* der Kometen scheint sphäroidisch zu sein, so daß der größte
 Durchmesser der Sonne zugekehrt ist, ähnlich dem muthmaßlichen Verhältnisse des
 <@pagebreak/>
-Mondes zur Erde (S. 208.); z. B. bei dem Kometen des Jahrs 1744 verhielten sich
+Mondes zur Erde <@pa.seite 208/>; z. B. bei dem Kometen des Jahrs 1744 verhielten sich
 die beiden Durchmesser wie 3:2. Die *Größe* der Scheibe ist sehr verschieden,
 zuweilen von der scheinbaren Größe der Sonne und des Mondes, wie in den Jahren
 146 v. Chr., 59 (zu Nero’s Zeiten), 1006 und 1652 nach Chr., zuweilen nur durch
@@ -248,7 +250,7 @@ begrenzt, daß man sie als Grundlage der Messung betrachten könnte, und die
 Grenze der Atmosphäre und des Kerns ist so undeutlich, daß z. B. Herschel den
 Durchmesser des Kerns des Kometen von 1811 auf 1000 Meilen und Schröter ihn auf
 120 schätzte, indem sie aus der von ihnen beobachteten scheinbaren Größe und
-der bekannten Entfernung die *wahre Größe* leicht berechnen konnten (S. 53.).
+der bekannten Entfernung die *wahre Größe* leicht berechnen konnten <@pa.seite 53/>.
 Wenn zwei solche Beobachter in dem Grade von einander abweichen, so verdienen
 ältere Messungen noch weit weniger Vertrauen, besonders da die Größe selbst
 Veränderungen unterworfen ist. Nach Hevel war der Komet von 1652 viel kleiner
@@ -260,8 +262,8 @@ bedeutende Veränderungen voraussetzt.
 Ob der Kern ganz undurchsichtig ist, bleibt noch unentschieden; zwar hat man
 durch den Kern selbst nur in seltenen Fällen, oder nie, Sterne erblickt, aber
 man hat auch keine *Lichterscheinungen* gesehen, wie bei dem Monde und den
-Planeten (S. 169, 185) wenn man nicht den von 1744 ausnehmen will, wo einige
-Astronomen sie beobachtet zu haben glauben; 
+Planeten (<@pa.seite0 169/>, <@pa.seite00 185/>) wenn man nicht den von 1744
+ausnehmen will, wo einige Astronomen sie beobachtet zu haben glauben; 
 <@pagebreak/>
 auch hat man noch niemals Kometen,
 die der Berechnung nach zwischen uns und der Sonne durchgingen, als schwarze
@@ -358,7 +360,7 @@ Umläufen noch ausgezeichneter sein. Der Komet von 1682 erregte wegen seiner
 Größe die Aufmerksamkeit aller damaligen Astronomen, war aber schweiflos.
 Halley sagte seine Wiederkehr auf das Jahr 1759 voraus; aber seine Gestalt
 hatte sich um diese Zeit so sehr verändert, und er hatte an seiner Größe so
-viel verloren, daß er nur durch die Übereinstimmung seiner Bahn (S. 317.)
+viel verloren, daß er nur durch die Übereinstimmung seiner Bahn <@pa.seite 317/>
 wiedererkannt werden konnte. Eben so unbedeutend war er auch 1531, aber 1456
 hatte er einen Schweif von 60° Länge. Vielleicht ist der Wechsel der
 Lichtstärke periodisch.
@@ -383,7 +385,7 @@ verhältnißmäßig starke Hitze, an seiner Oberfläche größtentheils in Dampf
 verwandelt, der sich, vermöge seiner Elasticität, nach allen Seiten
 gleichförmig verbreitet, aber wegen seiner großen Ausdehnung fast ohne Einfluß
 auf das Licht, und daher unsichtbar ist. Ähnliche Ursachen, wie diejenigen,
-welche die Ebbe und Fluth (S. 209.) hervorbringen, werden diesen Dampf
+welche die Ebbe und Fluth <@pa.seite 209/> hervorbringen, werden diesen Dampf
 vorzüglich an den beiden von der Sonne ab- und ihr zugekehrten Richtungen
 ausdehnen. Aber an der von der Sonne abgewendeten Seite findet der Dampf nicht
 mehr den seiner Menge angemessenen Wärmegrad vor, er schlägt sich als ein
@@ -461,7 +463,7 @@ Bewegung zu vermindern und seine Bahn sowohl der Kreisform als der Sonne zu
 nähern, in welche er sich also, wenn kein andrer Umstand diesen Ursachen
 entgegenwirkt, endlich stürzen wird. Wenn die Atmosphäre der Sonne in der
 Richtung ihres Äquators sehr ausgedehnt ist, wie es aus den Erscheinungen des
-Zodiakallichts zu folgen scheint, so werden die Kometen aus Ähnlichen Ursachen
+Zodiakallichts zu folgen scheint, so werden die Kometen aus ähnlichen Ursachen
 sich immer mehr dieser Ebene nähern; aber hier stoßen sie auf neue Feinde.
 Wenn nämlich ihre Excentricität größer als die der Planeten ist, und ihre Bahn
 nicht sehr von derjenigen der letztern abweicht, so wird sie diese während eines
@@ -503,7 +505,7 @@ betrachtet sie jetzt das Volk mit gleichgültiger Neugier, und der Astronom mit
 der größten Aufmerksamkeit, der den günstigen Augenblick 
 <@pagebreak/>
 erhaschen will, um die
-Eigenschaften jener räthselhasten Körper genauer kennen zu lernen.
+Eigenschaften jener räthselhaften Körper genauer kennen zu lernen.
 
 Von den großen Einflüssen, die man sonst den Kometen zuschrieb, hat sich auch
 nicht einer bestätigt. Man pflegt zwar auch jetzt noch oft ein Kometenjahr für
@@ -515,7 +517,7 @@ Unterschiede bemerkt, denn auch auf den Fall der Meteorsteine und auf Ebbe und
 Fluth ist *bis jetzt* jeder Komet ohne Wirkung geblieben. Daß es einmal geschehen
 könne, läßt sich nicht läugnen, denn der Komet von 1770 kam der Erde fast so
 nahe als der Mond, und würde, wenn er eben so viel Masse gehabt hätte, als sie,
-das Jahr um zwei Stunden 47’33" verlängert haben, oder wenn er nur 1/5000
+das Jahr um zwei Stunden 47’33" verlängert haben, oder wenn er nur <@pa.bruch z="1" n="5000"/>
 derselben gehabt hätte, um 3½"; aber es ist gar keine Veränderung eingetreten.
 Auch im Jupiterssystem, das er auf seiner Bahn durchschnitten hat, ist durch
 seine Anwesenheit nichts verändert worden, ja es ist sogar möglich, daß ihn
@@ -583,7 +585,7 @@ Entfernung, so müssen diese unsrer Erde entweder nur selten nahe genug kommen,
 um als Kugeln gesehen werden zu können, oder sie hören, wenn 
 <@pagebreak/>
 sie näher kommen,
-auf zu leuchten und und sichtbar zu sein. In den niedren Schichten unserer
+auf zu leuchten und uns sichtbar zu sein. In den niedren Schichten unserer
 Atmosphäre erleidet die Bahn und Gestalt dieser Körper mancherlei
 Veränderungen: zuweilen entfernen sie sich wieder, und scheinen also von der
 Atmosphäre, wie von einem elastischen Körper zurückzuprallen, zuweilen
@@ -603,7 +605,7 @@ ganz verwerfen konnten. In Großbritannien und Irland, Frankreich, Deutschland
 und Italien d. h. auf den 33000 Quadratmeilen der Erde, wo man diesen
 Untersuchungen vorzügliche Aufmerksamkeit geschenkt hat, sind in den ersten 22
 Jahren unsres Jahrhunderts 27 Meteorsteinfälle beobachtet worden. Da kein Grund
-bekannt ist, warum auf den 9300000 Q. M. der Erde nicht verhältnißmaßig eben so
+bekannt ist, warum auf den 9300000 Q. M. der Erde nicht verhältnißmäßig eben so
 viele Meteorsteine gefallen sein sollten, so findet man aus dem Verhältniß
 33000:27 = 9300000: — 7609, daß in 22 Jahren auf der ganzen Erde 7609, oder
 jährlich 346 Steine gefallen sind, wovon etwa 100 auf das feste Land, und 6 — 7
@@ -623,7 +625,7 @@ Stoffen verdanken; aber viele haben ähnliche Bestandtheile wie die Meteorsteine
 und sind vielleicht kleine Trümmer derselben, die lange in der Atmosphäre
 schwebten und endlich entweder sich von selbst herabsenkten, oder von den
 wässrigen Niederschlägen herabgeschwemmt wurden. Sehr selten ist der
-*meteorische Hagel* d. h. gewöhnlicher Hagel in dessen Innern sich ein
+*meteorische Hagel* d.h. gewöhnlicher Hagel in dessen Innern sich ein
 Schwefelkieskrystall oder ein ähnlicher Körper befand. Die Bildung dieses
 Hagels ist um so dunkler, da die des Hagels selbst noch nicht genügend erklärt
 ist. Vielleicht hatten sich die Steinkerne in der oberen kalten Luft ohne
@@ -653,7 +655,7 @@ mit einem andren Körper, verbreitet eine Menge von größeren und kleineren
 Bruchstücken in dem Weltraume, die sich den Gesetzen der Anziehung gemäß
 bewegen, und mit der Erde zusammenstoßen können. Vielleicht bestehn sie
 größtentheils aus kleinen Trümmern jenes großen Planeten, wovon die vier
-Mittelplaneten die Hauptüberreste zu sein scheinen (S. 180); andre sind
+Mittelplaneten die Hauptüberreste zu sein scheinen <@pa.seite 180/>; andre sind
 vielleicht gleichzeitig mit den Planeten entstanden; einige können sogar den
 Vulkanen der Erde und des Mondes ihren Ursprung verdanken. Ein Körper, der z.
 B. aus dem Monde mit einer Geschwindigkeit von 8000 Fuß in der Sekunde geworfen

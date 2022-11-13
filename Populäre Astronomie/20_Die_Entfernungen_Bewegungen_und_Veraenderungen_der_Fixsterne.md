@@ -1,3 +1,5 @@
+<#import "pa.ftl" as pa>
+
 Neunzehnte Vorlesung.
 =====================
 
@@ -37,13 +39,13 @@ dieses eine
 <@pagebreak/>
 Änderung in der Lage der Sterne hervorbringen würde.
 
-Ein Stern befinde sich in der Ebene der Ekliptik, in _S_ (Fig. 19.); _E_ sei die
+Ein Stern befinde sich in der Ebene der Ekliptik, in _S_ <@pa.fig nr="19"/>; _E_ sei die
 Sonne und der um sie beschriebene Kreis die Bahn der Erde; _GF_ sei ein Stück des
 größten Kreises an der Himmelskugel, welcher der Ekliptik entspricht, dessen
 Entfernung von der Erde man sich aber unendlich groß denken muß. Befindet sich
 die Erde in _A_, daß also der Stern mit der Sonne in Konjunktion ist, so wird er in
 _s_ gesehen. Sobald sich die Erde nach _B_ bewegt, wo der Stern sich in der ersten
-Quadratur befindet (S. 98.), so wird er nicht mehr in _s_, sondern in _b_ gesehn,
+Quadratur befindet <@pa.seite 98/>, so wird er nicht mehr in _s_, sondern in _b_ gesehn,
 also östlicher als früher, und seine _Länge_ ist jetzt größer. Je mehr sich die
 Erde dem Punkte _C_ oder der Opposition nähert, desto mehr nimmt die Länge des
 Sternes wieder ab, so daß er, wenn die Erde in _C_ ist, wiederum in _s_ gesehn
@@ -56,7 +58,7 @@ Ekliptik sind, auch noch ein Unterschied in der *Breite* eintritt. Die Sterne
 scheinen nämlich in ihren Oppositionen mit der Sonne höher zu stehn, und also
 eine größere Breite zu haben als in den Konjunktionen. Der Winkel _BSA_ welchen
 die Richtungen, in denen der Stern gesehn worden ist, verschieden sein können,
-oder die *Parallaxe* des Sterns (S. 53.) ist dem Winkel gleich, unter welchem der
+oder die *Parallaxe* des Sterns <@pa.seite 53/> ist dem Winkel gleich, unter welchem der
 Durchmesser der Erdbahn, d. h. ungefähr 42 Mill. Meilen, von dem Sterne aus
 gesehen werden müßte. Je größer die Entfernung der Sterne ist, desto 
 <@pagebreak/>
@@ -65,7 +67,7 @@ sind die Winkel; aber sie sind so klein, daß bis jetzt bei keinem Fixsterne
 mit Sicherheit eine Parallaxe entdeckt worden ist.
 
 Bradley’s Versuche haben wir schon angeführt. Zwar machte er zwei andre
-köstliche Entdeckungen, die Nutation und Aberration (S. 151, 158.); allein der
+köstliche Entdeckungen, die Nutation und Aberration (S. <@pa.seite00 151/>, <@pa.seite00 158/>.); allein der
 eigentliche Zweck seiner Arbeit, die Auffindung der Parallaxe, mißlang, und er
 konnte als Ergebniß seiner Beobachtungen nur anführen, daß sie kleiner als eine
 Sekunde sein müsse, weil er sie sonst gefunden haben würde, woraus durch eine
@@ -94,7 +96,7 @@ unermeßlich große Sternweite kein würdiges Maß ist.
 Man bedient sich auch wol der Zeit, welche das Licht, der schnellste Körper,
 den wir kennen, gebraucht, von einem Himmelskörper zu uns zu gelangen, um die
 Entfernungen, derselben zu bezeichnen. Es durcheilt 40000 Meilen in der
-Sekunde, so daß es von der Sonne in 8⅓ Minuten (S. 225.) bei uns angelangt
+Sekunde, so daß es von der Sonne in 8⅓ Minuten <@pa.seite 225/> bei uns angelangt
 ist; und dennoch bedarf es, um *eine* Sternweite zu durchschneiden, 6 — 7 Jahre.
 Sirius könnte z. B. zerstört werden, und wir würden ihn erst nach 6 Jahren
 vermissen. Selbst wenn man eine Parallaxe von 5 Sek. annehmen wollte, die
@@ -126,7 +128,7 @@ Da unmittelbare Messungen keine Genauigkeit gewährten, so versuchte man den
 Durchmesser des Sterns durch die Zeit zu finden, welche der Mond, wenn er auf
 seinem Umlaufe zwischen dem Sterne und uns durchgeht, gebraucht, um ihn ganz zu
 bedecken. Der Mond legt nämlich auf seiner monatlichen Bewegung 1 Sek. an der
-Himmelskugel in 2 Sek. Zeit zurück (S. 189); er würde also einem an der
+Himmelskugel in 2 Sek. Zeit zurück <@pa.seite 189/>; er würde also einem an der
 Himmelskugel unbeweglichen Sterne, der sich auf seiner Bahn befindet und dessen
 Durchmesser eine Sek. beträgt, in 2 Zeitsekunden bedecken. Allein dieß schien
 den aufmerksamen Beobachtern bei allen untersuchten Sternen, worunter sich
@@ -137,13 +139,13 @@ größer als ¼ Sekunde sein. Wahrscheinlich ist er aber noch viel kleiner.
 
 Der *wahre Umfang* kann aber trotz der geringen Größen der scheinbaren
 Durchmesser sehr bedeutend sein. Herschel schätzte z. B. den Durchmesser von α
-in der Leier auf ⅓ Sek, Nimmt man nun dessen Parallaxe auf 2 Sek. an, so wird
+in der Leier auf ⅓ Sek. Nimmt man nun dessen Parallaxe auf 2 Sek. an, so wird
 der Stern 
 <@pagebreak/>
 in derselben Entfernung ⅓ Sek. groß gesehen, in welcher der
-Durchmesser der Erdbahn, oder etwa 216 Durchmesser der Sonne (S. 238), 2" groß
+Durchmesser der Erdbahn, oder etwa 216 Durchmesser der Sonne <@pa.seite 238/>, 2" groß
 erscheint. Er beträgt also ⅙ derselben, oder 36 Sonnendurchmesser. Die Sonne
-würde in dieser Entfernung nur einen scheinbaren Durchmesser von 1/108" haben.
+würde in dieser Entfernung nur einen scheinbaren Durchmesser von <@pa.bruch z="1" n="108"/>" haben.
 Nimmt man die Entfernung der Sterne noch größer, oder die Parallaxe kleiner an,
 etwa nur 1" groß, so würde ein Stern, dessen scheinbarer Durchmesser ⅓"
 beträgt, einen 72 mal so großen Durchmesser haben, oder einen 445248 mal so
@@ -163,7 +165,7 @@ berechnen, in welcher sich die Sonne befinden muß, um den Fixsternen in ihrer
 äußeren Erscheinung gleich zu werden, so wird man dadurch die Entfernung eines
 Fixsterns ungefähr bestimmen können. Das Licht eines Körpers nimmt nämlich nach
 den Quadraten der Entfernung ab, so daß die Sonne z. B. in einer zehnfachen
-Entfernung uns nur 1/100 des Lichts (S. 257) 
+Entfernung uns nur <@pa.bruch z="1" n="100"/> des Lichts <@pa.seite 257/> 
 <@pagebreak/>
 zeigen würde; allein selbst da, wo die
 Parallaxe 2" beträgt und der Durchmesser völlig unmerklich ist, würde sie uns
@@ -173,15 +175,15 @@ vielleicht den nicht von Himmelskörpern eingenommenen Raum erfüllt, etwas
 geschwächt wird, so kann man annehmen, daß die Sonne in einer Entfernung, die
 derjenigen der Fixsterne gleich ist, auch ungefähr in demselben Glanze
 erscheinen würde, also in einer Sternweite als ein Stern erster Größe, in zwei
-Sternweiten als ein Stern zweiter Größe u. s. f.
+Sternweiten als ein Stern zweiter Größe u.s.f.
 
 Obgleich man nun den Umfang der Sterne *erster Größe* nicht genau kennt, so kann
 man sie doch als einen Maßstab für die andren Himmelskörper anwenden. Man kann
 unter den Sternen *zweiter Größe* doppelt so weit entfernte Sterne verstehn,
-unter denen *dritter Größe* dreimal so weit entfernte u. s. f. Da der Glanz bei
+unter denen *dritter Größe* dreimal so weit entfernte u.s.f. Da der Glanz bei
 gleichen Körpern abnimmt, wie das Quadrat der Entfernungen zunimmt, so würde
 unsre Sonne als Stern zweiter Größe nur den vierten Theil des Glanzes von einem
-Sterne erster Größe haben, als Stern dritter Größe den neunten Theil u. s. w.
+Sterne erster Größe haben, als Stern dritter Größe den neunten Theil u.s.w.
 Diese Eintheilung ist mit der einmal eingeführten ziemlich übereinstimmend,
 und, da sie auf bestimmten Grundsätzen beruht, jeder andren vorzuziehen.
 
@@ -239,7 +241,7 @@ raschesten fortzurücken. Wenn die Bewegung *parallaktisch* d. h. nur scheinbar
 ist, und durch ein Fortschreiten der Sonne mit ihren zahllosen Begleitern
 veranlaßt wird, so werden diejenigen Fixsterne, welche gerade vor oder hinter
 uns liegen, unbeweglich sein, die andren aber hinter uns zu rücken scheinen.
-Die Sonne sei von _A_ nach _B_ (Fig. 20.) fortgerückt; so sind die Winkel _ABC_,
+Die Sonne sei von _A_ nach _B_ <@pa.fig nr="20"/> fortgerückt; so sind die Winkel _ABC_,
 _ABD_… um welche sich die Lage der Sterne _C,D_… geändert hat, gleich der
 scheinbaren Größe, unter welcher die Linie _AB_ von dem Sterne aus gesehn wird.
 _F_, dem sich die Sonne am meisten nähert, und _G_ von dem sie sich am meisten
@@ -333,13 +335,13 @@ daher eine Wahrscheinlichkeit von Millionen gegen 1, daß, wenn zwei Sterne sich
 innerhalb eines so kleinen Raumes befinden, sie in der That durch ein engeres Band
 verknüpft sind.
 
-Dieses war das Resultat der ersten Entdeckung; Die spätern Beobachtungen haben
+Dieses war das Resultat der ersten Entdeckung; die spätern Beobachtungen haben
 es aber außer Zweifel gesetzt, indem man bei den meisten Doppelsternen eine *Bewegung
 um einen gemeinschaftlichen Mittelpunkt* entdeckt hat. Wir haben in der 17ten
 Vorlesung gezeigt, daß ein sich frei bewegender Himmelskörper, der in die Nähe
 eines andren kommt, von diesem angezogen wird und in seiner Bahn Änderungen
 erleidet. Es entsteht dadurch, unabhängig von der fortschreitenden Bewegung
-beider Körper, auch eine um den gemeinschaftlichen Schwerpunkt (S. 358). Bei den
+beider Körper, auch eine um den gemeinschaftlichen Schwerpunkt <@pa.seite 358/>. Bei den
 Körpern unsres Sonnensystems fällt dieser fast durchgängig innerhalb des
 Hauptkörpers, wodurch die Bahn des kleinern fast ganz zum Kreise oder zur Ellipse
 um den größern wird. Bei den Systemen der Fixsterne, wofür wir auch die
@@ -362,7 +364,7 @@ zurückgestralten Lichte des Hauptkörpers glänzen, werden wir zwar wol
 schwerlich jemals wahrnehmen können; allein es ist uns auch kein Grund bekannt,
 warum überall bloß der Centralkörper selbst leuchten soll. Scheint doch sogar
 im Sonnensysteme die bei weitem zahlreichste Klasse von Körpern, die Kometen,
-eigenes Licht zu haben! (S. 325).
+eigenes Licht zu haben! <@pa.seite 325/>.
 
 Die *Ebene*, in welcher die Doppelsterne sich bewegen, hat alle möglichen Lagen
 zu unsrer Gesichtslinie. Zuweilen ist sie senkrecht darauf; dann bleibt die
@@ -393,11 +395,11 @@ und 600, bei mehr als 20 zwischen 8 und 900, und bei sehr vielen war das
 Fortschreiten so schwach, daß die Umlaufszeit 1000 — 2000 Jahre betragen muß;
 wenn nicht vielleicht hier und da die Sterne sich gerade jetzt in ihrer größten
 Entfernung befinden und ihre Geschwindigkeit späterhin, wie bei den Planeten
-und Kometen im Perihelium, beschleunigt wird (vergl. S. 318). Bei mehreren ist
+und Kometen im Perihelium, beschleunigt wird <@pa.vergl 318/>. Bei mehreren ist
 noch gar keine Bewegung wahrgenommen worden; dieß rührt wol nur von der Kürze
 der Beobachtungszeit her; denn daß zwei Körper sich ruhig neben einander
 befinden sollten, ohne in einander zu stürzen, scheint unmöglich zu sein
-(vergl. S. 359).
+<@pa.vergl 359/>.
 
 Wahrscheinlich haben ähnliche Ursachen, wodurch die Planeten und Kometen unsrer
 Sonne entstanden sind, auch den Sonnen der Doppelsterne kleinere Begleiter
@@ -423,7 +425,7 @@ umgebenden Sterne, vielleicht der glänzende und daher wahrscheinlich auch sehr
 nahe α in der Leier (Wega) statt einer Centralsonne eine Gegensonne ist. Alle
 Erscheinungen der parallaktischen Bewegung der Fixsterne können auch durch
 diese Annahme erklärt werden. Auch darf uns die ungeheure Periode der
-Sonnenbewegung (S. 431) nicht stören, indem wir die sehr großen Perioden bei
+Sonnenbewegung <@pa.seite 431/> nicht stören, indem wir die sehr großen Perioden bei
 den Doppelsternen bis jetzt, eben wegen ihrer Lange, nicht bemerken könnten.
 
 Die einzelnen Sterne der Doppelsterne scheinen einen sehr bedeutenden Umfang zu
@@ -458,7 +460,7 @@ und vielleicht ist nicht einer davon ausgenommen.
 
 Diese Veränderlichkeit erstreckt sich auch auf den Glanz und die Größe der
 Fixsterne. Am merkwürdigsten sind die *periodischen* Wechsel. *Algol* im Haupte der
-Medusa, β Perseus) hat eine Glanzperiode von 2 Tagen 20 Stunden 49 Minuten. Über
+Medusa, (β Perseus) hat eine Glanzperiode von 2 Tagen 20 Stunden 49 Minuten. Über
 2½ Tage glänzt er als Stern zweiter Größe, 3½
 <@pagebreak/>
 Stunden nimmt er ab, wird dann auf 18 Minuten plötzlich blaß und erreicht nach
@@ -503,7 +505,7 @@ dunkler Körper herrühren, welche, wenn sie sich zwischen uns und den Sternen
 befinden, sie ganz verfinstern, oder ihr Licht doch sehr schwächen. Kleine
 Planeten können diese Erscheinungen freilich nicht hervorbringen, wol aber
 dunkle Gegenkörper, die sich zu den leuchtenden und daher sichtbaren Fixsternen
-wie eine Gegensonne verhalten (S. 436). Daß es solche große dunkle Körper gebe,
+wie eine Gegensonne verhalten <@pa.seite 436/>. Daß es solche große dunkle Körper gebe,
 ist an sich nicht unwahrscheinlich; denn es ist uns bis jetzt noch keine
 Ursache bekannt, warum Körper von der Größe der Sonne und darüber nothwendig
 leuchten müssen, und dieselben Gründe, die an einigen Stellen der Sonne die
