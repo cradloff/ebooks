@@ -82,7 +82,7 @@ Lionel Barring, wie wir ihn auch weiter nennen
 wollen, enthielt für uns jedoch eine bedeutsame Neuigkeit.
 — Ich gebe den betreffenden Absatz hier wörtlich wieder.
 
-»Ich habe erfahren (so hatte Barring-Gnirable dem
+> »Ich habe erfahren (so hatte Barring-Gnirable dem
 Redakteur erklärt), daß entsprechend den Erbfolgebestimmungen
 meiner Familie, nach denen jeder Unehrenhafte von der
 Erbfolge ausgeschlossen ist, bereits Schritte eingeleitet
@@ -104,7 +104,7 @@ Mirakulum rauchte.«
 (Nebenbei bemerkt: dies traf zu. Es waren genau vier
 Zigaretten gewesen!)
 
-»Mr. Harst sollte daher besser seine Koffer packen und
+> »Mr. Harst sollte daher besser seine Koffer packen und
 nach Berlin zurückkehren. Als er heute mittag gegen halb
 eins mit seinem Intimus Schraut und dem behäbigen Alverson
 über das Lammerty-Moor wanderte, hätte ich ihm am
@@ -123,7 +123,7 @@ von solchen frommen Händlern stets überschwemmt wird.
 Diesem Diktat Barring-Gnirables hatte der Herr Redakteur
 aus sich selbst heraus hinzugefügt:
 
-»Unseres Wissens befinden sich in Schloß Gnir außer
+> »Unseres Wissens befinden sich in Schloß Gnir außer
 den drei Privatdetektiven Harst, Schraut und Alverson noch
 Detektivinspektor Groubby und Detektivwachtmeister Scheffer
 von der Londoner Geheimpolizei, ferner vier Beamte aus
@@ -222,7 +222,7 @@ nicht furchtsam, habe Marry aber doch versprechen müssen,
 Sie beide so lange in meiner Nähe zu behalten, bis Barring
 verhaftet ist.«
 
-»Gut, wir bleiben vorläufig auf Schloß Gnir, Mylord«,
+»Gut, wir bleiben vorläufig auf Schloß Gnir, Mylord,«
 erwiderte Harald freundlich.
 
 Das offene, ungekünstelte Wesen des neuen Herrn von
@@ -266,7 +266,7 @@ dem es selbst im Sommer eisig kühl sein mußte.
 Harald hatte sich in die eine Ecke des Klubsofas gesetzt
 und den Spiritus unter der Kaffeemaschine angezündet.
 
-»Bringe Tassen«, meinte er. »Bewege Dich etwas. Du
+»Bringe Tassen,« meinte er. »Bewege Dich etwas. Du
 mußt rasch normal werden. Es handelt sich diese Nacht
 um wichtigere Dinge als Du ahnst.«
 
@@ -449,8 +449,8 @@ käme ich aus unseren Fremdenzimmern im Ostflügel.
 Alverson, die beiden Londoner, Baptiste und der
 Schloßverwalter standen noch ratlos vor Lord Johns Schlafzimmertür.
 
-»Wo ist Hast?« rief Alverson sofort. »Teufel —
-dieses Schloß hier hält nur zu gut!!« und er warf sich
+»Wo ist Harst?« rief Alverson sofort. »Teufel —
+dieses Schloß hier hält nur zu gut!!« Und er warf sich
 <@pagebreak/>
 abermals mit voller Kraft gegen die Türfüllung — ohne
 Erfolg!
@@ -477,7 +477,7 @@ Aber kein Mensch hier — kein Lebender, kein Toter!
 Wir stürmten durch die offene Verbindungstür in
 Harry Tossings Zimmer.
 
-Hier das selbe blutige Bild.
+Hier dasselbe blutige Bild.
 
 Hier ebensowenig ein Ermordeter.
 
@@ -693,7 +693,7 @@ Laternen …
 Auch diese beiden Gegner knickten um — für immer …
 
 <@pagebreak/>
-Und Barring lag da — regungslos, auf dem Gesicht
+Und Barring lag da — regungslos, auf dem Gesicht,
 wie ein gefällter Baum.
 
 Ein Schwindel packte mich …
@@ -750,9 +750,9 @@ Ohne Zweifel …
 Ich hörte nur hin und wieder ganz schwache Geräusche.
 Ich drückte mich eng an die Wand. Wollte die Laterne enthüllen,
 sobald der Nahende oder die Nahenden über Barrings
-Körper stolperten. Wollte feuern — rücksichtslos …
+Körper stolperten. Wollte feuern — rücksichtslos …:
 
-Auge um Auge, Zahn um Zahn!!…
+Auge um Auge, Zahn um Zahn!! …
 
 Ich hörte nichts mehr …
 
@@ -803,7 +803,7 @@ Und berichtete im Gehen: »Ich hatte geahnt, daß eins
 der Bilder der Galerie dem alten Baptiste als Durchschlupf
 gedient hatte. Ich probierte daher allerlei, um den Trick
 herauszufinden, wie sich eins der Gemälde von der Wand
-wegrücken ließe. So entdeckte ich das bewegliche Messingbild,
+wegrücken ließe. So entdeckte ich das bewegliche Messingschild,
 <@pagebreak/>
 stieg in das Türloch hinein, nachdem ich den Zettel
 für Dich geschrieben hatte, und wurde unten an der Leiter
@@ -841,8 +841,8 @@ Null bekannt mache,« meinte Harald völlig ernst und trat
 an den Tisch heran. »Dies hier ist Mr. James Olden, früher
 Reitknecht des Lord Allan Gnirable, verschwunden seit dem
 8\. April. — Dies ist der zweite Inspektor des Schloßgutes,
-Mr. Baine, ebenfalls verschwunden seit dem achten. Und
-dieser Herr schließlich ist der sehr ehrenwerte Mr. Tobergoul,
+Mr. Barne, ebenfalls verschwunden seit dem achten. Und
+dieser Herr schließlich ist der sehr ehrenwerte Mr. Tabergoul,
 weiland zweiter Chauffeur seines Herrn, des Gebieters über
 <@pagebreak/>
 Schloß Gnir und über die große Null. Auch er ist seit jenem
@@ -995,7 +995,7 @@ Euch. Diese Hoffnung bin ich, das wißt Ihr!«
 Harst mit der schußfertigen Clement in der Rechten
 meinte ungeduldig: »Vorwärts Barring! Wir haben keine
 Zeit zu verlieren. Auch der alte Diener Baptiste, der schon
-ihrem Vater in Wahrheit ehrlich und treu diente, kennt
+Ihrem Vater in Wahrheit ehrlich und treu diente, kennt
 ebenfalls das Geheimnis des Ahnenbildes. Wenn er Detektivinspektor
 Groubby hierher führt, ist unser Handel hinfällig.«
 
