@@ -104,7 +104,7 @@ Manne ein Recht gab, sich von mir loszusagen …! Aber jedem
 Sünder, der reuig Einkehr hält, wird verziehen! Warum
 mir nicht?! Warum?! — Ich habe hier in diesem Zimmer
 vor dem Kapitän auf den Knien gelegen … Ich habe ihn
-angefleht … im habe ihn beschworen … habe geweint …!!
+angefleht … ich habe ihn beschworen … habe geweint …!!
 Er blieb hart …!«
 
 »Weil er hart bleiben mußte,« sagte Harald leise … »Ein
@@ -782,7 +782,7 @@ Titulaturen sind wir nicht gerade leise gewesen.«
 
 Gegen Mitternacht wanderten wir dem Orte Saßnitz zu,
 der mit seinen an die steilen hohen Ufer angeklebten Häuser
-und der modernen Uferpromenade, von Badeanstalten und
+und der modernen Uferpromenade, den Badeanstalten und
 neuen Hotels einen so eigenartigen Anblick bietet und vielleicht
 <@pagebreak/>
 dasjenige Ostseebad ist, das landschaftlich am schönsten
@@ -1064,7 +1064,7 @@ Immerhin wurde es vier Uhr morgens, bevor wir beide
 und Ollenprick uns dem jetzt Wichtigsten zuwenden konnten:
 der Verfolgung der Flüchtlinge!
 
-Als wir mit der Jacht bei anbrechenden Tage gen Binz
+Als wir mit der Jacht bei anbrechendem Tage gen Binz
 fuhren, um dort uns erst einmal nach der Medusa umzutun,
 fanden wir diese zu unserem Erstaunen noch am Binzer Bootsstege
 vertäut.
@@ -1393,7 +1393,7 @@ So stand’s in den Zeitungen …
 
 Heute erfährt die Welt die Wahrheit …
 
-Heute kann im meinen Freunden und Lesern frohen
+Heute kann ich meinen Freunden und Lesern frohen
 Herzens mitteilen, daß es wohl kaum wieder ein so zärtliches,
 inniges Verhältnis zwischen Mutter und Kind geben wird
 wie zwischen Linda und der Reiterin von Ranfort-Station,

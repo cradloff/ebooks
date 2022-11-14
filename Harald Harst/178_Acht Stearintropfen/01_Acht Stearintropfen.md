@@ -240,10 +240,10 @@ nicht … Begreife überhaupt nicht, was die … die Halunken
 wollen … Schabernack?! Keine Ahnung …!«
 
 <@pagebreak/>
-Aha — 	—: Harald hatte fraglos recht mit seiner Vermutung
+Aha — —: Harald hatte fraglos recht mit seiner Vermutung
 gehabt — fraglos! Der Alte wußte etwas! Sein
 Benehmen war zu merkwürdig! Er wagte uns nicht anzusehen
-…? Er war eine zu biedere Haut, um Komödie spielen
+…! Er war eine zu biedere Haut, um Komödie spielen
 zu können.
 
 Eine Weile schwiegen wir …
@@ -331,7 +331,7 @@ sein muß …«
 
 »Einverstanden!« nickte Harald … »Einverstanden, — —
 wir bleiben … Und jetzt wollen wir uns entfernen, wollen
-so tun, als ob wir: Zufallsbekannte wären … Wiedersehen
+so tun, als ob wir Zufallsbekannte wären … Wiedersehen
 …«
 
 <@pagebreak/>
@@ -548,7 +548,7 @@ macht keinen Lärm und … erzeugt in Fensterscheiben kleine
 Löcher, ohne daß man nachher »den Stein« findet, der scheinbar
 durch das Fenster geworfen wurde.
 
-Hempels kamen mir mit einem Male wie Rinaldo Rinaldinis
+Hempels kamen mir mit einem Male wie Rinaldo Rinaldinis<@refnote/>
 vor …
 
 Und mein Harald klemmte eine Hose in den Spanner
@@ -911,12 +911,12 @@ Und er nahm Buch und Handtasche unter die Jacke, und
 dann schritten wir quer durch den stellenweise recht morastigen
 Wald Osternothafen wieder zu …
 
-Ha benutzte diese Gelegenheit, Haralds Meinung über
+Ich benutzte diese Gelegenheit, Haralds Meinung über
 den Fall Ollenprick einzuholen …
 
 Er erklärte bedächtig: »Der Käpten hat uns sein Ehrenwort
 gegeben, daß er nie etwas mit acht Stearintröpfchen zu
-tun gehabt hat … Aber er gab auch zu, daß, er jemand
+tun gehabt hat … Aber er gab auch zu, daß er jemand
 kenne, in dessen Leben die acht Tröpfchen eine Rolle gespielt
 haben. Es dürfte sich daher wahrscheinlich darum handeln,
 daß Ollenprick von diesem Jemand etwas geerbt hat, das
@@ -1017,7 +1017,7 @@ mein Kompagnon und ich die Nachricht, daß unser
 Vertreter ein großes Geschäft vollkommen versiebt hat …«
 
 Auf diese Weise konnten wir nun also den Rückzug aus
-dem gefährlicher Bereich der Hempelschen Wohnung antreten.
+dem gefährlichen Bereich der Hempelschen Wohnung antreten.
 
 Daß Harald die Depesche vorhin an sich selbst aufgegeben
 hatte und daß es nur ein Stadttelegramm war, konnte selbst
@@ -1250,10 +1250,10 @@ Ollenprick schaute in den Sand und schwieg …
 »Gut denn,« erklärte Harald jetzt. »Sie werden nun
 genau befolgen, was ich anordne …«
 
-Der Vortrag, den er Ollenpricks hielt, war recht lang …
+Der Vortrag, den er Ollenprick hielt, war recht lang …
 
 Was dieser Vortrag bezweckte, ersieht der Leser aus dem
-letzten Kapitel des ersten Teile des Problems der acht
+letzten Kapitel des ersten Teiles des Problems der acht
 Stearintropfen …
 
 Ein Problem!!
@@ -1551,7 +1551,7 @@ ich zu hüten einst feierlich gelobt habe.
 > Sollte ich unter solchen Umständen sterben, die den
 Verdacht eines gewaltsamen Todes aufkommen lassen, so
 bitte ich die Behörden, ihr Augenmerk auf eine Frau
-Karla Blank, Berlin, Eisenacher Sir. 11, zu richten, und
+Karla Blank, Berlin, Eisenacher Str. 11, zu richten, und
 der Gerechtigkeit freien Lauf zu lassen, denn diese Frau
 dürfte die Anstifterin alles dessen sein, was man gegen mich
 unternommen hat. Diese Frau erstrebt mit allen Mitteln
