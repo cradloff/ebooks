@@ -55,7 +55,7 @@ starb der Wärter jedoch nach wenigen Minuten, ohne das
 Bewußtsein wiedererlangt zu haben. — Die Polizei stellte
 dann fest, daß dieser angebliche Karl Emser in Wirklichkeit
 ein Oberleutnant a. D. Freiherr von Lüttjen war, der offenbar
-aus Not arm 1. Januar diese Stellung als Wärter mit
+aus Not am 1. Januar diese Stellung als Wärter mit
 Hilfe falscher Papiere sich verschafft hatte. In dem Stübchen
 das der Freiherr Karl von Lüttjen bewohnte, fand die
 Polizei unter anderem die Police einer Amsterdamer
@@ -339,7 +339,7 @@ Er hatte schon das Kursbuch zur Hand genommen …
 und er warf das Kursbuch weg und setzte sich an den
 Schreibtisch …
 
-»Reiche mir das mal die Maschine, mein Alter …«
+»Reiche mir doch mal die Maschine, mein Alter …«
 
 Er tippte einen Brief …
 
@@ -506,7 +506,7 @@ kann bei der ganzen Sachlage zu leicht in den Verdacht geraten,
 womöglich an diesem Morde mitbeteiligt gewesen zu
 sein, da ja leider mein Bruder Karl von mir, der ich als
 Oberkellner in einem der vornehmsten Restaurants Neuyorks
-Recht viel verdiente, keinerlei Unterstützungen annehmen wollte,
+recht viel verdiente, keinerlei Unterstützungen annehmen wollte,
 so daß ich dies nur auf dem Umwege über die Lebensversicherung
 erreichen konnte — in welcher Weise, das erkläre
 ich Ihnen persönlich. — Nochmals die herzliche Bitte: nehmen
@@ -516,7 +516,7 @@ Ernst Freiherr von Lüttjen).«
 
 Las … staunte … fragte:
 
-»Und was Hast du geantwortet?«
+»Und was hast du geantwortet?«
 
 »Durch Rohrpostkarte: Bitte heute abend halb zehn Uhr
 Restaurant Zum Tierpark schräg gegenüber dem Zoo-Eingang.
@@ -536,7 +536,7 @@ Schauten sich suchend um …
 Das kleine Lokal war dicht gefüllt, kein Tisch unbesetzt
 … Und unser Tisch bot noch Raum für vier Personen …
 
-Die beiden Herren trafen an uns heran …
+Die beiden Herren traten an uns heran …
 
 »Gestatten,« sagte der eine, ein schlanker Herr mit einem
 vornehmen, müden Gesicht …
@@ -551,7 +551,7 @@ Hatten beide bartlose, schmale Gesichter. Der Kleinere
 trug ein randloses Monokel …
 
 Und diese Tischnachbarn sprachen leise englisch miteinander,
-englisch mit unverkennbar amerikanischen Akzent.
+englisch mit unverkennbar amerikanischem Akzent.
 
 Sprachen doch nicht leise genug, als daß wir nicht mit
 unseren Luchsohren jedes Wort aufgefangen hätten.
@@ -578,7 +578,7 @@ als hätten wir lediglich für unsere Abendzeitungen Interesse.
 Ernst Lüttjen sagte unter anderem, daß er das Gefühl
 habe, von der Kriminalpolizei überwacht zu werden … »Deshalb
 <@pagebreak/>
-habe im auch mit dir dreimal das Auto gewechselt,
+habe ich auch mit dir dreimal das Auto gewechselt,
 Tassilo …! Ich wünschte nicht, daß das Stelldichein mit Harst
 der Polizei bekannt würde … — Schade, Harst scheint nicht
 zu kommen, es ist bereits nach zehn Uhr …«
@@ -646,12 +646,12 @@ Angelegenheit nach Kopenhagen berufen …!!
 Wir verließen die Kneipe, machten Tassilo einen sehr tiefen
 linkischen Bückling …
 
-Ei hätte ahnen sollen!! Aber — er ahnte nichts!
+Er hätte ahnen sollen!! Aber — er ahnte nichts!
 
 <h2>3. Kapitel.</h2>
 <h3>Die Milliardärin.</h3>
 
-Auf der Straße mittelsten wir sofort ein Auto heran, das
+Auf der Straße winkten wir sofort ein Auto heran, das
 gerade langsam vorüberfuhr …
 
 »’n Abend, Klimke,« sagte Harald zu dem Chauffeur …
@@ -678,7 +678,7 @@ Ja — drei Fenster — — ganz oben in der Mansarde!!
 
 Also dort hauste Tassilo …!
 
-Harst sollte Klimke nach der Ecke Augsburger und Rankestraße
+Harst schickte Klimke nach der Ecke Augsburger und Rankestraße
 … Dort sollte der Helfer warten.
 
 Wir betraten das Haus Nr. 21 …
@@ -1067,7 +1067,7 @@ Er vergalt gleiches mit gleichem … Betrat einen Eckladen,
 ein Friseurgeschäft, und … ward nicht mehr gesehen …
 
 Nach einer halben Stunde erst merkte ich, daß der Laden
-zwei Eingänge hatte. Der X—Beinige war hineingegangen,
+zwei Eingänge hatte. Der X-Beinige war hineingegangen,
 <@pagebreak/>
 kam sofort wieder heraus. Klimke ahnte nichts von meiner
 Anwesenheit auf diesem Kriegsschauplatz … Und so schlenderte
@@ -1205,7 +1205,7 @@ Genauigkeit.
 Harst betonte, daß nur Baron Tassilo Nordall derjenige
 gewesen sein könne, der die Milliardärin beraubt und seinen
 — Harsts Namen benutzt hatte, um sich bei Frau Goulden
-Zutritt zu verschafften. Nordall sei vormittags ein halb
+Zutritt zu verschaffen. Nordall sei vormittags ein halb
 zwölf in dem Hause Augsburger Straße 21 verschwunden,
 könne sich rasch maskiert haben und im Auto nach dem Bristol
 gefahren sein, so daß wir und der Sekretär Bamby nur noch
@@ -1298,7 +1298,7 @@ ungestört flüchten zu können.
 Der Tote war Nordall. Sein Mörder aber — und das
 stellte sich durch telephonische Anfrage bei Frau Goulden
 heraus — mußte der Räuber des Inhalts der Schmuckkassette
-sein denn die unter der Leiche gefundene Brillantbrosche
+sein, denn die unter der Leiche gefundene Brillantbrosche
 gehörte Frau Goulden …! —
 
 Die Herren der Mordkommission und wir beide standen

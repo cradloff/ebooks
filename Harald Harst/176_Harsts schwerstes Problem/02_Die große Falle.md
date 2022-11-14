@@ -241,7 +241,7 @@ ich die eingefallene Brust … Röchelnd atmete der Mann
 jetzt vor Erregung … Zitterte, daß ihm die Zähne im Munde
 klapperten …
 
-Harst sagte zu mir: …
+Harst sagte zu mir:
 
 »Suche einen alten Anzug und Wäsche von dir heraus.«
 
@@ -265,7 +265,7 @@ und Bett und schlichte Möbel waren vorhanden …
 Um halb eins führten wir den Schwindsüchtigen in sein
 neues Heim.
 
-Lobbert meinte vor Freude …
+Lobbert weinte vor Freude …
 
 Wir verließen ihn und betraten wieder das Haus …
 
@@ -675,7 +675,7 @@ herauszurücken …
 
 »Lieber Herr Harst, ich möchte hier nach Deutschland für
 immer übersiedeln und für Ernst und mich ein großes Gut
-kaufen, vielleicht so einen alten herrschaftlicher Besitz mit
+kaufen, vielleicht so einen alten herrschaftlichen Besitz mit
 Schloß und Park … Ernst weiß nun, daß das frühere
 Stammgut der Barons von Nordall, das im Mecklenburgischen
 unweit des Seebades Brunshaupten liegt und das schon vor
@@ -726,7 +726,7 @@ Und in vergnügtester Stimmung fuhr das Brautpaar
 wieder davon … —
 
 Harald schloß das Paket ein … Es lag nun in demselben
-Fach neben den beiden gefährlicher Pappstücken …
+Fach neben den beiden gefährlichen Pappstücken …
 
 Er schloß es ein … Ich sah zu … Ich sah sein nachdenkliches
 Gesicht, die Falten auf seiner Stirn …
@@ -850,7 +850,7 @@ unfehlbar Erfolg verspricht … Ich zergrüble mir schon eine
 geraume Weile das Hirn, ob ich nicht irgend etwas herausfinde,
 was uns in jedem Falle schützt — — vor dem Erkanntwerden
 … Schwierige Sache … Falls Nordall Spione hier
-im der Nähe hat, sind es sicherlich Leute, die er trefflich
+in der Nähe hat, sind es sicherlich Leute, die er trefflich
 geschult hat … — — Hm — hat Klimke, unser Helfer, nicht
 deine Größe?«
 
@@ -1193,7 +1193,7 @@ uns doch wenigstens wat abjeben, du … ’ne Jemeinheit ist’s
 
 »Her mit dem Paket — oder ich knalle euch nieder …!
 Niemand wird meine Flucht hindern … Die Wächter habt
-ihr ja so sein beiseite jebracht …«
+ihr ja so fein beiseite jebracht …«
 
 »Lump!!« knurrt Harald wieder …
 
@@ -1533,7 +1533,7 @@ Lüder flüsterte mir zu:
 »Der Mann ist irrsinnig!! Sehen Sie nur *die* Augen!!
 Wahnsinn flackert darin!«
 
-Da s[graue; Nordall schon weiter:
+Da sprach Nordall schon weiter:
 
 »Harst ist ein Stümper … Manchmal hat er ja ganz
 nette Einfälle … So zum Beispiel die Sache mit dem
