@@ -91,7 +91,7 @@ Fragte mit keuchenden Atemzügen.
 <@pagebreak/>
 »Wo bin ich?!«
 
-Fragte nicht in deutscher, sondern in schwedischen Sprache.
+Fragte nicht in deutscher, sondern in schwedischer Sprache.
 
 Und ebenso antwortete ihr Harald:
 
@@ -154,7 +154,7 @@ in den Flur hinein … Vorn stand die Haustür weit offen …
 Und in Haralds Arbeitszimmer war der Diwan leer …
 
 »Entflohen!« rief Harst … »Hier lag die Frau … Hier
-steht von das Portweinglas … Entflohen — — unbegreiflich!
+steht noch das Portweinglas … Entflohen — — unbegreiflich!
 Deshalb auch die offene Haustür …! Deshalb!!«
 
 Der Oberwachtmeister lief auf die stille Blücherstraße
@@ -257,7 +257,7 @@ eben die Millionen erben …«
 
 »Hm — und die Scheidungsgründe?«
 
-»Echo einfach: die schöne Helga stahl! Sie stahl, wo sie
+»Sehr einfach: die schöne Helga stahl! Sie stahl, wo sie
 nur stehlen konnte … In jedem Geschäft verstand sie irgend
 etwas verschwinden zu lassen … Das lag wohl bei ihr im
 Blute — — bei den Eltern!! Wir fanden in ihrem Damensalon
@@ -352,7 +352,7 @@ wurde. Mit vierzehn Jahren kam sie in ein Erziehungsheim,
 um dem Einfluß ihrer Eltern und Brüder nicht zum
 Opfer zu fallen. In dem Heim führte sie sich tadellos und
 erhielt mit neunzehn Jahren eine Stellung als Stenotypistin
-in einer Bank. Dorf lernte Baarsör sie kennen. Trotz des
+in einer Bank. Dort lernte Baarsör sie kennen. Trotz des
 Widerstandes seiner Eltern heiratete er sie sehr bald, und
 ein Jahr lang lebte das Ehepaar still und zufrieden auf
 Baarsörs Gut unweit Göteborg. Dann begann des Ingenieurs
@@ -441,7 +441,7 @@ Begleitumstände.
 
 Harst depeschierte:
 
-Reisen sofort ab. — H. Harst.
+> Reisen sofort ab. — H. Harst.
 
 Und das taten wir auch.
 
@@ -470,7 +470,7 @@ dergleichen einen Hieb über den Schädel versetzte …
 Ich sank nach vornüber …
 
 Mein schwindendes Bewußtsein war nur noch fähig,
-einen letzten Eindruck zu verarbeiten …: den, das ich in die
+einen letzten Eindruck zu verarbeiten …: den, daß ich in die
 See geworfen wurde …!
 
 <@pagebreak/>
@@ -984,7 +984,7 @@ Göteborg fuhr … so sehr selten …! Und — — gestohlen soll
 sie haben?! Das ist genau so wahnwitzig wie der Vorwurf,
 sie habe einen Geliebten, der sie nachts heimlich besucht hätte
 — — genau so wahnwitzig!! Aber Gott dort droben wird all
-diese HeimtüFe aufdecken, Herr Harst, und Sie werden sein
+diese Heimtücke aufdecken, Herr Harst, und Sie werden sein
 Werkzeug sein. Ich weiß daß Sie dieser vielköpfigen Schlange
 <@pagebreak/>
 das Ende bereiten werden, Herr Harst, — genau wie ich weiß,
@@ -1109,7 +1109,7 @@ Högersen eilte davon …
 Harst zog den Brief aus der Tasche, schnitt den Umschlag
 auf und zog den eleganten Briefbogen heraus …
 
-Eine flotte, unverstellte Männerhandschrift;
+Eine flotte, unverstellte Männerhandschrift:
 
 > Sehr geehrter Herr Harst,
 
@@ -1199,7 +1199,7 @@ Witwe Bibliothek … —
 Harst begann von Sigurd Baarsör zu sprechen …
 
 »… Sie haben ihn gekannt, gnädige Frau … Ob nicht
-doch, die Möglichkeit eines Selbstmordes vorliegt?«
+doch die Möglichkeit eines Selbstmordes vorliegt?«
 
 So warf er sein Netz aus …
 
@@ -1318,7 +1318,7 @@ Selbstmord — wie Sie vorhin andeuteten, ausgeschlossen!!
 Sigurd liebte das Leben, liebte seine Arbeit, seine Erfolge
 … Er war jung … Das Geld floß ihm zu … Die Stadt
 war stolz auf den berühmten Sohn … — Weshalb sollte er
-sich töten?! Seiner Ehe wegen?! Die hatte er da selbst
+sich töten?! Seiner Ehe wegen?! Die hatte er doch selbst
 zerstört! Und sein Benehmen bewies, daß ihm dies in keiner
 Weise nahe ging. Überhaupt: brauchte er den Namen Baarsör
 derart in den Staub zu ziehen, daß er die Polizei auf
@@ -1346,7 +1346,7 @@ gleichsam als Vorrede vorausgeschickt habe, will ich nochmals
 auf den Mord zu sprechen kommen. Vorhin lehnte ich diese
 Möglichkeit ab. Jetzt, wo ich mir selbst die Ereignisse nochmals
 vergegenwärtigt habe, jetzt möchte ich offen meine Ansicht
-umwandeln und sagen: Nacht alledem kann man nur
+umwandeln und sagen: Nach alledem kann man nur
 annehmen, daß Sigurd Baarsör, wie dies bei hochintelligenten
 Leuten oft der Fall ist, doch einen geistigen Defekt
 gehabt hat, der sich freilich nur auf einen engen Ideenkreis
@@ -1370,7 +1370,7 @@ Der brave Högersen betonte: seit ein und drei Viertel Jahren
 ist Baarsör nicht in der Villa gewesen!«
 
 <@pagebreak/>
-»Ich — er kann ja mit einem der Dienstboten unter einer
+»Oh — er kann ja mit einem der Dienstboten unter einer
 Decke gesteckt haben! Der Chauffeur zum Beispiel soll ein
 ganz gefährlicher Bursche sein.«
 

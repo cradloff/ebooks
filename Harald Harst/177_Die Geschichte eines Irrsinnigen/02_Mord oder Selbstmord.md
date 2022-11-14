@@ -307,7 +307,7 @@ Die Lampen der Karusselle erlöschen …
 
 Unser Fenster wird dunkel …
 
-Und das vergeht noch eine Viertelstunde, bevor wir
+Und doch vergeht noch eine Viertelstunde, bevor wir
 draußen Stimmen hören, Lachen, Kreischen von Weibern …
 
 Auch das verstummt …
@@ -385,7 +385,7 @@ heißen Sie ganz anders … — Heraus mit der Sprache!«
 Der Mann wird gefügig …
 
 »Ich bin der Mitbesitzer eines Karussells … Mein Name
-ist Holger Hangson … Der dort ist mein Brüder Friedrich,
+ist Holger Hangson … Der dort ist mein Bruder Friedrich,
 und das da seine Frau Anna …«
 
 »Und das ist die Wahrheit?«
@@ -440,9 +440,9 @@ auch geschehen … Der Mann gab uns zu diesem Zweck eine
 Gaspatrone … Naher sollten wir Sie fünf in den Teich
 neben der Nordecke des Parkes werfen … — Mit Steinen
 an den Füßen … Das brachten wir nicht über uns … Wir
-stoppten Sie hier auf den Schaubudenplatz der Fischervorstadt
+schleppten Sie hier auf den Schaubudenplatz der Fischervorstadt
 von Göteborg und hier in den Wagen … Dem Manne
-habe im gesagt, daß Sie fünf ersäuft seien. Da gab er mir
+habe ich gesagt, daß Sie fünf ersäuft seien. Da gab er mir
 die versprochenen 30&nbsp;000 Kronen …«
 
 »Wo trafen Sie mit diesem Menschen zusammen?«
@@ -673,7 +673,7 @@ Mutter ist ein besonderer Liebling der Polizei, aber nie
 abzufassen. Und trotzdem besitzen wir Sörlargs einen stark
 ausgeprägten Familiensinn …«
 
-Dann durchschnitt er das Pförtchen …
+Dann durchschritt er das Pförtchen …
 
 Wir folgten und standen in einem Keller, der in einer
 Ecke lediglich einen Haufen Kartoffeln enthielt …
@@ -750,7 +750,7 @@ dem Diener Högersen den Ofen im Damensalon zeigen lassen
 würden. Deshalb legte ich den Brief in den Ofenaufsatz.
 Alles ging nach Wunsch. Ich sprach mit Ihnen an der Parkecke,
 und wir drei haben dann Ihrem Befehl gemäß die Villa
-beobachtet. Aber — — leider bemerkten wir nicht Auffälliges,
+beobachtet. Aber — — leider bemerkten wir nichts Auffälliges,
 während wir anderseits wieder bemerkt worden
 waren … Und mit einem Male passierte uns dasselbe wie
 Ihnen: die Gaspatrone tat ihre Schuldigkeit, und wir drei
@@ -760,7 +760,7 @@ uns eben überrumpelt. Und die Hangsons haben natürlich
 den Befehl, uns drei zu betäuben und zu töten, von demselben
 dem Geschlecht nach fragwürdigen Gentleman erhalten,
 der auch für Sie beide ein so gefährliches Interesse zeigte.
-Alles weitere wissen Sie … — Es handelt sie nun darum,
+Alles weitere wissen Sie … — Es handelt sich nun darum,
 Herr Harst: Wie können wir diesen hageren Buckligen entdecken?
 — Denn daß dieser Mensch der Mörder Baarsörs
 ist, unterliegt für mich keinem Zweifel!«
@@ -819,7 +819,7 @@ Und das meinte er ehrlich …
 
 Helga seufzte …
 
-»Herr Harst, — wenn’s nicht Frau: Gaarsen ist, dann
+»Herr Harst, — wenn’s nicht Frau Gaarsen ist, dann
 wird die Wahrheit nie an den Tag kommen!«
 
 Und Harald — sehr bestimmt: »Die Wahrheit kommt an
@@ -916,7 +916,7 @@ Ergebnis« unserer Ermittelungen gesprochen?!
 
 Hatte er den Mörder nicht als »ein menschliches Ungeheuer«
 bezeichnet, — — falls eben die Person, an die er
-dachte, der Täter wirklich sein solltet!
+dachte, der Täter wirklich sein sollte!!
 
 Und nun, nachdem Helgas Mutter uns offenbart hatte,
 daß das Zerwürfnis zwischen Eltern und Sohn längst ausgeglichen
@@ -1052,7 +1052,7 @@ eines Allan Poe zum Beispiel ein Greisenhirn ist!«
 Und er setzte sich in eine Ecke des kleinen altmodischen
 Glanzledersofas …
 
-Nahm eine Mirakulum … Rauche still ein paar Züge …
+Nahm eine Mirakulum … Rauchte still ein paar Züge …
 
 Ich sagte: »Dieses Haus ist ein veritabler Fuchsbau …
 Jetzt wohnen hier Füchse, Jagdhunde und ein liebliches Reh
@@ -1383,7 +1383,7 @@ zufallen …«
 »Sehen Sie, Herr Inspektor, hätte ich gleich gewußt, daß
 Frau Baarsör nur Sigurds Stiefmutter ist, dann … wäre
 der Fall schon erledigt … So aber mußte ich im Dunkeln
-tappen … Einer leidlichem Mutter traute ich die Ermordung
+tappen … Einer leiblichen Mutter traute ich die Ermordung
 ihres Sohnes nicht zu … Jetzt — — liegt der Tatbestand
 klar …«
 
@@ -1629,7 +1629,7 @@ er der Portweinflasche Zyankali zusetzte … —
 
 * * *
 
-Nachwort: Ich, Max Schraut, habe an der Niederschrift
+*Nachwort*: Ich, Max Schraut, habe an der Niederschrift
 meines Nachahmers wenig geändert. Ich hoffe, daß meine
 Freunde und Leser von der Geschichte eines Irrsinnigen
 leidlich befriedigt sein werden. Im nächsten Band komme
