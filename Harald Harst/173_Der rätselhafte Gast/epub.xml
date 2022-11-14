@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">6a06cde3-dfd6-4a0b-ae57-09bf1adba674</entry>
+<entry key="title">Der rätselhafte Gast</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">173</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der rätselhafte Gast.
+
+Ein großer Komposthaufen ist die Freude jedes Gartenbesitzers …
+
+In diesen Komposthaufen schlug ich mit einer sogenannten Mistforke vormittags neun Uhr am 31. März eine gewaltige Bresche, das heißt, ich füllte die Kompostmasse in eine Karre, die Harald dann nach den Beeten schob, um dort die Verteilung vorzunehmen.
+
+Mit einem Male spürte ich, daß die Zinken der Forke sich in etwas Hartes einbohrten … etwas Metallisches, das ein wenig nachgab, — vielleicht eine große leere Konservenbüchse, dachte ich … Wie allerdings eine solche Büchse hier in den »Stolz« unseres Gemüsegartens hineingelangt sein könnte, war mir unklar, denn wir hatten den Kompost mit Liebe und Sorgfalt gesammelt, und selbst die Köchin Mathilde würde niemals gewagt haben, ausrangierte Wirtschaftsgegenstände hier unterzubringen.
+
+Lydia Salnavoors Testament.
+
+»Herr Kapitän, was wissen Sie über Zweck und Ziel dieser Reise der Jacht hierher? Hat Lord Austin Salnavoor, der ja nach Aussage der Ärzte bis auf weiteres vernehmungsunfähig ist, Sie irgendwie eingeweiht?«
+
+»Nur zum geringsten Teil, Herr Kommissar … Wir verließen England am 23. Februar. Es hieß, Seine Lordschaft wolle Deutschland besuchen und die deutschen Flüsse kennen lernen. Erst, als wir hier unweit der Insel Schwanenwerder Anker warfen, hat Seine Lordschaft mich in seine Kabine gerufen und mir etwa folgendes gesagt: »Picktorn, ich weiß, daß Sie zuverlässig sind. Sie als einziger der Besatzung sollen erfahren, daß diese Reise alles andere nur keine Vergnügungstour ist. Meine Schwester ist durch eine Verkettung besonderer Umstände in Dinge mit hineinverwickelt worden, die mit äußerster Vorsicht aus der Welt geschafft werden müssen.« Seine Lordschaft hat dann nicht mehr viel hinzugefügt, Herr Harst … Er meinte nur noch, daß Miß Lydia mit dem Kanu, das wir an Bord hatten, allein Ausflüge unternehmen würde, und daß ich unseren Matrosen diese Ausflüge als nichts Besonderes hinstellen solle.«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (173) Der rätselhafte Gast.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h2</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
