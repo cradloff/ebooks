@@ -9,7 +9,7 @@ Verwendung:
 
 <#macro fig0 nr>
 <#compress>
-<a href="figuren.xhtml#${nr}">Fig. ${nr}.</a>
+<a href="26_Figuren.xhtml#figur${nr}">Fig. ${nr}.</a>
 </#compress>
 </#macro>
 
