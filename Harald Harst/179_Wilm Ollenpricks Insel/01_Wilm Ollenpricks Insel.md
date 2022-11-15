@@ -748,7 +748,7 @@ jede Beschreibung der Stadt verzichten kann …
 Wir schritten also dem abseits gelegenen Hafenbassin zu,
 in dem die kleineren Fahrzeuge ihren Liegeplatz hatten …
 
-Ich war überaus gespannt, ab ich die »Lady Hamilton«
+Ich war überaus gespannt, ob ich die »Lady Hamilton«
 erspähen würde …
 
 Ich freute mich darauf, den ulkigen, kleinen O’Kelling
@@ -877,7 +877,7 @@ legte er den Zeigefinger auf die Lippen, zeigte mit der Linken
 nach der Verbindungswand des Nebenzimmers und reichte
 mir einen Brief …
 
-Dann verschwand er in der gleiten Weise … —
+Dann verschwand er in der gleichen Weise … —
 
 Ollenprick starrte mich an …
 
@@ -1009,7 +1009,7 @@ Rum durchsetzt, daß alle Krantheitsbazillen krepieren, die sich
 versehentlich mal in mein Inneres wagen …!«
 
 Und die beiden Kapitäne lachten, daß Ihnen die Tränen
-über die braunen Wangen liegen, drückten sich immer wieder
+über die braunen Wangen liefen, drückten sich immer wieder
 die Hände und hatten mich total vergessen, begannen in alten
 Erinnerungen zu schwelgen, und mußten erst durch meinen
 Zwischenruf daran gemahnt werden, daß wir doch jetzt entschieden
@@ -1261,7 +1261,7 @@ So sprach O’Kelling …
 <@pagebreak/>
 Und Ollenprick lachte herzlich über die letzte Bemerkung.
 
-Wir aber war wirklich nicht nach Lachen zumute! Eine
+Mir aber war wirklich nicht nach Lachen zumute! Eine
 jähe Angst um Harald hatte mich gepackt … Und mit Recht!
 Diesem Millionär Peter Margenbeck würde es ja ein leichtes
 sein, des Holländers Leute zu bestechen … Und was dann
@@ -1286,7 +1286,7 @@ mein Fernglas und äugte gen Westen, woher wir gekommen
 
 Dann brachte Paratu das Abendessen.
 
-Dann Sonne sank … Die Nacht kam herbei. Dämmerung
+Die Sonne sank … Die Nacht kam herbei. Dämmerung
 gibt es in den Tropen nicht. Mit einem Schlage wird es
 dunkel … —
 

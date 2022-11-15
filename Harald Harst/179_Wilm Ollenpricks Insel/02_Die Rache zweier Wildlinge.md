@@ -309,7 +309,7 @@ Aber auch dieses Feuerwerk ging vorüber …
 
 Ich zwang mit aller Gewalt meinen armen Kadaver zur
 regelrechten Wiederaufnahme seiner Tätigkeit … Das heißt:
-zunächst stellte ich fest, daß ich voll in der Baumkabine und
+zunächst stellte ich fest, daß ich noch in der Baumkabine und
 zwar auf dem unteren Bette lag … gefesselt … und nicht
 schlecht!! Ich konnte gerade den Kopf drehen und die Finger
 und Zehen bewegen — sonst nichts!
@@ -558,7 +558,7 @@ Neptun lächelte nur und erwiderte:
 oben in den Baumwipfeln sieht mich niemand!«
 
 »Na — dann nur los!« nickte Ollenprick. »Damit wir
-Gewißheit haben!««
+Gewißheit haben!«
 
 Der Jüngling verließ die Hütte …
 
@@ -811,7 +811,7 @@ Risse der Felsendecke empfing, zu sehen bekamen, war nicht
 minder überraschend als die Baumhütte mit ihrer behaglichen
 Kabineneinrichtung.
 
-Au hier hatten fleißige und Geschichte Hände die Möbel
+Auch hier hatten fleißige und geschickte Hände die Möbel
 aus der Jacht Sybille zu einem harmonischen Ganzen vereint
 … Hier gab’s sogar einen kleinen Schreibtisch, einen Bücherschrank,
 und auf einem langen Tisch allerhand nautische
@@ -1340,7 +1340,7 @@ das Unheil hereingebrochen. Seit vier Tagen hatten wir
 beide an den Fingern einen ganz merkwürdigen Ausschlag.
 Heute nun hat Hektor Borell uns die entsetzliche Wahrheit
 gesagt: Der Ausschlag ist nichts anderes als der Beginn
-der Lepra-Krankheit, des Aufsatzes, — — unheilbar, ansteckend
+der Lepra-Krankheit, des Aussatzes, — — unheilbar, ansteckend
 und langsam den Leib verfallen lassend!
 
 21\. Dezember. — Wir ankern in der Bucht einer bisher
