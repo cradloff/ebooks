@@ -1,626 +1,626 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 469/>
 
 Register.
 ---------
 
-Abendstern 98. 174. 
+Abendstern <@pa.seite00 98/>, <@pa.seite00 174/>. 
 
-Abendweite 73. 
+Abendweite <@pa.seite00 73/>. 
 
-Aberration 158. 
+Aberration <@pa.seite00 158/>. 
 
-Abweichung 73. 
+Abweichung <@pa.seite00 73/>. 
 
-Abweichungskreis 73. 
+Abweichungskreis <@pa.seite00 73/>. 
 
-Achsen, der Ellipse 59. 
+Achsen, der Ellipse <@pa.seite00 59/>. 
 
-Achsendrehung, der Erde 69. 
-der Fixsterne 428. der 
-Kometen 330, der Planeten 259,
-der Sonne 230, der Trabanten 280. 
+Achsendrehung, der Erde <a href="06_Die_Bewegung_der_Himmelskugel.xhtml">69</a>,
+der Fixsterne <@pa.seite00 428/>, der 
+Kometen <@pa.seite00 330/>, der Planeten <@pa.seite00 259/>,
+der Sonne <@pa.seite00 230/>, der Trabanten <@pa.seite00 280/>. 
 
-Aerolithen 337. 
+Aerolithen <@pa.seite00 337/>. 
 
-Anomalie 196. 
+Anomalie <@pa.seite00 196/>. 
 
-Anomalistischer Monat 196. 
+Anomalistischer Monat <@pa.seite00 196/>. 
 
-Anomalistisches Jahr 155. 
+Anomalistisches Jahr <@pa.seite00 155/>. 
 
-Antarktischer Pol 72. 
+Antarktischer Pol <@pa.seite00 72/>. 
 
-Antipoden 144. 
+Antipoden <@pa.seite00 144/>. 
 
-Antuken 145. 
+Antuken <@pa.seite00 145/>. 
 
-Anziehung 347. 
+Anziehung <@pa.seite00 347/>. 
 
-Aphelium 59. 
+Aphelium <@pa.seite00 59/>. 
 
-Apogeum 60. 
+Apogeum <@pa.seite00 60/>. 
 
-Apsiden 60. 
+Apsiden <@pa.seite00 60/>. 
 
-Apsidenlinie 60, ihre
-Bewegung 155. 193. 
+Apsidenlinie <@pa.seite00 60/>, ihre
+Bewegung <@pa.seite00 155/>, <@pa.seite00 193/>. 
 
-Arktischer Pol 72. 
+Arktischer Pol <@pa.seite00 72/>. 
 
-Asteroiden 56. 
+Asteroiden <@pa.seite00 56/>. 
 
-Atmosphäre der Erbe 118, 
-der Kometen 325, des 
-Mondes 309, der 
-Planeten 270, der Sonne 245. 
+Atmosphäre der Erde <@pa.seite00 118/>, 
+der Kometen <@pa.seite00 325/>, des 
+Mondes <@pa.seite00 309/>, der 
+Planeten <@pa.seite00 270/>, der Sonne <@pa.seite00 245/>. 
 
-Aufgang eines Sterns 78, 
+Aufgang eines Sterns <@pa.seite00 78/>, 
 der akronyktische, heliakische,
-kosmische, politische 404. 
+kosmische, politische <@pa.seite00 404/>. 
 
-Azimut 71. 
+Azimut <@pa.seite00 71/>. 
 
-Aequator 73. 76, der Sonne 239.
+Äquator <@pa.seite00 73/>, <@pa.seite00 76/>, der Sonne <@pa.seite00 239/>.
 
-Aequatorhöhe 77.
+Äquatorhöhe <@pa.seite00 77/>.
 
-Aequatorialparallaxe 109. 
+Äquatorialparallaxe <@pa.seite00 109/>. 
 
-Aequinoktium 89. 
+Äquinoktium <@pa.seite00 89/>. 
 
 Bedeckung der Sonne durch 
-einen Planeten, 171. 178. 
+einen Planeten, <@pa.seite00 171/>, <@pa.seite00 178/>. 
 
-Beharrungsvermögen 332. 
+Beharrungsvermögen <@pa.seite00 332/>. 
 
-Bergadern auf dem Monde 305. 
+Bergadern auf dem Monde <@pa.seite00 305/>. 
 
-Beschleunigung 345. 
+Beschleunigung <@pa.seite00 345/>. 
 
-Bewegung 342, der Erde 
+Bewegung <@pa.seite00 342/>, der Erde 
 <@pagebreak/>
-145, der Fixsterne 428. 
+<@pa.seite00 145/>, der Fixsterne <@pa.seite00 428/>, 
 des Meeres und der Luft 
-208, des Mondes 187, 
-der Trabanten 222, 
-beschleunigte 345,
-scheinbare 50. 
+<@pa.seite00 208/>, des Mondes <@pa.seite00 187/>, 
+der Trabanten <@pa.seite00 222/>, 
+beschleunigte <@pa.seite00 345/>,
+scheinbare <@pa.seite00 50/>. 
 
-Brechung des Lichte 123. 125. 
+Brechung des Lichte <@pa.seite00 123/>, <@pa.seite00 125/>. 
 
-Breite eines Sterns 97, 
-geographische 76. 
+Breite eines Sterns <@pa.seite00 97/>, 
+geographische <@pa.seite00 76/>. 
 
-Breitenkreis 97. 
+Breitenkreis <@pa.seite00 97/>. 
 
-Brennpunkt 59. 
+Brennpunkt <@pa.seite00 59/>. 
 
-Centrifugalkraft 356. 
+Centrifugalkraft <@pa.seite00 356/>. 
 
-Centripetalkraft 356. 
+Centripetalkraft <@pa.seite00 356/>. 
 
-Chaldäische Periode 196, 204. 
+Chaldäische Periode <@pa.seite00 196/>, <@pa.seite00 204/>. 
 
-Chronocentrisch 222.
+Chronocentrisch <@pa.seite00 222/>.
 
-Circellen auf dem Monde 301.
+Circellen auf dem Monde <@pa.seite00 301/>.
 
 Dämmerung, astronomische, 
-bürgerliche 124, auf 
-dem Monde 309, auf 
-der Venus 272. 
+bürgerliche <@pa.seite00 124/>, auf 
+dem Monde <@pa.seite00 309/>, auf 
+der Venus <@pa.seite00 272/>. 
 
-Deklination 73. 
+Deklination <@pa.seite00 73/>. 
 
-Dichtigkeit 68, der 
-Himmelskörper 366, 374. 
+Dichtigkeit <@pa.seite00 68/>, der 
+Himmelskörper <@pa.seite00 366/>, <@pa.seite00 374/>. 
 
-Direkt 97. 
+Direkt <@pa.seite00 97/>. 
 
-Doppelsterne 432. 
+Doppelsterne <@pa.seite00 432/>. 
 
-Drachenkopf 195. 
+Drachenkopf <@pa.seite00 195/>. 
 
-Drachenmonat 195. 
+Drachenmonat <@pa.seite00 195/>. 
 
-Drachenschwanz 195. 
+Drachenschwanz <@pa.seite00 195/>. 
 
 Durchgang der Planeten vor 
-der Sonnenscheibe 171, 178. 
+der Sonnenscheibe <@pa.seite00 171/>, <@pa.seite00 178/>. 
 
 Durchmesser der Planeten 
-254, der Sonne 254, der 
-Trabanten 287, 
-scheinbarer 49, der Planeten, 
+<@pa.seite00 254/>, der Sonne <@pa.seite00 254/>, der 
+Trabanten <@pa.seite00 287/>, 
+scheinbarer <@pa.seite00 49/>, der Planeten, 
 von den Trabanten aus 
 gesehn und umgekehrt 
-287, der Sonne, von den 
-Planeten aus gesehen 255. 
+<@pa.seite00 287/>, der Sonne, von den 
+Planeten aus gesehen <@pa.seite00 255/>. 
 
-Ebbe 209. 
+Ebbe <@pa.seite00 209/>. 
 
-Einthakig 137. 
+Einthakig <@pa.seite00 137/>. 
 
-Ekliptik 86. 
+Ekliptik <@pa.seite00 86/>. 
 
-Ellipse 58. 
+Ellipse <@pa.seite00 58/>. 
 
 Elliptische Berechnung der 
-Kometen 321. 
+Kometen <@pa.seite00 321/>. 
 
-Ellergation, größte 167, 268. 
+Ellergation, größte <@pa.seite00 167/>, <@pa.seite00 268/>. 
 
-Emension 232. 
+Emension <@pa.seite00 232/>. 
 
-Entfernung d. Fixsterne 421. 
+Entfernung d. Fixsterne <@pa.seite00 421/>. 
 der Planeten von der 
-Erde 183, von der Sonne 161,
-der Trabanten 227. 
+Erde <@pa.seite00 183/>, von der Sonne <@pa.seite00 161/>,
+der Trabanten <@pa.seite00 227/>. 
 
-Erdachse 76. 
+Erdachse <@pa.seite00 76/>. 
 
-Erde 103. 
+Erde <@pa.seite00 103/>. 
 
-Erdferne 60. 
+Erdferne <@pa.seite00 60/>. 
 
-Erdnähe 60. 
+Erdnähe <@pa.seite00 60/>. 
 
-Erdpole 76. 
+Erdpole <@pa.seite00 76/>. 
 
-Erdweite 65. 
+Erdweite <@pa.seite00 65/>. 
 
-Erntemond 197. 
+Erntemond <@pa.seite00 197/>. 
 
-Erektine des Mondes 191. 
+Erektine des Mondes <@pa.seite00 191/>. 
 
-Excentricität 60. 
+Excentricität <@pa.seite00 60/>. 
 
-Excentrische Kreise 58. 
+Excentrische Kreise <@pa.seite00 58/>. 
 
 <@pagebreak/>
-Falten auf der Sonne 240. 
+Falten auf der Sonne <@pa.seite00 240/>. 
 
-Feuerkugeln 336. 
+Feuerkugeln <@pa.seite00 336/>. 
 
-Fixsterne 44. 376. 
+Fixsterne <@pa.seite00 44/>, <a href="19_Anordnung_der_Sterne_Sternbilder.xhtml">376</a>. 
 
-Fliehkraft 356. 
+Fliehkraft <@pa.seite00 356/>. 
 
-Fluth 209. 
+Fluth <@pa.seite00 209/>. 
 
-Furchen bei der Sonne 246. 
+Furchen bei der Sonne <@pa.seite00 246/>. 
 
-Fußpunkt 71. 
+Fußpunkt <@pa.seite00 71/>. 
 
-Gebirge der Erde 114, des 
-Mondes 299, der 
-Planeten 270, des 
-Saturnringes 294, 
-der Sonne 244. 
+Gebirge der Erde <@pa.seite00 114/>, des 
+Mondes <@pa.seite00 299/>, der 
+Planeten <@pa.seite00 270/>, des 
+Saturnringes <@pa.seite00 294/>, 
+der Sonne <@pa.seite00 244/>. 
 
-Gegenfüßler 144. 
+Gegenfüßler <@pa.seite00 144/>. 
 
-Gegenwohner 145. 
+Gegenwohner <@pa.seite00 145/>. 
 
-Geocentrisch 55. 
+Geocentrisch <@pa.seite00 55/>. 
 
-Gerade Aufsteigung 73. 
+Gerade Aufsteigung <@pa.seite00 73/>. 
 
-Geschwindigkeit 342. 
+Geschwindigkeit <@pa.seite00 342/>. 
 
-Gleichen 76. 
+Gleichen <@pa.seite00 76/>. 
 
 Gleichung, große des Mondes 
-193, jährliche des Mondes 192. 
+<@pa.seite00 193/>, jährliche des Mondes <@pa.seite00 192/>. 
 
-Goldne Zahl 195. 
+Goldne Zahl <@pa.seite00 195/>. 
 
-Gradmessung 105. 
+Gradmessung <@pa.seite00 105/>. 
 
-Größe der Fixsterne 424. 
-der Kometen 324, der 
+Größe der Fixsterne <@pa.seite00 424/>. 
+der Kometen <@pa.seite00 324/>, der 
 Planeten und der Sonne 
-254, der Trabanten 287. 
+<@pa.seite00 254/>, der Trabanten <@pa.seite00 287/>. 
 
-Größen der Sterne 388. 
+Größen der Sterne <@pa.seite00 388/>. 
 
-Haar der Kometen 327. 
+Haar der Kometen <@pa.seite00 327/>. 
 
 Haarsterne s. Kometen. 
 
-Hafersatz 214. 
+Hafersatz <@pa.seite00 214/>. 
 
-Halbmond 188. 
+Halbmond <@pa.seite00 188/>. 
 
-Halbmesser der Finsternisse 204. 
+Halbmesser der Finsternisse <@pa.seite00 204/>. 
 
-Halbschatten 199, der Sonne 247. 
+Halbschatten <@pa.seite00 199/>, der Sonne <@pa.seite00 247/>. 
 
-Heliocentrisch 55. 72. 
+Heliocentrisch <@pa.seite00 55/>, <@pa.seite00 72/>. 
 
-Hesperus 174. 
+Hesperus <@pa.seite00 174/>. 
 
-Himmelsblau 120. 
+Himmelsblau <@pa.seite00 120/>. 
 
-Himmelskugel 70, parallele, 
-schiefe 79. 
+Himmelskugel <@pa.seite00 70/>, parallele, 
+schiefe <@pa.seite00 79/>. 
 
-Horizont 70. 
+Horizont <@pa.seite00 70/>. 
 
-Horizontal 70. 
+Horizontal <@pa.seite00 70/>. 
 
-Horizontalparallaxe 109. 
+Horizontalparallaxe <@pa.seite00 109/>. 
 
-Horizontalrefraktion 126 
+Horizontalrefraktion <@pa.seite00 126/>.
 
-Höhe der Fluth 211, eines 
-Sterns 71. 
+Höhe der Fluth <@pa.seite00 211/>, eines 
+Sterns <@pa.seite00 71/>. 
 
-Höhenkreis 71. 
+Höhenkreis <@pa.seite00 71/>. 
 
-Immersion 232. 
+Immersion <@pa.seite00 232/>. 
 
-Indirekt 97. 
+Indirekt <@pa.seite00 97/>. 
 
-Irradation 97. 
+Irradation <@pa.seite00 97/>. 
 
-Jahreszeiten 142. 
+Jahreszeiten <@pa.seite00 142/>. 
 
-Joricentrisch 222. 
+Jovicentrisch <@pa.seite00 222/>. 
 
-Kalender 150. 
+Kalender <@pa.seite00 150/>. 
 
-Keplersche Gesetze 58. 
+Keplersche Gesetze <@pa.seite00 58/>. 
 
-Kern der Kometen 323. 
+Kern der Kometen <@pa.seite00 323/>. 
 
-Kernflecken 245. 
+Kernflecken <@pa.seite00 245/>. 
 
-Klassen der Sterne 268. 
+Klassen der Sterne <@pa.seite00 268/>. 
 
-Klima 134, geographisches, 
-astronomisches 138. 
+Klima <@pa.seite00 134/>, geographisches, 
+astronomisches <@pa.seite00 138/>. 
 
 Knoten, aufsteigende, 
-absteigende 97, ihre 
-Bewegung 155. 193. 
+absteigende <@pa.seite00 97/>, ihre 
+Bewegung <@pa.seite00 155/>, <@pa.seite00 193/>. 
 
-Knoten in der Sonne 247. 
+Knoten in der Sonne <@pa.seite00 247/>. 
 
 <@pagebreak/>
-Knotenmonat 195. 
+Knotenmonat <@pa.seite00 195/>. 
 
-Kometen 56. 57. 315. 
+Kometen <@pa.seite00 56/>, <@pa.seite00 57/>, <@pa.seite00 315/>. 
 
-Koluren 90. 
+Koluren <@pa.seite00 90/>. 
 
-Konjunktion 97, obere, 
-untere 167. 
+Konjunktion <@pa.seite00 97/>, obere, 
+untere <@pa.seite00 167/>. 
 
-Kopf der Kometen 323. 
+Kopf der Kometen <@pa.seite00 323/>. 
 
-Kräfte 343, beschleunigende, 
-gleichförmige 344. 
+Kräfte <@pa.seite00 343/>, beschleunigende, 
+gleichförmige <@pa.seite00 344/>. 
 
-Kulmination 77. 
+Kulmination <@pa.seite00 77/>. 
 
 Lage eines Körpers, 
-absolute, relative 52, wahre 
-und scheinbare 109. 
+absolute, relative <@pa.seite00 52/>, wahre 
+und scheinbare <@pa.seite00 109/>. 
 
-Länge eines Sterns 96,
-geographische 76. 
+Länge eines Sterns <@pa.seite00 96/>,
+geographische <@pa.seite00 76/>. 
 
 Libration s. Schwanken. 
 
 Lichterscheinungen s. Phasen. 
 
-Lichtwolken der Sonne 245. 
+Lichtwolken der Sonne <@pa.seite00 245/>. 
 
-Lucifer 174. 
+Lucifer <@pa.seite00 174/>. 
 
-Masse 347. 
+Masse <@pa.seite00 347/>. 
 
-Meere auf dem Monde 307. 
+Meere auf dem Monde <@pa.seite00 307/>. 
 
-Meridian 73. 76, erster 132. 
+Meridian <@pa.seite00 73/>, <@pa.seite00 76/>, erster <@pa.seite00 132/>. 
 
-Meteorhagel-, regen-, staub 338. 
+Meteorhagel-, regen-, staub <@pa.seite00 338/>. 
 
-Meteorsteine 337.
+Meteorsteine <@pa.seite00 337/>.
 
-Milchnebel 445. 
+Milchnebel <@pa.seite00 445/>. 
 
-Milchstraße 462. 
+Milchstraße <@pa.seite00 462/>. 
 
-Mittagskreis 73. 76. 
+Mittagskreis <@pa.seite00 73/>, <@pa.seite00 76/>. 
 
-Mitte des Himmels 77. 
+Mitte des Himmels <@pa.seite00 77/>. 
 
-Mittelplaneten 64. 
+Mittelplaneten <@pa.seite00 64/>. 
 
-Mittelpunktsgleichung 147, 
-des Mondes 192, der 
-Planeten 162. 
+Mittelpunktsgleichung <@pa.seite00 147/>, 
+des Mondes <@pa.seite00 192/>, der 
+Planeten <@pa.seite00 162/>. 
 
-Mittlere Entfernung 131. 
+Mittlere Entfernung <@pa.seite00 131/>. 
 
-Mond 57. 187. 280. 
+Mond <@pa.seite00 57/>, <@pa.seite00 187/>, <@pa.seite00 280/>. 
 
 Mondfinsternisse, total, 
-partial, central 200. 
+partial, central <@pa.seite00 200/>. 
 
-Mondjahr 95. 
+Mondjahr <@pa.seite00 95/>. 
 
-Mondviertel 188. 
+Mondviertel <@pa.seite00 188/>. 
 
-Morgenstern 98. 174. 
+Morgenstern <@pa.seite00 98/>, <@pa.seite00 174/>. 
 
-Morgenweite 77. 
+Morgenweite <@pa.seite00 77/>. 
 
-Nachtbogen 78. 
+Nachtbogen <@pa.seite00 78/>. 
 
-Nachtgleichen 92. 
+Nachtgleichen <@pa.seite00 92/>. 
 
-Nadir 71. 
+Nadir <@pa.seite00 71/>. 
 
-Nebelflecken 443. 
+Nebelflecken <@pa.seite00 443/>. 
 
-Nebenwohner 145. 
+Nebenwohner <@pa.seite00 145/>. 
 
-Neuerde 291. 
+Neuerde <@pa.seite00 291/>. 
 
-Neumond 187. 
+Neumond <@pa.seite00 187/>. 
 
-Nord 75. 
+Nord <@pa.seite00 75/>. 
 
-Nordpol 72. 
+Nordpol <@pa.seite00 72/>. 
 
-Nutation 151. 
+Nutation <@pa.seite00 151/>. 
 
-Obere Planeten 64. 167. 
+Obere Planeten <@pa.seite00 64/>, <@pa.seite00 167/>. 
 
 Oberfläche der Planeten und 
-der Sonne 254, der 
+der Sonne <@pa.seite00 254/>, der 
 Sonne, von den Planeten
-aus gesehen 255. 
+aus gesehen <@pa.seite00 255/>. 
 
-Oktanten 189. 
+Oktanten <@pa.seite00 189/>. 
 
-Opposition 98. 
+Opposition <@pa.seite00 98/>. 
 
-Osten 75. 
+Osten <@pa.seite00 75/>. 
 
-Ostwinde 217. 
+Ostwinde <@pa.seite00 217/>. 
 
-Oeffnungen auf der Sonne 244. 
+Öffnungen auf der Sonne <@pa.seite00 244/>. 
 
-Parabel 58. 
+Parabel <@pa.seite00 58/>. 
 
-Parabolische Berechnung 321. 
+Parabolische Berechnung <@pa.seite00 321/>. 
 
 <@pagebreak/>
-Parallelische Bewegung ... 
+Parallelische Bewegung … Parallaxe <@pa.seite00 53/>, <@pa.seite00 109/>. 
 
-Parallaxe 53. 109. 
+Parallelkreise <@pa.seite00 73/>, <@pa.seite00 76/>. 
 
-Parallelkreise 73. 76. 
+Parallelogramm der Kräfte <@pa.seite00 343/>. 
 
-Parallelogramm der Kräfte 343. 
+Pendel <@pa.seite00 371/>. 
 
-Pendel 371. 
+Perigrum <@pa.seite00 59/>. 
 
-Perigrum 59. 
+Perihelium <@pa.seite00 60/>. 
 
-Perihelium 60. 
+Phasen der Kometen <@pa.seite00 324/>, 
+des Mondes <@pa.seite00 189/>, der 
+Planeten <@pa.seite00 169/>. 
 
-Phasen der Kometen 324, 
-des Mondes 189, der 
-Planeten 169. 
+Planeten <@pa.seite00 45/>, <@pa.seite00 56/>, <@pa.seite00 161/>, <@pa.seite00 253/>. 
 
-Planeten 45. 56. 161. 253. 
+Platonisches Jahr <@pa.seite00 149/>. 
 
-Platonisches Jahr 149. 
+Polarkreise <@pa.seite00 92/>. 
 
-Polarkreise 92. 
+Pole der Erde <@pa.seite00 76/>, der 
+Himmelskugel <@pa.seite00 72/>, der 
+Planeten <@pa.seite00 259/>, der Sonne <@pa.seite00 239/>. 
 
-Pole der Erde 76, der 
-Himmelskugel 72, der 
-Planeten 259, der Sonne 239. 
+Polhöhe <@pa.seite00 77/>. 
 
-Polhöhe 77. 
+Polygonalsterne <@pa.seite00 434/>. 
 
-Polygonalsterne 434. 
+Poren auf der Sonne <@pa.seite00 246/>. 
 
-Poren auf der Sonne 246. 
+Quadraturen <@pa.seite00 98/>. 
 
-Quadraturen 98. 
+Radius Vektor <@pa.seite00 59/>, <@pa.seite00 100/>, <@pa.seite00 167/>. 
 
-Radius Vektor 59. 100. 167. 
+Rechtgängig <@pa.seite00 97/>. 
 
-Rechtgängig 97. 
+Reflexion <@pa.seite00 123/>. 
 
-Reflexion 123. 
+Refraktion <@pa.seite00 123/>. 
 
-Refraktion 123. 
+Refraktionswinkel <@pa.seite00 126/>. 
 
-Refraktionswinkel 126. 
+Rektascension <@pa.seite00 73/>. 
 
-Rektascension 73. 
+Ringgebirge des Mondes <@pa.seite00 300/>. 
 
-Ringgebirge des Mondes 300. 
+Rotation <@pa.seite00 259/>. 
 
-Rotation 259. 
+Runzeln auf der Sonne <@pa.seite00 246/>. 
 
-Runzeln auf der Sonne 246. 
-
-Rückgängig 97. 
+Rückgängig <@pa.seite00 97/>. 
 
 Satelliten s. Trabanten. 
 
-Saturnsring 233. 289. 
+Saturnsring <@pa.seite00 233/>, <@pa.seite00 289/>. 
 
-Scheitelpunkt 71. 
+Scheitelpunkt <@pa.seite00 71/>. 
 
-Schiefe der Ekliptik 152, 
-der Kometenbahnen 319, 
-der Planetenbahnen 163, 
-d. Trabantenbahnen 230. 
+Schiefe der Ekliptik <@pa.seite00 152/>, 
+der Kometenbahnen <@pa.seite00 319/>, 
+der Planetenbahnen <@pa.seite00 163/>, 
+d. Trabantenbahnen <@pa.seite00 230/>. 
 
 Schwanken der Erdachse 
-157, des Mondes 282, 
-optische, physische 284. 
+<@pa.seite00 157/>, des Mondes <@pa.seite00 282/>, 
+optische, physische <@pa.seite00 284/>. 
 
-Schweife der Kometen 326. 
+Schweife der Kometen <@pa.seite00 326/>. 
 
 Schweifsterne s. Kometen. 
 
-Schwere 349. 
+Schwere <@pa.seite00 349/>. 
 
-Schwerpunkt 348. 
+Schwerpunkt <@pa.seite00 348/>. 
 
-Schwungkraft 356. 
+Schwungkraft <@pa.seite00 356/>. 
 
-Sekundenpendel 373. 
+Sekundenpendel <@pa.seite00 373/>. 
 
-Seleniten 311. 
+Seleniten <@pa.seite00 311/>. 
 
-Siderische Jahr 150, 
-Monat 189, Umlauf der 
-Planeten 162, der 
-Trabanten 189. 
+Siderische Jahr <@pa.seite00 150/>, 
+Monat <@pa.seite00 189/>, Umlauf der 
+Planeten <@pa.seite00 162/>, der 
+Trabanten <@pa.seite00 189/>. 
 
-Sonne 56. 85. 238. 
+Sonne <@pa.seite00 56/>, <a href="07_Die_Kreisbewegung_der_Erde.xhtml">85</a>, <@pa.seite00 238/>. 
 
-Sonnenfackeln 245. 
+Sonnenfackeln <@pa.seite00 245/>. 
 
-Sonnenferne 59. 
+Sonnenferne <@pa.seite00 59/>. 
 
 Sonnenfinsternisse, partial, 
-ringförmig, total 202. 
+ringförmig, total <@pa.seite00 202/>. 
 
-Sonnenflecken 243. 
+Sonnenflecken <@pa.seite00 243/>. 
 
-Sonnenjahr 195. 
+Sonnenjahr <@pa.seite00 195/>. 
 
-Sonnennähe 59. 
+Sonnennähe <@pa.seite00 59/>. 
 
-Sonnenparallaxe 176. 
+Sonnenparallaxe <@pa.seite00 176/>. 
 
-Sonnensystem 46, 55. 
+Sonnensystem <@pa.seite00 46/>, <@pa.seite00 55/>. 
 
-Sonnentag 94. 174. 
+Sonnentag <@pa.seite00 94/>, <@pa.seite00 174/>. 
 
 <@pagebreak/>
-Sonnenwende 89. 
+Sonnenwende <@pa.seite00 89/>. 
 
-Solstitien 89. 
+Solstitien <@pa.seite00 89/>. 
 
-Sothische Periode 195. 
+Sothische Periode <@pa.seite00 195/>. 
 
-Sphäre 70. 
+Sphäre <@pa.seite00 70/>. 
 
-Sphäroid 106. 
+Sphäroid <@pa.seite00 106/>. 
 
-Springfluthen 213. 
+Springfluthen <@pa.seite00 213/>. 
 
-Sternbilder 304. 
+Sternbilder <@pa.seite00 304/>. 
 
 Sterne, unförmige, 
-zerstreute 384. 
+zerstreute <@pa.seite00 384/>. 
 
-Sternentag 79. 83. 
+Sternentag <@pa.seite00 79/>, <@pa.seite00 83/>. 
 
-Sternenjahr 94. 
+Sternenjahr <@pa.seite00 94/>. 
 
-Sternnebel 444. 
+Sternnebel <@pa.seite00 444/>. 
 
-Sternschnuppen 336. 
+Sternschnuppen <@pa.seite00 336/>. 
 
-Stil, alter und neuer 151. 
+Stil, alter und neuer <@pa.seite00 151/>. 
 
-Störungen 156. 
+Störungen <@pa.seite00 156/>. 
 
 Strömungen des Oceans 
-215, der Luft s. Wind. 
+<@pa.seite00 215/>, der Luft s. Wind. 
 
-Stundenwinkel 81. 
+Stundenwinkel <@pa.seite00 81/>. 
 
-Süd 75. 
+Süd <@pa.seite00 75/>. 
 
-Südpol 72. 
+Südpol <@pa.seite00 72/>. 
 
-Synodische Umläufe 184, 
-der Sonne 240, der 
-Trabanten 222. 
+Synodische Umläufe <@pa.seite00 184/>, 
+der Sonne <@pa.seite00 240/>, der 
+Trabanten <@pa.seite00 222/>. 
 
-Synodisches Jahr 185. 
+Synodisches Jahr <@pa.seite00 185/>. 
 
-Tagesbogen 78. 
+Tagesbogen <@pa.seite00 78/>. 
 
-Tageskreis 73. 
+Tageskreis <@pa.seite00 73/>. 
 
-Thierkreis 402. 
+Thierkreis <@pa.seite00 402/>. 
 
-Thierkreislicht 250. 
+Thierkreislicht <@pa.seite00 250/>. 
 
-Trabanten 46. 220. 280. 
+Trabanten <@pa.seite00 46/>, <@pa.seite00 220/>, <@pa.seite00 280/>. 
 
-Trabantenfinsternisse 224. 
+Trabantenfinsternisse <@pa.seite00 224/>. 
 
-Trägheit 342. 
+Trägheit <@pa.seite00 342/>. 
 
-Tripelsterne 432. 
+Tripelsterne <@pa.seite00 432/>. 
 
-Tropisches Jahr 150, 
+Tropisches Jahr <@pa.seite00 150/>, 
 
 Umlaufszeiten der 
-Doppelsterne 435. der Fixsterne 431.
-der Kometen 317, 
-der Planeten 162. 261, 
-der Trabanten 230. 
+Doppelsterne <@pa.seite00 435/>, der Fixsterne <@pa.seite00 431/>,
+der Kometen <@pa.seite00 317/>, 
+der Planeten <@pa.seite00 162/>, <@pa.seite00 261/>, 
+der Trabanten <@pa.seite00 230/>. 
 
-Umschattige 137. 
+Umschattige <@pa.seite00 137/>. 
 
-Untere Planeten 64. 167. 
+Untere Planeten <@pa.seite00 64/>, <@pa.seite00 167/>. 
 
-Unschattige 137. 
+Unschattige <@pa.seite00 137/>. 
 
-Untergang der Sterne 78, 
+Untergang der Sterne <@pa.seite00 78/>, 
 akronyktische, heliaktische, 
-poetische 404. 
+poetische <@pa.seite00 404/>. 
 
-Variationen des Mondes 191. 
+Variationen des Mondes <@pa.seite00 191/>. 
 
-Vertikalkreise 70. 
+Vertikalkreise <@pa.seite00 70/>. 
 
-Vertikallinie 71. 
+Vertikallinie <@pa.seite00 71/>. 
 
-Vollerde 291. 
+Vollerde <@pa.seite00 291/>. 
 
-Vollmond 188. 
+Vollmond <@pa.seite00 188/>. 
 
-Vorrücken der Nachtgleichen 148. 
+Vorrücken der Nachtgleichen <@pa.seite00 148/>. 
 
-Wendekreise 90. 
+Wendekreise <@pa.seite00 90/>. 
 
-Westen 75. 
+Westen <@pa.seite00 75/>. 
 
-Winde auf der Erde 217, 
-auf den Planeten 270, 
-auf der Sonne 247. 
+Winde auf der Erde <@pa.seite00 217/>, 
+auf den Planeten <@pa.seite00 270/>, 
+auf der Sonne <@pa.seite00 247/>. 
 
-Windrose 75. 
+Windrose <@pa.seite00 75/>. 
 
-Zenith 71. 
+Zenith <@pa.seite00 71/>. 
 
 Zodiakus s. Thierkreis. 
 
-Zodiakallicht 250. 
+Zodiakallicht <@pa.seite00 250/>. 
 
-Zonen 135. 
+Zonen <@pa.seite00 135/>. 
 
-Zurückwerfung des Lichts 123. 
+Zurückwerfung des Lichts <@pa.seite00 123/>. 
 
-Zweischattige 137. 
+Zweischattige <@pa.seite00 137/>. 
 

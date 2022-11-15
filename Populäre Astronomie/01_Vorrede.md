@@ -22,7 +22,7 @@ eine durchgängig
 <span epub:type="pagebreak" id="pageVI" title="VI" xmlns:epub="http://www.idpf.org/2007/ops"/>
 verständliche Darstellung der Astronomie erwarten, so finden
 sie entweder die Mathematik in andrer Gestalt, wie bei Schuberts populärer
-Astronomie und La Place's *Exposition du système du monde*, oder einen solchen
+Astronomie und La Place’s *Exposition du système du monde*, oder einen solchen
 Mangel an Gründlichkeit und Vollständigkeit, daß sie ihren Zweck nicht
 erreichen.
 
@@ -30,7 +30,7 @@ Diese und andre Gründe bewogen mich, ein Werk zu übersetzen, das vor einiger
 Zeit in England erschienen war, und „die Wunder des Himmels in 20 Vorlesungen
 ohne Hülfe der Mathematik zu erläutern" versprach. Auch schien ein faßlicher
 Vortrag und die Aufnahme der herschelschen Entdeckungen es der vielen Auflagen,
-die es in England und in einer Uebersetzung in Frankreich erlebte, werth zu
+die es in England und in einer Übersetzung in Frankreich erlebte, werth zu
 machen. Allein eine genaue Betrachtung zeigte, daß der Titel *Vorlesungen*, der
 allerdings manche Freiheit in der Anordnung entschuldigt, doch in zu
 ausgedehntem Sinne genommen war. Von einer systematischen Anordnung war keine
@@ -39,18 +39,18 @@ Spur, die Sonnen-, Mond- und Nebelflecken, wie auch die Doppelsterne waren in
 von den Deutschen entlehnt hat, die auch alles dasjenige, was sie nicht gehörig
 einfachen können, unter dem Titel: „Was der Himmel Merkwürdiges zeigt"
 zusammenstellen, worunter man die ganze Astronomie begreifen könnte). Dasselbe
-kommt noch einmal unter den Entdeckungen Herschels vor. Ueberhaupt finden sich
+kommt noch einmal unter den Entdeckungen Herschels vor. Überhaupt finden sich
 zahllose Wiederholungen und, was immer mit Planlosigkeit verbunden ist, Mangel
 an Vollständigkeit. Daß die Entdeckungen der Deutschen, welche sich hier
 wahrlich den Ausländern an die Seite stellen können, kaum 
 <span epub:type="pagebreak" id="pageVII" title="VII" xmlns:epub="http://www.idpf.org/2007/ops"/>
 erwähnt sind, theilt
 diese Astronomie mit fast allen ausländischen Werken. Auch fehlt es nicht an
-Irrthümern, z. B. daß der Venusmond eine optische Täuschung sei, weil er immer
+Irrthümern, z.B. daß der Venusmond eine optische Täuschung sei, weil er immer
 dieselben Phasen darbot, wie der Hauptplanet u. dgl.
 
 Diese Fehler suchte ich nun möglichst zu vermeiden; die Materien wurden
-zweckmäßiger geordnet, gleichförmiger bearbeitet, und aus den Werken Laplace's,
+zweckmäßiger geordnet, gleichförmiger bearbeitet, und aus den Werken Laplace’s,
 Schröters, Schuberts, und mehrern andren ergänzt. Die erbaulichen
 Betrachtungen, die sich fast in dem Vortrage der Astronomie eingebürgert haben,
 wird man aber hier vielleicht vermissen. Allein es schien mir immer, daß
@@ -66,7 +66,7 @@ frühern abweichende, den Kennern zur Prüfung vorgelegt.
 Allein durch diese Zusätze und Veränderungen, und die Nothwendigkeit, eine so
 große Anzahl von Gegenständen in einem so engen Raume zusammenzustellen, ist
 mein Werk ein ganz anderes geworden, als anfangs beabsichtigt war, und wenn man
-von einer Uebersetzung bloß eine treue, sprachgemäße Wiedergabe der Gedanken
+von einer Übersetzung bloß eine treue, sprachgemäße Wiedergabe der Gedanken
 des ausländischen Werkes verlangen kann, so fürchte 
 <span epub:type="pagebreak" id="pageVIII" title="VIII" xmlns:epub="http://www.idpf.org/2007/ops"/>
 ich sehr, daß man an das
