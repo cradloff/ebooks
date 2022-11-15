@@ -1,8 +1,10 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 43/>
 Dritte Vorlesung.
 =================
 
-Allgemeine Uebersicht der Himmelskörper und der Art, sie zu beobachten.
+Allgemeine Übersicht der Himmelskörper und der Art, sie zu beobachten.
 -----------------------------------------------------------------------
 
 Zu den schönsten Gegenständen, womit die Natur das menschliche Auge erfreut,
@@ -27,7 +29,7 @@ gegeben, verschwindet sie
 gleichfalls aus unsrem Gesichtskreise, und die Sterne erscheinen von neuem am
 Himmel.
 
-Wo die Sterne wahrend des Tages weilen, bleibt nur dem Unaufmerksamsten
+Wo die Sterne während des Tages weilen, bleibt nur dem Unaufmerksamsten
 verborgen. Allmälig nur verschwinden sie des Morgens, und wenn die kleinern
 längst nicht mehr sichtbar sind, leuchten die größeren, wenn gleich mit matterm
 Glanze, noch fort, bis auch sie uns unsichtbar werden, aber nur auf kurze Zeit;
@@ -39,7 +41,7 @@ der Zufall einen Beobachter in einen tiefen Brunnen führt, oder die Sterne
 durch eine lange Röhre betrachtet werden, so sieht man, selbst wenn die Sonne
 hoch am Himmel steht, die in der Nacht bekannt gewordenen Sterne wieder; auch
 unsere Fernröhre machen sie uns zu jeder Tageszeit sichtbar. Der Glanz der
-Sonne ist's also nur, welcher die Sterne verdunkelt, und sie bewegt sich
+Sonne ist’s also nur, welcher die Sterne verdunkelt, und sie bewegt sich
 zwischen ihnen am Himmel, aber als das erste Gestirn.
 
 Dieser Bewegung ungeachtet behält der bei weitem größere Theil der Gestirne
@@ -85,14 +87,14 @@ solchen Begleiter am Monde.
 Nicht selten beobachtet man Sterne, die zuweilen der Sonne an Größe wenig
 nachzustehen scheinen, ihr sehr nahe kommen, und sich dann auf lange Zeit,
 vielleicht auf ewig, wieder von ihr entfernen, wodurch sie sich von den
-Planeten unterscheiden. Da sie gewöhnlich von haarahnlichen Schweifen oder
+Planeten unterscheiden. Da sie gewöhnlich von haarähnlichen Schweifen oder
 Büscheln begleitet sind, heißen sie *Kometen*, *Haar-* oder *Schweifsterne*.
 Alle diese Körper theilen die allgemeine regelmäßige Bewegung des Himmels, und
 unterscheiden sich dadurch von den Erscheinungen unserer Atmosphäre, den
-Wolken, Nordlichtern u. a., die, wenn nicht Winde oder andere irdische Ursachen
-sie zerstreuen, unbeweglich über unserm Haupte schweben. Unentschieden ist's
+Wolken, Nordlichtern u.a., die, wenn nicht Winde oder andere irdische Ursachen
+sie zerstreuen, unbeweglich über unserm Haupte schweben. Unentschieden ist’s
 noch, wohin jene Steine und schleimigen Massen zu zählen sind, die zuweilen auf
-die Erde fallen, die Feuerkugeln, Sternschnuppen u. dgl. Vielleicht gelingt's
+die Erde fallen, die Feuerkugeln, Sternschnuppen u. dgl. Vielleicht gelingt’s
 uns in der Folge, diese Fragen zu beantworten.
 
 Die Sonne mit ihren Planeten, Trabanten und zahllosen Kometen oder das
@@ -120,7 +122,7 @@ ungesehen, vor uns im Raume schweben, bloß weil er dunkel ist!
 
 Die Himmelskörper nun, ihre Bewegungen, ihre Entfernungen, ihre Größe zu
 untersuchen; die Ursachen ihrer Erscheinungen und den Einfluß, den sie auf die
-Körper unsrer Erde üben, zu erforschen, ist eine würdige. Aufgabe des
+Körper unsrer Erde üben, zu erforschen, ist eine würdige Aufgabe des
 menschlichen Geistes und der Gegenstand der *Astronomie*; aber die Mittel sind
 schwierig und ihr Gebrauch noch durch mannigfache Täuschung erschwert.
 
@@ -134,21 +136,26 @@ Bewegung oder Ruhe der Erde.
 
 Das Auge sieht eigentlich nur die Oberfläche der
 <@pagebreak/>
-Körper, die ihm von allen
-Seiten ihr eigenes oder erborgtes Licht zusenden; dieses bildet einen
-Lichtkegel, der die Grenzen des Körpers berührt und dessen Spitze das Auge ist,
-und alle Körper, die denselben Lichtkegel in unserm Auge bilden, erscheinen ihm
-in gleicher Größe, unabhängig von ihrer Entfernung. Ein Körper _B_ (Fig. 1)
-erscheint uns nicht größer, als _C_, weil beide denselben Winkel am Auge _A_
-bilden. Wenn sich aber _B_ dem Auge nähert und in die Lage _B'_ kommt, so wird
-der Winkel größer und der Körper scheint dem Auge um so größer zu werden, je
-mehr er sich ihm nähert. Wir bleiben zweifelhaft, ob ein vor unserm Auge
-schnell vorübergeflogenes Thier, dessen Gestalt wir nicht unterscheiden
-konnten, ein nahes Insekt, oder ein entfernter Vogel war. Dieses weiß auch der
-Maler sehr wohl; — in einem richtig gezeichneten Gemälde sind die dem Beschauen
-nahen Gegenstande groß, die andren um so kleiner, je mehr sie im Hintergrunde
-stehen; und so ist der nahe Baum, der nahe Mensch größer, als der entfernte
-Berg.
+Körper, die ihm von allen Seiten ihr eigenes oder
+erborgtes Licht zusenden; dieses bildet einen Lichtkegel,
+der die Grenzen des Körpers berührt und dessen Spitze
+das Auge ist, und alle Körper, die denselben Lichtkegel
+in unserm Auge bilden, erscheinen ihm in gleicher
+Größe, unabhängig von ihrer Entfernung. Ein Körper
+_B_ <@pa.fig nr="1"/> erscheint uns nicht größer, als _C_, weil
+beide denselben Winkel am Auge _A_ bilden. Wenn
+sich aber _B_ dem Auge nähert und in die Lage _B’_ kommt,
+so wird der Winkel größer und der Körper scheint
+dem Auge um so größer zu werden, je mehr er sich
+ihm nähert. Wir bleiben zweifelhaft, ob ein vor unserm
+Auge schnell vorübergeflogenes Thier, dessen Gestalt
+wir nicht unterscheiden konnten, ein nahes Insekt, oder
+ein entfernter Vogel war. Dieses weiß auch der
+Maler sehr wohl; — in einem richtig gezeichneten
+Gemälde sind die dem Beschauen nahen Gegenstände
+groß, die andren um so kleiner, je mehr sie im Hintergrunde
+stehen; und so ist der nahe Baum, der nahe
+Mensch größer, als der entfernte Berg.
 
 Da wir Kreise und Winkel öfter erwähnen werden, so möchte manchem unserer
 Zuhörer eine Erläuterung nicht unwillkommen sein.
@@ -163,13 +170,13 @@ Mittelpunkt, so heißt sie *Durchmesser*, *Diameter*. Diese sind die größten
 aller Sehnen. Der Kreisbogen, den zwei Halbmesser einschließen, bietet ein
 <@pagebreak/>
 bequemes Maß für den Winkel dar, dessen Größe man bestimmen kann, in so fern
-der Bogen <sup>1</sup>/<sub>3</sub>, <sup>1</sup>/<sub>4</sub>,
-<sup>1</sup>/<sub>10</sub> des ganzen Umkreises beträgt. Man hat der
+der Bogen ⅓, ¼,
+⅒ des ganzen Umkreises beträgt. Man hat der
 Bequemlichkeit willen den ganzen Kreis in 360 Theile getheilt, die man Grade
 nennt, und jeden Grad wieder in 60 Minuten zu 60 Sekunden. Ein Winkel der den
 7ten Theil des Kreises einschließt, enthielte alsdann 51 Grade, 25 Minuten, 42
-und etwa <sup>857</sup>/<sub>1000</sub> Sekunden, oder, wie man gewöhnlich
-abgekürzt schreibt, 51°25'42",857.
+und etwa <@pa.bruch z="857" n="1000"/> Sekunden, oder, wie man gewöhnlich
+abgekürzt schreibt, 51°25’42",857.
 
 Ein Winkel, der den vierten Theil des Kreises umschließt, oder 90° mißt, heißt
 ein *rechter Winkel*; ein größerer *stumpf*, ein kleinerer *spitz*. Es kommt
@@ -186,7 +193,7 @@ scheinbaren Entfernungen nehmen mit der Nähe der Gegenstände zu.
 
 Zum Glück beobachtet der Mensch nicht bloß mit dem äußeren Auge; zwar kennt der
 Säugling und der eben von Blindheit Genesene den Unterschied der Entfernungen
-nicht, er hascht nach dem Schmetterling' wie nach dem in den Wolken fliegenden
+nicht, er hascht nach dem Schmetterling’ wie nach dem in den Wolken fliegenden
 Adler; aber bald lernt er, häufig getäuscht, durchs Gefühl die Empfindungen des
 Auges prüfen; Körper, deren Gestalt und Größe ihm bekannt sind, scheinen ihm
 auch in der Entfernung nicht kleiner; es müßte sonst von einem ungewöhnlichen
@@ -208,23 +215,28 @@ Auge des Seemanns nicht, ob der dunkle Streif, der den Saum seines
 Gesichtskreises deckt, von Wolken herrühre, oder von einem nahen Hügel, oder
 einem entfernten Gebirge.
 
-Schon die Wolken, die nur wenige Tausend Fuß von der Erde entfernt sind,
-erscheinen uns in gleicher Höhe mit den meilenhohen, und alle halten wir für
-Theile desselben sich über uns erstreckenden Gewölbes, über welchem selbst die
-Himmelskörper nicht erhaben zu sein scheinen. An diesem Gewölbe scheinen sie
-sich auch zu bewegen, sie mögen sich nähern oder sich entfernen, ihre Bahn mag
-gerade oder gekrümmt sein; wir gewahren sie nur, in so fern sich ihre Lage zu
-uns ändert, und die 3 Bewegungen _Bb_, _Cc_, _Dd_ (Fig.2.) machen denselben
-Eindruck auf uns, wie _Ee_. Wie wenig können wir also auf diesem Wege von den
-Bewegungen der Himmelskörper erfahren; und wenn wir nicht auf andre Weise von
-der Bahn derselben wüßten, ob sie geradlinig, oder
+Schon die Wolken, die nur wenige Tausend
+Fuß<@refnote 1/> von der Erde entfernt sind, erscheinen uns in
+gleicher Höhe mit den meilenhohen, und alle halten
+wir für Theile desselben sich über uns erstreckenden
+Gewölbes, über welchem selbst die Himmelskörper
+nicht erhaben zu sein scheinen. An diesem Gewölbe
+scheinen sie sich auch zu bewegen, sie mögen sich nähern
+oder sich entfernen, ihre Bahn mag gerade oder gekrümmt
+sein; wir gewahren sie nur, in so fern sich
+ihre Lage zu uns ändert, und die 3 Bewegungen _Bb_,
+_Cc_, _Dd_ <@pa.fig nr="2"/> machen denselben Eindruck auf uns,
+wie _Ee_. Wie wenig können wir also auf diesem
+Wege von den Bewegungen der Himmelskörper erfahren;
+und wenn wir nicht auf andre Weise von der
+Bahn derselben wüßten, ob sie geradlinig, oder
 <@pagebreak/>
-kreisförmig, ob die
-Geschwindigkeit gleichförmig sei, oder in welchem Grade nicht; wenn wir ferner
-nicht aus der Veränderung der scheinbaren Durchmesser auf die Entfernung
-schließen könnten: so würde die Bewegung der Himmelskörper, trotz der
-schärfsten Fernröhre und der fleißigsten Beobachtung, uns ewig ein Räthsel
-bleiben.
+kreisförmig, ob die Geschwindigkeit gleichförmig sei, oder in
+welchem Grade nicht; wenn wir ferner nicht aus der
+Veränderung der scheinbaren Durchmesser auf die Entfernung
+schließen könnten: so würde die Bewegung der
+Himmelskörper, trotz der schärfsten Fernröhre und der
+fleißigsten Beobachtung, uns ewig ein Räthsel bleiben.
 
 Aber selbst wenn dieses Räthsel gelöst ist, und wir die Bahn eines Gestirns an
 unserm Himmel nach Entfernung und Richtung genau bestimmen können, bleibt uns
@@ -239,7 +251,7 @@ seines ruhig segelnden Schiffes eine Spur von Bewegung; nichts wird daselbst
 durch den Mangel an Ruhe geändert, und ein von dem Maste herabfallender Stein
 fällt am Fuße desselben nieder, obgleich das Schiff indeß weit fortgerückt ist;
 erst wenn er das Ufer sich entfernen sieht, schließt er, daß, da jenes in Ruhe
-bleibt, das Schiff wol das sich Bewegende sein müsse; eben so geht's dem
+bleibt, das Schiff wol das sich Bewegende sein müsse; eben so geht’s dem
 Luftschiffer. Da nun die Himmelskörper auf ihrer Bahn noch weit weniger
 Störungen erleiden, als See- und Luftschiff, so können ihre Bewohner durchaus
 keine Empfindung von Bewegung haben.
@@ -276,7 +288,7 @@ entfernte, jedoch unzugängliche Körper gewöhnliche Methode, daß man sie aus
 zwei Gesichtspunkten
 <@pagebreak/>
 beobachtet, reicht nur für sehr wenige Himmelskörper aus.
-Es ist klar, daß, wenn die Größe der Linie (Fig. 3.) bekannt ist, und man etwa
+Es ist klar, daß, wenn die Größe der Linie <@pa.fig nr="3"/> bekannt ist, und man etwa
 durch ein Fernrohr, von _A_ u. _B_ aus, den entfernten Körper _C_ beobachtet,
 die Winkel bei _A_ u. _B_ gefunden werden, so daß man das Dreieck zeichnen, und
 die Linien _AC_ u. _BC_, oder die Entfernungen des Körpers _C_ von _A_ u. _B_,
@@ -290,11 +302,11 @@ Nur für die nächsten Himmelskörper, als den Mond, die Venus zc. ist sie
 anwendbar; schon für die Sonne reicht sie nicht mehr aus, deren Entfernung, so
 wie die von andern Himmelskörpern, nur aus denen des Mondes und der Venus, und
 nach theoretischen Gründen auf zum Theil sehr mühsame Weise berechnet werden
-konnte. So fand man, daß z. B. die Sonne etwa 21 Mill. Meilen entfernt ist.
+konnte. So fand man, daß z.B. die Sonne etwa 21 Mill. Meilen<@refnote/> entfernt ist.
 
 Innig verbunden mit der Frage über die Entfernung der Himmelskörper ist die
 über die Größe derselben; eine sehr leichte Aufgabe, sobald jene beantwortet
-ist. Denn so bald die Linien _AB_ und _AC_ (Fig. 4.) bekannt sind, und der
+ist. Denn so bald die Linien _AB_ und _AC_ <@pa.fig nr="4"/> bekannt sind, und der
 Winkel den beide einschließen — welcher dem scheinbaren Durchmesser gleich ist
 —, so kann die Größe von _BC_ berechnet werden; sobald aber die Entfernung sich
 nicht bestimmen läßt, kann es die Größe nimmermehr. Bei den meisten Planeten
