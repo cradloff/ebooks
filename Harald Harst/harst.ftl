@@ -57,6 +57,13 @@ Max Schraut
 <h1>${property.title}</h1>
 </#macro>
 
+<#-- Intro am Seitenkopf:
+	Nachdruck verboten. Alle Rechte ...
+
+	TITEL
+
+	Walther Kabel.
+-->
 <#macro introshort3>
 <@harst.introshort2/>
 
