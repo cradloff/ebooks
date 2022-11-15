@@ -1,3 +1,6 @@
+Figuren.
+--------
+
 <#macro figur nr>
 <#compress>
 <div class="img" id="figur${nr}"><img alt="Figur ${nr}" src="Figur${nr}.png"/></div>

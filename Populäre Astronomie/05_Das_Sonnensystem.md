@@ -274,7 +274,7 @@ Standpunkte aus.
 Bei den Mittelplaneten ist durch die Excentricität ihrer
 Bahnen Juno bald der nächste, bald der entfernteste derselben, eine
 Verschlingung, die sich sonst im ganzen Sonnensysteme nicht findet. (S. die
-<a href="Tabelle_1.xhtml">Kupfertafel I.</a>)
+<a href="25_Tabellen.xhtml#Tabelle1">Kupfertafel I.</a>)
 
 Noch unregelmäßiger ist die *Größe* der Planeten. Zwar ist Merkur der
 nächste und der kleinste der ältern Planeten, auch ist die Erde etwas größer
