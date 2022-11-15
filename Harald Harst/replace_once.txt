@@ -6,6 +6,7 @@
 1!	!!
 \b309\b	zog
 \bAch\b	Ich
+\bAeste\b	Äste
 \bAhnen\b	Ihnen
 \bau!	auf
 \bBann\b	Dann
@@ -29,6 +30,7 @@
 \bgesunden	gefunden
 \bha!\b	hat
 \bHart\b	Harst
+\bIm\b	Hm
 \bis!\b	ist
 \blebten	letzten
 \blett\b	jetzt
