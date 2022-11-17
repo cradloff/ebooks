@@ -80,11 +80,9 @@ Verwendung:
 </#compress>
 </#macro>
 
-<#macro seite0 nr>S. (<@seite00 nr/>).</#macro>
+<#macro seite0 nr>S.&nbsp;<@seite00 nr/>.</#macro>
 <#macro seite nr>(<@seite0 nr/>)</#macro>
-<#macro vergl nr>(vergl. S. <@seite00 nr/>)</#macro>
-
-<#macro karte><a href="karte.xhtml">Karte</a></#macro>
+<#macro vergl nr>(vergl. S.&nbsp;<@seite00 nr/>)</#macro>
 
 <#macro sonne>&#x2609;</#macro>
 <#macro mond>&#x263D;</#macro>

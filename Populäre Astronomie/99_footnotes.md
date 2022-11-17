@@ -9,3 +9,5 @@
 
 <@footnote 4 "08_Die_Erde.md">Neuholland steht für Australien vor der Inbesitznahme der gesamten Landmasse durch das britische Empire im 19. Jh. (Wikipedia)</@footnote>
 
+<@footnote 5 "16_Der_Mond_und_die_Trabanten.md">Die Karte ist leider nicht erhalten geblieben.</@footnote>
+

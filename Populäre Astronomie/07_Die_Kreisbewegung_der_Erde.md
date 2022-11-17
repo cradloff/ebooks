@@ -73,7 +73,7 @@ verschiedenen Zeiten des Jahres.
 <@pagebreak/>
 
 <table>
-<tr><td colspan="2">Nördlich.</td><td>Abwei-<br/>chung.</td><td colspan="2">Südlich.</td><td>Differenzen.</td></tr>
+<tr class="centered"><td colspan="2">Nördlich.</td><td>Abwei-<br/>chung.</td><td colspan="2">Südlich.</td><td>Differenzen.</td></tr>
 <tr><td>21. März u.</td><td>23. Sept.</td><td> 0°</td><td>23. Sept u.</td><td>21. März.</td><td></td></tr>
 <tr><td>23. "</td><td>21. "</td><td> 1</td><td>26. "</td><td>18. "</td><td></td></tr>
 <tr><td>26. "</td><td>18. "</td><td> 2</td><td>28. "</td><td>16. "</td><td></td></tr>
