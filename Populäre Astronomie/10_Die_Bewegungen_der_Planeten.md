@@ -73,7 +73,7 @@ Planetenbahn und die größte Mittelpunktsgleichung.</caption>
 
 <table class="vborder2 vborder3 vborder4">
   <caption>Tab. 4. Lage der Planetenellipsen.</caption>
-  <tr><td>Neigung zur Ekliptik.</td><td>Länge des aufft. Knotens.</td><td>Länge
+  <tr><td></td><td>Neigung zur Ekliptik.</td><td>Länge des aufft. Knotens.</td><td>Länge
 des Apheliums.</td><td>Neigung zum Sonnenäquat.</td></tr>
   <tr><td><@pa.merkur/></td> <td> 7° 0’ 0"</td> <td> 46° 4’ 1"</td><td>254°30’14"</td><td> 2°54’ 4"</td></tr>
   <tr><td><@pa.venus/></td>  <td> 3 23 28,5</td><td> 74 57 18</td> <td>308 44 18</td> <td> 4  9 12</td></tr>
@@ -583,24 +583,24 @@ haben.
 
 <@pagebreak/>
 
-<table>
+<table class="vborder2 vborder3 vborder4 vborder5 vborder6">
   <caption>Tab. 5. Größte und kleinste Entfernung der Planeten von der Erde in
 deutschen Meilen; kleinster und größter scheinbarer Durchmesser; synodischer
 Umlauf.</caption>
-  <tr><td colspan="2"></td>                  <td colspan="2">Entfernung</td><td colspan="2">Scheinb. Größe</td><td rowspan="2">synodischer Umlauf</td></tr>
-  <tr><td colspan="2"></td>                  <td>größte</td>     <td>kleinste</td>   <td>kleinste</td><td>größte</td></tr>
-  <tr><td>Merkur</td> <td><@pa.merkur/></td> <td> 30,981,072</td><td> 10,776,418</td><td>   4, 0</td><td>  11" 6</td><td>115 T. 21 St. 3’ 34"</td></tr>
-  <tr><td>Venus</td>  <td><@pa.venus/></td>  <td> 36,435,294</td><td>  5,822,196</td><td>   9, 5</td><td>  65, 5</td><td>583 "  22 "   6  56</td></tr>
-  <tr><td>Mars</td>   <td><@pa.mars/></td>   <td> 56,007,691</td><td>  7,617,893</td><td>   2, 9</td><td>  21, 2</td><td>779 "  22 "  28  33</td></tr>
+  <tr style="border-top: 1px solid;" class="centered"><td colspan="2"></td>                  <td colspan="2">Entfernung</td><td colspan="2">Scheinb. Größe</td><td rowspan="2" style="border-right: none;">synodischer Umlauf</td></tr>
+  <tr class="centered"><td colspan="2"></td>                  <td>größte</td>     <td>kleinste</td>   <td>kleinste</td><td>größte</td></tr>
+  <tr style="border-top: 2px solid;"><td>Merkur</td> <td><@pa.merkur/></td> <td> 30,981,072</td><td> 10,776,418</td><td>   4, 0</td><td>  11" 6</td><td>115 T. 21 St. 3’ 34"</td></tr>
+  <tr><td>Venus</td>  <td><@pa.venus/></td>  <td> 36,435,294</td><td>  5,822,196</td><td>   9, 5</td><td>  65, 5</td><td>583 "  22 "   6  56</td></tr>
+  <tr><td>Mars</td>   <td><@pa.mars/></td>   <td> 56,007,691</td><td>  7,617,893</td><td>   2, 9</td><td>  21, 2</td><td>779 "  22 "  28  33</td></tr>
   <tr><td>Vesta</td>  <td><@pa.vesta/></td>  <td> 74,934,827</td><td> 23,703,273</td><td>   0,16</td><td>   0,51</td><td>504 "   9 "  13</td></tr>
   <tr><td>Juno</td>   <td><@pa.juno/></td>   <td> 90,865,160</td><td> 20,342,840</td><td>   0,70</td><td>   3,13</td><td>474 "   0 "  43</td></tr>
   <tr><td>Ceres</td>  <td><@pa.ceres/></td>  <td> 83,547,399</td><td> 32,005,801</td><td>   0,70</td><td>   2,20</td><td>466 "  14 "  59</td></tr>
   <tr><td>Pallas</td> <td><@pa.pallas/></td> <td> 93,172,840</td><td> 22,422,820</td><td>   0,01</td><td>   4,19</td><td>466 "  17 "  59</td></tr>
-  <tr><td>Jupiter</td><td><@pa.jupiter/></td><td>135,055,001</td><td> 82,132,461</td><td>  31, 5</td><td>  51, 9</td><td>398 "  21 "  12  29</td></tr>
-  <tr><td>Saturn</td> <td><@pa.saturn/></td> <td>231,552,219</td><td>166,722,981</td><td>  14, 6</td><td>  20, 2</td><td>378 "   2 "  12  55</td></tr>
-  <tr><td>Uranus</td> <td><@pa.uranus/></td> <td>440,442,327</td><td>360,598,933</td><td>   3, 4</td><td>   4, 2</td><td>369 "  15 "  44  41</td></tr>
-  <tr><td>Sonne</td>  <td><@pa.sonne/></td>  <td> 21,229,397</td><td> 20,528,093</td><td>1890, 6</td><td>1955, 2</td><td></td></tr>
-  <tr><td>Mond</td>   <td><@pa.mond/></td>   <td>     55,265</td><td>     48,422</td><td>1762, 0</td><td>2011, 0</td><td></td></tr>
+  <tr><td>Jupiter</td><td><@pa.jupiter/></td><td>135,055,001</td><td> 82,132,461</td><td>  31, 5</td><td>  51, 9</td><td>398 "  21 "  12  29</td></tr>
+  <tr><td>Saturn</td> <td><@pa.saturn/></td> <td>231,552,219</td><td>166,722,981</td><td>  14, 6</td><td>  20, 2</td><td>378 "   2 "  12  55</td></tr>
+  <tr><td>Uranus</td> <td><@pa.uranus/></td> <td>440,442,327</td><td>360,598,933</td><td>   3, 4</td><td>   4, 2</td><td>369 "  15 "  44  41</td></tr>
+  <tr><td>Sonne</td>  <td><@pa.sonne/></td>  <td> 21,229,397</td><td> 20,528,093</td><td>1890, 6</td><td>1955, 2</td><td></td></tr>
+  <tr><td>Mond</td>   <td><@pa.mond/></td>   <td>     55,265</td><td>     48,422</td><td>1762, 0</td><td>2011, 0</td><td></td></tr>
 </table>
 
 <@pagebreak/>

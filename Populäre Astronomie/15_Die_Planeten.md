@@ -40,14 +40,14 @@ zusammenstellen und dann in Anmerkungen die Größen vergleichen.
 
 <@pagebreak/>
 
-<table>
+<table class="vborder">
 <caption>Tab. 2. Größe des Sonnendurchmessers, von den Planeten aus gesehn: 1.
 in Sekunden; 2. ihr geocentrischer Durchmesser 1; Oberfläche der Sonnenscheibe,
 von den Planeten aus gesehen, die geocentrische = 1; dasselbe ungefähr.
 Verhältniß der Größe des Durchmessers und der Scheibe der Sonne im Perihelium
 u. Aphelium; mittlere heliocentrische Größe der Planetenscheiben.</caption>
-<tr><td></td><td colspan="2">Durchmesser der Sonne.</td><td>Oberfl. d. Sonne.</td><td colspan="2">Verhältnis d. Aphelium zum Perihelium des</td><td>Mittlerer heliocentr.</td></tr>
-<tr><td></td><td>in Sekunden.</td><td>Erde = 1.</td><td>Erde = 1.</td><td>Durchm.</td><td>d. Scheibe.</td><td>Durchm.</td></tr>
+<tr style="border-top: 2px solid;"><td></td><td colspan="2">Durchmesser der Sonne.</td><td>Oberfl. d. Sonne.</td><td colspan="2">Verhältnis d. Aphelium zum Perihelium des</td><td>Mittlerer heliocentr.</td></tr>
+<tr style="border-bottom: 1px solid;"><td></td><td>in Sekunden.</td><td>Erde = 1.</td><td>Erde = 1.</td><td>Durchm.</td><td>d. Scheibe.</td><td>Durchm.</td></tr>
 <tr><td>Merkur</td> <td>4967"7</td><td>2,5827</td><td>6,6701 = 7</td><td> 2: 3</td><td> 4: 9</td><td>15" 5</td></tr>
 <tr><td>Venus</td>  <td>2658,5</td><td>1,3825</td><td>1,9113 = 2</td><td>75:76</td><td>37:38</td><td>23, 1</td></tr>
 <tr><td>Erde</td>   <td>1922,9</td><td>1,0000</td><td>1,0000 = 1</td><td>29:30</td><td>14:15</td><td>17, 1</td></tr>
@@ -105,7 +105,7 @@ des Lichts, das uns ein Körper gewährt, nimmt ab, wie die Quadrate der
 Entfernungen zunehmen. Wenn ein Licht, das einen Fuß von einem Gegenstande
 entfernt ist, ihn bis auf einen gewissen Grad erleuchtet, so werden bei zwei
 Fuß Entfernung vier Lichter, bei drei Fuß Entfernung neun Lichter nöthig sein;
-ein Licht leuchtet also nur ¼ oder <@pa.bruch z=1 n=9/> so stark, als früher. In demselben
+ein Licht leuchtet also nur ¼ oder ⅑ so stark, als früher. In demselben
 Verhältnisse der Quadrate der Entfernung nimmt auch die scheinbare Größe der
 Scheibe ab. Wenn wir nun annehmen dürfen, daß diese mit der Stärke der Wärme im
 Verhältniß stehe, welches auch wahrscheinlich statt findet, wenn die
@@ -359,7 +359,7 @@ Tabelle enthält die Angaben dazu.
 
 <@pagebreak/>
 
-<table>
+<table class="vborder">
 <caption>Tab. 4. Mittlerer Werth der größten Elongationen <@pa.seite 167/> der unteren
 Planeten von der Sonne, von den oberen Planeten aus beobachtet.</caption>
 <tr style="border-top: 2px solid; border-bottom: 1px solid;"><th></th><th>Merkur.</th><th>Venus.</th> <th>Erde.</th>  <th>Mars.</th>  <th>Ceres.</th><th>Jupiter.</th><th>Saturn.</th></tr>

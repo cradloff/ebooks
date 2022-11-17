@@ -425,7 +425,7 @@ Mondsoberfläche; aber eine wirkliche Topographie beginnt erst mit *Schröters*
 Arbeiten (1791), der zuerst Karten einzelner Mondländer entwarf, die jetzt kaum
 durch die neuen Frauenhoferschen Fernröhre in den Händen *Gruithuisens* u.a.
 verbessert werden können. Die beste Generalkarte des Mondes, die
-Gruithuisensche, liegt der diesem Werke beiliegenden <@pa.karte/> zum Grunde.
+Gruithuisensche, liegt der diesem Werke beiliegenden Karte<@refnote 5/> zum Grunde.
 
 Das Auge sieht nur eine Fläche, und man würde nimmermehr einen wirklichen
 Gegenstand von einem Gemälde unterscheiden, wenn man nicht durch’s Gefühl die
@@ -530,7 +530,7 @@ Meilen. Die Höhe der Wälle, die zuweilen auf allen Seiten 6 — 7000 Fuß hoch
 sind, erhebt sich an einigen Punkten auf 11000 Fuß, verschwindet jedoch
 zuweilen ganz, so daß die kreisförmigen Vertiefungen sich mitten in der Ebene
 befinden. Den umgekehrten Fall, nämlich von Wällen eingeschlossene Ebenen,
-findet man häufiger, z.B. bei *Archimedes* (4 unsrer <@pa.karte/>), *Newton* (südlich
+findet man häufiger, z.B. bei *Archimedes* (4 unsrer Karte), *Newton* (südlich
 von Plato, 2 d. Karte) u.a.m. Obgleich der innere Raum gewöhnlich beckenförmig
 ausgehöhlt, also viel weiter als tief ist, so ist dennoch ihre Tiefe sehr
 bedeutend, wol 11000 Fuß, ja einer von ihnen, *Bernouilli* (etwas nördlich von
@@ -603,7 +603,7 @@ Vertiefung auszufüllen. Nur an einigen Stellen vermochte die Mondsoberfläche
 dem Drucke zu widerstehen, vielleicht weil das Gas durch seine Ausdehnung nicht
 mehr Elasticität genug besaß, die Decke seiner Höhlen noch ferner zu heben,
 oder weil es durch Seitenkanäle einen Ausweg gefunden hatte. Eine solche
-Wölbung befindet sich in der Nähe von Schickard (6 der <@pa.karte/>) am südöstlichen
+Wölbung befindet sich in der Nähe von Schickard (6 der Karte) am südöstlichen
 Rande der Mondscheibe.
 
 An Ausdehnung stehn die Gasentbindungen der Erde denen des Mondes keinesweges
@@ -652,12 +652,12 @@ nämlich, der Stütze, die sie früher hob und hielt, des Gases selbst, beraubt,
 stürzen entweder ein und werden zu Rillen, deren Ufer etwas erhöht sind, oder,
 wenn sie durch den Zusammenhang der Theile sich größtentheils halten, so bilden
 sie an einigen Stellen durchbrochene *Bergadern*. Diese sind gewöhnlich sehr
-breit und niedrig, z.B. im heiteren Meere (_Mare Serenitatis, H_ unsrer <@pa.karte/>)
+breit und niedrig, z.B. im heiteren Meere (_Mare Serenitatis, H_ unsrer Karte)
 sind solche Adern, die 372 — 956 Fuß hoch, und 43 mal so breit sind. Daher
 entsteht der merkwürdige Unterschied der Mondsoberfläche von der Erde, daß
 während dort die Züge der Berge und Thäler gewöhnlich von Hochländern ausgehen,
 sie sich hier von Vertiefungen stralenförmig nach allen Seiten zu erstrecken
-scheinen, z.B. bei Kopernikus, Kepler, Tycho (8, 9 und 5 unsrer <@pa.karte/>).
+scheinen, z.B. bei Kopernikus, Kepler, Tycho (8, 9 und 5 unsrer Karte).
 
 Eine vorzüglich interessante Erscheinung gewährt das Ineinandergreifen mehrerer
 solcher Gebilde. Man findet dann gewöhnlich eines von beiden auf Kosten des
@@ -699,7 +699,7 @@ Auf dem übrigen Theile des Mondes zeichnen sich vorzüglich große Flecken aus,
 die keine bedeutende Unebenheiten zeigen, und daher von den älteren Beobachtern
 ziemlich rasch für *Meere*, Seen, Sümpfe gehalten und demgemäß benannt wurden.
 So entstand, nach Riccloli, der *stürmische Ocean* (_Oceanus Procellarum, A_
-unsrer <@pa.karte/>), das *Regenmeer* (_Mare Imbrium, B_), das *heitere Meer* (_M.
+unsrer Karte), das *Regenmeer* (_Mare Imbrium, B_), das *heitere Meer* (_M.
 Serenitatis, H_), das *fruchtbare Meer* (_M. Foecunditatis, N_), das *ruhige
 Meer* (_M. Tranquillitatis, M_), das *Meer der Feuchtigkeit* (_M. Humorum, R_),
 das *Nektarmeer* (_M. Nectaris, O_), das *Meer der Krisen* (_M. Crisium, R_),
