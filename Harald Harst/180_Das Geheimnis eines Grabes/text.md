@@ -68,7 +68,7 @@ Die Frau beugte sich über ihn und schien zu beten …
 Dann klappte sie den Kistendeckel wieder zu, breitete den
 Sand wieder über den Deckel und verwischte sorgfältig alle
 Spuren ihrer Anwesenheit. Hierauf schritt sie in den Wald
-Hinein und verschwand.
+hinein und verschwand.
 
 Ich hatte nicht die Absicht, ihr zu folgen, denn mich lockte
 <@pagebreak/>
@@ -124,8 +124,8 @@ Herr Harst. Ich hielt dies für richtiger, als mich hier in
 diesem Nest an die Ortspolizei zu wenden, die ja doch kein
 Verständnis für dies dunkle Geheimnis gehabt hätte.
 
-Im Übrigen, sehr geehrter Herr Harst, bin ich bis heute
-nicht wieder in der Nähe des geheimnisvollen Grabens gewesen,
+Im übrigen, sehr geehrter Herr Harst, bin ich bis heute
+nicht wieder in der Nähe des geheimnisvollen Grabens gewesen.
 
 Alles weitere überlasse ich Ihnen. Ich würde mich sehr
 freuen, wenn Sie mir eine Antwort zukommen ließen, was
@@ -319,7 +319,7 @@ Fenster hell wurden und wie auch die Nacht langsam sich
 über Meer und Land ausgebreitete … In diesem Halbdunkel
 schwebten wie weiße Pünktchen zahllose Möwen, ließen sich
 auf die See hinab und täuschten hier, dicht zusammengedrängt,
-Weiße Flecken vor …
+weiße Flecken vor …
 
 Und plötzlich sagte Harald da ganz von selbst:
 
@@ -1065,7 +1065,7 @@ Wahrhaftig, — — die Schlüssel steckten!!
 
 Nun war auch mir alles klar: Martha mußte gemerkt
 haben, wie wir durch das Fenster das Haus verließen. Das
-hatte sie argwöhnisch gemacht, und deshalb Hatte sie sich hier
+hatte sie argwöhnisch gemacht, und deshalb hatte sie sich hier
 ins Zimmer geschlichen und den Inhalt des Koffers sich angesehen
 …! Und dieser Inhalt — Perücken, Bärte, Schminke,
 Kostüme und so weiter — hatten ihr sofort gesagt, daß
@@ -1076,7 +1076,7 @@ weit her sein könnte!
 »Ja — und unsere Ausweise liegen obenauf!« nickte
 Harald … »Merkwürdig dabei ist nur das eine, daß Martha
 sofort gewußt hat, wir seien des geheimnisvollen Grabes und
-Somit auch der Baronesse wegen hier. Mithin, lieber Alter …«
+somit auch der Baronesse wegen hier. Mithin, lieber Alter …«
 
 »… mithin ist Martha Drews gleichfalls eingeweiht,«
 ergänzte ich ohne Zaudern.
@@ -1093,7 +1093,7 @@ Und jetzt, wo wir mit ihr allein waren, hatte sich ihr
 ganzes Verhalten wesentlich geändert. Mit nervöser Hast
 stellte sie Tassen, Kanne und Sahnennapf auf den Tisch,
 wagte nicht aufzublicken, wollte rasch wieder aus der Stube
-Hinaus.
+hinaus.
 
 Harald rief sie an …
 
@@ -1103,7 +1103,7 @@ Sie begann geradezu kläglich zu schluchzen …
 
 Murmelte: »Ich — ich will … ehrlich sein … Ich
 … habe … Ihren Koffer dort aufgemacht … Und … und
-Da ich mit dem Willi Klemens heimlich verlobt bin, wovon
+da ich mit dem Willi Klemens heimlich verlobt bin, wovon
 auch Vater noch nichts weiß, wollte ich Willi warnen, weil
 er vorhin mir gegenüber zugegeben hat, daß er mit der Baronesse
 zusammen … schmuggelt … Und da bin ich eben nach
@@ -1397,7 +1397,7 @@ John Reiter setzte sich zu uns, nachdem ich ihm die
 Handfesseln abgenommen hatte, die auch bei ihm nur ganz
 lose zugezogen waren. Harst hatte wieder sein Feuerzeug für
 kurze Zeit aufleuchten lassen, und bei diesem spärlichen Licht
-hatte sich Zwischen Reiter und uns eine Erkennungsszene abgespielt,
+hatte sich zwischen Reiter und uns eine Erkennungsszene abgespielt,
 die insofern der Komik nicht entbehrte, als der bekannte
 Kriminalassistent sein maßloses Erstaunen, gerade uns
 beide hier vorzufinden, in Worte kleidete, die für uns nicht
@@ -1663,7 +1663,7 @@ Schemel empor …
 
 Harald schüttelte den Kopf …
 
-»weshalb, mein Alter?! — Da du nun schon aufgestanden
+»Weshalb, mein Alter?! — Da du nun schon aufgestanden
 bist, reiche mir auch meine Pistole und meine Taschenlampe
 … Dort links auf dem Schemel liegt ja ein ganzes
 Waffenarsenal …«
@@ -2085,11 +2085,11 @@ Das Deck war leer …
 
 <@pagebreak/>
 Aber unten in der Kajüte, deren Treppe matt erleuchtet
-War, hörten wir sprechen.
+war, hörten wir sprechen.
 
 Nachdem wir unseren Gefangenen (es war tatsächlich einer
 von Arnstörs Verbündeten) so an die Steuerbank gebunden
-Hatten, daß er uns nicht weiter stören konnte, — nachdem
+hatten, daß er uns nicht weiter stören konnte, — nachdem
 er auch noch einen Knebel in den Mund bekommen hatte,
 was er gleichfalls ohne Widerstand sich gefallen ließ, wo
 eben der Schreck über den unerwarteten Angriff ihn völlig
@@ -2105,7 +2105,7 @@ Hin und wieder ein lauter Fluch …
 Dann ein höhnisches Gelächter …
 
 Kein Zweifel: Arnstör und sein anderer Freund hatten
-Dort eine harte Auseinandersetzung mit den beiden Leuten, die
+dort eine harte Auseinandersetzung mit den beiden Leuten, die
 ihnen vorhin den Zutritt zum Schoner verwehrt hatten!
 
 Leider war jedoch von der Unterredung kein Wort zu
@@ -2404,7 +2404,7 @@ Verhalten erschien mir reichlich widerspruchsvoll … Aber
 Harst mußte ja wohl seine Gründe dafür haben, diese Herren
 so zart mit Handschuhen anzufassen …
 
-Kaum hatten sie So ihre Bewegungsfreiheit wiedergewonnen,
+Kaum hatten sie so ihre Bewegungsfreiheit wiedergewonnen,
 als der junge Graf Baginski Harald auch schon die
 Rechte hinstreckte und feierlich erklärte: »Meinen Dank und
 … auf ehrliche Kameradschaft fernerhin, Herr Harst …« —
