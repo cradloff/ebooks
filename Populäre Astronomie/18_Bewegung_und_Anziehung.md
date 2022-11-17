@@ -248,7 +248,7 @@ ist.
 Die zweite Eigenschaft der Massenanziehung ist, daß sie in demselben
 Verhältnisse *zunimmt*, in welchem die *Quadrate der Entfernungen abnehmen*. Die
 von derselben Masse in einer dreifachen Entfernung hervorgebrachte
-Beschleunigung ist nur <@pa.bruch z=1 n=9/> der früheren. Ein in einer dreifachen Entfernung
+Beschleunigung ist nur ⅑ der früheren. Ein in einer dreifachen Entfernung
 befindlicher Körper muß daher neun mal so groß sein als früher, wenn er
 dieselbe Beschleunigung hervorbringen soll. Aus dieser Ursache entspringen die
 Erscheinungen der Ebbe und Fluth <@pa.seite 207/>. Wenn z.B. der Mittelpunkt der Erde
@@ -913,5 +913,5 @@ Schwere eines Körpers im Mittelpunkt der Erde, wie
 sehr auch die Dichte nach Innen zunehme, dennoch
 = 0 sein müsse, da er von allen Seiten gleich stark
 angezogen wird. Auch ist unser, so leicht zu beweisender
-Satz schon von Newton, <strong>Principia, L. 1 Prop.
-73</strong>, angeführt.</@footnote>
+Satz schon von Newton, <em>Principia, L. 1 Prop.
+73</em>, angeführt.</@footnote>

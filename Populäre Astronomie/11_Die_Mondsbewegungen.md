@@ -144,7 +144,7 @@ Quadraturen beobachtete.
 
 Die verschiedenen Entfernungen der Erde von der Sonne bringt die *jährliche
 Gleichung* hervor. Wenn die Anziehung der Sonne auf den Mond nicht der Erde
-entgegenwirkte, so würde die Mondsbahn um 1/368 enger, der Mond also der Erde
+entgegenwirkte, so würde die Mondsbahn um <@pa.bruch z="1" n="368"/> enger, der Mond also der Erde
 näher sein. Diese Größe wird um die Sonnennähe der Erde, also Ende Decembers
 zunehmen, um die Sonnenferne abnehmen, und ihren größten Werth in der mittleren
 Entfernung der Erde, die auf das Perihelium folgt, also Ende März haben; die
@@ -457,7 +457,7 @@ jedoch ereignen sie sich unter günstigen Umständen, selbst wenn der Mond noch
 müssen sie eintreten. Sie haben also ein weit ausgedehnteres Gebiet, als die
 Mondfinsternisse; auch finden sie schon statt, wenn die Breite des Mondes nicht
 über 1° 34’ beträgt (= Parall. des Mondes + ½ Durchmesser des Mondes —
-Parall. der Sonne + ½ Durchmesser der Sonne. Vergl. <@pa.seite 201/> Anm.). Man nennt
+Parall. der Sonne + ½ Durchmesser der Sonne. Vergl. <@pa.seite0 201/> Anm.). Man nennt
 die geocentrische Entfernung des Mondes von der Sonne oder dessen Breite zu der
 Zeit, wann die partiale, totale oder ringförmige Finsterniß an einem gewissen
 Orte beginnt, den *Halbmesser der partialen, totalen oder ringförmigen
@@ -491,7 +491,7 @@ Finsternisse, im Durchschnitt sind ihrer vier.
 Man kann fast dem Volke verzeihen, daß es über die plötzliche Finsterniß am
 hellen Tage erschrickt. Bis auf ¼ ihrer Scheibe kann die Sonne verdunkelt
 werden, ohne daß eine Abnahme des Tageslichts merkbar wird, wenn aber nur noch
-1/12 unbedeckt ist, fängt es an dunkel zu werden: die Thiere eilen in ihre
+<@pa.bruch z="1" n="12"/> unbedeckt ist, fängt es an dunkel zu werden: die Thiere eilen in ihre
 Höhlen, die Vögel fliegen in ihre Nester, alles Lebendige in der Natur begibt
 sich zur Ruhe, oder verräth durch ängstliches Geschrei seine Furcht; aber die
 rohen Völker der alten und neuen Zeit, alten und neuen Welt, suchen theils
@@ -526,6 +526,6 @@ entgegengesetzten Punkte dienen konnte.</div>
 
 <div class="footnote" id="fn2"><a href="#rn2">*)</a> Die unbedeutende Parall.
 der Sonne ist nur der Gleichförmigkeit willen nicht weggelassen; wegen des
-Beweises s. <@pa.seite 176/></div>
+Beweises s. <@pa.seite0 176/></div>
 
 

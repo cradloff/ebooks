@@ -405,7 +405,7 @@ zwischen der Sonne und der Erde durchgehen und er
 uns unsichtbar sein. Zwar ist der von der Sonne erleuchtete
 Rand des Ringes uns immer zugekehrt
 allein die so äußerst geringe Dicke desselben, etwa
-<@pa.bruch z=1 n=9/> Sek., reicht nicht hin ihn uns sichtbar zu machen.
+⅑ Sek., reicht nicht hin ihn uns sichtbar zu machen.
 Nur ein Fernrohr, wie Herschel es besaß, vermochte
 es, und dann zeigte er sich als ein äußerst zarter
 Silberfaden, woran die viel breitern Trabanten wie
