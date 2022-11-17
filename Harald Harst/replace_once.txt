@@ -4,6 +4,8 @@
 !1	!!
 …1	…!
 1!	!!
+t!	!!
+2!	?!
 \b309\b	zog
 \bAch\b	Ich
 \bAhnen\b	Ihnen
