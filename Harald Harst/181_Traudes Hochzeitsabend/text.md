@@ -1,26 +1,6 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
-<@pagebreak/>
-Harald Durst
-Aus meinem Leben
-
-Band: 181
-
-Traudes Hochzeitsabend.
-
-Erzählt von
-Max Genau
-
-… arg Zugleinen Schläfe G. 1a. b. H.
-»’ Berlin GO16, Michaelkirihstraße so …
-<@pagebreak/>
-Nacht verboten. — Alle Rechte, Flucht das Verfilmungsrecht,
-vorbehalten. — Copyright 19, by Verlag Fiebernest
-Lektüre G. in. b. H., Berlin
-
-Druck: Ab. Lehmann, G. in. b. H., Berlin.
-
-<@pagebreak/>
+<h1>Traudes Hochzeitsabend.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Die Glücksnuß.</h3>
@@ -32,37 +12,37 @@ Wir hatten als Detektive absolut nichts zu tun. Die
 allgemeine Geschäftsflaute und Geldknappheit wirkte auch
 auf unser »Handwerk« zurück. Wenn wir nicht unseren
 Garten gehabt hätten, der mit zu dem alten Harstschen Familiengrundstück
-in SchmargendorsBerlin, Blücherstraße, gehört,
+in Schmargendorf-Berlin, Blücherstraße, gehört,
 wären wir vor langer Weile umgekommen, denn zum
-Verreisen hatten wir keine Luft, zumal Haralds Mutter etwas
+Verreisen hatten wir keine Lust, zumal Haralds Mutter etwas
 kränkelte. —
 
-Während ich diese einleitenden Säße zu Traudes Hochzeitsabend
+Während ich diese einleitenden Sätze zu Traudes Hochzeitsabend
 niederschreibe, liegen meine Notizen und noch
-e!lang neben mir — etwas sehr Merkwürdiges und doch auch
-sehr Alltägliches: Eine Kokosnuß, — das beißt zwei. Hohes
-Nußschalen, in der Mitte durchgesägt.
+etwas neben mir — etwas sehr Merkwürdiges und doch auch
+sehr Alltägliches: Eine Kokosnuß, — das heißt zwei Kokosnußschalen,
+in der Mitte durchgesägt.
 
-» Diese Nuß war einst unversehrt, trug auch noch Ihre
-dicke Basthülle See erst …
+Diese Nuß war einst unversehrt, trug auch noch Ihre
+dicke Basthülle …
 
 <@pagebreak/>
 Und diese Nuß fand ich am Vormittag des 15. Juli mit
-einem Einsahen an einen Ast unseres schönsten Birubamums
+einem Bindfaden an einen Ast unseres schönsten Birnbaums
 angebunden.
 
-(Ganz zufällig entdeckte ich sie …
+Ganz zufällig entdeckte ich sie …
 
 Starrte empor zu der bräunlichen Kugel und rief dann
-Harald herbei, der fünf Schritt weiter Radieschen täte …
+Harald herbei, der fünf Schritt weiter Radieschen säte …
 
-»Harald, Kamin do&4 mal her «…- Hier im Birnbaum
+»Harald, komm doch mal her … Hier im Birnbaum
 hängt eine Kokosnuß …«
 
-Er schaute auf ;…
+Er schaute auf …
 
 »Du bist verrückt,« entfuhr es ihm … »Wenn du nicht
-bessere Witze machen kannst, [9 …« …
+bessere Witze machen kannst, so …«
 
 Und schwieg …
 
@@ -70,99 +50,99 @@ Er hatte nun die braune Kugel ebenfalls gesehen …
 
 Sprang elastisch auf …
 
-»Entschuldige, mein Alter … Ich bin verrückt, nicht da,
-— verrät vor schlechter Laune …! — Entschuldige — und
-bleibe stehen … Wir müssen mal die Umgebung des Birne
-Baumes genau mustern. Gestern abend hing die Nuß verträumt
+»Entschuldige, mein Alter … Ich bin verrückt, nicht du,
+— verrückt vor schlechter Laune …! — Entschuldige — und
+bleibe stehen … Wir müssen mal die Umgebung des Birnbaumes
+genau mustern. Gestern abend hing die Nuß bestimmt
 noch nicht dort oben, denn als ich die vom Winde
-herabgewehten halbreifen Birnen nach dem Abendbrot aufs
-sammelte, hätte ich das Ding bemerken müssen. Also hat
-man sie nachts dort festgebunden … — Aha, hier sind Ausstopfen
+herabgewehten halbreifen Birnen nach dem Abendbrot aufsammelte,
+hätte ich das Ding bemerken müssen. Also hat
+man sie nachts dort festgebunden … — Aha, hier sind Fußstapfen
 in dem Mohrrübenbeet … Hm — seltsam … Was
-haust du von den Frauen?’
+hälst du von den Spuren?«
 
-»Ein Weib … « erklärte ich. »Zierliche Schuh? mit
-hohen Absätzen … Ein Ellbogen, kein Fuß …«
+»Ein Weib … « erklärte ich. »Zierliche Schuhe mit
+hohen Absätzen … Ein Füßchen, kein Fuß …«
 
-»Ja — und ein zierliches, Gesicht;richtiges Persönchen dazu.
-Die Konnten sind flach. Die Drama kann kaum 110 Witz
-wiegen. — Sehen wir, tot? ein den stark gefärbten Bienbaurz
-erklettert hat …
+»Ja — und ein zierliches, geschmeidiges Persönchen dazu.
+Die Spuren sind flach. Die Donna kann kaum 110 Pfund
+wiegen. — Sehen wir, wie sie den stark gekalkten Birnbaum
+erklettert hat …«
 
-Loch einigen Minuten meinte er: 	—.
+Nach einigen Minuten meinte er:
 
-»Die Tag oder das Mädchen muß Akrobatin von Beruf
-sein … Hätte, hier Bai sie sich in die Höhe geschnellt, hat
-den untersten Ist ergriffen. und sich mit Stimmt na richtete
-geschwungen … Das bringt nur ein trainierte? Bösere?
+»Die Frau oder das Mädchen muß Akrobatin von Beruf
+sein … Bitte, hier hat sie sich in die Höhe geschnellt, hat
+den untersten Ast ergriffen und sich mit Klimmzug
+emporgeschwungen … Das bringt nur ein trainierter Körper
 <@pagebreak/>
-fertig … — Nun hole mal eine Leiter, mein Lief, Wir
+fertig … — Nun hole mal eine Leiter, mein Alter. Wir
 wollen uns die Sache bequemer machen.«
 
-Dann hakte er die Bekommt in den Linken und trug sie
-in sein Arbeitszimmer, wo er im meiner Gegenwart die
-matt glänzende Haut der Basthülle sogar mit einem Berg
-größerungsglase musterte,
+Dann hatte er die Kokosnuß in den Händen und trug sie
+in sein Arbeitszimmer, wo er in meiner Gegenwart die
+matt glänzende Haut der Basthülle sogar mit einem
+Vergrößerungsglase musterte,
 
 Ich stand dicht neben ihm …
 
 »Begreifst du das?« fragte er … »Die Hülle ist absolut
-unverletzt … Nirgends etwas Aussah ize8 — nirgends …
+unverletzt … Nirgends etwas Auffälliges — nirgends …
 Sehr merkwürdig! Ich glaubte, in der Basthülle könnte in
-einer Spalte ein Zettel stellen … Nichts davon!«
+einer Spalte ein Zettel stecken … Nichts davon!«
 
-Er schaltete den Kopf …
+Er schüttelte den Kopf …
 
-Er war ist’s wie ausgewechselt … Seine üble Laune Vers
-flogen. Er witterte ein Problem, und das genügte ihm, die
-alte geistige und körperliche Spannkraft wiederzugewirnren,
+Er war jetzt wie ausgewechselt … Seine üble Laune verflogen.
+Er witterte ein Problem, und das genügte ihm, die
+alte geistige und körperliche Spannkraft wiederzugewinnen,
 
-»Hm … komisch!« murmelte er wieder. »Zwecklos wir! die
+»Hm … komisch!« murmelte er wieder. »Zwecklos wird die
 Frau die Nuß nicht in dem Birnbaum festgeknüpft haben! —
 Was bedeutet dies also?«
 
-»Wollen vorsichtig sein, riet ich. »Man kann nicht
-wissen, ob nicht vielleicht …’
+»Wollen vorsichtig sein,« riet ich. »Man kann nicht
+wissen, ob nicht vielleicht …«
 
-Sprengmaise darin ist?! Attentat?! — YAu&qoea
-schlossen! Diese Hülle ist unverletzt, nicht etwa wieder Harsts
-voll zusammengefügt und festgeklebt … Nur etwas ist möglich:
-daß auf der braunen maulfaulen Außenhaut etwas
+»… Sprengmasse darin ist?! Attentat?! — Ausgeschlossen!
+Diese Hülle ist unverletzt, nicht etwa wieder kunstvoll
+zusammengefügt und festgeklebt … Nur etwas ist möglich:
+daß auf der braunen mattblanken Außenhaut etwas
 mit Geheimtinte geschrieben ist. Versuchen wir, ob dies
 stimmt …«
 
-Es gibt zahlreiche. Verfahren, unsichtbar gewordene Ah ist
-bieder sichtbar zu machen,
+Es gibt zahlreiche Verfahren, unsichtbar gewordene Schrift
+wieder sichtbar zu machen,
 
-Harst erwärmt?s die Nuß vor unserer elektrischen Sonne —
-John? Sich).
+Harst erwärmte die Nuß vor unserer elektrischen Sonne —
+ohne Erfolg.
 
-Dampf begann e« die Behandlung mit Gauner — mit
-versonnen Überpinseln.
+Dampf begann er die Behandlung mit Säuren — mit
+vorsichtigem Überpinseln.
 
-Hieb: da: schon … Nlaunlöfung brachte Schriftzüge in
+Siehe da: schon Alaunlösung brachte Schriftzüge in
 Hellblau zum Vorschein!
 
 Wir entzifferten folgendes:
 
 <@pagebreak/>
 Herr Harst, Sie werden im Kern dieser Nuß das
-Honorar für Ihre von mir erbetenen Bemühungen finden,
-— Es handelt sich; um folgendes: Am 15. April dieses
+Honorar für Ihre von mir erbetenen Bemühungen finden.
+— Es handelt sich um folgendes: Am 15. April dieses
 Jahres verschwand aus dem Wanderzirkus Torelli, der damals
 in dem kleinen nördlichen Orte Grünheide gastierte,
-der Jongleur und Auftreten Gerhard Seiner, genannt
-Signor Muskeln. Die Nachforschungen der. Polizei blieben
-erfolglos. Man fand lediglich am Piraten des Versteck, an
-dem Grünheide lies!, seinen Alltagranzug und seine Leibwache.
-Standen ist es ausgeschlossen, daß er etwa ein
+der Jongleur und Kunstreiter Gerhard Berner, genannt
+Signor Mailoka. Die Nachforschungen der Polizei blieben
+erfolglos. Man fand lediglich am Ostufer des Werlsees, an
+dem Grünheide liegt, seinen Alltagsanzug und seine Leibwäsche.
+Trotzdem ist es ausgeschlossen, daß er etwa ein
 Freibad genommen hat und dabei ertrunken ist. Seine
 Leiche hätte doch gefunden werden müssen. — Ich habe
 ein Interesse daran, diese Angelegenheit aufzuklären. Da
-mit die Mittel fehlen, ein anderes Honorar zu bieten,
+mir die Mittel fehlen, ein anderes Honorar zu bieten,
 habe ich Ihnen diese Nuß zukommen lassen, die eine besondere
 Rarität darstellt. Schneiden Sie den harten Kern
-mit einer Säge aus, und Sie werden in der Kokosmilch
+mit einer Säge auf, und Sie werden in der Kokosmilch
 das entdecken, was Sie reichlich bezahlt. Geben Sie mir
 bitte, sobald Sie etwas festgestellt haben, postlagernd unter
 E. S. 1000 nach dem Postamt W 72 (im Kammergericht
@@ -171,58 +151,58 @@ mit Ihren Nachforschungen sofort zu beginnen, denn Leben
 und Tod eines Menschen hängt von dem Erfolg Ihrer
 Bemühungen ab. Meinen Namen kann ich nicht nennen.
 Bitte suchen Sie auch nicht zu ergründen, wer ich bin.
-Ich möchte Sie auch von warnen, denn ich fürchte, Gerhard
-Berner ist heimtückisch; beleidigst worden von einem
-Mengen, der über Leihen geht, um sein schamlose8 Ziel zu
+Ich möchte Sie auch noch warnen, denn ich fürchte, Gerhard
+Berner ist heimtückisch beseitigt worden von einem
+Menschen, der über Leichen geht, um sein schamloses Ziel zu
 erreichen. Vielleicht rechnet dieser Mann damit, daß Sie
-erstaunt Ihr Freund sich mit dem Verschwinden des Jongleurs
-einmal besaßen könnten. Merkt er. daß Sie hinter ihm
+und Ihr Freund sich mit dem Verschwinden des Jongleurs
+einmal befassen könnten. Merkt er, daß Sie hinter ihm
 her sind, wird er auch Mittel und Wege finden, Sie beide
-stumm zu machen. Jahren Sie auf keinen Tal! als Harst
+stumm zu machen. Fahren Sie auf keinen Fall als Harst
 und Schraut nach Grünheide und … beachten Sie den
-Sturm in der Waldstraße.«
+Turm in der Waldstraße.«
 
 <@pagebreak/>
-»am — allerhand!!« meinte Harald, als er nun die
-Aufschrift »ist dem Stück Papier übertrug. »Bitte mein
+»Hm — allerhand!!« meinte Harald, als er nun die
+Aufschrift auf dem Stück Papier übertrug. »Bitte mein
 Alter, hole Handwerkszeug … Wir werden die Nuß öffnen
-und — einen &deliltein finden.«
+und — einen Edelstein finden.«
 
-»Ekels:eine!« Ich glaubte mich verhört zu haben
+»Edelstein?!« Ich glaubte mich verhört zu haben …
 
-»Gewiß — Edelstein! Du bist doch) oft genug auf Ceylon
-gewesen, und doch scheint wir der Aberglaube der dortigen
+»Gewiß — Edelstein! Du bist doch oft genug auf Ceylon
+gewesen, und doch scheint dir der Aberglaube der dortigen
 Singhalesen, daß eine Kokosnuß mit Edelstein Glück bringe
-und Klarstellen feenhafte, unbekannt zu sein.«
+und Krankheiten fernhalte, unbekannt zu sein.«
 
 »Ich bitte dich — jetzt machst du Witze!! Wie kann ein
 Edelstein in eine fest geschlossene Kokosnuß hineingelangen?!
 Unmöglich!«
 
-»Schnell fertig ist die Jugend mit dem Wort, -Max
+»Schnell fertig ist die Jugend mit dem Wort, Max
 Schraut, — zuweilen auch das Alter! — Die Singhalesen
 bohren in unreife Früchte ein kleines Loch, schieben den
-Edelstein hinein, Mensch;antreten das Loch mit Harz, die Frucht
+Edelstein hinein, verschmieren das Loch mit Harz, die Frucht
 wächst weiter, das Loch schließt sich und — — die Rarität
-Ut fertig!«
+ist fertig!«
 
 Ich sagte gar nichts mehr, holte ein Beil und eine Säge
-und … fünf Minuten drauf lag ii meiner Handfläche ein
-Diamant von der Größe einer kleinen Haselnuß, von Vaters
-losem E4liff und wunderbarer Feinheit, (Wert mindestens
+und … fünf Minuten drauf lag in meiner Handfläche ein
+Diamant von der Größe einer kleinen Haselnuß, von tadellosem
+Schliff und wunderbarer Feinheit, Wert mindestens
 20&nbsp;000 Mark!
 
-»Unglaublich!« meinte ja) nur …
+»Unglaublich!« meinte ich nur …
 
-Harald Kiste … »Zum ersten »Male sehe ich nun einen
-Tiefer Nußbiamanten … Wer weiß, wie die Unbekannte, die
+Harald nickte … »Zum ersten Male sehe ich nun einen
+dieser Nußdiamanten … Wer weiß, wie die Unbekannte, die
 für den Jongleur Interesse hat, zu dieser Rarität gekommen
-ist. Vielleicht hat sie sie … gesetzten, um uns zu bezahlen,
-— — nicht ausgeschlossen, denn sie Beton! ja, das sie arm sei.«
+ist. Vielleicht hat sie sie … gestohlen, um uns zu bezahlen,
+— — nicht ausgeschlossen, denn sie betont ja, das sie arm sei.«
 
-Dann schloß er den Edelstein »und die Teile der Nuß in
-den Tresor ein, während ich in? eilten Dessen die auf den
-Teppich gefallenen Fasern des Nasses zusammenfegte.
+Dann schloß er den Edelstein und die Teile der Nuß in
+den Tresor ein, während ich mit einem Besen die auf den
+Teppich gefallenen Fasern des Bastes zusammenfegte.
 
 Kaum hatte ich die Fasern weggeschafft, als es an der
 Vordertür läutete.
@@ -230,158 +210,155 @@ Vordertür läutete.
 Harst spähte durch die Gardinen …
 
 <@pagebreak/>
-Draußen stand ein [seiner, scchwarzbäurtiger Kerl, der eine
-Art Zögerkostüm trug …
+Draußen stand ein kleiner, schwarzbärtiger Kerl, der eine
+Art Jägerkostüm trug …
 
 Harald flüsterte:
 
-»Wenn das kein Zirkugonkcl ist, bin ich riecht Harst! —
-Ich werde verschwinden, mein Alter »… Empfange du den
+»Wenn das kein Zirkusonkel ist, bin ich nicht Harst! —
+Ich werde verschwinden, mein Alter … Empfange du den
 Menschen allein …«
 
-Und gegen betrat er sein Schlafzimmer und zog die Für
-zu —
+Und schon betrat er sein Schlafzimmer und zog die Tür
+zu … —
 
-So begann eins der seltsamsten Probleme, die wir, je
-gehört habe!
-
-Cm ich« kommt 7 van mit
+So begann eins der seltsamsten Probleme, die wir je
+gelöst haben
 
 <h2>2. Kapitel.</h2>
-<h3>Der Bestohlene,«.</h3>
+<h3>Der Bestohlene.</h3>
 
-»Zaune Torelli, Zirkusdirektor,« flehte sich der Schwarze
-bärtige mit einem altmodischen Mancegenfrakfuitz mir vor.
+»Ignaz Torelli, Zirkusdirektor,« stellte sich der Schwarzbärtige
+mit einem altmodischen Manegenkratzfuß mir vor.
 
-»War Schraut.« nannte iI) meinen Namen und fügte
+»Max Schraut.« nannte ich meinen Namen und fügte
 sofort hinzu, da Herr Torelli sich suchend im Herrenzimimer
-umschaute und offenbar.« Harsts Abwesenheit peinlich
-empfand …? »Mein Freund Harsts ist leider stark erkältet
-und hat sich zu Bett setzen müssen.«
+umschaute und offenbar Harsts Abwesenheit peinlich
+empfand …! »Mein Freund Harsts ist leider stark erkältet
+und hat sich zu Bett legen müssen.«
 
-Der Zi«fus8t-ineltor, dem vor der Seite eine die, goldene
-Uhrkette und daran ein Klumpen Ehepaare Gauner e, die
-zu dem Jazdfestivin na ten und trotzdem … unglaubliä) geschmadu
-los vierten, Reis? die Augen halb zu und schaute mich) gradezu
-hinterlistig an
+Der Zirkusdirektor, dem vor der Seite eine dicke, goldene
+Uhrkette und daran ein Klumpen Eberzähne baumelte, die
+zu dem Jagdkostüm paßten und trotzdem unglaublich geschmacklos
+wirkten, kniff die Augen halb zu und schaute mich geradezu
+hinterlistig an …
 
-»Vorhin war Herr Harst doch noch im Garten,« platte
-er dumimerwoife heraus und gab sich dadurch eine Bis«:e,
-die er selbst durch die vielleicht folgende Bemerkung nicht weit«-
-Nachen kannte, daß er ein als drei Suchte nach unserem
+»Vorhin war Herr Harst doch noch im Garten,« platzte
+er dummerweise heraus und gab sich dadurch eine Blöße,
+die er selbst durch die vielleicht folgende Bemerkung nicht wettmachen
+konnte, daß er sich auf der Suche nach unserem
 <@pagebreak/>
-Hause verirrt habe und in das Laubengelände hinter unserera
+Hause verirrt habe und in das Laubengelände hinter unserem
 Gemüsegarten gelangt sei …
 
-Ich tat, als ob ich alldem keinerlei Bedeutung beinahe
-und sagte zu) seinen Unsicher
+Ich tat, als ob ich alldem keinerlei Bedeutung beimäße
+und fragte nach seinen Wünschen …
 
 Er saß mir im Klubsessel gegenüber, und die Tageshelle
-zeigte mir alle Einzelheiten seines bärtigen, schwammigzen
-Je rechts, — die Hautfarbe unter den verdächtig wäzjeuizien
-Augen, und die dicken, über der Nasenwurzel seit zu rammen?-
-gewachsenen Brauen.
+zeigte mir alle Einzelheiten seines bärtigen, schwammigen
+Gesichts, — die Hautfarbe unter den verdächtig wässerigen
+Augen, und die dicken, über der Nasenwurzel fest zusammengewachsenen
+Brauen.
 
-Torelli Sprache hatte den harten Zeitung eines Aus
-(anders. Er war meiner Brahma nach?’ngatr, was im
-nachher auch bestätigte.«.
+Torellis Sprache hatte den harten Beiklang eines Ausländers.
+Er war meiner Schätzung nach Ungar, was sich
+nachher auch bestätigte.
 
 »Hm — mich führt etwas recht Eigenartiges zu Ihnen,«
-begann er nach einigen Zögern. »Wie ich) schon erwähnte,
-Detektivin ich Zirkusdirektor … Meine Truppe tritt zur Zeit in
-der Obststadt Werder auf. Wenn mein Hitze:1u,is34e3 Anders
-nehmen auch klein ist, so verfüge ich doch über gutes Pjerde-matetial
+begann er nach einigen Zögern. »Wie ich schon erwähnte,
+bin ich Zirkusdirektor … Meine Truppe tritt zur Zeit in
+der Obststadt Werder auf. Wenn mein zirzensisches Unternehmen
+auch klein ist, so verfüge ich doch über gutes Pferdematerial
 und …«
 
 »Ist Ihnen ein Pferd gestohlen worden?« suchte ich seinen
-Zeit abzukürzen, den ich ahnte bereits, daß er wegen der
-Haselnuß käme
+Bericht abzukürzen, den ich ahnte bereits, daß er wegen der
+Kokosnuß käme …
 
-»Rest, Herr Schraut, kein Pferd … Etwas Wertvolleres
-… eine Gelegter! … — Ich war noch vor drei Jahren,
-bevor ich den Zirkus kaufte, Aufseher auf einer Tcecplattiage
+»Nein, Herr Schraut, kein Pferd … Etwas Wertvolleres
+… eine Seltenheit … — Ich war noch vor drei Jahren,
+bevor ich den Zirkus kaufte, Aufseher auf einer Teeplantage
 auf Ceylon …«
 
-»80 — da sind Sie ja ein weitgereister Mann …«
+»Ah — da sind Sie ja ein weitgereister Mann …«
 
-»Allerdings … 3ch4 kenne so ziemlich die ganze Welt …
-Ah habe viel erlebt … Wir macht man so leicht nichts vor.«
+»Allerdings … Ich kenne so ziemlich die ganze Welt …
+Ich habe viel erlebt … Mir macht man so leicht nichts vor.«
 
-Das letzte lang beinahe wie eine Drohung,
+Das letzte klang beinahe wie eine Drohung,
 
-Sollte Torelli etwa beobachtet haben, wie wir die Besorge
-Nuß vom Ei:privatim herunterholten?!
+Sollte Torelli etwa beobachtet haben, wie wir die Kokosnuß
+vom Birnbaum herunterholten?!
 
 »Nein — mir macht man nichts vor!« wiederholte er noch
-drohender, »Irgendein Schuft hat mir einen kostbaren Stelle
-Stein gestohlen, den ich von Ceylon mitgebracht? hatte …
-— Ich weiß nicht, Herr Schraut, ob Sie eine Bahn Hole
+drohender. »Irgendein Schuft hat mir einen kostbaren Edelstein
+gestohlen, den ich von Ceylon mitgebracht hatte …
+— Ich weiß nicht, Herr Schraut, ob Sie eine Bara Koko
 kennen?«
 
 <@pagebreak/>
-»Burg Ecke?! — Bedauere. Was ist das?«
+»Bara Koko?! — Bedauere. Was ist das?«
 
 Und nun erzählte er mir genau dasselbe, was ich bereits
-von Harald über die Glüsnüsse gehört hatte …
+von Harald über die Glücksnüsse gehört hatte …
 
-»Seit gestern abend vermisse sind meine Nuß,« fügte er
+»Seit gestern abend vermisse ich meine Nuß,« fügte er
 Dann hinzu und schlug mit der mächtigen Faust auf das
-Seidenpolster des Sessels … »In meinem Wohnwagen (lag
+Seidenpolster des Sessels … »In meinem Wohnwagen lag
 sie — in einem festen Wandschrank … Gestern kurz vor
-»Beginn der Abevwdvorsteilung fand ich den Schrank ehe
-gebrochen … Die Bahn Ecke war verschwunden, Fünftausend
-Mark, Herr Staunt, wenn Sie mir die Nuß zur üäver Fast 1.
+Beginn der Abendvorstellung fand ich den Schrank erbrochen
+… Die Bara Koko war verschwunden. Fünftausend
+Mark, Herr Schraut, wenn Sie mir die Nuß zurückverschaffen.«
 
-Mrs: ie Annahme, er könnte wissen, daß wir die Nuß jetzt
-Zeigten, hier da) irrig zu sein … Das merkte ich seinem
-Verboten um …
+Meine Annahme, er könnte wissen, daß wir die Nuß jetzt
+besäßen, schien jedoch irrig zu sein … Das merkte ich seinem
+Verhalten an …
 
 Ich hat, als überlegte ich …
 
-Er beobachtete mich.) ge! spannt, .-«. »Sie l«:Omen den Auf! Kg
+Er beobachtete mich gespannt … »Sie lehnen den Auftrag
 doch nicht ab, Herr Schraut?« fragte er ängstlich …
 
 »Nein … — Haben Sie die Polizei schon verständigt«
 
-»Ah bat — — lachte sie — — Besitzer!l! Was Je
-Füllten auszeichnen!! — Nein, werde mich hüten, unfähige
-
-Zöpfe zu Zumuten …!’
+»Ah bah — — lächerlich -- — — Polizei!! Was die
+schon ausrichten!! — Nein, werde mich hüten, unfähige
+Köpfe zu bemühen …!«
 
 »Sehr schmeichelhaft, Herr Torelli … Dann halten Sie
-Harst und mich also für Nötige Köpfe. Aber auch wir können
+Harst und mich also für fähige Köpfe. Aber auch wir können
 versagen … — Haben Sie gegen jemand Verdacht?«
 
 »Nein — leider nein! Von der Existenz der Nuß wissen
 nur meine Familienmitglieder etwas, — meine Frau, meine
-Tochter Gertrud und mein Sohn Famos … Und diese drei
-kommen nicht! in Betracht …«
+Tochter Gertrud und mein Sohn Janos … Und diese drei
+kommen nicht in Betracht …«
 
-»Kann nicht jemand ’ zufällig von dem Vorhandensein
-der Burg Ecke erfahren haben? Oder … könnten nicht
+»Kann nicht jemand zufällig von dem Vorhandensein
+der Bara Koko erfahren haben? Oder … könnten nicht
 Ihre Frau oder eins Ihrer Kinder mal eine Bemerkung
-darüber qc macht haben, die ein Unberufener mit anhörte?«
+darüber gemacht haben, die ein Unberufener mit anhörte?«
 
-»Unmöglich, Herr Schraut, ganz unmögliz) …« Über
+»Unmöglich, Herr Schraut, ganz unmöglich …« Aber
 diese Worte klangen doch etwas unsicher und zaudernd …
 
-»Gaben Sie vielleicht,« warf ich mein Ne! jetzt aus,
-e« «. Vielleicht in letzter Zeit jemand von Ihrer Truppe entlassen?
+»Haben Sie vielleicht,« warf ich mein Netz jetzt aus,
+»… vielleicht in letzter Zeit jemand von Ihrer Truppe entlassen?
 <@pagebreak/>
-Hat Ihr Personal gewechselt? Ost jemand von Ihren
+Hat Ihr Personal gewechselt? Ist jemand von Ihren
 Leuten auf und davon gegangen?«
 
 Meine Sätze waren genau überlegt. Ich wollte feststellen,
 ob er Gerhard Berner erwähnen würde. Für mich war es
-bereits sicher, daß die Kokosnuß von Gertrud Torelli erst
-wendet worden war, und daß das junge Mädchen zu dem
+bereits sicher, daß die Kokosnuß von Gertrud Torelli entwendet
+worden war, und daß das junge Mädchen zu dem
 Jongleur zarte Beziehungen unterhalten hatte.
 
 Meine Fragen schienen dem Herrn Direktor denn auch
 recht wenig zu passen …
 
-Er strich sich den Bart, klimperte mit den Schwcin&3ähnen
-an seiner Uhrkette und rutschte »uf dem Sessel hin und her,
+Er strich sich den Bart, klimperte mit den Schweinszähnen
+an seiner Uhrkette und rutschte auf dem Sessel hin und her,
 als ob er plötzlich auf Stecknadeln säße …
 
 Schließlich bequemte er sich doch zu einer Antwort …
@@ -389,125 +366,124 @@ Schließlich bequemte er sich doch zu einer Antwort …
 »Es … es ist da im April ein Jongleur meiner
 Gruppe verschwunden, Herr Schraut, ein gewisser Gerhard
 Berner … ein übler Bursche, der meiner Tochter dauernd
-nachstellte«…«
+nachstellte …«
 
 »So … so … — Kann nicht dieser Berner der Dieb
 sein?«
 
 »Nein — er ist doch verschwunden …!«
 
-»Dann aber wieder auftauchen, Herr Torelli … Oder
+»Kann aber wieder auftauchen, Herr Torelli … Oder
 glauben Sie, daß er tot ist?«
 
-Er senkte den Kopf … Das nervöse Sie! seiner »Jude
-wurde noch lebhafter … Seine Augen blieben halb sei
-schlossen …
+Er senkte den Kopf … Das nervöse Spiel seiner Hände
+wurde noch lebhafter … Seine Augen blieben halb geschlossen
+…
 
 »Er … er wird sich wohl ertränkt haben,« murmelte er
-undeutlich und mit schlichen Wi« streben
+undeutlich und mit schlichen Widerstreben …
 
-»Woraus schlichten Sie hierauf?« bohrte ich unbarmherzig
+»Woraus schließen Sie hierauf?« bohrte ich unbarmherzig
 weiter …
 
-»Na — seine Kleider l:gen doch am Ufer des Weiteres
-Und nackt kann Dach kein Men’h flüchten …«
+»Na — seine Kleider lagen doch am Ufer des Werlsees.
+Und nackt kann doch kein Mensch flüchten …«
 
-»B’l-rdir ach nicht … Meiner scheidet an aus. — Und
+»Allerdings nicht … Berner scheidet also aus. — Und
 — Sie verzeihen die Frage — einer Ihrer Angehörigen kann
-der Dich nicht sein?«
+der Dieb nicht sein?«
 
-»Nein! Mein Sohn Famos ist erst siedeln. un« meine
-Tochter und meine Frau — — weshalb sollten die mich des
+»Nein! Mein Sohn Janos ist erst siebzehn, und mein
+Tochter und meine Frau — — weshalb sollten die mich
 <@pagebreak/>
-stehlen?! — Ein Junge könnte ja vielleicht leichtsinnig sein
-und bummeln weißen, und daher …«
+bestehlen?! — Ein Junge könnte ja vielleicht leichtsinnig sein
+und bummeln wollen, und daher …«
 
-»Guten gut … — Haben Sie den Schrank und dessen
-Umgebung ganz so Pelz)gen, wie Sie ihn gestern abend elf
-Bergen ungesunden?«
+»Schon gut … — Haben Sie den Schrank und dessen
+Umgebung ganz so belassen, wie Sie ihn gestern abend erbrochen
+vorfanden?«
 
-»Gewiß … Ich habe den betreffenden Raum des Wohns-wagens
-aboc’chlosien …
+»Gewiß … Ich habe den betreffenden Raum des Wohnwagens
+abgeschlossen …
 
 »Dann bin ich bereit, Sie nach Werder zu begleiten und
-mir den Tatort anzusehen, Herr Torelli Vielleicht kann
+mir den Tatort anzusehen, Herr Torelli. Vielleicht kann
 mein Freund Harst uns nachmittags folgen, wenn er seine
-Schwitzkur beendet hat«…«
+Schwitzkur beendet hat …«
 
-Seltsam: Doch. ich wurde wiederum verlegen …
+Seltsam: Torelli wurde wiederum verlegen …
 
-Flusse — dunkle — — schlanke:
+Druckste — druckste — — schlanke:
 
 »Ich habe hier in Berlin noch mancherlei zu besorgen,
 Herr Schraut … Bitte fahren Sie allein hinaus … Hier
 ist der Schlüssel zu dem Raum des Wohnwagens … Für
-meine Trat gebe ich Ihnen meine Bijitenciarte mit …«
+meine Frau gebe ich Ihnen meine Visitenkarte mit …«
 
-Er händigte mir beides aus, erhob sich), verabschiedete
+Er händigte mir beides aus, erhob sich, verabschiedete
 sich und blieb trotzdem noch stehen, stierte zu Boden, hüstelte
-und sagte daran:
+und sagte dann:
 
-»Denken Sie sich aber nur an meine Frau, Herr Schraut
+»Wenden Sie sich aber nur an meine Frau, Herr Schraut
+… Meine Kinder wissen noch nichts von dem Diebstahl und
+sollen auch vorläufig davon nichts erfahren …«
 
-Kneipe Kinder wissen nachts nichts von dem Diebstahl und
-sollen auch rorläusi1 davon nichts erfahren …«
-
-Er drückte mir die Hand, letzte noch4 rechnet fünfhundert
-Mark als Honoraranzehlung auf den Tisch und Ein. Ich
-krächzte ihn bis in den Vorgarten, schau:;e ihm nach. Hastig
+Er drückte mir die Hand, legte noch schnell fünfhundert
+Mark als Honoraranzahlung auf den Tisch und ging. Ich
+brachte ihn bis in den Vorgarten, schaute ihm nach. Hastig
 schritt er davon, wiegenden Ganges, den mächtigen Schädel
 vorgestreckt … Jede seiner Bewegungen verriet Kraft und
 Gewandtheit trotz des massigen, plumpen Leibes …
 
 Und wie ich ihm so nachblickte, sah ich drüben auf der
-anderen Seite der Straße einen alten Blondbärtigen Betrat
-stehen
+anderen Seite der Straße einen alten Blondbärtigen Herrn
+stehen …
 
-Vor Herr mochte mir verstohlen ein Toten: Harst!
+Vor Herr machte mir verstohlen ein Zeichen: Harst!
 
-Da begriff ich: er wo’lie hinter Torelli drein!
+Da begriff ich: er wollte hinter Torelli drein!
 
-Beruht? Ob  ich was—  — wü und saß eine Stunde.
+Beruhigt ging ich ins Haus zurück und saß eine Stunde
 später im Vorortzuge nach Werder …
 
 <@pagebreak/>
 Das Abteil Zweiter war gerammelt voll. Ich mußte
-stehen. Der sonnige Auftrag hatte eine Unmenge Ausflügler
+stehen. Der sonnige Julitag hatte eine Unmenge Ausflügler
 auf die Beine gebracht, zumeist Leute, die sich in jener
-gehobenen: »Sonntags. schwang« befanden, die anderen schwer
-an die Meinen geht. Sogenannte Witzbolde gibt es ja Überfall.
+gehobenen: »Sonntagsstimmung« befanden, die anderen schwer
+an die Nerven geht. Sogenannte Witzbolde gibt es ja Überall.
 Ich war nicht gerade in der Stimmung, diese Art
 Humor angenehm zu empfinden. Ich wollte mir den Fall
-»Agra Ecke«, denn die Büchschens schien mir das wichtigste
+»Bara Ecke«, denn die Glücksnuß schien mir das wichtigste
 bei alledem zu sein, gründlich nochmals in allen Einzelheiten
 überlegen, wozu ich nun wenig Gelegenheit hatte.
 
 Immerhin gab es doch Augenblicke, in denen ich meine
-Gedanken genügend sammeln Konsuls, um schloß!lich aus dem
-ganzen Verhaften des wenig sympfäthischen Zirkusdirektor?
-zu der Überzeugung zu gelangen, daß er über he« Beileid
-des »Signor Muskeln«, des Jongleurs, entschieden mehr
-wüßte, als er mir gegenüber zu Geben hatte.
+Gedanken genügend sammeln konnte, um schließlich aus dem
+ganzen Verhalten des wenig sympathischen Zirkusdirektors
+zu der Überzeugung zu gelangen, daß er über den Verbleib
+des »Signor Mailoka«, des Jongleurs, entschieden mehr
+wüßte, als er mir gegenüber zugegeben hatte.
 
 Eine gewisse stille Freude erfüllte mich, als ich mich zu
-dieser Überzeugung durchgernngen hatte. War es doch gar
-nicht so ausgeschlossen, daß Zange Leicht den Verehrer seiner
-Tochter diesseits im Flüstern getötet und dann nur das »Bad
-im Scheibe« vorgetäuscht hatte.
+dieser Überzeugung durchgerungen hatte. War es doch gar
+nicht so ausgeschlossen, daß Ignaz Torelli den Verehrer seiner
+Tochter vielleicht im Jähzorn getötet und dann nur das »Bad
+im Werlsee« vorgetäuscht hatte.
 
 Viele Freude über einen meines Erachtens zutreffenden
-Verdacht, der doch unseren Nachforschungen nun eine des
-stimmte Richtung gab, wurde mir dadurch gestört, das! ich
-»daß Gefühl hatte, von irgendeinem Insassen des Abteils
+Verdacht, der doch unseren Nachforschungen nun eine bestimmte
+Richtung gab, wurde mir dadurch gestört, daß ich
+das Gefühl hatte, von irgendeinem Insassen des Abteils
 heimlich und fortgesetzt gemustert zu werden.
 
 Nach einigen vorsichtigen Versuchen, den Betreffenden
-unauffällig herauszufinden, ertappte ich Ding in der ihnen!
-Sie sitzende? junges Mädchen dabei, wie es mit seitwärts
-geneigten Kopf durch eine Lücke zwischen den anderen Jahr-güästen
+unauffällig herauszufinden, ertappte ich ein in der linken
+Ecke sitzendes junges Mädchen dabei, wie es mit seitwärts
+geneigtem Kopf durch eine Lücke zwischen den anderen Fahrgästen
 mich beobachtete.
 
-Ein Trick in Ei ich schmale, lasse Gesicht: es war zur! schloß
+Ein Blick in dieses schmale, rassige Gesicht: es war zweifellos
 Gertrud Torelli!
 
 Sie hatte genau dieselben Augen wie ihr Vater, Genau
@@ -518,221 +494,219 @@ Versteckte, Lauernde.
 Ich beobachtete das Mädchen scheinbar nicht weiter.
 
 In Werder auf dem kleinen Bahnhof wartete meiner
-eine Überraschung …: Eine die, sehr gewöhnlich aussehende
+eine Überraschung …: Eine dicke, sehr gewöhnlich aussehende
 Frau, die mit unechtem Schmuck über und über behängt und
 stark geschminkt und gepudert war, sprach mich an — Frau
-Tunnels, — erklärte, ihr Mann habe ihr telephoniert, daß ich
-noch Werder kommen würde, und daß sie mich h)her in Empfang
+Torelli, — erklärte, ihr Mann habe ihr telephoniert, daß ich
+nach Werder kommen würde, und daß sie mich hier in Empfang
 nehmen solle …
 
 Sie redete wie ein Wasserfall, ließ mir kaum Zeit, selbst
 ein Wort zu sprechen, war sehr nervös und aufgeregt, und
 bat mich, ihr es nicht zu verargen, wenn sie mich in aller
 Heimlichkeit auf Umwegen zu dem Platz führe, wo das Zirkuszeit
-stehe, …
+stehe.
 
 Irgend etwas in ihrem Benehmen gefiel mir nicht. Sie
 schwitzte förmlich vor Aufregung, und seltsamerweise hatte sie
 in ihren hellen Katzenaugen gen denselben falschen Blick
-Bowle ihr Herr Gemahl, Diesem Ehepaar traute ich jedenfalls
-alles Mögliche 31.
+wie ihr Herr Gemahl. Diesem Ehepaar traute ich jedenfalls
+alles Mögliche zu.
 
-Nachts zehn Minuten sahen wir daß Zelt und die großen
+Nach zehn Minuten sahen wir das Zelt und die großen
 Zirkuswagen vor uns. Der Wohnwagen des Herrn Direktors
 stand etwas abseits hinter einer Buschreihe, und ganz unbemerkt
 konnten wir hineinschlüpfen …
 
 Nun war ich am Tatort …
 
-Seid?! …!!
+Leider …!!
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
 <h3>Gertrud winkt …</h3>
 
-Sie »Frau Direktor lich sie« erschöpft in eine See bei
+Die Frau Direktor ließ sich erschöpft in eine Ecke des
 kleinen Sofas sinken …
 
-»Diese Hitze!« stöhnte sie und vermied es, 1raich anzusehen
+»Diese Hitze!« stöhnte sie und vermied es, mich anzusehen
 …
 
 Sie gefiel mir immer weniger.
 
-Desto besser Sessel mir die Einrichtung dieses Lohn:
-Wagens. Wer noch nie Gelegenheit gehabt hat, einen solchen
+Desto besser gefiel mir die Einrichtung dieses Wohnwagens.
+Wer noch nie Gelegenheit gehabt hat, einen solchen
 Wagen von innen zu besichtigen, würde überrascht sein, wenn
 er die Behaglichkeit, den bescheidenen Luxus und die peinliche
 Sauberkeit wahrnehmen würde.
 
-Ich saß in einem Brokatsessel;en, und während Frau
+Ich saß in einem Brokatsesselchen, und während Frau
 Torelli nun eilfertig für mich eine Berliner Weiße als Erfrischung
-vorsichtig in ein dibauciges Glas? füllte, legte ich
-nur die Frage vor, weshalb wohl Gertrud Torelli, die doch
-auch zusammen nicht dem großen Schwarm von Ausflüglern
+vorsichtig in ein dickbauchiges Glas füllte, legte ich
+mir die Frage vor, weshalb wohl Gertrud Torelli, die doch
+auch zusammen mit dem großen Schwarm von Ausflüglern
 hier auf dem Bahnhof ausgestiegen war und die ihre Mutter
-sicherlich bemerkt hatte, uns nicht angesprochen haben unecht?.
-Und die zweite Frage: Wie hatte Frau Torelli nicht so leicht?
-in der Menschanmenae herausgefunden?!
+sicherlich bemerkt hatte, uns nicht angesprochen haben mochte.
+Und die zweite Frage: Wie hatte Frau Torelli mich so leicht
+in der Menschenmenge herausgefunden?!
 
-»Bitte, trinken Sie, Herr Schraut »… « sagte da die die
-Person und stellte mit Zeit lebenden Dingen« das Fritz.
-Bierglas vor mich hin …
+»Bitte, trinken Sie, Herr Schraut …« sagte da die dicke
+Person und stellte mit leicht bebenden Fingern das Weißbierglas
+vor mich hin …
 
-Rechte von mir war ein Büfett mit einem länglichen
+Rechts von mir war ein Büfett mit einem länglichen
 Spiegel in der Wagenwand eingebaut.
 
-Wohl mehr ein Zufall war’s, daß ich gerade jetzt in dieser?
+Wohl mehr ein Zufall war’s, daß ich gerade jetzt in diesen
 <@pagebreak/>
-Spiegel blickte, dem Frau Torelli den Rügen zukehrte. Das
-Spiegelglas setzte mir das eilte Wagenlenker, u410 draußen
-Kutscher den Busen Gertrud Torelli, die mir mit Satzungen
-HandbeweZzung zuwinkte und mir durch geschickte Selten ans
-deutete, das Weißbier nicht anzurühren.
+Spiegel blickte, dem Frau Torelli den Rücken zukehrte. Das
+Spiegelglas zeigte mir das eine Wagenfenster, und draußen
+zwischen den Büschen Gertrud Torelli, die mir mit hastiger
+Handbewegung zuwinkte und mir durch geschickte Gesten andeutete,
+das Weißbier nicht anzurühren.
 
-Als ich diese Gesten verstorben, war mir mit einem
-Spalte auch Flur, weshalb die Frau Direktor so überaus gern
-v358 sich schaltete: Es war das schlechte Graf,/gen vor
-einer Schreck!cm Tat! Ich sollte hier offenbar Eure; den,
-Erfriichungoiranf »erledigt« werden!!
+Als ich diese Gesten verstanden, war mir mit einem
+Male auch klar, weshalb die Frau Direktor so überaus nervös
+sich gebärdete: Es war das schlechte Gewissen vor
+einer schlechten Tat! Ich sollte hier offenbar durch den,
+Erfrischungstrank »erledigt« werden!!
 
-Über — weogohalb in aller Welt, — — wegexhalb?! —
-Welch ein IJitiietesse holte das Ehepaar daran, mich etwa
-durch Sir (bessere wohl kaum!) auszuschalten, wo Torelli
-doch  unsere Liste erbeten hatten!
+Aber — weshalb in aller Welt, — — weshalb?! —
+Welch ein Interesse hatte das Ehepaar daran, mich etwa
+durch Gift (letzteres wohl kaum!) auszuschalten, wo Torelli
+doch unsere Hilfe erbeten hatten!
 
 Nun hieß es schlau sein …
 
-Durch eine scheinbar Tageshitze Armbewegung stieß ich
-Das Glas un, und der Inhalt! ergoß sich auf den Bitte:cUmsa
-ironisch. Ich entschuldigte mich wortreich, während in mir
-tausend Teufel über das enttäuschte Besitz der Frau Dir
-verlor Hohnlachen
+Durch eine scheinbar ungeschickte Armbewegung stieß ich
+Das Glas um, und der Inhalt ergoß sich auf den Linoleumteppich.
+Ich entschuldigte mich wortreich, während in mir
+tausend Teufel über das enttäuschte Gesicht der Frau Direktor
+hohnlachten …
 
 Eine zweite Weißbierspende lehnte ich ab … Ich hätte
-warne Zeit und möchte sofort den Schrank in Augendhein
-neuen, — was ja ganz überflüssig war, da ich nun mit
-aller Weltfremdheit die Diebin der Glücksnuß kannte: Gertrud
-Leicht!
+wenig Zeit und möchte sofort den Schrank in Augenschein
+nehmen, — was ja ganz überflüssig war, da ich nun mit
+aller Bestimmtheit die Diebin der Glücksnuß kannte: Gertrud
+Torelli!
 
 Meine Detektivarbeit an dem Schranke war in zehn
-Minuten erledigt, war eitel Spiegelfechterei
+Minuten erledigt, war eitel Spiegelfechterei …
 
-»Her Schrank ist von einem gewerbsmäßigen Einbrecher
+»Der Schrank ist von einem gewerbsmäßigen Einbrecher
 erbrochen worden,« erklärte ich der Dicken, die mir mit einem
 Gesichtsausdruck zuschaute, als ob sie mich am liebsten gefressen
-schälte. »Ihr Mann, Frau Torelli,« führ ich mit
-
-naddenlliter Miene fort, »sprach von einem gewissen Herz
-Hand Fenster, der ein ziemlich übles Subjekt gewesen sein
-soll … Bioll2icht ha! Berner sich dem müheloseren Gauner-bordiner?
-sterben Tochter eilt Dasjenige! adressiert
-
-Theorie ich. um die Dicke, die vielleicht durch das Unwettern
+hätte. »Ihr Mann, Frau Torelli,« fuhr ich mit
+nachdenklicher Miene fort, »sprach von einem gewissen Gerhard
+Berner, der ein ziemlich übles Subjekt gewesen sein
+soll … Vielleicht hat Berner sich dem müheloseren Gaunerhandwerk
+ergeben und hier ein Gastspiel absolviert …«
+scherzte ich, um die Dicke, die vielleicht durch das Umwerfen
 <@pagebreak/>
-des Glases mißtrauisch; geworden, wieder in Sicherheit zu
-fallen …
+des Glases mißtrauisch geworden, wieder in Sicherheit zu
+lullen …
 
 Ich beobachtete sie dabei scharf. Der Name Berner war
-für sie sichtlich eine bittere Alle. Sie wa’ldte sich) halb
-»ab, war sehr rot geworden …
+für sie sichtlich eine bittere Pille. Sie wandte sich halb
+ab, war sehr rot geworden …
 
 »Vielleicht …« murmelte sie zerstreut … Und dann —
-lebhafter: »Darf ich Einen nun wenigstens einen Wissen anzubieten,
+lebhafter: »Darf ich Ihnen nun wenigstens einen Likör anbieten,
 Herr Schraut?«
 
-Aha — — erst Weißbier, kann Schnaps!
+Aha — — erst Weißbier, dann Schnaps!
 
-»Dank? verbindlichst,/« Geruderte ich. »Ich werde erst n:ich
-hier einen am GSdcrankscchloß sichtbaren Fimngerabdruck als
-zeichnen … — Sie können ganz beruhigt sein, Frau Torelli,
+»Danke verbindlichst,« erwiderte ich. »Ich werde jetzt noch
+hier einen am Schrankschloß sichtbaren Fingerabdruck abzeichnen
+… — Sie können ganz beruhigt sein, Frau Torelli.
 Wir fassen den Dieb …«
 
-Als ich; mich dann verabschiedete, wollte sie mir eine
+Als ich mich dann verabschiedete, wollte sie mir eine
 Zigarre aufdrängen …
 
-»Ich konnte weder Likör noch rauche im,« lachte ich lächelnd,
+»Ich trinke weder Likör noch rauche ich,« sagte ich lächelnd.
 »Unsereiner darf seinen Verstand weder durch Nikotin noch
-Du« Alkohol lähmen … Ruf Wiedersehen … Grüßen
-Sie Ihren Wann … Sie erhalten von uns hoffentlich) recht
+durch Alkohol lähmen … Auf Wiedersehen … Grüßen
+Sie Ihren Mann … Sie erhalten von uns hoffentlich recht
 bald günstige Nachricht …«
 
-So« schritt ich denn nun durch die alten gemütlichen
+So schritt ich denn nun durch die alten gemütlichen
 Straßen der bekannten Obststadt dem Bahnhof wieder zu —
 in der stillen Erwartung, daß ich Gertrud Torelli vielleicht
-treffen werde und sprechen könnte …
+treffen würde und sprechen könnte …
 
-Und, beschäftigt mit Bahn Gedanken, die immer wieder
-Sie reichliche Frage umspielten, weshalb Zange Torelli seiner
-scheinheiligen Schritte Dom offenbar te!-phorviih mit die
-Arwieistung gegeben, mich durch einen Heoicenicank zu betäuben!
+Und, beschäftigt mit dem Gedanken, die immer wieder
+die wichtige Frage umspielten, weshalb Ignaz Torelli seiner
+scheinheiligen Ehehälfte doch offenbar telephonisch mit die
+Anweisung gegeben, mich durch einen Hexentrank zu betäuben!
 
-Unschuld?! — Fürchtete er uns?! Hoffte er, laß, nach«
-halbem ich erledigt war, Harald nachmittags an die Reihe
+Weshalb?! — Fürchtete er uns?! Hoffte er, daß, nachdem
+ich erledigt war, Harald nachmittags an die Reihe
 kommen würde?! — Weshalb?!
 
-War Tore’liekwa wirklich der T7arder Morgens, und
-hatte etwa Entlud gegen ihren Vater Verdacht geschöpft?!
+War Torelli etwa wirklich der Mörder Berners, und
+hatte etwa Gertrud gegen ihren Vater Verdacht geschöpft?!
 
-Nein — letzteres war wohl auszJeichlossen. Die Inschrift
+Nein — letzteres war wohl ausgeschlossen. Die Inschrift
 auf der Hülle der Kokosnuß bewies, daß Gertrud bisher
 <@pagebreak/>
-über das Schicksal ihres Leichtere und Geliebten (das war
-Gerüst ihr zweifellos gewesen) völlig im Malaien sein mußte,
+über das Schicksal ihres Verehrers und Geliebten (das war
+Berner ihr zweifellos gewesen) völlig im unklaren sein mußte,
 
-Nach auf dem Bahnhof nichts von Gertrud …
+Auch auf dem Bahnhof nichts von Gertrud …
 
-Ich war etwas entkam;ct. Und doch auch zufrieden, weil
-ich Harald eine ganze Menge Neues mitteilen Monde. Er
-würde sich wandern, wenn ich ihm meine Erlebnisse hier in
-Werden deutete. Mit einem Weißbier-Attentat hatte er
-sie lich nie: arg gerechnet!
+Ich war etwas enttäuscht. Und doch auch zufrieden, weil
+ich Harald eine ganze Menge Neues mitteilen konnte. Er
+würde sich wundern, wenn ich ihm meine Erlebnisse hier in
+Werden berichtete. Mit einem Weißbier-Attentat hatte er
+sicherlich niemals gerechnet!
 
-29m Bahnhof aus nie! ich unsere Nummer in Schmalen
-gegönnt an, damit Harald nicht etwa auch noch hierher Dame.
+Vom Bahnhof aus rief ich unsere Nummer in Schmargendorf
+an, damit Harald nicht etwa auch noch hierher käme.
 Ich bekam auch sehr bald Verbindung, und es meldete sich
-Harsts Mutter»…
+Haralds Mutter …
 
-Wein, Harald sei noch nicht wieder zurüägekfchrt, nachdem
-er unser Haus in der Verkleidung verlassen. hatte.
+Nein, Harald sei noch nicht wieder zurückgekehrt, nachdem
+er unser Haus in der Verkleidung verlassen hatte.
 
-Das genügte mir. Also war er noch hinter Sonne drein …
+Das genügte mir. Also war er noch hinter Ignaz drein …
 Auch gut.
 
-Ich fuhr gen Berlin. Leer das Abteil, keine Witzbold,
+Ich fuhr gen Berlin. Leer das Abteil, keine Witzbolde,
 keine Ausflügler. Es war jetzt halb vier. Erst in Potsdam
-füllte sich; der Wagen.
+füllte sich der Wagen.
 
-Als ich dann gegen sechs Haralds. Mutter in unserem
+Als ich dann gegen sechs Haralds Mutter in unserem
 Garten begrüßte, war mein Freund noch nicht zurück …
 
 Frau Auguste Harst, meine mütterliche Freundin, und ich
 setzten uns in die Veranda, und ich erzählte ihr, was ich
 erlebt hatte. Vor der alten Dame haben wir keine Geheimnisse.
 
-Frau Harst gab ihr durchaus recht, daß das Ehepaar
-Torelli, was. schriftlich den Inder. Tour um die Ecke gebracht
-habe, oder doch jedenfalls Torelli, der dann seine Frau ein
-geweiht habe. Weshalb Torelli nun jedoch« zu uns gesammelt,
-konnte auch Frau Harst sich) nicht erklären.
+Frau Harst gab mir durchaus recht, daß das Ehepaar
+Torelli, wahrscheinlich den Jongleur um die Ecke gebracht
+habe, oder doch jedenfalls Torelli, der dann seine Frau eingeweiht
+habe. Weshalb Torelli nun jedoch zu uns gekommen,
+konnte auch Frau Harst sich nicht erklären.
 
 Es wurde acht, halb neun …
 
 Wir aßen ohne Harald Abendbrot.
 
-Eis wurde zehn, und Frau Harst meinte, sie beginne sich
-ihres großen Iur’gen wegen zu sorgen.
+Es wurde zehn, und Frau Harst meinte, sie beginne sich
+ihres großen Jungen wegen zu sorgen.
 
-Auf den seltenen sonnigen Auftrag war ein Wolkigen
-Mylord von drückender Gewitterschwüle gefolgt … Von Westen.
+Auf den seltenen sonnigen Julitag war ein wolkiger
+Abend von drückender Gewitterschwüle gefolgt … Von Westen
 <@pagebreak/>
-her 303 eine schwarze Wand herauf, über die immer häufiger
-ein fahles Leuchter hinlief. Kein Blatt der GarlfenbIume
+her zog eine schwarze Wand herauf, über die immer häufiger
+ein fahles Leuchter hinlief. Kein Blatt der Gartenbäume
 regte sich. Kein Lufthauch war zu spüren. Fledermäuse
-schossen lautlos hin und her, und um die elektrische Verordne
-Lampe summten und flatterten große Nachtfalter …
+schossen lautlos hin und her, und um die elektrische Verandalampe
+summten und flatterten große Nachtfalter …
 
-Wir hatten lange Zeit kein Wort mehr gesprochen, Die
+Wir hatten lange Zeit kein Wort mehr gesprochen. Die
 Schwere der Luft benahm uns förmlich den Atem,
 
 Im Eßzimmer schlug die Standuhr elf …
@@ -740,79 +714,80 @@ Im Eßzimmer schlug die Standuhr elf …
 Ich gähnte verstohlen …
 
 Sagte Frau Auguste da energisch: »Ich bleibe noch auf
--. Ich habe das Gefühl, daß Harald in Gefahr ist … Ich
+… Ich habe das Gefühl, daß Harald in Gefahr ist … Ich
 könnte doch nicht schlafen …«
 
-Ich schüttelte die Müdigkeit ab … Richtete, mich im
+Ich schüttelte die Müdigkeit ab … Richtete mich im
 Rohrsessel auf …
 
-»Soll ich rote nach Werder hinanus&fahren, liebe Frau
-Harst …? Soll ich) dort einmal nach Harald Umschau halten?
+»Soll ich noch nach Werder hinausfahren, liebe Frau
+Harst …? Soll ich dort einmal nach Harald Umschau halten?
 Wenn es Sie beruhigt, — ich tue es gern …«
 
 »Nein, nein, — das nicht,« widersprach sie und erhob
-sich … »Wer weiß, wo Harald stet … Ich werde uns
+sich … »Wer weiß, wo Harald steckt … Ich werde uns
 Zitronenwasser holen … Es ist so furchtbar schwül hier …«
 
 Und sie verließ die Veranda …
-Hatte sie kaum verlassen, als ich e!was wie einen leichten
+
+Hatte sie kaum verlassen, als ich etwas wie einen leichten
 Schlag an der linken Schläfe verspürte …
 
 Fuhr hoch …
 
 Faßte mit der Hand nach dem Kopfe …
 
-Meine Finger waren blutig?!
+Meine Finger waren blutig!!
 
 Im Nu schaltete ich die Lampe aus …
 
-Im Nu war ich unten im Hose, im Garten …
+Im Nu war ich unten im Hofe, im Garten …
 
 Eine ungeheure Wut kochte in mir … Ich Wußte:
 Windbüchse — — eine Kugel, die meine Schläfe nur gestreift
 hatte — ein feiges Attentat: Torelli natürlich!!
 
 Mit der entsicherten Clement in der Hand suchte ich den
-Garten ob …
+Garten ab …
 
 Fand natürlich nichts …
 
 Es begann zu regnen …
 
-Sturmstöße suchten über die Baumkronen hin … Die
+Sturmstöße fauchten über die Baumkronen hin … Die
 <@pagebreak/>
-»alten Kastanien in unserem Hofe verbeugten sich vor dein
+alten Kastanien in unserem Hofe verbeugten sich vor dem
 jähen Orkan, ächzten und stöhnten …
 
 Als ich die Veranda wieder betrat, hatte ich mich bereits
-vom Blute gereinigt und die seine Eilte an der Schläfe
+vom Blute gereinigt und die feine Rille an der Schläfe
 mit Heftpflaster überklebt.
 
 Frau Harst hatte die Fenster geschlossen und die Vorhänge
 zugezogen. Sie bemerkte das Pflaster erst gar nicht.
-— Ich erklärte, iq hätte im Garten die -Mistbeetfenster des
-Regens wegen gestiegen und mir dabei die G3yramme geholt,
+Ich erklärte, ich hätte im Garten die Mistbeetfenster des
+Regens wegen geschlossen und mir dabei die Schramme geholt,
 die nichts zu bedeuten habe.
 
 Heimlich aber suchte ich den Fleck, wo die halb fehlgegangene
-Sarges eingeschlagen haben mußte, en:edle auch
-Die G »!je: neben dem Barometer — nur ein Löchlein in der
+Kugel eingeschlagen haben mußte, entdeckte auch
+Die Stelle: neben dem Barometer — nur ein Löchlein in der
 Tapete!
 
-»	—tr tranken Zitronenwasser …
+Wir tranken Zitronenwasser …
 
 Das Gewitter kam näher und näher …
 
 Es war jene Julinacht, in der ein Wirbelsturm über die
-westlichen Vororte Bassins hinwegging und arge Verbrenne
-gen anrichtete …
+westlichen Vororte Berlins hinwegging und arge Verheerungen
+anrichtete …
 
 Blitz folgte auf Blitz …
 
 Wir schwiegen …
 
-Und gerade in einer kurzen Atempause des Numeriert
-hörte ich im Flur das Telephon stellen a …
+Und gerade in einer kurzen Atempause des Unwetters
+hörte ich im Flur das Telephon schrillen …
 
 Sehr anhaltend …
 
@@ -829,62 +804,59 @@ Frau Harst stand neben mir …
 Und Harald sprach weiter:
 
 »Du mußt aus Berlin sehr vorsichtig verschwinden und
-hierher kommen … Ich teolephoniere vom Hotel Grase aus
-… Ich erwarte dich morgen halb zwölf mittaaqa8 an der
-Abfahrtstelle der Motorboote nach Ordnen … 99 ’3e Mutter
-
-… Sie soll sich keine Bergen machen … G4Hluß …
+hierher kommen … Ich telephoniere vom Hotel Crahe aus
+… Ich erwarte dich morgen halb zwölf mittags an der
+Abfahrtstelle der Motorboote nach Erkner … Grüße Mutter
+… Sie soll sich keine Sorgen machen … Schluß …«
 
 <@pagebreak/>
-Und hervor ich noch etwas fragen konnte, bitte er also
-Hängt.
+Und bevor ich noch etwas fragen konnte, hatte er abgehängt.
 
 Frau Harst war beruhigt. Wir gingen schlafen …
 
-Edclafene!
+Schlafen?!
 
-Rein — es dauerte voll; Stunden, bevor ich einschlummerte
+Nein — es dauerte noch Stunden, bevor ich einschlummerte
 …
 
-Harst in Grünheidek!
+Harst in Grünheide!!
 
-Tage Preis die große Welt von Grünheide?!
+Was weiß die große Welt von Grünheide?!
 
-Dressuranstalt — 	— vielleicht! Poalizeittamddressurane
-Gestalt …
+Dressuranstalt — — vielleicht! Polizeihunddressuranstalt
+…
 
 Sonst?! — Ich selbst war noch nie dort gewesen, hatte
-es kaum dein Amen nach gelangt, dieses Dritten in der
-angeblich so sandigen Mark! Unglück!
+es kaum dem Namen nach gekannt, dieses Örtchen in der
+angeblich so sandigen Mark! Angeblich!
 
 Harst in Grünheide …
 
-Dort am Stufen des Weibes sollte Gerhard Berner
+Dort am Ostufer des Werlsees sollte Gerhard Berner
 ertrunken sein — sollte …
 
-Ob Palast etwa dort noch Spuren eines im April begangenen
+Ob Harald etwa dort noch Spuren eines im April begangenen
 Mordes zu finden hoffte?! Drei Monate waren
-seit Gerhard Berners Verschnitten vergangen — eine hier
-endlose Zeit, womit es sich um ein bisher nannte!Wirtes
-Verbrechen handelt. Nachließ drei Monaten wir:zt nur noch
-der latnconhosteste Verbündete des Schwingt sitzen, der Zufall,
+seit Gerhard Berners Verschwinden vergangen — eine schier
+endlose Zeit, wenn es sich um ein bisher unaufgeklärtes
+Verbrechen handelt. Nach drei Monaten pflegt nur noch
+der launenhafteste Verbündete des Kriminalisten, der Zufall,
+die Aufdeckung einer Untat herbeizuführen … Es sei denn,
+daß ein Mann von den anerkannt vielseitigen Fähigkeiten
+eines Harst sich einer derart verfahrenen Sache annimmt …
 
-die Aufdeckung einer Untat horbeizuiihren … E22 so! dann,
-daß ein Mann von den anerkannt Violett gen «.gleiten
-eines Harst sich einer derart verfihrenen Sache opvnimnmit …
-
-Und dies war hier der Fall! Harald Auto seine sehr
-triftigen Gründe gehabt haben, daß er sich ne:5 Grünheide
-begeben hatte. Welche Grunde aber?! Was hatte in dazu
-veranlaßt, die Beobachtung Junge Voreilige aufzugeben und
-das einsame, entlegene Nest, diese besä)eichene Sommerfrische,
-aufzusünhen?
+Und dies war hier der Fall! Harald mußte seine sehr
+triftigen Gründe gehabt haben, daß er sich nach Grünheide
+begeben hatte. Welche Gründe aber?! Was hatte ihn dazu
+veranlaßt, die Beobachtung Ignaz Torellis aufzugeben und
+das einsame, entlegene Nest, diese bescheidene Sommerfrische,
+aufzusuchen?
 
 Über diesen Gedanken schlief ich doch endlich ein …
 
 <@pagebreak/>
 
-<h2>6. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 <h3>Die Insel.</h3>
 
 ins schon im acht Uhr war ich« wieder auf den Seinen,
@@ -2703,7 +2675,7 @@ Negetnpause …
 Auf dem Wege zum großen Gartenhaus tritt uns der
 alte Hubert Kollegen …
 
-Edzildwache hier — Liche3wächter …
+Schildwache hier — Liche3wächter …
 
 Hat das Teouselsinstrument in der Hand … Ein Sterbens
 der Strahl Fahrt über unsere Gesichter hin …
