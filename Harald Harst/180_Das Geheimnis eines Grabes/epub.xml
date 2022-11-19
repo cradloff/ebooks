@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">a28a89a1-700b-4edf-8489-5f58b5809dd4</entry>
+<entry key="title">Das Geheimnis eines Grabes</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">180</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Geheimnis eines Grabes.
+
+Und nun, Herr Harst, werden Sie vielleicht, wenn ich Ihnen jetzt mitteile, was die Kiste enthielt, annehmen, daß ich nur geträumt habe, zumal auch der Schluß meines Erlebnisses recht seltsam war.
+
+In der Kiste lag ein Mensch, ein Mann.
+
+Ein Mann mit blondem Schnurrbart, Herr Harst …
+
+Die Frau beugte sich über ihn und schien zu beten …
+
+Dann klappte sie den Kistendeckel wieder zu, breitete den Sand wieder über den Deckel und verwischte sorgfältig alle Spuren ihrer Anwesenheit. Hierauf schritt sie in den Wald hinein und verschwand.
+
+Die Stimme aus dem Jenseits.
+
+Und jetzt ereignete sich etwas, das uns beiden noch unbegreiflicher war als alles Vorausgegangene …
+
+Die Tür nach dem Kellergang war offen geblieben …
+
+Und aus der Finsternis dort jetzt eine merkwürdig harte, energische Stimme, die in Wahrheit einen metallischen Klang hatte … —
+
+»Baron Arnstör, hüten Sie sich — — hüten Sie sich!!  Die Toten stehen auf!!«
+
+Diese Sätze, die da urplötzlich aus dem Dunkel hervordröhnten, wie das Grollen eines jäh aufgetauchten Gewitters, — diese Sätze übten auf die drei Gentlemen eine verblüffende Wirkung aus …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (180) Das Geheimnis eines Grabes.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
