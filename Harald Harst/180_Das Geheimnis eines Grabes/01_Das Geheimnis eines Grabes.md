@@ -13,7 +13,7 @@ uns einen soeben eingegangenen Brief …
 
 <p class="right">Ostseebad Arendsee, Mecklenburg,</p>
 <p class="right">den 6. August 192…</p>
-<p class="right">Villa Anna, Seestraße. 6.</p>
+<p class="right">Villa Anna, Seestraße 6.</p>
 <p class="centered">Sehr geehrter Herr Harst,</p>
 
 Sie werden es vielleicht frech von mir finden, daß ich es
@@ -95,7 +95,7 @@ Ich schlug also den Deckel hoch und … fuhr erstaunt
 zurück …
 
 Denn: jetzt lag in der Kiste nicht ein Mann mit blondem
-Schnurrbart, sondern mit schwarzen, langen Vollbart …
+Schnurrbart, sondern mit schwarzem, langen Vollbart …
 
 Ein scharfer Geruch nach Kampfer stieg mir in die Nase
 und ließ meine Augen tränen.
@@ -305,7 +305,7 @@ ein wenig zu erörtern.
 
 Schweigend bummelten wir am Kurhause vorüber …
 
-Schweigend auf den Seesteeg, wo an diesem herrlich
+Schweigend auf den Seesteg, wo an diesem herrlich
 <@pagebreak/>
 milden, windstillen Augustabend eine ganze Menge Kurgäste
 promenierten …
@@ -750,7 +750,7 @@ bald wieder heimkehren wird … — Rasch, benutzen wir die
 gute Gelegenheit, mein Alter … Er hat die Haustür nicht
 abgeschlossen …«
 
-Wir eilten nachdem Hause des Fischers Klemens …
+Wir eilten nach dem Hause des Fischers Klemens …
 
 Ich fand Haralds Vorgehen reichlich gewagt … Wenn
 jemand von der Familie Klemens bereits munter war, dann
@@ -860,7 +860,7 @@ Doch nein, auch dies besser persönlich.
 <p class="centered">Hochachtend</p>
 <p class="right">Helga Struvesund.</p>
 
-Harst schob die Brieftasche wieder in die Tage zurück …
+Harst schob die Brieftasche wieder in die Jacke zurück …
 
 »Wir können gehen,« meinte er …
 
@@ -1087,7 +1087,7 @@ blonden Martha so ein wenig vertraut … Liebesleute vielleicht
 — in aller Heimlichkeit … — Jedenfalls bin ich gespannt,
 wie sich die Dinge nun weiter entwickeln werden.«
 
-Bald darauf brachte Martha den Koffer …
+Bald darauf brachte Martha den Kaffee …
 
 Und jetzt, wo wir mit ihr allein waren, hatte sich ihr
 ganzes Verhalten wesentlich geändert. Mit nervöser Hast
@@ -1228,7 +1228,7 @@ mit dem Segelboote aufsuchte! —
 Harst sagte jetzt zu mir:
 
 »Ich werde hinabspringen, mein Alter … Sobald ich
-unten festgestellt habe, das die Luft rein ist, kannst du mir
+unten festgestellt habe, daß die Luft rein ist, kannst du mir
 folgen …«
 
 Und er faßte in die Schlüsseltasche der Beinkleider und

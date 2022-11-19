@@ -654,7 +654,7 @@ Hingen nun an dem Tau, hörten das Knallen der sich
 entfaltenden Segel und wurden von dem rasch in Fahrt
 kommenden Schoner mit durch das Wasser geschleift …
 
-Not immer schien niemand an Bord des kleinen Fahrzeugs
+Noch immer schien niemand an Bord des kleinen Fahrzeugs
 zu ahnen, daß zwei ungeladene Gäste am Heck die Reise
 mitmachten … —
 
@@ -966,7 +966,7 @@ wahrscheinlich Beutestücke aus jener Zeit, da die Grafen
 Baginski das Seeräuberhandwerk betrieben … Beutestücke,
 von deren Existenz die Baronesse Helga erst nach dem Tode
 ihres Oheims Baginski etwas erfahren haben dürfte, vielleicht
-durchs ein Testament …«
+durch ein Testament …«
 
 Ich, Max Schraut, hörte andächtig zu …
 
