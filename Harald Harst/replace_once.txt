@@ -8,6 +8,7 @@ t!	!!
 2!	?!
 \b309\b	zog
 \bAch\b	Ich
+\bAeste\b	Äste
 \bAhnen\b	Ihnen
 \bau!	auf
 \bBann\b	Dann
@@ -31,6 +32,7 @@ t!	!!
 \bgesunden	gefunden
 \bha!\b	hat
 \bHart\b	Harst
+\bIm\b	Hm
 \bis!\b	ist
 \blebten	letzten
 \blett\b	jetzt
@@ -59,6 +61,7 @@ c\)	ch
 d\)	ch
 e\)	ch
 i[cd]\)	ich
+I[cd]\)	Ich
 iM	ich
 no[cd]\)	noch
 nod\)	noch

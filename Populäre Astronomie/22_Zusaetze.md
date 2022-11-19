@@ -1,23 +1,28 @@
+<#import "pa.ftl" as pa>
+
 <@pagebreak 465/>
+
+Anhang
+======
 
 Zusätze und Berichtigungen.
 ---------------------------
 
-S. 107. Die Vermuthung, daß die Südhalbkugel der Erde von der Nordhalbkugel
+<@pa.seite0 107/> Die Vermuthung, daß die Südhalbkugel der Erde von der Nordhalbkugel
 verschieden sei, gründet sich vornehmlich auf eine Gradmessung, die der
 französische Astronom *La Caille* am *Vorgebirge der guten Hoffnung* angestellt
 hat. Ihre Genauigkeit wird jedoch durch neuere Untersuchungen sehr in Zweifel
-gezogen. Auch stimmen Gradmessungen in Ostindien und die Pendelversuche *Biot's,
-Sabine's, Kater's u. A.* von Spitzbergen und der Baffinsbay bis Sierra Leona und
+gezogen. Auch stimmen Gradmessungen in Ostindien und die Pendelversuche *Biot’s,
+Sabine’s, Kater’s u. A.* von Spitzbergen und der Baffinsbay bis Sierra Leona und
 Paramatta, im südlichen Theile Neuhollands, sehr gut mit der Abplattung der Erde
-von etwa 1/300.
+von etwa <@pa.bruch z="1" n="300"/>.
 
-S. 163. Die Länge des Apheliums der <img alt="Vesta" src="Vesta.png"/> ist nicht 270° 19' 0", sondern 70° 19'
-0", dagegen die Länge des Apheliums der <img alt="Juno" src="Juno.png"/> nicht 33° 16' 0" sondern 233° 16' 0".
+<@pa.seite0 163/> Die Länge des Apheliums der <@pa.vesta/> ist nicht 270° 19’ 0", sondern 70° 19’
+0", dagegen die Länge des Apheliums der <@pa.juno/> nicht 33° 16’ 0" sondern 233° 16’ 0".
 
 Die ganze Tabelle ist für den Anfang des Jahres 1810 berechnet.
 
-S. 161 und S. 175. Die im Texte angegebene Sonnenparallaxe ist das Resultat
+<@pa.seite0 161/> und <@pa.seite0 175/> Die im Texte angegebene Sonnenparallaxe ist das Resultat
 sämmtlicher Beobachtungen beim Venusdurchgange des Jahres 1761. Durch
 Vergleichung dieses Resultats mit den Beobachtungen beim Venusdurchgange 1769
 erlangte Enke für die Sonnenparallaxe 8"5776, oder für die Entfernung der Erde
@@ -27,55 +32,55 @@ Meilen mehr oder weniger beträgt. Demgemäß müssen
 nun alle absoluten
 Entfernungen der Himmelskörper abgeändert werden.
 
- S. 216. Z. 14. statt nun l. nur um. 
+ <@pa.seite0 216/> Z. 14. statt nun l. nur um. 
 
-  " "    Z. 17. statt 60° 17' l. 6° 17'. 
+  " "    Z. 17. statt 60° 17’ l. 6° 17’. 
 
-S. 210 und 212. Die erste Reihe der Seite 210 muß gestrichen und dafür vor die
-erste Reihe der S. 212. gesetzt werden.
+<@pa.seite0 210/> und <@pa.seite00 212/>. Die erste Reihe der Seite 210 muß gestrichen und dafür vor die
+erste Reihe der <@pa.seite0 212/> gesetzt werden.
 
-S. 306. Daß der Mondfleck *Alhazen* ganz verschwunden sei, glaubte Kunowsky
+<@pa.seite0 306/> Daß der Mondfleck *Alhazen* ganz verschwunden sei, glaubte Kunowsky
 beobachtet zu haben; andere haben ihn jedoch nach wie vor erblickt.
 Dessenungeachtet möchte es wol außer Zweifel sein, daß große Revolutionen auf
 dem Monde vorgehen, da weit verbreitete Lichterscheinungen sehr häufig sind
 und schwerlich alle von bloßen Zurückstralungen des Lichtes herrühren. Es ist
 jedoch sehr schwer, hierüber zu entscheiden, indem die besten neuesten
-Beobachter, wie Lahrmamn und *Gruithuisen*, so bedeutend von einander abweichen.
+Beobachter, wie Lahrmann und *Gruithuisen*, so bedeutend von einander abweichen.
 
-S. 317. Aus einer genauen Berechnung der Beobachtungen beim Kometen von 1680,
+<@pa.seite0 317/> Aus einer genauen Berechnung der Beobachtungen beim Kometen von 1680,
 dem Haller und Newton eine Umlaufszeit von 575 Jahren beilegten, schließt
 Encke, daß seine Periode nicht unter 2000 Jahre sein könne. Andre geben ihm
-sogar 8--9000 Jahre, und im Aphelium eine Entfernung von 430
+sogar 8—9000 Jahre, und im Aphelium eine Entfernung von 430
 Erdbahnhalbmessern.
 
-S. 320. Wie sehr die Anzahl der beobachteten Kometen durch die Verbesserung der
+<@pa.seite0 320/> Wie sehr die Anzahl der beobachteten Kometen durch die Verbesserung der
 Fernröhre zunimmt, sieht man unter Andern daraus, daß Pons im Anfange
 Novembers den 5ten Kometen d. J. 1825 entdeckt hat.
 
-S. 322 und 324. Ehe der Komet von 1770 zu uns kam, hatte er das Jupiterssystem
+<@pa.seite0 322/> und 324. Ehe der Komet von 1770 zu uns kam, hatte er das Jupiterssystem
 durchschnitten, und wurde wahrscheinlich erst dadurch in unsere Nähe gebracht,
 da er vorher nie beobachtet worden war. 1776 stand er jenseit der Sonne und war uns 
 <@pagebreak/>
 deshalb unsichtbar. 1779 kam er von Neuen dem Jupiter sehr nahe.
 
-S. 325. Einige glauben jedoch den Enckischen Kometen i. J. 1819 auf der
+<@pa.seite0 325/> Einige glauben jedoch den Enckischen Kometen i. J. 1819 auf der
 Sonnenscheibe erblickt zu haben.
 
-S. 328. Der Komet von 1824 hatte zwei Schweife, die fast in einer geraden Linie
+<@pa.seite0 328/> Der Komet von 1824 hatte zwei Schweife, die fast in einer geraden Linie
 lagen, die zu gleicher Zeit verlängert, die Sonne durchschnitten haben würde.
 Der der Sonne zugekehrte Schweif war eben so hell und noch länger, aber
 schmäler, als der andre. Seine Gestalt und auch seine Lage war sehr
 veränderlich; auch war er nicht immer zu sehen.
 
-S. 329. 2. Z. e. n. st. weniger langsam l. langsamer.
+<@pa.seite0 329/> 2. Z. e. n. st. *weniger langsam l. langsamer*.
 
-S. 336. Wenn die Sternschnuppen sich ohne Rücksicht auf die Erde frei im
+<@pa.seite0 336/> Wenn die Sternschnuppen sich ohne Rücksicht auf die Erde frei im
 Weltraume bewegen, so werden die meisten der fortschreitenden Erde entgegen zu
 kommen scheinen; dieses glaubt auch Brandes in der That beobachtet zu haben.
 Der kosmische Zustand der Sternschnuppen erlangt dadurch einen hohen Grad von
 Wahrscheinlichkeit.
 
-S. 461. Es muß jedoch bemerkt werden, daß, späteren Beobachtungen von Herschel
+<@pa.seite0 461/> Es muß jedoch bemerkt werden, daß, späteren Beobachtungen von Herschel
 zufolge, die Milchstraße seinen Fernröhren wirklich undurchdringlich zu sein
 schien, daß also jener Durchmesser der Milchstraße sehr zweifelhaft wird. Er
 bestimmt die Entfernung der Fixsterne und Sternnebel vorzüglich nach der Stärke
