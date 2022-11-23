@@ -82,7 +82,7 @@ wollen uns die Sache bequemer machen.«
 Dann hatte er die Kokosnuß in den Händen und trug sie
 in sein Arbeitszimmer, wo er in meiner Gegenwart die
 matt glänzende Haut der Basthülle sogar mit einem
-Vergrößerungsglase musterte,
+Vergrößerungsglase musterte.
 
 Ich stand dicht neben ihm …
 
@@ -95,7 +95,7 @@ Er schüttelte den Kopf …
 
 Er war jetzt wie ausgewechselt … Seine üble Laune verflogen.
 Er witterte ein Problem, und das genügte ihm, die
-alte geistige und körperliche Spannkraft wiederzugewinnen,
+alte geistige und körperliche Spannkraft wiederzugewinnen.
 
 »Hm … komisch!« murmelte er wieder. »Zwecklos wird die
 Frau die Nuß nicht in dem Birnbaum festgeknüpft haben! —
@@ -112,7 +112,7 @@ mit Geheimtinte geschrieben ist. Versuchen wir, ob dies
 stimmt …«
 
 Es gibt zahlreiche Verfahren, unsichtbar gewordene Schrift
-wieder sichtbar zu machen,
+wieder sichtbar zu machen.
 
 Harst erwärmte die Nuß vor unserer elektrischen Sonne —
 ohne Erfolg.
@@ -223,7 +223,7 @@ Und schon betrat er sein Schlafzimmer und zog die Tür
 zu … —
 
 So begann eins der seltsamsten Probleme, die wir je
-gelöst haben
+gelöst haben.
 
 <h2>2. Kapitel.</h2>
 <h3>Der Bestohlene.</h3>
@@ -231,7 +231,7 @@ gelöst haben
 »Ignaz Torelli, Zirkusdirektor,« stellte sich der Schwarzbärtige
 mit einem altmodischen Manegenkratzfuß mir vor.
 
-»Max Schraut.« nannte ich meinen Namen und fügte
+»Max Schraut,« nannte ich meinen Namen und fügte
 sofort hinzu, da Herr Torelli sich suchend im Herrenzimmer
 umschaute und offenbar Harsts Abwesenheit peinlich
 empfand …! »Mein Freund Harsts ist leider stark erkältet
@@ -285,7 +285,7 @@ auf Ceylon …«
 »Allerdings … Ich kenne so ziemlich die ganze Welt …
 Ich habe viel erlebt … Mir macht man so leicht nichts vor.«
 
-Das letzte klang beinahe wie eine Drohung,
+Das letzte klang beinahe wie eine Drohung.
 
 Sollte Torelli etwa beobachtet haben, wie wir die Kokosnuß
 vom Birnbaum herunterholten?!
@@ -303,7 +303,7 @@ Und nun erzählte er mir genau dasselbe, was ich bereits
 von Harald über die Glücksnüsse gehört hatte …
 
 »Seit gestern abend vermisse ich meine Nuß,« fügte er
-Dann hinzu und schlug mit der mächtigen Faust auf das
+dann hinzu und schlug mit der mächtigen Faust auf das
 Seidenpolster des Sessels … »In meinem Wohnwagen lag
 sie — in einem festen Wandschrank … Gestern kurz vor
 Beginn der Abendvorstellung fand ich den Schrank erbrochen
@@ -314,12 +314,12 @@ Meine Annahme, er könnte wissen, daß wir die Nuß jetzt
 besäßen, schien jedoch irrig zu sein … Das merkte ich seinem
 Verhalten an …
 
-Ich hat, als überlegte ich …
+Ich tat, als überlegte ich …
 
 Er beobachtete mich gespannt … »Sie lehnen den Auftrag
 doch nicht ab, Herr Schraut?« fragte er ängstlich …
 
-»Nein … — Haben Sie die Polizei schon verständigt«
+»Nein … — Haben Sie die Polizei schon verständigt?«
 
 »Ah bah — — lächerlich — — — Polizei!! Was die
 schon ausrichten!! — Nein, werde mich hüten, unfähige
@@ -436,10 +436,10 @@ vorgestreckt … Jede seiner Bewegungen verriet Kraft und
 Gewandtheit trotz des massigen, plumpen Leibes …
 
 Und wie ich ihm so nachblickte, sah ich drüben auf der
-anderen Seite der Straße einen alten Blondbärtigen Herrn
+anderen Seite der Straße einen alten graubärtigen Herrn
 stehen …
 
-Vor Herr machte mir verstohlen ein Zeichen: Harst!
+Der Herr machte mir verstohlen ein Zeichen: Harst!
 
 Da begriff ich: er wollte hinter Torelli drein!
 
@@ -451,7 +451,7 @@ Das Abteil Zweiter war gerammelt voll. Ich mußte
 stehen. Der sonnige Julitag hatte eine Unmenge Ausflügler
 auf die Beine gebracht, zumeist Leute, die sich in jener
 gehobenen: »Sonntagsstimmung« befanden, die anderen schwer
-an die Nerven geht. Sogenannte Witzbolde gibt es ja Überall.
+an die Nerven geht. Sogenannte Witzbolde gibt es ja überall.
 Ich war nicht gerade in der Stimmung, diese Art
 Humor angenehm zu empfinden. Ich wollte mir den Fall
 »Bara Ecke«, denn die Glücksnuß schien mir das wichtigste
@@ -486,7 +486,7 @@ mich beobachtete.
 Ein Blick in dieses schmale, rassige Gesicht: es war zweifellos
 Gertrud Torelli!
 
-Sie hatte genau dieselben Augen wie ihr Vater, Genau
+Sie hatte genau dieselben Augen wie ihr Vater, genau
 dieselben starken Augenbrauen, nur fehlte dem Blick das
 Versteckte, Lauernde.
 
@@ -580,7 +580,7 @@ doch unsere Hilfe erbeten hatten!
 Nun hieß es schlau sein …
 
 Durch eine scheinbar ungeschickte Armbewegung stieß ich
-Das Glas um, und der Inhalt ergoß sich auf den Linoleumteppich.
+das Glas um, und der Inhalt ergoß sich auf den Linoleumteppich.
 Ich entschuldigte mich wortreich, während in mir
 tausend Teufel über das enttäuschte Gesicht der Frau Direktor
 hohnlachten …
@@ -652,7 +652,7 @@ Nein — letzteres war wohl ausgeschlossen. Die Inschrift
 auf der Hülle der Kokosnuß bewies, daß Gertrud bisher
 <@pagebreak/>
 über das Schicksal ihres Verehrers und Geliebten (das war
-Berner ihr zweifellos gewesen) völlig im unklaren sein mußte,
+Berner ihr zweifellos gewesen) völlig im unklaren sein mußte.
 
 Auch auf dem Bahnhof nichts von Gertrud …
 
@@ -707,7 +707,7 @@ schossen lautlos hin und her, und um die elektrische Verandalampe
 summten und flatterten große Nachtfalter …
 
 Wir hatten lange Zeit kein Wort mehr gesprochen. Die
-Schwere der Luft benahm uns förmlich den Atem,
+Schwere der Luft benahm uns förmlich den Atem.
 
 Im Eßzimmer schlug die Standuhr elf …
 
@@ -743,7 +743,7 @@ Im Nu schaltete ich die Lampe aus …
 
 Im Nu war ich unten im Hofe, im Garten …
 
-Eine ungeheure Wut kochte in mir … Ich Wußte:
+Eine ungeheure Wut kochte in mir … Ich wußte:
 Windbüchse — — eine Kugel, die meine Schläfe nur gestreift
 hatte — ein feiges Attentat: Torelli natürlich!!
 
@@ -771,7 +771,7 @@ die nichts zu bedeuten habe.
 
 Heimlich aber suchte ich den Fleck, wo die halb fehlgegangene
 Kugel eingeschlagen haben mußte, entdeckte auch
-Die Stelle: neben dem Barometer — nur ein Löchlein in der
+die Stelle: neben dem Barometer — nur ein Löchlein in der
 Tapete!
 
 Wir tranken Zitronenwasser …
@@ -1025,7 +1025,7 @@ Rennboot mit offenbar sehr starkem Motor. Ein dicker
 Wasserschwalch wurde am Heck von der Schraube hochgesogen
 …
 
-»Er!!« sagte Harald nur,
+»Er!!« sagte Harald nur.
 
 »Amalgi?!«
 
@@ -1059,7 +1059,7 @@ Ich bückte mich, trat ein …
 Halbdunkel bisher im Zelte …
 
 Ich … fühlte plötzlich zwei Hände um meinen Hals — —
-Wie Eisenklammern … Ein Hieb — traf meinen Schädel …
+wie Eisenklammern … Ein Hieb — traf meinen Schädel …
 
 Hinter mir ein gurgelnder Schrei …
 
@@ -1231,7 +1231,7 @@ daß dieser Amalgi durch irgendwelche Ereignisse, die einst
 sein Herz vor Schmerz und Trauer zerfleischt haben mußten,
 zum Menschenhasser geworden, — ahnte auch, daß er als
 Chemiker Erfindungen gemacht, von denen niemand etwas
-wußte — nur … seine Opfer, — — wie wir beide Hier, die
+wußte — nur … seine Opfer, — — wie wir beide hier, die
 ein Spiegel zu lebenden Leichnamen verwandelt hatte …
 <@pagebreak/>
 Dabei mochte dieser Teufelsspiegel noch das geringste Kampfmittel
@@ -1288,7 +1288,7 @@ konnte diesem Schurken nicht an die Kehle … Wir wurden
 ja bestimmt beobachtet … Der lebende Tod bedrohte uns in
 jeder Sekunde … Und über uns lachte die Julisonne … In
 den Parkbäumen jubilierten Vögel aller Art … Ein Specht
-Hämmerte am Stumm einer Kiefer … Mein unruhiges Herz
+hämmerte am Stamm einer Kiefer … Mein unruhiges Herz
 in meiner bedrückten Brust aber hämmerte noch schneller …
 — So gingen wir mit Doktor Amalgi, dem Wohltäter von
 Grünheide, über die lange Terrasse zur breiten Steintreppe,
@@ -1296,7 +1296,7 @@ die in die Parkwildnis hinabführte …
 
 <@pagebreak 32/>
 
-<h1>Amalgis Ahnengalerie</h1>
+<h1>Amalgis Ahnengalerie.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1351,7 +1351,7 @@ Satan Amalgi nachgeschaut … Ich wandte den Kopf und
 blickte nun den Freund fragend an — den Freund, der …
 helfen sollte …!
 
-Er nickte mir Zu … ernst, aber doch mit einem unerbittlichen
+Er nickte mir zu … ernst, aber doch mit einem unerbittlichen
 Lächeln um die Lippen, das mir Mut machen sollte.
 
 »Erzähle …« sagte er, nahm sein Zigarettenetui und
@@ -1359,7 +1359,7 @@ holte einer seiner Mirakulum hervor …
 
 »Da — bediene dich gleichfalls, mein Alter …«
 
-Ich ging und setzte mich Neben ihn in die Ecke des
+Ich ging und setzte mich neben ihn in die Ecke des
 Miniaturklubsofas …
 
 »Erzähle,« munterte er mich von neuem auf …
@@ -1391,7 +1391,7 @@ freier Platz …«
 
 Wir gingen …
 
-Im Park keine lebende Seele … Bisher Hatte ich hier
+Im Park keine lebende Seele … Bisher hatte ich hier
 nur Amalgi bemerkt, sonst niemand …
 
 Wir setzten uns auf die grün bemooste Steinbank. Fünf
@@ -1419,7 +1419,7 @@ Scheusal … deshalb …«
 Harald atmete schwer. Ich spürte, daß ihm eine starke
 Erregung die Brust beengte …
 
-»unter der Terrasse liegt ein langes Gewölbe … Die
+»Unter der Terrasse liegt ein langes Gewölbe … Die
 Fenster sind vermauert. Aber aus einer Fuge ist der
 Mörtel herausgefallen … Ein schwacher Lichtstreifen erregte
 beim Näherschleichen meine Aufmerksamkeit … So sah ich
@@ -1441,7 +1441,7 @@ demselben unheimlichen starren Zustand, den auch wir durchgekostet
 haben …«
 
 Ich … fror plötzlich, obwohl wir in der prallen Sonne
-Saßen …
+saßen …
 
 »Und der achte … ist Gerhard Berner, mein Alter …
 Gerhard Berner, der diesem Ungeheuer von Amalgi im Wege
@@ -1572,7 +1572,7 @@ Nun — ich hatte diese Verbindung allerdings nicht gesehen
 …! Das war hier jedoch völlig gleichgültig. Die
 Hauptsache blieb: Harald schien trotz aller Hindernisse bereits
 einen Plan entworfen zu haben, wie wir diesem Satan und
-seinen Helfershelfern entschlüpfen könnten,
+seinen Helfershelfern entschlüpfen könnten.
 
 Kein Wunder also, daß sich meine Stimmung augenblicklich
 um einige zehn Grad hob, und daß ich dem sogenannten
@@ -1585,7 +1585,7 @@ Ich muß hier noch erwähnen, daß wir unsere Verkleidung
 vorhin im »Wasserpavillon« insofern abgelegt hatten, als
 wir die falschen Bärte und die Perücken abgenommen hatten,
 da sie uns nur lästig waren und da Amalgi uns in keiner
-Weise nahegelegt Hatte, maskiert zu bleiben. Er hatte uns
+Weise nahegelegt hatte, maskiert zu bleiben. Er hatte uns
 dann jetzt soeben auch mit glatten Gesichtern gesehen und
 nichts dazu gesagt.
 
@@ -1640,7 +1640,7 @@ Dieses Boot stach mir in die Augen … Wenn wir
 damit entwischen konnten, würde uns niemand einholen
 können … Im Nu würden wir aus dem Bereich der geheimnisvollen
 Strahlen des gefährlichen Spiegels sein, der doch
-offenbar nur wirkte, wenn die Strahlen die Augäpfel trafen,
+offenbar nur wirkte, wenn die Strahlen die Augäpfel trafen.
 
 Neben mir jetzt Haralds ärgerliches Raunen:
 
@@ -1695,7 +1695,7 @@ Gesicht hin …
 Eine Stimme flüsterte mir ins Ohr:
 
 »Auf!! Jetzt oder nie!! Es regnet noch stärker … Ich
-habe hier Zwischen unseren Betten eine Art Leiter aus Tischen
+habe hier zwischen unseren Betten eine Art Leiter aus Tischen
 und Stühlen aufgebaut … Gib mir die Hand … Wir
 müssen durch die Dachluke ins Freie … in unseren Schlafanzügen
 — wie wir sind … Wir lassen alles hier, nur die
@@ -1782,7 +1782,7 @@ zwecklos …«
 
 Und … Harald, vom Laternenlicht umspielt, gehorcht …
 
-Ich Begreife nichts …
+Ich begreife nichts …
 
 Wie in aller Welt sind die beiden Halunken an Bord
 gelangt?!
@@ -1925,9 +1925,9 @@ kommen sollte … — Folge mir … Hinein in den Weiher …«
 
 Wir schwimmen …
 
-Vor mir, um mich herum das Dunkel der Unwetternacht,
+Vor mir, um mich herum das Dunkel der Unwetternacht.
 
-Bis meine Hände vor mir etwas Metallisches berühren,
+Bis meine Hände vor mir etwas Metallisches berühren.
 
 Bis Harald mir auf den gewölbten Leib eines merkwürdigen
 Bootes emporhilft …
@@ -2040,7 +2040,7 @@ Haben Sie noch etwas zu fragen?«
 
 Lüttge verneint. Harst hängt ab. Wir bedanken uns
 bei dem Postbeamten und eilen wieder in die laue Julinacht
-Hinaus.
+hinaus.
 
 Das Wetter hat sich nicht geändert …
 
@@ -2063,7 +2063,7 @@ Ich erlaube mir zu fragen: »Und jetzt?«
 
 »Wirklich?!«
 
-»was sonst?! — Unsere Flucht ist nicht entdeckt worden
+»Was sonst?! — Unsere Flucht ist nicht entdeckt worden
 … Wir haben also Aussicht, unbemerkt das U-Boot wieder
 in den Weiher zu bringen und ebenso unbemerkt unser
 Häuschen zu erreichen. Gefahr für uns besteht nicht mehr.
@@ -2262,7 +2262,7 @@ wegwerfenden Handbewegung …
 
 Harald formte einen wohlgelungenen Rauchring … »Ich
 glaube, Herr Doktor, die Nuß ist Ihr Eigentum und Ihnen
-Überaus wertvoll … So wertvoll, daß Sie dieselbe selbst
+überaus wertvoll … So wertvoll, daß Sie dieselbe selbst
 hier in Ihrer Festung nicht für sicher genug halten und sie
 daher Ignaz Torelli zur Aufbewahrung übergaben …«
 
@@ -2385,7 +2385,7 @@ nun sinken, nimmt die Mütze ab …
 
 Es ist Fritz Bechert!! —
 
-Und Harst hebt den linken Arm, beschreibt einen Kreis,
+Und Harst hebt den linken Arm, beschreibt einen Kreis.
 
 Ein längst vereinbartes Zeichen, das bedeutet: Abwarten!!
 
@@ -2450,7 +2450,7 @@ einer kostbaren Filetdecke belegt. Es ist ein Holztisch, morsch,
 alt, verwittert, mit einem einzigen Fuß in der Mitte, einem
 Stück Birkenstamm von Schenkeldicke …
 
-Kaum hat Harald den letzten Satz beendet, als zu Unserem
+Kaum hat Harald den letzten Satz beendet, als zu unserem
 nicht geringen Schreck eine Stimme aus der Mitte der
 Tischplatte ertönt — Amalgis Stimme — durch das weite
 Gewebe der Filetdecke hindurch …
@@ -2597,7 +2597,7 @@ Gulling verschwand blitzschnell …
 <h3>Der treue Hubert.</h3>
 
 An diesem Tage, der mit Sonnenschein begonnen wie so
-viele Tage im Juli, — an Diesem Tage bewies das Wetter
+viele Tage im Juli, — an diesem Tage bewies das Wetter
 abermals seinen betrübenden Wankelmut. Bis drei Uhr
 nachmittags blauer Himmel … Dann eine Wiederholung
 dessen, was die verflossene Nacht gebracht hatte: Regen,
@@ -2662,7 +2662,7 @@ Sprudelt etwas hervor …
 Seine Stimme schnappt über …
 
 Kaum verständlich ist das, was er kreischt … Amalgi
-Habe sich mit Traude in das große Gartenhaus begeben,
+habe sich mit Traude in das große Gartenhaus begeben,
 das er als Flitterwochennest heute hergerichtet habe …
 Amalgi sei toll vor Begehrlichkeit … Wollte nichts mehr
 wissen von Festessen und grauenvollen, uns beiden zugedachten
@@ -2686,7 +2686,7 @@ Schildwache hier — Liebeswächter …
 Hat das Teufelsinstrument in der Hand … Ein gleißenden
 Strahl fährt über unsere Gesichter hin …
 
-Ohne Erfolg … — Harst schlägt zu … Der Alte Taumelt
+Ohne Erfolg … — Harst schlägt zu … Der Alte taumelt
 in die nassen Büsche …
 
 Weiter …
@@ -2737,7 +2737,7 @@ Und doch — schon ist’s zu spät, das zu verhüten, was
 notwendig erfolgen mußte, da Harald in der Handhabung
 des teuflischen Instruments noch zu wenig bewandert war.
 
-Harst hatte den kleinen Apparat eingeschaltet Gehabt,
+Harst hatte den kleinen Apparat eingeschaltet gehabt,
 hatte — ein Zufall — den Strahl über Amalgis Gesicht
 hingleiten lassen …
 
@@ -2852,7 +2852,7 @@ nahe zu gehen schien, daß durch seine Schuld Amalgi in
 diesen totenähnlichen Zustand versetzt worden war …
 
 Schweigend legten wir abermals den Weg nach dem
-Gartenhause zurück
+Gartenhause zurück.
 
 Und … faden die Bank leer …
 
