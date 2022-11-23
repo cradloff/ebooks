@@ -160,7 +160,7 @@ einmal befassen könnten. Merkt er, daß Sie hinter ihm
 her sind, wird er auch Mittel und Wege finden, Sie beide
 stumm zu machen. Fahren Sie auf keinen Fall als Harst
 und Schraut nach Grünheide und … beachten Sie den
-Turm in der Waldstraße.«
+Turm in der Waldstraße.
 
 <@pagebreak/>
 »Hm — allerhand!!« meinte Harald, als er nun die
@@ -232,7 +232,7 @@ gelöst haben
 mit einem altmodischen Manegenkratzfuß mir vor.
 
 »Max Schraut.« nannte ich meinen Namen und fügte
-sofort hinzu, da Herr Torelli sich suchend im Herrenzimimer
+sofort hinzu, da Herr Torelli sich suchend im Herrenzimmer
 umschaute und offenbar Harsts Abwesenheit peinlich
 empfand …! »Mein Freund Harsts ist leider stark erkältet
 und hat sich zu Bett legen müssen.«
@@ -404,7 +404,7 @@ Umgebung ganz so belassen, wie Sie ihn gestern abend erbrochen
 vorfanden?«
 
 »Gewiß … Ich habe den betreffenden Raum des Wohnwagens
-abgeschlossen …
+abgeschlossen …«
 
 »Dann bin ich bereit, Sie nach Werder zu begleiten und
 mir den Tatort anzusehen, Herr Torelli. Vielleicht kann
@@ -868,7 +868,7 @@ leuchten aus frischem Grün hervor …
 Dann — Erkner … Man steigt aus, stutzt … Ein unangenehm
 scharfer Geruch umweht den Ausflügler: Fabrikdünste!
 Aber dort blinken bereits helle Wasserstreifen …
-Blitzsaubere Kaffeegärten lassen auf starken Soanntagsverkehr
+Blitzsaubere Kaffeegärten lassen auf starken Sonntagsverkehr
 schließen. — Ich frage mich zur Motorbootstation durch …
 Habe noch Zeit … Aber — kein Harst zu sehen … Nirgends
 … Ich sitze auf einer Bank, neben mir den Koffer
@@ -1182,7 +1182,7 @@ Ich … war wach … war befreit von der gräßlichen Erstarrung
 
 Auch Harald …
 
-Neben uns sagte Doktor Amalqgi …:
+Neben uns sagte Doktor Amalgi …:
 
 »Sie haben nun einen geringen Beweis dessen erhalten,
 was ich vermag … Ich hoffe, daß Sie beide fernerhin nie
@@ -1609,7 +1609,7 @@ Ihnen, daß Sie Ihre Bärte und Perücken stets anlegen,
 wenn Sie sich dem Seeufer nähern wollen …«
 
 »Wie Sie wünschen, Herr Gulling,« erwiderte Harald
-höflich … Und fügte hinzu: Ich gehe wohl nicht fehl,
+höflich … Und fügte hinzu: »Ich gehe wohl nicht fehl,
 <@pagebreak/>
 wenn ich annehme, daß der Angler dort beständig telephonische
 Verbindung mit der Villa unterhält …«
@@ -2176,7 +2176,7 @@ Er … war im Frack … Mit weißer Binde … Im
 Knopfloch des Frackaufschlages ein Myrrthensträußchen …
 
 Tadellose Figur machte er im Frack … Der Neid mußte
-es ihm lasen … «
+es ihm lasen …
 
 Wiederholte: »Guten Morgen … Sie dürfen mir gratulieren,
 meine Herren … Ich bin glücklicher Ehemann …
@@ -2212,7 +2212,7 @@ angezapft habe, und jedes Gespräch mit anhören kann …
 Ich sagte Ihnen ja: Ich habe mich gesichert — — auch
 heute! … So habe ich mir zum Beispiel erlaubt, an Kommissar
 Doktor Lüttge eine Depesche folgenden Wortlauts zu schicken:
-»In bewußter Sache vorläufig nichts unternehmen. Harst»
+»In bewußter Sache vorläufig nichts unternehmen. Harst«
 Mithin bleiben wir hier hübsch unter uns, meine Herren,
 und wir können das Hochzeitsfest ungestört bis zur Neige
 auskosten …«
@@ -2596,38 +2596,38 @@ Gulling verschwand blitzschnell …
 <h2>5. Kapitel.</h2>
 <h3>Der treue Hubert.</h3>
 
-An diesem Tage, der mit Sonnenschein begonnen wie [so
+An diesem Tage, der mit Sonnenschein begonnen wie so
 viele Tage im Juli, — an Diesem Tage bewies das Wetter
-Absturz!verloren betrübenden Wankelmut. Mais drei Uhr
-nachmittaa& blauer Himmel … Dann eine Wiederholung
-dessen, was die verflossene Nacht gebracht hatte: Gegen,
+abermals seinen betrübenden Wankelmut. Bis drei Uhr
+nachmittags blauer Himmel … Dann eine Wiederholung
+dessen, was die verflossene Nacht gebracht hatte: Regen,
 Sturm, Gewitter!
 
 Wir beide saßen in unserem Häuschen über dem Weiher,
 warteten …
 
 Um neun Uhr sollte das Festessen beginnen … Amalgi
-Spalte uns holen la’sson, wenn es Zeit sei … So hatte er
-za7us dich den Suchen befohlen.
+wollte uns holen lassen, wenn es Zeit sei … So hatte er
+uns durch den Buckligen befohlen.
 
-Wir warteten
+Wir warteten …
 
-Meine Neben waren durch; ein Ucebermaß von Kognak
+Meine Nerven waren durch ein Übermaß von Kognak
 <@pagebreak/>
-wieder fügsam geworden, nachdem die neue freudiger Lebens
-hinschlug vor der Benus&siatue mich in einen Gauner von
+wieder fügsam geworden, nachdem die neue freudiger Überraschung
+vor der Venusstatue mich in einen Taumel von
 Siegesbewußtsein versetzt hatte.
 
 Warteten …
 
 Längst war’s neun Uhr vorüber …
 
-Die »Batterien des Zimmern feuerten noch immer donnern
-Horn Tabak zu Traudes Hochzeitsabend …
+Die Batterien des Himmels feuerten noch immer donnernden
+Salut zu Traudes Hochzeitsabend …
 
 Traude …!! So war sie auf dem Zettel genannt worden,
-»der dem grünen Päckchen beigefügt war, das mit ein
-vor wahnwitziger Eifersucht Halbirrer in. einem Moment eigener,
+der dem grünen Päckchen beigefügt war, das uns ein
+vor wahnwitziger Eifersucht Halbirrer in einem Moment eigener,
 freier Willenbetätigung zugeworfen hatte …
 
 Traudes Hochzeitsabend …
@@ -2636,70 +2636,69 @@ Sturm, Gewitter … —
 
 Der Park schwimmt vor Nässe …
 
-Die Bäume scheinen zu weinen … Jedes Platz vergießt
+Die Bäume scheinen zu weinen … Jedes Blatt vergießt
 Tränen …
+
 Arme Traude! Sie hat Gerhard Berner geliebt … Und
-hat Bettler Georg Amalgi heiraten müssen … Gestern
-standen Juli) … Heute kindlich … Und nun sich: ihre
-Hochz3eit&nact bevor …
+hat Doktor Georg Amalgi heiraten müssen … Gestern
+standesamtlich … Heute kirchlich … Und nun steht ihre
+Hochzeitsnacht bevor …
 
-Diese Tracht ist bereits angebrochen …
+Diese Nacht ist bereits angebrochen …
 
-Das pechschwarze Gewölk, das den Himmel in ein Sarg
-»Tuch verwandelt. täuscht eine weit spätere Stunde vor»…
+Das pechschwarze Gewölk, das den Himmel in ein Sargtuch
+verwandelt, täuscht eine weit spätere Stunde vor …
 
-Halb zehn ist’s fest …
+Halb zehn ist’s jetzt …
 
-3:54 habe soeben nach der Uhr gesehen …
+Ich habe soeben nach der Uhr gesehen …
 
-Da wird die Eingangstür Aufsehen …
+Da wird die Eingangstür aufgerissen …
 
-Herein stürzt der leichenhafte Gulling»…
+Herein stürzt der leichenhafte Gulling …
 
-Bruders etwas hervor …
+Sprudelt etwas hervor …
 
 Seine Stimme schnappt über …
 
-Kaum verständlich ist da?, was er kreischt … Angebot
-Habe sich mit Traude in d-3. große Gatte trug Spielen,
-das er als Flitterwochennest heute ’ hergerichtet habe …
-Amalgi sei toll vor Begehr Abteil … Wo!!Genick:8 mehr
-wi; sen von Festessen und grauenvollen, uns beiden zugqee
-Suchten Überreich;Augen … Amalgi suche Traude zu ehrlicher
+Kaum verständlich ist das, was er kreischt … Amalgi
+Habe sich mit Traude in das große Gartenhaus begeben,
+das er als Flitterwochennest heute hergerichtet habe …
+Amalgi sei toll vor Begehrlichkeit … Wollte nichts mehr
+wissen von Festessen und grauenvollen, uns beiden zugedachten
+Überraschungen … Amalgi suche Traude zu ehrlicher
 Fügsamkeit zu zwingen …
 
 <@pagebreak/>
 Das treibt uns hoch …
 
-»Sie bleiben hier, Gulling …«.Gesicht Harald …
-Unter dem Rad trägt er den Starrkrampf- Ton … Und im
-Hausen setzen wir nun die Gimmerbrillen auf …
+»Sie bleiben hier, Gulling …« befiehlt Harald …
+Unter dem Rock trägt er den Starrkrampf-Fön … Und im
+Laufen setzen wir nun die Glimmerbrillen auf …
 
-Negetnpause …
+Regenpause …
 
 Auf dem Wege zum großen Gartenhaus tritt uns der
-alte Hubert Kollegen …
+alte Hubert entgegen …
 
-Schildwache hier — Liche3wächter …
+Schildwache hier — Liebeswächter …
 
-Hat das Teouselsinstrument in der Hand … Ein Sterbens
-der Strahl Fahrt über unsere Gesichter hin …
+Hat das Teufelsinstrument in der Hand … Ein gleißenden
+Strahl fährt über unsere Gesichter hin …
 
-Ohne Erfolg … — Harst schlägt zu … Der Alte Taus
-
-versammelt in die nassen »Büsche …
+Ohne Erfolg … — Harst schlägt zu … Der Alte Taumelt
+in die nassen Büsche …
 
 Weiter …
 
-Dort das zierliche Gartenhaus…absichtlich im bescheidenen
-Vauernsiil aufgeführt »… Die Fenstervorhänge geschlossen
-
+Dort das zierliche Gartenhaus, absichtlich im bescheidenen
+Bauernstil aufgeführt … Die Fenstervorhänge geschlossen
 … matt erleuchtet …
 
 Gerade jetzt öffnen sich die schwarzen Schleier des
-Firmament … Durch) die Luke grinst die Mondsichel hims-durch
-… Gelbgrünen, fahler Schimmer des Nachtgeitirns-fällt
-auf den Vorplatz …
+Firmaments … Durch die Lücke grinst die Mondsichel hindurch
+… Gelbgrüner, fahler Schimmer des Nachtgestirns
+fällt auf den Vorplatz …
 
 Wir hören einen schrillen Schrei — —
 
@@ -2707,24 +2706,24 @@ Wir hetzen weiter …
 
 Harst bemüht sich nicht erst, die Tür zu öffnen …
 
-Harst wirst sich mit dem Russen gegen eins der niedrigen
+Harst wirft sich mit dem Rücken gegen eins der niedrigen
 Fenster …
 
 Glas splittert … Der Holzrahmen fliegt nach innen
-…» Gardinen, Verbände prasseln herab …
+… Gardinen, Vorhänge prasseln herab …
 
-In Nu sind wir in dem traurig) eingerichteten Zimmer …
+In Nu sind wir in dem traulich eingerichteten Zimmer …
 
-Zu« ins, Geschirr- ck, müdes Witz …
+Luxus, Geschmack, mildes Licht …
 
-In einem weichen Brokatsessel Traude im Hochzeit«.
-Staat …
+In einem weichen Brokatsessel Traude im Hochzeitsstaat
+…
 
-Altan lehnt am hellen Kachelkamin …
+Amalgi lehnt am hellen Kachelkamin …
 
 Beide starren uns an …
 
-Anglotzt ist Mitfuhr … Auf seiner Stirn stehen nickte
+Amalgi ist aschfahl … Auf seiner Stirn stehen dicke
 Schweißtropfen … Er sieht in Haralds Hand den gefährlichen
 <@pagebreak/>
 Spiegel, sieht unsere Brillen, weiß, daß das Spiel
@@ -2732,155 +2731,157 @@ zu Ende ist … endgültig …!
 
 Aber — das, was wir hier zu finden erwartet hatten,
 gefürchtet hatten, entsprach in nichts unseren durch Gulling
-gewebten Befürchtungen …
+geweckten Befürchtungen …
 
-Und da) — [Schon ist’s zu spät, das zu verhüten, was
+Und doch — schon ist’s zu spät, das zu verhüten, was
 notwendig erfolgen mußte, da Harald in der Handhabung
 des teuflischen Instruments noch zu wenig bewandert war.
 
-Harst hatte den kleinen Apparat ein32schaltet Gehabt,
-hatte — ein Zufall — den Strahl über Anglotzte Gesicht
+Harst hatte den kleinen Apparat eingeschaltet Gehabt,
+hatte — ein Zufall — den Strahl über Amalgis Gesicht
 hingleiten lassen …
 
 Was geschah?
 
-Amalgi zu! zusammen …
+Amalgi zuckt zusammen …
 
 Wankt … Ich springe zu, fange den Stürzenden auf,
-Kasse ihn auf einen Stuhl gleiten …
+lasse ihn auf einen Stuhl gleiten …
 
-Traude Torelli, nein. doch schon Traude Amalgi, weint,
-und hat die schlanken Hände vor das Gereiht qeodrückt …
+Traude Torelli, nein doch schon Traude Amalgi, weint,
+und hat die schlanken Hände vor das Gesicht gedrückt …
 
-Harald steht ratlos- da … Niemals hat es in seiner
+Harald steht ratlos da … Niemals hat es in seiner
 Absicht gelegen, den Doktor in dieser Weise außer Gefecht zu
-Seen, zumal die Szene, die wir hier vorfanden. durchaus
+setzen, zumal die Szene, die wir hier vorfanden, durchaus
 nicht dem entspricht, was des leichenhaften Gulling vor
 krankhafter Eifersucht überhitzte Phantasie gefürchtet hatte …
 
 Harald rafft sich auf …
 
-»Frau Gertrud Knall …!?«
+»Frau Gertrud Amalgi …!!«
 
-Das wirkt … Sie läßt die Hände sinken, sagst sofort
+Das wirkt … Sie läßt die Hände sinken, sagt sofort
 ohne jede weitere Aufforderung:
 
-Doktor Amalgi ist vielleicht mehr zu bedauern als
-zu Vorurteilen. Herr Harst. Er hat mir soeben ewige LeobenS8-aof
-Hirte er320hlt; von der ich by?her nichts wußte … Denken
-Sie: seine Verwandten hatten ihn, als er vor fünf Schien
-»einen Opfer beerbte, und die anderen leer ausruhen, durch
-verwerfliche Madzensckyiten in ein Frau)aus einstellen
-»lassen und sich des Erbes bemächtigt, Erst vor Jude«:halb
-— Jahren gelang es ihm, die Freiheit und sein Herr:Garn
-»zurückzuerhalten. Körperlich und seelisch gebrochen, sich
+»Doktor Amalgi ist vielleicht mehr zu bedauern als
+zu verurteilen, Herr Harst. Er hat mir soeben seine Lebensgeschichte
+erzählt, von der ich bisher nichts wußte … Denken
+Sie: seine Verwandten hatten ihn, als er vor fünf Jahren
+einen Onkel beerbte, und die anderen leer ausgingen, durch
+verwerfliche Machenschaften in ein Irrenhaus einsperren
+lassen und sich des Erbes bemächtigt. Erst vor anderthalb
+Jahren gelang es ihm, die Freiheit und sein Vermögen
+zurückzuerhalten. Körperlich und seelisch gebrochen, verließ
 er die Anstalt. In seinem Herzen war nur noch ein Gefühl
 <@pagebreak/>
-lebendig: Haß gegen die sieben Leute, die seines Glücks waren
+lebendig: Haß gegen die sieben Leute, die seines Bluts waren
 und trotzdem an ihm wie Mörder gehandelt hatten. Mit
 Hilfe meines Vaters, den er von früher her kannte, brachte
-er seine Seiner in leise Gewalt, ÜUnseligerweise verliebte
-er sich dann in mich, und war in dieser Liede ebenso hügelige
-wie in seiner Rachsucht. Leute, als ich ihm hier erklärte,
-ich würde nicht eher töten, als mich ihm jemals ohne
+er seine Feinde in seine Gewalt. Unseligerweise verliebte
+er sich dann in mich, und war in dieser Liebe ebenso zügellos
+wie in seiner Rachsucht. Heute, als ich ihm hier erklärte,
+ich würde mich eher töten, als mich ihm jemals ohne
 Zwang hingeben, erwachte das Gute in ihm … Kurz bevor
-Sie beide Stier eintraten, versprach; er mir, mich freizus-geben
-und nur G?»9.1:3 Berner wieder in? Leben zurückzurufen
-… Ich kenne jetzt auch setzte so überaus gefährliche
-Entführung, den Sccaylenapparat, weiß jedoch nicht, wie man
-die von: S:zerstampft Befallenen wieder er weder kann«…«
+Sie beide hier eintraten, versprach er mir, mich freizugeben
+und auch Gerhard Berner wieder ins Leben zurückzurufen
+… Ich kenne jetzt auch seine so überaus gefährliche
+Erfindung, den Strahlenapparat, weiß jedoch nicht, wie man
+die vom Starrkrampf Befallenen wieder erwecken kann …«
 
-Harst erwiderte rote: »Wahrsäjeinlich ist Gulling eins
-geweiht … Wir werden Gulling holen »… Wir sind sofort
+Harst erwiderte rasch: »Wahrscheinlich ist Gulling eingeweiht
+… Wir werden Gulling holen … Wir sind sofort
 wieder da …«
 
 Aber Traude Torelli umklammerte angstvoll Haralds
-Arm … »Sein — nein, — nehmen Sie Amalgi mit …
-Lassen Sie mich nicht mit ihm allein … Ein Kauerte; es
-Grauen Pakt mich beim Anblick dieser leblosen Gestalt
+Arm … »Nein — nein, — nehmen Sie Amalgi mit …
+Lassen Sie mich nicht mit ihm allein … Ein namenloses
+Grauen packt mich beim Anblick dieser leblosen Gestalt …«
 
-So geschah’s denn, dar wir Amalgi draußen vor dem
-Häuschen auf die Bank setzten … Traude Bai ui!3 noch, ihm
-die weit offene: elenden Nu gen zu verbinden, da sie besitzt::.Mr
-wußte, daß bog den Motndliczt den in dieser Weise Betäubten
-Dietrich: das Sehvermögen fanden könnte …
+So geschah’s denn, daß wir Amalgi draußen vor dem
+Häuschen auf die Bank setzten … Traude bat uns noch, ihm
+die weit offenstehenden Augen zu verbinden, da sie bestimmt
+wußte, daß besonders Mondlicht den in dieser Weise Betäubten
+vielleicht das Sehvermögen rauben könnte …
 
 Wir eilten nun der Villa zu … Suchten Gulling …
-Fanden nur das Ehepaar Torelli, das vor:iz verstört im
+Fanden nur das Ehepaar Torelli, das völlig verstört im
 Salon saß … — Der Zirkusdirektor teilte uns zögernd mit,
-daß vor vorigen Minuten die in dem Gewölbe ruhenden
-acht Leute, also nicht Seiner, durch Gulling wieder ins
-Genußsucht: zurückgerufen worden seien, und daß sowohl diese
+daß vor wenigen Minuten die in dem Gewölbe ruhenden
+acht Leute, also auch Berner, durch Gulling wieder ins
+Bewußtsein zurückgerufen worden seien, und daß sowohl diese
 acht als auch die drei Diener die Villa fluchtartig verlassen
 hätten …
+
 Schleunigst kehrten wir nun zu dem Gartenhäuschen
-zurück … Da? Gewalt am Himmel hatte sich noch mehr zerteilt,
+zurück … Das Gewölk am Himmel hatte sich noch mehr zerteilt,
 der Mond leuchtete hell und klar …
 
 <@pagebreak/>
-Schon von weitem vernahmen wir da, als wir u18 dem
-Häuschen näherten, eine überlaute, uns fremde Statue …
+Schon von weitem vernahmen wir da, als wir uns dem
+Häuschen näherten, eine überlaute, uns fremde Stimme …
 
-Erblickten dann ein Bild, das mit zu lag;cyem Tagereisen
+Erblickten dann ein Bild, das uns zu raschem Eingreifen
 veranlaßte …
 
-Vor dem Häuschen im nassen Oase lag Traude Torelli
-in ihrem Hochzeitskleide vor,«… Gerhard Berner auf den
+Vor dem Häuschen im nassen Grase lag Traude Torelli
+in ihrem Hochzeitskleide vor … Gerhard Berner auf den
 Knien …
 
-Berner, dem während sei:!es kataleptischen Schlafes ein
+Berner, dem während seines kataleptischen Schlafes ein
 langer Bart gewachsen war und der sich in der Eile ein
-wohl dem Doktor gehöriges Ja schützen aufdteitäivt hatte,
-machte hier der Geliebten in würziger Beriennaig der Sachlage
-eine wilde Eifersuchtsszene -5’…
+wohl dem Doktor gehöriges Jägerhütchen aufgestülpt hatte,
+machte hier der Geliebten in völliger Verkennung der Sachlage
+eine wilde Eifersuchtsszene …
 
-Wir traten aus den Häuschen heraus, und durch wenige
-Sätze hatte Harald den eiersüc3.leer Jongleur davon überzeugt,
-Baß Traude rum Monat Dir Freude Zu Ihr Jude
-… Wir geleiteten das Bar zur Villa und des:Toten hier
-den alten Torelli, ob er nicht wüßte, wie man Üutaigi wieder
-ernstem! könnte. Er verneinte …
+Wir traten aus den Büschen heraus, und durch wenige
+Sätze hatte Harald den eifersüchtigen Jongleur davon überzeugt,
+daß Traude ihm niemals die Treue gebrochen habe
+… Wir geleiteten das Paar zur Villa und befragten hier
+den alten Torelli, ob er nicht wüßte, wie man Amalgi wieder
+erwecken könnte. Er verneinte …
 
-»Ich weiß nur, Herr Harst, daß die Hurra So!’o über
-Schuß:maß regeln gern die Strahlen Aufschluß gebe! kann
-… Sie Muß hat Amalgi mir zur Naibewahruig seinerzeit
+»Ich weiß nur, Herr Harst, daß die Bara-Koko über
+Schutzmaßregeln gegen die Strahlen Aufschluß geben kann
+… Die Nuß hat Amalgi mir zur Aufbewahrung seinerzeit
 ausgehändigt …«
 
-»nun werten Vorlaut und ich den Toter zuerst eins
-mal hier ins Haus traten,« meinte Bald, den 28 sehr
-nahe zu Sachen hätten, d:3y durch s’iuie Sähjzuld Amalgi in
-diesen totenähnlichen Zustand wechselt worden war …
+»Dann werden Schraut und ich den Doktor zuerst einmal
+hier ins Haus tragen,« meinte Harald, dem es sehr
+nahe zu gehen schien, daß durch seine Schuld Amalgi in
+diesen totenähnlichen Zustand versetzt worden war …
 
-Ewmweigetd letzten wir abernmnal8 den Weg nach dem
-Gartoihäiuie zurück
+Schweigend legten wir abermals den Weg nach dem
+Gartenhause zurück
 
-Ulk … faden Ei? Wink leer …
+Und … faden die Bank leer …
 
-Wald war verschwunden
+Amalgi war verschwunden …
 
-Gut der Bank lag ein Zettel — flüchtig mit Bleistift
-verstrichen:
+Auf der Bank lag ein Zettel — flüchtig mit Bleistift
+beschrieben:
 
-Herr Harst, der alte Bruders hat mir doch die Treue
-bewahrt und mich gerettet! Sicher Sie nicht weiter naß
-uns … Wir sind mit dem U-Boot auf und davon, Traube
-einen letzten Gruß! Moose sie mit Berner glücklich werden!
+> Herr Harst, der alte Hubert hat mir doch die Treue
+bewahrt und mich gerettet! Suchen Sie nicht weiter nach
+uns … Wir sind mit dem U-Boot auf und davon. Traude
+einen letzten Gruß! Möge sie mit Berner glücklich werden!
 <@pagebreak/>
-Oder meinen Verwandten einen Flur über alle
+Aber meinen Verwandten einen Fluch über alle
 Ewigkeit hinaus!! — Georg Amalgi.
-— Es stimmte: das U-Boot war aus dem Weiher ver-schwuiden!
+
+— Es stimmte: das U-Boot war aus dem Weiher verschwunden!
 
 Von Amalgi und dem alten Hubert hörte man lange Zeit
 nichts. Gulling und der Diener, die ihrem Herrn noch eine
 größere Geldsumme gestohlen hatten, entgingen genau so
-allen polizeilichen Nachforschungen. Amalgis Verwandte war
-den strafrechtlich zur Verantwortung gezogen. Die Villa in
+allen polizeilichen Nachforschungen. Amalgis Verwandte wurden
+strafrechtlich zur Verantwortung gezogen. Die Villa in
 Grünheide mit dem großen verwilderten Park hat Traude
 später als Amalgis einzige Erbin wieder an den Vorbesitzer
 verkauft. Ihre Ehe mit Amalgi wurde geschieden, da der
-Doktor wert;wunden blieb — genau wie die gefährlichen
-Strahlapparate, über deren Konstruktion noch heute nie
-Näaäherc8 bekannt ist …
+Doktor verschwunden blieb — genau wie die gefährlichen
+Strahlapparate, über deren Konstruktion noch heute nichts
+Näheres bekannt ist …
 
 Amalgi blieb verschwunden …
 
@@ -2889,15 +2890,16 @@ Nicht für uns …
 Wo und wie wir wieder mit ihm zusammentrafen, —
 was er im fernen Lande tat, litt und leidet, das werde ich
 in den nächsten Bänden berichten, so daß der freundliche
-Leser Geolcgenheit sich: ten wird, die geniale Erfindergabe dieses
-geistvollen, im Grunde Unglück Aden Mannce32 noch, wicdergolt
-zu bewundern … Bevor ich jedoch unser Wiedersehen ’ mit
+Leser Gelegenheit finden wird, die geniale Erfindergabe dieses
+geistvollen, im Grunde unglücklichen Mannes noch wiederholt
+zu bewundern … Bevor ich jedoch unser Wiedersehen mit
 dem Doktor hier schildere, muß ich noch einen anderen Kriminalfall
-schriftstellerisQ; verwerten, mit dem wir uns Ende
-Juli zu beschäftigen hatten — eine eigenartige Hochstapler-geschidite,
+schriftstellerisch verwerten, mit dem wir uns Ende
+Juli zu beschäftigen hatten — eine eigenartige Hochstaplergeschichte,
 die mit einem toten Pferde begann und auf einem
-zertrümmerten Flugzeug endete»…
+zertrümmerten Flugzeug endete …
 
-Nächster Band:
-Dämon Rache
+<#import "*/harst.ftl" as harst>
+
+<@harst.naechsterband band="Dämon Rache."/>
 
