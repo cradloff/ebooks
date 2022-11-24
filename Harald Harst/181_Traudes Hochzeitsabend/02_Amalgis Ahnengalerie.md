@@ -114,7 +114,7 @@ regungslos …
 … Ob Amalgi das ahnt, weiß ich nicht mit Bestimmtheit …
 Er hat jedenfalls drei Leute als Diener: den Alten dort,
 einen jüngeren Kerl, der etwas hinkt, und seinen sogenannten
-Famulus, einen bartlosen, schmächtigen, schielenden Menschen
+Famulus<@refnote/>, einen bartlosen, schmächtigen, schielenden Menschen
 mit einem Leichengesicht … — Ich war nachts hier,
 gegen halb elf … Und … fand den Eingang zu der Stätte
 der Lebendig-Toten … Deshalb nannte ich Amalgi ein
