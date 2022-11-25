@@ -1,54 +1,26 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
-Dämon Rache
-
-<@pagebreak/>
-Harald Harst
-Aus meinem Leben
-
-Band: 182
-
-Dämon Rache
-
-Erzählt von —
-Max Schraut
-
-Verlag moderner Lektüre Zog. in. b. H.
-Berlin so 16, Michaelkirchstraße so
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, einschl da Dersilwinas-tecgt,
-Boricyalem. — Copyright 1246 by Betrat UvoIcducl
-Geraume G. vi. vZ., Genick,
-
-…
-
-Druck: P. Lehmann, G. in. b. H., Berlin.
-
-<@pagebreak/>
+<h1>Dämon Rache.</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>Die tote Liese! -:.</h3>
+<h3>Die tote Liese.</h3>
 
-[SW
-
-	—…
-
-Hm gewlitterreiczen Fall war’s …
+Im gewitterreichen Juli war’s …
 
 In einer Gewitternacht …
 
-Wochen)wäre das Firmament … Ganze -Garben von
-Blitzen fuhren Bibel diese!Schwarzen Wächter hin, mit denen
-der Himmel wie eine Grabkapelle verhängt zu sein sie! …
+Pechschwarz das Firmament … Ganze Garben von
+Blitzen fuhren über diese Schwarzen Tücher hin, mit denen
+der Himmel wie eine Grabkapelle verhängt zu sein schien …
 
-Und wenn diese leuchtenden Plammeninien aufzucken
-und für. Sekunden die Umgebung« der Büsche aus der
-Finsternis jählings belauert;sen, jener Büsche, in denen wir
+Und wenn diese leuchtenden Flammenlinien aufzuckten
+und für Sekunden die Umgebung der Büsche aus der
+Finsternis jählings herausrissen, jener Büsche, in denen wir
 beide nun schon drei Stunden kauerten, — dann erkannte ich
-fünf Eden!! vor mir auf dem lehmigen, vor Nötige glänzenden
+fünf Schritt vor mir auf dem lehmigen, vor Nässe glänzenden
 Boden der Sandgrube das armselige Etwas mit den gen
-Himmel jenes ten Beinen: ein Pferd, das am vergossenen
+Himmel gereckten Beinen: ein Pferd, das am vergangenen
 Tage hier vom Blitz erschlagen worden war …
 
 Nur ein totes Pferd …
@@ -56,27 +28,27 @@ Nur ein totes Pferd …
 Nur …
 
 <@pagebreak/>
-Uns doch der einzige Besitz des alten buckligen Fuhrmanns,
+Und doch der einzige Besitz des alten buckligen Fuhrmanns,
 der hier aus der großen Grube den schneeweißen Sand
 holte, den er dann in den Straßen Berlins verkaufte, — ein
 kläglicher Verdienst, kläglich wie der Bucklige selbst. —
 
-Diese« alte Mann, der nun nichts mehr sein eigen
+Dieser alte Mann, der nun nichts mehr sein eigen
 nannte als einen zweiräderigen Karren und eine baufällige
 kleine Baracke von Haus, fernab von den neueren Gebäuden
-des Berliner Vorortes Altschmargendorf, — dieser Dreckige
-langjährige mit dem Gesicht eines biederen, verwitterten Ehrenmannes,
+des Berliner Vorortes Altschmargendorf, — dieser Siebzigjährige
+mit dem Gesicht eines biederen, verwitterten Seemannes,
 war gestern zu uns gekommen und hatte uns sein
 trauriges und doch auch so aufregendes Erlebnis erzählt …
 
 Sein Erlebnis in der Sandgrube halbwegs zwischen Altschmargendorf
 und dem waldreichen Zehlendorf …
 
-Hatte in Harald Harsts Arbeitszimmer im Klubsessel sei
-sehnt, vielleicht zum ersten Mal in seinem wechselvollen Leben
+Hatte in Harald Harsts Arbeitszimmer im Klubsessel gelehnt,
+vielleicht zum ersten Mal in seinem wechselvollen Leben
 in einem Saffianledersessel, — hatte immer wieder betont,
 daß er uns kein Märchen auftische, so sonderbar sein Abenteuer
-am früher Morgen dieses Tages auch gewesen sei.
+am frühen Morgen dieses Tages auch gewesen sei.
 
 Mit zahnlosem Munde berichtete er in verblüffend fließender
 Darstellung das Erlebte, wenn auch einzelne Worte infolge
@@ -85,41 +57,40 @@ seiner Erregung unverständlich blieben.
 Berichtete …
 
 »Wie immer, Herr Harst, so bin ich auch heute gegen sechs
-Uhr morgenäa von. meinem. Häuschen mit meinem
+Uhr morgens von meinem Häuschen mit meinem
 Wagen nach der Sandgrube aufgebrochen. Der Himmel war
 bedeckt und die Luft unheimlich schwül … Für mich hat diese
-Gewitterschwüle voll mehr unangenehme Nebenwirkungen als
+Gewitterschwüle noch mehr unangenehme Nebenwirkungen als
 für andere. Rheuma, — — na, Sie können sich’s denken,
-Herr Jacht, und dann eine alte Schußwunde in der linken
-Schulter. Doch das sind olle Kamellen — — vorbei, Tore
-über!! Man ist eben ein Wrack …«
+Herr Harst, und dann eine alte Schußwunde in der linken
+Schulter. Doch das sind olle Kamellen — — vorbei, vorüber!!
+Man ist eben ein Wrack …«
 
-»Sie waren Seemann, Herr Schnacks?« warf Harald ein
-und Trifft die Augen nachts mehr zusammen …
+»Sie waren Seemann, Herr Schnack?« warf Harald ein
+und kniff die Augen noch mehr zusammen …
 
 Des Buckligen faltiges Gesicht verzog sich schmerzlich.
-Er nickte. Und dann kam ein Leuchten. in seine Augen, jenes
+Er nickte. Und dann kam ein Leuchten in seine Augen, jenes
 Leuchten, das wie der Widerschein glücklicher Jugendtage ist.
-
 <@pagebreak/>
-Er richtete sich in seinem Sessel höher auf, gab seinem veranstalteten
-Leibe eine anrichtete Haltung und seiner brüchigen
-Stimme mehr Festigkeit. Mit merklichem Stolz er
-widerte er:
+Er richtete sich in seinem Sessel höher auf, gab seinem
+verunstalteten Leibe eine aufrechtere Haltung und seiner brüchigen
+Stimme mehr Festigkeit. Mit merklichem Stolz erwiderte
+er:
 
-… »Niemand sieht’s mir mehr an … Aber — — Kapitän
+»Niemand sieht’s mir mehr an … Aber — — Kapitän
 war ich einst, Kapitän des ersten Viermastschoners, der in
-Deutschland gebaut wurde … Baumvilla ließ es, lief im
-Jahre 1860 bei Drücker u. Coup. in Hamburg vom Stapel
--… Boy — — das sind auch Eile Kamellen, gehören nicht
-hierher … Übrigens, wie fanden Sie mir, dieser morsche
-sicher Ruine, ansehen, daß ich ein seedefahrener Mann bin,
+Deutschland gebaut wurde … Hammonia ließ es, lief im
+Jahre 1860 bei Brücker u. Comp. in Hamburg vom Stapel
+… Doch — — das sind auch olle Kamellen, gehören nicht
+hierher … Übrigens, wie konnten Sie mir, dieser menschlichen
+Ruine, ansehen, daß ich ein seebefahrener Mann bin,
 Herr Harst?«
 
-»Weil Sie in den Ohrläppchen kleine silberne Pistolen
+»Weil Sie in den Ohrläppchen kleine silberne Plättchen
 als Ohrringe tragen, Kapitän — deshalb! Solche Plättchen
-lieben die spanischen Seeleute, und ie gehe wohl nicht setz,
-wenn ich annehme, daß Sie einige Zeit in Konnten oder
+lieben die spanischen Seeleute, und ich gehe wohl nicht fehl,
+wenn ich annehme, daß Sie einige Zeit in Spanien oder
 Portugal gelebt haben …«
 
 Friedrich Schnack senkte die faltigen Lider über die noch
@@ -129,202 +100,204 @@ Lebens … Blieb minutenlang stumm … Begann wieder:
 
 »Also heute früh … Ich hatte in der großen Sandgrube
 gerade die ersten Spatenstiche getan, als von Südwest her
-ein schwarzes Ungetüm von Gewitterwolke herauszog …«
+ein schwarzes Ungetüm von Gewitterwolke heraufzog …«
 
-»Ich weiß, Kapitän … Das Unwetter hat in den Weste
-bisher Vororten böse Verwüstungen angerichtet … Aus
+»Ich weiß, Kapitän … Das Unwetter hat in den westlichen
+Vororten böse Verwüstungen angerichtet … Auch
 unser Garten bekam etwas ab …«
 
-— »Es wurde so finster,« berichtete Schnack, der wieder
+»Es wurde so finster,« berichtete Schnack, der wieder
 wie kraftlos in sich zusammengesunken war, mit der früheren
-murmelnden Stimme weiter, «— [so finster, daß man auf
-fünf Schritt nichts mehr erkennen konnte, Herr Harst. Jahr
-blindlings prasselte dann scharf und Gegen herab … Und diese
-stürzenden Wassermassen zwangen mich, unter meinem« Wagen
-Schuß zu suchen, nachdem ich meine alte Liese mit einen
-Stück Ölleinwand völlig bedeckt hatte, so daß von dir nur
-noch unten die Orte zu sehen waren. So hockte ich denn
+murmelnden Stimme weiter, »— so finster, daß man auf
+fünf Schritt nichts mehr erkennen konnte, Herr Harst. Jählings
+prasselte dann Hagel und Regen herab … Und diese
+stürzenden Wassermassen zwangen mich, unter meinem Wagen
+Schutz zu suchen, nachdem ich meine alte Liese mit einem
+Stück Ölleinwand völlig bedeckt hatte, so daß von ihr nur
+noch unten die Hufe zu sehen waren. So hockte ich denn
 <@pagebreak/>
-unter meinem Karren und hatte mir mein Pfeifchen angestellt,
-holte auf einem großen Stein und um mich herum
+unter meinem Karren und hatte mir mein Pfeifchen angesteckt,
+hockte auf einem großen Stein und um mich herum
 plätscherte, rauschte der Regen … Blitz auf Blitz schoß durch
 die Finsternis … Und doch hörte ich in einer kurzen Atempause
-da Unwetters ganz deutlich das Nattern eines Autos,
+des Unwetters ganz deutlich das Rattern eines Autos,
 eines leerlaufenden Motors. Der Kraftwagen mußte auf
-dem Feldwege dicht vor der: Eingang zu der Sandgrube
+dem Feldwege dicht vor dem Eingang zu der Sandgrube
 halten. Unwillkürlich drehte ich mich da um und wollte nach
-dem Auto ausschauen … Und rollte zwei Leute, eines
+dem Auto ausschauen … Und erblickte zwei Leute, einen
 Herrn und eine Dame in langen Regenmänteln, die, ohne
 mich oder mein Fuhrwerk gewahr zu werden, an dem westlichen
-Abhang sich zu schaffen machten, [sich wiederholt bückten
+Abhang sich zu schaffen machten, sich wiederholt bückten
 und dann eilends wieder verschwanden. Da setzte eine neue
-Regenflut ein … In vernahm das Geräusch des sich er:brennenden
+Regenflut ein … Ich vernahm das Geräusch des sich entfernenden
 Kraftwagens nur ganz schwach … Urplötzlich eine
-Feuergarde — ein Blitz … Ich sank halb betäubt von meinem
+Feuergarbe — ein Blitz … Ich sank halb betäubt von meinem
 Steine in eine lehmige Pfütze, rappelte mich mühsam auf,
-sah … sah … meine alte Liese regung&lo8 am Boden liegen
-… tot — — so! »… erschlagen vom Blitz … — Ich
+sah … sah … meine alte Liese regungslos am Boden liegen
+… tot — — tot … erschlagen vom Blitz … — Ich …
 habe wie ein Kind geweint … Ich bin arm, bettelarm …
 Dachte daran, daß ich mir nun einen kleineren Hundewagen
-
 besorgen müßte, den ich selbst ziehen könnte …«
 
 Seine Stimme zitterte …
-der er überwand die Verziweislung und die Gedanken
 
+Aber er überwand die Verzweiflung und die Gedanken
 an die noch armseligere Zukunft und fuhr festeren Tones
-Ort:
-»Mireist’t unbegreiflich, Herr Harst, wie der Blitz gerade
+fort:
+
+»Mir ist’s unbegreiflich, Herr Harst, wie der Blitz gerade
 in die tiefe Grube hat einschlagen können. Jedes Kind weiß,
-laß der Blitz stets nur erhöhte Gegenstände aufsucht … Nun
+daß der Blitz stets nur erhöhte Gegenstände aufsucht … Nun
 — an dem Unheil war nichts mehr zu ändern … Liese war
 tot … Und als mein erster Schmerz vorüber, da gedachte
-ich der beiden Unbekannten vor! an der Westseite der Lehmwand,
+ich der beiden Unbekannten dort an der Westseite der Lehmwand,
 wo sich zahllose Löcher von Erdschwalben befinden …
 Sie kennen doch Erdschwalben, Herr Harst?«
 
 »Gewiß, Kapitän … Und in einem dieser kunstlosen
 <@pagebreak/>
-Brillanten, (ü einten: dieser &rdschwaibenlöcher haben Sie
-€lLwais Begrüßen, Eid? dieser
+Nestbauten, in einem dieser Erdschwalbenlöcher haben Sie
+etwas gefunden, nicht wahr?«
 
-Friedrich Getüncht Wille. »Ja, leere Harst … Für Sie
+Friedrich Schnack nickte. »Ja, Herr Harst … Für Sie
 war dies nicht schwer zu erraten … Ein Mann wie Sie reimt
-für leicht das Richiikie einsamen. — — Das Gewitter war
-vorüber — genau wie meinte erste siuanlose Verzweiflung über
-Lieses Job … Die Heute [her … Diese lag da, alle Tiere
-gen Himmel gestreckt … Die Sonne schimmerte in den g&
-krochen.:manchen ruhendes braven Tieres …« Er seufzte
-—» « machte mit der Hand eine ärgerliche Bewegung …
+sich leicht das Richtige zusammen. — Das Gewitter war
+vorüber — genau wie meine erste sinnlose Verzweiflung über
+Lieses Tod … Die Sonne schien … Liese lag da, alle Viere
+gen Himmel gestreckt … Die Sonne schimmerte in den gebrochenen
+Augen meines braven Tieres …« Er seufzte
+— -- machte mit der Hand eine ärgerliche Bewegung …
 »Weg mit den Gedanken!!« rief er, als ob er sich selbst einen
-Verweis erteilte. »Ich arg zur Lehmwand … Die Schwalben
-flogen aufgeregt hin und her … O — es Sieb! hübsch
+Verweis erteilte. »Ich ging zur Lehmwand … Die Schwalben
+flogen aufgeregt hin und her … O — es sieht hübsch
 aus, wenn sie so aus ihren Löchern hervorschossen … Es
-ist ein unverfälschtes Bild der Natur … Und — ich des
-Verbitte nun, daß aus einem der Gestochen ein gelber dicken
+ist ein unverfälschtes Bild der Natur … Und — ich bemerkte
+nun, daß aus einem der Nestlöcher ein gelber dicker
 Seidenfaden heraushing … Habe noch tadellose Augen, Herr
-Harst … Ein anderer hätte dein braungelben, lchmfardenen
+Harst … Ein anderer hätte den braungelben, lehmfarbenen
 Faden wohl kaum wahrgenommen … Man konnte ihn
 gerade erreichen, wenn man auf einen mächtigen Feldstein
 stieg, der unten an der Wand lag … Und der Mann im
 Gummimantel hatte auf diesem Steine gestanden … Das
-war mir nicht entgangen. Ich mit meinem Bruder, der von
+war mir nicht entgangen. Ich mit meinem Buckel, der von
 meiner ursprünglichen Länge einige zwanzig Zentimeter genommen
-losgehakt …« — er lachte bitter auf — «— eine stürzende
-Ruck bat mich zum Krüppel geschahen, Herr Harst, vor
-elf zwanzig Jahren, — also ich mußte noch einen anderen
+hat …« — er lachte bitter auf — »— eine stürzende
+Rae hat mich zum Krüppel geschlagen, Herr Harst, vor
+etlichen zwanzig Jahren, — also ich mußte noch einen anderen
 Stein auf den Granitblock legen, um die zu jenem
-Schwalbeuloc& emporstiegen zu können … Ich zog zu dem
+Schwalbenloch emporkriechen zu können … Ich zog an dem
 Faden, zog … dies hier hervor …«
 
-Er suchte in die Tasche, holte eine längliche Blechhülse
-heraus, die an der einen Seite mit einer Orte verloren
-war. In der Gehe hing mochte der etwa vierzig Feinster
+Er faßte in die Tasche, holte eine längliche Blechhülse
+heraus, die an der einen Seite mit einer Öse versehen
+war. In der Öse hing noch der etwa vierzig Zentimeter
 lange Seidenfaden.
 
-Hülse?! — Nein — eine Blechröhre dessen,
+Hülse?! — Nein — eine Blechröhre besser, mit einem
 aufschiebbaren Deckel war’s …
 
 <@pagebreak/>
-Er entfernte den Deckel, warf uns dabei einen wierk-würdigen
-Blick zu und … schüttete, aus dieser Röhre eine
-Anzahl Juwelen auf die bunte Deckte des Tisches.
+Er entfernte den Deckel, warf uns dabei einen merkwürdigen
+Blick zu und … schüttete aus dieser Röhre eine
+Anzahl Juwelen auf die bunte Decke des Tisches.
 
 Juwelen: eine Perlenkette, zwei Brillantarmbänder und
-ein zerbrozenes Diamantendiadem!
-»Bitte, Herr Harst, — dies fand ich! Ct sind die
-Sachen, elf … I0) verstehe etwas davon …!«
+ein zerbrochenes Diamantendiadem!
+
+»Bitte, Herr Harst, — dies fand ich! Echt sind die
+Sachen, echt … Ich verstehe etwas davon …!«
 
 Harald prüfte die Geschmeide.
 
-»Stimmt, lieber Karte:t, — sich!! Und wertvoll. Dieses
-Diadem allein ist seine zweimalhunderitauseud Mark wert
+»Stimmt, lieber Käpten, — echt!! Und wertvoll. Dieses
+Diadem allein ist seine zweimalhunderttausend Mark wert
 … — Mindestens!«
 
-»Also Diebe, die ihre Beate verbargen,« meinte Schnack,
-räusperte sich, fügte zögernd hinzu: »Dies ist vor« nicht
+»Also Diebe, die ihre Beute verbargen,« meinte Schnack,
+räusperte sich, fügte zögernd hinzu: »Dies ist noch nicht
 alles, Herr Harst … Denn ich … fand noch mehr … Und
-gerade d das macht ja mein Erlebnis lö … [9 … uiterflär«
-Harald blickte von den Juwelen, die nun in seinem Suche
+gerade das macht ja mein Erlebnis so … so … unerklärlich
+…«
+
+Harald blickte von den Juwelen, die nun in seinem Schoße
 lagen, fragend auf …
 
-»3, Herr Harst … Als ich von den Steinen wieder
-iherabkletterte, sah im zwischen dem Granitblock und der
-»Lehmwand … dies hier liegen …«
+»Ja, Herr Harst … Als ich von den Steinen wieder
+herabkletterte, sah ich zwischen dem Granitblock und der
+Lehmwand … dies hier liegen …«
 
 Und wieder faßte er in die Tasche …
 
 Ein Glanzlederetui, schmal und länglich, kam zum Vorschein
 …
 
-Stunde klappte es auf. Es enthielt nichts als eine
-Kabine!tphotographie eines vielleicht achtjährigen bildhübschen
+Schnack klappte es auf. Es enthielt nichts als eine
+Kabinettphotographie eines vielleicht achtjährigen bildhübschen
 Knaben, der einen flotten Matrosenanzug trug …
 
 »Sie sehen, Herr Harst, die Firma des Photographen
-Ast unten vom Karton abgeschnitten, und das Lederetui desagt-au
+ist unten vom Karton abgeschnitten, und das Lederetui besagt
 nichts weiter … Ich denke mir, daß die Frau das Etui
-verloren bat, die Genossin des Diebes. — Was soll ich
-nun tun, Herr Harst? Soll. ich die Polizei benachrichtigen?«
+verloren hat, die Genossin des Diebes. — Was soll ich
+nun tun, Herr Harst? Soll ich die Polizei benachrichtigen?«
+
 Harald erwiderte, indem er dem Alten für dessen ausgegangene
 Zigarre ein brennendes Zündholz hinhielt: »Lieber
 Käpten, weshalb halten Sie diesen zweiten Fund, das Bild,
-für Friedens rätselhaft?«
+für besonders rätselhaft?«
 
 <@pagebreak/>
-— Knie jediet’s8, als 992 Friedrich Schnack etwas verlegen
-wurde, Aber sein zahllosen Wund mit den welken Lippen
+Mir schien’s, als ob Friedrich Schnack etwas verlegen
+wurde. Aber sein zahlloser Mund mit den welken Lippen
 zögerte nicht mit der Antwort …
 
-»Ein! solches Stuhl verliert man »nicht. so leicht, Herr
-Harst!! … Und Diebe, meine ich, [schleppen nicht Kinderbilder
-bis ich herum … Das sagt mir mein schlichter Laienverstand,«
+»Ein solches Etui verliert man nicht so leicht, Herr
+Harst … Und Diebe, meine ich, schleppen nicht Kinderbilder
+mit sich herum … Das sagt mir mein schlichter Laienverstand,«
 
-»Ganz reimt … — Lassen wir diese Frage zunächst beiseite,
+»Ganz recht … — Lassen wir diese Frage zunächst beiseite,
 Kapitän … — Weshalb haben Sie sich nicht sofort
-zu die Poliert gewandt«
+an die Polizei gewandt?«
 
-Schnack braune, dürre Hände glitten nervös über das
+Schnacks braune, dürre Hände glitten nervös über das
 weiche Leder der Sessellehnen … »Hm … — weil … weil
-sind mit den Behörden nichts zu tun haben mag, Herr Park!
+ich mit den Behörden nichts zu tun haben mag, Herr Harst.
 Ich … ich … bin … vorbestraft … Nennen Sie mich auch
-nicht Kapitän … Ihr darf den Titel nicht mehr führen …
-Mann hat mir Fahrlässigkeit im Dienst vorgeworfen … Durch
-meine Schuld soll die Hammonia an der s[Schottischen Fühlte
-gestrandet sein … Die ganze Besatzung kam nur — außer
+nicht Kapitän … Ich darf den Titel nicht mehr führen …
+Man hat mir Fahrlässigkeit im Dienst vorgeworfen … Durch
+meine Schuld soll die Hammonia an der schottischen Küste
+gestrandet sein … Die ganze Besatzung kam um — außer
 mir und dem Leichtmatrosen Pedro Saltar, einem Spanier
-
-… ich … habe zwei Jahre im Gefängnis gesessen … Das
-war bar!, sehr hart … Den ich +… War schuldlos«
+… Ich … habe zwei Jahre im Gefängnis gesessen … Das
+war hart, sehr hart … Denn ich … war schuldlos …«
 
 Schweigen …
 
 Dann Harald: »Herr Schnack, Sie wünschen also, daß
-im diese Juwelen der Polizei übergebe und Ihr Erleabuils ohne
-Namenönennung melde?«
+ich diese Juwelen der Polizei übergebe und Ihr Erlebnis ohne
+Namensnennung melde?«
 
-»Hm — 	— wollen Sie nicht lieber selbst die Diebe
-suchen — ebenso die Eigentümer der Juwelen, Herr Harsts
-—» Wozu die Polternd« — Unsicher klang’s … So, als ob
+»Hm — — wollen Sie nicht lieber selbst die Diebe
+suchen — ebenso die Eigentümer der Juwelen, Herr Harst?
+— Wozu die Polizei?!« — Unsicher klang’s … So, als ob
 im Hirn des alten Mannes tausend versteckte Nebengedanken
-
 lebendig waren …
-Ah) wunderte mich. Denn Harald erklärte, er wolle dem
 
+Ich wunderte mich. Denn Harald erklärte, er wolle dem
 Wunsche Schnacks willfahren …
-Wunderte mich mit Rest. (Es war so viel Dunkles, Uns
 
-ausgesprochenes bei alledem …
-Schnack drückte uns dankbar die Hand und schlurfte das
+Wunderte mich mit Recht. Es war so viel Dunkles, Unausgesprochenes
+bei alledem …
 
-von, nachdem Harald ihm noch: angewiesen hatte, das Tode
+Schnack drückte uns dankbar die Hand und schlurfte davon,
+nachdem Harald ihm noch angewiesen hatte, das tote
 <@pagebreak/>
-Pferd vorläufig in der Grube liegen zu lassen und die Ade
-Weberei nicht zu benachrichtigen. Ctu!, B’!d, Röhre und
-Juwelen blieben in unserem Gewahrsaig.
+Pferd vorläufig in der Grube liegen zu lassen und die Abdeckerei
+nicht zu benachrichtigen. Etui, Bild, Röhre und
+Juwelen blieben in unserem Gewahrsam.
 
-<h2>3. Kapitel.</h2>
-<h3>Er Lia Manara.</h3>
+<h2>2. Kapitel.</h2>
+<h3>Lia Manara.</h3>
 
 Das war gegen neun Uhr vormittags.
 
@@ -706,7 +679,7 @@ und Antworten waren ohne Belang. Januar da! Blatt Die
 Diva, uns das Wandfach zu zeigen. — Wir gingen in Lias
 Schlafgemach.
 
-Ich hasse überichwängliche Ausdrücke. Aber dieses Schläfe
+Ich hasse überschwängliche Ausdrücke. Aber dieses Schläfe
 Gemach war ein Gedicht! aus Spitzen, sein abgetönter Farben
 und zartem Duft …
 
@@ -769,7 +742,7 @@ lenkten ein …
 
 »Wir wollen mit offenen Karten spielen,« fügte Harst!
 hinzu, während ich mein von der schweren Betäubung noch
-etwas angegrifsenes Herz schneller schlagen fühlte … vor
+etwas angegriffenes Herz schneller schlagen fühlte … vor
 <@pagebreak/>
 Erwartung, wo was nun folgen würde … »Sie standen gestern
 spät abends in einem Haferfeld unweit des Häuschens eines
@@ -1216,7 +1189,7 @@ Ein Blick nach rechts …
 Harsts Bett!! unberührt?!
 Ich im Nu in die Kleider. Abgabe nach dem alten
 
-Kellner, der ebenso vermutet! ausschaute wie das ganze qe-mintliche
+Kellner, der ebenso vermutet! ausschaute wie das ganze Heimatliche
 Hotel mit seiner entzückenden Aussicht über Hafen
 
 und »Fjord.
@@ -1246,7 +1219,7 @@ Ich bin blaß wie ein Leinentuch … — Es ist Javas? …
 Jeder Zweifel angeschlossen … Es ist der Anzug, der
 Gummimantel, — S4Yuhe, Krawatte, Größe, Hände, — alles
 stimmt. « Freilich, darf Gesicht alt man mehr zu erkennen,
-bildet nur noch eine e?je. blutige, zerfetzte FleisschHmasse. Auch
+bildet nur noch eine e?je. blutige, zerfetzte Fleischmasse. Auch
 die Haarfarbe ist die meines Freundes: dunkelblond, grau
 an den Schläfen!
 
@@ -1281,7 +1254,7 @@ gefährlicher Macht! sofort, inzwischen abgeschüttelt …
 
 »Sauber.), « Tage 1&) dumpf, indem ich auf den auf einem
 
-Tische auszgebreiteten Inhalt der Taschen des Toten deute,
+Tische außgebreiteten Inhalt der Taschen des Toten deute,
 »lieber alter Kamerad und Kollege, — wenn diese Vorgänge
 
 Australien Vergeblichen Reste nicht Harald Harsts Leiche sind,
@@ -1303,7 +1276,7 @@ Wollen Sie etwa -.
 Der Inspektor seufzt … »Es liegt in den Wäldern unendlich
 
 vom Holmenkollen, dem berühmten Ausflugsort … Jeder
-Autohauffeur Fahrt Sieg hin … Über — — eine Bitte:
+Autochauffeur Fahrt Sieg hin … Über — — eine Bitte:
 
 Seien Sie nicht voreilig, Schlau!! Der Prinz ist mit einer
 Schwersten der Herzogin verheiratet und dafür bekannt, daß
@@ -1412,7 +1385,7 @@ Rannte.
 Am Fenster saß ich, in einem jener altertümlichen Sirene
 Sessel, die hier in diesem Hotel aus Ohne Zelten die Kinde
 Fessel vertreten … Rauchte meine Zigarre, meine Spezialmarke,
-eine grünschwarze Qiftnudel, von der Palast stets
+eine grünschwarze Giftnudel, von der Palast stets
 behauptete, sie enthielte mehr Nikotin als handelt seiner
 geliebten Mirakulum. Möglich, daß dies suchte … Obwohl
 Harsts Lieblings;lagerten Fahrt Zug nicht! leicht sind …
@@ -1433,7 +1406,7 @@ ein Schleier … ihm empfand undeutlich, daß in meinem
 Hirn etwas vorging, das nicht mit dem Nikotingehalt der
 Schwerer Sumatra zusammenhängen konnte. Meine Gedanken
 wirbelten wie Papierfetzen, die ein Windstoß in einer
-Straßenecke aufwirbein läßt, durcheinander … Mein Urgroßvatersessel
+Straßenecke aufwirbeln läßt, durcheinander … Mein Urgroßvatersessel
 zeigte Neigung, sie zur Lustschaukel auszubilden.
 
 Was bedeutete das alles?!
