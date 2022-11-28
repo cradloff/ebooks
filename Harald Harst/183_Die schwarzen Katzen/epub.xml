@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">00dd2635-4667-4e54-9b16-b3ca52bf6aeb</entry>
+<entry key="title">Die schwarzen Katzen</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">183</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die schwarzen Katzen.
+
+Der freundliche Leser wird sich aus dem vorletzten Band noch auf die geheimnisvolle und ihrem Charakter nach so widerspruchsvolle Persönlichkeit des Doktor Georg Amalgi besinnen und auf unsere gewiß nicht alltäglichen Erlebnisse dort im verwilderten Parke in dem idyllischen Grünheide.
+
+Amalgi entfloh damals zusammen mit seinem treuen, alten Diener Hubert und mit Hilfe jenes kleinen U-Bootes, das er ganz allein und in aller Heimlichkeit erbaut hatte.
+
+Die Polizei hat alles mögliche versucht, des genialen und verbrecherischen Erfinders wieder habhaft zu werden. Die Öffentlichkeit erfuhr wenig von den geradezu großzügigen Maßnahmen, um Amalgi mit seinem Miniaturtauchboot nach abzufassen, bevor er die Gewässer um Erkner herum verlassen könnte. Handelte es sich doch nicht lediglich darum, den Chemiker selbst wegen seines Vorgehens gegen seine Verwandten und gegen seinen Nebenbuhler zur Verantwortung zu ziehen. In der Hauptsache sprach bei dieser polizeilichen Treibjagd wohl der Wunsch mit, Amalgis gefährlichen Strahlapparat, der jeden Menschen im Moment zu lähmen vermochte, näher kennen zu lernen. Dieser Apparat, dessen furchtbare Wirkung wir ja am eigenen Leibe gespürt hatten, war zweifellos auch von höchster militärischer Bedeutung.
+
+Der neue Graf von Monte Christo.
+
+Und man versetze sich in Gedanken in eine Halle mit bunten Fenstern … Man vergegenwärtige sich das Bild: Ich hinter der Fürstin, sie vor mir, vor ihr mein alter Harald …
+
+Büchse im Arm, rechte Hand am Büchsenschloß …
+
+»Hoheit, Sie werden meinem Freunde sofort die Fesseln abnehmen,« sagte er nun mit derselben Höflichkeit …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (183) Die schwarzen Katzen.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
