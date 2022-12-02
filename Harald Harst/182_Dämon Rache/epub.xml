@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">d55a34b6-8005-4483-8c15-ee709287965d</entry>
+<entry key="title">Dämon Rache</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">182</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Dämon Rache.
+
+Im gewitterreichen Juli war’s. …
+
+In einer Gewitternacht …
+
+Pechschwarz das Firmament … Ganze Garben von Blitzen fuhren über diese schwarzen Tücher hin, mit denen der Himmel wie eine Grabkapelle verhängt zu sein schien …
+
+Und wenn diese leuchtenden Flammenlinien aufzuckten und für Sekunden die Umgebung der Büsche aus der Finsternis jählings herausrissen, jener Büsche, in denen wir beide nun schon drei Stunden kauerten, — dann erkannte ich fünf Schritt vor mir auf dem lehmigen, vor Nässe glänzenden Boden der Sandgrube das armselige Etwas mit den gen Himmel gereckten Beinen: ein Pferd, das am vergangenen Tage hier vom Blitz erschlagen worden war …
+
+Nur ein totes Pferd …
+
+Einer von der Hammonia.
+
+… Ob ich etwa beobachtet würde … — Darauf wollte ich achtgeben …
+
+Überflüssige Mühe … Kein Mensch kümmerte sich um mich … Ich schlenderte durch die Straßen von Oslo, aß im Börsenrestaurant, belauerte jedes Gesicht … Nein, niemand war hinter mir her … niemand. Und am Spätnachmittag saß ich am Fenster unseres Hotelzimmers und überlegte mir, wie jener im Fjord gefundene Tote wohl zu Haralds Kleidern und Tascheninhalt gekommen sein mochte … Eine Frage, die ich mir beim besten Willen nicht beantworten konnte.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (182) Dämon Rache.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
