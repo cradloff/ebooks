@@ -8,7 +8,7 @@ Der freundliche Leser wird sich aus dem vorletzten Band noch auf die geheimnisvo
 
 Amalgi entfloh damals zusammen mit seinem treuen, alten Diener Hubert und mit Hilfe jenes kleinen U-Bootes, das er ganz allein und in aller Heimlichkeit erbaut hatte.
 
-Die Polizei hat alles mögliche versucht, des genialen und verbrecherischen Erfinders wieder habhaft zu werden. Die Öffentlichkeit erfuhr wenig von den geradezu großzügigen Maßnahmen, um Amalgi mit seinem Miniaturtauchboot nach abzufassen, bevor er die Gewässer um Erkner herum verlassen könnte. Handelte es sich doch nicht lediglich darum, den Chemiker selbst wegen seines Vorgehens gegen seine Verwandten und gegen seinen Nebenbuhler zur Verantwortung zu ziehen. In der Hauptsache sprach bei dieser polizeilichen Treibjagd wohl der Wunsch mit, Amalgis gefährlichen Strahlapparat, der jeden Menschen im Moment zu lähmen vermochte, näher kennen zu lernen. Dieser Apparat, dessen furchtbare Wirkung wir ja am eigenen Leibe gespürt hatten, war zweifellos auch von höchster militärischer Bedeutung.
+Die Polizei hat alles mögliche versucht, des genialen und verbrecherischen Erfinders wieder habhaft zu werden. Die Öffentlichkeit erfuhr wenig von den geradezu großzügigen Maßnahmen, um Amalgi mit seinem Miniaturtauchboot noch abzufassen, bevor er die Gewässer um Erkner herum verlassen könnte. Handelte es sich doch nicht lediglich darum, den Chemiker selbst wegen seines Vorgehens gegen seine Verwandten und gegen seinen Nebenbuhler zur Verantwortung zu ziehen. In der Hauptsache sprach bei dieser polizeilichen Treibjagd wohl der Wunsch mit, Amalgis gefährlichen Strahlapparat, der jeden Menschen im Moment zu lähmen vermochte, näher kennen zu lernen. Dieser Apparat, dessen furchtbare Wirkung wir ja am eigenen Leibe gespürt hatten, war zweifellos auch von höchster militärischer Bedeutung.
 
 Daß die Suche nach Amalgi ergebnislos bleib, habe ich schon im vorletzten Band zum Schluß erwähnt, ebenso, daß wir beide, Harald Harst und ich, unter recht seltsamen Umständen mit Amalgi wieder zusammentrafen.
 
@@ -262,7 +262,7 @@ Keinerlei Lebewesen waren sichtbar … Nur die Taubenschwärme umkreisten dort g
 
 Ich war nun im Grunde genommen so klug wie vorher … Mein schöner Plan war ins Wasser gerutscht … Die vier Gegner, die meinen Harald überlistet hatten, gaben sich offenbar mit diesem Teilerfolg ihrer mir unklaren Absichten zufrieden, was immerhin recht merkwürdig war.
 
-So lag ich denn oben auf der Kuppe der einzelnen Sanddüne und ging mit mir zu Rate, wie ich es nun anstellen sollte, Harald zu befreien, ohne mich selbst der Gefahr auszusetzen, in gleiches Schicksal wie er zu erleiden.
+So lag ich denn oben auf der Kuppe der einzelnen Sanddüne und ging mit mir zu Rate, wie ich es nun anstellen sollte, Harald zu befreien, ohne mich selbst der Gefahr auszusetzen, ein gleiches Schicksal wie er zu erleiden.
 
 Ja — was sollte ich nunmehr beginnen?! — Schwierige Frage, zumal ich hier in der prallen Sonnenglut der Mittagsstunde unmöglich auch nur noch fünf Minuten länger ausharren konnte … Ebenso mußte ich auch für die drei Tiere eine schattige Stelle suchen, da die Hitze außergewöhnlich groß war, und da selbst ein Kamel, das bisher in den kühleren Randgebieten der Thar gelebt, derartige Glutwellen nur verträgt, wenn es dauernd in Bewegung bleibt.
 
@@ -326,9 +326,7 @@ Und — sehr bald wurde denn auch die Schrift sichtbar. In den Händen das Fell 
 
 > > Gott gebe Dir Frieden und Glück!
 
-<p class="centered">Dein</p>
-
-<p class="right">Edward.</p>
+<p class="right">Dein Edward.</p>
 
 So lautete dieser seltsame Abschiedsbrief …
 
@@ -392,7 +390,7 @@ Im Nu hatte ich das Seil hochgezogen …
 
 Ah — wirklich die vier Gegner und — — mein alter Harald als Gefangener auf einem Lastkamel — — gefesselt, die Augen verbunden …
 
-Überaus vorsichtig näherten die vier sich der Stelle, wo unsere drei Tiere jetzt widerkäuend, im Schatten ruhten. Sowohl die beiden schwarzbärtigen Ratschputen als auch die Perser hielten ihre Gewehre schußbereit …
+Überaus vorsichtig näherten die vier sich der Stelle, wo unsere drei Tiere jetzt widerkäuend im Schatten ruhten. Sowohl die beiden schwarzbärtigen Ratschputen als auch die Perser hielten ihre Gewehre schußbereit …
 
 Trennten sich nun …
 
@@ -608,7 +606,7 @@ Die Inderin blickte mich daraufhin verächtlich an …
 
 »Du lügst!« rief sie … »Der Mann, der verschwunden ist, heißt Doktor Edward Lanning! Und weil du mich in diesem einen Punkte belogen hast, schenke ich deinen Angaben überhaupt keinen Glauben …!«
 
-Wenn jemals das Gebieterische und Hoheitsvolte in dem Wesen dieses jungen Weibes deutlich in die Erscheinung getreten war, so war’s jetzt, als sie mich mit unendlicher Geringschätzung anblickte und gleichzeitig in ihren sprechenden Augen bei Nennung des Namens Lanning ein Haß aufflackerte, der nur demselben Manne gelten konnte, den zu suchen wir ein Viertel des Erdenrunds umkreist hatten …
+Wenn jemals das Gebieterische und Hoheitsvolle in dem Wesen dieses jungen Weibes deutlich in die Erscheinung getreten war, so war’s jetzt, als sie mich mit unendlicher Geringschätzung anblickte und gleichzeitig in ihren sprechenden Augen bei Nennung des Namens Lanning ein Haß aufflackerte, der nur demselben Manne gelten konnte, den zu suchen wir ein Viertel des Erdenrunds umkreist hatten …
 
 Haß!!
 
