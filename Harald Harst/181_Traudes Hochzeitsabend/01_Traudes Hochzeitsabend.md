@@ -59,7 +59,7 @@ herabgewehten halbreifen Birnen nach dem Abendbrot aufsammelte,
 hätte ich das Ding bemerken müssen. Also hat
 man sie nachts dort festgebunden … — Aha, hier sind Fußstapfen
 in dem Mohrrübenbeet … Hm — seltsam … Was
-hälst du von den Spuren?«
+hältst du von den Spuren?«
 
 »Ein Weib … « erklärte ich. »Zierliche Schuhe mit
 hohen Absätzen … Ein Füßchen, kein Fuß …«
@@ -117,7 +117,7 @@ wieder sichtbar zu machen.
 Harst erwärmte die Nuß vor unserer elektrischen Sonne —
 ohne Erfolg.
 
-Dampf begann er die Behandlung mit Säuren — mit
+Dann begann er die Behandlung mit Säuren — mit
 vorsichtigem Überpinseln.
 
 Siehe da: schon Alaunlösung brachte Schriftzüge in
@@ -272,7 +272,7 @@ auch klein ist, so verfüge ich doch über gutes Pferdematerial
 und …«
 
 »Ist Ihnen ein Pferd gestohlen worden?« suchte ich seinen
-Bericht abzukürzen, den ich ahnte bereits, daß er wegen der
+Bericht abzukürzen, denn ich ahnte bereits, daß er wegen der
 Kokosnuß käme …
 
 »Nein, Herr Schraut, kein Pferd … Etwas Wertvolleres
@@ -381,7 +381,7 @@ wurde noch lebhafter … Seine Augen blieben halb geschlossen
 …
 
 »Er … er wird sich wohl ertränkt haben,« murmelte er
-undeutlich und mit schlichen Widerstreben …
+undeutlich und mit sichtlichem Widerstreben …
 
 »Woraus schließen Sie hierauf?« bohrte ich unbarmherzig
 weiter …
@@ -413,7 +413,7 @@ Schwitzkur beendet hat …«
 
 Seltsam: Torelli wurde wiederum verlegen …
 
-Druckste — druckste — — schlanke:
+Druckste — druckste — — erklärte:
 
 »Ich habe hier in Berlin noch mancherlei zu besorgen,
 Herr Schraut … Bitte fahren Sie allein hinaus … Hier
@@ -450,11 +450,11 @@ später im Vorortzuge nach Werder …
 Das Abteil Zweiter war gerammelt voll. Ich mußte
 stehen. Der sonnige Julitag hatte eine Unmenge Ausflügler
 auf die Beine gebracht, zumeist Leute, die sich in jener
-gehobenen: »Sonntagsstimmung« befanden, die anderen schwer
+gehobenen »Sonntagsstimmung« befanden, die anderen schwer
 an die Nerven geht. Sogenannte Witzbolde gibt es ja überall.
 Ich war nicht gerade in der Stimmung, diese Art
 Humor angenehm zu empfinden. Ich wollte mir den Fall
-»Bara Ecke«, denn die Glücksnuß schien mir das wichtigste
+»Bara Koko«, denn die Glücksnuß schien mir das wichtigste
 bei alledem zu sein, gründlich nochmals in allen Einzelheiten
 überlegen, wozu ich nun wenig Gelegenheit hatte.
 
@@ -471,7 +471,7 @@ nicht so ausgeschlossen, daß Ignaz Torelli den Verehrer seiner
 Tochter vielleicht im Jähzorn getötet und dann nur das »Bad
 im Werlsee« vorgetäuscht hatte.
 
-Viele Freude über einen meines Erachtens zutreffenden
+Diese Freude über einen meines Erachtens zutreffenden
 Verdacht, der doch unseren Nachforschungen nun eine bestimmte
 Richtung gab, wurde mir dadurch gestört, daß ich
 das Gefühl hatte, von irgendeinem Insassen des Abteils
@@ -504,12 +504,12 @@ nehmen solle …
 Sie redete wie ein Wasserfall, ließ mir kaum Zeit, selbst
 ein Wort zu sprechen, war sehr nervös und aufgeregt, und
 bat mich, ihr es nicht zu verargen, wenn sie mich in aller
-Heimlichkeit auf Umwegen zu dem Platz führe, wo das Zirkuszeit
+Heimlichkeit auf Umwegen zu dem Platz führe, wo das Zirkuszelt
 stehe.
 
 Irgend etwas in ihrem Benehmen gefiel mir nicht. Sie
 schwitzte förmlich vor Aufregung, und seltsamerweise hatte sie
-in ihren hellen Katzenaugen gen denselben falschen Blick
+in ihren hellen Katzenaugen genau denselben falschen Blick
 wie ihr Herr Gemahl. Diesem Ehepaar traute ich jedenfalls
 alles Mögliche zu.
 
@@ -569,7 +569,7 @@ das Weißbier nicht anzurühren.
 Als ich diese Gesten verstanden, war mir mit einem
 Male auch klar, weshalb die Frau Direktor so überaus nervös
 sich gebärdete: Es war das schlechte Gewissen vor
-einer schlechten Tat! Ich sollte hier offenbar durch den,
+einer schlechten Tat! Ich sollte hier offenbar durch den
 Erfrischungstrank »erledigt« werden!!
 
 Aber — weshalb in aller Welt, — — weshalb?! —
@@ -701,7 +701,7 @@ Auf den seltenen sonnigen Julitag war ein wolkiger
 Abend von drückender Gewitterschwüle gefolgt … Von Westen
 <@pagebreak/>
 her zog eine schwarze Wand herauf, über die immer häufiger
-ein fahles Leuchter hinlief. Kein Blatt der Gartenbäume
+ein fahles Leuchten hinlief. Kein Blatt der Gartenbäume
 regte sich. Kein Lufthauch war zu spüren. Fledermäuse
 schossen lautlos hin und her, und um die elektrische Verandalampe
 summten und flatterten große Nachtfalter …
@@ -934,7 +934,7 @@ mir angetan …
 
 Doch — 	— zunächst hatte ich anderes zu bedenken …
 Ein Ruderboot war bald gemietet … Mein Koffer hinein …
-Und kann zurück zum Peetzsee, zur Insel …
+Und dann zurück zum Peetzsee, zur Insel …
 
 Unterwegs kommt mir ein anderes Boot entgegen …
 
@@ -967,7 +967,7 @@ Chemiker Doktor Georg Amalgi, der Verlobte Gertrud Torellis
 
 Die Ruder entgleiten fast meiner Hand …
 
-»Der … Verlobte?« bringe im mühsam hervor …
+»Der … Verlobte?« bringe ich mühsam hervor …
 
 »Allerdings …«
 
@@ -988,7 +988,7 @@ fuhr der Elegante nach Erkner. Ich mit ihm im selben
 Zuge … Und dann weiter nach Grünheide … Wo ich bald
 heraushatte, wer der Betreffende war: ein schwerreicher
 Junggeselle, der sich hier vor einem Jahr niedergelassen und
-den großen Besitz einen älteren Ehepaares erworben hat …«
+den großen Besitz eines älteren Ehepaares erworben hat …«
 
 Wir kamen jetzt an der burgähnlichen Villa wieder vorüber
 …
@@ -1207,10 +1207,10 @@ alles, auch daran, mein Versuchskaninchen zu sein …« Er
 sprach jetzt ohne alle Bosheit und Ironie im leichten Plauderton.
 »Gewiß, die Welt wird sich wundern, und wird es
 bedauern, daß der große Harst und sein Freund plötzlich so
-spurlos verduftet sind … Es wird ich ein gewaltiges Geschrei
+spurlos verduftet sind … Es wird sich ein gewaltiges Geschrei
 in den deutschen Zeitungen erheben … Polizei und
 Behörden werden eine fabelhafte Untätigkeit entwickeln, um
-Sie beide aufzuspüren — — Untätigkeit, denn mal wird die
+Sie beide aufzuspüren — — Untätigkeit, denn man wird die
 Bemühungen sehr schnell wieder einstellen müssen, selbst
 wenn man Ihre Spuren bis hier nach Grünheide verfolgen
 könnte. Ich — ich bin über jeden Verdacht erhaben. Ich

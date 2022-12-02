@@ -10,7 +10,7 @@ Parkwildnis …
 
 Von Wegen kaum mehr etwas zu erkennen … Trauerweiden,
 Edeltannen, Ulmen, Rotbuchen, Eichen, Kastanien
-und uralte Haselbüsche, — es gar hier kaum eine deutsche
+und uralte Haselbüsche, — es gab hier kaum eine deutsche
 Baumart, die nicht vertreten war …
 
 Kniehoch wucherten Gräser, hüfthoch ganze Gestrüppe
@@ -28,7 +28,7 @@ Mummeln und andere Wassergewächse schwammen, ein auf
 starken Eichenpfählen erbautes Gartenhäuschen. Vom Ufer
 lief eine Holztreppe mit fünfzehn Stufen zu der Eingangstür
 empor. Die Pfähle waren in den Grund des Weihers eingerammt,
-und die Treppe, sah ich, lies sich durch eine Hebelvorrichtung
+und die Treppe, sah ich, ließ sich durch eine Hebelvorrichtung
 nach dem Ufer hin hochklappen, so daß das zierliche
 Bauwerk dann ein richtiges Wassergefängnis bildete.
 
@@ -265,7 +265,7 @@ Angelruten, die er ausgelegt hat, sind nicht mit Angelschnüren,
 sondern mit Drähten versehen, die ins Wasser
 hinabreichen. Ich denke, zwischen dem Alten und der Villa
 wird eine drahtlose telephonische Verbindung bestehen, — ein
-weitere Beweis, daß wir hier in einer hochmodernen Rattenfalle
+weiterer Beweis, daß wir hier in einer hochmodernen Rattenfalle
 sitzen … Aber … Ratten haben scharfe Zähne, und …
 der Weiher, über dem sich unser Gartenhäuschen erhebt, eine
 <@pagebreak/>
@@ -335,7 +335,7 @@ durch Pfähle abgestützt waren, halt machten …
 
 »Die Verbindung,« flüsterte Harald …
 
-Noch links zu, etwa zwanzig Meter weiter, mündete
+Nach links zu, etwa zwanzig Meter weiter, mündete
 dieser Kanal in den See. Dort lag auch das Motorrennboot
 vertäut … Dasselbe Boot, in dem das Scheusal Amalgi
 gestern an uns vorüber gesaust war …
@@ -349,7 +349,7 @@ offenbar nur wirkte, wenn die Strahlen die Augäpfel trafen.
 Neben mir jetzt Haralds ärgerliches Raunen:
 
 »Sei nicht so unbegabt, zum Donner …!! Was stierst du
-das Boot an?! Willst hin die Schufte vorzeitig warnen?!«
+das Boot an?! Willst du die Schufte vorzeitig warnen?!«
 
 Und wieder zog er mich mit sich fort — dem Weiher
 zu …
@@ -657,7 +657,7 @@ Ein Miniatur-Tauchboot, sechs Meter lang …
 Und doch ein Wunder der Technik …
 
 Unter Wasser flüchten wir — — bis der Boden des
-Bootes über sandigen Geruch schleift …
+Bootes über sandigen Grund schleift …
 
 Deckel des Turmes auf …!!
 
@@ -708,7 +708,7 @@ Gentlemandetektive!
 
 Harst nennt dem Beamten seinen Namen …
 
-»Ich machte Sie darauf aufmerksam, daß Sie sich die
+»Ich mache Sie darauf aufmerksam, daß Sie sich die
 größten Unannehmlichkeiten zuziehen würden, wenn Sie auch
 nur ein Wörtlein davon verraten, daß ich hier nach Berlin
 telephoniert habe … — So, nun lassen Sie uns bitte
@@ -732,7 +732,7 @@ Beamten herab gute Freunde haben … Kriminalkommisar
 Doktor Lüttge ist im Präsidium. Harst teilt ihm nur das
 Notwendigste mit und gibt ihm genaue Verhaltungsmaßregeln.
 
-»Die Trauung das jungen Paares, lieber Lüttge, wird ja
+»Die Trauung des jungen Paares, lieber Lüttge, wird ja
 erst um die Mittagsstunde in Werder stattfinden, ebenso der
 standesamtliche Akt vorher … Wenn Sie um zehn vormittags
 in Werder sind, genügt’s um die Eheschließung zu verhindern.
@@ -871,7 +871,7 @@ sein Hochzeitstag, und es konnte jetzt kaum neun Uhr vormittags
 sein, schätzte ich …
 
 Traum?! — — Nein — — auch Harald saß aufrecht
-… Und ich hörte draußen deutlich die Vögel Jubilieren, die
+… Und ich hörte draußen deutlich die Vögel jubilieren, die
 Schwalben zwitschern … Und sah das dünne Lächeln um
 Amalgis schmale, grausame Lippen, hörte ihn sagen: »Guten
 Morgen, meine Herren …!«
@@ -929,7 +929,7 @@ Nun würde sich vielleicht mein Traum wirklich erfüllen und
 die Zahl der Holzkisten in der Ahnengalerie um zwei vermehrt
 werden!!
 
-Und wie ich dies dachte, drängte sie in die bang flatternden
+Und wie ich dies dachte, drängte sich in die bang flatternden
 <@pagebreak/>
 Gedanken eine andere Frage ein: »Weshalb nannte
 wohl Amalgi das Gewölbe seine Ahnengalerie?!«
@@ -942,7 +942,7 @@ fragte er mit jener Liebenswürdigkeit, die nichts anderes
 ist als bewußte Ironie einem Wehrlosen gegenüber …
 
 »Ich hätte schon etwas zu fragen, Herr Doktor,« meinte
-Harald, indem er nach seinem auf dein Nachttischchen liegenden
+Harald, indem er nach seinem auf dem Nachttischchen liegenden
 Zigarettenetui griff und eine Mirakulum herausnahm
 … »Sie gestatten im übrigen, daß ich rauche,« fügte
 er hinzu. »Ihre Mitteilungen haben mich ein wenig überrascht
@@ -987,7 +987,7 @@ Was war’s mit der Nuß?! Was?!
 Endlose Pause …
 
 Bis Harald sagt: »Es war für Sie wohl eine böse
-Überraschung, als Sie erfuhren, das Ihre Braut gerade die
+Überraschung, als Sie erfuhren, daß Ihre Braut gerade die
 Bara Koko uns als Honorar nächtlicherweile am Birnbaum
 befestigt hatte?«
 
@@ -1050,7 +1050,7 @@ Von diesem Pavillon aus (es gab ja ein Dutzend von
 Häuschen in dem weiten verwilderten Garten) überschaute man
 den größten Teil des Peetzsees mit der Insel.
 
-Der Terrasse lag heute still und friedlich da. Kein Lüftchen
+Der Peetzsee lag heute still und friedlich da. Kein Lüftchen
 regte sich. Mit bloßem Auge konnte ich drüben am
 Inselufer die braunen Wohnzelte erkennen …
 
@@ -1095,7 +1095,7 @@ Ein längst vereinbartes Zeichen, das bedeutet: Abwarten!!
 
 Die Jacht verschwindet im Kanal …
 
-Sir beide setzen das Frühstück mit doppeltem Appetit
+Wir beide setzen das Frühstück mit doppeltem Appetit
 fort … Jetzt ist Doktor Amalgi geliefert — — jetzt werden
 dieses Festessen und dieser Hochzeitsabend anders enden als
 der Doktor denkt!
@@ -1212,7 +1212,7 @@ Harald sich …
 »Gehen wir …«
 
 Da war an der Westseite des Parkes eine Art Wiese, von
-nächtigen Haselnußstauden umgeben … Kniehoch das Gras
+mächtigen Haselnußstauden umgeben … Kniehoch das Gras
 … Hin und wieder ein Busch … Und mitten in dieser grünen
 Wildnis erhob sich eine Nachbildung der Venus von Milo
 in Marmor …
@@ -1289,7 +1289,7 @@ Denn — staunend sahen wir jetzt, wie des Doktors leichenhafter
 Famulus Gulling hinter der Statue der Göttin
 plötzlich auftauchte — kriechend wie ein Indianer …
 
-Hörten die piepsende Sinne: »Der Hund soll sie nicht
+Hörten die piepsende Stimme: »Der Hund soll sie nicht
 anrühren …!! Da!!« …
 
 Und dann rollte uns ein kleines, in grünliches Papier
@@ -1318,7 +1318,7 @@ Wir warteten …
 
 Meine Nerven waren durch ein Übermaß von Kognak
 <@pagebreak/>
-wieder fügsam geworden, nachdem die neue freudiger Überraschung
+wieder fügsam geworden, nachdem die neue freudige Überraschung
 vor der Venusstatue mich in einen Taumel von
 Siegesbewußtsein versetzt hatte.
 
@@ -1558,7 +1558,7 @@ diesen totenähnlichen Zustand versetzt worden war …
 Schweigend legten wir abermals den Weg nach dem
 Gartenhause zurück.
 
-Und … faden die Bank leer …
+Und … fanden die Bank leer …
 
 Amalgi war verschwunden …
 
