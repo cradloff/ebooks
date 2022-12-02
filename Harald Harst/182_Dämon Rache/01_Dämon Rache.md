@@ -5,7 +5,7 @@
 
 <h3>Die tote Liese.</h3>
 
-Im gewitterreichen Juli war’s. …
+Im gewitterreichen Juli war’s …
 
 In einer Gewitternacht …
 
@@ -105,7 +105,7 @@ Ich wunderte mich. Denn Harald erklärte, er wolle dem Wunsche Schnacks willfahr
 
 Wunderte mich mit Recht. Es war so viel Dunkles, Unausgesprochenes bei alledem …
 
-Schnack drückte uns dankbar die Hand und schlurfte davon, nachdem Harald ihm noch angewiesen hatte, das tote Pferd vorläufig in der Grube liegen zu lassen und die Abdeckerei nicht zu benachrichtigen. Etui, Bild, Röhre und Juwelen blieben in unserem Gewahrsam.
+Schnack drückte uns dankbar die Hand und schlurfte davon, nachdem Harald ihn noch angewiesen hatte, das tote Pferd vorläufig in der Grube liegen zu lassen und die Abdeckerei nicht zu benachrichtigen. Etui, Bild, Röhre und Juwelen blieben in unserem Gewahrsam.
 
 <h2>2. Kapitel.</h2>
 
@@ -141,7 +141,7 @@ Ich wurde aufmerksam…
 
 »Du meinst, daß es merkwürdig ist, daß Schnack mit dem Leben davonkam?«
 
-Allerdings …«
+»Allerdings …«
 
 Und er ging auf die Ostwand zu …
 
@@ -231,7 +231,7 @@ Eine schlaflose Nacht, ein langer Tag hatten mich bereits halb erschöpft …
 
 Stolperte, fiel … Sprang wieder auf …
 
-Ah — — da war uns das Verderben auch schon aus den Fersen …
+Ah — — da war uns das Verderben auch schon auf den Fersen …
 
 Da war dieser kennzeichnende Geruch des Kampfgases aus dem Weltkrieg — — Apothekengeruch …
 
@@ -301,7 +301,7 @@ Erwachte … Ein Blick nach der Standuhr: zwölf Uhr mittags! Ein Blick nach dem
 
 Ich hörte: »Bitte, meine Gnädige, ich bin daheim … Wenn Sie also vielleicht sofort Ihre Dienstboten entfernen wollen … Wir sind in einer halben Stunde bei Ihnen …«
 
-Er legte den Hörer weg, drehte sich um und nickte mir zu: »Lia Manara war’s, mein Alter! Ihr find verschiedene Juwelen gestohlen … Sie ist erst gestern aus dem Nordseebade Borkum zurückgekehrt … Da fand sie ihr geheimes Wandfach leer. Und die Beschreibung der fehlenden Kleinodien paßt genau auf die vier Stücke, die jetzt dort in unserem Tresor ruhen. Lia wünscht nicht, daß ihre Zofe und ihre Köchin von dem Verlust etwas erfahren. — Also — — Aufbruch …!! Du fühlst dich doch frisch genug?« —
+Er legte den Hörer weg, drehte sich um und nickte mir zu: »Lia Manara war’s, mein Alter! Ihr sind verschiedene Juwelen gestohlen … Sie ist erst gestern aus dem Nordseebade Borkum zurückgekehrt … Da fand sie ihr geheimes Wandfach leer. Und die Beschreibung der fehlenden Kleinodien paßt genau auf die vier Stücke, die jetzt dort in unserem Tresor ruhen. Lia wünscht nicht, daß ihre Zofe und ihre Köchin von dem Verlust etwas erfahren. — Also — — Aufbruch …!! Du fühlst dich doch frisch genug?« —
 
 Lia Manara wohnte im ersten Stock eines der villenartigen neuen Häuser am Fehrbelliner Platz, wo die helle Moschee ihre gefälligen Konturen gen Himmel reckt und kleine Eigenheime eine Gartenstadt vortäuschen.
 
@@ -397,7 +397,7 @@ Auf dem Eisbärfell vor dem Diwan liegt die Depesche, Schrift nach oben …
 
 Ich hatte den Inhalt bereits gelesen — genau wie Harst … — Und dieser Inhalt lautet:
 
-Edu seit gestern verschwunden. Sofort kommen. — Rubner.
+> Edu seit gestern verschwunden. Sofort kommen. — Rubner.
 
 Die Diva hat sich erhoben … Eine auffällige Veränderung ist mit ihr vorgegangen … Eiserner Wille besiegt körperliche Schwäche …
 
@@ -453,7 +453,7 @@ Er unterbrach mich … Blieb stehen. Gerade vor unserer Gartenpforte …
 
 Er schien noch mehr auf dem Herzen zu haben, aber sein starrer Blick hing jetzt auf einem Zettel, der von innen über den Drücker der Vorgartentür gestreift war … Er nahm das durchlöcherte Papier vorsichtig an sich und hielt es so, daß ich die mit Bleistift flüchtig hingeworfenen Zeilen gleichfalls lesen konnte:
 
-Wäre besser für Ihnen, wenn Sie sich nicht bemühten um Schnack. — Die unsichtbare Macht.
+> Wäre besser für Ihnen, wenn Sie sich nicht bemühten um Schnack. — Die unsichtbare Macht.
 
 »Schau an — — eine Drohung,« meinte Harald geringschätzig. »Das Deutsch klingt nach Ausländern … Kann auch absichtlich verhunzt sein … Und »die unsichtbare Macht« gleicht einem üblen Witz … Ein Eindecker ist ein ziemlich sichtbares Ding, schätze ich …!! — Gehen wir ins Haus. Ich habe Hunger …«
 
