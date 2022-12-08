@@ -826,7 +826,7 @@ Sein Vermächtnis lebt …
 
 Und wie nach feierlicher Andacht in einer prachtvollen Kirche setzen wir den Heimritt fort.
 
-Nächster Band:
+<#import "*/harst.ftl" as harst>
 
-<p class="centered"><a href="http://www.walther-kabel.de/node/795"><strong>Doktor Amalgis Vermächtnis.</strong></a></p>
+<@harst.naechsterband band="Doktor Amalgis Vermächtnis."/>
 
