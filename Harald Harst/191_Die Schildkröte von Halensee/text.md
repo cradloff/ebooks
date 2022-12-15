@@ -7,20 +7,20 @@
 
 Ich habe heute in älteren Notizen über absonderliche
 Erlebnisse geblättert, die uns in dem kritischen Jahre 1923
-beschert wurden. Ich sage beschert, denn Harst und ich; nehmen
+beschert wurden. Ich sage beschert, denn Harst und ich nehmen
 eben jedes uns sich darbietende eigenartige und aufregende
 Abenteuer als ein Geschenk hin. Zu meinem Erstaunen
 fand ich da die Photographie einer jener kleinen Schildkröten,
-wie diese zu bei uns in Deutschland vorkommen, Auf diesem
+wie diese auch bei uns in Deutschland vorkommen. Auf diesem
 Lichtbilde hatte ich mit Bleistift vermerkt: »Schildkröte am
-Halensee. 13. Oktober 1923. Karman Tichu, Anita Gattin?!.«
+Halensee. 13. Oktober 1923. Karman Tichu, Anita Galski.«
 
 Mein Gedächtnis reagierte auf diese dürftigen Angaben
-prompt. »Mit einem Schlage standen in meiner Erinnerung
-wie aus einer Versenkung all jene Szenen mit lebengwarmer
+prompt. Mit einem Schlage standen in meiner Erinnerung
+wie aus einer Versenkung all jene Szenen mit lebenswarmer
 Frische auf, die für uns mit dem Namen des großen Bankiers
 Karman Tichu verknüpft waren. Anderseits wunderte ich mich
-aber auch, weshalb im diesen merkwürdigen Kriminalfall bisher
+aber auch, weshalb ich diesen merkwürdigen Kriminalfall bisher
 der Öffentlichkeit vorenthalten habe. Die Gründe hierfür
 <@pagebreak/>
 kenne ich nicht mehr, vermute lediglich, daß das Bild
@@ -31,123 +31,123 @@ er es verdient hat. Denn er war in seiner Art fraglos eins
 der größten Rätsel, die ein Inder jemals dem gelehrten Europa
 dargeboten hat. —
 
-Oktober 1923 … Das war damals, als die Inflation
-uns zu BillionärHen gemacht hatte, als die Dar-lehnskasjensjcheine
+… Oktober 1923 … Das war damals, als die Inflation
+uns zu Billionärchen gemacht hatte, als die Darlehnskassenscheine
 wieder »Geld« vorzutäuschen schienen und
-die Rentenmark Pseudobillionäre zu armen Schnattern machte.
+die Rentenmark Pseudobillionäre zu armen Schnorrern machte.
 
 Uns auch …
 
 Harst, der den Verlust seines ererbten Millionenvermögens
 nur aus dem Grunde so schmerzlich hinnahm, weil er
-nun nicht mehr aus Liebhaberei seiner Neigung für Absender«-
-(ihr Kriminalprobleme nachgehen konnte, sondern wie jeder
-andere Durccshnittösterbliche »aufs Verdienen« angewiesen
+nun nicht mehr aus Liebhaberei seiner Neigung für absonderliche
+Kriminalprobleme nachgehen konnte, sondern wie jeder
+andere Durchschnittssterbliche »aufs Verdienen« angewiesen
 war, schickte mich am 13. Oktober vormittags neun Uhr nach
-der Stadt. I sollte einen der Edelsteine verlaufen, die
-er in den Krächzen Ebenholzkasten seiner Sammlung nicht
-nicht hatte unterbringen können. Diese Sammlung, sowie
-die losen Steine, alles Geschenke indischen Klienten, rechnete
+der Stadt. Ich sollte einen der Edelsteine verkaufen, die
+er in den flachen Ebenholzkästen seiner Sammlung nicht
+mehr hatte unterbringen können. Diese Sammlung, sowie
+die losen Steine, alles Geschenke indischer Klienten, rechnete
 er nicht als Vermögen in dem Sinne, sie etwa zu Gelde zu
 machen und so die zerronnenen Millionen wieder neu hervorzuzaubern.
 Nein, für ihn waren all diese so überaus
-mannigfachen Geschenke oft:vollster Fürstlich ihn und Großkaufleute
+mannigfachen Geschenke orientalischer Fürstlichkeiten und Großkaufleute
 genau so unveräußerlicher, ideeller Besitz, wie etwa
-unser Heim, das HarsjtsHchHe Familiengrundstück in Berlin«
-Schmargendorf. Und daß er sich jetzt kennen von einem fast
+unser Heim, das Harstsche Familiengrundstück in Berlin-Schmargendorf.
+Und daß er sich jetzt dennoch von einem fast
 haselnußgroßen wundervollen Edelstein trennte, hatte lediglich
-die eine schwerwiegende Ursache: wir waren vollständig »ab
-gebrannt«, — eine Tatsache, die bei Harald geradezu eine
-Gemütsdepression zur Folge gehabt hatte, und diesem Narr«
-Tischchen Zustand wollte er ein Ende machen,
+die eine schwerwiegende Ursache: wir waren vollständig «abgebrannt«,
+— eine Tatsache, die bei Harald geradezu eine
+Gemütsdepression zur Folge gehabt hatte, und diesem unerträglichen
+Zustand wollte er ein Ende machen,
 
-Ich fuhr also mit der Straßenbahn nach der Damensalon«-
+Ich fuhr also mit der Straßenbahn nach der Tauentzienstraße,
 <@pagebreak/>
-Straße, wo in einer Seitengasse ein uns bekannter früheren
-Juwelier wohnte, der nun als Fenster eifriger Sammler erstklassiger
+wo in einer Seitengasse ein uns bekannter früherer
+Juwelier wohnte, der nun als Rentier eifriger Sammler erstklassiger
 Diamanten geworden war, was er sich trotz Inflation
 schon leisten konnte, weil er sein Vermögen vorzeitig
-in holländischen Grundbesitz angelegt hatte.
+in holländischem Grundbesitz angelegt hatte.
 
 Herr Julius Jakobsohn war Junggeselle, bewohnte in dem
-stillsten Teile der Passauer Straße zusammen mit seiner Wirt«-
-sHafterin und zwei sehr. scharfen deutschen Schäferhunden,
+stillsten Teile der Passauer Straße zusammen mit seiner Wirtschafterin
+und zwei sehr scharfen deutschen Schäferhunden,
 die ihm die Kinder ersetzten, eine feudale Fünfzimmerwohnung
 und führte das stille, beschauliche Dasein eines älteren
 Herrn von vielseitigen, geistigen Interessen. Er gehörte zu
-jenen Inder, spanischer Abkunft, deren schmale, kluge See
-hinter, schlanke, aufrechte Gestalten und seine, zierliche Hände
-im Herein mit einer stolzen, abgeklärten Ruhe und einem
+jenen Juden, spanischer Abkunft, deren schmale, kluge Gesichter,
+schlanke, aufrechte Gestalten und feine, zierliche Hände
+im Verein mit einer stolzen, abgeklärten Ruhe und einem
 leicht bronzenen Teint deutlich die Vermischung mit Sarazenenblut
-verraten. Als seine Verfahren einst nach) Deutsch
-Land Diamantenen, hatten sie den klangvollen poetischen Namen
-Mattrosa gegen das nichtssagende Jakobsohn enttäuschten
+verraten. Als seine Vorfahren einst nach Deutschland
+einwanderten, hatten sie den klangvollen poetischen Namen
+Maritoja gegen das nichtssagende Jakobsohn enttäuschten
 müssen.
 
-Als ich die zwei läuservelegten Treppen in dem vornehmen
+Als ich die zwei läuferbelegten Treppen in dem vornehmen
 Miethause zu unseres Bekannten Wohnung emporstieg,
 kam eine tief verschleierte Frau sehr eilig an mir vorüber.
-Ein zarter Duft nach Indra umwehte mich sekundenlang.
+Ein zarter Duft nach Ambra umwehte mich sekundenlang.
 Dann war die Frau bereits auf der Straße, die Haustür
 klappte zu und ich stand vor Jakobsohns Flurtür,
 
 Merkwürdig — sie war nur angelehnt. Bei Jakobsohns
 Vorsicht zweifellos auffallend. Die Flur war von
-innen gepanzert und halte zwei Kunstschlösser. Das wußte ich.
+innen gepanzert und hatte zwei Kunstschlösser. Das wußte ich.
 
-Ich läutet. Ich war daran gewöhnt, daß nach dem
+Ich läutete. Ich war daran gewöhnt, daß nach dem
 Läuten sofort die beiden Hunde anschlugen.
 
 Alles blieb still. Niemand kam.
 
 Auch im Hause herrschte eine wahre Grabesruhe. Es
 wohnten hier nur alteingesessene Mieter, ältere Herrschaften
-ohne Kinder, Das Haus war Jakobsohns Eigentum, und
+ohne Kinder. Das Haus war Jakobsohns Eigentum, und
 so sehr er auch Jugend und Frohsinn schätzte: Kinder störten
 <@pagebreak/>
-seine seinen, überzüchteten Nerven. Seine Eltern und Groß,
-Eltern, eigentlich seine ganzen Ahnen, waren Kopfpolster
-gewesen. Und ihn hatte wohl auch lediglich ein mehr wissen«
-schallsicher Hang Juwelier werden lassen.
+seine feinen, überzüchteten Nerven. Seine Eltern und Großeltern,
+eigentlich seine ganzen Ahnen, waren Kopfarbeiter
+gewesen. Und ihn hatte wohl auch lediglich ein mehr
+wissenschaftlicher Hang Juwelier werden lassen.
 
 Ich läutete nochmals,
 
 Während die Flurglocke drinnen noch leise nachsummte,
 ging mir ein flüchtiger Gedanke durch den Kopf, der die
 Frau mit dem Ambraparfüm, die nur angelehnte Tür und
-das EStümmbleiben der wachsamen Hunde miteinander in
+das Stummbleiben der wachsamen Hunde miteinander in
 Beziehung brachten.
 
 Alles blieb still. Niemand kam.
 
 Ich läutete zum dritten Male, jetzt schon überzeugt, daß
 mein leiser Argwohn, es könnte in unseres Bekannten Wohnung
-etwas Besonderes gesehen sein, wohl leider zutreffen
-wurde,
+etwas Besonderes geschehen sein, wohl leider zutreffen
+würde,
 
-Alles blieb still, Niemand kam.
+Alles blieb still. Niemand kam.
 
-Ich drückte die Tür auf, Schaute in den langen Flur
+Ich drückte die Tür auf. Schaute in den langen Flur
 hinein. Durch die Milchglasscheiben von drei Flügeltüren
 fiel mattes Licht auf die dunkel tapezierten Wände, auf den
 roten Plüschläufer und auf zwei regungslose Tiergestalten.
 
-Ich Gepuderte, vollends einzutreten, denn j:zt wäre es
-meine Pflicht gewesen, Lärm zu schlagen und durch die Nach
+Ich zauderte, vollends einzutreten, denn jetzt wäre es
+meine Pflicht gewesen, Lärm zu schlagen und durch die
 Nachbarn die Polizei herbeizurufen. Und doch tat ich’s nicht.
 Man spricht so oft von einer inneren Stimme, die uns etwas
 zuraunt, die zur stillen Wegweiserin wird, wo wir selbst
-im Zweifel sind, ob dies vier je’ « «? richtig?. Diese
+im Zweifel sind, ob dies oder jenes das richtige. Diese
 Stimme kommt aus unserem Unterbewußtsein, und Menschen
-mit besonders stark entwickeltem Spielte?! pflegen dieser stu
-men Beraterin gern nachzugeben. Dieser Intellekt Geschnürt.
-sich bei mir wohl nur auf eine durch Übung und angeborene.:
-Geschick scharf ausgeprägte Bord htungsgabe, Die innere«
+mit besonders stark entwickeltem Intellekt pflegen dieser
+stummen Beraterin gern nachzugeben. Dieser Intellekt beschränkt
+sich bei mir wohl nur auf eine durch Übung und angeborenes
+Geschick scharf ausgeprägte Beobachtungsgabe. Die innere
 Stimme aber flüsterte mir verführerisch zu, daß hier in
-Julius Jakobsohns gepanzerter Mißmutig für Harald Harst
+Julius Jakobsohns gepanzerter Wohnung für Harald Harst
 und mich neue interessante Arbeit zu finden sei.
 
-Ich trat ein und drückte die Tür ins Schloß. Blei
+Ich trat ein und drückte die Tür ins Schloß. Gleich
 <@pagebreak/>
 rechts an der Wand war der Lichtschalter. Ein Knacken, und
 die Flurlampe mit den drei leuchtenden Tropfen, eine umgearbeitete
@@ -162,40 +162,40 @@ wohl jeder Hundebesitzer kennt. — Hier nun das Merkwürdige,
 daß ich mit einiger Berechtigung annehmen mußte, die
 Tiere seien vergiftet worden.
 
-Links neben der Flurgarderobe sah im nun auch das
+Links neben der Flurgarderobe sah ich nun auch das
 Telephon. Ich trat hinzu und rief Harald an, bekam sofort
 Anschluß und teilte ihm mit, daß ich ihn in sehr dringender
 Sache unverzüglich bei Freund Julius erwarte. — Er fragte
 nichts weiter, antwortete nur: »In zehn Minuten bin ich
 zur Stelle, mein Alter.« — Wenn er ein Auto nahm, mußte
-er 8 allerdings in dieser Zeit schaffen.
+er’s allerdings in dieser Zeit schaffen.
 
 Hier im Flur standen rechter Hand neben einem kleinen
 Tischchen zwei Korbsessel. Ich setzte mich, knöpfte den Ulster
 auf und wartete, betrachtete die beiden prächtigen Hunde und
 suchte mit den Augen nach anderen Anzeichen für ein hier
 verübtes Verbrechen, suchte ganz umsonst. Der Flur verriet
-nichts weiter, Die sechs Türen, die aus ihm in die Vordergrund
-Hinterräume der Wohnung führten, waren sämtlich geschlossen.
-Um mich her war tiefe Stille. Nur »ganz ge
-dämpft vernahm ich über mir die Schritte eines langsam
-hin und her gehenden Menschen, der dem Klang naß lahm
+nichts weiter. Die sechs Türen, die aus ihm in die Vorder\-
+und Hinterräume der Wohnung führten, waren sämtlich geschlossen.
+Um mich her war tiefe Stille. Nur ganz gedämpft
+vernahm ich über mir die Schritte eines langsam
+hin und her gehenden Menschen, der dem Klang nach lahm
 sein oder aber einen Stiefel und einen Pantoffel tragen
 mußte.
 
 Vielleicht war es gerade diese Stille, die meine Phantasie
-nicht Schwingen brachte. Ich begann mir Bilder von grauen
-voller Furchtbarkeit auszumalen … I stellte wir vor daß
-dort hinter den Türen Julius Jakobsohn und seine Freund«
-angebliche, rundliche Wirtschafterin, die die Kochkunst zum Virtus-osentum
+ins Schwingen brachte. Ich begann mir Bilder von grauenvollen
+Furchtbarkeit auszumalen … Ich stellte mir vor, daß
+dort hinter den Türen Julius Jakobsohn und seine freundliche,
+rundliche Wirtschafterin, die die Kochkunst zum Virtuosentum
 <@pagebreak/>
 erhoben hatte, ermordet und blutig in großen, roten
-Lachen lägen … Ich sah im Geiste in Jakobsohns Unheils«
-Zimmer den modernen, halb in die Wand eingelassenen Tresor
+Lachen lägen … Ich sah im Geiste in Jakobsohns Arbeitszimmer
+den modernen, halb in die Wand eingelassenen Tresor
 offenstehen — geplündert — geleert … Ich sah dies alles
 so deutlich, daß meine Nerven zu vibrieren begannen und
-mich mir plötzlich bewußt wurde, daß eine mit näher zu be-
-zeichnende Angst in meiner Seele erwacht war und sich
+ich mir plötzlich bewußt wurde, daß eine nicht näher zu bezeichnende
+Angst in meiner Seele erwacht war und sich
 mit jener Sekunde eindringlicher meldete,
 
 Angst?!
@@ -207,8 +207,8 @@ Ich zog die Uhr …
 Erst vier Minuten waren vergangen, seit ich telephoniert
 hatte — höchstens vier Minuten, denn als ich den Hörer
 wieder angehängt hatte, war ich bereits so vorsichtig gewesen,
-naß der Uhr zu sehen. Da war es genau fünf Minuten
-naß halb zehn gewesen,
+nach der Uhr zu sehen. Da war es genau fünf Minuten
+nach halb zehn gewesen,
 
 Ich starrte jetzt auf den Sekundenzeiger, zählte mit …
 
@@ -219,9 +219,9 @@ der Stirn drang …
 
 Ich biß die Zähne zusammen …
 
-Zum Teufel — was war denn eigentliche Es mit mir los?!
+Zum Teufel — was war denn eigentlich mit mir los?!
 
-Wut gegen mich selbst kochte in mir auf … Ich stete
+Wut gegen mich selbst kochte in mir auf … Ich steckte
 die Uhr in die Westentasche zurück und schob mir den Hut
 mehr ins Genick.
 
@@ -230,7 +230,7 @@ Gedanke nur ein erbärmlicher Versuch, mich selbst zu belügen
 …
 
 Angst hatte ich — Angst vor etwas Unbekanntem, — eine
-Angst, die mir die Finger in den Wildlederhandschuhen geh:
+Angst, die mir die Finger in den Wildlederhandschuhen jetzt
 zu Eiszapfen werden ließ …
 
 Angst, die einen harten Kloß in meiner Kehle emporschob,
@@ -239,9 +239,9 @@ die mein Herz hämmern machte, all meine Sinne bis zur
 
 <@pagebreak/>
 Hier im Flur schien’s mir plötzlich ganz unerträglich
-nach Indra zu hatten …
+nach Ambra zu duften …
 
-Nicht widerte der Geruch an …
+Mich widerte der Geruch an …
 
 Das Parfüm der Verschleierten, die auf der halbdunklen
 Treppe an mir vorübergeglitten war …
@@ -254,29 +254,29 @@ alle meine Energie aufbieten mußte, nicht aufzuspringen und
 fluchtartig die Wohnung zu verlassen …
 
 Ich fühlte, daß mir auch das Hemd an der Rückenhaut
-auflebte, daß mein Rücken feucht war vor kaltem, klebrigem
+klebte, daß mein Rücken feucht war vor kaltem, klebrigem
 Schweiß …
 
-Ein Zustand war’s, wie ich ihn bis dahin nicht gelang:
+Ein Zustand war’s, wie ich ihn bis dahin nicht gekannt
 hatte …
 
-Und als ich nun, vollkommen am Ende meiner Wider.
-standskrast, gegen dieses unheimliche Etwas, das mich um.
-lauerte, wirklich mich erheben und beschämender Weise das
-Feld räumen wollte, da waren meine Füße wie Blei — wir
-bleierne, starre Anhang sel …
+Und als ich nun, vollkommen am Ende meiner Widerstandskraft,
+gegen dieses unheimliche Etwas, das mich umlauerte,
+wirklich mich erheben und beschämender Weise das
+Feld räumen wollte, da waren meine Füße wie Blei — wie
+bleierne, starre Anhängsel …
 
-Hm selbst Moment glitt mein Blick, geleitet von unsichtbaren
+Im selbst Moment glitt mein Blick, geleitet von unsichtbarer
 Macht, nach links … zu einer einfachen Tür — —
 die Küchentür …
 
 Sie war halb geöffnet …
 
-Dort stand die Frau mit dem Indra-Parfüm …
+Dort stand die Frau mit dem Ambra-Parfüm …
 
 Der lila Schleier bedeckte wie vorhin ihr Gesicht …
 
-(Zu eigenartiges Lachen kam hinter diesem Schleier hervor»…
+Ein eigenartiges Lachen kam hinter diesem Schleier hervor …
 
 Dann Worte … in einem harten, fremden Deutsch, von
 einer gedämpfter und doch klangvollen Altstimme:
@@ -287,7 +287,7 @@ Ich holte ganz tief Atem …
 
 Ein Mensch …
 
-Nichts Unsichtbares8s, Unnennbares mehr …
+Nichts Unsichtbares, Unnennbares mehr …
 
 <@pagebreak/>
 Mit einem Menschen würde ich schon fertig werden …
@@ -296,14 +296,14 @@ So flog’s mir durch den Sinn …
 
 Eitle, leere Hoffnung!
 
-Meine Augenmuskeln schienen gelähmt zu sein, Ich
+Meine Augenmuskeln schienen gelähmt zu sein. Ich
 konnte nicht einmal den Blick über die Gestalt der Fremden
 hinschweifen lassen, noch weniger mich rühren … Dieser
-Bis war stier auf die Stelle des lila Schleier gerichtet, wo
+Blick war stier auf die Stelle des lila Schleier gerichtet, wo
 ganz matt des Weibes Pupillen schillerten,
 
 Ich war ein Automat geworden … Ich erkannte dies,
-als im nun wie eine sprechende Puppe, bei der man das
+als ich nun wie eine sprechende Puppe, bei der man das
 Uhrwerk einschaltet, heiser hervorstieß:
 
 »Ich … bin … Max … Schraut …«
@@ -315,13 +315,13 @@ Das Weib lachte wieder …
 Unklar wetterleuchtete da in meinem Kopf der Gedanke
 auf, daß ich ihr nichts von dem Edelstein sagen dürfe, der
 in Watte gepackt in einem Schächtelchen in meiner rechten
-Westentasche stete,
+Westentasche steckte,
 
 Dieser Gedanke zerrann wie ein Nebel, den ein Windstoß
-wegfegt … Eine stärkere Macht als mein Wille 35 19
+wegfegt … Eine stärkere Macht als mein Wille zwang
 mich zur Antwort …
 
-»Ich … wollte … Jakobsohn … einen Edelstein
+»Ich … wollte … Jakobsohn … einen Edelstein …
 verkaufen …«
 
 »Sieh da — — einen Edelstein …! — Sie gestatten,
@@ -329,7 +329,7 @@ Herr Schraut …«
 
 Sie huschte auf mich zu …
 
-Ulster und Jacke standen noch offen +…
+Ulster und Jacke standen noch offen …
 
 Ein Griff in meine Westentasche …
 
@@ -340,7 +340,7 @@ war so maßlos, daß ich selbst das Knirschen meiner Zähne
 hörte …
 
 Aber der Ambraduft der verschleierten Frau legte sich
-wie erstickender, widerwärtiger Qualm auf meine Brust
+wie erstickender, widerwärtiger Qualm auf meine Brust …
 Vor meinen Augen verschwamm alles …
 
 <@pagebreak/>
@@ -356,19 +356,17 @@ Ich sinke Harald bewußtlos in die Arme …
 
 Nur Sekunden schwinden mir die Sinne …
 
-Ich Nase mich auf. Harsts prüfender, erstaunter Blick
-hängt an meinem verstörten Gesicht, Harst stößt mich mit
+Ich raffe mich auf. Harsts prüfender, erstaunter Blick
+hängt an meinem verstörten Gesicht. Harst stützt mich mit
 der Rechten, schließt mit der Linken die Flurtür, wir stehen
 dicht nebeneinander in Julius Jakobsohns Wohnung,
 
 So begann die Geschichte von der kleinen Schildkröte …
 
-W—a?- 2 nie See rum
-
 <h2>2. Kapitel.</h2>
 <h3>Nur ein Scherz.</h3>
 
-»Gott sei Dank, daß du da bist …/« quäle ich über
+»Gott sei Dank, daß du da bist …,« quäle ich über
 die trockenen Lippen …
 
 Er führt mich zu demselben Korbsessel, in dem ich so entsetzliche
@@ -556,7 +554,7 @@ Auch jetzt sitzt er dort — starr, steif, zu seinen Füßen
 eine Zeitung. In dem Aschbecher auf dem Fensterbrett eine
 halbe Zigarre …
 
-Mit dem schwarzen Seldenkäppchen auf dem schlohweißen
+Mit dem schwarzen Seidenkäppchen auf dem schlohweißen
 Haupte, mit dem stets sauber rasierten, bartlosen, von seinen
 Falten durchzogenen und von innerem Feuer eines reichen,
 lebhaften Geistes durchleuchteten Gesicht glich er sonst einem
@@ -1151,7 +1149,7 @@ Wenig« Minuten später kennen wir den Fluchtweg Doktor
 Karman Tichus: durch das hintere Flurfenster der Mansarde,
 durch das Dachfenster auf das Da, von da in die Äste der
 alten Linde, durchs den Gemüsegarten in das große Laubengelände,
-Karman Tichu?! — Nein! Die Fußspuren in der herbst-lim
+Karman Tichu?! — Nein! Die Fußspuren in der herbstlich
 feuchten Erde des Gartens beweisen uns, daß es sich
 nur um eine verkleidete Frau handeln kann — — um den
 lila Schleier!
@@ -1764,7 +1762,7 @@ der vierkantige Zapfen zum Aufziehen des Uhrwerks etwas
 herausragte. Außerdem gab es dort aber voll ein unsauber
 eingeschnittenes viereckiges Loch …
 
-Körner meinte dienstbeslissen: »Müller hat die Bauch.
+Körner meinte dienstbeflissen: »Müller hat die Bauch.
 Seite losgeschraubt — das Deckblech, Herr Harst, Und da
 daß er eine merkwürdige Entdeckung ’ gemacht, als er daß
 Räderwerk trocknen wollte …«
@@ -2252,7 +2250,7 @@ Form, mein lieber Bechert. Geben Sie Docht mal die Photographie
 her. Hier stimmt etwas nicht.«
 
 Das Bild war eine Halbprofilaufnahme, ’tadesso8 scharf,
-nicht rekouchiert und daher durchaus lebenäwahr. Nur —
+nicht rekouchiert und daher durchaus lebenswahr. Nur —
 die Person auf diesem Bilde war niemals dieselbe Frau, die
 wir als Anita Tichu kennengelernt hatten — niemals! Gewiß,
 es läßt sich wohl aus einer geraden Nase durchs Dahinraste
@@ -2359,7 +2357,7 @@ Wir hatten uns in zwei ältere würdige Herren verwandelt,
 und so führte uns ein Auto nach der … Kleiststraße
 <@pagebreak/>
 — Kleiststraße 19, wo der Beamte Eustachio Pedrilla
-wohnte, Jakobsohns Universalerbe und außerehelihe Sohn.
+wohnte, Jakobsohns Universalerbe und außereheliche Sohn.
 
 Als Harald dem Chauffeur dieses Fahrtziel genannt
 hatte, kam mir blitzartig die Erleuchtung … Blitzartig reichte
@@ -2592,7 +2590,7 @@ eingesehen hat, wem er sein braves Herz geschenkt hat: einer
 Verbrecherin, einer Heuchlerin, die nie etwas für ihn empfunden
 haben kann! —
 
-Und als wir beide dann gegen vier Uhr morgens heim-wanderten,
+Und als wir beide dann gegen vier Uhr morgens heimwanderten,
 sagt Harald zwischen ein paar Zügen aus seiner
 Mirakulum: »Eine alte Geschichte: Wenn Frauen den Pfad
 des Verbrechens betreten, sind sie dreimal gefährlicher als
