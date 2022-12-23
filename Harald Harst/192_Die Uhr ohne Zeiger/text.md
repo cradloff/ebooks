@@ -6,334 +6,341 @@
 
 Jener 29. Oktober, mit dem für uns das sonderbare
 Problem der Uhr ohne Zeiger begann, war der Tag nach
-der verwegenen Flucht Anita Galskis aus der Kranktinabltielung
+der verwegenen Flucht Anita Galskis aus der Krankenabteilung
 des Untersuchungsgefängnisses.
 
-Arm diesem 20 ten, der gegen Abend Gegen und Sturm gebracht
+An diesem 20ten, der gegen Abend Regen und Sturm gebracht
 hatte, hatte uns unser Freund Bechert um sieben Uhr
-angerufen und uns mitgeteilt, daß auf ’ Veranlassung des
+angerufen und uns mitgeteilt, daß auf Veranlassung des
 Leiters der Berliner Kriminalpolizei unser Haus in der
-Blücherstraßa vorläufig insgeheim überwacht werden würde,
-da mit größter Bestimmtheit damit zu ’ rechnen sei, daß die
+Blücherstraße vorläufig insgeheim überwacht werden würde,
+da mit größter Bestimmtheit damit zu rechnen sei, daß die
 rücksichtslose Verbrecherin versuchen würde, sich an uns beiden
 irgendwie zu rächen. Harst war es ja gewesen, der ihre
 teuflischen Pläne im letzten Augenblick zum Scheitern gebracht
 hatte. Millionen waren ihr entgangen, und ihr
 Haupt wäre fraglos dem Henker verfallen gewesen, wenn es
-ihr eben nicht geglückt wäre, bereits am Jage nach ihrer
+ihr eben nicht geglückt wäre, bereits am Tage nach ihrer
 Verhaftung zu entweichen und jegliche Spur hinter sich zu
-erwischen, obwohl sie aus dem Fenster eines der Badezimmer
-der Krankenabteilung, nur mit einem großen Frottier
+verwischen, obwohl sie aus dem Fenster eines der Badezimmer
+der Krankenabteilung, nur mit einem großen Frottiertuch
 umhüllt und in Unterkleidern, über den Hof und die
 Mauer die Straße erreicht hatte.
 
 Harst hatte sich nach dem Telephongespräch mit Bechert
 <@pagebreak/>
-wieder Laternen Klavier« zurückgezogen und 1(schickes geäußert:
-»Anita sind sich hüten, hier in der VBiüberstraße
-sich sieben zu lassen. Nachen wird he sie. Inder nicht! sofort.
-Zunächst wird sie froh sein, in!! Risse Heer Freunde der
+wieder in seinen Klubsessel zurückgezogen und lediglich geäußert:
+»Anita wird sich hüten, hier in der Blücherstraße
+sich sehen zu lassen. Rächen wird sie sich. Aber nicht sofort.
+Zunächst wird sie froh sein, mit Hilfe ihrer Freunde der
 Polizei ein Schnippchen geschlagen zu haben.«
 
 Harst hatte wieder nach den Abendzeitungen gegriffen.
-Ich schritt im Zimmer auf und ob. Untere beiden jüngst erst
-angeschafften Schäferhunde, die wir in Zutraf und Mitte
-umgetauft hatten, lagen vor dem Kamin auf dem es;warten
-Bärenfell und schliefen. — Es bürstete draußen im Flur, und
-dann fiel der Deckel des Briefkastens starrend alt. Ruf) ging
+Ich schritt im Zimmer auf und ab. Unsere beiden jüngst erst
+angeschafften Schäferhunde, die wir in Harras und Minko
+umgetauft hatten, lagen vor dem Kamin auf dem schwarzen
+Bärenfell und schliefen. — Es läutete draußen im Flur, und
+dann fiel der Deckel des Briefkastens klappernd zu. Ich ging
 hinaus und entnahm dem Kasten einen an Harald gerichteten
-Brief, Ein Blick auf die Schritt des Umschlages verriet
-einen Wann als Absender, dem die Feder ein sehr Tage
-gewohntes Handwerkszeug war,
+Brief. Ein Blick auf die Schrift des Umschlages verriet
+einen Mann als Absender, dem die Feder ein sehr ungewohntes
+Handwerkszeug war,
 
-Harald prüfte den Briefumschlag zuerst naß seiner Gewohnheit
+Harald prüfte den Briefumschlag zuerst nach seiner Gewohnheit
 von außen,
 
-— »Billigstes Winter, mit Wasser verdünnte Gute, Fingerspuren
-« von Tabaksaft, deutlicher Stallduft: der Absender
-ist ein Kutscher, der seinen Wohnraum unweit seiner Verschlinge
-daß. Der Mann ist Kriegebescchädizter, ihm schien an
-der linken Hand der kleine und der Ging-Finger, außerdem
-sind der Mittel- und der Zeigefinger gleichfalls durch) einen
-Granatsplitter verletzt worden. Hier erkennt man die Norden
-in den bräunlichen Abdrüen, Unser Kutscher raucht
-eine Patent pfeife mit einem Nikotinfänger. U!s er den
+»Billigstes Papier, mit Wasser verdünnte Tinte, Fingerspuren
+von Tabaksaft, deutlicher Stallduft: der Absender
+ist ein Kutscher, der seinen Wohnraum unweit seiner Pfleglinge
+hat. Der Mann ist Kriegsbeschädigter, ihm fehlen an
+der linken Hand der kleine und der Ring-Finger, außerdem
+sind der Mittel- und der Zeigefinger gleichfalls durch einen
+Granatsplitter verletzt worden. Hier erkennt man die Narben
+in den bräunlichen Abdrücken, Unser Kutscher raucht
+eine Patentpfeife mit einem Nikotinfänger. Als er den
 Brief adressierte, hat er vorher die Watte in dem Nikotinfänger
 ausgewechselt. Er ist wenig sauber, unordentlich, und
 doch ein sehr energischer Mensch. Die kindlich unbeholfene
-Schrift ha! hie vielsagenden Merkmale. In dem Schubfach,
+Schrift hat ihre vielsagenden Merkmale. In dem Schubfach,
 wo er sein Briefpapier aufbewahrt, liegt ein Stück billige,
-schritt parfümierte Seife, ferner Jodoformgace. Möglich,
-daß der Mann noch eine andere Kriegsverletzung hat, viel«;
-leicht eine Beinwunde, die immer wieder aufbricht, und
-die er sie dann selbst verbindet. In dem Wohnraum des
+schlecht parfümierte Seife, ferner Jodoformgace. Möglich,
+daß der Mann noch eine andere Kriegsverletzung hat, vielleicht
+eine Beinwunde, die immer wieder aufbricht, und
+die er sich dann selbst verbindet. In dem Wohnraum des
 <@pagebreak/>
-Kutschers sieht ein einfacher Tisch aus Kiefernholz. Hier
+Kutschers steht ein einfacher Tisch aus Kiefernholz. Hier
 — als er den Brief zuklebte und mit dem Handballen die
-Briefklappe festdrückte, hat [ich das Muster des Holzes in
+Briefklappe festdrückte, hat sich das Muster des Holzes in
 das Papier eingedrückt.«
 
 So sprach Harald, nahm eine neue Mirakulum und fuhr
 fort: »Der Brief ist gestern abend zwischen zehn und elf Uhr
 in Seebad Heringsdorf abgestempelt worden. Die Anschrift
-»Herrn Bericht?Talkessel a. D. Doktor juris Harald Harst usw,
-— beweist, daß der Absender über meine Person recht! genau
+»Herrn Gerichtsassessor a. D. Doktor juris Harald Harst usw.
+— beweist, daß der Absender über meine Person recht genau
 unterrichtet ist, denn die meisten unserer Klienten begnügen
-sich mit dem »Herrn Detektiv Harald Sollt’«, obwohl«…«
+sich mit dem »Herrn Detektiv Harald Harst«, obwohl …«
 
 Er brach mitten im Satz ab … Beugte sich tiefer über
 den Umschlag … »Hallo — hier ist ja auf der Rückseite mit
 Bleistift dicht am unteren Rande etwas hingekritzelt …
-Sein, nicht gekritzelt … Es wär ein sehr harter, erster
-Bleistift, und die Hand, die ihn, führte, war die einer wo
-schlichen Person, Eine überaus zierliche Miniaturscheist —
+Nein, nicht gekritzelt … Es war ein sehr harter, spitzer
+Bleistift, und die Hand, die ihn führte, war die einer
+weiblichen Person. Eine überaus zierliche Miniaturschrift —
 und die drei Worte lauteten: Seien Sie vorsichtig! — Ein
 recht vielversprechender Anfang! Ein einfacher Kutscher teilt
 hier etwas mit, und bevor er den Brief in den Kasten werfen
-kann, warnt mich eine der Schrift nach gebildete Frau vor,
+kann, warnt mich eine der Schrift nach gebildete Frau vor
 demselben Manne! — So, nun wollen wir den eigentlichen
-Brief lesen, mein Alter, Ich sehe dir an, du platt vor
-Reittier 6,« ’ …
+Brief lesen, mein Alter, Ich sehe dir an, du platzt vor
+Neugier …«
 
-»So ziemlich dachte ich ehrlich.
+»So ziemlich!« dachte ich ehrlich.
 
 Ich mußte mich jedoch noch gedulden, denn Harst nahm
 nun erst einmal den Briefbogen vor und besichtigte ihn, als
-ob’s eine vielleicht gefälschte Tausendmarknote sel.
+ob’s eine vielleicht gefälschte Tausendmarknote sei.
 
-»Der Kutscher ist in der Tat ein Schnatternd ., « meinte
-er, »Hier die Fettflecken … Leberwurst hat der Mann
-gestern gegessen und … eine Schnitte Brot mit Honig,
+»Der Kutscher ist in der Tat ein Schmutzfink …« meinte
+er. »Hier die Fettflecken … Leberwurst hat der Mann
+gestern gegessen und … eine Schnitte Brot mit Honig.
 Außerdem hat der Mensch die Gewohnheit, sich mit der
 linken Hand durch sein rötliches, borstiges Kopfhaar zu fahren.
-Seine Kopfhaut ist mit Schatten bedeckt. — Hier, mein Alter,
-verwalte dieses eine Haar … — Und jetzt will ich vorlesen,
-<@pagebreak/>
-Ostseebad Heringsdorf, dem 19. Oktober dieses Jahres.
-Bahnhofsstraße 85, bei v. Pinz.
-Sehr geehrter Herr Assessor Doktor Harst!’!
+Seine Kopfhaut ist mit Schuppen bedeckt. — Hier, mein Alter,
+verwahre dieses eine Haar … — Und jetzt will ich vorlesen.
 
-Ich habe heute in der Swinemündener Zeitung, wo
+<@pagebreak/>
+<p class="centered">Ostseebad Heringsdorf, dem 19. Oktober dieses Jahres.</p>
+
+<p class="centered">Bahnhofsstraße 85, bei v. Pinz.</p>
+
+<p class="centered">Sehr geehrter Herr Assessor Doktor Harst!</p>
+
+> Ich habe heute in der Swinemündener Zeitung, wo
 mein Herr auch hält, von der Sache in Berlin gelesen, wie
-Sie die Mörderin Anita Galski entsprach haben. Und da
+Sie die Mörderin Anita Galski endlarwet haben. Und da
 habe ich mir so gedacht, daß vielleicht auch die Geschichte,
 wo ich hier täglich mit erlebe, für Sie was wäre, denn mit
 der Uhr auf dem Kamin, da ist was los, Herr Harst. Wenn
 ich mit die Feder ebenso gut umgehen könnt wie mit die
 Zügel von unsre Kutschpferde, dann würd’ ich Ihnen allens
-klar au&seinanderpolken können, aber so muß ich mir beschränken
-und nur sagen, daß die Uhr keine Zeiger nicht
-hat und daß mein Herr vor dem alten Ding eine Trauliche
+klar auseinanderpolken können, aber so muß ich mir beschränken
+und nur sagen, daß die Uhr keine Zeiger nich
+hat und daß mein Herr vor dem alten Ding eine grauliche
 Angst haben tut und immer mit das Ding redet, als ob
-die alle Brannte ein lebendiger Mensch wär, was ich von
-meiner Stube überm Pferdestall durch; das offene Fenster
-oft Schein und gehört habe. Einmal hat er sogar einen
-Revolver aus seinen Schlafrock gerissen und sie; vor die
-Uhr dotschießen wollen, aber da ist die Gnädige noch zum
-— gesprungen und hat’s verhindert. Wenn Sie auch so was
-Spaß macht, sehr geehrter Herr Harst, so Büro im Ihnen
+die olle Klamotte ein lebendiger Mensch wär, was ich von
+meiner Stube überm Pferdestall durch das offene Fenster
+oft gesehn und gehört habe. Einmal hat er sogar einen
+Revolver aus seinen Schlafrock gerissen und sich vor die
+Uhr dotschießen wollen, aber da ist die Gnädige noch zugesprungen
+und hat’s verhindert. Wenn Sie auch so was
+Spaß macht, sehr geehrter Herr Harst, so würd im Ihnen
 mündlich noch mehr sagen können.
 
-Mit die größte Hochachtung
+> Mit die größte Hochachtung
 
-Johann Klatt,
-Kutscher und Diener.«
+<p class="centered">Johann Klatt,</p>
+
+<p class="centered">Kutscher und Diener.«</p>
 
 »Na?!« meinte Harald und schaute mich mit einer Miene
-Zaun, aus der sich nichts — gar nichts herauslesen ließ.
+an, aus der sich nichts — gar nichts herauslesen ließ.
 
 »Der gute Johann Klatt glaubt wohl, wir hätten nichts
 Besseres zu tun als nur in der Welt herumzukutschieren und
 unser Geld für …«
 
 »Stopp!« unterbrach Harald mich. »Nicht zu voreilig,
-Max Schlau!! — Wann ist Anita gestern entwichen? — Um
-halb sieben abends
+Max Schraut! — Wann ist Anita gestern entwichen? — Um
+halb sieben abends …«
 
 <@pagebreak/>
-Ich Fand mit den Händen in den Taschen meiner Hause«
-Joppe dicht vor seinem Sessel … Stutzte, als er Anita Galski
-erwähnte … Und sagte hastig: »Über das ist doch ausgeschlossen,
-Harald …! Der Brief. ist doch ebenfalls gestern
+Ich stand mit den Händen in den Taschen meiner Hausjoppe
+dicht vor seinem Sessel … Stutzte, als er Anita Galski
+erwähnte … Und sagte hastig: »Aber das ist doch ausgeschlossen,
+Harald …! Der Brief ist doch ebenfalls gestern
 abend abgeschickt worden und kann daher kaum …«
 
 »Aha — — kaum, kaum! — Du gibst die Möglichkeit
 also immerhin zu, daß der Brief ein schlau ausgeklügeltes
-Lockmittel sein kann …«,
+Lockmittel sein kann …«
 
-»Nein — das gebe ich nicht zu, Harald ».t Wie sollte’
-Anita Galski uns nach Heringsdorf locken können, wenn se
+»Nein — das gebe ich nicht zu, Harald …! Wie sollte
+Anita Galski uns nach Heringsdorf locken können, wenn sie
 erst gestern abend entflohen ist?! Und ferner: der ganze Brief
 dieses Kutschers erscheint mir als … Leimrute für uns denn
-doch allzu harmlos, zu wenig originell! Eine Anita Hals
+doch allzu harmlos, zu wenig originell! Eine Anita Galski
 besitzt genug Phantasie, uns eine bessere Fälle zu stellen …«
 
 »Besser — — origineller?!« Er zuckte die Achseln. »Ich
 finde, eine Kaminuhr ohne Zeiger, mit der dieser Herr von
-Pinz sich unterhält, vor der er Angst hat, und die ihn ’beis
-nahe zum Selbstmord getrieben hat, ist doch immerhin Lichts
+Pinz sich unterhält, vor der er Angst hat, und die ihn beinahe
+zum Selbstmord getrieben hat, ist doch immerhin nichts
 Alltägliches. — Aber wir können die für uns so wichtige
 Frage, ob unsere schöne Gegnerin dahinter steckt, sehr leicht
 auf folgende Weise zum Teil klären. — Nehmen wie an,
 Anita sei mit diesem Herrn von Pinz verbündet. Da ihre
 Verhaftung für sie ganz überraschend kam, kann sie …«
 
-»Gestatte einen Einwurf … — Doch nicht nur mit’von
+»Gestatte einen Einwurf … — Doch nicht nur mit von
 Pinz verbündet, sondern auch mit dem Kutscher Klatt, der
-doch fraglos existiert …
+doch fraglos existiert …«
 
 »Natürlich meinte ich das, Herr und Diener stecken dann
-selbstredend unter einer Decke, — Wie gesagt: Anita fühlte
-sich bekanntlich ganz sicher, wird also kaum vor ihrer Herr
-Verhaftung mit Pinz und Konsorten Vereinbarungen sitzende
-welcher Art getroffen haben, die sich auf uns beziehen.
-Eine sollte Anweisung von seiten Anitas, uns nach Heringsdorf
-zu locken, kann mit’n erst gestern entweder durch eine
-Chiffrierte Begegnete oder durch ein Telephongespräch nach
-Anitas Flucht erfolgt sein. Ich werde mich dabei mit dem
+selbstredend unter einer Decke. — Wie gesagt: Anita fühlte
+sich bekanntlich ganz sicher, wird also kaum vor ihrer Verhaftung
+mit Pinz und Konsorten Vereinbarungen irgendwelcher
+Art getroffen haben, die sich auf uns beziehen.
+Eine solche Anweisung von seiten Anitas, uns nach Heringsdorf
+zu locken, kann mithin erst gestern entweder durch eine
+chiffrierte Depesche oder durch ein Telephongespräch nach
+Anitas Flucht erfolgt sein. Ich werde mich daher mit dem
 <@pagebreak/>
-Postamt Heringsdorf verbinden lassen, und im Schlinge der
+Postamt Heringsdorf verbinden lassen, und im Auftrage der
 Kriminalpolizei — womit diese fraglos sehr einverstanden
-st — anfragen, ob gestern zwischen sieben und zehn Uhr
+ist — anfragen, ob gestern zwischen sieben und zehn Uhr
 abends für Herrn von Pinz oder eine zu seinem Haushalt
 gehörige Person eine Depesche eingelaufen — hier aus Berlin,
 oder ob eine dieser Personen mit Berlin ein Ferngespräch
-geführt daß.« …
+geführt hat.«
 
 Er schritt zum Schreibtisch … Nahm den Hörer von der
 Gabel des Telephons und meldete das Ferngespräch mit dem
 Postamt Heringsdorf an.
 
-» Die Verbindung war Überraschend schnell hergestellt. Harst
+Die Verbindung war überraschend schnell hergestellt. Harst
 tat, als sei er Kriminalkommissar Bechert, verlangte unbedingte
 Verschwiegenheit und stellte dann seine Fragen.
 
-— Ist Brigant neben ihm am Schreibtisch. Die Antworten
-aus Heringsdorf waren so klar und lau!, daß ich jedes Wort
-verstehen konnte. Was wir [so hörten, war überraschend Stellung.
+Ich stand neben ihm am Schreibtisch. Die Antworten
+aus Heringsdorf waren so klar und laut, daß ich jedes Wort
+verstehen konnte. Was wir so hörten, war überraschend genug.
 Nicht Herr von Pinz Selbst, sondern die Nichte seiner
 Frau habe gestern abend gegen halb neun eine sehr lange
 Depesche erhalten, mit einem vollständig unverständlichen
-Wortlaut. Das Telegramm hakte nur aus HYHauptwörtern
+Wortlaut. Das Telegramm hatte nur aus Hauptwörtern
 bestanden, also ohne Frage sei es nach einem bestimmten
-Schlüssel entworfen worden, Daraufhin sei von Fräulein
-Marga Wellert, der Nichte der Frau von Paß, um halb
-zehn ein Telegramm in gleiten Farm an einen Herrn Urban
-Molche, Berlin W32, Pallasstraße 19, aufs:Leben worden,
+Schlüssel entworfen worden. Daraufhin sei von Fräulein
+Marga Wollert, der Nichte der Frau von Pinz, um halb
+zehn ein Telegramm in gleicher Form an einen Herrn Urban
+Malch, Berlin W 32, Pallasstraße 19, aufgegeben worden,
 und dieser Urban Malch sei auch der Absender der Berliner
 Depesche gewesen.«
 
 Harald dankte für die Auskunft, erinnerte den Beamten
 nochmals an strengste Verschwiegenheit, da es sich um sehr
 ernste Dinge handele, legte den Hörer auf die Gabel zurück
-und bitte mich vergnügt mit den Augen zwinkernd, an …
+und blickte mich vergnügt mit den Augen zwinkernd, an …
 
-»Da, mein Alter, wer hat nun recht behalten?! Diese
+»Na, mein Alter, wer hat nun recht behalten?! Diese
 Pinz-Kolonie dort im schönen Heringsdorf, dürfte immerhin
 so etwas unter die Lupe zu nehmen sein! Zuerst aber
 wollen wir uns hier mit Herrn Urban Malch, Pallasstraße 19,
 <@pagebreak/>
-beschäftigen. 208 also! Kostüm Nummer sechs. Daß g6&
-nur. Die Ausweis von der Reichspost als Jäger auf
-Schwarz höret werden uns gute Dieazzjie leisten.« —
+beschäftigen. Los also! Kostüm Nummer sechs. Daß genügt.
+Die Ausweise von der Reichspost als Jäger auf
+Schwarzhörer werden uns gute Dienste leisten.« —
 
-Kurz vor sehnt! Uhr abends betrauten zwei leer, des
-scheiden  gerichtetes Wanne« das Haus Kommen i9, und los
-gaben ich zupackt zu Dem Hauswart, der in Hofgebäude
+Kurz vor acht Uhr abends betraten zwei ältere, bescheiden
+gekleidete Männer das Haus Nummer 19, und begaben
+sich zunächst zu Dem Hauswart, der im Hofgebäude
 wohnte.
 
 »Zu Malch wollen Sie?r« fragte der Portier mit einer
-gewissen Gerfügshäzung: »Der verrückte Alte haust hier«
-oben im vierten Stock, Über der ist Westturm! nicht Schwarze
-Hörer … Der ist! Mechaniker und bat ’ne Dachantenne.«
+gewissen Geringschätzung: »Der verrückte Alte haust hier
+oben im vierten Stock. Aber der ist bestimmt nicht Schwarzhörer
+… Der ist Mechaniker und hat ’ne Dachantenne.«
 
-»Es trug! sich nur, ob er die Erlaubnis zum Verließ
-eines Röhbrenapparates daß,« meinte Harald. (Ich weise der
-nochmals darauf zu, daß dieses unser Abenteuer im Fahrt
-1923 sich abspielte. Damals war die Benutzung vors; Führern
-empfängern noch nicht Abscheu gestattet),«
+»Es fragt sich nur, ob er die Erlaubnis zum Betrieb
+eines Röhrenapparates hat,« meinte Harald. (Ich weise der
+nochmals darauf hin, daß dieses unser Abenteuer im Jahre
+1923 sich abspielte. Damals war die Benutzung von Röhrenempfängern
+noch nicht allgemein gestattet).
 
-Und wir kletterten nun also die vier Treppen empor,
-Als wir vor Urban Malchs Flurtür angelangt waren, Laien
-wir auf einer Papptafel in seiner, zierlicher Rundscrifte
+Und wir kletterten nun also die vier Treppen empor.
+Als wir vor Urban Malchs Flurtür angelangt waren, lasen
+wir auf einer Papptafel in feiner, zierlicher Rundschrift:
 
-Urban Male …
-Feinmechaniker.
-Reparaturen aller Instrumente, Herstellung von Modellen,
-automatischen Spielzeugen, Radioopperaten usw.
-Sprechzeit: 9—12, 3—7. Sonntags 10—18,
+<p class="centered">Urban Malch,</p>
 
-Automatische Spielzeugell
+<p class="centered">Feinmechaniker.</p>
+
+<p class="centered">Reparaturen aller Instrumente, Herstellung von Modellen,
+automatischen Spielzeugen, Radioapparaten usw.</p>
+
+<p class="centered">Sprechzeit: 9—12, 3—7. Sonntags 10—18,</p>
+
+Automatische Spielzeuge!!
 
 Unwillkürlich dachte ich da an die Schildkröte, die von
-Anita Galski dazu benutzt worden war, uns Erde zu betäuben.
-Diese Schildkröte hatte Anita uns wieder gestohlen, und hin
-her hatten wir dieses so überaus naturgetreu gtardeiteie
+Anita Galski dazu benutzt worden war, uns beide zu betäuben.
+Diese Schildkröte hatte Anita uns wieder gestohlen, und bisher
+hatten wir dieses so überaus naturgetreu gearbeitete
 Panzertier nicht wiedergefunden.
 
 Dann drückte Harald auf den Klingelknopf. Wir hörten
 jedoch keine Glocke schrillen, sondern nur einen Hund dreimal
-laut Kräften.
+laut kläffen.
 
 Nach einer Weile näherten sich der Flurtür schlurfende
 Schritte. Ein Teil der Türfüllung klappte urplötzlich herab,
 <@pagebreak/>
 und in der Öffnung sahen wir bei dem dürftigen Lichte der
-Treppenbeleuchtung ein bleiches, faltiges. Greisengesicht mit
-einer großen, blauroten Hakennas«, auf der eine schwarze,
-moderne Hornbrille mit Golde:heim Steg, sich »vier in die Haut
+Treppenbeleuchtung ein bleiches, faltiges Greisengesicht mit
+einer großen, blauroten Hakennase, auf der eine schwarze,
+moderne Hornbrille mit goldenem Steg, sich tief in die Haut
 eingedrückt hatte. Hinter den Gläsern dieser Brille lauerten
-ein Paar entzündete, halb Zug:Drittens Augen, Die Hohe,
+ein Paar entzündete, halb zugekniffene Augen. Die hohe,
 breite Stirn war von buschigem. Beiboot Haar überwölbt, das,
-glatt zurückgestrichen, die Ohren völlig verdeckte, Der magere
-Giraffenhals des hastigen Männleins verschwand in dem
+glatt zurückgestrichen, die Ohren völlig verdeckte. Der magere
+Giraffenhals des buckligen Männleins verschwand in dem
 hochgeklappten, fettigen Kragen eines einst grün gewesenen,
-zerlöcherten Schlafrocks, und die Hand, die sie nun auf den
-Rand des Klappfensters legte, war schmutzig, die Nacht der
-Finger von Säulen bunt gefärbt, und die Finger selbst dann,
-lang und Speckig wie Mumienfinger.
+zerlöcherten Schlafrocks, und die Hand, die sich nun auf den
+Rand des Klappfensters legte, war schmutzig, die Nägel der
+Finger von Säuren bunt gefärbt, und die Finger selbst dünn,
+lang und knochig wie Mumienfinger.
 
 »Sie wünschen?« fragte der Alte mit einer schleimigen,
 tiefen Stimme.
 
 Harst zeigte ihm den Ausweis. »Wir sollen feststellen,
 ob Sie nicht verbotenerweise einen Röhrenapparat betreiben,
-Herr Malch …
+Herr Malch …«
 
 Der kleine Mund des Greises zog sich hohnvoll in die
-reite …
+Breite …
 
-— »34h, Röhrenapparat?!« brummte er. »Nein! — Aber
-bitte, — treten Sie näher … Ich will Sie in Ihren Dienst«
-sitzen Obliegenheiten in keiner Weise behindern. Sie werden
-bei mir nur Detektorapparate- finden, allerdings das
+»Ich, Röhrenapparat?!« brummte er. »Nein! — Aber
+bitte, — treten Sie näher … Ich will Sie in Ihren dienstlichen
+Obliegenheiten in keiner Weise behindern. Sie werden
+bei mir nur Detektorapparate finden, allerdings das
 vollkommenste, was es in Dieser Art gibt — eigene Konstruktion
-… Bitte«…«
+… Bitte …«
 
 Das Klappfenster wurde geschlossen, und die Tür ging
-auf. In demselben Moment kam eine groß? englische Bulldogge
+auf. In demselben Moment kam eine große englische Bulldogge
 dumpf bellend aus dem Hintergrunde des kleinen
 Flurs nach vorn gelaufen.
 
-!’ »Kusch dich, Satan!« rief Mal dem kräftigen Tiere zu
+»Kusch dich, Satan!« rief Malch dem kräftigen Tiere zu
 … Worauf die Bulldogge sofort kehrt machte und sich wieder
 auf sein Lager zurückzog, wo sie sich mit unbeholfenen Bewegungen
-niederlegte, — Da der Flur durch zwei starkkerzige
+niederlegte. — Da der Flur durch zwei starkkerzige
 <@pagebreak/>
-elektrische Lampen erleuchtet war, haltet wir diesen vier-boein!
-’gen Wächter genau beobachtet Können. Als Harst nun
-Wachsend meinte: »Art;a, Herr Malch, — einer Ihrer Automaten,
-dieser kam als Hund! fiel ich je ziemlich; aus allen
-Wolken, ’denn ich ha?je talsäcmlich nicht? bemerkt, daß es
+elektrische Lampen erleuchtet war, hatten wir diesen vierbeinigen
+Wächter genau beobachtet Können. Als Harst nun
+lachend meinte: »Aha, Herr Malch, — einer Ihrer Automaten,
+dieser famose Hund!« fiel ich so ziemlich aus allen
+Wolken, denn ich hatte tatsächlich nicht bemerkt, daß es
 sich nur um ein künstliches Tier handelte.
 
-Der Greis Blasierte nichts, [Floß ’die Tür ab und öffnete
-Seite andere, ließ uns in sein Arbeitszimmer eintreizäiu,
+Der Greis erwiderte nichts, schloß die Tür ab und öffnete
+eine andere, ließ uns in sein Arbeitszimmer eintreten,
 
 <h2>2. Kapitel.</h2>
-<h3>In Türkisen und Menschenver&äter.</h3>
+<h3>Ein Künstler und Menschenverächter.</h3>
 
-Das Stimmen war auf den ersten Blick nichts anderes
+Das Zimmer war auf den ersten Blick nichts anderes
 als eine kleinbürgerliche Wohnstube mit alten Mördern, 44
 schmucklosen Tapeten und häßlichen Verdenken an den Wänden.
 ,«
@@ -507,7 +514,7 @@ Schildkröte … Fünfhundert Mark forderte ich, um den
 Handel zu verhindern. Aber sie bezahlte kaltlächelnd …«
 
 Ich suchte mir eine helle, dünne Zigarre heraus. Harst
-rauchte schon und ließ nun den Engel zu mir hinüber-sHchweben.
+rauchte schon und ließ nun den Engel zu mir hinüberschweben.
 Auch4 Malch nahm eine grünbraune Brasil …
 
 »Einen Regenschirm?’ fragte Harald …
@@ -619,7 +626,7 @@ abermals irgendwie … Hilfe brauchen, dann erinnern Sie sich
 an Urban Malch … Der … kann … vielleicht … doch
 noch … weit mehr, als … die Welt … es Ahn!!« — Er
 Zerpflückte diese schien Sätze in einzelne Teile, und gerade
-diese Art, sie vorzubringen, erhöhte war 1ü1cH das Geheimnisvoll-Nahdrückliche
+diese Art, sie vorzubringen, erhöhte war 1ü1cH das Geheimnisvoll-Nachdrückliche
 ihres Inhalts.
 
 Harst hatte die Zigaretten zu ist: Sessel! und erhob sich).
@@ -1067,8 +1074,8 @@ Genau t grob. »Was gibt’s denn?’ Was wollen Tief!’’
 Harald sagt höflich: »Herr Malch, wir sind’s, und dicke
 <@pagebreak/>
 hier ist Herr Kriminalkommissar Bechert … Wir möchten
-Sie nur fragen, ob Sie mal einem automatischer Zwerg Her-
-gestellt haben, der die Worte nieder kann »Nur her mit
+Sie nur fragen, ob Sie mal einem automatischer Zwerg Hergestellt
+haben, der die Worte nieder kann »Nur her mit
 dem Ding, … ich verstehe mich schon darauf!« — Außerdem
 klapperte der Zwerg mit den Auge:. Ofenecke richtig den Und
 und kicherte scheußlich …«
@@ -1286,7 +1293,7 @@ Aussah Blattes Tiere?.,«
 
 Hat gingen weiter, etwas rascher. Bechert wurde nervös.
 Er beschleunigte das Zeuge immer mehr, die wir dann rechts
-ur die Gevuhiniglir he bherumschwentten und uns hinter die
+ur die Gevuhiniglir he herumschwenkten und uns hinter die
 vorspringende Ecke seien.
 
 Nicht lange, riß Tor Spion schritt an »uns vorüber. hatte
@@ -2217,7 +2224,7 @@ eine Holzgliockde für die Uhr ohne Zeiger,
 
 Nun sah ich sie … Nun hob ich sie empor …
 
-Äußerlich eine alte Uhr in geschnitten Holzacehäuse, mit
+Äußerlich eine alte Uhr in geschnitten Holzgehäuse, mit
 allerlei Messingverzierungen, mit flachem Boden, mit einem
 großen Zifferblatt aus Sitzen, das nach innen leicht gewölbt
 war. Jeden Sammler hätte diese Nürnberger Uhr entzückt.
@@ -2411,7 +2418,7 @@ bat: das Blockhaus! — Gewiß — hineintappen werden wir,
 nur nicht blindlings, sondern gut vorbereitet. Mein Federmesser
 stet schon mit geöffneter Klinge ja Meiner unten,
 und mein Taschenmesser werde im mir goß: gleichfalls mit
-geöffneter großer Klinge an der Hojenschnalle hinten des
+geöffneter großer Klinge an der Hosenschnalle hinten des
 festigen. In jedem Falle spielen wir die völlig Weber:Rechten
 und wehren uns nicht — verstanden! Sich dir die Mütze Master
 recht fest über den Kopf, mein Vater, nachdem du keinen
@@ -2470,7 +2477,7 @@ Küche oder den Flur des Dir Hauses, fraglos doch eine ehe
 vorige Gärtnerwohnung, hinabfährt. Er scharrt mit dem
 Fuß das Heu dessen«, hier und dort, — findet nichts. Wir
 bewegen uns möglich:([t lautlos, haben nun lediglich noch:5 die
-Gerümpelede zu durch stöbern. Harald beleuchtet die morschen
+Gerümpelecke zu durch stöbern. Harald beleuchtet die morschen
 Kisten, Fässer, eine € »lebhafte, ein uraltes, verrostetes Fahrrad,
 die Reste eines Schaukelpferdes, und einen Berg Lumpen,
 der von Motten zu Zunder zerfressen ist. Dieser ganze wertlose
