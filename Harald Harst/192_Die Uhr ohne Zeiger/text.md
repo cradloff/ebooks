@@ -1419,130 +1419,129 @@ konnte.
 
 <h2>1. Kapitel.</h2>
 
-… Meeresblick an der schönen Strandpromenade nach dem
-München Ahlbeck
+Meeresblick an der schönen Strandpromenade nach dem
+nahen Ahlbeck ...
 
-Meeresblick, « ziemlich doch gelegen, mit gut gepflegtem
-Vorgarten, Von unserem Fenster aus ein wundervoller
-Rundblick. Rechts Swinemünde mit dem LewZiturm, der
-langen Mole, dann Milderte, links die hohe Fäuste jenseits des
-Hceringsdorjser Kurhauses … Vor uns die Diese, heute so
+Meeresblick, ziemlich hoch gelegen, mit gut gepflegtem
+Vorgarten. Von unserem Fenster aus ein wundervoller
+Rundblick. Rechts Swinemünde mit dem Leuchtturm, der
+langen Mole, dann Ahlbeck, links die hohe Küste jenseits des
+Heringsdorfer Kurhauses … Vor uns die Ostsee, heute so
 friedlich … Der helle Strand mit den Streifen angetriebener
-Muscheln, die wie Schnee leuchteten. Krähen: suchen am
-Ufer nach Krabben … Möwen Dingen graziös hin und her.
+Muscheln, die wie Schnee leuchteten. Krähen suchten am
+Ufer nach Krabben … Möwen flogen graziös hin und her.
 Die Sonne soeben untergetaucht …
 
 Wir standen am Fenster des Wohnsalons. Rechts davon
-lag des Herrn Barons Schlafzimmer, zu dieses schloß sich
+lag des Herrn Barons Schlafzimmer, an dieses schloß sich
 meine einfenstrige Schlafstube. —
 
 Wir hatten beide Fensterflügel geöffnet. Schon deshalb,
 weil unsere Wirtinnen den Ofen mit Preßkohlen allzugut
-gysüuitert hatten und dieser Ofen ziemlich unangenehm stank,
+gefüttert hatten und dieser Ofen ziemlich unangenehm stank,
 
 Ganz leise brandete dort unten die See. Die kleinen
-Wellen schossen mit weißen Schaumköpfschen am Strande
+Wellen schossen mit weißen Schaumköpfchen am Strande
 dahin wie spielende Schlangen. Es war mehr ein Zischen
-wie Beamten, und in diese sanfte Melodie des schlafenden,
-schnarchenden Meeres mischte sich das Naturkonzert der krä«
-sitzenden Krähen und der heiter in der Luft sich wiegenden,
+wie Branden, und in diese sanfte Melodie des schlafenden,
+schnarchenden Meeres mischte sich das Naturkonzert der krächzenden
+Krähen und der heiter in der Luft sich wiegenden,
 kreischenden Möwen,
 
-Ein paar der eleganten Vögel schienen daran gewohnt zu
+Ein paar der eleganten Vögel schienen daran gewöhnt zu
 sein, von den Badegästen gefüttert zu werden, und strichen
-ganz hin! an dem Fenster vorüber, nachdem sie uns erst
-einmal entdeckt hatten. Ich holte vom noch gedeckten Kasfec-tismO
-ein paar Brötchen, zerkleinerte sie und warf die Stäbe
+ganz dicht an dem Fenster vorüber, nachdem sie uns erst
+einmal entdeckt hatten. Ich holte vom noch gedeckten Kaffeetisch
+ein paar Brötchen, zerkleinerte sie und warf die Stücke
 <@pagebreak/>
 in die Luft. Überraschend geschickt schnappten die flinken
 Vögel jeden Brocken, bevor er noch zur Erde fiel. Harald
-beteiligte sich an dem heiteren Spiel, schleuderte die Linken
-schräg aufwärts, und hatte sehr bald zwei Gtummelschwanze-möwen
+beteiligte sich an dem heiteren Spiel, schleuderte die Brocken
+schräg aufwärts, und hatte sehr bald zwei Stummelschwanzmöwen
 sich gemerkt, die er geradezu als geflügelte Jongleure
 bezeichnete.
 
-Plötzlich, als die Thar unserer neuen Freunde bereite
+Plötzlich, als die Schar unserer neuen Freunde bereits
 beträchtlich angewachsen war und deren gieriges Kreischen
 so dicht vor unseren Ohren lästig zu werden begann, ereignete
 sich etwas, das uns zunächst völlig unbegreiflich blieb.
 
-Eines der Tiere fiel mit, einem Male ängstlich flatternd
-aus der Wut! herab und unten auf den Rasen des Vorgartens,
-wo es sehr b:ld verendete. Dieser Zwihensall war das Signal
+Eines der Tiere fiel mit einem Male ängstlich flatternd
+aus der Luft herab und unten auf den Rasen des Vorgartens,
+wo es sehr bald verendete. Dieser Zwischenfall war das Signal
 für eine allgemeine Flucht der Möwen,
 
 Sie verstreuten sich, und während ich ihnen noch halb
 erstaunt und halb erschrocken nachblickte, riß Harald mich mit
 so kräftigem Ruck vom Fenster weg, daß ich taumelte und er
-mich grüßen mußte.-«
+mich stützen mußte.
 
-»Was denn …?!« fragte im verdutzt … »Weshalb hast
-du … «ch—
+»Was denn …?!« fragte ich verdutzt … »Weshalb hast
+du …«
 
 Er schlug rasch die Doppelfenster zu und ließ die Stabjalousie
-rasselnd herabgleiten, das dasselbe beim zweiten
+rasselnd herabgleiten, tat dasselbe beim zweiten
 Fenster, schloß auch die Vorhänge und meinte, sich mir wieder
 zuwendend:
 
-»Man soll sich nie zu früh freuen?«
+»Man soll sich nie zu früh freuen!«
+
 Dann schritt er zu der weißlackierten Tür, die aus dem
-
 Wohnsalon in den Flur führte und die dem Fenster genau
-gegenüberlag, an dem wir soeben noch gestanden hatten.«
+gegenüberlag, an dem wir soeben noch gestanden hatten.
 
-Nahm einen Stich!, drehte am Lichtschalter (das Zimmer
-hakte Deckenbeleuchtung und war der Staatsraum des Pensionats),
+Nahm einen Stuhl, drehte am Lichtschalter (das Zimmer
+hatte Deckenbeleuchtung und war der Staatsraum des Pensionats),
 stieg auf den Stuhl und besichtigte den geschnitzten
-Türausschlag.
+Türaufschlag.
 
 »Bitte …« sagte er kühl … »Wir haben Glück gehabt
+… Vier Löcher!«
 
-… Bier Löcher!«! …
-
-Ich begriff jäh»…
+Ich begriff jäh …
 
 <@pagebreak/>
 »Schüsse?«
 
-»Ja, mein Alter … Schüsse hinter der Hecke der Strand:
-Promenade hervor … Die Kugeln sitzen Atem;ich dich! herein.
-ander … Offenbar sollen sie mir, denn ich stand rechts vor
-dir am Fenster. Da die Villa hoch liegt, mußten auch Ei«
-Kugeln kurz Anitas Büchse über der eigentlichen Tür im
+»Ja, mein Alter … Schüsse hinter der Hecke der Strand-
+Promenade hervor … Die Kugeln sitzen ziemlich dicht anein-
+ander … Offenbar galten sie mir, denn ich stand rechts vor
+dir am Fenster. Da die Villa hoch liegt, mußten auch die
+Kugeln aus Anitas Büchse über der eigentlichen Tür im
 Aufsatz zu finden sein. — Mache dich zum Ausgehen fertig.
 Ich möchte mir die Stelle ansehen, wo Anita sich versteckt
 hatte.«
 
-Der Herr Baron von Hockers, leicht? hinkend, und sich fest aus
+Der Herr Baron von Hartock, leicht hinkend, und sich fest auf
 seinen Spazierstock stützend, — der treue Diener Wilhelm
-links neben ihm, den Mantel seines Herrn über dem Arm
+links neben ihm, den Mantel seines Herrn über dem Arm,
 so schritten wir der Stelle zu, die einzig und allein als Versteck
 für die Attentäterin in Betracht kommen konnte.
 
-Die Hecke, Bahnhof die Etrandlicfern, zwischen diesen ein
-an Land gezogenes und frisch geleertes Fischerboot, — 	— wi
+Die Hecke, dahinter die Strandkiefern, zwischen diesen ein
+an Land gezogenes und frisch geleertes Fischerboot, — — wir
 näherten uns im großen Bogen dem Platz
 
-Harst äugte inßtrauisch umher.
+Harst äugte mißtrauisch umher.
 
-Weit und Brot kein Mensch … Nur unweit des Bootssteges
+Weit und breit kein Mensch … Nur unweit des Bootssteges
 spielten ein paar Kinder mit einem Hunde.
 
 Harald näherte sich dem Boote, das mit dem Kiel nach
-oben da lag, Der lose Seesand rund um den kleinen Kutter
-war von flachen, verwischten Spuren vielfach durchkreuzt, Das
-Boot rot sehr [stark nach Teer, und offenbar hatte der Fischer
+oben da lag. Der lose Seesand rund um den kleinen Kutter
+war von flachen, verwischten Spuren vielfach durchkreuzt. Das
+Boot roch sehr stark nach Teer, und offenbar hatte der Fischer
 es erst heute vormittag angepinselt.
 
-Harst meinte kurz: »Vergebene Licbe&mnüh, mein Alter
--… Hier werden wir nichts von Bedeutung feststellen. —
+Harst meinte kurz: »Vergebene Liebesmüh, mein Alter
+… Hier werden wir nichts von Bedeutung feststellen. —
 Halt — 	— was ist daß?! Da klebt ein Zettel an dem Kiel.«
 
 Harald trat rasch hinzu, löste das Papier und las:
 
 »Kommen Sie um elf Uhr abends in den Park der Villa
-Waldfrieden, Ostecke, wo das Blockhaus zwischen den Frau«
-Dornbüschen steht, Fürchten Sie nichts! Die Dame, die den
+Waldfrieden, Ostecke, wo das Blockhaus zwischen den 
+Brombeerbüschen steht. Fürchten Sie nichts! Die Dame, die den
 Schirm benutzte, wird Ihnen nicht mehr gefährlich werden.«
 
 Ich schaute Harst über die Schulter …
@@ -1551,29 +1550,29 @@ Ich schaute Harst über die Schulter …
 <@pagebreak/>
 mehren sich. Ich hatte die Absicht, die Sache Pinz gleich
 heute endgültig zu erledigen, bevor Frech Marga Wellert
-unser Verschwinden aus Berlin bemerkt und hierher zurück-gekef:
-rt wäre. Nun wird sich dies kaum durchführen lassen,
-denn anscheinend ist noch« ein neuer Mitspieler aufgetaucht,
-einer, der Agra beobachte! hat und der …«
+unser Verschwinden aus Berlin bemerkt und hierher zurückgekehrt
+wäre. Nun wird sich dies kaum durchführen lassen,
+denn anscheinend ist noch ein neuer Mitspieler aufgetaucht,
+einer, der Anita beobachtet hat und der …«
 
-Chateau … blickte nach den drei spielenden Rindern aus.
+Schwieg … blickte nach den drei spielenden Kindern aus.
 
 »Wollen mal fragen,« sagte er.
 
 Die Kinder unterbrachen ihr ausgelassenes Umhertollen,
 als wir uns näherten … Es waren zwei Mädchen und ein
-Junge von vielleicht zwölf Jahren, der Hund ein Dolchspitze.
+Junge von vielleicht zwölf Jahren, der Hund ein Wolfspitz.
 
 Die roten Wangen der Kleinen, die leuchtenden Augen:
-glückliche Jugend! — Und als Harald nun nach einigen Garn
+glückliche Jugend! — Und als Harald nun nach einigen harm-
 losen Bemerkungen den strahlenden Bürschlein eine ganze
-Mark spendete — «,«… kauft euch Süßigkeiten dafür …,«
+Mark spendete — «… kauft euch Süßigkeiten dafür …,«
 hatte er die Freundschaft genügend vorbereitet, fragte nun und
 erhielt klare, rasche Antwort. Kinder hatten ja die Augen
 überall.
 
-»Eine Dame saß dort im Hände hinter der Sehe …»’
-nickte der Knabe … »Und einen Stirn hatte sie … Den
+»Eine Dame saß dort im Sande hinter der Hecke …»
+nickte der Knabe … »Und einen Schirm hatte sie … Den
 hielt sie zuweilen an die Schulter …«
 
 »Sahst du noch jemand, mein Junge?«
@@ -1582,129 +1581,127 @@ hielt sie zuweilen an die Schulter …«
 
 Da rief das eine Mädelchen:
 
-»Das ist nicht! wahr, Fritz … Er »war noch eins Dame
-da … Die stand hinter, jener Kiefer « …
+»Das ist nicht wahr, Fritz … Er war noch eins Dame
+da … Die stand hinter jener Kiefer « …
 
-»Und das andere Mädel suchte die Freundin zu übertrumpfen
+Und das andere Mädel suchte die Freundin zu übertrumpfen
 … »Die Dame hinter der Kiefer war Fräulein
-Wellert … Ich bin nämlich Erna Machst, vom Kaufmann Mann
+Wellert … Ich bin nämlich Erna Motz, vom Kaufmann Motz
+… Pinzens nehmen alles von uns … Und Fräulein Wellert
+ist eine Verwandte von Pinzens …«
 
-… Pinzens nehmen alles von uns … Und Fräulein Voller!
-ist eine Verwandte von Pinzens«…«
-
-So hörten wir denn Meter, daß die Frau mit dem Regenschirm
-Komik einem Male sehr eilig nach Ahlbeck zu Sprengte
+So hörten wir denn weiter, daß die Frau mit dem Regenschirm
+mit einem Male sehr eilig nach Ahlbeck zu davon-
 gegangen sei, und daß Fräulein Wellert nachher dort am frisch
-gekrochen Boote gestanden habe.
+geteerten Boote gestanden habe.
 
 <@pagebreak/>
 »Sag’ mal, kleine Erna,« fragte Harst weiter, »ob Fräulein
-« Wellert wohl Malerin ist?«
+Wellert wohl Malerin ist?«
 
-»Jan, ja …!? Hm Sommer hakte sie ihre Bilder doch in
-einem der Verkaufsstände der Seebrücke angestellt …’
+»Ja, ja …! Im Sommer hatte sie ihre Bilder doch in
+einem der Verkaufsstände der Seebrücke ausgestellt …"
 
-»Jetzt ihr, Kinder, das wollte ich nur wissen. Vielleicht
-kaufe ich dem Fräulein ein Bild ab … Nun läuft und hob!
-euch recht was Schlosses für die Mark. E knallt’s aber vier
+»Seht ihr, Kinder, das wollte ich nur wissen. Vielleicht
+kaufe ich dem Fräulein ein Bild ab … Nun läuft und holt
+euch recht was Schönes für die Mark. Erzählt’s aber
 niemandem, daß ich euch was geschenkt habe … Das bleibt
 alles unter uns, Kinder …«
 
 Mit einem wahren Indianergeheul sausten die drei davon,
 der Hund bellend hinterdrein …
 
-Wenn sie geahnt hätten, »wie wertvoll für uns ihre Beobachtungen
+Wenn sie geahnt hätten, wie wertvoll für uns ihre Beobachtungen
 waren!
 
 Harst schaute über das Meer in die dunstige Ferne Hinaus.
 Dann sagte er — wohl mehr zu sich selbst: »Wir sind also
 doch von Berlin aus verfolgt worden — sogar von zwei
-Menschen: Anita Galski und Marga Voller!! — Ich stehe
+Menschen: Anita Galski und Marga Wellert! — Ich stehe
 hier zwischen zwei Frauen, zwischen zwei Dramen, weiß nicht
-einmal, ob ich einen Zusammenhang sitzen)unsicher Art zwischen
+einmal, ob ich einen Zusammenhang irgendwelcher Art zwischen
 ihnen annehmen muß. Jetzt spielt sich dieselbe Frau,
 die uns in der verflossenen Nacht in Berlin so leicht und klug
-abzuschütteln suhle, als unsere Verbündete auf … Ihre
+abzuschütteln suchte, als unsere Verbündete auf … Ihre
 Worte auf dem Zettel lassen sich doch nur so deuten, daß
-sie die Macht besitzt, Anita unschädlich zu machen, — Jetzt
+sie die Macht besitzt, Anita unschädlich zu machen. — Jetzt
 wollen wir, bevor es noch ganz dunkel wird, das Terrain für
-die Nacht ein we’4 sondieren: den Park der Villa Waldfrieden,«
+die Nacht ein wenig sondieren: den Park der Villa Waldfrieden,«
 
 <h2>2. Kapitel.</h2>
 
-An der Post vorüber gelanaqten wir in die Bahnhofstraße,
+An der Post vorüber gelangten wir in die Bahnhofstraße,
 konnten so flüchtig auch die Villa Pinz mustern, ein kleines,
-konnten so flüchtig auch die Villa King mustern, ein kleines,
 unschönes Gebäude in einem weiten Garten. Dann bogen wir
-in die Chaussee ein, die zwischen alten Langen und Hochwald
+in die Chaussee ein, die zwischen alten Tannen und Hochwald
 <@pagebreak/>
-bergan läuft und weiterhin die ganze Insel Usedom bis Fahrgast
-bin durchquert, … Hinter Hand zweigt von der Chaussee
-Gräfin Suchen: 4 »Ab, und vier, Du das Gelände sich senkt, und
-Abteil wiegte das Dorf Beutel liegt, desto! der große,
-verwilderte Part von Waldfrieden. Wir schritten am Zaun
-erst.: ich, bis der Abhang ug Halt gebot. Lugten über den
+bergan läuft und weiterhin die ganze Insel Usedom bis Wolgast
+hin durchquert. Linker Hand zweigt von der Chaussee
+ein Fahrweg ab, und hier, wo das Gelände sich senkt, und
+unten im Tale das Dorf Neuhof liegt, beginnt der große,
+verwilderte Park von Waldfrieden. Wir schritten am Zaun
+entlang, bis der Abhang uns Halt gebot. Lugten über den
 grün bemoosten Holzzaun hinein in diesen verwahrlosten Park,
-bemerkte! an) bald den Giebel eines Blockhauses, das mit
+bemerkten auch bald den Giebel eines Blockhauses, das mit
 seinen vernagelten Fenstern und dem flachen Dache, auf dem
-Baumland von Jahren faulte, wenig einladend aussah. Rings
-um das kleine Hauses:n, das so recht in jede Judianergt«
+Baumlaub von Jahren faulte, wenig einladend aussah. Rings
+um das kleine Häuschen, das so recht in jede Indianer-
 Geschichte hineingepaßt hätte, wucherten Brombeerstauden und
 dichtestes Unterholz, und bildeten einen stachligen Wall, durch
-den man wohl nur na! einem Messer sich einen Weg Palmen
-konnte. Zwei Reihen hoher Langen, gqfseunbar absichtlich so
+den man wohl nur mit einem Messer sich einen Weg bahnen
+konnte. Zwei Reihen hoher Tannen, offenbar absichtlich so
 gepflanzt, daß das Blockhaus von keiner Seite gesehen werden
-konnte, verließen dem düsteren Bauwerk noch eindringlicher
-den Hinweis auf eine besondere geheimnisgvolle Bestimmung.
+konnte, verliehen dem düsteren Bauwerk noch eindringlicher
+den Hinweis auf eine besondere geheimnisvolle Bestimmung.
 Vor der niederen Tür des Häuschens aber stand eine uralte,
-dicke Sie, deren Krone, wohl durch Blitzschlag geknickt, schräg
+dicke Eiche, deren Krone, wohl durch Blitzschlag geknickt, schräg
 nach unten hing und sich auf das Dach der Blockhütte stützte.
 
-Harst machte kehrt. »Es genügt, mein Alter …’’ sagte er.
-»Wir werden uns hier [schon zurechtfinden, auch nachts …»’
+Harst machte kehrt. »Es genügt, mein Alter …" sagte er.
+»Wir werden uns hier schon zurechtfinden, auch nachts …»
 
 So wanderten wir denn wieder unserem behaglichen
-Meeresblick zu. Kamerxt abermals an der Villa Pinz vorüber
+Meeresblick zu. Kamen abermals an der Villa Pinz vorüber
 und begegneten gleich darauf einem kleinen, stiernackigen
 Menschen mit rötlichem Vollbart, der eine schmierige, blaue
-Livrcejade und eine Kutschermütze trug. — Harst sprach den
+Livreejacke und eine Kutschermütze trug. — Harst sprach den
 Mann, auf den er mich schon vorher aufmerksam gemacht
 hatte, leise an, nachdem er sich verstohlen umgesehen hatte.
 Die Straße war leer.
 
-»Gern Johann Klatt?« fragte er …
+»Herr Johann Klatt?« fragte er …
 
 Der Rothaarige nahm rasch die Tabakspfeife aus dem
 Munde.
 
-Ich sah, daß Klatts Aas am Kragen dicht mit Kopfschuppen
+Ich sah, daß Klatts Jacke am Kragen dicht mit Kopfschuppen
 <@pagebreak/>
 bestreut war, und erinnerte mich sofort an die verschiedenen
-Schlußfolgerungen, die Harald aus den Berichte des
+Schlußfolgerungen, die Harald aus dem Briefe des
 Kutschers abgeleitet hatte,
 
-»Jawohl. Herr, — — Schon! glitt,« erklärte der Erhielte
-der jenes Briefe nun mit schlichen Wiüßtranen… Seine
-bellen Fischaugen musterten und? 2x zwäöhnisch.
+»Jawohl, Herr, — — Johann Klatt,« erklärte der Absender
+jenes Briefes nun mit sichtlichem Mißtrauen. Seine
+hellen Fischaugen musterten uns argwöhnisch.
 
-»Harst »tt« flüsterte mein Herz Baron nicht Betonung.
+»Harst ...!« flüsterte mein Herr Baron mit Betonung.
 
-Ah — — wirklich …?! Ich …
+"Ah — — wirklich …?! Ich …"
 
-»Wenn Sie Zeit haben, folgen Sie mit in erfahren Gut.
-Entfernung bis zum Strande …’
+»Wenn Sie Zeit haben, folgen Sie uns in einiger
+Entfernung bis zum Strande …"
 
-»Gut, Herr Harst … Gut, gut … H!! Zeit …
+»Gut, Herr Harst … Gut, gut … Habe Zeit …"
 
-Dann standen wir »drei hinter dem Aus!’pavillon im
+Dann standen wir drei hinter dem Musikpavillon im
 verödeten Kurgarten,
 
 »Ein paar Fragen, Herr Klatt … Fräulein Wellert war
 in Berlin?«
 
-»Ja … Nur einen Tag … Ihre Tante war krank«…«
+»Ja … Nur einen Tag … Ihre Tante war krank …«
 
-»Sie ist heute nachmittag zurückgekehrt 9«
+»Sie ist heute nachmittag zurückgekehrt ...?«
 
 »Stimmt, Herr Harst …«
 
@@ -1716,14 +1713,14 @@ in Berlin?«
 
 »Seit heute nachmittag … Als mein Herr heute so gegen
 vier in den Salon ging, nachdem er ausgeschlafen hatte, da
-war nichts mehr auf ’in Kamin, und da hat er gelobt wie
-ein Verrückter. Über die alte Uhr fand er nicht …«
+war nichts mehr auf ’m Kamin, und da hat er getobt wie
+ein Verrückter. Aber die alte Uhr fand er nicht …«
 
 »So, so … — Könnten Sie vielleicht heimlich ein Fenster
 des Salons offen lassen oder doch nur anlehnen? Und —
-wann gehen Ihre Herrschaften schlafen? Wo liegt der Galopp«
+wann gehen Ihre Herrschaften schlafen? Wo liegt der Salon?«
 
-Der Kutscher beschrieb uns genau die Sitze der Räume
+Der Kutscher beschrieb uns genau die Lage der Räume
 und erklärte, daß er das eine Fenster nicht verriegeln würde.
 
 Harst reichte ihm die Hand zum Abschied …
@@ -1732,101 +1729,102 @@ Harst reichte ihm die Hand zum Abschied …
 was für uns wichtig ist …«
 
 Dann trennten wir uns von dem kleinen, stämmigen
-Menschen, der ohne Zweifel ein ganz heiler Kopf war, dabei
+Menschen, der ohne Zweifel ein ganz heller Kopf war, dabei
 <@pagebreak/>
-eine Biedere Laut und ein stiller Verehrer Fräulein Marga,
+eine biedere Haut und ein stiller Verehrer Fräulein Margas,
 die er als »den einzig vernünftigen Menschen in der Villa«
 bezeichnet hatte,
 
-Nach seinen Angaben war die Lebensführung des Ehe«
-Paares P133 Kleid:agäa e2chl eigenartig. Pinz schlief unten
-im Crdgeich:ob, ging stets schon um neun zu Bett und sich
-die ganze Nacht in seinem Schlafzimiuner Sich! brennen. Frau
-von Pinz hatte ihr Shhluäsgemacy im ersten Stock neben dem
-Stimmchen (Heer Wichte uns sollte im Gegensatz zu dem Hausherrn
-nie!! bis zwar »Ihr aufbleiben, lesen, oder lautlos die
-vorschleichen,
+Nach seinen Angaben war die Lebensführung des Ehe-
+Paares Pinz allerdings recht eigenartig. Pinz schlief unten
+im Erdgeschoß, ging stets schon um neun zu Bett und ließ
+die ganze Nacht in seinem Schlafzimmer Licht brennen. Frau
+von Pinz hatte ihr Schlafgemach im ersten Stock neben dem
+Zimmer ihrer Nichte und sollte im Gegensatz zu dem Hausherrn
+meist bis zweu Uhr aufbleiben, lesen, oder lautlos
+umherschleichen,
 
-»Diese beiden Leute, meinte Harst nun, als wir dem
-Meeresblick zuschritten!, »haben frech;echt mancherlei zu der«
+»Diese beiden Leute," meinte Harst nun, als wir dem
+Meeresblick zuschritten, »haben sicherlich mancherlei zu ver-
 bergen. Und zwar dürfte Pinz die fragwürdigere Natur
-sein, während seine Frau, die doch nach Klatts Angaben wo«
-Finger und blaß wie ein Gespenst ist, offenbar in steter Angst vor
-irgend etwas dahinleb!, und deshalb [so ruhelos ist — Nun,
+sein, während seine Frau, die doch nach Klatts Angaben mager
+und blaß wie ein Gespenst ist, offenbar in steter Angst vor
+irgend etwas dahinlebt, und deshalb so ruhelos ist. — Nun,
 wir werden ja sehen … Zunächst habe ich einen Bärenhunger,
 mein Alter … Um halb zehn werden wir als Pennbrüder
-den Meeresoblik verlassen,
+den Meeresblick verlassen,"
 
 Halb zehn …
 
-Zwei zerlumpte Gestalten, — Kerle, denen man Lachte
+Zwei zerlumpte Gestalten, — Kerle, denen man nachts
 ungern begegnet, schleichen tief gebückt durch den Garten,
 klettern gewandt über den Nachbarzaun und betreten die
 Straße erst unweit des Kurhauses. Die spärlichen Laternen,
-dazu die herbstliche Finsternis der wolkigen Sturzmnacht, — —
-all das Komma! uns sehr gelegen. Bis zur Villa Pinz ist’s
+dazu die herbstliche Finsternis der wolkigen Sturmnacht, — —
+all das kommt uns sehr gelegen. Bis zur Villa Pinz ist’s
 nicht weit. Wir treffen keine Seele. Ein Regenschauer
 prasselt herab … Hinter erleuchteten Fenstern bewegen sich
 Menschen im Warmen, ahnen nicht, daß draußen im Freien
 zwei unterwegs sind, um Dingen nachzuspüren, die verworrener
-sind als ein Knäuel Garn, mit dem ein Katzen gespielt hat.
+sind als ein Knäuel Garn, mit dem ein Kätzchen gespielt hat.
 
-Mit unserem Knäuel haben zwei Mädchen gespielt: Agra
-—» — Marga! — —
+Mit unserem Knäuel haben zwei Kätzchen gespielt: Anita
+— — Marga! —
 
 Bahnhofstraße … Villa Pinz. — Hunde gibt es hier
 <@pagebreak/>
 nicht … Wir stehen im Schatten des Stalles. Vor uns die
-Seitenfenster, der Salon. In dem Er Zimmer Witz! Schlangen
+Seitenfenster, der Salon. In dem Eckzimmer Licht hinter
+geschlossenen Läden: Pinz’ Schlafstube. — Über uns im
+Stallgiebel gleichfalls ein helles Fenster: Johann Klatt!
 
-geschlossenen Läden: Pinz’ Schloßruine. — Über uns mit
-Stallgiebel gleichfalls ein helles Fenster: Sprang Trat!!
-Harald (wer hätte in ihm jetzt der Herrn Baron vorn Halbtot
-ersann!!!) — Harald gleitet aus »cm Dunkel der Stalltür
-bis zum linken Kolonien, und steigt mit dem einen Fuß auf
-den Mauervorsprung, zieht Biß empor und lugt durch eine
+Harald (wer hätte in ihm jetzt der Herrn Baron von Hartock
+erkannt!!) — Harald gleitet aus dem Dunkel der Stalltür
+bis zum linken Eckfenster, und steigt mit dem einen Fuß auf
+den Mauervorsprung, zieht sich empor und lugt durch eine
 Ritze der Holzläden …
 
 Da das Haus dunkelgrau gestrichen ist und hier in diesem
-Teil des Grundstücks keinerlei List, auch nicht einmal von
+Teil des Grundstücks keinerlei Licht, auch nicht einmal von
 einer Straßenlaterne fällt, ist Harsts an der Mauer klebende
 Gestalt kaum zu erkennen. Und doch bleibt mir das Herz vor
 Schreck förmlich stehen, als ich von rechts, wo der überdachte
-… Eingang zu den Kellerräumen am äußersten Ende der Wand
-… vorspringt, ein leises, metallisches Quietschen vernehme: schnell
+Eingang zu den Kellerräumen am äußersten Ende der Wand
+vorspringt, ein leises, metallisches Quietschen vernehme: schnell
 geölte Türangeln!
 
 Ein Mann taucht aus dem Kellereingang auf …
-Verhält sie eine Weile regungslos … Scheint zu lauschen,
+
+Verhält sich eine Weile regungslos … Scheint zu lauschen,
 umherzuspähen …
 
-Harst hat ihn bemerkt … Er hat den Kopf nach rote
-gedeckt … Er muß den Mann, sehen der nun hastig auf
+Harst hat ihn bemerkt … Er hat den Kopf nach rechts
+gedeckt … Er muß den Mann sehen, der nun hastig auf
 den Stall zueilt und dicht an der Stallmauer sich hinschiebt.
-—» Ich Brücke mich noch enger in die Türnische … Der Mann
+— Ich drücke mich noch enger in die Türnische … Der Mann
 kommt so dicht an mir vorüber, daß ich ein hageres Gesicht
-mit grauem Spitzbart und einer großen Hakennase unter
+mit grauem Spitzbart und einer großen Hakennase unter-
 scheide. Es muß Herr von Pinz sein.
 
 Ohne uns zu bemerken, betritt er durch die Gartenpforte
 die Straße und verschwindet.
 
-Hm Augenbliä ist Harald wieder neben mir …
+Im Augenblick ist Harald wieder neben mir …
 
-»Gabst du ihn, mein Alter?« flüstert er in sonderbarer
+»Sahst du ihn, mein Alter?« flüstert er in sonderbarer
 Erregung.
 
-»Recht gut …
+»Recht gut …"
 
 »und du würdest ihn wiedererkennen?«
 
-»Natürlich …
+»Natürlich …"
 
 <@pagebreak/>
-»Davon komm«…«
+»Dann komm …«
 
 Und er eilt der Kellertür zu, zieht den Patentdietrich,
-schraubt daran, bis er paßt, öffnet die Für, verschließt sie
+schraubt daran, bis er paßt, öffnet die Tür, verschließt sie
 hinter uns wieder …
 
 Taschenlampen beleuchteten den Kellereingang. Links
@@ -1834,53 +1832,53 @@ eine offene Tür, dahinter ein langgestreckter, leerer Raum …
 
 »Der muß bis zu Pinz’ Schlafstube reichen,« meint Harst.
 »Wollen mal sehen … Da — die Fenster sind von innen
-vermtauert, nachträglich.« Au das hakt etwas zu bedeuten
+vermauert, nachträglich. Auch das hat etwas zu bedeuten
 … Pinz muß von seinem Schlafzimmer aus hier hinabgelangt
 sein … Wollen sehen …«
 
-Und wir … fanden und sahen … Da war in der Bin.
-untersten Ecke des Kellers ein weiß getünchten Bretterverschlag
+Und wir … fanden und sahen … Da war in der hintersten
+Ecke des Kellers ein weiß getünchter Bretterverschlag
 mit einer kleinen, nur angelehnten Tür. In diesem Bretterkasten,
 der bis zur Kellerdecke empor reichte, standen verstaubte
 Akkumulatoren älterer Konstruktion, liefen isolierte Drähte
 nach oben. Fraglos hatte die Villa einst eigene elektrische
 Beleuchtung gehabt. — Noch etwas gab es in diesem Holzverschlag:
-eine schmierige Gestreifte, die ausgeklappt an der
+eine schmierige Trittleiter, die ausgeklappt an der
 einen Wand lehnte,
 
 Harst ließ den grellen Kegel seiner Taschenlampe nach
 oben fallen. Auf den ersten Blick war dort an der gleichfalls
 getünchten Decke nichts Besonderes zu bemerken. Schaute
-man genauer hin, so gewahrte man jedoch die unklaren Ums
-Risse eines Viereck, das glatter erschien als die verpaßte
+man genauer hin, so gewahrte man jedoch die unklaren Um-
+Risse eines Vierecks, das glatter erschien als die verputzte
 Decke. — Harald stieg schon die Trittleiter hinan und hatte
 dann auch sehr bald die ziemlich primitive Doppelfalltür
-geöffnet. Die untere klappte nur unten, die obere ließ sich …
-empordrücken. Über dieser lag ein Teppich, den Harst erst —
-berichtete schien mußte.
+geöffnet. Die untere klappte nur unten, die obere ließ sich
+empordrücken. Über dieser lag ein Teppich, den Harst erst
+beiseiteschieben mußte.
 
-Gleich darauf lagen wir beide in Herrn von Pinz’ Schlaf«
+Gleich darauf lagen wir beide in Herrn von Pinz’ Schlaf-
 Zimmer, halb hinter einem mächtigen Kleiderschrank. In der
 Mitte des großen Zimmers stand ein breites, französisches
-Bett, in der Ecke nach dem rechten Fenster »Zu aber ein runder
+Bett, in der Ecke nach dem rechten Fenster Zu aber ein runder
 Tisch mit einer elektrischen Lampe mit grünem Seidenschirm,
 <@pagebreak/>
 deren gedämpftes Licht selbst den Sessel neben dem Tisch im
 Schatten Ließ.
 
-— sehe!sel …
+Im Sessel ...
 
-Cm Kann sah darin … Ich saß) sein Profil gegen die
+Ein Mann saß darin … Ich sah sein Profil gegen die
 helle Tapete … Ich sah, daß es Herr von Pinz war …
 Er mußte es sein … Er hielt in den Händen eine Zeitung,
-im Mundwinkel eine Jäugerpfcife, die ihm bis auf die Brust
-hinabhing und ans der zuweilen kleine Rauchwölkchen
-entstiegen, Zuweilen bewegte er auch die Hände. Dann
+im Mundwinkel eine Jägerpfeife, die ihm bis auf die Brust
+hinabhing und aus der zuweilen kleine Rauchwölkchen
+entstiegen. Zuweilen bewegte er auch die Hände. Dann
 knisterte die von der Lampe beschienene Zeitung ganz leise.
 
-»Urban Malch!’« flüsterte Harald …
+»Urban Malch!« flüsterte Harald …
 
-Malch?: Malch?!« — — Und dann ein Blitz des Verständnislos:
+Malch?! Malch?! — — Und dann ein Blitz des Verständnisses:
 eine Wachspuppe, eine Arbeit Malchs, ein Automat
 …!!
 
@@ -1892,48 +1890,49 @@ die Bewohner der Villa täuschen und die nächtlichen Ausflüge
 des Hausherrn verheimlichen … Frau von Pinz’ nervöse
 Unruhe wird schon ihren guten Grund haben. Die
 Ärmste fürchtet diese Abendspaziergänge ihres Gatten, mag
-sie verhindert haben, Da lieferte Malch ihm das Wchs-fontersei.
+sie verhindert haben. Da lieferte Malch ihm das Wachskonterfei.
 Wenn Frau von Pinz’ nun von dort drüben durch
-Hindus Glüssellnch& der Flurtür schaut, so ist sie beruhigt —
-betrogen … Ihr Mann Sitz! hier scheinbar und raucht und
-liest?! — Sehr sein ausgeklügelt … sehr sein …! — Ich sah
+das Schlüsselloch der Flurtür schaut, so ist sie beruhigt —
+betrogen … Ihr Mann Sitzt hier scheinbar und raucht und
+liest! — Sehr fein ausgeklügelt … sehr fein …! — Ich sah
 die Puppe schon von draußen, wollte sie dir nur zeigen. —
-Hie andere Tür dort führt in den Salon … Folge mir«…«
+Die andere Tür dort führt in den Salon … Folge mir …«
 
-Auf allen Vielen klare er auf die Tür zu und reckte
+Auf allen Vieren kroch er auf die Tür zu und reckte
 den Arm hoch, probierte den Schlüssel, schloß auf, öffnete …
 
 Dann standen wir in dem kalten, dunklen Salon vor dem
-breiten, unschönen Kaminofen. Harst ließ nur einen aussteigen
+breiten, unschönen Kaminofen. Harst ließ nur einen winzigen
 Lichtstrahl durch die Finger auf den Kaminvorsprung
-fallen, Hier standen zwei Meißener Porzellanfigürchen und
-zwei aus Halt geschnitzte, große Elefanten mit Elfenbeinstoßzähnen.
+fallen. Hier standen zwei Meißener Porzellanfigürchen und
+zwei aus Holz geschnitzte, große Elefanten mit Elfenbeinstoßzähnen.
 <@pagebreak/>
 An dieser Stelle hatte wohl die geheimnisvolle
 Uhr ihren Platz gehabt.
 
-Harst betonte)tote die bunten, glasierten Kacheln … Lachte
-leise … Deutete mit dem Finger elf? auf eine Fuge zwischen
+Harst beleuchtete die bunten, glasierten Kacheln … Lachte
+leise … Deutete mit dem Finger erst auf eine Fuge zwischen
 den Kacheln, dann auf eine zweite. In diesen Fugen fehlte
-stellenweise der Bist, und an zwei Stellen waren diese schmalsten
+stellenweise der Kitt, und an zwei Stellen waren diese schmalen
 Fugen offensichtlich durch eine Feile etwas verbreitert
 worden,
 
-»In diesen Löchern stet ein Teil des Geheimnisses,«
+»In diesen Löchern steckt ein Teil des Geheimnisses,«
 raunte Harald mir zu. »Ähnliches hatte ich mir schon gedacht.
 Diese Löcher enthalten unten Metallstifte, die wieder
-an Drähte angeschlossen sein werden, Und die Uhr besitzt
+an Drähte angeschlossen sein werden. Und die Uhr besitzt
 an ihren Füßen oder ihrem Boden gleichfalls Stifte, die
-genau auf die anderen passen, so daß auch der Strompkreis
+genau auf die anderen passen, so daß auch der Stromkreis
 in der Uhr geschlossen ist. Ich behaupte, die Uhr war nichts
 als ein sinnreich erdachtes Telephon. Das Zifferblatt stellte
-gleichzeitig Muschel und Hörer dar. Mithin war’s ein 9.
-geheimes Verständigungsmittel, eine Telephonverbindung mit,«
+gleichzeitig Muschel und Hörer dar. Mithin war’s ein
+geheimes Verständigungsmittel, eine Telephonverbindung mit ...«
 
-Und [schwieg …
+Und schwieg …
 
 Zog mich rasch hinter einen Kaminschirm, der mit seiner
 gewölbten, bemalten großen Blechplatte uns notdürftig verbarg
+...
 
 Jemand trat ein, atmete hastig … Frauenröcke rauschten.
 
@@ -1943,10 +1942,10 @@ Dann glitt lautlos eine kleine, schmale Gestalt wie ein
 Schatten zu der anderen Tür, durch die wir hier eingedrungen
 waren und die wir halb offengelassen hatten …
 
-Eine FrämFrait-von: Pinz … Der geringe Lichtschein
-der durch; die Verbindungstür jetzt auf das fahle, hastige
-leidensvolle Antlitz fiel, ließ uns nach Johann Klatts By
-Abteilung die Herrin des Hauses erkennen.
+Eine Frau ... Frau von Pinz … Der geringe Lichtschein
+der durch die Verbindungstür jetzt auf das fahle, faltige
+leidensvolle Antlitz fiel, ließ uns nach Johann Klatts
+Beschreibung die Herrin des Hauses erkennen.
 
 <@pagebreak/>
 
@@ -2001,7 +2000,7 @@ wie sofort das leise, leise Kreischen des Bruders.
 
 Sir rascher Schr’!! Grotte Harst neben mich. Wir duckten
 uns von neuem, uns nun erschien sehr rasch, mit leichtem,
-schwebenden Gange, vor der anderen halb offenen Für eine
+schwebenden Gange, vor der anderen halb offenen Tür eine
 Frauengestalt in hellen, fließendenz Morgenrock: Marga
 Wellert, Frau von Pinz’ Nichte,
 
@@ -2638,7 +2637,7 @@ des Lichtkegels vor uns eine Brettertük, die nur angelehnt war.
 Harst sieh! sie vorsichtig weiter auf … Wir horchen …
 Dunkelheit … Ans der Ferne eine Stimme …
 
-Der Für gegenüber, durch die wir soeben eingetreten sind,
+Der Tür gegenüber, durch die wir soeben eingetreten sind,
 eine zweite — auch nur angelehnt …
 
 Ich eile Harst nach, der bereits die Tür behutsam weiter
