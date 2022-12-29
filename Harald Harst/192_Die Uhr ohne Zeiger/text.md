@@ -44,10 +44,10 @@ dann fiel der Deckel des Briefkastens klappernd zu. Ich ging
 hinaus und entnahm dem Kasten einen an Harald gerichteten
 Brief. Ein Blick auf die Schrift des Umschlages verriet
 einen Mann als Absender, dem die Feder ein sehr ungewohntes
-Handwerkszeug war,
+Handwerkszeug war.
 
 Harald prüfte den Briefumschlag zuerst nach seiner Gewohnheit
-von außen,
+von außen.
 
 »Billigstes Papier, mit Wasser verdünnte Tinte, Fingerspuren
 von Tabaksaft, deutlicher Stallduft: der Absender
@@ -56,7 +56,7 @@ hat. Der Mann ist Kriegsbeschädigter, ihm fehlen an
 der linken Hand der kleine und der Ring-Finger, außerdem
 sind der Mittel- und der Zeigefinger gleichfalls durch einen
 Granatsplitter verletzt worden. Hier erkennt man die Narben
-in den bräunlichen Abdrücken, Unser Kutscher raucht
+in den bräunlichen Abdrücken. Unser Kutscher raucht
 eine Patentpfeife mit einem Nikotinfänger. Als er den
 Brief adressierte, hat er vorher die Watte in dem Nikotinfänger
 ausgewechselt. Er ist wenig sauber, unordentlich, und
@@ -76,7 +76,7 @@ das Papier eingedrückt.«
 So sprach Harald, nahm eine neue Mirakulum und fuhr
 fort: »Der Brief ist gestern abend zwischen zehn und elf Uhr
 in Seebad Heringsdorf abgestempelt worden. Die Anschrift
-»Herrn Gerichtsassessor a. D. Doktor juris Harald Harst usw.
+»Herrn Gerichtsassessor a. D. Doktor juris Harald Harst« usw.
 — beweist, daß der Absender über meine Person recht genau
 unterrichtet ist, denn die meisten unserer Klienten begnügen
 sich mit dem »Herrn Detektiv Harald Harst«, obwohl …«
@@ -92,7 +92,7 @@ recht vielversprechender Anfang! Ein einfacher Kutscher teilt
 hier etwas mit, und bevor er den Brief in den Kasten werfen
 kann, warnt mich eine der Schrift nach gebildete Frau vor
 demselben Manne! — So, nun wollen wir den eigentlichen
-Brief lesen, mein Alter, Ich sehe dir an, du platzt vor
+Brief lesen, mein Alter, ich sehe dir an, du platzt vor
 Neugier …«
 
 »So ziemlich!« dachte ich ehrlich.
@@ -215,7 +215,7 @@ Verschwiegenheit und stellte dann seine Fragen.
 Ich stand neben ihm am Schreibtisch. Die Antworten
 aus Heringsdorf waren so klar und laut, daß ich jedes Wort
 verstehen konnte. Was wir so hörten, war überraschend genug.
-Nicht Herr von Pinz Selbst, sondern die Nichte seiner
+Nicht Herr von Pinz selbst, sondern die Nichte seiner
 Frau habe gestern abend gegen halb neun eine sehr lange
 Depesche erhalten, mit einem vollständig unverständlichen
 Wortlaut. Das Telegramm hatte nur aus Hauptwörtern
@@ -225,7 +225,7 @@ Marga Wollert, der Nichte der Frau von Pinz, um halb
 zehn ein Telegramm in gleicher Form an einen Herrn Urban
 Malch, Berlin W 32, Pallasstraße 19, aufgegeben worden,
 und dieser Urban Malch sei auch der Absender der Berliner
-Depesche gewesen.«
+Depesche gewesen.
 
 Harald dankte für die Auskunft, erinnerte den Beamten
 nochmals an strengste Verschwiegenheit, da es sich um sehr
@@ -243,10 +243,10 @@ Schwarzhörer werden uns gute Dienste leisten.« —
 
 Kurz vor acht Uhr abends betraten zwei ältere, bescheiden
 gekleidete Männer das Haus Nummer 19, und begaben
-sich zunächst zu Dem Hauswart, der im Hofgebäude
+sich zunächst zu dem Hauswart, der im Hofgebäude
 wohnte.
 
-»Zu Malch wollen Sie?r« fragte der Portier mit einer
+»Zu Malch wollen Sie?!« fragte der Portier mit einer
 gewissen Geringschätzung: »Der verrückte Alte haust hier
 oben im vierten Stock. Aber der ist bestimmt nicht Schwarzhörer
 … Der ist Mechaniker und hat ’ne Dachantenne.«
@@ -314,7 +314,7 @@ Breite …
 bitte, — treten Sie näher … Ich will Sie in Ihren dienstlichen
 Obliegenheiten in keiner Weise behindern. Sie werden
 bei mir nur Detektorapparate finden, allerdings das
-vollkommenste, was es in Dieser Art gibt — eigene Konstruktion
+vollkommenste, was es in dieser Art gibt — eigene Konstruktion
 … Bitte …«
 
 Das Klappfenster wurde geschlossen, und die Tür ging
@@ -335,7 +335,7 @@ Wolken, denn ich hatte tatsächlich nicht bemerkt, daß es
 sich nur um ein künstliches Tier handelte.
 
 Der Greis erwiderte nichts, schloß die Tür ab und öffnete
-eine andere, ließ uns in sein Arbeitszimmer eintreten,
+eine andere, ließ uns in sein Arbeitszimmer eintreten.
 
 <h2>2. Kapitel.</h2>
 <h3>Ein Künstler und Menschenverächter.</h3>
@@ -355,7 +355,7 @@ helle, großgeblümte Tapete die Strahlen irgendeiner Lampe
 verstärkt zurückwürfe. Nur bei genauestem Hinsehen erkannte
 ich, daß die grünblauen Blumen der Tapete offenbar
 aus farbigem, mattem Glas bestanden und daß jede einzelne
-eine besondere Lampe darstellte,
+eine besondere Lampe darstellte.
 
 Malch sagte jetzt, indem er mit einer Handbewegung
 rundum deutete: »So, meine Herren, suchen Sie … Meine
@@ -425,7 +425,7 @@ seinem zahnlosen Munde ein unheimliches Kichern hervorquoll
 fügte er hinzu. »Sie reichten mir nicht den Ausweis von
 der Post, sondern den, den die Polizei Ihnen ausgestellt hat.«
 
-»Unmöglich!« Und Harald griff in die rechte Ulstertasche,
+»Unmöglich!« Und Harald griff in die rechte Ulstertasche.
 
 Tatsächlich: es war der polizeiliche Ausweis!
 
@@ -438,7 +438,7 @@ Schraut und mich zu Ihnen führt, Herr Malch …«
 deutete nach rechts auf das alte Glanzledersofa und die
 beiden hochlehnigen Polsterstühle zu Seiten des ovalen Sofatisches,
 der mit einer merkwürdig schillernden bunten Decke
-belegt war,
+belegt war.
 
 Er trippelte um den Tisch herum und ließ sich in einer
 Sofaecke nieder, öffnete einen großen, flachen Kasten aus
@@ -568,7 +568,7 @@ Augen nicht: die Schildkröte kroch langsam über die kahlen,
 fleckigen Dielen, beschrieb einen Halbkreis und verschwand
 wieder unter dem Tisch!
 
-»Sie lieben kleine Überraschungen, meinte Harald halb
+»Sie lieben kleine Überraschungen,« meinte Harald halb
 scherzend, und halb anerkennend. »Die Knöpfe zu den elektrischen
 Leitungen, durch die Sie Ihre Automaten regieren, befinden
 sich an der Holzleiste des Sitzes des Sofas …«
@@ -622,7 +622,7 @@ irgendwie … Hilfe brauchen, dann erinnern Sie sich
 <@pagebreak/>
 an Urban Malch … Der … kann … vielleicht … doch
 noch … weit mehr, als … die Welt … es ahnt!« — Er
-Zerpflückte diese letzten Sätze in einzelne Teile, und gerade
+zerpflückte diese letzten Sätze in einzelne Teile, und gerade
 diese Art, sie vorzubringen, erhöhte nur noch das
 Geheimnisvoll-Nachdrückliche ihres Inhalts.
 
@@ -643,7 +643,7 @@ Die Depeschen haben nichts mit Anita Galski zu tun.«
 <h3>Die Schirmbüchse.</h3>
 
 Das Auto fuhr den Hohenzollerndamm entlang. Bisher
-hatte Harald nach der einen Bemerkung geschwiegen. jetzt
+hatte Harald nach der einen Bemerkung geschwiegen. Jetzt
 erhob er sich aus seiner Wagenecke und streckte den Kopf zum
 Türfenster hinaus, blickte die Straße rückwärts und setzte sich
 wieder.
@@ -706,11 +706,11 @@ Ziel geboten haben. So aber hatte ich nun die
 Genugtuung, aus dem dunklen Hausflur beobachten zu können,
 wie mein Auto, das leere Auto, an dem sehr langsam fahrenden
 gelben Kasten vorüber glitt und dann alle drei Kraftwagen
-in der Nebenstraße verschwanden,
+in der Nebenstraße verschwanden.
 
 Ich setzte mich in Haralds Arbeitszimmer in den Klubsessel
 vor dem Kamin, und suchte meine nervöse Unruhe durch
-eine Zigarre und intensivstes Nachdenken zu meistern,
+eine Zigarre und intensivstes Nachdenken zu meistern.
 
 Da schrillte das Telephon auf dem Schreibtisch …
 
@@ -860,7 +860,7 @@ Zofenkleidchen, mit weißem Schürzchen, weißem Häubchen
 die Schirmbüchse …
 
 O — sie war vorsichtig, die schlanke Anita … Sie hatte
-noch eine Schnur bereit, hatte uns sehr bald Jedem eine
+noch eine Schnur bereit, hatte uns sehr bald jedem eine
 Schlinge über den Kopf gelegt und die Mitte der Schnur straff
 gespannt über den Zierknopf der Lehne des Paneelsofas gestreift.
 Jeder Schritt auf Anita zu mußte uns erdrosseln.
@@ -903,7 +903,7 @@ sie in unserem Schlafzimmer verschwunden …
 <h3>Marga Wellert.</h3>
 
 Harald saß im Sessel, die gefesselten Arme hochgereckt.
-ich stand einen Schritt vor dem Wandschirm — — Arme
+Ich stand einen Schritt vor dem Wandschirm — — Arme
 hochgereckt, mit Harst durch die Halsschlingenschnur verbunden.
 
 Wir horchten … Nach einer Weile klappte die Haustür.
@@ -982,7 +982,7 @@ Bechert trat aus dem Schatten eines Baumes auf uns zu.
 
 Bechert persönlich …! Es ging ja um Anita Galski!!
 
-»Harst, was Ist los?!« flüsterte er …
+»Harst, was ist los?!« flüsterte er …
 
 »Futsch, lieber Bechert …!«
 
@@ -1017,7 +1017,7 @@ diese beiden Punkte zu spät geachtet …«
 
 »Und was wollen Sie nun bei Malch?«
 
-»Ihnen beweisen, daß Urban Malch auf und davon ist,«
+»Ihnen beweisen, daß Urban Malch auf und davon ist.«
 
 »Was, — — entflohen?«
 
@@ -1073,7 +1073,7 @@ Schnaubt grob. »Was gibt’s denn?! Was wollen Sie?!«
 Harald sagt höflich: »Herr Malch, wir sind’s, und dies
 <@pagebreak/>
 hier ist Herr Kriminalkommissar Bechert … Wir möchten
-Sie nur fragen, ob Sie mal einen automatischer Zwerg Hergestellt
+Sie nur fragen, ob Sie mal einen automatischer Zwerg hergestellt
 haben, der die Worte sprechen kann »Nur her mit
 dem Ding, ich verstehe mich schon darauf!« — Außerdem
 klapperte der Zwerg mit den Augen, bewegte richtig den Mund
@@ -1187,7 +1187,7 @@ machen …! — Sanitätsrat Lompner wohnt gleich hier
 links in der Potsdamer Straße. Begleiten Sie mich!«
 
 Harst mischte sich ein. »Gut, tun wir es, Bechert. Wir
-müssen klar sehen — in allem! Dieser Fall wird immer verworrener,«
+müssen klar sehen — in allem! Dieser Fall wird immer verworrener.«
 
 Nach zehn Minuten betraten wir zusammen mit dem
 Arzte das Haus Pallasstraße 19, und nach weiteren zehn
@@ -1195,7 +1195,7 @@ Minuten erschien der Sanitätsrat bei uns im Treppenflur
 und erklärte, Frau Sadroginski müsse sofort in eine Klinik
 geschafft werden: vorgeschrittene Blinddarmentzündung!
 
-Bechert blieb, Harst und ich besorgten ein Krankenauto,
+Bechert blieb, Harst und ich besorgten ein Krankenauto.
 
 Um fünf Uhr morgens stand Fräulein Marga Wellert
 zu unserer Verfügung. »Bitte, Herr Kommissar, nun möchte
@@ -1283,7 +1283,7 @@ Die zweite Zigarette … Wieder ein paar Züge … Und ein
 leises Lachen … »Da ist er wieder … Ein blutiger Anfänger!!
 — Bitte — dreht euch nicht um …! Der Mann war
 schon in der Pallasstraße, als wir Marga auflauerten …
-Ganz Geschickte Maske … Als Beamter der Nachtwach-Gesellschaft.
+Ganz geschickte Maske … Als Beamter der Nachtwach-Gesellschaft.
 Aber auch nur die Maske geschickt. Benehmen durchaus
 <@pagebreak/>
 noch Grünhorn … Vielleicht ist’s gar der Chauffeur,
@@ -1318,7 +1318,7 @@ Bechert reichte Harald den Ausweis.
 An der Legitimation war nichts auszusetzen. Sie lautete
 auf den Namen Ernst Wenk, und das Lichtbild, von der
 Polizei abgestempelt, stellte zweifellos den Mann dar, der
-vor uns stand,
+vor uns stand.
 
 Harst sagte kurz: »Niete …! — Es genügt, Bechert …
 — Guten Abend, Herr Wenk …«
@@ -1341,7 +1341,7 @@ war ich, als er in seinem Arbeitszimmer die Kaffeemaschine
 füllte, den Spiritus anzündete und mit feinem leisen Lächeln,
 das so ungeheuer vieldeutig sein kann, zu mir sagte: »Geh
 nur schlafen, mein Alter … Ich habe noch zu tun … Ich
-muß diese letzte Überraschung, die größte der Nach, erst noch
+muß diese letzte Überraschung, die größte der nach, erst noch
 geistig verdauen …«
 
 »Die letzte?«
@@ -1377,7 +1377,7 @@ nannte einen beliebigen Namen und sagte weiter, es handele
 sich lediglich um eine Privatangelegenheit.
 
 Unser Ernst Wenk war mithin wirklich die Kopie des
-echten gewesen,
+echten gewesen.
 
 Und abermals nahm Harald den Hörer von der Gabel,
 verlangte die Großwäscherei Helios in Neukölln. Der Pförtner
@@ -1386,7 +1386,7 @@ meldete sich. — Ob eines der Autos der Wäscherei in dieser
 Nacht sehr spät heimgekehrt sei, fragte er. Erhielt zur Antwort,
 das stimme allerdings. Der Chauffeur habe eine Panne
 gehabt. — Wie der Chauffeur heiße? bat er weiter um
-Auskunft. — Fritz Wenk sei der Name,
+Auskunft. — Fritz Wenk sei der Name.
 
 »Hat Fritz Wenk einen Bruder bei der Nachtwach-Gesellschaft?«
 
@@ -1438,7 +1438,7 @@ meine einfenstrige Schlafstube. —
 
 Wir hatten beide Fensterflügel geöffnet. Schon deshalb,
 weil unsere Wirtinnen den Ofen mit Preßkohlen allzugut
-gefüttert hatten und dieser Ofen ziemlich unangenehm stank,
+gefüttert hatten und dieser Ofen ziemlich unangenehm stank.
 
 Ganz leise brandete dort unten die See. Die kleinen
 Wellen schossen mit weißen Schaumköpfchen am Strande
@@ -1446,7 +1446,7 @@ dahin wie spielende Schlangen. Es war mehr ein Zischen
 wie Branden, und in diese sanfte Melodie des schlafenden,
 schnarchenden Meeres mischte sich das Naturkonzert der krächzenden
 Krähen und der heiter in der Luft sich wiegenden,
-kreischenden Möwen,
+kreischenden Möwen.
 
 Ein paar der eleganten Vögel schienen daran gewöhnt zu
 sein, von den Badegästen gefüttert zu werden, und strichen
@@ -1469,7 +1469,7 @@ sich etwas, das uns zunächst völlig unbegreiflich blieb.
 Eines der Tiere fiel mit einem Male ängstlich flatternd
 aus der Luft herab und unten auf den Rasen des Vorgartens,
 wo es sehr bald verendete. Dieser Zwischenfall war das Signal
-für eine allgemeine Flucht der Möwen,
+für eine allgemeine Flucht der Möwen.
 
 Sie verstreuten sich, und während ich ihnen noch halb
 erstaunt und halb erschrocken nachblickte, riß Harald mich mit
@@ -1520,7 +1520,7 @@ für die Attentäterin in Betracht kommen konnte.
 
 Die Hecke, dahinter die Strandkiefern, zwischen diesen ein
 an Land gezogenes und frisch geleertes Fischerboot, — — wir
-näherten uns im großen Bogen dem Platz
+näherten uns im großen Bogen dem Platz.
 
 Harst äugte mißtrauisch umher.
 
@@ -1549,7 +1549,7 @@ Ich schaute Harst über die Schulter …
 »Max Schraut,« meinte er ernst, »die Rätsel dieses Falles
 <@pagebreak/>
 mehren sich. Ich hatte die Absicht, die Sache Pinz gleich
-heute endgültig zu erledigen, bevor Frech Marga Wellert
+heute endgültig zu erledigen, bevor noch Marga Wellert
 unser Verschwinden aus Berlin bemerkt und hierher zurückgekehrt
 wäre. Nun wird sich dies kaum durchführen lassen,
 denn anscheinend ist noch ein neuer Mitspieler aufgetaucht,
@@ -1614,7 +1614,7 @@ der Hund bellend hinterdrein …
 Wenn sie geahnt hätten, wie wertvoll für uns ihre Beobachtungen
 waren!
 
-Harst schaute über das Meer in die dunstige Ferne Hinaus.
+Harst schaute über das Meer in die dunstige Ferne hinaus.
 Dann sagte er — wohl mehr zu sich selbst: »Wir sind also
 doch von Berlin aus verfolgt worden — sogar von zwei
 Menschen: Anita Galski und Marga Wellert! — Ich stehe
@@ -1626,7 +1626,7 @@ abzuschütteln suchte, als unsere Verbündete auf … Ihre
 Worte auf dem Zettel lassen sich doch nur so deuten, daß
 sie die Macht besitzt, Anita unschädlich zu machen. — Jetzt
 wollen wir, bevor es noch ganz dunkel wird, das Terrain für
-die Nacht ein wenig sondieren: den Park der Villa Waldfrieden,«
+die Nacht ein wenig sondieren: den Park der Villa Waldfrieden.«
 
 <h2>2. Kapitel.</h2>
 
@@ -1678,7 +1678,7 @@ Ich sah, daß Klatts Jacke am Kragen dicht mit Kopfschuppen
 <@pagebreak/>
 bestreut war, und erinnerte mich sofort an die verschiedenen
 Schlußfolgerungen, die Harald aus dem Briefe des
-Kutschers abgeleitet hatte,
+Kutschers abgeleitet hatte.
 
 »Jawohl, Herr, — — Johann Klatt,« erklärte der Absender
 jenes Briefes nun mit sichtlichem Mißtrauen. Seine
@@ -1694,7 +1694,7 @@ Entfernung bis zum Strande …«
 »Gut, Herr Harst … Gut, gut … Habe Zeit …«
 
 Dann standen wir drei hinter dem Musikpavillon im
-verödeten Kurgarten,
+verödeten Kurgarten.
 
 »Ein paar Fragen, Herr Klatt … Fräulein Wellert war
 in Berlin?«
@@ -1733,7 +1733,7 @@ Menschen, der ohne Zweifel ein ganz heller Kopf war, dabei
 <@pagebreak/>
 eine biedere Haut und ein stiller Verehrer Fräulein Margas,
 die er als »den einzig vernünftigen Menschen in der Villa«
-bezeichnet hatte,
+bezeichnet hatte.
 
 Nach seinen Angaben war die Lebensführung des Ehepaares
 Pinz allerdings recht eigenartig. Pinz schlief unten
@@ -1742,7 +1742,7 @@ die ganze Nacht in seinem Schlafzimmer Licht brennen. Frau
 von Pinz hatte ihr Schlafgemach im ersten Stock neben dem
 Zimmer ihrer Nichte und sollte im Gegensatz zu dem Hausherrn
 meist bis zwei Uhr aufbleiben, lesen, oder lautlos
-umherschleichen,
+umherschleichen.
 
 »Diese beiden Leute,« meinte Harst nun, als wir dem
 Meeresblick zuschritten, »haben sicherlich mancherlei zu verbergen.
@@ -1752,7 +1752,7 @@ und blaß wie ein Gespenst ist, offenbar in steter Angst vor
 irgend etwas dahinlebt, und deshalb so ruhelos ist. — Nun,
 wir werden ja sehen … Zunächst habe ich einen Bärenhunger,
 mein Alter … Um halb zehn werden wir als Pennbrüder
-den Meeresblick verlassen,«
+den Meeresblick verlassen.«
 
 Halb zehn …
 
@@ -1816,7 +1816,7 @@ Erregung.
 
 »Recht gut …«
 
-»und du würdest ihn wiedererkennen?«
+»Und du würdest ihn wiedererkennen?«
 
 »Natürlich …«
 
@@ -1844,7 +1844,7 @@ Akkumulatoren älterer Konstruktion, liefen isolierte Drähte
 nach oben. Fraglos hatte die Villa einst eigene elektrische
 Beleuchtung gehabt. — Noch etwas gab es in diesem Holzverschlag:
 eine schmierige Trittleiter, die ausgeklappt an der
-einen Wand lehnte,
+einen Wand lehnte.
 
 Harst ließ den grellen Kegel seiner Taschenlampe nach
 oben fallen. Auf den ersten Blick war dort an der gleichfalls
@@ -1860,11 +1860,11 @@ beiseiteschieben mußte.
 Gleich darauf lagen wir beide in Herrn von Pinz’ Schlafzimmer,
 halb hinter einem mächtigen Kleiderschrank. In der
 Mitte des großen Zimmers stand ein breites, französisches
-Bett, in der Ecke nach dem rechten Fenster Zu aber ein runder
+Bett, in der Ecke nach dem rechten Fenster zu aber ein runder
 Tisch mit einer elektrischen Lampe mit grünem Seidenschirm,
 <@pagebreak/>
 deren gedämpftes Licht selbst den Sessel neben dem Tisch im
-Schatten Ließ.
+Schatten ließ.
 
 Im Sessel …
 
@@ -1893,7 +1893,7 @@ Unruhe wird schon ihren guten Grund haben. Die
 sie verhindert haben. Da lieferte Malch ihm das Wachskonterfei.
 Wenn Frau von Pinz’ nun von dort drüben durch
 das Schlüsselloch der Flurtür schaut, so ist sie beruhigt —
-betrogen … Ihr Mann Sitzt hier scheinbar und raucht und
+betrogen … Ihr Mann sitzt hier scheinbar und raucht und
 liest! — Sehr fein ausgeklügelt … sehr fein …! — Ich sah
 die Puppe schon von draußen, wollte sie dir nur zeigen. —
 Die andere Tür dort führt in den Salon … Folge mir …«
@@ -1915,7 +1915,7 @@ leise … Deutete mit dem Finger erst auf eine Fuge zwischen
 den Kacheln, dann auf eine zweite. In diesen Fugen fehlte
 stellenweise der Kitt, und an zwei Stellen waren diese schmalen
 Fugen offensichtlich durch eine Feile etwas verbreitert
-worden,
+worden.
 
 »In diesen Löchern steckt ein Teil des Geheimnisses,«
 raunte Harald mir zu. »Ähnliches hatte ich mir schon gedacht.
@@ -1975,11 +1975,11 @@ der Erleichterung: »er ist eingeschlafen … Er ist daheim!
 Gott sei Dank!«
 
 Sie hatte sich wieder aufgerichtet und führte nun das
-Kruzifix inbrünstig an die Lippen,
+Kruzifix inbrünstig an die Lippen.
 
 Dann schlich sie wieder lautlos davon — genau so lautlos,
 wie sie gekommen war. Die Salontür schloß sich, und
-wir waren allein,
+wir waren allein.
 
 Auf mich hatte diese stille Szene einen starken Eindruck
 gemacht. Ich ahnte eine Tragödie, deren tragische
@@ -2002,7 +2002,7 @@ Ein rascher Schritt brachte Harst neben mich. Wir duckten
 uns von neuem, und nun erschien sehr rasch, mit leichtem,
 schwebenden Gange, vor der anderen halb offenen Tür eine
 Frauengestalt in hellen, fließendem Morgenrock: Marga
-Wellert, Frau von Pinz’ Nichte,
+Wellert, Frau von Pinz’ Nichte.
 
 Auch sie schaute in das Schlafzimmer hinein, aber sie begnügte
 sich hiermit nicht, sondern betrat ohne Scheu das
@@ -2044,7 +2044,7 @@ Angst, Fräulein Wellert?! Wir sind nun doch Verbündete,
 nachdem Sie uns den Zettel zukommen ließen … Haben Sie
 Vertrauen zu uns. Wir sind doch keine Polizeibeamten, haben
 Verständnis für stille Tragik menschlicher Schicksale und
-können schweigen …
+können schweigen …«
 
 Undeutlich ihre gemurmelte Erwiderung:
 
@@ -2085,13 +2085,13 @@ musterten, zeigte über der feingeschwungenen Nase zwei scharfe
 senkrechte Falten. Dieses junge Weib besaß Energie, konnte
 eine gefährliche Gegnerin sein, wie sie bereits im Pensionat
 Westen gezeigt hatte. — Ich hatte das Empfinden, daß sie
-uns vielleicht abermals Irgendwie auszuschalten versuchen
+uns vielleicht abermals irgendwie auszuschalten versuchen
 würde. Nun — Harst würde schon vorsichtig sein, und was
 mich betraf, so würde ich nicht zögern, jedem Angriff ihrerseits,
 mochte er noch so schlau eingeleitet werden, rechtzeitig
 und wirksam zu begegnen. Ich hatte den Schuß aus der
 Kinderluftbüchse, der mir die Frauenperücke vom Kahlkopf
-gefegt, nicht vergessen,
+gefegt, nicht vergessen.
 
 Harst begann wieder zu sprechen, etwas hastig, immer die
 Stimme dämpfend, und doch das Nötige durch die Betonung
@@ -2148,7 +2148,7 @@ lügen, bitte …«
 Ohnmächtige Wut bebte in der heiser gewordenen
 Stimme …
 
-und doch — sie hatte sich leidlich in der Gewalt, dieses
+Und doch — sie hatte sich leidlich in der Gewalt, dieses
 Mädchen, lachte plötzlich, ließ sich auf den Diwan sinken,
 barg das Gesicht in den Händen und rief unter nervösem
 Schluchzen:
@@ -2216,7 +2216,7 @@ Meine Taschenlampe leuchtete mir.
 Vier große Akkumulatoren …
 
 Der dritte in der Reihe nur ein leerer Kasten ohne Boden,
-eine Holzglocke für die Uhr ohne Zeiger,
+eine Holzglocke für die Uhr ohne Zeiger.
 
 Nun sah ich sie … Nun hob ich sie empor …
 
@@ -2228,23 +2228,23 @@ Mich interessierten lediglich die beiden Messingstifte, die an
 den Seiten des Bodenbrettes etwa zwei Zentimeter weit hervorragten.
 
 Wie richtig Harald den Mechanismus erkannt hatte! Die
-Stifte waren da. — und die Uhr selbst wies keinerlei Beschädigung
+Stifte waren da. — Und die Uhr selbst wies keinerlei Beschädigung
 auf. Die Rückseite bestand aus einer dünnen, festgeschraubten
 Eisenplatte. Die Schraubenköpfe waren verstaubt
 und fraglos seit langem mit keinem Schraubenzieher
 in Berührung gekommen.
 
 Ich kletterte die Strickleiter wieder hinan, indem ich die
-Uhr mit der Linken sorgsam an die Brust preßte,
+Uhr mit der Linken sorgsam an die Brust preßte.
 
 So erschien ich wieder im Schlafzimmer.
 
 Marga saß auf dem Diwan … Zusammengekauert, das
 Kinn in die Linke gestützt, düster vor sich hin starrend …
 
-Harst lehnte am Bett, die Arme über der Brust verschränkt,
+Harst lehnte am Bett, die Arme über der Brust verschränkt.
 
-Wandte sich mir zu »… »Gib her …! Also das ist die Uhr.«
+Wandte sich mir zu … »Gib her …! Also das ist die Uhr.«
 
 Ich reichte sie ihm …
 
@@ -2310,7 +2310,7 @@ sollen … Ein zweiter, jäher Versuch folgte, das Zifferblatt,
 mit der Faust zu zerstören …
 
 <@pagebreak/>
-Ein genau so ergebnisloser Versucht, den ich diesmal durch
+Ein genau so ergebnisloser Versuch, den ich diesmal durch
 eine rasche Wendung vereitelt hatte.
 
 Harst schüttelte nur mißbilligend den Kopf …
@@ -2330,7 +2330,7 @@ entrang.
 
 Ein dünner Lichtfaden, der zwischen Harsts Fingern hindurch
 der Linse der Taschenlampe entsprang, glitt wie ein
-leuchtender Käfer über das Zifferblatt,
+leuchtender Käfer über das Zifferblatt.
 
 Nichts regte sich. Die Uhr blieb stumm.
 
@@ -2339,7 +2339,7 @@ aufs genaueste. Da waren unterhalb des Zifferblattes
 die beiden Zapfen sichtbar — zum Aufziehen des Werkes, als
 es noch Uhr gewesen. An diesem Telephon mußten sie ohne
 Bedeutung sein. Harst drückt plötzlich mit der Spitze des
-Zeigefingers auf den rechten Der vierkantigen Zapfen, der
+Zeigefingers auf den rechten der vierkantigen Zapfen, der
 etwas weiter herausragt als der andere. Und in demselben
 Augenblick wird die Uhr lebendig.
 
@@ -2388,7 +2388,7 @@ dessen Rückseite an das Waldstück grenzt, das sich bis zur
 Villa Waldfrieden den Berg hinanzieht.
 
 »Die Leitung läuft in den Bäumen bis zur Blockhütte,«
-sagt er, und geht weiter,
+sagt er, und geht weiter.
 
 Die Leitung interessiert mich kaum. Anderes ist mir
 wichtiger. — »Was hast du Marga geschrieben?« frage ich, und
@@ -2407,7 +2407,7 @@ die Möwe traf, jenen Zettel mit dem Bilde Anitas auf dem
 Boote zurückzulassen. Marga wußte nichts von dem Zettel,
 hat ihn nicht bemerkt, hielt ihn wahrscheinlich wie du für eine
 Warnung »Frisch gestrichen«. Wir sollten glauben, der Zettel
-wäre Margas Werk, und man Hofft nun, daß wir blindlings in
+wäre Margas Werk, und man hofft nun, daß wir blindlings in
 die Falle hineintappen werden, du man für aus vorbereitet
 hat: das Blockhaus! — Gewiß — hineintappen werden wir,
 nur nicht blindlings, sondern gut vorbereitet. Mein Federmesser
@@ -2428,7 +2428,7 @@ wo unser guter Bekannter Rochus Wendt noch immer Polizeikommissar
 ist. Mehr konnte ich für unsere Sicherheit wirklich
 nicht tun. — Warte mit deinen Zurüstungen bis nachher,
 bis wir in der Parkwildnis von Waldfrieden ganz im
-Dunklen sind,«
+Dunklen sind.«
 
 Die letzten Sätze Harsts beruhigten mich. Wenn er an
 Rochus Wendt telephoniert hatte, so hieß das doch nichts anderes,
@@ -2449,10 +2449,10 @@ von »Elf Uhr«. Dann war er schon vorüber.
 
 Wir schlichen am Zaun der Villa Waldfrieden entlang
 — bis zur Ostecke, bis zum Abhang. Dann rasch hinüber,
-Hinein in die nassen, kalten Sträucher. Hier trafen wir unsere
+hinein in die nassen, kalten Sträucher. Hier trafen wir unsere
 Vorbereitungen, nahmen jeder noch einen Schluck aus der
 Kognakflasche und näherten uns dann dem verwahrlosten, von
-dem stachligen Walle umgebenen Blockhäuschen
+dem stachligen Walle umgebenen Blockhäuschen.
 
 Harald umkreist die Hütte. Ich bleibe dicht hinter ihm.
 Wir winden uns durch Gestrüpp und junge Buchenschößlinge,
@@ -2555,7 +2555,7 @@ mit ihnen hier in Heringsdorf überraschte mich daher
 nicht allzusehr. Weit mehr überraschte mich das, was Harald
 nun den Innentaschen ihrer Ulster entnahm: flache Lederetuis,
 in denen sorgsam in Watte verpackt dünne, gefüllte, verkorkte
-und versiegelte Röhrchen steckten, im ganzen zwanzig,
+und versiegelte Röhrchen steckten, im ganzen zwanzig.
 
 »Dacht’ ich’s mir doch,« meinte Harald, und hielt eins der
 <@pagebreak/>
@@ -2582,14 +2582,14 @@ konnte anderes dahinter stecken?!
 »Irrtum!!« erklärte Harst, und schob die Lederetuis mit
 den Röhrchen in seine Tasche. »Irrtum, mein Alter … Rufe
 dir mal die Geräusche ins Gedächtnis zurück, die durch das
-Uhrtelephon aus dieser Blockhütte, oder besser aus Deren
+Uhrtelephon aus dieser Blockhütte, oder besser aus deren
 Kellerräumen an unser Ohr geleitet wurden. Zumeist ein
 Murmeln … Aber auch ein leises Zischen und Fauchen …
 Etwa wie die Töne eines Sicherheitsventils eines überheizten
 Kessels …«
 
 »Allerdings … Das stimmt … Aber — wenn nicht
-Falschmünzer, — — was sonst?!
+Falschmünzer, — — was sonst?!«
 
 »Du wirst es sehen — sehr bald … Nur eins möchte ich
 dir noch verraten, bevor wir durch den Räucherofen eine
