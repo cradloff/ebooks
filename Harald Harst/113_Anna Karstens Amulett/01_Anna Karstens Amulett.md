@@ -209,7 +209,7 @@ zurück. Er hatte uns bemerkt.
 
 Harst richtete sich auf.
 
-»Fürchten Sie nicht,« sagte er sehr laut zu dem ängstlich
+»Fürchten Sie nichts,« sagte er sehr laut zu dem ängstlich
 Zurückweichenden. »Mein Freund und ich sind Detektive.
 Wir haben …«
 
@@ -310,7 +310,7 @@ fragte auf englisch:
 »Mr. Simpson entschuldigen: was geht hier vor?«
 
 Harst beobachtete die beiden. Und auch mir entging
-es nicht, daß um den verkniffenem Mund des Dieners ein
+es nicht, daß um den verkniffenen Mund des Dieners ein
 kaum merkliches höhnisches Zucken lief.
 
 »Gehorchen Sie, Granier!« befahl der Professor da.
@@ -396,7 +396,7 @@ mir zu, während ich mit der Linken noch im Telephonverzeichnis
 blätterte:
 
 »Dann bitte auch gleich den Geheimrat … (er nannte
-einen Namen, der eng mit der Geschichte der heutigen
+einen Namen, der eng mit der Geschichte der deutschen
 Funkentelegraphie verknüpft ist). Der Geheimrat hat Amt
 Lützow Nummer 18&nbsp;182. Er kennt mich seit zehn Jahren.
 Er wird Ihnen bestätigen, daß er mit mir sehr viel verkehrt
@@ -431,7 +431,7 @@ meinte er ironisch zu Harst. »Nun wird sich zeigen, wer Sie
 in Wahrheit sind. Ich habe Sie nur hinhalten wollen …«
 
 Draußen im Flur hatte sich jemand mit voller Kraft
-gegen die Tür geworfen.
+gegen die Tür geworfen …
 
 Splitternd und krachend flog die Tür auf …
 
@@ -485,7 +485,7 @@ sei ein alter Bekannter von ihm und ein untadeliger
 Ehrenmann.
 
 Der Abschied von dem Professor, der jetzt den Großmütigen,
-Nachsichtigen spielte, vollzog sich in höflichstem Formen,
+Nachsichtigen spielte, vollzog sich in höflichsten Formen,
 und wir beide verließen das einsame Haus, in dem
 wir uns so bedenklich blamiert hatten, kurz nach den vier
 Schupobeamten. —
@@ -647,11 +647,11 @@ einem amerikanischen Kaufmann namens John Setter
 werden, hat diesen aber nicht mehr aufgesucht. Er wohnt
 in Berlin-Schöneberg, Am Stadtpark Nr. 38.
 
-> Hochachtungsvoll
+<p class="centered">Hochachtungsvoll</p>
 
-> Frau Emilie Krug,
+<p class="right">Frau Emilie Krug,</p>
 
-> Witwe.
+<p class="right">Witwe.</p>
 
 <@pagebreak/>
 
@@ -833,7 +833,7 @@ Wir gingen am Zaune entlang, um erst einmal zu rekognoszieren
 
 Mit einem halblauten »Nein — ist das merkwürdig!!«
 blieb Harald dann stehen und deutete auf einen Regenmesser,
-der zwischen zwei Becken an einem Pfahl befestigt war …
+der zwischen zwei Beeten an einem Pfahl befestigt war …
 
 Ein Regenmesser war’s, an dem es wirklich nichts zu
 sehen gab.
@@ -851,7 +851,7 @@ rief dann nicht eben freundlich:
 Ich lasse mir meine Beete nicht zertrampeln!«
 
 Harst zog den Hut. »Entschuldigen Sie, liebe Frau …
-was ist das da für ein Apparat an dem Pfahl?«
+Was ist das da für ein Apparat an dem Pfahl?«
 
 <@pagebreak/>
 »Ja — das ist’s ja eben!« erwiderte sie unwillig und
@@ -953,7 +953,7 @@ geholfen.
 
 Weiter sagte uns dann Frau Krug, daß der Regenmesser
 des Professors hier von dem Gastwirt Knobloch bedient
-wurde, einem Manne, der sich eines wenig guten
+würde, einem Manne, der sich eines wenig guten
 Rufes erfreute. Knobloch käme nach Regentagen abends
 und morgens und messe die Wassermenge in dem Zinkbehälter.
 —
@@ -1394,7 +1394,7 @@ wieder aufgestiegen. Und der Täter entfloh im Flugzeug.« —
 
 Ich habe dann auf den Gesichtern der drei kein ironisches
 Lächeln mehr bemerkt. Ich habe mich nur gefreut, daß
-die Herren meinen Harst jetzt wir ein rohes Ei behandelten.
+die Herren meinen Harst jetzt wie ein rohes Ei behandelten.
 —
 
 Gegen sieben Uhr standen wir alle abermals vor der
@@ -1505,7 +1505,7 @@ war in der kritischen Zeit hier in Berlin gewesen. Das
 stand fest. Der Geheimrat war als Alibizeuge einwandfrei.
 Und doch: Harald tat, als hätte er den größten Sieg errungen!
 
-Da fügte er denn zu schon hinzu, und seine Stimme
+Da fügte er denn auch schon hinzu, und seine Stimme
 klang ganz anders:
 
 »Der Danziger Mörder kann nicht Edward Simpson
@@ -1581,7 +1581,7 @@ dergleichen heraus, — es scheint Antennenlitze zu sein …«
 
 Simpson schoß das Blut ins Gesicht. Mit hastiger
 Handbewegung griff er nach dem Halse, tastete verwirrt
-nach der Litze, die … nur nicht da war …
+nach der Litze, die … gar nicht da war …
 
 Harst lachte schallend. Sagte aber kein Wort.
 

@@ -147,11 +147,11 @@ Gefallen tun.«
 
 »Rufen Sie Kriminalkommissar Bechert an und bestellen
 Sie ihm, er solle sofort das Haus Schöneberg, Am
-Stadtpark 38 scharf überwachen lassen. Dort wohnt hochparterre
+Stadtpark 38 scharf überwachen lassen. Dort wohnt Hochparterre
 links ein Mr. John Setter. Auf den habe ich es
 abgesehen.«
 
-»Gut — sofort, Herr Harst. Also Stadtpark 38, hochparterre
+»Gut — sofort, Herr Harst. Also Stadtpark 38, Hochparterre
 links — John Setter … — Guten Abend …«
 
 »Halt — noch etwas. Bechert soll jeden, der das Haus
@@ -759,7 +759,7 @@ Berlin jemand ein Flugzeug mit eigenem Landeplatz besitzt.
 Setter ist ja mit einem Flugzeug nach Danzig gefahren und
 auch hierher auf dem Luftwege zurückgekehrt. Er muß in
 nächster Nähe Berlins ein zweites Heim haben. Suchen
-Sie es, Bechert. Das sind Aufgaben, die Sie mit ihrem
+Sie es, Bechert. Das sind Aufgaben, die Sie mit Ihrem
 <@pagebreak/>
 Beamtenheer leichter bewältigen als wir beide …«
 
@@ -793,7 +793,7 @@ Wir stiegen aus.
 
 An der Gartenpforte glänzte ein blankes Messingschild:
 
-> Dr. F. Winter.
+<p class="centered">Dr. F. Winter.</p>
 
 »Ah — das ist der bekannte Chemiker,« nickte Harald.
 »Hoffentlich ist er daheim …«
@@ -959,7 +959,7 @@ kann es die doppelte Menge sein wie das letztemal.«
 meinte?!
 
 Der andere: »Dann machen wir aber auch vorläufig
-Schluß, Edu. Die Vorhersage ist zu bedrohlich. Ich fühle
+Schluß, Edu. Die Wetterlage ist zu bedrohlich. Ich fühle
 mich selbst unbehaglich. Die Wolken über Schmargendorf
 …«
 
@@ -1012,7 +1012,6 @@ Harald reichte Doktor Winter die Hand und sagte fast
 feierlich:
 
 »Sie haben der Welt einen sehr großen Dienst geleistet.«
-
 Und noch eindringlicher fügte er hinzu: »Es dürfte in der
 <@pagebreak/>
 kriminalistischen Praxis zum ersten Male am heutigen Tage
@@ -1039,7 +1038,7 @@ den Herrn Professor verraten! — Auf Ihre Verschwiegenheit
 kann ich mich verlassen, nicht wahr? — Leben Sie wohl!
 Für uns gibt es heute noch viel zu tun …«
 
-Wie bestiegen wieder das Auto.
+Wir bestiegen wieder das Auto.
 
 »Blücherstraße 10!« befahl Harald …
 
@@ -1353,7 +1352,7 @@ Wir drei schlichen näher …
 Und plötzlich leuchtete Haralds große Taschenlampe
 auf. Beschien den Pfahl … den Mann … die geheime
 Öffnung in dem Pfahle, deren tadellos versteckte Tür jetzt
-offen war … und beschien das Päckchen in des Mannes
+offen war, … und beschien das Päckchen in des Mannes
 Hand … —
 
 Der Mensch war gut gekleidet.
@@ -1410,7 +1409,7 @@ das Wild, das wir jagten …
 
 Darüber im folgenden Band …
 
-Nächster Band.
+<#import "*/harst.ftl" as harst>
 
-__Der Mann mit dem Glasauge.__
+<@harst.naechsterband band="Der Mann mit dem Glasauge."/>
 
