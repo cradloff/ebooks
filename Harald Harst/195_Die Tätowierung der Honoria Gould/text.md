@@ -1708,7 +1708,7 @@ Benehmen, im Tonfall und den Gesten.«
 
 »Ah — — sehen Sie!« rief Harald lebhaft, der mit
 seinem Pflasterstreifen über der Stirn wie ein Student
-»frisch von der Mensur« aussah, »— sehen Sie, lieber Choffrim,
+»frisch von der Mensur« aussah, «— sehen Sie, lieber Choffrim,
 die echte Miß Gould kam auch mir abgeklärter, etwas
 <@pagebreak/>
 verträumter und alles im alles vornehmer als die andere
@@ -1895,32 +1895,32 @@ es dir an … Ich bin frisch wie eine Forelle im tobenden Bergbach
 
 August Kamberlans Matrosenkneipe am Bollwerk drei
 war um fünf Uhr nachmittags vollkommen leer. Der dicke
-August, Steuermann a. D« hatte seinen Stelzfuß und sein
+August, Steuermann a. D., hatte seinen Stelzfuß und sein
 gesundes linkes Bein auf das Glanzledersofa und sich selbst in
-die Sofaecke gebettet und deutete vor sich hin.
+die Sofaecke gebettet und druselte vor sich hin.
 
-Dann ging die- Tür auf … Lärm vom Bollwerk drang
-herein — 	— und August der Dicke setzte sich aufrecht.
+Dann ging die Tür auf … Lärm vom Bollwerk drang
+herein — — und August der Dicke setzte sich aufrecht.
 
-»Bei Gott — — Harst, Schlau!!’
+»Bei Gott — — Harst, Schraut!!«
 
 Wir drückten ihm die Flosse, Handschuhnummer fünfzehn,
 
-»War Idee Patterson schon hier?« — und Harst setzt sich
-und schaut sich in der verräuhxerten gemütlichen Bude, die
-so vertraut ist, prüfend um. In einer Er stehen zwei
+»War Joe Patterson schon hier?« — und Harst setzt sich
+und schaut sich in der verräucherten gemütlichen Bude, die
+so vertraut ist, prüfend um. In einer Ecke stehen zwei
 Koffer.
 
 »Ah — er war schon hier, August … — Haben Sie
 ihm einen Tipp auf ein schnelles Fahrzeug gegeben?«
 
-»und ob! Jener »Maria«, — ganz neue Motoren,
+»und ob! Schoner »Maria«, — ganz neue Motoren,
 zwei Schrauben, erstklassiger Kahn, Herr Harst … Patterson
-sitzt hinten mit Kapitän Tochter, Alles schon im Lot.
+sitzt hinten mit Kapitän Schneider. Alles schon im Lot.
 Die »Maria« hat ihren Liegeplatz bereits gewechselt und
-anders flußaufwärts …«
+ankert flußaufwärts …«
 
-»Und die »Manhattan’’?«
+»Und die »Manhattan«?«
 
 »Ist ausreisefertig …«
 
@@ -1933,16 +1933,15 @@ August wunderte sich über nichts, wenn er es mit uns
 zu tun hat. Er legt sein blaurotes Schweinskopfgesicht in
 nachdenkliche Falten …
 
-»öm — schlimmes Ding, Herr Harst … Zurückhalten
-… hm, — das geht, gewiß, kostet aber Geld.«…«
+»Hm — schlimmes Ding, Herr Harst … Zurückhalten
+… hm, — das geht, gewiß, kostet aber Geld …«
 
 »Spielt keine Rolle …«
 
-»Gut — dann lassen Sie mich: nur machen … Ich
-fürchte, die »Manhattan« wird von einer Schuhe achtern
+»Gut — dann lassen Sie mich nur machen … Ich
+fürchte, die »Manhattan« wird von einer Schute<@refnote 1/> achtern
 gerammt werden und dabei eine ihrer Schrauben einbüßen
-
-… Dann muß sie ins Tod, und vor morgen abend wird die
+… Dann muß sie ins Dock, und vor morgen abend wird die
 Geschichte kaum auskuriert sein, selbst wenn die Milliardeuse
 Millionen bietet …«
 
@@ -1953,23 +1952,23 @@ uns.
 
 Ein junger, forscher Herr, der Käpten Schneider von der
 »Maria«. Er gefällt mir, er redet nicht viel, ist Besitzer des
-Motor’sHoner8 und garantiert für seine Besatzung. »Mit
+Motorschoners und garantiert für seine Besatzung. »Mit
 meinen Kerlen hole ich den Deubel aus der Hölle, Herr Harst
 … Wir haben bisher Brandy geschmuggelt — drüben, Sie
-wissen schon, haben trotzig verdient, wollten eigentlich ein
-paar Boden ausruhen. Aber Mr. Pattersons zehntausend
+wissen schon, haben klotzig verdient, wollten eigentlich ein
+paar Wochen ausruhen. Aber Mr. Pattersons zehntausend
 Dollar sind mitzunehmen …«
 
 »Brandy?!« meint Harald verständnisvoll. »Dann haben
 Sie auch Waffen an Bord?«
 
-»Und ob! Sogar einen Enellfeuer-Bullenbeißer mit
+»Und ob! Sogar einen Schnellfeuer-Bullenbeißer mit
 Maulweite zwölf …
 
 »Sehr gut, Käpten, sehr gut … Werden den Bullenbeißer
-wohl brauchen können … — Vor morgen abend wird.
+wohl brauchen können … — Vor morgen abend wird
 die »Manhattan« kaum in See gehen … Inzwischen hoffe ich,
-drei Depeschen zu erhalten … Alle hängt von den
+drei Depeschen zu erhalten … Alles hängt von den
 Depeschen ab. Lautet die Antwort aus Paris so,
 wie ich’s erwarte, dann wird dieses Abenteuer bestimmt
 eine Art Piratenroman … Lestrand in Paris zeichnet sich
@@ -1978,50 +1977,50 @@ durch Fixigkeit aus. Wir können vielleicht schon abends
 Bescheid haben. Die Antworttelegramme aus Neuyork sind
 weniger bedeutungsvoll.«
 
-August Kamberlan füllte die Gläser. Der Woeinduft
+August Kamberlan füllte die Gläser. Der Weinduft
 umschmeichelte unsere Nasen.
 
-Wir stießen miteinander an. »Auf gute Herrichtung?«
+Wir stießen miteinander an. »Auf gute Verrichtung!«
 meinte August und blinzelte Harald und mir dabei verstohlen
-zu. Vielleicht war die Schuhe schon unterwegs, die
+zu. Vielleicht war die Schute schon unterwegs, die
 der »Manhattan« die Achterseite rammen sollte.
 
 Der Wein war ein flüssiges Gedicht. Kaum hatten wir
-die seinen Gläser wieder abgesetzt, als die Tür sich öffnete
+die feinen Gläser wieder abgesetzt, als die Tür sich öffnete
 und hinter drei neuen Gästen auch ein Depeschenbote eintrat,
 
-»Ein Telegramm, Herr Kamberlan …« Der Bote des
-kam einen Dänischen Korn und Harst die Depesche, die er
+»Ein Telegramm, Herr Kamberlan …« Der Bote bekam
+einen Dänischen Korn und Harst die Depesche, die er
 sofort aufriß,
 
 Er las vor … Die drei Seeleute hatten am Schanktisch
-Platz genommen und schritten mit Antje, waren bereits gehörig
+Platz genommen und scherzten mit Antje, waren bereits gehörig
 unter Alkohol.
 
-»Von Freund Bechert aus dem Ufer,« meinte er flüsternd,
+»Von Freund Bechert aus dem Alex,« meinte er flüsternd,
 
 Wir steckten die Köpfe zusammen.
 
-»Aus Wrack fünf Personen soeben mit Flugzeug nach
-Hamburg. Ein Tücke, drei Herren, eine ältere Dame. Einer
+> »Aus Urach fünf Personen soeben mit Flugzeug nach
+Hamburg. Ein Türke, drei Herren, eine ältere Dame. Einer
 der Herren offenbar verkleidete Frau, der zweite vermutlich
-desgleichen, der dritte angebiit) Franzose. — Gruß —
-Getakelt.«
+desgleichen, der dritte angeblich Franzose. — Gruß —
+Bechert.«
 
-»Das sind sie!« erklärte Harald zufrieden, »Sie haben
-also sämtlich; im Fenstern« in der Urachstraße gewohnt. Wir
-könnten sie hier auf dem Flugplatz von d:r Polizei in Empfang
+»Das sind sie!« erklärte Harald zufrieden. »Sie haben
+also sämtlich im Pensionat in der Urachstraße gewohnt. Wir
+könnten sie hier auf dem Flugplatz von der Polizei in Empfang
 nehmen lassen, aber damit wäre Miß Gould wenig gedient,
-das gäbe einen RViesenskandal. — Patt und Schraut,
+das gäbe einen Riesenskandal. — Patt und Schraut,
 ihr könntet die Herrschaften beobachten. Macht euch fertig.
-Aber Vorsicht — gute Masken. Ich bleibe hier im Haupts-quartier,
+Aber Vorsicht — gute Masken. Ich bleibe hier im Hauptquartier.
 Benutzt das Telephon, falls eilige Nachricht nötig
-st.«
+ist.«
 
 <@pagebreak/>
 Der noch immer brummige Patt ward ein anderer. Ohne
 Arbeit — dann erging’s ihm wie uns: mißmutig, brummig,
-knurrig, gereizt … — Jetzt — der wahre Tat!!
+knurrig, gereizt … — Jetzt — der wahre Patt!
 
 Nun, wir fingen die fünf Gegner tadellos ab, blieben
 hinter ihnen, wußten abends eine ganze Menge. Bechert
@@ -2030,86 +2029,86 @@ Weiber mit tadellos angeklebten Schnurrbärten, eine
 davon so bestimmt die »unechte« Miß Gould, wie Patt und
 ich bestimmt nicht als Joe Patterson und Max Schraut zu
 erkennen waren. Der Türke, das Olivengesicht, hatte dann
-zusammen mit dem Franzosen das kleine Hotel, wo die See
-Herrschaft abgestiegen war, sehr bald wieder verlassen und
+zusammen mit dem Franzosen das kleine Hotel, wo die
+Gesellschaft abgestiegen war, sehr bald wieder verlassen und
 beide am Hafen mit einem Agenten verhandelt. Um halb
-acht hatten sie eine kleine Jacht gemietet, und um neun sie
-verwandelten die Herrschaften auf den »Sturmvogel« über, der in
-der Nähe der »Manhattan sich festlegte, auf deren Wetterte?
+acht hatten sie eine kleine Jacht gemietet, und um neun siedelten
+die Herrschaften auf den »Sturmvogel« über, der in
+der Nähe der »Manhattan« sich festlegte, auf deren Achterdeck
 wir Miß Honoria, die also mit Choffrim auch bereits
 eingetroffen war, ruhelos hin und her gehen sahen,
 
-Patt und ich kehrten darauf ins Hauptquartier zurück,
+Patt und ich kehrten darauf ins Hauptquartier zurück.
 Harald saß oben in einem der Fremdenzimmer der Kneipe und
-dechiffrierte gerade Lestrandäa Antwort, Wir erstatteten Bericht,
+dechiffrierte gerade Lestrands Antwort. Wir erstatteten Bericht,
 und Harst las das Radiotelegramm vor:
 
-Madame Sabine Touffiere vor drei Tagen in aller
-Eile mit ihrem Sohne Raoul angeblich naß der Schweiz
-abgereist, aber Pässe für Deutschlahnd und Fahrkarten nach
-Berlin. Über Honoria Gould nichts Bemerkensüwertcs. —
+> Madame Sabine Touffiere vor drei Tagen in aller
+Eile mit ihrem Sohne Raoul angeblich nach der Schweiz
+abgereist, aber Pässe für Deutschland und Fahrkarten nach
+Berlin. Über Honoria Gould nichts Bemerkenswertes. —
 Raoul Touffiere zweifelhafter Charakter, Spieler und Schürzenjäger,
-lebt von seiner Frau Gipsy, goß. Vollbart, getrennt,
-— Madame nach außen hin tadellos, geizig, als
-shäftstüchtig, Börsenspielerin, — Erziehungs heim seit einem
+lebt von seiner Frau Gipsy, geb. Molland, getrennt.
+— Madame nach außen hin tadellos, geizig, geschäftstüchtig,
+Börsenspielerin, — Erziehungsheim seit einem
 Jahr aufgegeben, scheinbar sehr reich, — Gruß — Lestrand,
 
 Patt rief, als Harald kaum zu Ende war:
 
-»Miß Goulds Mutter ist eine geborene Vollbart, Harst!!«
-»Also doch!« nickte der, »Da sehen Sie, Joe, daß meine
+»Miß Goulds Mutter ist eine geborene Molland, Harst!«
+»Also doch!« nickte der. »Da sehen Sie, Joe, daß meine
 <@pagebreak/>
-Vermutung schon stimmt: diese Gipsy Vollbart ist Honorias
-Zwillingsschwester. Dabei bleibe im«
+Vermutung schon stimmt: diese Gipsy Molland ist Honorias
+Zwillingsschwester. Dabei bleibe ich!«
 
-Patt schwieg. Er;gab sich geschlagen.
+Patt schwieg. Er gab sich geschlagen.
 
-Harald 	verbrannt! Lestrands Depesche und den Zettel
-mit dem dechiffrierten: Text und gähnte herzhaft. »Kinder,
+Harald 	verbrannte Lestrands Depesche und den Zettel
+mit dem dechiffrierten Text und gähnte herzhaft. »Kinder,
 gehen wir zu Bett … Vorläufig haben wir Ruhe …«
 
-Es klopfte. August der Die erschien. »Melde gehorsames,
+Es klopfte. August der Dicke erschien. »Melde gehorsamst,
 daß die »Manhattan« Pech gehabt hat — soeben erst
--… Die eine Schraube ist zum Teufel …!«
+… Die eine Schraube ist zum Teufel …!«
 
 Patt musterte unsere Gesichter. »Pech?! Na — verstehe
 … Mit Nachhilfe!! — — Gehen wir also schlafen …«
 
-Wir gingen, und:ich erwachte erst um neun Uhr Tore
-mittags. Harst wurde dann auch munter, und Patt (wir
+Wir gingen, und ich erwachte erst um neun Uhr vormittags.
+Harst wurde dann auch munter, und Patt (wir
 hatten alle drei ein gemeinsames Zimmer), mußte erst gehörig
 gerüttelt werden, bevor er sich aufrichtete, —
 
 Antje brachte dann das Frühstück und … die dritte
 Depesche.
 
-Aus Rentners —:von der Firma Ward u. Coup.
+Aus Neuyork — von der Firma Ward u. Comp.
 
-Harst nahm Bleistift und Papier, In wenigen Minuten
+Harst nahm Bleistift und Papier. In wenigen Minuten
 Hatte er den Text niedergeschrieben.
 
-Simon Goulds Vergangenheit schon vor drei Jahren
+> Simon Goulds Vergangenheit schon vor drei Jahren
 im Auftrag eines anonymen Klienten durchforscht. Auftrag
-kam mit hohem Honorar von Paris, — Gould in Rock
-Springs, Alaska, Kramladen, verheiratet mit Anna Wortlaut.
+kam mit hohem Honorar von Paris. — Gould in Rock
+Springs, Alaska, Kramladen, verheiratet mit Anna Molland.
 1906 zwei Kinder in Rock Springs geboren. Einer
-der Zwillinge, Mädchen, von ESheschutschen»-Indianern gleich
-naß Geburt aus Rache geraubt. Nicht wiedergefunden. —
-1922 ließ Gould durch; uns in Alaska aufs neue nach
-halbem Kinde forschen.- Vergeblich. — Schlechtes Eheleben.
+der Zwillinge, Mädchen, von Sheschutschen-Indianern gleich
+nach Geburt aus Rache geraubt. Nicht wiedergefunden. —
+1922 ließ Gould durch uns in Alaska aufs neue nach
+dem Kinde forschen. Vergeblich. — Schlechtes Eheleben.
 Frau Gould starb aus Gram über dauernde Untreue des
 Gatten. — Falls Bericht nicht genügt, Depesche. — Ward.
 
 »Genügt vollauf!« meinte Harst. »Ist sogar mehr, als
-ix) erhofft habe, Nur:an die Indianerrache glaube ich nicht
-—» niemals! Ich vermute etwas anderes …«
+ich erhofft habe. Nur an die Indianerrache glaube ich nicht
+— niemals! Ich vermute etwas anderes …«
 
 <@pagebreak/>
 »Was?!« platzte Joe heraus.
 
-ie der Gattin Simon Goulds
+»Rache der Gattin Simon Goulds …«
 
-ie — am eigenen Kinde?! Das ’wäre widersinnig.
+»Wie — am eigenen Kinde?! Das wäre widersinnig.
 Außerdem waren die Goulds damals in Rock Springs doch
 erst so kurze Zeit verheiratet, daß man kaum annehmen
 kann, der Ehemann würde schon damals …«
@@ -2119,63 +2118,63 @@ ab und köpfte das dritte Frühstücksei. »Die Zeit wird
 auch diese Fragen klären. Das bisher Erreichte ist ja schon
 vielversprechend genug. Wir wissen, daß die »unechte« Honoria
 Gould, also die Frau, die fraglos die Attentate auf
-Schraut und mich veranlaßt und die zu sicherlich) in Bagdad
-ihre zarten MörderhändhHhen mit im Spiel gehabt hat, in
+Schraut und mich veranlaßt und die auch sicherlich in Bagdad
+ihre zarten Mörderhändchen mit im Spiel gehabt hat, in
 Wahrheit Gipsy, geborene Gould, verehelichte Touffiere heißt
 und ist. Wir wissen ferner, daß Madame Touffiere nebst
-Sohn Raoul und Schwiegertochter Gipsy sowie der Tücke
-und eine zweite als Mann verkleidete Frau sie zur Zeit auf
+Sohn Raoul und Schwiegertochter Gipsy sowie der Türke
+und eine zweite als Mann verkleidete Frau sich zur Zeit auf
 der Jacht »Sturmvogel« befinden und daß diese Herrschaften
 zweifellos einen großen Schlag gegen Honoria Gould und
 deren Jacht »Manhattan« planen, der aber erst auf hoher
 See ausgeführt werden soll. Meines Erachtens kann es sich
 dabei nur darum handeln, Gipsy Touffiere, geborene Gould,
 als Milliardärin, eben als Honoria, fernerhin auftreten zu
-lassen, — zum Beispiel in der Weise, daß man die »Masse
-Satan« irgendwie mit Mann und Maus versenkt und die
-Herrschaften auf dem »Sturmvogel’« dann angeblich als einzige
+lassen, — zum Beispiel in der Weise, daß man die »Manhattan«
+irgendwie mit Mann und Maus versenkt und die
+Herrschaften auf dem »Sturmvogel« dann angeblich als einzige
 »Honoria Gould« retten — in Wirklichkeit Gipsy
 Touffiere, die ja nur ihre Verkleidung abzulegen braucht …«
 
 »Hintertreppenphantasie!« brummte Joe Patterson.
 
-»Oho!« protestierte ich energiscm. »Ich denke, Patt, als
-Rade ein Mann wie Sie sollte auf Grund eigener Erfahrungen
+»Oho!« protestierte ich energisch. »Ich denke, Patt, gerade
+ein Mann wie Sie sollte auf Grund eigener Erfahrungen
 zu der Erkenntnis gelangt sein, daß menschliche Phantasie,
 sobald es sich um Millionen, Milliarden handelt, schier unerschöpflich
-ist. Verdenken Sie: Gipsy trägt Männeranzug,
+ist. Bedenken Sie: Gipsy trägt Männeranzug,
 <@pagebreak/>
-spielt den jugendlich — eleganten Gent, —« haben wir ja mit
+spielt den jugendlich-eleganten Gent, — haben wir ja mit
 eigenen Augen gesehen! Und …«
 
 Es hatte kräftig geklopft.
 
-Kapitän »Schneiders hagere, kräftige Gestalt schob sich ins
+Kapitän Schneiders hagere, kräftige Gestalt schob sich ins
 Zimmer,
 
 »Morgen allerseits … — Wollte nur melden, Herr Harst,
-daß der »Sturmvogel«, :.den ich durch meine Blaujacken verboten
+daß der »Sturmvogel«, den ich durch meine Blaujacken beobachten
 lassen sollte, soeben elbaufwärts dampft …«
 
 Harst machte ein recht verblüfftes Gesicht.
 
 »und die Manhattan«?« fragte er rasch.
 
-»Liegt im Des … Die neue Schraube dürfte erst nach)«
-Mittags montiert sein. Vor neun Uhr abends kann die «Man-battan’«
+»Liegt im Dock … Die neue Schraube dürfte erst nachmittags
+montiert sein. Vor neun Uhr abends kann die »Manhattan«
 auf keinen Fall in See gehen …«
 
 Joe Patt rief — und es waren meine Gedanken, denen
 er Worte verlieh: »Harst, wenn wir bei dieser ganzen Geschichte
 nur nicht eklig auf dem Holzweg sind!!«
 
-Harald hatte ein erhoben …
+Harald hatte sich erhoben …
 
 Er schaute den schmucken Käpten sinnend an. »Haben
 Ihre Leute noch etwas beobachtet?« meinte er zögernd.
 
-»Ja … Aber … es wird wohl Unsinn sein — ein Irrt
-Irrtum … Mein Steuermann Petroleum behauptet, zwischen der
+»Ja … Aber … es wird wohl Unsinn sein — ein Irrtum
+… Mein Steuermann Pedersenn behauptet, zwischen der
 »Manhattan« und dem »Sturmvogel« seien heimlich Signale
 ausgetauscht worden …«
 
@@ -2184,15 +2183,15 @@ auf …
 
 »Dann … « sagte er langsam, »dann sind wir allerdings
 in einer Beziehung bisher auf dem Holzwege gewesen!!« —
-Und in gleichgültigem Tone: »Im übrigen bleibt es bei un«
-Seien Dispositionen. Wir werden mit dem Schoner »Maria«
-Her »Manhattan« folgen und … ein Rendezvous auf See
+Und in gleichgültigem Tone: »Im übrigen bleibt es bei unseren
+Dispositionen. Wir werden mit dem Schoner »Maria«
+der »Manhattan« folgen und … ein Rendezvous auf See
 zwischen zwei ungleichen Schwestern ein wenig stören …«
 
-Weiter war aus ihm nichts herauszubekommen, Der Tag
-verfing ohne jede Neuigkeit, Abends zehn Uhr schlich die
-»Maria« hinter der Jacht »Manhattan« her — — elbab«-
-vorwärts — der Nordsee zu.
+Weiter war aus ihm nichts herauszubekommen. Der Tag
+verging ohne jede Neuigkeit. Abends zehn Uhr schlich die
+»Maria« hinter der Jacht »Manhattan« her — — elbabwärts
+— der Nordsee zu.
 
 <@pagebreak/>
 
@@ -2201,7 +2200,7 @@ vorwärts — der Nordsee zu.
 
 Nacht …
 
-Ein Frühlingssturm setzte über das deutsche Meer, als
+Ein Frühlingssturm fegte über das deutsche Meer, als
 wollte er es bis in die tiefsten Tiefen aufwühlen und das
 oberste zu unterst kehren.
 
@@ -2211,9 +2210,9 @@ und die nasse Nase nach jeder kräftigen Dusche immer wieder
 keck emporrichtete.
 
 Wir befanden uns bereits nördlich von Helgoland, hatten
-längst die Positionslichter gefüllt, um von der »Manhattan«
+längst die Positionslichter gelöscht, um von der »Manhattan«
 nicht bemerkt zu werden, und hielten den Abstand von knapp
-dreihundert Meter ziemlich genau ein, Die Finsternis ringsum
+dreihundert Meter ziemlich genau ein. Die Finsternis ringsum
 wirkte doppelt unheimlich, weil die weißen, brausenden
 Wogenkämme aus diesem Dunkel mit drohender Wirklichkeit
 wie herumlaufende helle Mauern auftauchten und unsere
@@ -2221,18 +2220,18 @@ andere »Maria« jedesmal ziemlich lieblos behandelten. Von
 der »Manhattan« sahen wir nichts als ein paar grelle Punkte:
 Laternen, die einsamen, schwankenden Sternen glichen.
 
-Es war nach Mitternacht, Wir beide, Patt und Käpten
+Es war nach Mitternacht. Wir beide, Patt und Käpten
 Schneider standen vorn am Bugspriet, hatten uns zur Sicherheit
 angeseilt und benutzten abwechselnd unsere Gläser, um
-die Milliardärsjacht nicht aus den Augen zu verlieren, Obwohl
-wir Felsens anhatten, waren wir doch bis auf die Haut
-durchnäßt und froren derart, daß die Kognakflasche immer aus
-neue die Runde machte. Es war dies die tollste Alarmruf,
-die in je miterlebt habe, und zugleich auch das ärgste Dauerskat,
+die Milliardärsjacht nicht aus den Augen zu verlieren. Obwohl
+wir Ölzeug anhatten, waren wir doch bis auf die Haut
+durchnäßt und froren derart, daß die Kognakflasche immer aufs
+neue die Runde machte. Es war dies die tollste Sturmnacht,
+die ich je miterlebt habe, und zugleich auch das ärgste Dauerbad,
 das ich mir je leistete, denn die Brecher kamen fast jede
-Minute über Bord und wischen uns vier gründlich aus, Und
-doch wollte keiner vom Platze weihen. Das Jagdfieber hatte
-ne gepackt, und selbst Harald war nervös und unruhig wie
+Minute über Bord und wuschen uns vier gründlich aus. Und
+doch wollte keiner vom Platze weichen. Das Jagdfieber hatte
+uns gepackt, und selbst Harald war nervös und unruhig wie
 selten.
 
 <@pagebreak/>
@@ -2241,39 +2240,39 @@ der »Manhattan« sind verschwunden … Ich …«
 
 Was er noch brüllen wollte, erstickte in einem Gurgeln.
 
-Als die Viesenwoge vorüber, als wir vier die triefenden
+Als die Riesenwoge vorüber, als wir vier die triefenden
 Gläser an die Augen rissen, als wir nach der eleganten Jacht
 Honoria Goulds wie nach einer Stecknadel suchten, da schoß
 urplötzlich aus der rabenschwarzen Finsternis vor uns ein
-gleißender langer Strahl zum düsteren jagenden Gewalt
+gleißender langer Strahl zum düsteren jagenden Gewölk
 empor …
 
-»Ein Scheinwerfer …
+Ein Scheinwerfer …
 
 Erlosch wieder …
 
 Flammte von neuem auf …
 
-»Signal für den »Sturmvogel’’« rief Harst mit vollster
+»Signal für den »Sturmvogel« rief Harst mit vollster
 Lungenkraft …
 
 Abermals ein Wasserberg, der den Schoner in die Tiefe
-drüben wollte. Aber »Maria« war wie ein Kork wieder oben.
+drücken wollte. Aber »Maria« war wie ein Kork wieder oben.
 War kaum wieder oben, als rechts von uns die schwarzen
 Vorhänge jäh zerrissen …
 
-Ein Vulkan schien dort durcF€ ein Seebeben mit einem
+Ein Vulkan schien dort durch ein Seebeben mit einem
 Male an die Oberfläche des nordischen Meeres gepreßt worden
 zu sein …
 
-Ein feuerspeiender Balkon …
+Ein feuerspeiender Vulkan …
 
 Vielleicht dreihundert Meter entfernt …
 
-Kein Balkon …
+Kein Vulkan …
 
 Ein Schiff, das durch eine Explosion zerstört wurde, —
-das in die Luft flog, — dessen Benzinvorräte gleicht Flammens-zungen
+das in die Luft flog, — dessen Benzinvorräte gleicht Flammenzungen
 eines feuerspeienden Berges sich emporleckten, für
 Sekunden die Umgebung in eine gespenstische Lichtfülle tauchten
 und wieder erloschen …
@@ -2282,14 +2281,14 @@ Der Vulkan war verschwunden …
 
 Finsternis wie zuvor …
 
-Aber mein Herz hämmerte vor Aufregung. Der «Sturms-vogel«
-war ja eine Motorjacht gewesen … Der »Sturmwogen
+Aber mein Herz hämmerte vor Aufregung. Der »Sturmvogel«
+war ja eine Motorjacht gewesen … Der »Sturmvogel«
 war tot, zerfetzt, zerrissen, — nichts mehr von ihm
 übrig.
 
 <@pagebreak/>
-Käpten Schneiders helle, schrille Kommandostimme übers
-tönte das Zischen und Toben eines neuen nahenden Wogen-kammmes
+Käpten Schneiders helle, schrille Kommandostimme übertönte
+das Zischen und Toben eines neuen nahenden Wogenkammes
 …
 
 »Explosion — — »Sturmvogel«, — — vielleicht …«
@@ -2298,20 +2297,20 @@ Dann waren die gurgelnden Wasser über uns, um uns,
 rissen uns hin und her, wollten uns mitzerren hinab in die
 unbekannten Gefilde der Tiefsee …
 
-Sondern: umsonst …
+Zerrten umsonst …
 
 Wir konnten wieder atmen … Wir schüttelten die Nässe
-vom Gesicht, wir spähten naß der »Manhattan« aus …
+vom Gesicht, wir spähten nach der »Manhattan« aus …
 
-Akt — ihre grellen Lichter waren wieder sichtbar geworden
-… He hatte gewendet. Sie hielt auf die Unfallstelle
+Ah — ihre grellen Lichter waren wieder sichtbar geworden
+… Sie hatte gewendet. Sie hielt auf die Unfallstelle
 zu. Ihre rote Positionslaterne glühte wie das feurige Auge
 eines Ungeheuers durch die Finsternis …
 
 Der Sturm ließ urplötzlich nach … Holte vielleicht nur
-Atem, um uns nachher um so toller nutzlosen zu können. Das
-Gewölk zerteilte sich… Mildes Mondlicht beleuchtete die Ton
-blendende, tosende See.
+Atem, um uns nachher um so toller anblasen zu können. Das
+Gewölk zerteilte sich. Mildes Mondlicht beleuchtete die Tobende,
+tosende See.
 
 Mein Herzschlag stockte …
 
@@ -2328,34 +2327,34 @@ frei — atmete … sah … sah …
 
 Neben mir stand nur noch Harald aufrecht da … Patt
 und Käpten Schneider waren verschwunden …
-Ich sah — — dort vor uns die »Manhattan« … Eine
 
-Riesenwoge … Ein winziges Boot, darin eine Frau, sieh an
+Ich sah — — dort vor uns die »Manhattan« … Eine
+Riesenwoge … Ein winziges Boot, darin eine Frau, sich an
 die Bootsränder klammernd … Frau in Ölhut und Mantel
 … Boot mit Luftkästen, — wie hätte es sich sonst in diesem
 Unwetter auf dem Wellenkamm halten können …?!
 Sah, wie der Wasserberg das Boot pfeilschnell auf die
 <@pagebreak/>
-Jacht zutrieb, wie die ungeheure Wassermasse die »Man«-
-Station« Backbord traf, wie … Boot und Frau in der Luft zu
+Jacht zutrieb, wie die ungeheure Wassermasse die »Manhattan«
+backbord traf, wie … Boot und Frau in der Luft zu
 schweben schienen, über die Reling flogen …
 
 Dann war der Mond mit einem Schlage wieder verdeckt.
 
 Finsternis …
 
-An meinen »Beinen krabbelte etwas umher, richtete sie
+An meinen Beinen krabbelte etwas umher, richtete sie
 auf, fluchte …
 
-Patt .,!
+Patt …!
 
-Not ein anderer fluchte: Käpten Schneider! Stand auf
+Noch ein anderer fluchte: Käpten Schneider! Stand auf
 den Füßen, schimpfte …
 
 Noch immer glühte das rote Auge durch die Nacht …
 
 Aber die »Manhattan« wendete abermals, zeigte uns ihr
-Heck, die gleißenden Punkten der Laternen. Sie hatte den
+Heck, die gleißenden Pünktchen der Laternen. Sie hatte den
 bisherigen Kurs wieder aufgenommen,
 
 Harst, das Fernglas vor das Gesicht gepreßt, rührte sich
@@ -2368,7 +2367,7 @@ Merkwürdig: der Sturm schien wirklich abzuflauen …
 Das Pfeifen und Jaulen der Windstöße in der Takelage
 verstummte …
 
-— Die Wogen wurden zahmer,
+Die Wogen wurden zahmer,
 
 Die Nordsee hatte den »Sturmvogel« verschluckt. Und
 dieser Happen schien ihr zu genügen. Verschluckt hatte sie
@@ -2385,33 +2384,32 @@ verlassen haben mußte …
 
 Eine: Gipsy Touffiere, Honorias Zwillingsschwester! —
 
-Wir vier hier vorn auf der »Maria« banden uns los,
+Wir vier hier vorn auf der »Maria« banden uns los.
 Der Mond leuchtete uns. Die »Maria« folgte weiter der
-schneller Jacht …
+schnellen Jacht …
 
 Wir vier schleunigst hinab in des Käptens warme Kajüte
-…» Nasse Kleider aus … Und gegenseitig gerieben, frottiert,
+… Nasse Kleider aus … Und gegenseitig gerieben, frottiert,
 <@pagebreak/>
-maskiert … Und Rum gesoffen — gesoffen — reinen Rum
+massiert … Und Rum gesoffen — gesoffen — reinen Rum
 … Daß wir nur so husteten und krächzten …
 
 Wurden warm dabei. Wurden wieder Menschen, wurden
-vergnügt, halb betrunken, — wie halb Erstarrte … Berg
-vergnügt, weil wir so glimpflich weggekommen, weil nur Patt
+vergnügt, halb betrunken, — wie halb Erstarrte … Vergnügt,
+weil wir so glimpflich weggekommen, weil nur Patt
 und Schneider Beulen und Quetschungen und blutrünstige
 Hautstellen hatten. —
 
-Noch eine Stunde schlich die »Maria« so hinter der vornehmsten
-Schwester her … — Wir waren wieder an Dr.
+Noch eine Stunde schlich die »Maria« so hinter der vornehmeren
+Schwester her … — Wir waren wieder an Deck.
 Wir waren nachts nicht bemerkt worden. Aber jetzt drohte uns
 die »Manhattan« davonzulaufen,
 
 »Laternen an!« befahl Harald. »Notsignale geben, Käpten
-
-— Raketen — rasch!!«
+… Raketen — rasch!!«
 
 Die erste Rakete zischte empor, streute ihre bunten Kügelchen
-aus
+aus …
 
 Die zweite folgte …
 
@@ -2427,79 +2425,78 @@ Sie wendete, kam näher …
 
 Näher …
 
-Käpten Schneider signalisierte: »Wir linken! Nehmt uns
+Käpten Schneider signalisierte: »Wir sinken! Nehmt uns
 auf!«
 
 Unser Großboot wurde ausgeschwungen … Drei kletterten
 hinein … An Deck der »Maria« war’s leer … Die drei
 schienen die einzigen Überlebenden zu sein: wir drei, Patt,
-Harst, im …
+Harst, ich …
 
-Wir ruderten auf die Jacht zu … Wir Kanten glücklich
-unter Wind an einer Strickleiter an Der. Wir drei …
+Wir ruderten auf die Jacht zu … Wir kamen glücklich
+unter Wind an einer Strickleiter an Deck. Wir drei …
 
-Und — was sollten wir hier auf der »Manhattan’’?!
-— Einer wußte es: Harst — nur Harst!!
+Und — was sollten wir hier auf der »Manhattan«?!
+— Einer wußte es: Harst — nur Harst!
 
 Matrosen umdrängten uns …
 
 In unserem Ölzeug hielten sie uns wohl für ihresgleichen.
-
 <@pagebreak/>
 Auffallenderweise war kein einziger der Schiffsoffiziere sichtbar.
-Nur oben auf der Brücke lehnte der Wacdthabende am
+Nur oben auf der Brücke lehnte der Wachthabende am
 Geländer und beobachtete uns.
 
 Joe Patterson besaß nicht Harsts Kaltschnäuzigkeit gegenüber
-diesem Ansturm:immerhin berechtigter Fragen der hilfs-dereiten
+diesem Ansturm immerhin berechtigter Fragen der hilfsbereiten
 Blaujacken, und wollte gerade grob werden, als
 Doktor Choffrims blasses Gesicht und armenische Hakennase
 im Lichte der Laternen auftauchte. Choffrim stützte sich auf
-einen der Stewards der Jacht, drängte sich durchs den Ring
-Her Matrosen und rief mit einem merklichen Seufzer der
+einen der Stewards der Jacht, drängte sich durch den Ring
+der Matrosen und rief mit einem merklichen Seufzer der
 Erleichterung: »Meine Ahnung — — meine Hoffnung!!
 Gut, daß Sie da sind, Herr Harst. Hier an Bord geht alles
-Kopfüber, kopfunter … Die ganze Welt ist verrückt geworden,
+kopfüber, kopfunter … Die ganze Welt ist verrückt geworden,
 ich selbst meines Lebens keine Minute mehr sicher …!«
 
 Ein scharfer Anruf ließ Mahmud herumfahren. Einer
 der Offiziere der Jacht, offenbar der Erste Steuermann, hatte
 die Blaujacken beiseite gestoßen und den Doktor beim Arm
-gepackt
+gepackt …
 
 »Mister, Sie sollten doch zum Teufel auf Befehl Miß
-Goulds in Ihrer Kabine bleiben!! — Zurück — 	— was
+Goulds in Ihrer Kabine bleiben!! — Zurück — — was
 Haben Sie mit diesen Fremden zu schaffen?!«
 
-Dr Steuermann befand sich in einer Erregung, die lediglich«
+Der Steuermann befand sich in einer Erregung, die lediglich
 auf außergewöhnliche Vorkommnisse zurückgeführt werden
 Konnte. Auch die Matrosen erschienen mir in gleicher Weise
 erregt und geradezu streitlustig. Ein unwilliges Murmeln
 über diese Behandlung des Armeniers, der doch allzeit als
-Privatsekretär schon des alten Gould hier an Bord Respekts-perjotii
+Privatsekretär schon des alten Gould hier an Bord Respektsperson
 gewesen, schwoll rasch zu drohenden Flüchen an. Es
-Darein alles ältere Leute, diese wetterfesten, stämmigen Kerle,
-und sicherlich) hatten. sie sämtlich bereits Simon Gould so
-manch:s Jahr in Freue gedient.
+waren alles ältere Leute, diese wetterfesten, stämmigen Kerle,
+und sicherlich hatten sie sämtlich bereits Simon Gould so
+manches Jahr in Treue gedient.
 
-Icrdenfalls hatte die ganze Situation an Bord etwas der«
-»Art Ungeklärtes, Berworrene8, daß ich mir keinerlei Berg
-Walnuß machen konnte,
+Jedenfalls hatte die ganze Situation an Bord etwas derart
+Ungeklärtes, Verworrenes, daß ich mir keinerlei Vers
+daraus machen konnte,
 
-Harst sprach jetzt den Steuermann mit erhobener Strich
+Harst sprach jetzt den Steuermann mit erhobener Stimme
 <@pagebreak/>
 an. »Mein Name ist Harald Harst, Mister. Ich bin jener
-deutete Liebhaberdetektiv, den Miß Honoria Gould mit der
-Untersucxung einiger rätselhafter Vorhalle beauftragt hat. Wir
+deutsche Liebhaberdetektiv, den Miß Honoria Gould mit der
+Untersuchung einiger rätselhafter Vorfälle beauftragt hat. Wir
 sind der »Manhattan« mit dem Motorschoner dort drüben
-gefolgt, Der Schoner ist noch vollkommen seetüchtig. Wir
+gefolgt. Der Schoner ist noch vollkommen seetüchtig. Wir
 wollten nur unauffällig hier an Bord gelangen, und scheinbar
 auch gerade zur rechten Zeit …«
 
 Der Steuermann ließ Choffrims Arm wieder los und
 meinte hastig: »Mister Harst?! — Sie sind einer Schwindlerin
 ins Garn gegangen … Ein Weib, das mit Miß Gould
-verblüffende Ähnlichkeit hat, wurde naß dem Untergang der
+verblüffende Ähnlichkeit hat, wurde nach dem Untergang der
 Jacht durch eine Woge an Bord gespült und …«
 
 »Wo ist dieses Weib?« fragte Harald sehr bestimmt. »Ich
@@ -2507,11 +2504,11 @@ nehme an, daß der Kapitän, die anderen Schiffsoffiziere und
 Miß Gould sich im Salon befinden, und daß …«
 
 »Miß Gould hat die Fremde … niederschlagen müssen,«
-platzte der Steuermann heraus, »Das Weib wurde froh
-und …« …
+platzte der Steuermann heraus. »Das Weib wurde frech
+und …«
 
 Harsts kurzes Auflachen ließ ihn den Satz nicht beenden.
-»So … so — 	— niederschlagen müssen …!! Bitte — bringen
+»So … so — — niederschlagen müssen …!! Bitte — bringen
 Sie uns nur in den Salon, dort werde ich …«
 
 »Kommen Sie, kommen Sie, meine Herren … Wir wissen
@@ -2520,42 +2517,42 @@ Mahmud, Sie begeben sich in Ihr Kabine!«
 
 »Später — später kann er das tun,« meinte Harst gemütlich.
 »Gehen wir also … Für beide Damen wird es eine
-nicht gerade angenehme Überraschung werden, Ein schlechter
+nicht gerade angenehme Überraschung werden. Ein schlechter
 Arzt, der eine Radikalkur scheut …!«
 
 Choffrim wurde jetzt von Harst gestützt. Voran schritt
-der Steuermann, hinterdrein Joe und ich, Joe meinte, halr-verzweifelt:
-»Verdammt voll mal, Schraut, — sind wir
+der Steuermann, hinterdrein Joe und ich. Joe meinte, halb
+verzweifelt: »Verdammt noch mal, Schraut, — sind wir
 beide wirklich solche Idioten, daß wir immer noch nicht ahnen,
 wo des Pudels Kern steckt?! War bedeutet dies alles nun
-wieder 91
+wieder?!«
 
 <@pagebreak/>
 
-<h2>6. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Sessel und Diwan.</h3>
 
-Der Salon der »Manhattan« war so ziemlich das Ge-sHmadloseste,
+Der Salon der »Manhattan« war so ziemlich das Geschmackloseste,
 Überladenste, das mir je begegnet ist. Simon
-Gould hatte mit buntem Getäfel, Spiegeln, vergoldeten Ding«-
-Momenten und mißverstanden modernen Beleuchtungskörpern
-nicht gespart, Immerhin hatte diese Überfülle von Licht
+Gould hatte mit buntem Getäfel, Spiegeln, vergoldeten Ornamenten
+und mißverstanden modernen Beleuchtungskörpern
+nicht gespart. Immerhin hatte diese Überfülle von Licht
 ein Gutes: sie gab bei den folgenden Szenen jede geringste
-Forderung im Mienenspiel der Beteiligten erbarmungslos
-Preis,
+Änderung im Mienenspiel der Beteiligten erbarmungslos
+preis,
 
 Als wir eintraten, bot sich uns folgendes Bild. Rechts
 auf einem mit zwei gelbweißen Eisbärfellen bedeckten Diwan
 lag Gipsy Touffiere in ihrem nassen, langen Gummimantel —
 mit feuchten, halb aufgelösten Haaren … Man hatte ihr die
-Hände über der Brust mit einem Taschentuch zusammengeknotet,
+Hände über der Brust mit einem Taschentuch zusammengeknotet.
 Ihr Gesicht war vor ohnmächtiger Wut bis zur
 Unkenntlichkeit verzerrt. Ihre Augen schwammen in Tränen,
 
 Links saß Honoria Gould in einem seidenen Kimono, um
 den Kopf einen golddurchwirkten Schleier geschlungen. Hinter
-ihr standen vier Seeleute: der kleine Kapitän Wurst, der
+ihr standen vier Seeleute: der kleine Kapitän Murphy, der
 zweite Steuermann, der Ingenieur und der Schiffsarzt, der
 gleichfalls Jachtuniform trug.
 
@@ -2565,35 +2562,34 @@ brachte eine Wirkung hervor, die recht verblüffend war,
 
 Vom Diwan her ein heller Aufschrei …
 
-»Gott sei Dank — — Herr Harst!!«
+»Gott sei Dank — — Herr Harst!«
 
 Vom Sessel her auch ein Schrei, aber — des höchsten
 Unwillens. Miß Gould war also mit unserem unerwarteten
 Auftauchen keineswegs einverstanden,
 
-Harst blieb in der Mitte des Salons stehen. Sein Bis
+Harst blieb in der Mitte des Salons stehen. Sein Blick
 wanderte vom Sessel zum Diwan, wieder zurück …
 
 Und zu den Herren hinter dem Sessel nun: »Harald
 <@pagebreak/>
 Harst ist mein Name … Hier Joe Patterson von der Weltfirma
 Ward — hier mein Freund Schraut … — Kapitän
-Wurst, Ihnen steht die Polizeigewalt hier an Bord zu …
+Murphy, Ihnen steht die Polizeigewalt hier an Bord zu …
 Mit Ihnen möchte ich zunächst verhandeln. Ihre Herrin
 wird nichts dagegen haben …«
 
 Honoria Gould im Sessel war jetzt genau so blaß wie
 Gipsy Touffiere, rief grell dazwischen:
 
-»Ich wünsche Ihre Einmischung nicht, Herr Harst!! Wo
+»Ich wünsche Ihre Einmischung nicht, Herr Harst! Wo
 kommen Sie überhaupt her?! Ich …«
 
 »Sie werden sich meine Einmischung schon gefallen lassen
 müssen,« fiel Harst ihr ins Wort, und dies mit so drohender
-Schärfe, daß Honoria Gould verwirrt zu Boden blickte. »Das
-
-Kapitän Wurst, was geschah, nachdem das Boot mit der
-Fremden an Des geworfen worden war?«
+Schärfe, daß Honoria Gould verwirrt zu Boden blickte. »Kapitän
+Murphy, was geschah, nachdem das Boot mit der
+Fremden an Deck geworfen worden war?«
 
 Der kleine Käpten der »Manhattan« hüstelte verlegen.
 »Mister Harst — Ihre Berühmtheit in Ehren, — aber wenn
@@ -2601,15 +2597,15 @@ Miß Gould verlangt, daß Sie …«
 
 Vom Diwan her die Unterbrechung …
 
-»Wurst, Sie haben nicht auf mich hören wollen …
+»Murphy, Sie haben nicht auf mich hören wollen …
 Man drohte mich zu knebeln … Ich bin …«
 
-Harald nickte Gipsy Touffiere ganz freundlich zu. »Gegen
+Harald nickte Gipsy Touffiere ganz freundlich zu. »Regen
 Sie sich nicht auf, Miß. Es wird sich alles klären. — Kapitän,
 die Fremde verlangte mit Miß Gould hier im Salon
 allein gelassen zu werden — nicht wahr? — Und dann rief
 Miß Gould nach einer Weile Sie und die anderen Herren
-Hier in den Salon«…«
+Hier in den Salon …«
 
 »So ist’s …«
 
@@ -2617,10 +2613,10 @@ Hier in den Salon«…«
 dem Diwan, und Miß Gould erklärte Ihnen, Sie habe sich
 gegen ihre Doppelgängerin zur Wehr setzen müssen …«
 
-»Mit der Bronzevase dort mußte meine Herrin das»…
-das Weib niederschlagen …/« und Wurst zeigte mit ziemlich
-hilflosem Gesichtsausdruck auf eine Grotte, auf dem Teppich
-Ärgerte Vase. Mit hilflosem Gesichtsausdruck … Man
+»Mit der Bronzevase dort mußte meine Herrin das …
+das Weib niederschlagen …,« und Murphy zeigte mit ziemlich
+hilflosem Gesichtsausdruck auf eine Große, auf dem Teppich
+liegende Vase. Mit hilflosem Gesichtsausdruck … Man
 <@pagebreak/>
 merkte, daß auch er die Vorfälle hier für reichlich rätselhaft
 hielt.
@@ -2633,7 +2629,7 @@ Vielleicht wurde das Wasser über ein schuldloses Haupt gegossen,
 um die Täuschung vollkommener zu gestalten.«
 
 Vom Diwan her …: »Herr Harst, weiter … weiter,
-damit Wurst endlich die Augen aufgehen …!«
+damit Murphy endlich die Augen aufgehen …!«
 
 Wir Unbeteiligten — denn bei dieser nervenprickelnden
 Entlarvungsszene gab es ja nur drei Mitspieler — wir
@@ -2644,9 +2640,9 @@ und sensationshungrigen Spannung hielten.
 Der »Diwan« also war die »echte« Miß Gould — und
 Nicht der »Sessel« …!
 
-Nun — dieser »Sessel« erinnerte jetzt verzweifelt an dies
-selbe Dame, die vor ein paar Tagen auch in einem Sessel
-in Haralds Arbeitszimmer zusammensinken nach Fassung
+Nun — dieser »Sessel« erinnerte jetzt verzweifelt an dieselbe
+Dame, die vor ein paar Tagen auch in einem Sessel
+in Haralds Arbeitszimmer zusammengesunken nach Fassung
 gerungen hatte — damals, als sie uns den Mordanschlag
 auf Doktor Choffrim zu begründen suchte.
 
@@ -2655,52 +2651,52 @@ ihr meines Freundes harte, klare Worte um die Ohren wie
 die Posaunentöne des Jüngsten Gerichts.
 
 »Frau Gipsy Touffiere, mit unserem Erscheinen hatten
-Sie nicht gerechnet …? Nicht damit, daß ich die Hälfte all
+Sie nicht gerechnet …! Nicht damit, daß ich die Hälfte all
 dessen, was vorgegangen war und noch vorgehen würde,
-»richtig durchschaut hatte. — Bitte — entfernen Sie doch
+richtig durchschaut hatte. — Bitte — entfernen Sie doch
 einmal den golddurchwirkten Schleier von Ihrem nassen Haar
 — nassen Haar, Frau Touffiere. Wenn Sie Miß Gould
 wären, dürfte Ihr Haar nicht naß sein. Und weil eben Miß
 Goulds Haar, nachdem Sie Ihre leibliche Schwester hier
-niedergeschlagen und die Kleider gewechselt hatten, trocken
+niedergeschlagen und die Kleider gewechselt hatten, *trocken*
 war, trat die Wasserkaraffe als Requisit eines plumpen
 <@pagebreak/>
 Schwindels in Tätigkeit … — Bitte — herunter mit dem
-Schleier … bittet«
+Schleier … bitte!«
 
 Sie rührte sich nicht …
 
-»Verbannt!!« brüllte da der impulsive Patt, sprang zu
+»Verdammt!« brüllte da der impulsive Patt, sprang zu
 und riß ihr den Schleier vom Kopf. »Da haben wir’s ja
 — — naß — — naß!!«
 
-Gipsy … rührte sich. nicht. Kapitän Wurst knotete
+Gipsy … rührte sich nicht. Kapitän Murphy knotete
 rasch seiner Herrin die weiche Handfessel auf und brummte
 eine Entschuldigung. Miß Honoria setzte sich aufrecht. In
-ihren Augen war ein Auftrag unheilvollen Strenge, und
+ihren Augen war ein Ausdruck unheilvoller Strenge, und
 mit energischer Handbewegung strich sie ein paar rötlich-blutige
 Haarsträhnen aus der Stirn und legte so eine blauverfärbte
 große Beule bloß.
 
-Ihr Frist glitt über ihre Schwester hin. Glitt über die
+Ihr Blick glitt über ihre Schwester hin. Glitt über die
 Anwesenden hinweg …
 
 »Meine Herren,« sagte sie mit einer Stimme, die vor
 innerer Bewegtheit merklich vibrierte … »meine Herren, ich
 verlange von Ihnen vollste Verschwiegenheit … Ich will nicht,
-daß der Name Gould in aller Welt die Spalten der Tagtes-zeitungen
+daß der Name Gould in aller Welt die Spalten der Tageszeitungen
 füllt … Ich werde Ihnen mitteilen, was es hier
 zu erklären gibt, und dann werde ich bestimmen, wie meine
-Schwester Gipsy, die ein trotz meiner Nachsicht jetzt abermals
-als ein Charakter verwerflicmster Art gezeigt hat … wie sie
-«. büßen soll. — Setzen Sie sich bitte … denn mit wenigen
+Schwester Gipsy, die sich trotz meiner Nachsicht jetzt abermals
+als ein Charakter verwerflichster Art gezeigt hat … wie sie
+… büßen soll. — Setzen Sie sich bitte … denn mit wenigen
 Worten läßt sich diese Tragödie einer schändlich Betrogenen
 kaum schildern … Nehmen Sie also Platz, meine Herren …
 Herr Harst, bitte — hier neben mich … So, — und nun,
 Herr Harst, könnten Sie mir wohl das Widerwärtige dieser
-… « Anklagen gegen meine Schwester dadurch größtenteils Erstaunen,
+… Anklagen gegen meine Schwester dadurch größtenteils ersparen,
 daß Sie vortragen, was Ihnen Ihr genialer Geist aus
-Leinen Einzelheiten von dem Gesamtbild vermittelt hat,«
+kleinen Einzelheiten von dem Gesamtbild vermittelt hat,«
 
 Gipsy Touffiere lag mit geschlossenen Augen im Sessel
 … Die Farbe ihres Gesichts war unheimlich wächsern, und
@@ -2709,7 +2705,7 @@ die einzige Bewegung, die sie zuweilen ruckartig tat, war ein
 krampfhaftes Anpressen der geballten Fäuste gegen die stoßweise
 atmende Brust.
 
-Sir begann — ohne jede Effekthascherei — mehr in
+Harst begann — ohne jede Effekthascherei — mehr in
 harmlosem Plauderton, als ob er den Inhalt eines Romans
 wiedergäbe … »Frau Gould gebar in Rock Springs zwei
 Kinder, Zwillinge, Mädchen. Ihr Mann war leichtlebig, betrog
@@ -2717,32 +2713,32 @@ sie. Um ihn, den sie insgeheim haßte, zu bestrafen, gab
 sie heimlich eins der Kinder, das zweitgeborene, an eine Französin
 ab, die nachts in derselben Nacht Rock Springs verließ
 und mit Mann, Sohn und dem fremden Säugling nach Europa
-zurückkehrte, Diese Frau war Madame Touffiere,
+zurückkehrte. Diese Frau war Madame Touffiere,
 Gattin des mit den Goldfunden in Alaska eng verknüpften
 Ingenieurs Eugen Touffiere, dessen Name in jedem neueren
-Werk über Alaska zu finden ist und mir nicht fremd war, —
+Werk über Alaska zu finden ist und mir nicht fremd war. —
 Gipsy Gould wurde in Paris als Tochter der Touffiere erzogen.
 Diese, die nachher ein vornehmes Erziehungsheim
 eröffnete, hatte nichts davon gewußt, daß der ehemalige Krämer
 Simon Gould aus Rock Springs durch den Weltkrieg
 Milliardär geworden, denn der Name Gould ist nicht eben
-selten drüben in Amerika, Von Simon Goulds Milliarden«
-Vermögen erfuhr sie erst, als ein Spiel des Zufalls oder
-des Schlaf, wie man’s auffassen will, ihr in der Person
+selten drüben in Amerika. Von Simon Goulds Milliardenvermögen
+erfuhr sie erst, als ein Spiel des Zufalls oder
+des Schicksals, wie man’s auffassen will, ihr in der Person
 Miß Honorias einen neuen Zögling ins Haus brachte …«
 
-Honoria hatte zu alledem nur mehrfach zustimmend geholt,
-Jetzt schaute sie Harst erwartung&svoll von der Seite
+Honoria hatte zu alledem nur mehrfach zustimmend genickt.
+Jetzt schaute sie Harst erwartungsvoll von der Seite
 an, ob er etwa auch die weitere Entwicklung des seltsamen
 Dramas lediglich auf Grund der wenigen ihm bekannt gewordenen
 Tatsachen richtig angeben würde,
 
-»Laut hatte Madame Touffiere, damals schon Witwe,
-die ’überrashende Ähnlichkeit der zukünftigen Milliardenerbin
+»Kaum hatte Madame Touffiere, damals schon Witwe,
+die überraschende Ähnlichkeit der zukünftigen Milliardenerbin
 mit ihrem angenommenen oder besser geraubten Kinde Gipsy
 erkannt, als ihr notwendig trotz der inzwischen verflossenen
-kannst] Jahre die damaligen Ereignisse in Rock Springs
-wieder gegenwärtig wurden, und ebenso rasch) war dann auch
+zwanzig Jahre die damaligen Ereignisse in Rock Springs
+wieder gegenwärtig wurden, und ebenso rasch war dann auch
 der Entschluß gefaßt, Gipsy die Erbschaft Simon Goulds
 <@pagebreak/>
 allein zukommen zu lassen. Gipsy verschwand aus dem
@@ -2751,14 +2747,14 @@ Einzug. Aber Madames Intrigenspiel ging noch weiter.
 Ohne Gipsy in die Sachlage einzuweihen, brachte sie eine
 Ehe zwischen ihr und ihrem Sohne Raoul zustande, und dies
 nur deshalb, damit ein Teil des zu erhoffenden Milliardensegens
-auch ihr Bursche …« …
+auch ihr zufiele …«
 
 Eine kurze Unterbrechung da … Gipsy regte sich in ihrem
 Sessel, schlug die Augen voll auf und erklärte mit verzerrtem
 Lächeln: »Ich war damals schon mit Raoul verlobt, obwohl
 ich ihn … haßte — — haßte, ihn und seine Mutter, denn
-»». hatte Kichert als halbes Kind … verführt, der …
-Elenden«
+er … hatte mich als halbes Kind … verführt, der …
+Elende!!«
 
 Dann sank sie wieder wie kraftlos in sich zusammen, während
 ihr die Schweißperlen auf die Stirn traten und ihre
@@ -2781,48 +2777,48 @@ sich deutlich ein heller Schimmer, Miß Gould. Diese schwere
 Erkrankung hat damals offenbar auch Ihr Gedächtnis getrübt,
 so daß …«
 
-»Auch das stimmt, Herr Harst …
+»Auch das stimmt, Herr Harst …«
 
-so daß es nicht weiter [Euer war, Miß Honoria
+»… so daß es nicht weiter schwer war, Miß Honoria
 verschwinden und Gipsy dafür als Miß Gould … genesen
 zu lassen … Dann starb Simon Gould, und Gipsy Touffiere
 trat das Erbe an, während Honoria Gould irgendwo von Madame
 <@pagebreak/>
-sorgfältig verborgen und bewacht wurde, bis die he!:.1.e
+sorgfältig verborgen und bewacht wurde, bis die heilende
 Zeit Miß Honorias geschwächte Erinnerung an ihre Kindheit
 und ihren Vater wieder aufleben ließ. Das geschah vor
-einigen Monaten, Honoria entfloh, hatte auch Energie und
-Klugheit genug, zunächst in aller Stille festzustellen, was ins
-zwischen geschehen. Sie erfuhr, daß eine Fremde jetzt Miß
+einigen Monaten. Honoria entfloh, hatte auch Energie und
+Klugheit genug, zunächst in aller Stille festzustellen, was inzwischen
+geschehen. Sie erfuhr, daß eine Fremde jetzt Miß
 Gould spielte, denn von der Existenz ihrer Zwillingsschwester
 hatte sie noch immer keine Ahnung. Sie begab sich nach
 Bagdad, und hier fand das erste Zusammentreffen der
 Schwestern statt. Gipsy flehte Honoria an, den schändlichen
-Betrug nicht an die Heffentlichkeit zu bringen. Honoria ist
-einverstanden, daß erst. in Berlin in aller Stille der zweite
+Betrug nicht an die Öffentlichkeit zu bringen. Honoria ist
+einverstanden, daß erst in Berlin in aller Stille der zweite
 Wechsel der Persönlichkeiten erfolgen soll, was dann auch im
-EdensHotel geschah, nachdem Gipsy bereits mit ihrem Anhang
+Eden-Hotel geschah, nachdem Gipsy bereits mit ihrem Anhang
 Vorsorge getroffen, all die Personen aus dem Wege zu räumen,
-die ihr irgendwig gefährlich werden könnten: Doktor
+die ihr irgendwie gefährlich werden könnten: Doktor
 Choffrim und Schraut und mich! — Um nur noch kurz auf
 den Orden der Gamsari einzugehen: Gipsy ist in Bagdad
 niemals dem richtigen Orden beigetreten, sondern hat die
 Tätowierung nur zu dem Zweck mit Hilfe ihres Geldes und
-jenes Führten hervorgezaubert, um durch die Tätowierung die
-verräterisee Narbe auf ihrem Unterarm verdecken zu können
-—» eine Narbe, die Miß Honoria nie besaß! Und Choffrim
+jenes Türken hervorgezaubert, um durch die Tätowierung die
+verräterische Narbe auf ihrem Unterarm verdecken zu können
+— eine Narbe, die Miß Honoria nie besaß! Und Choffrim
 nahm sie zu ein paar Ordenssitzungen lediglich deshalb mit:
 um ihm die Überzeugung beizubringen, der Orden habe sie
-Dietrichs als Mitglied aufgenommen. — Wie nachsichtig un
-Miß Honoria ein ihrer verbrecherischen Schwester gegenüber
-gezeigt hat, geht schon daraus hervor, daß sie sich den Feuers
-Salamander gleichfalls auf den Unterarm tätowieren ließ. Es
-sollte eben auf keinen: Fall herauskomimen, was Gipsy in
-Schar … »r Verirrung an der eigenen Schwester verbrochen
-hatte. Gipsy jedoch dankte ihr diese Nachsicht schlecht. wollte
-hier auf hoher See nochmals sie in Honoria Gould verwandeln,
-sprengte den »Sturmvogel« in die Luft, 3«langte
-Kirchlich an Bord der »Manhattan« und … bitte ich: Spiel
+wirklich als Mitglied aufgenommen. — Wie nachsichtig nun
+Miß Honoria sich ihrer verbrecherischen Schwester gegenüber
+gezeigt hat, geht schon daraus hervor, daß sie sich den
+Feuersalamander gleichfalls auf den Unterarm tätowieren ließ. Es
+sollte eben auf keinen Fall herauskommen, was Gipsy in
+schamloser Verirrung an der eigenen Schwester verbrochen
+hatte. Gipsy jedoch dankte ihr diese Nachsicht schlecht, wollte
+hier auf hoher See nochmals sich in Honoria Gould verwandeln,
+sprengte den »Sturmvogel« in die Luft, gelangte
+glücklich an Bord der »Manhattan« und … hätte ihr Spiel
 <@pagebreak/>
 vorläufig gewonnen, wenn wir nicht dazwischengetreten wären
 — ihr Spiel, ihre Mordpläne, denn daß Miß Honoria und
@@ -2832,14 +2828,13 @@ mich fest …«
 Er schwieg.
 
 Gipsy Touffieres Gesicht aber glühte, in rasendem Fieber
+… Ein irres Lachen folgte Harsts letzten Worten.
 
-— Ein irres Lachen folgte Harsts letzten Worten.
-
-Zwei Tage darauf war Gipsy der schweren Lungenentzüns-dung
+Zwei Tage darauf war Gipsy der schweren Lungenentzündung
 erlegen. —
 
 Ich könnte nun dem Leser hier noch so manches von den
-seinen, allerfeinsten Kombinationen meines Freundes näher
+feinen, allerfeinsten Kombinationen meines Freundes näher
 vor Augen führen. Wer aufmerksam gelesen hat, findet diese
 Beweise für seine überragende Intelligenz selbst heraus.
 Langatmige Erklärungen würden die Wirkung der glänzenden
@@ -2847,19 +2842,19 @@ Schlußfolgerungen Harsts, wie er sie vorstehend uns im
 Salon der »Manhattan« entwickelt hatte, nur abschwächen.
 
 Ich will lediglich erwähnen, daß diese ganze seltsame und
-abenteuerliche Herschickte zweier Zwillinge heute mit Erlaubnis
+abenteuerliche Geschickte zweier Zwillinge heute mit Erlaubnis
 Miß Honorias der Öffentlichkeit übergeben wird, denn es ist
 ihr Wunsch, daß all die unklaren Gerüchte noch vor ihrer
-Hochzeit mit dem Prinzen v. H. gründlich aus der Welt sei
-schafft werden: durch volle Walther!! —
+Hochzeit mit dem Prinzen v. H. gründlich aus der Welt geschafft
+werden: durch volle Wahrheit! —
 
 Während ich diese Schlußzeilen schreibe, hat Harald mein
 Zimmer betreten. Es ist Mitternacht. Er mahnt mich zur
 Eile, da wir für diese Nacht noch etwas vorhaben, was mit
-»Doktor Gartens Patient« zusammenhängt, — eine
+»*Doktor Haldens Patient*« zusammenhängt, — eine
 andere Geschichte, eine Geschichte des Grauens und zügellosester
 verbrecherischer Phantastik … Davon das nächste Mal …
 
-Bad Ans GQuantnaniiy Gufigtnnin-guülgliglg
+<#import "*/harst.ftl" as harst>
 
-Druck: Buchdruckerei P, Schwant G in. by … Berlin so 36
+<@harst.druck/>
