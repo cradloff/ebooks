@@ -1,4 +1,3 @@
- = 	—
 [-—]“[-—]	—
 °	«
 !1	!!
@@ -47,6 +46,7 @@ t!	!!
 \bnicke\b	nickte
 \bober\b	oder
 \bSähe\b	Sätze
+\bSchrau!	Schraut
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bsic\b	sie
