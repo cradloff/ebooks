@@ -19,7 +19,7 @@ Und dabei war bei uns seit acht Tagen mächtige Flaute.
 Wir hatten überhaupt nichts zu tun. Kein Klient erschien.
 Nichts geschah. Absolut nichts. Diese warmen Märztage
 schienen die Herren Verbrecher frühlingsmäßig zahm gemacht
-zu haben,
+zu haben.
 
 Gähnen steckt an. Harst hatte gegähnt, ich gähnte noch
 mehr, und aus Langeweile schaute auch ich nach der Standuhr
@@ -35,7 +35,7 @@ Plötzlich schnellte Harst da aus dem tiefen Saffiansessel
 mit einem wahren Panthersatz vorwärts, riß die Glastür der
 alten Uhr auf und hielt den Pendel an.
 
-Ich war im Moment so munter wie nie,
+Ich war im Moment so munter wie nie.
 
 »Was gibt’s?!«
 
@@ -52,7 +52,7 @@ hier genau zu schildern, wie unsere harmlose
 Standuhr uns beide mit Hilfe von drei Kilo Dynamit unfehlbar
 Punkt zwölf Uhr, das heißt nach dem letzten Schlage, ins
 Jenseits befördert hätte, wenn eben nicht die Vorsehung uns
-abermals vielleicht unverdienterweise beschützt haben würde,
+abermals vielleicht unverdienterweise beschützt haben würde.
 
 »Natürlich waren’s die beiden Monteure, die nachmittags
 die Telephonapparate nachsehen sollten,« meinte Harald, und
@@ -89,7 +89,7 @@ Kosi gleihot Eden Zizwölf Vosi.
 
 »Ist nicht Chiffreschrift … Irrtum. Heißt ergänzt:
 
-> Kommen Sie gleich Hotel Eden, Zimmer zwölf, Vorsicht,«
+> Kommen Sie gleich Hotel Eden, Zimmer zwölf, Vorsicht.«
 
 »Ganz recht …«
 
@@ -127,7 +127,7 @@ Schwarzes, eine Krimmermütze, und darunter eine schmale
 <@pagebreak/>
 menschliche Nase, die unfehlbar von der Seite gesehen, einem
 Geierschnabel gleichen mußte. Das war aber auch alles, was
-bei dieser Finsternis von dem Kerl Dort unten, der sich dicht
+bei dieser Finsternis von dem Kerl dort unten, der sich dicht
 an den Stamm geschmiegt hatte, zu sehen war.
 
 Spion natürlich … Einer von den Herrschaften, die sich
@@ -343,7 +343,7 @@ Dies mögen die Langrys gesehen haben …«
 Doktor, — besinnen Sie sich einmal … Kann’s Frau Langry
 gewesen sein? War die Frau verschleiert?«
 
-»ja, und jetzt, wo Sie mich auf diese Person
+»Ja, und jetzt, wo Sie mich auf diese Person
 aufmerksam machen: die Figur, das Parfüm, — — bei
 Gott, es war die Langry!«
 
@@ -353,7 +353,7 @@ Sie jetzt durch den Gemüsegarten auf die Straße zurückgeleiten.
 Sagen Sie Miß Gould, daß sie morgen oder besser
 heute vormittag elf Uhr mit Ihnen zu uns kommen soll —
 in aller Öffentlichkeit, denn Vorsichtsmaßregeln sind ja
-Zwecklos, weil die Feinde Ihrer Herrin nur zu genau unterrichtet
+zwecklos, weil die Feinde Ihrer Herrin nur zu genau unterrichtet
 sind. — Wiedersehen, Doktor …«
 
 <h2>2. Kapitel.</h2>
@@ -441,7 +441,7 @@ diese Möglichkeit besteht allerdings, Miß Gould. Dann wird
 Choffrim wohl einen Arzt aufgesucht haben. Ich hatte ihn
 ja auch nur ganz flüchtig untersucht, und kann mich natürlich
 geirrt haben … — Bitte, beruhigen Sie sich doch, Miß
-Gould … Gern, Sehr gern … Wir werden sofort aufbrechen
+Gould … Gern, sehr gern … Wir werden sofort aufbrechen
 … Wir sind dann gegen halb drei vor dem Eden …«
 
 Harst wandte sich um und lächelte … »Du wunderst
@@ -454,7 +454,7 @@ die Öffentlichkeit, würde Miß Gould allzu schwer bloßgestellt
 werden. — Hallo, was ist denn das?!«
 
 Und wir beide starrten nach rechts, wo unter dem Diwan
-jetzt eine Gestalt langsam hervorkroch,
+jetzt eine Gestalt langsam hervorkroch.
 
 Ein Mann … Ein kleiner, magerer Herr mit einem
 Jockeygesicht — ein Gesicht, so unverkennbar, daß Harald
@@ -500,7 +500,7 @@ Ihrem Diwan gelegen, Harst. Die Dosis war stark.«
 
 »Chloroform?«
 
-»Nein, es muß schon moderner Teufelsdreck gewesen sein,«
+»Nein, es muß schon moderner Teufelsdreck gewesen sein.«
 
 »Die beiden Monteure haben Sie betäubt, Patt, nicht
 wahr? Sie haben die Schufte wohl dabei überrascht, als sie
@@ -582,7 +582,7 @@ den Feldweg, nahmen dann ein Auto. Genau drei Minuten
 nach halb drei waren wir vor dem Eden-Hotel. Bei diesem
 Sauwetter waren die Straßen leer. Trotzdem schauten wir
 uns erst vorsichtig um, bevor wir die einzelne Dame, die
-unweit des Hotels in einem Hauseingang stand, ansprachen,
+unweit des Hotels in einem Hauseingang stand, ansprachen.
 
 »Miß Gould?« fragte Harald leise.
 
@@ -604,7 +604,7 @@ Ihr Gesicht entsprach dem amerikanischen Schönheitsideal:
 rund, gesund, große Augen. Aber diese Augen waren hart
 und schossen nadelscharfe Blicke. Die Stimme war tief getönt,
 und die Art zu sprechen genau so energisch wie die
-eindrucksvollen spärlichen Gesten,
+eindrucksvollen spärlichen Gesten.
 
 Beweis: Miß Honoria Gould! — Doch davon später.
 
@@ -635,7 +635,7 @@ Es war im Innern hell erleuchtet, und als die Milliardärin
 nun wie entgeistert in den Kraftwagen hineinstarrte, und
 dabei wie in jähem Entsetzen mit abwehrend erhobenen Händen
 zwei Schritt zurückwich, mußten auch wir notwendig aufmerksam
-werden. Ich Schaute hin …
+werden. Ich schaute hin …
 
 Weiß Gott — sollte man lachen oder fluchen?!
 
@@ -667,7 +667,7 @@ Schraut und mich und den auf Choffrim mitzuzählen vergessen …«
 
 <h3>Die Ärmelschlaufe.</h3>
 
-Wir wanderten denselben Weg zurück,
+Wir wanderten denselben Weg zurück.
 
 »Dieses neue kleine Abenteuer geht mir wirklich nicht
 nahe, meine Herren,« lachte Honoria mit erstaunlicher Kaltblütigkeit.
@@ -691,7 +691,7 @@ ich Ihnen den roten Salamander entferne.«
 »Sie?!«
 
 »Warum nicht?! Mein Beruf zwingt mich, selbst chemische
-Und medizinische Spezialstudien zu treiben. In einer halben
+und medizinische Spezialstudien zu treiben. In einer halben
 Stunde ist der Salamander verschwunden — ganz bestimmt!
 — Bitte, nehmen wir das Auto dort. Fahren wir zu mir
 nach Hause …«
@@ -702,9 +702,9 @@ Haus. Patterson darf sich nicht sehen lassen.«
 
 Das Auto rollte dem Kurfürstendamm zu. Honoria saß
 mir gegenüber. Im Schoß hielt sie den Schirm und den
-Langen Beduinendolch. Die Klinge war blank und funkelte,
+Langen Beduinendolch. Die Klinge war blank und funkelte.
 
-Mit einem Male beugte sich Harald vor,
+Mit einem Male beugte sich Harald vor.
 
 »Sie gestatten, Miß Gould … Darf ich mir die Waffe
 einmal genauer ansehen?«
@@ -781,11 +781,11 @@ fast fingerlangen, knallroten Salamander. Die Umrisse des
 Tierbildes, die Schattenstriche, Augen, Zehen, Schwanzringe
 und so weiter schimmerten bläulich. Es war ohne Zweifel
 <@pagebreak/>
-in seiner Art ein Kunstwerk, dieser Salamander,
+in seiner Art ein Kunstwerk, dieser Salamander.
 
 Harst bückte sich noch tiefer. Und dann griff er rasch nach
 Miß Goulds rechter Hand, die in den Falten des Rockes verschwunden
-war,
+war.
 
 Honoria schrie auf …
 
@@ -835,7 +835,7 @@ Harst rollte einen zweiten Klubsessel an den Sofatisch
 und setzte sich. Ich lehnte hinter ihm an der Kaminecke.
 
 <@pagebreak/>
-»Eine Zigarette gefällig, Miß — Ich möchte
+»Eine Zigarette gefällig, Miß — ich möchte
 Sie zunächst einiges fragen … — So, hier ist Feuer …
 Wie ich sehe, haben Sie da eine tadellose Imitation eines
 Borgia-Ringes am Finger. Diese Ringe, die der große Giftmischer
@@ -861,7 +861,7 @@ ging über mein Begriffsvermögen hinaus.
 Eine Milliardärin, — und trotzdem behandelte mein
 Freund sie nicht anders wie eine Verbrecherin.
 
-Er steckte den Ring in die Tasche,
+Er steckte den Ring in die Tasche.
 
 »Ich werde jetzt fragen, Miß … Wenn Sie lügen, rufe
 ich die Kriminalpolizei an. Hier in Berlin nimmt man keine
@@ -878,7 +878,7 @@ Die Augen waren wie erloschen …
 Und ich — der Zuhörer?! Auch mir begannen die Nerven
 zu zittern …
 
-»weshalb?! Bitte!!«
+»Weshalb?! Bitte!!«
 
 Die Gould stammelte: »Weil … weil …« — und dann
 <@pagebreak/>
@@ -949,7 +949,7 @@ niemals …!« Und urplötzlich schnellte sie sich vorwärts …
 Aber ich war noch fixer …
 
 Bevor sie noch den Rauchtisch erreicht hatte, war die
-kleine Pistole schon in meiner Hand. Und diese Hand zitterte,
+kleine Pistole schon in meiner Hand. Und diese Hand zitterte.
 
 Die Gould stand keuchend da …
 
@@ -1005,7 +1005,7 @@ stieg ihr bis in die Stirn empor, flutete wieder zurück und
 machte derselben beängstigenden Blässe Platz. — Weshalb
 dies kurze, jähe Erröten?! Ich lehnte an meiner Kaminecke
 und spielte nervös mit der kleinen Pistole, nachdem ich mich
-überzeugt hatte, daß die Sicherung vorgeschoben war,
+überzeugt hatte, daß die Sicherung vorgeschoben war.
 
 Harst sprach weiter. »In den Jahren zwischen sechzehn
 und achtzehn, wo das Kind zum Weibe reift, treten auch
@@ -1052,7 +1052,7 @@ alle Einzelheiten beherrschen, obwohl es nicht gerade schlecht
 ist …«
 
 Der Gesichtsausdruck der Gould wurde immer gequälter.
-Ihre Augen flackerten, erloschen, suchten Gedanken zu Verbergen,
+Ihre Augen flackerten, erloschen, suchten Gedanken zu verbergen,
 verrieten doch immer wieder eine grenzenlose ohnmächtige
 Wut — — Haß — — beinahe … Mordgier …
 Es war so.
@@ -1068,8 +1068,8 @@ wir ein Ende. Rufen Sie die Kriminalpolizei herbei. Bitte
 Schutz findet. Der amerikanische Botschafter wird Ihnen
 beweisen, wer — — ich bin!«
 
-»o — das ist mir leidlich bekannt, Miß. Aber — Kriminalpolizei,
-— Nein, jetzt nicht mehr … Denn jetzt bin ich
+»O — das ist mir leidlich bekannt, Miß. Aber — Kriminalpolizei,
+— nein, jetzt nicht mehr … Denn jetzt bin ich
 meiner Sache sicher, vollkommen! — Schraut — bringe unseren
 Patienten her …«
 
@@ -1160,7 +1160,7 @@ sind doch … — na, warten wir ab …«
 Choffrim schlief ganz fest und war kaum munter zu bekommen.
 Von Fieber bei ihm bisher keine Spur. Er war
 so schlaftrunken, daß er zunächst gar nicht begriff, worum es
-sich handelte,
+sich handelte.
 
 Dann aber ruckte er zusammen, packte meine Hand …
 »Herr Schraut — also die Narbe!! Ja — — die Narbe …!
@@ -1171,7 +1171,7 @@ Wir hüllten Choffrim in eine Steppdecke, nachdem wir
 ihm Weste und Rock übergezogen hatten. Erst wollte er
 durchaus nichts davon wissen, sich wie ein Bündel tragen zu
 lassen. Nachher sah er wohl aber selbst ein, daß er seine
-Verwundungen unterschätzte,
+Verwundungen unterschätzte.
 
 Als ich die Tür nach Harsts Arbeitszimmer aufstieß —
 <@pagebreak/>
@@ -1197,7 +1197,7 @@ unmöglichsten Orte, die widersinnigsten Verstecke durchstöbert
 
 Nun saßen wir in Harsts Arbeitszimmer neben dem
 Diwan, auf dem Choffrim mit etwas fiebrigen Augen uns anstarrte,
-und stärkten uns durch ein Glas Rotwein,
+und stärkten uns durch ein Glas Rotwein.
 
 Patt fluchte. »Daraus mag sich der Satan einen Vers
 machen, Schraut …! Was ist hier geschehen?! Die beiden
@@ -1253,7 +1253,7 @@ Schlafstubenfenster, dessen Laden und rechter unterer Flügel
 nur angelehnt waren.
 
 Im übrigen unternahmen wir vorläufig nichts zu ihrer
-Verfolgung, sondern warteten Harsts Erwachen ab,
+Verfolgung, sondern warteten Harsts Erwachen ab.
 
 Choffrim hatten wir wieder zu Bett gebracht. Gegen
 halb acht morgens schlug Harald endlich die Augen auf. Drei
@@ -1308,7 +1308,7 @@ Ich eilte zum Schreibtisch …
 »Hier Harald Harst,« meldete ich mich mit unruhiger
 <@pagebreak/>
 Stimme, da ich bereits überzeugt war, daß dieser Anruf uns
-neue Überraschungen bescheren würde,
+neue Überraschungen bescheren würde.
 
 »Hier Honoria Gould, Eden-Hotel … — Herr Harst
 selber?«
@@ -1348,7 +1348,7 @@ Er legte langsam den Hörer weg.
 Er schaute uns an …
 
 Und von seinen Augen ging ein merkwürdiges Flimmern
-aus,
+aus.
 
 »Ich bin wieder ganz frisch,« erklärte er lebhaft. »So
 frisch, daß ich nun endlich leidlich klar sehe … Wir sind
@@ -1359,13 +1359,13 @@ Weib, das wir vor dem Hotel trafen, mein Alter, war …
 Gegenpartei! Die Sache wird sich nun ja ein wenig aufhellen
 lassen, hoffe ich. Die echte Honoria Gould wird in
 kurzem erscheinen, — Joe, Schraut — schafft hier ein wenig
-Ordnung Und bringt dann wieder Choffrim hinüber …«
+Ordnung und bringt dann wieder Choffrim hinüber …«
 
 Joe Patt schüttelte sein rotblondes Haupt. »Harst, Harst,
 — was werden wir von der echten Honoria hören?!«
 
 »Nun — daß die »unechte« Schraut und mich hat beseitigen
-wollen … Dolch, Pistole, Giftring … — es Kann
+wollen … Dolch, Pistole, Giftring … — es kann
 nicht anders sein … Gegenpartei!! Nun beeilt euch!«
 
 Die Sache wird sich aufhellen …
@@ -1422,9 +1422,9 @@ Sie sind überrascht?«
 »Gewiß — gewiß …« Choffrim auf seinem Sofa machte
 ein Gesicht, als ob er noch immer nicht recht wüßte, wie er
 diese vollkommene Gleichheit der Gestalt, der Kleidung, der
-Gesichtszüge und der Stimme bewerten solle,
+Gesichtszüge und der Stimme bewerten solle.
 
-Miß Gould fühlte das,
+Miß Gould fühlte das.
 
 »Mahmud,« sagte sie ernst, »—Sie zweifeln noch! Seien
 Sie ehrlich! Sie denken, ich treibe hier ein keckes Spiel …
@@ -1455,7 +1455,7 @@ mich telephonisch nach der Baradur-Moschee bestellt hatten.«
 »Doch, doch, Miß Gould … Ich war ja selbst überrascht,
 weshalb Sie …«
 
-»Niemals!« Und jetzt wurde sie erregt, »Niemals,
+»Niemals!« Und jetzt wurde sie erregt. »Niemals,
 Mahmud! Das kann nur meine Doppelgängerin gewesen
 sein. Und in der Moschee bemerkten Sie die Narbe?! Was
 wollte dieses Weib denn dort von Ihnen?!«
@@ -1513,7 +1513,7 @@ fühlen die Narbe durch den Seidenstrumpf hindurch …
 Bitte, ich bin nicht prüde … Sie können mit den Fingerspitzen
 die Form der Narbe genau verfolgen … Nun?!«
 
-»Ein Dreieck …« erklärte Harald prompt,
+»Ein Dreieck …« erklärte Harald prompt.
 
 Und Choffrim da:
 
@@ -1671,7 +1671,7 @@ meinte er außerordentlich ernst. »Und Sie?!« fragte der Armenier
 <@pagebreak/>
 gespannt. »Was werden Sie tun, Herr Harst?« —
 »Meine Pflicht,« wich Harald aus. »Ich möchte Sie nur noch
-eins fragen, Choffrim. »Halten Sie es für ausgeschlossen, daß
+eins fragen, Choffrim. Halten Sie es für ausgeschlossen, daß
 es die andere Honoria Gould war, die Sie in Bagdad nach
 der Moschee bestellt hat?«
 
@@ -1708,7 +1708,7 @@ Benehmen, im Tonfall und den Gesten.«
 
 »Ah — — sehen Sie!« rief Harald lebhaft, der mit
 seinem Pflasterstreifen über der Stirn wie ein Student
-»frisch von der Mensur« aussah, «— sehen Sie, lieber Choffrim,
+»frisch von der Mensur« aussah, »— sehen Sie, lieber Choffrim,
 die echte Miß Gould kam auch mir abgeklärter, etwas
 <@pagebreak/>
 verträumter und alles im alles vornehmer als die andere
@@ -1764,7 +1764,7 @@ Antwort zu stehen. Allmählich kam ich zu der Überzeugung,
 dieses geduldige Benehmen meines Freundes müsse wohl
 einen Grund haben. Ich beobachtete unauffällig die Umstehenden
 genauer, und so wurde ich denn auch wirklich sehr
-bald auf einen Wann in der fünften Reihe des Menschenkreises
+bald auf einen Mann in der fünften Reihe des Menschenkreises
 aufmerksam, von dem ich nur den Kopf und einen
 offenbar ganz neuen hellen Filzhut sah, unter dessen breiter
 Krempe ein olivenfarbiges Gesicht mit pechschwarzem Hängeschnurrbart,
@@ -1781,7 +1781,7 @@ Vorgänge in Bagdad.
 Und — merkwürdig! — als mein Blick jetzt dem des
 Olivengrünen begegnete, senkte der Mann blitzschnell die
 dicken Lider über die listigen, verschlagenen Rattenäuglein und
-drängte sich nach rückwärts,
+drängte sich nach rückwärts.
 
 Mir kam ein glücklicher Gedanke. Dicht neben mir stand
 ein Laubenkolonist, ein Kriegsbeschädigter, den wir schon des
@@ -1829,7 +1829,7 @@ Chiffreschrift übertrug.
 Als ich etwa nach zwanzig Minuten wieder an der hinteren
 Gartenpforte anlangte, hatten sich die Neugierigen
 bereits verlaufen, und nur Schmidtke, unser Freund, stand
-dort und sog nachdenklich an einem Zigarrenstummel,
+dort und sog nachdenklich an einem Zigarrenstummel.
 
 »Nun — wie war’s?«
 
@@ -1904,7 +1904,7 @@ herein — — und August der Dicke setzte sich aufrecht.
 
 »Bei Gott — — Harst, Schraut!!«
 
-Wir drückten ihm die Flosse, Handschuhnummer fünfzehn,
+Wir drückten ihm die Flosse, Handschuhnummer fünfzehn.
 
 »War Joe Patterson schon hier?« — und Harst setzt sich
 und schaut sich in der verräucherten gemütlichen Bude, die
@@ -1914,7 +1914,7 @@ Koffer.
 »Ah — er war schon hier, August … — Haben Sie
 ihm einen Tipp auf ein schnelles Fahrzeug gegeben?«
 
-»und ob! Schoner »Maria«, — ganz neue Motoren,
+»Und ob! Schoner »Maria«, — ganz neue Motoren,
 zwei Schrauben, erstklassiger Kahn, Herr Harst … Patterson
 sitzt hinten mit Kapitän Schneider. Alles schon im Lot.
 Die »Maria« hat ihren Liegeplatz bereits gewechselt und
@@ -1987,17 +1987,17 @@ der »Manhattan« die Achterseite rammen sollte.
 
 Der Wein war ein flüssiges Gedicht. Kaum hatten wir
 die feinen Gläser wieder abgesetzt, als die Tür sich öffnete
-und hinter drei neuen Gästen auch ein Depeschenbote eintrat,
+und hinter drei neuen Gästen auch ein Depeschenbote eintrat.
 
 »Ein Telegramm, Herr Kamberlan …« Der Bote bekam
 einen Dänischen Korn und Harst die Depesche, die er
-sofort aufriß,
+sofort aufriß.
 
 Er las vor … Die drei Seeleute hatten am Schanktisch
 Platz genommen und scherzten mit Antje, waren bereits gehörig
 unter Alkohol.
 
-»Von Freund Bechert aus dem Alex,« meinte er flüsternd,
+»Von Freund Bechert aus dem Alex,« meinte er flüsternd.
 
 Wir steckten die Köpfe zusammen.
 
@@ -2036,7 +2036,7 @@ acht hatten sie eine kleine Jacht gemietet, und um neun siedelten
 die Herrschaften auf den »Sturmvogel« über, der in
 der Nähe der »Manhattan« sich festlegte, auf deren Achterdeck
 wir Miß Honoria, die also mit Choffrim auch bereits
-eingetroffen war, ruhelos hin und her gehen sahen,
+eingetroffen war, ruhelos hin und her gehen sahen.
 
 Patt und ich kehrten darauf ins Hauptquartier zurück.
 Harald saß oben in einem der Fremdenzimmer der Kneipe und
@@ -2051,7 +2051,7 @@ Raoul Touffiere zweifelhafter Charakter, Spieler und Schürzenjäger,
 lebt von seiner Frau Gipsy, geb. Molland, getrennt.
 — Madame nach außen hin tadellos, geizig, geschäftstüchtig,
 Börsenspielerin, — Erziehungsheim seit einem
-Jahr aufgegeben, scheinbar sehr reich, — Gruß — Lestrand,
+Jahr aufgegeben, scheinbar sehr reich, — Gruß — Lestrand.
 
 Patt rief, als Harald kaum zu Ende war:
 
@@ -2077,7 +2077,7 @@ Patt musterte unsere Gesichter. »Pech?! Na — verstehe
 Wir gingen, und ich erwachte erst um neun Uhr vormittags.
 Harst wurde dann auch munter, und Patt (wir
 hatten alle drei ein gemeinsames Zimmer), mußte erst gehörig
-gerüttelt werden, bevor er sich aufrichtete, —
+gerüttelt werden, bevor er sich aufrichtete. —
 
 Antje brachte dann das Frühstück und … die dritte
 Depesche.
@@ -2085,7 +2085,7 @@ Depesche.
 Aus Neuyork — von der Firma Ward u. Comp.
 
 Harst nahm Bleistift und Papier. In wenigen Minuten
-Hatte er den Text niedergeschrieben.
+hatte er den Text niedergeschrieben.
 
 > Simon Goulds Vergangenheit schon vor drei Jahren
 im Auftrag eines anonymen Klienten durchforscht. Auftrag
@@ -2150,7 +2150,7 @@ eigenen Augen gesehen! Und …«
 Es hatte kräftig geklopft.
 
 Kapitän Schneiders hagere, kräftige Gestalt schob sich ins
-Zimmer,
+Zimmer.
 
 »Morgen allerseits … — Wollte nur melden, Herr Harst,
 daß der »Sturmvogel«, den ich durch meine Blaujacken beobachten
@@ -2158,7 +2158,7 @@ lassen sollte, soeben elbaufwärts dampft …«
 
 Harst machte ein recht verblüfftes Gesicht.
 
-»und die Manhattan«?« fragte er rasch.
+»Und die Manhattan«?« fragte er rasch.
 
 »Liegt im Dock … Die neue Schraube dürfte erst nachmittags
 montiert sein. Vor neun Uhr abends kann die »Manhattan«
@@ -2253,7 +2253,7 @@ Erlosch wieder …
 
 Flammte von neuem auf …
 
-»Signal für den »Sturmvogel« rief Harst mit vollster
+»Signal für den »Sturmvogel«!« rief Harst mit vollster
 Lungenkraft …
 
 Abermals ein Wasserberg, der den Schoner in die Tiefe
@@ -2355,7 +2355,7 @@ Noch immer glühte das rote Auge durch die Nacht …
 
 Aber die »Manhattan« wendete abermals, zeigte uns ihr
 Heck, die gleißenden Pünktchen der Laternen. Sie hatte den
-bisherigen Kurs wieder aufgenommen,
+bisherigen Kurs wieder aufgenommen.
 
 Harst, das Fernglas vor das Gesicht gepreßt, rührte sich
 nicht …
@@ -2367,13 +2367,13 @@ Merkwürdig: der Sturm schien wirklich abzuflauen …
 Das Pfeifen und Jaulen der Windstöße in der Takelage
 verstummte …
 
-Die Wogen wurden zahmer,
+Die Wogen wurden zahmer.
 
 Die Nordsee hatte den »Sturmvogel« verschluckt. Und
 dieser Happen schien ihr zu genügen. Verschluckt hatte sie
 »Sturmvogel« und Besatzung und Passagiere …
 
-Nur eine nicht,
+Nur eine nicht.
 
 Eine …
 
@@ -2403,7 +2403,7 @@ Hautstellen hatten. —
 Noch eine Stunde schlich die »Maria« so hinter der vornehmeren
 Schwester her … — Wir waren wieder an Deck.
 Wir waren nachts nicht bemerkt worden. Aber jetzt drohte uns
-die »Manhattan« davonzulaufen,
+die »Manhattan« davonzulaufen.
 
 »Laternen an!« befahl Harald. »Notsignale geben, Käpten
 … Raketen — rasch!!«
@@ -2466,11 +2466,11 @@ gepackt …
 
 »Mister, Sie sollten doch zum Teufel auf Befehl Miß
 Goulds in Ihrer Kabine bleiben!! — Zurück — — was
-Haben Sie mit diesen Fremden zu schaffen?!«
+haben Sie mit diesen Fremden zu schaffen?!«
 
 Der Steuermann befand sich in einer Erregung, die lediglich
 auf außergewöhnliche Vorkommnisse zurückgeführt werden
-Konnte. Auch die Matrosen erschienen mir in gleicher Weise
+konnte. Auch die Matrosen erschienen mir in gleicher Weise
 erregt und geradezu streitlustig. Ein unwilliges Murmeln
 über diese Behandlung des Armeniers, der doch allzeit als
 Privatsekretär schon des alten Gould hier an Bord Respektsperson
@@ -2481,7 +2481,7 @@ manches Jahr in Treue gedient.
 
 Jedenfalls hatte die ganze Situation an Bord etwas derart
 Ungeklärtes, Verworrenes, daß ich mir keinerlei Vers
-daraus machen konnte,
+daraus machen konnte.
 
 Harst sprach jetzt den Steuermann mit erhobener Stimme
 <@pagebreak/>
@@ -2540,7 +2540,7 @@ und mißverstanden modernen Beleuchtungskörpern
 nicht gespart. Immerhin hatte diese Überfülle von Licht
 ein Gutes: sie gab bei den folgenden Szenen jede geringste
 Änderung im Mienenspiel der Beteiligten erbarmungslos
-preis,
+preis.
 
 Als wir eintraten, bot sich uns folgendes Bild. Rechts
 auf einem mit zwei gelbweißen Eisbärfellen bedeckten Diwan
@@ -2548,7 +2548,7 @@ lag Gipsy Touffiere in ihrem nassen, langen Gummimantel —
 mit feuchten, halb aufgelösten Haaren … Man hatte ihr die
 Hände über der Brust mit einem Taschentuch zusammengeknotet.
 Ihr Gesicht war vor ohnmächtiger Wut bis zur
-Unkenntlichkeit verzerrt. Ihre Augen schwammen in Tränen,
+Unkenntlichkeit verzerrt. Ihre Augen schwammen in Tränen.
 
 Links saß Honoria Gould in einem seidenen Kimono, um
 den Kopf einen golddurchwirkten Schleier geschlungen. Hinter
@@ -2558,7 +2558,7 @@ gleichfalls Jachtuniform trug.
 
 Unser Erscheinen (wir hatten die Südwester abgenommen,
 und zum mindesten Harsts Gesicht war ja unverkennbar),
-brachte eine Wirkung hervor, die recht verblüffend war,
+brachte eine Wirkung hervor, die recht verblüffend war.
 
 Vom Diwan her ein heller Aufschrei …
 
@@ -2566,7 +2566,7 @@ Vom Diwan her ein heller Aufschrei …
 
 Vom Sessel her auch ein Schrei, aber — des höchsten
 Unwillens. Miß Gould war also mit unserem unerwarteten
-Auftauchen keineswegs einverstanden,
+Auftauchen keineswegs einverstanden.
 
 Harst blieb in der Mitte des Salons stehen. Sein Blick
 wanderte vom Sessel zum Diwan, wieder zurück …
@@ -2605,7 +2605,7 @@ Sie sich nicht auf, Miß. Es wird sich alles klären. — Kapitän,
 die Fremde verlangte mit Miß Gould hier im Salon
 allein gelassen zu werden — nicht wahr? — Und dann rief
 Miß Gould nach einer Weile Sie und die anderen Herren
-Hier in den Salon …«
+hier in den Salon …«
 
 »So ist’s …«
 
@@ -2638,7 +2638,7 @@ Gesichter, die so die Mitte zwischen ungläubigem Staunen
 und sensationshungrigen Spannung hielten.
 
 Der »Diwan« also war die »echte« Miß Gould — und
-Nicht der »Sessel« …!
+nicht der »Sessel« …!
 
 Nun — dieser »Sessel« erinnerte jetzt verzweifelt an dieselbe
 Dame, die vor ein paar Tagen auch in einem Sessel
@@ -2696,7 +2696,7 @@ Herr Harst, bitte — hier neben mich … So, — und nun,
 Herr Harst, könnten Sie mir wohl das Widerwärtige dieser
 … Anklagen gegen meine Schwester dadurch größtenteils ersparen,
 daß Sie vortragen, was Ihnen Ihr genialer Geist aus
-kleinen Einzelheiten von dem Gesamtbild vermittelt hat,«
+kleinen Einzelheiten von dem Gesamtbild vermittelt hat.«
 
 Gipsy Touffiere lag mit geschlossenen Augen im Sessel
 … Die Farbe ihres Gesichts war unheimlich wächsern, und
@@ -2731,7 +2731,7 @@ Honoria hatte zu alledem nur mehrfach zustimmend genickt.
 Jetzt schaute sie Harst erwartungsvoll von der Seite
 an, ob er etwa auch die weitere Entwicklung des seltsamen
 Dramas lediglich auf Grund der wenigen ihm bekannt gewordenen
-Tatsachen richtig angeben würde,
+Tatsachen richtig angeben würde.
 
 »Kaum hatte Madame Touffiere, damals schon Witwe,
 die überraschende Ähnlichkeit der zukünftigen Milliardenerbin
@@ -2758,7 +2758,7 @@ Elende!!«
 
 Dann sank sie wieder wie kraftlos in sich zusammen, während
 ihr die Schweißperlen auf die Stirn traten und ihre
-Wangen sich schnell mit einer ungesunden Röte überzogen,
+Wangen sich schnell mit einer ungesunden Röte überzogen.
 
 Harst sprach weiter … »Als Simon Gould sein Kind
 in Paris besuchte, war der Austausch der beiden Schwestern
@@ -2842,7 +2842,7 @@ Schlußfolgerungen Harsts, wie er sie vorstehend uns im
 Salon der »Manhattan« entwickelt hatte, nur abschwächen.
 
 Ich will lediglich erwähnen, daß diese ganze seltsame und
-abenteuerliche Geschickte zweier Zwillinge heute mit Erlaubnis
+abenteuerliche Geschichte zweier Zwillinge heute mit Erlaubnis
 Miß Honorias der Öffentlichkeit übergeben wird, denn es ist
 ihr Wunsch, daß all die unklaren Gerüchte noch vor ihrer
 Hochzeit mit dem Prinzen v. H. gründlich aus der Welt geschafft
