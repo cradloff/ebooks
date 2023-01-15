@@ -10,9 +10,9 @@ Um uns her war das Schweigen der Wüste …
 
 Nur aus weiter Ferne drangen zuweilen heisere, kläffende Töne, vom sanften Nachtwind bis zu unserem Lagerplatz geleitet, wie häßliche Geisterstimmen herüber …
 
-Von dorther, wo Harald nachmittags am Rande des ausgetrockneten Flußbettes den stämmigen Samba-Hirsch mit sicherer Büchsenkugel niedergestreckt hatte, dessen eine Keule nun kunstgerecht am Spieß über dem Feuer schmorte, häufig gedreht von Doktor Amalgis kundiger Hand …
+Von dorther, wo Harald nachmittags am Rande des ausgetrockneten Flußbettes den stämmigen Sambar<@refnote/>-Hirsch mit sicherer Büchsenkugel niedergestreckt hatte, dessen eine Keule nun kunstgerecht am Spieß über dem Feuer schmorte, häufig gedreht von Doktor Amalgis kundiger Hand …
 
-Wir lagen auf unseren Decken um das knisternde Feuer herum … Wir waren vorgestern abend zu fünfen von der Stadt Amber am Südostrande der indischen Thar-Wüste<@refnote 2/> hoch zu Dromedar und mit zwei Lastkamelen aufgebrochen, um in kürzester Zeit den Großen Salzsee zu erreichen, in dessen Mitte sich einige kahle, felsige, zerklüftete Inselchen erheben, von denen die eine das Geheimnis barg, dessenwegen Miß Honoria Goord zwölf Jahre im Kerker geschmachtet hatte, wie ich bereits im vorigen Bande angedeutet habe.
+Wir lagen auf unseren Decken um das knisternde Feuer herum … Wir waren vorgestern abend zu fünfen von der Stadt Amber am Südostrande der indischen Thar-Wüste<@refnote/> hoch zu Dromedar und mit zwei Lastkamelen aufgebrochen, um in kürzester Zeit den Großen Salzsee zu erreichen, in dessen Mitte sich einige kahle, felsige, zerklüftete Inselchen erheben, von denen die eine das Geheimnis barg, dessenwegen Miß Honoria Goord zwölf Jahre im Kerker geschmachtet hatte, wie ich bereits im vorigen Bande angedeutet habe.
 
 Außer Harald, Doktor Amalgi und mir zählten zu unseren Gefährten noch Miß Goord und Amalgis Diener Hubert Enoch, ein buckliges Männchen mit dünnem Bart- und Kopfhaar und einem verwitterten, einem verschrumpelten Bratapfel nicht unähnlichen Gesicht.
 
@@ -102,11 +102,11 @@ Harst reichte dem langen John jetzt eine Zigarette, fragte: »In Amber war vor d
 
 »Wie stark schätzen Sie diese Räuberhorde?« unterbrach Harald ihn …
 
-»Fünfzehn Dromedare, fünfzehn Mann, fünfzehn Lastkamele … So las ich’s aus den Spuren …«<@refnote 3/>
+»Fünfzehn Dromedare, fünfzehn Mann, fünfzehn Lastkamele … So las ich’s aus den Spuren …«<@refnote/>
 
 »Wo?«
 
-»Einen Tagesritt nördlich von hier … Dort hatten die Heiden ein schreckliches Blutbad angerichtet … Ihre Fährte verschwand in einem steinigen Tale. Sie hatten die Künste eines<@refnote 4/> Höllenfürsten angewandt und ihren Tieren die Hufe umwickelt … Ich konnte die Spuren nicht wiederfinden, obwohl ich doch, ohne mich rühmen zu wollen, ……«
+»Einen Tagesritt nördlich von hier … Dort hatten die Heiden ein schreckliches Blutbad angerichtet … Ihre Fährte verschwand in einem steinigen Tale. Sie hatten die Künste eines<@refnote/> Höllenfürsten angewandt und ihren Tieren die Hufe umwickelt … Ich konnte die Spuren nicht wiederfinden, obwohl ich doch, ohne mich rühmen zu wollen, ……«
 
 Oh — — Fluch unserer Leichtfertigkeit!!
 
@@ -516,7 +516,7 @@ Amalgi antwortete an Stelle Haralds:
 
 Amalgi räusperte sich … »Hm — ich spreche über diese Dinge sehr ungern, lieber Harst,« sagte er sichtlich zögernd … »Aber in diesem Falle muß ich wohl ein Thema berühren, das ich stets vermeide: die sogenannten altindischen Geheimwissenschaften! Ich habe Ihnen anvertraut, daß ich hier in Indien mich gerade mit …«
 
-Harald unterbrach ihn höflich … »Ich weiß, wo Sie hinauswollen, Amalgi … Sie wollen uns klarmachen, daß es sich nicht um einen Starrkrampf, sondern um jene seltene Kunst — wenn man diesen Ausdruck hier anwenden darf — handelte, die Funktionen des Leibes lediglich durch eigenen Willen und durch ein Übermaß von Energie auszuschalten. Sie glauben, daß die Rani zu den wenigen Auserwählten gehörte, die von den Gütern der tiefsten drawidischen Geheimnisse, den Yogis aus der Samur-Kaste, mit diesen für menschliches Denken fast unbegreiflichen Fähigkeiten vertraut gemacht wurde … Sie heuchelte nur den ungeheuren Schreck, heuchelte nur ein jähes Ende durch Herzlähmung, weil sie sich eben verloren sah, — wandte das einfachste und doch auch schwierigste Mittel an, uns zu entgehen: den künstlichen Scheintod!«
+Harald unterbrach ihn höflich … »Ich weiß, wo Sie hinauswollen, Amalgi … Sie wollen uns klarmachen, daß es sich nicht um einen Starrkrampf, sondern um jene seltene Kunst — wenn man diesen Ausdruck hier anwenden darf — handelte, die Funktionen des Leibes lediglich durch eigenen Willen und durch ein Übermaß von Energie auszuschalten. Sie glauben, daß die Rani zu den wenigen Auserwählten gehörte, die von den Hütern<@refnote/> der tiefsten drawidischen Geheimnisse, den Yogis aus der Samur-Kaste, mit diesen für menschliches Denken fast unbegreiflichen Fähigkeiten vertraut gemacht wurde … Sie heuchelte nur den ungeheuren Schreck, heuchelte nur ein jähes Ende durch Herzlähmung, weil sie sich eben verloren sah, — wandte das einfachste und doch auch schwierigste Mittel an, uns zu entgehen: den künstlichen Scheintod!«
 
 »So ist’s!« bestätigte Amalgi mit sonderbar geistesabwesend klingender Stimme. »Es gibt so sehr wenige vollends Eingeweihte — sehr wenige …! Daß die Rani mit dazu gehörte, hätte ich nie geglaubt, da Frauen bisher niemals von den Samur-Yogis für würdig befunden wurden, jene uralten Überlieferungen kennen zu lernen, die …«
 
@@ -548,7 +548,7 @@ Tropischer Wunder …
 
 Der Regen hatte aufgehört … Im Westen versank die Sonne fahlgelb … Wie ein Mond fast — — kraftlos, aller Leuchtstärke beraubt … Nur einige ihrer Strahlen schossen noch über die schwarze Wolkenbank hinweg, die uns vorhin den rettenden Regenguß gebracht …
 
-Und über der Hochebene lag ein gelblicher Schimmer, kämpfte mit der heranziehenden Dunkelheit und gab dem Landschaftsbilde etwas Unwirkliches, Phantastisches … — Ich dachte unwillkürlich an das Gemälde eines Künstlers von der Art Böcklins<@refnote 5/> …
+Und über der Hochebene lag ein gelblicher Schimmer, kämpfte mit der heranziehenden Dunkelheit und gab dem Landschaftsbilde etwas Unwirkliches, Phantastisches … — Ich dachte unwillkürlich an das Gemälde eines Künstlers von der Art Böcklins<@refnote/> …
 
 Spukhaft dieses Bild, spukhaft die Töne …
 
@@ -574,7 +574,7 @@ Harald war genau so überrascht wie wir …
 
 »Afghanen, Miß?! — Wie kommen denn Afghanen hier in die Thar?«
 
-»Sie kamen nicht freiwillig her … England hat sich lange genug mit den wilden Bergvölkern der Grenzgebiete Afghanistans herumgeschlagen. Kriegsgefangene wurden dort in dem öden Tale angesiedelt, so um 1850 herum … Diese Afghanen haben sich völlig rein erhalten, und ihr Dorf zählt heute etwa fünfhundert Einwohner, untersteht auch nicht der Oberhoheit der Fürsten von Jaisulmir, sondern lediglich dem englischen Gouverneur in Bikaner. Diese Afghanen<@refnote 6/> werden uns freiwillig mit allem versorgen, denn sie verachten und hassen die Ratschputen, die Inder … — Gut — — brechen wir auf … Wir müssen uns nach Südost wenden … In drei Stunden können wir das Dorf erreicht haben.«
+»Sie kamen nicht freiwillig her … England hat sich lange genug mit den wilden Bergvölkern der Grenzgebiete Afghanistans herumgeschlagen. Kriegsgefangene wurden dort in dem öden Tale angesiedelt, so um 1850 herum … Diese Afghanen haben sich völlig rein erhalten, und ihr Dorf zählt heute etwa fünfhundert Einwohner, untersteht auch nicht der Oberhoheit der Fürsten von Jaisulmir, sondern lediglich dem englischen Gouverneur in Bikaner. Diese Afghanen<@refnote/> werden uns freiwillig mit allem versorgen, denn sie verachten und hassen die Ratschputen, die Inder … — Gut — — brechen wir auf … Wir müssen uns nach Südost wenden … In drei Stunden können wir das Dorf erreicht haben.«
 
 <h2>4. Kapitel.</h2>
 
@@ -696,7 +696,7 @@ Und … Haralds unsichere Frage:
 
 Und das Letzte sprach er in jener uns schon bekannten energischen Art, die selbst von Haralds Seite keinen Widerspruch duldete …
 
-Unwillkürlich dachte ich da an unser erstes Erlebnis mit Amalgi — an seinen Spiegelapparat, an diese unheilvolle und geheimnisvolle Waffe. Und doch konnte er dieses Instrument, seine ureigenste Erfindung, hier nicht benutzt haben, denn jener Apparat tötete nicht, sondern versetzte lediglich in einen starrkrampfähnlichen Zustand, war außerdem auch zu umfangreich, um unauffällig am Leibe verborgen zu werden. Mithin mußte Amalgi eine weit kleinere und<@refnote 7/> noch schrecklichere Waffe bei sich führen, von deren Existenz wir noch nichts wußten und die auch den räuberischen Händen unserer Feinde entgangen war, als sie uns nach der Gefangennahme ausgeplündert hatten. —
+Unwillkürlich dachte ich da an unser erstes Erlebnis mit Amalgi — an seinen Spiegelapparat, an diese unheilvolle und geheimnisvolle Waffe. Und doch konnte er dieses Instrument, seine ureigenste Erfindung, hier nicht benutzt haben, denn jener Apparat tötete nicht, sondern versetzte lediglich in einen starrkrampfähnlichen Zustand, war außerdem auch zu umfangreich, um unauffällig am Leibe verborgen zu werden. Mithin mußte Amalgi eine weit kleinere und<@refnote/> noch schrecklichere Waffe bei sich führen, von deren Existenz wir noch nichts wußten und die auch den räuberischen Händen unserer Feinde entgangen war, als sie uns nach der Gefangennahme ausgeplündert hatten. —
 
 Harald äußerte sich zu dem Tode der beiden Ratschputen nicht weiter, sondern meinte nur, daß wir nunmehr ohne Zögern den Marsch nach dem Dorfe der Afghanen am Salzsee antreten könnten … »Einige Waffen, Feuerzeuge und Lebensmittel haben wir … Und die Reittiere der beiden werden wir auch noch finden …«
 

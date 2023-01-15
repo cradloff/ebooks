@@ -138,7 +138,7 @@ a.refnote {
 	text-indent: 1em;
 }
 
-.footnote a {
+.footnote a.backref {
 	font-size: x-small;
 	vertical-align: super;
 	text-decoration: none;
