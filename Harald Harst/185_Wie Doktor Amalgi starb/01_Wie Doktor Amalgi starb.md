@@ -50,7 +50,7 @@ Dann sagte Amalgi ebenso kurz:
 
 Und wir taten’s …
 
-Wir ließen den alten Diener an Bord her Dragari zurück als Wache.
+Wir ließen den alten Diener an Bord der Dragari zurück als Wache.
 
 Da das Eiland nur klein, brauchten wir nur eine Stunde, um festzustellen, daß Miß Goord sich getäuscht haben müsse. Wir fanden außer Riesenschildkröten kein lebendes Wesen auf dem Inselchen.
 
@@ -272,7 +272,7 @@ Stille … Hastige Schritte, die sich entfernten …
 
 Dann neben mir Harald:
 
-»So — — ich bin frei … Unser Retter wird sich die Mühe sparen können … Mein Federmesser im Ärmel Aufschlag hat sich wieder einmal bewährt …«
+»So — — ich bin frei … Unser Retter wird sich die Mühe sparen können … Mein Federmesser im Ärmelaufschlag hat sich wieder einmal bewährt …«
 
 Gleich darauf war auch ich Fesseln und Decke los …
 
@@ -468,7 +468,7 @@ Hier blieb Harst stehen, flüsterte:
 
 »Nichts …!«
 
-»Ja — und das ist auffaltend … Kein Tier meldet sich … Schafe blöken selbst nachts … Und die Hunde der Afghanen waren doch recht lebhaft, als wir zum ersten Male hier waren … Sollten etwa die Bewohner des Dorfes zusammen mit der Fürstin den weiten Weg in ihre ferne Bergheimat wirklich angetreten haben, wie ihnen die Rani dies schon damals vorschlug, als wir die Versammlung im Beratungshause belauschten?! Wenn ja, dann steht uns noch ein böses Stück Arbeit bevor …! Denn dann hat die Fürstin auch Amalgi und Miß Honoria mit sich genommen, um die beiden irgendwo unterwegs verschwinden zu lassen …! Zutrauen darf man ihr nach den bisherigen Proben ihrer Gewissenlosigkeit alles — selbst das gemeinste Bubenstück! Denke nur noch an die Katzen im Dschebel Hammak mit den vergifteten Krallen!!«
+»Ja — und das ist auffallend … Kein Tier meldet sich … Schafe blöken selbst nachts … Und die Hunde der Afghanen waren doch recht lebhaft, als wir zum ersten Male hier waren … Sollten etwa die Bewohner des Dorfes zusammen mit der Fürstin den weiten Weg in ihre ferne Bergheimat wirklich angetreten haben, wie ihnen die Rani dies schon damals vorschlug, als wir die Versammlung im Beratungshause belauschten?! Wenn ja, dann steht uns noch ein böses Stück Arbeit bevor …! Denn dann hat die Fürstin auch Amalgi und Miß Honoria mit sich genommen, um die beiden irgendwo unterwegs verschwinden zu lassen …! Zutrauen darf man ihr nach den bisherigen Proben ihrer Gewissenlosigkeit alles — selbst das gemeinste Bubenstück! Denke nur noch an die Katzen im Dschebel Hammak mit den vergifteten Krallen!!«
 
 Ob ich daran dachte!! Und es überlief mich heiß und kalt, als ich mir flüchtig jene nächtliche Szene ausmalte, wie wir vor diesen Satansbestien von Thar-Katzen<@refnote 4/> geflohen waren …! —
 

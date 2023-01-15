@@ -202,7 +202,7 @@ Frage nun, während ich Gordon stütze, der sich halb aufgerichtet hat:
 
 Der Engländer schüttelt den Kopf …
 
-»Nein … Wer sollte mir auch nachspüren, bester Harst? Er lächelt schwach … »Der Kerl wird wohl so ein Thar-Strauchdieb sein … Hoffte vielleicht, daß …«
+»Nein … Wer sollte mir auch nachspüren, bester Harst?« Er lächelt schwach … »Der Kerl wird wohl so ein Thar-Strauchdieb sein … Hoffte vielleicht, daß …«
 
 Harst — sehr ernst:
 
@@ -362,7 +362,7 @@ Der Sandboden hatte wieder steinigem, bergigem Gelände Platz gemacht. Gaska, un
 
 Die Berge wurden höher, steiler … Wir hatten den ödesten Teil der Thar erreicht …
 
-In einer Schlucht unter einem überhängenden Felsen rasteten wir zwei Stunden. Enoch und Kordon waren recht erschöpft. Die Dunkelheit kam. Wir konnten nicht einmal ein Feuer anzünden. Die dritte gebratene Hammelkeule unseres Proviants wurde verzehrt. Auch Gaska erhielt seinen Teil — — schmale Ration nur!
+In einer Schlucht unter einem überhängenden Felsen rasteten wir zwei Stunden. Enoch und Gordon waren recht erschöpft. Die Dunkelheit kam. Wir konnten nicht einmal ein Feuer anzünden. Die dritte gebratene Hammelkeule unseres Proviants wurde verzehrt. Auch Gaska erhielt seinen Teil — — schmale Ration nur!
 
 Der Regen hörte auf …
 
@@ -402,7 +402,7 @@ Der Hund hat sich bereits vollständig an uns gewöhnt. Er wird von seinen neuen
 
 Ich streichle Gaskas Kopf …
 
-Gaska setzt sich aufrecht, schmiegt sich an meinem Schenkel … Er hat die Größe eines deutschen Schäferhundes, aber längeren Behang und die stumpfe Schnauze eines Bernhardiners, dagegen die Lebhaftigkeit eines Spitzes oder Terriers. Seine gelblichen Augen sind voll Feuer. Er ist ein reinblütiger Vertreter der kräftigen Hirtenhunde der Thar.
+Gaska setzt sich aufrecht, schmiegt sich an meine Schenkel … Er hat die Größe eines deutschen Schäferhundes, aber längeren Behang und die stumpfe Schnauze eines Bernhardiners, dagegen die Lebhaftigkeit eines Spitzes oder Terriers. Seine gelblichen Augen sind voll Feuer. Er ist ein reinblütiger Vertreter der kräftigen Hirtenhunde der Thar.
 
 So stehen wir nebeneinander, Mensch und Hund …
 
@@ -544,7 +544,7 @@ Auf dem Rückwege zu dem Tale, in dem sich unser Lager befand, benutzte ich dies
 
 Er antwortete auch bereitwilligst, meinte, daß ohne Zweifel dieser Wunsch der beiden, ohne uns ihren Ritt fortzusetzen, mit der Samur-Kaste irgendwie zusammenhinge …
 
-»Ich glaube, mein Alter,« schloß er seine kurzen Erklärungen, …daß wir am Vorabend großer Überraschungen stehen, die uns sicherlich einen tiefen Einblick in Indiens geheimste Geheimnisse geben werden. Nicht Neugier ist es, die mich veranlaßt, Amalgi und Miß Goord gegen deren ausdrückliches Vergangen weiter zu folgen, auch nicht das Gordon gegebene Versprechen, ihm ein Zusammentreffen mit Honoria zu ermöglichen … Über die Samur-Yogi ist von englischen Reiseschriftstellern und Gelehrten schon so viel zusammenphantasiert worden, daß nun endlich einmal Klarheit geschaffen werden muß, wo die märchenhafte Ausschmückung aufhört und die Wahrheit, das Tatsächliche, beginnt …«
+»Ich glaube, mein Alter,« schloß er seine kurzen Erklärungen, »daß wir am Vorabend großer Überraschungen stehen, die uns sicherlich einen tiefen Einblick in Indiens geheimste Geheimnisse geben werden. Nicht Neugier ist es, die mich veranlaßt, Amalgi und Miß Goord gegen deren ausdrückliches Verlangen weiter zu folgen, auch nicht das Gordon gegebene Versprechen, ihm ein Zusammentreffen mit Honoria zu ermöglichen … Über die Samur-Yogi ist von englischen Reiseschriftstellern und Gelehrten schon so viel zusammenphantasiert worden, daß nun endlich einmal Klarheit geschaffen werden muß, wo die märchenhafte Ausschmückung aufhört und die Wahrheit, das Tatsächliche, beginnt …«
 
 Wir bogen in das Tal ein … Gordon kam uns entgegen.
 
@@ -654,7 +654,7 @@ Gordon, der an einer Zigarette saugte, fragte sehr gedehnt:
 
 »Und … die drei Dromedarreiter, lieber Harst?«
 
-»Ach so — — die!! Ganz recht, die sind gestern abend hier im Hotel gewesen, Kollege Gordon: ein junges Mädchen, ein jüngerer Herr und ein älterer Mann, alle drei Engländer, also die Geschwister Goord mit einem Begleiter, wie wir bereits vermuteten … Sie sind hinter Amalgi und Honoris drein, brachen um zehn Uhr abends mit einem nepalesischen Führer auf. Amalgi und die Miß haben jedoch fünf Stunden Vorsprung. Und ein solcher Vorsprung läßt sich hier in den Bergen nicht wieder einholen …«
+»Ach so — — die!! Ganz recht, die sind gestern abend hier im Hotel gewesen, Kollege Gordon: ein junges Mädchen, ein jüngerer Herr und ein älterer Mann, alle drei Engländer, also die Geschwister Goord mit einem Begleiter, wie wir bereits vermuteten … Sie sind hinter Amalgi und Honoria drein, brachen um zehn Uhr abends mit einem nepalesischen Führer auf. Amalgi und die Miß haben jedoch fünf Stunden Vorsprung. Und ein solcher Vorsprung läßt sich hier in den Bergen nicht wieder einholen …«
 
 »Hoffentlich nicht!« meinte Gordon etwas besorgt. »Weshalb wollen wir denn erst am Nachmittag Nepalgang verlassen und hier … die Zeit unnütz vertrödeln?! Ich denke, wir haben alle Ursache, uns zu beeilen, denn diese drei Wegelagerer werden wohl kaum zaudern, der Miß und Amalgi das Lebenslicht auszublasen, wenn …«
 
