@@ -5,7 +5,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Maximilian aus Stambul.</h3>
 
-Vor mir liegen eine Anzahl Postkarten, sämtlich
+… Vor mir liegen eine Anzahl Postkarten, sämtlich
 mit Ansichten von Konstantinopel, sämtlich von meinem
 Freunde Neumann, — oder besser — von unserem Freunde
 Neumann, denn Harald Harst hat ebenfalls Anteil an dieser
@@ -17,12 +17,12 @@ unseres Abenteuers in der Türkei vor. Neumann hat
 mit großem Geschick gerade all die Ansichten gewählt, die
 in uns allerlei Erinnerungen wecken mußten. Im übrigen:
 er schreibt noch immer. Er ist dankbar. Wir haben ihm
-damals das Leben und Hab und Gut gerettet.
+damals das Leben und Hab und Gut gerettet. —
 
 Die ganze Geschichte begann ja auch mit einem Neumannschen
 Brief, der an Harald gerichtet war.
 
-Im Mai 1923 traf der Brief ein, eines Morgens.
+Im Mai 1923 traf der Brief ein, eines Morgens …
 
 In Berlin war damals nichts für uns zu holen —
 flaue Zeit. Kleine harmlose Sächelchen beschäftigten uns:
@@ -48,9 +48,9 @@ Richtig: Maximilian Neumanns Brief!
 
 Nun — der lautete wie folgt:
 
-> Konstantinopel, den 4. Mai 1923,
+<p class="centered">Konstantinopel, den 4. Mai 1923.</p>
 
-> Sehr geehrter Herr Harst,
+<p class="centered">Sehr geehrter Herr Harst,</p>
 
 > wenn diese Zeilen Sie erreichen, bin ich vielleicht nicht
 mehr am Leben.
@@ -116,7 +116,7 @@ die Briefe!
 > Na — das stimmt schon gar nicht!
 
 > Denn — nun kommt’s! — denn die Kerle haben
-gestern abend, als ich am Ufer des Bosporus abends langwandelte
+gestern abend, als ich am Ufer des Bosporus abends lustwandelte
 und mich wieder einmal über den herrlichen
 Anblick des im Abendsonnenrot daliegenden Häusermeeres
 freute, — ja, da haben die Schufte mich abmurksen wollen,
@@ -172,12 +172,13 @@ einer »Kiste drei« die Rede ist. Das beunruhigt mich.
 <@pagebreak/>
 
 > Alles weitere überlasse ich Ihrer Weisheit.
-Vorläufig bleibe ich anonym. — Antwort erbitte
-Konstantinopel hauptpostlagernd unter M. A. X. 100.
 
-> Ihr ergebenster
+> Vorläufig bleibe ich anonym. — Antwort erbitte
+Konstantinopel hauptpostlagernd unter M.&nbsp;A.&nbsp;X.&nbsp;100.
 
-> noch immer lebender Leichnam.
+<p class="centered">Ihr ergebenster</p>
+
+<p class="centered">noch immer lebender Leichnam.</p>
 
 > *1\. Nachschrift*: Falls Sie hierher kommen wollen,
 bezahle ich die Reise 2. Klasse und acht Tage Aufenthalt.
@@ -210,7 +211,7 @@ Ansicht nach keineswegs so welterschütternd, ebenso wenig der
 Pergamentstreifen, daß man sich deswegen vier Tage lang
 in der Eisenbahn durchrütteln läßt!
 
-So dachte ich. — Aber mein Freund Harald hatte
+So dachte *ich*. — Aber mein Freund Harald hatte
 wieder die übliche Überraschung in der Tasche und hielt sie
 mir nun in Gestalt einer Depesche unter die Nase …
 
@@ -221,15 +222,15 @@ Es lautete:
 
 <@pagebreak/>
 
-> Harald Harst, Berlin-Schmargendorf, Blücherstr. 10.
+<p class="centered">Harald Harst, Berlin-Schmargendorf, Blücherstr. 10.</p>
 
 > Habe die beiden dingfest. — Kommen Sie auf jeden Fall.
 
-> Maximilian Neumann,
+<p class="centered">Maximilian Neumann,</p>
 
-> Konstantinopel, Merdschan Jolu,
+<p class="centered">Konstantinopel, Merdschan Jolu,</p>
 
-> Buchhandlung International.
+<p class="centered">Buchhandlung International.</p>
 
 »Wann kam die Depesche?« fragte ich.
 
@@ -245,7 +246,7 @@ der Glückseligkeit, auf unseren Reisen nur zweimal flüchtig
 berührt. Jetzt wollen wir es uns genauer ansehen.«
 
 Ich freute mich, freute mich ehrlich … Da war ja ein
-Abenteuer, das sicherlich harmlos sein mußte … und da
+Abenteuer, das sicherlich harmlos sein mußte, … und da
 war Deri Seadet, der Bosporus, das Goldene Horn, —
 alles Namen wie Märchenklänge … —
 
@@ -262,10 +263,10 @@ nur noch geäußert:
 hält?! Fast scheint es so!«
 
 Und nun trug uns der Zug mit wachsender Geschwindigkeit
-aus dem immer noch sicheren Wien gen Osten —
+aus dem immer noch fidelen Wien gen Osten —
 durch ungarische Pußten mit schaffellbehangenen Hirten —
-durch Budapest — immer weiter — weiter der Pforte
-der Glückseligkeit entgegen … — — dem … Verhängnis
+durch Budapest — immer weiter — weiter … der Pforte
+der Glückseligkeit entgegen … — — dem … Verhängnis …
 und … Maximilian Neumann, Buchhandlung International,
 Merdschan Jolu … —
 
@@ -277,13 +278,13 @@ Abteil gekommenen, und erst nach Stunden stellte der Ehemann
 sich vor: Doktor Hitzgräfe, Chemiker.
 
 Wie gesagt, — sie hatten den Vorzug, keineswegs zu
-stören. Ich konnte in Ruhe meinen Bädeker studieren und
+stören. Ich konnte in Ruhe meinen Baedeker<@refnote 1/> studieren und
 mir die Hauptpunkte von Stambul, Konstantinopel, Istambul
 oder Zarigrad, wie man es nennen will, einprägen. —
 
 Die Reisetage vergingen sehr schnell. Bulgarien lag
 hinter uns. Und gegen Mittag dann das erste Wahrzeichen
-der türkischen Hauptstadt, als der Zug unweit des Marmara-Meeres<@refnote 2/>
+der türkischen Hauptstadt, als der Zug unweit des Marmara-Meeres<@refnote/>
 mit verringerter Geschwindigkeit die Westgrenze
 Stambuls erreichte — das erste Wahrzeichen: die Ruinen
 des Schlosses der sieben Türme, die den Südpunkt der alten
@@ -414,7 +415,7 @@ Er sagte es — sagte es leider zu spät …
 Der dicke, schmierige Vorhang, der die Türöffnung
 verdeckte, hob sich …
 
-Drei .., vier … fünf … Kerle traten ein.
+Drei … vier … fünf … Kerle traten ein.
 
 Keine Türken — bewahre!
 
@@ -529,8 +530,8 @@ Gewahrsam …«
 
 »Wo?«
 
-Harst kniff das eine Auge zu. »Ja, das möchten Sie
-gern wissen! Ich aber weiß nun, daß die beiden zu
+Harst kniff das eine Auge zu. »Ja, das möchten *Sie*
+gern wissen! *Ich* aber weiß nun, daß die beiden zu
 Ihnen gehören. Das genügt mir.«
 
 Es war ein Genuß, Harald zu beobachten, wie er
@@ -558,7 +559,7 @@ Da … stand das Ehepaar Hitzgräfe …
 <@pagebreak/>
 Die blonde Frau Anni photographierte den Müllberg.
 
-Und hinter ihr wieder stand lang und schmal ein
+Und hinter ihr wieder stand lang und schmal ein …
 Polizeibeamter der Entente-Kommission. Die Entente hatte
 damals Konstantinopel noch besetzt.
 
@@ -682,7 +683,7 @@ Harst.«
 »Was ähnliches dachte ich mir. — Und wie kamen Sie
 zu dem Dolchmesser?«
 
-»Wir … wir haben es ge … geraubt …«
+»Wir … wir haben es ge… geraubt …«
 
 »Durch einen Mord?«
 
@@ -698,7 +699,7 @@ Mann …«
 Der Sprecher wollte offenbar noch mehr hinzufügen.
 Er — hatte es nicht mehr nötig …
 
-Jetzt — änderte sich die Lager leider zu unserem Nachteil
+Jetzt — änderte sich die Lage leider zu unserem Nachteil
 …
 
 Der Türvorhang flog plötzlich beiseite …
@@ -769,7 +770,7 @@ Dann sehr bald das Bild des Hafens: ankernde
 Dampfer, zwei hellgraue Kriegsschiffe … unzählige Boote,
 Barken, Segler, Motorknatterer …
 
-— Und ein Lastenmotorboot nahm uns auf. Die Kisten
+Und ein Lastenmotorboot nahm uns auf. Die Kisten
 standen auf dem Hinterdeck.
 
 Mein Guckloch zeigte mir »die Pforte der Glückseligkeit«
@@ -805,7 +806,7 @@ Widerlicher Gestank von faulenden Fischen, von faulendem
 Gemüse, von Teer, Benzin und anderen Düften drang
 in meinen hölzernen Schwitzkasten …
 
-Die Derwischjünglinge trommelten noch immer mit
+Die Derwisch-Jünglinge trommelten noch immer mit
 den Hacken gegen die Seitenwand.
 
 Bis man meine Kiste durch eine Ladeluke unter Deck
@@ -872,7 +873,7 @@ Kühler Wind umstrich das dahinschießende Fahrzeug.
 Nordwärts ging’s in den Bosporus hinein.
 
 An Bord bewegten sich vier Gestalten: der Sprecher,
-zwei der Derwischjünger und der Armenier. Am Steuer
+zwei der Derwisch-Jünger und der Armenier. Am Steuer
 stand ein zweiter der fünf Gentlemen.
 
 Zwischen den Kisten hindurch konnte ich die asiatische
@@ -882,7 +883,7 @@ Ein Leuchtturm …
 
 Kiß Kudessi mit dem Leanderturm … —
 
-Hero und Leander<@refnote 3/> — Poesie — Liebe … Tragik …
+Hero und Leander<@refnote/> — Poesie — Liebe … Tragik …
 
 <@pagebreak/>
 Und — auch hier eine ungeheure Tragik auf diesem
@@ -926,7 +927,7 @@ ein Schmiedehammerschlag …
 
 Sein zweiter Hieb warf den Armenier über Bord …
 
-Das ging alles so blitzartig, daß die beiden Derwischjünglinge
+Das ging alles so blitzartig, daß die beiden Derwisch-Jünglinge
 und der Mann am Steuer nichts mehr unternehmen
 konnten …
 
@@ -946,7 +947,7 @@ Aber — jetzt steuerte ich, und Harald fesselte den halb
 bewußtlosen Mr. Wilson, der etwa vierzehn Zähne eingebüßt
 hatte … Vielleicht auch weniger. Aber zu dem
 Namen Wilson gehört nun mal die Zahl vierzehn: Wilsons
-berüchtigte vierzehn Punkte<@refnote 1/>, der größte Schwindel der
+berüchtigte vierzehn Punkte<@refnote/>, der größte Schwindel der
 Weltgeschichte!
 
 Dann wollten wir die vier über Bord Gegangenen
@@ -957,7 +958,7 @@ Wir gaben das Suchen auf, wollten jetzt nach dem
 Hafen von Stambul zurück. Harald stand neben mir am
 Steuer. Wir fuhren westwärts …
 
-Und dann — dann kam … Das andere …
+Und dann — dann kam … das andere …
 
 <@pagebreak/>
 
@@ -1027,9 +1028,9 @@ dort Taucharbeiten ausführte, daß unsere Freunde Barring
 und Hitzgräfe an Bord sind und daß drittens der Pergamentstreifen
 die Aufschrift enthielt:
 
-> Falsifikate sind unterwegs in Kiste drei.
+> Falsifikate sind unterwegs in Kiste drei,
 
-So kann man unschwer zu dem Schluß gelangen, die Kiste
+so kann man unschwer zu dem Schluß gelangen, die Kiste
 drei könnte dort im Bosporus liegen, wo der Taucher arbeitet,
 das heißt: der Taucher will sie heben — die Kiste
 mit den falschen Banknoten …«
@@ -1126,7 +1127,7 @@ erklärte:
 Hafentaucher gewesen bist, könnt Ihr vorläufig an Bord
 bleiben. Unser Taucher hält den Wasserdruck hier in zehn
 Meter Tiefe sehr schlecht aus und kommt alle Augenblicke
-nach oben …«
+nach oben …« —
 
 Man sieht: Harald hatte wieder mal das Richtige getroffen,
 als er mit seiner Ausbildung als Taucher renommiert
@@ -1141,7 +1142,7 @@ Wer beschreibt unser Erstaunen, als wir nun dieses
 Tauchers feines Stimmchen vernahmen!! Es war — —
 Anni Hitzgräfe!! —
 
-Nur Minuten später war der Segler an dem langen
+Fünf Minuten später war der Segler an dem langen
 Ankertau zehn Meter weiter südlich festgelegt worden, und
 Harald kletterte im Taucheranzug die Strickleiter hinab,
 schaltete die elektrische Lampe erst unter Wasser ein und
@@ -1152,7 +1153,7 @@ sich unten auf dem Grunde umzusehen, — einer Kiste, auf
 die eine lateinische Drei gemalt sei.
 
 Daß mir, der ich als Taubstummer oben unbeachtet an
-der Reling stand und ins Wasser hinab stierte, bei alledem
+der Reling stand und ins Wasser hinabstierte, bei alledem
 nicht wohl war, wird jeder leicht begreifen.
 
 Wenn Barring zum Beispiel auch nur den leisesten
@@ -1265,7 +1266,7 @@ anderen Zeugen des Wiederauftauchens eines heimtückisch
 in den Fluten eines geheimnisvollen Gewässers, wie es
 der Bosporus stets gewesen, absichtlich versenkten Weibes.
 Der Detektiv bleibt Beobachter, bleibt Grübler, sinnt sofort
-über das Wer?, Wie!, Warum? nach, läßt seine geübten
+über das Wer?, Wie?, Warum? nach, läßt seine geübten
 Gedanken sofort Bahnen einschlagen, die ihn von dem
 tragischen Schauspiel selbst ablenken. —
 
@@ -1339,7 +1340,7 @@ Balken und Bretter befestigte Ufer heranreichten.
 Hier händigte Barring Harald ein Päckchen Scheine
 aus. Hier mußten wir mit dem Ledersack und der Leiche
 darin verschwinden. Harald deutete an, daß wir die Tote
-auf einem der nahen Kirchhöfe vorläufig verbergen würden.
+auf einem der nahen Friedhöfe vorläufig verbergen würden.
 
 Dann nahm er die unheimliche Last auf den Rücken und
 schlich davon. Ich blieb hinter ihm.

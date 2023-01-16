@@ -47,7 +47,7 @@ So vergingen also wirklich drei Tage völligen Nichtstuns.
 Wir erholten uns nach Kräften. Ich nahm unheimlich
 an Gewicht und Umfang zu. — Am dritten Abend saßen
 wir in Haralds Arbeitszimmer und studierten die Zeitungen.
-Harst gähnte — gähnte in einem fort, reckte sich, warf
+Harst gähnte — gähnte in einemfort, reckte sich, warf
 halb aufgerauchte Zigaretten in die Aschenschale und benahm
 sich ganz so wie jemand, der sich sträflich langweilt.
 
@@ -63,14 +63,14 @@ Sie schmetterte die Haustür offenbar wütend ins Schloß,
 stampfte den Flur entlang und verließ nach einiger Zeit
 abermals das Haus, kehrte wieder zurück, klopfte bei uns
 an und trat mit einem Scheuerlappen bewaffnet ein. Der
-Lappen tropfte. Die Tropfen fielen auf den roten Afghan-Teppich.
+Lappen tropfte. Die Tropfen fielen auf den roten Afghanteppich.
 Und Mathilde knurrte:
 
 »Da schmiert uns jetzt jemand immer die Zaunlatten
 neben der Pforte mit so ne Kullers (sie meinte Kreise) mit
 <@pagebreak/>
 weißer Kreide voll! Wenn ich die Bengels mal kriege, dann
-geht’s ihnen gut! Sie können doch eigentlich auch so’n
+geht’s ihnen gut! Sie könnten doch eijentlich auch so’n
 bißchen aufpassen, Herr Schraut!«
 
 »Das werde ich, liebe Mathilde,« versicherte ich, zumal
@@ -111,9 +111,9 @@ Das war Ironie — beißende Ironie!
 Und er fügte hinzu: »Hast Du denn Schloß Gnir in
 diesen Tagen schon so vollständig vergessen?! Denkst Du
 gar nicht mehr daran, daß Lionel Barring seine Verbrechergesellschaft
-»die große Null« getauft hatte, daß er und …
-drei seiner Vertrauten entkommen sind?! Er und drei
-kleine Nullen!! Begreifst Du?! Die Malerei auf dem
+»Die große Null« getauft hatte, daß er und …
+drei seiner Vertrauten entkommen sind?! Er und drei …
+kleine Nullen!! Begreifst Du?! *Die* Malerei auf dem
 Zaun kann doch kein Zufall sein. Nein — das ist eine
 Kampfansage, eine …«
 
@@ -150,7 +150,7 @@ Und sie verschwand wieder. —
 Kritzliche Bleistiftzeilen:
 
 > Geehrter Herr H.! Die große Null hat sich bei mir
-gemeldet. — Ernst Wogitsch, Modelleur, Berlin C.
+gemeldet. — Ernst Wogitsch, Modelleur, Berlin C.,
 Brückengang 6, 2 Treppen.
 
 Harald warf den Zettel hin und lief hinaus — lief
@@ -209,7 +209,7 @@ Leipziger.
 Harald rauchte die dritte Mirakulum, pfiff hin und
 wieder die bekannten Takte aus Carmen:
 
-»Auf — in den — Kampf — Torrero …«
+> »Auf — in den — Kampf — Torero …«
 
 Ich pfiff nicht. Nein, dazu hatte ich auch nicht die allergeringste
 Veranlassung. Lionel Barring ist kein Gegner, den
@@ -291,7 +291,7 @@ Herr Emil Rehbein schloß die Haustür auf und beleuchtete
 uns mit seiner Schusterlampe.
 
 Wir sahen einen kleinen, dürren, stark buckligen Mann
-mit einem verkniffenem, grämlichen Gesicht vor uns. Unter
+mit einem verkniffenen, grämlichen Gesicht vor uns. Unter
 buschigen grauen Augenbrauen schillerten ein Paar schlaue
 mißtrauische Mauseäuglein.
 
@@ -318,7 +318,7 @@ Saurer Ledergeruch und der Duft einer kurzen Pfeife
 empfingen uns. Auf dem Arbeitstisch hockte eine zahme
 Dohle.
 
-Rehbein schob uns zwei Stühle hin. Er selbst setze sich
+Rehbein schob uns zwei Stühle hin. Er selbst setzte sich
 auf seinen Schusterschemel. Sein kahler Schädel glänzte im
 Lichtschein der Gaslampe, die in Lyraform von der Decke
 des winzigen Raumes herabhing.
@@ -357,7 +357,7 @@ Die zahme Dohle schlug mit den Flügeln und krächzte.
 »Still, Peter!« rief der Schuster ärgerlich. »Still, Du
 Racker. Dein Herr wird schon kommen!«
 
-Und zu uns: »Peter ist Wogitsch’ Eigentum und seine
+Und zu uns: »Peter ist Wogitschs Eigentum und seine
 einzige Freude. Sie sollen nur sehen, meine Herren, wie
 Peter sich freut, wenn Wogitsch ihn von hier abholt. Der
 Vogel hat wahrhaftig Menschenverstand.«
@@ -430,7 +430,7 @@ Nur die Uhr tickte laut …
 Dann räusperte Rehbein sich.
 
 »Hm — die Herren werden schon entschuldigen …
-Ich muß schlafen gehen …« sagte er leise.
+Ich muß schlafen gehen …,« sagte er leise.
 
 »Und wie kommt Ihr Freund ins Haus?« fragte Harald
 scheinbar gleichmütig.
@@ -558,7 +558,7 @@ Harald hatte ihn freigegeben.
 was Sie aus dem Schranke herausholen würden?!«
 
 <@pagebreak/>
-»Eine Waffe …!« forschte der Bucklige wieder. Er
+»Eine Waffe …!« fauchte der Bucklige wieder. Er
 war wie verwandelt. Aus dem mageren, greisenhaften Gesicht
 leuchtete eine Energie, die mich in Staunen setzte.
 
@@ -567,7 +567,7 @@ wie verstehend. »Bitte — nehmen Sie sich eine heraus, Herr
 Rehbein.«
 
 Der Bucklige zauderte. Dann langte er in den Schrank
-hinein und ergriff eine an einem Regal hängende doppelläufige
+hinein und ergriff eine an einem Nagel hängende doppelläufige
 Pistole mit reich verziertem Kolben.
 
 Harald hatte gleichzeitig in die Ulstertasche gefaßt und
@@ -596,7 +596,7 @@ dunklen Flur hinaus.
 Wir folgten ihm.
 
 Er zog den von innen steckenden Schlüssel aus dem
-Schloß der mit großen eisernen Zierbuckeln dicht beschlagenen
+Schloß der mit großen eisernen Zierbuckeln dicht beschlagenen,
 sehr dicken Haustür. Das Schloß, ein modernes Kunstschloß
 mit kompliziertem Schlüssel, amerikanisches Fabrikat.
 
@@ -693,7 +693,7 @@ Es war ein Wachsfigurenkabinett, nichts anderes.
 
 Im übrigen war der Raum leer.
 
-»Wogitsch’ Musterkollektion,« flüsterte der bucklige
+»Wogitschs Musterkollektion,« flüsterte der bucklige
 Schuster und schritt weiter zur gegenüberliegenden Tür.
 
 Dann blieb er plötzlich stehen, — — taumelte …
@@ -714,7 +714,7 @@ stieß wortlos auch diese Tür auf.
 
 Das Zimmer bot genau denselben Anblick wie der
 Nebenraum, den wir soeben durchschritten hatten. Es enthielt
-nur Wachsfiguren!!
+nur Wachsfiguren!
 
 Die Fenster waren auch hier dicht verhängt. Wollene
 Decken waren an Ringen als Vorhänge benutzt worden.
@@ -800,7 +800,7 @@ Harst lehnte sich an den Ofen.
 er eindringlich.
 
 Der Bucklige stellte die Lampe auf den Tisch. Sein Gesicht
-war völlig verändert … leichenhaft, starr.
+war völlig verändert — leichenhaft, starr.
 
 »Was wollen Sie wissen?« fragte er trotzdem mit
 fester Stimme.
@@ -851,7 +851,7 @@ Nötige und …«
 
 Er warf mir einen Blick zu, den ich sofort verstand …
 
-» … und bringe Herrn Rehbein wieder mit.«
+»… und bringe Herrn Rehbein wieder mit.«
 
 Ich verstand: ich sollte den Buckligen nicht aus den
 Augen lassen! Harald fürchtete, er könnte zu entwischen
@@ -880,7 +880,7 @@ daß Harald es oben hören würde …
 
 Ich schäumte vor Wut. Mich so überlisten zu lassen!
 Daß der Kerl mir auf diese Weise entschlüpfen würde, hätte
-ich auch nicht im entferntesten gedacht! - —
+ich auch nicht im entferntesten gedacht! —
 
 Zwei jüngere Männer kamen die Gasse entlang.
 
@@ -923,10 +923,10 @@ Rehbein, die hier im Brückengang recht beliebt seien, versicherte
 <@pagebreak/>
 er wiederholt. Sie täten insgeheim viel Gutes, obwohl
 sie es selbst nur knapp hätten. — Er wunderte sich
-schon sehr, daß wir Rehbein bei der Arbeit angetroffen hätten.
+aber sehr, daß wir Rehbein bei der Arbeit angetroffen hätten.
 »Der Bucklige flickt doch höchstens mal ein Paar Pantoffel
-aus, Herr Schraut. Na — und mit Wogitsch’ Wachsfiguren
-ist wohl auch kaum die Magarine aufs Brot zu verdienen —
+aus, Herr Schraut. Na — und mit Wogitschs Wachsfiguren
+ist wohl auch kaum die Margarine aufs Brot zu verdienen —
 kaum!«
 
 Ich hörte nur halb hin. Ich dachte nur an Rehbein —
@@ -950,7 +950,7 @@ ist Herr Harst …«
 »Falls Rehbein nicht lautlos die Treppen emporschleicht
 bis zum Boden …«
 
-Zwicker nickte nachdenklich. »Das wär möglich. Aber …
+Zwicker nickte nachdenklich. »Das wär möglich. Aber —
 aber so’n Schwächling wie Rehbein kann doch nicht über
 die Dächer klettern!«
 
@@ -967,7 +967,7 @@ Es war die Polizei …
 <h3>L. Luneßorg aus Hamburg.</h3>
 
 Und zwanzig Minuten später fuhr ich mit Harald, den
-wir oben in Wogitsch’ Wohnzimmer mit einer dicken Beule
+wir oben in Wogitschs Wohnzimmer mit einer dicken Beule
 am Hinterkopf auf dem Fußboden bewußtlos aufgefunden
 hatten, und der dann sehr bald wieder zu sich gekommen,
 aber noch sehr schwach war, heimwärts nach der Blücherstraße.
@@ -1000,7 +1000,7 @@ Man bekam sie selten zu Gesicht. Verwandte oder Freunde
 <@pagebreak/>
 konnten sie nicht haben, da sie nie einen Brief erhielten,
 es sei denn von einer Behörde. Aber — sie waren mildtätig
-und große Kinderfreunde. Jeden Weihnachten bescherten
+und große Kinderfreunde. Jedes Weihnachten bescherten
 sie zehn Kinder sehr reichlich. Dann brannte in Rehbeins
 Werkstatt ein Tannenbaum. —
 
@@ -1014,12 +1014,12 @@ der Schlag seinen Kopf traf und er im Umsinken den Buckligen
 gewahrte, der wieder durch die Tür in den Treppenflur
 schlüpfte.
 
-Und Wogitsch’ Leiche mit der furchtbaren Halswunde
+Und Wogitschs Leiche mit der furchtbaren Halswunde
 (die Schlagader war glatt durchschnitten) hatte Rottmüller
 noch hinter der Baldachinseide gefunden. Sonst … nichts.
 Das Häuschen war leer gewesen. Rehbein war, wie die
 offene Dachluke bewies, nach dem Überfall über die Dächer
-entkommen … —
+entkommen. —
 
 Das Auto hielt vor Blücherstraße 10.
 
@@ -1045,7 +1045,7 @@ gesessen hatte, saß nun ganz behaglich im Klubsessel — hier
 in dem Gemach, das schon so manches an Absonderlichem
 miterlebt hatte.
 
-Und — er rauchte wahrhaftig eine Mirakulum!
+Und — er rauchte wahrhaftig eine Mirakulum!!
 Welcher Leichtsinn! Bei einer Gehirnerschütterung!!
 
 Mein Gesicht drückte meine Gedanken wohl sehr deutlich
@@ -1081,15 +1081,15 @@ gar nicht mehr bewußtlos, als wir Dich fanden.«
 
 Da stand:
 
-> Hamburg, den 3. März 1923.
+<p class="right">Hamburg, den 3. März 1923.</p>
 
-> Hotel Amsterdam,
+<p class="right">Hotel Amsterdam,</p>
 
-> Fennerstr. 7,
+<p class="right">Fennerstr. 7.</p>
 
-> Herrn Ernst Wogitsch,
+<p class="centered">Herrn Ernst Wogitsch,</p>
 
-> Berlin.
+<p class="right">Berlin.</p>
 
 > Sie sind mir als vorzüglicher Wachsfigurenkünstler
 empfohlen worden. Ich sende Ihnen anbei acht Photographien
@@ -1128,7 +1128,7 @@ Wieder las ich. — Der Bericht entsprach den Tatsachen.
 »So,« sagte Harald, »jetzt beachte, daß auch Wogitsch
 diesen Bericht kannte, denn Meister Rehbein betonte, daß
 Wogitsch von der Nützlichkeit der Zeitungslektüre gesprochen
-hatte. Das heißt: Wogitsch hat den Brief des Herrn
+hätte. Das heißt: Wogitsch hat den Brief des Herrn
 L. Luneßorg genauer sich angesehen als Du und hat daher
 herausgefunden, daß L. Luneßorg nichts als die Umkehrung
 des Namens oder besser der Bezeichnung »große Null« ist, —
@@ -1139,7 +1139,7 @@ Wogitsch …«
 Er machte eine lange Kunstpause …
 
 <@pagebreak/>
-» … heute am *neunten März* abends halb neun
+»… heute am *neunten März* abends halb neun
 zu uns kam. Er hat eben erst heute die Bedeutung von
 L. Luneßorg herausgefunden, er kannte unsere schottischen
 Abenteuer und die große Null aus der Zeitung und wollte
@@ -1171,7 +1171,7 @@ Und — wieder die Kunstpause.
 
 Ich beugte mich näher zu Harald hin …
 
-» … sie waren einst … Piraten, Seeräuber …!«
+»… sie waren einst … Piraten, Seeräuber …!«
 beendete er leise den Satz.
 
 Piraten — — Seeräuber?!
@@ -1188,10 +1188,10 @@ auf.
 
 Aber — — zwei Deutsche, die hier in Berlin leben, der
 <@pagebreak/>
-eine als Pantoffelschuster, der andere als Wachsmodelleur
+eine als Pantoffelflickschuster, der andere als Wachsmodelleur
 — —?!
 
-Jetzt — — lächelte ich ich zweifelnd … —
+Jetzt — — lächelte *ich* zweifelnd … —
 
 Harald beachtete das nicht.
 
@@ -1323,7 +1323,7 @@ Glauben an eine Gehörtäuschung …
 Und müssen doch schließlich einsehen, daß diese seltsamen
 Töne wirklich von oben her herabdringen …
 
-Ein fassungsloses Schluchzen aus einer Frauenkehle …
+Ein … ein fassungsloses Schluchzen aus einer Frauenkehle …
 
 Jammernde Laute …
 
@@ -1375,7 +1375,7 @@ Kachelofen sitzt … sitzt ein Mann im Sportpelz mit Opossumkragen,
 ein Monokel ins rechte Auge geklemmt, bartlos,
 hager, kräftige Kinnpartie …
 
-Leber seinem Kopf hockt die Dohle auf dem Rande der
+Über seinem Kopf hockt die Dohle auf dem Rande der
 Rückenlehne.
 
 Der Mann ist … Lionel Barring …
@@ -1395,7 +1395,7 @@ Wir hatten ihn — — endlich!!
 
 Aber es war nicht unser Verdienst. Es war ein Zufall!
 
-Die — große Null, die nicht zu fassende Verbrechergemeinschaft,
+Die … große Null, die nicht zu fassende Verbrechergemeinschaft,
 <@pagebreak/>
 die von Harst dann doch gesprengt worden war,
 saß hier vor uns, verkörpert durch Lionel Barring, in Wahrheit …
@@ -1420,7 +1420,7 @@ Jedenfalls: wir hatten ihn!
 
 Und — wir hatten ihm das Leben gerettet!
 
-Vielleicht noch fünf Minuten dann …
+Vielleicht noch fünf Minuten. Dann …
 
 — — Doch das gehört nicht mehr hierher.
 
@@ -1431,5 +1431,4 @@ Alles weitere gehört zum zweiten Teil …
 Zu …
 
 Bitte umzuschlagen …!
-
 
