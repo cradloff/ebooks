@@ -2,7 +2,7 @@
 
 <h2>1. Kapitel.</h2>
 
-Bombay ist bekanntlich eine Inselstadt, ein indisches Venedig. Die Stadt selbst liegt am Südende der gleichnamigen Insel, nordöstlich von dieser die etwas kleinere Insel Siwa und nördlich Salsette, so daß die Eisenbahn, die von Bombay ins Innere des Riesenreiches führt, zwei Brücken passiert. Im allgemeinen pflegen Seeschiffe die nördliche enge Massage zwischen der Insel Salsette und dem Festlande zu meiden, da dieser Weg ins freie Meer durchaus keine Zeitersparnis einbringt. Wenn also der von dem Chinesen Schimo angekaufte Frachtdampfer trotzdem die nördliche Richtung eingeschlagen hatte, mußte der neue Besitzer des Schiffes schon sehr gewichtige Gründe für die Wahl dieses Kurses gehabt haben. —
+Bombay ist bekanntlich eine Inselstadt, ein indisches Venedig. Die Stadt selbst liegt am Südende der gleichnamigen Insel, nordöstlich von dieser die etwas kleinere Insel Siwa und nördlich Salsette, so daß die Eisenbahn, die von Bombay ins Innere des Riesenreiches führt, zwei Brücken passiert. Im allgemeinen pflegen Seeschiffe die nördliche enge Passage zwischen der Insel Salsette und dem Festlande zu meiden, da dieser Weg ins freie Meer durchaus keine Zeitersparnis einbringt. Wenn also der von dem Chinesen Schimo angekaufte Frachtdampfer trotzdem die nördliche Richtung eingeschlagen hatte, mußte der neue Besitzer des Schiffes schon sehr gewichtige Gründe für die Wahl dieses Kurses gehabt haben. —
 
 Unser Motorboot, das einem älteren Inder namens Rami gehört hatte, den wir für alle Fälle als Lotsen mitnahmen, steuerte nun also an diesem trüben, regnerischen und trotzdem glühend heißen Vormittag ebenfalls nach Norden.
 
@@ -62,9 +62,9 @@ Harst fragte denn auch:
 
 »Kennst du Schimo vielleicht genauer!« forschte Harald weiter.
 
-»Jeder in der Stadt kannte Schimo … Er besaß außer dem Teehause in der Gasse der zärtlichen Mädchen noch drei Häuser. Er war so reich, daß er selbst vielleicht nicht wußte, wie reich er war. Jedenfalls wußten es die Behörden nicht, Sahib. Kein Chinese in Bombay hat die Steuerbeamten derart betrogen wie Schimo es tat — oder er hat sie bestochen, Sahib. Hier in Bombay ist nach dem Kriege auch vieles anders geworden. — Vor vier Wochen hieß es, er habe Indien für immer verlassen. Sahib — eine Lüge war’s, die Schimo selbst ausgestreut hat … Wir Leute vom Hafen, Sahib, erfahren mehr als andere. Wir halten zusammen, wir flüstern einer dem andern zu, was wir sehen und hören. Aber wir reden zu niemandem darüber, der außerhalb unserer Kaste steht. Mit dir, Sahib, und deinem Freunde spreche ich ganz offen. Du willst Schimo etwas antun. Weshalb, das ist mir gleichgültig. Wir hassen die Gelbgesichter, die in Scharen unser Land überschwemmen und Reichtümer sammeln. Wir bleiben arm, sie werden reich, weil sie ohne Gewissen, ohne Heimat sind und zusammenhalten wie die Kletten. Schimo hat diese vier Wochen über in der Gawarra-Bucht in einem Wohnschiffe im verborgenen gehaust. Er fürchtete das Sumpffieber nicht … Er war in der Bucht sicher. Niemand verirrt sich dorthin. Du wirst die Bucht kennenlernen, Sahib … Es ist ein Ort des Streckens. Nirgends gibt es in der Nähe von Bombay noch Riesenschlangen … In der Gawarra-Bucht leben Untiere solcher Art, länger als ein Ankertau.«
+»Jeder in der Stadt kannte Schimo … Er besaß außer dem Teehause in der Gasse der zärtlichen Mädchen noch drei Häuser. Er war so reich, daß er selbst vielleicht nicht wußte, wie reich er war. Jedenfalls wußten es die Behörden nicht, Sahib. Kein Chinese in Bombay hat die Steuerbeamten derart betrogen wie Schimo es tat — oder er hat sie bestochen, Sahib. Hier in Bombay ist nach dem Kriege auch vieles anders geworden. — Vor vier Wochen hieß es, er habe Indien für immer verlassen. Sahib — eine Lüge war’s, die Schimo selbst ausgestreut hat … Wir Leute vom Hafen, Sahib, erfahren mehr als andere. Wir halten zusammen, wir flüstern einer dem andern zu, was wir sehen und hören. Aber wir reden zu niemandem darüber, der außerhalb unserer Kaste steht. Mit dir, Sahib, und deinem Freunde spreche ich ganz offen. Du willst Schimo etwas antun. Weshalb, das ist mir gleichgültig. Wir hassen die Gelbgesichter, die in Scharen unser Land überschwemmen und Reichtümer sammeln. Wir bleiben arm, sie werden reich, weil sie ohne Gewissen, ohne Heimat sind und zusammenhalten wie die Kletten. Schimo hat diese vier Wochen über in der Gawarra-Bucht in einem Wohnschiffe im verborgenen gehaust. Er fürchtete das Sumpffieber nicht … Er war in der Bucht sicher. Niemand verirrt sich dorthin. Du wirst die Bucht kennenlernen, Sahib … Es ist ein Ort des Schreckens. Nirgends gibt es in der Nähe von Bombay noch Riesenschlangen … In der Gawarra-Bucht leben Untiere solcher Art, länger als ein Ankertau.«
 
-Des alten Rami eintönige Stimme und das Überraschende seiner Mitteilungen wirkten seltsam lähmend auf mich. Schone seit dem heutigen Morgen, seit dem Telephongespräch Haralds mit Freund Neelpool verspürte ich ein seelisches Unbehagen wie die Vorahnung böser Ereignisse. Diese gedrückte, mißmutige Stimmung verstärkte sich jetzt noch mehr.
+Des alten Rami eintönige Stimme und das Überraschende seiner Mitteilungen wirkten seltsam lähmend auf mich. Schon seit dem heutigen Morgen, seit dem Telephongespräch Haralds mit Freund Neelpool verspürte ich ein seelisches Unbehagen wie die Vorahnung böser Ereignisse. Diese gedrückte, mißmutige Stimmung verstärkte sich jetzt noch mehr.
 
 Harst und ich tauschten verstohlen einen ernsten Blick. Wir verstanden uns. Wenn Schimo vier Wochen in der Bucht sich verborgen gehalten hatte, war’s nicht von der Hand zu weisen, daß ein Zufall ihn das U-Boot Amalgis hatte finden lassen oder … daß gar der Dampfer Timitri dort in der verflossenen Nacht in aller Stille eingelaufen war und sich noch dort befand.
 
@@ -202,7 +202,7 @@ Aber daß hier im Sumpf ein solches geheimnisvolles Unterwasserfahrzeug versteck
 
 Harst nickte ihm zu … »Es stimmt schon, Rami … Vor sechs Wochen kam ein gewisser Doktor Amalgi in diesem U-Boot hierher. Es handelt sich nur um ein kleines Boot … Hilf uns, die Stelle zu finden, wo es liegt. Du bist auf dem Wasser groß geworden, du bist mit den örtlichen Verhältnissen hier vertraut …«
 
-»Ja, Sahib, »meinte der Alte zaudernd. »Vertraut wohl … Aber ich fürchte, wir werden nichts finden … Da … sieh hin, Sahib: der Flußarm wird breiter … Und — — nichts als Schilf. Und dicht stehen die Stengel wie die Borsten beim Stachelschwein. Zäh sind sie, Sahib …zäh!! Wer mit dem Buschmesser sich Bahn schlagen will, der verbraucht zehn Wetzsteine und zwanzig Messer, Sahib …«
+»Ja, Sahib,« meinte der Alte zaudernd. »Vertraut wohl … Aber ich fürchte, wir werden nichts finden … Da … sieh hin, Sahib: der Flußarm wird breiter … Und — — nichts als Schilf. Und dicht stehen die Stengel wie die Borsten beim Stachelschwein. Zäh sind sie, Sahib …zäh!! Wer mit dem Buschmesser sich Bahn schlagen will, der verbraucht zehn Wetzsteine und zwanzig Messer, Sahib …«
 
 Rami hatte recht. Auch mir erschien es vollkommen aussichtslos, diese Wasserwildnis nach einem Schifflein zu durchstöbern, von dem vielleicht nur der Deckturm sichtbar war …
 
@@ -390,7 +390,7 @@ Freies Meer …
 
 Sonnenschein … Träge rollende grünblaue Wogen … Und — — Ramis Stimme:
 
-»Sahib, wenn du mir ein wenig Bescheid sagen würdest, konnte ich das Boot schon lenken …«
+»Sahib, wenn du mir ein wenig Bescheid sagen würdest, könnte ich das Boot schon lenken …«
 
 Der brave Alte hatte recht. <em>Ich</em> war ja nicht auf mich allein angewiesen wie Harald achtzehn endlose Stunden lang!
 
@@ -604,7 +604,7 @@ Harst schaut nach der Uhr …
 
 Elf …
 
-Nach eine Stunde, dann werden wir die »Robbe« an die Oberfläche des Meeres emporsteigen lassen …
+Noch eine Stunde, dann werden wir die »Robbe« an die Oberfläche des Meeres emporsteigen lassen …
 
 Und dann?! —
 
@@ -656,7 +656,7 @@ Dort drüben an der Reling, auf der Brücke keine lebende Seele … Die Kessel k
 
 Leichengeruch, der in mir sofort trübe, entsetzliche Bilder hervorgezaubert: der Cholerakirchhof, die Schlucht, in der wir mit Amalgi, Miß Honoria und dem alten Enoch sterben sollten — angesteckt werden!!
 
-Und dort vor uns auf dem Timitri [hat]<@refnote 4/> fraglos der zweite grausame Würgeengel Indiens gewütet: die Beulenpest! — Nur sie mäht ganze Schiffsbesatzungen erbarmungslos nieder, nur sie wählt sich hauptsächlich zu ihren Opfern die Farbigen aus.
+Und dort vor uns auf dem Timitri hat<@refnote 4/> fraglos der zweite grausame Würgeengel Indiens gewütet: die Beulenpest! — Nur sie mäht ganze Schiffsbesatzungen erbarmungslos nieder, nur sie wählt sich hauptsächlich zu ihren Opfern die Farbigen aus.
 
 Da ist unsere »Robbe« schon dicht an dem Dampfer …
 
@@ -686,7 +686,7 @@ Meiner Ansicht nach wird es uns sehr schwer fallen, Sigrin zu entdecken, was ich
 
 Harst erwidert nur: »Wir haben Zeit, mein Alter … Niemand wird gegen uns irgendwie Verdacht schöpfen. Außerdem wird man uns hier kaum bemerken …«
 
-Das alles mag richtig sein. Aber die Angaben auf dem Zettel, den der Chinese verlor und den Harald fand, sind so wenig erschöpfend, was die Lage von Schimos hiesigem Schlupfwinket betrifft, daß nur ein Zufall meines Erachtens uns einen Erfolg bescheren kann. Dieser mit Sikussa unterzeichnete Zettel spricht zwar von »Nachbarn, die noch nicht mißtrauisch geworden sind«. Das ist verdammt wenig, um ein vor fünfzehn Jahren geraubtes Kind hier aufzustöbern.
+Das alles mag richtig sein. Aber die Angaben auf dem Zettel, den der Chinese verlor und den Harald fand, sind so wenig erschöpfend, was die Lage von Schimos hiesigem Schlupfwinkel betrifft, daß nur ein Zufall meines Erachtens uns einen Erfolg bescheren kann. Dieser mit Sikussa unterzeichnete Zettel spricht zwar von »Nachbarn, die noch nicht mißtrauisch geworden sind«. Das ist verdammt wenig, um ein vor fünfzehn Jahren geraubtes Kind hier aufzustöbern.
 
 Es gießt in Strömen …
 
@@ -714,7 +714,7 @@ Nein — ich brülle …
 
 Ich taste mich nach vorn … Aus dem Regennebel taucht Harsts schlanke Gestalt auf. Er trägt einen Mann in den Armen, einen Nikobaresen …
 
-»Ich habe den Burschen niederschlagen müssen,« meinte er gelassen »Diese Stammesverwandten der Malaien lieben vergiftete Dolche … Schließe hinter uns die Turmluke …«
+»Ich habe den Burschen niederschlagen müssen,« meinte er gelassen. »Diese Stammesverwandten der Malaien lieben vergiftete Dolche … Schließe hinter uns die Turmluke …«
 
 In der großen Kabine legt er den nassen, bärtigen, rotbraunen Kerl mit den Wulstlippen und dem langen Weiberhaar auf den Teppich. Der Nikobarese ist ein älterer Mann, nur mit Bastschurz bekleidet, um die Lenden noch einen Strick, an dem ein Dolch in Lederscheide und ein Beutel mit Blasrohrpfeilen hängen …
 
@@ -822,7 +822,7 @@ Harald wird einer Antwort überhoben …
 
 Hinter der Miß taucht die schlanke, blondhaarige junge Künstlerin auf … In einer Art Phantasiekostüm aus kostbarster, goldbestickter chinesischer Seide …
 
-Ein liebreizendes Gesichtet, leicht gebräunt … Graublaue Augen, die uns neugierig betrachten.
+Ein liebreizendes Gesichtel, leicht gebräunt … Graublaue Augen, die uns neugierig betrachten.
 
 »Wir haben Ihnen eine Botschaft auszurichten,« sagt Harald zu Sigrin Amalgi. »Von Ihrem Vater, Miß, — unter vier Augen …«
 

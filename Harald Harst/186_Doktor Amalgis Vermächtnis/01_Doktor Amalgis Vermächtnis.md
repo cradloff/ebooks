@@ -78,7 +78,7 @@ Ich griff nach meiner Sportmütze und begab mich zu jenem Pferdeverleiher, desse
 
 So konnte denn auch diesmal unsere neue Expedition nach dem Kloster Damalang in aller Stille und Unauffälligkeit beginnen. Im Hotel sagten wir nur dem Direktor Bescheid, dem Harald noch nahelegte, die Polizei zu benachrichtigen, falls wir nicht in einer Woche wieder in Nepalgang eingetroffen sein sollten. —
 
-Meine leise Hoffnung, daß wir das festungartige Kloster nochmals wiedersehen wurden, wurde nun also verwirklicht. Den Ritt von anderthalb Tagen durch die öden Berge brauch ich hier nicht näher zu schildern, da ich dies bereits im vorigen Band getan habe und da wir genau denselben Weg einschlugen, wobei Harald sich wie stets als unübertrefflicher Pfadfinder zeigte, mir außerdem an verschiedenen Stellen bewies, daß kurz vor uns ein anderer Reiter dem Kloster zugestrebt war, natürlich der Dieb, den wir leider jedoch nicht mehr einholen konnten.
+Meine leise Hoffnung, daß wir das festungartige Kloster nochmals wiedersehen würden, wurde nun also verwirklicht. Den Ritt von anderthalb Tagen durch die öden Berge brauche ich hier nicht näher zu schildern, da ich dies bereits im vorigen Band getan habe und da wir genau denselben Weg einschlugen, wobei Harald sich wie stets als unübertrefflicher Pfadfinder zeigte, mir außerdem an verschiedenen Stellen bewies, daß kurz vor uns ein anderer Reiter dem Kloster zugestrebt war, natürlich der Dieb, den wir leider jedoch nicht mehr einholen konnten.
 
 Wir gaben unterwegs auf jede Kleinigkeit acht, die nur irgend verhüten konnte, daß unsere Ankunft in der Nähe von Damalang vorzeitig den Mönchen verraten würde. Wo wir auf fruchtbare Täler stießen, in denen sich einzelne Nepalesen angesiedelt hatten, umgingen wir die Baulichkeiten in großem Bogen. Wir richteten es auch so ein, daß wir erst nach Einbruch der Dunkelheit die Hochebene erreichten, die nach Westen zu von jenem ungeheuren Felsenwall begrenzt wurde, auf dessen erster Abstufung in etwa sechzig Meter Höhe das tempelartig gebaute Kloster lag, das bei der Schroffheit der Felswände für jeden gewöhnlichen Sterblichen nur im Einverständnis mit den Klosterinsassen betreten werden konnte, da die Mönche über einen primitiven Aufzug verfügten, — eine Winde mit einem Förderkorbe an einem dicken Tau, das selbst Tiere zu tragen vermochte.
 
@@ -128,7 +128,7 @@ Harst ist unten … Liegt lang auf dem Dache …
 
 Winkt …
 
-Ich folge … Ich bin kein Akrobat wie Harald … Schwitze Angst … Weiß genau, daß jedes Steinchen, das durch meine Schuld in die Tiefe saust, uns verraten kann … Habe etwa die Hälfe des steilen Weges hinter mir, als ich plötzlich oben einen starken Ruck an dem Tau spüre …
+Ich folge … Ich bin kein Akrobat wie Harald … Schwitze Angst … Weiß genau, daß jedes Steinchen, das durch meine Schuld in die Tiefe saust, uns verraten kann … Habe etwa die Hälfte des steilen Weges hinter mir, als ich plötzlich oben einen starken Ruck an dem Tau spüre …
 
 Spüre auch, daß das Tau sich dehnt … Ahne Furchtbares …
 
@@ -436,7 +436,7 @@ Amalgis Brief aber lautete:
 
 > Und nun noch etwas, bevor ich schließe. Ihnen beiden ist bekannt, daß ich damals mit dem von mir konstruierten U-Boot nach Indien floh. Mein treuer Hubert Enoch war mein einziger Begleiter. Für seinen Lebensabend habe ich gesorgt. Auch das wissen Sie. — Mein U-Boot liegt nördlich von Bombay in der Gawarra-Bucht in einem sumpfigen Flußarm versteckt. Vielleicht kann es Ihnen irgendwie von Nutzen werden.
 
-> Sollten Sie mein Kind finden, so bringen Sie es nach Stockholm, wo eine Schwester meines Weibes an einen Ingenieur Homstaal verheiratet ist. Ich hoffe, Sie werden Sigrin finden. Ihnen sind schon schwierigere Ausgaben als diese gestellt worden.
+> Sollten Sie mein Kind finden, so bringen Sie es nach Stockholm, wo eine Schwester meines Weibes an einen Ingenieur Homstaal verheiratet ist. Ich hoffe, Sie werden Sigrin finden. Ihnen sind schon schwierigere Aufgaben als diese gestellt worden.
 
 > > Leben Sie wohl!
 
@@ -496,7 +496,7 @@ Wir sind zwei Minuten später im Tanzsaal …
 
 Etliche zwanzig junge Damen, deren Bekleidung noch mangelhafter ist als die der modernen »anständigen« Ladys, leisten hier etlichen dreißig liebehungrigen Europäern Gesellschaft. Parfümduft, Opiumgeruch und jenes ekle Gemisch von Likördunst und Zigarettenqualm legen sich mir wie Blei auf die Brust …
 
-Die Jazzbande tobt in Rhythmus …
+Die Jazzbande tobt im Rhythmus …
 
 Hinter dem vergoldeten Büfett steht ein magerer, kleiner Chinese in tadellos weißem Leinenanzug. Stehkragen bis an die Ohren. Das Haar zum Scheitel festgeklebt — graues Haar … Und die Visage über dem Stehkragen könnte jedem Verbrecheralbum zur Zierde gereichen. Ein Totenkopf voller Falten, um den verkniffenen Mund ein lüsternes, kriecherisches Lächeln.
 
@@ -616,7 +616,7 @@ Die beiden weißen Sklavinnen eines gewissenlosen Asiaten machten Gesichter, als
 
 Harsts Blick ruhte unverwandt auf dem schmalen Gesicht der schlauen Dirne … Unter diesem Blick wurde sie immer verwirrter, verlegener …
 
-»Du lügst!!« Haralds Stimme kann in gewissen Momenten wie ein Messer sein — scharf, schneidend, kalt wie Stahl … — »Du lügst!! Als wir gestern abend hier im Hotel Prinz Albert abstiegen, belegte kurz nach uns eine ältere, grauhaarige Dame das Zimmer neben uns. Diese Dame hatte bereits im Nebenabteil gesessen, als wir von Allahabad den Luxuszug benutzen. Und dieselbe Dame schlich mir heute vormittag nach — oder besser … wollte mir nachschleichen … Diese Grauhaarige bist du, Maruschka …! Deine kostbaren Ringe an der linken Hand haben dich verraten … Du weißt auch genau, wer wir sind … Kaum hatten wir uns in das Fremdenbuch des Hotels eingetragen, als du auch schon das Buch verlangtest. Ich hatte den Hoteldirektor ins Vertrauen gezogen … Wer sich hinter den Namen Horter und Schrack verbirgt, ist dir genau so bekannt wie …«
+»Du lügst!!« Haralds Stimme kann in gewissen Momenten wie ein Messer sein — scharf, schneidend, kalt wie Stahl … — »Du lügst!! Als wir gestern abend hier im Hotel Prinz Albert abstiegen, belegte kurz nach uns eine ältere, grauhaarige Dame das Zimmer neben uns. Diese Dame hatte bereits im Nebenabteil gesessen, als wir von Allahabad den Luxuszug benutzten. Und dieselbe Dame schlich mir heute vormittag nach — oder besser … wollte mir nachschleichen … Diese Grauhaarige bist du, Maruschka …! Deine kostbaren Ringe an der linken Hand haben dich verraten … Du weißt auch genau, wer wir sind … Kaum hatten wir uns in das Fremdenbuch des Hotels eingetragen, als du auch schon das Buch verlangtest. Ich hatte den Hoteldirektor ins Vertrauen gezogen … Wer sich hinter den Namen Horter und Schrack verbirgt, ist dir genau so bekannt wie …«
 
 Die Nerven der Polin konnten nicht mehr recht in Ordnung sein …
 
@@ -710,7 +710,7 @@ Keine Zeit …
 
 Das stimmte …
 
-Wir verließen das Hotel samt unserem Gepäck geradezu fluchtartig, erwarben am Hafen für taufend Rupien ein älteres, wenn auch noch leidlich seetüchtiges größeres Motorboot und stachen damit Punkt halb elf Uhr in See, — Kurs Nordwest — — auf jene Bucht der Küste zu, in der Amalgis U-Boot liegen sollte …
+Wir verließen das Hotel samt unserem Gepäck geradezu fluchtartig, erwarben am Hafen für tausend Rupien ein älteres, wenn auch noch leidlich seetüchtiges größeres Motorboot und stachen damit Punkt halb elf Uhr in See, — Kurs Nordwest — — auf jene Bucht der Küste zu, in der Amalgis U-Boot liegen sollte …
 
 Sollte …! — Ob wir es noch vorfinden würden, erschien mir sehr fraglich …
 
