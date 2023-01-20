@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">7b0e0a36-d1e8-42be-a0fc-64871ea7d345</entry>
+<entry key="title">Ein Gast in der Nacht</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">197</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Ein Gast in der Nacht.
+
+Harst nahm mir das Schreiben wieder ab, schnitt es sorgfältig auf und zog ein Stück gelblich verfärbtes Zeitungspapier heraus, das offenbar schon lange Sonne, Wind und Regen ausgesetzt gewesen. Es war ein Stück aus dem Annoncenteil, oben weiß-gelber, schmieriger Rand, und auf diesen Rand hatte jemand mit brauner Farbe, offenbar mit einem Stückchen zugespitzten Holzes als Feder in ungeschickten, lateinischen Buchstaben hingemalt:
+
+    Helfen Sie mir. Schloß Kastello, Rauschen, Ostpreußen, Gefangener. Tumar Mangi.
+
+Das war alles.
+
+Die Einsiedlerin von Belar Bakscha.
+
+Er studierte scheinbar die Speisekarte, aber über den Rand hinweg beobachtete er die sehr elegante blonde Frau, deren reife Schönheit durch die ein wenig auffällige Kleidung noch mehr unterstrichen wurde.
+
+Diese Blonde hatte jenen Typ internationaler Abenteuerinnen, wie man ihn von Monte Carlo bis hinab nach Adelaide in Australien findet. Es ist immer Typ … Immer dieselbe Brillantenpracht, dieselbe Schminke, Puder, manikürte Händchen, blasiertes Lächeln, geborgte Vornehmheit, — dieselbe Grenzlinie zwischen Dirnentum und zeitweiliger Rückkehr in den Bereich der Dame …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (197) Ein Gast in der Nacht.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
