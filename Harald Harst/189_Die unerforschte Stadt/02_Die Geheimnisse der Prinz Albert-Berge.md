@@ -46,7 +46,7 @@ Er ließ uns für Minuten allein, so daß ich Gelegenheit fand, Harald zu fragen
 
 »Weil der Herzog mal erwähnte, seines Freundes Loncire Gattin sei zwar in Australien geboren, im übrigen aber Pariserin und besitze noch immer eine übergroße Vorliebe für die leichtlebige Seine-Stadt. Die Frau im Auto aber trug Kleidungsstücke, die aus Paris stammten. Außerdem bewies aber auch die »unechte« gegenüber dem nunmehr festgestellten Tode des Forschungsreisenden eine solche Gefühlskälte, daß mir dies gleich etwas zu denken gab … — Warten wir ab …« —
 
-Bereits ein und drei Viertel Stunden später könnte Oberregierungsrat Bachmann uns das Fernbild überreichen.
+Bereits ein und drei Viertel Stunden später konnte Oberregierungsrat Bachmann uns das Fernbild überreichen.
 
 Ein Zweifel war unmöglich. Harst hatte recht gehabt: die Verwundete war Frau Loncire.
 
@@ -214,7 +214,7 @@ Am anderen Tage standen die beiden überlebenden Madrasleute vor dem Kriegsgeric
 
 <h3>Doktor Pillings Schlaflosigkeit.</h3>
 
-Abends acht Uhr dann große Beratung im Salon der Jacht. Harst war sehr damit einverstanden, daß außer den neun Indern, die als Träger dienen sollten, noch sechs Mann der Besatzung der »India« und auch Doktor Pilling die Expedition mitmachten, denn er rechnete mit aller Bestimmtheit damit, daß Fran Lucie Barne inzwischen irgendwo an der zerklüfteten, buchtenreichen Südküste gelandet war, und daß sie uns mit Hilfe einer Bande farbigen Gesindels überfallen würde.
+Abends acht Uhr dann große Beratung im Salon der Jacht. Harst war sehr damit einverstanden, daß außer den neun Indern, die als Träger dienen sollten, noch sechs Mann der Besatzung der »India« und auch Doktor Pilling die Expedition mitmachten, denn er rechnete mit aller Bestimmtheit damit, daß Frau Lucie Barne inzwischen irgendwo an der zerklüfteten, buchtenreichen Südküste gelandet war, und daß sie uns mit Hilfe einer Bande farbigen Gesindels überfallen würde.
 
 Schon am Nachmittag hatten wir in Granville bei dem englischen Polizeichef Nachfrage gehalten, ob in Granville in den letzten Tagen fremde Farbige, Inder oder Malaien aufgetaucht seien. Doch — keinerlei verdächtige Gestalten waren beobachtet worden, und auch unsere eigene Aufmerksamkeit vermochte nichts festzustellen, was auf die Anwesenheit feindlicher Spione in Granville hingedeutet hätte.
 
@@ -222,7 +222,7 @@ Schon am Nachmittag hatten wir in Granville bei dem englischen Polizeichef Nachf
 
 Die Vorbereitungen wurden denn auch sofort begonnen, das Gepäck verteilt, die Waffen nochmals nachgesehen, der Patronenvorrat abgeschätzt und ergänzt, die für die Goldgräberei nötigen Werkzeuge, Sprengstoffe und so weiter ebenfalls einer Prüfung unterzogen.
 
-Die sechs Matrosen der »India«, die uns außer den neun Indern noch begleiten sollten, waren Mischlinge mit völlig europäischem Gesichtsschnitt, alle sechs bereits mehrere Jahre auf der »India«. Sie und die neun Träger hatten jeder rund vierzig Pfund Gepäck zu schleppen, das in sehr bequemen Rucksäcken verstaut war. Wir Weißen, der Lord, Doktor Pilling und Harst und ich, trugen jeder etwa zwanzig Pfund in gleicher Weise. — Noch in derselben Nacht gegen ein Uhr verließ die Pinasse die Jacht und schlängelte sich bei leichtern Tropenregen zum Hafen hinaus. Eine Stunde später setzte sie uns in einer Bucht an Land. —
+Die sechs Matrosen der »India«, die uns außer den neun Indern noch begleiten sollten, waren Mischlinge mit völlig europäischem Gesichtsschnitt, alle sechs bereits mehrere Jahre auf der »India«. Sie und die neun Träger hatten jeder rund vierzig Pfund Gepäck zu schleppen, das in sehr bequemen Rucksäcken verstaut war. Wir Weißen, der Lord, Doktor Pilling und Harst und ich, trugen jeder etwa zwanzig Pfund in gleicher Weise. — Noch in derselben Nacht gegen ein Uhr verließ die Pinasse die Jacht und schlängelte sich bei leichtem Tropenregen zum Hafen hinaus. Eine Stunde später setzte sie uns in einer Bucht an Land. —
 
 Auf Einzelheiten unseres Marsches durch die bergige Wildnis kann ich mich hier nicht einlassen.
 
@@ -278,7 +278,7 @@ Und da — ein heller, breitrandiger Strohhut, ein Nackenschleier …
 
 Harst — Harst tief gebückt den Boden musternd, nach Fährten suchend …
 
-Ich bin bei ihm … Er sagt achselzuckend: »Der Mann ist spurlos verschwunden … Hier stand er … Da siehst die Eindrücke seiner derben Stiefel. Und das seltsame: er trug Matrosentracht und einen ähnlichen Strohhut wie wir! Ich erkannte sogar am blauen Blusenärmel irgendein Abzeichen. Es mag ein goldener Anker gewesen sein. — Jede weitere Fährte fehlt …« Harald hat immer langsamer gesprochen. So, als ob ganz besondere Gedanken sein Hirn durchkreuzen … Dann — in so versonnener Art, daß meine Unruhe und nervöse Spannung sich noch, mehr steigert: »Überhaupt, mein Alter, — wir sind nicht von Gefahren, aber von Geheimnissen umgeben … Pilling ist eine sehr rätselhafte Persönlichkeit. Seine Schlaflosigkeit war Schwindel. Als er in der dritten Nacht aus dem Zelte schlich, habe ich den Zeltpflock an meiner Seite gelockert und bin ihm gefolgt. Er kroch auf allen Vieren davon und traf mit einem Manne unweit des Lagerplatzes zusammen, von dem ich in der Dunkelheit nur die Matrosentracht und den blonden Vollbart und einen Strohhut erkannte. Ob dieser Mann derselbe war, den ich heute hier bemerkte, weiß ich nicht. Jedenfalls hat Pilling häufiger mit ihm nächtliche Zusammenkünfte gehabt. Leider glückte es mir nie, die beiden zu belauschen. Sie waren außerordentlich vorsichtig, und nur eins stellte ich fest: sie sprachen Deutsch miteinander! — Was hältst du davon? — Pilling ist erst bei Wolpoore Leibarzt geworden, nachdem meine Kabeldepesche an den Lord abgegangen war, — drei Tage später erhielt Pilling die Stellung, und nur deshalb, weil Pilling glänzende Zeugnisse aufweisen konnte. Ist dir nicht aufgefallen, daß der Doktor niemals über seine Vergangenheit spricht und stets den Zugeknöpften spielt?!«
+Ich bin bei ihm … Er sagt achselzuckend: »Der Mann ist spurlos verschwunden … Hier stand er … Da siehst die Eindrücke seiner derben Stiefel. Und das seltsame: er trug Matrosentracht und einen ähnlichen Strohhut wie wir! Ich erkannte sogar am blauen Blusenärmel irgendein Abzeichen. Es mag ein goldener Anker gewesen sein. — Jede weitere Fährte fehlt …« Harald hat immer langsamer gesprochen. So, als ob ganz besondere Gedanken sein Hirn durchkreuzen … Dann — in so versonnener Art, daß meine Unruhe und nervöse Spannung sich noch mehr steigert: »Überhaupt, mein Alter, — wir sind nicht von Gefahren, aber von Geheimnissen umgeben … Pilling ist eine sehr rätselhafte Persönlichkeit. Seine Schlaflosigkeit war Schwindel. Als er in der dritten Nacht aus dem Zelte schlich, habe ich den Zeltpflock an meiner Seite gelockert und bin ihm gefolgt. Er kroch auf allen Vieren davon und traf mit einem Manne unweit des Lagerplatzes zusammen, von dem ich in der Dunkelheit nur die Matrosentracht und den blonden Vollbart und einen Strohhut erkannte. Ob dieser Mann derselbe war, den ich heute hier bemerkte, weiß ich nicht. Jedenfalls hat Pilling häufiger mit ihm nächtliche Zusammenkünfte gehabt. Leider glückte es mir nie, die beiden zu belauschen. Sie waren außerordentlich vorsichtig, und nur eins stellte ich fest: sie sprachen Deutsch miteinander! — Was hältst du davon? — Pilling ist erst bei Wolpoore Leibarzt geworden, nachdem meine Kabeldepesche an den Lord abgegangen war, — drei Tage später erhielt Pilling die Stellung, und nur deshalb, weil Pilling glänzende Zeugnisse aufweisen konnte. Ist dir nicht aufgefallen, daß der Doktor niemals über seine Vergangenheit spricht und stets den Zugeknöpften spielt?!«
 
 »Einer von Frau Barnes Bande?« — und als ich diese Frage gestellt hatte, erschien sie mir töricht und gedankenlos, denn natürlich mußte Doktor Pilling ein Spion der Feinde sein.
 
@@ -324,7 +324,7 @@ Ein Fehltritt — ein Ausrutschen, Ausgleiten, und man war geliefert!
 
 Wir hatten die Büchsen umgehängt, hielten uns an Steinzacken fest, kamen wohlbehalten unten an und setzten unseren Weg mit frischem Mute fort.
 
-Der Bach trat zehn Minuten später nach scharfer Krümmung durch ein haushohes Felsentor wieder ins Freie … Sonnenlicht flutete uns entgegen … Ein weites Tal, von mächtigen Gebirgsstöcken umrahmt, zeigte uns alle Pracht tropischen Pflanzenwuchses — ein wahrer Garten Eden! Drei Meilen mochte dieses von aller Welt völlig abgeschlossene Tal lang sein, mindestens eine Meile breite. In der Mitte gleißte der Spiegel eines großen Sees, der von dem Bache gebildet wurde. Palmenhaine wechselten mit Pandanen- und Eukalyptuswäldern ab. Weite Grasflächen schimmerten in hellerem Grün.
+Der Bach trat zehn Minuten später nach scharfer Krümmung durch ein haushohes Felsentor wieder ins Freie … Sonnenlicht flutete uns entgegen … Ein weites Tal, von mächtigen Gebirgsstöcken umrahmt, zeigte uns alle Pracht tropischen Pflanzenwuchses — ein wahrer Garten Eden! Drei Meilen mochte dieses von aller Welt völlig abgeschlossene Tal lang sein, mindestens eine Meile breit. In der Mitte gleißte der Spiegel eines großen Sees, der von dem Bache gebildet wurde. Palmenhaine wechselten mit Pandanen- und Eukalyptuswäldern ab. Weite Grasflächen schimmerten in hellerem Grün.
 
 Wir hatten eine Anhöhe erstiegen, und als wir nun den Blick nach rechts wandten, gewahrten wir dreierlei: Mitten in einer köstlichen Savanne einen ungeheuren einzelnen Felsblock, hundert Meter nach Osten zu aber einen jener altehrwürdigen Brotfruchtbäume, deren Stamm häufig bis zu fünf bis sieben Meter Durchmesser erreicht. Zwischen diesen beiden Merkzeichen aber (»Stein« und »Frucht« der Skizze fraglos!) lag etwas nach Norden zu ein wild zerklüfteter Felshügel. — Und das dritte: jenseits der Savanne an einer Bucht des Sees erkannten wir zierliche Häuschen, blinkende Fensterscheiben, Tiergehege, in denen sich Rinder, Schafe, Schweine und Känguruhs tummelten …
 
@@ -378,13 +378,13 @@ Darunter drei unleserliche Namen als Unterschrift. Nur die Vornamen waren leidli
 
 Daß es sich hier um eine rein deutsche Niederlassung handelte, war uns ja längst zur Gewißheit geworden.
 
-Und doch — wo kamen diese Kolonisten her, die hier auf Neuguinea, das doch für Deutschland genau so wie alle anderen Kolonien längst verlorengegangen war, sich in diesem Weltabgeschiedenheit niedergelassen hatten …?!
+Und doch — wo kamen diese Kolonisten her, die hier auf Neuguinea, das doch für Deutschland genau so wie alle anderen Kolonien längst verlorengegangen war, sich in dieser Weltabgeschiedenheit niedergelassen hatten …?!
 
 Hatte denn Doktor Ralph Loncire, als er 1921 dieses von allen Seiten durch Berge verrammelte Tal und auch die Goldader entdeckt hatte, diese Stadt noch nicht angetroffen? War sie erst nachher erbaut worden? — Freilich, alle diese Häuser, deren Zahl ich auf etwa vierhundert schätzte, machten den Eindruck von Neubauten, konnten vielleicht zwei, drei Jahre stehen.
 
 Sinnend, aber auch von einem stillen Grauen durchbebt, wenn mein Blick die Toten streifte, stand ich da …
 
-Harst meinte da: »Sie haben in rund vier Jahren eine ganze Stadt in der Wildnis erstehen lassen … Das bringt nur deutscher Fleiß und deutsche Fähigkeit fertig … — Schau dort drüben hin — zwei Sagemühlen …! Daneben offenbar noch andere Fabrikanlagen — mit Ausnutzung der Wasserkraft des Gießbaches, der dort von der Talwand herabschießt.«
+Harst meinte da: »Sie haben in rund vier Jahren eine ganze Stadt in der Wildnis erstehen lassen … Das bringt nur deutscher Fleiß und deutsche Fähigkeit fertig … — Schau dort drüben hin — zwei Sägemühlen …! Daneben offenbar noch andere Fabrikanlagen — mit Ausnutzung der Wasserkraft des Gießbaches, der dort von der Talwand herabschießt.«
 
 »Wer — — sie?!« fragte ich ungeduldig. »Wer?! Woher kamen diese hunderte von Deutschen? Niemand daheim weiß etwas von dieser Siedlung, niemand in Granville ahnt etwas davon!! Kein Mensch in Granville kann von dieser Stadt Kenntnis haben … Man hätte uns doch sonst …«
 
@@ -496,7 +496,7 @@ Goldader!! — Wie klug gewählt war diese schnelle Erwähnung des lockenden Ede
 
 Die Pistolen senkten sich etwas …
 
-Harst fuhr fort: »Ich soll diese Million für Frau Loncire abheben … Ich habe keine Lust, mein Leben hier um dieser einen Million wegen einzubüßen … — Hier ist der Scheck … Bitte — prüft ihm Wenn ihr wollt, gebe ich euch meinen Ausweis mit … Dann könnt ihr die Summe abheben — einer von euch als Harald Harst. Meine Unterschrift werdet ihr ja wohl unschwer nachmalen können …«
+Harst fuhr fort: »Ich soll diese Million für Frau Loncire abheben … Ich habe keine Lust, mein Leben hier um dieser einen Million wegen einzubüßen … — Hier ist der Scheck … Bitte — prüft ihn. Wenn ihr wollt, gebe ich euch meinen Ausweis mit … Dann könnt ihr die Summe abheben — einer von euch als Harald Harst. Meine Unterschrift werdet ihr ja wohl unschwer nachmalen können …«
 
 Er hielt Tim den Scheck hin …
 
@@ -544,7 +544,7 @@ Wir erreichen den Tunnel … das Bachufer. Harald weist auf eine Schleuse, die w
 
 »Wenn sie es schließen, füllt sich der Tunnel,« meint Harst. »Dann ist dieses Tal von allen Seiten abgesperrt … — Hinein in den Tunnel!«
 
-Nach einer halben Stunde sind wir wieder drüben am anderen Ausgang, im anderen Tale … Und nun, als Harald gemächlich eine Zigarette anzündet, sagte er: »Im Jahre 1914 im Juli, verließ der deutsche Dampfer »Pommerania« mit achthundert Ansiedler den Bremer Hafen. Als der Dampfer sich der Küste von Deutsch-Neuguinea näherte, wo die Ansiedler ausgebootet werden sollten, war inzwischen der Weltkrieg ausgebrochen. Ein feindlicher Hilfskreuzer wollte die »Pommerania« anhalten. Der deutsche Kapitän rammte im Einverständnis mit der Besatzung und den Auswanderern den Gegner, der bereits das Feuer auf die »Pommerania« eröffnet hatte. Von den Feinden kam nicht einer mit dem Leben davon. Die hochgehende See machte Rettungsversuche unmöglich. Aber ein holländischer Küstenfahrer hatte von fern alles beobachtet. Die Sache wurde bekannt, und die Engländer suchten nun die inzwischen an einsamer Stelle gelandeten »Pommerania«-Leute einzukreisen und zur Verantwortung zu ziehen — ohne Erfolg. Man hat nie mehr etwas von ihnen gehört, und auch Doktor Loncire ahnte nicht, daß die in Hütten hausenden Ansiedler, auf die er in jenem Tale stieß, die Gesuchten seien.«
+Nach einer halben Stunde sind wir wieder drüben am anderen Ausgang, im anderen Tale … Und nun, als Harald gemächlich eine Zigarette anzündet, sagte er: »Im Jahre 1914 im Juli, verließ der deutsche Dampfer »Pommerania« mit achthundert Ansiedlern den Bremer Hafen. Als der Dampfer sich der Küste von Deutsch-Neuguinea näherte, wo die Ansiedler ausgebootet werden sollten, war inzwischen der Weltkrieg ausgebrochen. Ein feindlicher Hilfskreuzer wollte die »Pommerania« anhalten. Der deutsche Kapitän rammte im Einverständnis mit der Besatzung und den Auswanderern den Gegner, der bereits das Feuer auf die »Pommerania« eröffnet hatte. Von den Feinden kam nicht einer mit dem Leben davon. Die hochgehende See machte Rettungsversuche unmöglich. Aber ein holländischer Küstenfahrer hatte von fern alles beobachtet. Die Sache wurde bekannt, und die Engländer suchten nun die inzwischen an einsamer Stelle gelandeten »Pommerania«-Leute einzukreisen und zur Verantwortung zu ziehen — ohne Erfolg. Man hat nie mehr etwas von ihnen gehört, und auch Doktor Loncire ahnte nicht, daß die in Hütten hausenden Ansiedler, auf die er in jenem Tale stieß, die Gesuchten seien.«
 
 »Woher weißt du das alles?« fragte ich verwundert …
 
