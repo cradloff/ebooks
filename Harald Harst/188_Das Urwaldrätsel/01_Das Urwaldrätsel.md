@@ -74,7 +74,7 @@ Die Zigarette im linken Mundwinkel, hielt er mit weit ausgebreiteten Händen ein
 
 »Stelle den Blechtrichter ab, mein Alter … Das Ding stört mich jetzt …«
 
-»Was hast du denn in der alten zerknitterten Zeitung so Interessantes gefunden?« fragte ich etwas ironisch und schaltete den Apparat aus. »Ich glaube,« fügte ich lauter hinzu, daß ich dir weit Wichtigeres berichten kann …«
+»Was hast du denn in der alten zerknitterten Zeitung so Interessantes gefunden?« fragte ich etwas ironisch und schaltete den Apparat aus. »Ich glaube,« fügte ich lauter hinzu, »daß ich dir weit Wichtigeres berichten kann …«
 
 »So?!«
 
@@ -118,7 +118,7 @@ Was mir sehr gleichgültig war …
 
 Nach wenigen Minuten hörten wir Mathilde zurückkehren.
 
-Harald erhob sich aus dem Schreibsessel. …
+Harald erhob sich aus dem Schreibsessel …
 
 »Ich muß mir noch Federn holen,« sagte er merklich geistesabwesend. »Ein kleiner Spaziergang kann mir nichts schaden … Wiedersehen …«
 
@@ -410,7 +410,7 @@ Ich schenke ein … Wir setzen uns auf das Sofa. Harald nimmt sein Glas …
 
 Der Mann stürzt das Glas Portwein in einen Zug hinab, leckt sich die Lippen …
 
-Wir haben ihm gleich nach Betreten des Zimmers Handfesseln und Knebel abgenommen. Jetzt blicke der Mensch sehnsüchtig auf den mit Zigaretten gefüllten Silberkasten … Langt auf einen Wink Haralds zu, reibt ein Zündholz an … Widerliche schmutzige Spinnenfinger hat der Bursche. Sein fuchsiges Mähnenhaar ist fraglos falsch, und auch die Ränder unter den Augen erscheinen mir getuscht.
+Wir haben ihm gleich nach Betreten des Zimmers Handfesseln und Knebel abgenommen. Jetzt blickt der Mensch sehnsüchtig auf den mit Zigaretten gefüllten Silberkasten … Langt auf einen Wink Haralds zu, reibt ein Zündholz an … Widerliche schmutzige Spinnenfinger hat der Bursche. Sein fuchsiges Mähnenhaar ist fraglos falsch, und auch die Ränder unter den Augen erscheinen mir getuscht.
 
 Er raucht, starrt vor sich hin …
 
@@ -500,7 +500,20 @@ Blinzelt uns frech an … —
 
 Ich streiche den Zettel glatt. Wir lesen:
 
-> > <em>Urwaldrätsel</em>.
+<p class="centered"><em>Urwaldrätsel</em>.</p>
+
+<p class="pre indent2">Wo das heilige Wort
+An verborgenem Ort
+Von Rittern ward beschützt,
+Dort der Eine sitzt.
+Vom heiligen Wort
+Eile nach Südwest fort,
+Erreiche das Schloß
+Mit grünlichem Moos,
+Poche nur an, sage das Wort
+Dreimal vor der Türe dort,
+Füge hinzu das lohende Grün,
+Und man wird am Türschloß ziehn.</p>
 
 Harst wirft Starnbeck einen fragenden Blick zu …
 
@@ -510,9 +523,12 @@ Theo stammelt: »Die Rückseite, Herr Harst … Die Adresse!«
 
 Da steht tatsächlich — ebenfalls mit Tinte in derselben klobigen, schmucklosen Schrift:
 
+<p class="centered">Jakob Schmelzer, Grenadierstr. 8,</p>
+<p class="centered">2. Hof links III.</p>
+
 »Wohl die Adresse eines Hehlers?« meint Harald, knüllt den Zettel zusammen und wirft ihn in den Papierkorb. »Wir werden weder Ihnen noch Ihrem Hehler etwas antun, Starnbeck, wenn Sie ehrlich sind … Kennen Sie James Barne?«
 
-Starnbeck steht auf … reckt die Schwurhand gen Himmel. »Herr Harst. beim Andenken meiner Eltern: ich kenne keinen Barne! Ich hoffte bei Ihnen auf dem Boden Wäsche und Kleidungsstücke zu finden … Sie sehen ja, wie abgerissen ich bei der Kälte umherlaufe! Ich wußte, daß Sie keine Hunde halten … Ich stellte es mir sehr leicht vor, gerade bei Ihnen …«
+Starnbeck steht auf … reckt die Schwurhand gen Himmel. »Herr Harst, beim Andenken meiner Eltern: ich kenne keinen Barne! Ich hoffte bei Ihnen auf dem Boden Wäsche und Kleidungsstücke zu finden … Sie sehen ja, wie abgerissen ich bei der Kälte umherlaufe! Ich wußte, daß Sie keine Hunde halten … Ich stellte es mir sehr leicht vor, gerade bei Ihnen …«
 
 »Schon gut …« — Harald scheint zu überlegen. Sagt dann: »Maskieren Sie sich wieder … Wir werden Ihnen einen alten Mantel und anderes schenken und Sie nicht weiter behelligen. Nur einen Gegendienst verlange ich. Ich glaube, daß unser Haus bewacht wird. Klettern Sie nachher wieder zum Bodenfenster hinaus und an der Linde in den Vorgarten hinab. Schauen Sie sich genau auf der Straße um. Falls Sie etwas Auffälliges bemerken, zünden Sie sich eine Zigarette auf der anderen Straßenseite an. Und — werden Sie ehrlich, Starnbeck! Hier sind fünfzig Mark. Fangen Sie ein besseres Leben an …«
 
@@ -722,7 +738,7 @@ Ich stapfte also durch den Schnee zum Pensionat zurück, sah unsere »Freunde« 
 
 Als ich Harald dann im Zimmer berichtete, was ich im Kaufmannsladen erlauscht hatte, und die Bemerkung daran knüpfte, daß seine Annahme, der Herzog befinde sich als Gefangener in dem Jagdschloß, unter diesen Umständen doch wohl kaum zutreffen dürfte, es sei denn, die Leute nähmen Daugberry mit sich, erwiderte er prompt:
 
-»Die Herrschaften haben, wie du mir soeben mitteiltest, zehn Pfund Mehl, vier Büchsen Sardinen, zwei große Büchsen Konservenfleisch, fünf Pfund Butter und vier Dauerwürste eingekauft, außer Kaffee, Tee und zehn Tafeln Schokolade … — Meinst du, daß dies alles der alte Fischer Radtke den Hunden geben soll?!« — Harald kann in gewissen Momenten unangenehm ironisch sein. In diesem Falle hatten er mit seiner Ironie recht: ich war geradezu blamabel gedankenlos gewesen, hätte mir selbst sagen müssen, daß diese Spießgesellen des Mr. Barne mit ihrer Abreise nur Spiegelfechterei trieben!
+»Die Herrschaften haben, wie du mir soeben mitteiltest, zehn Pfund Mehl, vier Büchsen Sardinen, zwei große Büchsen Konservenfleisch, fünf Pfund Butter und vier Dauerwürste eingekauft, außer Kaffee, Tee und zehn Tafeln Schokolade … — Meinst du, daß dies alles der alte Fischer Radtke den Hunden geben soll?!« — Harald kann in gewissen Momenten unangenehm ironisch sein. In diesem Falle hatte er mit seiner Ironie recht: ich war geradezu blamabel gedankenlos gewesen, hätte mir selbst sagen müssen, daß diese Spießgesellen des Mr. Barne mit ihrer Abreise nur Spiegelfechterei trieben!
 
 »Die Bande bleibt also hier!« meinte ich kleinlaut …
 
@@ -730,7 +746,7 @@ Als ich Harald dann im Zimmer berichtete, was ich im Kaufmannsladen erlauscht ha
 
 »Allerdings …«
 
-»Und in Wahrheit wird das alte Ehepaar und die beiden Kerle, die sich die Schwindsucht ins Gesicht getuscht haben, irgendwo in verborgenen Gelassen hausen — im Kellen wahrscheinlich. Das Schloß ist alt, und der Großherzog, der es einmal erbauen ließ, war ein halber Sonderling und liebte das Romantische. Da wird er fraglos auch in der Gralsburg geheime Gemächer geschaffen haben, und …«
+»Und in Wahrheit wird das alte Ehepaar und die beiden Kerle, die sich die Schwindsucht ins Gesicht getuscht haben, irgendwo in verborgenen Gelassen hausen — im Keller wahrscheinlich. Das Schloß ist alt, und der Großherzog, der es einmal erbauen ließ, war ein halber Sonderling und liebte das Romantische. Da wird er fraglos auch in der Gralsburg geheime Gemächer geschaffen haben, und …«
 
 »Still …!« unterbrach ich ihn und deutete durch das Fenster auf die Straße …
 
