@@ -162,9 +162,9 @@ Ich verstand ihn sofort. »Du glaubst, daß die Frau uns von deinem Schlafzimmer
 
 Jetzt griff er in die Tasche, strich den zerknitterten Briefbogen glatt und las vor (englischer Text):
 
-> »Wir haben noch miteinander abzurechnen, Mr. Harst. Ich rate Ihnen dringend, Ihre Angelegenheiten in Ordnung zu bringen. Vierundzwanzig Stunden, und die Rechnung ist glatt«
+> »Wir haben noch miteinander abzurechnen, Mr. Harst. Ich rate Ihnen dringend, Ihre Angelegenheiten in Ordnung zu bringen. Vierundzwanzig Stunden, und die Rechnung ist glatt.«
 
-»Ganz nett — kurz und bündig, mein Alter … Dem Weibe ist so allerhand zuzutrauen … Wir werden gut tun, uns ein wenig ich acht zu nehmen …«
+»Ganz nett — kurz und bündig, mein Alter … Dem Weibe ist so allerhand zuzutrauen … Wir werden gut tun, uns ein wenig in acht zu nehmen …«
 
 »Wer ist’s? Hast du eine Ahnung?«
 
@@ -172,13 +172,13 @@ Jetzt griff er in die Tasche, strich den zerknitterten Briefbogen glatt und las 
 
 »Kennst du denn die Handschrift?«
 
-»Nein. Und wenn du wissen willst, ob mir die Fußspur in dem Brei der zertretenen Kartoffel bekannt ist, muß ich genau so mit Nein antworten. Ich vermute, daß die Frau mit zu James Barnes famosem Detektivinstitut gehört, das ja in Wahrheit nur eine Verbrecherbande großzügigster Art gewesen ist. Soweit mir im Augenblick gegenwärtig, war Barne verheiratet ober besser — ist verheiratet. Vielleicht hat seine Frau, fraglos ähnlichen Schlages wie er, mir nun den Krieg erklärt, da sie sich hinsichtlich des Schicksals ihres Mannes kaum einer Täuschung hingeben dürfte. Er wird aufgeknüpft werden.«
+»Nein. Und wenn du wissen willst, ob mir die Fußspur in dem Brei der zertretenen Kartoffel bekannt ist, muß ich genau so mit Nein antworten. Ich vermute, daß die Frau mit zu James Barnes famosem Detektivinstitut gehört, das ja in Wahrheit nur eine Verbrecherbande großzügigster Art gewesen ist. Soweit mir im Augenblick gegenwärtig, war Barne verheiratet oder besser — ist verheiratet. Vielleicht hat seine Frau, fraglos ähnlichen Schlages wie er, mir nun den Krieg erklärt, da sie sich hinsichtlich des Schicksals ihres Mannes kaum einer Täuschung hingeben dürfte. Er wird aufgeknüpft werden.«
 
 »Hm — so hältst du diesen Besuch der Donna Unbekannt also für eine Fortsetzung des Gralsburg-Abenteuers?! Ist diese Annahme nicht etwas kühn?! Wir haben doch schließlich weit mehr Feinde als nur die vielleicht noch auf freiem Fuße befindlichen »Kollegen« der glorreichen Detektei Barne …!«
 
 Harst nahm mit einem Male die Zigarette aus dem Mundwinkel und lauschte …
 
-Auch ich hörte trotz des nicht geringen Lärms, den der Wintersturm an den Giebeln, Erkern und Schornsteinen unseres freistehenden Hauses vollführte, ganz deutlich, daß draußen ein Kraftwagen vor unserer Gitterpforte vorgefahren war. Die Pforte wurde regelmäßig um neun Uhr abends von der dicken Mathilde verschlossen. Für einen leidlich gewanden Menschen war es jedoch ein leichtes, sie zu überklettern, was schon so mancher späte Ratsuchende getan hatte. Es befand sich jedoch links an der Pforte unter dem Briefkasten auch der deutlich sichtbare Knopf einer elektrischen Zugglocke, so daß niemand, den nicht gerade Erregung, Angst und Eile vollends blind machten, turnerische Übungen zu vollbringen brauchte, um bis zur Haustür zu gelangen.
+Auch ich hörte trotz des nicht geringen Lärms, den der Wintersturm an den Giebeln, Erkern und Schornsteinen unseres freistehenden Hauses vollführte, ganz deutlich, daß draußen ein Kraftwagen vor unserer Gitterpforte vorgefahren war. Die Pforte wurde regelmäßig um neun Uhr abends von der dicken Mathilde verschlossen. Für einen leidlich gewandten Menschen war es jedoch ein leichtes, sie zu überklettern, was schon so mancher späte Ratsuchende getan hatte. Es befand sich jedoch links an der Pforte unter dem Briefkasten auch der deutlich sichtbare Knopf einer elektrischen Zugglocke, so daß niemand, den nicht gerade Erregung, Angst und Eile vollends blind machten, turnerische Übungen zu vollbringen brauchte, um bis zur Haustür zu gelangen.
 
 Wir warteten nun, ob die Flurglocke anschlagen würde.
 
@@ -242,11 +242,11 @@ Langsam zog er die Hände heraus …
 
 Und — — urplötzlich fühlte ich da, wie mir etwas Kaltes über das Gesicht strich …
 
-Meine klugen brannten jäh wie Feuer …
+Meine Augen brannten jäh wie Feuer …
 
 Gleichzeitig mit diesem Säurestrahl, den der kleine Schuft mir vermittels eines in der linken Hand verborgenen Balles von unten her unter die Brille gespritzt hatte, schlug er mir mit der anderen Hand die Pistole zur Seite …
 
-Ich war geblendet, aber auch für Minuten von so scheußlichen Schmerzen in den Augen gepeinigt, daß ich sogar um Hilfe zu rufen vergaß. …
+Ich war geblendet, aber auch für Minuten von so scheußlichen Schmerzen in den Augen gepeinigt, daß ich sogar um Hilfe zu rufen vergaß …
 
 Außerdem hatte auch nur der eine entsetzliche Gedanke in meinem überhitzten Hirn Raum: du wirst das Augenlicht verlieren, wirst blind werden.
 
@@ -434,7 +434,7 @@ Der Chauffeur kam nicht dazu sofort zu antworten. Vor uns tauchten sechs Gestalt
 
 <h3>Die Unbekannte.</h3>
 
-Über die Arbeitsmethode der Mordkommission der Kriminalpolizei einer Weltstadt ist bereits in so zahlreichen Zeitungsberichten oder in frei erfundenen Kriminalromanen gesagt worden, daß ich nur das hervorheben will, was Harsts Anteil an den Nachforschungen am Tatorte betrifft. — Der Chauffeur erzählte, daß die Dame auf dem Potsdamer Platz seinen Wagen an die Bordschwelle gewinkt habe. Die Dame habe außer dem ledernen Handtäschchen, das noch jetzt unten im Auto läge, nichts weiter bei sich gehabt, weder Schirm noch Koffer, obwohl sie zweifellos aus dem Hauptgebäude des Potsdamer Bahnhofs gekommen sei. Sie habe ihm in etwas gebrochenem Deutsch befohlen, nach der Blücherstraße in Schmargendorf zu fahren und dann links in den Feldweg einzubiegen, der sich an der Rückseite der Blücherstraße zwischen deren Häusern und dem Laubengelände hinziehe. Die Dame wußte sehr gut Bescheid und gab dem Chauffeur so genaue Anweisungen, daß er auch unschwer die Zufahrt zu dem Feldwege fand, wo er nach fünfzig Schritt halten sollte. Das linke Türfenster ließ die Dame vor Antritt der Fahrt herab. Sie machte einen sehr erhitzten, erregten Eindruck und blickte sich, bevor sie einstieg, mehrmals um, als ob sie in dem vorüberflutenden Menschengewühl irgend jemand suchte, — Als der Chauffeur das Auto dann stoppte, regte sich im Innern des Wagens nichts. Er kletterte vom Fahrersitz herab und sah zu seinem Schreck in dem erleuchteten Wagen (das Auto hatte Deckenlicht) die Dame halb in einer Ecke liegen — wie jetzt noch. Er suchte sie aufzurichten, dabei glitt der Kopf zur Seite, und er bemerkte Blut in den Haaren des Hinterkopfes, das bis ins Genick hinabgerieselt war und auch die Polsterung beschmutzt hatte. Da er an einen Selbstmord glaubte, sich aber anderseits auch sagte, man könnte womöglich ihn selbst für den Täter halten, lief er die kurze Strecke bis zur Blücherstraße zurück und bat hier einen gerade vorüberkommenden Herrn, die nächste Revierwache zu verständigen. — — Der Chauffeur war ein älterer Mann, und seine Aussage machte in allem einen durchaus glaubwürdigen Eindruck.
+Über die Arbeitsmethode der Mordkommission der Kriminalpolizei einer Weltstadt ist bereits in so zahlreichen Zeitungsberichten oder in frei erfundenen Kriminalromanen gesagt worden, daß ich nur das hervorheben will, was Harsts Anteil an den Nachforschungen am Tatorte betrifft. — Der Chauffeur erzählte, daß die Dame auf dem Potsdamer Platz seinen Wagen an die Bordschwelle gewinkt habe. Die Dame habe außer dem ledernen Handtäschchen, das noch jetzt unten im Auto läge, nichts weiter bei sich gehabt, weder Schirm noch Koffer, obwohl sie zweifellos aus dem Hauptgebäude des Potsdamer Bahnhofs gekommen sei. Sie habe ihm in etwas gebrochenem Deutsch befohlen, nach der Blücherstraße in Schmargendorf zu fahren und dann links in den Feldweg einzubiegen, der sich an der Rückseite der Blücherstraße zwischen deren Häusern und dem Laubengelände hinziehe. Die Dame wußte sehr gut Bescheid und gab dem Chauffeur so genaue Anweisungen, daß er auch unschwer die Zufahrt zu dem Feldwege fand, wo er nach fünfzig Schritt halten sollte. Das linke Türfenster ließ die Dame vor Antritt der Fahrt herab. Sie machte einen sehr erhitzten, erregten Eindruck und blickte sich, bevor sie einstieg, mehrmals um, als ob sie in dem vorüberflutenden Menschengewühl irgend jemand suchte. — Als der Chauffeur das Auto dann stoppte, regte sich im Innern des Wagens nichts. Er kletterte vom Fahrersitz herab und sah zu seinem Schreck in dem erleuchteten Wagen (das Auto hatte Deckenlicht) die Dame halb in einer Ecke liegen — wie jetzt noch. Er suchte sie aufzurichten, dabei glitt der Kopf zur Seite, und er bemerkte Blut in den Haaren des Hinterkopfes, das bis ins Genick hinabgerieselt war und auch die Polsterung beschmutzt hatte. Da er an einen Selbstmord glaubte, sich aber anderseits auch sagte, man könnte womöglich ihn selbst für den Täter halten, lief er die kurze Strecke bis zur Blücherstraße zurück und bat hier einen gerade vorüberkommenden Herrn, die nächste Revierwache zu verständigen. — — Der Chauffeur war ein älterer Mann, und seine Aussage machte in allem einen durchaus glaubwürdigen Eindruck.
 
 Den ganzen Umständen nach konnte die Frau nur während der Fahrt von einem Unbekannten, der sich irgendwie unbemerkt in den Wagen geschwungen hatte, (die Kraftwagen müssen ja an Straßenkreuzungen häufig längere Zeit halten) erschossen worden sein. Selbstmord war unmöglich, wie der Polizeiarzt schon nach flüchtiger Besichtigung der Wunde betonte. Außerdem, hob er hervor, hätte die Frau nach dieser Gehirnverletzung auch niemals mehr die Kraft gehabt, die Waffe etwa zum offenen Fenster hinauszuschleudern.
 
@@ -442,7 +442,7 @@ Wie der Arzt die Tote nun in eine andere Lage brachte, stutzte er mit einem Male
 
 »Sie lebt noch … Merkwürdig, der Puls geht ganz kräftig …«
 
-Es stellte sich heraus, daß die Kugel dicht unter der Hirnschale saß und daß sie das Gehirn kaum allzusehr verletzt haben könnte.
+Es stellte sich heraus, daß die Kugel dicht unter der Hirnschale saß und daß sie das Gehirn kaum allzusehr verletzt haben konnte.
 
 Bevor die Bewußtlose dann in ein Krankenhaus geschafft wurde, durchsuchte man noch ihr Handtäschchen und die Taschen ihres Pelzes. Nichts war darin — gar nichts. Sie trug auch nicht ein einziges Schmuckstück, keinen Ring — nichts.
 
