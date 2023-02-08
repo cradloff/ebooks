@@ -1,3 +1,7 @@
 <div class="anmerkungen">Anmerkungen</div>
 
 <@footnote 1 "02_Das Tagebuch des Henkers.md">August Sternickel (* 11. Mai 1866 in Mschanna (Kreis Rybnik); † 30. Juli 1913 in Frankfurt an der Oder (hingerichtet)) war ein deutscher Brandstifter und Mörder. Bekannt wurden vor allem zwei Taten 1905 und 1913, bei denen er die Leichen seiner Opfer jeweils bei gelegten Bränden verbrannte. In der Zeit zwischen den Taten wurde er steckbrieflich gesucht, war allerdings unter falschen Namen unterwegs und blieb verschwunden. Die jahrelange Suche führte in der Zeit zu einem regelrechten Sternickel-Schrecken in der Bevölkerung, bei der ihm Brände von Bauernhäusern im gesamten Gebiet des Deutschen Reiches in der Öffentlichkeit zugeschrieben wurden. Auch nach seiner Verurteilung 1913 war der Fall Sternickel Gegenstand von Moritaten auf Jahrmärkten und auch Gegenstand von Zeitungsberichten.</@footnote>
+
+<@footnote 2 "02_Das Tagebuch des Henkers.md">In der Vorlage steht: »einundzwanzig«. Zwei Vorkommen auf »neunzehn« geändert. Erklärung dazu siehe Anmerkung 3.</@footnote>
+
+<@footnote 3 "02_Das Tagebuch des Henkers.md">In der Vorlage steht: »zweiundzwanzig«. Hier irrt der Dichter: Im Kapitel davor ist von zweiundzwanzig Totenköpfen die Rede, wovon aber zwei Goldplomben haben und neueren Datums sind – also auf das Konto von Frau Prenderlax kommen. Somit kann Bastimon nur zwanzig Opfer auf dem Gewissen haben. Deshalb auf »zwanzig« geändert.</@footnote>
