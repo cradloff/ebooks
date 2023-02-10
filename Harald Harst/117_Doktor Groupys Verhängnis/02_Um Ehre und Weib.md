@@ -13,7 +13,7 @@ Dr. Groupys diesen Titel wählte, so muß das wohl
 seine Gründe haben.
 
 In der Tat: hier ist dieser schmalzige Titel durchaus am
-Platze, er trifft den Nagel auf den Kopf! Er deutet
+Platze, er trifft … den Nagel auf den Kopf! Er deutet
 auf das hin, was den Inhalt der folgenden Seiten bildet.
 Und mehr kann man von einem Titel nicht verlangen. —
 
@@ -45,7 +45,7 @@ Der dritte einen Kopf kleiner, etwas korpulent, ein
 freundliches Gesicht … Und — das bin ich, Max Schraut.
 
 Alle drei aber in schwarzen, einknöpfigen Jackenanzügen
-nach der neuesten Mode, in Halblaufschuhen, um die Schultern
+nach der neuesten Mode, in Halblackschuhen, um die Schultern
 leichte dunkle Mäntel …
 
 So werden wir in der Vorhalle von dem Hausmeister
@@ -57,13 +57,13 @@ Doris Effingham ihre Freunde zum Tee empfängt. —
 Lord Walltour, Haralds alter Freund, führt uns ein.
 
 Wen Lord Walltour, zweiter Sohn des Herzogs von
-Rencire, irgendwohin mitbringt, der ist willkommen —
+Rancire, irgendwohin mitbringt, der ist willkommen —
 überall …
 
 Wir verneigen uns vor der hellblonden Milliardärstochter,
 vor Lady Doris Effingham, geborene Randerfield.
 
-Walltour stellt uns vor.
+Walltour stellt uns vor …
 
 Die ganze illustre Gesellschaft ist auf uns beide aufmerksam
 geworden.
@@ -73,7 +73,7 @@ Sensation in diesem Kreise, wo einer den andern so genau
 kennt und wo selbst neu Eingeführte zum mindesten berühmte
 <@pagebreak/>
 Namen oder berühmte Gesichter haben müssen — berühmt
-durch Bilder in Zeitschriften, Monatsheften.
+durch Bilder in Zeitschriften, Monatsheften …
 
 Und wir nun — wir werden so schlicht als Mr. Harald
 Harst und Mr. Max Schraut vorgestellt.
@@ -97,20 +97,20 @@ Kreis …
 Und Walltour sagt zu Lady Effingham:
 
 »Heute mittag überraschte mich mein lieber alter Harald
-durch seinen Besuch … Das war eine Freude. — Und
+durch seinen Besuch … Das war eine Freude …!! Und
 nun bringe ich Ihnen diesen prächtigen Menschen und seinen
 ebenso prächtigen Freund Schraut, Mylady …! Zwei
 Künstler — Künstler auf einem besonderen Gebiet …«
 
 Und zu den Anwesenden gewandt:
 
-»Ein großer Geist unter uns, einer, dem nichts verborgen
+»Ein großer Geist ist unter uns, einer, dem nichts verborgen
 bleibt … nichts …!«
 
 Walltour lächelte und schob seinen Arm in den Haralds.
 
 »Wer ein gutes Gewissen hat, braucht ihn nicht zu fürchten.
-Wer es nicht hat — fliehe!«
+Wer es nicht hat — — fliehe!«
 
 Lady Doris hatte sich längst gefaßt …
 
@@ -125,7 +125,7 @@ zwanzig neue Gäste erschienen — standen Harald und ich im
 Musiksalon und ließen eine übermoderne Opernouvertüre
 unsere Ohren malträtieren …
 
-Der Künstler am Flügel war ein Russe, der Komponist
+Der Künstler am Flügel war ein Russe: der Komponist
 selbst …
 
 <@pagebreak/>
@@ -198,7 +198,7 @@ und der Lord mich, blieben stehen …
 
 Harald machte mich mit Effingham bekannt …
 
-Nun hörte ich auch die Stimme, eine tiefe volle, weiche
+Nun hörte ich auch die Stimme, eine tiefe, volle, weiche
 Stimme — aber auch ohne Charakter, auch zu weibisch …
 
 Und — das nun sollte derselbe Mann sein, der in einer
@@ -240,7 +240,7 @@ Mylord …«
 diesen Fall einmal auf meine Bitte hin zu untersuchen?« —
 In seine heiteren, lebenslustigen Augen war da ein Schein
 von argwöhnischem Lauern getreten … Ein unsicheres
-Schimmern, von dem er selbst nichts ahnte.
+Flimmern, von dem er selbst nichts ahnte.
 
 »Ja — er interessiert mich bereits,« erwiderte Harald
 und betonte das »bereits«. »Und — Mylord wissen das
@@ -336,11 +336,11 @@ Doris Effingham …!«
 Und er — er blickte an mir vorbei, schüttelte leicht den
 Kopf und meinte:
 
-»Die ist es nicht! Wir werden …«
+»Die ist es nicht! Wir werden —«
 
 Und da — — öffnete sich hastig dieselbe Tür …
 
-Lady Doris trat allein ein …
+Lady Doris trat eiligst ein …
 
 <@pagebreak/>
 
@@ -433,7 +433,7 @@ Da begann sie zaghaft:
 Mister Harst?«
 
 »Oh — über die zehn Minuten, nicht wahr? — Ich
-meinte damit nur, daß wir sehr bald einig werden können,
+meinte damit nur, daß wir sehr bald einig werden könnten,
 Mylady … Sie haben doch fraglos ein Anliegen an mich.«
 
 »Ja …«
@@ -468,7 +468,7 @@ was mich veranlaßte, diese Unterredung herbeizuführen.«
 
 Sie starrte Harald an.
 
-»Radio … telegramm?!« Ganz fassungslos schüttelte
+»Radio…telegramm?!« Ganz fassungslos schüttelte
 sie den Kopf. »Ich — — verstehe Sie nicht, Mister Harst!«
 
 »Ist auch nicht nötig. — Ich soll also einen Mann
@@ -477,7 +477,7 @@ suchen, der verschwunden ist …«
 Sie nickte schwach, flüsterte …
 
 »Es — es ist — ein — Indianer … Das heißt natürlich:
-ein zivilisierten Indianer, vom Stamme der Seminolen,
+ein zivilisierter Indianer, vom Stamme der Seminolen,
 die einst in Florida wohnten und nun in einer Reservation
 leben …«
 
@@ -499,7 +499,7 @@ war, schaukelte er mich auf seinen Knien …«
 
 Sie sprach plötzlich wie verträumt …
 
-Sie mochte vielleicht merkwürdige Bilder, aus einer
+Sie mochte vielleicht merkwürdige Bilder aus einer
 fernen Vergangenheit im Geiste sehen …
 
 <@pagebreak/>
@@ -560,7 +560,7 @@ Sie blieb stumm …
 Und totenstill war’s in dem kleinen intimen Gemach …
 
 <@pagebreak/>
-Zart und wie ein Hauch von Jugendlust wehte der Wohlgeruch
+Zart und wie ein Hauch von Jugendluft wehte der Wohlgeruch
 Lady Doris’ zu mir herüber …
 
 Zart und wie ein Hauch nun ihre Stimme:
@@ -613,7 +613,7 @@ Dann ging sie …
 Und wir waren allein …
 
 Harald setzte sich wieder, meinte leise: »Wir haben noch
-eine Stunde Zeit — erst um halb acht ist das Auto bestellt,
+eine Stunde Zeit … erst um halb acht ist das Auto bestellt,
 <@pagebreak/>
 das uns nach Harwich bringen soll — uns, unsere
 Koffer und unseren Diener, den Doktor Gybourg …«
@@ -648,7 +648,7 @@ Effingham niemals vermutet hätten:
 Die Tür flog auf. Zwei Kerle mit struppigen Bärten
 … Zwei Hiebe mit nassen Sandsäcken …
 
-Zwei Bewußtlose auf dem Teppich …
+Zwei Bewußtlose auf dem Teppich …:
 
 Wir …!!
 
@@ -711,8 +711,8 @@ Ich — schlief ein …
 
 Erwachte jäh …
 
-Fühlte mich emporgehoben … fühlte frische, kühle
-Luft. Hörte die See rauschen …
+Fühlte mich emporgehoben … Fühlte frische, kühle
+Luft … Hörte die See rauschen …
 
 »Die Bucht von Harwich — — die Katzeninsel!« schoß
 es mir durch den Kopf.
@@ -784,7 +784,7 @@ und das Boot scheuerte mit schrillen Quietschtönen am Stege.
 
 Wieder die rauhe Stimme:
 
-»Hallo, old Tobby!! Melde dich doch!! — — Verdammt
+»Hallo, old Tobby!! Melde Dich doch!! — — Verdammt
 <@pagebreak/>
 — der Kerl hat die Zeit verschlafen! Charly, mach’
 fix, hole ihn!«
@@ -849,12 +849,12 @@ Fesselte jemand hinter mir an denselben Baum …
 
 Ellenbogen berührten sich, bewegten sich, telegraphierten.
 
-Harsts war’s mein Harald Harst!! Er depeschierte:
+Harsts war’s — mein Harald Harst!! Er depeschierte:
 
 <@pagebreak/>
 
 > »Paracolea hat Tom und Charly niedergeschlagen.
-Ich kann meine Binde nicht lockern. Versuche Du es.
+Ich kann meine Stricke nicht lockern. Versuche Du es.
 Ich werde mich etwas drehen. Vielleicht erreichen Deine
 Finger die Knoten meiner Handfesseln.«
 
@@ -870,7 +870,7 @@ diese Anstrengungen waren.
 
 Harald depeschierte: »Aufhören! Erfolglos!«
 
-Und so standen wir denn unter dem rauschenden, tropfendem
+Und so standen wir denn unter dem rauschenden, tropfenden
 Baume und warteten — warteten, was sich nun wohl
 weiter ereignen würde …
 
@@ -895,7 +895,7 @@ Dann entfernte er meine Kopfumhüllung …
 Dann … sah ich nichts als einen dunklen Schatten in
 dieser stockfinsteren Nacht vor mir …
 
-Und — auch den Knebel entfernte der Seminole, nun
+Und — auch den Knebel entfernte der Seminole, tat
 dasselbe bei Harst, fragte dann:
 
 »Wer sind Sie, meine Herren?«
@@ -962,7 +962,7 @@ um Mund und Augen …
 
 <@pagebreak/>
 Und eine Gestalt, tadellos gewachsen, muskulös, leicht
-in den Bewegungen, ohne Hast …
+in den Bewegungen, ohne Hast … —
 
 Harald hockte vor dem Ofen und warf Holz nach …
 Knisternd, knallend flammten die Scheite auf …
@@ -980,7 +980,7 @@ sich jetzt mit untergeschlagenen Beinen gleichfalls vor dem
 Ofen nieder, legte die Arme auf die Knie und starrte unverwandt
 in das hellbrennende Feuer.
 
-Sein dunkles Bronzegesicht, umspielt von dem zuckenden
+Sein dunkles Bronzegesicht, umspielt von dem zuckenden rötlichen
 Schein, regte sich nicht, als er nun klar und deutlich
 sagte:
 
@@ -1083,15 +1083,15 @@ Grase liegen, mit blutigen Köpfen, aber — um diese Köpfe
 waren kunstlose Verbände aus Zeugfetzen geschlungen …
 
 »Tom und Charly!« sagte Harald und beugte sich herab.
-»Sie leben, sind nur bewußtlos … — Ah — es sind Ausländer,
+»Sie leben, sind nur bewußtlos … — Ah — es sind Irländer,
 beide … Da — dieser Schädelbau und dieses
 brandrote Haar sind nur in Irland anzutreffen, und die
 Hirndecke eines Iren konkurriert an Festigkeit mit der eines
 Negers. — Der Seminole glaubt, die beiden erschlagen zu
-haben, hat aber trotzdem, weil noch Leben in ihnen war die
+haben, hat aber trotzdem, weil noch Leben in ihnen war, die
 Verletzungen verbunden. Ich wußte, daß dieser Paracolea
-kein roher Bösewicht ist …« und leiser — jetzt wieder
-Dunkelheit ringsum —: »das erste Boot legt bereits an!
+kein roher Bösewicht ist …« Und leiser — jetzt wieder
+Dunkelheit ringsum —: »Das erste Boot legt bereits an!
 Beobachten wir!«
 
 Vorsichtig schoben wir uns bis an den Rand des Buschstreifens.
@@ -1158,7 +1158,7 @@ Und in der Art, wie dies geschah, lag so viel Kraft, so
 <@pagebreak/>
 viel sichere Gewandtheit, gleichzeitig aber auch in dem flammenden
 Blick der Augen so viel verstecktes Drohen, daß Lord
-Roger etwas zurückwich.
+Roger unwillkürlich etwas zurückwich.
 
 Vielleicht war’s aber gerade dieses Zeichen von ungewisser
 Furcht, das Effingham sofort wieder auszugleichen
@@ -1183,7 +1183,7 @@ Haltung war stolz, fast gebieterisch. Aber in seinem bartlosen,
 faltenreichen Kupfergesicht lag wieder ein deutlicher
 Ausdruck von Schwermut und Trauer.
 
-Effingham schien einzusehen, das er auf diese Weise nicht
+Effingham schien einzusehen, daß er auf diese Weise nicht
 zum Ziele käme. Mit einem ärgerlichen Auflachen, das nur
 die soeben erfahrene Demütigung bemänteln sollte, warf er
 sich in einen Stuhl und sagte ironisch:
@@ -1211,14 +1211,14 @@ haben müßte, zu mildern, dahin zu bringen, daß sie …
 vergessen lernte …! Eine Unselige war sie, hin und her
 schwankend zwischen der starken, wahren Herzensneigung zu
 ihrem Gatten John Gybourg und den Erinnerungen an
-das, was zwischen ihr und mir einst gewesen …!! Ein
+das, was zwischen ihr und mir einst gewesen …! Ein
 unausgeglichener Charakter, eine Frau, die allzu gern Lady
 Effingham werden wollte, die völlig unter dem Einfluß ihrer
 intriganten Mutter stand, eines Weibes, halb Abenteurerin,
 halb Spielerin, halb Dirne …!«
 
 Paracoleas dunkle Augen hingen wie gebannt an des
-Lords nunmehr von Bart und Maske befreiten Gesicht …
+Lords nunmehr von Bart und Maske befreitem Gesicht …
 
 Als Effingham nun wie erschöpft schwieg und mit einer
 trostlosen Handbewegung den Kopf sinken ließ, sagte der
@@ -1241,7 +1241,7 @@ unselige Mord jemals noch die Öffentlichkeit wieder beschäftigen
 könnte. Jetzt, wo der deutsche Detektiv hier zu allem
 Unglück mit Gybourg bekannt geworden ist und ich mich bereits
 einmischen mußte, damit Gybourg nicht als Schuldloser
-aufgeknüpft würde — jetzt haben auch Sie allen Grund,
+aufgeknüpft würde, — jetzt haben auch Sie allen Grund,
 <@pagebreak/>
 Paracolea, mich als Verbündeten zu betrachten. Reden Sie!
 Haben Sie Ellen Gybourg ermordet, damit Ihres Lieblings
@@ -1295,7 +1295,7 @@ senkten sich halb …
 
 »Dann — dann war es doch Doris, die es tat …«
 murmelte er, und wie ein Frostschauer ging’s über seine
-Gestalt hin. »Doch also … Doris!! Ich … ich habe
+Gestalt hin. »Doch … also … Doris!! Ich … ich habe
 es befürchtet! Ich Unseliger!! Wenn ich nie auf den Gedanken
 gekommen wäre, von Ellen meine Photographie
 zurückzuverlangen!«
@@ -1319,7 +1319,7 @@ Treiben von Goldgräberlagern, nur zu leicht wieder zum
 Durchbruch kommt, daß es Augenblicke gibt, wo selbst mich
 ihre Zügellosigkeit erschreckt …! — Wo ist Harst?«
 
-»Draußen, Mylord … draußen im Freien — irgendwo
+»Draußen, Mylord, … draußen im Freien — irgendwo
 … Wir hörten das Motorboot nahen … Da verließ
 er mit seinem Freunde dieses Häuschen …«
 
@@ -1535,10 +1535,10 @@ In der Brust der Modellpuppe steckte der Dolch … —
 
 Ich begriff jetzt alles, riß den Brief auf, las vor:
 
-»Die Mörderin Ellen Gybourgs beging die Tat so, wie
+> »Die Mörderin Ellen Gybourgs beging die Tat so, wie
 ich’s soeben an dem Modell vorgeführt habe. Die Mörderin
 ist Ellens Stiefmutter Lizzia Marmarty, dereinst Varieteekünstlerin,
-Künstlerin, Messerwerferin. Sie wohnte zur
+Kunstschützin, Messerwerferin. Sie wohnte zur
 Zeit des Mordes hier in diesen Hotelzimmern, die ich jetzt
 belegt habe. Sie mordete, um zu verheimlichen, daß sie einen
 großen Teil des Vermögens ihrer Tochter verspielt hatte.
@@ -1546,9 +1546,9 @@ Weitere Einzelheiten mündlich. Harald Harst.« —
 
 Inspektor Colley konnte nur noch Frau Marmartys
 Leiche beschlagnahmen. Sie hatte sich vergiftet, als ich kaum
-die Hälfte des Briefes verlesen hatte — mit Zyankali …
+die Hälfte des Briefes verlesen hatte — mit Cyankali …
 Sie starb, bevor Harald noch wieder hier drüben erschienen
-war — —
+war. — —
 
 Ich habe nur noch hinzuzufügen, daß Paracolea jetzt
 Schloßverwalter bei Lord Effingham ist und daß Lady
