@@ -1,17 +1,17 @@
 <@pagebreak 3/>
 
-<h1>Der Teckel mit zwei Köpfen.</h1>
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 <h3>Ein Trunkenbold.</h3>
 
-Der Teckel mit zwei Köpfen 45
+Der Teckel mit zwei Köpfen ...
 
-Der Leser wird sofort an eine Mißgeburt aha — »in
+Der Leser wird sofort an eine Mißgeburt denken — und
 denkt daneben.
 
-Dieser Teckel steht auf dem zweiten Brett fest In
-tätenschranfes neben anderen Erinnerungsstüfen an merkwürdige
+Dieser Teckel steht auf dem zweiten Brett unseres
+Raritätenschranfes neben anderen Erinnerungsstücken an merkwürdige
 Abenteuer, die uns in den meisten Fällen ein Zufall
 bescherte, denn die ganz seltenen, wirklich eigenartigen
 Probleme sind ja gewöhnlich so beschaffen, daß die zunächst
@@ -23,21 +23,21 @@ So sind es denn in den weitaus meisten Fällen dieser
 Art lediglich Fernstehende, die irgendeine besondere, auffällige
 Beobachtung gemacht haben und die in Gedanken das
 Geschaute, Erlauschte oder sonstwie zu ihrer Kenntnis Gelangte
-oft tagelang als unruhestiftenden Fremdkörper in ihres Alltagstrott8
-geregelter; yp 12,3« Heu, Da Erschießen,
-ein an eine Bar bei Ehre
+oft tagelang als unruhestiftenden Fremdkörper in ihres Alltagstrotts
+geregelter Bahn verspüren, bevor sie sich entschließen,
+sich an eine berufene Stelle zu wenden.
 
 <@pagebreak/>
-Es war an einem sehr ungemütlichen Herbstabend. Sturm —
-und gelegentliche Regenschauer umfauchten das alte Harstsche —
+Es war an einem sehr ungemütlichen Herbstabend. Sturm
+und gelegentliche Regenschauer umfauchten das alte Harstsche
 Familienhaus. So gegen neun Uhr saßen Harald und ich in
 der Bibliothek, die ja gleichzeitig Musikzimmer ist.
 
-Harst spielte auf dem Geistern ganz leise die wundervollstem
+Harst spielte auf dem Bechstein ganz leise die wundervollsten
 Stellen aus Puccinis sentimentaler, etwas weichlicher
 Boheme. Ich las im Klubsessel neben dem Kaminofen Doktor
-Alters Berichte über die neuesten Forschungen in der Adels
-Bergen Grotte.
+Alders Berichte über die neuesten Forschungen in der Adelsberger
+Grotte.
 
 Plötzlich brach Harst mitten im Spiele ab.
 
@@ -47,18 +47,18 @@ sagte er …
 Ich wandte den Kopf …
 
 »Das Geknatter des Regens gegen die Fenster schläfert
-ein …« entschuldigte im mich.
+ein …« entschuldigte ich mich.
 
 Haralds Gesicht lag im Schatten. Die elektrische Klavierlampe
 beschien den leeren Notenständer, die Tasten und Harsts
 reglos auf der Klaviatur ruhende schmale, weiße, nervöse
-Hände mit dem Starb hervortretenden bläulichen Steuer.
+Hände mit dem stark hervortretenden bläulichen Adernetz.
 
 »Ja — die Fenster!« nickte er nur. »Die sind’s …! Du
-hast die Vorhänge nachlässig zugezogen und die Läden übers
+hast die Vorhänge nachlässig zugezogen und die Läden über-
 Haupt nicht geschlossen. Du spielst zuweilen mit unserem
 Leben … Wenn nun die Frau da draußen auf dem Mauervorsprung,
-die durch das Ebfenster uns beobachtet und nicht
+die durch das Eckfenster uns beobachtet und nicht
 ahnt, daß sie mit ihrem Kopf mir die Aussicht auf die
 Straßenlaterne versperrt, eine Pistole hätte und zu denen
 gehörte, die uns nicht gerade wohlgesinnt sind, etwa die Geliebte
@@ -71,14 +71,14 @@ leicht zu überklettern, und sie ist kräftig, denn sie steht nun
 schon eine Viertelstunde dort in einer immerhin recht unbequemen
 Stellung, außerdem gehört sie zu den wohlhabenden
 <@pagebreak/>
-Kreisen, denn ihr Seitenhöhlen mit Reihergarnierung Fürst«
-bei diesem Hundewetter zum Teufel gehen, und die Ging«
+Kreisen, denn ihr Seidenhütchen mit Reihergarnierung dürfte
+bei diesem Hundewetter zum Teufel gehen, und die Ringe
 an ihrer unbehandschuhten Linken brillieren sehr stark …«
 
 Er spielte ein paar Akkorde, lächelte …
 
-»Zur Strafe wirst du nun gähnend dich erheben, wir’s!
-dich reden und stecken und mir scheinbar Gute Naht wünschen,
+»Zur Strafe wirst du nun gähnend dich erheben, wirst
+dich recken und strecken und mir scheinbar Gute Nacht wünschen,
 dann durch den Hof in den Vorgarten schleichen und
 die Dame freundlichst einladen, näherzutreten …«
 
@@ -86,18 +86,18 @@ Weiß Gott — ich war munter geworden …
 
 Tat, wie Harald befohlen, drückte ihm die Hand und
 gähnte so kräftig, daß er meinte, nur in der Mäßigung zeige
-ein der Meister …
+sich der Meister …
 
 Dann war ich in Regenpelerine mit über die Glatze gestreifter
 Kapuze im Vorgarten.
 
-Dicke Frau hatte ihren Beobachtungsposten mochte nicht aufgegeben.
+Die Frau hatte ihren Beobachtungsposten noch nicht aufgegeben.
 Sie trug einen vor Nässe triefenden, dunklen, seidig
 glänzenden Gummimantel, moderne, helle Strümpfe und
 ausgeschnittene Lackschuhe.
 
 Unbemerkt war ich ihr in den Rücken gelangt. Der breite
-Schatten einer der Kastanienbäume schütte sie gegen Sicht
+Schatten einer der Kastanienbäume schützte sie gegen Sicht
 von der Straße her. Unsere Blücherstraße war freilich auch
 bei derartigem Sauwetter stets wie ausgestorben.
 
@@ -113,12 +113,12 @@ Harsts Klavierspiel war gedämpft bis hierher zu hören.
 Und elegant sprang sie herab, stand dicht vor mir …
 
 »Ich schwärme für Puccini, Herr Schraut … Ich hätte
-längst Einlaß begehrt, wenn’s nicht gerade »Boheme gewesen
+längst Einlaß begehrt, wenn’s nicht gerade Boheme gewesen
 wäre …«
 
 »Sie sind leider etwas feucht geworden, meine Gnädigste.«
 
-»Co — das macht nichts … Es war sehr schön …«
+»O — das macht nichts … Es war sehr schön …«
 
 »Wenn ich Sie bitten dürfte, hineinzukommen, meine
 Gnädigste … Mein Freund hat Sie längst bemerkt …«
@@ -134,7 +134,7 @@ holen … Gehen wir … Eis regnet in der Tat recht kräftig
 »Sie sind eine eigentümliche Musikschwärmerin, Gnädigste
 … Bitte folgen Sie mir …«
 
-Hm Vorderflur half ich ihr aus dem Mantel. Sie nahm
+Im Vorderflur half ich ihr aus dem Mantel. Sie nahm
 vor dem Spiegel auch den teuren, durchweichten Hut ab, ordnete
 ihr aschblondes Haar und betrat Haralds hell erleuchtetes
 Arbeitszimmer.
@@ -142,26 +142,27 @@ Arbeitszimmer.
 Harst stand schon wartend unter dem brennenden Kronleuchter.
 
 Seine grauen Augen musterten flüchtig die schlanke Gestalt
-in dem braunen Führer und dem englischen braunen
-Patronen. Mit leichter Verbeugung sagte er:
+in dem braunen Tuchrock und dem englischen braunen
+Pullower. Mit leichter Verbeugung sagte er:
 
 »Schraut, — dies hier ist Fräulein Gerda Alster, die bekannte
 Tennisspielerin, Tochter des Kommerzienrats Jan
 Alster … — Gnädiges Fräulein, nehmen Sie bitte dort am
 warmen Kamin Platz, denn diese Halblackschuhe sind für dieses
 Wetter und für derartige spätabendliche Exkursionen wenig
-geeignet …
+geeignet …"
 
-Nun, 4 Licht entpuppte sich Gerda Alster, die in Sportzeitschriften
+Nun, bei Licht entpuppte sich Gerda Alster, die in Sportzeitschriften
 oft genug abgebildet wurde, als ein frisches, rassiges
 junges Mädchen mit offenen, regelmäßigen Zügen, braunen
 Augen und einem etwas sinnlichen Munde, aber recht
 energischer Kinnpartie.
 
 Mit der zwanglosen Sicherheit der Dame von Welt, setzte
-sie sich in den Saffiansessel und stierte die Füße mit den
+sie sich in den Saffiansessel und streckte die Füße mit den
 durchnäßten Strümpfen und Schuhen gegen das Kamingitter
 vor.
+
 Harst kam mit einem Glase Portwein … »Bitte, gnädiges
 Fräulein …« — »Zu nett von Ihnen … Wie anders ich
 mir Sie doch vorgestellt habe, Herr Harst …! Man macht sich
@@ -172,8 +173,8 @@ Sie zeigen … Tatsache!« Sie hob mit graziösen
 Lächeln ihr Glas gegen uns … »Ihr Wohl, meine Herren
 … — Ja, so ein wenig durchgefroren bin ich wirklich …
 Auch die Zigarette nehme ich mit Dank an … Besonders, da
-Sie mir sicherlich keine zweite anbieten werden, Herr Harsts,
-wenn Sie erst wissen, welcher Nichtigkeit wegen ich Sie. des
+Sie mir sicherlich keine zweite anbieten werden, Herr Harst,
+wenn Sie erst wissen, welcher Nichtigkeit wegen ich Sie be-
 lästige …«
 
 Wir setzten uns ihr gegenüber. Harst in den alten, geschnitzten
@@ -183,13 +184,13 @@ Nachbar haben …«
 
 Sie errötete plötzlich …
 
-»Wahrhaftig, — Sie sind Gedankenleser, Herr Harst!! Indirekt
+»Wahrhaftig, — Sie sind Gedankenleser, Herr Harst! Indirekt
 handelt es sich wirklich um Doktor Griffon. Kennen
 Sie ihn?«
 
 »Persönlich nicht. Ich weiß nur aus seinen gelegentlichen
 Aufsätzen über Tibet, daß er seinerzeit der jüngste Begleiter
-Omen Ledige bei dessen letzter Tibetdurchquerung
+Swen Hedins bei dessen letzter Tibetdurchquerung
 war, daß er die Villa neben der Ihres Herrn Vaters in der
 Grunewaldstraße in Steglitz, unweit des Botanischen Gartens,
 seit einem Jahre bewohnt und daß er dem … Trunke ergeben
@@ -198,79 +199,78 @@ ist — leider …!«
 »Ja — es ist jammerschade um Doktor Griffon. Er sieht
 Ihnen entfernt ähnlich, Herr Harst, und sein Diener hat es
 recht schwer mit ihm. Griffon ist Engländer, hat aber eine
-deutete Mutter. Und … — — doch nein, ich will alles
-der Reihe naß erzählen. Meine Zimmer liegen im ersten
-Stock unserer Villa naß der Seite hinaus, Herr Harst, und
+deutsche Mutter. Und … — — doch nein, ich will alles
+der Reihe nach erzählen. Meine Zimmer liegen im ersten
+Stock unserer Villa nach der Seite hinaus, Herr Harst, und
 so kann ich denn vom Fenster meines kleinen Salons aus
 gerade in Griffons Arbeitszimmer hineinschauen. Sein
 Schreibtisch steht schräg vor dem linken Fenster, und jeden
-Abend gegen ist Uhr erscheint Griffons Diener James und
-paßt mit einem Lappen den Kopf des Bronzeteckels, der auf
+Abend gegen elf Uhr erscheint Griffons Diener James und
+putzt mit einem Lappen den Kopf des Bronzeteckels, der auf
 <@pagebreak/>
-Griffons Schreibtisch neben dem großen Acattintenfaß seinen
+Griffons Schreibtisch neben dem großen Achattintenfaß seinen
 Platz hat. Jeden Abend … Das beobachte ich nun schon
 drei Wochen. Kurz nach elf kommt dann Griffon heim, stets
 leicht animiert … stets, setzt sich an den Schreibtisch und
 raucht eine Zigarre nach der anderen und schreibt. Er muß
 an einem wissenschaftlichen Werke arbeiten. Meist gegen
 ein Uhr schläft er über seiner Arbeit ein. Sein Kopf sinkt
-auf die Arme, und obwohl James ihn dann zu weder sucht
-und geradezu wütend »seinen Herrn aufschreit und mit den
-Armen gestikuliert …
+auf die Arme, und obwohl James ihn dann zu wecken sucht
+und geradezu wütend seinen Herrn anschreit und mit den
+Armen gestikuliert …"
 
-»Halt — — er »Welt den Schlafenden nicht?«
+»Halt — — er rüttelt den Schlafenden nicht?«
 
-»Rein … das wagt er wohl nicht … — Jedenfalls wacht
+»Nein … das wagt er wohl nicht … — Jedenfalls wacht
 der Doktor erst gegen vier wieder auf …«
 
 »Immer zu derselben Zeit?«
 
-»X …
+»Ja …"
 
-»Und »dann?«
+»Und dann?«
 
 »Erhebt er sich taumelnd und geht wohl in sein Schlafzimmer,
 nachdem er nur die Nachtlampe ausgeschaltet hat …
-Seine Schreiberei läßt er gen wie alles liegt. — Eigentlich
-wäre das alles, Herr Harst …
+Seine Schreiberei läßt er liegen wie alles liegt. — Eigentlich
+wäre das alles, Herr Harst …"
 
-»Hm — Sie haben zu »erwähnen vergessen, gnädiges
+»Hm — Sie haben zu erwähnen vergessen, gnädiges
 Fräulein, daß Doktor Griffon Ihnen — verzeihen Sie die
-Offenheit — als Mann nicht gleichgültig ist …
+Offenheit — als Mann nicht gleichgültig ist …"
 
 Wieder errötete sie. Aber sie schaute Harst voll an und
 erwiderte: »Sie haben recht, Herr Harst. Griffon tut mir
 leid … Sein einsames, alkoholverseuchtes Leben ist eine jämmerliche
 Daseinsführung für einen Menschen, der mit Sven
-Ledig als Siebzehnjähriger all den Gefahren Tibets Grotte
+Hedin als Siebzehnjähriger all den Gefahren Tibets trotzte
 und der aus Abenteurerlust als so junger Student in der
-Maske eines Karawanenträgers sich unter Ledige Leute
+Maske eines Karawanenträgers sich unter Hedins Leute
 eingeschmuggelt und dies sein Geheimnis volle fünfzehn Jahre
 bewahrt hatte … — Herr Harst, dieser Mann ist es fraglos
-wert, daß Sie sich bemühen, herauszubekommen, weshalb er —
-… Grinsen geworden, weshalb er allabendlich stumpfsinnig
+wert, daß Sie sich bemühen, herauszubekommen, weshalb er
+… Trinker geworden, weshalb er allabendlich stumpfsinnig
 in derselben elenden Kneipe an der Ecke der Zehlendorfer
 <@pagebreak/>
 Allee ist und ein Glas Kognak nach dem andern hinabgießt
 als wäre es Wasser. Er soll, so hat unser Chauffeur ermittelt,
-jeden Abend über eine halbe Flasche Kognak trinken.
-soll nie mit einem anderen Gast auch nur ein einziges Vor!
-wechseln, und nur den Musikautomaten neben seinem Stamm:-
-platt dauernd mit Münzen füttern — immer dasselbe Stück
+jeden Abend über eine halbe Flasche Kognak trinken,
+soll nie mit einem anderen Gast auch nur ein einziges Wort
+wechseln, und nur den Musikautomaten neben seinem Stamm-
+platz dauernd mit Münzen füttern — immer dasselbe Stück
 spielen lassen …«
 
 »Welches?«
 
-»Die Suite aus Peer Gynt von Grieg. — Um acht beim!!
-er die Kutscherkneipe, um drei Viertel elf zahlt er und sei!
-
+»Die Suite aus Peer Gynt von Grieg. — Um acht betritt
+er die Kutscherkneipe, um drei Viertel elf zahlt er und geht
 … Und daheim putzt James den Teckelkopf, legt Federhalter
 und Papier zurecht … — Es ist ein Jammer …«
 
 Jetzt war sie nicht mehr das übermütige, sichere, selbstbewußte
 Persönchen.
 
-In ihren Augen schimmerte der weiche Glanz eher, tiefe:
+In ihren Augen schimmerte der weiche Glanz echter, tiefer
 Zuneigung und eines großen, wehen Kummers …
 
 »Kennen Sie Griffon persönlich, gnädiges Fräulein?«
@@ -280,18 +280,18 @@ fragte Harald.
 wirklich ähnlich, Herr Harst … Nur hat er so unendlich
 melancholische Augen …«
 
-»Mit einem Wort: Sie vermuten, daß seine Trunksucht!
+»Mit einem Wort: Sie vermuten, daß seine Trunksucht
 irgendeine geheime Ursache hat?«
 
-— Sehen Sie, Herr Harst, ich konnte mich mit
+"Ja ... — Sehen Sie, Herr Harst, ich konnte mich mit
 dieser Angelegenheit nicht gut an irgendeinen Berufsdetektiv
 wenden. Diese Leute sind selten verschwiegen. Und selbst
 wenn sie es selbst sind, so sind’s doch ihre Hilfskräfte nicht.
-Nur ein Gentleman, ein Herr wie Sie, der das Ungewöhn- …
-lie lediglich aus spöttischer Neigung sucht, bot mir die Gewähr,
+Nur ein Gentleman, ein Herr wie Sie, der das Ungewöhn-
+liche lediglich aus sportlicher Neigung sucht, bot mir die Gewähr,
 daß es nicht eines Tages in Berlin heißt: Gerda Alster
-liebt den verrückten Doktor Brüsten Griffon! — Ich liebe
-ihn nicht … Nein, nur rein trauliches Mitleid ist’s, das …«
+liebt den verrückten Doktor Bruston Griffon! — Ich liebe
+ihn nicht … Nein, nur rein frauliches Mitleid ist’s, das …«
 
 Harst hatte den Kopf gesenkt und die Augen geschlossen.
 
@@ -303,26 +303,26 @@ Ich winkte ihr beruhigend zu …
 Dann hob Harald wieder den Kopf …
 
 »Sie täuschen sich, gnädiges Fräulein,« sagte er, und
-griff nahm einer neuen Mirakulum. »Was Sie als Nichtigkeit
+griff nach einer neuen Mirakulum. »Was Sie als Nichtigkeit
 bezeichneten, ist zweifellos ein dunkles, ernstes Rätsel …
 — Wäre es möglich, daß Sie Schraut und mich noch an
 diesem Abend mit in Ihren Salon nähmen, damit wir
-Griffon einmal am Schnellte beobachten könnten?«
+Griffon einmal am Schreibtisch beobachten könnten?«
 
 »Aber gewiß … Es ist ja …« — sie schaute auf die
 Armbanduhr — »kaum zehn … Wenn wir ein Auto benutzen,
 sind wir um halb elf in meinem behaglich warmen Salon,
 meine Herren …«
 
-»Und Ei« Dienstboten?«
+»Und die Dienstboten?«
 
 »Unser Personal ist absolut zuverlässig, Herr Harst …
 Mein Vater und ich führen im übrigen als moderne Menschen
-sozusagen. zwei getrennte Wirtschaften. Eine Mutter
+sozusagen zwei getrennte Wirtschaften. Eine Mutter
 habe ich nicht mehr …« Das klang sehr hart und unkindlich.
 
 »Dann brechen wir am besten sofort auf,« entschied
-Tatort.
+Harald.
 
 <h2>2. Kapitel.</h2>
 <h3>Und ein Raubmörder.</h3>
