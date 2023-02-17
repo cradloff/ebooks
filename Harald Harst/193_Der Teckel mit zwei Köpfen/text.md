@@ -5,13 +5,13 @@
 <h2>1. Kapitel.</h2>
 <h3>Ein Trunkenbold.</h3>
 
-Der Teckel mit zwei Köpfen ...
+Der Teckel mit zwei Köpfen …
 
 Der Leser wird sofort an eine Mißgeburt denken — und
 denkt daneben.
 
 Dieser Teckel steht auf dem zweiten Brett unseres
-Raritätenschranfes neben anderen Erinnerungsstücken an merkwürdige
+Raritätenschrankes neben anderen Erinnerungsstücken an merkwürdige
 Abenteuer, die uns in den meisten Fällen ein Zufall
 bescherte, denn die ganz seltenen, wirklich eigenartigen
 Probleme sind ja gewöhnlich so beschaffen, daß die zunächst
@@ -55,8 +55,8 @@ reglos auf der Klaviatur ruhende schmale, weiße, nervöse
 Hände mit dem stark hervortretenden bläulichen Adernetz.
 
 »Ja — die Fenster!« nickte er nur. »Die sind’s …! Du
-hast die Vorhänge nachlässig zugezogen und die Läden über-
-Haupt nicht geschlossen. Du spielst zuweilen mit unserem
+hast die Vorhänge nachlässig zugezogen und die Läden überhaupt
+nicht geschlossen. Du spielst zuweilen mit unserem
 Leben … Wenn nun die Frau da draußen auf dem Mauervorsprung,
 die durch das Eckfenster uns beobachtet und nicht
 ahnt, daß sie mit ihrem Kopf mir die Aussicht auf die
@@ -150,7 +150,7 @@ Tennisspielerin, Tochter des Kommerzienrats Jan
 Alster … — Gnädiges Fräulein, nehmen Sie bitte dort am
 warmen Kamin Platz, denn diese Halblackschuhe sind für dieses
 Wetter und für derartige spätabendliche Exkursionen wenig
-geeignet …"
+geeignet …«
 
 Nun, bei Licht entpuppte sich Gerda Alster, die in Sportzeitschriften
 oft genug abgebildet wurde, als ein frisches, rassiges
@@ -174,8 +174,8 @@ Lächeln ihr Glas gegen uns … »Ihr Wohl, meine Herren
 … — Ja, so ein wenig durchgefroren bin ich wirklich …
 Auch die Zigarette nehme ich mit Dank an … Besonders, da
 Sie mir sicherlich keine zweite anbieten werden, Herr Harst,
-wenn Sie erst wissen, welcher Nichtigkeit wegen ich Sie be-
-lästige …«
+wenn Sie erst wissen, welcher Nichtigkeit wegen ich Sie belästige
+…«
 
 Wir setzten uns ihr gegenüber. Harst in den alten, geschnitzten
 Eichensessel. »So — eine Nichtigkeit?! Das glaube
@@ -190,7 +190,7 @@ Sie ihn?«
 
 »Persönlich nicht. Ich weiß nur aus seinen gelegentlichen
 Aufsätzen über Tibet, daß er seinerzeit der jüngste Begleiter
-Swen Hedins bei dessen letzter Tibetdurchquerung
+Sven Hedins bei dessen letzter Tibetdurchquerung
 war, daß er die Villa neben der Ihres Herrn Vaters in der
 Grunewaldstraße in Steglitz, unweit des Botanischen Gartens,
 seit einem Jahre bewohnt und daß er dem … Trunke ergeben
@@ -217,7 +217,7 @@ an einem wissenschaftlichen Werke arbeiten. Meist gegen
 ein Uhr schläft er über seiner Arbeit ein. Sein Kopf sinkt
 auf die Arme, und obwohl James ihn dann zu wecken sucht
 und geradezu wütend seinen Herrn anschreit und mit den
-Armen gestikuliert …"
+Armen gestikuliert …«
 
 »Halt — — er rüttelt den Schlafenden nicht?«
 
@@ -226,18 +226,18 @@ der Doktor erst gegen vier wieder auf …«
 
 »Immer zu derselben Zeit?«
 
-»Ja …"
+»Ja …«
 
 »Und dann?«
 
 »Erhebt er sich taumelnd und geht wohl in sein Schlafzimmer,
 nachdem er nur die Nachtlampe ausgeschaltet hat …
 Seine Schreiberei läßt er liegen wie alles liegt. — Eigentlich
-wäre das alles, Herr Harst …"
+wäre das alles, Herr Harst …«
 
 »Hm — Sie haben zu erwähnen vergessen, gnädiges
 Fräulein, daß Doktor Griffon Ihnen — verzeihen Sie die
-Offenheit — als Mann nicht gleichgültig ist …"
+Offenheit — als Mann nicht gleichgültig ist …«
 
 Wieder errötete sie. Aber sie schaute Harst voll an und
 erwiderte: »Sie haben recht, Herr Harst. Griffon tut mir
@@ -256,8 +256,8 @@ Allee ist und ein Glas Kognak nach dem andern hinabgießt
 als wäre es Wasser. Er soll, so hat unser Chauffeur ermittelt,
 jeden Abend über eine halbe Flasche Kognak trinken,
 soll nie mit einem anderen Gast auch nur ein einziges Wort
-wechseln, und nur den Musikautomaten neben seinem Stamm-
-platz dauernd mit Münzen füttern — immer dasselbe Stück
+wechseln, und nur den Musikautomaten neben seinem Stammplatz
+dauernd mit Münzen füttern — immer dasselbe Stück
 spielen lassen …«
 
 »Welches?«
@@ -283,12 +283,12 @@ melancholische Augen …«
 »Mit einem Wort: Sie vermuten, daß seine Trunksucht
 irgendeine geheime Ursache hat?«
 
-"Ja ... — Sehen Sie, Herr Harst, ich konnte mich mit
+»Ja … — Sehen Sie, Herr Harst, ich konnte mich mit
 dieser Angelegenheit nicht gut an irgendeinen Berufsdetektiv
 wenden. Diese Leute sind selten verschwiegen. Und selbst
 wenn sie es selbst sind, so sind’s doch ihre Hilfskräfte nicht.
-Nur ein Gentleman, ein Herr wie Sie, der das Ungewöhn-
-liche lediglich aus sportlicher Neigung sucht, bot mir die Gewähr,
+Nur ein Gentleman, ein Herr wie Sie, der das Ungewöhnliche
+lediglich aus sportlicher Neigung sucht, bot mir die Gewähr,
 daß es nicht eines Tages in Berlin heißt: Gerda Alster
 liebt den verrückten Doktor Bruston Griffon! — Ich liebe
 ihn nicht … Nein, nur rein frauliches Mitleid ist’s, das …«
@@ -328,15 +328,15 @@ Harald.
 <h3>Und ein Raubmörder.</h3>
 
 Ich habe es mir bei der Niederschrift unserer Abenteuer
-voll immer zur Aufgabe gemacht, meine Leser und Freunde
+noch immer zur Aufgabe gemacht, meine Leser und Freunde
 nicht lediglich zu unterhalten, sondern sie auch zum Nachdenken
 anzuregen. Der Fall Griffon, der meinem Freunde
 so überaus reichlich Gelegenheit bot, seine besonderen Fähigkeiten
-abermals gegen heimliche und heimtückische Recht8—breHer
+abermals gegen heimliche und heimtückische Rechtsbrecher
 zu verwenden, wird dem aufmerksamen Leser schon
 im ersten Kapitel eine Frage geradezu aufgedrängt haben,
-die im hier jedoch noch nicht erörtern möchte. Der flüchtige
-Leser wird sie nachher beschämt eingestehen, daß ihm ein
+die ich hier jedoch noch nicht erörtern möchte. Der flüchtige
+Leser wird sich nachher beschämt eingestehen, daß ihm ein
 überaus wichtiger Punkt entgangen ist, ein Punkt, der ihm
 <@pagebreak/>
 vielleicht schon frühzeitig auf die richtige Spur verholfen
@@ -344,29 +344,29 @@ hätte. —
 
 Es ist immerhin selbst in der heutigen Zeit, wo die
 junge Welt recht ausgedehnte Freiheiten aller Art sich zu
-erobern gewußt hat, nicht eben alltäglich, daß Zwei Herren,
-die dem ungefährlichen Mummelgreisalter noch: fernstehen,
+erobern gewußt hat, nicht eben alltäglich, daß zwei Herren,
+die dem ungefährlichen Mummelgreisalter noch fernstehen,
 bis gegen halb fünf morgens Gäste einer jungen Dame in
 einem fast völlig dunklen Salon sind.
 
-In Gerda Ulsters elegantem Damensalon brannte lediglich
+In Gerda Alsters elegantem Damensalon brannte lediglich
 eine kleine elektrische Stehlampe, deren dunkler, mit
 künstlerischen Reliefs verzierter Schirm noch durch eine darüber
 ausgebreitete Seidendecke abgeblendet war.
 
 Was wir von dem Fenster aus beobachteten, entsprach in
-allem den Angaben der aschblonden, schlanken Tennis3meisterizn.
+allem den Angaben der aschblonden, schlanken Tennismeisterin.
 
-Harald hatte ein Fernglas mitgenommen. Ich beglückte
+Harald hatte ein Fernglas mitgenommen. Ich begnügte
 mich mit einer schärferen Brille. Da der Herbstregen uns
 den Gefallen getan hatte, kurz vor elf aufzuhören, sahen wir
-genau, daß der Diener James tatsächlich den Bronzeteäel mit
-einem StaubtueFß putzte und Federhalter, Papier und so
-weiter zurechtlegte. Dieser Metallischer war etwa dreißig
-Zentimeter hob. Die spitze Schnauze der Bronzefigur war
+genau, daß der Diener James tatsächlich den Bronzeteckel mit
+einem Staubtuch putzte und Federhalter, Papier und so
+weiter zurechtlegte. Dieser Metallteckel war etwa dreißig
+Zentimeter hoch. Die spitze Schnauze der Bronzefigur war
 schräg nach dem Schreibsessel hin gerichtet. Es mochte sich
 um eine wertvolle Bronze handeln. Aus der Entfernung
-ließ sich dies kaum entscheiden, Freilich war naß den sonstigen
+ließ sich dies kaum entscheiden. Freilich war nach den sonstigen
 auf der Platte des großen Diplomaten stehenden Gegenständen
 kaum anzunehmen, daß Griffon sich eine Bronze von
 Durchschnittswert angeschafft haben könnte.
@@ -374,11 +374,11 @@ Durchschnittswert angeschafft haben könnte.
 Nachher, als Griffon über seiner Schreibarbeit eingeschlafen
 war, erschien James, ein jüngerer Mann mit durchaus
 interessanten Zügen, eben ein Durchschnittsdienergesicht,
-und suchte seinen Herrn zu weder, rief ihn an, wurde ärgerlich,
+und suchte seinen Herrn zu wecken, rief ihn an, wurde ärgerlich,
 gestikulierte mit den Armen und verschwand wieder.
-Punkt vier Uhr wachte Griffon auf, der in der Tat »Harald
+Punkt vier Uhr wachte Griffon auf, der in der Tat Harald
 ein wenig ähnlich sah. — Kurz — alles spielte sich genau
-»o ab, wie Fräulein Alster es uns Geschildert hatte.
+so ab, wie Fräulein Alster es uns geschildert hatte.
 
 <@pagebreak/>
 Wir saßen dann noch geraume Zeit mit der jungen Dame
@@ -405,12 +405,12 @@ Weshalb ein Einbruch oder dergleichen bei Griffon,
 wenn es dort wirklich nichts Besonderes zu ermitteln gab?!
 — Nein, ich traute Harald nicht, und als wir nun durch die
 dunkle, stürmische Herbstnacht durchs die leeren Straßen heimwanderten,
-gab ihm denn auch diesem Mißtrauen unverhohlen
+gab ich denn auch diesem Mißtrauen unverhohlen
 Ausdruck. Harst hatte die Mirakulum im linken Mundwinkel
 und brummte gähnend:
 
-»I9 kann doch nichts dafür, daß ihr beide blind seid!!
-Natürlich gab es was zu sehen. Und das, was ich sah, hat.
+»Ich kann doch nichts dafür, daß ihr beide blind seid!!
+Natürlich gab es was zu sehen. Und das, was ich sah, hat
 nur eine Erklärung.«
 
 »Welche?«
@@ -428,19 +428,19 @@ so müde, daß ich schließlich wie im Traum dahinschritt.
 
 Harst sagte unvermittelt:
 
-»Nun ät er seit zehn Minuten nicht mehr hinter uns
-her …
+»Nun ist er seit zehn Minuten nicht mehr hinter uns
+her …«
 
 Ich erwachte …
 
 »Wer?!«
 
-»Vielleicht James …
+»Vielleicht James …«
 
 »James?!«
 
 »Vielleicht … Wir werden vorsichtig sein, mein Alter.
-Es ist hier eine »ungeheure Schurkerei im Gange …«
+Es ist hier eine ungeheure Schurkerei im Gange …«
 
 Er schloß unsere Vorgartenpforte auf und schritt nicht auf
 die Haustür zu, sondern bog rechts ab, schaltete die Taschenlampe
@@ -451,7 +451,7 @@ ein und untersuchte die Fenster der Bibliothek.
 Ich war starr …
 
 Da war aus den unteren Scheiben der Doppelfenster
-unten rechts (vom Diensten) ein Stück herausgeschnitten worden
+unten rechts (vom Eckfenster) ein Stück herausgeschnitten worden
 — gerade groß genug, die Hand hindurchstecken zu können.
 Glasdreiecke — und das war Arbeit einer kundigen Hand —
 waren wieder eingefügt und mit gekautem Brot anstelle von
@@ -464,41 +464,40 @@ ironisch.
 Wir betraten Harsts Arbeitszimmer.
 
 Er warf sich in den einen Sessel am Kamin und gähnte
-
 … »Zwecklose Stunden waren das, mein Alter … Gib mir
 ein Glas Rotwein … Man sollte jungen Damen niemals
 glauben … Erzählt diese moderne Sportlady uns da allerlei
 Räubergeschichten, die sie nachher als harmloser Unfug eines
-Trank?gleitet herausstellen!«
+Trunkenboldes herausstellen!«
 
 Er zwinkerte mir vielsagend zu und blickte nach dem
 Diwan hin.
 
 Ich verstand: dort lag der Kerl, der uns die Fenster zerschnitten
-Hattet
+Hatte!
 
 <@pagebreak/>
 Harst trank geräuschvoll …
 
 Dann: »Hallo, was ist das?! Da — auf dem Parkett
 Spuren von feuchten Stiefeln! Und wir haben uns doch
-die Füße gründlich auf der Matte Geländer!!«
+die Füße gründlich auf der Matte gesäubert!«
 
-Raus? …
-»Gib mir meine Pistole … So, — nun rüde mal den
+Pause …
+
+»Gib mir meine Pistole … So, — nun rücke mal den
 Diwan ab … So … — Aha, mein Herr, — — vielleicht
-
-erheben Sie »ein gefällige!!«
+erheben Sie sich gefälligst!«
 
 Der gutgekleidete Mann stand langsam auf. Es war
-ein kleine? Kerl mit einem fuchsigen Schnurrbart — ein
+ein kleiner Kerl mit einem fuchsigen Schnurrbart — ein
 Totenkopfgesicht. Schielen tat der Bursche auch noch, und
 die linke Schulter war bedeutend höher. Eine ziemliche
-Jammergestalt mit der Miene eines heuchlerischen Unschuid38-engels.
+Jammergestalt mit der Miene eines heuchlerischen Unschuldsengels.
 In der Linken hielt er einen rauhhaarigen Filzhut.
 Mit der Rechten machte er nun eine theatralische Bewegung.
 
-»Herr Harst, schützen Sie einen vom Sisal Verfolgten!«
+»Herr Harst, schützen Sie einen vom Schicksal Verfolgten!«
 Die Stimme war schleimig, der Tonfall Schmierenkomödie
 übelster Art.
 
@@ -518,96 +517,96 @@ Berlin gekommen, um Sie, Herr Harst, zu bitten, meine
 Schuldlosigkeit zu beweisen. Ich bin Einbrecher gewesen,
 Dieb, Gauner, Landstreicher, — früher mal Feinmechaniker.
 Gemordet habe ich nie! Wenn Sie mir nicht helfen, muß
-ich ins Zuchthaus zurück, denn »die Kriminalpolizei ist schon
+ich ins Zuchthaus zurück, denn die Kriminalpolizei ist schon
 hinter mir her. Deshalb bin ich durch das Fenster des
 <@pagebreak/>
 Nebenzimmers hier eingestiegen. — Helfen Sie mir Herr
-Harst!!«
+Harst!«
 
-Harald bot Drewke eine Zigarre an. »Reihe ihm auch
+Harald bot Drewke eine Zigarre an. »Reiche ihm auch
 einen Schnaps, mein Alter …«
 
-Dann sagte er, nachdenklich ein paar Rauchringe forschend:
+Dann sagte er, nachdenklich ein paar Rauchringe formend:
 »Also Karl Drewke … Ich besinne mich auf Ihren
 Prozeß … Raubmord in Tutzing am Starnberger See …
 Sie kamen nur deshalb mit fünf Jahren Zuchthaus davon,
-weil lediglich Indizien« suchte gegen Sie vorigen.«
+weil lediglich Indizienbeweise gegen Sie vorlagen.«
 
 »Stimmt, Herr Harst … Und Indizienbeweise sind meist
 Trugschlüsse, wie bei mir … Ich habe nie geleugnet, in die
-Villa eingestiegen zu Sein. Aber ich fand Frau Lengner
+Villa eingestiegen zu sein. Aber ich fand Frau Lengner
 im Schlafzimmer schon ermordet vor, und der Teufel mußte
 mich reiten, daß ich ihr Ringe, Uhr und Brosche abnahm …
 Es war im vorigen Winter, Herr Harst, vor etwa fünfzehn
 Monaten, und ich hatte Hunger.«
 
-»Ich weiß, Drewke … In Münden beim Verkauf des
+»Ich weiß, Drewke … In München beim Verkauf des
 einen Ringes wurden Sie gefaßt … Da die schöne, junge
-Witwe Glanz zurückgezogen lebte und Ihrer Angabe, die Frau
+Witwe ganz zurückgezogen lebte und Ihrer Angabe, die Frau
 sei schon tot, erstochen gewesen, als Sie das Schlafzimmer
 betraten, keinerlei Glauben beigemessen wurde, anderseits aber
-Ihnen noch nie ein Noheits8delikt zur Last gelegt werden
+Ihnen noch nie ein Roheitsdelikt zur Last gelegt werden
 konnte und außerdem die in der Brust der Toten steckende
 Waffe, ein orientalischer Dolch, Ihnen kaum gehört haben
 konnte, kamen Sie mit Zuchthaus davon. — Wer hat Ihnen
 jetzt zur Flucht verholfen, und Sie mit Kleidern versehen?«
 
-»Meine Frau See
+»Meine Frau …«
 
 »Die hier in Berlin wohnt?«
 
-Sie 14
+»Ja …«
 
-»Seit wann fegen Sie dort unter dem Diwan?«
+»Seit wann liegen Sie dort unter dem Diwan?«
 
 »Seit elf Uhr, Herr Harst. Ich hatte erst vor Ihrem
 Hause gestanden: — drüben am Zaun. Ich sah, daß eine
-Frau in Ihre Zimmer nebenan hineinschHcute, und daß Sie
-mit he« Dame dann weggingen. Da stieg ich ein. — Wollen
+Frau in Ihre Zimmer nebenan hineinschaute, und daß Sie
+mit der Dame dann weggingen. Da stieg ich ein. — Wollen
 Sie mir helfen, Herr Harst? Ich bin bei Gott unschuldig.« —
 
 <@pagebreak/>
-Bei dieser Unterredung spielte ich lediglich den Zuhörer,
+Bei dieser Unterredung spielte ich lediglich den Zuhörer.
 Freilich auch den überaus aufmerksamen Beobachter. Dieser
 Karl Drewke machte auf mich einen sehr üblen Eindruck. Er
 war einer von jener Sorte Mensch, gegen die man instinktmäßig
 wie vor einem giftigen Reptil Widerwillen und Abneigung
 empfindet, einer, dem der Teufel gleichsam schon bei
 der Geburt ins Antlitz getreten hatte. An diesem Gesicht
-war alles ohne Gleichmut. Die eingedrückte Nase mit den
+war alles ohne Gleichmaß. Die eingedrückte Nase mit den
 aufgestülpten Flügeln saß schief. Das eine Auge war größer
 als das andere, und eine Lidschwäche bedeckte dieses nicht
-schielende Auge beständig bis zum schmalen Schritt. Der
-Rechte, tierisch-sinnlihe Mund mit der herabhängenden Uns
+schielende Auge beständig bis zum schmalen Schlitz. Der
+breite, tierisch-sinnliche Mund mit der herabhängenden 
 Unterlippe, zeigte im Unterkiefer pechschwarze Zahnstummel.
-Ring war breit, stark vorgebaut, und paßte zu den fast zusammengewachsenen
-dicken Augenbrauen und der löcherigen,
+Kinn war breit, stark vorgebaut, und paßte zu den fast
+zusammengewachsenen dicken Augenbrauen und der löcherigen,
 niederen Stirn: ausgesprochener Verbrechertyp! —
 
 Harst betrachtete diesen von der Natur Gezeichneten jetzt
 mit kühl prüfenden Blicken. Drewke schaute zu Boden.
 
 »Sie werden sich selbst sagen,« erklärte Harald dann, »daß
-28 meine Pflicht wäre, Sie der Polizei auszuliefern. Ich
+es meine Pflicht wäre, Sie der Polizei auszuliefern. Ich
 will jedoch diesen Ihren Besuch hier bei uns aus meinem
 Gedächtnis streichen. Wir wollen uns … zufällig treffen
 und dann Ihren Fall eingehender erörtern. Jetzt bin ich
-2uch4 zu müde, Wo haben Sie hier Ihren Schlupfwinkel?
+auch zu müde. Wo haben Sie hier Ihren Schlupfwinkel?
 Doch nicht bei Ihrer Frau?«
 
 »Nein, nein … Die hat ja ihren Mädchennamen wieder
 angenommen, und ist Köchin in einem anständigen Hause,
-das sie schon früher war. Ein Kollege hat mir eine Bleibe
+was sie schon früher war. Ein Kollege hat mir eine Bleibe
 nachgewiesen, Herr Harst. Zwischen Zehlendorf und Dahlem
-steht in einer Sandbänke unweit der noch unbebauten Rein-zoldstraße
-eine Bretterbude. Die Sandbänke wird nicht mehr
-»Gut, und vorläufig bin ich da leidlich sicher, wenn’s auch
-»in hundekaltes Quartier ist.«
+steht in einer Sandkaule unweit der noch unbebauten Reinholdstraße
+eine Bretterbude. Die Sandkaule wird nicht mehr
+benutzt, und vorläufig bin ich da leidlich sicher, wenn’s auch
+ein hundekaltes Quartier ist.«
 
-gl dann werden wir heute abend um neun dorthin
+»Gut, dann werden wir heute abend um neun dorthin
 kommen … Hier haben Sie noch zwei Zigarren, Drewke.
 <@pagebreak/>
-Ihr Fall interessiert Miß nur deshalb, weil damals in den
+Ihr Fall interessiert mich nur deshalb, weil damals in den
 Zeitungen offen gesagt wurde, auch dieses milde Schwurgerichtsurteil
 sei ein offensichtlicher Fehlspruch. — Verschwinden
 Sie jetzt … Und keinen Dank … Schraut, lasse Drewke
@@ -619,33 +618,31 @@ verschwunden.
 
 Auf dem Sofatisch lag ein Zettel:
 
-— Geh zu Bei!. Ich habe noch außerhalb zu tun. H.
+> Geh zu Bett. Ich habe noch außerhalb zu tun. H.
 
 Er war also Drewke auf den Fersen …
 
-=-
-
 <h2>3. Kapitel.</h2>
-<h3>Und nachts eine »Dame»…</h3>
+<h3>Und noch eine »Dame« …</h3>
 
-… Gottes großer Tiergarten enthält so wandte Rarität.
-Und doch bleibt die größte Rarität alleweil der Hemd Gartens,
-zu deutsch; der höchstkultivierte, höhstentwielte Affe, der
+… Gottes großer Tiergarten enthält so manche Rarität.
+Und doch bleibt die größte Rarität alleweil der homo sapiens,
+zu deutsch der höchstkultivierte, höchstentwickelte Affe, der
 Mensch.
 
 In diesem Falle zielt meine tiefsinnige Bemerkung mehr
-auf eine Seifig ab, ein weibliches Äffchen …
+auf eine Äffin ab, ein weibliches Äffchen …
 
 Fräulein Asta Nießke, bedienende Jungfrau aus dem
 Kutscherlokal »Zum Kellermeister«.
 
-Eine Jungfrau von eindeutiger Reizlosigkeit und eindrangen
-Alter: »Schier dreißig Jahre warst he mal …«
+Eine Jungfrau von eindeutiger Reizlosigkeit und eindeutigem
+Alter: »Schier dreißig Jahre warst de mal …«
 
-Weder die Reizlosigkeit Rock das Alter hatten sich durch
+Weder die Reizlosigkeit noch das Alter hatten sich durch
 Schminke, Puder, Bubikopf, Goldzähne, Parfüm, lackierte
 Fingernägel und raffinierte Garderobenkünste, zum Beispiel
-BallettröFHen und auch oberes Betastete, irgendwie hinwegmogeln
+Ballettröckchen und auch oberes Dekollte, irgendwie hinwegmogeln
 lassen. — Fräulein Asta Nießke, (der Vorname lautete,
 wie sich später herausstellte, Auguste, aber Nießke hatte entfernte
 Ähnlichkeit mit Nielsen, daher Asta) hatte geglaubt,
@@ -654,128 +651,126 @@ gratis zur Verfügung stellen, dieser Menschheit auch
 <@pagebreak/>
 jederzeit, ob tags, ob nachts, zur Verfügung stehen. Als ich
 sie, nachdem sie mir durch ihr kräftiges Läuten Punkt fünf
-Minuten naß sechs Uhr morgens den Wahn von Zubettgehen
+Minuten nach sechs Uhr morgens den Wahn von Zubettgehen
 gründlich zerstört hatte, mit der bescheidenen Bemerkung
-einließ, dies sei dann eine etwas ungewöhnliche Besuchtest,
+einließ, dies sei doch eine etwas ungewöhnliche Besuchszeit,
 erwiderte sie prompt: »Aber lieber Herr Schraut, Sie
 und Herr Harst stehen doch sicherlich stets um fünf auf …«
 
 Diese berückende Unverfrorenheit entwaffnete mich derart,
 daß ich sogar — mehr Galgenhumor — Fräulein Asta Zigaretten
-und einen Kognak anbot. Weibes wurde dankend angenommen,
+und einen Kognak anbot. Beides wurde dankend angenommen,
 der Kognak mit dem Hinzufügen: »Aber bitte
-dreietagig?«
+dreietagig!«
 
-Also dreietagig, Sherryglas, obwohl ’die Holde auch so
-bereits nach Fahrkarten duftete, daß meine Vermutung aus
-treffen mußte, sie käme direkt von der »Arbeit« zu uns.
+Also dreietagig, Sherryglas, obwohl die Holde auch so
+bereits nach Fusikalien duftete, daß meine Vermutung zutreffen
+mußte, sie käme direkt von der »Arbeit« zu uns.
 
 Nachdem sie ihre schwellenden Glieder ungeniert in
-den Klubsessel zurehigeflegelt hatte, begann sie, mich vielsagend
+den Klubsessel zurechtgeflegelt hatte, begann sie, mich vielsagend
 anblinzelnd: »Es würd’ Sie sehr interessieren, Herr Schraut
 … Ein Jammer, daß Herr Harst nicht da ist. Das ist doch
 das größere Genie …«
 
 »Danke …«
 
-»Bitte, Horn gelehrig …« (zuweilen versuchte sie
+»Bitte, görn geschehn …« (zuweilen versuchte sie
 Münchner Kindl zu markieren, verfiel aber stets sehr bald
-wieder in das »gebärdete Vertuscht«). »Also, Herr Schraut,
-es ist wörtlich eine sehr komische Such’, wo ich ihr da auf
-die Spur gekommen dürr … Könnt’ ich noch ’n Kognak hat
-den …? Die Herbstluft ist so rauh …«
+wieder in das »gebüldete Berlinsch«). »Also, Herr Schraut,
+es ist wörtlich eine sehr komische Sach’, wo ich ihr da auf
+die Spur gekommen bün … Könnt’ ich noch ’n Kognak haben
+…? Die Herbstluft ist so rauh …«
 
 »Nachher, Fräulein Nießke … Erst das Geschäft, dann
 das Vergnügen …«
 
-»Sie Schläfer, Sie! Kommen’s mich aber ruhig Asta, das
-tun alle Kalkuliere aus ’n Kellermeister … Es. verkehren dort
-wirklich) Kalkuliere, zum Beispiel der Herr Doktor Griffon,
-ein sehr ein reicher, seiner Herr, der sich nie des… trinkt.«
+»Sie Schäker, Sie! Nennen’s mich aber ruhig Asta, das
+tun alle Kaffaliere aus ’n Kellermeister … Es verkehren dort
+wirklich Kaffaliere, zum Beispiel der Herr Doktor Griffon,
+ein sehr ein reicher, feiner Herr, der sich nie bes… trinkt.«
 
-Bisher hatte im keine Ahnung gehabt, daß Astachen
+Bisher hatte ich keine Ahnung gehabt, daß Astachen
 <@pagebreak/>
 ausgerechnet aus jenem Lokal stammte, das uns jetzt leidlich
 wichtig war.
 
-»Kennen Sie vielleicht den Herrn Doktor Stuart Kasten
+»Kennen Sie vielleicht den Herrn Doktor Stuart Huston
 Griffon, Herr Schraut?«
 
 »Leider nein … Wer ist das?«
 
-»Ein echter Auffallen … Ein Gefährten … Bücher schreibt
+»Ein echter Kaffalier … Ein Gelöhrter … Bücher schreibt
 er, und in Asien war, wo die Indianer einen Gott haben,
 der so heißt wie die Schafe im Zoo: Lama … Sie wissen
-doch, die Lamas fanden, wenn man sie reizen tut …
+doch, die Lamas spucken, wenn man sie reizen tut …
 
-— Ich nickte. — Indianer in Tibet — nicht schlecht!! Und
+Ich nickte. — Indianer in Tibet — nicht schlecht! Und
 Lama und Lama — — kleiner Unterschied!
 
-»Um diesen Herrn Doktor Griffon handelt sich’s, am
-Schraut … Er ist Stammgast bei uns … Tod
+»Um diesen Herrn Doktor Griffon handelt sich’s, Herr
+Schraut … Er ist Stammgast bei uns … Jeden
 Abend trinkt er eine halbe Flasche Kognak zu fünf
 Mark und raucht vier Zigarren zu dreißig Pfennig, und
 gibt zwei Mark Trinkgeld, liest Zeitungen und löst Kreuzworträtsel
 aus unsere Journalmappe. Und das ist der Witz, die
 Kreuzworträtsel, denn unsereiner hat doch Augen im Kopf,
-Herr Schraut, weil die Kalkuliere einen gern Gestalten und
+Herr Schraut, weil die Kaffaliere einen gern beschubsen und
 weil man zum eigenen Vorteil auf jeden aufpassen muß, daß
-er nicht vom Bierfilz die Striche und Kreuze wieder aus
-löscht oder ’nen andern Bierfilz untermogelt — Sie verstehen?«
+er nicht vom Bierfilz die Striche und Kreuze wieder auslöscht
+oder ’nen andern Bierfilz untermogelt — Sie verstehen?«
 
-Ich Kiste … im war ganz Ohr.
+Ich nickte … ich war ganz Ohr.
 
 »Also sehen Sie, als der Herr Doktor Griffon ’ne Weile
-bei uns verkehrte, da möchte ich, daß auch ’n neuer anderer
+bei uns verkehrte, da mörkte ich, daß auch ’n neuer anderer
 Stammgast da war, ein Herr Molkenberg, von Beruf, wie er
-sagt, Kaufmann, was aber Schwindel ist. im halte Molkenberg
-für ’n schweren Zungen … Sie sechzehn — von der Gaunerzunft
-… Und Julius Molkenberg, ein langer, trockenen Kerl
+sagt, Kaufmann, was aber Schwindel ist. Ich halte Molkenberg
+für ’n schweren Jungen … Sie verstehn — von der Gaunerzunft
+… Und Julius Molkenberg, ein langer, trockener Kerl
 mit ’n Vollbart wie ’n Naturapostel, und ’ne Mähne wie
 Kapellmeister Meschugge — kennen Sie Meschugge? — nun,
 der Molkenberg sitzt immer am Nebentisch vom Doktor
 Griffon in der Fensterecke, bleibt ’ne Stunde, löst ebenfalls
 Kreuzworträtsel, und dann tauschen sie die Hefte aus, und
-das ist der Dich …
+das ist der Witz …«
 
 <@pagebreak/>
-Ich war auf die Fortsetzung überaus begierig. — Asiaten
-holte jetzt aus. ihrer Lacklederhandtasche, Format Koffer, zunächst
+Ich war auf die Fortsetzung überaus begierig. — Astachen
+holte jetzt aus ihrer Lacklederhandtasche, Format Koffer, zunächst
 eine Brennschere, eine Puderdose, ein Taschentuch, einen
 zarten, intimen Bekleidungsgegenstand aus Batist und eine
 Börse hervor, dann eine halbe Seite aus einer Zeitschrift, die
-RätseleFe, reichte mir das Stück Papier und erklärte:
+Rätselecke, reichte mir das Stück Papier und erklärte:
 
-»Das hab’ ich trink’ abend endlich erwischt, Herr Schraut
-
+»Das hab’ ich heut’ abend endlich erwischt, Herr Schraut
 … Lesen Sie mal die Worte, die der Molkenberg da am
 Rande mit Bleistift hingeschrieben hat, als ob es die Wörter
-zum Kreuzworträtsel Für’n … — Ja, unsereiner ist helle,
-und man macht der Asta Nießke so leicht nix vor, wörtlich
-nicht … Ich hatte mir schon ümmer gedacht, die Geschichtet
+zum Kreuzworträtsel wär’n … — Ja, unsereiner is helle,
+und man macht der Asta Nießke so leicht nix vor, würklich
+nicht … Ich hatte mir schon ümmer gedacht, die Geschicht’
 mit ’n Austauschen der Hefte müßt’ ’n Haken haben, denn
-die beiden haben ja das er See nachher ümmer sauber
-ausradiert … « Seien Sie mal …
+die beiden haben ja das Geschriebene nachher ümmer sauber
+ausradiert … Lesen Sie mal …«
 
 Ich las …
 
-Bisher — Mond — alles — — Silber — in — Kasten
+> Bisher — Mond — alles — Silber — in — Kasten
 — Ordnung — Gott — Er — Teller — mit —
 Stefan — Semai — Glück — zweimal — Essen —
 zusammen — Held — ich — Liebe — passe —
-
-… Harnisch — auf
+Harnisch — auf
 
 »Hm,« meinte ich und bitte Astachen fragend an. »Was
 soll das?!«
 
-»O — Hütte, Herr Schraut … Klang’s zeigt Hütte das
+»O — bütte, Herr Schraut … Schaun’s a mal bütte das
 Kreuzworträtsel an … Die Wörter sind ganz willkürlich
 gewählt und gehören gar nicht zu dem Rätsel — das ist’s!
 Es ist eine Geheimschrift, behaupte ich … Eine Mitteilung
-von Molkenberg an Doktor Griffon … Und im hab’ dem
-Griffon trink’ das Heft wegstibizt, bevor er?’8 ausradieren
-hätt’ können, und so was ist Dom was für Ihren Freund,
+von Molkenberg an Doktor Griffon … Und ich hab’ dem
+Griffon heut’ das Heft wegstibizt, bevor er’s ausradieren
+hätt’ können, und so was ist doch was für Ihren Freund,
 der ein Genie ist, und wenn Sie mir jetzt noch einen
 Kognak auf die trockene Kehle geben wollten, könnt’ nichts
 schaden …«
@@ -783,23 +778,23 @@ schaden …«
 Inzwischen hatte ich die Wörter nochmals überflogen und
 dabei eine wichtige Entdeckung gemacht. Zunächst bekam
 <@pagebreak/>
-Astachen ihren Kognak, dreietagig, und dann sagte ich gleich:
-gültig: »Gut, lassen Sie den Wisch nur hier, und jeder
-Sie mit niemandem darüber. Die Sache ist ja fraglos durch
-aus harmlos, aber Harst interessieren auch Kleinigkeiten. —
+Astachen ihren Kognak, dreietagig, und dann sagte ich gleichgültig:
+»Gut, lassen Sie den Wisch nur hier, und reden
+Sie mit niemandem darüber. Die Sache ist ja fraglos durchaus
+harmlos, aber Harst interessieren auch Kleinigkeiten. —
 Wenn Sie gestatten …« — Ich hielt ihr zehn Mark hin …
-»Für die Tale zur Heimfahrt, Asta …«
+»Für die Taxe zur Heimfahrt, Asta …«
 
-»3Zu ne!! — Gewiß werde ich schweigen … Auf mich
-ist Verlaß … Mit fünfundzwanzig Jahren ist man trockene
-hinter die Ohren … — Gute Nacht, Herr Schraut … So!!
-im nochmals so ’n Heft stibitzen?«
+»Zu nett!! — Gewiß werde ich schweigen … Auf mich
+ist Verlaß … Mit fünfundzwanzig Jahren ist man trocken
+hinter die Ohren … — Gute Nacht, Herr Schraut … Soll
+ich nochmals so ’n Heft stibitzen?«
 
-»Nein … Es ist zu belanglos,« log ich. »Gute Nacht
+»Nein … Es ist zu belanglos,« log ich. »Gute Nacht.
 Es war mir eine Freude, Sie kennen zu lernen …«
 
 Ich begleitete sie bis auf die Straße hinaus, wo sie
-mir die Hand drückte und flüsterte: »Kommen’s doch Ruck
+mir die Hand drückte und flüsterte: »Kommen’s doch auch
 mal in ’n Kellermeister, Herr Schraut …!«
 
 Noch ein feuriger Blick, und sie schwebte im Morgengrauen
@@ -810,7 +805,7 @@ die Wörter.
 
 Geheime Mitteilung, — das Mädel hatte schon recht!!
 
-Bisher alles in Ordnung. Er mit Semai zweimal
+> Bisher alles in Ordnung. Er mit Semai zweimal
 zusammen, ich passe auf.
 
 Semai …
@@ -818,13 +813,13 @@ Semai …
 Was hieß daß?! — Ein Name, gewiß! — Natürlich
 waren die Buchstaben verstellt oder »Semai« war eine zwischen
 Griffon und diesem Molkenberg vereinbarte Bezeichnung.
-Denn selbst wenn man Semai von rückwärts las: Taue Es
-— — Hallo, da hatte ichM’s ja …!!
+Denn selbst wenn man Semai von rückwärts las: *James*
+— — Hallo, da hatte ich’s ja …!!
 
-James dies es — James! Und James war- Griffons
+James hieß es — James! Und James war Griffons
 Diener …!!
 
-Das ’trieb mich aus dem Sessel hoch …
+Das trieb mich aus dem Sessel hoch …
 
 Griffons Besuche im Kellermeister hatten urplötzlich eine
 Erklärung gefunden. Und wer Molkenberg war, reimte ich
@@ -836,47 +831,45 @@ Wenn nur erst Harald zurück wäre! Er würde Augen
 machen!! Man denke: Griffon unterhielt Beziehungen, die
 etwas fragwürdiger Natur waren, Griffon verkehrte mit
 Molkenberg so vorsichtig, daß sie nur die Hefte zum Meinungsaustausch
-zu benutzen wagten!! Dahinter stete zweifellos
-recht viel!! Und James, der den Bronzeteckel Fußende
+zu benutzen wagten!! Dahinter steckte zweifellos
+recht viel!! Und James, der den Bronzeteckel putzende
 Diener, war offenbar Gegenpartei!
 
 Ich schritt ruhelos im Zimmer auf und ab, schob ein
-paar Buchenklöße in den Kaminofen, rauchte und ’brühte mir
+paar Buchenklötze in den Kaminofen, rauchte und brühte mir
 schließlich Kaffee auf. Denn — — schlafen gehen?! — Ich
 war so munter, als ob ich diese Nacht im Bett zugebracht
-hätte und nicht in Gerda Ulsters Salon!
+hätte und nicht in Gerda Alsters Salon!
 
-Ich schrak leicht zusammen. Draußen hatte die Gartens
-Pforte geklirrt. Es konnte nur Harald sein. Ich ging in
+Ich schrak leicht zusammen. Draußen hatte die Gartenpforte
+geklirrt. Es konnte nur Harald sein. Ich ging in
 den Flur, öffnete die Haustür. Es war hell geworden — ein
 neuer Tag. Der Himmel klar. Nur vereinzelte Wölkchen
 segelten über das Häusermeer Berlins hinweg.
 
 »Morgen, mein Alter …«
 
-»Morgen … — Nun?2’t«
+»Morgen … — Nun?!«
 
 Er zog den Ulster aus, trat ins Zimmer. »Famos — —
-Kaffee! Her dann!!« Er warf sich in den alten Eichensessel
-
+Kaffee! Her damit!« Er warf sich in den alten Eichensessel
 … Aber trotz seiner scheinbaren Lebendigkeit lag auf seinem
 Gesicht eine gewisse Abspannung und Enttäuschung.
 
-Dann sagte er, nachdem er die erste Tasse Mr Abgestützt
-hatte: nie komme aus Griffons Arbeitszimmer …
+Dann sagte er, nachdem er die erste Tasse hinabgestürzt
+hatte: »Ich komme aus Griffons Arbeitszimmer …«
 
 »So?«
 
-… Das Einsteigen war nicht schwer. Das eine
-Fenster hat eine Lüftungsklappe. Ich habe mir den Jeder
-Zugesehen und danach meinen Verdacht fallen lassen …«
+»Ja … Das Einsteigen war nicht schwer. Das eine
+Fenster hat eine Lüftungsklappe. Ich habe mir den Teckel
+angesehen und danach meinen Verdacht fallen lassen …«
 
 »Welchen Verdacht?«
 
 Er langte nach einer Mirakulum. Ich gab ihm Feuer.
-sahst du, daß Griffon auf dem Scheitel eine kahle Stelle
-
-Haar hat, die bepflastert war, lieber Alter?«
+»Sahst du, daß Griffon auf dem Scheitel eine kahle Stelle
+im Haar hat, die bepflastert war, lieber Alter?«
 
 »Gewiß …« — Ich schwindelte …
 
@@ -891,33 +884,33 @@ Gauner du!!«
 »Diese Stelle da auf dem Scheitel — bitte noch eine
 Tasse — brachte mich auf die Vermutung, daß James, der
 Diener, zumal seine scheinbaren Weckversuche etwas ganz
-anderes waren, nämlichg … Wutausbrüche, — — auf die
-Vermutung, daß der Deckel etwa im Schädel Radium erst
-halten könnte …«
+anderes waren, nämlich … Wutausbrüche, — — auf die
+Vermutung, daß der Teckel etwa im Schädel Radium enthalten
+könnte …«
 
 »Ah — — Radiumbrandwunden …!! Ein Anschlag James
 auf seinen Herrn!«
 
 »Stimmt — das nahm ich an. Ist Unsinn. Ich habe
-mir den Tee! sehr sorgfältig angeschaut. Nichts von Ausbruch
-— ausgeschlossen …! Die Bronzefigur ist sehr alt. ich
+mir den Teckel sehr sorgfältig angeschaut. Nichts von Radium
+— ausgeschlossen …! Die Bronzefigur ist sehr alt, ich
 schätze französischen Ursprungs. Die Augen bestehen aus
 Katzensteinen. Schwanz, Beine und Kopf sind in den Rumpf
-eingeschraubt… Am Bauche fand ich eine Gravierung, eine
-Dedikation: »T. L. ich. l. St. 3. frd. Eng, M., Mai 1923,«
-— was heißen soll: T. L. ihrem lieben Stuart zur Freundlichen
+eingeschraubt. Am Bauche fand ich eine Gravierung, eine
+Dedikation: »T. L. i. l. St. z. frd. Erg, M., Mai 1923,«
+— was heißen soll: »T. L. ihrem lieben Stuart zur freundlichen
 Erinnerung, M.« — — und so weiter … Bedeutungslos
 — ein Geschenk. — Dann sah ich mir Griffons Schreibarbeit
-an. Es ist ein Werk über den Tempel Vorrat Kanal
+an. Es ist ein Werk über den Tempel Dapfar Mangi
 in der Mongolei, eins der Heiligtümer des Lamaismus, der
 Religion Tibets. Griffon ist heimlich dort gewesen, hat sogar
 das Innere des Tempels photographiert und mußte dann
 fliehen. Seine Flucht ist ein Roman. Aber das ist, wie
-gesagt, alles nebensächlich. Der Teckel war mir am wir.-
-wichtigsten und hat mich bitter enttäuscht. Die Sache ist dunkler
+gesagt, alles nebensächlich. Der Teckel war mir am wichtigsten
+und hat mich bitter enttäuscht. Die Sache ist dunkler
 denn je. Hätte ich in dem Teckelkopf eine Vorrichtung gefunden,
 Radium dort festzuklemmen, oder hätte ich im Innern
-des hohlen Kopfes Sceuerstellen entdeckt, die auf dasselbe
+des hohlen Kopfes Scheuerstellen entdeckt, die auf dasselbe
 hindeuten konnten, dann wären wir einen Schritt weiter
 gewesen. So aber …«
 
@@ -926,14 +919,14 @@ Und er trank, rauchte und gähnte …
 <@pagebreak/>
 »Und Drewke, der Mörder?«
 
-»Harmloses Kaninchen, das sich wirklich in [en Bau,
-die Bretterbude, verkroch. Ein Ekel, der Mensch …!10 See
+»Harmloses Kaninchen, das sich wirklich in seinen Bau,
+die Bretterbude, verkroch. Ein Ekel, der Mensch … Aber
 unschuldig, fraglos.«
 
 Nun holte ich zum großen Schlage aus. Harald sollte
 das Gähnen schon vergehen!!
 
-Ich 303g das halbe Blatt aus der Zeitschrift »Der Boxsport«
+Ich zog das halbe Blatt aus der Zeitschrift »Der Boxsport«
 aus der Tasche …
 
 »Bitte …«
@@ -942,7 +935,7 @@ Und erzählte von Astachens Besuch.
 
 Harst setzte sich mit einem Nu aufrecht. Las die Lösung.
 
-»Bisher alles in Ordnung. Er mit James zweimal
+> »Bisher alles in Ordnung. Er mit James zweimal
 zusammen. Ich passe auf.«
 
 Und schaute mich an. »Dann war dieser Molkenberg
@@ -951,10 +944,10 @@ Und — — »er«, — das kann vielleicht Klient Karl Drewke
 sein! — Das Dunkel lichtet sich, mein Alter …«
 
 Er stützte den Kopf in die Hand. »Laß mich nachdenken
-… — Hallo — — »T. L. ihrem lieben Stuart« … =, das
+… — Hallo — — »T. L. ihrem lieben Stuart« … —, das
 kann Therese Lengner heißen, und das M. in der Widmung
 — — natürlich München!! — Du, wenn etwa Griffon die
-reihe, schöne Witwe umgebracht hätte!! Wenn etwa James
+reiche, schöne Witwe umgebracht hätte!! Wenn etwa James
 mit Drewke gemeinsame Sache machte!!«
 
 Seine grauen Augen sprühten …
@@ -969,7 +962,7 @@ Molkenberg sein Beschützer! — Griffon ist der Mörder!«
 
 »Stopp — langsam!«
 
-Er ging zum Vererbte; und entwarf eine Depesche
+Er ging zum Schreibtisch und entwarf eine Depesche
 an Kriminalinspektor Scheithauer, München, — guter Freund
 von uns.
 
@@ -978,19 +971,19 @@ von uns.
 Stuart Griffon gewohnt und mit Therese Lengner verkehrt
 hat. — Harst.«
 
-Es Kanal bitte zur Post, mein Alter … Und dann ins
-Bett
+»Bring’s bitte zur Post, mein Alter … Und dann ins
+Bett …« —
 
 Als im heimkehrte, war Harald weder im Bett noch anderswo.
 Auf dem Sofatisch wieder ein Zettel:
 
-»Damm um zwölf in Maske 8 zum Kellermeister. H.«
+> »Komm um zwölf in Maske 8 zum Kellermeister. H.«
 
-Ich ging in unser Ankleidezimmer. Die Unordnung des
-wies, daß Harald in. aller Eile Maske 8 gemacht hatte: Schäbiger
+Ich ging in unser Ankleidezimmer. Die Unordnung bewies,
+daß Harald in aller Eile Maske 8 gemacht hatte: Schäbiger
 Gelegenheitsarbeiter! —
 
-Ich schlief um halb neun ein. Den Weder stellte ich
+Ich schlief um halb neun ein. Den Wecker stellte ich
 auf elf. Es hieß also schnell schlafen.
 
 <h2>4. Kapitel.</h2>
@@ -1240,7 +1233,7 @@ unmöglich ein Mörder sein könnte.
 Er beugte sich vor und nahm Harald die Decke ab.
 
 Harst stete in einem dunklen Anzug, trug einen warmen
-Ulster, und sein geschminktes, bärtiges Stromergesicht paßte
+Alster, und sein geschminktes, bärtiges Stromergesicht paßte
 sehr wenig zu dieser anständigen Kleidung. Ihm waren nur
 die Arme leicht vor der Brust gefesselt, und als er mir
 nun mit halbem Lächeln zugenickt hatte, sagte er zu Griffon:
@@ -1923,7 +1916,7 @@ die im feuchten, herbstlichen Erdreich klar eingeprägten Spuren
 James, der Frau und des Schimpansen.
 
 Harst schaute nach links hinüber, wo auch ich jetzt Gerda
-Ulsters schlanke Sportfigur bemerkte.
+Alsters schlanke Sportfigur bemerkte.
 
 Harst grüßte …
 
@@ -2195,7 +2188,7 @@ Sonntagskluft ausschaute.
 
 Langsam kam er nun näher …
 
-»Der i8 der indische Doktor …« sagte er Erregend. »Ich
+»Der is der indische Doktor …« sagte er Erregend. »Ich
 bring’ ihm jeden Morgen die Schlingen … IX bin von
 Bart Radtke …«
 
