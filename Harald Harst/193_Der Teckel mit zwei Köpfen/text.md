@@ -743,7 +743,7 @@ zarten, intimen Bekleidungsgegenstand aus Batist und eine
 Börse hervor, dann eine halbe Seite aus einer Zeitschrift, die
 Rätselecke, reichte mir das Stück Papier und erklärte:
 
-»Das hab’ ich heut’ abend endlich erwischt, Herr Schraut
+»Das hab’ ich trink’ abend endlich erwischt, Herr Schraut
 … Lesen Sie mal die Worte, die der Molkenberg da am
 Rande mit Bleistift hingeschrieben hat, als ob es die Wörter
 zum Kreuzworträtsel wär’n … — Ja, unsereiner is helle,
@@ -769,7 +769,7 @@ Kreuzworträtsel an … Die Wörter sind ganz willkürlich
 gewählt und gehören gar nicht zu dem Rätsel — das ist’s!
 Es ist eine Geheimschrift, behaupte ich … Eine Mitteilung
 von Molkenberg an Doktor Griffon … Und ich hab’ dem
-Griffon heut’ das Heft wegstibizt, bevor er’s ausradieren
+Griffon trink’ das Heft wegstibizt, bevor er’s ausradieren
 hätt’ können, und so was ist doch was für Ihren Freund,
 der ein Genie ist, und wenn Sie mir jetzt noch einen
 Kognak auf die trockene Kehle geben wollten, könnt’ nichts
@@ -989,25 +989,25 @@ auf elf. Es hieß also schnell schlafen.
 <h2>4. Kapitel.</h2>
 <h3>Wie man auch mich klappte …</h3>
 
-»… An dem einen Tische saßen Arbeiter von einem nahen
+… An dem einen Tische saßen Arbeiter von einem nahen
 Bau und verzehrten ihre dicken Stullen, tranken Bier dazu
 und politisierten — natürlich! — An einem zweiten Tisch
 drei Chauffeure. An einem dritten ein hagerer Kerl mit unruhigen
-Wieselaugen, einem Pavianbart und Künstlertolle
-Das mußte Herr Julius Molkenberg sein. Er war pirschen
+Wieselaugen, einem Pavianbart und Künstlertolle.
+Das mußte Herr Julius Molkenberg sein. Er war also
 wieder auf dem Posten. In der Fensterecke hockte ein
 abgerissener Strolch mit blauroter Säufernase. O, Harald,
-wie hast du dich befanden!!
+wie hast du dich verändert!
 
 Als ich eintrat, überflog ich die Anwesenden nur mit
 schnellem Blick, setzte mich dann an den zweiten Fenstertisch
 und kehrte Harald den Rücken zu.
 
-Fräulein Asta erschien mit sehr hochhmütigem Gesicht.
+Fräulein Asta erschien mit sehr hochmütigem Gesicht.
 Erkannte mich natürlich nicht und fragte kühl, was ich
-wünschte. Auch der Wirt hinter dem Femtische war offenbar
+wünschte. Auch der Wirt hinter dem Schenktische war offenbar
 über meine Wenigkeit äußerst mäßig entzückt. Ich schaute
-freilich voll mehr nach Landstreicher aus als Harst.
+freilich noch mehr nach Landstreicher aus als Harst.
 
 Astachen brachte mir die Weiße und den Klops mit Kartoffelsalat
 <@pagebreak/>
@@ -1015,11 +1015,11 @@ und bat um Bezahlung — vorsichtige Seele …!
 
 Merkwürdig: Harald verhielt sich vollkommen ruhig.
 
-Dann aber hinter mir ein Hüsteln — von ihm. Er des
-zahlte den letzten Schnaps, den er getrunken, und verließ
+Dann aber hinter mir ein Hüsteln — von ihm. Er bezahlte
+den letzten Schnaps, den er getrunken, und verließ
 den Kellermeister.
 
-Ich folgte ihm nach einiger Zeit, sah ihn an der Er
+Ich folgte ihm nach einiger Zeit, sah ihn an der Ecke
 der Grunewaldstraße stehen und schlenderte dann hinter ihm
 drein.
 
@@ -1031,26 +1031,26 @@ Auto. Weit und breit war kein Mensch zu sehen.
 Harst, der immer noch einen Vorsprung von fünfzig Schritt
 hatte, stieg ein und ließ die Autotür offen.
 
-Wir kam damals auch nicht im entferntesten der Gedanke,
-daß ich4 hier blindlings in eine schlau vorbereitete
+Mir kam damals auch nicht im entferntesten der Gedanke,
+daß ich hier blindlings in eine schlau vorbereitete
 Falle hineintappte. Ich schritt lebhafter aus, erreichte den
-Zug?Finger und sah Harst in der einen Ecke hier. Er winkte
+Kraftwagen und sah Harst in der einen Ecke sitzen. Er winkte
 hastig, und schon war ich neben ihm, schlug die Tür zu.
 
-Als ich mich ihm jetzt zuwandte, starrte im in eine
+Als ich mich ihm jetzt zuwandte, starrte ich in eine
 Pistolenmündung, und eine Stimme, die nicht die Harsts war,
 sagte sehr energisch:
 
 »Sie müssen sich schon in das Unvermeidliche fügen,
 Herr Schraut. Machen Sie keine Dummheiten, denn ich
-Brücke bestimmt ab!«
+drücke bestimmt ab!«
 
 Griffon — — natürlich Griffon!
 
 Er hatte ja Ähnlichkeit mit Harst, und zweifellos trug
 er Haralds Strolchkostüm, das ich ja genau kannte. Also hatte
 man meinen alten Harst ebenfalls schon geklappt und ihm
-die Stromerlumpen ausgezogen!.
+die Stromerlumpen ausgezogen!
 
 Nun — so ohne weiteres sollte Griffon denn doch nicht
 die Partie gewinnen.
@@ -1061,7 +1061,7 @@ sich gar nicht um uns kümmerte. Er saß zurückgelehnt da
 und zeigte mir sein halbes Profil mit Autobrille und tief
 in die Stirn gezogener Mütze.
 
-Nein — — so schnell schmiß War Schraut die Flinte
+Nein — — so schnell schmiß Max Schraut die Flinte
 denn doch nicht ins Korn — bewahre! Eine Pistole ist ja
 allerdings kein Wiener Würstchen, aber Griffon war doch
 fraglos nur Anfänger auf dem Gebiete derartiger Abenteuer
@@ -1077,45 +1077,46 @@ Auto und Sie selbst nebst Chauffeur mit Beschlag belegen
 werden. Sie haben sich also hier Unannehmlichkeiten aufgehalst,
 die nicht eben zu Ihrem Vorteil bei … hm, ja …
 bei Beurteilung des Falles Lengner — München sprechen
-werden, o nein?!«
+werden, o nein!!«
 
 Aha — das hatte gesessen! Der Hieb traf.
 
-Der Pseudo=Harst ließ die Pistole sinken …
+Der Pseudo-Harst ließ die Pistole sinken …
 
-Stierte mich an … In den übernäctigten trüben Augen
+Stierte mich an … In den übernächtigten trüben Augen
 erschien ein Ausdruck schlecht verhehlter Angst …
 
 »Stecken Sie die Pistole weg,« fügte ich gemütlich hinzu
-
 … »Es ist besser so … Wenn ich den Beamten einen Wink
 gebe, verschwinden sie, und wir können in Ruhe und Frieden
 verhandeln, hauptsächlich zunächst darüber, daß Harst schleunigst
 wieder freigelassen wird …«
 
-»Mein Gott!!« stöhnte Griffon, und legte die Pistole irr
+»Mein Gott!!« stöhnte Griffon, und legte die Pistole in
 den Schoß, führte die Hand zur Stirn und bedeckte die
-
 Augen. »Mein Gott — — schon wieder ein Anfall dieser
 wahnwitzigen Kopfschmerzen …! Was ist das nur mit mir!
 Wie leide ich — — mein Gott — — entsetzlich!«
 
 Seine Gestalt sank kraftlos in sich zusammen …
-» Ich nahm ihm die Pistole weg.
+
+Ich nahm ihm die Pistole weg.
+
 Ein Blick nach dem Chauffeur. Der regte sich nicht.
 
 <@pagebreak/>
 Ich hatte gewonnen.
 
-Mit der Linken holte im aus der Außentasche der schmierigen
-Tage die dünne, geteerte Schnur hervor, mit der leicht
-zugreifenden Schlinge … Diese Schnur ist besser als Handschellen.
+Mit der Linken holte ich aus der Außentasche der schmierigen
+Jacke die dünne, geteerte Schnur hervor, mit der leicht
+zugleitenden Schlinge … Diese Schnur ist besser als Handschellen.
 Die Sache geht fixer.
 
-wollte jetzt nach Griffons Handgelenken greifen …
+Ich wollte jetzt nach Griffons Handgelenken greifen …
 
-See er mir neben dem Wagen geschah, konnte ich
-nicht Gern
+Was hinter mir neben dem Wagen geschah, konnte ich
+nicht sehen …
+
 Leider …
 
 Die Tür wurde aufgerissen …
@@ -1123,20 +1124,20 @@ Die Tür wurde aufgerissen …
 Zwei Hände umspannten meinen Hals, Hände von Handschuhnummer
 vierzehn …
 
-Griffonsg Pistole fiel herab …
+Griffons Pistole fiel herab …
 
 Griffons Augen öffneten sich …
 
-»Reine Kriminalbeamten?« rief er …
+»Keine Kriminalbeamten?« rief er …
 
-Und ein versoffener Baß lachte: »Keine Spur! Zuge-paditsf«
+Und ein versoffener Baß lachte: »Keine Spur! Zugepackt!!«
 
-Armer War Schraut …
+Armer Max Schraut …
 
-Nie schöne, geteerte Schlinge fand Arbeit — bei mir
-selbst
+Meine schöne, geteerte Schlinge fand Arbeit — bei mir
+selbst!
 
-Der Kerl, der « mich) gewürgt hatte, war Herr Julius
+Der Kerl, der mich gewürgt hatte, war Herr Julius
 Molkenberg …
 
 Griffon half ihm. Ein Knebel machte mich stumm. Die
@@ -1147,11 +1148,11 @@ den Chauffeur vom Führersitz.
 
 Es war … eine Puppe, nichts weiter!
 
-Molkenberg verstaute sie auf dem Rücksitz, 304 den
-Shauffeurmantel an, setzte Mütze und Brille auf, « [gar ans
+Molkenberg verstaute sie auf dem Rücksitz, zog den
+Chauffeurmantel an, setzte Mütze und Brille auf, schwang
 sich auf den Führersitz, nachdem er noch die Fenster von innen
 mit einem nassen Lappen eingerieben hatte — mit einem
-weiblichen Zeug, das jede Aussicht verhinderte.
+weißlichen Zeug, das jede Aussicht verhinderte.
 
 Der Wagen fuhr weiter, und Griffon sagte tief aufatmend:
 
@@ -1164,9 +1165,9 @@ Das war ehrlich gemeint.
 bin, Sie beide unbedingt für einige Zeit auszuschalten.
 Eis wird Ihnen an nichts fehlen, nur an der Freiheit.
 Ich verschwinde aus Deutschland, und auch der Mann,
-der nun Chauffeur spielt, wird nie mehr gefunden werden,
+der nun Chauffeur spielt, wird nie mehr gefunden werden.
 Ich bin ihm zu großem Dank verpflichtet. — Wenn Sie mir
-versprechen, nicht um Hilfe zu rufen, entferne im den Knebel
+versprechen, nicht um Hilfe zu rufen, entferne ich den Knebel
 wieder, denn mir widerstrebt jede Roheit. Nur die Not hat
 mich zu diesem Vorgehen gegen Sie und Ihren Freund veranlaßt.
 Werden Sie sich ruhig verhalten?«
@@ -1188,11 +1189,11 @@ Das Auto fuhr einen Waldweg entlang …
 
 Wenn ich nicht an mein Versprechen gebunden gewesen
 wäre, hätte ich jetzt unschwer in den Wald flüchten können.
-Aber auch der Gedanke an Harald hielt mich zwölf. Ich
+Aber auch der Gedanke an Harald hielt mich zurück. Ich
 wollte die Weiterentwicklung der Dinge getrost abwarten.
 
 Griffons Zustand war beinahe besorgniserregend. Diesmal
-erholte er sich weit schweren. Die Schweißtropfen standen
+erholte er sich weit schwerer. Die Schweißtropfen standen
 ihm auf dem Gesicht, und seine Augenlider und Wangenmuskeln
 flatterten wie im Krampf.
 
@@ -1201,7 +1202,7 @@ jetzt Haralds Bemerkung über Radiumbestrahlung wieder ein.
 
 Plötzlich hielt der Wagen. Durch die beschmierten
 Fenster erkannte ich lediglich die gelbbraunen Striche von
-Kiefernstämmen. — Molkenberg sprang ab … Na einer
+Kiefernstämmen. — Molkenberg sprang ab … Nach einer
 geraumen Weile öffnete er die linke Tür … Er trug eine
 in eine graue Wolldecke gehüllte Gestalt in den Armen,
 <@pagebreak/>
@@ -1220,43 +1221,43 @@ nicht, was mir fehlt …« Und auf die Wolldecke schauend:
 »Es ist Ihr Freund, Herr Schraut … Wir haben ihn heute
 vormittag in der Bretterbude in der Sandgrube überrumpelt,
 wo der entflohene Zuchthäusler sich versteckt hielt. Sie ahnen
-nicht, meine Herren, was es für einen gebildeten Mann des
-deutet, sich? auf derartige Gesetzwidrigkeiten einlassen zu
+nicht, meine Herren, was es für einen gebildeten Mann bedeutet,
+sich auf derartige Gesetzwidrigkeiten einlassen zu
 müssen! Gewiß, ich habe während meiner Forschungsreisen
 vieles erlebt, was Nervenkitzel und Nervenpulver war …!
 Aber dies hier ist mir ein Greuel!«
 
-»Er log nicht, schauspielerte nicht. Und immer mehr des
-festigte sich in mir die Überzeugung, daß dieser Griffon
+Er log nicht, schauspielerte nicht. Und immer mehr befestigte
+sich in mir die Überzeugung, daß dieser Griffon
 unmöglich ein Mörder sein könnte.
 
 Er beugte sich vor und nahm Harald die Decke ab.
 
-Harst stete in einem dunklen Anzug, trug einen warmen
-Alster, und sein geschminktes, bärtiges Stromergesicht paßte
+Harst steckte in einem dunklen Anzug, trug einen warmen
+Ulster, und sein geschminktes, bärtiges Stromergesicht paßte
 sehr wenig zu dieser anständigen Kleidung. Ihm waren nur
 die Arme leicht vor der Brust gefesselt, und als er mir
 nun mit halbem Lächeln zugenickt hatte, sagte er zu Griffon:
 
 »Mußte das alles wirklich sein, Herr Doktor?! Wäre
-23 nicht klüger gewesen, Sie hätten sich uns anvertraut?!
-Glauben Sie denn, im durchschaue dieses verfehlte. Spiel
+es nicht klüger gewesen, Sie hätten sich uns anvertraut?!
+Glauben Sie denn, ich durchschaue dieses verfehlte Spiel
 nicht?!« Seine Stimme war gutmütig-überredend. »Ich
-weiß sogar weit mehr als Sie, Herr. Doktor … Tatsächlich!
+weiß sogar weit mehr als Sie, Herr Doktor … Tatsächlich!
 Ihre Beziehungen zu dem angeblichen Molkenberg hat uns
-Medizin Kreuzworträtsel enthüllt. — Sie erschrecken … Keine
+ein Kreuzworträtsel enthüllt. — Sie erschrecken … Keine
 Ursache! Wir werden uns einigen … Molkenberg ist der
-Privatdetektiv Triangel Maaß, Berlin W, Eisenacher Straße
+Privatdetektiv Johannes Maaß, Berlin W, Eisenacher Straße
 <@pagebreak/>
-18\. Nur Maaß besitzt solche Hünenkräfte und solchen Baß
-Ein Beschritten Mensch, nur Spieler …«
+18\. Nur Maaß besitzt solche Hünenkräfte und solchen Baß.
+Ein gescheidter Mensch, nur Spieler …«
 
 Griffon wischte sich die Schweißtropfen weg und verwischte
 die Schminke …
 
 Seine Augen waren eingefallen … Er schien schon wieder
-gegen einen Anfall zu kämpfen. Und wirklich — ganz Blöße
-völlig wurde er ohnmächtig 10
+gegen einen Anfall zu kämpfen. Und wirklich — ganz plötzlich
+wurde er ohnmächtig …
 
 Harst sagte zu mir:
 
@@ -1265,17 +1266,17 @@ Wir müssen Griffon helfen …«
 
 Gleich darauf hatten wir beide die Arme frei.
 
-Wie richteten Griffon wieder auf, und Harald faßte
+Wir richteten Griffon wieder auf, und Harald faßte
 ihm in die Tasche und holte ein Riechfläschchen hervor, das er
 dem Bewußtlosen unter die Nase hielt.
 
 Der Doktor kam wieder zu sich.
 
-Inzwischen hatte sich Harald auch die mit darübergekämm.
-ten Haaren bedeckte, bepflasterte Stelle auf Griffons Scheite
+Inzwischen hatte sich Harald auch die mit darübergekämmten
+Haaren bedeckte, bepflasterte Stelle auf Griffons Scheitel
 angesehen.
 
-»Wir werden unser Versprechen halten und nicht fliehen
+»Wir werden unser Versprechen halten und nicht fliehen,
 Herr Doktor,« meinte er mitfühlend. »Seit wann haben Sie
 die Fleischwunde?«
 
@@ -1286,7 +1287,7 @@ dumpfem Stöhnen:
 Ich war schon bei einem Arzt … der … hält es … für
 eine fressende … Flechte!«
 
-»Unsinn — — Flecke!! — Wo gedachten Sie uns beide
+»Unsinn — — Flechte!! — Wo gedachten Sie uns beide
 einzusperren?«
 
 »Auf meiner Motorjacht … Sie liegt in Wannsee …
@@ -1301,8 +1302,9 @@ aufraffen zu können.
 Das Auto hielt auf einem Waldwege. Maaß stieg ein.
 
 <@pagebreak/>
-53\. Kapitel.
-Um Therese Lengners Tod.
+
+<h2>5. Kapitel.</h2>
+<h3>Um Therese Lengners Tod.</h3>
 
 »Es freut mich, daß auch Sie zu besserer Einsicht gekommen
 sind, Herr Maaß,« sagte Harst freundlich.
@@ -1317,15 +1319,15 @@ nach, als wir die Villa Alster verließen. Sie merkten so,
 daß wir uns für Ihren Klienten interessierten …«
 
 »Ich sah Sie am Fenster der Villa, Herr Harst, und
-nachher habe ich Sie verfolgt — nochmals verfolgt, als Sie —
-nie auf den Fersen blieben.«
+nachher habe ich Sie verfolgt — nochmals verfolgt, als Sie
+Drewke auf den Fersen blieben.«
 
 »Sie sind ehrlich — sehr verständig. — Das haben Sie
 denn mit Doktor Griffon vereinbart, nicht nur Drewke, sondern
 auch uns beide verschwinden zu lassen. Drewke befindet sich
 wohl schon auf der Jacht?«
 
-du:
+»Ja …«
 
 »Und James, der Diener?« Diese Frage wurde an Doktor
 Griffon gerichtet.
@@ -1333,16 +1335,16 @@ Griffon gerichtet.
 Der Doktor, noch immer sehr blaß und erschöpft, erwiderte
 kleinlaut: »An James wage ich mich nicht heran, Herr Harst.
 Er ist zu schlau und vorsichtig. Ich hatte keine Ahnung, daß
-er zu Drewke Beziehungen unterhielt.: Als ich ihn und das
+er zu Drewke Beziehungen unterhielt. Als ich ihn und das
 andere Personal vor einem Jahre mietete, bestachen mich
 seine tadellosen Zeugnisse …«
 
 »Die ihm nicht gehören, Herr Doktor. Ich habe bereits
 mit Hilfe eines befreundeten Kriminalkommissars festgestellt,
-daß James Garden, ehemals Kammerdiener bei Sir Erregt
-Versagten, dem Ersten Sekretär des Vizekönigs von Indien,
-im Münden im Mai 1924 während einer Europareise seines
-Herrn gestorben ist. Ich v James Garden ist also ein anderer
+daß James Garden, ehemals Kammerdiener bei Sir Ernest
+Kensington, dem Ersten Sekretär des Vizekönigs von Indien,
+in München im Mai 1924 während einer Europareise seines
+Herrn gestorben ist. *Ihr* James Garden ist also ein anderer
 Mann. Und Ihre Köchin, Herr, ist … Drewkes Frau!«
 
 <@pagebreak/>
@@ -1350,7 +1352,7 @@ Mann. Und Ihre Köchin, Herr, ist … Drewkes Frau!«
 konnte nicht weitersprechen, so entsetzt war er,
 
 Harald fragte gelassen weiter: »Wann schöpften Sie gegen
-James Verdacht 2?«
+James Verdacht?«
 
 »Das — das mag zwei Monate her sein, Herr Harst.
 Er erzählte mir eines Morgens, daß ich im Schlaf allerlei
@@ -1360,22 +1362,22 @@ in ganz merkwürdigem Tone … Und von da an begann ich
 zu trinken und trat mit Maaß in Verbindung. Ich wagte
 nicht mehr, nüchtern zu Bett zu gehen. Ich wollte so erschöpft
 auf mein Lager sinken, daß kein Traumgesicht über
-mich Gewalt bekäme. — Dann hat Hinab vorgestern nach
-Kleines Flucht aus dem Zuchthaus James und Drewke beisammengesehen.
-Ich … fürchte James, denn ich weiß ja
-nicht, was alles im im Schlaf ausgeplaudert habe … James
+mich Gewalt bekäme. — Dann hat Maaß vorgestern nach
+Drewkes Flucht aus dem Zuchthaus James und Drewke
+beisammengesehen. Ich … fürchte James, denn ich weiß ja
+nicht, was alles ich im Schlaf ausgeplaudert habe … James
 glaubt mich heute in Berlin in der Staatsbibliothek, die ich
 häufiger besuchte. Ich wollte in meine Villa nicht mehr zurückkehren,
-die im gestern in aller Heimlichkeit verkauft habe.
+die ich gestern in aller Heimlichkeit verkauft habe.
 Die Anzahlung genügt mir, ich bin reich, und meine Papiere
 und Manuskripte hatte ich in einer Aktentasche mitgenommen.
-Maaß und ich wollten na; Norwegen. Maaß hatte schon
+Maaß und ich wollten nach Norwegen. Maaß hatte schon
 für Pässe gesorgt. Von dort gedachten wir nach Australien
 auszuwandern. Kurz — ich habe alle Brücken hinter mir
 abgebrochen …«
 
 »Frau Lengners wegen!!« — und Harsts Augen ruhten
-fest auf Griffons bleiben Gesicht.
+fest auf Griffons bleichem Gesicht.
 
 Der Doktor senkte den Kopf …
 
@@ -1394,16 +1396,16 @@ gewisser Einzelheiten informiert, Herr Doktor …«
 Griffon hob den Kopf und warf Harst einen unsicher
 fragenden Blick zu. »Einzelheiten?! Ich wüßte nicht, daß …«
 
-»Co — vergessen Sie Drewke nicht, Herr Doktor, und
+»O — vergessen Sie Drewke nicht, Herr Doktor, und
 manches andere. Wer wie ich daran gewöhnt ist, geringfügige
-Kleinigkeiten als Bausteine zu benutzen, reimt sich umsonst
+Kleinigkeiten als Bausteine zu benutzen, reimt sich unschwer
 zusammen, daß Sie Zeuge waren, als Drewke die in ihrem
 Schlafzimmer liegende Tote beraubte, was er ohne weiteres
 zugegeben hat. Wahrscheinlich verhält es sich damit folgendermaßen:
-Sie waren mit Frau Lengner sehr eng b«;«Sundes.
-Beweis: die Widmung auf der Bauchseite des Bronz2teckkel8,«
+Sie waren mit Frau Lengner sehr eng befreundet.
+Beweis: die Widmung auf der Bauchseite des Bronzeteckels,«
 
-»Au — auch das wissen Sie!«
+»Ah — auch das wissen Sie!«
 
 »Sie hatten an jenem Abend mit Ihrer Freundin ein
 Stelldichein verabredet. Das eine Schlafzimmerfenster hatte
@@ -1415,11 +1417,11 @@ gewesen sein. Dann benutzten Sie das Fenster zum Einsteigen.
 Kaum hatten Sie sich von Ihrem Entsetzen über
 den Anblick der Ermordeten etwas erholt, als ein Geräusch
 vom Fenster her Sie in ein Versteck scheuchte. Sie sahen
-Drewke ins Zimmer klettern, beobachteten. ihn und verhielten
+Drewke ins Zimmer klettern, beobachteten ihn und verhielten
 sich still, was ja erklärlich ist, da nur zu leicht der Verdacht
 der Täterschaft auf Sie hätte fallen können. Nachdem
-Drewke mit seinem Raube wieder verschwunden war, Vers
-ließen Sie die Villa gleichfalls in aller Stille durch das
+Drewke mit seinem Raube wieder verschwunden war, verließen
+Sie die Villa gleichfalls in aller Stille durch das
 Fenster. Drewke hat nun in der Nähe auf der Lauer gelegen,
 sah Sie, aber erkannte Sie nicht, das heißt, er konnte
 nachher vor Gericht nur eine sehr ungenaue Beschreibung der
@@ -1429,16 +1431,16 @@ worden, was ein Beweis dafür ist, daß Sie Ihre Beziehungen
 zu der Witwe vor aller Welt ängstlich verheimlichten.
 <@pagebreak/>
 Man hat Sie eben für einen entfernten Bekannten Frau
-Lengners gehalten, die in Künstler= und Gelehrtenkreisen eifrig
+Lengners gehalten, die in Künstler- und Gelehrtenkreisen eifrig
 verkehrte, ohne direkt Geselligkeit zu pflegen. Sie verließen
 dann München und siedelten nach Berlin über, ohne in der
 Schwurgerichtsverhandlung gegen Drewke als Entlastungszeuge
-sich zu melden — zu ein wenig verständlich! — Drewke
+sich zu melden — auch ein wenig verständlich! — Drewke
 fand als Zuchthäusler in dem noch reichlich rätselhaften
 James einen Freund und Helfer. Er konnte fliehen, und nun
 sollte es Ihnen, Herr Doktor, hier an den Kragen gehen.«
 
-Griffon Kiste etwas widerwillig. Harsts logische Schlüsse
+Griffon nickte etwas widerwillig. Harsts logische Schlüsse
 stimmten mithin.
 
 »Ich mache Ihnen nun folgenden Vorschlag, Herr Doktor,«
@@ -1452,7 +1454,7 @@ geben. Er ist Junggeselle und lebt allein. Nachher werden
 wir drei uns in Ihre Villa begeben und mit James abrechnen
 …«
 
-Griffon hob abwehrend die Hand. »Unmöglich!! James
+Griffon hob abwehrend die Hand. »Unmöglich! James
 weiß, daß ich bei der Ermordeten war …! Man wird mich
 verhaften, denn James schont mich sicherlich nicht, und …«
 
@@ -1460,36 +1462,36 @@ verhaften, denn James schont mich sicherlich nicht, und …«
 daß er schweigen wird … Er hat weit mehr auf dem Kerbholz
 als Sie ahnen …«
 
-Harst sprach das mit sollen Nachdruck, daß Griffon
+Harst sprach das mit solchem Nachdruck, daß Griffon
 sich fügte … — —
 
-drei Uhr nachmittags betraten wir Griffons Villa.
-Ein! Bis zur Nachbarvilla hin zeigte mir Gerda Alster, die
-mit Sie verblüfftem Gesicht oben an ihrem Salonfenster
+Um drei Uhr nachmittags betraten wir Griffons Villa.
+Ein Blick zur Nachbarvilla hin zeigte mir Gerda Alster, die
+mit deutlich verblüfftem Gesicht oben an ihrem Salonfenster
 stand.
 
-James empfing uns in der Diele, die durch; Wandleuchter
+James empfing uns in der Diele, die durch Wandleuchter
 und eine Hirschgeweihkrone in strahlendste Helle getaucht war.
-Zum ersten Male hatte im nun diesen rätselhaften Moos
+Zum ersten Male hatte ich nun diesen rätselhaften Menschen
 <@pagebreak/>
-eben dicht vor mir. Sein Gesicht interessierte mich am
+dicht vor mir. Sein Gesicht interessierte mich am
 meisten — vorläufig. Aus solcher Nähe gesehen wirkte es
 ganz anders. Der angebliche James Garden hatte einen
 etwas dunklen Teint, vorspringende Backenknochen, kleine
 Augen und einen breiten Mund mit dünnen, grausamen
-Lippen. Diese Mundpartie verwischte sofort für jeden Wege
-sHentfenner den Eindruck, den dieser James durch eine stupide
+Lippen. Diese Mundpartie verwischte sofort für jeden Menschenkenner
+den Eindruck, den dieser James durch eine stupide
 Miene kriecherischer Unterwürfigkeit hervorrufen wollte. Als
 er uns beide in Begleitung seines Herrn sah — er kannte uns
 von Ansehen zweifellos sehr genau, flog über seine Züge
 ein Schatten hin. Aber er hatte sich tadellos in der Gewalt,
 und er verbeugte sich nur devot, als Griffon ihm befahl, mit
-ins Arbeitszimmer zu kommen, Hier sagte Harald dann zu
+ins Arbeitszimmer zu kommen. Hier sagte Harald dann zu
 mir: »Du sorgst dafür, daß James das Zimmer nicht verläßt.
 Nimm deine Pistole … Schieße, wenn er sich auch nur von
 dem Stuhl dort erhebt …«
 
-James sagte mit keiner Wimper, fragte nur in recht
+James zuckte mit keiner Wimper, fragte nur in recht
 gebrochenem Deutsch seinen Herrn: »Herr Doktor, ich begreife
 nicht, was dies bedeutet?! Bin ich ein Verbrecher, das
 man …«
@@ -1501,12 +1503,12 @@ Erlaubnis!«
 Er verließ das Arbeitszimmer …
 
 Griffon setzte sich in den Schreibsessel, ich in den Klubsessel
-dicht daneben. Meine Clement war auf James sei
-richtet, der steif und gelassen auf einem Stuhl saß.
+dicht daneben. Meine Clement war auf James gerichtet,
+der steif und gelassen auf einem Stuhl saß.
 
 Fünf Minuten vergingen. Wir sprachen kein Wort.
 
-— Dann tat die Tür sich wieder auf. Harst trat mit einem
+Dann tat die Tür sich wieder auf. Harst trat mit einem
 grauen Kästchen aus Pappe ein, riegelte die Tür ab und
 lehnte sich dagegen.
 
@@ -1515,19 +1517,19 @@ Ihrer Stube, James …« begann er unheimlich ruhig.
 
 James Gesicht hatte Erdfarbe.
 
-»Es ist ein mit Papier verlebtes Kästchen aus Blei, und
+»Es ist ein mit Papier beklebtes Kästchen aus Blei, und
 <@pagebreak/>
 in diesem liegt eins der gemeinsten Mordmittel, das die neuere
 Wissenschaft kennt … — Bitte …«
 
 Er hatte den Deckel gehoben, zeigte uns nun einen
-BronzeteFelkopf, der vollkommen dem der Bronzefigur glich.
+Bronzeteckelkopf, der vollkommen dem der Bronzefigur glich.
 
 Er sprach weiter: »Sie, James Garden, oder wie Sie
 sonst heißen mögen, haben Ihren Herrn durch Radium zu
 töten versucht. Sie gingen außerordentlich schlau zu Werke,
-indem Sie scheinbar abends kurz vor Doktor Griffons Heim
-sehr den Tee! dort auf dem Schreibtisch; abstäubten und
+indem Sie scheinbar abends kurz vor Doktor Griffons Heimkehr
+den Teckel dort auf dem Schreibtisch abstäubten und
 besonders sorgfältig den Kopf säuberten. Das Staubtuch gestattete
 Ihnen, den harmlosen Kopf unbemerkt vom Rumpf
 zu schrauben und diesen anderen, hinter dessen rechtem Auge
@@ -1541,7 +1543,7 @@ zu Tobsuchtsanfällen gesteigert hätten.«
 Griffon lehnte bleich im Sessel …
 
 »Mein … Gott …!!« murmelte er. »Also daher diese
-wahnsinnigen Kopfschmerzen und die angebliche Flechten«
+wahnsinnigen Kopfschmerzen und die angebliche Flechte!«
 
 Harst fixierte James sehr scharf …
 
@@ -1549,8 +1551,8 @@ Harst fixierte James sehr scharf …
 gekommen, wenn nicht diese immerhin merkwürdige Tatsache,
 daß Sie jeden Abend den Bronzeteckel säuberten, mir stets
 von neuem zu denken gegeben hätte. Heute fiel mir endlich
-die Erklärung ein, nachdem im nachts hier erfolglos eingedrungen
-und den Tee! als harmlos vorgefunden hatte. Es
+die Erklärung ein, nachdem ich nachts hier erfolglos eingedrungen
+und den Teckel als harmlos vorgefunden hatte. Es
 ist eben ein Teckel mit zwei Köpfen, und Sie, James, sind
 reif für das Zuchthaus!«
 
@@ -1558,9 +1560,9 @@ Ein unglaublich freches Grinsen überflog da das breite
 Gesicht des Dieners.
 
 »Nun — auch andere sind reif dafür, Herr Harst,« meinte
-er in Seinem holperigen Deutsch. »Auch andere …! Griffon
+er in seinem holperigen Deutsch. »Auch andere …! Griffon
 <@pagebreak/>
-Westturm!! Fragen Sie ihn mal, was er über den Tod Frau
+bestimmt! Fragen Sie ihn mal, was er über den Tod Frau
 Therese Lengners weiß!!«
 
 Harald machte eine geringschätzige Handbewegung. »Sie
@@ -1578,27 +1580,27 @@ wenn Sie mich der Polizei ausliefern, werde ich den Beweis
 erbringen, daß Doktor Griffon Frau Lengner erdolcht hat,
 denn — — die Waffe im Herzen der Toten war sein Eigentum,
 war ein Andenken an seine Tibetreise, ein tibetanischer
-Voll?! — Da — sehen Sie sein Besitz!! Bitte!! So sieht
+Dolch! — Da — sehen Sie sein Gesicht! Bitte!! So sieht
 die verkörperte Schuld aus …!«
 
 Ich schaute Griffon entsetzt an …
 
-Er zitterte … Und mit einem ächzenden-. Laut sank er
+Er zitterte … Und mit einem ächzenden Laut sank er
 vom Schreibsessel auf den bunten Perserteppich …
 
-<@pagebreak/>
-Das Geheimnis
-um Frau Lengner
+<@pagebreak 37/>
+
+<h1>Das Geheimnis um Frau Lengner.</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Der Ausgang in den Turm.</h3>
+<h3>Der Ausgang in den Flur.</h3>
 
 Als wir Griffon auf den Diwan gelegt hatten und das
-Richtigkeit seine Schuldigkeit tat, als ich mich nach James
-umschhchaute, da saß er mit nachlässig gekreuzten Beinen auf
+Riechfläschchen seine Schuldigkeit tat, als ich mich nach James
+umschaute, da saß er mit nachlässig gekreuzten Beinen auf
 seinem Stuhl und lächelte …
 
-Der Doktor kam wieder zu sich, größte den Kopf in die
+Der Doktor kam wieder zu sich, stützte den Kopf in die
 Hand und stierte ins Leere.
 
 Erst das, was nun zwischen Harst und James sich abspielte,
@@ -1606,12 +1608,12 @@ erweckte wieder sein Interesse.
 
 Harst war rasch vor den unverschämt grinsenden Menschen
 hingetreten … »Wagen Sie noch weiter in dieser Art zu
-lächeln, und ich …« — seine geballte Faust machte eine unzweideutige
-Bewegung …
+lächeln, und ich …« — seine geballte Faust machte eine
+unzweideutige Bewegung …
 
 James erhob sich blitzschnell. Der ganze Mensch wurde
 ein anderer … Das Gesicht wechselte den Ausdruck, wurde
-eisigster Heimat, und Docht auch so unbeschreiblich ablehnend
+eisigster Hochmut, und Doch auch so unbeschreiblich ablehnend
 und unnahbar, — die Augen kalt und hart, zwingend, und
 erfüllt von einem maßlosen Haß …
 
@@ -1620,12 +1622,12 @@ sprühend wie die flackernde Glut eines durch Nebelschwaden
 leuchtenden Feuers, — diese Augen gaben der Erscheinung
 des Dieners etwas so Ungewöhnliches, so Überraschendes,
 daß selbst Griffon sich mit einem Ruck aufrecht setzte und
-den Kopf in starrem Staunen weit Verstecke.
+den Kopf in starrem Staunen weit vorstreckte.
 
 <@pagebreak/>
 Harst ließ die Faust sinken …
 
-»A — also das!!« jagte er halblaut …
+»Ah — also das!!« sagte er halblaut …
 
 Und das klang ironisch …
 
@@ -1634,15 +1636,15 @@ Ich verstand ihn nicht …
 Er drehte sich langsam wieder um.
 
 »Bringen wir James ins Nebenzimmer …« — und
-seine Stimme hatte schon wieder den gewohnten kühl=nach-denklichen
+seine Stimme hatte schon wieder den gewohnten kühl-nachdenklichen
 Ton.
 
 James war inzwischen gleichsam in den früheren, frech
-und unverschämt grinsenden Diener zurücverändert worden,
-Dieser Wechsel seines Gesicht3aus8drucks8 hatte schon begonnen,
-als Harst dieses ironisch—halblaute »Ah — also das!« vor
-sich hin sprach. Wir schien’s, als hätte diese mir unser
-gründliche Bemerkung Haralds den seltsamen Menschen irgendwie
+und unverschämt grinsenden Diener zurückverändert worden.
+Dieser Wechsel seines Gesichtsausdrucks hatte schon begonnen,
+als Harst dieses ironisch-halblaute »Ah — also das!« vor
+sich hin sprach. Mir schien’s, als hätte diese mir unverständliche
+Bemerkung Haralds den seltsamen Menschen irgendwie
 gewarnt und daher veranlaßt, seinen wahren Charakter
 nicht noch weiter durch sein Mienenspiel zu entblößen.
 
@@ -1650,16 +1652,17 @@ Harst deutete befehlend auf die angelehnte Tür der
 Bibliothek. James gehorchte mit lässigen Bewegungen, und
 Doktor Griffon kam zögernd hinter uns drein.
 
-»Binden wir ihn hier auf diesem geschnitten Sessel
+»Binden wir ihn hier auf diesem geschnitzten Sessel
 fest,« sagte Harald ohne schärfere Betonung. »Sie haben
 dort an der Wand unter der Waffendekoration einen Lasso
 hängen, Doktor, — wohl ein Reiseandenken …«
 
 James ließ alles mit sich geschehen. Auf seinem Gesicht
-blieb das fror Grinsen wie eingefroren. Es war das
-Grinsen eines ’rohen, ungebildeter Burschen, der in seiner
+blieb das freche Grinsen wie eingefroren. Es war das
+Grinsen eines rohen, ungebildeter Burschen, der in seiner
 Wehrlosigkeit kein anderes Mittel hat, seine Bezwinger zu
 ärgern.
+
 Harst band ihn derart an den Sessel, daß jede Flucht
 unmöglich war. »Wir reden nachher mit Ihnen,« meinte er
 dann und winkte uns. Wir kehrten in Griffons Arbeitszimmer
@@ -1671,31 +1674,31 @@ James zu geschehen hat, uns einigen können, muß ich von
 <@pagebreak/>
 Ihnen, Griffon, nunmehr vollkommenste Offenheit fordern. Sie
 sind nicht Therese Lengners Mörder, das weiß ich … Wie
-aber kam Ihr Tal in die Villa der Witwe?«
+aber kam Ihr Dolch in die Villa der Witwe?«
 
 Griffon beugte sich im Schreibsessel vor und blickte
 Harald ohne Scheu an. »Ich hatte ihr den Dolch geschenkt.
-Sie war meine Geliebte. /Ich wollte sie heiraten, aber sie
+Sie war meine Geliebte. Ich wollte sie heiraten, aber sie
 weigerte sich hartnäckig und verlangte sogar, daß unsere
 vertrauten Zusammenkünfte genau so wie unsere Begegnungen
 in der Gesellschaft auf keinen Fall den Eindruck erwecken
 dürften, wir seien auch nur Freunde. Auf meine geradezu
-flehentlichen Bitten, mir doch« für immer als Gattin anzus-gehören,
+flehentlichen Bitten, mir doch für immer als Gattin anzugehören,
 erklärte sie einmal mit halb erstickter Stimme: »Es
-wäre von mir ein Verbrechen, Stuart, wenn im Ihr Leben
-denselben Gefahren aussehen wollte, von denen ich ständig
+wäre von mir ein Verbrechen, Stuart, wenn ich Ihr Leben
+denselben Gefahren aussetzen wollte, von denen ich ständig
 umgeben bin. — Fragen Sie nichts, Stuart … Ich dürfte
 nicht antworten. Ich weiß, daß Sie mich nicht verstehen …
-Sie sollen es auch mit!! Schon meine Freundschaft ist gefährlich.«
-Dann nahm sie meine Hände, blickte Wisch mit
+Sie sollen es auch nicht! Schon meine Freundschaft ist gefährlich.«
+Dann nahm sie meine Hände, blickte mich mit
 tränenverschleierten Augen an und fügte innig hinzu: »Ich
 liebe dich, das weißt du! Laß mich mein Geschick allein
-betrogen und mich das Glut, das du mir schenkst, so lange
+tragen und mich das Glück, das du mir schenkst, so lange
 genießen, als dies mir vergönnt ist.« — Sie war eine sehr
 energische, sportgeübte Frau, Herr Harst, eine tadellose Reiterin
 und Schützin. Ihre damaligen Worte habe ich mir
 so oft im stillen wiederholt und so oft über deren tieferen
-Sinn nachgegrübelt, daß ich sie nachts heute auswendig weiß.
+Sinn nachgegrübelt, daß ich sie noch heute auswendig weiß.
 Natürlich bat ich Thea — so nannte ich sie stets — mir
 diese merkwürdigen Sätze näher zu erklären. Sie schüttelte
 nur den Kopf. Sie war eben eine Frau mit eisernem
@@ -1716,10 +1719,10 @@ Lengner, der sie mit nach Indien nahm, wo er in Kalkutta
 als Vertreter der Krupp-Werke tätig war. Die Ehe blieb
 kinderlos. Lengner verunglückte dann auf einer Tigerjagd
 in der Nähe der nepalesischen Grenze. Als Witwe kehrte
-Thea mit fünfundzwanzig Jahren nach Münden zurück. Ihre
+Thea mit fünfundzwanzig Jahren nach München zurück. Ihre
 Eltern waren inzwischen gestorben, und sie bezog die Sommervilla
 ihrer Eltern am Starnberger See in Tutzing. Ich lernte
-sie dann bei Professor Leichen kennen. Es war Liebe auf
+sie dann bei Professor Weixler kennen. Es war Liebe auf
 den ersten Blick. Thea hatte in ihrer Ehe nicht das gefunden
 gehabt, was sie erwartet hatte, denn der Ingenieur Lengner
 war mehr Gelehrter, Forscher, Jäger, als Ingenieur und
@@ -1727,8 +1730,8 @@ Ehemann.«
 
 Harst hatte sich eine Mirakulum angezündet. Seine hohe
 Stirn lag in Falten, und während er mechanisch ein paar
-Züge rauchte, war sein Bis unverwandt auf den unheimlichen
-Tee! gerichtet.
+Züge rauchte, war sein Blick unverwandt auf den unheimlichen
+Teckel gerichtet.
 
 »Frau Thea muß doch also Feinde gehabt haben …«
 meinte er dann mehr zu sich selbst. »Und zwar Feinde,
@@ -1736,19 +1739,19 @@ besser einen Feind, der ihr … aus Eifersucht nachstellte …
 Anders sind ihre Worte kaum zu deuten. Wenn sie zu
 Ihnen gesagt hat: »Es wäre von mir ein Verbrechen, Ihr
 Leben denselben Gefahren auszusetzen,« — wenn sie weiter
-so streng verhüten wollte, daß nicht einmal der Anschein elf
-weckt würde, zwischen Ihnen bestände auch nur Freundschaft,
+so streng verhüten wollte, daß nicht einmal der Anschein erweckt
+würde, zwischen Ihnen bestände auch nur Freundschaft,
 so bleibt nur das eine: ein eifersüchtiger, abgesetzter Liebhaber!«
 
 Griffon schüttelte energisch den Kopf. »Von einem Liebhaber
 außer mir kann keine Rede sein — bestimmt nicht,
-Herr Harst!! Thea hätte mir das nicht verschwiegen. Sie —
+Herr Harst! Thea hätte mir das nicht verschwiegen. Sie —
 war so ehrlich, so tapfer. Nein, es muß da etwas anderes
 mitspielen …«
 
 <@pagebreak/>
 Harst rauchte, hielt die Augen halb geschlossen, und um
-seinen Mund lagen die triefen Kerben intensivster Anspannung
+seinen Mund lagen die tiefen Kerben intensivster Anspannung
 aller Geisteskräfte.
 
 So verstrichen Minuten.
@@ -1763,7 +1766,7 @@ oder Tibetanern gehabt haben?«
 »Seltsam — seltsam …! — Sie würden also dafür sein,
 Doktor, daß wir James laufen ließen?«
 
-Sie ie
+»Ja …«
 
 »Und — wenn James der Mörder Frau Theas wäre?«
 
@@ -1774,7 +1777,7 @@ gedacht, Herr Harst …«
 James Frau Thea, dann will er Sie beseitigen … Es ist
 schon ein Zusammenhang da, wenn man eben an … Eifersucht
 denkt, an einen tödlichen Haß. Denn …« — seine Stimme
-sank voll mehr — »denn James ist kein Europäer, sondern
+sank noch mehr — »denn James ist kein Europäer, sondern
 … Mongole … Ich halte ihn für einen Tibetaner, für einen
 gelehrten Mönch aus Tibet …«
 
@@ -1782,10 +1785,10 @@ Griffons Gesicht zeigte jetzt genau dasselbe ungläubige
 Staunen wie das meine.
 
 »Haben Sie ihn vorhin beobachtet, als ich ihn mit der
-Faust bedrohte?« fuhr Harst nachts leiser und eindringlicher
+Faust bedrohte?« fuhr Harst noch leiser und eindringlicher
 fort. »Sahen Sie die jähe Veränderung seiner Züge? Da
 verriet er sich. Da kam die ganze Überhebung, der ganze
-Schnur dieser gelehrten Tibetaner gegenüber uns Europäern
+Hochmut dieser gelehrten Tibetaner gegenüber uns Europäern
 mit unserer abgewirtschafteten Scheinkultur zum Durchbruch.
 Asien, insbesondere die Hochebenen des Himalaya,
 schaut auf eine Kultur zurück, die um Jahrtausende älter ist
@@ -1799,18 +1802,18 @@ liegende Geheimnisse zu erforschen. Deshalb dieser zumeist
 gut verhehlte Hochmut der Asiaten. Sie alle fühlen instinktiv,
 daß sie wiederum die Träger einer neuen Kultur werden
 müssen, daß sie eine Mission im Weltgeschehen gehabt haben
-und noch« haben. Was ist Europa gegen Chinas und Indiens
-Wolkenmassen?! Nichts!! Betrachten Sie die Entwicklung
+und noch haben. Was ist Europa gegen Chinas und Indiens
+Völkermassen?! Nichts!! Betrachten Sie die Entwicklung
 in China, Doktor, und … werden Sie ganz bescheiden!
 Vielleicht steht die Zeit nahe bevor, in der wir Europäer von
 Asien aus kommandiert werden. Und dieser James, behaupte
 ich, ist einer jener intelligenten Köpfe, die Asien in Flammen
-aufgehen lassen können …
+aufgehen lassen können …«
 
-Griffon Kiste … »Sie haben mit alledem nur zu sehr
+Griffon nickte … »Sie haben mit alledem nur zu sehr
 recht, verehrter Herr Harst. Ich kenne Indien … Und jetzt
-weiß iG€ auch: James ist Tibetaner, einer von jenen hellhäutigen
-Tibetanern, die das reine Blut der Übernehmen der
+weiß ich auch: James ist Tibetaner, einer von jenen hellhäutigen
+Tibetanern, die das reine Blut der Urbewohner der
 Himalaya-Höhen in ihren Adern spüren … Ich war blind.
 James hat Mongolentyp. — — Was soll nun werden, wenn
 er wirklich ihr Mörder ist?«
@@ -1821,8 +1824,7 @@ Vielleicht gewinne ich. Ich werde ihm schon irgendeine Falle
 stellen …«
 
 Hierzu kam es nicht. Als wir die Bibliothek betraten,
-um wir den Lasso zerschnitten, den Sessel leer und …
-
+fanden wir den Lasso zerschnitten, den Sessel leer und …
 … die Flurtür verriegelt, ebenso die Fenster.
 
 James war lautlos geflüchtet.
@@ -1832,14 +1834,14 @@ zurückgeschickt, damit wir ihn nicht bei seiner überaus
 sorgfältiger Untersuchung der Bibliothek störten.
 
 Es war ein Zufall, daß ich dann auf den Streifen Parkettfußboden
-Zynischen Teppich und Verbindungstür Wüste. Da
+zwischen Teppich und Verbindungstür blickte. Da
 lag ein winziges Stückchen Leder, ein Lederschüppchen, das
 <@pagebreak/>
 von dem Lasso stammte, James in den Schoß und nachher
 auf die Dielen gefallen sein mußte.
 
 James hatte sich also, nachdem irgend jemand ihn mit
-einem offenbar sehr scharfen Messer losgeschnitten Ratte, bis
+einem offenbar sehr scharfen Messer losgeschnitten hatte, bis
 hier an die Tür geschlichen und hatte uns belauscht. Ob er
 etwas von der sehr leise geführten Unterhaltung Harsts und
 Griffons verstanden haben konnte, war eine andere Frage.
@@ -1855,9 +1857,9 @@ meinte er, indem er nochmals die Tür nach dem Flur genau
 besichtigte. »Hallo — hier haben wir ja schon etwas …!«
 Und er bückte sich, und mit einem Male stand die untere
 Türfüllung weit offen. »Sehr sauber gearbeitet, dieser Durchschlupf
-…? Sicherlich daß Werk James’ … — Pflegten Sie
-auch diese Tür nachts vor dem Schlafengehen zu der
-sperren, Doktor?«
+…! Sicherlich das Werk James’ … — Pflegten Sie
+auch diese Tür nachts vor dem Schlafengehen zu versperren,
+Doktor?«
 
 »Ja … Mein Schlafzimmer liegt drüben neben dem
 Arbeitszimmer. Seit James mich angeblich im Schlafe belauscht
@@ -1865,14 +1867,13 @@ hatte, war ich doppelt vorsichtig.«
 
 Harald kniete jetzt auf dem Parkettboden … Dicht vor
 der aufklappbaren Füllung … Nahm sein Vergrößerungsglas
-aus der Tasche und musterte das spiegelblanke Balken.
+aus der Tasche und musterte das spiegelblanke Parkett.
 
 »Sagen Sie, Doktor, besaß James etwa einen zahmen
 Affen,« fragte er leicht erregt.
 
 »Gewiß, einen Schimpansen, ein ziemlich großes Tier
-
-Zoo war leider ebenso gelehrig wie bissig, und er hatte
+… Jocko war leider ebenso gelehrig wie bissig, und er hatte
 daher seinen Käfig im Stall. James kaufte ihn vor drei
 Monaten einem kleinen Zirkus ab, der hier im Vorort sein
 Zelt aufgeschlagen hatte. Er fragte mich vorher, ob ich etwas
@@ -1880,8 +1881,8 @@ dagegen hätte …«
 
 »Merkwürdig …! Der Schimpanse kann doch nicht billig
 <@pagebreak/>
-gewesen sein … Überhaupt eine sonderbare Tierschwär«-
-Geheimniskrämerei …! — Wissen Sie genau, Doktor, daß der Schimpanse
+gewesen sein … Überhaupt eine sonderbare Tierschwärmerei
+…! — Wissen Sie genau, Doktor, daß der Schimpanse
 aus dem Zirkus stammte?«
 
 Griffon stutzte. »James sagte es mir, und ich hatte
@@ -1900,12 +1901,12 @@ Ihnen der Schimpanse den Hals abgeschnitten, und kein
 Mensch würde James deswegen haben verantwortlich machen
 können.«
 
-Griffon leise sich nervös die trockenen Lippen … —
+Griffon leckte sich nervös die trockenen Lippen … —
 
-Gleich darauf hatten wir von dem Stubenmädchen elf
-Jahren, daß James, die Köchin und Zoo durch den Gemüsegarten,
+Gleich darauf hatten wir von dem Stubenmädchen erfahren,
+daß James, die Köchin und Jocko durch den Gemüsegarten,
 der an ein freies Baugelände stieß, vor etwa einer
-Siertelstunde die Villa ohne sonderliche Eile »alten hätten.
+Viertelstunde die Villa ohne sonderliche Eile verlassen hätten.
 
 <h2>2. Kapitel.</h2>
 <h3>Der Schimpanse.</h3>
@@ -1921,14 +1922,14 @@ Alsters schlanke Sportfigur bemerkte.
 Harst grüßte …
 
 »Doktor, wollen Sie nicht der jungen Dame, die Sie doch
-als Ihre Retterin ansehen müssen, vorgestellt werden 2?«
+als Ihre Retterin ansehen müssen, vorgestellt werden?«
 
 <@pagebreak/>
 »Natürlich — sehr gern …«
 
 Gerda Alster, die einen warmen Mantel mit hochgeklapptem
 Pelzkragen trug, erklärte nun plötzlich, sie habe James’
-und Frau Drewkes Flucht vom Fenster aus beobachtet»…
+und Frau Drewkes Flucht vom Fenster aus beobachtet …
 »Mit meinem Fernglas konnte ich genau feststellen, wo die
 beiden Personen mit dem Affen drüben in den Wald einbogen,
 Herr Harst … Trotz der zunehmenden Dunkelheit werden
@@ -1952,10 +1953,10 @@ Unzulänglichkeit als Liebhaberdetektiv vor Augen führte.
 
 Harst blieb zehn Schritt vor dem alten knorrigen Stamm
 stehen, faßte in die Tasche, holte die Clement hervor, entsicherte
-sie und rief in das dichte Ast= und Blätterwerk des Baumes
+sie und rief in das dichte Ast- und Blätterwerk des Baumes
 empor:
 
-»Damm herunter, Junge, oder ich brenne dir eins auf
+»Komm herunter, Junge, oder ich brenne dir eins auf
 den Pelz!«
 
 Ich war starr.
@@ -1971,24 +1972,24 @@ zu Ast und rutschte schließlich am Stamm herab, landete dicht
 vor uns, kauerte sich am Boden zusammen und stierte die
 Pistole an …
 
-»Also doch!« lachte Harst gutmütig. »Wußte ich’s doch?
+»Also doch!« lachte Harst gutmütig. »Wußte ich’s doch!
 Als, Griffon erwähnte, James habe den Affen stets in dem
 großen, halbdunklen Käfig belassen und ihn nur selten zu sich
 in seine Stube genommen, als der Doktor auch betonte, er
-habe Jacke niemals so recht aus der Nähe sich ansehen
-können, da war meine Schlußfolgerung, die im aus der
+habe Jocko niemals so recht aus der Nähe sich ansehen
+können, da war meine Schlußfolgerung, die ich aus der
 Form der Fußspur des Affen gezogen hatte, schon halb und
 halb zur Gewißheit geworden.«
 
 »Ein … Mensch, ein Kind?!« rief ich …
 
-»Nein, ein Zwerg, ein indischer Dakka-Zwerg wahrsch2in-lich,
+»Nein, ein Zwerg, ein indischer Dakka-Zwerg wahrscheinlich,
 und das sind die kleinsten menschlichen Geschöpfe des
 Erdenrunds … Du kennst sie ja, mein Alter … Es ist nicht
-der erste Dakka, mit dem wir es zu tun haben wo
+der erste Dakka, mit dem wir es zu tun haben …«
 
-Und zu Jacke — wieder auf englisch: »Schüttele nur
-deinen Pelz ab, mein Bursche … Die Komödie ist aus …
+Und zu Jocko — wieder auf englisch: »Schüttele nur
+deinen Pelz ab, mein Bursche … Die Komödie ist aus …«
 
 Harald trat vor, packte ihn beim Genick und schob ihn
 vor sich her — der Villa Griffon zu.
@@ -1998,11 +1999,11 @@ wir denn unbemerkt den Garten betreten.
 
 Griffon und Gerda waren nicht mehr da.
 
-»Ziel dir den Affenkopf wieder über!« befahl Harst.
+»Zieh dir den Affenkopf wieder über!« befahl Harst.
 
 Ich holte Griffon, den Stallschlüssel und eine Laterne.
 
-Der Doktor ahnte nacht nicht, was es mit John in
+Der Doktor ahnte noch nicht, was es mit Jocko in
 Wahrheit auf sich hatte.
 
 Wir sperrten den Schimpansen also wieder in den Käfig
@@ -2010,17 +2011,17 @@ ein. Griffon leuchtete. Harst besichtigte den Käfig sehr genau.
 Die Stäbe waren dick, und dieser Kerker genügte für unseren
 Gefangenen durchaus, nachdem Harald die Tür verschlossen
 hatte. Dann erst sagte er zu Griffon: »Gestatten Sie, daß
-Ihnen hier James’ menschlichen Zwergverbündeten vorstelle.
-— Tode, runter mit dem Schädel!«
+ich Ihnen hier James’ menschlichen Zwergverbündeten vorstelle.
+— Jocko, runter mit dem Schädel!«
 
 Die Karbidlaterne entfiel beinahe Griffons Hand …
 
-»Unglaublich? — — ein Dakka!!«
+»Unglaublich — — ein Dakka!!«
 
 <@pagebreak/>
-»Ah, Sie kennen das Wölkchen …! Nun, dieser Dakka
+»Ah, Sie kennen das Völkchen …! Nun, dieser Dakka
 wird uns wohl über Herrn James nähere Auskunft geben
-können. — Jacke, wie lange kennst du James?«
+können. — Jocko, wie lange kennst du James?«
 
 Jetzt öffnete der Dakka zum ersten Male sein Wulstmaul.
 
@@ -2047,12 +2048,12 @@ ist jedem erlaubt, und wenn sich nachher herausstellt,
 daß dieser Affe ein Dakka ist, so kann ich nichts dafür.
 Also — wie heißt James in Wahrheit?«
 
-Der Dakka hockte dicht am Vordergarten naß Art der
+Der Dakka hockte dicht am Vordergitter nach Art der
 Buschneger, streckte jetzt flehend die Arme durch die Stäbe
 und winselte kläglich, indem er seine dünnen, schwarzen
-Plan wie im Fieber bewegte:
+Spinnenhände wie im Fieber bewegte:
 
-»Sahib — ich sprechen alles so, wie sein … Dietrich,
+»Sahib — ich sprechen alles so, wie sein … Wirklich,
 Sahib … Ich mir haben für James nachts sehr oft in Sahib
 Griffons Schlafstube schleichen und Sahib Griffon Hundekopf
 am Kopf halten müssen … O — — das machen armen
@@ -2068,35 +2069,34 @@ Harst schien dem Dakka immer noch zu mißtrauen …
 »Hältst du denn James für einen Engländer?« fragte
 er weiter.
 
-»Rein — nicht Engländer. Sein Tibetaner, Sahib …
+»Nein — nicht Engländer. Sein Tibetaner, Sahib …
 Genau wissen … James beten nachts zu Buddha, James
 haben hier in mein Käfig dort im Kasten Götzenfigur und
 Gebetkranz versteckt — dort, Sahib …«
 
 »Hole die Sachen mal her …!«
 
-Der Kasten war Los mit Stroh und Decken nasses
-polsterte Schlußsätze.
+Der Kasten war Jockos mit Stroh und Decken ausgepolsterte
+Schlafstätte.
 
 Nun — der goldene Buddha, den Harst dann in der Hand
-hielt, war mit seinen reihen Edelstein—Verzierungen Tausende
+hielt, war mit seinen reichen Edelstein-Verzierungen Tausende
 wert, und der Gebetkranz bestand aus zweiundfünfzig wundervollen
 Perlen.
 
-»Da! dir James noch etwas übergeben?« bohrte Harst von
+»Hat dir James noch etwas übergeben?« bohrte Harst von
 neuem.
 
 »Nein, Sahib … Aber er haben Versteck in sein Stube
 — gute Versteck … Ihn einmal belauschen, Sahib … O —
-Turlirru ficht dumm sein, Sahib … James sehr schlecht zu
+Turlirru nicht dumm sein, Sahib … James sehr schlecht zu
 armen Zwerg … Ganze Hand krank, viele Schmerzen …«
 
 »Und trotzdem hast du ihn heute befreit …«
 
 »Müssen tun, Sahib … James heute früh sagen, daß
 vielleicht er würden eingesperrt, wenn fremde Sahibs kämen
-
-… I3ch gut aufpassen sollen … Und dann Köchin mich
+… Ich gut aufpassen sollen … Und dann Köchin mich
 herauslassen und mir Messer geben … So alles gewesen,
 Sahib … Köchin haben Revolver … Ich gehorchen müssen.«
 
@@ -2108,7 +2108,7 @@ Sahib … Köchin haben Revolver … Ich gehorchen müssen.«
 — Kommen, Sie, Griffon. Ich bin wirklich gespannt, was
 wir in dem Versteck finden werden.«
 
-Ja James’ Erdgeschoßstube baute Harst aus Tisch und
+In James’ Erdgeschoßstube baute Harst aus Tisch und
 Stuhl eine Leiter …
 
 Und — was holte er dann hinter den beweglichen Stäben
@@ -2123,13 +2123,13 @@ ohne Datum alle, ohne Anrede, ohne Unterschrift, — mehr
 bloße Zettel, bedeckt mit flüchtigen Zeilen …
 
 Aber diese Zeilen — — gewiß: englische Wörter, doch
-entkommen sinnlos aneinandergereih!!
+vollkommen sinnlos aneinandergereiht!
 
 Ja — ein völlig anderes Aussehen — — urplötzlich,
 nur nicht sofort.
 
 Harst schien enttäuscht. »Da, Griffon, schließen Sie diese
-Tische in Ihrem Tresor ein … Schraut und ihm müssen nach
+Wische in Ihrem Tresor ein … Schraut und ich müssen nach
 Wannsee, wo Ihre Jacht liegt.«
 
 <h2>3. Kapitel.</h2>
@@ -2138,14 +2138,14 @@ Wannsee, wo Ihre Jacht liegt.«
 Auf der Straße ging Gerda Alster auf und ab.
 
 »Herr Harst,« flüsterte sie verlegen, »ich bin jetzt Doktor
-Griffons wegen noF4 mehr in Sorge … O — wenn James
+Griffons wegen noch mehr in Sorge … O — wenn James
 Zum Beispiel irgendeinen neuen Anschlag plant?!«
 
 »Schon erledigt, gnädiges Fräulein. War geplant. —
 Doch — schnell etwas anderes … Könnten Sie uns Ihr
 Auto zur Verfügung stellen? Und — würden Sie es selbst
 steuern und uns etwas Eßbares mitbringen? Wir haben seit
-Mittags nichts genossen. Eis war ja die reinste Hetzjagd …«
+Mittags nichts genossen. Es war ja die reinste Hetzjagd …«
 
 »Gern … In zehn Minuten können Sie einsteigen.«
 
@@ -2170,17 +2170,17 @@ Zwei der kleinen Seitenfenster waren erleuchtet. Die
 Vorhänge aber nicht geschlossen. Und in dem Zimmer schritt
 ein bartloser Mann hinkend auf und ab. Die Entfernung
 vom Gartenzaun war nicht groß, und so konnten wir denn
-auch« unschwer das magere, faltige Gesicht erkennen, ebenso
+auch unschwer das magere, faltige Gesicht erkennen, ebenso
 den dunklen Turban, die buschigen, grauen Augenbrauen
 unter dem Turbanrand, die große, schmale Nase und den
-bräunlichen Teint, den hochgeshlossenen, dunklen Rock und
-… den schlaff herabhängenden leeren Todsicher: der linke
+bräunlichen Teint, den hochgeschlossenen, dunklen Rock und
+… den schlaff herabhängenden leeren Rockärmel: der linke
 Arm fehlte diesem lahmen Inder, dem Freunde James’!
 
 Harst war derart in den Anblick des Fremden versunken,
 daß ich ihn am Ärmel zupfen mußte …
 
-»Wir fallen auf«…«
+»Wir fallen auf …«
 
 In der Tat hatte sich wenige Schritte von uns ein
 junger Mensch aufgepflanzt, der nach Handwerkerlehrling in
@@ -2188,9 +2188,9 @@ Sonntagskluft ausschaute.
 
 Langsam kam er nun näher …
 
-»Der is der indische Doktor …« sagte er Erregend. »Ich
-bring’ ihm jeden Morgen die Schlingen … IX bin von
-Bart Radtke …«
+»Det is der indische Doktor …« sagte er grienend. »Ick
+bring’ ihm jeden Morgen die Schrippen … Ick bin von
+Bäcker Radtke …«
 
 »Wie lange wohnt der Inder denn schon hier?« fragte
 Harst.
@@ -2203,30 +2203,31 @@ Harst.
 
 »Wohl ein Gelehrter?«
 
-»Wert Schlauch …«
+»Weeß ick nich …«
 
 »Hat wohl auch indische Bedienung?«
 
-»Nee — leeren hat er … Macht offene alberne. Hat
-nur Seiten Arm und ’n Klumpfuß, ist aber trotzdem mächtig
+»Nee — keenen hat er … Macht allens alleene. Hat
+nur eenen Arm und ’n Klumpfuß, ist aber trotzdem mächtig
+fix …«
 
 <@pagebreak/>
 »Na — uns interessiert nur das Häuschen, — danke, mein
-Zunge …«
+Junge …«
 
 Und wir gingen weiter.
 
 Sehr bald rollte dann das elegante, geschlossene Auto
 unserer jungen Verbündeten heran. Fräulein Alster gab
-uns ein Päckchen. »Wohin nun«
+uns ein Päckchen. »Wohin nun?«
 
 »Bitte Wannsee, gnädiges Fräulein …«
 
-»Ah — — Griffons Motorjacht Thea!! »Und Karl Drewke
+»Ah — — Griffons Motorjacht Thea!! Und Karl Drewke
 — — verstehe!«
 
-Dann Rute der Wagen an … — Das Päckchen enthielt
-eine halbe Flasche Rotwein, Zwei kalte, gebratene Zierstücke,
+Dann ruckte der Wagen an … — Das Päckchen enthielt
+eine halbe Flasche Rotwein, zwei kalte, gebratene Filetstücke,
 Brötchen und Emmenthaler Käse. — Wir aßen mit besten
 Appetit. Wir hatten uns kaum gesättigt, als das Auto hielt.
 
@@ -2236,7 +2237,7 @@ Stunde da …«
 
 Am Schwedischen Pavillon am Wannsee entlehnten wir
 ein kleines Ruderboot — ohne Erlaubnis des Besitzers. Es
-lag nur ein einziges Baddelruder darin, aber das störte uns
+lag nur ein einziges Paddelruder darin, aber das störte uns
 nicht weiter.
 
 Griffon hatte uns den Platz seiner »Thea« recht genau
@@ -2260,7 +2261,7 @@ Drewke als Gefangener an Bord war.
 »Anscheinend haben wir mit der Anwesenheit James’ und
 Frau Drewkes nicht zu rechnen,« flüsterte Harald. »Es müßte
 sonst noch ein zweites Boot an der Jacht vertäut sein. Freilich
-könnte James dieses Boot Fuchs wieder durch Frau
+könnte James dieses Boot auch wieder durch Frau
 Drewke an Land bringen lassen, und wenn die Drewke
 dabei das andere Boot ins Schlepptau nahm, konnte sie wieder
 an Bord zurückkehren, und das jetzige Vorhandensein nur
@@ -2269,13 +2270,13 @@ geben, daß Maaß nicht etwa von den beiden überrumpelt
 wurde. Vorsicht also!«
 
 Ich kletterte nach vorn, streckte die Hände vor und hielt
-unser Boot behutsam von der »Thea« ab, um jeden verräterisch;
-en Stoß zu vermeiden.
+unser Boot behutsam von der »Thea« ab, um jeden verräterischen
+Stoß zu vermeiden.
 
 Ebenso behutsam schwangen wir uns an Deck und krochen
 auf den Achteraufbau zu.
 
-Die Oberlichtfenster waren tatsächlich durch Teer verhängt,
+Die Oberlichtfenster waren tatsächlich durch Decken verhängt,
 nur hatte der Kollege Maaß diese Arbeit etwas
 flüchtig erledigt, als an einer Stelle eine zwei Finger breite
 Spalte vorhanden war, die uns gestattete, die kleine, elegante
@@ -2283,14 +2284,14 @@ Kajüte fast völlig zu überblicken.
 
 Was wir sahen, überraschte uns doch in gewissem Grade.
 Auf dem einen Wandsofa saß der Kollege, jetzt ohne Bart
-und Perücke, rauchte eine die Zigarre und hatte vor sich auf
+und Perücke, rauchte eine dicke Zigarre und hatte vor sich auf
 dem Klapptischen eine Zeitung und daneben eine Mauserpistole
 liegen. Auf dem anderen Wandsofa saßen drei Personen:
-Drewke, eine hagere, blonde Tau und — — Freund
+Drewke, eine hagere, blonde Frau und — — Freund
 James, alle drei mit vor der Brust gefesselten Armen. James
 hatte einen Knebel im Munde, der ihm mit einem in das
-Gen! laufenden Bindfaden festgebunden war. — Zuweilen
-spra&4 Maaß halblaut ein paar Worte mit dem entsprungenen
+Genick laufenden Bindfaden festgebunden war. — Zuweilen
+sprach Maaß halblaut ein paar Worte mit dem entsprungenen
 Zuchthäusler, und Drewkes Grinsen verriet, daß seine Laune
 durchaus nicht schlecht war, und daß er seine Gefangenschaft
 nicht allzu schwer nahm.
@@ -2300,25 +2301,25 @@ daß wir jetzt an das Oberlichtfenster klopften, und
 <@pagebreak/>
 Harst den Mund dicht an der Scheibe, seinen Namen rief.
 
-Worauf Maaß nach oben winkte und zurückrief: ie Tür
+Worauf Maaß nach oben winkte und zurückrief: »Die Tür
 ist offen!«
 
 So stiegen wir denn die kleine Treppe hinab, öffneten
 die dunkle Mahagonitür und traten ein.
 
-»n Abend, Herr Maaß,« meinte Harald gemütlich. »Das
-haben Sie ja sehr sein gemacht. Die ganze Gesellschaft beieinander,
-— das spart uns Anbei!!
+»’n Abend, Herr Maaß,« meinte Harald gemütlich. »Das
+haben Sie ja sehr fein gemacht. Die ganze Gesellschaft beieinander,
+— das spart uns Arbeit!«
 
 Maaß lächelte merkwürdig. Sein Lächeln war verzerrt,
-und auch sein Gesichtsausdruck hatte etwas Gezwungen—Harmloses.
+und auch sein Gesichtsausdruck hatte etwas Gezwungen-Harmloses.
 
 Drewke sagte da, indem er ganz plötzlich seine Arme und
 Hände frei hatte und uns mit der Rechten eine Repetierpistole
 entgegenhielt:
 
-»Sehr sein gemacht — Grimm!! Das Bild ist gut gestellt,
-Herr Harst!! Und jetzt heben Sie beide mal freundlichst die
+»Sehr fein gemacht — stimmt!! Das Bild ist gut gestellt,
+Herr Harst! Und jetzt heben Sie beide mal freundlichst die
 Arme hoch, sonst knallt’s …«
 
 Auch die blonde Frau und James waren nur scheinbar
@@ -2326,38 +2327,38 @@ gefesselt gewesen …
 
 James war gleichfalls im Besitz einer Pistole, und Frau
 Drewke nahm nun blitzschnell des Kollegen Maaß Waffe vom
-Tisch; und schob die Sicherung zurück.
+Tisch und schob die Sicherung zurück.
 
 Wir waren überlistet worden …
 
-Nichts lange, und wir drei Kollegen saßen nun mit
+Nicht lange, und wir drei Kollegen saßen nun mit
 sorgfältig gefesselten Händen dem Kleeblatt Drewke—James
 gegenüber.
 
 Zur Ehre Drewkes und seiner blonden, äußerlich gar nicht
 so üblen Frau muß gesagt werden, daß diese beiden im Gegensatz
 zu James, der seinen Triumph kaum verbergen konnte
-und allerlei höhnische Bemerkungen machte, sich jetzt sehr zurückhaltend,
-sogar etwas verlegen zeigten, — ganz so, als ob
+und allerlei höhnische Bemerkungen machte, sich jetzt sehr
+zurückhaltend, sogar etwas verlegen zeigten, — ganz so, als ob
 ihnen dieser »Sieg« doch nicht recht genehm wäre.
 
 James begann dann Harald auszufragen … »Lügen Sie
-Kranich!!« warnte er in unheilverkündenden Tone. »Jede Lüge,
-Herr Harst, verschlimmert nur ihr? Loge. Ich weiß alles. Ich
+nicht!« warnte er in unheilverkündendem Tone. »Jede Lüge,
+Herr Harst, verschlimmert nur ihre Lage. Ich weiß alles. Ich
 <@pagebreak/>
-weiß, seine wenige Personen vorhanden sind, die wir außer
+weiß, daß nur wenige Personen vorhanden sind, die wir außer
 Ihnen dreien zu fürchten hätten: Fräulein Alster, Griffon,
 Griffons Stubenmädchen, und die Kellnerin aus dem Kellermeister!
 Es wäre eine Kleinigkeit, auch diese vier verschwinden
 zu lassen, und ich möchte dann den sehen, der das Rätsel
-löst, weshalb Berlins Einwohnerzahl sich um sieben Personen.
-verringert ha!! — Merken Sie sich dies, Herr Harst …
+löst, weshalb Berlins Einwohnerzahl sich um sieben Personen
+verringert hat! — Merken Sie sich dies, Herr Harst …
 Und jetzt antworten Sie ohne alle Umschweife … Zunächst:
-Sind Sie beide allein hier nach Wannsee gekommen 2«
+Sind Sie beide allein hier nach Wannsee gekommen?«
 
 »Ja, in einem Taxameterauto, das wir wieder zurückgeschickt
 haben. Doktor Griffon mußte daheim bleiben, um
-den Dakka=Zwerg, Ihren Schimpansen, zu bewachen.«
+den Dakka-Zwerg, Ihren Schimpansen, zu bewachen.«
 
 »Ah — also auch das!!« stieß James hervor. Seine
 asiatische Ruhe verließ ihn für Sekunden. »Und was hat
@@ -2381,29 +2382,29 @@ Karl Drewke und dessen Frau, ob die so vollkommen damit
 einverstanden sind, daß wir ausgelöscht werden …«
 
 James erwiderte kalt: »Drewke wird kaum ins Zuchthaus
-— zurückkehren wollen! Wenn Sie auf ihn rechnen, ist die
+zurückkehren wollen! Wenn Sie auf ihn rechnen, ist die
 Rechnung falsch!«
 
-»Drewke braucht nicht ins Zuchthaus zurück. Der März
-der ist ja gefunden und wird gestehen,« meinte Harst ganz
-sachlich. — …
+»Drewke braucht nicht ins Zuchthaus zurück. Der Mörder
+ist ja gefunden und wird gestehen,« meinte Harst ganz
+sachlich.
 
 James’ Mienen verrieten eine gewisse Verwirrung …
 
 <@pagebreak/>
-»Sie … denken an Griffon, Herr Harst 2« fragte ei
+»Sie … denken an Griffon, Herr Harst?« fragte er
 Zögernd.
 
-»Ja …[« —
+»Ja …!« —
 
-Vielleicht hat Harald noch nie einem Verbrecher gegen:
-über ein so seines diplomatisches Spiel gespielt wie damals.
+Vielleicht hat Harald noch nie einem Verbrecher gegenüber
+ein so seines diplomatisches Spiel gespielt wie damals.
 
 Dieses »Ja« war allerschlaueste Berechnung.
 
 Und James fiel denn auch glatt darauf hinein. Ihm
-lag jetzt daran, Drewke auch weiterhin als treuen, folgsamer
-Verbündeten an sich zu Ketten. deshalb mußte er, was Ei«
+lag jetzt daran, Drewke auch weiterhin als treuen, folgsamen
+Verbündeten an sich zu ketten. Deshalb mußte er, was die
 Frage über Griffons Täterschaft betraf, nunmehr völlig umschwenken.
 
 Ein höhnisches Grinsen überflog sein breites Asiatengesicht
@@ -2421,27 +2422,26 @@ Griffon gedacht.«
 »An wen sonst?!« Unruhe zeigte sich auf James’ gespannten
 Zügen.
 
-»An … den Mann aus Nummer ach!!«
+»An … den Mann aus Nummer acht!«
 
 Das war ein Treffer!! James krümmte sich förmlich zusammen.
 Man merkte ihm deutlich an, wie ungeheuer schwer
 es ihm wurde, sich wieder zu beherrschen …
 
 Ich sah, daß Drewke ihn genau beobachtete … Sah, daß
-
-» Drewke plötzlich Harald heimlich Lunte … Und — wußte
+Drewke plötzlich Harald heimlich zunickte … Und — wußte
 da: jetzt hatten wir gewonnenes Spiel!!
 
-a
 <h2>4. Kapitel.</h2>
 <h3>Andere Rollenverteilung.</h3>
 
 James stierte Harald an …
+
 »Und der Mann … aus Nummer acht ist bereits verhaftet?«
 — — schwer kam ihm das über die Zunge …
 
 <@pagebreak/>
-Ich Du
+»Ja …«
 
 »Sie … lügen — — lügen!« brüllte James. »Der Mann
 würde sich nie verhaften lassen! Nie?!«
@@ -2452,7 +2452,7 @@ Kriminalbeamte … Dabei gewesen bin ich nicht mehr. Ich
 weiß nur: dieser … Inder ist der Mörder!«
 
 James warf Harald einen Blick zu, der hätte töten müssen,
-wenn eben Haß und Wut zu töten Vermögen.
+wenn eben Haß und Wut zu töten vermögen.
 
 »Dann … dann haben Sie auch … hierher Beamte
 mitgebracht?« fragte er lauernd.
@@ -2460,29 +2460,30 @@ mitgebracht?« fragte er lauernd.
 »Nein, behüte … Weshalb?! Sollte ich Drewke Ungelegenheiten
 bereiten?! Wozu?! Und mir selbst ebenfalls?!
 Wozu?! Ich hätte Drewke doch der Polizei … — Nein,
-Schlau: und ich sind allein im Auto naß Wannsee gekommen,
+Schraut und ich sind allein im Auto nach Wannsee gekommen,
 und die Kriminalpolizei weiß noch nichts von dem,
 was hier auf der Jacht vorgegangen ist, nichts von Drewkes
 Gefangennahme durch Griffon und Maaß. Das ist die Wahrheit.«
 
 »Sie Narr!!« gellte James’ haßerfülltes Lachen … »Dann
-»… Und Sie beide gebeten!!«
+… sind Sie beide geliefert!!«
 
 Und er hob die Pistole …
 
 Eine Faust schlug ihm die Waffe hoch …
 
 Und dieselbe Faust traf ebenso blitzschnell seine Schläfe …
-» James fiel schwer nach vorn — mit der Stirn auf den
 
-Ad Lichtern
-zweiter Hieb Drewkes … —
+James fiel schwer nach vorn — mit der Stirn auf den
+Tisch …
 
-»Anna, nimm den Herren die Arme ab …!«
+Ein zweiter Hieb Drewkes …
+
+»Anna, nimm den Herren die Stricke ab …!«
 
 Wir drei waren rasch die Fesseln los. Ebenso rasch wurde
-James gebunden … Kam wieder zu sich, blinzelte erst Vers
-ständni8lo8 in das Lampenlicht … Dann begriff er …
+James gebunden … Kam wieder zu sich, blinzelte erst verständnislos
+in das Lampenlicht … Dann begriff er …
 
 Ein Aufheulen wildester Wut …
 
@@ -2490,10 +2491,10 @@ Ein Aufheulen wildester Wut …
 
 Drewke lachte …
 
-»Hast mich ja doch nur ausruhen wollen! Bin nicht
+»Hast mich ja doch nur ausnutzen wollen! Bin nicht
 <@pagebreak/>
-dumm, du gelber Bursche … Hast mit verdeckten Karten sei
-spielt … Engländer wolltest du sein! Ich habe denn doch
+dumm, du gelber Bursche … Hast mit verdeckten Karten gespielt
+… Engländer wolltest du sein! Ich habe denn doch
 mehr Vertrauen zu Herrn Harst …!«
 
 James saß jetzt wie stumpfsinnig da …
@@ -2503,47 +2504,48 @@ Harald meinte gleichmütig:
 »Sie haben sich verraten, James … Wenn Sie Ihren
 Kopf noch aus der Schlinge ziehen wollen, so legen Sie jetzt
 ein Geständnis ab. Schonen Sie den Mann aus Nummer
-alt nie!, der — das räume ich nun ein — noch frei und
+acht nicht, der — das räume ich nun ein — noch frei und
 unbehelligt ist — — noch! Aber, da er nicht ahnt, daß das
 Spiel zu Ende, können wir ihn jeden Augenblick festnehmen
-lassen. Er ist Frau Regnete Mörder. Das haben Sie stillschweigend
+lassen. Er ist Frau Legners Mörder. Das haben Sie stillschweigend
 zugegeben. Und wer er sonst ist, wird sich ja
 herausstellen …«
 
 James’ Gesicht war urplötzlich wieder verkörperter Hohn,
 
-»Oh — — noch frei!! Dann — komm’ erfahren Sie von
+»Ah — — noch frei!! Dann — dann erfahren Sie von
 mir kein Wort mehr — nichts — — nichts! Und wenn Sie
 mich foltern, wenn Sie mich auf der Stelle niederschießen!
 Nichts werden Sie herausbringen, denn der Mann dort in
 dem Häuschen ist auf seiner Hut, der trägt beständig eine
-Waffe bei sich, die ins Spielte befördert, auch wenn man ihn
-schon gefesselt ha!! An den kommt keine Polizei heran — —
+Waffe bei sich, die ins Jenseits befördert, auch wenn man ihn
+schon gefesselt hat! An den kommt keine Polizei heran — —
 niemand! Er wird sterben, und mich mag man ins Zuchthaus
-schien!! Versuchen Sie doch die in der Lüftungsklappe gesund
+schicken!! Versuchen Sie doch die in der Lüftungsklappe gefundenen
+Zettel zu entziffern — versuchen Sie es nur!!«
 
-denen Zettel zu entziffern — versuchen Sie es nur!!«
-»Das werde ihm …! — Maaß — jetzt einen Knebel dem
+»Das werde ich …! — Maaß — jetzt einen Knebel dem
 Burschen — — schnell! Und Sie und Drewkes bleiben hier
-
 … Schraut und ich wollen diese Sache zu Ende bringen.«
+
 James wehrte sich nicht.
 
 Wir durchsuchten dann seine Taschen. Er hatte jedoch
-nichts bei sich, das über seine Person Aufschluß geben konnte
+nichts bei sich, das über seine Person Aufschluß geben konnte.
 Wir beide paddelten dem Schwedischen Pavillon zu.
 
-Es regnete sahst — ganz Jacht …
+Es regnete sacht — ganz sacht …
+
 Ich sagte zu Harald: »Das hast du wieder mal glänzend
-befingert — glänzend! — Wie bist du nur darauf auskommen,
+befingert — glänzend! — Wie bist du nur darauf gekommen,
 <@pagebreak/>
 daß der Inder aus Nummer acht der wahre Mörder
 ist?«
 
 »Lieber Alter, man muß … sehen können … Dem Mann
-war es manches auf der Stirn geschrieben …«
+war so manches auf der Stirn geschrieben …«
 
-»Entschuldige — das verstehe im nicht!!«
+»Entschuldige — das verstehe ich nicht!«
 
 »Er hinkte ja auch und der linke Arm war futsch …«
 
@@ -2551,14 +2553,14 @@ war es manches auf der Stirn geschrieben …«
 
 Da legten wir schon an, und Harald antwortete nicht.
 
-Antwortete auch nicht, als wir im Auto saßen und daß
-Sportprinzeßchen uns wieder naß der Villa Griffon zurückbrachte.
+Antwortete auch nicht, als wir im Auto saßen und das
+Sportprinzeßchen uns wieder nach der Villa Griffon zurückbrachte.
 Er lehnte mit geschlossenen Augen in seiner Polsterecke
 …
 
 Ich hatte genügend Zeit, über seine Worte nachzudenken:
-Stirn, Hinken, Arm?! — Was hatten die körperlichen See
-brechen dieses Menschen mit den Beweisen zu tun, daß er
+Stirn, Hinken, Arm?! — Was hatten die körperlichen Gebrechen
+dieses Menschen mit den Beweisen zu tun, daß er
 der Mörder Frau Lengners war?! —
 
 Das Auto hielt. Wir verabschiedeten uns von Gerda,
@@ -2585,8 +2587,8 @@ Frage an Harald wie ich vorhin:
 »Wie sind Sie nur darauf gekommen, daß dieser Doktor
 Ibrahim Gandur der Mörder sein könnte?«
 
-»Darüber später, 1.:der Doktor. — Not Tisch will ich
-mich an Ihren Schreibtisch; setzen und die vierzehn Zettel
+»Darüber später, lieber Doktor. — Nach Tisch will ich
+mich an Ihren Schreibtisch setzen und die vierzehn Zettel
 <@pagebreak/>
 prüfen, die jetzt in Ihrem Tresor liegen. Dann müssen Sie
 und Schraut sich möglichst ruhig verhalten …«
@@ -2596,6 +2598,7 @@ diesen Gandur, der sich nie verhaften lassen wird, dennoch
 lebend zu fangen?«
 
 Harst füllte sie die Tasse, trank einen Schirm und erwiderte:
+
 »Wenn der Bäderlehrling dem Inder morgen früh zum
 Beispiel das Weißbrot bringt, kann vielleicht dieses Weißbrot
 ein vollkommen geschmackloses aber sicher wirkendes Betäubungsmittel
@@ -2603,17 +2606,16 @@ enthalten. Dann wird Gandur einschlafen,
 und die Polizei kann ihn genau daraufhin untersuchen, ob
 seine Zähne in Ordnung sind und ob er nicht etwa einen
 Giftring am Finger trägt oder eine vergiftete Nadel in der
-
-Krawatte … — Jetzt wollen wir die Zettel prüfen … Wahl
--zeit, lieber Griffon … Es war wohlschmeckend, reichlich und
-gut …ich« —
+Krawatte … — Jetzt wollen wir die Zettel prüfen … Mahlzeit,
+lieber Griffon … Es war wohlschmeckend, reichlich und
+gut …« —
 
 Dann saß er am Schreibtisch, und Griffon und ich vertieften
 uns in die Abendzeitungen.
 
 Harst hatte die vierzehn Briefe oder Zettel wie Spielkarten
 auf der Tischplatte ausgebreitet und den Kopf in die
-Links gestützt.
+Linke gestützt.
 
 Längere Zeit überlas er immer wieder die scheinbar sinnlosen
 Wortzusammenstellungen und regte sich kaum.
@@ -2628,53 +2630,53 @@ Ich will hier zwei der Zettel in deutscher Sprache wiedergeben,
 zwei Zettel, die Harst jetzt dicht nebeneinander gelegt
 hatte …
 
-Sie hat voller Verachtung das einzige nur erreichte
+> Sie hat voller Verachtung das einzige nur erreichte
 fünftausend Mark jetzt aber in ihrem Geheimfach hat ihre
 Schmucksachen bares Geld sterben Tamoli du es willst obwohl
 deinen Rücken tue ich’s zweiter kommt heran sei dürfen
 <@pagebreak/>
-auf uns treffen sie läßt den nächsten nach drei T. Um. 100 ab
+auf uns treffen sie läßt den nächsten nach drei T. A. 100 ab
+
 Der andere:
-Mich abermals weggeschhickät Tamoli was ich waren ein
 
+> Mich abermals weggeschickt Tamoli was ich waren
 erbärmliche ich weiß daß sie Schlafzimmer ein dort liegen
-
 und viel sie muß und wenn nicht tun ihre Reitpeitsche
 zeichnete so und als der Liebhaber vorsichtig wir keinen
-Fall im fürchte mich beobachten Brief hole Tagen. unter
+Fall ich fürchte mich beobachten Brief hole Tagen unter
+
 »Nun fügt mal nach den beiden ersten Wörtern des ersten
 Zettels die beiden ersten des zweiten ein — und so fort …«
-jagte Harst eifrig. »Damit ihr es leichter habt, will ich den
-aus dem beiden Briefen sich ergebenden Text gleich vorlesen,
+sagte Harst eifrig. »Damit ihr es leichter habt, will ich den
+aus den beiden Briefen sich ergebenden Text gleich vorlesen,
 also …:
-Sie hat mich abermals voller Verachtung weggeholt,
-Tamoli. Das einzige, was ich nur erreichte, waren er
+
+> Sie hat mich abermals voller Verachtung weggeschickt,
+Tamoli. Das einzige, was ich nur erreichte, waren
 erbärmliche fünftausend Mark. Ich weiß jetzt aber, daß sie
-in ihren: Schlafzimmer ein Geheimrats hat. Dort liegen
+in ihrem Schlafzimmer ein Geheimfach hat. Dort liegen
 ihre Schmucksachen und viel bares Geld. Sie muß sterben,
-Damals. Und wenn du es nicht tun willst, obwohl ihre
-
-Reitpeitsche deinen Rücken zeichnete, so tue ich’s. Und als —
-zweiter kommt der Liebhaber heran. Sei vorsichtig. Wir —
-dürfen auf keinen Fall uns treffen. Ich fürchte, sie läßt —
-mich beobachten. Den nächsten Brief hole nach drei Tagen —
-
+Tamoli. Und wenn du es nicht tun willst, obwohl ihre
+Reitpeitsche deinen Rücken zeichnete, so tue ich’s. Und als
+zweiter kommt der Liebhaber heran. Sei vorsichtig. Wir
+dürfen auf keinen Fall uns treffen. Ich fürchte, sie läßt
+mich beobachten. Den nächsten Brief hole nach drei Tagen
 unter T. A. 100 ab.
 
 Diese vierzehn Zettel,« erklärte Harald weiter, »sind also
-in Wahrheit nur sieben Briefe. Je zwei Zettel ergeben.
+in Wahrheit nur sieben Briefe. Je zwei Zettel ergeben
 eine Nachricht. Diese Briefe verraten leider nur, daß Gandur
 ihr Absender ist, daß die Briefe für James—Tamoli bestimmt
 sind, daß Gandur der Mörder ist, daß er das Geheimfach zum
 Teil plünderte, daß er dann Tamoli hier nach Berlin folgte
-und daß hier der »Liebhaber«, Sie, Griffon, ermordet wert
-den sollte — auch beraubt werden. Näheres über Gandurs
+und daß hier der »Liebhaber«, Sie, Griffon, ermordet werden
+sollte — auch beraubt werden. Näheres über Gandurs
 Person ist auch aus diesen Zetteln nicht zu erfahren.«
 
 »Nun — es genügt, denke ich!« meinte Griffon erregt.
 »Gandur ist überführt, — was wollen wir noch mehr?!«
 
-»Es Urteile« Ei: Doktor! Schraut und ich sind ehrgeiziger
+»so Urteilen Sie Doktor! Schraut und ich sind ehrgeiziger
 <@pagebreak/>
 … — Vielleicht ist mein Ehrgeiz allerdings schon
 befriedigt …«
@@ -2686,10 +2688,10 @@ Unser alter Freund Bechert war nicht anwesend, aber
 Kriminalkommissar Doktor Lücke wollte sofort herauskommen.
 
 »Ich habe Ihnen wirklich sehr Wichtiges mitzuteilen, lieber
-Luke … — Schluß … Wiedersehen …« —
+Lücke … — Schluß … Wiedersehen …« —
 
 Nach einer halben Stunde war der schlanke, junge, blonde
-Doktor Luke zur Stelle — der Gentleman aus dem Perlenkranz
+Doktor Lücke zur Stelle — der Gentleman aus dem Perlenkranz
 der mustergültigen Berliner Kriminalpolizei …
 
 Lücke hörte andächtig zu, war mit allem einverstanden.
@@ -2710,14 +2712,14 @@ kleinem Häuschen brachte uns wirklich eine Sensation … —
 
 Alles verlief ganz programmäßig.
 
-Der Bäderlehrling reihte Gandur um halb acht morgens
-aha immer sechs Brötchen durchs die Türklappe hinein, und
+Der Bäckerlehrling reichte Gandur um halb acht morgens
+wie immer sechs Brötchen durchs die Türklappe hinein, und
 als wir dann um neun Uhr an der Haustür läuteten, (wir,
-Tür, Griffon, Harst und ich) da kam niemand öffnen.
+Lücke, Griffon, Harst und ich) da kam niemand öffnen.
 
 Die Tür wurde erbrochen, und im Wohnzimmer fanden
 wir den Inder in einem Korbsessel in tiefstem Schlafe vor.
-Auf dem Tische stand voll das Frühstück. Gandur war schon
+Auf dem Tische stand noch das Frühstück. Gandur war schon
 nach dem ersten Brötchen eingeschlafen.
 
 Die Durchsuchung seiner Kleider, seines Mundes und die
@@ -2728,10 +2730,10 @@ in den Finger getrieben hätte.
 
 Nach zwei Stunden war Gandur wieder bei Sinnen. Die
 Handschellen waren ihm sichtlich unangenehm, besser die eine
-Stahlmanschette, die seine rechte Hand mittels eines Moment
+Stahlmanschette, die seine rechte Hand mittels eines Riemens
 vor der Brust festhielt.
 
-Hm übrigen spielte er den tief Beleidigten, und da wir
+Im übrigen spielte er den tief Beleidigten, und da wir
 unter seinen Sachen nur Papiere auf den Namen Doktor
 Ibrahim Gandur gefunden hatten, da er selbst höhnisch erklärt,
 man solle ihm doch erst einmal nachweisen, daß er die
@@ -2739,7 +2741,7 @@ ihn so schwer belastenden Geheimbriefe wirklich geschrieben
 habe, da er schließlich offenbar auf Tamolis Verschwiegenheit
 sich fest verließ und von ihm geschriebene Schriftstücke keinerlei
 Ähnlichkeit mit der Handschrift auf den Zetteln hatten, so
-März sein Verhör durch Luke zunächst wohl ergebnislos verlaufen,
+wäre sein Verhör durch Lücke zunächst wohl ergebnislos verlaufen,
 wenn Harst nicht plötzlich gefragt hätte:
 
 »Sie haben da an der Wange eine furchtbare Narbe,
@@ -2748,22 +2750,22 @@ stammt diese Verletzung, und wie haben Sie Ihren linken
 Arm eingebüßt, und wie sind Sie zu der Verstümmelung
 des Fußes gekommen?« …
 
-Merkwürdig: Gandur warf jetzt Harst einen ängstlich-forsHenden
+Merkwürdig: Gandur warf jetzt Harst einen ängstlich-forschenden
 Blick zu …
 
 »All das stammt schon aus meiner Jugend her … Ich
-wurde als Kind überfahren,« erklärte er mit schlichen Widerstreben.
+wurde als Kind überfahren,« erklärte er mit sichtlichem Widerstreben.
 
-»Das ist gelegen …« meinte Harst. »Die Narbe im
+»Das ist gelogen …,« meinte Harst. »Die Narbe im
 Gesicht ist keine drei Jahre alt und sieht recht sehr nach einem
 … Jagdunfall aus, — — vielleicht von der Pranke eines
 Tigers, Gandur … Besinnen Sie sich nur … Ihr Gedächtnis
-scheint gelitten zu haben …
+scheint gelitten zu haben …«
 
 Der Inder wurde aschfahl …
 
-»Tun — — wie ist’s? Reden Sie!« ermunterte Harald
-ihn dem
+»Nun — — wie ist’s? Reden Sie!« ermunterte Harald
+ihn …
 
 <@pagebreak/>
 Gandur stierte vor sich hin …
@@ -2772,11 +2774,11 @@ Gandur stierte vor sich hin …
 — Haben Sie den Ingenieur Hans Lengner gekannt, der in
 Kalkutta die Firma Krupp vertrat, der ein Spieler war,
 der Riesensummen unterschlug, einen Einbruchsdiebstahl
-vortäuschte, und dann mit Hilfe seines tebetanischen Freundes
+vortäuschte, und dann mit Hilfe seines tibetanischen Freundes
 Tamoli, eines weggejagten Buddhistenmönches, einen Unfall
 auf einer Tigerjagd dazu benutzte, spurlos zu verschwinden,
 während man ihn als tot betrauerte …? Kannten Sie
-ihn? — Den Mordprozeß Lengner-Münden … Was diese
+ihn? — Den Mordprozeß Lengner-München … Was diese
 Berichte über den Ingenieur angaben, ergänzte ich mir auf
 meine Weise …«
 
@@ -2784,7 +2786,7 @@ Er trat dicht vor Gandur hin …
 
 »Nun — kannten Sie Lengner?« …
 
-»Rest .:« —
+»Nein …«
 
 »Wie töricht, noch immer zu lügen … Wie gesagt,
 Lengner lebt … Und ich will Ihnen den Ingenieur nun
@@ -2792,23 +2794,23 @@ gegenüberstellen — als besten Zeugen …«
 
 Gandur lächelte verächtlich …
 
-»Ihre Scherze sind abgeschmackt, Herr Harst … Ich Penne
-Lengner nicht, und e« kennt mich nicht!!«
+»Ihre Scherze sind abgeschmackt, Herr Harst … Ich kenne
+Lengner nicht, und er kennt mich nicht!«
 
-Harst ging rasch zur Wand, hob einen dort hängenöen
+Harst ging rasch zur Wand, hob einen dort hängenden
 mittelgroßen Spiegel vom Haken und …
 
 … und hielt den Spiegel Gandur vor das Gesicht …
 
 »Bitte — — das ist Lengner!« rief er. »Denn Sie selbst
-sind  Lengner!«
+sind Lengner!«
 
 Lücke, Griffon und ich starrten den Krüppel entsetzt an …
 
 »Sie sind Hans Lengner!« wiederholte Harst noch schärfer.
-»Sie sind der Mörder Ihrer Frau«
+»Sie sind der Mörder Ihrer Frau!«
 
-Gandur dachte sich scheu zusammen …
+Gandur duckte sich scheu zusammen …
 
 Dann schnellte er hoch …
 
@@ -2820,7 +2822,7 @@ Gandurs Kopf fuhr durch den Rahmen hindurch …
 
 <@pagebreak/>
 Dann warf er sich mit diesem mit Glassplittern gespickten
-Hals8kragen ebenso schnell zu Boden …
+Halskragen ebenso schnell zu Boden …
 
 Ein Blutstrahl spritzte empor …
 
@@ -2844,7 +2846,7 @@ noch wenig hinzuzufügen.
 
 Karl Drewke ist jetzt Chauffeur bei dem Ehepaar Griffon.
 
-Ehepaar …! — Harald und im haben die Hochzeit mitgemacht
+Ehepaar …! — Harald und ich haben die Hochzeit mitgemacht
 …
 
 Die Jacht Thea ist in Gerda umgetauft worden. Und
@@ -2855,7 +2857,7 @@ Tamoli ist im Zuchthaus an Schwindsucht gestorben. Sein
 goldener Buddha und seine Gebetkette liegen in einem unserer
 Schränke … In einem anderen steht der Bronzeteckel …
 
-Der Dakka-Zwerg Turlirru aber hat wckbRrhaftig nachher
+Der Dakka-Zwerg Turlirru aber hat wahrhaftig nachher
 die weiße Zwergin aus dem Wanderzirkus geheiratet. Auch
 dies erhöht den versöhnlichen Ausklang der Geschichte des
 Deckels mit zwei Köpfen. —
@@ -2865,4 +2867,4 @@ Leser, will ich Ihnen wieder einmal den Orient, die Tropen
 mit all ihren zauberischen Reizen vorführen und Ihnen von
 einer Haifischfarm etwas erzählen …
 
-Druck: Buchdruckerei B. Lehmann Ein. by., Berlin so 36, Elfenbein-Ufer 44
+Druck: Buchdruckerei B. Lehmann G. m. b. H., Berlin SO 36, Elisabeth-Ufer 44
