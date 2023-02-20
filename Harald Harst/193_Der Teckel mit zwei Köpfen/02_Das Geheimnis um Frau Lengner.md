@@ -1009,7 +1009,7 @@ lebend zu fangen?«
 
 Harst füllte sie die Tasse, trank einen Schirm und erwiderte:
 
-»Wenn der Bäderlehrling dem Inder morgen früh zum
+»Wenn der Bäckerlehrling dem Inder morgen früh zum
 Beispiel das Weißbrot bringt, kann vielleicht dieses Weißbrot
 ein vollkommen geschmackloses aber sicher wirkendes Betäubungsmittel
 enthalten. Dann wird Gandur einschlafen,
