@@ -47,6 +47,7 @@ t!	!!
 \bober\b	oder
 \bSähe\b	Sätze
 \bSaß\b	Satz
+\bSchrau!	Schraut
 \bSeht\b	Jetzt
 \bsic\b	sie
 \bSiek\b	Sie?
