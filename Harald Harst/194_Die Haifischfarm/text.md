@@ -1,21 +1,13 @@
 <@pagebreak/>
 
-Die Haifischfarm
-
-<@pagebreak/>
-
-Harald Harst: Aus meinem Leben
-
-Die Harsts In
-Erzählt von Es »ab 40u
-Max Schraut … 7! »7
+<@harst.introshort2/>
 
 <h2>1. Kapitel.</h2>
 
 <h3>Die drei Ballamoors.</h3>
 
 Der tadellos präparierte Haifischschädel — von einem
-» Menschenhai von etwa drei Meter Länge — mit dem Turbanen
+Menschenhai von etwa drei Meter Länge — mit dem furchtbaren
 Gebiß, das ein menschliches Bein glatt wie eine Kreissäge
 abzutrennen vermag — dieser Schädel hängt als seltsamster
 Wandschmuck in Harald Harsts Schlafzimmer unter drei gut
@@ -35,57 +27,57 @@ widerspruchsvolle Menschenseelen zusammen.
 
 Ich besinne mich genau auf jenen frostklaren Wintermorgen,
 an dem der Postbote nebst anderen auch den Brief Sir
-Trick Ballamoors uns ins Haus trug, wie der alte, etwas
+Erik Ballamoors uns ins Haus trug, wie der alte, etwas
 steifbeinige Briefträger wie immer von mir seine Morgenzigarre
 erhielt und scherzend meinte: »Heut’ ist was Indisches
 dabei, Herr Schraut!«
 
 <@pagebreak/>
 Ahnungslose Seele! Was Indisches!! Er hätte sagen
-sollen: »Was gräßliches!« — — So war der Brief Trick
+sollen: »Was gräßliches!« — — So war der Brief Erik
 Ballamoors …
 
-Colombo, Ceylon, 12. Dezember 192 …
-Strand 18.
-Sehr geehrter Herr Harst,
+<p class="right">Colombo, Ceylon, 12. Dezember 192 …</p>
+<p class="right">Strand 18.</p>
+<p class="centered">Sehr geehrter Herr Harst,</p>
 
-ob Sie sich meiner noch erinnern werden, bezweifle ich. Untere
+> ob Sie sich meiner noch erinnern werden, bezweifle ich. Unsere
 Bekanntschaft vor anderthalb Jahren war sehr flüchtiger
 Natur. Sie haben damals hier in Colombo das Verschwinden
 der farbigen Gattin des Kommandeurs der hiesigen Heilsarmee
-aufgeklärt, und im Continental-Klub saßen wir Zwei
+aufgeklärt, und im Continental-Klub saßen wir zwei
 Stunden beisammen. — Ich möchte Ihr Gedächtnis ein wenig
-auffrischGen. Ich bin Großkaufmann und Reeder, meine
-Mutter war Norwegerin, und meine Gattin war Deutsche. I4h
+auffrischen. Ich bin Großkaufmann und Reeder, meine
+Mutter war Norwegerin, und meine Gattin war Deutsche. Ich
 bin heute fünfzig Jahre alt, aber das Tropenklima hatte mir
-bisher nichts anhaben können. Jetzt haben mich andere Eins
+bisher nichts anhaben können. Jetzt haben mich andere
 Einflüsse an den Rand des Grabes gebracht. Von dem frischen,
-energischen Trick Ballamoor aus dem englischen alten See
+energischen Erik Ballamoor aus dem englischen alten Ge-
 schlechte der Ballamoors von Bellcastle, ist nur noch eine
 klägliche Ruine Übrig.
 
-Um es kurz zu sagen: meine drei Töchter Mary, Dagny
+> Um es kurz zu sagen: meine drei Töchter Mary, Dagny
 und Selma sind seit dem 12. Oktober verschwunden. An
 diesem Tage unternahmen die Mädels (sie waren neunzehn,
 einundzwanzig und zweiundzwanzig Jahre alt) eine Segelpartie
 mit ihrer Jacht Mangrovia. Die Jacht hatte eine Besatzung
 von zwölf Mann, alles zuverlässige Malaien, auch
 Kapitän und Steuermann. Nachmittags kam ein kurzer, aber
-sehr heftiger Orkan auf. Na drei Tagen fanden Fischer
-nördlich von Colombo am Strande Bruchstücke der, Jacht,
+sehr heftiger Orkan auf. Nach drei Tagen fanden Fischer
+nördlich von Colombo am Strande Bruchstücke der Jacht,
 und wieder zwei Tage Drauf entdeckte ein Perlentaucher noch
 weiter nördlich eine starke Planke, an deren krummen Nägeln
-sich Reste eines bastseidenen FrauenroFXes und ein weiblicher
+sich Reste eines bastseidenen Frauenrockes und ein weiblicher
 Fuß, noch mit Schuh und Seidenstrumpf bekleidet, verfangen
-hatten. Dieser linke Fuß wurde, da das Colomboer Schuhzeschmäft
-Barons den Halbla&schuh wiedererkannte, als der
+hatten. Dieser linke Fuß wurde, da das Colomboer Schuhgeschäft
+Wannak den Halblackschuh wiedererkannte, als der
 <@pagebreak/>
 meines jüngsten Kindes Mary zweifelsfrei festgestellt.
 
-Ich war mit einem Schlage also kinderlos geworden, hat!«
+> Ich war mit einem Schlage also kinderlos geworden, hatte
 drei Tote zu beklagen, die meines Lebens Inhalt gewesen,
 
-Der in der Bitte der Wade abgetrennte Fuß war den
+> Der in der Mitte der Wade abgetrennte Fuß war den
 Haifischen entgangen. Mary war das einzige von meinen
 drei Kindern, das mir wenigstens diesen traurigen Rest eines
 sportgestählten jungen Körpers hinterließ, — das einzige,
@@ -98,7 +90,7 @@ Mary verlobt war, hat sich persönlich an diesen Nachforschungen
 beteiligt. Auch ihm ergeht es jetzt wie mir: wir
 beide sind körperlich und seelisch fertig!
 
-Und nun das geheimnisvolle Moment dieses trostlosen
+> Und nun das geheimnisvolle Moment dieses trostlosen
 Verlustes: Vorgestern überbrachte mir ein Fischer eine
 Flaschenpost, die er weit nordwestlich von Colombo im Meere
 gefunden hatte. Es war eine gewöhnliche Bierflasche mit
@@ -106,69 +98,70 @@ Patentverschluß. Der Zettel darin war ein Blatt Puderpapier,
 also ein winziges Zettelchen, und in die Puderschicht
 war mit einer Nadel folgendes eingeritzt (alles war nicht
 mehr lesbar, da der Fischer das Blättchen leider mit nassen
-Fingern angefaßt DD:
+Fingern angefaßt hatte):
 
-Wir 4cB: »… wer … fang … halt …
-ernst Golf. Ei! zog »Buch =« 50 See 2 5 Dr Kam Tod 06545
-finden … an Sir Trick Ballamoor, Colombo … Gefahr
-deine … Inder … ry … mag … Nr) …
+> Wir leb … u ... wer … fang … halt …
+... mit ... in ... Buch ... von ... ai ... Wer ...
+findet, ... an Sir Erik Ballamoor, Colombo ... Belohn
+... deine ... inder ... ry ... ma ... ny ...
 
-»Die, Punkte, Herr Harst, bedeuten die unleserlichen Stellen,
-die auch, die hiesige Polizei durch photographische Vergrößerung
+> »Die, Punkte, Herr Harst, bedeuten die unleserlichen Stellen,
+die auch die hiesige Polizei durch photographische Vergrößerung
 nicht wieder hat klar hervorrufen können. Immerhin
 hat Detektivinspektor Moudray diese Fragmente wie folgt
 ergänzt:
 
-Wir leben und werden gefangen gehalten …
-Wer die Flasche findet, abliefern an Sir Trick Ballamoor,
+> Wir leben und werden gefangen gehalten …
+
+> Wer die Flasche findet, abliefern an Sir Erik Ballamoor,
 <@pagebreak/>
 Colombo. Hohe Belohnung. Deine Kinder, Mary,
 Selma, Dagny.
 
-Leider ist also gerade der wichtigste Teil des Inhaltes des
+> Leider ist also gerade der wichtigste Teil des Inhaltes des
 Blättchens nicht zu enträtseln gewesen. — Da meine Mädels
-Zaun tatsächlich. bräunliches Puderpapier stets benutzt haben
-und die See:Stücke, obwohl nur eingekratzt, fraglos von
+nun tatsächlich bräunliches Puderpapier stets benutzt haben
+und die Schriftzüge, obwohl nur eingekratzt, fraglos von
 Marys Hand stammen, hat mein Neffe mir geraten, Sie zu
 Rate zu ziehen.
 
-Ich möchte voll betonen, daß ich hier keine Feinde habe,
-aß meine Töchter gleichfalls allgemein. beliebt waren, und
-aß, wenn man überhaupt einen Verdacht äußern darf, nur
-Medizin Chinese namens Tai Wan, der sich eifrig um Mary
+> Ich möchte noch betonen, daß ich hier keine Feinde habe,
+daß meine Töchter gleichfalls allgemein beliebt waren, und
+daß, wenn man überhaupt einen Verdacht äußern darf, nur
+ein Chinese namens Tai Wan, der sich eifrig um Mary
 bewarb, bevor sie sich mit Sven verlobte, in Betracht käme,
-denn Tai Wan, ein millionenschweren Petroleumhändler und
+denn Tai Wan, ein millionenschwerer Petroleumhändler und
 gebildeter Mann, hat seinen Haß gegen Mary und Sven nur
-Hielt verhehlen können. Die Polizei läßt ihn jetzt beglichen,
-und sehr auffällig ist, daß Tai Wan mit seiner Wo«-
-verarmt »Sonne Chinas« plötzlich sehr oft unterwegs ist.
+schlecht verhehlen können. Die Polizei läßt ihn jetzt beobachten,
+und sehr auffällig ist, daß Tai Wan mit seiner Motorjacht
+»Sonne Chinas« plötzlich sehr oft unterwegs ist.
 
-Wenn Sie, sehr verehrter Herr Harst, zwei Männern, die
-direkt durch diese Flaschenpost seelisch von mehr gemartert morgen
-sind (denn Hoffen und Harren zermürb!!) helfen wollen,
+> Wenn Sie, sehr verehrter Herr Harst, zwei Männern, die
+jetzt durch diese Flaschenpost seelisch noch mehr gemartert worden
+sind (denn Hoffen und Harren zermürbt!) helfen wollen,
 dieses Geheimnis aufzuklären, so würden Sie dadurch Ihren
 Ruhm als uneigennütziger Beistand aller Bedrängten nur vergrößern
 und mich vor raschem Hinsiechen bewahren. Ich liege
-es! zu Bett, und die Ärzte geben offenbar keinen Pfifferling
+fest zu Bett, und die Ärzte geben offenbar keinen Pfifferling
 mehr für mein Leben.
 
-Ich füge einen Scheck über fünfzigtausend Mark bei, denn
-sage nochmals: Sie sind unsere letzte Hoffnung?
+> Ich füge einen Scheck über fünfzigtausend Mark bei, denn
+ich sage nochmals: Sie sind unsere letzte Hoffnung!
 
-Trick Ballamoor.
+<p class="right">Erik Ballamoor.</p>
 
 Harald hatte mir den Brief vorgelesen.
 
 »Eigentlich eine ziemlich alltägliche Geschichte,« meinte
-r, und zündete seine Mirakulum wieder an. »Drei Mädchen
-werden entführt — Motiv vielleicht Eifersucht … Zumeist
-As 2007
+er, und zündete seine Mirakulum wieder an. »Drei Mädchen
+werden entführt — Motiv vielleicht Eifersucht … Immerhin
+ist ..."
 
 <@pagebreak/>
 Er schwieg. Er hatte den Brief, während er sprach, nochmals
 überflogen …
 
-»Bitte — setz’ dich;) an den Schreibtisch,« sagte er nun lebhafter.
+»Bitte — setz’ dich an den Schreibtisch,« sagte er nun lebhafter.
 »Depesche an Ballamoor, mein Alter … Text:
 »Reisen sofort ab. Fall dunkel, aber nicht aussichtslos.
 Schweigen Sie über unsere Einmischung. — Harst, Schraut.«
@@ -179,7 +172,7 @@ gehen …«
 Das war wie immer kurz und bündig. —
 
 Der englische Ostasiendampfer Sussex bekam in Genua
-unter anderen aus zwei Schweizer Gelehrte als neue Passagiere,
+unter anderen auch zwei Schweizer Gelehrte als neue Passagiere,
 zwei ältere Herren, die bescheiden die billigere Kajüte
 gewählt hatten, und ganz für sich blieben.
 
@@ -190,14 +183,14 @@ Ladung Benzin und Petroleum direkt nach Colombo ging.
 Die Schweizer waren wir, und wir waren auch auf dem
 blitzsauberen Schoner, der einem Dänen gehörte, die einzigen
 Fahrgäste. Das Wetter war ausgezeichnet, und die Langeweile,
-die Guts Verpflegung und die Freude über den lang
+die gute Verpflegung und die Freude über den lang
 entbehrten Tropenhimmel und die grünblauen Wogen des
 Indischen Ozeans, die so friedlich den Schoner auf seiner
-Fahrt südwärts begleiteten, erzeugten bei mir jenes Zartgefühl
+Fahrt südwärts begleiteten, erzeugten bei mir jenes Hochgefühl
 von Schaffensfreude, das mich endlose Stunden in unserer
 gemütlichen Kajüte am Schreibtisch festhielt. Damals
 schrieb ich ein paar unserer Abenteuer nieder, die der Leser
-bereits gebeugt … verschlungen hat.
+bereits gedruckt … verschlungen hat.
 
 Harald beschäftigte sich eifrig mit photographischen Versuchen.
 Er photographierte einfach alles: Schiffe, die vorüberkamen,
@@ -207,11 +200,11 @@ Abendsonne, die ganze Besatzung …
 
 So gingen vier Tage hin.
 
-Der Jener befand ein auf der Höhe des Neun-Grad Kanals,
+Der Schoner befand sich auf der Höhe des Neun-Grad-Kanals,
 <@pagebreak/>
 zwischen den südlichsten Lakkedivenriffen, als Harald
 mittags am fünften Tage nach Tisch mir aus seinem Liegestuhl
-Fels seiner Vergrößerungen nach meinem Faulenzer hin überreichte.
+sechs seiner Vergrößerungen nach meinem Faulenzer hinüberreichte.
 
 »Da — vielleicht interessiert dich diese Kollektion …«
 
@@ -229,11 +222,11 @@ Bild zwei, sehr undeutlich und verschwommen, rührte vom
 dritten Reisetage nachmittags sechs Uhr her: offenbar derselbe
 Kutter!
 
-Und so ging es fort: immer derselbe Kutter — Zweifel
-los! Sechs Aufnahmen, die letzte von heute morgen.
+Und so ging es fort: immer derselbe Kutter — zweifellos!
+Sechs Aufnahmen, die letzte von heute morgen.
 
 Da fiel es mir denn doch endlich wie Schuppen von den
-Augen — eine üble Phrase, die mir hier nur so aus Vergehen
+Augen — eine üble Phrase, die mir hier nur so aus Versehen
 in die Feder gerutscht ist.
 
 Ich schaute Harald an … Er nickte ernst …
@@ -242,37 +235,37 @@ Ich sagte halblaut, denn unser Käpten war in der Nähe:
 
 »Wir werden beobachtet?«
 
-Mr
+"Ja ..."
 
 »Wann merktest du das?«
 
-»3 Bombay am Viktoriadock — zwei Chinesen … Die
+»In Bombay am Viktoriadock — zwei Chinesen … Die
 Kerle lauerten dort fraglos jedem Europadampfer auf. Und
 dann machte ich nachher die Probe aufs Exempel durch die
 Photographien …«
 
 Er wandte sich zur Seite …
 
-»Käpten Svendsen. einen Augenblick …«
+»Käpten Svendsen, einen Augenblick …«
 
 »Bitte, Herr Hörster … Sie wünschen?«
 
 »Haben Sie Waffen an Bord?«
 
-— »Waffen?! Ja — einen Revolver, den kennen Sie ja
-hier …«
+»Waffen?! Ja — einen Revolver, den kennen Sie ja
+schon …«
 
 <@pagebreak/>
-»Beiden … Er eignet sich mehr zur Wurfkeule denn all:
-Scießinstrument. Es ist nämlich nicht ganz ausgeschlossen
+»Leider … Er eignet sich mehr zur Wurfkeule denn als
+Schießinstrument. Es ist nämlich nicht ganz ausgeschlossen,
 daß wir angegriffen werden.«
 
-»Kanu?!« Svendsen lachte schallend. »Angegriffen?! Wi:
-sind Dom hier nicht in den chinesismchen Gewässern! Dort ist:
-allerdings auch heutzutage noch das blutige Piratenhandweri
-recht auf der Höhe, — — davon kann ich selbst ein Viecher
+»Nanu?!« Svendsen lachte schallend. »Angegriffen?! Wir
+sind doch hier nicht in den chinesischen Gewässern! Dort ist
+allerdings auch heutzutage noch das blutige Piratenhandwerk
+recht auf der Höhe, — — davon kann ich selbst ein Liedchen
 singen! Aber hier?! Nein, Herr Hörster, hier ist nur im
-Weltkriege so ein wenig gefreibeutert worden. Aber jetzt.
+Weltkriege so ein wenig gefreibeutert worden. Aber jetzt
 — — wie kommen Sie nur auf so ’nen ausgefallenen, Witz?!«
 
 Herr Doktor Hörster lächelte nun gleichfalls. »Sehen
@@ -286,41 +279,40 @@ Wohl entflohene Verbrecher!«
 »Nein — das Gegenteil, lieber Käpten. Haben Sie zufällig
 mal die Namen Harst und Schraut gehört?«
 
-»ne Frage!! Das sind doch die Berliner Gentlemandetektive,
+»'ne Frage!! Das sind doch die Berliner Gentleman-Detektive,
 — so die deutsche Auflage von Sherlock Holmes!«
 
 »Nun also! Gestatten Sie: mein wahrer Name ist Harald
 Harst, und das da ist mein Freund Max Schraut …!«
 
-»Himmelhohen — — jetzt schlägt’s dreizehn!!« Und vor
-Staunen und Schrei rutschte ihm wahrhaftig die braune
-Priemnudel aus dem Munde und klatschte auf das tadello€
+»Himmelsakra — — jetzt schlägt’s dreizehn!!« Und vor
+Staunen und Schreck rutschte ihm wahrhaftig die braune
+Priemnudel aus dem Munde und klatschte auf das tadellos
 gefirnißte Deck …
 
-»Sei Khan Sie sich mal diese sechs Photographien an,
+»Jetzt schaun Sie sich mal diese sechs Photographien an,
 Käpten …« erklärte Harald seelenruhig weiter.
 
 Er tat’s, und ich bewies ihm haarscharf, daß der große
-Motorkutter uns seit Bombay dauernd umschwärme, sich bis
+Motorkutter uns seit Bombay dauernd umschwärme, sich bis-
 her aber stets in vorsichtiger Entfernung gehalten habe.
 
 Der Käpten schob die weiße Schirmmütze ins Genick …
 
-»Verstehe!« Kiste er. »Sie beide sollen eben Colombo
+»Verstehe!« nickte er. »Sie beide sollen eben Colombo
 nicht erreichen …! — Und ob ich die Sache Ballamoor
-kenne? Selbstredend!« Seine braune Stirn hatte die Falten
-
+kenne? Selbstredend!« Seine braune Stirn hatte dicke Falten
 <@pagebreak/>
 … »Also Chinesen …!! Na, dann ist die Geschichte natürlich
 von Tai Wan eingerührt worden, obwohl ich den bisher
 nur als sehr anständigen Menschen … — — Quatsch, man
 weiß ja nie, wie’s im Innern dieser gelben Burschen aussieht
 … Die Schlitzaugenfassade verrät ja nie etwas — — nie!
-— — Floß allem, meine Herren, — die Schufte werden sich
+— — Trotz allem, meine Herren, — die Schufte werden sich
 an meinem Schoner die Finger übel verbrennen!«
 
 Was er noch weiter sagte, erfährt der Leser aus dem
-Folgenden … Etage besser: er wird es sehr einleuchtend
+Folgenden … Oder besser: er wird es *sehr einleuchtend*
 vor Augen sehen …
 
 <h2>2. Kapitel.</h2>
@@ -356,7 +348,7 @@ Gallayo.
 »In einer halben Stunde können wir dort sein,« fügte
 Svendsen hinzu und brüllte dann dem Mann am Ruder
 einen Befehl hinüber, worauf der Schoner seinen Kurs etwas
-änderte. »Gallayo gehört übrigens zur Hälfte Sir Trick
+änderte. »Gallayo gehört übrigens zur Hälfte Sir Erik
 Ballamoor, meine Herren … Die andere Hälfte ist Eigentum
 einer Londoner Plantagengesellschaft … Ballamoor hat auf
 seiner Hälfte am Felseilande ein ganz interessantes Experiment
@@ -801,7 +793,7 @@ Herzen bis hinauf in den Hals schlagen.
 und betrachtete seine nasse Pistole. »Die Wärter
 schlafen noch … Keine Seele rührt sich bei den Baracken.
 — Dja sein sie das Inselchen gesichert haben! In der Tal
-ein neuartiger Trick … Die Bodenklappe des Bootes muß
+ein neuartiger Erik … Die Bodenklappe des Bootes muß
 unten einen Doppelhaken gehabt haben, und dies Eiland ist
 zweifellos von Stahltrossen unter Wasser umgeben. Wer
 also wie wir ein Boot von drüben leicht, und nicht solch unverschämten
@@ -972,7 +964,7 @@ Spielte er Komödie?!
 Da trat der braune Kellner mit dem Frühstück ein …
 brachte auch die Colomboer Morgenzeitungen. Und darin
 stand schwarz auf weiß dieser seltsame Roman der Töchter
-Trick Ballamoors.
+Erik Ballamoors.
 
 Diesen Bericht hatte Harald mir langsam vorgelesen
 und dabei zuweilen sehr überflüssigerweise ironisch gelächelt.
@@ -987,7 +979,7 @@ gefeit auf den prachtvollen Straßen, daß man staunte
 Colombo war noch mehr als früher das Paradies des engslisMHen
 Imperiums.
 
-Sir Trick Ballamoor empfing uns in einem großen, hellen
+Sir Erik Ballamoor empfing uns in einem großen, hellen
 Raum, dar mit schlichter, gediegener Vornehmheit eingerichtet
 war. Der reiche, angesehene Kaufmann selbst machte freilich
 keine glückliche Figur inmitten dieser feierlich-ernsten Umsgebung.
