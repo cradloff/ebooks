@@ -52,8 +52,8 @@ Mutter war Norwegerin, und meine Gattin war Deutsche. Ich
 bin heute fünfzig Jahre alt, aber das Tropenklima hatte mir
 bisher nichts anhaben können. Jetzt haben mich andere
 Einflüsse an den Rand des Grabes gebracht. Von dem frischen,
-energischen Erik Ballamoor aus dem englischen alten Ge-
-schlechte der Ballamoors von Bellcastle, ist nur noch eine
+energischen Erik Ballamoor aus dem englischen alten Geschlechte
+der Ballamoors von Bellcastle, ist nur noch eine
 klägliche Ruine Übrig.
 
 > Um es kurz zu sagen: meine drei Töchter Mary, Dagny
@@ -100,10 +100,10 @@ war mit einer Nadel folgendes eingeritzt (alles war nicht
 mehr lesbar, da der Fischer das Blättchen leider mit nassen
 Fingern angefaßt hatte):
 
-> Wir leb … u ... wer … fang … halt …
-... mit ... in ... Buch ... von ... ai ... Wer ...
-findet, ... an Sir Erik Ballamoor, Colombo ... Belohn
-... deine ... inder ... ry ... ma ... ny ...
+> Wir leb … u … wer … fang … halt …
+… mit … in … Buch … von … ai … Wer …
+findet, … an Sir Erik Ballamoor, Colombo … Belohn
+… deine … inder … ry … mag … ny …
 
 > »Die, Punkte, Herr Harst, bedeuten die unleserlichen Stellen,
 die auch die hiesige Polizei durch photographische Vergrößerung
@@ -155,7 +155,7 @@ Harald hatte mir den Brief vorgelesen.
 »Eigentlich eine ziemlich alltägliche Geschichte,« meinte
 er, und zündete seine Mirakulum wieder an. »Drei Mädchen
 werden entführt — Motiv vielleicht Eifersucht … Immerhin
-ist ..."
+ist …«
 
 <@pagebreak/>
 Er schwieg. Er hatte den Brief, während er sprach, nochmals
@@ -235,7 +235,7 @@ Ich sagte halblaut, denn unser Käpten war in der Nähe:
 
 »Wir werden beobachtet?«
 
-"Ja ..."
+»Ja …«
 
 »Wann merktest du das?«
 
@@ -279,7 +279,7 @@ Wohl entflohene Verbrecher!«
 »Nein — das Gegenteil, lieber Käpten. Haben Sie zufällig
 mal die Namen Harst und Schraut gehört?«
 
-»'ne Frage!! Das sind doch die Berliner Gentleman-Detektive,
+»’ne Frage!! Das sind doch die Berliner Gentleman-Detektive,
 — so die deutsche Auflage von Sherlock Holmes!«
 
 »Nun also! Gestatten Sie: mein wahrer Name ist Harald
@@ -294,8 +294,8 @@ gefirnißte Deck …
 Käpten …« erklärte Harald seelenruhig weiter.
 
 Er tat’s, und ich bewies ihm haarscharf, daß der große
-Motorkutter uns seit Bombay dauernd umschwärme, sich bis-
-her aber stets in vorsichtiger Entfernung gehalten habe.
+Motorkutter uns seit Bombay dauernd umschwärme, sich bisher
+aber stets in vorsichtiger Entfernung gehalten habe.
 
 Der Käpten schob die weiße Schirmmütze ins Genick …
 
@@ -325,14 +325,14 @@ in unsere Liegestühle … — Schlafen?! Keine Rede! Uns
 klebten die seidenen, leichten Schlafanzüge am Körper …
 Wir schwitzten Wasserbäche …
 
-Der Himmel ist mit seinen Schleiern bedeckt, die sich immer
+Der Himmel ist mit feinen Schleiern bedeckt, die sich immer
 mehr zusammenballen. Vorhin waren nachts die Sterne als
 matte Punkte zu erkennen. Jetzt hat sich auch Vater Mond
-verkrochen. Hm Süden wetterleuchtet es …
+verkrochen. Im Süden wetterleuchtet es …
 
-Svendsen. schlendert auf und ab. Die lange, sehnige Gestalt
+Svendsen schlendert auf und ab. Die lange, sehnige Gestalt
 des Dänen beugt sich zuweilen über die Reling, wo in
-dem dunklen Wasser breite, leuchtende Streifen wie See
+dem dunklen Wasser breite, leuchtende Streifen wie
 Gespenster dahingleiten: Haie!
 
 Svendsen bleibt neben uns stehen. »In einer Stunde
@@ -354,13 +354,13 @@ einer Londoner Plantagengesellschaft … Ballamoor hat auf
 seiner Hälfte am Felseilande ein ganz interessantes Experiment
 vorgenommen. Es zieht sich dort eine lange, schmale
 Bucht ins Land hinein, und diese ist durch starke Drahtgitter
-von. der offenen See abgeteilt worden und dient als … Haifissfarm
-… Sie verstehen: es werden dort Haifische gehütet,
-gefüttert und weggestoßen, sobald die Bestien eine
+von der offenen See abgeteilt worden und dient als … Haifischfarm
+… Sie verstehen: es werden dort Haifische gezüchtet,
+gefüttert und weggeschossen, sobald die Bestien eine
 bestimmte Größe erreicht haben. Ob die Sache sich rentiert, bezweifle
-im … Es ist wohl mehr so eine Spielerei von Sir
-Ballamoor. Ein so reicher Mann kann sich Neue leisten,
-und sein Neffe ist …
+ich … Es ist wohl mehr so eine Spielerei von Sir
+Ballamoor. Ein so reicher Mann kann sich manches leisten,
+und sein Neffe ist …«
 
 »Schiff in Lee!« brüllte die Backbordwache. »Gibt Notsignale
 mit Raketen …«
@@ -371,20 +371,20 @@ Da zerstiebten gerade die grünen Kugeln einer Rakete —
 klar erkennbar gegen den finsteren Himmel.
 
 Svendsen lachte … »Vielleicht der Kutter, meine Herren!!
-Na, wenn er’s ist, dann Gnade ihm Gott?!«
+Na, wenn er’s ist, dann Gnade ihm Gott!!«
 
 Der Schoner lief auf das fremde Fahrzeug zu, das zunächst
 noch nicht einmal mit dem Nachtglase zu finden war.
 Dann aber sagte Harald, der zwischen Svendsen und mir an
 der Reling stand: »Es ist der Kutter!«
 
-»Strich!!« bestätigte der Käpten. »Jungens, Jungens, da
-drüben, euch; werde ich einheizen, sobald nur der erste Schuß
+»Stimmt!« bestätigte der Käpten. »Jungens, Jungens, da
+drüben, euch werde ich einheizen, sobald nur der erste Schuß
 fällt …! — Halbe Fahrt, Steuermann … Und alle Mann
-an Des … Ich hab’ was mit euch zu bereden … Wiedersehen.
+an Deck … Ich hab’ was mit euch zu bereden … Wiedersehen,
 die Herren …« — Das galt uns …
 
-Die Besatzung des Schoners bestand zumeist aus braven.
+Die Besatzung des Schoners bestand zumeist aus braven,
 <@pagebreak/>
 hellbraunen Singhalesen. Svendsen konnte sich auf seine
 Leute, die er schon jahrelang an Bord hatte, unbedingt verlassen.
@@ -402,7 +402,7 @@ Der Singhalese weigerte sich natürlich. Er hielt uns ja
 noch immer für harmlose Gelehrte und Landratten, die von
 der Schiffahrt keinen blauen Dunst haben könnten.
 
-»Geh’ 1« befahl Harald nochmals … »Der Käpten will es!!«
+»Geh’!« befahl Harald nochmals … »Der Käpten will es!«
 
 Der Mann trat beiseite.
 
@@ -410,24 +410,24 @@ Harst griff in die Speichen des Rades, und der Schoner
 beschrieb einen Halbkreis um den kaum noch achtzig Meter
 entfernten großen Kutter.
 
-»Schraut — Bruder …!«
+»Schraut — ducken …!«
 
 Ich zog den Singhalesen gleichfalls hinter die Reling …
 
 Und aus einer der Achterladeluken des Schoners ergoß
-riß jetzt in Wien Strahl das scharf riechende Erdöl auf die
+sich jetzt in dickem Strahl das scharf riechende Erdöl auf die
 spiegelglatte Oberfläche des nächtlichen Ozeans.
 
 Ich äugte zum Kutter hinüber …
 
 Dort standen ein Dutzend Leute auf dem Vorschiff, und
 ihre heiseren Hilferufe klangen wie das Kläffen kleiner Köter
-durcheinander
+durcheinander …
 
 Dann eine Stimme durch ein Sprachrohr:
 
-»Hallo — hier Kutter Western von Bombay nach Lohnt
-he Galle … Uns ist der Benzintank ausgelaufen … Könnt
+»Hallo — hier Kutter Western von Bombay nach Point
+de Galle … Uns ist der Benzintank ausgelaufen … Könnt
 ihr uns Brennstoff überlassen?«
 
 Unser Schoner hatte den Kutter jetzt halb umrundet, war
@@ -436,15 +436,15 @@ auf fünfzig Meter heran …
 <@pagebreak/>
 Svendsen brüllte zurück:
 
-»Sollt Brennstoff haben … Schlaf ein Boot …«
+»Sollt Brennstoff haben … Schickt ein Boot …«
 
 »Kommt längsseit … Wir …«
 
 Und da — — drüben drei, vier Blitze …
 
-Eine Kugel riß Harst die Müßte herunter …
+Eine Kugel riß Harst die Mütze herunter …
 
-Hm selben Moment sprang auch der Motor des Schoners
+Im selben Moment sprang auch der Motor des Schoners
 auf volle Fahrt.
 
 Harst hatte sich gebückt …
@@ -452,7 +452,7 @@ Harst hatte sich gebückt …
 Auch die Zweite Kugelsaat von drüben setzte über ihn
 hinweg …
 
-S4 hatte nicht nur meine Clement zur Hand, sondern
+Ich hatte nicht nur meine Clement zur Hand, sondern
 auch die Haralds …
 
 Fünfzig Meter — nein, vierzig …
@@ -485,7 +485,7 @@ Tanzten immer schneller …
 Ein Flammenwall trennte den Kutter von uns …
 
 Weithin war die See von rötlichem Lichte erleuchtet …
-Erde, stinkende Qualmmassen stiegen empor …
+Dicke, stinkende Qualmmassen stiegen empor …
 
 »Stoppen!« erklang Svendsens Donnerstimme …
 
@@ -496,7 +496,7 @@ Half ihm wenig …
 
 Das mit Benzin vermischte Petroleum erzeugte eine
 <@pagebreak/>
-Höllenglut, und der Feuerfrei8 war nur eng, hatte seine
+Höllenglut, und der Feuerkreis war nur eng, hatte keine
 hundertfünfzig Meter Durchmesser …
 
 Wir hörten die Bande drüben schreien und heulen …
@@ -510,17 +510,18 @@ dann rammen wir!«
 Aber es kam anders …
 
 Eine Feuersäule schoß plötzlich aus der Mitte des lohenden
-Kranzes hoch, ein Knall folgte, ein Luftstoß, der uns fast auswarf
-… Die See wogte wild und riß die brennende Versuche
+Kranzes hoch, ein Knall folgte, ein Luftstoß, der uns fast umwarf
+… Die See wogte wild und riß die brennende Ölfurche
 auseinander …
 
 Bruchstücke prasselten herab …
 
 Von dem Kutter war auch nicht mehr eine Spiere übrig
-
 geblieben …
+
 Bis einer der Singhalesen kreischte:
-»Ein Boot — — ein Motorboot — — dort — — vor!!«
+
+»Ein Boot — — ein Motorboot — — dort — — dort!«
 
 Ein offenes, kleines Boot, ein einzelner Mann darin …
 
@@ -532,9 +533,9 @@ verloren.
 »Schon möglich,« nickte Harst …
 
 »Den Kutter hat er mit der ganzen Besatzung in die Luft
-gesprengt …
+gesprengt …«
 
-»Und lb uns doch nicht entgehen,« sagte Harald gelassen.
+»Und wird uns doch nicht entgehen,« sagte Harald gelassen.
 »Trotz dieser Radikalkur …!!«
 
 Svendsen gab Befehl, wieder Kurs auf die Insel Gallayo
@@ -547,14 +548,13 @@ nach Nordost zu, und schon nach zehn Minuten blinkten über
 uns die Sterne, lächelte der dicke Papa Mond wieder gutmütig
 auf die Insel und den Schoner herab. Unsere Singhalesen
 waren eifrig tätig. Das Bugspriet mußte ersetzt werden.
-
 <@pagebreak/>
 Svendsen meinte, das würde immerhin zwei Stunden in Anspruch
 nehmen.
 
 »Dann könnten Schraut und ich uns ja noch ein wenig
 die Beine vertreten …« sagte Harst. »Lassen Sie doch die
-Jolle aussehen, Käpten … Ist’s weit zur Heifischfarm?«
+Jolle aussetzen, Käpten … Ist’s weit zur Haifischfarm?«
 
 »Zu Fuß am Strande entlang keine Viertelstunde …
 die dritte Bucht nach Westen zu … — Aber jetzt nachts
@@ -563,17 +563,17 @@ trotz des hellen Mondlichts …«
 
 »Immerhin ein Spaziergang …!«
 
-H3 wurden wir denn an Land gerudert und kletterten die
+So wurden wir denn an Land gerudert und kletterten die
 Felshügel der Bucht empor … Erreichten die höchste Kuppe.
 Nach Westen war das Land flacher. Wir erkannten unschwer
-mit dem Glase drei Wellblechbaracken. Sie erhoben sich dich!
+mit dem Glase drei Wellblechbaracken. Sie erhoben sich dicht
 am weißen Muschelstrand.
 
 »Das dürfte wohl die Haifischfarm sein,« meinte Harald
 und schob sein Fernglas wieder in das Futteral. »Es ist alles
 dunkel dort, kein Fenster hell … Die Leute schlafen …
 Sehen wir uns die Bucht an. Zuerst den Eingang mit der
-Stahlnetsperre.«
+Stahlnetzsperre.«
 
 So wanderten wir dann gemächlich weiter. Der Himmel
 klärte sich immer mehr auf. Die letzten dünnen Schleier
@@ -581,63 +581,51 @@ verschwanden, und das runde, volle Nachtgestirn erzeugte eine
 Helle, die uns nachher alles erkennen ließ, was uns interessierte.
 
 Wir hatten nach einer halben Stunde festgestellt, daß die
-Haifisch-Bucht durchschnittlich zweihundert Meter breit, leicht!
+Haifisch-Bucht durchschnittlich zweihundert Meter breit, leicht
 gekrümmt und vielleicht achthundert Meter lang war. Wir
 standen jetzt am Nordufer unter einigen Palmen dicht vor den
-dicken Pfählen, die das Drahtnetzz hier am Strande festhielten,
-Es war ein sehr starkes Ne!, ähnlich denen, die im Kriege
+dicken Pfählen, die das Drahtnetz hier am Strande festhielten,
+Es war ein sehr starkes Netz, ähnlich denen, die im Kriege
 gegen U-Boote verwendet wurden, nur weit engmaschiger. Es
 lief in die Tiefe hinab, ragte aber auch noch mindestens zwei
 Meter über die Wasseroberfläche hinaus. Die Pfähle und das
 <@pagebreak/>
-Netz sahen voll so neu aus, daß die Farm erst kurze Zeit
+Netz sahen noch so neu aus, daß die Farm erst kurze Zeit
 bestehen konnte.
 
-Harald äußerte sie über diese Anlage in keiner Weise.
+Harald äußerte sich über diese Anlage in keiner Weise.
 Seine Blicke waren auf eine kleine, hohe, kahle Felseninsel
-
 gerichtet, die mitten in der Bucht lag — ein winziges Eiland
-
 von runder Form und kaum zwanzig Meter Durchmesser.
 
 Meine Augen verfolgten die hellen, gleitenden Streifen
 in den Tiefen der Bucht: Haifische!, und ich überlegte mir, wie
-in aller Welt Biß wohl diese merkwürdige Farm rentieren
+in aller Welt sich wohl diese merkwürdige Farm rentieren
 sollte, denn die Bestien mußten doch gefüttert werden, und
 was ein Hai zu vertilgen vermag, ist längst wissenschaftlich festgestellt
 worden.
 
-Und als ich nun diese meine rein kaufmännischen Text
-
-)
-
-)
-
-)
-!
-j
-
-Erwägungen vor Harald in derselben Weise entwirrte, da ein
-
-widerte er auffallend zerstreut:
+Und als ich nun diese meine rein kaufmännischen
+Erwägungen vor Harald in derselben Weise entwirrte, da erwiderte
+er auffallend zerstreut:
 
 »Das ist doch längst klar …«
 
 »Was denn?«
 
-»Diese Haifischfarm muß einen Haken haben …
+»Diese Haifischfarm muß einen Haken haben …«
 
 Und er starrte noch immer nach dem Inselchen hinüber.
 
-»Haken?! Du meinst?«
+»Haken?! Du meinst?!«
 
 »Ich meine, daß Ballamoor diese Bucht wohl aus anderen
-Gründen so unzugänglißch gemacht hat. Wenn du na links
-gehaust, wo die äußersten Spitzen der beiden schmalen, felsigen
+Gründen so unzugänglich gemacht hat. Wenn du nach links
+schaust, wo die äußersten Spitzen der beiden schmalen, felsigen
 Landzungen, die nach den Riffen hin wie Molen die Buchtufer
 verlängern, dann bemerkst du dort ein zweites Netz und
 daran große Tafeln — fraglos Warnungstafeln, und vor dem
-Nett noch Sperren aus zusammengeketteten Baumstämmen.«
+Netz noch Sperren aus zusammengeketteten Baumstämmen.«
 
 »Allerdings … Jetzt sehe ich’s …« Und das klang etwas
 kleinlaut …
@@ -650,56 +638,55 @@ Ah — das war freilich ein sehr naheliegender Gedanke!!
 »Ballamoor mag fürchten, daß man ihm die Bänke
 plündert … Und da sind die Haie der sicherste Schutz …« —
 — Harst sprach voll immer in etwas weltentrückten Tonfall
-
 <@pagebreak/>
 … Dann fügte er hinzu, und dies etwas lebhafter:
 
-»Au werde nach dem Inselchen hinüberrudern … Die
-Wärter dieser seltsamen Farm schlafen … Dort bei den Das
-Kameraden liegen drei Boote … Ich werde mir eins leihen?«
+»Ich werde nach dem Inselchen hinüberrudern … Die
+Wärter dieser seltsamen Farm schlafen … Dort bei den Baracken
+liegen drei Boote … Ich werde mir eins leihen.«
 
 »Gestatte … — und ich?!«
 
 »Da kannst mitkommen … Ich erkläre dir aber gleich, daß
-hin Dach? nicht ungefährlich ist …«
+sie Sache nicht ungefährlich ist …«
 
 »Lächerlich! Der Haie wegen?!«
 
 »Nein, der Menschen wegen, mein Alter …!!« Und er
-Wüste mich seltsam an …
+blickte mich seltsam an …
 
 <h2>3. Kapitel.</h2>
 <h3>Eine unrentable Farm.</h3>
 
 Inzwischen hatten wir am weißen, sandigen, unter unseren
 Füßen leicht knirschenden Muschelstrande bereits eine geraume
-Strecke zurügelegt. Die Boote waren nicht mehr fern. Sie
+Strecke zurückgelegt. Die Boote waren nicht mehr fern. Sie
 waren an einer plumpen, mit Karbolineum dunkel gefärbten
 Anlegebrücke vertäut.
 
 »Wen fürchtest du?« fragte ich, als Harald bereits die
-Brücke« betrat.
+Brücke betrat.
 
 Er wandte sich halb um. »Den Mann, der in dem Motorboot
 von dem großen Kutter floh — ihn und seine Helfershelfer
 …«
 
-»Also Tai Tau …«
+»Also Tai Wan …«
 
 »Mag sein …«
 
 Er bückte sich und löste die Leine des kleinsten Bootes.
-In dem Boote lagen ein Paar Riemen, außerdem eine Sprang,
+In dem Boote lagen ein Paar Riemen, außerdem eine Harpune,
 an der eine sehr lange, geteerte dünne Hanfleine befestigt
 war …
 
 Wir stießen ab. Harst ruderte. Ich steuerte. Also saßen
 wir mit den Gesichtern uns gegenüber, und ich hatte abermals
 Gelegenheit, Haralds Mienen zu studieren. Die gefielen mir
-nicht. Eis war ein auffallender Ausdruck von Unentschlossen
+nicht. Es war ein auffallender Ausdruck von Unentschlossenheit
 <@pagebreak/>
-Wahrheit darin. Er ruderte auch sehr langsam, als ob das kleine,
-fahle Felseneiland ihn durchaus nicht allzusehr Loge … Und
+darin. Er ruderte auch sehr langsam, als ob das kleine,
+fahle Felseneiland ihn durchaus nicht allzusehr locke … Und
 Vater Mond schien ihm ins Gesicht …
 
 Da sagte Harst leise …
@@ -710,9 +697,9 @@ Meine Ahnungen trügen selten …«
 Mit einem Male schrammte dann der Bootskiel, obwohl
 wir noch dreißig Meter von dem Inselchen entfernt waren
 und das Wasser keinerlei Riffe zeigte, über irgendein Hindernis
-hinaus. Ein Hai konnte es nicht sein, denn die Bestien
+hinweg. Ein Hai konnte es nicht sein, denn die Bestien
 schienen vor jedem Boot einen heillosen Respekt zu haben.
-Ihre!Hauch leuchtenden, gespensterhaften, schnell dahingleitenden
+Ihre schwach leuchtenden, gespensterhaften, schnell dahingleitenden
 Leiber umschwärmten in weitem Umkreise unser kleines
 Fahrzeug.
 
@@ -720,15 +707,15 @@ Diese Stoß, den das Boot erhalten hatte, machte sich
 auch in einem jähen Aufhören jeder Vorwärtsbewegung bemerkbar.
 
 Plötzlich flutete dann vom Boden des Fahrzeugs her ein
-die Schwall Wasser herein, und das Boot begann zu
-sinken
+starker Schwall Wasser herein, und das Boot begann zu
+sinken.
 
-»Dach! ich’s doch!« rief Harst … »Nun gilt’s …! — Eine
+»Dacht ich’s doch!« rief Harst … »Nun gilt’s …! — Eine
 Bodenklappe, die durch ein unter Wasser gespanntes Drahtseil
 geöffnet wurde …!«
 
 Er ließ die Riemen fahren, bückte sich und griff durch das
-runde Los im Boden hinab … Das Wasser umspülte sein
+runde Loch im Boden hinab … Das Wasser umspülte sein
 Gesicht … Sein Kopf verschwand, tauchte wieder auf …
 
 Das Boot füllte sich immer mehr …
@@ -737,12 +724,11 @@ Und — es war ein Zinkboot …
 
 Es mußte sofort unter uns wegsacken …
 
-Dann hatten die Haie mal weißes Fleisch als Beerdigten.
+Dann hatten die Haie mal weißes Fleisch als Leckerbissen.
 
 »Schwimmen!« rief Harald wieder … »Pistolen raus!
-Die! Schuß jeder! Du weißt, wie du im Wasser zu zielen
-
-Lee
+Neun Schuß jeder! Du weißt, wie du im Wasser zu zielen
+hast …«
 
 Dreißig Meter bis zur Insel …
 
@@ -751,7 +737,7 @@ Wenn die Haie nicht gewesen wären!
 <@pagebreak/>
 Und sie kamen …
 
-Hm letzten Moment hatte ich nach der Harpune gegriffen.
+Im letzten Moment hatte ich nach der Harpune gegriffen.
 
 Sie hatte einen Holzschaft … Die Spitze war wie ein
 breites, schmales, langes Messer mit zwei Widerhaken. Eine
@@ -760,9 +746,9 @@ vorzügliche Waffe …
 Harald schwamm vor mir … Die Harpune behinderte
 mich … Aber ich mochte sie nicht fallen lassen …
 
-Ein Untier von Hai schoß von der Seite auf ’Sarald zu.
+Ein Untier von Hai schoß von der Seite auf Harald zu.
 
-Warf sich herum
+Warf sich herum …
 
 Ich stieß zu — in den hellen Bauch …
 
@@ -770,33 +756,32 @@ Stieß zu stark …
 
 Die Widerhaken saßen fest …
 
-Ich war die, Harpune los …
+Ich war die Harpune los …
 
-Aber Fuchs der Menschenfresser war erledigt …
+Aber auch der Menschenfresser war erledigt …
 
-Sein wildes, zweckloses Hin- und Betraten, seine törichten
+Sein wildes, zweckloses Hin- und Herrasen, seine törichten
 Schwanzschläge, die ihm das schmerzhafte Anhängsel vom
 Bauche abschütteln sollte, waren unsere Rettung, machten die
 übrigen Bestien scheu …
 
 Als wir das steile Ufer des Inselchens erkletterten, zitterten
 mir derart Arme und Beine, daß ich beinahe wieder ins
-Kg zurückgeglitten wäre. Harald erging es nicht viel
-
+Wasser zurückgeglitten wäre. Harald erging es nicht viel
 besser.
 
-Nun saßen wir auf einer Schattenseite des Inselchens aus
+Nun saßen wir auf einer Schattenseite des Inselchens auf
 einem Felsvorsprung, schnappten nach Luft und fühlten unsere
 Herzen bis hinauf in den Hals schlagen.
 
 »Gut, daß wir nicht geschossen haben,« meinte Harald keuchend,
 und betrachtete seine nasse Pistole. »Die Wärter
 schlafen noch … Keine Seele rührt sich bei den Baracken.
-— Dja sein sie das Inselchen gesichert haben! In der Tal
-ein neuartiger Erik … Die Bodenklappe des Bootes muß
+— Wie fein sie das Inselchen gesichert haben! In der Tat
+ein neuartiger Trick … Die Bodenklappe des Bootes muß
 unten einen Doppelhaken gehabt haben, und dies Eiland ist
 zweifellos von Stahltrossen unter Wasser umgeben. Wer
-also wie wir ein Boot von drüben leicht, und nicht solch unverschämten
+also wie wir ein Boot von drüben leiht, und nicht solch unverschämten
 Dusel wie wir hat, kann sein Testament im
 Bauch eines Menschenhais schreiben …«
 
@@ -813,43 +798,43 @@ in eins der beiden Boote, stieß jetzt ab und ruderte
 langsam auf das Eiland zu.
 
 Mit atemloser Spannung beobachteten wir den Mann.
-Er ruderte geschickt, kräftig und geräuschlos. Da. er die Spitze
+Er ruderte geschickt, kräftig und geräuschlos. Da er die Spitze
 des Bootes der Insel zugekehrt hatte, drehte er uns den
 Rücken zu. Nur zuweilen schaute er sich um, damit er nicht
 aus der Richtung käme.
 
 »Legen wir uns lang …« meinte Harald leise … »Es
-ist arm Chinese … Und er wird vielleicht sehr bald merken, daß
-dieses Eiland hier doppelt und dreifach. gesichert ist …
+ist ein Chinese … Und er wird vielleicht sehr bald merken, daß
+dieses Eiland hier doppelt und dreifach gesichert ist …
 
 Das Boot kam nun um die Biegung der Bucht auf
 Uns zu.
 
 Der Chinese war vorsichtig. Als er noch fünfzig Meter
-entfernt war, ließ er die Riemen schleifen, Büste sich und …
+entfernt war, ließ er die Riemen schleifen, bückte sich und …
 
 »Er kennt die Geschichte mit der Bodenklappe …« raunte
 Harst. »Die Klappe hat sicherlich eine Vorrichtung für Eingeweihte,
 durch die sie geschlossen bleibt, selbst wenn das Boot
 über die Stahltrosse gleitet. — Siehst du, er hat die gefährliche
-Tone hinter Biß. Er wird links von uns landen, wo der
-flache, steinige Strandstreifen als kleine Halbinsel im versteckt
+Zone hinter sich. Er wird links von uns landen, wo der
+flache, steinige Strandstreifen als kleine Halbinsel sich vorstreckt
 …
 
 Es stimmte. Dort zog der Gelbe sein Boot aufs Trockene.
 
-Wir hatten uns noch. unser zwischen das Steingeröll
+Wir hatten uns noch enger zwischen das Steingeröll
 geschmiegt. Wir warteten, bis der Mann das etwa drei
 Meter hohe freie Ufer erklettert hatte. Das Innere des
 Eilandes war angefüllt mit Felsblöcken und hell schimmernden
-hohen Steinzacken, auf denen Seevögel ihre Außenhülle gehabt
+hohen Steinzacken, auf denen Seevögel ihre Ruheplätze gehabt
 hatten, von deren Unrat das Gestein weiß übertüncht war.
 
-Der Chinese verschwand Zwischen den Blüten. Vorher
+Der Chinese verschwand Zwischen den Blöcken. Vorher
 hatten wir noch genau gesehen, daß er eine Repetierpistole
 <@pagebreak/>
 großen Formats entsichert und eine Weile prüfend nach den
-Langen hinübergeschaut hatte.
+Baracken hinübergeschaut hatte.
 
 Harald begann sich eilends vorwärtszuschieben. Ich blieb
 dicht hinter ihm. Wir drangen genau an derselben Stelle
@@ -857,20 +842,20 @@ in das Gewirr der Felsmassen ein wie der Chinese.
 
 Und doch waren wir nicht vorsichtig genug. Der Mann
 hatte uns zweifellos doch bemerkt gehabt, und danach seine
-Anstalten getroffen. Als wir gerade zwischen zwei Blöden
-hindurchstecken, erhielt erst Harst einen Hieb mit einem Ruder
+Anstalten getroffen. Als wir gerade zwischen zwei Blöcken
+hindurchkrochen, erhielt erst Harst einen Hieb mit einem Ruder
 über den Schädel. Ich, der hinter ihm war, sah genau, daß
 es ein Ruder war. Ich wollte hochschnellen, wollte feuern.
 Der Kerl, der über uns auf einem der Steinblöcke stand, war
 flinker. Auch ich knickte, von dem Ruder getroffen, wieder
-in die. Knie und sank nach vorn über. Ich war bewußtlos,
-freilich nicht lange. Meine Mütze hatte genau wie bei, Harst
+in die Knie und sank nach vorn über. Ich war bewußtlos,
+freilich nicht lange. Meine Mütze hatte genau wie bei Harst
 den flach geführten Hieb abgeschwächt. Als ich nach etwa fünfzehn
-Minuten mit brummendem Schädel wieder Kamin kam,
+Minuten mit brummendem Schädel wieder zu mir kam,
 saß Harald schon aufrecht und hatte … seine Uhr in der Hand.
 
 »Dummköpfe! Wir!« meinte er. »Vierzehn Minuten
-ungefähr waren wir erledigt.« Er stete die Uhr wieder weg.
+ungefähr waren wir erledigt.« Er steckte die Uhr wieder weg.
 »Da liegen unsere Pistolen. Der Chinese hatte es eilig, hat
 uns nicht weiter angerührt. Es genügte ihm, daß wir als
 Spione ausgeschaltet waren … — Wollen sehen, ob die Beine
@@ -885,46 +870,46 @@ Harst besichtigte das Ufergeröll …
 
 Lachte lautlos …
 
-»Ich so — — sehr nett von dem Manne …! Und wie
+»Ach so — — sehr nett von dem Manne …! Und wie
 er sich beeilt haben muß! Hier ist die Stelle, wo er zuerst
 landete … Die Spitze des Bootes hat das Geröll verschoben.
 Er hat das Boot eben zurückgebracht, nachdem er
 <@pagebreak/>
 gerade gegenüber am Buchtstrande gelandet war. Dann ist
-er zurüFgeschwommen …«
+er zurückgeschwommen …«
 
-»Aber das ist doch unmöglich, Harald?«
+»Aber das ist doch unmöglich, Harald!«
 
 »Hier ist nichts unmöglich. Der Chinese wollte eben nicht,
-daß wir auf der Insel blieben, sehr einfach; Und mit den
-Haien weiß er umzugehen, auch sehr Gulasch. Bitte — sieh
-mal dorthin … Wir scheint, die Bestien kämpfen gerade um
+daß wir auf der Insel blieben, sehr einfach. Und mit den
+Haien weiß er umzugehen, auch sehr einfach. Bitte — sieh
+mal dorthin … Mir scheint, die Bestien kämpfen gerade um
 ein paar ihrer Genossen, denen das Messer unseres Retters
-den Rest gegeben hat ck… — Durchsuchen wir das Inselchen.«
+den Rest gegeben hat … — Durchsuchen wir das Inselchen.«
 
 Wir durchstöberten das winzige Eiland. Stein, Fels —
-— nichts anderes! Und Ergebung!!
+— nichts anderes! Und Vogelunrat!
 
 »Später!« sagte Harald schließlich. Ihm behagt es häufig,
-orakalhaft? Bemerkungen zu machen …
+orakelhafte Bemerkungen zu machen …
 
 So ruderten wir denn, nachdem wir die Einrichtung der
 Bodenklappe des Bootes in Augenschein genommen und auch
 wirklich einen kleinen Riegel gefunden hatten, der den Klappdeckel
 des Loches festhielt, zur Brücke zurück. Der Kiel
-schrammte über die unsichtbare Stahltrosse hinweg. Eis gab
+schrammte über die unsichtbare Stahltrosse hinweg. Es gab
 einen kleinen Ruck, aber das war auch alles. Diesmal gab
-&s keine Katastrophe. — In aller Stille vertäuten wir das
+es keine Katastrophe. — In aller Stille vertäuten wir das
 Boot am Stege, und wanderten wieder der Nordbucht zu, wo
 Svendsens Schoner lag. Harst schwieg anhaltend, meinte nur,
-als der Schoner in Sicht kam: »Kein Wort von dem Ersetzten!«
+als der Schoner in Sicht kam: »Kein Wort von dem Erlebten!«
 — Einen Tag später, abends gegen elf, lief der
 Schoner in den Hafen von Colombo ein. Svendsen und die
 Besatzung sahen uns ungern scheiden, zumal Harald jedem
 ein nettes Sümmchen unter der Bedingung ausgehändigt
-Satz, daß unser Abenteuer mit dem in die Luft gesprengten
+hatte, daß unser Abenteuer mit dem in die Luft gesprengten
 großen Kutter geheim bliebe. Svendsen und seine Leute hatten
-sicherlich noch« nie eine so einträgliche Frachtfahrt gehabt.
+sicherlich noch nie eine so einträgliche Frachtfahrt gehabt.
 
 <@pagebreak/>
 
@@ -1129,7 +1114,7 @@ konnte er nichts, und im Grunde war’s wirklich ein überaus
 gutmütiger Mensch), lebt nicht mehr … Ich brauche daher
 keine Rücksicht zu nehmen. Er war ein von Neid geplagter,
 kleinlicher Scharlatan, so ein richtiger Patent, so ein Detektivinspektor,
-wie man ihn in Groscenheften geschildert findet.
+wie man ihn in Groschenheften geschildert findet.
 <@pagebreak/>
 — ein eingebildeter, lächerlicher Narr, stets Komödiant, stets
 voller Würde …
@@ -1176,7 +1161,7 @@ en Lackschuh …«
 
 »»Verzeihung, — Sie sind um die vierzig … Und Miß
 Goddwell wird frische Jugend vorgezogen haben … — Wer …
-war denn ihr hauptsächliher Verehrer?«
+war denn ihr hauptsächlicher Verehrer?«
 
 »Dja — wenn man das wüßte!«
 
@@ -1236,7 +1221,7 @@ vielleicht mal den Abstand der Worte beziehungsweise Wortteile
 einschieben ließen, so werden Sie zugeben müssen, das dies
 unmöglich ist, da der Zwischenraum zu klein ist … Ein
 hätte da Platz — nichts weiter! Und wenn Sie ferner dasselbe
-mit dem Schlußwort des Anfangssatze8 »Wir leben und
+mit dem Schlußwort des Anfangssatzes »Wir leben und
 werden gefangen gehalten«, wobei tote; von »gehalten« nur
 »bald« leserlich vorhanden ist, — also dasselbe mit diesem
 »halt« und dem folgenden »mit« tun wollen, so erkennen Sie
@@ -1716,7 +1701,7 @@ sehr schwül, diese Nacht … Ich fürchte, auch Tai Wan ist!
 nicht ganz behaglich zumute …«
 
 Ich) rauchte zwei Züge. »Weshalb nicht? — Du nimmt!
-wohl an, daß er sich Vorwürfe macht, weil er seine Angriffsbefchle
+wohl an, daß er sich Vorwürfe macht, weil er seine Angriffsbefehle
 so ungeschickt erteilt hat … Hätte er dich gefragt.
 würdest du wohl ein wenig anders disponiert haben …«
 
@@ -1746,7 +1731,7 @@ Hindersen, was Docht nun erwiesen, in der Tat von dir, von
 ne fälschlicherweise verdächtigt wurde, so ist es unsere heilige
 Pflicht …
 
-»Bitte, keine hohtönenden Redensarten, Max Schlau!!
+»Bitte, keine hochtönenden Redensarten, Max Schraut!
 Was unsere Pflicht ist, werden wir tun — nicht einen Deut
 mehr!«
 
@@ -1763,7 +1748,7 @@ Ich spähte hierhin, dorthin …
 
 »Wo ist die Jolle geblieben, Harald?«
 
-»Vielleicht zur Jacht zurügekehrt … Wir können ja jetzt
+»Vielleicht zur Jacht zurückgekehrt … Wir können ja jetzt
 einen der Kutter benutzen.«
 
 »Das wohl …« Ich überlegte. Ob etwa die Jolle den
@@ -1961,7 +1946,7 @@ Prau … Frage nichts. Der Mann ist an Bord der Prau.
 Ich sah die Spuren seiner nahen, nassen Füße an Decks auf
 dem Vorschiff kurz ganz der Sdcjießerei. Als wir mit den
 Wachen in den Kuttern sprachen, See er am »Sie,
-Ungar. Weine Promenade an Deck galt. ist Ei! RT
+Ungar. Weine Promenade an Deck galt. ist Ei! Ry
 wieder auskneifen.«
 
 Das Boot glitt der Prau zu.
