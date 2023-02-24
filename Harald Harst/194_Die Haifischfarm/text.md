@@ -925,7 +925,7 @@ Verbindung hergestellt war, gab er mir den Hörer. »Begrüße
 Ballamoor … Vielleicht teilt er dir Wichtiges mit …«
 
 Und in der Tat, — ich machte ein mehr als verblüfftes
-Gesicht, als Ballamoor nach herzlichen Worten des Witterung
+Gesicht, als Ballamoor nach herzlichen Worten des Willkomms
 und des Dankes für unser Erscheinen hinzufügte:
 »Ja, denken Sie, — meine Kinder sind wieder da! Seit
 gestern früh … Einen ganzen Roman haben sie erlebt …
@@ -954,22 +954,21 @@ Erik Ballamoors.
 Diesen Bericht hatte Harald mir langsam vorgelesen
 und dabei zuweilen sehr überflüssigerweise ironisch gelächelt.
 
-Ein Auto brachte uns vor des Kerkers Geschäftspalast
-
+Ein Auto brachte uns vor des Reeders Geschäftspalast
 <@pagebreak/>
 … Alle Wunder von Schönheit dieser einzigartigen Ruinenstadt
-taten sie vor uns auf. Aus lichten Tropengrün winkten
-uralte, wohlgehütete Tempel und Paläste … Eine Sauber
-gefeit auf den prachtvollen Straßen, daß man staunte
-Colombo war noch mehr als früher das Paradies des engslisMHen
+taten sich vor uns auf. Aus lichtem Tropengrün winkten
+uralte, wohlgehütete Tempel und Paläste … Eine Sauberkeit
+auf den prachtvollen Straßen, daß man staunte …
+Colombo war noch mehr als früher das Paradies des englischen
 Imperiums.
 
 Sir Erik Ballamoor empfing uns in einem großen, hellen
-Raum, dar mit schlichter, gediegener Vornehmheit eingerichtet
+Raum, der mit schlichter, gediegener Vornehmheit eingerichtet
 war. Der reiche, angesehene Kaufmann selbst machte freilich
-keine glückliche Figur inmitten dieser feierlich-ernsten Umsgebung.
+keine glückliche Figur inmitten dieser feierlich-ernsten Umgebung.
 Er war blaß, nervös, und seine Worte stolperten
-über nervös turnte Lippen. Die Leidenszeit, die hinter
+über nervös zuckende Lippen. Die Leidenszeit, die hinter
 ihm lag und die in verkleinertem Maße nun wieder seines
 Neffen wegen begonnen hatte, war leider durchaus nicht spurlos
 an ihm vorübergegangen.
@@ -980,30 +979,30 @@ nochmals, daß wir die lange Reise nicht gescheut hatten.
 
 Wir unserseits hatten ihn von Herzen beglückwünscht,
 weil er nun wieder mit seinen Kindern vereint war, und
-mit seiner fahrigen Lebendigkeit bedauerte er in überhaste:cm
+mit seiner fahrigen Lebendigkeit bedauerte er in überhasteten
 Worten, uns seine Töchter leider nicht vorstellen zu können
 … »Ich habe sie sofort zu ihrer Erholung nach der Insel
 Gallayo geschickt, von der mir die Westhälfte gehört … Heute
 früh sind sie mit der Dampfjacht eines Bekannten dorthin
 abgereist … Die Jacht ist natürlich bewaffnet … Sie werden
 wahrscheinlich noch nie etwas von Gallayo gehört haben,
-meine Herren …« Und dann kam das, was wir bereits- von
+meine Herren …« Und dann kam das, was wir bereits von
 Käpten Svendsen von der entlegenen Insel wußten, nur daß
 Ballamoor nun ergänzte, daß er in den Bergen Gallayos
 ein reizendes Landhaus und eine kleine Plantage besitze …
 »Die Luft dort ist wunderbar, und meine Mädels mußten
 von hier fort, weil ich’s als Vater nicht dulden konnte, daß
-sie mit Besuchen überlaufen wurden … Unser Freunveos8kreis
+sie mit Besuchen überlaufen wurden … Unser Freundeskreis
 ist hier zu ausgedehnt, und jeder und jede wollte meine
 <@pagebreak/>
 drei armen Befreiten persönlich sprechen … Das war ja
 eine Quälerei, besonders für Mary, die nun doch noch in
 Sorge um meinen Neffen ist …«
 
-Sein — war dieser magere Herr nur nervös!! Alles
+Nein — war dieser magere Herr nur nervös!! Alles
 zappelte an ihm. Die Hände konnte er nicht stillhalten, und
 in seinen Augen lag etwas Gehetztes, Unsicheres … Seine
-Blicka wichen den unseren beständig aus, genau wie bei
+Blicke wichen den unseren beständig aus, genau wie bei
 einem Menschen, der seelisch völlig gebrochen ist …
 
 Wir taten so, als ob Gallayo uns fremdes Gebiet sei, nur
@@ -1014,15 +1013,15 @@ Sprach davon, als wir mit dem Schoner in Sicht des Eilandes
 vorüberkamen …«
 
 Die Wirkung dieser Sätze auf den kribbeligen Sir Ballamoor
-war die eines Blitstrahle8, der ihm vor den Füßen
+war die eines Blitzstrahles, der ihm vor den Füßen
 in den Boden fährt. — Ich übertreibe wirklich nicht. Ich
 habe schon so manchen Menschen, der schreckhafter Natur
 oder dessen schlechtes Gewissen ihn besonders empfänglich
-für die nicht zu unterdrückender Äußerungen hellen Entsetzens
+für die nicht zu unterdrückenden Äußerungen hellen Entsetzens
 macht, sich verfärben und die Augen unnatürlich weit
 aufreißen, dann in sich zusammensinken sehen. Hier bei Sir
 Ballamoor all dies nun in aufs höchste gesteigertem Maße
--… Und all das doch fraglos nur, weil das Wort Haifischfarm
+… Und all das doch fraglos nur, weil das Wort Haifischfarm
 gefallen war! — Hatte der Großreeder eine solche Angst
 um seine Perlmuschelbänke?!
 
@@ -1033,15 +1032,15 @@ verzerrt …
 »Ja — — die Haifischfarm …! Der arme, arme Sven!!
 Es war ja sein Steckenpferd, Herr Harst … Er hat diese
 Farm für sein eigenes Geld eingerichtet, und — wie hat
-man ihn deshalb hier in Colombo verspotte!! Es war natürlich
+man ihn deshalb hier in Colombo verspottet! Es war natürlich
 eine vollkommen verfehlte Spekulation. Aber der gute
 Sven, ein so vorzüglicher Kaufmann er auch sonst ist, hat
-einen wahren Eisenkopf … Gerade weil man ihn Aussprache.
+einen wahren Eisenkopf … Gerade weil man ihn auslachte,
 <@pagebreak/>
 hielt er an seiner verrückten Idee fest … Gegen den Willen
-meiner’ kleinen Mary, seiner Braut, der die Haie genau so
-gräßlich sind aha anderen Mädchen eine Maus oder eine
-Rätin …«
+meiner kleinen Mary, seiner Braut, der die Haie genau so
+gräßlich sind wie anderen Mädchen eine Maus oder eine
+Ratte …«
 
 Er war langsam wieder über den etwas unverständlichen
 Schreck, daß wir von der Farm etwas wüßten, hinweggekommen.
@@ -1049,44 +1048,46 @@ Sein Benehmen wurde zwangloser und freier. —
 »Vielleicht haben Sie einmal Gelegenheit, sich diese Farm
 anzusehen, meine Herren,« fügte er mit etwas übertriebener
 Liebenswürdigkeit hinzu. »Jetzt möchte ich mit Ihnen über
-Jene Entführung sprechen … Denn das liegt mir am meinen
+Svens Entführung sprechen … Denn das liegt mir am meisten
 am Herzen … Sie haben wohl schon in den Zeitungen davon
 gelesen. Viel mehr könnte ich Ihnen auch nicht angeben,
 und …«
 
 Das Telephon auf dem Schreibtisch schlug an …
 
-Ballamoor nahm den Hörer … »Ha, der Brief soll mir
+Ballamoor nahm den Hörer … »Ja, der Brief soll mir
 dann sofort gebracht werden … sofort … Ein unbekannter
 Lingeborener hat ihn dem Pförtner ausgehändigt? Her mit
-ein Brief …!«
+dem Brief …!«
 
-Ein Kontordiener brachte das Schreiben. Mit Blattkronen
+Ein Kontordiener brachte das Schreiben. Mit flatternden
 Fingern riß Ballamoor den Umschlag auf, dessen Adresse
-nicht Maschine geschrieben war …
+mit Maschine geschrieben war …
 
-35\. Kapitel.
-Miß Rani Goddwell.
-Mit Anschlag — auch der Brief … Der lautet?:
+<h2>5. Kapitel.</h2>
+<h3>Miß Anni Goddwell.</h3>
 
-Lieber Onkel,
-meine Jacht Mary ist offenbar von denselben Piraten, die
+Mit Maschine — auch der Brief … Der lautete:
+
+<p class="centered">Lieber Onkel,</p>
+
+> meine Jacht Mary ist offenbar von denselben Piraten, die
 nach Aussage ihres Kapitäns auch Mary, Dagny und Selma
 geraubt hatten, überraschend geentert worden. Du kannst
 Dir meine Verzweiflung vorstellen, daß ich nun hier an
 Bord einer schmierigen Prau Gefangener bin, wo jetzt doch
 <@pagebreak/>
-Mary wieder in Sicherheit bei Dir weilt und all unser«
+Mary wieder in Sicherheit bei Dir weilt und all unsere
 Angst um Deine Kinder ein Ende gehabt hätte. Die Piraten
-fordern von mir ein Lösegeld von fünfzigtausend Pfund.
+fordern von mir ein Lösegeld von fünfzigtausend Pfund,
 das in fünfzig Tausendern ihnen ausgehändigt werden soll.
 Wann und wie, — das wird der Kapitän Dir noch
 mitteilen. Da ich nun leider über eine solche Summe
-nicht verfüge, muß ich schon auf Deine Großmut rechnen,
+nicht verfüge, muß ich schon auf Deine Großmut rechnen.
 Die Malaien hier an Bord sind das wüsteste Gesindel, das
-im? je auf einem Schiffe zusammengesehen habe. Den
+ich je auf einem Schiffe zusammengesehen habe. Den
 Kerlen ist alles zuzutrauen. Gestern hat der Kapitän meine
-armen vier Jachtmatrosen vor meinen Augen an Leine
+armen vier Jachtmatrosen vor meinen Augen an eine
 Schleppleine geknotet und ins Wasser geworfen … In
 kurzem war nichts mehr von ihnen übrig … Es war entsetzlich.
 Die Schreie der Ärmsten gellen mir noch in den
@@ -1094,16 +1095,16 @@ Ohren. Ich könnte Dir noch so manches mitteilen, aber der
 Kapitän kann lesen und schreiben und hat sogar eine
 Schreibmaschine an Bord.
 
-Innigste Grüße an Mary, Dir) Dagny und Selma —
+> Innigste Grüße an Mary, Dir, Dagny und Selma —
 
-Euer Sven.
+<p class="right">Euer Sven.</p>
 
 »Ja, Sir Ballamoor,« meinte Harald achselzuckend, »da
 können auch Schraut und ich vorläufig nichts ausrichten.
 Geben Sie uns bitte Bescheid, sobald der Pirat sich meldet.
 Dann wird sich wohl ein Weg finden lassen, ihn abzufassen.«
 
-Was noch weiter zwischen uns besprochen ’wurde, ist ohne
+Was noch weiter zwischen uns besprochen wurde, ist ohne
 Bedeutung für die Entwicklung dieses einzigartigen Kriminalfalles.
 Eine Viertelstunde später brachte uns ein Auto vom
 Hafen zum Polizeiamt, zu unserem … Freunde Sherlock
@@ -1113,26 +1114,26 @@ Nun, der gute, dumme Moudray (für die Dummheit
 konnte er nichts, und im Grunde war’s wirklich ein überaus
 gutmütiger Mensch), lebt nicht mehr … Ich brauche daher
 keine Rücksicht zu nehmen. Er war ein von Neid geplagter,
-kleinlicher Scharlatan, so ein richtiger Patent, so ein Detektivinspektor,
-wie man ihn in Groschenheften geschildert findet.
+kleinlicher Scharlatan, so ein richtiger Poseur, so ein Detektivinspektor,
+wie man ihn in Groschenheften geschildert findet,
 <@pagebreak/>
 — ein eingebildeter, lächerlicher Narr, stets Komödiant, stets
 voller Würde …
 
-Wir hatten »uns ihm unter unseren richtigen Namen
+Wir hatten uns ihm unter unseren richtigen Namen
 melden lassen. Er kam Harald mit ausgebreiteten Armen
 entgegen, heuchelte eine Freude, die mir’s verdammt schwer
 machte, bei dieser Szene ernst zu bleiben … — Wir nahmen
 Platz. Moudray saß im Schreibsessel wie ein Gott, in dem
 bartlosen Gesicht einen Ausdruck übernatürlicher Schläue …
 
-»Na, wo? sagen Sie dazu, bester Harst?« meinte er nun
+»Na, was sagen Sie dazu, bester Harst?« meinte er nun
 mit seiner gedämpften Eunuchenstimme … »Ist meine Kombination,
 daß der Fuß in Miß Marys Lackschuh von der
-armen Arzt Goddwell, der Gouvernante, stammt, nicht ein
+armen Anni Goddwell, der Gouvernante, stammt, nicht ein
 Schuß ins Schwarze?«
 
-»Ohne Zweifel, lieber Moudray!’«
+»Ohne Zweifel, lieber Moudray!«
 
 »Ja, die Piraten haben die bildhübsche Miß umgebracht
 … natürlich!« sagte der Inspektor großartig.
@@ -1140,27 +1141,27 @@ Schuß ins Schwarze?«
 »Wann verschwand sie denn — und wann?«
 
 »Am zehnten Oktober, also zwei Tage vor Ballamoors
-Töchtern …
+Töchtern …«
 
 »Das dachte ich mir …«
 
-»Wiese, bester Harst?«
+»Wieso, bester Harst?«
 
 »Nun, die Piraten brauchten doch ein Frauenbein für
-en Lackschuh …«
+den Lackschuh …«
 
-»Ich so … allerdings …«
+»Ach so … allerdings …«
 
 »Und Miß Goddwell war so hübsch?«
 
 »Sie machte hier alle Männer verrückt … alle …«
 
-»Sie auch 2?«
+»Sie auch?!«
 
 »Gestatten Sie … ich?!«
 
-»»Verzeihung, — Sie sind um die vierzig … Und Miß
-Goddwell wird frische Jugend vorgezogen haben … — Wer …
+»Verzeihung, — Sie sind um die vierzig … Und Miß
+Goddwell wird frische Jugend vorgezogen haben … — Wer
 war denn ihr hauptsächlicher Verehrer?«
 
 »Dja — wenn man das wüßte!«
@@ -1168,7 +1169,7 @@ war denn ihr hauptsächlicher Verehrer?«
 »Was heißt das, Moudray …?«
 
 »Na — sie war eben sehr vorsichtig … Sie gab sich
-lachte im Park des Gouverneurs, ihres Brotherrn, heimütich
+nachts im Park des Gouverneurs, ihres Brotherrn, heimlich
 <@pagebreak/>
 Stelldicheins mit einem Manne, der zweifellos immer verkleidet
 war. Diener haben die beiden belauscht. Aber —
@@ -1176,19 +1177,19 @@ niemand kannte den Europäer … — Und in der Nacht vom
 neunten zum zehnten Oktober hatte sie wieder ein Rendezvous
 in der äußersten Parkecke in einem Pavillon. Von dort habe
 ich ihre Spur durch unseren Polizeihund bis zur Küste verfolgen
-können … Dort muß ein Boot Miß Rani aufgenommen
+können … Dort muß ein Boot Miß Anni aufgenommen
 haben …«
 
 »Vorzüglich! Der Liebhaber hat sie also den Piraten in
-die Hände gespielt!!«
+die Hände gespielt!«
 
-»Ja!! Er war ein Schuf!! — Lächeln Sie nicht!! Er
+»Ja!! Er war ein Schuft! — Lächeln Sie nicht!! Er
 hat sie zur Küste gelockt … Es kann ein Mädchenhändler
 gewesen sein!«
 
 »Auch das noch!! O, Moudray, wie dicht sind Sie diesmal
-zufällig der Wahrheit, und wie unendlich, weit sind Sie
-trotzdem von ihr Koffern!!«
+zufällig der Wahrheit, und wie unendlich weit sind Sie
+trotzdem von ihr entfernt!«
 
 »Wollte ich sie vor Ihnen ausbreiten wie einen schrecklich
 bunten, blutigen Teppich, so würden Sie mich auslachen. —
@@ -1201,83 +1202,84 @@ Dieses Blättchen lag sauber zwischen Zwei Glasplatten.
 Man konnte die Worte der eingeritten Inschrift, die der Inspektor
 schon entziffert hatte, ohne große Mühe erkennen.
 Die fehlenden und völlig verwischten Worte, die erst Miß
-Mary jetzt ergänzt hatte, =,
+Mary jetzt ergänzt hatte, also:
 
-zusenden;400 5155 »Bad 5 vor 15.7, Nee
+> … mit … in … Buch … von … ai …
+
 ergänzt zu:
-Eine Piratenprau liegt mitten in einer Bucht, die von
+
+> Eine Piratenprau liegt mitten in einer Bucht, die von
 grünen Hainen umgeben ist.
 
 Harst schaute so lange auf das Puderblättchen, daß
 Moudray ungeduldig wurde. »Was gibt’s denn da zu
-sehen 2?!« meinte er ironisch. »Wollen Sie etwa einen anderen
-Tor! herausklügeln?!«
+sehen?!« meinte er ironisch. »Wollen Sie etwa einen anderen
+Text herausklügeln?!«
 
 <@pagebreak/>
 »Lieber Inspektor, das habe ich schon getan. Wenn Sie
 vielleicht mal den Abstand der Worte beziehungsweise Wortteile
-»von« und »ah« daraufhin prüfen wollen, ob zwischen
-»von« und »ah« sich hier auf dem Blättchen »grünen H«
+»von« und »ai« daraufhin prüfen wollen, ob zwischen
+»von« und »ai« sich hier auf dem Blättchen »grünen H«
 einschieben ließen, so werden Sie zugeben müssen, das dies
-unmöglich ist, da der Zwischenraum zu klein ist … Ein
+unmöglich ist, da der Zwischenraum zu klein ist … Ein H
 hätte da Platz — nichts weiter! Und wenn Sie ferner dasselbe
 mit dem Schlußwort des Anfangssatzes »Wir leben und
-werden gefangen gehalten«, wobei tote; von »gehalten« nur
-»bald« leserlich vorhanden ist, — also dasselbe mit diesem
+werden gefangen gehalten«, wobei doch von »gehalten« nur
+»halt« leserlich vorhanden ist, — also dasselbe mit diesem
 »halt« und dem folgenden »mit« tun wollen, so erkennen Sie
 fraglos, daß sich zwischen »halt« und »mit« niemals einschieben
 läßt »en. Eine Piratenprau liegt …« — Nein,
 dazu ist der Zwischenraum erst recht zu kurz …«
 
-»Donnerwetter …! Sie haben recht!!«
+»Donnerwetter …! Sie haben recht!«
 
-»Na also!, Und Sie werden darüber schweigen, mein
+»Na also! Und Sie werden darüber schweigen, mein
 Lieber, denn Sie sehen nun wohl ein, daß Miß Mary diese
-Mitteilung der Flaschenpost jetzt absichtlich entstellt hat. Ursprünglich
-lauteten die Sätze, der Mittelsatz besser, eben ganz
+Mitteilung der Flaschenpost jetzt absichtlich entstellt hat.
+Ursprünglich lauteten die Sätze, der Mittelsatz besser, eben ganz
 anders.«
 
 »Hm — aber welchen Zweck sollte wohl Miß Mary damit
-verfolgt haben, nun die fehlenden Worte falsch zu ergänzen 2«
+verfolgt haben, nun die fehlenden Worte falsch zu ergänzen?«
 
 Harst schaute den Scharlatan sehr ernst an …
 
 »Die Gründe hierzu, mein lieber Inspektor, sind mir
 bereits vollkommen klar … Gedulden Sie sich noch ein paar
-Tage, und Sie werden sehen, daß hier eine Tragödie vors
-liegt, die nicht ihresgleichen hat. Immerhin will ich Ihnen«
+Tage, und Sie werden sehen, daß hier eine Tragödie vorliegt,
+die nicht ihresgleichen hat. Immerhin will ich Ihnen«
 — und Harald schrieb schnell ein paar Zeilen auf ein Stück
 Papier — »dies hier, ein kleines Rätsel, bis zu unserer Rückkehr
-warnt ans Herz legen … Auch Schraut mag es lesen,
+warm ans Herz legen … Auch Schraut mag es lesen,
 denn er tappt noch genau so im Dunkeln wie Sie, was seine
 Schuld ist, denn er hält das Nebensächliche stets für die
 Hauptsache, und soupiert in Gedanken mit Perlmuschelbänken,
-malatäischen Piraten und ähnlichen ausgefallenem Kram. —
+malaiischen Piraten und ähnlichem ausgefallenem Kram. —
 Bitte, — wer das Rätsel löst, dem sage ich auf der Stelle,
 <@pagebreak/>
-was es mit Miß Marys recht geleiten Fensaungversug
-auf sich hat … Fest nur … t«
-Mein Rätselwort, es hat zwölf Zeichen,
+was es mit Miß Marys recht geschicktem Täuschungsversuch
+auf sich hat … Lest nur …!«
+
+<p class="indent pre">Mein Rätselwort, es hat zwölf Zeichen,
 Man kennt wohl kaum noch seinesgleichen.
-In »1, 2, 3- nen« an der Bucht
+In »1, 2, 3-nen« an der Bucht
 Vielleicht man jetzt denjenigen sucht,
 Der unser Rätselwort besitzt, benutzt
-Und zu Verbrechenszweck hat zuschritt.
-Da 1, 2, 3 und 8, 5, 6, 7, 8 im Meere schwimmt,
+Und zu Verbrechenszweck hat zugestutzt.
+Da 1, 2, 3 und 4, 5, 6, 7, 8 im Meere schwimmt,
 Den 10, 11, 12 man dann zur Hilfe nimmt,
 Wenn man wie zu 1, 2, 3, im Wasser sich bewegt,
-Und auch auf einer 9, 10, 11, 12 Wunder 10, 11,
-
-12 sich regt
+Und auch auf einer 9, 10, 11, 12 manch 10, 11, 12 sich regt</p>
 
 Moudray las, las wieder …
 
 »Den Teufel, — das sollte man doch herauskriegen!«
-Lief Er 55
+rief Er …
 
-»Anrüchig — bei einiger Intelligenz, zumal Sie sich doch
+»Natürlich — bei einiger Intelligenz, zumal Sie sich doch
 sagen müssen, daß das Rätselwort aufs innigste mit unserem
-Thema zusammenhängt … Und das Thema war das Dja!!
+Thema zusammenhängt … Und das Thema war das Blatt
 Puderpapier …«
 
 Moudray stöhnte vor geistiger Anstrengung
@@ -1288,80 +1290,78 @@ Da kam mir urplötzlich die Erleuchtung …
 
 »Ich hab’s!«
 
-»Dann halte es gut sei!!« sagte Harald und zwinkerte
+»Dann halte es gut fest!« sagte Harald und zwinkerte
 mir zu. »Sonst läuft es dir weg und zu Freund Moudray
 hinüber!«
 
-— der schaute uns beide bitterböse an …
+O — der schaute uns beide bitterböse an …
 
 »Sie wollen mich veralbern!! Das ist überhaupt kein
 Rätsel! Das ist Unsinn!«
 
 Da legte Harald ihm die Hand auf die Schulter …
 
-»Moudray, mein Wort: es ist ein Rätsel! Und es ist!
-das größte und dunkelste Rätsel, das mir je begegnet setz’
+»Moudray, mein Wort: es ist ein Rätsel! Und es ist
+das größte und dunkelste Rätsel, das mir je begegnet ist!
 Behalten Sie das Blatt Papier hier … Wir wohnen im
 Strandhotel … Auf Wiedersehen …«
 
-<@pagebreak/>
-Tai Wan, ein Obiges? …
+<@pagebreak 30/>
+
+<h1>Tai Wan, ein Chinese …</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Ein der Strich durch Harsts Rechnung.</h3>
+<h3>Ein dicker Strich durch Harsts Rechnung.</h3>
 
 Wir hatten unsere Masken als harmlose Schweizer Gelehrte
-auch4 hier in Colombo beibehalten, und als wir nun
+auch hier in Colombo beibehalten, und als wir nun
 durch die sauberen Straßen in dem Menschengewimmel einer
 zwar heißen, aber durch den feuchten Seewind immerhin erträglich
 gemachten Mittagsstunde dahinschlenderten, wurden
 wir genau so wenig beachtet wie all die anderen Touristen,
-die bei einer Ostasienreise gerade Colombo &(l8 das Eingangstor
+die bei einer Ostasienreise gerade Colombo als das Eingangstor
 Ceylons niemals übergehen.
 
-Nach den ersten Schritten schon hatte im Haralds leise
+Nach den ersten Schritten schon hatte ich Harald leise
 das Rätselwort zugeraunt:
 
-»Daifischsarm …! Es stimmt doch?!«
+»Haifischfarm …! Es stimmt doch?!«
 
 »Es stimmt,« nickte er …
 
 »Und dein Vers: »Vielleicht man jetzt denjenigen sucht,
 der unser Rätselwort besitzt, benutzt, und zu Verbrechenszweck
-hat eingeklinkt …? — Das kann sich doch nur auf Sven
+hat zugestutzt …? — Das kann sich doch nur auf Sven
 Hindersen beziehen?«
 
 »Natürlich. Hindersen hat ja die famose Farm angelegt.«
 
-Ich dachte mag … Verbrechenszweck?! Und soeben bei
+Ich dachte nach … Verbrechenszweck?! Und soeben bei
 Moudray hatte Harst mir ironisch vorgehalten, daß ich mit
 Perlmuschelbänken und so weiter in Gedanken jongliere?!
 Also gab es in jener Bucht gar keine zu bewachenden Perlengründe,
-und die Haifische wurden dort als Wächter in ans
-derer Absicht gehalten …!
+und die Haifische wurden dort als Wächter in anderer
+Absicht gehalten …!
 
 Harst hatte mit einem Male vor einem modernen Geschäftshause
-halt gemacht. In seiner großen Schaufenstern
-
-sagen Edelsteine, Schmucksachen, Verleiteten, einzelne Perlen
+halt gemacht. In zwei großen Schaufenstern
+lagen Edelsteine, Schmucksachen, Perlenketten, einzelne Perlen
 <@pagebreak/>
-DSSSSSSSSSSS 321 DSSSSSSSSSSS
+und wundervolle Goldfiligranarbeiten in geschmackvollster
+Anordnung zur Schau aus.
 
-und wundervolle Goldfiligranarbeiten in geschma&vollster Anordnung
-zur Schau aus.
-
-»Hier wohnt Tai Wan, der reiche Chinese,« jagte er …
+»Hier wohnt Tai Wan, der reiche Chinese,« sagte er …
 »Tai Wan ist nun über jeden Verdacht erhaben, was die
 Entführung der Töchter Ballamoors betrifft … Ich hatte
-Miß in Bombay durch die chinesischen Spione zu einem
+mich in Bombay durch die chinesischen Spione zu einem
 Trugschluß verleiten lassen … Aber schon das Abenteuer
 mit dem großen Kutter, der uns verfolgte, umschwärmte und
 nachher von dem einzelnen Manne durch die Radikalkur beseitigt
 wurde, schließlich dann unser Erlebnis in der Haifischbucht
-brachte mich auf die richtige Spur … — Komm.
+brachte mich auf die richtige Spur … — Komm,
 besuchen wir Herrn Tai Wan …«
 
-Und er betrat den eleganten Laden, fragte nach; dem Chef
+Und er betrat den eleganten Laden, fragte nach dem Chef
 … Man führte uns in ein Privatkontor, das vielleicht noch
 würdiger und vornehmer eingerichtet war als das Sir Ballamoors
 …
@@ -1393,14 +1393,14 @@ Ich glaubte mich verhört zu haben …
 mir von diesem Menschen so ungefähr ein Bild entwerfen.«
 
 <@pagebreak/>
-Wein Blick war zu Tai Wan hinübergeflogen … Und
-113 Harst jetzt soeben abermals den Namen des Neffen Sir
+Mein Blick war zu Tai Wan hinübergeflogen … Und
+als Harst jetzt soeben abermals den Namen des Neffen Sir
 Ballamoors ausgesprochen hatte, da war auf des Chinesen kluges
-—vornehm-beherrschtes Gesicht für einen Moment der Augen
+— vornehm-beherrschtes Gesicht für einen Moment der Ausdruck
 eines unbezeichenbaren Hasses hinweggeglitten — eine
 so jähe Verzerrung der Züge, daß dieses kaum als asiatisch
 zu bezeichnendes Gesicht dem einer wilden, mordlustigen Bestie
-Ihm … Nur für einen Moment.
+glich … Nur für einen Moment.
 
 Harst, dem nichts entging, nickte Tai Wan zu …
 
@@ -1409,15 +1409,15 @@ Miß Mary … Er wird Sie vor Ballamoors verächtlich gemacht
 haben, er als blonder Nachkomme einstiger Wikinger,
 einstiger Normänner … Sie hassen ihn — streiten Sie es
 nicht ab. Sie waren es, der den ersten Verdacht gegen diesen
-Menschen geschöpft hatte, der ihm nachspionierte, der schließliHM
+Menschen geschöpft hatte, der ihm nachspionierte, der schließlich
 herausbrachte, daß dieses Untier von rücksichtslosen Banditen
-die Mädchen auf dem Angeblichen in der Haifischbucht
-durch Chinesen bewachen ließ … Sie befreiten die Müden,
+die Mädchen auf dem Inselchen in der Haifischbucht
+durch Chinesen bewachen ließ … Sie befreiten die Mädchen,
 während wir bewußtlos dalagen, Sie ließen Ihre Jacht die
 Befreiten hier in der Nähe an Land setzen, Sie klärten Ballamoor
 über den wahren Zusammenhang auf, Sie veranlaßten,
 daß Mary das Puderblättchen anders deutete, damit das
-Märchen von den malaiischen Piraten wahrscheinlicher Klänge,
+Märchen von den malaiischen Piraten wahrscheinlicher klänge,
 Sie schließlich haben dann Hindersens Segeljacht gekapert,
 geplündert und den Elenden im Einverständnis mit den
 Ballamoors verschwinden lassen … Ihre Erfindung ist der
@@ -1426,12 +1426,12 @@ wir beide gerade dort waren — ein merkwürdiger Zufall!!
 Hindersen soll nie wieder auftauchen, so haben Sie’s mit den
 Ballamoors vereinbart, damit Sir Ballamoor die Schande
 erspart würde, daß sein Neffe sein … Universalerbe werden
-wollte, daß derselbe Neffe Miß Rani Goddwell … ermordet
+wollte, daß derselbe Neffe Miß Anni Goddwell … ermordet
 hat, seine … Geliebte! — daß er schließlich noch mehr Untaten
 auf dem Gewissen hat: die Vernichtung der Mangrovia,
 die Beseitigung deren Besatzung und die Explosion auf dem
 <@pagebreak/>
-großen Motorkutter, der mit Wann und Maus unterging
+großen Motorkutter, der mit Mann und Maus unterging
 — mit Ausnahme Hindersens, den wir im Rennboot flüchten
 sahen! Und daß Sie uns beide auf dem Inselchen niederschlugen:
 auch das geschah in Sir Ballamoors Interesse, denn
@@ -1439,7 +1439,8 @@ wir sollten ebenfalls getäuscht werden, damit nichts — nichts
 von alledem an die Öffentlichkeit käme! — Kleinigkeiten verrieten
 mir den Zusammenhang … Gewißheit gab mir das
 Puderblättchen, das ganz anders zu ergänzen ist, nämlich:
-… Gefangen gehalten mitten in einer Bucht von Haifischen.
+
+> … gefangen gehalten mitten in einer Bucht von Haifischen.
 
 Wollen Sie noch abstreiten, Tai Wan? Hat es einen
 Zweck dies zu tun — mir gegenüber?! — Reden Sie!!«
@@ -1454,8 +1455,8 @@ tun Sven Hindersen bitter unrecht. Ich liebe den Mann
 wahrhaftig nicht. Aber er hat seine Hand bei alledem nur
 insoweit im Spiel gehabt, als er sich die redlichste Mühe gab,
 seine Braut und deren Schwestern wieder aufzufinden …«
-Seine Sätze wurden flüssiger, und er ging nun in den lies
-denswürdig-leihten Plauderton eines völlig Unbeteiligten
+Seine Sätze wurden flüssiger, und er ging nun in den
+liebenswürdig-leichten Plauderton eines völlig Unbeteiligten
 über. »Ich hätte keinen Grund, Herr Harst, Sven Hindersen
 irgendwie zu schonen, zumal doch, wenn Sie ihn nun aus
 Ihrer Rechnung streichen müssen, vielleicht wieder dieser unsinnige
@@ -1464,7 +1465,7 @@ haben, an mir hängen bleibt, da Sie doch offenbar an die
 malaiischen Piraten nicht glauben …«
 
 »Sehr anständig von Ihnen, Herr Tai Wan,« warf Harald
-ebenso Bottichs wie ironisch ein.
+ebenso höflich wie ironisch ein.
 
 Der Chinese nahm von dieser Zwischenbemerkung keinerlei
 Notiz.
@@ -1472,7 +1473,7 @@ Notiz.
 <@pagebreak/>
 »Ich bin sogar in der Lage,« fügte er genau so zwanglos
 hinzu, »Herrn Hindersen insofern entlasten zu können, als
-im mit ihm in jener Nacht, in der er angeblich einen Motorkutter
+ich mit ihm in jener Nacht, in der er angeblich einen Motorkutter
 in die Luft gesprengt und in der ich Sie beide nachher
 auf Gallayo niedergeschlagen haben soll, auf offener See
 zusammentraf, und zwar gegen Mitternacht etwa hundert
@@ -1485,70 +1486,70 @@ Argwohn zu zerstreuen. Wir suchten nach den Geraubten.
 Wenn Sie die Besatzung meiner Jacht polizeilich vernehmen
 lassen wollen, so wird man Ihnen diese meine Angaben bestätigen
 und Ihnen zugleich auch den Beweis erbringen, daß
-im in jener Nacht nicht auf Gallayo war, wo ich freilich
-insofern Heimatrecht habe, als ich Hauptaktionär der Plantagengesellschaft
-bin, der die Osthälfte der Insel gehört. Noch
+ich in jener Nacht nicht auf Gallayo war, wo ich freilich
+insofern Heimatrecht habe, als ich Hauptaktionär der
+Plantagengesellschaft bin, der die Osthälfte der Insel gehört. Noch
 unsinniger, Herr Harst, — verzeihen Sie den schroffen Ausdruck
-— ist Ihre Annahme, Hindersen könnte Miß Rani
+— ist Ihre Annahme, Hindersen könnte Miß Anni
 Goddwell ermordet und den einen Fuß der Toten in so
 scheußlichen Weise benutzt haben, um es glaubhafter zu
 machen, daß auch die drei jungen Mädchen im Meere umgekommen
 seien. Was schließlich Ihren Verdacht angeht, Miß
 Mary könnte jetzt den Inhalt der Flaschenpost, also die ursprüngliche
-Fassung der Inschrift absichtliHmg entstellt wiedergegeben
+Fassung der Inschrift absichtlich entstellt wiedergegeben
 haben, so kann ich mich hierzu natürlich nicht äußern,
 halte dies aber jedenfalls für durchaus unmöglich, denn —
-— die Piratenprau existiert, Herr Harst!! Ich bin ihr auch
+— die Piratenprau existiert, Herr Harst! Ich bin ihr auch
 bereits auf der Spur, denn meine weit reichenden Beziehungen
 zu den Perlentauchern der Inselgruppen der Palkstraße
-zurecht;en der Südspitze Vorderindiens und der Nordküste
-Ceylons — ich breite selbst vierzig Perlenkutter — versorgen
+zwischen der Südspitze Vorderindiens und der Nordküste
+Ceylons — ich besitze selbst vierzig Perlenkutter — versorgen
 mich mit weit rascheren und zuverlässigeren Nachrichten, als
-dies die Marinebehörden oder die Polizei zu erzielen Vermögen.
+dies die Marinebehörden oder die Polizei zu erzielen vermögen.
 <@pagebreak/>
-Heute früh bekam ihm von meiner Faktorei auf der
+Heute früh bekam ich von meiner Faktorei auf der
 Panara-Insel die drahtlose Meldung, daß beim Morgengrauen
-eine Prau ohne Positionslaternen ein Inselchen Ausweis
+eine Prau ohne Positionslaternen ein Inselchen unweit
 von Panara angesteuert habe und dort offenbar in einer
 der schmalen Buchten vor Anker gegangen sei. Ich beabsichtige,
 in einer Stunde mit meinem »Seestern« den hiesigen
-Hafen zu verlassen und jene Frau abzufangen. Falls Sie
+Hafen zu verlassen und jene Prau abzufangen. Falls Sie
 beide mich begleiten wollen, sind Sie mir als Gäste sehr
-willkommen. Ich muß Sie nur bitten, das, was ich Stirn
-soeben anvertraute, diskret zu behandeln, denn ich lege hob)!
-darauf, daß gerade ich es bin, der die Piraten den Beh53575e1n
+willkommen. Ich muß Sie nur bitten, das, was ich Ihnen
+soeben anvertraute, diskret zu behandeln, denn ich lege Wert
+darauf, daß gerade ich es bin, der die Piraten den Behörden
 übergibt. Sie werden das verstehen, meine Herren …«
-Ich. schaute Harald prüfend an. Auf mich hatten diese
-letzten Sätze des chinesischen Gentlemans starken Eindruck ge
-Heimat. Und ich merkte nun, daß auch Harst von Zweifeln
+
+Ich schaute Harald prüfend an. Auf mich hatten diese
+letzten Sätze des chinesischen Gentlemans starken Eindruck gemacht.
+Und ich merkte nun, daß auch Harst von Zweifeln
 geplagt wurde, ob seine Kombinationen wirklich stimmten oder
-
-ob er sich … vollständig verhauen hatte. Es war ja Dock
+ob er sich … vollständig verhauen hatte. Es war ja doch
 ausgeschlossen, daß Tai Wan zum Beispiel die ganze Besatzung
-seiner Jacht eingeweiht und auf … Meineide vor
-
-bereitet haben könnte, was die Vorgänge in jener Nacht betraf.
+seiner Jacht eingeweiht und auf … Meineide vorbereitet
+haben könnte, was die Vorgänge in jener Nacht betraf.
 Ebensowenig konnte der Chinese sich die Geschichte von
 der Prau, die ohne Lichter in einer Bucht Unterschlupf gesucht
 hatte, glatt aus den Fingern gesogen haben.
 
 Harsts Stirn lag in dicken Falten. Seine Blicke tasteten
-mißtrauisch; Tai Wans Gesicht ab. Aber der hielt diesen
-Blick voller Ruhe stand und zog dann seine goldene Uhr, lief
+mißtrauisch Tai Wans Gesicht ab. Aber der hielt diesen
+Blick voller Ruhe stand und zog dann seine goldene Uhr, ließ
 den Deckel springen und meinte: »Wenn die Herren also
 rechtzeitig an Bord sein wollen, dann …«
 
-Harst nickte energisch. »Gut, mag sein, daß im mich
-
+Harst nickte energisch. »Gut, mag sein, daß ich mich
 geirrt habe … — Wir nehmen Ihre liebenswürdige Einladung
 an, Herr Tai Wan … Auf Wiedersehen auf dem
-»Seestern« « —
+»Seestern«.« —
 
-Wir fuhren naß unserem Hotel. Hm Auto fragte ich:
+Wir fuhren nach unserem Hotel. Im Auto fragte ich:
+
 »Glaubst du an die Prau, Harald?«
-»Sehen geht vor Sagen, mein Alter … Wenn Tai Vorlügt,
+
+»Sehen geht vor Sagen, mein Alter … Wenn Tai Wan
 <@pagebreak/>
-lügt er als Asiate … Die Chinesen sind die geschicktesten
+lügt, lügt er als Asiate … Die Chinesen sind die geschicktesten
 Lügner der Welt. Wir werden die Augen offenhalten …«
 
 <h2>2. Kapitel.</h2>
@@ -1556,7 +1557,7 @@ Lügner der Welt. Wir werden die Augen offenhalten …«
 
 Der »Seestern« war das schnellste und eleganteste Luftfahrzeug
 der indischen Gewässer, erst vor einem Jahre auf
-den Elbwerften in Hamburg fertiggestellt und geradezuein
+den Elbwerften in Hamburg fertiggestellt und geradezu ein
 Reklamestück deutscher Schiffsbaukunst.
 
 Es war anderthalb Tage nach unserer Abreise von Colombo.
@@ -1566,9 +1567,8 @@ eines drohenden Sturmes untergetaucht.
 Acht Uhr abends … Wir lagen unter dem Sonnensegel
 auf dem Achterdeck in bequemen Bordstühlen und lauschten
 den Klängen des Konzerts der Sendestation Colombo. Der
-
-»Fünfröhrenempfänger und der tadellose Lautsprecher ließen
-Jung jede Freiheit der wunderbaren, reichen Melodien von
+Fünfröhrenempfänger und der tadellose Lautsprecher ließen
+uns jede Freiheit der wunderbaren, reichen Melodien von
 Puccinis Toska voll genießen.
 
 Tai Wan arbeitete wieder in seiner Kajüte. In diesem
@@ -1593,14 +1593,14 @@ uns als Deutsche von ihm vorgestellt wurden.
 Diese vier Herren, die sämtlich frühere Angehörige der
 Kaiserlich Deutschen Marine gewesen, richteten sich in ihrem
 Verhalten uns gegenüber genau nach ihrem Chef: liebenswürdig,
-aber doch ein wenig zugeknöpf!! — Der Kapitän,
+aber doch ein wenig zugeknöpft! — Der Kapitän,
 Korvettenkapitän a. D. Freiherr v. L., wurde eigentlich nur
 warm, wenn die Rede auf seinen Halbblut-Brotherrn kam.
-Hm übrigen hielt Herr v. L. nicht gar allzu große Stücke auf
+Im übrigen hielt Herr v. L. nicht gar allzu große Stücke auf
 Leute, die wie wir so mehr internationale Abenteurer waren.
 Auch das verhehlte er durchaus nicht. Harst hütete sich, ihn
-oder sonst jemand von der Besatzung naß den Vorgängen
-jener fragwürdigen GallayoNachht zu fragen. Das wäre
+oder sonst jemand von der Besatzung nach den Vorgängen
+jener fragwürdigen Gallayo-Nacht zu fragen. Das wäre
 ein Verstoß gegen die Gastfreundschaft gewesen, die wir hier
 genossen. Die eigentliche Besatzung bestand aus Tamilen,
 jenen Nachkommen nach Ceylon eingewanderter Inder, die
@@ -1611,40 +1611,40 @@ Brücke auf uns zu, das Fernrohr unter den linken Arm geklemmt.
 
 »Insel Nummer drei in Sicht meine Herren,« sagt er
 und deutet nordwestwärts. »Das ist die Insel, wo die Prau
-noch immer sich Fenster hält. Nun haben wir sie sicher,
+noch immer sich versteckt hält. Nun haben wir sie sicher,
 die Banditen … Bevor das Unwetter dort heraufzieht, haben
 wir die Dunkelheit und schicken Boote durch den inneren
-Astkranz.« Sein mageres, braunes, faltiges Gesicht erscheint
+Riffkranz.« Sein mageres, braunes, faltiges Gesicht erscheint
 belebter als sonst. Er freut sich auf den Angriff.
 
-Harst erhebt sich aus seinem Bordstuhl und fest sich und
-erregt sich. »Die Jacht fährt nur noch mit halber Kraft,«
-meint er … Sein Blick wandert naß Nordwest … Die
+Harst erhebt sich aus seinem Bordstuhl und reckt sich und
+streckt sich. »Die Jacht fährt nur noch mit halber Kraft,«
+meint er … Sein Blick wandert nach Nordwest … Die
 Wolkenbank schiebt sich rasch höher und höher.
 
-Halb zehn.«… Das Unwetter fort vor den älterer schien.
-Die Jacht liegt ja seinem Wasser hinter einer Waldzunge.
-Wir drei mit der Jolle biegen als erste in die schmal, von
+Halb zehn … Das Unwetter tobt vor den äußeren Riffen.
+Die Jacht liegt in stillem Wasser hinter einer Landzunge.
+Wir drei mit der Jolle biegen als erste in die schmale, von
 <@pagebreak/>
-hohen Klippen eingeengte Bucht ein. Hinter uns her schreiben
+hohen Klippen eingeengte Bucht ein. Hinter uns her schleichen
 die Motorkutter, werden genau so leise gerudert, wie
-Harst das »in der Jolle tut. Es ist so finster, daß wir immer
-ernst das Aufleuchten eines Blitzes abwarten, bevor wir uns
-wieder weiter vorwärtsgetrauen…
+Harst das in der Jolle tut. Es ist so finster, daß wir immer
+erst das Aufleuchten eines Blitzes abwarten, bevor wir uns
+wieder weiter vorwärtsgetrauen.
 
-Dann ein treffendes Wasserbecken … Mitten darin ein
+Dann ein kreisrundes Wasserbecken … Mitten darin ein
 dunkler Fleck: die Prau!
 
 Kein Licht an Bord des scheinbar so plumpen Fahrzeugs.
 
 Und jetzt springen auf den Motorkuttern die Schrauben
-an, flammen gleißende Strahlenkegel gegen die rissigen, schinmierigen
+an, flammen gleißende Strahlenkegel gegen die rissigen, schmierigen
 Planken der Prau — zwei Scheinwerfer.
 
 Taghell die Prau, ein Teil des Gestades …
 
 Taghell das Boot, das sich hinter der Prau hervorgeschlichen
-hat, gefüllt mit wilden, braunen Ostturm …
+hat, gefüllt mit wilden, braunen Gestalten …
 
 Emsig rudern die da drüben …
 
@@ -1659,11 +1659,11 @@ eines Europäers wagerecht in Relinghöhe fest …
 »Rettet mich!« kommt die Antwort …
 
 Das Boot legt an … Wie Spukgestalten verschwinden
-ein gutes Dutzend Malaien mit ihrem Gefangenen gewichen
+ein gutes Dutzend Malaien mit ihrem Gefangenen zwischen
 den Klippen … Verfolgung zu Lande …
 
-— unsere Tamilen, Tai Wan, wir, der Erste Sie:10r-
-Mann sind nichts gegen das ungestüme Draufgängertum des
+O — unsere Tamilen, Tai Wan, wir, der Erste Steuermann
+sind nichts gegen das ungestüme Draufgängertum des
 Herrn v. L., der trotz der Kugelsaat die Uferhöhe erklimmt, der
 uns zu den unglaublichsten Anstrengungen herausfordert.
 
@@ -1674,7 +1674,7 @@ Wir kommen gar nicht zum Schuß …
 Das Feuer schweigt …
 
 Der Regen, die Finsternis machen jede weitere Verfolgung
-unmöglich. Wir rechnen bestimmt damit, d.:3 die
+unmöglich. Wir rechnen bestimmt damit, daß die
 Malaien kein anderes Boot mehr zur Verfügung haben. Sie
 <@pagebreak/>
 können Nummer 3 nicht verlassen, und morgens haben wir
@@ -1685,8 +1685,8 @@ Tropennacht erlaubt uns, sofort den Piraten nachzuspüren.
 Nummer 3 ist nur klein, kaum eine halbe Meile lang und
 etwas schmäler.
 
-Harst und im waren schon nach einer Viertelstunde von
-dem Streifkorps abgekommen und krochen auf eigene Raus!
+Harst und ich waren schon nach einer Viertelstunde von
+dem Streifkorps abgekommen und krochen auf eigene Faust
 durch die Felsen weiter — ohne Weg und Ziel, nur dem
 Zufall es überlassend, ob wir vielleicht das Glück hätten, die
 Flüchtlinge mit ihrem Gefangenen irgendwo aufzustöbern.
@@ -1695,14 +1695,14 @@ Mit einem Male hatten wir dann das seeartige Ende
 der Bucht wieder vor uns. Harst blieb stehen und meinte:
 »So, nun wollen wir unsere Knochen schonen, mein Alter …
 Setzen wir uns. Dieser Stein ist leidlich bequem …« —
-Und er nahm die Müßte ab, fächelte sich Kühlung zu und 399
+Und er nahm die Mütze ab, fächelte sich Kühlung zu und zog
 dann sein Zigarettenetui. »Bitte, bediene hin … Etwas
-sehr schwül, diese Nacht … Ich fürchte, auch Tai Wan ist!
+sehr schwül, diese Nacht … Ich fürchte, auch Tai Wan ist
 nicht ganz behaglich zumute …«
 
-Ich) rauchte zwei Züge. »Weshalb nicht? — Du nimmt!
+Ich rauchte zwei Züge. »Weshalb nicht? — Du nimmst
 wohl an, daß er sich Vorwürfe macht, weil er seine Angriffsbefehle
-so ungeschickt erteilt hat … Hätte er dich gefragt.
+so ungeschickt erteilt hat … Hätte er dich gefragt,
 würdest du wohl ein wenig anders disponiert haben …«
 
 Harald lachte leise. »Er hätte sich gehütet, mich zu
@@ -1718,18 +1718,18 @@ Sein Blick begegnete dem meinen …
 »Wie, du denkst, daß … daß Tai Wan … die Piraten
 entkommen lassen wollte?«
 
-Kg 21000
+»Ja …«
 
 »Er wollte also Hindersen gar nicht retten …? — — Ja
-du hast recht … Himmel, war ich blind!! Natürlich, j2iz!
-kann or mit Zug und Recht behaupten, daß er seinerseits all;
+du hast recht … Himmel, war ich blind!! Natürlich, jetzt
+kann er mit Fug und Recht behaupten, daß er seinerseits alles
 <@pagebreak/>
 getan hat, seinen Nebenbuhler den Malaien abzujagen …
-Setzt steht er groß da … O — — das ist eine erbärmliche Komödie!!
-Willst du das etwa ruhig hinnehmen?! Wenn
-Hindersen, was Docht nun erwiesen, in der Tat von dir, von
-ne fälschlicherweise verdächtigt wurde, so ist es unsere heilige
-Pflicht …
+Jetzt steht er groß da … O — — das ist eine erbärmliche
+Komödie!! Willst du das etwa ruhig hinnehmen?! Wenn
+Hindersen, was doch nun erwiesen, in der Tat von dir, von
+uns fälschlicherweise verdächtigt wurde, so ist es unsere heilige
+Pflicht …«
 
 »Bitte, keine hochtönenden Redensarten, Max Schraut!
 Was unsere Pflicht ist, werden wir tun — nicht einen Deut
@@ -1739,7 +1739,7 @@ Ich wußte, jede weitere Frage wäre zwecklos gewesen
 — vollkommen …!
 
 So starrte denn auch ich still auf die unter uns liegende
-Bucht hinab … Dort die Prau … Dort am He die beiden —
+Bucht hinab … Dort die Prau … Dort am Heck die beiden
 Kutter, in jedem drei Mann als Wache …
 
 Die beiden Kutter … — Und die Jolle?!
@@ -1761,64 +1761,64 @@ Das plumpe Boot lag ja noch dort am Buchtufer
 
 »Glaubst du, daß die Jolle …«
 
-»So höre doch endlich auf dann!!« Er warf den Rest
+»So höre doch endlich auf damit!« Er warf den Rest
 seiner Zigarette in eine Regenpfütze. »Diese ganze Komödie
 ist doch derartig durchsichtig, daß sie fast komisch wirkt …
 Wollen mal dort die Kuppe erklettern. Es dürfte der höchste
-Punkt der Insel sein. Wenn Tai Wan dort oben einen.
+Punkt der Insel sein. Wenn Tai Wan dort oben einen
 Mann mit einem Fernrohr aufgestellt hätte, dann würde er
-dieses Theater vielleicht Stübchen durchgeführt haben …
-Freilich hätte e? den Spione: einweihen müssen …«
+dieses Theater vielleicht glücklicher durchgeführt haben …
+Freilich hätte er den Mann einweihen müssen …«
 
-»Hm, diese Säße sind mir etwas Unverständliches …«
+»Hm, diese Sätze sind mir etwas Unverständliches …«
 
-Ob Harald dies nachts gehört hatte, weiß ich nicht. Er
+Ob Harald dies noch gehört hatte, weiß ich nicht. Er
 <@pagebreak/>
 hatte es mit einem Male überaus eilig, die Kuppe zu erklimmen.
 Schweißtriefend langte ich kurz nach ihm oben an.
-Er zog gerade aus der Innentasche seines dünnen Gummismantel8
+Er zog gerade aus der Innentasche seines dünnen Gummimantels
 das wertvolle Fernrohr des Kapitäns v. L. hervor,
 sagte, ohne mich weiter zu beachten: »Ich habe es mir geliehen.
 Aber es ist nicht unbedingt nötig, daß er davon erfährt.«
 Er stellte das Fernrohr auf den monddämmerigen
-Horizont ein, nachdem er voll schnell durch einen Blick in
+Horizont ein, nachdem er noch schnell durch einen Blick in
 die Runde geprüft hatte, ob wir auch nicht beobachtet werden
-könnten. Die auch hier umherliegenden Blöcke deren. uns.
+könnten. Die auch hier umherliegenden Blöcke deckten uns.
 
 Daß er jetzt nach dem Boote suchte, mit dem die Malaien
 samt ihrem Gefangenen die Insel 3 wieder verlassen hatten,
 konnte mir nicht weiter zweifelhaft sein.
 
-… Er schien das Boot denn auch mit dem Fernrohr weit
+Er schien das Boot denn auch mit dem Fernrohr weit
 draußen auf See nach Westen hin entdeckt zu haben. — Sein
-Verhaften blieb überaus merkwürdig. Er ließ das Fernrohr
+Verhalten blieb überaus merkwürdig. Er ließ das Fernrohr
 mindestens fünf Minuten lang nicht von den Augen. Meine
 Bitte, es mir doch einmal zu geben, beachtete er nicht. Ich
 wurde ärgerlich. »Das Boot muß doch zum Teufel längst
-verschwunden sein!« rief ihm …
+verschwunden sein!« rief ich …
 
-Da schob er das Fernrohr zusammen, stete es in die
+Da schob er das Fernrohr zusammen, steckte es in die
 Manteltasche zurück. »Ja, es ist verschwunden, auch die Jacht.«
 
 »Welche Jacht? Der »Seestern« liegt doch dort Zwischen
 den Riffkränzen …«
 
-»Klettern wir zur Bucht hinab … Ich habe Durst …
+»Klettern wir zur Bucht hinab … Ich habe Durst …«
 
-Am Buchtgestade winkte er einen »der Kutter herbei. nie
-brachte uns auf die Prau. Der hatte aus Proviant und
+Am Buchtgestade winkte er einen der Kutter herbei. Der
+brachte uns auf die Prau. Der hatte auch Proviant und
 Trinkbares mit. Und mit einer Flasche Rotwein, zwei
 Büchsen Keks und einer Dose Hummerscheren stiegen wir
 nun, bewaffnet mit einer großen Bordlaterne, in die beiden
 Kammern hinab, in denen Ballamoors Töchter als Gefangene
 geschmachtet hatten.
 
-Harst setzte sich auf einen der schmierigen Klatpstöhte und
+Harst setzte sich auf einen der schmierigen Klappstühle und
 beleuchtete mit der Laterne die Platte des kleinen Tisches,
 auf der er all das ausgebreitet hatte, was so deutliches Zeugnis
 <@pagebreak/>
-davon ablegte, daß die langen Mädchen hier längere
-Zeit gekauft hatten.
+davon ablegte, daß die jungen Mädchen hier längere
+Zeit gehaust hatten.
 
 Dann sah er mich an …
 
@@ -1826,18 +1826,18 @@ Dann sah er mich an …
 
 Ich bemerkte das belustigte Zwinkern seiner Augen …
 
-»Was soll das?! Was ist … sein?!«
+»Was soll das?! Was ist … fein?!«
 
-Ich hatte das, was ich fragen wollte, gering nicht beendet.
+Ich hatte das, was ich fragen wollte, noch nicht beendet.
 
-Draußen plötzlich) ein wüstes Geschieße …
+Draußen plötzlich ein wüstes Geschieße …
 
 Wir hörten die Wachen in den Kuttern brüllen …
 
 Harst war hochgeschnellt …
 
 Aber die Karabinerschüsse verstummten schon wieder. Wir
-eilten an Des … Sahen in den Kuttern die sechs Tamilen
+eilten an Deck … Sahen in den Kuttern die sechs Tamilen
 aufgeregt auf einen bestimmten Punkt der Bucht deuten …
 
 Der eine Matrose rief uns zu:
@@ -1845,26 +1845,26 @@ Der eine Matrose rief uns zu:
 »Einer der Piraten … Er ist versunken … Er wollte
 zur Prau …«
 
-Wir sahen voll mehr …
+Wir sahen noch mehr …
 
-In. dem stillen, klaren Wasser fuhren in der Tiefe matt
-dhosphoreizierende Schatten hin und her …
+In dem stillen, klaren Wasser fuhren in der Tiefe matt
+phosphoreszierende Schatten hin und her …
 
 Haifische …
 
-Der Malaie war ihre Nachtmahlzeit geworden Mais
+Der Malaie war ihre Nachtmahlzeit geworden …
 
 <h2>3. Kapitel.</h2>
 <h3>Die drei Ringe.</h3>
 
 … Morgens sieben Uhr an Deck der Prau, die übrigens
-weder einen Namen führte, vor« im Laderaum irgendvelchhes
+weder einen Namen führte, noch im Laderaum irgendwelches
 Piratengut enthielt.
 
 Die Suche nach den Piraten war natürlich ergebnislos
 geblieben, und Herr v. L. war darüber so ergrimmt, daß er
 vorhin beim Frühstück, das auf Klapptischen hier auf dem
-Der der Prau serviert worden war, fast nichts genossen hatte.
+Deck der Prau serviert worden war, fast nichts genossen hatte.
 
 Jetzt nun große Beratung auf der Prau, was mit dieser
 <@pagebreak/>
@@ -1879,14 +1879,14 @@ Prau mit Hilfe einiger Matrosen des »Seestern« nach Colombo
 zu bringen.
 
 Nie werde ich Tai Wans Blick vergessen, mit dem er
-Harald hierauf eine Weile sprachlos anschaute. Ein Bis,
+Harald hierauf eine Weile sprachlos anschaute. Ein Blick,
 der nichts besagen sollte und doch ein unendliches Mißtrauen
 verriet.
 
 »Eine merkwürdige Idee, Herr Harst, — — entschuldigen
 Sie schon …« meinte er dann mit leichtem Kopfschütteln.
 »Nur der Wunsch eines Menschen, der das Absonderliche
-liebt,« erklärte Harald, ganz harmlog—lieben8Swürdig lächelnd.
+liebt,« erklärte Harald, ganz harmlos-liebenswürdig lächelnd.
 Ich war nicht minder überrascht als der reiche Perlenhändler.
 Mit einer dreckigen Prau bis Colombo segeln, das
 war wirklich kein Vergnügen! Das hieß denn doch, die Sucht
@@ -1902,8 +1902,8 @@ und Tai Wan und Herr v. L. mit den Matrosen von der
 ergebnislosen Streife durch die Insel 3 zurückkehrten. —
 
 Tai Wan verneigte sich leicht. »Wie Sie wollen, Herr
-Harst … Sechs Wann genügen zur Bedienung der Prau. —
-Leben Sie wohl, meine Herren … Ich echte Ihnen Ihre
+Harst … Sechs Mann genügen zur Bedienung der Prau. —
+Leben Sie wohl, meine Herren … Ich schicke Ihnen Ihre
 Koffer und Proviant und Trinkwasser sofort mit einem der
 Kutter herüber.« — Er sagte das merklich kühl, und auch der
 <@pagebreak/>
@@ -1915,7 +1915,6 @@ wir brauchten. Unter den sechs Matrosen befand sich der
 Oberbootsmann des »Seestern«, ein älterer, stiller Farbiger,
 der offenbar dafür sorgen sollte, daß wir beide als »Schiffsoffiziere«
 der Prau nicht allzuviel Dummheiten machten.
-Examen für große Fahrt machen können.
 
 Der »Seestern« verließ die Innenriffe. Wir tauschten
 mit ihm noch Flaggensignale aus: Glückliche Reise!
@@ -1925,12 +1924,12 @@ Dann rief Harst unsere sechs Leute zusammen.
 »Ihr wißt, daß ihr mir jetzt zu gehorchen habt. Mein
 Freund Schraut wird zusammen mit dem Jüngsten von euch
 die Küche übernehmen. Du, Candu, bist Steuermann. Teile die
-Waden ein. Säubert das Deck und die Achterkajüte. In zwei
+Wachen ein. Säubert das Deck und die Achterkajüte. In zwei
 Stunden gehen auch wir in See.«
 
 Am Heck der Prau lag jetzt deren Rettungsboot vertäut.
 Harald winkte mir, und wir beide kletterten hinab, lösten das
-Tau, und Harst setzte ein ans Steuer.
+Tau, und Harst setzte sich ans Steuer.
 
 »Bitte, rudere,« meinte er. »Ich will dir etwas zeigen.«
 
@@ -1940,13 +1939,13 @@ auf eine ganz schmale Seitenbucht zu, in deren äußerstem
 Winkel im zu meiner Überraschung zwei angespülte Haifischkadaver
 mit aufgeschlitzten Leibern zwischen den Steinen
 liegen sah. »Das ist die Arbeit des Schwimmers der verflossenen
-Naht …/« sagte er nur. »Glaubst du rosa immer,
-daß der Mann tot ist?! Ich nicht!! — Kehrt … Zurück zur
+Nacht …,« sagte er nur. »Glaubst du noch immer,
+daß der Mann tot ist?! Ich nicht! — Kehrt … Zurück zur
 Prau … Frage nichts. Der Mann ist an Bord der Prau.
-Ich sah die Spuren seiner nahen, nassen Füße an Decks auf
-dem Vorschiff kurz ganz der Sdcjießerei. Als wir mit den
-Wachen in den Kuttern sprachen, See er am »Sie,
-Ungar. Weine Promenade an Deck galt. ist Ei! Ry
+Ich sah die Spuren seiner nackten, nassen Füße an Deck auf
+dem Vorschiff kurz nach der Schießerei. Als wir mit den
+Wachen in den Kuttern sprachen, kletterte er am Bugspriet
+empor. Meine Promenade an Deck galt ihm. Er sollte nicht
 wieder auskneifen.«
 
 Das Boot glitt der Prau zu.
@@ -1956,12 +1955,12 @@ Das Boot glitt der Prau zu.
 
 »Weiß ich nicht … Ein Farbiger jedenfalls …«
 
-Wir gefiel die Geschichte nicht.
+Mir gefiel die Geschichte nicht.
 
 »Der Kerl kann uns übel mitspielen,« erlaubte ich mir
 zu bemerken.
 
-… »Wird keine Gelegenheit dazu haben …«
+»Wird keine Gelegenheit dazu haben …«
 
 Wir vertäuten das Boot wieder am Heck, und dann begannen
 wir die Prau zu durchsuchen. Unsere Tamilen waren
@@ -1976,29 +1975,29 @@ Unten im Raum suchten wir vergebens. Außer den
 Ballastsäcken gab es hier nichts als Gerümpel, leere Tonnen,
 Kisten, zerfetzte Kokosmatten, alte Segel und stinkendes Kielwasser.
 Eine Leiter führte ins Vorschiff empor, in das Mannschaftslogis.
-Vieles hatte vier Kammern. An der Zahl der
+Dieses hatte vier Kammern. An der Zahl der
 Schlafmatten erkannten wir, daß hier elf Leute untergebracht
 waren. Dort, wo der schmale Gang des Vorschiffes an
 die Rückwand der Kombüse stieß, betrachtete Harald die
 Bretterverschläge sehr genau, flüsterte mir dann zu: »Etwa
-Zwei Meter fehlen an der Balancierte. Die eine Kammer
+Zwei Meter fehlen an der Backbordseite. Die eine Kammer
 ist kürzer. Es fällt wenig auf. Nun wollen wir den Vogel
 greifen.«
 
-Der Zugang zu dem Versteck war bald gefunden. Eis war
+Der Zugang zu dem Versteck war bald gefunden. Es war
 eine niedere, unten am Boden hergestellte Klapptür. Ein
 Teil der Bretterwand der kürzeren Kammer war zur Tür
 umgestaltet. Harst hielt die eingeschaltete Taschenlampe dicht
-an die Vier. So konnte man auch die auf der anderen
+an die Ritzen. So konnte man auch die auf der anderen
 Seite angeschraubten Scharniere erkennen.
 
 Als ich nun die Klinge meines Taschenmessers in eine
 der Brettstücke seitlich hineinbohrte und dann kräftig zog,
 hob sich diese Klappe geräuschlos empor.
 
-Harald ’ war im Nu mit gespannter Pistole drinnen. Aber
+Harald war im Nu mit gespannter Pistole drinnen. Aber
 <@pagebreak/>
-unser Eifer, den Farbigen festzunehmen, bekam einen g2ohörigen
+unser Eifer, den Farbigen festzunehmen, bekam einen gehörigen
 Dämpfer. In der einen Ecke saß ein jüngerer, brauner
 Bursche, der nur mit Leinenhosen bekleidet war, und hatte
 in der Linken ein Stück glimmende Zündschnur, in der
@@ -2007,16 +2006,15 @@ das moderne Blättchenschießpulver in den Tropen gehandelt
 wird. Diese Vierpfundbüchse war geöffnet, und wenn der
 Bursche dort, der uns frech angrinste, die Linke nur zwei
 Zentimeter nach rechts schob, würde man von ihm und uns
-beiden nur noch); Feten vorfinden.
+beiden nur noch Fetzen vorfinden.
 
 Meine Ahnung hatte also nicht getrogen. Der Bursche,
-
-2? schon mit den Haifischen so zweckentsprechend umgegangen
+der schon mit den Haifischen so zweckentsprechend umgegangen
 war, zeigte sich hier als Herr der Situation. Grinste kalt …
 
 Harst kniete vor ihm. Zwischen beiden waren zwei Meter
-Zwischenraum. Ha wieder kniete halbrechts hinter Harald,
-denn wir hatten die Hühnerstallklappe fließend passieren
+Zwischenraum. Ich wieder kniete halbrechts hinter Harald,
+denn wir hatten die Hühnerstallklappe kriechend passieren
 müssen.
 
 »Wer bist du?« fragte Harst, indem er sich auf die den
@@ -2025,52 +2023,52 @@ Boden bedeckende Matte setzte.
 »Ein Perlentaucher, Herr …« — Der Kerl sprach ganz
 gut englisch.
 
-»Das ahnte ich. Du hast die Haie so geschickt geschickt,
+»Das ahnte ich. Du hast die Haie so geschickt geschlitzt,
 daß nur ein Taucher von Beruf dies getan haben konnte. —
-Gehörst du zu der Prau?2«
+Gehörst du zu der Prau?«
 
 »Ja, Herr …« — Diese Bereitwilligkeit des Burschen, sich
 ins Gebet nehmen zu lassen, war mir unheimlich, zumal er
-Nr immer seine roten Zähne zeigte.
+noch immer seine roten Zähne zeigte.
 
 »Du bist ein Malaie?«
 
-Ich Herr .; €
+»Ja Herr …«
 
 »Und ihr habt den Sahib Hindersen entführt?«
 
-HI, Dr 50
+»Ja, Herr …«
 
 Jetzt grinste der Schuft nicht mehr. Seine Stimme wurde
-ängstlich …»Herr, laß mich laufen,« bat er … »Ich ahnte
-nicht, daß der Fortan der Prau solche Dinge treibt …
+ängstlich. »Herr, laß mich laufen,« bat er … »Ich ahnte
+nicht, daß der Kapitän der Prau solche Dinge treibt …«
 
 <@pagebreak/>
 »So … so … — Und weshalb kamst du an Bord der
-Prau zurück und ’trenntest dich von deinen Gefährten?«
+Prau zurück und trenntest dich von deinen Gefährten?«
 
-»Herr, ich) hatte hier etwas vergessen … der; wollte es
+»Herr, ich hatte hier etwas vergessen … Ich wollte es
 holen …« — Er winselte jetzt vor Angst …
 
 »Was hattest du vergessen?«
 
 Der Taucher, in Dessen Ledergurt ein langer, malaiischer
-Kris ohne Scheide stete, wand sich förmlich, als ob er
+Kris ohne Scheide steckte, wand sich förmlich, als ob er
 Bauchgrimmen hätte.
 
 »Rede!! Und weg mit der Pulverschachtel! Wir werden
 dir nichts tun … Ich verspreche es dir …«
 
-Der Malaie »strahlte, stellte die Blechbüchse rasch. hinter
+Der Malaie strahlte, stellte die Blechbüchse rasch hinter
 sich und holte aus seiner Leinenhose ein Säckchen hervor,
 schüttelte daraus drei Brillantringe auf die Matte …
 
-»Dies, Herr … — Ich hatte die Tochter Sir Ballamoors
+»Dies, Herr … — Ich hatte die Töchter Sir Ballamoors
 zu bedienen, Herr … Sie schenkten mir nachher jede
 einen Ring … Und als wir in der vergangenen Nacht vor
-euch von der ’Prau flohen, vergaß ihm meinen Schlaf
+euch von der Prau flohen, vergaß ich meinen Schatz … —
 Herr, es ist die Wahrheit … Ich habe die Ringe geschenkt
-bekommen … Ich war es ja »auch, der die Flaschenpost ins
+bekommen … Ich war es ja auch, der die Flaschenpost ins
 Meer warf …«
 
 »Aha!!« Und Harald lachte leise … weshalb, begriff
@@ -2085,7 +2083,7 @@ nicht ahnen, daß du hier bist. Wenn wir einem Kreuzer oder
 Polizeidampfer begegnen, könnten sie dich verraten. — Weißt
 du, wer wir sind?«
 
-»Rein; »hell 4.55 …
+»Nein, Herr …«
 
 »Deutsche sind wir, Bekannte Tai Wans … — Wie
 heißt du?«
@@ -2094,41 +2092,40 @@ heißt du?«
 
 <@pagebreak/>
 »Gib die Pulverbüchse her, die Lunte und deinen Dolch
-
 … Hast du noch mehr Waffen?«
 
-»Nein, Herr … — Ihr meint es ’dochß ehrlich mit mir?«
+»Nein, Herr … — Ihr meint es doch ehrlich mit mir?«
 
-»Deutsche lügen nicht, Opatu … Dir wird nichts ge.
-stehen …«
+»Deutsche lügen nicht, Opatu … Dir wird nichts geschehen
+…«
 
 Opatu lieferte Pulver, Dolch und Lunte ab, und Harst
-zurchsuchte dann noch die kleine Kammer, fand nichts Seetüchtiges.
+durchsuchte dann noch die kleine Kammer, fand nichts Verdächtiges.
 
 »Verhalte dich also still, Opatu. Nachher bringe ich dir
-Reis …« — und dann verließen wir den Bretterverschlag, des
-haben uns auf dem Umweg durch den Laderaum in unsere
-7ereits8 gesäuberte Heckkajüte, die jetzt mit ihren frisch sei
-steuerten Bambusmöbeln ganz wohnlich ausschaute.
+Reis …« — und dann verließen wir den Bretterverschlag, begaben
+uns auf dem Umweg durch den Laderaum in unsere
+bereits gesäuberte Heckkajüte, die jetzt mit ihren frisch
+gescheuerten Bambusmöbeln ganz wohnlich ausschaute.
 
 Harald schloß die dem Malaien abgenommenen Sachen
-den einen unserer Koffer ein und meinte mit eigenartigem
+in den einen unserer Koffer ein und meinte mit eigenartigem
 Schmunzeln: »Großzügig — in der Tat großzügig!! Ein
 Film mit interessanten Einzelszenen!! Der Regisseur hat
-zu alles gedacht … Ich hätte die Sache kaum besser machen
+an alles gedacht … Ich hätte die Sache kaum besser machen
 können …«
 
 »Was soll das nun wieder, Harald?!«
 
 »Geh in deine Kombüse, Herr Oberkoch, und lerne deinen
-Gehilfen an … Sobald wir die Prau aus der Bucht sei
-Brennt und Segel gesetzt haben, muß das Mittag fertig sein
-… =ck Bitte …!! Hier bin ich jetzt Kapitän!«
+Gehilfen an … Sobald wir die Prau aus der Bucht geschleppt
+und Segel gesetzt haben, muß das Mittag fertig sein
+… — Bitte …!! Hier bin ich jetzt Kapitän!«
 
 Ich verduftete fluchend …
 
 Film — — Regisseur?! Sollte etwa …?! — Doch nein,
-»As war ja undenkbar!
+das war ja undenkbar!
 
 <h2>4. Kapitel.</h2>
 <h3>Besuch an Bord.</h3>
