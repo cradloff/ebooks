@@ -105,7 +105,7 @@ Fingern angefaßt hatte):
 findet, … an Sir Erik Ballamoor, Colombo … Belohn
 … deine … inder … ry … mag … ny …
 
-> »Die, Punkte, Herr Harst, bedeuten die unleserlichen Stellen,
+> Die, Punkte, Herr Harst, bedeuten die unleserlichen Stellen,
 die auch die hiesige Polizei durch photographische Vergrößerung
 nicht wieder hat klar hervorrufen können. Immerhin
 hat Detektivinspektor Moudray diese Fragmente wie folgt
@@ -805,7 +805,7 @@ aus der Richtung käme.
 
 »Legen wir uns lang …« meinte Harald leise … »Es
 ist ein Chinese … Und er wird vielleicht sehr bald merken, daß
-dieses Eiland hier doppelt und dreifach gesichert ist …
+dieses Eiland hier doppelt und dreifach gesichert ist …«
 
 Das Boot kam nun um die Biegung der Bucht auf
 Uns zu.
@@ -819,7 +819,7 @@ durch die sie geschlossen bleibt, selbst wenn das Boot
 über die Stahltrosse gleitet. — Siehst du, er hat die gefährliche
 Zone hinter sich. Er wird links von uns landen, wo der
 flache, steinige Strandstreifen als kleine Halbinsel sich vorstreckt
-…
+…«
 
 Es stimmte. Dort zog der Gelbe sein Boot aufs Trockene.
 
@@ -1331,7 +1331,7 @@ das Rätselwort zugeraunt:
 
 »Und dein Vers: »Vielleicht man jetzt denjenigen sucht,
 der unser Rätselwort besitzt, benutzt, und zu Verbrechenszweck
-hat zugestutzt …? — Das kann sich doch nur auf Sven
+hat zugestutzt …?« — Das kann sich doch nur auf Sven
 Hindersen beziehen?«
 
 »Natürlich. Hindersen hat ja die famose Farm angelegt.«
@@ -2131,12 +2131,12 @@ das war ja undenkbar!
 <h3>Besuch an Bord.</h3>
 
 Gegen elf hatten uns die Tamilen mit dem Boot durch
-Grazie Nickte geschleppt … Die großen Segel füllten sich, und
-ie Prau steuerte in flinker Fahrt nach Süden. Das Wetter
+die Riffe geschleppt … Die großen Segel füllten sich, und
+die Prau steuerte in flinker Fahrt nach Süden. Das Wetter
 war prachtvoll.
 
 <@pagebreak/>
-Wein Diner war pünktlich fertig. Auch Opatu wurde
+Mein Diner war pünktlich fertig. Auch Opatu wurde
 nicht vergessen. Ich brachte ihm heimlich Speise und Trank.
 Da unsere Matrosen sich vorn in dem Bugaufbau häuslich
 eingerichtet hatten, waren die Vorschiffkammern leer geblieben,
@@ -2145,9 +2145,9 @@ und Opatu brauchte kaum zu fürchten, entdeckt zu werden.
 Nach Tisch rief Harst den Steuermann Candu herbei.
 
 »Ich möchte einen kleinen Umweg machen,« sagte er zu
-dem — bejahrten, seebefahrenen Tamilen. »Gib dem Monat
+dem bejahrten, seebefahrenen Tamilen. »Gib dem Mann
 am Ruder Befehl, daß er westlichen Kurs hält, sobald wir
-Kap Sondern hinter uns haben.«
+Kap Komorin hinter uns haben.«
 
 Candu machte Zwar ein erstauntes Gesicht, verneigte sich
 jedoch nur und verschwand wieder.
@@ -2161,54 +2161,54 @@ Verdauungszigarre.
 
 »Und dort?!«
 
-»Werde im wohl den Filmregisseur treffen …«
+»Werde ich wohl den Filmregisseur treffen …«
 
-Wein Gesicht spiegelte zweifellos meinen geheimen Morgen
+Mein Gesicht spiegelte zweifellos meinen geheimen Ärger
 wider, denn er fügte hinzu: »Du mußt mir nicht grollen,
 mein Alter … Diese ganze Geschichte ist so köstlich, daß ich
 sie dir später, wenn es so weit ist, als große Überraschung
 servieren möchte …«
 
-»Lästig — — hm?! Für gewöhnlich enden deine Überraschungen
+»Köstlich — — hm?! Für gewöhnlich enden deine Überraschungen
 dieser Art mit einem bösen Reinfall für uns,
 Harald. Du hast noch immer nicht genügend Lehrgeld bezahlt.
 Es wäre besser, mich in deine Absichten einzuweihen.
 — Meinst du, daß die Piraten Sven Hindersen nach Gallayo
 bringen werden, etwa, um ein Lösegeld zu erpressen?«
 
-»Sie bringen ihn dorthin, verlaß die drauf … Wir
+»Sie bringen ihn dorthin, verlaß dich drauf … Wir
 werden seine Befreier sein … Den Trumpf behalte ich fest
 in der Hand.« Er war ernst geworden. »Die Ostseite Gallayos
 gehört der Plantagengesellschaft, die ihrerseits wieder durch
 Tai Wan dargestellt wird. Tai Wan wird zum Schein im
-Golfe von Manne noch drei Tage nach den Piraten suchen,
+Golfe von Manar noch drei Tage nach den Piraten suchen,
 <@pagebreak/>
-und dann wird er ziemlich zu gleiten Zeit mit uns vor
+und dann wird er ziemlich zu gleicher Zeit mit uns vor
 Gallayo anlangen. Dann beginnen die Enthüllungen. Und
 jetzt werden wir schlafen, mein Alter …«
 
 Nun, mir war’s recht. Müde genug waren wir … —
 
-Zuweilen bin im ein vorzüglicher Prophet. Ein krächzender
+Zuweilen bin ich ein vorzüglicher Prophet. Ein krächzender
 Unglücksrabe, behauptet Harst … Ich schlief wie eine
-Ratte, und eine neben meinem Lager aufgestellte Kinder
-wiege mit einem schreienden Baby darin, hätte mich in keiner
+Ratte, und eine neben meinem Lager aufgestellte Kinderwiege
+mit einem schreienden Baby darin, hätte mich in keiner
 Weise gestört.
 
-Nein, nur Geräusche, Töne, Laute, die gleichsam zu uns
-unserem Handwerk gehörten, pflegen mich den bleiernen Armen
+Nein, nur Geräusche, Töne, Laute, die gleichsam zu unserem
+Handwerk gehörten, pflegen mich den bleiernen Armen
 meines Gottes Morpheus zu entreißen. So zum Beispiel
 der Knall von Schüssen … Oder das Gebrüll von Männern,
 die fraglos weder Zeitungsausrufer noch Auktionatoren sind.
 
 Beides ereignete sich plötzlich: Schüsse, Gebrüll!
 
-Ich fahre schlaftrunken hoch9 … Ich hatte im Schlafe
+Ich fahre schlaftrunken hoch … Ich hatte im Schlafe
 tüchtig geschwitzt … Die Augen sind mir wie zugeklebt …
 
-Verdammt — was bedeutet denn das?! …; 4’.sage die
-Augen kaum auf … Nein — gar nicht Geheimnis ich sie auf
-»… Die Wimpern sind wie mit Harz beträufelt …
+Verdammt — was bedeutet denn das?! Ich kriege die
+Augen kaum auf … Nein — gar nicht bekomme ich sie auf
+… Die Wimpern sind wie mit Harz beträufelt …
 
 Ich reibe die Augen … reibe …
 
@@ -2223,58 +2223,56 @@ Mindestens vier Kerle …
 Riechen nach Schweiß, Tabak, Teer und dunkler Haut.
 All die dunklen Rassen haben ja für eine empfindliche Nase
 ihren kennzeichnenden Duft. Das fremde Blut macht sich
-dem reinblütigen veruneinigen Europäer unbedingt bemerksbar
+dem reinblütigen feinnervigen Europäer unbedingt bemerkbar
 … Mindestens vier dieser duftenden Schnapphähne …
 
 Natürlich Malaien … Genau so stank Opatu … Und
-Opatus Kameraden werden uns jetzt beim Wie! haben …
+Opatus Kameraden werden uns jetzt beim Wickel haben …
 
-Jemand Brut mir die Kehle zu … Sternchen tanzen mir
+Jemand drückt mir die Kehle zu … Sternchen tanzen mir
 vor den Augen … Eine eiskalte Pistolenmündung berührt
 meine Stirn …
 
 <@pagebreak/>
-»Lies still, ungläubiger Hund!«
+»Lieg still, ungläubiger Hund!«
 
 Bitte — gern …
 
 Aber sprechen konnte ich … Ich schnappte nach Luft,
-wurde an das Bett gefesselt … Eine See flog. mir über
+wurde an das Bett gefesselt … Eine Decke flog mir über
+den Kopf … Meine Gedanken waren ein wenig aus dem
+logischen Takt geraten. Jetzt kehrte die Logik zurück …
 
-»den Kopf … Meine: Gedanken waren ein wenig aus dem
-
-logischen Takt geraten. Jetzt kehrte die Logik zurück…
-
-Da hatten wir also die Zeichen Tag. Hatte ich’s nicht Harald
-vorau8gesag!! —
+Da hatten wir also die Bescherung. Hatte ich’s nicht Harald
+vorausgesagt!! —
 
 Aha — da krähte ja schon einer der braunen Halunken
 sein Verslein …
 
 »Ihr beide wart mit auf dem »Seestern«, ihr ungläubigen
 Hunde!! Nun werdet ihr den Tamilen folgen, die von den
-Dort Matters schon gefressen sind …!«
+Bori Matters schon gefressen sind …!«
 
-Der Bursche redete Hafendialekt … Und Dort Matters, zu
+Der Bursche redete Hafendialekt … Und Bori Matters, zu
 deutsch des Teufels Mütter, ist die treffende Bezeichnung für
-die Menschenhaie … —
+die Menschenhaie …
 
-In der Tat. — draußen auf Deck war es ganz still geworden
+In der Tat — draußen auf Deck war es ganz still geworden
 … Zuletzt hatte ich noch Zwei gellende Aufschreie
 gehört, und der letzte dieser in höchster Todesnot hervorgestoßenen
 Schreie klang mir ganz nachts Candu, dem alten
 Tamilen … Wir wurde es kühl um das Rückgrat herum.
 
 Ich konnte mir unschwer die Szene ausmalen, die sich an
-Des abgespielt hatte … Die Verwundeten hinab ins Wasser,
-den Unverletzten ein Dolchstoß und: auch hinab ins Wasser.
+Deck abgespielt hatte … Die Verwundeten hinab ins Wasser,
+den Unverletzten ein Dolchstoß und auch hinab ins Wasser.
 
 Aber merkwürdig: der malaiische Schnapphahn, der uns
 das Abkühlungsbad und die intime Bekanntschaft mit des
-Satans Müttern. in Aussicht gestellt hatte, machte seine
+Satans Müttern in Aussicht gestellt hatte, machte seine
 Drohung vorläufig nicht wahr. Man ließ mich auf meinem
-Bett liegen. wo ich freilich derart fest in ausgestreckten Haltung
-angebunden war, daß ich gerade rote; mit der Nasen spie
+Bett liegen, wo ich freilich derart fest in ausgestreckter Haltung
+angebunden war, daß ich gerade noch mit der Nasenspitze
 zucken konnte. Selbst mein Kopf war festgebunden.
 
 Tappende Schritte entfernten sich. Die Kerle gingen an
@@ -2289,7 +2287,7 @@ Gott sei Dank — er lebte …!!
 
 »Was hältst du von diesem Überfall?«
 
-Ich — hätte ihm mir lieber diesen Satz verkniffen!!
+Ach — hätte ich mir lieber diesen Satz verkniffen!!
 
 Galoppschritte nahten …
 
@@ -2297,25 +2295,24 @@ Galoppschritte nahten …
 weißen Freunde des schuftigen Chinesen werden das Maul nie
 mehr aufreißen …!«
 
-Jetzt wurde es ernst … Man packte mich … Hm Nu
-war ich vom Bett losgebunden … Hm Nu in eine Matte
+Jetzt wurde es ernst … Man packte mich … Im Nu
+war ich vom Bett losgebunden … Im Nu in eine Matte
 gewickelt — mit gefesselten Händen und Füßen …
 
-Eingewickelt, eingebunden in eine die Bastmatte, —
-wie eine die Wurst, nur der Kopf über die Röhre hinausragend,
+Eingewickelt, eingebunden in eine dicke Bastmatte, —
+wie eine dicke Wurst, nur der Kopf über die Röhre hinausragend,
 und sehend — alles sehend … Der Schweiß, der
-Angstschweiß hatte mir die Lider geöffnet, die Klebmasse erweist
+Angstschweiß hatte mir die Lider geöffnet, die Klebmasse erweicht
 … Wer nur konnte uns den tückischen Streich gespielt
 haben, uns blind zu machen, bevor wir überfallen wurden?!
 Wer …? Doch nur Opatu — nur! Und daß dieser junge,
 braune Lump nur deshalb an Bord gekommen, um seinen
 Piratenkollegen rechtzeitig ein Helfer zu sein, war ja nun
 auch klar … Das schoß mir so durch den Kopf, während die
-
 braunen Bestien mich an Deck schritten … Eine Rotte
 Teufel war’s … Kerle aller Altersstufen …
-Die meisten nur in Leinenhosen … Die meisten mit
 
+Die meisten nur in Leinenhosen … Die meisten mit
 handlangen Narben auf Rücken und Brust, viele mit gräßlichen
 Verletzungen im Gesicht, alle mit prachtvollen Muskeln,
 prachtvoll — wilden Gesichtern, Augen wie glühende Kohlen
@@ -2325,27 +2322,25 @@ Anführer ein kleiner, sehniger Bursche mit einem unglaublich
 verwitterten, aber ebenso intelligentem Gesicht …
 
 Die Kerle schleiften uns unter wüstem Gebrüll zur
-Steuerbordreling. Und Docks — sie schienen bei all ihrer
-Verdiensten sich doch nicht so recht an uns heranzutrauen …
+Steuerbordreling. Und doch — sie schienen bei all ihrer
+Vertiertheit sich doch nicht so recht an uns heranzutrauen …
 Schon der Überfall auf uns, als wir noch in den Betten
 lagen, war letzten Endes beinahe voll rücksichtsvoll gewesen.
 
 <@pagebreak/>
 Daß man mir die Kehle etwas energisch zugedrückt hatte, —
-war nicht der Griff eines Mannes gewesen, dem es
-Jenschenleben weiter nicht ankommt.
+das war nicht der Griff eines Mannes gewesen, dem es
+auf ein Menschenleben weiter nicht ankommt.
 
-nicht folgte, zeigte diese Horde in scheint
-
-» Man hatte den Großbaum des Fockmastes
-
-5, außenbords geschwungen und daran »u
-»en befestigt …
+Und das, was jetzt folgte, zeigte diese Horde in scheußlichstem
+Lichte … Man hatte den Großbaum des Fockmastes
+über die Reling außenbords geschwungen und daran zwei
+große Rollen befestigt …
 
 Starke Taue liefen durch die Rollen …
 
-Man warf uns über die Reling, und wir pendelten ’hilf-
-los dicht über dem Wasser hin und her, prallten aneinander,
+Man warf uns über die Reling, und wir pendelten hilflos
+dicht über dem Wasser hin und her, prallten aneinander,
 Wogenkämme klatschten gegen die Matten, in denen wir
 steckten … Ein gröhlendes Gelächter, als man dann mich
 als ersten regelrecht »stippte« freilich auch wieder sofort
@@ -2354,7 +2349,7 @@ emporzog. Harald erging es nicht anders …
 Unser rasches Eintauchen in die grünblaue Flut hatte
 immerhin genügt, ein paar Haie hervorzulocken.
 
-Ich sah die Rückenflossen der Untiere wie schwarze Seiten
+Ich sah die Rückenflossen der Untiere wie schwarze Scheiben
 über die Flut hinausragen … Ich gab mich verloren …
 
 Es war ja nur zu klar, was die Schufte beabsichtigten …
@@ -2364,33 +2359,32 @@ Aber ein Zufall kam uns da zu Hilfe …
 Beim Erscheinen der Haie war die Bande still geworden
 und äugte nur nach den Meereshyänen hinab … Es
 ist bekannt, daß der Hai sich, um die Beute zu erhaschen, bis
-zur Hälfte des walzenförmigen Leibes aus dem Wasser heraussucht
+zur Hälfte des walzenförmigen Leibes aus dem Wasser herausschnellt
 … Und darauf wartete die Horde offenbar …
 
 Dann jedoch ein gellender Ruf des Piraten, der am
 Ruder stand …
 
-Hm Süden war eine die Rauchsäule aufgetaucht …
+Im Süden war eine dicke Rauchsäule aufgetaucht …
 
 Und da packte die Schurken die Angst vor der Begegnung
 mit einem überlegenen Gegner. Blitzschnell wurde der
-Großbaum eingesHwungen. Man löste die Rollen. Wir
-lagen triefend auf dem See und konnten nun beobachten,
-37 weiter Nippsachen die Piraten sämtliche Segel einzogen,
-damit die Platz weniger leicht zu bemerken sei.
+Großbaum eingeschwungen. Man löste die Rollen. Wir
+lagen triefend auf dem Deck und konnten nun beobachten,
+mit welcher Fixigkeit die Piraten sämtliche Segel einzogen,
+damit die Prau weniger leicht zu bemerken sei.
 
 Ich hatte den Kopf gedreht … Harst lag nur zwei Schritt
 <@pagebreak/>
 … Schaute mich an, hatte wieder das sphynxhafte Lächeln
-
 um die Lippen … Niemand kümmerte sich um uns.
-Und — Harst lächelte … Aber blieb stumm …
-Völlig stumm … Blitze nun jeden einzelnen der Freie
 
-Freibeuter prüfend und geradezu taxierend an, nickte befriedigt,
+Und — Harst lächelte … Aber blieb stumm …
+Völlig stumm … Blickte nun jeden einzelnen der Freibeuter
+prüfend und geradezu taxierend an, nickte befriedigt,
 lächelte stärker …
 
-»Opatu fehl!!« flüsterte er …
+»Opatu fehlt!« flüsterte er …
 
 Dann wurden wir auch schon wieder in die Kajüte geschleift,
 jeder auf sein Bett geworfen und die Kajütentür zugeschlagen
@@ -2400,14 +2394,14 @@ Ich war gespannt, was nun folgen würde. Wenn der
 Dampfer die Prau sichtete, war mit ziemlicher Bestimmtheit
 anzunehmen, daß er auf uns zu hielt, denn auch heute früh
 hatte nicht nur der Sender des »Seestern«, sondern auch die
-Küstenstationen alle unterwegs befindlichen Dampfer Sarge
-fordert, nach dem Piratenboot zu fahnden. Ich horchte — —
-horchte … Es wurde immer stiller an Des …
+Küstenstationen alle unterwegs befindlichen Dampfer aufgefordert,
+nach dem Piratenboot zu fahnden. Ich horchte — —
+horchte … Es wurde immer stiller an Deck …
 
 Wir war’s, als ob ein Boot einmal hart gegen die Backbordwand
 stieß. Die Prau schlingerte sehr stark. Bei dem
 schwachen Wind gehorchte sie jetzt ohne Segeldruck dem Steuer
-nicht 160 rollte und stampfte, Brecher schlugen über die
+nicht mehr, rollte und stampfte, Brecher schlugen über die
 Reling …
 
 Mit einem Male richtete sich Harald da auf seinem Bett
@@ -2417,28 +2411,28 @@ die nie irgendwie Theatralisches an sich hat, rief er mir zu:
 »Du kannst uns nachher einen anständigen Mokka brauen,
 mein Alter, auch trockene Wäsche und Leinenanzüge aus den
 Koffern hervorsuchen. Ich bin wieder Kapitän der Prau,
-die Piraten sind ausgekniffen, und« Opatu dürfte außer uns
+die Piraten sind ausgekniffen, und Opatu dürfte außer uns
 beiden der einzige Mensch an Bord sein, denn er hat es
 vorgezogen gehabt, in seinem Versteck zu bleiben, was er den
 Umständen nach tun mußte, weil seine Kameraden ihn sonst
 massakriert hätten — als scheinbar Fahnenflüchtigen. Außerdem
-wollte er ja auch seinen Schlaf, die drei Ringe, nicht
+wollte er ja auch seinen Schatz, die drei Ringe, nicht
 <@pagebreak/>
 hergeben, und … — so, erst will ich dich nun mal befreien.«
 
 Er tat’s … Er nickte mir zu, als wir uns nun auf dem
-leeren Der gegenüberstanden und dann schleunigst als erstes
+leeren Deck gegenüberstanden und dann schleunigst als erstes
 ein paar Segel setzten, damit die Prau nicht weiter wie eine
 dicke, betrunkene Landstreicherin hier im Indischen Ozean
 umhertaumelte.
 
 Ich übernahm das Amt eines Steuermannes, bis Harald
-mag wenigen Minuten mit Opatu wieder an Deck erschien.
+nach wenigen Minuten mit Opatu wieder an Deck erschien.
 Der Malaie war merklich verstört, hatte fraglos in
-seinem Fenster vor Angst geschwitzt, und versicherte immer
+seinem Versteck vor Angst geschwitzt, und versicherte immer
 wieder, daß er uns ein treuer und zuverlässiger Gefährte sein
-würde, löste mich am Ruder ab und zeigte ist dann auch
-wirklich fernerhin als ein Gesichter, willigen und … doch
+würde, löste mich am Ruder ab und zeigte sich dann auch
+wirklich fernerhin als ein geschickter, williger und … doch
 etwas verlogener Reisebegleiter.
 
 Wir waren nun zu dreien auf der Prau — etwas wenig
@@ -2457,9 +2451,9 @@ zumeist sein merkwürdiges Lächeln betrafen, blieben unerwidert.
 Er gab ganz verkehrte Antworten, und seine Hauptsorge
 war, daß er etwas zu trinken erhielt: Kaffee, starken
 Kaffee! Ich suchte also die sehr primitive Kombüse der Prau
-auf, machte Feuer tu’ dem eisernen Herd, und stellte einen
+auf, machte Feuer in dem eisernen Herd, und stellte einen
 Topf Wasser auf die Ringe. Mit der Kaffeemühle in der
-Hand erschien im wieder an Dr, sah, daß Harst die beiden
+Hand erschien ich wieder an Deck, sah, daß Harst die beiden
 Großsegel inzwischen wieder gesetzt hatte, und daß die Prau
 den alten Kurs hielt: Gallayo!
 
@@ -2468,23 +2462,23 @@ mich den beiden näherte, sagte er gerade zu dem Malaien:
 
 <@pagebreak/>
 »Ja, im Schränkchen der Heckkajüte liegt eine Tube Klebstoff
-»… Aus dieser Tube hatte man uns die Augen derart zugekleistert,
+… Aus dieser Tube hatte man uns die Augen derart zugekleistert,
 daß wir wehrlos waren. Da einer der armen Tamilen,
 die nun von Haifischen verdaut werden, diesen bösen
 Streich niemals begangen haben kann, da dieser Streich
 ferner vor dem Überfall deiner früheren Gefährten uns gespielt
 wurde, mein guter Opatu, so kommst du hier nur in
-Frage. Seminole nicht!! weshalb tatest Du’s …«
+Frage. Schwindle nicht! Weshalb tatest du’s …«
 
-Opatu winselte ängstlich: »Herr, ich sah daß Boot nahen
+Opatu winselte ängstlich: »Herr, ich sah das Boot nahen
 … Herr, es sah so aus, als seien nur zwei Mann darin. Die
 anderen lagen wohl unter der Persenning. Da ahnte ich,
 daß es zu Blutvergießen kommen würde, und wenn ihr beide,
 Herr, euch hättet wehren können, lebtet ihr nicht mehr. Herr,
 ich habe es nur gut gemeint …«
 
-»Na schön, Opatu …« — Und damit war die Sache —
-erledigt. Aber mir machte es den Eindrücke, als ob unser
+»Na schön, Opatu …« — Und damit war die Sache
+erledigt. Aber mir machte es den Eindruck, als ob unser
 lieber Opatu ein ganz gerissener Schwindler wäre, — was sich
 bald auch von neuem bestätigte.
 
@@ -2500,31 +2494,31 @@ Dunkelheit auf die uns bereits bekannte Nordküste zu und
 Opatu kam nämlich und fragte Harald, ob er die Positionslaternen
 nicht anzünden solle. — Harst lehnte am
 Ruder, ich neben ihm an der Reling. Wir hatten nur wenig
-Segel gesetzt, denn die gerade beginnende Jl):t würde uns
-gefahrlos durch die Lippen in Dietrich? Bug!t binetnführen,
-in der damals Svendsens Schoner Schuß gesucht hatte —
+Segel gesetzt, denn die gerade beginnende Flut würde uns
+gefahrlos durch die Klippen in dieselbe Bucht hineinführen,
+in der damals Svendsens Schoner Schutz gesucht hatte —
 damals, — wie endlos weit lag jene Nacht scheinbar zurück,
 <@pagebreak/>
 nur scheinbar …! Was alles war inzwischen geschehen?!
-»Nein, Opatu, keine Lichter,« bestimmte Harald. »IX
-» habe meine guten Gründe dafür …«
+»Nein, Opatu, keine Lichter,« bestimmte Harald. »Ich
+habe meine guten Gründe dafür …«
 
-Der Malaie dienerte »As ah, Herr« und schlenderte wieder
+Der Malaie dienerte »Ai ai, Herr« und schlenderte wieder
 nach vorn.
 
 »Behalte ihn im Auge, mein Alter,« sagte Harst ohne
 Betonung. »Er wird sicher Dummheiten machen … Vielleicht
-steckt er aus Versehen einen Gelangen in Brand oder
+steckt er aus Versehen einen Öllappen in Brand oder
 dergleichen …«
 
 Endlich hatte ich jetzt Harald bei dem Thema, dessen
-Erörterung er bisher mit wahrer Iongleurgeschhickliczkeit vermieden
-hatte. — »Vielleicht gibst du mir nun auch. klipp
+Erörterung er bisher mit wahrer Jongleurgeschicklichkeit vermieden
+hatte. — »Vielleicht gibst du mir nun auch klipp
 und klar an, was wir hier auf Gallayo sollen?« sagte ich
 sehr nachdrücklich. »Diese ganze Geschichte mit den Piraten
-und dem entführten Sven Hindersen, der erst ein ausgefochten
+und dem entführten Sven Hindersen, der erst ein ausgekochter
 Lump und Mörder und nun ein Unschuldslämmlein sein
-soll, rammt mir höchst fragwürdig vor. Ich könnte dir …«
+soll, kommt mir höchst fragwürdig vor. Ich könnte dir …«
 
 »Bitte — Opatu bereitet vielleicht schon ein Signal vor,
 Mein Alter … Verhüte, daß er uns den Spaß nicht verdirbt.«
@@ -2532,68 +2526,68 @@ Mein Alter … Verhüte, daß er uns den Spaß nicht verdirbt.«
 »Signal?! Also … also …«
 
 Harst lachte und versetzte mir einen leichten Stoß. »Geh
-doch …! — Natürlich Signal! Opatu ist vorhin kein Malaie,
+doch …! — Natürlich Signal! Opatu ist doch kein Malaie,
 mein Alter, sondern ein Perlentaucher tamilischen Stammes
 und ein treuer Untergebener Tai Wans … Geh doch …
 Und die drei Ringe hat natürlich Tai Wan ihm gegeben …
-Alles Regiekunststücke des Herrn Regisseurs … — Oh
+Alles Regiekunststücke des Herrn Regisseurs … — Geh
 doch …« Und wieder bekam ich einen Stoß …
 
-Eis war auch wirklich höchste Zeit, daß im mich im
+Es war auch wirklich höchste Zeit, daß ich mich im
 Schatten der Reling nach vorn schlich …
 
 Hinter dem kleinen Aufbau der Kombüse kniete Freund
 Opatu und hatte … eine unserer Taschenlampen bereits
 eingeschaltet …
 
-Zum Stück aber voll mit der Linse Nu unten gerichtet.
+Zum Glück aber noch mit der Linse nach unten gerichtet.
 
 Ich sprang zu … Riß ihm das Ding aus der Pfote und
 <@pagebreak/>
-gab ihm einen Warenkeller, daß er nicht nur vor Schreck
-Tische! 50.4
+gab ihm einen Rippentriller, daß er nicht nur vor Schreck
+aufschrie …
 
 »Herr, ich suchte nur meine Nähnadel, Herr …« stotterte
 der faule Kopf rasch gefaßt.
 
 Das ging mir denn doch über die sogenannte Hutschnur.
-Du bist ja ein ganz infamer Lügner!« fauchte ich ihn an.
-»Wenn du aus nur wagst, dir deinen stinkenden Nasen wärmer
-mit einem Zündholz zuzustecken, so sperre ich sich
+»Du bist ja ein ganz infamer Lügner!« fauchte ich ihn an.
+»Wenn du auch nur wagst, dir deinen stinkenden Nasenwärmer
+mit einem Zündholz anzustecken, so sperre ich dich
 unten ein, du brauner Oberschwindler!! Von den Töchtern
 Sir Ballamoors willst du die Ringe bekommen haben!! Alles
 Lüge! Tai Wan hat sie dir gegeben! Und ein Malaie willst
 du sein?! Tamile bist du, Halunke!« — O — ich blähte mich
 ordentlich auf mit meinen Kenntnissen!! Ich merkte ja, daß
 die Ringe für Opatu eine böse Pille gewesen waren. Er
-größte mich ganz vertattert an … Er klappte sein Maul
+glotzte mich ganz vertattert an … Er klappte sein Maul
 auf und zu und brachte schließlich doch nur über die Zunge:
 »Herr, du … du … scherzest, du …« Dann war’s mit
 seiner Weisheit schon wieder zu Ende.
 
 Ich nahm ihn mit in die Kombüse hinab und ließ ihn
 hier den bereits gut gequollenen Reis rühren. »Du kommst
-nicht eher an Des, bis du gerufen wir’s!!« — und dann begab
+nicht eher an Deck, bis du gerufen wirst!« — und dann begab
 ich mich wieder nach oben, um Matrose zu spielen.
 
 Harst ließ noch mehr Segel reffen, damit die Prau in
 mäßiger Schnelligkeit die Klippen passiere. Die Brandung
-vor uns war ziemlich stark, und wenn wäre Pech hatten,
+vor uns war ziemlich stark, und wenn wir Pech hatten,
 gerieten wir trotz aller Vorsicht auf ein Riff. Ich hatte
-gerade den Heckanker klar gemacht und wollte nun den Burgunder
+gerade den Heckanker klar gemacht und wollte nun den Buganker
 bereitlegen, als ich bemerkte, daß aus dem kleinen
-Blechschornstein der Kombüse hielten Qualm und einige Funken
+Blechschornstein der Kombüse dickster Qualm und einige Funken
 hervordrangen. — Solch ein Lump von Opatu!! Nun versuchte
-er?8 also auf diese Mr!! Mit drei Sprüngen war ich
+er’s also auf diese Art!! Mit drei Sprüngen war ich
 unten, nahm eine Kelle Wasser und schüttete das Wasser
-in die Höllenglut des Herdes. Dann erst kriegte Opatu setzte
-wohlverdienten Rippoentriller. Mit meiner Geduld war’s
+in die Höllenglut des Herdes. Dann erst kriegte Opatu seine
+wohlverdienten Rippentriller. Mit meiner Geduld war’s
 jetzt ganz aus. Ich nahm eine Leine und band den braunen
 <@pagebreak/>
 Halunken an eine große Mehlkiste, Front naß dem Herde,
 fest. Mochte er schwitzen! Außerdem versprach ich ihm eine
 Kugel in den Schädel, wenn er etwa einen Fluchtversuch
-wage. — Harst rief, und im hatte dann an Der alle Hände
+wage. — Harst rief, und ich hatte dann an Deck alle Hände
 voll zu tun, um die Prau von den Klippen abzubringen.
 Die Flut strömte in reißender Schnelle in die Bucht hinein.
 Ich dankte Gott, als der Heckanker nachher gefaßt hatte und
@@ -2604,20 +2598,20 @@ Kognak war jetzt ehrlich verdient — genau wie Opatus
 Rippenstöße!
 
 Harald hatte sein Fernglas geholt und musterte die Ufer.
-»Die in den Wissen und Spalten der Felswände nistenden
+»Die in den Riffen und Spalten der Felswände nistenden
 Seevögel verhalten sich ruhig … Wir sind hier allein.
 Niemand hat uns bemerkt,« erklärte er befriedigt. »So —
 und nun wollen wir mit Opatu reden!«
 
-Opatu schwitzte … Und der Reis stank und war aufgedrängt.
+Opatu schwitzte … Und der Reis stank und war angebrannt.
 — »Mein lieber Opatu,« meinte Harst und band
-ihn langsam los, »du gibst der zu, daß diese Prau Tai
+ihn langsam los, »du gibst doch zu, daß diese Prau Tai
 Wans Eigentum ist und daß ihr sogenannten Piraten alles
 Perlentaucher und Tamilen wart — Tai Wans Leute, die
 er genau instruiert hatte …«
 
-Ich griff unwillkürlich« nach der Stirn. War dies ein
-Zollhaus?! War alle Welt plötzlich verrät geworden?!
+Ich griff unwillkürlich nach der Stirn. War dies ein
+Tollhaus?! War alle Welt plötzlich verrückt geworden?!
 Tai Wans Leute — — keine Piraten?!
 
 Und ich sah, daß der zitternde Opatu, dem Harald in
@@ -2629,23 +2623,22 @@ hielt, schwach nickte … Also stimmte das alles!
 Der Tamile sank in die Knie … »Herr, ich weiß es
 nicht … Ich weiß es nicht … Herr, ich lüge jetzt nicht …
 Sir Hindersen war auf der Prau — als Gefangener … auf
-
-Tai Wans Befehl … Herr, im lüge nicht … Ich sollte
+Tai Wans Befehl … Herr, ich lüge nicht … Ich sollte
 <@pagebreak/>
-wieder auf die Prau zurück, Herr, damit ich Bucht die Augen
+wieder auf die Prau zurück, Herr, damit ich euch die Augen
 verklebte … Ihr solltet mich finden, Herr …«
 
-»Ich weiß … — Warst du schon emmmal hier auf
+»Ich weiß … — Warst du schon einmal hier auf
 Gallayo?«
 
 »Nein, Herr … Ich bin Perlentaucher auf der Insel
-Sturz, die dem Sir Tai Wan gehört. Wir alle waren
-auf Sturz, Herr … Und die Prau diente uns als Wohnschiff
+Simra, die dem Sir Tai Wan gehört. Wir alle waren
+auf Simra, Herr … Und die Prau diente uns als Wohnschiff
 … Tai Wan ist ein guter Sir … Und er bezahlte
 viel und wir lieben ihn …«
 
 »Das muß wohl sein … — Jetzt aber wirst du uns begleiten
-und gehören, Opatu. Es gibt hier drüben eine
+und gehorchen, Opatu. Es gibt hier drüben eine
 große Bucht, in der viele Haifische eingesperrt sind und in
 der ein Felseninselchen liegt. Nimm deinen Kris mit. Du
 wirst uns die Haie vom Leibe halten. Wir werden nach der
@@ -2657,7 +2650,7 @@ zu erwähnen vergessen …«
 
 »Ja, Herr … es stimmt … — Mit den Haien werde
 ich schon fertig werden, Herr … Ich bin der beste Haischlitzer
-vom Golfe von ’Marar Seit
+vom Golfe von Marar …« —
 
 Nun — er hatte das bereits in der Bucht der Insel
 bewiesen … Und er bewies es jetzt aufs neue, als wir um
@@ -2665,14 +2658,14 @@ Mitternacht zur Westbucht geschlichen waren, dort die Fenster
 der einen Baracke noch erleuchtet gefunden hatten und daher
 keins der Boote stehlen konnten …
 
-Es hieß also schwimmen … Wir zogen am Ufer Faden,
+Es hieß also schwimmen … Wir zogen am Ufer Jacken,
 Schuhe und Hemden aus. Und so nahmen wir Opatu in die
 Mitte. Er hatte uns noch genaue Verhaltungsmaßregeln gegeben.
 Und daß Harst die Kniffe der Haischlitzer schnell weg
 hatte, konnte ich mit eigenen Augen beobachten.
 
-E? als: so Momente im Loben, die man nur verrät, Ei:
-vom hin für immer eingraviert bleibe … und zehn); eine
+Es gibt so Momente im Leben, die man nie vergißt, die
+dem Hirn für immer eingraviert bleiben … Und solch eine
 Szene war’s, als die Tiger des Meeres, obwohl wir leise
 <@pagebreak/>
 wie jagende Hechte schwammen, von allen Seiten herbeigeschossen
@@ -2682,43 +2675,43 @@ Kerl … Opatu war eine Nummer für sich … Kaum war
 eine der Bestien dicht heran, als er auch schon tauchte …
 Von hinten kam er stets an die Haie heran, und sein haarscharfer
 Kris fuhr durch die Weichteile des Bauches, daß
-die Viesenvieher sofort hochschnellten, schwer zurückholen, von
+die Riesenviecher sofort hochschnellten, schwer zurückfielen, von
 ihren lieben Freunden gepackt wurden — — vorbei! Acht der
 Ungetüme erledigte Opatu, und Zwei weitere kamen auf
 Harsts Konto. Dann waren wir glücklich auf dem Inselchen
 angelangt.
 
-Wir beide hatten es ja!Schon einmal durchsucht, und
+Wir beide hatten es ja Schon einmal durchsucht, und
 damals hatte Harald mich gründlich hinters Licht geführt,
 wie ich nun erst merken sollte, denn mein alter Harst zögerte
-hier in diesem Labyrinth von Blöken und Felszacken keinen
+hier in diesem Labyrinth von Blöcken und Felszacken keinen
 Augenblick, sondern geleitete Opatu und mich bis vor eine
 Steinwand, die sich zunächst durch nichts von dem anderen
-Gestein unterschied. Eis war da ein großes, flaches Stück
+Gestein unterschied. Es war da ein großes, flaches Stück
 von diesem Felsen abgesplittert, eine unregelmäßig geformte
 Platte, die scheinbar durch Menschenhand unmöglich zu bewegen
 war.
 
 Der helle Sternenschein und der Glanz der Mondsichel
-beleuchteten Haralds Hand, die mit eindrucksvoller Geste aus
-zwei blanke Rollen am oberen Rande der Platte deutete,
+beleuchteten Haralds Hand, die mit eindrucksvoller Geste auf
+zwei blanke Rollen am oberen Rande der Platte deutete.
 — »Handschweiß!!«
 
 Dann packte er die Platte an diesen Stellen mit beiden
 Händen und … keuchte vor Anstrengung.
 
-Sie rührte sich nicht … Wieder versuchte er’s. Roß!
-mit besserem Erfolg, denn die Platte rollte naß rechts —
+Sie rührte sich nicht … Wieder versuchte er’s. Jetzt
+mit besserem Erfolg, denn die Platte rollte nach rechts —
 nur eine halbe Drehung … Knirschend rieb sich Stein an
-Stein, und … links lag nun eine Öffnung im Felsen frei.
+Stein, und … links lag nun eine Öffnung im Felsen frei,
 der niedere Eingang eines schrägen Naturschachtes … —
 
-Weshalb den Leser weiter noch auf die Folter spannen«
-… Der Schacht wurde zur Höhle. und in dieser Höhle lagen
+Weshalb den Leser weiter noch auf die Folter spannen?
+… Der Schacht wurde zur Höhle, und in dieser Höhle lagen
 <@pagebreak/>
 beim Lichte eines Öllämpchens sechs Menschen auf Bastmatten
-… Fünf Chinesen und ein Europäer, alle mit Stahl« —
-fesseln und Ketten an die nahe Wand geschmiedet …
+… Fünf Chinesen und ein Europäer, alle mit Stahlfesseln
+und Ketten an die nahe Wand geschmiedet …
 
 Ein Europäer, — blond, bleich, stoppelbärtig, verwildert,
 mit flackernden Augen …
@@ -2726,41 +2719,42 @@ mit flackernden Augen …
 Sven Hindersen …
 
 Die Chinesen aber waren die Wärter der Haifischfarm,
-die Mitschuldigen Hindersens, die Wächter der drei Ballamoor Töchter
-…
+die Mitschuldigen Hindersens, die Wächter der drei
+Ballamoor-Töchter …
 
 Hindersen hatte uns sofort erkannt …
 
 »Harst …!!« — eine gebrochene Stimme, — und der Kopf
 sank ihm wieder auf die Brust …
 
-Wir aber war nun endlich, endlich alles klar geworden
-»… Glaubte ich … Tai Wan hatte den Schurken, den Mörder,
+Mir aber war nun endlich, endlich alles klar geworden
+… Glaubte ich … Tai Wan hatte den Schurken, den Mörder,
 den Erbschleicher, hier eingesperrt, hier an derselben
-Stadt?y, wo die Töchter Ballamoors gefangen gewesen …
+Stätte, wo die Töchter Ballamoors gefangen gewesen …
 So hatte Tai Wan, den verbrecherischen Nebenbuhler bestraft
-… Hi:
-»Sven Hindersen,« begann Harald, »hoffen Sie nicht,
-aß wir auch nur einen Finger rühren werden, Sie fragende
-wie. 5.65100
+…!
 
-Kam nicht weiter …?
+»Sven Hindersen,« begann Harald, »hoffen Sie nicht,
+daß wir auch nur einen Finger rühren werden, Sie irgendwie
+…«
+
+Kam nicht weiter …
 
 Dieser Hindersen war auch Komödiant … Dieser Elende
-Ratte es irgendwie fertiggebracht, seine Hand- und Fußschellen
+hatte es irgendwie fertiggebracht, seine Hand- und Fußschellen
 zu öffnen … Hatte nur auf die Gelegenheit gelauert, wo er
-glauben am Inselgestade ein Boot zu finden hoffte, das ihn
+draußen am Inselgestade ein Boot zu finden hoffte, das ihn
 zum Buchtufer hinüberbrachte, denn ohne Boot gab es von
 diesem Eiland kein Entrinnen … — Dieser Elende schnellte
-roch, jagte von dannen — durch den Stoß — ins Freie …
+hoch, jagte von dannen — durch den Schacht — ins Freie …
 Und Harst dicht hinter ihm … Harst brüllte noch: »Opatu,
 — die Chinesen bewachen!«
 
 Immerhin — Hindersen hatte doch vier Meter Vorsprung.
 
-Und als wir beide ihm nun, nachdem die Jagd sich eintrat
+Und als wir beide ihm nun, nachdem die Jagd sich einmal
 um das Inselchen herumgezogen hatte, immer näher
-Akten, — als er schließlich in seinem schmutzigen, zerfetzten
+rückten, — als er schließlich in seinem schmutzigen, zerfetzten
 <@pagebreak/>
 Leinenanzug, immer noch eine kraftstrotzende, schlanke Gestalt,
 einsam auf einer steilen Klippe stand, und drohend gegen uns
@@ -2778,14 +2772,14 @@ Bestie gegen Bestien … Sahen ihn die Steinkeule schwingen
 … Hörten den gellenden Schrei, als das Riesenuntier ihn
 packte … Harst schoß … schoß … traf … Und mit einem
 Male war Opatu neben uns — — war im Wasser, tauchte,
-schlitzte, tauchte, starr … Auch ich feuerte …
+schlitzte, tauchte, stach … Auch ich feuerte …
 
 Ein Boot nahte von den Baracken …
 
 Ins Boot zog man den toten Hindersen, dessen Brust
 noch in den Zahnreihen des Menschenhais steckte … Durchbohrt,
 zerquetscht, zerfleischt … Und der Schädel dieses
-Hals mit den drei Schußlöchern ist’s, der in Haralds Schlafzimmer
+Hais mit den drei Schußlöchern ist’s, der in Haralds Schlafzimmer
 hängt.
 
 Ein zweites Boot kam — mit Tai Wan, Ballamoor,
@@ -2796,18 +2790,16 @@ denke, Sir Ballamoor, daß Hindersens Tod den Dingen ein
 anderes Aussehen gibt. Sie und Tai Wan, der ihre Töchter
 befreite, wollten den Schurken nicht öffentlich bestrafen lassen.
 Sie beide vereinbarten das große Filmstück mit der Piratenprau,
-wollten aus Schraut und mich täuschen, inszenierten
+wollten auch Schraut und mich täuschen, inszenierten
 alles bis ins kleinste, damit alles ja recht echt wirke …
-
 Hindersen sollte eben verschwunden bleiben — für immer,
-für die ganze Welt … Ihre Leute, Tai Wan, waren arg
-richtige Komödianten … Am gelungensten war das Intermez3z30,
-
+für die ganze Welt … Ihre Leute, Tai Wan, waren prächtige
+Komödianten … Am gelungensten war das Intermezzo,
 als Schraut und ich gestippt wurden und die Piraten dann
 scheinbar vor dem Dampfer ausrissen und … die natürlich
 <@pagebreak/>
 noch lebenden sechs Tamilen mitnahmen und von dem Dampfer
-schleunigst an Bord geholt wurden, von dem »Seestern«
+schleunigst an Bord geholt wurden, von dem »Seestern«.«
 
 Ballamoor streckte Harald die Hand hin …
 
@@ -2818,7 +2810,7 @@ der öffentlichen Meinung getrost die Beurteilung dieses
 Ihres Vorgehens gegen Hindersen zu überlassen … Niemand
 wird Ihnen einen Vorwurf machen, glaube ich …
 Und Sie, Tai Wan, — — Sie wird man vielleicht sogar
-versenkten — mit Recht!! Jedenfalls wir, Tai Wan, sind
+verherrlichen — mit Recht! Jedenfalls wir, Tai Wan, sind
 Freunde für Lebenszeit …«
 
 Das Boot legte an … Tai Wan half Mary auf die
@@ -2841,8 +2833,8 @@ Wenn der Leser jetzt die Geschichte der Haifischfarm nochmals
 liest, wird er leicht herausfinden, was alles … Filmstück
 war und was nicht … Ein wenig Nachdenken schadet
 niemandem. Vielleicht gibt es in unserem folgenden Abenteuer
-sogar nahe mehr Gelegenheit, den eigenen Geist zu
-neben … Die Tätowierung der Honoria Gould gehört wirklich
+sogar noch mehr Gelegenheit, den eigenen Geist zu
+wetzen … Die Tätowierung der Honoria Gould gehört wirklich
 nicht zu den Alltäglichkeiten …
 
-Du Buchdruckerei: P. Lehmann G, in, b. H., Berlin so 36, Elisabeth-Ufer 44
+Du Buchdruckerei: P. Lehmann G. m. b. H., Berlin SO 36, Elisabeth-Ufer 44
