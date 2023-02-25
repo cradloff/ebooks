@@ -54,7 +54,7 @@ bisher nichts anhaben können. Jetzt haben mich andere
 Einflüsse an den Rand des Grabes gebracht. Von dem frischen,
 energischen Erik Ballamoor aus dem englischen alten Geschlechte
 der Ballamoors von Bellcastle, ist nur noch eine
-klägliche Ruine Übrig.
+klägliche Ruine übrig.
 
 > Um es kurz zu sagen: meine drei Töchter Mary, Dagny
 und Selma sind seit dem 12. Oktober verschwunden. An
@@ -65,7 +65,7 @@ von zwölf Mann, alles zuverlässige Malaien, auch
 Kapitän und Steuermann. Nachmittags kam ein kurzer, aber
 sehr heftiger Orkan auf. Nach drei Tagen fanden Fischer
 nördlich von Colombo am Strande Bruchstücke der Jacht,
-und wieder zwei Tage Drauf entdeckte ein Perlentaucher noch
+und wieder zwei Tage drauf entdeckte ein Perlentaucher noch
 weiter nördlich eine starke Planke, an deren krummen Nägeln
 sich Reste eines bastseidenen Frauenrockes und ein weiblicher
 Fuß, noch mit Schuh und Seidenstrumpf bekleidet, verfangen
@@ -75,7 +75,7 @@ Wannak den Halblackschuh wiedererkannte, als der
 meines jüngsten Kindes Mary zweifelsfrei festgestellt.
 
 > Ich war mit einem Schlage also kinderlos geworden, hatte
-drei Tote zu beklagen, die meines Lebens Inhalt gewesen,
+drei Tote zu beklagen, die meines Lebens Inhalt gewesen.
 
 > Der in der Mitte der Wade abgetrennte Fuß war den
 Haifischen entgangen. Mary war das einzige von meinen
@@ -584,7 +584,7 @@ Wir hatten nach einer halben Stunde festgestellt, daß die
 Haifisch-Bucht durchschnittlich zweihundert Meter breit, leicht
 gekrümmt und vielleicht achthundert Meter lang war. Wir
 standen jetzt am Nordufer unter einigen Palmen dicht vor den
-dicken Pfählen, die das Drahtnetz hier am Strande festhielten,
+dicken Pfählen, die das Drahtnetz hier am Strande festhielten.
 Es war ein sehr starkes Netz, ähnlich denen, die im Kriege
 gegen U-Boote verwendet wurden, nur weit engmaschiger. Es
 lief in die Tiefe hinab, ragte aber auch noch mindestens zwei
@@ -786,7 +786,7 @@ Dusel wie wir hat, kann sein Testament im
 Bauch eines Menschenhais schreiben …«
 
 <@pagebreak/>
-Dann Legte Harst mir plötzlich die Hand auf den nassen
+Dann legte Harst mir plötzlich die Hand auf den nassen
 Ärmel …
 
 »Achtung! Doch ein Mann!«
@@ -808,7 +808,7 @@ ist ein Chinese … Und er wird vielleicht sehr bald merken, daß
 dieses Eiland hier doppelt und dreifach gesichert ist …«
 
 Das Boot kam nun um die Biegung der Bucht auf
-Uns zu.
+uns zu.
 
 Der Chinese war vorsichtig. Als er noch fünfzig Meter
 entfernt war, ließ er die Riemen schleifen, bückte sich und …
@@ -830,7 +830,7 @@ Eilandes war angefüllt mit Felsblöcken und hell schimmernden
 hohen Steinzacken, auf denen Seevögel ihre Ruheplätze gehabt
 hatten, von deren Unrat das Gestein weiß übertüncht war.
 
-Der Chinese verschwand Zwischen den Blöcken. Vorher
+Der Chinese verschwand zwischen den Blöcken. Vorher
 hatten wir noch genau gesehen, daß er eine Repetierpistole
 <@pagebreak/>
 großen Formats entsichert und eine Weile prüfend nach den
@@ -1009,7 +1009,7 @@ Wir taten so, als ob Gallayo uns fremdes Gebiet sei, nur
 eine Bemerkung streute Harald ein …
 
 »Ah, Gallayo — — die Haifischfarm! Kapitän Svendsen
-Sprach davon, als wir mit dem Schoner in Sicht des Eilandes
+sprach davon, als wir mit dem Schoner in Sicht des Eilandes
 vorüberkamen …«
 
 Die Wirkung dieser Sätze auf den kribbeligen Sir Ballamoor
@@ -1198,7 +1198,7 @@ werden in dieser Sache noch Überraschungen erleben, daß
 Ihnen die Haare zu Berge stehen! — Jetzt zeigen Sie mir
 bitte mal das Blättchen Puderpapier …«
 
-Dieses Blättchen lag sauber zwischen Zwei Glasplatten.
+Dieses Blättchen lag sauber zwischen zwei Glasplatten.
 Man konnte die Worte der eingeritten Inschrift, die der Inspektor
 schon entziffert hatte, ohne große Mühe erkennen.
 Die fehlenden und völlig verwischten Worte, die erst Miß
@@ -1275,14 +1275,14 @@ Und auch auf einer 9, 10, 11, 12 manch 10, 11, 12 sich regt</p>
 Moudray las, las wieder …
 
 »Den Teufel, — das sollte man doch herauskriegen!«
-rief Er …
+rief er …
 
 »Natürlich — bei einiger Intelligenz, zumal Sie sich doch
 sagen müssen, daß das Rätselwort aufs innigste mit unserem
 Thema zusammenhängt … Und das Thema war das Blatt
 Puderpapier …«
 
-Moudray stöhnte vor geistiger Anstrengung
+Moudray stöhnte vor geistiger Anstrengung.
 
 Und ich schwitzte vor Nachdenken …
 
@@ -1367,7 +1367,7 @@ würdiger und vornehmer eingerichtet war als das Sir Ballamoors
 …
 
 Tai Wan musterte uns kühl, machte dann eine einladende
-Handbewegung nach Zwei Klubsesseln hin …
+Handbewegung nach zwei Klubsesseln hin …
 
 »Sie wünschen, meine Herren?«
 
@@ -1680,7 +1680,7 @@ Malaien kein anderes Boot mehr zur Verfügung haben. Sie
 können Nummer 3 nicht verlassen, und morgens haben wir
 sie, — hoffen wir …
 
-Um halb Zwölf ist die Boot vorübergezogen. Die helle
+Um halb zwölf ist die Boot vorübergezogen. Die helle
 Tropennacht erlaubt uns, sofort den Piraten nachzuspüren.
 Nummer 3 ist nur klein, kaum eine halbe Meile lang und
 etwas schmäler.
@@ -1753,7 +1753,7 @@ einen der Kutter benutzen.«
 
 »Das wohl …« Ich überlegte. Ob etwa die Jolle den
 Piraten zur Fortsetzung ihrer Flucht hatte dienen sollen?!
-Das plumpe Boot lag ja noch dort am Buchtufer
+Das plumpe Boot lag ja noch dort am Buchtufer.
 
 »Harald …«
 
@@ -1800,7 +1800,7 @@ verschwunden sein!« rief ich …
 Da schob er das Fernrohr zusammen, steckte es in die
 Manteltasche zurück. »Ja, es ist verschwunden, auch die Jacht.«
 
-»Welche Jacht? Der »Seestern« liegt doch dort Zwischen
+»Welche Jacht? Der »Seestern« liegt doch dort zwischen
 den Riffkränzen …«
 
 »Klettern wir zur Bucht hinab … Ich habe Durst …«
@@ -1868,7 +1868,7 @@ Deck der Prau serviert worden war, fast nichts genossen hatte.
 
 Jetzt nun große Beratung auf der Prau, was mit dieser
 <@pagebreak/>
-geschehen solle. Herr v. L. war für Verbrennen. Der Erste
+geschehen solle. Herr v. L. war für verbrennen. Der Erste
 Steuermann sprach dagegen. Es sei schade um das Schiff.
 Wenn man die unförmigen Deckaufbauten abreiße und einen
 Motor einbaue, gebe das Fahrzeug noch immer einen guten
@@ -1980,7 +1980,7 @@ Schlafmatten erkannten wir, daß hier elf Leute untergebracht
 waren. Dort, wo der schmale Gang des Vorschiffes an
 die Rückwand der Kombüse stieß, betrachtete Harald die
 Bretterverschläge sehr genau, flüsterte mir dann zu: »Etwa
-Zwei Meter fehlen an der Backbordseite. Die eine Kammer
+zwei Meter fehlen an der Backbordseite. Die eine Kammer
 ist kürzer. Es fällt wenig auf. Nun wollen wir den Vogel
 greifen.«
 
@@ -2052,7 +2052,7 @@ holen …« — Er winselte jetzt vor Angst …
 
 »Was hattest du vergessen?«
 
-Der Taucher, in Dessen Ledergurt ein langer, malaiischer
+Der Taucher, in dessen Ledergurt ein langer, malaiischer
 Kris ohne Scheide steckte, wand sich förmlich, als ob er
 Bauchgrimmen hätte.
 
@@ -2074,7 +2074,7 @@ Meer warf …«
 »Aha!!« Und Harald lachte leise … weshalb, begriff
 ich nicht … »Aha — — also du! Nun, dann scheinst du ja
 ein sehr anständiger Kerl zu sein … — Gut, wir wollen dich
-schonen. Du bleibst hier in deinem Versteckt. Wir bringen
+schonen. Du bleibst hier in deinem Versteck. Wir bringen
 dir Lebensmittel und Wasser, und sobald wir in Colombo
 sind, verschaffen wir dir eine Gelegenheit, daß du flüchten
 kannst. Die Jacht hat die Insel verlassen. Aber wir haben
@@ -2149,13 +2149,13 @@ dem bejahrten, seebefahrenen Tamilen. »Gib dem Mann
 am Ruder Befehl, daß er westlichen Kurs hält, sobald wir
 Kap Komorin hinter uns haben.«
 
-Candu machte Zwar ein erstauntes Gesicht, verneigte sich
+Candu machte zwar ein erstauntes Gesicht, verneigte sich
 jedoch nur und verschwand wieder.
 
 Wir saßen in den Bambusstühlen und rauchten die
 Verdauungszigarre.
 
-»Willst du etwa nach Gallayo?« fragte ich zögernd
+»Willst du etwa nach Gallayo?« fragte ich zögernd.
 
 »Natürlich …«
 
@@ -2258,7 +2258,7 @@ deutsch des Teufels Mütter, ist die treffende Bezeichnung für
 die Menschenhaie …
 
 In der Tat — draußen auf Deck war es ganz still geworden
-… Zuletzt hatte ich noch Zwei gellende Aufschreie
+… Zuletzt hatte ich noch zwei gellende Aufschreie
 gehört, und der letzte dieser in höchster Todesnot hervorgestoßenen
 Schreie klang mir ganz nachts Candu, dem alten
 Tamilen … Wir wurde es kühl um das Rückgrat herum.
@@ -2521,7 +2521,7 @@ Lump und Mörder und nun ein Unschuldslämmlein sein
 soll, kommt mir höchst fragwürdig vor. Ich könnte dir …«
 
 »Bitte — Opatu bereitet vielleicht schon ein Signal vor,
-Mein Alter … Verhüte, daß er uns den Spaß nicht verdirbt.«
+mein Alter … Verhüte, daß er uns den Spaß nicht verdirbt.«
 
 »Signal?! Also … also …«
 
@@ -2677,11 +2677,11 @@ Von hinten kam er stets an die Haie heran, und sein haarscharfer
 Kris fuhr durch die Weichteile des Bauches, daß
 die Riesenviecher sofort hochschnellten, schwer zurückfielen, von
 ihren lieben Freunden gepackt wurden — — vorbei! Acht der
-Ungetüme erledigte Opatu, und Zwei weitere kamen auf
+Ungetüme erledigte Opatu, und zwei weitere kamen auf
 Harsts Konto. Dann waren wir glücklich auf dem Inselchen
 angelangt.
 
-Wir beide hatten es ja Schon einmal durchsucht, und
+Wir beide hatten es ja schon einmal durchsucht, und
 damals hatte Harald mich gründlich hinters Licht geführt,
 wie ich nun erst merken sollte, denn mein alter Harst zögerte
 hier in diesem Labyrinth von Blöcken und Felszacken keinen
@@ -2837,4 +2837,4 @@ sogar noch mehr Gelegenheit, den eigenen Geist zu
 wetzen … Die Tätowierung der Honoria Gould gehört wirklich
 nicht zu den Alltäglichkeiten …
 
-Du Buchdruckerei: P. Lehmann G. m. b. H., Berlin SO 36, Elisabeth-Ufer 44
+Buchdruckerei: P. Lehmann G. m. b. H., Berlin SO 36, Elisabeth-Ufer 44
