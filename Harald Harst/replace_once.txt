@@ -54,6 +54,8 @@ t!	!!
 \bTeich!\b	leicht
 \bTer\b	Der
 \btieſ	tief
+\bdor!\b	dort
+\bstete\b	steckte
 \bvor!\b	dort
 \bwirft\b	wirst
 \bWir\.	Mr.
