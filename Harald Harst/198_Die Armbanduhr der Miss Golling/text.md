@@ -1,20 +1,13 @@
 <@pagebreak/>
 
-<@pagebreak/>
-<@pagebreak/>
-Harald Harst: Aus meinem Leben
-
-Die Armbanduhr der Miß Golling
-
-»= Erzählt von
-Max Schraut
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
-<h3>Der Feldrutsc..</h3>
+<h3>Der Feldrutsch.</h3>
 
 Die Ozeanflüge der beiden Amerikaner Lindbergh und
 Chamberlin hatten, da den kühnen, erfolgreichen Piloten von
-Filmgesellschaften und Bariceit&ädirektoren geradezu Unsummen
+Filmgesellschaften und Varietédirektoren geradezu Unsummen
 geboten worden waren, auch für uns Arbeit gebracht —
 unsere Arbeit: die Aufdeckung eines verbrecherischen, betrügerischen
 Unternehmens von einer Eigenart, wie dies in der
@@ -22,9 +15,9 @@ Geschichte der Kriminalfälle einzig dastehen dürfte,
 
 Ich möchte hier gleich betonen, daß dieser raffinierte
 Schwindel, der sich ist den Tagen des großen Chamberlin-Rummels
-abspielte, von den beteiligten Stellen bisher tot
-geschwiegen worden ist, Was die deutsche und die ausländische
-Presse darüber gebracht hat, wurde kaum beachtet,
+abspielte, von den beteiligten Stellen bisher totgeschwiegen
+worden ist. Was die deutsche und die ausländische
+Presse darüber gebracht hat, wurde kaum beachtet.
 Und doch steckte in der Tat eine Riesengaunerei, ein fast
 geistreich zu nennender Bluff dahinter. Der Leser wird mir
 recht geben, wenn er diese anspruchslose Schilderung gelesen
@@ -32,64 +25,64 @@ hat: geistreicher Bluff, der nur möglich war, weil …
 
 Doch nein, ich will nicht vorgreifen.
 
-Harst und ich waren am 2. Juni aus Indien zurück«
-gelehrt. Mein Freund Harald hatte sich in Bombay einen
-gilt leichten Choleraansall geholt, der ihn auch noch daheim
+Harst und ich waren am 2. Juni aus Indien zurückgekehrt.
+Mein Freund Harald hatte sich in Bombay einen
+ganz leichten Choleraanfall geholt, der ihn auch noch daheim
 <@pagebreak/>
-zu schaffen machte. Die Folgeerscheinungen: Mattigkeit, Niedergeschlagenheit,
-Darmstörungen und Schwädeanfälle mit
-EShweißaushch4en wollten nicht weichen.
+zu schaffen machte. Die Folgeerscheinungen: Mattigkeit,
+Niedergeschlagenheit, Darmstörungen und Schwächeanfälle mit
+Schweißausbrüchen wollten nicht weichen.
 
 So lag er denn auch am 8. Juni vormittags in Decken
 gehüllt auf unserer Veranda und starrte in den trüben
-RVegenhimmcl hin: ins. Ich hatte unseren Vierröhrenempfän«-
-Finger nebst Lautsprecher hier aufgebaut, damit unser Patient
-wenigstens etwas Zerstreuung hätte. Noch zehn Uhr meldete
-Berlin den Abflug Chaimberlins.
+Regenhimmcl hinaus. Ich hatte unseren Vierröhrenempfänger
+nebst Lautsprecher hier aufgebaut, damit unser Patient
+wenigstens etwas Zerstreuung hätte. Nach zehn Uhr meldete
+Berlin den Abflug Chamberlins.
 
 Harsts Ansicht über diese Rekordjagden über den Atlantik
 will ich hier nicht wiedergeben. Er, der selbst jeden Sport
 mit dem maßvollen Eifer des gereiften Mannes betreibt,
 war gegenüber diesen tollkühnen Unternehmungen kühl bis
-ans Herz hinan. —
+ans Herz hinan.
 
 »Schalte um,« sagte er plötzlich. »Vielleicht findest du
 eine Musikwelle … Ich denke, Kopenhagen oder Stockholm
 probiert einen neuen Sender aus … Gestern um diese Zeit
 war’s wenigstens so.«
 
-Sein blasses, mageres, mißmutiges Gesicht. das gelbbraun«-
-lich wie das eines Mestizen gefärbt war (Indiens Sonne
-hatte uns gehörig r 1hgedunkelt) belebte sich, als ich nach
+Sein blasses, mageres, mißmutiges Gesicht, das gelbbräunlich
+wie das eines Mestizen gefärbt war (Indiens Sonne
+hatte uns gehörig nachgedunkelt) belebte sich, als ich nach
 kurzem Einstellen wirklich klare Grammophonmusik erwischte.
 
 Es war Stockholm. Die Platte, die eben ablief, war
-die Lustspielouvertüre von Keller-Berg.
+die Lustspielouvertüre von Keler-Bela.
 
-Dann brachen die flotten Kiste 17h ab.
+Dann brachen die flotten Klänge jäh ab.
 
 Eine Stimme kam aus dem Trichter: schwedisch!
 
-»Soeben wird gemeldet, daß der zu! in Stockholm weilende
-Insofern Bruüuchstaller, ein Tau!Oh r mit einem!schwedischen
+»Soeben wird gemeldet, daß der hier in Stockholm weilende
+Ingenieur Bruchstaller, ein Deutscher mit einem schwedischen
 Lundström-Apparat morgen, Sonntag nachmittag sechs
-Uhr, zum Fluge nach Neriwnork Mr,;Piraten gedenkt.«
+Uhr, zum Fluge nach Neuyork aufzusteigen gedenkt.«
 
-Eine Weil: schwieg der Trichter
+Eine Weile schwieg der Trichter
 
-Dann: »Wir setzen unsere Geruch fort. Die soeben sei
-meldete? Absicht Prachtsaal!elf wird von den hiesigen Lundström«
-Werken widerrufen, da Ingenieur B:gestatten als Pilot
-für einen sollen Flug noch zu »verfahren scheint.«
+Dann: »Wir setzen unsere Versuche fort. Die soeben gemeldete
+Absicht Bruchstallers wird von den hiesigen Lundström-Werken
+widerrufen, da Ingenieur Bruchstaller als Pilot
+für einen solchen Flug noch zu unerfahren scheint.«
 
 <@pagebreak/>
-Schnappen Traten, Kreischen … Eine neue Platte:
-Hochzeilösmarsch aus dem Sommernachtstraum!
+Schnarren, Kratzen, Kreischen … Eine neue Platte:
+Hochzeitsmarsch aus dem Sommernachtstraum!
 
 Harald summte die Melodie mit. Unvermittelt sagte er:
 »Dieser Widerruf war merkwürdig begründet, mein Alter.«
 
-»Allerdings, denn die Lundström-Weile mußten doch über
+»Allerdings, denn die Lundström-Werke mußten doch über
 Bruchstallers Fähigkeiten oder über seine Unfähigkeit schon
 vorher unterrichtet sein.«
 
@@ -101,82 +94,83 @@ Winter. Sommer 1927!!
 
 Wir vergessen Bruchstaller
 
-Der Vormittag vertraut Y18 wir dann gerade bei
-Tisch sitzen, bringt die die »farblos eine Depesche.
+Der Vormittag verrinnt. Als wir dann gerade bei
+Tisch sitzen, bringt die dicke Mathilde eine Depesche.
 
 Harst liest, liest wieder …
 
 »Da — was meinst du?!« — und er reicht mir das
 Telegramm,
 
-»Palast Harst,
-Blücherstraße 10,
-Berlin-Schmargendorf.
+> »Harald Harst,
 
-Bitte Sie, hierher zu kommen. Brauche Sie notwendig.
-Eilt sehr. — Ihr alter Barholm.«
+<p class="right">Blücherstraße 10,</p>
+<p class="right">Berlin-Schmargendorf.</p>
 
-Graf Oskar Barholm ist ein guter Bekannter von uns.
-Auf seinen Besitzungen droben in Vorfand haben wir Neun:
-Tiere gejagt und Lüuch’e geschossen. Daß wir ihn nebenbei
-auch aus den Traten einer ganz geriebenen Erpresserbande
-befreiten, spricht kam Ohr mit. Wir sind Freunde. Seine
-Depesche kam aus Ei: klein, also wohnte er zur Sei! mal
-wieder in Dom all:en Familienhause der Erholung in de
-Fall Schritte-Satan.
+>Bitte Sie, hierher zu kommen. Brauche Sie notwendig.
+Eilt sehr. — Ihr alter Baxholm.«
 
-Ich schlanke  ist an. Er schiebt den Teller zurück. Sein:
-Flaggen haben Farbe bekommen.
+Graf Oskar Baxholm ist ein guter Bekannter von uns.
+Auf seinen Besitzungen droben in Norland haben wir Renntiere
+gejagt und Luchse geschossen. Daß wir ihn nebenbei
+auch aus den Krallen einer ganz geriebenen Erpresserbande
+befreiten, spricht kaum mehr mit. Wir sind Freunde. Seine
+Depesche kam aus Stockholm, also wohnte er zur Zeit mal
+wieder in dem alten Familienhause der Baxholms in der
+Karl Johanns-Gatan.
+
+Ich schaute Harst an. Er schiebt den Teller zurück. Seine
+Wangen haben Farbe bekommen.
 
 »Wir fahren also …« tippe ich sanft an
 
-»Natürlich. Barholm! Der wird und einer Lappalie w-:-
+»Natürlich. Baxholm! Der wird uns einer Lappalie wegen
 <@pagebreak/>
-gen nicht nach: Stockholm beten. Wir erreichen den Zwei-Mittag
+nicht nach Stockholm beten. Wir erreichen den Zwei-Uhr-Zug
 noch.« —
 
 Abends gegen zehn befinden wir uns schon in unserem
-Schlafwagenabteil des D-Zuges Malmö—Stottern.
+Schlafwagenabteil des D-Zuges Malmö—Stockholm.
 
 Harst sitzt mir gegenüber auf dem Bettrand und schnürt
 langsam die Schuhe auf. Seit wir Berlin verlassen haben,
-ist von Cholera»-Nachwehen bei ihm nichts mehr zu spüren. —
-»Ich wittere eine seine Sache, mein Alter,« sagte er vergnügt,
+ist von Cholera-Nachwehen bei ihm nichts mehr zu spüren. —
+»Ich wittere eine feine Sache, mein Alter,« sagte er vergnügt,
 als wir in Stettin das Wasserflugzeug bestiegen, das uns
-gerade uns zur rechten Zeit nach; Saßnitz zur Abfahrt des
+gerade uns zur rechten Zeit nach Saßnitz zur Abfahrt des
 Fährschiffes brachte.
 
 Jetzt aber, als der D-Zug in die Nacht hinausdampfte
-und das Voller der Räder und diese ganze eigentümliche
+und das Rollen der Räder und diese ganze eigentümliche
 Musik der dahinjagenden Wagen (heutzutage kann man alles
 Musik nennen!) uns angenehm einschläferte, war er plötzlich
 sehr einsilbig geworden.
 
-»Voran denkst du, Harald?«
+»Woran denkst du, Harald?«
 
-streifte den rechten Schuh ab.«
+Er streifte den rechten Schuh ab.
 
-»An den Wartesaal in Malmö … Als im mir vom
-kalten Büfett die 3 7a Abbeißen Lachs nahm, war sie da …
+»An den Wartesaal in Malmö … Als ich mir vom
+kalten Büfett die zwei Scheiben Lachs nahm, war sie da …«
 
-»Sie? Wer?« »Ja?/-
+»Sie? Wer?« 
 
-»War sie … wieder da, hätte ich sagen fallen. Eine
+»War sie … wieder da, hätte ich sagen sollen. Eine
 Dame … Sehr schick, sehr schlicht, sehr vornehm … Englischer
-Typ … — Sie war auch da, als der Zug von Trellesborg
-einlief, Sie stand am Ausgang … Und sie musterte
-die ’Reisenden wie ein Detektiv, — Entschuldige, daß mir
+Typ … — Sie war auch da, als der Zug von Trelleborg
+einlief. Sie stand am Ausgang … Und sie musterte
+die Reisenden wie ein Detektiv. — Entschuldige, daß mir
 dieses gräßliche Wort entschlüpft ist. »Detektiv« ist in Mißkredit
 geraten. Wenn du nur in deinen Niederschriften unserer
-kleinen Erlebnisse die vergessen und uns als Liebhaberdetektivs
+kleinen Erlebnisse dich vergessen und uns als Liebhaberdetektive
 bezeichnen wolltest. Es ist das ein …«
 
 »Harald — die Dame!« mahnte ich.
 
-»Ah so — ganz recht … Die Dame hatte Polizeiaugen
-oder VerbreHheraugen. Hm Grunde ist das ja dasselbe. Das
-Lauernde, Stehende, Hinterhältige des Blickes offenbart sich
-viele ist nur dem erfahrenen …«
+»Ach so — ganz recht … Die Dame hatte Polizeiaugen
+oder Verbrecheraugen. Im Grunde ist das ja dasselbe. Das
+Lauernde, Stechende, Hinterhältige des Blickes offenbart sich
+vielleicht nur dem erfahrenen …«
 
 <@pagebreak/>
 
@@ -184,116 +178,116 @@ viele ist nur dem erfahrenen …«
 
 »Nun gut, als diese lauernden Augen mich bemerken,
 als dieser Blick sich mit dem meinen kreuzte, wandte die
-Dame rasch den Kopf zur Seite. Eine Keeinigkeit … Belanglos,
-wenn nicht! nachher im Wartesaal dasselbe geschehen
+Dame rasch den Kopf zur Seite. Eine Kleinigkeit … Belanglos,
+wenn nicht nachher im Wartesaal dasselbe geschehen
 wäre und wenn nicht jetzt hier im Schlafwagen das Abteil
 Nummer 9 neben dem unsrigen von einer Dame belegt wäre
 — auch Dame, nur mit grauer Perücke und Reisemantel und
-ziemlich ungeschickten Schminkstricgen im Gesicht. Mit einem
-Vor!: dieselbe Frau! — Wir sind also in Malmö erwartet
-worden, ein Beweis, daß -Oskar Barholm irgendwie verraten
+ziemlich ungeschickten Schminkstrichen im Gesicht. Mit einem
+Wort: dieselbe Frau! — Wir sind also in Malmö erwartet
+worden, ein Beweis, daß Oskar Baxholm irgendwie verraten
 hat, an wen er depeschierte, — eine kapitale Dummheit, die
 schwer wieder gutzumachen ist.«
 
-Warne Zigarre schmeckte mir mit einem Male nicht mehr.
+Meine Zigarre schmeckte mir mit einem Male nicht mehr.
 
-Wenn Weiber mit im Spiele sind, hat ein nachts unbekanntes
-Problem stets »:was Gefährliches an sich — erfahrungsgemäß!
+Wenn Weiber mit im Spiele sind, hat ein noch unbekanntes
+Problem stets etwas Gefährliches an sich — erfahrungsgemäß!
 
-Harald kleidete sich weiter aus. »Ich habe absichtlich diese
-linke Bett gewählt … S. liege ich an der Verbindungswand
-nach Nummer 9 Sollte die Dame irgendwie uns verraten
-wollen, so wird sie wahrscheinlich in der aufbewahrten Weise
-vorgehen und ein Loche in die Holzwand bohren und uns
-durch eine Spritze und ein Betäubungsmittel August kampfunfähig
+Harald kleidete sich weiter aus. »Ich habe absichtlich dieses
+linke Bett gewählt … So liege ich an der Verbindungswand
+nach Nummer 9. Sollte die Dame irgendwie uns schaden
+wollen, so wird sie wahrscheinlich in der altbewährten Weise
+vorgehen und ein Loch in die Holzwand bohren und uns
+durch eine Spritze und ein Betäubungsmittel zunächst kampfunfähig
 machen. — Warten wir ab … Gute Nacht …«
 
-Er schlüpfte in seinem schwarzeidenen Schlafanzug nee
-die Deck« und überließ es mir, auf seinen Wink hin die Stoffhalbkugeln
+Er schlüpfte in seinem schwarzseidenen Schlafanzug unter
+die Decke und überließ es mir, auf seinen Wink hin die Stoffhalbkugeln
 über die Lampe zu klappen,
 
 In diesem Dreivierteldunkel sah ich von meiner Lagerstatt
-aus von ihm nur noch den in das Kisten gedrückten Kopf und
+aus von ihm nur noch den in das Kissen gedrückten Kopf und
 die glimmende Zigarette. Er rauchte, ohne sich zu bewegen,
-und wenn er Firma! kräftiger sog und die Spitze der Mirakulum
-warten ansah hie, unterschied ich auf seinen schmalen,
-hatten Mund uns »die Nasenspitze. Dann legte er den Zigarettenrest
-beiseite und rührte sich) nicht mehr.
+und wenn er einmal kräftiger sog und die Spitze der Mirakulum
+stärker aufglühte, unterschied ich auch seinen schmalen,
+harten Mund und die Nasenspitze. Dann legte er den Zigarettenrest
+beiseite und rührte sich nicht mehr.
 
-Will mir vielleicht jemand das KunststüFk bartloser
+Will mir vielleicht jemand das Kunststück vormachen
 <@pagebreak/>
-und unter sollen Umständen einschlafen …?! — Bitte!
+und unter solchen Umständen einschlafen …?! — Bitte!
 
 Ich dachte nur an die Frau, die »man« uns von Stockholm
 aus als Ehrengarde entgegengeschickt hatte.
 
 »Man« — — wer?!
 
-»Was hatte Barholm auf dem Herzen?! Seit zwei Jahren
-hatte unsere Freundschaft sich lediglich auf kurze Karten grüße
+»Was hatte Baxholm auf dem Herzen?! Seit zwei Jahren
+hatte unsere Freundschaft sich lediglich auf kurze Kartengrüße
 beschränkt. Was drohte ihm, dem schwerreichen, sportliebenden
 Junggesellen, der die ganze Welt als seine Heimat
-betrachtete. und der in gutem Sinne des Wortes »Inder
-Automat« war, dazu ein Mensch, der keiner Fliege was zuleide
-da!!
+betrachtete und der in gutem Sinne des Wortes »international«
+war, dazu ein Mensch, der keiner Fliege was zuleide
+tat!
 
 Und nun hier neben uns eine verkappte Feindin!
 
-Loche — Spitze — Betäubungsmittel …
+Loch — Spitze — Betäubungsmittel …
 
 Das konnte eine genußreiche Nacht werden!!
 
 Wurde es auch. Wir beide haben in der Eisenbahn, im
 Dampfer, im Flugzeug, in der Straßenbahn, in der Untergrundbahn,
 in Autos, Wagen und Sänften und Rikschas
-flog allerlei erlebt. Uns mit einem neuen Teil zu Leibe
-zu gehen: der Betreffende muß schon!sehr viel Phantasie
-besten!
+schon allerlei erlebt. Uns mit einem neuen Trick zu Leibe
+zu gehen: der Betreffende muß schon sehr viel Phantasie
+besitzen!
 
 Also — mit Schlafen — — Essig!, würde der Berliner
 sagen. Ich lag und beobachtete Harald.
 
-Aber die Jazzmusik des Zuges war stärker als ich. So«
+Aber die Jazzmusik des Zuges war stärker als ich. So
 allmählich wurden mir die Lider schwer, meine Gedanken
 verwirrten sich, und ich — — fuhr empor …
 
-Hm Dreivierteldunkel stand Harst über mein Bett gebeugt
-da und flüsterte mir ins Ohr: »Es ist Barholms
-Schwester … Du kennst sie. Die verwitwete Baronin Irre
-verklang. Sie hat ein Los in die Wand gebohrt, aber nur
-ein PaplterröllGen hindurchgeschoben. Ihre Handschrift kenne
+Im Dreivierteldunkel stand Harst über mein Bett gebeugt
+da und flüsterte mir ins Ohr: »Es ist Baxholms
+Schwester … Du kennst sie. Die verwitwete Baronin Freedensborg.
+Sie hat ein Loch in die Wand gebohrt, aber nur
+ein Papierröllchen hindurchgeschoben. Ihre Handschrift kenne
 ich, außerdem besagt der Inhalt des Zettels auch genug.
-Barholm hat keine kapitale Dummheit begangen, ist im See
+Baxholm hat keine kapitale Dummheit begangen, ist im 
 Gegenteil sehr vorsichtig gewesen, hat seine Schwester, die gerade
 in Kopenhagen bei Verwandten weilte, telegraphisch nach
 Malmö beordert, und ihr einen postlagernden Brief ebendorthin
 <@pagebreak/>
-geschickt. Dieser Brief war »Ein das Papierröllchen mit eingewickelt,
+geschickt. Dieser Brief war in das Papierröllchen mit eingewickelt,
 und der Inhalt, mein Alter, ist für uns eine Delikatesse.
 Doch davon später. Jetzt interessiert uns nur der
 Zettel der Baronin. Sie hat in Malmö drei Spione festgestellt
-— drei! Zwei Herren, eine Dame, und dieses Waffenaufgebot
-befinde! … sich in Kabine 6 und 7. Die Baronin
-schreibt, daß die drei bestimmt e:nen Anschlag auf uns versuchen
+— drei! Zwei Herren, eine Dame, und dieses Massenaufgebot
+befindet sich in Kabine 6 und 7. Die Baronin
+schreibt, daß die drei bestimmt einen Anschlag auf uns versuchen
 werden. Wir sollen auf keinen Fall einschlafen …
 Ich möchte den dreien nun zuvorkommen. Angriff ist die beste
 Verteidigung … Ich klettere jetzt zum Fenster hinaus und
 werde mich auf das Wagendach schwingen … Ich fürchte
 nämlich, daß die drei einen Gewaltstreich schlimmster Art
-planen … ck Eisenbahnattenta!! — Es geht eben um eine runde
+planen …: Eisenbahnattentat! — Es geht eben um eine runde
 Million Kronen … Und bekanntlich sind schon wegen weit
-geringerer Summen zah’’ose Menschenleben geopfert woran
+geringerer Summen zahllose Menschenleben geopfert worden
 …«
 
-»Hm ».!!l«
+»Hm …!!«
 
 »Du meinst, meine Phantasie arbeitet zu stark …«
 
-»30«…-
+»Ja …«
 
 »Warten wir ab, wer recht behält …«
 
-Er!Schoß die Oeltuhjalousie in die Höhe, ließ die Scheibe
+Er Schob die Öltuchjalousie in die Höhe, ließ die Scheibe
 Hinab … Kalter Regen peitschte in das Abteil.
 
 Ich saß aufrecht …
@@ -302,27 +296,27 @@ Harst war im Moment verschwunden.
 
 Die Regentropfen flogen bis auf mein Bett …
 
-Ich starrte in die Ernst- Luft hinaus …
+Ich starrte in die Finsternis hinaus …
 
 Hin und wieder huschte ein Licht vorüber … Die Porzellanisolatoren
-der Gelegt: phenstangen glitten wie weiße
+der Telegraphenstangen glitten wie weiße
 Vögel im Regennebel nach rückwärts …
 
 Ich fror … Und ich schämte mich, daß ich hier im sicheren
 Abteil hockte und den Freund allein draußen ließ in Ungewißheit
 und Gefahr …
 
-Wollte ihm nachts … War arm Fenster …
+Wollte ihm nachts … War am Fenster …
 
 Ein Fuß gleitet aus der Finsternis vor meinem Gesicht
 auf den Rand der Fensterscheibe …
 
 <@pagebreak/>
-Harst — etwas außer Atem … Ich helfe im …
+Harst — etwas außer Atem … Ich helfe ihm …
 
-Er stoßt mich beiseite …
+Er stößt mich beiseite …
 
-Reis! den Hebel der Notbremse herum …
+Reißt den Hebel der Notbremse herum …
 
 Die Bremsen kreischen …
 
@@ -335,48 +329,48 @@ Harald öffnet die Tür …
 Der Zug steht. Beamte eilen herbei …
 
 »Wir sind bestohlen worden,« erklärt Harst aufgeregt …
-»Es wo« jemand hier in unserem Abteil … Meine Brieftasche
+»Es war jemand hier in unserem Abteil … Meine Brieftasche
 ist mir unter dem Kopf hervorgezogen worden …«
 
-— Ich brauche hier wohl kaum »:uf die Feinheit dieser
-Erklärung Haralds besonders Zuzuleiten.
+Ich brauche hier wohl kaum auf die Feinheit dieser
+Erklärung Haralds besonders hinzuweisen.
 
 Die Beamten lassen sich unsere Ausweise zeigen. Der
 Name Harst genügt.
 
 So wird denn im Zuge auf den Dieb gefahndet, und dabei
-stellt sie? heraus, daß die Kabinen 6 und 7 leer sind. Die
+stellt sich heraus, daß die Kabinen 6 und 7 leer sind. Die
 drei Fahrgäste sind verschwunden, können nur abgesprungen
-sein, als der Zug vorhin die Steigung bei Längst langsam
+sein, als der Zug vorhin die Steigung bei Laargör langsam
 bezwang.
 
 Inzwischen haben wir den Zugführer beiseite genommen
 und uns diesem einen Beamten anvertraut. Er verspricht
-zu zuneigen.
+zu schweigen.
 
-»Sollen Sie die E’ sie vor ne absuchen,« Kahn! Harald.
-»Oder aber fahren Sie ganz vorsichtig Internieren Sie den
-Lokomotivführer. Sie können überzeugt so’n, daß entweder
-die Sei: nen irgendwo gefesselt oder traurige Vorbei Augen
-für ein Attentat ge’rofien sind«
+»Lassen Sie die Strecke vor uns absuchen,« mahnt Harald.
+»Oder aber fahren Sie ganz vorsichtig. Instruieren Sie den
+Lokomotivführer. Sie können überzeugt sein, daß entweder
+die Schienen irgendwo gelockert oder sonstige Vorkehrungen
+für ein Attentat getroffen sind.« —
 
-Es hat damals nur in schivndischen Zeitungen gestanden,
-daß dich? vor der Station Baark durch einen Bergrutsch die
-Schienen gesperrt waren und Lediglich durch einen ältlichen
-Zufall ein ungeheures Mattrot brutaler wurde,
+Es hat damals nur in schwedischen Zeitungen gestanden,
+daß dicht vor der Station Baark durch einen Felsrutsch die
+Schienen gesperrt waren und Lediglich durch einen glücklichen
+Zufall ein ungeheures Unglück verhütet wurde. —
 
-Die Felsmassen wurden von dem Znuapersonal und den
-Fahrgästen in einer halben Etui?e beseitigt Dann setzte der
+Die Felsmassen wurden von dem Zugpersonal und den
+Fahrgästen in einer halben Stunde beseitigt. Dann setzte der
 D-Zug seine Fahrt ohne weiteren Zwischenfall fort. Die
 <@pagebreak/>
-von der Station Baark aus tglegraphisH veranlaßte Verfolgung
+von der Station Baark aus telegraphisch veranlaßte Verfolgung
 der entflohenen »Diebe (Diebe — — angeblich!) blieb
 erfolglos. Bei unserem Eintreffen in Stockholm wurde uns
-von einem Polizeikommissar ledigliHm unserer:t, daß die drei
-Flüchtlinge anscheinend bei Längst von einem Auto aufgenommen
+von einem Polizeikommissar lediglich mitgeteilt, daß die drei
+Flüchtlinge anscheinend bei Laargör von einem Auto aufgenommen
 worden seien.
 
-Harst gab selten Verlust kühn und der auf achthundert
+Harst gab seinen Verlust kühn und keck auf achthundert
 Kronen an.
 
 So verhütete er, daß die große Betrügerbande sich vorzeitig
@@ -384,27 +378,27 @@ durchschaut sah.
 
 <h2>2. Kapitel.</h2>
 
-Wir saßen zu vieren in Barholms feudalem Herrenzimmer.
+Wir saßen zu vieren in Baxholms feudalem Herrenzimmer.
 Wir hatten soeben gefrühstückt, und dabei über
 Theater, Wetter, Lindbergh, China und England-Moskau
 geredet. Geredet — um zu reden.
 
-+« Nun waren wir hier im Herrenzimmer vor Diensteifer
+Nun waren wir hier im Herrenzimmer vor Dienerohren
 sicher. Die Baronin Freedensborg reichte Zigaretten und
 Liköre.
 
-Barholm begann mit all seiner abgeklärten Ruhe …
+Baxholm begann mit all seiner abgeklärten Ruhe …
 
 »Lieber Harst, Sie haben ja bereits den an meine
 Schwester gerichteten Brief gelesen … Ich will Ihnen und
 Schraut nun diese etwas knappen Angaben ergänzen. —
-Vor zwei Wochen lernte ich im hiesigen AeroKlub diesen
-Ingenieur Felix Bruchstaller kennen. Der Mann ist Gentsleman,
+Vor zwei Wochen lernte ich im hiesigen Aero-Klub diesen
+Ingenieur Felix Bruchstaller kennen. Der Mann ist Gentleman,
 sagte ich mir. Aber — es war Blendwerk … Der
 Mann spöttelte stets über die geplanten Ozeanflüge, tat so,
 als ob er all diese tollkühnen Leute unschwer übertrumpfen
 könnte, wenn man ihm nur Gelegenheit dazu böse. Eines
-Abends erklärte da der Direktor der Lundström Werke, er
+Abends erklärte da der Direktor der Lundström-Werke, er
 wolle Bruchstaller eine neue Maschine zur Verfügung stellen.
 Der Ingenieur nahm dankend an. Bruchstaller behauptete, die
 Strecke bis Neuyork in dreißig Stunden zurücklegen zu können.
@@ -418,153 +412,154 @@ die Million gehören, wenn nicht, so hatte er jedem von uns
 zehntausend Kronen zu zahlen. Die Wette wurde ganz sachlich
 behandelt. Wir sechs hinterlegten die Million bei einer
 Bank, und Bruchstaller tat dasselbe mit seinen sechzigtausend
-Kronen. Falles war in bester Ordnung. Heute, Sonntag
+Kronen. Alles war in bester Ordnung. Heute, Sonntag
 nachmittag sechs Uhr sollte der Ingenieur starten. Aber inzwischen
 hatte sich der Direktor der Lundström-Werke unter
-der Hand nach diesem Herrn Felix Bruchstaller genauer elf
-Endigt, und so kam heraus, daß der Ingenieur nicht nur
-weder ein Piloteneramen abgelegt, noch Ingenieur war —
+der Hand nach diesem Herrn Felix Bruchstaller genauer erkundigt,
+und so kam heraus, daß der Ingenieur nicht nur
+weder ein Pilotenexamen abgelegt, noch Ingenieur war —
 Sondern ein bereits vorbestrafter früherer Mechaniker aus …
 Berlin, vorbestraft wegen Körperverletzung allerdings nur.
 — Von uns zur Rede gestellt, erklärte der Gentleman, er sei
-Zwar mal Mechaniker gewesen, habe ein dann aber selbst Felsgebildes
+Zwar mal Mechaniker gewesen, habe sich dann aber selbst fortgebildet
 und habe ein gutes Recht, sich Ingenieur zu nennen.
 Ob wir ihn denn nicht als gleichstehend betrachtet hätten?! —
-Das stimmte freilich. — Und seine Bootsleute — was bedeute
+Das stimmte freilich. — Und seine Vorstrafe — was bedeute
 eine betrunkene Geschichte, die mit zwei Wochen Gefängnis
-geendet habe?! — Au das stimmte … — Trotzdem wollten
+geendet habe?! — Auch das stimmte … — Trotzdem wollten
 wir natürlich die Wette rückgängig machen, zumal ja auch
-die Lundstr6m-Werke einem ungeprüften Piloten keine Maschine
+die Lundström-Werke einem ungeprüften Piloten keine Maschine
 anvertrauen mochten. — So lagen die Dinge vorgestern,
 Freitag abend …«
-Barholm kippte einen Likör hinab.
+
+Baxholm kippte einen Likör hinab.
 
 »Ja — vorgestern abend im Klub … Die Aufregung
-dort können Sie sich vorstellen. Vor einzig hundeschnäuzige
-— verzeih« den Ausdruck, Schwester blieb Bruchstaller.
+dort können Sie sich vorstellen. Der einzig hundeschnäuzige
+— verzeih’ den Ausdruck, Schwester — blieb Bruchstaller.
 
-Er stand mitten unter uns, b’on« schnitt, elegant, lächelte
-ironisch; den Direktor der Lundström-Werke an … »Wenn
+Er stand mitten unter uns, blond, sehnig, elegant, lächelte
+ironisch den Direktor der Lundström-Werke an … »Wenn
 Sie mir keine Maschine überlassen, werde ich sie Ihnen
-»abkaufen …«
+abkaufen …«
 
 <@pagebreak/>
 »Das wirkte wie ein eisiger Wasserstrahl auf uns … —
 Sie werden Bruchstaller ja persönlich kennen lernen, Harst.
 Der Mann imponiert. Der Mann ist unbedingt ernst zu nehmen.
-— Dann wandte er sich an mich. »Herr (Graf, ich verziHMte
-auf die Worte mit Ihnen und Ihren Freunden. Ich
+— Dann wandte er sich an mich. »Herr Graf, ich verzichte
+auf die Wette mit Ihnen und Ihren Freunden. Ich
 werde als Deutscher für Deutschland den Rekord aufstellen. —
-Ich … hatte die Ehre, meine Herren …«
+Ich … *hatte* die Ehre, meine Herren …«
 
 »Verbeugt sich vor uns — will den Klub verlassen … —
-Ich bitte ihn zu bleiben. Wie gesagt, der Wann gefiel mir
-»-. immer mehr. Als Persönlichkeit, wenn im ihn auch für
-einen Schwindler und Hokhstapler hielt. Er gefiel mir so
+Ich bitte ihn zu bleiben. Wie gesagt, der Mann gefiel mir
+… immer mehr. Als Persönlichkeit, wenn ich ihn auch für
+einen Schwindler und Hochstapler hielt. Er gefiel mir so
 sehr, daß ich dafür sorgte, daß die Wette bestehen blieb.
 Aber — ich depeschierte an Sie, lieber Harst, damit Sie sich
 dieses seltene Gewächs von Ingenieur einmal in der Nähe
 ansehen sollten. Gleichzeitig gingen an meine Schwester Brief
 und Telegramm ab …«
 
-»Weshalb?« warf Harst 1;…hochhielt ein.
+»Weshalb?« warf Harst interessiert ein.
 
-Barholm machte ein sehr ernstes Gesicht.
+Baxholm machte ein sehr ernstes Gesicht.
 
-»Welt ich schon am Donnerstag gemerkt hatte, daß ich auf
-Schritt und Tritt von mehreren Leuten beobachtet wurde, Ich
-ließ jedoch diese Kerle in dem Glauben, sie seien mir nicht aufs
-gefallen. Deshalb die Depesche an Karla, — damit Sie gewarnt
+»Weil ich schon am Donnerstag gemerkt hatte, daß ich auf
+Schritt und Tritt von mehreren Leuten beobachtet wurde. Ich
+ließ jedoch diese Kerle in dem Glauben, sie seien mir nicht
+aufgefallen. Deshalb die Depesche an Karla, — damit Sie gewarnt
 würden. Und — — Gott sei Dank traf ich damit das
-Reichte. Der D-Sang ist nicht entgleist.!«
+Rechte. Der D-Zug ist nicht entgleist …!«
 
-Harald strich die Asche seiner Zigarette an der Onyx.
-Schale ab, »Sie bringen also diese drei Leute aus den
-&. ihnen 6, und 7 »mit Bruchstaller und den »Kerlen«, die
-Hintut Ihnen her waren, in Verbindung …?«
+Harald strich die Asche seiner Zigarette an der Onyxschale
+ab. »Sie bringen also diese drei Leute aus den
+Kabinen 6 und 7 mit Bruchstaller und den »Kerlen«, die
+hinter Ihnen her waren, in Verbindung …?«
 
 »Ja!«
 
-Harst schüttelte den Kopf. »Zu schnell kombiniert, Baxrbolm!
+Harst schüttelte den Kopf. »Zu schnell kombiniert, Baxholm!
 Wo sind die Beweise?«
 
 »Nur Bruchstaller hat ein Interesse an meinem Tun«
 
-»Glauben € ich! Eine andere Frage. »Deshalb hat:’n
-Sie diesen Inge! ur für einen Schwindler un »Mond Sie ihn
-anderseits als Gentleman und Persönlich? »ist Holsteiner?!«
+»Glauben *Sie*! Eine andere Frage. »Weshalb halten
+Sie diesen Ingenieur für einen Schwindler während Sie ihn
+anderseits als Gentleman und Persönlichkeit bezeichnen?!«
 
 <@pagebreak/>
-»Gefühlssache, lieber Harst, —. Menschenkenntnis, Welterfahrung
-…
+»Gefühlssache, lieber Harst, — Menschenkenntnis, Welterfahrung
+…«
 
-»Hm, 1 — Wie denken Sie sich’s, daß Bruchstaller mit
+»Hm …! — Wie denken Sie sich’s, daß Bruchstaller mit
 diesem geplanten Ozeanflug einen Schwindel inszenieren und
 Sie etwa um die Million betrügen könnte?!«
 
-»Das so:her ja gerade Sie herausfinden … Für solche
+»Das sollen ja gerade Sie herausfinden … Für solche
 Dinge sind Sie zuständig, bester Harst. Ich bleibe dabei:
-dieser Felix Bruchstaller ist ein Gauner ganz seltenen Ruhebett!
-Ein Beerdigten für Sie!!’
+dieser Felix Bruchstaller ist ein Gauner ganz seltenen Kalibers!
+Ein Leckerbissen für Sie!!«
 
 Wieder schüttelte Harst leicht den Kopf …
 
 »So, wir Sie mir den Mann geschildert haben, traue
-ich es ihm« nicht zu, nur degshalb ein Zugunglüd herbeizuführen,
-um vielleicht zwei Menschen, Schraut und mich, Film
-unbequem werden könnten, um die Ecke zu dringen,
-Bedenken Sie, Barholm, — die Chance, daß bei einer Eisenbahnkatastrophe
+ich es ihm nicht zu, nur deshalb ein Zugunglück herbeizuführen,
+um vielleicht zwei Menschen, Schraut und mich, die
+ihm unbequem werden könnten, um die Ecke zu bringen.
+Bedenken Sie, Baxholm, — die Chance, daß bei einer Eisenbahnkatastrophe
 gerade zwei bestimmte Personen mit zu den
-Toten oder Schwuhrverlezten gehören werden, ist doch sehr
-»gering — sehr! Ein Mann, der die Kühnheit besitzt, den
-Atlantik überstiegen zu wollen, um mit einem Schlage reich
+Toten oder Schwerverletzten gehören werden, ist doch sehr
+gering — sehr! Ein Mann, der die Kühnheit besitzt, den
+Atlantik überfliegen zu wollen, um mit einem Schlage reich
 zu werden …«
 
-»Ab — sehen Sie, Harst, also aufs Sie halten die Million
-für das Wesentlichste,/« unterbra&ck der Graf Harald aufs
+»Ah — sehen Sie, Harst, also auch Sie halten die Million
+für das Wesentlichste,« unterbrach der Graf Harald aufs
 lebhafteste.
 
 »Gewiß. Die Wette hat er herausgefordert. — Also ein
-sollen Mann von hohem persönliczkem Mut hätte es doch
-aus nur unter ganz bestimmten Umständen nötig, mich zu
+solchen Mann von hohem persönlichem Mut hätte es doch
+auch nur unter ganz bestimmten Umständen nötig, mich zu
 fürchten. Jedenfalls sind die Dinge bisher so vollkommen
 ungeklärt, daß ich überhaupt noch nichts — weder für noch
 gegen Bruchstaller — äußern will. Ich betone nur: Wenn
-Sie, Barholm, lediglich gefühlsmäßig den Mann für einen
-Schwindle« halten, tun Sie ihm vielleicht bitter unrecht. —
-Nun etwas anderes, Hat Bruchstaller einen Lundström-Eindecker
+Sie, Baxholm, lediglich gefühlsmäßig den Mann für einen
+Schwindler halten, tun Sie ihm vielleicht bitter unrecht. —
+Nun etwas anderes. Hat Bruchstaller einen Lundström-Eindecker
 neuesten Typs gekauft?«
 
-»32. Gestern, Sonnabend nachmittag — gekauft und bar
+»Ja. Gestern, Sonnabend nachmittag — gekauft und bar
 bezahlt.«
 
 <@pagebreak/>
 »Gedenkt er den Flug heute anzutreten — allein oder
 mit Begleiter?«
 
-»Schuhe, lieber Harst, Die Zeit will er mir noch) mitteilen.
-Als Begleiterin nimmt er eine überaus sporteifrige Ernst
+»Heute, lieber Harst. Die Zeit will er mir noch mitteilen.
+Als Begleiterin nimmt er eine überaus sporteifrige
 Engländerin mit, eine Miß Mabel Golling, die bis zum 1. Juni
-im Hause des Direktors der Lundström Werke Erzieherin war
-und jetzt des Ingenieurs »Verlobte ist.«
+im Hause des Direktors der Lundström-Werke Erzieherin war
+und jetzt des Ingenieurs Verlobte ist.«
 
 »So … so!!« Und Harst wiegte wieder nachdenklich
 den Kopf hin und her. »Seine Braut also … In der Tat
 eine merkwürdig undurchsichtige Geschichte. — Wo ist die
-Million deponiert?«.
+Million deponiert?«
 
 »In der Schwedischen Nationalbank — auch Bruchstallers
 60&nbsp;000 Kronen. Um es gleich zu sagen, Harst: an die Million
-kommt Bruchstaller nicht! heran, — falls Sie eben vermuten, er
-könnte sich als Bankräuber versuchen wollen … Die Nationalsbank
-hat ganz moderne Tresors Da ist nichts zu machen.«
+kommt Bruchstaller nicht heran, — falls Sie eben vermuten, er
+könnte sich als Bankräuber versuchen wollen … Die Nationalbank
+hat ganz moderne Tresore. Da ist nichts zu machen.«
 
-»Hm — zu machen ist alles, bester Barholm … Ich werde
-nun mit Schraut ein wenig das Terrain sondieren. Sie erste.
-Entschuldigen uns … Wir sind in spätestens drei Stunden
+»Hm — zu machen ist alles, bester Baxholm … Ich werde
+nun mit Schraut ein wenig das Terrain sondieren. Sie 
+entschuldigen uns … Wir sind in spätestens drei Stunden
 wieder hier …«
 
-Es klopfte. Barholms alter Diener trat ein.
+Es klopfte. Baxholms alter Diener trat ein.
 
 »Herr Graf, Herr Ingenieur Bruchstaller bittet um eine
 kurze Unterredung … Ich habe den Herrn in den Salon
@@ -572,18 +567,18 @@ geführt.«
 
 Wir schauten uns an.
 
-»Gut, Holger, ich komme sofort,« nickte Barholm.
+»Gut, Holger, ich komme sofort,« nickte Baxholm.
 
-Holger verboeugte sich und ging.
+Holger verbeugte sich und ging.
 
-Harst erhob sich. »Wärterin, Sie werden uns Bruchstaller
-vorstellen. Sie werden aus erwähnen, daß Sie uns zu längerem
-Besuch einzjeiaden haben. Die hiesigen Zeitungen
-werden ja Dom berichten, daß Tatort H’rst im De 7ug Wärmste
-fholm … bestohlen worden ist. Wir wollen den Mann,
-sei ii. wer er sei, »ht mißtrauisi«:.achten,«
+Harst erhob sich. »Baxholm, Sie werden uns Bruchstaller
+vorstellen. Sie werden auch erwähnen, daß Sie uns zu längerem
+Besuch eingeladen haben. Die hiesigen Zeitungen
+werden ja Doch berichten, daß Harald Harst im D-Zug Malmö-Stockholm
+… bestohlen worden ist. Wir wollen den Mann,
+sei er, wer er sei, nicht mißtrauisch machen.«
 
-In dem »Prachttier Salon »gute am großen Erkerfenster
+In dem altmodischen Salon lehnte am großen Erkerfenster
 ein schlanker, blonder, bartloser Herr von etwa dreißig
 <@pagebreak/>
 Jahren mit einem schmalen, energischen Gesicht, grauen,
@@ -591,33 +586,32 @@ kühlen Augen und einer kühn geschweiften Nase,
 
 Das war Felix Bruchstaller, der Gentleman und Leckerbissen.
 Gentleman — stimmte. Tadellose Umgangsformen,
-offenen, scharfen Blick, ruhige Sprache, größte Selbstbeherr«-
-ging.
+offenen, scharfen Blick, ruhige Sprache, größte Selbstbeherrschung.
 
 Wir vier nahmen Platz. Die Baronin war im Herrenzimmer
-geblieben, Die Unterhaltung wurde in deutscher
+geblieben. Die Unterhaltung wurde in deutscher
 Sprache geführt und drehte sich fast ausschließlich um den
 geplanten Ozeanflug. Bruchstaller erklärte, er habe sich sein
 Vorhaben doch noch einmal gründlich überlegt, und beabsichtige,
 seine neue Maschine erst zu erproben, bevor er starte.
 
-»…- Wenn ich allein die Fahrt antreten könnte, würde
+»… Wenn ich allein die Fahrt antreten könnte, würde
 ich nicht so vorsichtig sein. Da aber meine Braut darauf besteht,
-mich zu begleiten, habe ich Aussichten zu nehmen. Mein
+mich zu begleiten, habe ich Rücksichten zu nehmen. Mein
 eigenes Leben kann ich wohl aufs Spiel setzen, nicht aber das
-mir teuren Wesens. In Malaie Interesse werde ich zunächst
+mir teuren Wesens. In Mabals Interesse werde ich zunächst
 mehrere Probeflüge machen, und der Start kann sich daher
 um zwei oder drei Tage verschieben. Tag und Stunde bestimme
 ich dann also später, Herr Graf.«
 
 Bruchstaller war in seinem ganzen Benehmen sehr zurückhaltend,
-blieb auch kühl und unnahbar, obwohl Barholm
+blieb auch kühl und unnahbar, obwohl Baxholm
 den Liebenswürdigen spielte. Für Harst und mich hatte der
-Ingenieur nur ein paar höfliche RedenZ3arten. Wir waren
+Ingenieur nur ein paar höfliche Redensarten. Wir waren
 ihm scheinbar absolut gleichgültig.
 
-Sein Besucht währte kaum zehn Minuten. Er vergaß.
-sHiedete sich ebenso formell, reichte jedoch Harald und mir
+Sein Besucht währte kaum zehn Minuten. Er verabschiedete
+sich ebenso formell, reichte jedoch Harald und mir
 die Hand und sagte noch, er habe sich gefreut, hier zwei
 Landsleute zu treffen.
 
@@ -629,35 +623,35 @@ Graf uns fragend an.
 Ich zuckte die Achseln. »Ein sehr verschleierter Charakter,«
 erklärte ich.
 
-Harst Kiste. »Vielleicht ein perfekter Komödiant …
+Harst nickte. »Vielleicht ein perfekter Komödiant …
 <@pagebreak/>
-Über sympathische … Auch Hochstapler können uns gefallen.
--» Barholm, Bruchstaller hat doch bereits Lundström-Apparate
+Aber sympathisch … Auch Hochstapler können uns gefallen.
+— Baxholm, Bruchstaller hat doch bereits Lundström-Apparate
 geflogen?«
 
-»Und ob! Wenn er zu kein geprüfter Pilot ist: er versteht
-seinen Kram! Die Konkurrenzfirma vor Lundström«
-Werke hat ihm bereits glänzende Anerbietungen gemacht.«
+»Und ob! Wenn er auch kein geprüfter Pilot ist: er versteht
+seinen Kram! Die Konkurrenzfirma der Lundström-Werke
+hat ihm bereits glänzende Anerbietungen gemacht.«
 
-»Ist er auch schon mit dem neuesten Typ aufgestiegen 7?«
+»Ist er auch schon mit dem neuesten Typ aufgestiegen?«
 
-»Ja, mehrfach!,:=… Freilich wohl nicht mit der Maschine,
+»Ja, mehrfach! … Freilich wohl nicht mit der Maschine,
 die er jetzt gekauft hat. Sie hat einen besonders starken
 Motor und verschiedene Verbesserungen.«
 
-»Wo wohnt Bruchstaller?’
+»Wo wohnt Bruchstaller?«
 
-»Er hat sich im Stangen-Naturpark bei einem Aufseher
-eingemietet. Sie kennen Stangen ja … Dort, wo das Lappländerdorf
+»Er hat sich im Skansen-Naturpark bei einem Aufseher
+eingemietet. Sie kennen Skansen ja … Dort, wo das Lappländerdorf
 steht, wohnt der Aufseher Guldnar,«
 
-»Danke … — Jetzt entschuldigen Sie uns, Barholm
+»Danke … — Jetzt entschuldigen Sie uns, Baxholm
 … Der Fall beginnt mich zu interessieren.«
 
-»So?! Und wegshalb?«
+»So?! Und weshalb?«
 
 »Weil Bruchstaller die Abreise hinausschiebt …« Und
-Harst lächelte sein. »Wollen wir wetten, Barholm, daß aus
+Harst lächelte fein. »Wollen wir wetten, Baxholm, daß aus
 den zwei Tagen Frist sechs Tage werden? Bestimmt sechs!«
 
 Der Graf lachte. »Wie wollen Sie das wissen, Harst?!
@@ -667,7 +661,7 @@ Sechs?! Warum?!«
 
 »Was vermuten Sie?!«
 
-»Denken Sie an die Million, Barholm. — Auf Diebereien
+»Denken Sie an die Million, Baxholm. — Auf Wiedersehen
 …«
 
 Wir begaben uns nach oben auf unsere Zimmer.
@@ -797,12 +791,12 @@ daß sie ein solch;es Buch studiert …«
 nicht mit einer Jacht. Aber das ist ja alles gleichgültig …
 Jahren wir nach den Lundströmwerken hinaus. Und wenn du
 mich lieb hast, mein Alter, beherrsche Ei und frage nicht
-überflüssige Dinge. Ich habe natürlich auch« vor Barholm
+überflüssige Dinge. Ich habe natürlich auch« vor Baxholm
 und seiner Schwester geschhauspielert … Das Eisenbahnattentat
 kommt auf Bruchstallers Konto und galt uns, Die Baronin
 hatte in Malmö ganz richtig beobachtet: die beiden
 Herren und die Dame 4us Schlafkabinen 86 und 7 interessierten,
-sich nur für uns. Und im Hause Barholms befindet sich«
+sich nur für uns. Und im Hause Baxholms befindet sich«
 fraglos ein Spion dieser Genossenschaft mit unbeschränkter
 Unternehmungslust ein Spion, der von der Depesche an
 uns wußte und die Meldung weitergab … Wir werden den
@@ -884,12 +878,12 @@ gaben uns zu Fuß zur Stadt zurück.
 
 Bruchstaller gab sich auch jetzt vollkommen harmlos, Er
 hätte wohl jeden getäuscht. Er war in der Tat eine Delikatesse.
-Darin hatte. Freund Barholm schon recht,
+Darin hatte. Freund Baxholm schon recht,
 
 In der ironisches l b:.alten Karbol uns-Straße trennten
 wir uns wie alte Bekannte: Händedruck — — auf Wiedersehen!
 
-Wir beide stiegen zu unseren Gastzimmern im Barholms
+Wir beide stiegen zu unseren Gastzimmern im Baxholms
 eben Hause empor. Es war halb drei Uhr nachmittags, und
 wir mußten uns schleunigst zum Diner umziehen. In dieser
 Hinsicht war der Graf ganz Kavalier der alten Schule: zum
@@ -909,7 +903,7 @@ festen Schlaf,
 
 Bevor ich nun die weiteren Ereignisse dieses Sonntags,
 keck 5. Juni, schildere, will im ganz kurz die Lage unserer
-Zimmer im zweiten Stock des altertümlichen Barholm-Hauses
+Zimmer im zweiten Stock des altertümlichen Baxholm-Hauses
 <@pagebreak/>
 beschreiben. Wir hatten ein gemeinsames Wohnzimmer mit
 Bad daneben zur Verfügung. Die vier Fenster beider Räume
@@ -1015,7 +1009,7 @@ Fesseln und wollte sich wieder, zurückziehen.
 Vielleicht würde es Ihnen gelingen, ihn umzustimmen, und
 das wäre für uns ein zu großes Risiko, Sie beide etwa am
 Leben zu lassen, nachdem es uns so gut geglückt ist, Sie aus
-Barholms Haus fortzuschaffen.«
+Baxholms Haus fortzuschaffen.«
 
 Sie Annahm mit einer raffiniert boshafter Kaltschnäuzigkeit.
 Sie war eine brutale Bestie, schlimmer als Bruchstaller,
@@ -1043,7 +1037,7 @@ Lachen … »Und Sie werden uns nicht dabei stören, Herr
 Harst. Niemand wird gegen uns Verdacht schöpfen, denn in
 Ihrem Wohnzimmer bei Burgherrn lag ein Zettel mit Ihrer
 tadellos gefälschten Handschrift, daß Sie beide schleunigst für
-längere Zeit in :::3 Bergen verschwinden müßten. Barholm wird
+längere Zeit in :::3 Bergen verschwinden müßten. Baxholm wird
 also keinen Lärm schlagen.«! …
 
 »Ja — sehr schlau, Miß Golling. Hiermit haben Sie
@@ -1349,7 +1343,7 @@ Harst lachte still in sich hinein …
 
 »Nun, Max Schraut?! Hungern werden wir hier nicht,
 und …« Er schwieg … Starrte zu Boden — hinter einen
-Eisblock … Dort lag ein toter Cskimohund … Von den
+Eisblock … Dort lag ein toter Eskimohund … Von den
 Löwen bereits angespielt … Der Bauch offen … Scheußlich.
 
 Über ein Hund … Harald blickte bedächtig rundum …
@@ -2576,7 +2570,7 @@ waren hell. Hm vorigen war den Mensch zu j’hen.
 
 Harst führte uns jetzt zu dem Eindecker hin.
 
-»Wesghaib sollen wir her traurigen spielen?!« meinte er.
+»Weshalb sollen wir her traurigen spielen?!« meinte er.
 »Herr Panama durfte sehr Bai« erscheinen. Jetzt wird er sich
 rasieren … Und Sonne Frau wird Kniete machen …«
 
@@ -2594,7 +2588,7 @@ erstaunt:
 
 »las ist ja Bruchstaller? Maschine der L. F. Ob«
 »Mein, nein Mutter.« l!nennt« wirst »Spannst, »das ist ck
-neue Typ des Verkehren-Cindekersg, das ja! Das ist aber
+neue Typ des Verkehren-Eindeckers, das ja! Das ist aber
 
 die Masche, die vor sorge Woher, Wie wir Her Fischer
 erzählte, wo M. »sicher 1 Orden ’’’ Mine »ie dein Ins
