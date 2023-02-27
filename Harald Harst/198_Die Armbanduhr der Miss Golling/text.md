@@ -668,61 +668,61 @@ Wir begaben uns nach oben auf unsere Zimmer.
 
 <h2>3. Kapitel.</h2>
 
-Gleich darauf verließen wir das Haus. Harald war Quatsch
-stumm, rauchte Zigaretten, hatte »kleine, zugekniffene
+Gleich darauf verließen wir das Haus. Harald war gänzlich
+stumm, rauchte Zigaretten, hatte kleine, zugekniffene
 Augen und war mit seinen Gedanken offenbar weit weg.
 
 Wir gingen zum Hafen hinab. Wir kannten Stockholm
-wie Berlin. Der Dampfer brachte uns nach Stangen hinüber.
+wie Berlin. Der Dampfer brachte uns nach Skansen hinüber.
 
 <@pagebreak/>
-Jeder Tourist besucht diesen Riesenpark, der zugleich verringerte
-Anstellung und Naturmuseum ist.
+Jeder Tourist besucht diesen Riesenpark, der zugleich permanente
+Ausstellung und Naturmuseum ist.
 
-Das Lauschten des Lauschers Guldnar war bald gefunden.
+Das Häuschen des Aufsehers Guldnar war bald gefunden.
 
 Vor der Tür eine Laube, mit wildem Hopfen berankt …
-Dort saß eine junge Dame, Rechten?d, hatte ein Buch vor
+Dort saß eine junge Dame, aschblond, hatte ein Buch vor
 sich liegen, blickte auf, schrak leicht zusammen …
 
-Und klappte das Bug) zu und lege es beiseite.
+Und klappte das Buch zu und lege es beiseite.
 
-Harst fragte nach Bruchitc’ hier und stellte sich vor.
+Harst fragte nach Bruchstaller und stellte sich vor.
 
-Co war Mabel Golling.
+Es war Mabel Golling.
 
-»Kerl Verlobter!sich auf dem Flugplatz der Lundström Werke,
-meine Herren … Kann Stich ihm irgend etwas ausreichen?«
+»Mein Verlobter ist auf dem Flugplatz der Lundström-Werke,
+meine Herren … Kann ich ihm irgend etwas ausrichten?«
 
-Sie sprach das Deutsche sehr gebrochen Ihre kühle, glatte
+Sie sprach das Deutsche sehr gebrochen. Ihre kühle, glatte
 Schönheit mißfiel mir. Dieses reife Mädchen besaß fraglos
-bewußte Temperamentlosigkcit eines sehr kaltblütig abwägen den
-Charakters. in Nie gar
+bewußte Temperamentlosigkeit eines sehr kaltblütig abwägenden
+Charakters.
 
-Harst trat näher an den Tisch heran, Es
+Harst trat näher an den Tisch heran, 
 
 »Miß Golling, Bruchstaller ist unser Landsmann. Ich
 Hätte gern unter vier Augen mit ihm über seinen beabsichtigten
-Ozeanflug gesprochen Gerade wir Deutschen sollten
+Ozeanflug gesprochen. Gerade wir Deutschen sollten
 nichts leichtfertig unternehmen, was von Weltbedeutung ist.
 
-Glück ihm die Uebergquerung des Atlantik, so ist es gut.
+Glückt ihm die Überquerung des Atlantik, so ist es gut.
 Mißlingt sie, wird man ihn und Deutschland mit Hohn und
 Spott überschütten. Man kennt ja die wahre Gesinnung der
 neidzerfressenen fremden Herrschaften. Sie gönnen es uns
-nicht, daß wir den Luftverkehr so meisterhaft Spanier r! haben.«
+nicht, daß wir den Luftverkehr so meisterhaft organisiert haben.«
 
 Und während er sprach, spielte er mit den Fransen der
-Tischdecke … Spielte … Mitteilte sie wie absicht8&os um den
+Tischdecke … Spielte … Wickelte sie wie absichtslos um den
 untersten Knopf seiner Sportjacke … Kleine Tricks …
 
-Auf dem Tisch lag das hellbraun gebundene Buch Ruck«
-Seite mag oben, stand eine Base mit Feldblumen und ein
-Aschbecher, in dem noch Miß Gollings die englische Zigarette
+Auf dem Tisch lag das hellbraun gebundene Buch Rückseite
+nach oben, stand eine Vase mit Feldblumen und ein
+Aschbecher, in dem noch Miß Gollings dicke englische Zigarette
 ihren Qualmfaden emporkräuselte.
 
-Die kühle Aschblonde nickte Harsts freundlichen Worte!
-Fatal. »Ihre Bedenken als Deutscher sind durchaus befestigt,
+Die kühle Aschblonde nickte Harsts freundlichen Worten
+Beifall. »Ihre Bedenken als Deutscher sind durchaus berechtigt,
 <@pagebreak/>
 Herr Harst, durchaus, Aber anderseits können Sie auch
 überzeugt sein, daß Felix Bruchstaller nicht der Mann ist,
@@ -731,89 +731,90 @@ Wahrscheinlichkeit des Erfolges verbürgt.« Dabei verzog sie
 ein wenig die Lippen — für Sekunden — fast unmerklich:
 Ironie, überlegener Hohn!
 
-— diese Miß war doch sehr unvorsichtig! Das war
+O — diese Miß war doch sehr unvorsichtig! Das war
 die erste Blöße, die sie sich gab.
 
-Die zweite Niederlage begleitete ihr Harald, indem er mit
+Die zweite Niederlage bereitete ihr Harald, indem er mit
 derselben Höflichkeit wegen unseres störenden Besuches um
 Entschuldigung bat und sich verabschiedete und …
 
-Kleiner Teil …
+Kleiner Trick …
 
 … und schon bei der verabschiedenden Verbeugung die
 Decke vom Tisch riß, weil eben die Fransen nur allzu fest
 um den Knopf geschlungen waren.
 
-Base, Blumen, Wasser aus der Vase, Aschbecher — alles
+Vase, Blumen, Wasser aus der Vase, Aschbecher — alles
 lag zu Harsts Füßen. Er bückte sich, bat wortreich um Verzeihung,
-trocknete das Fuß mit dem Taschentu? ab und
+trocknete das Buch mit dem Taschentuch ab und
 legte alles wieder an Ort und Stelle,
 
-Miß Golling hatte geholfen, hafte etwas von oben herab
+Miß Golling hatte geholfen, hatte etwas von oben herab
 erklärt, das kleine Malheur sei ja weiter nicht schlimm. Dann
-ginge: wir, Harst nochmmals verlegen zurückgrüßend.
+gingen wir, Harst nochmals verlegen zurückgrüßend.
 
 Verlegen?!
 
 Mein — verlogen!
 
-» Als wir am Lappländerdorf und an der Renntierhürde
+Als wir am Lappländerdorf und an der Renntierhürde
 vorüberkamen, sagte er mit leisem Auflachen:
 
-»Ja, sie hatte es sehr eilig, das Buch hinauslassen, als
+»Ja, sie hatte es sehr eilig, das Buch zuzuklappen, als
 wir uns näherten. Und sie drehte das Buch um, Titel nach
-unten — zu faul. Ich hatte mir ungefähr gemerkt, wieviel
+unten — auch faul. Ich hatte mir ungefähr gemerkt, wieviel
 Seiten umgeschlagen waren. Beim Abtrocknen fand ich die
 Stelle, die sie zuletzt gelesen. Es lag ein trockenes Blatt als
-Telezeichen zwischen den Seiten. Das Du beißt:
+Lesezeichen zwischen den Seiten. Das Buch heißt:
 
-Professor Dr. Andere,
-Die Strömunaen des nördlichen Atlantik unter besonderer
-Berücksichtigung der Schrift der Stählerne,
+> Professor Dr. Andere,
+
+> Die Strömunaen des nördlichen Atlantik unter besonderer
+Berücksichtigung der Trift der Eisberge,
+
 <@pagebreak/>
 Du siehst, mein Alter, Miß Golling ist äußerst begierig,
 ihre Allgemeinbildung zu erweitern. Damen, die derartige
 Werke lesen, die dazu noch so dünne, grausame Lippen und
-eine so niedere bucklige Stirn haben, … findest du vielfach im
+eine so niedere bucklige Stirn haben, findest du vielfach im
 Album, das für unsere speziellen Freunde angelegt ist, —
-Verbtherathbum!«
+Verbrecheralbum!«
 
-Wir stiegen ein Aschschalen Weg hinab. Unter uns lag
-der Felsenhafen St scheint, jenseits das Königliche Schloß
-und das Vaterunser dieser alten, unausgeglinhenen Stadt.
+Wir stiegen einen schmalen Weg hinab. Unter uns lag
+der Felsenhafen Stockholms, jenseits das Königliche Schloß
+und das Dächermeer dieser alten, unausgeglichenen Stadt.
 
-»Wenn die Golling ihren Verlobten ül -r den Atlantik
+»Wenn die Golling ihren Verlobten über den Atlantik
 begleiten will,« meinte ich nun ein wenig kampflustig, da ich
-Harsts Bemerkungen anders wertete, »dann ist es Dom begreiflich,
-daß sie ein solch;es Buch studiert …«
+Harsts Bemerkungen anders wertete, »dann ist es doch begreiflich,
+daß sie ein solches Buch studiert …«
 
-»An — gestatte: Die beiden wollen im Flugzeug hinüber,
+»Hm — gestatte: Die beiden wollen im Flugzeug hinüber,
 nicht mit einer Jacht. Aber das ist ja alles gleichgültig …
-Jahren wir nach den Lundströmwerken hinaus. Und wenn du
-mich lieb hast, mein Alter, beherrsche Ei und frage nicht
-überflüssige Dinge. Ich habe natürlich auch« vor Baxholm
-und seiner Schwester geschhauspielert … Das Eisenbahnattentat
-kommt auf Bruchstallers Konto und galt uns, Die Baronin
+Fahren wir nach den Lundströmwerken hinaus. Und wenn du
+mich lieb hast, mein Alter, beherrsche dich und frage nicht
+überflüssige Dinge. Ich habe natürlich auch vor Baxholm
+und seiner Schwester geschauspielert … Das Eisenbahnattentat
+kommt auf Bruchstallers Konto und galt uns. Die Baronin
 hatte in Malmö ganz richtig beobachtet: die beiden
-Herren und die Dame 4us Schlafkabinen 86 und 7 interessierten,
-sich nur für uns. Und im Hause Baxholms befindet sich«
+Herren und die Dame aus Schlafkabinen 6 und 7 interessierten
+sich nur für uns. Und im Hause Baxholms befindet sich
 fraglos ein Spion dieser Genossenschaft mit unbeschränkter
-Unternehmungslust ein Spion, der von der Depesche an
+Unternehmungslust … ein Spion, der von der Depesche an
 uns wußte und die Meldung weitergab … Wir werden den
-Betreffenden schon ermitteln. Hm Hause sind außer dem alten
-Holger, der natürlich au8äscheidet, noch fünf Dienstboten, zwei
+Betreffenden schon ermitteln. Im Hause sind außer dem alten
+Holger, der natürlich ausscheidet, noch fünf Dienstboten, zwei
 weibliche, drei männliche. Verdächtig kommt mir die Zofe
 vor, die unsere Zimmer oben besorgt.«
 
-»Und — die Million /!« …
+»Und — die Million?!« 
 
-»Ist dir das Geld die Hauptsache?! Wir nicht.«
+»Ist dir das Geld die Hauptsache?! Mir nicht.«
 
-»Aber was ist dein Ei« »Inuptsache?«
+»Aber … was ist denn die Hauptsache?«
 
-»Die Mr! und Weise, wie Herrschaften die Million
-
-abskeh-;1 im ’-dern«
+»Die Art und Weise, wie die Herrschaften die Million
+… abheben wollen …«
 
 <@pagebreak/>
 Als wir an der Nationalbank im offenen Auto vorüberkamen,
@@ -826,17 +827,17 @@ Prinzen Olaf,« erklärte der Chauffeur.
 
 »Der Prinz ist in Italien, nicht wahr?«
 
-»Jawohl … Das Palais steht leer.
+»Jawohl … Das Palais steht leer.«
 
-»Jahren Sie weiter …«, —
+»Fahren Sie weiter …« —
 
 Auf dem Gelände der Lundström-Werke weit draußen im
 Nordwesten der Stadt, schickten wir den Kraftwagen zurück.
-31 geringer Höhe kreisten drei Maschinen, von denen die
-eine die Bezeichnung L. Ei. B., an der Unterseite des Rumpfes
-trug. Das konnte nur »Lunditvrom, Felix Bruchstaller« heißen.
+In geringer Höhe kreisten drei Maschinen, von denen die
+eine die Bezeichnung L. F. B., an der Unterseite des Rumpfes
+trug. Das konnte nur »Lundström, Felix Bruchstaller« heißen.
 
-Der Direktor der Werk.:anfing uns mit größter Liebenswürdigkeit,
+Der Direktor der Werke empfing uns mit größter Liebenswürdigkeit.
 Bei einer guten Zigarre plauderten wir eine halbe
 Stunde lang und begaben uns dann auf den Flugplatz.
 Bruchstaller war soeben gelandet.
@@ -851,48 +852,48 @@ Laune, erwiderte ebenfalls so ziemlich mit Miß Gollings
 Worten: »Ich bin nicht der Mann, sehr verehrter Herr Harst,
 der etwa leichtfertig Derartiges wagt. Glauben Sie mir:
 ich werde es schaffen! Nur bitte ich auch Sie beide, meine
-Herren, meinen Plan geheim zu halten. I werde so tun,
+Herren, meinen Plan geheim zu halten. Ich werde so tun,
 als ob ich meine Absicht aufgegeben habe. Ich hasse all
-diesen lauten Fragen, mit dem nicht jetzt wieder der Kollege
-Chamberlin gestartet ist, Meine Herren Wettgegner werden
-als einzige Stelzen ren in aller Heimlichkeit dabei sein.«
+diesen lauten Fragen, mit dem auch jetzt wieder der Kollege
+Chamberlin gestartet ist. Meine Herren Wettgegner werden
+als einzige Startzeugen in aller Heimlichkeit dabei sein.«
 
-Dann sei«: er uns den schnittigen Eindecker, der alles
-enthielt, was irgend in ein modernes Flugzeug eingzebait1t
-werden kann. auch eine Radioanlage.
+Dann zeigte er uns den schnittigen Eindecker, der alles
+enthielt, was irgend in ein modernes Flugzeug eingebaut
+werden kann, auch eine Radioanlage.
 
 <@pagebreak/>
-Harst tat, als ob er mit derartigen Sendet und Empfangsvorrichtungen
-durchaus nicht vertraut sei, wie sie für
+Harst tat, als ob er mit derartigen Sende- und
+Empfangsvorrichtungen durchaus nicht vertraut sei, wie sie für
 kleinere Fahrzeuge üblich sind,
 
-Bruchstaller erklärte uns den Apparat ganz ekngehend.
+Bruchstaller erklärte uns den Apparat ganz eingehend.
 Sein Vortrag war fließend, gut durchdacht und ungemein
-verständlich. Seine Intelligenz wurde durchs dieses Kolleg
+verständlich. Seine Intelligenz wurde durch dieses Kolleg
 über Funkentelegraphie aufs beste bewiesen. Daß er mal
 einfacher Mechaniker gewesen, war ihm in keiner Weise mehr
 anzumerken.
 
-Gemeinsam verließen wir nachher den Flugplatz und des
-gaben uns zu Fuß zur Stadt zurück.
+Gemeinsam verließen wir nachher den Flugplatz und begaben
+uns zu Fuß zur Stadt zurück.
 
-Bruchstaller gab sich auch jetzt vollkommen harmlos, Er
+Bruchstaller gab sich auch jetzt vollkommen harmlos. Er
 hätte wohl jeden getäuscht. Er war in der Tat eine Delikatesse.
-Darin hatte. Freund Baxholm schon recht,
+Darin hatte Freund Baxholm schon recht,
 
-In der ironisches l b:.alten Karbol uns-Straße trennten
+In der sonntäglich lebhaften Karl-Johanns-Straße trennten
 wir uns wie alte Bekannte: Händedruck — — auf Wiedersehen!
 
-Wir beide stiegen zu unseren Gastzimmern im Baxholms
-eben Hause empor. Es war halb drei Uhr nachmittags, und
+Wir beide stiegen zu unseren Gastzimmern im Baxholmschen
+Hause empor. Es war halb drei Uhr nachmittags, und
 wir mußten uns schleunigst zum Diner umziehen. In dieser
 Hinsicht war der Graf ganz Kavalier der alten Schule: zum
 Diner Smoking, zum Souper Frack,
 
 Beim Diner lernten wir die fünf anderen Wettgegner
-Bruchstaller& kennen. Die Baronin spielte die Hausfrau, mit
+Bruchstallers kennen. Die Baronin spielte die Hausfrau, mit
 dem ganzen Charme ihrer gewinnenden Persönlichkeit. Wir
-hatten sich- bisher persönlich nicht kennengelernt, und sie
+hatten sie bisher persönlich nicht kennengelernt, und sie
 hatte morgens beim Frühstück herzlich gelacht, als Harst
 ehrlich zugab, wie falsch er sie in Malmö eingeschätzt hatte,
 
@@ -902,108 +903,108 @@ schweren Weine bei Tisch verhalfen uns denn auch zu einem
 festen Schlaf,
 
 Bevor ich nun die weiteren Ereignisse dieses Sonntags,
-keck 5. Juni, schildere, will im ganz kurz die Lage unserer
+des 5. Juni, schildere, will ich ganz kurz die Lage unserer
 Zimmer im zweiten Stock des altertümlichen Baxholm-Hauses
 <@pagebreak/>
 beschreiben. Wir hatten ein gemeinsames Wohnzimmer mit
 Bad daneben zur Verfügung. Die vier Fenster beider Räume
 gingen auf den Garten hinaus — ein kleiner, schöner Park
 mit uralten Bäumen. Vor dem Wohnzimmer befand sich ein
-breiter Balkon mit Gla8dacm und Steinbrüstung.
+breiter Balkon mit Glasdach und Steinbrüstung.
 
 Wir hatten im Wohnzimmer einen Diwan und zwei sehr
 bequeme Klubsessel. Den Diwan benutzte ich, Harst schlief
 im Klubsessel. Die beiden Türen nach dem Flur hin hatte
 ich von innen verschlossen und verriegelt, und Harald war
 sogar so vorsichtig gewesen, beide Zimmer zu durchsuchen, ob
-nicht vielleicht! irgendwo ein unerwünschter Eindringling sich
-verborgen hatte. Die Tür nach de:in Balkon war freilich offen
-geblieben, Harst? meinte. von dort könnte niemand herein,
-Das Glasdach biete genügen« Schuß.
+nicht vielleicht irgendwo ein unerwünschter Eindringling sich
+verborgen hatte. Die Tür nach dem Balkon war freilich offen
+geblieben, Harst meinte, von dort könnte niemand herein.
+Das Glasdach biete genügend Schutz.
 
 Er irrte sich zu unserem Schaden.
 
 Was mit uns vorgegangen, während wir in tiefstem
-Schlafe Arztes dalagen, erfahren wir erst später. Ich kann
-nur zumeist angeben, wie ich erwachte, nachdem ich zuletzt
-sehr wüst geträumt hatte, Daß inzwischen mehr als zwölf
+Schlafe arglos dalagen, erfuhren wir erst später. Ich kann
+nur zunächst angeben, wie ich erwachte, nachdem ich zuletzt
+sehr wüst geträumt hatte. Daß inzwischen mehr als zwölf
 Stunden verflossen waren, kam mir natürlich nicht zum Bewußtsein,
 als ich mühsam die Augen aufschlug, sie schnell
 aber wieder schloß, da ein unheimliches Schwindelgefühl mich
-Taufpate und mein Magen sich umzukrempeln suchte. Trossen
-hatte ich aber durch diesen einen kurzen Bild bereits wahrgenommen,
-daß ich in einem engen Raume lang ausgleitest
-lag und nicht mehr zu? dem weichen Diwan, wo ich einschob
-Hafen war,
+packte und mein Magen sich umzukrempeln suchte. Trotzdem
+hatte ich aber durch diesen einen kurzen Blick bereits wahrgenommen,
+daß ich in einem engen Raume lang ausgestreckt
+lag … und nicht mehr auf dem weichen Diwan, wo ich eingeschlafen
+war,
 
-Das Karussell in meinem Schädel stoppte wieder ab,
-Ich h’ttc fürchterlich« Eiche in den Schläfen und nicht minder
+Das Karussell in meinem Schädel stoppte wieder ab.
+Ich hatte fürchterliche Stiche in den Schläfen und nicht minder
 arges Ohrensausen. Mein Hirn funktionierte noch nicht
-ach! Wo b. und ich mich? Was war geschehen? Alle
-umschlich wurde »Sir der Kopf klarer. Ich besann mich jetzt
-Tigerin auf das Besitztümer im Vulkanischen Hause, ebenso
-auf das vporausg9«: unsere üppige Diner, meine Müdigkeit
-und Unsere Vorsichtsmaßregeln vor dem Nachmittaocstck!.: schien
+recht … Wo befand ich mich? Was war geschehen? Allmählich
+wurde mir der Kopf klarer. Ich besann mich jetzt
+genau auf das Wohnzimmer im Baxholmschen Hause, ebenso
+auf das vorausgegangene üppige Diner, meine Müdigkeit
+und Unsere Vorsichtsmaßregeln vor dem Nachmittagsschläfchen
 
 <@pagebreak/>
-Nichtig: Harst hatte ja im Stangen-Park geäußert, er
-breite die Zofe für eine Spionin Bruchstallers,
+Richtig: Harst hatte ja im Skansen-Park geäußert, er
+hielte die Zofe für eine Spionin Bruchstallers,
 
 Wo war ich?!
 
-Ein zweiter Bis ringsum … Geringeres Schwindelgefühl.
+Ein zweiter Blick ringsum … Geringeres Schwindelgefühl.
 
 Neben mir lag Harst.
 
 Er schaute mich an. Und als er nun zu sprechen begann,
-merkte ich erst, daß im an Händen und Füßen gefesselt war,
+merkte ich erst, daß ich an Händen und Füßen gefesselt war.
 Die Arme hatte man mir über der Brust gekreuzt, und dem
-Druck der Fesseln nach zu urteilen, waren es Drahtslingen;
+Druck der Fesseln nach zu urteilen, waren es Drahtschlingen,
 die so hart in die Haut der Handgelenke einschnitten.
 
-»2. F. B.« hatte Harald gesagt …
+»L. F. B.« hatte Harald gesagt …
 
 Nur das … Es genügte …
 
 Ich hörte das gleichmäßige Surren eines Propellers …
 
 Wir lagen im Rumpf des Eindeckers, und wer diesen
-steuerte, darüber brauchte ins nicht weiter nachzujagen.
+steuerte, darüber brauchte ich nicht weiter nachzugrübeln.
 
 Harald fügte hinzu:
 
 »Eine Delikatesse, dieser Felix …! In jeder Beziehung
-großzügig. Er versteht sein Geschäft. Ich bin nur neugierig
+großzügig. Er versteht sein Geschäft. Ich bin nur neugierig,
 wo er uns aussetzen wird.«
 
-Mein Brüder schmerzte, doch selbst diese peinvollen Stiche
-vergaß ich über der Frage: Was würde Bruchstaller mich
+Mein Schädel schmerzte, doch selbst diese peinvollen Stiche
+vergaß ich über der Frage: Was würde Bruchstaller mit
 uns beginnen?!
 
-Der Raunt, in dem wir lagen, erhielt sein Licht durch das
+Der Raum, in dem wir lagen, erhielt sein Licht durch das
 Fenster einer winzigen Tür, die nach vorn führte.
 
 Diese Tür ging auf. Mabel Golling im Lederanzug
 beugte sich zu uns hinab.
 
 »Ah — schon wach …!« meinte sie gleichmütig. »Das ist
-eigentlich; schade. In Ihrem Interesse hätte ich gewünscht,
-Ihre Betäubung würde länger gedauert haben, Es ist nicht
+eigentlich schade. In Ihrem Interesse hätte ich gewünscht,
+Ihre Betäubung würde länger gedauert haben. Es ist nicht
 angenehm, bei vollem Bewußtsein aus zweitausend Meter
 Höhe ins Meer geworfen zu werden. Das hat jedoch noch
 Zeit. Wir haben soeben erst Malmö hinter uns. Felix will
 den Probeflug bis Helgoland ausdehnen. Vor Helgoland
 gehen Sie beide über Bord.«
 
-Sie bückte sich noch tiefer, prüfte sel): erregt:lag unsere
+Sie bückte sich noch tiefer, prüfte sehr sorgfältig unsere
 <@pagebreak/>
-Fesseln und wollte sich wieder, zurückziehen.
+Fesseln und wollte sich wieder zurückziehen.
 
-»Einen Augenblick, Miß »Golling …«
+»Einen Augenblick, Miß Golling …«
 
 »Bitte, Herr Harst … Sie wünschen?«
 
-»Ich möchte Bruchstaller sprechen …« …
+»Ich möchte Bruchstaller sprechen …« 
 
 »Das ist zum Glück nicht möglich … Er sitzt am Steuer.
 Vielleicht würde es Ihnen gelingen, ihn umzustimmen, und
@@ -1011,17 +1012,17 @@ das wäre für uns ein zu großes Risiko, Sie beide etwa am
 Leben zu lassen, nachdem es uns so gut geglückt ist, Sie aus
 Baxholms Haus fortzuschaffen.«
 
-Sie Annahm mit einer raffiniert boshafter Kaltschnäuzigkeit.
+Sie sprach mit einer raffiniert boshaften Kaltschnäuzigkeit.
 Sie war eine brutale Bestie, schlimmer als Bruchstaller,
 wie sie ja soeben selbst eingeräumt hatte.
 
-»Die rotblonde Zofe hat « bei geholfen,« sagte Harst genau
-so kühl, nur mit leichtem, iroiischgem Unterton. »Sie ist durch
+»Die rotblonde Zofe hat dabei geholfen,« sagte Harst genau
+so kühl, nur mit leichtem, ironischem Unterton. »Sie ist durch
 die Luftscheibe im Glasdach des Balkons hinabgekommen und
-bat uns mit Chloroform betäubt. Dann wurden wir über
+hat uns mit Chloroform betäubt. Dann wurden wir über
 den Bodenraum ins Nachbargebäude geschafft, wo einer Ihrer
-Verbündeten sie eingemietet hatte — Mansarde, nehme ich
-an. Und nachts brachte man uns »weiter fort — dorthin,
+Verbündeten sich eingemietet hatte — Mansarde, nehme ich
+an. Und nachts brachte man uns weiter fort — dorthin,
 wo der Eindecker bequem landen und uns aufnehmen konnte.«
 
 Mabel Golling lehnte an der Tür.
@@ -1035,23 +1036,23 @@ besuchen?«
 »Bald, Herr Harst …« — Sie lachte — ein trockenes
 Lachen … »Und Sie werden uns nicht dabei stören, Herr
 Harst. Niemand wird gegen uns Verdacht schöpfen, denn in
-Ihrem Wohnzimmer bei Burgherrn lag ein Zettel mit Ihrer
+Ihrem Wohnzimmer bei Baxholm lag ein Zettel mit Ihrer
 tadellos gefälschten Handschrift, daß Sie beide schleunigst für
-längere Zeit in :::3 Bergen verschwinden müßten. Baxholm wird
-also keinen Lärm schlagen.«! …
+längere Zeit nach Bergen verschwinden müßten. Baxholm wird
+also keinen Lärm schlagen.«
 
 »Ja — sehr schlau, Miß Golling. Hiermit haben Sie
-entschieden mehr Glückes gehabt als mit dem Felsinsel vor
-Heu Zug …«
+entschieden mehr Glück gehabt als mit dem Felsrutsch vor
+dem D-Zug …«
 
 <@pagebreak/>
 Wieder lachte sie …
 
-»Die Medizin, die Ihnen beiden jetzt gereiht werden
-wird, wird! eigenen … Nordseewasser schließt jeden Mund
+»Die Medizin, die Ihnen beiden jetzt gereicht werden
+wird, wirkt sicherer … Nordseewasser schließt jeden Mund
 für immer …«
 
-»Inder Umständen, Miß Golling … — Wie spät haben
+»Unter Umständen, Miß Golling … — Wie spät haben
 wir es?«
 
 Sie schaute auf ihre kleine Armbanduhr, die einen dunkelgrünen
@@ -1060,47 +1061,47 @@ Form eines Schlangenkopfes hatte.
 
 »Genau neun Uhr vormittags … Um sechs Uhr morgens
 sind wir in Stockholm aufgestiegen, um sieben nahmen wir
-Sie beide bei Karbol auf einer trockenen Wiese an Bord, und
+Sie beide bei Aarbör auf einer trockenen Wiese an Bord, und
 … ja, denken Sie, — um acht Uhr fing ich ein Funktelegramm
 auf, daß der amerikanische Flieger Chamberlin bei
-Kistchen notgelandet ist. Er hat also den Atlantik wirklich
-überflogen, — was Felix überlegte auch gab!’njon wird.«
+Eisleben notgelandet ist. Er hat also den Atlantik wirklich
+überflogen, — was Felix übrigens auch gelingen wird.«
 
-»So?! Ich denke, die Million ist ungefährlicher Druck
-einen Bankvinbruch zu sprangen …«
+»So?! Ich denke, die Million ist ungefährlicher durch
+einen Bankeinbruch zu erlangen …«
 
-»Das komm! darauf an, H::r Harst. Ich …«
+»Das kommt darauf an, Herr Harst. Ich …«
 
-Den vorn eine Stimme; »Wobei!!«
+Von vorn eine Stimme: »Mabel!!«
 
 Mabel schlug die kleine Tür zu …
 
-z«. Titel.
+<h2>4. Kapitel.</h2>
 
 »Die Aktien stehen schlecht.« mein Alter,« sagte Harst und
-wälzte sich hin und her.: »Diese Fesseln sind.;nicht!. abzustreifen
-Schnitt eine sehr üble … Tische »Erhöhtem. »bot acht
-du kein so jämmerliches Gesicht zur in Heu »40 Bruchstaller
-wird riß sich reden lassen, und die Ha! 3 auch Ich werde
-ihnen »ins halbe Million liefen. vorn die uns schonen …«
+wälzte sich hin und her. »Diese Fesseln sind nicht abzustreifen
+… Es ist eine sehr üble Patsche. Trotzdem brauchst
+du kein so jämmerliches Gesicht zu machen. Bruchstaller
+wird mich sich reden lassen, und die Golling auch. Ich werde
+ihnen eine halbe Million bieten, wenn sie uns schonen …«
 
-Nun ich selbst hoffte kaum Wehr. Man weißt 11 was
-ein Miß vermag. Und diese Mabel war eine böogartige
+Nun … ich selbst hoffte kaum mehr. Man weißt ja, was
+ein Weib vermag. Und diese Mabel war eine bösartige
 Tigerin
 
-Vorn vernahmen wir jetzt einen fleißigen Wortwechsel …
+Vorn vernahmen wir jetzt einen heftigen Wortwechsel …
 
-Die Stimmen übertönten sogar das Bropellergeräusch.
+Die Stimmen übertönten sogar das Propellergeräusch.
 
 <@pagebreak/>
 »Es geht um uns,« meinte Harald. »Ein Jammer, daß
-dieser Bruchstaller sich in den -Klauen dieses Weibes befindet.
-Liedeshörigkei!! Gerade diese kalten Naturen vom Typ einer
-Mabel Golling peitschen-die Sinne am- meisten auf. — Da —
-wie sie streiten, wie die Golling kreischt!! Ja, es geht um
+dieser Bruchstaller sich in den Klauen dieses Weibes befindet.
+Liebeshörigkeit! Gerade diese kalten Naturen vom Typ einer
+Mabel Golling peitschen die Sinne am meisten auf. — Da —
+wie sie streiten, wie die Golling kreischt! Ja, es geht um
 uns … Bruchstallers Gewissen, das Bessere in ihm, ist erwacht
 … Warten wir ab … Wenn ich nur nicht so hungrig
-wäre«.!«
+wäre …!«
 
 Der Eindecker schaukelte plötzlich beträchtlich, kam aber
 bald wieder in ruhige Lage.
@@ -1109,20 +1110,20 @@ Die zankenden Stimmen waren verstummt.
 
 »Bruchstaller hat den Kurs geändert, mein Alter …
 und das bedeutet Hoffnung!« sagte Harald und richtete sich
-langsam zu sitzender Stellung auf. »Recht kalt hier
-Zweitausend Meter Höhe … Und wir nicht eben warm ans
-923293en … Das wird einen Schnupfen geben, fürchte ich.«
+langsam zu sitzender Stellung auf. »Recht kalt hier …
+Zweitausend Meter Höhe … Und wir nicht eben warm angezogen
+… Das wird einen Schnupfen geben, fürchte ich.«
 
 Wieder öffnete sich da die kleine Tür.
 
 Mabel …
 
-Mit TIhermos&flasche, Becher, Hartzwieback …
+Mit Thermosflasche, Becher, Hartzwieback …
 
 Und einem Gesicht, als ob sie uns nicht füttern, sondern
 vergiften wollte,
 
-»Hier — trinken Sie … essen Sie! Felix ist ein Narrk’
+»Hier — trinken Sie … essen Sie! Felix ist ein Narr!«
 
 »Durchaus nicht, Miß Golling. Es scheint Ihnen ja sehr
 schwer geworden zu sein, Ihrem Verlobten nachzugeben, der
@@ -1132,131 +1133,130 @@ uns nicht so kaltblütig ermorden will wie Sie es wünschten.
 
 Sie … lachte …
 
-»Oh das, was ich jetzt durchgesetzt habe, für Sie beide
-angenehmer sein wird, ist zweifelhaft. Wir stiegen nunmehr
-nach Norden. Die Seewarte Bergen hat gestern Eigsberge
-Nordost lich von Bergen im Atlantik, zweihundert Seemeilen
-von der Küste ab, gemeldet. Unser Benzinvorra! erlaubt uns
+»Ob das, was ich jetzt durchgesetzt habe, für Sie beide
+angenehmer sein wird, ist zweifelhaft. Wir fliegen nunmehr
+nach Norden. Die Seewarte Bergen hat gestern Eisberge
+Nordöstlich von Bergen im Atlantik, zweihundert Seemeilen
+von der Küste ab, gemeldet. Unser Benzinvorrat erlaubt uns
 diesen Umweg. Um zwölf Uhr mittags dürften wir einen
-Eisberg sichten. Dort können Sie beide dann:Robinson
+Eisberg sichten. Dort können Sie beide dann Robinson
 spielen … Wir lassen Ihnen Ihre Waffen, Ihre Pistolen …
-
 <@pagebreak/>
 Felix wird dicht an dem Eisberg vorüberstreichen, und dann
-müssen Sie ins Wasser springen und auf Ihre weiße Verlangt«
-Insel muschwimmen … — Trinken Sie …!«
+müssen Sie ins Wasser springen und auf Ihre weiße Rettungsinsel
+zuschwimmen … — Trinken Sie …!«
 
 Ich merkte: sie war wütend, weil Bruchstaller ihr diesmal
 nicht gehorcht hatte.
 
-Kenne fütterte und tränkte sie uns mit einer Geduld,
-Hie bewundernswert gar.
+Dennoch fütterte und tränkte sie uns mit einer Geduld,
+die bewundernswert war.
 
 Aber nachher kam die Nachspeise …: Hohn, Haß …
 
 »Das war Ihre Henkersmahlzeit, meine Herren!!« Und
-wieder das scheußliche Lachen. »Nehmen Sie nicht darauf,
-von dem Eigsberg lebend wieder herunterzukommen … Die
-Frist dieser Eismassen dort berührt keine Schiffahrt&route,
+wieder das scheußliche Lachen. »Rechnen Sie nicht darauf,
+von dem Eisberg lebend wieder herunterzukommen … Die
+Trift dieser Eismassen dort berührt keine Schiffahrtsroute,
 und Fischer wagen sich nicht so weit hinaus … Sie werden
-sterben ich — und der Tod im Wasser wäre barmherziger
+sterben — — und der Tod im Wasser wäre barmherziger
 gewesen.«
 
 »In der Luft, meinen Sie, Miß Golling, denn ein Mensch,
 der aus zweitausend Meter Höhe abgeworfen wird, stirbt
 schon durch den Luftdruck des Absturzes.«
 
-»Danke für gütige Belehrung, — und die Tür schlug
+»Danke für gütige Belehrung,« — und die Tür schlug
 wieder zu …
 
 Wir saßen aufrecht. Wir hatten warmen Tee getrunken,
-hatten uns fortgesetzten. Wir sahen die Welt wieder mit
-trostvollen Augen an. Der Eisberg war ja kein Paradies.
+hatten uns sattgegessen. Wir sahen die Welt wieder mit
+trostvollen Augen an. Der Eisberg war ja kein Paradies,
 aber noch immer besser als zweitausend Meter hinabsausen
 
 Harald blinzelte mir zu …
 
-»Galgenfrist, War Schraut Immerhin eine Frist …!«
+»Galgenfrist, Max Schraut … Immerhin eine Frist …!«
 
 Und abermals erschien die grimme Mabel, diesmal mit
-wollenen Teer für uns …
+wollenen Decken für uns …
 
 »Felix ist ein kompletter Narr!« fauchte sie …
 
-anschaut nicht, Miß Golling … Ich habe ihn beinahe
-ob …«
+»Durchaus nicht, Miß Golling … Ich habe ihn beinahe
+lieb …«
 
 Sie schmetterte das Türchen zu …
 
 Die Decken waren eine Gabe Gottes.
 
 »Gepriesen seien die Schafe, die die Wolle dazu lieferten!«
-Mr Harald Tor sei in glänzender Manne war. »Ich wette,
+meinte Harald, der jetzt in glänzender Laune war. »Ich wette,
 <@pagebreak/>
 daß Bruchstaller uns diese Decken und ein paar Pakete
-Zwieback auf das Eis wir’s!!«
+Zwieback auf das Eis wirft!«
 
 Dann streckte er sich lang …
 
-»Versuchen wir zu schlafen … — Gute Nach!!«
+»Versuchen wir zu schlafen … — Gute Nacht!«
 
-»Deine Witze sind etwas unangebracht!!« ich war wirkt
-häuslich gereizt. Die Robinsonade auf einem Eisberg erschien mir
+»Deine Witze sind etwas unangebracht!« … Ich war wirklich
+gereizt. Die Robinsonade auf einem Eisberg erschien mir
 durchaus nicht verlockend …
 
 Harst blieb stumm.
 
 Unglaublich, aber wahr: in kurzem schlief er ganz fest,
-pustete, schraubte … Beneidenswer!!
+pustete, schnaubte … Beneidenswert!
 
 Ich tat kein Auge zu. Und das ist begreiflich. Wir
-hatten bisher ein einziges Mal weit drunten im Südpolar«-
-Gebiet das zweifelhafte Vergnügen gehabt, auf einer Eishöhle
+hatten bisher ein einziges Mal weit drunten im Südpolargebiet
+das zweifelhafte Vergnügen gehabt, auf einer Eishöhle
 nach einer erschütternden Schiffskatastrophe vier Tage
 umherzutreiben. Das war vor sechs Jahren. Und doch:
 jene Tage, in denen wir halb erfroren und halb verhungert
-in dumpfer Ergebenheit den Tv erwartet hatten, waren in
-meiner Erinnerung voll schreckhaft lebendig und drängten
-sie mir gerade jetzt mit allen peinvollen Einzelheiten fast
+in dumpfer Ergebenheit den Tod erwartet hatten, waren in
+meiner Erinnerung noch schreckhaft lebendig und drängten
+sich mir gerade jetzt mit allen peinvollen Einzelheiten fast
 grausam deutlich wieder auf.
 
 Schlafen?! Nein — ich besaß nicht Haralds robuste
 Nerven! Ich lag da, lauschte seinen tiefen Atemzügen und
 dem unaufhörlichen Summen und Surren des Propellers,
 
-Mabel Golling erschien nicht! wieder.
+Mabel Golling erschien nicht wieder.
 
 Ein Zustand fieberhafter Erregung ließ jenes scheußliche
 nervöse Kribbeln in meinen Füßen aufleben, das schließlich
-in Auf Augen und Nichte Krampfanfälle übergeht. Außerdem
+in Zuckungen und leichte Krampfanfälle übergeht. Außerdem
 starben mir die Hände infolge der engen Fesseln immer mehr
 ab. Ich richtete mich auf. Mein verzweifelter Blick irrte
 umher, suchte nach irgendeinem Gegenstand, der sich vielleicht
-mit von Zähnen erreichen ließ und der sich dazu eignete,
-die Drähte durchzufeilen. Aber außer ein paar gut weist.
-Alten Benzinkarren gab es hier nichts, was 23 hätte
-helfen können. Es gestiegen Minuten, Stunden dahin …
+mit den Zähnen erreichen ließ und der sich dazu eignete,
+die Drähte durchzufeilen. Aber außer ein paar gut verstauten
+Benzinkannen gab es hier nichts, was uns hätte
+helfen können. Es schlichen Minuten, Stunden dahin …
 
-Ich befand mich schließlich in jenem Zustand körperlichen
+Ich befand mich schließlich in jenem Zustand körperlicher
 <@pagebreak/>
 und geistiger Erschöpfung, der uns gegen alles vollkommen
 gleichgültig macht. Ich hatte nur den einen Wunsch, mich
-wieder frei bewegen zu können »… andere Luft zu atmen.
+wieder frei bewegen zu können … andere Luft zu atmen.
 
-Und der Eindecker flog weiter und weiter, —
+Und der Eindecker flog weiter und weiter, 
 
-Plötzlich schon?die empor …
+Plötzlich schrak ich empor …
 
 Die kleine Tür stand offen, und Mabel Golling war bereits
 dabei, Harald die Fußfesseln abzunehmen.
 
 »Es ist Zeit,« sagte sie mit boshafter Betonung.
 
-Dann standen wir beide mit gefesselten Händen (jetzt aus
+Dann standen wir beide mit gefesselten Händen (jetzt auf
 dem Rücken gefesselt) vor der offenen, gewölbten Ausgangstür
-des Flugzeuge …
+des Flugzeugs …
 
-» Mabel mit einer Repetierpistole hinter uns. Sie hatte
+Mabel mit einer Repetierpistole hinter uns. Sie hatte
 uns eindringlich gewarnt, nicht etwa einen Angriff auf sie
 zu wagen. Sie hätte natürlich geschossen. So dumm waren
 wir doch nicht, ihr den Gefallen zu tun, uns niederknallen
@@ -1264,15 +1264,15 @@ zu können …
 
 Rechts erblickten wir einen ungeheuren Eisberg mit
 hohen blinkenden Kuppen. Der Eindecker flog ganz niedrig,
-senkte sich immer mehr, hielt auf ein flaches, körniges Gaunern
-Feld zu … Mädel nahm mir die Handfesseln ab …
+senkte sich immer mehr, hielt auf ein flaches, körniges Schneefeld
+zu … Mabel nahm mir die Handfesseln ab …
 
 »Springen Sie!«
 
-Der L. F, B, glitt in fünf Meter Höhe über die glatte
+Der L. F. B. glitt in fünf Meter Höhe über die glatte
 Fläche hinweg … Ich sprang — nach vorwärts …
 
-Mit unheimlichen Sausen hörte ich das Steuer des Ein«-
+Mit unheimlichen Sausen hörte ich das Steuer des
 Eindeckers über mir …
 
 Ich fiel auf Hände und Füße, schlug mir die Nase blutig,
@@ -1285,205 +1285,205 @@ Die Wolldecken flatterten wie Riesenvögel nach unten.
 Ein Paket klatschte ins Wasser … Der Eindecker schoß wieder
 empor …
 
-Harald rannte zur Klagelaute … Eine mitleidige Welle
+Harald rannte zur Eiskante … Eine mitleidige Welle
 warf ihm das Paket Hartzwieback vor die Füße, bevor es
-voll Wasser gezogen und versunken war,
+voll Wasser gesogen und versunken war,
 
 <@pagebreak/>
 Wir blickten dem L. F. B. wortlos nach, wie er sich höher
-und höher schraubte und schließlich als heiles Pünktchen im
-klaren Weiter verschwand.
+und höher schraubte und schließlich als helles Pünktchen im
+klaren Aether verschwand.
 
 »Zwei Wolldecken, drei Zweipfundbüchsen Fleisch, drei
 Pakete Hartzwieback und zwei Schachteln Zigaretten …« sagte
-Harst, als wir unsere verstreuten Reichtümer zusammengesucht
-versammelt hatten. »Dazu zwei Taschenmesser, zwei Clementpistolen,
-drei Patronenrahmen, zwei Taschenlampen, vier Ersatzbattesxien,
-zwei »Nagelfeilen, wer Taschentücher, zwei Füllhalter,
-zwei …
+Harst, als wir unsere verstreuten Reichtümer zusammengesammelt
+hatten. »Dazu zwei Taschenmesser, zwei Clementpistolen,
+drei Patronenrahmen, zwei Taschenlampen, vier Ersatzbatterien,
+zwei Nagelfeilen, zwei Taschentücher, zwei Füllhalter,
+zwei …«
 
 »Hör auf!« ich wurde — grob.
 
 »Gestatte, — das alles ist mehr, als je zwei echte Robinsons
-besessen haben … — Bc … en wir die Sachen. Gut
-den Decken machen wir Rucksack«, und dann wollen wi« diese
-Eisinsel erst mal gründlich durchforschen, die meiner Ich izzung
+besessen haben … — Verteilen wir die Sachen. Aus
+den Decken machen wir Rucksäcke, und dann wollen wir diese
+Eisinsel erst mal gründlich durchforschen, die meiner Schätzung
 einen Durchmesser von einer halben Meile hat. Es ist ein
 Eisberg, wie er nicht häufig in diesen Meeresstrichen angetroffen
-wird, und es sollte mich) sehr wundern, wenn wir nicht
+wird, und es sollte mich sehr wundern, wenn wir nicht
 in einer Bucht der weißen Insel auf Robben stießen. Vorwärts
 also!«
 
-Robben!! Das war um Hoffnungsstrahl.
+Robben!! Das war ein Hoffnungsstrahl.
 
 Meine gereizte Stimmung milderte sich.
 
 Wir marschierten los.
 
 Überall auf dem Eisberg hatten sich in tieferen Stellen
-bereits Wassertümpel gebildet, Über trotz des prallen
-Mtiiags&sonnensunse schätzte ich die Wärme auf höchstens
-vi«: Grad. Unsere Hände und Füße bekamen wieder Gefühl.
-Harst legte ein bedenkliches Tempo »durch; Wir hielten uns
-Hummer dicht arm Rande der Elastisch, denn das Innere bestand
-zu« lauter Hafen und Kugeln, Abgründen und Schluchten,
+bereits Wassertümpel gebildet. Aber trotz des prallen
+Mittagssonnenscheins schätzte ich die Wärme auf höchstens
+vier Grad. Unsere Hände und Füße bekamen wieder Gefühl.
+Harst legte ein bedenkliches Tempo vor. Wir hielten uns
+immer dicht am Rande der Eisinsel, denn das Innere bestand
+aus lauter Zacken und Hügeln, Abgründen und Schluchten,
 
-… Wer ankert 3? einen solchen weißen Wanderer zu dem
-hohen Norden — ck »H hat, macht sich schwer eine Vorstellung
-von den sieht. Schönheiten dieser der Schiffahrt so sehr
-
-durchrasten Eismassen. — Ich kann mich hier mit Naturschilderungen
-»mit »Asiaten. Wir sahen, als wir um ein
+Wer noch nie einen solchen weißen Wanderer zu dem
+hohen Norden gesehen hat, macht sich schwer eine Vorstellung
+von den vielfachen Schönheiten dieser der Schiffahrt so sehr
+bedrohenden Eismassen. — Ich kann mich hier mit Naturschilderungen
+nicht aufhalten. Wir sahen, als wir um ein
 <@pagebreak/>
-hohes Kap bogen, eine schmale Bucht … Und am Eisgetränke
-in der Sonne an die zweihundert Robben wie schwarze Treue,
-dazu Scharen von Möwen und Rammen und Eidergänsen.
+hohes Kap bogen, eine schmale Bucht … Und am Eisstrande
+in der Sonne an die zweihundert Robben wie schwarze Flecke,
+dazu Scharen von Möwen und Lummen und Eidergänsen.
 
 Harst lachte still in sich hinein …
 
 »Nun, Max Schraut?! Hungern werden wir hier nicht,
 und …« Er schwieg … Starrte zu Boden — hinter einen
 Eisblock … Dort lag ein toter Eskimohund … Von den
-Löwen bereits angespielt … Der Bauch offen … Scheußlich.
+Möwen bereits angehackt … Der Bauch offen … Scheußlich.
 
-Über ein Hund … Harald blickte bedächtig rundum …
+Aber ein Hund … Harald blickte bedächtig rundum …
 
 Zeigte auf eine dreißig Schritt weiter ab liegende kleine
-Sonne … Wollte etwas sagen …
+Tonne … Wollte etwas sagen …
 
 Jemand anders sagte etwas …
 
-Es gab hier am Buchteingang eine ganze Menge Gießbäche,
+Es gab hier am Buchteingang eine ganze Menge Eisblöcke,
 und hinter einem besonders stattlichen und zackigen
 kam die helle, klare Stimme hervor:
 
 »Hände hoch, meine Herren«.!«
 
-In den Rissen des Blockes waren zwei Büchsenläufe ekscHieuen…
+In den Rissen des Blockes waren zwei Büchsenläufe erschienen.
 
 »Hände hoch! Stehen Sie still!«
 
-Englisch … Über ein leichter fremder Akzent.
+Englisch … Aber ein leichter fremder Akzent.
 
 »Mit dem größten Vergnügen!« rief Harst zurück. »Wir
-freuen uns, daß wir hier nicht allein sind … Hm übrigen
+freuen uns, daß wir hier nicht allein sind … Im übrigen
 sind wir ganz ungefährlich …«
 
-H3 war nichts dagegen zu machen: der kleine Kerl von
+Es war nichts dagegen zu machen: der kleine Kerl von
 Eskimo mit seinem schmierigen Puppenkopfgesicht fesselte uns
-die Hände auf dem Rücken, während uns gerührt eine Turme
-Dasein im Pelzanzug und ein zweiter Eskimo uns mit schußbereiter
+die Hände auf dem Rücken, während uns gegenüber eine Europäerin
+im Pelzanzug und ein zweiter Eskimo uns mit schußbereiten
 Repetierbüchsen bedrohten.
 
 Harst ließ alles mit sich geschehen.
 
 Die blonde Frau (ganz jung war sie nicht mehr) winkte
-dann ihren beiden Eskimogefährten gebieterischm zu, schritt
+dann ihren beiden Eskimogefährten gebieterisch zu, schritt
 voran, und wir mußten hinterdrein.
 
 Harst sagte gutgelaunt: »Mit der Robinsonade ist es
-nichts! Die Insel ist bewohnt. Es wird sich alles, altes
-finden.«…«
+nichts! Die Insel ist bewohnt. Es wird sich alles, alles
+finden …«
 
 <@pagebreak/>
-5\. Master.
+
+<h2>5. Kapitel.</h2>
 
 Es fand sich alles — stimmt.
 
 Nach einem stillen Marsch von einer Viertelstunde waren
-wir auf der anderen Seite des Cisberges angelangt, wo am
+wir auf der anderen Seite des Eisberges angelangt, wo am
 Fuße eines zerklüfteten Eishügels eine Hütte aus Bootsplanken
-mit einer Für und einem Fenster uns wohnlich
-entgegenwinkte.«
+mit einer Tür und einem Fenster uns wohnlich
+entgegenwinkte.
 
 Aber was wir dort sonst noch bemerkten, war alles in
 allem etwas sonderbar.
 
 Auf dem flachen Dach der Hütte lagen zwei Eskimofellboote,
-Kajaks. Vor dieser kleinen Wocenendvilla aber war
-ein Holzpfahl ins Eis gern:«:1r, an den mit einer Kette ein
+Kajaks. Vor dieser kleinen Wochenendvilla aber war
+ein Holzpfahl ins Eis getrieben, an den mit einer Kette ein
 Eisbär angebunden war. Er schien sich an die Gefangenschaft
 schon gewöhnt zu haben und fraß gerade das Hinterviertel
 eines der tot umherliegenden Hunde auf. Ich zählte
-seit Hunde, aber einen lebenden bemerkte ich nicht.
+sechs Hunde, aber einen lebenden bemerkte ich nicht.
 
 Die blonde Frau war in der Hütte verschwunden. Die
 beiden Eskimos führten uns zu einem Eisblock, auf dem
-als Biß ein Brett lag. Wir mußten Platz nehmen und
+als Sitz ein Brett lag. Wir mußten Platz nehmen und
 wurden mit Seehundriemen an diese Bank von Eis gefesselt.
 Die Sonne beschien uns, und die ganze Situation war so
-eigenartig, daß ich dieses Abenteuer so mehr als Fastnachtsscher3z
-hinnahm, zumal die Eskimos mit uns sehr zart uma
-gingen. Die Fesseln Brüder nicht weiter.
+eigenartig, daß ich dieses Abenteuer so mehr als Fastnachtsscherz
+hinnahm, zumal die Eskimos mit uns sehr zart umgingen.
+Die Fesseln drückten nicht weiter.
 
-… wund!«
+»Numock!«
 
 Die Stimme aus der Hütte ließ einen unserer Wächter
-eilends dem Rufe der Herrin gehalten. Der andere Tran«
-stinkende kleine Schmierfink setzte sich auf einen … toten
-Hund, legte die Büchse über die Knie und größte uns an.
+eilends dem Rufe der Herrin gehorchen. Der andere transtinkende
+kleine Schmierfink setzte sich auf einen … toten
+Hund, legte die Büchse über die Knie und glotzte uns an.
 
-Not einer Weile trat Herr Rumort wieder aus der
-Hütte hervor, über dem Arm zwei Pelzanzüge. —
+Nach einer Weile trat Herr Numock wieder aus der
+Hütte hervor, über dem Arm zwei Pelzanzüge. 
 
 Zuerst mußte ich die Fellhosen und den Fellrock überziehen.
-Ich tat es gern, obwohl die Sachen ziemlich öde«
+Ich tat es gern, obwohl die Sachen ziemlich übel
 dufteten und sicherlich voller Flöhe waren.
 
 <@pagebreak/>
 Dann Harald.
 
 Dann saßen wir wieder als Gefangene in der Sonne und
-warteten sehnsüchtig darauf, daß die blonde Drama wieder
+warteten sehnsüchtig darauf, daß die blonde Donna wieder
 erschiene und uns endlich sagte, weshalb sie uns wie Räuber
 behandelte.
 
-Der Sichtbar hatte das Hinterviertel verspeist und machte
+Der Eisbär hatte das Hinterviertel verspeist und machte
 nun an seiner Kette die komischsten Anstrengungen, einen der
 toten Hunde mit den Pranken zu sich heranzuziehen. Die
-gelbweiße Bestie sah ziemlich) unappetitlich aus. Um den
-Pfahl herum lagen Sozusagen, und der Gestank war fast
+gelbweiße Bestie sah ziemlich unappetitlich aus. Um den
+Pfahl herum lagen Kotmengen, und der Gestank war fast
 unerträglich. Dann knarrte die Hüttentür.
 
 Mit einer Zigarette zwischen den Lippen erschien die
-Herrin der weißen Insel.« Sie hatte (weibliche Eitelkeit —
-unglaublich!!) inzwischen Toilette gemacht. ’ Auf den Fenster
+Herrin der weißen Insel. Sie hatte (weibliche Eitelkeit —
+unglaublich!!) inzwischen Toilette gemacht. Auf den ersten
 Blick sah ich, daß sie jetzt gepudert und anders frisiert war,
 
 Sie lehnte sich an den Türrahmen und rauchte und schaute
-über die leicht bewegt« See hinweg. Wir waren Luft für sie,
+über die leicht bewegte See hinweg. Wir waren Luft für sie,
 
 Das wirkte ziemlich lächerlich.
 
-Harst rief ihr schließlich zu
+Harst rief ihr schließlich zu:
 
-»Sie gestatten, Miß. daß wir uns Ihnen in aller Form
-vorstellen … Dies hier ist mein Freund War Schraut, die
+»Sie gestatten, Miß, daß wir uns Ihnen in aller Form
+vorstellen … Dies hier ist mein Freund Max Schraut, die
 anerkannte Größe auf dem Gebiete der Verbrecherjagd. Ich
 selbst heiße Harald Harst. Mein Name erfreut sich leidlicher
-Berühmtheit. Wozu soll ich mein Sich: unter den Scheffel
+Berühmtheit. Wozu soll ich mein Licht unter den Scheffel
 stellen oder …«
 
-Die Blonde ich ’« den Kopf mit einem Ruck gedreht …
+Die Blonde hatte den Kopf mit einem Ruck gedreht …
 
-»Her: Harst?« of sie ungläubig …
+»Herr Harst?« rief sie ungläubig …
 
-Wird nach war fließendes Deutsch …
+Und das war fließendes Deutsch …
 
-» Wirt! ich Herr Harst?! Können Sie das beweisen?«
+»Wirklich Herr Harst?! Können Sie das beweisen?«
 
-» Aber natürlich. In unseren Brieftaschen befinden sich
+»Aber natürlich. In unseren Brieftaschen befinden sich
 unsere Ausweise nebst abgestempelten Lichtbildern …«
 
-herum näher. Sie hatte in ihren Bewegungen etwas,
-das an Theater, Bühne, Variet6s erinnerte.
+Sie kam näher. Sie hatte in ihren Bewegungen etwas,
+das an Theater, Bühne, Varieté erinnerte.
 
-»Erlauben Sie,« fügte Harst ebenso ironisch (even8würdig
-hinzu »daß ich Ihnen meine Brieftasche überreiche …
+»Erlauben Sie,« fügte Harst ebenso ironisch-liebenswürdig
+hinzu, »daß ich Ihnen meine Brieftasche überreiche …«
 
 <@pagebreak/>
-Der eine der Eskimo, Bauwerk, war vorhin hinter
-die Hütte gegangen … Vielleicht in dringenden Gescxyäften.
+Der eine der Eskimo, Herr Numok, war vorhin hinter
+die Hütte gegangen … Vielleicht in dringenden Geschäften.
 
 Brieftasche überreiche …!!
 
@@ -1491,25 +1491,25 @@ Haralds Hand kam zum Vorschein …
 
 Nicht mit der Brieftasche, mit der Clement …
 
-»Ich denke, meine, verehrte Landsmännin, wir einigen
-ans auf friedlichen Verkehr … Daß Ihr büchsenbewaffneter
+»Ich denke, meine verehrte Landsmännin, wir einigen
+uns auf friedlichen Verkehr … Daß Ihr büchsenbewaffneter
 Wächter dort keine einzige Patrone mehr besitzt, steht wohl
 fest … Sonst hätten Sie die Hunde nicht aus Mangel an
 Nahrung für die Tiere erstochen. Ihre Munition haben Sie
 verbraucht. Wir beide dagegen — ah, mein Freund hat auch
-bereits die Hände frei! — (das stimmtch — haben hier je
-neun Schuß Tür Verfügung …«
+bereits die Hände frei! — (das stimmte) — haben hier je
+neun Schuß zur Verfügung …«
 
 Der Eskimo mit seiner zwecklosen Repetierbüchse saß wie
-ein Häuschen Unglück auf dem toten Hunde.
+ein Häufchen Unglück auf dem toten Hunde.
 
 Die Landsmännin lächelte verzerrt … Ich bückte mich.
 
-Au) unsere Füße waren frei. Harst erhob sich.
+Auch unsere Füße waren frei. Harst erhob sich.
 
 »Man soll Damen nicht nach ihrem Namen fragen,« sagte
 er mit jener liebenswürdigen Zwanglosigkeit, die gerade bei
-ihm so bestehend wirkt. »Ihr etwas aggressives Verhaften
+ihm so bestechend wirkt. »Ihr etwas aggressives Verhalten
 uns gegenüber, meine Gnädige, mag durch besondere Gründe
 veranlaßt worden sein. Schraut und ich sind nicht nachtragend
 und auch nie unnötig neugierig. Wir werden Ihre
@@ -1521,57 +1521,56 @@ dürfte sich hier irgendwo auf dem Eisberg ein Wrack befinden.
 Vielleicht ist auch noch ein größeres Boot vorhanden,
 
 Die blonde Frau gab sich offenbar alle Mühe, jetzt ihr
-Verhaften dem Haralds anzupassen.
+Verhalten dem Haralds anzupassen.
 
 »Wenn ich gewußt hätte, mit wem ich es zu tun hatte,«
 meinte sie mit offenem Blick und einem leicht verlegenen
-
 Lächeln, »so würde ich Sie beide nicht wie … Verbrecher
 <@pagebreak/>
 hier auf meiner Eisinsel empfangen haben. Die seltsame
-Art, wie Sie hier von einem Kastens aus landeten, hatte
-mich mißtrauisq gemacht. Ich verhehle nicht, daß ich in der
-Tat ein Geheimnis zu hätten habe. Sie sollen ein Boot
-haben, Land&älceute. Nur mit Proviant kann ich Ihnen nicht
+Art, wie Sie hier von einem Flugzeug aus landeten, hatte
+mich mißtrauisch gemacht. Ich verhehle nicht, daß ich in der
+Tat ein Geheimnis zu hüten habe. Sie sollen ein Boot
+haben, Landsleute. Nur mit Proviant kann ich Ihnen nicht
 dienen. Trinkwasser liefert Ihnen das Eis. Auch Rum
-Tor a Sie mitbekommen. Nur stelle im eine Bedingung:
-Sie bleiben hier bei der Hütte, während die Ost!uns und
-ich das Boot herbeischaffen. Es ist ein halt gedeckter Kutter,
-und ich hätte längst mit ihm die Insel hie verlassen, wenn
-meine beiden Es!inne etwas vom Segeln verstünden.«
+können Sie mitbekommen. Nur stelle ich eine Bedingung:
+Sie bleiben hier bei der Hütte, während die Eskimos und
+ich das Boot herbeischaffen. Es ist ein halb gedeckter Kutter,
+und ich hätte längst mit ihm die Insel hier verlassen, wenn
+meine beiden Eskimos etwas vom Segeln verstünden.«
 
-»Ade so begleiten Sie uns dacht’« j:’lug Harald vor.
+»Aber so begleiten Sie uns doch!« schlug Harald vor.
 
-»Rein, das geht nicht. Herr Harst. Hatte fragen Sie nichts
-
-genau so, wie ich Sie nicht! ausfragen will. — Nachricht,
+»Nein, das geht nicht, Herr Harst. Hatte fragen Sie nichts
+— genau so, wie ich Sie nicht ausfragen will. — Numok,
 du kommst mit …«
 
-Zwei Stunden drauf war der tadellose Kutter Bereit,
-Wir schossen dann noch schnell an drei Bucht, wo wir vorhin
-die vielen Erhoben bemerkt bitten. acht angewachsene Tiere.
+Zwei Stunden drauf war der tadellose Kutter Bereit.
+Wir schossen dann noch schnell an der Bucht, wo wir vorhin
+die vielen Robben bemerkt hatten, acht ausgewachsene Tiere.
 Drei davon nahmen wir mit. Die übrigen überließen wir der
-blonden Frau. Salz genug zum Einpoteln des Fleisches war
+blonden Frau. Salz genug zum Einpökeln des Fleisches war
 vorhanden.
 
 Genau um fünf Uhr nachmittags stießen wir von der
 weißen Insel ab. Die Segel des Kutters füllten sich, und wir
-winkten der Unbekannten … letzten Lebewohl zu.
+winkten der Unbekannten ein letztes Lebewohl zu.
 
-Wir steuerten nordwestlichen Kurs. Je mitten wir am
-schnellsten die Dampferrcuto Mk gen. Namens erreichen.
+Wir steuerten nordwestlichen Kurs. So mußten wir am
+schnellsten die Dampferroute Bergen—Neuyork erreichen.
 
-Um halb sechs verschwanden die letzten Spitzen der Eis
-Gipfel der geheimnisvollen schwimmenden Insel unter dem
-Holland … Das Edhyisal spie!! merkwürdig
+Um halb sechs verschwanden die letzten Spitzen der Eisinsel
+der geheimnisvollen schwimmenden Insel unter dem
+Horizont … Das Schicksal spielt merkwürdig …
 
-Wir sei! v die blonde Fremde wir uns: wihalichen
+Wir sollten die blonde Fremde unter ungewöhnlichen
 Umständen wiedersehen,
 
 <@pagebreak/>
-Um die Million
 
-<h2>2. Kapitel.</h2>
+<h1>Um die Million</h1>
+
+<h2>1. Kapitel.</h2>
 
 Ich habe das letzte Kapitel wahrlich nicht aus Effekts
 Effekthascherei »Nichts fragen!« überschrieben. Wie fragten nichts
@@ -2559,7 +2558,7 @@ Ich muß es jetzt der Phantasie des Lesers anheimstellen,
 sich je naß persönlichem Geschmack auszumalen, wie wir fünf
 <@pagebreak/>
 tun auf dir Tuche nach Herrn Panama gingen. Ihr fanden
-drüben auf der anderen Seite des Eigberges, zum in einer
+drüben auf der anderen Seite des Eisberges, zum in einer
 Bucht, folgendes« den Kutter, einen kleinen Zweimastschoner,
 (wie sich nachher zeigte, war &s ein uralter morscher Kasten aus
 Kontor?k in treue »Garlanda«), und — — auf einer glatten
