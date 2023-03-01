@@ -1566,65 +1566,64 @@ Horizont … Das Schicksal spielt merkwürdig …
 Wir sollten die blonde Fremde unter ungewöhnlichen
 Umständen wiedersehen,
 
-<@pagebreak/>
+<@pagebreak 35/>
 
 <h1>Um die Million</h1>
 
 <h2>1. Kapitel.</h2>
 
-Ich habe das letzte Kapitel wahrlich nicht aus Effekts
-Effekthascherei »Nichts fragen!« überschrieben. Wie fragten nichts
-
-sie fragte nichts! Wir waren ihn gleichsam quitt, und
-Dr da; zu unendlichen Dank verpflichtet. Der prächtige
+Ich habe das letzte Kapitel wahrlich nicht aus Effekthascherei
+»Nichts fragen!« überschrieben. Wir fragten nichts
+— sie fragte nichts! Wir waren also gleichsam quitt, und
+ihr doch zu unendlichem Dank verpflichtet. Der prächtige
 Kutter war ein mehr als großmütiges Geschenk.
 
 Nichts fragen!
 
 Ein vielleicht düsteres Geheimnis war mit dem riesigen
-Eisberg unter dem Horizont Mensch. Aden …
+Eisberg unter dem Horizont verschwunden …
 
 Nichts fragen!
 
-Nun ich; glaubte mich an diese Abrede nicht zu halten.
-Ah fragte, während ich Fleischer spielte, die Robben abhäutete
+Nun ich brauchte mich an diese Abrede nicht zu halten.
+Ich fragte, während ich Fleischer spielte, die Robben abhäutete
 und zerlegte und Harald am Steuer saß.
 
 »Harald, war das Bluff, als du sagtest, du wolltest nach
-Neuhof 2«
+Neuyork?«
 
-Er rauchte mit schlichen Behagen eine der Zigaretten,
-die Fakir Bruchstallers Großmut uns gespendet hat!?.
+Er rauchte mit sichtlichem Behagen eine der Zigaretten,
+die Felix Bruchstallers Großmut uns gespendet hatte.
 
-»Flusse! Keineswegs, mein Alter …! Natürlich müssen
-wir nach Neuvnork oder wenigstens dort in die Nahe
-Ick& mochte Bruchstaller empfangen …«
+»Bluff?! Keineswegs, mein Alter …! Natürlich müssen
+wir nach Neuyork oder wenigstens dort in die Nähe …
+Ich möchte Bruchstaller empfangen …«
 
-Mein verdarb!es Gesicht war mir wahrlich nicht zu verargen
+Mein verdutztes Gesicht war mir wahrlich nicht zu verargen …
 
-»34 denke, Pußta!ler will in die Bank einbrechen?!«
+»Ich denke, Bruchstaller will in die Bank einbrechen?!«
 
-»Bahn! Nu einen. modernen. Baüktrojor wagt. sich
-Feiner von jener Zunft der Knacker mehr heran. Die See
-schlich. mit diesem Rekordsfiuzg hat einen ganz anderen Haken.
-so tt Daß ich kt irre, aber ich glaube es tu’,«
-wird oder Hafen »vier?«
+»Blödsinn! An einen modernen Banktresor wagt sich
+keiner von jener Zunft der Knacker mehr heran. Die Geschichte
+mit diesem Rekordflug hat einen ganz anderen Haken.
+Möglich, daß ich mich irre, aber ich glaube es nicht.«
 
-! lachte. »Vorsicht mir doch nicht den Spaß! Ich
+»Und der Haken wäre?«
 
-See 0 Ich Abbog Verlor Satz Du Welt Wisch. Wenn
+Harst lachte. »Verdirb mir doch nicht den Spaß! Ich
+freue mich ja schon immer im voraus auf dein Gesicht, wenn
 <@pagebreak/>
 des Pudels Kern urplötzlich zutage tritt!! Nein, Max Schraut,
-gedulde die … Und jetzt kannst du noch den Außenklüver
+gedulde dich … Und jetzt kannst du noch den Außenklüver
 setzen … Der Wind flaut ab. Wir brauchen mehr Segelfläche.«
 
 Ich wusch mir die Hände außenbords, und dann spielte
-im Matrose, Rachgier Koch.
+ich Matrose, nachher Koch.
 
 Um elf Uhr abends waren wir an Bord des Frachtdampfers
-»Direktor Nansen«, der mit einer Ladung Erz nach
+»Frietjof Nansen«, der mit einer Ladung Erz nach
 Neuyork unterwegs war und gestern abend Bergen, die norwegische
-Fischstadt, v2rlassen hatte. Unser Kutter wurde an
+Fischstadt, verlassen hatte. Unser Kutter wurde an
 Deck gehißt. Da er keinerlei Namen trug, konnten wir dem
 Kapitän gegenüber getrost ein Märchen vorbringen: wir
 seien von Malmö am Ausgang des Hardanger-Fjords zu
@@ -1634,20 +1633,20 @@ Unsere Namen änderten wir in Hirth und Schramm um,
 Beruf: Schriftsteller, Touristen aus Berlin.
 
 weshalb sollte der brave Kapitän uns das alles nicht
-glauben?! Zumal wir noch die Einzelheit mit dem Eigsberg
+glauben?! Zumal wir noch die Einzelheit mit dem Eisberg
 vorbrachten, natürlich ohne die blonde Frau zu erwähnen?!
 
-Der »Finger Nansen« hatte achtern vierzehn Passagierkabinen,
+Der »Frietjof Nansen« hatte achtern vierzehn Passagierkabinen,
 von denen neun besetzt waren. Wir nahmen Eine
 Doppelkabine, Nummer 11, 12, und erhielten noch ein großartiges
-Abendessen vorgesetzt, dem wir alle Ehre antaten…
+Abendessen vorgesetzt, dem wir alle Ehre antaten.
 Harst fragte den bedienenden Steward, wieviel Knoten der
 Dampfer mache.
 
 »Fünfzehn … Es ist ein ganz neues Schiff,« meinte der
 Mann stolz.
 
-Harald Niete bei: dicht, »Wann können wir in Rentners
+Harald nickte befriedigt. »Wann können wir in Neuyork
 Sein?« wollte er weiter wissen.
 
 »Am elften etwa … Später jedenfalls nicht, Herr Hirth.«
@@ -1663,22 +1662,22 @@ Unsere Schlafkabine war Nummer elf. Die Betten standen
 übereinander. Die peinliche Sauberkeit auf dem Nansen
 behagte uns außerordentlich. Wir begannen uns zu entkleiden.
 
-Ich war in recht zwiespältiger Stimmung. Cinecjeits
-freute ich mich, daß wir hier an Bord so tadellos ausgehoben
-waren, anderseits wurde mir die Laune durch Haralds Lord …
+Ich war in recht zwiespältiger Stimmung. Einerseits
+freute ich mich, daß wir hier an Bord so tadellos aufgehoben
+waren, anderseits wurde mir die Laune durch Haralds verd…
 Geheimniskrämerei verdorben. Ich saß oben auf meinem
-Bett in einem Nachthemd des Kapitäns und schlenderte mit
+Bett in einem Nachthemd des Kapitäns und schlenkerte mit
 den Beinen. Harald putzte sich die Zähne.
 
-»Harald sei
+»Harald!!«
 
 »Du wünschest?«
 
-»Mich! viel. Weshalb willst du Bruchstaller in Neuyork
-empfangen €«
+»Nicht viel. Weshalb willst du Bruchstaller in Neuyork
+empfangen?«
 
-»Weil … weil im? doch nicht dulden kann, daß Freund
-Burgherrn sein Geld eint «; und weil ein deutscher Ingenieur
+»Weil … weil ich doch nicht dulden kann, daß Freund
+Baxholm sein Geld einbüßt und weil ein deutscher Ingenieur
 nicht …«
 
 Schluß …
@@ -1688,69 +1687,67 @@ Er zwinkerte mich an …
 Sein Blick glitt zur Kabinentür … Ganz leise nun:
 
 »Da war jemand im Kabinengang … Machte vor unserer
-Tür halt … In unserer Lage muß man stets vorsichtig sein.
+Tür halt … In unserer Lage muß man stets vorsichtig sein,
 denn es wäre immerhin möglich, daß …«
 
 Schluß …
 
-». daß?!« fragte ich gespannt.
+»… daß?!« fragte ich gespannt.
 
 Er … gähnte …
 
-»Erster, Herr Schlamm … später!«
+»Später, Herr Schramm … später!«
 
-Trab kroch unter die See, nachdem er das Licht ausgeschaltet
+Und kroch unter die Decke, nachdem er das Licht ausgeschaltet
 hatte. Ich hatte, wie gesagt, das obere Bett.
 
-Ich saß noch Mauer und schlenkerte … Ich war wütend
-mehr auf mich selbst, neun in drei Pendeln Namen!
-sollte ich wi: Blick so u wer begabt sein und des Pudels Kern
+Ich saß noch immer und schlenkerte … Ich war wütend
+… mehr auf mich selbst, denn — in drei Deubels Namen! —
+sollte ich wirklich so minderbegabt sein und des Pudels Kern
+nicht selbst finden?!
 
-wenig! elf indem?!
+Von unten her: »Sag’ mal, was treibst du eigentlich dort,
+verehrter Oberschläfer?«
 
-Bau alten her: »Sag’ mal, was Weibes du eigentlich dort,
-
-edlen verschlafen 2«
-3G Grenze nach …«
+»Ich denke nach …«
 
 <@pagebreak/>
 »Ich denke, nach … diesem Tage solltest du lieber dein
-Hirn schonen »… Gute Nacht.«
+Hirn schonen … Gute Nacht.«
 
-»Einfalt«.!«
+»Harald …!«
 
-Zu
+»Ja?«
 
 »Glaubst du denn wirklich, daß Bruchstaller und die
 Golling den Flug wagen werden?«
 
-»Ich möchte Ei) wirklich ersuchen, diesen Namen nur
+»Ich möchte dich wirklich ersuchen, diesen Namen nur
 ganz gedämpft auszusprechen — wie ich! — Sie werden den
-Flug wagen — Westturm!! Und nun endgültig — — Gute
-Naht.«
+Flug wagen — bestimmt! Und nun endgültig — — Gute
+Nacht.«
 
 Ich legte mich lang … Ich wurde aus alledem immer
 weniger klug. Wenn Bruchstaller wirklich startete und wirklich
 in zweiunddreißig Stunden Neuyork erreichte, dann …
-kann hatte er tote die Wette gewonnen und die Million war
-ehrlich sein! Weshalb also unsere Einmischung?! Wedshalb
-diese Reise naß Neuyork?!
+dann hatte er doch die Wette gewonnen und die Million war
+ehrlich sein! Weshalb also unsere Einmischung?! Weshalb
+diese Reise nach Neuyork?!
 
 Nein — ich fand keinerlei Lösung für diesen Widerspruch,
 
-Ich zog die See bis zum Kinn, ärgerte mich noch über
-das harte Kopfkissen und versuchte eigenes)lasen. Ader meine
+Ich zog die Decke bis zum Kinn, ärgerte mich noch über
+das harte Kopfkissen und versuchte einzuschlafen. Aber meine
 Nerven — man ist ja schließlich kein Jüngling mehr! —
 spielten mir wie so oft schon den infamen Streich und ließen
-Kranich immer munterer statt müder werden. Wir wurde siedendheiß
+mich immer munterer statt müder werden. Mir wurde siedendheiß
 unter der Decke, bald stellte sich auch das niederträchtige
-
-»Fußkribbeln ein und — — nun konnte ich vorläufig getrost
+Fußkribbeln ein und — — nun konnte ich vorläufig getrost
 die Hoffnung auf Schlaf aufgeben.
-D: — — täuschte ich mich?! Hatte sie Harst nicht des
 
-weg!! Hatten seine tiefen Atemzüge nicht plötzlich aufgehört,
-— — war das nicht das leise Knarren der Tür gewesen?fl
+Da — — täuschte ich mich?! Hatte sie Harst nicht bewegt?
+Hatten seine tiefen Atemzüge nicht plötzlich aufgehört,
+— — war das nicht das leise Knarren der Tür gewesen?!
 
 Ich richtete mich auf …
 
@@ -1759,50 +1756,52 @@ Ein schwacher, breiter Lichtstreifen von halblinks …
 Dort war die Tür …
 
 Nach alter Gewohnheit hatte ich Clement und Taschenlampe
-unter das Kovyffkissen gelegt,
+unter das Kopfkissen gelegt,
 
 Meine Hand suchte — fand …
 
-Ein greller Blitz schoß naß der Für hin …
+Ein greller Blitz schoß nach der Tür hin …
 
 <@pagebreak/>
 Sie war offen — drei Handbreit …
 
-Ich beugte mich vor, Büchse hinab … Harsts Lager leer.
+Ich beugte mich vor, blickte hinab … Harsts Lager leer.
 
-Ob — dieser abgefeimte Gauner!! Was mochte es nur hier
+O — dieser abgefeimte Gauner!! Was mochte es nur hier
 auf dem Dampfer zu spionieren geben?!
 
-Ich mit einem kühnen »Satz abwärts …
+Ich mit einem kühnen Satz abwärts …
 
 Lampe halb verdeckt … Hin zur Tür … Kopf hindurch.
 
-John — hier im schwach erleuchteten Kabinengang erblickte
-ich; den Ausreißer …
+Aha — hier im schwach erleuchteten Kabinengang erblickte
+ich den Ausreißer …
 
-Nun —!so hatte ich ihn schon häufiger beobachtet — —
+Nun — *so* hatte ich ihn schon häufiger beobachtet — —
 vor einer fremden Tür kniend und den Bohrer seines Taschenmessers
 gebrauchend …
 
-Er bohrte ein Loch — unten am Rande des Getäfelte …
+Er bohrte ein Loch — unten am Rande des Getäfels …
 
-Nun, diesmal wollt« im ihn mal hineinlegen …
+Nun, diesmal wollte ich ihn mal hineinlegen …
 
-Rasche wieder auf mein Bett …
+Rasch wieder auf mein Bett …
 
-Warte, wenn du zurückspringt, mein lieber Harald, dann
+Warte, wenn du zurückkommst, mein lieber Harald, dann
 will ich dir die Leviten lesen!!
 
 Warte …!! Ja — — warten … Ich wartete … wartete.
 
-Das dauert ja unglaurlich lange, bis er zurückkehrte …
+Das dauert ja unglaublich lange, bis er zurückkehrte …
 
-Wir wurde schwül zumute … Wenn ihm etwas zugestoßen
-sein sollte?! Und ich holte hier im Bei! und …
+Mir wurde schwül zumute … Wenn ihm etwas zugestoßen
+sein sollte?! Und ich hockte hier im Bett und …
 
 Da — — wieder ein Geräusch …
+
 Die Tür wurde geschlossen, ganz leise …
-Harst!!
+
+Harst!
 
 So, nun konnte ich ja meinen Trumpf ausspielen …
 
@@ -1810,91 +1809,91 @@ So, nun konnte ich ja meinen Trumpf ausspielen …
 gesehen?« fragte ich So recht ironisch von oben herab — von
 oben herab, ich schlief ja eine Etage höher.
 
-Keine Marmor! …
+Keine Antwort …
 
-»Harald, du kannst getrost reden …! Ich habe hin bravo
-achtet und …«
+»Harald, du kannst getrost reden …! Ich habe dich beobachtet
+und …«
 
-Ich brach mitten im Satz ab, behielt den und offen,
-sog aber desto kräftiger die Luft durch die Na’. ein …
+Ich brach mitten im Satz ab, behielt den Mund offen,
+sog aber desto kräftiger die Luft durch die Nase ein …
 
 Was war das nur für ein merkwürdiger Geruch …?!
 
 Blitzartig eine noch frische Erinnerung … Der Eisberg,
-der angekettete schmutzige Eisbär …!! Raubtierhaus!!
+der angekettete schmutzige Eisbär …!! Raubtierdunst!!
 
 <@pagebreak/>
-Ja — das war’s … Und jetzt … ein leises Langen auf
-ein Linoleum … Wir rann’s eiskalt über den Rücken …
-Mein Kinn schlotterte … Ich — — hatte begriffen
+Ja — das war’s … Und jetzt … ein leises Tappen auf
+dem Linoleum … Mir rann’s eiskalt über den Rücken …
+Mein Kinn schlotterte … Ich — — hatte begriffen …
 
 Man hatte mir irgendeine vierbeinige Bestie in die Kabine
-Geist …
+geschickt …
 
-Hm Nu hob ich die Steppdecke mit der Linken als Schild
-empor … Mit! der Rechten tastete ich unter das Kopfkissen …
+Im Nu hob ich die Steppdecke mit der Linken als Schild
+empor … Mit der Rechten tastete ich unter das Kopfkissen …
 
-Gott sei Dank ich hatte die Pistole …
+Gott sei Dank — ich hatte die Pistole …
 
 Wieder das schleichende Tappen … Und jetzt noch ein
 murrendes Fauchen … Das kannte ich … Das war kein
-Eisbär, das rührte von einem Betreten des Katzengeschlechts
-her, das konnte ein Panther, ein Leer ’rd oder gar
+Eisbär, das rührte von einem Vertreter des Katzengeschlechts
+her, das konnte ein Panther, ein Leopard oder gar …
 
-Da wieder das Fauchen … Dich! unter mir …
-Hätte im nicht nach Haare gehabt, so würden sie sich
-mir fraglos gesträubt haben … Aber meine spärlichen Seiten
+Da wieder das Fauchen … Dicht unter mir …
 
-handelten haben derartige Kunststücke längst verlernt …
+Hätte ich nicht noch Haare gehabt, so würden sie sich
+mir fraglos gesträubt haben … Aber meine spärlichen Seitensardellen
+haben derartige Kunststücke längst verlernt …
 
 Ich rutschte höher … Auf das Kopfkissen — immer die
-Steppdecke als Bild benutzend, … Und dann kam’s …
+Steppdecke als Schild benutzend … Und dann kam’s …
 
-Ein heiseres Heulen — — aufheulen
+Ein heiseres Heulen — — aufheulen …
 
-Ein Körper pro!sie gegen meinen Bauch …
+Ein Körper prallte gegen meinen Bauch …
 
 Ich taumelte gegen die Wand, hatte gerade aufstehen
-
-wollen …?!ins … schoß blindlings … im Dunkeln …
+wollen … Und … schoß blindlings … im Dunkeln …
 Schuß auf Schuß … Neunmal drückte ich ab … Bis ein
-kreischender Ton den letzten Schuß dritte Unter mir ein
-dumpfer Fall … Ein Toben, Kratzen, Poltern, Stein
+kreischender Ton den letzten Schuß erstickte … Unter mir ein
+dumpfer Fall … Ein Toben, Kratzen, Poltern … Ein
+Schiffssessel fiel um … Mir liefen die eiskalten Schweißtropfen
+über das Gesicht …
 
-Schiffsleiter fiel um … Miete liefen die eiskalten EC-hwoißtropfe
-über das Gesicht
-Draußen im Kabinengang wird 038 ist rosa … Stimmen
-… Juronschlagen … Dann der De her« ihr,« eines Weibes.
+Draußen im Kabinengang wird es lebendig … Stimmen
+… Türenschlagen … Dann der gellende Schrei eines Weibes.
+
 Stille …
 
-Ich zitternde … In meinem Hirn Tau 68 In meinen
-Ohren k!arg ein ganzes GlTonspioel
+Ich zitterte … In meinem Hirn sauste es — in meinen
+Ohren klang ein ganzes Glockenspiel
 
-Alter ich ward Kerl aber meine in »ich Nerven
-Bückte mich … Taschenlampe Pi Hai!
+Aber ich ward Herr über meine fürchterlichen Nerven …
+Bückte mich … Taschenlampe … Lichtstrahl …
 
-Auf dem Linoleum!lag ein ansah Diener Leopard alle
+Auf dem Linoleum lag ein ausgewachsener Leopard … alle
 <@pagebreak/>
-Viele von sich gestreckt … Die Vorderpranken zuckten noch …
+Viere von sich gestreckt … Die Vorderpranken zuckten noch …
 Das Fell zeigte verschiedene rote Stellen … Ein Leopard!
 
 <h2>2. Kapitel.</h2>
 
 Die Bestie war tot. Der Außenrand meines Bettes war
-von den Krallen förmlich zerfetzt. »’Der Leopard hatte sich,
-nachdem er im Dunkeln im Anspruch nur gegen die Decke
+von den Krallen förmlich zerfetzt. Der Leopard hatte sich,
+nachdem er im Dunkeln im Ansprung nur gegen die Decke
 und meinen Bauch wie gegen eine Gummikugel geprallt und
-zurückgelassen war, mit den Pranken am Bettrand festgehalten.
+zurückfallen war, mit den Pranken am Bettrand festgehalten.
 Dort hatte er auch einige meiner auf gut Glück abgefeuerten
 Kugeln empfangen. Nicht alle hatten getroffen. Den Rest
 gab ihm ein regelrechter Blattschuß, wie ich jetzt sah, als ich
 von meinem Lager herabstieg und flüchtig den Kadaver
 musterte … Flüchtig … Denn meine sorgenden Gedanken
-waren bei Harst. Die Frage. wie die Bestie hier an Bord
+waren bei Harst. Die Frage, wie die Bestie hier an Bord
 gelangt und ob es sich etwa um ein beabsichtigtes Attentat
 handelte (worauf doch das Schließen der Kabinentür zunächst
-hindeutetch, war mir gleichgültig. Ich warf mich schleunigst
-in Beinkleider und Jacke, riß die Für auf und betrat den
+hindeute), war mir gleichgültig. Ich warf mich schleunigst
+in Beinkleider und Jacke, riß die Tür auf und betrat den
 Gang, in dem es immer lebhafter geworden.
 
 Aus einer Gruppe von Menschen, die am Ende des
@@ -1905,112 +1904,110 @@ Der Käpten sprach englisch.
 
 Nein — er sprach nicht … Er brüllte jetzt …
 
-»Sir, diese Werft … Geschichte wird Ihnen teuer zu stehen
+»Sir, diese verfl… Geschichte wird Ihnen teuer zu stehen
 kommen …! Natürlich haben Sie die Tür des Kastenkäfigs
 nach der Fütterung abends zu verriegeln vergessen …! Reden
-Sie nicht!! Keine Ausflüchte … ck«
+Sie nicht!! Keine Ausflüchte …!«
 
 Ich schob Frauen, Matrosen, Männer beiseite.
 
 In der Mitte des Menschenwalles lag mein Freund Harst.
-Neben ihm kniete de Erste Steuermann des Dampfers. der
-ihn bereits verbunden hat!. Es roh nach Lysol und Jodoform
+Neben ihm kniete de Erste Steuermann des Dampfers, der
+ihn bereits verbunden hatte. Es roh nach Lysol und Jodoform
 <@pagebreak/>
 … In einer Schüssel blinkte blutiges Wasser. Eine
 Verbandtasche lag in Haralds Schoß.
 
 Harst hatte die Augen offen. Er sah mich, sah mich an.
 Ich kenne seine Blicke … Jetzt tat er, als ob er sich mit der
-Hand über den Mund wischte. Ich verstand: ich sollte ist
-meinen Angaben Vorsicht :? sein.
+Hand über den Mund wischte. Ich verstand: ich sollte mit
+meinen Angaben vorsichtig sein.
 
-Hinter Haralds Kopf standen sich der eitschultrige Käpten
+Hinter Haralds Kopf standen sich der breitschultrige Käpten
 und ein schlanker, schwarzbärtiger Herr mit dicken, buschigen
-Augenbrauen wie er Deine gegenüber …
+Augenbrauen wie Kampfhähne gegenüber …
 
-Harst sagte matt. »Die Sache ist doch vom sehr glimpflich
+Harst sagte matt: »Die Sache ist doch noch sehr glimpflich
 abgelaufen, Kapitän. Herr Panama ist im Grunde zu
-bedauern,« daß er eines seiner Tiere eingebüßt hat, denn mein
-Freund Schlamm scheint den Leopard erschossen zu haben.«
+bedauern, daß er eines seiner Tiere eingebüßt hat, denn mein
+Freund Schramm scheint den Leopard erschossen zu haben.«
 
 »Allerdings!« meinte ich mit gut geheuchelter Gereiztheit.
-»Sollte ich mich etwa von der Bestie zerfleischen lassen?! Not
-Sessel!!«
+»Sollte ich mich etwa von der Bestie zerfleischen lassen?! Noch
+besser!!«
 
 »Rege dich nicht auf!« mahnte Herr Hirth gutmütig-nachsichtig.
-»Wir leben ja schließlich noch Bringt mich zu
-Bett … Der Prankenhieb über den E-4hidel wird wieder
+»Wir leben ja schließlich noch. — — Bringt mich zu
+Bett … Der Prankenhieb über den Schädel wird wieder
 verheilen … Wir Journalisten freuen uns im Grunde, wenn
 wir mal was erleben. Ich werde kein Schmerzensgeld von
-Ihnen verlangen, Herr Panama … Cm Musiker über dieses
+Ihnen verlangen, Herr Panama … Ein Artikel über dieses
 Erlebnis ist goldeswert. Sie haben ja eine Funkanlage an
-Bord, Kapitän Schramm mag nachher gleich) an die
-Berliner Jagender funken …«
+Bord, Kapitän. — Schramm mag nachher gleich an die
+Berliner Tagespost funken …«
 
-»Sie eines ja eine Seele on Mensch’« meinte der Kapitän
-halb richtig 25 As
+»Sie sind ja eine Seele von Mensch!« meinte der Kapitän
+halb ironisch.
 
-»Geschult« »ist Geschäft,« Ei Lächelte Herr Sir: zum und streckte
+»Geschäft ist Geschäft,« lächelte Herr Schramm und streckte
+Herrn Panama die Hand hin. »Da — ich trage Ihnen nichts
+nach … Schlagen Sie ein, Herr Panama …«
 
-Decken.: Panama die Hand hin Da ich trage Ihnen nichts
-9:
-nach … Gelangen Sie ein. Hof Warnung.,«
+Aber der Besitzer des Leoparden zögerte,
 
-Uhr der Besitzer des Leoparden zögerte,
-
-»Wien Sie diese Nrtifeischriöderei. « bat er dann hastig
-»Sie sollen Tagesritt Mark haben. Heer Schlamm … Mehr
-bringt Ihnen de! Artikel auch nicht bin, un« ich winkte nicht,
-daß diese verdammte Herschickte in Ton Je! vier breitgetreten
+»Lassen Sie diese Artikelschreiberei.« bat er dann hastig
+»Sie sollen tausend Mark haben, Herr Schramm … Mehr
+bringt Ihnen der Artikel auch nicht ein, und ich wünsche nicht,
+daß diese verdammte Geschichte in den Zeitungen breitgetreten
 <@pagebreak/>
 wird. Es würde meinem Ruf als Dompteur schaden, wenn
-ich auch jederzeit beschwören könnte, Satz ich den Käfig Getroffen
-habe. Es kann sich hier nur um einen nie! clrädtigen
+ich auch jederzeit beschwören könnte, daß ich den Käfig geschlossen
+habe. Es kann sich hier nur um einen niederträchtigen
 Streich von anderer Seite handeln.«
 
 Der Kapitän brauste auf …
 
-»Sir, das sind lächriiiye Berdächtigu sagen! Wer hätte
+»Sir, das sind lächerliche Verdächtigungen! Wer hätte
 ein Interesse daran, Ihnen …«
 
-»Keinen Stroh!!« — und Harald winkte mir. »Ich will
+»Keinen Streit!« — und Harald winkte mir. »Ich will
 Ruhe haben … Die Sache ist mit tausend Mark abgetan,
-obwohl ich als Schriftsteller und Journalist. Herr Panama, zu
-Ihrer Stelle dieses nachblickte Rauudbtierabenteuer als Verlache
-ausruhen würde. Denken Sie, welchen Wert es für Sie
+obwohl ich als Schriftsteller und Journalist, Herr Panama, an
+Ihrer Stelle dieses nächtliche Raubtierabenteuer als Reklame
+ausnutzen würde. Denken Sie, welchen Wert es für Sie
 hätte, wenn auch die amerikanische Presse schon vor Ihrem
 Eintreffen in Neuyork das Publikum auf Sie aufmerksam
 wachsam würde, und …«
 
 »Verzichte!« rief der Dompteur … »James,« wandte er
-sich an einen kleinen hagere!: Kerl mit einem au8gesproctyenen
-Spitzbubengesicht, »wir w: 2n Brutus aus der Kabine holen
-»… Ein netter Versagt für mich … Mein Pest?22 Tier!! Das
+sich an einen kleinen hageren Kerl mit einem ausgesprochenen
+Spitzbubengesicht, »wir werden Brutus aus der Kabine holen
+… Ein netter Verlust für mich … Mein bestes Tier!! Das
 Fell ist wahrscheinlich auch nichts mehr wert …«
 
-»Sie sind ein niederträchtiger Flacheren!« brüllte der
+»Sie sind ein niederträchtiger Schacherer!« brüllte der
 Kapitän ihn wieder an. »Jetzt an das Fell zu denken! Seien
-Sie froh, daß Ihr Fell heil geblieben ist …!’
+Sie froh, daß Ihr Fell heil geblieben ist …!«
 
-»Ruhe — — Ruhe!« — und Harst Riffe dem wütenden
-Hörten begütigend zu …
+»Ruhe — — Ruhe!« — und Harst nickte dem wütenden
+Käpten begütigend zu …
 
 Gleich darauf waren wir beide in unserer Kabine allein.
 Der Steward hatte mir eine andere Matratze und frisches
-Werkzeug gebracht. Ich saß unten auf Haralds Bettrand
+Bettzeug gebracht. Ich saß unten auf Haralds Bettrand
 im Dunkeln, stützte mich mit den Händen und ließ mir Dinge
-ins Ohr Gauner, die schier unbegreiflich waren.
+ins Ohr raunen, die schier unbegreiflich waren.
 
-»Der Herr Churle&8 Panama, mein sicher Alter, ist ein
-qgefihritlher Rum … Du Lust ganz roh!: Attentat Absicht
-’ was sonst??? Der Kerl hat seine vier Westen, zwei
-Leoparden und zwei Panther, unten im Zwishendof unteraobrudgt
-An Darf gibt es seine dir 2 1 »Forschung hier
+»Der Herr Charles Panama, mein lieber Alter, ist ein
+gefährlicher Lump … Du hast ganz recht: Attentat — Absicht!
+— was sonst?! Der Kerl hat seine vier Bestien, zwei
+Leoparden und zwei Panther, unten im Zwischendeck untergebracht.
+— Von dort gibt es keine direkte Verbindung hier
 <@pagebreak/>
 nach dem Achterschiff und den Kabinen. Daran dachte niemand
 bisher … Der Leopard müßte durch eine Luke erst an Deck
 und dann hierher gekommen sein, was er niemals ohne menschliche
-Hilfe fertiggebracht hätte. — Als ihm vor der Tür von
+Hilfe fertiggebracht hätte. — Als ich vor der Tür von
 Nummer 10 kniete, erhielt ich urplötzlich von hinten einen
 Hieb über den Schädel … Wenn ich nicht gerade mit dem
 Kopf eine Bewegung nach vorn gemacht hätte, würde ich kaum
@@ -2021,71 +2018,70 @@ Katze …«
 
 »Nicht möglich!«
 
-»0, besinne die nur, man hat mir schon einmal in dieser
+»O, besinne dich nur, man hat mir schon einmal in dieser
 Weise mitgespielt … Der Trick ist nicht neu … — Ich
 fiel vornüber, lag still. Der, der mich niedergeschlagen hatte,
-glaubte wohl, Mr den Rest gegeben zu haben … Irrtum.
-Mein Schädel ha Yso allerlei aus. Und so sah ich denn in
+glaubte wohl, mir den Rest gegeben zu haben … Irrtum.
+Mein Schädel hält so allerlei aus. Und so sah ich denn in
 dem Dämmerlicht des Ganges, wie der Bursche — es war
 Herr Panama selbst — aus Nummer 9 einen Leoparden
-holte und das Tier am Gen! in unsere Schlafkabine schob
-und die Für zuzog. Für mich war’s unter diesen Umständen
-seiner, mich sofort zu entscheiden, was ich tun sollte. Immer«
-bin schätzte im die Gefahr für dich nicht allzu hoch ein, während
+holte und das Tier am Genick in unsere Schlafkabine schob
+und die Tür zuzog. Für mich war’s unter diesen Umständen
+schwer, mich sofort zu entscheiden, was ich tun sollte. Immerhin
+schätzte ich die Gefahr für dich nicht allzu hoch ein, während
 ich anderseits das allergrößte Interesse daran hatte,
 diesen Bändiger weiter hinters Licht zu führen, der sich, nachdem
 er die gelbe Katze hineingeschickt, mich vorsichtig betastete.
 Ich markierte die tote Leiche, und er schlüpfte befriedigt in
-seinen Fuchsbau Nummer 9 Zuruf. Dann knallten deine
+seinen Fuchsbau Nummer 9 zurück. Dann knallten deine
 Schüsse. Ich atmete erleichtert auf — und das wäre alles.«
 
-»Alles?! Gestatte mal …! — Woher dein. Verdacht gegen
-die Kabine Nummer 10?! weshalb bohrtest du das Kniff
+»Alles?! Gestatte mal …! — Woher dein Verdacht gegen
+die Kabine Nummer 10?! weshalb bohrtest du das Loch?
 Wie konntest du …«
 
-»w«. im konnte schon mißtrauisch werden, mein Alter …
+»… ich konnte schon mißtrauisch werden, mein Alter …
 Ich pflege nie geistig zu schlafen, und wenn ich selbst in einem
 Labsal in allererster Gesellschaft mich befinde. Immer Augen
 <@pagebreak/>
 auf, immer die Umgebung prüfen, alles beobachten, sei es,
-wo es sei … Das ist mir nun na! zur zweiten Natur geworden
+wo es sei … Das ist mir nun mal zur zweiten Natur geworden
 — zum Glück. — Wir kamen hier an Bord … Als
 man unseren Kutter an das Fallreep zog, als wir an Deck
-stiegen, da waren unter den Matrosen und Chisffsossizieren,
-die uns in Empfang-nghmen, auch zwei … Zivilisten, zwei
+stiegen, da waren unter den Matrosen und Schiffsoffizieren,
+die uns in Empfang nahmen, auch zwei … Zivilisten, zwei
 Passagiere: Herr Panama und sein Gehilfe James! Das
 Laternenlicht traf unsere Gesichter, die wir hier in Natur
 zur Schau stellen. Traf jedoch auch Herrn Panamas und
 Herrn James’ neugieriges Antlitz, und so entging mir nicht,
-Worte Deren Millimeter erschraken, sich rasch etwas zuflüsterten
-und noH4 rascher verdufteten …«
+daß die beiden Gentlemen erschraken, sich rasch etwas zuflüsterten
+und noch rascher verdufteten …«
 
-»Das hätte auch mir genug!!«
+»Das hätte auch mir genügt!«
 
 »Nun also … — Ich wußte da: die beiden kennen uns!
 Ich jedoch kannte sie nicht. Ich sagte mir nur, daß sie kein
-ganz sauberes Gewissen haben »könnten, denn dieser beschleunigte
+ganz sauberes Gewissen haben könnten, denn dieser beschleunigte
 Rückzug war doch zu auffällig. Ich nehme nun an,
 daß sie miteinander berieten, wie sie uns schleunigst abtun
-konnten. Herr Panama wird dann den Leopard aus dem
-ZwishendeF nach oben in seine Kabine geholt haben. Und
+könnten. Herr Panama wird dann den Leopard aus dem
+Zwischendeck nach oben in seine Kabine geholt haben. Und
 alles weitere weißt du …«
 
-»Irrtum, Harald … — Wer! « die beiden? Das weiß
-ich noch Zimmer nicht.«
+»Irrtum, Harald … — Wer sind die beiden? Das weiß
+ich noch immer nicht.«
 
 »Es sind nicht zwei, sondern drei, denn Herr Panama,
 Dompteur, reist mit seiner Frau Gemahlin …«
 
 »Herr Gott ja — also drei! Aber — wer?«
 
-»Am:c!würdige Frage, mein Alter. Der eine heißt Panama,
-der andere James, und die Drama heißt Frau Panama.
-Das ist Dom vor’uufig genug. Und jetzt werden wir schlafen
-
-Morgen froh zweiter Akt … Gute Rani … Mein
-Tafel schmerzt, und 1.1) will hoffen, daß er nicht eitern wird
-… Bereitete eine Geige höher. Gute Nacht.«
+»Merkwürdige Frage, mein Alter. Der eine heißt Panama,
+der andere James, und die Donna heißt Frau Panama.
+Das ist doch vorläufig genug. Und jetzt werden wir schlafen
+… Morgen früh zweiter Akt … Gute Nacht … Mein
+Schädel schmerzt, und ich will hoffen, daß er nicht eitern wird
+… Klettere eine Etage höher. Gute Nacht.«
 
 <@pagebreak/>
 
@@ -2782,12 +2778,12 @@ eben nicht der Depeschenentwurf mit der »Armbanduhr« mich
 stutzig gemacht hätte. — Sie, Miß Tage Golling, tragen da am
 Handgelenk tatsächlich genau dieselbe Armbanduhr wie Ihre
 Zwillingsschwester Mabel, die nun mit Felix Bruchstaller
-auf irgend einem Cigsberg weit südlich darauf wartet, daß
+auf irgend einem Eisberg weit südlich darauf wartet, daß
 der Schoner sie abholt. — Pech, Miß Golling, wirklich
 Pech …! Es war aber so Onkels vorbereitet. — Und jetzt
 Herr Bruchstaller seien Sie hübsch verständig und sagen Sie
 uns, auf welcher Wellenlänge der Schoner drahtlos mit dem
-Eigsberg ihres Bruders wert:ihren sollt. Sie werden doch
+Eisberg ihres Bruders wert:ihren sollt. Sie werden doch
 nicht wollen, daß Ihr Bruder und Mabel Elend verhungern
 oder sonstwie umkommen.«
 
