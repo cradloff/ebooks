@@ -926,40 +926,39 @@ nach Cladow …!«
 
 <h3>Widersprüche.</h3>
 
-Mit einem Male stand der kleine geschniegelte Herr Wässerige
+Mit einem Male stand der kleine geschniegelte Herr Marengo
 vor uns … Es wirkt immerhin etwas komisch, wenn
-ein früherer Schauspieler schon ausgedienten Smoking jetzt?
-als Kneipwirt auftrat.
+ein früherer Schauspieler seinen ausgedienten Smoking jetzt
+als Kneipwirt aufträgt.
 
 <@pagebreak/>
 Marengo lächelt mephistohaft, verbeugt sich … »Herr
 Harst, ich habe die kleine Szene soeben mit beobachtet. Der
-alte Kerl floh vor Ihnen, und nachher war er eine Dame ge
-worden. Gestatten Sie: es war dieselbe Dame wie gestern abend
-
-— Unsereiner hat Augen.«
+alte Kerl floh vor Ihnen, und nachher war er eine Dame geworden.
+Gestatten Sie: es war dieselbe Dame wie gestern abend
+… Unsereiner hat Augen.«
 
 »Ich danke Ihnen, Herr Marengo,« sagte Harst und
-drückte dem gelenkigen kleinen Mann warm die Hand, »Nur
+drückte dem gelenkigen kleinen Mann warm die Hand. »Nur
 eins noch …«
 
 Marengo fiel ihm ins Wort … »Aha — — den Hausiererkasten
-meinen Eiche! Ganz recht!! Den hatte das Weib
+meinen Sie! Ganz recht! Den hatte das Weib
 nicht mehr! Sie muß ihn dort stehengelassen haben, wo sie
 sich umgekleidet hat …«
 
 »Allerdings … Und das dürfte in dem dunklen Winkel
-hinter einer der geöffneten Türen des Bahnhofsgebäudes gesehen
+hinter einer der geöffneten Türen des Bahnhofsgebäudes geschehen
 sein. — Ich, Herr Marengo, dachte soeben freilich
 an etwas anderes … Daran, Sie zu bitten, über all diese
 Dinge zu schweigen …«
 
-»Was selbstverständlich ist,« dienerte der Patzenhofar.
-»Wenn ich Ihnen sonst noch irgendwi? gefällig sein könnte,
+»Was selbstverständlich ist,« dienerte der Patzenhofer.
+»Wenn ich Ihnen sonst noch irgendwie gefällig sein könnte,
 Herr Harst …«
 
 »Ja, warten Sie hier mit Schraut auf mich …« Und er
-verschwand wieder im Palazzos.
+verschwand wieder im Bahnhof.
 
 Es dauerte eine geraume Weile, bis er zurückkehrte,
 
@@ -967,115 +966,111 @@ Es dauerte eine geraume Weile, bis er zurückkehrte,
 Wiedersehen, Herr Marengo … Wir haben es eilig …!«
 
 Aber Marengos faltiges rotes Gesicht mit den großen
-Puppenaugen legte sich feixend in noch« mehr FältH2n»…
+Puppenaugen legte sich feixend in noch mehr Fältchen …
 
-»Schade, Herr Harst … Nichts gefunden! in Glück
-nur, daß Ihr Ru4jack so angenehm geistvollen ist …«
+»Schade, Herr Harst … Nichts gefunden! Ein Glück
+nur, daß Ihr Rucksack so angenehm geschwollen ist …«
 
 Und nach eleganter Verbeugung eilte er in seine Kneipe
 zurück.
 
-»Talent!« sagte Harald, »Der Mann ist zu schade dazu,
-hinter dem Stank!ich den Verstand zu umnebeln … —
-Komma!! — Natürlich habe ich den Kasten gefunden … Auto
-—» halt!«
+»Talent!« sagte Harald. »Der Mann ist zu schade dazu,
+hinter dem Schanktisch den Verstand zu umnebeln … —
+Komm!! — Natürlich habe ich den Kasten gefunden … Auto
+— halt!«
 
 <@pagebreak/>
-Um Der Chauffeur musterte uns kritisch. Harst gab hm zehn
-stark …
+Der Chauffeur musterte uns kritisch. Harst gab ihm zehn
+Mark …
 
-»Mensch, groß uns nicht so dämlich an! Wir haben eilte
-Arbeit in Cladow … Jahr zu!«
+»Mensch, glotz uns nich so dämlich an! Wir haben eilje
+Arbeit in Cladow … Fahr zu!«
 
-Wir« fuhren …
+Wir fuhren …
 
 Und im Auto besichtigten wir dann unseren Fund, den
-schäbigen kleinen Holztasten.
+schäbigen kleinen Holzkasten.
 
 Oh — das war ein patentes Ding! Der ließ sich im Nu
 in ein elegantes Lederköfferchen verwandeln, und was wir
-im unteren Sah dieses Köfferchens entdeckten, das waren
+im unteren Fach dieses Köfferchens entdeckten, das waren
 nicht Zündhölzer, Schnürsenkel und Knöpfe, sondern …
 Perücken, Bärte, Schminken, ein Handspiegel, ein Kamm, eine
 Bürste und … ein sogenannter Totschläger, das heißt ein
-kurzer Lederknüttel, oben mit Bleikugeln gefüllt: eine furchtebare
+kurzer Lederknüttel, oben mit Bleikugeln gefüllt: eine furchtbare
 Waffe!
 
-Harst beugte sich vor … Die Sonne schien auf die Bisherige
+Harst beugte sich vor … Die Sonne schien auf die Bleispitze
 des Totschlägers … Braune Blutkrusten, einzelne Haare,
 festgeklebte Hautfetzen, ein kleiner Knochensplitter: Harst schaut
 mich lange an …
 
-Is verstehe … Die Blutkruste ist frisch, die Hautfetzen
-Wachs wenig verfärbt.
+Ich verstehe … Die Blutkruste ist frisch, die Hautfetzen
+noch wenig verfärbt.
 
-Harst sagt leise: »Sollte es wirklich möglich) sein?! Is
+Harst sagt leise: »Sollte es wirklich möglich sein?! Ich
 kann daran nicht glauben!«
 
-Er stockt … »Is will dir jetzt Ei: Wahrheit eingestehen:
-Das Monokel ist ein Weib, mein Ul:er! Es ist so. Ich wußte
-es schon gestern abend, als der jung? G2n! bei uns war. So
+Er stockt … »Ich will dir jetzt die Wahrheit eingestehen:
+Das Monokel ist ein Weib, mein Alter! Es ist so. Ich wußte
+es schon gestern abend, als der junge Gent bei uns war. So
 manches verriet das Geschlecht: die kleinen Hände und Füße,
-der Mund, die Zähne, die unter dem losen Pfarrer voll immer
-hervortretlende Brustwölbung … Und die Stimme, die Künste
+der Mund, die Zähne, die unter dem losen Mantel noch immer
+hervortretende Brustwölbung … Und die Stimme, die Künstlich
+dunkel getönt war, verriet sich zuweilen. — Es ist ein
+Weib … Ein junges Mädchen vielleicht — und eine Ausländerin
+… Viele Worte klangen anders, als sie eine 
+geborene Deutsche aussprechen würde …«
 
-lich dunkel getönt war, verriet sich) zuweilen. — Es ist ein
-Weib … Ein junges Mädchen Mitteilt — und eine Ausländerin
-… Viele Worte klangen anders, als sie eine ge
-
-»c«
-
-geborene Deutsche aussprechen würde …
-Jetzt, wo Harald mich auf all die88 aufmerkjuam machte.
-war auch ich überzzeugt, daß er recht hatte.
+Jetzt, wo Harald mich auf all dies aufmerksam machte,
+war auch ich überzeugt, daß er recht hatte.
 
 <@pagebreak/>
-» «- Deshalb, mein Alter, sagte ich auch, daß das Man
-Monokel uns nicht niedergeschlagen habe. Is traute einem!!s
-schlanken Weibe nicht die Kraft zu,!so blitzschnell mit einem
-Bootsfahrt zweimal so wirkungsvoll zu treffen. Die Hiebe
+»… Deshalb, mein Alter, sagte ich auch, daß das 
+Monokel uns nicht niedergeschlagen habe. Ich traute einem so
+schlanken Weibe nicht die Kraft zu, so blitzschnell mit einem
+Bootsruder zweimal so wirkungsvoll zu treffen. Die Hiebe
 folgten einander wirklich unheimlich rasch, und doch war nur
 ein Gegner da. Das sah ich …«
 
-Er blickte!starr auf den besudelten Totschläger …
+Er blickte starr auf den besudelten Totschläger …
 
 »und nun — dies gräßliche Ding! Es ist vor kurzem
 benutzt worden, und wenn wir das, was Freund Bechert mir
 so flüchtig über den Ermordeten in der Bauhütte mitteilte, hier
 mit in Betracht ziehen, so … ja, so muß man leider, leider
 dieses Weib trotz aller Widersprüche in den bisherigen Vorgängen,
-für die Täterin halten. — Widersprüche …! Niederlegen
+für die Täterin halten. — Widersprüche …! Überlegen
 wir folgendes: Wir fahren in der Nacht nach Cladow
 Hinaus, um die Beute des Monokels zu holen. Als wir diese
 Beute schon in den Händen haben, erfolgt der hinterlistige
 Angriff auf uns … Von einer einzelnen Person … Und
-nachher wirst das Monokel die Beute durch das Fenster in
-mein Arbeitszimmer, schreibt dazu »Der Lump ist erledigt«
-Dann meldet Bechert den Mord, und wir finden diesen Tot«-
-Schläger. — Wer ist also der Ermordete? Hat er wirklich mit
+nachher wirft das Monokel die Beute durch das Fenster in
+mein Arbeitszimmer, schreibt dazu »Der Lump ist erledigt«.
+Dann meldet Bechert den Mord, und wir finden diesen Totschläger.
+— Wer ist also der Ermordete? Hat er wirklich mit
 dieser Frau irgend etwas zu tun? Wenn ja: Weshalb wurde
-er beseitigt? War er der heimtückische nächtliche Angreifer?k
+er beseitigt? War er der heimtückische nächtliche Angreifer?
 Kannte er ebenfalls das Versteck …?! Weshalb wurde er
 nachher getötet? Zur Strafe?! Wenig wahrscheinlich ist das!
 Ein junges Weib mordet nicht so ohne weiteres, nicht so
-leichten Herzens. Denn dieses Mädchen hat Gemüt … Floß
+leichten Herzens. Denn dieses Mädchen hat Gemüt … Trotz
 der moralischen Verirrungen der Räuberstückchen! Und —
 wenn sie im Jähzorn, in der Erregung etwa zur Mörderin
 geworden: Weshalb warf sie die Leiche nicht mit Steinen
-beschwert in die Havel? Die Baubude steht naß Becherts
+beschwert in die Havel? Die Baubude steht nach Becherts
 Angaben keine fünfzig Meter vom Flusse ab.«
 
 Er machte eine müde Handbewegung …
 
-»Alles Theorie, nur Theorie! Über doch Widersprüche,
-
-»warten, war könnte sagen: Sinnlosigkeiten! — An Ort
+»Alles Theorie, nur Theorie! Aber doch Widersprüche,
+Ungereimtheiten, man könnte sagen: Sinnlosigkeiten! — An Ort
 <@pagebreak/>
 und Stelle werden wir klüger werden. Bechert sprach ja von
-seltsamen Nebenumständen, Darauf bin ich sehr begierig …«
+seltsamen Nebenumständen. Darauf bin ich sehr begierig …«
 
-Unser Auto hatte längst die Chaussee erreicht, näherte sie
-dem Orte Gatten»…
+Unser Auto hatte längst die Chaussee erreicht, näherte sich
+dem Orte Gatow …
 
 Plötzlich bremste unser Chauffeur sehr scharf …
 
@@ -1092,8 +1087,8 @@ Auf dem Rücken lag der Alte mit dem schütteren grauen
 Bart und der blauroten Nase …
 
 Es war der alte Hausierer aus Marengos Kneipe —
-Bug um Zug — alles stimmte, Gesicht, Kleidung — —
-alles4
+Zug um Zug — alles stimmte, Gesicht, Kleidung — —
+alles!
 
 Harst beugt sich herab …
 
@@ -1101,8 +1096,8 @@ Der Chauffeur und ich stehen neben Harald …
 
 Leider …
 
-Ich fühle, wie im mit einem Male merkwürdig schwindlig
-werde, wie mir’s vor den Augen fli:Friert …
+Ich fühle, wie ich mit einem Male merkwürdig schwindlig
+werde, wie mir’s vor den Augen flimmert …
 
 Ich schwanke … Der Chauffeur schwankt …
 
@@ -1112,55 +1107,55 @@ Dann weiß ich nichts mehr …
 
 Nichts …
 
-Und aus diesem Nichts, aus dem Dunkel des ausgestatteten
+Und aus diesem Nichts, aus dem Dunkel des ausgeschalteten
 Bewußtseins wachsen endlich ein paar hellere, verschwommene
-Stellen hervor … Meine Sinne Pensionieren
-halb … Nur halb … Was ich wahrnehme, ist wi? ein Traum,
+Stellen hervor … Meine Sinne funktionieren
+halb … Nur halb … Was ich wahrnehme, ist wie ein Traum,
 wie die groteske sprunghafte Arbeit des schlafumfangenen
 Geistes,
 
 Da ist ein Geräusch, das anschwillt, verklingt … Da ist
-ein Brausen, Sausen, Gurgeln, Namen, Stöhnen, Flüstern …
+ein Brausen, Sausen, Gurgeln, Raunen, Stöhnen, Flüstern …
 
-Da ist eine Stimme, die immer energischer behielt: »So
-schlucken Sie das, Schlau!!«
+Da ist eine Stimme, die immer energischer befielt: »So
+schlucken Sie doch, Schraut!«
 
 Bechert …!!
 
 <@pagebreak/>
-Und ich fühle etwas an meinem Munde, schlafe, öffne die
+Und ich fühle etwas an meinem Munde, schlucke, öffne die
 Augen …
 
 Ich liege auf dem Achterdeck eines Motorkutters des
 Wasserschutzes auf Decken … Der Kutter ist dicht am Rande
-des Schüfgürtels vertäut. Wellen Sturm gegen die Bord
-wand, Neben mir Harst und der Chauffeur … Vor mir
+des Schilfgürtels vertäut. Wellen gluckern gegen die Bordwand.
+Neben mir Harst und der Chauffeur … Vor mir
 Bechert, zwei andere Herren von der Kriminalpolizei und …
 Herr Marengo, der Patzenhofer.
 
-Marengo nicht mir zu. »Ein Motorrad ist ein übles
+Marengo nickt mir zu. »Ein Motorrad ist ein übles
 Knatterding, aber man kann damit einem Auto folgen, Herr
-Schraut. Art das tat ich … So kam ich gerade noch zur
+Schraut. Und das tat ich … So kam ich gerade noch zur
 rechten Zeit, um die drei Kerle, den Hausierer mit einbegriffen,
 zu verscheuchen. Harst und der Chauffeur lagen schon im
 Auto. Man wollte Sie alle drei wegschaffen. Die Kerle
-rissen aus, und im Laufen bin. im kein Meister, Herr
-Schraut, — na, Sie wissen das ja selbst … Fett Winters.«
+rissen aus, und im Laufen bin ich kein Meister, Herr
+Schraut, — na, Sie wissen das ja selbst … Fett hindert.«
 
 Harald hebt den Kopf … »Wir danken Ihnen, Herr Marengo
-… Ei? haben Talent. Den Hausierer kannten Sie da.)
+… Sie haben Talent. Den Hausierer kannten Sie doch
 nicht, — nein, ich meine: Sie würden ihn nicht wiedererkennen?!
 Unmöglich! Leider!«
 
 Harst sank wieder zurück,
 
 Nun wußte er, — auch ich: Marengo hatte nicht geplaudert!
-Unser Monokel war bisher nicht von ihm genannt worden
-Und daran ich:n Harald sehr viel zu liegen.
+Unser Monokel war bisher nicht von ihm genannt worden!
+Und daran schien Harald sehr viel zu liegen.
 
 Da wir schachmatt wie die Herbstfliegen waren, wurden
 wir beide von Cladow im Polizeiauto heimwärts geschafft. Um
-sieben Uhr abends lagen wir im Bett, Ich schlich? wie ein
+sieben Uhr abends lagen wir im Bett. Ich schlief wie ein
 Toter. Als ich erwachte, war’s fünf Uhr morgens.
 
 An meinem Bett saßen Harald, Freund Bechert und Herr
@@ -1171,21 +1166,21 @@ Emil Marengo mit den Puppenaugen …
 <h2>5. Kapitel.</h2>
 <h3>Entwischt.</h3>
 
-»Entschuldige, daß wir die; geweckt haben, mein Alter,«
+»Entschuldige, daß wir dich geweckt haben, mein Alter,«
 sagte Harst und zog rasch die Fenstervorhänge auf. »Bechert
 ist soeben mit Herrn Marengo zu uns gekommen, da sich abermals
-Dinge ereignet haben, die genau!o dunkel sind wie die
+Dinge ereignet haben, die genauso dunkel sind wie die
 bisherigen Vorkommnisse.«
 
 Er trug noch den schwarzseidenen Schlafanzug, und er war
 noch nicht rasiert und sein Haar hing ihm wirr in die Stirn,
 
 Draußen war’s bereits hell. Aber es goß in Strömen:
-Stuhl 1927!!
+Juli 1927!!
 
 Herr Marengo drückte mir die Hand …
 
-»Schien Sie, Herr Schraut, ich konnte jeht nicht länger
+»Sehen Sie, Herr Schraut, ich konnte jetzt nicht länger
 schweigen und mußte Herrn Bechert einweihen. Ich wußte ja,
 daß er mit Ihnen beiden eng befreundet ist.«
 
@@ -1197,157 +1192,158 @@ mit. Dann mag Marengo sprechen. — Hier hast du eine
 Zigarette, mein Alter. Das macht munter und regt an.«
 
 Fritz Bechert sah recht erschöpft und übernächtigt aus. Es
-ist kein; ganz reine Freude, in Berlin Kriminalkommissar zu
+ist keine ganz reine Freude, in Berlin Kriminalkommissar zu
 sein. — Er begann … Ich rauchte …
 
 »Ganz kurz also, Harst … Der Unbekannte ist von
 einer Frau ermordet worden — mit demselben Totschläger, den
-ich in Ihrem Rucksack fand. Die Spuren vor der Bauhüntte
+ich in Ihrem Rucksack fand. Die Spuren vor der Bauhütte
 sind die eines Weibes mit schmalem Fuß. Diese Frau hat den
-Mann neben einem Heu!!hausen dicht am Zaun des Sommer«
-Hauses des Direktors Nüttger getötet und die Leiche in die
-Bauhütte getragen. Neben dem Toten lag Ei? Salzsäure, mit
+Mann neben einem Schutthaufen dicht am Zaun des Sommerhauses
+des Direktors Rüttger getötet und die Leiche in die
+Bauhütte getragen. Neben dem Toten lag die Salzsäure, mit
 der das zerstörte Gesicht begossen war, etwas sehr Merkwürdiges:
-Hier — dieses kleine elegante Gdetbuch, dessen
+Hier — dieses kleine elegante Gebetbuch, dessen
 <@pagebreak/>
 Elfenbeindeckel leider durch die Säure arg beschädigt sind.
 Das Gebetbuch ist ganz neu. Wir haben bereits festgestellt,
-daß es vorgestern mittag in der katholischen Bolk8sbuchhands
-Stellung am Winterfeldpiaz in Berlin gekauft worden ist und
+daß es vorgestern mittag in der katholischen Volksbuchhandlung
+am Winterfeldplatz in Berlin gekauft worden ist und
 zwar von einer Dame in der Tracht der Ursulinerinnen. —
-Noch4 merkwürdiger ist jedoch folgendes: der völlig ausgeplünderte
+Noch merkwürdiger ist jedoch folgendes: der völlig ausgeplünderte
 Tote hatte tadellos neue braune Halbschuhe mit
-Wildledereinsatz an. Die Sohlen kamen mir etwas bis vor.
-Ei untersuchte sie und trennte sie schließlich auseinander.
+Wildledereinsatz an. Die Sohlen kamen mir etwas dick vor.
+Ich untersuchte sie und trennte sie schließlich auseinander.
 Sie bestanden aus zwei Sohlen, und zwischen beiden lag je
-ein schmaler Streifen Briefpapier bester Sorte, aus den man
+ein schmaler Streifen Briefpapier bester Sorte, auf den man
 mit gewöhnlicher Tinte lediglich das Wort
-Karpfenderbank
+
+<p class="centered">Karpfenderbank</p>
 
 geschrieben hatte, — »Karpfenderbank« auf jeden der beiden
 Zettel, sonst nichts, keine Geheimschrift, nichts, denn die Papierstreifen
 sind daraufhin schon geprüft worden. — Das wäre
 alles, lieber Harst.«
 
-»Es ist übergenug,« meinte Harald grüblerisch; … »Es
-deutet daraus h)in, daß … — aber nun kommen Sie erst an
+»Es ist übergenug,« meinte Harald grüblerisch … »Es
+deutet darauf hin, daß … — aber nun kommen Sie erst an
 die Reihe. Herr Marengo … Bitte …«
 
-»Oh, ich kann mich noch) kürzer fassen … — Ich fühle
+»Oh, ich kann mich noch kürzer fassen … — Ich fühle
 mich als Kneipwirt recht wohl. Als Sie, Herr Harst, und Ihr
 Freund heute zu mir kamen, und als ich merkte, daß Sie
 mir meine schnelle Auffassungsgabe anerkannten, da erwachte
-bei! mir der Futsch …
+bei mir der Wunsch …«
 
-… Ton gut: Sie möchten Detektiv werden, Sie Vers
-jagten »die drei Kerle von der Chaussee und haben dann offenbar,
+»… schon gut: Sie möchten Detektiv werden, Sie verjagten
+die drei Kerle von der Chaussee und haben dann offenbar,
 nachdem wir nach Hause gebracht worden waren, noch auf
-eigene Faust ein in Cladow umgesehen … und etwas in Erfahrung
+eigene Faust sich in Cladow umgesehen … und etwas in Erfahrung
 gebracht.«
 
-»Ganz richtig, Herr Harst … Is … weiß, wo die Frau
+»Ganz richtig, Herr Harst … Ich … weiß, wo die Frau
 wohnt, die …«
 
 »Ah — — nicht möglich! Wie haben Sie das ermittelt?«
-— — Mein guter Harald war sichtlich; verblüfft.
+— Mein guter Harald war sichtlich verblüfft.
 
 Emil Marengo spreizte sich vor Wichtigtuerei. Das wirkte
 <@pagebreak/>
 jedoch keineswegs unsympathisch. Der kleine, gutgenährte Herr
 hatte eben seine Eigentümlichkeiten, wie wir alle sie haben.
 
-»Die Sache ist die …« begann er mit einem Vaters, das
-Harst und- Bechert ein leichtes Schmunzeln entlockte, »Is
+»Die Sache ist die …« begann er mit einem Pathos, das
+Harst und Bechert ein leichtes Schmunzeln entlockte. »Ich
 sagte mir, daß die Frau, die den Mord verübt und in deren
 Patentkasten Herr Kriminalkommissar Bechert den Totschläger
-gefunden und mir gezeigt hatte, Dietrich!! in Cladow selbst
+gefunden und mir gezeigt hatte, vielleicht in Cladow selbst
 wohne. Ich stellte mein Motorrad im Seepavillon unter und
 ging zum Schein nach Sommerwohnungen mich erkundigen.
 Zunächst hatte ich keinen Erfolg. Überall ließ ich mich mit den
-Verwickeln in ein längeres Gespräch ein und warf dann vorsichtig
+Vermietern in ein längeres Gespräch ein und warf dann vorsichtig
 meine Angel aus, fragte nach der Dame, beschrieb ihr
 Äußeres und vertrödelte damit viel Zeit. Es wurde abend.
 Ich wollte die Sache schon als aussichtslos aufgeben, als ich
-nochmals dem freien Uferplae mich zuwandte, wo links das
-Bauterrain cingeebnet wird und rechts dann der Streifen
+nochmals dem freien Uferplatze mich zuwandte, wo links das
+Bauterrain eingeebnet wird und rechts dann der Streifen
 Badestrand sich anschließt, weiterhin aber ein braunes Holzhaus
-mit großem Garten, das einen Herrn …«
+mit großem Garten, das einem Herrn …«
 
-».- Rüttger gehört — — weiter, weiter!«
+»… Rüttger gehört — — weiter, weiter!«
 
 Marengo kam durch diesen Einwurf Harsts ein wenig
-aus dem Text. »Ja — also … also auf dem Nüttgerschen
+aus dem Text. »Ja — also … also auf dem Rüttgerschen
 Bootssteg angelte ein Arbeiter … Ich rief ihn an, und da
-endlich …’ —
+endlich …«
 
 »… erfuhren Sie, daß Herr Rüttger sein Sommerhaus,
 seine große Motorjacht und seine Segeljacht einer bekannten
 und mit seiner Frau befreundeten Deutschamerikanerin für
 den Sommer überlassen hat, da er selbst mit den Seinen
-auf seinem Gute in Mecklenburg weilt, Die Dame besitzt im
-übrigen Geraldine Garring, ist die Tochter des Chik2goer
-Multimillionärs Rom Garring und hält sich) hier in Berlin
-zu Studienzwecken auf: Musik« und Gesangsstudien.«
+auf seinem Gute in Mecklenburg weilt. Die Dame heißt im
+übrigen Geraldine Garring, ist die Tochter des Chikagoer
+Multimillionärs Tom Garring und hält sich hier in Berlin
+zu Studienzwecken auf: Musik- und Gesangsstudien.«
 
 Jetzt waren wir drei anderen diejenigen, die Harald maßlos
-erstaunt anstarrten. Boy Emil Marengo war noch ein
+erstaunt anstarrten. Bei Emil Marengo war noch ein
 gut Teil Enttäuschung festzustellen, und er platzte denn auch
-heraus: »Und da lassen Sie mich erst hier lange Reden halten.
+heraus: »Und da lassen Sie mich erst hier lange Reden halten,
 <@pagebreak/>
 Herr Harst?! Wo Sie doch schon alles weit besser wissen als
 ich?! Ich finde das nicht eben …«
 
-»’«- nett von mir, nicht wahr?! — Nun, seien Sie deswegen
+»… nett von mir, nicht wahr?! — Nun, seien Sie deswegen
 nicht böse, Herr Marengo. Meine Kenntnis über unsere
-»Dame« stammt von demselben Arbeiter, der bot Rüttgers
-G« inne spielt und an!enorm Rogenmöraen aleichfills angelte,
-als Schraut noch im Unkraut lag und als ich ein Erfrischungskur
-Rani. Ins worin Glas Heck gar einen spleenigen Fremden,
+»Dame« stammt von demselben Arbeiter, der bei Rüttgers
+Gärtner spielt und an jenem Regenmorgen gleichfalls angelte,
+als Schraut noch im Unkraut lag und als ich ein Erfrischungsbad
+nahm. Der Mann hielt mich für einen spleenigen Fremden,
 plauderte arglos alles aus, was ich wissen wollte, und
 zog dann freudestrahlend mit seinen zehn Mark und den drei
-fingerlangen Großen ab, weil der sachte Regen in einen gehörigen
-Guß aufknotete.«
+fingerlangen Plötzen ab, weil der sachte Regen in einen gehörigen
+Guß ausartete.«
 
-Inzwischen hatte im Zeit gehabt, auch in mir genügend
-Morgen aufzustapeln, der sich nun in dem gereizten Ausruf
-entlud: »Infam von dir!! Das alles hast du mir natürlich wies
-der verschwiegen!!«
+Inzwischen hatte ich Zeit gehabt, auch in mir genügend
+Ärger aufzustapeln, der sich nun in dem gereizten Ausruf
+entlud: »Infam von dir!! Das alles hast du mir natürlich wieder
+verschwiegen!!«
 
 »Weil ich keine halbfertigen Eier lege — keine Windeier
-ohne Kaltschale, mein Alter …! Jedes zu seiner Zeit! Und hat
+ohne Kaltschale, mein Alter …! Jedes zu seiner Zeit! Und damit
 nun auch Bechert Grund zum Wettern und Schimpfen
-hat Lieber Spitze Bechert, die Dame, um die es hier geht,
-ist Höchstwahrscheinlich das Monokel «!!«
+hat: Lieber Fritze Bechert, die Dame, um die es hier geht,
+ist Höchstwahrscheinlich das Monokel …!!«
 
 »Monokel?«
 
 »Nun ja: So hat der Mitarbeiter der Abendpost den
-belog ’n!en Straßenräuber genannt, der vorgestern den Rechts
-Anwalt Mantel und abends die Diva Anni Anna … vorher
-aber nahm« sechs andere ausgeplündert ha!!«
+eleganten Straßenräuber genannt, der vorgestern den Rechtsanwalt
+Morsel und abends die Diva Anni Inna … vorher
+aber noch sechs andere ausgeplündert hat!«
 
 Bechert machte zunähst ein verdutztes Gesicht, lachte dann
 aber hell auf. »Eine Millionärstochter Straßenräuberin und
-20 denn?! Das klingt nicht nur amerikanisch, das sind mir
-2\.4 »Co zu höhnische Wälder!!«
+Mörderin?! Das klingt nicht nur amerikanisch, das sind mir
+geradezu böhmische Wälder!!«
 
 Harst blickte Bechert sonderbar an. »Sie werden nachher
-ich! mehr lachen, Freund Fritz!« Und jetzt erzählte er von
+nicht mehr lachen, Freund Fritz!« Und jetzt erzählte er von
 dem Motorkreuzer mit der Harfenhupe, von dem grünen
-Sicht, das durch das Bereich in den Fensterladen nach draußen
+Licht, das durch das Herzloch in den Fensterladen nach draußen
 <@pagebreak/>
 fiel und von der Person, die vom Bootssteg aus den Garten
 betrat und verschwand, fügte hinzu:
 
 »Es kann Geraldine Garring gewesen sein … kann …! —
-Schraut, »anziehen! In einer halben S:runde sind wir in
+Schraut, anziehen! In einer halben Stunde sind wir in
 Cladow. Ich will den Stier bei den Hörnern packen, besser:
 die Kuh! Miß Garring wird Farbe bekennen müssen! Wir
 sind unser vier, und das genügt, selbst für den Fall, daß Miß
 Garrings Dienerschaft uns Schwierigkeiten bereiten sollte.« —
 
 Um halb sieben morgens standen wir vier vor der Gartenpforte
-des Nüttgerschen Grundstücks. Harst schickte mich und
+des Rüttgerschen Grundstücks. Harst schickte mich und
 Marengo nach dem Badestrand. Wir sollten dort aufpassen
 — sehr überflüssigerweise, denn auf dem Bootssteg angelte
 wieder bei dem prächtigen Wetter der blasse, kränklich aussehende
@@ -1355,18 +1351,18 @@ Arbeiter: Marengos und Harsts Gewährsmann!
 
 Und der sagte uns, daß Miß Garring vor drei Stunden
 in ihrem Reiseauto Berlin verlassen habe — zusammen mit
-ihrer Zofe, ihrem So) und ihrem Diener, — nach Bayern
+ihrer Zofe, ihrem Koch und ihrem Diener, — nach Bayern
 wollten sie … angeblich …
 
 Bechert lief zur Post, telephonierte ans Präsidium. Das
-Autos, blauschwarz, großer Fordwagen, sollte aufgehalten werden.
+Auto, blauschwarz, großer Fordwagen, sollte aufgehalten werden.
 Telegraph, Telephon, Radio alarmierte alle Beamten weit
 und breit.
 
 Um neun vormittags bereits Meldung aus Potsdam: Der
 Fordwagen war dort im Deutschen Hof untergestellt worden.
 Die fünf Insassen, Chauffeur eingerechnet, waren in einer
-Autodroschke davongefahren. Buch diese Autotaxe war ermittelt.
+Autodroschke davongefahren. Auch diese Autotaxe war ermittelt.
 Die Amerikaner hatten sich mit ihren Koffern nach
 Berlin zurückbringen lassen, zum Anhalter Bahnhof.
 
@@ -1374,14 +1370,14 @@ Die Berliner Polizei hatte wieder einmal glänzend gearbeitet.
 Aber vom Anhalter Bahnhof verlor sich jede Spur —
 jede …
 
-Ein voller Lag verging — nichts …
+Ein voller Tag verging — nichts …
 
 Inzwischen hatte … —, — nein, damit will ich lieber
-den streifen Teil beginnen …
+den zweiten Teil beginnen …
 
 <@pagebreak/>
 
-Karpf — ender — Bank,
+<h1>Karpf — ender — bank.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Als Harst Kompost siebte …</h3>
@@ -1389,74 +1385,74 @@ Karpf — ender — Bank,
 Inzwischen hatten die Ermittlungen der Kriminalpolizei,
 insbesondere der Mordkommission, der Harst sein gesamtes
 Material zur Verfügung gestellt hatte, noch mancherlei
-an den Tag gebracht, was die Gesamtlage eher noch) verwirrte,
-anstatt sie zu klären. — Um hier gleich) zu erwähnen:
+an den Tag gebracht, was die Gesamtlage eher noch verwirrte,
+anstatt sie zu klären. — Um hier gleich zu erwähnen:
 Harst hielt sich bei diesen Nachforschungen und Feststellungen
 vollkommen zurück, obwohl unsere Bekannten vom Polizeipräsidium
-ihn mehrfach aufgefordert und sogar dringend ge
-beten hatten, mit ihnen gemeinsam den mysteriösen Fall
+ihn mehrfach aufgefordert und sogar dringend gebeten
+hatten, mit ihnen gemeinsam den mysteriösen Fall
 weiter zu bearbeiten. Seine damalige Stimmung, er war
 still, verschlossen und außerordentlich zerstreut, blieb mir zunächst
 rätselhaft. Er rührte sich nicht aus dem Hause weg,
 arbeitete im Garten und zeigte wenig Teilnahme für Freund
-Becherts Beridäzte, der sozusagen das Bindeglied zwischen uns
-und der Kriminalpolizei darstellte, deren Korn;engen viel
-zu vornehme Charaktere waren, als daß sie Harst Sir absichtlich
+Becherts Berichte, der sozusagen das Bindeglied zwischen uns
+und der Kriminalpolizei darstellte, deren Koryphäen viel
+zu vornehme Charaktere waren, als daß sie Harst etwa absichtlich
 hätten ausschalten wollen.
 
 Der geringe Umfang dieser Bändchen erlaubt es mir leider
-nicht, hier, wie im; es wohl möchte, eingehender die erfolgreiche
-und doch auch wieder ergebnislose Arbeit der Kennwort
-Polizei zu beleuchten, daher in aller Kürze: Ton Garring,
+nicht, hier, wie ich es wohl möchte, eingehender die erfolgreiche
+und doch auch wieder ergebnislose Arbeit der Kriminalpolizei
+zu beleuchten, daher in aller Kürze: Tom Garring,
 Chikago, auf zweihundert Millionen geschätzt, Witwer seit
 1910, hatte zwei Kinder gehabt: Geraldine, jetzt dreiundzwanzig
-alt, und einen Sohn, den Erstgeborenen, namens Richard Gerald.
-Dieser Sohn und Erbe war jeder ein allzu leichtes
+alt, und einen Sohn, den Erstgeborenen, namens Richard-Gerald.
+Dieser Sohn und Erbe war jedoch ein allzu leichtes
 Pflänzchen gewesen, hatte allerlei Dummheiten gemacht, die
 <@pagebreak/>
-ihn aus mit den Behörden in Konflikt brachten, und war
+ihn auch mit den Behörden in Konflikt brachten, und war
 schließlich mit seinem Rennboot, als er wegen fahrlässiger
 Tötung neuerdings verhaftet werden sollte, absichtlich gegen
 eine Sandbank und ein paar Steinblöcke gefahren, der Motor
-war explodiert und Richard-Gerald nur voll als halb verkohlte
-Leiche aus dem brennenden Wrack herausgeholt werden,
--» Der alte Garring nahm von dem Tode seines Sohnes,
-von dem er sie schon vorher völlig losgesagt hatte, keinerlei
+war explodiert und Richard-Gerald nur noch als halb verkohlte
+Leiche aus dem brennenden Wrack herausgeholt worden.
+— Der alte Garring nahm von dem Tode seines Sohnes,
+von dem er sich schon vorher völlig losgesagt hatte, keinerlei
 Notiz. Richard-Gerald existierte für ihn nicht mehr. Dies
-geschah im Februar 1927. — Hm April trat Geraldine Garring
+geschah im Februar 1927. — Im April trat Geraldine Garring
 ihre Europareise an — in Begleitung lang erprobter
 Bediensteter: des Dieners, des Kochs, des Chauffeurs und
 der Zofe. Diese fünf bezogen das Sommerhaus Rüttgers in
 Cladow. Außerdem hatte Geraldine Garring aber noch in
-der Kaiserallee. in Berlin, Nr. 21, Hochparterre rechts, eine
-Feudale möblierte Vierzimmerwohnung gemietet, in der sie sich
-Freilich nur selten aufgehaltan hatte. Verkehr hatte sie
-sticht gepflegt. Ihre Lehrerin, die Kammersängerin Marzella
-umso, bei der sie ihren wundervollen Sopran veredeln und
-zu) ihr Talent als Pianistin in ein geordnetes Studium
-Denken ließ, schilderte Miß Garring als bescheiden, höflich,
-Sehr ernst und schwerblütig. Die Annahme, daß Georalvine
-igl8 Straßenräuberin sich betätigt haben könnte, verwarf sie
-Halb empört und halb belustigt, — Was man sonst noch
-über Geraldines Tun und Lassen hier in Berlin setzte! on
-konnte, war sehr wenig. Sie hatte mit dem Nüttgersien
+der Kaiserallee in Berlin, Nr. 21, hochparterre rechts, eine
+feudale möblierte Vierzimmerwohnung gemietet, in der sie sich
+Freilich nur selten aufgehalten hatte. Verkehr hatte sie
+nicht gepflegt. Ihre Lehrerin, die Kammersängerin Marzella
+Emmich, bei der sie ihren wundervollen Sopran veredeln und
+auch ihr Talent als Pianistin in ein geordnetes Studium
+lenken ließ, schilderte Miß Garring als bescheiden, höflich,
+Sehr ernst und schwerblütig. Die Annahme, daß Geraldine
+als Straßenräuberin sich betätigt haben könnte, verwarf sie
+Halb empört und halb belustigt. — Was man sonst noch
+über Geraldines Tun und Lassen hier in Berlin feststellen
+konnte, war sehr wenig. Sie hatte mit dem Rüttgerschen
 Motorkreuzer auf den Gewässern der Berliner Umgebung
 fast jeden Tag längere Fahrten unternommen, wobei sie
 stets von dem Chauffeur und dem Diener begleitet gewesen
-war, — Dann das Wichtigste! am 3. Juni war gar:
+war. — Dann das Wichtigste: am 3. Juni war ganz
 unerwartet ihr Vater in Chikago verstorben, und sie wurde
-Erbin eines Riesenvermögens, Da sie zu der Beerdiaun-,
+Erbin eines Riesenvermögens. Da sie zu der Beerdigung
 nicht mehr rechtzeitig eintreffen konnte, war sie in Berlin
-geblieben, hatte weder Trauer angelegt 15 konnte sich
-nannten Dessen. v2a3 ihr der Transport ich- Linie Fächerartig.
+geblieben, hatte weder Trauer angelegt noch sonstwie sich
+anmerken lassen, daß ihr der Trauerfall irgendwie näherging.
 <@pagebreak/>
-Frau Marzella Entwich hatte hierzu erklärt, sie habe
-aus Geraldines ganzem Verhaften den Eindruck gewonnen,
+Frau Marzella Emmich hatte hierzu erklärt, sie habe
+aus Geraldines ganzem Verhalten den Eindruck gewonnen,
 daß irgendein anderes seelisches Leid bei der Millionenerbin
 jede andere Regung überwuchert habe. Ein bekannter
 Berliner Anwalt war hier der Rechtsvertreter der Erbin
 geworden, und auch er als guter Menschenkenner äußerte
-so über Charakter und Gemütsverfassung seiner Klientin
+sich über Charakter und Gemütsverfassung seiner Klientin
 ähnlich wie die Kammersängerin. — Die Harfenhupe, die
 wir immer nachts gehört, fand sich in dem Motorkreuzer
 tatsächlich vor, und in dem Sommerhause hatte die Polizei
@@ -1465,72 +1461,71 @@ im Ofen!! — Das Haus selbst mit seinen vier
 Räumen und dem Anbau war natürlich mehrmals ganz
 eingehend durchsucht worden. Was man außer der Laterne
 fand, war ohne Belang. — Dann hatte sich die Tochter
-einer Plattform, die für Geraldines Bedienstete tätig gewesen,
+einer Plätterin, die für Geraldines Bedienstete tätig gewesen,
 bei der Polizei gemeldet und drei Paar elegante Schuhe
 mitgebracht, die ihr von Miß Garring geschenkt worden waren.
 Diese Schuhe stimmten mit den Spuren der Mörderin oder
-des Vorortes des Unbekannten genau in Größe, Breite,
+des Mörders des Unbekannten genau in Größe, Breite,
 Länge, — — sehr belastend!! —
 
 Nun will ich noch aus den Angaben der acht von dem
 Monokel ausgeplünderten Personen einiges hervorheben.
-Alle acht betonten, es sei ausgeschlossen, daß he« Straßenräuber
-etwa ein verkleidetes Weib gewesen sein bunte, Als
+*Alle* acht betonten, es sei ausgeschlossen, daß der Straßenräuber
+etwa ein verkleidetes Weib gewesen sein könnte. Als
 man ihnen jedoch eine Photographie Geraldines vorlegte, die
 diese ihrer Lehrerin geschenkt hatte, wurden alle acht stutzig
 und erklärten, eine gewisse Ähnlichkeit sei unbedingt vorhanden.
 
-Und Gleicht will ich nun die Aufzählung dieser Eis
-mittelungsergebnisse beenden und nur noch abermals
+Und hiermit will ich nun die Aufzählung dieser
+Ermittelungsergebnisse beenden und nur noch abermals
 hervorheben, daß die fünf Amerikaner spurlos verschwunden
-blieben und daß am Mittag nach jenem Jage, wo wir in
-aller Frühe das Längerer;e Sommerhaus leer gefunden, mein
+blieben und daß am Mittag nach jenem Tage, wo wir in
+aller Frühe das Rüttgersche Sommerhaus leer gefunden, mein
 stiller, verdrießlicher Freund Harald gegen halb eins im Garten
 <@pagebreak/>
 mit Feuereifer Erdbeeren verpflanzte, Kürbisse düngte und
 dazu ungezählte Zigaretten rauchte und … den großen
 Schweiger spielte. Ich saß zu derselben Zeit — der Himmel
-war ’ bewölkt und die Luft wieder schwer und drückend
-ganz oben in unserem alten Kirschbaum und okkulte Töne
-große, schwarze Knupperkirschen. Du:Beine Luke in den
-Zweigen konnte ich Harst beobachten, der ist gerade am
-Komposthaufen mit dem Spaten den Kompost geben ein
+war bewölkt und die Luft wieder schwer und drückend —
+ganz oben in unserem alten Kirschbaum und pflückte schöne
+große, schwarze Knupperkirschen. Durch eine Lücke in den
+Zweigen konnte ich Harst beobachten, der jetzt gerade am
+Komposthaufen mit dem Spaten den Kompost gegen ein
 schräg gestelltes großes Sieb warf und die gesiebte Erde
 nachher für Erdbeerbeete verwenden wollte,
 
 Jedenfalls, ich sah ihn, und wenn ich auch hier oben
-scheinbar unbekümmert immer wieder »den!Leinen Meier
-am Himaldya« pfiff, so war’s in meinem Innern weit
-weniger fidel … Haralds Stimmung machte mir Kopf«-
-erbrechen.
+scheinbar unbekümmert immer wieder »den kleinen Meier
+am Himalaya<@refnote 2/>« pfiff, so war’s in meinem Innern weit
+weniger fidel … Haralds Stimmung machte mir Kopfzerbrechen.
 
-— Und dann wurde ich Zeuge eines kleinen Zwischenfall,
-her meine Tätigkeit als Kirschenpflücker sah) beendete,
+Und dann wurde ich Zeuge eines kleinen Zwischenfalls,
+der meine Tätigkeit als Kirschenpflücker jäh beendete,
 
 Harst hatte eine Ruhepause gemacht, stand auf den
-Garten gestützt da und starrte regungslos über den Zaun
-und den Feldweg hinweg nach den Lauben hin, Ei? Stunden,
-ein idyllischer großer Garten, jeden Na:weinend das Moder::c
+Spaten gestützt da und starrte regungslos über den Zaun
+und den Feldweg hinweg nach den Lauben hin, die drüben,
+ein idyllischer großer Garten, jeden Naturfreund das moderne
 Kleingärtnerwesen preisen lassen.
 
 Eine der nächsten Lauben hatte einen turmartigen
-Taubenschlag. Die Tauben kreisten unruhig in der Wut:.
-Das machte auch mich aufmerksam. Ich hatte den Laube:
-Besitzer, unseren alten Freund Vertrat, Post Schaffner a. -.,
-vorhin noch gegrüßt, als er mit seinem Rucksack heimwandert:,
-Ausgeschlossen, daß er seine Tauben stiegen ließ, woll’n
-er nicht da war, Vor also hatte den Taubenschlag geöffnet«
+Taubenschlag. Die Tauben kreisten unruhig in der Luft.
+Das machte auch mich aufmerksam. Ich hatte den Laubenbesitzer,
+unseren alten Freund Renstal, Postschaffner a. D.,
+vorhin noch gegrüßt, als er mit seinem Rucksack heimwanderte.
+Ausgeschlossen, daß er seine Tauben fliegen ließ, wenn
+er nicht da war. Wer also hatte den Taubenschlag geöffnet?!
 
 Und da — — hob Harald plötzlich blitzschnell den Spaten
-und hielt sich das blanke große Spatenöla!! vor die Brust,
-warf sich gleichzeitig schräg nach normal!2 ::1 Boden.
+und hielt sich das blanke große Spatenblatt vor die Brust,
+warf sich gleichzeitig schräg nach vorwärts zu Boden.
 
-Trotzdem hatte im noch einen hll! klirrenden Ton
-gehört, der mir sofort sagte. daß Harst das Gnadenbrot: gerade
+Trotzdem hatte ich noch einen hellen klingenden Ton
+gehört, der mir sofort sagte, daß Harst das Spatenblatt gerade
 noch rechtzeitig als Schutzschild benutzt hatte.
 
 <@pagebreak/>
-Is turnte eilends vom Kirschbaum herab. Harst lief
+Ich turnte eilends vom Kirschbaum herab. Harst lief
 bereits, in der Rechten die Repetierpistole, die er auch sonst
 bei der Gartenarbeit nicht bei sich zu tragen pflegte, über
 den Feldweg.
@@ -1540,46 +1535,46 @@ Mein Pflückkorb fiel schneller als ich …
 Schneller als ich es beschreiben kann, war ich unten,
 rannte hinter Harald drein.
 
-Und — was fanden wirkt
+Und — was fanden wir?!
 
 Oben am Taubenschlag lehnte zusammengesunken ein
-bartloser Mann mit einem Schußloch im Hinterkopf — tot,
+bartloser Mann mit einem Schußloch im Hinterkopf — tot.
 Soeben erst erschossen, vor Sekunden …
 
 Neben ihm lag eine jener Luftbüchsen amerikanischen
-Fadbrikates, deren Herstellung verboten werden müßte, denn
+Fabrikates, deren Herstellung verboten werden müßte, denn
 sowohl die Zerlegbarkeit als auch die Durchschlagskraft dieser
 Waffen sind geradezu eine Aufforderung zu heimtückischen
 lautlosen Überfällen.
 
 Aber — dieser bartlose, ältere gut gekleidete Mensch
 mit dem brutalen Gesicht, der Attentäter war tot … Eine
-andere Kugel, die durch die offene kleine Tür des Tauben
-Schlages den Weg in seinen Hinterschädel gefunden, hatte
+andere Kugel, die durch die offene kleine Tür des Taubenschlages
+den Weg in seinen Hinterschädel gefunden, hatte
 ihn ausgelöscht.
 
-»Beuarichtige die Polizei,« sagte Harald kurz. »Es ist
+»Benachrichtige die Polizei,« sagte Harald kurz. »Es ist
 der Zweite …!«
 
 Ich stand unter ihm auf der Leiter. »Der Zweite —
-was heißt daß?!«
+was heißt das?!«
 
 »Geh’ — telephoniere! Und — von dem … Zweiten
-zu niemandem ein Wort! Ich mische mich nicht in Ding«,
-die ich im Grunde nur billigen kann, Wein sie auch auf
-eine recht primitive Ausstattung von Gesetz und Vergeltung
+zu niemandem ein Wort! Ich mische mich nicht in Dinge,
+die ich im Grunde nur billigen kann, Wenn sie auch auf
+eine recht primitive Auffassung von Gesetz und Vergeltung
 zurückzuführen sind.«
 
-Nachsatz diesen reichlich rätselhaften Sätzen untersuchte er
+Nach diesen reichlich rätselhaften Sätzen untersuchte er
 die Taschen des Toten.
 
-Die Mordkommission kam. Harald hielt sich wieder volle
-kommen zurück. Der, der den Attentäter kurz nach dem
-Schuß auf Harald durch eine Kugel aus einer anderen Luftbäüchse
+Die Mordkommission kam. Harald hielt sich wieder vollkommen
+zurück. Der, der den Attentäter kurz nach dem
+Schuß auf Harald durch eine Kugel aus einer anderen Luftbüchse
 <@pagebreak/>
 ausgelöscht hatte, war von verschiedenen Laubenbesitzern
 gesehen worden: ein alter Hausierer, etwas bucklig,
-Stahlbrille und dicken Flüstert, — so lautete übereinstimmend
+Stahlbrille und dicken Krückstock, — so lautete übereinstimmend
 die Beschreibung, den Hausiererkasten nicht zu vergessen.
 
 Dieser Hausierer, dessen Fußspuren an der Stelle, wo
@@ -1589,28 +1584,28 @@ waren, konnte nur wieder Geraldine Garring gewesen
 sein.
 
 Nach zwei Stunden war die Polizei aus dem Laubengelände
-wieder verschwunden. Die Treibjagd auf Miß Garring«
+wieder verschwunden. Die Treibjagd auf Miß Garring
 und ihren Anhang sollte nun mit verstärkter Energie,
 wenn dies überhaupt noch möglich war, fortgesetzt werden.
-Man wußte, sie war in Cladow, yzzd man hoffte sie jetzt,
-wo der Kreis der Nachforschungen: weit enger gezogen, bestimmt
+Man wußte, sie war in Cladow, und man hoffte sie jetzt,
+wo der Kreis der Nachforschungen weit enger gezogen, bestimmt
 in kurzem festnehmen zu können. Bisher hatte man
 auch, und dies in Rücksicht auf die immerhin noch in
-vi:oben Punkten recht unklare und widerspruchsvolle Sachlage,
+vielen Punkten recht unklare und widerspruchsvolle Sachlage,
 der Presse nähere Nachrichten vorenthalten und von
 einer Mithilfe des Publikums durch Säulenanschlag und
-Aussehen einer Belohnung Abstand genommen. Jetzt sollte
-tief nachgeholt werden. —
+Aussetzen einer Belohnung Abstand genommen. Jetzt sollte
+dies nachgeholt werden. —
 
 Als wir beide uns gegen drei Uhr mit Haralds Mutter
 in der Veranda zu Tisch setzten, als Harst seiner Mutter
 wortkarg schilderte, daß der Erschossene in seinen Taschen
-genau wie der in der Bauhütte in Cladow ermordet aufs
-gefundene nicht das geringste bei sich getragen habe, was
+genau wie der in der Bauhütte in Cladow ermordet aufgefundene
+nicht das geringste bei sich getragen habe, was
 über seine Person hätte Auskunft geben können, da fügte
 er nach einer längeren Pause seltsam versonnen hinzu:
 »Wenn wenigstens die Stiefelsohlen unseres zweiten Toten
-recht die gewesen wären! Wie die des anderen, wo doch
+recht dicke gewesen wären! Wie die des anderen, wo doch
 der Zettel mit dem rätselhaften Wort Karpfenderbank gefunden
 wurde …!? dann — ja, dann …«
 
@@ -1618,12 +1613,12 @@ Mathilde, die Köchin, erschien in diesem Augenblick …
 
 »Herr Harald, Herr Kommissar Bechert hat soeben angeläutet
 <@pagebreak/>
-und läßt sagen, daß der rechte Halbschuh des ErMmordeten
+und läßt sagen, daß der rechte Halbschuh des Ermordeten
 unter der Einlegesohle genau denselben Zettel mit
-dem einen Wort enthalten habe … Er will abends her
-kommen, Herr Harald, so gegen neun …«
+dem einen Wort enthalten habe … Er will abends herkommen,
+Herr Harald, so gegen neun …«
 
-Und dann entschwand die Die wieder …
+Und dann entschwand die Dicke wieder …
 
 Ich schaute Harald an …
 
@@ -1631,11 +1626,11 @@ Er zerschnitt zerstreut sein Kalbsschnitzel und nickte vor
 sich hin, bewegte die Lippen und sagte dann völlig geistesabwesend:
 
 »Es … wird … schon … so sein, — es … muß so sein,
-oder — — recht kann wirr zur Ruhe setzen wegen sämtlicher
+oder — — ich kann mich zur Ruhe setzen wegen gänzlicher
 Untauglichkeit …«
 
-Hieraus begann er aufs lebhafteste über das Veredeln
-von Obstbäumen zu horchten. Frau Auguste Harst und ich
+Hierauf begann er aufs lebhafteste über das Veredeln
+von Obstbäumen zu sprechen. Frau Auguste Harst und ich
 kannten das: er wollte nichts gefragt sein, wollte vorläufig
 für sich behalten, was ihm fraglos vorhin zur Gewißheit
 geworden: daß irgendeine Theorie über den Fall Garring,
@@ -1645,35 +1640,35 @@ Theorie — — welche?!
 
 Geraldine Garring, die Doppelmörderin?! Nein — niemals
 würde ich daran glauben, niemals auch, das sie »das
-Monoklkel’, der Straßenräuber, gewesen …
+Monokel", der Straßenräuber, gewesen …
 
 <h2>2. Kapitel.</h2>
-<h3>Ich komme ihm etwas hinter seine Geh’!!sie …</h3>
+<h3>Ich komme ihm etwas hinter seine Schliche …</h3>
 
-Nach Hierhin behauptete Harald, er sei müde und wolle
+Nach Tisch behauptete Harald, er sei müde und wolle
 eine Stunde schlafen.
 
 Müde — — er?! Und schlafen — — am Tage — —
-er?! Dach mochte er jemand anderem vorreden, nicht Wirt
+er?! Das mochte er jemand anderem vorreden, nicht mir!
 
-»Is bin auch müde,« log ich genau so unverfroren.
-»Diese!hause Luft ist mir unerträglich… Also — gute
-Nach!!« Wir trennten uns im Vorderflur. Ich Öffnete
-Meine Tür, klappte sie wieder zu, ohne einzgetre’cu zu sein,
+»Ich bin auch müde,« log ich genau so unverfroren.
+»Diese schwüle Luft ist mir unerträglich. Also — gute
+Nacht!« Wir trennten uns im Vorderflur. Ich Öffnete
+Meine Tür, klappte sie wieder zu, ohne eingetreten zu sein,
 <@pagebreak/>
-und!Strich auf dem dicken Läufer zur Hoftür, nahm auf
-gelbem Hose die Leiter und lehnte sie gegen Haralds offenes
-Schlafstubenfenster, Ich hatte es eben wieder mal gründlich
-satt, nachsetzt wie so oft mit unklaren Andeutungen wie ein
-Umrisse Kind abgespeist zu werden. Wenn Harald nicht
-freiwillig Farbe bekannte, so wollte im ihm eben beweisen,
-daß ich Dom; mein Ziel erreichte, wohnt durch) Bitten, sondern
+und Schlich auf dem dicken Läufer zur Hoftür, nahm auf
+dem Hofe die Leiter und lehnte sie gegen Haralds offenes
+Schlafstubenfenster. Ich hatte es eben wieder mal gründlich
+satt, auch jetzt wie so oft mit unklaren Andeutungen wie ein
+unreifes Kind abgespeist zu werden. Wenn Harald nicht
+freiwillig Farbe bekannte, so wollte ich ihm eben beweisen,
+daß ich doch mein Ziel erreichte, nicht durch Bitten, sondern
 auf krummen Wegen.
 
 So stieg ich denn lautlos in sein Schlafzimmer ein und
-schlich zur Für, die nach seinem Arbeitszimmer führte.
+schlich zur Tür, die nach seinem Arbeitszimmer führte.
 
-Is lauschte …
+Ich lauschte …
 
 Alles still.
 
@@ -1683,32 +1678,33 @@ wagte es, drückte die Klinke abwärts, öffnete ein wenig …
 
 Horchte …
 
-Da!Schlag die alte englische Wanduhr drinnen halb vier
-Uhr … — Sie ging aus die Sekunde, diese Präuzisionsuhr.
+Da Schlug die alte englische Wanduhr drinnen halb vier
+Uhr … — Sie ging auf die Sekunde, diese Präzisionsuhr.
 Ihr Ton war ein wenig blechern und schrillte unangenehm
-nach. Raum war der letzte Schlag verhallt, als ich das
-metallische Knaben hörte, das anzeigt, daß jemand den
+nach. Kaum war der letzte Schlag verhallt, als ich das
+metallische Knacken hörte, das anzeigt, daß jemand den
 Telephonhörer von der Gabel genommen.
 
-»Hier Hermann Honig,« war das nächste, was ich
-verstand, da mir Amt und Numuaner, die Harst angerufen,
-durch? Matthildes keifende Stimme (sie ärgerte sich aus dem
-Hose über unsere Hühner) entgangen war.
+»Hier Hermann Harrig,« war das nächste, was ich
+verstand, da mir Amt und Nummer, die Harst angerufen,
+durch Mathildes keifende Stimme (sie ärgerte sich auf dem
+Hofe über unsere Hühner) entgangen war.
 
 Dann: »Ah — sehr gut, lieber Marengo … Vortrefflich!
-In bin sofort bei Ihnen … Schluß… Wiedersehen …«
+Ich bin sofort bei Ihnen … Schluß … Wiedersehen …«
 
 Ich zog mich schleunigst zurück, war im Nu in meinen
-eigenen Räumen, hatte im Nu mein Äußeres suchend«-
-sprechend verändert …
+eigenen Räumen, hatte im Nu mein Äußeres zweckentsprechend
+verändert …
 
-Dieser Harald!! Also mit Emil Marengo steckte €
-unter einer Decke!! Bei hatte er sich als Helfer erkoren, und
-im — — wurde ausgeschaltet! —
+Dieser Harald!! Also mit Emil Marengo steckte er
+unter einer Decke!! Den hatte er sich als Helfer erkoren, und
+ich — — wurde ausgeschaltet! —
 
 <@pagebreak/>
 Ein buckliger, rotbärtiger Kerl stand auf der Schmargendorfer
 Brücke …
+
 Ich …
 
 Wartete …
@@ -1716,65 +1712,65 @@ Wartete …
 Nicht lange. Aus dem »Patzenhofer« traten zwei Männer
 Heraus, Arbeiter … scheinbar. Tadellose Masken, ohne
 Kragen, und doch Harald und Emil Marengo — nur für
-meine Augen. Hm übrigen nahm niemand von den beiden
+meine Augen. Im übrigen nahm niemand von den beiden
 Notiz, auch von mir nicht, da ich dreißig Schritte hinter
-erwähnen blieb.
+ihnen blieb.
 
 Zu meinem Erstaunen schlugen sie die Richtung nach
 der Westgrenze jenes Laubengeländes ein, in dessen Ostteil
-sie; gegen eins die neue Tragödie abgespielt hatte. Dieser
-Weisheit geht in noch unbebaute Straßenzüge über. Ein
+sich gegen eins die neue Tragödie abgespielt hatte. Dieser
+Westteil geht in noch unbebaute Straßenzüge über. Ein
 einzelnes Wohnhaus erhebt sich hier in der Andreasstraße,
 eine bescheidene Villa hinter hohen uralten Linden und
-Kastanien. Von unserer Veranda aus können wir es’ in
+Kastanien. Von unserer Veranda aus können wir es in
 der Ferne sehen, und Harald hat diese grüne Oase inmitten
 der von Unkraut überwucherten Bauparzellen längst unter
-uns »Das Märchenschloß« gekauft. Es soll dort einmal an
+uns »Das Märchenschloß« getauft. Es soll dort einmal an
 jener Stelle ein Dorffriedhof gelegen haben. Der reiche
 Baumbestand des Grundstücks macht dies wahrscheinlich, und
 auch die Mauer, die es umgrenzt, ist aus verwitterten
 früheren Gemäuerbrocken und Feldsteinen errichtet und oben
-mit einem Kletterschutz in Gestalt von Tragisch »An, die in
-Zement gebettet sind, versehen. Das Haus … Art, soviel
+mit einem Kletterschutz in Gestalt von Glasscherben, die in
+Zement gebettet sind, versehen. Das Haus gehört, soviel
 uns bekannt, einem früheren Farmer aus Südwest,
 
-Auf das Märchenschloß wanderten meine beiden »Vors
-Doppelgänger« also’ zu …
+Auf das Märchenschloß wanderten meine beiden »Vorgänger«
+also zu …
 
-Is mußte weiter zurückbleiben, wenn ich nicht auffallen
+Ich mußte weiter zurückbleiben, wenn ich nicht auffallen
 wollte. Es gab hier an den Straßenrändern übergenug hohe
 Unkrautstauden, und eins dieser Dickichte nahm mich
 schützend auf.
 
 So sah ich denn, wie die beiden »Arbeiter« kurz vor
-dem Grundstück ihre Rucksäcke, über die sich: 2w?! Holzstege
+dem Grundstück ihre Rucksäcke, über die je zwei Holzstiele
 <@pagebreak/>
-herausragten, abnahmen und mit Kniehosen das Piaster
-zu bearbeiten begannen. Nach«: zehn Minuten ratterte an
+herausragten, abnahmen und mit Spitzhacken das Pflaster
+zu bearbeiten begannen. Nach zehn Minuten ratterte an
 mir ein Handwagen vorüber, der von einem dritten Arbeiter
 gezogen wurde, und allerlei Gerätschaften enthielt.
 
-Der Wagen machte an der Anbei:Stelle halt. Die zwei
+Der Wagen machte an der Arbeitsstelle halt. Die zwei
 Leute (der dritte war zweifellos Marengos Frau!) errichteten
-eins jener Leinenzelte, wie die Angestellten des Elektrizitäts«-
-Bauwerks sie auf den Bürgersteigen bei Reparaturarbeiten an
+eins jener Leinenzelte, wie die Angestellten des Elektrizitätswerks
+sie auf den Bürgersteigen bei Reparaturarbeiten an
 den unterirdischen Kabeln aufzustellen pflegen. Dann schritten
 zwei von der »Kolonne« denselben Weg zurück: Frau Marengo
 und Harald, trennten sich bald, und da Harst die
 Richtung nach Hause einschlug, beeilte ich mich vorher daheim
 zu sein, was mir auch gelang.
 
-Als Harald (durch den Gemüsegarten kommench ins Haus
+Als Harald (durch den Gemüsegarten kommend) ins Haus
 geschlüpft war, begegnete ich ihm »zufällig« im Flur.
 
 Lachte … »Keinen Nachmittagsschlaf!! Wo kommst
 du her?«
 
-— Er zuckte ärgerliHg die Achseln …
+Er zuckte ärgerlich die Achseln …
 
-»Du hättest aus fünf Minuten länger liegen bleiben
+»Du hättest auch fünf Minuten länger liegen bleiben
 können!!« Und verschwand in seinem Arbeitszimmer, ahnte
-richtig …
+nichts …
 
 Ich frohlockte,
 
@@ -1786,33 +1782,33 @@ erspähe ich das Monokel, Harald …«
 Da blickte er mich schief von der Seite an …
 
 Sagte: »Wenn du wieder mal die Verbindungstür nach
-meinem Arbeitszimmer öffnest und höchst, so denke daran,
-daß die Verlangte ein in der Zugluft bewegen, sobald in
-beiden Zimmern die Fenster offen Und. Und wenn du machst
-hinter uns drein schleichst, so erinnere Ei?) an mein.
-Steine Hohlspiegel … Ich brauche mich nicht auswich.,
-Und … Todes trotzdem alles!«
+meinem Arbeitszimmer öffnest und horchst, so denke daran,
+daß die Vorhänge sich in der Zugluft bewegen, sobald in
+beiden Zimmern die Fenster offen sind. Und wenn du nachher
+hinter uns drein schleichst, so erinnere dich an meinen
+kleine Hohlspiegel … Ich brauche mich nicht umzusehen
+Und … sehe trotzdem alles!«
 
-Satan Harst lächelte. Is- wurde bl2vy«.«; vor Verlag,:.
+Frau Harst lächelte. Ich wurde blaurot vor Ärger.
 
 <@pagebreak/>
-»Was treibt ihr dort vor dem Märchenschloß?’, fragte
+»Was treibt ihr dort vor dem Märchenschloß?«, fragte
 ich ziemlich schroff.
 
 »Wir bessern natürlich das Pflaster aus — was sonst?!«
 
 »Harald!!«, mahnte Frau Auguste Harst sanft. »Du reizt
-trauen zu mir hätte, sich selbst zu sagen, daß nur die schwerwiegendsten
+den guten Schraut wirklich zu sehr!«
+
+»Oder er mich, Mutter!! Wenn er nur so viel Vertrauen
+zu mir hätte, sich selbst zu sagen, daß nur die schwerwiegendsten
 Gründe mich veranlaßt haben, ihn hier auszuschalten!
 Es ist doch wahrlich kein Kinderspiel, das wir
-den guten Schraut wirklich? zu sehr!«
-
-»Oder er mich, Mutter!! Wenn er nur so viel Bettler
 treiben. Oder haltet ihr beide eine Kugel aus einem
 Luftgewehr für einen Scherz?! Wir kämpfen gegen Leute,
 die mit unerhörter Rücksichtslosigkeit und Schlauheit vorgehen.
 Ich brauche Reserven, falls mir etwas zustößt. Diese
-Reservearmee bist du, mein Alter. Hand her …! Mut
+Reservearmee bist du, mein Alter. Hand her …! Mach’
 ein anderes Gesicht …! Und damit du nun alles weißt:
 Marengo und seine Frau, die ja auch Schauspielerin gewesen,
 stehen in meinem Solde, haben heute den »Hausierer« mittags
@@ -1822,17 +1818,17 @@ eben von dort her … einen Angriff erwartete.«
 Ich hielt den Atem an. Auch Frau Harst hatte sich
 vorgebeugt …
 
-»Das Märchenschloß,« fuhr Harald leiser fort, »Seher«
-vergl seit zwei Tagen als Mieter eine Artistengruppe, die
+»Das Märchenschloß,« fuhr Harald leiser fort, »beherbergt
+seit zwei Tagen als Mieter eine Artistengruppe, die
 dort ein paar neue Tricks einüben wollen. Der bisherige
-Eigentümer ist verstorben, und die Erben sind fror. daß
-sie von den Fratellis einen sollen Miets&preis erzielt haben.
+Eigentümer ist verstorben, und die Erben sind froh, daß
+sie von den Fratellis einen solchen Mietspreis erzielt haben.
 Jongleure und Radfahrer sind’s diese Fratellis, und sie
 jonglieren mit … Menschenleben und Luftbüchsen und
 radeln … in die Hölle …«
 
 »Harald, Harald, wie kann man nur hierbei noch Scherze
-machen!?! Du bist Dom heute mittag nur durch deine eigene
+machen!! Du bist doch heute mittag nur durch deine eigene
 Geistesgegenwart der Kugel entgangen und …«
 
 »Nein, Mama — durch die Tauben, — die haben mich
@@ -1840,32 +1836,32 @@ gewarnt! Und — Scherze?! Man muß das Leben nicht
 allzu ernst nehmen. Nur wer über die Gefahr lächelt,
 <@pagebreak/>
 entgeht ihr. — Jedenfalls wissen wir nun, wo Miß Garring
-nicht ihrem Anhang steckt, und das Ehepaar Marengo, jetzt
+mit ihrem Anhang steckt, und das Ehepaar Marengo, sehr
 brauchbare Leute übrigens, werden dort als Pflasterer schon
-herauskriegen, was ich gern festgestellt haben mochte …«
+herauskriegen, was ich gern festgestellt haben möchte …«
 
-»über — so benachrichtige doch die Polizei und lasse
+»Aber — so benachrichtige doch die Polizei und lasse
 das Nest ausheben!«, rief Frau Harst unwillig. »Wozu
 erst noch etwas feststellen — ich bitte dich!!«
 
-Harald!Schnauze sie liebevoll an. »Du bist um mich
-besorgt …! Du verkennst die Sachlage. Der heutige Umschlag
-gegen mich ging trug nicht von Miß Garring aus. Hm
+Harald Schaute sie liebevoll an. »Du bist um mich
+besorgt …! Du verkennst die Sachlage. Der heutige Anschlag
+gegen mich ging doch nicht von Miß Garring aus. Im
 Gegenteil. Der Attentäter büßte seinen Versuch, mich zu
 beseitigen auf der Stelle mit seinem eigenen Blute. Das
-Ut doch außerordentlich wichtig.«
+ist doch außerordentlich wichtig.«
 
-»Sie bleibt eine Mörderin, dieses Mädchen«, grollte
+»Sie bleibt eine Mörderin, dieses Mädchen!«, grollte
 Frau Harst. »Und du — bleibst mir unverständlich, mein
-Zunge!«
+Junge!«
 
 »Schon möglich — — vorläufig! Der Fall liegt Ja
 kompliziert genug. Es hat lange gedauert, bis ich in allem
-Flur sah. Erst Becherts telephonischer Anruf vorhin gab mir
+klar sah. Erst Becherts telephonischer Anruf vorhin gab mir
 die Gewißheit, daß meine Theorie richtig ist. Der zweite Zettel
 mit »Karpfenderbank« war die Bestätigung dessen, was ich
-erwartet h’::. Ich hoffe verhüten zu können, daß noch
-ein dritter,:fiel dieser Art gefunden wird. Und was die
+erwartet hatte. Ich hoffe verhüten zu können, daß noch
+ein dritter Zettel dieser Art gefunden wird. Und was die
 Benachrichtigung der Polizei anbetrifft, liebe Mutter: Ich
 will Geraldine Garring nicht fangen, sondern schützen!«
 
@@ -1885,16 +1881,17 @@ Pflasterer, seine Frau, vor dem Zelte über einem lustig
 qualmenden Ofen anscheinend Kaffee in Blechflaschen wärmte.
 
 Nach einer Weile, als ich wieder durch das Glas geschaut
-hatte, rief … ich Harald zu: »Ein Auto hält vor der Gitterpforte
+hatte, rief ich Harald zu: »Ein Auto hält vor der Gitterpforte
 … Zwei Personen stiegen aus … dazu zwei große
 Hunde, anscheinend Dobermann-Rasse … außerdem wurde
 noch ein großer Koffer hineingetragen …«
 
-»Aha, — — dein Ausgang ist gut, Max Genau!!?
+»Aha, — — dein Ausguck ist gut, Max Schraut!
 Sehr gut … Nun ist es also auch drin!«
+
 »Wer?«
 
-»Das Monokel natürlihHh …«
+»Das Monokel natürlich …«
 
 »Etwas umständlich, in einem Koffer sein Heim betreten
 zu müssen!«, klang’s von meinem Baume herab und zwar
@@ -1904,13 +1901,14 @@ mit dick unterstrichener Ironie.
 Alter! Jetzt wollen wir zupacken. Deine Meldung über
 den Koffer ist wichtiger als du ahnst.«
 
-3\. Kanntest
-Die fünf Fratellis,
+<h2>3. Kapitel</h2>
 
-Wir gingen ins Haus. Aber nicht in Haralds Arbeit«
-Zimmer, sondern nach oben auf den Boden. Schweigend lehnte
-Harst hier die Leiter an die Dachluke. Schweigend »::Stelle
-er voran, schritt auf dem Laufbrett, das für den Kamtuitchrer
+<h3>Die fünf Fratellis,</h3>
+
+Wir gingen ins Haus. Aber nicht in Haralds Arbeitszimmer,
+sondern nach oben auf den Boden. Schweigend lehnte
+Harst hier die Leiter an die Dachluke. Schweigend kletterte
+er voran, schritt auf dem Laufbrett, das für den Kaminkehrer
 bestimmt war, bis zur Fahnenstange, knotete hier die Zugschnur
 los und befestigte daran ein Stück hellgrüne Seide,
 das er aus der Tasche zog, also schon für diesen Zweck
@@ -1920,9 +1918,9 @@ bereit gehalten hatte.
 das Signal erwidern, das nichts anderes bedeutet als: Wir
 kommen!«
 
-Ich stellte das Fernglas ein. Aus dem eisernen Dessen
+Ich stellte das Fernglas ein. Aus dem eisernen Öfchen
 <@pagebreak/>
-vor dem Zelte der Pflasterer quoll plötzlich eine die Rauchsäule
+vor dem Zelte der Pflasterer quoll plötzlich eine dicke Rauchsäule
 hervor,
 
 »Rauch!«, meldete ich.
@@ -1932,18 +1930,18 @@ sieben, je drei Ersatzbatterien für die Taschenlampen und die
 zusammenklappbaren Brecheisen und Stahlsägen.« —
 
 Eine Viertelstunde später wanderten zwei Leute, die an
-den Müssen das Abzeichen der Reichspost, Telegraphenamt,
+den Mützen das Abzeichen der Reichspost, Telegraphenamt,
 trugen, der grünen Oase mit ihren Handwerkstaschen zu. Als
-wir noch« hundert Meter von dem Märchenschloß entfernt
+wir noch hundert Meter von dem Märchenschloß entfernt
 waren, blieb Harst stehen und zündete sich umständlich seine
-Tabakspfeife an ., Seine Augen glitte dabei über die nächsten
+Tabakspfeife an. Seine Augen glitten dabei über die nächsten
 Bauparzellen hin, auf denen das Unkraut genau so üppig
 wucherte wie hier am Straßenrande. Und ich sah, wie aus
 verschiedenen hohen Büschen von Disteln und wildem Spargelkraut
 sich je eine Distelstaude langsam höher und höher hob
 und sich dann wieder senkte.
 
-Wir gingen weiter. Is wußte Bescheid. Das Märchenschloß
+Wir gingen weiter. Ich wußte Bescheid. Das Märchenschloß
 war regelrecht eingekreist, belagert!
 
 »Kriminalpolizei?« fragte ich …
@@ -1952,22 +1950,21 @@ war regelrecht eingekreist, belagert!
 Marengo, die bei ihm im Patzenhofer verkehren, gern ein
 paar Mark verdienen und zuverlässig sind.«
 
-Nebel den Baumkronen der grünen Oase stiegen jetzt
+Über den Baumkronen der grünen Oase stiegen jetzt
 kurz hintereinander drei Papierdrachen auf, jene in jedem
 Spielwarengeschäft erhältlichen bunten Vögel, die so tadellos
-bei leichtem Wind größere Hohen erreichen: alle drei
+bei leichtem Wind größere Höhen erreichen: alle drei
 von grüner Farbe!
 
-»Es klappt,« nickte Harald. »Aufs die andere Seite
-ist auf dem Posten! Das Monokel kann uns nicht rot«
-schlüpfen!«
+»Es klappt,« nickte Harald. »Auch die andere Seite
+ist auf dem Posten! Das Monokel kann uns nicht entschlüpfen!«
 
 Wir hatten das Ziel erreicht. Emil Marengo hatte bereits
 eine ganze Menge Kopfsteine herausgehoben und sauber
-aufgeschichtet. Er schwitzte wie ein Sommerleutnant von ehe.
-dem, und seine Begrüßungsworte: »Verdammte Schweinerei
+aufgeschichtet. Er schwitzte wie ein Sommerleutnant von ehedem,
+und seine Begrüßungsworte: »Verdammte Schweinerei
 <@pagebreak/>
-das!« langen ziemlich erschöpft,
+das!« klangen ziemlich erschöpft,
 
 Harst lachte. »Machen Sie getrost Pause, Kollege! Aber —
 Augen auf! Keine Maus darf heraus. — Wieviel sind
@@ -1976,15 +1973,15 @@ es im ganzen?«
 »Mit meiner Frau und mir elf …«
 
 Rechts neben dem Gittertor, das innen mit Eisenblech
-verkleidet war, lag die Pforte, Eisen. Hm Gemäuer war
+verkleidet war, lag die Pforte, Eisen. Im Gemäuer war
 ein Briefeinwurf und ein Messingschild mit dem Namen
-»Fertig« angebracht. So Satan der frühere Besitzer ge
-heißen. Über dem Messingschild hing ein Papptäfelchen,
+»Bendix« angebracht. So hatte der frühere Besitzer geheißen.
+Über dem Messingschild hing ein Papptäfelchen,
 mit Nägeln befestigt:
 
-Fratelli
+<p class="centered">Fratelli.</p>
 
-Harst drückte auf den Knopf der elektrismchen Glocke,
+Harst drückte auf den Knopf der elektrischen Glocke.
 Dann schaute er mich prüfend an, fragte: »Auch bei mir alles
 in Ordnung?«
 
@@ -1997,31 +1994,31 @@ von Hunden …
 
 Dann fiel die Sehklappe der Pforte herab. Ein bartloses,
 verkniffenes Männerantlitz wurde sichtbar. Diese so überaus
--Ha-rafkterijtischGen Züge, diese kleinen listigen Mausäuglein …
+charakteristischen Züge, diese kleinen listigen Mausäuglein …
 — ich bekam geradezu einen Schreck!
 
-»Sie wünschen?’, fragte der Mann in gebrochenem
+»Sie wünschen?«, fragte der Mann in gebrochenem
 Deutsch.
 
-»Wir kommen war’s Reichstelejraphenamt … Wir sollen
-Defekt in’s Kabel suchen, wo hier die Straße lag. läuft …
+»Wir kommen von’s Reichstelejraphenamt … Wir sollen
+Defekt in’s Kabel suchen, wo hier die Straße langläuft …
 Wir müssen Ihr Telefong ausprobiern … Hier is unser
 Ausweis …«
 
-Der Mann hinter der Pforte — irrte im mich?! —
+Der Mann hinter der Pforte — irrte ich mich?! —
 verzog ironisch den Mund, erwiderte sofort: »Bitte …!«
 
-Kind öffnete die eiserne Für, die scheußlich in den
+Und öffnete die eiserne Tür, die scheußlich in den
 Angeln kreischte.
 
 Er hielt zwei große stämmige Dobermanns kurz an der
-v. ins, trat zur Seite und ließ uns ein.
+Leine, trat zur Seite und ließ uns ein.
 
 <@pagebreak/>
-Wein erster Bis galt seiner nun sichtbaren Unterpartie,
-Diese V-Beine. Es Stunde, es war John Winnepp.
+Mein erster Blick galt seiner nun sichtbaren Unterpartie.
+Diese O-Beine. Es stimmte, es war John Winnepp.
 
-Hinter uns fiel die Für wieder zu,
+Hinter uns fiel die Tür wieder zu,
 
 Der Mann schritt die verwilderte kurze Allee entlang,
 die vor dem Hause eine scharfe Krümmung machte, so daß
@@ -2032,45 +2029,45 @@ Brettern eine niedere große viereckige Bühne errichtet, auf
 der drei Männer in Trikots auf Zweirädern übten.
 
 Wahrhaftig: diese Geraldine mit ihren vier Getreuen
-führte die Artistenkomödie die ins einzelne du:F! Sehr!schlau
+führte die Artistenkomödie bis ins einzelne durch! Sehr schlau
 war das, sehr schlau!
 
 Harst machte Halt …
 
-»Also sind Sie wirklich war’s Theater,« meinte er und
+»Also sind Sie wirklich von’s Theater,« meinte er und
 schaute zu …
 
 »Wie Sie sehen!« nickte der Mann mit den O-Beinen,
 der einen grüngrauen Sportanzug anhatte.
 
 Ich hatte inzwischen in einem der Radler, der zum
-Trikot eine ganz lose Seidenjacke und eine Sportmütze Fritz,
+Trikot eine ganz lose Seidenjacke und eine Sportmütze trug,
 trotz des kleinen Bärtchens und der Bartkoteletten Geraldine
 Garring wiedererkannt.
 
 Die drei »Kunstradfahrer« nahmen keinerlei Notiz von
 uns beim Betreten des Hauses. Der Mann führte uns
-durch eine Diele in ein mit Jagdtrophäen aller Art geIchmüdtes
-Herrenzimmer. Hier stand auf einem Gestrichenen
+durch eine Diele in ein mit Jagdtrophäen aller Art geschmücktes
+Herrenzimmer. Hier stand auf einem helleichenen
 Schreibtisch das Telephon …
 
 Das Zimmer hatte zwei Fenster, lag im Hochparterre und
 war ebenso stilvoll wie behaglich eingerichtet.
 
-Der Mann war an der Flur stehen geblieben. Die
+Der Mann war an der Tür stehen geblieben. Die
 Hunde saßen vor ihm.
 
 »Sie brauchen mich wohl nicht,« meinte er gleichgültig …
 
-»Wohl, John Winnepp, wir brauchen Sie!« erwiderte
-Harst rasch, »Sehr sogar! Sagen Sie, Kollege, was bedeutet
+»Doch, John Winnepp, wir brauchen Sie!« erwiderte
+Harst rasch. »Sehr sogar! Sagen Sie, Kollege, was bedeutet
 dies alles?! Sind etwa auch die anderen Bediensteten
-Mix Garrings von der Detektei Löwen u. Komp., Yeuygorkfli
+Miß Garrings von der Detektei Lower u. Komp., Neuyork?!
 <@pagebreak/>
 Kinder, auf welch’ faule Geschichten …«
 
 John Winnepp ließ plötzlich die Hundeleine aus der
-Hand gleiten, sprang zurück, warf die Für zu und schloß
+Hand gleiten, sprang zurück, warf die Tür zu und schloß
 von außen ab. In demselben Moment wurden draußen
 die Fensterladen vorgelegt, Riegel kreischten …
 
@@ -2080,12 +2077,12 @@ Die Läden schlossen so dicht, daß auch nicht ein winziger
 Lichtstrahl in den Raum hereindrang.
 
 Dieser infame Streich des amerikanischen Berufskollegen
-war!so überraschend gekommen, daß wir ihn in keiner Weise
+war so überraschend gekommen, daß wir ihn in keiner Weise
 hatten verhindern können, — um so infamer dieser Streich,
-weil wir John Winnepp »seit Jahren persönlich kannten
+weil wir John Winnepp seit Jahren persönlich kannten
 und ihn als äußerst klugen, energischen und auch vornehm
-denkenden Menschen bis dahin sehr geschafft hatten. Der
-Angestellte von Löwen u. Komp., Neuyork, mußte also sehr
+denkenden Menschen bis dahin sehr geschätzt hatten. Der
+Angestellte von Lower u. Komp., Neuyork, mußte also sehr
 gewichtige Gründe zu diesem unfairen Verhalten gehabt haben.
 Er hatte uns bereits an der Pforte erkannt. Sein ironisches
 Verziehen der Mundwinkel war also meinerseits kein Irrtum
@@ -2100,23 +2097,23 @@ ansprangen, konnte die Geschichte unangenehm werden,
 
 Harst kam dem zuvor …
 
-Seine Taschenlampe bitte auf. Der grelle Lichtkegel
-traf die beiden hochbeinigen Tiere, die jeht verwirrt durch
+Seine Taschenlampe blitzte auf. Der grelle Lichtkegel
+traf die beiden hochbeinigen Tiere, die jetzt verwirrt durch
 die Lichtfülle sich dicht an die Wand drückten.
 
 Kostbare Sekunden waren so verstrichen …
 
-Draußen im Garten das Rattern eines Aitfoöomotors»…
-Sann das harte metallische Aufkreischen bei der Umyteues
-Tag …- Wir hörten deutlich, wie das Auto unter den
+Draußen im Garten das Rattern eines Automotors …
+Dann das harte metallische Aufkreischen bei der Umsteuerung
+… Wir hörten deutlich, wie das Auto unter den
 Fenstern hinwegglitt und sich entfernte …
 
-»Nicht sich: her?!« warnte Harald, als ich nach der Clement
-wirst. »Die Sache verläuft ganz programmäßig … Weshalb
+»Nicht schießen!« warnte Harald, als ich nach der Clement
+griff. »Die Sache verläuft ganz programmäßig … Weshalb
 <@pagebreak/>
 die Tiere töten?! Sie tun nur ihre Pflicht, wenn sie uns
-anknurren … — Geh rückwärts naß der Türklinke
-Is folge …«
+anknurren … — Geh rückwärts nach der Türklinke …
+Ich folge …«
 
 Und er packte als Waffe für alle Fälle einen der schweren
 Eichestühle …
@@ -2131,53 +2128,53 @@ Als die Türflügel knallend und splitternd aufsprangen,
 als nun auch Tageslicht ins Zimmer fiel, schnellten sich die
 beiden Bestien gleichzeitig vorwärts. Harst schleuderte ihnen
 den Stuhl entgegen. Sie heulten auf … und ich warf
-die Durchsuche]. wieder zu, während Harald einen Fisch dagegen
+die Türflügel wieder zu, während Harald einen Tisch dagegen
 lehnte,
 
-Wir lief der Schweiß über das Gesicht. Dieser Zwischenfall
-war immerhin etwas aufregend gewesen. Und da) vergaß
+Mir lief der Schweiß über das Gesicht. Dieser Zwischenfall
+war immerhin etwas aufregend gewesen. Und doch vergaß
 ich diese letzte Minuten vollkommen über der einen Äußerung
 Haralds, die Sache sollte ganz programmäßig verlaufen
 sein?! — War das ein Scherz?! Programmäßig, wo uns
 diese »Fratellis« mit ihrem Auto doch sicherlich wieder ausgekniffen
 waren?!
 
-»Sehen wir, wir’s draußen ausschaut,« meinte Harst mit
+»Sehen wir, wie’s draußen ausschaut,« meinte Harst mit
 einer beneidenswerten Ruhe. »Das Bild kann ich mir allerdings
 leidlich vorstellen … Die Marengos und die anderen
 Hilfstruppen werden wie begossene Pudel … — Aha, da
-brüllt unser Emil schon … — Fenster auf …’! Hallo,
-hier sind wir … Nein, uns ist nichts zustoßen. gar
+brüllt unser Emil schon … — Fenster auf …! Hallo,
+hier sind wir … Nein, uns ist nichts zustoßen, gar
 nichts, lieber Freund … Wieviel Leute saßen denn im Auto
 einschließlich des Chauffeurs?«
 
 »Fünf und drei Koffer …«
 
-»Bier!« — und Harald wiederholte: »Vier — in der
-Eile habt ihr alle doppelt gesehen! Da wir ’ nun hier
-so schön versammelt sind, wollen wir den fünften auch a! ’ich
+»Vier!« — und Harald wiederholte: »Vier — in der
+Eile habt ihr alle doppelt gesehen! Da wir nun hier
+so schön versammelt sind, wollen wir den fünften auch gleich
 <@pagebreak/>
-suchen. Aber eins sage ich euch, Herrschaften: Wer Tone
-alledem, was hier gesehen und geschieht, Autos nur eine
+suchen. Aber eins sage ich euch, Herrschaften: Wer von
+alledem, was hier gesehen und geschieht, auch nur eine
 Silbe verrät, geht der Extrabelohnung von je zehn Mark
-unbedingt verlustig! — Nun weiter — immer zu zweien,
+unbedingt verlustig! — Nun weiter — immer zu zweien.
 Durchsucht den Garten … Aber Augen auf! Laßt den
-fünften nicht auskneifen!t«
+fünften nicht auskneifen!«
 
-So waren wir die Bande denn glüht los … Und
+So waren wir die Bande denn glücklich los … Und
 was für eine Bande!! Alle Schmierentheater waren hier
 vertreten, alle Altersstufen …
 
-Noch — zu ich hatte ja einst zu dieser glüselig-traurigen
-Horde gezählt … eins!!
+Ach — auch ich hatte ja einst zu dieser glückselig-traurigen
+Horde gezählt … einst!
 
-Jetzt?! Jetzt war ich War Schraut, Harsts Schatten …
+Jetzt?! Jetzt war ich Max Schraut, Harsts Schatten …
 Jetzt fragte dieser Schatten keck und kühn: »Wer soll dieser
 fünfte sein?«
 
-»Das Monokel …!! Natürlich!«
+»Das Monokel …! Natürlich!«
 
-Amt war so ziemlich sprachlos. »Verkohlst du mich etwa!«
+Ich war so ziemlich sprachlos. »Verkohlst du mich etwa?!«
 
 »Bewahre! Ich habe nur die anderen beschwindelt.«
 
@@ -2191,59 +2188,60 @@ Das Haus war alt, verbaut, die Keller sehr weitläufig …
 
 Harst hatte es gerade auf diese Keller abgesehen. Und
 für Leute unseres Schlages ist es nicht eben schwer, selbst
-ein rote so sein ausggeklügeltes Versteck herauszufinden.
-Aber im Keiler war es nicht. Nein, dicht neben der Rückseite
-des Gebäudes lag inmitten einer Gruppe prachtvoller 7 irren
-eine Grabplatte — von früher her, als der Garten noch«, jedoch
+ein noch so fein ausgeklügeltes Versteck herauszufinden.
+Aber im Keller war es nicht. Nein, dicht neben der Rückseite
+des Gebäudes lag inmitten einer Gruppe prachtvoller Tannen
+eine Grabplatte — von früher her, als der Garten noch Friedhof
 gewesen.
 
 Harst lächelte sanft, als er neben dieser Grabplatte auf
-frische Spuren deutete. Diese Schuhe, die hier das keuchte
+frische Spuren deutete. Diese Schuhe, die hier das feuchte
 Erdreich gestempelt hatten, entsprachen genau denen des
 Mörders aus Cladow …!
 
 <@pagebreak/>
 
-hk. Japaner.
-Nicht Mann, nicht Weib …
+<h2>4. Kapitel.</h2>
 
-Sanft lächelte Harst … Schaute dann matt oben, wo
-ein schenkeldicken Art einer Augen Eiche ein) Schach die
-Tannen hindurchgehenden hatte, Um Meer Art war, verdeckt
+<h3>Nicht Mann, nicht Weib …</h3>
+
+Sanft lächelte Harst … Schaute dann nach oben, wo
+ein schenkeldicker Ast einer nahen Eiche sich durch die
+Tannen hindurchgeschoben hatte. Um diesen Ast war, verdeckt
 durch Zweige, ein Tau geschlungen, nein, eine richtige
 Winde!
 
 »Ja, so hebt man den Stein am leichtesten, mein Alter …!
-Ich hätte Freund Ihn Winnepp doch für schlauer gehalten. —
-Is werde emporilettern …«
+Ich hätte Freund John Winnepp doch für schlauer gehalten. —
+Ich werde emporklettern …«
 
 Es konnte nicht ausbleiben, daß sich auch einige unserer
 Hilfskräfte sich sehr bald an dieser Stelle versammelten und
-wacker mich; ziehen halfen, nachdem die Eisenhaken der Winde
+wacker mit ziehen halfen, nachdem die Eisenhaken der Winde
 an der Platte befestigt waren. Langsam hob sich die zwei
 Meter lange und ein Meter breite Platte — ganz langsam
 wurde sie dann zur Seite geschwenkt. Die Gruft lag frei —
-ein dieses, gemauertes Loch:. Und in diesem Lohe stand aufs
-umgedreht dieselbe junge Dame, die uns Damals spät abends
+ein tiefes, gemauertes Loch. Und in diesem Loche stand aufrecht
+dieselbe junge Dame, die uns Damals spät abends
 das Versprechen abgenommen, ihr nicht weiter nachzuspüren.
-Neben ihr lagen allerlei Dinge, die sie zu längerem Aujentshalt
-in diesem Versteck Notiz hatte.
+Neben ihr lagen allerlei Dinge, die sie zu längerem Aufenthalt
+in diesem Versteck nötig hatte.
 
 Harst half ihr galant empor …
 
-Schwieizend standen wir anderen dabei …
+Schweigend standen wir anderen dabei …
 
-»Miß Garring,« sagte Harald, »Sie segeln!ten, daß ich
-Sie als Gast in mein Haus aufnehync. Bitte begleiten
+»Miß Garring,« sagte Harald, »Sie gestatten, daß ich
+Sie als Gast in mein Haus aufnehme. Bitte begleiten
 Sie mich …«
 
-Während ich die Geldverteilung an Ei: Beherzigen vornahm,
-während Harald und Malerin Ei? Rande in den
-Zwinger brachten und ihnen genügen? HundekunHen und
-Trinkwasser zurücklocken, lehnte Geraldine Garring mit gleichgültigsten
-Miene an einem Baute. Ei! trug wieder den
-losen weiten Gummimantel, und in in:spannen war ein:
-Ansehen F von kaltblütigster Ergeben bei: in ei« unahänderliches
+Während ich die Geldverteilung an die Helfertypen vornahm,
+während Harald und Marengo die Hunde in den
+Zwinger brachten und ihnen genügend Hundekuchen und
+Trinkwasser zurückließen, lehnte Geraldine Garring mit
+gleichgültigster Miene an einem Baume. Sie trug wieder den
+losen weiten Gummimantel, und in ihren Augen war ein
+Ausdruck von kaltblütigster Ergebenheit in ein unabänderliches
 <@pagebreak/>
 Schicksal. — Nachdem das Haus und die Mauerpforte
 verschlossen worden waren, verabschiedeten wir uns von
@@ -2254,7 +2252,7 @@ goß es in Strömen, —
 
 Ich habe in einem der letzten Bände von dem »Geheimnis«
 des Harstschen Hauses gesprochen, von jenem Kellergelaß,
-nein, jenem verborgenen Wohnraum, den einer der Verfahren
+nein, jenem verborgenen Wohnraum, den einer der Vorfahren
 Haralds in der Zeit der Napoleonischen Wirren angelegt hatte.
 
 In dieses bescheiden ausgestattete, aber sicher verschließbare
@@ -2266,56 +2264,56 @@ Hochmütig — ablehnend stand sie neben dem uralten
 Glanzledersofa ihrer Zelle, und selbst Haralds eindringlichsten
 Vorstellungen brachten sie nicht zum Reden.
 
-Is mußte Bettwäsche, Essen, Trinken, und vieles andere
-voll herbeischleppen.
+Ich mußte Bettwäsche, Essen, Trinken, und vieles andere
+noch herbeischleppen.
 
-Geraldine blieb Statur …
+Geraldine blieb Statue …
 
 Eisig, entschlossen, stumm …
 
-Und als dann iz5r.Quartier hergerichtet war, als Harald
+Und als dann ihr Quartier hergerichtet war, als Harald
 dicht vor sie hintrat und nochmals sagte: »Haben Sie mir
 wirklich gar nichts zu erklären?!« da erst fragte sie leise
 und überstürzt: »Was haben Sie mit mir vor, Herr Harst?«
 
-»Vorläufig will ich Sie nur vor sich selber schuf:/1« —
-vorläufig! Bis ich den dritten habe, der Strengster
+»Vorläufig will ich Sie nur vor sich selber schützen —
+vorläufig! Bis ich den dritten habe, der Ihnen bisher
 noch entgangen ist …!«
 
-Sie senkte den Kopf, hob ihn wieder. Ihre Zu he waren
-unheimlich verzerrt, Ihre Augen sprühten einen vernichtenden
+Sie senkte den Kopf, hob ihn wieder. Ihre Züge waren
+unheimlich verzerrt. Ihre Augen sprühten einen vernichtenden
 Haß.
 
-»Er — — wird doch daran glauben müssen?« stieß
+»Er — — wird doch daran glauben müssen!« stieß
 sie hervor …
 
-»Nein, — diese letzte Abrechnung überlassen Ei? besser
+»Nein, — diese letzte Abrechnung überlassen Sie besser
 der Vorsehung! — Gute Nacht … Sie haben alles,
 <@pagebreak/>
 was Sie brauchen, auch Lektüre … Morgen früh auf
 Wiedersehen …«
 
 Er verschloß die starke Tür. Wir kletterten die in dem
-Echt;nennt steigende Leiter empor und klappten die Falltür zu.
+Schacht lehnende Leiter empor und klappten die Falltür zu.
 
 Ich — ich aber wandelte wie im Traumland nach oben
-in Harsts Arbeitszimmer, Ich verstand nichts von alledem.
-Wir legten unsere Masken ab, setzten uns zu Tisch … E€
+in Harsts Arbeitszimmer. Ich verstand nichts von alledem.
+Wir legten unsere Masken ab, setzten uns zu Tisch … Es
 donnerte und blitzte, und Harald erzählte seiner Mutter in
 launigster Weise, wie wir die Miß aus dem Grabe herausgeholt
-hatten. Boy — über die fehlenden Glieder in dieser
-Rette v von Rätseln und Widersprüchen verlor er kein
-Vor
+hatten. Doch — über die fehlenden Glieder in dieser
+Kette von Rätseln und Widersprüchen verlor er kein
+Wort … —
 
-dann kam Freund Spitze Bechert, der Ahnungslose.
-Satz im weichen Klubsessel, rauchte, trank duftenden Chateau
-Lag Nase und verlangte Haralds Ansicht über den Fall
+dann kam Freund Fritze Bechert, der Ahnungslose.
+Saß im weichen Klubsessel, rauchte, trank duftenden Chateau
+La Rose und verlangte Haralds Ansicht über den Fall
 »Garring« zu hören.
 
 Ich — — saß wie auf Nadeln. Scheußliche Situation:
-Wir hatten Geraldine im Hause und spielten die Nichlwisjer!
+Wir hatten Geraldine im Hause und spielten die Nichtwisser!
 
-Docht nein — mein unberechenbarer Harald wollte es
+Doch nein — mein unberechenbarer Harald wollte es
 anders …
 
 »Möchten Sie Miß Garring sehen?« fragte er Bechert
@@ -2326,144 +2324,144 @@ Bechert zuckte empor. »Wo — — ist sie, Harst?«
 »Kommen Sie mit … Ich hoffe, unser Gast wird noch
 nicht zu Bett gegangen sein. Nachher aber lesen Sie bitte
 Hier diesen Artikel aus dem Chikagoerpreß vom 11. November
-1926, der mir sehr wichtige Au;Schlüsse gegeben hat und den
-ich seinerzeit meinen Sammelmappen Finders:ihre, weil mich
-die medizinische Seite der Anzeolezen’it stark interessierte.
-Co Braut kennt diesen Aufsatz ebenfalls rote nicht, und so
-will ich ihn besser Bucht beiden vorlesen unter Weglassung
+1926, der mir sehr wichtige Aufschlüsse gegeben hat und den
+ich seinerzeit meinen Sammelmappen einverleibte, weil mich
+die medizinische Seite der Angelegenheit stark interessierte.
+Schraut kennt diesen Aufsatz ebenfalls noch nicht, und so
+will ich ihn besser euch beiden vorlesen unter Weglassung
 alles Überflüssigen.
-Mann oder Weib? — Die Tragödie in einer
 
-Millionärsfamilie.
-»Dolch die Verhält uns des Streifen Sohnes das las
+*Mann oder Weib? — Die Tragödie in einer
+Millionärsfamilie.*
+
+> »Durch die Verhaftung des einzigen Sohnes des bekannten
 <@pagebreak/>
-kannten Millionärs G. wegen  Straßenräuberei ist ein See
-heraus en:halb! worden, das von den Eltern G. G’s sorge
-Jan gehütet wurde. Mit einem Wort: der junge G. G,
-gehört! zu jenen anfertigen, von der Natur geradezu wisse
-handelten Geschöpfen, bei denen die Gejchlechtsvejtimmung
-infolge anormaler anatomisczer Bauart unmöglich ist. —
-Zwitter hat es zu allen Zeiten gegeben. Hm alten Gestatten
-Spielen diese Wesen, die gleichzeitig Wann und Weib waren,
-beim Feige und Osiriskult eine große Rolle. — Allen Bekannten
-der iyaumilie Wo. war es schon langst aufgefallen, daß die
-Ähnlichkeit zwischen der um ein Jahr jüngeren Iocdtyter
+Millionärs G. wegen  Straßenräuberei ist ein Geheimnis
+enthüllt worden, das von den Eltern G. G.’s sorgsam
+gehütet wurde. Mit einem Wort: der junge G. G.
+gehört zu jenen unfertigen, von der Natur geradezu 
+mißhandelten Geschöpfen, bei denen die Geschlechtsbestimmung
+infolge anormaler anatomischer Bauart unmöglich ist. —
+Zwitter hat es zu allen Zeiten gegeben. Im alten Ägypten
+Spielten diese Wesen, die gleichzeitig Mann und Weib waren,
+beim Isis- und Osiriskult eine große Rolle. — Allen Bekannten
+der Familie G. war es schon längst aufgefallen, daß die
+Ähnlichkeit zwischen der um ein Jahr jüngeren Tochter
 mit dem jungen G. G. nicht nur geradezu verblüffend war,
 sondern daß der Erbe des Riesenvermögens auch zum Teil
 ausgesprochen weibliche Neigungen, dazu auch eine Stimme
-hatte, die vollkommen der seiner Schwester Glied. — &Es
+hatte, die vollkommen der seiner Schwester glich. — Es
 unterliegt wohl keinem Zweifel, daß Mr. G. sein ältestes
 Kind, das dem Geschlecht nach doch wohl mehr dem weiblichen
 Psyche zuneigen mag, nur deshalb als Knaben erziehen
-und auswachsen ließ, um sich einen männlichen Erben zu
-sichern. Wie tragisch eine sollte Vergewaltigung seelischer
-Regungen rächen kann, ist nunmehr zutage getreten, Der
-junge G. G., in röchelte Gesellschaft geraten, wurde ein
-Opfer der Unausgeglichenheit seines Innenleoens, beging die
+und aufwachsen ließ, um sich einen männlichen Erben zu
+sichern. Wie tragisch eine solche Vergewaltigung seelischer
+Regungen rächen kann, ist nunmehr zutage getreten. Der
+junge G. G., in schlechte Gesellschaft geraten, wurde ein
+Opfer der Unausgeglichenheit seines Innenlebens, beging die
 übelsten Streiche und dürfte jetzt nur deshalb wieder freigelassen
-werden, weil die Irrenärzte ihm den Freie aß der
-mangelnden Zurechnungsfähigkeit zubilligen müsjen’
+werden, weil die Irrenärzte ihm den Freipaß der
+mangelnden Zurechnungsfähigkeit zubilligen müssen.«
 
-»Altes Tiere sind rein medizinische:ertönte. Augen,« sagte
-Harst und legte den Zeitungsausschnitt beiseite, »Ihr seid
-nun wollte im Bilde, hoffe is …« — und er stand auf …
+»Altes weitere sind rein medizinische Erörterungen,« sagte
+Harst und legte den Zeitungsausschnitt beiseite. »Ihr seid
+nun völlig im Bilde, hoffe Ich …« — und er stand auf …
 
 »Aber … die Morde … und die beiden Zettel mit
-dem rätselhaften Wort Karpfenderbank €!« meinte Bechert
-gurgelnd,
+dem rätselhaften Wort Karpfenderbank?!« meinte Bechert
+zögernd.
 
 »Das erledigen wir alles unten bei Gerald Garring,
 meine Lieben, denn unser Gefangener ist der Zwitter Garring,
 nicht Mann nicht Weib — ein Unglücklicher, Verirrter! —
-
 <@pagebreak/>
-Fünf flohen im Auto aus dem Mäöärcensdloß, Max
-Schraut! Is log: nur vier, denn ich suchte nicht den
+*Fünf* flohen im Auto aus dem Märchenschloß, Max
+Schraut! Ich log: nur vier, denn ich suchte nicht den
 fünften, sondern den sechsten, den Bruder Geraldines: das
-Monokel! .— Gehen wir!« —
+Monokel! — Gehen wir!« —
 
-Gerald Garring saß am Tisch seiner Zelle und
+Gerald Garring saß am Tisch seiner Zelle und …
 schrieb, schrieb seinen Lebensroman.
 
 Schade, daß ich diese Niederschrift hier nicht wiedergeben
 kann. Der geringe Umfang der Harstbände verbietet es.
 
 Wir nahmen Platz. Garring in seiner Frauentracht
-mit dem! Bubikopf lächelte sehr anmaßend, als Harald begann:
+mit dem Bubikopf lächelte sehr anmaßend, als Harald begann:
 »Der Fall Garring ist geklärt …«
 
-Thugs …
+Pause …
 
 »So — — geklärt?!« meinte Gerald Garring gedehnt.
 »Da bin ich wirklich neugierig!«
 
-»Feine Ursache …! — Sie sind nicht Geraldine, sondern
-Gerald Garring. der angeblich im Wohnboot verbrannte, Sie
-wollten verschwinden, tauschten den Jod vor. Nur Ihre
+»Keine Ursache …! — Sie sind nicht Geraldine, sondern
+Gerald Garring, der angeblich im Motorboot verbrannte. Sie
+wollten verschwinden, täuschten den Tod vor. Nur Ihre
 Schwester ahnte die Wahrheit und ließ nach Ihnen durch
-vier Angestellte der Detektei Löwen u. Komp. forschen. Man
+vier Angestellte der Detektei Lower u. Komp. forschen. Man
 ermittelte Ihren neuen Aufenthaltsort, Berlin, und Ihre
 Schwester kam mit den vier Detektiven hierher, um sie aus
 den Krallen Ihrer drei bösen Geister, der internationalen
 Verbrecher, Karpf, Ender und Bank zu befreien, die Sie
-aus hier bereits wieder zu neuen Gewaltstreichen verführt
-hatten — Ei:, das gefürchtete Monokel!«
+auch hier bereits wieder zu neuen Gewaltstreichen verführt
+hatten — Sie, das gefürchtete Monokel!«
 
-Gerald Garring hatte die Lippen fest aufeinander &F&-
-preßt … Und da nickte er zustimmend …
+Gerald Garring hatte die Lippen fest aufeinander gepreßt
+… Und da nickte er zustimmend …
 
-»Not Ihrem letzten Straßenraub, dem Überfall aus
-Anni Anna, gelang es Ihrer Schwester und deren Helfern
-endlich. sich Ihrer zu bemächtigen und Ihnen hat zt
-machen, daß jene drei Schurken Sie nur ausruhten. Infolge
-Ihrer seeliiHchMen Veranlagung schlug die bisherige krankhafte
+»Nach Ihrem letzten Straßenraub, dem Überfall auf
+Anni Inna, gelang es Ihrer Schwester und deren Helfern
+endlich, sich Ihrer zu bemächtigen und Ihnen klar zu
+machen, daß jene drei Schurken Sie nur ausnutzten. Infolge
+Ihrer seelischen Veranlagung schlug die bisherige krankhafte
 Neigung zu Karpf, Ender und Bank in tödlichen Haß
-um. Ihre Schwester kam zu mir und tot alles auf, uns von
-einer weiteren Verfolgung der Angelegenheit abzuhalten. Van«
+um. Ihre Schwester kam zu mir und bot alles auf, uns von
+einer weiteren Verfolgung der Angelegenheit abzuhalten. dann
 <@pagebreak/>
 die Nacht, in der sie einen der drei Schurken …«
 
 »Ender war’s, Herr Harst …«
 
-»-. mit dem Totschläger beseitigten, nachdem der Elende
+»… mit dem Totschläger beseitigten, nachdem der Elende
 uns niedergeschlagen hatte … Und als dann zwei Tage
 drauf ein anderer der drei …«
 
-»—. Karpf war’s …«
+»… Karpf war’s …«
 
-»-.- mich erschießen wollte, erschossen Sie ihn!«
+»… mich erschießen wollte, erschossen Sie ihn!«
 
 Wieder nickte Gerald Garring und lächelte dazu …
 »Auch er hatte es verdient, Herr Harst! Schade, daß nicht
-auch Bank noch…«
+auch Bank noch …«
 
-»-. auch er wird gefaßt werden …! — Nicht war, Sie
+»… auch er wird gefaßt werden …! — Nicht wahr, Sie
 hatten doch Ihren Verführern schon früher jene Zettel mit
 dem Worte »Karpfenderbank« in die Schuhe eingeschmuggelt
 …?«
 
 »Nein — nicht heimlich hineingetan, nein, — wir vier
-trugen jeder einen solchen Zettel als Talisman im Schub …
+trugen jeder einen solchen Zettel als Talisman im Schuh …
 Eine Laune von mir war’s … Ich habe seltsame Launen,
 Herr Harst … Ich bin in der Tat ein völlig mißlungenes
 Geschöpf. Alles ist halb an mir, in mir … Nur eins überragt
 diese Halbheit: Meine verbrecherischen Instinkte, meine
-blinde Mordgier und … die Liebe zu meiner Schwester …!!«
+blinde Mordgier und … die Liebe zu meiner Schwester …!«
 
 Wissen Sie, wo dieser letzte der drei, Bank, jetzt
 stecken mag?«
 
-»Nein. — aber ich hätte ihn gefunden. Bank war einst
-Damenimitor und trägt stets Frauentracht … Er ist schlau!.
-mittelgroß, hat blonden Bubikopf, große Ruckte Augen 1.5)
+»Nein, — aber ich hätte ihn gefunden. Bank war einst
+Damenimitator und trägt stets Frauentracht … Er ist schlank,
+mittelgroß, hat blonden Bubikopf, große dunkle Augen und
 am Kinn ein kleines rundes Muttermal. Er ist der gefährlichste
 meiner drei … Freunde gewesen. Hüten Sie sich
-vor ihm, Herr Harst! Oder be6sjer: Geben Sie mich frei! Ich
-Silbe ihn bestimmt! Abermals funkelte der Haß in seinen
+vor ihm, Herr Harst! Oder besser: Geben Sie mich frei! Ich
+finde ihn bestimmt! Abermals funkelte der Haß in seinen
 Augen … Abermals verzerrte sich sein Gesicht … —
 
-Was wir. noch mit Gerald Garring besprachen, brauche
-4\.) hie! nicht mehr zu erwähnen, Er blieb in seiner Zelle …
+Was wir noch mit Gerald Garring besprachen, brauche
+ich hier nicht mehr zu erwähnen. Er blieb in seiner Zelle …
 
 <@pagebreak/>
 
@@ -2486,35 +2484,35 @@ empor. Dann gähnte er ganz laut … »Marsch —
 ins Bett! Morgen beginnt die Jagd auf Thomas Bank,
 der eine ganze Menge auf dem Korbholz hat …
 
-Hm Flur sagten wir uns ganze »?oh!, Ich war Hunde
-müde, Korn Wunder weiter, Die zurück liegenden Tage waren
-reichlich) ausgefüllt gewesen. Ich ich!.f wie ein Murmeltier,
-Daran hat es mir ja nie spricht:ich, Biß im um neun Uhr
+Im Flur sagten wir uns gute Nacht. Ich war Hundemüde.
+Kein Wunder weiter. Die zurückliegenden Tage waren
+reichlich ausgefüllt gewesen. Ich schlief wie ein Murmeltier.
+Daran hat es mir ja nie gefehlt. Als ich um neun Uhr
 erwachte, als ich das Konzert der Spatzen, Hühner und
-Enten auf unserem Hofe vernahm, als durch die Eilten
+Enten auf unserem Hofe vernahm, als durch die Ritzen
 der Fensterläden schmale Sonnenfäden ins Zimmer schwebten
 wie die seinen Streifen einer größtenteils abgeblendeten
-elektrischen Lampe, da stierte ich; mich nochmals so recht
-1’-Gliche aus und überdachte mit der ganzen Frische ein-& aus
-«?»ruhten Beistandes den Fall Garring, All das, wo? unter,
-voller Fideler: Uhr und Ungereimtheiten gewesen,!!g als
-helles Ei frei Wandelpanorama vor mir, — Arme Geraldine!
-Ihre hatte sie sich abgemüht den armen Bruder vor weiteren
-Schritten zu bewahren! Was mochte in ihr vorgegangen
-sein, als sie seiner. daß der anbetet;erhole Gerald den
-Sann in der Bauhütte Gesicht schon. bitte! »Ohne Zweifel
-war Gerald ich? wieder entwischt 1::keck? wieder eine fangen
-by den, das In er seinen zweiten Verfügten in dem TaubenImMa3
+elektrischen Lampe, da streckte ich mich nochmals so recht
+wohlig aus und überdachte mit der ganzen Frische eines ausgeruhten
+Verstandes den Fall Garring. All das, was dunkel,
+voller Widersprüche und Ungereimtheiten gewesen, lag als
+helles klares Wandelpanorama vor mir, — Arme Geraldine!
+Wie hatte sie sich abgemüht den armen Bruder vor weiteren
+Torheiten zu bewahren! Was mochte in ihr vorgegangen
+sein, als sie erfuhr, daß der unberechenbare Gerald den
+Mann in der Bauhütte erschlagen hatte! Ohne Zweifel
+war Gerald ihr wieder entwischt und erst wieder eingefangen
+worden, nachdem er seinen zweiten Verführer in dem Taubenschlag
 <@pagebreak/>
 erschossen hatte! Eingefangen!! Nun verstand ich
-arglos Frage, ob der Koffer groß gewesen, der aus dem
-Wir in das Märchenschloß getragen wurde. In dem Koffer
-hatte Gerald gestellt, der unzurechnungsfähige Mörder, den
+Haralds Frage, ob der Koffer groß gewesen, der aus dem
+Auto in das Märchenschloß getragen wurde. In dem Koffer
+hatte Gerald gesteckt, der unzurechnungsfähige Mörder, den
 wir nachher in der alten Gruft fanden. —
 
 Meine lieben Leser und Freunde, ich könnte auch hier
 nochmals in aller Genauigkeit die Vorgänge des Falles
-Garring gleichsam genauer erklären. Könnte …! Festhält
+Garring gleichsam genauer erklären. Könnte …! Weshalb
 aber?! Ast es nicht viel wertvoller, wenn ihr selbst euch
 die Mühe gebt und aus eigenem Prüfen und Abwägen
 heraus ergründet, wo Geraldine und wo Gerald handelnd
@@ -2525,73 +2523,72 @@ an dieser Stelle weise ich daraufhin, daß der Verlag aus
 Anlaß der Herausgabe dieses 200. Harstbandes allen denen,
 die die obigen Fragen richtig lösen und diese Lösung
 binnen vier Wochen nach dem Erscheinen dieses Bandes
-an den Verlag nebst dreißig Pfennig Porto:und Unkostenerstattung
-in Briefmarken einsenden, gratis einen Harst«-
-Roman zugestellt erhalten. Für die drei besten Lösungen
-setzt der Verlag außerdem je einen wertvollen Buchpreis aus,
+an den Verlag nebst dreißig Pfennig Porto und Unkostenerstattung
+in Briefmarken einsenden, gratis einen Harst-Roman
+zugestellt erhalten. Für die drei besten Lösungen
+setzt der Verlag außerdem je einen wertvollen Buchpreis aus.
 Die Namen dieser drei Preisträger werden in einem der
 nächsten Harstbände veröffentlicht werden. Ich hoffe, daß meine
-Absicht, meine Leser zum Nachdenken anzuregen, auch geholt
+Absicht, meine Leser zum Nachdenken anzuregen, auch jetzt
 gute Früchte trägt.
 
-Und nun zurück zu der Sclußtktragödie des Falles Garring.
+Und nun zurück zu der Schlußtragödie des Falles Garring.
 — Als ich um halb zehn Haralds Arbeitszimmer
-betrat, traf is: nur die die Köchin Mathilde an, die den
+betrat, traf Ich nur die die Köchin Mathilde an, die den
 Parkettboden wachste und die mir knurrend zurief: »Der Kerl
-aus’n Keller is morgens Block sechs au&gefknissen, und
+aus’n Keller is morgens Glock’ sechs ausgekniffen, und
 Herr Harst ist hinter ihm her. Vorhin war Herr Bechert
 hier und wollte ihn ins Irrenhaus überführen, aber da
-war Fisch mehr zu machen … Der Vogel war schon ausgeflogen!«
+war nischt mehr zu machen … Der Vogel war schon ausgeflogen!«
 
 <@pagebreak/>
-Das war ja in der Ja! eine allerliebste Bescherung!(
-Gerald wieder frei!l! Das konnte nette Folgen geben!
+Das war ja in der Tat eine allerliebste Bescherung!!
+Gerald wieder frei!! Das konnte nette Folgen geben!
 
-»»Wann ist denn Harald aufgestanden?« fragte ich trüber
+»Wann ist denn Harald aufgestanden?« fragte ich trüber
 Ahnungen voll.
 
-»Du um linke rum … Und Nu sein Sie man wieder
-raus, Herr Schraut … Sie stören mir«,!«
+»Nu um finfe rum … Und nu jehn Sie man wieder
+raus, Herr Schraut … Sie stören mir …!«
 
-Ich verbeugte mich und verduftet. Mit Mathilde ist
+Ich verbeugte mich und verduftete. Mit Mathilde ist
 nicht gut Kirschen essen.
 
 Auf der Veranda traf ich Haralds Mutter. Ich frühstückte.
 Sie lächelte so eigen, als ich von Geralds Flucht
-sprach. »Wissen Sie, lieber Schraut, ich? glaube beinahe,
-daß Harald den Verrieten absichtlich hat laufen lassen …«
-sagte sie und nahm die Brille ab, nickte mir zu. »Viele«-
-leicht wollte er diesen Ging’s vor der Irrenanstalt bewahren.«
-…
+sprach. »Wissen Sie, lieber Schraut, ich glaube beinahe,
+daß Harald den Ärmsten absichtlich hat laufen lassen …«
+sagte sie und nahm die Brille ab, nickte mir zu. »Vielleicht
+wollte er diesen Garring vor der Irrenanstalt bewahren.«
 
 »Unmöglich!« rief ich. »Garring würde sofort diese gute
 Gelegenheit benutzen und Thomas Bank ermorden. Ich kann
-Wir …«
+mir …«
 
 Mathilde stampfte herein …
 
-»Herr Schraut, das Telefong — schnell .,!! Herr Harald
+»Herr Schraut, das Telefong — schnell …!! Herr Harald
 is an ’n Apparat …«
 
-Ich eilte in Harsts Arbeitszimmer, glitt auf dem herrichteten
+Ich eilte in Harsts Arbeitszimmer, glitt auf dem teppichlosen
 blitzblanken Parkett aus, ramponierte mir die Kehrseite,
 fluchte, erhob mich …
 
-»der Schraut … Morgen, Harald«…«
+»Hier Schraut … Morgen, Harald …«
 
 »Morgen … komm’ sofort im Auto nach Johannisthal,
 Fliegerstraße, Restaurant Zum lustigen Piloten … Bring
+Unseren Lederlasso und den Fallschirm mit … Schluß …
+Beeile dich!«
 
-Unseren Lederlasso und den Fallschirm mit … Schluß…
-Beete dich!«
 Lasso — — Fallschirm?! Was hieß denn das wieder?!
 
-Aber!ich überlegte nicht lange. I4 saß im Blute, und
-da erst kam ich ein wenig zu Verstand. Aber »t’!.:obere
-stand half hier nichts … Was Harst mit Lasso und Fallsbirm
+Aber ich überlegte nicht lange. Ich saß im Auto, und
+da erst kam ich ein wenig zu Verstand. Aber aller Verstand
+half hier nichts … Was Harst mit Lasso und Fallschirm
 wollte, ahnte ich nicht.
 
-So sauste ich denn gen Johannisthal. Um el?!!!.« war
+So sauste ich denn gen Johannisthal. Um elf Uhr war
 <@pagebreak/>
 ich vor dem Lustigen Piloten. Aus der Kneipe trat mir
 Harald entgegen.
@@ -2601,26 +2598,26 @@ Requisiten sah, deren Zweck mir heute unklar war.
 
 Er nahm Lasso und Fallschirm an sich …
 
-»Komm’! Thomas Bank ist in der stillgelegten MinervaFabrik
+»Komm’! Thomas Bank ist in der stillgelegten Minerva-Fabrik
 eingekreist. Ich habe natürlich Garring die Flucht
-erleichtert, denn im war überzeugt, daß er den Aufenthaltsort
-Bande kannte. Und das stimmte. Aber leider ist Gerald
-alte entwischt, und nur Bank als blondes süßes Mädchen verleidet,
+erleichtert, denn ich war überzeugt, daß er den Aufenthaltsort
+Banks kannte. Und das stimmte. Aber leider ist Gerald
+mir entwischt, und nur Bank als blondes süßes Mädchen verkleidet,
 liegt in der Falle. Das Fabrikgebäude ist von
 Emil Marengo nebst Hilfskorps eingeschlossen … — Schneller,
 schneller … Weit haben wir es nicht … die zweite Querstraße
 …«
 
-Ich keuchte hinter Harst drein. Wir ging ein Müht«-
-Rad im Kopf herum … Bank eingekreist?! Garring entwischt?!
+Ich keuchte hinter Harst drein. Wir ging ein Mühlrad
+im Kopf herum … Bank eingekreist?! Garring entwischt?!
 
 »Harald, was willst du mit dem Lasso und dem Fallschirm?!«
 
 »Bank ist am Fabrikschornstein bis zur halben Höhe
-eimporgeklettert … Er ist bewaffnet … Is will ihn lebend
+emporgeklettert … Er ist bewaffnet … Ich will ihn lebend
 fangen …«
 
-Und er schlug einen leichten Trab an, und dies bei eher
+Und er schlug einen leichten Trab an, und dies bei einer
 drückenden Schwüle, während von Westen her eine schwarze
 Regenwolke immer näher heranzog …
 
@@ -2630,13 +2627,14 @@ oben eine weibliche Gestalt …
 
 Harst knotete das eine Ende des Lassos an den Fallschirm
 …
-Harst 304 mich mit sich fort — hinauf auf das Dach —
+
+Harst zog mich mit sich fort — hinauf auf das Dach —
 auf die Eisenleitern des dicken Schlotes …
 
-Über Thomas Bank gab das Spiel so leicht nicht verrieten,
-kletterte höher — Finger höher …
+Aber Thomas Bank gab das Spiel so leicht nicht verloren,
+kletterte höher — immer höher …
 
-Und — — feuerte auf uns: Reopotierpistole! Traf auch …
+Und — — feuerte auf uns: Repetierpistole! Traf auch …
 
 <@pagebreak/>
 Jedoch nur den seidenen Fallschirm, den Harst als Schild
@@ -2644,33 +2642,33 @@ Jedoch nur den seidenen Fallschirm, den Harst als Schild
 
 Thomas Bank hatte die Spitze des Fabrikschlotes erreicht,
 saß dort, nur mit der Linken den Blitzableiter umklammernd,
-mit der Rechten die Fährte haltend …
+mit der Rechten die Waffe haltend …
 
 Feuerte abermals … Abermals ohne Erfolg … Schleuderte
-dann die zwecklose Pistole hinab, brüllte: »Is stürze
+dann die zwecklose Pistole hinab, brüllte: »Ich stürze
 mich in die Tiefe, wenn Sie nicht hinabsteigen, und Sie
-beide reiße … ich mit hinab!
+beide reiße ich mit hinab!
 
-Die helle Gestalt des Verbrechers zeichnete ein klar
+Die helle Gestalt des Verbrechers zeichnete sich klar
 gegen den finsteren Wolkenhintergrund ab … Wir waren
 keine fünf Meter mehr unter ihm … Und da — warf
-Harald die Schlinge des Lassos zum Osten Male — doch
+Harald die Schlinge des Lassos zum ersten Male — doch
 ohne Erfolg …
 
-Da … hörte im irgendwo das Surren eines Flugzeugpropellers
+Da … hörte ich irgendwo das Surren eines Flugzeugpropellers
 …
 
 Da … warf Harst abermals …
 
-Ohne Erfolg …-
+Ohne Erfolg …
 
 Das Propellersurren blieb über uns, scheinbar über der
 Wolkendecke …
 
 Und dann zerteilte sich das Gewölk, und aus dem
 breiten Riß schien jetzt eine Geisterhand von gewaltigen Abmessungen
-nach der Spitze des Schlotes, naß Thomas Bank
-zu greisen …
+nach der Spitze des Schlotes, nach Thomas Bank
+zu greifen …
 
 Bank sah es …
 
@@ -2679,9 +2677,9 @@ Bank kreischte …
 Und nie werde ich diese schrillen Töne vergessen …
 kreischte:
 
-»die Hand Gottes!«
+<p class="centered">»die Hand Gottes!«</p>
 
-Richtete sie auf …
+Richtete sich auf …
 
 Und — — die Lassoschlinge glitt ihm über Kopf und
 rechten Arm … Ein Ruck … Bank verlor das Gleichgewicht,
@@ -2692,20 +2690,20 @@ so grauenvoller Eigenart abspielen …
 
 <@pagebreak/>
 Der Fallschirm breitete sich aus, trug den Verloren
-sanft nach unten …;. Bis ein jäher Wirbelwind Fallschirm
-und Anhängsel wieder eingreift …
+sanft nach unten … Bis ein jäher Wirbelwind Fallschirm
+und Anhängsel wieder emporriß …
 
 Und als Thomas Bank etwa hundert Meter von uns
-ab in einer Höhe mit der Turmhoher dahinsauste — nach
-oben —, da schoß aus dem Gewalt im rasenden Gleitflug
+ab in einer Höhe mit der Turmspitze dahinsauste — nach
+oben —, da schoß aus dem Gewölk im rasenden Gleitflug
 ein schnittiges Flugzeug hervor, eine jener allermodernsten
 Reklamemaschinen: Ein Wolkenschreiber!!
 
-Schoß wie ein Habicht auf den Fallschirm herab …
+Schoß wie ein Habicht auf den Fallschirm herab, …
 und Sekunden später lagen Thomas Bank und Gerald
 Garring, der, als Sportflieger mit der Bedienung eines solchen,
 Rauchmassen ausspeienden Vogels wohlvertraut, vom nahen
-Flugplatz Johannisthal einen der »Abvolkenschreiber« entführt
+Flugplatz Johannisthal einen der »Wolkenschreiber« entführt
 hatte, um Thomas Bank, den Turmkletterer, irgendwie zu
 vernichten.
 
@@ -2715,21 +2713,21 @@ das wird nie aufgeklärt werden,
 
 Garring und Bank waren sofort tot gewesen. —
 
-— Es Halb!! für mich über den Fall Garring kaum noch
+— Es gibt für mich über den Fall Garring kaum noch
 etwas zu berichten. Alle Zeitungen haben damals die
 ungeheuerliche Tragödie weidlich ausgeschlachtet, in allen Zeitungen
 stand zu lesen, daß Geraldine die Leiche ihres Bruders
-mit nach Amerika nahm und daß … für Gerald, den Mit«-
-lionenerbon. wissen jähe Tod eine Erlösung gewesen.
+mit nach Amerika nahm und daß … für Gerald, den Millionenerben,
+dieser jähe Tod eine Erlösung gewesen.
 
-Stil Marengo? — Oh, der ist heute in einer westlichen
-Inhalts Stadt ein vielgesuchter Privatdetektiv …
+Emil Marengo? — Oh, der ist heute in einer westlichen
+Industriestadt ein vielgesuchter Privatdetektiv …
 
 Und wir beide?! Wir sind, was wir waren: Freunde derer,
-die Freundschaft verdienen. Finde aller Schädlinge der menschlichen
-Gesellschaft. leidenschaftliche Jäger nach dem Absonderlichen
+die Freundschaft verdienen. Feinde aller Schädlinge der menschlichen
+Gesellschaft, leidenschaftliche Jäger nach dem Absonderlichen
 und … in den Mußestunden eifrige Rosenzüchter … —
 
 Auch Rosen haben Dornen …! Das lehrte uns der …
-leere Zettel. Davon spreche ich das nächste Mal …
+*leere Zettel*. Davon spreche ich das nächste Mal …
 
