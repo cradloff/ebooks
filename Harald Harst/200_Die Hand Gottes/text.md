@@ -108,7 +108,7 @@ Ehre für uns! — Wenn Sie also bitte nähertreten
 wollen … Hier herein …«
 
 Harst stand unter dem Kronleuchter. Er hatte sämtliche
-Beleuchtungskörper eingeschaltet,
+Beleuchtungskörper eingeschaltet.
 
 Fräulein Inna streckte ihm die Hand hin …
 
@@ -230,7 +230,7 @@ Harald lächelte zweifelnd. »Meinetwegen — angeblich
 von einer Dame, angeblich! Sicherlich wurde in diesem
 Schreiben auf Ihre eifersüchtigen Regungen spekuliert und
 Ihnen versprochen, daß der Absender nähere Einzelheiten
-mündlich geben würde. — heute abend, halb elf — oder zehn
+mündlich geben würde, — heute abend, halb elf — oder zehn
 Uhr — so ungefähr … — Stimmt’s?«
 
 Und die Diva nickte sehr kleinlaut und verlegen.
@@ -256,7 +256,7 @@ sich die gestohlenen, nein, die geraubten Stücke nennen: fünf
 Ringe, einen Anhänger, eine Perlenschnur, eine Armbanduhr
 und ein goldenes Handtäschchen, — versprach der Diva
 sein Möglichstes zu tun und begleitete unsere Klientin noch
-bis zu dem draußen wartenden Auto,
+bis zu dem draußen wartenden Auto.
 
 Als er ein wenig naß geregnet das Zimmer wieder betrat,
 rieb er sich vergnügt die Hände, trat hinter meinen Sessel
@@ -270,7 +270,7 @@ kriegen!«
 »So?! Weißt du das so bestimmt?!«
 
 »Ja … Denn jeder Gauner macht Fehler. Und dieser
-Monokel-Gent hat sie schon Gemacht. Er muß gewußt haben,
+Monokel-Gent hat sie schon gemacht. Er muß gewußt haben,
 daß Anni Inna heute abend bei der Aufnahme ihre Pretiosen
 tragen würde, daß er sie vor der Haustür abfassen könne und
 daß gerade dies durch den anonymen, Eifersucht erregenden
@@ -347,7 +347,7 @@ ein gewisser unnennbarer Reiz, der von seiner Persönlichkeit
 ausging: der junge Kerl war mir außerordentlich sympathisch!
 
 Gewiß, die halb zugekniffenen Augen, das glitzernde Monokel
-und die Pistole und ein Zug von Kalter Entschlossenheit
+und die Pistole und ein Zug von kalter Entschlossenheit
 um den schönen, fein geschwungenen Mund deuteten anderseits
 darauf hin, daß dieser Gentleman von höchstens dreiundzwanzig
 Jahren kein ganz leichter Gegner sei.
@@ -444,7 +444,7 @@ gen Spandau, bog links ab … an der Havel entlang — an
 Gatow vorüber …
 
 Harst lehnte in seiner Ecke, rauchte Zigaretten und sprach
-kein Wort,
+kein Wort.
 
 »Woran denkst du?« fragte ich …
 
@@ -461,7 +461,7 @@ beim Abschied war glänzend …«
 
 Harst schwieg.
 
-»und du?!« ermunterte ich ihn zur Antwort.
+»Und du?!« ermunterte ich ihn zur Antwort.
 
 »Ich — denke besser über ihn. Ich kenne Rüttgers kleines
 Sommerhaus. Besinne dich, im Juni haben wir dort auf dem
@@ -486,10 +486,10 @@ fernes Grollen deutete auf ein nahendes Gewitter hin. Nicht
 der geringste Luftzug milderte dieses beklemmende Gefühl, das
 nervöse Menschen stets bei solcher mit Elektrizität überladener
 Atmosphäre befällt. Und ich bin nun einmal nervös,
-daher auch Stimmungsmensch. Meine Heutige Stimmung war
+daher auch Stimmungsmensch. Meine heutige Stimmung war
 ein Mittelding von fatalen Ahnungen, und Ärger darüber,
 daß der junge Gauner uns ganz überflüssigerweise hier nach
-Cladow hinausgelockt habe,
+Cladow hinausgelockt habe.
 
 Wir schritten den schwarzen Fahrweg unten am Ufer
 entlang. Von den alten Bäumen fielen vereinzelte Tropfen
@@ -550,7 +550,7 @@ Zweigen …«
 
 Auf dem matt schillernden stillen Wasser glitt mit leisem
 Surren ein länglichen Schatten dahin — ein Motorkreuzer
-— — dergleichen, aber ohne jedes Licht, ohne jede Laterne,
+— — dergleichen, aber ohne jedes Licht, ohne jede Laterne.
 
 Das Surren verstummte, und das große Boot beschrieb
 einen kurzen Bogen und legte sich für kurze Zeit an der Landungsbrücke
@@ -572,7 +572,7 @@ Keins der Fenster wurde erleuchtet. Keine Tür knarrte
 — nichts …
 
 Und dabei standen wir dicht an dem Drahtgitterzaun, keine
-Sechs Meter von der nördlichen Hauswand entfernt.
+sechs Meter von der nördlichen Hauswand entfernt.
 
 Aber — was ging uns im Grunde dieses Häuschen, der
 Motorkutter und die dunkle Gestalt an?!
@@ -587,7 +587,7 @@ war eine der neuen amerikanischen Hupen für Wasserfahrzeuge
 sah ich hinter dem herzförmiger Ausschnitt eines der Fensterladen
 dreimal ein grünes Licht aufblitzen …«
 
-»und du bringst dies etwa mit dem Monokel-Banditen
+»Und du bringst dies etwa mit dem Monokel-Banditen
 in Zusammenhang?«
 
 »Bewahre! Nur — interessant ist es mir … vielleicht als
@@ -644,7 +644,7 @@ Gemütsruhe wie im strahlenden Sonnenschein
 anzuziehen, nachdem er den Mantel über sich in den Ästen
 als Schirm befestigt hatte.
 
-Ich befühlte meinen Schädel, Die Beule konnte sich
+Ich befühlte meinen Schädel. Die Beule konnte sich
 sehen lassen. Edlere Teile waren nicht verletzt.
 
 Ich stand auf und schwankte vorwärts.
@@ -653,7 +653,7 @@ Ich stand auf und schwankte vorwärts.
 »Bade wie ich, mein Alter, und du wirst dich wie ein
 Fischlein fühlen …« — so empfing Harst mich.
 
-»und — — die Päckchen mit der Beute?« platzte ich
+»Und — — die Päckchen mit der Beute?« platzte ich
 heraus.
 
 »Futsch! Jedenfalls waren sie da, und das genügt vorerst
@@ -720,7 +720,7 @@ Monokel ist nicht Durchschnittsware … Der junge Gentleman
 hat Hirn und Energie. Beides in reichem Maße sogar. Nur
 eins hätte er nie tun sollen. Zu uns kommen und dadurch
 zugeben, daß er uns fürchtet. Das war ein Fehler trotz der
-tadellosen Maske,«
+tadellosen Maske.«
 
 »Maske?!« fragte ich kopfschüttelnd. »Ich habe nichts
 von einer Maske bemerkt. Du doch auch wohl nicht. Du
@@ -871,7 +871,7 @@ soeben, als ich durch Haralds Mitteilungen über den Mord
 zum plötzlichen Stehenbleiben veranlaßt worden war, hatte ich
 sehr wohl bemerkt, daß der Hausierer-Schnorrer gleichfalls jäh
 halt gemacht und sich rasch halb umgedreht hatte — eine
-Stellung, die er noch immer beibehielt,
+Stellung, die er noch immer beibehielt.
 
 Harst sagte unvermittelt und mit tiefer Ironie: »Das Monokel
 ist nicht an Machandel gewöhnt … Wenn man zu
@@ -896,7 +896,7 @@ Harst begann zu laufen …
 Der Alte bog in den Bahnhof ein … Hatte kaum zwanzig
 Schritt Vorsprung. Und doch — — er blieb spurlos verschwunden.
 Harst hatte mich oben im Gebäude zurückgelassen.
-Er selbst war auf den Bahnsteig hinabgeeilt. Kehrte zurück,
+Er selbst war auf den Bahnsteig hinabgeeilt. Kehrte zurück.
 
 »Nun?!« fragte er gespannt …
 
@@ -915,7 +915,7 @@ wie die Dame im braunen Seidenmantel in ein dunkles, geschlossenes
 Privatauto stieg … Das Auto jagte nach Dahlem
 zu …
 
-Wir hatten in Wahrheit das Nachsehen,
+Wir hatten in Wahrheit das Nachsehen.
 
 Harald meinte seelenruhig: »Das Monokel hat also doch
 damit gerechnet, daß wir die Kneipe besuchen würden …
@@ -960,7 +960,7 @@ Herr Harst …«
 »Ja, warten Sie hier mit Schraut auf mich …« Und er
 verschwand wieder im Bahnhof.
 
-Es dauerte eine geraume Weile, bis er zurückkehrte,
+Es dauerte eine geraume Weile, bis er zurückkehrte.
 
 »Ich habe nichts finden können,« erklärte er … »Auf
 Wiedersehen, Herr Marengo … Wir haben es eilig …!«
@@ -1035,14 +1035,14 @@ ein Gegner da. Das sah ich …«
 
 Er blickte starr auf den besudelten Totschläger …
 
-»und nun — dies gräßliche Ding! Es ist vor kurzem
+»Und nun — dies gräßliche Ding! Es ist vor kurzem
 benutzt worden, und wenn wir das, was Freund Bechert mir
 so flüchtig über den Ermordeten in der Bauhütte mitteilte, hier
 mit in Betracht ziehen, so … ja, so muß man leider, leider
 dieses Weib trotz aller Widersprüche in den bisherigen Vorgängen,
 für die Täterin halten. — Widersprüche …! Überlegen
 wir folgendes: Wir fahren in der Nacht nach Cladow
-Hinaus, um die Beute des Monokels zu holen. Als wir diese
+hinaus, um die Beute des Monokels zu holen. Als wir diese
 Beute schon in den Händen haben, erfolgt der hinterlistige
 Angriff auf uns … Von einer einzelnen Person … Und
 nachher wirft das Monokel die Beute durch das Fenster in
@@ -1112,7 +1112,7 @@ Bewußtseins wachsen endlich ein paar hellere, verschwommene
 Stellen hervor … Meine Sinne funktionieren
 halb … Nur halb … Was ich wahrnehme, ist wie ein Traum,
 wie die groteske sprunghafte Arbeit des schlafumfangenen
-Geistes,
+Geistes.
 
 Da ist ein Geräusch, das anschwillt, verklingt … Da ist
 ein Brausen, Sausen, Gurgeln, Raunen, Stöhnen, Flüstern …
@@ -1147,7 +1147,7 @@ Harald hebt den Kopf … »Wir danken Ihnen, Herr Marengo
 nicht, — nein, ich meine: Sie würden ihn nicht wiedererkennen?!
 Unmöglich! Leider!«
 
-Harst sank wieder zurück,
+Harst sank wieder zurück.
 
 Nun wußte er, — auch ich: Marengo hatte nicht geplaudert!
 Unser Monokel war bisher nicht von ihm genannt worden!
@@ -1173,7 +1173,7 @@ Dinge ereignet haben, die genauso dunkel sind wie die
 bisherigen Vorkommnisse.«
 
 Er trug noch den schwarzseidenen Schlafanzug, und er war
-noch nicht rasiert und sein Haar hing ihm wirr in die Stirn,
+noch nicht rasiert und sein Haar hing ihm wirr in die Stirn.
 
 Draußen war’s bereits hell. Aber es goß in Strömen:
 Juli 1927!!
@@ -1313,7 +1313,7 @@ verschwiegen!!«
 ohne Kaltschale, mein Alter …! Jedes zu seiner Zeit! Und damit
 nun auch Bechert Grund zum Wettern und Schimpfen
 hat: Lieber Fritze Bechert, die Dame, um die es hier geht,
-ist Höchstwahrscheinlich das Monokel …!!«
+ist höchstwahrscheinlich das Monokel …!!«
 
 »Monokel?«
 
@@ -1426,14 +1426,14 @@ der Zofe. Diese fünf bezogen das Sommerhaus Rüttgers in
 Cladow. Außerdem hatte Geraldine Garring aber noch in
 der Kaiserallee in Berlin, Nr. 21, hochparterre rechts, eine
 feudale möblierte Vierzimmerwohnung gemietet, in der sie sich
-Freilich nur selten aufgehalten hatte. Verkehr hatte sie
+freilich nur selten aufgehalten hatte. Verkehr hatte sie
 nicht gepflegt. Ihre Lehrerin, die Kammersängerin Marzella
 Emmich, bei der sie ihren wundervollen Sopran veredeln und
 auch ihr Talent als Pianistin in ein geordnetes Studium
 lenken ließ, schilderte Miß Garring als bescheiden, höflich,
-Sehr ernst und schwerblütig. Die Annahme, daß Geraldine
+sehr ernst und schwerblütig. Die Annahme, daß Geraldine
 als Straßenräuberin sich betätigt haben könnte, verwarf sie
-Halb empört und halb belustigt. — Was man sonst noch
+halb empört und halb belustigt. — Was man sonst noch
 über Geraldines Tun und Lassen hier in Berlin feststellen
 konnte, war sehr wenig. Sie hatte mit dem Rüttgerschen
 Motorkreuzer auf den Gewässern der Berliner Umgebung
@@ -1492,7 +1492,7 @@ große, schwarze Knupperkirschen. Durch eine Lücke in den
 Zweigen konnte ich Harst beobachten, der jetzt gerade am
 Komposthaufen mit dem Spaten den Kompost gegen ein
 schräg gestelltes großes Sieb warf und die gesiebte Erde
-nachher für Erdbeerbeete verwenden wollte,
+nachher für Erdbeerbeete verwenden wollte.
 
 Jedenfalls, ich sah ihn, und wenn ich auch hier oben
 scheinbar unbekümmert immer wieder »den kleinen Meier
@@ -1500,7 +1500,7 @@ am Himalaya<@refnote 2/>« pfiff, so war’s in meinem Innern weit
 weniger fidel … Haralds Stimmung machte mir Kopfzerbrechen.
 
 Und dann wurde ich Zeuge eines kleinen Zwischenfalls,
-der meine Tätigkeit als Kirschenpflücker jäh beendete,
+der meine Tätigkeit als Kirschenpflücker jäh beendete.
 
 Harst hatte eine Ruhepause gemacht, stand auf den
 Spaten gestützt da und starrte regungslos über den Zaun
@@ -1561,7 +1561,7 @@ was heißt das?!«
 
 »Geh’ — telephoniere! Und — von dem … Zweiten
 zu niemandem ein Wort! Ich mische mich nicht in Dinge,
-die ich im Grunde nur billigen kann, Wenn sie auch auf
+die ich im Grunde nur billigen kann, wenn sie auch auf
 eine recht primitive Auffassung von Gesetz und Vergeltung
 zurückzuführen sind.«
 
@@ -1653,10 +1653,10 @@ er?! Das mochte er jemand anderem vorreden, nicht mir!
 
 »Ich bin auch müde,« log ich genau so unverfroren.
 »Diese schwüle Luft ist mir unerträglich. Also — gute
-Nacht!« Wir trennten uns im Vorderflur. Ich Öffnete
+Nacht!« Wir trennten uns im Vorderflur. Ich öffnete
 Meine Tür, klappte sie wieder zu, ohne eingetreten zu sein,
 <@pagebreak/>
-und Schlich auf dem dicken Läufer zur Hoftür, nahm auf
+und schlich auf dem dicken Läufer zur Hoftür, nahm auf
 dem Hofe die Leiter und lehnte sie gegen Haralds offenes
 Schlafstubenfenster. Ich hatte es eben wieder mal gründlich
 satt, auch jetzt wie so oft mit unklaren Andeutungen wie ein
@@ -1678,7 +1678,7 @@ wagte es, drückte die Klinke abwärts, öffnete ein wenig …
 
 Horchte …
 
-Da Schlug die alte englische Wanduhr drinnen halb vier
+Da schlug die alte englische Wanduhr drinnen halb vier
 Uhr … — Sie ging auf die Sekunde, diese Präzisionsuhr.
 Ihr Ton war ein wenig blechern und schrillte unangenehm
 nach. Kaum war der letzte Schlag verhallt, als ich das
@@ -1710,7 +1710,7 @@ Ich …
 Wartete …
 
 Nicht lange. Aus dem »Patzenhofer« traten zwei Männer
-Heraus, Arbeiter … scheinbar. Tadellose Masken, ohne
+heraus, Arbeiter … scheinbar. Tadellose Masken, ohne
 Kragen, und doch Harald und Emil Marengo — nur für
 meine Augen. Im übrigen nahm niemand von den beiden
 Notiz, auch von mir nicht, da ich dreißig Schritte hinter
@@ -1732,7 +1732,7 @@ auch die Mauer, die es umgrenzt, ist aus verwitterten
 früheren Gemäuerbrocken und Feldsteinen errichtet und oben
 mit einem Kletterschutz in Gestalt von Glasscherben, die in
 Zement gebettet sind, versehen. Das Haus gehört, soviel
-uns bekannt, einem früheren Farmer aus Südwest,
+uns bekannt, einem früheren Farmer aus Südwest.
 
 Auf das Märchenschloß wanderten meine beiden »Vorgänger«
 also zu …
@@ -1772,7 +1772,7 @@ Er zuckte ärgerlich die Achseln …
 können!!« Und verschwand in seinem Arbeitszimmer, ahnte
 nichts …
 
-Ich frohlockte,
+Ich frohlockte.
 
 Und als wir dann beim Kaffee saßen, hatte ich mein
 Fernglas mit in die Veranda gebracht, benutzte es fleißig,
@@ -1787,7 +1787,7 @@ daß die Vorhänge sich in der Zugluft bewegen, sobald in
 beiden Zimmern die Fenster offen sind. Und wenn du nachher
 hinter uns drein schleichst, so erinnere dich an meinen
 kleine Hohlspiegel … Ich brauche mich nicht umzusehen
-Und … sehe trotzdem alles!«
+und … sehe trotzdem alles!«
 
 Frau Harst lächelte. Ich wurde blaurot vor Ärger.
 
@@ -1844,7 +1844,7 @@ herauskriegen, was ich gern festgestellt haben möchte …«
 das Nest ausheben!«, rief Frau Harst unwillig. »Wozu
 erst noch etwas feststellen — ich bitte dich!!«
 
-Harald Schaute sie liebevoll an. »Du bist um mich
+Harald schaute sie liebevoll an. »Du bist um mich
 besorgt …! Du verkennst die Sachlage. Der heutige Anschlag
 gegen mich ging doch nicht von Miß Garring aus. Im
 Gegenteil. Der Attentäter büßte seinen Versuch, mich zu
@@ -1855,7 +1855,7 @@ ist doch außerordentlich wichtig.«
 Frau Harst. »Und du — bleibst mir unverständlich, mein
 Junge!«
 
-»Schon möglich — — vorläufig! Der Fall liegt Ja
+»Schon möglich — — vorläufig! Der Fall liegt ja
 kompliziert genug. Es hat lange gedauert, bis ich in allem
 klar sah. Erst Becherts telephonischer Anruf vorhin gab mir
 die Gewißheit, daß meine Theorie richtig ist. Der zweite Zettel
@@ -1901,9 +1901,9 @@ mit dick unterstrichener Ironie.
 Alter! Jetzt wollen wir zupacken. Deine Meldung über
 den Koffer ist wichtiger als du ahnst.«
 
-<h2>3. Kapitel</h2>
+<h2>3. Kapitel.</h2>
 
-<h3>Die fünf Fratellis,</h3>
+<h3>Die fünf Fratellis.</h3>
 
 Wir gingen ins Haus. Aber nicht in Haralds Arbeitszimmer,
 sondern nach oben auf den Boden. Schweigend lehnte
@@ -1921,7 +1921,7 @@ kommen!«
 Ich stellte das Fernglas ein. Aus dem eisernen Öfchen
 <@pagebreak/>
 vor dem Zelte der Pflasterer quoll plötzlich eine dicke Rauchsäule
-hervor,
+hervor.
 
 »Rauch!«, meldete ich.
 
@@ -1964,7 +1964,7 @@ eine ganze Menge Kopfsteine herausgehoben und sauber
 aufgeschichtet. Er schwitzte wie ein Sommerleutnant von ehedem,
 und seine Begrüßungsworte: »Verdammte Schweinerei
 <@pagebreak/>
-das!« klangen ziemlich erschöpft,
+das!« klangen ziemlich erschöpft.
 
 Harst lachte. »Machen Sie getrost Pause, Kollege! Aber —
 Augen auf! Keine Maus darf heraus. — Wieviel sind
@@ -2018,7 +2018,7 @@ Leine, trat zur Seite und ließ uns ein.
 Mein erster Blick galt seiner nun sichtbaren Unterpartie.
 Diese O-Beine. Es stimmte, es war John Winnepp.
 
-Hinter uns fiel die Tür wieder zu,
+Hinter uns fiel die Tür wieder zu.
 
 Der Mann schritt die verwilderte kurze Allee entlang,
 die vor dem Hause eine scharfe Krümmung machte, so daß
@@ -2093,7 +2093,7 @@ wie gebannt auf der Stelle hafteten, wo die Augen der
 Hunde im Dunkel wie große Leuchtkäfer funkelten …
 
 Die starken Bestien knurrten dumpf … Wenn sie uns
-ansprangen, konnte die Geschichte unangenehm werden,
+ansprangen, konnte die Geschichte unangenehm werden.
 
 Harst kam dem zuvor …
 
@@ -2129,7 +2129,7 @@ als nun auch Tageslicht ins Zimmer fiel, schnellten sich die
 beiden Bestien gleichzeitig vorwärts. Harst schleuderte ihnen
 den Stuhl entgegen. Sie heulten auf … und ich warf
 die Türflügel wieder zu, während Harald einen Tisch dagegen
-lehnte,
+lehnte.
 
 Mir lief der Schweiß über das Gesicht. Dieser Zwischenfall
 war immerhin etwas aufregend gewesen. Und doch vergaß
@@ -2222,7 +2222,7 @@ an der Platte befestigt waren. Langsam hob sich die zwei
 Meter lange und ein Meter breite Platte — ganz langsam
 wurde sie dann zur Seite geschwenkt. Die Gruft lag frei —
 ein tiefes, gemauertes Loch. Und in diesem Loche stand aufrecht
-dieselbe junge Dame, die uns Damals spät abends
+dieselbe junge Dame, die uns damals spät abends
 das Versprechen abgenommen, ihr nicht weiter nachzuspüren.
 Neben ihr lagen allerlei Dinge, die sie zu längerem Aufenthalt
 in diesem Versteck nötig hatte.
@@ -2248,7 +2248,7 @@ verschlossen worden waren, verabschiedeten wir uns von
 unseren freudestrahlenden Armen und wanderten, Miß Garring
 zwischen uns, zur Blücherstraße. Es begann sachte
 zu regnen, und als wir gerade unter Dach und Fach waren,
-goß es in Strömen, —
+goß es in Strömen. —
 
 Ich habe in einem der letzten Bände von dem »Geheimnis«
 des Harstschen Hauses gesprochen, von jenem Kellergelaß,
@@ -2305,7 +2305,7 @@ hatten. Doch — über die fehlenden Glieder in dieser
 Kette von Rätseln und Widersprüchen verlor er kein
 Wort … —
 
-dann kam Freund Fritze Bechert, der Ahnungslose.
+Dann kam Freund Fritze Bechert, der Ahnungslose.
 Saß im weichen Klubsessel, rauchte, trank duftenden Chateau
 La Rose und verlangte Haralds Ansicht über den Fall
 »Garring« zu hören.
@@ -2317,13 +2317,13 @@ Doch nein — mein unberechenbarer Harald wollte es
 anders …
 
 »Möchten Sie Miß Garring sehen?« fragte er Bechert
-und nahm eine neue Mirakulum,
+und nahm eine neue Mirakulum.
 
 Bechert zuckte empor. »Wo — — ist sie, Harst?«
 
 »Kommen Sie mit … Ich hoffe, unser Gast wird noch
 nicht zu Bett gegangen sein. Nachher aber lesen Sie bitte
-Hier diesen Artikel aus dem Chikagoerpreß vom 11. November
+hier diesen Artikel aus dem Chikagoerpreß vom 11. November
 1926, der mir sehr wichtige Aufschlüsse gegeben hat und den
 ich seinerzeit meinen Sammelmappen einverleibte, weil mich
 die medizinische Seite der Angelegenheit stark interessierte.
@@ -2343,7 +2343,7 @@ gehört zu jenen unfertigen, von der Natur geradezu
 mißhandelten Geschöpfen, bei denen die Geschlechtsbestimmung
 infolge anormaler anatomischer Bauart unmöglich ist. —
 Zwitter hat es zu allen Zeiten gegeben. Im alten Ägypten
-Spielten diese Wesen, die gleichzeitig Mann und Weib waren,
+spielten diese Wesen, die gleichzeitig Mann und Weib waren,
 beim Isis- und Osiriskult eine große Rolle. — Allen Bekannten
 der Familie G. war es schon längst aufgefallen, daß die
 Ähnlichkeit zwischen der um ein Jahr jüngeren Tochter
@@ -2365,7 +2365,7 @@ mangelnden Zurechnungsfähigkeit zubilligen müssen.«
 
 »Alles weitere sind rein medizinische Erörterungen,« sagte
 Harst und legte den Zeitungsausschnitt beiseite. »Ihr seid
-nun völlig im Bilde, hoffe Ich …« — und er stand auf …
+nun völlig im Bilde, hoffe ich …« — und er stand auf …
 
 »Aber … die Morde … und die beiden Zettel mit
 dem rätselhaften Wort Karpfenderbank?!« meinte Bechert
@@ -2417,7 +2417,7 @@ machen, daß jene drei Schurken Sie nur ausnutzten. Infolge
 Ihrer seelischen Veranlagung schlug die bisherige krankhafte
 Neigung zu Karpf, Ender und Bank in tödlichen Haß
 um. Ihre Schwester kam zu mir und bot alles auf, uns von
-einer weiteren Verfolgung der Angelegenheit abzuhalten. dann
+einer weiteren Verfolgung der Angelegenheit abzuhalten. Dann
 <@pagebreak/>
 die Nacht, in der sie einen der drei Schurken …«
 
@@ -2471,11 +2471,11 @@ ich hier nicht mehr zu erwähnen. Er blieb in seiner Zelle …
 Mitternacht war’s, als Harald und ich Freund Bechert
 bis auf die Straße hinausgeleiteten. Das Gewitter hatte
 ausgetobt, der Himmel war sternenklar und die Luft frisch
-und rein,
+und rein.
 
 Bechert schritt eilends davon. Er wollte Morgen in
 aller Stille Gerald Garring nach der Irrenanstalt Herzberge
-bringen lassen,
+bringen lassen.
 
 Harst hatte seinen Arm in den meinen geschoben …
 
@@ -2484,7 +2484,7 @@ empor. Dann gähnte er ganz laut … »Marsch —
 ins Bett! Morgen beginnt die Jagd auf Thomas Bank,
 der eine ganze Menge auf dem Kerbholz hat …«
 
-Im Flur sagten wir uns gute Nacht. Ich war Hundemüde.
+Im Flur sagten wir uns gute Nacht. Ich war hundemüde.
 Kein Wunder weiter. Die zurückliegenden Tage waren
 reichlich ausgefüllt gewesen. Ich schlief wie ein Murmeltier.
 Daran hat es mir ja nie gefehlt. Als ich um neun Uhr
@@ -2534,7 +2534,7 @@ gute Früchte trägt.
 
 Und nun zurück zu der Schlußtragödie des Falles Garring.
 — Als ich um halb zehn Haralds Arbeitszimmer
-betrat, traf Ich nur die die Köchin Mathilde an, die den
+betrat, traf ich nur die die Köchin Mathilde an, die den
 Parkettboden wachste und die mir knurrend zurief: »Der Kerl
 aus’n Keller is morgens Glock’ sechs ausgekniffen, und
 Herr Harst ist hinter ihm her. Vorhin war Herr Bechert
@@ -2578,7 +2578,7 @@ fluchte, erhob mich …
 
 »Morgen … komm’ sofort im Auto nach Johannisthal,
 Fliegerstraße, Restaurant Zum lustigen Piloten … Bring
-Unseren Lederlasso und den Fallschirm mit … Schluß …
+unseren Lederlasso und den Fallschirm mit … Schluß …
 Beeile dich!«
 
 Lasso — — Fallschirm?! Was hieß denn das wieder?!
@@ -2689,7 +2689,7 @@ Was dann geschah, wird sich wohl niemals wieder in
 so grauenvoller Eigenart abspielen …
 
 <@pagebreak/>
-Der Fallschirm breitete sich aus, trug den Verloren
+Der Fallschirm breitete sich aus, trug den Verbrecher
 sanft nach unten … Bis ein jäher Wirbelwind Fallschirm
 und Anhängsel wieder emporriß …
 
@@ -2709,7 +2709,7 @@ vernichten.
 
 Ob Gerald »Die Hand Gottes« absichtlich an den Himmel
 geschrieben hatte, ob hier ein eigenartiger Zufall vorlag,
-das wird nie aufgeklärt werden,
+das wird nie aufgeklärt werden.
 
 Garring und Bank waren sofort tot gewesen. —
 
