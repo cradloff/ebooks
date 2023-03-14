@@ -180,7 +180,7 @@ kindlichen Freude. »Man merkt, man ist bei Harst …!
 Sie diese bis ins einzelne zutreffenden Schlußfolgerungen aus
 dem Nichts abgeleitet haben! Das ist ja fabelhaft interessant!«
 
-»Harst seufzte. »A, das ist weder fabelhaft noch interessant.
+Harst seufzte. »A, das ist weder fabelhaft noch interessant.
 Das ist Alltagskram: Natürlich kann man nicht
 kombinieren, also logische Ableitungen und Ergänzungen
 fertigbringen, wenn man gar keine Unterlagen hat. Diese
@@ -468,7 +468,7 @@ Sommerhaus. Besinne dich, im Juni haben wir dort auf dem
 freien Gelände mal Freibad gespielt …«
 
 <@pagebreak/>
-»Ah — das stimmt …!
+»Ah — das stimmt …!«
 
 »Ja, — und wie sollte der Mann so rasch ausgerechnet
 auf jene Örtlichkeit kommen?! — Unser Auto hält … Steigen
@@ -1640,7 +1640,7 @@ Theorie — — welche?!
 
 Geraldine Garring, die Doppelmörderin?! Nein — niemals
 würde ich daran glauben, niemals auch, das sie »das
-Monokel", der Straßenräuber, gewesen …
+Monokel«, der Straßenräuber, gewesen …
 
 <h2>2. Kapitel.</h2>
 <h3>Ich komme ihm etwas hinter seine Schliche …</h3>
@@ -2363,7 +2363,7 @@ Opfer der Unausgeglichenheit seines Innenlebens, beging die
 werden, weil die Irrenärzte ihm den Freipaß der
 mangelnden Zurechnungsfähigkeit zubilligen müssen.«
 
-»Altes weitere sind rein medizinische Erörterungen,« sagte
+»Alles weitere sind rein medizinische Erörterungen,« sagte
 Harst und legte den Zeitungsausschnitt beiseite. »Ihr seid
 nun völlig im Bilde, hoffe Ich …« — und er stand auf …
 
@@ -2448,7 +2448,7 @@ Geschöpf. Alles ist halb an mir, in mir … Nur eins überragt
 diese Halbheit: Meine verbrecherischen Instinkte, meine
 blinde Mordgier und … die Liebe zu meiner Schwester …!«
 
-Wissen Sie, wo dieser letzte der drei, Bank, jetzt
+»Wissen Sie, wo dieser letzte der drei, Bank, jetzt
 stecken mag?«
 
 »Nein, — aber ich hätte ihn gefunden. Bank war einst
@@ -2457,7 +2457,7 @@ mittelgroß, hat blonden Bubikopf, große dunkle Augen und
 am Kinn ein kleines rundes Muttermal. Er ist der gefährlichste
 meiner drei … Freunde gewesen. Hüten Sie sich
 vor ihm, Herr Harst! Oder besser: Geben Sie mich frei! Ich
-finde ihn bestimmt! Abermals funkelte der Haß in seinen
+finde ihn bestimmt!« Abermals funkelte der Haß in seinen
 Augen … Abermals verzerrte sich sein Gesicht … —
 
 Was wir noch mit Gerald Garring besprachen, brauche
@@ -2482,7 +2482,7 @@ Harst hatte seinen Arm in den meinen geschoben …
 »Herrliche Nacht,« schwärmte er und blickte zum Firmament
 empor. Dann gähnte er ganz laut … »Marsch —
 ins Bett! Morgen beginnt die Jagd auf Thomas Bank,
-der eine ganze Menge auf dem Korbholz hat …
+der eine ganze Menge auf dem Kerbholz hat …«
 
 Im Flur sagten wir uns gute Nacht. Ich war Hundemüde.
 Kein Wunder weiter. Die zurückliegenden Tage waren
@@ -2647,7 +2647,7 @@ mit der Rechten die Waffe haltend …
 Feuerte abermals … Abermals ohne Erfolg … Schleuderte
 dann die zwecklose Pistole hinab, brüllte: »Ich stürze
 mich in die Tiefe, wenn Sie nicht hinabsteigen, und Sie
-beide reiße ich mit hinab!
+beide reiße ich mit hinab!«
 
 Die helle Gestalt des Verbrechers zeichnete sich klar
 gegen den finsteren Wolkenhintergrund ab … Wir waren
