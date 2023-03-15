@@ -47,7 +47,7 @@ Vinzent blinzelte in den Lichtschein der Laterne, seine Stimme klang plötzlich 
 
 Er lachte leise, und dieses Lachen schnitt mir ins Herz.
 
-»Seltsam genug, Abelsen: Vielleicht liegen Kultur, Zivilisation und unbekanntes Gebiet nirgends so dicht beieinander wie hier in den Staaten Mittelamerikas. Modernste Prachtbauten, — — und tausend Meter weiter die Wildnis mit all ihrer Schönheit, all ihren Tücken und Gefahren. Wir haben es ja in den letzten Tagen selbst erlebt, als wir von dem Hafenort Corosal an der Südostküste Yucatans gen Südwest ritten. Zwei Stunden genügten, uns in die unberührten Urwälder zu bringen, wo der Puma und der Jaguar durch die Dickichte schleichen und das Faultier wie ein unwirkliches Wesen an den lianenumsponnenen Ästen hängt. — Yucatan ist mexikanische Provinz, ein Staat, ist trotzdem zur Hälfte unerforscht. Und dort, wo unser Ziel liegt, mag vielleicht nur eines einzigen Europäers Fuß den jungfräulichen Waldboden entweiht haben, — — der Fuß meines Todfeindes, des Zerstörers meiner Existenz, des größten Schurken, den je Europa ausspie und nach Mexiko verschlug: Allan Tott, — — er selbst nannte sich mit frechem Witz Nachbar Tod, denn er war mein Nachbar in Merida, und sein Hans hatte einen Turm, auf dem Allan Totts Riesenfernrohr stand.«
+»Seltsam genug, Abelsen: Vielleicht liegen Kultur, Zivilisation und unbekanntes Gebiet nirgends so dicht beieinander wie hier in den Staaten Mittelamerikas. Modernste Prachtbauten, — — und tausend Meter weiter die Wildnis mit all ihrer Schönheit, all ihren Tücken und Gefahren. Wir haben es ja in den letzten Tagen selbst erlebt, als wir von dem Hafenort Corosal an der Südostküste Yucatans gen Südwest ritten. Zwei Stunden genügten, uns in die unberührten Urwälder zu bringen, wo der Puma und der Jaguar durch die Dickichte schleichen und das Faultier wie ein unwirkliches Wesen an den lianenumsponnenen Ästen hängt. — Yucatan ist mexikanische Provinz, ein Staat, ist trotzdem zur Hälfte unerforscht. Und dort, wo unser Ziel liegt, mag vielleicht nur eines einzigen Europäers Fuß den jungfräulichen Waldboden entweiht haben, — — der Fuß meines Todfeindes, des Zerstörers meiner Existenz, des größten Schurken, den je Europa ausspie und nach Mexiko verschlug: Allan Tott, — — er selbst nannte sich mit frechem Witz Nachbar Tod, denn er war mein Nachbar in Merida, und sein Haus hatte einen Turm, auf dem Allan Totts Riesenfernrohr stand.«
 
 Vinzent Kumanogoto atmete keuchend und vertrieb den Nachtfalter von seinem Knie mit heftiger Handbewegung.
 
@@ -469,7 +469,7 @@ Es war das Gesicht eines ernsten, fast melancholischen Gelehrten, es war zugleic
 
 Meine Frage war berechtigt. Turf hatte sich von unserem Hügellager so lautlos entfernt, daß nicht einmal meine übergroße Wachsamkeit es bemerkt hatte.
 
-»Zu Fuß, — und in der Absicht, Ihnen die Arbeit des Spurensuchens abzunehmen«, erwiderte er gleichgültig. »Sie mögen mich ja bisher als Neuling der Wildnis eingeschätzt haben. Das trifft nicht ganz zu. Wenn wir die Erdenwinkel vergleichen wollen, die Sie und ich kennen, würde ich zweifellos besser dabei abschneiden. Meine Wege werden mir sozusagen vorgezeichnet — durch Leute, die nun einmal die Neigung besitzen, andere in Atem zu halten.« Zum ersten Mal spielte da um seinen harten Mund ein Anflug eines fast zynischen Lächelns. Oder — irrte ich mich?! Enthielt dieses Lächeln doch andere Nüancen?!
+»Zu Fuß, — und in der Absicht, Ihnen die Arbeit des Spurensuchens abzunehmen«, erwiderte er gleichgültig. »Sie mögen mich ja bisher als Neuling der Wildnis eingeschätzt haben. Das trifft nicht ganz zu. Wenn wir die Erdenwinkel vergleichen wollen, die Sie und ich kennen, würde ich zweifellos besser dabei abschneiden. Meine Wege werden mir sozusagen vorgezeichnet — durch Leute, die nun einmal die Neigung besitzen, andere in Atem zu halten.« Zum ersten Mal spielte da um seinen harten Mund ein Anflug eines fast zynischen Lächelns. Oder — irrte ich mich?! Enthielt dieses Lächeln doch andere Nuancen?!
 
 Manfred Turf lehnte an einem verkrüppelten Wolfsmilchbaume, während er dieses in seiner einfachen Art erklärte. Im rechten Arm hing ihm die Winchesterbüchse, die linke Hand zerpflückte eine Blüte des giftigen Gewächses.
 
@@ -911,7 +911,7 @@ Heliante Ghost saß am Fuße des Mahagonibaumes, in eine meiner Wolldecken gehü
 
 Mein grenzenloses, freudiges Erstaunen über Heliantes Rettung wurde jetzt größtenteils wieder von anderen Gedanken zurückgedrängt. Ich hatte Miß Ghost kameradschaftlich die Hand hingestreckt, sie jedoch schüttelte mit dem gleichen überlegenen Lächeln den schönen Kopf und meinte ohne jede Prüderie: »Ich bedauere, mein Freund, — ich muß mit beiden Händen die Wolldecke zusammenhalten. — Setzten Sie sich doch … Weshalb haben Sie eigentlich das Felsloch verbarrikadiert?«
 
-Unserer gegenseitigen Erlebnisse waren schnell berichtet. Heliante war ähnlich wie ich weiter unten in dem Schlund des Wasserfalls auf einem mit dicken Moospolstern bedeckten Felsvorsprung aufgeprallt, hatte das Bewußtsein verloren und war in einen sicheren Winkel gerollt. Bemerkenswert erschienen ihre Äußerungen über die Art und Weise, wie sie dann aus dem Schlunde sich mühselig emporgearbeitet hatte. »… Es war stockdunkel um mich her, als ich erwachte. Alle Glieder schmerzten mich, ich fror in den durchnäßten Kleidern, hörte neben mir das Toben des Wasserfalles und sah sehr bald ein, daß jeder Hilferuf zwecklos sei. Mit äußerster Energie raffte ich mich auf, tastete im Finstern meine Umgebung ab und berührte plötzlich glattes Holz, eine Bambusleiter, kletterte die Sprossen hinan, zwängte mich durch eine Felsöffnung und erblickte schräg über mir den schwachen Lichtschein der Tropennacht in ungleich großen Flecken. Es waren die Löcher Ihrer Barrikade, Abelsen. Nach längerem Suchen fand ich eine zweite Leiter, die genau wie die erste in Eisenhaken hing, die in das Gestein hineingetrieben waren. Aber auch diese Leiter hing in einer Felsspalte, und lediglich meine körperliche Gewandtheit und der eiserne Wille brachten mich schließlich auf jenen höheren Felsvorsprung, der Ihnen und Marry zur Rettung ward.« Nach kurzer Pause fügte sie in ihrer selbstsicheren Art hinzu: »Pater Menardus hat mithin durchaus recht, wenn er annimmt, Allan Tott benutze den unterirdischen Fluß als einzigen gangbaren Weg durch die Wildnis. Wir nahmen an, Tott hätte den Fluß zufällig als Fluchtweg gefunden — ein Irrtum also! Tott und der arme betörte Winston Turf, der so jämmerlich sterben mußte, haben bestimmt all die Jahre mit den östlichen Hafenorten Yucatans in Verbindung gestanden. Haben auch zweifellos in Corosal, wo Sie und Goto und auch Fred Turf und ich einige Tage weilten, ihre Vertrauensleute sitzen. Genau so wird des Paters Annahme zutreffen, daß Allan Tott Anführer einer mehrköpfigen Bande dunkelster Ehrenmänner ist, die vielleicht das Smaragdtal ausbeuten und dabei ungeheure Gewinne erzielen. Bedenken Sie: Tott ist kein Neuling in derlei Dingen, Tott hatte in London eine Gesellschaft gegründet, die nicht nur meinen Vater …«
+Unsere gegenseitigen Erlebnisse waren schnell berichtet. Heliante war ähnlich wie ich weiter unten in dem Schlund des Wasserfalls auf einem mit dicken Moospolstern bedeckten Felsvorsprung aufgeprallt, hatte das Bewußtsein verloren und war in einen sicheren Winkel gerollt. Bemerkenswert erschienen ihre Äußerungen über die Art und Weise, wie sie dann aus dem Schlunde sich mühselig emporgearbeitet hatte. »… Es war stockdunkel um mich her, als ich erwachte. Alle Glieder schmerzten mich, ich fror in den durchnäßten Kleidern, hörte neben mir das Toben des Wasserfalles und sah sehr bald ein, daß jeder Hilferuf zwecklos sei. Mit äußerster Energie raffte ich mich auf, tastete im Finstern meine Umgebung ab und berührte plötzlich glattes Holz, eine Bambusleiter, kletterte die Sprossen hinan, zwängte mich durch eine Felsöffnung und erblickte schräg über mir den schwachen Lichtschein der Tropennacht in ungleich großen Flecken. Es waren die Löcher Ihrer Barrikade, Abelsen. Nach längerem Suchen fand ich eine zweite Leiter, die genau wie die erste in Eisenhaken hing, die in das Gestein hineingetrieben waren. Aber auch diese Leiter hing in einer Felsspalte, und lediglich meine körperliche Gewandtheit und der eiserne Wille brachten mich schließlich auf jenen höheren Felsvorsprung, der Ihnen und Marry zur Rettung ward.« Nach kurzer Pause fügte sie in ihrer selbstsicheren Art hinzu: »Pater Menardus hat mithin durchaus recht, wenn er annimmt, Allan Tott benutze den unterirdischen Fluß als einzigen gangbaren Weg durch die Wildnis. Wir nahmen an, Tott hätte den Fluß zufällig als Fluchtweg gefunden — ein Irrtum also! Tott und der arme betörte Winston Turf, der so jämmerlich sterben mußte, haben bestimmt all die Jahre mit den östlichen Hafenorten Yucatans in Verbindung gestanden. Haben auch zweifellos in Corosal, wo Sie und Goto und auch Fred Turf und ich einige Tage weilten, ihre Vertrauensleute sitzen. Genau so wird des Paters Annahme zutreffen, daß Allan Tott Anführer einer mehrköpfigen Bande dunkelster Ehrenmänner ist, die vielleicht das Smaragdtal ausbeuten und dabei ungeheure Gewinne erzielen. Bedenken Sie: Tott ist kein Neuling in derlei Dingen, Tott hatte in London eine Gesellschaft gegründet, die nicht nur meinen Vater …«
 
 Sie verstummte jäh, warf den Kopf ärgerlich zurück und fügte hinzu: »Ich schwatze zu viel … Wir reden, reden, und wir sollten handeln. Des Paters Ausbleiben beunruhigt mich genau so sehr wie Sie. Schauen Sie bitte einmal nach, ob meine Kleider trocken sind. In dieser warmen Nacht müßte es längst der Fall sein. Und dann reichen Sie mir einen Schluck Whisky, damit ich mich etwas aufpulvere, und entfernen sich nachher. Ich muß mit dem nassen Haar wie eine Vogelscheuche aussehen. Eitel bin ich wahrlich nicht, Abelsen, aber ein Mensch, der auf sein Äußeres nichts mehr gibt, hat sich selbst bereits zur Hälfte aufgegeben. Mir sind verliederte Gestalten ein Greuel. Jeder hat die Möglichkeit, seine äußere Erscheinung je nach den Umständen zu pflegen. Wer als Waldmensch umherläuft, ohne dazu gezwungen zu sein, zählt lediglich zu jener Boheme, die den schmierigen Kragen, den Haarwald oder die Bartstoppeln als Zeichen von geistiger Bedeutsamkeit bewertet. — Nicht wahr, das sind etwas abwegige Äußerungen in unserer Lage?! Oder nicht?«
 
@@ -1839,7 +1839,7 @@ Wie als höhnische Antwort ertönte da von der Höhe der Steilwand ein wildes Ge
 
 Und diesmal wurde es ernst. Was da an Felsbrocken herabsauste, waren nicht mehr Zentnersteine, die von dem gewölbten Abhang über uns abprallten und wie Granaten in den See sausten. Das waren Felsklötze, die nur die Kraft eines Dutzend von Männern in die Tiefe gerollt haben konnten. Ein fast unheimliches Getöse erfüllte die Luft, die Felswände erzitterten unter dem Anprall der Geschosse, der See schäumte unter dem Hagel der Steinsplitter, der donnernde Stoß der Riesensteine weckte in den Bergen schallende, tobende Echos, und nicht genug damit: Tott hatte jetzt seinen Fehler erkannt, hatte Leute an das andere Ufer rund um den See geschickt, wieder andere bis zur Mündung des trockenen Kanals. Kugeln klatschten von allen Seiten gegen unser Steinhaus, und wenn einmal eine Ruhepause eintrat und einer von uns draußen Umschau hielt, lebte dieser Generalangriff sofort wieder auf.
 
-Wir blieben nicht müßig. Wir hatten nur zwei Büchsen, und wir schonten die Munition. Wir hatten nur sechs Pistolen, — die Waffen der Galibi-Kariben rechneten nicht. Trotzdem verjagten wir die Kerle von der Kanalmündung, und als erst der Morgen graute, bekamen auch die Schützen drüben so manche bittere Pille ans meiner Snidersbüchse. Heliantes Winchestergewehr war zu leicht und für größere Entfernung nicht zu benützen.
+Wir blieben nicht müßig. Wir hatten nur zwei Büchsen, und wir schonten die Munition. Wir hatten nur sechs Pistolen, — die Waffen der Galibi-Kariben rechneten nicht. Trotzdem verjagten wir die Kerle von der Kanalmündung, und als erst der Morgen graute, bekamen auch die Schützen drüben so manche bittere Pille aus meiner Snidersbüchse. Heliantes Winchestergewehr war zu leicht und für größere Entfernung nicht zu benützen.
 
 Immerhin blieb unsere Lage kritisch.
 
@@ -1869,7 +1869,7 @@ Turf reichte ihm die Hand. »Pater Menardus«, sagte er derb-herzlich, »wenn Go
 
 Der kriegerische Mönch neigte noch demütiger den Kopf. Seine Lippen murmelten ein Gebet, und diese seine innere Zerknirschung war echt und wahrhaftig und ohne Übertreibung wie der ganze Mensch.
 
-Auch unsere Hände fanden sich dann, die grellen Strahlen der Frühsonne warfen weiße Streifen in den kleinen Felsenunterstand, und einer dieser neugierigen Strahlen ließ das kleine Kreuz am Rosenkranze des Paters golden aufleuchten. Die kühlen Perlen berührten meine Haut, und ich empfand zum ersten Male seit langer Zeit wieder die heiligen Schauer jenes märchenhaften Glaubens meiner Kindertage, in denen Orgelspiel und Gesang und flackernde Kirchenkerzen für mich stets etwas unnennbar Schönes, Ergreifendes gewesen waren. Das grausame Leben hatte in mir vieles zerstört, vieles gewandelt, aber meine Liebe zur unberührten Natur und ihren Geschöpfen war doch, das fühlte ich jetzt, als ein starkes Überbleibsel ans jenen Jugendjahren zu bewerten. Der Händedruck des Paters und sein sanftes Flüstern, aus dem es mir wie ein Segen entgegenwehte, leitete diesen Tag mit froher Zuversicht ein.
+Auch unsere Hände fanden sich dann, die grellen Strahlen der Frühsonne warfen weiße Streifen in den kleinen Felsenunterstand, und einer dieser neugierigen Strahlen ließ das kleine Kreuz am Rosenkranze des Paters golden aufleuchten. Die kühlen Perlen berührten meine Haut, und ich empfand zum ersten Male seit langer Zeit wieder die heiligen Schauer jenes märchenhaften Glaubens meiner Kindertage, in denen Orgelspiel und Gesang und flackernde Kirchenkerzen für mich stets etwas unnennbar Schönes, Ergreifendes gewesen waren. Das grausame Leben hatte in mir vieles zerstört, vieles gewandelt, aber meine Liebe zur unberührten Natur und ihren Geschöpfen war doch, das fühlte ich jetzt, als ein starkes Überbleibsel aus jenen Jugendjahren zu bewerten. Der Händedruck des Paters und sein sanftes Flüstern, aus dem es mir wie ein Segen entgegenwehte, leitete diesen Tag mit froher Zuversicht ein.
 
 
  
@@ -1964,7 +1964,7 @@ Die Schüsse verstummten, totenstill lagen der See und die steilen Berge, nur di
 
 Die Gefahr eines Angriffs war beseitigt.
 
-Ich tauchte den Kopf mehrmals ins Wasser, befühlte auch meine Stirn, und dabei geriet mir ein glattes Etwas in die Finger. das sich im Schilf verfangen hatte. Es war der Oberarmknochen eines Skeletts.
+Ich tauchte den Kopf mehrmals ins Wasser, befühlte auch meine Stirn, und dabei geriet mir ein glattes Etwas in die Finger, das sich im Schilf verfangen hatte. Es war der Oberarmknochen eines Skeletts.
 
 Starr betrachtete ich den gelbweißen Knochen, der noch die Messinghaken besaß, mit denen das Skelett einst anatomisch richtig zusammengefügt worden war.
 
@@ -2017,138 +2017,136 @@ Die Berge schweigen, der See schweigt, aber das Blatt Pergamentpapier redet zu m
 
 <h3>Sinclair Hoults Niederschrift.</h3>
 
-> »… Allan Tott ist der einzige von uns, der noch immer hofft.
+»… Allan Tott ist der einzige von uns, der noch immer hofft.
 
-> In diesem Menschen steckt der zähe Wille eines indianischen Lasso, das mit seinen sechs verflochtenen Schnüren sich dehnt, aber nicht reißt.
+In diesem Menschen steckt der zähe Wille eines indianischen Lasso, das mit seinen sechs verflochtenen Schnüren sich dehnt, aber nicht reißt.
 
-> Wir anderen sind des Urwaldes müde.
+Wir anderen sind des Urwaldes müde.
 
-> Wir haben gekämpft gegen die Wildnis und haben unsere Kräfte verzehrt. Wir wollen nicht mehr.
+Wir haben gekämpft gegen die Wildnis und haben unsere Kräfte verzehrt. Wir wollen nicht mehr.
 
-> Wir wollen nicht mehr.
+Wir wollen nicht mehr.
 
-> Tott war ohne jede Verzagtheit, er trieb uns empor, und wir haben von neuem gesucht.
+Tott war ohne jede Verzagtheit, er trieb uns empor, und wir haben von neuem gesucht.
 
-> Wir sind über Berge geklettert, die unsere Stiefel zerfetzten und an deren schroffen, harten Zacken die Haut unserer Handflächen und Beine klebt.
+Wir sind über Berge geklettert, die unsere Stiefel zerfetzten und an deren schroffen, harten Zacken die Haut unserer Handflächen und Beine klebt.
 
-> So fand ich den Wasserfall.
+So fand ich den Wasserfall.
 
-> Ich allein.
+Ich allein.
 
-> Rief die anderen herbei, und Tott und ich kletterten in den Schlund hinab, den der Katarakt des unterirdischen Flusses halb ausfüllt.
+Rief die anderen herbei, und Tott und ich kletterten in den Schlund hinab, den der Katarakt des unterirdischen Flusses halb ausfüllt.
 
-> Tott war vom Teufel besessen.
+Tott war vom Teufel besessen.
 
-> Er zeigte mir in den Steinwänden des Kanals uralte, halb verwischte Gravierungen: Richtungspfeile, Zahlen, vieles andere.
+Er zeigte mir in den Steinwänden des Kanals uralte, halb verwischte Gravierungen: Richtungspfeile, Zahlen, vieles andere.
 
-> Genug: Wir erreichten den See, wir stiegen an der Ostseite eine Terrasse hinan und lagerten in einem Haufen von Felsen, der einer Ruine eines Palastes glich.
+Genug: Wir erreichten den See, wir stiegen an der Ostseite eine Terrasse hinan und lagerten in einem Haufen von Felsen, der einer Ruine eines Palastes glich.
 
-> Tott schwor: Dies sei das Tal des Tutul Xiu.
+Tott schwor: Dies sei das Tal des Tutul Xiu.
 
-> Wir anderen schliefen zwölf Stunden.
+Wir anderen schliefen zwölf Stunden.
 
-> Er wachte.
+Er wachte.
 
-> Der Teufel war in ihm.
+Der Teufel war in ihm.
 
-> Als wir uns gestärkt erhoben, hatte er bereits den anderen Kanalarm durchforscht und erzählte von einem grünen Garten Eden, der jenseits der schmalen, aber himmelhohen Steinwand läge.
+Als wir uns gestärkt erhoben, hatte er bereits den anderen Kanalarm durchforscht und erzählte von einem grünen Garten Eden, der jenseits der schmalen, aber himmelhohen Steinwand läge.
 
-> Meine Füße brannten wie Feuer. Ich kühlte sie im See und weigerte mich, Tott und die drei Gefährten zu begleiten.
+Meine Füße brannten wie Feuer. Ich kühlte sie im See und weigerte mich, Tott und die drei Gefährten zu begleiten.
 
-> Sie gingen davon, tauchten im trockenen Kanal unter und entschwanden.
+Sie gingen davon, tauchten im trockenen Kanal unter und entschwanden.
 
-> Vorher hatte Tott mich beiseite genommen.
+Vorher hatte Tott mich beiseite genommen.
 
-> »Hoult«, sagte er herzlich, »Hoult, alter Bursche, hören Sie sorgfältig zu. Ihre Uhr zeigt genau neun Uhr morgens. Genau um elf gehen Sie in die Felsen hinein, in unser Felshaus, und scharren in der linken Ecke den Steinschutt weg. Sie werden darunter eine Steinplatte finden, die ich ein wenig gelüftet habe. Sie bedeckt einen Schacht, in dem Schacht sind zwei lange Holzhebel zu sehen, die jetzt nach Süden zu in der Führung liegen. Drücken Sie sie nach vorn, nach Norden, und Sie werden ein Wunder miterleben, das seit König Tutuls Zeiten kein Menschenauge schaute.«
+»Hoult«, sagte er herzlich, »Hoult, alter Bursche, hören Sie sorgfältig zu. Ihre Uhr zeigt genau neun Uhr morgens. Genau um elf gehen Sie in die Felsen hinein, in unser Felshaus, und scharren in der linken Ecke den Steinschutt weg. Sie werden darunter eine Steinplatte finden, die ich ein wenig gelüftet habe. Sie bedeckt einen Schacht, in dem Schacht sind zwei lange Holzhebel zu sehen, die jetzt nach Süden zu in der Führung liegen. Drücken Sie sie nach vorn, nach Norden, und Sie werden ein Wunder miterleben, das seit König Tutuls Zeiten kein Menschenauge schaute.«
 
-> Ich saß am Ufer, die Füße im Wasser, neben mir die zerfetzten Stiefel und meine Waffen, und ich blickte zuweilen auf meine Uhr und dann wieder über den stillen See, auf dessen Fläche die Sonne Silberstreifen malte.
+Ich saß am Ufer, die Füße im Wasser, neben mir die zerfetzten Stiefel und meine Waffen, und ich blickte zuweilen auf meine Uhr und dann wieder über den stillen See, auf dessen Fläche die Sonne Silberstreifen malte.
 
-> Ich dachte über Totts Worte nach, und ich begriff sie nicht.
+Ich dachte über Totts Worte nach, und ich begriff sie nicht.
 
-> Trotzdem wollte ich seinen Weisungen folgen. Es lag kein Grund vor, sie nicht zu befolgen, und Totts Klugheit, sagte ich mir, und seine unglaubliche Zähigkeit hatten uns immerhin hier an diesen See gebracht.
+Trotzdem wollte ich seinen Weisungen folgen. Es lag kein Grund vor, sie nicht zu befolgen, und Totts Klugheit, sagte ich mir, und seine unglaubliche Zähigkeit hatten uns immerhin hier an diesen See gebracht.
 
-> Ob es das Tal der Sträflinge sei, — *ich* zweifelte daran.
+Ob es das Tal der Sträflinge sei, — *ich* zweifelte daran.
 
-> Eine Wolke segelte über den glasklaren blauen Himmel, und die Sonne wurde für Minuten verdeckt, — ein Vorgang, der so alltäglich ist, daß ich ihm keinerlei Bedeutung beimaß. Wie sollte ich auch? Ich war zermürbt durch den wochenlangen Kampf mit der Wildnis, meine Füße waren so zerschunden, daß das rohe Fleisch hervorschaute, mein Hirn war leer und mein Denken träufelte schwerfällig wie verdicktes Blut.
+Eine Wolke segelte über den glasklaren blauen Himmel, und die Sonne wurde für Minuten verdeckt, — ein Vorgang, der so alltäglich ist, daß ich ihm keinerlei Bedeutung beimaß. Wie sollte ich auch? Ich war zermürbt durch den wochenlangen Kampf mit der Wildnis, meine Füße waren so zerschunden, daß das rohe Fleisch hervorschaute, mein Hirn war leer und mein Denken träufelte schwerfällig wie verdicktes Blut.
 
-> Und dann sah ich, was ich zunächst für Spuk, für Ausgeburt der Phantasie hielt: Der Schatten, der über dem See lag, dazu die immer noch grelle Beleuchtung der Vormittagsstunde gaben mir Einblick in die klaren Tiefen des Bergsees, und auf dessen Grunde gewahrte ich Steinhäuser, Ruinen, Straßen, Plätze, Tempel und Hallen.
+Und dann sah ich, was ich zunächst für Spuk, für Ausgeburt der Phantasie hielt: Der Schatten, der über dem See lag, dazu die immer noch grelle Beleuchtung der Vormittagsstunde gaben mir Einblick in die klaren Tiefen des Bergsees, und auf dessen Grunde gewahrte ich Steinhäuser, Ruinen, Straßen, Plätze, Tempel und Hallen.
 
-> Ich war anfänglich derart verblüfft und benommen, daß ich mehrfach die Augen schloß, um das Trugbild zu verscheuchen.
+Ich war anfänglich derart verblüfft und benommen, daß ich mehrfach die Augen schloß, um das Trugbild zu verscheuchen.
 
-> Es war kein Trugbild, es war Wirklichkeit, die ich schauen durfte, und als ich dies erst voll begriffen hatte, kam ein Schrei aus meiner Kehle, der die Gefährten herbeirufen sollte. Ich wollte Tott danken, weil er so beharrlich uns immer wieder aufgerüttelt hatte. Nur ihm verdankten wir es, wenn jetzt unsere Namen eingereiht würden in die Liste der großen Forscher. Wir hatten ja das entdeckt, was vor uns so und so viele Expeditionen gesucht hatten: Tutul Xius sagenhafte Sträflingsstadt!!
+Es war kein Trugbild, es war Wirklichkeit, die ich schauen durfte, und als ich dies erst voll begriffen hatte, kam ein Schrei aus meiner Kehle, der die Gefährten herbeirufen sollte. Ich wollte Tott danken, weil er so beharrlich uns immer wieder aufgerüttelt hatte. Nur ihm verdankten wir es, wenn jetzt unsere Namen eingereiht würden in die Liste der großen Forscher. Wir hatten ja das entdeckt, was vor uns so und so viele Expeditionen gesucht hatten: Tutul Xius sagenhafte Sträflingsstadt!!
 
-> Nicht schnöde Gewinnsucht hatten mich und meine Begleiter nach Yucatan geführt. Ich bin reich, so reich, daß ich verborgenen Schätzen nicht nachzujagen brauche. Wir waren als Forscher in dieses Land gekommen, und wir hatten gesiegt!
+Nicht schnöde Gewinnsucht hatten mich und meine Begleiter nach Yucatan geführt. Ich bin reich, so reich, daß ich verborgenen Schätzen nicht nachzujagen brauche. Wir waren als Forscher in dieses Land gekommen, und wir hatten gesiegt!
 
-> Schmerzen, Ratlosigkeit — alles war vergessen. Ich fühlte den Rausch des Sieges, und ich schritt in das Felsenhaus, legte Pflaster auf meine wunden Füße, besserte die Stiefel notdürftig aus, streifte sie über die frischen Strümpfe und Bandagen und blickte auf die Uhr … Sie zeigte wenige Minuten vor elf.
+Schmerzen, Ratlosigkeit — alles war vergessen. Ich fühlte den Rausch des Sieges, und ich schritt in das Felsenhaus, legte Pflaster auf meine wunden Füße, besserte die Stiefel notdürftig aus, streifte sie über die frischen Strümpfe und Bandagen und blickte auf die Uhr … Sie zeigte wenige Minuten vor elf.
 
-> Ich beeilte mich, ich fand die Steinplatte im Boden, lüftete sie vollends und sah die beiden langen Hebel mit ihren Handgriffen.
+Ich beeilte mich, ich fand die Steinplatte im Boden, lüftete sie vollends und sah die beiden langen Hebel mit ihren Handgriffen.
 
-> Meine Uhr zeigte die elfte Stunde.
+Meine Uhr zeigte die elfte Stunde.
 
-> Das neu erwachte Kraftgefühl in mir steigerte sich zu einer übermenschlichen Ausdauer, Zähigkeit und verbissenen Energie, wie Freund Tott sie besaß. Die Hebel rührten sich nicht, ließen sich nicht bewegen. Aber in mir flutete jetzt Totts Tatkraft, und keuchend und japsend vor unerhörter Anstrengung drückte ich sie doch endlich in die andere Lage, sank dann erschöpft am Rande des Schachtes zusammen, und das Blut in meinen Ohren brauste wie das Tosen eines Wasserfalls, wuchs an zu wildestem Donnern, Zischen, Heulen und Pfeifen, — — und voller Entsetzen merkte ich jäh, daß es nicht mein Blut war, das die Nerven der Gehörgänge malträtierte, sondern daß die Geräusche aus dem Schachte kamen — von unten her, aus unbekannten Tiefen des Gesteins, daß ich also leichtfertig irgendwo ein Schleusenwerk geöffnet hatte, das vielleicht die Wasser des Sees gen Westen entleerte — in das grüne Tal, wo meine Gefährten weilten.
+Das neu erwachte Kraftgefühl in mir steigerte sich zu einer übermenschlichen Ausdauer, Zähigkeit und verbissenen Energie, wie Freund Tott sie besaß. Die Hebel rührten sich nicht, ließen sich nicht bewegen. Aber in mir flutete jetzt Totts Tatkraft, und keuchend und japsend vor unerhörter Anstrengung drückte ich sie doch endlich in die andere Lage, sank dann erschöpft am Rande des Schachtes zusammen, und das Blut in meinen Ohren brauste wie das Tosen eines Wasserfalls, wuchs an zu wildestem Donnern, Zischen, Heulen und Pfeifen, — — und voller Entsetzen merkte ich jäh, daß es nicht mein Blut war, das die Nerven der Gehörgänge malträtierte, sondern daß die Geräusche aus dem Schachte kamen — von unten her, aus unbekannten Tiefen des Gesteins, daß ich also leichtfertig irgendwo ein Schleusenwerk geöffnet hatte, das vielleicht die Wasser des Sees gen Westen entleerte — in das grüne Tal, wo meine Gefährten weilten.
 
-> Grauen und Angst packten mich.
+Grauen und Angst packten mich.
 
-> Tott konnte nicht geahnt haben, was die Hebel bedeuteten, sonst würde er mir niemals diesen halben Befehl erteilt haben. Ich mußte die Wasserfluten wieder abstoppen — auf eigene Verantwortung, und ich riß die Hebel zurück, fast wahnsinnig vor Angst, die Freunde drüben ertränkt zu haben.
+Tott konnte nicht geahnt haben, was die Hebel bedeuteten, sonst würde er mir niemals diesen halben Befehl erteilt haben. Ich mußte die Wasserfluten wieder abstoppen — auf eigene Verantwortung, und ich riß die Hebel zurück, fast wahnsinnig vor Angst, die Freunde drüben ertränkt zu haben.
 
-> Es gelang mir … Das Donnern und Fauchen und Zischen verstummte, — ich rannte ins Freie, zum See hinab, und ich sah, daß der Seespiegel gut um ein Meter gesunken war.
+Es gelang mir … Das Donnern und Fauchen und Zischen verstummte, — ich rannte ins Freie, zum See hinab, und ich sah, daß der Seespiegel gut um ein Meter gesunken war.
 
-> Ich brach am Ufer zusammen, der kalte Schweiß drang mir aus allen Poren, Übelkeit fühlte ich, meine Nerven versagten, ich wurde ohnmächtig.
+Ich brach am Ufer zusammen, der kalte Schweiß drang mir aus allen Poren, Übelkeit fühlte ich, meine Nerven versagten, ich wurde ohnmächtig.
 
-> Tott rüttelte mich wach, Tott brüllte mich an wie ein Verrückter:
+Tott rüttelte mich wach, Tott brüllte mich an wie ein Verrückter:
 
-> »Sie verdammter Schuft Sie, — Sie haben Alkins, Howland und Braßwell ersäuft wie junge Katzen!!«
+»Sie verdammter Schuft Sie, — Sie haben Alkins, Howland und Braßwell ersäuft wie junge Katzen!!«
 
-> Er war sinnlos vor Wut.
+Er war sinnlos vor Wut.
 
-> So schien es mir damals.
+So schien es mir damals.
 
-> Heute weiß ich, daß dieser Elende ein grausamer, bösartiger Komödiant ist.
+Heute weiß ich, daß dieser Elende ein grausamer, bösartiger Komödiant ist.
 
-> Heute, — wo es zu spät ist! —
+Heute, — wo es zu spät ist! —
 
-> Und wieder schrie er mich an: »Sagte ich Ihnen nicht, Sie sollten erst um elf die Hebel bewegen!! Um elf, Sie Schuft!! Und — es ist erst dreiviertel elf, — da, sehen Sie meine Uhr: Drei viertel elf!! Sie ehrgeiziger Narr wollten auch mich beseitigen, um dann ganz allein den großen Entdecker spielen zu können! Raus mit ihrer Uhr — — raus damit! — — Um elf, — — und — — ah, Ihre Uhr geht ja eine volle Stunde vor, Sie haben sie gestellt, Sie Halunke — — für alle Fälle, — Ihre Uhr zeigt dreiviertel zwölf!!« —
+Und wieder schrie er mich an: »Sagte ich Ihnen nicht, Sie sollten erst um elf die Hebel bewegen!! Um elf, Sie Schuft!! Und — es ist erst dreiviertel elf, — da, sehen Sie meine Uhr: Drei viertel elf!! Sie ehrgeiziger Narr wollten auch mich beseitigen, um dann ganz allein den großen Entdecker spielen zu können! Raus mit ihrer Uhr — — raus damit! — — Um elf, — — und — — ah, Ihre Uhr geht ja eine volle Stunde vor, Sie haben sie gestellt, Sie Halunke — — für alle Fälle, — Ihre Uhr zeigt dreiviertel zwölf!!« —
 
-> Ich war ein vernichteter Mann. Tott hatte mich vollkommen in der Hand, ich mußte damals sofort ein sogenanntes Schuldbekenntnis niederschreiben, das er an sich nahm. —
+Ich war ein vernichteter Mann. Tott hatte mich vollkommen in der Hand, ich mußte damals sofort ein sogenanntes Schuldbekenntnis niederschreiben, das er an sich nahm. —
 
-> In meiner Verwirrung, Angst und Verblendung versprach ich ihm ungeheure Summen, falls er schwiege. In meiner Verblendung merkte ich nicht, daß jedes seiner Worte teuflische Berechnung war.
+In meiner Verwirrung, Angst und Verblendung versprach ich ihm ungeheure Summen, falls er schwiege. In meiner Verblendung merkte ich nicht, daß jedes seiner Worte teuflische Berechnung war.
 
-> Er änderte sein Benehmen, er spielte den teilnehmenden Freund, er führte mich zwei Tage später in das grüne Tal, zeigte mir dort den Schleusenkanal in der Bergwand, zeigte mir die Leichen der drei Gefährten, die das Wasser in dem Schleusentunnel überrascht hatte. Das grüne Tal war überschwemmt gewesen, wir erkannten noch überall die Spuren des Wassers, das sich inzwischen wieder verlaufen hatte.
+Er änderte sein Benehmen, er spielte den teilnehmenden Freund, er führte mich zwei Tage später in das grüne Tal, zeigte mir dort den Schleusenkanal in der Bergwand, zeigte mir die Leichen der drei Gefährten, die das Wasser in dem Schleusentunnel überrascht hatte. Das grüne Tal war überschwemmt gewesen, wir erkannten noch überall die Spuren des Wassers, das sich inzwischen wieder verlaufen hatte.
 
-> Howlands Leiche war von großen Termiten fast kahl gefressen.
+Howlands Leiche war von großen Termiten fast kahl gefressen.
 
-> Und als wir nach abermals fünf Tagen den grauenvollen Ort verließen, nahm Tott gegen meinen Willen Howlands Skelett mit sich und ließ es nachher von einem Fachmann sauber zusammensetzen und schenkte es mir.
+Und als wir nach abermals fünf Tagen den grauenvollen Ort verließen, nahm Tott gegen meinen Willen Howlands Skelett mit sich und ließ es nachher von einem Fachmann sauber zusammensetzen und schenkte es mir.
 
-> Schenkte?! — Nein, er zwang mich, es zu behalten. »Damit Sie nie vergessen, daß Sie ein Mörder sind, Hoult!«, sagte er höhnend und ließ so die Maske fallen und zeigte mir jetzt sein wahres Gesicht. — —
+Schenkte?! — Nein, er zwang mich, es zu behalten. »Damit Sie nie vergessen, daß Sie ein Mörder sind, Hoult!«, sagte er höhnend und ließ so die Maske fallen und zeigte mir jetzt sein wahres Gesicht. — —
 
-> Jahre sind vergangen. Allan Tott bleibt mein Quälgeist. Jetzt wünscht er, daß ich ihm mein einziges Kind zum Weibe gebe.
+Jahre sind vergangen. Allan Tott bleibt mein Quälgeist. Jetzt wünscht er, daß ich ihm mein einziges Kind zum Weibe gebe.
 
-> Ich bin ein kläglicher Feigling, ich fürchte den öffentlichen Skandal, Tott besitzt mein schriftliches Schuldbekenntnis, und niemand würde mir glauben, daß Tott mich damals hinterlistig in eine Schuld verstrickt hat, die vor Gott und den Menschen nur ihm zuzurechnen ist. Er betrog mich, er hatte *seine* Uhr zurückgestellt, — er hatte die drei in den Schleusenkanal geschickt, er wußte, daß sie ertrinken würden, er wollte lediglich mein unbeschränkter Herr werden — — und wurde es auch. —
+Ich bin ein kläglicher Feigling, ich fürchte den öffentlichen Skandal, Tott besitzt mein schriftliches Schuldbekenntnis, und niemand würde mir glauben, daß Tott mich damals hinterlistig in eine Schuld verstrickt hat, die vor Gott und den Menschen nur ihm zuzurechnen ist. Er betrog mich, er hatte *seine* Uhr zurückgestellt, — er hatte die drei in den Schleusenkanal geschickt, er wußte, daß sie ertrinken würden, er wollte lediglich mein unbeschränkter Herr werden — — und wurde es auch. —
 
-> Rache, Vergeltung!! Meine Seele schreit danach!!
+Rache, Vergeltung!! Meine Seele schreit danach!!
 
-> Und ich … Feigling begnüge mich damit, dieses Papier in Howlands linkem Oberarmknochen zu verbergen.
+Und ich … Feigling begnüge mich damit, dieses Papier in Howlands linkem Oberarmknochen zu verbergen.
 
-> Ich bin des Lebens müde … Ich verachte mich selbst. Heute hat Heliante Allan Tott geheiratet.
+Ich bin des Lebens müde … Ich verachte mich selbst. Heute hat Heliante Allan Tott geheiratet.
 
-> Aber eine kleine Rache habe ich doch ersonnen: An diesem Tage wird Tott meinen Brief erhalten — — spät abends, und in dem Brief kündige ich ihm an, daß der Nachbar Doktor Tod ihn an den Galgen bringen wird … falls …
+Aber eine kleine Rache habe ich doch ersonnen: An diesem Tage wird Tott meinen Brief erhalten — — spät abends, und in dem Brief kündige ich ihm an, daß der Nachbar Doktor Tod ihn an den Galgen bringen wird … falls …
 
-> Ja, falls er je wagen sollte, das Skelett zu vernichten! —
+Ja, falls er je wagen sollte, das Skelett zu vernichten! —
 
-> Ich weiß, wie gerade so unbestimmte Drohungen auf Verbrecherseelen wirken. Tott wird glauben, meine Anwälte seien irgendwie von mir instruiert, gegen ihn vorzugehen, wenn er sich des Nachbar Dr. Tod entledigte.
+Ich weiß, wie gerade so unbestimmte Drohungen auf Verbrecherseelen wirken. Tott wird glauben, meine Anwälte seien irgendwie von mir instruiert, gegen ihn vorzugehen, wenn er sich des Nachbar Dr. Tod entledigte.
 
-> Er wird es nicht wagen.
+Er wird es nicht wagen.
 
-> Und so wird Howlands Gerippe sein Leben fernerhin mit unbekanntem Schrecken erfüllen, und er wird ruhelos werden wie ein Mörder.
+Und so wird Howlands Gerippe sein Leben fernerhin mit unbekanntem Schrecken erfüllen, und er wird ruhelos werden wie ein Mörder.
 
-> *Er* ist ein Mörder.
+*Er* ist ein Mörder.
 
-> Nicht ich.
+Nicht ich.
 
 <p class="centered">Sinclair Hoult.«</p>
 
-
- 
 
 <h2>12. Kapitel.</h2>
 
