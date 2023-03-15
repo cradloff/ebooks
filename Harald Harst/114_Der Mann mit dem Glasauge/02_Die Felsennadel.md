@@ -91,7 +91,8 @@ nachgereist.
 
 > Höre — staune: Ich reise heute am 17. Mai nach
 Südarabien — nach Aden, der alten, lieben Hafenstadt.
-Warum ich’s tue: weil ich dort in Arabien dem
+
+> Warum ich’s tue: weil ich dort in Arabien dem
 Geheimnis des Glasauges auf die Spur zu kommen hoffe.
 
 > Ich will jedoch Deinen Verstand nicht durch sprunghaften
@@ -105,7 +106,7 @@ schickte.
 > Du warst kaum verschwunden, die Tür war kaum
 hinter Dir ins Schloß gefallen, als der schielende schlanke
 Jüngling, der sich so blitzartig in einen alten Herrn verwandelt
-hatte, mit einer Gewandheit, die mich mehr verblüffte
+hatte, mit einer Gewandtheit, die mich mehr verblüffte
 als mir gut war, den Spieß umdrehte — bildlich
 gesprochen.
 
@@ -337,7 +338,7 @@ nicht verhaften lassen, da er noch nicht wußte, wo sie die
 Juwelen der Herzogin von Lagranza versteckt hielten.
 
 Herzogin von Lagranza, Tochter des Eisenbahnkönigs
-Flepps —
+Flepps. —
 
 Giffort hatte mir zum Abschied kräftig die Hand gedrückt.
 Er wußte, wen ich suchte.
@@ -372,11 +373,11 @@ paßten, konnte ich ihn öffnen.
 
 Und — obenauf ein Brief — an mich adressiert:
 
-> Herrn Max Schraut,
+<p class="centered">Herrn Max Schraut,</p>
 
-> Berlin-Schmargendorf,
+<p class="right">Berlin-Schmargendorf,</p>
 
-> Blücherstraße 10.
+<p class="right">Blücherstraße 10.</p>
 
 Der Brief war versiegelt.
 
@@ -428,7 +429,7 @@ hier bei Madame Bogenny abgestiegen und werde ohne
 Koffer weiterreisen — in anderer Verkleidung.
 
 > Ich schreibe diesen Brief nachher ab und sende die
-Anschrift ins Krankenhaus — gen Berlin!
+Abschrift ins Krankenhaus — gen Berlin!
 
 > Dir gute Besserung, mein Alter! Wiedersehen in
 Aden, Hotel Kontinental, wo ich als Monsieur Hektor
@@ -455,7 +456,7 @@ Und dann … lies dies hier! Dann wirst Du einsehen,
 daß Deine Phantasie ärmlich ist, wie das Gehalt eines
 Beamten in Rentenmark!
 
-> Sehr verehrter Meister!
+<p class="centered">Sehr verehrter Meister!</p>
 
 > Um es gleich vorauszuschicken: Ihre Warnung hat
 mich noch rechtzeitig erreicht. Ich werde genau nach Ihren
@@ -528,7 +529,7 @@ bereits tagelang unter der Platte meines Siegelringes
 verborgen bei mir getragen.
 
 > Ich wohne nun hier in Berlin in dem Fremdenheim
-Arnstett in der Lützowstraße mit einen jungen Engländer
+Arnsfleth in der Lützowstraße mit einen jungen Engländer
 namens Charly Grimly zusammen, der, wie ich im
 Gespräch mit ihm erfuhr, zu Ihren Schülern in London
 zählte und für Sie von glühender Bewunderung erfüllt
@@ -552,7 +553,7 @@ wird, Sie zu fangen. Daher bin ich doppelt vorsichtig.
 
 > Ich bin wie stets Ihr treu ergebener
 
-> John Bristol.
+<p class="right">John Bristol.</p>
 
 So lautete dieses Luftpiloten seltsamer Bericht …
 
@@ -566,8 +567,8 @@ gehofft hatte.
 
 Auch vieles andere erschien nun geklärt. Bristol war
 in das Haus eingedrungen, weil er dort Simpson anzutreffen
-erwartete, und »Grimly«, der oder besser die Schielende,
-war wieder von dem Flieger veranlasst worden, dorthin zu
+erwartete, und »Grimly«, der oder besser *die* Schielende,
+war wieder von dem Flieger veranlaßt worden, dorthin zu
 kommen — mit dem Zettel in der Höhlung des künstlichen
 Augapfels, den Bristol dort sehr schlau mit Wachs befestigt
 hatte. Bristol hatte eben so spekuliert: werde ich dort im
@@ -605,7 +606,7 @@ war zum Dank … ermordet worden. —
 
 Felsennadel — heiliger Stein — Tasch el Muhammed!!
 
-Das war das neue Geheimnis?!
+Das war das neue Geheimnis!
 
 Und — was mochte es wohl damit auf sich haben?!
 
@@ -637,7 +638,7 @@ durch dieses junge Weib?!
 
 Es war inzwischen Abend geworden. Ich verließ das
 Hotel und wanderte durch die lebhaften Straßen nach dem
-bekannten Restaurant Tretikor, wo ich auf der Gartenterrasse
+bekannten Restaurant Tretitor, wo ich auf der Gartenterrasse
 Platz nahm.
 
 Ich wartete … wartete auf die angebliche Sarah
@@ -646,7 +647,7 @@ Grimly.
 Über den Baumwipfeln des tropischen, herrlichen Gartens
 verglomm in prachtvoll violetten Farben das Abendrot.
 
-Eine erstklassige Kapelle spielte Wiener Walzer.
+Eine erstklassige Kapelle spielte Wiener Walzer …
 
 Fast alle Tische waren besetzt. Touristen aller Länder
 gaben sich hier ein Rendezvous. Der Abendzug aus Kairo
@@ -687,7 +688,7 @@ Der alte Herr sagte mit einer Verbeugung mit leicht
 knarrender Stimme in fließendem Französisch:
 
 »Würden Sie gestatten, daß ich mit meinem Diener
-hier Platz nehme? Die anderen Tische sollen nämlich besetzt
+hier Platz nehme? Die anderen Tische sollen sämtlich besetzt
 sein. Ich muß mich auf Husseins Angaben schon verlassen,
 mein Herr. Ich selbst bin blind.«
 
@@ -701,7 +702,7 @@ an mich gefunden hatte. —
 
 Ich will das Folgende nur andeuten.
 
-Wir kamen natürlich ins Gespräch. — Oberst a. D.
+Wir kamen natürlich ins Gespräch. — Oberst a.&nbsp;D.
 Viktor Berlieux, so stellte sich diese verblüffende Verwandlungskünstlerin
 nachher vor.
 
@@ -787,7 +788,7 @@ war mir ja bekannt.
 
 Und — wie bekannt!! Der Leser, der als getreuer Anhänger
 der Harald-Harst-Erzählungen auch die ersten Bände
-kennt, wird sich auf die Festung des Ali Azim besinnen, auf
+kennt, wird sich auf die Festung des Ali Azzim besinnen, auf
 die Bulldoggen — auf vieles andere …
 
 So wanderte ich denn gegen elf Uhr vormittags in
@@ -826,7 +827,7 @@ Ich läutete an der Pforte der gelben Mauer.
 Hundegeheul erhob sich.
 
 Ah — auch hier also bissige Köter! Wie mich das an
-die Festung des Ali Azim erinnerte!
+die Festung des Ali Azzim erinnerte!
 
 Dann eine tiefe Stimme, die die Hunde zur Ruhe wies.
 
@@ -858,7 +859,7 @@ Hm — ob es wirklich Simpson sein konnte?!
 
 Ich zweifelte daran …
 
-Die Ansicht vom Dache bot nichts Besonderes für
+Die Aussicht vom Dache bot nichts Besonderes für
 meinen Geschmack.
 
 Dann zeigte Hussein mir das Haus. Ich hatte die
@@ -874,7 +875,7 @@ mit Eisstückchen darin — Husseins Erfrischungsgetränk
 
 Und — in dieses Glas schüttete ich blitzschnell einen Teil
 des Inhaltes meines Glasröhrchens, benutzte dazu den
-Moment, als der Diener die Stabjalosie hochzog …
+Moment, als der Diener die Stabjalousie hochzog …
 
 Und — abermals fünf Minuten darauf hatte auch des
 Herrn Obersts Glas eine Beimischung erhalten, die …
@@ -1056,7 +1057,6 @@ schaute er mich lange wortlos an. Dann flüsterte er:
 »Alkohol — —!!«
 
 Ich verstand. Er wollte recht schnell munter werden.
-
 <@pagebreak/>
 Ich fand auch nebenan eine Flasche Rum. Ein kalter,
 zuckerloser Grog übte eine so erfrischende Wirkung aus, daß
@@ -1176,7 +1176,7 @@ Und mit etwas unsicheren Schritten verließ sie das
 Zimmer, ging durch das Eßzimmer in den dritten Raum …
 Die Türen blieben offen …
 
-Wir hörten Sarah Grimly eine Schublade aufziehen,
+Wir hörten Sarah Grimly eine Schiebelade aufziehen,
 dann wurde es still.
 
 Harst flüsterte: »Es ist doch Haß — — Rache! Glaube
@@ -1236,7 +1236,7 @@ Das schwimmende Riesenhotel war vorüber.
 
 Harst schraubte sein Glas zusammen. »Simpson ist
 unterwegs nach Aden. Von dort wird er nach dem Dschebel
-Makarid aufbrechen — und wir auch! Was hälst Du von
+Makarid aufbrechen — und wir auch! Was hältst Du von
 dem heiligen Stein Tasch el Muhammed, mein Alter?«
 
 Bisher hatten wir dieses Thema nur flüchtig erörtert.
@@ -1285,7 +1285,7 @@ dortigen Bekannten, dem Polizeiinspektor Greeg, überlassen.
 Greeg hatte uns noch am Abend vor Simpsons Aufbruch
 gemeldet, daß der Professor durch einen fragwürdigen
 Händler sich nicht weniger als zwölf große Dynamitpatronen,
-eine elektrische Zinkbatterie und die dazugehörige Drahtleitung
+eine elektrische Zündbatterie und die dazugehörige Drahtleitung
 von etwa vierhundert Meter Länge besorgt hatte.
 
 Diese seine Einkäufe gaben sehr zu denken. Harald
@@ -1340,7 +1340,7 @@ eine scharfe, tiefe Stimme …
 Auf dem Felsen aber lag der Lauf einer Büchse — die
 Mündung nach uns hin …
 
-Und die Stimme — Simpsons Stimme … Drohend,
+Und die Stimme — Simpsons Stimme … drohend,
 triumphierend, höhnend:
 
 »Halt — absteigen, meine Herren! Halt!!«
@@ -1391,9 +1391,9 @@ eines Mannes, der kein Erbarmen kennt …
 Und als wir nun dort an den Palmen wehrlos aufrecht
 standen, die Gesichter nach Süden gekehrt, trat er vor uns hin.
 
-»Glaubten Sie etwa, daß ich kein Einglas mithätte?!«
+»Glaubten Sie etwa, daß ich kein Fernglas mithätte?!«
 höhnte er. »Seit gestern wußte ich, wie die Dinge lagen!
-Und jetzt — jetzt wird dieser Kampf Harst-Simpson ein
+Und jetzt — jetzt wird dieser Kampf Harst—Simpson ein
 Ende haben!«
 
 Er lachte schrill, zog seinen Revolver …
@@ -1507,4 +1507,4 @@ Weshalb, — das bringt der folgende Band …
 
 Nächster Band:
 
-__Der Kopf des Maharadschas.__
+__Der Kopf des Maharadscha.__

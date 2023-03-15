@@ -35,7 +35,7 @@ N.: »Ich kenne nur einen Wilson, und zwar den Expräsidenten
 der Vereinigten Staaten von Nordamerika, dem
 Namen nach, den Herrn mit den … vierzehn Punkten …«
 
-B.: »Lassen Sie mich gefälligst ausreden, Mr. Neumann,
+B.: »Lassen Sie mich gefälligst ausreden, Mr. Neumann.
 — Wilson und ein anderer dunkler … Ehrenmann
 sprachen über die tadellosen Falsifikate und über die Büchersendung,
 die Sie aus Berlin erwarteten. Es ging aus ihrer
@@ -44,7 +44,7 @@ sich eine befände, die durch eine römische Drei gekennzeichnet
 war. Diese Kiste enthielt die falschen Scheine. — Na —
 was sagen Sie nun dazu?«
 
-N. (etwas erregt): »Ich sage: Ich bin kein Verbrecher!
+N. (etwas erregt): »Ich sage: ich bin kein Verbrecher!
 Ich weiß nur, daß ich leider, leider mich verleiten ließ, insofern
 die Gesetze zu übertreten, als ich die sieben Kisten
 nicht verzollen wollte und durch Bestechung auch erreichte,
@@ -71,7 +71,7 @@ B.: »… Sistawa hat die Kiste über Bord geworfen.
 Und *Sie* wollten sie später wieder herausholen …!«
 
 <@pagebreak/>
-N. »Sie gestatten, Graf daß ich Sie auslache. Mein
+N. »Sie gestatten, Graf, daß ich Sie auslache. Mein
 reines Gewissen wird am besten dadurch bewiesen, daß ich
 dem deutschen Detektiv Harald Harst erst einen Brief und
 dann eine Depesche schickte, weil ich diese beiden braunen
@@ -93,7 +93,7 @@ seien und weil ich von ihnen Verrat argwöhnte.
 er Ihnen bezeugen, daß ich ihn um Hilfe gebeten habe.
 Wäre ich ein Verbündeter der großen Fälscherbande, so
 würde ich wohl kaum einen Mann wie Harst mir wie eine
-Laus in den Pelz gesetzt haben! Das sage ich: Laus!!
+Laus in den Pelz gesetzt haben! Was sage ich: Laus!!
 Unsinn, Unsinn: Harst ist wie ein Vampyr, der tödliche
 Wunden denen schlägt, die seine Gegner sind!«
 
@@ -203,7 +203,7 @@ der Zettel, der Streifen Pergament mit der Aufschrift:
 
 > Falkate sifi sinerwe dunt gsindreik iste,
 
-Was nach Harst heißen sollte:
+was nach Harst heißen sollte:
 
 > Falsifikate sind unterwegs in Kiste drei.
 
@@ -290,7 +290,7 @@ aber nicht mit Redensarten auf. Wozu reden Sie von
 uns der Polizei zu übergeben.«
 
 »Das hat Zeit, Barring. Das hat deswegen Zeit, weil
-ich den Tod der Europäerin aufklären möchte die ich aus
+ich den Tod der Europäerin aufklären möchte, die ich aus
 dem Bosporus herausholte. Die Tote im Sack ist nämlich
 nicht etwa ertränkt, sondern durch zwei Stiche ins Herz ermordet
 und dann erst versenkt worden. Ich habe die
@@ -416,7 +416,7 @@ Die Pistolenmündung berührte wieder die Stirn.
 »Die … die … erste Kiste,« keuchte der braune Halunke
 angstvoll.
 
-»So — also es war schon eine Sendung abgegangen?«
+»Ah — also es war schon eine Sendung abgegangen?«
 
 »Ja …«
 
@@ -443,7 +443,7 @@ können?«
 »Das dachte ich mir. Und da habt Ihr der Sicherheit
 halber, damit nicht nochmals eine Kiste Euch entging, die
 Anmeldung durch das Dolchmesser besorgen lassen, das von
-Berlin aus hierher geschickt wurde — durch einen Toten.
+Berlin aus hierher geschickt wurde — durch einen Boten.
 In dem Messer steckte der Zettel.«
 
 »Davon weiß ich nichts, Mister. Ich bin ja genau so
@@ -459,7 +459,7 @@ werde nur wenig eingeweiht.«
 »Nachdem die sechs Kisten durch Sistawa an Mr. Neumann
 abgeliefert waren.«
 
-»Habt Ihr beide geholfen die Kisten von Galata über
+»Habt Ihr beide geholfen, die Kisten von Galata über
 den Bosporus zu schaffen?«
 
 »Nein. Wir mußten Mr. Neumann stets beobachten
@@ -529,7 +529,7 @@ Gassen dem Nordostteile Stambuls zu …
 
 Es war jetzt drei Uhr morgens …
 
-Palaste, Moscheen, weite Plätze, — dann wieder düstere
+Paläste, Moscheen, weite Plätze, — dann wieder düstere
 Häuser, ärmliche Hütten, — und abermals die ganze sinnberückende
 Pracht und phantastische Großzügigkeit morgenländischer
 Riesenbauten: all das genossen wir wie halbdunkle
@@ -567,15 +567,15 @@ Harst schwang wortlos seinen Rucksack über die hohen
 spitzen Stäbe. Schwang auch den meinen hinüber.
 
 Das Überklettern des Gitters war nicht so einfach.
-Oben gab es noch eine Verlängerung durch drei Stacheldrähte,
-trotzdem schafften wir es. Harst bog die Drähte
+Oben gab es noch eine Verlängerung durch drei Stacheldrähte.
+Trotzdem schafften wir es. Harst bog die Drähte
 auseinander, und ich schob mich als erster hindurch, sprang
 in den Durchgang hinab. Harald folgte.
 
 Wir nahmen die Rucksäcke auf. Im Hofe war alles
 dunkel. Auch hier ein Springbrunnen, aber kein Müllberg.
 Der Springbrunnen plätscherte sanft. Ein paar Bäume und
-Büsche, Rosenstöcke und Blumenbeete umgaben ihn.
+Büsche, Rasenstücke und Blumenbeete umgaben ihn.
 
 Wir traten in den Hof hinaus. Drei Erdgeschoßfenster
 erleuchtet. Nein — vier … da war eins mit Milchglasscheiben.
@@ -681,7 +681,7 @@ zwischen uns. Maximilians ganzes Wesen war so recht dazu
 angetan, uns drei fühlen zu lassen, daß wir als Deutsche
 hier auf fremdem Boden Brüder seien. Selten habe ich
 dabei einen Mann von so urwüchsigem, sprudelndem Humor
-kennen gelernt wir unseren liebenswürdigen Wirt, der als
+kennen gelernt wie unseren liebenswürdigen Wirt, der als
 geborener Berliner seine Taufe mit Spreewasser trotz seines
 nunmehr zwölfjährigen Aufenthalts in der Türkei noch
 immer durch ein paar Brocken »echt Berlinsch« verriet.
@@ -792,7 +792,7 @@ Neumanns frisches Gesicht wurde ein wenig länglich,
 als Harst ihm unseren ersten Programmpunkt mitteilte.
 
 »Eine Leiche?! Aus dem Bosporus?! Hm, hm — det
-jefällt mir nicht! Wenn die Polizei …«
+jefällt mir nich! Wenn die Polizei …«
 
 »Ich trage die Verantwortung, Landsmann.«
 
@@ -953,7 +953,7 @@ meinte: »Wir schießen, sobald sich etwas Verdächtiges zeigt.
 Wilson und sein Gelichter haben’s nicht anders verdient,
 denn — sie sind die Mörder des blonden jungen Weibes.«
 
-Über uns tänzelte der Wind in den hohen Zypressen
+Über uns säuselte der Wind in den hohen Zypressen
 und breitästigen Buchen — umsäuselte die Türme des alten
 Schlosses, das noch die Zeiten des byzantinischen Kaiserreichs
 mitgemacht hatte, des christlichen Byzanz, bevor die
@@ -964,11 +964,11 @@ Spuren wilder Kämpfe ergoß.
 Maximilian Neumann holte seine Mauser hervor.
 
 »Schießen werd’ ich ooch!! Ob ich was treffe, weeß
-ick nicht! Aber knallen wird’s! Und Spektakel bringt den
+ick nich! Aber knallen wird’s! Und Spektakel bringt den
 Gegner valeicht amende noch aus die Joldfassung!« Er
 lachte in sich hinein. »Mit Ihnen beiden riskier’ ich alles!
 Selbst heiraten würd’ ich dann, und das is das Eenzigte,
-wovor ich richtig gehenden Schedder habe, wat der Berliner
+wovor ich richtiggehenden Schedder habe, wat der Berliner
 mit Angst bezeichnet.«
 
 Harald bog die Zweige beiseite.
@@ -1042,7 +1042,7 @@ entdeckte.«
 Er nahm Haralds Lampe und beleuchtete ein paar
 flache Felsplatten, die scheinbar zufällig am Fuße des
 <@pagebreak/>
-Schutthaufens lehnten. Er raffte zwei beiseite. Und da
+Schutthaufens lehnten. Er rollte zwei beiseite. Und da
 kam eine halb verschüttete Türöffnung zum Vorschein.
 
 Wir krochen hindurch und standen jetzt in einem der
@@ -1053,7 +1053,7 @@ Gelbliche Schädel grinsten uns mit blanken Zähnen an.
 
 »Vielleicht die Überreste türkischer Großwürdenträger,«
 flüsterte Maximilian. »Die Sultane ersäuften ihre Haremsweiber
-im Bosporus und ließen ihre Vezire<@refnote 4/> hier verhungern.
+im Bosporus und ließen ihre Vezire<@refnote 5/> hier verhungern.
 Es waren Gemütsmenschen.«
 
 In der anderen Ecke waren die Mauern eingestürzt.
@@ -1086,7 +1086,7 @@ zurückgelassen hat, wird er uns ohnehin alles erklären.«
 Eine Weile nichts …
 
 Dann dieselbe barsche Stimme: »Robbin, geh’ und
-telephoniere dem Bahnhof, daß man mir noch vier Beamte
+telephoniere vom Bahnhof, daß man mir noch vier Beamte
 schickt. Beeile Dich!«
 
 »Die interalliierte Polizei!« hauchte Maximilian entsetzt.
@@ -1096,7 +1096,7 @@ Harst trat rasch vor …
 
 <@pagebreak/>
 Wir waren in Barrings Keller. Wir sahen sechs Polizeibeamte,
-faden Barring, Latrome, Anni und Hitzgräfe und
+sahen Barring, Latrome, Anni und Hitzgräfe und
 die beiden braunen Halunken …
 
 Die Beamten richteten ihre Laternen auf uns.
@@ -1274,7 +1274,7 @@ nicht, daß eine sonderbare Verkettung von Umständen
 gerade mich die Leiche würde finden lassen. Im Taucheranzug
 habe ich flüchtig die Kleider der Toten betastet und —
 entdeckte darin eine aufgeweichte, aber noch lesbare Fahrkarte
-Wien-Konstantinopel … — Und jetzt haben Sie,
+Wien—Konstantinopel … — Und jetzt haben Sie,
 Fred Wilson, hier soeben erklärt, auch diese Leiche würden
 Sie wieder verschwinden lassen. Wenn die Tote Sie nichts
 anginge, würden Sie sich damit begnügen, sie hier irgendwo
@@ -1371,9 +1371,9 @@ Maximilian die Augen feucht. — —
 Und heute — heute liegt ein Brief Maximilians vor
 mir:
 
-> Mein lieber Schraut!
+<p class="centered">Mein lieber Schraut!</p>
 
-> Vielen herzlichen Dank für den Bürstenabzug<@refnote 5/> Ihrer
+> Vielen herzlichen Dank für den Bürstenabzug<@refnote/> Ihrer
 Erzählung »Das Geheimnis des Bosporus«. Sie können
 sich denken, wie ich mich beim Lesen gefreut habe!
 Maximilian Neumann als halber Held eines Harst-Abenteuers

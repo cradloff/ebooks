@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">83f4f617-5f5f-4841-adc3-d3a248c53e59</entry>
+<entry key="title">Pension Dr. Buckmüller</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">190</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Pension Dr. Buckmüller.
+
+Der 13. Dezember … Über den Kurfürstendamm gleiten elegante Autos dahin … Der Westen Berlins erwacht zum Nachtleben. An den Palästen der Tauentzienstraße flammen Lichtreklamen auf, verkriechen sich mit ihren Buchstabenreihen wieder in das Dunkel, blinken von neuem auf … Geputzte Menschen schlendern trotz des feinen Sprühregens in dichten Scharen an grell beleuchteten Schaufenstern vorüber. Bettler, Hausierer schielen ängstlich nach gefürchteten Polizeistreifen. Reichtum, Armut, Laster, frühe Verderbtheit, bejahrte Raffiniertheit in allen Lüsten dieses rasch verrauschenden Daseins: der Jahrmarkt Berlin, der Jahrmarkt einer neuen Zeit, in der alles ausgelöscht ist, was einst trauliche Behaglichkeit und bescheidene Vergnügungssucht hieß.
+
+Unser Auto, das wir um drei Viertel acht an der unserer Blücherstraße nächstgelegenen Haltestelle für Kraftwagen bestiegen haben, fährt über den regenfeuchten, wie Stahl schillernden Asphalt dahin und hält an der Ecke der Hardenbergstraße. Harst stößt die Tür auf, und ein Zeitungshändler mit verwittertem Gesicht und trüben, matten Augen nimmt rasch auf einem der Klappsitze Platz.
+
+Vier Tote.
+
+»Wir wollen auf Doktor Steiner warten, mein Alter. Es erscheint mir denn doch allzu unhöflich, in einem fremden Hause, in dem wir zum ersten Male weilen, ohne den Hausherrn solch ein Getränk zu proben …«
+
+Solch ein Getränk!! — Er hatte ohne merkliche Lautsteigerung diese Sätze vorgebracht, hatte dem »Getränk« jedes schmückende Beiwort versagt … Man konnte es sich ganz nach eigener Wahl hinzudenken … Etwa »wundervoll«, »kostbar« oder … »vergiftet«!! Und letzteres würde wohl zutreffen: vergiftet!
+
+Daß seine Worte, die eine Unhöflichkeit, eine Verletzung der feineren Anstandsregeln hervorhoben, weniger für mich als für einen geheimen Lauscher bestimmt waren, bedurfte weiter keiner Erörterung zwischen uns, und sei’s auch nur durch Zeichen. Es war klar, daß man uns beobachtete, daß dieser Raum bewacht wurde. Da war ja auch gleich links neben uns an der Wand ein seltener Kaschmirteppich an einer Messingstange vor einer unsichtbaren Tür befestigt. Möglich, daß die Tür ausgehoben war, daß hinter dem dicken Gewebe jemand lauerte.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (190) Pension Dr. Buckmüller.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1926</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

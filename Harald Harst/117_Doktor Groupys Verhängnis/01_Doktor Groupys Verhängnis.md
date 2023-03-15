@@ -92,7 +92,7 @@ Groupy stand vor uns …
 Er war jetzt nicht mehr verkleidet …
 
 Ein schlanker Mann mit bartlosem, klugem Gesicht und
-lebhaften Augen, etwa fünfundvierzig Jahre alt …
+lebhaften Augen, etwa fünfunddreißig Jahre alt …
 
 »Setzen Sie sich,« meinte Harald freundlich. »Bitte —
 Zigarette gefällig …«
@@ -202,7 +202,7 @@ vor uns …
 Tones. »Im Namen des Gesetzes verhafte ich Sie, Doktor
 John Gybourg, wegen Ermordung Ihrer Gattin! — Der
 Bahnhofsdetektiv hier in Garden Lavryc hat Sie wiedererkannt.
-Ihre scheues Benehmen fiel ihm auf. Sie mieden
+Ihr scheues Benehmen fiel ihm auf. Sie mieden
 das Licht der Laternen. Nun — habe ich Sie!«
 
 John Gybourg sank aufstöhnend in den Sessel zurück,
@@ -329,7 +329,7 @@ stehen und fragte:
 »Haben Sie Ihre Ansicht über mich im übrigen irgendwie
 geändert, oder bin ich hier sicher?«
 
-»Wie in Abrahams Schoß!« nickte Harald, »Schließen
+»Wie in Abrahams Schoß!« nickte Harald. »Schließen
 Sie nur die Fensterläden, damit uns der Inspektor Colley
 nicht nochmals überrascht.«
 
@@ -400,7 +400,7 @@ Haralds graue Augen ruhten staunend auf Gybourgs
 ehrlichem, intelligentem Gesicht.
 
 »Merkwürdig!« murmelte er. »Merkwürdig …! Die
-kleine Kanalinsel Garlabarg …!! — Wissen Sie etwas
+kleine Kanalinsel Garlabarg …! — Wissen Sie etwas
 über diese Insel?«
 
 »Nichts …«
@@ -431,7 +431,7 @@ sollen, müßten Sie uns jetzt mal berichten, weshalb es
 zwischen Ihnen und Ihrer Gattin zu Eifersuchtsszenen
 kam …«
 
-»Das will ich tun, Mister Harst — Ja — und gerade
+»Das will ich tun, Mister Harst. — Ja — und gerade
 dies wurde ja in den Zeitungen so sehr gegen mich aufgebauscht,
 diese Eifersuchtsszenen! — Ich lernte Ellen und
 ihre Mutter im Sommer 1919 in Monte Carlo kennen.
@@ -471,7 +471,7 @@ haben richtig kombiniert … In der Vorstadt Cottenham
 überraschte ich Ellen mit einem Manne, der wie ein Arbeiter
 <@pagebreak/>
 aussah, im Cottenham-Park. Sie behauptete, der
-Mann habe sie nur angesprochen und mit Ihr über Fahrräder
+Mann habe sie nur angesprochen und mit ihr über Fahrräder
 sich unterhalten. Dabei blieb sie. Den Mann selbst
 erwischte ich nicht mehr. Er war auf seinem Motorrad
 davongejagt, als Ellen mich bemerkt hatte. Wie gesagt —
@@ -498,7 +498,7 @@ des Umschlags in zierlicher Schrift stand:
 
 > Der Tote \.\.\.\.
 
-— In englischer Sprache — nichts als die zwei Worte »Der
+— in englischer Sprache — nichts als die zwei Worte »Der
 Tote \.\.\.\.« — und vier Punkte dahinter.
 
 Dann zog Harald aus dem Umschlag eine Photographie,
@@ -526,7 +526,7 @@ Photographen ausradiert und auch von der über dem Stempel
 stehenden, mit Tinte geschriebenen Widmung war nur
 noch übriggeblieben ein
 
-> i und ein a.
+<p class="centered">i und ein a.</p>
 
 Harald legte Briefumschlag und Bild auf den Tisch …
 fragte:
@@ -602,7 +602,7 @@ uns ans Fenster stellen.«
 
 Es war draußen dunkel und etwas neblig. Das Licht
 der Straßenlaternen reichte nur schwach bis zur zweiten
-Etage des dreistöckigen Hauses drüben empor …
+Etage des vierstöckigen Hauses drüben empor …
 
 <@pagebreak/>
 Dieses Haus hatte sieben Fenster Front und war ein
@@ -944,7 +944,7 @@ allem Luxus — mit Bad, blitzsauberer Küche, mit Büchern
 und — — einer Sende- und Empfangsstation für Funkentelegraphie!
 —
 
-Wollte ich diese Atelierwohnung im einzelnen beschreiben,
+Wollte ich diese Grottenwohnung im einzelnen beschreiben,
 dann müßte ich dazu drei Seiten Manuskript verwenden,
 und das ginge nicht, das würde den Lauf der Handlung
 zu sehr hemmen.
@@ -994,7 +994,7 @@ Er deutete auf das eine Fenster …
 da drüben ist die Stadt Walton — Walton of the Naze …
 Und da — das ist die Nordsee! Schlechtes Wetter heute.
 Es gibt Sturm. Die Sonne kommt nicht zum Vorschein,
-und die Möwen sind so unruhig. — So nun werde ich
+und die Möwen sind so unruhig. — So, nun werde ich
 Ihnen Eßwaren, Trinkwasser und anderes bringen, was hier
 fehlt … Wiedersehen, die Herren!«
 
@@ -1087,11 +1087,11 @@ Und — dann …:
 er so plötzlich sich auf den Mund schlug und schwieg — —
 das!! — Hier ist zu entziffern:
 
-> Vieler Tage dunklen Nächten.
+> Vieler Tage dunklen Nächten
 
 > Klagte ich mein tiefes Leid.
 
-> Doch — von all den Himmelsmächten.
+> Doch — von all den Himmelsmächten
 
 > Gab kein Helfer mir Bescheid.     Ellen.«
 
@@ -1120,7 +1120,7 @@ Und er — spie wieder aus, was er im Munde behalten.
 Ließ das Glas fallen … Riß aus der Tasche einen Revolver
 hervor …
 
-»Schuft, Betrüger!!« brüllte er — und eine Stimme
+»Schufte, Betrüger!!« brüllte er — und eine Stimme
 hatte der Seebär, die nicht nach Musik klang … »Bleibt, wo
 Ihr seid!! Bleibt stehen, rührt Euch nicht, bis mein Tränkchen
 wirkt! Ihr dachtet wohl, ich hätte in meinem Häuschen
@@ -1150,6 +1150,7 @@ ich warne Sie eindringlich, sich ebenfalls in all die faulen
 Geschichten mit hineinzuverwickeln, die Lord Effingham da
 seit Jahren betreibt. Daß er hier in dieser Felsenwohnung
 Miß Ellen Marmarty beherbergt hat, weiß ich ebenfalls.«
+
 <@pagebreak/>
 Diese letzte Behauptung traf den Alten wie ein Keulenhieb
 … Er prallte zurück … Die Hand mit dem Revolver
@@ -1208,7 +1209,7 @@ Effingham wäre, säße er längst im Gefängnis!«
 Tobby seufzte schwer.
 
 »Mr. Colley — er hat sich nun ja geändert, seit er die
-schneidige Miß Randerfield aus Chikago geheiratet hat.
+schneidige Miß Randerfield aus Chikago geheiratet hat …
 Die junge Mylady Effingham hat ihn kräftig unter der
 Fuchtel …«
 
@@ -1280,7 +1281,7 @@ und schleuderten trockene Äste und Zweige hinab.
 
 Über uns rauschte das Blätterdach dieses seltsamen Urwaldes,
 und flinke Katzen tauchten immer wieder auf den
-tieferen Ästen auf, starrten uns an und verschwanden.
+tieferen Ästen auf, starrten uns an und verschwanden …
 
 Dann — eine kleine, steinige Lichtung …
 
@@ -1300,7 +1301,7 @@ An ihren Rändern quoll die Rinde wulstig über, so daß
 es auf den ersten Blick schien, als sei diese Eisentafel, verrostet
 <@pagebreak/>
 und mit kaum mehr lesbaren Buchstaben bedeckt, für
-alle Zeit und Ewigkeit fest mit dem Baume verbunden.
+alle Zeit und Ewigkeit fest mit dem Baume verbunden. —
 
 Wir waren neben Tobby getreten. Und er sagte halblaut:
 »Das hier ist eines der Verstecke, in dem Lord Roger
@@ -1351,7 +1352,7 @@ Die Eisenplatte war zugeworfen worden, und — noch
 etwas war geschehen: über den Ausgang des Schachtes,
 über die Schachtöffnung war ein eiserner Deckel gefallen, ließ
 <@pagebreak/>
-sich nicht nicht lüften, so kräftig ich auch den Nacken darunter
+sich nicht mehr lüften, so kräftig ich auch den Nacken darunter
 stemmte … —
 
 Harald rief mir zu: »Komm’ nur herab, mein Alter …
@@ -1430,7 +1431,7 @@ der alte Sessel, den wir nun beiseite gerückt haben …«
 
 Er beugte sich zu dem Sesselsitz hinab …
 
-Und — da traten in der dicken Staubschicht des zermürbten
+Und — da waren in der dicken Staubschicht des zermürbten
 Leders deutlich die Abdrücke zweier Stiefel zu erkennen!
 
 Harald lachte leise …

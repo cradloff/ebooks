@@ -10,7 +10,7 @@ Schnell hatte man die schwarzen Buchstaben am Bug des U-Bootes, das die deutsche
 
 Fünf Minuten nach Ankunft der »Robbe« hielt ein Auto am Bollwerk. Ihm entstieg ein blonder Herr, der einem älteren, vornehm ausschauenden Manne höflich aus dem Kraftwagen half.
 
-Die beiden Herren bahnten sich mühsam einen Weg durchs die Menge, betraten nach kurzem Gespräch mit dem den Steg absperrenden Polizeibeamten die dicken Planken der kleinen Anlegebrücke und — — in demselben Augenblick hob sich auch der Deckel der Turmluke und ein Mann mit rundem, gebräuntem Gesicht, Hornbrille und Sportmütze wurde sichtbar …
+Die beiden Herren bahnten sich mühsam einen Weg durch die Menge, betraten nach kurzem Gespräch mit dem den Steg absperrenden Polizeibeamten die dicken Planken der kleinen Anlegebrücke und — — in demselben Augenblick hob sich auch der Deckel der Turmluke und ein Mann mit rundem, gebräuntem Gesicht, Hornbrille und Sportmütze wurde sichtbar …
 
 Meine Wenigkeit: Max Schraut!
 
@@ -242,7 +242,7 @@ Der echte Munzinger seufzte kläglich …
 
 »Herr Schraut, da gibt es nicht viel durchzusprechen … Ich bin heute abend acht Uhr mit dem Schnellzuge von Allahabad hier in Kalkutta eingetroffen. Kaum hatte ich den Zug verlassen, als ich schon auf dem Bahnsteig das Gebrüll der Extrablattverkäufer vernahm und … meinen ehrlichen Namen! Ich war einfach sprachlos! Ich glaubte mich verhört zu haben … Doch es war so: die braunen Burschen riefen beständig:
 
-Attentat auf Harst und Schraut durch Doktor Munzinger!!
+> Attentat auf Harst und Schraut durch Doktor Munzinger!!
 
 Sie werden sich unschwer vorstellen können, Herr Schraut, wie mir dabei zumute war! Ich kaufte ein Extrablatt, las es, war entsetzt … Ich fand darin mich selbst genau beschrieben, — sogar den Anzug!! Natürlich ahnte ich sofort, wem ich diese Überraschung zu verdanken hatte: meinem sauberen Herrn Zwillingsbruder, den ich seit fünf Jahren Gott sei Dank nicht mehr zu Gesicht bekommen habe … — Scheu drückte ich mich durch die Menge zum Bahnhof hinaus. Ließ mein Gepäck dort, irrte durch dunkle Gassen, wagte mich nicht einmal in eine Speisewirtschaft. Man hätte mich ja für den Attentäter halten und verhaften können! Schließlich kam mir der Gedanke, Sie beide aufzusuchen. Ich weiß hier in Kalkutta gut Bescheid. Und in dem Extrablatt steht ja genau beschrieben, welche Zimmer Sie beide hier im Klub innehaben. So bin ich denn über die Gartenmauer geklettert und fand zum Glück dies Fenster da offen, stieg in das Zimmer hier hinein und … fühlte mich geborgen. — Herr Schraut, bitte, hier sind meine Ausweispapiere … Ich …«
 
@@ -378,7 +378,7 @@ Ich gehorchte …
 
 Und mein alter Harald mimte nun weiter den Schlafenden — oder besser: die Schlafenden!
 
-Mit größter Virtuosität ahmte er das raffelnde Gurgeln eines traumbefangenen Fettwanstes (ich!!) und das lange röchelnde Atemholen einer zweiten Person (er!!) in richtigen Zwischenräumen nach, so daß die geringen Geräusche, die das Überstreifen meiner Kleider verursachten, völlig übertönt wurden.
+Mit größter Virtuosität ahmte er das rasselnde Gurgeln eines traumbefangenen Fettwanstes (ich!!) und das lange röchelnde Atemholen einer zweiten Person (er!!) in richtigen Zwischenräumen nach, so daß die geringen Geräusche, die das Überstreifen meiner Kleider verursachten, völlig übertönt wurden.
 
 Ich schlüpfte in die Sporthosen und … dachte an die gewiß wichtige Frage, weshalb wir uns diese Nacht nun vollständig um die Ohren schlagen wollten …
 
@@ -460,7 +460,7 @@ Er scheint mit diesem Instrument angeln zu wollen, denn er läßt den Stein an d
 
 Was soll das?! —
 
-Wir beide sind derweil näher geschlichen, hocken hinten einem der Zementpfähle zum Vertäuen der Schiffe.
+Wir beide sind derweil näher geschlichen, hocken hinter einem der Zementpfähle zum Vertäuen der Schiffe.
 
 »Was soll das?! Was tut der Kerl?« frage ich Harald.
 
@@ -498,7 +498,7 @@ Wir sitzen, als wir wieder zu uns kommen, gefesselt auf zwei Rohrsesseln …
 
 Über uns leuchtet eine große Glühbirne unter gelber Glocke …
 
-»Die »Robbe« ist in voller Fahrt … Die Schrauben arbeiten … Wasser rauscht an den Bordwänden entlang … —
+Die »Robbe« ist in voller Fahrt … Die Schrauben arbeiten … Wasser rauscht an den Bordwänden entlang … —
 
 Wir sitzen uns gegenüber, gerade unter der Lampe, mit ein Schritt Entfernung …
 
@@ -632,7 +632,7 @@ Und Harald bückte sich, holte aus dem linken Strumpfe den schwarzen kostbaren E
 
 »Sehr gut … — Auch Rami soll dann in keiner Weise eingeweiht werden. Ihren künstlich gebleichten Vollbart und die ebenso gebleichte Gelehrtenmähne behalten Sie vorläufig bei. Man wird in Ihnen in dieser Aufmachung niemals einen Mann von dreißig Jahren vermuten. — Wo sind wir jetzt? Bereits im Meerbusen von Bengalen?«
 
-»Ja, Herr Harst. Die »Robbe« fährt an der Ostküste Vorderindiens entlang nach Süden. Ich wollte nach Ceylon, um dort den Edelstein zu verkaufen. In Kolombo gibt es übergenug chinesische Hehler«
+»Ja, Herr Harst. Die »Robbe« fährt an der Ostküste Vorderindiens entlang nach Süden. Ich wollte nach Ceylon, um dort den Edelstein zu verkaufen. In Kolombo gibt es übergenug chinesische Hehler.«
 
 »Dann werden wir noch heute abend die drei Malaien in der Nähe einer Hafenstadt ausbooten und sie ablohnen. Die Leute werde ich bezahlen. Gleichzeitig werde ich Schrauts und mein Gepäck telegraphisch von Kalkutta nach Bombay beordern. — Vor den Malaien und Rami reden wir Sie mit Munzinger an. Den Farbigen erklären Sie, daß Sie sich mit uns in Güte geeinigt hätten … — So, jetzt bringen Sie uns Rami her …«
 
@@ -670,7 +670,7 @@ Sehr bald las er in den Zeitungen, daß ein Steckbrief hinter ihm erlassen und d
 
 Weiter erfuhr er aber auch, daß Friedrich Robbe gleichfalls entflohen war und in einem Briefe an den Vorstand des Filmschauspieler-Verbandes seine Unterschlagung eingestanden hatte. — Robbes Familie blieb in größtem Elend zurück, und lediglich aus Rücksicht auf Frau Alice und die beiden Kinder nahm Pingalli davon Abstand, die gegen Robbe vorliegenden Verdachtsgründe der Polizei mitzuteilen. Freilich war es ja noch immer ungewiß — und das betonte er auch uns gegenüber —, ob Robbe tatsächlich der Mörder oder nur sonstwie in dieses Verbrechen mit hineinverstrickt war, vielleicht durch Umstände, die ein Fernstehender nicht einmal ahnen konnte.
 
-»Anderseits, meine Herren, spricht wieder sehr vieles dafür, daß mein Kollege mit dem erbeuteten Gelde — und es wird sich um große Summen gehandelt haben — das Weite gesucht hat und nun irgendwo in der Fremde … elend verkommen ist … Denn lange wird er sich das Raubes kaum erfreut haben. Ein so unverbesserlicher Spieler wie er dürfte sicherlich irgendeiner Spielhölle das blutbefleckte Geld in den unersättlichen Rachen geworfen haben, und dann … im Straßengraben verreckt sein — — vielleicht im tiefsten Rausch.«
+»Anderseits, meine Herren, spricht wieder sehr vieles dafür, daß mein Kollege mit dem erbeuteten Gelde — und es wird sich um große Summen gehandelt haben — das Weite gesucht hat und nun irgendwo in der Fremde … elend verkommen ist … Denn lange wird er sich des Raubes kaum erfreut haben. Ein so unverbesserlicher Spieler wie er dürfte sicherlich irgendeiner Spielhölle das blutbefleckte Geld in den unersättlichen Rachen geworfen haben, und dann … im Straßengraben verreckt sein — — vielleicht im tiefsten Rausch.«
 
 <em>Unsere</em> »Robbe« glitt immer weiter gen Süden durch die lange träge Dünung des Bengalischen Meerbusens …
 
