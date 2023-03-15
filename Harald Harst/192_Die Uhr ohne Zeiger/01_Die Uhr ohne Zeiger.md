@@ -138,7 +138,7 @@ oft gesehn und gehört habe. Einmal hat er sogar einen
 Revolver aus seinen Schlafrock gerissen und sich vor die
 Uhr dotschießen wollen, aber da ist die Gnädige noch zugesprungen
 und hat’s verhindert. Wenn Sie auch so was
-Spaß macht, sehr geehrter Herr Harst, so würd im Ihnen
+Spaß macht, sehr geehrter Herr Harst, so würd ich Ihnen
 mündlich noch mehr sagen können.
 
 > Mit die größte Hochachtung
@@ -174,7 +174,7 @@ Anita Galski uns nach Heringsdorf locken können, wenn sie
 erst gestern abend entflohen ist?! Und ferner: der ganze Brief
 dieses Kutschers erscheint mir als … Leimrute für uns denn
 doch allzu harmlos, zu wenig originell! Eine Anita Galski
-besitzt genug Phantasie, uns eine bessere Fälle zu stellen …«
+besitzt genug Phantasie, uns eine bessere Falle zu stellen …«
 
 »Besser — — origineller?!« Er zuckte die Achseln. »Ich
 finde, eine Kaminuhr ohne Zeiger, mit der dieser Herr von
@@ -234,14 +234,14 @@ Depesche gewesen.
 Harald dankte für die Auskunft, erinnerte den Beamten
 nochmals an strengste Verschwiegenheit, da es sich um sehr
 ernste Dinge handele, legte den Hörer auf die Gabel zurück
-und blickte mich vergnügt mit den Augen zwinkernd, an …
+und blickte mich vergnügt, mit den Augen zwinkernd, an …
 
 »Na, mein Alter, wer hat nun recht behalten?! Diese
 Pinz-Kolonie dort im schönen Heringsdorf, dürfte immerhin
 so etwas unter die Lupe zu nehmen sein! Zuerst aber
 wollen wir uns hier mit Herrn Urban Malch, Pallasstraße 19,
 <@pagebreak/>
-beschäftigen. Los also! Kostüm Nummer sechs. Daß genügt.
+beschäftigen. Los also! Kostüm Nummer sechs. Das genügt.
 Die Ausweise von der Reichspost als Jäger auf
 Schwarzhörer werden uns gute Dienste leisten.« —
 
@@ -272,7 +272,7 @@ wir auf einer Papptafel in feiner, zierlicher Rundschrift:
 <p class="centered">Reparaturen aller Instrumente, Herstellung von Modellen,
 automatischen Spielzeugen, Radioapparaten usw.</p>
 
-<p class="centered">Sprechzeit: 9—12, 3—7. Sonntags 10—18,</p>
+<p class="centered">Sprechzeit: 9—12, 3—7. Sonntags 10—18.</p>
 
 Automatische Spielzeuge!!
 
@@ -295,7 +295,7 @@ einer großen, blauroten Hakennase, auf der eine schwarze,
 moderne Hornbrille mit goldenem Steg, sich tief in die Haut
 eingedrückt hatte. Hinter den Gläsern dieser Brille lauerten
 ein Paar entzündete, halb zugekniffene Augen. Die hohe,
-breite Stirn war von buschigem. Beiboot Haar überwölbt, das,
+breite Stirn war von buschigem, weißem Haar überwölbt, das,
 glatt zurückgestrichen, die Ohren völlig verdeckte. Der magere
 Giraffenhals des buckligen Männleins verschwand in dem
 hochgeklappten, fettigen Kragen eines einst grün gewesenen,
@@ -332,7 +332,7 @@ auf sein Lager zurückzog, wo sie sich mit unbeholfenen Bewegungen
 niederlegte. — Da der Flur durch zwei starkkerzige
 <@pagebreak/>
 elektrische Lampen erleuchtet war, hatten wir diesen vierbeinigen
-Wächter genau beobachtet Können. Als Harst nun
+Wächter genau beobachtet können. Als Harst nun
 lachend meinte: »Aha, Herr Malch, — einer Ihrer Automaten,
 dieser famose Hund!« fiel ich so ziemlich aus allen
 Wolken, denn ich hatte tatsächlich nicht bemerkt, daß es
@@ -676,10 +676,10 @@ Platz um die Ecke der Berliner Straße biegt, werde ich hinausspringen.
 Du wieder rufst dem Chauffeur zu, daß er nach
 Alt-Schmargendorf über die neue Eisenbahnbrücke fahren und
 das Tempo mäßigen soll. Ich hoffe dann in einer anderen
-Kraftdroschke euch einzuholen. Dann haben wir den Verdächtigen
+Kraftdroschke euch einzuholen. Dann haben wir den verdächtigen
 Wagen in der Mitte, mein Alter. Von Alt-Schmargendorf
 dirigierst du deinen Chauffeur nach unserer Blücherstraße,
-bezahlst vorher, springt rasch ab und gehst schnell ins
+bezahlst vorher, springst rasch ab und gehst schnell ins
 Haus, damit die Schufte nicht etwa eine Kugel anbringen
 können. — Verstanden?!«
 
@@ -702,7 +702,7 @@ einziger Blick, festzustellen, daß tatsächlich das Transportauto,
 ein großer, knallgelber Kasten, dicht hinter mir gewesen war
 und diesem Kraftwagen wieder eine Autotaxe auf den Fersen
 war. Die Sache hatte also geklappt. — Wenn ich vielleicht
-beim Bezahlen neben den Platz meines Chauffeurs auf dem
+beim Bezahlen neben dem Platz meines Chauffeurs auf dem
 Bürgersteig verweilt hätte, würde ich einem Menschen, der
 oben auf dem Lastauto zwischen den Körben lag, ein vorzügliches
 Ziel geboten haben. So aber hatte ich nun die
@@ -777,7 +777,7 @@ hier das Fremdenheim betrat. Ich fuhr zu Bechert, rief dich
 an, — und nun wird das Pensionat bewacht. Sechs Beamte
 halten es eingekreist. Kein Mäuslein kann heraus. Die
 Dame wohnt im Übrigen neben unserem Schlafzimmer, Nr. 1.
-— Dieses hat eine nur verstellte Verbindungstür naß uns
+— Dieses hat eine nur verstellte Verbindungstür nach uns
 hin, und da die Fremde, in der ich mit einiger Berechtigung
 Anita Galski vermute, ihr Zimmer nicht wieder verlassen hat
 — es brannte dort bis vor kurzem Licht, und der Schatten
@@ -942,7 +942,7 @@ Im Nu hatte er seine Handfesseln abgestreift und dem
 Zwerge die Schirmbüchse aus den Händen genommen …
 
 »Da — ein gewöhnlicher Schirm … An der Spitze ein
-schwarzen Kreis aus einem Zelluloidplättchen … Und hier
+schwarzer Kreis aus einem Zelluloidplättchen … Und hier
 ist der dünne Draht, an dem das Weib gezogen hat, um die
 Puppe lebendig zu machen … Da …«
 
@@ -1077,7 +1077,7 @@ Schnaubt grob. »Was gibt’s denn?! Was wollen Sie?!«
 Harald sagt höflich: »Herr Malch, wir sind’s, und dies
 <@pagebreak/>
 hier ist Herr Kriminalkommissar Bechert … Wir möchten
-Sie nur fragen, ob Sie mal einen automatischer Zwerg hergestellt
+Sie nur fragen, ob Sie mal einen automatischen Zwerg hergestellt
 haben, der die Worte sprechen kann »Nur her mit
 dem Ding, ich verstehe mich schon darauf!« — Außerdem
 klapperte der Zwerg mit den Augen, bewegte richtig den Mund
@@ -1090,7 +1090,7 @@ drei sprechende Automaten haben. Ich lieferte sie ihm. War
 Schund, die Dinger … Bastelte sie in einer Woche zusammen.
 Der Mann heißt Emil Krüger und wohnte damals in der
 Großgörschenstraße. — Wie kommen Sie mit einem Male
-auf den Zwerg, Herr Harst?««
+auf den Zwerg, Herr Harst?«
 
 »O — das ist eine lange Geschichte, Herr Malch … —
 Etwas anderes: Hatten Sie heute außer uns noch sonst Besuch
@@ -1108,7 +1108,7 @@ meinte: »Ein unheimlicher Bursche, dieser Greis!!«
 
 Vor dem Hause sagte Harst: »Warten wir drüben in der
 Türnische der Augusta-Schule … Dort sieht uns niemand.
-In wette, Malch wird sehr bald erscheinen …«
+Ich wette, Malch wird sehr bald erscheinen …«
 
 »Erscheinen?!« wunderte sich Bechert.
 
@@ -1227,7 +1227,7 @@ wieder zuschritt, während wir drei die Kleiststraße entlanggingen,
 um uns im Bahnhofsrestaurant der Station
 Zoologischer Garten durch eine Tasse Kaffee zu stärken.
 
-<h2>3. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 <h3>Noch ein Gegenspieler.</h3>
 
 Zunächst schwiegen wir. Die kühle Luft der Herbstnacht
@@ -1345,7 +1345,7 @@ war ich, als er in seinem Arbeitszimmer die Kaffeemaschine
 füllte, den Spiritus anzündete und mit feinem leisen Lächeln,
 das so ungeheuer vieldeutig sein kann, zu mir sagte: »Geh
 nur schlafen, mein Alter … Ich habe noch zu tun … Ich
-muß diese letzte Überraschung, die größte der nach, erst noch
+muß diese letzte Überraschung, die größte der Nacht, erst noch
 geistig verdauen …«
 
 »Die letzte?«

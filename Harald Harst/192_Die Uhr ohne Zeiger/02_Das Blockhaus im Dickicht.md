@@ -166,8 +166,8 @@ hielt sie zuweilen an die Schulter …«
 
 Da rief das eine Mädelchen:
 
-»Das ist nicht wahr, Fritz … Er war noch eins Dame
-da … Die stand hinter jener Kiefer « …
+»Das ist nicht wahr, Fritz … Er war noch eine Dame
+da … Die stand hinter jener Kiefer …«
 
 Und das andere Mädel suchte die Freundin zu übertrumpfen
 … »Die Dame hinter der Kiefer war Fräulein
@@ -188,7 +188,7 @@ Wellert wohl Malerin ist?«
 einem der Verkaufsstände der Seebrücke ausgestellt …«
 
 »Seht ihr, Kinder, das wollte ich nur wissen. Vielleicht
-kaufe ich dem Fräulein ein Bild ab … Nun läuft und holt
+kaufe ich dem Fräulein ein Bild ab … Nun lauft und holt
 euch recht was Schönes für die Mark. Erzählt’s aber
 niemandem, daß ich euch was geschenkt habe … Das bleibt
 alles unter uns, Kinder …«
@@ -363,7 +363,7 @@ Seitenfenster, der Salon. In dem Eckzimmer Licht hinter
 geschlossenen Läden: Pinz’ Schlafstube. — Über uns im
 Stallgiebel gleichfalls ein helles Fenster: Johann Klatt!
 
-Harald (wer hätte in ihm jetzt der Herrn Baron von Hartock
+Harald (wer hätte in ihm jetzt den Herrn Baron von Hartock
 erkannt!!) — Harald gleitet aus dem Dunkel der Stalltür
 bis zum linken Eckfenster, und steigt mit dem einen Fuß auf
 den Mauervorsprung, zieht sich empor und lugt durch eine
@@ -438,7 +438,7 @@ man genauer hin, so gewahrte man jedoch die unklaren Umrisse
 eines Vierecks, das glatter erschien als die verputzte
 Decke. — Harald stieg schon die Trittleiter hinan und hatte
 dann auch sehr bald die ziemlich primitive Doppelfalltür
-geöffnet. Die untere klappte nur unten, die obere ließ sich
+geöffnet. Die untere klappte nach unten, die obere ließ sich
 empordrücken. Über dieser lag ein Teppich, den Harst erst
 beiseiteschieben mußte.
 
@@ -586,7 +586,7 @@ wie vorhin das leise, leise Kreischen des Drückers.
 Ein rascher Schritt brachte Harst neben mich. Wir duckten
 uns von neuem, und nun erschien sehr rasch, mit leichtem,
 schwebenden Gange, vor der anderen halb offenen Tür eine
-Frauengestalt in hellen, fließendem Morgenrock: Marga
+Frauengestalt in hellem, fließendem Morgenrock: Marga
 Wellert, Frau von Pinz’ Nichte.
 
 Auch sie schaute in das Schlafzimmer hinein, aber sie begnügte
@@ -891,7 +891,7 @@ die Tür des Salons zuschreiten zu wollen.
 
 Aber — sie war und blieb eine überaus gefährliche Gegnerin
 … Ihre Worte hatten nur unsere Vorsicht abschwächen
-sollen … Ein zweiter, jäher Versuch folgte, das Zifferblatt,
+sollen … Ein zweiter, jäher Versuch folgte, das Zifferblatt
 mit der Faust zu zerstören …
 
 <@pagebreak/>
@@ -936,7 +936,7 @@ Auch ich recke den Kopf vor … Unterscheide Stimmen —
 ein Murmeln, das zuweilen zu einem einzelnen lauteren, verständlichen
 Worte sich verdichtet und wiederum in jenes erregende
 Gewirr menschlicher Laute zerfließt, das ich so gern
-vollends durch das Gehör dem begierigen Verstande in vernehmbarer
+vollends durch das Gehör dem begierigen Verstande in vernehmbaren
 Sätzen zuleiten möchte …
 
 <@pagebreak/>
@@ -944,11 +944,11 @@ Ein einzelnes Wort wieder:
 
 <p class="centered">Harst!</p>
 
-Und ein Lache folgt … Ein Fluch — offenbar laut gebrüllt:
+Und ein Lachen folgt … Ein Fluch — offenbar laut gebrüllt:
 »Der Satan hole den Schnüffler!«
 
 Wieder das Lachen … Von Frauenlippen … Ich kenne
-es … Ich habe es in der Wohnung unseres nunmehr toten,
+es … Ich habe es in der Wohnung unseres nunmehr toten
 Freundes Julius Jakobsohn zum ersten Male gehört …
 
 Anita Galski — unverkennbar! Etwas Diabolisches hat
@@ -993,11 +993,11 @@ Boote zurückzulassen. Marga wußte nichts von dem Zettel,
 hat ihn nicht bemerkt, hielt ihn wahrscheinlich wie du für eine
 Warnung »Frisch gestrichen«. Wir sollten glauben, der Zettel
 wäre Margas Werk, und man hofft nun, daß wir blindlings in
-die Falle hineintappen werden, du man für aus vorbereitet
+die Falle hineintappen werden, du man für uns vorbereitet
 hat: das Blockhaus! — Gewiß — hineintappen werden wir,
 nur nicht blindlings, sondern gut vorbereitet. Mein Federmesser
 steckt schon mit geöffneter Klinge im Ärmel unten,
-und mein Taschenmesser werde im mir jetzt gleichfalls mit
+und mein Taschenmesser werde ich mir jetzt gleichfalls mit
 geöffneter großer Klinge an der Hosenschnalle hinten befestigen.
 In jedem Falle spielen wir die völlig Überraschten
 und wehren uns nicht — verstanden! Zieh dir die Mütze nachher
@@ -1046,7 +1046,7 @@ betastet. Aststümpfe sind genügend vorhanden, und langsam
 klettern wir empor, finden einen dicken Ast, der die in die
 toten Zweige der umgeknickten, auf dem Dache der Hütte
 ruhenden Krone der Eiche hineinreicht. So gelangen wir
-auf das flache Dach, und von hier zur eine seitliche Bodenluke
+auf das flache Dach, und von hier durch eine seitliche Bodenluke
 auf den Boden des Häuschens, wo der Gestank faulenden,
 muffigen Heus uns entgegenschlägt. Mäuse flitzen vor dem
 aufblitzenden Licht der Taschenlampen davon, und eine feiste
@@ -1074,7 +1074,7 @@ Seitenkanten leicht abgerundet sind.
 gewählt haben!« flüstert Harald, bückt sich, packt die Bretterunterlage
 des Gerümpels und dreht sie spielend leicht und
 geräuschlos zur Seite. Sie läuft auf Rollen, und unter ihr
-kommt nun ein rundes, großes Los in den Dielen zum Vorschein,
+kommt nun ein rundes, großes Loch in den Dielen zum Vorschein,
 — ein Ausschnitt in der Balkendecke, in dem eine
 Leiter lehnt.
 
@@ -1153,7 +1153,7 @@ drei Brüder Wenk, die im Juli dieses Jahres ihre Fabrik in
 einem Berliner Vorort im Stiche gelassen hatten, mit Marga
 Wellert verwandt sein und daß sie ihre geheimen Experimente
 wieder aufgenommen haben könnten, nachdem die Polizei die
-Suche nach ihnen aufgegeben hakte … Deshalb machte ich
+Suche nach ihnen aufgegeben hatte … Deshalb machte ich
 dir gegenüber auch einmal die Bemerkung von den drei
 Brüdern Wenk, wenn du dich noch besinnst … Diese Wenks
 sind in Wahrheit Wellerts, und das Rätsel des Falles Uhr
@@ -1198,7 +1198,7 @@ uns gleich mit einem Kugelregen empfangen.«
 Er schritt leise wieder in den Flur hinaus, und abermals
 krochen wir dann durch die eiserne Tür in den schwarzen
 Ofen hinein, wo Harald rasch die den Boden bedeckenden Heu\-
-und Strohhalme und Holzstühlen beiseite schob und so in
+und Strohhalme und Holzstückchen beiseite schob und so die in
 die geschwärzten Ziegel eingefügte viereckige Eisenplatte freilegte,
 die einen Ring zum Anheben besaß und sich auch leicht
 in ihren beiden Gelenken hochklappen ließ. — Aus dem
@@ -1233,7 +1233,7 @@ Er lugt hindurch, hebt den Vorhang dann etwas empor
 erleuchteten Kellerraum hinein … Fünf Karbidlaternen
 brennen hier … Kessel, Bottiche an den Wänden … Auf
 einem großen eisernen Gestell, unter dem eine Spiritusflamme
-farblos flackert, steht ein besonders geformter Sessel mit Glasröhren,
+farblos flackert, steht ein besonders geformter Kessel mit Glasröhren,
 Kühlschlangen, Ventilen, Hähnen … Der Kessel
 faucht und summt … Was geht mich der Kessel an?!
 
