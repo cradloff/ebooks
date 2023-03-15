@@ -81,7 +81,7 @@ im Verein mit einer stolzen, abgeklärten Ruhe und einem
 leicht bronzenen Teint deutlich die Vermischung mit Sarazenenblut
 verraten. Als seine Vorfahren einst nach Deutschland
 einwanderten, hatten sie den klangvollen poetischen Namen
-Maritoja gegen das nichtssagende Jakobsohn enttäuschten
+Maritoja gegen das nichtssagende Jakobsohn eintauschen
 müssen.
 
 Als ich die zwei läuferbelegten Treppen in dem vornehmen
@@ -249,7 +249,7 @@ Treppe an mir vorübergeglitten war …
 Ich wollte — wollte nicht mehr nach den beiden reglosen
 Tieren hinüberschauen — — wollte nicht, denn die leuchtenden
 Augen steigerten nur das Grauen, das jetzt mit
-einer solchen Macht vom mir Besitz ergriffen hatte, daß ich
+einer solchen Macht von mir Besitz ergriffen hatte, daß ich
 alle meine Energie aufbieten mußte, nicht aufzuspringen und
 fluchtartig die Wohnung zu verlassen …
 
@@ -279,7 +279,7 @@ Der lila Schleier bedeckte wie vorhin ihr Gesicht …
 Ein eigenartiges Lachen kam hinter diesem Schleier hervor …
 
 Dann Worte … in einem harten, fremden Deutsch, von
-einer gedämpfter und doch klangvollen Altstimme:
+einer gedämpften und doch klangvollen Altstimme:
 
 »Wer sind Sie?«
 
@@ -553,14 +553,14 @@ eine Zeitung. In dem Aschbecher auf dem Fensterbrett eine
 halbe Zigarre …
 
 Mit dem schwarzen Seidenkäppchen auf dem schlohweißen
-Haupte, mit dem stets sauber rasierten, bartlosen, von seinen
+Haupte, mit dem stets sauber rasierten, bartlosen, von feinen
 Falten durchzogenen und von innerem Feuer eines reichen,
 lebhaften Geistes durchleuchteten Gesicht glich er sonst einem
 der Gemälde des spanischen Malers Tornato, der seine Modelle
 stets im Judenviertel von Granada suchte und dort
 jene vornehmen, stillen Züge in reicher Auswahl antraf, aus
 denen er dann in so höchster Vollkommenheit den Typ des
-vergeistigten spanisch-maurischen Juden schlug.
+vergeistigten spanisch-maurischen Juden schuf.
 
 Heute erkennen wir unseren alten Freund kaum wieder.
 Derselbe Ausdruck des Entsetzens auf seinem Gesicht wie bei
@@ -745,7 +745,7 @@ die Seide an einigen Stellen wie mürber Zunder …
 »Ein Zerstäuber,« erklärt Harald immer in demselben
 gelassenen Tonfall. »Die Frau muß einen kleinen Ball in
 der Hand gehabt haben, einen Spritzball, der die in ihm enthaltene
-Flüssigkeit zu feinstem Staub zerteilte. Dicke Wolke
+Flüssigkeit zu feinstem Staub zerteilte. Diese Wolke
 von winzigsten Tröpfchen irgendeines mir unbekannten chemischen
 Präparats versetzte sowohl Frau Julack als auch Sie
 und Schraut in einen Zustand, der dem einer tiefen Hypnose
@@ -845,7 +845,7 @@ würde er vielleicht mit einer kurzen Grobheit abtun.
 Als wir die Tauentzienstraße erreicht haben, überquert
 er den Fahrdamm und schreitet nun mit mir die Passauer
 Straße auf der anderen Seite wieder hinab. Abermals widmet
-er seine Aufmerksamkeit den Schaufenstern. Weshalb
+er seine Aufmerksamkeit den Schaufenstern. Weshalb,
 keine Ahnung!
 
 Dann bleibt er vor einem Papiergeschäft stehen …
@@ -999,7 +999,7 @@ Harst klappte das Buch zu … »Also wie bei dir mein
 Alter …! — Zweifelst du noch, daß das Weib eine Spanierin
 ist — eine spanische Zigeunerin?«
 
-»Nein — Ich halte es für möglich, für wahrscheinlich,
+»Nein. — Ich halte es für möglich, für wahrscheinlich,
 weiß jedoch nicht, wie du sie aus rund vier Millionen Menschen,
 aus diesem Ameisenhaufen Groß-Berlin herausfinden
 solltest, — man kann ihr doch nicht viel anhaben … Drei
@@ -1135,7 +1135,7 @@ die Treppe hinan …
 Die Tür zu dem großen dreifenstrigen Raum sperrangelweit
 offen. Die Fenster noch dicht verhängt, denn wir benutzen
 das Laboratorium auch als Dunkelkammer, haben hier
-vorhin die Ausnahmen und die Vergrößerungen der Fingerspuren
+vorhin die Aufnahmen und die Vergrößerungen der Fingerspuren
 auf dem Stück Glasscheibe aus Rogges Laden hergestellt.
 
 Harald schaltet das Licht ein … Dort in der Ecke der
@@ -1204,7 +1204,7 @@ wäre!!«
 
 Mein Freund schneidet eine Grimasse … »Schnell fertig
 ist zuweilen selbst das Alter mit dem Wort,« modelt er das
-viel genannte Zitat um. »Ausgeschlossen daß Frau Tichu,
+vielgenannte Zitat um. »Ausgeschlossen daß Frau Tichu,
 wenn sie’s gewesen, in der Maske ihres Gatten sich bei uns
 eingeschlichen hätte! Das hieße, sie hätte sich die Schlinge
 selbst um den Hals gelegt …«

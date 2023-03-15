@@ -237,7 +237,7 @@ und so ums Leben gekommen. Ich glaube an diesen
 Unglücksfall nicht, denn ich hielt Jakobsohns Leben seit jenem
 Tage für bedroht, als Anita Tichu bei ihm gewesen war.
 Ich habe Jakobsohn dies auch zu verstehen gegeben. Er blieb
-erschlossen. Er muß wohl seine Gründe dafür gehabt haben.
+verschlossen. Er muß wohl seine Gründe dafür gehabt haben.
 Ein jeder von uns hat dunkle Punkte seines Daseins zu
 verhüllen. — Fahren wir nach der Passauer Straße.«
 
@@ -334,7 +334,7 @@ ans Tageslicht und zerrieb sie bedächtig, roch daran, rieb
 stärker und zeigte uns, daß seine Fingerspitzen durch das
 bräunliche Pulver aneinander klebten.
 
-»Harz — — Harz der Cerba-Liane … « sagte er nur.
+»Harz — — Harz der Cerba-Liane …,« sagte er nur.
 
 »Also Mord!« rief Bechert gedämpft.
 
@@ -343,7 +343,7 @@ Harzkörnchen nie nachgewiesen worden wäre. Es muß sich
 <@pagebreak/>
 hier heute vormittag in der Wohnung Jakobsohns folgendes
 abgespielt haben: Das Haus wurde beobachtet. Als Frau
-Julack es verlassen hatte, verschaffte sie jemand Zutritt zu
+Julack es verlassen hatte, verschaffte sich jemand Zutritt zu
 dem alten Herrn. Dieser Fremde, vielleicht Frau Anita selbst,
 hat Jakobsohn mit Hilfe des Cerbasaftes leicht betäubt und
 dem Bewußtlosen den Befehl erteilt, zwischen elf und zwölf
@@ -410,7 +410,7 @@ Jakobsohn einen Brief, in dem er mich bat, Ihnen im Falle
 seines Todes sofort mitzuteilen, daß er Sie zu seinem Testamentsvollstrecker
 ernannt hat, und daß Sie — ich wiederhole
 wörtlich diese Stelle seines Schreibens — »daß Herr Harst
-zu aller erst seine Aufmerksamkeit meinem Tintenfasse widmen
+zu allererst seine Aufmerksamkeit meinem Tintenfasse widmen
 soll …« — So hieß es in dem Briefe. — Hier ist er.
 Ich überreiche Ihnen denselben als vorläufigen Ausweis.
 Sie sind jetzt hier der Herr der Wohnung, derjenige, der über
@@ -671,7 +671,7 @@ Wir hatten uns in zwei ältere würdige Herren verwandelt,
 und so führte uns ein Auto nach der … Kleiststraße
 <@pagebreak/>
 — Kleiststraße 19, wo der Beamte Eustachio Pedrilla
-wohnte, Jakobsohns Universalerbe und außereheliche Sohn.
+wohnte, Jakobsohns Universalerbe und außerehelicher Sohn.
 
 Als Harald dem Chauffeur dieses Fahrtziel genannt
 hatte, kam mir blitzartig die Erleuchtung … Blitzartig reichte
@@ -767,7 +767,7 @@ jungen Paares wird sich hier in etwas anderer Art abspielen,
 als die schlaue Verbrecherin es vermuten dürfte.«
 
 Die beiden alten Leutchen taten mir von Herzen leid.
-Man merkte ihnen an, wie niedergeschmettert sie jetzt waren,
+Man merkte ihnen an, wie niedergeschmettert sie jetzt waren.
 Sie hatten die freche Komödiantin offenbar wie ein eigenes
 Kind geliebt, und ihr Glaube an Ehrlichkeit und Aufrichtigkeit,
 an das Gute im Menschen, war nun wohl so stark erschüttert
