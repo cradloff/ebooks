@@ -174,7 +174,7 @@ Er schwieg erst. — »Wenn ich dir meine Vermutung mitteilen wollte,« erwidert
 
 »Erraten. — Das junge Mädchen wollte und will vielleicht jemand töten …«
 
-»Hm — — für diese Mutmaßung sind doch recht wenig Beweise vorhanden …
+»Hm — — für diese Mutmaßung sind doch recht wenig Beweise vorhanden …«
 
 »Bisher ja. Wir werden stärkere Beweise sammeln müssen.«
 
@@ -388,7 +388,7 @@ Sie schüttelt den Kopf …
 
 »Herr Harst, Sie sollen mir helfen …« — Ein trockenes Schluchzen dringt aus ihrem verschleierten Munde hervor.
 
-»Helfen?! — Weshalb haben Sie denn nicht in der Laube am Kleistpark sich etwas weniger verfänglich benommen?! Sie hatten Schraut, Borgutzki und mich betäubt … Sie haben dann fraglos in meiner Brieftasche meinen Ausweis gefunden, wußten also, daß ich Harst war, daß mein Freund Schraut mit dabei … Weshalb die schlaue Flucht im Auto?! Weshalb brachten Sie Ihr Anliegen nicht sofort vor, nachdem wir wieder zu uns gekommen wären?!«
+»Helfen?! — Weshalb haben Sie denn nicht in der Laube am Kleistpark sich etwas weniger verfänglich benommen?! Sie hatten Schraut, Borgutzki und mich betäubt … Sie haben dann fraglos in meiner Brieftasche meinen Ausweis gefunden, wußten also, daß ich Harst war, daß mein Freund Schraut mit dabei … Weshalb die schlaue Flucht im Auto?! Weshalb brachten Sie Ihr Anliegen nicht sofort vor, nachdem wir wieder zu uns gekommen waren?!«
 
 Sie blickte mich lange an … »Borgutzki war mir im Wege, Herr Harst …«
 
