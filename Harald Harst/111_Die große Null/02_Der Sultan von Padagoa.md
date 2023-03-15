@@ -12,7 +12,7 @@ vielleicht verwundert den Kopf schütteln und denken:
 tun?!« —
 
 Geneigter Leser! Vergiß nicht: Du liest Harald Harst-Abenteuer,
-nicht altbackene Romane der Marlitt und ihrer
+nicht altbackene Romane der Marlitt<@refnote 1/> und ihrer
 Nachbeter! Du liest das, was Dich wie den Monteur
 Zwicker für Stunden die klägliche Misere des Markschwundes
 von anno 1923 vergessen machen will! Du liest das, was
@@ -59,7 +59,7 @@ Verhöre, das ich je mitgemacht habe.
 Ein Kampf war’s mit geistigen Waffen zwischen zwei
 fast ebenbürtigen Gegnern, ein Kampf um ein Geheimnis.
 
-Harst hatte in die Tasche seiner gestickten Joppe gegriffen
+Harst hatte in die Tasche seiner geflickten Joppe gegriffen
 und sein goldenes Zigarettenetui hervorgeholt, das
 auf der Rückseite als ewiges Andenken an Indien die tiefe
 Einbuchtung einer Pistolenkugel trug.
@@ -151,7 +151,7 @@ wegschaffte und das Haus versperrte. Vorher schon hatten
 sich Zwicker und der andere Beauftragte vorsichtig gedrückt.
 Daß Sie, Herr Harst, hier oben niedergeschlagen worden
 waren, entnahm ich aus der Art, wie man Sie wegbrachte.
-Mit ihrem Erscheinen hier rechnete ich in keiner Weise.
+Mit Ihrem Erscheinen hier rechnete ich in keiner Weise.
 Erst als die Uhr dort an der Wand so leise und hastig dreimal
 schlug, als dann Rehbein und die verschleierte Dame
 schleunigst von hier sich entfernten, nachdem der Bucklige
@@ -159,7 +159,7 @@ noch schnell den Apparat dort in Gang gesetzt hatte …«
 
 Er blickte nach der Sanduhr und der Wage hin.
 
-» … da hoffte ich, daß Sie es vielleicht sein könnten,
+»… da hoffte ich, daß Sie es vielleicht sein könnten,
 der ahnungslos die Alarmuhr eingeschaltet hatte …«
 
 »Ah — die Türschwelle des Vorderzimmers unten!«
@@ -305,7 +305,7 @@ Wir saßen mit dem Rücken nach dem Fenster hin.
 
 Als wir uns jetzt umwandten, war der dicke Vorhang
 oben beiseite geschoben, und durch die oberen Fensterflügel,
-die sich geräuschlos geöffnet hatten, schauten zwei Gauner
+die sich geräuschlos geöffnet hatten, schauten zwei Männer
 ins Zimmer — zwei Herren, möchte ich genauer sagen …
 
 Beide jung und bartlos, beide mit modernen Filzhüten
@@ -329,7 +329,7 @@ werden, hoffe ich. Ich schlage Ihnen folgendes vor: Sie
 beide versichern mir — Ihr bloßes Versprechen genügt mir
 — mich auf einer längeren Seereise für etwa drei Monate
 zu begleiten — als meine Gäste. Sie beide finden sich
-morgen abend, also am ersten, abends neun Uhr, mit ihrem
+morgen abend, also am elften, abends neun Uhr, mit Ihrem
 Gepäck in Hamburg ein, wo ich Sie von der Alsterbrücke
 abholen lassen werde. Ihrer Frau Mutter erklären Sie,
 daß Sie beruflich verreisen müssen. Im übrigen verschweigen
@@ -410,7 +410,7 @@ Beene durch die Keller …«
 
 »Nu ja doch. Durch die jroßen Keller von die alte
 Bierbrauerei, die in det Buch von’n Baurat Günter über
-Alt-Berlin erwähnt sein dun, Herr Kommissar. In dej
+Alt-Berlin erwähnt sein dun, Herr Kommissar. In det
 Buch heeßt es doch: »Det Jebeide Brückenjang Nummer sechs
 enthielt eine der ersten jrößeren Bierpantschereien von Balin.
 Een Teil von die andern Jebeide im Brückenjang
@@ -419,7 +419,7 @@ hinziehn, wo die Brauerei von Benecke een zweites Haus besaß.
 <@pagebreak/>
 Die Einjänge dieser Keller sind polizeilicherseits schon 1835
 vermauert worden, und die Tatsache ihres Vorhandenseins
-nur noch wenigen bekannt.« — Ja, so steht det nu in
+is nur noch wenigen bekannt.« — Ja, so steht det nu in
 den Schmöker, Herr Kommissar.«
 
 Dann änderte Harald plötzlich die Stimme:
@@ -578,11 +578,11 @@ fünf morgens, als ich die Nachttischlampe ausschaltete. Ich
 erwachte um halb eins mittags. Um ein Uhr war ich
 drüben in Haralds Arbeitszimmer. Auf dem Sofatisch
 stand das Frühstück für mich bereit. Dort lag aber auch
-ein Brief den Harald an mich, mit Bleistift geschrieben.
+ein Brief von Harald an mich, mit Bleistift geschrieben.
 
 > »Lieber Alter, bestelle morgen L. B. einen Gruß
 von mir. Ich halte mein Versprechen ihm gegenüber.
-— Wiedersehen — Harald.«
+— Wiedersehen. — Harald.«
 
 Frau Harst, seine Mutter, teilte mir dann mit, daß er
 bereits um neun mit seinem Koffer davongefahren sei, nachdem
@@ -609,7 +609,7 @@ Um einviertel zehn kam ein geschlossenes
 Auto, hielt an der Bordschwelle, und der Chauffeur rief mir
 mit Barrings Stimme zu, daß ich einsteigen solle.
 
-Im Auto saßen zwei Herrn, die höflich die Hüte zogen.
+Im Auto saßen zwei Herren, die höflich die Hüte zogen.
 Es waren dieselben Leute, die uns Brückengang Nr. 6 mit
 den Luftpistolen bedroht hatten. Während der etwa
 einstündigen Fahrt unterhielten wir uns über allerlei — ganz
@@ -629,10 +629,10 @@ zum Souper Toilette zu machen. Der Steward würde mich
 rufen.
 
 All das war reichlich sonderbar. — Ich zog den Smoking
-an. Kaum war ich fertig, als es auch schone klopfte.
+an. Kaum war ich fertig, als es auch schon klopfte.
 
 Nicht der Steward, sondern Lionel Barring im Frack
-und Lackschuhen, eine Tuberose<@refnote 1/> im Knopfloch, das Monokel
+und Lackschuhen, eine Tuberose<@refnote/> im Knopfloch, das Monokel
 im Auge, trat ein, verbeugte sich und sagte sehr höflich:
 
 »Zu meinem Bedauern muß ich Ihnen mitteilen, Herr
@@ -659,9 +659,9 @@ Er ist nicht auf der Alsterbrücke erschienen.«
 warf ich ein.
 
 Barring war überrascht. »Das ändert die Sachlage,
-Herr Schraut. Ich wollte Sie hier als — Gefangenen behandeln.
+Herr Schraut. Ich wollte Sie hier als … Gefangenen behandeln.
 Nun, Ihr Freund scheint dann eben tatsächlich
-verhindert zu sein. Trotzdem bleiben *Sie* an Bord.
+verhindert zu sein. Trotzdem bleiben *Sie* an Bord. —
 Bitte, folgen Sie mir …« —
 
 Man stelle sich vor: ein steckbrieflich verfolgter Verbrecher
@@ -721,7 +721,7 @@ ausmalte, welche Schurkereien dieser deklassierte Lord, dieser
 Barring, mit ihnen vorhaben könnte, dann schmeckte mir weder
 der warme Hummer mit Trüffelbutter, noch der delikate
 Filetbraten, weder der Chateau Margaux 1912, noch der
-Heidsteck Monopol.
+Heidsieck Monopol.
 
 Aber — ich aß dennoch! Man muß doch satt werden.
 
@@ -730,7 +730,7 @@ und Magnus Holster — Verbrecher, Gescheiterte gleich
 Barring, aber Leute von tadellosen Umgangsformen. Kalt
 lächelnd erzählte mir Holster, daß in der Nacht vom 9. zum
 10\. in Berlin in dem Gebäude der Kartonfabrik Uhlig der
-Waffenschrank erbrochen und ausgeplündert worden sei. —
+Kassenschrank erbrochen und ausgeplündert worden sei. —
 Mir blieb der Bissen im Halse stecken. Während die Kriminalpolizei
 sich also um die Mordsache Rastein-Wogitsch im
 <@pagebreak/>
@@ -779,7 +779,7 @@ Nun — ich brauchte nicht lange zu grübeln.
 Barring kam. Barring war blaß vor Wut, fauchte
 mich an:
 
-»Herr. Sie — nur Sie haben den Wachskopf zertrümmert,
+»Herr, Sie — nur Sie haben den Wachskopf zertrümmert,
 <@pagebreak/>
 den ich in meinem Koffer verschlossen hielt!!
 Herr, das ist für die große Null ein Verlust von 3000 Pfund
@@ -842,7 +842,7 @@ die Reise fortsetzen und Ägypten, Suez und Kairo, die
 Pyramiden, den Nil und Chartum erst auf der Rücktour
 besichtigen solle.
 
-Der alte Matrose mit dem blauroten Riechorgen, der
+Der alte Matrose mit dem blauroten Riechorgan, der
 sich übrigens Jan Jensen nannte und doch Harald Harst
 hieß, hielt sich bis zum Suez-Kanal von mir fern. Ich tat,
 als ginge er mich nichts weiter an. Inzwischen hatte ich mir
@@ -856,7 +856,7 @@ Als wir den Suez-Kanal passiert hatten und die Hitze
 <@pagebreak/>
 im Roten Meere zu schmecken bekamen, stattete Jan Jensen
 mir nachts den zweiten Besuch ab — ganz überraschend.
-Als ich zu Bett geben wollte, schlüpfte er in die Kabine und
+Als ich zu Bett gehen wollte, schlüpfte er in die Kabine und
 riegelte die Tür hinter sich ab, schaltete das Licht aus und
 zog mich auf den Bettrand neben sich.
 
@@ -876,11 +876,11 @@ Schweiß und Fusel!
 »Tatsache ist,« fuhr er ebenso leise fort, »daß Barring
 in Wogitschs Wohnung irgendwelche Papiere gefunden hat,
 die verheißungsvoll sind. Diese Papiere, mein Alter,
-erwähnte Barring eines abends, als ich ihn an Deck im Gespräch
+erwähnte Barring eines Abends, als ich ihn an Deck im Gespräch
 mit Doktor Lorenzen und Magnus Holster, seinen
 Vertrauten, belauschte. Diese beiden Herren sind im übrigen
 niemand anderes als Barrings Freunde von Schloß
-Gnir her: Mr. Barne und Mr. Tobergeul! Es fehlt noch
+Gnir her: Mr. Barne und Mr. Tabergoul!<@refnote/> Es fehlt noch
 der dritte, der damals mit Barring entkam, nämlich James
 Olden, der Reitknecht. Wer weiß, wo der Lump steckt.«
 
@@ -947,7 +947,7 @@ sie durch. Da … nehmen Sie, Herr Schraut! Sehen Sie
 sich das Bild auf der vorletzten Seite an, das zu dem Artikel
 »Moderne Raubritter« gehört …«
 
-Ich tat’s. Es war … Lionel Barring!! —
+Ich tat’s. — Es war … Lionel Barring!! —
 
 Das war für mich eine böse Zwickmühle! Ich hatte
 Barring versprochen, nichts zu verraten. Was sollte ich
@@ -1002,7 +1002,7 @@ des endlosen Meeres auf. Barring war jetzt sehr nervös.
 Er ging viel auf Deck allein hin und her und schien angestrengt
 nachzugrübeln.
 
-Und abermals vier Tage später kam vormittags Land
+Und abermals vier Tage später kam nachmittags Land
 in Sicht. Barring behauptete beim Abendessen, es sei die
 Westküste von Vorderindien. Das war Schwindel: wir
 nahten uns der Insel Sumatra, dem — — Sultanat
@@ -1020,7 +1020,7 @@ Fürsten hat man eine Scheinselbständigkeit belassen. Sie
 nennen sich zumeist Sultan, und die Holländer haben bei
 der großen Ausdehnung der Insel an einigen entlegenen
 Sultanaten so wenig Interesse, daß sie an diesen Fürstenhöfen
-nicht einmal Staatskommisare, also Aufpasser,
+nicht einmal Staatskommissare, also Aufpasser,
 halten. — —
 
 An demselben Abend noch fuhr die Jacht vorsichtig in
@@ -1083,7 +1083,7 @@ hierher. Der — — Tanz geht los!«
 »Sahst Du die Schwimmer?« fragte ich ebenso hastig.
 
 <@pagebreak/>
-»Ja… — Fenster zu! Vorhang vor! Dann Licht!«
+»Ja … — Fenster zu! Vorhang vor! Dann Licht!«
 
 Das Licht flammte auf. Harald riß sich Perücke und
 Bart herunter, reinigte das Gesicht, nahm einen seiner
@@ -1096,7 +1096,7 @@ herein …
 Im selben Moment vom Deck her zwei gellende
 Schreie …
 
-Dann Stile …
+Dann Stille …
 
 Dann …
 
@@ -1189,7 +1189,7 @@ paar Stunden schlafen. Der Morgen graut. Gute Nacht.«
 
 Eine Verbeugung, und er ging hinaus. — Ich fand
 ihn gleich darauf in meiner Kabine, wo er sich eine Hängematte
-ausgespannt hatte und bereits friedlich da oben zu
+aufgespannt hatte und bereits friedlich da oben zu
 schlummern schien.
 
 Ich legte mich gleichfalls nieder, schlief ein. — —
@@ -1210,7 +1210,7 @@ In dem steilen Felsenufer des weiten Lagunensees
 öffnete sich nach Norden zu eine Art Kanal, der in einen
 zweiten See führte. Hier lag am Ostufer die Stadt Padagoa,
 zumeist aus Bambushütten bestehend, und jenseits auf
-einem steilen Berge die aus Granit aufgeführte Sultansburg,
+einem steilen Berge die aus Granit ausgeführte Sultansburg,
 ein Bau von phantastischem Geschmack, trotzdem
 imposant und wuchtig. —
 
@@ -1219,7 +1219,7 @@ brachten uns durch die Straßen der Stadt zum Schlosse
 empor.
 
 Jetzt erst erklärte Harald genau so unvermittelt wie
-stets: »ich habe mich, was Wogitschs Tod betrifft, sehr geirrt.
+stets: »Ich habe mich, was Wogitschs Tod betrifft, sehr geirrt.
 Rehbein ist niemals der Mörder. Wir werden den
 <@pagebreak/>
 buckligen Schuster hier stark verändert wiederfinden.«
@@ -1288,7 +1288,7 @@ größtenteils hier in Padagoa auf. In Berlin erregte ihre
 fremdartige Schönheit eine unseren Heimlichkeiten sehr nachteilige
 Bewunderung. Aus Liebhaberei hatte zuerst ich das
 Modellieren in Wachs und dann auch das Herstellen von
-Wachsfiguren betrieben. — So genossen wir unser aufregendes
+Wachsfiguren betrieben. — So genossen wir unser anregendes
 Doppelleben fast zwanzig Jahre völlig ungestört. Oft
 war mein Bruder in der letzten Zeit über ein Jahr und
 länger von Berlin abwesend und erledigte hier seine nur
@@ -1310,7 +1310,7 @@ Matrose der Jacht in Suez gekauft hatte, in die Hand kam.
 Ich fand darin einen Artikel über diese Palastrevolution
 und über die Flucht des Sultans nebst seiner Tochter, ferner
 zum Schluß die Nachricht, daß die Bevölkerung hier den
-Rivalen Ihren Bruders wieder vertrieben und die Rückkehr
+Rivalen Ihres Bruders wieder vertrieben und die Rückkehr
 ihres bewährten Staatsoberhauptes gewünscht hätte,
 dessen Aufenthalt jedoch unbekannt sei. — Ihr Bruder ist
 im Hause Brückengang 6 von diesem Rivalen oder von

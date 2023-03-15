@@ -19,7 +19,7 @@ die da scheinbar in der Luft ihren Weg gen Süden
 nahm, aufmerksam gemacht hatte.
 
 Wir waren vor zwei Tagen hoch zu Kamel von Sirsa
-(an der Bahnlinie Lahore-Alwar aufgebrochen und nach
+(an der Bahnlinie Lahore—Alwar aufgebrochen und nach
 Südwesten in die indische Thar-Wüste, für uns ein längst
 bekanntes Gebiet, hineingeritten, um so nach Gagawar, der
 Residenz der Fürstin von Gagawar, zu gelangen. Wir hätten
@@ -40,7 +40,7 @@ Unser Lagerplatz hier in der Wüste lag am Abhang einer
 jener in der Thar so häufigen vereinzelten Felsenhügel, wodurch
 ein paar armselige Palmen beschattet und von Steinblöcken
 im Dreiviertelkreis umgeben. Unsere drei Tiere waren
-mit ihrer Morgenmahlzeit längst fertig und kauten mit
+mit ihrer Morgenmahlzeit längst fertig und käuten mit
 dem ganzen phlegmatischen Wohlbehagen dieser hochbeinigen
 Viecher die kräftige Maiskost nochmals wieder.
 
@@ -71,7 +71,7 @@ verbrecherischen Elemente ist, die in den Randgebieten dieses
 unermeßlichen Landstrichs der scharfen indischen Polizei sich
 entziehen wollen. Eine Verfolgung in die Thar hinein ist
 <@pagebreak/>
-so gut wie zwecklos, da die größtenteils ungewohnten Wüstenstrecken
+so gut wie zwecklos, da die größtenteils unbewohnten Wüstenstrecken
 mit ihren zerklüfteten, armseligen Höhenzügen unzählige
 Verstecke bieten. —
 
@@ -138,7 +138,7 @@ Und so konnte denn Harald mit einigem Recht mir zuflüstern:
 »Der Führer der überfallenen Karawane ritt gleichfalls
 einen Schimmel! Wenn’s nun dieselbe Karawane wäre!«
 
-Dann war der schwarzbärtige Ratschpute, ein echter, stolz
+Dann war der schwarzbärtige Radschpute<@refnote 1/>, ein echter, stolz
 blickender Bewohner der Thar, schon dicht vor uns, musterte
 uns durchdringend und wollte ohne Gruß vorüber.
 
@@ -146,24 +146,24 @@ Harst rief ihm zu, indem er sich des Englischen bediente:
 »Zügle Dein edles Roß für kurze Zeit, Fremder. Wir
 möchten Dich einiges fragen.«
 
-Der Ratschpute drückte sein Pferd mehr an die Schluchtwand
+Der Radschpute drückte sein Pferd mehr an die Schluchtwand
 und winkte den vorderen Kameltreibern zu.
 
 Die Karawane hielt.
 
 Diese Bereitwilligkeit des Führers, uns Rede und Antwort
 zu stehen, machte mich stutzig. Wer jemals mit reinblütigen
-Ratschputen zu tun gehabt hat, weiß, daß sie zu den
+Radschputen zu tun gehabt hat, weiß, daß sie zu den
 erbittertsten Europäerhassern gehören.
 
-»Frage, Sahib,« erklärte der Ratschpute nun, indem er
+»Frage, Sahib,« erklärte der Radschpute nun, indem er
 uns nochmals seltsam scharf und prüfend anschaute.
 
 »Ihr seid vorhin von Lakschaias bin Tobranir angehalten
 worden?« begann Harst, während sich immer mehr
 Kameltreiber um uns versammelten.
 
-»Du irrst, Sahib,« entgegnete der Ratschpute. »Wir
+»Du irrst, Sahib,« entgegnete der Radschpute. »Wir
 sind von niemandem angehalten worden.«
 
 »Dein Gedächtnis hat Dich verlassen. — Weshalb
@@ -173,7 +173,7 @@ zeigt Dein Mantel frische Blutspuren?«
 
 »Ich bin vom Pferde gefallen, Sahib!«
 
-Harald lachte. »Ein Ratschpute, der mit dem Pferde
+Harald lachte. »Ein Radschpute, der mit dem Pferde
 stürzt, ist eine Seltenheit! — Bist Du ein Untertan der Rani
 von Gagawar?«
 
@@ -194,7 +194,7 @@ künstlerisch beschrieben und hatte unten neben dem
 Namenszug der Rani von Gagawar eine Art Siegel aus
 vergoldetem Wachs.
 
-Harald zeigte die entfaltete Urkunde dem Ratschputen
+Harald zeigte die entfaltete Urkunde dem Radschputen
 und sagte strengen Tones: »Dies ist ein Geleitbrief der
 Fürstin Aranda ben Soharawi von Gagawar. Jeder, wer
 es auch sei, hat mir dem Wortlaut dieser Urkunde nach
@@ -202,7 +202,7 @@ Gehorsam zu leisten, sobald ich mich innerhalb der Grenzen des
 Fürstentums befinde. Ich befehle Dir also, mir die Wahrheit
 zu sagen. — Man hat Euch überfallen?«
 
-Der Ratschpute senkte den Kopf noch tiefer. Und dann,
+Der Radschpute senkte den Kopf noch tiefer. Und dann,
 dann kam über seine Lippen ein schriller Pfiff.
 
 Blitzschnell hatten sich da drei Kerle von hinten mit
@@ -220,7 +220,7 @@ auf unseren Leibern, umkrallten unsere Arme, Beine, preßten
 uns übelduftende Decken auf die Gesichter, fesselten uns und
 schleppten uns fort.
 
-Der Tragekorb eines Lastkamele nahm mich auf. Und
+Der Tragekorb eines Lastkamels nahm mich auf. Und
 volle sechs Stunden wurde ich hier in dem engen Bastbehälter
 derart durchgerüttelt, daß ich kaum noch auf den
 Beinen stehen konnte, als man mich nach diesem endlosen
@@ -297,6 +297,7 @@ uns diese Haft zudiktiert!«
 »Gewiß! Wer sonst. — Nehmen wir dort im Schatten
 Platz und sorgen wir für unser leibliches Wohl. Ich habe
 Hunger nach den sechs Stunden Kamelritt im Tragkorbe.«
+
 Daß war so recht mein alter unverwüstlicher Harald,
 der nun zunächst seine Taschenuhr sorgfältig aufzog und dabei
 meinte: »Halb ein Uhr mittags am 29. Juli! Merken
@@ -394,7 +395,7 @@ Hinterher schlenderten wir beide, noch immer auf
 Strümpfen, die Schuhe über dem Rücken. Sie wären uns
 beim lautlosen Erklimmen der Barrikade hinderlich gewesen.
 
-Dann mußten die vier sich niederlegen. Unser Lagerfeuer
+Dann mußten die vier sich niedersetzen. Unser Lagerfeuer
 <@pagebreak/>
 flammte wieder auf, und — — das Verhör begann.
 Zuerst wollten die Leutchen Harst anlügen. Sie gaben es
@@ -408,16 +409,16 @@ war vieldeutig genug.
 Die vier stammten aus einem Dorfe bei Gagawar und
 verdienten seit Jahren als Kameltreiber ihr ärmliches Brot.
 Die von uns beobachtete Karawane hatte die Residenz Gagawar
-vorgestern abend verlassen. Die sämtlichen zweiundvierzig
+vorgestern abend verlassen. Die sämtlichen zweiunddreißig
 Lastkamele samt der Ladung waren Eigentum des
-Kaufmanns Harun Said, eines Persers, der in Gagawar
+Kaufmanns Harum Said, eines Persers, der in Gagawar
 das größte Exporthaus besaß. Der Führer der Karawane,
 jener Schimmelreiter, hieß Marsa Sibra und war des Persers
 vertrauter Freund und Bevollmächtigter. Heute morgen
-dann hatten sechzig Ratschputen die Karawane umzingelt.
+dann hatten sechzig Radschputen die Karawane umzingelt.
 Diese Leute waren sämtlich maskiert gewesen und hatten
 Tücher mit Augenlöchern vor dem Gesicht getragen. Ihr
-Anführer hatte den Ratschputen Marsa Sibra, der nicht sofort
+Anführer hatte den Radschputen Marsa Sibra, der nicht sofort
 gehorchen wollte, durch einen Revolverschuß an der
 Hand verwundet. Die Maskierten raubten jedoch nichts,
 sondern durchsuchten nur Marsa Sibras Kleider und die
@@ -427,11 +428,11 @@ ihm geflüstert, hatte Marsa Sibra ein Fernglas gegeben
 und ein Päckchen und war mit den Seinen davongesprengt.
 Die Karawane brach wieder auf, wurde aber von Marsa
 Sibra nunmehr derart geführt, daß sie uns beiden begegnen
-mußte. Der Ratschpute hatte den von uns eingeschlagenen
+mußte. Der Radschpute hatte den von uns eingeschlagenen
 Weg lediglich dadurch erkannt, daß wir immer wieder ganze
 Schwärme von Onus, von indischen Wüstenstaren, aufgescheucht
 hatten, und diese aufschwirrenden Vogelwolken waren
-uns mithin verhängnisvoll gewesen. Der Ratschpute
+uns mithin verhängnisvoll gewesen. Der Radschpute
 hatte inzwischen auch seine zwölf Kameltreiber eingeweiht
 <@pagebreak/>
 und ihnen Geld versprochen, wenn sie ihm hülfen, zwei Europäer
@@ -557,7 +558,7 @@ fließendem Englisch:
 »Ich mache Sie zunächst darauf aufmerksam, Mister
 Harst, daß die erste verdächtige Bewegung Ihrerseits durch
 ein paar Pfeilschüsse dort aus den Büschen beantwortet werden
-würde. Sie wissen ja, daß die ratschputischen Hirten der
+würde. Sie wissen ja, daß die radschputischen Hirten der
 Thar noch heute die Wölfe mit Pfeil und Bogen erlegen.
 Also — richten Sie sich danach! — Dann: ich hätte einiges
 mit Ihnen beiden zu besprechen. Wenn Sie mir versichern,
@@ -588,7 +589,7 @@ Da endlich begann der Unbekannte: »Die Zigarette hat
 Sie verraten, Mr. Harsts. Kein Ellawin wird je durch Tabak
 oder Alkohol seinen geweihten stummen Mund verpesten.
 Das haben Sie übersehen. Im übrigen meine Hochachtung:
-ihre Verkleidung und Ihr Benehmen mußten den alten
+Ihre Verkleidung und Ihr Benehmen mußten den alten
 Moali täuschen. Meine Leute waren denn auch im Zweifel,
 ob Sie und Ihr Freund es sein könnten, die da durch das
 Westtor in die Stadt einritten.«
@@ -719,8 +720,8 @@ mit dem Entfärbungsmittel geöffnet.
 
 Nie werde ich des alten Moali entsetztes Gesicht vergessen,
 als das schöne Braun unserer holden Züge immer
-mehr alles indische verlor und schließlich nur noch die ehrliche
-Sonnenbräune bartloser Europäerwangen übrig blieb.
+mehr alles Indische verlor und schließlich nur noch die ehrliche
+Sonnenbräune bartloser Europäerwangen übrigblieb.
 
 Und gerade als Harald nun in die Kniebeinkleider seines
 Sportanzugs schlüpfte, gerade als auch ich über mein
@@ -760,7 +761,7 @@ Kreaturen desselben Inders sein, den ich vorhin so rasch
 davon überzeugte, daß ich seine Ränke durchschaue. Freiwillig
 werden die Herren Konkurrenten kaum das Feld
 räumen. Wir werden vielleicht einen schweren Stand
-haben!«
+haben!« —
 
 Und eine Viertelstunde später erfolgte dann der —
 Kladderadatsch.
@@ -779,7 +780,7 @@ hatte nur immer wieder verlangt, daß Sir Marringow
 herbeigeholt würde.
 
 Die Stallhütte war jetzt mit Polizisten angefüllt, die
-ums eingekreist hatten. Fünf große Laternen beleuchteten
+uns eingekreist hatten. Fünf große Laternen beleuchteten
 die denkwürdige Szene.
 
 Plötzlich von der Straße her Hupensignale und Autogeräusch.
@@ -867,7 +868,7 @@ gebracht, wo Britt uns ein Zimmer mit vergitterten
 Fenstern als Zelle anwies, denn nach den für Europäer
 geltenden gesetzlichen Bestimmungen darf in Indien kein
 Weißer mit Farbigen zusammen eingekerkert werden, und die
-Zellen des Polizeigefängnisses waren sämtlich belegt.
+Zellen des Polizeigefängnisses waren sämtlich besetzt.
 
 Dieses Zimmer, ein Raum zur Aufbewahrung von
 Akten, wurde nun plötzlich zum Schauplatz höchst eigenartiger
@@ -899,7 +900,7 @@ Harald Harst. Vielleicht waren Sie damals schon hier in
 Gagawar und vielleicht besinnen Sie sich noch auf einige
 Einzelheiten.«
 
-Und — siehe da! — Jetzt wurde der Herr Polizeichef doch
+Und — siehe da! — jetzt wurde der Herr Polizeichef doch
 ein wenig unsicher, zumal Harald nochmals in die Muschel
 des Hörers hineinrief, man solle ihn schleunigst mit Bikanir
 verbinden.
@@ -934,7 +935,7 @@ Und würden Sie auch die Schrauts erkennen?«
 
 Nun mußte ich Freund Banis am Telephon begrüßen,
 den kleinen Banis, der mit uns und Douglas Railfax eine
-volle Woche hinter der Karawanenräubern hergewesen war.
+volle Woche hinter den Karawanenräubern hergewesen war.
 
 Mein Organ hat seine besonderen Reize. Es klingt
 wie die Stimme aus einem schlechten Trichterphonographen
@@ -950,15 +951,15 @@ Was Banis ihm zurief, konnten wir ja nicht verstehen.
 Jedenfalls wurde der Dicke wieder beängstigend blaurot. —
 
 Britt legte den Hörer weg … schaute uns an. Machte
-ein Gesicht wie ein Kater, dem man Tabaksaft ins Maul
+ein Gesicht wie ein Kater, dem man Tabakssaft ins Maul
 geschmiert hat.
 
-»So — was nun?!« brummte er verlegen.
+»Ja — was nun?!« brummte er verlegen.
 
 »Nun rufen Sie mal Ihre Garde herein, alle Mann
 hoch!«
 
-Und die baumstarken Ratschputen marschierten an der
+Und die baumstarken Radschputen marschierten an der
 Wand auf.
 
 »Tür zu!« befahl Harald. »So, nun will ich Ihnen,
@@ -1023,7 +1024,7 @@ Granit, mußte aus Haidarabad bezogen werden. Kein
 Wunder, daß elf Jahre vergingen, bis diese Nachbildung des
 berühmten Tatsch Mahal fertig wurde.
 
-Kein Wunder auch, daß Harald und ich staunend stehenblieben,
+Kein Wunder auch, daß Harald und ich staunend stehen blieben,
 als wir am Ende einer Pinienallee nun den Palast
 im Mondlicht auf seinem Unterbau von Granit, umgeben von
 <@pagebreak/>
@@ -1108,7 +1109,7 @@ Mr. Harst. Der Tempel ist lediglich ein Wohngebäude
 im Tempelstil.«
 
 »Gut, sehen wir zu, ob die Herrschaften noch anwesend
-sind.« —
+sind.« — —
 
 Ich will mich jetzt kürzer fassen, denn die nächsten Geschehnisse
 sind für die handelnden Personen zu wenig charakteristisch.
@@ -1119,7 +1120,7 @@ in ein dichtes Gebüsch an der Hauswand. Und eine
 Besichtigung der Panzertür des Schatzzimmers im Westturme
 zeigte, daß an den Schlössern mit Nachschlüsseln gearbeitet
 worden war. Daraufhin wurde der erste Minister der
-Rani, ein reinblütiger Ratschpute, herbeigeholt — in aller
+Rani, ein reinblütiger Radschpute, herbeigeholt — in aller
 Stille. Er war es, der die Schlüssel zum Schatzzimmer in
 Verwahrung hatte.
 
@@ -1219,7 +1220,7 @@ verschleiern halfen!«
 Ich war bereite ins Bett geschlüpft und auch zu müde,
 um noch über dieses »Verschleiern« weiter nachzudenken. Ich
 schlief ein, nachdem ich Harald kaum eine »Gute Nacht!«
-gerufen hatte.
+zugerufen hatte.
 
 <@pagebreak/>
 
@@ -1232,7 +1233,7 @@ Halb elf Uhr vormittags.
 In unserem Wohngemach saßen wir beide am sauber
 und europäisch gedeckten Frühstückstisch. Zwei Inder bedienten
 uns, Männer mit undurchdringlichen Gesichtszügen,
-mit Augen, die der Stolz des Ratschputenstammes kalt und
+mit Augen, die der Stolz des Radschputenstammes kalt und
 gefühllos erscheinen ließ, jedenfalls keine angenehme Zugabe
 des im übrigen idyllischen Quartiers.
 
@@ -1261,7 +1262,7 @@ Und als ich nun, die Brittsche Waffe schußfertig, an der
 Tür lehnte, waren die starren Gesichter der beiden Diener
 erdfarben geworden.
 
-»Da — trinkt den Tee!« befahl Harst den Ratschputen
+»Da — trinkt den Tee!« befahl Harst den Radschputen
 und deutete auf die gefüllten Täßchen.
 
 Sie zögerten, tauschten einen langen Blick aus.
@@ -1290,7 +1291,7 @@ hallende feste Schritte.
 
 Es klopfte. — Sir Marringow trat ein.
 
-Stutzte beim Anblick der Tassen. »Was geht hier
+Stutzte beim Anblick der Waffen. »Was geht hier
 vor?« fragte er sichtlich bestürzt. »Haben diese Leute
 irgendwie —«
 
@@ -1303,7 +1304,7 @@ fielen in Krämpfe.
 Sir Marringow eilte ins Schloß hinüber. In vier
 Minuten war er mit dem englischen Leibarzt der Rani zur
 Stelle. Doktor Burson hatte eine Reiseapotheke mitgebracht.
-Wir flößten den bereite Bewußtlosen Gegenmittel ein.
+Wir flößten den bereits Bewußtlosen Gegenmittel ein.
 Burson fuhr dann mit den Dienern im Auto ins englische
 Hospital. Harst warnte ihn noch: »Lassen Sie keinen Inder
 an die Betten der Kranken heran!« —
@@ -1311,7 +1312,7 @@ an die Betten der Kranken heran!« —
 Marringow saß bleich im Sessel in unserem Wohngemach.
 
 »Dieser infame Schurkenstreich muß restlos aufgeklärt
-werden, Mister Harst! Restlos!« sagte er, sich mühsam zur
+werden, Mister Harst! Restlos!!« sagte er, sich mühsam zur
 Ruhe zwingend. »Die Fürstin ist schon des zweiten Diebstahls
 wegen in großer Aufregung. Um zwölf Uhr wünscht
 sie Sie beide zu sprechen, ganz ohne Zeremoniell, meine Herren.
@@ -1354,7 +1355,7 @@ So lernten wir nun den Palast von Gagawar von
 innen kennen. Staunten aufs neue, staunten noch mehr, als
 wir der jungen Rani gegenüberstanden.
 
-Nur Sir Marringow war noch in dem hellen Gemach
+Nur Sir Marringow war noch in dem hellen Gemache
 anwesend. Nur er war Zeuge, wie die Fürstin, nachdem
 sie uns in herzlichsten Form begrüßt hatte, in steigender Erregung
 über die Giftattentate sich äußerte und Harald geradezu
@@ -1368,7 +1369,7 @@ eine sehr liebreizende Frau, hatte eine Hautfarbe von mattem
 Bronzeton und beherrschte sechs Sprachen. Sie gehörte zu
 jenen indischen Herrscherinnen, die der europäischen Kultur
 <@pagebreak/>
-und Technik in ihrem Lande gerade so viel Verbreitung gestattet,
+und Technik in ihrem Lande gerade so viel Verbreitung gestatten,
 als es mit der Eigenart der Bevölkerung in Einklang
 zu bringen ist. —
 
@@ -1393,7 +1394,7 @@ konnte der Fürstin melden, daß die Diener mit dem Leben
 davonkommen würden.
 
 »Und doch werden sie nichts verraten,« sagte die Rani
-leise zu Harald. »Ich kenne meine Ratschputen. Sie werden
+leise zu Harald. »Ich kenne meine Radschputen. Sie werden
 niemals ins Zuchthaus wandern. Sie ziehen den Tod
 der Gefangenschaft vor!«
 
@@ -1470,7 +1471,7 @@ Harald lächelte. Ein liebenswürdiges, gütiges Lächeln
 war’s. Und sagte: »Hoheit, der Smaragd ist nun gefunden.«
 Er sprach deutsch, damit die Diener ihn nicht verstünden.
 »Ich werde jedoch vergessen, daß ich ihn gefunden habe,
-wenn — Hoheit es wünschten!«
+wenn — Hoheit es wünschen!«
 
 Meine ungläubig erstaunten Augen wanderten von
 einem Gesicht zum andern. Ich war ja der einzige von uns

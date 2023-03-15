@@ -12,7 +12,7 @@ Dort hatten Harald Harst und ich Quartier genommen —
 als holländische Kaufleute …
 
 Dort wohnten wir nun, nachdem die Ermordung Ellen
-Gybourgs im Hause gegenüber aufgeklärt war, unter unserem
+Gybourgs im Hause gegenüber aufgeklärt war, unter unseren
 richtigen Namen: Harald Harst und Max Schraut!
 
 Und drüben in Nr. 15 im zweiten Stock wohnte der
@@ -79,7 +79,7 @@ Schaute noch ernster drein …
 »Erschrecken Sie nicht …! Ich werde Detektivinspektor Colley
 anrufen, und man wird dann die Leiche in aller Stille abholen.
 Niemand kann Ihnen irgendeinen Vorwurf machen,
-und dieser Todesfall bleibt geheim, wird ihrer Praxis nicht
+und dieser Todesfall bleibt geheim, wird Ihrer Praxis nicht
 schaden.«
 
 Er schaute die Tote an … bückte sich wieder … sagte:
@@ -121,7 +121,7 @@ Rücken zu und sagte plötzlich:
 
 »Sie, Doktor, und Miß Leewenstac werden nichts dagegen
 haben, daß ich das Kettchen mit dem Skelett vorläufig
-verwalte und daß wir diesen Fund der Polizei verschweigen.«
+behalte und daß wir diesen Fund der Polizei verschweigen.«
 
 Er schien an dem Schirmgriff zu drehen …
 
@@ -247,7 +247,7 @@ Bahnhof von Stromeferry an der gleichnamigen tiefen
 Meeresbucht ein.
 
 <h2>2. Kapitel.</h2>
-<h3>Verfolgung zur See.</h3>
+<h3>Verfolgung zur See …</h3>
 
 Harald hatte bisher nach seiner üblen Manier jedes Gespräch
 über die geheimnisvolle Tote glatt abgelehnt …
@@ -333,7 +333,7 @@ er noch seine Mutter. Herbett heißt er, der Herr …«
 Seine Mutter!! — Harald warf mir da einen verstohlenen
 Blick zu …
 
-Seine Mutter!! Das war die Blonde!! — Fraglos die
+Seine Mutter!! Das war die Blonde!! Fraglos die
 Blonde! —
 
 Aus Vorsicht gab Harald dem Gespräch nun eine andere
@@ -353,9 +353,11 @@ Brillantringen an den Fingern …
 
 »Na, Mister Herbett, einig mit dem Kutterbesitzer Laragan?!«
 
+»Ja …« —
+
 Harald flüsterte rasch:
 
-»Er war auf dem Bahnhof, als wir ankamen: Ich
+»Er war auf dem Bahnhof, als wir ankamen … Ich
 erkenne ihn wieder …« —
 
 »Meine Mutter ist leider noch immer nicht eingetroffen,«
@@ -486,7 +488,7 @@ schon weit in der Welt herumgekommen. Das schärft den
 Blick, Mister Harst. — Also — um was handelt sich’s?«
 
 <@pagebreak/>
-»Sie gefallen wir immer mehr, Hamilton. Ihre kurze
+»Sie gefallen mir immer mehr, Hamilton. Ihre kurze
 Art freut mich. — Hören Sie zu …«
 
 Hamilton, der eine Holzpfeife rauchte, nickte wiederholt,
@@ -518,7 +520,7 @@ hatten, bis wir endlich den Schaden ausgebessert hatten …
 Und da war der Kutter in der windstillen Nacht längst
 nach Westen zu in den offenen Atlantik hinaus entschwunden.
 
-Hamilton fluchte selten … Damals fluchte er.
+Hamilton fluchte selten. Damals fluchte er.
 
 Harst fluchte selten. Damals fluchte er wie ein alter
 Seebär …
@@ -526,7 +528,7 @@ Seebär …
 Ich fluche nie — nur damals tat ich’s — und nicht zu
 knapp!
 
-Nun lagen wir also mit unserem hochbeinigen Benzinkahn
+Nun lagen wir also mit unserem bockbeinigen Benzinkahn
 südlich von Barvas in einer schmalen Bucht der Steilküste,
 machten lange Gesichter und berieten, ob es wohl lohne,
 den Kutter zu suchen.
@@ -571,7 +573,7 @@ Karte, wo die Zeichenerklärungen standen …
 
 Las vor: —
 
-»Wrack des Kreuzers »Connaught« auf den Riffen der
+> »Wrack des Kreuzers »Connaught« auf den Riffen der
 Flannan-Insel. Der Kreuzer, im Weltkriege torpediert,
 wurde von Kapitän Archibald Moncy am 17. Mai 1917
 auf die Klippen gesetzt und soll dort als Denkmal britischer
@@ -680,7 +682,7 @@ hängen diese Tintenflecke doch offenbar mit dem Reiseziel
 des Kutters innigst zusammen, das heißt: der Kutter ist nach
 den Flannan-Inseln unterwegs!«
 
-»Darauf gehe ich jede Weite ein,« lächelte Hamilton.
+»Darauf gehe ich jede Wette ein,« lächelte Hamilton.
 »Wollen Sie mit mir wetten, Mr. Schraut …?«
 
 Ich wollte gutgelaunt etwas erwidern …
@@ -720,7 +722,7 @@ Hamilton holte noch ein Fäßchen Schiffszwieback, ein
 paar Büchsen Konservenfleisch …
 
 Die Jacht sackte ihm unter den Füßen weg. Ein Sprung
-brachte ihn in Sicherheit — zu uns in das Diggy …
+brachte ihn in Sicherheit — zu uns in das Dingi …
 
 Bis zum Ufer waren’s keine zwanzig Meter. Während
 ich ruderte, während Harst, die Clementpistole in der Hand,
@@ -772,7 +774,7 @@ Möwen waren’s, Kormorane, Albatrosse, Wildgänse —
 die ganze Vogelkolonie dieses einsamen Gestades … —
 
 Steuermann Hamilton zog die Riemen mit solcher Kraft
-durch, daß unser Diggy schäumend das Wasser durchschnitt.
+durch, daß unser Dingi schäumend das Wasser durchschnitt.
 
 <@pagebreak/>
 Und Steuermann Hamilton brummte: »Niemals glaube
@@ -797,14 +799,14 @@ Harst hatte mich schnell niedergedrückt …
 Schufte …!! — Hamilton, den Teufel auch, wollen Sie
 sich mal gefälligst ducken …!«
 
-Aber: der Steuermann ruderte weiter, ruderte zur Bucht
+Aber der Steuermann ruderte weiter, ruderte zur Bucht
 hinaus …
 
 Kein Schuß mehr .…
 
 Nichts — nichts …
 
-Hier draußen, wo die Wogen des Atlantiks unser Diggy
+Hier draußen, wo die Wogen des Atlantiks unser Dingi
 auf und ab wiegten, hier zweihundert Meter vom Ufer entfernt,
 sagte Harald:
 
@@ -842,7 +844,7 @@ Und er ruderte wieder, was seine Muskeln nur leisten
 konnten …
 
 Brachte uns glücklich durch die vor der Buchteinfahrt
-stehende Brandung und drückte das Diggy dann so dicht an
+stehende Brandung und drückte das Dingi dann so dicht an
 das himmelhohe, überhängende südliche Steilufer, daß wir
 von oben nicht beschossen werden konnten.
 
@@ -1048,7 +1050,7 @@ ich hatte Augen, nur daß die Haralds weit besser waren!
 Und so mußte ich ihm denn vollkommen recht geben: der
 Mann dort war niemals Matrose von Beruf! Das war
 jemand, der diese Tracht der sonngebräunten Seefahrer zu
-einem käsigen Gesicht trug, dessen erblaßte Farbe mich sofort
+einem käsigen Gesicht trug, dessen erdfahle Farbe mich sofort
 an die von Zuchthäuslern erinnerte.
 
 Und nun, durch Harald aufmerksam gemacht, beobachtete
@@ -1215,7 +1217,7 @@ Stützen wurden von außen lärmend vorgekeilt.
 
 Dann — wurde es still hier im Vorschiff …
 
-Auf Deck lebhaftes hin und her …
+Auf Deck lebhaftes Hin und Her …
 
 Die Ankerkette rasselte … Quietschend scheuerte die
 Laufplanke am Außenbord … Und der Hilfsmotor der
@@ -1277,12 +1279,12 @@ Banditen mit Ihnen anzufangen?«
 Gesellschaft! Aber — den Ton gibt das schwarze Frauenzimmer
 an, die da die Malerin spielte … Ein verteufelt
 hübsches Weib, Mister Harst … Und fraglos was
-vornehmes … Wie die Lämmer benehmen sich die Kerle ihr
+Vornehmes … Wie die Lämmer benehmen sich die Kerle ihr
 gegenüber …«
 
 »Und sonst? Hörten Sie sonst irgend etwas Wichtiges?«
 
-»Hm — nur etwas, Mister Harst … eine Kleinigkeit.
+»Hm — nur etwas, Mister Harst … Eine Kleinigkeit.
 Als der Kerl im Matrosenanzug mich anbrüllte, daß sie
 keine Zeugen brauchen könnten und daß ich den Atlantik
 von unten kennenlernen würde, da sagte das schwarze Weib:
@@ -1292,7 +1294,7 @@ gibt es nicht! Sie haben sich Ihr Schicksal selbst zuzuschreiben!
 Segelkammer!« … Der eine heißt also Groner, und das
 Weib ist nicht gerade weichherzig, Mister Harst …«
 
-Und all das sprach der brave Steuermann inmitten
+Und all das sprach der brave Steuermann Hamilton
 mit der ihm eigenen unnachahmlichen Ruhe hin — etwa so,
 als ob’s ein Wildfremder und nicht er selbst wäre, der da —
 ersäuft werden sollte. —
@@ -1335,7 +1337,7 @@ keuchend, oft hindämmernd in halbem Schlaf, nicht näher
 beschreiben. Ich könnte es. Wäre viel Stimmungsmalerei
 dabei, — eine seltsame Stimmung in seltsamer Lage …
 Da vorn, zwei Meter entfernt, der gefesselte Gefährte …
-und dort weiter in der Kajüte ein Weib, das schön sein sollte,
+Und dort weiter in der Kajüte ein Weib, das schön sein sollte,
 eine schöne Tigerin, erbarmungslos, mit Menschenleben
 spielend …
 
@@ -1390,7 +1392,7 @@ nur. — Sein derbes Seemannsmesser, halb Dolch,
 halb Miniaturbeil, arbeitete rasch und sicher …
 
 Die Füllung wurde beiseitegestellt. Und durch das Loch
-schob Harald sich in die kleine Kombüse hinein, die Küche
+schob Harald sich in die kleine Kombüse hinein, die Küche,
 von der aus eine zweite Tür in die Achterkajüte führte …
 
 Wir, Hamilton und ich, standen nun dicht hinter Harald
@@ -1439,7 +1441,7 @@ Wolkenbank, fast bis zum halben Firmament reichend …
 
 Und dieses schwarze ungeheure Tuch als Hintergrund für
 das seltsamste, phantastischste, unheimlichste Bild, das ich je
-schauten durfte …
+schauen durfte …
 
 Da lag keine dreißig Meter ab, jetzt bei Ebbe das Wrack
 des Kreuzers hoch auf den Klippen …
