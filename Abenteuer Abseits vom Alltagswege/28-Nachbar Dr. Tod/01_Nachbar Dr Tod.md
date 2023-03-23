@@ -469,7 +469,7 @@ Es war das Gesicht eines ernsten, fast melancholischen Gelehrten, es war zugleic
 
 Meine Frage war berechtigt. Turf hatte sich von unserem Hügellager so lautlos entfernt, daß nicht einmal meine übergroße Wachsamkeit es bemerkt hatte.
 
-»Zu Fuß, — und in der Absicht, Ihnen die Arbeit des Spurensuchens abzunehmen«, erwiderte er gleichgültig. »Sie mögen mich ja bisher als Neuling der Wildnis eingeschätzt haben. Das trifft nicht ganz zu. Wenn wir die Erdenwinkel vergleichen wollen, die Sie und ich kennen, würde ich zweifellos besser dabei abschneiden. Meine Wege werden mir sozusagen vorgezeichnet — durch Leute, die nun einmal die Neigung besitzen, andere in Atem zu halten.« Zum ersten Mal spielte da um seinen harten Mund ein Anflug eines fast zynischen Lächelns. Oder — irrte ich mich?! Enthielt dieses Lächeln doch andere Nuancen?!
+»Zu Fuß, — und in der Absicht, Ihnen die Arbeit des Spurensuchens abzunehmen«, erwiderte er gleichgültig. »Sie mögen mich ja bisher als Neuling der Wildnis eingeschätzt haben. Das trifft nicht ganz zu. Wenn wir die Erdenwinkel vergleichen wollen, die Sie und ich kennen, würde ich zweifellos besser dabei abschneiden. Meine Wege werden mir sozusagen vorgezeichnet — durch Leute, die nun einmal die Neigung besitzen, andere in Atem zu halten.« Zum ersten Mal spielte da um seinen harten Mund ein Anflug eines fast zynischen Lächelns. Oder — irrte ich mich?! Enthielt dieses Lächeln doch andere Nüancen?!
 
 Manfred Turf lehnte an einem verkrüppelten Wolfsmilchbaume, während er dieses in seiner einfachen Art erklärte. Im rechten Arm hing ihm die Winchesterbüchse, die linke Hand zerpflückte eine Blüte des giftigen Gewächses.
 
