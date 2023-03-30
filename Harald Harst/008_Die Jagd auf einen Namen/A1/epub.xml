@@ -39,5 +39,6 @@ Gestern abend hatten die Wettgegner Harsts uns die neue Aufgabe gestellt. Und so
 <entry key="pubDate">1920</entry>
 <entry key="cover"></entry>
 <entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
 <entry key="freemarker">true</entry>
 </properties>

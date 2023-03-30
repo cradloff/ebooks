@@ -1,39 +1,31 @@
-<strong>Verlagswerbung:</strong>
+<div style="font-size: x-large; text-align: center;">Empfehlenswerte</div>
 
-<div class="centered">
+<div style="font-size: xx-large; text-align: center;">Kriminal-Bücher</div>
 
-<p><span style="font-size:20px"><strong>Empfehlenswerte</strong></span></p>
+<div style="text-align: center; white-space: pre-wrap;">
+<strong>Die Lahore-Vase.</strong>
+Kriminalroman von <em>W. Kabel</em>.
 
-<p><span style="font-size:24px"><strong>Kriminal-Bücher</strong></span></p>
+<strong>Der hüpfende Teufel.</strong>
+Kriminalroman von <em>W. Kabel</em>.
 
-<p><strong>Die Lahore-Vase.</strong></p>
+<strong>Der Tempel der Liebe.</strong>
+Kriminalroman von <em>W. Kabel</em>.
 
-Kriminalroman von *W. Kabel*.
+<strong>Das Haus am Mühlengraben.</strong>
+Kriminalroman von <em>W. Kabel</em>.
 
-<p><strong>Der hüpfende Teufel.</strong></p>
+<strong>Die Brettldiva.</strong>
+Kriminalroman von <em>R. Ortmann</em>.
 
-Kriminalroman von *W. Kabel*.
+<strong>Frau Zoes Rache.</strong>
+Kriminalroman von <em>H. Hosken</em>.
+<strong>Preis pro Band Mk. 1,50.</strong>
 
-<p><strong>Der Tempel der Liebe.</strong></p>
-
-Kriminalroman von *W. Kabel*.
-
-<p><strong>Das Haus am Mühlengraben.</strong></p>
-
-Kriminalroman von *W. Kabel*.
-
-<p><strong>Die Brettldiva.</strong></p>
-
-Kriminalroman von *R. Ortmann*.
-
-<p><strong>Frau Zoes Rache.</strong></p>
-
-Kriminalroman von *H. Hosken*.
-
-<p><strong>Preis pro Band Mk. 1,50.</strong></p>
-
-<p><span style="font-size:16px">Zu beziehen durch jede Buchhandlung sowie vom</span></p>
-
-<p><span style="font-size:16px"><strong>Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO. 26.</strong></span></p>
 
 </div>
+
+<div style="font-size: large; text-align: center;">:: Zu beziehen durch jede Buchhandlung sowie vom ::</div>
+
+<div style="font-size: large; text-align: center; font-weight: bold;">Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO. 26.</div>
+
