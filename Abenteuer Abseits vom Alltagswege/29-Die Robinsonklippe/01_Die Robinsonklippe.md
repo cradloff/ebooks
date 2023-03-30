@@ -233,10 +233,8 @@ Dann — es war kurz vor meinem Aufbruch in die Wildnis — saß ich wieder einm
 Ein Stein flog über die Mauer, und um den Stein war ein Papier gewickelt, ein Brief.
 
 > An
-
-> > den Pater Menardus,
-
-> > > durch gütige Vermittlung.
+  den Pater Menardus,
+  durch gütige Vermittlung.
 
 Renates Schrift!!
 
@@ -258,39 +256,26 @@ Jetzt erst begann mich seine Geschichte aus meinen halben Träumereien und aus m
 
 Menardus’ stille Augen begegneten den meinen, und zögernd sprach er die dunklen, wortschweren Verse:
 
-> »Aus des Herzens Not<br />
-
-Flammt als feurig Rot<br />
-
-Wie der Abendsonne Schein<br />
-
+> »Aus des Herzens Not
+Flammt als feurig Rot
+Wie der Abendsonne Schein
 Mein Gebet durch mein Sein.
 
-> Stürme, Wellen tragen Worte,<br />
-
-In der Klippen düstre Orte,<br />
-
-Dem Gewissen jäh entrungen.<br />
-
-Sind verschwunden,<br />
-
+> Stürme, Wellen tragen Worte,
+In der Klippen düstre Orte,
+Dem Gewissen jäh entrungen.
+Sind verschwunden,
 Kaum gefunden.
 
-> Aus des Herzens Not<br />
+> Aus des Herzens Not
+Ragt das hart’ Gebot
+Wie die spitzen Riffe,
+Wie der Toten harte Griffe,
+Die von mir die Sühne heischen
+Und an meiner Seele reißen
+Ohn’ Erbarmen …
 
-Ragt das hart’ Gebot<br />
-
-Wie die spitzen Riffe,<br />
-
-Wie der Toten harte Griffe,<br />
-
-Die von mir die Sühne heischen<br />
-
-Und an meiner Seele reißen<br />
-
-Ohn’ Erbarmen …<br />
-
-Amen.
+> Amen.
 
 <p class="right">Renate.</p>
 
@@ -322,12 +307,9 @@ Zwei Tage darauf ritten wir zur Küste und stießen nach unendlichen Irrwegen au
 
 …
 
-> Aus des Herzens Not<br />
-
-Flammt als feurig Rot<br />
-
-Wie der Abendsonne Schein<br />
-
+> Aus des Herzens Not
+Flammt als feurig Rot
+Wie der Abendsonne Schein
 Mein Gebet durch mein Sein …
 
 … So weit hatte ich die Verse aus dem Gedächtnis niedergeschrieben, und da war Ozeana Mac Intock nach kurzem, leisen Anpochen bei mir eingetreten und hatte die Tür lautlos zugedrückt und etwas scheu gebeten: »Darf ich bleiben? Ich kann nicht schlafen … Ihre Ankunft hat mich so erregt. Wir haben noch nie Gäste in unserem Hause gehabt, Mr. Abelsen, noch nie …«
@@ -480,7 +462,7 @@ Mac Intock setzt sich. Seine grauen Augen, die im Sonnenlicht ganz leicht grünl
 
 Er sagte es mit einiger Nervosität, leicht gereizt, — beherrschte sich, fügte hinzu:
 
-»Natürlich … fragen wollte sie … Sie wünscht die »Welt« kennen zu, lernen, sie glaubt, die Welt müßte wie ein Füllhorn einer gütigen Fee sein, das dumme liebe Mädel!«
+»Natürlich … fragen wollte sie … Sie wünscht die »Welt« kennen zu lernen, sie glaubt, die Welt müßte wie ein Füllhorn einer gütigen Fee sein, das dumme liebe Mädel!«
 
 Zum ersten Male sehe ich um Macs harten Mund Falten und Fältchen bitterer Enttäuschungen und geheimer Sorgen.
 
@@ -1198,12 +1180,9 @@ Und doch nicht allein. Meine Gedanken waren unliebenswürdige Gefährten und lie
 
 Und doch traten jäh mit bezwingender Gewalt, nicht viel anders wie ein Zauberstrauch, wieder jene unbeholfenen und doch packenden Verse vor meine Seele und verlangten geradezu, aufs neue beachtet zu werden.
 
-> Aus des Herzens Not<br />
-
-Flammt als feurig Rot<br />
-
-Wie der Abendsonne Schein<br />
-
+> Aus des Herzens Not
+Flammt als feurig Rot
+Wie der Abendsonne Schein
 Mein Gebet durch mein Sein …
 
 Angefeuert durch diese Worte einer mir Fremden, deren Gewissen unter ständiger Folter im Gebet Zuflucht gefunden, raffte ich mich zu einem Entschluß auf.
@@ -1366,7 +1345,7 @@ Pi ist um zwanzig, dreißig Jahre jünger geworden, dieser alte Pirat ist ein le
 
 Pi pfeift den ganzen Tag seltsame Lieder mit recht wilden Melodien und gibt das Steuer nur sehr ungern an unsere Matrosen Larry und Ozeana ab. Ich glaube, noch zwei Tage, und der Bratapfel Pi, der gar nicht mehr verschrumpelt aussieht, wird mir den Vorschlag machen, einen Frachter zu kapern und die rote Piratenflagge zu hissen. Ich traue ihm alles zu.
 
-Mit Larry Mac Intock ist leider eine Wandlung zum Schlechteren vor sich gegangen. Larry ist verliebt. Und Ozeana spielt mit ihm wie die Katze mit der Maus. Sie hat die Herrin der Lagune, das heißt all ihre burschikose Anmaßung, ihren Trotz, ihre Keckheit und ihre Ansprüche auf allseitige Beachtung, auch hier nicht abstreift und fällt uns durch ihre Launen auf die Nerven.
+Mit Larry Mac Intock ist leider eine Wandlung zum Schlechteren vor sich gegangen. Larry ist verliebt. Und Ozeana spielt mit ihm wie die Katze mit der Maus. Sie hat die Herrin der Lagune, das heißt all ihre burschikose Anmaßung, ihren Trotz, ihre Keckheit und ihre Ansprüche auf allseitige Beachtung, auch hier nicht abgestreift und fällt uns durch ihre Launen auf die Nerven.
 
 Larry und Ozeana sind Sorgenkinder.
 
@@ -1396,39 +1375,26 @@ Blutrot …
 
 Verse brennen mir im Hirn …
 
-> Aus des Herzens Not<br />
-
-Flammt als feurig Rot<br />
-
-Wie der Abendsonne Schein<br />
-
+> Aus des Herzens Not
+Flammt als feurig Rot
+Wie der Abendsonne Schein
 Mein Gebet durch mein Sein.
 
-> Stürme, Wellen tragen Worte,<br />
-
-In der Klippen düstre Orte,<br />
-
-Dem Gewissen jäh entrungen.<br />
-
-Sind verschwunden,<br />
-
+> Stürme, Wellen tragen Worte,
+In der Klippen düstre Orte,
+Dem Gewissen jäh entrungen.
+Sind verschwunden,
 Kaum gefunden.
 
-> Aus des Herzens Not<br />
+> Aus des Herzens Not
+Ragt das hart’ Gebot
+Wie die spitzen Riffe,
+Wie der Toten harte Griffe,
+Die von mir die Sühne heischen
+Und an meiner Seele reißen
+Ohn’ Erbarmen …
 
-Ragt das hart’ Gebot<br />
-
-Wie die spitzen Riffe,<br />
-
-Wie der Toten harte Griffe,<br />
-
-Die von mir die Sühne heischen<br />
-
-Und an meiner Seele reißen<br />
-
-Ohn’ Erbarmen …<br />
-
-Amen.
+> Amen.
 
 <p class="right">Renate.</p>
 
@@ -1460,7 +1426,7 @@ Immer noch … warte ich.
 
 Ich weiß, daß ich warte, — ich weiß auch worauf, — auf den feurigen Trunk des Erlebens. Aber dieser Trunk wird mir verwehrt.
 
-Wenn diese Fahrt bisher irgend etwas Aufregendes bescherte, so war es lediglich zu Beginn, als ich bestimmte, Pi sollte uns begleiten. Und als wir des alten Mac’s Hans verschlossen und Pi aus den Wäldern zehn Maya-Indianer holte — als Wächter für die Lagune, zehn straffe Kerle, die schon oft für Mac Fallen aufgestellt und beim Tierfang geholfen hatten. — Und als Pi dann das Felsentor öffnete und wir die Masten des Schoners niederklappten und das Schiff vorsichtig durch die Wassergrotte in den Ozean bugsierten …
+Wenn diese Fahrt bisher irgend etwas Aufregendes bescherte, so war es lediglich zu Beginn, als ich bestimmte, Pi sollte uns begleiten. Und als wir des alten Mac’s Haus verschlossen und Pi aus den Wäldern zehn Maya-Indianer holte — als Wächter für die Lagune, zehn straffe Kerle, die schon oft für Mac Fallen aufgestellt und beim Tierfang geholfen hatten. — Und als Pi dann das Felsentor öffnete und wir die Masten des Schoners niederklappten und das Schiff vorsichtig durch die Wassergrotte in den Ozean bugsierten …
 
 Das waren vielleicht Stunden, in denen das Blut rascher floß.
 
@@ -1796,26 +1762,19 @@ Ein Blick in sein Mumiengesicht verriet mir, daß er mich durchschaut hatte. Er 
 
 Ich sah: Es war deutsche Schrift, es war kein Briefpapier, sondern starkes Schreibpapier mit rötlichen Linien, die Tinte war verblaßt, das Papier selbst sehr zerknittert und brüchig, und doch konnte ich mühelos folgendes entziffern:
 
-> … dich angefleht, von diesem fluchwürdigen Verbrechen, das deine Seele in die ärgsten Nöte treiben, Abstand zu nehmen.<br />
-
-Liebe wird er …<br />
-
-und Gott wird<br />
-
-strafen<br />
-
+> … dich angefleht, von diesem fluchwürdigen Verbrechen, das deine Seele in die ärgsten Nöte treiben, Abstand zu nehmen.
+Liebe wird er …
+und Gott wird
+strafen
 Kinde
 
 … Immer wieder las ich.
 
 Seltsam war es, daß ich von diesen verstümmelten Sätzen nicht loskam, und daß beim Lesen wie ein fremdes Lied andere Worte mir im Ohr rauschten:
 
-> Aus des Herzens Not<br />
-
-Flammt als feurig Rot<br />
-
-Wie der Abendsonne Schein<br />
-
+> Aus des Herzens Not
+Flammt als feurig Rot
+Wie der Abendsonne Schein
 Mein Gebet durch mein Sein.
 
 Irgendwie, glaubte ich, müsse hier ein Zusammenhang bestehen zwischen diesem Inhalt eines vergilbten Papierfetzens und jenem Gedicht, das dem Pater Menardus einst vor die Füße rollte im Abteigarten von Merida.
@@ -2130,7 +2089,7 @@ Der Pater lachte herzlich, als ich ihm die Kiesel zeigte.
 
 »Dem Geruch nach vorzüglich, — er raucht«, — und Chang Pi bestätigte dies mit blumenreichen Begrüßungsworten für Menardus, dem die langen Bartstoppeln ein etwas wildes Aussehen verliehen.
 
-Pi schloß seine wohlgesetzte Rede mit einigen gegen mich gerichtete Vorwürfe.
+Pi schloß seine wohlgesetzte Rede mit einigen gegen mich gerichteten Vorwürfe.
 
 »Mr. Abelsen, — wie konnten Sie sich auf den Handel mit dem Schurken einlassen?! Wir hätten die beiden auch so befreit, glauben Sie mir …«
 
@@ -2200,7 +2159,7 @@ Martinez’ Glotzaugen hingen an meinem Gesicht … Aus diesen Augen sprach eine
 
 Er sackte zusammen, aus seiner Kehle kam ein verzweifeltes Schluchzen … er lag wieder im Geröll, krallte die Hände in das Gestein, heulte, winselte und kreischte in abgehackten Lauten:
 
-»Er … er … wollte … mir ::: das Genick brechen, falls ich …, — — und dann kamen meine Leute …, — — und ließen ihn vorüber, er hatte Miß Ozeana in den Armen … es ist so, — — es ist so, wir sind schuldlos, wir …«
+»Er … er … wollte … mir … das Genick brechen, falls ich …, — — und dann kamen meine Leute …, — — und ließen ihn vorüber, er hatte Miß Ozeana in den Armen … es ist so, — — es ist so, wir sind schuldlos, wir …«
 
 Der Pater unterbrach dieses Gestammel.
 
@@ -2368,7 +2327,7 @@ Sehr fein lächelt er, spitzt die Lippen und flüstert: »Ozeana!«
 
 Natürlich: Ozeana!
 
-Für ihn gibt es jetzt nur ein Sinnen und Trachten: Meine kleine, Freundin!
+Für ihn gibt es jetzt nur ein Sinnen und Trachten: Meine kleine Freundin!
 
 Glücklicher Larry. Sie ist reizend … Ich weiß es.
 
@@ -2526,7 +2485,7 @@ Mac Intock wirft ruckartig den Kopf nach hinten …
 
 Pi lacht kichernd …
 
-Ich weiß, das irgend etwas Furchtbares geschaffen wird …
+Ich weiß, das irgend etwas Furchtbares geschehen wird …
 
  
 
@@ -2804,21 +2763,15 @@ Auszugsweise will ich nun nach dem Gedächtnis Frau Renates Tragödie hier wiede
 
 Ich begreife ihren Entschluß jedenfalls vollkommen, der sie hier an das Wrack festhielt, um …
 
-> … Aus des Herzens Not<br />
+> … Aus des Herzens Not
+Ragt das hart’ Gebot
+Wie die spitzen Riffe,
+Wie der Toten harte Griffe,
+Die von mir die Sühne heischen
+Und an meiner Seele reißen
+Ohn’ Erbarmen …
 
-Ragt das hart’ Gebot<br />
-
-Wie die spitzen Riffe,<br />
-
-Wie der Toten harte Griffe,<br />
-
-Die von mir die Sühne heischen<br />
-
-Und an meiner Seele reißen<br />
-
-Ohn’ Erbarmen …<br />
-
-Amen.
+> Amen.
 
 Die Tragödie eines Frauenherzens verklingt in milden Akkorden …
 
@@ -2830,7 +2783,7 @@ Mac Intock wird die drei Redersens mitnehmen in sein einsames Heim an der Lagune
 
 … Und ich?!
 
-: Robinson, und mein zweibeiniger Gefährte heißt Mr. Black und wird jeden Tag zutraulicher und zahmer und klüger.
+… Robinson, und mein zweibeiniger Gefährte heißt Mr. Black und wird jeden Tag zutraulicher und zahmer und klüger.
 
 Der Volksmund hat die Redensart geprägt: Sie stehlen wie die Raben!
 
@@ -2838,7 +2791,7 @@ Mein Rabe ist kein Dieb, nur ein fanatischer Sammler, milde ausgedrückt. Es lie
 
 Wir sind keine Faulenzer<@refnote 7/>, wir arbeiten, wir fahren mit dem Kutter hinaus in den Golf, beobachten den indigoblauen Strich, der im Osten aus den Tiefen des Ozeans unvermittelt emporsteigt, wir senken das Tiefseelot in die Schlünde des Meeres, lesen Temperaturzahlen von dem Tiefenthermometer ab und helfen so, das Geheimnis des Ursprungs der riesigen Strömung zu ergründen.
 
-Wenn die Bergungsdampfer hier erscheinen werden, die die Ladung des »zufällig« vom alten Mac aufgefundenen Dreimasters nach New Orleans bringen sollen, ist vorläufig unbestimmt. Es werden wohl Wochen vergehen, bevor der Frieden meiner winzigen Insel durch den Lärm des Alltags gestört wird. Dann werde ich mit Mr. Black in die Ferne ziehen, irgendwohin, denn dieses Leben hier, das wie ein Uhrwerk streng geregelt abläuft, ist auf die Dauer nichts für meine Sehnsucht nach frisch pulsierendem Geschehen.
+Wann die Bergungsdampfer hier erscheinen werden, die die Ladung des »zufällig« vom alten Mac aufgefundenen Dreimasters nach New Orleans bringen sollen, ist vorläufig unbestimmt. Es werden wohl Wochen vergehen, bevor der Frieden meiner winzigen Insel durch den Lärm des Alltags gestört wird. Dann werde ich mit Mr. Black in die Ferne ziehen, irgendwohin, denn dieses Leben hier, das wie ein Uhrwerk streng geregelt abläuft, ist auf die Dauer nichts für meine Sehnsucht nach frisch pulsierendem Geschehen.
 
 Wenn ich abends bei Sonnenuntergang droben auf der Klippe sitze und den sinkenden Sonnenball beobachte, der vor und nach dem Eintauchen in den Ozean seine feurigen Abschiedsgrüße in lohendem Farbenspiel mir zusendet, befällt mich zuweilen eine Schwermut, der ich schwer Ausdruck zu verleihen vermag. Es ist nicht die Einsamkeit, die mich drückt. Oder — es ist doch der heimliche Wunsch nach menschlicher Gesellschaft, nach einem Kameraden von der Art und Eigenart, wie mir das Geschick so viele als Wegbegleiter schenkte und wieder nahm?
 
