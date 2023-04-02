@@ -130,7 +130,7 @@ Gnädigste … Mein Freund hat Sie längst bemerkt …«
 kann beobachten … Als Sie beide sich soeben da drinnen
 Gute Nacht sagten, durchschaute ich den … Schwindel — —
 verzeihen Sie! — Sehr liebenswürdig, daß Sie mich nun
-holen … Gehen wir … Eis regnet in der Tat recht kräftig
+holen … Gehen wir … Es regnet in der Tat recht kräftig
 … Aber Puccini geht mir über alles …«
 
 »Sie sind eine eigentümliche Musikschwärmerin, Gnädigste
@@ -292,7 +292,7 @@ wenn sie es selbst sind, so sind’s doch ihre Hilfskräfte nicht.
 Nur ein Gentleman, ein Herr wie Sie, der das Ungewöhnliche
 lediglich aus sportlicher Neigung sucht, bot mir die Gewähr,
 daß es nicht eines Tages in Berlin heißt: Gerda Alster
-liebt den verrückten Doktor Bruston Griffon! — Ich liebe
+liebt den verrückten Doktor Huston<@refnote 1/> Griffon! — Ich liebe
 ihn nicht … Nein, nur rein frauliches Mitleid ist’s, das …«
 
 Harst hatte den Kopf gesenkt und die Augen geschlossen.
@@ -406,7 +406,7 @@ machen.«
 Weshalb ein Einbruch oder dergleichen bei Griffon,
 wenn es dort wirklich nichts Besonderes zu ermitteln gab?!
 — Nein, ich traute Harald nicht, und als wir nun durch die
-dunkle, stürmische Herbstnacht durchs die leeren Straßen heimwanderten,
+dunkle, stürmische Herbstnacht durch die leeren Straßen heimwanderten,
 gab ich denn auch diesem Mißtrauen unverhohlen
 Ausdruck. Harst hatte die Mirakulum im linken Mundwinkel
 und brummte gähnend:
@@ -469,7 +469,7 @@ Er warf sich in den einen Sessel am Kamin und gähnte
 … »Zwecklose Stunden waren das, mein Alter … Gib mir
 ein Glas Rotwein … Man sollte jungen Damen niemals
 glauben … Erzählt diese moderne Sportlady uns da allerlei
-Räubergeschichten, die sie nachher als harmloser Unfug eines
+Räubergeschichten, die sich nachher als harmloser Unfug eines
 Trunkenboldes herausstellen!«
 
 Er zwinkerte mir vielsagend zu und blickte nach dem
@@ -745,7 +745,7 @@ zarten, intimen Bekleidungsgegenstand aus Batist und eine
 Börse hervor, dann eine halbe Seite aus einer Zeitschrift, die
 Rätselecke, reichte mir das Stück Papier und erklärte:
 
-»Das hab’ ich trink’ abend endlich erwischt, Herr Schraut
+»Das hab’ ich heut’ abend endlich erwischt, Herr Schraut
 … Lesen Sie mal die Worte, die der Molkenberg da am
 Rande mit Bleistift hingeschrieben hat, als ob es die Wörter
 zum Kreuzworträtsel wär’n … — Ja, unsereiner is helle,
@@ -771,7 +771,7 @@ Kreuzworträtsel an … Die Wörter sind ganz willkürlich
 gewählt und gehören gar nicht zu dem Rätsel — das ist’s!
 Es ist eine Geheimschrift, behaupte ich … Eine Mitteilung
 von Molkenberg an Doktor Griffon … Und ich hab’ dem
-Griffon trink’ das Heft wegstibizt, bevor er’s ausradieren
+Griffon heut’ das Heft wegstibizt, bevor er’s ausradieren
 hätt’ können, und so was ist doch was für Ihren Freund,
 der ein Genie ist, und wenn Sie mir jetzt noch einen
 Kognak auf die trockene Kehle geben wollten, könnt’ nichts
@@ -976,7 +976,7 @@ hat. — Harst.«
 »Bring’s bitte zur Post, mein Alter … Und dann ins
 Bett …« —
 
-Als im heimkehrte, war Harald weder im Bett noch anderswo.
+Als ich heimkehrte, war Harald weder im Bett noch anderswo.
 Auf dem Sofatisch wieder ein Zettel:
 
 > »Komm um zwölf in Maske 8 zum Kellermeister. H.«
@@ -1007,7 +1007,7 @@ und kehrte Harald den Rücken zu.
 
 Fräulein Asta erschien mit sehr hochmütigem Gesicht.
 Erkannte mich natürlich nicht und fragte kühl, was ich
-wünschte. Auch der Wirt hinter dem Schenktische war offenbar
+wünschte. Auch der Wirt hinter dem Schenktisch war offenbar
 über meine Wenigkeit äußerst mäßig entzückt. Ich schaute
 freilich noch mehr nach Landstreicher aus als Harst.
 
@@ -1165,7 +1165,7 @@ Das war ehrlich gemeint.
 
 »Schade, daß ich aus sehr schwerwiegenden Gründen gezwungen
 bin, Sie beide unbedingt für einige Zeit auszuschalten.
-Eis wird Ihnen an nichts fehlen, nur an der Freiheit.
+Es wird Ihnen an nichts fehlen, nur an der Freiheit.
 Ich verschwinde aus Deutschland, und auch der Mann,
 der nun Chauffeur spielt, wird nie mehr gefunden werden.
 Ich bin ihm zu großem Dank verpflichtet. — Wenn Sie mir

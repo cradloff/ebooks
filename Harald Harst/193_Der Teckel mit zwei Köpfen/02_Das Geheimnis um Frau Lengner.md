@@ -69,7 +69,7 @@ hängen, Doktor, — wohl ein Reiseandenken …«
 
 James ließ alles mit sich geschehen. Auf seinem Gesicht
 blieb das freche Grinsen wie eingefroren. Es war das
-Grinsen eines rohen, ungebildeter Burschen, der in seiner
+Grinsen eines rohen, ungebildeten Burschen, der in seiner
 Wehrlosigkeit kein anderes Mittel hat, seine Bezwinger zu
 ärgern.
 
@@ -383,7 +383,7 @@ vor uns, kauerte sich am Boden zusammen und stierte die
 Pistole an …
 
 »Also doch!« lachte Harst gutmütig. »Wußte ich’s doch!
-Als, Griffon erwähnte, James habe den Affen stets in dem
+Als Griffon erwähnte, James habe den Affen stets in dem
 großen, halbdunklen Käfig belassen und ihn nur selten zu sich
 in seine Stube genommen, als der Doktor auch betonte, er
 habe Jocko niemals so recht aus der Nähe sich ansehen
@@ -453,7 +453,7 @@ ich nichts von Bedeutung finden können … Wie heißt er?«
 »So?!« Und Harst zog wieder die Pistole hervor. »Ich
 werde dir mal etwas sagen, kleines Scheusal. Mich hat schon
 mancher zu beschwindeln versucht … Meist vergebens. Mit
-dir mache im nicht viel Umstände. Einen Affen zu erschießen
+dir mache ich nicht viel Umstände. Einen Affen zu erschießen
 ist jedem erlaubt, und wenn sich nachher herausstellt,
 daß dieser Affe ein Dakka ist, so kann ich nichts dafür.
 Also — wie heißt James in Wahrheit?«
@@ -555,7 +555,7 @@ zum Beispiel irgendeinen neuen Anschlag plant?!«
 Doch — schnell etwas anderes … Könnten Sie uns Ihr
 Auto zur Verfügung stellen? Und — würden Sie es selbst
 steuern und uns etwas Eßbares mitbringen? Wir haben seit
-Mittags nichts genossen. Es war ja die reinste Hetzjagd …«
+Mittag nichts genossen. Es war ja die reinste Hetzjagd …«
 
 »Gern … In zehn Minuten können Sie einsteigen.«
 
@@ -638,7 +638,7 @@ uns ein Päckchen. »Wohin nun?«
 
 Dann ruckte der Wagen an … — Das Päckchen enthielt
 eine halbe Flasche Rotwein, zwei kalte, gebratene Filetstücke,
-Brötchen und Emmenthaler Käse. — Wir aßen mit besten
+Brötchen und Emmenthaler Käse. — Wir aßen mit bestem
 Appetit. Wir hatten uns kaum gesättigt, als das Auto hielt.
 
 »Gnädiges Fräulein,« sagte Harst zu Gerda, »wenn Sie
@@ -808,7 +808,7 @@ zögernd.
 »Ja …!« —
 
 Vielleicht hat Harald noch nie einem Verbrecher gegenüber
-ein so seines diplomatisches Spiel gespielt wie damals.
+ein so feines diplomatisches Spiel gespielt wie damals.
 
 Dieses »Ja« war allerschlaueste Berechnung.
 
@@ -854,7 +854,7 @@ James stierte Harald an …
 »Ja …«
 
 »Sie … lügen — — lügen!« brüllte James. »Der Mann
-würde sich nie verhaften lassen! Nie?!«
+würde sich nie verhaften lassen! Nie!!«
 
 »Hm — vielleicht hat ihm der Lehrling von Bäcker Radtke
 Backware gebracht, und vielleicht standen hinter dem Lehrling
@@ -1007,7 +1007,7 @@ und Schraut sich möglichst ruhig verhalten …«
 diesen Gandur, der sich nie verhaften lassen wird, dennoch
 lebend zu fangen?«
 
-Harst füllte sie die Tasse, trank einen Schirm und erwiderte:
+Harst füllte sie die Tasse, trank einen Schluck und erwiderte:
 
 »Wenn der Bäckerlehrling dem Inder morgen früh zum
 Beispiel das Weißbrot bringt, kann vielleicht dieses Weißbrot
@@ -1123,12 +1123,12 @@ kleinem Häuschen brachte uns wirklich eine Sensation … —
 Alles verlief ganz programmäßig.
 
 Der Bäckerlehrling reichte Gandur um halb acht morgens
-wie immer sechs Brötchen durchs die Türklappe hinein, und
+wie immer sechs Brötchen durch die Türklappe hinein, und
 als wir dann um neun Uhr an der Haustür läuteten, (wir,
 Lücke, Griffon, Harst und ich) da kam niemand öffnen.
 
 Die Tür wurde erbrochen, und im Wohnzimmer fanden
-wir den Inder in einem Korbsessel in tiefstem schlafe vor.
+wir den Inder in einem Korbsessel in tiefstem Schlafe vor.
 Auf dem Tische stand noch das Frühstück. Gandur war schon
 nach dem ersten Brötchen eingeschlafen.
 
@@ -1145,7 +1145,7 @@ vor der Brust festhielt.
 
 Im übrigen spielte er den tief Beleidigten, und da wir
 unter seinen Sachen nur Papiere auf den Namen Doktor
-Ibrahim Gandur gefunden hatten, da er selbst höhnisch erklärt,
+Ibrahim Gandur gefunden hatten, da er selbst höhnisch erklärte,
 man solle ihm doch erst einmal nachweisen, daß er die
 ihn so schwer belastenden Geheimbriefe wirklich geschrieben
 habe, da er schließlich offenbar auf Tamolis Verschwiegenheit
@@ -1270,11 +1270,11 @@ Schränke … In einem anderen steht der Bronzeteckel …
 Der Dakka-Zwerg Turlirru aber hat wahrhaftig nachher
 die weiße Zwergin aus dem Wanderzirkus geheiratet. Auch
 dies erhöht den versöhnlichen Ausklang der Geschichte des
-Deckels mit zwei Köpfen. —
+Teckels mit zwei Köpfen. —
 
 Wenn wir uns wiedersehen, meine lieben Freunde und
 Leser, will ich Ihnen wieder einmal den Orient, die Tropen
 mit all ihren zauberischen Reizen vorführen und Ihnen von
 einer Haifischfarm etwas erzählen …
 
-Druck: Buchdruckerei B. Lehmann G. m. b. H., Berlin SO 36, Elisabeth-Ufer 44
+<p style="margin-top: 2em; font-size: small;">Druck: Buchdruckerei B. Lehmann G. m. b. H., Berlin SO 36, Elisabeth-Ufer 44</p>
