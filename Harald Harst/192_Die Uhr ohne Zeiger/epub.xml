@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">5e45252f-0235-4c4b-ae07-976722eba297</entry>
+<entry key="title">Die Uhr ohne Zeiger</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">192</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Uhr ohne Zeiger.
+
+Jener 29. Oktober, mit dem für uns das sonderbare Problem der Uhr ohne Zeiger begann, war der Tag nach der verwegenen Flucht Anita Galskis aus der Krankenabteilung des Untersuchungsgefängnisses.
+
+An diesem 20ten, der gegen Abend Regen und Sturm gebracht hatte, hatte uns unser Freund Bechert um sieben Uhr angerufen und uns mitgeteilt, daß auf Veranlassung des Leiters der Berliner Kriminalpolizei unser Haus in der Blücherstraße vorläufig insgeheim überwacht werden würde, da mit größter Bestimmtheit damit zu rechnen sei, daß die rücksichtslose Verbrecherin versuchen würde, sich an uns beiden irgendwie zu rächen. Harst war es ja gewesen, der ihre teuflischen Pläne im letzten Augenblick zum Scheitern gebracht hatte.
+
+Das Blockhaus im Dickicht.
+
+Ein paar der eleganten Vögel schienen daran gewöhnt zu sein, von den Badegästen gefüttert zu werden, und strichen ganz dicht an dem Fenster vorüber, nachdem sie uns erst einmal entdeckt hatten. Ich holte vom noch gedeckten Kaffeetisch ein paar Brötchen, zerkleinerte sie und warf die Stücke in die Luft. Überraschend geschickt schnappten die flinken Vögel jeden Brocken, bevor er noch zur Erde fiel. Harald beteiligte sich an dem heiteren Spiel, schleuderte die Brocken schräg aufwärts.
+
+Plötzlich, als die Schar unserer neuen Freunde bereits beträchtlich angewachsen war und deren gieriges Kreischen so dicht vor unseren Ohren lästig zu werden begann, ereignete sich etwas, das uns zunächst völlig unbegreiflich blieb.
+
+Eines der Tiere fiel mit einem Male ängstlich flatternd aus der Luft herab und unten auf den Rasen des Vorgartens, wo es sehr bald verendete. Dieser Zwischenfall war das Signal für eine allgemeine Flucht der Möwen.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (192) Die Uhr ohne Zeiger.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

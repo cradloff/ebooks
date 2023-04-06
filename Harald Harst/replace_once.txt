@@ -1,9 +1,9 @@
+ =	—
 [-—]“[-—]	—
 °	«
 !1	!!
 …1	…!
 1!	!!
-t!	!!
 2!	?!
 \b309\b	zog
 \bAch\b	Ich
@@ -16,6 +16,7 @@ t!	!!
 \bden!	dem
 \bdien\b	dicken
 \b(\d+)[l1i]en\b	$1ten
+\bdurchs\b	durch
 \bdürsten\b	dürften
 \bElement\b	Clement
 ^ben	den
@@ -48,12 +49,15 @@ t!	!!
 \bSähe\b	Sätze
 \bSchrau!	Schraut
 \bSaß\b	Satz
+\bSchrau!	Schraut
 \bSeht\b	Jetzt
 \bsic\b	sie
 \bSiek\b	Sie?
 \bTeich!\b	leicht
 \bTer\b	Der
 \btieſ	tief
+\bdor!\b	dort
+\bstete\b	steckte
 \bvor!\b	dort
 \bwirft\b	wirst
 \bWir\.	Mr.
@@ -78,4 +82,5 @@ scj	sch
 si[cd]\)	sich
 …\sk\b	…?
 ßz	tz
+t!	!!
 tß	tz

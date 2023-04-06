@@ -104,7 +104,7 @@ Cornawoor …«
 
 Ich — ich faßte mir an die Stirn. Ich schnappte nach
 Luft. Ich hoffte, durch reichlichere Luftzufuhr in die Lungen
-auch meine blödes Hirn anfeuern zu können, denn — von
+auch mein blödes Hirn anfeuern zu können, denn — von
 alledem verstand ich nichts — gar nichts!
 
 Aber Harald sagte kühl, wenn auch hastig: »Mithin ist
@@ -241,7 +241,7 @@ haben dann Doktor Tardieux gefesselt und sein Geld
 mitgenommen. Wir flohen nach Dover, und seit gestern
 hielten wir uns in der Atlanta verborgen, da ich doch den
 Schurken, der in Schloß Cornawoor den Herrn spielte, erst
-beseitigen mußte …«
+beseitigen mußte …« —
 
 All das entsprach fraglos der Wahrheit, wenn man eben
 der Geistesgestörten fixe Idee, ein Mann und ihr Gatte zu
@@ -398,7 +398,7 @@ Jahren etwa erschien in meinem Bureau in London ein
 Holländer namens van Zeelden und zeigte mir, nachdem ich
 ihm Verschwiegenheit zugesichert hatte, einen Ausweis von
 <@pagebreak/>
-dem Oberpriester des Dschaina-Tempel in Jaipuvar. Van
+dem Oberpriester des Dschaina-Tempels in Jaipuvar. Van
 Zeelden war als Beauftragter der Dschaina-Priester ermächtigt,
 jedem, der den aus dem Tempel gestohlenen Kopf
 des Maharadscha wieder der Diebin abnehmen würde, eine
@@ -439,7 +439,7 @@ stand …«
 lassen. Als ich Schraut im Hotel aufsuchte, wollte ich lediglich
 Sie beide als Konkurrenten ausschalten, Ihnen … die
 Sache verekeln. Daher auch die Schlangen — ohne Giftzähne!
-Und das war ein sehr unüberlegten Streich von
+Und das war ein sehr unüberlegter Streich von
 <@pagebreak/>
 mir. Aber — ich war nun bereits achtzehn Monate der
 Lady auf den Fersen und wollte mir nicht durch Sie beide
@@ -574,7 +574,7 @@ Ich stehe schnell auf … »Ich komme mit!«
 
 »Meinetwegen …«
 
-Wir schrauben die Lampe herab, bis in der Markise
+Wir schrauben die Lampe herab, bis in der Kajüte
 Halbdunkel herrscht.
 
 Harald öffnet leise die Tür … Leise steigen wir beide
@@ -632,7 +632,7 @@ Harald ins Ohr.
 
 Und wieder das Stöhnen, Gurgeln, Röcheln …
 
-Und wir nach links wie die Schlangen. Meter für Meter,
+Und wir nach links wie die Schlangen. Meter für Meter
 lautlos und dicht an den rauhen Boden geduckt …
 
 Wie Harald den Kopf höher hebt … Bis auch ich dicht
@@ -658,11 +658,11 @@ Es ist — es ist das Gesicht …
 … das Gesicht Lady Maria Cornawoors, der Wahnsinnigen
 … — —
 
-Als sie uns mit erregtem Blick gemustert hat, als sie dem
+Als sie uns mit stierem Blick gemustert hat, als sie dem
 Tode entronnen, dem Tode des Zerschelltwerdens auf steinigem
 Strande, da fällt sie in Ohnmacht, sinkt zur Seite …
 
-Harst zerschneidet Ihre Hand- und Fußfesseln …
+Harst zerschneidet ihre Hand- und Fußfesseln …
 
 Harst flüstert: »Gib auf die Umgebung acht! Schieße
 sofort! Hier dies — dies ist … Nortons Werk!«
@@ -821,6 +821,7 @@ wollte, sich bis ans Museum heranzieht.«
 
 »Nun also: diese Buchen könnten der Weg zum Dache
 des Museums sein. Wir werden uns danach richten.«
+
 Dann schritt er weiter — lautlos, huschend, von Baum
 zu Baum, von Strauch zu Strauch, am Rande der Rasenflächen
 dahin — stets Deckung suchend.
@@ -939,7 +940,7 @@ drückend, daß ich ordentlich nach Luft schnappte.
 
 Harsts Taschenlampe leuchtete uns …
 
-Spinngewebe überall … Staub — Mörtel und
+Spinngewebe überall … Staub — Mörtel- und
 Schieferstücke …
 
 Die Luftscheiben mit den eisernen Einfassungen bildeten
@@ -996,7 +997,7 @@ Ihnen anschließen, Mister Harst?«
 
 Allison blieb im Museum. Wir vier schritten einen
 <@pagebreak/>
-Nebenweg entlang — hinein in ein Birkenwäldchen — bis
+Nebenweg entlang — hinein in ein Eichenwäldchen — bis
 zur Mitte, wo auf einem Hügel von regelmäßiger Kuppelform
 eine Buche stand …
 
@@ -1031,7 +1032,7 @@ Weiß und grell blitzte der Lichtkegel über das Laubdach,
 
 Als die Hunde nun gleichfalls mit ihrem feinen Instinkt
 herausmerkten, daß Harst dort oben durch den Laternenschein
-etwas suchte, erhoben sie sich und umdrängten ihn mit gierigen
+etwas suchte, erhoben sie sich und umdrängten ihn mit gierigem
 Winseln, die Köpfe hochgereckt, Geifer am Maule vor
 unterdrückter Wut und Angriffslust …
 
@@ -1071,7 +1072,7 @@ He, Claryc, bitte — darf auch ich Sie als Leiter benutzen?«
 Ich turnte rasch hinauf — so rasch mein Bäuchlein das
 gestattete.
 
-»Vorsicht!« rief Harst, als ein morscher Ast unter unsrem
+»Vorsicht!« rief Harst, als ein morscher Ast unter meinem
 Fuße zerknackte …
 
 Die Hunde heulten auf …
@@ -1136,7 +1137,7 @@ Und für mich — ganz leise:
 
 »Mein Alter, der Mann hier ist auf sehr eigentümliche
 Art gestorben … beseitigt … Ein Künstler im Messerwerfen
-muß ihm demselben Dolch, den wir in Charles Vincent
+muß ihm denselben Dolch, den wir in Charles Vincent
 Elliots Herzen fanden, in die Brust geschleudert haben
 — mit unfehlbarer Sicherheit …«
 
@@ -1300,7 +1301,7 @@ büßte über den steten Gedanken an das, was ich
 freventlich getan, den gesunden Verstand ein. Ich fühlte,
 daß der Wahnsinn als drohendes Gespenst neben meinem
 Krankenlager harrte — wartete, bis er sich meiner ganz bemächtigen
-könne. Da ließ ich meinen Bruder Charles Vincent
+könnte. Da ließ ich meinen Bruder Charles Vincent
 Elliot in der Maske eines Arztes zu mir kommen. Wir,
 die bis dahin Verfeindeten, versöhnten uns. Noch lebte der
 Groll und Haß gegen die Familie meines Mannes in mir.

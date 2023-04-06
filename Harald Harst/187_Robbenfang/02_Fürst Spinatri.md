@@ -12,7 +12,7 @@ So kam es, daß ein bereits zur Abfahrt bereiter Regierungsdampfer, dessen Ziel 
 
 »Hallo, Harst …!!« rief er dem Detektiv entgegen, und streckte ihm freudig beide Hände zur Begrüßung hin. »Das nenne ich mal eine Überraschung! Und da ist ja auch mein alter Schraut …! Kinder, wie kommt ihr denn hier nach Helgoland?!«
 
-Der, der uns in dieser herzlichen Weise auf heimischer Erde bewillkommnete, war Kriminalkommissar Fritz Bechert vom Berliner Polizeipräsidium. …
+Der, der uns in dieser herzlichen Weise auf heimischer Erde bewillkommnete, war Kriminalkommissar Fritz Bechert vom Berliner Polizeipräsidium …
 
 Nichts konnte uns angenehmer sein als dies Zusammentreffen. War uns jetzt doch die Möglichkeit gegeben, Helgoland sofort wieder zu verlassen.
 
@@ -60,7 +60,7 @@ Und auch Harald vermutete dasselbe, denn er blickte mich in besonderer Art an un
 
 Für uns beide waren Becherts Angaben insofern von großem Wert, als Pingalli uns vollständig verschwiegen hatte, daß er Frau Alice Robbe regelmäßig Geld habe zukommen lassen. Er hatte uns sogar erklärt, daß er ihren jetzigen Aufenthaltsort nicht kenne.
 
-Harst rauchte sich jetzt eine seiner Mirakulum an, lehnte sich im Schiffssessel behaglich zurück und sagte sinnend.
+Harst rauchte sich jetzt eine seiner Mirakulum an, lehnte sich im Schiffssessel behaglich zurück und sagte sinnend:
 
 »In München muß damals, als dieser Robbe flüchtig wurde, noch etwas anderes passiert sein … Mein Gedächtnis läßt mich leider in diesem Punkte im Stich …«
 
@@ -124,7 +124,7 @@ Empfang sehr gut … Also lausche ich, was der Freistaat Danzig zu berichten hat
 
 Mir gleichgültig.
 
-Spielbank Zoppot: Der italienische Fürst Spinatri hat die Bank abermals um 100 000 Gulden erleichtert … Seinem Glückssträhne hält an. — — Reklame!!, denke ich …
+Spielbank Zoppot: Der italienische Fürst Spinatri hat die Bank abermals um 100&nbsp;000 Gulden erleichtert … Seine Glückssträhne hält an. — — Reklame!!, denke ich …
 
 Dann: »Der berühmte Berliner Privatdetektiv Harald Harst …«
 
@@ -148,7 +148,7 @@ Ich merke, er hat in der Zeitung etwas Besonderes entdeckt …
 
 »Das Spielglück des Fürsten Emanuelo Spinatri, mein Alter …«
 
-Ich lache … »Stimmt! Der Danziger Sender hat soeben wieder gemeldet, daß der Fürst die Zoppoter Bank um neue 100 000 Gulden geschröpft hat …«
+Ich lache … »Stimmt! Der Danziger Sender hat soeben wieder gemeldet, daß der Fürst die Zoppoter Bank um neue 100&nbsp;000 Gulden geschröpft hat …«
 
 »Ja, für manchen Menschen wird die Politik eine frischmelkende Kuh …«
 
@@ -206,7 +206,7 @@ Spinatri machte in der Tat einen recht erschöpften Eindruck … Und doch: er bl
 
 Zwanglos saß er da, die Beine leicht übereinandergeschlagen …
 
-»Ich bin bestohlen worden, Herr Harst …,« fuhr er in demselben kühl-abgeklärten Tone fort. »Ich hatte heute im Zoppoter Kasino in kurzer Zeit abermals 100 000 Gulden gewonnen, und kehrte gegen halb sieben in meine kleine Villa zurück. Meine Brieftasche hatte ich in der Innentasche dieses Sportpelzes stecken. Auf der Diele meiner Villa nahm mir mein Diener, im übrigen ein äußerst zuverlässiger Mensch, den Pelz ab. Ich war in Gedanken, vergaß die Brieftasche herauszunehmen und dachte erst nach etwa fünf Minuten an mein Portefeuille, in dem sich außer der gewonnenen Summe noch weitere 5000 Gulden befanden, leider aber auch gewisse Papiere, deren Wert … hm, ja … deren Wert mehr auf politischem Gebiet liegt. — Meine Brieftasche war inzwischen gestohlen worden … Mein Diener machte mich darauf aufmerksam, daß die Haustür nur angelehnt war. Zweifellos hat sich jemand mit Hilfe eines Dietrichs Zutritt in die Villa verschafft, und …«
+»Ich bin bestohlen worden, Herr Harst …,« fuhr er in demselben kühl-abgeklärten Tone fort. »Ich hatte heute im Zoppoter Kasino in kurzer Zeit abermals 100&nbsp;000 Gulden gewonnen, und kehrte gegen halb sieben in meine kleine Villa zurück. Meine Brieftasche hatte ich in der Innentasche dieses Sportpelzes stecken. Auf der Diele meiner Villa nahm mir mein Diener, im übrigen ein äußerst zuverlässiger Mensch, den Pelz ab. Ich war in Gedanken, vergaß die Brieftasche herauszunehmen und dachte erst nach etwa fünf Minuten an mein Portefeuille, in dem sich außer der gewonnenen Summe noch weitere 5000 Gulden befanden, leider aber auch gewisse Papiere, deren Wert … hm, ja … deren Wert mehr auf politischem Gebiet liegt. — Meine Brieftasche war inzwischen gestohlen worden … Mein Diener machte mich darauf aufmerksam, daß die Haustür nur angelehnt war. Zweifellos hat sich jemand mit Hilfe eines Dietrichs Zutritt in die Villa verschafft, und …«
 
 Harald unterbrach ihn. »Die wichtigen Papiere, Durchlaucht, beziehen sich wohl auf Ihre Tätigkeit als … Antifaschist?«
 
@@ -234,7 +234,7 @@ Er reicht Harald den Wisch …
 
 Der überfliegt ihn … Liest dann laut vor:
 
-Wenn Sie Ihre Brieftasche mit vollständigem Inhalt wiederhaben wollen, kommen Sie in dieser Nacht punkt ein Uhr an die Nordwestecke des Wilmersdorfer Friedhofs in der Berliner Straße (Fehrbelliner Platz).
+> Wenn Sie Ihre Brieftasche mit vollständigem Inhalt wiederhaben wollen, kommen Sie in dieser Nacht punkt ein Uhr an die Nordwestecke des Wilmersdorfer Friedhofs in der Berliner Straße (Fehrbelliner Platz).
 
 Jetzt hat sich Haralds Gesicht auffallend verändert …
 
@@ -258,7 +258,7 @@ Dann fragt er Spinatri:
 
 »Ah — vorzüglich!« Der Fürst lächelte zufrieden …
 
-»Dann muß ich Sie jetzt bitten, Durchlauft, sich zu verabschieden, da Schraut und ich noch einiges vorzubereiten haben. Schraut wird Sie durch den Garten auf den Feldweg führen und Ihnen über die Richtung Bescheid sagen. — Ihr Auto mit Ihrem Handkoffer haben Sie wohl an einer Straßenecke in der Nähe warten lassen …«
+»Dann muß ich Sie jetzt bitten, Durchlaucht, sich zu verabschieden, da Schraut und ich noch einiges vorzubereiten haben. Schraut wird Sie durch den Garten auf den Feldweg führen und Ihnen über die Richtung Bescheid sagen. — Ihr Auto mit Ihrem Handkoffer haben Sie wohl an einer Straßenecke in der Nähe warten lassen …«
 
 »Auch das stimmt, Herr Harst. — Ich werde im Hotel Wilmersdorf in der Berliner Straße absteigen, wenigstens dort zunächst meinen Koffer abgeben. — Auf Wiedersehen, Herr Harst …« Er war schon an der Tür, als er sich nochmals umwandte: »Sie beide erscheinen natürlich in Maske, meine Herren?«
 
@@ -392,7 +392,7 @@ Harald lebt … liegt hinter mir … regt sich …
 
 Ich will mich melden … Will mich bewegen …
 
-Geräusche dringen an mein Ohr … Der Wagen schwankt leicht … Man reißt die geteerte Leinwand weg …Trübe Dämmerung eines unfreundlichen Morgens fällt durchs die offene Wagentür … Die Umrisse einer menschlichen Gestalt hoben sich gegen dieses hellere Viereck ab … Eine Stimme flüstert …:
+Geräusche dringen an mein Ohr … Der Wagen schwankt leicht … Man reißt die geteerte Leinwand weg … Trübe Dämmerung eines unfreundlichen Morgens fällt durch die offene Wagentür … Die Umrisse einer menschlichen Gestalt hoben sich gegen dieses hellere Viereck ab … Eine Stimme flüstert …:
 
 »Jetzt sind sie verschwunden … Jetzt erst kann ich Sie befreien …«
 
@@ -420,7 +420,7 @@ Ich lese, während der Ober das Zwischengericht serviert …
 
 <p class="centered"><strong>Ein politischer Mord?!</strong></p>
 
-> Gestern früh fanden Arbeiter, die mit Ausbesserungsarbeiten in der Berliner Straße in Wilmersdorf beschäftigt sind, in ihrem Gerätewagen die Leiche eines elegant gekleideten Herrn, die drei Stiche in der Herzgegend aufwies. Die Mordkommission stellte fest, daß der Tote vollkommen ausgeplündert war, konnte aber doch in kurzem ermitteln, daß der Ermordete der italienische Fürst Emanuelo Spinatri sei, der noch vor anderthalb Jahren als einer der Hauptgegner Mussolinis galt, dann aber, wie wir unlängst berichteten, in den leichtlebigen Gefilden des Spielerparadieses Zoppot zum gewerbsmäßigen Hasardeur herabgesunken war. — Ob man es hier mit einem politischen Mord zu tun hat, läßt sich vorläufig nicht entscheiden. — Der bejahrte Diener des Toten, der mit seinem Herrn zusammen in Zoppot eine kleine Villa unweit des bekannten Restaurants Talmühle am Waldrande bewohnte, ist gestern sofort auf Ersuchen unserer Kriminalpolizei vernommen worden, und hat angegeben, der Fürst sei am 30. November abends gegen sieben Uhr bestohlen worden und hat sich im Flugzeug sogleich nach Berlin begeben, um dort die Hilfe des Privatdetektivs Harst in Anspruch zu nehmen, da die ihm gestohlene Brieftasche politische Papiere mit enthalten hätte, auf deren Rückgewinnung es dem Fürsten besonders angekommen sei. — Eine Anfrage bei dem Detektiv Harst ergab, daß dieser sowie sein Freund und ständiger Begleiter Schraut nach Aussage von Harsts Mutter und Köchin an demselben Abend ihr Heim mit unbekanntem Ziel verlassen hätten, an dem Spinatri in Berlin mit einem Flugzeug eingetroffen war. Die beiden Detektive sind bisher nicht aufzufinden gewesen, und man muß mit der Möglichkeit rechnen, daß auch sie beseitigt worden sind, da unsere rührige Kriminalpolizei drei Chauffeure ermittelt hat, von denen der eine den Fürsten bis in die Nähe der Blücherstraße in Schmargendorf gebracht hat. Man kann also annehmen, daß Spinatri tatsächlich bei Harst gewesen ist, und daß das spurlose Verschwinden der beiden Detektive mit dem Tode des Italieners in engstem Zusammenhang steht. Hat die Kriminalpolizei doch in jenem Gerätewagen verschiedene Anzeichen dafür gefunden, daß dort ein kurzer Kampf zweier Männer mit zwei Angreifern sich abgespielt haben muß. Auf Einzelheiten über diesen Punkt dürfen wir im Interesse der weiteren Untersuchung des geheimnisvollen Verbrechens vorläufig nicht eingehen. Jedenfalls ist Spinatri nicht im Wagen, sondern an der nahen Kirchhofsecke niedergestochen worden. Fraglos wird es unserer Kriminalpolizei, die anerkanntermaßen die beste aller Weltstädte ist, in kurzem gelingen, auch dieses dunkle Rätsel restlos zu <em>lösen</em>.«
+> Gestern früh fanden Arbeiter, die mit Ausbesserungsarbeiten in der Berliner Straße in Wilmersdorf beschäftigt sind, in ihrem Gerätewagen die Leiche eines elegant gekleideten Herrn, die drei Stiche in der Herzgegend aufwies. Die Mordkommission stellte fest, daß der Tote vollkommen ausgeplündert war, konnte aber doch in kurzem ermitteln, daß der Ermordete der italienische Fürst Emanuelo Spinatri sei, der noch vor anderthalb Jahren als einer der Hauptgegner Mussolinis galt, dann aber, wie wir unlängst berichteten, in den leichtlebigen Gefilden des Spielerparadieses Zoppot zum gewerbsmäßigen Hasardeur herabgesunken war. — Ob man es hier mit einem politischen Mord zu tun hat, läßt sich vorläufig nicht entscheiden. — Der bejahrte Diener des Toten, der mit seinem Herrn zusammen in Zoppot eine kleine Villa unweit des bekannten Restaurants Talmühle am Waldrande bewohnte, ist gestern sofort auf Ersuchen unserer Kriminalpolizei vernommen worden, und hat angegeben, der Fürst sei am 30. November abends gegen sieben Uhr bestohlen worden und hat sich im Flugzeug sogleich nach Berlin begeben, um dort die Hilfe des Privatdetektivs Harst in Anspruch zu nehmen, da die ihm gestohlene Brieftasche politische Papiere mit enthalten hätte, auf deren Rückgewinnung es dem Fürsten besonders angekommen sei. — Eine Anfrage bei dem Detektiv Harst ergab, daß dieser sowie sein Freund und ständiger Begleiter Schraut nach Aussage von Harsts Mutter und Köchin an demselben Abend ihr Heim mit unbekanntem Ziel verlassen hätten, an dem Spinatri in Berlin mit einem Flugzeug eingetroffen war. Die beiden Detektive sind bisher nicht aufzufinden gewesen, und man muß mit der Möglichkeit rechnen, daß auch sie beseitigt worden sind, da unsere rührige Kriminalpolizei drei Chauffeure ermittelt hat, von denen der eine den Fürsten bis in die Nähe der Blücherstraße in Schmargendorf gebracht hat. Man kann also annehmen, daß Spinatri tatsächlich bei Harst gewesen ist, und daß das spurlose Verschwinden der beiden Detektive mit dem Tode des Italieners in engstem Zusammenhang steht. Hat die Kriminalpolizei doch in jenem Gerätewagen verschiedene Anzeichen dafür gefunden, daß dort ein kurzer Kampf zweier Männer mit zwei Angreifern sich abgespielt haben muß. Auf Einzelheiten über diesen Punkt dürfen wir im Interesse der weiteren Untersuchung des geheimnisvollen Verbrechens vorläufig nicht eingehen. Jedenfalls ist Spinatri nicht im Wagen, sondern an der nahen Kirchhofsecke niedergestochen worden. Fraglos wird es unserer Kriminalpolizei, die anerkanntermaßen die beste aller Weltstädte ist, in kurzem gelingen, auch dieses dunkle Rätsel restlos zu lösen.«
 
 So die Zeitung …
 
@@ -464,6 +464,10 @@ Harst unterbrach ihn … »Diese Morphiumspritze in diesem mit Leder beklebtem, 
 
 <p class="centered"><strong>Albinger u. Comp.</strong></p>
 
+<p class="centered">Fabrik für mediz. Instrumente</p>
+<p class="centered">München,</p>
+<p class="centered">Am Sendlinger Tor.</p>
+
 München, mein lieber Pingalli!! Und Robbe spritzte Morphium, und der eine der beiden kann Robbe gewesen sein, wie Sie jetzt zugeben …«
 
 Pingalli war hochgeschnellt …
@@ -476,9 +480,9 @@ Pingalli war hochgeschnellt …
 
 »Ich habe von Hamburg aus den Flugplatz Tempelhof telephonisch angefragt … Gregori traf, da der Doppeldecker weit schneller war, eine halbe Stunde vor Spinatri ein … Und dann … habe ich die Münchener Polizeidirektion noch angerufen, ob in München vielleicht im Frühjahr 1925 ein Regierungsrat Gregori verschwunden sei. Antwort: »Ja — ein Junggeselle, der im Isartal ein Häuschen bewohnte, ein menschenscheuer Sonderling.« — Das genügte mir im Verein mit dem, was der Rundfunk über den Leichenfund unweit Hessellohe verbreitet hat …«
 
-Pingalli und ich vermochten jetzt in gleicher Weise keinem Silbe hervorzubringen … Pingalli fuhr sich mit der Hand mehrmals über die Stirn hin, als müßte er erst Ordnung in seine Gedanken bringen. Ich war schneller im Bilde, meinte nach kurzer, fast weihevoller Pause:
+Pingalli und ich vermochten jetzt in gleicher Weise keine Silbe hervorzubringen … Pingalli fuhr sich mit der Hand mehrmals über die Stirn hin, als müßte er erst Ordnung in seine Gedanken bringen. Ich war schneller im Bilde, meinte nach kurzer, fast weihevoller Pause:
 
-»Robbe hat den Regierungsrat ermordet, hat ihm seinem Amulettmünze umgehängt … Robbe wollte für die Welt tot sein, rechnete damit, daß die Leiche erst in vorgeschrittenem Stadium der Verwesung, also unkenntlich, aufgefunden werden würde, und lebt nun hier in Zoppot als Gregori mit des Ermordeten Papieren, spielt hier, kannte den Fürsten, und …«
+»Robbe hat den Regierungsrat ermordet, hat ihm seine Amulettmünze umgehängt … Robbe wollte für die Welt tot sein, rechnete damit, daß die Leiche erst in vorgeschrittenem Stadium der Verwesung, also unkenntlich, aufgefunden werden würde, und lebt nun hier in Zoppot als Gregori mit des Ermordeten Papieren, spielt hier, kannte den Fürsten, und …«
 
 »Stopp, mein Alter! Deine Phantasie beginnt zu galoppieren …! Stopp!! — Gregori kann Robbe sein — — kann … — Alles weitere werden wir nun feststellen … — Gehen wir spazieren …«
 
