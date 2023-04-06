@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">${property.UUID}</entry>
+<entry key="title">${property.title}</entry>
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<entry key="group-position">${property.groupPosition}</entry>
+<entry key="language">de</entry>
+<entry key="description">
+BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG
+</entry>
+<entry key="author">Olaf Karl Abelsen</entry>
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<entry key="filename">Abelsen, Olaf K. - (${property.groupPosition}) ${property.title}.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
