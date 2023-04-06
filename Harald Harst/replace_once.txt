@@ -47,6 +47,7 @@
 \bnicke\b	nickte
 \bober\b	oder
 \bSähe\b	Sätze
+\bSchrau!	Schraut
 \bSaß\b	Satz
 \bSchrau!	Schraut
 \bSeht\b	Jetzt
