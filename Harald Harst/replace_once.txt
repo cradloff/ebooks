@@ -48,12 +48,15 @@
 \bober\b	oder
 \bSähe\b	Sätze
 \bSaß\b	Satz
+\bSchrau!	Schraut
 \bSeht\b	Jetzt
 \bsic\b	sie
 \bSiek\b	Sie?
 \bTeich!\b	leicht
 \bTer\b	Der
 \btieſ	tief
+\bdor!\b	dort
+\bstete\b	steckte
 \bvor!\b	dort
 \bwirft\b	wirst
 \bWir\.	Mr.
