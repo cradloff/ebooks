@@ -148,7 +148,7 @@ Spion ins Gesicht leuchtete.
 Ein Ausländer, ein Armenier war’s. Mager wie ein
 Hering, mit einem Gesichtserker, wie ihn nur die Herren Armenier
 besitzen, deren Charaktereigenschaften in der ganzen
-Welt nicht gerade beliebt sind. Dir Krimmermütze hatte er
+Welt nicht gerade beliebt sind. Die Krimmermütze hatte er
 sich bis auf die dicken schwarzen Augenbrauen herabgezogen,
 und unter diesen Brauen funkelten uns jetzt ein Paar grimme
 halb zugekniffene Augen tückisch an. Der Mensch hatte sich
@@ -645,7 +645,7 @@ saß in der linken Polsterecke zurückgelehnt da und
 schleuderte jetzt irgend etwas nach Miß Gould — etwas Blinkendes
 …
 
-Im selten Moment erlosch das Licht in dem Auto, und
+Im selben Moment erlosch das Licht in dem Auto, und
 der Wagen ruckte zu schnellster Gangart an, jagte davon.
 
 Das ging alles so rasch, daß ich mich erst nach der
@@ -702,7 +702,7 @@ Haus. Patterson darf sich nicht sehen lassen.«
 
 Das Auto rollte dem Kurfürstendamm zu. Honoria saß
 mir gegenüber. Im Schoß hielt sie den Schirm und den
-Langen Beduinendolch. Die Klinge war blank und funkelte.
+langen Beduinendolch. Die Klinge war blank und funkelte.
 
 Mit einem Male beugte sich Harald vor.
 
@@ -737,7 +737,7 @@ näher bezeichnen oder begründen zu können.
 
 Honoria hatte die Augen geschlossen.
 
-Dann sagte sie scharf, »Lassen Sie wenden, Herr Harst …
+Dann sagte sie scharf: »Lassen Sie wenden, Herr Harst …
 Ich bin zu müde … Ich werde morgen vormittag zu Ihnen
 kommen …«
 
@@ -1118,7 +1118,7 @@ vor?!«
 
 »Kommen Sie nur, lieber Joe. Wir brauchen einen
 unparteiischen Zeugen. Helfen Sie bitte Schraut, Choffrim
-hierher zu tragen. Wir Betten ihn auf das Sofa. Inzwischen
+hierher zu tragen. Wir betten ihn auf das Sofa. Inzwischen
 wird die Miß wohl wieder erwachen. Vorher aber, Joe, —
 sehen Sie sich mal diese Tätowierung an, den Feuersalamander
 auf dem Unterarm der Miß. Fällt Ihnen daran etwas
@@ -1207,7 +1207,7 @@ Was war geschehen?! Ich ließ meine Phantasie spielen,
 und auch Joe riet hin und her, wobei jedoch beiderseits nichts
 Vernünftiges herauskam, abgesehen von der zweifelsfreien
 Tatsache, daß Honoria Gould nicht bewußtlos gewesen sein
-Konnte und deshalb irgend etwas unternommen hatte —
+konnte und deshalb irgend etwas unternommen hatte —
 gegen Harst — — um zu fliehen?! Und da begannen schon
 die Fragezeichen. Gegen Harst?! Wenn sie ihn etwa betäubt
 hatte, oder gar niedergeschlagen oder erschossen oder erdolcht,
@@ -1291,7 +1291,7 @@ kräftig, frühstückten noch kräftiger, versorgten unseren Patienten,
 der sich leidlich wohlfühlte, und wollten dann allgemeinen
 Kriegsrat abhalten. Weit kamen wir damit nicht.
 Als Harst kaum begonnen hatte, uns im einzelnen die Beweise
-aufzuzählen, die seiner Ansicht Honoria Gould zweifelsfrei
+aufzuzählen, die seiner Ansicht nach Honoria Gould zweifelsfrei
 als eine Hochstaplerin hinstellten, die ganz unbefugt nach
 Beseitigung der echten Erbin als Tochter Simon Goulds
 aufgetreten war, — als Doktor Choffrim Mahmud gerade

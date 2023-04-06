@@ -66,7 +66,7 @@ Sie sich in den Orden aufnehmen ließen …«
 Miß Honoria schüttelte den Kopf. »Ich habe mich nie
 irgendwie am Unterarm verletzt — nie! Sie müssen sich
 <@pagebreak/>
-getäuscht haben, Mahmud? Wann und wo sahen Sie denn
+getäuscht haben, Mahmud! Wann und wo sahen Sie denn
 diese Narbe?«
 
 »Besinnen Sie sich bitte auf jenen Morgen, als Sie
@@ -95,7 +95,7 @@ nicht mehr über die Bahnbau-Angelegenheit unterhalten,
 da …«
 
 »Schneller — kürzer, Mahmud …! Sehen Sie denn
-nicht, daß im förmlich fiebere …! — Das Weib …«
+nicht, daß ich förmlich fiebere …! — Das Weib …«
 
 »… hob einmal den linken Arm ganz hoch, der Ärmel
 glitt zurück und … da sah ich die Narbe …«
@@ -206,7 +206,7 @@ haben edlere Teile nicht verletzt. — Nur noch eins,
 <@pagebreak/>
 Miß Gould …«
 
-Sie hatte sich bereits erhoben und machte nun eine Ungeduldige
+Sie hatte sich bereits erhoben und machte nun eine ungeduldige
 Handbewegung.
 
 »Nur eine Frage, Miß Gould … Weshalb wollten Sie
@@ -333,7 +333,7 @@ seinem Pflasterstreifen über der Stirn wie ein Student
 »frisch von der Mensur« aussah, »— sehen Sie, lieber Choffrim,
 die echte Miß Gould kam auch mir abgeklärter, etwas
 <@pagebreak/>
-verträumter und alles im alles vornehmer als die andere
+verträumter und alles in alles vornehmer als die andere
 vor … — Nun versuchen Sie wieder zu schlafen, Doktor. Ich
 habe einige Besorgungen in der Stadt zu erledigen. Für
 Patt und Schraut ist auch Arbeit da. Wiedersehen …«
@@ -409,7 +409,7 @@ Mir kam ein glücklicher Gedanke. Dicht neben mir stand
 ein Laubenkolonist, ein Kriegsbeschädigter, den wir schon des
 öfteren in unserem Garten beschäftigt hatten. Es war dies
 ein intelligenter Mensch, dem man volles Vertrauen schenken
-konnte. Schnellt flüsterte ich ihm das Nötige zu und drückte
+konnte. Schnell flüsterte ich ihm das Nötige zu und drückte
 ihm auch Geld in die Hand. Er begriff sofort, flüsterte zurück:
 <@pagebreak/>
 »Ja — der mit dem hellen Hut mit schwarzem Band … Ich
@@ -894,7 +894,7 @@ Vielleicht dreihundert Meter entfernt …
 Kein Vulkan …
 
 Ein Schiff, das durch eine Explosion zerstört wurde, —
-das in die Luft flog, — dessen Benzinvorräte gleicht Flammenzungen
+das in die Luft flog, — dessen Benzinvorräte gleich Flammenzungen
 eines feuerspeienden Berges sich emporleckten, für
 Sekunden die Umgebung in eine gespenstische Lichtfülle tauchten
 und wieder erloschen …
@@ -965,7 +965,7 @@ Dann war der Mond mit einem Schlage wieder verdeckt.
 
 Finsternis …
 
-An meinen Beinen krabbelte etwas umher, richtete sie
+An meinen Beinen krabbelte etwas umher, richtete sich
 auf, fluchte …
 
 Patt …!
@@ -1135,7 +1135,7 @@ Sie uns nur in den Salon, dort werde ich …«
 
 »Kommen Sie, kommen Sie, meine Herren … Wir wissen
 ja selbst nicht recht, woran wir eigentlich sind … — Mister
-Mahmud, Sie begeben sich in Ihr Kabine!«
+Mahmud, Sie begeben sich in Ihre Kabine!«
 
 »Später — später kann er das tun,« meinte Harst gemütlich.
 »Gehen wir also … Für beide Damen wird es eine
@@ -1257,7 +1257,7 @@ Wir Unbeteiligten — denn bei dieser nervenprickelnden
 Entlarvungsszene gab es ja nur drei Mitspieler — wir
 anderen, selbst der in allen Sätteln feste dürre Patt, machten
 Gesichter, die so die Mitte zwischen ungläubigem Staunen
-und sensationshungrigen Spannung hielten.
+und sensationshungriger Spannung hielten.
 
 Der »Diwan« also war die »echte« Miß Gould — und
 nicht der »Sessel« …!
