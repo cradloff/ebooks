@@ -184,7 +184,7 @@ Plantagengesellschaft bin, der die Osthälfte der Insel gehört. Noch
 unsinniger, Herr Harst, — verzeihen Sie den schroffen Ausdruck
 — ist Ihre Annahme, Hindersen könnte Miß Anni
 Goddwell ermordet und den einen Fuß der Toten in so
-scheußlichen Weise benutzt haben, um es glaubhafter zu
+scheußlicher Weise benutzt haben, um es glaubhafter zu
 machen, daß auch die drei jungen Mädchen im Meere umgekommen
 seien. Was schließlich Ihren Verdacht angeht, Miß
 Mary könnte jetzt den Inhalt der Flaschenpost, also die ursprüngliche
@@ -247,7 +247,7 @@ Lügner der Welt. Wir werden die Augen offenhalten …«
 <h2>2. Kapitel.</h2>
 <h3>Harst ist mir unverständlich.</h3>
 
-Der »Seestern« war das schnellste und eleganteste Luftfahrzeug
+Der »Seestern« war das schnellste und eleganteste Lustfahrzeug
 der indischen Gewässer, erst vor einem Jahre auf
 den Elbwerften in Hamburg fertiggestellt und geradezu ein
 Reklamestück deutscher Schiffsbaukunst.
@@ -372,7 +372,7 @@ Malaien kein anderes Boot mehr zur Verfügung haben. Sie
 können Nummer 3 nicht verlassen, und morgens haben wir
 sie, — hoffen wir …
 
-Um halb zwölf ist die Boot vorübergezogen. Die helle
+Um halb zwölf ist die Bö vorübergezogen. Die helle
 Tropennacht erlaubt uns, sofort den Piraten nachzuspüren.
 Nummer 3 ist nur klein, kaum eine halbe Meile lang und
 etwas schmäler.
@@ -628,7 +628,7 @@ Tau, und Harst setzte sich ans Steuer.
 Es war jetzt gerade steigend Wasser, und die Flut erzeugte
 in der Bucht eine scharfe Strömung. Harald steuerte
 auf eine ganz schmale Seitenbucht zu, in deren äußerstem
-Winkel im zu meiner Überraschung zwei angespülte Haifischkadaver
+Winkel ich zu meiner Überraschung zwei angespülte Haifischkadaver
 mit aufgeschlitzten Leibern zwischen den Steinen
 liegen sah. »Das ist die Arbeit des Schwimmers der verflossenen
 Nacht …,« sagte er nur. »Glaubst du noch immer,
@@ -952,7 +952,7 @@ die Menschenhaie …
 In der Tat — draußen auf Deck war es ganz still geworden
 … Zuletzt hatte ich noch zwei gellende Aufschreie
 gehört, und der letzte dieser in höchster Todesnot hervorgestoßenen
-Schreie klang mir ganz nachts Candu, dem alten
+Schreie klang mir ganz nach Candu, dem alten
 Tamilen … Wir wurde es kühl um das Rückgrat herum.
 
 Ich konnte mir unschwer die Szene ausmalen, die sich an
@@ -1001,7 +1001,7 @@ Wer …? Doch nur Opatu — nur! Und daß dieser junge,
 braune Lump nur deshalb an Bord gekommen, um seinen
 Piratenkollegen rechtzeitig ein Helfer zu sein, war ja nun
 auch klar … Das schoß mir so durch den Kopf, während die
-braunen Bestien mich an Deck schritten … Eine Rotte
+braunen Bestien mich an Deck schleiften … Eine Rotte
 Teufel war’s … Kerle aller Altersstufen …
 
 Die meisten nur in Leinenhosen … Die meisten mit
@@ -1017,7 +1017,7 @@ Die Kerle schleiften uns unter wüstem Gebrüll zur
 Steuerbordreling. Und doch — sie schienen bei all ihrer
 Vertiertheit sich doch nicht so recht an uns heranzutrauen …
 Schon der Überfall auf uns, als wir noch in den Betten
-lagen, war letzten Endes beinahe voll rücksichtsvoll gewesen.
+lagen, war letzten Endes beinahe noch rücksichtsvoll gewesen.
 
 <@pagebreak/>
 Daß man mir die Kehle etwas energisch zugedrückt hatte, —
@@ -1090,7 +1090,7 @@ Küstenstationen alle unterwegs befindlichen Dampfer aufgefordert,
 nach dem Piratenboot zu fahnden. Ich horchte — —
 horchte … Es wurde immer stiller an Deck …
 
-Wir war’s, als ob ein Boot einmal hart gegen die Backbordwand
+Mir war’s, als ob ein Boot einmal hart gegen die Backbordwand
 stieß. Die Prau schlingerte sehr stark. Bei dem
 schwachen Wind gehorchte sie jetzt ohne Segeldruck dem Steuer
 nicht mehr, rollte und stampfte, Brecher schlugen über die
@@ -1276,7 +1276,7 @@ in die Höllenglut des Herdes. Dann erst kriegte Opatu seine
 wohlverdienten Rippentriller. Mit meiner Geduld war’s
 jetzt ganz aus. Ich nahm eine Leine und band den braunen
 <@pagebreak/>
-Halunken an eine große Mehlkiste, Front naß dem Herde,
+Halunken an eine große Mehlkiste, Front nach dem Herde,
 fest. Mochte er schwitzen! Außerdem versprach ich ihm eine
 Kugel in den Schädel, wenn er etwa einen Fluchtversuch
 wage. — Harst rief, und ich hatte dann an Deck alle Hände
@@ -1529,4 +1529,6 @@ sogar noch mehr Gelegenheit, den eigenen Geist zu
 wetzen … Die Tätowierung der Honoria Gould gehört wirklich
 nicht zu den Alltäglichkeiten …
 
-Buchdruckerei: P. Lehmann G. m. b. H., Berlin SO 36, Elisabeth-Ufer 44
+<@spacer 2/>
+
+<p style="font-size: small;">Buchdruckerei: P. Lehmann G. m. b. H., Berlin SO 36, Elisabeth-Ufer 44</p>

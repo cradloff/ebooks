@@ -16,7 +16,7 @@ Wandschmuck in Harald Harsts Schlafzimmer unter drei gut
 erhaltenen Köpfen von Südseeinsulanern.
 
 Der Menschenhaischädel stammt von der kleinen, felsigen
-Insel Gallayo, die östlich der Malediven — Gruppe im
+Insel Gallayo, die östlich der Malediven-Gruppe im
 Indischen Ozean liegt.
 
 Wie wir nach Gallayo kamen, soll im folgenden erzählt
@@ -451,7 +451,7 @@ auf volle Fahrt.
 
 Harst hatte sich gebückt …
 
-Auch die Zweite Kugelsaat von drüben setzte über ihn
+Auch die zweite Kugelsaat von drüben setzte über ihn
 hinweg …
 
 Ich hatte nicht nur meine Clement zur Hand, sondern
@@ -476,7 +476,7 @@ Es wurde ernst …
 
 Aber der Kreis der breiten, schwimmenden Petroleumbahn
 war nun auch vollendet. Svendsen warf einen brennenden
-Ballen Putzzwerg über Bord …
+Ballen Putzwerg über Bord …
 
 Flammen, Flämmchen züngelten auf …
 
@@ -639,7 +639,7 @@ Ah — das war freilich ein sehr naheliegender Gedanke!!
 
 »Ballamoor mag fürchten, daß man ihm die Bänke
 plündert … Und da sind die Haie der sicherste Schutz …« —
-— Harst sprach voll immer in etwas weltentrückten Tonfall
+— Harst sprach noch immer in etwas weltentrücktem Tonfall
 <@pagebreak/>
 … Dann fügte er hinzu, und dies etwas lebhafter:
 
@@ -649,8 +649,8 @@ liegen drei Boote … Ich werde mir eins leihen.«
 
 »Gestatte … — und ich?!«
 
-»Da kannst mitkommen … Ich erkläre dir aber gleich, daß
-sie Sache nicht ungefährlich ist …«
+»Du kannst mitkommen … Ich erkläre dir aber gleich, daß
+die Sache nicht ungefährlich ist …«
 
 »Lächerlich! Der Haie wegen?!«
 
@@ -705,7 +705,7 @@ Ihre schwach leuchtenden, gespensterhaften, schnell dahingleitenden
 Leiber umschwärmten in weitem Umkreise unser kleines
 Fahrzeug.
 
-Diese Stoß, den das Boot erhalten hatte, machte sich
+Dieser Stoß, den das Boot erhalten hatte, machte sich
 auch in einem jähen Aufhören jeder Vorwärtsbewegung bemerkbar.
 
 Plötzlich flutete dann vom Boden des Fahrzeugs her ein
@@ -764,7 +764,7 @@ Aber auch der Menschenfresser war erledigt …
 
 Sein wildes, zweckloses Hin- und Herrasen, seine törichten
 Schwanzschläge, die ihm das schmerzhafte Anhängsel vom
-Bauche abschütteln sollte, waren unsere Rettung, machten die
+Bauche abschütteln sollten, waren unsere Rettung, machten die
 übrigen Bestien scheu …
 
 Als wir das steile Ufer des Inselchens erkletterten, zitterten
@@ -1059,7 +1059,7 @@ Das Telephon auf dem Schreibtisch schlug an …
 
 Ballamoor nahm den Hörer … »Ja, der Brief soll mir
 dann sofort gebracht werden … sofort … Ein unbekannter
-Lingeborener hat ihn dem Pförtner ausgehändigt? Her mit
+Eingeborener hat ihn dem Pförtner ausgehändigt? Her mit
 dem Brief …!«
 
 Ein Kontordiener brachte das Schreiben. Mit flatternden
@@ -1201,7 +1201,7 @@ Ihnen die Haare zu Berge stehen! — Jetzt zeigen Sie mir
 bitte mal das Blättchen Puderpapier …«
 
 Dieses Blättchen lag sauber zwischen zwei Glasplatten.
-Man konnte die Worte der eingeritten Inschrift, die der Inspektor
+Man konnte die Worte der eingeritzten Inschrift, die der Inspektor
 schon entziffert hatte, ohne große Mühe erkennen.
 Die fehlenden und völlig verwischten Worte, die erst Miß
 Mary jetzt ergänzt hatte, also:
