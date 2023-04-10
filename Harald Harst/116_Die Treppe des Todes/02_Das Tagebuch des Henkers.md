@@ -27,7 +27,7 @@ dies, und mit mir der Leser, einzig und allein meinem
 Freunde Harald Harst, dem es gelang, Bastimons ungeheuerliche
 Aufzeichnungen in dem gemauerten Schacht unter der
 <@pagebreak/>
-tückischen Treppe nach längerem Suchen zu entdecken — —
+tückischen Treppe nach längerem Suchen zu entdecken. — —
 
 Zurück in dieses Verließ …
 
@@ -63,7 +63,7 @@ derselbe Bastimon, der doch offenbar seinen Gemälden und
 Bildhauerarbeiten nach geradezu in den Erinnerungen an
 sein Henkerhandwerk geschwelgt haben mußte …!
 
-Ich legte Harst in eine Ecke des quadratischen Schachtes
+Ich legte Harst in eine Ecke des quadratischen Schachtes,
 der eine Seitenlänge von etwa vier Meter haben mochte.
 
 Meine Bemühungen, Harald rasch wieder ins Leben
@@ -93,7 +93,7 @@ auf ein paar eingemeißelte seltsame Zeichen …
 Ich stellte mich neben ihn …
 
 »Da ist eine Jahreszahl — obere Reihe,« sagte er nachdenklich.
-»Und zwar 1752 … Ja — 1752 … Darunter
+»Und zwar 1752 … Ja — 1752 …! Darunter
 eine Art Vogel … Es könnte ein Storch sein, der den
 Schnabel nach unten reckt … Und dann in derselben Reihe
 noch — ja, dies kann nur das plumpe Bild eines Elefanten
@@ -214,7 +214,7 @@ Kurze Pause …
 
 »Übrigens,« fuhr er langsamer fort, »übrigens können
 wir uns hier vielleicht die Zeit durch die Lektüre eines Buches
-vertreiben. — Schau’ mal her …«
+vertreiben … — Schau’ mal her …«
 
 Und er ging zu der Wand hinüber, wo die Figuren eingemeißelt
 waren.
@@ -247,13 +247,13 @@ Er schlug das Buch auf…
 
 Las — übersetzte gleich ins Deutsche:
 
-> *Erinnerungen und Schandtaten*
+<p class="centered"><em>Erinnerungen und Schandtaten</em></p>
 
-> des Henkers von London
+<p class="centered">des Henkers von London</p>
 
-> *Charles Roger Andrew Bastimon*,
+<p class="centered"><em>Charles Roger Andrew Bastimon</em>,</p>
 
-> begonnen im Jahre 1731.
+<p class="centered">begonnen im Jahre 1731.</p>
 
 »Da wir hier nichts Besseres zu tun haben,« meinte Harald,
 »setzen wir uns mal dort an die Mauer und studieren
@@ -265,120 +265,120 @@ wir diese — Schandtaten …«
 <h3>Jeanette Lagrange.</h3>
 
 Harald las nur kurze Abschnitte aus Bastimons Tagebuch
-vor, das heute eine der Hauptstücke unserer Raritätensammlung
+vor, das heute eins der Hauptstücke unserer Raritätensammlung
 darstellt. Lord Almanion hat Harst für das Buch
 100&nbsp;000 Pfund geboten, und Harst … hat abgelehnt. —
 
 Er las …:
 
-»Gott der Herr ist gepriesen!! Ich habe die Treppe
+> »Gott der Herr ist gepriesen!! Ich habe die Treppe
 fertig. Es war eine Arbeit, die fast über meine Kräfte ging.
 
-Die Einsamkeit hier in Bramby ertrug ich nicht länger.
+> Die Einsamkeit hier in Bramby ertrug ich nicht länger.
 Ich mußte mich irgendwie ablenken. Die Malereien befriedigten
 mich nicht. Wer wie ich daran gewöhnt ist, Menschen
 vom Leben zum Tode zu befördern, findet es kläglich,
 sich nur an gemalten Galgen zu ergötzen.
 
-Außerdem aber —: es kamen so sehr viel heimliche Besucher
+> Außerdem aber —: es kamen so sehr viel heimliche Besucher
 zu mir, alles abergläubische reiche Leute, die uns
 Henkern übernatürliche Gaben beimessen.
 
 <@pagebreak/>
 
-Der eine kam und wollte ein Stück von dem Strick eines
+> Der eine kam und wollte ein Stück von dem Strick eines
 Gehenkten kaufen …
 
-Der andere kam und verlangte ein Tuch, getränkt mit
+> Der andere kam und verlangte ein Tuch, getränkt mit
 dem Speichel, der einem Verurteilten unter dem Galgen
 vor Todesangst aus dem Munde geflossen war …
 
-Ein dritter wünschte ein Büschel Haare vom Kopf eines
+> Ein dritter wünschte ein Büschel Haare vom Kopf eines
 Gehenkten …
 
-Und all diese Narren, die da von London heimlich nachts
+> Und all diese Narren, die da von London heimlich nachts
 zu mir eilten mit Waren und Pferden, all diese Narren befriedigte
 ich, gab ihnen, was ihrer Sehnsucht Ziel gewesen,
 und — scharrte Geld zusammen …
 
-Geld! Geld! Gold — Schmuck: das einzige, was mir
+> Geld! Geld! Gold — Schmuck: das einzige, was mir
 noch Freude macht, außer dem Anblick eines, der … durch
 meine Hand sterben muß …!
 
-Diese Einnahmen genügten mir nicht.
+> Diese Einnahmen genügten mir nicht.
 
-So ersann ich die Treppe des Todes …
+> So ersann ich die Treppe des Todes …
 
-Baute sie …
+> Baute sie …
 
-Nun ist sie fertig. Wenn ich auf den Kopf der Säulenstatue
+> Nun ist sie fertig. Wenn ich auf den Kopf der Säulenstatue
 am linken Geländer drücke, auf *meinen* Kopf, dann
 … dann öffnet sich der Schlund … —
 
-Morgen vielleicht schon habe ich Gelegenheit, eines meiner
+> Morgen vielleicht schon habe ich Gelegenheit, eines meiner
 Opfer auszuplündern …
 
-Ich werde vorsichtig sein, werde nur solche verschwinden
+> Ich werde vorsichtig sein, werde nur solche verschwinden
 lassen, von denen ich weiß, daß sie allein zu mir eilten —
 ohne Begleitung, ohne jemandem gesagt zu haben, wohin
 sie reisten … — — —
 
-Lord Allan Treckmoore ist das erste Opfer geworden.
+> Lord Allan Treckmoore ist das erste Opfer geworden.
 
-Alles spielte sich so einfach ab.
+> Alles spielte sich so einfach ab.
 
-Ich zeigte ihm das Geländer der Treppe, meine
+> Ich zeigte ihm das Geländer der Treppe, meine
 Bildhauerarbeiten …
 
-Ich legte die Hand auf *meinen* Kopf, auf den Kopf
+> Ich legte die Hand auf *meinen* Kopf, auf den Kopf
 der Statue, die mein Ebenbild ist …
 
-Und ich empfand einen wahren Genuß, wie ich so den
+> Und ich empfand einen wahren Genuß, wie ich so den
 jungen Lord vor mir auf den verhängnisvollen Stufen
 stehen sah …
 
 <@pagebreak/>
 
-Ich sehe noch immer sein entsetztes Gesicht vor mir, als
+> Ich sehe noch immer sein entsetztes Gesicht vor mir, als
 unter ihm die Stufen versanken und er hinabsauste.
 
-Er hat einen leichten Tod gehabt. Ich fand ihn unten
+> Er hat einen leichten Tod gehabt. Ich fand ihn unten
 mit gebrochenem Genick. — — —
 
-Lady Maria Collirson wünschte ein Stück vom Strick
+> Lady Maria Collirson wünschte ein Stück vom Strick
 eines Gehenkten, damit sie es ihrem Gatten zerfasert in die
 Leibwäsche einnähen könnte. Sie wollte so die Liebe ihres
 Gatten zurückgewinnen.
 
-Ganz allein war sie verkleidet von London herübergeritten.
+> Ganz allein war sie verkleidet von London herübergeritten.
 Aber aus Eitelkeit trug sie doch ihre Ringe, Armbänder,
 eine Perlenkette.
 
-Auch sie versank. Sie ist das fünfte Opfer. — — —
+> Auch sie versank. Sie ist das fünfte Opfer. — — —
 
-Ich merke, daß ich alt und hinfällig werde. Der Gedanke,
-mit einundzwanzig Toten zusammen in diesem
+> Ich merke, daß ich alt und hinfällig werde. Der Gedanke,
+mit neunzehn<@refnote 2/> Toten zusammen in diesem
 meinem Hause zu leben, stört mich zuweilen.
 
-Vielleicht habe ich wirklich so etwas wie ein Gewissen.
-Ich träume oft nachts und erwache, weil einundzwanzig
+> Vielleicht habe ich wirklich so etwas wie ein Gewissen.
+Ich träume oft nachts und erwache, weil neunzehn
 Totengerippe mir auf der Brust knien. — — —
 
-Nun ist auch der zweiundzwanzigste hinüber, ein reicher
+> Nun ist auch der zwanzigste<@refnote 3/> hinüber, ein reicher
 Londoner Kaufmann.
 
-Er soll der letzte sein. Ich fühle, es geht mit mir zu
+> Er soll der letzte sein. Ich fühle, es geht mit mir zu
 Ende. Ich werde morgen den Notar aus Bramby zu mir
 bitten und mein Testament machen. Mein Vermögen an
 Goldmünzen soll derjenige erhalten, der als zum Tode Verurteilter
 begnadigt wird, weil der Strick bei der Hinrichtung
 gerissen ist.
 
-Was ich sonst noch an Schmuck und Juwelen aufgehäuft
+> Was ich sonst noch an Schmuck und Juwelen aufgehäuft
 habe, wird nie wieder eines Menschen Auge zu sehen bekommen.
 Ich werde den Ledersack im Meere versenken.
 
-Dieses Buch aber bringe ich in dem vorbereiteten Versteck
+> Dieses Buch aber bringe ich in dem vorbereiteten Versteck
 unter, und wenn ich noch Eintragungen machen will, gehe
 ich hinab zu den Toten und schreibe in ihrer Gesellschaft,
 was ich zu schreiben habe.«
@@ -414,7 +414,7 @@ Buche anvertraut hatte, wirkte anders, wirkte — erschütternd!
 
 Da stand, in französischer Sprache:
 
-> »Im September 1919,
+<p class="centered">»Im September 1919,</p>
 
 > an welchem Tage, weiß ich nicht, schreibe ich, Jeanette Sheffield,
 geborene Lagrange, diese Zeilen an diesem entsetzlichen
@@ -444,7 +444,7 @@ Am Abend, als wir einen kurzen Spaziergang machten,
 überfiel uns im Walde ein Landstreicher, schlug Thomas
 nieder und würgte mich, bis ich bewußtlos war.
 
-> Ich erwachte in einem kleinen, fensterlosen Raum in
+> Ich erwachte in einem kleinen, fensterlosen Raum, in
 meinem Kerker, wo mich bis heute ein starkknochiges Weib
 bewacht hat — bewacht und … gemartert, falls ich nicht
 blindlings gehorchte.
@@ -471,7 +471,7 @@ Unsere Gedanken wandelten dieselben Wege …
 Harald sagte plötzlich:
 
 »Margitt Sheffield — — Jeanette Sheffield!! Das
-erklärt vieles. Ein Heiratsschwindler, ein Verbrecher, treibt
+klärt vieles. Ein Heiratsschwindler, ein Verbrecher, treibt
 hier sein Wesen, und die Prenderlax ist seine Helfershelferin
 …«
 
@@ -570,7 +570,7 @@ Tür …
 
 Und — prallte zurück …
 
-Das — verzinkte Guckloch war plötzlich draußen hell erleuchtet
+Das — verglaste Guckloch war plötzlich draußen hell erleuchtet
 …
 
 Ein menschliches Auge schob sich vor das runde kleine
@@ -666,7 +666,7 @@ Henker-Hauses in die Vorhalle hinab.
 Groupy und ich hatten Jeanette Lagrange in die Mitte
 genommen. Die zierliche Französin schien die Gefangenschaft,
 diese nun bereits fast vierjährige Kerkerhaft in einem fensterlosen
-Stübchen weit besser überstanden zu haben, als Margitt.
+Stübchen weit besser überstanden zu haben als Margitt.
 
 <@pagebreak/>
 Sie fragte uns nach allem Möglichen aus. All diese
@@ -852,21 +852,21 @@ weite Spielplätze, Anlagen und große öffentliche
 Parke gaben dem Vorort einen behaglichen, freundlichen
 Anstrich.
 
-Balling wohnte in der Doggen-Street in der Nähe
+Balling wohnte in der Dogger-Street in der Nähe
 mehrerer Fabriken.
 
 <@pagebreak/>
 Sein villenartiges Haus lag inmitten eines alten,
-stämmigen Gartens ganz versteckt. Rechter Hand von diesem
+hochstämmigen Gartens ganz versteckt. Rechter Hand von diesem
 Garten zog sich ein Golfplatz bis zur Parallelstraße hin.
 
 Harst hatte den Garten betreten. Ich blieb dann einen
 Augenblick an der Gartenpforte stehen. Da war ein großes
 Porzellanschild befestigt:
 
-> Dr. Archibald Balling, Arzt.
+<p class="centered">Dr. Archibald Balling, Arzt,</p>
 
-> Sprechstunden 10-11, 5-6.
+<p class="centered">Sprechstunden 10—11, 5—6.</p>
 
 Während ich noch das Schild überflog, kam jemand hinter
 mir die Straße entlang …
@@ -887,7 +887,7 @@ den Strohhut …
 
 Ein schneller Entschluß:
 
-»Ja … sind Sie Doktor Balling?«
+»Ja … Sind Sie Doktor Balling?«
 
 »Der bin ich …« Er lächelte etwas. »Wo fehlt’s denn,
 Mister? Eilt’s sehr? Ich habe erst von fünf Uhr Sprechstunde
@@ -967,7 +967,7 @@ Morphiumeinspritzung!!
 
 Wenn Balling uns durchschaut hatte! Wenn er statt
 <@pagebreak/>
-Morphium ein Gift nahm! Wenn er und beide spurlos
+Morphium ein Gift nahm! Wenn er uns beide spurlos
 verschwinden ließ …!
 
 Er hatte sich schon umgewandt und trat ins Sprechzimmer
@@ -997,7 +997,7 @@ Und doch — doch: wenn ich seinem Blick begegnete, war
 mir’s zuweilen, als ob im Hintergrunde dieser grauen kühlen
 Augen Hohn und Triumph leuchteten … —
 
-Dann mußte ich mich halb entkleiden.
+Dann mußte ich mich halb entkleiden …
 
 <@pagebreak/>
 Er untersuchte mich. Zum Glück wußte ich über die Erscheinungen
@@ -1042,7 +1042,7 @@ Und — das Tütchen lag auf dem Schreibtisch — in Griffnähe
 
 Und — ein schneller Griff — ein Blick …
 
-Die Aufschrift lautete: »Cyan. 0.5.«
+Die Aufschrift lautete: »Cyan. 0,5.«
 
 Als Balling mit dem Glase Wasser wieder nähertrat,
 saß ich da und schaute zum Fenster hinaus.
@@ -1138,7 +1138,7 @@ Eine Gestalt darauf: Harst!
 Und ein Sprung — ein Griff nach Haralds Hand —
 ein angstvolles Tasten, ob ich noch Pulsschlag fühle …
 
-Der Puls schlug … Schwach — aber Harald lebte,
+Der Puls schlug … schwach — aber Harald lebte,
 konnte nur betäubt sein …
 
 Ich lief ins andere Zimmer zurück — an den Fernsprecher
@@ -1322,7 +1322,7 @@ Und er reichte den Damen zwei lange Sturmschleier.
 »Bitte — wollen Sie Ihre Gesichter verhüllen …« —
 
 Vor der Gartenpforte der Villa drängte sich eine Schar
-Neugieriger Männer und Frauen. Die Pforte war bekränzt.
+Neugieriger, zumeist Frauen. Die Pforte war bekränzt.
 <@pagebreak/>
 Aus den offenen Fenstern des Hauses drang Tanzmusik in
 die stille Nacht hinaus. —
@@ -1360,7 +1360,7 @@ Und — mit der kleinen Faust schlug sie zu …
 Wollte zuschlagen … — Harald hielt ihren Arm fest.
 Und während Carlson die bedauernswerte Gattin des Entlarvten
 ins Haus zurückgeleitete, führten drei Beamte den
-willenlosen Betrüger zum Polizeiauto … — —
+willenlosen Betrüger zum Polizeiauto … — — —
 
 Schlußszene: im Polizeigebäude, in Chef Carlsons
 Dienstzimmer …
@@ -1435,7 +1435,7 @@ Er hatte sich selbst gerichtet … —
 
 Seine Mutter sitzt noch heute im Zuchthaus. Sein
 bedauernswerter, willensschwacher Stiefvater starb im
-Krankenhause.
+Krankenhause. —
 
 Das Haus des Henkers in Bramby ist abgerissen worden.
 

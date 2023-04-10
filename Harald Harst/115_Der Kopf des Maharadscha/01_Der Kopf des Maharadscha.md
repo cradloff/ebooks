@@ -112,7 +112,7 @@ Lady Cornawoor nickte mir kurz zu …
 »Kenne Sie vom Hörensagen, Mr. Schraut …«
 
 Dann zog sie einen Korbsessel neben den Diwan und
-setzte sich, wobei unter dem fußfreiem Sportrock ein Paar
+setzte sich, wobei unter dem fußfreien Sportrock ein Paar
 Riesenfüße in gelben hohen Schnürschuhen noch deutlicher
 ihre unglaublichen Abmessungen zur Schau stellten. —
 
@@ -174,6 +174,8 @@ Zettel …«
 
 Harst richtete sich etwas auf. Sein Interesse war geweckt.
 
+»Nun — und — —?!«
+
 »Der Zettel, Mr. Harst, war ein förmlicher Vertrag zwischen
 dem Diebe und einem gewissen Mr. Norton. Der Dieb
 sollte in das Museum sich einschleichen, den Kopf stehlen, und
@@ -203,7 +205,7 @@ sind drei Jahre her — den Tempel selbst besucht. Nie las
 ich in den Zeitungen, daß der Kopf des Maharadscha gestohlen
 wurde …«
 
-Die Lady beugte ich vor …
+Die Lady beugte sich vor …
 
 »Das ist’s ja gerade, Mr. Harst!! Das ist’s ja gerade:
 der Kopf ist vorhanden, und niemand in Jaipuvar weiß
@@ -238,7 +240,9 @@ Einbruchsversuch in Museum. Wächter Claryc hat Dieb
 angeschossen. Haben den Mann in Pflege genommen und
 der Polizei nichts gemeldet. Fand bei ihm ähnlichen Vertrag
 mit Norton wie bei jenem Edward Tompkins. Bitte
-Instruktionen. Allison.«
+Instruktionen.
+
+<p class="right">Allison.«</p>
 
 »Und — welche Instruktionen gaben Sie telegraphisch, Mylady?«
 fragte Harald gespannt.
@@ -247,14 +251,14 @@ fragte Harald gespannt.
 Aden. Gleichzeitig hörte ich, Sie seien ebenfalls hier. Da
 depeschierte ich an Allison:
 
-»Den Mann festhalten und schweigen. Ich bringe
-Harald Harst mit.«
+> »Den Mann festhalten und schweigen. Ich bringe
+Harald Harst mit.««
 
 Harald lächelte … »Und — wußten Sie bestimmt, daß
 ich Sie nach Schloß Cornawoor begleiten würde, Mylady?«
 
 »Ja, Mr. Harst! Ein Harald Harst läßt sich doch einen
-solchen Fall nicht entgehen!«
+solchen Fall nicht entgehen!!«
 
 Harald nickte … »Allerdings! Ein Kopf, der gestohlen
 sein soll und doch nicht gestohlen ist, — das dürfte lohnen!
@@ -298,7 +302,7 @@ Kopf des Maharadscha von Jaipuvar auf irgendeine
 Weise aus dem Museum der Lady Cornawoor herausholt.
 Als Anzahlung hat Mr. Tompkins 300 Pfund erhalten.
 
-> Alexander Archibald Norton.«
+<p class="right">Alexander Archibald Norton.««</p>
 
 Harald starrte vor sich hin … Drei, vier Minuten …
 Dann: »Mylady, wir begleiten Sie. Abends sind wir
@@ -377,11 +381,11 @@ Karte, sagte:
 
 Der Aufdruck der Karte lautete:
 
-> Thomas Jonas Pfistercrac,
+<p class="centered">Thomas Jonas Pfistercrac,</p>
 
-> Inhaber der Weltdetektei Pfistercrac u. Comp.
+<p class="centered">Inhaber der Weltdetektei Pfistercrac u. Comp.</p>
 
-> London, Arlystreet 176.
+<p class="centered">London, Arlystreet 176.</p>
 
 »Mister Pfistercrac ist mir willkommen,« erklärte ich dem
 Kellner, denn Thomas Jonas Pfistercrac war eine Berühmtheit
@@ -442,7 +446,7 @@ Schraut: das Mädchen glaubt ebensowenig wie ich an den
 Kopf, den Vertrag und so weiter! Es sind — Morde! Und
 da ich nun bereits die Sache in den Händen habe, bitten Sie
 Ihren Freund, mir nicht Konkurrenz zu machen. Bieten Sie
-Ihren ganzen Einfluß auf, daß Harst die Lady nicht begleitet,
+Ihren ganzen Einfluß auf, daß Harst die Lady *nicht* begleitet,
 denn — — Sie beide würden unterwegs nach London
 sicherlich auf der Charybdis irgendwie — verunglücken!
 Sie verstehen!! Ich warne Sie! Bei Ihrem Freunde hätte
@@ -557,7 +561,7 @@ nachher geschlafen!!
 Harald war ja auf der Charybdis! Er hatte das Stück
 Holz mit dem Zettel durch das Fenster mir zugeworfen,
 hatte sich offenbar an einem Tau von der Reling herabgelassen
-…!! — —
+…! — —
 
 Nun — ich muß den Leser enttäuschen …
 
@@ -571,7 +575,7 @@ Argwohn gegen die Lady neue Nahrung gegeben, noch erlebte
 ich sonst etwas hier an Bord, das mitteilenswert gewesen
 … —
 
-Am siebenten Juli ankerte die Charybdis vor den Londonder
+Am siebenten Juli ankerte die Charybdis vor den Londoner
 Docks.
 
 <h2>3. Kapitel.</h2>
@@ -598,7 +602,7 @@ Fremden, der sich dort gezeigt hätte …«
 
 Sie schaute mich fragend an.
 
-Und — da sah ich in der Tiefe ihrer lebhaften Augen
+Und — da sah ich in der Tiefe ihrer lebhaften Augen etwas wie
 versteckte Angst flackern — ohne Zweifel —
 Angst!!
 
@@ -681,7 +685,7 @@ Material, Sandstein und Marmor, bewies.
 Vor der Freitreppe eine Schar von Dienern und der alte
 Schloßverwalter Stuart Allison …
 
-Feierlicher Empfang der Herrin, deren erste Worte zu
+Feierlicher Empfang der Herrin, deren erste Worte an
 Allison lauteten:
 
 »Wo befindet sich der Gefangene? Wie geht es dem
@@ -929,7 +933,7 @@ des Beschlusses nicht mehr entsprochen: Mithin, sagte ich mir
 <@pagebreak/>
 weiter, ist es sehr gut möglich, daß die Cornawoors jemand
 gefunden haben, eben den geheimnisvollen Alexander Archibald
-Norton, der das Geld vorschob, um die Diebe … aussenden
+Norton, der das Geld vorschoß, um die Diebe … aussenden
 zu können —«
 
 Lady Maria hatte sich erhoben …
@@ -960,7 +964,7 @@ entgegnete kurz:
 Zeitungen eingerückt. Er suchte einen kühnen, entschlossenen
 Menschen gegen glänzende Bezahlung, Mister Harst. Ich
 meldete mich, traf mit Norton an entlegener Stelle im Park
-zusammen, erhielt dreihundert Pfund als Anzahlung und
+zusammen, erhielt dreihundert Pfund als Anzahlung und —
 verließ London ohne Wissen meiner Familie, die noch heute
 nicht weiß, daß ich meiner schwerkranken Mutter wegen —
 ein Dieb werden wollte …«
@@ -997,7 +1001,7 @@ Er streckte mir beide Hände hin.
 
 »Mein lieber Alter, endlich wieder vereint!«
 
-Freude leuchtete aus seinem würdevollen Gesicht, das so
+Freude leuchtete auf seinem würdevollen Gesicht, das so
 vortrefflich zu der ernsten Tracht des Geistlichen paßte.
 
 »Ich habe Dir viel zu berichten,« sagte ich schnell.
@@ -1013,7 +1017,7 @@ Und — er lächelte …
 wollte der Mensch sein, der da in Aden vor unserem Hotel
 als Matrose umherbummelte. Ich — verfolgte ihn nachher
 bis zum Hafen, wo er in einer Kneipe den falschen Bart
-entfernte und als Matrose Jonas Selveyr zu Bord der Charybdis
+entfernte und als Matrose Jonas Selveyr an Bord der Charybdis
 ging …«
 
 »Er gehörte zur Besatzung?«
@@ -1038,8 +1042,8 @@ sich um ein Nichts …
 
 »Dann war ich drei Tage vor der Charybdis in London.
 War hier in Cornawoor-Castle, nachts, kundschaftete aus,
-wo der Gefangene steckte und wie man in diese Burg hinein
-gelangen könnte …«
+wo der Gefangene steckte und wie man in diese Burg hineingelangen
+könnte …«
 
 »Ah — und Du …«
 
@@ -1104,7 +1108,7 @@ zum Museum erklärt hatte, Mylady habe lediglich ganz unvermittelt
 Sehnsucht nach ihren Schätzen empfunden und sei
 daher ins Museum hinübergegangen, dieser zitternde Greis
 sank mir ohnmächtig in die Arme, als wir seine Herrin im
-Hauptraum neben einem der Tische mit den Glasplatten
+Hauptraum neben einem der Tische mit den Glaskästen
 voller Versteinerungen unvermutet auffanden …
 
 Auch mir schoß alles Blut zum Herzen, wie ich so, den
@@ -1119,6 +1123,7 @@ Und in dem Blick dieser erloschenen Augen las man noch
 deutlich ein namenloses Entsetzen …
 
 Ein Grauen, eine Angst, mit Worten nicht auszudrücken.
+
 <@pagebreak/>
 Gräßlich wirkte dieses Antlitz — so gräßlich, daß ich mich
 wegwandte und Allison rasch nach einem der Rohrsofas
@@ -1222,7 +1227,7 @@ War Lady Maria vor zwei Jahren längere Zeit in Indien?«
 her? Sie war doch eine geborene Elliot.«
 
 »Nicht daß ich wüßte, Mister Harst. Ihre Eltern sind
-längst tot und Geschwister besaß sie nicht.«
+längst tot, und Geschwister besaß sie nicht.«
 
 <@pagebreak/>
 »So — so! Und — noch eins, Allison: hat Lady Maria
@@ -1336,7 +1341,7 @@ in der Cornawoor-Schlucht. —
 
 Scharfer Oststurm umwehte uns …
 
-Draußen vor dem Eingang der kleinen Bucht brandete
+Draußen vor dem Eingang der kleinen Bucht brandete das
 Meer — die Nordsee — das Heimatsmeer …
 
 Und Harst sagte, indem er sich über die Tote beugte:
@@ -1390,8 +1395,8 @@ An den Geräuschen merke ich, daß auch Harald hierher
 gebracht wird. Man setzt ihn neben mich auf das Wandsofa
 der Kajüte … Man fesselt mir die Füße …
 
-Schritte zu Deck … Kreischen von Taurollen … Das
-Knallen eines sich entlastenden Segels … Knarren der
+Schritte an Deck … Kreischen von Taurollen … Das
+Knallen eines sich entfaltenden Segels … Knarren der
 sich am Stege scheuernden Bordwand … Und dann stärkeres,
 gleichmäßiges Schaukeln. Gurgeln und Schäumen
 des außenbords vorbeischießenden Wassers: die Jacht sticht

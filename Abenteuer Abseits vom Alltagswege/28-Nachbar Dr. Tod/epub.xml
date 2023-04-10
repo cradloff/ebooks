@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">300d85d4-ad32-4aa9-9a16-77e6927b6f98</entry>
+<entry key="title">Nachbar Dr. Tod</entry>
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<entry key="group-position">28</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Abseits vom Alltag laufen die Pfade der Einsamen, der freiwilligen Flüchtlinge vor dem Moloch Leben, oder die der Ausgestoßenen, der Vagabunden, Abenteurer und nach Freiheit unendlicher Fernen ewig Dürstender.
+
+Vielleicht gehöre ich, der einst die Behaglichkeit eines geordneten Berufslebens zu schätzen wußte, zu keiner dieser Arten der Wanderer abseits vom Alltag, vielleicht habe ich dem Geschick dafür zu danken, daß es mich abdrängte von der breiten, glatten Straße jener Unzähligen, die nie den unbeschreiblichen Reiz eines planlosen Auskostens aller Schönheiten der unbekannten, selten besuchten Einöden, Wildnisse und zauberhaft bunten Tropenwälder kennen lernen.
+
+Wie der Sturm und die Strömungen der Weltmeere ein von den Ankern gerissenes Schiff ohne Kapitän und Besatzung in zielloser Kreuzfahrt dahinführen von Nord gen Süd, von Ost gen West, — wie ein gütiges Geschick dieses steuerlose Fahrzeug immer wieder an Klippen, Riffen, Felsgestaden und drohenden, verderblichen Hindernissen ohne Schaden dahingleiten läßt, ähnlich hat mich der Wind des Lebens und die heiße Liebe zur Natur, die meine Seele wie Brandungsrauschen durchdringt, durch ein Meer von Einsamkeit, Schönheit und Abenteuern jahrelang dahingetrieben.
+
+Weggenossen, Freunde, Gefährten wurden mir beschert, — Schiffe, die nachts sich begegnen, die still sich grüßen und wieder entschwinden im Dunkel der Zukunft, — alles schenkten mir die Pfade abseits vom Alltag: Liebe, Freude, Schmerz, Gefahren, köstliche Stunden des Kampfes um das eigene Dasein, und das von Verfolgten, Bedrückten …
+
+Von einer Felswand, über die ein Fluß donnernd und tosend in einen Hexenkessel von schäumenden Wogen sich ergoß, durfte ich, den seltsame Zufälle an die Westküste Mittelamerikas verschlugen, einen Unglücklichen bergen, der mir zunächst, obwohl dankbar und vertrauensvoll, doch sein Innerstes herben Sinnes verschloß.
+
+Quelle: https://www.walther-kabel.de/node/1219
+</entry>
+<entry key="author">Olaf Karl Abelsen</entry>
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<entry key="filename">Abelsen, Olaf K. - (28) Nachbar Dr. Tod.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>

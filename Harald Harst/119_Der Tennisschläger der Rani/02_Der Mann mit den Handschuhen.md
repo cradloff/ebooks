@@ -98,7 +98,7 @@ genauer gesehen? Können Sie ihn mir beschreiben, Sir
 Marringow?«
 
 »Nein. Es war ein hochgewachsener Mann wie alle
-Ratschputen. Aber er trug einen Zeugfetzen mit Augenlöchern
+Radschputen. Aber er trug einen Zeugfetzen mit Augenlöchern
 vor dem Gesicht. Nur eins fiel mir auf, er hatte
 weiße Handschuhe an!«
 
@@ -115,7 +115,7 @@ Smaragd. — Am folgenden Vormittag teilte ich der Fürstin
 mein Erlebnis mit. Wir beschlossen vorläufig zu schweigen.
 Zwei Tage drauf kehrte der Minister Maru bir Schamsa von
 einer Wallfahrt aus Agra mit seinem Sohne zurück und
-begab sich in das Schlafzimmer des Westturmes, um nach
+begab sich in das Schatzzimmer des Westturmes, um nach
 seiner vierzehntägigen Abwesenheit zu prüfen, ob dort noch
 alles in Ordnung sei. So kam nun doch das Fehlen des Smaragds
 <@pagebreak/>
@@ -165,7 +165,7 @@ Geheimnis: das drehbare Jagdbild im Schlafzimmer, wo
 ich eine Weile allein war! Und die andere Seite dieses so
 kostbar eingerahmten Gemäldes —«
 
-»— Ist — mein Bild,« vollendete die Rani und errötete
+»— ist — mein Bild,« vollendete die Rani und errötete
 leicht.
 
 »Ja — Ihr Bild, Fürstin! Und das war vielsagend
@@ -202,7 +202,7 @@ Nahte eilends vom Schlosse her, riß den Tropenhelm
 vom Kopf, keuchte hervor:
 
 »Hoheit, ein neues Verbrechen! Ich mußte es sofort
-melden. — Hoheit, der Perser Harun Said, der reichste
+melden. — Hoheit, der Perser Harum Said, der reichste
 Mann Gagawars, ist soeben in seinem Hause ermordet aufgefunden
 worden. Er hatte sich heute noch nicht in seinem
 Geschäftsgebäude sehen lassen, und ein Angestellter ist dann
@@ -218,7 +218,7 @@ ist.«
 
 <h3>Zwirnhandschuhe.</h3>
 
-Harun Said!
+Harum Said!
 
 Dieser Name hatte mich sofort an den Schimmelreiter
 Marsa Sibra erinnert. Marsa Sibra war ja des Persers
@@ -230,7 +230,7 @@ Namen des Karawanenführers kannten, der sich von dem
 maskierten Fremden zu dem Überfall auf uns hatte bestimmen
 lassen. Harald wollte absichtlich diese Einzelheit
 vorläufig verschweigen, da er hoffte, in aller Stille durch
-Beobachtung Harun Saids zu erfahren, wer der Maskierte
+Beobachtung Harum Saids zu erfahren, wer der Maskierte
 gewesen, der mit seiner gleichfalls maskierten Reiterschar
 die Karawane umzingelt hatte.
 
@@ -253,7 +253,7 @@ haben, denn wir fanden des Persers recht imposantes Geschäftshaus
 von einer dichten Menge umlagert, die nur mit
 Mühe von ein paar Polizisten zurückgehalten werden konnte.
 
-Harun Saids Grundstück zog sich bis zur nächsten
+Harum Saids Grundstück zog sich bis zur nächsten
 Parallelgasse hin. Hinter dem Geschäftshaus lagen zwei
 Speicher, und hinter diesen wieder eine hohe Mauer, die den
 Garten und das Wohnhäuschen des Persers von den anderen
@@ -326,7 +326,7 @@ Abzug hätte.
 Wenn man bedenkt, daß die durchschnittliche Tageswärme
 jetzt zu dieser Jahreszeit für Gagawar 30 Grad beträgt,
 wird man begreifen, daß der Verwesungsprozeß bereits
-begonnen hatte —
+begonnen hatte. —
 
 Harald ging auch hier in gewohnt gründlicher Weise
 vor. Eine volle Stunde arbeitete er mit all der Feinheit,
@@ -341,7 +341,7 @@ Auch die Leichen der beiden indischen Diener lagen
 <@pagebreak/>
 mitten in der großen Küche nebeneinander auf dem Steinboden.
 
-»Zu dumm!!« sagte Harald ironisch. »Harun Said
+»Zu dumm!!« sagte Harald ironisch. »Harum Said
 und diese beiden Inder sind in bewußtlosem Zustand erstochen
 und dann so fein säuberlich auf den Rücken gelegt worden.
 Das sehen Sie doch ein, Mr. Britt?«
@@ -383,9 +383,9 @@ Diener sich so ohne jede Gegenwehr abschlachten ließen.«
 »Allerdings! Sie werden recht haben!«
 
 »Was die Mörder betrifft, Britt: es sind zwei gewesen,
-wie ich schon andeutete. Beide Inder, Ratschputen!«
+wie ich schon andeutete. Beide Inder, Radschputen!«
 
-»So! — Hm — ich vermute weit eher, daß es Europäer
+»So?! — Hm — ich vermute weit eher, daß es Europäer
 <@pagebreak/>
 waren, und zwar die beiden Schwindler, die hier als
 Harst und Schraut auftraten.«
@@ -538,7 +538,7 @@ eindringliche Worte warf ich einen Blick auf die Büsche jenseits
 des Parkweges. Es war bereits ziemlich dunkel, und
 so konnte ich die Gestalt dort in den Sträuchern nur undeutlich
 erkennen, die da aufgerichtet mit einer Maske vor
-dem Gesicht zwischen den Zweigen hindurch lugte.
+dem Gesicht zwischen den Zweigen hindurchlugte.
 
 Rasch sprang ich zur Seite.
 
@@ -602,7 +602,7 @@ Stadt verborgen und seien auch für den Pfeilschuß durch das
 Fenster verantwortlich zu machen. —
 
 Oberst Sadi bir Schamsa, der Sohn des Ministers, ein
-Ratschpute von überschlanker Figur und bartlosen, verschlossenen
+Radschpute von überschlanker Figur und bartlosen, verschlossenen
 Zügen, erlaubte sich die Bemerkung, daß es vielleicht
 praktisch sei, wenn Polizei und Militär sämtliche Häuser der
 Stadt, insbesondere die Karawansereien (Gasthäuser) und
@@ -659,7 +659,7 @@ Gerüchte sind, die in der Stadt umlaufen, ich wußte es bereits
 vor einer Stunde, als der Oberpriester des heiligen
 Brahmanentempels von Gagawar sich bei mir hatte melden
 lassen. Sie kennen den ungeheurem Einfluß der Priester auf
-unsere fanatische Bevölkerung, Mister Harst und diese
+unsere fanatische Bevölkerung, Mister Harst. Und diese
 Priester sind« — ihre Stimme sank immer mehr zum Flüstern
 hinab — »erbitterte Feinde all der Weißen, die in meinen
 Diensten stehen, besonders Reginalds Feinde, vielleicht deshalb,
@@ -750,7 +750,7 @@ Und wieder zehn Minuten später ließ die Rani auf
 Haralds Wunsch in den Straßen der Residenz durch Ausrufer
 verkünden, daß die gerichtliche Untersuchung gegen Reginald
 Marringow wegen Verdachts der Mitwisserschaft der Ermordung
-Harun Saids mit aller Strenge durchgeführt werden
+Harum Saids mit aller Strenge durchgeführt werden
 würde und daß er aus seiner Stellung als Privatsekretär
 endgültig entlassen sei. Die Fürstin selbst würde sich bis auf
 weiteres nach dem unterhalb der Stadt gelegenen Sommerpalast
@@ -759,8 +759,8 @@ Banarülli begeben. —
 <@pagebreak/>
 Tatsächlich erfolgte dann auch um Mitternacht bereits
 die Übersiedlung der Rani und ihres Hofstaates nach der
-berühmten alten Ratschputenburg Banarülli, die in den Sabras-Bergen
-auf einer Insel des gleichnamigen Seeufers sich
+berühmten alten Radschputenburg Banarülli, die in den Sabras-Bergen
+auf einer Insel des gleichnamigen Bergsees sich
 erhebt und in der heißen Jahreszeit häufig von der Rani
 besucht wurde.
 
@@ -777,7 +777,7 @@ Und Harald warf den Rest seiner Zigarette im Bogen
 in den Garten hinab, fügte hinzu:
 
 »Ich habe der Rani versprochen, bis morgen früh die
-Mörder Harun Saids zu überführen. Wir haben also noch
+Mörder Harum Saids zu überführen. Wir haben also noch
 etwa zehn Stunden Zeit. Es werden ereignisreiche Stunden
 werden, bester Britt, und wir wollen sie damit beginnen,
 daß wir nach Bikanir an den dortigen Befehlshaber der
@@ -895,7 +895,7 @@ war ein Siegerlächeln, das um seine Lippen spielte.
 Aber auch ich durfte jetzt lächeln.
 
 Denn — mir war plötzlich ein Licht aufgegangen! Sogar
-ein sehr helles Licht! Die Schleier waren gefallen: Ich
+ein sehr helles Licht! Die Schleier waren gefallen: ich
 glaubte zu wissen, wer der Mann mit den Handschuhen
 war!! —
 
@@ -956,7 +956,7 @@ paar einstöckige Wirtschaftsgebäude.
 
 Schon von weiten sahen wir, daß eine über dem Eingang
 angebrachte elektrische Lampe brannte und eine Gruppe
-von Menschen und Tieren bestrahlte …
+von Menschen und Tieren bestrahlte.
 
 »Wir überraschen sie noch!« sagte Harald kühl.
 »Stecken wir die Pistolen entsichert in die Jackentaschen!«
@@ -983,13 +983,13 @@ Harst trat auf ihn zu.
 
 »Was tun Sie hier?« fragte er kurz.
 
-Der junge Ratschpute, ein wahrer Hüne, schaute uns
+Der junge Radschpute, ein wahrer Hüne, schaute uns
 drei geringschätzig an.
 
 »Kehren Sie um!« befahl er barschen Tones. »Sie
 haben hier nichts zu suchen!« Er sprach ein tadelloses Englisch,
 und wir wußten, daß er mehrere Jahre in England
-gewesen. Er war der Sohn eines ratschputischen Großen,
+gewesen. Er war der Sohn eines radschputischen Großen,
 eines jener Herren über ungezählte Herden, die an den
 <@pagebreak/>
 Rändern der Thar weideten.
@@ -1022,9 +1022,9 @@ vor das Gesicht hielt.
 entgegen. »Zurück! Im Namen der Fürstin!!«
 
 Und zu Saba Dauli gewandt: »Ich drücke ab, sobald
-Ihre Leute sich rühren! Verlassen Sie ich darauf!«
+Ihre Leute sich rühren! Verlassen Sie sich darauf!«
 
-Ein Griff — und er hatte das Postament der Rani
+Ein Griff — und er hatte das Dokument der Rani
 wieder in der Hand, entfaltete es, strich es glatt und hielt
 es den Soldaten hin.
 
@@ -1084,7 +1084,7 @@ Fugen einem Harst kaum entgehen konnten.
 
 Und schließlich gab uns dann der Inhalt eines Geheimfaches
 des Schreibtisches des Ministers die Erklärung
-für all diese unfaßbaren Schandtaten! — —
+für all diese unfaßbaren Schandtaten! —
 
 Als wir endlich gegen fünf Uhr morgens in unser
 Heim zurückkehrten, wo die beiden Schwindler unter
@@ -1123,14 +1123,14 @@ der noch soeben das öde Gemälde der endlosen Wüste
 ertragen mußte und nun plötzlich zu seinen Füßen die wunderbare
 Schönheit dieses Bergtales, dieses gleißenden Seespiegels
 wahrnimmt, aus dessen Tiefen die kleine Felseninsel
-emporwächst, die von der stolzen uralten Ratschputenburg
+emporwächst, die von der stolzen uralten Radschputenburg
 gekrönt ist. —
 
 In dem großen Prunksaale dieser Burg empfing die
 Rani von Gagawar vormittags zehn Uhr in feierlicher
 Weise Seine Exzellenz, den General Pellingham, Oberkommandierenden
 sämtlicher anglo-indischen Streitkräfte von
-Ratschputana.
+Radschputana.
 
 <@pagebreak/>
 Der Elfenbeinthron der Fürstin stand auf hohem Marmorpostament,
@@ -1161,7 +1161,7 @@ fragte:
 
 »Was haben Sie mir zu melden, Mister Harst? Sie
 versprachen mir, an dieser Stelle und zu dieser Stunde die
-Mörder Harun Saids mir zu nennen und Sir Marringows
+Mörder Harum Saids mir zu nennen und Sir Marringows
 Schuldlosigkeit zu beweisen.«
 
 Harst verneigte sich, schritt ein paar Stufen empor,
@@ -1226,7 +1226,7 @@ schon, daß der Oberst Sadi bir Schamsa Sir Marringow
 heimlich mit haßerfüllten Blicken bedachte, während er Eure
 Hoheit offenbar mit den Augen eines leidenschaftlichen,
 aber ebenso rücksichtslosen Verehrers zu mustern wagte.
-Dies und einige vorliege Feststellung ließen mich zu der
+Dies und einige weitere Feststellungen ließen mich zu der
 Überzeugung gelangen, daß der Minister und sein Sohn nicht
 nur Schraut und mich hatten gefangennehmen lassen, sondern
 daß sie es auch gewesen, die den Gagawar-Smaragd
@@ -1250,7 +1250,7 @@ Persers geraubten Kostbarkeiten enthielt.
 
 Harald fuhr fort: »All dies entdeckte ich im Ostflügel
 des Schlosses in den Räumen der beiden Mörder. Insbesondere
-haben die Schriftstücke mir restlos Ausschluß über
+haben die Schriftstücke mir restlos Aufschluß über
 die Pläne der beiden Verbrecher und über die Motive ihrer
 Untaten gegeben. — Sowohl der Minister als sein Sohn
 haben als moderne Inder sich schon seit Jahren auf Spekulationen
@@ -1273,7 +1273,7 @@ Gemahl zu erwählen. Um jedoch ihre Griffe in die Staatskasse
 zu verheimlichen und das veruntreute Geld ersetzen
 zu können, beraubten sie nochmals das Schatzzimmer und
 ermordeten auch den Perser, dem sie bereits hohe Beträge
-schuldeten. Für den Diebstahl bei Harun Said hatten sie
+schuldeten. Für den Diebstahl bei Harum Said hatten sie
 sich durch die Kalkuttaer Detektive das Sauerstoffgebläse
 verschafft. — Alle weiteren Einzelheiten wird die gerichtliche
 Untersuchung aufklären. — Bitte, Sir Marringow, —
@@ -1304,6 +1304,5 @@ Vor zwei Wochen war in Berliner Zeitungen zu lesen,
 daß das englische Königspaar die Rani von Gagawar und
 den Prinzgemahl in London feierlich empfangen habe.
 
-Nächster Band:
-
-__Der Mann am Kreuze__
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der Mann am Kreuze."/>

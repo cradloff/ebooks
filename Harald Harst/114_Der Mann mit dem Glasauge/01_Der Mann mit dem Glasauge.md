@@ -92,7 +92,7 @@ hatte, sahen wir uns den Schielenden dann bei Tageslicht an.
 
 Harst deutete auf einen Stuhl.
 
-»Setzen Sie sich.« Das klang recht streng. »Wie sind
+»Setzen Sie sich!« Das klang recht streng. »Wie sind
 Sie in das Haus hineingelangt?« fragte er dann nicht
 minder ernst.
 
@@ -123,7 +123,7 @@ sei …
 
 »Ah — Privatpersonen!« meinte der Fremde darauf
 verwundert. »Und — mit welchem Recht verlangten Sie
-vorhin von mir Rede und Antwort auf —«
+vorhin von mir Rede und Antwort auf …«
 
 Er schwieg. Das Kreischen einer rostigen Türangel
 hier oben im Flur hatte ihn aufhorchen lassen.
@@ -135,8 +135,8 @@ ihn acht!«
 Er tat zwei leise Schritte nach der Zimmertür hin,
 <@pagebreak/>
 drehte sich nochmals um: »Ich bin Harald Harst!« — und
-das galt dem Fremden. »Und Sie — sind Engländer,
-vielleicht ein — sehr guter Bekannter Professor Simpsons!
+das galt dem Fremden. »Und Sie … sind Engländer,
+vielleicht ein … sehr guter Bekannter Professor Simpsons!
 Wagen Sie nicht zu fliehen. Ich habe bereits mehr gesehen
 als Sie denken!« Und weiter schlich er zur Tür.
 
@@ -151,9 +151,9 @@ des Geborgenseins.
 
 Hier dagegen — hier in einem Hause, das sozusagen
 angefüllt mit Geheimnissen war und das der Polizei und
-uns mancherlei zu raten gegeben hatte — hier noch in
+uns mancherlei zu raten gegeben hatte, — hier noch in
 Gesellschaft dieses Fremden, der doch fraglos nicht ganz einwandfrei
-sein konnte — hier wirkte diese plötzliche Öffnung
+sein konnte, — hier wirkte diese plötzliche Öffnung
 der Himmelsschleusen und die ebenso plötzliche Dämmerung
 im Zimmer auf mich derart erregend, daß ich mit einer halb
 unbewußten Bewegung nach der Schlüsseltasche des Beinkleides
@@ -230,9 +230,9 @@ den verblüffenden Verwandlungskünstler.
 
 <@pagebreak/>
 Und — leiser fuhr er fort, — wie ein halblauter Ausruf
-war’s: »Also so — so steht’s — so —!!«
+war’s: »Also so … so steht’s!! So …!!«
 
-Simpson hatte den jetzt gleich im Nu überraschend maskierten
+Simpson hatte den jetzt gleich ihm so überraschend maskierten
 Fremden bisher nicht beachtet. Nun folgte er der
 Richtung von Haralds merkwürdig lebhaftem Blick. Und
 musterte den jungen Menschen wie in jäh erwachtem Mißtrauen
@@ -245,7 +245,7 @@ wohl selbstverständlich!«
 
 Und rasch trat er an das eine Fenster heran, schnitt ein
 Stück der Gardinenschnur ab und wandte sich Simpson
-wieder zu.
+wieder zu:
 
 »Strecken Sie die Arme nach hinten!«
 
@@ -255,24 +255,24 @@ Aber — er gehorchte. Und Harald fesselte ihm nun
 die Hände auf dem Rücken und erklärte verächtlich:
 
 »Ein Mensch, der seine Mordtaten durch andere besorgen
-läßt, ist ein Feigling. Sie sind nicht nur feige, Sie sind
-auch sonst — ein Lump! Sie haben viele Leute ins Unglück
+läßt, ist ein Feigling. Sie sind nicht nur feig. Sie sind
+auch sonst … ein Lump! Sie haben viele Leute ins Unglück
 gestürzt, haben schwache Naturen durch die Macht der
 Verführung …«
 
 Und so hielt Harald zu meinem Erstaunen dem Verbrecher
 all seine Schandtaten vor, redete und redete, fand gar
-kein Ende.
+kein Ende …
 
 Ja — ich war erstaunt. Mehr noch: ich begriff Harald
 nicht! Er, der niemals einem unserer Schmerzenskinder,
-einem Gescheiterten, derart ein Sündenregister verlesen hatte,
+einem Gescheiterten derart ein Sündenregister verlesen hatte,
 er, der die Ansicht vertrat, daß jeder Verbrecher auf der
 Grenze zwischen geistigem Defekt und voller Zurechnungsfähigkeit
 stehe, er, der keinem Verbrecher ein gewisses Mitleid
-versagte, — dieser Harst war mir vollkommen unverständlich.
+versagte, — dieser Harst war mir vollkommen unbegreiflich.
 
-Daß diese Moralpredigt einen Zweck haben mußte, ahnte
+Daß diese Moralpredigt einen Zweck haben müßte, ahnte
 ich natürlich. Aber es blieb mir unerfindlich, *welchen*
 Zweck. Harsts Absichten sind ja nie leicht zu durchschauen.
 
@@ -284,12 +284,12 @@ Zweck. Harsts Absichten sind ja nie leicht zu durchschauen.
 Nun machte er Schluß mit seinen energischen Vorhaltungen.
 
 »Mein Freund Schraut wird jetzt die Polizei holen,«
-sagte er in weniger eindringlichem Tone. »Ersparen Sie
+sagte er in weniger indringlichem Tone. »Ersparen Sie
 sich jede Bitte, Simpson. Ich bin hart Ihnen gegenüber.«
 Und er wandte sich an den jungen Fremden, der jetzt einem
 alten Herrn so verblüffend glich. »Auch Ihre Persönlichkeit
 wird dann festgestellt werden. Ich glaube, dies dürfte nötig
-sein — Schraut, bitte — telephoniere vom nächsten Hause
+sein. — Schraut, bitte — telephoniere vom nächsten Hause
 die Polizeiwache Dahlem an. Du kannst in wenigen
 Minuten zurück sein!«
 
@@ -342,7 +342,7 @@ man einen Menschen versteckt haben konnte, einen bewußtlosen
 Menschen, oder einen Toten — meinen Harst!
 
 Wir fanden nichts. Wir setzten die Nachsuche im Erdgeschoß
-fort — wieder nichts! — Nun in den Keller hinab.
+fort. — Wieder nichts! — Nun in den Keller hinab.
 
 Ich öffnete die Geheimtür nach Simpsons Radiostation.
 Die Beamten machten große Augen. »Fein ausgeknobelt!«
@@ -374,7 +374,7 @@ Und in diesem Zimmer fanden wir etwas. Hatten die
 elektrischen Taschenlampen eingeschaltet, ließen die Lichtkegel
 auf der Gestalt des Menschen dort in der Ofenecke ruhen.
 
-Ein — Toter!
+Ein … Toter!
 
 Nicht Harst! Nein, ein Fremder. Ein gutgekleideter
 Mann mit bartlosem, länglichem Gesicht, das tief gebräunt
@@ -384,16 +384,16 @@ Wir standen und regten uns nicht.
 
 Etwas anderes regte sich. Der Tote — der Tote hatte
 die Augenlider gehoben. Er lag auf dem Rücken — auf
-den Dielen, — der Kopf aus der untersten Ofenleiste.
+den Dielen, — der Kopf auf der untersten Ofenleiste.
 
 »Er lebt,« flüsterte der eine Beamte.
 
 Ich bückte mich schon.
 
 Da bewegte der Fremde die Lippen. »Linkes, linkes
-Auge,« lallte er offenbar nur unter großer Anstrengung.
+Auge,« lallte er, offenbar mit ungeheurer Anstrengung.
 
-Und er benutzte auch die deutsche Sprache. Nein — er
+Und er benutzte nicht die deutsche Sprache. Nein — er
 lispelte dieses Letzte, das seiner Kehle sich noch entrang, in
 englischer Sprache.
 
@@ -513,7 +513,7 @@ Und — da kam Mathilde, Harstschen Hauses bravste
 Köchin.
 
 »Eine Dame is da, Herr Schraut,« meldete sie. »Eine
-sehr feine Dame, Herr Schraut. So die richtige Feinheit,
+sehr feine Dame, Herr Schraut. So die richtige Feinheit:
 nich aufjedonnert, nur so allens vom Besten und schick das
 Ganze.«
 
@@ -570,7 +570,7 @@ Ich war überrascht. Denn der Ton, in dem sie dies
 sagte, hatte so unendlich schmerzlich geklungen, daß man annehmen
 mußte, Simpson stände auch ihr näher.
 
-»Jedenfalls … mein Bruder ist heute vormittag infolge
+»Jedenfalls — mein Bruder ist heute vormittag infolge
 dieser Schwäche für seinen einstigen Universitätslehrer
 dort nach dem Hause Simpsons in Dahlem gefahren, um
 es sich auch von innen einmal anzusehen …«
@@ -625,7 +625,7 @@ und pflegt er sich als … Verwandlungskünstler zu
 betätigen?«
 
 »All das ist richtig. Er wollte als ganz junger Mensch
-einmal zum Varietee. Er besitze viel schauspielerisches
+einmal zum Varietee. Er besitzt viel schauspielerisches
 Talent.«
 
 »Nun — dann habe ich mit ihm gesprochen, Miß.«
@@ -701,7 +701,7 @@ in der geheimen Radiostation überraschten!«
 
 Ich packte ihn jetzt, den Spion, der hier doch fraglos
 nur hatte herausbringen wollen, was ich zu Haralds Auffindung
-unternehmen wolle.
+unternehmen wollte.
 
 »Sie sind der — Verwandlungskünstler!« fuhr ich fort,
 und meine Erregung und Empörung steigerten sich noch.
@@ -835,12 +835,12 @@ Das klang traurig.
 ausgeschossen worden, Herr Schraut. Daher machen meine
 Augen auch den Eindruck, als ob ich schiele!«
 
-»Und — mit diesem ihrem Glasauge hat es eine besondere
+»Und — mit diesem Ihrem Glasauge hat es eine besondere
 Bewandtnis,« sagte ich nun und beugte mich vor.
 »Grimly, geben Sie der Wahrheit die Ehre: der Tote dort
 in Simpsons Haus wußte mehr von diesem Auge als ich!«
 
-Er stand jäh auf. Bestätigung, Schreck und Staunen
+Er stand jäh auf. Bestürzung, Schreck und Staunen
 huschten wie Schatten über sein sympathisches Antlitz.
 
 »Der Tote — der Tote?!« stammelte er.
@@ -903,7 +903,7 @@ eines armseligen Bogenschreibers.
 Ich hatte Vertrauen zu Rennschmidt. Diesem Original
 konnte man getrost die wichtigsten Geheimnisse mitteilen.
 
-»Zunächst geben Se mir mal wat Rauchbares, Herr
+»Zunächst jeben Se mir mal wat Rauchbares, Herr
 Schraut,« meinte er. »Ohne Zigarre bin ich ein geistiger
 Eunuch. — So, danke … Feinet Kraut! Nu schießen Se
 los …«
@@ -986,7 +986,6 @@ Ich stand unweit der Gartenmauer. Da war das Gestrüpp
 Regenmesser!
 
 Der Leser weiß ja Bescheid — aus dem vorigen Band.
-
 Ein genialer Verbrechergedanke, dieser Regenmesser! Wirklich
 genial!
 
@@ -1078,7 +1077,7 @@ Kugelspeierin!
 
 <@pagebreak/>
 Weiter … Treppe empor … Stufe um Stufe … Und
-leise — wie eine Katze … draußen das Unwetter half mir.
+leise — wie eine Katze … Draußen das Unwetter half mir.
 
 Ich gelangte bis vor die vierte Tür. — Lauschte. —
 Bückte mich.
@@ -1243,7 +1242,7 @@ ganz trocken. Warten Sie, ich spendiere eine Flasche Mosel
 
 Er kam in den Kellergang, flüsterte mir ins Ohr: »Herr
 Schraut, ich hab’ dem Grimly so ’n bißchen auf den Zahn
-fühlen woll’n. Det is een janz anstandjer Kerl, sag’ ich
+fühlen woll’n. Det is een janz anständjer Kerl, sag’ ich
 Ihnen. Der is weder ’n Mörder noch ’n Gauner. Auf
 meine Menschenkenntnis is Verlaß!« —
 
