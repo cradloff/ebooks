@@ -60,7 +60,7 @@ Er betrachtete das Stück Zeitung …
 
 »Worauf sollen wir warten?«
 
-»Ich wette, daß die junge Dame, die den Stephansjünger gespielt hat — denn Mathilde wird schon richtig beobachtet haben, was die weiblichen Figurenmerkmale betrifft —, daß diese junge, tatkräftige Dame sich bei uns in anderer Aufmachung sehen lassen und auf ihre Weise dafür sorgen wird, daß dieses Blutschreiben nicht in den Papierkorb wandert. Sie wird natürlich irgend etwas erfinden, eine Geschichte, die uns reizt und deren Schauplatz unweit von Rauschen liegen wird. Ich müßte mich sehr irren, mein lieber Alter, wenn ich mit dieser Vermutung fehlgehen würde — pardon, das war eben Unsinn, was ich sagte, grobem Unsinn. Meine Gedanken wurden stark abgelenkt durch …« — er hob die Hand und deutete zum Fenster hinaus auf die Straße, wo auch ich nun ein Auto wahrnahm, das vor unserer Gartenpforte hielt — »durch jenen Kraftwagen, der dort soeben eine elegante junge Dame von sich gibt, die wahrscheinlich die Erwartete ist und vor der wir diesen Eilbrief nebst Umschlag besser verbergen, weil … — nun du weißt ja Bescheid …«
+»Ich wette, daß die junge Dame, die den Stephansjünger gespielt hat — denn Mathilde wird schon richtig beobachtet haben, was die weiblichen Figurenmerkmale betrifft —, daß diese junge, tatkräftige Dame sich bei uns in anderer Aufmachung sehen lassen und auf ihre Weise dafür sorgen wird, daß dieses Blutschreiben nicht in den Papierkorb wandert. Sie wird natürlich irgend etwas erfinden, eine Geschichte, die uns reizt und deren Schauplatz unweit von Rauschen liegen wird. Ich müßte mich sehr irren, mein lieber Alter, wenn ich mit dieser Vermutung fehlgehen würde — pardon, das war eben Unsinn, was ich sagte, grober Unsinn. Meine Gedanken wurden stark abgelenkt durch …« — er hob die Hand und deutete zum Fenster hinaus auf die Straße, wo auch ich nun ein Auto wahrnahm, das vor unserer Gartenpforte hielt — »durch jenen Kraftwagen, der dort soeben eine elegante junge Dame von sich gibt, die wahrscheinlich die Erwartete ist und vor der wir diesen Eilbrief nebst Umschlag besser verbergen, weil … — nun du weißt ja Bescheid …«
 
 Es läutete im Flur.
 
@@ -150,7 +150,7 @@ Dann: »Schraut, hole Mathilde …«
 
 Ich tat’s …
 
-Ich wußte: Gegenüberstellung mit unserer Klientin, — was ich als gänzlich überflüssig erachtete, denn daß die Gräfin Mauring nicht als Postbote verkleidet, gefälschte Briefe jemand dem zustellen würde, das lag wohl außerhalb des Bereichs jeder Erörterung.
+Ich wußte: Gegenüberstellung mit unserer Klientin, — was ich als gänzlich überflüssig erachtete, denn daß die Gräfin Mauring nicht als Postbote verkleidet, gefälschte Briefe jemandem zustellen würde, das lag wohl außerhalb des Bereichs jeder Erörterung.
 
 Mathilde betrat das Zimmer.
 
@@ -224,7 +224,7 @@ Hella von Mauring verabschiedete sich mit herzlichen Dankesworten. Jetzt war sie
 
 <h3>Ein Maimorgen.</h3>
 
-Harsts Eigenheiten kennt man. Nachdem die Gräfin gegangen, mußte ich die Koffer packen, telephonisch Fahrkarten bestellen, und er — er saß in der Bibliothek am Flügel und spielte Wagner, Schumann, und war gerade beim Rosenkavalier, als ich gegen halb zwölf heimkehrte. Bisher hatte er über den »Gast in der Nacht« (so hatte er den neuen Fall bezeichnet) kein Wort mehr verloren, tat er auch jetzt nicht, und tat es noch weniger während der langweiligen Eisenbahnfahrt.
+Harsts Eigenheiten kennt man. Nachdem die Gräfin gegangen, mußte ich die Koffer packen, telephonisch Fahrkarten bestellen, und er — er saß in der Bibliothek am Flügel und spielte Wagner, Schumann, und war gerade beim Rosenkavalier, als ich gegen halb zwölf heimkehrte. Bisher hatte er über den »Gast in der Nacht« (so hatte er den neuen Fall bezeichnet) kein Wort mehr verloren, tat es auch jetzt nicht, und tat es noch weniger während der langweiligen Eisenbahnfahrt.
 
 Am nächsten Morgen standen so gegen halb neun Uhr zwei Touristen mit Rucksäcken am Rande der Steilküste unweit der letzten Villen von Rauschen und genossen den lang entbehrten Anblick des Meeres, der Ostsee.
 
@@ -247,6 +247,10 @@ Wir hatten uns bereits in Rauschen mit aller Vorsicht über den Besitzer des Rit
 Eine Stunde Marsch durch die Wälder, Felder, köstliche frische Luft … Es war ja Mai — — Mai!!
 
 Eine Stunde, und dann dank Harsts untrüglichem Ortssinn und einer guten Touristenkarte vor uns ein uralter Buchenwald, der an den Hängen eines Berges sich dicht und kraftvoll hinanzog und oben von einem Gemäuer gekrönt war, auf dessen Turmresten am hohen Mast eine zerfetzte Fahne flatterte — kaum mehr Fahne zu nennen, nichts mehr von Farben, nur ein paar Lappen, grau, ausgewaschen … Unten um den Rand des Bergwaldes ein hohes, neues Stacheldrahtgitter. Und als wir davor standen, warnte eine neue Tafel mit großen, schwarzen Buchstaben:
+
+<p class="right">Lebensgefahr!! Obere Drähte mit Starkstrom geladen!!</p>
+
+<p class="centered">Gräfl. Mauringsche Gutsverwaltung.</p>
 
 »Hm,« meinte Harald, »neu — —, kaum ein halbes Jahr alt, diese Barrikade!«
 
@@ -468,7 +472,7 @@ Roderich staunt. »Keine Ahnung habe ich von dieser Tür und dieser Treppe … S
 
 Wir klettern in dem schrägen Schacht auf der engen Stiege aufwärts. Die dick bestaubten Stufen verraten, daß hier in letzter Zeit jemand häufig hin und her gegangen ist. In der Mitte der Stufen fehlt der Staub. Graf Maurings Gefangener hat gefunden, was Harst infolge der fehlenden Spinngewebe unterhalb der Falltür fand: den Weg ins Freie!
 
-Eine Eichentür mündet schließlich in ein oberes Turmgelaß, wo uraltes Gerumpel die Tür verdeckt: Kisten, Schränke, Stühle, Waffen, vieles andere, alles wertloser Kram scheinbar, und doch wertvoll, weil die Jahrhunderte darauf lasten.
+Eine Eichentür mündet schließlich in ein oberes Turmgelaß, wo uraltes Gerümpel die Tür verdeckt: Kisten, Schränke, Stühle, Waffen, vieles andere, alles wertloser Kram scheinbar, und doch wertvoll, weil die Jahrhunderte darauf lasten.
 
 Nun ist der Ausgang bald erreicht. Wir stehen vor der Südseite des Turmes, und vor uns liegt der Teich mit seinen Mummeln, Binsen, Schilfstengeln … Der Wasserspiegel ist bereits beträchtlich gesunken. Weiter rechts am Ufer, das eine grüne Busch- und Graswildnis ist, deutet Harald auf den Boden, wo dunkle Flecke die Stellen andeuten, an denen die beiden Steine lagen, die jemand auf die Unterwasserfenster fallen ließ. Auch Spuren gibt es hier: zwei Personen haben sich hier am Ufer zu schaffen gemacht, ein Mann und ein Weib. Die Fährte der Frauenschuhe ist überaus zierlich.
 
@@ -508,7 +512,7 @@ Wir mit unseren Rucksäcken, verfolgt von den neugierigen, verstörten Blicken d
 
 Ich will mich kurz fassen.
 
-Der Sarg stand mitten in der oberen Gruft. Der Decken war abgehoben. Der Sarg leer …
+Der Sarg stand mitten in der oberen Gruft. Der Deckel war abgehoben. Der Sarg leer …
 
 »Natürlich,« nickte Harald. »Sie haben die Leiche mitgenommen …«
 
@@ -746,7 +750,7 @@ Er strahlte …
 
 »Herr Harst, der Käufer der Jacht »Skandri« ist der Radscha von Belar gewesen … Der Radscha ist erst gestern hier in Bombay von Europa kommend wieder eingetroffen und wohnt mit seinem Gefolge in seiner Sommervilla auf den Malabar Hills …!«
 
-»… Was ich schon alles wußte, « nickte Harald. »Setzen Sie sich, Kester … Ich empfehle Ihnen zum Abendbrot ein Schnitzel auf amerikanische Art … Das paßt vorzüglich zu der amerikanischen Jazzmusik, die gerade wieder zu quäken beginnt … Aha — — von Lehar: »Gern … hab’ ich die Frauen geküßt …« — — Heimatsklänge.«
+»… Was ich schon alles wußte,« nickte Harald. »Setzen Sie sich, Kester … Ich empfehle Ihnen zum Abendbrot ein Schnitzel auf amerikanische Art … Das paßt vorzüglich zu der amerikanischen Jazzmusik, die gerade wieder zu quäken beginnt … Aha — — von Lehar: »Gern … hab’ ich die Frauen geküßt …« — — Heimatsklänge.«
 
 Kesters Gesicht war ellenlang.
 

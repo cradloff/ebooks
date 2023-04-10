@@ -170,7 +170,7 @@ Ich war platt …
 
 Und auch Gracht murmelte hastig: »Blandy soll das sein?!«
 
-Der Bettler hatte sich mit einem Ruck umgedreht Unser Fritze flog auf das nicht eben erstklassige Pflaster.
+Der Bettler hatte sich mit einem Ruck umgedreht … Unser Fritze flog auf das nicht eben erstklassige Pflaster.
 
 »Sie Narr!!« keuchte der Verkleidete, und schob sich Perücke und Turban wieder zurecht. »Wollen Sie denn alles verderben?!«
 
@@ -196,7 +196,7 @@ Stieß zwei, drei der Burschen beiseite … Rannte weiter — über die Straße 
 
 Raus mit der Pistole …
 
-Wartet, Halunken!! Die Partie ist noch nicht verloren, und wenn ihr auch euer zwölf seid und da draußen meinem Freunde auf dem Pflaster liegen …
+Wartet, Halunken!! Die Partie ist noch nicht verloren, und wenn ihr auch euer zwölf seid und da draußen meine Freunde auf dem Pflaster liegen …
 
 Eine Hand umkrallt meinen Arm …
 
@@ -376,7 +376,7 @@ Dann ein Blick über das Geröll hinweg …
 
 Ein Blick ungläubigen Staunens …
 
-Dort in dem hohlen Innern der Baumriesen hinter der halb offenen Rindentür saß mit untergeschlagenen Beinen eine blonde Europäerin in einem schmierigen hellen Kleide. Das Gesicht war schmutzig, das Haar zottig und verwildert. Die Ärmste trällerte mit einem erschreckend geistesabwesend den Gesichtsausdruck einen Tango, pfiff mitunter ein paar Takte, wiegte den Oberkörper hin und her und hob die Arme zu seltsamen Gesten: sie … tanzte in Gedanken!!
+Dort in dem hohlen Innern der Baumriesen hinter der halb offenen Rindentür saß mit untergeschlagenen Beinen eine blonde Europäerin in einem schmierigen hellen Kleide. Das Gesicht war schmutzig, das Haar zottig und verwildert. Die Ärmste trällerte mit einem erschreckend geistesabwesenden Gesichtsausdruck einen Tango, pfiff mitunter ein paar Takte, wiegte den Oberkörper hin und her und hob die Arme zu seltsamen Gesten: sie … tanzte in Gedanken!!
 
 Kein Zweifel: es war Mafalda Desparro, und sie war geisteskrank!
 
@@ -610,6 +610,5 @@ Vielleicht wird die unglückliche Mutter dort unter den rauschenden Palmen doch 
 
 Hiermit verabschiede ich mich für heute von meinen Freunden und Lesern. Nach der tropischen Hitze Bombays tut Abkühlung gut, und »<strong>Die Armbanduhr der Miß Golling</strong>« brachte uns diese Abkühlung in reichstem Maße auf einem Eisberg!
 
-<p class="centered">Druck: Buchdruckerei P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 36, Elisabethufer 44</p>
-
+<p style="margin-top: 3em; font-size: small;">Druck: Buchdruckerei P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 36, Elisabethufer 44</p>
 
