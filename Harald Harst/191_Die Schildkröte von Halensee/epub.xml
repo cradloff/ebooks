@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">8f15a245-9185-471f-bd5a-24a91a423d19</entry>
+<entry key="title">Die Schildkröte von Halensee</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">191</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Schildkröte von Halensee.
+
+Ich habe heute in älteren Notizen über absonderliche Erlebnisse geblättert, die uns in dem kritischen Jahre 1923 beschert wurden. Ich sage beschert, denn Harst und ich nehmen eben jedes uns sich darbietende eigenartige und aufregende Abenteuer als ein Geschenk hin. Zu meinem Erstaunen fand ich da die Photographie einer jener kleinen Schildkröten, wie diese auch bei uns in Deutschland vorkommen. Auf diesem Lichtbilde hatte ich mit Bleistift vermerkt: »Schildkröte am Halensee. 13. Oktober 1923. Karman Tichu, Anita Galski.«
+
+Mein Gedächtnis reagierte auf diese dürftigen Angaben prompt. Mit einem Schlage standen in meiner Erinnerung wie aus einer Versenkung all jene Szenen mit lebenswarmer Frische auf, die für uns mit dem Namen des großen Bankiers Karman Tichu verknüpft waren.
+
+Die andere Schildkröte.
+
+»Jetzt möchte ich den Toten sehen. Gehen wir.«
+
+Vom Flur führte eine Treppe in die hell-hohen, luftigen Kellerräume hinab. Als wir jetzt in den Quergang einbogen, als die Lichtkegel unserer Taschenlampen über die Brettertüren hinfuhren, rief Körner ärgerlich: »Verdammt, — da steht ja die Tür weit offen …!«
+
+Harst war mit schnellen Schritten als erster in dem Kellergelaß … Der große alte Holztisch, auf dem die Leiche gelegen hatte, war leer. Man erkannte noch den nassen Fleck im Holze, den die nassen Kleider des Toten hervorgerufen hatten. Der Tote selbst war nicht mehr da.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (191) Die Schildkröte von Halensee.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

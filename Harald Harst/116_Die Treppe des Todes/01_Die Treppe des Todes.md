@@ -185,7 +185,7 @@ zu bieten — mir!!«
 
 <@pagebreak/>
 »Ein Witzbold!« lächelte Harald. »Beruhigen Sie sich
-doch, bester Dawes, …«
+doch, bester Dawes …«
 
 Der Inspektor schenkte sich einen Kornbranntwein ein,
 trank, beleckte sich die Lippen.
@@ -242,7 +242,7 @@ aus seiner Brieftasche hervorgeholt.
 auf!« meinte der Inspektor und entfaltete den Zettel.
 »Er habe da eines Abends im Mai so gegen elf Uhr
 an der vorderen Hauswand seiner Villa ganz zufällig ein
-helles Etwas bemerkt — eine Art Fleck, der wie eine
+helles Etwas bemerkt — eine Art Fleck, der wie eine …
 Treppe etwa aussah, einen schrägen Fleck von einem Meter
 Länge. — Die Villa ist nämlich bis zum ersten Stock aus
 dunklem Granit ausgeführt, und auf dem dunklen Stein
@@ -296,7 +296,7 @@ vollgeschmiert — mit Lösungsversuchen!«
 
 Harst lachte …
 
-»Wirklich ein Witzbold der Groupy! Natürlich haben
+»Wirklich ein Witzbold, der Groupy! Natürlich haben
 die Silben überhaupt keinen Sinn. Der Doktor hat eben
 ganz willkürlich irgendwelche Wortteile aneinandergefügt —
 zum Bilde einer Treppe. — Werfen wir also auch Groupys
@@ -393,7 +393,7 @@ Ich ging ins Haus — in unsere beiden Gastzimmer nach
 oben …
 
 Und als ich mit den gefüllten Rucksäcken die Laube wieder
-betrat, saß Harald dort mit Bleistift und Papier und
+betrat, saß Harald dort mit Bleistift und Papier und —
 entzifferte die Geheimschrift.
 
 Ich blickte ihm über die Schulter … Las … las …
@@ -408,7 +408,7 @@ Unglücklichen. Margitt Sheffield.«
 <@pagebreak/>
 
 Während ich dies überflog, hatte Harald noch die letzten
-Worte schreibend hinzugefügt.
+Worte schreibend hinzugefügt …
 
 »Ein Kinderspiel!« meinte er. »Eine kindliche Geheimschrift!«
 
@@ -440,7 +440,7 @@ aufwiesen, wie sie zu Landstreichern paßt.
 
 Harald musterte mich nun prüfend, nickte und meinte:
 »Tadellos! Dawes würde uns so im Leben nicht wiedererkennen!
-Gehen wir!!« —
+Gehen wir!« —
 
 Wir hatten den Motorknatterer tadellos versteckt. Wir
 wanderten jetzt einen Fußweg entlang, kamen sehr bald auf
@@ -459,7 +459,7 @@ durch eine Laterna magica oder einen ähnlichen Apparat
 von dem Henker-Hause aus auf den dunklen Granit geworfen
 worden, und weil vielleicht der Blattschmuck der Bäume diese
 Projizierung der Geheimschrift auf die Wand der Villa
-fernerhin vereitelt hatte — Du verstehst: am fünfzehnten
+fernerhin vereitelt hatte. — Du verstehst: am fünfzehnten
 Mai bemerkt Groupy den Fleck, und am sechzehnten sind die
 Bäume grün geworden, — und nie wieder sieht der Doktor
 die helle Treppe!«
@@ -474,9 +474,9 @@ Er betonte das »nur« …
 
 Und fuhr fort: »Groupy, Doktor und Privatgelehrter,
 interessiert mich vorderhand am meisten. Entsinne Dich: ich
-fragte Dawes, ob Groupy immer so hinkte …«
+fragte Dawes, ob Groupy immer so hinke …«
 
-»Allerdings. Und — —?«
+»Allerdings … Und — —?«
 
 »Er hinkte nämlich falsch …«
 
@@ -490,7 +490,7 @@ Er ist gar nicht lahm!«
 »Ah — und zu glaubst, daß er vielleicht der Gatte jener
 Margitt …«
 
-Da schwieg ich … da fiel mir ein, welch ungeheuerlichen
+Da schwieg ich … Da fiel mir ein, welch ungeheuerlichen
 Unsinn ich soeben hatte hinschwatzen wollen! Denn — wie
 hätte Groupy sich wohl mit der Geheimschrift an Dawes gewandt,
 wenn er diese Margitt im Henker-Hause eingesperrt
@@ -687,7 +687,7 @@ Dawes zu gehen und die Geschichte der Geheimschrift zu
 widerrufen. Es war ein Versuch von mir, Sie beide von
 mir fernzuhalten. Jetzt, da Sie hier sind, werde ich das
 Feld räumen, sobald Sie beide für vierzehn Stunden
-machtlos sind.«
+— machtlos sind.«
 
 Er sagte das mit der eisigen Ruhe eines Menschen, der
 in jeder Minute auf eine drohende Gefahr vorbereitet ist.
@@ -898,9 +898,9 @@ Wen wir nicht fanden, war Groupy …
 
 Auf dem Schreibtisch lag ein Brief:
 
-> Mr. H. H.
+<p class="centered">Mr. H. H.</p>
 
-> Hier.
+<p class="right">Hier.</p>
 
 Harald riß den Umschlag auf.
 
@@ -923,9 +923,9 @@ bin mehr ein Unglücklicher als ein … —
 
 > Ihr Sie hochschätzender.
 
-> Doktor Groupy — angeblich.
+<p class="centered">Doktor Groupy — angeblich.</p>
 
-> Groupy!
+<p class="right">Groupy!</p>
 
 <h2>4. Kapitel.</h2>
 <h3>Der Satan.</h3>
@@ -1042,13 +1042,13 @@ nicht viel Kombinationstalent dazu, diese Dinge …«
 <@pagebreak/>
 Wieder schwieg er.
 
-Aus dem Keller heraus, wo Groupy hinter stark vergitterten
+Aus dem Keller heraus, wo Groupy hinter stark vergittertem
 Fenster Tiere ausgestopft haben sollte, drang jetzt ein
 schrilles, schnell verklingendes Lachen zu uns empor.
 
 Ein — unheimliches Lachen. —
 
-Harst langte in dicke Schlüsseltasche der Beinkleider. Und
+Harst langte in die Schlüsseltasche der Beinkleider. Und
 brachte die kleine dunkle Lebensversicherung zum Vorschein,
 die liebe, neunschüssige Clementpistole — ein Spielzeug fast,
 so winzig in den Abmessungen …
@@ -1086,7 +1086,7 @@ Wir standen — — lauschten …
 Nichts … Totenstille …
 
 Wir sahen den weißen Lichtfinger der Taschenlampe
-der drei Türen zu drei Kellerräumen hinwegglasten …
+der drei Türen zu drei Kellerräumen hinwegtasten …
 
 Sahen, daß die eine Tür linker Hand durch drei Vorlegeschlösser
 und dicke Eisenstangen versperrt war …
@@ -1199,7 +1199,7 @@ In den Gang, den Flur …
 Und im selben Augenblick strahlte die Flurbeleuchtung
 auf …
 
-Sahen wir uns gegenüber ein großes, muffiges Weib,
+Sahen wir uns gegenüber ein großes, massiges Weib,
 das mit jeder Hand eine gelbe Riesendogge am Halsband
 hielt …
 
@@ -1267,7 +1267,7 @@ Ein heiseres Röcheln einer unsagbaren Wut kam aus
 ihrer Kehle …
 
 Sie drängte die Doggen ins Zimmer, zog die Tür wieder
-zu, hob die langen Arme und schüttelte polternd gegen uns
+zu, hob die langen Arme und schüttelte geifernd gegen uns
 Ihre Riesenfäuste …
 
 »Feiglinge — — Feiglinge!! Ist das eine Art, eine
@@ -1285,7 +1285,7 @@ und ihre groben Gesichtszüge nahmen den Ausdruck ungläubigen
 Staunens an …
 
 »Zu wem?« fragte sie langsam. »Zu wem? Wie war
-der Name … Margitt … Sheff …, Shefgielß …?«
+der Name … Margitt … Shef … Shefgielß …?«
 
 Sie spielte wieder Komödie, aber in der Vollendung.
 
@@ -1307,10 +1307,10 @@ Sagte mit demselben schauspielerischen Geschick:
 Sie eigentlich von mir?«
 
 »Gehen Sie uns voran ins Henker-Haus hinüber! Tun
-Sie genau, das ich wünsche, oder wir werden Ihnen die
+Sie genau, was ich wünsche, oder wir werden Ihnen die
 Hände binden und Sie zwingen!«
 
-»Sie — — zwingen — — mich …« Ihre Stimme
+»Sie — — zwingen — — mich …?!« Ihre Stimme
 schrillte. Eine unendliche Verachtung und Geringschätzung
 lag in diesen Worten.
 
