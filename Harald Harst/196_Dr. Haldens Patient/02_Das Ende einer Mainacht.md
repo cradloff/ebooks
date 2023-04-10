@@ -14,7 +14,7 @@ Gespräch im Dunkeln … Nur flüsternde Stimmen hinter dem Wandschirm. Nur das 
 
 »Wie — auch als Beauftragter?«
 
-»Nein … Aus eigenem heraus, Herr Harst.«
+»Nein … Aus eigenem Interesse heraus, Herr Harst.«
 
 Pause … Dunkelheit … Stille … Draußen aber der Mairegen und das ferne, dumpfe Grollen eines ersten Frühjahrgewitters.
 
@@ -278,7 +278,7 @@ Ich war einer Ohnmacht nahe …
 
 Haldens Stimme peitschte mich auf …
 
-»Meine Herren, bevor ich mich nun von Ihnen für immer verabschiede, will ich Mendel wieder in sein Zimmer nach oben tragen und dann zurückkehren, um Ihnen gründlich Lebewohl zu sagen … Sehen Sie her … Hier liegen bereits die drei mit Haldin gefüllten kleinen Spritzen … Es ist das letzte Haldin, das ich vorrätig habe … Es genügt für Sie drei … Und nachher benutze ich mein Schlupfloch ins Freie, meine Herren, — durch den Keller bis in eins der Treibhäuser, ganz hinten im Gemüsegarten … Ein Gang, sauber abgestützt, bildet die Verbindung. Es war eine mühselige Arbeit … Auf Wiedersehen … Ich bin in ein paar Minuten wieder da. Werden Sie also nicht ungeduldig. Ich verspreche Ihnen: Sie werden in kurzem die Quittung für Ihre Einmischung in meine Angelegenheiten erhalten: den Scheintot!«
+»Meine Herren, bevor ich mich nun von Ihnen für immer verabschiede, will ich Mendel wieder in sein Zimmer nach oben tragen und dann zurückkehren, um Ihnen gründlich Lebewohl zu sagen … Sehen Sie her … Hier liegen bereits die drei mit Haldin gefüllten kleinen Spritzen … Es ist das letzte Haldin, das ich vorrätig habe … Es genügt für Sie drei … Und nachher benutze ich mein Schlupfloch ins Freie, meine Herren, — durch den Keller bis in eins der Treibhäuser, ganz hinten im Gemüsegarten … Ein Gang, sauber abgestützt, bildet die Verbindung. Es war eine mühselige Arbeit … Auf Wiedersehen … Ich bin in ein paar Minuten wieder da. Werden Sie also nicht ungeduldig. Ich verspreche Ihnen: Sie werden in kurzem die Quittung für Ihre Einmischung in meine Angelegenheiten erhalten: den Scheintod!«
 
 Er nahm die Leiche Mendels — nein, den lebenden, unglücklichen Mendel in die Arme und schritt die Treppe empor.
 
@@ -652,5 +652,5 @@ Erst in Bombay erreichte uns folgender Brief:
 
 Wie »<strong>Ein Gast in der Nacht</strong>« beginnt und endet, was wir in Ostpreußen und später in Indien erlebten, — — das nächste Mal!
 
-<p class="centered">Druck: Buchdruckerei P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 36, Elisabethufer 44</p>
+<p style="margin-top: 3em; font-size: small;">Druck: Buchdruckerei P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 36, Elisabethufer 44</p>
 

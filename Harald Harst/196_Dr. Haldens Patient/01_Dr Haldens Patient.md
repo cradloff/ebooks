@@ -106,6 +106,9 @@ Am Anfang der Joachimstraße verabschiedeten wir uns. Machten kehrt … »Es war
 
 Dort, wo das unbebaute Gelände des Vorortes Alt-Schmargendorf sich gen Westen bis zu den neuen Villengruppen des durch den Botanischen Garten berühmt gewordenen Nachbarortes<@refnote 1/> Dahlem hinzieht, läuft auch die stille, von Kiefern eingerahmte Lennéstraße entlang, und hier erhebt sich hinter einer hohen Ziegelmauer ein schmuckloses dreistöckiges, verwittertes Haus mit flachem Dach, an dessen Gitterpforte ein großes Messingschild in schwarzen Buchstaben die Aufschrift trägt:
 
+<p class="centered">Dr. med. Ferdinand Halden,<br />
+Nervenarzt.</p>
+
 Harst läutete. Nach einer geraumen Weile öffnete sich die Gittertür mit völliger Lautlosigkeit, und vor uns stand — — der Uhu!!
 
 Fraglos der Uhu — der Rentner Giesebrecht! Der Bewohner des kleinen Hinterzimmers der Sanitätsrätin. Er mußte es sein. Tussi hatte ihn uns so genau beschrieben: Brille, Bart, Geiernase — alles stimmte, — auch der schief getragene Kopf …
@@ -254,7 +257,7 @@ Halden flüsterte uns erregt zu: »Zum ersten Male bringt mein armer Freund dies
 
 Er zuckte traurig die Achseln …
 
-»Auf Wiedersehen, Ernst, … Ich werde dich schon wieder gesund machen … Heute nachmittag versuchen wir es mit starken galvanischen Strömen. Mut, Ernst …! Es wird noch alles gut werden.«
+»Auf Wiedersehen, Ernst … Ich werde dich schon wieder gesund machen … Heute nachmittag versuchen wir es mit starken galvanischen Strömen. Mut, Ernst …! Es wird noch alles gut werden.«
 
 Mir stand längst der kalte Schweiß auf der Stirn …
 
@@ -500,7 +503,7 @@ Wieder schaltet er seine Taschenlampe aus …
 
 Drückende Finsternis … Lastende Stille … Nur draußen der Regen … Regen … Regen … Eine einförmige, trostlose Melodie …
 
-»Tot,« wiederholt [er]<@refnote 5/>. »Wir sind zu spät gekommen … Für Mendel zu spät … Nicht für die Gräfin, hoffe ich … Mielke haben wir in Sicherheit gebracht … Tun wir das gleiche mit dieser Frau, die nur … sich selbst sieht und vielleicht denselben Weg wie Mendel gehen sollte. Ihr Zimmer liegt eine Treppe tiefer, genau unter diesem … Vorwärts!«
+»Tot,« wiederholt er<@refnote 5/>. »Wir sind zu spät gekommen … Für Mendel zu spät … Nicht für die Gräfin, hoffe ich … Mielke haben wir in Sicherheit gebracht … Tun wir das gleiche mit dieser Frau, die nur … sich selbst sieht und vielleicht denselben Weg wie Mendel gehen sollte. Ihr Zimmer liegt eine Treppe tiefer, genau unter diesem … Vorwärts!«
 
 Im Hause rührt sich nichts.
 
