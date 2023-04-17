@@ -266,7 +266,7 @@ untersuchen.«
 
 »Nanu?!«
 
-»Es ist Erde und Blut, und ich möchte wissen ob’s
+»Es ist Erde und Blut, und ich möchte wissen, ob’s
 Menschenblut ist.«
 
 Godwin nickte.
@@ -284,7 +284,7 @@ verschieden von der der Tiere.
 »Das habe ich mir gedacht,« meinte Harst sinnend. »Der
 Tiger war kein Tiger, sondern nur ein Junge in einem
 Tigerfell, und Tawa Barru glaubt nun, daß wir glauben,
-er seit tot.«
+er sei tot.«
 
 Goddlears Gesicht war zum Malen.
 
@@ -564,7 +564,7 @@ Hinein in die Büsche ging’s … Hinaus aus dem Baumschatten
 … hinaus auf freies Feld … Aber auch hier
 Büsche und Sträucher.
 
-Und dort vor uns, deutlich zu erkennen der kleine Kahn.
+Und dort vor uns, deutlich zu erkennen, der kleine Kahn.
 
 Aufrecht stand der Zerlumpte da und ruderte sehr geschickt
 mit einem einzigen Ruder, bald auf Backbord, bald
@@ -839,7 +839,7 @@ gegen sieben Uhr abends sich wieder einfand.
 Sinclair war jetzt im Offizierkasino — zum Mittagessen.
 
 »Na — wie heißt denn der Herr, der im Imperial
-etwas deponiert hat?« fragte ich den Freund mit pfiffigen
+etwas deponiert hat?« fragte ich den Freund mit pfiffigem
 Lächeln.
 
 »Wenn Du es rätst, mein Alter, schenke ich Dir ein
