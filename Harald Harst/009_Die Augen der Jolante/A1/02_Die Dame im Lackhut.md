@@ -1,4 +1,5 @@
 Die Dame im Lackhut.
+===================
 
 Es tröpfelte leicht, als wir auf dem Kurfürstendamm in das Auto stiegen. Harst hatte dem Chauffeur als Ziel eine Straßenkreuzung nordwestlich von Steglitz, einem Berliner Vorort, angegeben, die selbst dem Kraftwagenführer ganz unbekannt zu sein schien.
 
@@ -20,7 +21,7 @@ Die Sache wurde interessant. Bisher hatte ich gegen diese Spazierfahrt manches e
 
 »Wir haben noch Zeit,« fuhr Harst fort. »Die Zusammenkunft erfolgt erst um Mitternacht. Und jetzt ist es erst halb zwölf etwa. Ich bin neugierig, wer die Leute sind, die mit so übertriebener Vorsicht durch Annoncen sich verständigen, und was sie treiben mögen.«
 
-Er bog von der Straße auf eine mit einem schlechten Drahtzaun umgebende Bauparzelle ab und wollte offenbar im Bogen von hinten an das halb fertigte Gebäude heran. Wir mußten noch über drei Zäune klettern oder zwischen Stacheldrähten hindurchkriechen. Dann erst lag die Baubude des Neubaus dicht vor uns. Man hatte sie stehen lassen, da ihre morschen Bretter wohl nicht einmal das Stehlen verlohnten. Von dieser Bude bis zur Wißmannstraße hin waren es etwa dreißig Meter, bis zur Rückseite des Neubaus ungefähr fünfzehn.
+Er bog von der Straße auf eine mit einem schlechten Drahtzaun umgebene Bauparzelle ab und wollte offenbar im Bogen von hinten an das halb fertige Gebäude heran. Wir mußten noch über drei Zäune klettern oder zwischen Stacheldrähten hindurchkriechen. Dann erst lag die Baubude des Neubaus dicht vor uns. Man hatte sie stehen lassen, da ihre morschen Bretter wohl nicht einmal das Stehlen verlohnten. Von dieser Bude bis zur Wißmannstraße hin waren es etwa dreißig Meter, bis zur Rückseite des Neubaus ungefähr fünfzehn.
 
 Harst war gerade über ein Stück Eisendraht gestolpert und fluchte leise, als ich durch die leeren Fensteröffnungen in den Kellerräumen an der rechten Hausseite eine Lichterscheinung aufblitzen sah. Es war wie ein weißer Strich von Funkengarben gewesen, vielleicht ein halbes Meter lang und wagerecht verlaufend. Nur den Bruchteil einer Sekunde hatte dieses Aufleuchten sich gezeigt. Ich glaubte, Harst hätte es nicht bemerkt und teilte ihm nun hastig mit, was ich soeben beobachtet.
 
@@ -96,19 +97,19 @@ Unaufgefordert leistete ich mir noch eine Herzstärkung. Harst rollte sich den K
 
 Die ersten Rauchringe schwebten hoch, zerflatterten. Dann begann er: »Unsere Aufgabe lautet diesmal:
 
-»Welchen Zweck haben die drei Anzeigen im Berliner Kurier vom 6., 22. und 28. Mai des Jahres, Morgenausgabe, links oben, Seite 6, Kugelrand.«
+> »Welchen Zweck haben die drei Anzeigen im Berliner Kurier vom 6., 22. und 28. Mai des Jahres, Morgenausgabe, links oben, Seite 6, Kugelrand.«
 
 Sie kennen diese Annoncen, Schraut. Wir haben sie uns ja genügend angesehen. Trotzdem will ich sie Ihnen nochmals vorlesen. Nummer eins, vom 16., fünf Zentimeter hoch, acht Zentimeter lang, hat den Wortlaut:
 
-»Wißmacht — Wißmacht ist das Allerbeste!«
+> »Wißmacht — Wißmacht ist das Allerbeste!«
 
 Weiter — vom 22. —:
 
-»Wißmacht — Wißmacht ist das Allerfeinste!«
+> »Wißmacht — Wißmacht ist das Allerfeinste!«
 
 Vom 28. —:
 
-»Wißmacht — Wißmacht ist das Billigste!«
+> »Wißmacht — Wißmacht ist das Billigste!«
 
 Für den harmlosen Leser haben diese Anzeigen nichts Besonderes an sich gehabt. Wißmacht kann ein neues Seifenpulver oder dergleichen sein, mögen die meisten gedacht haben. Aber — meine Wettgegner müssen irgendwie dahinter gekommen sein, daß diese Annoncen keine Reklame waren. Wie sie’s herausgebracht haben, verschwieg man mir. Nun — das ist ja auch gleichgültig. Jedenfalls soll ich nun ermitteln, was es mit diesem Wißmacht auf sich hat. — Gestern ging ich an die neue Aufgabe heran. Während Sie, lieber Schraut, mich auf einem Spaziergang vermuteten, war ich in der Expedition des Kuriers. Mein Name genügte, den Diensteifer der Herren bis ins unerträgliche zu steigern. Hoffentlich sind sie wirklich verschwiegen. Ich bat darum. Wir müssen ja stets auf unserer Hut sein. — Ich erfuhr, daß die Anzeigen brieflich eingegangen sind, eingeschrieben, zugleich mit einem Betrag, der die wahren Kosten der Annoncen weit überstieg. Aufschrift und Anzeigenentwurf waren getippt, ebenso das Anschreiben. Absender wollte ein Herr Ernst Felisch, Werder, Gartenstraße 15, sein. Ich habe die dortige Polizei angefragt — telephonisch. In ganz Werder gibt es keinen Felisch, was ich mir schon gedacht hatte. Immerhin sind die drei eingeschriebenen Briefe dort aufgegeben worden. Den letzten Briefumschlag und das dazu gehörige Anschreiben habe ich von der Expedition ausgehändigt erhalten. Beide bieten nichts Besonderes. Man erkennt nur, daß eine alte Schreibmaschine benutzt worden ist. — Immerhin wußte ich nun, daß es mit den Anzeigen eine eigene Bewandtnis haben mußte. Ich habe mir dann hin und her überlegt, was sie bedeuten könnten. — Eine geheime Verständigung war’s vielleicht. Dazu erschienen sie aber zu kurz, zumal ja in allen dreien nur das letzte Wort wechselte. — Das letzte Wort! Konnte es nicht so etwas wie ein Kennwort für eine andere Anzeige scheinbar ebenso harmlosen Inhalts sein? — Ich ging diesem Gedanken weiter nach. Ich sah die Morgennummern des Kuriers vom 16., 22. und 28. ganz sorgfältig durch. Ich entdeckte nichts. Da tat ich dasselbe bei den Morgenausgaben der folgenden Tage. Und — der Zusammenhang war gefunden, denn in der Nummer vom 18. stand unter Vermischte Anzeigen folgendes:«
 
@@ -116,11 +117,11 @@ Harst nahm ein viertes der zusammengefalteten Blätter auf.
 
 »Also folgendes, lieber Schraut:
 
-»Allerbeste, haben verstanden. Erwarte Dich W. 8 heute 12.«
+> »Allerbeste, haben verstanden. Erwarte Dich W. 8 heute 12.«
 
 So, das war die Antwort auf die eine Wißmacht. — Und auf die vom 28. steht hier in der Nummer vom 1. Juni:
 
-»Billigste. 3. Juni 12.«
+> »Billigste. 3. Juni 12.«
 
 Und heute, nein, gestern, denn Mitternacht ist längst vorbei, war der 3. Juni. — So weit war ich nun. — Was 12 bedeutete, konnte ich unschwer erraten — nach dem Kursbuch, wo auch die Nachtzeiten unterstrichen sind: Also: zwölf Uhr nachts! — Nun aber der Treffpunkt, wo die Antwortenden die Allerbeste, Allerfeinste, Billigste erwarten wollten. — Endlich fiel mir auf, daß die erste Erwiderung im Gegensatz zu den kürzeren zwei und drei noch die Worte enthielt: »haben verstanden. Erwarten Dich W. 8.« — Was sollte das heißen? Bezog sich das »haben verstanden« etwa auch auf dieses W. 8? — Vermutlich ja, sagte ich mir, da es bei der zweiten und dritten Antwort fehlt. — Die Antwortenden waren sich also über die Bedeutung dieses W. 8 aus der ersten Anzeige »Wißmacht« klar geworden. Konnte nun auch ich nicht aus dem Wortlaut dieser Annonce den auf diese Weise vereinbarten Treffpunkt ergründen? — Gewiß! Als ich erst dies alles mir logisch zurechtgelegt hatte, blieb ja nur »Wißmacht« als das einzige Wort übrig, das einen verborgenen Sinn haben konnte. — So, lieber Schraut, jetzt sollen Sie zeigen, daß auch Sie kombinieren können.«
 
@@ -134,7 +135,7 @@ Oh — jetzt war ich im Zuge. Vielleicht hilft bei mir gerade der Schnupfen, vie
 
 »Streicht man von Wißmacht die »acht«, so erhält man Wißm…, — und wir waren vorhin im Neubau Wißmannstraße 8!« erklärte ich eifrig.
 
-»Ja, wir waren heute, besser gestern, dort, und ich — bereits vorgestern nachmittags, nachdem ich genau wie Sie, lieber Schraut, das »Wißm« als den Anfang eines Straßennamens und dann auch »unsere« Wißmannstraße nach einiger Mühe als die wahrscheinlich richtige herausgefunden hatte. — Nach einiger Mühe! In Berlin und den Vororten gibt es im ganzen nach den Adreßbüchern vier Straßen dieses Namens. Ich nahm also ein Auto und fuhr fast drei Stunden spazieren, bis ich ausgerechnet als die letzte unsere W. 8 besuchte und dort den Neubau entdeckte. Er kam mir gleich von außen so geheimnisvoll vor, daß ich das Auto fortschickte und ihm einen Besuch abstattete. Dabei stieß ich rechts im Keller auf einen Raum, in dem neben und vor einem Kasten zum Ziegelsteintragen folgendes lag: Eine Lockennadel, sechs abgebrannte Streichhölzer, sechs Zigarettenmundstücke, Marke Optimus, a 8 Pfennig, ein Stückchen von einem Gummiabsatz, eine Silberpille Mundparfüm und ein Stückchen einer Fahrkarte 2. Klasse, auf dem man gerade noch von dem Abfahrtort »der« und als Ziel Berlin lesen konnte. — Diese Kleinigkeiten verrieten mir, daß der Kellerraum einmal von einer Dame in Begleitung eines Herrn besucht worden war, denn das Gummiabsatzteilchen war für eine Damenhacke zu groß. Weiter verriet mir aber das Fahrkartenstück einen gewissen Zusammenhang zwischen Werder — der — und diesen Kellergästen — zwischen Werder als Absendeort der Wißmacht-Anzeigen. Und deshalb hielt ich eben unsere Wißmannstraße für die einzig hier in Frage kommende.«
+»Ja, wir waren heute, besser gestern, dort, und ich — bereits vorgestern nachmittags, nachdem ich genau wie Sie, lieber Schraut, das »Wißm« als den Anfang eines Straßennamens und dann auch »unsere« Wißmannstraße nach einiger Mühe als die wahrscheinlich richtige herausgefunden hatte. — Nach einiger Mühe! In Berlin und den Vororten gibt es im ganzen nach den Adreßbüchern vier Straßen dieses Namens. Ich nahm also ein Auto und fuhr fast drei Stunden spazieren, bis ich ausgerechnet als die letzte unsere W. 8 besuchte und dort den Neubau entdeckte. Er kam mir gleich von außen so geheimnisvoll vor, daß ich das Auto fortschickte und ihm einen Besuch abstattete. Dabei stieß ich rechts im Keller auf einen Raum, in dem neben und vor einem Kasten zum Ziegelsteintragen folgendes lag: Eine Lockennadel, sechs abgebrannte Streichhölzer, sechs Zigarettenmundstücke, Marke Optimus, a 8 Pfennig, ein Stückchen von einem Gummiabsatz, eine Silberpille Mundparfüm und ein Stückchen einer Fahrkarte 2. Klasse, auf dem man gerade noch von dem Abfahrtort »der« und als Ziel Berlin lesen konnte. — Diese Kleinigkeiten verrieten mir, daß der Kellerraum einmal von einer Dame in Begleitung eines Herrn besucht worden war, denn das Gummiabsatzteilchen war für eine Damenhacke zu groß. Weiter verriet mir aber das Fahrkartenstück einen gewissen Zusammenhang zwischen Werder — *der* — und diesen Kellergästen — zwischen Werder als Absendeort der Wißmacht-Anzeigen. Und deshalb hielt ich eben unsere Wißmannstraße für die einzig hier in Frage kommende.«
 
 Harst rauchte eine neue Mirakulum an. »Nun zu unserem Abenteuer in Nummer 8. Es kann kaum dunkler und undurchsichtiger sein. — Sie sehen eine Lichterscheinung aufleuchten. Gleich darauf flieht eine Frau im Seidenmantel und Lackhut aus dem Keller, der Sie nachher die Geldbörse entreißen und auf die ein elegantes Gefährt mit Gummirädern und so weiter gewartet hat. Diese Geldbörse aus Krokodilleder haben wir schon geprüft. Sie enthält fünfzehn Mark, eine kleine Nagelfeile und ein winziges Kinderzähnchen. Sonst nichts. Sie verschweigt uns alles, was wir gern wissen möchten. — Dann finde ich den Knaben, den ich erst für tot halte, den wir in der Bude verbergen und der so ärmlich angezogen ist, daß er gar nicht recht zu den Leuten paßt, die sich in »Wißmacht« treffen wollten. Wollten! — Sie fanden die geflüchtete Frau ja nicht mehr vor, diese beiden, die dann Punkt 12 Uhr erschienen und die etwa zwanzig Minuten warteten, wobei der Herr im Zylinder abermals Zigaretten rauchte und mit seiner Begleiterin nur wenige Worte wechselte. Und diese Begleiterin? — Man könnte auf die Vermutung kommen, es wäre dieselbe Frau, die so eilig davonlief, denn auch sie hatte einen langen Seidenmantel, einen Lackhut und war schwarz verschleiert. — Dann schließlich der Junge, der jetzt in meinem Bett schläft. Wir haben von ihm bisher nichts erfahren können. Er ist zu matt von der langen Betäubung. — Ich komme damit zu einem der wesentlichsten Punkte, lieber Schraut, über den wir noch nicht gesprochen haben. — Wodurch wurde er betäubt? — Ich will es Ihnen erklären. Als ich in den Keller eindrang, nachdem die Frau geflohen war, fand ich das Kind ohne spürbare Pulstätigkeit. Ich fand auch sehr bald heraus, daß in jenem Kellerraum offenbar absichtlich ein Mordanschlag gegen irgend jemand vorbereitet worden war. Die elektrischen Drähte des beim Bau des Hauses verwendeten Lastenaufzugs außen am Hause waren so hergerichtet, daß der, der einen am Boden liegenden Brief aufnehmen wollte, sie berühren mußte. Die Lichterscheinung, die wir sahen, war eine elektrische Entladung. Sie traf den Knaben, betäubte ihn und zerstörte den Brief zur Hälfte. — Hier ist die andere Hälfte.«
 
@@ -142,9 +143,9 @@ Harst griff in die Tasche, reichte mir den halb verkohlten Umschlag.
 
 »Sie sehen, Schraut, daß es ein leerer Umschlag ist, zugeklebt, darauf die Anschrift:
 
-Eilt!
+<p style="text-indent: 2em; font-weight: bold;">Eilt!</p>
 
-An Wiß
+<p style="text-indent: 3em; ">An Wiß</p>
 
 Der Rest ist vernichtet. — Sollte also heißen: An Wißmacht. — Nun hätten wir alles beieinander. Und nun sagen Sie mir: wie in aller Welt soll man daraus auch nur ungefähr eine Theorie der Zusammenhänge herstellen?! — Ich kann’s nicht, Schraut. Ich habe mir soeben bei der Promenade durch das Zimmer jede Einzelheit nach allen Seiten hin überlegt. Ich stehe vor einem vollkommenen Rätsel.«
 
@@ -154,7 +155,7 @@ Ich schwieg. Ich hatte nebenan in Harsts Schlafzimmer ein lautes Geräusch gehö
 
 Tiefe Dunkelheit dort drinnen. — Ich hatte mich aus meiner Sofaecke weit vorgebeugt. Ich sah, wie Harst die Nachttischlampe vor seinem Bett einschaltete, sah nun auch den blonden Struwwelkopf des Jungen in den Kissen, mit dem Gesicht nach der Wand zu.
 
-Dann verschwand Harst nach rechts hin, wo der mächtige Kleiderschrank steht. Ich hörte dessen Tür knarren, hörte das Knacken des Schlosses, hörte beides nach einer Weile nochmals. Nun kam Harst langsam in das Arbeitszimmer zurück. Über dem linken Arm trug er eine Lodenpelerine und einen seiner Gummimäntel, in der linken Hand ein paar braune Handschuhe.
+Dann verschwand Harst nach rechts hin, wo der mächtige Kleiderschrank steht. Ich hörte dessen Tür knarren, hörte das Knacken des Schlosses, hörte beides nach einer Weile nochmals. Nun kam Harst langsam in das Arbeitszimmer zurück. Über dem linken Arm trug er eine Lodenpelerine und einen seiner Gummimäntel, in der linken Hand ein paar braune Halbschuhe.
 
 »Es war nur das Fenster, das halb offen steht und das der Wind bewegt hat,« sagte er ziemlich laut und schloß die Schlafstubentür hinter sich.
 
@@ -164,7 +165,7 @@ Kaum war dies geschehen, als er sich sofort auf den nächsten Stuhl setzte, die 
 
 Ich schlich hinaus, über den Flur, in meine Wohnung. Im Augenblick war ich mit dem Hut zurück. Harst reichte mir den Umhang. Er selbst hatte den Gummimantel bereits an.
 
-»Auf die Straße hinaus,« raunteix er mir zu. Fügte sehr deutlich und nur für den kleinen Betrüger da drinnen hinzu: »Gute Nacht also. Ich werde noch etwas arbeiten.«
+»Auf die Straße hinaus,« raunte er mir zu. Fügte sehr deutlich und nur für den kleinen Betrüger da drinnen hinzu: »Gute Nacht also. Ich werde noch etwas arbeiten.«
 
 Wir verließen das Haus in aller Stille und überschritten die Straße, standen nun im Schatten der Bäume drüben und warteten. — Wir warteten umsonst. Nach einer halben Stunde etwa — mir kam’s so lang vor, aber es waren doch nur einige zwanzig Minuten gewesen — wurde Harst mißtrauisch, eilte in sein Schlafzimmer, war sofort wieder bei mir.
 
@@ -176,11 +177,11 @@ Plötzlich nahm er mich unter den Arm, zog mich mit fort: »Trab, Schraut, — T
 
 Wir liefen, als wären wir verfolgte Einbrecher. Wir fanden ein leeres Auto. Der Chauffeur weigerte sich, nach der — nicht existierenden — Straßenkreuzung vor Steglitz zu fahren. — »Ick hab’ all Schluß jemacht, will in die Jaraje!« meinte er. — Zwanzig Mark genügten jedoch, ihn umzustimmen.
 
-So ging’s denn abermals dorthin, wo mir in dieser Nacht schon einmal gewesen; abermals suchte der Chauffeur die Straßenkreuzung, abermals wurde Harst scheinbar ungeduldig und schickte den Mann nach Hause. Dann — wieder im Trab dem Neubau zu. Und während wir so dahinstürmten — bisher hatte Harst nicht ein Wort zu mir gesprochen —, sagte er stoßweise:
+So ging’s denn abermals dorthin, wo wir in dieser Nacht schon einmal gewesen; abermals suchte der Chauffeur die Straßenkreuzung, abermals wurde Harst scheinbar ungeduldig und schickte den Mann nach Hause. Dann — wieder im Trab dem Neubau zu. Und während wir so dahinstürmten — bisher hatte Harst nicht ein Wort zu mir gesprochen —, sagte er stoßweise:
 
 »Schraut — ich habe in dieser Nacht einen schweren Fehler begangen! Es ist so gut wie selbstverständlich, daß die Frau im Lackhut, die vor Entsetzen über den Tod des Knaben floh — sie hat ihn sicher für tot gehalten, — Hilfe herbeiholen und versuchen wird, den Knaben fortzuschaffen. Denken Sie daran, daß sie Verbündete hat, die ihr ergeben sind, so zum Beispiel den Kutscher des eleganten Gefährts, das doch auf sie dort weiter oben in der Straße wartete und das — nun, haben Sie’s nicht gesehen, Schraut, als wir eben im Auto vorüberkamen. Es steht ja wieder da weit hinten. Mir schien, als säße aber eine Frau jetzt auf dem Bock. Wenn wir doch nur noch einen der Gesellschaft erwischen würden! Mein Fehler bestand darin, daß wir nicht sofort hierher zurückkehrten, als wir den Jungen glücklich ins Bewußtsein zurückgebracht hatten. Da hätte mir spätestens dieser Gedanke kommen müssen, den wir jetzt erst verwirklichen. — Ah — da ist der Neubau. Wenn nur der verdammte Regen aufhören wollte. Es gießt jetzt wieder Strippen. Man sieht so wenig dabei —«
 
-— — — — — — — —
+* * *
 
 Wir standen nun vor dem Neubau still. Ich keuchte, und der Schweiß rann mir unter dem Hutleder hervor die Nase entlang. Harst atmete ganz ruhig. Er war ja auch zwölf Jahre jünger, und sein Körper gut trainiert für Anstrengungen aller Art.
 
@@ -190,7 +191,7 @@ Dann verschluckten ihn die Regenschleier.
 
 Ich überlegte. Hier auf der Straße Wache zu stehen, war eine mißliche Sache. Obwohl im Osten der Himmel sich bereits lichtete, war es infolge des Platzregens, der gerade herniederging, so dunkel, daß ich kaum von der Mitte aus die Hausfront entlangschauen konnte. War es da nicht klüger, ich pirschte mich ganz nahe an den wartenden Wagen heran? Denn dieser konnte ja nur den- oder diejenigen gebracht haben, die Harst jetzt wohl noch in den Kellerräumen auf der Suche nach dem Knaben vermutete. — Ja — so war’s am richtigsten, ohne Frage! — Und kurz entschlossen setzte ich mich wieder in Trab, vermied aber zu laute Schritte, lief mehr auf Fußspitzen.
 
-Da — hinter mir ein Schuß — noch einer. Sie kamen ohne Frage von der Rückseite der Nr. 8 her. Ich blieb stehen. Was nun? Sollte ich umkehren? War Harst etwa in Gefahr?
+Da — hinter mir ein Schuß — noch einer. Sie kamen ohne Frage von der Rückseite von Nr. 8 her. Ich blieb stehen. Was nun? Sollte ich umkehren? War Harst etwa in Gefahr?
 
 Nun Pferdegetrappel. Abermals flog mein Kopf herum. Der Wagen nahte. Ich duckte mich zusammen, huschte in den Straßengraben. Mein Umhang verschmolz mit der Dunkelheit in eins.
 
@@ -202,7 +203,7 @@ Ein Gedanke! Der Kerl, der da dem haltenden Wagen zurannte, würde auch mich nic
 
 Als das Gefährt nun kurz wendete und die Pferde dann im Galopp davonrasten, hing ich hinten zwischen den vorstehenden Federn, an denen ich mich festhielt, während ich die Beine über die Hinterachse gelegt hatte.
 
-Ich werde diese Fahrt nie vergessen. Hundertmal glaubte ich: Du hältst es nicht länger aus — laß Dich herabfallen! — Und hundertmal siegte die Energie trotz der wahnsinnigen Schmerzen in den Händen und trotz des Gefühls, mir würden die Arme aus den Gelenken gerissen. — Ich durfte nicht schlapp werden — durfte nicht! Denn da vorn auf dem Bock saß ja vielleicht Harsts Mörder neben der Frau! Ich hatte gesehen, wie er sich auf den Bock schwang. Und dies gab mir eine ungeahnte Willenskraft.
+Ich werde diese Fahrt nie vergessen. Hundertmal glaubte ich: Du hältst es länger nicht aus — laß Dich herabfallen! — Und hundertmal siegte die Energie trotz der wahnsinnigen Schmerzen in den Händen und trotz des Gefühls, mir würden die Arme aus den Gelenken gerissen. — Ich durfte nicht schlapp werden — durfte nicht! Denn da vorn auf dem Bock saß ja vielleicht Harsts Mörder neben der Frau! Ich hatte gesehen, wie er sich auf den Bock schwang. Und dies gab mir eine ungeahnte Willenskraft.
 
 Wir fuhren bald langsamer, nur noch im Trab. Die Gummiräder und die tadellosen Federn des Wagens mußten für einen, der drinnen in den Polstern saß, sehr angenehm sein. Für mich erhöhte dieses wiegende Schaukeln nur die Qualen.
 
@@ -210,7 +211,7 @@ Wir hatten Dahlem passiert, bogen in die Hubertusallee der Villenkolonie Grunewa
 
 Da — der Trab mäßigte sich. Die Pferde hielten — hielten vor einem breiten Gittertor.
 
-Ich hörte, wie der Mann vom Bock sprang, sah ihn nun am Gittertor stehen, dessen Flügel langsam zurückwichen. Er öffnete es. Und ich — ich kroch auf allen Vieren bis zum nächsten Baum am Rande der Promenade, richtete mich vorsichtig auf und machte mich dahinter ganz schlank.
+Ich hörte, wie der Mann vom Bock sprang, sah ihn nun am Gittertor stehen, dessen Flügel langsam zurückwichen. Er öffnete es. Und ich — ich kroch auf allen Vieren bis zum nächsten Baum am Rande der Promenade, richtete mich auf und machte mich dahinter ganz schlank.
 
 Der Wagen fuhr in einen von Wirtschaftsgebäuden umgebenen, asphaltierten Hof ein, an dessen rechter Seite ein schmuckes Häuschen die Kutscherwohnung verriet. Der Mann spannte die Pferde aus. Die Frau — sie trug einen dunklen Hut mit ein paar Blumen und einen gestreiften, halblangen Mantel, war klein und rundlich — flüsterte dabei eifrig mit ihm, ging dann in das Häuschen. Nachher verschwand auch der Mann hinter derselben Tür. Schon vorher waren zwei Fenster des Häuschens hell geworden. Auf den gelben Vorhängen zeichnete sich jetzt der Schatten eines Knaben ab, der auf dem Fensterkopf etwas suchte.
 
@@ -218,7 +219,7 @@ Eines Knaben! Deutlich war zu erkennen, daß das Haar wirr und hochgekämmt war.
 
 Die Sorge um Harst trieb mich nach der Wißmannstraße zurück. Eine gute Stunde hatte ich zu marschieren, bis ich am Ziel war. Inzwischen war der Morgen angebrochen. Die fahle geheimnisvolle Dämmerung eines Regentages lagerte über dem Gelände zu beiden Seiten des endlosen Asphaltweges, auf dem ich hastig dahinschritt, von dem ich nun zögernder links abbog — auf den Hof des Neubaus.
 
-Eine Viertelstunde später gab ich das Suchen auf. Selbst in der Kalkgrube hatte ich mit einer Latte herumgestochert. Der Mann Harsts Leiche ja irgendwo schnell verborgen haben.
+Eine Viertelstunde später gab ich das Suchen auf. Selbst in der Kalkgrube hatte ich mit einer Latte herumgestochert. Der Mann konnte Harsts Leiche ja irgendwo schnell verborgen haben.
 
 Nun drehte ich mich nochmals um, warf einen letzten Blick über die Bretterbude, über all das Gerümpel, und wollte nun heim nach der Blücherstraße. Mein Herz war mir so schwer. Ich fühlte es ordentlich wie ein Gewicht in der Brust. Harst tot! Was sollte ich jetzt zuerst unternehmen? Ob ich nicht besser gleich die Polizei benachrichtigte?
 
@@ -252,11 +253,11 @@ Hinter uns kam eine müde Taxameterdroschke angeklappert.
 
 »Steigen wir ein,« meinte Harst. »Ich bin müde.«
 
-Wir fuhren sehr gemächlich der Blücherstraße zu. Und Harst berichtete nun folgendes: »Ich war kaum an die Rückfront des Neubaus gelangt, als ich auch schon im Keller den Lichtschein einer Taschenlaterne sah. Ich schlich bis anx das betreffende Fenster und erblickte einen Mann mit leicht ergrautem Bart, der einen schlecht sitzenden Überzieher und einen steifen schwarzen Hut trug und mit der Taschenlampe in der Rechten den schuttbedeckten Boden ableuchtete. Er murmelte dabei im Selbstgespräch allerlei vor sich [hin]xi. Ich konnte aber nur wenig verstehen. Er seufzte oft, war fraglos sehr niedergedrückt und wiederholte häufig: »Mein Gott — was soll nun werden?!« — Sehr bald verließ er mit einem »Es nutzt ja doch alles nichts!« den Keller und kam auf den Hof. Hier trat ich ihm entgegen.
+Wir fuhren sehr gemächlich der Blücherstraße zu. Und Harst berichtete nun folgendes: »Ich war kaum an die Rückfront des Neubaus gelangt, als ich auch schon im Keller den Lichtschein einer Taschenlaterne sah. Ich schlich bis an das betreffende Fenster und erblickte einen Mann mit leicht ergrautem Bart, der einen schlecht sitzenden Überzieher und einen steifen schwarzen Hut trug und mit der Taschenlampe in der Rechten den schuttbedeckten Boden ableuchtete. Er murmelte dabei im Selbstgespräch allerlei vor sich hin. Ich konnte aber nur wenig verstehen. Er seufzte oft, war fraglos sehr niedergedrückt und wiederholte häufig: »Mein Gott — was soll nun werden?!« — Sehr bald verließ er mit einem »Es nutzt ja doch alles nichts!« den Keller und kam auf den Hof. Hier trat ich ihm entgegen.
 
 »Wer sind Sie?« fragte ich.
 
-Er prallte zurück, griff in die Tasche, zischte förmliche: »Schurke — Sie — Sie sollen —« Da hob er auch schon den Arm. Zwei Blitze zuckten auf. Ich war schnell zur Seite und dann auf ihn zugesprungen. Aber er war auf der Hut. Seine Faust traf mich ins Gesicht, ein zweiter Boxhieb vor den Magen. Ich war also fürs erste erledigt, schnappte nach Luft und — der Kerl riß aus. Als ich mich leidlich erholt hatte, stellte ich fest, daß Sie und der Wagen verschwunden waren. Dann kletterte ich dort in die Fensterbrüstung hinauf, rauchte fünf Mirakulum und ließ mir die heutige Nacht mit allem Drum und Dran nochmals — vergeblich durch den Kopf gehen. Und dann erschienen Sie, lieber Schraut. Es war rührend mit anzusehen, wie emsig Sie nach der Leiche eines durch eine Knallpistole Erschossenen suchten. Ich sage Knallpistole. Es war nämlich nur so ein Hundeschreckmittel, mit dem der Mann auf mich feuerte. Ich hörte es gleich am Knall. Patronen, die vorn ein Geschoß haben, geben eine ganz andere Detonation. Und als der Kerl zischte »Schurke — Sie — Sie sollen«, da wollte er hinzufügen — »mich nicht fangen«, nicht etwa — »daran glauben« oder eine ähnliche ernsthafte Drohung. — So, damit wäre ich fertig. Ich weiß nichts mehr — Eigentlich weiß ich ja genug. Aber dieses Wissen ist Stückwerk, ist ein Neubau, dem noch vieles fehlt, ehe er ein Ganzes wird.« —
+Er prallte zurück, griff in die Tasche, zischte förmlich: »Schurke — Sie — Sie sollen —« Da hob er auch schon den Arm. Zwei Blitze zuckten auf. Ich war schnell zur Seite und dann auf ihn zugesprungen. Aber er war auf der Hut. Seine Faust traf mich ins Gesicht, ein zweiter Boxhieb vor den Magen. Ich war also fürs erste erledigt, schnappte nach Luft und — der Kerl riß aus. Als ich mich leidlich erholt hatte, stellte ich fest, daß Sie und der Wagen verschwunden waren. Dann kletterte ich dort in die Fensterbrüstung hinauf, rauchte fünf Mirakulum und ließ mir die heutige Nacht mit allem Drum und Dran nochmals — vergeblich durch den Kopf gehen. Und dann erschienen Sie, lieber Schraut. Es war rührend mit anzusehen, wie emsig Sie nach der Leiche eines durch eine Knallpistole Erschossenen suchten. Ich sage Knallpistole. Es war nämlich nur so ein Hundeschreckmittel, mit dem der Mann auf mich feuerte. Ich hörte es gleich am Knall. Patronen, die vorn ein Geschoß haben, geben eine ganz andere Detonation. Und als der Kerl zischte »Schurke — Sie — Sie sollen,« da wollte er hinzufügen — »mich nicht fangen,« nicht etwa — »daran glauben« oder eine ähnliche ernsthafte Drohung. — So, damit wäre ich fertig. Ich weiß nichts mehr — Eigentlich weiß ich ja genug. Aber dieses Wissen ist Stückwerk, ist ein Neubau, dem noch vieles fehlt, ehe er ein Ganzes wird.« —
 
 Daheim angelangt kochte Harst für uns auf seinem elektrischen Kocher Kaffee. Ich saß wieder in der gemütlichen Ecke. Es war jetzt ein viertel sechs. Draußen schien die Sonne.
 
@@ -264,9 +265,9 @@ Harst hatte die Fenster weit aufgemacht. Nun blieb er vor dem Schreibtisch stehe
 
 »Ein Abschiedsgruß unseres Patienten,« sagte er. »Der Junge muß es im Schlafzimmer beim Schein der Nachtlampe geschrieben haben. — Hier ist sein Dank.« Er reichte mir den Zettel. Eine ungeschickte Kinderhand hatte geschrieben:
 
-Ich danke Ihnen herzlich für alles. Ich habe an der Tür gelauscht, und daher weiß ich, Sie sind keine von denen, die ihr nachstellen, und wenn Sie edel sein wollen, so kümmern Sie sich nicht mehr drum, und dann ist das für alle gut. — K. Sch.
+> Ich danke Ihnen herzlich für alles. Ich habe an der Tür gelauscht, und daher weiß ich, Sie sind keine von denen, die ihr nachstellen, und wenn Sie edel sein wollen, so kümmern Sie sich nicht mehr drum, und dann ist das für alle gut. — K. Sch.
 
-»Dieser Dank ist immerhin in einer Beziehung wichtig, ganz abgesehen davon, daß er den braven Charakter des Jungen beweist,« sagte Harst und schenkte die kostbaren Delfter Tassen voll. »Es heißt da ja — »die ihr nachstellen —« Wir wissen nun wieder etwas mehr: es wird jemandem nachgestellt! — Wer mag es sein, Schraut?«
+»Dieser Dank ist immerhin in einer Beziehung wichtig, ganz abgesehen davon, daß er den braven Charakter des Jungen beweist,« sagte Harst und schenkte die kostbaren Delfter Tassen voll. »Es heißt da ja — »die *ihr* nachstellen —« Wir wissen nun wieder etwas mehr: es wird jemandem nachgestellt! — Wer mag es sein, Schraut?«
 
 »Ich denke, hier kommt nur die Dame im Lackhut in Frage,« erklärte ich sofort.
 
@@ -314,7 +315,7 @@ Harst zog mich in die leere Wilhelmstraße.
 
 Das Auto hielt. Harst hieß den Chauffeur warten.
 
-— — — — — — — —
+* * *
 
 Der zuständige Beamte in der Bauabteilung war ein älterer, sehr gesprächiger Herr. Harst führte sich mit der Bemerkung ein, er hätte zufällig gesehen, daß der Bau Wißmannstraße 8 unvollendet geblieben sei; er möchte das Grundstück erwerben.
 
@@ -336,7 +337,7 @@ Wir dankten dem freundlichen Herrn und gingen, fuhren heim, aßen zu Mittag, mac
 
 Ein nettes Hausmädchen führte uns in das Arbeitszimmer Stachels. Dann erschien er selbst. Harst machte den Sprecher, berlinerte etwas, sagte, wir hätten von der Gemeinde Steglitz Bauterrain kaufen wollen, und so weiter.
 
-Der Regierungsrat hatte ein angenehmes Gesicht, trug blonden Spitzbart, war aber zuerst sehr zugeknöpft. Erst als Harst ganz im Sinne seiner Rolle scherzend ein Päckchen Tausendmarkscheine zeigte, mit der Hand drauf schlug und meinte: »Wir sind zahlungsfähig — bis zu 60 000 Märker in baribus,« da taute jener auf, blieb jedoch recht zerstreut. Mir fiel auf, daß er sehr blaß aussah, übernächtig und matt. Nach einer halben Stunde waren wir dann überein gekommen, am nächsten Nachmittag fünf Uhr das Grundstück gemeinsam zu besichtigen. Wir verabschiedeten uns, und Stachel geleitete uns in den Flur. Dort hing neben unseren Hüten auch ein Zylinder.
+Der Regierungsrat hatte ein angenehmes Gesicht, trug blonden Spitzbart, war aber zuerst sehr zugeknöpft. Erst als Harst ganz im Sinne seiner Rolle scherzend ein Päckchen Tausendmarkscheine zeigte, mit der Hand drauf schlug und meinte: »Wir sind zahlungsfähig — bis zu 60&nbsp;000 Märker in baribus,« da taute jener auf, blieb jedoch recht zerstreut. Mir fiel auf, daß er sehr blaß aussah, übernächtig und matt. Nach einer halben Stunde waren wir dann überein gekommen, am nächsten Nachmittag fünf Uhr das Grundstück gemeinsam zu besichtigen. Wir verabschiedeten uns, und Stachel geleitete uns in den Flur. Dort hing neben unseren Hüten auch ein Zylinder.
 
 Harst vergriff sich, nahm den Zylinder, lachte: »Beinah’ hätt’ ick Ihnen Ihre Angströhre entführt, Herr Regierungsrat.«
 
@@ -350,7 +351,7 @@ Als wir unten auf der Kantstraße angelangt waren, sagte ich schnell:
 
 Harst hatte das Stückchen Fahrkarte 2ter mit, zeigte es an der Bahnsteigsperre einem Schaffner, reichte diesem gleichzeitig drei Zigarren mit Binden und bat um eine der bereits den Fahrgästen von Werder abgenommenen Karten zweiter Klasse — nur zu einem kurzen Vergleich.
 
-Es stimmte: das grüne Pappstückchen war ein Teil einer Werder—Berlin-Fahrkarte.
+Es stimmte: das grüne Pappstückchen war ein Teil einer Werder-Berlin-Fahrkarte.
 
 Es war jetzt halb sechs. Harst stellte fest, daß um 6 Uhr 10 Minuten der nächste Zug nach der Obststadt an der Havel abging.
 
@@ -376,7 +377,7 @@ Nun erzählte Harst von unserem Besuch bei Stachel. Und wir schieden dann von G�
 
 Auf dem Bahnhof — bis dahin hatte Harst sich in Schweigen gehüllt — sagte er:
 
-»Schraut, der Regierungsrat war mißtrauisch. Er hielt uns wohl zunächst für Spione. Der Doktor ist gänzlich harmlos gewesen und geblieben — ich meine was unsere Persönlichkeiten angeht. Im übrigen halte ich aber gerade ihn für einen sehr gefährlichen Burschen. Diese Leute mit unsicherem Blick, öliger Liebenswürdigkeit und gekünstelter Gemessenheit sind stets fragwürdige Naturen. Sie spielen immer eine gewisse Rolle, sind nie sie selbst, weil sonst aus allen Winkeln bei ihnen der Halunke hervorgrinsen würde. Und — er war gestern in Berlin, ist spät abends hingefahren. Es schien ihm peinlich, daß angeblich ein Bahnbeamter seine Abfahrt bemerkt hat. Das gibt zu denken —«
+»Schraut, der Regierungsrat war mißtrauisch. Er hielt uns wohl zunächst für Spione. Der Doktor ist gänzlich harmlos gewesen und geblieben — ich meine was unsere Persönlichkeiten angeht. Im übrigen halte ich aber gerade ihn für einen sehr gefährlichen Burschen. Diese Leute mit unsicherem Blick, öliger Liebenswürdigkeit und gekünstelter Gemessenheit sind stets fragwürdige Naturen. Sie spielen immer eine gewisse Rolle, sind nie sie selbst, weil sonst aus allen Winkeln bei ihnen der Halunke hervorgrinsen würde. Und — er war gestern in Berlin, ist spät abends hingefahren. Es schien ihm peinlich, daß angeblich ein Bahnbeamter seine Abfahrt bemerkt hatte. Das gibt zu denken —«
 
 Wir betraten den Warteraum, bestellten etwas Warmes und eine Flasche Rotwein, und Harst biederte sich mit dem Wirt an, erzählte bald von seiner unglücklichen, gemütskranken Schwester, die er nun in Havelruh unterbringen würde.
 
@@ -386,11 +387,11 @@ Das war jedoch einem Harst gegenüber nicht leicht. Er fing von Grundstücksprei
 
 Damit war’s aber auch zu Ende.
 
-Um halb zehn trafen wir wieder auf dem Potsdamer Bahnhof ein, nahmen ein Auto und waren kurz vor zehn in der Delbrückstraße der Villenkolonie Grunewald, gingen nun sehr langsam an dem Wirtschaftshof Barentraubs vorüber, sahen in dem Kutscherhäuschen Licht, kletterten dann sehr eilig über das hohe Eisengitter des Parks und schlichen auf die Villa zu, die so hinter Hecken und Bäumen versteckt liegt, daß man von der Straße nur das Dach mit den vielen Türmchen bemerkt.
+Um halb zehn trafen wir uns wieder auf dem Potsdamer Bahnhof ein, nahmen ein Auto und waren kurz vor zehn in der Delbrückstraße der Villenkolonie Grunewald, gingen nun sehr langsam an dem Wirtschaftshof Barentraubs vorüber, sahen in dem Kutscherhäuschen Licht, kletterten dann sehr eilig über das hohe Eisengitter des Parks und schlichen auf die Villa zu, die so hinter Hecken und Bäumen versteckt liegt, daß man von der Straße nur das Dach mit den vielen Türmchen bemerkt.
 
 Harst wollte feststellen, ob Barentraubs nicht doch daheim wären. — »Man muß eben alles nachprüfen, Schraut,« hatte er zu mir gesagt. »Obwohl ich jetzt die beiden Zwillinge aus meinen Berechnungen schon so gut wie ausgeschaltet habe.«
 
-Mir erschien dieses Eindringen in den fremden Park äußerst gewagt. Aber Harst beruhigte mich. »Wenn wir abgefaßt werden, lassen wir uns ruhig verhaften, und in einer halben Stunde sind wir dann wieder frei. Ich habe ja meinen Ausweis mit Photographie mit, Polizeistempel darunter, bittexii darauf, dem Assessor a. D. Harst tunlichst Beistand zu leisten, da er — und so weiter.«
+Mir erschien dieses Eindringen in den fremden Park äußerst gewagt. Aber Harst beruhigte mich. »Wenn wir abgefaßt werden, lassen wir uns ruhig verhaften, und in einer halben Stunde sind wir dann wieder frei. Ich habe ja meinen Ausweis mit Photographie mit, Polizeistempel darunter, Bitte darauf, dem Assessor a. D. Harst tunlichst Beistand zu leisten, da er — und so weiter.«
 
 Wir bogen nun gerade aus einer schmalen Allee von Buchsbaum in einen breiteren Weg ein, als wir vor uns Stimmen hörten. Es war noch ziemlich hell, und wir drückten uns schleunigst dicht an die Hecke.
 
@@ -402,7 +403,7 @@ Wir lagen lang am Boden an der Ostecke des Halbkreises, verstanden jedes Wort, k
 
 Eine tiefe Männerstimme sagte jetzt:
 
-»Lassen Sie mir doch das Verjniejen, liebe Frau Doktor. Das bißchen Strom tut dem Geheimrat wahrhaftig nischt. Sie werden Ihre Freude daran haben —«
+»Lassen Sie mir doch das Verjniejen, liebe Frau Doktor. Das bißchen Strom tut dem Geheimrat wahrhaftig nischt. Sie werden Ihre Freude dran haben —«
 
 Der Mann stand auf, machte sich tief gebückt am Rande der Fontäne etwas zu schaffen, und plötzlich flammten die vier Strahlen in farbigem Lichte auf.
 
@@ -418,9 +419,9 @@ Der Mann pfiff laut. Und Harst zerrte mich hastig fort. Im Galopp jagten wir dem
 
 Die Straße war ganz einsam. Harst blieb stehen, holte tief Atem.
 
-»Wir haben Glück gehabt, Schraut. Es war das Bellen einer Dogge! Ich danke — wenn die uns zu fassen gekriegt hätte! Und — wissen Sie, wer der Beleuchter war? Kein anderer als der, der dem Zahnarzt zum Verdienst verhelfen wollte. Es muß der Kutscher Barentraubs sein. Und — die im Lackhut nannte er »Frau Doktor«. — Die Sache klärt sich — sehr sogar!«
+»Wir haben Glück gehabt, Schraut. Es war das Bellen einer Dogge! Ich danke — wenn die uns zu fassen gekriegt hätte! Und — wissen Sie, wer der Beleuchter war? Kein anderer als der, der dem Zahnarzt zum Verdienst verhelfen wollte. Es muß der Kutscher Barentraubs sein. Und — die im Lackhut nannte er »Frau Doktor.« — Die Sache klärt sich — sehr sogar!«
 
-— — — — — — — —
+* * *
 
 Er schritt jetzt auf die gegenüberliegenden Wirtschaftsgebäude zu:
 
@@ -452,7 +453,7 @@ Harst war etwa vierzig Schritt vor mir. Ich behielt diese Entfernung bei. Wir ka
 
 »Ausweis — Jungen? Vielleicht unserem Patienten?« fragte ich verwundert.
 
-»Gewiß — dem Kurt Schlicht, dem Enkel des Kutschers Schlicht. — Er erkanntexiii mich nicht. — Ich mußte dann schleunigst verschwinden, denn Schlichts und die Frau im Lackhut erschienen drüben am Parkeingang.«
+»Gewiß — dem Kurt Schlicht, dem Enkel des Kutschers Schlicht. — Er erkannte mich nicht. — Ich mußte dann schleunigst verschwinden, denn Schlichts und die Frau im Lackhut erschienen drüben am Parkeingang.«
 
 Ich hätte ihn gern noch weiter ausgeforscht. Aber er lehnte jedes Gespräch ab, rauchte eine Mirakulum und meinte nur einmal wie zu sich selber redend: »Wenn sie nur dem Rufe Folge leisten möchten! Es gäbe eine hochdramatische Szene —«
 
@@ -474,7 +475,7 @@ Harst hatte seinen Revolver hervorgeholt. Dann — ein Satz durch die Fensteröf
 
 »Hierher, Kollege, — binden Sie ihm die Hände mit dem Taschentuch!« Harsts Stimme war scharf und drohend. »Rühren Sie sich nicht, Doktor Görner. Ich schieße sofort! Leuten wie Ihnen gegenüber darf man nicht lange fackeln.«
 
-Görner war bleich und wie willenlos. Er ließ alles mit sich geschehen. Erst als er auf dem Ziegelkasten saß, den in der vorigen Nacht Stachel und die andere Frau im Lackhut als Sitz benutzt hatten, wurde er lebendig, schrie uns plötzlich an: »Was wollen Sie von mir?! Was habe ich denn getan, daß Sie mich wie einen Verbrecher behandeln?! Das soll Ihnen teuer zu stehen kommen!«
+Görner war bleich und wie willenlos. Er ließ alles mit sich geschehen. Erst als er auf dem Ziegelkasten saß, den in der vorigen Nacht Stachel und die andere Frau im Lackhut als Sitz benutzt hatten, wurde er lebendig, schrie uns plötzlich an: »Was wollen Sie von mir?! Was habe ich denn getan, daß Sie mich wie einen Verbrecher behandeln?! Es soll Ihnen teuer zu stehen kommen!«
 
 »Schweigen Sie!« sagte Harst kalt. »Was Sie getan haben, weiß ich, und — ich kann es Ihnen beweisen — nämlich einen Mordversuch an Ihrer Frau! — Kein Wort weiter. Sonst stecke ich Ihnen einen Knebel zwischen die Zähne! — Hier, Kollege,« wandte er sich an mich, »hier ist mein Revolver. Ich gehe mal auf die Straße. Und wenn Doktor Görner verdächtige Bewegungen macht, schießen Sie! Ich verantworte es.«
 
@@ -499,5 +500,4 @@ Die drei gingen stumm hinaus. Görner würdigten sie nicht eines Blickes. —
 Als wir gegen ein Uhr morgens heimkamen, sagte Harst zu mir: »Es war ein recht schwieriges Problem — scheinbar! — Merken Sie sich also: jede Kleinigkeit nachprüfen. — Dieser Fall beweist, wie gut man dabei fährt.« —
 
 Am nächsten Abend erhielt Harst von seinen Wettgegnern die nächste Aufgabe zugestellt. Ihr Wortlaut war: »Ist die Komtesse Blinkenstein wirklich von Wilddieben beseitigt worden, wie die Polizei annimmt?«
-
 

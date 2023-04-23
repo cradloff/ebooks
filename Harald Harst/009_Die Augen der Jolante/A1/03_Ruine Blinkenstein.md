@@ -1,4 +1,5 @@
 Ruine Blinkenstein.
+===================
 
 Wir, mein Brotherr Harald Harst und ich, sein Privatsekretär und Gehilfe Schraut, waren abends gegen neun Uhr mit einem Wagen von der nächsten Eisenbahnstation in dem Dorfe Blinkenstein eingetroffen und in dem einzigen größeren Gasthause »Zum Dachsbau« abgestiegen, saßen nun in dem sogenannten Herrenzimmer beim Abendbrot und schwatzten mit dem Wirt, dem wir uns als Güteragenten aus Berlin vorgestellt hatten.
 
@@ -48,7 +49,7 @@ Harst warf sich plötzlich lang hin. Ich tat dasselbe. Er raunte mir dann zu:
 
 Wir schoben uns nun gleichfalls auf dem Bauche vorwärts. Etwa fünfzig Schritt vor der Bauminsel hörte ich von vorn her den Ruf eines Käuzchens. Drei Mal erklang dieser unheimliche Schrei, von dem der Volksmund behauptet, wer ihn an drei Nächten hintereinander zur selben Stunde vernimmt, müsse sterben.
 
-Harst stieß mich leicht an. »Natürlich ein Signal, Schraut. Die Nachahmung des Vogelrufs war sehr mäßig.« — Dann kroch er weiter. Ich sah nun, daß die Bäume vor uns hauptsächlich Tannen waren, mächtige Stämme, darunter auch offenbar ausländische mit breit ausladendemxiv Astkranz.
+Harst stieß mich leicht an. »Natürlich ein Signal, Schraut. Die Nachahmung des Vogelrufs war sehr mäßig.« — Dann kroch er weiter. Ich sah nun, daß die Bäume vor uns hauptsächlich Tannen waren, mächtige Stämme, darunter auch offenbar ausländische mit breit ausladendem Astkranz.
 
 Die nächsten Tannen hatten wir noch etwa fünf Schritt vor uns, als wir hinter den Bäumen einen hellen Lichtstreifen aufblitzen sahen. Dann eine laute, befehlende Stimme: »Halt — Hände hoch!«
 
@@ -68,7 +69,7 @@ Kaum hatte er’s ausgesprochen, als abermals dieses jämmerliche Kreischen ert�
 
 Dann Harsts Stimme: »Fort von hier! Mir nach, Schraut. Aber halten Sie Ihren Selbstlader bereit.«
 
-Er kroch wie ein Indianer in ein Roggenfeld hinein, das schon ziemlich hoch stand und uns vollständig verbarg. Kaum hatten wir uns hier niedergelassen, mit dem Gesicht nach dem unheimlichen Tannenhain zu, als der bisher von einer dichten Wolkenwand verhüllte Mond hervortrat und sein mildes Licht über die nächtliche Erde warf.
+Er kroch wie ein Indianer in ein Roggenfeld hinein, das schon ziemlich hoch stand und uns vollständig verbarg. Kaum hatten wir uns hier niedergelassen, mit dem Gesicht nach dem unheimlichen Tannenhain zu, als der bisher von einer dichten Wolkenbank verhüllte Mond hervortrat und sein mildes Licht über die nächtliche Erde warf.
 
 Und — in demselben Moment auch krampfte sich Harsts Hand um meinen Arm: »Schraut, jetzt gilt’s! Zielen Sie ganz ruhig. Unser Leben hängt davon ab.«
 
@@ -108,7 +109,7 @@ Wir gingen, Gruber zwischen uns, hinter dem Gendarm und dem Hauptlehrer drein. G
 
 »Ja, die Ruine der alten Burg Blinkenstein. ’s heißt — Ruine kann man’s kaum nennen. Es ist mehr ein großer Trümmerhaufen, von Unkraut, Dornen und Brombeeren überwuchert. Die Dorfjungens spielen dort gern Ritter und Räuber, aber nur am hellen Tage. Nachts wagt sich niemand gern hin. Sie wissen ja, meine Herren, jeder Ruine wird ein Geist angedichtet. Hier natürlich auch. In letzter Zeit ist dieser Geist angeblich — wieder mehrfach gesehen worden. Er soll eine Ritterrüstung tragen und seinen Kopf mit dem Helm darauf unterm Arm. Alles Unsinn, selbstredend! Weibergewäsch, Ammenmärchen! Bevor ich diesen Ritter — der Volksmund nennt ihn Ritter Jürgen, weil ein Graf Jürgen Blinkenstein ums Jahr 1480 wegen Mordes geköpft worden ist — nicht mit eigenen Augen mir angeschaut habe, redet mir keiner solches Blech ein.«
 
-— — — — — — — —
+* * *
 
 Als wir uns der Ruine, wieder denselben Feldrain benutzend, näherten, tat Harst sehr ängstlich, meinte, wir wollten die drei doch lieber nicht stören und daher etwas zurückbleiben.
 
@@ -154,7 +155,7 @@ Der Gendarm hatte nach dem Draht gesucht, sagte jetzt:
 
 »Eine verfluchte Teufelei! Der Draht ist weg — spurlos!«
 
-»Nur die Schlinge habe ich noch um den Hals,« meinte Harst ängstlich und streifte sie nun über den Kopf, besichtigte sie und erklärte: »Es ist bester Klavierdraht. Mir wäre Kehle und Schlagader glatt durchgeschnitten worden, wenn ich eine Sekunde später gemerkt hätte, daß die Schlinge mir über den Kopf glitt. Ich packte jedoch sofort zu. Meine Hände beweisen, wie stark diejenigen gezogen haben, die mich umbringen wollten.«
+»Nur die Schlinge habe ich noch um den Hals,« meinte Harst ängstlich und streifte sie nun über den Kopf, besichtigte sie und erklärte: »Es ist bester Klavierdraht. Mir wäre Kehle und Schlagadern glatt durchgeschnitten worden, wenn ich eine Sekunde später gemerkt hätte, daß die Schlinge mir über den Kopf glitt. Ich packte jedoch sofort zu. Meine Hände beweisen, wie stark diejenigen gezogen haben, die mich umbringen wollten.«
 
 Er zeigte uns seine Handflächen. Gerade an den Handwurzelschwielen war die Haut stellenweise tief eingekerbt und blutete.
 
@@ -164,7 +165,7 @@ Mittlerweile hatte Harst Gelegenheit gehabt, mir folgendes in bester Laune zuzur
 
 »Luck vielleicht?«
 
-»Hm — Sie nennen eine einzelne Person. Ich meinte aber die Gattung. — Ich will Ihnen helfen. — Ich nehme mit Bestimmtheit an, daß der Graf Karl Wilhelm noch immer durch Detektive nach seiner Tochter suchen läßt. Eigentlich doch selbstverständlich — nicht wahr? — Natürlich geschieht’s in aller Heimlichkeit. Gruber erzählte uns nun vorhin, daß Luck seit acht Tagen im Dorfe bei seinem Vetter, dem Hauptlehrer Bleichert, als Gast sich aufhalte, um hier als Photograph Landschaftsbilder für einen Ansichtskartenverlag aufzunehmen. Da kam mir sofort der Gedanke, daß diese Vetternschaft wohl nur eine künstliche wäre. Kurz — ich halte Luck für einen Detektiv oder einen Kriminalbeamten. Und der andere Mann, dessen Hut Luck nachher aufsetzte, ist eben ein zweiter von — der Konkurrenz, mein lieber Schraut. Ich wette ferner: Der Gendarm, Bleichert und Gruber sind eingeweiht. Des Wachtmeisters Ausruf aber »die verfluchte Ruine!« scheint mir darauf hinzudeuten, daß Luck und sein Kollege die Ruine ständig überwacht haben und daß Luck seinen Kollegen ablösen ging. Wir werden ja bald herausbringen, ob ich recht habe.«
+»Hm — Sie nennen eine einzelne Person. Ich meinte aber die Gattung. — Ich will Ihnen helfen. — Ich nehme mit Bestimmtheit an, daß der Graf Karl Wilhelm noch immer durch Detektive nach seiner Tochter suchen läßt. Eigentlich doch selbstverständlich — nicht wahr? — Natürlich geschieht’s in aller Heimlichkeit. Gruber erzählte uns nun vorhin, daß Luck seit acht Tagen im Dorfe bei seinem Vetter, dem Hauptlehrer Bleichert, als Gast sich aufhalte, um hier als Photograph Landschaftsbilder für einen Ansichtskartenverlag aufzunehmen. Da kam mir sofort der Gedanke, daß diese Vetternschaft wohl nur eine künstliche wäre. Kurz — ich halte Luck für einen Detektiv oder einen Kriminalbeamten. Und der andere Mann, dessen Hut Luck nachher aufsetzte, ist eben ein zweiter von — der Konkurrenz, mein lieber Schraut. Ich wette ferner: der Gendarm, Bleichert und Gruber sind eingeweiht. Des Wachtmeisters Ausruf aber »die verfluchte Ruine!« scheint mir darauf hinzudeuten, daß Luck und sein Kollege die Ruine ständig überwacht haben und daß Luck seinen Kollegen ablösen ging. Wir werden ja bald herausbringen, ob ich recht habe.«
 
 Er wollte noch weiter sprechen. Aber in demselben Augenblick sahen wir von Süden her sehr eilig einen Mann auf uns zukommen.
 
@@ -200,15 +201,15 @@ Plötzlich errötete sie jäh. Ihr kam zum Bewußtsein, was sie soeben halb und 
 
 Harst neigte sich über eine Zeitung, tat als deute er auf eine bestimmte Stelle, beugte sich weit vor dabei und flüsterte:
 
-»Eifersucht! Ohne Frage!— Sehr wichtig, Schraut. — Dieses Mädchen muß noch mehr wissen.«
+»Eifersucht! Ohne Frage! — Sehr wichtig, Schraut. — Dieses Mädchen muß noch mehr wissen.«
 
-— — — — — — — —
+* * *
 
 Leider zeigte sich Anna nicht mehr. Grubers Frau brachte uns, als wir auf die Tischglocke drückten, den bestellten Tee, verschwand aber gleichfalls bald wieder. Dann suchten wir unser Zimmer auf. Es war ein sehr großer Raum mit drei Fenstern im ersten Stock. Harst holte aus seinem Handkoffer sein Fernglas hervor, stellte sich an das Mittelfenster und sagte nach einer Weile: »Man kann von hier bis zur Ruine hinübersehn. Ich bemerke dort helleren Lichtschein, als ihn Taschenlampen hergeben. Man hantiert dort jetzt mit großen Laternen herum. Vielleicht ist der Oberwachtmeister schon da. Wenn er ein Auto benutzt hat, ist’s sehr gut möglich —«
 
 Dann gingen wir schlafen. Morgens, als wir gegen neun unten auf der Veranda Kaffee tranken, erschien Gruber, setzte sich zu uns und erkundigte sich nach Harsts Befinden. — Wir waren hier natürlich unter anderen Namen und verkleidet abgestiegen, will ich noch bemerken.
 
-Harsts Hände schmerzten zwar noch, würden aber in kurzem heilen. — Gruber freute sich, daß die Verletzungen so leichter Natur gewesen und erzählte uns dann, daß mit Hilfe von Förstern und Gendarmen bis nach Sonnenaufgang jeder Zentimeter Boden bei der Ruine abgesucht worden sei — leider ergebnislos! Nur Blutreste hätte man am Rande eines nahen Kornfeldes bemerkt, auch Spuren von Hunden. Sonst nichts — nichts. — Über Luck sprach er nicht, ebenso wenig wie Harst unser erstes Abenteuer mit den Drähten und den vier Hunden erwähnte.
+Harsts Hände schmerzten zwar noch, würden aber in kurzem heilen. — Gruber freute sich, daß die Verletzungen so leichter Natur gewesen und erzählte uns dann, daß mit Hilfe von Förstern und Gendarmen bis nach Sonnenaufgang jeder Zentimeter Boden bei der Ruine abgesucht worden sei — leider ergebnislos! Nur Blut hätte man am Rande eines nahen Kornfeldes bemerkt, auch Spuren von Hunden. Sonst nichts — nichts. — Über Luck sprach er nicht, ebenso wenig wie Harst unser erstes Abenteuer mit den Drähten und den vier Hunden erwähnte.
 
 Als Harst ihn fragte, was denn eigentlich die Schießerei bei der Ruine zu bedeuten gehabt hätte, hob er nur die Schultern, als wollte er sagen: »Keine Ahnung!«
 
@@ -220,17 +221,17 @@ Harst war wieder recht schweigsam. Auf diesem Fahrwege begegneten wir dann einem
 
 »Langweiliges Geschäft, wat? Sie müss’n hier schon ne ganze Zeit den Wegedoktor spielen, Vaterken, denn Sie haben schon ’n gehör’ges Stück geschafft.«
 
-Der Alte war froh, etwas Zerstreuung zu finden. Wir setzen uns an den Straßenrand, und Harst lockte nun aus dem Manne so allerlei heraus, was nicht ganz unwichtig zu sein schien. Dann gab er ihm zwanzig Mark und schickte ihn zum Krämer nach dem Dorfe, damit er uns dort allerlei einkaufe.
+Der Alte war froh, etwas Zerstreuung zu finden. Wir setzten uns an den Straßenrand, und Harst lockte nun aus dem Manne so allerlei heraus, was nicht ganz unwichtig zu sein schien. Dann gab er ihm zwanzig Mark und schickte ihn zum Krämer nach dem Dorfe, damit er uns dort allerlei einkaufe.
 
 Harst schaute ihm nach, nickte mir dann fast strahlend zu und sagte, sich die Hände reibend trotz der Heftpflaster: »Ja, ja — ein wahres Glück, daß dieser Alte hier bereits fast einen Monat an dem Wege herummurkst! Gepriesen sei seine Fertigkeit, die Arbeit wie Kautschuk zu recken! Ich glaube jetzt schon zu wissen, was aus der Komtesse geworden ist. — Sie sehen mich so verdutzt an, lieber Schraut?! Ja — können Sie denn nicht ein wenig kombinieren?! — Überlegen Sie mal, was der Alte uns alles erzählt hat. Also:
 
 Erstens: Schloß Blinkenstein besitzt eine berühmte Gemäldegalerie. Außerdem ist der Graf als Sammler wertvoller Antiquitäten bekannt. Das Schloß steht auf derselben Stelle, wo früher das sogenannte »alte Schloß« sich erhob, das vor fünfzig Jahren niederbrannte, wobei nur ein Seitenflügel stehen blieb. In diesem befinden sich jetzt die Gemälde.
 
-Zweites: An jenem Tage, als die Komtesse von Wilddieben ermordet worden sein soll, war es ganz windstill, so daß der alte Mann mit aller Bestimmtheit erklärte, er hätte jeden Schuß, der hier in der Schonung gefallen wäre, unbedingt hören müssen. Dies hätte er auch den Kriminalbeamten gesagt, aber die hätten nichts auf seine Behauptung gegeben, daß von acht morgens bis vier nachmittags nicht geschossen worden wäre.
+Zweitens: An jenem Tage, als die Komtesse von Wilddieben ermordet worden sein soll, war es ganz windstill, so daß der alte Mann mit aller Bestimmtheit erklärte, er hätte jeden Schuß, der hier in der Schonung gefallen wäre, unbedingt hören müssen. Dies hätte er auch den Kriminalbeamten gesagt, aber die hätten nichts auf seine Behauptung gegeben, daß von acht morgens bis vier nachmittags nicht geschossen worden wäre.
 
 Drittens: Der Alte behauptet weiter, das von den Schroten durchlöcherte Jägerhütchen hätte er gleich am 2. Mai bemerken müssen, wenn es damals schon in den Brombeeren gehangen hätte. — Es wurde ja tatsächlich erst am 3. gefunden. Und der Alte meint, jemand habe es nachträglich in die Sträucher geworfen.
 
-Viertens: Damals am 2. Mai mittags, sagte der Alte weiter, habe hier auf diesem Wege ein einfacher Kastenwagen gehalten, und zwar zwei volle Stunden. Der Wagenlenker sei ein Fremder, hier in der Nähe nicht Ansässiger, gewesen. Der mit einer Plane zugedeckte Kasten des Wagens habe fraglos einemxv Menschen als Ruhelager gedient, denn die Plane habe sich wiederholt bewegt und auch Zigarrenrauch sei darunter emporgestiegen. Dem Wagenlenker aber war, so meint der Alte, seine Anwesenheit auf dem Wege sehr unangenehm. Er habe versucht, den Alten wegzuschicken. Dann sei ein Pfiff aus der Schonung links vom Wege ertönt, worauf der Wagen endlich weiterfuhr. — Auch auf all dies hätten die Beamten nichts gegeben. —
+Viertens: Damals am 2. Mai mittags, sagte der Alte weiter, habe hier auf diesem Wege ein einfacher Kastenwagen gehalten, und zwar zwei volle Stunden. Der Wagenlenker sei ein Fremder, hier in der Nähe nicht Ansässiger, gewesen. Der mit einer Plane zugedeckte Kasten des Wagens habe fraglos einem Menschen als Ruhelager gedient, denn die Plane habe sich wiederholt bewegt und auch Zigarrenrauch sei darunter emporgestiegen. Dem Wagenlenker aber war, so meint der Alte, seine Anwesenheit auf dem Wege sehr unangenehm. Er habe versucht, den Alten wegzuschicken. Dann sei ein Pfiff aus der Schonung links vom Wege ertönt, worauf der Wagen endlich weiterfuhr. — Auch auf all dies hätten die Beamten nichts gegeben. —
 
 So, lieber Schraut, — muß ich nun auch noch das Letzte aufzählen?! — Denken Sie doch mal scharf nach. Wir haben ja schon eine Menge Material zusammen.«
 
@@ -260,7 +261,7 @@ In einem Gebüsch stellten wir uns aus dem Sack zwei Ranzen her und packten in d
 
 Gegen sechs Uhr nachmittags erreichten wir die Ruine. Keine Seele war dort. Harst suchte einen Lagerplatz aus, wählte eine Stelle an der Nordwand der Eckturmreste, schnitt Zweige ab und baute uns eine Art Schutzdach.
 
-Gerade als wir dann im Grase auf demxvi Bauch lagen und trocken Brot und Wurst aßen, während zwischen uns eine Flasche Kümmel stand, erschienen zwei städtisch gekleidete Herren und eine Dame, steuerten auf uns zu und begannen ein Gespräch mit uns. Eigentlich nur mit Harst. Ich spielte den Maulfaulen. Nach einer Weile meinte einer der Herren:
+Gerade als wir dann im Grase auf dem Bauch lagen und trocken Brot und Wurst aßen, während zwischen uns eine Flasche Kümmel stand, erschienen zwei städtisch gekleidete Herren und eine Dame, steuerten auf uns zu und begannen ein Gespräch mit uns. Eigentlich nur mit Harst. Ich spielte den Maulfaulen. Nach einer Weile meinte einer der Herren:
 
 »Hören Sie: ein Vorschlag! Ich bin Maler. Sie beide gäben famose Modelle ab. Kommen Sie mit. Sie erhalten Freiquartier bei uns, außerdem pro Tag jeder zwei Mark. Wir wohnen für den Sommer drüben im Dorfe Blinkenstein in der kleinen Villa am Nordausgang. — Nun — wie wär’s?«
 
@@ -280,9 +281,9 @@ Er lag nun wieder auf dem Bauche und rauchte. Die Zigarren waren tadellos. Wir s
 
 »Gewiß. — Aha — die Leute suchen in der Ruine nach einem Schatz, Herr Harst.«
 
-»So was Ähnliches, Schraut. Warten Sie ab, Ihnen werden schon noch die Augen vollends aufgehen! — Um nun »unseren« Fall, das heißt das Verschwinden der Komtesse, schnell restlos aufzuklären, werden Sie morgen unter einem Vorwand das Haus unserer freundlichen Gastgeber für einen Tag verlassen und wieder als Güteragent folgendes erledigen. Sie sollen nach dem Städtchen Garz, das etwa acht Meilen von hier entfernt liegt, fahren und sich dort heimlich erkundigen, ob der jetzt dort angestellte Lehrer Herbert Uhlich am Abend des 1. Mai einen Kastenwagen — wie dieser aussah, wissen Sie ja von dem alten Wegearbeiter — gemietet und für den 2. Mai Urlaub genommen hat und von Garz abwesend war. Finden Sie den Kastenwagen, so untersuchen Sie ihn unauffällig ganz sorgfältig. Vielleicht entdecken Sie in dem Kasten des Wagens noch eine Lockennadel oder sonst etwas »Weibliches«, vielleicht auch ein paar dunkelblonde Frauenhaare oder Fasern eines grünen Lodenrocks, wie ihn die Komtesse damals trug. Und wenn Sie noch Zeit haben, dann überzeugen Sie sich, wo und wie der junge Lehrer, der ja ein bildhübscher stattlicher Mensch sein muß, dort wohnt. Vielleicht besuchen Sie ihn auch unter einem guten Vorwand und stellen fest, was er auf Sie für einen Eindruck macht. — Es ist auch möglich, daß er den Kastenwagen in einem Dorfe gemietet hat, das an der nachxvii hier führenden Chaussee liegt. — Nun — Sie können immerhin bei diesem Auftrag beweisen, ob Sie etwas von mir gelernt haben. — Aha — da haben wir ja die Villa vor uns. Beachten Sie, daß von hier ein recht ausgetretener Pfad nach der hinteren Gartenpforte läuft. Die Leutchen wandern diesen Weg also sehr oft entlang. Und nun — Vorsicht, Schraut. Wir sind Strolche, nichts weiter. Reden Sie selbst fast nichts. Ich werde wieder die Unterhaltung führen. In der kommenden Nacht kann die Bande nichts unternehmen. Die Gendarmen werden vielleicht sogar die Ruine mehrere Nächte sehr scharf überwachen. Dann aber — blüht unser Weizen!«
+»So was Ähnliches, Schraut. Warten Sie ab, Ihnen werden schon noch die Augen vollends aufgehen! — Um nun »unseren« Fall, das heißt das Verschwinden der Komtesse, schnell restlos aufzuklären, werden Sie morgen unter einem Vorwand das Haus unserer freundlichen Gastgeber für einen Tag verlassen und wieder als Güteragent folgendes erledigen. Sie sollen nach dem Städtchen Garz, das etwa acht Meilen von hier entfernt liegt, fahren und sich dort heimlich erkundigen, ob der jetzt dort angestellte Lehrer Herbert Uhlich am Abend des 1. Mai einen Kastenwagen — wie dieser aussah, wissen Sie ja von dem alten Wegearbeiter — gemietet und für den 2. Mai Urlaub genommen hat und von Garz abwesend war. Finden Sie den Kastenwagen, so untersuchen Sie ihn unauffällig ganz sorgfältig. Vielleicht entdecken Sie in dem Kasten des Wagens noch eine Lockennadel oder sonst etwas »Weibliches«, vielleicht auch ein paar dunkelblonde Frauenhaare oder Fasern eines grünen Lodenrocks, wie ihn die Komtesse damals trug. Und wenn Sie noch Zeit haben, dann überzeugen Sie sich, wo und wie der junge Lehrer, der ja ein bildhübscher stattlicher Mensch sein muß, dort wohnt. Vielleicht besuchen Sie ihn auch unter einem guten Vorwand und stellen fest, was er auf Sie für einen Eindruck macht. — Es ist auch möglich, daß er den Kastenwagen in einem Dorfe gemietet hat, das an der nach hier führenden Chaussee liegt. — Nun — Sie können immerhin bei diesem Auftrag beweisen, ob Sie etwas von mir gelernt haben. — Aha — da haben wir ja die Villa vor uns. Beachten Sie, daß von hier ein recht ausgetretener Pfad nach der hinteren Gartenpforte läuft. Die Leutchen wandern diesen Weg also sehr oft entlang. Und nun — Vorsicht, Schraut. Wir sind Strolche, nichts weiter. Reden Sie selbst fast nichts. Ich werde wieder die Unterhaltung führen. In der kommenden Nacht kann die Bande nichts unternehmen. Die Gendarmen werden vielleicht sogar die Ruine mehrere Nächte sehr scharf überwachen. Dann aber — blüht unser Weizen!«
 
-— — — — — — — —
+* * *
 
 Wir wurden im Stall ganz behaglich untergebracht, erhielten ein reichliches Abendbrot und gingen dann zu Bett. Allerdings waren diese Betten nur Strohschütten und Decken. Am Morgen raunte Harst mir zu: »Wir waren die Nacht über eingeschlossen. Aber ich werde das Gitter des kleinen Fensters heute durchsägen, so daß wir es jeden Moment entfernen können.«
 
@@ -294,7 +295,7 @@ Harst faulenzte bis zu meiner Rückkehr am anderen Morgen, machte sich aber doch
 
 Als ich wieder in der Villa eintraf, stand Harst gerade mit dem Schwarzen auf dem Hofe. Nach dem Mittagessen legten wir uns in den verwilderten Gemüsegarten ins Gras, und nun mußte ich Bericht erstatten. Ich tat’s mit Stolz, denn ich hatte viel ausgerichtet. Ich hatte den Wagen und in dem Wagenkasten in einer Fuge der Bodenbretter sogar zwei Lockennadeln gefunden. — Harst besichtigte sie. — »Echtes Gold!« meinte er. »So teure Dinger kann sich nur eine Komtesse Blinkenstein leisten.« — Herbert Uhlich, der junge Lehrer, war wirklich vom 1. Mai abends bis zum folgenden Abend verreist gewesen, angeblich nach der Provinzialhauptstadt. Der Wagen gehörte einem Onkel von ihm, der in Garz eine Bäckerei besaß. Uhlich wohnte in dem Städtchen seit dem 4. April, seit seiner Versetzung dorthin, in einem netten Häuschen außerhalb der Stadt dicht am Walde. Ich war bei ihm gewesen als angeblicher Lebensversicherungsagent. Ich hatte von ihm einen vorzüglichen Eindruck gewonnen. Er war einer jener Volksschullehrer, die ihrem Stande alle Ehre machen. Offenbar hatte er das Bestreben, in allem den feingebildeten Mann zu beweisen. Er war liebenswürdig, zwanglos, heiter. Freilich — zu versichern gab es bei ihm nichts. Selbst seine Schwester, die ihm die Wirtschaft führte, die ich aber nicht zu Gesicht bekam, war bereits in einer Lebensversicherung eingekauft.
 
-Harst nickte zu meinem Bericht wiederholt, als wollte er damit andeuteten: »Alles so, wie ich’s mir gedacht habe.«
+Harst nickte zu meinem Bericht wiederholt, als wollte er damit andeuten: »Alles so, wie ich’s mir gedacht habe.«
 
 Nun sagte er, als ich fertig war: »Natürlich muß er weit außerhalb der Stadt wohnen. Er wird auch keinerlei Verkehr pflegen.«
 
@@ -370,9 +371,7 @@ Ich hörte, wie Harst einen Seufzer der Erleichterung ausstieß. Dann raunte er 
 
 Harst flüsterte weiter: »Lassen wir zehn Minuten verstreichen. Dann ihnen nach. Und dann — werden unsere Pistolen sprechen, falls auch nur einer dieser Mordgesellen Miene zum Widerstand macht. — Na, lieber Schraut, wissen Sie nun, um was es sich hier handelt? — Nicht um Schätze, die die Ruine birgt. Nein — um des Grafen wertvollste Gemälde und altertümliche Goldsachen, die ja insgesamt einen Wert von über einer Million haben sollen. Der Rotbärtige, der sich am seltensten öffentlich zeigt und der auch nicht mit ins Schloß zum Kopieren der Bilder ging — übrigens ist nur die »Magda« Malerin, — scheint als entlassener Diener des Grafen diesen ganzen Plan entworfen zu haben. Er hatte irgendwie in Erfahrung gebracht, daß von dem alten Flügel des Schlosses ein stellenweise verschütteter Gang hier nach dieser uralten Eiche führte. Anders war den Gemälden und den Goldsachen nicht beizukommen, als durch diesen Gang. Die Bande suchte ihn also wieder passierbar zu machen, arbeitete abwechselnd in den Tiefen der Erde. Der Schutt wurde teilweise unter die Tannen geworfen. Um die Dörfler nachts von hier fernzuhalten, mußte Ritter Jürgen sich auf dem Turme zeigen. Außerdem hielten die Verbrecher sich aber auch die vier Hunde, die wir erschossen haben, — Kreuzungen zwischen Bulldogge und Dobermann. Ferner die anderen Vorsichtsmaßregeln: Alarmdrähte und so weiter. Die Bande wäre auch fraglos unbelästigt geblieben, wenn nicht das Verschwinden der Komtesse die beiden Detektive Luck und Paulig — des letzteren Namen nannte uns Gruber so nebenbei — herbeigeführt hätte. Diese sind den Spukgerüchten nachgegangen. Luck wurde dann damals vermutlich erschossen. Und nun hat heute auch den anderen das Schicksal ereilt. Der Mann ist sehr unvorsichtig gewesen — sehr. — Was das urplötzliche Verschwinden des — Geistes anbetrifft, so ist die Sache herzlich einfach. Der gleißende Ritter ohne Kopf hatte natürlich im Brustharnisch seinen Kopf verborgen und dort auch Sehschlitze oder -löcher. Der rechte Arm wird ein künstlicher gewesen sein. Den richtigen rechten Arm hielt er auf dem Rücken. Um den Hals wird er einen Überzug aus schwarzer Seide, eng zusammengelegt, getragen haben, den er nach Belieben mit der Rechten sehr schnell über die Rüstung gleiten lassen konnte. Auf diese Weise kam das Verschwinden zustande. — So, das wäre alles. — Nun — hinunter in das Innere des Baumes. Ich klettere voran.«
 
-* *
-
-*
+* * *
 
 Der Abstieg bot keine Schwierigkeiten. Nun standen wir in einem gemauerten, feuchten, kellerähnlichen Raum. An der einen Seite bemerkten wir Kisten, Weidenkörbe, Spaten, Hacken und eine elektrische Batterie, deren Drähte in den nach Südost zu verlaufenden Gang hineinführten. An der anderen lag ein Haufen leere Säcke.
 
@@ -432,11 +431,11 @@ Harst war vorwärtsgeschnellt, schaltete seine Lampe ein. Ich raste hinterdrein.
 
 Dort lag neben einer großen Azetylenlaterne ein Mensch auf dem Rücken — der kleine Glattrasierte. Eine Kugel war ihm über der Nase in die Stirn gedrungen.
 
-»Er hat hier Wache gehalten,« sagte Harst kurz. »Weiter — wir werden die beiden andern noch bei der Arbeit finden.«
+»Er hat hier Wache gehalten,« sagte Harst kurz. »Weiter — wir werden die beiden anderen noch bei der Arbeit finden.«
 
 Nach gut fünf Minuten gelangten wir an eine Wendeltreppe, die in einem engen, hohen Schacht emporführte. Sie war aus Eichenholz, das tief nachgedunkelt hatte im Laufe der Zeit.
 
-Abermals Harsts Befehl: »Licht aus!« Doch jetzt hatte ich’s im gleichen Moment schon von selbst getan, da ich von oben her ein metallisches Klirrenxviii vernahm.
+Abermals Harsts Befehl: »Licht aus!« Doch jetzt hatte ich’s im gleichen Moment schon von selbst getan, da ich von oben her ein metallisches Klirren vernahm.
 
 Und wieder dieses lähmende Dunkel um uns. Dazu ein dumpfer Geruch wie in einem tiefen, nassen Keller.
 
@@ -464,7 +463,7 @@ Als ich erwachte, lag ich in einem sehr eleganten Zimmer auf einem Diwan. Harst 
 
 Neben ihm bemerkte ich nun auch den Grafen Blinkenstein. Ich befand mich in einem Zimmer des Schlosses. Sehr bald erholte ich mich. Inzwischen hatte der Graf bereits den Gendarm im Dorfe telephonisch verständigt, die in der einsamen Villa zurückgebliebene Frau zu verhaften. Sie wurde später zu Zuchthaus verurteilt. Die beiden von Harst auf der Wendeltreppe niedergeschossenen schwer verwundeten Verbrecher lebten nur noch einen Tag. Die beiden Detektive Luck und Paulig waren gerächt.
 
-Am nächsten Mittag saßen wir mit dem Grafen, jetzt wieder im Kostüm der Güteragenten, auf der Schloßterasse. Es war ein sonnenklarer, warmer Tag.
+Am nächsten Mittag saßen wir mit dem Grafen, jetzt wieder im Kostüm der Güteragenten, auf der Schloßterrasse. Es war ein sonnenklarer, warmer Tag.
 
 »Herr Graf,« begann Harst. »Den für Sie wichtigsten Erfolg unserer hiesigen Tätigkeit habe ich mir für diesen Augenblick aufgespart. Sie wissen jetzt, wer ich bin: ein Liebhaberdetektiv, der infolge einer Wette eine Anzahl schwieriger Probleme lösen muß! Meine Wettgegner verlangten, ich sollte das Verschwinden der Komtesse Vera aufklären. Deshalb kam ich hierher. Ich — habe es aufgeklärt! Aber ich fürchte, Sie werden mit diesem Ergebnis nicht zufrieden sein. Ihr Stolz wird dadurch empfindlich verletzt werden. — Nehmen Sie noch immer an, Ihre Tochter sei tot?«
 
@@ -476,7 +475,7 @@ Harst machte eine kurze Handbewegung. Der Graf schwieg.
 
 Der Graf war aufgesprungen. »Lebt — lebt?!« rief er. »Wenn das wahr wäre, dann — dann könnte geschehen oder geschehen sein, was da wollte! Bedenken Sie: Mein einziges Kind!«
 
-»Bitte nehmen Sie wieder Platz, Herr Graf. Nun ist ja alles gut. — Ja, Ihre Tochter lebt! Sie liebte heimlich ihren Jugendgespielen, den jetzigen Lehrer Herbert Uhlich. Sie hat nie von ihm gelassen. Aber — sie kannte wohl Ihre strengen Ansichten, durfte nicht hoffen, je mit Ihrer Einwilligung Uhlichs Frau zu werden. Als dieser April nach Garz versetzt wurde, ward in ihr die Sehnsucht nach dem Geliebten so mächtig, daß sie mit ihm verabredete, hier — ein spurloses Verschwinden vorzutäuschen. Uhlich holte sie damals am 2. Mai mit einem Kastenwagen aus der Schonung ab. Der Kasten war mit einer Plane bedeckt, die beide verbarg. Sie fuhren so nach Garz in das kleine, abseits gelegene Haus, in dem er wohnte, und dort weilt sie noch jetzt als — seine Schwester. Das Jägerhütchen warf erst am 3. Mai Uhlichs Onkel in die Brombeeren, nachdem man es durch einen Schrotschuß durchlöchert hatte. Man wollte auf diese Weise einen Mord wahrscheinlicher machen. Eine eifersüchtige Äußerung der Wirtstochter Anna Gruber; weiter dann die Behauptungen eines alten Wegearbeiters brachten mich auf die richtige Spur.«
+»Bitte nehmen Sie wieder Platz, Herr Graf. Nun ist ja alles gut. — Ja, Ihre Tochter lebt. Sie liebte heimlich ihren Jugendgespielen, den jetzigen Lehrer Herbert Uhlich. Sie hat nie von ihm gelassen. Aber — sie kannte wohl Ihre strengen Ansichten, durfte nicht hoffen, je mit Ihrer Einwilligung Uhlichs Frau zu werden. Als dieser April nach Garz versetzt wurde, ward in ihr die Sehnsucht nach dem Geliebten so mächtig, daß sie mit ihm verabredete, hier — ein spurloses Verschwinden vorzutäuschen. Uhlich holte sie damals am 2. Mai mit einem Kastenwagen aus der Schonung ab. Der Kasten war mit einer Plane bedeckt, die beide verbarg. Sie fuhren so nach Garz in das kleine, abseits gelegene Haus, in dem er wohnte, und dort weilt sie noch jetzt als — seine Schwester. Das Jägerhütchen warf erst am 3. Mai Uhlichs Onkel in die Brombeeren, nachdem man es durch einen Schrotschuß durchlöchert hatte. Man wollte auf diese Weise einen Mord wahrscheinlicher machen. Eine eifersüchtige Äußerung der Wirtstochter Anna Gruber; weiter dann die Behauptungen eines alten Wegearbeiters brachten mich auf die richtige Spur.«
 
 Graf Blinkenstein saß eine Weile regungslos mit gesenktem Kopf da. Dann reichte er Harst die Hand.
 
@@ -485,5 +484,4 @@ Graf Blinkenstein saß eine Weile regungslos mit gesenktem Kopf da. Dann reichte
 Die Hochzeit fand vier Wochen später statt. Als wir am Hochzeitsmorgen jetzt als Gäste des Schloßherrn nach der Ruine wanderten (den unterirdischen Gang hatte der Graf sprengen und zuschütten lassen), sagte Harst gedankenvoll:
 
 »Ja, lieber Schraut, — es waren damals doch recht aufregende Tage hier. — Und doch möchte ich diese Erinnerungen nicht missen, die verknüpft sind mit dem Ritter Jürgen und der Ruine Blinkenstein.«
-
 
