@@ -369,7 +369,7 @@ Absicht, daß er diesen vom Kleiderriegel herablangte. Und
 der Zweck dieses Hutaustausches? — Es gibt da nur eine
 Erklärung: In dem Hut ohne Stutz steckte eine Mitteilung
 für Luck — ein Zettel! — Und weil somit zwischen diesen
-Männern‚ die sich nicht zu kennen schienen, doch fraglos
+Männern, die sich nicht zu kennen schienen, doch fraglos
 eine sehr vertraute Verbindung besteht, weil ferner der
 andere sich warmes Essen geben ließ und vorläufig also
 nicht wieder fort wollte, schlich ich dem Luck nach. —
