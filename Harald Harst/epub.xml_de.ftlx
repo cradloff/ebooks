@@ -8,6 +8,8 @@
 <entry key="group-position">${property.groupPosition}</entry>
 <entry key="language">de</entry>
 <entry key="description">
+${property.title}.
+
 BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG
 </entry>
 <entry key="author">Walther Kabel</entry>
