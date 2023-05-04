@@ -88,7 +88,7 @@ In großen Teichen patschten erschrockene Fische der Tiefe umher, die noch völl
 
 Anderswo lagen Fische japsend auf blankem Eise …
 
-Anderswo stießen wir auf verstümmelte Robben, deren Tod uns deutlich bewies, daß es für die blonde Verbrechern und ihre beiden stumpfen Helfershelfer niemals ein Entrinnen hatte geben können — niemals!
+Anderswo stießen wir auf verstümmelte Robben, deren Tod uns deutlich bewies, daß es für die blonde Verbrecherin und ihre beiden stumpfen Helfershelfer niemals ein Entrinnen hatte geben können — niemals!
 
 Und — wo war unser Mann?!
 
@@ -426,7 +426,7 @@ Ohne auch nur irgendwie sich die Mühe zu nehmen, sein Verhalten uns dreien gege
 
 »Setzt euch dort auf die drei Sessel! Etwas rascher — — bitte! Sonst knallt’s, so wahr ich Ernst Garden heiße!!«
 
-Dieser Empfang war selbst Harald überraschend gekommen. Erst machte mein guter Harst ein verdutztes Gesicht. dann lachte er schallend und meinte:
+Dieser Empfang war selbst Harald überraschend gekommen. Erst machte mein guter Harst ein verdutztes Gesicht, dann lachte er schallend und meinte:
 
 »Sie sind ein Unikum, Herr Doktor!«
 
@@ -438,7 +438,7 @@ Der Doktor brüllte uns erneut an:
 
 Und da rechts und links halb hinter ihm zwei hagere Inder in einer Art Jachtmatrosenanzug standen und genau wie er ihre kleinen Repetierschießprügel hervorgeholt hatten, — da die Fenster der Kajüte durch gelbseidene gekrauste Seidenvorhänge für jeden Blick von außen abgesperrt waren, und da schließlich auch die Jacht selbst, an deren Bug ich vorhin noch flüchtig in blitzblanken Messingbuchstaben den Namen »Harriet« gelesen hatte, mit einem Male derb zu schaukeln begann und das Schnurren eines Motors hörbar wurde, wir also bereits vom Stege uns entfernten, sagte Harst mit gutmütigem Achselzucken: »Wir wollen Ihnen den Gefallen tun, Herr Doktor. Aber schicken Sie die Inder weg und legen Sie auch Ihre Pistolen beiseite. Gegenüber einem solchen lächerlichen Massenaufgebot von veralteten Schießprügeln verhandele ich nicht. Also bitte!«
 
-Ernst Gordon war im ersten Augenblick sprachlos. Dann färbte sich sein Gesicht beängstigend blaurot. »Wie — du Kerl von Schnüffler willst hier ein großes Maul riskieren?!« schrie er mit geifernden Lippen. »Das — das ist ja einfach …«
+Ernst Garden war im ersten Augenblick sprachlos. Dann färbte sich sein Gesicht beängstigend blaurot. »Wie — du Kerl von Schnüffler willst hier ein großes Maul riskieren?!« schrie er mit geifernden Lippen. »Das — das ist ja einfach …«
 
 Stoppte …
 

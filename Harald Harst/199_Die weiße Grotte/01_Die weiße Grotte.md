@@ -31,7 +31,7 @@ Die Sonne schien hell und klar … Es war zehn Uhr vormittags … Ein herrlicher
 
 Harst schob sein Fernglas in das Futteral zurück …
 
-»Der Schoner ist außer Sicht … Jetzt beginnt unsere Arbeit, mein Alter … Ein sogenannter Zufall hat uns wieder hierher aus denselben Eisberg geführt, der uns gastlich aufnahm, als wir ersäuft werden sollten … Unsere Arbeit! Wie denkst du über diese beiden Morde?«
+»Der Schoner ist außer Sicht … Jetzt beginnt unsere Arbeit, mein Alter … Ein sogenannter Zufall hat uns wieder hierher auf denselben Eisberg geführt, der uns gastlich aufnahm, als wir ersäuft werden sollten … Unsere Arbeit! Wie denkst du über diese beiden Morde?«
 
 Er rieb ein Zündholz an und rauchte ein paar Züge. Der süßliche Duft seiner parfümierten Mirakulum war Balsam inmitten dieser stinkenden Umgebung …: Verwesungsgestank — tote Eskimohunde …! Dem Eisbär hatten die armen Köter als Nahrung gedient. Da stand noch der in eine Eisspalte gerammte Pfahl, an den der schmierige Meister Petz angekettet gewesen … Meister Petz war weg … Wo war er?! Wo die Blonde, die kleinen, dicken, dummen Eskimos?!
 
@@ -63,19 +63,16 @@ Und seine Augen behielten dieselbe Richtung bei …
 
 Der dreieckige Riesenspiegel drüben erschien mir jetzt überaus beachtenswert. Er lag halbrechts von uns — hinter der elenden Bretterbude, und seine Höhe betrug gut fünfzehn Meter. Die Spitze dieses blanken Dreiecks war nach oben gerichtet, die Grundlinie aber ging in einen breiten Streifen von Eisblöcken über.
 
-Und wie ich so dieser gewiß einzigartigen Erscheinung, diesem Spiel der Natur, dieser feuchten, blanken Fläche, in deren weiter Fläche sich die ganze Umgebung in geringer Verzerrung wiederspiegelte, noch mit prüfenden Blicken musterte, fielen mir plötzlich dunklere Streifen, Strich und gebogene Linien auf: verschwommene Rillen — — Buchstaben — — von mindestens anderthalb Meter Länge …
+Und wie ich so dieser gewiß einzigartigen Erscheinung, diesem Spiel der Natur, dieser feuchten, blanken Fläche, in deren weiter Fläche sich die ganze Umgebung in geringer Verzerrung wiederspiegelte, noch mit prüfenden Blicken musterte, fielen mir plötzlich dunklere Streifen, Striche und gebogene Linien auf: verschwommene Rillen — — Buchstaben — — von mindestens anderthalb Meter Länge …
 
 Lateinische Schrift … —
 
 Freilich, Harald hatte ganz recht: Nur von hier aus, bei diesem schräg auffallenden Sonnenlicht waren diese Buchstaben zu bemerken und zu lesen …
 
-<p class="centered">Hier<br /></p>
-
-ruht einer,<br />
-
-der ein Mörder war.<br />
-
-Mein ist die Rache, spricht der Herr.
+<p class="centered pre">Hier
+ruht einer,
+der ein Mörder war.
+Mein ist die Rache, spricht der Herr.</p>
 
 Ich hatte laut gelesen.
 
@@ -219,7 +216,7 @@ Ich hatte meine Aufmerksamkeit lediglich auf die umliegenden Teile unseres Eisbe
 
 Mein Schreck wurde Angst …
 
-Ich überlegte blitzschnell. …
+Ich überlegte blitzschnell …
 
 Schätzte die inzwischen verflossene Zeit …
 
@@ -363,7 +360,7 @@ Dann zogen wir den Kutter dem Ufer näher.
 
 »Der Satan hole euch! Also langsamer!«
 
-»Der Satan hat mit uns nichts zu schaffen, mein Herr,« korrigierte Harst den Fluch des Fremden mit harmlosem Spotte »So — der Kiel schrammt schon über das Eis hin … Jetzt sollen wir also springen?«
+»Der Satan hat mit uns nichts zu schaffen, mein Herr,« korrigierte Harst den Fluch des Fremden mit harmlosem Spott. »So — der Kiel schrammt schon über das Eis hin … Jetzt sollen wir also springen?«
 
 »Zum Teufel — — springt!!«
 
@@ -441,7 +438,7 @@ Die vermaledeite Sonne schmilzt ja immer mehr von diesem …«
 
 … Und dann folgte eine so unflätige Redensart, daß Harald, um der abstoßenden Szene eine Ende zu machen, blitzschnell mit der linken Faust zuschlug …
 
-Der Herzgrubenhieb saß. Der lange Schlag — [wie]<@refnote 1/> tot sackte er zusammen.
+Der Herzgrubenhieb saß. Der lange Schlag — wie<@refnote 1/> tot sackte er zusammen.
 
 Und als er seine fünf Sinne wieder leidlich beieinander hatte, war er längst in unserem Kutter achtern an die Ruderbank geschnürt.
 
