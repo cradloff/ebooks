@@ -358,7 +358,7 @@ Er wandte sich der mittleren Großluke zu, hob die eiserne Falltür, stützte si
 
 Das Patentthermometer sinkt<@refnote 12/> immer mehr. Der Steuermann schickte den Matrosen auf die Brücke, und der Dampfer verlangsamte seine Fahrt. — Nach einer Weile erschien Panama wieder an Deck, klappte die Falltür zu und schlenderte nach achtern.
 
-Harst zog [mich]<@refnote 13/> nach abseits.
+Harst zog mich<@refnote 13/> nach abseits.
 
 »Du, vielleicht erinnerst du dich an den Skansen-Park,« meinte er …
 
@@ -390,7 +390,7 @@ An Deck wird es noch lebendiger … da ist fraglos irgend etwas vorgefallen … 
 
 Ich schaute Harald an. Der flüstert mir zu: »Ich bin nur neugierig, unter welchem Vorwand die drei den Dampfer verlassen … Natürlich werden sie unseren Kutter nehmen wollen … Und natürlich wird der Kapitän verlangen, daß wir dazu erst mal unsere Zustimmung geben.«
 
-Harst gibt mir so neue Rätsel auf. Ich habe keine Ahnung, weshalb, warum, wieso die drei diesen angenehmen Aufenthalt hier an Bord gegen eine ebenso zweifelhafte wie gefährliche Segelpartie im Kutter vortäuschen wollen!
+Harst gibt mir so neue Rätsel auf. Ich habe keine Ahnung, weshalb, warum, wieso die drei diesen angenehmen Aufenthalt hier an Bord gegen eine ebenso zweifelhafte wie gefährliche Segelpartie im Kutter vertauschen wollen!
 
 Schritte im Kabinengang … — Harst wirft sich auf sein Bett, pustet, schnarrt, schläft …
 
@@ -492,7 +492,7 @@ Wir schauten durch das schmale Fenster …
 
 Sechs Mann näherten sich …
 
-»Es geht los!«, meinte Harald fast übermütig. »Schnell — hinten in den Raum hinein — wir werden schon Platz haben … — Tür zu … So … Aha — da sind sie schon … Sie haben’s eilig, nach Neuyork zu kommen … Glänzende Idee, das muß man der Bande lassen …
+»Es geht los!«, meinte Harald fast übermütig. »Schnell — hinten in den Raum hinein — wir werden schon Platz haben … — Tür zu … So … Aha — da sind sie schon … Sie haben’s eilig, nach Neuyork zu kommen … Glänzende Idee, das muß man der Bande lassen …«
 
 Der Eindecker schwankte …
 
@@ -532,7 +532,7 @@ Der Motor schwieg …
 
 Der Eindecker schwenkte auf der Eisfläche kurz herum, damit er nicht ins Wasser geriete.
 
-Harst schlich vorwärts … Dann: »Guter Abend, Herr Bruchstaller!«
+Harst schlich vorwärts … Dann: »Guten Abend, Herr Bruchstaller!«
 
 Der Kerl flog vom Sitze hoch … Mabel Golling wurde kreideweiß.
 
@@ -576,11 +576,11 @@ Er wandte sich an die Golling …
 
 > »Vergiß die Armbanduhr nicht, auch nicht den Talisman. Es muß jede Kleinigkeit stimmen. — Mabel.«
 
-Jede Kleinigkeit muß stimmen!! — Ja, — und als ich dann erfuhr, daß von den neuen Lundström-Typ schon ein Apparat nach Amerika verkauft war, da hatte ich den Trick gefunden. — Die Sache ist so … Es gibt zwei Zwillingsbrüder Bruchstaller und zwei Zwillingsschwestern<@refnote 16/> Golling oder Gallipp. Die Namen sind ja gleichgültig. Diese beiden Zwillingspärchen aber, bei denen die Brüder sich verblüffend ähnlich sahen — genau wie die Schwestern, wollten diese Ähnlichkeit zu einem kühnen Schwindel ausnutzen. Das eine Pärchen begibt sich nach Neuyork und schafft den zuerst gekauften und angeblich versunkenen Eindecker auf den Schoner. Alles ist genau vereinbart. Das andere Pärchen arbeitet in Stockholm und ist jetzt bereits mit dem anderen L. F. B. von Stockholm gestartet und auf einem der Eisberge der sogenannten Südtrift in der Nähe der norwegischen Küste gelandet, hat von dort an das erste Pärchen auf dem Eisberge der Nordtrift in der Nähe der amerikanischen Küste gefunkt, daß man aufsteigen solle. Diesen Eindecker, den wir beschlagnahmten, hätte Neuyork in sechs Stunden erreicht und wäre dort jubelnd als der in Stockholm aufgestiegene L. F. B. begrüßt worden. — Die Gefahr, daß der Rekordflug mißglücken könnte, war auf diese Weise, da jeder der Eindecker in Wirklichkeit nur sechs Stunden etwa zu fliegen hatte, auf ein Mindestmaß beschränkt worden. Jeder in Neuyork hätte die beiden Insassen des ersten L. F. B. für Felix Bruchstaller und Mabel Golling gehalten. Der Schwindel wäre kaum entdeckt worden. Wenn eben nicht der Depeschenentwurf mit der »Armbanduhr« mich stutzig gemacht hätte. — Sie, Miß Jane Golling, tragen da am Handgelenk tatsächlich genau dieselbe Armbanduhr wie Ihre Zwillingsschwester Mabel, die nun mit Felix Bruchstaller auf irgendeinem Eisberg weit südlich darauf wartet, daß der Schoner sie abholt. — Pech, Miß Golling, wirklich Pech …! Es war aber so tadellos vorbereitet. — Und jetzt, Herr Bruchstaller, seien Sie hübsch verständig und sagen Sie uns, auf welcher Wellenlänge der Schoner drahtlos mit dem Eisberg ihres Bruders verkehren sollte. Sie werden doch nicht wollen, daß Ihr Bruder und Mabel elend verhungern oder sonstwie umkommen.«
+Jede Kleinigkeit muß stimmen!! — Ja, — und als ich dann erfuhr, daß von dem neuen Lundström-Typ schon ein Apparat nach Amerika verkauft war, da hatte ich den Trick gefunden. — Die Sache ist so … Es gibt zwei Zwillingsbrüder Bruchstaller und zwei Zwillingsschwestern<@refnote 16/> Golling oder Gallipp. Die Namen sind ja gleichgültig. Diese beiden Zwillingspärchen aber, bei denen die Brüder sich verblüffend ähnlich sahen — genau wie die Schwestern, wollten diese Ähnlichkeit zu einem kühnen Schwindel ausnutzen. Das eine Pärchen begibt sich nach Neuyork und schafft den zuerst gekauften und angeblich versunkenen Eindecker auf den Schoner. Alles ist genau vereinbart. Das andere Pärchen arbeitet in Stockholm und ist jetzt bereits mit dem anderen L. F. B. von Stockholm gestartet und auf einem der Eisberge der sogenannten Südtrift in der Nähe der norwegischen Küste gelandet, hat von dort an das erste Pärchen auf dem Eisberge der Nordtrift in der Nähe der amerikanischen Küste gefunkt, daß man aufsteigen solle. Diesen Eindecker, den wir beschlagnahmten, hätte Neuyork in sechs Stunden erreicht und wäre dort jubelnd als der in Stockholm aufgestiegene L. F. B. begrüßt worden. — Die Gefahr, daß der Rekordflug mißglücken könnte, war auf diese Weise, da jeder der Eindecker in Wirklichkeit nur sechs Stunden etwa zu fliegen hatte, auf ein Mindestmaß beschränkt worden. Jeder in Neuyork hätte die beiden Insassen des ersten L. F. B. für Felix Bruchstaller und Mabel Golling gehalten. Der Schwindel wäre kaum entdeckt worden. Wenn eben nicht der Depeschenentwurf mit der »Armbanduhr« mich stutzig gemacht hätte. — Sie, Miß Jane Golling, tragen da am Handgelenk tatsächlich genau dieselbe Armbanduhr wie Ihre Zwillingsschwester Mabel, die nun mit Felix Bruchstaller auf irgendeinem Eisberg weit südlich darauf wartet, daß der Schoner sie abholt. — Pech, Miß Golling, wirklich Pech …! Es war aber so tadellos vorbereitet. — Und jetzt, Herr Bruchstaller, seien Sie hübsch verständig und sagen Sie uns, auf welcher Wellenlänge der Schoner drahtlos mit dem Eisberg ihres Bruders verkehren sollte. Sie werden doch nicht wollen, daß Ihr Bruder und Mabel elend verhungern oder sonstwie umkommen.«
 
 Der Mann, den ich schwarzbärtig als Herrn Panama gekannt und der nun rasiert und zurechtgestutzt Zug um Zug Herrn Felix Bruchstaller glich, hob den Kopf und warf seiner Nachbarin, der Miß Jane, einen giftigen Blick zu.
 
-»Du bist an allem schuld — — du!?« platzte er heraus. »Ihr verdammten Weiber könnt ja nie Geld genug bekommen!!«
+»Du bist an allem schuld — — du!!« platzte er heraus. »Ihr verdammten Weiber könnt ja nie Geld genug bekommen!!«
 
 »Meine Herren, das Spiel ist aus … Ich bin kein Feigling. Sie sollen alles wissen. Was Herr Harst soeben über unseren Plan angegeben hat, stimmt Wort für Wort. Die Idee stammt hier von meiner Schwester Johanna, Johanna Bruchstaller, die sich als Varietékünstlerin Jane Gallipp nannte. Unsere Eltern, brave Handwerker aus einem märkischen Städtchen, hatten das zweifelhafte Glück, immer Zwillinge in die Welt zu setzen. Drei Zwillingspärchen … Eins starb … Mein Bruder Felix, erst Mechaniker, brachte es bis zum Ingenieur. Auch ich war ehrgeizig. Ich hoffte ein weltberühmter Dompteur zu werden …«
 
@@ -614,7 +614,7 @@ Drei Tage verstrichen. Jeden Morgen nahmen wir die Morseverbindung mit dem Eisbe
 
 Um halb zehn meldete der Mann im Ausguck Eiszacken über dem Horizont. Die Nacht war mondhell.
 
-Wir Eingeweihten befanden uns in leichter Erregung. Harst befahl den Schoner klar zu machen. Vier norwegische Matrosen, wir beide und Erwin Bruchstaller, der uns trotz allem Vorausgegangenen in diesem Tagen immer sympathischer geworden war, segelten davon. Der Fritjof Nansen sollte ganz langsam folgen.
+Wir Eingeweihten befanden uns in leichter Erregung. Harst befahl den Schoner klar zu machen. Vier norwegische Matrosen, wir beide und Erwin Bruchstaller, der uns trotz allem Vorausgegangenen in diesen Tagen immer sympathischer geworden war, segelten davon. Der Fritjof Nansen sollte ganz langsam folgen.
 
 Genau um Mitternacht näherten wir uns dem Eisberg. Wir erkannten ihn sehr bald wieder. Er war zweifellos derselbe Eisriese, auf dem wir die blonde Frau und die Eskimos zurückgelassen hatten. Wir fanden die Bucht, an deren Ufern die Bretterbude stand.
 
@@ -632,7 +632,7 @@ Die Eisinsel, genau durchsucht, brachte keine Aufklärung. Wir fanden nichts, wa
 
 Den Rest der Nacht schliefen wir auf dem Schoner.
 
-Morgens acht Uhr nahte der Fritjof Nansen. Harst ruderte dem Dampfer im Boot des Schoners entgegen und hatte mit dem Kapitän eine längere Unterredung. Daraufhin wurden auch die übrigen Gefangenen nach der Eisinsel gebracht. Der Dampfer aber wendete und nahm die Reise nach Neuyork wieder auf. Der Kutter lag nun gleichfalls in der Bucht, und wir beide sahen uns sechs Leuten allein gegenüber, die zwar unbewaffnet waren, immerhin jedoch mit Vorsicht behandelt werden mußten, zumal nur auf Erwin Bruchstaller insofern Verlaß war, als er niemals etwas gegen uns unternommen hätte. Die gefährlichsten waren zweifellos Fräulein Johanna und der kleine James Morton. Nun — unsere Pistolen wirkten auch bei ihnen stark dämpfend, und nahm die ganze Gesellschaft vor der Plankenhütte angesichts der beiden Toten Harsts scharfe Verwaltungen schweigend hin.
+Morgens acht Uhr nahte der Fritjof Nansen. Harst ruderte dem Dampfer im Boot des Schoners entgegen und hatte mit dem Kapitän eine längere Unterredung. Daraufhin wurden auch die übrigen Gefangenen nach der Eisinsel gebracht. Der Dampfer aber wendete und nahm die Reise nach Neuyork wieder auf. Der Kutter lag nun gleichfalls in der Bucht, und wir beide sahen uns sechs Leuten allein gegenüber, die zwar unbewaffnet waren, immerhin jedoch mit Vorsicht behandelt werden mußten, zumal nur auf Erwin Bruchstaller insofern Verlaß war, als er niemals etwas gegen uns unternommen hätte. Die gefährlichsten waren zweifellos Fräulein Johanna und der kleine James Morton. Nun — unsere Pistolen wirkten auch bei ihnen stark dämpfend, und nahm die ganze Gesellschaft vor der Plankenhütte angesichts der beiden Toten Harsts scharfe Verhaltungen schweigend hin.
 
 »… Nur weil ich nicht wünsche, daß Deutschland durch diesen Schwindel, durch diesen einzigartigen Betrugsversuch mit entehrt wird,« erklärte er zum Schluß, »gebe ich Sie alle frei. Segeln Sie mit dem Schoner auf und davon und bestatten Sie Ihre beiden Toten auf See nach Seemannsart. Mein Freund und ich wollen zusehen, ob wir diesen Doppelmord vielleicht aufhellen können. Uns genügt der jetzt gut verproviantierte Kutter.«
 

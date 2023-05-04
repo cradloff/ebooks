@@ -10,7 +10,7 @@ Ich möchte hier gleich betonen, daß dieser raffinierte Schwindel, der sich in 
 
 Doch nein, ich will nicht vorgreifen.
 
-Harst und ich waren am 2. Juni aus Indien zurückgekehrt. Mein Freund Harald hatte sich in Bombay einen ganz leichten Choleraanfall geholt, der ihn auch noch daheim zu schaffen machte. Die Folgeerscheinungen: Mattigkeit, Niedergeschlagenheit, Darmstörungen und Schwächeanfälle mit Schweißausbrüchen wollten nicht weichen.
+Harst und ich waren am 2. Juni aus Indien zurückgekehrt. Mein Freund Harald hatte sich in Bombay einen ganz leichten Choleraanfall geholt, der ihm auch noch daheim zu schaffen machte. Die Folgeerscheinungen: Mattigkeit, Niedergeschlagenheit, Darmstörungen und Schwächeanfälle mit Schweißausbrüchen wollten nicht weichen.
 
 So lag er denn auch am 4. Juni vormittags in Decken gehüllt auf unserer Veranda und starrte in den trüben Regenhimmel hinaus. Ich hatte unseren Vierröhrenempfänger nebst Lautsprecher hier aufgebaut, damit unser Patient wenigstens etwas Zerstreuung hätte. Nach zehn Uhr meldete Berlin den Abflug Chamberlins.
 
@@ -242,7 +242,7 @@ Wieder schüttelte Harst leicht den Kopf …
 
 »So … so!!« Und Harst wiegte wieder nachdenklich den Kopf hin und her. »Seine Braut also … In der Tat eine merkwürdig undurchsichtige Geschichte. — Wo ist die Million deponiert?«
 
-»In der Schwedischen Nationalbank — auch Bruchstallers 60 000 Kronen. Um es gleich zu sagen, Harst: an die Million kommt Bruchstaller nicht heran, — falls Sie eben vermuten, er könnte sich als Bankräuber versuchen wollen … Die Nationalbank hat ganz moderne Tresors. Da ist nichts zu machen.«
+»In der Schwedischen Nationalbank — auch Bruchstallers 60 000 Kronen. Um es gleich zu sagen, Harst: an die Million kommt Bruchstaller nicht heran, — falls Sie eben vermuten, er könnte sich als Bankräuber versuchen wollen … Die Nationalbank hat ganz moderne Tresore. Da ist nichts zu machen.«
 
 »Hm — zu machen ist alles, bester Vaxholm … Ich werde nun mit Schraut ein wenig das Terrain sondieren. Sie entschuldigen uns … Wir sind in spätestens drei Stunden wieder hier …«
 
@@ -542,7 +542,7 @@ Aber nachher kam die Nachspeise …: Hohn, Haß …
 
 »In der Luft, meinen Sie, Miß Golling, denn ein Mensch, der aus zweitausend Meter Höhe abgeworfen wird, stirbt schon durch den Luftdruck des Absturzes.«
 
-»Danke für [die]<@refnote 6/> gütige Belehrung,« — und die Tür schlug wieder zu.
+»Danke für die<@refnote 6/> gütige Belehrung,« — und die Tür schlug wieder zu.
 
 Wir saßen aufrecht. Wir hatten warmen Tee getrunken, hatten uns sattgegessen. Wir sahen die Welt wieder mit trostvollen Augen an. Der Eisberg war ja kein Paradies, aber noch immer besser als zweitausend Meter hinabsausen.
 
