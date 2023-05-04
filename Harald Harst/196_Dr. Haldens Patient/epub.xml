@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">6d05cc47-298d-40dd-a5c0-1852bf590503</entry>
+<entry key="title">Dr. Haldens Patient</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">196</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Doktor Haldens Patient.
+
+Die Dame, die uns an jenem sonnigen Aprilvormittag besuchte, mit dem diese Geschichte des Grauens und wildester verbrecherischer Phantastik beginnt, war eigentlich keine Dame, sondern ein eben erst richtig flügge gewordener Backfisch — schlank, keck, pikant, aber schwer, sehr schwer niedergedrückt. Das selbstbewußte Auftreten Tussi Beckers wurde in Haralds Arbeitszimmer nur zu schnell durch eine Flut von Tränen hinweggeschwemmt, wenn auch jugendliche Hoffnungsfreudigkeit diese Tränlein immer wieder zum Versiegen brachte.
+
+»Bezahlen kann ich Sie nicht, Herr Harst,« begann sie ehrlich, nachdem sie kaum Platz genommen hatte. »Wir sind sehr arm, Mutter und ich. Der Papa ist lange tot, und wenn wir nicht die vier Zimmer vermieten könnten — wir wohnen Joachimstraße, dann … dann wär’s noch schlechter um uns bestellt. Papa war Arzt, aber leider kein Geschäftsmann, und …«
+
+Ich glaube, sie hätte in dieser Art noch eine halbe Stunde wie ein Mühlwerk geplappert, wenn Harst ihr nicht ins Wort gefallen wäre …
+
+»Sie kommen wegen des Chemikers Ernst Mendel zu mir, nicht wahr?«
+
+»Mein Gott, woher wissen Sie das?!«
+
+Das Ende einer Mainacht.
+
+Gespräch im Dunkeln … Nur flüsternde Stimmen hinter dem Wandschirm. Nur das leise Plätschern leiser Rede und Gegenrede. Auch das hat seine Reize, zumal wenn man wie wir einen Mann zwischen uns hatten, der Arno Matzka hieß — angeblich … Ein Mann, der fast sämtliche Sprachen beherrschte, der genau so international war wie wir, der die Welt in allen Winkeln kannte und dem das Abenteuer Bedürfnis war … Jedenfalls eine Persönlichkeit, dieser Kollege.
+
+»… Gewiß, der Perser Nussra ist mein Auftraggeber,« erklärte er. »Allerdings hatte ich auch schon vorher auf Halden ein kritisches Auge geworfen, sogar schon vor Mendels … Unfall im Hause der Sanitätsrätin.«
+
+»Schon vorher?!« und Harsts Stimme verriet ein wenig Unglauben.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (196) Dr. Haldens Patient.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

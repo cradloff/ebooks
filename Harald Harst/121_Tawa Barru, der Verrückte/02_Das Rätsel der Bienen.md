@@ -197,7 +197,7 @@ lieber Sinclair: auch ich könnte an diesem Stamm nicht ohne
 Leiter emporklimmen, es sei denn, daß ich hier diesen Auswuchs
 <@pagebreak/>
 als Fußstütze und das Bienenloch als Halt für die
-Hände bemühte, — und letzteres würde mir sehr schlecht bekommen,
+Hände benützte, — und letzteres würde mir sehr schlecht bekommen,
 sehr schlecht sogar, weil die kleinen Honigsammler
 meine Hand übel durch Stiche zurichten dürften.«
 
@@ -206,7 +206,7 @@ meine Hand übel durch Stiche zurichten dürften.«
 Und — wir suchten.
 
 Wir sprachen nochmals darüber, daß Frau Palamoor
-unmöglich umgekehrt sein konnte, denn wir hätten sie sehen
+unmöglich umgekehrt sein könne, denn wir hätten sie sehen
 müssen. Und die Büsche am Wege waren so dicht, daß eine
 Dame sich kaum hineindrängen konnte. Außerdem fehlten
 ja auch Spuren!!
@@ -312,7 +312,7 @@ Achselzuckend kam er auf uns zu.
 Der Inspektor seufzte. »Ja — und ich habe auch schon
 das Hotelpersonal und die Gäste kurz befragt. Niemand sah
 <@pagebreak/>
-einen verdächtigen Menschen. — Raubmord ist es nicht
+einen verdächtigen Menschen. — Raubmord ist es nicht,
 denn Frau Palamoor hält ja noch immer in der erstarrten
 Linken das goldene Handtäschchen und …«
 
@@ -451,7 +451,7 @@ Harald begann nun:
 »Zunächst wollen wir eins feststellen: Frau Alix Palamoor
 wurde in einem weißen Kleide ermordet!«
 
-»Ja. Also war sie anders gekleidet, als wir sie in
+»Ja … Also war sie anders gekleidet, als wir sie in
 Sinclairs Garten und wie die Damen sie am Stausee
 sahen.«
 
@@ -563,7 +563,8 @@ sie selbst gekleidet war!«
 »Bitte — die Worte sollten vielleicht vervollständigt
 lauten:
 
-Ich … ich selbst … habe mich scheinbar ermordet.
+> Ich … ich selbst … habe mich scheinbar ermordet.
+
 Und damit wollte die Sterbende zum Ausdruck bringen:
 Der Mörder sah so aus, als ob ich selbst es wäre!«
 
@@ -964,7 +965,7 @@ dort aufgehängt, damit der in ihm enthaltene Honig die
 Bienen anlockt. Bienen riechen Honig auf Hunderte von
 Metern. Mithin fliegen sie nun in Menge dem Lockmittel
 zu, und es macht den Eindruck, als ob das Baumloch nur
-eine Bienenwohnung enthielte, und niemand wird sich
+eine Bienenwohnung enthielte, und niemand wird sich so
 leicht hineinwagen.«
 
 »Na — und?!«
@@ -981,7 +982,7 @@ worden sein.«
 Da — — begriff ich.
 
 <@pagebreak/>
-Rief leise: »in dem Baume steckt noch etwas, das die
+Rief leise: »In dem Baume steckt noch etwas, das die
 Bienen gleichsam schützen sollen!«
 
 »Ja … — Wenn wir unseren Tee getrunken haben,
@@ -1013,7 +1014,7 @@ Und mit einem Male war er im dem Loche verschwunden.
 Ich … hinterher.
 
 Ich merkte, daß hier innen an den Stamm große
-Nägel als Fuß- und Handstüzen eingeschlagen waren.
+Nägel als Fuß- und Handstützen eingeschlagen waren.
 
 Jetzt wieder Haralds Stimme — von unten, wo seine
 Taschenlampe leuchtete:
@@ -1056,7 +1057,7 @@ und verschütteten Ruinen der ehemaligen Residenz des Großmoguls,
 des Mongolenkaisers, erbaut ist.
 
 Diese Fundamente, Keller und überbauten Ruinen des
-erste Lahore sind stellenweise noch zugänglich.
+ersten Lahore sind stellenweise noch zugänglich.
 
 Und hier nun — hier befanden wir uns eben in einem
 Raume, der zu einem früheren Gebäude der sehr ausgedehnten
@@ -1297,7 +1298,7 @@ Ging zum Fernsprecher.
 Er hatte sich mit des Inspektors Bungalow verbinden
 lassen.
 
-»Ah — Du bist es, Ramsa,« begrüßte er nun Goddlears
+»Ah — Du bist es, Ramfa,« begrüßte er nun Goddlears
 Hausmeister. »Ist Dein Sahib zu Hause? — — Nein?!
 Noch nicht zurückgekehrt?!«
 
@@ -1306,7 +1307,7 @@ um und flüsterte:
 
 »Meine Ahnung!!«
 
-Fragte dann Ramsa weiter:
+Fragte dann Ramfa weiter:
 
 »Vielleicht ist Dein Sahib im Büro? — — Nein? Du
 hast dort schon angerufen? — Dann wirst Du jetzt Polizeidirektor
@@ -1496,7 +1497,7 @@ Palamoor zuckte sichtlich zusammen.
 
 Faßte sich schnell.
 
-»Oh — die sehen nicht gerade schön aus. Ich leide
+»Oh — die sehen nicht gerade schön aus … Ich leide
 leicht an Hitzausschlag.«
 
 Und zögernd brachte er sie nun zum Vorschein.

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">145da545-fa5a-42df-8299-de37903c8ddf</entry>
+<entry key="title">Der Teckel mit zwei Köpfen</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">193</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Teckel mit zwei Köpfen
+
+Der Leser wird sofort an eine Mißgeburt denken — und denkt daneben.
+
+Dieser Teckel steht auf dem zweiten Brett unseres Raritätenschrankes neben anderen Erinnerungsstücken an merkwürdige Abenteuer, die uns in den meisten Fällen ein Zufall bescherte, denn die ganz seltenen, wirklich eigenartigen Probleme sind ja gewöhnlich so beschaffen, daß die zunächst Beteiligten, die Opfer geheimer Ränke, Anschläge oder anderer Verbrechen, zu spät das sich immer enger zusammenziehende Netz bemerken.
+
+So sind es denn in den weitaus meisten Fällen dieser Art lediglich Fernstehende, die irgendeine besondere, auffällige Beobachtung gemacht haben und die in Gedanken das Geschaute, Erlauschte oder sonstwie zu ihrer Kenntnis Gelangte oft tagelang als unruhestiftenden Fremdkörper in ihres Alltagstrotts geregelter Bahn verspüren, bevor sie sich entschließen, sich an eine berufene Stelle zu wenden.
+
+Das Geheimnis um Frau Lengner
+
+Harst hatte sich eine Mirakulum angezündet. Seine hohe Stirn lag in Falten, und während er mechanisch ein paar Züge rauchte, war sein Blick unverwandt auf den unheimlichen Teckel gerichtet.
+
+»Frau Thea muß doch also Feinde gehabt haben …« meinte er dann mehr zu sich selbst. »Und zwar Feinde, besser einen Feind, der ihr … aus Eifersucht nachstellte … Anders sind ihre Worte kaum zu deuten. Wenn sie zu Ihnen gesagt hat: »Es wäre von mir ein Verbrechen, Ihr Leben denselben Gefahren auszusetzen,« — wenn sie weiter so streng verhüten wollte, daß nicht einmal der Anschein erweckt würde, zwischen Ihnen bestände auch nur Freundschaft, so bleibt nur das eine: ein eifersüchtiger, abgesetzter Liebhaber!«
+
+Griffon schüttelte energisch den Kopf. »Von einem Liebhaber außer mir kann keine Rede sein — bestimmt nicht, Herr Harst! Thea hätte mir das nicht verschwiegen. Sie — war so ehrlich, so tapfer. Nein, es muß da etwas anderes mitspielen …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (193) Der Teckel mit zwei Köpfen.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

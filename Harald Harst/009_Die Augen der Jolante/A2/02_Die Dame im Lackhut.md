@@ -86,13 +86,13 @@ den Kellerräumen an der rechten Hausseite eine Lichterscheinung
 aufblitzen sah. Es war wie ein weißer Strich von
 Funkengarben gewesen, vielleicht ein halbes Meter lang und
 wagerecht verlaufend. Nur den Bruchteil einer Sekunde
-hatte dieses Aufleuchten sich gezeigt. Ich glaubte Harst hätte
+hatte dieses Aufleuchten sich gezeigt. Ich glaubte, Harst hätte
 <@pagebreak/>
 es nicht bemerkt und teilte ihm nun hastig mit, was ich soeben
 beobachtet.
 
 »Gut, gut, lieber Schraut,« meinte er dann flüsternd.
-»Sie haben nur nicht alles gesehen. — Ah — wahrhaftig —
+»Sie haben nur nicht alles gesehen. — Ah — wahrhaftig, —
 eine Frauengestalt, die eilig der Straße zuläuft!« Er wurde
 erregt. »Schraut, die Person kam aus dem Kellereingang.
 Jetzt hat die Dunkelheit sie verschluckt. Trotzdem — versuchen
@@ -311,15 +311,15 @@ genügend angesehen. Trotzdem will ich sie Ihnen nochmals
 vorlesen. Nummer eins, vom 16., fünf Zentimeter hoch, acht
 Zentimeter lang, hat den Wortlaut:
 
-»Wißmacht — Wißmacht ist das Allerbeste!«
+> »Wißmacht — Wißmacht ist das Allerbeste!«
 
 Weiter — vom 22. —:
 
-»Wißmacht — Wißmacht ist das Allerfeinste!«
+> »Wißmacht — Wißmacht ist das Allerfeinste!«
 
 Vom 28. —:
 
-»Wißmacht — Wißmacht ist das Billigste!«
+> »Wißmacht — Wißmacht ist das Billigste!«
 
 Für den harmlosen Leser haben diese Anzeigen nichts
 Besonderes an sich gehabt. Wißmacht kann ein neues Seifenpulver
@@ -329,7 +329,7 @@ sein, daß diese Annoncen keine Reklame waren. Wie
 sie’s herausgebracht haben, verschwieg man mir. Nun —
 das ist ja gleichgültig. Jedenfalls soll ich nun ermitteln
 was es mit diesem Wißmacht auf sich hat. — Gestern ging
-ich an die neue Ausgabe heran. Während Sie, lieber Schraut,
+ich an die neue Aufgabe heran. Während Sie, lieber Schraut,
 mich auf einem Spaziergang vermuteten, war ich in der Expedition
 des Kuriers. Mein Name genügte, den Diensteifer
 der Herren bis ins unerträgliche zu steigern. Hoffentlich
@@ -367,13 +367,13 @@ auf.
 
 »Also folgendes, lieber Schraut:
 
-»Allerbeste, haben verstanden. Erwarte Dich W. 8
+> »Allerbeste, haben verstanden. Erwarte Dich W. 8
 heute 12.«
 
 So, das war die Antwort auf die eine Wißmacht. — Und
 auf die vom 28. steht hier in der Nummer vom 1. Juni:
 
-»Billigste. 3. Juni 12.«
+> »Billigste. 3. Juni 12.«
 
 Und heute, nein, gestern, denn Mitternacht ist längst vorbei,
 war der 3. Juni. — So weit war ich nun. — Was 12 bedeutete,
@@ -405,7 +405,7 @@ ich einen glücklichen Tag. Geradezu triumphierend rief ich:
 »W. 8 — Wißmacht! — Wißmacht beginnt mit einem W,
 und endigt mit »acht«! Mithin ist W. 8 — Wißmacht.«
 
-»Seht gut,« lobte Harst. »Und weiter?«
+»Sehr gut,« lobte Harst. »Und weiter?«
 
 Oh — jetzt war ich im Zuge. Vielleicht hilft bei mir der
 Schnupfen, vielleicht läuft die Denkmaschine dann besser.
@@ -438,12 +438,12 @@ daß der Kellerraum einmal von einer Dame in Begleitung
 eines Herrn besucht worden war, denn das Gummiabsatzteilchen
 war für eine Damenhacke zu groß. Weiter verriet mir
 aber das Fahrkartenstück einen gewissen Zusammenhang
-zwischen Werder — <span class="g">der</span> — und diesen Kellergästen —
+zwischen Werder — *der* — und diesen Kellergästen —
 zwischen Werder als Absendeort der Wißmacht-Anzeigen. Und
 deshalb hielt ich eben unsere Wißmannstraße für die einzig
 hier in Frage kommende.«
 
-Harst rauchte eine neue Mirakulum an. »Nun zu unseren
+Harst rauchte eine neue Mirakulum an. »Nun zu unserem
 Abenteuer in Nummer 8. Es kann kaum dunkler und undurchsichtiger
 sein. — Sie sehen eine Lichterscheinung aufleuchten.
 Gleich darauf flieht eine Frau im Seidenmantel
@@ -470,7 +470,7 @@ ihm bisher nichts erfahren können. Er ist zu matt von der
 langen Betäubung. — Ich komme damit zu einem der wesentlichsten
 Punkte, lieber Schraut, über den wir noch nicht gesprochen
 haben. — Wodurch wurde er betäubt? — Ich will
-es Ihnen erklären. Als ich in den Keller eindrang nachdem
+es Ihnen erklären. Als ich in den Keller eindrang, nachdem
 die Frau geflohen war, fand ich das Kind ohne spürbare Pulstätigkeit.
 Ich fand auch sehr bald heraus, daß in jenem Kellerraum
 offenbar absichtlich ein Mordanschlag gegen irgend
@@ -479,7 +479,7 @@ jemand vorbereitet worden war. Die elektrischen Drähte
 des beim Bau des Hauses verwendeten Lastenaufzugs außen
 am Hause waren so hergerichtet, daß der, der einen am Boden
 liegenden Brief aufnehmen wollte, sie berühren mußte.
-Die Lichterscheinung die wir sahen, war eine elektrische Entladung.
+Die Lichterscheinung, die wir sahen, war eine elektrische Entladung.
 Sie traf den Knaben, betäubte ihn und zerstörte den
 Brief zur Hälfte. — Hier ist die andere Hälfte.«
 
@@ -508,7 +508,7 @@ Ich schwieg. Ich hatte nebenan in Harsts Schlafzimmer
 ein lautes Geräusch gehört. Es hatte so geklungen, als ob
 jemand unversehens gegen einen Stuhl stößt und dieser auf
 den Dielen ein Stück weiterrutscht. Gleichzeitig war aber
-auch Harst aus seinem Sessel hochgefahren. Jetzt tat er aus
+auch Harst aus seinem Sessel hochgefahren. Jetzt tat er auf
 seinen Morgenschuhen zwei lautlose Sprünge nach der Schlafstubentür
 hin, riß sie auf.
 
@@ -531,12 +531,12 @@ braune Halbschuhe.
 der Wind bewegt hat,« sagte er ziemlich laut und schloß die
 Schlafstubentür hinter sich.
 
-Kaum war dies geschehen als er sich sofort auf den nächsten
+Kaum war dies geschehen, als er sich sofort auf den nächsten
 Stuhl setzte, die Kleidungsstücke auf den Teppich gleiten
 ließ, seine Morgenschuhe abstreifte und die Halbschuhe überzuziehen
 begann.
 
-»Schraut!« flüsterte er. »schnell — holen Sie ganz leise
+»Schraut!« flüsterte er, »schnell — holen Sie ganz leise
 Ihren Hut. Der Junge liegt jetzt angezogen im Bett. Nur
 seine Stiefel stehen noch da. Es ist ein geriebener kleiner
 Bursche. Er will auskneifen. Wir müssen ihm heimlich nach,
@@ -572,7 +572,7 @@ mir zu entziehen! Also: sehr schlechtes Gewissen!«
 
 Ich pflichtete ihm bei. —
 
-Plötzlich nahm er mich unter den Arm zog mich mit
+Plötzlich nahm er mich unter den Arm, zog mich mit
 fort: »Trab, Schraut, — Trab, — sonst kommen wir zu spät.«
 
 <@pagebreak/>
@@ -650,7 +650,7 @@ in eins.
 Der Wagen fuhr vorüber, hielt plötzlich. Ich gewahrte
 einen Mann, der in langen Sätzen vom Neubau daherkam.
 
-Die Schüsse — und der Mann wurde nicht verfolgt. Harst
+Die Schüsse — und der Mann wurde nicht verfolgt, Harst
 war nicht hinter ihm drein! War Harst das Opfer der
 Schüsse geworden?! —
 
@@ -664,7 +664,7 @@ Federn, an denen ich mich festhielt, während ich die
 Beine über die Hinterachse gelegt hatte.
 
 Ich werde diese Fahrt nie vergessen. Hundertmal glaubte
-ich: Du hältst es länger nicht aus — laß Dich herabgefallen!
+ich: Du hältst es länger nicht aus — laß Dich herabfallen!
 — Und hundertmal siegte die Energie trotz der wahnsinnigen
 Schmerzen in den Händen und trotz des Gefühls, mir würden
 die Arme aus den Gelenken gerissen. — Ich durfte nicht
@@ -772,7 +772,7 @@ eine Mirakulum an und rauchte schweigend die ersten Züge.
 
 Dann begann er: »Aus Ihrem langen Ausbleiben, lieber
 Schraut, schließe ich, daß Sie irgend einen Erfolg gehabt
-haben. Erzählen Sie zunächst, dann komme ich heran.« —Ich
+haben. Erzählen Sie zunächst, dann komme ich heran.« — Ich
 tat’s und fügte zum Schluß hinzu: »Bevor ich meinen
 Posten hinter dem Baum aufgab, bemerkte ich links neben
 <@pagebreak/>
@@ -789,7 +789,7 @@ nach Westen zu. — Also Barentraub!«
 Er schüttelte unzufrieden den Kopf. »Schraut — die
 Geschichte wird immer verwickelter. Wenn fünfzigfache
 Millionäre zu derartig dunklen Dingen wie Wißmacht in
-Beziehung stehen, so tut man gut noch vorsichtiger als sonst
+Beziehung stehen, so tut man gut, noch vorsichtiger als sonst
 zu sein. Geld ist Allmacht —«
 
 Hinter uns kam eine müde Taxameterdroschke angeklappert.
@@ -828,7 +828,7 @@ allem Drum und Dran nochmals — vergeblich durch den Kopf
 gehen. Und dann erschienen Sie, lieber Schraut. Es war
 rührend mit anzusehen, wie emsig Sie nach der Leiche eines
 durch eine Knallpistole Erschossenen suchten. Ich sage Knallpistole.
-Es war nämlich nur so ein Hundeschreckmittel mit
+Es war nämlich nur so ein Hundeschreckmittel, mit
 dem der Mann auf mich feuerte. Ich hörte es gleich am
 Knall. Patronen, die vorn ein Geschoß haben, geben eine
 ganz andere Detonation. Und als der Kerl zischte: »Schurke
@@ -864,7 +864,7 @@ für alle gut. — K. Sch.
 »Dieser Dank ist immerhin in einer Beziehung wichtig,
 ganz abgesehen davon, daß er den braven Charakter des Jungen
 beweist,« sagte Harst und schenkte die kostbaren Delfter
-Tassen voll. »Es heißt da ja — »die <span class="g">ihr</span> nachstellen —«
+Tassen voll. »Es heißt da ja — »die *ihr* nachstellen —«
 Wir wissen nun wieder etwas mehr: es wird jemandem nachgestellt!
 — Wer mag es sein, Schraut?«
 
@@ -879,7 +879,7 @@ Person? — Sie sehen, die Frage beschäftigt uns schon wieder.«
 »Gestatten Sie eine Bemerkung,« meinte ich. »Sie müssen
 doch gesehen haben, ob die Nr. 2, die mit dem Herrn im
 Keller saß, helle oder dunkle Handschuhe aufhatte. Die von
-Nr. 1 waren jedenfalls hell. Ich denke Wildleder waschbar.
+Nr. 1 waren jedenfalls hell. Ich denke Wildleder, waschbar.
 Ich fühlte es, als ich ihr die Börse entriß. Jedenfalls keine
 glatten Glacees!«
 
@@ -971,7 +971,7 @@ Ganze — anders nicht!«
 
 Das Auto hielt. Harst hieß den Chauffeur warten.
 
-***
+* * *
 
 Der zuständige Beamte in der Bauabteilung war ein älterer,
 sehr gesprächiger Herr. Harst führte sich mit der Bemerkung
@@ -992,8 +992,8 @@ Harst warf mir einen Blick zu. Das hieß
 »Abermals eine interessante Einzelheit!«
 
 Und der Weißbart fuhr fort: »Er hat daher auch ’n Vormund
-— seinen Schwiegersohn. Regierungsrat Stachel. Der
-wohnt Charlottenburg Kantstraße 52, unweit des Bahnhofs.
+— seinen Schwiegersohn, Regierungsrat Stachel. Der
+wohnt Charlottenburg, Kantstraße 52, unweit des Bahnhofs.
 An den wenden Sie sich bitte. Ein sehr liebenswürdiger Herr.
 Noch jung — hat schnell Karriere gemacht.«
 
@@ -1026,14 +1026,14 @@ Stachels. Dann erschien er selbst. Harst machte den
 Sprecher, berlinerte etwas, sagte, wir hätten von der Gemeinde
 Steglitz Bauterrain kaufen wollen, und so weiter.
 
-Der Regierungsrat hatte ein angenehmes Gesicht trug
+Der Regierungsrat hatte ein angenehmes Gesicht, trug
 blonden Spitzbart, war aber zuerst sehr zugeknöpft. Erst als
 Harst ganz im Sinne seiner Rolle scherzend ein Päckchen Tausendmarkscheine
 zeigte, mit der Hand drauf schlug und
 <@pagebreak/>
 meinte: »Wir sind zahlungsfähig — bis zu 60&nbsp;000 Märker
 in baribus,« da taute jener auf, blieb jedoch recht zerstreut.
-Mir fiel auf, daß er sehr blaß aussah, übernächtigt und matt.
+Mir fiel auf, daß er sehr blaß aussah, übernächtig und matt.
 Nach einer halben Stunde waren wir dann überein gekommen,
 am nächsten Nachmittag fünf Uhr das Grundstück gemeinsam
 zu besichtigen. Wir verabschiedeten uns, und Stachel
@@ -1079,7 +1079,7 @@ abging.
 Um 7 Uhr 15 Minuten standen wir vor dem Eingang von
 Havelruh. Ein Krankenwärter empfing uns. Harst erklärte,
 er wolle seine Schwester hier unterbringen, die gemütsleidend
-wäre. Sofort wurden wir in das Empfangszimmer geführt
+wäre. Sofort wurden wir in das Empfangszimmer geführt,
 <@pagebreak/>
 und gleich darauf trat auch Doktor Heinrich Görner ein —
 glattrasiert, sehr gemessen, sehr höflich und — für einen Nervenarzt
@@ -1099,7 +1099,7 @@ Bahnhof gesagt, Sie wären nach Berlin gefahren.«
 — dann müssen Sie aber recht spät mich haben besuchen wollen,«
 fügte er unsicher hinzu.
 
-»Unsereiner hat am Tage wenig Zeit, Herr Doktor. ’S
+»Unsereiner hat am Tage wenig Zeit, Herr Doktor. ’s
 war, denk’ ick, so jejen neune rum. Jenau weiß ick ’s nich.
 Ick hab’ den Kopp jetzt so voll. Ick will ’n Neubau kaufen,
 son verkrachten Besitz von einem Herrn, der irgendwo in ’ne
@@ -1141,8 +1141,8 @@ peinlich, daß angeblich ein Bahnbeamter seine Abfahrt bemerkt
 hatte. Das gibt zu denken —«
 
 Wir betraten den Warteraum, bestellten etwas Warmes
-und eine Flasche Rotwein und Harst biederte sich mit dem
-Wirt an, erzählte bald von seiner unglücklichen gemütskranken
+und eine Flasche Rotwein, und Harst biederte sich mit dem
+Wirt an, erzählte bald von seiner unglücklichen, gemütskranken
 Schwester, die er nun in Havelruh unterbringen
 würde.
 
@@ -1227,7 +1227,7 @@ Lichtschein des glänzenden Sprühregens getroffen, und — da
 packte Harst meinen Arm, drückte ihn.
 
 Die Frau dort drüben hatte — einen Lackhut auf. Darunter
-zogen sich zwei helle Streifen herab. — ein blonder,
+zogen sich zwei helle Streifen herab, — ein blonder,
 tief getragener Scheitel.
 
 Von der Villa her plötzlich wütendes Bellen.
@@ -1240,14 +1240,14 @@ tief Atem.
 
 <@pagebreak/>
 »Wir haben Glück gehabt, Schraut. Es war das Bellen
-einer Dogge! Ich denke — wenn die uns zu fassen gekriegt
+einer Dogge! Ich danke — wenn die uns zu fassen gekriegt
 hätte! Und — wissen Sie, wer der Beleuchter war? Kein anderer
 als der, der dem Zahnarzt zum Verdienst verhelfen
 wollte. Es muß der Kutscher Barentraubs sein. Und — die
 im Lackhut nannte er »Frau Doktor.« — Die Sache klärt
 sich — sehr sogar!«
 
-***
+* * *
 
 Er schritt jetzt auf die gegenüberliegenden Wirtschaftsgebäude
 zu:
@@ -1373,7 +1373,7 @@ an: »Was wollen Sie von mir?! Was habe ich denn getan,
 daß Sie mich wie einen Verbrecher behandeln?! Es soll Ihnen
 teuer zu stehen kommen!«
 
-»Schweigen Sie!« sagte Harst kalt. »Was Sie getan haben
+»Schweigen Sie!« sagte Harst kalt. »Was Sie getan haben,
 weiß ich, — und — ich kann es Ihnen beweisen — nämlich
 einen Mordversuch an Ihrer Frau! — Kein Wort weiter.
 Sonst stecke ich Ihnen einen Knebel zwischen die Zähne! —
