@@ -97,7 +97,7 @@ Unaufgefordert leistete ich mir noch eine Herzstärkung. Harst rollte sich den K
 
 Die ersten Rauchringe schwebten hoch, zerflatterten. Dann begann er: »Unsere Aufgabe lautet diesmal:
 
-> »Welchen Zweck haben die drei Anzeigen im Berliner Kurier vom 6., 22. und 28. Mai des Jahres, Morgenausgabe, links oben, Seite 6, Kugelrand.«
+> »Welchen Zweck haben die drei Anzeigen im Berliner Kurier vom 16., 22. und 28. Mai des Jahres, Morgenausgabe, links oben, Seite 6, Kugelrand.«
 
 Sie kennen diese Annoncen, Schraut. Wir haben sie uns ja genügend angesehen. Trotzdem will ich sie Ihnen nochmals vorlesen. Nummer eins, vom 16., fünf Zentimeter hoch, acht Zentimeter lang, hat den Wortlaut:
 
@@ -387,7 +387,7 @@ Das war jedoch einem Harst gegenüber nicht leicht. Er fing von Grundstücksprei
 
 Damit war’s aber auch zu Ende.
 
-Um halb zehn trafen wir uns wieder auf dem Potsdamer Bahnhof ein, nahmen ein Auto und waren kurz vor zehn in der Delbrückstraße der Villenkolonie Grunewald, gingen nun sehr langsam an dem Wirtschaftshof Barentraubs vorüber, sahen in dem Kutscherhäuschen Licht, kletterten dann sehr eilig über das hohe Eisengitter des Parks und schlichen auf die Villa zu, die so hinter Hecken und Bäumen versteckt liegt, daß man von der Straße nur das Dach mit den vielen Türmchen bemerkt.
+Um halb zehn trafen wir wieder auf dem Potsdamer Bahnhof ein, nahmen ein Auto und waren kurz vor zehn in der Delbrückstraße der Villenkolonie Grunewald, gingen nun sehr langsam an dem Wirtschaftshof Barentraubs vorüber, sahen in dem Kutscherhäuschen Licht, kletterten dann sehr eilig über das hohe Eisengitter des Parks und schlichen auf die Villa zu, die so hinter Hecken und Bäumen versteckt liegt, daß man von der Straße nur das Dach mit den vielen Türmchen bemerkt.
 
 Harst wollte feststellen, ob Barentraubs nicht doch daheim wären. — »Man muß eben alles nachprüfen, Schraut,« hatte er zu mir gesagt. »Obwohl ich jetzt die beiden Zwillinge aus meinen Berechnungen schon so gut wie ausgeschaltet habe.«
 
