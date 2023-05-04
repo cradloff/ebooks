@@ -69,7 +69,7 @@ Anni Inna klatschte in die ringleeren Händchen …
 
 »Verblüffend!!« rief die junge Diva nochmals mit derselben kindlichen Freude. »Man merkt, man ist bei Harst …! — Nun müssen Sie aber auch genau auseinandersetzen, wie Sie diese bis ins einzelne zutreffenden Schlußfolgerungen aus dem Nichts abgeleitet haben! Das ist ja fabelhaft interessant!«
 
-Harst seufzte. »A, das ist weder fabelhaft noch interessant. Das ist Alltagskram. Natürlich kann man nicht kombinieren, also logische Ableitungen und Ergänzungen fertigbringen, wenn man gar keine Unterlagen hat. Diese Unterlagen waren bei Ihnen überreich und geradezu aufdringlich vorhanden. Daß Sie von einer Filmaufnahme aus dem Atelier kamen, zeigte mir Ihr wunderbares Kostüm aus der Zeit des Sonnenkönigs Ludwigs **XIV**. Da Sie sich nicht mehr umgekleidet hatten, hatten Sie es sehr eilig gehabt, daher riet ich auf das »Auto« und »das Warten« vor Ihrem Hause. Daß Sie im Kraftwagen einen Brief gelesen und längere Zeit in der Hand gehalten, verraten die an Ihren Fingerspitzen vorhandenen Abdrücke einiger lila Schriftstücke. Dieser Brief erregte Sie, war für Sie wichtig, daher transpirierten Sie leicht, und die feuchte Fingerhaut wirkte wie Löschpapier …«
+Harst seufzte. »A, das ist weder fabelhaft noch interessant. Das ist Alltagskram. Natürlich kann man nicht kombinieren, also logische Ableitungen und Ergänzungen fertigbringen, wenn man gar keine Unterlagen hat. Diese Unterlagen waren bei Ihnen überreich und geradezu aufdringlich vorhanden. Daß Sie von einer Filmaufnahme aus dem Atelier kamen, zeigte mir Ihr wunderbares Kostüm aus der Zeit des Sonnenkönigs Ludwigs XIV. Da Sie sich nicht mehr umgekleidet hatten, hatten Sie es sehr eilig gehabt, daher riet ich auf das »Auto« und »das Warten« vor Ihrem Hause. Daß Sie im Kraftwagen einen Brief gelesen und längere Zeit in der Hand gehalten, verraten die an Ihren Fingerspitzen vorhandenen Abdrücke einiger lila Schriftstücke. Dieser Brief erregte Sie, war für Sie wichtig, daher transpirierten Sie leicht, und die feuchte Fingerhaut wirkte wie Löschpapier …«
 
 Die Diva schaute auf ihre Fingerchen, wurde rot … »Pfui, wie schmutzig!!«
 
@@ -89,7 +89,7 @@ Und die Diva nickte sehr kleinlaut und verlegen.
 
 Wer meinen guten Harald so sprechen hörte, der mußte wirklich glauben, selbst der größte Stoffel könnte Harstsche Geistesarbeit leisten. Na — ganz so einfach ist das denn doch nicht! Wer diese ersten Seiten sorgfältig gelesen hat, wird mir unbedingt recht geben. —
 
-Harald fragte Anna Inna dann noch so allerlei, ließ sich die gestohlenen, nein, die geraubten Stücke nennen: fünf Ringe, einen Anhänger, eine Perlenschnur, eine Armbanduhr und ein goldenes Handtäschchen, — versprach der Diva sein Möglichstes zu tun und begleitete unsere Klientin noch bis zu dem draußen wartenden Auto.
+Harald fragte Anni Inna dann noch so allerlei, ließ sich die gestohlenen, nein, die geraubten Stücke nennen: fünf Ringe, einen Anhänger, eine Perlenschnur, eine Armbanduhr und ein goldenes Handtäschchen, — versprach der Diva sein Möglichstes zu tun und begleitete unsere Klientin noch bis zu dem draußen wartenden Auto.
 
 Als er ein wenig naß geregnet das Zimmer wieder betrat, rieb er sich vergnügt die Hände, trat hinter meinen Sessel und klopfte mir derb auf die Schulter … »Mein Alter, das wird ein feiner Fall!! Die Jagd auf diesen jungen Frechdachs ist ein kleiner Leckerbissen, denn der Monokel-Jüngling hat nicht nur Schneid, sondern ist auch zweifellos ein heller Kopf, keine Durchschnittsware! — Nun, wir werden ihn schon kriegen!«
 
@@ -303,7 +303,7 @@ Ich stand auf und schwankte vorwärts.
 
 So ist er immer. Speist mich mit karger Kost ab, mit dem Vorgericht. Den Braten serviert er mir später. —
 
-Zu Fuß wanderten wir bis Gatow. Schweigend. Erwischten in Gatow ein Auto. Um halb sechs morgens waren wir daheim. Kurzes »Gute Nacht«, Händedruck, und ich betrat meinem Zimmer rechts vom Flur, lag gleich darauf im Bett, schlief ein … —
+Zu Fuß wanderten wir bis Gatow. Schweigend. Erwischten in Gatow ein Auto. Um halb sechs morgens waren wir daheim. Kurzes »Gute Nacht«, Händedruck, und ich betrat meine Zimmer rechts vom Flur, lag gleich darauf im Bett, schlief ein … —
 
 Als ich um halb elf Harsts Arbeitszimmertür öffnete, saß mein unverwüstlicher Harald im Saffiansessel vor dem Kamin und hatte auf der Platte des Rauchtischchens eine Musterkollektion von Ringen, Uhren, Anhängern, Vorstecknadeln, Halsketten und Ohrringen ausgebreitet — in sieben Häuflein …
 
@@ -433,7 +433,7 @@ Marengo fiel ihm ins Wort … »Aha — — den Hausiererkasten meinen Sie! Ganz
 
 »Allerdings … Und das dürfte in dem dunklen Winkel hinter einer der geöffneten Türen des Bahnhofsgebäudes geschehen sein. — Ich, Herr Marengo, dachte soeben freilich an etwas anderes … Daran, Sie zu bitten, über all diese Dinge zu schweigen …«
 
-»Was selbstverständlich ist,« dienerte der Patzenhofer »Wenn ich Ihnen sonst noch irgendwie gefällig sein könnte, Herr Harst …«
+»Was selbstverständlich ist,« dienerte der Patzenhofer. »Wenn ich Ihnen sonst noch irgendwie gefällig sein könnte, Herr Harst …«
 
 »Ja, warten Sie hier mit Schraut auf mich …« Und er verschwand wieder im Bahnhof.
 
