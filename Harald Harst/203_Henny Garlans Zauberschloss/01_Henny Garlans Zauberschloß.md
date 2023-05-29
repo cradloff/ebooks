@@ -135,7 +135,7 @@ Dies war die erste Bemerkung Haralds über den Fall Garlan seit jener Stunde, da
 
 »Boote?« fragte ich. »Denkst du etwa an Schmuggler?«
 
-»Ja. Die Villa erhebt sich dicht vor der Grenze des polnischen Gebiets, und die Doppelwände können recht gut Verstecke für Pascherwaren<@refnote 4/> sein. — Es ist das natürlich nur eine vorläufige Vermutung von mir. Wahrscheinlich wird sie falsch sein. Aber zunächst finde ich keine bessere Erklärung für die Tatsachen, die Herr Tucholsky uns berichtet hat.«
+»Ja. Die Villa erhebt sich dicht vor der Grenze des polnischen Gebiets, und die Doppelwände können recht gut Verstecke für Pascherwaren<@refnote 4/> sein. — Es ist das natürlich nur eine vorläufige Vermutung von mir. Wahrscheinlich wird sie falsch sein. Aber zunächst finde ich keine bessere Erklärung für die Tatsachen, die Herr Tucholski uns berichtet hat.«
 
 Wir saßen vor dem Kurhause in der Sonne. Alles hier war so friedlich-gemütlich. Ich hätte gewünscht, wir wären hier lediglich zur Erholung abgestiegen. Fischerboote rechts am kleinen Bächlein hauchten kräftigen Teerdunst aus, und graziöse Möwen<@refnote 5/> glitten durch den Sonnenglast wie weiße Rosenfalter …
 

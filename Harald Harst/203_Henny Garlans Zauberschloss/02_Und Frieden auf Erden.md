@@ -244,7 +244,7 @@ Die drei streiften die Schnürschuhe ab, nahmen die blanken langen Klingen ihrer
 
 Ich hielt mich genau an Haralds Befehle. Ich rührte mich nicht, wartete ab.
 
-Die Herzogin setzte sich auf einen Stuhl. Tucholsky lehnte an der Sofaecke. Ich sah von den beiden jetzt nur die Beine.
+Die Herzogin setzte sich auf einen Stuhl. Tucholski lehnte an der Sofaecke. Ich sah von den beiden jetzt nur die Beine.
 
 Tucholski räusperte sich … Meinte dann kriecherisch …
 
