@@ -222,7 +222,7 @@ Nun — ich will mich hier keineswegs herausstreichen. Durchaus nicht. Die Über
 
 Herr Aloysius Tucholski hatte die Villa gebaut. Er war ein käuflicher Lump. Er hatte ohne Zweifel in die Villa noch mancherlei hineingebaut, was Harriet Gardener nicht ahnte, so auch diese Falltür und einen dazu gehörigen Gang, der Gott weiß wo münden mochte. Durch diesen Gang hatte er in die Villa eindringen wollen und hatte zu seinem Erstaunen das Kellergelaß bewohnt gefunden, war mit der Gefangenen dann schnell handelseinig geworden und hatte ihr später zur Flucht verholfen. — So mußte es sein …
 
-Den hageren Kerl hielt ich für Tucholski, den schlanken jungen Burschen mit dem überraschend, vornehmen, rassigen Gesicht für die Herzogin.
+Den hageren Kerl hielt ich für Tucholski, den schlanken jungen Burschen mit dem überraschend vornehmen, rassigen Gesicht für die Herzogin.
 
 Es stimmte auch.
 
@@ -520,7 +520,7 @@ Sie riß ihre Weste auf … Sie trug auf der Brust eine kleine Ledertasche …
 
 »Hier — — Champells Briefe … Der Lump hat zwei Millionen erhalten … Hier seine Quittung …«
 
-»Es genügt. — Und jetzt werden Sie mir angeben, wie Sie mit Ichrem U-Boot Signale tauschen wollten … Durch die Leuchtboje — durch gewöhnliche Morsezeichen?«
+»Es genügt. — Und jetzt werden Sie mir angeben, wie Sie mit Ihrem U-Boot Signale tauschen wollten … Durch die Leuchtboje — durch gewöhnliche Morsezeichen?«
 
 »Ja …«
 

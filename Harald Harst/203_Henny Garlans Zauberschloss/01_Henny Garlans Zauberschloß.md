@@ -311,7 +311,7 @@ Jetzt ging Frau Krüger endlich ein Licht auf. »Herr Harrich, Sie … Sie schei
 
 »Nicht wahr, es stimmt … Die Gordon ist sehr mißtrauisch?«
 
-»Herr Harris — — wer sind Sie?!«
+»Herr Harrich — — wer sind Sie?!«
 
 »Verehrteste Frau Krüger, Sie scheinen mich zu überschätzen. Ich habe sehr viel Kriminalromane gelesen und mir sozusagen eine geringe Detektivbegabung angelernt. Das kann jeder, wenn er nicht gerade auf den Kopf gefallen ist. Sie werden doch zugeben, daß meine Vermutung, die Gordon sei mißtrauischer Natur, durch die leise geöffnete Verbindungstür notwendig herbeigeführt werden mußte und daß die zweite Szene hier, Telegramm und Schlüssellochspionage, genauso einfache Folgerungen gewesen sind.« Und er schmunzelte selbstgefällig und fügte mit stark betontem Gefühl für den Wert der eigenen Persönlichkeit hinzu: »Wenn Sie mir über die Gordon noch einiges mitteilen wollten, könnte ich Ihnen vielleicht noch mehr Beweise für meine bescheidene Begabung liefern. Es macht nämlich auf mich ganz den Eindruck, als ob zum Beispiel die häufigen Telephongespräche der Gordon und deren etwas ungeregeltes Leben — sie ist selten daheim, glaube ich, und verreist des öfteren auf kurze Zeit — schon längst den Verdacht in Ihnen erregt hätte, die Amerikanerin könnte doch nicht lediglich zu Studienzwecken sich hier in Danzig aufhalten.«
 
