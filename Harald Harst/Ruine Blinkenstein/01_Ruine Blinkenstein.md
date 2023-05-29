@@ -45,14 +45,14 @@ wies fünf kleine Schrotlöcher auf. Der Verdacht war
 also gegeben, daß die junge Dame durch einen Schrotschuß
 niedergestreckt und ihre Leiche beseitigt worden war.
 <@pagebreak/>
-Doch — diese Leiche konnte trotz eifrigsten Arbeit gewiegter
+Doch — diese Leiche konnte trotz eifrigster Arbeit gewiegter
 Kriminalbeamter und trotz Verwendung berühmter
 Polizeihunde nicht entdeckt werden. Jetzt waren seit jenem
 für Schloß Blinkenstein und die ganze Umgebung so aufregenden
 2\. Mai volle drei Wochen verstrichen. Nichts
 hatte sich jedoch geändert. Die Leiche war nicht zu finden,
 ebensowenig das elegante Selbstspanner-Jagdgewehr, das
-die Komtesse bei ich getragen hatte. Und nun wollte mein
+die Komtesse bei sich getragen hatte. Und nun wollte mein
 Herr und Lehrer Harald Harst in diesem wenn nicht
 gerade außergewöhnlichen, so doch jedenfalls geheimnisvollen
 Fall seine nie versagende Detektivbegabung wiederum
@@ -122,7 +122,7 @@ den Lehrerwohnungen über den Unterrichtsräumen. Die
 Fenster dort waren erleuchtet. Jemand spielte Harmonium.
 Harst hatte sich umgeschaut, raunte mir nun zu:
 
-»Vorwärts — Dort geht er! Ihm nach — aber
+»Vorwärts — dort geht er! Ihm nach — aber
 vorsichtig!«
 
 Ich war recht verdutzt. — »Ihm nach?« — Ja —
@@ -199,7 +199,7 @@ weg, und ich schlug lang zu Boden und zwar so hart,
 <@pagebreak/>
 daß mir für Sekunden förmlich das Bewußtsein schwand.
 Ich war in hohe Farnkräuter gefallen, und als ich mich
-nun aufrappelte, tauchte dich vor mir Harsts Kopf auf.
+nun aufrappelte, tauchte dicht vor mir Harsts Kopf auf.
 Seine Rechte drückte mich wieder in das Gras zurück,
 und wie ein Hauch war seine Stimme: »Keinen Laut
 — keine Bewegung!«
@@ -221,7 +221,7 @@ Zentimeter über der Erde sehr straff gespannt war.
 »Passen Sie auf!« hauchte Harst. »Ich ziehe an dem
 Draht —«
 
-Kaum halte er es ausgesprochen, als abermals dieses
+Kaum hatte er es ausgesprochen, als abermals dieses
 jämmerliche Kreischen ertönte.
 
 Dann Harsts Stimme: »Fort von hier! Mir nach,
@@ -357,7 +357,7 @@ recht genau alles erkennen konnte.
  
 Harst faßte mich unter. »Schraut, wir haben riesiges
 Glück gehabt. Wir können mehr als zufrieden sein,«
-flüsterte er. »Und alles nur, weil ich zu beobachtet verstehe,
+flüsterte er. »Und alles nur, weil ich zu beobachten verstehe,
 weil jener Luck, als er das Herrenzimmer verließ,
 den Hut des anderen, zuletzt erschienenen Gastes mitnahm,
 der ihm ganz unauffällig beim Eintritt in die Stube zugeplinkt
@@ -369,7 +369,7 @@ Absicht, daß er diesen vom Kleiderriegel herablangte. Und
 der Zweck dieses Hutaustausches? — Es gibt da nur eine
 Erklärung: In dem Hut ohne Stutz steckte eine Mitteilung
 für Luck — ein Zettel! — Und weil somit zwischen diesen
-Männern‚ die sich nicht zu kennen schienen, doch fraglos
+Männern, die sich nicht zu kennen schienen, doch fraglos
 eine sehr vertraute Verbindung besteht, weil ferner der
 andere sich warmes Essen geben ließ und vorläufig also
 nicht wieder fort wollte, schlich ich dem Luck nach. —
@@ -402,7 +402,7 @@ Er ging auf die Tannen zu mit schlurfenden Schritten.
 Wir stießen jetzt auf kein Hindernis. Dann bahnten wir
 uns durch die Zweige einen Weg und betraten nun eine
 kleine Lichtung, in deren Mitte sich ein Hügel erhob, in
-dem man erst nach geraumerem Hinsehn die unkrautüberwucherte
+dem man erst nach genauerem Hinsehn die unkrautüberwucherte
 Ruine erkannte. Von der früheren Burg
 war als Mauerwerk nur noch der Unterteil des nördlichen
 Eckturmes bei dieser unsicheren Beleuchtung zu unterscheiden.
@@ -456,7 +456,7 @@ und die Schlinge schob, so daß der Draht hier nicht mehr
 gefährlich werden konnte. Inzwischen hatte der Gendarm
 mit seinem Taschenmesser den straff gespannten Draht,
 der etwa in Richtung auf den Turm zu weiterlief, durchzusägen
-begonnen. Es gelang ihm gut. Plötzlich war
+begonnen. Es gelang ihm auch. Plötzlich war
 Harst frei, stand auf, sagte kläglich:
 
 »Na — von diesem Abenteuer habe ich übergenug!
@@ -491,7 +491,7 @@ Harst sich die Wunden mehrmals ausgesaugt hatte,
 verteilten der Gendarm und die beiden anderen sich auf
 die Nordhälfte der Lichtung und ließen die Strahlenkegel
 ihrer Taschenlampen überallhin fallen. Sie trugen
-sie vorsichtshalber in der Linken, in der rechten aber
+sie vorsichtshalber in der Linken, in der Rechten aber
 ihre gespannten und entsicherten Büchsen. Doch — sie
 fanden weder irgend etwas Auffälliges, noch ereigneten
 sich neue aufregende Zwischenfälle.
@@ -503,13 +503,13 @@ es schadet nichts! Wir sind nun gewarnt, wissen,
 mit wie rücksichtslosen Leuten wir es zu tun haben. Wir
 werden im Notfall ebenso rücksichtslos sein. Wurst wider
 Wurst!« Dann lachte er leise auf. »Der Ritter Jürgen
-war gottvoll! Haben Sie gesehen, daß sein Helm ein modernerer
+war gottvoll! Haben Sie gesehen, daß sein Helm ein moderner
 <@pagebreak/>
 Infanteriehelm war? Die Rüstung dagegen schien
 echt zu sein. Ich hörte die Schrote des Schusses des braven
 Wachtmeisters auf Metall aufschlagen. Er hätte mit einer
 Kugel schießen sollen. Das wäre wirksamer gewesen. Aber
-er wollte wohl den Herrn Geist nur »ankratzen«, — Eine
+er wollte wohl den Herrn Geist nur »ankratzen«. — Eine
 tolle Nacht, Schraut! Ich bin gespannt, wie die Sache
 sich weiterentwickeln wird. — Was mag aus Luck geworden
 sein? Ich fürchte fast, hier hat heute jemand sein
@@ -540,7 +540,7 @@ und Gruber sind eingeweiht. Des Wachtmeisters
 Ausruf aber »die verfluchte Ruine!« scheint mir darauf
 hinzudeuten, daß Luck und sein Kollege die Ruine ständig
 überwacht haben und daß Luck seinen Kollegen ablösen ging.
-Wir werden ja bald herausbringen, ob ich Recht habe.«
+Wir werden ja bald herausbringen, ob ich recht habe.«
 
 Er wollte noch weiter sprechen. Aber in demselben
 Augenblick sahen wir von Süden her sehr eilig einen
@@ -549,7 +549,7 @@ Mann auf uns zukommen.
 »Ah — es ist Lucks Kollege!« flüsterte Harst.
 
 Der, der jetzt Lucks Hut mit Federstutz trug, war
-ein kleiner, schlanker Mann mit blondem Schnurrbart
+ein kleiner, schlanker Mensch mit blondem Schnurrbart
 und Hornkneifer. Seine Bewegungen verrieten Kraft und
 Gelenkigkeit.
 
@@ -574,7 +574,7 @@ mit ihrer mächtigen Krone die Tannen verdeckte, und sagte:
 »Ein kolossaler Baum. — Wie alt schätzen Sie ihn? —
 Ich glaube, hundert Jahre mindestens.«
 
-Gleich darauf gesellten ich die vier anderen zu uns.
+Gleich darauf gesellten sich die vier anderen zu uns.
 Sie waren sehr schweigsam und bedrückt.
 
 Der Gendarm bat uns dann, nach dem Dorfe zu
@@ -585,7 +585,7 @@ im Auto alles hierher.« — Das genüge, meinte er.
 Der Oberwachtmeister wisse schon Bescheid.
 
 Wir verließen sofort das Gehölz und wanderten
-nach Blinkenstein zurück, Harst sagte unterwegs: »Sie
+nach Blinkenstein zurück. Harst sagte unterwegs: »Sie
 wollen die Ruine ganz genau durchsuchen. Vielleicht besitzt
 der Oberwachtmeister einen Polizeihund. — Sie werden
 nichts finden. Leute, die so raffiniert sind wie diese
@@ -594,7 +594,7 @@ verwindenden Drahtschlingen arbeiten, werden sich
 auch vor einem dressierten Köter zu schützen wissen.«
 
 Dann blieb er stumm und nachdenklich. Nachher
-als wir unseren Auftrag erledigt haften, setzten wir uns
+als wir unseren Auftrag erledigt hatten, setzten wir uns
 noch in das Herrenzimmer des Dachsbaus und plauderten
 <@pagebreak/>
 mit Grubers erwachsener Tochter Anna, die sich ganz
@@ -622,8 +622,8 @@ Plötzlich errötete sie jäh. Ihr kam zum Bewußtsein,
 was sie soeben halb und halb verraten hatte. Sie stand
 schnell auf, ging unter einem Vorwand hinaus.
 
-Hart neigte sich über eine Zeitung, tat als deute er
-auf bestimmte Stelle, beugte sich weit vor dabei und
+Harst neigte sich über eine Zeitung, tat als deute er
+auf eine bestimmte Stelle, beugte sich weit vor dabei und
 flüsterte:
 
 »Eifersucht! Ohne Frage! — Sehr wichtig, Schraut.
@@ -696,7 +696,7 @@ und dabei sein Pfeifchen rauchte. Harst blieb bei
 ihm stehen.
 
 »Langweiliges Geschäft, wat? Sie müss’n hier schon
-’ne ganze Zeit den Wegdoktor spielen, Vaterken, denn sie
+’ne ganze Zeit den Wegdoktor spielen, Vaterken, denn Sie
 haben schon ’n gehör’ges Stück geschafft.«
 
 Der Alte war froh, etwas Zerstreuung zu finden.
@@ -758,7 +758,7 @@ ein Pfiff aus der Schonung links vom Wege ertönt,
 worauf der Wagen endlich weiterfuhr. — Auch auf all
 dies hätten die Beamten nichts gegeben. —
 
-So lieber Schraut, — muß ich nun auch noch das
+»So lieber Schraut, — muß ich nun auch noch das
 Letzte aufzählen?! — Denken Sie doch mal scharf nach.
 Wir haben ja schon eine Menge Material zusammen.«
 
@@ -856,11 +856,11 @@ Der Maler versuchte alles Mögliche, Harst umzustimmen.
 Ich merkte, daß er uns von hier entfernen
 wollte. Aber Harst tat, als fürchte er sich davor, bei
 Tage die Strecke freies Feld bis zum Dorf zu passieren.
-schließlich zogen die drei ab.
+Schließlich zogen die drei ab.
 
 Harst lief ihnen dann nach. Sie waren schon ein
 ganzes Stück weg. Als er zurückkam, reichte er mir
-eine Zigarre. — »Ick hab vier Stick ergaunert,« sagte
+eine Zigarre. — »Ick hab’ vier Stick ergaunert,« sagte
 er. Später merkte ich, daß er lediglich hatte feststellen
 wollen, ob die drei sich auch wirklich entfernten.
 
@@ -904,7 +904,7 @@ auf eine andere, heimtückischere und vielleicht noch sicherere
 Art ins Jenseits spediert worden. Wenn ich den Ausdruck
 soeben gebrauchte, »er arbeitet schwer,« so meine
 ich nicht etwa eine künstlerische Tätigkeit. Nein, lieber
-Schraut, — er beschäftigte sich mit Schaufel und Spitzhacke.
+Schraut, — er beschäftigt sich mit Schaufel und Spitzhacke.
 Haben Sie nicht unter den Tannen neben der
 Ruine überall Mauersteintrümmer und Erde bemerkt,
 die anders geartet sind als die der Ruine und des Boden
@@ -916,7 +916,7 @@ nach einem Schatz, Herr Harst.«
 »So was Ähnliches, Schraut. Warten Sie ab, Ihnen
 werden schon noch die Augen vollends aufgehen! —
 Um nun »unseren« Fall, das heißt das Verschwinden der
-Komtesse, schnell restlos aufzuklären, werden sie morgen
+Komtesse, schnell restlos aufzuklären, werden Sie morgen
 unter einem Vorwand das Haus unserer freundlichen Gastgeber
 für einen Tag verlassen und wieder als Güteragent
 folgendes erledigen. Sie sollen nach dem Städtchen Garz,
@@ -946,7 +946,7 @@ ja die Villa vor uns. Beachten Sie, daß von hier ein
 recht ausgetretener Pfad nach der hinteren Gartenpforte
 läuft. Die Leutchen wandern diesen Weg also sehr oft
 entlang. Und nun — Vorsicht, Schraut. Wir sind
-Strolche, nichts weiter, reden Sie selbst fast nichts. Ich
+Strolche, nichts weiter. Reden Sie selbst fast nichts. Ich
 <@pagebreak/>
 werde wieder die Unterhaltung führen. In der folgenden
 Nacht kann die Bande nichts unternehmen. Die Gendarmen
@@ -1028,7 +1028,7 @@ er lebe ganz zurückgezogen nur seinen Studien.«
 »So so — dann ist ja alles beieinander! Lieber
 Schraut, ich bin sehr zufrieden mit Ihnen — sehr! —
 Der Fall ist erledigt — gänzlich, restlos. Ich könnte
-sofort zum Grafen gehen und ihm sagen, wie seine
+jetzt sofort zum Grafen gehen und ihm sagen, wie seine
 Tochter beseitigt wurde.«
 
 »Aber — aber der Herbert Uhlich sieht wirklich nicht
@@ -1122,7 +1122,7 @@ Weiter kam er nicht. Eine laute Stimme ertönte
 von der Ruine her — drohend, scharf:
  
 <@pagebreak/>
-»Rühren Sie ich nicht, oder — Sie sind im nächsten
+»Rühren Sie sich nicht, oder — Sie sind im nächsten
 Moment eine Leiche! Sie bieten ein glänzendes Ziel,
 und ich schieße nie vorbei!«
 
@@ -1163,7 +1163,7 @@ einem seltsamen Gurgeln erstickte.
 
 Da schnellte Harst hoch, stürmte vorwärts. Ich ihm
 nach. Aber — kaum hatte er einen Sprung gemacht,
-als er der Länge nach hin schlug. Und ich fiel genau
+als er der Länge nach hinschlug. Und ich fiel genau
 neben ihn. Ich suchte mich aufzurappeln. Doch seine
 Hand legte sich schwer auf meine Schulter, die andere
 verschloß mir den Mund.
@@ -1193,7 +1193,7 @@ greifen war, raunte mir zu: »Dort hinauf. Aber — nicht
 zu heftig den Ast bewegen.«
 
 Abermals half er mir, so daß ich nun als erster
-dort auf der Eiche im Reitsitz las. Das weitere war
+dort auf der Eiche im Reitsitz saß. Das weitere war
 nicht schwierig. Wir kletterten höher in die Krone hinauf,
 bis wir uns etwa vier Meter über der untersten
 Astgabel befanden.
@@ -1237,7 +1237,7 @@ Harst flüsterte weiter: »Lassen wir zehn Minuten
 verstreichen. Dann ihnen nach. Und dann — werden
 unsere Pistolen sprechen, falls auch nur einer dieser Mordgesellen
 Miene zum Widerstand macht. — Na, lieber
-Schraut, wissen Sie um, um was es sich hier handelt?
+Schraut, wissen Sie nun, um was es sich hier handelt?
 — Nicht um Schätze, die die Ruine birgt. Nein —
 um des Grafen wertvollste Gemälde und altertümliche
 Goldsachen, die ja insgesamt einen Wert von über einer
@@ -1283,10 +1283,10 @@ des Baumes. Ich klettere voran.«
 
 * * *
 
-Der Abstieg bot keine Schwierigkeiten. Nun fanden
-wir in einem gemauerten, feuchten, leiterähnlichen
+Der Abstieg bot keine Schwierigkeiten. Nun standen
+wir in einem gemauerten, feuchten, kellerähnlichen
 Raum. An der einen Seite bemerkten wir Kisten, Weidenkörbe,
-Spaten, Haken und eine elektrische Batterie, deren
+Spaten, Hacken und eine elektrische Batterie, deren
 Drähte in den nach Südost zu verlaufenden Gang hineinführten.
 An der anderen lag ein Haufen leerer Säcke.
 Als Harst ein paar davon aufhob prallte ich entsetzt
@@ -1311,7 +1311,7 @@ Noch zwei solcher Stellen fanden wir. — »Sie haben
 harte Arbeit gehabt,« flüsterte Harst.
 
 Abermals verstrichen Minuten. Dann bog der bisher
-nur gerade verlaufende Gang in scharfem Winkel
+schnurgerade verlaufende Gang in scharfem Winkel
 nach rechts ab. Harst war jetzt sorgloser geworden. Plötzlich
 griff er nach der rechten Seite, riß etwas herab,
 packte mich, zerrte mich zu Boden. »Hinlegen!« keuchte er.

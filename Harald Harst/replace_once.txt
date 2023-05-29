@@ -1,10 +1,11 @@
  =	—
 [-—]“[-—]	—
+[-—]“[-—]	—
+°	«
 °	«
 !1	!!
 …1	…!
 1!	!!
-t!	!!
 2!	?!
 \b309\b	zog
 \bAch\b	Ich
@@ -15,8 +16,14 @@ t!	!!
 \b[bdh]in\s[nu][nu]d\s[bdh]er\b	hin und her
 \bBieter\b	Meter
 \bden!	dem
+\bden!	dem
+\bdien\b	dicken
 \bdien\b	dicken
 \b(\d+)[l1i]en\b	$1ten
+\b(\d+)[l1i]en\b	$1ten
+\bdor!\b	dort
+\bdurchs\b	durch
+\bdürsten\b	dürften
 \bdürsten\b	dürften
 \bElement\b	Clement
 ^ben	den
@@ -43,14 +50,22 @@ t!	!!
 \bMr\s	Mr. 
 \bMrs,	Mrs.
 \bMrs\s	Mrs. 
+\bNaht\b	Nacht
+\bnaß\b	nach
 \bnich!\b	nicht
 \bnicke\b	nickte
 \bober\b	oder
 \bSähe\b	Sätze
+\bSähe\b	Sätze
 \bSaß\b	Satz
+\bSaß\b	Satz
+\bSchrau!	Schraut
+\bSchrau!	Schraut
+\bSeht\b	Jetzt
 \bSeht\b	Jetzt
 \bsic\b	sie
 \bSiek\b	Sie?
+\bstete\b	steckte
 \bTeich!\b	leicht
 \bTer\b	Der
 \btieſ	tief
@@ -78,4 +93,6 @@ scj	sch
 si[cd]\)	sich
 …\sk\b	…?
 ßz	tz
+t!	!!
+t!	!!
 tß	tz

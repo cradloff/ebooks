@@ -25,7 +25,7 @@ Harst spielte noch immer Säugling. Nun zeigte er mir aber seinen Finger, und da
 
 »Ich komme mit!« rief ich äußerst befangen. »Ich werde den Wundschnitt ausführen …«
 
-»Nein, nein … Sieh’ besser zu, ob du noch irgendwo Spuren von dem Lumpenkerl findest, der uns aus diese heimtückische Art hat morden wollen …
+»Nein, nein … Sieh’ besser zu, ob du noch irgendwo Spuren von dem Lumpenkerl findest, der uns auf diese heimtückische Art hat morden wollen …
 
 Er eilte davon …
 
@@ -57,9 +57,9 @@ Ich war wieder mal gelehriger Schüler und eifriger Helfer. Schon eine halbe Stu
 
 Und dann, ein viertel eins war’s, kam Mathilde, die Köchin, hereingestampft und überreichte Harald eine Besuchskarte:
 
-<p class="centered">Georg Dennelitz,<br />
+<p class="centered">Georg Dennelitz,</p>
 
-Generaldirektor,</p>
+<p class="centered">Generaldirektor,</p>
 
 <p class="right">Berlin W. 86</p>
 
@@ -79,7 +79,7 @@ Schäbig!!
 
 Aber eine hohe sehnige Stirn, eine Kinnpartie — — alle Achtung!!, und eine Nase, scharf, ein wenig gekrümmt, und … Augen, nußbraun, halb zugekniffen, unheimlich lebendig, unheimlich stechend … Und eine Stimme — kalt und selbstbewußt, herrisch, fast frech …
 
-»Generaldirektor Dennelitz …,« stellte er sich vor und machte nicht mal die Andeutung zu einer Verbeugung. »Ich darf mich setzen, Herr Harst … Mein Name ist Ihnen bekannt??
+»Generaldirektor Dennelitz …,« stellte er sich vor und machte nicht mal die Andeutung zu einer Verbeugung. »Ich darf mich setzen, Herr Harst … Mein Name ist Ihnen bekannt?«
 
 Ich — war Luft für ihn …
 
@@ -176,7 +176,7 @@ Gleich darauf verabschiedete er sich. Zu Fuß schritt er eilends davon, er, der 
 
 <h3>Der Schornstein.</h3>
 
-Er sagte das in müdem, versonnenem Tone, und seine Augen blickten durch das rechte Fenster aus die stille Blücherstraße hinaus, wo gerade ein Autolastzug, mit Baumaterial hoch bepackt, vorbeiratterte. Unsere Fensterscheiben klirrten, das ganze Haus schwankte, und — — in Haralds Gesicht trat ein gequälter Zug. Ich wußte, gerade dieser moderne Lärm dieser Benzinfuhrwerke war ihm eine Pein!
+Er sagte das in müdem, versonnenem Tone, und seine Augen blickten durch das rechte Fenster auf die stille Blücherstraße hinaus, wo gerade ein Autolastzug, mit Baumaterial hoch bepackt, vorbeiratterte. Unsere Fensterscheiben klirrten, das ganze Haus schwankte, und — — in Haralds Gesicht trat ein gequälter Zug. Ich wußte, gerade dieser moderne Lärm dieser Benzinfuhrwerke war ihm eine Pein!
 
 »Geschickt verstellt … Und doch eine Frauenschrift — unverkennbar,« fügte er hinzu. »Eine Frau, die sich die größte Mühe gegeben hat, schlichte steile Buchstaben dick hinzuhauen. Sie hätte nur nicht die Worte »Germany« und »Berlin« unterstreichen sollen. Diese feinen Striche mit den Schnörkeln am Anfang und Ende verraten ihr Geschlecht.«
 
@@ -196,11 +196,11 @@ Inzwischen hatte ich den Namen Dennelitz gefunden.
 
 Da stand — und ich las vor:
 
-> »Dennelitz, Anna, Halensee, Trakehner Str. 15.<br />
+> »Dennelitz, Anna, Halensee, Trakehner Str. 15.
 
-—, Ernst, Dr. phil., Privatgelehrter.<br />
+> —, Ernst, Dr. phil., Privatgelehrter.
 
-—, Irma, Malerin, — —«
+> —, Irma, Malerin, — —«
 
 Im übrigen gab es in Berlin außer dem Generaldirektor und den Seinen niemanden dieses Namens.
 
@@ -230,7 +230,7 @@ Ich hob die Schultern.
 
 »Hm, das leuchtet mir nicht ein. Der Daumenabdruck auf der Rinde kann ja auch von der rechten sein.«
 
-Harst lachte kurz auf. »Brechen wir diese Erörterungen vorläufig ab. Jedenfalls: der Briefumschlag hat noch eine andere Bedeutung. Schau’ dir den Stempel an … Eine plumpe Fälschung! Der Brief hat Indien nie gesehen. Die Infizierung des leeren Papierblattes wäre ja auch durch eine Reifedauer oder Beförderungszeit von nur zwei Wochen so gut wie wirkungslos geworden. Das sagte ich mir sofort, als ich die verdächtigen Flecke an Dennelitz’ Fingern sah. Gewiß — ich bin vorsichtig gewesen, habe Zettel und Umschlag geplättet<@refnote 1/>. Trotzdem: der Brief ist hier in Berlin »angefertigt« und durch einen falschen oder bestochenen Postbeamten dem Generaldirektor ausgehändigt worden, als die Leprakeime noch ganz frisch waren.«
+Harst lachte kurz auf. »Brechen wir diese Erörterungen vorläufig ab. Jedenfalls: der Briefumschlag hat noch eine andere Bedeutung. Schau’ dir den Stempel an … Eine plumpe Fälschung! Der Brief hat Indien nie gesehen. Die Infizierung des leeren Papierblattes wäre ja auch durch eine Reisedauer oder Beförderungszeit von nur zwei Wochen so gut wie wirkungslos geworden. Das sagte ich mir sofort, als ich die verdächtigen Flecke an Dennelitz’ Fingern sah. Gewiß — ich bin vorsichtig gewesen, habe Zettel und Umschlag geplättet<@refnote 1/>. Trotzdem: der Brief ist hier in Berlin »angefertigt« und durch einen falschen oder bestochenen Postbeamten dem Generaldirektor ausgehändigt worden, als die Leprakeime noch ganz frisch waren.«
 
 »Nun ja …,« nickte ich, »das ist durchaus beweiskräftig, zugegeben! Aber — wo der Beweis, daß Doktor Fritz Dennelitz lebt und sowohl das Rosendornenattentat auf uns sowie das noch abscheulichere auf seinen Bruder ausgeführt hat, — zumal du vorhin behauptest, die Adresse habe eine Frau geschrieben …«
 
@@ -372,7 +372,7 @@ Dieses Mikrophon samt dem Zubehör, Taschenbatterien und so weiter, hatte Marx m
 
 »Kann sein,« nickte ich. Meine Gedanken waren anderswo. — »Harald, gestatte eine Frage … Hältst du wirklich Doktor Fritz Dennelitz für den Anstifter des satanischen Planes, das Riesenvermögen …«
 
-»… — nein, nein, mein Alter. Jetzt weiß ich ganz bestimmt, daß der Doktor nicht in Betracht kommt, sondern daß nur der Verdacht auf ihn gelenkt werden sollte … Daher wurde auch Albrecht Marx zu uns geschickt. Deshalb wurden auf der Rinde der Rosenäste absichtlich die Daumenabdrücke mit den drei Narben und derselbe Abdruck auf dem Briefumschlag hervorgerufen. Der Blonde hatte ja eine Zeichnung mit, nach der er die Narben dem Winkelkonsulenten beibrachte. Also wieder ein Beweis, mit welch’ raffinierten Mitteln der wahre Täter arbeitet. Ich bin überzeugt: Doktor Dennelitz lebt, und er hat auch bestimmt diese Narben am linken Daumen. Aber all das ist vorläufig blasse Theorie. Es wird Zeit, daß wir zur Praxis übergehen … — Hallo, ein Postbote … Da — er kommt durch den Vorgarten … mit einem Rohrpostbrief … Nimm ihm den Brief ab und bringe den jungen Menschen mit herein. Es wäre vielleicht ratsam, ihn genauer auf den Zahn zu fühlen. Denke an den gefälschten Einschreibebrief aus Allahabad!!«
+»… — nein, nein, mein Alter. Jetzt weiß ich ganz bestimmt, daß der Doktor nicht in Betracht kommt, sondern daß nur der Verdacht auf ihn gelenkt werden sollte … Daher wurde auch Albrecht Marx zu uns geschickt. Deshalb wurden auf der Rinde der Rosenäste absichtlich die Daumenabdrücke mit den drei Narben und derselbe Abdruck auf dem Briefumschlag hervorgerufen. Der Blonde hatte ja eine Zeichnung mit, nach der er die Narben dem Winkelkonsulenten beibrachte. Also wieder ein Beweis, mit welch’ raffinierten Mitteln der wahre Täter arbeitet. Ich bin überzeugt: Doktor Dennelitz lebt, und er hat auch bestimmt diese Narben am linken Daumen. Aber all das ist vorläufig blasse Theorie. Es wird Zeit, daß wir zur Praxis übergehen … — Hallo, ein Postbote … Da — er kommt durch den Vorgarten … mit einem Rohrpostbrief … Nimm ihm den Brief ab und bringe den jungen Menschen mit herein. Es wäre vielleicht ratsam, ihm genauer auf den Zahn zu fühlen. Denke an den gefälschten Einschreibebrief aus Allahabad!!«
 
 Ich eilte in den Flur.
 
@@ -451,8 +451,6 @@ Keine Seele erscheint …
 Die Fensterladen sind geschlossen …
 
 Hinter dem Hause hervor erscheint ein buckliger alter Mann, abgerissen, ärmlich, eine Nickelbrille schief auf der blauroten Nase, in der Linken einen Fuchsschwanz, eine Säge.
-
- 
 
 <h2>4. Kapitel.</h2>
 

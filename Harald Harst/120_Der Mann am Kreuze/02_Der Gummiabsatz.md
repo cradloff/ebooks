@@ -11,7 +11,7 @@ Wir drei, Exzellenz und Polizeidirektor Smarly in
 Sesseln um einen Tisch herum.
 
 Harst erzählt, was wir erlebt haben: Goddlears Depesche,
-Apfelbotschaft, Eisenbahnattentat, die geliehene Draisine
+Apfel-Botschaft, Eisenbahnattentat, die geliehene Draisine
 — und so weiter. Alles der Reihe nach. Nur den
 letzten Brief und die Photographie verschweigt er, was mich
 etwas in Erstaunen setzt.
@@ -76,10 +76,10 @@ angeordnet werden! — Und Manga Dari?«
 Der Rest des Tages verlief ruhig. Wir holten den
 versäumten Schlaf nach, taten Godwins Küche alle Ehre
 <@pagebreak/>
-an und erhielten abends gegen sieben durch Exzellenz Adjutant
+an und erhielten abends gegen sieben durch Exzellenz’ Adjutant
 die Einladung zur Tigerjagd. —
 
-Indische Tigerjagden vom Rückenteil eines Elefanten
+Indische Tigerjagden vom Rückenkorb eines Elefanten
 aus sind so oft schon in Bildern gezeigt und beschrieben
 worden, daß ich den Leser hier damit nicht langweilen will.
 Ich bin auch nicht Jagdschriftsteller.
@@ -93,7 +93,7 @@ Treiber. Am Abend wurde ein großes Zeltlager aufgeschlagen,
 dicht am Dschungelrande.
 
 Vierundzwanzig Europäer waren wir insgesamt, darunter
-achtzehn Offiziere …
+achtzehn Offiziere.
 
 Gegen zehn Uhr wurde es still im Lager.
 
@@ -110,7 +110,7 @@ Eine ungeheure Glutwelle lagerte über dem Dschungel, der
 Buschwildnis.
 
 Schwärme von Mücken und Garabis, den indischen
-Stechfliegen stürzten sich auf das Lager. Überall qualmten
+Stechfliegen, stürzten sich auf das Lager. Überall qualmten
 Feuer.
 
 Wir beide saßen beim Scheine einer Karbidlaterne,
@@ -133,7 +133,7 @@ Und Harald sagte: »’n Abend, lieber Kollege! Also
 doch noch hier?!«
 
 Jack Patarlagon, Privatdetektiv aus Bombay, grunzte:
-»Leider wieder hier! Verdammt flaue Zeit hier für unsereiner,
+»Leider wieder hier! Verdammt flaue Zeit hier für unsereinen,
 Mr. Harst. Da greift man nach dem Strohhalm, um
 Geld zu machen!«
 
@@ -214,7 +214,7 @@ Harst turnte plötzlich an der Holztür empor, schlüpfte
 oben durch die Eisenstäbe, sprang jenseits hinab und schob
 die Eisenriegel fort.
 
-Wir traten ein: Taschenlampen blitzten. In einer
+Wir traten ein. Taschenlampen blitzten. In einer
 Hürde bewegte sich Vieh. Ziegen meckerten uns an.
 
 Und — in dem Lehmhause fanden wir den Inder nebst
@@ -421,7 +421,7 @@ wäre.
 
 Immerhin — wir bekamen Püffe, die nicht eben
 schmerzlos waren, und Jack und Goddlear fielen so unglücklich,
-daß sie sich die Handgelenke böse verknackten.
+daß sie sich die Handgelenke böse verknacksten.
 
 Wir vier lagen also nun in etwa fünfzehn Meter Tiefe
 in der nicht eben weiten Felsspalte, die nur einen Vorzug
@@ -599,7 +599,7 @@ die Reiter, die langsam aus der Grotte ins Freie kamen:
 ein Herr im Sportanzug und ein junges blondes Weib,
 gleichfalls im praktischen Reitkostüm.
 
-Ein hübsches Weib. Madonnenscheitel, Unschuldsaugen:
+Ein hübsches Weib. Madonnenscheitel, Unschuldsaugen
 und mit einem süßen Lächeln um die etwas sinnlichen
 Lippen.
 
@@ -703,7 +703,7 @@ Fünf Minuten später finden wir im Sande die Spuren
 von vier Männern.
 
 »Aha — und nordwärts geht’s! Dorthin, wo das auf
-der Apfelbotschaft erwähnte Steinkreuz stehen dürfte. —
+der Apfel-Botschaft erwähnte Steinkreuz stehen dürfte. —
 Dieses Kreuz spielt eine große Rolle hier, mein Alter. Es
 ist das Golgatha der Sektierer, ihr heiliger Versammlungsort.«
 
@@ -966,7 +966,7 @@ Jack und Godwin ihre Handgelenke massieren und kühlen.
 
 Es gibt ein großes Hallo bei unserem Eintreffen.
 Goddlear ist rein aus dem Häuschen — flucht, weil er nicht
-dabei gewesen, alles Harald den Tiger schoß.
+dabei gewesen, als Harald den Tiger schoß.
 
 Befühlt das Fell.
 
@@ -1062,7 +1062,7 @@ Wir sehen die tropische Nacht herbeidämmern. Der
 Dschungel erwacht. Fast lautlos traben unsere Tiere über
 weichen Boden hin.
 
-Diese Dschungeln der Chenab-Niederung sind berühmt.
+Diese Dschungel der Chenab-Niederung sind berühmt.
 Hier hausen noch wilde Elefanten in starken Rudeln. Hier
 in der größtenteils undurchdringlichen Wildnis mit weiten
 Sumpfstrecken lebt der gepanzerte Sumpfbüffel, der sich
@@ -1090,7 +1090,7 @@ Rittes, sagt Harald leise:
 
 »Zu Ende?«
 
-»Ja. Der Gummiabsatz war ein Versehen: von mir!«
+»Ja. Der Gummiabsatz war ein Versehen von mir!«
 
 Ich verstehe den Freund nicht.
 
@@ -1187,7 +1187,7 @@ auf sie herabgerieselt ist. —
 
 Harst nimmt Maria bei der Hand.
 
-Wir gehen dem Zelte zu …
+Wir gehen dem Zelte zu.
 
 Exzellenz erhebt sich, reicht uns zum Gruße die schmale
 Rechte.
@@ -1321,7 +1321,7 @@ die schuftigen Brahmanen, Sie könnten es, wenn Sie
 wollten!«
 
 »Nein,« erwidert Harald sehr bestimmt. »Das könnte
-ich nicht, mein lieber Godwin: Sobald es sich um eine
+ich nicht, mein lieber Godwin. Sobald es sich um eine
 Glaubensgenossenschaft handelt, gegen deren Obere man
 vorgehen will, sticht man in ein Wespennest. Das hat die
 Kriminalgeschichte aller Zeiten und Länder längst bewiesen.
@@ -1499,6 +1499,6 @@ Problem:
 
 *Tawa Barru, der Verrückte.*
 
-Nächster Band:
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Tawa Barru, der Verrückte."/>
 
-__Tawa Barru, der Verrückte.__
