@@ -100,7 +100,7 @@ Auf der dritten Stufe von unten liegt dort, wo der Läufer links aufhört, eine 
 
 Harst geht behutsam dorthin, winkt mir flüchtig zu, stehenzubleiben, und beleuchtet die Zigarre mit der Taschenlampe, beleuchtet die Umgebung, hebt die Zigarre auf, führt sie an die Nase und legt sie dann in seine Brieftasche.
 
-Sein bisheriges Phlegma ist plötzlich einer klar durchdachten Geschäftigkeit gewichen, gerade als ob die Zigarre seinen Geist angeregt hätte. Er kriecht über den fadenscheinen Teppich nach der Tür hin, wo der tote Schimpanse liegt, hat dabei die Taschenlampe im Munde, zeigt mir aus der Entfernung verschiedene frische Bluttropfen und macht bei dem Affen halt, betastet den Körper, erhebt sich geht nun ohne Zögern auf eine der vier Türen zu, die hier unten in der Vorhalle in die Erdgeschoßräume führen.
+Sein bisheriges Phlegma ist plötzlich einer klar durchdachten Geschäftigkeit gewichen, gerade als ob die Zigarre seinen Geist angeregt hätte. Er kriecht über den fadenscheinen Teppich nach der Tür hin, wo der tote Schimpanse liegt, hat dabei die Taschenlampe im Munde, zeigt mir aus der Entfernung verschiedene frische Bluttropfen und macht bei dem Affen halt, betastet den Körper, erhebt sich und geht nun ohne Zögern auf eine der vier Türen zu, die hier unten in der Vorhalle in die Erdgeschoßräume führen.
 
 Die Tür geht auf.
 
@@ -546,19 +546,19 @@ Der Handwagen ist das einzige, was wir noch erwischen. Wir nehmen ihn mit.
 
 Auf dem Hofe wirft Harald die Papierbündel heraus …
 
-Unter diesen finden wir eine wirre Masse dünnem isolierten Draht, Batterien und einen Telephonapparat.
+Unter diesen finden wir eine wirre Masse dünnen isolierten Draht, Batterien und einen Telephonapparat.
 
 »Aha — angezapft!« meint Harald. »Das Weib hat sicherlich auf dem Feldweg gestanden und Ihr Telephongespräch belauscht, lieber Gernapp. Deshalb kniffen die Spione aus. Nun haben wir vorläufig das Nachsehen — vorläufig! Natürlich wird auch Frau Schmidt auf und davon sein. Schadet nichts!«
 
 »Das sagen Sie!!« Der Kriminalrat ist sichtlich verstimmt. »Sie haben keine Vorgesetzten und …«
 
-»… und ich sage Ihnen, Gernapp, daß diese Wendung die Dinge nur rascher zur Entscheidung treibt und daß ich mich dafür verbürge, die Bande dingfest zu machen. Sie ahnten nicht, daß die Schmidt und der Reschke ein und dieselbe Person waren und daß …
+»… und ich sage Ihnen, Gernapp, daß diese Wendung die Dinge nur rascher zur Entscheidung treibt und daß ich mich dafür verbürge, die Bande dingfest zu machen. Sie ahnten nicht, daß die Schmidt und der Reschke ein und dieselbe Person waren und daß …«
 
 Stoppte da …
 
 Sein Gesicht veränderte sich jäh …
 
-»Satansbrut! rief er, packte das eine Zeitungsbündel und rannte damit in den Gemüsegarten, warf es von sich und nahm blitzschnell hinter einem Baume Deckung.
+»Satansbrut!« rief er, packte das eine Zeitungsbündel und rannte damit in den Gemüsegarten, warf es von sich und nahm blitzschnell hinter einem Baume Deckung.
 
 Gleich darauf ein dumpfer Knall …
 
@@ -618,7 +618,7 @@ Harst haßt alle Redensarten. Auch in dieser Beziehung kannten ihn die Herren vo
 
 Kommissar Pestrin entschuldigte sich. »Es ist ja nur wegen der verdammten Zeitungen, Herr Harst … Die Mordkommission muß das Vertrauen der Bevölkerung besitzen, — heute mehr denn je, da die Kriminalität beständig wächst.«
 
-Der Kriminalrat saß im Schreibsessel »Reschkes« und machte nun eine ziemlich geringschätzige Geste. »Die Presse, Kollege, hat das M… den Mund zu halten …! Bisher kennen nur wir und Frau Inez Baumert den wahren Sachverhalt. Die Dame wird schweigen. Ich habe es ihr so dringend nahegelegt, daß sie mich wohl verstanden haben wird: Sie kann sich Ungelegenheiten bereiten, wenn sie plaudert. Die Zeitungen haben wir also nicht zu fürchten. Die »öffentliche Meinung« — hm, ja — wird nur erfahren, was ich für gut befinde. Der Fall Reschke bleibt eben ungeklärt sehr einfach!«
+Der Kriminalrat saß im Schreibsessel »Reschkes« und machte nun eine ziemlich geringschätzige Geste. »Die Presse, Kollege, hat das M… den Mund zu halten …! Bisher kennen nur wir und Frau Inez Baumert den wahren Sachverhalt. Die Dame wird schweigen. Ich habe es ihr so dringend nahegelegt, daß sie mich wohl verstanden haben wird: Sie kann sich Ungelegenheiten bereiten, wenn sie plaudert. Die Zeitungen haben wir also nicht zu fürchten. Die »öffentliche Meinung« — hm, ja — wird nur erfahren, was ich für gut befinde. Der Fall Reschke bleibt eben ungeklärt, sehr einfach!«
 
 Harst lehnte am Fenster, hatte die Arme über der Brust gekreuzt und schaute sich wie gelangweilt das nüchterne Zimmer an.
 

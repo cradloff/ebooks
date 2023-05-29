@@ -122,7 +122,7 @@ Derselbe Lange lächelt jetzt überlegen — pfiffig. »Robertchen: Eile mit Wei
 
 »Denn aber fix … Unrecht haste da nich … Valeicht amende findt sich hier wat Brauchbares. Die Olle kann warten …«
 
-Der Lange hatte den Koffer schon geöffnet. Er besaß Uebung darin.
+Der Lange hatte den Koffer schon geöffnet. Er besaß Übung darin.
 
 Der Inhalt enttäuschte die beiden sichtlich. Aus ihrem ganzen Verhalten ging hervor, daß sie von der Schmidt lediglich als Spione benutzt worden waren und jetzt dazu, die bewußte Brasil zu holen.
 
@@ -134,7 +134,7 @@ Aber Joachimke hatte es mit der Bierruhe …
 
 »Die Olle hat uns erst um halb eins bestellt, mein lieber Robert … Die Zigarre haben wir. Und da wir uns hier auf demselben Villengrundstück befinden, das heute abend in den Zeitungen erwähnt worden ist — — Reschke — Mord!!, tut man gut, wenn man …«
 
-»Hör’ auf, du!! Ick türme … Um halber eins an die Ecke Westfälische und Krusen-Straße … — Dort jibt’s die Zechinen — — also los! Hier is ja doch allens nur Bruch … Jeden wir …«
+»Hör’ auf, du!! Ick türme … Um halber eins an die Ecke Westfälische und Krusen-Straße … — Dort jibt’s die Zechinen — — also los! Hier is ja doch allens nur Bruch … Jehen wir …«
 
 »Wenn du meinst, mein lieber Robert …« — und der Lange nahm die Laterne vom Tisch und wandte sich dem Schacht zu.
 
