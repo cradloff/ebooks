@@ -135,7 +135,7 @@ Dies war die erste Bemerkung Haralds über den Fall Garlan seit jener Stunde, da
 
 »Boote?« fragte ich. »Denkst du etwa an Schmuggler?«
 
-»Ja. Die Villa erhebt sich dicht vor der Grenze des polnischen Gebiets, und die Doppelwände können recht gut Verstecke für Pascherwaren<@refnote 4/> sein. — Es ist das natürlich nur eine vorläufige Vermutung von mir. Wahrscheinlich wird sie falsch sein. Aber zunächst finde ich keine bessere Erklärung für die Tatsachen, die Herr Tucholsky uns berichtet hat.«
+»Ja. Die Villa erhebt sich dicht vor der Grenze des polnischen Gebiets, und die Doppelwände können recht gut Verstecke für Pascherwaren<@refnote 4/> sein. — Es ist das natürlich nur eine vorläufige Vermutung von mir. Wahrscheinlich wird sie falsch sein. Aber zunächst finde ich keine bessere Erklärung für die Tatsachen, die Herr Tucholski uns berichtet hat.«
 
 Wir saßen vor dem Kurhause in der Sonne. Alles hier war so friedlich-gemütlich. Ich hätte gewünscht, wir wären hier lediglich zur Erholung abgestiegen. Fischerboote rechts am kleinen Bächlein hauchten kräftigen Teerdunst aus, und graziöse Möwen<@refnote 5/> glitten durch den Sonnenglast wie weiße Rosenfalter …
 
@@ -311,7 +311,7 @@ Jetzt ging Frau Krüger endlich ein Licht auf. »Herr Harrich, Sie … Sie schei
 
 »Nicht wahr, es stimmt … Die Gordon ist sehr mißtrauisch?«
 
-»Herr Harris — — wer sind Sie?!«
+»Herr Harrich — — wer sind Sie?!«
 
 »Verehrteste Frau Krüger, Sie scheinen mich zu überschätzen. Ich habe sehr viel Kriminalromane gelesen und mir sozusagen eine geringe Detektivbegabung angelernt. Das kann jeder, wenn er nicht gerade auf den Kopf gefallen ist. Sie werden doch zugeben, daß meine Vermutung, die Gordon sei mißtrauischer Natur, durch die leise geöffnete Verbindungstür notwendig herbeigeführt werden mußte und daß die zweite Szene hier, Telegramm und Schlüssellochspionage, genauso einfache Folgerungen gewesen sind.« Und er schmunzelte selbstgefällig und fügte mit stark betontem Gefühl für den Wert der eigenen Persönlichkeit hinzu: »Wenn Sie mir über die Gordon noch einiges mitteilen wollten, könnte ich Ihnen vielleicht noch mehr Beweise für meine bescheidene Begabung liefern. Es macht nämlich auf mich ganz den Eindruck, als ob zum Beispiel die häufigen Telephongespräche der Gordon und deren etwas ungeregeltes Leben — sie ist selten daheim, glaube ich, und verreist des öfteren auf kurze Zeit — schon längst den Verdacht in Ihnen erregt hätte, die Amerikanerin könnte doch nicht lediglich zu Studienzwecken sich hier in Danzig aufhalten.«
 
