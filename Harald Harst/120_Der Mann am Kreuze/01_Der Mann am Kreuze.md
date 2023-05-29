@@ -22,7 +22,7 @@ Ich las Detektivinspektor Godwin Goddlears Telegramm:
 > »Soeben finde in Zeitung, daß Sie wieder mal in
 Indien, alter Harst. Sache mit Tennisschläger haben Sie
 glänzend befingert. Gratuliere. Wenn Sie irgend Zeit
-haben, kommen Sie zu mir … Eiligst. Kann Ihnen eine
+haben, kommen Sie zu mir. Eiligst. Kann Ihnen eine
 unglaubliche Geschichte erzählen, deren Hauptmacher übermorgen
 gehängt wird. — Gruß! Goddlear, Lahore.«
 
@@ -246,7 +246,7 @@ vermieden.
 
 »Was hat Ismail denn begangen?« fragte Harald.
 
-»Ah, nur einem Menschen die Kehle durchschnitten.«
+»Ach, nur einem Menschen die Kehle durchschnitten.«
 
 »Und weshalb? Raub?«
 
@@ -440,7 +440,7 @@ Ich möchte Dich retten, denn ich glaube an Deine Schuldlosigkeit.«
 Ismail lächelte erhaben. »Ich bin auch unschuldig,
 Sahib Harst. Aber Du wirst mir kaum helfen können. Bestimmt
 nicht. Im übrigen liegt mir auch nicht allzu viel am
-Leben Sahib. Ich bin jetzt achtzig Jahre alt, und der Tod
+Leben, Sahib. Ich bin jetzt achtzig Jahre alt, und der Tod
 hat keine Schrecken für mich.« Seine Augen erstrahlten
 plötzlich in überirdischem Lichte.
 
@@ -485,7 +485,7 @@ spielte:
 »Du hast nun zugegeben, Ismail, daß Du Feinde hast,
 erbitterte Feinde, die gemein genug von Gesinnung seien, die
 Schuld auf einen anderen aus Niedertracht abzuschieben.
-Und doch hast Du dich geweigert, diese Feinde zu nennen.
+Und doch hast Du Dich geweigert, diese Feinde zu nennen.
 Weshalb?«
 
 Ismail senkte den Kopf und schwieg.
@@ -735,8 +735,7 @@ zeigt der Zettel auf dem Apfel. — Bitte!«
 
 Und er hielt Exzellenz den Zettel und einen Brief hin.
 
-»Allerdings — dieselbe Schrift!« nickte der Gouverneur …
-
+»Allerdings — dieselbe Schrift!« nickte der Gouverneur.
 <@pagebreak/>
 Er schaute Harald an. »Was vermuten Sie, Mr. Harst?«
 
@@ -771,10 +770,10 @@ weit die fruchtbare, von Kanälen durchzogene Ebene.
 
 Alte Prachtbauten schauen aus grünem Laube hervor.
 
-Und an dem Shalimar, dem Haus der Freude, vorüber
+Und an dem Schalimar, dem Haus der Freude, vorüber
 rollt das Auto.
 
-Shalimar — die berühmtesten Gartenanlagen der
+Schalimar — die berühmtesten Gartenanlagen der
 Welt, drei Riesenterrassen mit 450 Springbrunnen.
 
 Ein Wunder in Grün und rotem Sandstein!
@@ -900,7 +899,7 @@ Lahore besucht, entdeckt.
 
 Ganz zufällig.
 
-Sind in verschütteten Palästen dahin gewandelt, auf
+Sind in verschütteten Palästen dahingewandelt, auf
 denen nun die andere Stadt sich erhebt.
 
 Wir haben dort in den Tiefen Wunderbares geschaut
@@ -966,7 +965,7 @@ Blinzelnd starrt die Bestie zu uns hin.
 Schnurrt leise, behaglich nach Katzenart.
 
 Durch den Käfig, der mit gelbem Sande bestreut ist,
-fließt ein Rinnsal, ein Bächlein und verschwindet in einem
+fließt ein Rinnsal, ein Bächlein, und verschwindet in einem
 Loche.
 
 »Den Tiger gab’s vor vier Jahren noch nicht,« meint
@@ -1168,7 +1167,7 @@ der Wand herbei — zwei, vier andere Bestien — irgendwoher
 aus einem Nebenkäfig.
 
 Da zischt in Haralds Fingern das Schwefelharz an der
-Flamme des Hölzchen.
+Flamme des Hölzchens.
 
 Fängt Feuer. Loht auf in seltsam grünem Lichte.
 
@@ -1188,7 +1187,7 @@ Brennt grünlich — hüllt alles ringsum in scheußliche
 Leichenfarbe.
 
 Und unter dem Gitter ein enger Schacht, in dem das
-Wasser sprudelnd abwärts gleitet.
+Wasser sprudelnd abwärtsgleitet.
 
 »Hinein!« mahnt Harald.
 
@@ -1430,7 +1429,7 @@ Gegen ein Uhr begrüßten wir Godwin Goddlear auf
 der Veranda seines Bungalows.
 
 Der dürre Godwin kam uns entgegengelaufen — bis
-zur Treppe …
+zur Treppe.
 
 »Endlich — endlich!!« rief er. »Ich sitze hier schon
 wie auf Kohlen! — Sie ahnen ja nicht, was passiert ist.
@@ -1591,7 +1590,7 @@ zehn Minuten nach dem Tode!!
 Merkwürdig!! —
 
 Harst flüsterte Goddlear etwas zu. Und der Inspektor
-verlangte nun Kraft seine Amtes in die Schatzkammer geführt
+verlangte nun kraft seines Amtes in die Schatzkammer geführt
 zu werden.
 
 Aus dem Kreise der stummen Gestalten trat Manga
@@ -1602,7 +1601,7 @@ fanatischen Augen.
 alten Hallen hinab. Jedem andern ist der Zutritt verboten!«
 
 Er ging voraus. Wir hatten unsere Taschenlampen,
-er eine Laterne …
+er eine Laterne.
 
 Und — am Käfig Marias kamen wir vorüber. Der
 war leer.

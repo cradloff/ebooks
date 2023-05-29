@@ -97,9 +97,15 @@ sagte er und schlug das illustrierte dicke Buch auf. »Jemand, der wie Ernst Den
 
 »Ja, ein Zettel, aber kein leerer, sondern beschrieben … alles Hauptwörter … Ein Entwurf einer anderen Depesche, behaupte ich. Sehr leichtsinnig von dem Herrn! — Und hier, Seite zwei — — bitte, hier sind sechs Wörter unterstrichen … immer in derselben Zeile zwei:
 
+<<<<<<< HEAD
 <p class="pre em" style="margin-left: 5em;">ich — Kultur
 habe — Reise
 Tempel — Vater</p>
+=======
+<span style="letter-spacing:2px">ich — Kultur<br />
+habe — Reise<br />
+Tempel — Vater</span>
+>>>>>>> master
 
 Und Seite drei: acht Wörter in derselben Weise …«
 
@@ -359,7 +365,11 @@ Jeder, der nicht gerade sehr robuste Nerven hat, kennt das merkwürdige Gefühl 
 
 Unter meiner Nase saß jetzt ein sehr echt wirkender persischer buschiger Hängeschnurrbart. Ich fürchtete, die Schweißperlchen, die ich spürte, könnten den Klebstoff erweichen und der Schnurrbart abfallen, obwohl der von uns zu solchen Zwecken benutzte Klebstoff selbst im Wasser kaum löslich ist. Doch in solcher Lage fürchtet man das Unmöglichste …
 
+<<<<<<< HEAD
 Ich besinne mich genau, daß diese Gedanken mich beschäftigten, als plötzlich die Tür aufgerissen wurde, für einen Moment ein halbwüchsiger, schmieriger Inder sichtbar wurde und sofort auch wieder, gleichsam durch unseren Anblick überrascht, zurücksprang, die elende Brettertür zuwarf und bei dieser hastigen Flucht seine eine zerfetzte Sandale halb in unseren Salon schleuderte.
+=======
+Ich besinne mich genaue daß diese Gedanken mich beschäftigten, als plötzlich die Tür aufgerissen wurde, für einen Moment ein halbwüchsiger, schmieriger Inder sichtbar wurde und sofort auch wieder, gleichsam durch unseren Anblick überrascht, zurücksprang, die elende Brettertür zuwarf und bei dieser hastigen Flucht seine eine zerfetzte Sandale halb in unseren Salon schleuderte.
+>>>>>>> master
 
 Das spielte sich in Sekunden ab.
 
@@ -399,7 +409,11 @@ Und dann — wieder ein Beweis, wie scharf er denkt: »Hast du die Sandale schon
 
 »Nur die Unterschrift …«
 
+<<<<<<< HEAD
 »Auch das war zuviel … Die würfelnden vier Chinesen nebenan sind fraglos Stomyolas Kreaturen … Wir werden vorsichtiger denn je sein müssen. Ich habe soeben mit dem Karawansereibesitzer kurz gesprochen. Der Mann ist Parse, also vertrauenswürdig. Er behauptet, einer der Chinesen, die heute nachmittag angeblich aus Kalkutta eingetroffen sind, sei ein hiesiger Barbier.«
+=======
+»Auch das war zuviel … Die würfelnden vier Chinesen nebenan sind fraglos Stomyolas Kreaturen … Wer werden vorsichtiger denn je sein müssen. Ich habe soeben mit dem Karawansereibesitzer kurz gesprochen. Der Mann ist Parse, also vertrauenswürdig. Er behauptet, einer der Chinesen, die heute nachmittag angeblich aus Kalkutta eingetroffen sind, sei ein hiesiger Barbier.«
+>>>>>>> master
 
 Nebenan …
 
@@ -493,7 +507,11 @@ Aber Mirza verbesserte sich sofort: »Das heißt: Gurkenhäuser nennt man hier d
 
 »Dann, mein lieber Mirza, lassen Sie einmal durch Ihre Leute nachfragen, ob Stomyola ein solches Hausboot erworben hat.«
 
+<<<<<<< HEAD
 »Das läßt sich unschwer feststellen, Herr Harst,« nickte der Parse eifrig. »Ich habe sehr weitverzweigte Beziehungen.«
+=======
+»Das läßt sich unschwer feststellen, Herr Harst« nickte der Parse eifrig. »Ich habe sehr weitverzweigte Beziehungen.«
+>>>>>>> master
 
 »Und noch etwas: Geben Sie morgen früh mit äußerster Vorsicht Herrn Jörgensen Nachricht, wo wir uns befinden …«
 

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">68f522e0-433a-11e8-b566-0800200c9a66</entry>
+<entry key="title">Die Jagd auf einen Namen</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">8</entry>
+<entry key="edition">1. Auflage</entry>
+<entry key="language">de</entry>
+<entry key="description">Die Jagd auf einen Namen.
+
+Kommerzienrat Kammler, der Beauftragte der Wettgegner Harald Harsts, war soeben gegangen und hatte noch zum Abschied uns von der Tür aus zugerufen: »Viel Glück! An diesem Nemo haben sich bisher alle vergeblich versucht. Wollen sehen, ob der große Harst mehr kann als die Kriminalbeamten und die meisten Privatdetektive Berlins!«
+
+Kammler hatte es wirklich diesmal sehr eilig gehabt, uns die neue Aufgabe zu übermitteln und sie uns — sie lautete: Wer ist der sogenannte Einbrecherkönig Andreas Nemo? — mit einem triumphierenden Schmunzeln, jedes einzelne Wort betonend, mitgeteilt.
+
+Liu Sings Geheimnis.
+
+Kommerzienrat Kammler erhob sich, reichte Harst die Hand.
+
+»Wir gratulieren zu dem Erfolg von Herzen. — Schade, daß ich Ihnen nun nur eine anscheinend leichtere Aufgabe stellen kann: Weshalb wurde die Leiche des chinesischen Kochs des Orientreisenden Arthur Malzahn geraubt?«
+
+Harst lächelte ein wenig. »Leichtere Aufgabe? — Sie sind ein böser Examinator meiner Fähigkeiten Kammler!«
+
+Der Tigerwagen.
+
+In einer kleinen Konditorei in einer Nebenstraße des Leipziger Platzes Berlins saßen in einer Fensternische zwei Dienstmänner, beide schon bejahrt, der eine etwas bucklig. Sie sprachen wenig, rauchten billige Zigarren und tranken zum Kaffee jeder einen Kognak.
+
+Der Bucklige war Harald Harst, der andere ich.
+
+Gestern abend hatten die Wettgegner Harsts uns die neue Aufgabe gestellt. Und sofort hatten wir uns an diesem Morgen zu dreien an die Arbeit gemacht Der dritte befand sich zur Zeit als Beobachter in einer Anzeigenannahmestelle ganz in der Nähe. Und dieser dritte war der fünfzehnjährige Karl Malke, Harsts Schützling und gelegentlicher Helfer, ein waschechter Berliner mit der ganzen Frühreife und Gerissenheit des im Daseinskampf herangewachsenen kleinen Gassenbuben.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (008) Die Jagd auf einen Namen.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1920</entry>
+<entry key="cover"></entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
