@@ -410,7 +410,7 @@ Jetzt schoß mir flüchtig die ferne Möglichkeit durch den Kopf, daß das Essen
 
 Meine Sorge war überflüssig. Wester entnahm dem Korbe drei Gefäße und einen Krug und stellte die mittags geleerten hinein. Das Abendessen bestand aus Goulasch, Preißelbeerenkompott, Kartoffeln und lauwarmem Kaffee. Da die Laterne oben bis zu uns hinab nur spärliche Strahlen spendete, da ferner sowohl Harald wie ich in derartigem Komödienspiel wie dem Vortäuschen einer mit Appetit genossenen Mahlzeit einiges leisten und unser Studienassessor auch jetzt ein gelehriger Schüler war, ging der schlichte Betrug ohne Störung vorüber. Wir konnten sicher sein, daß die Spione droben sich zufrieden schmunzelnd die Hände reiben würden: die Preißelbeeren waren sehr stark gesüßt gewesen und hatten es »in sich« gehabt!
 
-Unser halblautes eifriges Gespräch nach der Mahlzeit verstummte allmählich. Harald gähnte, ich gähnte und Wester erst recht. Es mochte kurz nach zehn sein, als auf dem Heulager drei pustende und schnarchende Gestalten ruhten. Auch im Schnarchen sind wir Virtuosen. Und dies war der zweite [Teil]<@refnote 11/> des Gaukelspiels.
+Unser halblautes eifriges Gespräch nach der Mahlzeit verstummte allmählich. Harald gähnte, ich gähnte und Wester erst recht. Es mochte kurz nach zehn sein, als auf dem Heulager drei pustende und schnarchende Gestalten ruhten. Auch im Schnarchen sind wir Virtuosen. Und dies war der zweite Teil<@refnote 11/> des Gaukelspiels.
 
 Der dritte würde weniger friedlich ausfallen, dachte ich, als ich, zwischen Harst und Wester gebettet, zu der Laterne emporblinzelte.
 
