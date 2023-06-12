@@ -122,11 +122,9 @@ So kamen wir nach gut einer Stunde nach Charlottenburg in die Krumme Straße, wo
 
 Der Alte betrat nun ein Kellerlokal. Als ich nach ein paar Minuten ebenfalls vorüberging, bemerkte ich an dem Kellereingang einen Glockengriff und darüber ein Schild mit der Aufschrift:
 
-<p class="centered">Verein der Menschenfreunde.<br /></p>
-
+<p class="centered">Verein der Menschenfreunde.<br />
 E. V.<br />
-
-Sprechst.: 9—12, 2—7.
+Sprechst.: 9—12, 2—7.</p>
 
 Seltsam!! Verein der Menschenfreunde?! Und hier in dieser Spelunke, deren Kellertür mit Bier- und Liköranpreisungen so dicht benagelt war, daß die Blechschilder die Fensterscheiben fast völlig verdeckten.
 
