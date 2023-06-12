@@ -399,7 +399,7 @@ Nase zu halten.«
 Harald war in bester Laune.
 
 »Und diese Gründe sind so schwerwiegender Art, daß
-ich Sie bitte, uns weiter als … Verbrecher zu behandeln
+ich Sie bitte, uns weiter als … Verbrecher zu behandeln.
 — Ob der Steuermann Coogan wohl zu uns halten würde,
 Herr Rolfsen?«
 
@@ -523,7 +523,7 @@ Und im selben Moment brüllte der Kapitän auch schon:
 
 Das Flämmchen erlosch.
 
-Ich hörte einen gellenden Schrei …
+Ich hörte einen gellenden Schrei.
 
 Hatte noch gesehen, daß Groonar dem Detektiv an die
 Kehle gefahren war.
@@ -604,7 +604,7 @@ auch Rolfsen auf die Brücke befohlen.
 
 »Sind Waffen an Bord?« fragte er den Schweden.
 
-»Gewiß, Herr Harst: Seitdem immer wieder Schiffe
+»Gewiß, Herr Harst. Seitdem immer wieder Schiffe
 hier in den asiatischen Gewässern als verschollen gemeldet
 werden und das Gerücht umgeht, ein Korsar treibe hier bis
 ins Gelbe Meer hinauf sein Unwesen, hat Tompsen die Orkalla
@@ -964,7 +964,7 @@ Schuld.«
 Wir bestiegen das Boot.
 
 Gelangten auf die Orkalla. Hier wurde dem blonden
-Mädchen die Kajüte des toten Kapitäns eingeräumt …
+Mädchen die Kajüte des toten Kapitäns eingeräumt.
 
 Und bevor wir Ozeana nun allein ließen, erklärte
 Harald nochmals:
@@ -1026,7 +1026,7 @@ Zog den großen, vielfach gefalteten Bogen heraus.
 
 Sagte nur:
 
-»Es ist Ozeana Lomarlays Lebensgeschichte«, und steckte
+»Es ist Ozeana Lomarlays Lebensgeschichte,« und steckte
 den Brief zu sich. —
 
 Singhalesen begruben die beiden Toten.
@@ -1090,13 +1090,13 @@ in dem Lomarlay mit Weibern und seinen Gesellen herumtollt.«
 »Ja — er erwähnt es in seiner Beichte. — Laß das
 jetzt … Nachher!«
 
-»Hm — und … und sein Schiff? darf ich danach
+»Hm — und … und sein Schiff? — darf ich danach
 fragen?«
 
 »Ah — — das Schiff! Auch das erwähnte er. Und
 wenn Du auch das hörst, wird Dir alles klar werden — die
 geheimnisvollen Vorgänge in Orkalla an der Bucht — und
-weiter. — —«
+weiter.« — —
 
 Vier Uhr nachmittags war’s.
 
@@ -1165,7 +1165,7 @@ Es lebe die Niedertracht, die Gemeinheit, die Verderbtheit!
 
 > Kapitän der Unterseepiraten
 
-> »Der Rächer«
+> Der Rächer«
 
 <@pagebreak/>
 
@@ -1190,9 +1190,9 @@ Arme.
 
 In der folgenden Nacht gegen ein Uhr morgens …
 
-Eine regnerische, böige Nacht. — Die Orkalla liegt
+Eine regnerische, böige Nacht … — Die Orkalla liegt in
 dem Klippengürtel der Insel Havaratti, die zu den
-Lakkediven gehört, vor Anker.
+Lakkadiven gehört, vor Anker.
 
 Ist soeben erst mühsam, vorsichtig mit Hilfe eines Bootes
 hier in diese Untiefen hineingelotst worden.
@@ -1328,7 +1328,7 @@ Granaten platzen.
 
 Granaten finden den Weg in die Munitionskammer.
 
-Mit ohrbetäubenden Knall fliegt das U-Boot auseinander.
+Mit ohrbetäubendem Knall fliegt das U-Boot auseinander.
 
 Wie eine Seifenblase.
 

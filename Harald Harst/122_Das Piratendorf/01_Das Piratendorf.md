@@ -139,7 +139,7 @@ lasse nicht mit mir … spielen!«
 
 Eifersucht — — Eifersucht!!
 
-Und — ich wußte, auf wen! Auf Hektor Balance, den
+Und — ich wußte, auf wen! Auf Hektor Laronge<@refnote 1/>, den
 einen Ingenieur der Orkalla!
 
 Da erwiderte Judith Longfellow schon:
@@ -184,7 +184,7 @@ Dann … geschah etwas sehr Merkwürdiges …
 
 Drei Schritt links von mir, wo hinter einer besonders
 dichten Stelle der Dornen ein freies Stellchen sich befand,
-klaffte plötzlich in der Holzwand unten am Boden ein
+klaffte plötzlich in der Holzwand unten am Boden ein …
 Loch, ein viereckiges helles Loch, gerade groß genug, einen
 schlanken Menschen durchzulassen …
 
@@ -232,7 +232,7 @@ Dornenbusch verdeckt worden war.
 Dies kam uns nun zustatten.
 
 Noch vor Sindra Mar gelangten wir ins Freie und
-schlüpften hinter einen Baum des Buschstreifens, der sich
+schlüpften hinter einen Baum des Waldstreifens, der sich
 fast bis zur Küste hinab zog.
 
 Sindra Mar schlüpfte lautlos am Waldrande hin.
@@ -369,7 +369,7 @@ zurzeit weilen.«
 <@pagebreak/>
 Ich muß hier einfügen, daß wir in Lahore zwei nicht
 ganz alltägliche Abenteuer bestanden hatten, deren letztes ich
-im vorherigen Band veröffentlicht habe.<@refnote 1/>
+im vorherigen Band veröffentlicht habe.<@refnote/>
 
 »Sie gestatten, Mr. Harst, daß ich Ihnen als dem einzigen
 Detektiv, der selbst unscheinbare Seltsamkeiten sofort
@@ -437,7 +437,7 @@ Doch — anderes geschah, und zwar am 27. August.
 
 An diesem Tage erhielt ich von Anwalt Hockins aus
 Bombay einen Brief, in dem er mir mitteilte, daß man in
-den Ruinen eines Tempels unweit Bombays, die bereits stark
+den Ruinen eines Tempels unweit Bombays die bereits stark
 verweste Leiche eines Eingeborenen unter Geröll gefunden
 habe und daß dieser fraglos ermordete Inder von ihm an den
 Schuhen, an dem Hemd, das er selbst ihm geschenkt habe,
@@ -545,8 +545,8 @@ stiften.«
 Und fügte hinzu, indem er die verkohlten Reste im Aschbecher
 zerrieb:
 
-»Was wir durch das Loch erlauscht haben, ist bedeutungslos
-… Es war freilich jemand bei Sindra-Mar in der
+»Was wir durch das Loch erlauscht haben, ist bedeutungslos.
+Es war freilich jemand bei Sindra Mar in der
 Schlafkoje, der Stimme nach ein jüngerer Mensch.«
 
 Aha — er log — — er verschwieg Judith Longfellow!!
@@ -642,7 +642,7 @@ Ihr Gesicht war aschfahl vor Schreck und Angst.
 
 Sie gehorchte, setzte sich hin.
 
-Neigte den Kopf auf die Brust … begann zu weinen.
+Neigte den Kopf auf die Brust, … begann zu weinen.
 
 Harald stand vor ihr.
 
@@ -685,7 +685,7 @@ nach Orkalla geschickt worden, weil mein Chef Mr. Sidney
 Lomarlay in Singapore von einem der Aktionäre der
 Orkalla-Aktiengesellschaft den Auftrag erhielt, festzustellen, ob
 Generaldirektor Tompsen nicht etwa die wertvollsten Steine
-verschwinden lasse … Oh — ich kann dies beweisen,
+verschwinden lasse … — Oh — ich kann dies beweisen,
 Mr. Harst.«
 
 Harald hatte nämlich zweifelnd gelächelt.
@@ -763,7 +763,7 @@ Hand gedrückt hatte.
 
 Und — kaum war sie hinaus, als Harald auch schon
 Bart und Perücke und Turban wieder anlegte, das Fenster
-öffnete, hinausturnte …
+öffnete, hinausturnte.
 
 Ich hatte das Licht ausgeschaltet.
 
@@ -950,7 +950,7 @@ Ich war auf eine solche Anzapfung vorbereitet. Ich
 erwiderte:
 
 »Judith Longfellow ist die Komplizin einer Verbrecherbande,
-die hier die Tresore der Orkalla ausräumen will
+die hier die Tresors der Orkalla ausräumen will
 und zu der auch Sindra Mar gehört.«
 
 »Gut, einverstanden. Allerdings beginnst Du mit dem
@@ -996,11 +996,11 @@ recht merkwürdige einleitende Vorgänge zu bieten. — Und
 Vornamen heißt, und den geheimnisvollen Sindra Mar.«
 
 »So?! Sindra Mar?! Mein lieber Alter, Sindra Mar
-ist durch die Botschaft des Phosphorfläschchens gewarnt
+ist durch die Botschaft des Phosphor-Fläschchens gewarnt
 worden. Er wird sich nicht mehr sehen lassen.«
 
 »Ah — Du magst recht haben!« Mir war das so im
-ersten Augenblick entfallen. Im selben Moment schon kam
+ersten Augenblick entfahren. Im selben Moment schon kam
 die ruhigere Prüfung der Harstschen Worte. Ich fragte:
 
 »Gewarnt?! Wie denkst Du Dir das?! Gewiß, das
@@ -1390,7 +1390,7 @@ erkennt, vor einem der Wurzelstöcke des Baumriesen.
 Ich tat es.
 
 Ich tat es rascher klopfenden Herzens, denn ich war
-überzeugt, daß wir vor einer wichtigen Entdeckung standen.<@refnote 2/>
+überzeugt, daß wir vor einer wichtigen Entdeckung standen.<@refnote/>
 
 <@pagebreak/>
 Wir hatten nun die unterspülte Wurzelmasse dicht vor
@@ -1439,7 +1439,7 @@ gelber Seide bespannt, ebenso die Decke.
 
 Der Fußboden mit den kostbarsten Teppichen belegt …
 dazu ganz moderne Salonmöbel, mit Goldbrokat bezogen,
-— überall nur Wertvolles, Gediegenes, Geschmackvolles!
+— überall nur Wertvolles, Gediegenes, Geschmackvolles:
 Gemälde, Vasen, Bronzen und anderes.
 
 War’s da ein Wunder, daß wir vor Staunen in diesen

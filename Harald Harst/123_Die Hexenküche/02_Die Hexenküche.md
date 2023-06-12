@@ -54,7 +54,7 @@ weit früher sich um uns besorgt zeigten, als wir dies vermuten
 konnten.
 
 Hatte Harald ihnen doch erklärt, wir würden vor drei
-Stunden kaum zurück sein. —
+Stunden kaum zurücksein. —
 
 Gaspard und Seridan folgten den weißen Muschelstückchen,
 die ich ausgestreut hatte.
@@ -114,7 +114,7 @@ Da zuckte das Weib zurück.
 
 Ihr Gesicht wurde fahl.
 
-Und mit erlöschenden Atem flüsterte sie:
+Und mit erlöschendem Atem flüsterte sie:
 
 »Oh — — wieder um eine Hoffnung ärmer!! Und
 ich glaubte, Sie würden meine Befreier werden! Nur im
@@ -395,7 +395,7 @@ selbst Harst gefangen!! Ich könnte vor Wut aus meiner
 alten braunfaltigen Haut springen.«
 
 »Sie sollen nicht springen, sondern sich setzen! — So,
-das ist verständig. Nun sind wir doch wenigstens wieder
+das ist verständig … Nun sind wir doch wenigstens wieder
 beieinander, lieber Gaspard.«
 
 »Erzählen Sie!« bat ich, denn ich wollte endlich Aufschluß
@@ -408,7 +408,7 @@ Wollte ich seine langatmigen, durch Flüche gespickten
 Ausführungen hier etwa wörtlich wiedergeben, dann müßte
 ich zwei volle Manuskriptseiten verschwenden.
 
-Jedenfalls: Bob und er waren genau genau wir in das
+Jedenfalls: Bob und er waren genau wie wir in das
 Laboratorium gelangt, hatten dort nur die Blonde vorgefunden,
 hatten aus dem Weibe trotz unendlicher Fragen
 auch nur das lügnerische »Ich weiß nicht« herausquetschen
@@ -578,7 +578,7 @@ matt schillernden See — auf den weißen Strichen der Wellenkämme.
 
 Und langsam tauchten die Sterne am Nachthimmel auf.
 
-Allmählich wurde es dort draußen wieder heller …
+Allmählich wurde es dort draußen wieder heller.
 
 Allmählich begriff ich, was Harst schon angedeutet hatte:
 daß der Rocher de Malcolm ein unheimliches … Verbrechernest
@@ -614,7 +614,7 @@ Da schoß von oben eine breite Lichtflut über uns hin.
 Wir schauten empor — schauten in das grelle Licht
 einer großen Karbidlaterne.
 
-Und hörten zugleich: Professor Josua Jollings überlaute
+Und hörten zugleich Professor Josua Jollings überlaute
 Stimme …
 
 <@pagebreak/>
@@ -663,7 +663,7 @@ ohne Aufsicht bleibt. Es könnten doch einige der Freibeuter
 entkommen sein und hier vielleicht landen.«
 
 Gaspard war sofort einverstanden. Er legte keinerlei
-Wert darauf, hier im Inneren des Rocher de Malcolm zu
+Wert darauf, hier im Innern des Rocher de Malcolm zu
 bleiben. Und Bob erst recht.
 
 Wir begleiteten sie bis zu der Steinluke, und Gaspard
@@ -785,7 +785,7 @@ ich die arme Kranke nicht in England lassen wollte.«
 
 »Sie flohen damals mit Ihrer Motorjacht.«
 
-»Ja — und alles, was Sie hier sehen stammt aus
+»Ja — und alles, was Sie hier sehen, stammt aus
 meiner Jacht. Ich habe sie völlig abgewrackt.«
 
 »Und was treiben Sie hier, Mr. Jolling?«
@@ -956,7 +956,7 @@ in einer Art Starrkrampf dasaß. —
 Jolling flüsterte uns zu:
 
 »Kraft meines Willens kann ich nun die Seele vom
-Körper trennen. Sie, meine Herren brauchen nur den Kessel
+Körper trennen. Sie, meine Herren, brauchen nur den Kessel
 zu betrachten — recht scharf! Und — — eine Bitte: Sobald
 Sie etwas Außergewöhnliches sehen, rühren Sie sich nicht!
 Jede Störung Ihrerseits könnte Klaires Tod zur Folge
@@ -1056,11 +1056,11 @@ Der Professor krauste die hohe kluge Stirn.
 
 »Trick?!«
 
-»Ja, — wenn Sie nicht gerade wollen, daß ich …«
+»Ja, — wenn Sie nicht gerade wollen, daß ich …
 Schwindel sage!«
 
 Jolling setzte sich in den Lehnstuhl — mit einem Gesicht,
-das ein wildes Lächeln zeigte.
+das ein mildes Lächeln zeigte.
 
 »Sie scherzen,« meinte er.
 
@@ -1090,7 +1090,7 @@ Er schaute mich an.
 
 »Ja.«
 
-»Also, Mr. Harst?!
+»Also, Mr. Harst?!«
 
 »Also bleibt der Schwindel bestehen, weil es … zwei
 <@pagebreak/>
@@ -1242,7 +1242,7 @@ Zwecken auszunutzende Kunst?«
 
 »Ja … sehr oft.«
 
-»So auch heute wie ich merkte,« erklärte Harald sehr
+»So auch heute, wie ich merkte,« erklärte Harald sehr
 bestimmt. »Klaires Gedächtnis war künstlich getötet. — Und
 als wir sie hier überraschten, wollte sie gerade eine Perücke
 verbrennen. — Trug Ihre Gattin Perücken?«
@@ -1258,7 +1258,7 @@ Jolling, ich … fürchte, Ihrer Frau ist etwas …«
 Der Professor ließ Harst nicht aussprechen, sprang
 wieder auf.
 
-»etwas … zugestoßen, Mister Harst?! Der Ohrring,
+»Etwas … zugestoßen, Mister Harst?! Der Ohrring,
 — — woher haben Sie ihn?«
 
 »Gefunden! — Vielleicht sorgen Sie dafür, daß Miß
