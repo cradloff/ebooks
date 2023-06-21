@@ -4,7 +4,7 @@
 
 <h3>Eine Lichtanlage.</h3>
 
-… Niemand lasse sich durch diesen <strong>Titel</strong> zu der Annahme verleiten, daß ich dem Leser hier eine blutige Freibeutergeschichte vorsetzen will. — Nein, ein feines Intrigenspiel war’s, dessen einzelne Teile funkelnde Brillanten exotischer Abenteuerlichkeit sind … —
+… Niemand lasse sich durch diesen Titel zu der Annahme verleiten, daß ich dem Leser hier eine blutige Freibeutergeschichte vorsetzen will. — Nein, ein feines Intrigenspiel war’s, dessen einzelne Teile funkelnde Brillanten exotischer Abenteuerlichkeit sind … —
 
 So etwa schrieb ich zum Schluß des vorigen Bandes.
 
@@ -24,7 +24,7 @@ Es war am 2. Dezember vormittags elf Uhr. In unserem Wohngemach in dem sogenannt
 
 Auch jetzt …
 
-Er saß an einem plumpen schweren Tisch aus Tekkaholz<@refnote 1/>, dessen süßlich-unangenehmer Duft, fast an Chloroform erinnernde, die drückende Schwüle noch unerträglicher machte.
+Er saß an einem plumpen schweren Tisch aus Tekkaholz<@refnote 1/>, dessen süßlich-unangenehmer Duft, fast an Chloroform erinnernd, die drückende Schwüle noch unerträglicher machte.
 
 Ich hatte meinen Lieblingsplatz inne, an einem der beiden großen Fenster, mit Ausblick über die stille bewaldete Bucht und die zerklüfteten Berge, die deren wirkungsvollen, aber fast allzu ernsten Hintergrund bildeten. Ich las eins der alten englischen Werke über die Eroberung Indiens durch englische Großkaufleute, durch die sogenannte Ostindische Kompagnie, deren Nachfolger dann das Britische Weltreich geworden. Wie dieses Buch in die Bibliothek geraten, war eins der vielen kleinen Rätsel, die uns hier in diesem verwitterten Steinkasten von Schloß auf Schritt und Tritt begegneten. So kurze Zeit wir hier auch erst weilten, so liebenswürdig auch der Radscha war, so zuvorkommend auch die zahlreiche Dienerschaft sein mochte, die für die bescheidenen Verhältnisse dieses kleinen, bedeutungslosen Fürsten viel zu zahlreich war, — so wenig Grund wir etwa hatten, uns über irgendetwas zu beklagen, abgesehen von der Ungunst der Witterung: es gab da doch so allerlei, was wie ein ungreifbares Etwas beunruhigend und gespenstisch in der Luft hing — eine Gewitterwolke unter dem Horizont, von der man nur das Wetterleuchten vorläufig wahrnimmt.
 
@@ -50,7 +50,7 @@ Haralds Mienen waren nachdenklich geworden. Noch immer starrte er mich gedankenv
 
 Ich legte das Buch in meinen Schoß und hatte bereits die Lippen halb zu einer Frage geöffnet, als es klopfte und auf Haralds »Herein« Seine Hoheit erschien — sein gewöhnlicher Nachmittagsbesuch.
 
-Bara Dhug Chassi, ein überschlanker Inder mit schwarzem Spitzbart und verschlossenen, melancholischen Zügen, begrüßte uns mit zwangloser Herzlichkeit — wie immer. Er war wie gesagt mehr Europäer als Inder — scheinbar, und dazu ein internationaler Gentlemen von bestechendem Auftreten und Benehmen, von einer vornehmen Ruhe und Abgeklärtheit, die durch nichts, so schien’s, irgendwie gestört werden konnten. Er trug wie wir einen leichten seidenen Anzug von gelblichgrauer Farbe, war auch sonst bis auf den weißen schlichten Turban europäisch gekleidet, freilich kein Kino-Maharadscha, sondern ein brauner stiller Gelehrter und Forschungsreisender.
+Bara Dhug Chassi, ein überschlanker Inder mit schwarzem Spitzbart und verschlossenen, melancholischen Zügen, begrüßte uns mit zwangloser Herzlichkeit — wie immer. Er war wie gesagt mehr Europäer als Inder — scheinbar, und dazu ein internationaler Gentleman von bestechendem Auftreten und Benehmen, von einer vornehmen Ruhe und Abgeklärtheit, die durch nichts, so schien’s, irgendwie gestört werden konnten. Er trug wie wir einen leichten seidenen Anzug von gelblichgrauer Farbe, war auch sonst bis auf den weißen schlichten Turban europäisch gekleidet, freilich kein Kino-Maharadscha, sondern ein brauner stiller Gelehrter und Forschungsreisender.
 
 Das geringe Einkommen, das ihm zur Verfügung stand, benutzte er dazu, sich die Welt immer wieder in all ihren Teilen anzusehen. Er besaß eine alte klapprige Dampfjacht, die drunten in der Bucht vor Anker lag, — ein Schiff, das wirklich kaum den Namen Jacht verdiente.
 
@@ -96,7 +96,7 @@ Noch eins: eine große Zahl dieser Türen im Erdgeschoß waren durch Bretter ver
 
 Und noch eins: Wir hatten zwar, wie erwähnt, das ganze Schloß besichtigt, auch die Parterreräume, wo die Dienerschaft hauste, konnten jedoch damals bei unserem Rundgang nichts Besonderes bemerken. Es blieb unklar, weshalb diese zahlreichen Türen als Eingänge ausgeschaltet worden waren.
 
-Und — das letzte — um auch das von den »greifbaren« Eigenarten des Radschasitzes nicht zu übergehen: Im ersten Stock, wo die Gemächer des Fürsten lagen, hatte Harald einmal, es war vorgestern gewesen vor einer Tür ein feines, gesticktes Taschentüchlein liegen sehen, es aufgehoben, das Parfüm des Tuches als das in Rußland so beliebte Patschuli sofort erkannt, das Tüchlein wieder fallen lassen, und mir zugewinkt, weiterzugehen.
+Und — das letzte — um auch das von den »greifbaren« Eigenarten des Radschasitzes nicht zu übergehen: Im ersten Stock, wo die Gemächer des Fürsten lagen, hatte Harald einmal, es war vorgestern gewesen, vor einer Tür ein feines, gesticktes Taschentüchlein liegen sehen, es aufgehoben, das Parfüm des Tuches als das in Rußland so beliebte Patschuli sofort erkannt, das Tüchlein wieder fallen lassen, und mir zugewinkt, weiterzugehen.
 
 Der Fürst war unverheiratet und ein Frauenverächter.
 
@@ -487,7 +487,7 @@ Weshalb gerade Melone: nun wußte ich’s! —
 
 Er kleidet sich an, fragt nach dem Funker …
 
-Und meint dann so nebenbei: »Übrigens hatte ich da in dem Funkerhäuschen der Sidney etwas zu mir gesteckt, das jetzt, wo der Überfallene seinen Feind als Europäer hinstellt, erst erhöhte Bedeutung gewinnt …
+Und meint dann so nebenbei: »Übrigens hatte ich da in dem Funkerhäuschen der Sidney etwas zu mir gesteckt, das jetzt, wo der Überfallene seinen Feind als Europäer hinstellt, erst erhöhte Bedeutung gewinnt …«
 
 Aha — ich begreife: Das redet er nicht für mich, sondern für die Spione und Lauscher!
 
@@ -527,7 +527,7 @@ Und er zeigte dem Fürsten das wertvolle Beweisstück …
 
 Haralds bepflastertes Gesicht versuchte zu lächeln …
 
-»Das werden Sie sofort erfahren,« erwiderte er ein wenig überhebenden Tones. »Ich wette, in einer Stunde liegt der Schuft in Eisen, der den Funker chloroformierte …!
+»Das werden Sie sofort erfahren,« erwiderte er ein wenig überhebenden Tones. »Ich wette, in einer Stunde liegt der Schuft in Eisen, der den Funker chloroformierte …!«
 
 Und ich — — lächelte ganz heimlich.
 
