@@ -22,7 +22,7 @@ das der Franzose Charles de Malcolm im Jahre 1801 als
 erster entdeckte und das er mit einigem Recht »Rocher de
 Chapeau« kaufte, also Hutfelsen.
 
-Im Norden der Pirateninsel lag der Hut-Felsen. Mit
+Im Norden der Pirateninsel lag der Hutfelsen. Mit
 einem Fernglas konnte man ihn recht gut erkennen. Er war
 der nächste Nachbar des Freibeuter-Eilandes, immerhin zwei
 deutsche Meilen<@refnote 1/> entfernt.
@@ -231,7 +231,7 @@ John Johnstons verzog sich ironisch.
 »Nachprüfen, ob ich … lüge, Mr. Harst?! — Oh,
 dann kehren Sie nur lieber sofort um und lassen Sie mich
 in Eisen legen, denn — — Sie werden mich für verrückt
-halten, wenn ich Ihnen meine Bobachtungen mitteile.«
+halten, wenn ich Ihnen meine Beobachtungen mitteile.«
 
 »Verrückt?! Das wohl kaum! — Ich habe im Leben
 so unendlich viel Seltsames durchgemacht, daß ich alles für
@@ -466,10 +466,10 @@ Ich verstand ihn nicht.
 Gläser dieser Brille sind kein Fensterglas. Mithin kann er
 mit *seinen* Augen niemals von der Pirateninsel durch ein
 Fernrohr erkannt haben, welche Farbe die Haare des in den
-Rauchmassen schwebenden Weibes hatten. Das ist ausgeschlossen.
+Rauchwolken schwebenden Weibes hatten. Das ist ausgeschlossen.
 <@pagebreak/>
-Das könnte nur ich! Und — ich ich behaupte, mein
-Alter: die Frau die die Klippe erkletterte, hatte prachtvolles
+Das könnte nur ich! Und — *ich* behaupte, mein
+Alter: die Frau, die die Klippe erkletterte, hatte prachtvolles
 langes Blondhaar, das frei herabhing und vom
 Winde zur Seite geweht wurde.«
 
@@ -492,7 +492,7 @@ Horchte nur.
 Und Harald fuhr nach kurzer Pause fort:
 
 »Wenn nun Jolling behauptet, ein blondes ermordetes
-Weib vergraben zu haben, und wenn ich ein lebendes blondes
+Weib begraben zu haben, und wenn ich ein lebendes blondes
 Weib heute drüben auf der Klippe sah, — wenn Jolling
 eine *blonde* Frau auf dem Gipfel in den Rauchmassen bemerkt
 haben will, was doch bei seinen schlechten Augen ausgeschlossen
@@ -729,7 +729,7 @@ durchklang.
 
 Und — das war ja auch sehr gut möglich, denn Josua
 Jolling als Vertrauter der geheimnisvollen Blonden mußte
-vermutlich wissen, wie es mit dem Felsen und seinen Ausgängen
+vermutlich wissen, wie es mit dem Felsen und seinen Zugängen
 bestellt war, hoffte aber, daß wir diesen Zugang nach
 oben *nicht* finden würden! —
 
@@ -749,7 +749,7 @@ Und waren doch drei, die gute Augen hatten, waren bestrebt,
 daß uns auch nicht die winzigste Spur menschlicher
 Anwesenheit entginge.
 
-Waren stets umfaßt von einem gewaltigen Naturkonzert,
+Waren stets umtost von einem gewaltigen Naturkonzert,
 — dem der nahen Brandung, dem der wütenden Seevögel,
 die dieses Eindringen in ihr Reich sehr übel vermerkten.
 
@@ -826,8 +826,8 @@ Ein Hai, der nun seine ewige Freßgier mit dem Leben
 bezahlte.
 
 Der mit halb zerfetztem Schädel wieder ins Wasser
-platschte und sinnlos vor Schmerz mit letzter Kraft vorwärts
-schoß und sich dicht vor uns zwischen zwei Steinen festrannte
+platschte und sinnlos vor Schmerz mit letzter Kraft vorwärtsschoß
+und sich dicht vor uns zwischen zwei Steinen festrannte
 und hier auch verendete. —
 
 Harst hatte kaum die drohende Gefahr von uns dreien
@@ -889,7 +889,7 @@ Harst warnte:
 
 »Es kann noch eine Granate kommen, lieber Gaspard!«
 
-»Ne, — denn Nu ist ja der Spiegelknüppel unschädlich
+»Ne, — denn nu ist ja der Spiegelknüppel unschädlich
 gemacht!« lachte der Alte behaglich. »Ne — ich glaube nicht
 mehr an ne Neuauflage! Wenn’s das blonde Weib getan
 hat, dann wird sie …«
@@ -964,7 +964,7 @@ Rief dann.
 
 Rief.
 
-Und — diesmal war’s keine Perücke die er triumphierend
+Und — diesmal war’s keine Perücke, die er triumphierend
 hochhob.
 
 Diesmal war’s … ein menschliches Ohr.
@@ -1094,7 +1094,7 @@ Standen und starrten ins Leere.
 Und Bob Seridan kratzte sich immer wieder den Schädel
 und murmelte:
 
-»Ich Rindvieh — ich Rindvieh!«
+»Ich Rindvieh — — ich Rindvieh!«
 
 »Doppeltes Rindvieh!« nickte Edward Gaspard erbost.
 »Was nun, Mister Harst?! Nun können wir vier hier Robinson
@@ -1111,7 +1111,7 @@ sich an den alten Gaspard:
 
 »Wir haben doch unser Deck so tadellos duftend gemacht!
 Das Öl ist noch lange nicht eingezogen! Und wer sich die
-Schuhsohlen ungewollt beim betreten des Decks mit *dem*
+Schuhsohlen ungewollt beim Betreten des Decks mit *dem*
 Parfüm eingerieben hat, der wird uns den Weg durch den
 Geruch weisen, den — — wir einschlagen müssen!«
 
@@ -1121,14 +1121,14 @@ Gaspard strahlte plötzlich.
 
 »Verstehe — — verstehe alles!!«
 
-Oh — er war nicht dumm der brave Gaspard! Alles
+Oh — er war nicht dumm, der brave Gaspard! Alles
 andere als das! Er fuhr fort:
 
 »Ich kalkuliere, daß das Weib den Bob erledigt hat,
 Mister Harst! Dasselbe Weib, das den Spion handhabte!«
 
 »Stimmt!« erwiderte Harald. »Und da ich annehme,
-daß das Weib noch in dem Felsen ist, wollen wir vorsichtig
+daß das Weib noch in dem Felsen sitzt, wollen wir vorsichtig
 sein und mehr in die Felsspalte hineintreten, wo man
 nicht hinterrücks auf uns schießen kann.«
 
@@ -1466,7 +1466,7 @@ Mörderin.
 Ich begriff nur eins: die blonde Perücke spielte hier eine
 große, große Rolle!!
 
-Welche —?!
+Welche — —?!
 
 Lieber Leser: im zweiten Teile steht’s!!
 
