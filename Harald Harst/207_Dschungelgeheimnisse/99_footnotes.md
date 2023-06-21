@@ -8,11 +8,11 @@
 
 <@footnote 4 "01_Dschungelgeheimnisse.md">In der Vorlage steht: »Dogbu«. — Im vorhergehenden Heft hieß der Büffeljäger aber »Dagbu«. Daher drei Vorkommen auf »Dagbu« geändert.</@footnote>
 
-<@footnote 5 "01_Dschungelgeheimnisse.md">In der Vorlage steht: »Umschlittkerzen.</@footnote>
+<@footnote 5 "01_Dschungelgeheimnisse.md">In der Vorlage steht: »Umschlittkerzen«.</@footnote>
 
 <@footnote 6 "01_Dschungelgeheimnisse.md">Die folgende Zeile ist doppelt und gehört erst vier Zeilen später hier hinein.</@footnote>
 
-<@footnote 7 "02_Doktor Shing Guddai.md">In der Vorlage steht: »dürben.</@footnote>
+<@footnote 7 "02_Doktor Shing Guddai.md">In der Vorlage steht: »dürben«.</@footnote>
 
 <@footnote 8 "02_Doktor Shing Guddai.md">In der Vorlage steht: »Abend«.</@footnote>
 

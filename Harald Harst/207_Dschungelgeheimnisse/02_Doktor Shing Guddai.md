@@ -66,7 +66,7 @@ Die Affen verstummten, und auch die Büffel zogen weiter. Selbst die Vögel schi
 
 Ich betrachtete ihn mit gemischten Gefühlen. Er hatte uns auf dem Flusse noch rechtzeitig gewarnt … Wir schuldeten ihm Dank. Und dennoch: einen Menschen von seinem »Weltruhm« als Dieb und Hochstapler zum Gefährten zu haben: ein zweifelhaftes Vergnügen!
 
-Sein geradezu abstoßend mageres Gericht mit der frechen Hakennase entbehrte durchaus nicht gewisser Reize. Schon als »Baronin« war mir dies aufgefallen. Es war das Gesicht eines Mannes, dem nichts im Leben mehr fremd, der das Schicksal ironisch lächelnd als Unvermeidliches in jeder Form hinnimmt … Dieses welt- und gefahrenverachtende Lächeln war um seinen Mund wie festgefroren.
+Sein geradezu abstoßend mageres Gesicht mit der frechen Hakennase entbehrte durchaus nicht gewisser Reize. Schon als »Baronin« war mir dies aufgefallen. Es war das Gesicht eines Mannes, dem nichts im Leben mehr fremd, der das Schicksal ironisch lächelnd als Unvermeidliches in jeder Form hinnimmt … Dieses welt- und gefahrenverachtende Lächeln war um seinen Mund wie festgefroren.
 
 Ich rief mir bei dieser Gelegenheit flüchtig ins Gedächtnis zurück, was er uns während der zwölfstündigen Kahnfahrt über den Guddai-Orden mitgeteilt hatte — wenig, sehr wenig, denn er, ein nur untergeordnetes Mitglied, freilich auch gut bezahltes, kannte lediglich Gabru und ein paar Malaien und Chinesen. Genauso gering orientiert war seine Schwester Frau Jackson und deren Gatte gewesen. Der Orden ließ sich eben von keinem Europäer in die Karten schauen, bezahlte deren Dienste überreich, hatte jedem aber im Falle des Verrats mit dem Tode gedroht. Was Ridley und die Jackson und der Konsul Jackson bisher auf Befehl Gabrus und eines Chinesen, der gleichfalls im Orden eine große Rolle zu spielen schien, erledigt hatten, waren ausschließlich Spionagedienste in der Richtung gewesen, was die Polizei gegen die Guddai (sprich: Gudda-i) plante. —
 
@@ -206,7 +206,7 @@ Derartige kleine Kombinationen gleiten wie flüchtige ineinanderreimende Schatte
 
 Für mich stand jetzt fest, daß Gisa und die beiden Malaien hier im Turme steckten. —
 
-Harst säuberte die Injektionsspritze mit Alkohol. Der rote Jack säuberte seine Kehle mit Rum. Er hatte nicht umsonst ein so blaurotes Riechorgan. Als er merkte, daß ich seine heimliche Alkoholvertilgung dort im Schränken beobachtete, grinste er wohlgefällig und stellte die Flasche behutsam wieder oben auf den Schrank. Harst kehrte ihm den Rücken zu, meinte nun leise:
+Harst säuberte die Injektionsspritze mit Alkohol. Der rote Jack säuberte seine Kehle mit Rum. Er hatte nicht umsonst ein so blaurotes Riechorgan. Als er merkte, daß ich seine heimliche Alkoholvertilgung dort im Schränkchen beobachtete, grinste er wohlgefällig und stellte die Flasche behutsam wieder oben auf den Schrank. Harst kehrte ihm den Rücken zu, meinte nun leise:
 
 »Lieber Jack, lassen Sie bitte auch für uns noch etwas übrig!«
 
@@ -388,7 +388,7 @@ Guddais Brauen heben sich …
 
 »Ich rede von dem Geheimnis von Kaimara — genügt das? — Ich denke, Sie schicken Ihre Leibgarde besser weg und verhandeln mit uns … Wir werden uns nicht an Ihnen vergreifen. Mein Wort, — — falls wir eben zu einer Einigung gelangen …«
 
-Grabus dunkles Gesicht hat um die Nase graue Flecken bekommen …
+Gabrus dunkles Gesicht hat um die Nase graue Flecken bekommen …
 
 »Ihr bleibt und bewacht die drei!« schreit er seinen Banditen zu …
 
@@ -408,7 +408,7 @@ Und — — nichts davon wird er mehr finden, die Reichtümer des letzten Radsch
 
 Aber — welch’ ein tolles Spiel wagt Harald hier?! Wir drei — und dreißig Gegner, — Kerle, denen ein Menschenleben ein Quark …
 
-Wie soll diesem Spiel enden?! —
+Wie soll dieses Spiel enden?! —
 
 Über der Treppenöffnung erscheint Guddais erdfahles Gesicht …
 
@@ -458,9 +458,9 @@ Sein Gesicht entspannt sich. Seine Augen werden ausdruckslos. Er schaut Harald g
 
 Harst schaut ihn ebenso gleichgültig an. Die Gegner messen sich …
 
-»Eine überflüssige Frage, Doktor Guddai,« meint Harald. »Ich bin jedenfalls bereit, Ihnen die Freiheit und den Schatz zu belassen, wenn Sie mir über den Guddai-Orden [und deren Mitglieder alles erzählen …«
+»Eine überflüssige Frage, Doktor Guddai,« meint Harald. »Ich bin jedenfalls bereit, Ihnen die Freiheit und den Schatz zu belassen, wenn Sie mir über den Guddai-Orden und deren Mitglieder alles erzählen …«
 
-»Ich verrate nichts! Wir wollen Herrscher über ganz Europa]<@refnote 13/> werden … In ein paar Jahren bin ich am Ziel … In ein paar Jahren wird es vom Stillen Ozean bis zum Kralgebirge, bis zum Bosporus keinen Europäer mehr geben, der nicht unser Sklave wäre! — Lächerlich sind die Gerüchte, daß ich mit Rußland im Bunde stehe … Nur Narren können solches glauben. Wir Asiaten haben mit den Herren in Moskau nichts zu tun — gar nichts. Rußland, das europäische Rußland ist für mich nur der Wall gegen die weiße Gefahr. Aber all das sind Erörterungen, die hier gegenstandslos sind. — Ich wiederhole: Ich verrate nichts! Ich werde den Schatz finden … Brechen wir diese zwecklose Unterredung ab …«
+»Ich verrate nichts! Wir wollen Herrscher über ganz Europa<@refnote 13/> werden … In ein paar Jahren bin ich am Ziel … In ein paar Jahren wird es vom Stillen Ozean bis zum Kralgebirge, bis zum Bosporus keinen Europäer mehr geben, der nicht unser Sklave wäre! — Lächerlich sind die Gerüchte, daß ich mit Rußland im Bunde stehe … Nur Narren können solches glauben. Wir Asiaten haben mit den Herren in Moskau nichts zu tun — gar nichts. Rußland, das europäische Rußland ist für mich nur der Wall gegen die weiße Gefahr. Aber all das sind Erörterungen, die hier gegenstandslos sind. — Ich wiederhole: Ich verrate nichts! Ich werde den Schatz finden … Brechen wir diese zwecklose Unterredung ab …«
 
 Sein Körper straffte sich …
 

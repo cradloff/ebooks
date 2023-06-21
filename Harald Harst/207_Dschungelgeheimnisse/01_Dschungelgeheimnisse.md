@@ -70,7 +70,7 @@ Wir stiegen vor dem Hotel aus und setzten uns auf die Terrasse. Dicht unter uns 
 
 Der Kellner brachte Eismelange.
 
-Harst beobachtete den breiten Bürgersteig, ich die drei Engländerinnen am Nebentisch, fraglos Mädeln von heute, die ohne Begleitung eine Spritztour gen Indien gemacht hatten.
+Harst beobachtete den breiten Bürgersteig, ich die drei Engländerinnen am Nebentisch, fraglos Mädels von heute, die ohne Begleitung eine Spritztour gen Indien gemacht hatten.
 
 Typisch englische Gesichter … Nicht schön, nicht häßlich, gelangweilt, erhaben über alles …
 
@@ -356,7 +356,7 @@ Die Sessel knarrten. Ich war etwas nervös. Aber als ich nun Schleier, Weiberkos
 
 »Leichengeruch und Ambraduft …« sagte Harst gedehnt. »Ich werde doch besser mal meine Taschenlampe einschalten.«
 
-Er rührte sich. Sein Sessel knarrte. Ich beugte vor und suchte die Gegenstände in dem kleinen Zimmer erkennen. Auf meiner Brust lastete plötzlich ein Zentner. Das Atmen ward mir schwer.
+Er rührte sich. Sein Sessel knarrte. Ich beugte vor und suchte die Gegenstände in dem kleinen Zimmer zu erkennen. Auf meiner Brust lastete plötzlich ein Zentner. Das Atmen ward mir schwer.
 
 Ein Lichtstrahl fuhr grell in das ungewisse Dreivierteldunkel, breitete sich zur kegelförmigen, leuchtenden Bahn auf und …
 
@@ -392,7 +392,7 @@ Die drei Malaien schlüpften hinaus, sollten draußen wachen. Frau Jackson und d
 
 Nerven hatten sie beide nicht. Trotz der beiden Leichen hinter ihnen waren sie abgebrüht genug, uns mit einigen ironischen Redewendungen zu begrüßen. Dann schlug Tom Ridley, die »Baronin«, einen mehr sachlichen Ton an.
 
-»Zu langen Erklärungen haben wir keine Zeit, meine Herren … Kurz folgendes: der Malaie Gabru verfügt über eine Menge Helfershelfer, zu denen auch meine Schwester Harriet und ich gehören — leider! Gabru hat ein Spionagesystem ausgebildet, dem auch Sie nicht gewachsen sind, Herr Harst. Auf seinen Befehl wurde Ihnen beiden hier die Weller—Dagbu-Überraschung bereitet, und auf seinen Befehl sollen zwei Tote und zwei Lebende sofort mit Steinen beschwert in die See verschwinden. Harriet und ich sind es jedoch müde, uns von Gabru mit Brocken abspeisen zu lassen, wo er selbst volle Tafeln erntet. Wir wissen, daß er im Kaimara-Dschungel irgendwo einen Schlupfwinkel und sicherlich eine gut gefüllte Schatzkammer hat. Wir riskieren unser Leben, wenn wir Sie beide nicht töten. Wollen Sie ehrenwörtlich versprechen, Gabrus Versteck im Kaimara-Dschungel ausfindig zu machen und uns nachher die dort entdeckten Werte auszuhändigen, so lassen wir Sie am Leben. Die drei Malaien draußen sind ganz auf unserer Seiten denn Gabrus tyrannisches Regiment ist auch ihnen über. — Entscheiden Sie sich — rasch!«
+»Zu langen Erklärungen haben wir keine Zeit, meine Herren … Kurz folgendes: der Malaie Gabru verfügt über eine Menge Helfershelfer, zu denen auch meine Schwester Harriet und ich gehören — leider! Gabru hat ein Spionagesystem ausgebildet, dem auch Sie nicht gewachsen sind, Herr Harst. Auf seinen Befehl wurde Ihnen beiden hier die Weller—Dagbu-Überraschung bereitet, und auf seinen Befehl sollen zwei Tote und zwei Lebende sofort mit Steinen beschwert in die See verschwinden. Harriet und ich sind es jedoch müde, uns von Gabru mit Brocken abspeisen zu lassen, wo er selbst volle Tafeln erntet. Wir wissen, daß er im Kaimara-Dschungel irgendwo einen Schlupfwinkel und sicherlich eine gut gefüllte Schatzkammer hat. Wir riskieren unser Leben, wenn wir Sie beide nicht töten. Wollen Sie ehrenwörtlich versprechen, Gabrus Versteck im Kaimara-Dschungel ausfindig zu machen und uns nachher die dort entdeckten Werte auszuhändigen, so lassen wir Sie am Leben. Die drei Malaien draußen sind ganz auf unserer Seite, denn Gabrus tyrannisches Regiment ist auch ihnen über. — Entscheiden Sie sich — rasch!«
 
 »Was bleibt uns anderes übrig als zu bejahen, unser Wort also zu verpfänden,« meinte Harald hochmütig.
 
@@ -456,7 +456,7 @@ Ich starrte noch immer nach dem dunklen Kutter hinüber.
 
 Harst lachte …
 
-»Fangen?« — — den?! Ich denke, du kennst ihn jetzt! — Ah — eine Rakete …!«
+»Fangen — — den?! Ich denke, du kennst ihn jetzt! — Ah — eine Rakete …!«
 
 Von dem Kutter zog ein feuriger Streifen gen Himmel …
 
