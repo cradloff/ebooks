@@ -1,395 +1,347 @@
-<@pagebreak/>
-»40
+<@pagebreak 3/>
 
-EREM
-4\.08
+1. Kapitel
 
-ie 28
+Um die Mutter.
 
-<@pagebreak/>
-Harald varst
-
-Aus meinem Leben
-
-Tand: 210
-
-Das Haus unter. der Erde.
-
-Erzühlt von
-
-Max Schraut
-
-Verlag moderner Lektüre G, in. b. H.
-Berlin SO 16, Midhaelkirchstraße 23
-<@pagebreak/>
-DTadwrinX& vecvboten. — Alle Liechte, ein)ickdt. das
-DVerfilmmaszrocht, vorbehalten. — Copyright 1927
-by Verlag moderner Lektüre G.in. b. 2)., Berlin.
-
-Drud: PB. Lehmann, G. in. b. H., Berlin SO 16.
-<@pagebreak/>
-
-Fapitch
-wit die Mutter.
-
-Dieser Band dildet den Schlußa?t des großey Dramas,
-dem man verschiedene Gesamttitel geden könnte, vielleicht:
+Dieser Band bildet den Schlußakt des großen Dramas,
+dem man verschiedene Gesamttitel geben könnte, vielleicht:
 »Doktor Shing Guddai, der Befreier Asiens’, oder »Der
 Mann, den niemand fing«.
 
-Mit den »Drei Löwen« begänn das Drama. Mit dem
-Haus unter der Erde endet es. Der Munn, dei: niemand
-fing, und das war der malaiisce Arz!! Doktor Shing Guddatk,
-der ung und der Polizei in den Wäldern östiih ron Bürken«
-walde entwischt war, starb wie er gelebt hatte: grotzägig! -
-Wen dieser Uusdruck bier zutrifft. Einen desseren finde
-
+Mit den »Drei Löwen« begann das Drama. Mit dem
+Haus unter der Erde endet es. Der Mann, bei: niemand
+fing, und das war der malaiische Arzt! Doktor Shing Guddais,
+der uns und der Polizei in den Wäldern östlich von Birkenwalde
+entwischt war, starb wie er gelebt hatte: großzügig! —
+Wen dieser Ausdruck hier zutrifft. Einen besseren finde
 nicht.
 
-Meine Leser und Freunde (übrigens noH Dank alleu
-denen, die der im 200. Band enthaltenen Uufforderung, sich
-zu dem dort behandelten Problem zu äußern, statigegeden
+Meine Leser und Freunde (übrigens noch Dank allein
+denen, die der im 200. Band enthaltenen Aufforderung, sich
+zu dem dort behandelten Problem zu äußern, stattgegeben
 haben, insbesondere der bewußten jungen Dame, die mir den
 langen Brief zukommen ließ!) — also meine Leser und
-Freunde, mit denen ich immer wieder gelegenilih auch schrift.
-
-210\.
+Freunde, mit denen ich immer wieder gelegentlich auch schriftliche
 <@pagebreak/>
-lihe Grüße austauschen darf, kennen die Vorgeschichte. diefes
-Exbhlußaließ - einer politijchen Iragodie.« Daß mein Freund
+Grüße austauschen darf, kennen die Vorgeschichte. dieses
+Exbhlußaließ — einer politischen Tragödie.« Daß mein Freund
 Harst einen Mann von den geistigen. Qualitäten dieses
-Asiaten, der einen ’neuen Weltbrand entfäcen: wollte »und
-dereit8 auf dem besten Wege gewesen war, Europa&8 Kultur
-zu vernihten und Asie’t die Vorherrschaft auf Erden zu
-sichern, riuit allen Mitteln bekämpfte, das hatte er für seine
-Pflicht als Zugehöriger der weißen Raise gehalten. -
-Cs war ackHt Jage nac Gunddals Fluch! in jener un-
-freundlichen Februnarnacht. Anßer Guddai waren damals
-auch drei Inder, Bertraute des Malaier, in einem Nachen
+Asiaten, der einen ’neuen Weltbrand erklären: wollte »und
+bereits auf dem besten Wege gewesen war, Europa&8 Kultur
+zu vernichten und Asie’t die Vorherrschaft auf Erden zu
+sichern, ruft allen Mitteln bekämpfte, das hatte er für seine
+Pflicht als Zugehöriger der weißen Rasse gehalten. —
+
+Es war acht Jage nach Guddais Flucht in jener unfreundlichen
+Februarnacht. Außer Guddai waren damals
+auch drei Inder, Vertraute des Malaien, in einem Nachen
 über den Mötcritsee entkommen. Ihre Spur ließ sich bis
-Grünau verfolgen, wo der eine eine Motorjachk in einer
-Bootswerft untergebrachk hatte. Diese Jacht war kurz vor-
-her gründlich überholt und ihrem nassen Clement über-
-geden werden. Sie hattc fraglos sowohl Guddai als auch
-»die drei Inder irgendwohin in einen unbekannten Sclupfs-
-winkel geführt, den jedoH selbst: das Massenaufgebokt. der
+Grünau verfolgen, wo der eine eine Motorjacht in einer
+Bootswerft untergebracht hatte. Diese Jacht war kurz vorher
+gründlich überholt und ihrem nassen Element übergeben
+werden. Sie hatte fraglos sowohl Guddai als auch
+»die drei Inder irgendwohin in einen unbekannten Schlupfwinkel
+geführt, den jedoch selbst: das Massenaufgebot. der
 Berliner Polizei, die mit die beste der Welt ist, nicht
+hatte ausfindig machen können.
 
-batte aus indig machen können.
-
-Gudd«i war spurlos verschwunden. Ebenso die ’Fleine
+Guddai war spurlos verschwunden. Ebenso die ’Fleine
 Motorjacht und die Inder,
 
-Inzwiihen war der März mit lauen Tagen und warmen
+Inzwischen war der März mit lauen Tagen und warmen
 Regenfällen angebrochen, Wir saßen abends neun Uhr in
 Haralds Tirbeitszimmer und lasen die neuesten Zeitungen.
-Harald hielt und hält no heuke etwa fünfzehn — aus
-aller Herr?n Länder, — Lieber das Drama Gnddat hatte. er
-zulehk nur noch wenig gesproßen. Er war überhaupt sehr
-
-still und .n sich gekehrt,
+Harald hielt und hält noch heute etwa fünfzehn — aus
+aller Herr?n Länder, — Lieber das Drama Guddai hatte. er
+zuletzt nur noch wenig gesprochen. Er war überhaupt sehr
+still undn sich gekehrt,
 
 Die alte englische Standuhr schlug neun. Der letzte Schlag
-
 war kaum verhallt, als es läutete.
 
-Harst erhob sich, »E38 werden die Hunde sein, mein«
-3
+Harst erhob sich, »Es werden die Hunde sein, mein«
+Alter …
 
-Ulter …
 »Hund-?1«
-»Ia, ih habe gestern an die Polizeihund-Dressuranstal!
 
-4
-4
-N
-)
+»Ja, ich habe gestern an die Polizeihund-Dressuranstalt
 <@pagebreak/>
-222222222222 3&nbsp;2020E080S0S00dDSS0SDD
+in Grünheide geschrieben, und drei scharfe starke Tiere verlangt.
+Das Polizeipräsidium war einverstanden. — Komm’
 
-in Grünheide geschrieben, und drei scharfe starke Jiere ver-
-langt. Das Polizeipräsidium war einverstanden. — Komm’
+Wir Dingen in den Flur.
 
-Wir dingen in den Flur.
-
-Haralo öffnete die Schklappe der Haustür und schaltete
+Harald öffnete die Schlange der Haustür und schaltete
 die Lampe draußen ein. — Vor der Für stand ein Herr
-in kurzem Sportpelz mit einem Jägerhütchen, uns ketn
-
+in kurzem Sportpelz mit einem Jägerhütchen, uns kein
 Fremder …
-Harald « öffnete, und der schOlfanke Berr begrüßte uns
 
+Harald « öffnete, und der schlanke Herr begrüßte uns
 mit den erregt hervorgestoßenen Worten:
 
-»Wir ist etwas geradezu « Unglaubliches passtertt«
+»Wir ist etwas geradezu « Unglaubliches passiert«
 
-»Bitte, treken Ste näher, Herr Hauptmann … — Da
-Sie nochß die Maulkörbe und Leinen für drei Zunde kn der
-vinken tragen, nehme ich an, daß Ihnen die Tiere, die Gie
-mir liebenswürdigsk persönlich überbringen wollten, im Zuge
+»Bitte, treten Sie näher, Herr Hauptmann … — Da
+Sie noch die Maulkörbe und Leinen für drei Hunde in der
+Linken tragen, nehme ich an, daß Ihnen die Tiere, die Sie
+mir liebenswürdigst persönlich überbringen wollten, im Zuge
 vergiftet worden sind.«
 
-Polizeihaupltmann S. warf siH in einen Sessel. »Herr
-Harst, ich habe mich inzwischen bereits so etwas beruhig!! —
+Polizeihaupltmann S. warf sich in einen Sessel. »Herr
+Harst, ich habe mich inzwischen bereits so etwas beruhigt! —
 … Es war ein ganz infamer Streich, Ich begreife nicht,
-
 nur …
 
 etwas …
 
 wer …
 
-» Ngarre gefällig? — Schraut, gib unserem Gast einen
-Kognak … aber Sherryglas … — Hier ist Feuer, lieder
-S. — So, und nun erzählen Ste. Sie fuhren also von
-Erkner aus mit den Fieren vundeabtell … Ken — für
-Reisende mit Hunden, und da stieg wohl in Erkner no
-ein Hundebesiter ein …’
+» Name gefällig? — Schraut, gib unserem Gast einen
+Kognak … aber Sherryglas … — Hier ist Feuer, Lieder
+S. — So, und nun erzählen Sie. Sie fuhren also von
+Erkner aus mit den Tiefen vundeabtell … Den — für
+Reisende mit Hunden, und da stieg wohl in Erkner noch
+ein Gutsbesitzer ein …’
 
 »So ist’s … +.«
-»Ein Alter Mann mit Brille und blassem GesicHt 7«
 
-»Ia … Woher wissen Sie das? IH …«
+»Ein Alter Mann mit Brille und blassem Gesicht 7«
+
+»Ja … Woher wissen Sie das? Ich …«
+
 »Ich konnte es mir zusammenreimen …«
 
 »Das weitere auch!«
-»Om — lassen Sie mich überlegen … Der Wann hatt
 
-einen Spazterstod oder Negenschirm ?’
-»Ia … Auch das stimmt: Regenschtrmt«
+»Hm — lassen Sie mich überlegen … Der Wann hat!
+einen Spazierstock oder Regenschirm?’
+
+»Ja … Auch das stimmt: Regenschirms«
+
 <@pagebreak/>
-2200002002002028 5&nbsp;22020205&nbsp;8580800020
+»und Ihre drei Hunde japsten stark … Es war ward!l
+warm im Hoheit?« …
 
-»and Ihre drei Hunde japsten stark … Eg war wopb!l
-warm im Qdleil?« …
+»Ja. Der Ul:richtet das Fenster …
 
-»3a. Der Ul:e scyloß bas Fenster …
+»Natürlich hatten die Tiere da die Mäuler offen. —
+Sie saßen in der einen Ecke am Besitzer, der Alle am
+anderen Fenster, also Ihnen schräg zegeunvder. Die Tieres
+lagen auf dem Boden und knieten wahrscheinlich den Hund
+des Alten an. Dies war sicherlich ein übincerer Sund …««
 
-»Aatürlich hatten die Tiere da die Mäuler offen. —
-Sie saßen in der einen Ccke am Feäjtecr, der Nlie am
-anderen Fenster, also Ihnen schräg zegeunvder. Die TJietre
-lagen auf dem Boden und fknureten wahrsceinlich deu Zund
-des Ulten an. Dies war sicherliß ein übincerer sund …««
+»Sie können tadellos raten!!’
 
-»Sie können tadellos ratenl!’
-
-»and der Ulte hatte ihn neben sich auf der Bark, -
+»und der Alte hatte ihn neben sich auf der Bark, —
 — um … aber davon später. — Es fiel Ihnen a:’s, lieber
-S., daß Ihre drei Hunde fo scharf aui den langjyaarigen
-kleinen Köter waren, denn — langhaarig war er doc.«
+S., daß Ihre drei Hunde so scharf auf den langfingriger
+kleinen Köter waren, denn — langhaarig war er doch.«
 
-»Allerdings. — Ih bin verblüfft,: Herr Harst … Ih bin
-allerdings mit Ihnen uur …«
+»Allerdings. — Ich bin verblüfft,: Herr Harst … Ich bin
+allerdings mit Ihnen nur …«
 
-»Cs war gar kein Hund, lieber S. Nein, bestimmt nicht.«
+»Es war gar kein Hund, lieber S. Nein, bestimmt nicht.«
 
-»Aa. — gestatten Sie mall! Es war aine Kreuzung
-zwischen Spitz und langhaarigenr Teckel!?«
+»Na. — gestatten Sie mal!! Es war ahne Kreuzung
+zwischen Spitz und langhaarigenr Deckel!!«
 
-»Das Fell — ja! Aber in dein Fell stekte eine Katze
-oder ein junger Fuchs — — eingenäh!!««
+»Das Fell — ja! Aber in dein Fell steckte eine Katze
+oder ein junger Fuchs — — eingenäht!««
 
-Hauptmann S. runzelte die Stirn. »Wir ist niht nach
-Witzen zumute … Die drei Hunde waren neunhundert Wark
+Hauptmann S. runzelte die Stirn. »Wir ist nicht nach
+Witzen zumute … Die drei Hunde waren neunhundert Mark
 wert, und …«
 
-»—. und das Geld bezahle im natürlich. — Sche ich
-so aus, als ob mir ein Scherz jezt anzebracht erscheint?!
-Lieber S., mir ist sogar reichlich unbeha zii angesichts Ihres
+»—. und das Geld bezahle im natürlich. — Ecke ich
+so aus, als ob mir ein Scherz jetzt angebracht erscheint?!
+Lieber S., mir ist sogar reichlich nahezu zu angesichts Ihres
 Abenteuers. — Ich will Sie nicht hinhalten. Der Alte hatte
-ein Tier in das Fell eingenäht, das Hunde durch seineu Geruch
-reizt. Wahrscheinlidch war es ein junger Fuch3. Der Maun
+ein Tier in das Fell eingenäht, das Hunde durch seinen Geruch
+reizt. Wahrscheinlich war es ein junger Fuchs. Der Mann
 wollte dadurch erreichen, daß Ihre drei Hunde die Köpfe
-nach ihm hindrehten. Seinen »Hund« hatte er neben sich
-auf dem Sit, damit er mit seinem Syirm operieren konule,
-Der Edjirm war eine Spritze, die mit einem rasch wirkenden
-Gift gesüllt war. — Wo stieg der Mann aus«
+nach ihm hintersten. Seinen »Hund« hatte er neben sich
+auf dem Sir, damit er mit seinem Stirn operieren konnte,
+Der Schirm war eine Spritze, die mit einem rasch wirkenden
+Gift gefüllt war. — Wo stieg der Mann aus«
 »Auf der Station Friedrich8hageu bereits, also auf der
 <@pagebreak/>
-222222202228 7&nbsp;220020280200 D0DSSDSD
-
-dritken von Erkner … Ich wunderte mich, daß meine drei
-
-Hunde sich plößlich so still verhtelten und sich zum Schlaf
-
-niedergetlan halten. Faum verließ der Zug ee en
-
-als die Neglosigkeit der Tiere mich doch stutzig machte …«
+dritten von Erkner … Ich wunderte mich, daß meine drei
+Hunde sich plötzlich so still verhielten und sich zum Schlaf
+niedergetan halten. Kaum verließ der Zug er en
+als die Reglosigkeit der Tiere mich doch stutzig machte …«
 »Sie waren tot, die armen Köter …«
 
-»Ia!«
+»Ja!«
 
-»Und Sie JchHöpften keinerlei Verdacht gegen den Alten?«
+»Und Sie Schlüpften keinerlei Verdacht gegen den Alten?«
 
-»Wie sollte ichm?! Ein greiser, gebrehlicher Mann, ich
-bitte Siel!«
+»Wie sollte ihm?! Ein greiser, gebrechlicher Mann, ich
+bitte Sie!!«
 
-»Freilic … Es war ja auch einer der schlauesten VBer-
-brecher, die je einen ganzen Erdteil beunruhigt haben …!«
+»Freilich … Es war ja auch einer der schlauesten Verbrecher,
+die je einen ganzen Erdteil beunruhigt haben …!«
 
 Hauptmain S. fuhr hoch. Er hatte ja an der Suche nach
-Guddai mit seinen besten Beamten und Poltzethunden teils-
-genommen.
+Guddai mit seinen besten Beamten und Polizeihunden teilgenommen.
 
-»Meinen Sie etwa … Dokkor Shing Guddat?« rief er,
+»Meinen Sie etwa … Doktor Shing Guddai?« rief er,
 
-Harald nidte ernst. »Leider … — Sie sind als Beamter
+Harald nickte ernst. »Leider … — Sie sind als Beamter
 zur Verschwiegenheit verpflichtet. Sie Tennen die« Bedeutung
 dieses Malaien. Ich habe selbst meinem Freunde Schraut
 nicht mitgeteilt, daß ich vorgestern … einen Brief von Guddad
-erl)ielt. Auf diesen Brief hin verging mir alle Luft zum
-CE Herzen, und ich bestellte die drei Hunde, Der Brief lautete
-— Maschinenschhrift, englisch:
+er!)Zelt. Auf diesen Brief hin verging mir alle Luft zum
+Co Herzen, und ich bestellte die drei Hunde, Der Brief lautete
+— Maschinenschrift, englisch:
 
-»Herr Harst, ss sehr im Sie als Mensch auch stets
-geschätzt habe, so oft ih Sie auchß in« Indien hätte ver«
-nichlen können, so ungern ich heute drohe oder … warne:
-Ihre letzen Eingrifje in Dinge, die mein Lebenswerk bes
-deuteten, dürsen Ihnen nicht ungestraft hingehen! Sie haben
+»Herr Harst, es sehr im Sie als Mensch auch stets
+geschätzt habe, so oft ich Sie auch in« Indien hätte der«
+richten können, so ungern ich heute drohe oder … warne:
+Ihre letzten Eingriffe in Dinge, die mein Lebenswerk bedeuteten,
+dürfen Ihnen nicht ungestraft hingehen! Sie haben
 mich beraubt — ich werde Sie berauben! Versuchen Sie
-sich zu schützen. — Dokior Shing Guddai.«
+sich zu schützen. — Doktor Shing Guddai.«
 
-»Das schrieb er, lieber S. — Beranben will er mich … Es ist
-Ihnen bekannt, daß Guddais Gedeimbund, der Guddal-Orden,
+»Das schrieb er, lieber S. — Befanden will er mich … Es ist
+Ihnen bekannt, daß Guddais Geheimbund, der Guddai-Orden,
 mich schon vor einer Woche an meiner empfindlHsten Stelle
 treffen wollte … Meine alte, liebe, gütige Mutter wollten
-sie in ihre Gewalt bringen … Und ioezt — beabsichtigen ste
+sie in ihre Gewalt bringen … Und irrst — beabsichtigen sie
+dasselbe!«
 
-dasselbei«
 <@pagebreak/>
-TDSDSSDSSSSSSS ZY DSSSSPSSSCDESES
+Der Hauptmann hatte sich) vorgebeugt und starrte zöarald
+ganz entschied an …
 
-Der Hauptinann hatte ji) vorgebeugt und siarrte zöarald
+»und … und … das sagen sehe so … ruhig, wert
 
-ganz entselhzt an …
-»und … und … das sagen vSie so … ruhig, vert
+Harst y!’
 
-Darst y!’
+»Ruhig?! Vielleicht nur bitterlich … Wenn es 1a
+meine Mutter geht, geraten auch meine Werden ins Schwitzen.
+— Der Brief veranlaßte mäg-auß-diat … noch zu sofortiger
+Bestellung einer verschwiegenen zuverlässigen zwetdainigen
+Schutzwache … Die Detektei Voll kennen Sie. Es
+ist fraglos das beste Institut dieser Art. Sie? von Rolle
+Leuten sind dauernd auf dem Posten, zwei in der Blineyecstraße,
+zwei hinten im Gemüsegarten. Dann sollten auch
+von die Hunde das Haus mit bewachen …«
 
-»Ruhig?! Bielleiht nur dußerlich … Wenn es 1a
-meine Mutter geht, geraten auch nieine Werven in3 Schwiit-
-gen. — Der Brief veranlaßte mäg-auß-diat … noch zu sos
-fortiger Bestellung einer verschwiegenen zuveriässigen zwet-
-dainigen Schhutzwache … Die Detektei Nolf lewnen Sie. Es
-ist fraglos das beste Institut dieser Art. Bic? von Rolss
-Leuten sind dauernd auf dem Posten, zwei in der Blineyec-
-straße, zwei hinten im Gemüsegarten. Dunn sollten aud
-noM die Hunde das Haus mii bewachen …«
+»und — davon weiß ich richtige!« mischte Ab mich jetzt
+ärgerlich ein.
 
-»uud — davon weiß iH nichtaz!« mischte ib mich jetzt
-ärgerlicch ein.
+»Es genügte, wenn einer vorn uns sich den Kopf zerbricht,
+wie Guddai endgültig zur Strecke gebracht werden kann,
+mein Alter.«
 
-»Cs genügte, wenn einex voin uns sich deu Kopf zer-
-bricht, wie Guddai endgültig zur Strecke gebracht werden kann,
-mein Ulter.«
-
-Hauptmann GS. meinte etwas gereizt: »Sie hätten von
-dem Brief do? unbedingt der Polizei Mitteilung machen
-wüssen, Herr Hars!! Man glaubt Guddai, der zahllose Worde
+Hauptmann Es. meinte etwas gereizt: »Sie hätten von
+dem Brief da? unbedingt der Polizei Mitteilung machen
+müssen, Herr Harst! Man glaubt Guddai, der zahllose Worte
 auf dem Gewissen hat …«
 
 … Morde, die er für eine große Idee beging!«
 
 »Gleichgültig, — man glaubt diesen Farbigen außerhalb
-Deutschlandg, längst außerhalb Europas, und Sie …
+Deutschlands, längst außerhalb Europas, und Sie …
 
 »Verzeihung, tH& habe das nie geglaubt, ich habe stets
-die Ansicht vertreten, daß er sich noH in der weiteren Ums-
-gebung Berlins in einem sorgfältig verborgenen Schlupf-
-winkel befindet. Der Brief ist in Woltersdo:s bei Erkner zur
-Post gegeben. Und der heutige unerhört schlau begaugene
-dreifaHe Hundemord beweist, daß Guddai sogar Mittel und
-Wege gefunden hat, meine Briese zu lesen … meinc Korre-
-spondenz zu berwaen. Cr wußte, daß ich) die Huide …
+die Ansicht vertreten, daß er sich noch in der weiteren Umsgebung
+Berlins in einem sorgfältig verborgenen Schlupfwinkel
+befindet. Der Brief ist in Unterste:s bei Erkner zur
+Post gegeben. Und der heutige unerhört schlau begangene
+dreifache Hundemord beweist, daß Guddai sogar Mittel und
+Wege gefunden hat, meine Briefe zu lesen … meine Korrespondenz
+zu bringen. Er wußte, daß ich) die Hürde …
 
 Er schnellte empor …
 
-»Was war dasy!«
+»Was war dazu!«
+
 <@pagebreak/>
-SSDOSBDSSSEDSDDESO O9  0DSSSSESSSSDSS.
-UÜuH wir waren emporgefahren … »wü
-»Gin Schrei!« flükiertie S …
-»Wober aber … 9 Woder? — Ja, ich bin nervös ge-
+Wut wir waren emporgefahren … »wü
 
-WvrdDeN … Weine Mütter — 1H dönnte - breiwegen so-
+»Ein Schrei!« flüsterte S …
 
-ga« … ck — Ta wieder …!«
-Und Hurst sprang zur Tür …
+»Weber aber … 9 Boden? — Ja, ich bin nervös gen
 
-Wir binterdrein …
+Tochter … Weine Mütter — 1H könnte — breiwegen sog
 
-Zur Ircppe, die in ven Oberstock zärre …
+ja« … ck — Da wieder …!«
+Und Harst sprang zur Tür …
+
+Wir hinterdrein …
+
+Zur Treppe, die in den Oberstock Bärte …
 
 Hm Hinterflur lehnte an der Wand ein armseligaver-
 
-stories dides Wierschenvild: Wathilde, die Köhtal
+starres dickes Wierschenvild: Mathilde, die Kobras
 
-»Mathilde, ws wurde gerufen?« SIEREN
+»Mathilde, ins wurde gerufen?« Irren
 ich … weiß nicht …«
 
-Harst eilt die Ireppe hinan …
+Harst eilt die Treppe hinan …
 
-Hittein in seinex Mutter gemütliches Wohnzimmer …
+Hinein in seiner Mutter gemütliches Wohnzimmer …
 
-Licht dreuat … Steblampe in der ODfseaecke auf dem
+Licht Freund … Stehlampe in der Ofenecke auf dem
 
 Fischchen … —
-Grünlic»milber Schein dämmert im Zimmer …
-RKüble Luft webt von deus einen offeuey Feunsterflügel
+Grünlicmilber Schein dämmert im Zimmer …
+Pfähle Luft Welt von trug einen offenen Fensterflügel
 
 der …
 Das Zimmer … leer …
 
-- Auf dem Tischchen eine Stidexet, auf dem Teppich ein
-aufgeshlagenes Buch …
+— Auf dem Tischchen eine Stickerei, auf dem Teppich ein
+aufgeschlagenes Buch …
 
-Harst packt einen Stuhl mit beiden Händen, bält sid
+Harst packt einen Stuhl mit beiden Händen, hält sich
 fest …
 
 Er taumelt …
 
-Sein Gesicht geisterhaft blay, verzerrt …
+Sein Gesicht geisterhaft klar, verzerrt …
 
-Ih schalte die Krone ein …
+Ich schalte die Krone ein …
 
-Ein Knacken, Jageöshelle …
+Ein Knacken, Tageshelle …
 
-Unsere Uugen — zum Fenster …
+Unsere Augen — zum Fenster …
 
 Auf den blanken Dielen feuchte Spuren …
 
-Cs regnet draußen …
+Es regnet draußen …
 
 Der Himmel weint über Guddais Stieg.
 
 Frau Harst Ut verschwunden …
 Hm Gemüsegarten finden wir die beiden Leute der
 <@pagebreak/>
-EBDSSSSSSSSSS 10 .D20020200202 2DSS
-
 Detektei Rolf bewußtlos auf. Sie sind durch irgeübein Gas
 betäubt worden.
 
-Die Polizei unter diesen Uinstänhen auszuscholien, Yt aun-
-möglich. Hauptmann S. telephoniert aus. Prasdium. Wir
-suchen im Garten nach Spuren. Üver der Regen fäilt zu
-stark … Einen günstigeren Abent hätiy Guddai mit seinen
-Zelfersbelfern sid kaum wählen können. —.
+Die Polizei unter diesen Musikanten auszuschalten, Yt unmöglich.
+Hauptmann S. telephoniert aus. Präsidium. Wir
+suchen im Garten nach Spuren. Über der Regen fällt zu
+stark … Einen günstigeren Abend hältst Guddai mit seinen
+Helfershelfern sich kaum wählen können. —.
 
-Um elf Uhr sind die beiden Detektive wieder bei Bestu-
-nung. Sie können nichts angeben — nichts, Sie sind plot-
-lich umgesunken, ohne vorher auch nur das geringste Ver-
-dächtige bemerkt zu haben.
+Um elf Uhr sind die beiden Detektive wieder bei Besinnung.
+Sie können nichts angeben — nichts, Sie sind plötzlich
+umgesunken, ohne vorher auch nur das geringste Verdächtige
+bemerkt zu haben.
 
 Auch Mathilde vermag nur auszusagen, daß sie kurz
-bintereinander zwei Schreie gehört habe. Ob Frau Harst
-diese ausgestoßen, wisse sie nicht. Die Schreie hälten ihr nicht
-nach einer menschlichen Stimme geklungen, mehr ss wie vou.
-einem Hunde, der großen Schmerz empsinde.,
+hintereinander zwei Schreie gehört habe. Ob Frau Harst
+diese ausgestoßen, wisse sie nicht. Die Schreie hätten ihr nicht
+nach einer menschlichen Stimme geklungen, mehr es wie von.
+einem Hunde, der großen Schmerz empfinde.,
 
-Wit alledem war nichts anzufangen.
+Mit alledem war nichts anzufangen.
 
-Inzwischen hatte die Polizei bereit3 alle Wege rund
+Inzwischen hatte die Polizei bereits alle Wege rund
 um Berlin, ebenso die Wasserstraßen sperren lassen.
 
 Harald war seelisch völlig zusammengebrochen …
@@ -398,800 +350,772 @@ Harald war seelisch völlig zusammengebrochen …
 
 <h3>Wie Harst erwachte.</h3>
 
-50000 Mark Belohuung.
+50000 Mark Belohnung.
 Diese Belohnung sichere ich demjenigen
-zu, der mir über den Berbleib meiner am
+zu, der mir über den Verbleib meiner am
 3\. März dd. I. abends 19.Uhr, entführten
-Mutter Angaben machen kann, die dereu
-Wicederaufjindung ermöglicht.
-Harald Harst, Berlin»Chmargenvorf …
+Mutter Angaben machen kann, die deren
+Wiederauffindung ermöglicht.
+Harald Harst, BerlinChmargenvorf …
 Blücherstraße 10.
-<@pagebreak/>
-DSDSSSSSSSDSS 11 DSSSSSSSSSSS
 
-Jeder Berliner, jeder Vorortler wird sich auf diese Plakate
-noh besinnen, die überall an den Anschlagsäulen, an Zäunen,
+<@pagebreak/>
+Jeder Berliner, jeder Vororten wird sich auf diese Plakate
+noch besinnen, die überall an den Anschlagsäulen, an Zäunen,
 Neubauten, Chausseebäumen und in Kneipen zu sehen waren.
 
-50&nbsp;000 Mark — ein Vermögen!! — Der Millionär Harft
-fkonate es sich leisten …
+50&nbsp;000 Mark — ein Vermögen!! — Der Millionär Harst
+konnte es sich leisten …
 
 Und ein Strom von Briefen und. Besuchern ergoß sich
-daraufhin acht Tage lang in unser stilles Zeim.
+daraufhin acht Tage lang in unser stilles Heim.
 
 Erfolg all dessen: Nichts!
 
 Niemand von den »unzähligen, die etwas Sachdienliches
 angeben zu können glaubten, hatte seine sogenannten wichtigen
-Beobachtungen kritisch geprüft, jedem batten die fünfzigs
-tausend Mark den Geist verwirrt.
+Beobachtungen kritisch geprüft, jedem hatten die fünfzigtausend
+Mark den Geist verwirrt.
 
-Am 12. März licß Harald die Plakate entfernen und
-alle Besucher adweisen. Es war ja doch zwecklos, daß wir
+Am 12. März ließ Harald die Plakate entfernen und
+alle Besucher abweisen. Es war ja doch zwecklos, daß wir
 uns Tag für Tag die lächerlichsten Geschichten auftischen ließen,
-die sclbst einer oberflählichhen Prüfung nicht« standhielten.
+die selbst einer oberflächlichen Prüfung nicht« standhielten.
 
-Harald war unglaub!ich abgemagert. Ihm drohte nun auß
-nochH cin körperlicher Zusammenbruch Unser alter Hausarzt
-Sanität&rat Gempuner riet mir dringend, mit Harald in irgend-
+Harald war Ausland!ich abgemagert. Ihm drohte nun aus
+noch ein körperlicher Zusammenbruch Unser alter Hausarzt
+Sanität&rat Gewonnen riet mir dringend, mit Harald in irgend
 
 ein Sanatorium zu gehen. —.
 
-Unz«r blasser Patient sträubte sich nicht. Am Abend dieses
-12\. März schrieb ich zwei Briefe. Einen an das Polizeb-
-präsidium, einen Dank für die unausgesetzten Bemühungen
-der Polizel mit der Vitte, die Nachforschungen einzustellen,
-und einen zwelten an den Chefarzt des Sanatoriums Waldes«
-ruh in Woltersdorf, daß wir morgen nachmittag dort ein-
+Arzt blasser Patient sträubte sich nicht. Am Abend dieses
+12\. März schrieb ich zwei Briefe. Einen an das Polizebpräsidium,
+einen Dank für die unausgesetzten Bemühungen
+der Polizei mit der Bitte, die Nachforschungen einzustellen,
+und einen zweiten an den Chefarzt des Sanatoriums Waldesruh
+in Woltersdorf, daß wir morgen nachmittag dort ein
 
-trefssen würden,
+treffen würden,
 
 Mathilde brachte die Briefe um acht zur Post. Um neun
-mnßte ic telephonisch den Sanitätsrat herbeirufen. Harald
+mußte ich telephonisch den Sanitätsrat herbeirufen. Harald
 hatte,»als er in seinem Sessel am Kamin Zeitung las, einen
 Schwächeanfall bekommen und war kurze Zeit bewußtlos
 gewesen. Es war also wirklich höchste Zeit, daß mein Freund
-in eine andere Umgebung und unter ständige ärztliche Kon-
+in eine andere Umgebung und unter ständige ärztliche Kontrolle
+kam.
 
-trolle kam.
 <@pagebreak/>
-SDSSSSSSSSSDOSSS 19 DSSSDSSSSSSSS
-
 Anderen Tags um vier Uhr brachte uns ein bequemes?
-geheiztes Aufo nach Woltersdorf.
+geheiztes Auto nach Woltersdorf.
 
-Wer Berliner ist, kennt diesen Vorort. Wald, See, -
-alles vereinigt sich hier, um den abgehetzten Großstädter wohl-
-tätig zu entspannen. Die Straßenbahn nach Rahnsdorf und
+Wer Berliner ist, kennt diesen Vorort. Wald, See, —
+alles vereinigt sich hier, um den abgehetzten Großstädter wohltätig
+zu entspannen. Die Straßenbahn nach Rahnsdorf und
 die Motorbootverbindung mit Erkner sind vijelvenutzte Vers
 Pehrömittel.
 
-Gleich nach unserer Ankunft in Walde&ruh untersuchte
+Gleich nach unserer Ankunft in Maltechnik untersuchte
 der Chefarzt Harald in meiner Gegenwart ganz gründlich.
 Als er fertig war, sagte er lächelnd:
 
 »Lieber Herr Harst, im wünschte ich wäre so kerngesund
-wie Sie. Die scelisq)e Depression ist an allem schuld. Ich
+wie Sie. Die fertig)e Depression ist an allem schuld. Ich
 werde Sie mit Hypnose behandeln.«
 
 Harald streifte das Hemd über. Als sein Kopf zum
-Vorschein kam, war die schlaffe Gleichgültigkeilk aus seinen
-Zügen wie wegacewischt.
+Vorschein kam, war die schlaffe Gleichgültigkeit aus seinen
+Zügen wie weggewischt.
 
-Der Arzt scx mte seinen Patienten ersskaunt an.
+Der Arzt sog mir seinen Patienten erstaunt an.
 
 »Was … haben Sie?« fragte er unsicher.
 
-Harald blidte zur Tür. Sie war gepolstert. Niemand
-korinte uns !schen oder belauschen.
+Harald blickte zur Tür. Sie war gepolstert. Niemand
+konnte uns!sehen oder belauschen.
 
-»IH bin erwacht,« erwiderte er kurz.
+»Ich bin erwacht,« erwiderte er kurz.
 
 »Erwacht?!«
 
-»Ia, Herr Gebeimrakt, — erwacht ., 1 Thre Bemerkung,
+»Ja, Herr Geheimrat, — erwacht ., 1 Ihre Bemerkung,
 Sie würden mich hypnotisieren, hat mir einen Feil des
-Rätllels des Berschwindens meiner Mutter erklärt.«
+Rätsels des Verschwindens meiner Mutter erklärt.«
 
 »Wie meinen Sie das?«
 
-Harald, nur halb bekleidet, setzte sim auf den Polsterstuhl
+Harald, nur halb bekleidet, setzte ein auf den Polsterstuhl
 
 neben dem Edhreiblis).
 
-»Hm Vertrauen auf Ihre strengste Diskretklon will ich
+»Hm Vertrauen auf Ihre strengste Diskretion will ich
 Ihnen das erklären, Herr Geheimrat. — Das eine Fenster
-im Zimmer meiner Mutter war offen. Es war bestimmt gc-
-sc&lossen gewesen — auch verriegelt, denn meiner Mutter
-Ist feuchte Negenlufk sehr unangenehm. Sie selbst hat die
-Flügel des Doppelsensters also nicht geössnet, wenigsten& nicht
-ohne Ursache. Hierüber hahe ich mit Schrauk wiederholt ge-
+im Zimmer meiner Mutter war offen. Es war bestimmt gcsc&lossen
+gewesen — auch verriegelt, denn meiner Mutter
+Ist feuchte Geckenhaft sehr unangenehm. Sie selbst hat die
+Flügel des Doppelfensters also nicht geöffnet, verlassene nicht
+ohne Ursache. Hierüber habe ich mit Schraut wiederholt gesprochen.
 <@pagebreak/>
-A22SSSSESSSDOS 13. DSSSSSSSSSSS
-
-sprochen. Wir standen auch in dieser Beziehung vor einem
+Wir standen auch in dieser Beziehung vor einem
 Rätsel. Was konnte meine Mutter veranlaßt haben, dieses?
 Fenster aufzumachen? — Es war ausgeschlossen, daß sie
-etwa, wenn jemand vom Hofe aus eine Leiter an die Hauß»’
+etwa, wenn jemand vom Hofe aus eine Leiter an die Hauß’
 wand gelehnt hakte, emporgestiegen war und an die Scheibe
-gepocht hätte, daraufhin das Fenster geössnet haben würde,
-Eie weiß, sie wußte, Guddat würde Vergeltung üben —
-irgendwie. Sie war ohnedies elne vorsichtige: Natur. Hätte
-jemand an die Echeibe gepocht, so würde sie mich gerufen
-haben. Ein Drud auf einen Klingelknopf, und unten dei mir
-balte eine Glode gescrillt. -« Meine Mutter ist nun vor
-Sabren, als ich für verschollen galt, nervs8 zusammenge-
-broczen, und unser Haus&arzi! hakt sie damals mit Hypnose
-behandelt, Er stellte fest, daß sie überaus leicht einzus
-schläfern ist, Ste war ein vorzügliches Medtum.«
+gepocht hätte, daraufhin das Fenster geöffnet haben würde,
+Sie weiß, sie wußte, Guddai würde Vergeltung üben —
+irgendwie. Sie war ohnedies eine vorsichtige: Natur. Hätte
+jemand an die Scheibe gepocht, so würde sie mich gerufen
+haben. Ein Druck auf einen Klingelknopf, und unten bei mir
+halte eine Glocke geschrillt. -« Meine Mutter ist nun vor
+Jahren, als ich für verschollen galt, nervös zusammengebrochen,
+und unser Haus&arzi! hat sie damals mit Hypnose
+behandelt, Er stellte fest, daß sie überaus leicht einzuschläfern
+ist, Sie war ein vorzügliches Medium.«
 
-Harald langte nah seiner Jace …
-Holte scin Zigarettenetui hervor, in dem noF& die halb
+Harald langte nach seiner Jacke …
+Holte sein Zigarettenetui hervor, in dem rote die halb
 
-abgeplattete Nevolverkugel steckft: Andenken an Wakkdatty,
+abgeplattete Revolverkugel steckt: Andenken an Waldkauz,
 den unseligen Menschenhasser! — Seit Tagen die erste
 Zigarette … seine geliebte Mirakulum …
 
-- Er rauchte …
+— Er rauchte …
 
 »Es schmeckt wieder … Ich bin erwacht .;. Gott sei
-Dan! ,— — Bravche im noch mehr zu erklären, Herr
+Van! ,— — Brauche im noch mehr zu erklären, Herr
 Geheimrat?«
 
-»Oie meinen, GQuddai hat von draußen ’her, von der
-Leiter aus durch das Tenster Ihre. Frau Mutter bypnotb-
-sterty«
-»Ia. Guddai verfügt nicht nur über geheime seelische
-Kräfte manc«er Art, sondern auch über die bei ihm er-
-staiunlich auägebildete Fählgkeit, Fernhypnose zu erzielen.
+»die meinen, Guddai hat von draußen ’her, von der
+Leiter aus durch das Fenster Ihre. Frau Mutter bypnotbsterty«
+»Ja. Guddai verfügt nicht nur über geheime seelische
+Kräfte mancher Art, sondern auch über die bei ihm erstaunlich
+ausgebildete Fähigkeit, Fernhypnose zu erzielen.
 
-Der Geheimrat nikle … »Das läßt sich hören … —
+Der Geheimrat nickte … »Das läßt sich hören … —
 Er hat also Ihre Frau Mutter gezwungen, das Fenster zu
 
 öffnen …«
-»Bestimm!! Und als er sie die Leiter hinabtrug, als die
+»Bestimmt! Und als er sie die Leiter hinabtrug, als die
 
-Negentropfen ihr ins Gesicht peitschten, erwachte sie und
+Regentropfen ihr ins Gesicht peitschten, erwachte sie und
 <@pagebreak/>
-SODOSdSSSSSSSOSS 14&nbsp;20080SS0SSSDSSSSD
-
-stieß ene deiden Schreie aus, die Guddai durch brutales Zus
-drückn ihrer Kehle zu verhindern suchte. Desghalb klangen
-ihre Schreie so eigentümlich, des8halb wußten wir nicht recht,
-wober !sie kamen. - Und ich, Herr Geheimrat, — oder besser
-mit n.ir ist’s jezt so v-ie mit einem Rückkopplungsempfänger,
+stieß ans beiden Schreie aus, die Guddai durch brutales Aus
+drückn ihrer Kehle zu verhindern suchte. Deshalb klangen
+ihre Schreie so eigentümlich, deshalb wußten wir nicht recht,
+woher!sie kamen. — Und ich, Herr Geheimrat, — oder besser
+mit mir ist’s jetzt so die mit einem Rückkopplungsempfänger,
 bei dem die Rükopylung plötzlich wieder einsetzt … Ich
-war «.eistig ensschlumn ert … Nun aber reagiert mein Hirn
-wieder auf die seinsten Schwingungen. Ich bin wieder —
-— iG selbs!! Und jetzt, wo die Eisenllammern einer tkiefen
-Verzw.islung meinen Kopf freigegeben haben, werde ich auch
-den Veg finden, der zu Doktor Shing Guddai führt. Hier
-bei Ikaen sreilich spiele im weiter den Kranken. NWber —
-die Ne:chke werden die Zeit der Arbeit werden. Guddai ist
-nur nit den Mitteln streng logischen Denkens zu finden.
-IH — kann wieder denken.« —
+war «.eifrig anschaun er! … Nun aber reagiert mein Hirn
+wieder auf die feinsten Schwingungen. Ich bin wieder —
+— ich selbst! Und jetzt, wo die Eisenklammern einer tiefen
+Verzwislung meinen Kopf freigegeben haben, werde ich auch
+den Weg finden, der zu Doktor Shing Guddai führt. Hier
+bei Ihnen freilich spiele im weiter den Kranken. Aber —
+die Ne:echte werden die Zeit der Arbeit werden. Guddai ist
+nur nicht den Mitteln streng logischen Denkens zu finden.
+Ich — kann wieder denken.« —
 
-Ursere beiden Zirmer lagen naH dem Park hinaus,
-hatten eine leine Loagia, von der eine Treppe in den
-Garten führte, der si&ck die bewaldete Berglehne hinanzog.
+Unsere beiden Armen lagen naß dem Park hinaus,
+hatten eine Leine Zeugin, von der eine Treppe in den
+Garten führte, der steckt die bewaldete Berglehne hinanzog.
 
 Es war elf Uhr abends. Wir saßen im Dunkeln in
-unseren: Wohnzimmer. In dem großen Gebäude war’s toten-
-still
-Drc vken tropffken Negentränen mit blehernem Ton auf
+unseren: Wohnzimmer. In dem großen Gebäude war’s totenstill
+Dir oben straffen Negentränen mit blechernem Ton auf
 die Zinfeinfassung der Loggiabrüstung.
 
-Har ild rauchte, — es war beute die achte Mirakulum.
-Die glihende Epihe der Zigarette war der einzige lichte
+Haar ich rauchte, — es war heute die achte Mirakulum.
+Die Blitzende Spitze der Zigarette war der einzige Lichte
 Hdewegliche Punkt,
 
-Ich jaß und beobachtete dieses Glühwürmchen und wartete.
-Ich wolite den Freund nicht stören. Seine Gedanken suchten
-Guddais Sctupswinkel.
+Ich saß und beobachtete dieses Glühwürmchen und wartete.
+Ich wollte den Freund nicht stören. Seine Gedanken suchten
+Guddais Schlupfwinkel.
 
-So sehr ich nun auch die geistigen Gaben Harsts schätlte
-und viel.ceicht als einziger richtig zu bewerten weiß: in diesem
-Falle erschien mir jegliche Bemühung, diesem mehr als ge-
-wißten »Usiaten, der bereits so zahlreiche Proben einer bis
-ins Wur.derbare gesteigeeten Klugheit, Vorsicht und kalter Ve
-rechnung abgelegt hatte, auf die Spur kommen zu wollen, aus-
+So sehr ich nun auch die geistigen Gaben Harsts schätzte
+und vielleicht als einziger richtig zu bewerten weiß: in diesem
+Falle erschien mir jegliche Bemühung, diesem mehr als gewissen
+»Asiaten, der bereits so zahlreiche Proben einer bis
+ins Wunderbare gesteigerten Klugheit, Vorsicht und kalter Ne
+Rechnung abgelegt hatte, auf die Spur kommen zu wollen, ausbu.
 <@pagebreak/>
-bu. ]
+]
 
-ESE SSOEVESSSSSSS 15 SSSSSSSSSSSTS
+Ehe SSOEVESSSSSSS 15 SSSSSSSSSSSTS
 
-fühtslo8 und … verwegen, fast eine Anmaßung in Ans
+kühleres und … verwegen, fast eine Anmaßung in Ans
 
-betta)! ber Jatsache, baß selbst ber Ricesenapparat der Ber
-liger Qriniinalpolizei wil seinem feltiern, sauber arbeitenden
-Käderwertf niwisg batte ausrichten Lönaea. All die unzäh-
-ligen VBrtife, vie Wfolge der lokenden 50 07) Mark uns
-ins Haus zeil::tter!, waren ja im Riesendau am Ulexander-
-play gleichfailg geprüft und gesiebt und nochmals gesiebt
-worden. Abex — wie gesagt — in dem ’seinmaschigen Siede
-war schließliH nur eit? zucüdgeblieben: die Leere der Yue
-siczigsoftgkeit al: dieser phantasievollen Ungabden! —
+desto)! der Tatsache, laß selbst der Riesenapparat der Der
+völliger Qriniinalpolizei wir seinem Poltern, sauber arbeitenden
+Käderwertf Massa hatte ausrichten Können. All die unzähligen
+Brille, die Infolge der lebenden 50 07) Mark uns
+ins Haus Teil::hier!, waren ja im Riesenbau am Alexanderplatz
+gleichfalls geprüft und gesiebt und nochmals gesiebt
+worden. Aber — wie gesagt — in dem ’seinmaschigen Diebe
+war schließlich nur eilt? zurückgeblieben: die Leere der Tue
+siczigsoftgkeit all: dieser phantasievollen Angaben! —
 
-Tas glühende Pünkicen wanderte vor wir in zienlich -
-3/2icmhmäßigen Baujen von unten nacH oden — zum Munde
-des unsichtbaren ;Freundes, — von oben naH unten, wo
-bie Hand mit der Ziochceite dann wieder ihren Ruheplatz auf
+las glühende Pünktchen wanderte vor wir in ziemlich —
+3/2icmhmäßigen Laufen von unten nach oder — zum Munde
+des unsichtbaren;Freundes, — von oben naß unten, wo
+die Hand mit der Kicherte dann wieder ihren Ruheplatz auf
 dem bdoHgugezogenen Knie fand.
 
-Cine volle Stunde war so verstrihen. Behutsam, ge-
-röuschlos he’te ich soeben nach der Uhr gesehen. Das Leuchte
-zisserblatt giozte mich wie das Auge eines Zyklopen an, und
-die dunklen Stricze der Zeiger meldeten wenige Minuten
-aac; (if. Ich schob die Uhr wieder in die Westentasche
-und gähute verstoblen. IM war müde. Auch dei mir war
-heute eine angenehme Entspannung der Verven eingetreten,
+Eine volle Stunde war so verstrichen. Behutsam, geräuschlos
+he’te ich soeben nach der Uhr gesehen. Das Leuchte
+Zifferblatt Grotte mich wie das Auge eines Zyklopen an, und
+die dunklen Stricke der Zeiger meldeten wenige Minuten
+nach; (ist. Ich schob die Uhr wieder in die Westentasche
+und gähnte verstohlen. im war müde. Auch bei mir war
+heute eine angenehme Entspannung der Werden eingetreten,
 das Bewußtsein, daß Harald »erwacht« war, hatte all meine
-KefürcHtungen zerstreut und mir die innere Rude zurück-
-gegeden, die sich nun in eineni kaum noF zu unterdruckenden
-EHlafbebürfnis äußerte.
+KefürcHtungen zerstreut und mir die innere Ruhe zurückgegeben,
+die sich nun in einen! kaum noch zu unterdrückenden
+Schlafbedürfnis äußerte.
 
-54 !schlief wirklich ein. Meine Anstrengungen, den kumer
+54!schlief wirklich ein. Meine Anstrengungen, den kamen
 wieder auf die Brust herabsinkenden Kopf zu heben und das
-glaübergleiten der Gedanken in die Jraumwelt zu verhindern,
+Hinübergleiten der Gedanken in die Stammelt zu verhindern,
 blieben erfolglos.
 
-Ich schlief, obne es zu wissen.
+Ich schlief, ohne es zu wissen.
 
-Und wenn ich im Sißen, im Sessel sc&chlafe, dann !duarhe
-iG noch mehr als sonst.
+Und wenn ich im Sitzen, im Sessel sc&chlafe, dann!kannte
+ich noch mehr als sonst.
 
 Eine Hand rüttelt mich leicht …
 
-Hm Nu bin ic munter …
-<@pagebreak/>
-»’VDEIDI0020205058 16 D0OEEEESSEEELEED
+Hm Nu bin ich munter …
 
+<@pagebreak/>
 »Entschuldige schon, mein Alter, « sagt Harald leise …
 »Aber du wirst dich hier erkälten. Die Zentralheizung Bü
-abgestellt, und es sind hier kuum nern Grad …
+abgestellt, und es sind hier kaum gern Grad …
 
-Es ist noch geriaujo dunkel wie vvedem im Zimmer. Diz
-geschlossenen Fenstervorhänge und die herabgelasscnen Stabs
-Jalousien versperren dem Halbdunlel der regueriscgen Volbo
-mondnacht jeden Weg in diesen nüchternen Raum der großen
+Es ist noch genauso dunkel wie vordem im Zimmer. Die
+geschlossenen Fenstervorhänge und die herabgelassenen Stadt
+Jalousien versperren dem Halbdunkel der regueriscgen Volke
+Mondnacht jeden Weg in diesen nüchternen Raum der großen
 Genesungsanstall.
 
-… »Wie spät ist e3?« frage ich sjchuldbewußt. Wiein Chuurch-
-konzert muß Harald stark belästigt haven,
+… »Wie spät ist es?« frage ich schuldbewußt. Ufern Schnarchkonzert
+muß Harald stark belästigt haben,
 
 »Ein Uhr …«
 
-»Ein Uhr?! Unmöglich!« Ig) bin völlig munics. Ih
-bin so munter und so mit alleu Sinuen wieder im Bilde
-unserer trostlosen, aussichtslojen- Lage, daß mir sofort etwas
-»auffällt: die Luft im Zimmer ist fris.:, und rein, von Ziga-
-Teitenrauch keine Spur mehr,
+»Ein Uhr?! Unmöglich!« Ich) bin völlig Wunsch. Ich
+bin so munter und so mit allein Sinnen wieder im Bilde
+unserer trostlosen, aussichtslosen- Lage, daß mir sofort etwas
+»auffällt: die Luft im Zimmer ist ins.:, und rein, von Zigarettenrauch
+keine Spur mehr,
 
-»Darald, du hast gelüftet?«
+»Harald, du hast gelüftet?«
 
 »Wie man’s nimmt, mein Alter …«
 
 »Du warst draußen?« — und meine Hand fährt über
-seinen regenfeuchten rauhen Gummimantcl.
+seinen regenfeuchten rauhen Gummimantel.
 
-»3a … Born im Garkten. in einem Gebüsch unweit des
-»Haupteingangs … Und dann auf dem Balkou über unserer
-?oggia.«
+»Ja … Vorn im Garten. in einem Gebüsch unweit des
+»Haupteingangs … Und dann auf dem Balkon über unserer
+?rosig.«
 
-»Weghalb das?« — Mein Hirn arbeitet mit Hochdruck.
+»Weshalb das?« — Mein Hirn arbeitet mit Hochdruck.
 
-»Aun, als wir um halb zehn mit den auderen Patienten
-im Salon saßen, erhielt der Geheimrat nv.) die telephouische
+»Nun, als wir um halb zehn mit den anderen Patienten
+im Salon saßen, erhielt der Geheimrat Nr.) die telephonische
 Nachricht, daß die Gattin des Direktors der ostayiatischen
-ECinfuhrgesellsc&ast, des Chinesen Tschau Manz, nod abends
-eintrefjen würde: plößliczer VWervenzujammenbeuch mit Wut-
-anfällen. — Ih wollte mir Frau Tschau Manz ausehen. Sie
-kam um halb zwölf im eigenen Auto in Begleilung ihrer
-HinesisMen Zofe.«
+ECinfuhrgesellsc&ast, des Chinesen Tschau Manz, noch abends
+eintreffen würde: plötzlichen VWervenzujammenbeuch mit Aufzufallen.
+— Ich wollte mir Frau Tschau Manz ansehen. Sie
+kam um halb zwölf im eigenen Auto in Begleitung ihrer
+Chinesischen Zofe.«
 
 Wir ging ein Licht auf.
 
 »Harald — Spione Guddais«
 
-»Ia, bestimmt. Das weiß ich nun. Und das freut mich,
+»Ja, bestimmt. Das weiß ich nun. Und das freut mich,
 <@pagebreak/>
-EBDBSO0SESESESBSDSSSESETP 17 ESE SSDESBSIDIESSSD
+— Fehler sind dazu da, daß sie gemacht werden. Frau Tschau
+glaubte uns im tiefsten Schlaf, Deshalb war sie etwas
+unvorsichtig. Bis ich auf ihrem Balkon stand, konnte ich
+sie und die Zofe Eure; einen Spalt in den Wollüstigen beobachten.
+Die Zofe ist alt. Aber leite: kein Weib, sondern
+ei: verkleideter dürrer Chinese, der sich, mit Frau Siechtum
+wt Kümmel allein, Bureaus nie! zofeummöäßig vernahm. Erstens
+gelernt er, zweitens trägt er Perücke und Bruders zeigte er
+Frau Tschau eine kleine RVepetierpistole, grinste und sagte
+raus dazu. Was — ah) habe es nicht verstehen können.
+Trotzdem genügt mir das … Geschaute von Frau Afghan, —
+eint leichter Gleichklang der Worte. »Geschaute« — »Tschau«,
+Jan könnte daraus sogar einen Kunstwerk machen …«
 
-— Fehler sind dazu da, daß sie gemacht werden. Frau Tschuu
-glaubte uns im tiessten Schlaf, Deshalb war sie etwas
-unvorsichtig. Vis ih auf ihrem Balkon stand, kounte iH
-sie und die Zose dure; einen Spalt in den Borbüängen de-
-obadzicu. Die Zofe ist alt. Wber leite: kein Weid, sondern
-ei: verkleideter dürrer Chinese, der sid, mti Frau Jiscdau
-wt Zümnuet aftein, dureuus niet zofeummöäßig deuahm. Crstent
-priemt er, zweitens trägt er Perücke und drütens zeigte er
-Teau Ischau eine kletae RVepetierpistole, grinste und sagte
-iwas dazu. Was — ah) habe es nicht verstehen können.
-Seozdem genügk mir das … Geschaule von Frau Fischau, -
-eint leichter Gleichklang der Worte. »Geshaute« — »Jschau«,
-aan fönute daraus sogar einen Knitelvers mochen …«
+»Du wurdest argwöhnisch, weil diese Chinesische Dame heult
 
-»Du wurdest argwöhnisch, well diese HinesisFe Dame bcul
+Bach uns hier …«
 
-gach uns hier …«
+»Ja — und weil Guddai ja auch mit Chinesen »engste
+Beziehungen unterhält. Denke an Schloß Bauart …«
 
-»Ia — und weil Quddai ja auch mit Chiuesen «engste
-Weziebungen unterhält. Denke an Schloß Bawari …«
-
-»Allerdings … — Und du hoffit nun, daß Frau Ischau
-uits zu Guddat …«
+»Allerdings … — Und du hofft nun, daß Frau Tschau
+Biskuits zu Guddai …«
 
 »Stopp …! So grobe Fehler würden die Herrschaften
-duch) nicht begehen. Nein, ich hoffe auf etwas auderer …
-aber davon morgen … — Ins Beitit«
+durch) nicht begehen. Nein, ich hoffe auf etwas anderer …
+aber davon morgen … — Ins Bett«
 
-Weiter in idu dringenk! -« Absolut zweklos. Dea
-… »rwachte« Harst hatte auc wieder all seine Cigentüu lich-
-teten zurüdgewonnen — in manchem freilkeh im zweifel
-vafter Gewiuau.
+Weiter in ihn dringend! -« Absolut zwecklos. Den
+… »rauchte« Harst hatte auch wieder all seine Eigentum lichteten
+zurückgewonnen — in manchem Fleisch im Zweifel
+Master Gewiuau.
+
 <@pagebreak/>
-E00202200000200 13&nbsp;000000 ESE0D03D
-<h2>3. Kapitel.</h2>
-<h3>Ciner der 50000»-Nurk«»Briese.</h3>
 
-VBormitiags schien die Counue, wurald jag in der Liege-
-halle in einer Reihe mit zwan.iy »Hamen und 1yzerren, die
-gleichfalls krank jein wollten. trarjt woltte e3 aus bestimmten
-Gründeu. Cr shauspielerte glänzend. Ich als sein gejunder
-Begleiter erging mich im Park, sjtiez den Becg empor bis
-zu einem Augsühtspavillon und genoß das reizvollc Bild
+<h2>3. Kapitel.</h2>
+<h3>Einer der 50000»-Park«»Briefe.</h3>
+
+Vormittags schien die Sonne, Wunsch lag in der Beschaffe
+in einer Reihe mit kannst »Kamen und 1yzerren, die
+gleichfalls krank sein wollten. starrt wollte es aus bestimmten
+Gründen. Er schauspielerte glänzend. Ich als sein gefunden
+Begleiter erging mich im Park, stieß den Berg empor bis
+zu einem Augsühtspavillon und genoß das reizvolle Bild
 dieser märkischen Landschaft.
 
-Cs war warin. Dic Sonne gab sich alle Mühe, das Fräh-
-linggahnen in der Natur wirkjam zu anterstüßeu.—
+Es war worin. Dir Sonne gab sich alle Mühe, das Frühlingsahnen
+in der Natur wirksam zu unterstützen.—
 
-Mit einem Male erhielt im Gesellschaft. Die fieine
-übderelegante Dame mit dem geschminkten Puppengesichtder.
-in einen kostbaren Zobelpelz : gehüllt, hatte iH !chon beim
+Mit einem Male erhielt im Gesellschaft. Die kleine
+übderelegante Dame mit dem geschminkten Puppengesicht der.
+in einen kostbaren Zobelpelz: gehüllt, hatte ich!Schon beim
 gemeinsamen Frühstück kennengelernt.
 
-Frau Tsichaus Englisch war stark amerikanisiert.
+Frau Tschaus Englisch war stark amerikanisiert.
 
-»Es ist sehr schön hier, Mr. Scraut,« degann site die
+»Es ist sehr schön hier, Mr. Schraut,« begann sie die
 Unterhaltung und lehnte sich an die Brüstung. Ihre schwarzen
-Augen tasteten forschend in meinem Gesiht umher. Sie
-sHien miG&? als Gegner zu taxieren. Dann sagte sie mit
-balbemt Lächeln: »Ich freue mich sehr, hier Ihren Freund
-Harst und Sie kennengelerut zu haben. Ih interessiere mich so
-ungemein für Krimiualgeschichten.«
+Augen tasteten forschend in meinem Gesicht umher. Sie
+schien nicke? als Gegner zu taxieren. Dann sagte sie mit
+Balkons Lächeln: »Ich freue mich sehr, hier Ihren Freund
+Harst und Sie kennengelernt zu haben. Ich interessiere mich so
+ungemein für Kriminalgeschichten.«
 
-»Öm — RKriminalgeschichten?!« meinte ich liebenöswurdig.
+»Öm — Kriminalgeschichten?!« meinte ich liebenswürdig.
 »Damit kann ich kaum aufwarten, Frau Tschau. Unsere
 Globetrotter-Erlebnisse sind ja im Grunde keine Detektive
-abenteuer, mehr ein Gemisch von …
+Abenteuer, mehr ein Gemisch von …
 
-»Über spannend sind sie do) … »tw fiel sie nir lebhaft
+»Über spannend sind sie da) … »tw fiel sie mir lebhaft
 ins Wort. »Zum Beispiel Ihr Kampf gegen, den Berschwör er
-Gul … Gul … Gulbrai hieß er wohl …
+Gut … Gut … Balkons hieß er wohl …
 
 »Guddai, Frau Tschau …« — Sie »ging scharf ins
-Zeug, das mußte 1 man ihr lassen — zu scharf! In utir seizten
+Zeug, das mußte 1 man ihr lassen — zu scharf! In nur setzten
 
-Sauiend Teufel …
+Tausend Teufel …
+
 <@pagebreak/>
-SSSSSSSSSSSS 19 DSSSSSSSSSSSD
-
-»Guddai hieß er … Ja, und dieser Malate hat nun
+»Guddai hieß er … Ja, und dieser Malaie hat nun
 meinen armen Freund auf dem Gewissen …«
 
-»Oh, wie ich ihn bedauere …!’ In ihren Augen blitte
+»Oh, wie ich ihn bedauere …!’ In ihren Augen bitte
 versteckter Hohn … Denn dieses »ihn« konnte sich ebenso
 gut auf Guddai wie auf Harald beziehen. »Und dann die
 arme Fratz Harst …! Ob denn so gar keine Aussicht besteht,
-sie zu sinden?«
+sie zu finden?«
 
-Aha - also das war’s!!«
+Aha — also das war’s!!«
 
-»Leider nein,« seufzte ich trüde und starrte vor mich
-hin. »Harald ist ja vollkommen ausgeschaltet … ganz abs
-geschen davon, daß jede weitere Suche. noaH Frau Harst auß
-zwecklos wäre. Harald beabsichtigt, Guddai durch Zeitungs«-
-inserat eine volle Million zu bieten, wenn der malalische
+»Leider nein,« seufzte ich trübe und starrte vor mich
+hin. »Harald ist ja vollkommen ausgeschaltet … ganz als
+gesehen davon, daß jede weitere Suche. rauh Frau Harst aus
+zwecklos wäre. Harald beabsichtigt, Guddai durch Zeitungsinserat
+eine volle Million zu bieten, wenn der malaiische
 Doktor seine Mutter freigibt.« — Dies war nicht von mir,
-sondern Harst8 Idee: er hatte damit gerechnet, daß Frau
-Tschau sid an mich heranmachen würde,
+sondern Harsts Idee: er hatte damit gerechnet, daß Frau
+Tschau sich an mich heranmachen würde,
 
-»Oh — eine Million!!« rief sie und schlug dit !ein
-behandschhuhten Puppenhändchen Tall ichs »Eine Million’!!
+»Oh — eine Million!!« rief sie und schlug dir!ein
+behandschuhten Puppenhändchen Tal! ich’s »Eine Million’!!
 Aber Guddai wird wohl zu vorsichtig sein, wird eine Falle
 wittern und …« —.
 
-»Harsts Chrenwort wird ihm genügen.«
+»Harsts Ehrenwort wird ihm genügen.«
 
 »Aber — die Polizei?!«
 
-»vat damit nichts zu tun. Frau Harst muß defreit
+»hat damit nichts zu tun. Frau Harst muß befreit
 
 werden, sonst geht Harald zugrunde.«
-»Wenn es mir gelängel« — und wieder da der glitzernde
+»Wenn es mir gelänge!« — und wieder da der glitzernde
 
 Hohn in: ihren Augen …
 
-Das war eine gefährliche kleine Bestte im Zobel, diese
+Das war eine gefährliche kleine Bestie im Zobel, diese
 Madame Tschau!l! Nur — dumm war sie! Guddai hatte
-mit ihr keinen glüklichen Griff getan, als er sie hierher
-sHickte. Sie war eine schlehte Diplomatim. — Wer weiß,
+mit ihr keinen glücklichen Griff getan, als er sie hierher
+schickte. Sie war eine schlechte Diplomat im. — Wer weiß,
 welch’ weitere Blöße sie sich noch geben würde!
 
-Und sie klat’s …
+Und sie sind’s …
 
-»Haben Sie denn so gar keine Ahnung, ob Gudda«s
+»Haben Sie denn so gar keine Ahnung, ob Guddai
 noch in Deutschland ist, Mr. Schraut?«
 
-In Deutschland — ausgeshHlossen! Harald nimmk an,
-
-«.
+In Deutschland — ausgeschlossen! Harald nimmt an,
 <@pagebreak/>
-SDSDSSSSSSSS 20 DSSDSSISTDSDSS
-
-daß er Frau Harst im Auko über die polnische Grenze
-entsührt hat. In Polen gibt es sicher bessere Berstecke als hier,
+daß er Frau Harst im Auto über die polnische Grenze
+entführt hat. In Polen gibt es sicher bessere Verstecke als hier,
 Wer das dceutsch-russissgpe Polen kennt, der weiß, daß in
 den dortigen Wäldern und einsamen Gutshöfen selbst mehrere
 Menschen spurlos verschwinden können.«
 
-Sie nidte eifrig; »Oder — Guddai ist längst wieder
+Sie nickte eifrig; »Oder — Guddai ist längst wieder
 in Asien irgendwo …«
 
 »Auch das ist möglich …«
 
-Donn kam sie auf etwas anderes zu sprechen. -
+Dann kam sie auf etwas anderes zu sprechen. —
 
-Der Jag verging. Wieder wurde es Abend … Wieder
-saßen wir gegen halb elf im Dunkeln … Ueber uns dei
-Frau JIschau erst noc« Schritte, dann Stille …
+Der Lag verging. Wieder wurde es Abend … Wieder
+saßen wir gegen halb elf im Dunkeln … Über uns bei
+Frau Tschau erst noch« Schritte, dann Stille …
 
-Harald rauchte heute nigt. »IH muß wieder Patient
-sein,« hatte er erflärt. Mit dem Ergebnis meiner Untere
-haltung mit der Spionin war er schr zufrieden gewesen.
+Harald rauchte heute nicht. »Ich muß wieder Patient
+sein,« hatte er erklärt. Mit dem Ergebnis meiner Untere
+Haltung mit der Spionin war er sehr zufrieden gewesen.
 
-Heute war’s draußen mondhell, llarer Himmel, leichter
-Wind, der leider von den Rütkger-Werken in Erkner die
-Jeerdünste bis nac Woltersdorf wehte. Freilich — dicser
-Gernch) soll gesund sein. Wir ist reine Kiefernluft lieber.
+Heute war’s draußen mondhell, klarer Himmel, leichter
+Wind, der leider von den Rätsel-Werken in Erkner die
+Jeerdünste bis nach Woltersdorf wehte. Freilich — dieser
+Geruch) soll gesund sein. Wir ist reine Kiefernluft lieber.
 
 Harst und ich saßen auf dem Sofa nebeneinander. Daß
 diese Nacht uns irgend etwas Besonderes bringen würde,
-ahnte iß. Harald hatte vorhin noch allerlei mit dem ver-
-sOchwiegenen Geheimrat zu flüstern gehabt.
+ahnte ich. Harald hatte vorhin noch allerlei mit dem verschwiegenen
+Geheimrat zu flüstern gehabt.
 
-Wir boteten,
+Wir bohrten,
 
-Oben dlied alles still …
+Oben blieb alles still …
 
-»ID traue dem Frieden nicht,« meinte Harald leise.
-»Wenn ich auch nichk sürchte, daß Frau Tschau und ihre
-famose Zofe- etwas gegen uns beide planen, so bin ich ander«
-seits doh überzeugt, daß sie sich noch Gewißheit verschaffen
-wollen, ob wir wirklich s» ganz untätig sind. Am besten
-ist, wir legen uns wirklich zu Bett, wenn auch in Klei-
-ern …«
+»Ich traue dem Frieden nicht,« meinte Harald leise.
+»Wenn ich auch nicht fürchte, daß Frau Tschau und ihre
+famose Zofe- etwas gegen uns beide planen, so bin ich anderseits
+doch überzeugt, daß sie sich noch Gewißheit verschaffen
+wollen, ob wir wirklich s« ganz untätig sind. Am besten
+ist, wir legen uns wirklich zu Bett, wenn auch in Kiefern
+…«
 
-»Du hast nochß etwas vor?«
+»Du hast noch etwas vor?«
 
-»3a …
+»Ja …
 
 »Was denn?«
-<@pagebreak/>
-222DSGSSSSSSS 21 / DSSSSSSSSSSS
 
-»Eine Probe auf metin Denk-Exempel, mein liebe
+<@pagebreak/>
+»Eine Probe auf wenn Dank-Exempel, mein liebe
 Alter …«
 
 »Ah — du hast eine … Spur gefunden?«
 
-»BVielleiht … Keine Spur freilich sondern nur die Mög
-lihfeit, auf eine Fährte zu gelangen. — Gehen wir zu
-Bett … Aber die Jenstervorhänge im Schlafzimmer lassen
+»Vielleicht … Keine Spur freilich sondern nur die Moos
+lichtet, auf eine Fährte zu gelangen. — Gehen wir zu
+Bett … Aber die Fenstervorhänge im Schlafzimmer lassen
 wir etwas offen, ebenso den einen Fensterflügel … Wir
 wollen es der »Zofe« leichter »machen …-. Auch mußt du
-schnardzen, tüchtig schnarchen … —.
+schnarchen, tüchtig schnarchen … —.
 
-Halb 3zwölf. Hm Hause Ste …
+Halb 3zwölf. Hm Hause Sie …
 
-Ih liege und schnarche., Der Mond scheint auf unsere
+Ich liege und schnarche., Der Mond scheint auf unsere
 
-enster …
-Ein Schatten, der Kopf eines Menschen mit Ballonmüße,
+Fenster …
+Ein Schatten, der Kopf eines Menschen mit Ballonmütze,
 schiebt sich draußen vor das offene Fenster …
 
-Der Schatten ist eine scharf umrissene Silhouette, die lang-
-sam über den Vorhang gleitet.
+Der Schatten ist eine scharf umrissene Silhouette, die langsam
+über den Vorhang gleitet.
 
 Ich schnarche …
 
-Die Silhouetke wächst … Der Oberkörper wird »sichtbar,
+Die Silhouette wächst … Der Oberkörper wird »sichtbar,
 der Kopf neigt sich zum Fenster Hinein …
 
-Ih sehe … blinzele …
+Ich sehe … blinzele …
 
 Es ist ein Chinamann, im Kostüm eines, europäischen
 Stromers …
 
 Die »Zofe« …
 
-Der Rerl horcht … de«.
+Der Kerl horcht … he«.
 
-Ih schnarchi … oo dE
+Ich schnarcht … Co Dr
 
 Hm Zimmer ist’s hell genug …«? Er muß unsere Köpfe
-auf den Nissen erkennen,
+auf den Wissen erkennen,
 
-Der Kopf zieht sich zurück … Die Silhouette wird. der-
+Der Kopf zieht sich zurück … Die Silhouette wird. der
 
-schwommen, entschwindet …
+verschwommen, entschwindet …
 Harst ist mit einem Satz aus dem Bett, eilt zum
 Fenster …
 
 Ich stehe hinter ihm …
-»Er klettert zum Balkon empor,« meldek Harald … »Jett
+»Er klettert zum Balkon empor,« meldet Harald … »Jetzt
 
-find wir fret … Noch; eine halbe Stunde, und wir werden
+sind wir frei … Noch; eine halbe Stunde, und wir werden
 aufbrechen …« — Er drückt meinen Arm. »Max Schraut,
 <@pagebreak/>
-DSSSSSEDSSSS 99 DSDSISSSSSSDS
 wenn wir Glück hätten …! Es geht um meine Mutter …
 
-Ader - mein Hirn ist elastisch … meine Gedanken eilen
-wie anf leichtbesczwingte1 Rossen … Ich bin wieder ich!« -
+Ader — mein Hirn ist elastisch … meine Gedanken eilen
+wie auf leichtbesczwingte1 Rossen … Ich bin wieder ich!« —
 Zwölf Uhr …
 
-arst dat das Schloß und die Gelenke der Loggiakür geölt
-Lautlovä Zuschten wir hin us — durch den Park, klettern über
+Harst daß das Schloß und die Gelenke der Loggiakür geölt
+Landhaus Huschten wir hin ins — durch den Park, klettern über
 das Gitter, sind im Walde, sind auf der Straße.
 
-Eine Auko hält dort, das des Geheimraks.
+Eine Auto hält dort, das des Geheimrats.
 
 Der Chauffeur, ein älterer Mann, faßt an die Mühe.
-Harst trit näher.
+Harst tritt näher.
 
 »Mat’ticß,« sagt er eindringlich, »der Herr Geheimrat
-haf Sic «15 verschwiegen »?mpsohlen. Sie erhalten sünstausend
+Schaf Sie »15 verschwiegen »?urteilen. Sie erhalten fünftausend
 Mark …«
 
-Der Thauffeur nickt. »Herr Harst — für Sie auch ohne
-Geld allo? — alles! Sie können sich auf mich verlassen.«
+Der Chauffeur nickt. »Herr Harst — für Sie auch ohne
+Geld also? — alles! Sie können sich auf mich verlassen.«
 
-Harald gibt ihm die jand. »Malttieß, es geht um meine
+Harald gibt ihm die fand. »Mattes, es geht um meine
 
-Mutter …!« -
+Mutter …!« —
 
-»Ich zabe selbst noH eine, Herr Harst, und ich bin ein
-guter Coln … — Wohin?«
+»Ich habe selbst noch eine, Herr Harst, und ich bin ein
+guter Sohn … — Wohin?«
 
-»Rach Möllenhorst am äußersten Winkel des Möllen-
-sees …
+»Nach Möllenhorst am äußersten Winkel des Wolkenfrei
+…
 
 »Weiß Bescheid …«
 
-»Eie fahren bis sünshundert Meker vor dem ersten
-Hause, dam in den Wald hinein, damit das Auto nicht
-aussällt
+»Sie fahren bis fünfhundert Meter vor dem ersten
+Hause, kam in den Wald hinein, damit das Auto nicht
+auffällt
 
-Wir s.elgen ein.
+Wir zeigen ein.
 
-Wie kommk Harst auf jenen entlegenen Erdensleck -
+Wie kommt Harst auf jenen entlegenen Eichenstock —
 Mötllenhorist?!
 
 Der Kraftwagen saust die mondhelle Chaussee entlang.
-Harst hält mir sein Zigarettenetni hin … Wir rauchen,
+Harst hält mir sein Zigarettenetui hin … Wir rauchen,
 
-Dany beginnt er, und eine seltsame, tiefinnere Erregung
-ist in sein:!r Stimme: »Ih habe nicht ohne Grund unseres
-Haugarztes Borschlag, das Sanatorium Waldesruh aufzu-
-jichen, angenommen. Woltersdorf liegt schr günstig, denn
+Dann beginnt er, und eine seltsame, tiefinnere Erregung
+ist in sein:!r Stimme: »Ich habe nicht ohne Grund unseres
+Haugarztes Vorschlag, das Sanatorium Waldesruh aufzurichten,
+angenommen. Woltersdorf liegt sehr günstig, denn
 <@pagebreak/>
-qüOSSSIOSESSSSSS 92993 SDSSSSSOSSSS
+die Möllenhorst fahren wir knapp Sitte halbe Stunde …:«
 
-dis Möltenhorst fahren wir knapp 2ine halbe Stunde …:«
+»an Ellen
 
-»an ELTEN
+Er spricht sein weiter: »Wie ich gerade auf Wolkenbank
+schäumen Sinn! — Besinne dies, unter den Briefen,
+die wir auf ie ausrichten 50.000 Mark bin erhielten, war
+eines, der am letzten Jage kam, bevor ab mich entschloß, mir
+diese Saal zwecklosen Prüfung inhaltgloser Angaben zu ein
+klarer. Ich warf ihn Arbeit Papierkorb. Die anderen von
+jenem Moores?!:; sich. flott 53x na:) kürzer Durchsicht der Polizei
+ein. Und doch entgeht leiser Brief, der zerknüllt im Papierkorb
+lag, einen wertvollen Wink. Erst der, als ich … erwacht war,
+kam mir das zum Bewußtsein. Mein: Hauses Gedächtnis hat Dr
+den Inhalt dieses letzten Schreibens, das ich gelesen und dann
+hoffnungslos in den Papierkorb geschleudert hatte, wieder restlos
+reden!Geviert. Co lautete etwa:
 
-Sr jpricht join welter: »Wie ich gerade auf Möllen-
-bart geköannen biny! — Besinne dieh, unter den Vriefen,
-die wir auf ie ausgeickhten 50.000 VWlark din erdielten, war
-eines, ber am ieizten Jage kant, bevor ub mid entschloß, mir
-dicje Dual zwerkloser Piusfung inhaltgloser Ungaben zu erv
-sbarer. Ich warf ihu ir ben Papierkorb. Die anderen von
-jenem Moxrg21:; si. flctt 53x na:) kürzer Durchsicht der Polizei
-ein. Und boch entlzelt jeizer Beief, ber zerknüllt im Papterkord
-lag, einen wertvelten Wink. Erst dier, als ich … erwacht war,
-fam mir das zum Bewaßtsein. Meir: zZutes Gedächtnis vat tr
-den Inhalt dieses letzten Schcceibens, das ich gelesen und dann
-bofsjuungsgios in den Papierkorb geschleudert haite, wieder rest-
-los rekon!truiert. CA lautete etwa:
-
-Rudersdorf, den … «. -
-Sehr geehrter Herr Hars!!
+Nadelscharf, den … «. —
+Sehr geehrter Herr Harst!
 
 Das tragische Geschick Ihrer Frau Mutter ist mir,
-einer Frau, die zu den durch« die Inflation Euterbten
-qehört, sehr nahe gegangen. Die Zeitungen baben über
-jenen malaiisHen Urzt Doktor Guddai, der hier als Haupt-
-schuldiger in Betracht kommt, mancherlei veröffentlicht, auch
-über seine Gewandtheit, sein Aeußeres vollkommen zu ver-
-andern. — Dies als Cinleitung zu meinen vielleicht werte
-losen Mitteilungen.
+einer Frau, die zu den durch« die Inflation Enterbten
+gehört, sehr nahe gegangen. Die Zeitungen haben über
+jenen malaiischen Arzt Doktor Guddai, der hier als Hauptschuldigen
+in Betracht kommt, mancherlei veröffentlicht, auch
+über seine Gewandtheit, sein Äußeres vollkommen zu verändern.
+— Dies als Einleitung zu meinen vielleicht wertlosen
+Mitteilungen.
 
-Id bin dur die Not gezwungen worden, mir einen
-Erwerb zu schassen. Meine descheidene Anlage für SCchnit-
-Funst und Bildhaueret, die iH fcüher zu meinem Bergnügen
+Ich bin durch die Not gezwungen worden, mir einen
+Erwerb zu schaffen. Meine bescheidene Anlage für Schuttwall
+und Wirksameres, die ich früher zu meinem Vergnügen
 weit ausgebildet hatte, ließ mich auf den Gedanken kommen
-den Kalksteinreictum der hiesigen Gegend auszunuhens
-Ih stelle aus Kalkstein Figuren her, die ich durr ein
-eigenes Berfahren härte und färbe und die dann als »italie«
-nische Terrakotten« verkauft werden — ein armseliger Ver-
-diens!! — Wein Material zu den Statuetten finde iH auf
-meinen Spaziergängen. Sie wissen, daß Rüdersdorf durc
+den Kalksteinreictum der hiesigen Gegend Auftauchens
+Ich stelle aus Kalkstein Figuren her, die ich dürr ein
+eigenes Verfahren Härte und Farbe und die dann als »italienische
+Terrakotten« verkauft werden — ein armseliger Verdienst!
+— Wein Material zu den Statuetten finde ich auf
+meinen Spaziergängen. Sie wissen, daß Rüdersdorf durch
 <@pagebreak/>
-DSSSSSSSSSSS 241 SSSESGSSSEEHSHESS
+seine Kalkberge bekannt ist. — Ich kenne nun die Umgebung
+von Rüdergodorf sehr genau und habe zufällig schon im
+Januar erfahren, laß eine alte Dame einen kleinen früheren
+Bauernhof nördlich von Möllenhorst, mitten im Walde
+gelegen, etwa arm 15. Januar erworben, das Dame As
+gebaut und das Grundstück neun einzängni hat. Später, in
+Februar hörte ich, Dr Dame sel sehr menschenscheu, Witwe
+eines Amerikaners und schwer nervenkrank. Tatort an
+VBVerfolgungswahn leiden, halt Sir nur zwei Dienstboten, zwei
+Mulatten, und beschränkt sich auf kurze Spaziergänge zu
+Walde, bleibt sonst für jedermann unsichtbar. Du 1. März
+begegnete ich ihr am Rande einer Schonung, ins ist im Begleitung
+eines ihrer Diener eine uralte Eiche photographierte.
+Als sie mich erblickte, schrak sie merklich) zusammen.
+Sie war sehr altmodisch seltener, klein und Ei und trug
+einen schwarzen Kutscher. -« All dies ist vielleicht ganz
+unwesentlich. Nur eins hebe ir« hervor; Ihr auffälliges Erschossen!
+Und dann die Eile, mit der sie und der Diener
+sich entfernten. Schließlich noch: ich wurde nachher gewahr,
+daß der Mulatte mir folgte, und ich weiß auch, daß er sich
+in Rüdergdorf nach mir erkundigt hat. Seitdem habe ich
+von jener Frau Balkon nichts mehr gehört und gesehen.
+Frau Patson heißt sie, Mann Parse:1, geborene Nickte.
+Sie ist eine geborene Deutsche;e. Ihr Mann war Plantagen
+Direktor auf den Philippinen.
 
-seine Kalkberge bekannt ist. — Id kenne nun die Uingebung
-von Rüdergodorf sehr geuau und habe zufällig schon im
-Januar ersahren, baß eine alte Dame einen kleinen früheren
-Bauernhof nördlich von Moöltenhorst, mitten im Walde
-gelegen, etwa uim 15. Januar erworben, das Daus ys
-gebaut und das Grundjtuckd neun einzängni hal. Später, in
-Februar hörte ich, dx Dame sel sehr menschonscyeu, Witwe
-eines Amerikaners und schwer nervenkrank. Sw jcoll an
-VBVerfolgungswahn leiden, hal! sii nur zwei Dieustboteit, zwei
-WMulatten, und beschränkt sich auf kurze Spaziergänge tu
-Walde, bleibt sonst für jedermann unsichtbar. Viu 1. Wärz
-begegnete ich ihr am Rande einer Schonung, ws sit im Be-
-gleitung eines ihrer Diener eine uralte Eiche photogiu-
-phierte. Nls sie mich erblikte, sHrak sie merklich) zusammen.
-Sie war sehr altmodisch geklewet, klein und di uud trug
-einen schwarzen Sahleier. -» All dies ist vielleicht ganz
-unwesentlich. Nur eins hebe ir« bervor; Ihr aufsjälliges Cr-
-schreFen! Und dann die Eile, mit der sie und der Dieuer
-sich entfernten. Schließlich nochg: iH wurde nachher gewahr,
-daß der Mulatte mir folgte, und ih weiß auch, daß er sich
-in Rüdergdorf nac mir erkundigt hat. Seitdem habe ich
-von jener Frau Palson nichts mehr gehört und gesehen.
-Frau Patson heißt sie, Auna Patso:1, geborene Mielke.
-Sie ist eine gedorene Deutsc&;e. Ihr Maun war Plantagew
-direktor auf den Philippinen.
-
-Das, was mir an dieser Frau Patson nun haupt-
-sächlich aufstieß, war, abgesehen von ihrem Schhreck über mein
+Das, was mir an dieser Frau Patson nun hauptsächlich
+aufstieß, war, abgesehen von ihrem Schreck über mein
 plötzliches Erscheinen, ihre unbedingt falschen Angaben über
-ihre beiden Hausgenossen. Diese angeblichen Mutlatten, von
-denen ich freilich nur den einen zu Gesicht bekam, sind ntv-
-mals Mulatten. Ich selbst habe viel im Yusland gelebt.
-Der Farbige, den ih damals in Begleitung Frau Patsons
-traf, ist ein Singhalese, ein Bewohrer der Insel Ceylou,
-die man ja mit zu Borderindien rehnen muß.
+ihre beiden Hausgenossen. Diese angeblichen Mulatten, von
+denen ich freilich nur den einen zu Gesicht bekam, sind prompte
+Mulatten. Ich selbst habe viel im Ausland gelebt.
+Der Farbige, den ich damals in Begleitung Frau Patsons
+traf, ist ein Singhalese, ein Bewohner der Insel Ceylon,
+die man ja mit zu Vorderindien rechnen muß.
 
-Ih will Ihre kostbare Zeit, schr geehrter Herr Harst,
+Ich will Ihre kostbare Zeit, sehr geehrter Herr Harst,
 <@pagebreak/>
-DBESSSSSDESDEES  DOEHSDSLDIEDIESTS
-
-niHt länger in Unsoyrued nehmen. DViess Trau Patson
-erscheint mir jedenfalls etwas fragu;ürdig, Ih üburhulse
-Ipzuen ailes weitere.
+nicht länger in Anspruch nehmen. Briefe Frau Patson
+erscheint mir jedenfalls etwas Frau;Artig, Ich üburhulse
+Frauen alles weitere.
 
 Sehr ergebenst …
-Freu Thea Busse,
-VWahnäborfexr UÜllea 17. -
+Treu Scheu Busse,
+VWahnäborfexr Alten 17. —
 
-(a arne zmn zm +
+(Manne zum zu +
 
 «
 
-& RKapliel
+& Kapitel
 Die richtige Fährte.
 
-Daralds phänomenales Gedächtnis hatte auch die8mal, bavow
-war üg überzeugt, ni! versagt. Er hatte mir deu JIndalt
-des Briefes sicherlim ziemliH wortgetreu wiedergegebeu. Über
-dieser Inhalt enttäuschte mich schwer. Yehnliche Briefe, (in
-deuen Farbige eine Rolle spielten, hatten wir in Unmenge
-erhalten, und viele dieser gukgemeinten Denunzlationer: warew
-sogar weit viclversprecender als Frau Ihea Busses harmloses
-Erlebnis gewesen. — IH machte Horst gegenüber aus dieser
-meiner Cuttäuschung kein Hehl.
+Palaste phänomenales Gedächtnis hatte auch diesmal, davon
+war üg überzeugt, nicht! versagt. Er hatte mir den Inhalt
+des Briefes sicherlich ziemlich wortgetreu wiedergegeben. Über
+dieser Inhalt enttäuschte mich schwer. Peinliche Briefe, (in
+denen Farbige eine Rolle spielten, hatten wir in Unmenge
+erhalten, und viele dieser gutgemeinten Denunziationen: waren
+sogar weit vielversprechender als Frau Scheu Busses harmloses
+Erlebnis gewesen. — Ich machte Harst gegenüber aus dieser
+meiner Enttäuschung kein Hehl.
 
-»Der Brief ist vielleicht Jenauso wertlos wir all die
-auderen,« meinte ic. »Freilich, du wirst ja wdhl deine SDründe
-baben, ihn hoher einzuschäßen, obwohl …«
+»Der Brief ist vielleicht Genauer wertlos wir all die
+anderen,« meinte ich. »Freilich, du wirst ja wohl deine Stunde
+haben, ihn hoher einzuschätzen, obwohl …«
 
-Er unterbraM mich. »Ullerdings, mein Alter … 3H
-habe meine Gründe zu hoffen, daß diesmal keine Uiete ge-
-zogen Ut … Zunächst gibt da Frau Busses Ungobdbe, diese
-Frau Anna Patson habe das Grundstük Mitte Januar
-erworben, zu denken. Damals war Guddai bereits in Birken-
-walde und seine Menagerie bei Wonzow untergestellt. Daß
-er einen zweiten Schlupfwinkel für sie in der Nähe Berläns
-vorbereitet hatte, daß er sirh dort jetzt befindet, daß er von
-dort aus uns ständig überwachen ließ, ist durch die lezten
+Er unterbrach mich. »Allerdings, mein Alter … 3H
+habe meine Gründe zu hoffen, daß diesmal keine Miete gezogen
+Ut … Zunächst gibt da Frau Busses Ungobdbe, diese
+Frau Agra Patson habe das Grundstück Mitte Januar
+erworben, zu denken. Damals war Guddai bereits in Birkenwalde
+und seine Menagerie bei Worten untergestellt. Daß
+er einen zweiten Schlupfwinkel für sie in der Nähe Vorlage
+vorbereitet hatte, daß er sich dort jetzt befindet, daß er von
+dort aus uns ständig überwachen ließ, ist durch die letzten
 <@pagebreak/>
-DSSSSSSSSSSS jl SSdSSSSSHSSSSS
-
-Greignissc erwiesen, so durch die raffinierte Tötung der Hunde,
-durch die Entführung meiner Mutter und durc das Nuss-
-tauchen Frau Tschaus im Sanaioriun. Was ich stels des
-Hauptet hatte: daß Guddatt YAähuGnjzerfreis hier ia Beritu
-weit größer set ald man ahnen konnte, ist gleichfalls erwiesen.
-Er muß. eine größere Anzahl ihiz ireu ergebeuer Wiitglieder
+Ereignisse erwiesen, so durch die raffinierte Tötung der Hunde,
+durch die Entführung meiner Mutter und durch das Auszuruhen
+Frau Tschaus im Sanatorium. Was ich stets des
+Haupte! hatte: daß Guddais YAähuGnjzerfreis hier ja Berlin
+weit größer sei alt man ahnen konnte, ist gleichfalls erwiesen.
+Er muß. eine größere Anzahl ihre treu ergebener Mitglieder
 seines Ordens zu ständiger Berfügurnig haben, sonst hatte er
 
 nicht auch unsere Korrespondenz überwachen können, wobei er
-Fraglos mit Bestehung gearbeitet hat. — Zweitens: Frau
+Fraglos mit Beziehung gearbeitet hat. — Zweitens: Frau
 Busses Behauptung, zumindest der eine Mulatte sei ein
 Singhalese, muß gleichfalls auffallen. Wenn diese Frau
-Patson ihre Diener im Vertrauen auf die Unkenutnig der
-ländliczden Bevölkerung hinsichtlich Rassenuntersca)icden als
-Mulatten ausgegeben hat, so kann man diesen Punkt unmog-
-lich unbeachtet lassen. Hätte die Patson ein reines Gewissen:
-WeShalb einen Singhalesen al3 Mulatteu bezeichneae!«
+Patson ihre Diener im Vertrauen auf die Unkenntnis der
+ländliczden Bevölkerung hinsichtlich Rassenuntersca)jeden als
+Mulatten ausgegeben hat, so kann man diesen Punkt unmöglich
+unbeachtet lassen. Hätte die Patson ein reines Gewissen:
+weshalb einen Singhalesen als Mulatten bezeichneae!«
 
 »Freilich, das ist …«
 
-… Das ist nox« nicht mal das Wichtigste, mein Alter …
+… Das ist vor« nicht mal das Wichtigste, mein Alter …
 Für mich war jetzt, nachdem ich meine geistige Regsamkeit
-wiedergewonnen, bauptsächlich die alte Eiche aueschhlaggebend.«
+wiedergewonnen, hauptsächlich die alte Eiche ausschlaggebend.«
 
-»Gov!«
+»Tod!«
 
-»Ia … Die alte Eiche, die von Frau Patson photo-
-graphiert wurde. Hierüber reden wir noch nachher. — Ich
-mödhte dim) zum Cdluß nod darauf ausmerksam maden,
-daß das schlechte Gewissen der Pätson oder — drücken wir
+»Ja … Die alte Eiche, die von Frau Patson photographiert
+wurde. Hierüber reden wir noch nachher. — Ich
+möchte hin) zum Schluß noch darauf aufmerksam machen,
+daß das schlechte Gewissen der Patson oder — drücken wir
 uns genauer aus — ihre Angst, irgendwie zum Objekt der
 Neugier zu werden, weiter daraus hervorgeht, daß sie der
-Frau Busse den »Mulatteu« uachschite.«
+Frau Busse den »Mulatten« nacheilte.«
 
-»Allerdings, so wie du diese Einzelheiten des Vriefes
-deleuchtest, gewinnen sie ein ganz anderes Ausseheu,« gab ich
+»Allerdings, so wie du diese Einzelheiten des Briefes
+betrachtest, gewinnen sie ein ganz anderes Aussehen,« gab ich
 ohne weiteres zu.
 
 »Ganz recht … Und daß ich zu dieser »Beleuchtung« erst
-jeht fähig war, zeigt, wie stark meine seclisq)e Depression
-gewesen sein muß! — Das Auto sährt bereits in den Wald
+jetzt fähig war, zeigt, wie stark meine fertig)e Depression
+gewesen sein muß! — Das Auto fährt bereits in den Wald
 <@pagebreak/>
-DSSSSSSSSSSS 97 SSSSSSSSSSSS
-
-hinein. Der Chauffeur hat den Plaß sehr gut gewählt.
+hinein. Der Chauffeur hat den Platz sehr gut gewählt.
 Steigen wir aus.«
 
 Wir schritten dann am Rande der Chaussee weiter, bis
-link3 ein Waldweg abzweigte.
+links ein Waldweg abzweigte.
 
 Hier trat plötzlich hinter einem Kiefernstamm eine schlanke
-Frau bervor — in dunklem Mantel und Sportkappe …
+Frau hervor — in dunklem Mantel und Sportkappe …
 
 Ich riß Harald sofort hinter einen Baum. Er schien die
 Frau nicht bemerkt zu haben.
 
-»Sarald — Vorsicht!!« flüsterte ich hastig und griff in
+»Harald — Vorsicht!!« flüsterte ich hastig und griff in
 die Tasche.
 
 »Laß nur die Clement stecken, mein Alter … Es ist
-Frau Busse, die im durF den Geheimrat bierher bestellen
+Frau Busse, die im durch den Geheimrat hierher bestellen
 ließ.« …
 
 Die Frau kam näher. Harald streckte ihr die Hand hin.
 »Guten Abend, Frau Busse …«
 
-Hm Mondlicht erkannte ich « ein blasses, sHEmales Antlid
-von eigenartiger Sconbheit.
+Hm Mondlicht erkannte ich « ein blasses, sHEmales Endlich
+von eigenartiger Schönheit.
 
-Auch iH drüdte ihr warm dir Hand.«
+Auch ich drückte ihr warm dir Hand.«
 
-»Nun führen Sie uns bitte«zu der bewußten Eiche,
-Frau Busse,« meinte Harald. »Aber auf Umwegen — durc
-den Wald … Wir haben es eilig. Wir müssen vor Fages-
-anbruch wieder im Sanatorium sein. — Gestatten Sie noch
+»Nun führen Sie uns Bureau der bewußten Eiche,
+Frau Busse,« meinte Harald. »Aber auf Umwegen — durch
+den Wald … Wir haben es eilig. Wir müssen vor Tagesanbruch
+wieder im Sanatorium sein. — Gestatten Sie noch
 einige Fragen …»’
 
-Die Dame — es war eine Daqme kroß des ärmlichen
-Anzugs — ging zwischen uns, Sie wur keinen Moment
-über die einzuschlagende Nichtung im Zweifel, und ihre ganze
+Die Dame — es war eine Wagnis kroch des ärmlichen
+Anzugs — ging zwischen uns, Sie war keinen Moment
+über die einzuschlagende Richtung im Zweifel, und ihre ganze
 Art, wie sie Haralds Fragen beantwortete, bewies einen logisch
 denkenden Verstand und eine große abgeklärte Ruhe,
 
@@ -1201,1819 +1125,1558 @@ ganz genau, Frau Busse? War er groß, klein?
 »Ich hatte auf den Apparat weniger geachtet. Aber er
 war ziemlich umfangrei. Ein schwarzer Kasten, vielleicht
 
-sünfziq Zentimeter lang …«
+fünfzig Zentimeter lang …«
 »Etwas sehr umfangreich … — Frau Patson erschrak
 <@pagebreak/>
-DSSSES0ESDDSSDS 28 DSSSSSSSSSSS
-
-also »… Bedeckte sie den Apparat vielleiht schnell mit
+also »… Bedeckte sie den Apparat vielleicht schnell mit
 einem Tuche?«
 
-»Ia … EF8 war ein schwarzes Juch, wie es die Photo-
-graphen benußen. Und sie legte es rasch über den Kasten,
+»Ja … Eis war ein schwarzes Tuch, wie es die Photographen
+benutzen. Und sie legte es rasch über den Kasten,
 das stimmt. Es machte ganz den Eindruck, als wollte sie mir
 den Apparat nicht sehen lassen.«
 
-a.« »Datte die Patson denn ein Stativ für den Apparat
+a.« »Hatte die Patson denn ein Stativ für den Apparat
 in
-»Ia, so etwas wie ein Klappstativ.«
+»Ja, so etwas wie ein Klappstativ.«
 
 »War es wirklich ein Stativ?«
 
 »Ich nehme es an, Herr Harst.«
 
-»Cs batte aber wohl nicht das übliche Aussehen solcher
+»Es hatte aber wohl nicht das übliche Aussehen solcher
 Stative?«
 
 »Nein, allerdings nicht.«
 
-- p«Und als Sic die beiden bemerkten, —« war das Stativ
-auseinandergezogen oder aufgestellt? Wohl nühtt«
+— Band als Sie die beiden bemerkten, —« war das Stativ
+auseinandergezogen oder aufgestellt? Wohl rührt«
 
 »Nein. C&4 war zusammengelegt.«
 
-»Älso auc das! — Was brachte Sie denn auf die
-Bermutung, Frau Patlon wolle die Ciche photogräphbieren«
-»Der Apparat …! — Allerdings, jezt kommen mir,
+»Also auch das! — Was brachte Sie denn auf die
+Vermutung, Frau Patson wolle die Eiche photographieren«
+»Der Apparat …! — Allerdings, jetzt kommen mir,
 
 wieder Zweifel …«
 »Mit Recht, Frau Busse … — Sobald wir uns der
-Ciche nähern, wollen wir ganz leise spreezen. — Was tat
-der angebliche Niulatte damalgy«
+Eiche nähern, wollen wir ganz leise sprechen. — Was tat
+der angebliche Mulatte Bauplan«
 »Er stand auf einem der untersten Äste der Eiche …
-»Frau Patson wollte ihn wohl mitphotographieren it
-»Ia — ich weiß nicht recht …
-»Und wer hielt das Stativ … ve
+»Frau Patson wollte ihn wohl mitphotographieren ist
+»Ja — ich weiß nicht recht …
+»Und wer hielt das Stativ … ne
 »Der Singhalese, Herr Harst …
-»Ohen auf dem Ast?! Merkwürdig! Aber mir nur
-eb?«
+»Oben auf dem Ast?! Merkwürdig! Aber mir nur
+ob?«
 »Herr Harst, wir sind sofort da …’. Drüben auf der
 kleinen Lichtung steht die Eiche …«
 
 »Dann warten Sie bitte hier. — Schraut, Vorsicht …
-— Kriechen! Cs ist sehr bell …« —
+— Kriechen! Es ist sehr hell …« —
+
 <@pagebreak/>
-2222222220220 99&nbsp;2002002022000 2D2D
+Jagdfieber …!! 54H spürte es in allen Nerven! Kein
+Wunder! Was alles hing davon ab, ob Haralds Vermutungen,
+die mir Stelle unklar, Bestätigung Händen!
 
-Jagbficber …!! 54H spürte es in allen Nerven! Kein
-Wunder! Was alles hing davon ab, ob Haralds Ver-
-mutungen, die mir freiliz unklar, Bestätigung sänden!
-
-Wir näherten uns dem Nande der Lichtung … Dann
+Wir näherten uns dem Rande der Lichtung … Dann
 lagen wir jeder hinter einer starken Kiefer, Zehn. Meter vor
-uns die Ciche … Drüben die dichte Schonung …
+uns die Eiche … Drüben die dichte Schonung …
 
-Harald winkt »mir warnend zu, weist nachß oben …
+Harald winkt »mir warnend zu, weist nach oben …
 
 Und ich erblicke in der Krone des hoben mächtigen Baumes
-einen langen dunklen tFles …
+einen langen dunklen Ortes …
 
-Ein Mensch — ehn Mann!
-Wieder winkt Harald, zezt auf den dunkelgrauen deutschen
+Ein Mensch — ein Mann!
+Wieder winkt Harald, Bett auf den dunkelgrauen deutschen
 
-Baumriesen, der hier vielieiht schon über ein halbes Jahre
-tausend den Etürmen, Hewittern, Regengüssen und Schne-
-zeiten der. jandigen Mark getrotzt hat.
+Baumriesen, der hier vielleicht schon über ein halbes Jahre
+tausend den Stürmen, Gewittern, Regengüssen und Gekneteten
+der. sandigen Mark getrotzt hat.
 
-Neben dem Stamm auch etwas dunkles, sHwer Erkenne
+Neben dem Stamm auch etwas dunkles, schwer Erkenne
 
-bares, anch4 ein Mensch, scheinbar. zusammengefauert, eindm’
-Wuaucolderbusche, verkrüppelt, gleichend …
-- Meine Augen gewöhnen sich … mehr an die Dunkelheit …
-Eine Frau … Natürlih Frau Anna Patson, uns halb den
-Rüden kehrend. Gie regt sich kaum … Sie hat eine Müße
-mit Ohrklappen auf, und mir scheint, fie trägt lange Ohr-
-ring? -
+bares, anch4 ein Mensch, scheinbar. zusammengekauert, eindm’
+Wuaucolderbusche, verkrüppelt, gleißend …
+— Meine Augen gewöhnen sich … mehr an die Dunkelheit …
+Eine Frau … Natürlich Frau Agra Patson, uns halb den
+Rücken kehrend. Sie regt sich kaum … Sie hat eine Mütze
+mit Ohrklappen auf, und mir scheint, sie trägt lange Ohrring?
+-
 
-Harald zieht mich rüdwärts, haucht: »Genug für heute.,!’
+Harald zieht mich rückwärts, haucht: »Genug für heute.,!’
 
 Wir entfernen uns ebenso leise. Auf den Mbp oben
-des Kiefernsorstes malt der Mond Hdewegliche helle Kringel,
-Striche, Fleke … Es ist wie damals in jener Nacht, als
+des Kiefernforstes malt der Mond Hdewegliche helle Kringel,
+Striche, Flecke … Es ist wie damals in jener Nacht, als
 wir Doktor Shing Guddais Menagerie überraschten, als die
-Kugeln in den Kafig klatschken und die armen Bestien, die
-durch Guddais unheimliche Künste zu Iiergiganten aus grauer
-Borzeit emporgeschossen waren, durchlöchert ihr halbes Grhein«
-dasein beendeien.
+Kugeln in den Käfig klatschten und die armen Bestien, die
+durch Guddais unheimliche Künste zu Verstanden aus grauer
+Vorzeit emporgeschossen waren, durchlöchert ihr halbes Schein«
+Dasein beendeten.
 
-Frau Ihea Busse schflen erstaunt, weil wir so rasch
-zurü&kehrten. — Harst sagte nur: »Die beiden photographieren
+Frau Scheu Busse erschien erstaunt, weil wir so rasch
+zurückkehrten. — Harst sagte nur: »Die beiden photographieren
 wieder … Wohl Blihlihtaufnahmen … — Führen Sie uns
 jetzt bitte zu dem Gehöft. Ist es weit?«
-<@pagebreak/>
-0SDSSSSSSSSSDSS 30&nbsp;2000080020800 S0SDE
 
+<@pagebreak/>
 »Nein … —« Die schlanke Blasse ist ganz verwirrt.
-Sie kennt Zaraida Art noHg nicht. Ieder muß sich daran
+Sie kennt Zaraida Art rosa nicht. Jeder muß sich daran
 gewöhnen.
 
-Und fie eilt voran … Sie läuft fast … Sie will
-vielleiht hinau& aus ihrem Elend, aus ihrer jämmerlid/cn
-Existenz … Sie will uns dienen, will helfen … Ein Voro
+Und sie eilt voran … Sie läuft fast … Sie will
+vielleicht Strauch aus ihrem Elend, aus ihrer jämmerlich/cm
+Existenz … Sie will uns dienen, will helfen … Ein Lord
 mögen lockt. Und in ihrem Herzen mag die bange Frage
-lauern, ob fie nicht wenigstens einen Jeil der Belohnung
+lauern, ob sie nicht wenigstens einen Teil der Belohnung
 erringen kann, ob ihre Angaben und Beobachtungen von
 einigem Wert.
 
 Und — sie wagt nicht, danach zu fragen. Aber dicht hinter
 ihr geht einer, der den Menschen bis auf den Grund der
-GSeeie schaut, der Gedanken erraten kann, weil er die Menschen
+Seele schaut, der Gedanken erraten kann, weil er die Menschen
 kennt und sein eigenes Empfinden ihnen anzupassen weiß,
-— einer, der nebenbei ein Herz für die Bedrängten, Nieder-
-gedrückten hat …
+— einer, der nebenbei ein Herz für die Bedrängten, Nieder gedrückten
+hat …
 
-Er spricht nach vorn, und seine Stimme At Güte und
+Er spricht nach vorn, und seine Stimme Alt Güte und
 Dankbarkeit:
 
-»Frau Busse, Sie werden nicht mehr lange ihre Terra-
-fkotten anzufertigen brauchen. Bon den zahllosen Briesen
-warf iH einen in den Papierkorb … Und doh war es der
+»Frau Busse, Sie werden nicht mehr lange ihre Terrakotten
+anzufertigen brauchen. Von den zahllosen Briefen
+warf ich einen in den Papierkorb … Und doch war es der
 einzige wertvolle: Ihr Brief!«
 
-»Mein Gott — wirkliHh?t« Sie hat den Kopf halb
-gewandt … »Wirklich?! Sic glauden, daß …
+»Mein Gott — wirklich?!« Sie hat den Kopf halb
+gewandt … »Wirklich?! Sie glauben, daß …
 
 »’… daß Sie mich auf die richtige Fährte gebracht
 baden, — das weiß ich jetzt, Frau Busse!«
 
-53\. Rapitel.
+53\. Kapitel.
 
-Diese Märznaht inmitten eHßt deutshen herben Waldes,
-diese Nat mit ihrem Frühlingsahnen und würzigen Kieferne-
-duft war köstlih. Man spürte förmlich, daß die Natur aus
+Diese Materials inmitten ritt deutschen herben Waldes,
+diese Na! mit ihrem Frühlingsahnen und würzigen Kieferneduft
+war köstlich. Man spürte förmlich, daß die Natur aus
 <@pagebreak/>
-WEM WER VDEESESEVWBP 31 VOWVPSDPPMMPPD MW
+Tinte hatten Uralten sich Speisewagen hatte und Baum,
+Sitzen, Moos und Pflänzlein zu frischem Sonmunerglanz
 
-Wints kaiien Ürntett sich freigerungen hatte und Baum,
-Sirazw, Woos und Pflänzlein zu frischem Sonmunerglanz
+sich rü’leien,
+Wie zur Hält: ich diese Nacht als stiller, friedlicher
 
-fib rü’leien,
-Wie zac Bält: iH diese Nacht als stiller, friedlicher
+Lautete? genossen, wie gern kaufte ir) mein bescheidenes
+Seelen?»3 all diesem nächtlichen Zauber weit geöffnet!«
 
-Saudere? genossen, wie gern häutie ir) mein bescheidenes
-Seelen2«3 all diesem nächtlichen Zauber weit geöffne!!«
+Gt1:Stall!
 
-Gt1:ddail!
+Der eine Name zerstörte alles … Guddai!schwebte als
+dunkle drohende Gewitterwolke unsichtbar über uns.
 
-Der eine Name zeritörte alles … Guddai !schwebte als
-dunlle drohende Gewiticrwolke unsihtbar über uns.
+Frau Scheu Wasser eilte noch rascher dahin.
 
-Frav Thea Basse eilte nog rascher dahin.
-
-W42 wauß!21? wir von ihr? — Nichts! Was mochte diese
-Frau gelitten vaben? War sie Witwe? Hatte sie daheim viel-
-leiht einen Franken Mann, Kinder und … Sorgen …
+W42 Laut!21? wir von ihr? — Nichts! Was mochte diese
+Frau gelitten saßen? War sie Witwe? Hatte sie daheim vielleicht
+einen Franken Mann, Kinder und … Sorgen …
 
 Sorgen?!
 
-Sher Schritt war leicht beschwingt … Ibre Haltung
+Eher Schritt war leicht beschwingt … Ihre Haltung
 straff … Schon Gang und Haltung nahmen für sie ein;
 Lebenskämpferinl1
 
-Und dana — eine andere Lichtung … —
+Und dann — eine andere Lichtung … —
 
-Cin paar Birken, eine Bödenwelle, - Gestrüpp, dodinter
-ein VBretterzaun, dunkelgrün gestrichen, oben: au Eisensiangen
+Ein paar Birken, eine Bodenwelle, — Gestrüpp, dahinter
+ein Bretterzaun, dunkelgrün gestrichen, oben: zu Eisenstangen
 vier geneigte Stacheldrähte. Jenseits dieses gut gesicherten
-Zaunes Haselnußbüsche, noH kahl, — Jannen, Obstbäume,
-ein rotes Ziegeldac;g und ein zweites, mit demooltem Stroh
-gededtes. — Cin elender Fahrweg durchschnitt winterlich
-wüstes Kartosselland und z30og sich unter der Einfahrt des
-Zaunes weiter. Neben diesem Flügeltor eiue Pforte mit
+Zaunes Haselnußbüsche, noch kahl, — Langen, Obstbäume,
+ein rotes Ziegeldach;g und ein zweites, mit bemoosten Stroh
+gebettet. — Ein elender Fahrweg durchschnitt winterlich
+wüstes Kartoffelland und z30og sich unter der Einfahrt des
+Zaunes weiter. Neben diesem Flügeltor eine Pforte mit
 einem großen weißen Schild:-
 
 Bissige Hunde!
 
-Wir standen. uin Schatten einiger Krüppelkicfern. Das
-ehemalige Bauerngchöft, jezt Ruhesiz einer angeblich gemüts-
-kranken Frau, hatte hier im milden Mondlicht nichts irgend.
-wie Unheimliches an sich. Nein, es wirkte behaglich, freund
-lich … Rings8um der Wald: eim Partenheim!
+Wir standen. um Schatten einiger Krüppelkiefern. Das
+ehemalige Bauerngehöft, jetzt Ruhesitz einer angeblich gemütskranken
+Frau, hatte hier im milden Mondlicht nichts irgend.
+wie Unheimliches an sich. Nein, es wirkte behaglich, freundlich
+… Ringsum der Wald: ein Partenheim!
 
 Aber Harst hatte heute für Poesie nichts übrig. »Frau
-Vatson scheint Einbrecber sehr zu fürchten,« meinte er leise.
-<@pagebreak/>
-DEDDIEID0DD0LEDS 329. D0200083555000
+Patson scheint Einbrecher sehr zu fürchten,« meinte er leise.
 
-sede da bite Mastenreih2e einer elcktrijhen Clartjtrome
-ANON Die Masten sind neu, und Ul) würde mitt nicht weiter
-wundern, wenn die Ckacheldrähte dDvrt oben geladen. sind,
-Seldst das IJor und die Pforte sind durch diese D:ahtver-
-» längerungen geschützt. Vielleicht wird morgen nacht Der
-Strom versagen … Cin Mast ist raich gesällt, nud Gummi
-handschuhe und eine Drahtschere … — stul … dort kommen
+<@pagebreak/>
+jede da bitte Mastenreih2e einer elektrischen Starkströme
+Arm Die Masten sind neu, und Ul) würde mit! nicht weiter
+wundern, wenn die Stacheldrähte Dover oben geladen. sind,
+Gelöst das Tor und die Pforte sind durch diese D:Silber 
+längerungen geschützt. Vielleicht wird morgen nacht Der
+Strom versagen … Ein Mast ist rasch gefüllt, und Gummi
+Handschuhe und eine Drahtschere … — Etui … dort kommen
 sie schon …
 
-Gie kamen … Die beiden, Herrin und Diener … Traten
-kaum zwanzig Ecritt re9t2 von uns aug dem 28-3!0e zzerpor,
-Der »Mulatte« trug den schwarzen Kasten und das Statkiv,
-Frau Patson hatte einen derben Spazicrjtock, d dein sie jedoch
+Sie kamen … Die beiden, Herrin und Diener … Traten
+kaum zwanzig Schritt re9t? von uns aus dem 28-3!0e eherner,
+Der »Mulatte« trug den schwarzen Kasten und das Stativ,
+Frau Patson hatte einen derben Spazierstock, d dein sie jedoch
 geschultert hatte — wie ein Gewehr.
 
-- Ich musterte ihre Crscheinuitg mit Luraugen. I9 verglich.
-Id wollte feststellen, ob die Größe stimmuie …
+— Ich musterte ihre Erscheinung mit Zulangen. I9 verglich.
+Ich wollte feststellen, ob die Größe stumme …
 
-Ia — sie stimmte … Auch die Bewegungen waren eitt-
+Ja — sie stimmte … Auch die Bewegungen waren Bitte
 
 schieden allzu energisch für eine leidende Frau.
-»Er … ist’s!« sagte Harst neben mir seltjam gepreßt.
-- »Es ist Doktor Shing Guddai … Er hat sehr lange Arme …
+»Er … ist’s!« sagte Harst neben mir seltsam gepreßt.
+— »Es ist Doktor Shing Guddai … Er hat sehr lange Arme …
 Er geht stark einwärts, und die Kopfhaltung, etwas nach
-links geneigt, ist das dritte Keunzeichen. — Piebe Frau Basse,
-Idre Urbeit ist hiermit beendet. OU werde Ihnen einen
-EdDeck über fünfzigtausend Wark schreiben, den Sie aber
-erst nac drei Tagen lasjtieren dürfen. — Ah — — schr inter-
-essant … Die Frau Patson bükt sih … Da ist ein Prell-
-stein am Tor … Jetzt stößt sie die Pforte auf … schr inter-
-essan!! — Frau Busse, ul) werde secyziglausend schreiben. Sie
-haben’s verdient … Bitte, keinen Dauk … Il) habe Ihneu
-zu danken, nur ich) … Kein Wort mehr … Gute Nati … —
-Nein, bleiben Sie noch … Ih werde den Scheck do) besser
-sofort ausfüllen … Man kann nie wissen, wa3 geschieht …«
+links geneigt, ist das dritte Kennzeichen. — Diebe Frau Wasser,
+Ihre Arbeit ist hiermit beendet. Du werde Ihnen einen
+Scheck über fünfzigtausend Mark schreiben, den Sie aber
+erst nach drei Tagen Lasttieren dürfen. — Ah — — sehr interessant
+… Die Frau Patson bückt sich … Da ist ein Trotzdem
+am Tor … Jetzt stößt sie die Pforte auf … sehr interessant!
+— Frau Busse, ul) werde secyziglausend schreiben. Sie
+haben’s verdient … Bitte, keinen Dank … Il) habe Ihnen
+zu danken, nur ich) … Kein Wort mehr … Gute Matt … —
+Nein, bleiben Sie noch … Ich werde den Scheck da) besser
+sofort ausfüllen … Man kann nie wissen, was geschieht …«
 
-Und — er schrieb … Der Fullsederhalter glitt über
+Und — er schrieb … Der Füllfederhalter glitt über
 das Papier …
 
 Frau Busse weinte …
+
 <@pagebreak/>
-ESESSOSSPSSS.5S W 2ESEIDIESDEIDS
+»Ich … im habe einen gelähmten Mann daheim …«
+Schluchzte sie …
 
-»IH … im babs zinen gelähmien Wana daheln …«
-SDluchzte sie …
+Lebens«.Kaiserin!
 
-Lebensf«.mpijerin!
+Harald Bruch:;e ihr den Sees in Ei: Hand. »Nun gehen
+Ei! … Galt Wacht … Und sollten Sie bis morgen abend
+ich?!h? Zeit Lebens Zeichen von uns erhalten, so telephonieren
+Sie sofort an Resultat?ommissar Bechert, Polizeipräsidium
+Berlin. Man soll dann dort gemeinsam eindringen —
+Ort zwanzig Meier vor- uns in Frau Patsons Schiff
+vp« 4Al. Sie verstehen nicht?«
 
-Harald brüc:;e ihr den SHe&s in di: Honb. »Vun gehen
-LEit … Galt Wacht … Und sollten Sie bis morgen adend
-1cht ?!h7 Jeitt Lebens zeichen von uns erhalten, so telephonicren
-Sie sofort an Kröuizal?ommissar Bechert, Polizeipräsidium
-Bertin. Man soil dann dort gemeinsam eindringen -
-ort zwanzig Meier -vor- uns in Frau Patsoas SCdlsfs
-vp« 4Al. Sie verttehen micht?«
+»Gewiß …« Sie weinte noch immer.
 
-»Gewiß …« Sie weinte noH immer.
+Und dann Ging sie langsam davon.
 
-Und dann Ging sie laugsain davon.
+Harst hole aus seiner Tasche ein Päckchen hervor.
 
-Harst hol«e aus seiner Jajiche ein Päkchen hervor.
-
-»Mein Alter, der MWedizinalrat dat diese Fleiichstückde
-selbijit pre.pariert … Ich rechneie mit Hunden … Die Hunde
+»Mein Alter, der Medizinalrat daß diese Fleischstücke
+selbst Disponiert … Ich rechnete mit Hunden … Die Hunde
 werden drei Stunden schlafen … — Warte hier auf mich,
-Ich :nuß allein an den Zaun berau … Hier, despzihe meinen
-Wantel«…«
+Ich:Nuß allein an den Zaun heran … Hier, befreite meinen
+Mantel«…«
 
-Es war ein Fläshhchen mit TJannennadelduft — jo krästig
-riechend, daß die menschliche Witterung dadurch vollig beiaudt
+Es war ein Fläschchen mit TJannennadelduft — so kräftig
+riechend, daß die menschliche Witterung dadurch völlig betäubt
 werden mußte.
 
-DurHh das Kartofsselland zog« sihß ein FJFeldrain hin-
-durch — bis zum Zaune … Harst schlii) auf allen Vieren
+Durch das Kartoffelland zog« sich ein FJFeldrain hindurch
+— bis zum Zaune … Harst Schiff) auf allen Vieren
 davon.
 
 Der Entscheidungö&kampf gegen Guddai hatte begonnen.
-Ich war damals so hoffnungssroh. Id sah uns als Sieger …
+Ich war damals so hoffnungsfroh. Ich sah uns als Sieger …
 
 Und wie bitter nachher die Enttäuschung! —
 
 Harst kehrte zurück … Gut zehn Minuten war es mir
-vollig aus den Augen gekomuen.
+völlig aus den Augen gekommen.
 
-»Fun?« fragte ich atemlos.
+»Tun?« fragte ich atemlos.
 
-Er stand vor mir im Bauntsdzatten.
+Er stand vor mir im Baumschatten.
 
-»Fie erste Enttäuschung, mein Alter … Es8 sind ketne
-Hunde da … Nur ein einziger alter Kettenhund … Durtz
-ein AstloHd erspählte ic seine Hütte. IcH hutte gewunscht
-
-210\.
+»Sie erste Enttäuschung, mein Alter … Eis sind keine
+Hunde da … Nur ein einziger alter Kettenhund … Kurz
+ein Getrost erspähte ich seine Hütte. ich hatte gewünscht
 <@pagebreak/>
-DSSSSSSSSSDE. 34 DD0SSECESSEBSSSS
+es wären vier, fünf bissige Rücken gewesen … Nun schläft
+der Hofhund … Er fraß zwei Flaischstücke. — Aber — die
+Sache gefällt nun nicht. Würde Guddai hier hausen!, so
+hätte er fraglos scharfe Hunde engelhaft!!«
 
-es wären vier, fünf bissige Rüden gewesen … Nun schläft
-der Hoshund … Cr fraß zwei Flaischstücke. — Aber — die
-Sache gefällt auir nict. Würde Gaddai hier hausent, jo
-hätte er fraglos scharje Hunde angejhafs!!«
-
-»Wie, du zweiseist, daß er es ist, der hier Frau Patjon
+»Wie, du zweifelst, daß er es ist, der hier Frau Patson
 spielt TF«
 
 … »Das nicht … Aber ich zweifele daran, ob wir meine
-arme Mutter hier finden werden … und daran, daß wier
+arme Mutter hier finden werden … und daran, daß vier
 unbemerkt geblieben sind.«.«
 
-»Unbemerkt, — — weghalb?« sjsragte iw rajdx
+»Unbemerkt, — — weshalb?« siegte in rajdx
 
 »Weil ich da rings um den Zaun, ein Meter ad, eine
-merkwürdig weiche Stelle im Erdreich gefunden habe. AYis
-iH beim Kriechen mit dem Lnie einsank, untersuchte ich die
-Stelle und fand in der Erde einen mit Raseuplatten des
-»bedten flaen und dur& Mauerziegel ausgefütterten Graben,
+merkwürdig weiche Stelle im Erdreich gefunden habe. Sie
+ich beim Kriechen mit dem Spie einsank, untersuchte ich die
+Stelle und fand in der Erde einen mit Rasenplatten des
+»Betten fragen und durch Mauerziegel aus gefütterten Graben,
 in dem zwei blanke Drähte entlauzgliefen. Tritt jemand auf
 die Rasenplatten, so werden die Drähte aneinandergedrüct:
-Kontak!!! Und — — AlarmgloFe im Hause!«
+Kontakt!! Und — — Alarmglocke im Hause!«
 
-Ich hatte mit wenig angeuchmen Empfindungen zum
-Hause hinübergestarrt, Weine Enttäuschung war genau so
-grenzenlos wie meine unbestimmte Furcht, daß Doktor Guddat
-uns jetzt vielleihk ein paar von scinen Nieseugeschöpfen auf
+Ich hatte mit wenig angenehmen Empfindungen zum
+Hause hinüber gestarrt, Weine Enttäuschung war genau so
+grenzenlos wie meine unbestimmte Furcht, daß Doktor Guddai
+uns jetzt vielleicht ein paar von seinen Nieseugeschöpfen auf
 den Hals hetzen könne.
 
-Und es geschah wirklidy etwas …
+Und es geschah wirklich etwas …
 
-Die Pforte im Zaun hatte sich geöffuek …
+Die Pforte im Zaun hatte sich geöffnet …
 
 Heraus traten einer der Diener und Frau Patson, mit
 je einer Büchse in der Hand. Sie kamen eilends auf die
 Stelle zu, wo uns die Knüppelkiefern deckten …
 
-»Wir bleiben!« sagte Harald fest. »Pijtolen heruus …!
+»Wir bleiben!« sagte Harald fest. »Pistolen heraus …!
 Jeder hinter einen Baum!!!««
 
 Und dann — die noch größere Enttäuschung. Aber das
 mag den zweiten Teil einleiten. Er wird zeigen, wie selbst
-asiatisMe List niht gegen europaische Xlugheit etwas auss
-zuricßteu vermag.
+asiatische List nicht gegen europäische Gluckert etwas aus
+zurichten vermag.
 
 <@pagebreak/>
-SESSSDLDSSSSDSS 35 DSSSSSSSSSS
 
 Die Hundehütte.
 
 <h2>1. Kapitel.</h2>
-<h3>Frau Paktson lädd uns ein ….</h3>
+<h3>Frau Patson lädt uns ein …</h3>
 
 Sie kamen … Harst rief sie’ zuerst an …
-»Falt — bleiben Sie stehen!!«
+»Fall — bleiben Sie stehen!!«
 Sie standen … Eine kreischendy brüchige Frauenstkmme
 
-scritlte …
+Schritte …
 
-»Was wollen Sie hierf! Weshald umshchlichm Sie
+»Was wollen Sie hielt! Weshalb umshchlichm Sie
 meinen Besitz?!
 
-Das sollte Guddal sein?! Unmöglich! Guddai beherrschte
-das Deutsche nur schr mäßig.
+Das sollte Guddai sein?! Unmöglich! Guddai beherrschte
+das Deutsche nur sehr mäßig.
 
-Und doH war’s ja dieselbe Frau von dorhtn mit
+Und doch war’s ja dieselbe Frau von vorhin mit
 dem Einwärts8gang, den langen Armen und der etwas schiefen
-Ropfhaltung.
+Kopfhaltung.
 
-Und dieselbe Stimme weiker in krankhafter Erregung:
+Und dieselbe Stimme weiter in krankhafter Erregung:
 »Was wollen Sie hier? Stehlen etwa? Lassen Sie doch eine
-kranke alte Frau, die die ganze Welt verflucht, tn Ruhs
+kranke alte Frau, die die ganze Welt verflucht, in Ruhe
 Hier haben Sie zehn Mark …«
 
-Und Jie schleuderte einen zusammeng&nüllten Geldschein
+Und Sie schleuderte einen zusammeng&nüllten Geldschein
 auf die Erde.
 
 »Seien Sie froh, wenn ich Sie nicht mit Schüssen
-verjage …! Es wäre mein gutes Recht. Merken Sie siß
+verjage …! Es wäre mein gutes Recht. Merken Sie Biß
 <@pagebreak/>
-DSSSSDSSSSSSS 36&nbsp;000202080&nbsp;202220202
+auch: Vor Einbrechern habe ich mich geschöpft!!t
 
-aunch: Bor Einbrechern habe ich mich qeschüntz!!t
+Dann drehte sie By um. Sie schien nach der Pforte
+zurück;Ohren zu wollen.
 
-Dann drehte sie sy um. Sie schien nach der Pforte
-zurükk;chren zu wollen.
-
-»E.nen Angenblik bitte, Frau Patson,« ricf Harald.
-»Wir jind keine Einbrecher … Wir sind nur irregeführt
-worden. Man hat Cie denunziert. IH bedauere, daß die
-Corqe am meine Mutter mich) hierher trieb. Ich bin selbst
+»Omen Augenblick bitte, Frau Patson,« rief Harald.
+»Wir sind keine Einbrecher … Wir sind nur irregeführt
+worden. Man hat Sie denunziert. Ich bedauere, daß die
+Sorge am meine Mutter mich) hierher trieb. Ich bin selbst
 krank. Ich werde diese Nacht schwer zu büßen haben. Ich …«
 
-»Was reden Sie dab! Ihre Mutter … 2?! Irregesünhrt?!
-Denunziert ., ?! — Ih versfche Sie nicht … Nein, qar
-nicht … Krank sind Eie … Was soll das alle82?! Glauben
+»Was reden Sie daß! Ihre Mutter … 2?! Irregesünhrt?!
+Denunziert .,?! — Ich verstehe Sie nicht … Nein, gar
+nicht … Krank sind Sie … Was soll das alle82?! Glauben
 Sie mich verhöhnen zu können?!«
 
-Harald verlich die Deckung und trat langsam in den
+Harald verließ die Deckung und trat langsam in den
 vollen Mondschein hinaus. Sofort hob Frau Patson ihre
 Büchse …
 
-»Hal!!! Halti! Jom, Sie schießen, wenn der Mensch
-auch nur einen Schritt noch tu!!«
+»Hall!! Halt!! Rom, Sie schießen, wenn der Mensch
+auch nur einen Schritt noch tut!«
 
 Harst meinte höflich: »Frau Patson, ich habe jetzt keinen
 Grund mehr, Ihnen die Wahrheit zu verhehlen. Mein Name
-ist Harald Harst. BVielleiht haben Sie von mir bereits ge-
-hört, Die Zeitungen nennen mich Liebhaberdetekiiv. Ich bin
-cs nicht, im bin lediglich ein reicher Nichtätuer, der die
+ist Harald Harst. Vielleicht haben Sie von mir bereits gehört,
+Die Zeitungen nennen mich Liebhaberdetektiv. Ich bin
+es nicht, im bin lediglich ein reicher Nichtstuer, der die
 Sensation, das Abenteuer liebt. Gestatten Sie — hier mein
 alter treuer Freund Schraut …
 
-Iv war neben ihm erschienen.
+In war neben ihm erschienen.
 
-Die Pakson zielte auf uns. Es war eine ungemütkliche
-Situation. Dieses Weib, das jetzt keinen Hut trug und«deren
-wirres graues Haar verriet, daß sie socben aus dem VBekt
-gekommen, worauf anch ihr ganzer Anzug schließen licß,
-konnte uns hier ntederknallen, und kein Gericht hätte ihr
-de8wogen viel anh.ben können: No!wehr! Wer wolite ihr
+Die Patson zielte auf uns. Es war eine ungemütliche
+Situation. Dieses Weib, das jetzt keinen Hut trug Wucherer
+wirres graues Haar verriet, daß sie soeben aus dem Bett
+gekommen, worauf auch ihr ganzer Anzug schließen ließ,
+konnte uns hier niederknallen, und kein Gericht hätte ihr
+deswegen viel Zahlen können: Notwehr! Wer wollte ihr
 das Gegenteil nachweisen?! — Aber Harald schien seiner
-Sache ziemlich sicher zu sein, denm er schob die Pistole
+Sache ziemlich sicher zu sein, denn er schob die Pistole
 in die Tasche und mein!e als vollendeter Schauspieler, der
-er nun einmal ist: »Wir werden uns sosort entsernen, Frau
+er nun einmal ist: »Wir werden uns sofort entfernen, Frau
 <@pagebreak/>
-222222002&nbsp;2202&- 37&nbsp;020000020800&nbsp;20202D
-
-Patson. Wenn der Geheimrat im Sanatorium WaldeCruh
+Patson. Wenn der Geheimrat im Sanatorium Vorderfuß
 erfährt, daß ich seine strengen Anordnungen zur Schonung
-meiner Nerven durch diese nächtliche Exkursion einfachß über-
-gangen habe, wird er mir ohnedies — denn er kann sehr
+meiner Nerven durch diese nächtliche Exkursion einfach übergangen
+habe, wird er mir ohnedies — denn er kann sehr
 grob werden — wenig angenehme Dinge sagen. Verzeihen
-Sie also, Fran Patson … Ich weiß, Sie sind selbst mit den
-Nerven : nicht ganz in Ordnung, wie in jenem an mich ge-
-richteten Schreiben stand, das mic auf Ihre Jarbigen Diener
-aufmerksam machte und« den Verdacht aussprach, auß mein
-Geqner Doktor Guddai könnte sich in diesem Gehöft mit
+Sie also, Frau Patson … Ich weiß, Sie sind selbst mit den
+Nerven: nicht ganz in Ordnung, wie in jenem an mich gerichteten
+Schreiben stand, das mich auf Ihre Farbigen Diener
+aufmerksam machte und« den Verdacht aussprach, aus mein
+Gegner Doktor Guddai könnte sich in diesem Gehöft mit
 seiner Beute, meiner armen Mutter, befinden, — — also,
-was wollte ich sagen, ic habe nun wirkli den Faden voll-
-kommen verloren … also … ja, verzeihen Sie die nähHtiiche
-Störung …« — Er sprachß in jenem abgehackten, über-
-hastetlen Ton, der schweren Neurasthenikern eigen zu sein
+was wollte ich sagen, ich habe nun wirklich den Faden vollkommen
+verloren … also … ja, verzeihen Sie die nächtliche
+Störung …« — Er sprach in jenem abgehackten, überhasteten
+Ton, der schweren Neurasthenikern eigen zu sein
 pflegt, und er begleitete seine überstürzten Worte mit ebenso
 nervösen Gesten. Kurz — diese seine Entschuldigungsrede, die
 zugleich die Gründe unseres Auftauchens hier kurz streifte,
-war ein Meisterstückd.
+war ein Meisterstück.
 
-»tt 309g er die Mühe, verteigte sich …
+»tt 309g er die Mühe, verfolgte sich …
 
-»ute Nacht, Frau Patson …«
+»wie Nacht, Frau Patson …«
 
-- »ob - bleiben Eie noch! Ich habe ja von dem Unheil,
+— »ob — bleiben Sie noch! Ich habe ja von dem Unheil,
 das Sie betroffen, gelesen … Außerdem ist mir Ihr Name
 nicht unbekannt, Herr Harst. Nein, im Gegenteil … Es gab
-eine Zeit, wo ich schnlichst wünschte, Sie bei mir zu haben —
-als Helfer und Nater … Und wenst Sie nochH eine Stunde
-Zeit hätten, möchte ich Sie jetzk sogar bitten, mein Gast
-zu sein, Tom kann uns schnell ein Glas Tee aufbrüben. -
+eine Zeit, wo ich sehnlichst wünschte, Sie bei mir zu haben —
+als Helfer und Kater … Und weiter Sie noch eine Stunde
+Zeit hätten, möchte ich Sie jetzt sogar bitten, mein Gast
+zu sein, Tom kann uns schnell ein Glas Tee aufbrühen. —
 Tom — vorwärts!«
 
 Der Farbige lief davon …
 
-Wir näherten uns der Palson. Gie ließ die Büchse
+Wir näherten uns der Balkon. Sie ließ die Büchse
 sinken. Das Mondlicht traf unsere Gesichter und auch das
 ihrige von der Seite,
 
-»ID erkenne Sie jelzt wieder, meine Herren,« sagte sie
+»Ich erkenne Sie jetzt wieder, meine Herren,« sagte sie
 mit der Zerfahrenheit eines Weibes, dessen Gedanken krank.
 <@pagebreak/>
-22220200202222202 38&nbsp;2020202022222
-
-haft in die Irre eilen — hierhin, dorthin, zügellos wie wilde
-NVosse … »Ih; habe Vilder von Ihnen gesehen … Das
+hast in die Irre eilen — hierhin, dorthin, zügellos wie wilde
+Nase … »Ich; habe Bilder von Ihnen gesehen … Das
 Londoner Strandmagazin brachte letztens zwei Aufnahmen
-von Ihnen …« Und sie strefte uns die schzmale knochige
+von Ihnen …« Und sie streckte uns die schmale knochige
 Hand zum Gruß hin.
 
-Nein — es war nicht Guddat, niemals! Diese verwüsteten,
-zerfurezten Züge, diese messersrhcharfe rote Hakennase, diese
-Übergreßen kranken Angen: das war eine Frau, die in der
-Tat unendlich viel gelitten und deren Geist sicb deöhalb
+Nein — es war nicht Guddai, niemals! Diese verwüsteten,
+zerfurchten Züge, diese messersrhcharfe rote Hakennase, diese
+Übergroßen kranken Augen: das war eine Frau, die in der
+Tat unendlich viel gelitten und deren Geist sich deshalb
 ein wenig verwirrt hatte.
 
-Sie wandte sie; der Pforie zu. »Vitte, kommen Sie …«
+Sie wandte sie; der Pforte zu. »Bitte, kommen Sie …«
 
-Wir gingen neben ihr. »Die Menschen sind so rüksicht8los,«
+Wir gingen neben ihr. »Die Menschen sind so rücksichtslos,«
 fuhr sie in einem Atem fort … »Sie glauben ja gar nicht,
-wie schr ich hier dur&g die Neugier der Umwohnenden bes
-lästigt worden bin. Tom und Jac, meine Mulatten, die wir
-sHon auf den Philippinen als Diener im Hause hatten, waren
-für dic Rangen der Nachbarn eine steckte Quelle frechjter Zu-
-dringlichkeit … Nun, Sie können sim ja all das selbst
-augmaien: eine einsame Frau, zwei Farbige, und rinqium
+wie sehr ich hier durchs die Neugier der Umwohnenden belästigt
+worden bin. Tom und Sack, meine Mulatten, die wir
+schon auf den Philippinen als Diener im Hause hatten, waren
+für die Rangen der Nachbarn eine steckte Quelle frechster Zudringlichkeit
+… Nun, Sie können ein ja all das selbst
+ausmalen: eine einsame Frau, zwei Farbige, und ringsum
 Menschen in Rüdersdorf, Möllenhorst und wie die Nester
 alle heißen, — Menschen, die man … anspeien konnte,
 die »…»’ …
-»Äber — erregen Ste sich doh nicht so schr?!« mischte
-ich mich tn berzlicher (geheuchelter) Teilnahme ein. »Sie
-Heschweren uns dadurc; ja nur noch mehr das Gewissen,
-denn bedenken Eie, wie wir vor Ihnen dastehen, weil wir dem
-törihten Geschwäß eines anonymen Briefes Glauben
+»Über — erregen Sie sich doch nicht so sehr?!« mischte
+ich mich in herzlichen (geheuchelter) Teilnahme ein. »Sie
+Beschweren uns dadurch; ja nur noch mehr das Gewissen,
+denn bedenken Sie, wie wir vor Ihnen dastehen, weil wir dem
+törichten Geschwätz eines anonymen Briefes Glauben
 schenkten!«
 
-»Das ist verziehen, Herr Shrauk … So, da sind wir …
-CIom hakt die Lampe über dem Hauseingang eingeschaltet …
+»Das ist verziehen, Herr Schraut … So, da sind wir …
+Arm hat die Lampe über dem Hauseingang eingeschaltet …
 Sie sehen, wie bescheiden ich hier lebe, obwohl ich mir eine
-Villa mit allem Luxus leiiten könnte … Bitte — ic; werde
-»vorungehen … Hier sst der Flur, den ich als Diele unter
+Villa mit allem Luxus leisten könnte … Bitte — ich; werde
+»vorangehen … Hier ist der Flur, den ich als Diele unter
 Wahrung des Charakters eines Bauernhauses habe umbauen
-kassen … Und bier link mein Wohnzimmer … Vitte …«
+Kassen … Und hier Wink mein Wohnzimmer … Bitte …«
+
 <@pagebreak/>
-+.220002E2DEdI0S 39 DESHESDEDSOEE
+Wir traten ein. Angenehme Wärme schlug uns entgegen.
+Sxuibelhol; Duft lag in der Luft … Der Orient grüßte uns
+wir Postboten Teppichen, Watfssensaumlunger, indischen
+reicheren Fischer, Haltung … Dieser Raum erinnerte ein
+wenig in Haralds Ardcüszimmer, und aus die modernen
+Kourbiitobel Bad der große Diplomatenschreibtisch paßten genau
+so wenig in dieses kleine ostasiatische Museum hinein wie
+Gebet w.:ist
 
-Wir traten ein. Angenehme Wärme sdlug ua8 entgegen.
-Sxuibelhol; dufi lag in der Luft … Der Orient grüßte uns
-vii Voltbaren Scppichen, Watfssensaumlunger, indischen
-1eiederen Jisgehen, Holurin … Dieser Raum erinnerte ein
-wenig iu Butglds Ardcüszimmer, unb auH die modernen
-Kourbiitobel vad der große Diplomatenschreidtisc paßten genau
-fo wenig in dieses kleine ostasiatische Museum hinein wie
-bet w.:rst
+Wir Wohnen an dem riesigen Kaminofen Platz. Unc
+Tier vor dem Kamin ein Feil — das eines Königstigers, —
+ein) hier elf Rauchtischchen, Zigarren und Zigaretten und drei
+kostbare Opiumpfeifen —ck es kostbar, wie mein Freund sie
+nicht besaß.«
 
-Wir Rnabmen an dem riesigen Kaminofen Plaz. Unc
-tier vor dem Kamin ein Feil — das eines Königstigers, -
-eu) hler eli RauHtischhen, Zigarren und Zigaretten urid drei
-kostbare Optumpjeisen —ck ss kostbar, wie mein Freund sie
-niht desaß.«
-
-Beoor die Unterhaltung nocH begann, erschien Tom mü
+Boot die Unterhaltung noch begann, erschien Tom mü
 einem Teebrett …
 
-Nun kounte ich diesen Farbigen endlich im bellen Licdt
-elektrische: Lampen mir ansehen. — Cin Singhalese, — nein,
-da halte Frau Busse si gründlich geirrt. Jom war ein
-Mulatte. Und hinter ihm mit einem anderen Teedreti der
-zweite Diener — auc Mulatte.
+Nun konnte ich diesen Farbigen endlich im bellen Licht
+elektrische: Lampen mir ansehen. — Ein Singhalese, — nein,
+da halte Frau Busse sich gründlich geirrt. Rom war ein
+Mulatte. Und hinter ihm mit einem anderen Teebrett der
+zweite Diener — auch Mulatte.
 
-Meine Enttäuschung war wirkli grenzenlos.
+Meine Enttäuschung war wirklich grenzenlos.
 
-Frau Patson spielte die licbenswürdige Wirttm. Sis
-hatte schnelle, kranfhaft unausgeglichene Bewegungen … Sie
-redete jezt in einem fort, schalt auf die Neugier der Nach-
-darn, auf die Aerzte, die sie sür … verrüFkt erklärt hätten …
-— füllte die hauchhdunnen chinesishen Täkßchen, !cFchob uns
-delifate Brötchen bin … redete … redete …
+Frau Patson spielte die liebenswürdige Wirtin. Sie
+hatte schnelle, krankhaft unausgeglichene Bewegungen … Sie
+redete jetzt in einem fort, schalt auf die Neugier der Nachbarn,
+auf die Ärzte, die sie für … verrückt erklärt hätten …
+— füllte die hauchdünnen chinesischen Gäßchen,!erhob uns
+delikate Brötchen bin … redete … redete …
 
-Ihr Gesicht hatte einen ’ gelblichen, ungesunden Ceint.
-Ihre Hände wuren tadellos gepflegt. Abdstoßend wirkte ihr
-ungepflegtes graues Haar, durc das sich einige völlig weiße
-Strähnen hindurchzogen. Sie war entsezlich mager, die Brust
-eingesunken, der Hals faltig und dünn, und geradezu lächer-
-li) nahm sich bei diesem Yeußeren der dbestite, dunkelblau-
-seidene wattierte Schlafrock aus, den sie dazu noH mit einem
-braunen Sportgurt um die Taille ganz eng zujsammen(gzogen.
+Ihr Gesicht hatte einen ’ gelblichen, ungesunden Teint.
+Ihre Hände waren tadellos gepflegt. Abstoßend wirkte ihr
+ungepflegtes graues Haar, durch das sich einige völlig weiße
+Strähnen hindurchzogen. Sie war entsetzlich mager, die Brust
+eingesunken, der Hals faltig und dünn, und geradezu lächerlich)
+nahm sich bei diesem Früheren der drehte, dunkelblau seidene
+wattierte Schlafrock aus, den sie dazu noch mit einem
+braunen Sportgurt um die Taille ganz eng entkommen(ganzen.
+
 <@pagebreak/>
-DSSSSSSSSSSS 40 DESLDIELBEDHEDS
-
-Ihre zierlichen Füße steten in waruten, pelzdesezteu Sczuhen,
-und diese Füße hielt sie auch« nicht eine! Augendiik ruhig,
+Ihre zierlichen Füße steten in Bauten, pelzdesezteu Schuhen,
+und diese Füße hielt sie auch« nicht eine! Augenblick ruhig,
 Immer wieder schlug sie ein Bein Über das andere, wippte
 mit der Fußspitze, fuhr sich durch den Haarwust, hatte un ihrer
-Tasse zu rüken, zerbrökelte ein Brötdzen, naschie Konfett,
+Tasse zu rücken, zerbröckelte ein Brötchen, rasche Konfekt,
 griff wieder nach ihrer Zigarette … — und redete … redete …
-Wan wurde in ihrer Gosellschaft beinahe setbit Bei!s:äuzer …
+Man wurde in ihrer Gesellschaft beinahe selbst Bei!s:außer …
 
-»Herr Harst, ich bin geborene Deutsch2,« platzte sie jetzt
+»Herr Harst, ich bin geborene Deutsch?,« platzte sie jetzt
 heraus.
 
-»Das ist mir bekannt, Frau Pauatson …
+»Das ist mir bekannt, Frau Tonarten …
 
-»Auch ? durch&g den nichtswürdigen anonymen Brich x«
+»Auch? Buches den nichtswürdigen anonymen Blick x«
 
-»Ia …
+»Ja …
 
-Meinc Aufmerksamkeit galt jeht deim schwarzen Kajien
-und dem Stativ, die neben … dem Sdchreibtijch auf einem
+Meine Aufmerksamkeit galt jetzt beim schwarzen Kasten
+und dem Stativ, die neben … dem Schreibtisch auf einem
 
 Stuhle standen.
-»Wohl eine Filmkamera?« fragte im … So ganz arg-
+»Wohl eine Filmkamera?« fragte im … So ganz arg
 
-Sie sprang auf. »Ia — mein einziges Vergnügen …
-Ih filme …« Sie lachte … Sie holte deu Kasten … Wirk-
-lich, es war eine Filmfamera … »Walen Sie einen meiner
-Filme sehen, meine Herreu?« Und !schon vuuir zur unf
+Sie sprang auf. »Ja — mein einziges Vergnügen …
+Ich Filme …« Sie lachte … Sie holte den Kasten … Wirklich,
+es war eine Filmkamera … »Walen Sie einen meiner
+Filme sehen, meine Herren?« Und!schon Mumie zur uns
 
 den Klingelknopf …
 
 <h2>2. Kapitel.</h2>
 <h3>Der Film.</h3>
 
-Jom trat ein. er war der größere und krästigere der
+Rom trat ein. er war der größere und kräftigere der
 
 Mulatten.
 »Tom — richte nebenan alles her … Meine Gaste wollten
 
-einen meiner Filme schen. Lege eu Vaumstlim und den
-Wildfalm zurecht …’’
+einen meiner Filme sehen. Lege ein Baumgrün und den
+Lysoform zurecht …’’
+
 <@pagebreak/>
+Darf! ward mir einen Längen verfrachteten Bild zum Er
+By dabei, eilt. Beerbt das zu befingert Schrei; »Also auch
+See Apparat. ist.+ ein harmloser Fischsalat«
 
-Darf! ward mir einen längen verjtahieken Bilk zuu Er
-Bn dabei, eit. weslbt bas zu befugeit schlei; »Wiso auch
-bee Üpparat. it.+ ein harmloser Filmkobatt«
-
-Tom verjchwaud wieder. Frau Patson jtarrie jezt geistes-
-abweschd bor iH, bin. Und bann — in ihrer nerpenaufcei-
-zende. explajiven Wers: »Herr Darst, seinerzeit jätite kh Sie
-gern, 6uf. Heiner Pflanzung, unweit Manila gehabt — als
-Helfer und Berater.« Sie sehiey ganz vergessen zu haben,
-daß sie falt genau dieselben Worte schon einmal gesprochen
-daite. »Meia Manx. war dort Vlantagendirefior vei der
-- Costasia-Kompuguie, eine glänzende Siellung. Cr warde
-»das Opfer eine« Siahiffskatajirophe, als er: von Vombay
-vor einem Jahr uch Manila zurückkehren wollte. Er hatte
-dort geschäftlich zu zun. Der Dampfer Garderal zing ver-
-fvren. Man nimm! au, daß. er in einem Orkan auf den
-Daradug-RVissen unweit Bawari scheiterte. Nich! eine Maus
-wurde gerettet, Nur ein paar Rettungösringe wiurhen an den
+Tom verschwand wieder. Frau Patson starrte jetzt geistesabweschd
+vor ich, bin. Und kann — in ihrer nerpenaufceizende.
+explosiven Wert: »Herr Harst, seinerzeit Fährte Ah Sie
+gern, 6uf. Seiner Pflanzung, unweit Manila gehabt — als
+Helfer und Berater.« Sie schien ganz vergessen zu haben,
+daß sie fast genau dieselben Worte schon einmal gesprochen
+hatte. »Mein Manz. war dort Plantagendirektor bei der
+— Costasia-Kompagnie, eine glänzende Stellung. Er wurde
+»das Opfer eine« Siahiffskatajirophe, als er: von Bombay
+vor einem Jahr weh Manila zurückkehren wollte. Er hatte
+dort geschäftlich zu zum. Der Dampfer Bankerott ging verloren.
+Man nimm! zu, daß. er in einem Orkan auf den
+Sonntag-Wissen unweit Bauart scheiterte. Nicht eine Maus
+wurde gerettet, Nur ein paar Rettungsringe Turban an den
 Strand gespült …«
 
-- Sie stierte vor si hin und zerkrömelte ihre »Bidavene.
-Bn »Es war entsezlich, Herr Harst … Edward iji mir nachts
-dreimal erschienen,« fuhr sie ganz leise und geheimnigooll
-fort. »SB behaupte, er lebt … +34 weiß, daß er lebt …
-Er war so gemein, Pepe zu bestehlen, mich seine Witwe …
-IH hasse Hu … Er wär ein Lump …
+— Sie stierte vor sich hin und zerkrümelte ihre »Erhabene.
+By »Es war entsetzlich, Herr Harst … Edward ist mir nachts
+dreimal erschienen,« fuhr sie ganz leise und geheimnisvoll
+fort. »Ab behaupte, er lebt … +34 weiß, daß er lebt …
+Er war so gemein, Wege zu bestehlen, mich seine Witwe …
+Ich hasse Zu … Er wär ein Lump …
 
-TERS
-Eg
+Eis
+Es
 
-… Donn kreischte sie: »Können Gie sich vorstellen, daß
-altes Wera erl! vierzig Jahre alt bin! Vierzig — und
+… Dann kreischte sie: »Können Sie sich vorstellen, daß
+altes Berg er!! vierzig Jahre alt bin! Vierzig — und
 siebzig sehe im aus!«
-mw. Wieder schnellte sie ho«, llef zum Screibtis& und kam
-mit einer Mappe zurüc, legte sie Harald in den Schoß …
-»a, lesen Sie … lesen Sie … Mein GeburtssHein, mein
-Konfirmationsschein, bier ein Paß mit Lichtbild … So sab
-iH als Zwanzigjährige aus! Hier meine Heiratsurfunde,
-kr ein Bild Edwards, hier ein Bild unseres Hauses auf
+mw. Wieder schnellte sie so«, lief zum Schreibtisch und kam
+mit einer Mappe zurück, legte sie Harald in den Schoß …
+»a, lesen Sie … lesen Sie … Mein Geburtsschein, mein
+Konfirmationsschein, hier ein Paß mit Lichtbild … So sah
+ich als Zwanzigjährige aus! Hier meine Heiratsurkunde,
+Mr ein Bild Edwards, hier ein Bild unseres Hauses auf
 Plantage, hier …«
-Som kom und meldete in gebrochenem Deutichh: »Alles
+Vom kam und meldete in gebrochenem Deutsch: »Alles
 <@pagebreak/>
-SSSS00DSSDISS 429. DE0ESISEEI SD
-
 fertig, Frau Patson …«
 
-Und abermals fuhr sie empor, warf »inpve und Paplere
-auf das Lebersosa vnd eilte voran. — Wenn diescs Wetz
-immer so necvös gewesen war, mtizie der »Tod für Ihre.
-Maun eine EGrlosung bedeute! Zuven. ch- Uebergaupt: Eward
-Patson sollte vor Bawari mit einchui Dampfer umgekomater
-sein — ausgerehnet vor Bawarl, w5 Huddal und sein Freund
-der Radscha ihren Schlupfwinkel — ihren indische Schlupf-
+Und abermals fuhr sie empor, warf »Suppe und Papiere
+auf das Ledersofa und eilte voran. — Wenn dieses Bett
+immer so nervös gewesen war, mußte der »Tod für Ihre.
+Mann eine Erlösung bedeute! Juden. ich- Ledergurt: Smart
+Patson sollte vor Bauart mit Typhus Dampfer angelangter
+sein — ausgerechnet vor Bauart, w5 Guddai und sein Freund
+der Radscha ihren Schlupfwinkel — ihren indische Schurke
 
-winkel gehabt hattien!! Und Edward Patson sol!ie noch ieben
+winke! gehabt hatten!! Und Edward Patson sollte noch leben
 
-und seine Frau bestohlen habeu!! Was war das alles für
+und seine Frau bestohlen haben!! Was war das alles für
 ein Irrsinn!! —«
 
-Das Nebenzimmer, eine Urt Damensalon, war gzenai so
-strahlend erleuchtet wie der andere Raum. Gegeuüber der
-Sür hing eine straff gespannte große Leinwand — wie ün
-Kino. Halb rehts stand ein Kinovorführungsapparat. Haib
-links sollten wir in zwei Sesseln Platz nehnien. Diese Sessel
+Das Nebenzimmer, eine Art Damensalon, war gesagt so
+strahlend erleuchtet wie der andere Raum. Gegenüber der
+Für hing eine straff gespannte große Leinwand — wie An
+Kino. Halb rechts stand ein Kinovorführungsapparat. Halb
+links sollten wir in zwei Sesseln Platz nehmen. Diese Sessel
 standen vor einem japanischen Wandschirm.
 
-»Sezen Sie sich bitte … IH vbediene ben Apparat
-selbst, meine Herren« — und Frau Patson schaltete im-
-Innern des Upparates die Lampe eiu …
+»Setzen Sie sich bitte … Ich Abstiegs den Apparat
+selbst, meine Herren« — und Frau Patson schaltete Zimmern
+des Apparates die Lampe ein …
 
-Harald nidte … »Gern, Frau Patson … Nur möchte
+Harald nickte … »Gern, Frau Patson … Nur möchte
 ich die Filme genau von vorn sehen« — und er schob die
-Sessel vou dem versänglihen Wandschirm weg mitten ims
+Sessel von dem verfänglichen Wandschirm weg mitten ins
 Zimmer.
-Verfänglich! — Ja, auch mir hatte dieses Platzarrange-
-ment nicht gefallen. Hinter dem Waudschirm konnte Zack
-stefen und uns nachher im Dunkeln gemütliä) ein paar
+Verfänglich! — Ja, auch mir hatte dieses Platzarrangement
+nicht gefallen. Hinter dem Wandschirm konnte Sack
+stecken und uns nachher im Dunkeln gewärtig) ein paar
 Hiebe versetzen … Diese ganze Umgebung war ja höchst
-anrüchig, obwohl Guddais Person hier aucschied. Cinem
-Frauenzimmer wie dieser Patson konnte man ailes zutrauen.
+anrüchig, obwohl Guddais Person hier aucschied. Einen
+Frauenzimmer wie dieser Patson konnte man alles zutrauen.
 
-Aber sie nahm von Harsts Plaßveränderung keinerlet
-Votiz, und als ich nun, scheinbar ein Bild über dem Wand-
-schirm interessiert betradtend, einen Blik hinter diesen warf,
-war dort kein Jack zu sehen. Unser Wißtrauen also grund-
+Aber sie nahm von Harsts Plaßveränderung keinerlei
+Tote, und als ich nun, scheinbar ein Bild über dem Wandschirm
+interessiert vertattert, einen Blick hinter diesen warf,
+war dort kein Sack zu sehen. Unser Mißtrauen also Grunde
 
 …
-<@pagebreak/>
-220SSSSSSSSSS 43 DSSSSSSSSSSS
 
-Dann wurde es dunkel. Als der Kronleuchter erkosch,
+<@pagebreak/>
+Dann wurde es dunkel. Als der Kronleuchter erlosch,
 merkte ich, daß Harst dbliäschhnell seine Clement aus der
 
-Iasche hervorholte …
-Film mit Pistole in Bereitschaf!! Immerhin etwas
+Tasche hervorholte …
+Film mit Pistole in Bereitschaft! Immerhin etwas
 
 Neues!
 
-Auf der Leinwand erschien das !Harfe Bild jener urakten
-Eiche, die in Frau Busses Brief eine !so große Rolle spielte. -
-Und dann kam TIom von links, tat so, als ob cks in der
-Krone der Eiche etwas Besonderes zu sehen gäde und benahm
-sid dabei so komiscy daß wir tatsächlih lachen mußten.
+Auf der Leinwand erschien das!Harfe Bild jener uralten
+Eiche, die in Frau Busses Brief eine!so große Rolle spielte. —
+Und dann kam Arm von links, tat so, als ob kg in der
+Krone der Eiche etwas Besonderes zu sehen gäbe und benahm
+sich dabei so komisch daß wir tatsächlich lachen mußten.
 Nun kletterte Tom an dem dicken Stamm empor, purzelte
 wieder herab, war endlich oben, balanzierte auf einem Ast
 entlang und verlor das Gleichgewicht, hielt sich krampfhaft mit
 einer Hand fest und schlenkerte mit den Beinen … sauste herab
-und fiel auf die Erde, befühltt sich alle Glieder, schnitt.
+und fiel auf die Erde, befühlt! sich alle Glieder, schnitt.
 Grimassen
 
 Wir lachten, und der erste Film war zu Ende.
 
 »Bravo!« rief Harald …
 
-»Ia - bravo!« kreischte Ftrait Patson in toller Lustig
-fett. »Wenn ichß mal schlechter »Stimmung bin, dann sehe
-ich mir dieses Meisterstück grotesfer Negertehnik an. Nicht
+»Ja — bravo!« kreischte Pirat Patson in toller Lustig
+fett. »Wenn ich mal schlechter »Stimmung bin, dann sehe
+ich mir dieses Meisterstück grotesker Negertehnik an. Nicht
 mal Chaplin ist so ulkig wie mein Tom. — Jetzt kommt
 etwas anderes, worauf ich besonders stolz bin, und mit
-Neht …
+Geht …
 
-Ib … war gar nichOt stolz!
+Ab … war gar richtet stolz!
 
-Arme Frau Busse, — all ihrck€ s!chönea Kombinationen
+Arme Frau Busse, — all ihrck€ s!hören Kombinationen
 waren in nichts zerronnen! Die Frau Patson war nicht
-Guddai, sondern ein hysterisch;e8 Weib, die Mulatten waren
-eHhte Mulatten und die Eiche war lediglißh der Schauplatz
-einer komischen Filmausfnahme! -
+Guddai, sondern ein hysterisch;es Weib, die Mulatten waren
+echte Mulatten und die Eiche war lediglißh der Schauplatz
+einer komischen Filmaufnahme! —
 
 Da erschien das andere Bild auf der Leinwand, eine
-Waldblöße, drei Rehe, die arglos ästen … E&8 waren ein
-BoX und zwei Riken. Mit einem Male tauchte von rechts
+Waldblöße, drei Rehe, die arglos Ästen … E&8 waren ein
+Boy und zwei Eilen. Mit einem Male tauchte von rechts
 ein zweiter Bock auf, der sofort auf den Nebenbuhler losging.«
-<@pagebreak/>
-2D208D02DSSSSSSS 44 DSSSSDSSSSSSSD
 
-Ein prachtvoller Kampf entspann sich, ein graziöses, kraft
+<@pagebreak/>
+Ein prachtvoller Kampf entspann sich, ein graziöses, Kraft
 volles Spiel …
 
-In der TIat, das war eine seltene Aufnahme!
+In der Trat, das war eine seltene Aufnahme!
 
 Als der neuerschienene Bock nun den anderen in die
-Flucht schlug, als der Sieger dann die holden Nehdämhen
-eifrig bekurte, da raunte Harald mir zu — und cr durfte
-diesc8 hastige Flüstern bei dem unaufhorlihen Schnarren
+Flucht schlug, als der Sieger dann die holden Peitschten
+eifrig Schufte, da raunte Harald mir zu — und er durfte
+dieses hastige Flüstern bei dem unaufhörlichen Schnarren
 des Borführungs8apparates schon wagen:
 
-»Eine kolossale Dummhei!!«
+»Eine kolossale Dummheit!«
 
-Was bieß das?! Dummheit?! WeL!halb?!
+Was ließ das?! Dummheit?! Wer!halb?!
 
 Der Film war zu Ende.
 
-»Bravo, Frau Patson, — großartig!« rief LHarald.
+»Bravo, Frau Patson, — großartig!« rief Tatort.
 
 »Wollen Sie noch mehr sehen, — gern!«
 
-»Bedauere unendlich, wir müssen wirllih weg. Aber.
-wenn Sie gestatten, besu;en wir Sie mal am Tage, falls der
-strenge Geheimrat mir das Nusg-hen gestattet. Ich bin ja
+»Bedauere unendlich, wir müssen wirklich weg. Aber.
+wenn Sie gestatten, beim;en wir Sie mal am Tage, falls der
+strenge Geheimrat mir das Ausgehen gestattet. Ich bin ja
 Patient … Haben Sie jedenfalls Dank für Ihre Gastfreiheit.«
 
-Das Lich! slammte auf.
+Das Licht flammte auf.
 
-Harald ließ nochz ein Trinkgeld für die Mulatken zurüd.
-und Frau Patson begleitete uns bi2 zur Pfort’, wo Harald
-no) scherzend meinte: »Ich habe da vorhin Ire Kontalte
-drähte in Unordnung gebracht … Au dieserhaib meine
-Fntschuldigung …«
+Harald ließ noch ein Trinkgeld für die Mulatten zurück.
+und Frau Patson begleitete uns by? zur Pfort’, wo Harald
+noch) scherzend meinte: »Ich habe da vorhin Sie Kontakte
+Drähte in Unordnung gebracht … Au dieserhalb meine
+Entschuldigung …«
 
 »I — ich muß mich sichern,« sagte sie zerstreut, »Oh —
 nun »habe ich nicht einmal Zeit gehabt, Ihnen die Geschichte
-von dem niederträchhtigen Diebstahl meines Mannes zu
-erzählen … Wenn Sie nur reh! bald wicederkämen, meine
-Herren … Bl. !eicht finden Sie Edward und den Nauklava«.«
+von dem niederträchtigen Diebstahl meines Mannes zu
+erzählen … Wenn Sie nur roh! bald wiederkäuen, meine
+Herren … Bl.!Sicht finden Sie Edward und den Raubburg«.«
 
-»Wie — Naukla « sa, den heidnischen Gott der Philip-
+»Wie — Punkto « so, den heidnischen Gott der Villa
 
-pino
-»Ia «… Die goldene Statue … Haben Sie davon gehört,
+ging
+»Ja »… Die goldene Statue … Haben Sie davon gehört,
 
 Herr Harst?«
-»Von einer Statue nicht. Daß jedoH Naukla » fa der
+»Von einer Statue nicht. Daß jedoch Punkto « ja der
 
 Odergöthce der Philippinos ist, das weiß ich natürlich.«
-»Die Skatue? Die stammte aus dem Temrel in Gaugart,
+»Die Statue? Die stammte aus dem Tempel in Gangart,
 <@pagebreak/>
-2222222202228 45 2D0SS0SSü0SSSSSSS
-
-Herr Harst. Fünfzig Zentimeter hoh, vollkommen mit Dia«
-manten besetzt, der Kopf ein notürlicer Smaragd, die Arme
-die prächtigsten Beryle … — eine Million war die Statue
-wert — Doliars, Herr Harst … Und der tote Schuft
-hat ste mir gestohlen … Ob — wenn ich ihn
-nur noch ein einziges Mal !ehen würde, den elenden Died,
-den GSakan, den Zerstörer meiner Schönheit … IH war
-svn, und als Edward …«
+Herr Harst. Fünfzig Zentimeter hoch, vollkommen mit Diamanten
+besetzt, der Kopf ein natürlichen Smaragd, die Arme
+die prächtigsten Berufe … — eine Million war die Statue
+wert — Dollars, Herr Harst … Und der tote Schuft
+hat sie mir gestohlen … Ob — wenn ich ihn
+nur noch ein einziges Mal!Ehen würde, den elenden Dieb,
+den Satan, den Zerstörer meiner Schönheit … Ich war
+von, und als Edward …«
 
 »Verzeihen Sie, wir müssen wirklich gehen …
 
 Noch ein Händedruck … Wir eilten dem nahen Walde zu.
 
-Hm Baumscatten schlug: Harald einen gemütlichen Schritt
-an, schob seinen Urm in den meinen und sagte tief Atem
+Hm Baumschatten schlug: Harald einen gemütlichen Schritt
+an, schob seinen Arm in den meinen und sagte tief Atem
 
-bolend:
+befand:
 »Mein lieber Alter — wir haben ihn!«
-Ichh war sprachlos …
+Ich war sprachlos …
 »Wen«
 
-»Guddal — und das Verstek meiner Mutter! Ja -
-wir haben ihn! Seine satanische« Sclaubeit hat nichts ge-
-bolfen …
+»Guddai — und das Versteck meiner Mutter! Ja —
+wir haben ihn! Seine satanische« Schlauheit hat nichts geholfen
+…
 
-»Ich … verstehe dim nichtf«—
+»Ich … verstehe hin nichts«—
 
-»Go?! — Und der Waldfilm, der eine Szene aus der
+»So?! — Und der Waldfilm, der eine Szene aus der
 
-Brunstzeit der Nehe zeigke?! — Wann kam die Patson hier-
-her? — Hm Zatuar. — Wann häbden die Rehe Berunstzeit?
-Hm Frühjahr und Herbs!! Also — — Schwindel, genau
-wie der Baumfisin, der lediglich hergestell! wurde, weil Frau
+Brautzeit der Gehe zeigte?! — Wann kam die Patson hierher?
+— Hm Zusage. — Wann haben die Rehe Benutzen?
+Hm Frühjahr und Herbst! Also — — Schwindel, genau
+wie der Baumfisin, der lediglich hergestellt wurde, weil Frau
 Busse die beiden bei der Eiche übekrascht hattet«
 
-»Ia … aber .«, ?
+»Ja … aber.«,?
 
-»Max Schraut, weißt du noc nicht Beschetd?! — Was
+»Max Schraut, weißt du noch nicht Bescheid?! — Was
 taten denn die beiden mit der Kamera und dem Stativ
-in dieser NaHt bei der Eiche? Wollten fe Blitzlichte
-ausnahmen machen?!«
+in dieser naht bei der Eiche? Wollten je Kitzliche
+Ausnahmen machen?!«
 
-»IH … entschuldige … ih … bin wirklich etwas bs
+»Ich … entschuldige … ich … bin wirklich etwas Es
 grifssstutzig.«
 
-»Du wirst e3 nicht mehr sein, wenn wir den Geheimrat
+»Du wirst es nicht mehr sein, wenn wir den Geheimrat
 gesprochen haben. Die Hauptsache: die Patson glaubt jeden
 <@pagebreak/>
-2202020302020S000 46 DE 0000802000
-
 Argwohn bei uns zerstreut zu haben. Das ging aus ihrem
-Berhalten hervor.«
+Verhalten hervor.«
 
 »Wer — ist diese Frau?«
 
 »Ein Werkzeug Guddais! Sahst du ihre Gesichtsfarbe?
-Ste ist Deutsche, gewiß. Aber aus ihrem Geburtsshein ersah
+Sie ist Deutsche, gewiß. Aber aus ihrem Geburtsschein ersah
 ich, daß ihre ’Mutker eine Asiatin war, eine Inderin …
-Das besagt Fenug. Das asiatische Blut in ihr vericugnet sich
-nicht. Sie haßk die Europäer, sie hat diesen H.iß mit der
+Das besagt Zeug. Das asiatische Blut in ihr verleugnet sich
+nicht. Sie haßt die Europäer, sie hat diesen Biß mit der
 Muttermilch eingesogen …!’
 … Dann schritt er rascher dahin, pfiff leise den Marsch aus
 Carmen und führte uns auf kürzestem Wege zu unserem
 
 uko,
 
-Uls es in Sich! kam, bewies er jsedoHh aufs neue, für
-wie gesährlich er unsere Lage hielt. — »Denke an die beiden
-armen Teufel, die von Guddai unwel? der Billa Wonzow im
-Auto abgetan wurden,« meinte er, »Rufen wir den Chausjeur
-an … — Halloh!?« …
+Als es in Sich! kam, bewies er geschah aufs neue, für
+wie gefährlich er unsere Lage hielt. — »Denke an die beiden
+armen Teufel, die von Guddai nach? der Villa Worten im
+Auto abgetan wurden,« meinte er, »Rufen wir den Chauffeur
+an … — Haltlos!!« …
 
-Nber — es war unser Chaufseur …
+Oder — es war unser Chauffeur …
 
 Und wir fuhren gen Woltersdorf durch die Mondnacht,
-schlichen jedoH nicht in unjere Zimmer, sondern durch eine
+schlichen jedoch nicht in unsere Zimmer, sondern durch eine
 Seitentür in des Geheoimrats Privatwohnung.
 
 In seinem Arbeitszimmer stand der Geheimrat vor einem
 Radiotisch … 0 …
 
-Hatte den Hörer Übergestülpt und n!ckte uns zu, sch&ried
-weiter mit dem Bleistist auf ein Stück Papier stenographische
-Beichen …
+Hatte den Hörer Übergestülpt und n!edle uns zu, Beschrieb
+weiter mit dem Bleistift auf ein Stück Papier stenographische
+Zeichen …
 
-Harald beugte Rich über den Vicrröhrenempfänger, in
-dessen Dreispulenhalter ganz kleine Spulen stekten, höchstens
-für den Wellenbereich sünfzig bis hundert Meter.
+Harald beugte Riß über den Vierröhrenempfänger, in
+dessen Dreispulenhalter ganz kleine Spulen stellen, höchstens
+für den Wellenbereich fünfzig bis hundert Meter.
 
-Mein Hirr wird plötzlich frei … Ich begreife, was die
-»ZFamera« zu bedeuten ha!!
+Mein Hirn wird plötzlich frei … Ich begreife, was die
+»Kamera« zu bedeuten ha!!
 
-(PEST EEE
 <@pagebreak/>
 
-APEN ITNENOON aM: WWPPPPFELOOE
 »in Kapitel,
-»wet Meldungen.
 
-Heute, ws 15 bie Sorgänge jener Nacht wochmals an
-ien »wstigen Ruge vorvierziehen tasse, heute, wo jede
-Ei::a010: gerabsg hie be! Ner Niederichrift an Zand
-Notizen fo »ius bervnrtritt, — heute UFS; mic understände
-p, 0. H dawalt To un Jaublich hliad war —» geisteßh-
+»wer Meldungen.
+
+Heute, ins 15 die Irrgänge jener Nacht nochmals an
+erschien »nötigen Auge vorvierziehen Tasse, heute, wo jede
+Ei::a010: peinlich hie bei Per Niederschrift an Hand
+Notizen so »ins hervortritt, — heute As; mich understände
+p, 0. Staunt So un Rundlich blind war —« Beisteht
 1436!
-Sarald lägelt mir zu «- voller Nachsicht. Zu marl daß
-te jetzt eublich ein Licht aufgegangen.
+Harald lächelt mir zu «- voller Nachsicht. Zu warf daß
+te jetzt endlich ein Licht aufgegangen.
 
-Dany nimnit der Geheimrat ben Sörer ab: …
+Dann nimmt der Geheimrat den Hörer ab: …
 
-»Yus1« sagt ex. »Über übergenug! Zwet Runa,
-feber Zerr Harft, hie eine, als Sie etwa eine Gtunde
-jnterwegs waren, die zweite soeben. — Mein Komplimant
-übrigen! Ihre Kombinationsgabe ist fabelhaf!!«
+»Lust« sagt er. »Über übergenug! Zwei Jung,
+Weber Herr Harst, hie eine, als Sie etwa eine Stunde
+jnterwegs waren, die zweite soeben. — Mein Kompliment
+übrigen! Ihre Kombinationsgabe ist fabelhaft!«
 
-»9h — das war doch nicht schwer, Herr Geheimrat. Fram
+»oh — das war doch nicht schwer, Herr Geheimrat. Frau
 
-Busses Angaben über das Benehmen der beiden an der Coche
-ind über den schwarzen Kasten ließen doch&c nur die eine
-Deutung 3u: Ein Radicapparat, und das Stativ eint zu-
-ammenflappbare Nahmenantenne! Deshalb ’bat i& Sie,
-Dine lleinen Wellen nach Gym oder Worimelbungen
+Busses Angaben über das Benehmen der beiden an der Loche
+ins über den schwarzen Kasten ließen vorher nur die eine
+Deutung Zu: Ein Radioapparat, und das Stativ eint zuammenflappbare
+Rahmenantenne! Deshalb ’bat ich Sie,
+Ohne kleinen Wellen nach Gym oder Worimelbungen
 fahnden.«
 
 »Es war Welle 95, Herr Harst. — Darf ich Ihnen nun
-je aufgejangenen Meldungen vorlesen ? Sie werden über-
-scht sein. Frau Ischau muß den Inhalt ihrer Unterredung.
-nit Herrn Schraut vom VBormittag durch ihre sogenanazte
-30 Zofe sofort irgendwie weitergegeben haben … Zören Ste …«
-Ich, Max Shraut, !tand wirklich wie ein begosjvwer
+je aufgegangenen Meldungen vorlesen? Sie werden Übersicht
+sein. Frau Tschau muß den Inhalt ihrer Unterredung.
+nicht Herrn Schraut vom Vormittags durch ihre sogenanazte
+30 Zofe sofort irgendwie weitergegeben haben … Hören Sie …«
+Ich, Max Schraut,!Tand wirklich wie ein begosjvwer
 Pudel dabei!
-Dieser Harald, — was alles hatte er mir nur vers
+Dieser Harald, — was alles hatte er mir nur Vers
 Und seine Fragen an Frau Busse, sein Interesse für
-pppara: und das Stativ: ich blindes Sue
-Der Geheimrat las vor: 7 BO NE 5.1.00
+pppara: und das Stativ: ich blindes Tue
+Der Geheimrat las vor: 7 Wo ne 5.1.00
 
-4
--
 <@pagebreak/>
-2\.2.0002&nbsp;000EE 18 DESEEELSEEEGS
 
-»Dier Versuchssender Zehlendorf … Wir sieileun »Vero
-juße an auf Weile Ww … I.) (ele aus eiiien Koma
-ein StüF vor …’ A eH
+»Hier Versuchssender Zehlendorf … Wir stellen »Berg
+Fuße an auf Weile Ww … I.) (ehe aus eilten Mama
+ein Stück vor …’ Art
 
-»Schlau — schlau, die Bande« Wart wairald ein
+»Schlau — schlau, die Bande« Wart Fahrgast ein
 
-»ls der Defeltiv Truzisch die Chiueitn im Pavilioas
-traf, erzählte er ihr in seiner Werteauenselialett, vol f-
-Freund für die Frceitassung der Gesjungenen etze Million
-Mark zohlen woile. Der Detektiv ahnte nicht, dak die
-Chinesin im Uufirage der Gegenpurtet ihn und seinen
+»ls der Detektiv Tragisch die Hinein im Pavillons
+traf, erzählte er ihr in seiner Werteauenselialett, vor Klient
+für die Freilassung der Gefangenen ehe Million
+Mark sollen wollte. Der Detektiv ahnte nicht, daß die
+Chinesin im Auftrage der Gegenpartei ihn und seinen
 
-… Freund, der totsächlich leidend ist, beobachteit und guße
-horch&en sollte. Sie überzeugte sich spät abends, ob die
-beiden nicht trgend etwas unternehmen würvein, aw—
-waren zu Bett gegangen und schlicfen so feit, daß jede
+… Freund, der tatsächlich leidend ist, beobachtet und gute
+herrschen sollte. Sie überzeugte sich spät abends, ob die
+beiden nicht irgend etwas unternehmen wundern, Javanen
+zu Bett gegangen und schliefen so Zeit, daß jede
 Gefahr für die schlaue Chinesin, etwa bereits durchschaut
-zu sein, zerstreut und gegeustandslos geworden. -
+zu sein, zerstreut und gegenstandslos geworden. —
 
-Hallo — hier der Versuchsjender Zehlendorf … Wir
-brechen die Versuche ab und melden uns uach zwei Stunden
+Hallo — hier der Versuchssender Zehlendorf … Wir
+brechen die Versuche ab und melden uns nach zwei Stunden
 abermals.«
 
-»Dies die erste Meldung, Sery Harst … Nun die zweite,
+»Dies die erste Meldung, Herr Harst … Nun die zweite,
 die erst begann, als Sie beide bereits hier wieder eingetroffen
 waren.«
 
-»Hier Versuchsseuder Zehlendorf … Wir fahreu mit
-unseren Versuczen auf Welle 95 fort. 3hH lese wieder
-ein Stück aus einem Kriminalroman Due
+»Hier Versuchssender Zehlendorf … Wir fahren mit
+unseren Versuchen auf Welle 95 fort. 3hH lese wieder
+ein Stück aus einem Kriminalroman Tue
 
-»alt, einen Augenblice,«. meinte Harald da. »Diese
-Meldung dürfte tonstärker gewesen sein, Herr Geheimrat,
-denn ich nehme an, daß die erste von Berlin-Zehlendorf uus
-für Guddai im Gehöst der Patson bestimmt war, also von
-der Patson abgehört wurde, während diese zweite dur einen
+»alt, einen Augenblicke,«. meinte Harald da. »Diese
+Meldung dürfte Verstärker gewesen sein, Herr Geheimrat,
+denn ich nehme an, daß die erste von Berlin-Zehlendorf uns
+für Guddai im Gehöft der Patson bestimmt war, also von
+der Patson abgehört wurde, während diese zweite durch einen
 kleinen Sender von der Eiche aus in Zehlendorf aufgefangen
 werden sollte, wo ein Freund Guddais wohnen muß.«
 
-»Herr TIschau wohnt dort,« lächelte der Geheimrat …
+»Herr Tschau wohnt dort,« lächelte der Geheimrat …
 Ich lese weiter …
 
 Die Detektive erschienen mitten in der Nacht in der
-Nähe der einsamen Billa, hatten also die Chinesin doch
+Nähe der einsamen Villa, hatten also die Chinesin doch
 <@pagebreak/>
-SLSSS0ESLSSGSSSS 49 SEGSSDSSOSD0ODSD
+getäuscht, hatten ihre Betten verlajjm und sich durch den
+Wald bis nun den Zaun des Grundstück geschlichen, wo
+sie jedoch infolge der geschlagen Alarmvorrichtungen rechtzeitig
+bemerkt wurden und die Prachttier sie Fahrer in aller
+Dutiulosigkeit Kopfnicken und ihnen durch allerlei klug berechnete
+kleine Wandern bewiesen, daß ihr Portal! völlig
+unberechtigt ist. Mehr rote, das Verhalten der Besitzerin
+»der Villa machte die beiden so vollkommen Vertrauens
+selig, daß ie in freuadschaftlichster Weise unter vielen Entschuldigungen
+ein en?lernten und einen neuen baldigen
+Besuch zusagten. — Achtung — wir beenden hiermit Nr
+lehnte unsere Versuche … Fuße Nacht, auf Wiederhören
+weigern nachmittag …«
 
-getäuscht, hatten ihre Betten verlajjm und si durch den
-Wald biz aun den Zaun des Grundstäcks geschlichen, wo
-fie jedoch infolge der geheirnzen ÜUlarmoorrictungen recht-
-zeitig bemerkt wurden und die Bewohßner sie dadper in aller
-Dutiulosigkeit mapfingen und ihnen durch allertet klug be-
-redunete fieine Manvoer bewiesen, daß ihr Berdah! völlig
-unberechtigt fet. Mehr noF&, das Verhalten der Besitzerin
-»der Billa machle die deiden so vollkommen vertrauens
-selig, daß ie in freuadschaftlichster Weise unter vielen Cat-
-shuldigungea sim en?fernten und einen neuen baldizen
-Besuch zusagten. — Uchtung — wir deenden hiermit fr
-bchate unsere BVersüche … Dute Nacht, auf Wiederhören
-niorgenn nachmittag …«
-
-Harald hatte sie; eine seiner Mirakulum angezündei …
-»Wan soll’s wirklich kaum glauben, worauf diesc Herrsdzasten
-verfallen!« meinte er ironisch. »Herr Ischau betreibt in seiner
-Billa in Zehlendorf einen Bersuchssender, und Frau Vatson
-betätigt sid von der Ciche aus ähnlich … Cine sein? Ver-
-bindung. Nur schade, daß Frau Busse die Leuthen eininal
-beim … Photographieren überrascht ha!!, — — Ihnen, Derr
-Geheimrat, für die durHhwachte Nacht meinen herzlichsten
-Dank! IH weiß nun, wo meine-Matiter sich besindet. Ich
+Harald hatte sie; eine seiner Mirakulum angezündet …
+»Man soll’s wirklich kaum glauben, worauf diese Herrschaften
+verfallen!« meinte er ironisch. »Herr Tschau betreibt in seiner
+Villa in Zehlendorf einen Versuchssender, und Frau Patson
+betätigt sich von der Eiche aus ähnlich … Eine sein? Verbindung.
+Nur schade, daß Frau Busse die Leutchen einmal
+beim … Photographieren überrascht ha!!, — — Ihnen, Herr
+Geheimrat, für die durchmachte Nacht meinen herzlichsten
+Dank! Ich weiß nun, wo meine-Master sich befindet. Ich
 werde sofort an die Kriminalpolizei telephonieren und …«
-… Er stiockte, überlegte, verbesserte siß: »Nein, das werde
+… Er steckte, überlegte, verbesserte Biß: »Nein, das werde
 ich doch nicht tun. Das Risiko wäre zu groß … Schraut und
-ich werden schon allein mit den Leuthen fertig.«
+ich werden schon allein mit den Leutchen fertig.«
 
 Der Geheimrat schüttelte warnend den grauen Kopf.
-»Lieber Herr Harst, seien Sie niht zu waghalsig! Bedenken
-Sie, daß Guddai dort in dem einsamen Gehyoft der Patson
-fraglos noMF mehr treue, blindergebene Burschen zur Ver«
-fügung hat als nur die beiden Mulatten …«
+»Lieber Herr Harst, seien Sie nicht zu waghalsig! Bedenken
+Sie, daß Guddai dort in dem einsamen Gestalt der Patson
+fraglos nacht mehr treue, blind ergebene Burschen zur Verfügung
+hat als nur die beiden Mulatten …«
 
-»Gcwiß, die drei Inder, die zugleich mit ihm entflohen
-sind … Über mit List erreiht man alles, Herr Geheim-
-rat. Jetzt —« gute Nacht. Nochmals meinen Dank …« — —
+»Gewiß, die drei Inder, die zugleich mit ihm entflohen
+sind … Über mit List erreicht man alles, Herr Geheimrat.
+Jetzt —« gute Nacht. Nochmals meinen Dank …« — —
 
 Wir lagen in unseren Betten. Vier Uhr morgens war’s.
+
 <@pagebreak/>
-»’D0020200200022020 50&nbsp;2202000200520:
+Aber schlafen?! Mein, das war unmöglich! Ich versuchte
+WW … Es China nicht …
 
-Aber schlafen ?! Netn, das war unmöglich! Ich versuchte
-WW … Es gzing nicht …
-
-Dann vou djaralds Bett her: »Stpiäfst day«
+Dann von klanglos Bett her: »Einläßt dar«
 
 »Nein …
 
-! »Fühlst du dich frisch genug, 11 Jub nach Möttcuyortft
-»ZU wandern Y’
+! »Fühlst du dich frisch genug, 11 Fuß nach Möttcuyortft
+»zu wandern Y’
 
-»Watürlich …
-»Dann Werben wir zuerst oben Frau Tscho und die
+»Natürlich …
+»Dann Werden wir zuerst oben Frau Eiche und die
 
-Zofe besuchen … Du verstehst: Wurst wieder LZöuri!!! Die
-deiden werden ]JiH eine Yarkose und Fesseln und einen
-Knedbel gefallen lassen müssen, und deni: Gehewiiral schreibe
-ich einen Brief und gebe ihm BerhaltunzgSmaßregetn, falls
-Herr Jschau morgen seine arme »Frante Gatti anruft oder
+Zofe besuchen … Du verstehst: Wurst wieder Tour!! Die
+beiden werden ]Riß eine Barkasse und Fesseln und einen
+Knebel gefallen lassen müssen, und dem: Gehewiiral schreibe
+ich einen Brief und gebe ihm Verhaltungsmaßregeln, falls
+Herr Tschau morgen seine arme »Fragte Gott anruft oder
 besucht …
 
-Hm Nu waren wir wieder in den KNleidern. — Wenn
-»man einen ausziehbaren ’Angelstock und eine seichte seidene-
-Strileiter mit Eisenhaken besitzt, so ist das Erklettern eines
-Valkons eine Kleinigkeit, Frau Tschau schwärmte entschieden
-»für frismche Luft, deun die Balkontüreu wareu halb offen
+Hm Nu waren wir wieder in den Kleidern. — Wenn
+»man einen ausziehbaren ’Angelstock und eine seichte seideneStrileiter
+mit Eisenhaken besitzt, so ist das Erklettern eines
+Balkons eine Kleinigkeit, Frau Tschau schwärmte entschieden
+»für Versuche Luft, den die Balkontüren waren halb offen
 und der Eintritt in das Zimmer durchaus bequem. Frau
-Sschau schhlummerte ganz sanft so fest ein, daß ihr gar nicht
+Schlau schlummerte ganz sanft so fest ein, daß ihr gar nicht
 zum Bewußtsein kam, als zwei Paar Männerarme ihre in
-einem seidenen Schlafanzug stefende dürftige Gestall mit
+einem seidenen Schlafanzug steckende dürftige Gestalt mit
 »Binden und Bandagen« leicht umhüllten — immerhin so
-fest, daß Frav Ischau das Belt nicht verlassen kounte. Den
-Knebel ersparte Harald ihr, denn, meinte er, sie wird jich
+fest, daß Frau Tschau das Welt nicht verlassen konnte. Den
+Knebel ersparte Harald ihr, denn, meinte er, sie wird sich
 hüten, zu schreien, wenn sie erwacht, da sie nun weiß,
 daß sie durchschaut ist.
 
 Hm Nebenzimmer schlief die »Zofe«, auch im seidenen
-Anzug. Dieses Zimmer war angefüllt mit deu schwulen,:
-sOHweren, süßlichen kalten Schwaden einer Opiumpfeise, und
+Anzug. Dieses Zimmer war angefüllt mit den schwulen,:
+schweren, süßlichen kalten Schwaden einer Opiumpfeife, und
 die »Zofe« war daher in einem Zustand, der eine Narkose
 »berflüssig machte. Harald fesselte den etwa dreißigjährigen
-Burschen, dessen Perücke auf dem Nachttisch. lag. Der China-
-mann kam zu sich, glotzte uns bliinzelnd an nud war ganz
+Burschen, dessen Perücke auf dem Nachttisch. lag. Der Chinamann
+kam zu sich, glotzte uns blinzelnd an und war ganz
 <@pagebreak/>
-2222202020200&nbsp;2020S 51&nbsp;2000200202220 2I0OD
-
-zahm und still Nachdem er sich auch den nebel hatte in
+zahm und still Nachdem er sich auch den Nebel hatte in
 den Mund schieben und befestigen lassen, nahm Harald die
-auf dcn Nachtlishhen neben der Weiberperücke liegende
-Brieftasche an sid und klappte sie auf. Das schien dem
-Gelben denn doch etwas peinlich zu sein. Er wollte empore
-fahren, aber da er an die Bettpfosten gebunden war, ging’s
-nict rect und er: begnüqte sich mit einem Blick wilden
+auf den Nächtlichen neben der Weiberperücke liegende
+Brieftasche an sich und klappte sie auf. Das schien dem
+Gelben denn doch etwas peinlich zu sein. Er wollte emporfahren,
+aber da er an die Bettpfosten gebunden war, ging’s
+nicht recht und er: begnügte sich mit einem Blick wilden
 Hasses und einem ebenso wütenden Grunzen.
 
 Die Brieftasche enthielt den Beweis, daß diese »Zofe«
-der chinesische Doktor der Staat&wissenschaften Li Pami war,
-Syndikus der Ostasiatischen Einfuhr-GeseilsMmaft, nnd daß diese
-seine Handel&sirma ein Büro des Guddaiordens darstellte -
-nichts andered!
+der chinesische Doktor der Staat&wissenschaften Hinaus war,
+Syndikus der Ostasiatischen Einfuhr-GeseilsMmaft, und daß diese
+seine Handel&sirma ein Büro des Guddaiordens darstellte —
+nichts anbetet!
 
-Herrn Doktor Li Pamis Wuk war alss verständlich,
+Herrn Doktor Kramte Wut war als verständlich,
 anderseits ihm aber auch nachteilig, weil Harald es nun
 doch für ratsamer hielt, diesen gelben Gentleman etwas zu
-narkotisieren. Sicher ist sicher.’ -.
+narkotisieren. Sicher ist sicher’ -.
 
-Es war fünf Uhr morgens, als wir »dann auchß den
-Brief für den Geheimrak leise inden Briesschlitz von dessen
-Privatwohnung schoben. Als ww. hierbel an dem gemein-
-samen Schreibzimmer vorüberkamen, blieb, Harald stehen,
+Es war fünf Uhr morgens, als wir »dann auch den
+Brief für den Geheimrat leise indem Erheischte von dessen
+Privatwohnung schoben. Als ww. hierher an dem gemeinsamen
+Schreibzimmer vorüberkamen, blieb, Harald stehen,
 überlegte, trat ein und benutzte das Telephon. Er rief
 das Berliner Polizeipräsidium an, und als er den Hörer
-wieder weglegte, hatten wir die Gewißheit, daß die Billa
-Iichau in Zehlendorf mit ihrem Bersuchäsender und ihren
-Bewohnern uns nicht mehr irgendvie stören würde.
+wieder weglegte, hatten wir die Gewißheit, daß die Villa
+Tschau in Zehlendorf mit ihrem Versuchssender und ihren
+Bewohnern uns nicht mehr irgendwie stören würde.
 
-Dann erst begannen wir bei bereits einbreczender Dämme-
-rung den Marsch aen Möllenhorst.
+Dann erst begannen wir bei bereits einbreczender Dämmerung
+den Marsch gen Möllenhorst.
 
 Dir hatten Glück. Wir begegneten auf der Chaussee
 einem leeren Lastkraftwagen der Rüdersdorfer Kalkwerke, und
-der Chauffeur war nich!! abgeneigt zehn Mark zu verdienen
+der Chauffeur war nicht! abgeneigt zehn Mark zu verdienen
 und uns mitzunehmen. So waren wir denn kurz nach halb
-scecH8 an derselben Stelle am Waldrande, wo wir Frau
-Pakson und den Mulatten mit ihren Büchsen zu zahmen
-Freunden umges’/immkt hatten.
+sechs an derselben Stelle am Waldrande, wo wir Frau
+Patson und den Mulatten mit ihren Büchsen zu zahmen
+Freunden umges’/sucht hatten.
+
 <@pagebreak/>
-2222202222220&nbsp;539 2202020222020&nbsp;222D
+Vor uns lag das einsame Gehöft. Über der Lichtung
+schwebten noch letzte Nebelschwaden. Jetzt vor Sonnenaufgang
+war es doch recht kühl, Gräser und Bursche taufeucht
+und die Luft frühlingsscharf und würzig.
 
-Vor uns laq das einsame Gehöft. Ueber der Lichtung
-sHwebten noH lelHte NebelsHwaden. Jetzt vor Sonnen-
-ausgang war es doch recht kühl, Gräser und Bütsche tau-
-feucht und die Luft frühlingsscharf und würzig.
-
-Ein Knaken hinter ung … Ein trockenes Aestlein
+Ein Knoten hinter uns … Ein trockenes Gestern
 brach …
 
-Vor uns, die wir mißtrauis; herumgefahren waren,
-stand Frau Thea Busse.
+Vor uns, die wir mißtraute; herumgefahren waren,
+stand Frau Scheu Busse.
 
-Lü Napitel.
-Bütte, Hund, BSarke.
+Lü Kapitel.
+Hütte, Hund, Parke.
 
 Sie war etwas verlegen. Aber ihre grauen Augen
 blickten offen und ohne Falsch.
 
-»IH war nur ganz kurze Zeit daheim, meine Herren,«
-sagte sie. »Ih habe nur den Sche2ck gut verwahrt und nach
-meinem Manne gesehen. Dann trieb mich die Ungcewißheit
-wieder hierher. Wir waren plößtlich so allerlei Bedenken
-gekommen, ob meine Beobachtungen für Sie wirkli so
+»Ich war nur ganz kurze Zeit daheim, meine Herren,«
+sagte sie. »Ich habe nur den Erlosch gut verwahrt und nach
+meinem Manne gesehen. Dann trieb mich die Ungewißheit
+wieder hierher. Wir waren plötzlich so allerlei Bedenken
+gekommen, ob meine Beobachtungen für Sie wirklich so
 wertvoll sein würden und ob Sie beide sich hier nicht
-vielleicßt Irgendwie in Gefahr befänden. Seit drei Uhr:
+vielleicht Irgendwie in Gefahr befänden. Seit drei Uhr:
 morgens bin ich wieder hier.«
 
-»ah - sehr gut … Und was sahen Sie?« fragte Harald
+»ah — sehr gut … Und was sahen Sie?« fragte Harald
 gespannt.
 
-»Frau Patson und der eine Diener eilten an mir vor«
-über, ohne mich gewahr zu werden. Sie kamen ossenbar
-von der Eide her, hatten die Kamera und das Gtativ bei
-sicß und betrafen das Orundstück. Seitdem: war nichi« mchr
-von ihnen zu schen. Ichy bin ein paarmal un da Gehöft
-geschlichen, aber es veschay nichts. Außer …
+»Frau Patson und der eine Diener eilten an mir vorüber,
+ohne mich gewahr zu werden. Sie kamen offenbar
+von der Erde her, hatten die Kamera und das Stativ bei
+sich und betrafen das Grundstück. Seitdem: war nicht« mehr
+von ihnen zu sehen. Ich bin ein paarmal un da Gehöft
+geschlichen, aber es beschau nichts. Außer …
 
-»Fun — außer …
+»Tun — außer …
+
 <@pagebreak/>
-SS0OSOSüSHOHGESI2DISS Z1 DSSSSISSSSSS
-
-»Oh, das ist wohl ohne Bedeukung, Herr Harst … Ein
-Hund heulte kläglich … Es klang schr jämmerlih. Ich habe
-einmal einen von einem Yuto überfahrenen Hund schreien
+»Oh, das ist wohl ohne Bedeutung, Herr Harst … Ein
+Hund heulte kläglich … Es klang sehr jämmerlich. Ich habe
+einmal einen von einem Auto überfahrenen Hund schreien
 hören, der dann glücklicherweise schnell starb. So ähnlich
-war Nicfes ses Geheul, das plötzlich abbraH — mit einem !schrillen
+war Vieles sei Geheul, das plötzlich abbrach — mit einem!schrillen
 
-ZIdzre
-Harold sHlen diese Mitteilung etwas zu beunrudtgen.
-Er blikte nachdenk lid] nach dem Gehöf!! hinüber und meinte
-dann: »Oh ich doh zu früh triumphiert habe?! Sollte Guddai
-doch wieder zum Echluß Sieger bleiben?! — Frau Busse,
-vb wirklich niemand das Grundstück verlassen hat?«
+Höhle
+Harald schien diese Mitteilung etwas zu beunruhigen.
+Er blickte Nachdruck sich] nach dem Gehöft! hinüber und meinte
+dann: »Oh ich doch zu früh triumphiert habe?! Sollte Guddai
+doch wieder zum Schluß Sieger bleiben?! — Frau Busse,
+ob wirklich niemand das Grundstück verlassen hat?«
 
-»Bestimmt , nicht .!! Wenn ich ja au hauptsächlich nur
-diese eine Scite beobachtet habe, so sind dochm drüben auf
-der Lichtung bi8 vor wenigen Minuten vier Rehe zu sehen
-- gewesen, die friedlich ästen. Die Tiere wären sicherlich ge-
-flüchtet, wenn jemand die Lichtung passiert hätte. Nein, Herr
+»Bestimmt, nicht.!! Wenn ich ja zu hauptsächlich nur
+diese eine Seite beobachtet habe, so sind vorhin drüben auf
+der Lichtung bis vor wenigen Minuten vier Rehe zu sehen
+— gewesen, die friedlich Ästen. Die Tiere wären sicherlich geflüchtet,
+wenn jemand die Lichtung passiert hätte. Nein, Herr
 
-Harst, ih kann mir …«
-»Edhon gn! … Wir werden uns ja Überzeugen …
+Harst, ich kann mir …«
+»Schon an! … Wir werden uns ja Überzeugen …
 
 »Wovon?« fragte ich rasch. -…
 
 »Oh die zweite Radiomeldung nicht Bluff gewesen ist,
-mein ÜUliter, — die zweite, worin !so stark betout war, daß
+mein Ulster, — die zweite, worin!so stark betrat war, daß
 wir beide ganz ahnungslos seien … — Ich traue dem Frieden
-jezt nicht mehr so recht … Vielleicht hat Frau Patson dein
+jetzt nicht mehr so recht … Vielleicht hat Frau Patson dein
 Interesse für die Kamera, die ja nur dort auf dem Stuhle
 stand, damit wir den anderen schwarzen Kasten gleichfalls
-- sür einen Phokoapparat halten sollten, — oder besser annehmen
+— für einen Phokoapparat halten sollten, — oder besser annehmen
 sollten, es sel nur der eine schwarze Kasten vorhanden,
-»dein Inkercesse richtig eingeshäßt und sich gesagt, wir …
+»dein Interesse richtig eingeschätzt und sich gesagt, wir …
 — Doch nicht reden, sondern handeln … Frau Busse, passen
-Cie bitte hier draußen auf. Haben Sie eine Waffe bei
+Sie bitte hier draußen auf. Haben Sie eine Waffe bei
 
-sich vy«
-»Ia … Ich kann doch bei meinen einsamen Wanderungen
+sich by«
+»Ja … Ich kann doch bei meinen einsamen Wanderungen
 
-nicht ohne Wasse sein.«
-»Schr verständlich … Sollte nun jemand, während wir
+nicht ohne Waffe sein.«
+»Sehr verständlich … Sollte nun jemand, während wir
 
 dort im Hause sind, zu flüchten versuchen, so verhindern Sie
 <@pagebreak/>
-2222222222208&nbsp;5341&nbsp;2882020802222 2-D
-
-dies. Werden Sie die Energle dazu aufbringen?« — Sie
-nidte nur, und diese Kopfbewegung wirkte so schlicht — selbst-
-verständliH, daß Frau Thea noch mehr in meiner Uchtung
-stieg. — »Sollten es jcedoH mehrere Personen sein, so
-folgen Ste ihnen heimlih. Ich glaube freilich, Sie werden
+dies. Werden Sie die Energie dazu aufbringen?« — Sie
+nickte nur, und diese Kopfbewegung wirkte so schlicht — selbstverständlich,
+daß Frau Scheu noch mehr in meiner Achtung
+stieg. — »Sollten es jedoch mehrere Personen sein, so
+folgen Sie ihnen heimlich. Ich glaube freilich, Sie werden
 weder Ihren kleinen Revolver brauchen, noch es nötig haben,
 jemandem nachzuschleichen. Ich fürchte, wir werden das Haus
 leer finden.«
 
-»veerf«
+»Treff«
 
-»32a — l!etber, Frau Busse. Die Leute dort haben offen-
-bar den Hund getöte!! und sind enfkwichen, obwohl Sie meinen,
-es habe ntlemand sich ans dem Gehöft entfernt. Guddai wird
-für einen geheimen Ausgang gesorgt baben.«
+»32a — l!erben, Frau Busse. Die Leute dort haben offenbar
+den Hund getötet! und sind enfkwichen, obwohl Sie meinen,
+es habe Atemnot sich ans dem Gehöft entfernt. Guddai wird
+für einen geheimen Ausgang gesorgt haben.«
 
-Hurasds Stimmung war wieder merklich gedrückt, wenn
+Haralds Stimmung war wieder merklich gedrückt, wenn
 er dies auch nicht zeigen wollte. Und mir erging es genau
 so. Nliterdinas erschien mir seine Mutmaßung, die Leute
-seien entflohen, lediglich dur& da8 Geheul de8 Hundes
-recht weniq beqründet, Doh seine innersten Gedonken errät
-man ja nie. Wer weiß, was er sonst noch4 bemerkt hatte,
-worauf er seine für uns so niederschhmetternde Schlußfolgerung
+seien entflohen, lediglich durch daß Geheul des Hundes
+recht wenig begründet, Doch seine innersten Gedanken errät
+man ja nie. Wer weiß, was er sonst noch bemerkt hatte,
+worauf er seine für uns so niederschmetternde Schlußfolgerung
 zurückführte. Waren Guddai, die Patson und die Farbigen
-auf und davon, so würden wir auch Frau Harsk von neuem
+auf und davon, so würden wir auch Frau Harst von neuem
 suchen müssen — trübe Aussichten also! —
 
 Wir beide traten hinter den Knüppelkiefern hervor und
-verließen den Wald, schritten über das brade Kartofselland
-und dann weiter den Feldweg entlang bis zur Pforte. -
-Harald läutete. Es war hier eine Zugalocke angebracht, aber
-es zeigte siG, daß sie nicht in Ordnung war. Der Griff
-konnte nur noch an einem losen Stü Draht befestigt sein.
+verließen den Wald, schritten über das brave Kartoffelland
+und dann weiter den Feldweg entlang bis zur Pforte. —
+Harald läutete. Es war hier eine Zugglocke angebracht, aber
+es zeigte sich, daß sie nicht in Ordnung war. Der Griff
+konnte nur noch an einem losen Stück Draht befestigt sein.
 —» Harst hämmerte mit der Faust gegen die Breiter der
 Pforte. Niemand kam, und doch mußte der Lärm selbst einen
-GChläfer im Haufe geweckt haben — falls noch jemand dort
+Schläfer im Hause geweckt haben — falls noch jemand dort
 drinnen war.
 
 Niemand kam …
-Harst jichaute mich an. Tin fast finsterer Zug lag um
+Harst schaute mich an. Hin fast finsterer Zug lag um
 <@pagebreak/>
-VSESCSESEECEEIAIS 35  SCSEOSESBSODSSSDE
-
-setnen- Wund, »Wi? sind und beiben Stümper,« sagte
-er bissig. »Gubd4a. iaml uns aus …!! Die tweite Nadiomeh
-dunz war tatsamiic: Bluff. Nibt wie Zubeun Frau Potion
-zIngewidelt, fonvern fie nat&äl DZber wd it uicht aller
-Rage WNöe cbt« …
-Dunt: wahkhdölte er fich haib um — nach links — jenem
-Preisstein zu, vor den: 5!- Patson !iH niederyebuk!! uad dort
-irgend etwas mit der Zuid betastet oder berührt batie. -
-Stuch Harald bu: : sich … IH deobachtete sein Fun. Der
-Prelljtein war von b-trockneten Disteln umwuHert, Harlts
-Finger fanden in diejen braunen, noFG imater stachlizen
-abgestorbenen Pfianzen einien Ziegelstein, der in der Wiitte
-ein LoF; hatte! Dur bieses LoH führte die Verlängerung
-eltzs kleinen Griffes Zindurdn Harald zog darun, und bie
-Pforte öffnete sud, !chwenkte eliwas ’ nag innen und gad
+seinen- Wund, »Wi? sind und beiden Stümper,« sagte
+er bissig. »Gubd4a. samt uns aus …!! Die zweite Nachdruck
+kurz war tatsächlich: Bluff. Gibt wie Haben Frau Person
+eingewickelt, sondern sie maßest Weber wo ist nicht aller
+Rage Vase eßt« …
+Bunt: wahkhdölte er sich halb um — nach links — jenem
+Tiefstem zu, vor den: 5!- Patson!ich niederyebuk!! und dort
+irgend etwas mit der Auto betastet oder berührt hatte. —
+Stück Harald Du:: sich … Ich beobachtete sein Tun. Der
+Prelljtein war von Getrockneten Disteln umwuchert, Harsts
+Finger fanden in diesen braunen, rosa Schatten stachligen
+abgestorbenen Pflanzen Grafen Ziegelstein, der in der Bitte
+ein Los; hatte! Du dieses Los führte die Verlängerung
+eilte kleinen Griffes Zindurdn Harald zog daran, und die
+Pforte öffnete lud,!Schwenkte Klinge ’ mag innen und gab
 uns den Weg frei. — Genau so war’s gewesen, als Frau
-Patson uns« als Gaste tn ihr Haus geführt hatte — in der
-verflossenen Lacht, im Mondschein. Da batte iH freilich
-nict geglaubt, der Preilstein oder doH die dürren Disteln
-ringgum könnten mil der Pforte irgendwie etwas zu tau
-baben. Haralds Augen und Gedanken waren !schärfer a-
-wesen.«-
-Nuu standen wir auf dem Hofe des ehemaligen Bauern-
-geböfts zwischen Wohnhaus und Stal. Das trübe Licht
-des nebligen Frühjahrsmorgens zelgte uns einen elenden
-LUderwagen, die Neste eines Düngerhaufens, eine Jutier-
-Frippe für Geslügel, in der welkes Laub faulte, und eine ver-
-rostete Egge, die mit den Zinken naH oben hald in den Hasel-
-düschen lag — wie die vielzähnigen Kiefernreite irgendeines
+Patson uns« als Gaste in ihr Haus geführt hatte — in der
+verflossenen Lacht, im Mondschein. Da hatte ich freilich
+nicht geglaubt, der Preilstein oder doch die dürren Disteln
+ringsum könnten mit der Pforte irgendwie etwas zu Tau
+haben. Haralds Augen und Gedanken waren!schärfer zweien.«-
+Nun standen wir auf dem Hofe des ehemaligen Bauerngehöfts
+zwischen Wohnhaus und Stall. Das trübe Licht
+des nebligen Frühjahrsmorgens zeigte uns einen elenden
+Überwachen, die Reste eines Düngerhaufens, eine JutierFrippe
+für Geflügel, in der welkes Laub faulte, und eine verrostete
+Tage, die mit den Zinken naß oben halb in den Haselbüschen
+lag — wie die vielzähnigen Kistenweise irgendeines
 vorsintflutlichen Untiers mit schwarzbraunen Zahnstumweln …
 Und dann rechts an der Stallecke eine große Hundehütte,
-ait Pappe frisch benagelt, innen Stroh und eine Decke, davoe-
-atcr auf dem feuchten Boden eine Hunudekette wie eine watt
-dltakende Schlange, eine Kette raüt einem fettigen auasen
+alt Pappe frisch benagelt, innen Stroh und eine Decke, dauernder
+auf dem feuchten Boden eine Hundekehle wie eine matt
+blinkende Schlange, eine Kette laut einem fettigen ganzen
 
-ge!Hnallten Lederhcl&band.
+ge!Knallten Lederhcl&band.
+
 <@pagebreak/>
-GSDSDDSESDSODEDSOSD 56 DEG SSESILTIOS
-
 Der Hund, dem Harald nachts die präparierten Fleisch
-broden zugeworfen daite, war nicht w.-br da.
+krochen zugeworfen hatte, war nicht w.-br da.
 
-Harst ging laugjam auf die Hunbdb.izäite zu. Blieb stehen,
-deutete zu Bodcu … : Blut — zo) ziemlich sfeisch, drei hand
+Harst ging langsam auf die Hunbdbizäite zu. Blieb stehen,
+deutete zu Boden …: Blut — so) ziemlich frisch, drei Hand
 große Lachen.
 
-»Armer alter Köter …« meinio er vedaueruid … — Seine
-Blie blieben am Boden haften, hoben sih ein wenig,
+»Armer alter Köter …« meinte er vedaueruid … — Seine
+Ehe blieben am Boden haften, hoben sich ein wenig,
 musterten die Hundehütte …
 
-Dann wandte er sih weiter nach remis dem kleinen
-Obstgarten zu, der völlig ungepflegt nid ohn? weitvvllere
-Bäume war, alle überaltert, unverschuiiwen, ungepile3t, Miiiten
-in einem Kohlrüken, aus dem noch die Sirunke wie uniß-
-farbene Knollen heraugragten, zeigte si eine srij) umge-
-grabene Stelle. Dancben steckte ein Spaten in der Erde,
-Und … eine gelblicze große Hyundepfote mit schwarzen Ballen.
-—» Hier hatten sie also den arme«u Köter verscharrt, bevor
+Dann wandte er sich weiter nach rechts dem kleinen
+Obstgarten zu, der völlig ungepflegt nicht ein? wertvollere
+Bäume war, alle überaltert, unverschuiiwen, ungepile3t, Mitten
+in einem Kohlrüben, aus dem noch die Stunde wie unißfarbene
+Knollen herausragten, zeigte sich eine sei) umgestoßene
+Stelle. Daneben steckte ein Spaten in der Erde,
+Und … eine gelbliche große Kinderlose mit schwarzen Ballen.
+—» Hier hatten sie also den armen Köter verscharrt, bevor
 sie flüchteten!
 
-Flüchtcten — wie und wohin?
+Flüchteten — wie und wohin?
 
 »Weshalb sie wohl die eine Pfote nimmt auch mit Erde
-bedeckt haben …!« meinte Harald wie zu sicy selbst …
-Er spraH gaanz leise … »Und der Spaten steft hier auch
-jo auffällig …«
+bedeckt haben …!« meinte Harald wie zu sich selbst …
+Er sprach ganz leise … »Und der Spaten steckt hier auch
+so auffällig …«
 
-Er bucte sich …
+Er bückte sich …
 
-Ih beugte mich vor …
+Ich beugte mich vor …
 
-Er wühlte mit der vzand »in der Erde, hob etwas auf
+Er wühlte mit der stand »in der Erde, hob etwas auf
 
-nochD etwas — noch etwas: drei mittelgroize Steine schein-
-TD
-»KZalkstein, ungelöschter Kalk — oder wie man’s neunen
-will,« sagte er sinnend. »Urkalk — wie in Rüdersdorf …’«
-Er nahm den Spaten und grub ueben dem Kadaver
-ein LoF … Abermals förderte er so Stücke von Kalk zutage.
-Dann lchnie er sich auf den Spaten :… Blinzelte mich
-au … Das Düstere aus seinen Zügen war versjamwunden.
-»Viel Kalkstein hier, mein Alter, sehr viel …!!! Außerdem
-faun 4 dir noH mitteilen, daß die große Huundehülte tu
+noch etwas — noch etwas: drei mittelgroize Steine scheinst
+»Kalkstein, ungelöschter Kalk — oder wie man’s nennen
+will,« sagte er sinnend. »Unfall — wie in Rüdersdorf …’«
+Er nahm den Spaten und grub neben dem Kadaver
+ein Los … Abermals förderte er so Stücke von Kalk zutage.
+Dann lehnte er sich auf den Spaten :… Blinzelte mich
+zu … Das Düstere aus seinen Zügen war verstummten.
+»Viel Kalkstein hier, mein Alter, sehr viel …!! Außerdem
+Zaun 4 dir noch mitteilen, daß die große Hundehütte zu
 <@pagebreak/>
-DüDSSDSDSSSESESHSD 97 SGEBPEGBEPDOD
+der Wacht genügt hier »3 dieser Stelle stand, Du siehst —
+Karbid zum Kaum sich es ein fünften Schritt. sagte die Fühlte
+hört gestanden, w« sie jetzt steht, Büro: 1& dem Stunde kaum
+die Krochen habe zuwerfen können.«
 
-der Wacht gepunt hire «3 dieser Stelie stand, Du siehst —
-bid zum Zuum sixd es eta sünfzett Schritt. saite die Jütte
-böet gestanden, w» sie jetzt steht, würd: 1& dem zzunde kaum
-bic Broden dave zuwerfen können.«
+»Im — ich weiß Nicht recht, wo zur mit alledem hinaus
+willst …«
 
-»Sm — ich weiß Richt rect, wo 5ux mit alledem hinaus
-witist …«
+»Hinaus?!? Nein — hinab will ich!«
 
-»Sinaus ?!? Nein — hinab will ich!«
+»Hinab h1«
 
-»Dinabd y1«
-
-»3a, netürligd; … Du kannst mal rash Freu Buise
-herbeiwinken … Und ihr deide köunt dann deu Stall und
-da3 Haus durchsuachen … Nbex beeilt euch … Finden werdet
-ibr nienianvd. — VPBiteiieiHt widmest du deine bescheidene
-Aufmerksamkeit auch mal diesem gebarkten StriH da, Max
-Eqraut … Cr läufi von der Stallecke bis hierher — in
+»Ja, gesättigt; … Du kannst mal rasch Treu Busse
+herbeiwinken … Und ihr beide könnt dann den Stall und
+das Haus durchmachen … Aber beeilt euch … Finden werdet
+ihr nienianvd. — VPBiteiieiHt widmest du deine bescheidene
+Aufmerksamkeit auch mal diesem gehalten Strich da, Max
+Darauf … Er läuft von der Stallecke bis hierher — in
 
 Windungen, wird zuweilen doppelt … Die Harke liegt dort
-in den Sträuchern … Za, ja — — eine ungeheure Stüinpereib,
+in den Sträuchern … Ha, ja — — eine ungeheure Stüinpereib,
 
-Herr Doktor Guddat, die sim ihre- Leute da geleistet haben …«
+Herr Doktor Guddai, die ein ihre- Leute da geleistet haben …«
 
-Went Harald ironisch wird, ist die Gegenparteä meist
+Wen! Harald ironisch wird, ist die Sogenanntes meist
 verloren …
 
-»Fun hast du wohl alies begriffen,« sagte er nor iind
-griff wic-der zu dem Spaten. »Geh’ nur … IH werde deu
-Hund auggraben … Du kennst doH die Redensari: Da liegt
-der Hund begraben!! — Und da3 trifft bier zu …«
+»Tun hast du wohl alles begriffen,« sagte er vor und
+griff wieder zu dem Spaten. »Geh’ nur … Ich werde den
+Hund ausgraben … Du kennst doch die Redensart: Da liegt
+der Hund begraben!! — Und das trifft hier zu …«
 
-IH entfernte mich. Der ironische Harst ist zuweilen etwas
-grob … Und ich mochte niht gern eingestehen, daß 11:
-die Hundehütte, der tote Hund und der geharkte Strich we. 11
+Ich entfernte mich. Der ironische Harst ist zuweilen etwas
+grob … Und ich mochte nicht gern eingestehen, daß 11:
+die Hundehütte, der tote Hund und der Schurke Strich wo. 11
 zu sagen wußten — eigentlich gar nichts!!
+
 <@pagebreak/>
-SSESDSSESESSSESODSS 53. 00 0S&EECEDEDEEESD
 
 <h2>5. Kapitel.</h2>
 <h3>Das Ende …-.</h3>
 
-Frau Ihea Busse und ic?) shriten von Zimmer zu
+Frau Scheu Busse und ich?) schritten von Zimmer zu
 Zimmer. Sie hielt ihren kleinen Revolver bereit, ich meine
-Pistole. CS war unnötig. Keinc Ec.le janden wir. Auch nicht
-«in Stall … Nicht mal ein Huhn, cine Ente oder dergleichen.
-E8 war ein Bauernhof ohne Tiere. Wit Ausgnah:ae des
+Pistole. Es war unnötig. Seine Ecke fanden wir. Auch nicht
+»in Stall … Nicht mal ein Huhn, eine Ende oder dergleichen.
+Es war ein Bauernhof ohne Tiere. Mit Ausgab:ne des
 toten Hundes. Aber der rechnete nicht mit.
 
-Nechnete nicht mit?!
+Rechnete nicht mit?!
 
 Wirklich nicht …?! — Als wir dann neben Harald
-auf dem Sohlrüden vor demi großen LoHe und neben dein
+auf dem Kohlrüben vor dem! großen Lohe und neben dein
 armen Köter standen (ihm war der Schädel zertrümmert
-worden), glotzte ich erstaunt in. dag Loh hinein, das unten
-… mit Bretiern abgesteift war und auch einen Bretterboden
-Hatte, in dessen Witte ein Biereck und zwei Scharniere und
-ein eiserner Ning (als Handgriff) sofort auffielen.
+worden), glotzte ich erstaunt in. das Loch hinein, das unten
+… mit Brettern abgesteift war und auch einen Bretterboden
+Hatte, in dessen Bitte ein Viereck und zwei Scharniere und
+ein eiserner Ging (als Handgriff) sofort auffielen.
 
-… »Dort unten stekcken sie,« sagte Harald leise. »Ich habe die
+… »Dort unten Kistchen sie,« sagte Harald leise. »Ich habe die
 kleine Falltür bereits gelüftet … Eine Leiter führt in einem
-Schat tiefer hinab, — Um Ihnen, liebe Frau Busse, nun
-zu erklären, wie ih auf deu Gedanken gefommen, hier
-müsse sid der Zugang zu einem unterirdis(fen Bersteck
-befinden — Eccrautl ist ja bereitg ganz im Bilde! —, kurz
+Schlaf tiefer hinab, — Um Ihnen, liebe Frau Busse, nun
+zu erklären, wie ich auf den Gedanken gekommen, hier
+müsse sich der Zugang zu einem Unterricht(Den Versteck
+befinden — Eccrautl ist ja bereits ganz im Bilde! —, kurz
 Folgendes: Nachts stand die Hundehütte hier — genau hier.
-Uls ich sie mir vorhin ansah, merkte ich, daß der Boden
-der Hundehütte mit ganz frischem Stroh und einer noh
+Als ich sie mir vorhin ansah, merkte ich, daß der Boden
+der Hundehütte mit ganz frischem Stroh und einer noch
 recht guten Decke belegt war. Schraut mag sich gewundert
-baben, daß ich mit dem Fuße das Stroh und die Decke
-etwas beseite sHchob. Oder — er hat es gar nicht beadtet.
-Ich sagte mir: Wenn sie den vzund tot gejhlagen haben,
-weshalb haben sie dann noch die HYunvebude frisa) mit Stroh
-gefüllt und noch eine gute Dee hincingelegt ?! — Ich bes
-merkte, daß der Boden der großen LH)undehütte genau so eine
-Falltür hatte wie diese dier.«
-— ih verstehe!« nickte Frau Bustie eifrig. Auch
+haben, daß ich mit dem Fuße das Stroh und die Decke
+etwas kehrte schob. Oder — er hat es gar nicht beachtet.
+Ich sagte mir: Wenn sie den stand tot geschlagen haben,
+weshalb haben sie dann noch die Humpelnde Fritz) mit Stroh
+gefüllt und noch eine gute See hineingelegt?! — Ich bemerkte,
+daß der Boden der großen LH)undehütte genau so eine
+Falltür hatte wie diese der.«
+— ich verstehe!« nickte Frau Wüste eifrig. Auch
 <@pagebreak/>
-SSSSSSSSSSSS 539 2DSSSSSSSSSSSD
-
-id nmickte — schr würdig. Ich war jeht ebenfalls … im
+ich Knickte — sehr würdig. Ich war jetzt ebenfalls … im
 Bilde — — endlich!
 
-»Ia, diese Hundehüttenfalltür, die dur; Stroh und Dede
-gründlich verborgen werden sollte, und der frühere Plaß
-der Hütte hier auf dem Kohlrüden, weiter der Umstand, daß
-man aiusgerechnet hier den Hund verscharrt hatte, — ferner
+»Ja, diese Hundehüttenfalltür, die durch; Stroh und Decke
+gründlich verborgen werden sollte, und der frühere Platz
+der Hütte hier auf dem Kohlrüben, weiter der Umstand, daß
+man ausgerechnet hier den Hund verscharrt hatte, — ferner
 die Menge von Kalksteinstücken hier in der. Erde und die
-durch die Harke beseitigten Spuren — all das ließ nar
-eine Deutung zu: die Hundehütte war hier dazu benußt
-worden, den Eingang in die Unterwelt harmlos zu der-
-hüllen, an sich ein guter Gedanke! — Aber Guddai traute
-dem Frieden nicht, nachdem wir nachts bei der Patson go-
-wesen. Er oder die Seinen töteten den Hund und verscharrten
-ihn hier oberflöchlih und glaubten, dadurg den Zuga
-glänzend verdeckt zu haben. Nicht alle zogen siH natürl
-in die Tiefe zurük. Einer mußte ja, nachdem die anderen
-6zuögestiegen, das Loch+ zuschaüufeln und obenauf den Ka-
-daver mit Erde beschütten. Dieser eine war fraglos Herr
-Sschhau. Er flüchtete dann — sehr vorsichtig, und Sie bs
-merkten ihn nicht, Frau Vusse. —» Man könnte nun aw
+durch die Harke beseitigten Spuren — all das ließ nur
+eine Deutung zu: die Hundehütte war hier dazu benutzt
+worden, den Eingang in die Unterwelt harmlos zu verhüllten,
+an sich ein guter Gedanke! — Aber Guddai traute
+dem Frieden nicht, nachdem wir nachts bei der Patson gewesen.
+Er oder die Seinen töteten den Hund und verscharrten
+ihn hier oberflächlich und glaubten, dadurch den Zug
+glänzend verdeckt zu haben. Nicht alle zogen sich anhört
+in die Tiefe zurück. Einer mußte ja, nachdem die anderen
+6zuögestiegen, das Loch zuschaüufeln und obenauf den Kadaver
+mit Erde beschützen. Dieser eine war fraglos Herr
+Schlau. Er flüchtete dann — sehr vorsichtig, und Sie Es
+merkten ihn nicht, Frau Busse. —« Man könnte nun an
 nehmen, daß es sich hier bei dieser Falltür, dem Schacht
-und der Leiter pielleiht nur um ein Schlupfloch handele,
+und der Leiter vielleicht nur um ein Schlupfloch handele,
 das vielleicht irgendwo im Waldesdidict wieder mündet,
 und daß die Gesuchten, auch meine Mutter, auf und davon
-find, Über diergegen spricht die, »Men Ee es Reis.
-körner hier neben dem Loche, er jene elle
-aus einer Tüte FE Genner esel st und dans
-dort der wetze Fleck: verschüktetes Mehl. — Die Flücht
-haben Ledensmittel mit nac« unten genommen, und
-der Eile haben sie die Tüten !chleHt verpackt und eingerissen.
+sind, Über hiergegen spricht die, »Wen Er es Reis.
+Körner hier neben dem Loche, er jene eile
+aus einer Tüte Je Gegner Esel st und dank
+dort der wetze Fleck: verschüktetes Mehl. — Die Flucht
+haben Lebensmittel mit nach« unten genommen, und
+der Eile haben sie die Tüten!hielt verpackt und eingerissen.
 — Lebensmittel — also muß es da unten möglich sein, zu
-kochen, zu backen — und so wetter, es muß alfo eine größere
-Hohle vorhanden sein, wie fte im Kalkgestein, das sich von
+kochen, zu backen — und so weiter, es muß also eine größere
+Hohle vorhanden sein, wie sie im Kalkgestein, das sich von
 Rüdersdorf bis hierher in dicker Schicht unterirdisch hinziehen
 
-meg, bäufig vorkowmen.«
+weg, häufig vorkommen.«
+
 <@pagebreak/>
-DVBDBSSEDDSSSS (60 DSS0S00EBDE000
+Dieses kurze Privatkolleg Haralds über die Kunst des
+Kombinierens trieb mir fast die Schrammte ins Gesicht. —
+Was hatte er alles gesehen und hier sofort im Zeigte verwertet,
+und — wie wenig ich!!
 
-Dieses kurze Privaikolleg Haralds über die Kunst des
-Kombinierens tricb mir fast die Scjamrote ins Gosichk. —
-Was hatte er alles gesehen und hier sojort im Geijte ver«
-wertet, und - wie wenig ichl!
-
-»… Die Gesüuchten steffen also unken, und da sie nach
-dieser Nad! zweisellos sehr müde sein dürften und sich auch
+»… Die Gesuchten stellen also unten, und da sie nach
+dieser Rad! zweifellos sehr müde sein dürften und sich auch
 vollkommen sicher fühlen werden, können wir sie im Schlaf
-überraschen. — Cie, Frau VBusse, dewochen y)ier oben den
-Ecahtceingang, Ehrant und ich) besorgen das andere, wobei
-es durchaus zahm hergehen dürfte … — Wiedersehen, Uebe
+überraschen. — Sie, Frau Flusse, bewachen y)her oben den
+Ecahtceingang, Schraut und ich) besorgen das andere, wobei
+es durchaus zahm hergehen dürfte … — Wiedersehen, Rede
 Frau Busse …«
 
-Hars! stieg in das Loch hinab, hob die erdige Falliür und
-Netterte auf die Leiter …
+Harst stieg in das Loch hinab, hob die erdige Falltür und
+Polterte auf die Leiter …
 
-Wir brauchten nich? allzu tief … Die Leiter hatte eiwa
-zwanzig Sprosjen. Sie stand unten auf einem Vorsprung,
+Wir brauchten nicht? allzu tief … Die Leiter hatte etwa
+zwanzig Sprossen. Sie stand unten auf einem Vorsprung,
 reiner natürlichen Kalksteinkanzel, von der eine Treppe in
-die Hohle hinablicf. -
+die Hohle hinablief. —
 
-Höhle … — Das klingt so schhlicht … zu schlicht.
+Höhle … — Das klingt so schlich … zu schlicht.
 
 Was Doktor Shing Guddai hier geschaffen, war eine
-Märchengro!!e, war eine Wundcrhöhle Aladins aus Tausend-
+Märchengro!!e, war eine Wundcrhöhle Aladins aus Tausend
 
-undeiner Nacht.
+moderner Nacht.
 
 An der zackigen Decke, an den zackigen Wänden glühten
-zahllose Lampen — unsichtbar, aber ibe mildes Licht zu
+zahllose Lampen — unsichtbar, aber ihr mildes Licht zu
 freundlicher Helle vereinend …
 
 Etwa zwanzig Meter vor uns erhob sich inmitten eines
-blühenden Gartens ein kieines, schloßähnliches, weißes Haus.
+blühenden Gartens ein kleines, schloß ähnliches, weißes Haus.
 
-Vosenbüsche mit Blüten von einer G-öße, wie ich sie
-nie gesehen, umgaben das Gebäude wie Dornröähens Zauber-
-schloß, — Rosen, die nur den geheimen Künsten Guddais ihre
-Entstehung verdanfen konnten, genau so wie er damals
-die Füchse und Katen zu phantastisgchen Untieren empor-
-gezüchtet hafte …
+Vosenbüsche mit Blüten von einer Größe, wie ich sie
+nie gesehen, umgaben das Gebäude wie Dornröähens Zauber schloß,
+— Rosen, die nur den geheimen Künsten Guddais ihre
+Entstehung verdanken konnten, genau so wie er damals
+die Füchse und Katzen zu phantastischen Untieren empor gezüchtet
+rätselhafte …
 
 Harst blieb gegenüber diesem wundervollen, einzigartigen
-Bilde voilkommen kalt, Er winkte mir zu, reichte mir eine
+Bilde vollkommen kalt, Er winkte mir zu, reichte mir eine
 <@pagebreak/>
-2202022222220 61&nbsp;208000&nbsp;20202202202
-
-8
-
-zweite Pistole, die er wahrsheinliHh von dem Gebeimrat ge
-lichen, und stieg die Treppe hinab.
+zweite Pistole, die er wahrscheinlich von dem Geheimrat glichen,
+und stieg die Treppe hinab.
 
 Rechter Hand an der Höhlenwandung war unweit der
-Treppe ein Kastenkäsis aufgestellt, hinter dessen dicken Eisen-
-stäben eins jener Untiere zähnefletscdend kauerte, die wir
-« bercitä kennengelernt ha!!en. Der Raubtiergestank, der aus
+Treppe ein Kastenkäsis aufgestellt, hinter dessen dicken Eisenstäben
+eins jener Untiere zähnefletscdend kauerte, die wir
+« bereits kennengelernt ha!!en. Der Raubtiergestank, der aus
 
-ü dem Käfiq herausdrang, war tinfoige des fast betäubenden
+ü dem Käfig herausdrang, war unsrige des fast betäubenden
 
 Nosenduftes kaum zu spüren.
 
 Harald blieb stehen. »Der Fuchs ist mindestens fünfmal
-so arost als ein normaler,« meinte er leise. »Der Käfig ist
+so Frost als ein normaler,« meinte er leise. »Der Käfig ist
 verschlossen … Gehen wir weiter«.«
 
-Welter?!
+Weiter?!
 
-Nein, wir sollten Doktor Guddals Hans unker der Erde
+Nein, wir sollten Doktor Guddais Haus unter der Erde
 niemals besichtigen dürfen, und der große Verschwörer Guddai
 sollte diesen seinen Schlupfwinkel niemals mehr verlassen.
 
-Weiliterk!
+Versteck!
 
-Nein …!!! Wir fuhren herum …
+Nein …!! Wir fuhren herum …
 
 Von der Treppe her drei … »vier Schüsse …
 
-Auf der Treppe Thea Busse … Ihre Kugeln waren
+Auf der Treppe Scheu Busse … Ihre Kugeln waren
 haarscharf an uns vorübergegangen …
 
 Und wieder fahren wir herum …
 
-Uns den Niesenrosen ein Schret …
+Uns den Weisungen ein Schrei …
 
 Wir sehen einen weißbärtigen Alten, dem der Karabiner
-langsam aus den Händen gleitet, umsinken … Quddail!
+langsam aus den Händen gleitet, umsinken … Guddai!
 Guddai als Greis — wie damals, als er den Menagerlebesiter
-Gamdcerlan spielte!
+Zauderten spielte!
 
-Und dann erscheint links in der kleinen Pforte des Gako
-tens eine grauhaarige Matrone — fliegt auf uns zu …
+Und dann erscheint links in der kleinen Pforte des Gabe
+wenigstens eine grauhaarige Matrone — fliegt auf uns zu …
 
-»Harald — — Harald — — nac oben …! Sie sprengen
+»Harald — — Harald — — nach oben …! Sie sprengen
 die Höhle!«
 
 Harst fängt seine Mutter in den Armen auf …
-<@pagebreak/>
-SSPDSSSSSSSSS 69. DSSSSSSSSSSS
 
-IH eile voran … Thea Busse ist schon oben … Wtr
-delfken Frau Harst …
+<@pagebreak/>
+Ich eile voran … Scheu Busse ist schon oben … Wir
+helfen Frau Harst …
 
 Wir sind droben im Hofe des Gehöfts, wir … fliehen …
 
 Frau Harst hat ihre Warnung nochmals wiederholt …
 
-Wir flichen …
+Wir fliehen …
 
-Harald trögt seine Mutter … Wir eilen nach Süden
+Harald trägt seine Mutter … Wir eilen nach Süden
 auf die Lichtung hinaus …
 
 Hinter uns aus den Tiefen der Erde ein dumpfer Knall
-—» noch einer … nod einer …
+—» noch einer … noch einer …
 
-Der Boden debt … zittert …
+Der Boden hebt … zittert …
 
-Wir bliken zurüä …
+Wir blicken zurüä …
 
 Das Bauernhaus, der Stall, der Zaun, die Obstbäume
 — alles taumelt wie betrunken. Dann ein neuer Knall …
 
 Und die Erde öffnet ihren Schlund …
 
-Ein Teil des Waldes, der Kartoffelacker, das Bauern-
-grundstück, — — alles wird durcheinander geworfen, stürzt,
-verschwindet halb in dem soeben entstandenen Krater … — -
+Ein Teil des Waldes, der Kartoffelacker, das Bauern grundstück,
+— — alles wird durcheinander geworfen, stürzt,
+verschwindet halb in dem soeben entstandenen Krater … — —
 
 So starb Doktor Shing Guddai und mit ihm Frau
 Patson, zwei Mulatten, drei Inder und zwei Chinesen, Ihre
-Leichen ’wurden nach fünf Tagen in aller Stille zutage be-
-fördert — in aller Stille, denn hier spielte ja zum Teil
+Leichen ’wurden nach fünf Tagen in aller Stille zutage befördert
+— in aller Stille, denn hier spielte ja zum Teil
 die hohe Politik mit, und Guddai sollte nicht etwa als
 Märtyrer einer großen Freiheitsbewegung noch nach seinem
-Sede He gefeiert werden. Wo er begraben wurde, weiß ich
-Bei uns daheim schalket und waitet wheder Haralds
+Jede He gefeiert werden. Wo er begraben wurde, weiß ich
+Bei uns daheim schaltet und wartet wieder Haralds
 Mutter in ihrer lieben, gütigen Art. Wenn sie auf ihre
-Oesangenschaft zu sprechen kommt, betont sie stets, daß Guddai
+Gefangenschaft zu sprechen kommt, betont sie stets, daß Guddai
 sie mit aller Rücksicht behandelt habe, und einmal sagte sie
-über ihn ganz traurig: »Er war ein Idealist und ein guker
-Men!sch — trotz allem! Ich bedauere ihn tief …« —
+über ihn ganz traurig: »Er war ein Idealist und ein guter
+Wen!ich — trotz allem! Ich bedauere ihn tief …« —
 
-Frau Thea Busse und ihr kranker Gatte leben irgendwo
+Frau Scheu Busse und ihr kranker Gatte leben irgendwo
 im Ausland. Weniger angenehm leben Herr Tschau nebst
-Gattin und Anhang, Lbenn da ihnen die Teilnahme an
-einigen von Guddats politishchen Morden nachgewiesen werden
+Gattin und Anhang, Thema da ihnen die Teilnahme an
+einigen von Guddais politischen Morden nachgewiesen werden
 <@pagebreak/>
-SOE SDEDISSDEVEDS (3. DSEE0B0020202020080-S
+konnte, haben die Herrschaften für eine stattliche Unzahl von
+Jahren ein Zuchthaus bezogen. —
 
-konnte, haben die Herrschaften sür eine stattliche Unzahl vow
-Jahren ein Zuchlihuus bezogen. -
+Von dem Guddai-Orden ist es seitdem in?! geblieben.
+Seine Haupiführer waren tot, und ein Genie wie Guddai, das
+den Orden wieder hätte aufleben lassen können, hat!ich scheinbar
+n’cHi Stunden.
 
-Von dem Guddat-Orden ist es seitdem stikl geblieben.
-Seine Haupiführer waren iokt, und ein Genie wie Guddai, das
-den Orden wied«cr hätte aufleben lassen koanen, hat !ich schein-
-bar n’cHi g.funden.
-
-So nehme denn aud ih als Chronist ’Abschied von dem
-derühmten Berschwörer, der Asien und Curopa in Blud
-taudzen wollte. Noschied von ihm, — — und begrüße einem
-anderen Iyp von easy, mit dem ich mich in »Der Vlei«w.
-stift der Marvatty« zu deschäftigen haben werde,
+So nehme denn auch ich als Chronist ’Abschied von dem
+berühmten Verschwörer, der Asien und Europa in Blut
+tauchen wollte. Gesichtet von ihm, — — und begrüße einem
+anderen Typ von Gast, mit dem ich mich in »Der Drein.
+Stift der Mandant« zu beschäftigen haben werde,
 <@pagebreak/>
-Olaf K. Abelsen:
+Graf K. Abelsen:
 Abseits vom Alltagswege
 
-CCEE EO GEM GG BEMERKE, BE 3 Shir Miobiialt enen. Aeli;
+See Er Gen Elemente, He 3 Stil Miobiialt Omen. Zelt;
 
-Band 1: Das tote Hira.
+Band 1: Das tote Hirn.
 
-»Kaoand 2: Das Wehetmuts des Wieeres,
-Rand 3: Mein Freund Coy.
+»Kognak 2: Das Beschmutzt des Viertel,
+Rand 3: Mein Freund Ton.
 
-Hand 4: Das Paradies ber Euterbten.
+Hand 4: Das Paradies der Enterbten.
 
-Die Bändchen: »Abeljen, Abjeits vom UAlltags-
-wege« sind durch jede Zeitjchmriftenhandliiung zu be-
-ziehen. Man erhält diejelben auch gegen Borein:
-sendung von 50 Pfg. für einen Band portosrei vom.
+Die Bändchen: »Abelsen, Abteil vom Alltagswege«
+sind durch jede Zeitjchmriftenhandliiung zu beziehen.
+Man erhält dieselben auch gegen Herein:
+Sendung von 50 Pfg. für einen Band portofrei vom.
 
-Verlag moderner Lektüre G.in.b.H.
+Verlag moderner Lektüre Grab.
 
-Berlin SO. 16, Vlichaelkirchstrakße 232.
-<@pagebreak/>
-Titel» Verzeichnis, der Harald Harst»-Bändhen.
-
-114\.
-113\.
-116\.
-117\.
-
-18\.
-119\.
-
-122\.
-123\.
-124\.
-125\.
-
-126\.
-127\.
-128\.
-
-129\.
-
-130\.
-
-131\.
-132\.
-133\.
-134\.
-
-135\.
-136\.
-137\.
-
-138\.
-
-139\.
-
-140\.
-
-141\.
-142\.
-
-143\.
-
-Der Mann in. d. Glasauy’e.
-Der Kopf d. Maharadscha.
-Die Treppe des Todes.
-Duktor Gruupys Ver-
-hängnis.
-
-Das Geisterschiff.
-
-Der Tennisschläger
-Rani.
-
-Das Piratendorf.
-
-Die Hexenküche.
-Das Geheimnis von H.O.3.
-Die Gräfin mit den Kor-
-MOrganen.
-
-Der Bouillonkeller Nr. 113.
-Der tote Tümmler …
-
-Das Erbe des Verscholle-
-nen.
-
-Das Geheimnis der Drabu-
-Falle.
-
-Die Faktorei a. der Toten-
-insel.
-
-Das yestohlene Auto.
-Das Ratsel d. Spielkarten.
-Die Diamanten d. Bettlers.
-Die Photographien d. Sen-
-nor Trimaldo.
-
-Der Kokain-Klub.
-
-Harald Harsts zweite Liebe.
-
-der
-
-Baron TisSanders Schau:
-el.
-
-Das Erb»egräbnis.
-
-Das Gestade der Ver-
-geszenheit.
-
-Die Wachspuppe d. Tröd-
-ers.
-
-Der Maskenball d. Toten.
-Die Villa mit den vier
-Schournsteinen.
-
-Das Gespenst von Jan
-Mayen.
-
-144\.
-
-145\.
-
-146\.
-147\.
-
-148\.
-149\.
-150\.
-
-151\.
-152\.
-
-153\.
-
-154\.
-155\.
-
-156\.
-157\.
-
-158\.
-159\.
-
-160\.
-- 161.
-162\.
-163\.
-164\.
-165\.
-… Miß Grandellsletzte Nacht.
-167\.
-
-168\.
-
-169\.
-170\.
-171\.
-
-Das zeheimnisvolle Floß.
-Die Familientruhe der Dar-
-lingtons.
-
-Die drei Finger Ben Ben-
-SONS.
-
-Die Fürstig, der Gwala-
-Berge.
-
-Der Fakir ohne, Ärme.
-Joe Billwakers Verbrechen.
-Das Geheimnis des Per-
-lentauchers …
-
-Burg Totenhal.S.-
-
-Das Untergrundbahnge-
-Spcnst.
-Der Geisterberg Schara
-Schaka,
-
-Die rote Rakete.
-
-Der Traum der Lady Gul-
-branor.
-
-Der Geheimbund d. zwölt
-Schlüssel.
-
-Das Geheimnis des Sana:
-toriums Waldesruh.
-
-Die Insel d. Verstorbenen.
-Miß Wells’ Seltsames
-Abenteuer.
-
-Das Haupt der Schinta.
-Der Spiritistenklub.
-
-Der Mann aus Eisen.
-
-Das Geheimnis d. Pagode.
-Der Gentlemcen-Pirat.
-
-Das Rätsel d. 3 Schlüssel.
-
-Das Geheimnis des Inscl-
-forts.
-
-Das Wespennest von Po-
-tanur.
-
-Die Blinde vom Engelsriff.
-Der tote Kadscha.
-
-Lin Seltzumes ILlochzeits-
-geschenk.
+Berlin so. 16, Michaelkirchstraße 232.
