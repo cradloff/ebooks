@@ -1,86 +1,87 @@
 <@pagebreak 3/>
 
-1. Kapitel
+<h2>1. Kapitel.</h2>
 
-Um die Mutter.
+<h3>Um die Mutter.</h3>
 
 Dieser Band bildet den Schlußakt des großen Dramas,
 dem man verschiedene Gesamttitel geben könnte, vielleicht:
-»Doktor Shing Guddai, der Befreier Asiens’, oder »Der
+»Doktor Shing Guddai, der Befreier Asiens«, oder »Der
 Mann, den niemand fing«.
 
 Mit den »Drei Löwen« begann das Drama. Mit dem
-Haus unter der Erde endet es. Der Mann, bei: niemand
-fing, und das war der malaiische Arzt! Doktor Shing Guddais,
+Haus unter der Erde endet es. Der Mann, den niemand
+fing, und das war der malaiische Arzt Doktor Shing Guddai,
 der uns und der Polizei in den Wäldern östlich von Birkenwalde
 entwischt war, starb wie er gelebt hatte: großzügig! —
-Wen dieser Ausdruck hier zutrifft. Einen besseren finde
-nicht.
+wenn dieser Ausdruck hier zutrifft. Einen besseren finde
+ich nicht.
 
-Meine Leser und Freunde (übrigens noch Dank allein
+Meine Leser und Freunde (übrigens noch Dank allen
 denen, die der im 200. Band enthaltenen Aufforderung, sich
 zu dem dort behandelten Problem zu äußern, stattgegeben
 haben, insbesondere der bewußten jungen Dame, die mir den
 langen Brief zukommen ließ!) — also meine Leser und
 Freunde, mit denen ich immer wieder gelegentlich auch schriftliche
 <@pagebreak/>
-Grüße austauschen darf, kennen die Vorgeschichte. dieses
-Exbhlußaließ — einer politischen Tragödie.« Daß mein Freund
-Harst einen Mann von den geistigen. Qualitäten dieses
-Asiaten, der einen ’neuen Weltbrand erklären: wollte »und
-bereits auf dem besten Wege gewesen war, Europa&8 Kultur
-zu vernichten und Asie’t die Vorherrschaft auf Erden zu
-sichern, ruft allen Mitteln bekämpfte, das hatte er für seine
+Grüße austauschen darf, kennen die Vorgeschichte dieses
+Schlußaktes einer politischen Tragödie. Daß mein Freund
+Harst einen Mann von den geistigen Qualitäten dieses
+Asiaten, der einen neuen Weltbrand entfachen wollte und
+bereits auf dem besten Wege gewesen war, Europas Kultur
+zu vernichten und Asien die Vorherrschaft auf Erden zu
+sichern, mit allen Mitteln bekämpfte, das hatte er für seine
 Pflicht als Zugehöriger der weißen Rasse gehalten. —
 
-Es war acht Jage nach Guddais Flucht in jener unfreundlichen
+Es war acht Tage nach Guddais Flucht in jener unfreundlichen
 Februarnacht. Außer Guddai waren damals
 auch drei Inder, Vertraute des Malaien, in einem Nachen
-über den Mötcritsee entkommen. Ihre Spur ließ sich bis
+über den Möckritzsee entkommen. Ihre Spur ließ sich bis
 Grünau verfolgen, wo der eine eine Motorjacht in einer
 Bootswerft untergebracht hatte. Diese Jacht war kurz vorher
 gründlich überholt und ihrem nassen Element übergeben
-werden. Sie hatte fraglos sowohl Guddai als auch
-»die drei Inder irgendwohin in einen unbekannten Schlupfwinkel
-geführt, den jedoch selbst: das Massenaufgebot. der
+worden. Sie hatte fraglos sowohl Guddai als auch
+die drei Inder irgendwohin in einen unbekannten Schlupfwinkel
+geführt, den jedoch selbst das Massenaufgebot der
 Berliner Polizei, die mit die beste der Welt ist, nicht
 hatte ausfindig machen können.
 
-Guddai war spurlos verschwunden. Ebenso die ’Fleine
+Guddai war spurlos verschwunden. Ebenso die kleine
 Motorjacht und die Inder,
 
 Inzwischen war der März mit lauen Tagen und warmen
-Regenfällen angebrochen, Wir saßen abends neun Uhr in
-Haralds Tirbeitszimmer und lasen die neuesten Zeitungen.
+Regenfällen angebrochen. Wir saßen abends neun Uhr in
+Haralds Arbeitszimmer und lasen die neuesten Zeitungen.
 Harald hielt und hält noch heute etwa fünfzehn — aus
-aller Herr?n Länder, — Lieber das Drama Guddai hatte. er
+aller Herren Länder. — Über das Drama Guddai hatte er
 zuletzt nur noch wenig gesprochen. Er war überhaupt sehr
-still undn sich gekehrt,
+still und in sich gekehrt,
 
 Die alte englische Standuhr schlug neun. Der letzte Schlag
 war kaum verhallt, als es läutete.
 
-Harst erhob sich, »Es werden die Hunde sein, mein«
-Alter …
+Harst erhob sich, »Es werden die Hunde sein, mein
+Alter …«
 
-»Hund-?1«
+»Hunde?!«
 
 »Ja, ich habe gestern an die Polizeihund-Dressuranstalt
 <@pagebreak/>
 in Grünheide geschrieben, und drei scharfe starke Tiere verlangt.
 Das Polizeipräsidium war einverstanden. — Komm’
+nur …«
 
-Wir Dingen in den Flur.
+Wir gingen in den Flur.
 
-Harald öffnete die Schlange der Haustür und schaltete
-die Lampe draußen ein. — Vor der Für stand ein Herr
+Harald öffnete die Sehklappe der Haustür und schaltete
+die Lampe draußen ein. — Vor der Tür stand ein Herr
 in kurzem Sportpelz mit einem Jägerhütchen, uns kein
 Fremder …
 
-Harald « öffnete, und der schlanke Herr begrüßte uns
+Harald öffnete, und der schlanke Herr begrüßte uns
 mit den erregt hervorgestoßenen Worten:
 
-»Wir ist etwas geradezu « Unglaubliches passiert«
+»Mir ist etwas geradezu Unglaubliches passiert!«
 
 »Bitte, treten Sie näher, Herr Hauptmann … — Da
 Sie noch die Maulkörbe und Leinen für drei Hunde in der
@@ -88,95 +89,93 @@ Linken tragen, nehme ich an, daß Ihnen die Tiere, die Sie
 mir liebenswürdigst persönlich überbringen wollten, im Zuge
 vergiftet worden sind.«
 
-Polizeihaupltmann S. warf sich in einen Sessel. »Herr
-Harst, ich habe mich inzwischen bereits so etwas beruhigt! —
-… Es war ein ganz infamer Streich, Ich begreife nicht,
-nur …
+Polizeihauptmann S. warf sich in einen Sessel. »Herr
+Harst, ich habe mich inzwischen bereits so etwas beruhigt —
+… Es war ein ganz infamer Streich. Ich begreife nicht,
+wer …«
 
-etwas …
-
-wer …
-
-» Name gefällig? — Schraut, gib unserem Gast einen
-Kognak … aber Sherryglas … — Hier ist Feuer, Lieder
+»Zigarre gefällig? — Schraut, gib unserem Gast einen
+Kognak … aber Sherryglas … — Hier ist Feuer, lieber
 S. — So, und nun erzählen Sie. Sie fuhren also von
-Erkner aus mit den Tiefen vundeabtell … Den — für
+Erkner aus mit den Tieren Hundeabteil … pardon — für
 Reisende mit Hunden, und da stieg wohl in Erkner noch
-ein Gutsbesitzer ein …’
+ein Gutsbesitzer ein …«
 
-»So ist’s … +.«
+»So ist’s …«
 
-»Ein Alter Mann mit Brille und blassem Gesicht 7«
+»Ein alter Mann mit Brille und blassem Gesicht?«
 
 »Ja … Woher wissen Sie das? Ich …«
 
 »Ich konnte es mir zusammenreimen …«
 
-»Das weitere auch!«
+»Das weitere auch?«
 
-»Hm — lassen Sie mich überlegen … Der Wann hat!
-einen Spazierstock oder Regenschirm?’
+»Hm — lassen Sie mich überlegen … Der Mann hatte
+einen Spazierstock oder Regenschirm?«
 
-»Ja … Auch das stimmt: Regenschirms«
+»Ja … Auch das stimmt: Regenschirm!«
 
 <@pagebreak/>
-»und Ihre drei Hunde japsten stark … Es war ward!l
-warm im Hoheit?« …
+»und Ihre drei Hunde japsten stark … Es war wohl
+warm im Abteil?«
 
-»Ja. Der Ul:richtet das Fenster …
+»Ja. Der Alte schloß das Fenster …«
 
 »Natürlich hatten die Tiere da die Mäuler offen. —
-Sie saßen in der einen Ecke am Besitzer, der Alle am
-anderen Fenster, also Ihnen schräg zegeunvder. Die Tieres
-lagen auf dem Boden und knieten wahrscheinlich den Hund
-des Alten an. Dies war sicherlich ein übincerer Sund …««
+Sie saßen in der einen Ecke am Fenster, der Alte am
+anderen Fenster, also Ihnen schräg gegenüber. Die Tiere
+lagen auf dem Boden und knurrten wahrscheinlich den Hund
+des Alten an. Dies war sicherlich ein kleinerer Hund …«
 
-»Sie können tadellos raten!!’
+»Sie können tadellos raten!«
 
-»und der Alte hatte ihn neben sich auf der Bark, —
-— um … aber davon später. — Es fiel Ihnen a:’s, lieber
-S., daß Ihre drei Hunde so scharf auf den langfingriger
+»und der Alte hatte ihn neben sich auf der Bank, —
+— um …, aber davon später. — Es fiel Ihnen auf, lieber
+S., daß Ihre drei Hunde so scharf auf den langhaarigen
 kleinen Köter waren, denn — langhaarig war er doch.«
 
-»Allerdings. — Ich bin verblüfft,: Herr Harst … Ich bin
+»Allerdings. — Ich bin verblüfft, Herr Harst … Ich bin
 allerdings mit Ihnen nur …«
 
 »Es war gar kein Hund, lieber S. Nein, bestimmt nicht.«
 
-»Na. — gestatten Sie mal!! Es war ahne Kreuzung
-zwischen Spitz und langhaarigenr Deckel!!«
+»Na — gestatten Sie mal! Es war eine Kreuzung
+zwischen Spitz und langhaarigem Teckel!«
 
-»Das Fell — ja! Aber in dein Fell steckte eine Katze
-oder ein junger Fuchs — — eingenäht!««
+»Das Fell — ja! Aber in dem Fell steckte eine Katze
+oder ein junger Fuchs — — eingenäht!«
 
-Hauptmann S. runzelte die Stirn. »Wir ist nicht nach
+Hauptmann S. runzelte die Stirn. »Mir ist nicht nach
 Witzen zumute … Die drei Hunde waren neunhundert Mark
 wert, und …«
 
-»—. und das Geld bezahle im natürlich. — Ecke ich
+»… und das Geld bezahle im natürlich. — Sehe ich
 so aus, als ob mir ein Scherz jetzt angebracht erscheint?!
-Lieber S., mir ist sogar reichlich nahezu zu angesichts Ihres
+Lieber S., mir ist sogar reichlich unbehaglich angesichts Ihres
 Abenteuers. — Ich will Sie nicht hinhalten. Der Alte hatte
 ein Tier in das Fell eingenäht, das Hunde durch seinen Geruch
 reizt. Wahrscheinlich war es ein junger Fuchs. Der Mann
 wollte dadurch erreichen, daß Ihre drei Hunde die Köpfe
-nach ihm hintersten. Seinen »Hund« hatte er neben sich
-auf dem Sir, damit er mit seinem Stirn operieren konnte,
+nach ihm hindrehten. Seinen »Hund« hatte er neben sich
+auf dem Sitz, damit er mit seinem Schirm operieren konnte.
 Der Schirm war eine Spritze, die mit einem rasch wirkenden
-Gift gefüllt war. — Wo stieg der Mann aus«
-»Auf der Station Friedrich8hageu bereits, also auf der
+Gift gefüllt war. — Wo stieg der Mann aus?«
+
+»Auf der Station Friedrichshagen bereits, also auf der
 <@pagebreak/>
 dritten von Erkner … Ich wunderte mich, daß meine drei
 Hunde sich plötzlich so still verhielten und sich zum Schlaf
-niedergetan halten. Kaum verließ der Zug er en
+niedergetan hatten. Kaum verließ der Zug Friedrichshagen,
 als die Reglosigkeit der Tiere mich doch stutzig machte …«
+
 »Sie waren tot, die armen Köter …«
 
 »Ja!«
 
-»Und Sie Schlüpften keinerlei Verdacht gegen den Alten?«
+»Und Sie schöpften keinerlei Verdacht gegen den Alten?«
 
-»Wie sollte ihm?! Ein greiser, gebrechlicher Mann, ich
+»Wie sollte ich?! Ein greiser, gebrechlicher Mann, ich
 bitte Sie!!«
 
 »Freilich … Es war ja auch einer der schlauesten Verbrecher,
@@ -188,113 +187,112 @@ Guddai mit seinen besten Beamten und Polizeihunden teilgenommen.
 »Meinen Sie etwa … Doktor Shing Guddai?« rief er,
 
 Harald nickte ernst. »Leider … — Sie sind als Beamter
-zur Verschwiegenheit verpflichtet. Sie Tennen die« Bedeutung
+zur Verschwiegenheit verpflichtet. Sie kennen die Bedeutung
 dieses Malaien. Ich habe selbst meinem Freunde Schraut
-nicht mitgeteilt, daß ich vorgestern … einen Brief von Guddad
-er!)Zelt. Auf diesen Brief hin verging mir alle Luft zum
-Co Herzen, und ich bestellte die drei Hunde, Der Brief lautete
+nicht mitgeteilt, daß ich vorgestern … einen Brief von Guddai
+erhielt. Auf diesen Brief hin verging mir alle Lust zum
+Scherzen, und ich bestellte die drei Hunde. Der Brief lautete
 — Maschinenschrift, englisch:
 
-»Herr Harst, es sehr im Sie als Mensch auch stets
-geschätzt habe, so oft ich Sie auch in« Indien hätte der«
-richten können, so ungern ich heute drohe oder … warne:
+> »Herr Harst, so sehr ich Sie als Mensch auch stets
+geschätzt habe, so oft ich Sie auch in Indien hätte vernichten
+können, so ungern ich heute drohe oder … warne:
 Ihre letzten Eingriffe in Dinge, die mein Lebenswerk bedeuteten,
 dürfen Ihnen nicht ungestraft hingehen! Sie haben
 mich beraubt — ich werde Sie berauben! Versuchen Sie
 sich zu schützen. — Doktor Shing Guddai.«
 
-»Das schrieb er, lieber S. — Befanden will er mich … Es ist
+»Das schrieb er, lieber S. — Berauben will er mich … Es ist
 Ihnen bekannt, daß Guddais Geheimbund, der Guddai-Orden,
-mich schon vor einer Woche an meiner empfindlHsten Stelle
+mich schon vor einer Woche an meiner empfindlichsten Stelle
 treffen wollte … Meine alte, liebe, gütige Mutter wollten
-sie in ihre Gewalt bringen … Und irrst — beabsichtigen sie
+sie in ihre Gewalt bringen … Und jetzt — beabsichtigen sie
 dasselbe!«
 
 <@pagebreak/>
-Der Hauptmann hatte sich) vorgebeugt und starrte zöarald
-ganz entschied an …
+Der Hauptmann hatte sich vorgebeugt und starrte Harald
+ganz entsetzt an …
 
-»und … und … das sagen sehe so … ruhig, wert
+»und … und … das sagen sehe so … ruhig, Herr
+Harst?!«
 
-Harst y!’
-
-»Ruhig?! Vielleicht nur bitterlich … Wenn es 1a
-meine Mutter geht, geraten auch meine Werden ins Schwitzen.
-— Der Brief veranlaßte mäg-auß-diat … noch zu sofortiger
-Bestellung einer verschwiegenen zuverlässigen zwetdainigen
-Schutzwache … Die Detektei Voll kennen Sie. Es
-ist fraglos das beste Institut dieser Art. Sie? von Rolle
-Leuten sind dauernd auf dem Posten, zwei in der Blineyecstraße,
+»Ruhig?! Vielleicht nur äußerlich … Wenn es um
+meine Mutter geht, geraten auch meine Nerven ins Schwitzen.
+— Der Brief veranlaßte mich außerdem noch zu sofortiger
+Bestellung einer verschwiegenen zuverlässigen zweibeinigen
+Schutzwache … Die Detektei Rolf kennen Sie. Es
+ist fraglos das beste Institut dieser Art. Vier von Rolfs
+Leuten sind dauernd auf dem Posten, zwei in der Blücherstraße,
 zwei hinten im Gemüsegarten. Dann sollten auch
-von die Hunde das Haus mit bewachen …«
+noch die Hunde das Haus mit bewachen …«
 
-»und — davon weiß ich richtige!« mischte Ab mich jetzt
+»und — davon weiß ich nichts!« mischte ich mich jetzt
 ärgerlich ein.
 
-»Es genügte, wenn einer vorn uns sich den Kopf zerbricht,
+»Es genügte, wenn einer von uns sich den Kopf zerbricht,
 wie Guddai endgültig zur Strecke gebracht werden kann,
 mein Alter.«
 
-Hauptmann Es. meinte etwas gereizt: »Sie hätten von
-dem Brief da? unbedingt der Polizei Mitteilung machen
-müssen, Herr Harst! Man glaubt Guddai, der zahllose Worte
+Hauptmann S. meinte etwas gereizt: »Sie hätten von
+dem Brief doch unbedingt der Polizei Mitteilung machen
+müssen, Herr Harst! Man glaubt Guddai, der zahllose Morde
 auf dem Gewissen hat …«
 
-… Morde, die er für eine große Idee beging!«
+»… Morde, die er für eine große Idee beging!«
 
 »Gleichgültig, — man glaubt diesen Farbigen außerhalb
-Deutschlands, längst außerhalb Europas, und Sie …
+Deutschlands, längst außerhalb Europas, und Sie …«
 
-»Verzeihung, tH& habe das nie geglaubt, ich habe stets
-die Ansicht vertreten, daß er sich noch in der weiteren Umsgebung
+»Verzeihung, *ich* habe das nie geglaubt, ich habe stets
+die Ansicht vertreten, daß er sich noch in der weiteren Umgebung
 Berlins in einem sorgfältig verborgenen Schlupfwinkel
-befindet. Der Brief ist in Unterste:s bei Erkner zur
+befindet. Der Brief ist in Woltersdorf bei Erkner zur
 Post gegeben. Und der heutige unerhört schlau begangene
 dreifache Hundemord beweist, daß Guddai sogar Mittel und
-Wege gefunden hat, meine Briefe zu lesen … meine Korrespondenz
-zu bringen. Er wußte, daß ich) die Hürde …
+Wege gefunden hat, *meine* Briefe zu lesen … meine Korrespondenz
+zu überwachen. Er wußte, daß ich die Hunde …«
 
 Er schnellte empor …
 
-»Was war dazu!«
+»Was war das?!«
 
 <@pagebreak/>
-Wut wir waren emporgefahren … »wü
+Auch wir waren emporgefahren …
 
-»Ein Schrei!« flüsterte S …
+»Ein Schrei!« flüsterte S.
 
-»Weber aber … 9 Boden? — Ja, ich bin nervös gen
+»Woher aber …? Woher? — Ja, ich bin nervös geworden
+… Meine Mutter — ich könnte ihretwegen sogar
+… — — Da wieder …!«
 
-Tochter … Weine Mütter — 1H könnte — breiwegen sog
-
-ja« … ck — Da wieder …!«
 Und Harst sprang zur Tür …
 
 Wir hinterdrein …
 
-Zur Treppe, die in den Oberstock Bärte …
+Zur Treppe, die in den Oberstock führte …
 
-Hm Hinterflur lehnte an der Wand ein armseligaver-
+Im Hinterflur lehnte an der Wand ein armselig-verstörtes
+dickes Menschenbild: Mathilde, die Köchin!
 
-starres dickes Wierschenvild: Mathilde, die Kobras
+»Mathilde, wo wurde gerufen?«
 
-»Mathilde, ins wurde gerufen?« Irren
-ich … weiß nicht …«
+»Ich … ich … weiß nicht …«
 
 Harst eilt die Treppe hinan …
 
 Hinein in seiner Mutter gemütliches Wohnzimmer …
 
-Licht Freund … Stehlampe in der Ofenecke auf dem
+Licht brennt … Stehlampe in der Ofenecke auf dem
+Tischchen … —
 
-Fischchen … —
-Grünlicmilber Schein dämmert im Zimmer …
-Pfähle Luft Welt von trug einen offenen Fensterflügel
+Grünlich-milder Schein dämmert im Zimmer …
 
-der …
+Kühle Luft weht von dem einen offenen Fensterflügel
+her …
+
 Das Zimmer … leer …
 
-— Auf dem Tischchen eine Stickerei, auf dem Teppich ein
+Auf dem Tischchen eine Stickerei, auf dem Teppich ein
 aufgeschlagenes Buch …
 
 Harst packt einen Stuhl mit beiden Händen, hält sich
@@ -302,7 +300,7 @@ fest …
 
 Er taumelt …
 
-Sein Gesicht geisterhaft klar, verzerrt …
+Sein Gesicht geisterhaft blaß, verzerrt …
 
 Ich schalte die Krone ein …
 
@@ -314,30 +312,31 @@ Auf den blanken Dielen feuchte Spuren …
 
 Es regnet draußen …
 
-Der Himmel weint über Guddais Stieg.
+Der Himmel weint über Guddais Sieg.
 
-Frau Harst Ut verschwunden …
-Hm Gemüsegarten finden wir die beiden Leute der
+Frau Harst ist verschwunden …
+
+Im Gemüsegarten finden wir die beiden Leute der
 <@pagebreak/>
-Detektei Rolf bewußtlos auf. Sie sind durch irgeübein Gas
+Detektei Rolf bewußtlos auf. Sie sind durch irgendein Gas
 betäubt worden.
 
-Die Polizei unter diesen Musikanten auszuschalten, Yt unmöglich.
-Hauptmann S. telephoniert aus. Präsidium. Wir
-suchen im Garten nach Spuren. Über der Regen fällt zu
-stark … Einen günstigeren Abend hältst Guddai mit seinen
-Helfershelfern sich kaum wählen können. —.
+Die Polizei unter diesen Umständen auszuschalten, ist unmöglich.
+Hauptmann S. telephoniert ans Präsidium. Wir
+suchen im Garten nach Spuren. Aber der Regen fällt zu
+stark … Einen günstigeren Abend hätte Guddai mit seinen
+Helfershelfern sich kaum wählen können. —
 
 Um elf Uhr sind die beiden Detektive wieder bei Besinnung.
-Sie können nichts angeben — nichts, Sie sind plötzlich
+Sie können nichts angeben — nichts. Sie sind plötzlich
 umgesunken, ohne vorher auch nur das geringste Verdächtige
 bemerkt zu haben.
 
 Auch Mathilde vermag nur auszusagen, daß sie kurz
 hintereinander zwei Schreie gehört habe. Ob Frau Harst
 diese ausgestoßen, wisse sie nicht. Die Schreie hätten ihr nicht
-nach einer menschlichen Stimme geklungen, mehr es wie von.
-einem Hunde, der großen Schmerz empfinde.,
+nach einer menschlichen Stimme geklungen, mehr es wie von
+einem Hunde, der großen Schmerz empfinde.
 
 Mit alledem war nichts anzufangen.
 
@@ -350,14 +349,16 @@ Harald war seelisch völlig zusammengebrochen …
 
 <h3>Wie Harst erwachte.</h3>
 
-50000 Mark Belohnung.
-Diese Belohnung sichere ich demjenigen
+<p class="centered em">50&nbsp;000 Mark Belohnung.</p>
+
+<p class="centered">Diese Belohnung sichere ich demjenigen
 zu, der mir über den Verbleib meiner am
-3\. März dd. I. abends 19.Uhr, entführten
+3\. März d. J. abends 10 Uhr, entführten
 Mutter Angaben machen kann, die deren
-Wiederauffindung ermöglicht.
-Harald Harst, BerlinChmargenvorf …
-Blücherstraße 10.
+Wiederauffindung ermöglicht.</p>
+
+<p class="centered">Harald Harst, Berlin-Schmargendorf,</p>
+<p class="centered">Blücherstraße 10.</p>
 
 <@pagebreak/>
 Jeder Berliner, jeder Vororten wird sich auf diese Plakate
@@ -521,8 +522,8 @@ Garten führte, der steckt die bewaldete Berglehne hinanzog.
 
 Es war elf Uhr abends. Wir saßen im Dunkeln in
 unseren: Wohnzimmer. In dem großen Gebäude war’s totenstill
-Dir oben straffen Negentränen mit blechernem Ton auf
-die Zinfeinfassung der Loggiabrüstung.
+Dir oben straffen Regentränen mit blechernem Ton auf
+die Zinkeinfassung der Loggiabrüstung.
 
 Haar ich rauchte, — es war heute die achte Mirakulum.
 Die Blitzende Spitze der Zigarette war der einzige Lichte
@@ -687,7 +688,7 @@ Es war worin. Dir Sonne gab sich alle Mühe, das Frühlingsahnen
 in der Natur wirksam zu unterstützen.—
 
 Mit einem Male erhielt im Gesellschaft. Die kleine
-übderelegante Dame mit dem geschminkten Puppengesicht der.
+überelegante Dame mit dem geschminkten Puppengesicht der.
 in einen kostbaren Zobelpelz: gehüllt, hatte ich!Schon beim
 gemeinsamen Frühstück kennengelernt.
 
@@ -875,7 +876,7 @@ Ader — mein Hirn ist elastisch … meine Gedanken eilen
 wie auf leichtbesczwingte1 Rossen … Ich bin wieder ich!« —
 Zwölf Uhr …
 
-Harst daß das Schloß und die Gelenke der Loggiakür geölt
+Harst daß das Schloß und die Gelenke der Loggiatür geölt
 Landhaus Huschten wir hin ins — durch den Park, klettern über
 das Gitter, sind im Walde, sind auf der Straße.
 
@@ -954,7 +955,7 @@ Ich bin durch die Not gezwungen worden, mir einen
 Erwerb zu schaffen. Meine bescheidene Anlage für Schuttwall
 und Wirksameres, die ich früher zu meinem Vergnügen
 weit ausgebildet hatte, ließ mich auf den Gedanken kommen
-den Kalksteinreictum der hiesigen Gegend Auftauchens
+den Kalksteinreichtum der hiesigen Gegend Auftauchens
 Ich stelle aus Kalkstein Figuren her, die ich dürr ein
 eigenes Verfahren Härte und Farbe und die dann als »italienische
 Terrakotten« verkauft werden — ein armseliger Verdienst!
@@ -981,7 +982,7 @@ unwesentlich. Nur eins hebe ir« hervor; Ihr auffälliges Erschossen!
 Und dann die Eile, mit der sie und der Diener
 sich entfernten. Schließlich noch: ich wurde nachher gewahr,
 daß der Mulatte mir folgte, und ich weiß auch, daß er sich
-in Rüdergdorf nach mir erkundigt hat. Seitdem habe ich
+in Rüdersdorf nach mir erkundigt hat. Seitdem habe ich
 von jener Frau Balkon nichts mehr gehört und gesehen.
 Frau Patson heißt sie, Mann Parse:1, geborene Nickte.
 Sie ist eine geborene Deutsche;e. Ihr Mann war Plantagen
@@ -1379,7 +1380,7 @@ werden drei Stunden schlafen … — Warte hier auf mich,
 Ich:Nuß allein an den Zaun heran … Hier, befreite meinen
 Mantel«…«
 
-Es war ein Fläschchen mit TJannennadelduft — so kräftig
+Es war ein Fläschchen mit Tannennadelduft — so kräftig
 riechend, daß die menschliche Witterung dadurch völlig betäubt
 werden mußte.
 
@@ -1773,7 +1774,7 @@ Hiebe versetzen … Diese ganze Umgebung war ja höchst
 anrüchig, obwohl Guddais Person hier aucschied. Einen
 Frauenzimmer wie dieser Patson konnte man alles zutrauen.
 
-Aber sie nahm von Harsts Plaßveränderung keinerlei
+Aber sie nahm von Harsts Platzveränderung keinerlei
 Tote, und als ich nun, scheinbar ein Bild über dem Wandschirm
 interessiert vertattert, einen Blick hinter diesen warf,
 war dort kein Sack zu sehen. Unser Mißtrauen also Grunde
@@ -2065,7 +2066,7 @@ Dutiulosigkeit Kopfnicken und ihnen durch allerlei klug berechnete
 kleine Wandern bewiesen, daß ihr Portal! völlig
 unberechtigt ist. Mehr rote, das Verhalten der Besitzerin
 »der Villa machte die beiden so vollkommen Vertrauens
-selig, daß ie in freuadschaftlichster Weise unter vielen Entschuldigungen
+selig, daß ie in freundschaftlichster Weise unter vielen Entschuldigungen
 ein en?lernten und einen neuen baldigen
 Besuch zusagten. — Achtung — wir beenden hiermit Nr
 lehnte unsere Versuche … Fuße Nacht, auf Wiederhören
@@ -2316,7 +2317,7 @@ Bunt: wahkhdölte er sich halb um — nach links — jenem
 Tiefstem zu, vor den: 5!- Patson!ich niederyebuk!! und dort
 irgend etwas mit der Auto betastet oder berührt hatte. —
 Stück Harald Du:: sich … Ich beobachtete sein Tun. Der
-Prelljtein war von Getrockneten Disteln umwuchert, Harsts
+Prellstein war von Getrockneten Disteln umwuchert, Harsts
 Finger fanden in diesen braunen, rosa Schatten stachligen
 abgestorbenen Pflanzen Grafen Ziegelstein, der in der Bitte
 ein Los; hatte! Du dieses Los führte die Verlängerung
@@ -2325,7 +2326,7 @@ Pforte öffnete lud,!Schwenkte Klinge ’ mag innen und gab
 uns den Weg frei. — Genau so war’s gewesen, als Frau
 Patson uns« als Gaste in ihr Haus geführt hatte — in der
 verflossenen Lacht, im Mondschein. Da hatte ich freilich
-nicht geglaubt, der Preilstein oder doch die dürren Disteln
+nicht geglaubt, der Prellstein oder doch die dürren Disteln
 ringsum könnten mit der Pforte irgendwie etwas zu Tau
 haben. Haralds Augen und Gedanken waren!schärfer zweien.«-
 Nun standen wir auf dem Hofe des ehemaligen Bauerngehöfts
@@ -2335,7 +2336,7 @@ des nebligen Frühjahrsmorgens zeigte uns einen elenden
 für Geflügel, in der welkes Laub faulte, und eine verrostete
 Tage, die mit den Zinken naß oben halb in den Haselbüschen
 lag — wie die vielzähnigen Kistenweise irgendeines
-vorsintflutlichen Untiers mit schwarzbraunen Zahnstumweln …
+vorsintflutlichen Untiers mit schwarzbraunen Zahnstummeln …
 Und dann rechts an der Stallecke eine große Hundehütte,
 alt Pappe frisch benagelt, innen Stroh und eine Decke, dauernder
 auf dem feuchten Boden eine Hundekehle wie eine matt
@@ -2555,7 +2556,7 @@ und stieg die Treppe hinab.
 
 Rechter Hand an der Höhlenwandung war unweit der
 Treppe ein Kastenkäsis aufgestellt, hinter dessen dicken Eisenstäben
-eins jener Untiere zähnefletscdend kauerte, die wir
+eins jener Untiere zähnefletschend kauerte, die wir
 « bereits kennengelernt ha!!en. Der Raubtiergestank, der aus
 
 ü dem Käfig herausdrang, war unsrige des fast betäubenden
@@ -2650,7 +2651,7 @@ konnte, haben die Herrschaften für eine stattliche Unzahl von
 Jahren ein Zuchthaus bezogen. —
 
 Von dem Guddai-Orden ist es seitdem in?! geblieben.
-Seine Haupiführer waren tot, und ein Genie wie Guddai, das
+Seine Hauptführer waren tot, und ein Genie wie Guddai, das
 den Orden wieder hätte aufleben lassen können, hat!ich scheinbar
 n’cHi Stunden.
 
