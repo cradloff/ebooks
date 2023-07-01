@@ -412,7 +412,7 @@ von dem niederträchtigen Diebstahl meines Mannes zu
 erzählen … Wenn Sie nur recht bald wiederkäuen, meine
 Herren … Vielleicht finden Sie Edward und den Nauklava …«
 
-»Wie — Naukla-sa, den heidnischen Gott der Phillipinos?«
+»Wie — Naukla-sa, den heidnischen Gott der Philipinos?«
 
 »Ja … Die goldene Statue … Haben Sie davon gehört,
 Herr Harst?«
