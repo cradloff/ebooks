@@ -1,2683 +1,2558 @@
+<@pagebreak 3/>
+
+<h2>1. Kapitel.</h2>
+
+<h3>Eine Operation.</h3>
+
+IH habe einmal irgendwo eine Geschichte von einer
+abgehauenen, spukhaften Hand gelesen, die gleihsam als
+selbständiges Wesen den Tod des ehemaligen Besitzers dieser
+Geisterhand rächte. Bielleiht stammt die Erzählung von
+A. Th. Hoffmann, dem Gespenster-Hoffmann, oder von Edgar
+Allan Boe, dessen Phantasie ebenfall8 sehr gern Wege zum
+Jenseiis wandelte.
+
+Wenn ich hier heute — unser Erlebnis stammt aus dem
+Jahre 1923 — nach Jahren von dem Bleistift der Mar-
+vatty berichten will, so geschieht dies de8halb, weil die
+geistige Einstellung der Menschen von heute zu okkulten,
+mystischen Phänomen anders geworden, freier uad, man könnte
+jagen, ehrlicher. Daß es Dinge zwischen Himmel und Erde
+gibt, die wir mit unseren stumpfen Sinnen nicht zu sassen
+vermögen, — wer wollte das jezt nochg leugnen?! Ich jelbst
+bin weder Okfkultist noh Spiritist, aber ih habe gerade
 <@pagebreak/>
-R BLEISTIFT
-, DER
-
-P
-
- 
-<@pagebreak/>
-Ter EE.
-
-Aus meinem Leben
-
-Band; 211 Ti
-3 Teen 452
-Der Bleiſtift der Marvatty.
-
-Erzählt von
-Max Schraut
-
- 
-
-Verlag moderner Lektüre G. m. b. H.
-Berlin SO 16, Midhaelkirc<hſtraße 23a
-<@pagebreak/>
-- Nachdruck verboten. = Alle Rechte, einſchl. das
-Derfilmungsrecht, vorbehalten. -- Copyright 1928
-by, Verlag moderner Leitüre G.m. b.H., Berlin.
-
-Dru>: P. Lehmann, G. m. b. H., Berlin SO 153.
-<@pagebreak/>
- 
-
-1. Kapitel.
-
-Eine Operation.
-
-3H habe einmal irgendwo eine Geſchichte von einer
-abgehauenen, ſpukhaften Hand geleſen, die gleihſam als
-ſelbſtändiges Weſen den Tod des ehemaligen Beſitzers dieſer
-Geiſterhand rächte. Bielleiht ſtammt die Erzählung von
-A. Th. Hoffmann, dem Geſpenſter-Hoffmann, oder von Edgar
-Allan Boe, deſſen Phantaſie ebenfall8 ſehr gern Wege zum
-Jenſeiis wandelte.
-
-Wenn ich hier heute -- unſer Erlebnis ſtammt aus dem
-Jahre 1923 -- nach Jahren von dem Bleiſtift der Mar»
-vatty berichten will, ſo geſchieht dies de8halb, weil die
-geiſtige Einſtellung der Menſchen von heute zu okkulten,
-myſtiſchen Phänomen anders geworden, freier uad, man könnte
-jagen, ehrlicher. Daß es Dinge zwiſchen Himmel und Erde
-gibt, die wir mit unſeren ſtumpfen Sinnen nicht zu ſaſſen
-vermögen, =- wer wollte das jezt no<g leugnen?! I< jelbſt
-bin weder Okfkultiſt noh Spiritiſt, aber ih habe gerade
-
-211. 1
-<@pagebreak/>
-DSSSSOSSSSDSS 41  20020E02D020E0ES0SS0SD
-
-in den Jahren meines Zuſammenlebens mit Harald Harſt eine
-ſolhe Wenge „merkwürdiger“ Dinge mit beobachten können,
-daß es bewußte Anmaßung wäre, wenn ich das Borhanden=- -
-ſein „übernatürlicher“ Kräfte leugnen wollte. Heutzutage
-bricht fich die Erkenntnis immer mehr Bahn, daß unſer Körper
-lediglich die H<emiſh ſehr kompliziert zuſammengeſetzte Hülle
+in den Jahren meines Zusammenlebens mit Harald Harst eine
+solhe Wenge »merkwürdiger« Dinge mit beobachten können,
+daß es bewußte Anmaßung wäre, wenn ich das Borhanden— -
+sein »übernatürlicher« Kräfte leugnen wollte. Heutzutage
+bricht fich die Erkenntnis immer mehr Bahn, daß unser Körper
+lediglich die Hchemish sehr kompliziert zusammengesetzte Hülle
 für etwas weit Feineres, Mächtigeres, noH Komplizierteres
-iſt: Unſer I<, unſer wahres I<h, das8 wir verſchieden be=
-nennen können: Wille, Geiſ, Seele: der Wille
-iſt alles, das Fleiſl; nidts! - Körpertraining,
-fraglos etwas Nüßliches. Und doh ſtet8 nur etwas Halbes,
-etwas an Tierdreſſur Gemahnendes, wenn wir den „Willen“
-darüber vernachläſſigen. Das „I<“ in mir kann alles."
-Ein ſchlichter Beweis: Menſchen, die an Schlafloſigkeit leiden,
-können dur<H Training des Willens dieſen Schlaf beſtimmt
-herbeizwingen. Man denke nur an die einfache Vorſchrift:
-Sich ausgeſtreF&t hinlegen, Arme und Hände leicht an die
-Seiten des Leibes gedrüt, dann tief atmen, langſam und
-tief und immerfort den einen Gedanken ſich ſelber ein=
-hämmernd" Du wirſt einſchiafen -- du wirſt einſchlafen! ---
-Wem's nicht gelingt, iſt ein bemitleidenöswerter Shwächl.n4.
-Es gehört nur Geduld und . . . eiſerner Wille dazu. Beides
-läßt ſich anerziehen -- durc) ſich ſelbſt! -- --
+ist: Unser Ich, unser wahres Ich, das8 wir verschieden be-
+nennen können: Wille, Geis, Seele: der Wille
+ist alles, das Fleisl; nidts! - Körpertraining,
+fraglos etwas Nüßliches. Und doh stet8 nur etwas Halbes,
+etwas an Tierdressur Gemahnendes, wenn wir den »Willen«
+darüber vernachlässigen. Das »Ich» in mir kann alles.«
+Ein schlichter Beweis: Menschen, die an Schlaflosigkeit leiden,
+können durchH Training des Willens diesen Schlaf bestimmt
+herbeizwingen. Man denke nur an die einfache Vorschrift:
+Sich ausgestreF&t hinlegen, Arme und Hände leicht an die
+Seiten des Leibes gedrüt, dann tief atmen, langsam und
+tief und immerfort den einen Gedanken sich selber ein-
+hämmernd« Du wirst einschiafen — du wirst einschlafen! —
+Wem’s nicht gelingt, ist ein bemitleidenöswerter Shwächl.n4.
+Es gehört nur Geduld und … eiserner Wille dazu. Beides
+läßt sich anerziehen — durch sich selbs!! — —
 
 Nac meinen Aufzeichnungen war es am 14. Mai 1923,
-als bei uns mittag8 ein Uhr Doktor Sven Holgerſen aus
-Trelleborg ſi melden ließ, Doktor der Medizin. Sven
-Holgerſen, 32 Jahre alt, unverheiratet, ſchlank, kräftig, blond,
-blauäugig und ... ſehr bleich) und übernervös.
+als bei uns mittag8 ein Uhr Doktor Sven Holgersen aus
+Trelleborg si melden ließ, Doktor der Medizin. Sven
+Holgersen, 32 Jahre alt, unverheiratet, schlank, kräftig, blond,
+blauäugig und … sehr bleich) und übernervös.
 
-Es war ein ſehr unfreundlicher, ſtürmiſcher und regne=
-riſ<er Tag. Während Holgerſen uns ſeine eigenartige Lei-
-densgeſchichte wenig überſichtlich und unklar erzählte, jagte
-der Wind unaufhörlich Regenſ<hauer gegen die Fenſter des
+Es war ein sehr unfreundlicher, stürmischer und regne-
+rischer Tag. Während Holgersen uns seine eigenartige Lei-
+densgeschichte wenig übersichtlich und unklar erzählte, jagte
+der Wind unaufhörlich Regenschauer gegen die Fenster des
 Arbeitszimmers meines Freundes, in dem wir Licht brennen
-mußten, da es zuweilen draußen ſto>dunkel wurde.
+mußten, da es zuweilen draußen stockdunkel wurde.
 <@pagebreak/>
-DOSSSSSSSSSS 5 DSDSSSSSSSSS
 
-Cvcn Holgerſen ſchraf jede8nal zuſammen, wenn die
-Fenſter wie unter Hagelkörnern leiſe klirrten, und ſtierte dann
-geradezu entſe3t um ſich, als ob er ſtets irgend etwas Grauen=
+Cvcn Holgersen schraf jede8nal zusammen, wenn die
+Fenster wie unter Hagelkörnern leise klirrten, und stierte dann
+geradezu entse3t um sich, als ob er stets irgend etwas Grauen-
 volles, Unnennbares erwartete.
 
-„Die Sache liegt in ihren Urgründen genau ein
-Jahr zurück,“ begann er. „Ein Zuſammentreffen mehrere“
-nur ungünſtiger Umſtände lud mir al8 dem damals in
-Trelleborg, der kleinen ſchwediſchen Hafenſtadt, allein an=
-weſenden Arzte die Berantwortung auf, eine Armamputa-
-tion vorzunehmen und zwar bei einer Artiſtin, die, zu einer
-Wandertruppe gehörig, beim Sturz vom Drahtſeil ſich das
-reßte Ellenbogengelenk zerſchmettert hatte. Da eine ſchwere
-Eiterung hinzutrat und ich aul); zu ſpät gerufen wurde,
-mußte iM zur Amputation ſchreiten, die mir um ſo ſchwerer
-wurde, weil ic< der jungen Artiſtin dadurF& ein Ber=
-bleiben bei . ihrem gefährlihen Beruf unmögliHh machte.
+»Die Sache liegt in ihren Urgründen genau ein
+Jahr zurück,« begann er. »Ein Zusammentreffen mehrere«
+nur ungünstiger Umstände lud mir al8 dem damals in
+Trelleborg, der kleinen schwedischen Hafenstadt, allein an-
+wesenden Arzte die Berantwortung auf, eine Armamputa-
+tion vorzunehmen und zwar bei einer Artistin, die, zu einer
+Wandertruppe gehörig, beim Sturz vom Drahtseil sich das
+reßte Ellenbogengelenk zerschmettert hatte. Da eine schwere
+Eiterung hinzutrat und ich aul); zu spät gerufen wurde,
+mußte ich zur Amputation schreiten, die mir um so schwerer
+wurde, weil ich der jungen Artistin dadurF& ein Ber-
+bleiben bei … ihrem gefährlihen Beruf unmögliHh machte.
 
-Die Operation ſelbſt gelang. Die Wunde verheilte glatt,
-aber ...“ -- er ſ<hauerte merklich zuſammen -- „die Mar=
-vatty, ſo hieß die Artiſtin, nahm ſic) im Krankenhauſe
-aus Verzweiflung das Leben, vergiftete ſich . . .“
+Die Operation selbst gelang. Die Wunde verheilte glatt,
+aber …« — er schauerte merklich zusammen — »die Mar-
+vatty, so hieß die Artistin, nahm sich im Krankenhause
+aus Verzweiflung das Leben, vergiftete sich …«
 
-Er ſtarrte vor ſiHh hin und tro>nete die Scweißs=
-perlen von der Stirn ..
+Er starrte vor siHh hin und trocknete die Scweißs-
+perlen von der Stirn …
 
-„Den ... den amputierten Unterarm hatte ich, und das
-war unrehHt von mir, an mich genommen und ſo präpariert,
-daß er wie lebensfriſ& blieb. Dieſe Präparationsmethode
-lernte ich in Paris bei Profeſſor Letourneur, der letztens
-auch die Leiche des amerikaniſchen Millionärs Gouſton ein=
-balſamiert hat. --- Selten hat e8 wohl einen ſo vollen>et
-ſH<önen Arm gegeben, wie ihn die Marvat!y beſaß. Die
-Hand iſt in jeder Beziehung fehlerfrei, und ... da ich
-vermögend bin, ließ iM die Schnittſtelle am Ellenbogen
-mit einer Goldkapſel einfaſſen und bewahrte den Arm in
-einem Glasſhränkfhen in meinem Arbeitszimmer auf. Wenn
-i< ihn lieber verbrannt hättet“
+»Den … den amputierten Unterarm hatte ich, und das
+war unrehHt von mir, an mich genommen und so präpariert,
+daß er wie lebensfris& blieb. Diese Präparationsmethode
+lernte ich in Paris bei Professor Letourneur, der letztens
+auch die Leiche des amerikanischen Millionärs Gouston ein-
+balsamiert hat. — Selten hat e8 wohl einen so vollencket
+sHchönen Arm gegeben, wie ihn die Marva!!y besaß. Die
+Hand ist in jeder Beziehung fehlerfrei, und … da ich
+vermögend bin, ließ ich die Schnittstelle am Ellenbogen
+mit einer Goldkapsel einfassen und bewahrte den Arm in
+einem Glasshränkfhen in meinem Arbeitszimmer auf. Wenn
+ich ihn lieber verbrannt hättet«
 <@pagebreak/>
-SSEHSSOEOGESBSEODS 6 0EDBDEBDEEEHSSOS
 
-Er ſtöhnte ... ſeufzte ...
+Er stöhnte … seufzte …
 
-„Ein Wonat naH Ellen Marvattys freiwilligem Ende
-war vergangen,“ fuhr er noh leiſer fort. „Da ... begann
-der .. Spuk...“
+»Ein Wonat naH Ellen Marvattys freiwilligem Ende
+war vergangen,« fuhr er noh leiser fort. »Da … begann
+der … Spuk …«
 
-Er blickte Harald zaghaft an ...
+Er blickte Harald zaghaft an …
 
-„Sehen Sie, Herr Harſt, ih hätte mich ja längſt einem
-Menſc<en anvertraut, wenn iH nicht gefürchtet haben würde
+»Sehen Sie, Herr Harst, ih hätte mich ja längst einem
+Menschen anvertraut, wenn iH nicht gefürchtet haben würde
 aus8gelacht zu werden. Ich wohne bereits zwei Monate
-dier in Berlin -- als Flüchtling vor dem Arm einer Toten...
-Und doch komme ich erſt heute zu Ihnen als vielleiht dem
-einzigen Menſchen, der mir helfen kann ...“ .
+dier in Berlin — als Flüchtling vor dem Arm einer Toten …
+Und doch komme ich erst heute zu Ihnen als vielleiht dem
+einzigen Menschen, der mir helfen kann …« …
 
-Harald ſagte höflich: „Der Arm beläſtigt Sie irgends
-wie, Herr Holgerſen ... Wie?“
+Harald sagte höflich: »Der Arm belästigt Sie irgends
+wie, Herr Holgersen … Wie?«
 
-„Er ... ſchreibt ...“
+»Er … schreibt …«
 
-„Schreibt?“
+»Schreibt?«
 
-„Ia ... = Bitte, hier ſehen Sie acht Zettel ... Auf
-jedem ſteht mit Bleiſtift geſchrieben in deutſchen Buchſtaben
+»Ia … — Bitte, hier sehen Sie acht Zettel … Auf
+jedem steht mit Bleistift geschrieben in deutschen Buchstaben
 as Wort
 
 Rache.
-All dieſe Zettel ſtammen von der Hand der Toten ...“
+All diese Zettel stammen von der Hand der Toten …«
 
-„Erklären Sie das ditte näher „...“
+»Erklären Sie das ditte näher«…«
 
-„3< ſagte ſchon, daß einen Monat nah dem Tode der
-Artiſtin das Unheimlihe begann ... Und das war ſo. =-
+»3ch sagte schon, daß einen Monat nah dem Tode der
+Artistin das Unheimlihe begann … Und das war so. —
 3H bin unverheiratet. Mein Bermögen erlaubt es mir,
 in Trelleborg eine kleine eigene Billa zu bewohnen. Den
 Saushalt führt mir eine ältere Verwandte, außerdem waren
 
-;amal8 no<g eine Köchin und mein Chauffeur im Hauſe.
-IH ſHlief im erſten Sto> in einem Balkonzimmer. Das
-Beti ſtand an der Rüc>wand, in der Mitte ein alter»
-:ümlicher achtediger Poliſandertiſch, auf dem zumeiſt ein paar
-Zeitſchrifien lagen. Ich hatte an jenem 13. Juni 1922 noch
-im Bett geleſen .
+amal8 nochg eine Köchin und mein Chauffeur im Hause.
+IH sHlief im ersten Stock in einem Balkonzimmer. Das
+Beti stand an der Rückwand, in der Mitte ein alter-
+ümlicher achtediger Polisandertisch, auf dem zumeist ein paar
+Zeitschrifien lagen. Ich hatte an jenem 13. Juni 1922 noch
+im Bett gelesen …
 
-. Sie waren ſhon damals ſehr nervö8?“
-Mei SE. eiwas... = 'IM war über dem Buche
+… Sie waren shon damals sehr nervö8?«
 
- 
-
- 
+Mei SE. eiwas … — ’IM war über dem Buche
 <@pagebreak/>
-2DODEE2EEEDSDSESE 7 2080 DS20EEIDOSDG
-
-eingeſhlafen ... Die KAadhttiſhlampe brannte. Plöztlicz
-erwachte im -=- weshalb, weiz ich niht ... IH ſpürte ein
-unerklärliches Grauen, richtete mid) auf und ſah zu meinem
-namenloſen Entſezen den Arm der Marvatty wie ein ſcheuß»
-liches Inſekt mit langem dien Hinterleib auf den Fingern
-über den Fußboden laufen, an dem einen Bein de8 Poli»
-jandertiſMes emportlettern und dann ... mit einem Bleiſtift
-in ſilberner Hülſe etwas auf ein Blatt Papier ſchreiben...
+eingeshlafen … Die KAadhttishlampe brannte. Plöztlicz
+erwachte im — weshalb, weiz ich niht … IH spürte ein
+unerklärliches Grauen, richtete mich auf und sah zu meinem
+namenlosen Entsezen den Arm der Marvatty wie ein scheuß-
+liches Insekt mit langem dicken Hinterleib auf den Fingern
+über den Fußboden laufen, an dem einen Bein de8 Poli-
+jandertisMes emportlettern und dann … mit einem Bleistift
+in silberner Hülse etwas auf ein Blatt Papier schreiben …
 darauf lief der Urm wieder nach der halb offenen Balkontür
-zurü& and verſc<wand draußen ...“
+zurü& and verschwand draußen …«
 
-Wieder tro>nete Doktor Holgerſen die Schweißperlen
-von der Stirn ... =- .
+Wieder trocknete Doktor Holgersen die Schweißperlen
+von der Stirn … — …
 
-Ih beobachtete Sarald. Sein Geſicht iſt ja zumeiſt
-vollſtändig unbewegt. Nur für den, der ihn ganz genau kennt,
-verrät er den Grad ſeiner Teilnahme und ein wenig von
-ſeinen innerſten Gedanken durc< geringe Anzeichen: Ein
+Ih beobachtete Sarald. Sein Gesicht ist ja zumeist
+vollständig unbewegt. Nur für den, der ihn ganz genau kennt,
+verrät er den Grad seiner Teilnahme und ein wenig von
+seinen innersten Gedanken durch geringe Anzeichen: Ein
 Blinzeln mit den Augen, ein Bertiefen der Stirnfalten, ein
 Zuken der Mundwinkel und kurze, geringe Bewegungen
-jeiner ſchmalen nervigen Hände ...
+jeiner schmalen nervigen Hände …
 
-Was ic< au8 dieſen Anzeichen ſc<l93, deuteie unbe
-dingt bel ihm auf wachſende Spannung hin. Er hatte die
-Lider faſt ganz geſenkt und ließ Holgerſen feine Sekunde aus
-den Augen ...
+Was ich au8 diesen Anzeichen schl93, deuteie unbe
+dingt bel ihm auf wachsende Spannung hin. Er hatte die
+Lider fast ganz gesenkt und ließ Holgersen seine Sekunde aus
+den Augen …
 
-Seine Stimme klanz3 dennoch vollkommen unintereſiert,
+Seine Stimme klanz3 dennoch vollkommen uninteresiert,
 als er nun fragte:
 
-„Der Arm lief alſo wie ein Inſekt -- auf den Fingern
-als Füßen ... Bewegten ſich die Finger?“
+»Der Arm lief also wie ein Insekt — auf den Fingern
+als Füßen … Bewegten sich die Finger?«
 
-„3a -- ſehr ſchnell ...“
+»3a — sehr schnell …«
 
-„And wie hielten dieſe Finger beim Laufen den Blei»
-ſtift 2“
+»And wie hielten diese Finger beim Laufen den Blei-
+stift 2«
 
-„Zwiſc<en den unteren Glievern des Zeige= und Mittel»
-finger8 war er eingeklemmt ...“
+»Zwischen den unteren Glievern des Zeige- und Mittel-
+finger8 war er eingeklemmt …«
 
-„Beim Schreiben auc?“
+»Beim Schreiben auc?«
 
-„Nein, da wurde er wie üblich gehalien.“
+»Nein, da wurde er wie üblich gehalien.«
 <@pagebreak/>
-2SSSSDSSSOSSOS ZZ 0800820280020 0200
 
-„Ein Traum Ihrerſeits iſt ausgeſchloſſen?“
+»Ein Traum Ihrerseits ist ausgeschlossen?«
 
-„Vollkommen ..!“
+»Vollkommen …!«
 
-„Im. -- ſagen Sie das nicht ... Es gibt ...“
+»Hm. — sagen Sie das nicht … Es gibt …«
 
-„In dieſem Falle gibt es nur Tatſachen, Herr
-Harſt ... IM habe ja nachher in der Staubſchicht auf der
-ſ<warzen Platte des Poliſandertiſches die Spuren der ...
-der laufenden Finger geſehen ...“
+»In diesem Falle gibt es nur Tatsachen, Herr
+Harst … IM habe ja nachher in der Staubschicht auf der
+schwarzen Platte des Polisandertisches die Spuren der …
+der laufenden Finger gesehen …«
 
-„Gingen Sie nicht ſofort in Ihr Arbeits3zimmer und
-revidierten den Glasſchrank?“
+»Gingen Sie nicht sofort in Ihr Arbeits3zimmer und
+revidierten den Glasschrank?«
 
-„X ... Aber erſt nach einer geraumen Weile ... Ih
-brauchte Zeit mich ... mid) zu erholen, das Grauen "abzu-
-ſh<ütteln. IH ... trank . . Wein ... und ſehr viel .. I<
-ſhäme mich faſt, Herr Harſt as Ich, ein Arzt, und von
-abergläubiſc<er Furcht gepadt!t“
+»X … Aber erst nach einer geraumen Weile … Ih
+brauchte Zeit mich … mich zu erholen, das Grauen »abzu-
+shchütteln. IH … trank … Wein … und sehr viel … Ich
+shäme mich fast, Herr Harst as Ich, ein Arzt, und von
+abergläubischer Furcht gepad!!t«
 
-„War der Glasſc<hrank ſtets verſchloſſen?“
+»War der Glasschhrank stets verschlossen?«
 
-„3X ... Den Schlüſſel trug ich bei mir ... Jedenfalls
-lag der Arm der Marvatty ganz harmlos auf ſeinem Bett
-von ſ<warzer Seide ...“
+»3X … Den Schlüssel trug ich bei mir … Jedenfalls
+lag der Arm der Marvatty ganz harmlos auf seinem Bett
+von schwarzer Seide …«
 
-„Bett?t“
+»Bett?t«
 
-Holgerſen wurde verlegen. „Ia ... -- ein Kaſten aus
-Ebenholz, offen, und mit Seide ausgefüttert ...“
+Holgersen wurde verlegen. »Ia … — ein Kasten aus
+Ebenholz, offen, und mit Seide ausgefüttert …«
 
-„Den Glasſchrank fanden Sie alſo verſchloſſen vor?“
+»Den Glasschrank fanden Sie also verschlossen vor?«
 
-Der Doktor niste nur. Er blieb merkwürdig verlegen ...
+Der Doktor niste nur. Er blieb merkwürdig verlegen …
 
-„Und die anderen ... Fälle, Herr Holgerſen?“
+»Und die anderen … Fälle, Herr Holgersen?«
 
-„Sie ereigneten ſich ſtet8 nachts, ſiet8 in derſelben Weiſe.
-Das dauerte bis zum Februar ...“
+»Sie ereigneten sich stet8 nachts, siet8 in derselben Weise.
+Das dauerte bis zum Februar …«
 
-„Zalt. -- Id) ſehe, daß dieſe aht Zettel Rezeptformulare
-von Ihnen ſind. Das Wort „Rache“ ſteht immer auf der
-unbedruckten Rüdſeite. Hatten Sie denn auf dem Poliſander=
-tiſch ſtets Formulare umherliegen?“
+»Zalt. — Ich sehe, daß diese aht Zettel Rezeptformulare
+von Ihnen sind. Das Wort »Rache« steht immer auf der
+unbedruckten Rüdseite. Hatten Sie denn auf dem Polisander-
+tisch stets Formulare umherliegen?«
 
-„Nein. Wie die Formulare dorthin kamen, weiß ich nicht.
-Die Hand brachte ſie nicht mit.“
+»Nein. Wie die Formulare dorthin kamen, weiß ich nicht.
+Die Hand brachte sie nicht mit.«
 
-„Gut ... -- weiter. Wa8 geſchah im Tebruar?“
+»Gut … — weiter. Wa8 geschah im Tebruar?«
 <@pagebreak/>
-m>“SOSSSSSOOSDS ) 0002020 2DS0S0E0ESS
 
-„Bis zum Februar war der Arm ſehsmal nachts
-erſchienen ...“
+»Bis zum Februar war der Arm sehsmal nachts
+erschienen …«
 
-„Berzeihung: Im Winter ſchliefen Sie doh bei ge»
-ſchloſſenen Balkontüren?“
+»Berzeihung: Hm Winter schliefen Sie doh bei ge-
+schlossenen Balkontüren?«
 
-„Nein ... I< bin friſche Luft=Fanatiker.“
+»Nein … Ich bin frische Luft-Fanatiker.«
 
-„Und Sie nahmen dieſe ſehs Beſuche der ſchreibenden
-Hand ſo ohne jede Abwehrmaßregeln hin?“
+»Und Sie nahmen diese sehs Besuche der schreibenden
+Hand so ohne jede Abwehrmaßregeln hin?«
 
-Holgerſen errötete und ſchaute zu Boden.
+Holgersen errötete und schaute zu Boden.
 
-„Das nicht gerade, Herr Harſt ...,“ Geſpann er ſichtlich
-widerſtrebend. „Nah dem dritten Beſuch .
+»Das nicht gerade, Herr Harst …« Gespann er sichtlich
+widerstrebend. »Nah dem dritten Besuch …
 
-wann war das?“
+wann war das?«
 
-„as iſt auf einem der Zettel vermerkt ... Id) habe
-ſie numeriert ... Hier Nummer drei, am 13. September.
--- Alſo naH dem dritten Beſuch habe im den Arm nachts
+»as ist auf einem der Zettel vermerkt … Ich habe
+sie numeriert … Hier Nummer drei, am 13. September.
+— Also naH dem dritten Besuch habe im den Arm nachts
 auf den Kirchhof getragen und dort in einem Grabhügel
-verſcharrt .
+verscharrt …
 
-Seinc Stimme bebte plötlich ..
+Seinc Stimme bebte plötlich …
 
-„Als ... als iH heimkehrte, * da ... da. lag...
-DER 211, Arm . . wieder in dem Glasſchrank, und“. da .
-habe ih jeden . . jeden Widerſtand gegen den hölliſchen Spuk
-bis zum Februar aufgegeben ... Am 13. Februar dieſes
-Jahres aber, da ... wollte ... die Hand ... mich .., erwür»=
-g .. Ih erwacdte ... und die ... Hand ... hatte meinen
-Hals umklammert ... I< ... griff in meiner TodeSZangſt
-nah ihr ... da ... lief ſie... davon ...“ Er konnte kaum
-mehr ſprechen. Sein Geſicht ſah ganz verfallen aus ... -
+»Als … als iH heimkehrte, « da … da. lag …
+DER 211, Arm … wieder in dem Glasschrank, und«. da …
+habe ih jeden … jeden Widerstand gegen den höllischen Spuk
+bis zum Februar aufgegeben … Am 13. Februar dieses
+Jahres aber, da … wollte … die Hand … mich … erwür»-
+… Ih erwacdte … und die … Hand … hatte meinen
+Hals umklammert … Ich … griff in meiner TodeSZangst
+nah ihr … da … lief sie … davon …« Er konnte kaum
+mehr sprechen. Sein Gesicht sah ganz verfallen aus … —
 
-Ich gebe zu: aucß mich beſchlich etwas wie Grauen ...
+Ich gebe zu: aucß mich beschlich etwas wie Grauen …
 
-Ein Bliä zu Harſt ...
+Ein Bliä zu Harst …
 
-Um ſeine Mundwinkel wetterleuchtete ein Lächeln -- nicht
-ironiſG; nein -- ein ... Siegerläceln ...
+Um seine Mundwinkel wetterleuchtete ein Lächeln — nicht
+ironisG; nein — ein … Siegerläceln …
 
-„Und nah dieſer Nacht flohen Sie hier nah Berlin?“
+»Und nah dieser Nacht flohen Sie hier nah Berlin?«
 
 fragte er kühl.
-ZI (005-3 war dem Wahnſinn nahe ... I<h
-mußte fort ...“
+ZI (005-3 war dem Wahnsinn nahe … Ich
+mußte fort …«
 <@pagebreak/>
-GAS SDEGESESOSS 10 2DSESPS>PSEDDL>-LG>
-„IG wo'!:2 ihn in der Oſtſee während der Ueberfahrt
+»IG wo’!:2 ihn in der Ostsee während der Ueberfahrt
 
-na< Saßniß auf Rügen vom Fährſchiff aus in einer eiſernen
-Kaſſette verſenken. Über als ich an Bord die Kaiſette noh»
+nach Saßniß auf Rügen vom Fährschiff aus in einer eisernen
+Kassette versenken. Über als ich an Bord die Kaisette noh-
 
-mals öffnete, war ſie leer ..!! Leer, = =“ der Urm „.»
-verſchwunden!“
-„Ab - -- natürlicht“
+mals öffnete, war sie leer …!! Leer, — — der Urm«.-
+verschwunden!«
+»Ab - — natürlicht«
 
-„Weshbalb ... natürlich, Herr Harſt?“
+»Weshbalb … natürlich, Herr Harst?«
 
-„Weil ..., = do<h darüber reden wir ſpäter. =- Und
-hier in Berlin ....“
+»Weil … — doch darüber reden wir später. — Und
+hier in Berlin …«
 
-„Ih mietete mir zwei möblierte Zimmer in Ihrer Nähe,
-ant Bahnhof „Hohenzollerndamm .. .Am 13. März ... ſchrieb -
-die Hand das ſiebente „Rache“, und ... in der verfloſſenen
-Nacgt das a<te ..! Da bin ich denn heute in meiner Ver»
-zweiflung doH zu Ihnen gekommen, denn ... ich bin mit
-meinen Kräſten am Rande ... IH ſchlafe keine Nacht mehr
-ohne Sclofmittel ... Ih ... wage nicht zu ſchlafen ...
-Sä) ... fürc<te die tote Hand ... ich fürchte ... erwürgt zu
-werden ... I< bin ... Säufer geworden -- aus Ungſt ... ic
-vin entſetzlich beſtraft worden ...“
+»Ih mietete mir zwei möblierte Zimmer in Ihrer Nähe,
+ant Bahnhof »Hohenzollerndamm … Am 13. März … schrieb -
+die Hand das siebente »Rache«, und … in der verflossenen
+Nacgt das achte …! Da bin ich denn heute in meiner Ver-
+zweiflung doH zu Ihnen gekommen, denn … ich bin mit
+meinen Krästen am Rande … IH schlafe keine Nacht mehr
+ohne Sclofmittel … Ih … wage nicht zu schlafen …
+Sä) … fürchte die tote Hand … ich fürchte … erwürgt zu
+werden … Ich bin … Säufer geworden — aus Ungst … ic
+vin entsetzlich bestraft worden …«
 
-„Wofür?“ Harald haite die Augen weit offen ... In
-ſeinem Bli> lag etwas Zwingendes. ..
+»Wofür?« Harald haite die Augen weit offen … In
+seinem Blick lag etwas Zwingendes …
 
-„Wofür?“ wiederholte er ...
+»Wofür?« wiederholte er …
 
-SHolgerſen ſtierte ihn geiſte8abweſend an ... „Wo...
-wofür?! Sagte ... ic< ... etwas? I< ... ih... weiß ja
-faum mehr, was id) rede ...“
+SHolgersen stierte ihn geiste8abwesend an … »Wo …
+wofür?! Sagte … ich … etwas? Ich … ih … weiß ja
+faum mehr, was ich rede …«
 <@pagebreak/>
-EOEEGBDEEDSSEBSDD 11 0000 SDSSSOSSDS |
 
-2. Kapitel.
-Ni<ht Haß: Liebe!
+<h2>2. Kapitel.</h2>
+<h3>Nicht Haß: Liebe!.</h3>
 
-„Sie ſagten, Sie ſeien entſetzlich) beſtraft worden. Und
-ic fragte: wofür?“
+»Sie sagten, Sie seien entsetzlich) bestraft worden. Und
+ic fragte: wofür?«
 
-„Das ... iſt ja Unſinn ... Unſinn!“ ſc<hrie Holgerſen
-voeiſchend . . . „IH bin ... ſ<hon ... verrüst ..! Wofür
-ſollte iM büßen -- = wofür -- -- für eine geſchifte Opera«
-tion?!“
+»Das … ist ja Unsinn … Unsinn!« schhrie Holgersen
+voeischend … »IH bin … schon … verrüst …! Wofür
+sollte ich büßen — — wofür — — für eine geschifte Opera«
+tion?!«
 
-„Beruhigen Sie ſi) doh, Herr Doktor. Wir werden
-Ihnen ja helfen ...“
+»Beruhigen Sie si) doh, Herr Doktor. Wir werden
+Ihnen ja helfen …«
 
-„Wirklich?!“
+»Wirklich?!«
 
-„Beſtimmt. Nur: Offenheit Ihrerſeit8 bitte! I< werde
-fragen ...“
+»Bestimmt. Nur: Offenheit Ihrerseit8 bitte! Ich werde
+fragen …«
 
-Ein ſ<euer Bli traf Harald ...
+Ein scheuer Bli traf Harald …
 
-„3... fragen. Sie ...“
+»3 … fragen. Sie …«
 
-„Was war's für eine Artiſtentruppe, der Ellen Marvatty
-angehörte?“
+»Was war’s für eine Artistentruppe, der Ellen Marvatty
+angehörte?«
 
-„Ein Wander»Variete .
+»Ein Wander»Variete …
 
-„War die Marvatty mit den Witgliedern der Truppe
-verwandt ?“
+»War die Marvatty mit den Witgliedern der Truppe
+verwandt?«
 
-„Nein ... Sie war eine Waiſe. Man ſagt, ſie ſei das
-Kind eines indiſ<en Kaufmanns und einer Holländerin ge
-m Ihre Herkunft blieb dunkel. Sie wurde al8 Ellen Mar»
+»Nein … Sie war eine Waise. Man sagt, sie sei das
+Kind eines indischen Kaufmanns und einer Holländerin ge
+Ihre Herkunft blieb dunkel. Sie wurde al8 Ellen Mar-
 
 vatty begraben, obwohl dies fraglos nicht ihr FRE? Vaxme
 war.
 
-„Wer ſorgte für ihr Begräbni32?“
+»Wer sorgte für ihr Begräbni32?«
 
-"Die Wandertruppe war längſt nah Dänemark zuriüch=
+»Die Wandertruppe war längst nah Dänemark zuriüch-
 <@pagebreak/>
-DSSSSSSOSDSSSS 129 DSSSODSSSODSSDDSE
+gekehrt, und so übernahm iH es, die gänzlich mittellose
+Selbstmörderin ihrem letzten schriftlihen Wunsche gemäß in
+aller Stille zu beerdigen — in Trelleborg … Und in ihren
+Grabhügel scharrte ih auch damals nachts den Arm ein …«
 
-gekehrt, und ſo übernahm iH es, die gänzlich mittelloſe
-Selbſtmörderin ihrem letzten ſchriftlihen Wunſche gemäß in
-aller Stille zu beerdigen =- in Trelleborg ... Und in ihren
-Grabhügel ſcharrte ih auch damals nachts den Arm ein ...“
+»Wie nannte sih die Wandertruppe?«
 
-„Wie nannte ſih die Wandertruppe?“
+Holgersen dachte nach … Ich glaube Olympia-Theater …
+Der Direktor war ein indischer Gaukler, - er hieß … hieß…
+ja — Arva Matty hieß er … Id schrieb an ihn nach Kopen-
+hagen, wo er wohnen sollte, und zeigte ihm den Tod Ellens
+an, aber der Brief kam als unbestellbar zurüs …
 
-Holgerſen dachte nach .. .,,Ich glaube Olympia-Theater ...
-Der Direktor war ein indiſcher Gaukler, - er hieß ... hieß...
-ja = Arva Matty hieß er ... Id ſchrieb an ihn naß Kopen-
-hagen, wo er wohnen ſollte, und zeigte ihm den Tod Ellens
-an, aber der Brief kam als unbeſtellbar zurüs .
+»Stellten Sie niht Nachforshungen nach diesem Inder
+an?! Er hätte doh vielleicht näheres über die Marvatty an-
+geben können …«
 
-„Stellten Sie niht Nachforſhungen nach dieſem Inder
-an?! Er hätte doh vielleicht näheres über die Marvatty an=
-geben können ...“
+»Die Polizei tat’s — ohne Erfolg …«
 
-„Die Polizei tat's -- ohne Erfolg ...“
+»Idatte die Marvatty innerhalb der Truppe vielleicht
+einen Berehrer?«
 
-„Idatte die Marvatty innerhalb der Truppe vielleicht
-einen Berehrer?“
+»Das iG nicht wüßte …« Und lebhafter: »Sie müssen
+bedenken, Herr Harst, daß iH die Artistin und die anderen
+Künstler nur zweimal gesehen hatte und daß lediglich ein
+Zufall gerade mich zu der Operation zwang …«
 
-„Das iG nicht wüßte ...“ Und lebhafter: „Sie müſſen
-bedenken, Herr Harſt, daß iH die Artiſtin und die anderen
-Künſtler nur zweimal geſehen hatte und daß lediglich ein
-Zufall gerade mich zu der Operation zwang ...“
+»Saben Sie nie die Möglichkeit erwogen, ob hier nicht
+jemand ein trügerisches Spiel aus VNache mit Ihnen treibt?«
 
-„Saben Sie nie die Möglichkeit erwogen, ob hier nicht
-jemand ein trügeriſches Spiel aus VNache mit Ihnen treibt?“
+»Ein. trügerisches8 Spiel ist ausgeschlossen …«
 
-„Ein. trügeriſ<es8 Spiel iſt ausgeſchloſſen ...“
+»War denn Ellen Marvatty gegen Sie, der ihr den
+Arm amputiert, irgendwie aufgebracht? Dies ist doF der
+Kernpunkt des Ganzen. Haßte sie Sie?«
 
-„War denn Ellen Marvatty gegen Sie, der ihr den
-Arm amputiert, irgendwie aufgebrac<t? Dies iſt doF der
-Kernpunkt des Ganzen. Haßte ſie Sie?“
+»Nein … nein … Hm Gegenteil … Das heißt: Sie
+war ja sehr, sehr traurig, aber … aber … von Haß keine
+Rede! Das ist ja gerade das Rätselhafte, das Unbegreif-
+liche …!! Wenn Ellen mich gehaßt hätte, würde der Spuk
+Sinn haben … So aber … ists Unsinn — sinnlos!!«
 
-„Nein ... nein ... Im Gegenteil ... Das heißt: Sie
-war ja ſehr, ſehr traurig, aber ... aber ... von Haß keine
-Rede! Das iſt ja gerade das Rätſelhafte, das Unbegreif=
-liche .. !! Wenn Ellen mich gehaßt hätte, würde der Spuk
-Sinn haben ... So aber .... iſts Unſinn -- ſinnlos!!“
+»Allerdings …! Unsinn — und ausschlaggebend«…«
 
-„Allerdings .. ! Unſinn -- und ausſchlaggebend „..“
+»Wie meinen Sie das, Herr Harst?«
 
-„Wie meinen Sie das, Herr Harſt?“
-
-„IH meine, daß der Inder Arva Matty der Regiſſeur
+»IH meine, daß der Inder Arva Matty der Regisseur
 <@pagebreak/>
-DSDSSSSSSSSS 13 DSSSSSSSSSSSD
+dieses Spuks ist … — Doch zunächst noch 3wei Fragen:
+Wie gelangte die schreibende Hand hier in Berlin in Ihr
+Schlafzimmer? Und wo blieb sie nachher?«
+»Sie kam … aus dem Kacelofen, aus der Tür des
+Kachelofens, und dorthin lief sie auch beide Male SRENE Np Ye
+»Ein etwas unsauberer Eingang, Herr Doktor … —
+EE der Ofen mit Preßkohlen geheizt?«
 
-dieſes Spuks iſt ... =- Do< zunächſt no< 3wei Fragen:
-Wie gelangte die ſchreibende Hand hier in Berlin in Ihr
-Schlafzimmer? Und wo blieb ſie nachher?“
-„Sie kam ... aus dem Kacelofen, aus der Tür des
-Kachelofens, und dorthin lief ſie auch beide Male SRENE Np Ye
-„Ein etwas unſauberer Eingang, Herr Doktor . -
-EE der Ofen mit Preßkohlen geheizt?“
+»Prefohlenasc ist wie Puder …— Meine letzte Frage:
 
-„„Prefohlenaſc iſt wie Puder .. .=- Meine letzte Frage:
+»ee se …
+Harst beugt ’ fich vor, fixiert den Schweden …
+»haben Sie Ellen Dratpaiy geliebt?«
+Holgersen wird EE
+»Wie … kommen … Sie … darauf?« meint er
 
-"ee ſe .
-Harſt beugt ' fich vor, fixiert den Schweden ...
-„haben Sie Ellen Dratpaiy geliebt?“
-Holgerſen wird EE
-„Wie ... kommen ... Sie . . darauf?“ meint er
+»Also Sie haben sie gelieb!! — wurden Sie wieder«
+geliebt?«
 
-„Alſo Sie haben ſie geliebt! -- wurden Sie wieder«
-geliebt?“
+ne Serfen schlägt die Hände vor das Gesicht …
 
-ne Serfen ſchlägt die Hände vor das Geſicht ...
+… ja!« schhluchzt er … »Der Tod … nahm mir das
 
-. ja!“ ſc<hlu<hzt er ... „Der Tod ... nahm mir das
+Liebste … »Und dieser Selbstmord Ellens ist … ein weiteres
+Nätsel …
 
-Liebſte . „Und dieſer Selbſtmord Ellens iſt ... ein weiteres
-Nätſel .
+Er en in sih zusammen …
 
-Er en in ſih zuſammen ...
+Er weint …
 
-Er weint ...
+Weint …
 
-Weint ...
+Ein seelisch gebrochener Wann … —
 
-Ein ſeeliſ< gebro<hener Wann ... -=-
+Harst steht auf, legt ihm die Hand auf die Schulter …
 
-Harſt ſteht auf, legt ihm die Hand auf die Schulter ...
-
-„Doktor, dieſer Spuk iſt Menſc<henwerk ... Ellen Mar»
+»Doktor, dieser Spuk ist Menschhenwerk … Ellen Mar-
 vatty kann ich Ihnen nicht wieder lebendig machen, aber
-= = den Inder werde iH ... unſ<Hädli<r maden und
-Ihnen Ihre Ruhe wiedergeben ... Faſſen Sie ſich, Doktor!“
+— — den Inder werde iH … unschHädlichr maden und
+Ihnen Ihre Ruhe wiedergeben … Fassen Sie sich, Doktor!«
 
-Holgerſen erhebt ſiHh und geht zum Fenſter, bleibt dort
-mit dent Rücken nah uns hin ... Er ſchämt ſich ſeiner
-Tränen ..
+Holgersen erhebt siHh und geht zum Fenster, bleibt dort
+mit dent Rücken nah uns hin … Er schämt sich seiner
+Tränen …
 <@pagebreak/>
-2SDSEDBEDSDE 14 2000000000028
 
-Sarald ſGaut miH an. Ganz merkwürdig ... Dann ums=
-faßt er mit der Linken ſein rechtes Ellenbogengelenk und
-ſchüttelt den Kopf ...
+Sarald sGaut miH an. Ganz merkwürdig … Dann ums-
+faßt er mit der Linken sein rechtes Ellenbogengelenk und
+schüttelt den Kopf …
 
-Id) verſtehe ihn nicht.
+Ich verstehe ihn nicht.
 
-Er lächelt ... ein Siegerläceln ...
+Er lächelt … ein Siegerläceln …
 
-Holgerſen dreht ſih um.
+Holgersen dreht sih um.
 
-„Was wollen Sie tun, Herr Harſt?“ fragt er mit feſter
-Stimme ...
+»Was wollen Sie tun, Herr Harst?« fragt er mit fester
+Stimme …
 
-„IH will ... Sven Holgerſen ſpielen ... Gut, daß Sie
-eine Brille und einen Spitzbart tragen und bei dieſem .
-Sauweiter zu uns kamen ... -- Dürfte ihm Sie in unjeren
-Garderobenraum bitten ... In einer halben Stunde werde
-ji& Ihnen ſo ähnlich ſehen, das Sie verblüfft ſein werden.
-Danu werde iG Ihre Wohnung aufſuchen ... Sie bleiven hier
--- als Harſt ... Schraut wied Sie zurechſtugzen ... Hier
-wird der Arm der Marvatty Sie nicht beläſtigen. Für
-I3hxe Wirtin geben Sie mir ein paar Zeilen mit ... Was
-iit die Frau?“
+»IH will … Sven Holgersen spielen … Gut, daß Sie
+eine Brille und einen Spitzbart tragen und bei diesem …
+Sauweiter zu uns kamen … — Dürfte ihm Sie in unjeren
+Garderobenraum bitten … In einer halben Stunde werde
+ji& Ihnen so ähnlich sehen, das Sie verblüfft sein werden.
+Danu werde iG Ihre Wohnung aufsuchen … Sie bleiven hier
+— als Harst … Schraut wied Sie zurechstugzen … Hier
+wird der Arm der Marvatty Sie nicht belästigen. Für
+I3hxe Wirtin geben Sie mir ein paar Zeilen mit … Was
+iit die Frau?«
 
-„Witwe eines Sanitätsrats, eine feine, ſiille Dame,
-aber arm, ſo arm ...“
+»Witwe eines Sanitätsrats, eine seine, siille Dame,
+aber arm, so arm …«
 
-„Ulſo dann vorwärts .. ! Wit dieſem Inder werden wir
-fehx jc<hnell abrechnen ...“ =
+»Ulso dann vorwärts …! Wit diesem Inder werden wir
+fehx jchhnell abrechnen …« —
 
 Abrechnen?!
 
-Sas hatte noFG aute Wege ...
+Sas hatte noFG aute Wege …
 
-Hier ſtimmte Zurald8 Rechnung nicht ganz ... = =
+Hier stimmte Zurald8 Rechnung nicht ganz … — -
 
-Eine Stunde drauf war Harſt in Holgerſens Kleidern als
-Holgerſen iin ſtröinenden Regen davongegangen,
+Eine Stunde drauf war Harst in Holgersens Kleidern als
+Holgersen iin ströinenden Regen davongegangen,
 
-Ueber den Reſt dieſes Tages habe ich nichts Weſent»
-liches zu berichten. Sven Holgerfen war ein ſehr angenehnier
-Hausgenoſſe, der auc Haralds Mutier jehr gefiel. Nur blieb'
-der Doktor ſehr ſtill und bedrüt, und abends merkte ich es
-ihm unijd;wer an, daß er ſiH vor dem geſpenſtiſ<en Arm
-auh hier in unſerem Heim nicht ſicher fühlte. IM machie
-ihm daher den Vorſchlag, in meinem Arbeit8zimmer auf dem
+Ueber den Rest dieses Tages habe ich nichts Wesent-
+liches zu berichten. Sven Holgerfen war ein sehr angenehnier
+Hausgenosse, der auc Haralds Mutier jehr gefiel. Nur blieb’
+der Doktor sehr still und bedrüt, und abends merkte ich es
+ihm unijd;wer an, daß er siH vor dem gespenstischen Arm
+auh hier in unserem Heim nicht sicher fühlte. IM machie
+ihm daher den Vorschlag, in meinem Arbeit8zimmer auf dem
 <@pagebreak/>
-PEGHGDSEDDEDS 15 SEODBDSSDISDIEED
-
-Diwan zu ſchlafen. Er war hierüber ſichtlich erfreut, und
+Diwan zu schlafen. Er war hierüber sichtlich erfreut, und
 als wir gegen zehn Uhr zur Ruhe gingen (Harald hatte
-inzwiſHen auch telephoniſc) nicht8 von ſich hören laſſen),
-ließ ic ſowohl in meinem Schlafzimmer für alle Fälle
-Licht brennen al8 au<4 die VBerbindungstür weit offen.
+inzwisHen auch telephonisch nicht8 von sich hören lassen),
+ließ ic sowohl in meinem Schlafzimmer für alle Fälle
+Licht brennen al8 auch4 die VBerbindungstür weit offen.
 
-Holgerſen las noch eine halbe Stunde. Dann legte er
-das Buc) weg, ſchlu>te eine Tablette und drehte ſich der
+Holgersen las noch eine halbe Stunde. Dann legte er
+das Buch weg, schluckte eine Tablette und drehte sich der
 Wand zu. Der Diwan war von meinem Bett aus genau 31
-ſehen. 3
-I<h hielt mi<ß mit Gewalt wah. IH hatte jetzt das
-beſtimmte Gefühl, daß ſich irgend etwas ereignen würde. Ie
+sehen.
+Ich hielt michß mit Gewalt wah. IH hatte jetzt das
+bestimmte Gefühl, daß sich irgend etwas ereignen würde. Ie
 fänger ich, nach alter übler Gewohnheit eine Zigarre raus
-hend und in dem neueſten Heft der Zeitjhriſt jür inter=
-nationale Polizeikunde blätternd, aufgeſtüßt da lag, deſto
-munterer wurde ic. Meine Nerven, durch die ſtete, halb
-unbewußte geiſtige Beſchäftigung mit Holgerſeus Erlebniſſen
-etwas überreizt, ließen mich allerlei Geräuſche vernehmen, die
-wohl nur in meiner Einbildung entſtanden. I< war in jenem
-ſeltjamen Zuſtand von Ueberempfindiichkeit, der zum Beiſpiel
-VNeuraſiheniker die ſchwächſten Geräuſche wahrnehmen läßt,
-eine krankhafte Erſcheinung, die auch in anderer At ſich
-äußert. JZedenfallz: I4 wartete unausgeſezt auf irgend
-etwas ...
+hend und in dem neuesten Heft der Zeitjhrist jür inter-
+nationale Polizeikunde blätternd, aufgestüßt da lag, desto
+munterer wurde ic. Meine Nerven, durch die steckte, halb
+unbewußte geistige Beschäftigung mit Holgerseus Erlebnissen
+etwas überreizt, ließen mich allerlei Geräusche vernehmen, die
+wohl nur in meiner Einbildung entstanden. Ich war in jenem
+seltjamen Zustand von Ueberempfindiichkeit, der zum Beispiel
+VNeurasiheniker die schwächsten Geräusche wahrnehmen läßt,
+eine krankhafte Erscheinung, die auch in anderer At sich
+äußert. JZedenfallz: I4 wartete unausgesezt auf irgend
+etwas …
 
-Das ferne erſte Grollen eines heraufziehenden Gewitiers8,
-die elektriſ<e Spannung in der Luft und dort drüben der
-leiſe ſc<hnardchende Holgerſen: IG zündete mir eine neue
-Zigarre an und legte die Clementpiſtole entſihert auf das
-Nachtiiſche<en,
+Das ferne erste Grollen eines heraufziehenden Gewitiers8,
+die elektrische Spannung in der Luft und dort drüben der
+leise schhnardchende Holgersen: IG zündete mir eine neue
+Zigarre an und legte die Clementpistole entsihert auf das
+Nachtiischechen,
 
-Nun mochte kommen, was da wollte ...
+Nun mochte kommen, was da wollte …
 
-Und = -- & fam...
+Und — — & fam …
 <@pagebreak/>
-DSSDSDSSDESSEBOS 16 DSE 0205080 0000
 
-3. Kapitel.
-Die ſchreibende Hand.
+<h2>3. Kapitel.</h2>
+<h3>Die schreibende Hand.</h3>
 
-Wenn meine Leſer und Freunde ſich dur< die Ueber»
-ſchrift dieſes dritten Kapitels zu falſchen Schlüſſen über
-deſſen Inhalt verleiten laſſen, ſo iſt's niht meine Schuld.
+Wenn meine Leser und Freunde sich durch die Ueber-
+schrift dieses dritten Kapitels zu falschen Schlüssen über
+dessen Inhalt verleiten lassen, so ist’s niht meine Schuld.
 
-Ti Geſpenſterarm ha b e ich geſehen, aber nicht in dieſer
+Ti Gespensterarm ha b e ich gesehen, aber nicht in dieser
 Na
 
-Die ſchreibende Hand ſah ich in dieſer Nacht vom
+Die schreibende Hand sah ich in dieser Nacht vom
 vierzehnten zum fünfzehnten Mai, genau um 12 Uhr dreißig
 Minuten.
 
-Das Gewitter kam von Weſten, 30g jedoH um die Vor=
-orte herum und begnügte ſi<h mit ein paar dröhnenden
+Das Gewitter kam von Westen, 30g jedoH um die Vor-
+orte herum und begnügte sich mit ein paar dröhnenden
 Schlägen.
 
-IH hatte gerade die Zeitſhrift weggelegt und nach
-Megrink8s neueſtem Noman „Der Engel vom weſtlichen
-Fenſter “ gegriffen, al8 ein Geräuſch mich aufbliFXen ließ.
+IH hatte gerade die Zeitshrift weggelegt und nach
+Megrink8s neuestem Noman »Der Engel vom westlichen
+Fenster « gegriffen, al8 ein Geräusch mich aufbliFXen ließ.
 
-Holgerſen ſaß aufreht auf ſeinem Lager -- mit ge=
-ſchloſſenen Augen.
+Holgersen saß aufreht auf seinem Lager — mit ge-
+schlossenen Augen.
 
-Eine geraume Weile ...
+Eine geraume Weile …
 
-Dann erhob er ſi<h. Seine Bewegungen hatten dabei
+Dann erhob er sich. Seine Bewegungen hatten dabei
 etwas Rudartiges, Unnatürliches, das geradezu an einen
 durFg ein Uhrwerk betriebenen Automaten erinnerte. Die
-Augen blieben ebenſo ſeltſamer Weiſe geſchloſſen, und doh
-fand er ſic im Zimmer tadellos zurecht, gleihſam als ob
+Augen blieben ebenso seltsamer Weise geschlossen, und doh
+fand er sie im Zimmer tadellos zurecht, gleihsam als ob
 ihm das Sehvermögen auf ein anderes Organ übergegangen
-wäre. Daß er im Tiefſchlaf ſiH befand, daß alſo ein Falk
+wäre. Daß er im Tiefschlaf siH befand, daß also ein Falk
 <@pagebreak/>
-2D2S2SEDSSDSDSSS 17 2000203020022 02
-
-von Schlafwandeln vorlag, erkannte ich erſt, als ich ganz
-Leiſe ins Arbeit3zimmer ſ<HliHh und ihn nun aus nächſter
+von Schlafwandeln vorlag, erkannte ich erst, als ich ganz
+Leise ins Arbeit3zimmer schHliHh und ihn nun aus nächster
 Nähe beobachtete.
 
-Was er tat, war ſo überraſchend, ſo unerklärlih und
-Dennoch fo vielſagend, daß ich in einer Art Erſtarrung da
-Band und mit ungläubigſtem Staunen ſein Treiben wie
+Was er tat, war so überraschend, so unerklärlih und
+Dennoch fo vielsagend, daß ich in einer Art Erstarrung da
+Band und mit ungläubigstem Staunen sein Treiben wie
 einen unheimlihen Traum hinnahm.
 
-Er hatte ſeine Kleider oder beſſer Haralds Anzug, denn
-die beiden hatten ja die Rollen vollkommen gewechſelt, auf
-einen Stuhl am Fußende des Bettes gelegt. Er ſuchte aus
-feiner Brieftaſche jetzt ein Rezeptformular hervor, ebenſo aus
-der Weſte einen Bleiſtift mit ſilberner, ziſelierter
-- fg e, legte das Rezept auf den Screibtiſch, ging zum
+Er hatte seine Kleider oder besser Haralds Anzug, denn
+die beiden hatten ja die Rollen vollkommen gewechselt, auf
+einen Stuhl am Fußende des Bettes gelegt. Er suchte aus
+seiner Brieftasche jetzt ein Rezeptformular hervor, ebenso aus
+der Weste einen Bleistift mit silberner, ziselierter
+- fg e, legte das Rezept auf den Screibtisch, ging zum
 
-en...
+en …
 
-Was dann geſ<ah, war einfach unfaßbar ...
+Was dann geschah, war einfach unfaßbar …
 
-Er dukte ſich, legte die Hände (den Bleiſtift hatte er
-Zwiſchen die Finger der rechten Hand geklemmt) flac auf den
-Parkettboden =- ein Shwung, und er kam in den Hand-
+Er dukte sich, legte die Hände (den Bleistift hatte er
+Zwischen die Finger der rechten Hand geklemmt) flac auf den
+Parkettboden — ein Shwung, und er kam in den Hand-
 Hand, beugte die Beine nach rüdwärts8 und begann in
-dieſer Stellung auf den Screibtiſ<; zuzugehen -=- auf
-den Händen, Beine und Numpf nach hinten geſtre&>t, alſo ein
-Kunſtſtü&, das nur ein Parterreakrobat fertig bringt.
+dieser Stellung auf den Screibtisch; zuzugehen — auf
+den Händen, Beine und Numpf nach hinten gestre&ckt, also ein
+Kunststü&, das nur ein Parterreakrobat fertig bringt.
 
-Das -- ja, das Grauenvollſte, Verwirrendſte bei alledem
+Das — ja, das Grauenvollste, Verwirrendste bei alledem
 war, daß er, da er einen Schlafanzug von Harald trug, der
 gelbweiß und mit dunkelgelber Seidenborte auH unten an
-den Beinkleidern eingefaßt war, für einen in ſeine Spuk«
-erlebniſſe Eingeweihten ungefähr dem laufenden Arm
-der Marvatty glich...
+den Beinkleidern eingefaßt war, für einen in seine Spuk«
+erlebnisse Eingeweihten ungefähr dem laufenden Arm
+der Marvatty glich …
 
-Mit Recht ...
+Mit Recht …
 
-Denn jetzt kletterte er auf den Screibſeſſel, ſchaltete die
-Screibtiſhlampe ein und ... begann zu ſchreiben, Buchſtaben
-auf das Formular zu malen ...
+Denn jetzt kletterte er auf den Screibsessel, schaltete die
+Screibtishlampe ein und … begann zu schreiben, Buchstaben
+auf das Formular zu malen …
 <@pagebreak/>
-2B2DDE080EB0E30E8SL22DS 18 28208 EGDdSSE080022
-IH ſ<haute ihm über die „ZI Er ſchrieb das Wort
+IH schaute ihm über die »ZI Er schrieb das Wort
 
 e,
-und es glich Strich für Strich jenen Aufſchriften der acht
+und es glich Strich für Strich jenen Aufschriften der acht
 anderen Zeitel!
 
 Und all das tat er zweifellos ohne eine Ahnung vo
-ſeinem Treiben zu haben ...
+seinem Treiben zu haben …
 
-Genau dasſelbe Programm wikelte er nun naß rückwärt2
-ab: löſchte die Lampe, kletterte vom Stuhl, ging auf den
+Genau dasselbe Programm wikelte er nun nach rückwärt2
+ab: löschte die Lampe, kletterte vom Stuhl, ging auf den
 Händen zum Ofen, nahm hier wieder aufrehte Haltung ein,
-packte den Bleiſtift in die Weſte zurüs, und legte ſich nieder,
+packte den Bleistift in die Weste zurüs, und legte sich nieder,
 
-Auf dem Screibtiſjh aber war der Zettel zurücſge«
+Auf dem Screibtisjh aber war der Zettel zurücsge«
 blieben:
 
 Rache!
-war geſpannt, ob ſic nun auch das ereignen
-würde, wa8 ich nach dem Borausgegangenen unſchwer ver»
+war gespannt, ob sie nun auch das ereignen
+würde, wa8 ich nach dem Borausgegangenen unschwer ver-
 muten konnte.
 
-AuH ich ſuhte mein Bett wieder auf und wartete.
+AuH ich suhte mein Bett wieder auf und wartete.
 
-Nicht lange ...
+Nicht lange …
 
-Holgerſen ſchnarc<hte .
+Holgersen schnarchhte …
 
-Fuhr plößlich mit leiſem Schrei empor . . Seine weit
-aufgeriſſenen Augen ſtierten zum Ofen hin .
+Fuhr plößlich mit leisem Schrei empor … Seine weit
+aufgerissenen Augen stierten zum Ofen hin …
 
-„Die ... Hand!“ kreiſchte er ... „Herr SHrauti, x
-HUYD: 5-55 "DET. AÜ 5 55 DiE 5 5 DE 1555: DAU WW gie
+»Die … Hand!« kreischte er … »Herr SHrauti,
+HUYD: 5-55 »DET. AÜ 5 55 DiE 5 5 DE 1555: DAU WW gie
 
-Er 'drehte den Kopf, als ob er den Weg, den die
-laufende Hand nahm, verfolgte ... bis zum Schreibtiſch.
+Er ’drehte den Kopf, als ob er den Weg, den die
+laufende Hand nahm, verfolgte … bis zum Schreibtisch.
 
-IG aber ſah ni<ht8 von dem Arm der Marvattzy,
-nichts. Ic) ... wußte jetzt, was der Spuk zu bedeuten hatte,
-IH tat, als ob im zu ſchlaftrunken wäre, mich ſofort hoch»
-zurappeln. Erſt als die Zand -=- ſcheinbar -- wieder zum
-Ofen zurücgekehrt war, ider iM an den Diwan heran und
-ſezte mich, nahm des zitternden Doktors Hände in die meinew
-und ſagte begütigend: „Sie ſind das Opfer einer Selbſt»
-täuſHung, Sie jind ein Schlafwandler, lieber Hotgzerſeu.
-Sie ſelbſt ſchreiben die Zettel. IG habe Sie beobachtet ...“
+IG aber sah nicht8 von dem Arm der Marvattzy,
+nichts. Ich … wußte jetzt, was der Spuk zu bedeuten hatte,
+IH tat, als ob im zu schlaftrunken wäre, mich sofort hoch-
+zurappeln. Erst als die Zand — scheinbar — wieder zum
+Ofen zurücgekehrt war, ider ich an den Diwan heran und
+sezte mich, nahm des zitternden Doktors Hände in die meinew
+und sagte begütigend: »Sie sind das Opfer einer Selbst-
+täusHung, Sie jind ein Schlafwandler, lieber Hotgzerseu.
+Sie selbst schreiben die Zettel. IG habe Sie beobachtet …«
 <@pagebreak/>
-2DE0EE2ISEEOEBSOEE 19 DSOSOEEOSELI0DE0IS
 
 34 erklärte ihm alles bis ins einzelne, aber er blieb
-ungläubig, bis ich aus ſeiner Weſte den Bleiſtift herauss=
-nahm ...
+ungläubig, bis ich aus seiner Weste den Bleistift herauss-
+nahm …
 
-Da erbleichte er ...
+Da erbleichte er …
 
-In die ſilberne Hülſe war, wie wir nun ſahen, ſehr
-zierlic) der Name Ellen Marvatty eingraviert.
+In die silberne Hülse war, wie wir nun sahen, sehr
+zierlich der Name Ellen Marvatty eingraviert.
 
-Holgerſen lächelte verzerrt, atmete aber trozdem erleichtert
-auf ... „Gott ſei Dank ... Alſo das iſt's: Traumwandeln!1!
+Holgersen lächelte verzerrt, atmete aber trozdem erleichtert
+auf … »Gott sei Dank … Also das ist’s: Traumwandeln!!!
 Wun, vogegen gibt es Miitel. IM werde mir eine Bütte
-mit Waſjer vor mein Bett ſtellen, dann erwache ich, ſobald
-ich das Bett verlaſſen will und mit den nackien Füßen im
-das Walſjer trete. -- Goit ſei Dank ..! Alſo na- Terven!!“
+mit Wasjer vor mein Bett stellen, dann erwache ich, sobald
+ich das Bett verlassen will und mit den nackien Füßen im
+das Walsjer trete. — Goit sei Dank …! Also na- Terven!!«
 
-„Allerdings!“ lachte ich. „Sie ſelbſt ſind die „jſHreibende
-Sand,“ und alles andere haben Sie ſich nur einzebildet.
-Seien Sie froh, der Spuk iſt geklärt. Vun wollen wir ſofort
-Harſt anrufen, der jiH ja das Telephon ans Beit jtelleu
-wollte ...“ '
+»Allerdings!« lachte ich. »Sie selbst sind die »jsHreibende
+Sand,« und alles andere haben Sie sich nur einzebildet.
+Seien Sie froh, der Spuk ist geklärt. Vun wollen wir sofort
+Harst anrufen, der jiH ja das Telephon ans Beit jtelleu
+wollte …«
 
-Ih telephonierte, bekam au< ſofort Verdindung. Harald
-meldete ſid. I<h teilte ihm das Geſchehene mit, und er
-erflärie, daß er unter dieſen Umſtänden ſofort heimkehren
+Ih telephonierte, bekam auch sofort Verdindung. Harald
+meldete sid. Ich teilte ihm das Geschehene mit, und er
+erflärie, daß er unter diesen Umständen sofort heimkehren
 würde, während Holgerfen dann ebenfalls jeine Wohnung
-wieder aufſuchen könnte.
+wieder aufsuchen könnte.
 
 Eine halbe Stunde darauf, gegen halb zwei morgens,
-war er bei uns3, drückte Holgerſen die Hand, gratulierte ihm
-und meinte, dieſen Ausgang hätte er niemals erwartet,
-er ſei feſt überzeugt geweſen, daß der Inder Urva Matity
-hier den Regiſſeur ſpielte ...
+war er bei uns3, drückte Holgersen die Hand, gratulierte ihm
+und meinte, diesen Ausgang hätte er niemals erwartet,
+er sei fest überzeugt gewesen, daß der Inder Urva Matity
+hier den Regisseur spielte …
 
-„Denn, lieber Dokior, zwiſHen Ellen Marvatty und
+»Denn, lieber Dokior, zwisHen Ellen Marvatty und
 Arva Maity muß es irgendwelHe Beziehungen gegebe
-daben. Beachten Sie die Namen: Marvatty -- = Arva
+daben. Beachten Sie die Namen: Marvatty — — Arva
 
-Matiy!'
-Holgerjen wiederholte ſinnend:
-„„«Mectva . „. Q7v4 . ,. Matty, = =- daß mir dies
+Matiy!’
+Holgerjen wiederholte sinnend:
+»«Mectva … «. Q7v4 … Matty, — — daß mir dies
 
-niht längſt aufgefallen iſt!1“
+niht längst aufgefallen is!!!«
 <@pagebreak/>
-DD0SDSHSSDSSDOSD 9) 0200208002002 000
 
-„Schraut hat es ebenfalls nicht beachtet, -- tröſten Sie
-ſiH! -- Und nun werden Sie hoffentlich in Ihrer Wohnung
-bis in den Vormittag hineinſchlafen ... Meine Maske iſt
-überflüſſig geworden. Tauſchen wir alſo die Anzüge zurü>.“.
+»Schraut hat es ebenfalls nicht beachtet, — trösten Sie
+siH! — Und nun werden Sie hoffentlich in Ihrer Wohnung
+bis in den Vormittag hineinschlafen … Meine Maske ist
+überflüssig geworden. Tauschen wir also die Anzüge zurück.«.
 
-Um zwei Uhr verließ Holgerſen unſer Haus.
+Um zwei Uhr verließ Holgersen unser Haus.
 
-Die Geſchihte des Arms der Marvatty ſchien erledigt.
-IH hatte den Logiergaſt bis an die Vorgartenpforte geleitet,
-hatte ihm nochmals die Hand gedrü>t und nochmal3 ein
+Die Geschihte des Arms der Marvatty schien erledigt.
+IH hatte den Logiergast bis an die Vorgartenpforte geleitet,
+hatte ihm nochmals die Hand gedrückt und nochmal3 ein
 paar warmherzige Danke8worte von ihm vernommen. Schnell
-und elaſtiſch war er davongeſchritten wie einer, der wieder
+und elastisch war er davongeschritten wie einer, der wieder
 jung geworden.
 
-I<h kehrte ebenſo froh in Haralds Arbeit8zimmer zurü.
-Ich fand meinen Freund am Kamin in ſeinem Lieblingsſeſſel
-vor, die Füße gegen den mächtigen naturaliſierten Kopf des
-Bärenfelles geſtüßt, in der Linken die glimmende Mirakulum,
+Ich kehrte ebenso froh in Haralds Arbeit8zimmer zurü.
+Ich fand meinen Freund am Kamin in seinem Lieblingssessel
+vor, die Füße gegen den mächtigen naturalisierten Kopf des
+Bärenfelles gestüßt, in der Linken die glimmende Mirakulum,
 in der Rechten aber das neunte, heutige Rezeptformular,
-vor ſi< auf dem Rauchtiſc) ausgebreitet die übrigen aht.
+vor sich auf dem Rauchtisch ausgebreitet die übrigen aht.
 
-Bei meinem Eintritt blikte er auf und ſagte in ſeiner
-unnachahmli<h gleichgültigen Art: „Du haſt doH natürlich
-ebenfalls bemerkt, daß dieſe8 neunte „Nache'' niemal8 von
-derſelben Hand geſchrieben iſt wie die übrigen a<t Worte
-auf den anderen Zetteln, oder 'beſſer ausgedrüFt: Die acht
+Bei meinem Eintritt blikte er auf und sagte in seiner
+unnachahmlich gleichgültigen Art: »Du hast doH natürlich
+ebenfalls bemerkt, daß diese8 neunte »Nache’’ niemal8 von
+derselben Hand geschrieben ist wie die übrigen acht Worte
+auf den anderen Zetteln, oder ’besser ausgedrüFt: Die acht
 Formulare füllte Arva Matty aus, und nur dies neunte
-Arva Mattys Opfer.“
+Arva Mattys Opfer.«
 
-IH war an der Tür ſtehen geblieben. Dieſe Eröffnung
-traf mig wie ein Blitßſ<hlag aus heiterem Himmel. Die
-Tragweite deſſen, was Harſt da ſoeben behauptet hatte,
-war ja geradezu kataſtrophal!
+IH war an der Tür stehen geblieben. Diese Eröffnung
+traf mig wie ein Blitzschlag aus heiterem Himmel. Die
+Tragweite dessen, was Harst da soeben behauptet hatte,
+war ja geradezu katastrophal!
 
-. Bitte, vergleiche nur ... die Handſchriften ähneln
-jich, | ' gewiß. Aber img habe im ganzen acht Verſchieden=
-deien feſtgeſtellt, die wichtigſte davon iſt die Kugelſchleife
-beim a ..! -- Biſt du wirklih ſo ſehr Überraſcht, mein
-Alter? Deine Telephonmeldung beſagte mir nicht3 Neues,
-nachdem i< bei der Frau Sanitätscat Koppel, Sohen=
+… Bitte, vergleiche nur … die Handschriften ähneln
+jich, ! ’ gewiß. Aber img habe im ganzen acht Verschieden-
+deien festgestellt, die wichtigste davon ist die Kugelschleife
+beim a …! — Bist du wirklih so sehr Überrascht, mein
+Alter? Deine Telephonmeldung besagte mir nicht3 Neues,
+nachdem ich bei der Frau Sanitätscat Koppel, Sohen-
 <@pagebreak/>
-DSSODOSDSSDSSDOSS 91 0200020E2D0DSSDDID0SDS
-
-zollerndamm 98, einen zweiten Untermieter ſchon nachmittags
-als ſtark verdächtig aufs Korn genommen, einen ägyptiſchen
+zollerndamm 98, einen zweiten Untermieter schon nachmittags
+als stark verdächtig aufs Korn genommen, einen ägyptischen
 Studenten namens Mamuth Kardir, der das Zimmer neben
-Holgerſens Schlafzimmer inne hai, Der Mann fiel mir auf,
-da er am Fenſter ſtand, als id); da8 Hau8 na<h kurzem
-AusSgang, dur<g meinen Regenſchirm gede>t, betrat und als ich
-ihn lächeln ſah. E8 war das höhniſc<e Grinſen eines Menſen,
-der meiner ſpoitete, gleichzeitig das verächtliche eines ge=
-fährlichen, ſeibſtbewußten Orientalen, Ein paar vorſichtige
+Holgersens Schlafzimmer inne hai, Der Mann fiel mir auf,
+da er am Fenster stand, als ich; da8 Hau8 nach kurzem
+AusSgang, durchg meinen Regenschirm gedeckt, betrat und als ich
+ihn lächeln sah. E8 war das höhnische Grinsen eines Mensen,
+der meiner spoitete, gleichzeitig das verächtliche eines ge-
+fährlichen, seibstbewußten Orientalen, Ein paar vorsichtige
 Fragen, die mir die Koppel ahnungslos beantwortete,
-brachte über die LebenS38weiſe dieſes braunen Aegypters, viel
-zu braun für die ſchmußige Erdfarbe der meiſten Bewohner
-des Nilreiche8, ſo viel Widerſpruchs8volleZ an den Tag,
-daß ic< mich veranlaßt fühlte, ſeine abendliche Abweſenheit
-zu einem Beſuh in ſeinem Zimmer zu benuten, wo ich
-allerdings nichts Belaſtendes fand, aber eine kleine Ber-
+brachte über die LebenS38weise dieses braunen Aegypters, viel
+zu braun für die schmußige Erdfarbe der meisten Bewohner
+des Nilreiche8, so viel Widerspruchs8volleZ an den Tag,
+daß ich mich veranlaßt fühlte, seine abendliche Abwesenheit
+zu einem Besuh in seinem Zimmer zu benuten, wo ich
+allerdings nichts Belastendes fand, aber eine kleine Ber-
 änderung zurücließ: ein Lo& in der Tür, gerade groß
-genug, das Zimmer „vom Flur überſhauen zu können --
+genug, das Zimmer »vom Flur übershauen zu können —
 ein Löhlein, in der EFXe der unteren Füllung gebohrt.
-E38 hat mir gute Dienſte geleiſtet. Dieſes Gukloh ließ mich
-nachher ahnen, was ſich hier bei un3 abſpielte ...'
+E38 hat mir gute Dienste geleistet. Dieses Gukloh ließ mich
+nachher ahnen, was sich hier bei un3 abspielte …’
 
-BisSher hatte iH zu alledem geſchwiegen. Aber dieſe
-lezte Bemerkung forderte doH meinen Widerſpruch heraus.
-„Entſ<uldige ſhon," meinte ic und nahm nun gleichfalls
-Platz, „ein Gu>loH in einer Tür in einem Hauſe, das von
-unſerem Heim gut tauſend Meter entfernt liegt, zeigte dir
-die Vorgänge in meinem Arbeitszimmer?! Das verſtehe ich
-nicht.“
+BisSher hatte iH zu alledem geschwiegen. Aber diese
+lezte Bemerkung forderte doH meinen Widerspruch heraus.
+»Entschuldige shon,« meinte ic und nahm nun gleichfalls
+Platz, »ein GuckloH in einer Tür in einem Hause, das von
+unserem Heim gut tausend Meter entfernt liegt, zeigte dir
+die Vorgänge in meinem Arbeitszimmer?! Das verstehe ich
+nicht.«
 
-„IH ſagte nicht „zeigte“, mein Alter, ſondern „ließ
-mich ahnen“, und das iſt ein gewaltiger Unterſchied. =
-I<h will dir'8 erklären ... Der Aegypter kam um Mitternacht
-heim. Zehn Winuten ſpäter kauerte iH vor dem GudFloH
-im dunklen Flur. „Der Braune hatte nur die Screibtiſch-
-lampe brennen. Er holte aus ſeinem Koffer eine indiſche
+»IH sagte nicht »zeigte«, mein Alter, sondern »ließ
+mich ahnen«, und das ist ein gewaltiger Unterschied. -
+Ich will dir’8 erklären … Der Aegypter kam um Mitternacht
+heim. Zehn Winuten später kauerte iH vor dem GudFloH
+im dunklen Flur. »Der Braune hatte nur die Screibtisch-
+lampe brennen. Er holte aus seinem Koffer eine indische
 <@pagebreak/>
-DDESEBESPEESCVDISSE 595) 4»«AE2EDLSDD>EHDPL>L>G>
-
-Räucherſchale hervor, ſchüttete ein Pulver hinein und ent«-
-zündete es mit einem Streichholz. Es brannte mit fahl»
-violetter Flamme und entwickelte ſtarken Qualm. Der Acayp-
+Räucherschale hervor, schüttete ein Pulver hinein und ent«-
+zündete es mit einem Streichholz. Es brannte mit fahl-
+violetter Flamme und entwickelte starken Qualm. Der Acayp-
 ter kniete nieder, beugte den Kopf in den Rauh hinein und
-bewegte dauernd die Lippen, als ob er betete -- oder
-eſichwörungsformeln murmelte. Dies dauerte recht lange.
-Dann erhob er ſich ... und ging zum Diwan, legte ſich
-nieder und ſchien einzuſchlafen. Ja>e und Weſte hatte er
+bewegte dauernd die Lippen, als ob er betete — oder
+esichwörungsformeln murmelte. Dies dauerte recht lange.
+Dann erhob er sich … und ging zum Diwan, legte sich
+nieder und schien einzuschlafen. Jacke und Weste hatte er
 
-auf einen Stuhl neben den Diwan gelegt. = Eine U79)* im
-Wohnzimmer der Sanitätsrätin ſchlug halb eins. Da richtete
-der Aegypter ſih mit einem Ru&F auf ... Eninahm ſeiner»
+auf einen Stuhl neben den Diwan gelegt. — Eine U79)« im
+Wohnzimmer der Sanitätsrätin schlug halb eins. Da richtete
+der Aegypter sih mit einem Ru&F auf … Eninahm seiner-
 
-Weſtentaſche einen Bleiſtift mit ſilberner Züljs und ſeiner
-Brieftaſche einen länolichen Zettel, ein Rezep:formufar, und
-dieſe8 legte er auf den Schreibtiich am Fenſter, während er
-mit dem Bleiſtift zum Ofen ging und hier zu meinem
-Erſtaunen ſehr geſchi&t einen Sandſtand mit zurü&zebeugien
-Beinen verſuchte und in dieſer Stellung zum Schreibtiſch
-lief -- lief wie der ſchreibende Arm!! Nuch die Körper»
-haltung entſprach cinem Arm, der auf den Fingern läuft...
-- Was weiter folgte, brauc<e ich dir niht zu erzählen:
-Der Aegypter ſhrieb etwas auf den Zettel, lief zum Ofen
-zurüd, richtete ſich hier auf und ging zum Diwan, ſchien
-wieder zu ſchlafen. = Nicht lange ... dann ſäre>te er
-hoy, ſtieß einen leiſen Schrei aus und rief: „Die Hand!!t“,
--- deutſch rief er's, genau wie Holgerſen es drüben bei
-dir tat. Und genau ſo folgten diejem erjten Ausruf die
-Worte: „FSerr Schraut, ... die Hand .,. der Arm... da...
-da ... läuft er ...“ = Within tat der Braune ganz
-genau dasſelbe, was der Schwede hie? bei uns ſcheinbar
-al8 Somnambuie tat ... Nur vaß der Aegypter na dieſen
-an dich gerichteten Worten taumelnd zur Räucherſchale zurück»
-kehrte, in der das Pulver noh ſ<wellte, und wiederum
-niederkniete und den Rauch ... einſog, worauf er gleich»
-ſam dur dieſes zweite Einatmen des Bilſenkrautpulver2
+Westentasche einen Bleistift mit silberner Züljs und seiner
+Brieftasche einen länolichen Zettel, ein Rezep:formufar, und
+diese8 legte er auf den Schreibtiich am Fenster, während er
+mit dem Bleistift zum Ofen ging und hier zu meinem
+Erstaunen sehr geschi&t einen Sandstand mit zurü&zebeugien
+Beinen versuchte und in dieser Stellung zum Schreibtisch
+lief — lief wie der schreibende Arm!! Nuch die Körper-
+haltung entsprach cinem Arm, der auf den Fingern läuft …
+- Was weiter folgte, brauche ich dir niht zu erzählen:
+Der Aegypter shrieb etwas auf den Zettel, lief zum Ofen
+zurüd, richtete sich hier auf und ging zum Diwan, schien
+wieder zu schlafen. — Nicht lange … dann säreckte er
+hoy, stieß einen leisen Schrei aus und rief: »Die Hand!!t«,
+— deutsch rief er’s, genau wie Holgersen es drüben bei
+dir tat. Und genau so folgten diejem erjten Ausruf die
+Worte: »FSerr Schraut … die Hand … der Arm … da …
+da … läuft er …« — Within tat der Braune ganz
+genau dasselbe, was der Schwede hie? bei uns scheinbar
+al8 Somnambuie tat … Nur vaß der Aegypter na diesen
+an dich gerichteten Worten taumelnd zur Räucherschale zurück-
+kehrte, in der das Pulver noh schwellte, und wiederum
+niederkniete und den Rauch … einsog, worauf er gleich-
+sam dur dieses zweite Einatmen des Bilsenkrautpulver2
 <@pagebreak/>
-<< CTOEPSPOEGSO 23 DSSS BEDESEDODID
+— benn das war’s — aus einem ekstatischen Zustand erwachte
+zm die Shale mit Wasser füllte, in den Eimer aus8goß,
+Fenster öffnete und den … Zettel auf dem Shreibtisch,
+uf den er zweifello8 »Rache« geshrieben hatte, mit einem
+zändholz in Vsche verwandelte, worauf er zu Bett ging. -
+Das ist alles …
 
--- benn das war's -- aus einem ekſtatiſ<en Zuſtand erwachte
-zm die Shale mit Waſſer füllte, in den Eimer aus8goß,
-2 Fenſter öffnete und den ... Zettel auf dem Shreibtiſch,
-uf den er zweifello8 „Rache“ geſhrieben hatte, mit einem
-zändholz in Vſche verwandelte, worauf er zu Bett ging. =
-Das iſt alles .
-
-I< hatte mit einer geradezu unerträglichen Spannung
-zugehört. I< begann die Zuſammenhänge zu begreifen.
-Zreſe Erkenntnis war derart, daß ſie auc&ß für uns Gefahr
+Ich hatte mit einer geradezu unerträglichen Spannung
+zugehört. Ich begann die Zusammenhänge zu begreifen.
+Zrese Erkenntnis war derart, daß sie auc&ß für uns Gefahr
 bedeutete.
 
-„Harald,“ ſagte ich ſto>end, „der Aegypter hat durch
-Fernhypnoſe den Doktor gezwungen, genau ſo zu handeln,
-wie er es ſelbſt tat ...? -- ES iſt ſo ..!“
+»Harald,« sagte ich stockend, »der Aegypter hat durch
+Fernhypnose den Doktor gezwungen, genau so zu handeln,
+wie er es selbst tat …? — ES ist so …!«
 
-„Nein.“ Harſt ſchüttelte leit den Kopf. „Nicht Hypnoſe ..
-Indiſche Magiere, ebenſo buvddhiſtiſHe Zauberer nennen dieſe
-Aet von Fernwirkung auf andere „Gara Margim“, was etwa
+»Nein.« Harst schüttelte leit den Kopf. »Nicht Hypnose …
+Indische Magiere, ebenso buvddhistisHe Zauberer nennen diese
+Aet von Fernwirkung auf andere »Gara Margim«, was etwa
 
-„WBechſel des Geiſtes'' bedeutet. Aehnlich23 kannten auch die
-Prieſter der Iſis, und der engliſche Okkultiſt Profeſſor Chat»
-ram behauptet in einer ſeiner Schriften, daß der Beſchwörer
-»ur< das Einatmen des Bilſenfrautes ſein „I<h“ zwingt,
-ie den Leib eines anderen Menſchen „Binelnzu Giepfen
-und dieſen anderen zum Sklaven ſeiner Wünſche und „Ein=
-'"üſterungen“ macht. Ohne Zweifel bin ich in dieſer Nacht
-38 Zeuge einer ſolhen Beſchwörung geweſen. Ich habe bisher
-ie Möglichkeit des „Gara Margim“ angezweiſelt. Iezt glaube
-5) Daran.“
+»WBechsel des Geistes’’ bedeutet. Aehnlich23 kannten auch die
+Priester der Isis, und der englische Okkultist Professor Chat-
+ram behauptet in einer seiner Schriften, daß der Beschwörer
+»urch das Einatmen des Bilsenfrautes sein »Ich« zwingt,
+ie den Leib eines anderen Menschen »Binelnzu Giepfen
+und diesen anderen zum Sklaven seiner Wünsche und »Ein-
+»üsterungen« macht. Ohne Zweifel bin ich in dieser Nacht
+38 Zeuge einer solhen Beschwörung gewesen. Ich habe bisher
+ie Möglichkeit des »Gara Margim« angezweiselt. Iezt glaube
+5) Daran.«
 
-34h, Max Scraut, -- ich fühlte ein Gefühl eiſiger Kälte
-moinen Rüden herabrieſeln ...
+34h, Max Scraut, — ich fühlte ein Gefühl eisiger Kälte
+moinen Rüden herabrieseln …
 
-Grauen war's ... Grauen de8 anmaßenden, Überheb-
-Bczen und doch ſo ... blöden Europäers vor den dunklen
-GSeheimniſſen des Orients.
+Grauen war’s … Grauen de8 anmaßenden, Überheb-
+Bczen und doch so … blöden Europäers vor den dunklen
+GSeheimnissen des Orients.
 <@pagebreak/>
-DSSSSSSSSSSS 5241 0060005050550
 
-4, Kapitel.
-Eine intereſſante Vorleſung.
+<h2>4. Kapitel.</h2>
+<h3>Eine interessante Vorlesung.</h3>
 
-Harſt ni>te mir zu. „Ia -- ich empfand genau dasſjelber
-vor dem GudloH wie du jetzt, mein Alter: Grauen! -- IH
-ahnte, daß dieſer braune Magier den „Wechjel des I<“
-mit Holgerſen vollzog, daß alſo Holgerſen hier bei uns ....
-unbewußt Komödie ſpielte, =- ic< ſag? Komödie, denn dem
-Aegypter lag lediglih daran, dich irrezuführen.“
+Harst nickte mir zu. »Ia — ich empfand genau dassjelber
+vor dem GudloH wie du jetzt, mein Alter: Grauen! — IH
+ahnte, daß dieser braune Magier den »Wechjel des Ich«
+mit Holgersen vollzog, daß also Holgersen hier bei uns …
+unbewußt Komödie spielte, — ich sag? Komödie, denn dem
+Aegypter lag lediglih daran, dich irrezuführen.«
 
-IH hatte mir indeſſen rein mechaniſH eine Zigarre
-angezündet ... Und erwiderte nun, mich gewaltſam dieſem.
-Gefühl ſpukhaften Erlebens entreijend: „Ich verſtehe alles...
-Mamuth Kardir, der Student, iſt der Inder Arva Matty, der
-Gaukler ...“
+IH hatte mir indessen rein mechanisH eine Zigarre
+angezündet … Und erwiderte nun, mich gewaltsam diesem.
+Gefühl spukhaften Erlebens entreijend: »Ich verstehe alles …
+Mamuth Kardir, der Student, ist der Inder Arva Matty, der
+Gaukler …«
 
-„Ganz gewiß! Denn er iſt erſt drei Tage ſpäter als
-Holgerſen zu der Frau Sanitätsrat als Untermieter ge»
-kommen, und der Inhalt ſeiner Koffer iſt auch nicht ver
-eines Aegypters, ſondern eines Inders ...“
+»Ganz gewiß! Denn er ist erst drei Tage später als
+Holgersen zu der Frau Sanitätsrat als Untermieter ge-
+kommen, und der Inhalt seiner Koffer ist auch nicht ver
+eines Aegypters, sondern eines Inders …«
 
-„--. Und er iſt derjenige, der Holgerſen haßt und ver=
-folgt ... Er hat die erſten ac<t Zettel perſönlich geſchrieben
+»—. Und er ist derjenige, der Holgersen haßt und ver-
+folgt … Er hat die ersten acht Zettel persönlich geschrieben
 UNd 5.6.
 
-„Halt, = du gehſt zu leiht über dieſe Dinge hinweg,
-lieber Alter ... Sie ſind durchaus nicht ſo klar, wie du
-denkſt oder -- -- wie ich es anfänglih annahm. I<. war
-auf falſher Fährte. Ih glaubte an Hypnoſe, Fernhypnoje,
-cben daß jemand den Doktor die Spukſzenen mit dem Arm.
-der Marvatty erleben ließ. Das ſtimmt nicht. Die erjtiew.
-a<ht Zettel ſchrieb tatſächlich die ... laufende Hand.“
+»Halt, — du gehst zu leiht über diese Dinge hinweg,
+lieber Alter … Sie sind durchaus nicht so klar, wie du
+denkst oder — — wie ich es anfänglih annahm. Ich. war
+auf falsher Fährte. Ih glaubte an Hypnose, Fernhypnoje,
+cben daß jemand den Doktor die Spukszenen mit dem Arm.
+der Marvatty erleben ließ. Das stimmt nicht. Die erjtiew.
+acht Zettel schrieb tatsächlich die … laufende Hand.«
 <@pagebreak/>
-DSSTEESSSOSSSS 25 SSSSDOSSSSDSSIDES
 
-„Was heißt das?! Dichteſt du einem operierten Unterarm
-etwa die Fähigkeit ſelbſtändiger Betätigung an?!“
+»Was heißt das?! Dichtest du einem operierten Unterarm
+etwa die Fähigkeit selbständiger Betätigung an?!«
 
-„Bielleiht ... Vergiß nicht: Holgerſens Feind iſt ein
-Inder, der ganz offenſichtlich über außerordentliche Kennt=
-niſſe der uralten drawidiſchen Geheimwiſſenſchaſten verfügt.
-Was dieſe „Cingeweihten“ alles vermögen, entzieht fich uns
-Europäern ſo gut wie vollkommen. Zuweilen wird der Bor-
-hang dieſes dunklen Gebietes unbekannter Rätſel ein weni
-gelüftet = -- zuweilen -- -- ein wenig, dann finden ſic;
-ſchnell ein paar europäiſche, abgeſtempelte berühmte Gelehrte,
-die das Geſchehene ho<mütig als „Selbſttäuſhung“ ablehnen,
-und -- -- Europa ſ<läft weiter auf ſeinen Lorbeeren und
-ahnt nicht, daß dort jenſeit8 des Ural und des Kaukaſus eine
-Kultur ſc<lummert, von der wir nur die gaugenſcheinlichen
-Reſte anſtaunen und die verborgenen, gefährlichen Haupi=
-ſachen nie oder ſelten zu ſehen bekommen. Jedenfalls: Zu=
-nächſt bleibe iH dabei, daß Arva Matty die Ellen Mar-
-vatty geliebt hat, daß er ſie, als er ihre Neigung für Hols-
-gerſen merkte, zum Selbſtmord zwang, und dann den
-Nahefeldzug gegen den Doktor auf indiſc<e Ari begann,
-indem er ihn zum Wahnſinn treiben wollte. -- Nun höre
-genau hin: Wenn der Inder in allen Fällen, wo die ſchrei-
-bende, laufende Hand auftrat, bevor Holgerſen zu uns
-kam, das „Gara Margin“ angewandt hätte, das heißt,
-wenn die aht Zettel, die erſten a<t von Holgerſen „unter
-Zwang“ geſchrieben wären -- wie heute der neunte--,
-dann müßten alle neun Rezeptformulare dieſelbe Handſchrift
-zeigen. Dies iſt niht der Fall. Mithin ſind die erſten ac<:
-Aufſchriften „Rache“ auf andere Weiſe zuſtande gekommen,
-und mithin hat die heutige „Beſchwörung“, deren Zeuge
-iM war und deren Erfolg du beobachtet haſt, einen anderen
-ZweX gehabt als nur den, Entſetzen hervorzurufen. =
-Weldzen Zwe&, mein Alter? -- Sehr einfa): Der Inder
-wußte, daß Holgerſen als Hilfeſuchender zu uns gekommen
+»Bielleiht … Vergiß nicht: Holgersens Feind ist ein
+Inder, der ganz offensichtlich über außerordentliche Kennt-
+nisse der uralten drawidischen Geheimwissenschasten verfügt.
+Was diese »Cingeweihten« alles vermögen, entzieht fich uns
+Europäern so gut wie vollkommen. Zuweilen wird der Bor-
+hang dieses dunklen Gebietes unbekannter Rätsel ein weni
+gelüftet — — zuweilen — — ein wenig, dann finden sie;
+schnell ein paar europäische, abgestempelte berühmte Gelehrte,
+die das Geschehene hochmütig als »Selbsttäushung« ablehnen,
+und — — Europa schläft weiter auf seinen Lorbeeren und
+ahnt nicht, daß dort jenseit8 des Ural und des Kaukasus eine
+Kultur schlummert, von der wir nur die gaugenscheinlichen
+Reste anstaunen und die verborgenen, gefährlichen Haupi-
+sachen nie oder selten zu sehen bekommen. Jedenfalls: Zu-
+nächst bleibe iH dabei, daß Arva Matty die Ellen Mar-
+vatty geliebt hat, daß er sie, als er ihre Neigung für Hols-
+gersen merkte, zum Selbstmord zwang, und dann den
+Nahefeldzug gegen den Doktor auf indische Ari begann,
+indem er ihn zum Wahnsinn treiben wollte. — Nun höre
+genau hin: Wenn der Inder in allen Fällen, wo die schrei-
+dende, laufende Hand auftrat, bevor Holgersen zu uns
+kam, das »Gara Margin« angewandt hätte, das heißt,
+wenn die aht Zettel, die ersten acht von Holgersen »unter
+Zwang« geschrieben wären — wie heute der neunte—,
+dann müßten alle neun Rezeptformulare dieselbe Handschrift
+zeigen. Dies ist niht der Fall. Mithin sind die ersten ach:
+Aufschriften »Rache« auf andere Weise zustande gekommen,
+und mithin hat die heutige »Beschwörung«, deren Zeuge
+ich war und deren Erfolg du beobachtet hast, einen anderen
+ZweX gehabt als nur den, Entsetzen hervorzurufen. -
+Weldzen Zwe&, mein Alter? — Sehr einfa): Der Inder
+wußte, daß Holgersen als Hilfesuchender zu uns gekommen
 <@pagebreak/>
-E0E0CD2SDBDDBDEdISE 2% D0E02EEDDDEBDED
-
-war, wußte au<ß -- gib wohl aht! --, daß ich als Holgerſen
+war, wußte auchß — gib wohl ah!! —, daß ich als Holgersen
 31 der Sanitätsgrätin zurü&gekehrt war und der Doktor
-bei uns geblieben, -- daß Holgerſen in deinem Arbeitss
-zimmer ſchlief und daß er -- der Inder -- deshalb die
-Möglichkeit hatte, uns inſofern zu täuſchen, als die Szene
-mit der ſchreibenden Hand, deren Exiſtenz ſic) der Doktor nur
-einbildete, uns zu der Ueberzeugung bringen ſollte, Holgerſen
-fei ein Schlafwandler, ein ſogenannter „aktiver“ Schlafwands
-ler, der alſo ſc<einbar ſelbſtändige Handlungen ausführte
-und nachher in ſcheinbar wachem Zuſtande gewijſen Sinnes»
-irrtümern erlag. Kurz: des Inder3 Beſtreben ging dahin,
-bei un8 jeden Berdacht zu zerſtreuen, daß hier eine dritte
-Perſon die Zand im Spiel habe. -- Dies wäre ihm auh
-gelungen, wenn iH nicht das Löchlein gebohrt hätte, das'
-jetzt übrigens wieder tadellos verklebt iſt. = Dieſe meine
-Ueberzeugung wird no<F durch folgendes geſtüßt: Bisher iſt
-der „Urm“ ſtet8 an einem 13. „erſchienen“ und ſtets lag
-mindeſtens ein Monat zwiſchen den SchreFensnächten Hol»
-gerſens. Jetzt dagegen iſt der Arm in zwei aufeinanderfolgen
-den Nächten „aufgetaucht“, geſtern bei der Sanitätsrätin,
-heute hier bei uns, zum erſten Male ſo dicht hintereinander,
-und das muß do) eine beſondere Bewandtni8 haben! Welche,
-erflärte ic ſhon. -- Der Inder denkt nun, wir halten, den
-Doktor für ein Opfer ſeiner überreizten Nerven und ahnen
-niht, es könnte ſic hier um weit Schlimmeres handeln.
-Dies nimmt er beſtimmt an, zumal wenn er feſtſtellt, daß
-der „ehte' Holgerſen wieder in ſein Heim zurücgekehrt iſt.
-Mithin ſind wir dem Inder gegenüber im Borteil, und um
-dieſen Borieil zu wahren, habe ich Sven Holgerſen gegen
-über ſy getan, als wäre nun alle8 in ſchönſter Ordnung,
-was ja abſolut unrichtig iſt. I< gratulierte Holgerſen, und
-wenn es dem mißtrauiſchen Inder einfallen ſollte, etwa durch.
-eine neue Beſchwörung den Doktor darüber auszuforſchen,
-wie i< den Fall beurteile, dann wird Holgerſen „unter
+bei uns geblieben, — daß Holgersen in deinem Arbeitss
+zimmer schlief und daß er — der Inder — deshalb die
+Möglichkeit hatte, uns insofern zu täuschen, als die Szene
+mit der schreibenden Hand, deren Existenz sich der Doktor nur
+einbildete, uns zu der Ueberzeugung bringen sollte, Holgersen
+fei ein Schlafwandler, ein sogenannter »aktiver« Schlafwands
+ler, der also scheinbar selbständige Handlungen ausführte
+und nachher in scheinbar wachem Zustande gewijsen Sinnes-
+irrtümern erlag. Kurz: des Inder3 Bestreben ging dahin,
+bei un8 jeden Berdacht zu zerstreuen, daß hier eine dritte
+Person die Zand im Spiel habe. — Dies wäre ihm auh
+gelungen, wenn iH nicht das Löchlein gebohrt hätte, das’
+jetzt übrigens wieder tadellos verklebt ist. — Diese meine
+Ueberzeugung wird nochF durch folgendes gestüßt: Bisher ist
+der »Urm« stet8 an einem 13. »erschienen« und stets lag
+mindestens ein Monat zwischen den SchreFensnächten Hol-
+gersens. Jetzt dagegen ist der Arm in zwei aufeinanderfolgen
+den Nächten »aufgetaucht«, gestern bei der Sanitätsrätin,
+heute hier bei uns, zum ersten Male so dicht hintereinander,
+und das muß do) eine besondere Bewandtni8 haben! Welche,
+erflärte ic shon. — Der Inder denkt nun, wir halten, den
+Doktor für ein Opfer seiner überreizten Nerven und ahnen
+niht, es könnte sie hier um weit Schlimmeres handeln.
+Dies nimmt er bestimmt an, zumal wenn er feststellt, daß
+der »ehte’ Holgersen wieder in sein Heim zurücgekehrt ist.
+Mithin sind wir dem Inder gegenüber im Borteil, und um
+diesen Borieil zu wahren, habe ich Sven Holgersen gegen
+über sy getan, als wäre nun alle8 in schönster Ordnung,
+was ja absolut unrichtig ist. Ich gratulierte Holgersen, und
+wenn es dem mißtrauischen Inder einfallen sollte, etwa durch.
+eine neue Beschwörung den Doktor darüber auszuforschen,
+wie ich den Fall beurteile, dann wird Holgersen »unter
 <@pagebreak/>
-22CSDBEEBSELEODSSG 27 80 DOEBDEOEOOED
+Zwang« nur sagen können, daß wir beide die Sache nr
+erledigt halten.«
 
-Zwang“ nur ſagen können, daß wir beide die Sache nr
-erledigt halten.“
+»Bravo, Harald! Das war eine lange, aber interessante
+Vorlesung!« Und das kam mir von Herzen.
 
-„Bravo, Harald! Das war eine lange, aber intereſſante
-Vorleſung!“ Und das kam mir von Herzen.
-
-Er drüdte den Zigarettenreſt in der Aſchenſhale aus
-und ſagte ſehr ernſt: „Das war der Beginn, lieber Alter...
-Du verſtehſt: der Beginn des Kampfes, den wir mit ungleichen
-Waffen führen, denn unſer Gegner iſt im VergleiHh zu uns
+Er drüdte den Zigarettenrest in der Aschenshale aus
+und sagte sehr ernst: »Das war der Beginn, lieber Alter …
+Du verstehst: der Beginn des Kampfes, den wir mit ungleichen
+Waffen führen, denn unser Gegner ist im VergleiHh zu uns
 eine Art Halbgott, verfügt über geheime Wittel, die uns nie
-zugänglich ſind ... = Troßzdem: Es8 wird ſpannend werden!
-Serr Wamukh Kardir alia8 Arva Matty und der am»
-putierte, laufende und ſchreibende Arm einer ſchönen Frau:
-Kaviar, Auſtern, Delikateſien -- =- für uns!“ =- Er änderte
-den Ton ... „Bilde dir nur nicht ein, daß dieſe theore
-tiſ<en Erörterungen über dieſe3 Problem bereit3 erſchöpft
-find. Oh nein! Ich habe no'FH vieles auf dem Herzen...
-Koche bitte Mokka ... Von Sdhlafen kann ja doch keine
-Nede ſein. Ulſo her mit der Maſchine ... Wenn das
-Waſſer im Keſſel ſummt, wenn erſt der würzige Kaffeeduft
-meine Naſe kitzelt, werde ich vielleicht nog ein paar gute
-Einfälle haben ...“
+zugänglich sind … — Trotzdem: Es8 wird spannend werden!
+Serr Wamukh Kardir alia8 Arva Matty und der am-
+putierte, laufende und schreibende Arm einer schönen Frau:
+Kaviar, Austern, Delikatesien — — für uns!« — Er änderte
+den Ton … »Bilde dir nur nicht ein, daß diese theore
+tischen Erörterungen über diese3 Problem bereit3 erschöpft
+find. Oh nein! Ich habe no’FH vieles auf dem Herzen …
+Koche bitte Mokka … Von Sdhlafen kann ja doch keine
+Nede sein. Ulso her mit der Maschine … Wenn das
+Wasser im Kessel summt, wenn erst der würzige Kaffeeduft
+meine Nase kitzelt, werde ich vielleicht nog ein paar gute
+Einfälle haben …«
 
-Der Keſſel brozelte ... Der Spiritus puffte. Zwiſchen
-unſeren Korbſcſſeln ſtand die japaniſche Lampe mit dem
-jeltſamen, geſchnißten Achatſhirm auf dem Rauchtiſch<en.
-Dämmerung ringsum ...
+Der Kessel brozelte … Der Spiritus puffte. Zwischen
+unseren Korbscsseln stand die japanische Lampe mit dem
+jeltsamen, geschnißten Achatshirm auf dem Rauchtischchen.
+Dämmerung ringsum …
 
-Köſtliche Nachtſtunden, oft genoſſen, Stunden der Weihe,
-des geiſtigen und körperlichen LoSgelöſtſeins von allem Ull»
-täglichen ...
+Köstliche Nachtstunden, oft genossen, Stunden der Weihe,
+des geistigen und körperlichen LoSgelöstseins von allem Ull-
+täglichen …
 
-Harſt ſhlürſte den erſten Shlu> des ſHwarzen duftenden
-Nervengiftes und ſagte dann:
+Harst shlürste den ersten Shluck des sHwarzen duftenden
+Nervengiftes und sagte dann:
 
-„Glaubſt du, das die Amvutation unbedingt nötig war?“
+»Glaubst du, das die Amvutation unbedingt nötig war?«
 
-Ich hob den Kopf. „ötig?“
+Ich hob den Kopf. »ötig?«
 
-„Ih behaupte, Holgerſen hat Ellen Warvatty abſichtäck
+»Ih behaupte, Holgersen hat Ellen Warvatty absichtäck
 den Unterarm amputiert.
 <@pagebreak/>
-D2202020222020222 228 0000020008220
 
-„Iſt das dein Ernſt?“
+»Ist das dein Ernst?«
 
-„Ia. Beſinne dich, daß er ſich in dieſer Hinſicht ſelbſt
-verriet, als er von ſeiner „Schuld“ ſpra<ß, was er nachher
-wieder zu verreden ſuchte.“
+»Ia. Besinne dich, daß er sich in dieser Hinsicht selbst
+verriet, als er von seiner »Schuld« sprachß, was er nachher
+wieder zu verreden suchte.«
 
-„Aber -- ich bitte di: Welcher Arzt wird ...“
+»Aber — ich bitte di: Welcher Arzt wird …«
 
-„Geſtatte: ein verliebter, bis zum Wahnwitß verliebter
-Arzt, der die Geliebte heiraten will, der ſie aber vorher
-noh ihrem ihm unwürdig erſheinenden Beruf entreißen will,
-iſt zu allem fähig. Das Ellbogengelenk mag ja vereitert
-geweſen ſein, -- doch daß eine Amputation notwendig war,
-beſtreite ich!“
+»Gestatte: ein verliebter, bis zum Wahnwitz verliebter
+Arzt, der die Geliebte heiraten will, der sie aber vorher
+noh ihrem ihm unwürdig ersheinenden Beruf entreißen will,
+ist zu allem fähig. Das Ellbogengelenk mag ja vereitert
+gewesen sein, — doch daß eine Amputation notwendig war,
+bestreite ich!«
 
-IH . .. ſchwieg ... Allerdings, Holgerſen haite von ſeiner
-„Schuld“ "geſprochen, hatte nachher ſo getan, als hätte er
-wirres Zeug vorgebracht ...
+IH … schwieg … Allerdings, Holgersen haite von seiner
+»Schuld« »gesprochen, hatte nachher so getan, als hätte er
+wirres Zeug vorgebracht …
 
-Harald nahm einen neuen Schluts ...
+Harald nahm einen neuen Schluts …
 
-„Und nun Punkt zwei: Der Inder war natürlih nach
-Ellen Marvattys Tod in Trelleborg geblieben =- in einer
-Verkleidung. Als Holgerſen den Arm im Grabhügel der
-Geliebten verſcharrt hatte, brachte der Inder ihn in den Glas=
-ſ<rank zurüF. Ebenſo war's der Inder, der auf dem Fähr=
-jHiff die eiſerne Kaſſette öffnete und den Arm an ſich nahm,
-damit er nicht verſenkt würde. Arva Matty iſt alſo dauernd
-in des Doktors nächſter Nähe geweſen .
+»Und nun Punkt zwei: Der Inder war natürlih nach
+Ellen Marvattys Tod in Trelleborg geblieben — in einer
+Verkleidung. Als Holgersen den Arm im Grabhügel der
+Geliebten verscharrt hatte, brachte der Inder ihn in den Glas-
+schrank zurüF. Ebenso war’s der Inder, der auf dem Fähr-
+jHiff die eiserne Kassette öffnete und den Arm an sich nahm,
+damit er nicht versenkt würde. Arva Matty ist also dauernd
+in des Doktors nächster Nähe gewesen …
 
-Harald wollte offenbar no< etwas hinzufügen, horte
-jedoM plößzlih nah der Flurtür hin ...
+Harald wollte offenbar noch etwas hinzufügen, horte
+jedoM plötzlih nah der Flurtür hin …
 
-Da hörte auc< ich dort etwas wie ein Kratzen, -- als
+Da hörte auch ich dort etwas wie ein Kratzen, — als
 ob ein kleiner Hund vom Flur aus durch Kratzen an der
-Zür Einlaß begehrte ...
+Zür Einlaß begehrte …
 
-Ih fühlte, daß. ic) erbleichte ...
+Ih fühlte, daß. ich erbleichte …
 
-I<hH ſtierte Harald an ...
+IchH stierte Harald an …
 
-Deſſen Augen waren groß und ſtarr ...
+Dessen Augen waren groß und starr …
 
-Wieder das Kraßen ...
+Wieder das Kraßen …
 
-Ih flüſterte atemlos: „Die ... Hand!!'
+Ih flüsterte atemlos: »Die … Hand!!’
 
 Ein nie gekanntes Empfinden eines unnennbaren Grauenz3
 <@pagebreak/>
-BGDD2082020202D2D028E 9299 0000020202202020
+krampfte mir das Herz zusammen … Mein ganzer Leib wurde
+zu Eis … Ich war unfähig mich zu rühren …
 
-krampfte mir das Herz zuſammen ... Mein ganzer Leib wurde
-zu Eis ... I< war unfähig mich zu rühren .
-
-Durch "die Fenſtervorhänge grinſte bereits der fahle Schein
-der Morgendämmerung .
+Durch »die Fenstervorhänge grinste bereits der fahle Schein
+der Morgendämmerung …
 
 Der neue Tag war da.
-- Anu dieſem Tage ... ſahen wir mit eigenen Augen
-das ſc<heußliche kleine geſpenſtiſche Ungetüm:
+- Anu diesem Tage … sahen wir mit eigenen Augen
+das schheußliche kleine gespenstische Ungetüm:
 
 die laufende Hand.
 <@pagebreak/>
-&ESSEDSESDES ZU SEES EOEZ EPG ESPEDLE
 
-5. Kapitel,
-Der Bleiſtift der Marvatty.
+<h2>5. Kapitel.</h2>
+<h3>Der Bleistift der Marvatty.</h3>
 
 Er liegt neben mir.
 
-Der Bleiſtift ...
+Der Bleistift …
 
-Ein „Koh=I=Noor, Kopierſtift, Mittel“, iſt mit Goldbuch»
-ſtaben in das Holz3 gepreßt. Die ſilverne Hülſe iſt ſtark
-beſchädigt. Eine Piſtolenkugel hat ihr übel mitgeſpielt, aber
-die Gravierung „...len Marvat...“ iſt noh lesbar.
+Ein »Koh-I-Noor, Kopierstift, Mittel«, ist mit Goldbuch-
+staben in das Holz3 gepreßt. Die silverne Hülse ist stark
+beschädigt. Eine Pistolenkugel hat ihr übel mitgespielt, aber
+die Gravierung «… len Marvat …« ist noh lesbar.
 
-IH habe den Bleiſtift vorhin aus unſerem Raritäten»
+IH habe den Bleistift vorhin aus unserem Raritäten-
 jG&ran? hervorgeholt.
 
-Derlei Andenken wirken anregend und feuern die Erinne»
-rung gleichſam fräftig an, bringen Stimmung. =
+Derlei Andenken wirken anregend und feuern die Erinne-
+rung gleichsam fräftig an, bringen Stimmung. -
 
-Einmal ſagte mir ein Bekannter, ein Redakteur: „Wiiſen
-Sie, Schraut, was Ihre Berichte über „Nu38 HZarſt3 Leben“
-aus der Menge Ihrer Nachahmer ſtet3 herausheben werden?
-Da iſt erſtens: Das Tempo der Handlung! -- Zweitens: Die -
-eingeſtreuten Stimmungsbilder! -- Wenn Sie zum Beiſpiel
-eine indiſHe Opiumhöhle, eine Nacht im Dſchungel, eine
-Fahrt im Nebel ſchildern, ſo genügen Ihnen, nur Ihnen, ein
-paar Säße, dem Leſer die betreffende „Stimmung“ aufzu
-zwingen. Das macht Ihnen ſo leit keiner nach.“ -- I<h
-könnte dieſen meinen Lobredner hier mit Namen nennen.
-Ich dente jehr oft an ſeine Worte. Und an das, was ich
-ihm damals erwiderte: „Das alles fließt mir ganz von
-ſelbſt in die Feder, lieber L ...., -- ic< gebe mir nie *Nühe,
-das „Tempo“ zu erzeugen oder „Stimmung“ hervorzu»
-zaubern.“
+Einmal sagte mir ein Bekannter, ein Redakteur: »Wiisen
+Sie, Schraut, was Ihre Berichte über »Nu38 HZarst3 Leben«
+aus der Menge Ihrer Nachahmer stet3 herausheben werden?
+Da ist erstens: Das Tempo der Handlung! — Zweitens: Die -
+eingestreuten Stimmungsbilder! — Wenn Sie zum Beispiel
+eine indisHe Opiumhöhle, eine Nacht im Dschungel, eine
+Fahrt im Nebel schildern, so genügen Ihnen, nur Ihnen, ein
+paar Säße, dem Leser die betreffende »Stimmung« aufzu
+zwingen. Das macht Ihnen so leit keiner nach.« — Ich
+könnte diesen meinen Lobredner hier mit Namen nennen.
+Ich dente jehr oft an seine Worte. Und an das, was ich
+ihm damals erwiderte: »Das alles fließt mir ganz von
+selbst in die Feder, lieber L … — ich gebe mir nie »Nühe,
+das »Tempo« zu erzeugen oder »Stimmung« hervorzu-
+zaubern.«
 <@pagebreak/>
-DVDSEwSOEESSSAODSS 31 D0SSSSSOSDSE-5&
 
-Und das iſt richtig.
-Der Bleiſtift gibt „Stimmung“
-Da wird bei ſeinem Anbliäs in mir alle2 wiede keben=
+Und das ist richtig.
+Der Bleistift gibt »Stimmung«
+Da wird bei seinem Anbliäs in mir alle2 wiede keben-
 
-dig, = jede Einzelheit jenes regnerijic<en Waimorgens, als
-Harſt und iM nach der Tür ſtarrten und unſere Geſichter
-jo fahl waren .
+dig, — jede Einzelheit jenes regnerijichen Waimorgens, als
+Harst und ich nach der Tür starrten und unsere Gesichter
+jo fahl waren …
 
-Aſiens Wünder umwehten uns mit Eiſeshauch ..
-Abermals8 kratzte „das Hündchen“ ...
+Asiens Wünder umwehten uns mit Eiseshauch …
+Abermals8 kratzte »das Hündchen« …
 
-Hündchen ...
+Hündchen …
 
-Nein -- Händchen ...
+Nein — Händchen …
 
-Und dann gab Harſt ſiHh einen RuF, war mit vier
+Und dann gab Harst siHh einen RuF, war mit vier
 
 Schritten an der Tür, 30g mit der Rechten die Clement
-aus der Taſche, ihaltete mit der Linken die elektrijch<e Krone
+aus der Tasche, ihaltete mit der Linken die elektrijchche Krone
 ein 54
 
-Knas ...
-Tageshelle ...
-Er riß die Tür auf ...
-I<hH ſtand neben ihm ...
-Der Lichtſc<hein fiel grell in den breiten Ftrur ...
-Da ... lief etwas auf dem roten Plüſchläufer davon...
-Etwas wie ein phantaſtiſches großes Inſekt:
+Knas …
+Tageshelle …
+Er riß die Tür auf …
+IchH stand neben ihm …
+Der Lichtschhein fiel grell in den breiten Ftrur …
+Da … lief etwas auf dem roten Plüschläufer davon …
+Etwas wie ein phantastisches großes Insekt:
 der weiße Arm!
 
-Lief zur Treppe =- -- na<H oben ...
-Sprang . . .
+Lief zur Treppe — — nachH oben …
+Sprang …
 
-Sprang vier =- ſe<s Stufen empor „..
-Da -- -- ſ<oß Harald ...
+Sprang vier — sechs Stufen empor«…
+Da — — schoß Harald …
 
-Ein feines Klirren ...
-Der Arm verſchwand oben im Dunkeln, aber der Blei»
+Ein seines Klirren …
+Der Arm verschwand oben im Dunkeln, aber der Blei-
 
-ſtift lag auf der achten Stufe ... =
+stift lag auf der achten Stufe … —
 
-Wir haben damals den „Arm“ geſuH:t, natürli obne
+Wir haben damals den »Arm« gesuH:t, natürli obne
 
 Erfolg.
 <@pagebreak/>
-.2SBS0dDSSSSSSS 22 SSSSODSODSDEL
-Wir fanden nur auf der verſtaubten Bodentreppe gerade
+Wir fanden nur auf der verstaubten Bodentreppe gerade
 
-unter dem einen Dachfenſter Spuren im Staube -- wie
-von einem kleinen Tier, -- ſeltſame Fährte, die etwa ſo
-ausſah:
+unter dem einen Dachfenster Spuren im Staube — wie
+von einem kleinen Tier, — seltsame Fährte, die etwa so
+aussah:
 
-=- alſo immer fünf nicht ganz runde Punkte: AbdruF von
-fünf ... galoppierenden, ſpringenden Fingern.
+— also immer fünf nicht ganz runde Punkte: AbdruF von
+fünf … galoppierenden, springenden Fingern.
 
-Von den fünf Punkten waren die am weiteſten linfs
+Von den fünf Punkten waren die am weitesten linfs
 am größten: der Daumen einer rehten Hand!
 
-Wir haben dieſe Fährte lange ſchweigend betrachtet.
+Wir haben diese Fährte lange schweigend betrachtet.
 
-Scweigend ...
+Scweigend …
 
-Die Kehle wie zugeſhnürt ...
+Die Kehle wie zugeshnürt …
 
-Vor Grauen ...
+Vor Grauen …
 
-Berſtändlich.
+Berständlich.
 
-Und dann hat Harſt das Bodenfenſter unterſucht. Der
-Verſchluß war offen. Das Fenſter war nur zugedrüdt, und...
-der Innenrahmen zeigte Regenſpritzer. E8 war alſo geöffnet
+Und dann hat Harst das Bodenfenster untersucht. Der
+Verschluß war offen. Das Fenster war nur zugedrüdt, und …
+der Innenrahmen zeigte Regenspritzer. E8 war also geöffnet
 worden.
 
 Von wem?!
 
-Von der ... laufenden Hand?!
+Von der … laufenden Hand?!
 
-IH laſſe dieſe Frage hier unbeantwortet wie viele
-andere, weil ... ic keine Antwort finde. --
+IH lasse diese Frage hier unbeantwortet wie viele
+andere, weil … ic keine Antwort finde. —
 
-Wir gingen mit unſerer Beute wieder zurü -- in das
-helle Arbeit8zimmer, und dieſe ſtrahlende Helle und je zwei
-Kognaks brachten unſere Nerven wieder zur Bernunft.
+Wir gingen mit unserer Beute wieder zurü — in das
+helle Arbeit8zimmer, und diese strahlende Helle und je zwei
+Kognaks brachten unsere Nerven wieder zur Bernunft.
 
-Die Beute war der Bleiſtift.
+Die Beute war der Bleistift.
 <@pagebreak/>
-SSSEODSSOISSEDE 33 0 E00 2DEESEBEIEED
 
-Es war derſelbe Bleiſtift, mit dem Holgerſen heute als
-- „Somnambule“ das „Rache“ auf die Rücſeite des Rezepts
-geſchrieben hatte.
+Es war derselbe Bleistift, mit dem Holgersen heute als
+- »Somnambule« das »Rache« auf die Rücseite des Rezepts
+geschrieben hatte.
 
-Harſt warf ſich in ſeinen Seſſel und rauchte ſtill eine
-halbe Mirakulum und betrachtete die Schußwunde der ſil»
-bernen Hülſe.
+Harst warf sich in seinen Sessel und rauchte still eine
+halbe Mirakulum und betrachtete die Schußwunde der sil-
+dernen Hülse.
 
 Ich?!
 
-IH ſah noFH immer ... die laufende Hand, das greu»
-lihe, große, unheimliche Inſekt: den Arm mit der Goldkapjel
-am Stumpf ...
+IH sah noFH immer … die laufende Hand, das greu-
+lihe, große, unheimliche Insekt: den Arm mit der Goldkapjel
+am Stumpf …
 
-I< wurde das Bild nicht lo8.
+Ich wurde das Bild nicht lo8.
 
-Es hatte etwas unſagbar Unheimliches an ſich gehabt...
+Es hatte etwas unsagbar Unheimliches an sich gehabt …
 
-Und: Wo eine Erklärung für dieſes „Phänomen“' finden
-- -- wie?!
+Und: Wo eine Erklärung für dieses »Phänomen«’ finden
+- — wie?!
 
-Ein amputierter, präparierter, einbalſamierter Arm...
+Ein amputierter, präparierter, einbalsamierter Arm …
 und laufen?!
 
-Irrſinn!!
+Irrsinn!!
 
-Aber iH hatte es mit eigenen Augen geſehen, Harſt
-auch, und daß der Inder etwa uns beiden durc) Beſchwörung
-etwas vorgegaukelt: ausgeſchloſſen!!
+Aber iH hatte es mit eigenen Augen gesehen, Harst
+auch, und daß der Inder etwa uns beiden durch Beschwörung
+etwas vorgegaukelt: ausgeschlossen!!
 
-Dann ſagte Harald verſonnen:
+Dann sagte Harald versonnen:
 
-„WeShalb?1“
+»WeShalb?1«
 
-Und dieſe Frage traf das Richtige.
+Und diese Frage traf das Richtige.
 
-Der Inder hatte ſich gemeldet = dur<h die ſpringende,
-galoppierende Hand. Nur dur<h ihn war dieſer „Beſuch“
+Der Inder hatte sich gemeldet — durch die springende,
+galoppierende Hand. Nur durch ihn war dieser »Besuch«
 des Armes der Marvatty veranlaßt worden.
 
 Wedghalb?
 
-Harſt ſtrich ſiHh mit der Linken geiſte38abweſend über
+Harst strich siHh mit der Linken geiste38abwesend über
 die Stirn.
 
-„Weghalb, mein Alter? Denken wir nach ... - Arva
-Matty, nehmen wir an, ſc<hi>äte die Hand ... gut. Aber
-zu welchem Zwed?!“
+»Weghalb, mein Alter? Denken wir nach … — Arva
+Matty, nehmen wir an, schhickäte die Hand … gut. Aber
+zu welchem Zwed?!«
 
-Er rauchte wieder ...
+Er rauchte wieder …
 
-211
 <@pagebreak/>
-22D2202DSED22020dO 31 EE RIE 04
 
-Seine tief gekerbte Stirn, d:2 zugekniſſfenen Auzen ...,
-=- er ſtrengte ſein Hirn über Gebühr an.
+Seine tief gekerbte Stirn, d:2 zugeknissfenen Auzen …
+— er strengte sein Hirn über Gebühr an.
 
-.. Zukte die Ühſeln ... Und meinte gedämpſt: „Ob er
-etwa doh alles weiß?“
+… Zukte die Ühseln … Und meinte gedämpst: »Oh er
+etwa doh alles weiß?«
 
-„Alle3?“
+»Alle3?«
 
-„3a, daß ig ihn beobachtete, daß iH ihn vorhin als |
-uns gegenüber im Nachteil hinſtellte ..., -- alles mag
-er wiſſen und uns ... verhöhnen, warnen, belächeln, uns
-beide ... Borühmtheiten, uns Abenteurer, Senſationsſucher!
-Nun hat er uns die größte Senſation unſeres wechſ2 folien
-ereignisreihen Daſeins beſchert:
+»3a, daß ig ihn beobachtete, daß iH ihn vorhin als
+uns gegenüber im Nachteil hinstellte … — alles mag
+er wissen und uns … verhöhnen, warnen, belächeln, uns
+beide … Borühmtheiten, uns Abenteurer, Sensationssucher!
+Nun hat er uns die größte Sensation unseres wechs2 folien
+ereignisreihen Daseins beschert:
 
-den Beſuch) eines Arme8!
-Das -- oder Aehnlißes -- haben wir noh nie erlebt,
-noch nie!“
+den Besuch) eines Arme8!
+Das — oder Aehnlißes — haben wir noh nie erlebt,
+noch nie!«
 
-Eine ungcwiſſe Handbewegung ... „Es muß ſo ſein!
-Er weiß alles, und er hai un3 dies durc< den Arm angezeigt
+Eine ungcwisse Handbewegung … »Es muß so sein!
+Er weiß alles, und er hai un3 dies durch den Arm angezeigt
 UHD 5 6:0
 
-Da ſprang er empor ...
+Da sprang er empor …
 
-„Schraut, -- = die Tür!“ rief er...
+»Schraut, — — die Tür!« rief er …
 
-Und war ſhon an der Tür, riz ſie auf, kniete nieder,
-beleuchtete mit der Taſchenlampe unten die weißlacierte
-Tür -- dort, wo die Hand ... gekratzt hatte.
+Und war shon an der Tür, riz sie auf, kniete nieder,
+beleuchtete mit der Taschenlampe unten die weißlacierte
+Tür — dort, wo die Hand … gekratzt hatte.
 
-Sie ... hatte nic<t nur gekratzt, ſie hatte ... ge»
-ſchrieben ...
+Sie … hatte nicht nur gekratzt, sie hatte … ge-
+schrieben …
 
-Da ſtand klar und dettlih auf dem weißen Lac:
+Da stand klar und dettlih auf dem weißen Lac:
 
 Rache!
 
- 
-
-|
 <@pagebreak/>
-DEGEDSISGEBSS 35 SEDSSDSEBDB0S
 
-Der Unſichtbare.
+<h1>Der Unsichtbare.</h1>
 
-1. Kapitel.
-In der Borhalle,
+<h2>1. Kapitel.</h2>
+<h3>In der Borhalle.</h3>
 
-... Wer in Saßnitz auf Rügen das Fährſchiff beſtiegen
-hat, wer alſo von der deutſhen Küſte die ſchönen, voman-
-tiſchen Bilder der Kreidefelſen, des Königſtuhls, Arkonas8 und
-der grünen Wälder no<h friſch in Erinnerung hat, der iſt:
-biiier enttäuſcht, ſobald der Trajekt ſic) immer mehr dem.
-„Auslande“, nämlich der Stadt Trelleborg nähert.
+… Wer in Saßnitz auf Rügen das Fährschiff bestiegen
+hat, wer also von der deutshen Küste die schönen, voman-
+tischen Bilder der Kreidefelsen, des Königstuhls, Arkonas8 und
+der grünen Wälder noch frisch in Erinnerung hat, der ist:
+biiier enttäuscht, sobald der Trajekt sich immer mehr dem.
+»Auslande«, nämlich der Stadt Trelleborg nähert.
 
-Flacher, eintöniger Strand, eine reizloſe Stadt, nüch=.
-terne Bauten, ein Bahnhof wie in Poſemudel: das ſind.
-die erſten Eindrücke von Shweden!
+Flacher, eintöniger Strand, eine reizlose Stadt, nüch-.
+terne Bauten, ein Bahnhof wie in Posemudel: das sind.
+die ersten Eindrücke von Shweden!
 
 Wehr landeinwärts und ein StüFX außerhalb der Stadt
-zieht ſich ein beſcheidener Walb hin. Hier hat ſiß ein Teil
-der Honorationen von Trelleborg angeſiedelt, hier ſteht in
-großem, gut bewachſenen Garten eine kleine Billa mit grünen
-Fenſtern und ſonſtiger bunter Bemalung: farbenfroher
-Schwedengeſc<ma&. Über der Schwediſche PunſF iſt unfehl=
-bar beſſer als dieſer GeſHhmad>, der die Buntheit von nor=
-diſ<en Bauerngehöften hier ins ſüdlichſte Schweden üüber=
-trägt. '
+zieht sich ein bescheidener Walb hin. Hier hat siß ein Teil
+der Honorationen von Trelleborg angesiedelt, hier steht in
+großem, gut bewachsenen Garten eine kleine Billa mit grünen
+Fenstern und sonstiger bunter Bemalung: farbenfroher
+Schwedengeschma&. Über der Schwedische PunsF ist unfehl-
+bar besser als dieser GesHhmack, der die Buntheit von nor-
+dischen Bauerngehöften hier ins südlichste Schweden üüber-
+trägt.
 
-Un dieſer Villa ſchlenderten am 17. Mai vormittag2 zwei
+Un dieser Villa schlenderten am 17. Mai vormittag2 zwei
 ältere Herren vorüber, deren äußere Aufmachnng auf bes
-ſcheidene Touriſten hindeutete.
+scheidene Touristen hindeutete.
 <@pagebreak/>
-DEGODODPDESDDODE 36 DESDVPDEGSOTSSS
 
-Das täuſchte ...
+Das täuschte …
 
-Die Herren waren morgens mit einer ſhmuden Segel»
-jacht unter deutſcher Flagge in den kleinen Hafen eingelaufen
-und hatten ſiHh der Polizei als Kommerzienrat Schneider,
-Stettin, und Rechtsanwalt Schüß, von ebenda, ausgewieſen.
-Die Jacht gehörte dem kleinen, etwas korpulenten Kommer»
-zienrat, der hier, wie er im Hotel „Kung Chriſtian“ hatte
-verlauten laſſen, eine Zweigniederlaſſung = eventuell =
-gründen wollte. Sein hagerer Freund Sc<hüß hatte ihn be=
-gleitet, um einmal ein paar Tage keinen Aktenſtaub zu
-ſhluFen. d
+Die Herren waren morgens mit einer shmuden Segel-
+jacht unter deutscher Flagge in den kleinen Hafen eingelaufen
+und hatten siHh der Polizei als Kommerzienrat Schneider,
+Stettin, und Rechtsanwalt Schüß, von ebenda, ausgewiesen.
+Die Jacht gehörte dem kleinen, etwas korpulenten Kommer-
+zienrat, der hier, wie er im Hotel »Kung Christian« hatte
+verlauten lassen, eine Zweigniederlassung — eventuell -
+gründen wollte. Sein hagerer Freund Schhüß hatte ihn be-
+gleitet, um einmal ein paar Tage keinen Aktenstaub zu
+shluFen.
 
 Die beiden Freunde beachteten die gelbe Villa nicht
-weiter, an deren Gartenpforte ein Meſſingſchild mit der
-Aufſ<hrift:
+weiter, an deren Gartenpforte ein Messingschild mit der
+Aufschrift:
 
-' Dr. Sven Holgerſen,
+Dr. Sven Holgersen,
 
 Arzt,
-- Sprechzeit 9--10, 4-6.
-im grellen Maiſonnenſchein funkelte. =
+- Sprechzeit 9—10, 4-6.
+im grellen Maisonnenschein funkelte. -
 
-GChHneider und Sc<hüß waren keine Phantaſiegebilde,
-ſondern gute Bekannte Haralds, die nicht3 dagegen gehabt
-hatten, daß wir ihre ehrlihen Namen und AusSweiſe für
-unſere ZweFe genau ſo benutzten wie Schneiders Jacht
-Seeſchwalbe.
+GChHneider und Schhüß waren keine Phantasiegebilde,
+sondern gute Bekannte Haralds, die nicht3 dagegen gehabt
+hatten, daß wir ihre ehrlihen Namen und AusSweise für
+unsere ZweFe genau so benutzten wie Schneiders Jacht
+Seeschwalbe.
 
-Der Leſer weiß nun BeſhHeid. Wir waren „beruflich“
+Der Leser weiß nun BeshHeid. Wir waren »beruflich«
 hier, in Sachen Arva Matty, der uns in Berlin durch
 die Lappen gegangen war. Nachdem wir am 15. Wai,
-morgens 1/26, an der Tür das „Rache“ gefunden, waren
-wir ſofort zu der Frau Sanitätsrat geeilt, aber das mob=
-lierte Neſt des „ägyptiſ<en Studenten“ war leer. Er hatte
-um fünf Uhr „plößlih abreiſen müſſen“. Wir kamen zu
-ſpät.
+morgens 1/26, an der Tür das »Rache« gefunden, waren
+wir sofort zu der Frau Sanitätsrat geeilt, aber das mob-
+lierte Nest des »ägyptischen Studenten« war leer. Er hatte
+um fünf Uhr »plößlih abreisen müssen«. Wir kamen zu
+spät.
 
-Mittags hatten wir dann Freund Holgerſen geſprochen,
-dem wir: nichts von alledem erzählten, was inzwiſchen
-geſ<ehen und den wir bei dem Glauben beließen, eine Bütte
+Mittags hatten wir dann Freund Holgersen gesprochen,
+dem wir: nichts von alledem erzählten, was inzwischen
+geschehen und den wir bei dem Glauben beließen, eine Bütte
 <@pagebreak/>
-22200 EE2EC22000 37 02 0DE0OBDIELDEGD
+Wasser vor dem Bett würde den Spuk ferner »vin ver-
+scheuchen. Abend8 reiste Zolgersen ab, und wir gaben ihm
+noch+4 bis zum Stettiner Vahnhof vas Geleit.
 
-Waſſer vor dem Bett würde den Spuk ferner "vin ver»
-ſcheuchen. Abend8 reiſte Zolgerſen ab, und wir gaben ihm
-no<+4 bis zum Stettiner Vahnhof vas Geleit.
-
-Dann fehrien wir nicht etwa naH Hauſe zurüF, ſondern
-fuhren mit einer Autotaxe zu unſerem Freunde Kriminal=
-kommiſſar Bechert nach der Königſtraße, den Harald ſchon
-vorher telephoniſ< kurz und vorſichtig von unſeren Ab=-
-fich! en verſtändigt hatte, Zarſt rechnete beſtimmt damit, daß
-wir unat2geſeßt beobachtet würden und daß Arva Matiy
-nod) Helfershelfer hätte, und dies war fär unſer ganzes
-Berbalten ausſc<laggebend. Die Fahrt zu Bechert war eine
-Jagd durd) Berlins einſamſte Gegenden -- oder beſſer eine
-Flucht, denn e8 kam uns darauf an, feſtzuſiellen, ob wir
+Dann fehrien wir nicht etwa naH Hause zurüF, sondern
+fuhren mit einer Autotaxe zu unserem Freunde Kriminal-
+kommissar Bechert nach der Königstraße, den Harald schon
+vorher telephonisch kurz und vorsichtig von unseren Ab—
+fich! en verständigt hatte, Zarst rechnete bestimmt damit, daß
+wir unat2geseßt beobachtet würden und daß Arva Matiy
+noch Helfershelfer hätte, und dies war fär unser ganzes
+Berbalten ausschlaggebend. Die Fahrt zu Bechert war eine
+Jagd durch Berlins einsamste Gegenden — oder besser eine
+Flucht, denn e8 kam uns darauf an, festzusiellen, ob wir
 verfolgt würden. Wir merkten nichts. DennoFg handelien
-wir genau ſo, wie wenn unſichtbare Gegner auf unjerer
+wir genau so, wie wenn unsichtbare Gegner auf unjerer
 Fährie wären.
 
-Bechcrt erwartete uns mit einem eht Berliner Kannibalen»
+Bechcrt erwartete uns mit einem eht Berliner Kannibalen-
 abendbrot: Eisbein und Sauerkohl, dazu gab es ete?
-Bier, -- kein Souper für ſchwache Mägen!
+Bier, — kein Souper für schwache Mägen!
 
-Als wir ihm dann bei Tiſch den Tall Holgerſen er=
-zählten, machte er zunächſt ein paar wißige Bemerkungen
-über den „Spukarm“ (was ihm nicht zu verdenken war),
-wurde dann aber durd) das Geheimnisvoll=-1ebernatärliche
-immer mehr gepa&t und meinie zum Schinz Ialb beſorgt:
-„Sinder, ihr habt eu) da „auf einen oberfaulen Zauber
-eingelaſſen! Wollt ihr nic<ßt do< beſſer unſere Hilfe in
-Anſpruch nehmen? Der Dier ſtelli euch = das wißt ihr --
-ſchr gern ein Dußzend Beamte zur Verfügung, und wir
+Als wir ihm dann bei Tisch den Tall Holgersen er-
+zählten, machte er zunächst ein paar wißige Bemerkungen
+über den »Spukarm« (was ihm nicht zu verdenken war),
+wurde dann aber durch das Geheimnisvoll—1ebernatärliche
+immer mehr gepa&t und meinie zum Schinz Ialb besorgt:
+»Sinder, ihr habt eu) da »auf einen oberfaulen Zauber
+eingelassen! Wollt ihr nichßt doch besser unsere Hilfe in
+Anspruch nehmen? Der Dier stelli euch — das wißt ihr —
+schr gern ein Dutzend Beamte zur Verfügung, und wir
 haben jetzt gerade unier dem jungen Nachwuchs Leute, die
-ſehr tüchtig ſind.“
+sehr tüchtig sind.«
 
-„Das iſt mir bekannt, lieber Bechert. Nur =“ und
-Sarald zuäte die Nchſeln -- „kann iH in dieſem Falle
-die Berantwortung dafür nicht übernehmen, daß vieſe waeren
-Helfer unbeſchädigt aus dem Abenteuer hervorgehen. Außer-=
+»Das ist mir bekannt, lieber Bechert. Nur — und
+Sarald zuäte die Nchseln — »kann iH in diesem Falle
+die Berantwortung dafür nicht übernehmen, daß viese waeren
+Helfer unbeschädigt aus dem Abenteuer hervorgehen. Außer—
 <@pagebreak/>
-DSSSSSSSSDSDSS 28 080208005202 20
-
-dem: einem Arva Matty gegenüber ſind wenige beſſer
+dem: einem Arva Matty gegenüber sind wenige besser
 als ein Dußend! Hier kommt alles darauf an, dem Inder
-zu entgehen, alſo ſpurlos zu verſchwinden. Nur eine Bitte
-hätte ih, und das Präſidium hat ſie mir ſ<on einmal
+zu entgehen, also spurlos zu verschwinden. Nur eine Bitte
+hätte ih, und das Präsidium hat sie mir schon einmal
 erfüllt. E38 könnten Hubert und Gritner abermals bei mir
-daheim unſeve Rollen übernehmen. Hubert verſteht es tadel=
-los, mich zu kopieren, ſeine Naſe iſt ganz Harſt, und auch
-alles andere paßt, während Grißner geradezu eine Neu=
-auflage von Schraut iſt.“ =
+daheim unseve Rollen übernehmen. Hubert versteht es tadel-
+los, mich zu kopieren, seine Nase ist ganz Harst, und auch
+alles andere paßt, während Grißner geradezu eine Neu-
+auflage von Schraut ist.« -
 
-Die verehrlichen Leſer, die unſere Pfade bisher verfolgt
-haben, wiſſen ohne Frage noh, bei welcher Gelegenheit unſere -
+Die verehrlichen Leser, die unsere Pfade bisher verfolgt
+haben, wissen ohne Frage noh, bei welcher Gelegenheit unsere -
 Doppelgänger uns daheim vertraten. Heute gab es das gleiche
-Spiel. Um elf Uhr abends fuhren „Harſt“ und „Schraut“,
-„wieder auf Umwegen, gen Schmargendorf, Blücherſtraße 10,
-und ein Spion hätte ſchon einen ſehr feinen Nieher haben
-müſſen, wenn er gemerkt hätte, daß es nur unſere lebenden
+Spiel. Um elf Uhr abends fuhren »Harst« und »Schraut«,
+»wieder auf Umwegen, gen Schmargendorf, Blücherstraße 10,
+und ein Spion hätte schon einen sehr seinen Nieher haben
+müssen, wenn er gemerkt hätte, daß es nur unsere lebenden
 Konterfeis waren.
 
-Um halb zwölf meldete Grißner telephoniſc< folgenves:
-„Angelangt. -- Berfolger anſcheinend eine junge, ſehr elegante
-Europäerin in einem Selbſtfahrer, dunkelblondes Haar, große
-dunkle Augen und kleinen üppigen Mund.“
+Um halb zwölf meldete Grißner telephonisch folgenves:
+»Angelangt. — Berfolger anscheinend eine junge, sehr elegante
+Europäerin in einem Selbstfahrer, dunkelblondes Haar, große
+dunkle Augen und kleinen üppigen Mund.«
 
-Um zwölf ſaßen wir im Nachizug nach Stettin, dritter
-Klaſſe, Typ: Provinzonkels! Um ſeH8 Uhr waren wir bei
-Kommerzienrat Schneider .. .=-
+Um zwölf saßen wir im Nachizug nach Stettin, dritter
+Klasse, Typ: Provinzonkels! Um seH8 Uhr waren wir bei
+Kommerzienrat Schneider …—
 
-Nan iſt der Leſer unterrichtet: Harſt und Schraut waren
-daheim in Berlin, und Schneider und Sc<hüß mit der „See-
-jchwalbe“ in Trelleborg.
+Nan ist der Leser unterrichtet: Harst und Schraut waren
+daheim in Berlin, und Schneider und Schhüß mit der »See-
+jchwalbe« in Trelleborg.
 
-Die bunte Billa Holgerſens erſtreäte ſiß mit ihrem
-Garten bis in das Wäldchen hinein. Wir bummelten gemäch=
-lic) die Straße hinab und wählten dann einen Feldweg,
-der uns in den Buchenwald brachte. Der Garten unſere3
-Doktors hatte hier an der RüFfront nur einen beſcheidenen
+Die bunte Billa Holgersens erstreäte siß mit ihrem
+Garten bis in das Wäldchen hinein. Wir bummelten gemäch-
+lich die Straße hinab und wählten dann einen Feldweg,
+der uns in den Buchenwald brachte. Der Garten unsere3
+Doktors hatte hier an der RüFfront nur einen bescheidenen
 Staketenzaun. Die Garage und ein kleiner Stall lagen
-Unweit dieſes Zaunes. Bor der Garage ſpritzte gerade ein
+Unweit dieses Zaunes. Bor der Garage spritzte gerade ein
 <@pagebreak/>
-2220L00SE20020002 39) 080 E00SIS0D08SDTS&E
-
-blondbärtiger dier Chauffeur Holgerſens Auto ab, und
-Holgerſen ſtand daneben, Zigarre im Munde, und ſpielte
+blondbärtiger dier Chauffeur Holgersens Auto ab, und
+Holgersen stand daneben, Zigarre im Munde, und spielte
 mit einem großen Schäferhund, den er in Berlin kurz vor
-ſciner Abreiſe aus einer Dreſſuranſtalt gekauft hatte, -- auf
-Haralds Rat. Es war ein mächtiges Tier, ſcheinbar ſehr
-gutmütig, aber auf den Mann dreſſiert und gegen „laufende
-Hände“ cin beſſerer Schuß als eine Waſſerbütte.
+sciner Abreise aus einer Dressuranstalt gekauft hatte, — auf
+Haralds Rat. Es war ein mächtiges Tier, scheinbar sehr
+gutmütig, aber auf den Mann dressiert und gegen »laufende
+Hände« cin besserer Schuß als eine Wasserbütte.
 
-Holgerſen bemerkte uns nicht, konnte auch nicht ahnen,
-daß wir die Jagd naH Arva Matty hier fortſezen wollten,
+Holgersen bemerkte uns nicht, konnte auch nicht ahnen,
+daß wir die Jagd naH Arva Matty hier fortsezen wollten,
 und hätte uns im übrigen auch gar nicht wiedererkannt.
 
-Nachdem wir ſo die ODertlichkeit genügend uns eingeprägt
-hatten, gingen wir in das Hotel Kung Chriſtaan, einem
-Bau aus Olims8 Zeiten mit eingeklexten neuen GSetiten=
+Nachdem wir so die ODertlichkeit genügend uns eingeprägt
+hatten, gingen wir in das Hotel Kung Christaan, einem
+Bau aus Olims8 Zeiten mit eingeklexten neuen GSetiten-
 flügeln.
 
-In der „modernen“ Borhalle ſaß in der EFe, die hier
-Screibzimmer und Leſeſaal vertrat, eine grauhaarige Dame
-und las Zeitungen. Sie hatte neben ſich eine Unmenge
-Blätter aufgeſtapelt: weiblicher Zeitungsmarder!, und ich
-Hätte ihr kaum Beachtung geſchenkt, wenn Harald nicht ganz
-unerwartet in der Nähe Platz genommen und ſich dann
+In der »modernen« Borhalle saß in der EFe, die hier
+Screibzimmer und Lesesaal vertrat, eine grauhaarige Dame
+und las Zeitungen. Sie hatte neben sich eine Unmenge
+Blätter aufgestapelt: weiblicher Zeitungsmarder!, und ich
+Hätte ihr kaum Beachtung geschenkt, wenn Harald nicht ganz
+unerwartet in der Nähe Platz genommen und sich dann
 an die Dame mit der Bitte gewandt hätte, ihm doh das
-Sto>Xholmer Tageblatt für kurze Zeit zu Werluifen da er
-den Börſenbericht einſehen wolle,
+StockXholmer Tageblatt für kurze Zeit zu Werluifen da er
+den Börsenbericht einsehen wolle,
 
-Er hatte deutſ< geſprochen.
+Er hatte deutsch gesprochen.
 
-Die Grauhaarige erwiderie auf franzöſiſch, ſie ſpräche
-leider nur engliſc<; und franzöſiſch, worauf Harſt ſeine Bitte
-in ſehr ſtolperigem EnzliſH wiederholte: Abſicht, denn ſein
-Engliſch iſt tadellos, wenn er will.
+Die Grauhaarige erwiderie auf französisch, sie spräche
+leider nur englisch; und französisch, worauf Harst seine Bitte
+in sehr stolperigem EnzlisH wiederholte: Absicht, denn sein
+Englisch ist tadellos, wenn er will.
 
-Was8 mir nun oan der ſc<hliht, aber mit Geſ<hma>
+Was8 mir nun oan der schhliht, aber mit Geschmack
 gekleideten Frau auffiel, war der Mund, ein kleiner, üppiger
-Mund, der nicht re<ht zu dem gelblichen, müden, faltigen
-Geji<t paßte.
+Mund, der nicht recht zu dem gelblichen, müden, faltigen
+Gejicht paßte.
 
 Die Dame hatte freilich etwas Not aufgelegt, aber recht
 <@pagebreak/>
-DOP>P>]>DPASDL-P>DD-DD 410. DSBE0OD0DSIDEGESOS
-
-ungeſchi>t, und dieſe roten Bäächen gaben ihr das Aus-
-jehen einer Scwindſüchtigen.
+ungeschickt, und diese roten Bäächen gaben ihr das Aus-
+jehen einer Scwindsüchtigen.
 
 Harald, der mit einer höflichen Berbeugung die Zeitung
-entgegengenommen hatte, ſchien jetzt ſo vertieft in die Börſen=
-verichte, daß im in meinem Korbſeſſel wirklich nict8 Beſſeres
-zu tun hatie, als im Spiegel der Miitelſäule der Borhalle
-die geſ<hmintkte Fremde, neben deren Plaz ein Malkaſten
-und eine Klappſtaffelei ſtanden, mit faſt kleinſtäotiſiher Neu=
-gier zu beobachten, denn -- etwas anderes gav's hier wirt=
-lim nicht zu ſehen.
+entgegengenommen hatte, schien jetzt so vertieft in die Börsen-
+verichte, daß im in meinem Korbsessel wirklich nict8 Besseres
+zu tun hatie, als im Spiegel der Miitelsäule der Borhalle
+die geschmintkte Fremde, neben deren Plaz ein Malkasten
+und eine Klappstaffelei standen, mit fast kleinstäotisiher Neu-
+gier zu beobachten, denn — etwas anderes gav’s hier wirt-
+lim nicht zu sehen.
 
-Zudem jagte ich mir mit einigem Ret, daß Harald dieſe
-Dame doc irgendwie intereſſant oder verdächtig vorgekommen
-jein müßte. Wozu ſonſt dieſe Komödie mit dem Börſenbericht?!
+Zudem jagte ich mir mit einigem Ret, daß Harald diese
+Dame doc irgendwie interessant oder verdächtig vorgekommen
+jein müßte. Wozu sonst diese Komödie mit dem Börsenbericht?!
 
-Alſo =- ich beobacztete .
+Also — ich beobacztete …
 
 Ganz allmählich kam iH dahinter: die Frau hatte eine
-künſtlihe Hand, und zwar war's die rechte Zand, bei der
-die in einem tadelloſen Wildlederhandſchuh ſteFenden Finger
+künstlihe Hand, und zwar war’s die rechte Zand, bei der
+die in einem tadellosen Wildlederhandschuh steFenden Finger
 dauernd unbeweglig blieben.
 
-Ih rauchte meine Zigarre und ſuhte meiner Erregung
+Ih rauchte meine Zigarre und suhte meiner Erregung
 Herr zu werden. Das war nicht leiht. In mir war ein
-ſeltſamer Argwohn aufgezuät ...
+seltsamer Argwohn aufgezuät …
 
-Dieſer Frau fehlte die rechte Hand!!
+Dieser Frau fehlte die rechte Hand!!
 
 Wie nun, wenn Ellen Marvatty gar nicht tot war!??!
 
-Konnte ihr Selbſtmord, nicht lediglich) dadurc< vorgetäuſcht
-worden ſein, daß der Inder ihr eins der ſataniſchen indiſchen
-Gifte gegeben hatte, vie einen tode3ähnlichen Zuſtand erzeugen?!
-Konnte die ſcheinbare „Leiche“ nicht nachher wieder aus=
-gegraben worden ſein?! Und -- konnte die Marvatty ihre
-Neigung für Holgerſen nicht lediglih geheu<elt haben,
-konnte ſie ihn nicht vielleicht in Wahrheit mit ihrem tödlichen
-Haſſe verfolgen, weil er ihr den Arm unnötig amputiert
+Konnte ihr Selbstmord, nicht lediglich) dadurch vorgetäuscht
+worden sein, daß der Inder ihr eins der satanischen indischen
+Gifte gegeben hatte, vie einen tode3ähnlichen Zustand erzeugen?!
+Konnte die scheinbare »Leiche« nicht nachher wieder aus-
+gegraben worden sein?! Und — konnte die Marvatty ihre
+Neigung für Holgersen nicht lediglih geheuchelt haben,
+konnte sie ihn nicht vielleicht in Wahrheit mit ihrem tödlichen
+Hasse verfolgen, weil er ihr den Arm unnötig amputiert
 hatte?!
 
-Wenn dies alles ſtimmte (und das „Alter“ dieſer Frau *
-dort konnte durßg Schminke nur künſtlich hervorgerufen ſein!?),
+Wenn dies alles stimmte (und das »Alter« dieser Frau«
+dort konnte durßg Schminke nur künstlich hervorgerufen sein!?),
 <@pagebreak/>
-DSSEOSESSEHS 11 BDS EDESSEDES
 
-Bann war Ellen die Berbündete Arva Mattys8, dann war ſie
-aud) die Gpionin geweſen, von der uns Kriminalaſſiſtent
-Srihner telephoniſch Weldung erſtattet hatte!
+Dann war Ellen die Berbündete Arva Mattys8, dann war sie
+auch die Gpionin gewesen, von der uns Kriminalassistent
+Srihner telephonisch Weldung erstattet hatte!
 
-Die Spiouin -- -=-- mit dein kleinen, üppigen Mund!!
+Die Spiouin — — mit dein kleinen, üppigen Mund!!
 
-Und genau ſjſolhen Mund hatte dieſe Fremde! --
+Und genau sjsolhen Mund hatte diese Fremde! —
 
-Mir wurde über all dieſen Gedanken immer heizer ...
-I<h fühlte, daß iH ſc<witte ... IH hatte jeht nur den
-einen Wunſch, daß Harald recht bald die Zeitung weglegte und
-iM oben auf unſeren Zimmern Gelegenheit fände, ihm
+Wir wurde über all diesen Gedanken immer heizer …
+Ich fühlte, daß iH schwitte … IH hatte jeht nur den
+einen Wunsch, daß Harald recht bald die Zeitung weglegte und
+ich oben auf unseren Zimmern Gelegenheit fände, ihm
 meinen Argwohn mitzuteilen.
 
-Ich wurde ungeduldig. Ih rutſchte hin und her, häftelte ..
+Ich wurde ungeduldig. Ih rutschte hin und her, häftelte …
 
-Da warf er mir einen verweiſenden Blik zu.
+Da warf er mir einen verweisenden Blik zu.
 
-Und... um ſeine jezt bärtigen Mundwinkel zucie dabei
+Und … um seine jezt bärtigen Mundwinkel zucie dabei
 ein eigenes Lächeln.
 
 Lächeln?!
 
 Oh - er würde nicht gelächelt haben, wenn er meine
-geheimſten Gedanken hätte leſen können!!
+geheimsten Gedanken hätte lesen können!!
 
-Da = -- erhob die Fremde ſich, nahm mit der Länken
-Malkaſten und Stativ und rauſchte an un38 „vorüber -- dur<
-die Pendeltür auf die ſonnenhelle Straße.
+Da — — erhob die Fremde sich, nahm mit der Länken
+Malkasten und Stativ und rauschte an un38 »vorüber — durch
+die Pendeltür auf die sonnenhelle Straße.
 
-IG beäugte ſie wie ... wie ein Detektiv ...
+IG beäugte sie wie … wie ein Detektiv …
 
-Der rechte Arin, die re<hte Hand: Kunſt!!
+Der rechte Arin, die rechte Hand: Kuns!!!
 
-Eine Stimme neben mir -- halblaut -- halblaut und
-doh jede Silbe ſcharf betont:
+Eine Stimme neben mir — halblaut — halblaut und
+doh jede Silbe scharf betont:
 
-„Ellen War -- vat -- ty'!i“
+»Ellen War — vat — ty’!i«
 
-Mein Kopf ſuhr herum ...
+Mein Kopf suhr herum …
 
-IH ſtarrte den Herrn Rechtsanwalt Dokior Schütz wie
-enigeiſtert an...
+IH starrte den Herrn Rechtsanwalt Dokior Schütz wie
+enigeistert an …
 
 Er fügte hinzu:
 
-„IGg ahnte das ſeit geſtern abend, mein Ulter ... Die
-Marvaity lebt ...“
+»IGg ahnte das seit gestern abend, mein Ulter … Die
+Marvaity lebt …«
 <@pagebreak/>
-2DSSEDSSDSSSSE 4) DESSECGSEGEDS
 
-92. Kapitel.
-Grabinſchrift.
+<h2>2. Kapitel.</h2>
+<h3>Grabinschrift.</h3>
 
-.. IM falle Harald gegenüber mit meinen Ueberra- -
+… IM falle Harald gegenüber mit meinen Ueberra- -
 Ichungen regelmäßig herein.
 
 Regelmäßig verfalle ich immer wieder in den alten
-Fehler: mir einzubilden, daß Harſt einmal doH weniger ſcharf
+Fehler: mir einzubilden, daß Harst einmal doH weniger scharf
 Hoobachtet haben könnte als ich!
 
-Geknickt ſaß i< nun da und erwiderte ſchüchtern:
+Geknickt saß ich nun da und erwiderte schüchtern:
 
-„IDaSſelbe wollte ich dir als große Neuigkeit mitteilen .. 1“
+»IDaSselbe wollte ich dir als große Neuigkeit mitteilen …!«
 
-„Eine Neuigkeit bleibt's immerhin -- ſo oder ſot“
+»Eine Neuigkeit bleibt’s immerhin — so oder sot«
 
-„Gewiß .. .-- Der arme Holgerſen!t“
+»Gewiß …— Der arme Holgersen!t«
 
-„Nun, er hoffte auf Liebe, und er ... erntete Haß!>“
+»Nun, er hoffte auf Liebe, und er … erntete Haß!ck«
 
-Harald blite miH eigentümlich an ...
+Harald blite miH eigentümlich an …
 
-„Meinſt du?!“
+»Meinst du?!«
 
-„Du niht?! Ellen Berbündete Arva Mattys, wa38
-fonſt 21“
+»Du niht?! Ellen Berbündete Arva Mattys, wa38
+fonst 21«
 
-„Im?! Wirklih?! Gibt es nur die Löſung?“
+»Hm?! Wirklih?! Gibt es nur die Lösung?«
 
-„I< wüßte keine andere ...“
+»Ich wüßte keine andere …«
 
-„IGO A +a
+»IGO A +a
 
-„Und die wäre?“
+»Und die wäre?«
 
-„Sannſt du dir das nicht ſelber zuſammenreimen??“
-„Nein, denu wenn Ellen den Doktor lieben würde, hä
-ſie ſig doM wohl kanm vor ihm verborgen gehalten und
-auch niemals Gift genommen, um den Selbſtmord vorzu»
+»Sannst du dir das nicht selber zusammenreimen??«
+»Nein, denu wenn Ellen den Doktor lieben würde, hä
+sie sig doM wohl kanm vor ihm verborgen gehalten und
+auch niemals Gift genommen, um den Selbstmord vorzu-
 
-gaukeln ...“
+gaukeln …«
 
-„Im "
+»Hm«
 <@pagebreak/>
-DAEEBDDOEDODSDDES 413 SDSSSSEDISSSIS&G
 
-„Was ſoll das?! So ſprich dig doc< aus!“ IH war
-bereits etwa3 ſtark nervös.
+»Was soll das?! So sprich dig doch aus!« IH war
+dereits etwa3 stark nervös.
 
-Harſi ſtand auf .
+Harsi stand auf …
 
-„Darüber gibt es "nichts zu ſagen, mein Alter ... Da
-iſt alles vollſtändig klar. Uns bleibt nur übrig zu reiten,
-m no< zu retten iſt ... = Komm", vielleicht haben wir
-Glüd.“
+»Darüber gibt es »nichts zu sagen, mein Alter … Da
+ist alles vollständig klar. Uns bleibt nur übrig zu reiten,
+noch zu retten ist … — Komm«, vielleicht haben wir
+Glüd.«
 
-Er ſchritt auf die Loge des Pförtner3 zu.
+Er schritt auf die Loge des Pförtner3 zu.
 
 Der Mann dienerte, gab uns das Fremdenbuch.
 
-Wir ſahen, daß die Malerin Ieanne Antoinette
-Baroneſſe d'Igny de Choiſeul heute früh mit dem
-Fährſchiff von Saßnitz eingetroſfen ſein mußte -- eine Stunde
+Wir sahen, daß die Malerin Ieanne Antoinette
+Baronesse d’Igny de Choiseul heute früh mit dem
+Fährschiff von Saßnitz eingetrosfen sein mußte — eine Stunde
 nach uns!
 
-Baroneſſe de Choiſeul aus Paris ... 52 Jahre alt ...--
+Baronesse de Choiseul aus Paris … 52 Jahre alt …—
 
-Harald ſte>te dem Portier einen Zehnkronenichein zu ...
+Harald steckte dem Portier einen Zehnkronenichein zu …
 
-„Sie werden ſchweigen! -- Kennen Sie die Baronin
-ſhon?“
+»Sie werden schweigen! — Kennen Sie die Baronin
+shon?«
 
-„Jawohl, Herr Rechtganwalt. Sie hat ſchon verſhiedent=
-lih bei uns gewohnt.“ 1
+»Jawohl, Herr Rechtganwalt. Sie hat schon vershiedent-
+lih bei uns gewohnt.«
 
-„Wann zum erſtenmal?“
+»Wann zum erstenmal?«
 
--- -- das war etwa vor einem Jahr ... Und
-dann kam ſie faſt jeden Monat für einige Tage .. ““ Er
-flüſterte grinſend ... „Ih glaube, ſie iſt niht ganz "richtig
-im Kopf ... Sie "malt ſtet8 . , . Gräber, hier auf dem
-Friedhof.“
+— — das war etwa vor einem Jahr … Und
+dann kam sie fast jeden Monat für einige Tage … « Er
+flüsterte grinsend … »Ih glaube, sie ist niht ganz »richtig
+im Kopf … Sie »malt stet8 … Gräber, hier auf dem
+Friedhof.«
 
-„Gräber?!
+»Gräber?!
 
-Der Portier lachte und nidte ... „Aber Geld hat ſie!
-Sie wirft damit nur ſo herum!“
+Der Portier lachte und nidte … »Aber Geld hat sie!
+Sie wirst damit nur so herum!«
 
-„Iſi ſie denn ſtets allein?“
+»Isi sie denn stets allein?«
 
-„Doh nicht! Sie hat immer ähre alte Zofe bei ſich,
-eine Südfranzöſin, eine buFlige Hexe . .. Angſt könnte man
-vor der haben ... Schielen tut ſie, und Po>ennarben hat ſie
-und hinfen tut ſie auh, aber zu der Baronin iſt ſie wie
-Mutter ...“
+»Doh nich!! Sie hat immer ähre alte Zofe bei sich,
+eine Südfranzösin, eine buFlige Hexe … Angst könnte man
+vor der haben … Schielen tut sie, und Pockennarben hat sie
+und hinfen tut sie auh, aber zu der Baronin ist sie wie
+Mutter …«
 <@pagebreak/>
-HDOSEOSIEDHSEIED d/ DEB EODDLDGNDD
 
-Sarald blidte wieder in das Fremdenbuch. Da ſtand
+Sarald blidte wieder in das Fremdenbuch. Da stand
 unter dein: Namen der Baronin:
 
-Louiſjon GaSparette Le Bianc, Paris,
+Louisjon GaSparette Le Bianc, Paris,
 Kammerfrau, 69 Jahre.
 
-„Iaben Sie mal eins von den Bildern der Baronin
-geſehen ?' fragie Harſt weiter, indem er jezi zwanzig Keoonen
-ven Beſizer wechſeln ließ.
+»Iaben Sie mal eins von den Bildern der Baronin
+gesehen ?’ fragie Harst weiter, indem er jezi zwanzig Keoonen
+ven Besizer wechseln ließ.
 
-Der Portier hob die Hand. „Da hängt ja eins, Herr
-NWechtsanwalt ...“
+Der Portier hob die Hand. »Da hängt ja eins, Herr
+NWechtsanwalt …«
 
 Wirklich, in der Pförtnerloge gerade über dem Regal -
-mit den Schlüſſeln glänzte ein breiter Goldrahmen ... en
-mittelgroßes Gemälde, düſter in der Stimmung, düjter in den
-Farben wie ein Bödlin ..! Ein Grabhügel mit einem
-j<Gwarzen Marmorſtein, zwei Trauerweiden und zwei Edels
+mit den Schlüsseln glänzte ein breiter Goldrahmen … en
+mittelgroßes Gemälde, düster in der Stimmung, düjter in den
+Farben wie ein Bödlin …! Ein Grabhügel mit einem
+jchGwarzen Marmorstein, zwei Trauerweiden und zwei Edels
 tannen.
 
-„E38 iſt das Grab ſo einer vom Variete,“ erklärte
-der Pförtner unaufgeforderi ... „Ellen Marvatty hieß ſie,
-und ſie hat ſich hier vergifiet, weil ihr der Urm adoperiert
-werden mußte ... Seiltänzerin und Trapezkünſtlerin war
-fie ... Ein hübſches Mädel ... Und - -- das iſt ihr
-Grab, meine Herren. Wie geſagt, die Baronin ... hat...
-nn? Bogel! Wer mali Gräber!!!“
+»E38 ist das Grab so einer vom Variete,« erklärte
+der Pförtner unaufgeforderi … »Ellen Marvatty hieß sie,
+und sie hat sich hier vergifiet, weil ihr der Urm adoperiert
+werden mußte … Seiltänzerin und Trapezkünstlerin war
+fie … Ein hübsches Mädel … Und - — das ist ihr
+Grab, meine Herren. Wie gesagt, die Baronin … hat …
+nn? Bogel! Wer mali Gräber!!!«
 
-Harald lachte. „Da haven Sie recht. Un3 iſt die Baronin
+Harald lachte. »Da haven Sie recht. Un3 ist die Baronin
 ja herzlim gleichgüliig, aber vorhin hier in der Borhalle
-bewachte ſie ihre Zeitungen wie ein Tiger, und...
-einen künſtlichen Nrm -- -- und Male-in, -- au ſelten!“
+bewachte sie ihre Zeitungen wie ein Tiger, und …
+einen künstlichen Nrm — — und Male-in, — au selten!«
 
-Der Poriier ſchütielie den Kapf, „Kein känſtlicher Am,
-Herr Rechisanwalt, = nein, nur verkrüppelt und ſteif. Ich
+Der Poriier schütielie den Kapf, »Kein känstlicher Am,
+Herr Rechisanwalt, — nein, nur verkrüppelt und steif. Ich
 habe die rechte Hand der Baronin ein einziges Mal ohne
-Handſchuh geſehen = -- eniſezlich!“ k
+Handschuh gesehen — — enisezlich!«
 
-Harald ſiuzte merklich. „Bielleiht haben Sie ſiH auch
-geirrt und es war eine Wachshand ...“
+Harald siuzte merklich. »Bielleiht haben Sie siH auch
+geirrt und es war eine Wachshand …«
 
-„Ausgeſchloſjen! Wer wird ſich denn eine ſo abſchcatiche
-Pfote modellieren laſſen!“
+»Ausgeschlosjen! Wer wird sich denn eine so abschcatiche
+Pfote modellieren lassen!«
 <@pagebreak/>
-EESGEPDESEGDSESO]--D 45 SEOSSSSOIODOEDSOD
 
-„Ullerdings ...“
+»Ullerdings …«
 
 Er trat näher an da8 Bild heran.
 
-„".". Gar nichi ſhleht gemalt . .. Was ſteht denn
-da als Inſchrift auf dem Marmorſtein?“
+».». Gar nichi shleht gemalt … Was steht denn
+da als Inschrift auf dem Marmorstein?«
 
-„Zeine Uhnung ..! Wird auf dem Bild auh ſchwer zu
-entziffern ſein, Herr Necht3anwalt.“
+»Zeine Uhnung …! Wird auf dem Bild auh schwer zu
+entziffern sein, Herr Necht3anwalt.«
 
-Harald nahm das Gemälde herab und hielt e8 ſchräg
-gegen das Licht, Ic<h ſtellte mich hinter ihn.
+Harald nahm das Gemälde herab und hielt e8 schräg
+gegen das Licht, Ichh stellte mich hinter ihn.
 
-Es ging mir wie ein elekiriſcher Schlag durch) den
-Körper, als ich unten rechts das Bild mit E. M. ſigniert
-fand - Ellen Marvatty! =- Aber daran noFH nicht genug:
-Gdöhaute man ſehr genau hin, ſo fonnie man auf dem
-ichwarzeun Stein leſen:
+Es ging mir wie ein elekirischer Schlag durch) den
+Körper, als ich unten rechts das Bild mit E. M. signiert
+fand - Ellen Marvatty! — Aber daran noFH nicht genug:
+Gdöhaute man sehr genau hin, so fonnie man auf dem
+ichwarzeun Stein lesen:
 
-Der Unſichtbare
+Der Unsichtbare
 der Unjichkbaren.
 Der Haß hörei nimmer auf.
 
-Mid überlief es eiskalt ...
+Mid überlief es eiskalt …
 
 Was hieß das?!
 
-Der Unſichtbare der Unſichtbaren?!
+Der Unsichtbare der Unsichtbaren?!
 
 Und dann: Der Haß höret nimmer auf!!
 
-Harſt ſagte, = und gleichgültig brachte er das Vikd
-an ſeinen Platz zurüc:
+Harst sagte, — und gleichgültig brachte er das Vikd
+an seinen Platz zurüc:
 
-„Ih kann nichts entziffern ... Es liegt auh nichts daran.
-Mag die verrükte Baronin meinetwegen ſo viel Gräber
-malen wie ſie will! =- Wann iſt Tiſchzeit?“
+»Ih kann nichts entziffern … Es liegt auh nichts daran.
+Mag die verrükte Baronin meinetwegen so viel Gräber
+malen wie sie will! — Wann ist Tischzeit?«
 
-„Zwei Uhr, Herr NRedts8anwalt . . . Ein glänzendes
-Menü ...“
+»Zwei Uhr, Herr NRedts8anwalt … Ein glänzendes
+Menü …«
 
-„Gut, wir werden pünktlich ſein“ = und wir gingen
-wieder auf die Straße hinaus ...
+»Gut, wir werden pünktlich sein« — und wir gingen
+wieder auf die Straße hinaus …
 <@pagebreak/>
-2LSDSSSSESDOGG 46. STEBSGBSDSEESD
 
-3. Kapitel.
-Mittagsſuppe.
+<h2>3. Kapitel.</h2>
+<h3>Mittagssuppe.</h3>
 
-... KirHhof von Trelleborg ...
+… KirHhof von Trelleborg …
 
 Ein Jriedhof8verwalter, dem man den früheren Seemann
-auf zehn Scritt anſicht, fährt uns umher. E3 gibt hier in
-der ſogenannten EXe der Namenlcſm ſo allerlei anzu=
-' ſtaunen. In dieſer Ee ruhen die unbekannten Toien. Man
-hat ihre Hügel eigenartig geſHhmüdt. An den ſchlichten
+auf zehn Scritt ansicht, fährt uns umher. E3 gibt hier in
+der sogenannten EXe der Namenlcsm so allerlei anzu-
+staunen. In dieser Ee ruhen die unbekannten Toien. Man
+hat ihre Hügel eigenartig gesHhmüdt. An den schlichten
 Hol3zkreuzen hängt das, was man bei den Leichen fand:
-Tabakpfeifen, Meſſer, billige Uhren mit längſt verroſteten
-Nickelketien, Spiegel mit naten Weibern auf der Rücſeite,
-Kämme, Taſchenbürſten, ſilberne Matroſenohrringe ...
+Tabakpfeifen, Messer, billige Uhren mit längst verrosteten
+Nickelketien, Spiegel mit naten Weibern auf der Rücseite,
+Kämme, Taschenbürsten, silberne Matrosenohrringe …
 
-Aber uns 3o9g es nah einer anderen Sielle hin „..
+Aber uns 3o9g es nah einer anderen Sielle hin«…
 
-Aud) die erreichten wir.
+Auch die erreichten wir.
 
-Der Friedhofs8verwalier zeigte uns Ellens Grad ...
+Der Friedhofs8verwalier zeigte uns Ellens Grad …
 
-Er ſprach alleriei ...
+Er sprach alleriei …
 
-Ih hörte gar nicht hin...
+Ih hörte gar nicht hin …
 
-Id) fraß nur mit den Bliren die Inſchrift des ſchwarzen
-Marwmorſteins ...
+Ich fraß nur mit den Bliren die Inschrift des schwarzen
+Marwmorsteins …
 
-Da war zu leſen -- -- nichts von
+Da war zu lesen — — nichts von
 
 Der Unjfichtbare
-der Unſichtbaren,
+der Unsichtbaren,
 vder von
 Der Haß höret nimmer auf.
-Nein, nur: | |
+Nein, nur:
 Ellen Marvatty.
-Gott iſt die Liebe.
+Gott ist die Liebe.
 <@pagebreak/>
-DSSSSSSDSOSSSDS 17 0202020020080 08
 
-Weiter nichts ...
+Weiter nichts …
 
-„Wer hat der Aermſten hier in der Selbſtmördere>e
-den 'Stein geſchenkt?“ fragte Harald den alten Herrn.
+»Wer hat der Aermsten hier in der Selbstmörderecke
+den ’Stein geschenkt?« fragte Harald den alten Herrn.
 
-„Doktor Holgerſen ... Einer unſerer Aerzte hier, eben
-der Arzt, der die Seiltänzerin operierte ... = Ein netter
-Mann, unſer Doktor Holgerſen ,.. Nur -- nur ſehr ner»
-vö8 ... Sein Chauffeur hat mir mal ſo allerhand erzählt...
-Der Doktor ſoll ... an Geſpenſterfurc<t leiden, meine Herren.
-Wenn ich als früherer ShHiffskapitän abergläubiſch bin, das
-iſt verſtändlich. Aber ein Urzt ...!! Obwohl -- -- ng, =-
-die Herren intereſſiert das nicht ...“
+»Doktor Holgersen … Einer unserer Aerzte hier, eben
+der Arzt, der die Seiltänzerin operierte … — Ein netter
+Mann, unser Doktor Holgersen … Nur — nur sehr ner-
+vö8 … Sein Chauffeur hat mir mal so allerhand erzählt …
+Der Doktor soll … an Gespensterfurcht leiden, meine Herren.
+Wenn ich als früherer ShHiffskapitän abergläubisch bin, das
+ist verständlich. Aber ein Urzt …!! Obwohl — — ng, —
+die Herren interessiert das nicht …«
 
-„Ooh -- erzählen Sie nur ...“
+»Ooh — erzählen Sie nur …«
 
-„IHG wollte nur ſagen, daß man hier inmitten der Toten
-auh als Arzt leicht abergläubiſm werden könnte, denn...“
---“ er bli>te ſic) ſcheu um, der alte Graubart -- „denn...
-hier die Marvatty zum Beiſpiel, die ... wandert ſo manche
-Naht als Geſpenſt über die Hügel ... = Oh, lächeln Sie
-nicht, meine Herren ...“
+»IHG wollte nur sagen, daß man hier inmitten der Toten
+auh als Arzt leicht abergläubism werden könnte, denn …«
+—» er blickte sich scheu um, der alte Graubart — »denn …
+hier die Marvatty zum Beispiel, die … wandert so manche
+Nacht als Gespenst über die Hügel … — Oh, lächeln Sie
+nicht, meine Herren …«
 
-„Wir lächeln durchaus nict ...“
+»Wir lächeln durchaus nict …«
 
-„Sie ... wandert, die Selbſtmörderin, ſie kann keine
-Ruhe finden, und dann -- dann trägt ſie immer ihren
-amputierten Arm in der linken Hand, und -- -- das ſieht
-noh gräßlicher aus!“
+»Sie … wandert, die Selbstmörderin, sie kann keine
+Ruhe finden, und dann — dann trägt sie immer ihren
+amputierten Arm in der linken Hand, und — — das sieht
+noh gräßlicher aus!«
 
-„Wann ... wandert ſie denn?“
+»Wann … wandert sie denn?«
 
-„Zuweilen ... Meiſt ſo ... jo um den dreizehuten jedes
-Wonats herum ...“
+»Zuweilen … Meist so … jo um den dreizehuten jedes
+Wonats herum …«
 
-„Das mödten wir mal miterleben, Herr Berwalter ...“
+»Das mödten wir mal miterleben, Herr Berwalter …«
 
-Der Alte ſchaute uns ungläubig an. Dann lächelte
-& +... „Sie müßten ſich ein paar Nächte hier auf dem Kirch=
-hof verſte&en ... Aber -- Sie werden ſich hüten, meine
+Der Alte schaute uns ungläubig an. Dann lächelte
+& +… »Sie müßten sich ein paar Nächte hier auf dem Kirch-
+hof verste&en … Aber — Sie werden sich hüten, meine
 
 en.
-„Allerding8! -- So, nun danken wir Ihnen beſtens
-für Ihre Führung ... Darf ich Ihnen vielleicht dieſe fünfzig
+»Allerding8! — So, nun danken wir Ihnen bestens
+für Ihre Führung … Darf ich Ihnen vielleicht diese fünfzig
 <@pagebreak/>
-SEODEGSEBDESDEDI 48 B22DEOEDOSDDH>S
+Kronen spenden …? Oh — nehmen Sie nur … — Auf
+Wiedersehen …« —
 
-Kronen ſpenden .. ? Oh -=- nehmen Sie nur ... = Auf
-Wiederſehen ...“ =
+-… Und wir waren draußen auf der einsamen GStroße,
+gingen still dahin, bis Harald leise meinte:
 
-.-.. Und wir waren draußen auf der einſamen GStroße,
-gingen ſtill dahin, bis Harald leiſe meinte:
-
-„Das Seliſame häuft ſic<! Dieſer Fall iſt doH das
-Eigenartigſte, was uns je begegnete ... Wohin wir greifen:
+»Das Selisame häuft sich! Dieser Fall ist doH das
+Eigenartigste, was uns je begegnete … Wohin wir greifen:
 Ungewöhnliches! Nirgend38 auch nur eine Spur von
-Schablone, von Alltäglihem -=- nirgend8! Nur Dinge, die
-hart an ... Spuk, Irrſinn und Unbegreifliches ſtreifen ...
--- Wir finden hier eine angeblih Tote al8 Malerin ihres.
-eigenen Grabe8 wieder, ſehen eins ährer Bilder, auf dem
-ſie die Inſchrift des Steines in einer Weiſe geändert hat,
+Schablone, von Alltäglihem — nirgend8! Nur Dinge, die
+hart an … Spuk, Irrsinn und Unbegreifliches streifen …
+— Wir finden hier eine angeblih Tote al8 Malerin ihres.
+eigenen Grabe8 wieder, sehen eins ährer Bilder, auf dem
+sie die Inschrift des Steines in einer Weise geändert hat,
 die zu raten gibt:
 
-Der Unſichtbare
-der Unſichtbaren,
+Der Unsichtbare
+der Unsichtbaren,
 und
 Der Haß höret nimmer auf.
-Wie kam Ellen Marvatty zu dieſer Aenderung?! =- Und
-dann: Ellen ... wandert! Ellen erſcheint hier jeden Monat
+Wie kam Ellen Marvatty zu dieser Aenderung?! — Und
+dann: Ellen … wander!! Ellen erscheint hier jeden Monat
 
-um den dreizehnten herum in Trelleborg und ... ſpielt
-Geſpenſt mit ihrem amputierten Arm! = -- Das alles
-klingt wie Ausgeburt einer überhitzten Phantaſie ... und
-iſt Tatſac<e! =- WaZ2 -- -- ſoll das alles?!“
+um den dreizehnten herum in Trelleborg und … spielt
+Gespenst mit ihrem amputierten Arm! — — Das alles
+klingt wie Ausgeburt einer überhitzten Phantasie … und
+ist Tatsache! — WaZ2 — — soll das alles?!«
 
-Er blieb plötzlich ſtehen ...
+Er blieb plötzlich stehen …
 
-„SdHraut, mir iſt ſo zumute, als ob's nicht heller lichter
-Maitag, ſondern eine unheimliche, ſtürmiſche Novembernacht
-wäre .. .I<h ... ſpüre das Dunkle, Rätſelhafte ringsum...
-Die Luft ſcheint mir geladen mit einem Fluid von Geſpenſter»
-haftem, Unerklärlichem ... =- =- Sag', was tun wir?“
+»SdHraut, mir ist so zumute, als ob’s nicht heller lichter
+Maitag, sondern eine unheimliche, stürmische Novembernacht
+wäre … Ich … spüre das Dunkle, Rätselhafte ringsum …
+Die Luft scheint mir geladen mit einem Fluid von Gespenster-
+haftem, Unerklärlichem … — — Sag’, was tun wir?«
 
-Seine Frage berührte miH durchaus nicht ſeltſam, denn
-au<h ich kam mir hilflos wie ein Kind in finſterer Nacht im
-dichten Geiſterwalde vor.
+Seine Frage berührte miH durchaus nicht seltsam, denn
+auch ich kam mir hilflos wie ein Kind in finsterer Nacht im
+dichten Geisterwalde vor.
 
 Hilflos!!
 
-„Was tun wir ..!“ wiederholte ih medaniſhH ...
+»Was tun wir …!« wiederholte ih medanishH …
 <@pagebreak/>
-SSSSSSDSEDSSS 49 0200 SBSBDEGHEEOSDO
 
-„Ellen Marvatty etwa die Wahrheit auf den Kopf
-zuſagen?! = Darin läge ein ungeheures8 Niſiko. Zu groß.
+»Ellen Marvatty etwa die Wahrheit auf den Kopf
+zusagen?! — Darin läge ein ungeheures8 Nisiko. Zu groß.
 
--- Alſo =- = abwarten, ob die laufende Hand nochmals
-unſeren Doktor beläſtigt? = Dann könnten wir hier viel»
-kei<i einen Monat warten = bis zum dreizehnten Zuni,
+— Also — — abwarten, ob die laufende Hand nochmals
+unseren Doktor belästigt? — Dann könnten wir hier viel-
+keichi einen Monat warten — bis zum dreizehnten Zuni,
 
--- -- ic<m danke!“
+— — ichm danke!«
 
-Er 'ſhaute mich trübe an ...
+Er ’shaute mich trübe an …
 
-„Weißt du, mein Alter, = -=- na<H Hauſe möchte
-ich! Gleich! I< leide ſelten an Ahnungen. Aber hier, jetzt...,
--- mir iſt, als ob ... der Tod uns umlauert ... al8 ob
-wir, die wir dem Gevatter Knochenmann ſo oft kes ins
-grinſende Antlitz gebli>kt, die8mal ... die Partie verlieren
-werden . .. I< bin gewiß kein Feigling. Aber .. „aber ...“
+»Weißt du, mein Alter, — — nachH Hause möchte
+ich! Gleich! Ich leide selten an Ahnungen. Aber hier, jetzt …
+— mir ist, als ob … der Tod uns umlauert … al8 ob
+wir, die wir dem Gevatter Knochenmann so oft kes ins
+grinsende Antlitz geblickt, die8mal … die Partie verlieren
+werden … Ich bin gewiß kein Feigling. Aber … »aber …«
 
-Er ſchwieg .
+Er schwieg …
 
-Sein Kopf beugte ſiH. in den Nacken .
+Sein Kopf beugte siH. in den Nacken …
 
-Vor unſere Füße war etwas aus der Luft herab»
-gefallen . .
+Vor unsere Füße war etwas aus der Luft herab-
+gefallen …
 
 Mit trägen Flügeihlägen flog eine Krähe dem Friedhof
 SW .154
-Au38 der Luft...
+Au38 der Luft …
 
-Als hätte die Krähe e8 herabgeworfen =- e 8: ein Papier»
-röllhen, umwidelt mit ſilbernem Draht, an dem ein rundes
-Medaillon hing, = indiſche alte Arbeit, ein Amulett mit
-dem Bildnis des Gottes Indra, des WeltbeglüFers Indra! --
+Als hätte die Krähe e8 herabgeworfen — e 8: ein Papier-
+röllhen, umwidelt mit silbernem Draht, an dem ein rundes
+Medaillon hing, — indische alte Arbeit, ein Amulett mit
+dem Bildnis des Gottes Indra, des WeltbeglüFers Indra! —
 
-Das PapierröllHhen war eins von Holgerſens Rezeptfor»
-mularen, und auf der Rücſeite ſtand in ſteiler lateiniſcher
-SGhrift =- deutſche Worte:
+Das PapierröllHhen war eins von Holgersens Rezeptfor-
+mularen, und auf der Rücseite stand in steiler lateinischer
+SGhrift — deutsche Worte:
 
-Kehret heim! I< bin allezeit
+Kehret heim! Ich bin allezeit
 um euch!
 Arva Matty, Indras Bote.
 
-Das ſtand geſchrieben ..
+Das stand geschrieben …
 
-Eine Krähe war über uns hinweggeſtrichen ... Ein
-Bapierröll<hen fiel ...
+Eine Krähe war über uns hinweggestrichen … Ein
+Bapierröllchen fiel …
 
-Dreſſur?
+Dressur?
 <@pagebreak/>
-DSSDBDGESSSOIDSS 50 200D0020SDS0SE2DO0dS
-Taſchenſpielerkniff?!
+Taschenspielerkniff?!
 Wie?
 
-Und wir ſahen uns mit ſeltſamen Augen an und ſchritten
-weiter ...
+Und wir sahen uns mit seltsamen Augen an und schritten
+weiter …
 
-Kein Wort ſprachen wir ...
+Kein Wort sprachen wir …
 
-Bis wir in unſerem Hotelzimmer waren. Und Harſt
-ſiH in die Sofae>e warf .. ;
+Bis wir in unserem Hotelzimmer waren. Und Harst
+siH in die Sofaecke warf …
 
-Da ſagte er:
+Da sagte er:
 
-„Es hat alles nichts genüßt! Der Inder wird uns
-finden und erkennen, und wenn wir ...“
+»Es hat alles nichts genüß!! Der Inder wird uns
+finden und erkennen, und wenn wir …«
 
-Er machte nur eine Handbewegung, = -- wie einer, der
-niht mehr aus no<h ein weiß.
+Er machte nur eine Handbewegung, — — wie einer, der
+niht mehr aus noch ein weiß.
 
 Da kam der Kellner und meldete, daß unten in der
-Glag8veranda geſpeiſt würde.
+Glag8veranda gespeist würde.
 
-a da =“ -- kam ... der Umſ<wung.
+da — — kam … der Umschwung.
 
 0:
 
-In der Beranda waren einzelne Tiſche für die Gäſte
-gede&t. Unſer Tiſch ſtand in einer EFXe nah der Straße
-zu. Der TiſH der Baronin und ihrer Kammerfrau war von
-dem unſern durc< zwei andere getrennt. An dieſen beiden
-ſaßen nur je ein einzelner Herr, Geſchäftsreiſende offenbar..
-Die Kammerfrau hatte ihren Platz ſo, daß wir ihr Geſicht
-in uns hatten, während die „Baronin“ uns den Rüden.
+In der Beranda waren einzelne Tische für die Gäste
+gede&t. Unser Tisch stand in einer EFXe nah der Straße
+zu. Der TisH der Baronin und ihrer Kammerfrau war von
+dem unsern durch zwei andere getrennt. An diesen beiden
+saßen nur je ein einzelner Herr, Geschäftsreisende offenbar …
+Die Kammerfrau hatte ihren Platz so, daß wir ihr Gesicht
+in uns hatten, während die »Baronin« uns den Rüden.
 ehrte.
 
-Kaum hatten wir uns geſetzt, als der Kellner die Suppe
-brachte, -- zuerſt der Baronin und der Südfranzöſin ...
+Kaum hatten wir uns gesetzt, als der Kellner die Suppe
+brachte, — zuerst der Baronin und der Südfranzösin …
 
-Südfranzöſin ..!! =
+Südfranzösin …!! -
 
-IH muß hier notwendig etwas einſchalten. Wenn der
-Pförtner die Kammerfrau al8 Hexe bezeichnet hatte, ſo
-war das teine Uebertreibung geweſen. Das Weib war von
-obſchre>ender Häßlichkeit, Die ſchielenden Augen mochten
-noFH hingehen. Aber ſchon die Augenbrauen, die ſehr hoch
+IH muß hier notwendig etwas einschalten. Wenn der
+Pförtner die Kammerfrau al8 Hexe bezeichnet hatte, so
+war das teine Uebertreibung gewesen. Das Weib war von
+obschreckender Häßlichkeit, Die schielenden Augen mochten
+noFH hingehen. Aber schon die Augenbrauen, die sehr hoch
 über den Höhlen lagen, waren abnorm, waren dik und
-borſtig wie Schnurrbärte, die kurz geſchnitten und ſHhlecht
+borstig wie Schnurrbärte, die kurz geschnitten und sHhlecht
 <@pagebreak/>
-DSSSSODSSSDSEGES 531 00 SSDSSDSSSSSSDS
-
-gepflegt ſind. Dazu waren ſie nicht in nah unten offenem
-Bogen gekrümmt, ſondern häkchenförmig, und die Hafen=
-enden lagen über der Naſenwurzel und bildeten, da ſich
-ihre Spitzen berührten, auf der Stirn ein offene3 Dreie>.
-Das wirkte derart ſ<HeußliHh, derart al38 tierhafte Verun=
-ſtaltung, daß man immer wieder dieſe abſcheulihen Brauen
-anſehen mußte. Die diFe, plumpe Naſe mit den weit ges
-blähten Nüſtern kam des8hald auch in ihrer gemeinen Häßs=
-li<keit gar ni<t zur Geltung, ebenſowenig der wulftige Mund
-und da8 ſtets ſichtbare künſtliche Gebiß mit den gelb ange=
+gepflegt sind. Dazu waren sie nicht in nah unten offenem
+Bogen gekrümmt, sondern häkchenförmig, und die Hafen-
+enden lagen über der Nasenwurzel und bildeten, da sich
+ihre Spitzen berührten, auf der Stirn ein offene3 Dreieck.
+Das wirkte derart schHeußliHh, derart al38 tierhafte Verun-
+staltung, daß man immer wieder diese abscheulihen Brauen
+ansehen mußte. Die diFe, plumpe Nase mit den weit ges
+blähten Nüstern kam des8hald auch in ihrer gemeinen Häßs-
+lichkeit gar nicht zur Geltung, ebensowenig der wulftige Mund
+und da8 stets sichtbare künstliche Gebiß mit den gelb ange-
 laufenen Hauern.
 
-Wer dieſes Geſicht ein einziges Mal geſehen hatte, vergaß
+Wer dieses Gesicht ein einziges Mal gesehen hatte, vergaß
 es nie wieder.
 
 Lächerlicd wirkte daher auF die aufgedonnerte Kleidung
-dieſer mittelgroßen, mageren Perſon. Sie war in braune Seide
-gezwängt, mit billigem Schmut behängt, -- all das von
-einer erſtannlicden Geſchmacdloſigkeit, die deſto ſeltjamer ſich
-madhte, weil im Gegenſatz hierzu die „Baronin“ ſich ſchligt,
-vornehm und äußerſt geſchma> voll trug. --
+dieser mittelgroßen, mageren Person. Sie war in braune Seide
+gezwängt, mit billigem Schmut behängt, — all das von
+einer erstannlicden Geschmacdlosigkeit, die desto seltjamer sich
+madhte, weil im Gegensatz hierzu die »Baronin« sich schligt,
+vornehm und äußerst geschmack voll trug. —
 
-'Aijo = der Kellner ſervierte die Suppe, in Tellern.
+Aijo — der Kellner servierte die Suppe, in Tellern.
 Sech3 Teller balanzierte er auf einem großen Teebrett auf
-der Linken ...
+der Linken …
 
-Das ſollte der Kammerfrau zum VBerhängnis werden,
-als ſie, ahnung8lo8, daß der Keilner lautlos nebeu ſie
-getreten, vie Linke hob, um ihr ſchwarzes Seidenhäubchen
-zurehtzurüken. Sie ſtieß gegen das Brett, es kippte...
-Sie blickte auf, und der Inhalt von ſeHs8 dampfenden Tellern
-ergoß ji wie ein ſeitiger Bach über dieſes abſcheuliche
-Geſicht.
+Das sollte der Kammerfrau zum VBerhängnis werden,
+als sie, ahnung8lo8, daß der Keilner lautlos nebeu sie
+getreten, vie Linke hob, um ihr schwarzes Seidenhäubchen
+zurehtzurüken. Sie stieß gegen das Brett, es kippte …
+Sie blickte auf, und der Inhalt von seHs8 dampfenden Tellern
+ergoß ji wie ein seitiger Bach über dieses abscheuliche
+Gesicht.
 
-Sie ſchrie auf ... fuhr empor .
+Sie schrie auf … fuhr empor …
 
-Ihre Augen waren geblendet -- "alles triefte an ihr .
+Ihre Augen waren geblendet — »alles triefte an ihr …
 
-Und da geſchah das noc< Erregendere. Harſt eilte hin,
+Und da geschah das noch Erregendere. Harst eilte hin,
 rief laut:
 
-„I< werde für die Frau ſorgen ... Die Augen ſind
+»Ich werde für die Frau sorgen … Die Augen sind
 <@pagebreak/>
-GEL EEEODEO>-ES ZK) o0HPSGESEESDLEDSD]
+bedroht … Ich habe Salde auf meinem Zimmer … Schneider,
+HilF: »miei.
 
-bedroht ... Ich habe Salde auf meinem Zimmer ... Schneider,
-HilF: "miei.
+IS war sofort im Bilde«…
 
-IS war ſofort im Bilde „..
+Das Weib sträubte sich …
 
-Das Weib ſträubte ſich ,..
+Harst umklammerie es, und unseren vereinten Kräften
+gelang es, ihren Widerstand zu besiegen. Hm Nu hatten wir
+sie fortgeführt — empor in unjer Zimmer …
 
-Harſt umklammerie es, und unſeren vereinten Kräften
-gelang es, ihren Widerſtand zu beſiegen. Im Nu hatten wir
-ſie fortgeführt = empor in unjer Zimmer ... '
+Und — weshalb?t
 
-Und -- weshalb?t
+… Weil die heiße Suppe den Klebstosf, der die falschen
+Branen hielt, genau so aufgelöst hatte wie die … Schminke,
+die PoFennarben, verlaufen waren. -
 
-... Weil die heiße Suppe den Klebſtoſf, der die falſchen
-Branen hielt, genau ſo aufgelöſt hatte wie die ,.. Schminke,
-die PoFennarben, verlaufen waren. »
-
-So ... brohten wir Aroa Watty in unſere Gewalt.
+So … brohten wir Aroa Watty in unsere Gewalt.
 
 Es war der Inder.
 
-Und -=- er war unſer. Er war wehrlos, er blinzelte
-in onmäöhtigem Grimm in ein kleines ſchwarzes Loch dicht
-vor ſeine eilen Biſage == in das Mäündungslo<h einer
-Repetierpiſtole,
+Und — er war unser. Er war wehrlos, er blinzelte
+in onmäöhtigem Grimm in ein kleines schwarzes Loch dicht
+vor seine eilen Bisage — in das Mäündungsloch einer
+Repetierpistole,
 <@pagebreak/>
-DGV ESD BDS 538 Gb p-PS-SDS DO D
 
-8. apttel,
-DieſHillernde Schale
+8\. apttel,
+DiesHillernde Schale
 
-„Verſ<ließe die Tür,“ vefah!l Harſt.
+»Verschließe die Tür,« vefah!l Harst.
 
-Id) tat's, und es war die höchſte Zeit geweſen. Jemand
-pochte ... der Hotelbeſitzer .,. „Ulles in Ordnung,“ rief ih
-dur; die Tür hindurc. „Beunruhigen Sie ſih nicht
-weiter ...“
+Ich tat’s, und es war die höchste Zeit gewesen. Jemand
+pochte … der Hotelbesitzer … »Ulles in Ordnung,« rief ih
+dur; die Tür hindurc. »Beunruhigen Sie sih nicht
+weiter …«
 
-35h drehte mi< dann wieder dem Sofa zu, in deſſen
-EXIe der Inder ſaß. Bor ihm Harald.
+35h drehte mich dann wieder dem Sofa zu, in dessen
+EXIe der Inder saß. Bor ihm Harald.
 
-Arva Matty wiſchie ſich mit ſeinem Taſchentuch das
-Geſicht ab, trocknete vie Augen, und veorſhönerte durch dieſe
-Säuberung ſein Yeußeres darchaus nich!, Dann lehnte er
-ſi zurüc, kreuzte die Urme über der Bruſt und ſchaute
-ſi gleichgültig im Zinmer um. Sein Seſich! war von jener
-kalten Unt urchdringlichfeit des Uusrucs, wie ich ſie ſchon
-bei ſo vielen indiſchen Yogis (Fatiren) beobachtei hatte.
-Er ſpielte jezt nicht mehr, und ſeine dunflen Augen blickten
-ohne jede Erregung ... an uns vorüber. Die Wut, der
-ohnmäd) ige Grimim war urplöziich auszelö'<ht. Arva Matty
-hatte ſi auf ſich ſelbſt befonnen.
+Arva Matty wischie sich mit seinem Taschentuch das
+Gesicht ab, trocknete vie Augen, und veorshönerte durch diese
+Säuberung sein Yeußeres darchaus nich!, Dann lehnte er
+si zurüc, kreuzte die Urme über der Brust und schaute
+si gleichgültig im Zinmer um. Sein Sesich! war von jener
+kalten Unt urchdringlichfeit des Uusrucs, wie ich sie schon
+bei so vielen indischen Yogis (Fatiren) beobachtei hatte.
+Er spielte jezt nicht mehr, und seine dunflen Augen blickten
+ohne jede Erregung … an uns vorüber. Die Wut, der
+ohnmäch ige Grimim war urplöziich auszelö’cht. Arva Matty
+hatte si auf sich selbst befonnen.
 
-Hearſt lehnte am Tijd)e und beobachtete ihn. Wartete. Ih
+Hearst lehnte am Tijche und beobachtete ihn. Wartete. Ih
 verhicl! mich ebenfalis ganz3 rubig,
 
 Dann blieben die Nuzgen des Inders halblinks auf der
-Platte ves ovalen Sofaiiſches hf.en. Dort ſtand ein Aſch»
-becher aus didem Glas, Kriftailimitativn. Das Licht der ein»
-fallenden Sonnenſtrahien ließ die Ebhlifje>ken in allen Farben
-funkeln. Die ſchillernden Punkie fixierte der Inder mit immer
+Platte ves ovalen Sofaiisches hf.en. Dort stand ein Asch-
+becher aus didem Glas, Kriftailimitativn. Das Licht der ein-
+fallenden Sonnenstrahien ließ die Ebhlifjecken in allen Farben
+funkeln. Die schillernden Punkie fixierte der Inder mit immer
 <@pagebreak/>
-D2ODSDD0LODDDBEO 541 08002000 202000
-
-jäererem Bli. Langſam, unmerklich veränderte ſi< dabei
-ſein Geſicht8aus8druF. Ein Zug von tiefer Müdigkeit erſchien
-um Augen und Mund. Die Lider ſanken herab, die Mund=
+jäererem Bli. Langsam, unmerklich veränderte sich dabei
+sein Gesicht8aus8druF. Ein Zug von tiefer Müdigkeit erschien
+um Augen und Mund. Die Lider sanken herab, die Mund-
 winkel zitterten eigentümlich.
 
-Da ... breitete Harald raſH eine Zeitung über den
-Aſchbecher und ſagte: „IH weiß zwar nicht, ob Sie ſich
-niht nur in einen Zuſtand von Selbſthypnoſe verſetzen
-wollen ... Aber ſicher iſt ſiher, gerade Ihnen gegenüber,
-Arva Matty ...“
+Da … breitete Harald rasH eine Zeitung über den
+Aschbecher und sagte: »IH weiß zwar nicht, ob Sie sich
+niht nur in einen Zustand von Selbsthypnose versetzen
+wollen … Aber sicher ist siher, gerade Ihnen gegenüber,
+Arva Matty …«
 
-Der Inder ſaß ſteif da, -den Kopf halb zur Seite gedreht,
-die Arme gekreuzt, die Augen bereits feſt geſchloſſen. .
+Der Inder saß steif da, -den Kopf halb zur Seite gedreht,
+die Arme gekreuzt, die Augen bereits fest geschlossen …
 
-Harſt rüttelte ihn ...
+Harst rüttelte ihn …
 
-„Hallo, -- keine Verſtellung, Freundchen! „Wit uns müſſen
-Sie derartige Mätzehen nicht verſuchen .
+»Hallo, — keine Verstellung, Freundchen! »Wit uns müssen
+Sie derartige Mätzehen nicht versuchen …
 
-Doh -- als er die Schulter des ſcheinbar Schlafenden
-freigab, fiel Arva Matty zur Seite und lag mit dem Ober=
-körper auf dem Polſterſit, während die Arme nun ſchlaff
+Doh — als er die Schulter des scheinbar Schlafenden
+freigab, fiel Arva Matty zur Seite und lag mit dem Ober-
+körper auf dem Polstersit, während die Arme nun schlaff
 herabhingen.
 
-Harſt murmelte eine ZEWIn ung
+Harst murmelte eine ZEWIn ung
 
-„Der Kerl hat uns überliſtet ... IH hätte früher ein=
-greifen ſollen ...“
+»Der Kerl hat uns überlistet … IH hätte früher ein-
+greifen sollen …«
 
-Er richtete ihn auf, fühlte naM dem Puls ... Sein
-Geſicht verfinſterte ſich ...
+Er richtete ihn auf, fühlte naM dem Puls … Sein
+Gesicht verfinsterte sich …
 
-„Da, fühle du ..! I< kann den Puls nicht finden...“
+»Da, fühle du …! Ich kann den Puls nicht finden …«
 
-Mir gelang's ebenſowenig.
+Wir gelang’s ebensowenig.
 
-Wir öffneten ihm das Kleid, wir behorc<hten das Herz...
+Wir öffneten ihm das Kleid, wir behorchhten das Herz …
 
-Nichts ...
+Nichts …
 
 Und als Harald das eine Augenlid hob und mit der
-Taſchenlampe prüfte, ob die Pupille irgendwie auf das grelle
-Licht reagierte, war au<h dies erfolglos.
+Taschenlampe prüfte, ob die Pupille irgendwie auf das grelle
+Licht reagierte, war auch dies erfolglos.
 
-Harald meinte achſelzufend: „Dann müſſen wir eben
+Harald meinte achselzufend: »Dann müssen wir eben
 die Polizei beuahrichtigen. Hole den Wirt. Und gib dem
 !Portier einen Wink, daß die Baronin auf keinen Fall
-das Hotel verlaſſen darf.“ =
+das Hotel verlassen darf.« -
 <@pagebreak/>
-2wDSODSSBESOSSSDOSDS 535 08002080 SDSSüSSDS
 
-Die Polizei kam. Der ſhwediſhe Polizeiinſpektor und
-zwei Kommiſſare, denen wir nun notwendig den Sachverhalt
-Mitteilen mußten, machten Geſichter, als ob wir un8 einen
-I<lehten Scherz mit ihnen erlaubten. Aber ſchließlich wirkte
-doh der Name Harald Harſt, und die Herren taten, was
-mein Freund ihnen dringend riet: Sich niht dadurch täuſchen
-Zu laſſen, daßß der Inder anſcheinend tot, ſondern ihn in
-ſiherem Gewahrſam zu bringen.
+Die Polizei kam. Der shwedishe Polizeiinspektor und
+zwei Kommissare, denen wir nun notwendig den Sachverhalt
+Mitteilen mußten, machten Gesichter, als ob wir un8 einen
+Ichlehten Scherz mit ihnen erlaubten. Aber schließlich wirkte
+doh der Name Harald Harst, und die Herren taten, was
+mein Freund ihnen dringend riet: Sich niht dadurch täuschen
+Zu lassen, daßß der Inder anscheinend tot, sondern ihn in
+siherem Gewahrsam zu bringen.
 
-Ein Arzt fand ſich ein -- alles mit möglichſter Unaufs=
-Fälligkeit. Er erklärte, Arva Matty ſei unbedingt ... tot.
+Ein Arzt fand sich ein — alles mit möglichster Unaufs-
+Fälligkeit. Er erklärte, Arva Matty sei unbedingt … tot.
 
-Sarſt lächelte dazu. Auch der Polizeidirektor war zum
-Glüd klüg genug, auf Harald8 Anſicht mehr zu geben. In
-aller Stille wurde der Inder dur< die Hintertür in einen
-geſchloſſenen Wageu getragen und im Polizeigefängnis in
-einer feſten Zelle auf das Bett gelegt und eingeſchloſſen.
+Sarst lächelte dazu. Auch der Polizeidirektor war zum
+Glüd klüg genug, auf Harald8 Ansicht mehr zu geben. In
+aller Stille wurde der Inder durch die Hintertür in einen
+geschlossenen Wageu getragen und im Polizeigefängnis in
+einer festen Zelle auf das Bett gelegt und eingeschlossen.
 
 Als wir dann mit dem Polizeidirektor die Veranda
-HGetraten, ſaß von den Wittag8gäſten nur noh die „Baronin“
-an ihrem Tiſche, rauchte und trank Kaffee und blikte
+HGetraten, saß von den Wittag8gästen nur noh die »Baronin«
+an ihrem Tische, rauchte und trank Kaffee und blikte
 gelangweilt auf die Straße hinaus.
 
-Harſt ſprach ſie an.
+Harst sprach sie an.
 
-„Fräulein Marvatty, wir hätten Sie einiges zu
-Fragen ....“
+»Fräulein Marvatty, wir hätten Sie einiges zu
+Fragen …«
 
-Sie wandte langſam den Kopf. In ihrem Geſicht verriet
-nichts, daß der Name Marvatty auf ſie irgend welchen Ein=
+Sie wandte langsam den Kopf. In ihrem Gesicht verriet
+nichts, daß der Name Marvatty auf sie irgend welchen Ein-
 druFf gemacht hätte.
 
-„Oh -- der Herr aus der Vorhalle ...,' ſagte ſie liebens8=
-würdig. „Sie wünſchen .. ?“ =-- Sie nannten da ſoeben
-einen Namen, den ich nicht kenne. IH bin die Baroneſſe
-de Choiſeul, mein Herr ...“
+»Oh — der Herr aus der Vorhalle …’ sagte sie liebens8-
+würdig. »Sie wünschen …?« — Sie nannten da soeben
+einen Namen, den ich nicht kenne. IH bin die Baronesse
+de Choiseul, mein Herr …«
 
-„Berzeihung, Sie glauben eine Baroneſſe uud eine Fran»
-zöſin zu ſein ... Sie ſind Ellen Marvatty, die ehemalige
-Trapezkünſtlerin.“
+»Berzeihung, Sie glauben eine Baronesse uud eine Fran-
+zösin zu sein … Sie sind Ellen Marvatty, die ehemalige
+Trapezkünstlerin.«
 
-Sie ... lächelte ...
+Sie … lächelte …
 
-„Mein Herr, ich werde doH wohl am beſten wiſſen, wer
+»Mein Herr, ich werde doH wohl am besten wissen, wer
 <@pagebreak/>
-DHIESIVEISDOSG 36. OE0SEBEEBEDDEEGOD
-
-im bin ... Und jetzt, wo Sie den Namen wiederhoik hodbex,
+im bin … Und jetzt, wo Sie den Namen wiederhoik hodbex,
 korrigiere ic miH dahin, daß ich diejen Namen ailerding?
-kenne. IH habe ja das Grab dieſer Aermſten gemait.“
+kenne. IH habe ja das Grab dieser Aermsten gemait.«
 
-„IG ſah das Bild ... Sie ſollen dieſe3 Grad wiedere
-holt gemalt haben.“
+»IG sah das Bild … Sie sollen diese3 Grad wiedere
+holt gemalt haben.«
 
-„Allerdings, mein Herr, aber ſtet8 in anderer Auffaſſuug.
-Das tragiſche Siſal dieſes Mädchens zing mir ſeliſaxma
-nahe. Weshalb, weiß ic) ſelbſt nicht. Der Friedhof8verwalter
-erzählte mir von dieſer Ellen Marvatty, und da ich von
-jeher eine eigentümliche Vorliebe für Kir<hhöfe gehadt habe,
-was wohl auf die traurige Geſchihte meine3 Geſchleht8 --
+»Allerdings, mein Herr, aber stet8 in anderer Auffassuug.
+Das tragische Sisal dieses Mädchens zing mir selisaxma
+nahe. Weshalb, weiß ich selbst nicht. Der Friedhof8verwalter
+erzählte mir von dieser Ellen Marvatty, und da ich von
+jeher eine eigentümliche Vorliebe für Kirchhöfe gehadt habe,
+was wohl auf die traurige Geschihte meine3 Geschleht8 —
 während der großen Revolution wurden in Paris zehn Chois
-ſeuls guillotiniert --- zurüFzuführen iſt, zog e3 mich immer
-wieder hierher naß dem ſtillen Trelleborg, wo iM ...“
+seuls guillotiniert — zurüFzuführen ist, zog e3 mich immer
+wieder hierher nach dem stillen Trelleborg, wo ich …«
 
-Sie hatte einen leichien, graziöſen Plauderton ange»
-ſ<lagen, und ſie würde wohl noc< weiter in ſo harmlos»
-lieben8würdiger Art in ihrem eleganten Franzöſiſd uns
-Dinge mitgeteilt haben, von denen ſie wie von Taiſachen nach
-beſtem Glauben redete, wenn Harſt niht mit einer Hanvdbe»
-wegung auf den Polizeidirektor und mic) gedeutet hätte ...
+Sie hatte einen leichien, graziösen Plauderton ange-
+schlagen, und sie würde wohl noch weiter in so harmlos-
+lieben8würdiger Art in ihrem eleganten Französisd uns
+Dinge mitgeteilt haben, von denen sie wie von Taisachen nach
+bestem Glauben redete, wenn Harst niht mit einer Hanvdbe-
+wegung auf den Polizeidirektor und mich gedeutet hätte …
 
-„Bardon, Baroneſſe ..., geſtatten Sie zuvörderſt: Herr
-Sverdrupp, Herr Schraut, ... und mein Name iſt Harald
-Harſt ... Dürfen wir Platz nehmen?“
+»Bardon, Baronesse … gestatten Sie zuvörderst: Herr
+Sverdrupp, Herr Schraut … und mein Name ist Harald
+Harst … Dürfen wir Platz nehmen?«
 
-„Aber gewiß, meine Herren ...“
+»Aber gewiß, meine Herren …«
 
-Drüben in der Tür drängten ſiH die Neugierigen: der
-Wirt, der Kellner, die beiden Kommiſſare, der Pförtner. -- Und
-der Polizeidirektor machte ein Geſicht, al8 ob ihm bei alledem.
-hö<Gſt ungemütlich war. Er wußte offenbar genau ſo wenig
-wie ich, auf welche Weiſe Harſt dieſe Frau, der die unheimlicße
-Macht des Inders eine beſtimmie Rolle aufgezwungen, von
-dieſem Irrtum befreien würde.
+Drüben in der Tür drängten siH die Neugierigen: der
+Wirt, der Kellner, die beiden Kommissare, der Pförtner. — Und
+der Polizeidirektor machte ein Gesicht, al8 ob ihm bei alledem.
+höchGst ungemütlich war. Er wußte offenbar genau so wenig
+wie ich, auf welche Weise Harst diese Frau, der die unheimlicße
+Macht des Inders eine bestimmie Rolle aufgezwungen, von
+diesem Irrtum befreien würde.
 
-„Baroneſſe,“ ſagte Harald eindringlicher, „haben Sie jich
-nod) nie gefragt, aus welhem Grunde Sie ein Alter von
-52 Jahren dur< PerüFe und Schminke vortäuſchen und wie
+»Baronesse,« sagte Harald eindringlicher, »haben Sie jich
+noch nie gefragt, aus welhem Grunde Sie ein Alter von
+52 Jahren durch PerüFe und Schminke vortäuschen und wie
 <@pagebreak/>
-DSSDOSHSDEDESEBDSO 57 0900022052022
+Sie den rechten Unterarm eingebüßt haben? — Sie tragen
+eine Prothese, Baronesse, eine Holzhand mit einem Hand-
+schub …«
 
-Sie den rechten Unterarm eingebüßt haben? -- Sie tragen
-eine Protheſe, Baroneſſe, eine Holzhand mit einem Hand»
-ſchub...“
+»Gewiß …« Sie bliäie auf ihre im Schoße ruhende
+Rechte, und ein Ausdruä von Bersonnenheit erschien in ihren
+Mienen. »Gewiz … — ich soll schon als Kind den Unter-
+arm verloren haben, erzählte mir meine Kammerfrau.« Und
 
-„Gewiß ...“ Sie bliäie auf ihre im Schoße ruhende
-Rechte, und ein Ausdruä von Berſonnenheit erſchien in ihren
-Mienen. „Gewiz ... =- ich ſoll ſchon als Kind den Unter-
-arm verloren haben, erzählte mir meine Kammerfrau.“ Und
-
-dann = =- ſehr lebhaft und beunruhigt: „Wo bleibt Louiſon
-nur? = Sie wollien ihr doH die Augen ſäubern, zeit
+dann — — sehr lebhaft und beunruhigt: »Wo bleibt Louison
+nur? — Sie wollien ihr doH die Augen säubern, zeit
 LIELP: ein
 
-In dieſer Unterhallung, dieſem Berhör lag eiwas bes
+In dieser Unterhallung, diesem Berhör lag eiwas bes
 drüdend Unheimliches.
 
-Harſt erwiderte laut: „Es gibt keine Louiſon Gasparette
-Le Blanc, Baroneſſe. Ihre Louiſon war ein Mann, war
-ein Inder, der ſeine beſonderen Gaben an Ihnen mißbraucht“
-dat. =- Sier =-- -- ein Spiegel ...! Betrachten Sie ſich...
-Nehmen Sie die graue Perü>e ab ... Hier ein Tuch und
-Vaſeline ... Reiben Sie die Schminke ab ... Tun Sie
+Harst erwiderte laut: »Es gibt keine Louison Gasparette
+Le Blanc, Baronesse. Ihre Louison war ein Mann, war
+ein Inder, der seine besonderen Gaben an Ihnen mißbraucht«
+dat. — Sier — — ein Spiegel …! Betrachten Sie sich …
+Nehmen Sie die graue Perücke ab … Hier ein Tuch und
+Vaseline … Reiben Sie die Schminke ab … Tun Sie
 ESP eig
 
-Die arme Ellen wurde immer hilfloſer, verwirrter. „Mein
-Herr, Sie ... Sie... = ja, ... ich ſehe... e&s iſt eine
-Perücde ... Und ... blondes Haar habe ich?!“
+Die arme Ellen wurde immer hilfloser, verwirrter. »Mein
+Herr, Sie … Sie … — ja … ich sehe … e&s ist eine
+Perücde … Und … blondes Haar habe ich?!«
 
-Ihre Augen ſtierten in den kleinen Spiegel ...
+Ihre Augen stierten in den kleinen Spiegel …
 
-Plözlich begann ſie dann eifrigſt das Tu< zu bes
-UUßen „..
+Plözlich begann sie dann eifrigst das Tuch zu bes
+UUßen«…
 
 Die Verwandlung war verblüffend. Die Schminke wich,
-und die blaſſe, zarte Haut eines jungen Weibes kam zum
-Vorſchein.
+und die blasse, zarte Haut eines jungen Weibes kam zum
+Vorschein.
 
-„Mein Gott „.!'' ſeufzte die Marvatty da ... „Wein.
+»Mein Gott ».!’’ seufzte die Marvatty da … »Wein.
 
-Gott, =- -=-- ih ... begreife niht ... IH ... iH... habe
-mig doh nie geſchminkt, mein Herr, und ...“
-„Sie haben es, nur =- -- Sie wiſſen es nicht. Der
+Gott, — — ih … begreife niht … IH … iH … habe
+mig doh nie geschminkt, mein Herr, und …«
+»Sie haben es, nur — — Sie wissen es nicht. Der
 
-indiſche Schurke hat Ihr Gedächtnis für beſtimmie Dinge aus»
-gelöſcht. Sie haben Ihren Unterarm durc< einen Unfall als
+indische Schurke hat Ihr Gedächtnis für bestimmie Dinge aus-
+gelöscht. Sie haben Ihren Unterarm durch einen Unfall als
 <@pagebreak/>
-DSSDOSSSDIDISDSSS 53 SOSSSDESDSSSSSD
-
-Trapezkünſtlerin verloren, er wurde Ihnen hier amputiert
-durh Doktor Sven Holgerſen ... = Geben Sie ſich einmal
+Trapezkünstlerin verloren, er wurde Ihnen hier amputiert
+durh Doktor Sven Holgersen … — Geben Sie sich einmal
 alle Mühe, konzentrieren Sie Ihre Gedanken: Kennen Sie
-Doktor Holgerſen ...“
+Doktor Holgersen …«
 
-Ein verzerrtes Lächeln ... ein Seufzer ...
+Ein verzerrtes Lächeln … ein Seufzer …
 
-„Nein, mein Herr ... nein! Und -- -- ich und Trapez-
-fünſtlerin ..., = -- ich bitte Sie. I< beſitze Millionen,
-im bin die lezte Choiſeul, mit Ausnahme meines Halb=
-bruders Arpas, der jedoH in Indien lebt, ... eigentlich au<
-gar nicht mein Halbbruder ... Wein Vater hatte in Indien
-eine Geliebte, eine Inderin, und ... und ...“
+»Nein, mein Herr … nein! Und — — ich und Trapez-
+fünstlerin … — — ich bitte Sie. Ich besitze Millionen,
+im bin die lezte Choiseul, mit Ausnahme meines Halb-
+bruders Arpas, der jedoH in Indien lebt … eigentlich auch
+gar nicht mein Halbbruder … Wein Vater hatte in Indien
+eine Geliebte, eine Inderin, und … und …«
 
-Sie ſtammelte, ſchwieg ...
+Sie stammelte, schwieg …
 
-Sie bliäie fortgeſezt in den Spiegel, und mit einem
-Male begann ſie leiſe zu ſhluchzen ... „Oh mein Gott,
-was ... was bedeuiet das :alles nur?! I<h ... ich... bin
-ſo wirr im Kopf ... Mein Geſiht -- ich kenne mich jelbſt
-nicht mehr ...“
+Sie bliäie fortgesezt in den Spiegel, und mit einem
+Male begann sie leise zu shluchzen … »Oh mein Gott,
+was … was bedeuiet das :alles nur?! Ich … ich … bin
+so wirr im Kopf … Mein Gesiht — ich kenne mich jelbst
+nicht mehr …«
 
-Und dieſe Tränen ſpülten gleichſam die Feſſeln hinweg,
-die ihr Hirn umklammerten, abſperrten von der Wirklich»
+Und diese Tränen spülten gleichsam die Fesseln hinweg,
+die ihr Hirn umklammerten, absperrten von der Wirklich-
 Leit 4.00
 <@pagebreak/>
-DBBESSSSOSODESDS 539 SSSSSSOSSIDSS
 
-5. Kapitel.
-Der Bleiſtift.
+<h2>5. Kapitel.</h2>
+<h3>Der Bleistift.</h3>
 
-Es waren doH nicht allein die Tränen. Es kam no<
+Es waren doH nicht allein die Tränen. Es kam noch
 etwas anderes hinzu.
 
-Harald, um ihre Aufmerkſamkeit auf einen anderen
-Gegenſtand zu richien, hielt ihr jezt den Bleiſtift mit der
-ſilbernen, durch die Kugel verletzten Hülſe hin und meinte
-genau ſo ſcharf, akzentuiert und eindringlich: „Betrachten
-Sie dieſen Bleiſtift ganz genau, Baroneſſe. Sie kennen ihn,
-genau wie Sie Doktor Holgerſen kennen. Leſen Sie den ein=
+Harald, um ihre Aufmerksamkeit auf einen anderen
+Gegenstand zu richien, hielt ihr jezt den Bleistift mit der
+silbernen, durch die Kugel verletzten Hülse hin und meinte
+genau so scharf, akzentuiert und eindringlich: »Betrachten
+Sie diesen Bleistift ganz genau, Baronesse. Sie kennen ihn,
+genau wie Sie Doktor Holgersen kennen. Lesen Sie den ein-
 gravierten Namen:
 
 Ellen Marvatty!
 
-Der Bleiſtift war Ihr Eigentum ... Die Beſchädigung der
-ſilbernen Hülſe rührt von einer Kugel her, die ihm auf...
+Der Bleistift war Ihr Eigentum … Die Beschädigung der
+silbernen Hülse rührt von einer Kugel her, die ihm auf …
 einen laufenden Arm, einen mumifizierten
-Unterarm, der wie ein ſelbſtändiges Weſen ſich bewegte
-und ſogar ſchrieb -- -- mit dieſem Bleiſtift!! =, ... alſo
-Kugel, die ich auf dieſen Arm abfeuerte. Der Arm entfloh,
-der Bleiſtift blieb auf der Treppe liegen.“
+Unterarm, der wie ein selbständiges Wesen sich bewegte
+und sogar schrieb — — mit diesem Bleistif!!! —… also
+Kugel, die ich auf diesen Arm abfeuerte. Der Arm entfloh,
+der Bleistift blieb auf der Treppe liegen.«
 
-Die Frau, die ſich Baroneſſe Jeanne Antoinette d'Igny
-de Choiſeul nannte, bliäte nun den Bäteiſtift wie ein in
-beſondere Form gepreßie8 Rätſel an. Ihre Tränen waren
-verſiegt, aber der ratloſe, hilfloſe, beklommene AusdruF ihres
-Geſiht8 wechſelte in jähem Uebergang mit einem Mienen-=
-ſpiel, das klar darauf hindeutete, wie ſehr ſie all ihre
-Gedanken anſtrengte, dieſe Widerſprüche und dunklen Fragen
-in befriedigender Art zu löſen.
+Die Frau, die sich Baronesse Jeanne Antoinette d’Igny
+de Choiseul nannte, bliäte nun den Bäteistift wie ein in
+besondere Form gepreßie8 Rätsel an. Ihre Tränen waren
+versiegt, aber der ratlose, hilflose, beklommene AusdruF ihres
+Gesiht8 wechselte in jähem Uebergang mit einem Mienen—
+spiel, das klar darauf hindeutete, wie sehr sie all ihre
+Gedanken anstrengte, diese Widersprüche und dunklen Fragen
+in befriedigender Art zu lösen.
 <@pagebreak/>
-„DF EDBEEEHBBODS 60 DEPDEBDEGHLOSDDL>L>
 
-Mienenſpiel .. 1! Kampf gegen die geiſtiren Feſſeln,
-die ihr der Mann angelegt, den ſie für ihren Halbbruder
-hielt, = Oder: War ſie doH die Baroneiſe Jean de Choi»
-ſeul? Und war nur der Name Marvatty ein e.'fundcener,
-ihr nicht zuſtehender?! :
+Mienenspiel …!! Kampf gegen die geistiren Fesseln,
+die ihr der Mann angelegt, den sie für ihren Halbbruder
+hielt, — Oder: War sie doH die Baroneise Jean de Choi-
+seul? Und war nur der Name Marvatty ein e.’fundcener,
+ihr nicht zustehender?!
 
-Kampf ...
+Kampf …
 
-Und Sieg ..!?!
+Und Sieg …!?!
 
-Sieg durH die kluge Taktik Harald3, der dieſem bes
-dauernswerten Weibe die Larve vom Geſiht genommen
-und ihr bewieſen hatte, daß ſie jung und blond und keine
-grauhaarige Kir<hoſsmalerin!
+Sieg durH die kluge Taktik Harald3, der diesem bes
+dauernswerten Weibe die Larve vom Gesiht genommen
+und ihr bewiesen hatte, daß sie jung und blond und keine
+grauhaarige Kirchossmalerin!
 
-Sie ſchaute auf ... Sie bliäte in Haraids graue Nugen...
-Sie ſprach klar und ohne den weinerlichen Tonfall von vor»
+Sie schaute auf … Sie bliäte in Haraids graue Nugen …
+Sie sprach klar und ohne den weinerlichen Tonfall von vor-
 hin:
 
-„Der Bleiſtift gehört mir, Herr Harſt ...“
+»Der Bleistift gehört mir, Herr Harst …«
 
-Das merkwürdigite: ſie benutzte jezt nicht mehr die frans
-zöſiſche, ſondern die deutſc<e Sprache, die ſie allerdings
+Das merkwürdigite: sie benutzte jezt nicht mehr die frans
+zösische, sondern die deutsche Sprache, die sie allerdings
 mit dem deutlichen Akzent der Yusländer movulierte, ohne
-jedoch grammatiſ<e Schnißer zu machen.
+jedoch grammatische Schnißer zu machen.
 
-„Beſtimmt mir, Herr Harſt ...“ Ein frohe8 Leuchten
-trat in ihre Augen ...,,Es iſt ſo merkwürdig, Zerr Harſt...
-Jetzt kann ich micH plötzlie) auf ſo vieles beſinnen, was
-wohl lange Zeit in mir tief verborgen wie tot geſchlummert
-hat. Dieſen Bleiſtift hat Arpas mir geſchenkt, mein Halb=
-bruder, al8 er mid) vor zwei Jahren in Paris in unſerem
-alten Palais beſuchie. Und jetzt weiß ich auch, wie der
-Name Ellen Marvatty zuſtande ger fommen ift. -=- Ein
+»Bestimmt mir, Herr Harst …« Ein frohe8 Leuchten
+trat in ihre Augen … Es ist so merkwürdig, Zerr Harst …
+Jetzt kann ich micH plötzlich auf so vieles besinnen, was
+wohl lange Zeit in mir tief verborgen wie tot geschlummert
+hat. Diesen Bleistift hat Arpas mir geschenkt, mein Halb-
+bruder, al8 er mich vor zwei Jahren in Paris in unserem
+alten Palais besuchie. Und jetzt weiß ich auch, wie der
+Name Ellen Marvatty zustande ger fommen ift. — Ein
 reizendes Lächeln trat in ihre Züge, ein Qächeln voll
-entzüdenden Charmes. „Arpas iji ganz Inder geblieben,
-iſt fogar einer Sekto beigeireten, die no fanatiſcher wie
-die eigentlichen Lenbu iſt. Er wollte mich bekehren, und
-halb im Scherz zing ic) darauf ein. Er taufte mich daher...
-Ellen Worvaity, er ſeldſt nennt ſich Arova Matty, und er
-fand es ſehr geiſtvoll, aus ſeinem indiſchen Namen Arva
+entzüdenden Charmes. »Arpas iji ganz Inder geblieben,
+ist fogar einer Sekto beigeireten, die no fanatischer wie
+die eigentlichen Lenbu ist. Er wollte mich bekehren, und
+halb im Scherz zing ich darauf ein. Er taufte mich daher …
+Ellen Worvaity, er seldst nennt sich Arova Matty, und er
+fand es sehr geistvoll, aus seinem indischen Namen Arva
 <@pagebreak/>
-GPEBDSE>SSDOESBSSSD 61 22 ESEGDDISSODBEOS
-
-Matty den meinen zuſammengeſtellt zu haben: Marvatty!
-Glauben Sie au<F nicht, daß der Vorname Ellen etwa
-deuiſch iſt. Vein, „Ellen“ oder „Illen““/ was im alten
-Bandſchabdialekt da2ſ-1be iſt, bedeutet ſo viel wie „die Zwei
-geſichtige“ ...“ -=- Shr Lächeln ſchwand jäh ... Ein ver»
-zweifelter kurzer Auſſchrei ,.. Sie packte Haralds Sand mit
-ihrer Linken ... „Um Gott, -- -- jeßt ... jezt iſt mir alles
-klar ... Die "Schleier über dieſen les ten beiden Jahren
-ſinken vollkommen ,.. Ih bli&e in einen Abgrund ents=
-ſetßzlicher Verworfenheit, Herr Harſt ... I< beſinne mich:
-Arpas8 kam nach Paris ... Und dann ... wurde er von einer
-verbrecheriſchen Leivenſchaft für mich ergriffen ...“ = Blut»
-rot ſc<oß ihr die Sham in die Wangen ... „Er ... begehrte
-miGh zum Weibe . .. Er verlangte, ich ſolle ihm nach
-Indien folgen, zum Brahmani8mus übertreten ... I<h ....
+Matty den meinen zusammengestellt zu haben: Marvatty!
+Glauben Sie auchF nicht, daß der Vorname Ellen etwa
+deuisch ist. Vein, »Ellen« oder »Illen«/ was im alten
+Bandschabdialekt da2s-1be ist, bedeutet so viel wie »die Zwei
+gesichtige« …« — Shr Lächeln schwand jäh … Ein ver-
+zweifelter kurzer Ausschrei … Sie packte Haralds Sand mit
+ihrer Linken … »Um Gott, — — jeßt … jezt ist mir alles
+klar … Die »Schleier über diesen les ten beiden Jahren
+sinken vollkommen … Ih bli&e in einen Abgrund ents-
+setzzlicher Verworfenheit, Herr Harst … Ich besinne mich:
+Arpas8 kam nach Paris … Und dann … wurde er von einer
+verbrecherischen Leivenschaft für mich ergriffen …« — Blut-
+rot schoß ihr die Sham in die Wangen … »Er … begehrte
+miGh zum Weibe … Er verlangte, ich solle ihm nach
+Indien folgen, zum Brahmani8mus übertreten … Ich …
 lachte ihn aus, tat, als ob ich alles als Scherz hinnähme.
-Da ſchenkte er mir eines Abends den Bleiſtift mit der
-ſilbernen Hülſe, ſpraM etwas von magiſchen Kräften ...
-Und von ... da an war ich Ellen Marvatty! -=- Ulles,
-alles taucht aus den Tiefen der Vergeſſenheit wieder auf ..
-alles ... Za, ich war Seiltänzerin ... Er ... er hat mic<
-da2U „.. gedrillt ,.,. Er ſchleppte miHh mit ſeiner Truppe
-von Stadt zu Stadt ... Bis... bis... hier in Trelle»
-borG: 5:47" v
+Da schenkte er mir eines Abends den Bleistift mit der
+silbernen Hülse, spraM etwas von magischen Kräften …
+Und von … da an war ich Ellen Marvatty! — Ulles,
+alles taucht aus den Tiefen der Vergessenheit wieder auf …
+alles … Za, ich war Seiltänzerin … Er … er hat mich
+da2U «… gedrillt … Er schleppte miHh mit seiner Truppe
+von Stadt zu Stadt … Bis … bis … hier in Trelle-
+borG: 5:47«
 
-Sie ſprang auf ... Ihre Augen flammten ...
+Sie sprang auf … Ihre Augen flammten …
 
-„Dolgerſen ..!! Holgerſen .. !! Lebt er? Mein Gott --
-lebt er? Wiſſen Sie, was er mir bedeutete .. !'
+»Dolgersen …!! Holgersen …!! Lebt er? Mein Gott —
+lebt er? Wissen Sie, was er mir bedeutete …!’
 
-„IH weiß es ... Und er lebt... Beruhigen vie ſich
-do ... E8 wird "nun alles wieder gut werden .
-Sie ſind alſo wirkli die Baroneſſe CH0eF
+»IH weiß es … Und er lebt … Beruhigen vie sich
+do … E8 wird »nun alles wieder gut werden …
+Sie sind also wirkli die Baronesse CH0eF
 
-„Ia ... ja ... beſtimmt, Herr Harſt .
+»Ia … ja … bestimmt, Herr Harst …
 
-"Wiſſen Sie etwas von einer nenen Hand, einem
-Arm, der dem Doktor nachts ... erſchien?“
+»Wissen Sie etwas von einer nenen Hand, einem
+Arm, der dem Doktor nachts … erschien?«
 <@pagebreak/>
-DSSSSSDDEDSS 62 DE 0SEDSEBGISOD
 
-„Nein, nichts, nicht3 ... bei Gott! = Ein Arm, ſagen
-SGie? Was für ein Arm?“
+»Nein, nichts, nicht3 … bei Got!! — Ein Arm, sagen
+SGie? Was für ein Arm?«
 
-Harald erzählte. Die Baroneſſe hatte ſich wieder g32=
-ſezt . .. Ihr UAntliß wurde bleih und dleicher ... Ein
-Schauer ging ihr über den Leib ...
+Harald erzählte. Die Baronesse hatte sich wieder g32-
+sezt … Ihr UAntliß wurde bleih und dleicher … Ein
+Schauer ging ihr über den Leib …
 
-„Oh - -- das ... das ShHeuſal!!“ flüſterte ſie. „Mich
-hat er gezwungen, das Gift zu nehmen, -- miH hat er aus
-dem Grabe wieder hervorgeholt, hat ſich ... in meine längſt
-verſtorbene Kammerfrau verwandelt ..! = Wenn Sie wüßten,
-was er alles kann, Herr Harſt . 1! Er iſt ein Gautier,
+»Oh - — das … das ShHeusal!!« flüsterte sie. »Mich
+hat er gezwungen, das Gift zu nehmen, — miH hat er aus
+dem Grabe wieder hervorgeholt, hat sich … in meine längst
+verstorbene Kammerfrau verwandelt …! — Wenn Sie wüßten,
+was er alles kann, Herr Harst …!! Er ist ein Gautier,
 ein Magier, ein Wogi mit übernatürlichen Kräften! Und
--- =- in meinem Herzen ſ<Hwillt die Angſt um Sven
-Holgerſen zum verzehrenden Feuer ... Laſſen Sie uns zu
-ihm eilen .. .Mir iſt ſo bang zumute ,.. Vielleicht hat
-Arpas no<ßG in der lezten Sekunde, bevor er ſich jeldſt
-auslöſchte, Sven dur< den laufenden Arm ... erwürgen
-laſſen .. ! Eilen wir ... Einen Wagen her ... ſchnell...
-SH für<te das Schlimmſte ..!“ = n
+— — in meinem Herzen schHwillt die Angst um Sven
+Holgersen zum verzehrenden Feuer … Lassen Sie uns zu
+ihm eilen … Wir ist so bang zumute … Vielleicht hat
+Arpas nochßG in der lezten Sekunde, bevor er sich jeldst
+auslöschte, Sven durch den laufenden Arm … erwürgen
+lassen …! Eilen wir … Einen Wagen her … schnell …
+SH fürchte das Schlimmste …!« -
 
-Ein Auto, das des Wirtes, jagte zur Borſtadt ...
+Ein Auto, das des Wirtes, jagte zur Borstadt …
 
-Zagte „2:
+Zagte »2:
 
-Wir läuteten an der Pforte ... die Wirtſchaſterin
-öfinet ...
+Wir läuteten an der Pforte … die Wirtschasterin
+öfinet …
 
-„Wo iſt Sven?“ ſchreit Jeannette Choiſeul halb von
-Sinnen ...
+»Wo ist Sven?« schreit Jeannette Choiseul halb von
+Sinnen …
 
-ZEr  ſ<läaft 2:55"
+ZEr  schläaft 2:55«
 
-Wir lauſen dem Hauſe zu ...
+Wir lausen dem Hause zu …
 
-Wir ſtürmen in das Sprechzimmer ...
+Wir stürmen in das Sprechzimmer …
 
-Goldiger Sonnenglanz liegt über dem Raum ... dort
-ein Diwan ... dort Sven Holgerſen: das Geſicht blaurot ges
-vLunſen ... Am Halſe die tiefen Eindrüce brutaler Finger...
+Goldiger Sonnenglanz liegt über dem Raum … dort
+ein Diwan … dort Sven Holgersen: das Gesicht blaurot ges
+vLunsen … Am Halse die tiefen Eindrüce brutaler Finger …
 
-Zeanne ſinkt in die Knie ... briczt in Screifrämpfe -
-SUS 16.54. 7
+Zeanne sinkt in die Knie … briczt in Screifrämpfe -
+SUS 16.54.
 
-Aber: Holgerſen lebte ... Holgerſen wurde ins Leben
+Aber: Holgersen lebte … Holgersen wurde ins Leben
 <@pagebreak/>
-SEDSDSSSDSSS 63 DSSSSEDSSSIS00OS
+zurücgerufen, haike eine Pflegerin, die nicht von seinem
+Lager wich. —
 
-zurücgerufen, haike eine Pflegerin, die nicht von ſeinem
-Lager wich. =-
+Gegen vier Uhr sind der Polizeidirektor und wir in
+der Zelle … in der … leeren Zelle … Niemals ist auf—
+geklärt worden, wie Arva Matty entfloh. Die Schlösser, die
+Fenstergitter waren unbeschädist. Nur — — seltsam: auf
+dem schlichten Zellenbett auf der hellen WolldeckXe liegt eine
+dide graue Shihcht Staub, die genou der Gestalt eines
+ruhenden Menschen entspricht — — genau?! —
 
-Gegen vier Uhr ſind der Polizeidirektor und wir in
-der Zelle ... in der ... leeren Zelle ... Niemals iſt auf=-
-geklärt worden, wie Arva Matty entfloh. Die Schlöſſer, die
-Fenſtergitter waren unbeſchädist. Nur -- -- ſeltſam: auf
-dem ſchlichten Zellenbett auf der hellen Wollde>Xe liegt eine
-dide graue Shih<ht Staub, die genou der Geſtalt eines
-ruhenden Menſchen entſpricht = -- genau?! --
-
-Telegramme fliegen nach allen Richtungen, alle Bahn=
+Telegramme stiegen nach allen Richtungen, alle Bahn-
 höfe, alle Häfen werden überwacht.
 
-Ohne Erfolg. -- Wir bleiben noH z3wei Tage in
+Ohne Erfolg. — Wir bleiben noH z3wei Tage in
 Trelleborg. Dann geleitet uns ein glükliches Paar zum
-Fährſchiff, zur prächtigen „Drottning Biktoria“.
+Fährschiff, zur prächtigen »Drottning Biktoria«.
 
-Wir winken ... ſie winken ...
+Wir winken … sie winken …
 
-GSpiegelglatt iſt die See ... Die Küſte verſchwindet ...
+GSpiegelglatt ist die See … Die Küste verschwindet …
 
-Und als wir mitten auf der Oſtſee ſind, auf dem Pro=
-menadende> an der Reling ſtehen, da geſhieht das Unglaud=
-lic<e, Unfaßbare: eine dunkle Wolke taucht auf, dehnt ſich,
-nimmt die verſhwommenen Umriſſe eines Armes, einer
-Hand an, ... die einen Nieſenbleiſtift führt ... Bewegung
-kommt in das Wolkengebiide ... Die: See kräuſelt ſich...
-Und die gekräuſelten, wie von einer Briſe beunruhigten
-Wellen verſchmelzen, vereinen ſich zu etwas, das auf die
-blanke Meeresfläche geſchrieben zu ſein ſcheint, = = und
-mit einiger Phantaſie leſe ich:
+Und als wir mitten auf der Ostsee sind, auf dem Pro-
+menadendeck an der Reling stehen, da geshieht das Unglaud-
+liche, Unfaßbare: eine dunkle Wolke taucht auf, dehnt sich,
+nimmt die vershwommenen Umrisse eines Armes, einer
+Hand an … die einen Niesenbleistift führt … Bewegung
+kommt in das Wolkengebiide … Die: See kräuselt sich …
+Und die gekräuselten, wie von einer Brise beunruhigten
+Wellen verschmelzen, vereinen sich zu etwas, das auf die
+blanke Meeresfläche geschrieben zu sein scheint, — — und
+mit einiger Phantasie lese ich:
 
 Rache!
 
-Im Moment iſt alle8 wieder vorüber . .. Im Moment. ...
+Hm Moment ist alle8 wieder vorüber … Hm Moment …
 
-Einer der Sciffsofifiziere tritt zu un38 ... „Haben die
-Herren das merkwürdige Wolkenbild geſehen? Das war ſo...,
-jo, wie ic's8 noFH nie beobachtete, wie ... ein A:m ... wie
-ein ... ſc<hreibender Arm ... Aber das machi wohl die
-Hitze ... E8 wird eine Luftſpiegelung geweſen fein..." -=-
+Einer der Sciffsofifiziere tritt zu un38 … »Haben die
+Herren das merkwürdige Wolkenbild gesehen? Das war so …
+jo, wie ic’s8 noFH nie beobachtete, wie … ein A:in … wie
+ein … schhreibender Arm … Aber das machi wohl die
+Hitze … E8 wird eine Luftspiegelung gewesen sein …« —
 
-Wir ſizen im D=Zug nac< Berlin. Harft raucht ...
+Wir sizen im D-Zug nach Berlin. Harft raucht …
 <@pagebreak/>
-2SODODSIDEOELDDESES 61 DBS S0S0S0S0DEDSEOIOS
 
-Vorhin hat er zu mir nur geäußert: „Den „Fall“ noch irgend»
-wie erörtern? Hätte vas Zwe?!“
+Vorhin hat er zu mir nur geäußert: »Den »Fall« noch irgend-
+wie erörtern? Hätte vas Zwe?!«
 
-Nein, es hat keinen Zwes ..! - =-
+Nein, es hat keinen Zwes …! - —
 
-Wir ſind daheim. Frau Harſt empfängt uns mit der
-Nachricht, daß ein Paket für Harald eingetroffen. =- Es
-Ut eine Pappſchachtel = wie eine Korſettſhachtel. In ihr ...
+Wir sind daheim. Frau Harst empfängt uns mit der
+Nachricht, daß ein Paket für Harald eingetroffen. — Es
+Ut eine Pappschachtel — wie eine Korsettshachtel. In ihr …
 liegt der Urm der Marvatty und ein Zettel:
 
-Die Finſternis wich, und das Gute ſiegte. Brahma,
-den Millionen anbeten, gebot mir heimzukehren. =- Friede
-ſet eu) und denen, die ich verderben wollte.
+Die Finsternis wich, und das Gute siegte. Brahma,
+den Millionen anbeten, gebot mir heimzukehren. — Friede
+set eu) und denen, die ich verderben wollte.
 
--- U1l3 Zeanne Choiſeul längſt Frau Dottor Holgerſen'
-war, laſen wir in einer Londoner Zeitung von einem Fakir,
-der im Kriſtallpalaſt ſeine Künſte gezeigt hatte, -- darunter
-auch einen „Zauberarm“, der ... laufen und ſ<hreiben konnte.
-=- Der Tri> des Fakirs8 beruhte darin, daß in einer Arm-
-attrappe mit beweglichen Gummiſingern ein abgerichtetes
-Zwergäfſchen ſtete ...
+— U1l3 Zeanne Choiseul längst Frau Dottor Holgersen’
+war, lasen wir in einer Londoner Zeitung von einem Fakir,
+der im Kristallpalast seine Künste gezeigt hatte, — darunter
+auch einen »Zauberarm«, der … laufen und schreiben konnte.
+— Der Trick des Fakirs8 beruhte darin, daß in einer Arm-
+attrappe mit beweglichen Gummisingern ein abgerichtetes
+Zwergäfschen steckte …
 
-Harit los mir den Artikel vor. Sagte daun: „Wenn
-wir für den ſchreibenden Arm der Marvaity eine Erklärung
-ſuchen: hier iſt ſie! Und jo ließe ſic) vielleicht auh all
-das andere ... erklären, vielleicht ..! Zum Beiſpiel die
-Krähe, die ſcheinbar das Papierröllhen fallen ließ: das
-Papier kann uns zugeworfen worden ſein, und die Krähe
-hatte gar nichts damit zu tun. -- Aber -- -- immer ...
-„vielleicht“, mein Alter ...“ -
+Harit los mir den Artikel vor. Sagte daun: »Wenn
+wir für den schreibenden Arm der Marvaity eine Erklärung
+suchen: hier ist sie! Und jo ließe sich vielleicht auh all
+das andere … erklären, vielleicht …! Zum Beispiel die
+Krähe, die scheinbar das Papierröllhen fallen ließ: das
+Papier kann uns zugeworfen worden sein, und die Krähe
+hatte gar nichts damit zu tun. — Aber — — immer …
+»vielleicht«, mein Alter …« —
 
-Wir haben von UArva Matty nichts mehr gehört ...
+Wir haben von UArva Matty nichts mehr gehört …
 
-Friede ..!! -- Und ſo muß ich dieſen Bericht ſchließen,
-ohne den Leſern die Wißbegier völlig geſtillt zu haben.
+Friede …!! — Und so muß ich diesen Bericht schließen,
+ohne den Lesern die Wißbegier völlig gestillt zu haben.
 
-Der „Stern auf Papier“ iſt weniger vierdimen»
-fional, Auf Wiederſehen alſo in der Sternenwelt ...
+Der »Stern auf Papier« ist weniger vierdimen-
+fional, Auf Wiedersehen also in der Sternenwelt …
