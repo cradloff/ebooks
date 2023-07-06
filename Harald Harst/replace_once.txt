@@ -51,6 +51,8 @@
 \bMrs,	Mrs.
 \bMrs\s	Mrs. 
 \bNaht\b	Nacht
+\bnaH\b	nach
+\bnah\b	nach
 \bnaß\b	nach
 \bnich!\b	nicht
 \bnicke\b	nickte

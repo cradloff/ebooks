@@ -563,8 +563,8 @@ Wenn meine Leser und Freunde sich durch die Überschrift
 dieses dritten Kapitels zu falschen Schlüssen über
 dessen Inhalt verleiten lassen, so ist’s nicht meine Schuld.
 
-Ei Gespensterarm ha b e ich gesehen, aber nicht in dieser
-Na
+Den Gespensterarm *habe* ich gesehen, aber nicht in dieser
+Nacht.
 
 Die schreibende Hand sah ich in dieser Nacht vom
 vierzehnten zum fünfzehnten Mai, genau um 12 Uhr dreißig
@@ -575,8 +575,8 @@ herum und begnügte sich mit ein paar dröhnenden
 Schlägen.
 
 Ich hatte gerade die Zeitschrift weggelegt und nach
-Kognaks neuestem Roman »Der Engel vom westlichen
-Fenster « gegriffen, als ein Geräusch mich aufblitzen ließ.
+Megrinks neuestem Roman »Der Engel vom westlichen
+Fenster« gegriffen, als ein Geräusch mich aufblicken ließ.
 
 Holgersen saß aufrecht auf seinem Lager — mit geschlossenen
 Augen.
@@ -587,44 +587,43 @@ Dann erhob er sich. Seine Bewegungen hatten dabei
 etwas Ruckartiges, Unnatürliches, das geradezu an einen
 durch ein Uhrwerk betriebenen Automaten erinnerte. Die
 Augen blieben ebenso seltsamer Weise geschlossen, und doch
-fand er sie im Zimmer tadellos zurecht, gleichsam als ob
+fand er sich im Zimmer tadellos zurecht, gleichsam als ob
 ihm das Sehvermögen auf ein anderes Organ übergegangen
-wäre. Daß er im Tiefschlaf sich befand, daß also ein Falk
+wäre. Daß er im Tiefschlaf sich befand, daß also ein Fall
 <@pagebreak/>
 von Schlafwandeln vorlag, erkannte ich erst, als ich ganz
 Leise ins Arbeitszimmer schlich und ihn nun aus nächster
 Nähe beobachtete.
 
 Was er tat, war so überraschend, so unerklärlich und
-Dennoch so vielsagend, daß ich in einer Art Erstarrung da
-Band und mit ungläubigstem Staunen sein Treiben wie
+Dennoch so vielsagend, daß ich in einer Art Erstarrung dastand
+und mit ungläubigstem Staunen sein Treiben wie
 einen unheimlichen Traum hinnahm.
 
 Er hatte seine Kleider oder besser Haralds Anzug, denn
 die beiden hatten ja die Rollen vollkommen gewechselt, auf
 einen Stuhl am Fußende des Bettes gelegt. Er suchte aus
 seiner Brieftasche jetzt ein Rezeptformular hervor, ebenso aus
-der Weste einen Bleistift mit silberner, ziselierter
-— kg e, legte das Rezept auf den Schreibtisch, ging zum
-
-en …
+der Weste einen Bleistift *mit silberner, ziselierter
+Hülse*, legte das Rezept auf den Schreibtisch, ging zum
+Ofen …
 
 Was dann geschah, war einfach unfaßbar …
 
-Er durfte sich, legte die Hände (den Bleistift hatte er
+Er duckte sich, legte die Hände (den Bleistift hatte er
 Zwischen die Finger der rechten Hand geklemmt) flach auf den
-Parkettboden — ein Ahnung, und er kam in den Sandbank,
+Parkettboden — ein Schwung, und er kam in den Handstand,
 beugte die Beine nach rückwärts und begann in
-dieser Stellung auf den Schreibtisch; zuzugehen — auf
+dieser Stellung auf den Schreibtisch zuzugehen — auf
 den Händen, Beine und Rumpf nach hinten gestreckt, also ein
 Kunststück, das nur ein Parterreakrobat fertig bringt.
 
 Das — ja, das Grauenvollste, Verwirrendste bei alledem
 war, daß er, da er einen Schlafanzug von Harald trug, der
-gelbweiß und mit dunkelgelber Seidenborte aus unten an
-den Beinkleidern eingefaßt war, für einen in seine Spuk«
-Erlebnisse Eingeweihten ungefähr dem laufenden Arm
-der Marvatty glich …
+gelbweiß und mit dunkelgelber Seidenborte auch unten an
+den Beinkleidern eingefaßt war, für einen in seine Spukerlebnisse
+Eingeweihten ungefähr *dem laufenden Arm
+der Marvatty* glich …
 
 Mit Recht …
 
@@ -632,29 +631,30 @@ Denn jetzt kletterte er auf den Schreibsessel, schaltete die
 Schreibtischlampe ein und … begann zu schreiben, Buchstaben
 auf das Formular zu malen …
 <@pagebreak/>
-Ich schaute ihm über die »ZI Er schrieb das Wort
+Ich schaute ihm über die Schulter. Er schrieb das Wort
 
-e,
+<p class="centered">Rache,</p>
+
 und es glich Strich für Strich jenen Aufschriften der acht
 anderen Zettel!
 
-Und all das tat er zweifellos ohne eine Ahnung so
+Und all das tat er zweifellos ohne eine Ahnung von
 seinem Treiben zu haben …
 
-Genau dasselbe Programm wickelte er nun nach Rückwand?
+Genau dasselbe Programm wickelte er nun nach rückwärts
 ab: löschte die Lampe, kletterte vom Stuhl, ging auf den
 Händen zum Ofen, nahm hier wieder aufrechte Haltung ein,
 packte den Bleistift in die Weste zurück, und legte sich nieder,
 
-Auf dem Schreibtisch aber war der Zettel anrüchige«
-blieben:
+Auf dem Schreibtisch aber war der Zettel zurückgeblieben:
 
-Rache!
-war gespannt, ob sie nun auch das ereignen
+<p class="centered">Rache!</p>
+
+Ich war gespannt, ob sich nun auch das ereignen
 würde, was ich nach dem Vorausgegangenen unschwer vermuten
 konnte.
 
-Aus ich suchte mein Bett wieder auf und wartete.
+Auch ich suchte mein Bett wieder auf und wartete.
 
 Nicht lange …
 
@@ -663,24 +663,24 @@ Holgersen schnarchte …
 Fuhr plötzlich mit leisem Schrei empor … Seine weit
 aufgerissenen Augen stierten zum Ofen hin …
 
-»Die … Hand!« kreischte er … »Herr Schraut,
-Hund: 5-55 »Dr. Au 5 55 die 5 5 Dr 1555: Tau Ware
+»Die … Hand!« kreischte er … »Herr Schraut, … die
+Hand … der Arm … da … da … läuft er …«
 
-Er ’drehte den Kopf, als ob er den Weg, den die
+Er drehte den Kopf, als ob er den Weg, den die
 laufende Hand nahm, verfolgte … bis zum Schreibtisch.
 
 Ich aber sah nichts von dem Arm der Marvatty,
-nichts. Ich … wußte jetzt, was der Spuk zu bedeuten hatte,
-Ich tat, als ob im zu schlaftrunken wäre, mich sofort hochzurappeln.
+nichts. Ich … wußte jetzt, was der Spuk zu bedeuten hatte.
+Ich tat, als ob ich zu schlaftrunken wäre, mich sofort hochzurappeln.
 Erst als die Hand — scheinbar — wieder zum
-Ofen zurückgekehrt war, der ich an den Diwan heran und
+Ofen zurückgekehrt war, trat ich an den Diwan heran und
 setzte mich, nahm des zitternden Doktors Hände in die meinen
 und sagte begütigend: »Sie sind das Opfer einer Selbsttäuschung,
-Sie sind ein Schlafwandler, lieber Hotgzerseu.
+Sie sind ein Schlafwandler, lieber Holgersen.
 Sie selbst schreiben die Zettel. Ich habe Sie beobachtet …«
 
 <@pagebreak/>
-34 erklärte ihm alles bis ins einzelne, aber er blieb
+Ich erklärte ihm alles bis ins einzelne, aber er blieb
 ungläubig, bis ich aus seiner Weste den Bleistift herausnahm
 …
 
@@ -691,15 +691,15 @@ zierlich der Name Ellen Marvatty eingraviert.
 
 Holgersen lächelte verzerrt, atmete aber trotzdem erleichtert
 auf … »Gott sei Dank … Also das ist’s: Traumwandeln!!
-Nun, dagegen gibt es Mittel. im werde mir eine Bütte
+Nun, dagegen gibt es Mittel. Ich werde mir eine Bütte
 mit Wasser vor mein Bett stellen, dann erwache ich, sobald
 ich das Bett verlassen will und mit den nackten Füßen im
-das Wasser trete. — Gott sei Dank …! Also na- Lernen!!«
+das Wasser trete. — Gott sei Dank …! Also nur Nerven!!«
 
-»Allerdings!« lachte ich. »Sie selbst sind die »jsHreibende
-Sand,« und alles andere haben Sie sich nur eingebildet.
+»Allerdings!« lachte ich. »Sie selbst sind die »schreibende
+Hand,« und alles andere haben Sie sich nur eingebildet.
 Seien Sie froh, der Spuk ist geklärt. Nun wollen wir sofort
-Harst anrufen, der riß ja das Telephon ans Bei! stellen
+Harst anrufen, der sich ja das Telephon ans Bett stellen
 wollte …«
 
 Ich telephonierte, bekam auch sofort Verbindung. Harald
@@ -711,24 +711,24 @@ wieder aufsuchen könnte.
 Eine halbe Stunde darauf, gegen halb zwei morgens,
 war er bei uns, drückte Holgersen die Hand, gratulierte ihm
 und meinte, diesen Ausgang hätte er niemals erwartet,
-er sei fest überzeugt gewesen, daß der Inder Rosa Matty
+er sei fest überzeugt gewesen, daß der Inder Arva Matty
 hier den Regisseur spielte …
 
 »Denn, lieber Doktor, zwischen Ellen Marvatty und
-Arva Matty muß es irgendwelche Beziehungen Begehe
+Arva Matty muß es irgendwelche Beziehungen gegeben
 haben. Beachten Sie die Namen: Marvatty — — Arva
+Matty!«
 
-Matty!’
 Holgersen wiederholte sinnend:
-»«Vertrag … «. Q7v4 … Matty, — — daß mir dies
 
+»Marva … arva … Matty, — — daß mir dies
 nicht längst aufgefallen ist!!«
 
 <@pagebreak/>
 »Schraut hat es ebenfalls nicht beachtet, — trösten Sie
 sich! — Und nun werden Sie hoffentlich in Ihrer Wohnung
-bis in den Vormittag hineingekrochen … Meine Maske ist
-überflüssig geworden. Tauschen wir also die Anzüge zurück.«.
+bis in den Vormittag hineinschlafen … Meine Maske ist
+überflüssig geworden. Tauschen wir also die Anzüge zurück.«
 
 Um zwei Uhr verließ Holgersen unser Haus.
 
@@ -748,9 +748,9 @@ vor sich auf dem Rauchtisch ausgebreitet die übrigen acht.
 
 Bei meinem Eintritt blickte er auf und sagte in seiner
 unnachahmlich gleichgültigen Art: »Du hast doch natürlich
-ebenfalls bemerkt, daß dieses neunte »Nache’’ niemals von
+ebenfalls bemerkt, daß dieses neunte »Rache« niemals von
 derselben Hand geschrieben ist wie die übrigen acht Worte
-auf den anderen Zetteln, oder ’besser ausgedrückt: Die acht
+auf den anderen Zetteln, oder besser ausgedrückt: Die acht
 Formulare füllte Arva Matty aus, und nur dies neunte
 Arva Mattys Opfer.«
 
@@ -759,8 +759,8 @@ traf mich wie ein Blitzschlag aus heiterem Himmel. Die
 Tragweite dessen, was Harst da soeben behauptet hatte,
 war ja geradezu katastrophal!
 
-… Bitte, vergleiche nur … die Handschriften ähneln
-sich,! ’ gewiß. Aber ins habe im ganzen acht Verschiedendeien
+»… Bitte, vergleiche nur … die Handschriften ähneln
+sich, gewiß. Aber ich habe im ganzen acht Verschiedenheiten
 festgestellt, die wichtigste davon ist die Kugelschleife
 beim a …! — Bist du wirklich so sehr Überrascht, mein
 Alter? Deine Telephonmeldung besagte mir nichts Neues,
@@ -769,24 +769,24 @@ nachdem ich bei der Frau Sanitätsrat Koppel, Hohenzollerndamm
 98, einen zweiten Untermieter schon nachmittags
 als stark verdächtig aufs Korn genommen, einen ägyptischen
 Studenten namens Mamuth Kardir, der das Zimmer neben
-Holgersens Schlafzimmer inne hat, Der Mann fiel mir auf,
-da er am Fenster stand, als ich; daß Haus nach kurzem
-Ausgang, durchs meinen Regenschirm gedeckt, betrat und als ich
-ihn lächeln sah. Es war das höhnische Grinsen eines Mengen,
+Holgersens Schlafzimmer inne hat. Der Mann fiel mir auf,
+da er am Fenster stand, als ich das Haus nach kurzem
+Ausgang, durch meinen Regenschirm gedeckt, betrat und als ich
+ihn lächeln sah. Es war das höhnische Grinsen eines Menschen,
 der meiner spottete, gleichzeitig das verächtliche eines gefährlichen,
-selbstbewußten Orientalen, Ein paar vorsichtige
+selbstbewußten Orientalen. Ein paar vorsichtige
 Fragen, die mir die Koppel ahnungslos beantwortete,
-brachte über die LebenS38weise dieses braunen Ägyptens, viel
+brachte über die Lebensweise dieses braunen Ägypters, viel
 zu braun für die schmutzige Erdfarbe der meisten Bewohner
 des Nilreiches, so viel Widerspruchsvolles an den Tag,
 daß ich mich veranlaßt fühlte, seine abendliche Abwesenheit
 zu einem Besuch in seinem Zimmer zu benutzen, wo ich
 allerdings nichts Belastendes fand, aber eine kleine Veränderung
 zurückließ: ein Loch in der Tür, gerade groß
-genug, das Zimmer »vom Flur überschauen zu können —
+genug, das Zimmer vom Flur überschauen zu können —
 ein Löchlein, in der Ecke der unteren Füllung gebohrt.
 Es hat mir gute Dienste geleistet. Dieses Guckloch ließ mich
-nachher ahnen, was sich hier bei uns abspielte …’
+nachher ahnen, was sich hier bei uns abspielte …«
 
 Bisher hatte ich zu alledem geschwiegen. Aber diese
 letzte Bemerkung forderte doch meinen Widerspruch heraus.
@@ -798,83 +798,80 @@ nicht.«
 
 »Ich sagte nicht »zeigte«, mein Alter, sondern »ließ
 mich ahnen«, und das ist ein gewaltiger Unterschied. —
-Ich will Sie’s erklären … Der Ägypten kam um Mitternacht
+Ich will dir’s erklären … Der Ägypter kam um Mitternacht
 heim. Zehn Minuten später kauerte ich vor dem Guckloch
-im dunklen Flur. »Der Braune hatte nur die Schreibtischlampe
+im dunklen Flur. Der Braune hatte nur die Schreibtischlampe
 brennen. Er holte aus seinem Koffer eine indische
 <@pagebreak/>
 Räucherschale hervor, schüttete ein Pulver hinein und entzündete
 es mit einem Streichholz. Es brannte mit fahl violetter
-Flamme und entwickelte starken Qualm. Der Ägypten
-kniete nieder, beugte den Kopf in den Rauh hinein und
+Flamme und entwickelte starken Qualm. Der Ägypter
+kniete nieder, beugte den Kopf in den Rauch hinein und
 bewegte dauernd die Lippen, als ob er betete — oder
-esichwörungsformeln murmelte. Dies dauerte recht lange.
+Beschwörungsformeln murmelte. Dies dauerte recht lange.
 Dann erhob er sich … und ging zum Diwan, legte sich
 nieder und schien einzuschlafen. Jacke und Weste hatte er
-
-auf einen Stuhl neben den Diwan gelegt. — Eine U79)« im
+auf einen Stuhl neben den Diwan gelegt. — Eine Uhr im
 Wohnzimmer der Sanitätsrätin schlug halb eins. Da richtete
-der Ägypten sich mit einem Ruck auf … Entnahm seiner
-
-Westentasche einen Bleistift mit silberner Kulis und seiner
-Brieftasche einen länglichen Zettel, ein Regen:Formular, und
+der Ägypter sich mit einem Ruck auf … Entnahm seiner
+Westentasche einen Bleistift mit silberner Hülse und seiner
+Brieftasche einen länglichen Zettel, ein Rezeptformular, und
 dieses legte er auf den Schreibtisch am Fenster, während er
 mit dem Bleistift zum Ofen ging und hier zu meinem
-Erstaunen sehr geschickt einen Sandstand mit zurückscheuchen
+Erstaunen sehr geschickt einen Handstand mit zurückgebeugten
 Beinen versuchte und in dieser Stellung zum Schreibtisch
 lief — lief wie der schreibende Arm!! Auch die Körperhaltung
 entsprach einem Arm, der auf den Fingern läuft …
 — Was weiter folgte, brauche ich dir nicht zu erzählen:
-Der Ägypten schrieb etwas auf den Zettel, lief zum Ofen
+Der Ägypter schrieb etwas auf den Zettel, lief zum Ofen
 zurück, richtete sich hier auf und ging zum Diwan, schien
-wieder zu schlafen. — Nicht lange … dann fürchte er
-Boy, stieß einen leisen Schrei aus und rief: »Die Hand!!t«,
+wieder zu schlafen. — Nicht lange … dann schreckte er
+hoch, stieß einen leisen Schrei aus und rief: »Die Hand!!«,
 — deutsch rief er’s, genau wie Holgersen es drüben bei
 dir tat. Und genau so folgten diesem ersten Ausruf die
 Worte: »Herr Schraut … die Hand … der Arm … da …
 da … läuft er …« — Mithin tat der Braune ganz
-genau dasselbe, was der Schwede hie? bei uns scheinbar
-als Somnambule tat … Nur daß der Ägypten na diesen
+genau dasselbe, was der Schwede hier bei uns scheinbar
+als Somnambule tat … Nur daß der Ägypter nach diesen
 an dich gerichteten Worten taumelnd zur Räucherschale zurückkehrte,
-in der das Pulver noch schnellte, und wiederum
+in der das Pulver noch schwelte, und wiederum
 niederkniete und den Rauch … einsog, worauf er gleichsam
-durch dieses zweite Einatmen des Bilsenkrautpulver?
+durch dieses zweite Einatmen des Bilsenkrautpulvers
 <@pagebreak/>
 — denn das war’s — aus einem ekstatischen Zustand erwachte
-zu die Schale mit Wasser füllte, in den Eimer ausgab,
-Fenster öffnete und den … Zettel auf dem Schreibtisch,
-uf den er zweifellos »Rache« geschrieben hatte, mit einem
+und die Schale mit Wasser füllte, in den Eimer ausgoß,
+die Fenster öffnete und den … Zettel auf dem Schreibtisch,
+auf den er zweifellos »Rache« geschrieben hatte, mit einem
 Zündholz in Asche verwandelte, worauf er zu Bett ging. —
-Das ist alles …
+Das ist alles …«
 
 Ich hatte mit einer geradezu unerträglichen Spannung
 zugehört. Ich begann die Zusammenhänge zu begreifen.
-Freie Erkenntnis war derart, daß sie pures für uns Gefahr
+Diese Erkenntnis war derart, daß sie auch für uns Gefahr
 bedeutete.
 
-»Harald,« sagte ich stockend, »der Ägypten hat durch
+»Harald,« sagte ich stockend, »der Ägypter hat durch
 Fernhypnose den Doktor gezwungen, genau so zu handeln,
 wie er es selbst tat …? — Es ist so …!«
 
-»Nein.« Harst schüttelte Zeit den Kopf. »Nicht Hypnose …
-Indische Wasser, ebenso buvddhistisHe Zauberer nennen diese
-Art von Fernwirkung auf andere »Garn Monarch«, was etwa
-
-»Wechsel des Geistes’’ bedeutet. Aehnlich23 kannten auch die
-Priester der Ist, und der englische Okkultist Professor Chateau
+»Nein.« Harst schüttelte leicht den Kopf. »Nicht Hypnose …
+Indische Magiere, ebenso buddhistische Zauberer nennen diese
+Art von Fernwirkung auf andere »Gara Margim«, was etwa
+»Wechsel des Geistes« bedeutet. Ähnliches kannten auch die
+Priester der Ist, und der englische Okkultist Professor Chatram
 behauptet in einer seiner Schriften, daß der Beschwörer
-»noch das Einatmen des Bilsenkrautes sein »Ich« zwingt,
-ie den Leib eines anderen Menschen »Zweigen Tropfen
-und diesen anderen zum Sklaven seiner Wünsche und »Einüsterungen«
+durch das Einatmen des Bilsenkrautes sein »Ich« zwingt,
+in den Leib eines anderen Menschen »hineinzuschlüpfen",
+und diesen anderen zum Sklaven seiner Wünsche und »Einflüsterungen«
 macht. Ohne Zweifel bin ich in dieser Nacht
-38 Zeuge einer sollen Beschwörung gewesen. Ich habe bisher
-ie Möglichkeit des »Garn Monarch« angezweifelt. Jetzt glaube
-5) Daran.«
+Zeuge einer solchen Beschwörung gewesen. Ich habe bisher
+die Möglichkeit des »Gara Margim« angezweifelt. Jetzt glaube
+ich Daran.«
 
-34h, Max Schraut, — ich fühlte ein Gefühl eisiger Kälte
+Ich, Max Schraut, — ich fühlte ein Gefühl eisiger Kälte
 meinen Rücken herabrieseln …
 
-Grauen war’s … Grauen des anmaßenden, ÜberhebBczen
+Grauen war’s … Grauen des anmaßenden, überheblichen
 und doch so … blöden Europäers vor den dunklen
 Geheimnissen des Orients.
 
@@ -883,34 +880,34 @@ Geheimnissen des Orients.
 <h2>4. Kapitel.</h2>
 <h3>Eine interessante Vorlesung.</h3>
 
-Harst nickte mir zu. »Ja — ich empfand genau dassjelber
+Harst nickte mir zu. »Ja — ich empfand genau dasselbe
 vor dem Guckloch wie du jetzt, mein Alter: Grauen! — Ich
 ahnte, daß dieser braune Magier den »Wechsel des Ich«
 mit Holgersen vollzog, daß also Holgersen hier bei uns …
-unbewußt Komödie spielte, — ich lag? Komödie, denn dem
-Ägypten lag lediglich daran, dich irrezuführen.«
+unbewußt Komödie spielte, — ich sage Komödie, denn dem
+Ägypter lag lediglich daran, dich irrezuführen.«
 
 Ich hatte mir indessen rein mechanisch eine Zigarre
-angezündet … Und erwiderte nun, mich gewaltsam diesem.
-Gefühl spukhaften Erlebens ansteigend: »Ich verstehe alles …
+angezündet … Und erwiderte nun, mich gewaltsam diesem
+Gefühl spukhaften Erlebens entreißend: »Ich verstehe alles …
 Mamuth Kardir, der Student, ist der Inder Arva Matty, der
 Gaukler …«
 
 »Ganz gewiß! Denn er ist erst drei Tage später als
 Holgersen zu der Frau Sanitätsrat als Untermieter gekommen,
 und der Inhalt seiner Koffer ist auch nicht der
-eines Ägyptens, sondern eines Inders …«
+eines Ägypters, sondern eines Inders …«
 
-»—. Und er ist derjenige, der Holgersen haßt und verfolgt
+»… Und er ist derjenige, der Holgersen haßt und verfolgt
 … Er hat die ersten acht Zettel persönlich geschrieben
-und 5.6.
+und …«
 
 »Halt, — du gehst zu leicht über diese Dinge hinweg,
 lieber Alter … Sie sind durchaus nicht so klar, wie du
-denkst oder — — wie ich es anfänglich annahm. Ich. war
-auf falschen Fährte. Ich glaubte an Hypnose, Fernhypnose,
-oben daß jemand den Doktor die Spukszenen mit dem Arm.
-der Marvatty erleben ließ. Das stimmt nicht. Die ersten.
+denkst oder — — wie ich es anfänglich annahm. Ich war
+auf falscher Fährte. Ich glaubte an Hypnose, Fernhypnose,
+eben daß jemand den Doktor die Spukszenen mit dem Arm
+der Marvatty erleben ließ. Das stimmt nicht. Die ersten
 acht Zettel schrieb tatsächlich die … laufende Hand.«
 
 <@pagebreak/>
@@ -920,10 +917,10 @@ etwa die Fähigkeit selbständiger Betätigung an?!«
 »Vielleicht … Vergiß nicht: Holgersens Feind ist ein
 Inder, der ganz offensichtlich über außerordentliche Kenntnisse
 der uralten drawidischen Geheimwissenschaften verfügt.
-Was diese »Eingeweihten« alles Vermögen, entzieht sich uns
+Was diese »Eingeweihten« alles vermögen, entzieht sich uns
 Europäern so gut wie vollkommen. Zuweilen wird der Vorhang
-dieses dunklen Gebietes unbekannter Rätsel ein wen!
-gelüftet — — zuweilen — — ein wenig, dann finden sie;
+dieses dunklen Gebietes unbekannter Rätsel ein wenig
+gelüftet — — zuweilen — — ein wenig, dann finden sich
 schnell ein paar europäische, abgestempelte berühmte Gelehrte,
 die das Geschehene hochmütig als »Selbsttäuschung« ablehnen,
 und — — Europa schläft weiter auf seinen Lorbeeren und
@@ -932,26 +929,26 @@ Kultur schlummert, von der wir nur die augenscheinlichen
 Reste anstaunen und die verborgenen, gefährlichen Hauptsachen
 nie oder selten zu sehen bekommen. Jedenfalls: Zunächst
 bleibe ich dabei, daß Arva Matty die Ellen Marvatty
-geliebt hat, daß er sie, als er ihre Neigung für Gelegenheit
-merkte, zum Selbstmord zwang, und dann den
+geliebt hat, daß er sie, als er ihre Neigung für Holgersen
+merkte, *zum Selbstmord zwang*, und dann den
 Rachefeldzug gegen den Doktor auf indische Art begann,
 indem er ihn zum Wahnsinn treiben wollte. — Nun höre
 genau hin: Wenn der Inder in allen Fällen, wo die schreibende,
-laufende Hand auftrat, bevor Holgersen zu uns
-kam, das »Garn Knochig« angewandt hätte, das heißt,
-wenn die acht Zettel, die ersten acht von Holgersen »unter
-Zwang« geschrieben wären — wie heute der neunte—,
+laufende Hand auftrat, *bevor* Holgersen zu uns
+kam, das »Gara Margim« angewandt hätte, das heißt,
+wenn die *acht* Zettel, die ersten acht von Holgersen »unter
+Zwang« geschrieben wären — *wie heute der neunte* —,
 dann müßten alle neun Rezeptformulare dieselbe Handschrift
-zeigen. Dies ist nicht der Fall. Mithin sind die ersten ach:
+zeigen. Dies ist nicht der Fall. Mithin sind die ersten acht
 Aufschriften »Rache« auf andere Weise zustande gekommen,
 und mithin hat die heutige »Beschwörung«, deren Zeuge
 ich war und deren Erfolg du beobachtet hast, einen anderen
 Zweck gehabt als nur den, Entsetzen hervorzurufen. —
-Leichen Zweck, mein Alter? — Sehr einfach): Der Inder
+Welchen Zweck, mein Alter? — Sehr einfach: Der Inder
 wußte, daß Holgersen als Hilfesuchender zu uns gekommen
 <@pagebreak/>
-war, wußte auch — gib wohl ah!! —, daß ich als Holgersen
-31 der Sanitätsrätin zurückgekehrt war und der Doktor
+war, wußte auch — gib wohl acht! —, daß ich als Holgersen
+zu der Sanitätsrätin zurückgekehrt war und der Doktor
 bei uns geblieben, — daß Holgersen in deinem Arbeitszimmer
 schlief und daß er — der Inder — deshalb die
 Möglichkeit hatte, uns insofern zu täuschen, als die Szene
@@ -963,29 +960,29 @@ und nachher in scheinbar wachem Zustande gewissen Sinnesirrtümern
 erlag. Kurz: des Inders Bestreben ging dahin,
 bei uns jeden Verdacht zu zerstreuen, daß hier eine dritte
 Person die Hand im Spiel habe. — Dies wäre ihm auch
-gelungen, wenn ich nicht das Löchlein gebohrt hätte, Sag’
+gelungen, wenn ich nicht das Löchlein gebohrt hätte, das
 jetzt übrigens wieder tadellos verklebt ist. — Diese meine
-Überzeugung wird nachts durch folgendes gestützt: Bisher ist
+Überzeugung wird noch durch folgendes gestützt: Bisher ist
 der »Arm« stets an einem 13. »erschienen« und stets lag
 mindestens ein Monat zwischen den Schreckensnächten Holgersens.
 Jetzt dagegen ist der Arm in zwei aufeinanderfolgen
 den Nächten »aufgetaucht«, gestern bei der Sanitätsrätin,
 heute hier bei uns, zum ersten Male so dicht hintereinander,
-und das muß da) eine besondere Bewandtnis haben! Welche,
-erklärte ich schon. — Der Inder denkt nun, wir halten, den
+und das muß doch eine besondere Bewandtnis haben! Welche,
+erklärte ich schon. — Der Inder denkt nun, wir halten den
 Doktor für ein Opfer seiner überreizten Nerven und ahnen
-nicht, es könnte sie hier um weit Schlimmeres handeln.
+nicht, es könnte sich hier um weit Schlimmeres handeln.
 Dies nimmt er bestimmt an, zumal wenn er feststellt, daß
-der »ehte’ Holgersen wieder in sein Heim zurückgekehrt ist.
+der »echte« Holgersen wieder in sein Heim zurückgekehrt ist.
 Mithin sind wir dem Inder gegenüber im Vorteil, und um
-diesen Vorteil zu wahren, habe ich Sven Holgersen gegen
-über By getan, als wäre nun alles in schönster Ordnung,
+diesen Vorteil zu wahren, habe ich Sven Holgersen gegenüber
+so getan, als wäre nun alles in schönster Ordnung,
 was ja absolut unrichtig ist. Ich gratulierte Holgersen, und
-wenn es dem mißtrauischen Inder einfallen sollte, etwa durch.
+wenn es dem mißtrauischen Inder einfallen sollte, etwa durch
 eine neue Beschwörung den Doktor darüber auszuforschen,
 wie ich den Fall beurteile, dann wird Holgersen »unter
 <@pagebreak/>
-Zwang« nur sagen können, daß wir beide die Sache Nr
+Zwang« nur sagen können, daß wir beide die Sache für
 erledigt halten.«
 
 »Bravo, Harald! Das war eine lange, aber interessante
@@ -996,13 +993,13 @@ und sagte sehr ernst: »Das war der Beginn, lieber Alter …
 Du verstehst: der Beginn des Kampfes, den wir mit ungleichen
 Waffen führen, denn unser Gegner ist im Vergleich zu uns
 eine Art Halbgott, verfügt über geheime Mittel, die uns nie
-zugänglich sind … — Trotzdem: Eis wird spannend werden!
+zugänglich sind … — Trotzdem: Es wird spannend werden!
 Herr Mamuth Kardir alias Arva Matty und der amputierte,
 laufende und schreibende Arm einer schönen Frau:
 Kaviar, Austern, Delikatessen — — für uns!« — Er änderte
 den Ton … »Bilde dir nur nicht ein, daß diese theoretischen
 Erörterungen über dieses Problem bereits erschöpft
-sind. Oh nein! Ich habe no’FH vieles auf dem Herzen …
+sind. Oh nein! Ich habe noch vieles auf dem Herzen …
 Koche bitte Mokka … Von Schlafen kann ja doch keine
 Rede sein. Also her mit der Maschine … Wenn das
 Wasser im Kessel summt, wenn erst der würzige Kaffeeduft
@@ -1014,18 +1011,18 @@ unseren Korbsesseln stand die japanische Lampe mit dem
 seltsamen, geschnitten Achatschirm auf dem Rauchtischchen.
 Dämmerung ringsum …
 
-Köstliche Nachtstunden, oft genossen, Stunden der Weise,
-des geistigen und körperlichen Losgelöstseins von allem Alltäglicher
+Köstliche Nachtstunden, oft genossen, Stunden der Weihe,
+des geistigen und körperlichen Losgelöstseins von allem Alltäglichen
 …
 
-Harst schlüpfte den ersten Schluck des schwarzen duftenden
+Harst schlürfte den ersten Schluck des schwarzen duftenden
 Nervengiftes und sagte dann:
 
 »Glaubst du, das die Amputation unbedingt nötig war?«
 
-Ich hob den Kopf. »ötig?«
+Ich hob den Kopf. »Nötig?«
 
-»Ich behaupte, Holgersen hat Ellen Marvatty absichtäck
+»Ich behaupte, Holgersen hat Ellen Marvatty absichtlich
 den Unterarm amputiert.
 
 <@pagebreak/>
@@ -1033,9 +1030,9 @@ den Unterarm amputiert.
 
 »Ja. Besinne dich, daß er sich in dieser Hinsicht selbst
 verriet, als er von seiner »Schuld« sprach, was er nachher
-wieder zu betreten suchte.«
+wieder zu verreden suchte.«
 
-»Aber — ich bitte Ei: Welcher Arzt wird …«
+»Aber — ich bitte dich: Welcher Arzt wird …«
 
 »Gestatte: ein verliebter, bis zum Wahnwitz verliebter
 Arzt, der die Geliebte heiraten will, der sie aber vorher
@@ -1045,10 +1042,10 @@ gewesen sein, — doch daß eine Amputation notwendig war,
 bestreite ich!«
 
 Ich … schwieg … Allerdings, Holgersen hatte von seiner
-»Schuld« »gesprochen, hatte nachher so getan, als hätte er
+»Schuld« gesprochen, hatte nachher so getan, als hätte er
 wirres Zeug vorgebracht …
 
-Harald nahm einen neuen Schutz …
+Harald nahm einen neuen Schluck …
 
 »Und nun Punkt zwei: Der Inder war natürlich nach
 Ellen Marvattys Tod in Trelleborg geblieben — in einer
@@ -1059,36 +1056,37 @@ die eiserne Kassette öffnete und den Arm an sich nahm,
 damit er nicht versenkt würde. Arva Matty ist also dauernd
 in des Doktors nächster Nähe gewesen …
 
-Harald wollte offenbar noch etwas hinzufügen, horte
+Harald wollte offenbar noch etwas hinzufügen, horchte
 jedoch plötzlich nach der Flurtür hin …
 
 Da hörte auch ich dort etwas wie ein Kratzen, — als
 ob ein kleiner Hund vom Flur aus durch Kratzen an der
 Tür Einlaß begehrte …
 
-Ich fühlte, daß. ich erbleichte …
+Ich fühlte, daß ich erbleichte …
 
 Ich stierte Harald an …
 
 Dessen Augen waren groß und starr …
 
-Wieder das Traten …
+Wieder das Kratzen …
 
-Ich flüsterte atemlos: »Die … Hand!!’
+Ich flüsterte atemlos: »Die … Hand!!«
 
-Ein nie gekanntes Empfinden eines unnennbaren Trauerte
+Ein nie gekanntes Empfinden eines unnennbaren Grauens
 <@pagebreak/>
 krampfte mir das Herz zusammen … Mein ganzer Leib wurde
 zu Eis … Ich war unfähig mich zu rühren …
 
-Durch »die Fenstervorhänge grinste bereits der fahle Schein
+Durch die Fenstervorhänge grinste bereits der fahle Schein
 der Morgendämmerung …
 
 Der neue Tag war da.
-— Arm diesem Tage … sahen wir mit eigenen Augen
+
+An diesem Tage … sahen wir mit eigenen Augen
 das scheußliche kleine gespenstische Ungetüm:
 
-die laufende Hand.
+<p class="centered">die laufende Hand.</p>
 
 <@pagebreak/>
 
@@ -1099,83 +1097,94 @@ Er liegt neben mir.
 
 Der Bleistift …
 
-Ein »Koch-I-Vor, Kopierstift, Mittel«, ist mit Goldbuchstaben
-in das Holze gepreßt. Die silberne Hülse ist stark
+Ein »Koh-I-Noor, Kopierstift, Mittel«, ist mit Goldbuchstaben
+in das Holz gepreßt. Die silberne Hülse ist stark
 beschädigt. Eine Pistolenkugel hat ihr übel mitgespielt, aber
-die Gravierung »… her Vorrat …« ist noch lesbar.
+die Gravierung »…len Marvat…« ist noch lesbar.
 
-Ich habe den Bleistift vorhin aus unserem RaritätenjG&ran?
+Ich habe den Bleistift vorhin aus unserem Raritätenschrank
 hervorgeholt.
 
 Derlei Andenken wirken anregend und feuern die Erinnerung
 gleichsam kräftig an, bringen Stimmung. —
 
 Einmal sagte mir ein Bekannter, ein Redakteur: »Wissen
-Sie, Schraut, was Ihre Berichte über »Nuß Harsts Leben«
+Sie, Schraut, was Ihre Berichte über »Aus Harsts Leben«
 aus der Menge Ihrer Nachahmer stets herausheben werden?
 Da ist erstens: Das Tempo der Handlung! — Zweitens: Die —
 eingestreuten Stimmungsbilder! — Wenn Sie zum Beispiel
 eine indische Opiumhöhle, eine Nacht im Dschungel, eine
 Fahrt im Nebel schildern, so genügen Ihnen, nur Ihnen, ein
-paar Säße, dem Leser die betreffende »Stimmung« Rufen
-zwingen. Das macht Ihnen so Zeit keiner nach.« — Ich
+paar Sätze, dem Leser die betreffende »Stimmung« aufzutauchen.
+Das macht Ihnen so leicht keiner nach.« — Ich
 könnte diesen meinen Lobredner hier mit Namen nennen.
 Ich denke sehr oft an seine Worte. Und an das, was ich
 ihm damals erwiderte: »Das alles fließt mir ganz von
-selbst in die Feder, lieber L … — ich gebe mir nie »Nähe,
+selbst in die Feder, lieber L… — ich gebe mir nie Mühe,
 das »Tempo« zu erzeugen oder »Stimmung« hervorzuzaubern.«
 
 <@pagebreak/>
 Und das ist richtig.
-Der Bleistift gibt »Stimmung«
-Da wird bei seinem Gallige in mir alle? Liebe leben
 
-merkwürdig, — jede Einzelheit jenes regnerischen Waimorgens, als
+Der Bleistift gibt »Stimmung« …
+
+Da wird bei seinem Anblick in mir alles wieder lebendig,
+— jede Einzelheit jenes regnerischen Maimorgens, als
 Harst und ich nach der Tür starrten und unsere Gesichter
 so fahl waren …
 
 Asiens Wunder umwehten uns mit Eiseshauch …
+
 Abermals kratzte »das Hündchen« …
 
 Hündchen …
 
 Nein — Händchen …
 
-Und dann gab Harst sich einen Ruf, war mit vier
-
+Und dann gab Harst sich einen Ruck, war mit vier
 Schritten an der Tür, zog mit der Rechten die Clement
 aus der Tasche, schaltete mit der Linken die elektrische Krone
-ein 54
+ein …
 
-Kopf …
+Knack …
+
 Tageshelle …
+
 Er riß die Tür auf …
+
 Ich stand neben ihm …
+
 Der Lichtschein fiel grell in den breiten Flur …
+
 Da … lief etwas auf dem roten Plüschläufer davon …
+
 Etwas wie ein phantastisches großes Insekt:
-der weiße Arm!
+
+<p class="centered">der weiße Arm!</p>
 
 Lief zur Treppe — — nach oben …
+
 Sprang …
 
-Sprang vier — sechs Stufen empor»…
+Sprang vier — sechs Stufen empor …
+
 Da — — schoß Harald …
 
-Ein seines Klirren …
-Der Arm verschwand oben im Dunkeln, aber der Blei
+Ein feines Klirren …
 
-Stift lag auf der achten Stufe … —
+Der Arm verschwand oben im Dunkeln, aber der Bleistift
+lag auf der achten Stufe … —
 
-Wir haben damals den »Arm« Besuch:t, natürlich ohne
-
+Wir haben damals den »Arm« gesucht, natürlich ohne
 Erfolg.
+
 <@pagebreak/>
 Wir fanden nur auf der verstaubten Bodentreppe gerade
-
 unter dem einen Dachfenster Spuren im Staube — wie
-von einem kleinen Tier, — seltsame Fährte, die etwa so
+von einem kleinen Tier, — seltsame Fährte, die etwa *so*
 aussah:
+
+<div class="img"><img alt="Fingerspuren im Staub" src="img.png" style="width: 100%; height: auto;"/></div>
 
 — also immer fünf nicht ganz runde Punkte: Abdruck von
 fünf … galoppierenden, springenden Fingern.
@@ -1213,7 +1222,7 @@ Die Beute war der Bleistift.
 
 <@pagebreak/>
 Es war derselbe Bleistift, mit dem Holgersen heute als
-— »Somnambule« das »Rache« auf die Rückseite des Rezepts
+»Somnambule« das »Rache« auf die Rückseite des Rezepts
 geschrieben hatte.
 
 Harst warf sich in seinen Sessel und rauchte still eine
@@ -1222,7 +1231,7 @@ Hülse.
 
 Ich?!
 
-Ich sah voll immer … die laufende Hand, das greuliche,
+Ich sah noch immer … die laufende Hand, das greuliche,
 große, unheimliche Insekt: den Arm mit der Goldkapsel
 am Stumpf …
 
@@ -1230,7 +1239,7 @@ Ich wurde das Bild nicht los.
 
 Es hatte etwas unsagbar Unheimliches an sich gehabt …
 
-Und: Wo eine Erklärung für dieses »Phänomen’ finden
+Und: Wo eine Erklärung für dieses »Phänomen» finden
 — — wie?!
 
 Ein amputierter, präparierter, einbalsamierter Arm …
@@ -1252,41 +1261,41 @@ Der Inder hatte sich gemeldet — durch die springende,
 galoppierende Hand. Nur durch ihn war dieser »Besuch«
 des Armes der Marvatty veranlaßt worden.
 
-Wedghalb?
+Weshalb?
 
 Harst strich sich mit der Linken geistesabwesend über
 die Stirn.
 
 »Weshalb, mein Alter? Denken wir nach … — Arva
-Matty, nehmen wir an, Schicksale die Hand … gut. Aber
+Matty, nehmen wir an, schickte die Hand … gut. Aber
 zu welchem Zweck?!«
 
 Er rauchte wieder …
 
 <@pagebreak/>
-
-Seine tief gekerbte Stirn, d:2 zugekniffenen Augen …
+Seine tief gekerbte Stirn, die zugekniffenen Augen …
 — er strengte sein Hirn über Gebühr an.
 
-… Zuckte die Achseln … Und meinte gedämpft: »Oh er
-etwa doch alles weiß?«
+… Zuckte die Achseln … Und meinte gedämpft: »Ob er
+etwa doch *alles* weiß?«
 
-»Allee?«
+»Alles?«
 
 »Ja, daß ich ihn beobachtete, daß ich ihn vorhin als
 uns gegenüber im Nachteil hinstellte … — alles mag
 er wissen und uns … verhöhnen, warnen, belächeln, uns
 beide … Berühmtheiten, uns Abenteurer, Sensationssucher!
-Nun hat er uns die größte Sensation unseres Pech? sollen
+Nun hat er uns die größte Sensation unseres wechselvollen,
 ereignisreichen Daseins beschert:
 
-den Besuch) eines Armes!
-Das — oder Peinliches — haben wir noch nie erlebt,
+<p class="centered">den Besuch eines Armes!</p>
+
+Das — oder Ähnliches — haben wir noch nie erlebt,
 noch nie!«
 
 Eine ungewisse Handbewegung … »Es muß so sein!
 Er weiß alles, und er hat uns dies durch den Arm angezeigt
-Ulk 5 6:0
+und …«
 
 Da sprang er empor …
 
@@ -1301,7 +1310,7 @@ Sie … hatte nicht nur gekratzt, sie hatte … geschrieben
 
 Da stand klar und deutlich auf dem weißen Lack:
 
-Rache!
+<p class="centered em">Rache!</p>
 
 <@pagebreak/>
 
@@ -1326,7 +1335,7 @@ zieht sich ein bescheidener Wald hin. Hier hat Biß ein Teil
 der Honorationen von Trelleborg angesiedelt, hier steht in
 großem, gut bewachsenen Garten eine kleine Villa mit grünen
 Fenstern und sonstiger bunter Bemalung: farbenfroher
-Schwedengeschma&. Über der Schwedische Wunsch ist unfehlbar
+Schwedengeschmack. Über der Schwedische Wunsch ist unfehlbar
 besser als dieser Geschmack, der die Buntheit von nordischen
 Bauerngehöften hier ins südlichste Schweden üüberträgt.
 
