@@ -1239,7 +1239,7 @@ Ich wurde das Bild nicht los.
 
 Es hatte etwas unsagbar Unheimliches an sich gehabt …
 
-Und: Wo eine Erklärung für dieses »Phänomen» finden
+Und: Wo eine Erklärung für dieses »Phänomen« finden
 — — wie?!
 
 Ein amputierter, präparierter, einbalsamierter Arm …
@@ -1321,53 +1321,53 @@ Da stand klar und deutlich auf dem weißen Lack:
 
 … Wer in Saßnitz auf Rügen das Fährschiff bestiegen
 hat, wer also von der deutschen Küste die schönen, romantischen
-Bilder der Kreidefelsen, des Königstuhls, Anfangs und
-der grünen Wälder noch frisch in Erinnerung hat, der ist:
-bisher enttäuscht, sobald der Trajekt sich immer mehr dem.
+Bilder der Kreidefelsen, des Königstuhls, Arkonas und
+der grünen Wälder noch frisch in Erinnerung hat, der ist
+bitter enttäuscht, sobald der Trajekt sich immer mehr dem
 »Auslande«, nämlich der Stadt Trelleborg nähert.
 
-Flacher, eintöniger Strand, eine reizlose Stadt, auch-.
-Laterne Bauten, ein Bahnhof wie in Posemudel: das sind.
+Flacher, eintöniger Strand, eine reizlose Stadt, nüchterne
+Bauten, ein Bahnhof wie in Posemuckel: das sind
 die ersten Eindrücke von Schweden!
 
-Wehr landeinwärts und ein Stück außerhalb der Stadt
-zieht sich ein bescheidener Wald hin. Hier hat Biß ein Teil
+Mehr landeinwärts und ein Stück außerhalb der Stadt
+zieht sich ein bescheidener Wald hin. Hier hat sich ein Teil
 der Honorationen von Trelleborg angesiedelt, hier steht in
 großem, gut bewachsenen Garten eine kleine Villa mit grünen
 Fenstern und sonstiger bunter Bemalung: farbenfroher
-Schwedengeschmack. Über der Schwedische Wunsch ist unfehlbar
+Schwedengeschmack. Aber der Schwedische Punsch ist unfehlbar
 besser als dieser Geschmack, der die Buntheit von nordischen
-Bauerngehöften hier ins südlichste Schweden üüberträgt.
+Bauerngehöften hier ins südlichste Schweden überträgt.
 
-An dieser Villa schlenderten am 17. Mai vormittag? zwei
+An dieser Villa schlenderten am 17. Mai vormittags zwei
 ältere Herren vorüber, deren äußere Aufmachung auf bescheidene
 Touristen hindeutete.
 
 <@pagebreak/>
 Das täuschte …
 
-Die Herren waren morgens mit einer Stunden Segeljacht
+Die Herren waren morgens mit einer schmucken Segeljacht
 unter deutscher Flagge in den kleinen Hafen eingelaufen
 und hatten sich der Polizei als Kommerzienrat Schneider,
-Stettin, und Rechtsanwalt Schuß, von ebenda, ausgewiesen.
+Stettin, und Rechtsanwalt Schütz, von ebenda, ausgewiesen.
 Die Jacht gehörte dem kleinen, etwas korpulenten Kommerzienrat,
-der hier, wie er im Hotel »Lang Christian« hatte
+der hier, wie er im Hotel »Kung Christian« hatte
 verlauten lassen, eine Zweigniederlassung — eventuell —
-gründen wollte. Sein hagerer Freund Schluß hatte ihn begleitet,
+gründen wollte. Sein hagerer Freund Schütz hatte ihn begleitet,
 um einmal ein paar Tage keinen Aktenstaub zu
-schlafen.
+schlucken.
 
 Die beiden Freunde beachteten die gelbe Villa nicht
 weiter, an deren Gartenpforte ein Messingschild mit der
 Aufschrift:
 
-Dr. Sven Holgersen,
+<p class="centered">Dr. Sven Holgersen,</p>
+<p class="centered">Arzt,</p>
+<p class="centered">Sprechzeit 9—10, 4-6.</p>
 
-Arzt,
-— Sprechzeit 9—10, 4-6.
 im grellen Maisonnenschein funkelte. —
 
-Schneider und Schluß waren keine Phantasiegebilde,
+Schneider und Schütz waren keine Phantasiegebilde,
 sondern gute Bekannte Haralds, die nichts dagegen gehabt
 hatten, daß wir ihre ehrlichen Namen und Ausweise für
 unsere Zwecke genau so benutzten wie Schneiders Jacht
@@ -1376,88 +1376,88 @@ Seeschwalbe.
 Der Leser weiß nun Bescheid. Wir waren »beruflich«
 hier, in Sachen Arva Matty, der uns in Berlin durch
 die Lappen gegangen war. Nachdem wir am 15. Mai,
-morgens 1/26, an der Tür das »Rache« gefunden, waren
+morgens ½6, an der Tür das »Rache« gefunden, waren
 wir sofort zu der Frau Sanitätsrat geeilt, aber das möblierte
 Nest des »ägyptischen Studenten« war leer. Er hatte
 um fünf Uhr »plötzlich abreisen müssen«. Wir kamen zu
 spät.
 
 Mittags hatten wir dann Freund Holgersen gesprochen,
-dem wir: nichts von alledem erzählten, was inzwischen
+dem wir nichts von alledem erzählten, was inzwischen
 geschehen und den wir bei dem Glauben beließen, eine Bütte
 <@pagebreak/>
-Wasser vor dem Bett würde den Spuk ferner »bin verscheuchen.
+Wasser vor dem Bett würde den Spuk fernerhin verscheuchen.
 Abends reiste Holgersen ab, und wir gaben ihm
-noch+4 bis zum Stettiner Bahnhof das Geleit.
+noch bis zum Stettiner Bahnhof das Geleit.
 
-Dann kehrten wir nicht etwa naß Hause zurück, sondern
+Dann kehrten wir nicht etwa nach Hause zurück, sondern
 fuhren mit einer Autotaxe zu unserem Freunde Kriminalkommissar
 Bechert nach der Königstraße, den Harald schon
-vorher telephonisch kurz und vorsichtig von unseren Absicht!
-en verständigt hatte, Harst rechnete bestimmt damit, daß
-wir unat2geseßt beobachtet würden und daß Arva Matty
+vorher telephonisch kurz und vorsichtig von unseren Absichten
+verständigt hatte. Harst rechnete bestimmt damit, daß
+wir unausgesetzt beobachtet würden und daß Arva Matty
 noch Helfershelfer hätte, und dies war für unser ganzes
 Verhalten ausschlaggebend. Die Fahrt zu Bechert war eine
 Jagd durch Berlins einsamste Gegenden — oder besser eine
 Flucht, denn es kam uns darauf an, festzustellen, ob wir
-verfolgt würden. Wir merkten nichts. Sennora handelten
+verfolgt würden. Wir merkten nichts. Dennoch handelten
 wir genau so, wie wenn unsichtbare Gegner auf unserer
 Fährte wären.
 
 Bechert erwartete uns mit einem echt Berliner Kannibalenabendbrot:
-Eisbein und Sauerkohl, dazu gab es ehe?
+Eisbein und Sauerkohl, dazu gab es echtes
 Bier, — kein Souper für schwache Mägen!
 
-Als wir ihm dann bei Tisch den Tal! Holgersen erzählten,
+Als wir ihm dann bei Tisch den Fall Holgersen erzählten,
 machte er zunächst ein paar witzige Bemerkungen
-über den »Spatzen« (was ihm nicht zu verdenken war),
-wurde dann aber durch das Geheimnisvoll—1ebernatärliche
-immer mehr gepackt und meinte zum Schutz Halb besorgt:
-»Inder, ihr habt ein) da »auf einen oberfaulen Zauber
+über den »Spukarm« (was ihm nicht zu verdenken war),
+wurde dann aber durch das Geheimnisvoll—Übernatürliche
+immer mehr gepackt und meinte zum Schluß halb besorgt:
+»Kinder, ihr habt euch da auf einen oberfaulen Zauber
 eingelassen! Wollt ihr nicht doch besser unsere Hilfe in
-Anspruch nehmen? Der Hier stellt euch — das wißt ihr —
+Anspruch nehmen? Der Chef stellt euch — das wißt ihr —
 sehr gern ein Dutzend Beamte zur Verfügung, und wir
 haben jetzt gerade unter dem jungen Nachwuchs Leute, die
 sehr tüchtig sind.«
 
-»Das ist mir bekannt, lieber Bechert. Nur — und
-Harald sagte die Achseln — »kann ich in diesem Falle
-die Verantwortung dafür nicht übernehmen, daß diese warten
+»Das ist mir bekannt, lieber Bechert. Nur —« und
+Harald zuckte die Achseln — »kann ich in diesem Falle
+die Verantwortung dafür nicht übernehmen, daß diese wackeren
 Helfer unbeschädigt aus dem Abenteuer hervorgehen. Außerdem:
 <@pagebreak/>
 einem Arva Matty gegenüber sind wenige besser
 als ein Dutzend! Hier kommt alles darauf an, dem Inder
 zu entgehen, also spurlos zu verschwinden. Nur eine Bitte
 hätte ich, und das Präsidium hat sie mir schon einmal
-erfüllt. Es könnten Hubert und Seiner abermals bei mir
+erfüllt. Es könnten Hubert und Gritzner abermals bei mir
 daheim unsere Rollen übernehmen. Hubert versteht es tadellos,
 mich zu kopieren, seine Nase ist ganz Harst, und auch
-alles andere paßt, während Zeichnen geradezu eine Neuauflage
+alles andere paßt, während Gritzner geradezu eine Neuauflage
 von Schraut ist.« —
 
-Die verehelichten Leser, die unsere Pfade bisher verfolgt
-haben, wissen ohne Frage noch, bei welcher Gelegenheit unsere —
+Die verehrlichen Leser, die unsere Pfade bisher verfolgt
+haben, wissen ohne Frage noch, bei welcher Gelegenheit unsere
 Doppelgänger uns daheim vertraten. Heute gab es das gleiche
 Spiel. Um elf Uhr abends fuhren »Harst« und »Schraut«,
-»wieder auf Umwegen, gen Schmargendorf, Blücherstraße 10,
-und ein Spion hätte schon einen sehr seinen Vielen haben
+wieder auf Umwegen, gen Schmargendorf, Blücherstraße 10,
+und ein Spion hätte schon einen sehr feinen Riecher haben
 müssen, wenn er gemerkt hätte, daß es nur unsere lebenden
 Konterfeis waren.
 
-Um halb zwölf meldete Zeichnen telephonisch folgendes:
+Um halb zwölf meldete Gritzner telephonisch folgendes:
 »Angelangt. — Verfolger anscheinend eine junge, sehr elegante
 Europäerin in einem Selbstfahrer, dunkelblondes Haar, große
 dunkle Augen und kleinen üppigen Mund.«
 
 Um zwölf saßen wir im Nachtzug nach Stettin, dritter
 Klasse, Typ: Provinzonkels! Um sechs Uhr waren wir bei
-Kommerzienrat Schneider …—
+Kommerzienrat Schneider … —
 
-Man ist der Leser unterrichtet: Harst und Schraut waren
-daheim in Berlin, und Schneider und Schluß mit der »Seeschwalbe«
+Nun ist der Leser unterrichtet: Harst und Schraut waren
+daheim in Berlin, und Schneider und Schütz mit der »Seeschwalbe«
 in Trelleborg.
 
-Die bunte Villa Holgersens Festlegte Biß mit ihrem
+Die bunte Villa Holgersens erstreckte sich mit ihrem
 Garten bis in das Wäldchen hinein. Wir bummelten gemächlich
 die Straße hinab und wählten dann einen Feldweg,
 der uns in den Buchenwald brachte. Der Garten unseres
@@ -1465,59 +1465,59 @@ Doktors hatte hier an der Rückfront nur einen bescheidenen
 Staketenzaun. Die Garage und ein kleiner Stall lagen
 Unweit dieses Zaunes. Vor der Garage spritzte gerade ein
 <@pagebreak/>
-blondbärtiger der Chauffeur Holgersens Auto ab, und
+blondbärtiger dicker Chauffeur Holgersens Auto ab, und
 Holgersen stand daneben, Zigarre im Munde, und spielte
 mit einem großen Schäferhund, den er in Berlin kurz vor
 seiner Abreise aus einer Dressuranstalt gekauft hatte, — auf
 Haralds Rat. Es war ein mächtiges Tier, scheinbar sehr
 gutmütig, aber auf den Mann dressiert und gegen »laufende
-Hände« ein besserer Schuß als eine Wasserbütte.
+Hände« ein besserer Schutz als eine Wasserbütte.
 
 Holgersen bemerkte uns nicht, konnte auch nicht ahnen,
-daß wir die Jagd naß Arva Matty hier fortsetzen wollten,
+daß wir die Jagd nach Arva Matty hier fortsetzen wollten,
 und hätte uns im übrigen auch gar nicht wiedererkannt.
 
 Nachdem wir so die Örtlichkeit genügend uns eingeprägt
-hatten, gingen wir in das Hotel Lang Christaan, einem
-Bau aus Thugs Zeiten mit eingebrochen neuen Seitenflügeln.
+hatten, gingen wir in das Hotel Kung Christian, einem
+Bau aus Olims Zeiten<@refnote 1/> mit eingeklexten neuen Seitenflügeln.
 
-In der »modernen« Vorhalle saß in der Sie, die hier
+In der »modernen« Vorhalle saß in der Ecke, die hier
 Schreibzimmer und Lesesaal vertrat, eine grauhaarige Dame
 und las Zeitungen. Sie hatte neben sich eine Unmenge
 Blätter aufgestapelt: weiblicher Zeitungsmarder!, und ich
 Hätte ihr kaum Beachtung geschenkt, wenn Harald nicht ganz
 unerwartet in der Nähe Platz genommen und sich dann
 an die Dame mit der Bitte gewandt hätte, ihm doch das
-Stockholmer Tageblatt für kurze Zeit zu Verlassen da er
+Stockholmer Tageblatt für kurze Zeit zu überlassen da er
 den Börsenbericht einsehen wolle,
 
 Er hatte deutsch gesprochen.
 
 Die Grauhaarige erwiderte auf französisch, sie spräche
-leider nur englisch; und französisch, worauf Harst seine Bitte
+leider nur englisch und französisch, worauf Harst seine Bitte
 in sehr stolperigem Englisch wiederholte: Absicht, denn sein
 Englisch ist tadellos, wenn er will.
 
-Was mir nun van der schritt, aber mit Geschmack
+Was mir nun an der schlicht, aber mit Geschmack
 gekleideten Frau auffiel, war der Mund, ein kleiner, üppiger
 Mund, der nicht recht zu dem gelblichen, müden, faltigen
 Gesicht paßte.
 
-Die Dame hatte freilich etwas Not aufgelegt, aber recht
+Die Dame hatte freilich etwas Rot aufgelegt, aber recht
 <@pagebreak/>
-ungeschickt, und diese roten Büschen gaben ihr das Aussehen
+ungeschickt, und diese roten Bäckchen gaben ihr das Aussehen
 einer Schwindsüchtigen.
 
 Harald, der mit einer höflichen Verbeugung die Zeitung
 entgegengenommen hatte, schien jetzt so vertieft in die Börsenberichte,
-daß im in meinem Korbsessel wirklich nichts Besseres
+daß ich in meinem Korbsessel wirklich nichts Besseres
 zu tun hatte, als im Spiegel der Mittelsäule der Vorhalle
 die geschminkte Fremde, neben deren Platz ein Malkasten
-und eine Klappstaffelei standen, mit fast kleinstäotisiher Neugier
+und eine Klappstaffelei standen, mit fast kleinstädtischer Neugier
 zu beobachten, denn — etwas anderes gab’s hier wirklich
 nicht zu sehen.
 
-Zudem jagte ich mir mit einigem Art, daß Harald diese
+Zudem sagte ich mir mit einigem Recht, daß Harald diese
 Dame doch irgendwie interessant oder verdächtig vorgekommen
 sein müßte. Wozu sonst diese Komödie mit dem Börsenbericht?!
 
@@ -1530,13 +1530,13 @@ dauernd unbeweglich blieben.
 
 Ich rauchte meine Zigarre und suchte meiner Erregung
 Herr zu werden. Das war nicht leicht. In mir war ein
-seltsamer Argwohn ausgesagt …
+seltsamer Argwohn aufgezuckt …
 
 Dieser Frau fehlte die rechte Hand!!
 
-Wie nun, wenn Ellen Marvatty gar nicht tot war!??!
+Wie nun, wenn Ellen Marvatty gar nicht tot war!?!
 
-Konnte ihr Selbstmord, nicht lediglich) dadurch vorgetäuscht
+Konnte ihr Selbstmord, nicht lediglich dadurch vorgetäuscht
 worden sein, daß der Inder ihr eins der satanischen indischen
 Gifte gegeben hatte, die einen todesähnlichen Zustand erzeugen?!
 Konnte die scheinbare »Leiche« nicht nachher wieder ausgegraben
@@ -1546,19 +1546,18 @@ konnte sie ihn nicht vielleicht in Wahrheit mit ihrem tödlichen
 Hasse verfolgen, weil er ihr den Arm unnötig amputiert
 hatte?!
 
-Wenn dies alles stimmte (und das »Alter« dieser Frau«
-dort konnte durchs Schminke nur künstlich hervorgerufen sein!?),
-
+Wenn dies alles stimmte (und das »Alter« dieser Frau
+dort konnte durch Schminke nur künstlich hervorgerufen sein!),
 <@pagebreak/>
 Dann war Ellen die Verbündete Arva Mattys, dann war sie
 auch die Spionin gewesen, von der uns Kriminalassistent
-Kellner telephonisch Meldung erstattet hatte!
+Gritzner telephonisch Meldung erstattet hatte!
 
-Die Spionin — — mit dein kleinen, üppigen Mund!!
+Die Spionin — — mit dem kleinen, üppigen Mund!!
 
-Und genau stellen Mund hatte diese Fremde! —
+Und genau solchen Mund hatte diese Fremde! —
 
-Wir wurde über all diesen Gedanken immer Heizer …
+Mir wurde über all diesen Gedanken immer heißer …
 Ich fühlte, daß ich schwitzte … Ich hatte jetzt nur den
 einen Wunsch, daß Harald recht bald die Zeitung weglegte und
 ich oben auf unseren Zimmern Gelegenheit fände, ihm
@@ -1576,8 +1575,8 @@ Lächeln?!
 Oh — er würde nicht gelächelt haben, wenn er meine
 geheimsten Gedanken hätte lesen können!!
 
-Da — — erhob die Fremde sich, nahm mit der Wänden
-Malkasten und Stativ und rauschte an uns »vorüber — durch
+Da — — erhob die Fremde sich, nahm mit der *Linken*
+Malkasten und Stativ und rauschte an uns vorüber — durch
 die Pendeltür auf die sonnenhelle Straße.
 
 Ich beäugte sie wie … wie ein Detektiv …
@@ -1587,16 +1586,16 @@ Der rechte Arm, die rechte Hand: Kunst!!
 Eine Stimme neben mir — halblaut — halblaut und
 doch jede Silbe scharf betont:
 
-»Ellen War — hat — tu’!ich«
+»Ellen Mar — vat — ty!!«
 
 Mein Kopf fuhr herum …
 
-Ich starrte den Herrn Rechtsanwalt Doktor Schutz wie
+Ich starrte den Herrn Rechtsanwalt Doktor Schütz wie
 entgeistert an …
 
 Er fügte hinzu:
 
-»Tag ahnte das seit gestern abend, mein Alter … Die
+»Ich ahnte das seit gestern abend, mein Alter … Die
 Marvatty lebt …«
 
 <@pagebreak/>
@@ -1604,8 +1603,8 @@ Marvatty lebt …«
 <h2>2. Kapitel.</h2>
 <h3>Grabinschrift.</h3>
 
-… im falle Harald gegenüber mit meinen Niederen- —
-Schlangen regelmäßig herein.
+… Ich falle Harald gegenüber mit meinen Überraschungen
+regelmäßig herein.
 
 Regelmäßig verfalle ich immer wieder in den alten
 Fehler: mir einzubilden, daß Harst einmal doch weniger scharf
@@ -1613,59 +1612,59 @@ Beobachtet haben könnte als ich!
 
 Geknickt saß ich nun da und erwiderte schüchtern:
 
-»Schaffelle wollte ich dir als große Neuigkeit mitteilen …!«
+»Dasselbe wollte ich dir als große Neuigkeit mitteilen …!«
 
 »Eine Neuigkeit bleibt’s immerhin — so oder so!«
 
-»Gewiß …— Der arme Holgersen!t«
+»Gewiß … — Der arme Holgersen!!«
 
-»Nun, er hoffte auf Liebe, und er … erntete Haß!ck«
+»Nun, er hoffte auf Liebe, und er … erntete Haß!«
 
-Harald bitte mich eigentümlich an …
+Harald blickte mich eigentümlich an …
 
 »Meinst du?!«
 
 »Du nicht?! Ellen Verbündete Arva Mattys, was
-sonst 21«
+sonst?!«
 
 »Hm?! Wirklich?! Gibt es nur die Lösung?«
 
 »Ich wüßte keine andere …«
 
-»Zoo A da
+»Ich ja …«
 
 »Und die wäre?«
 
-»Längst du dir das nicht selber zusammenreimen?!«
-»Nein, den wenn Ellen den Doktor lieben würde, ha
-sie sich Dom wohl kann vor ihm verborgen gehalten und
-auch niemals Gift genommen, um den Selbstmord voraus
+»Kannst du dir das nicht selber zusammenreimen?!«
 
-gaukeln …«
+»Nein, denn wenn Ellen den Doktor lieben würde, hätte
+sie sich doch wohl kaum vor ihm verborgen gehalten und
+auch niemals Gift genommen, um den Selbstmord vorzugaukeln
+…«
 
-»Hm«
+»Hm …«
 
 <@pagebreak/>
-»Was soll das?! So sprich bis doch aus!« Ich war
+»Was soll das?! So sprich dich doch aus!« Ich war
 bereits etwas stark nervös.
 
 Harst stand auf …
 
-»Darüber gibt es »nichts zu sagen, mein Alter … Da
-ist alles vollständig klar. Uns bleibt nur übrig zu reiten,
-noch zu retten ist … — Komm«, vielleicht haben wir
+»Darüber gibt es nichts zu sagen, mein Alter … Da
+ist alles vollständig klar. Uns bleibt nur übrig zu retten,
+was noch zu retten ist … — Komm’, vielleicht haben wir
 Glück.«
 
 Er schritt auf die Loge des Pförtners zu.
 
 Der Mann dienerte, gab uns das Fremdenbuch.
 
-Wir sahen, daß die Malerin Jeanne Antoinette
-Baronesse d’Igny he Charleys heute früh mit dem
+Wir sahen, daß die *Malerin Jeanne* Antoinette
+*Baronesse d’Igny de Choiseul* heute früh mit dem
 Fährschiff von Saßnitz eingetroffen sein mußte — eine Stunde
 nach uns!
 
-Baronesse he Charleys aus Paris … 52 Jahre alt …—
+Baronesse de Choiseul aus Paris … 52 Jahre alt … —
 
 Harald steckte dem Portier einen Zehnkronenschein zu …
 
@@ -1677,59 +1676,59 @@ bei uns gewohnt.«
 
 »Wann zum erstenmal?«
 
-— — das war etwa vor einem Jahr … Und
-dann kam sie fast jeden Monat für einige Tage … « Er
-flüsterte grinsend … »Ich glaube, sie ist nicht ganz »richtig
-im Kopf … Sie »malt stets … Gräber, hier auf dem
+»Ja — — das war etwa vor einem Jahr … Und
+dann kam sie fast jeden Monat für einige Tage …« Er
+flüsterte grinsend … »Ich glaube, sie ist nicht ganz richtig
+im Kopf … Sie malt stets … Gräber, hier auf dem
 Friedhof.«
 
-»Gräber?!
+»Gräber?!«
 
 Der Portier lachte und nickte … »Aber Geld hat sie!
-Sie wirst damit nur so herum!«
+Sie wirft damit nur so herum!«
 
 »Ist sie denn stets allein?«
 
-»Doch nicht! Sie hat immer ahne alte Zofe bei sich,
+»Doch nicht! Sie hat immer eine alte Zofe bei sich,
 eine Südfranzösin, eine bucklige Hexe … Angst könnte man
 vor der haben … Schielen tut sie, und Pockennarben hat sie
-und hinten tut sie auch, aber zu der Baronin ist sie wie
+und hinken tut sie auch, aber zu der Baronin ist sie wie
 Mutter …«
 
 <@pagebreak/>
 Harald blickte wieder in das Fremdenbuch. Da stand
-unter dein: Namen der Baronin:
+unter dem Namen der Baronin:
 
-Louison Gasparette Je Sinne, Paris,
-Kammerfrau, 69 Jahre.
+<p class="centered">Louison Gasparette Le Blanc, Paris,</p>
+<p class="centered">Kammerfrau, 69 Jahre.</p>
 
 »Haben Sie mal eins von den Bildern der Baronin
-gesehen?’ fragte Harst weiter, indem er jetzt zwanzig Kronen
+gesehen?« fragte Harst weiter, indem er jetzt zwanzig Kronen
 den Besitzer wechseln ließ.
 
 Der Portier hob die Hand. »Da hängt ja eins, Herr
 Rechtsanwalt …«
 
-Wirklich, in der Pförtnerloge gerade über dem Regal —
-mit den Schlüsseln glänzte ein breiter Goldrahmen … en
+Wirklich, in der Pförtnerloge gerade über dem Regal
+mit den Schlüsseln glänzte ein breiter Goldrahmen … ein
 mittelgroßes Gemälde, düster in der Stimmung, düster in den
-Farben wie ein Göttin …! Ein Grabhügel mit einem
-jchGwarzen Marmorstein, zwei Trauerweiden und zwei Edeltannen.
+Farben wie ein Böcklin<@refnote/> …! Ein Grabhügel mit einem
+schwarzen Marmorstein, zwei Trauerweiden und zwei Edeltannen.
 
-»Es ist das Grab so einer vom Variete,« erklärte
+»… Es ist das Grab so einer vom Varieté,« erklärte
 der Pförtner unaufgefordert … »Ellen Marvatty hieß sie,
-und sie hat sich hier vergiftet, weil ihr der Arm ad operiert
+und sie hat sich hier vergiftet, weil ihr der Arm aboperiert
 werden mußte … Seiltänzerin und Trapezkünstlerin war
 sie … Ein hübsches Mädel … Und — — das ist ihr
 Grab, meine Herren. Wie gesagt, die Baronin … hat …
-an? Vogel! Wer mal! Gräber!!«
+’n Vogel! Wer malt Gräber!!«
 
 Harald lachte. »Da haben Sie recht. Uns ist die Baronin
 ja herzlich gleichgültig, aber vorhin hier in der Vorhalle
 bewachte sie ihre Zeitungen wie ein Tiger, und …
-einen künstlichen Arm — — und Malerin, — zu selten!«
+einen künstlichen Arm — — und Malerin, — auch selten!«
 
-Der Portier schüttelte den Kopf, »Kein künstlicher Am,
+Der Portier schüttelte den Kopf. »Kein künstlicher Arm,
 Herr Rechtsanwalt, — nein, nur verkrüppelt und steif. Ich
 habe die rechte Hand der Baronin ein einziges Mal ohne
 Handschuh gesehen — — entsetzlich!«
@@ -1743,28 +1742,28 @@ Pfote modellieren lassen!«
 <@pagebreak/>
 »Allerdings …«
 
-Er trat näher an daß Bild heran.
+Er trat näher an das Bild heran.
 
-».». Gar nicht schlecht gemalt … Was steht denn
+»… Gar nicht schlecht gemalt … Was steht denn
 da als Inschrift auf dem Marmorstein?«
 
-»Seine Ahnung …! Wird auf dem Bild auch schwer zu
+»Keine Ahnung …! Wird auf dem Bild auch schwer zu
 entziffern sein, Herr Rechtsanwalt.«
 
 Harald nahm das Gemälde herab und hielt es schräg
-gegen das Licht, Ich stellte mich hinter ihn.
+gegen das Licht. Ich stellte mich hinter ihn.
 
-Es ging mir wie ein elektrischen Schlag durch) den
+Es ging mir wie ein elektrischen Schlag durch den
 Körper, als ich unten rechts das Bild mit E. M. signiert
-fand — Ellen Marvatty! — Aber daran voll nicht genug:
-Gdöhaute man sehr genau hin, so konnte man auf dem
+fand — Ellen Marvatty! — Aber daran noch nicht genug:
+Schaute man sehr genau hin, so konnte man auf dem
 schwarzen Stein lesen:
 
-Der Unsichtbare
-der Unsichtbaren.
-Der Haß höre! nimmer auf.
+<p class="centered em">Der Unsichtbare</p>
+<p class="centered">der Unsichtbaren.</p>
+<p class="centered">Der Haß höret nimmer auf.</p>
 
-Mit überlief es eiskalt …
+Mich überlief es eiskalt …
 
 Was hieß das?!
 
@@ -1793,43 +1792,43 @@ wieder auf die Straße hinaus …
 … Kirchhof von Trelleborg …
 
 Ein Friedhofsverwalter, dem man den früheren Seemann
-auf zehn Schritt Ansicht, fährt uns umher. Es gibt hier in
-der sogenannten Ecke der Unmenschen so allerlei anzustaunen.
-In dieser Er ruhen die unbekannten Toten. Man
+auf zehn Schritt ansieht, fährt uns umher. Es gibt hier in
+der sogenannten Ecke der Namenlosen so allerlei anzustaunen.
+In dieser Ecke ruhen die unbekannten Toten. Man
 hat ihre Hügel eigenartig geschmückt. An den schlichten
-Hol3zkreuzen hängt das, was man bei den Leichen fand:
+Holzkreuzen hängt das, was man bei den Leichen fand:
 Tabakpfeifen, Messer, billige Uhren mit längst verrosteten
-Nickelketten, Spiegel mit nahen Weibern auf der Rückseite,
+Nickelketten, Spiegel mit nackten Weibern auf der Rückseite,
 Kämme, Taschenbürsten, silberne Matrosenohrringe …
 
-Aber uns 3o9g es nach einer anderen Stelle hin»…
+Aber uns zog es nach einer anderen Stelle hin …
 
 Auch die erreichten wir.
 
-Der Friedhofsverwalter zeigte uns Ellens Grad …
+Der Friedhofsverwalter zeigte uns Ellens Grab …
 
 Er sprach allerlei …
 
 Ich hörte gar nicht hin …
 
-Ich fraß nur mit den Birnen die Inschrift des schwarzen
-Marwmorsteins …
+Ich fraß nur mit den Blicken die Inschrift des schwarzen
+Marmorsteins …
 
 Da war zu lesen — — nichts von
 
-Der Unjfichtbare
-der Unsichtbaren,
+<p class="centered em">Der Unsichtbare</p>
+<p class="centered">der Unsichtbaren,</p>
 oder von
-Der Haß höret nimmer auf.
+<p class="centered">Der Haß höret nimmer auf.</p>
 Nein, nur:
-Ellen Marvatty.
-Gott ist die Liebe.
+<p class="centered em">Ellen Marvatty.</p>
+<p class="centered">Gott ist die Liebe.</p>
 
 <@pagebreak/>
 Weiter nichts …
 
 »Wer hat der Ärmsten hier in der Selbstmörderecke
-den ’Stein geschenkt?« fragte Harald den alten Herrn.
+den Stein geschenkt?« fragte Harald den alten Herrn.
 
 »Doktor Holgersen … Einer unserer Ärzte hier, eben
 der Arzt, der die Seiltänzerin operierte … — Ein netter
@@ -1840,11 +1839,11 @@ Wenn ich als früherer Schiffskapitän abergläubisch bin, das
 ist verständlich. Aber ein Arzt …!! Obwohl — — na, —
 die Herren interessiert das nicht …«
 
-»Roh — erzählen Sie nur …«
+»oh — erzählen Sie nur …«
 
-»Ha wollte nur sagen, daß man hier inmitten der Toten
+»Ich wollte nur sagen, daß man hier inmitten der Toten
 auch als Arzt leicht abergläubisch werden könnte, denn …«
-—» er blickte sich scheu um, der alte Graubart — »denn …
+— er blickte sich scheu um, der alte Graubart — »denn …
 hier die Marvatty zum Beispiel, die … wandert so manche
 Nacht als Gespenst über die Hügel … — Oh, lächeln Sie
 nicht, meine Herren …«
@@ -1859,22 +1858,22 @@ noch gräßlicher aus!«
 »Wann … wandert sie denn?«
 
 »Zuweilen … Meist so … so um den dreizehnten jedes
-Monate herum …«
+Monats herum …«
 
 »Das möchten wir mal miterleben, Herr Verwalter …«
 
 Der Alte schaute uns ungläubig an. Dann lächelte
-& +… »Sie müßten sich ein paar Nächte hier auf dem Kirchhof
+er … »Sie müßten sich ein paar Nächte hier auf dem Kirchhof
 verstecken … Aber — Sie werden sich hüten, meine
+Herren.«
 
-en.
 »Allerdings! — So, nun danken wir Ihnen bestens
 für Ihre Führung … Darf ich Ihnen vielleicht diese fünfzig
 <@pagebreak/>
 Kronen spenden …? Oh — nehmen Sie nur … — Auf
 Wiedersehen …« —
 
--… Und wir waren draußen auf der einsamen Straße,
+… Und wir waren draußen auf der einsamen Straße,
 gingen still dahin, bis Harald leise meinte:
 
 »Das Seltsame häuft sich! Dieser Fall ist doch das
@@ -1882,29 +1881,31 @@ Eigenartigste, was uns je begegnete … Wohin wir greifen:
 Ungewöhnliches! Nirgends auch nur eine Spur von
 Schablone, von Alltäglichen — nirgends! Nur Dinge, die
 hart an … Spuk, Irrsinn und Unbegreifliches streifen …
-— Wir finden hier eine angeblich Tote als Malerin ihres.
-eigenen Grabes wieder, sehen eins älter Bilder, auf dem
+— Wir finden hier eine angeblich Tote als Malerin ihres
+eigenen Grabes wieder, sehen eins ihrer Bilder, auf dem
 sie die Inschrift des Steines in einer Weise geändert hat,
 die zu raten gibt:
 
-Der Unsichtbare
-der Unsichtbaren,
+<p class="centered em">Der Unsichtbare</p>
+<p class="centered">der Unsichtbaren,</p>
+
 und
-Der Haß höret nimmer auf.
+
+<p class="centered">Der Haß höret nimmer auf.</p>
+
 Wie kam Ellen Marvatty zu dieser Änderung?! — Und
 dann: Ellen … wandert! Ellen erscheint hier jeden Monat
-
 um den dreizehnten herum in Trelleborg und … spielt
 Gespenst mit ihrem amputierten Arm! — — Das alles
 klingt wie Ausgeburt einer überhitzten Phantasie … und
-ist Tatsache! — Was? — — soll das alles?!«
+ist Tatsache! — Was — — soll das alles?!«
 
 Er blieb plötzlich stehen …
 
 »Schraut, mir ist so zumute, als ob’s nicht heller lichter
 Maitag, sondern eine unheimliche, stürmische Novembernacht
 wäre … Ich … spüre das Dunkle, Rätselhafte ringsum …
-Die Luft scheint mir geladen mit einem Fluid von Gespensterhaften,
+Die Luft scheint mir geladen mit einem Fluid von Gespensterhaftem,
 Unerklärlichem … — — Sag’, was tun wir?«
 
 Seine Frage berührte mich durchaus nicht seltsam, denn
@@ -1918,34 +1919,33 @@ Hilflos!!
 <@pagebreak/>
 »Ellen Marvatty etwa die Wahrheit auf den Kopf
 zusagen?! — Darin läge ein ungeheures Risiko. Zu groß.
-
 — Also — — abwarten, ob die laufende Hand nochmals
 unseren Doktor belästigt? — Dann könnten wir hier vielleicht
 einen Monat warten — bis zum dreizehnten Juni,
+— — ich danke!«
 
-— — ihm danke!«
-
-Er ’shaute mich trübe an …
+Er schaute mich trübe an …
 
 »Weißt du, mein Alter, — — nach Hause möchte
-ich! Gleich! Ich leide selten an Ahnungen. Aber hier, jetzt …
+ich! Gleich! Ich leide selten an Ahnungen. Aber hier, jetzt …,
 — mir ist, als ob … der Tod uns umlauert … als ob
-wir, die wir dem Gevatter Knochenmann so oft des ins
+wir, die wir dem Gevatter Knochenmann so oft keck ins
 grinsende Antlitz geblickt, diesmal … die Partie verlieren
-werden … Ich bin gewiß kein Feigling. Aber … »aber …«
+werden … Ich bin gewiß kein Feigling. Aber … aber …«
 
 Er schwieg …
 
-Sein Kopf beugte sich. in den Nacken …
+Sein Kopf beugte sich in den Nacken …
 
 Vor unsere Füße war etwas aus der Luft herabgefallen
 …
 
-Mit trägen Flügeihlägen flog eine Krähe dem Friedhof
-SW154
+Mit trägen Flügelschlägen flog eine Krähe dem Friedhof
+zu …
+
 Aus der Luft …
 
-Als hätte die Krähe es herabgeworfen — es: ein Papierröllchen,
+Als hätte die Krähe es herabgeworfen — *es*: ein Papierröllchen,
 umwickelt mit silbernem Draht, an dem ein rundes
 Medaillon hing, — indische alte Arbeit, ein Amulett mit
 dem Bildnis des Gottes Indra, des Weltbeglückers Indra! —
@@ -1954,18 +1954,20 @@ Das Papierröllchen war eins von Holgersens Rezeptformularen,
 und auf der Rückseite stand in steiler lateinischer
 Schrift — deutsche Worte:
 
-Kehre! heim! Ich bin allezeit
-um euch!
-Arva Matty, Indras Bote.
+<p class="centered">Kehret heim! Ich bin allezeit</p>
+<p class="centered">um euch!</p>
+<p class="centered">Arva Matty, Indras Bote.</p>
 
-Das stand geschrieben …
+*Das* stand geschrieben …
 
 Eine Krähe war über uns hinweggestrichen … Ein
 Papierröllchen fiel …
 
 Dressur?
+
 <@pagebreak/>
 Taschenspielerkniff?!
+
 Wie?
 
 Und wir sahen uns mit seltsamen Augen an und schritten
@@ -1978,7 +1980,7 @@ sich in die Sofaecke warf …
 
 Da sagte er:
 
-»Es hat alles nichts Genuß!! Der Inder wird uns
+»Es hat alles nichts genützt! Der Inder wird uns
 finden und erkennen, und wenn wir …«
 
 Er machte nur eine Handbewegung, — — wie einer, der
@@ -1987,9 +1989,9 @@ nicht mehr aus noch ein weiß.
 Da kam der Kellner und meldete, daß unten in der
 Glasveranda gespeist würde.
 
-da — — kam … der Umschwung.
+Und *da* — — kam … *der Umschwung*.
 
-0:
+So:
 
 In der Veranda waren einzelne Tische für die Gäste
 gedeckt. Unser Tisch stand in einer Ecke nach der Straße
@@ -1997,8 +1999,8 @@ zu. Der Tisch der Baronin und ihrer Kammerfrau war von
 dem unsern durch zwei andere getrennt. An diesen beiden
 saßen nur je ein einzelner Herr, Geschäftsreisende offenbar …
 Die Kammerfrau hatte ihren Platz so, daß wir ihr Gesicht
-in uns hatten, während die »Baronin« uns den Rücken.
-ehrte.
+vor uns hatten, während die »Baronin« uns den Rücken
+kehrte.
 
 Kaum hatten wir uns gesetzt, als der Kellner die Suppe
 brachte, — zuerst der Baronin und der Südfranzösin …
@@ -2007,84 +2009,85 @@ Südfranzösin …!! —
 
 Ich muß hier notwendig etwas einschalten. Wenn der
 Pförtner die Kammerfrau als Hexe bezeichnet hatte, so
-war das seine Übertreibung gewesen. Das Weib war von
-abschreckender Häßlichkeit, Die schielenden Augen mochten
-voll hingehen. Aber schon die Augenbrauen, die sehr hoch
+war das keine Übertreibung gewesen. Das Weib war von
+abschreckender Häßlichkeit. Die schielenden Augen mochten
+noch hingehen. Aber schon die Augenbrauen, die sehr hoch
 über den Höhlen lagen, waren abnorm, waren dick und
 borstig wie Schnurrbärte, die kurz geschnitten und schlecht
 <@pagebreak/>
 gepflegt sind. Dazu waren sie nicht in nach unten offenem
-Bogen gekrümmt, sondern häkchenförmig, und die Hafen enden
+Bogen gekrümmt, sondern häkchenförmig, und die Hakenenden
 lagen über der Nasenwurzel und bildeten, da sich
 ihre Spitzen berührten, auf der Stirn ein offenes Dreieck.
 Das wirkte derart scheußlich, derart als tierhafte Verunstaltung,
 daß man immer wieder diese abscheulichen Brauen
-ansehen mußte. Die dicke, plumpe Nase mit den weit sei
-blähten Nüstern kam deshalb auch in ihrer gemeinen Häßlichkeit
+ansehen mußte. Die dicke, plumpe Nase mit den weit geblähten
+Nüstern kam deshalb auch in ihrer gemeinen Häßlichkeit
 gar nicht zur Geltung, ebensowenig der wulstige Mund
-und daß stets sichtbare künstliche Gebiß mit den gelb angelaufenen
+und das stets sichtbare künstliche Gebiß mit den gelb angelaufenen
 Hauern.
 
 Wer dieses Gesicht ein einziges Mal gesehen hatte, vergaß
 es nie wieder.
 
-Lächerlich wirkte daher auf die aufgedonnerte Kleidung
+Lächerlich wirkte daher auch die aufgedonnerte Kleidung
 dieser mittelgroßen, mageren Person. Sie war in braune Seide
-gezwängt, mit billigem Schraut behängt, — all das von
-einer erstaunlichen Geschmacklosigkeit, die desto seltsamen sich
-machte, weil im Gegensatz hierzu die »Baronin« sich schlich,
-vornehm und äußerst Geschmack voll trug. —
+gezwängt, mit billigem Schmuck behängt, — all das von
+einer erstaunlichen Geschmacklosigkeit, die desto seltsamer sich
+machte, weil im Gegensatz hierzu die »Baronin« sich schlicht,
+vornehm und *äußerst* geschmack*voll* trug. —
 
-Sie — der Kellner servierte die Suppe, in Tellern.
+Also — der Kellner servierte die Suppe, in Tellern.
 Sechs Teller balanzierte er auf einem großen Teebrett auf
 der Linken …
 
 Das sollte der Kammerfrau zum Verhängnis werden,
 als sie, ahnungslos, daß der Kellner lautlos neben sie
 getreten, die Linke hob, um ihr schwarzes Seidenhäubchen
-zurehtzurüken. Sie stieß gegen das Brett, es kippte …
+zurechtzurücken. Sie stieß gegen das Brett, es kippte …
 Sie blickte auf, und der Inhalt von sechs dampfenden Tellern
 ergoß sich wie ein heftiger Bach über dieses abscheuliche
 Gesicht.
 
 Sie schrie auf … fuhr empor …
 
-Ihre Augen waren geblendet — »alles triefte an ihr …
+Ihre Augen waren geblendet — alles triefte an ihr …
 
 Und da geschah das noch Erregendere. Harst eilte hin,
 rief laut:
 
 »Ich werde für die Frau sorgen … Die Augen sind
 <@pagebreak/>
-bedroht … Ich habe Halbe auf meinem Zimmer … Schneider,
-hilf: »mich.
+bedroht … Ich habe Salbe auf meinem Zimmer … Schneider,
+hilf mir …«
 
-As war sofort im Bilde»…
+Ich war sofort im Bilde …
 
 Das Weib sträubte sich …
 
 Harst umklammerte es, und unseren vereinten Kräften
-gelang es, ihren Widerstand zu besiegen. Hm Nu hatten wir
+gelang es, ihren Widerstand zu besiegen. Im Nu hatten wir
 sie fortgeführt — empor in unser Zimmer …
 
 Und — weshalb?!
 
 … Weil die heiße Suppe den Klebstoff, der die falschen
-Fragen hielt, genau so aufgelöst hatte wie die … Schminke,
+Brauen hielt, genau so aufgelöst hatte wie die … Schminke,
 die Pockennarben, verlaufen waren. —
 
-So … breiten wir Arva Matty in unsere Gewalt.
+So … brachten wir Arva Matty in unsere Gewalt.
 
 Es war der Inder.
 
 Und — er war unser. Er war wehrlos, er blinzelte
-in onmäöhtigem Grimm in ein kleines schwarzes Loch dicht
-vor seine eilen Visage — in das Mäündungsloch einer
+in ohnmächtigem Grimm in ein kleines schwarzes Loch dicht
+vor seine eklen Visage — in das Mündungsloch einer
 Repetierpistole,
 
 <@pagebreak/>
-8\. Sattel,
-DiesHillernde Schale
+
+<h2>4. Kapitel.</h2>
+<h3>Die schillernde Schale.</h3>
 
 »Verschließe die Tür,« besah!l Harst.
 
