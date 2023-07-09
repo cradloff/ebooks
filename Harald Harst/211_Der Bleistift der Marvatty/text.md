@@ -2081,7 +2081,7 @@ Es war der Inder.
 
 Und — er war unser. Er war wehrlos, er blinzelte
 in ohnmächtigem Grimm in ein kleines schwarzes Loch dicht
-vor seine eklen Visage — in das Mündungsloch einer
+vor seiner eklen Visage — in das Mündungsloch einer
 Repetierpistole,
 
 <@pagebreak/>
@@ -2089,38 +2089,38 @@ Repetierpistole,
 <h2>4. Kapitel.</h2>
 <h3>Die schillernde Schale.</h3>
 
-»Verschließe die Tür,« besah!l Harst.
+»Verschließe die Tür,« befahl Harst.
 
 Ich tat’s, und es war die höchste Zeit gewesen. Jemand
 pochte … der Hotelbesitzer … »Alles in Ordnung,« rief ich
-durch; die Tür hindurch. »Beunruhigen Sie sich nicht
+durch die Tür hindurch. »Beunruhigen Sie sich nicht
 weiter …«
 
-35h drehte mich dann wieder dem Sofa zu, in dessen
+Ich drehte mich dann wieder dem Sofa zu, in dessen
 Sie der Inder saß. Vor ihm Harald.
 
-Arva Matty Tische sich mit seinem Taschentuch das
-Gesicht ab, trocknete die Augen, und veorshönerte durch diese
-Säuberung sein Früheres durchaus nicht, Dann lehnte er
+Arva Matty wischte sich mit seinem Taschentuch das
+Gesicht ab, trocknete die Augen, und verschönerte durch diese
+Säuberung sein Äußeres durchaus nicht. Dann lehnte er
 sich zurück, kreuzte die Arme über der Brust und schaute
-sich gleichgültig im Zimmer um. Sein Gesicht! war von jener
-kalten Uns urchdringlichfeit des Anspruch, wie ich sie schon
-bei so vielen indischen Yogis (Fakiren) beobachte! hatte.
+sich gleichgültig im Zimmer um. Sein Gesicht war von jener
+kalten Undurchdringlichkeit des Ausdrucks, wie ich sie schon
+bei so vielen indischen Yogis (Fakiren) beobachtet hatte.
 Er spielte jetzt nicht mehr, und seine dunklen Augen blickten
 ohne jede Erregung … an uns vorüber. Die Wut, der
-Ohnmacht sage Gemisch war urplötzlich auszelö’cht. Arva Matty
-hatte sich auf sich selbst bekommen.
+ohnmächtige Grimm war urplötzlich ausgelöscht. Arva Matty
+hatte sich auf sich selbst besonnen.
 
-Kennst lehnte am Tische und beobachtete ihn. Wartete. Ich
-verhielt! mich ebenfalls ganze ruhig,
+Harst lehnte am Tische und beobachtete ihn. Wartete. Ich
+verhielt mich ebenfalls ganz ruhig,
 
-Dann blieben die Nutzen des Inders halblinks auf der
-Platte des ovalen Sofatisches Ofen. Dort stand ein Aschbecher
-aus dicken Glas, Kriftailimitativn. Das Licht der einfallenden
-Sonnenstrahlen ließ die Ebhlifjecken in allen Farben
+Dann blieben die Augen des Inders halblinks auf der
+Platte des ovalen Sofatisches haften. Dort stand ein Aschbecher
+aus dickem Glas, Kristallimitation. Das Licht der einfallenden
+Sonnenstrahlen ließ die Schliffecken in allen Farben
 funkeln. Die schillernden Punkte fixierte der Inder mit immer
 <@pagebreak/>
-tasteten Bis. Langsam, unmerklich veränderte sich dabei
+stiererem Blick. Langsam, unmerklich veränderte sich dabei
 sein Gesichtsausdruck. Ein Zug von tiefer Müdigkeit erschien
 um Augen und Mund. Die Lider sanken herab, die Mundwinkel
 zitterten eigentümlich.
@@ -2144,7 +2144,7 @@ freigab, fiel Arva Matty zur Seite und lag mit dem Oberkörper
 auf dem Polstersitz, während die Arme nun schlaff
 herabhingen.
 
-Harst murmelte eine Zahn uns
+Harst murmelte eine Verwünschung …
 
 »Der Kerl hat uns überlistet … Ich hätte früher eingreifen
 sollen …«
@@ -2154,9 +2154,9 @@ Gesicht verfinsterte sich …
 
 »Da, fühle du …! Ich kann den Puls nicht finden …«
 
-Wir gelang’s ebensowenig.
+Mir gelang’s ebensowenig.
 
-Wir öffneten ihm das Kleid, wir Gehorchten das Herz …
+Wir öffneten ihm das Kleid, wir behorchten das Herz …
 
 Nichts …
 
@@ -2166,7 +2166,7 @@ Licht reagierte, war auch dies erfolglos.
 
 Harald meinte achselzuckend: »Dann müssen wir eben
 die Polizei benachrichtigen. Hole den Wirt. Und gib dem
-!Portier einen Wink, daß die Baronin auf keinen Fall
+Portier einen Wink, daß die Baronin auf keinen Fall
 das Hotel verlassen darf.« —
 
 <@pagebreak/>
@@ -2176,7 +2176,7 @@ Mitteilen mußten, machten Gesichter, als ob wir uns einen
 Schlechten Scherz mit ihnen erlaubten. Aber schließlich wirkte
 doch der Name Harald Harst, und die Herren taten, was
 mein Freund ihnen dringend riet: Sich nicht dadurch täuschen
-Zu lassen, haßt der Inder anscheinend tot, sondern ihn in
+Zu lassen, daß der Inder anscheinend tot, sondern ihn in
 sicheren Gewahrsam zu bringen.
 
 Ein Arzt fand sich ein — alles mit möglichster Unauffälligkeit.
@@ -2189,23 +2189,23 @@ geschlossenen Wagen getragen und im Polizeigefängnis in
 einer festen Zelle auf das Bett gelegt und eingeschlossen.
 
 Als wir dann mit dem Polizeidirektor die Veranda
-Gestalten, saß von den Wittag8gästen nur noch die »Baronin«
+betraten, saß von den Mittagsgästen nur noch die »Baronin«
 an ihrem Tische, rauchte und trank Kaffee und blickte
 gelangweilt auf die Straße hinaus.
 
 Harst sprach sie an.
 
 »Fräulein Marvatty, wir hätten Sie einiges zu
-Fragen …«
+fragen …«
 
 Sie wandte langsam den Kopf. In ihrem Gesicht verriet
-nichts, daß der Name Marvatty auf sie irgend welchen Einbruchs
+nichts, daß der Name Marvatty auf sie irgend welchen Eindruck
 gemacht hätte.
 
-»Oh — der Herr aus der Vorhalle …’ sagte sie liebenswürdig.
-»Sie wünschen …?« — Sie nannten da soeben
+»Oh — der Herr aus der Vorhalle …« sagte sie liebenswürdig.
+»Sie wünschen …? — Sie nannten da soeben
 einen Namen, den ich nicht kenne. Ich bin die Baronesse
-he Charleys, mein Herr …«
+de Choiseul, mein Herr …«
 
 »Verzeihung, Sie glauben eine Baronesse und eine Französin
 zu sein … Sie sind Ellen Marvatty, die ehemalige
@@ -2215,91 +2215,89 @@ Sie … lächelte …
 
 »Mein Herr, ich werde doch wohl am besten wissen, wer
 <@pagebreak/>
-im bin … Und jetzt, wo Sie den Namen wiederholt hohler,
-korrigiere ich mich dahin, daß ich diesen Namen Mittelding?
+ich bin … Und jetzt, wo Sie den Namen wiederholt haben,
+korrigiere ich mich dahin, daß ich diesen Namen allerdings
 kenne. Ich habe ja das Grab dieser Ärmsten gemalt.«
 
-»Ich sah das Bild … Sie sollen dieses Grad wiederholt
+»Ich sah das Bild … Sie sollen dieses Grab wiederholt
 gemalt haben.«
 
 »Allerdings, mein Herr, aber stets in anderer Auffassung.
-Das tragische Sisal dieses Mädchens ging mir selisaxma
+Das tragische Schicksal dieses Mädchens ging mir seltsam
 nahe. Weshalb, weiß ich selbst nicht. Der Friedhofsverwalter
 erzählte mir von dieser Ellen Marvatty, und da ich von
 jeher eine eigentümliche Vorliebe für Kirchhöfe gehabt habe,
 was wohl auf die traurige Geschichte meines Geschlechts —
-während der großen Revolution wurden in Paris zehn Hohe
-Keule guillotiniert — zurückzuführen ist, zog es mich immer
+während der großen Revolution wurden in Paris zehn Choiseuls
+guillotiniert — zurückzuführen ist, zog es mich immer
 wieder hierher nach dem stillen Trelleborg, wo ich …«
 
 Sie hatte einen leichten, graziösen Plauderton angeschlagen,
-und sie würde wohl noch weiter in so harmloslieben8würdiger
+und sie würde wohl noch weiter in so harmlos-liebenswürdiger
 Art in ihrem eleganten Französisch uns
 Dinge mitgeteilt haben, von denen sie wie von Tatsachen nach
 bestem Glauben redete, wenn Harst nicht mit einer Handbewegung
 auf den Polizeidirektor und mich gedeutet hätte …
 
-»Balkon, Baronesse … gestatten Sie zuvörderst: Herr
-Anordnung, Herr Schraut … und mein Name ist Harald
+»Pardon, Baronesse … gestatten Sie zuvörderst: Herr
+Sverdrupp, Herr Schraut … und mein Name ist Harald
 Harst … Dürfen wir Platz nehmen?«
 
 »Aber gewiß, meine Herren …«
 
 Drüben in der Tür drängten sich die Neugierigen: der
 Wirt, der Kellner, die beiden Kommissare, der Pförtner. — Und
-der Polizeidirektor machte ein Gesicht, als ob ihm bei alledem.
+der Polizeidirektor machte ein Gesicht, als ob ihm bei alledem
 höchst ungemütlich war. Er wußte offenbar genau so wenig
 wie ich, auf welche Weise Harst diese Frau, der die unheimliche
 Macht des Inders eine bestimmte Rolle aufgezwungen, von
 diesem Irrtum befreien würde.
 
 »Baronesse,« sagte Harald eindringlicher, »haben Sie sich
-noch nie gefragt, aus weitem Grunde Sie ein Alter von
+noch nie gefragt, aus welchem Grunde Sie ein Alter von
 52 Jahren durch Perücke und Schminke vortäuschen und wie
 <@pagebreak/>
 Sie den rechten Unterarm eingebüßt haben? — Sie tragen
 eine Prothese, Baronesse, eine Holzhand mit einem Handschuh
 …«
 
-»Gewiß …« Sie Wüste auf ihre im Schoße ruhende
-Rechte, und ein Auftrag von Vergangenheit erschien in ihren
+»Gewiß …« Sie blickte auf ihre im Schoße ruhende
+Rechte, und ein Ausdruck von Versonnenheit erschien in ihren
 Mienen. »Gewiß … — ich soll schon als Kind den Unterarm
 verloren haben, erzählte mir meine Kammerfrau.« Und
-
 dann — — sehr lebhaft und beunruhigt: »Wo bleibt Louison
-nur? — Sie wollen ihr doch die Augen säubern, Zeit
-Wein: ein
+nur? — Sie wollten ihr doch die Augen säubern, mein
+Herr …«
 
-In dieser Unterhaltung, diesem Verhör lag etwas des
-drückend Unheimliches.
+In dieser Unterhaltung, diesem Verhör lag etwas bedrückend
+Unheimliches.
 
 Harst erwiderte laut: »Es gibt keine Louison Gasparette
-Je Blaue, Baronesse. Ihre Louison war ein Mann, war
-ein Inder, der seine besonderen Gaben an Ihnen mißbraucht«
-daß. — Hier — — ein Spiegel …! Betrachten Sie sich …
+Le Blanc, Baronesse. Ihre Louison war ein Mann, war
+ein Inder, der seine besonderen Gaben an Ihnen mißbraucht
+hat. — Hier — — ein Spiegel …! Betrachten Sie sich …
 Nehmen Sie die graue Perücke ab … Hier ein Tuch und
 Vaseline … Reiben Sie die Schminke ab … Tun Sie
-Ein Eis
+es! …«
 
 Die arme Ellen wurde immer hilfloser, verwirrter. »Mein
-Herr, Sie … Sie … — ja … ich sehe … echt ist eine
+Herr, Sie … Sie … — ja, … ich sehe … es ist eine
 Perücke … Und … blondes Haar habe ich?!«
 
 Ihre Augen stierten in den kleinen Spiegel …
 
-Plötzlich begann sie dann eifrigst das Tuch zu des
-Aßen»…
+Plötzlich begann sie dann eifrigst das Tuch zu benutzen
+…
 
 Die Verwandlung war verblüffend. Die Schminke wich,
 und die blasse, zarte Haut eines jungen Weibes kam zum
 Vorschein.
 
-»Mein Gott ».!’’ seufzte die Marvatty da … »Wein.
-
+»Mein Gott …!« seufzte die Marvatty da … »Mein
 Gott, — — ich … begreife nicht … Ich … ich … habe
-grimmig doch nie geschminkt, mein Herr, und …«
-»Sie haben es, nur — — Sie wissen es nicht. Der
+mich doch nie geschminkt, mein Herr, und …«
 
+»Sie haben es, nur — — Sie wissen es nicht. Der
 indische Schurke hat Ihr Gedächtnis für bestimmte Dinge ausgelöscht.
 Sie haben Ihren Unterarm durch einen Unfall als
 <@pagebreak/>
@@ -2311,23 +2309,23 @@ Doktor Holgersen …«
 Ein verzerrtes Lächeln … ein Seufzer …
 
 »Nein, mein Herr … nein! Und — — ich und Trapezkünstlerin
-… — — ich bitte Sie. Ich besitze Millionen,
-im bin die letzte Charleys, mit Ausnahme meines Halbbruders
-Arvas, der jedoch in Indien lebt … eigentlich auch
-gar nicht mein Halbbruder … Wein Vater hatte in Indien
+…, — — ich bitte Sie. Ich besitze Millionen,
+ich bin die letzte Choiseul, mit Ausnahme meines Halbbruders
+Arpas, der jedoch in Indien lebt … eigentlich auch
+gar nicht mein Halbbruder … Mein Vater hatte in Indien
 eine Geliebte, eine Inderin, und … und …«
 
 Sie stammelte, schwieg …
 
-Sie Wüste fortgesetzt in den Spiegel, und mit einem
+Sie blickte fortgesetzt in den Spiegel, und mit einem
 Male begann sie leise zu schluchzen … »Oh mein Gott,
-was … was bedeutet das:alles nur?! Ich … ich … bin
+was … was bedeutet das alles nur?! Ich … ich … bin
 so wirr im Kopf … Mein Gesicht — ich kenne mich selbst
 nicht mehr …«
 
 Und diese Tränen spülten gleichsam die Fesseln hinweg,
 die ihr Hirn umklammerten, absperrten von der Wirklichkeit
-4.00
+…
 
 <@pagebreak/>
 
@@ -2345,19 +2343,19 @@ Sie diesen Bleistift ganz genau, Baronesse. Sie kennen ihn,
 genau wie Sie Doktor Holgersen kennen. Lesen Sie den eingravierten
 Namen:
 
-Ellen Marvatty!
+<p class="centered">Ellen Marvatty!</p>
 
 Der Bleistift war Ihr Eigentum … Die Beschädigung der
-silbernen Hülse rührt von einer Kugel her, die ihm auf …
-einen laufenden Arm, einen mumifizierten
-Unterarm, der wie ein selbständiges Wesen sich bewegte
-und sogar schrieb — — mit diesem Bleistift!! —… also
+silbernen Hülse rührt von einer Kugel her, die ich auf …
+einen *laufenden Arm*, einen *mumifizierten
+Unterarm*, der wie ein selbständiges Wesen sich bewegte
+und sogar schrieb — — mit diesem Bleistift!! —, … also
 Kugel, die ich auf diesen Arm abfeuerte. Der Arm entfloh,
 der Bleistift blieb auf der Treppe liegen.«
 
 Die Frau, die sich Baronesse Jeanne Antoinette d’Igny
-he Charleys nannte, Wüste nun den Bäteistift wie ein in
-besondere Form gegerbtes Rätsel an. Ihre Tränen waren
+de Choiseul nannte, blickte nun den Bleistift wie ein in
+besondere Form gepreßtes Rätsel an. Ihre Tränen waren
 versiegt, aber der ratlose, hilflose, beklommene Ausdruck ihres
 Gesichts wechselte in jähem Übergang mit einem Mienenspiel,
 das klar darauf hindeutete, wie sehr sie all ihre
@@ -2365,60 +2363,60 @@ Gedanken anstrengte, diese Widersprüche und dunklen Fragen
 in befriedigender Art zu lösen.
 
 <@pagebreak/>
-Mienenspiel …!! Kampf gegen die Geistern Fesseln,
+Mienenspiel …!! Kampf gegen die geistigen Fesseln,
 die ihr der Mann angelegt, den sie für ihren Halbbruder
-hielt, — Oder: War sie doch die Baronesse Jean he Charleys?
-Und war nur der Name Marvatty ein e’fundcener,
+hielt. — Oder: War sie doch die Baronesse Jeanne de Choiseul?
+Und war nur der Name Marvatty ein erfundener,
 ihr nicht zustehender?!
 
 Kampf …
 
-Und Sieg …!?!
+Und Sieg …!!
 
 Sieg durch die kluge Taktik Haralds, der diesem bedauernswerten
 Weibe die Larve vom Gesicht genommen
 und ihr bewiesen hatte, daß sie jung und blond und keine
 grauhaarige Kirchofsmalerin!
 
-Sie schaute auf … Sie Wüste in Haralds graue Augen …
+Sie schaute auf … Sie blickte in Haralds graue Augen …
 Sie sprach klar und ohne den weinerlichen Tonfall von vorhin:
 
 »Der Bleistift gehört mir, Herr Harst …«
 
 Das merkwürdigste: sie benutzte jetzt nicht mehr die französische,
 sondern die deutsche Sprache, die sie allerdings
-mit dem deutlichen Akzent der Ausländer moralische, ohne
-jedoch grammatische Schulter zu machen.
+mit dem deutlichen Akzent der Ausländer modulierte, ohne
+jedoch grammatische Schnitzer zu machen.
 
 »Bestimmt mir, Herr Harst …« Ein frohes Leuchten
-trat in ihre Augen … Es ist so merkwürdig, Herr Harst …
+trat in ihre Augen … »Es ist so merkwürdig, Herr Harst …
 Jetzt kann ich mich plötzlich auf so vieles besinnen, was
 wohl lange Zeit in mir tief verborgen wie tot geschlummert
-hat. Diesen Bleistift hat Arvas mir geschenkt, mein Halbbruder,
+hat. Diesen Bleistift hat Arpas mir geschenkt, mein Halbbruder,
 als er mich vor zwei Jahren in Paris in unserem
 alten Palais besuchte. Und jetzt weiß ich auch, wie der
-Name Ellen Marvatty zustande gen kommen ist. — Ein
-reizendes Lächeln trat in ihre Züge, ein Dächern voll
-entzückenden Charmes. »Arvas ist ganz Inder geblieben,
+Name Ellen Marvatty zustande gekommen ist. — Ein
+reizendes Lächeln trat in ihre Züge, ein Lächeln voll
+entzückenden Charmes. »Arpas ist ganz Inder geblieben,
 ist sogar einer Sekte beigetreten, die noch fanatischer wie
-die eigentlichen Tonkin ist. Er wollte mich bekehren, und
+die eigentlichen Hindu ist. Er wollte mich bekehren, und
 halb im Scherz ging ich darauf ein. Er taufte mich daher …
-Ellen Marvatty, er selbst nennt sich Arena Matty, und er
+Ellen Marvatty, er selbst nennt sich Arva Matty, und er
 fand es sehr geistvoll, aus seinem indischen Namen Arva
 <@pagebreak/>
-Matty den meinen zusammengestellt zu haben: Marvatty!
-Glauben Sie Sucht nicht, daß der Vorname Ellen etwa
-deutsch ist. Sein, »Ellen« oder »Ihren«/ was im alten
-Bandschabdialekt hast-1be ist, bedeutet so viel wie »die Zwei
-Beseitige« …« — Ihr Lächeln schwand jäh … Ein verzweifelter
-kurzer Aufschrei … Sie packte Haralds Sand mit
+Matty den meinen zusammengestellt zu haben: *Marvatty*!
+Glauben Sie auch nicht, daß der Vorname Ellen etwa
+deutsch ist. Nein, »Ellen« oder »Illen«, was im alten
+Bandschabdialekt dasselbe ist, bedeutet so viel wie »die Zweigesichtige«
+…« — Ihr Lächeln schwand jäh … Ein verzweifelter
+kurzer Aufschrei … Sie packte Haralds Hand mit
 ihrer Linken … »Um Gott, — — jetzt … jetzt ist mir alles
-klar … Die »Schleier über diesen los ten beiden Jahren
-sinken vollkommen … Ich Blicke in einen Abgrund entsetzlicher
+klar … Die Schleier über diesen letzten beiden Jahren
+sinken vollkommen … Ich blicke in einen Abgrund entsetzlicher
 Verworfenheit, Herr Harst … Ich besinne mich:
-Arvas kam nach Paris … Und dann … wurde er von einer
+Arpas kam nach Paris … Und dann … wurde er von einer
 verbrecherischen Leidenschaft für mich ergriffen …« — Blutrot
-schoß ihr die Siam in die Wangen … »Er … begehrte
+schoß ihr die Scham in die Wangen … »Er … begehrte
 mich zum Weibe … Er verlangte, ich solle ihm nach
 Indien folgen, zum Brahmanismus übertreten … Ich …
 lachte ihn aus, tat, als ob ich alles als Scherz hinnähme.
@@ -2426,30 +2424,30 @@ Da schenkte er mir eines Abends den Bleistift mit der
 silbernen Hülse, sprach etwas von magischen Kräften …
 Und von … da an war ich Ellen Marvatty! — Alles,
 alles taucht aus den Tiefen der Vergessenheit wieder auf …
-alles … Ha, ich war Seiltänzerin … Er … er hat mich
-da2U »… gedrillt … Er schleppte mich mit seiner Truppe
+alles … Ja, ich war Seiltänzerin … Er … er hat mich
+dazu … gedrillt … Er schleppte mich mit seiner Truppe
 von Stadt zu Stadt … Bis … bis … hier in Trelleborg:
-5:47«
+…«
 
 Sie sprang auf … Ihre Augen flammten …
 
-»Entsetzen …!! Holgersen …!! Lebt er? Mein Gott —
-lebt er? Wissen Sie, was er mir bedeutete …!’
+»Holgersen …!! Holgersen …!! Lebt er? Mein Gott —
+lebt er? Wissen Sie, was er mir bedeutete …!«
 
 »Ich weiß es … Und er lebt … Beruhigen die sich
-da … Es wird »nun alles wieder gut werden …
-Sie sind also wirklich die Baronesse Horch
+doch … Es wird nun alles wieder gut werden …
+Sie sind also wirklich die Baronesse Choiseul?«
 
-»Ja … ja … bestimmt, Herr Harst …
+»Ja … ja … bestimmt, Herr Harst …«
 
-»Wissen Sie etwas von einer neuen Hand, einem
+»Wissen Sie etwas von einer wandernden Hand, einem
 Arm, der dem Doktor nachts … erschien?«
 
 <@pagebreak/>
 »Nein, nichts, nichts … bei Gott! — Ein Arm, sagen
 Sie? Was für ein Arm?«
 
-Harald erzählte. Die Baronesse hatte sich wieder gesiegt
+Harald erzählte. Die Baronesse hatte sich wieder gesetzt
 … Ihr Antlitz wurde bleich und bleicher … Ein
 Schauer ging ihr über den Leib …
 
@@ -2457,38 +2455,38 @@ Schauer ging ihr über den Leib …
 hat er gezwungen, das Gift zu nehmen, — mich hat er aus
 dem Grabe wieder hervorgeholt, hat sich … in meine längst
 verstorbene Kammerfrau verwandelt …! — Wenn Sie wüßten,
-was er alles kann, Herr Harst …!! Er ist ein Gauner,
-ein Magier, ein Wog! mit übernatürlichen Kräften! Und
+was er alles kann, Herr Harst …! Er ist ein Gauner,
+ein Magier, ein Yogi mit übernatürlichen Kräften! Und
 — — in meinem Herzen schwillt die Angst um Sven
 Holgersen zum verzehrenden Feuer … Lassen Sie uns zu
-ihm eilen … Wir ist so lang zumute … Vielleicht hat
-Arvas nachts in der letzten Sekunde, bevor er sich selbst
+ihm eilen … Mir ist so bang zumute … Vielleicht hat
+Arpas nachts in der letzten Sekunde, bevor er sich selbst
 auslöschte, Sven durch den laufenden Arm … erwürgen
 lassen …! Eilen wir … Einen Wagen her … schnell …
-Ah fürchte das Schlimmste …!« —
+Ich fürchte das Schlimmste …!« —
 
 Ein Auto, das des Wirtes, jagte zur Vorstadt …
 
-Sagte »2:
+Jagte …
 
 Wir läuteten an der Pforte … die Wirtschafterin
 öffnet …
 
-»Wo ist Sven?« schreit Jeannette Charleys halb von
+»Wo ist Sven?« schreit Jeannette Choiseul halb von
 Sinnen …
 
-Er  schläft 2:55«
+»Er schläft …«
 
 Wir laufen dem Hause zu …
 
 Wir stürmen in das Sprechzimmer …
 
 Goldiger Sonnenglanz liegt über dem Raum … dort
-ein Diwan … dort Sven Holgersen: das Gesicht blaurot sei
-Linken … Am Halse die tiefen Eindrücke brutaler Finger …
+ein Diwan … dort Sven Holgersen: das Gesicht blaurot gedunsen
+… Am Halse die tiefen Eindrücke brutaler Finger …
 
-Jeanne sinkt in die Knie … bricht in Schreikrämpfe —
-Gut 16.54.
+Jeanne sinkt in die Knie … bricht in Schreikrämpfe
+aus … —
 
 Aber: Holgersen lebte … Holgersen wurde ins Leben
 <@pagebreak/>
@@ -2501,14 +2499,14 @@ worden, wie Arva Matty entfloh. Die Schlösser, die
 Fenstergitter waren unbeschädigt. Nur — — seltsam: auf
 dem schlichten Zellenbett auf der hellen Wolldecke liegt eine
 dicke graue Schicht Staub, die genau der Gestalt eines
-ruhenden Menschen entspricht — — genau?! —
+ruhenden Menschen entspricht — — genau! —
 
-Telegramme stiegen nach allen Richtungen, alle Bahnhöfe,
+Telegramme fliegen nach allen Richtungen, alle Bahnhöfe,
 alle Häfen werden überwacht.
 
-Ohne Erfolg. — Wir bleiben noch seiner Tage in
+Ohne Erfolg. — Wir bleiben noch zwei Tage in
 Trelleborg. Dann geleitet uns ein glückliches Paar zum
-Fährschiff, zur prächtigen »Drottning Distanz«.
+Fährschiff, zur prächtigen »Drottning Viktoria«.
 
 Wir winken … sie winken …
 
@@ -2519,48 +2517,47 @@ an der Reling stehen, da geschieht das Unglaubliche,
 Unfaßbare: eine dunkle Wolke taucht auf, dehnt sich,
 nimmt die verschwommenen Umrisse eines Armes, einer
 Hand an … die einen Riesenbleistift führt … Bewegung
-kommt in das Wolkengebilde … Die: See kräuselt sich …
+kommt in das Wolkengebilde … Die See kräuselt sich …
 Und die gekräuselten, wie von einer Brise beunruhigten
 Wellen verschmelzen, vereinen sich zu etwas, das auf die
 blanke Meeresfläche geschrieben zu sein scheint, — — und
 mit einiger Phantasie lese ich:
 
-Rache!
+<p class="centered">Rache!</p>
 
-Hm Moment ist alles wieder vorüber … Hm Moment …
+Im Moment ist alles wieder vorüber … Im Moment …
 
-Einer der Sciffsofifiziere tritt zu uns … »Haben die
+Einer der Schiffsoffiziere tritt zu uns … »Haben die
 Herren das merkwürdige Wolkenbild gesehen? Das war so …
-so, wie ich’s voll nie beobachtete, wie … ein A:in … wie
-ein … schreibenden Arm … Aber das mach! wohl die
+so, wie ich’s noch nie beobachtete, wie … ein Arm … wie
+ein … schreibender Arm … Aber das macht wohl die
 Hitze … Es wird eine Luftspiegelung gewesen sein …« —
 
 Wir sitzen im D-Zug nach Berlin. Harst raucht …
-
 <@pagebreak/>
 Vorhin hat er zu mir nur geäußert: »Den »Fall« noch irgendwie
 erörtern? Hätte das Zweck?!«
 
-Nein, es hat keinen Zwei …! — —
+Nein, es hat keinen Zweck …! — —
 
 Wir sind daheim. Frau Harst empfängt uns mit der
 Nachricht, daß ein Paket für Harald eingetroffen. — Es
-Ut eine Pappschachtel — wie eine Korsettschachtel. In ihr …
+ist eine Pappschachtel — wie eine Korsettschachtel. In ihr …
 liegt der Arm der Marvatty und ein Zettel:
 
-Die Finsternis wich, und das Gute siegte. Brahma,
+> Die Finsternis wich, und das Gute siegte. Brahma,
 den Millionen anbeten, gebot mir heimzukehren. — Friede
-sei ein) und denen, die ich verderben wollte.
+sei euch und denen, die ich verderben wollte.
 
-— Alle Jeanne Charleys längst Frau Doktor Holgersen’
+— Als Jeanne Choiseul längst Frau Doktor Holgersen
 war, lasen wir in einer Londoner Zeitung von einem Fakir,
 der im Kristallpalast seine Künste gezeigt hatte, — darunter
 auch einen »Zauberarm«, der … laufen und schreiben konnte.
 — Der Trick des Fakirs beruhte darin, daß in einer Armattrappe
 mit beweglichen Gummifingern ein abgerichtetes
-Zwergäfschen steckte …
+Zwergäffchen steckte …
 
-Harst los mir den Artikel vor. Sagte dann: »Wenn
+Harst las mir den Artikel vor. Sagte dann: »Wenn
 wir für den schreibenden Arm der Marvatty eine Erklärung
 suchen: hier ist sie! Und so ließe sich vielleicht auch all
 das andere … erklären, vielleicht …! Zum Beispiel die
@@ -2574,5 +2571,5 @@ Wir haben von Arva Matty nichts mehr gehört …
 Friede …!! — Und so muß ich diesen Bericht schließen,
 ohne den Lesern die Wißbegier völlig gestillt zu haben.
 
-Der »Stern auf Papier« ist weniger vierdimensional,
+Der »*Stern auf Papier*« ist weniger vierdimensional,
 Auf Wiedersehen also in der Sternenwelt …
