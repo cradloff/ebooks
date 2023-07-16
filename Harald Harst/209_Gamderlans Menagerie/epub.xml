@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">62a2f288-ae9c-4a82-aec3-03ba9d1482e3</entry>
+<entry key="title">Gamderlans Menagerie</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">209</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Gamderlans Menagerie.
+
+Der Berliner Vorortzug lief in die Station Birkenwalde ein. Es war neun Uhr abends und dazu ein Hundewetter, leichtes Schneetreiben, eisiger Wind … Nur ein paar Fahrgäste stiegen aus, zumeist mit Aktentaschen oder Paketen, — Birkenwalder, denn ein Fremder würde sich um diese Zeit und bei solchem Wetter kaum nach dem stillen, behaglichen Nest verirren.
+
+Als letzte passierten zwei ältere Männer in bescheidenen Wintermänteln, die abgegriffenen Mützen tief in die bärtigen Gesichter gezogen, mit ihren prallen Rucksäcken die Sperre.
+
+Der Beamte, der die Fahrkarten abnahm und doch jeden Birkenwalder kannte, blickte den beiden etwas erstaunt nach. Sie waren ihm fremd, und der Schnapsgeruch, der hinter ihnen herwehte, entlockte ihm die geringschätzige Bemerkung: »Stromer!!«
+
+Die andere Hälfte.
+
+Februarnacht — draußen im Freien auf leicht beschneiter Chaussee zwischen hohen Zäunen knarrender Kiefern …
+
+Wind trieb die Schneekrümel aus einer vereinzelten Wolke zur Erde … Sonst der Himmel sternenklar …
+
+Rechts von der Chaussee ein weißer Staketenzaun, eine Tannengruppe, eine helle Villa …
+
+Daneben das Gelände der Gärtnerei — ein großes Haus zwischen Beeten, Anpflanzungen, Gewächshäusern … Ein einsames Licht dort im Erdgeschoß, und ich stelle mir vor, wie dort jetzt vielleicht Klein-Uschis Mutter in tränenlosem Schmerz den unbegreiflichen jähen Verlust betrauert: Kuhnert, der dem Guddai-Orden zum Opfer gefallen, der sterben mußte, weil er zu viel gesehen oder gehört hatte. —
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (209) Gamderlans Menagerie.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
