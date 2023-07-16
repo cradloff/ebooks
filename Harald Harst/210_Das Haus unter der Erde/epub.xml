@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">a9cb693a-ddba-4133-be53-9076e853eddc</entry>
+<entry key="title">Das Haus unter der Erde</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">210</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Haus unter der Erde.
+
+Dieser Band bildet den Schlußakt des großen Dramas, dem man verschiedene Gesamttitel geben könnte, vielleicht: »Doktor Shing Guddai, der Befreier Asiens«, oder »Der Mann, den niemand fing«.
+
+Mit den »Drei Löwen« begann das Drama. Mit dem Haus unter der Erde endet es. Der Mann, den niemand fing, und das war der malaiische Arzt Doktor Shing Guddai, der uns und der Polizei in den Wäldern östlich von Birkenwalde entwischt war, starb wie er gelebt hatte: großzügig! — wenn dieser Ausdruck hier zutrifft. Einen besseren finde ich nicht.
+
+Die Hundehütte.
+
+Sie kamen … Harst rief sie zuerst an …
+
+»Halt — bleiben Sie stehen!!«
+
+Sie standen … Eine kreischende brüchige Frauenstimme schrillte …
+
+»Was wollen Sie hier?! Weshalb umschlichen Sie meinen Besitz?!«
+
+Das sollte Guddai sein?! Unmöglich! Guddai beherrschte das Deutsche nur sehr mäßig.
+
+Und doch war’s ja dieselbe Frau von vorhin mit dem Einwärtsgang, den langen Armen und der etwas schiefen Kopfhaltung.
+
+Und dieselbe Stimme weiter in krankhafter Erregung: »Was wollen Sie hier? Stehlen etwa? Lassen Sie doch eine kranke alte Frau, die die ganze Welt verflucht, in Ruhe. Hier haben Sie zehn Mark …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (210) Das Haus unter der Erde.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1927</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
