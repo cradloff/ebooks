@@ -1524,64 +1524,64 @@ So begann die Geschichte des Bisampelzes.
 Unser Zimmer hatte drei Türen: eine nach dem Flur,
 eine (verstellt durch einen Kleiderschrank) nach Darbler hin,
 die dritte (durch eine Steppdecke vernagelt und noch verhängt)
-zu Preis8copp hinüber.
+zu Priscopp hinüber.
 
 Nachdem die Zofe uns das Frühstück gebracht hatte und
 wir sicher waren, vorläufig nicht gestört zu werden, begann
 Harald mit der üblichen Vorsicht diese zwei Türen genau
-zu untersuchen. Dabei stellte sich heraus, daß Herr Oh. Darbler
+zu untersuchen. Dabei stellte sich heraus, daß Herr Ch. Darbler
 ganz offenbar bisher unser jetziges Zimmer als Durchgang
 für seine Spionentätigkeit gegen Priscopp benutzt hatte:
-der Schrank war häufig weggerückt worden, wie die S—hrammen
+der Schrank war häufig weggerückt worden, wie die Schrammen
 auf den Dielen bewiesen, und die Nägel der Steppdecke
-ließen ein unschwer herausziehen, was auch kein bloßer
+ließen sich unschwer herausziehen, was auch kein bloßer
 Zufall sein konnte.
 
-Es stimmte also: Darbler war hier bei Frau Werke
+Es stimmte also: Darbler war hier bei Frau Menke
 nur Priscopps wegen abgestiegen, und dies zeigte sich
 auch mit den Eintragungen im Fremdenbuch: Darbler war
 einen Tag nach Priscopp hier erschienen, und dieser wieder
-wohnte bereits drei Wochen bei der Werke. —
+wohnte bereits drei Wochen bei der Menke. —
 
-Harst nahm nach diesem ersten Briefes mir gegenüber
+Harst nahm nach diesem ersten Erfolg mir gegenüber
 am Frühstückstische Platz. »Wir sitzen hier zwischen Löwe
 und Tiger, mein Alter … Zwischen zwei Feinden, die beide
 uns fressen möchten und einer den anderen auch. Eine solche
-Stellung ist nie angenehm, sah/l5 die Gegenparteien etwas davon
-ahnen, daß man der dritte Mann im Star sein möchte. Besichtigen
+Stellung ist nie angenehm, falls die Gegenparteien etwas davon
+ahnen, daß man der dritte Mann im Skat sein möchte. Befleißigen
 <@pagebreak/>
 wir uns deshalb auch einer recht gedämpften Sprechweise,
-denn hier haben zwei Wände Ohren … Und sollen
+denn hier haben zwei Wände Ohren … Und sollten
 wir besonders Wichtiges zu erörtern haben, wollen wir dies
 stets ganz umschrieben tun. — Dieser rohe Schinken ist
 übrigens exzellent und so dünn geschnitten wie ein Seidenvorhang,
 der sich leicht bauscht …«
 
 Ich schielte nach dem Vorhang hin, der die Steppdecke
-Skandal verhüllte.
+schamvoll verhüllte.
 
 Wahrhaftig — er bewegte sich …
 
-»Weißt, Trauert, auch die russischen Eier van tadellos …
-Findet ne! auch?« — setzte Harald dem Horcher zu Liebe
-das Gespräch fort. »An’ Appetit hab’ ich, unglaublich! Und
-müd’ bin ich gar ne! … Bewachen fuhr« ich auch gleich zu
-mein’ Geschäftsfreind, und du kommst mit, Trauert …«
+»Weißt, Frauerl, auch die russischen Eier san tadellos …
+Findst net auch?« — setzte Harald dem Horcher zu Liebe
+das Gespräch fort. »An’ Appetit hab’ i, unglaublich! Und
+müd’ bin ich gar net … Hernachher fahr’ i auch gleich zu
+mein’ Geschäftsfreind, und du kommst mit, Frauerl …«
 
-Das Trauert nickte nur.
+Das Frauerl nickte nur.
 
-Nicht müde sein!! Nach der Nach!! Ich war zum
+Nicht müde sein!! Nach *der* Nacht! Ich war zum
 Umsinken müde.
 
 Aber der Vorhang regte sich nicht mehr. Mr. John Priscopp
-schien ein von unserer Harmlosigkeit genugsam überzeugt
+schien sich von unserer Harmlosigkeit genugsam überzeugt
 zu haben.
 
 Harst füllte mir die Kaffeetasse aufs neue. Ich trank.
 Der Kaffee war stark, und ich wurde wieder munterer.
 
-Unsere Unterhaltung drehte sich fernerhin um Wollmütze,
-Hosenträger, Krawatten, Preise und Ergraute erging.
+Unsere Unterhaltung drehte sich fernerhin um Wollwäsche,
+Hosenträger, Krawatten, Preise und Einkäufe en gros.
 
 Der Vorhang blieb still.
 
@@ -1589,15 +1589,14 @@ So wurde es halb acht. Draußen begann der neue
 Tag heraufzuziehen. Durch die Stabjalousien der Fenster
 grinsten fahle Streifen.
 
-Harald rauchte eine Gehandelt von Regie-Zigarre, Marke
-Mottentod. Er, der Zigarettenliebhaber, qualmte mit Todes
-Verachtung. Ich als Frau Therese Sedlmayer erlaubte mir
+Harald rauchte eine Pechnudel von Regie-Zigarre, Marke
+Mottentod. Er, der Zigarettenliebhaber, qualmte mit Todesverachtung.
+Ich als Frau Therese Sedlmayer erlaubte mir
 eine Zigarette. Und dann … nickte mein Herr Gemahl
 im Sessel ein, und ich desgleichen in der Sofaecke. Harst
 sägte an einem knorrigen Ast, und ich spielte Blasebalg.
-
 <@pagebreak/>
-Aber durch die nur halb geschlossenen Lider blinzelte. ich
+Aber durch die nur halb geschlossenen Lider blinzelte ich
 trotzdem immer wieder nach dem Vorhang hin.
 
 So vergingen viele Stunden …
@@ -1605,41 +1604,41 @@ So vergingen viele Stunden …
 Der Vorhang ward lebendig.
 
 Unerwartetes geschah, er hob sich, und John Priscopp
-im blonden falschen Bart huschte auf Socken zu uns zerrt
-555
+im blonden falschen Bart huschte auf Socken zu uns herein
+…
 
-Frechheit?!
+Frechheit!!
 
 Noch mehr als das!
 
 Und — was mußte Priscopp wohl veranlassen, dies
 zu wagen?!
 
-Er schlich »08 Waschtisch links neben der Flurtür …
+Er schlich zum Waschtisch links neben der Flurtür …
 
 Er bückt sich …
 
-Er zieht unter Haar Waschtisch etwas hervor …
+Er zieht unter dem Waschtisch etwas hervor …
 
 Ich starre hin …
 
 Bei Gott: das ist ein Lasso, ein echter Lederlasso …
 
 Er schiebt ihn unter die Hausjacke, will zur Tür zurück,
-hat den Vorhang so wieder gelüftet …
+hat den Vorhang schon wieder gelüftet …
 
 Prallt zurück …
 
-Der schlafende, Fhnarthenbe Wiener Sedlmayer ist hochgeschnellt,
+Der schlafende, schnarchende Wiener Sedlmayer ist hochgeschnellt,
 hat ihn beim Genick gepackt …
 
-»Still!« droht er. »Also am’ Hoteldieb hab’n wir Derwisch!!
-Da schaust! — Freinderl, wenn’s ich nett die Schererei’n
-mit die Polizei Schleier tat, wir? ich Euch einfallen
-lassen, Freinderl! Schon weil’s mein armes Trauert so arg
+»Still!« droht er. »Also an’ Hoteldieb hab’n wir derwischt!
+Da schaust! — Freinderl, wenn’s i nett die Schererei’n
+mit die Polizei scheien tät, wird’ i Euch einspirrn
+lassen, Freinderl! Schon weil’s mein armes Frauerl so arg
 erschröckt hab’n, Sie Malefizlump, Sie!«
 
-Priscopp hielt mit der rechten Hand mochte immer den
+Priscopp hielt mit der rechten Hand noch immer den
 Lasso unter der Jacke verborgen. Sein Gesicht zeigte im
 grellen Licht der elektrischen Lampen zahllose Falten und
 Fältchen. Jung war dieser Mann nicht mehr, und ich schätzte
@@ -1648,39 +1647,39 @@ sehr gut der Vater Olivia Drakes, der Verschwundenen, sein
 — der tote Drake.
 
 <@pagebreak/>
-»Tage haben’s denn da unter der Faden?« inquirierte
+»Was haben’s denn da unter der Jacken?« inquirierte
 Harald-Sedlmayer streng.
 
 »Einen Lederriemen, der mir gehört,« erklärte Priscopp
 hundeschnäuzig. »Ich hatte zuerst dieses Zimmer inne. Dann
 bezog ich dort das Erkerzimmer und vergaß den Lasso —
-Her 565
+hier …«
 
 »Geben’s mal her, das Ding …« verlangte Harald.
 
 »Bitte, gern …« Priscopp sprach ein ziemlich fehlerfreies
 Deutsch.
 
-»Hm — wozu kam’s in dem dicken Riemen so viel
+»Hm — wozu san’s in dem dicken Riemen so viel
 Knoten, Sie … Schwindler, Sie?« wollte Herr Sedlmayer
 wissen.
 
 »Damit verschnüre ich meinen Koffer,« log John Priscopp
-froh.
+frech.
 
-»Da legst Ei lang hin …!! Halten’s uns etwa für so
-bisher Fleck im Schädel, Sie?! Da suchen’s sich an
+»Da legst di lang hin …!! Halten’s uns etwa für so
+a bissel bleed im Schädel, Sie?! Da suchen’s sich an’
 Dümmeren aus, Sie!! Das hier ist a Lasso … Und die
 zwanzig Knoten kommen mir nicht ganz geheuer vor … —
 Warten’s, Freinderl, machen wir mal so an’ Knoten auf …«
 
-»Hall!« rief Priscopp da leise. »Ich gebe Ihnen tausend
+»Halt!« rief Priscopp da leise. »Ich gebe Ihnen tausend
 Dollar, wenn Sie mich und den Lasso in Ruhe …«
 
-Nix davon …! — Aha — — auf i8 der Knoten!/-
-Siam, schau’, — also da hier die Sperlinge!! Drei Diaz
-Diamanten!! A seines Fenster, Sie Lumpazi, Sie!! Wann’s
-en jedem Knoten drei Edelsteine sag’, dann macht’s Stücken
+»Nix davon …! — Aha — — auf is der Knoten!
+Schau’, schau’, — also da sitzen die Sperlinge!! Drei
+Diamanten!! A feines Versteck, Sie Lumpazi, Sie!! Wann’s
+en jedem Knoten drei Edelsteine san’, dann macht’s Stücker
 sechzig, und das ist a Vermögen an Diamanten! — Du, wo
 hast die gestohlen, du …?! Raus mit der Sprache!«
 
@@ -1691,135 +1690,135 @@ Dollar, wenn Sie die Geschichte verschweigen. Und bitte —
 reden Sie leiser … Dort drüben wohnt einer, der tatsächlich
 ein Lump ist, und der würde …«
 
-»Nix da …!! Gestohlen hast die Steine, du! — Trauert,
-gen, hob mal den Herrn von nebenan her …«
+»Nix da …!! Gestohlen hast die Steine, du! — Frauerl,
+geh’, hol’ mal den Herrn von nebenan her …«
 
 <@pagebreak/>
-Das Trauert gehorchte etwas zögernd, denn Haralds
+Das Frauerl gehorchte etwas zögernd, denn Haralds
 Taktik war mir reichlich undurchsichtig. Sollte es wirklich
-zweckmäßig sein, Oh. Darbte« hie’ mit hineinzureichen?!
+zweckmäßig sein, Ch. Darbler hier mit hineinzuziehen?!
 
 Ich kam nur bis zur Tür. Da sagte Priscopp hastig:
 
-»Bleiben Sie hier, meine Dame. Den Der: von drüben
+»Bleiben Sie hier, meine Dame. Den Kerl von drüben
 können wir unmöglich einweihen. — Ich will Ihnen eine
 Geschichte erzählen, deren Wahrheit ich belegen kann. Aber
 nicht hier. Kommen Sie mit in mein Zimmer, damit uns
-üer Nachbar nicht belauscht. Jetzt schläft er. Das weiß ich.
+der Nachbar nicht belauscht. Jetzt schläft er. Das weiß ich.
 Er pflegt stets vor dem Zubettgehen eine halbe Flasche Kognak
 zu trinken. Seine Nerven sind nicht ganz intakt, und
-Alkohol ist noch immer besser als ein chemisches Pe-eäparat.
-Heute kehrte Mr. Chester Darbler erst um halb sehe, also
+Alkohol ist noch immer besser als ein chemisches Präparat.
+Heute kehrte Mr. Chester Darbler erst um halb sechs, also
 vor zwei Stunden, heim — mit einem großen Pappkarton,
-in dem sich ein P?!smarter befand, ein Damenpelz …
+in dem sich ein Pelzmantel befand, ein Damenpelz …«
 
 »Bisam,« ergänzte der Wiener Sedlmayer so nebenbei.
 
-Priscopp zuckte darob ordentlich zusammen. — »Bisam!t
-— Wie konnten Sie das »Sie In seinen Augen und
-»in seiner Stimme war Mißtrauen …
+Priscopp zuckte darob ordentlich zusammen. — »Bisam!
+— Wie konnten Sie das wissen?!« In seinen Augen und
+in seiner Stimme war Mißtrauen …
 
-»Schaun’s, ich bin Kaufmann, Wollwaren … Auch) Pelze
-fuhr« im 4.45 Bisam ist Mode …
+»Schaun’s, i bin Kaufmann, Wollwaren … Auch Pelze
+führ’ ich … Bisam ist Mode …«
 
-»Ich so … — Nun, bitte, ne wir zu mir … Sicher
+»Ach so … — Nun, bitte, gehen wir zu mir … Sicher
 ist sicher …«
 
-Harald hielt voll immer den Lasso in der Hand. »Gut,
+Harald hielt noch immer den Lasso in der Hand. »Gut,
 geh’n wir … Aber machen’s keine Dummheiten, Sie …!
-Dieses Schlüsseltascherl da auf mein Schrecken enthält
-Wirbel …:Ich schieß …!«
+Dieses Schlüsseltascherl da auf mein Kehrseiten enthält
+Pixtol … Ich schieß’ …!«
 
 Priscopp lächelte nachsichtig. »Sie werden nicht zu
-schießen brauchen, mein Wort«
+schießen brauchen, mein Wort!«
 
-So betraten wir denn das Erkerzimmer, Es war hell
-erleuchtet. Das Bett stand hinter einem sehr hohen fünf
-beteiligen Wandschirm. Priscopp nötigte uns in die etwas verleiten
+So betraten wir denn das Erkerzimmer. Es war hell
+erleuchtet. Das Bett stand hinter einem sehr hohen fünfteiligen
+Wandschirm. Priscopp nötigte uns in die etwas verfleckten
 Brokatsessel.
 
 Und begann dann: »Herr Sedlmayer, ich bin Deutschamerikaner.
 <@pagebreak/>
 Ich wanderte vor dreißig Jahren nach Neuyork
-aus und nannte mich dort, weil ich in der Heimat Summe
-arbeiten gemacht hatte, nicht mehr Dräger, sondern Drake
-Bitte, hier sind meine Papiere …
+aus und nannte mich dort, weil ich in der Heimat Dummheiten
+gemacht hatte, nicht mehr Dräger, sondern Drake …
+Bitte, hier sind meine Papiere …«
 
 »Danke … Ich glaube Ihnen. — Weiter.« Heimlich warf
 Harald mir einen langen vielsagenden Blick zu.
 
-Mit Recht. Der Mann war also wirklich) unser toter
+Mit Recht. Der Mann war also wirklich unser toter
 Drake!
 
 Drake breitete die Papiere trotzdem auf dem Tische aus. —
 »Als Edward Drake heiratete ich eine Amerikanerin, vergaß
-die dunkle Vergangenheit, brachte es zu Reichtum und —
-nahm eine der Töchter meines in Frankfurt an der Oder —
-wohnenden, wenig bemittelten Schwagers als unser eigen —
+die dunkle Vergangenheit, brachte es zu Reichtum und
+nahm eine der Töchter meines in Frankfurt an der Oder
+wohnenden, wenig bemittelten Schwagers als unser eigen 
 Kind in aller Stille an. Grete, so hieß das Mädchen, wuchs
-uns immer mehr ans Herz, und weil wir sie nur immer —
-die Hälfte des Jahres bei uns haben konnten, während sie —
+uns immer mehr ans Herz, und weil wir sie nur immer 
+die Hälfte des Jahres bei uns haben konnten, während sie 
 die übrige Zeit drüben bei Eltern und der Schwester verlebte,
 bestimmten wir sie dazu, nachdem ihre richtigen Eltern gestorben
-waren, völlig zu uns zu ziehen, besonders da sie in —
+waren, völlig zu uns zu ziehen, besonders da sie in 
 Neuyork allgemein als unser leibliches Kind galt. — Zu
-derselben Zeit verlor ich auf« meine langjährige treue Los
-den8gefährtin. Meine Sehnsucht naß Margritt war um so
+derselben Zeit verlor ich auch meine langjährige treue
+Lebensgefährtin. Meine Sehnsucht nach Margritt war um so
 größer. Und hier nun … beginnt mein zweites Unrecht:
 ich bestimmte Margritt, hier in Deutschland ihren Tod vorzutäuschen!
-Angeblich war Margritt Konto:k bei einem
+Angeblich war Margritt Rendall bei einem
 Eisenbahnunglück mit umgekommen. In Wahrheit blieb sie
-Dorthin als Olivia Drake ganz bei mir in Neuyork. — Sie
+forthin als Olivia Drake ganz bei mir in Neuyork. — Sie
 werden nun fragen, Herr Sedlmayer: Weshalb diese Heimlichkeiten?
 — Antwort: Weil ich eben eine Vergangenheit
 habe, weil ich als Achtzehnjähriger unter Mordverdacht stand,
-wo es sich doch nur um Notwehr gehandelt hatte… Und
-deshalb eben sollte niemand auf Drake irgendwie zu elf
-langsam werden, niemand hier aus der deutschen small. »Doch
-— das Unheil nahte trotzdem. Wie der Schuh, herausgebracht
+wo es sich doch nur um Notwehr gehandelt hatte. Und
+deshalb eben sollte niemand auf Drake irgendwie aufmerksam
+werden, niemand hier aus der deutschen Heimat. Doch
+— das Unheil nahte trotzdem. Wie der Schurke herausgebracht
 <@pagebreak/>
-hat, daß ich ehedem steckbrieflich verfolgt wurde, weiß.
-nicht »u
+hat, daß ich ehedem steckbrieflich verfolgt wurde, weiß
+ich nicht …«
 
 »Welcher Schurke?« warf Harald ein.
 
 »Einer meiner Angestellten … Mac Gerrick hieß er …
-»Jedenfalls begann er mit schamlosen Erpressungen. Inzwischen
-Hatte Olivia oder Margritt, wie Sie sie nennen wollen, siebeimliß
-mit meinem Prokuristen Gollerby verlobt. Um nun.
+Jedenfalls begann er mit schamlosen Erpressungen. Inzwischen
+Hatte Olivia oder Margritt, wie Sie sie nennen wollen, sich
+mit meinem Prokuristen Gollerby verlobt. Um nun
 dem Erpresser Gerrick zu entgehen, vereinbarten wir drei
 folgendes: Gollerby sollte scheinbar riesiger Unterschlagungen
 wegen flüchten, und ich sollte — für Geld ist drüben alles
 möglich — vor Kummer sterben. — Alles geschah wie geplant.
 Gollerby flüchtete, ebenso verschwand auch ich, wurde nur
 zum Schein als tot begraben, und auch Olivia verließ dann
-Bmerika. Wir drei wollten uns hier in Berlin nach zwei.
+Amerika. Wir drei wollten uns hier in Berlin nach zwei
 Monaten treffen, aber — Gollerby erschien nicht! Nur Olivia Margritt
-und ich sahen uns im Hotel Adlon wieder … Gott-.
-Gollerby war fraglos ermordet und des ganzen Geldes beraubt.
+und ich sahen uns im Hotel Adlon wieder. Gollerby
+war fraglos ermordet und des ganzen Geldes beraubt
 worden. Zum Glück besaß ich eine Diamantensammlung, die
 ich, in den Knoten des Lassos verborgen, mit hierher gebracht
-hatte. Da ich nun merkte, daß ich selbst hier in Berlin dauernd beobachtet
-wurde, trug im zumeist Verkleidung und wohnte
-hier unter dem Namen John Priscopp. — Bitte, Herr Schlingen,
-prüfen Sie diese Zeitungsausschnitte und sonstigen.
-Papiere. Meine Geschichte mag ungeheuer phantastisch klingen.
+hatte. Da ich nun merkte, daß ich selbst hier in Berlin dauernd
+beobachtet wurde, trug ich zumeist Verkleidung und wohnte
+hier unter dem Namen John Priscopp. — Bitte, Herr Sedlmayer,
+prüfen Sie diese Zeitungsausschnitte und sonstigen
+Papiere. Meine Geschichte mag ungeheuer phantastisch klingen,
 aber sie ist wahr.«
 
 »Das weiß ich,« nickte Harald freundlich. »Geben Sie
 mir die Hand, Herr Drake: Vertrauen gegen Vertrauen …
-Ah bin … Harald Harst!«
+Ich bin … Harald Harst!«
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Herr Darbler wird kompliziert.</h3>
+<h3>Herr Darbler wird demaskiert.</h3>
 
 Edward Dräger-Drake machte ein Gesicht, als ob er
 einen bösen Geist vor sich sähe. Er erbleichte in Geradezu
 erschreckender Weise, und seine stieren, vorgequollenen Augen
 verrieten mehr als Worte, Dann senkte er den Blick und
-meinte tonlos:’ »Wenn ich das auch nur geahnt hätte …!«
+meinte tonlos: »Wenn ich *das* auch nur geahnt hätte …!«
 
 »Dann wären Sie wahrscheinlich so töricht gewesen,
 meinem Freunde Schraut und mir gegenüber all diese
@@ -1829,14 +1828,13 @@ hatte, zu verschweigen, was also lediglich eine Verzögerung
 bedeutet haben würde. — Landsmann Dräger, seien Sie froh,
 daß die Dinge diese Wendung genommen haben. Wenn ich
 auch Gerhard Ginz’ Vetter bin, so werde ich doch nichts
-tun, etwa eine bisher glückliche Ehe zu zerstören. Hm Gegenteil:
+tun, etwa eine bisher glückliche Ehe zu zerstören. Im Gegenteil:
 ich erachte es für meine Pflicht, hier ausgleichend zu
-mitten. Das kann ich nur, wenn Sie mir. auch die Fragen
-
-»worden, die ich noch an Sie richten muß.«
+wirken. Das kann ich nur, wenn Sie mir auch die Fragen
+beantworten, die ich noch an Sie richten muß.«
 
 Drake seufzte schwer. »Ich … darf nicht antworten,
-Herr Harst, darf mit!! So sehr ich auch davon überzeugt
+Herr Harst, darf nicht! So sehr ich auch davon überzeugt
 bin, daß Sie entsprechend Ihrer allgemein bekannten Herzensgüte
 niemandem schaden wollen: die Sachlage ist hier so,
 daß Sie in die schlimmsten Gewissenskonflikte gerieten,
@@ -1850,7 +1848,7 @@ Nacht in meinem eigenen Hause ein Mann ermordet wurde,
 der Ihrer Adoptivtochter Olivia recht nahe stand: Fritz von
 Ramski!«
 
-Drake fuhr ’vor Entsetzen halb aus seinem Sessel hoch
+Drake fuhr vor Entsetzen halb aus seinem Sessel hoch
 und sank dann wieder, ein gebrochener Mann, in die Polster
 zurück.
 
@@ -1867,29 +1865,29 @@ der Polizei gemeldet, und wenn diese …«
 
 Harald winkte kurz. »Keine überflüssigen Worte … Die
 Zeit drängt … — Sie haben Margritt Rendall adoptiert.
-Hier nennt Biß aber Frau Ginz Margritt. Mithin haben
+Hier nennt sich aber Frau Ginz Margritt. Mithin haben
 die Schwestern aus besonderen Gründen die Vornamen gewechselt.«
 
-Zu. auf
+"Ja ..."
 
 »Diese Gründe liegen in Ellens Vergangenheit. Ellen
 Rendall ist jetzt Frau Ginz. Sie hat bereits vor Ginz
 jemand geliebt.«
 
 »Nein, Herr Harst. Aber sie hat das namenlose Unglück
-gehabt, einem Stunden vor drei Jahren in die Hände zu
+gehabt, einem Schurken vor drei Jahren in die Hände zu
 geraten, der sich an ihr, nachdem er sie betrunken gemacht,
 verging. Diese unselige Stunde hatte Folgen. Ellen wurde
-Mutter. Das Kind starb Zwar gleich naß der Geburt,
+Mutter. Das Kind starb Zwar gleich nach der Geburt,
 aber in Ellens Papieren stand zu viel über dies Verhängnis,
 als daß sie Ginz, den sie vom ersten Augenblick wahrhaft
-liebte, sich »Ellen« nennen durfte. So begann der»… Betrug.
-Ginz heiratete anscheinend Margritt Rendall. Immerhin
+liebte, sich »Ellen« nennen durfte. So begann der … Betrug.
+Ginz heiratete anscheinend *Margritt* Rendall. Immerhin
 <@pagebreak/>
 wurde Ellen derart von Gewissensbissen nachher gefoltert,
 daß sie zusammen mit allen ihren Papieren auch Aufzeichnungen
-über die Tragödie ihres jungen Daseins in der.
-segelten Umschlag, der nur nach ihrem Tode geöffnet werden
+über die Tragödie ihres jungen Daseins in ver-
+segeltem Umschlag, der nur nach ihrem Tode geöffnet werden
 sollte, in dem Stahlschrank ihres Gatten in dem ihr zur
 Verfügung gestellten Fache deponierte. Sie verlor dann die
 beiden Patentschlüssel zu diesem Fache, und als dann die
@@ -1897,12 +1895,12 @@ Erpresserbriefe begannen, in denen wahrscheinlich Darbler
 Unsummen verlangte, da …«
 
 »Einen Augenblick, Landsmann … Der Erpresser war
-also hinter Ellen Tinte« Geheimnis gekommen, und Olivia
+also hinter Ellen Ginz' Geheimnis gekommen, und Olivia
 nahm bei Ginz nur deshalb die Stellung an, um den versiegelten
 Umschlag irgendwie aus dem Fach, zu dem die
 Schlüssel fehlten, entfernen zu können …«
 
-ZS&5 Armee«
+"So ist's ..."
 
 »Haben Sie einen dieser Erpresserbriefe gesehen?«
 
@@ -1910,50 +1908,50 @@ ZS&5 Armee«
 
 »War es graublaues Papier mit einem Sternenmuster?«
 
-Art.
+"Ja ..."
 
 »Dann steckt Darbler allerdings dahinter. — Auch ich
-besitze einen sollen Briefumschlag, Landsmann. Dieser Umschlag
+besitze einen solchen Briefumschlag, Landsmann. Dieser Umschlag
 verriet mir, daß Darbler nicht allein »arbeitet«, sondern
-daß Altan Mac Gerrick, Ihr Feind, sein Helfershelfer
+daß Allan Mac Gerrick, *Ihr* Feind, sein Helfershelfer
 ist. Diese beiden Schurken unschädlich zu machen, ist meine
-Hauptaufgabe. Wertvoll war mir Ihre Beobachtung, daß.
+Hauptaufgabe. Wertvoll war mir Ihre Beobachtung, daß
 Darbler heute mit einem Bisampelz frühmorgens hierher
-zurückkehrte. — Wissen Sie noch? mehr über Darbler, den
+zurückkehrte. — Wissen Sie noch mehr über Darbler, den
 Sie ja beständig beobachtet haben, genau wie er dies tat.
 Beschreiben Sie ihn mir genau. Ich habe da einen bestimmen
 Verdacht, den ich jedoch vorläufig für mich behalten möchte.«
 
 Drake flüsterte beklommen: »Also auch Mac Gerrick
-hier!! Das habe ich nicht geahnt. Ich glaubte der sei noch
+hier!! Das habe ich nicht geahnt. Ich glaubte der sei nach
 der Ermordung und Beraubung meines Prokuristen Gollerby
 völlig von der Bildfläche verschwunden. — Und Chester
 <@pagebreak/>
 Darbler? Gesehen habe ich ihn täglich, gesprochen nie. Aber
 seine frechen höhnischen Blicke aus halb zugekniffenen Augen
 waren Kampfansage genug. Wenn er nicht so überaus vorsichtig
-gewesen wäre, würde im wohl mehr ermittelt haben.
+gewesen wäre, würde ich wohl mehr ermittelt haben.
 Ich weiß nur, daß er jeden Tag zwei Briefe erhält, die
 er sofort verbrennt. Sein Äußeres ist geradezu abstoßend.
 Stellen Sie sich einen mittelgroßen Menschen vor, der stark
 hinkt, der ein von Pockennarben zerstörtes Gesicht, einen
-dünnen grauen Vollbart, die graue Augenbrauen, eine ebenso
+dünnen grauen Vollbart, dicke graue Augenbrauen, eine ebenso
 dicke Säufernase hat und eine graue Hornbrille trägt, steigern
 Sie alles Häßliche, was ein Menschengesicht besitzen kann,
 ins Unendliche: das ist Darbler!«
 
-»Oh er ahnt, daß Sie den Schrank vor seiner Tür
+»Ob er ahnt, daß Sie den Schrank vor seiner Tür
 wiederholt weggerückt haben?«
 
 »Nein, das wohl kaum … Sonst würde er die Tür
 besser versperrt haben. Ich kann jederzeit zu ihm hinein.«
 
 »Dann, Herr Drake, dann …« — und Harald erhob
-ich … »dann werden wir jetzt bei ihm eindringen. Kommen
+sich … »dann werden wir jetzt bei ihm eindringen. Kommen
 Sie nur … Sie werden eine ungeahnte Überraschung erleben.
 — Wann pflegt er aufzustehen?«
 
-»Nachts solchen Nächten, die er außerhalb des Hauses zubrachte,
+»Nach solchen Nächten, die er außerhalb des Hauses zubrachte,
 immer erst nachmittags.«
 
 »Und — halb betrunken ist er, wie Sie sagten … Sehr
@@ -1966,11 +1964,11 @@ schaden, davon können Sie überzeugt sein. — Hat denn Olivia
 den Tod Gollerbys oder doch sein spurloses Verschwinden mitsamt
 den Millionen sehr tragisch genommen?«
 
-Der ehemalige Millionär, dem nun von seinem Reicha
-Irrtum nur noch die Edelsteine geblieben, erklärte achselzuckend:
+Der ehemalige Millionär, dem nun von seinem Reichtum
+nur noch die Edelsteine geblieben, erklärte achselzuckend:
 »Olivia ist schwer zu begreifen, Herr Harst. Ihre Neigung zu
 Gollerby kann nie sehr tief gewesen sein. Sie wird weit
-schwerer unter Ramskis furchtbaren Ende leiden, glaube ich,
+schwerer unter Ramskis furchtbarem Ende leiden, glaube ich,
 <@pagebreak/>
 denn Ramski muß ein sehr anständiger, vornehmer Charakter
 gewesen sein.«
@@ -1993,11 +1991,11 @@ Horneinfassung. Mit seinem zerzausten grauen Haarwald und
 der blauroten Hakennase glich er einer ruppigen alten Eule.
 
 Der Lichtkegel beunruhigte ihn. Er begann sich zu
-regen, blinzelte mit den Augen und setzte sich dann mit«
+regen, blinzelte mit den Augen und setzte sich dann mit
 einem Ruck aufrecht.«
 
-In demselben Moment rate Harald zu und riß ihm die
-Perüc&e, den Bart, die Augenbrauen und die Brille mit ein
+In demselben Moment packte Harald zu und riß ihm die
+Perücke, den Bart, die Augenbrauen und die Brille mit ein
 paar schnellen Griffen herab.
 
 »Gollerby!!« rief Drake entgeistert. »Gollerby, — —
@@ -2006,30 +2004,30 @@ Sie sind’s?«
 »Allerdings ist es Herr Edward Gollerby, allerdings,«
 sagte Harst sehr gelassen. »Gollerby, der von Anfang an mit
 Mac Gerrick gemeinsame Sache gemacht hatte! — Sitzen Sie
-ganz … still, Gollerby … die Geschichte ist aus. Endgültig.«
+ganz still, Gollerby … die Geschichte ist aus. Endgültig.«
 
 Edward Gollerby zitterte …
 
 »Wer … sind Sie? Polizei?«
 
-»Nein. Aber was Peinliches. Der Name Harst ist Ihnen
+»Nein. Aber was Ähnliches. Der Name Harst ist Ihnen
 kaum unbekannt.«
 
-Dr Der »Haus Ihr ächzte Er« + »der
-Harst, ich … im … will alles herausrücken … Nur — —
+"Harst!!" Der Jammerlappen ächzte kläglich ... "Herr
+Harst, ich … ich … will alles herausrücken … Nur — —
 <@pagebreak/>
 lassen Sie mich laufen!«
 
 »Bedaure, Davon kann keine Rede sein … — weshalb
-haben Sie gemeinsam mit Gerrick den armen Kamel
-ermordet 2?«
+haben Sie gemeinsam mit Gerrick den armen Ramski
+ermordet?«
 
 Gollerby mußte ein mehr als elender Wicht sein. Er
 fiel vor Schreck in die Kissen zurück … schnellte wieder
-hob und greinte: »Ich … ich habe niemand ermordet …
-niemand!««
+hoch und greinte: »Ich … ich habe niemand ermordet …
+niemand!«
 
-»Las wird sich finden … — Weshalb wollten Sie Ellen
+»Das wird sich finden … — Weshalb wollten Sie Ellen
 Rendall, die echte Ellen, also Frau Ginz, entführen?«
 
 Der klägliche Kerl faltete die Hände …
@@ -2045,10 +2043,11 @@ Gollerby stöhnte, zitterte noch mehr, schwieg jedoch …
 »Wo ist der Bisampelz, den Mac Gerrick trug, als er
 Ramski ermordete?« fragte Harst unerbittlich weiter …
 
-fahle Gesicht Gollerbys ward zur Fraße …
+Das fahle Gesicht Gollerbys ward zur Fratze …
 
-… schwieg
-er »Pelz war offenbar doch der stärkste Hieb gewesen.
+Er … schwieg
+
+Der Pelz war offenbar doch der stärkste Hieb gewesen.
 
 <@pagebreak/>
 
@@ -2060,7 +2059,7 @@ Sie habe ich mal für einen anständigen Menschen gehalten!!
 Schämen muß ich mich meiner Dummheit wegen! — Wo
 haben Sie mein Geld gelassen?«
 
-Gollerby hatte die Schweißperlen auf der Stirn. Seine
+Gollerby hatte dicke Schweißperlen auf der Stirn. Seine
 ruhelosen kleinen Rattenaugen irrten zur Zimmerecke, wo
 seine Koffer standen.
 
@@ -2070,22 +2069,22 @@ erdacht …«
 
 Harst wurde etwas ungeduldig. »Lassen Sie mich mit
 dem Burschen allein verhandeln, Herr Drake. So kommen
-wir nicht weiter. — Weshalb mußte Nachts?! sterben?« wandte
+wir nicht weiter. — Weshalb mußte Ramski sterben?« wandte
 er sich an den Elenden. »Aber — hüten Sie sich vor
 einer Lüge!! Ich warne Sie! Die erste falsche Antwort,
-und Sie lernen eine hiesige Polizeizelle kennen?«
+und Sie lernen eine hiesige Polizeizelle kennen!«
 
 Gollerby stierte geradeaus. »Ich … ich … liebe Margritt,«
-stammelte er. »Und … und ich hoffte immer, daß…
+stammelte er. »Und … und ich hoffte immer, daß …"
 
 »Also Ramski war Ihnen bei Margritt Rendall im
-Wege. Und deshalb ein -Lord, Sie Scheusal!!«
+Wege. Und deshalb ein Mord, Sie Scheusal!!«
 
 »Oh — nicht nur deshalb,« stotterte der Kerl weinerlich.
 »Ramski … wußte zu viel, und Mac Gerrick meinte, drei
-Zoll Messerklinge würden uns Wange Scherereien ersparen …«
+Zoll Messerklinge würden uns manche Scherereien ersparen …«
 
-Harald rief noch; empörter: »Und Sie Jammerlappen
+Harald rief noch empörter: »Und Sie Jammerlappen
 waren natürlich einverstanden! — Wie steht’s mit Frau Ellen
 <@pagebreak/>
 Ginz? Wie haben Sie herausspioniert, daß die Schwestern
@@ -2106,22 +2105,22 @@ Brief der Frau Ellen Ginz an Olivia-Margritt abgefangen,
 und dieser Brief diente Ihnen dann als Zwangsmittel …
 Ist es so?«
 
-Mr 00
+"... Ja ..."
 
 »Und weshalb wollten Sie beide nun Ellen Ginz
 entführen? Raus mit der Wahrheit …!! Gedachten Sie
 etwa von Ginz ein Lösegeld unter gleichzeitiger Angabe des
 Namenstausches der Schwestern zu erpressen?«
 
-An Er Mr 07
+"... Ja ..."
 
-in bewahrt Mac Gerrick die gestohlenen Millionen
+"Wo bewahrt Mac Gerrick die gestohlenen Millionen
 auf?«
 
-»Ich … iGm weiß es nicht …«
+»Ich … ich weiß es nicht …«
 
 »Lügner … Feigling! Glauben Sie, mich täuschen zu
-können?! Sie Narr Piraten vorhin dort nach Ihren Koffern
+können?! Sie Narr blickten vorhin dort nach Ihren Koffern
 hinüber … Schraut, durchsuche die Koffer!«
 
 Eine jähe Blutwelle schoß da Gollerby in das gefärbte,
@@ -2138,12 +2137,12 @@ gehabt hat und sich als Margritt verheiratete und …
 über Herrn Drake, der als Mörder gesucht wird … Nur
 wenn Sie mich …«
 
-Harald unterbraHß ihn. Seine Empörung hatte sich in
+Harald unterbrach ihn. Seine Empörung hatte sich in
 grenzenlose Verachtung verwandelt …
 
 »Ah, jetzt drohen Sie noch!! Gibt es überhaupt eine
 Bezeichnung für eine so abscheuliche Charakterausgeburt wie
-Sie …!! — — weshalb quartierten Sie sich hier ein? Nur
+Sie …!! — — Weshalb quartierten Sie sich hier ein? Nur
 um Drake im Auge behalten zu können? Nur deshalb?!
 Oder war Ihre grenzenlose Habgier auch noch auf Drakes
 Edelsteinsammlung gerichtet? Genügte es Ihnen nicht, Millionen
@@ -2163,22 +2162,22 @@ Kommt, mag Gollerby an den Edelsteinen recht viel Freude
 haben … Kommt nur!« Das galt Drake und mir … —
 Harst hatte es mit einem Male sehr eilig …
 
-Drake zögerte, aber Harald schob ihn rasch- in das leere
+Drake zögerte, aber Harald schob ihn rasch in das leere
 Zimmer, schloß die Tür und fühlte den Schrank wieder
-Vor 6:05
+vor ...
 
 Kaum geschehen, hörten wir bereits vom Flur lautes
 Pochen … eine bekannte Stimme …
 
 Der Kriminalrat …
 
-»Öffnen Sie …!! Polizeit1«
+»Öffnen Sie …!! Polizei!!«
 
 Harst zog uns weiter …
 
 Hinein zu Drake …
 
-Miß hier ein Fenster auf …
+Riß hier ein Fenster auf …
 
 <@pagebreak/>
 Wir beugten uns hinaus …
@@ -2207,8 +2206,8 @@ wollen … — —
 Harst sagte kalt:
 
 »Ich erwartete dies! — Nun schnell fort von hier …
-Kommen ’Sie mit, Drake, mit zu Mac Zerriß … Man
-wird uns nicht aufhalten … Die Herren hatten ’s nur
+Kommen Sie mit, Drake, mit zu Mac Gerrick … Man
+wird uns nicht aufhalten … Die Herren hatten es nur
 auf Gollerby—Darbler abgesehen …«
 
 Fünf Minuten drauf sausten wir drei im Auto nach
@@ -2217,9 +2216,9 @@ der Winterfeldtstraße 179 … —
 Drei Treppen empor bis zum Flureingang eines möblierten
 Zimmers, an dem eine Karte hing:
 
-»A. Mac Zerriß«.
+<p class="centered">»A. Mac Gerrick«.</p>
 
-Drei Treppen keuchend — Yogi als hinge das
+Drei Treppen keuchend — überhastet als hinge das
 Leben von jeder Sekunde ab …
 
 Vor der Tür steht Harst still.
@@ -2227,13 +2226,13 @@ Vor der Tür steht Harst still.
 Meint leise:
 
 »Gollerby hätte sich niemals des Lassos in dieser Weise
-bedient, wenn er nicht gewußt haben würde, daß er da)
-dem Henker verfallen. Hinter dieser Tür, wette ich, Wiener ein
-Toter … Gollerby hat Mac Gerrick, seinen Helle-Streifen
+bedient, wenn er nicht gewußt haben würde, daß er doch
+dem Henker verfallen. Hinter dieser Tür, wette ich, liegt ein
+Toter … Gollerby hat Mac Gerrick, seinen Helfershelfer
 ermordet, hat den Bisampelz dann mitgenommen …«
 
 <@pagebreak/>
-Und er schob den Patentdietrich in das Ei As
+Und er schob den Patentdietrich in das Schlüsselloch ...
 Wir traten ein …
 
 Halbdunkel …
@@ -2241,14 +2240,14 @@ Halbdunkel …
 Auf dem schäbigen Teppich lag Mac Gerrick auf dem
 Rücken …
 
-Von hinten erstochen, dazu mit einer grauenvollen Hieb
-wunde- über dem Schädel.
+Von hinten erstochen, dazu mit einer grauenvollen Hieb-
+wunde über dem Schädel.
 
-»Au« Mac Gerrick scheidet als Mitwisser nun völlig
+»Auch Mac Gerrick scheidet als Mitwisser nun völlig
 aus,« meinte Harald gleichmütig. »Zwei Schurken sind tot,
 damit ein Eheglück erhalten bleibt … — Herr Drake, ich
-gebe Ihnen den guten Rat, jetzt in ’Ihr Pensionat zurückzukehren,
-ein Schlafpulver zu nehmen und Ihre, Nerven
+gebe Ihnen den guten Rat, jetzt in Ihr Pensionat zurückzukehren,
+ein Schlafpulver zu nehmen und Ihre Nerven
 wieder in Ordnung zu bringen. Sie sind sehr blaß. Und —
 schlafen Sie ohne Sorge. Es wird alles gut werden. — Gehen
 wir … — Mag die Polizei allein diesen Mord aufklären.
@@ -2260,12 +2259,13 @@ Draußen in der Winterfeldtstraße brannten noch die
 Laternen, obwohl es längst hätte Tag sein müssen. Berlin
 hatte seinen ersten Novembernebel … beinahe Londoner
 Nebel.
+
 Vor dem Hause trennten wir uns von Drake.
 
 Harst rief ein Auto an …
 
-»Chauffeur, Grunewald, Auguste-Viktoria«—Straße Ecke
-Franzensbader … Aber Tempo!«
+»Chauffeur, Grunewald, Auguste-Viktoria-Straße Ecke
+Franzensbader … Aber Tempo!!«
 
 Wir stiegen ein …
 
@@ -2275,7 +2275,7 @@ Und ich:
 
 »Was sollen wir dort, Harald?«
 
-»Warte ab!! Diesmal hatte ich die besseren Ohren«
+»Warte ab!! Diesmal hatte ich die besseren Ohren!«
 
 <@pagebreak/>
 
@@ -2283,18 +2283,18 @@ Und ich:
 <h3>Ein Schuß im Nebel.</h3>
 
 — Ich habe mir Mühe gegeben, den immerhin seltsamen
-
 Fall des »Sterns auf Papier« hier ohne jede Übertreibung,
 ohne jedes Herausarbeiten der spannenden Momente
 zu schildern. Daß ich kleine Unwahrheiten eingestreut habe,
 verlangte der Stoff, denn — Harald besitzt keinen Vetter
 Ginz. Nur einen sehr, sehr guten Freund, der seines
-Zeichens etwas Peinliches wie Anwalt ist. — Ich durfte
+Zeichens etwas Ähnliches wie Anwalt ist. — Ich durfte
 hier ja weder die richtigen Namen noch die richtigen Straßen
 nennen.
+
 Trotzdem wird dies meiner anspruchslosen Wiedergabe
 eines vielseitigen Kriminalproblems keinen Abbruch tun.
-Das Thema ist, wie mir Margritt persönlich naß Durchsicht
+Das Thema ist, wie mir Margritt persönlich nach Durchsicht
 der vorstehenden Seiten versichert hat, an sich schon aufregend
 genug.
 
@@ -2303,36 +2303,36 @@ Und jetzt … kommen wir zum Schluß …
 Zum letzten Akt eines wechselvollen Dramas … —
 
 Mit Frauen, die lieben, darf man nie allzu streng ins
-Gericht gehen. Der so oft mißverstandene und voll häufiger
-falle; zitierte Philosoph Nische sagt irgendwo: »Frauen in
+Gericht gehen. Der so oft mißverstandene und noch häufiger
+falsch zitierte Philosoph Nitsche sagt irgendwo: »Frauen in
 der Liebe sind unartige Kinder oder Bestien.« — Unartigen
 Kindern verzeiht man. Bestien sperrt man ein. Ellen Ginz
-(bisher Margritt Ginz) paßt in Fisches Sentenz überhaupt
+(bisher Margritt Ginz) paßt in Nitsches Sentenz überhaupt
 nicht hinein. Wie diese Frau, deren Verlangen, dem geliebten
 Mann Lebensgefährtin zu werden, selbst vor einer
 <@pagebreak/>
 (strafrechtlich gemessen) intellektuellen Urkundenfälschung nicht
-zurückschreckte, in — Wirklichkeit ausgewertet werden mußte,
-sollte;im nunmehr miterleben.
+zurückschreckte, in Wirklichkeit ausgewertet werden mußte,
+sollte ich nunmehr miterleben.
 
 Wir stiegen Ecke Auguste-Viktoria-Straße und Franzensbader
-»Straße aus. Auch hier lagerte der graue Nebel dick
+Straße aus. Auch hier lagerte der graue Nebel dick
 und schwer über den einsamen weiten Gärten und den
 unbebauten Waldflächen. Still war’s hier, so still, als ob
-man viele, viele Meilen von der Welt. Stadt entfernt wäre.
+man viele, viele Meilen von der Weltstadt entfernt wäre.
 Und da rollten keine fünf Minuten weiter die Stadtbahnzüge
 und Untergrundbahn und die Straßenbahnen … —
 Hier Stille, Nebel, triefende Bäume, Einsamkeit … Fast
-beleidigend für das Ohr wirkte das Beilen eines unsichtbaren
+beleidigend für das Ohr wirkte das Bellen eines unsichtbaren
 Hundes.
 
 Unser Auto glitt ohne uns eine Strecke zurück. Dort sollte
 es warten.
 
-Harald schaute sich um. »Zier muß irgendwo der Flensberger
+Harald schaute sich um. »Hier muß irgendwo der Flensberger
 Platz sein, eine große Gartenanlage, — ich
 glaube, wir müssen uns nach rechts wenden … Dorthin
-hat der nunmehr tote Mac Zerrt in einem der an Ellen
+hat der nunmehr tote Mac Gerrick in einem der an Ellen
 Ginz gerichteten Erpresserbriefe sein wehrloses Opfer bestellt,
 — was Ellen in der vergangenen Nacht auf der Treppe des
 Ginz’schen Hauses erwähnte, — auch, daß sie dieser Aufforderung
@@ -2340,12 +2340,12 @@ folgen wolle, um … der Sache endlich ein Ende
 zu machen — so oder so … Um neun Uhr, heute … Es
 ist gleich neun … Wir haben noch Zeit … — Ein wahres
 Glück, daß wir als Ehepaar Sedlmayer so völlig unkenntlich
-sind. Ellen wird daher kaum Zeit finden, irgendeine Bummelei
+sind. Ellen wird daher kaum Zeit finden, irgendeine Dummheit
 zu begehen, etwa mein Achatfläschchen zu benutzen,
 das sie so raffiniert stahl. — Armer Ramski! Du halfst
 dabei, und du mußtest … sterben, und die, die du liebtest,
 wird dich vergessen und ein anderes Glücks finden … Ein
-guter Kerl war er, und ich hätte ihn wieder hochgebracht
+guter Kerl war er, und ich hätte ihn wieder hochgebracht.
 Es sollte nicht sein …«
 
 <@pagebreak/>
@@ -2366,7 +2366,7 @@ fleißig mein Lorgnon …
 Ah — dort mitten in den Anlagen — dort schritt jemand
 auf und ab … Eine Dame im Pelz … Bisampelz … —
 Ja, diese Schurken Gerrick und Darbler hatten selbst die große
-Ausgabe nicht gescheut, einen eilten Bisampelz zu kaufen,
+Ausgabe nicht gescheut, einen echten Bisampelz zu kaufen,
 damit der Verdacht der Täterschaft durch die in den Rändern
 des in dem Fensterladen geschnittenen Loches haften gebliebenen
 Haare auf Frau Ginz gelenkt wurde — weshalb gerade auf
@@ -2390,7 +2390,7 @@ Ich rief …
 Weg …«
 
 Nein, es hatte keinen Zweck … Sie war bereits zu
-Welt 555!
+weit ...
 
 Ich trabte …
 
@@ -2398,36 +2398,45 @@ Ich trabte …
 Ich mußte sie einholen …
 
 Ich galoppierte …
+
 Sie bog nach rechts in die Auguste-Viktoria-Straße
-Zu ich
+ein ...
+
 Hinter mir flüchtige Schritte …
+
 Harst rennt an mir vorüber …
-So geht’s im Nebel hinter ihr herum …
+
+So geht’s im Nebel hinter ihr drein …
+
 Wir kommen näher …
+
 Näher …
+
 Da hebt Ellen Ginz das in der rechten Hand schlenkernde
 Täschchen …
 
 Harst ruft — — brüllt:
-»Margritt — — Margritt, im bin’s!«
+
+»Margritt — — Margritt, ich bin’s!«
+
 Es hilft …
 
 Sie stutzt …
 
-Wende: sich halb um …
+Wendet sich halb um …
 
 Zwölf Meter …
 
-Vor ihrer Brust hängt in der erhobenen Retten das
+Vor ihrer Brust hängt in der erhobenen Rechten das
 Täschchen …
 
 Harst … schießt … im Laufen …
 
-Hm Nebel …
+Im Nebel …
 
 Wagt viel …
 
-Hat im Moment die Pistole herauspressen …
+Hat im Moment die Pistole herausgerissen …
 
 Und trifft …
 
@@ -2443,7 +2452,7 @@ Lehnt an einem der nebelfeuchten Bäume …
 Schreit mit hysterischen Aufschluchzen:
 
 <@pagebreak/>
-»Mordet Miß — — mordet mit Ich wäre ohnedies
+»Mordet mich — — mordet mich! Ich wäre ohnedies
 freiwillig aus dem Leben geschieden, denn diese Qual ertrage
 ich nicht länger!«
 
@@ -2451,56 +2460,56 @@ Da stehen wir vor ihr …
 
 Ich stottere vor Aufregung …
 
-Ich weiß nicht mehr, was Harald damals 3 »ihr gesprochen
+Ich weiß nicht mehr, was Harald damals zu ihr gesprochen
 …
 
 Jedenfalls beruhigte er sie …
 
-Nichts würde an den Tag kommen …« Die beiden
+Nichts würde an den Tag kommen … Die beiden
 Schurken tot — und wir zu anständig, um Ellen nicht sogar
 gegen die Polizei zu verteidigen.
 
 Halb bewußtlos sinkt sie Harst in die Arme, der sie
-rast zum Auto führt.
+rasch zum Auto führt.
 
 Sie weint … Sie hält Harsts Hände … Sie stammelt
-Wortes des Dankes …
+Worte des Dankes …
 
-In Friedenau jede wir sie ab — sie, eine Befreite, eine
+In Friedenau setzen wir sie ab — sie, eine Befreite, eine
 namenlos Glückliche.
 
 Und als wir dann um elf vormittags in unserer
 Blücherstraße wieder anlangen, sitzt da in Haralds Arbeitszimmer
 mit einer dicken Zigarre der Mann mit dem geistvollen
-Cäsarenkopf: Kriminalrat Grund.
+Cäsarenkopf: Kriminalrat Gernack.
 
-»Morgen, meine lieben Freunde,« begrüßt er aus etwas
-ironisch. »Wie war’s denn am Flensberger Platz … 9?!«
+»Morgen, meine lieben Freunde,« begrüßt er uns etwas
+ironisch. »Wie war’s denn am Flensberger Platz …?!«
 
 Wir merkten: Er wußte alles! Er ist nicht ohne Grund
 der große Gernack.
 
 Und fügt hinzu:
 
-»Kleine Sorge, daß ich mich komische … Der Kerl in
-der Lassoschlinge und der andere, /der Erstochene, sind’s nicht:
-wert, daß ein Eheglück in Scherben geht …
+»Keine Sorge, daß ich mich einmische … Der Kerl in
+der Lassoschlinge und der andere, der Erstochene, sind’s nicht
+wert, daß ein Eheglück in Scherben geht …"
 
-Er Brut uns die Hand.
+Er drückt uns die Hand.
 
 Was wir dann besprachen, gehört nicht hierher.
 
 <@pagebreak/>
-Als Sennor sich verabschiedete, schien der Fall »Stern
+Als Gernack sich verabschiedete, schien der Fall »Stern
 auf dem Papier« erledigt.
 
-Eine Irrung-…
+Eine Irrung …
 
 Genau um halb eins kam Edward Drake zu uns …
 
-Ein ;… geschlagener Mann …
+Ein … geschlagener Mann …
 
-Seit Lasso, seine Millionen … — aber auch das gehört
-nicht mehr hierher, sondern zum »Grünen Leuchtstab«,
+Sein Lasso, seine Millionen … — aber auch das gehört
+nicht mehr hierher, sondern zum »*Grünen Leuchtstab*«,
 — und von dem erzähle ich das nächste Mal.
 
