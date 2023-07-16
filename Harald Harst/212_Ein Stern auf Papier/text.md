@@ -987,7 +987,7 @@ vor sich liegen, hob bei meinem Eintritt kaum den Kopf
 und meinte nur: »Irgend etwas über diesen Drake habe ich
 mal in unsere Mappen eingeklebt. So weit ich mich
 besinne, stammte die Notiz aus dem Neuyork Herald, aber
-unter »D» finde ich nichts. Hilf mir suchen. Die Sache liegt
+unter »D« finde ich nichts. Hilf mir suchen. Die Sache liegt
 zwei Jahre zurück. Sehr bemerkenswert kann der Fall nicht
 gewesen sein, sonst hätte er sich meinem Gedächtnis besser
 eingeprägt. Ein krimineller Einschlag aber war bestimmt
@@ -1265,7 +1265,7 @@ des Notars Ginz, nachts im Büro verdächtige Dinge
 treibt. Wir ließen daher das Büro beobachten. Wir kennen 
 deshalb auch die Szene, als Harst heute auf das Pflaster
 der Dorotheenstraße flog … Wir sind eben … »vom
-Alex» …« (Alex — Alexanderplatz, wo das Präsidium
+Alex« …« (Alex — Alexanderplatz, wo das Präsidium
 liegt)
 
 Harst verneigte sich. »Tun Sie, was Sie für nötig
@@ -1335,21 +1335,21 @@ Der *Stern auf Papier* war’s …
 <h3>Nur ein Briefumschlag.</h3>
 
 »Zu dem Rüstzeug jedes Kriminalschriftstellers gehören
-am Tatort gefundene Hosenknöpfe, Zigarrenstummel, PapierstüFfHen,
-angebissene Kopfes, Haare, Stecknadeln und wenn
+am Tatort gefundene Hosenknöpfe, Zigarrenstummel, Papierstückchen,
+angebissene Äpfel, Haare, Stecknadeln und wenn
 der Mann etwas mehr Phantasie hat, auch halb abgebrannte
 Zündhölzer, Stearintropfen, Fingernägel oder Puderstäubchen,
 — und wenn’s ganz hoch kommt, so sind’s Kopfschuppen,
-RVasiershaum, eine zertretene Fliege, ein unter der Leiche
+Rasierschaum, eine zertretene Fliege, ein unter der Leiche
 breitgedrückter Schmetterling oder ein Floh besonderer Art …«
 
 So ironisch leitete Harst seine Vorbemerkung über den
 Briefumschlag mit dem Sternmuster ein …
 
 Fuhr dann weniger bissig fort: »Diese Papierkugel, die
-ich soeben entfaltete, hatte eine merkwürdige Form. Eis war
+ich soeben entfaltete, hatte eine merkwürdige Form. Es war
 mehr eine hohle Halbkugel, wenn du genauer hingesehen
-hättest, mein Alter …
+hättest, mein Alter …«
 
 »Das tat ich … Die Form fiel mir auf.«
 
@@ -1357,7 +1357,7 @@ hättest, mein Alter …
 lag hinter — dem linken Vorhangzipfel in deinem Schlafzimmer,
 <@pagebreak/>
 also in der Nähe des Fensters, durch das der Mörder
-mit seinen GummishHuhen eingestiegen war. — Du siehst,
+mit seinen Gummischuhen eingestiegen war. — Du siehst,
 dieser zur Halbkugel zusammengepreßt gewesene Briefumschlag
 großen Formats aus graublauem tadellosen Papier gehört
 mit zu dem Rüstzeug der phantastischen Schriftsteller: ein
@@ -1365,38 +1365,46 @@ Papier, am Tatorte gefunden! — Erste Frage: Hat es der
 Mörder verloren? Kann er es verloren haben, oder besteht
 die Möglichkeit, daß er es absichtlich zurückließ? — Nein,
 er verlor es! Er hatte es dazu benutzt, die Spitze des
-einen seiner Gummischuhe, die ihm zu groß waren, auszuführen.
+einen seiner Gummischuhe, die ihm zu groß waren, auszufüllen.
 Zumeist benutzt man hierzu Watte. Weil nun der
 Mörder diesen Umschlag verwandte, kann man behaupten,
 daß er die Gummischuhe erst kurz vorher gekauft und
 keine Watte zur Verfügung hatte. Er kaufte sie, ohne sie
-anzuprobieren, Er nahm zum Ausfüllen der Spitzen das,
-was er gerade bei der Hand hatte. Als er durchs das Fenster
+anzuprobieren. Er nahm zum Ausfüllen der Spitzen das,
+was er gerade bei der Hand hatte. Als er durch das Fenster
 stieg, rutschte ihm einer der Gummischuhe vom Fuße, der
 zusammengepreßte Briefumschlag glitt heraus und rollte hinter
 den Vorhangzipfel, ein durchaus natürlicher Vorgang. —
 Schauen wir uns den Umschlag nun mal näher an. Bitte …
-du siehst: graublaues Papier mit einem Muster zart geblieben
+du siehst: graublaues Papier mit einem Muster zart gelblicher
 Sterne mit … ja mit dreißig Zacken, wie ich soeben gezählt
 habe. — Die Adresse auf diesem Kuvert ist mit lila Tinte
 in lateinischen Buchstaben geschrieben:
 
-Herrn
-Altan Mac Gerrick
-W. 57
-Winterfeldtstr. 179
-bei Gauner
-Als.: Oh. Darbte.
-Friedenau-Berlin,
-Spalte. 2.
-Pension Werke.
+<div style="margin-left: 10em; width: fit-content;">
+<p class="centered">Herrn</p>
+<p class="right">Allan Mac Gerrick</p>
+</div>
+
+<div style="margin-left: auto; margin-right: 2em; width: fit-content;">
+<p class="centered">W. 57</p>
+<p class="centered">Winterfeldtstr. 179 III</p>
+<p class="centered">bei Guttner</p>
+</div>
+
+<div style="width: fit-content;">
+<p class="centered"><em>Abs</em>.: Ch. Darble</p>
+<p class="centered">Friedenau-Berlin,</p>
+<p class="centered">Evastr. 2.</p>
+<p class="centered">Pension Menke.</p>
+</div>
 
 <@pagebreak/>
-Au das ist vielsagend, bedeutungsvoll. Aber ganz absprechen
-von der Schrift, die einen Wann von Eitelkeit, Unaufrichtigkeit
+All das ist vielsagend, bedeutungsvoll. Aber ganz abgesehen
+von der Schrift, die einen Mann von Eitelkeit, Unaufrichtigkeit
 und ohne alle moralische Hemmungen verrät,
-gibt es hier noch etwas, das. außerordentlich wichtig ist. —
-Betrachte mal die sehr unklar abgestempelte Acht-Pfennig Marke.
+gibt es hier noch etwas, das außerordentlich wichtig ist. —
+Betrachte mal die sehr unklar abgestempelte Acht-Pfennig-Marke.
 Was fällt dir auf?«
 
 Pause …
@@ -1405,24 +1413,24 @@ Pause …
 schräge Stellung der Marke etwas besagt.«
 
 »Brav!! Ja, sie besagt etwas. Sie ist genau in einen
-»Stern hineingeklebt, und ihre linke obere Ecke liegt genau
+Stern hineingeklebt, und ihre linke obere Ecke liegt genau
 zwischen Zacke dreißig und Zacke eins, wenn man die
 Zacken von oben nach rechts zu zählen beginnt. — Dieser
 Umschlag, mein Alter, hat, wie ich weiter bemerken muß,
 niemals einen Briefbogen oder sonst etwas enthalten. Er war
-Teer, als er flüchtig zugeklebt an Altan Mac Gerrick abgeschickt
+leer, als er flüchtig zugeklebt an Allan Mac Gerrick abgeschickt
 wurde. Beweis, der Stempel hat sich auf der Rückseite
-scharf abgedrüt oder durchgedrückt, also muß das Kuvert
+scharf abgedrückt oder durchgedrückt, also muß das Kuvert
 leer gewesen sein. Wofür auch noch die Tatsache spricht, daß
 der Umschlag sehr oberflächlich zugeklebt wurde und, wie
 dir hoffentlich nicht entgangen, auch jetzt noch nicht einmal
 aufgeschnitten ist. — Was besagt dies? — Sehr einfach:
-Oh. Darbler hatte es gar nicht nötig, dem Kuvert einen
+Ch. Darbler hatte es gar nicht nötig, dem Kuvert einen
 Inhalt zu geben, denn der Umschlag selbst war schon der
 eigentliche Brief, ein Geheimbrief, sicherer als Telephongespräch
 oder Chiffre oder Zahlenschrift … Nur — — verlieren
-muß man einen solchen Brief nicht und — ’nicht das
-Pech haben, daß er uns tu’ die Hände gerät …
+muß man einen solchen Brief nicht und — nicht das
+Pech haben, daß er uns in die Hände gerät …«
 
 »Dir! — Ich scheide aus …«
 
@@ -1430,43 +1438,44 @@ Pech haben, daß er uns tu’ die Hände gerät …
 Umschlag noch in der Hand. Lies mir also den Brieftext vor.«
 
 Ich kenne meinen Harst. Er wußte natürlich ganz genau,
-daß im nichts vorlesen konnte, und wenn ich das Kuvert
+daß ich nichts vorlesen konnte, und wenn ich das Kuvert
 mit den Blicken gefressen hätte. — Also: Ironie!! Und
 <@pagebreak/>
-5o& war’s mir ein Genuß, hier den Zuhörer bei diesem
+doch war’s mir ein Genuß, hier den Zuhörer bei diesem
 Privatissimum über kriminelle Mitteilungsarten zu lauschen.
 
 »Lies du,« sagte ich lächelnd. »Ich habe meine schärfere
 Brille nicht da.«
 
-»Schade. Die würdest du auch brauchen, denn die Buch« —
-Stuben sind schwer herauszufinden. — Der Text« — er hatte
+»Schade. Die würdest du auch brauchen, denn die Buchstaben
+sind schwer herauszufinden. — Der Text« — er hatte
 mir den Umschlag wieder abgenommen — »lautet wie folgt:
 
-Alles gut. Aber raube e.
+<p class="centered em">Alles gut. Aber raube e.</p>
+
 Das ist alles. Es genügt.«
 
-Ich war vorhin noch so müde wie ein Ziehend gewesen.
+Ich war vorhin noch so müde wie ein Ziehhund gewesen.
 Jetzt war ich munter wie ein hungriger Säugling.
 
-»Und wo steht dieser Text?« fragte im gespannt.
+»Und wo steht dieser Text?« fragte ich gespannt.
 
 »Dort, wo die betreffenden Zacken der Sterne auf die
 betreffenden Buchstaben der Anschrift hinweisen. Diese Zacken
 brauchst du nur abzuzählen, indem du davon ausgehst,
-daß durch die -Markenecke bezeichnete Zacke »Eins« sein
-schnell. — Sie’ dir mal diese merkwürdig unregelmäßige
-Screiburt der Anschrift genau an. Die Buchstaben sind
+daß durch die Markenecke bezeichnete Zacke »Eins« sein
+soll. — Sieh’ dir mal diese merkwürdig unregelmäßige
+Schreibart der Anschrift genau an. Die Buchstaben sind
 entweder ganz eng zusammengedrückt oder ganz weit auseinandergezogen,
-damit sie eben die betreffenden Laden berühren.
-Hier zum Beispiel »Altan« ist sehr lang jener?!, denn aus
-»Altan« ist für »alles« das »all« entnommen: Zacke?, 3,
-der nächsten Sterne des Musters. — Zacke 5 berührt das »Ö« in
+damit sie eben die betreffenden Zacken berühren.
+Hier zum Beispiel »Allan« ist sehr lang gereckt, denn aus
+»Allan« ist für »alles« das »all« entnommen: Zacke 2, 3, 4
+der nächsten Sterne des Musters. — Zacke 5 berührt das »f« in
 Winterfeldtstraße.« — und so fort … —
 
-»Stimmt allerdings!! Sehr schlau »gemacht. — Und was
+»Stimmt allerdings!! Sehr schlau gemacht. — Und was
 soll der Text?! Das erste ist ja verständlich. Aber was soll
-»Aber raube e’?21«
+»Aber raube e«?!«
 
 »Dieses e kann Ellen Rendall bedeuten … — Weil
 nun in dem Stempel immerhin das Datum von gestern zu
@@ -1475,34 +1484,33 @@ müssen wir ausschalten.«
 
 »Wie?!«
 
-»Zunächst noch etwas über den Briefschreiber Oh. Darbler
-
-und tt Empfänger Gerrick. Das sind zwei Leute, die hier
+»Zunächst noch etwas über den Briefschreiber Ch. Darbler
+und den Empfänger Gerrick. Das sind zwei Leute, die hier
 <@pagebreak/>
 mit allergrößter Vorsicht arbeiten, die nicht mal zusammenzukommen
 wagen, weil sie sich eben beobachtet fühlen. Sie
-verkehren nur durch4 diese Briefe, behaupte ich, und den
+verkehren nur durch diese Briefe, behaupte ich, und den
 Beweis hierfür werde ich sehr bald erbringen. Wir werden
 beiden Herren Besuche abstatten. Darbler wohnt Evastraße 2,
 also ebendort, wo aus Mr. John Priscopp haust. Beginnen
 wir also mit Darbler. Machen wir Toilette, packen wir die
-Koffer und suchen wir uns aus dem Fahrplan einen »Kenntnis
+Koffer und suchen wir uns aus dem Fahrplan einen Fernzug
 heraus, der etwa um halb sechs morgens hier eintrifft.
 Das kann der Wiener Zug sein. Stimmt es, so sind wir eben
 Österreicher, Kaufleute … Und um sechs Uhr im Fremdenheim
-Werke …« —
+Menke …« —
 
 Ich mußte ihm das Kursbuch reichen.
 
-— Wir wurden Österreicher. Aber nicht zwei Herren,
+Wir wurden Österreicher. Aber nicht zwei Herren,
 sondern Mann und Frau. Ich als Dame älteren Kalibers:
 nichts Neues, nichts Ungewohntes! —
 
 Genau fünf Minuten vor sechs setzte ein Auto das
 Ehepaar Sedlmayer aus Wien vor dem Pensionat ab.
-Die Pensionsmama war schon auf den Beinen und sehr dicke
+Die Pensionsmama war schon auf den Beinen und sehr dick
 und sehr auf hohe Preise zugeschnitten. Wir nahmen das
-Zimmer 8 neben dem Oh. Darbler. Linke von uns wohnte
+Zimmer 8 neben dem Ch. Darbler. Links von uns wohnte
 im Erkerzimmer John Priscopp, den Harald für den
 »toten« Drake hielt.
 
@@ -2321,7 +2329,7 @@ Hundes.
 Unser Auto glitt ohne uns eine Strecke zurück. Dort sollte
 es warten.
 
-Harald schaute sich um. »Zier muß irgendwo der Flen3derger
+Harald schaute sich um. »Zier muß irgendwo der Flensberger
 Platz sein, eine große Gartenanlage, — ich
 glaube, wir müssen uns nach rechts wenden … Dorthin
 hat der nunmehr tote Mac Zerrt in einem der an Ellen
