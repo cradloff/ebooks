@@ -16,7 +16,7 @@
 	<tr><td></td><td>Band 4:</td><td>Das Paradies der Enterbten.</td></tr>
 </table>
 
-<div style="text-align: justify;">
+<div style="text-align: justify; border-bottom: 1em;">
 Die Bändchen: <span style="font-weight: bold;">"Abelsen, Abseits vom Alltagswege"</span>
 sind durch jede Zeitschriftenhandlung zu beziehen.
 Man erhält dieselben auch gegen Voreinsendung

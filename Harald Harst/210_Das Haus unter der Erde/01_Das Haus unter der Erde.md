@@ -1,5 +1,7 @@
 <@pagebreak 3/>
 
+<h1>Das Haus unter der Erde.</h1>
+
 <h2>1. Kapitel.</h2>
 
 <h3>Um die Mutter.</h3>
@@ -150,7 +152,7 @@ Hauptmann S. runzelte die Stirn. »Mir ist nicht nach
 Witzen zumute … Die drei Hunde waren neunhundert Mark
 wert, und …«
 
-»… und das Geld bezahle im natürlich. — Sehe ich
+»… und das Geld bezahle ich natürlich. — Sehe ich
 so aus, als ob mir ein Scherz jetzt angebracht erscheint?!
 Lieber S., mir ist sogar reichlich unbehaglich angesichts Ihres
 Abenteuers. — Ich will Sie nicht hinhalten. Der Alte hatte
@@ -213,7 +215,7 @@ dasselbe!«
 Der Hauptmann hatte sich vorgebeugt und starrte Harald
 ganz entsetzt an …
 
-»Und … und … das sagen sehe so … ruhig, Herr
+»Und … und … das sagen Sie so … ruhig, Herr
 Harst?!«
 
 »Ruhig?! Vielleicht nur äußerlich … Wenn es um
@@ -352,8 +354,8 @@ Harald war seelisch völlig zusammengebrochen …
 <p class="centered em">50&nbsp;000 Mark Belohnung.</p>
 
 <p class="centered">Diese Belohnung sichere ich demjenigen
-zu, der mir über den Verbleib meiner am
-3\. März d. J. abends 10 Uhr, entführten
+zu, der mir über den Verbleib meiner am 3.
+März d. J. abends 10 Uhr, entführten
 Mutter Angaben machen kann, die deren
 Wiederauffindung ermöglicht.</p>
 
@@ -417,7 +419,7 @@ Gleich nach unserer Ankunft in Waldesruh untersuchte
 der Chefarzt Harald in meiner Gegenwart ganz gründlich.
 Als er fertig war, sagte er lächelnd:
 
-»Lieber Herr Harst, im wünschte ich wäre so kerngesund
+»Lieber Herr Harst, ich wünschte ich wäre so kerngesund
 wie Sie. Die seelische Depression ist an allem schuld. Ich
 werde Sie mit Hypnose behandeln.«
 
@@ -573,7 +575,7 @@ blieben erfolglos.
 
 Ich schlief, ohne es zu wissen.
 
-Und wenn ich im Sitzen, im Sessel schlafe, dann schnarchte
+Und wenn ich im Sitzen, im Sessel schlafe, dann schnarche
 ich noch mehr als sonst.
 
 Eine Hand rüttelt mich leicht …
@@ -699,7 +701,7 @@ Globetrotter-Erlebnisse sind ja im Grunde keine Detektivabenteuer,
 mehr ein Gemisch von …«
 
 »Aber spannend sind sie doch …!« fiel sie mir lebhaft
-ins Wort. »Zum Beispiel Ihr Kampf gegen, den Verschwörer
+ins Wort. »Zum Beispiel Ihr Kampf gegen den Verschwörer
 Gul … Gul … Gulbrai hieß er wohl …«
 
 »Guddai, Frau Tschau …« — Sie ging scharf ins
@@ -955,7 +957,7 @@ von Rüdersdorf sehr genau und habe zufällig schon im
 Januar erfahren, daß eine alte Dame einen kleinen früheren
 Bauernhof nördlich von Möllenhorst, mitten im Walde
 gelegen, etwa am 15. Januar erworben, das Haus ausgebaut
-und das Grundstück neun einzäunt hat. Später, im
+und das Grundstück neu umzäunt hat. Später, im
 Februar hörte ich, die Dame sei sehr menschenscheu, Witwe
 eines Amerikaners und schwer nervenkrank. Sie soll an
 Verfolgungswahn leiden, hält sich nur zwei Dienstboten, zwei
@@ -1011,7 +1013,7 @@ sogar weit vielversprechender als Frau Thea Busses harmloses
 Erlebnis gewesen. — Ich machte Harst gegenüber aus dieser
 meiner Enttäuschung kein Hehl.
 
-»Der Brief ist vielleicht genauso wertlos wir all die
+»Der Brief ist vielleicht genauso wertlos wie all die
 anderen,« meinte ich. »Freilich, du wirst ja wohl deine Gründe
 haben, ihn höher einzuschätzen, obwohl …«
 
@@ -1021,7 +1023,7 @@ ist … Zunächst gibt da Frau Busses Angabe, diese
 Frau Anna Patson habe das Grundstück Mitte Januar
 erworben, zu denken. Damals war Guddai bereits in Birkenwalde
 und seine Menagerie bei Wonzow untergestellt. Daß
-er einen zweiten Schlupfwinkel für sie in der Nähe Berlins
+er einen zweiten Schlupfwinkel für sich in der Nähe Berlins
 vorbereitet hatte, daß er sich dort jetzt befindet, daß er von
 dort aus uns ständig überwachen ließ, ist durch die letzten
 <@pagebreak/>
@@ -1287,7 +1289,7 @@ Ein paar Birken, eine Bodenwelle, — Gestrüpp, dahinter
 ein Bretterzaun, dunkelgrün gestrichen, oben an Eisenstangen
 vier geneigte Stacheldrähte. Jenseits dieses gut gesicherten
 Zaunes Haselnußbüsche, noch kahl, — Tannen, Obstbäume,
-ein rotes Ziegeldach und ein zweites, mit bemoosten Stroh
+ein rotes Ziegeldach und ein zweites, mit bemoostem Stroh
 gedecktes. — Ein elender Fahrweg durchschnitt winterlich
 wüstes Kartoffelland und zog sich unter der Einfahrt des
 Zaunes weiter. Neben diesem Flügeltor eine Pforte mit
@@ -1384,7 +1386,7 @@ Ich war damals so hoffnungsfroh. Ich sah uns als Sieger …
 
 Und wie bitter nachher die Enttäuschung! —
 
-Harst kehrte zurück … Gut zehn Minuten war es mir
+Harst kehrte zurück … Gut zehn Minuten war er mir
 völlig aus den Augen gekommen.
 
 »Nun?« fragte ich atemlos.

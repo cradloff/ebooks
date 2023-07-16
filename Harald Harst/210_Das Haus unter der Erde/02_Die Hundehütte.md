@@ -84,7 +84,7 @@ habe, wird er mir ohnedies — denn er kann sehr
 grob werden — wenig angenehme Dinge sagen. Verzeihen
 Sie also, Frau Patson … Ich weiß, Sie sind selbst mit den
 Nerven nicht ganz in Ordnung, wie in jenem an mich gerichteten
-Schreiben stand, das mich auf Ihre Farbigen Diener
+Schreiben stand, das mich auf Ihre farbigen Diener
 aufmerksam machte und den Verdacht aussprach, auch mein
 Gegner Doktor Guddai könnte sich in diesem Gehöft mit
 seiner Beute, meiner armen Mutter, befinden, — — also,
@@ -228,7 +228,7 @@ Stuhle standen.
 …
 
 Sie sprang auf. »Ja — mein einziges Vergnügen …
-Ich Filme …« Sie lachte … Sie holte den Kasten … Wirklich,
+Ich filme …« Sie lachte … Sie holte den Kasten … Wirklich,
 es war eine Filmkamera … »Wollen Sie einen meiner
 Filme sehen, meine Herren?« Und schon drückte sie auf
 den Klingelknopf …
@@ -239,8 +239,8 @@ den Klingelknopf …
 Tom trat ein. Er war der größere und kräftigere der
 Mulatten.
 
-»Tom — richte nebenan alles her … Meine Gäste wollten
-einen meiner Filme sehen. Lege ein Baumfilm und den
+»Tom — richte nebenan alles her … Meine Gäste wollen
+einen meiner Filme sehen. Lege den Baumfilm und den
 Wildfilm zurecht …«
 
 <@pagebreak/>
@@ -375,7 +375,7 @@ ein zweiter Bock auf, der sofort auf den Nebenbuhler losging.
 Ein prachtvoller Kampf entspann sich, ein graziöses, kraftvolles
 Spiel …
 
-In der Trat, das war eine seltene Aufnahme!
+In der Tat, das war eine seltene Aufnahme!
 
 Als der neuerschienene Bock nun den anderen in die
 Flucht schlug, als der Sieger dann die holden Rehdämchen
@@ -409,7 +409,7 @@ Entschuldigung …«
 »Ja — ich muß mich sichern,« sagte sie zerstreut. »Oh —
 nun habe ich nicht einmal Zeit gehabt, Ihnen die Geschichte
 von dem niederträchtigen Diebstahl meines Mannes zu
-erzählen … Wenn Sie nur recht bald wiederkäuen, meine
+erzählen … Wenn Sie nur recht bald wiederkämen, meine
 Herren … Vielleicht finden Sie Edward und den Nauklava …«
 
 »Wie — Naukla-sa, den heidnischen Gott der Philipinos?«
@@ -604,7 +604,7 @@ werden sollte, wo ein Freund Guddais wohnen muß.«
 Nähe der einsamen Villa, hatten also die Chinesin doch
 <@pagebreak/>
 getäuscht, hatten ihre Betten verlassen und sich durch den
-Wald bis an den Zaun des Grundstück geschlichen, wo
+Wald bis an den Zaun des Grundstücks geschlichen, wo
 sie jedoch infolge der geheimen Alarmvorrichtungen rechtzeitig
 bemerkt wurden und die Bewohner sie daher in aller
 Harmlosigkeit empfingen und ihnen durch allerlei klug berechnete
@@ -687,9 +687,9 @@ die »Zofe« war daher in einem Zustand, der eine Narkose
 Burschen, dessen Perücke auf dem Nachttisch lag. Der Chinamann
 kam zu sich, glotzte uns blinzelnd an und war ganz
 <@pagebreak/>
-zahm und still. Nachdem er sich auch den Nebel hatte in
+zahm und still. Nachdem er sich auch den Knebel hatte in
 den Mund schieben und befestigen lassen, nahm Harald die
-auf den Nachttischchen neben der Weiberperücke liegende
+auf dem Nachttischchen neben der Weiberperücke liegende
 Brieftasche an sich und klappte sie auf. Das schien dem
 Gelben denn doch etwas peinlich zu sein. Er wollte emporfahren,
 aber da er an die Bettpfosten gebunden war, ging’s
@@ -761,7 +761,7 @@ gespannt.
 »Frau Patson und der eine Diener eilten an mir vorüber,
 ohne mich gewahr zu werden. Sie kamen offenbar
 von der Eiche her, hatten die Kamera und das Stativ bei
-sich und betrafen das Grundstück. Seitdem war nichts mehr
+sich und betraten das Grundstück. Seitdem war nichts mehr
 von ihnen zu sehen. Ich bin ein paarmal um das Gehöft
 geschlichen, aber es geschah nichts. Außer …«
 
@@ -855,7 +855,7 @@ Harst schaute mich an. Ein fast finsterer Zug lag um
 <@pagebreak/>
 seinen Mund. »Wir sind und bleiben Stümper,« sagte
 er bissig. »Guddai lacht uns aus …!! Die zweite Radiomeldung
-war tatsächlich Bluff. Nicht wir haben Frau Person
+war tatsächlich Bluff. Nicht wir haben Frau Patson
 eingewickelt, sondern sie uns! Aber noch ist nicht aller
 Tage Abend!«
 
@@ -866,7 +866,7 @@ Auch Harald bückte sich … Ich beobachtete sein Tun. Der
 Prellstein war von vertrockneten Disteln umwuchert. Harsts
 Finger fanden in diesen braunen, noch immer stachligen
 abgestorbenen Pflanzen einen Ziegelstein, der in der Mitte
-ein Loch hatte! Du dieses Loch führte die Verlängerung
+ein Loch hatte! Durch dieses Loch führte die Verlängerung
 eines kleinen Griffes hindurch. Harald zog daran, und die
 Pforte öffnete sich, schwenkte etwas nach innen und gab
 uns den Weg frei. — Genau so war’s gewesen, als Frau
@@ -1075,7 +1075,7 @@ zwanzig Sprossen. Sie stand unten auf einem Vorsprung,
 einer natürlichen Kalksteinkanzel, von der eine Treppe in
 die Höhle hinablief. —
 
-Höhle … — Das klingt so schlich … zu schlicht.
+Höhle … — Das klingt so schlicht … zu schlicht.
 
 Was Doktor Shing Guddai hier geschaffen, war eine
 Märchengrotte, war eine Wunderhöhle Aladins aus Tausendundeiner
@@ -1160,7 +1160,7 @@ auf die Lichtung hinaus …
 Hinter uns aus den Tiefen der Erde ein dumpfer Knall
 — noch einer … noch einer …
 
-Der Boden hebt … zittert …
+Der Boden bebt … zittert …
 
 Wir blicken zurück …
 
