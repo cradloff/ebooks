@@ -104,7 +104,7 @@ Harst sagte leise: »Auch eine halbe Stunde Warten genügt. Unsere Pflicht haben
 
 »Welchen Brief?«
 
-»Den ich daheim nach dem Abendbrot schrieb, letztwillige Verfügung — — an Doktor Shing Guddai. — ‚Wir hatten unser Wort gegeben, um Mitternacht vor der Villa zu sein. Wir hatten zwei Berliner Verbrecher mitgebracht, die den Versuch gemacht hatten, vorige Nacht bei Wonzow einzudringen, um die Gelegenheit zu einem Einbruch größeren Stils auszukundschaften. Da Sie offenbar keinen Wert mehr darauf legen, mit uns in vereinbarter Weise weiter zusammenzuarbeiten, sind unsere Abmachungen nichtig geworden. Betrachten Sie uns daher nach wie vor als … Europäer! Sie verstehen mich. — Harald Harst.‘ — Das steht in dem Briefe, den ich nun wirklich seiner Bestimmung zuführen kann. Ich hatte, ehrlich gesagt, noch immer gefürchtet, daß Guddai uns trotz der Uniformen erkennen und hineinholen würde. Das wäre fatal geworden. Aber — wir haben Glück gehabt, und du wirst zugeben, mein Alter, daß wir ganz so gehandelt haben, wie wir als zukünftige Guddais handeln mußten: wir brachten zwei Verbrecher mit, die *es* auf die Villa abgesehen hatten!«
+»Den ich daheim nach dem Abendbrot schrieb, letztwillige Verfügung — — an Doktor Shing Guddai. — ›Wir hatten unser Wort gegeben, um Mitternacht vor der Villa zu sein. Wir hatten zwei Berliner Verbrecher mitgebracht, die den Versuch gemacht hatten, vorige Nacht bei Wonzow einzudringen, um die Gelegenheit zu einem Einbruch größeren Stils auszukundschaften. Da Sie offenbar keinen Wert mehr darauf legen, mit uns in vereinbarter Weise weiter zusammenzuarbeiten, sind unsere Abmachungen nichtig geworden. Betrachten Sie uns daher nach wie vor als … Europäer! Sie verstehen mich. — Harald Harst.‹ — Das steht in dem Briefe, den ich nun wirklich seiner Bestimmung zuführen kann. Ich hatte, ehrlich gesagt, noch immer gefürchtet, daß Guddai uns trotz der Uniformen erkennen und hineinholen würde. Das wäre fatal geworden. Aber — wir haben Glück gehabt, und du wirst zugeben, mein Alter, daß wir ganz so gehandelt haben, wie wir als zukünftige Guddais handeln mußten: wir brachten zwei Verbrecher mit, die es auf die Villa abgesehen hatten!«
 
 Er schritt rasch der Zaunpforte zu. Ich hörte die Klappe des Briefkastens herabfallen.
 
@@ -154,7 +154,7 @@ Heraus mit den Pistolen.
 
 Ein Trillerpfiff irgendwo in der Nähe — noch einer …
 
-Die Riesenbestie, die da mit Sätzen wie Rennpferd heranjagte, stutzte, machte kehrt …
+Die Riesenbestie, die da mit Sätzen wie ein Rennpferd heranjagte, stutzte, machte kehrt …
 
 Noch ein Trillerpfiff …
 
@@ -554,7 +554,7 @@ Ich rudere … Der eisige Wind kühlt mir den heißen Kopf … Mein Genick schme
 
 Was meint sie damit?!
 
-»Ich verzichte, Frau Aldow …Sie sind mir sicher — in jeder Beziehung! Und noch vor Morgengrauen wird die Villa Wonzow ihre letzten Geheimnisse hergeben müssen …«
+»Ich verzichte, Frau Aldow … Sie sind mir sicher — in jeder Beziehung! Und noch vor Morgengrauen wird die Villa Wonzow ihre letzten Geheimnisse hergeben müssen …«
 
 Sie bittet weiter … »Nur ein paar Worte …!«
 
@@ -652,7 +652,7 @@ In diesem großen zweifenstrigen Raum duftet es nach Zigaretten und Grog … In 
 
 Ein Blick über ihre Gesichter hin: es sind drei Juden und zwei Mongolen … Alle fünf in dunklen Anzügen, unauffällig elegant …
 
-Der Fürst hat sich hinter uns an die Tür gelehnt …In seinem tadellosen Englisch sagte er, ganz Weltmann:
+Der Fürst hat sich hinter uns an die Tür gelehnt … In seinem tadellosen Englisch sagte er, ganz Weltmann:
 
 »Die Herren gestatten … Hier die Herren Harst und Schraut, die uns Wichtiges mitzuteilen haben, — dort der persische Fürst Mirza Gandu (das war der kleinere der Mongolen), — dort Seine Durchlaucht Prinz Osman Ali (der andere Mongole), …« — und dann nennt er drei indische Namen …
 

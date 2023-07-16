@@ -1,18 +1,5 @@
 <h1>Gamderlans Menagerie.<@refnote 1/></h1>
 
-<div style="font-weight: bold; text-align: center;">
-Erzählt von
-</div>
-<div style="font-weight: bold; font-size: larger; text-align: center;">
-Max Schraut
-</div>
-
-<p class="centered">Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.<br />
-Berlin SO 16, Michaelkirchstraße 23a</p>
-
-<p class="centered">Nachdruck verboten. — Alle Rechte, einschl. das Verfilmungsrecht, vorbehalten. — Copyright 1927 by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.<br />
-Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 16.</p>
-
 <h2>1. Kapitel.</h2>
 
 <h3>Die beiden Stromer.</h3>
@@ -25,7 +12,7 @@ Der Beamte, der die Fahrkarten abnahm und doch jeden Birkenwalder kannte, blickt
 
 Damit besah er sich die Fahrkarten, die der kleinere der beiden abgegeben hatte: Zweiter Klasse!
 
-Er rief daher den verdächtig duftenden Kerlen nach, deren abgerissene schäbige Mäntel, ausgefransten Hosen und schmierigen Stiefel, in all ihrer Erbärmlichkeit voll zur Wirkung kommen waren …:
+Er rief daher den verdächtig duftenden Kerlen nach, deren abgerissene schäbige Mäntel, ausgefransten Hosen und schmierigen Stiefel, in all ihrer Erbärmlichkeit voll zur Wirkung gekommen waren …:
 
 »He — — Sie da!! Dies hier ist erst Birkenwalde!«
 
@@ -87,7 +74,7 @@ Ich ging öffnen und betrat in Begleitung eines jüngeren Bahnbeamten wieder das
 
 »Herr Ernst Gulitzki möchte uns etwas mitteilen, Harald …« Und ich schaltete den Kronleuchter ein.
 
-»Setzen Sie sich, Herr Gulitzki,« sagte Harald freundlich. »Seien Sie nicht so ängstlich … Hier ist eine Zigarre … Sie kommen, wie ich sehe, aus angenehmer Gesellschaft … Die junge Dame, mit der Sie zusammen waren, ist wohl Ihre Brant gewesen, — blond, hellblond … Aber sie sollte sich die Augenbrauen nicht nachtuschen. Beim Küssen gibt das zuweilen bräunliche Flecke auf der Stirn des anderen Teiles … — Sind Sie erstaunt? — Nicht doch …! Sie tragen einen Verlobungsring, haben ein paar blonde Härchen auf der Jackenklappe Ihres tadellosen blauen Sonntagsanzugs, den Sie doch heute am Freitag wohl nur Ihrer Braut zu Ehren angezogen haben … — Also — was bringen Sie?«
+»Setzen Sie sich, Herr Gulitzki,« sagte Harald freundlich. »Seien Sie nicht so ängstlich … Hier ist eine Zigarre … Sie kommen, wie ich sehe, aus angenehmer Gesellschaft … Die junge Dame, mit der Sie zusammen waren, ist wohl Ihre Braut gewesen, — blond, hellblond … Aber sie sollte sich die Augenbrauen nicht nachtuschen. Beim Küssen gibt das zuweilen bräunliche Flecke auf der Stirn des anderen Teiles … — Sind Sie erstaunt? — Nicht doch …! Sie tragen einen Verlobungsring, haben ein paar blonde Härchen auf der Jackenklappe Ihres tadellosen blauen Sonntagsanzugs, den Sie doch heute am Freitag wohl nur Ihrer Braut zu Ehren angezogen haben … — Also — was bringen Sie?«
 
 Gulitzki sog verlegen an seiner Zigarre und platzte dann heraus:
 
@@ -517,7 +504,7 @@ Es war genau zehn, als ein großes neues Taxameterauto zwei Schupowachtmeister n
 
 Diese beiden Beamten, die hier offenbar genau Bescheid wußten, stiegen an einer Ecke aus, das Auto mußte warten und der Chauffeur, der bereits zehn Mark Anzahlung erhalten, beobachtete, wie die »Grünen«, die jetzt freilich besser in »Graublaue« umgetauft werden müßten, in einer Kellerspelunke verschwanden.
 
-Dieses elende Lokal war um diese Stunde noch ziemlich leer. Auf die wenigen Gäste und dem dicken Wirt machte das Erscheinen der uniformierten Beamten nur insofern Eindruck, als sich sonst hier nur die Kriminalpolizei in Zivil blicken ließ.
+Dieses elende Lokal war um diese Stunde noch ziemlich leer. Auf die wenigen Gäste und den dicken Wirt machte das Erscheinen der uniformierten Beamten nur insofern Eindruck, als sich sonst hier nur die Kriminalpolizei in Zivil blicken ließ.
 
 An einem Tischchen knobelten zwei ausgemergelte Burschen mit roten Halstüchern und Schmalztolle einen Schnaps aus. Ihre leicht flatternden Hände, der trübe Blick, das fahle Graugelb ihrer stoppligen Wangen: es waren Kokser, Kokainschnupfer! Nebenbei Gelegenheitsdiebe, Klingelfahrer mit einem Programm von Vorstrafen.
 
