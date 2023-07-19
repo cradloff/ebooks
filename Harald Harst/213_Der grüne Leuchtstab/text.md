@@ -7,33 +7,33 @@
 <h3>Doktor Chiwasara.</h3>
 
 Bevor ich hier die Geschichte des »Sterns auf Papier«
-Vorliebe, will ich mit! Freuden allen denen danken, die auch
+fortsetze, will ich mit Freuden allen denen danken, die auch
 an dem jüngst verflossenen Weihnachtsfest und zum neuen
 Jahr meiner als treue Leser wieder gedacht haben. Ganz besonders
 gilt dieser Dank meinen beiden Landsleuten drunten
-in Tunis, die dort auf einsamem Posten als warne Verstehe!
+in Tunis, die dort auf einsamem Posten als wackere Vertreter
 des Deutschtums so tapfer ausharren. — Hiermit jedenfalls
-allen lieben Freunden meinen Dank und noch nadhlruglich
+allen lieben Freunden meinen Dank und noch nachträglich
 ein »Frohes Neujahr!« —
 
 Und nun …
 
 Ein nebliger Novembertag.
 
-Zettel düstere Tag, der den Abschluß bildete von rund
+Jener düstere Tag, der den Abschluß bildete von rund
 zwölf Stunden lebensprühendsten Geschehens.
 
 Wir hatten uns vorgenommen, gleich nach dem Mittagessen,
-das unsere dicke Mathilde Punkt zwölf auftragen sollte.
+das unsere dicke Mathilde Punkt zwölf auftragen sollte,
 <@pagebreak/>
-in die Klappe zu fliehen und den versäumten, Schlaf nachzuholen.
+in die Klappe zu kriechen und den versäumten Schlaf nachzuholen.
 
 Man soll, wenn man Blücherstraße 10 wohnt, sich nie
-ein festes Programm machen. Es kommt ja Dom immer anders,
+ein festes Programm machen. Es kommt ja doch immer anders,
 
-So zu jetzt …
+So auch jetzt …
 
-Mathilde trug ’das Geschirr ab, und wir saßen noch mit
+Mathilde trug das Geschirr ab, und wir saßen noch mit
 Haralds Mutter in der gut geheizten Veranda beieinander,
 tranken Mokka, rauchten und sprachen über Gerhard Ginz’
 gerettetes Eheglück.
@@ -44,12 +44,12 @@ Dann schwebte Mathilde wieder herein …
 
 »Der Deubel soll ihn holen,« fuhr Harald ärgerlich
 auf. »Ich will schlafen … Ich bin doch nicht Inhaber
-einer Detektei, daß ich«…«
+einer Detektei, daß ich …«
 
-»Herr Edward Drake ist ’8 …« besänftigte die die dicke
+»Herr Edward Drake is ’s …« besänftigte die dicke
 Köchin.
 
-»Wer — — Drake«
+»Wer — — Drake?!«
 
 »Ja — und wie Braunbier und Spucke sieht er aus …«
 
@@ -62,13 +62,12 @@ Sessel: der Millionär Drake!
 nein, — ich kann mir schon denken, was geschehen ist: Ihre
 Millionen und Ihre Edelsteine sind wieder futsch!«
 
-Drake Kiste traurig: »Sie raten richtig, Herr Harst …
+Drake nickte traurig: »Sie raten richtig, Herr Harst …
 Ich bin ärmer denn je. Ich hatte die Pakete Wertpapiere und
 die sechzig Edelsteine in meinen Koffer eingeschlossen. Ich
 wollte sie dann, ohne mich aus der Pension Menke entfernt
 zu haben, jetzt mittags in den Tresor einer Bank bringen
-
-»der Koffer … war leert«
+... der Koffer … war leer!«
 
 Drake schaute Harald hilflos an …
 
@@ -84,21 +83,21 @@ stehe hier vor einem fast unheimlichen Rätsel …«
 »Das sich nur an Ort und Stelle lösen läßt, Herr
 Drake … — Also: Aufbruch! Ich sehe, draußen wartet
 noch Ihre Autotaxe. Sie rechneten damit, daß wir Sie begleiten
-würden … — Jahren wir«…«
+würden … — Fahren wir«…«
 
-Er stellte nur noch ein Dutzend seiner Mirakulum zu sich.
+Er steckte nur noch ein Dutzend seiner Mirakulum zu sich.
 Dann glitt der Kraftwagen mit uns davon.
 
 Während der zehn Minuten Fahrt wurde kein Wort
 gewechselt. Ich hatte Drake, der meines Freundes Eigentümlichkeiten
-rosa nicht genügend kannte, einen Wink gegeben,
+noch nicht genügend kannte, einen Wink gegeben,
 besser vorläufig gar nicht mehr den Fall zu erwähnen.
 
-Harst lehnte in seiner Er, qualmte wie ein Schlot und
+Harst lehnte in seiner Ecke, qualmte wie ein Schlot und
 starrte zum Fenster hinaus. Erst als wir vor dem Pensionat
-Werke in Friedenau, Evastraße 2, hielten, sagte er kurz:
+Menke in Friedenau, Evastraße 2, hielten, sagte er kurz:
 
-»Die Sache war gut vorbereite!!«
+»Die Sache war gut vorbereitet!«
 
 Kaum hatten wir dann den Flur im Hochparterre betreten,
 als er sofort auf die hagere, schwarz gekleidete Dame zusteuerte,
@@ -106,23 +105,23 @@ die blaß und erregt in einer offenen Zimmertür stand: Frau
 Agnes Menke!
 
 Wir kannten sie bereits. Sie uns auch, freilich nur als
-Ehepaar Sedlmatyyer aus Wien …
+Ehepaar Sedlmayer aus Wien …
 
 »Gott sei Dank, daß Sie da sind, Herr Harst … Bei mir
-ist noch nie ein Detektiv im Hause gewesen, und«…«
+ist noch nie ein Detektiv im Hause gewesen, und …«
 
-»ist’s auch heute nicht, Frau Menke. Ich lehne
-die Bezeichnung Detektiv energisch; ab. Ich bin Doktor der
-Jurisprudenz, Assessor a, D. und vielfacher Millionär infolge
+»... ist’s auch heute nicht, Frau Menke. Ich lehne
+die Bezeichnung Detektiv energisch ab. Ich bin Doktor der
+Jurisprudenz, Assessor a. D. und vielfacher Millionär infolge
 des Vermächtnisses eines gewissen Doktor Amalgi, über dessen
 rätselhafte Persönlichkeit mein Freund Schraut mancherlei
-geschrieben hat. Ich liebe das Abenteuer in jeder »Form ich
-Hebe die Sensation, den Nervenkitzel … Das ist alles …
-— Bitte, zeigen Sie mir Ihr Fremdenbuch.« —
+geschrieben hat. Ich liebe das Abenteuer in jeder Form, ich
+liebe die Sensation, den Nervenkitzel … Das ist alles …
+— Bitte, zeigen Sie mir Ihr Fremdenbuch.«
 
 <@pagebreak/>
 Wir betraten das Privatzimmer Frau Menkes, und
-Haralds erste Arbeit hier bestand darin, die Namen »und
+Haralds erste Arbeit hier bestand darin, die Namen und
 sonstigen Angaben der Gäste der letzten drei Monate sorgfältig
 abzuschreiben.
 
@@ -130,15 +129,16 @@ Dann erst gingen wir in Drakes Zimmer hinüber.
 
 Er zeigte uns den Koffer. Es war ein eleganter, neuer
 Kabinenkoffer mit Patentschlössern. Drake erklärte, daß der
-Koffer leer gewesen, als er die Pakete hineinlegte., Dann schloß
-er ihn auf: leer! Und nirgends Fuchs nur eine Spur von
+Koffer leer gewesen, als er die Pakete hineinlegte. Dann schloß
+er ihn auf: leer! Und nirgends auch nur eine Spur von
 Gewaltanwendung, kein etwa irgendwo unmerklich eingeschnittenes
 Loch — nichts!
 
-Der Koffer war mit Vers« ebenso Reklamezetteln von
+Der Koffer war mit verschiedenen Reklamezetteln von
 Hotels beklebt. Auf dem Deckel trug er in schwarzer Farbe die
 Buchstaben E. D. — Edward Drake. Außerdem war er
-noch durch einen dreifarbigen Streifen, grün, rot, grün, ge
+noch durch einen dreifarbigen Streifen, grün, rot, grün,
+ge-
 Kennzeichnet.
 
 Frau Menke stand dabei, als Harald gleichgültig den
@@ -161,7 +161,7 @@ Deckel wieder zuklappte.
 
 »Ja …«
 
-»Das ist gut … Sogar sehr gut … — Sind »all Ihre
+»Das ist gut … Sogar sehr gut … — Sind all Ihre
 Gäste daheim?«
 
 »Niemand … Erst um drei ist Tischzeit.«
@@ -171,12 +171,12 @@ Gäste daheim?«
 Wer Haralds kurze Art nicht kennt, wird leicht verwirrt.
 
 <@pagebreak/>
-»Weshalb die … Öfen?« fragte die Werke kopfschüttelnd
+»Weshalb die … Öfen?« fragte die Menke kopfschüttelnd
 …
 
 »Weil ein Koffer verbrannt worden ist …«
 
-»Ein … »Koffer by«
+»Ein … Koffer?!«
 
 »Ja, natürlich. Der Dieb hat eben den Streich vorbereitet
 gehabt. Als Drake im Gesellschaftszimmer war, vertauschte
@@ -184,15 +184,15 @@ er einen bereitgehaltenen Koffer gleichen Aussehens
 gegen den mit den Päckchen gefüllten … Und nachher hat er
 die Koffer abermals vertauscht, als Drake zu uns fuhr. Dann
 verbrannte er das Duplikat und verließ mit den Päckchen das
-Haus, — Wer ging heute vormittags nach Drake von hier
-fort?« «
+Haus. — Wer ging heute vormittags nach Drake von hier
+fort?«
 
 »Doktor Chiwasara …«
 
 »Ein Inder, wie ich im Fremdenbuch las, der fünf Tage
 nach Drake sich bei Ihnen einmietete.«
 
-»Ja … — Aber der Doktor ist sehr reiß und hat es
+»Ja … — Aber der Doktor ist sehr reich und hat es
 nicht nötig, jemand zu bestehlen,« verteidigte die Menke den
 Inder recht energisch.
 
@@ -201,18 +201,18 @@ liegt es diesem hier gerade gegenüber.«
 
 Frau Menke nickte nur, —
 
-Harald schraubte den Ofen auf und frische aus der Glut
+Harald schraubte den Ofen auf und fischte aus der Glut
 und der gelblichen Asche ein paar Blechstreifen heraus,
-MessingbleH: Kofferbeschläge, — außerdem noch verkohlte
+Messingblech: Kofferbeschläge, — außerdem noch verkohlte
 Holzteile, gekrümmt, von einem Kabinenkoffer!
 
 »Ich bin zufrieden,« meinte er. »Chiwasara wird nicht
 zurückkehren, Frau Menke …« Er schaute sich im Zimmer
-um … »Dort auf dem Schreibtisch; liegt Geld und ein
+um … »Dort auf dem Schreibtisch liegt Geld und ein
 Zettel … Bitte …«
 
 Die hagere Dame, dereinst wohl eine der Begüterten, jetzt
-ein armes, gehetztes Arbeitstier, aber immer noch: umgeben
+ein armes, gehetztes Arbeitstier, aber immer noch umgeben
 von dem unnennbaren Etwas der Zugehörigen bester Kreise,
 schoß wie ein Raubvogel auf den Schreibtisch zu. Das Wort
 Geld hatte sie elektrisiert. Vielleicht war sie bereits insgeheim
@@ -226,34 +226,34 @@ Zettel steht, daß das Geld zur Deckung meiner Auslagen
 dienen soll. Weiter nichts. Sehr, sehr anständig von Doktor
 Chiwasara!«
 
-»Auch Diebe besitzen Anstandsgcefühl, meinte Harald …
+»Auch Diebe besitzen Anstandsgefühl," meinte Harald …
 »Geben Sie mir bitte den Zettel … Oh, der Inder schreibt
-recht gut lateiniscme Schrift. — Was war er denn eigentlich?«
+recht gut lateinische Schrift. — Was war er denn eigentlich?«
 
 »Privatgelehrter, Philosoph, Herr Harst … Er hörte hier
-die Verletzungen des Grafen Gaisermick über moderne Seelenruhe.«
+die Vorlesungen des Grafen Gaisermick über moderne Seelenkunde.«
 
 »So … so …« Harald schob den Zettel in die Tasche.
 »Ein Philosoph, der Millionen sich aneignet … Etwas sehr
 materiell. Nun, wir haben immerhin den Erfolg zu verzeichnen,
-»daß wir Doktor Chiwasaras wahres Gesicht enthüllt
+daß wir Doktor Chiwasaras wahres Gesicht enthüllt
 haben. — Gehen wir wieder zu Ihnen hinüber, Herr Drake.
 Sie, verehrte Frau Menke, brauchen wir nicht mehr … Nur
 Ihre Verschwiegenheit. Niemand darf erfahren, was hier vorgefallen.
-Die Seite Waffe gegen solche Diebe ist stets die
+Die beste Waffe gegen solche Diebe ist stets die
 Ungewißheit, in der man sie hinsichtlich der gegnerischen Maßnahmen
 beläßt. Nichts macht Gauner und ähnliche Herren
 unsicherer als die Zweifel, was zu ihrer Ergreifung eingeleitet
-wird, Ein Verfolger, den ich kenne, bedeutet keine Gefahr
-mehr, Nur das Unbekannte schreit und lähmt. — Hatte
+wird. Ein Verfolger, den ich kenne, bedeutet keine Gefahr
+mehr. Nur das Unbekannte schreckt und lähmt. — Hatte
 Chiwasara hier intime Freunde?«
 
 »Nein, niemand. Er lebte ganz für sich. Er empfing
-nie Briefe. Er war sehr verschlossen und dabei stets t’ aufs,
+nie Briefe. Er war sehr verschlossen und dabei stets traurig,
 Herr Harst. Eine tiefe Melancholie lag wie ein dunkler
 Schatten über seinem Gemüt.«
 
-»Ja — der Gatten seiner finsteren Pläne … — Auf
+»Ja — der Schatten seiner finsteren Pläne … — Auf
 Wiedersehen, Frau Menke.«
 
 <@pagebreak/>
@@ -262,46 +262,46 @@ Wiedersehen, Frau Menke.«
 
 <h3>Fräulein Sonja Manilew.</h3>
 
-Zweiter Akt,
+*Zweiter Akt*.
 
 Drakes Erkerzimmer. — Drei Herren um den Sofatisch
 zwanglos gruppiert. — Trübes Tageslicht eines nebligen
 Novembermittags fällt durch die Fenster herein …
 
-Drake, mißmutig seine Zigarre zerbröfelnd:
+*Drake*, mißmutig seine Zigarre zerbröselnd:
 
 »Glauben Sie, Herr Harst, daß wenigstens etwas Aussicht
 besteht, den Inder abzufassen?«
 
-Harst, seine Mirakulum andächtig betrachtend:
+*Harst*, seine Mirakulum andächtig betrachtend:
 
 »Das wird von Ihren Antworten abhängen, Herr Drake.
-—» Woher hatten Sie diese Edelsteinsammlung, die nach Ihrer
+— Woher hatten Sie diese Edelsteinsammlung, die nach Ihrer
 Angabe genau sechzig Steine erlesenster Reinheit umfaßte?«
 
-Drake, sehr zaudernd:
+*Drake*, sehr zaudernd:
 
 »Ich war 1925 monatelang in Ostasien, in Indien und
 in Afrika, — Kennen Sie Swakopmund in der ehemals deutschen
 Kolonie Südwestafrika? Nein? — Nun, dort kaufte ich
-die keck»arg Steine von einem Chinesen, der sie angeblich in
+die sechzig Steine von einem Chinesen, der sie angeblich in
 Kapland rechtmäßig erworben hatte. Ich zahlte eine runde
 Million dafür.«
 
-Harst, ihn scharf anblickend:
+*Harst*, ihn scharf anblickend:
 
 <@pagebreak/>
-»Also waren Sie doch nicht so ganz sicher, ob die Tresor
+»Also waren Sie doch nicht so ganz sicher, ob die Steine
 nicht irgendwie hintenherum in den Besitz des Chinesen
 gelangt waren?«
 
-Drake: »Ich gebe zu, daß die Sache mir nicht ganz
+*Drake*: »Ich gebe zu, daß die Sache mir nicht ganz
 Feigling vorkam.«
 
-Harst: »Was wollten Sie in Swakopmund? Das
+*Harst*: »Was wollten Sie in Swakopmund? Das
 Städter. bietet doch keinerlei Sehenswürdigkeiten.«
 
-Drake: »Geschäfte, Herr Harst. Rinderhäute sind dort
+*Drake*: »Geschäfte, Herr Harst. Rinderhäute sind dort
 zuweilen noch billiger als in Südamerika.«
 
 »Wie hieß der Chinese?«
