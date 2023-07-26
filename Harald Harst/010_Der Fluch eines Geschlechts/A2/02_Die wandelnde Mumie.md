@@ -1,22 +1,22 @@
 <@pagebreak 34/>
+
 Die wandelnde Mumie.
 ====================
 
-<h3>1. Kapitel.</h3>
+<h2>1. Kapitel.</h2>
 
-König Eneochar von Ägypten.
-----------------------------
+<h3>König Eneochar von Ägypten.</h3>
 
 Wir saßen gegen elf Uhr vormittags in Harsts vornehm
 eingerichtetem Arbeitszimmer und warteten auf den Brief,
 den uns die Wettgegner durch einen Eilboten zustellen wollten
 und der die neue Aufgabe enthalten würde.
 
-Harst sprach über das Liebespaar dem er in Blinkenstein
+Harst sprach über das Liebespaar, dem er in Blinkenstein
 eine Heirat erleichtert hatte. Ich stand am Fenster und beobachtete
 eine Regenwolke, die uns vorhin einen kräftigen
 Schauer gebracht hatte und die nun nach Osten zu über Berlin
-hinkamen.
+hinwegzog.
 
 Dann rollte ein Auto vor das Haus. Eine tief verschleierte
 Dame stieg aus, sah sich ängstlich um, drückte dem Chauffeur
@@ -28,7 +28,7 @@ vor Verfolgern. Sie wohnt in einem westlich gelegenen Vorort,
 hat erst vor kurzem ihre Wohnung verlassen — vor vielleicht
 einer Viertelstunde, hat nicht gleich ein Auto gefunden
 und will meinen Rat oder meine Hilfe erbitten. — Ah — da
-läutet es schon. Öffnen Sie, Schraut«
+läutet es schon. Öffnen Sie, Schraut.«
 
 <@pagebreak/>
 Ich führte die Dame hinein. Harst bat, sie möchte im
@@ -78,7 +78,7 @@ Handschuhe. Die Ringe zeichnen sich deutlich ab. Aber
 — ein Ehereif fehlt. Daher »gnädiges Fräulein.« Dann
 zeigt das Oberleder Ihrer braunen Schnürschuhe innen an den
 <@pagebreak/>
-geschwungenen Teilen jene charakteristischen Kratzer wie
+geschwungenen Teilen jene charakteristischen Kratzer, wie
 sie Pedale eines Rades hervorrufen. Ferner steckt in Ihrer
 Krawatte das goldene Abzeichen jenes Klubs. Dieser nimmt
 nur Mitglieder aus ersten Familien auf. Also muß Ihr Vater
@@ -91,13 +91,13 @@ so konnte vielleicht daraus abgeleitet werden, daß Ihr
 Vater sehr sparsam und nicht für den Luxus eines Kraftwagens
 zu haben ist — also eine Eigenheit. Jeder Mensch besitzt
 ja mehrere — selbst der tugendhafteste, dann ist eben diese
-Tugenhaftigkeit seine Besonderheit. — So, und nun bitte
-ich Sie mir vertrauensvoll Ihren Fall vorzutragen, wobei
+Tugendhaftigkeit seine Besonderheit. — So, und nun bitte
+ich Sie, mir vertrauensvoll Ihren Fall vorzutragen, wobei
 ich nichts, keine Kleinigkeit, mag sie noch so geringfügig
 erscheinen, wegzulassen bitte.«
 
 Die Dame schlug den Schleier hoch. Wir bekamen ein
-blasses feines Gesicht mit den kennzeichnenden Linien großer
+blasses, feines Gesicht mit den kennzeichnenden Linien großer
 Willensstärke um Mund und Kinn zu sehen. Sie fing nun
 recht überstürzt an:
 
@@ -112,8 +112,8 @@ auf den Weg gemacht.«
 Sie schwieg, schaute zu Boden.
 
 Da sagte Harst liebenswürdig: »Es scheint Ihnen etwas
-schwer zu werden mir alles zu berichten, was Sie bedrückt.
-Bitte — tun Sie so, als saßen Sie hier zwei Anwälten gegenüber,
+schwer zu werden, mir alles zu berichten, was Sie bedrückt.
+Bitte — tun Sie so, als säßen Sie hier zwei Anwälten gegenüber,
 die zum Schweigen verpflichtet sind. Ein Detektiv ist
 wie ein Beichtvater. Er verschließt alles, was diskret behandelt
 werden soll, fest in seiner Brust. — Ihr Vater ist der
@@ -126,6 +126,7 @@ nun zur Sache, gnädiges Fräulein.«
 
 <@pagebreak/>
 Sie zögerte, schien zu überlegen. Dann begann sie leise:
+
 »Sie müssen nicht denken, daß ich etwa furchtsam oder
 gar abergläubisch bin, Herr Harst. Nein, im Gegenteil, ich
 bin durch den frühen Tod meiner Mutter schnell selbständig
@@ -145,7 +146,7 @@ Mein Schlafzimmer liegt nun im Hochparterre nach dem
 Hofe zu, der ein nach Norden zu offenes Quadrat bildet und
 kaum fünf Meter breit ist. Meinen beiden Schlafstubenfenstern
 gegenüber befinden sich die des sogenannten Mumiensaales,
-eines Raums, der einige Dutzend äußerst seltene
+eines Raumes, der einige Dutzend äußerst seltene
 ägyptische, peruanische und mexikanische Mumien enthält —«
 
 Sie hatte immer leiser gesprochen. Man merkte, wie sehr
@@ -203,7 +204,7 @@ Am folgenden Tage verreiste er nach Schweden, wo eine
 neue große Höhle entdeckt worden ist. Er will dort die
 Höhlenwohnungen und die mit aufgefundenen Geräte sich ansehen.
 Er kehrt erst in ein paar Tagen zurück. — Ich war nun doch
-bereits derart verängstigt, daß ich Karl bat im Nebenzimmer,
+bereits derart verängstigt, daß ich Karl bat, im Nebenzimmer,
 einem Gastzimmer, zu schlafen. Am zweiten Abend nach der
 Abreise meines Vaters, also vorgestern, erblicke ich die
 Mumie abermals. Da habe ich vor Grauen schnell meine Vorhänge
@@ -240,7 +241,7 @@ Harst fragte noch dies und jenes, wobei er im Zimmer
 auf und ab ging. Dann traf er mit Fräulein Burmeester
 ganz bestimmte Verabredungen und führte sie nun persönlich
 durch den Gemüsegarten, der hinten an ein Laubengelände
-grenzt, auf einen Fahrweg. auf dem sie in eine Nebenstraße
+grenzt, auf einen Fahrweg, auf dem sie in eine Nebenstraße
 gelangen konnte.
 
 Ich hatte mir inzwischen den neuen Fall nochmals hin
@@ -253,7 +254,7 @@ wahr. Auch ihr ganzes Verhalten spricht dafür, daß sie einen
 anderen Grund hatte, erst dem Diener gegenüber die Tatsachen
 zu verdrehen und nun durchaus zu verhindern wünscht,
 ihren Vater etwas von dieser reichlich abenteuerlichen Sache
-erfahren zu lassen. Besinnen Sie sich, lieber Schraut: Als
+erfahren zu lassen. — Besinnen Sie sich, lieber Schraut: Als
 ich sie fragte, ob ihr Vater in diesem Jahr bereits in einem
 Bade gewesen wäre — es hat nämlich in den Zeitungen gestanden,
 — wurde sie ohne jeden Grund sehr — sehr verlegen
@@ -271,10 +272,9 @@ gleich unsere Gasarbeiter-Kostüme herbei. Wir werden sofort
 nach der Villa hinausfahren, wie ich’s mit Fräulein Burmeester
 verabredet habe.«
 
-<h3>2. Kapitel.</h3>
+<h2>2. Kapitel.</h2>
 
-Eine raffinierte Fesselung
---------------------------
+<h3>Eine raffinierte Fesselung.</h3>
 
 Eine Stunde später verließen wir unser Heim auf demselben
 Wege wie vorher Hildegard Burmeester durch den Gemüsegarten.
@@ -288,7 +288,7 @@ auf den Hildegard auf seinen Wunsch mit Tinte geschrieben
 hatte: »Überall hinführen — Hildegard!«
 
 Karl wußte, daß seine junge Herrin bei uns gewesen.
-Er war sehr höflich und entgegenkommend ohne jedoch auch
+Er war sehr höflich und entgegenkommend, ohne jedoch auch
 nur einen Augenblick eine kriecherische Unterwürfigkeit zu
 zeigen. Er hatte zweifellos einen vortrefflichen Charakter
 und besaß die größte Anhänglichkeit an seinen Herrn und
@@ -341,7 +341,7 @@ Mumien standen in Glaskästen. Andere wieder lagen in ihren
 Mumiensärgen, über die dann nur große Glasplatten gebreitet
 waren als Schutz gegen den Staub.
 
-Wenn ich sagte: »<span class="g">braune</span> Mumiengesichter«, so trifft
+Wenn ich sagte: »*braune* Mumiengesichter«, so trifft
 dies nicht ganz zu. Sechs ägyptische Mumien, wahre Prachtexemplare,
 tadellos erhalten, mit glatter, faltenloser Gesichtshaut,
 zeigten nur einen leicht bräunlichen Teint. Ganz besonders
@@ -350,19 +350,19 @@ traf dies auf den König Eneochar zu.
 Wir drei standen nun vor diesen so vorzüglich erhaltenen
 Resten des jungen Königs. Er lag lang ausgestreckt in einem
 <@pagebreak/>
-reich vergoldetem bunt bemalten Sarge, der auf acht Metallfüßen
+reich vergoldeten bunt bemalten Sarge, der auf acht Metallfüßen
 ruhte. — »Dieser Sarg allein,« erklärte Harst, »ist
 Hunderttausende wert. Es ist Zedernholz vom Libanon.«
 
 Die königliche Mumie war in ein mantelartiges Gewand
 gehüllt, dessen Farben verblichen waren. Es mußte sich um
-eine sehr kunstvolle Weberei handeln. Man erkannte noch,
+eine sehr kunstvolle Weberei handeln. Man erkannte noch
 breite, mit Hieroglyphen bedeckte Streifen, allerhand Tierfiguren
 und zahlreiche Goldfäden. Um die Stirn trug Eneochar
 eine breite Binde aus einem wohl einst schneeweiß gewesenen
 Stoff. Mitten auf dieser Binde war ein Käfer aus
 Gold befestigt. Das schwarze, glatte Haar war zwanglos
-zurückgestrichenen. Das bartlose Gesicht wirkte infolge der künstlichen
+zurückgestrichen. Das bartlose Gesicht wirkte infolge der künstlichen
 Augen unheimlich — wie das eines Lebenden, der jeden
 Augenblick aus seinem Sarge steigen konnte. Die Arme
 waren über der Brust gekreuzt; die Hände ebenso wie die
@@ -381,7 +381,7 @@ oder Amerika zu schaffen. Die Ausfuhr von Mumien ist ja
 seit Jahren in Ägypten streng verboten. Der Geheimrat
 hatte den Mann daher auch nicht weiter nach Namen und
 Heimat gefragt. Er war froh gewesen, dieses Prachtexemplar
-seinen Sammlungen einfügen zu können. —
+seinen Sammlungen einfügen zu können.
 
 Endlich regte Harst sich. — »Wie oft reinigen Sie diese
 vier Räume?« fragte er den Diener.
@@ -445,7 +445,7 @@ verließen die Villa, traten auf die stille Straße hinaus. —
 Wir schlenderten gemächlich weiter, so recht wie Leute, die
 ihre Arbeit getan und es nicht eilig haben. Ein Auto kam
 hinter uns her, sehr langsam, fuhr dicht am Straßenrand
-entlang. Als es mit uns auf gleicher Höhe war beugte sich
+entlang. Als es mit uns auf gleicher Höhe war, beugte sich
 der Chauffeur heraus und fragte leise:
 
 »Herr Harst?«
@@ -468,7 +468,7 @@ Burmeester läßt darum sehr bitten. Es ist etwas Neues
 geschehen. Worum es sich handelt, weiß ich nicht. Herr Professor
 Koblenz ist ein Freund des Herrn Geheimrats, und —«
 
-»Schon gut — Vorwärts!« — Wir stiegen ein.
+»Schon gut. — Vorwärts!« — Wir stiegen ein.
 
 »Was mag nur passiert sein?« meinte Harst nachdenklich.
 »Koblenz ist der berühmte Chirurg. — Na — wir werden
@@ -480,13 +480,13 @@ hinein. Wir kamen in alte, enge Gassen, bogen nun
 in eine Einfahrt ein, durchquerten drei Höfe, die überall von
 Autogaragen umsäumt waren.
 
-Harst pfiff plötzlich leise durch die Zähne. — »Eine Falle«
+Harst pfiff plötzlich leise durch die Zähne. — »Eine Falle!«
 raunte er mir zu. »Hinaus mit uns!«
 
 Er wollte die Tür öffnen. Aber — das Schloß mußte in
-Unordnung sein. Ich versuchte dasselbe — ebenfalls umsonst.
+Unordnung sein. Ich versuchte dasselbe, — ebenfalls umsonst.
 
-Harst hob schon die Faust um die Scheibe zu zertrümmern.
+Harst hob schon die Faust, um die Scheibe zu zertrümmern.
 
 Da glitt der Wagen schon in eine offene Garagentür hinein,
 die hinter uns sofort zuflog. Einen Augenblick tiefes
@@ -570,9 +570,9 @@ sich allzu sehr auf Ihrem Lager zu rühren, kippen die Platten
 hinter Ihren Köpfen um. Dadurch wird der Strom geschlossen
 und — Sie erleben eine elektrische Hinrichtung am eigenen
 Leibe! — So, nun wissen Sie Bescheid! — Ich werde Ihre
-Füße jetzt an die feststehende Platte binden und ebenso Ihre
-Oberkörper an Haken die hinter Ihnen in die Wand geschraubt
-sind. Sie sehen,« wandte er sich nun direkt an Harst
+Füße jetzt an die feststehende Platte binden, und ebenso Ihre
+Oberkörper an Haken, die hinter Ihnen in die Wand geschraubt
+sind. Sie sehen,« wandte er sich nun direkt an Harst,
 »daß wir durchaus Ihren Fähigkeiten Rechnung tragen. Sie
 sind für unternehmungslustige Leute ein sehr gefährlicher
 Feind. Deshalb haben wir auch bereits gestern diese Einrichtung
@@ -590,7 +590,7 @@ und geschmolzen.
 
 Allerdings: dieser Beweis genügte.
 
-Nun band er uns so wie er es uns angekündigt hatte,
+Nun band er uns so, wie er es uns angekündigt hatte,
 sagte noch: »Abends erhalten Sie Essen und Trinken,« und
 verließ das Zimmer.
 
@@ -609,7 +609,7 @@ von Harst, da ich mit dem Kopf zu niedrig lag.
 Eine Weile verging. Dann Harsts Stimme:
 
 »Ich begreife diese Leute nicht?! Wozu all diese Umstände?!
-Wozu diese teuflische Einrichtung die uns jede Sekunde
+Wozu diese teuflische Einrichtung, die uns jede Sekunde
 mit dem Tode bedroht?! — Hätten die Leute von mir
 das Versprechen gefordert, gegen sie nichts zu unternehmen,
 — vielleicht hätte ich’s gegeben. — Schade, daß man uns nun
@@ -619,7 +619,7 @@ nun können wir nie dahinter kommen, was die wandelnde
 Mumie bedeutet — wenn ich wenigstens eine Zigarette hätte.«
 — Er hatte all das in gewöhnlichem Tone gesprochen, weder
 zu laut, noch zu leise. Nun aber rief er, auch nicht allzu
-kräftig: »He Sie! Einen Augenblick! Ich möchte nur um
+kräftig: »He, Sie! Einen Augenblick! Ich möchte nur um
 eine Zigarette bitten!«
 
 Niemand erschien. Im Hause war’s ganz still.
@@ -647,10 +647,9 @@ Dazu kannte ich ihn zu gut.
 
 <@pagebreak/>
 
-<h3>3. Kapitel.</h3>
+<h2>3. Kapitel.</h2>
 
-Harsts Kombinationen.
----------------------
+<h3>Harsts Kombinationen.</h3>
 
 Wie endlos lang sich Minuten recken können, erfuhr ich
 heute wieder einmal. Ich wartete nämlich jetzt voller Ungeduld
@@ -690,7 +689,7 @@ hervor. — »Oh — der geht’s gut, Herr Harst! — Nicht
 wahr — Sie möchten zu gern wissen, was wir vorhaben. Nur
 Geduld! Noch ein paar Tage, und Sie werden mehr davon
 hören, als Ihnen lieb und Ihrem Ruf als genialer Detektiv
-dienlich ist. Überhaupt: ich hätte Sie für schlauer gehalten.
+dienlich ist. Überhaupt: ich hätte Sie für schlauer gehalten!
 <@pagebreak/>
 Fräulein Burmeester wird Ihnen doch fraglos heute vormittag
 auch erzählt haben, daß sie ständig überwacht wird. Wie
@@ -703,7 +702,7 @@ in Ihrer Wohnung. Damals waren Sie noch verreist. Inzwischen
 konnten wir dann hier alles zu Ihrem Empfange bereit
 machen. — Ja — Sie sehen, es gibt auch noch klügere
 Köpfe als Sie es sind. Sie können sich jetzt Ihr Hirn noch so
-sehr zermartern. Sie werden weder hinter unsere Absichten
+sehr zermartern: Sie werden weder hinter unsere Absichten
 kommen, noch vor der Zeit frei werden, — nein, erst dann,
 wenn wir von auswärts die Berliner Polizei benachrichtigen,
 daß der berühmte Harald Harst dort und dort gebunden liegt.
@@ -715,7 +714,7 @@ früh sehen wir uns wieder.«
 
 Er nahm Korb und Laterne auf, wandte sich zum Gehen.
 Kaum hatte er die Tür hinter sich geschlossen, als Harst ihm
-nachrief: —
+nachrief:
 
 »Sie — darf ich um eine Zigarette bitten? Ich bin leidenschaftlicher
 Raucher.«
@@ -735,10 +734,10 @@ ich Harsts Flüstern: »Schraut, der Kerl hat jetzt wieder
 das Haus verlassen. Nun kann’s also losgehen. — Sie
 werden fragen: »Was?« — Natürlich der Befreiungsversuch!«
 
-»Um Himmels willen — denken sie an die Gefahr,
+»Um Himmels willen — denken Sie an die Gefahr,
 die —«
 
-»Oh — daran habe ich schon gedacht. Bereits als es
+»Oh — daran habe ich schon gedacht. Bereits, als es
 <@pagebreak/>
 noch ganz hell war, als der Kerl die Gummihandschuhe überzog.
 — Ja — Gummi schützt vor elektrischen Schlägen, isoliert.
@@ -763,7 +762,7 @@ Stricke hochstreifen.«
 Ich spürte an den Füßen wieder verschiedene Rucke.
 Dann: »Ich bin frei, Schraut!« Harsts Stimme gab deutlich
 den Triumph wieder. »Das heißt: ich bin noch immer an den
-Händen und an die Mauer gefesselt, aber von der Mauer
+Händen und an die Mauer gefesselt. Aber von der Mauer
 werde ich sofort los sein.«
 
 Tatsächlich trat er sehr bald an das Kopfende meines
@@ -782,7 +781,7 @@ Gleich darauf konnte auch ich mich erheben, wurde schnell von
 meinen Handfesseln befreit.
 
 Harst gab den beiden Beamten noch verschiedene Verhaltungsmaßregeln.
-Sie sollten hier bleiben und jeden festnehmen
+Sie sollten hier bleiben und jeden festnehmen,
 der das Haus betrat. Dann ging Harst voraus; erst
 in einen Flur, nun vier Stufen abwärts; dann links in eine
 Kellerwohnung. Hier krochen wir durch ein Fenster. Wir
@@ -790,10 +789,10 @@ Kellerwohnung. Hier krochen wir durch ein Fenster. Wir
 befanden uns jetzt in einem großen Park. Ich sah ringsum
 in der Ferne Lichter schimmern.
 
-»Das Haus gehört zu der Villa des Herrn von Henkerling.«
+»Das Haus gehört zu der Villa des Herrn von Heykerling.«
 sagte Harst. »Wir befinden uns hier auf heimatlichem
 Boden — in Alt-Schmargendorf. Ein gewisser Meinert hat
-das Haus heute früh gemietet. Ich habe Henkerling vorhin
+das Haus heute früh gemietet. Ich habe Heykerling vorhin
 ausgefragt. Meinert hat sich als Ingenieur ausgegeben. Er
 wollte es mit seiner Frau bewohnen, aber erst nach ein paar
 Tagen einziehen. Heute nachmittag hat er etwas von seinen
@@ -834,7 +833,7 @@ daheim nur gesagt, daß der Maskierte seine Taschen durchsucht
 und ihm den Schlüssel der Villa abgenommen hätte. Ich
 <@pagebreak/>
 freute mich daher, als er nun wenigstens etwas den Schleier
-lüftete. —
+lüftete.
 
 »Nun, Schraut, wie denken Sie über diese ganze Geschichte?«
 begann er. »Wir haben jetzt die beste Zeit, die
@@ -845,9 +844,9 @@ Dann verreist er nach Schweden, und die Mumie wird —
 nachts lebendig, stellt sich ans Fenster und wird von zwei
 einwandfreien Zeugen gesehen. Da nun in das Museum, wie
 wir heute nachgeprüft haben, unmöglich heimlich einzudringen
-ist, ich betone dies besonders! — muß man annehmen,
+ist — ich betone dies besonders! — muß man annehmen,
 daß ein Fremder durch einen schlauen Trick sich in den Mumiensaal
-eingeschmuggelt hat und sich dort noch immer aufhält.
+eingeschmuggelt hat und sich dort noch immer aufhält,
 — denn hinaus kann er so ohne weiteres nicht, — eben
 auch nur durch einen neuen Trick. — Ich sage: er hält sich
 dort noch immer auf. Und ich habe auch Beweise dafür. —
@@ -879,7 +878,7 @@ Liebesgeschichte auch deshalb ausschalten, weil mir dabei zu
 viel Personen beteiligt sind: erstens doch der Mumiendarsteller,
 dann die schwarze Frau, die Verfolgerin, weiter noch der
 Chauffeur und unser kräftiger Gefangenwärter. Der Chauffeur
-war nämlich einer der beiden die uns mit Revolvern
+war nämlich einer der beiden, die uns mit Revolvern
 bedrohten, er hatte nur schnell eine Seidenmaske vorgebunden.
 Weiter auch, weil diese Bande mit recht kostspieligen
 Mitteln arbeitet: Auto, gemietetes Haus, — und weil
@@ -930,10 +929,9 @@ Er reichte mir ein Leinentuch, in das feuchter
 Sand oben eingebunden war. Er hatte daheim zwei von
 diesen Totschlägern hergestellt.
 
-<h3>4. Kapitel.</h3>
+<h2>4. Kapitel.</h2>
 
-Ein nächtliches Verhör.
------------------------
+<h3>Ein nächtliches Verhör.</h3>
 
 Nachdem Harst sich auf das flache Dach geschwungen hatte,
 brachte ich die Leiter auf den Hof zurück, verkroch mich dann
@@ -999,7 +997,7 @@ bist jetzt ganz sicher.« — Hier nun die Antwort, die Sie selbst
 lesen können.«
 
 Und ich las, während er mir leuchtete: »Beide waren heute
-hier. Aber mein Versteck ist sicher. Bis Rückkehr und der
+hier. Aber mein Versteck ist sicher. B’s Rückkehr und der
 große Schlag also morgen abend wahrscheinlich. Haltet Euch
 bereit. An mir soll’s nicht liegen.«
 
@@ -1015,10 +1013,10 @@ Hier nun, mittlerweile war auch der Bärtige erwacht — unterzog
 Harst diesen einem Verhör, das er mit den Worten
 einleitete:
 
-»Sie sind unser Gefangenenwärter, der angebliche Ingenieur
+»Sie sind unser Gefangenwärter, der angebliche Ingenieur
 Meinert. Sie haben nun wohl eingesehen, daß es sehr
 <@pagebreak/>
-richtig von Ihnen war mich nicht zu verhöhnen. — Wollen Sie
+richtig von Ihnen war, mich nicht zu verhöhnen. — Wollen Sie
 jetzt ein Geständnis ablegen?«
 
 Der Mensch besaß die Frechheit, Harst ins Gesicht zu
@@ -1049,10 +1047,10 @@ Laube aus und meinte nach einer Weile:
 
 »Ah — sehr interessant! Hier ist ja ein Brief, gerichtet
 an Herrn Elektrotechniker Franz Wilke, unterzeichnet mit
-Bela Matsarek; Datum vom 18. April des Jahres, Absendeort:
-Bad Pyrmont — Sieh da — Pyrmont! Wie gut,
+Bela Matsarek; Datum vom 18. April des Jahres, Absenderort:
+Bad Pyrmont. — Sieh da — Pyrmont! Wie gut,
 daß ich den Berufsdetektiv Holtz dorthin geschickt habe. —
-Schraut hören Sie den Inhalt:
+Schraut, hören Sie den Inhalt:
 
 > Lieber W!
 
@@ -1092,10 +1090,10 @@ Wir aber machten uns auf den Heimweg. Der Morgen
 graute bereits. Das Gewölk war verschwunden. Der neue
 Tag versprach das Beste.
 
-»Nun, Schraut — jetzt werden Sie mir doch wohl als
+»Nun, Schraut, — jetzt werden Sie mir doch wohl als
 mein Schüler Ehre machen und mir Ihre Ansicht über die
 wandelnde Mumie auseinandersetzen können,« sagte Harst
-gutgelaunt während wir durch die stillen Straßen wanderten.
+gutgelaunt, während wir durch die stillen Straßen wanderten.
 
 »Hm,« erklärte ich zögernd. »Das »Beide« auf den Zetteln
 bezog sich auf uns. Und die in dem ersten Zettel erwähnte
@@ -1146,10 +1144,9 @@ verbergen sollte — wirklich nicht!«
 Trick zusammen, durch den der Ungar sich dort eingeschmuggelt
 hat. — Doch — lassen wir das für morgen.«
 
-<h3>5. Kapitel</h3>
+<h2>5. Kapitel.</h2>
 
-Der große Schlag.
------------------
+<h3>Der große Schlag.</h3>
 
 Vormittags elf Uhr rief Harst Fräulein Burmeester telephonisch
 an. Sie war sehr überrascht, daß er sich meldete, und
@@ -1165,7 +1162,7 @@ in Frage gestellt werden würde.
 Weiter teilte sie Harst aber auch mit, sie habe heute früh
 <@pagebreak/>
 eine Depesche ihres Vaters erhalten, die ihr dem Inhalt nach
-recht unverständlich sei, da sie wörtlich laute: »auf Dein
+recht unverständlich sei, da sie wörtlich laute: »Auf Dein
 Telegramm hin treffe morgen abend 8 Uhr dort Stettiner
 Bahnhof ein. Bin sehr in Unruhe.« Sie hätte nämlich keinerlei
 Telegramm an ihren Vater geschickt, sagte sie recht erregt,
@@ -1188,7 +1185,7 @@ Schlüsselloches genommen hatten. — Und dann die Depesche,
 die sie an Burmeester sandten. Welche unerklärliche Frechheit,
 den Namen der Tochter als den der Absenderin darunter
 zu setzen. — Ach — ich denke, wir werden heute noch recht
-große Überraschungen erleben.«
+große Überraschungen erleben.« —
 
 Endlich war der Abend da. Kurz vor neun langten wir
 in der Villa an. Hildegard empfing uns. Der Diener war
@@ -1197,7 +1194,7 @@ Das Fräulein führte uns auf Harsts Bitte in den
 nach der Straße hinaus liegenden Salon. Wir nahmen Platz,
 und Harst begann sofort:
 
-»Es ist mir lieb, — daß ich Sie noch allein — vor Ankunft
+»Es ist mir lieb, daß ich Sie noch allein — vor Ankunft
 Ihres Vaters — sprechen kann, Fräulein Burmeester. — Gestatten
 Sie mir eine Frage: Wie haben Sie in Pyrmont die
 Bekanntschaft Bela Matsareks gemacht? Zufällig oder hat
@@ -1208,12 +1205,12 @@ lief ein Zittern hin. Mit weiten Augen stierte sie Harst ganz
 entgeistert an, stammelte nun:
 
 »Woher — woher wissen Sie, daß —« — Sie führte den
-Satz nicht zu Ende. Sie war eben ein sehr energischer Charakter;
+Satz nicht zu Ende. Sie war eben ein sehr energischer Charakter,
 überwand schnell den ersten Schreck und fuhr mit einem
 ebenso liebenswürdigen, wie bewundernden Lächeln fort: »Ich
 vergesse ganz, wem ich gegenübersitze. Es ist Harald Harst,
 <@pagebreak/>
-also ein Mann. dem nichts verborgen bleibt! — Ja — es war
+also ein Mann, dem nichts verborgen bleibt! — Ja — es war
 eine Torheit von mir, Ihnen gestern vormittag in Ihrer Wohnung
 etwas zu verheimlichen. Ich hätte mir nach der lehrreichen
 Lektion, die Sie mir gegeben hatten, sagen müssen,
@@ -1258,7 +1255,7 @@ aufsuchte und ihm die Mumie anbot. Er verschwieg dabei
 seinen Namen. Ich sah ihn vom Fenster aus, wie er die
 Villa betrat. Sonst hätte ich gar nicht —«
 
-Harst hatte sich vorbeugt. »Danke, das genügt — Wie
+Harst hatte sich verbeugt. »Danke, das genügt. — Wie
 wurde die Mumie hergeschafft? — Bitte recht eingehend alles,
 Fräulein Burmeester.«
 
@@ -1277,17 +1274,17 @@ Eneochar nun sein eigen nennen dürfe. — Am nächsten Morgen
 holten die beiden Männer die große Holzkiste ab.«
 
 »Haben Sie diese Leute gesehen? War der eine nicht
-schlank, mittelgroß; und bartlos, der andere sehr breitschultrig,
+schlank, mittelgroß und bartlos, der andere sehr breitschultrig,
 klein und bärtig?«
 
 »Ja — das stimmt, Herr Harst —«
 
 In diesem Augenblick fuhr draußen vor der Villa ein Auto
-vor, Hildegard eilte hinaus. Nach zehn Minuten trat sie
+vor. Hildegard eilte hinaus. Nach zehn Minuten trat sie
 in Begleitung des Geheimrats wieder ein.
 
 Dieser, ein kleiner, sehr nervöser Herr mit grauem Vollbart
-und Glatze, tadellos angezogen und von verbindlichem
+und Glatze, tadellos angezogen und von verbindlichstem
 Wesen, mußte dann nach den ersten, die Sachlage klärenden
 Sätzen Harst die Depesche zeigen, die er in Schweden erhalten
 hatte. — Sie lautete: »Kehre umgehend zurück. Hier mit
@@ -1312,7 +1309,7 @@ Raum des Museums zu ermöglichen. Ein sehr gescheiter Einfall
 Der Geheimrat schüttelte den Kopf. »Ich bin geradezu
 sprachlos, Herr Harst. — Aber — wo — wo soll der Mensch
 sich im Mumiensaal wohl verborgen halten?! Es gibt dort
-kein einziges Stellchen wo auch nur eine Katze sich verkriechen
+kein einziges Stellchen, wo auch nur eine Katze sich verkriechen
 —«
 
 »Halt, Herr Geheimrat!« lächelte Harst. »Sie behaupten
@@ -1416,7 +1413,7 @@ ihn zu Boden.
 Harst schnellte sich vorwärts. Zwei Sätze —, und seine
 Hände umklammerten den Hals des Verbrechers mit einer
 Kraft, daß dieser sofort von seinem Opfer abließ. — Ich tat
-meine Schuldigkeit. Stahlfesseln schnappten ein, — und Harst
+meine Schuldigkeit: Stahlfesseln schnappten ein, — und Harst
 gab den Hals Bela Matsareks frei.
 
 Der Geheimrat stand schon wieder auf den Füßen. Vor
@@ -1435,7 +1432,7 @@ Kleinodien heran, auf die Sie es von vornherein
 abgesehen hatten. Wäre ich nicht hindernd dazwischen getreten,
 hätten Sie den Tresor ausgeplündert und eiligst das
 Haus verlassen, da ja die Schlüssel dort in der Eisentür stecken.
-Ihre Genossen hätten Sie draußen mit dem Auto erwartet
+Ihre Genossen hätten Sie draußen mit dem Auto erwartet,
 und Sie wären fraglos mit Ihrer Millionenbeute entkommen.
 Jetzt aber werden Sie ins Zuchthaus wandern und dort darüber
 nachdenken können, ob es nicht besser ist, durch ehrliche
@@ -1448,5 +1445,5 @@ gab, diesen Diebstahl anderswie — ohne den Mumienverkauf
 Die »wandelnde Mumie« sitzt noch im Zuchthaus. Bela
 Matsarek hatte noch mehr auf dem Kerbholz. Zehn Jahre
 diktierte man ihm insgesamt zu. Er wird also nicht so bald
-wieder Gelegenheit haben den König Eneochar zu spielen.
+wieder Gelegenheit haben, den König Eneochar zu spielen.
 

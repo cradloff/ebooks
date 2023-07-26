@@ -116,7 +116,7 @@ Was aus Harst geworden, konnte ich nur aus Geräuschen schließen. Ich vermutete
 
 Ich gebe zu: ich hatte damals mit dem Leben abgeschlossen.
 
-Es wurde es still ringsum. Dann drangen schwache Geräusche von unten herauf: Knistern, leise Stimmen, leises Poltern.
+Nun wurde es still ringsum. Dann drangen schwache Geräusche von unten herauf: Knistern, leise Stimmen, leises Poltern.
 
 Und dann — dann drangen die ersten Rauchschwaden hoch. Beizender Qualm stieg mir in die Nase. — — Todesangst trieb mir kalten Schweiß aus allen Poren. Ich verwünschte den Schuhmacher, der doch an allem schuld war. Hätte er nicht Harst aufgesucht — hätte — hätte! — Was half alles Denken! Und trotzdem: mein Hirn klammerte sich noch immer an die schwache Hoffnung mit tausend wirren Gedanken, Harst könnte eine Möglichkeit ersinnen, uns zu retten.
 
@@ -132,7 +132,7 @@ Für mich folgten Sekunden höchster Qual. Würde Harst nicken, würden wir gere
 
 Ah — dem Himmel sei Dank! — Pinzkes Stimme wieder: »Gut — ich habe Ihr Wort! Ich schneide Sie los —«
 
-Der Qualm hatte fast ganz aufgehört. Auch ich wurde meine Fesseln los; auch die Binde vor Augen fiel. Ich sah den Schuhmacher im Alltagskittel mit einer Petroleumlaterne unter mir. Er kletterte abwärts. Nun kamen wir an den Mauerdurchbruch, an die zweite, von uns bereits festgestellte Geheimtür. Sie lag dicht über dem Boden der Esse, führte in einen durch Bretter abgeteilten Kellerraum hinter einen Stapel leerer Kisten.
+Der Qualm hatte fast ganz aufgehört. Auch ich wurde meine Fesseln los; auch die Binde vor den Augen fiel. Ich sah den Schuhmacher im Alltagskittel mit einer Petroleumlaterne unter mir. Er kletterte abwärts. Nun kamen wir an den Mauerdurchbruch, an die zweite, von uns bereits festgestellte Geheimtür. Sie lag dicht über dem Boden der Esse, führte in einen durch Bretter abgeteilten Kellerraum hinter einen Stapel leerer Kisten.
 
 Pinzke ermahnte uns, ja recht leise zu sein. Er öffnete die Lattentür des Verschlages. Draußen an der Tür war mit schwarzer Farbe der Name Hobrecht angemalt.
 
@@ -268,7 +268,7 @@ Der zweite schien doch Verdacht geschöpft zu haben. Er saß jetzt auf dem Luken
 
 Kaum war das letzte Wort verklungen, als Harst mit einem Satz oben war, den Kopf des Mannes zu packen bekam, den ganzen Kerl nach unten riß, daß er nun vor ihm auf den Stufen lag. Ich sprang zu. Ich hatte von Harst gelernt. Mein Pistolenkolben traf den Hinterkopf des Mannes. Ein Ächzen — ein Klirren. Ein offenes Messer war ihm aus der Hand gefallen. Und Harst flüsterte: »Gerade zur rechten Zeit kam Ihr Hieb, lieber Schraut. Der Kerl wollte mir das Messer in die Brust stoßen.«
 
-Zehn Minuten drauf hatten wir die vier gebunden und geknebelt. Sie trugen sämtlich falsche Vollbärte einfachste Art, mit Draht hinter den Ohren befestigt.
+Zehn Minuten drauf hatten wir die vier gebunden und geknebelt. Sie trugen sämtlich falsche Vollbärte einfachster Art, mit Draht hinter den Ohren befestigt.
 
 Der, den ich betäubt hatte, erwachte sehr bald. Aber Harst fragte ihn umsonst aus. Der Mensch — er war noch sehr jung, blieb stumm.
 
@@ -282,7 +282,7 @@ Es dauerte doch eine gute Viertelstunde, ehe wir damit fertig waren. Dafür hatt
 
 Harst stieg dann durch den Kamin bis in den Keller hinab. Die Tür nach der Straße hin öffnete uns ein Dietrich. — Der Regen hatte aufgehört. Vor dem Hause Nr. 25 hielt ein sogenannter Fleischerwagen, ein Einspänner, mit einem verdeckten Kasten hinten. Es war ein sauber lackiertes Gefährt. Auf dem Bock saß zusammengesunken der Kutscher.
 
-Ganz leise kamen wir von hinten heran. Dann ein schneller Schritt Harsts, und er hielt dem bärtigen, verschlafenden Burschen eine Pistole dicht vors Gesicht.
+Ganz leise kamen wir von hinten heran. Dann ein schneller Schritt Harsts, und er hielt dem bärtigen, verschlafenen Burschen eine Pistole dicht vors Gesicht.
 
 »Keine Bewegung! Kriminalpolizei! Herunter vom Bock!«
 
@@ -308,13 +308,13 @@ Er ließ mich nicht ausreden. »Dann kamen wir zu Pinzke in die Kellerwohnung. I
 
 Mir entschlüpfte ein etwas zweifelndes »Hm!«
 
-»Er gehört zu ihnen, Schraut! Sie werden schon gläubig werden! — Nehmen wir uns nun mal den Mord an Hugo Weigelt vor — den Mord ohne Toten! Ich nannte ihn einen Schulfall — besinnen Sie sich! Die Mörder, die ihr Opfer angeblich in dem Weidenkorb, in die Steppdecke gehüllt, weggeschafft haben sollen, lassen ausgerechnet einen abgehauenen Fingernagel mit drei rotbraunen Männerhaaren darin am Tatort zurück! Ausgerechnet mit rotbraunen Haaren! Zum Lachen ist’s. Denn diese Haare waren natürlich nur in den Fingernagel eingeklemmt worden, um die Polizei auf eine falsche Spur zu führen — nur! Ein Köder also! Doch — ich biß darauf nicht an. Ich untersuchte flüchtig im Mordzimmer das blutige Wasser in der Waschschüssel, merke sofort, daß sich darin nie ein Mensch die Hände gesäubert, sondern daß man lediglich etwas Blut in das reine Wasser gegossen hatte, um den Anschein einer Reinigungsprozedur zu erwecken —«
+»Er gehört zu ihnen, Schraut! Sie werden schon gläubig werden! — Nehmen wir uns nun mal den Mord an Hugo Weigelt vor — den Mord ohne Toten! Ich nannte ihn einen Schulfall — besinnen Sie sich! Die Mörder, die ihr Opfer angeblich in dem Weidenkorb, in die Steppdecke gehüllt, weggeschafft haben sollen, lassen ausgerechnet einen abgehauenen Fingernagel mit drei rotbraunen Männerhaaren darin am Tatort zurück! Ausgerechnet mit rotbraunen Haaren! Zum Lachen ist’s. Denn diese Haare waren natürlich nur in den Fingernagel eingeklemmt worden, um die Polizei auf eine falsche Spur zu führen — nur! Ein Köder also! Doch — ich biß darauf nicht an. Ich untersuchte flüchtig im Mordzimmer das blutige Wasser in der Waschschüssel, merkte sofort, daß sich darin nie ein Mensch die Hände gesäubert, sondern daß man lediglich etwas Blut in das reine Wasser gegossen hatte, um den Anschein einer Reinigungsprozedur zu erwecken —«
 
 »Unglaublich!« meinte ich. »Also scheint —«
 
 »Ja — eine unglaubliche Dummheit war dies!« unterbrach Harst mich. »Eine Dummheit, die im Verein mit dem abgehauenen Fingernagel alsbald in mir den Verdacht auftauchen ließ, daß — Weigelt anderswo abgeschlachtet worden ist und daß nur der Eindruck hervorgerufen werden sollte, er sei in seinem Zimmer ermordet. — Weshalb die Mörder dies wollten? Weil ein zweiter Toter, irgendwo im Freien aufgefunden, ihnen zu gefährlich dünkte, zumal die auf dem Kehrichthaufen entdeckte Leiche Weigelts Bruder Ernst ist, was durch einen Zufall hätte herauskommen können.«
 
-»Bruder? Ja — woher ?«
+»Bruder? Ja — woher — ?«
 
 »Das habe ich heute nachmittag herausgebracht. Ich erfuhr, daß Hugo Weigelt einen Bruder besaß, der genau seit sechs Tagen bei seinen Mietsleuten sich nicht mehr hat blicken lassen. Denken Sie nun an die drei rot angekreuzten Mönchsnamen der Liste und an den Zeitungsbericht über den nur mit Jacke und Hose bekleideten Toten, schließlich an den ähnlichen Mord von einem halben Jahr!«
 

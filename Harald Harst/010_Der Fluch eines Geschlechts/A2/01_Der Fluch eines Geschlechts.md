@@ -3,9 +3,9 @@
 Der Fluch eines Geschlechts.
 ============================
 
-<h3>1. Kapitel.</h3>
-Die Bulldoggen.
----------------
+<h2>1. Kapitel.</h2>
+
+<h3>Die Bulldoggen.</h3>
 
 Kommerzienrat Kammler, der Beauftragte der Wettgegner
 Harsts, war gerade bei uns, als der merkwürdige Brief
@@ -67,7 +67,7 @@ schlecht getrockneten Tinte einiger Buchstaben Puderstäubchen.
 Sie trägt auch die Fingernägel sehr lang und ganz spitz geschnitten.
 Hier sind in dem Papier die Eindrücke der Nagelspitzen.
 Schließlich noch: sie besitzt ein nicht mehr ganz neues
-Perlenhandtäschchen« — er schüttete aus dem ausgeschnittenen
+Perlenhandtäschchen« — er schüttete aus dem aufgeschnittenen
 Briefumschlag zwei winzige Glasperlen in seine flache Hand
 — »und ist aschblond, wie dieses durch den Kleister des Umschlages
 festgehaltene Härchen zeigt, das auch weiter noch
@@ -87,7 +87,7 @@ asiatica,« warf Kammler ein.
 <@pagebreak/>
 »Ganz recht. Es blieb die einzige Choleraerkrankung
 im Berliner Studentenviertel,« meinte Harst. »Die Bewohner
-des Hauses, in dem Malwack wohnte — in der Gartenstraße
+des Hauses, in dem Malwack wohnte — in der Gartenstraße,
 glaube ich, — machten unnötig eine achttägige Absperrung
 durch. — Die beiden Personen dürften fraglos Geschwister
 unserer Hilfesuchenden sein.«
@@ -102,7 +102,7 @@ sofort für länger. Thora.
 
 Harst starrte, nachdem er uns diese Absage vorgelesen
 hatte, schweigend und regungslos auf die Depesche. Dann
-nahm er den Umschlag des Briefes der neben ihm auf seinem
+nahm er den Umschlag des Briefes, der neben ihm auf seinem
 Schreibtisch lag, trat dicht ans Fenster, besichtigte ihn nochmals,
 rief dann: »Ich Stümper,« holte ein Vergrößerungsglas
 und nahm die Rückseite des Umschlages endlos lange in
@@ -124,7 +124,7 @@ läßt. Ja — es müssen mehrere sein. Einer allein bewältigt
 das alles nicht.«
 
 Kammler hatte sich dann fünf Minuten drauf kaum verabschiedet,
-als Harst an eine bekannte Speditionsfirma telefonierte:
+als Harst an eine bekannte Speditionsfirma telephonierte:
 ein Piano sollte von hier nach dem Lagerraum der
 Firma nachmittags abgeholt werden.
 
@@ -240,7 +240,7 @@ Nun — abermals dieser Ruf, den nur die höchste Todesangst
 der Brust eines Menschen auspreßt, — dann nichts
 mehr.
 
-Harst hatte meinen Arm gepackt »Thora!« flüsterte er.
+Harst hatte meinen Arm gepackt. »Thora!« flüsterte er.
 
 Da wurden droben im Garten Stimmen laut. Wir sahen
 Laternenschein zwischen den Bäumen aufblinken, hörten allerlei
@@ -289,7 +289,7 @@ wie ein Verzweifelter. Harst war kräftiger, gewandter. Und
 nun konnte auch ich eingreifen, nun hatte ich die Hände des
 Überrumpelten fest zusammengeknotet.
 
-Harst richtete ihn auf so daß er nun vor uns saß. Wir
+Harst richtete ihn auf, so daß er nun vor uns saß. Wir
 hatten einen noch jungen Menschen vor uns, dessen Kleidung
 einen ersten Schneider verriet.
 
@@ -298,7 +298,7 @@ einen ersten Schneider verriet.
 Keine Antwort. Nur die Augen des Mannes glitten immer
 wieder prüfend über uns hin.
 
-Harst faßte ihm in die Brusttasche holte ein elegantes
+Harst faßte ihm in die Brusttasche, holte ein elegantes
 Portefeuille hervor, kniete auf dem Boden des Bootes nieder,
 schaltete seine Taschenlampe ein und wollte so den Inhalt der
 Brieftasche untersuchen, damit der Lichtschein vom Ufer aus
@@ -309,7 +309,7 @@ trug, zerrte immer wieder an seinen Fesseln,
 keuchte vor Wut und Anstrengung, hob dann ganz plötzlich den
 Fuß und versetzte der in Harsts Rechter befindlichen Brieftasche
 einen solchen Schlag von unten, daß sie ins Wasser flog.
-Sie ging jedoch nicht schnell genug unter und Harst fischte sie
+Sie ging jedoch nicht schnell genug unter, und Harst fischte sie
 glücklich wieder heraus, nahm nun die in unserem Boot befindliche
 lange Kette und band damit den wieder heftig sich
 Sträubenden so an die Ruderbank fest, daß dieser ein zweites
@@ -327,15 +327,14 @@ Lampe aus, richtete sich auf, sagte in höflichstem Ton:
 Herr Berthold Müller, der heimlich Verlobte des Fräuleins
 Thora von Malwack?«
 
-<h3>2. Kapitel.</h3>
-Das Laboratorium.
------------------
+<h2>2. Kapitel.</h2>
+<h3>Das Laboratorium.</h3>
 
 Der Fremde schaute Harst durchdringend an.
 
 »Und wer sind Sie?« fragte er kurz.
 
-Harst knöpfte die Weste auf in deren Innentasche er
+Harst knöpfte die Weste auf, in deren Innentasche er
 Thoras Brief stecken hatte. — »Bitte beugen Sie sich herab,«
 sagte er und beleuchtete den Brief. »Erkennen Sie die Handschrift?«
 
@@ -383,7 +382,7 @@ heiratet.«
 
 »Ja. Aber nur postlagernd durfte ich an Thora schreiben.
 Und — von ihren Briefen ist selten einer in meine
-Hände gelangt. Sie müssen abgefangen worden sein. Wie?
+Hände gelangt. Sie müssen abgefangen worden sein. Wie? —
 das ist mir unerklärlich.«
 
 »Hat Ihre Braut eine Freundin?«
@@ -430,7 +429,7 @@ Nun zog er mich neben sich, deutete auf den hellen Kiesweg.
 Dort lagen drei dunkle Tierkörper.
 
 »Die Bulldoggen,« flüsterte er. »Ich hätte mir die Würste
-und das Betäubungsmittel mit dem ich sie getränkt habe,
+und das Betäubungsmittel, mit dem ich sie getränkt habe,
 sparen können. — Der Baron Gisbert wird die Hunde erschossen
 haben.«
 
@@ -540,7 +539,7 @@ Ich las die Schildchen. Da stand mit lateinischen Buchstaben:
 
 Bazcho, Baztet, Bazty, Bazcho, Baztet, Baztet.
 
-»Gehen wir,« meinte er ohne meinen fragenden Blick zu
+»Gehen wir,« meinte er, ohne meinen fragenden Blick zu
 beachten. »Ich weiß genug — übergenug. Allerdings noch
 nicht alles —«
 
@@ -570,10 +569,10 @@ einer der Wannseer Polizeibeamten.
 Harst blieb stehen, fragte diesen: »Entschuldigen Sie, ist
 hier etwas passiert?«
 
-— Der Mann sah sehr würdig aus, hatte einen langen
+Der Mann sah sehr würdig aus, hatte einen langen
 grauen Bart und war überraschend redselig.
 
-»Ja — ein entsetzliches Unglück — eine junge Dame
+»Ja — ein entsetzliches Unglück, — eine junge Dame
 ist von Hunden zerfleischt worden. Noch lebt sie. Der Doktor
 Heid ist noch in der Friedrichsburg. Das ist die Villa
 hier —«
@@ -603,9 +602,8 @@ Die nahe Straßenlaterne hatte des Doktors Gesicht hell
 beschienen. Es war ein frisches, schmißbedecktes Gesicht mit
 großen, ehrlichen Blauaugen.
 
-<h3>3. Kapitel.</h3>
-Ein Selbstmord.
----------------
+<h2>3. Kapitel.</h2>
+<h3>Ein Selbstmord.</h3>
 
 Doktor Heid eilte davon. Und Harst faßte mich wieder
 unter. — »Ihm nach, Schraut! Von ihm hängt alles ab!«
@@ -640,11 +638,11 @@ seine Augen das Gesicht des jungen Arztes forschend musterten:
 
 »Nein. Ich war heute zum ersten Male dort. Sanitätsrat
 Friedrich ist verreist, und daher holte man mich. — Aber
-— was soll das alles?« —
+— was soll das alles?«
 
 »Ich muß vorsichtig sein. Ihr Gesicht beruhigt mich. Sie
 lügen nicht. — Ich bin — Harald Harst, und ich bin im Interesse
-der Familie Malwack besser Fräulein Thoras, hierher
+der Familie Malwack, besser Fräulein Thoras, hierher
 gekommen. Dies ist mein Sekretär Schraut, dessen Name
 Ihnen aus den Zeitungsberichten über meine Wettaufgaben
 bekannt sein dürfte.«
@@ -652,7 +650,7 @@ bekannt sein dürfte.«
 »Ah — wirklich — Harald Harst?«
 
 »Hier — bitte mein Ausweis mit Photographie. Freilich
-ich trage zur Zeit eine Verkleidung. Eber hier ist das in dem
+ich trage zur Zeit eine Verkleidung. Aber hier ist das in dem
 Ausweis erwähnte besondere Kennzeichen.« Er streifte den
 linken Ärmel hoch. Am Unterarm hatte er eine lange
 Schnittwunde mit zackigen Rändern.
@@ -663,7 +661,7 @@ vor sich zu haben.
 »Herr Harst ich stehe ganz zu Ihrer Verfügung,« meinte
 er eifrig.
 
-»Gut. — Sie haben die Bisswunden Fräulein Thoras soeben
+»Gut. — Sie haben die Bißwunden Fräulein Thoras soeben
 verbunden. Hoffen Sie, daß sie durchkommen wird?«
 
 <@pagebreak/>
@@ -827,7 +825,7 @@ vorauszusehen, daß man auch ihn stumm machen würde, nachdem
 man bei Thora das Geschäft ziemlich glatt erledigt
 hatte.«
 
-»Sie — Sie glauben nicht, daß die Bulldoggen es waren
+»Sie — Sie glauben nicht, daß die Bulldoggen es waren,
 — sondern daß Menschen die Komtesse —«
 
 Er fiel mir ins Wort. »Doch, es waren die Hunde. Und
@@ -840,7 +838,7 @@ zu Mertens.«
 Das Pensionat gehörte einer älteren Witwe. Die Ärmste
 rang verzweifelt die Hände, weil sie fürchtete, der Selbstmord
 würde ihre Pension in Verruf bringen. Harst beruhigte sie.
-Wir nahmen gleich drei teure Zimmer und Harst bat dann,
+Wir nahmen gleich drei teure Zimmer, und Harst bat dann,
 ihn doch mal in das Zimmer Müllers zu führen. — »Als Beamter
 einer Lebensversicherungsgesellschaft verstehe ich was
 von Selbstmorden,« erklärte er etwas unklar. Aber der
@@ -850,9 +848,9 @@ wo Gröber bis zum Eintreffen des Arztes und des Gemeindevorstehers
 Wache halten mußte. Er hatte nichts dagegen,
 daß wir uns den Toten ansahen. Die Mertens war wieder davongeeilt.
 
-Müller lag im Nachthemd im Bett war bis zur halben
+Müller lag im Nachthemd im Bett, war bis zur halben
 Brust zugedeckt. Auf dem Nachttischchen am Kopfende des
-Bettes stand unter anderem ein Glas in dem ein milchiger
+Bettes stand unter anderem ein Glas, in dem ein milchiger
 Rest einer Flüssigkeit am Boden zu bemerken war. Neben
 dem Glase aber lag ein Bogen Papier, Oktavformat; darauf
 war zu lesen — mit Tinte geschrieben:
@@ -885,7 +883,7 @@ und sagte flüsternd:
 »Doktor Heid kennt uns schon. Sie haben doch nichts dagegen,
 daß ich mich hier etwas umsehe. Bitte treten Sie alle
 in jene Ecke neben den Ofen. Und — bitte verpflichten Sie
-Gröber zu strengstem Stillschweigen Herr Gemeindevorsteher.
+Gröber zu strengstem Stillschweigen, Herr Gemeindevorsteher.
 Er ist etwas redselig, und — hier liegt Mord, nicht Selbstmord
 vor!«
 
@@ -903,8 +901,8 @@ Ich glaubte wahrzunehmen, daß die Haut rings um die
 Brustwarze sich etwas spannte.
 
 Harst zog Müller jetzt das Nachthemd vollends aus, besichtigte
-die Haut der Arme; der Brust, des Halses und des
-Gesichts mit einer Sorgfalt, als suche er etwas ganz Besondres.
+die Haut der Arme, der Brust, des Halses und des
+Gesichts mit einer Sorgfalt, als suche er etwas ganz Besonderes.
 
 Nachdem er dann noch im Zimmer alles Mögliche sich mit
 gleichem Interesse angeschaut hatte, so die Feder des Federhalters,
@@ -940,9 +938,8 @@ mit, wir würden morgen abend einziehen. Er zahlte die Miete
 für eine Woche voraus, und die Mertens strahlte. Sie war so
 in Angst gewesen, ihr Pensionat könnte nun leer bleiben.
 
-<h3>4. Kapitel.</h3>
-Heids Patientin.
-----------------
+<h2>4. Kapitel.</h2>
+<h3>Heids Patientin.</h3>
 
 Wir kamen dann gerade über die Brücke, die die Verbindung
 zwischen den beiden Seen überwölbt, als Doktor Heid
@@ -990,7 +987,7 @@ die Hunde in seiner Wut niederschoß.
 »Haben die Bulldoggen vielleicht mal irgend ein kleineres
 Raubwild zerrissen?« forschte Harst weiter.
 
-»Ja —, vor zwei Tagen einen zahmen Fuchs. Meiner
+»Ja — vor zwei Tagen einen zahmen Fuchs. Meiner
 Schwester Wilhelma gehörte er. Er wurde in einem Käfig
 gehalten. Wie die Hunde, deren größter Feind er war, ihn
 töten konnten, ist uns unerklärlich. Es muß jemand sie in
@@ -1019,7 +1016,7 @@ eben eine heimliche Neigung zu Dir gefaßt,« sagte er zu mir.
 Ruhe lassen.« — Eine Weile fiel mir dann auch nichts auf.
 Aber eines Tages, als ich mich in Potsdam mit Bert, meinem
 Bräutigam, traf, war er wieder hinter uns her, verschwand
-jedoch als ich mich zum zweiten Mal nach ihm umdrehte. Auch
+jedoch, als ich mich zum zweiten Mal nach ihm umdrehte. Auch
 im Garten hat er mich stets sozusagen beaufsichtigt. Immer
 ist er in der Nähe, wenn —«
 
@@ -1040,7 +1037,7 @@ eine Sage sein, obwohl der Onkel daran zu glauben scheint.«
 »Im sogenannten blauen Saal im ersten Stock in einem
 Eichenschrank.«
 
-In diesem Augenblicke trat Frau Doktor Heid ein,
+In diesem Augenblick trat Frau Doktor Heid ein,
 flüsterte:
 
 »Der Diener des Barons ist im Wartezimmer. Er will
@@ -1048,7 +1045,7 @@ Bescheid haben, ob der Baron seine Nichte sehen kann.«
 
 »Bestellen Sie, daß er sie sehen, aber nicht sprechen dürfe,
 da sie noch zu schwach ist,« erklärte Harst. »Bitte kommen Sie
-dann wieder hierher. Frau Doktor.«
+dann wieder hierher, Frau Doktor.«
 
 Als sie erschien, sagte Harst: »Sie bleiben hier im Zimmer,
 Frau Doktor. Unter keinen Umständen verlassen Sie es. Sie
@@ -1093,13 +1090,13 @@ Nach einer halben Stunde trat Heid endlich ein. »Er
 lebt!« rief er ganz glücklich. »Er hat auch bereits zu Protokoll
 gegeben, daß er nie an Selbstmord gedacht und daß der
 Zettel nicht von ihm herrührt, der auf dem Schreibtisch lag.
-— In dem Wasserglas befindet sich am Boden Arsensik, wie ich
+— In dem Wasserglas befindet sich am Boden Arsenik, wie ich
 festgestellt habe. — Eine recht mysteriöse Geschichte.«
 
 »Keineswegs, Herr Doktor,« sagte Harst gelassen. »Sogar
-eine sehr ungeschickte Geschichte — Die Arseniklösung,
+eine sehr ungeschickte Geschichte. — Die Arseniklösung,
 die man in dem Glase eingerührt hatte, ist in den Spüleimer
-gegossen worden. Die Tinte mit der die Selbstmordankündigung
+gegossen worden. Die Tinte, mit der die Selbstmordankündigung
 geschrieben wurde, ist schwarze Kaisertinte, während
 das Schreibzeug Eisengallustinte enthält. Die Handschrift ist
 von Leuten gefälscht, die Briefe Müllers an seine Braut abgefangen
@@ -1118,8 +1115,8 @@ nicht erhärteten Teeranhäufung. Die Gummiecke ist mit drei
 Nägeln befestigt. — Also: Mordversuch!«
 
 Doktor Heid stand ganz versteinert da. »Sie — Sie
-übertreffen noch meine Erwartungen Herr Harst,« sagte er
-nun kopfschüttelnd. »Nie hätte ich gedacht daß es so geniale —«
+übertreffen noch meine Erwartungen, Herr Harst,« sagte er
+nun kopfschüttelnd. »Nie hätte ich gedacht, daß es so geniale —«
 
 Harst wehrte lächelnd ab. »Keine Schmeicheleien! —
 Wir sind ja erst zur Hälfte mit diesem Fall fertig. Ich betone:
@@ -1136,7 +1133,7 @@ die unter Ihrer Aufsicht, besser von Ihrer Gattin allein und
 von Vorräten bereitet sind, die bereits im Hause vorhanden.
 Schließlich: wir werden die Nacht über hier wachen, das heißt
 im Salon hinter dem Klavier, aber es ist möglich, daß wir
-erst sehr spät kommen können. Lassen Sie also Haus und
+erst sehr spät kommen können. Lassen Sie also Haus- und
 Flurtür auf. Brennen Sie aber kein Licht in der Wohnung.
 Tun Sie, als wären Sie zeitig wie immer schlafen gegangen.
 Sollte der Baron heute nochmals hier erscheinen, so können
@@ -1153,7 +1150,7 @@ bringen.«
 und irgend jemand für die Nacht zu sich nehmen — vielleicht
 den Hausdiener. Aber all das ganz unauffällig.« — Harst erhob
 sich. »Ich habe jetzt ein starkes Bedürfnis nach Schlaf.
-— Also — auf Wiedersehen Herr Doktor.«
+— Also — auf Wiedersehen, Herr Doktor.«
 
 Heid hielt Harsts Rechte in der seinen fest, bat:
 
@@ -1170,7 +1167,7 @@ sich hin mit gesenktem Kopf.
 
 »Wenn ich nur wüßte, wie ich ohne die Depesche nach
 Transvaal auskäme,« meinte er dann. »Sie wäre ja tagelang
-unterwegs. Und ebenso die Antwort — Gewiß — wenn
+unterwegs. Und ebenso die Antwort. — Gewiß — wenn
 wir eine Photographie fänden, — wenn! Aber — wie nur
 an das Album herangelangen? — Wir müßten es gerade stehlen.
 Schließlich ließe sich auch das vielleicht bewerkstelligen.«
@@ -1181,9 +1178,8 @@ Wir stehlen’s! Und wir machen auch dabei gleich die Probe
 aufs Exempel. Der Baron hatte seine Farm dicht bei Keetmannshoop.
 Wir werden die Afrikakenner spielen.«
 
-<h3>5. Kapitel</h3>
-Der lange Stock.
-----------------
+<h2>5. Kapitel</h2>
+<h3>Der lange Stock.</h3>
 
 Wir schliefen bis gegen drei nachmittags. Dann mußte
 uns Frau Höppner eine einfache Mahlzeit zubereiten, und
@@ -1198,7 +1194,7 @@ Der Diener ließ sich die Namen nennen — Brüder Ernst
 und Oskar Hevelke, Versicherungsbeamte, — führte uns ins
 Haus und hieß uns auf der sehr prunkvollen Diele warten,
 kehrte sehr bald zurück und geleitete uns in den Garten, wo
-der Baron in einem Liegestuhl neben sich einen gedeckten
+der Baron in einem Liegestuhl, neben sich einen gedeckten
 Kaffeetisch, unter einer Kastanie saß.
 
 <@pagebreak/>
@@ -1212,11 +1208,11 @@ können. Mein Bruder und ich waren vor fünf Jahren längere
 Zeit im Auftrage einer englischen Versicherungsgesellschaft
 in Keetmannshoop, lernten dort einen Baron von Malwack
 flüchtig kennen und hofften nun hier in Ihnen diesen
-Herrn wiederzufinden der sich dann vielleicht hätte versichern
+Herrn wiederzufinden, der sich dann vielleicht hätte versichern
 lassen. Man verdient doch gern die Provision. Entschuldigen
 Sie also gütigst, Herr Baron. Wir sind ganz zufällig auf
 Ihren Namen aufmerksam geworden. Wir wohnen als Sommergäste
-bei dem Maurer Höppner und durch das gestrige
+bei dem Maurer Höppner, und durch das gestrige
 Unglück mit den Hunden —«
 
 »Oh — da bedarf es doch keiner Entschuldigungen, meine
@@ -1226,7 +1222,7 @@ der damals auf meiner Farm als Jagdgast weilte. Ich
 bin ja auch alter Transvaaler.«
 
 Mir fiel es auf, daß er dann sofort das Thema wechselte. Harst
-verabschiedete sich bald, fragte dann aber noch zögernd
+verabschiedete sich bald, fragte dann aber noch zögernd,
 ob der Herr Baron nicht doch vielleicht Lust hätte, sein Leben
 versichern zu lassen. — Doch der lachte zwanglos, meinte:
 »Für wen wohl? Ich bin Junggeselle und habe für mich
@@ -1245,7 +1241,7 @@ von dem Diebstahl abgesehen. Wir hätten ihn vielleicht ermöglicht,
 wenn wir uns das Haus hätten zeigen lassen. Nun
 — wir sind um eine Schwierigkeit herumgekommen. Dieser
 Baron ist entweder nie in Afrika gewesen oder hat guten
-Grund diese Erinnerungen nicht aufzufrischen. Deshalb vermied
+Grund, diese Erinnerungen nicht aufzufrischen. Deshalb vermied
 er ein Gespräch über Keetmannshoop. Die Hauptsache:
 er ist harmlos geblieben und — ich kann mir auch die Depesche
 sparen.«
@@ -1264,7 +1260,7 @@ war selbst hier. Habe über Schlafpulver gesprochen.«
 
 Harst nickte zufrieden. »Die Falle wäre gestellt. Der
 Fuchs wird hineintappen. Es fragt sich nur, welcher aus dem
-großen Fuchsbau es sein wird.« —
+großen Fuchsbau es sein wird.«
 
 Um zehn schlichen wir in das Haus des Doktors hinein.
 Er wohnte hochparterre.
@@ -1277,7 +1273,7 @@ Dann begaben wir uns in den Salon. Harst nahm den
 falschen Bart ab, so daß sein glattrasiertes Gesicht zum Vorschein
 kam, band um die Stirn eine Serviette, legte Jackett,
 Kragen und Schlips ab, versteckte dies alles, öffnete den einen
-Fensterflügel, setzte sich auf den Rand des Bettes, indem noch
+Fensterflügel, setzte sich auf den Rand des Bettes, in dem noch
 die Betten lagen, und hieß mich hinter dem Klavier auf einem
 Stuhl Posto fassen. Zwei Paar stählerne Handfesseln trug ich
 in der Tasche, und Harst sagte, sich solle sie bereit halten, sobald
@@ -1292,7 +1288,7 @@ Zeit, mir alles zu überlegen, was mit diesem Fall zusammenhing.
 Ich wußte jetzt, daß Harst den Baron beargwöhnte.
 Aber ganz klar sah ich noch immer nicht.
 
-Eine Stutzuhr an einer Vitrine links von mir schlug
+Eine Stutzuhr auf einer Vitrine links von mir schlug
 zwölf. Ich saß so, daß ich mich nur halb aufzurichten brauchte,
 um durch die Lücke in den Büchern hindurchzuspähen. Ich tat’s
 sehr oft. Und als die Uhr ausgeschlagen hatte, abermals.
@@ -1313,7 +1309,7 @@ Abermals bewegte sich der Vorhang. Eine Gestalt erschien.
 Sie verharrte regungslos dicht am Fenster. Dann
 hantierte sie vorsichtig mit etwas herum, das wie ein Stock
 aussah, der sich immer mehr verlängerte. Es war fraglos
-ein Angelstock aus mehreren ineinander zu schiebenden
+ein Angelstock aus mehreren, ineinander zu schiebenden
 Teilen.
 
 Harst lag mit dem Gesicht nach den Fenstern hin. Er
@@ -1346,9 +1342,10 @@ völlig Überraschten.
 
 Doch dieser Mensch hatte Riesenkräfte. Ein Faustschlag
 traf Harsts Stirn, daß er zurückflog. Und gedankenschnell
-schwang der Fremde sich aus den Fensterkopf, wollte hinausspringen.
-Wollte! — Harsts Hände bekamen ihn gerade nach an den
-Schultern zu packen rissen ihn zurück, glitten nach dem
+schwang der Fremde sich auf den Fensterkopf, wollte hinausspringen.
+
+Wollte! — Harsts Hände bekamen ihn gerade noch an den
+Schultern zu packen, rissen ihn zurück, glitten nach dem
 Halse hin.
 
 Ein schweres Ächzen, und dann konnte ich dem halb Bewußtlosen
@@ -1430,7 +1427,7 @@ Bechert,« meinte Harst. »Holen Sie ihn herein, Schraut.«
 Der Kriminalkommissar raunte mir schon im Flur zu:
 »Der Gärtner hat alles gestanden. Nun ist die Bande geliefert!«
 
-Bechert warf einen langen Blicks auf den Daliegenden.
+Bechert warf einen langen Blick auf den Daliegenden.
 
 »Schade — daß die Folter abgeschafft ist,« sagte er zu ihm
 voller Abscheu. »Sie hätten sie verdient, Sie Bestie in Menschengestalt!
@@ -1455,14 +1452,14 @@ ertränkt, den jungen Baron, den Studenten, durch
 Cholerabazillen hingemordet, Baronesse Thora sollten die Hunde
 zerfleischen, und ihren Verlobten sollte gestern der Gärtner
 vergiften. Auch darin stimmt Herrn Harsts Vermutung, daß
-Sie Thora von Malmack das Tetanusgift in die Wunden
+Sie Thora von Malwack das Tetanusgift in die Wunden
 bringen wollten, damit sie an Wundstarrkrampf eingehe.
 Jeder von Ihnen hat gemordet oder zu morden versucht, nur
 des Dieners Frau, die Köchin noch nicht. Aber auch sie sollte
 gleich schuldig werden und später die jüngste der Schwestern
 irgendwie den anderen folgen lassen. Um diesen Morden ein
 abergläubisches Mäntelchen umzuhängen, erfanden Sie die
-Geschichte von dem Fluche des Geschlechts derer von Malmack.
+Geschichte von dem Fluche des Geschlechts derer von Malwack.
 — So — nun wird die Welt von Ihnen befreit werden —
 endlich, und das haben wir nur Harald Harst zu verdanken.
 Ein verbrecherisches Genie wie Sie konnte auch nur durch ein
