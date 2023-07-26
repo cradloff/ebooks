@@ -26,7 +26,7 @@ Harst erklärte zu diesem Schreiben: »Die Dame ist noch recht jung; harmlos; na
 
 Ich stand am Fenster, sah nun einen Depeschenboten unseren Vorgarten betreten. Er brachte ein Stadttelegramm für Harst. Es war auf dem Postamt Leipzigerplatz aufgegeben, und der Inhalt war folgender:
 
-> Bitte nicht kommen. Anders überlegt. Verreise sofort für länger.   Thora.
+> Bitte nicht kommen. Anders überlegt. Verreise sofort für länger. Thora.
 
 Harst starrte, nachdem er uns diese Absage vorgelesen hatte, schweigend und regungslos auf die Depesche. Dann nahm er den Umschlag des Briefes, der neben ihm auf seinem Schreibtisch lag, trat dicht ans Fenster, besichtigte ihn nochmals, rief dann: »Ich Stümper,« holte ein Vergrößerungsglas und nahm die Rückseite des Umschlages endlos lange in Augenschein, wandte sich uns nun zu und meinte: »Dieser Umschlag ist heimlich geöffnet und ebenso geschickt wieder zugeklebt worden, und die Depesche ist natürlich — gefälscht! Irgend jemand hat ein Interesse daran, daß ich mit Thora nicht zusammentreffe. Sie hätte nun, wenn ich diese Absage für echt gehalten hätte, mehrere Abende umsonst gewartet und wäre schließlich überzeugt gewesen, ich wolle ihr nicht helfen. — Hm — unser Haus dürfte jetzt vielleicht auch sehr scharf bewacht werden. Wir können daher auch nur unter allerlei Vorsichtsmaßregeln nach Wannsee hinaus. — Es wird ein recht interessantes Unternehmen werden, diese Rettungsaktion, denn ich bin der Meinung, wir haben es hier mit einer größeren Bande zu tun, die Briefe abfängt, öffnet, wieder schließt, Depeschen fälscht und — Thora nie aus den Augen läßt. Ja — es müssen mehrere sein. Einer allein bewältigt das alles nicht.« —
 
@@ -36,7 +36,7 @@ Wir hatten im Schuppen im Gemüsegarten eine leere Klavierkiste zu stehen. — H
 
 Nachmittags nagelte Frau Auguste Harst, meines Brotherrn Mutter, die Kiste eigenhändig zu. Eine Viertelstunde drauf erschienen drei Männer und schleppten sie davon.
 
-Der Spediteur ließ sie in seinen Speicher bringen. Als seine Leute diesen verlassen hatten, nahm er ein kleines Brecheisen und wuchtete den Deckel ab. — Nun konnten wir wieder hinaus. Harst dankte dem Spediteur für die freundliche Unterstützung, und durch eine Seitenpforte des Speichers schlüpften wir ins Freie. Wir trugen die Verkleidung älterer Herren, kauften in Berlin zwei Koffer und verschiedenes andere ein und waren gegen halb sieben in Wannsee, diesem idyllisch schönen Villenort, dessen Lage an zwei waldumsäumten Seen ihn mit Recht zu einem beliebten Nachmittagausflugsort macht. Eine Stunde später hatten wir uns in einem kleinen Häuschen am äußersten Ende der Elsenstraße bei einfachen Leuten — einem Maurer — als Sommergäste eingemietet. Vorher aber hatte Harst noch in einem Fleischgeschäft drei Leberwürste erstanden und war auch noch in der Apotheke gewesen.
+Der Spediteur ließ sie in seinen Speicher bringen. Als seine Leute diesen verlassen hatten, nahm er ein kleines Brecheisen und wuchtete den Deckel ab. — Nun konnten wir wieder hinaus. Harst dankte dem Spediteur für die freundliche Unterstützung, und durch eine Seitenpforte des Speichers schlüpften wir ins Freie. Wir trugen die Verkleidung älterer Herren, kauften in Berlin zwei Koffer und verschiedenes andere ein und waren gegen halb sieben in Wannsee, diesem idyllisch schönen Villenort, dessen Lage an zwei waldumsäumten Seen ihn mit Recht zu einem beliebten Nachmittagsausflugsort macht. Eine Stunde später hatten wir uns in einem kleinen Häuschen am äußersten Ende der Elsenstraße bei einfachen Leuten — einem Maurer — als Sommergäste eingemietet. Vorher aber hatte Harst noch in einem Fleischgeschäft drei Leberwürste erstanden und war auch noch in der Apotheke gewesen.
 
 Unser Wirt Höppner war ein schon bejahrter Mann, dabei aber noch sehr rüstig. Harst biederte sich sofort mit ihm an. Wir hatten uns als Brüder namens Hevelke ausgegeben, wollten Angestellte einer Versicherungsgesellschaft sein und hier unseren Urlaub verleben.
 
@@ -50,7 +50,7 @@ Aber als wir kurz vor elf das Haus heimlich durch das niedrige Fenster unseres Z
 
 Unten am See lag ein kleines Boot, das Höppner gehörte und zu dem er uns den Schlüssel gegeben hatte. Auch die beiden Ruder waren darin mit einer langen Kette an die Ruderbänke angeschlossen.
 
-Wir trieben das Boot langsam am Ufer entlang und kamen sehr bald — nach kaum vier Minuten, an die bis zum Wasser hinabreichende Mauer des Malwackschen Grundstücks. Höppner hatte uns von dieser Mauer erzählt und geäußert, heutzutage lasse kein Mensch mehr so dicke und so hohe Mauern bauen, dazu käme der Spaß zu teuer. Wir sahen nun auch — die Nacht war ziemlich hell — den zur Friedrichsburg gehörenden Anlegesteg, neben dem ein Badehäuschen weit in den See hinaus errichtet war. Sehr leise legten wir an dem Stege an einem dort befestigten Segelkutter an und warteten nun. Ein halbe Stunde verstrich. Dann — ganz plötzlich von der oben auf dem hohen Ufer liegenden Friedrichsburg her das wütende Bellen mehrere Hunde, nein, mehr ein drohendes Aufheulen war’s, und dann — ein so entsetzlicher Schrei aus weiblichem Munde, das mir förmlich das Blut in den Adern gerann.
+Wir trieben das Boot langsam am Ufer entlang und kamen sehr bald — nach kaum vier Minuten, an die bis zum Wasser hinabreichende Mauer des Malwackschen Grundstücks. Höppner hatte uns von dieser Mauer erzählt und geäußert, heutzutage lasse kein Mensch mehr so dicke und so hohe Mauern bauen, dazu käme der Spaß zu teuer. Wir sahen nun auch — die Nacht war ziemlich hell — den zur Friedrichsburg gehörenden Anlegesteg, neben dem ein Badehäuschen weit in den See hinaus errichtet war. Sehr leise legten wir an dem Stege an einem dort befestigten Segelkutter an und warteten nun. Eine halbe Stunde verstrich. Dann — ganz plötzlich von der oben auf dem hohen Ufer liegenden Friedrichsburg her das wütende Bellen mehrerer Hunde, nein, mehr ein drohendes Aufheulen war’s und dann — ein so entsetzlicher Schrei aus weiblichem Munde, das mir förmlich das Blut in den Adern gerann.
 
 Nun — abermals dieser Ruf, den nur die höchste Todesangst der Brust eines Menschen auspreßt, — dann nichts mehr.
 
@@ -64,7 +64,7 @@ Da wurden droben im Garten Stimmen laut. Wir sahen Laternenschein zwischen den B
 
 Er schwieg. Sein Blick starrte nach rechts — nach der Mitte des Sees hin. Dort lag ein dunkles Etwas — ein Boot.
 
-Harst griff zu den Rudern. »Schraut — jenem Boot nach, — steuern Sie gut —«
+Harst griff zu den Rudern. »Schraut — jenem Boote nach, — steuern Sie gut —«
 
 Er verstand die Riemen zu gebrauchen. Er zog mit äußerster Kraft durch. Ich steuerte erst noch im Schatten der Bäume dicht am Ufer entlang und dann im Bogen auf das andere Boot zu. — »Gut so!« lobte Harst. »Wenn wir nahe genug heran sind, dann den Menschen darin anrufen und mit einer Kugel drohen.«
 
@@ -116,7 +116,7 @@ Harst ließ sich nun von Müller erzählen, wann und wo dieser Thora von Malwack
 
 »Haben Sie häufiger Briefe gewechselt?«
 
-»Ja. Aber nur postlagernd durfte ich an Thora schreiben. Und — von ihren Briefen ist selten einer in meine Hände gelangt. Sie müssen abgefangen worden sein. Wie? — Das ist mir unerklärlich.«
+»Ja. Aber nur postlagernd durfte ich an Thora schreiben. Und — von ihren Briefen ist selten einer in meine Hände gelangt. Sie müssen abgefangen worden sein. Wie? — das ist mir unerklärlich.«
 
 »Hat Ihre Braut eine Freundin?«
 
@@ -158,7 +158,7 @@ Harst hielt den Mantel noch immer hoch. Dann mußte ich seine Lampe ihm abnehmen
 
 Ich las die Schildchen. Da stand mit lateinischen Buchstaben:
 
-> *Bazcho, Baztet, Bazty, Bazcho, Baztet, Baztet.*
+Bazcho, Baztet, Bazty, Bazcho, Baztet, Baztet.
 
 »Gehen wir,« meinte er, ohne meinen fragenden Blick zu beachten. »Ich weiß genug — übergenug. Allerdings noch nicht alles —«
 
@@ -262,7 +262,7 @@ Es war jetzt sechs Uhr morgens. Wir gingen die Elsenstraße hinunter. In der Fri
 
 Er sprach Gröber an, sagte, wer wir seien — Versicherungsbeamte auf Urlaub und leidenschaftliche Angler, — fragte, wo man die Erlaubnis zum Angeln im Kleinen Wannsee bekäme, und gelangte auf Umwegen unauffällig zu den Ereignissen der verflossenen Nacht.
 
-Gröber ließ sich genau so leicht ausholen wie unser biederer Wirt. Wir hörten sehr viel Gutes über den Baron Gisbert, weniger Gutes über dessen Diener Franz Thomas, den er sich aus Transvaal mitgebracht hatte, wo er Farmbesitzer gewesen. Dann befand sich nach Gröbers Angaben noch ein Gärtner im Hause, ein jüngerer Mensch namens Max Berg, der gleichzeitig Kutscher bei den beiden Pferden war. Schließlich noch eine Köchin Ulrike Bilz, eine ältere Personen, die ebenso unfreundlich wäre wie der hochmütige Diener Franz Thomas.
+Gröber ließ sich genau so leicht ausholen wie unser biederer Wirt. Wir hörten sehr viel Gutes über den Baron Gisbert, weniger Gutes über dessen Diener Franz Thomas, den er sich aus Transvaal mitgebracht hatte, wo er Farmbesitzer gewesen. Dann befand sich nach Gröbers Angaben noch ein Gärtner im Hause, ein jüngerer Mensch namens Max Berg, der gleichzeitig Kutscher bei den beiden Pferden war. Schließlich noch eine Köchin Ulrike Bilz, eine ältere Person, die ebenso unfreundlich wäre wie der hochmütige Diener Franz Thomas.
 
 Gröber plauderte gern. Der Baron hatte ihm heute wieder zehn Mark geschenkt, weil er so schnell zur Stelle gewesen und den Doktor Heid geholt hatte.
 
@@ -310,9 +310,9 @@ Der Gemeindevorsteher, der ja gleichzeitig auch die höchste Polizeigewalt des O
 
 Dann öffnete er die Tür, schaute hinaus, schloß sie wieder und sagte flüsternd:
 
-»Doktor Heid kennt uns schon. Sie haben doch nichts dagegen, daß ich mich hier etwas umsehe. Bitte treten Sie alle in jener Ecke neben den Ofen. Und — bitte verpflichten Sie Gröber zu strengstem Stillschweigen, Herr Gemeindevorsteher. Er ist etwas redselig, und — hier liegt Mord, nicht Selbstmord vor!«
+»Doktor Heid kennt uns schon. Sie haben doch nichts dagegen, daß ich mich hier etwas umsehe. Bitte treten Sie alle in jene Ecke neben den Ofen. Und — bitte verpflichten Sie Gröber zu strengstem Stillschweigen, Herr Gemeindevorsteher. Er ist etwas redselig, und — hier liegt Mord, nicht Selbstmord vor!«
 
-Der Gemeindevorsteher erklärte bereitwilligst, sich ganz Harsts Anordnungen zu unterwerfen. »Bei Ihrer Berühmtheit, Herr Harst!« fügte er respektvoll zu.
+Der Gemeindevorsteher erklärte bereitwilligst, sich ganz Harsts Anordnungen zu unterwerfen. »Bei Ihrer Berühmtheit, Herr Harst!« fügte er respektvoll hinzu.
 
 Wir, die wir in der Ofenecke standen, bekamen allerlei zu sehen. Harst begann mit der Untersuchung des Toten. Plötzlich richtete er sich auf, holte vom Schreibtisch Siegellack, entblößte Müllers Brust noch mehr und ließ ein brennendes Tröpfchen des roten Lacks auf die linke Brustwarze fallen.
 
@@ -322,7 +322,7 @@ Harst zog Müller jetzt das Nachthemd vollends aus, besichtigte die Haut der Arm
 
 Nachdem er dann noch im Zimmer alles Mögliche sich mit gleichem Interesse angeschaut hatte, so die Feder des Federhalters, die Tinte im Schreibzeug, das Fensterbrett und auch den Spüleimer, wandte er sich an Doktor Heid.
 
-»Der Mann hat sich nicht vergiftet, sondern ist durch das indianische Pfeilgift Kurare in einen starrkrampfähnlichen Zustand versetzt worden, der regelmäßig den Tod nach sich zieht, wenn nicht alsbald die Nervenlähmung durch elektrische Behandlung beseitigt wird. — Schnell also, Herr Doktor. Tun sie das Nötige. Aber — absolutes Schweigen! Sie wissen!«
+»Der Mann hat sich nicht vergiftet, sondern ist durch das indianische Pfeilgift Kurare in einen starrkrampfähnlichen Zustand versetzt worden, der regelmäßig den Tod nach sich zieht, wenn nicht alsbald die Nervenlähmung durch elektrische Behandlung beseitigt wird. — Schnell also, Herr Doktor. Tun Sie das Nötige. Aber — absolutes Schweigen! Sie wissen!«
 
 Heid lief schon hinaus, um seine Elektrisiermaschine zu holen.
 
@@ -378,7 +378,7 @@ In diesem Augenblick trat Frau Doktor Heid ein, flüsterte:
 
 Als sie erschien, sagte Harst: »Sie bleiben hier im Zimmer, Frau Doktor. Unter keinen Umständen verlassen Sie es. Sie dulden auch nicht einmal, daß der Baron etwa seine Nichte auf die Stirn küßt. Am besten, Sie setzen sich hier ans Bett und rühren sich nicht weg. — Wir, Schraut und ich, werden dort das Piano anders stellen, damit wir dahinter Platz haben. Oben auf das Instrument werde ich Bücher so aufstellen, daß kleine Spalten zum Durchsehen frei bleiben. — Fragen Sie jetzt nichts. Ich tue alles im Interesse der Baronesse und auch aus Interesse für deren Onkel.« — Die beiden Damen merkten wohl kaum den feinen Unterschied, den Harst machte: einmal »im Interesse«, dann »aus Interesse«! Ich — merkte ihn! Aber — klüger wurde ich dadurch auch nicht. —
 
-Eine Viertelstunde später klopfte es an die Salontür. Frau Held rief Herein.
+Eine Viertelstunde später klopfte es an die Salontür. Frau Heid rief Herein.
 
 Der Baron war ein schlanker, eleganter, älterer Herr mit graumeliertem Spitzbart, sehr liebenswürdig, sehr gewandt: er küßte Frau Heid die Hand.
 
@@ -388,7 +388,7 @@ Kaum war er hinaus, jetzt begleitet von der jungen Arztfrau, als Harst auch scho
 
 Wir warteten dann in Heids Sprechzimmer auf seine Rückkehr. Harst benutzte die Zeit und untersuchte die vier Rosen. — »Ich finde nichts. Trotzdem ist es besser, sie werden verbrannt,« meinte er. Und er tat es eigenhändig im Ofen, indem er Papier aus dem Papierkorb hineinstopfte und es anzündete.
 
-Nach einer halben Stunde trat Heid endlich ein. »Er lebt!« rief er ganz glücklich. »Er hat auch bereits zu Protokoll gegeben, daß er nie an Selbstmord gedacht und daß der Zettel nicht von ihm herrührt, der auf dem Schreibtisch lag. — In dem Wasserglas befindet sich am Boden Arsenik, wie ich festgestellt habe. — Eine Recht mysteriöse Geschichte.«
+Nach einer halben Stunde trat Heid endlich ein. »Er lebt!« rief er ganz glücklich. »Er hat auch bereits zu Protokoll gegeben, daß er nie an Selbstmord gedacht und daß der Zettel nicht von ihm herrührt, der auf dem Schreibtisch lag. — In dem Wasserglas befindet sich am Boden Arsenik, wie ich festgestellt habe. — Eine recht mysteriöse Geschichte.«
 
 »Keineswegs, Herr Doktor,« sagte Harst gelassen. »Sogar eine sehr ungeschickte Geschichte. — Die Arseniklösung, die man in dem Glase eingerührt hatte, ist in den Spüleimer gegossen worden. Die Tinte, mit der die Selbstmordankündigung geschrieben wurde, ist schwarze Kaisertinte, während das Schreibzeug Eisengallustinte enthält. Die Handschrift ist von Leuten gefälscht, die Briefe Müllers an seine Braut abgefangen haben und so leicht imstande waren, Schreibübungen nach diesen Mustern zu machen. Das Kurare-Gift ist ihm durch einen Nadelstich in die linke Halsseite beigebracht worden. Die Haut zeigt dort auch zwei Mückenstiche. Der Schlafende wird den Stich also für eine Mücke gehalten haben. Der, der die Nadel handhabte, ist durch das offen gelassene linke Fenster mit Hilfe einer Leiter eingestiegen. Die Eindrücke der Leiterenden sind unter dem Fenster zu erkennen, ebenso auch der scharfe Abdruck eines Absatzes mit Gummiecke dicht daneben in einer vom Dach herabgetropften, noch nicht erhärteten Teeranhäufung. Die Gummiecke ist mit drei Nägeln befestigt. — Also: Mordversuch!«
 
@@ -428,7 +428,7 @@ Harst tat nun sehr verlegen. »Entschuldigen Sie, Herr Baron, — wir haben uns 
 
 »Oh — da bedarf es doch keiner Entschuldigungen, meine Herren, wirklich nicht. — Also in Keetmannshoop waren Sie mal. Na — dann haben Sie dort meinen Vetter kennen gelernt, der damals auf meiner Farm als Jagdgast weilte. Ich bin ja auch alter Transvaaler.«
 
-Mir fiel es auf, daß er dann sofort das Thema wechselte. Harst verabschiedete sich bald, fragte dann aber noch zögern, ob der Herr Baron nicht doch vielleicht Lust hätte, sein Leben versichern zu lassen. — Doch der lachte zwanglos, meinte: »Für wen wohl? Ich bin Junggeselle und habe für mich übergenug. Nein, so leid es mir tut, meine Herren, aber —«
+Mir fiel es auf, daß er dann sofort das Thema wechselte. Harst verabschiedete sich bald, fragte dann aber noch zögernd, ob der Herr Baron nicht doch vielleicht Lust hätte, sein Leben versichern zu lassen. — Doch der lachte zwanglos, meinte: »Für wen wohl? Ich bin Junggeselle und habe für mich übergenug. Nein, so leid es mir tut, meine Herren, aber —«
 
 »Und Ihre Hausangestellten, Herr Baron?«
 
@@ -440,7 +440,7 @@ Wir gingen wieder. Auf der Straße sagte Harst:
 
 Wir suchten das Postamt auf, und Harst rief die Berliner Kriminalpolizei an, bat um sechs Beamte für die Nacht, denen er abends neun Uhr auf dem Bahnhof Wannsee die nötigen Weisungen geben würde.
 
-Bis gegen 7 Uhr abends ruderten wir auf dem Kleinen Wannseer herum, lediglich, um uns die Zeit zu vertreiben. Bei Höppners fanden wir dann einen Brief des Doktors, versiegelt, darin nur seine Visitenkarte mit den Worten: »Er war selbst hier. Habe über Schlafpulver gesprochen.«
+Bis gegen 7 Uhr abends ruderten wir auf dem Kleinen Wannsee herum, lediglich, um uns die Zeit zu vertreiben. Bei Höppners fanden wir dann einen Brief des Doktors, versiegelt, darin nur seine Visitenkarte mit den Worten: »Er war selbst hier. Habe über Schlafpulver gesprochen.«
 
 Harst nickte zufrieden. »Die Falle wäre gestellt. Der Fuchs wird hineintappen. Es fragt sich nur, welcher aus dem großen Fuchsbau es sein wird.«
 
@@ -498,7 +498,7 @@ Harst trat näher. »Ja — Spione! Und der andere bin ich. Ich heiße Harald Ha
 
 Das Gesicht des Barons wurde starr und um einen Schatten blasser. Er schaute zur Seite.
 
-»Also Harald Harst bin ich, den die Baronesse zu Hilfe gerufen hat gegen Sie und Ihre Verbündeten, Sie — Massenmörder! Ich kenne Ihr geheimes Laboratorium. Dort fand ich ein Gestell mit Reagenzgläschen — Cholerabazillen und Tetanus- oder Wundstarrkrampfbazillen, dort aber auch den zerrissenen, blutigen Mantel der Baronesse. Sie Ungeheuer — Sie haben absichtlich die Hunde auf den Fuchs scharf gemacht, haben dann dem Mantel durch irgend ein Mittel dieselbe Raubtierausdünstung so kräftig beigebracht, daß die Bulldoggen nicht die Witterung der Komtesse gestern nacht bekamen, sondern die des ihnen verhaßten Fuchses. Und da sind sie auf das arme Weib losgestürzt, ließen erst von ihr ab, als sie am Boden lag und als nun die menschliche Witterung die andere übertäubte. Ich habe noch deutlich den Raubtiergeruch an dem Mantel gespürt. Und nur deshalb haben Sie ihn in das Geheimgemacht getragen, weil Sie diesen Geruch als verräterisch fürchteten. Der Mantel sollte eben verschwinden. Sie wußten, daß die Baronesse mich treffen wollte. Sie oder einer Ihrer Genossen hat ja den Brief geöffnet und mir dann die gefälschte Depesche gesandt. Sie wollten Thora ermorden, ebenso wie Sie ihren Verlobten beseitigen wollten und — wie Sie den Studenten Malwack, die ältere Baronesse und all die anderen Mitglieder der Familie schon beseitigt haben, um Erbe des großen Familienvermögens zu werden.«
+»Also Harald Harst bin ich, den die Baronesse zu Hilfe gerufen hat gegen Sie und Ihre Verbündeten, Sie — Massenmörder! Ich kenne Ihr geheimes Laboratorium. Dort fand ich ein Gestell mit Reagenzgläschen — Cholerabazillen und Tetanus- oder Wundstarrkrampfbazillen, dort aber auch den zerrissenen, blutigen Mantel der Baronesse. Sie Ungeheuer — Sie haben absichtlich die Hunde auf den Fuchs scharf gemacht, haben dann dem Mantel durch irgend ein Mittel dieselbe Raubtierausdünstung so kräftig beigebracht, daß die Bulldoggen nicht die Witterung der Komtesse gestern nacht bekamen, sondern die des ihnen verhaßten Fuchses. Und da sind sie auf das arme Weib losgestürzt, ließen erst von ihr ab, als sie am Boden lag und als nun die menschliche Witterung die andere übertäubte. Ich habe noch deutlich den Raubtiergeruch an dem Mantel gespürt. Und nur deshalb haben Sie ihn in das Geheimgemach getragen, weil Sie diesen Geruch als verräterisch fürchteten. Der Mantel sollte eben verschwinden. Sie wußten, daß die Baronesse mich treffen wollte. Sie oder einer Ihrer Genossen hat ja den Brief geöffnet und mir dann die gefälschte Depesche gesandt. Sie wollten Thora ermorden, ebenso wie Sie ihren Verlobten beseitigen wollten und — wie Sie den Studenten Malwack, die ältere Baronesse und all die anderen Mitglieder der Familie schon beseitigt haben, um Erbe des großen Familienvermögens zu werden.«
 
 »Lächerlich!« rief der Gefesselte dazwischen. Aber es klang sehr kleinlaut.
 
@@ -512,7 +512,7 @@ Der Kriminalkommissar raunte mir schon im Flur zu: »Der Gärtner hat alles gest
 
 Bechert warf einen langen Blick auf den Daliegenden.
 
-»Schade — daß die Folter abgeschafft ist,« sagte er zu ihm voller Abscheu. »Sie hätten sie verdient, Sie Bestie in Menschengestalt! Sie heißen in Wirklichkeit Paul Melzer, waren Arzt in Keetmannshoop, wurden wegen allerlei Betrügereien eingesperrt, entwarfen dann den Plan, sich des großen Vermögens der Malwacks zu bemächtigen, dangen sich drei ebenso verkommene Existenzen zu Verbündeten, rüsteten sie mit Giften aus, schickten sie hierher und ließen durch den jetzigen Diener erst den alten Baron und dann das Ehepaar beseitigen. Einzelheiten will ich mir jetzt schenken. Sie kannten den Baron Gisbert persönlich, wußten auch, daß er hier Vormund werden sollte. Als er nach Deutschland abreisen wollte, haben Sie ihn in Kapstadt ermordet, ihm sein Geld, seine Papiere abgenommen, haben sich als Baron ausgegeben, konnten es auch ganz ruhig, da dieser seit zwanzig Jahren dauernd in Transvaal gelebt hatte und weil eine entfernte Ähnlichkeit mit ihm diesen Betrug erleichterte. Die ältere Baronesse haben Sie mit eigener Hand im Badehäuschen der Friedrichsburg ertränkt, den jungen Baron, den Studenten, durch Cholerabazillen hingemordet, Baronesse Thora sollten die Hunde zerfleischen, und ihren Verlobten sollte gestern der Gärtner vergiften. Auch darin stimmt Herrn Harsts Vermutung, daß Sie Thora von Malwack das Tetanusgift in die Wunden bringen wollten, damit sie an Wundstarrkrampf eingehe. Jeder von Ihnen hat gemordet oder zu Morden versucht, nur des Dieners Frau, die Köchin, noch nicht. Aber auch sie sollte gleich schuldig werden und später die jüngste der Schwestern irgendwie den anderen folgen lassen. Um diesen Morden ein abergläubisches Mäntelchen umzuhängen, erfanden Sie die Geschichte von dem Fluche des Geschlechts derer von Malwack. — So — nun wird die Welt von Ihnen befreit werden — endlich, und das haben wir nur Harald Harst zu verdanken. Ein verbrecherisches Genie wie Sie konnte auch nur durch ein Genie entlarvt werden.«
+»Schade — daß die Folter abgeschafft ist,« sagte er zu ihm voller Abscheu. »Sie hätten sie verdient, Sie Bestie in Menschengestalt! Sie heißen in Wirklichkeit Paul Melzer, waren Arzt in Keetmannshoop, wurden wegen allerlei Betrügereien eingesperrt, entwarfen dann den Plan, sich des großen Vermögens der Malwacks zu bemächtigen, dangen sich drei ebenso verkommene Existenzen zu Verbündeten, rüsteten sie mit Giften aus, schickten sie hierher und ließen durch den jetzigen Diener erst den alten Baron und dann das Ehepaar beseitigen. Einzelheiten will ich mir jetzt schenken. Sie kannten den Baron Gisbert persönlich, wußten auch, daß er hier Vormund werden sollte. Als er nach Deutschland abreisen wollte, haben Sie ihn in Kapstadt ermordet, ihm sein Geld, seine Papiere abgenommen, haben sich als Baron ausgegeben, konnten es auch ganz ruhig, da dieser seit zwanzig Jahren dauernd in Transvaal gelebt hatte und weil eine entfernte Ähnlichkeit mit ihm diesen Betrug erleichterte. Die ältere Baronesse haben Sie mit eigener Hand im Badehäuschen der Friedrichsburg ertränkt, den jungen Baron, den Studenten, durch Cholerabazillen hingemordet, Baronesse Thora sollten die Hunde zerfleischen, und ihren Verlobten sollte gestern der Gärtner vergiften. Auch darin stimmt Herrn Harsts Vermutung, daß Sie Thora von Malwack das Tetanusgift in die Wunden bringen wollten, damit sie an Wundstarrkrampf eingehe. Jeder von Ihnen hat gemordet oder zu morden versucht, nur des Dieners Frau, die Köchin, noch nicht. Aber auch sie sollte gleich schuldig werden und später die jüngste der Schwestern irgendwie den anderen folgen lassen. Um diesen Morden ein abergläubisches Mäntelchen umzuhängen, erfanden Sie die Geschichte von dem Fluche des Geschlechts derer von Malwack. — So — nun wird die Welt von Ihnen befreit werden — endlich, und das haben wir nur Harald Harst zu verdanken. Ein verbrecherisches Genie wie Sie konnte auch nur durch ein Genie entlarvt werden.«
 
 Harst und ich gingen durch die stillen, friedlichen Straßen Wannsees heim nach unserem Sommerquartier.
 
