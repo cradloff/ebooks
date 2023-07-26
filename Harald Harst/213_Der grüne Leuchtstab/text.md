@@ -29,7 +29,7 @@ das unsere dicke Mathilde Punkt zwölf auftragen sollte,
 in die Klappe zu kriechen und den versäumten Schlaf nachzuholen.
 
 Man soll, wenn man Blücherstraße 10 wohnt, sich nie
-ein festes Programm machen. Es kommt ja doch immer anders,
+ein festes Programm machen. Es kommt ja doch immer anders.
 
 So auch jetzt …
 
@@ -198,7 +198,7 @@ Inder recht energisch.
 »Führen Sie uns in sein Zimmer … Wahrscheinlich
 liegt es diesem hier gerade gegenüber.«
 
-Frau Menke nickte nur, —
+Frau Menke nickte nur. —
 
 Harald schraubte den Ofen auf und fischte aus der Glut
 und der gelblichen Asche ein paar Blechstreifen heraus,
@@ -281,7 +281,7 @@ Angabe genau sechzig Steine erlesenster Reinheit umfaßte?«
 *Drake*, sehr zaudernd:
 
 »Ich war 1925 monatelang in Ostasien, in Indien und
-in Afrika, — Kennen Sie Swakopmund in der ehemals deutschen
+in Afrika. — Kennen Sie Swakopmund in der ehemals deutschen
 Kolonie Südwestafrika? Nein? — Nun, dort kaufte ich
 die sechzig Steine von einem Chinesen, der sie angeblich in
 Kapland rechtmäßig erworben hatte. Ich zahlte eine runde
@@ -396,7 +396,7 @@ Da sagte Harald in seiner selbstverständlichen Art:
 Zimmers, nicht wahr? — Sie wollten dort sofort mit dem
 Aufräumen beginnen, und dabei fanden Sie den Toten …«
 
-»Er…würgt … erwürgt …« stammelte Frau Menke,
+»Er…würgt … erwürgt …« stammelte Frau Menke.
 »Einen Strick um den Hals, und … auf der Stirn etwas
 Weißes …«
 
@@ -430,7 +430,7 @@ die den Körper völlig verdeckten, so daß nur der
 Kopf und der Hals mit dem dünnen, dunklen Strick zu sehen
 waren.
 
-Und — noch etwas,
+Und — noch etwas.
 
 Etwas sehr Merkwürdiges … —
 
@@ -438,7 +438,7 @@ Wir beide haben doch gewiß schon Ermordete unter den
 seltsamsten Begleitumständen aufgefunden …
 
 Hier klebte an der Stirn des Toten eine breitgedrückte,
-große weiße Spinne, —
+große weiße Spinne. —
 
 Es gibt in Zentralindien, besonders in dem sumpfigen
 Gebiet von Radawapur eine Spinnenart, die etwa die Größe
@@ -451,7 +451,7 @@ dasselbe besagt: die Stinkende! Im übrigen zeichnet diese
 Spinne sich durch eine weitere unangenehme Eigenschaft aus:
 sie besitzt einen Giftstachel, und mit dieser Waffe überwältigt
 sie selbst die große indische Moschusratte, saugt ihren Opfern
-das Blut aus und frißt lediglich … die Afterteile,
+das Blut aus und frißt lediglich … die Afterteile.
 
 Eine solche Odoranta bestialis war dem toten Inder gleichsam
 an die Stirn geklebt, offenbar durch einen Fausthieb dort
@@ -466,7 +466,7 @@ können. Jetzt rief dieser Pesthauch bei mir geradezu ein Gefühl
 der Übelkeit hervor, und ich war Harald dankbar, daß er
 mir sein Zigarettenetui hinhielt und mir auch Feuer gab.
 Mit der glimmenden Zigarette im Munde trat er näher an
-den Schrank heran und betrachtete die Spinne genauer,
+den Schrank heran und betrachtete die Spinne genauer.
 
 <@pagebreak/>
 Wahrhaftig — sie bewegte nahm huschend die Beine, die
@@ -477,7 +477,7 @@ Leben!
 
 Harst trat zurück und ging zum Schreibtisch, nahm den
 Hörer vom Tischapparat und rief das Berliner Polizeipräsidium
-an,
+an.
 
 Kommissar Doktor Lücke von der Mordkommission meldete
 sich. Harald teilte ihm kurz das Geschehene mit. Lücke wollte
@@ -485,7 +485,7 @@ mit seinen Beamten sofort aufbrechen. Immerhin hatten
 wir beide noch eine Viertelstunde Zeit, — Zeit genug,
 um uns über diesen Mord miteinander auszusprechen.
 
-Harst hatte sich in den Schreibsessel gesetzt,
+Harst hatte sich in den Schreibsessel gesetzt.
 
 »Nun müssen wir also den Mörder Chiwasaras suchen —
 und sowohl Drakes Vermögen und Edelsteine, als auch die
@@ -494,7 +494,7 @@ beziffert sich also auf viele Millionen, und wenn er damit
 unbehelligt entweichen könnte, wäre dies eine ungeheure
 Blamage für uns und Lücke, der freilich nicht der Mann
 ist, einem Schurken dieses Kalibers von den Fersen zu
-gehen. Ich bin neugierig, wie er die Sache Angehen wird.
+gehen. Ich bin neugierig, wie er die Sache angehen wird.
 Im großen und ganzen liegt der Fall ja ziemlich klar …«
 
 »Du meinst, daß …«
@@ -547,7 +547,7 @@ Und mit drei langen Schritten war er an der Flurtür
 Tür ohne weiteres auf, und ich, der dicht hinter ihm war,
 erblickte mitten im Zimmer neben dem zurückgeschlagenen
 Teppich eins der Mädchen des Pensionats am Boden knien,
-das eifrig eine Bohnerbürste handhabte,
+das eifrig eine Bohnerbürste handhabte.
 
 Es war ein vielleicht fünfundzwanzigjähriges, hageres,
 mittelgroßes Mädchen mit einem eigenartig häßlichen, aber
@@ -577,7 +577,7 @@ Schritte vortrat:
 »Ich säuberte nur sein Zimmer, Herr …«
 
 Die Stimme war dünn und klanglos, das Deutsch hart
-und gebrochen,
+und gebrochen.
 
 »Wissen Sie, daß Doktor Chiwasara tot ist?«
 
@@ -616,10 +616,10 @@ kaufen …«
 »Schade … — Nun, dann muß ich mich mit Zündhölzern
 begnügen,« — und Harald machte der Russin eine
 leichte Verbeugung und trat in den Flur zurück, drückte die
-Tür zu und begab sich wieder in des Inders Zimmer, —
+Tür zu und begab sich wieder in des Inders Zimmer. —
 
 Dies waren die Begleitumstände, unter denen der grüne
-Leuchtstab zum ersten Male erwähnt wurde,
+Leuchtstab zum ersten Male erwähnt wurde.
 
 <@pagebreak/>
 
@@ -641,7 +641,7 @@ Marmorstatuen, Torsos einst prächtiger Chiwa-Bildnisse.
 Noch immer trug Madame das schwarze, höchst unmoderne
 Spitzenhäubchen auf der braunen Perücke. Das spitznasige
 Geschichtchen hatte vielleicht ein paar Falten dazu bekommen,
-zeigte jedoch wie früher den Ausdruck liebenswürdiger Pfiffigkeit,
+zeigte jedoch wie früher den Ausdruck liebenswürdiger Pfiffigkeit.
 
 Wir hatten allen Grund, hier nicht als Harst und
 Schraut aufzutreten und sahen uns selber daher nicht wenig
@@ -676,7 +676,7 @@ Chiwa-Statue aus dem Latmi-Tempel, die 1924 gestohlen
 wurden, wahrscheinlich durch den Mischling Agitu, der noch
 unzählige andere Namen führte und der auch einige Zeit als
 Türkin bei mir wohnte, ohne daß ich ahnte, wer in den
-Weiberröcken steckte,«
+Weiberröcken steckte.«
 
 Harald zog die Augenbrauen etwas hoch. »Sie haben
 ein tadelloses Gedächtnis, meine kleine Alte!! Unter diesen
@@ -689,7 +689,7 @@ in Afrika von einem Chinesen …«
 <@pagebreak/>
 »Das kann Agitu gewesen sein, oder besser: Agi Tu, was
 so viel wie Herr der See bedeutet,« fiel Madame Harald
-ins Wort,
+ins Wort.
 
 »Möglich … — Der Amerikaner wurde in Berlin um
 seine Steine bestohlen, wandte sich an uns, und wir stellten
@@ -715,7 +715,7 @@ des Aufenthalts: Tempelstudien.
 Am 15. April warf ich diese Sonja hinaus, lieber Harst,
 da sie jede Nacht wegblieb und da ich zuletzt feststellte, daß
 sie ein verkleideter Mann war. Was aus ihr geworden, weiß
-Ich nicht.«
+ich nicht.«
 
 »Aber ich …!« meinte Harald gemütlich. »Sie hat eben
 Mr. Drake, den Amerikaner, weiter im Auge behalten, trat
@@ -785,7 +785,7 @@ Lakai, ich werde mit Brocken abgefunden, ich werde …«
 Es hatte geklopft … Ein brauner Diener trat ein und
 meldete:
 
-»Memsahib, neue Gäste … Hier die Karte«
+»Memsahib, neue Gäste … Hier die Karte.«
 
 Die Rouviere nahm sie, las …
 
@@ -799,7 +799,7 @@ sie sich an den Diener, »wieviel Personen sind’s?«
 
 »Ein Ehepaar, ein Kind von etwa zehn Jahren und die
 Erzieherin, Memsahib. Die Herrschaften warten vorn im
-Gesellschaftszimmer,«
+Gesellschaftszimmer.«
 
 Madame rauschte davon …
 
@@ -957,14 +957,14 @@ Ladeninhaber selbst hockte auf der Straße und hämmerte
 eine Sichel zurecht, wobei er immerfort kräftig auf den Stahl
 spuckte, was offenbar eine Art Berufsgeheimnis war, denn
 wenn wir hinschauten, hörte er mit dieser Art Anfeuchtung
-sofort auf und warf uns einen ärgerlichen Blick zu,
+sofort auf und warf uns einen ärgerlichen Blick zu.
 
 Es regnete. Aber hier standen wir unter einem Balkon
 im Trockenen, und die Scheibe des Schaufensters bot den
 <@pagebreak/>
 Vorteil, als Spiegel zu wirken und uns drüben, wo ein
 Stück Mauer mit einer Gitterpforte einen der vielen Eingänge
-zum Garten des Latmi-Tempels bildete,
+zum Garten des Latmi-Tempels bildete.
 
 Über diese Pforte war vor wenigen Minuten ein
 zerlumpter kleiner brauner Bengel hinweggeklettert. Madame
@@ -1043,7 +1043,7 @@ einer Mauer, deren Krone dicht mit lebenden heiligen Affen
 besetzt war, erhob sich der uralte Marmorprachtbau des
 Latmi-Tempels mit seiner vergoldeten Kuppel, deren Wert
 — das Gold soll einen halben Zentimeter dick sein — auf
-zehn Millionen Rupien geschätzt wird,
+zehn Millionen Rupien geschätzt wird.
 
 <@pagebreak/>
 Die breite Pforte in der Mauer war offen. Aber an
@@ -1175,7 +1175,7 @@ Da stand plötzlich klar vor meinem Geiste jene Szene,
 als das Mädchen im Pensionat Menke uns den Leuchtstab
 mit der grünen Zelluloidhülle gezeigt, den Deckel unten
 abgeschraubt und darauf hingewiesen hatte, daß die Batterie
-fehle
+fehle.
 
 Leuchtstab! — Suchen? — Das brauchten wir nicht.
 Wir hatten ihn bisher nur übersehen. Auf dem Nachttischchen
@@ -1297,7 +1297,7 @@ gleichgültig.
 
 »Bald nach dem Ende des Weltkrieges …«
 
-»und der Name jener Russin?«
+»Und der Name jener Russin?«
 
 »Trina Malewskaja …«
 
@@ -1356,7 +1356,7 @@ festhalten … Genaues darüber weiß ich nicht.«
 »Es genügt mir,« meinte Harald.
 
 »Jetzt …« — er hatte sich erhoben — »möchte ich die
-geplünderte Schatzkammer sehen …
+geplünderte Schatzkammer sehen …«
 
 Auch der Greis stand auf. Seine klaren Augen glitten
 über unsere Gesichter hin. »Meine Herren, wenn ich nicht
@@ -1399,7 +1399,7 @@ steht, ist eine Marmorwand in Gestalt eines nach hinten
 gekrümmten Bogens aufgestellt, deren oberer Rand mit
 allerlei seltsamen, nicht näher zu bezeichnenden Skulpturen
 geschmückt ist, die dem Europäerauge widerwärtig und obszön
-erscheinen mögen,
+erscheinen mögen.
 
 <@pagebreak/>
 Diese Wand verdeckt ein in den Marmorboden eingelassenes
@@ -1418,7 +1418,7 @@ gebildet durch einen Kanal vom Ganges her: der sogenannte
 Kalla Maschnu, der See der Seelenvereinigung.
 
 Am Ufer lag ein Bretterkahn, grellrot bemalt. Fünf
-Brahmanen hielten hier Wache,
+Brahmanen hielten hier Wache.
 
 Wir bestiegen mit dem Greise den Nachen und landeten
 an einer Felsgrotte mitten im Teiche, die nur dazu dient,
@@ -1463,7 +1463,7 @@ Sie und … daß er sie anderen verraten hat. Ein Verliebter
 verrät manches.«
 
 Und er faßte in die Innentasche seines Mantels und
-holte sein Zigarettenetui hervor,
+holte sein Zigarettenetui hervor.
 
 Ohne Mirakulum gibt es für ihn keine Hirnarbeit.
 
@@ -1476,15 +1476,15 @@ war geschlossen. Die Toten wurden nicht berührt.«
 
 »Nein — nichts wurde berührt,« nickte der Greis. »Nur
 den offenen Schrank durchsuchte ich. Sie sehen die Ebenholzkästen.
-Einer fehlt. Er enthielt die Steine,«
+Einer fehlt. Er enthielt die Steine.«
 
 »Wie lange haben die Wächter hier jedesmal auszuharren?«
 
-»Zwölf Stunden,«
+»Zwölf Stunden.«
 
 »Mit einer Laterne?«
 
-»Ja, dort steht sie: eine alte Öllampe«
+»Ja, dort steht sie: eine alte Öllampe.«
 
 »Die Wächter sind bewaffnet?«
 
@@ -1624,7 +1624,7 @@ Der Oberpriester war einverstanden. Er stieg die Leiter
 empor und verschwand.
 
 Wir waren mit den in den Sandelholzschränken aufgehäuften
-ungeheuren Schätzen und den Toten allein,
+ungeheuren Schätzen und den Toten allein.
 
 Harst nahm eine frische Zigarette. »So ganz recht war
 es Seiner Heiligkeit doch nicht, daß wir hier ohne Zeugen
@@ -1678,7 +1678,7 @@ größten Zweifler genügen dürfte.«
 »Unbedingt!« nickte ich …
 
 Und — — »Unbedingt!« sagte eine Stimme stark ironisch
-Hinter uns. — Wir drehten uns um …
+hinter uns. — Wir drehten uns um …
 
 Nein — wir fuhren herum …
 
@@ -1737,7 +1737,7 @@ herbei, der würdige Herr Wandra Andra, Mandrill, —
 weiß Gott, den Namen habe ich vergessen. Seine Hoheit
 der Oberpriester gab mir einen Führer mit … da bin ich …«
 
-»und woher kommen Sie?«
+»Und woher kommen Sie?«
 
 »Aus dem neuen feudalen Touristenhotel, wo ich tipp
 topp soupiert habe — in erlesenster Gaunernachbarschaft …«
@@ -1772,7 +1772,7 @@ den winkligen Gassen der Eingeborenenstadt verduftet. Immerhin:
 da war eine Mauer, über die sie hinwegvoltigiert sein
 mußten, und diese Mauer gehörte, wie mir ein brauner
 Gepäckträger erklärte, zum Latmi-Tempel. Deshalb kam ich
-Hierher, zumal mir Madame Rouviere vorher schon … —
+hierher, zumal mir Madame Rouviere vorher schon … —
 aber ich gerate ins Schwatzen, ich jage Hoteldiebe, und ich
 erwische auch den Mörder aus der Evastraße 2. Ein netter
 Erfolg.«
@@ -1805,14 +1805,14 @@ Mann, der freilich nicht ganz an Ihren Ruhm heranreicht
 
 Globing vertrug schon eine Portion Frechheit, denn er
 war bei der Verteilung der Intelligenz derart zu kurz gekommen,
-daß er getrost minderbegabt genannt werden konnte,
+daß er getrost minderbegabt genannt werden konnte.
 
 Er machte Lücke eine sehr steife Verbeugung. Worauf
 Lücke vor Ehrfurcht wie ein Taschenmesser zusammenzuckte
 und sagte: »Sehr angenehm …« — was zum »guten Ton«
 vieler Leute gehört, die sich nie darüber klar werden, daß
 dieses »Sehr angenehm« bei einer Vorstellung eine gräßliche
-Entgleisung ist,
+Entgleisung ist.
 
 Dann klappte Lücke wieder nach oben, starrte Globing
 durch sein Monokel durchdringend an und meinte: »Ich
@@ -1882,7 +1882,7 @@ und stierte über den breiten heiligen Ganges hinweg …
 
 <h2>3. Kapitel.</h2>
 
-<h3>Das Märchen vom sprechenden Krokodil</h3>
+<h3>Das Märchen vom sprechenden Krokodil.</h3>
 
 »Harst, wir sind doch keine Säuglinge!« sagte Lücke aus
 seiner Sofaecke heraus. »Bitte ein Viertel Wasser und drei
@@ -1909,7 +1909,7 @@ etwa ebenso viel bedeutet wie für Kleinasien und Arabien
 Bagdad: das heißt, in Dawalla herrschte einst ein König,
 der ebenso viel in Märchen verherrlicht wurde wie Harun
 al Raschid in Tausendundeine Nacht. Dieser König Gulbesti
-Ming Murwada
+Ming Murwada …«
 
 »… Geben Sie mir den Grog, und hören Sie mit
 Ihrer Weisheit über diese ollen toten Herren auf … —
@@ -2018,7 +2018,7 @@ nickte ihm freundlich zu und löste sich in Rauch auf. —
 In der Felsspalte aber lagen ungezählte Edelsteine, die
 einstmals durch die Wasser eines Baches gerade hier aufgehäuft
 worden waren. Die Spalte war die reichste Diamantenmine,
-die es je gegeben,«
+die es je gegeben.«
 
 Lücke sprang hastig auf. »Harst, ich verstehe …
 »Miene« in dem Brief bedeutet die »Mine«, und
@@ -2081,7 +2081,7 @@ Der Dawalla-Dschungel ist Staatseigentum und eine Art
 Naturpark. Eine Unzahl von Jagdhütten, in denen braune
 Wildhüter einsam hausen, bedeuten für dieses endlose Gebiet
 die einzigen Anzeichen von Kultur. Die Jagdhüter schießen
-das Raubzeug ab, allerdings ohne viel Erfolg, denn nur Zu
+das Raubzeug ab, allerdings ohne viel Erfolg, denn nur zu
 häufig brechen Tiger und Panther in die umliegenden
 Dörfer ein, worüber sich in Benares niemand weiter aufregt.
 
@@ -2124,7 +2124,7 @@ infolge der starken Chinindosis, die wir als Verbeugung
 gegen die Malaria genommen, die Schädel gehörig brummten.
 — Für Doktor Lücke war all dies Abenteuerlich-Romantische
 völlig neu. Er betonte immer wieder, daß er erst
-Jetzt unsere Sehnsucht nach Indien so recht begriffe.
+jetzt unsere Sehnsucht nach Indien so recht begriffe.
 
 <@pagebreak/>
 Während Lücke und ich das Zelt wohnlich machten
@@ -2142,7 +2142,7 @@ meldete er etwas zerstreut. »Oder doch … Komm’ mal mit.«
 Er führte mich in die große Halle, die einst, wie auch der
 Holländer Gugleners berichtet, tatsächlich über und über
 mit Edelstein verkleidet gewesen. Jetzt — kahle, feuchte,
-Rissige Mauern … Unkraut, Schlingpflanzen, Schlangen,
+rissige Mauern … Unkraut, Schlingpflanzen, Schlangen,
 Spinnen, Vögel …: Ruine!
 
 Harst deutete auf den sechseckigen Marmorblock, auf
@@ -2246,12 +2246,12 @@ den Vernichter, verehrt, der gleichzeitig für euch in dem
 Sinnbild des Lingam die schaffende, zeugende Kraft darstellt!
 Lächerliche Widersprüche!«
 
-Der Oberpriester blieb stumm,
+Der Oberpriester blieb stumm.
 
 »Entscheide dich!« gellte die schrille Weiberstimme wieder.
 
 Harst erhob sich … Wir hatten die Clementpistolen
-bereit … Wir zerschnitten die hintere Zeltbahn. — — und
+bereit … Wir zerschnitten die hintere Zeltbahn — — und
 sahen …
 
 <@pagebreak/>
@@ -2329,7 +2329,7 @@ Minuten weg, als die beiden Frauen und Gudunow ihn
 hatten überrumpeln wollen. Er schoß die Ältere und Gudunow
 nieder, strauchelte dann jedoch über eine Ranke und
 ward von der Blonden überwältigt — nachher auch der
-Oberpriester,
+Oberpriester.
 
 Als wir die drei Toten später bis zum Eintreffen
 der Polizei aus Benares in der Vorhalle nebeneinander
