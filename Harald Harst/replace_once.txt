@@ -86,6 +86,7 @@ Nr,	Nr.
 »Ob	»Oh
 …\s-	… —
 …\s\?	…?
+Napitel	Kapitel
 …«\s-	…« —
 \.\.\.\s?1	…!
 \?\s[1!]	?!
