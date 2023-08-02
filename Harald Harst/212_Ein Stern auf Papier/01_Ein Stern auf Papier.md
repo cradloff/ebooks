@@ -313,7 +313,7 @@ liegt kein Grund vor! Ich war nicht Ihretwegen dort oben!«
 <h2>2. Kapitel.</h2>
 <h3>Die kleinen Mädels.</h3>
 
-Er setzte setzte wieder in seinen Klubsessel und lächelte
+Er setzte sich wieder in seinen Klubsessel und lächelte
 noch immer. Dann wandte er sich mir zu. »Weißt du,
 wir sind und bleiben klägliche Anfänger. Man lernt nie
 aus, nie!!« Und zu Ramski: »Auch Sie sind auf die
@@ -473,7 +473,7 @@ an, daß ich weiter daran teilnehmen möchte, nicht als Ihr
 Statist …! Dazu bin ich vielleicht zu schade. Wenn Sie
 mich morgen anständig gekleidet wiedersehen, werden Sie mir
 recht geben. Ich habe es zu satt, immer nur Lakaiendienste
-zu verrichten. Hier, fühle ich, kann im den großen Wurf
+zu verrichten. Hier, fühle ich, kann ich den großen Wurf
 endlich machen … Hier geht’s nicht um Kellnertrinkgelder.
 Also — — mein Wort, — und Ihrerseits Offenheit, Herr
 Harst. Wer ist die Dame? Sie kennen Sie natürlich sehr
@@ -742,8 +742,8 @@ Unten Autogeräusch, — Türschließen, Schritte …
 
 Das Nachtlicht flammt auf.
 
-Harald gleitet eine halbe Treppe tiefer. Ich, ihm nach.
-Wir ducken uns zusammen; können gerade noch die Ginz’sche
+Harald gleitet eine halbe Treppe tiefer. Ich ihm nach.
+Wir ducken uns zusammen, können gerade noch die Ginz’sche
 Wohnungstür sehen.
 
 Schritte nahen …
@@ -1202,7 +1202,7 @@ ungewöhnlicher Kraft geführt …«
 
 Gernack schüttelte verweisend den Kopf. »Noch mehr
 solche Gemeinplätze aus Kriminalschmökern, Harst?! Wollen
-Sie aus vor uns nur Ihre Gedanken durch Worte verbergen?!
+Sie auch vor uns nur Ihre Gedanken durch Worte verbergen?!
 — Ich wette, Sie kennen den Mörder bereits!«
 Dies Letzte sprach er erhobenen Tones.
 

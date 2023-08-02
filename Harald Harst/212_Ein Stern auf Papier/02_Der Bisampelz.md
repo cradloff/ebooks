@@ -64,7 +64,7 @@ in lateinischen Buchstaben geschrieben:
 </div>
 
 <div style="width: fit-content;">
-<p class="centered"><em>Abs</em>.: Ch. Darble</p>
+<p class="centered"><em>Abs</em>.: Ch. Darbler</p>
 <p class="centered">Friedenau-Berlin,</p>
 <p class="centered">Evastr. 2.</p>
 <p class="centered">Pension Menke.</p>
@@ -163,7 +163,7 @@ wagen, weil sie sich eben beobachtet fühlen. Sie
 verkehren nur durch diese Briefe, behaupte ich, und den
 Beweis hierfür werde ich sehr bald erbringen. Wir werden
 beiden Herren Besuche abstatten. Darbler wohnt Evastraße 2,
-also ebendort, wo aus Mr. John Priscopp haust. Beginnen
+also ebendort, wo auch Mr. John Priscopp haust. Beginnen
 wir also mit Darbler. Machen wir Toilette, packen wir die
 Koffer und suchen wir uns aus dem Fahrplan einen Fernzug
 heraus, der etwa um halb sechs morgens hier eintrifft.
@@ -464,7 +464,7 @@ möglich — vor Kummer sterben. — Alles geschah wie geplant.
 Gollerby flüchtete, ebenso verschwand auch ich, wurde nur
 zum Schein als tot begraben, und auch Olivia verließ dann
 Amerika. Wir drei wollten uns hier in Berlin nach zwei
-Monaten treffen, aber — Gollerby erschien nicht! Nur Olivia Margritt
+Monaten treffen, aber — Gollerby erschien nicht! Nur Olivia-Margritt
 und ich sahen uns im Hotel Adlon wieder. Gollerby
 war fraglos ermordet und des ganzen Geldes beraubt
 worden. Zum Glück besaß ich eine Diamantensammlung, die
@@ -495,7 +495,7 @@ meinte tonlos: »Wenn ich *das* auch nur geahnt hätte …!«
 meinem Freunde Schraut und mir gegenüber all diese
 Einzelheiten, von denen ich bereits einen Teil erraten hatte
 und den Rest fraglos sehr bald ebenfalls herausbekommen
-hatte, zu verschweigen, was also lediglich eine Verzögerung
+hätte, zu verschweigen, was also lediglich eine Verzögerung
 bedeutet haben würde. — Landsmann Dräger, seien Sie froh,
 daß die Dinge diese Wendung genommen haben. Wenn ich
 auch Gerhard Ginz’ Vetter bin, so werde ich doch nichts
@@ -539,7 +539,7 @@ Zeit drängt … — Sie haben Margritt Rendall adoptiert.
 Hier nennt sich aber Frau Ginz Margritt. Mithin haben
 die Schwestern aus besonderen Gründen die Vornamen gewechselt.«
 
-"Ja ..."
+»Ja …«
 
 »Diese Gründe liegen in Ellens Vergangenheit. Ellen
 Rendall ist jetzt Frau Ginz. Sie hat bereits vor Ginz
@@ -557,8 +557,8 @@ Ginz heiratete anscheinend *Margritt* Rendall. Immerhin
 <@pagebreak/>
 wurde Ellen derart von Gewissensbissen nachher gefoltert,
 daß sie zusammen mit allen ihren Papieren auch Aufzeichnungen
-über die Tragödie ihres jungen Daseins in ver-
-segeltem Umschlag, der nur nach ihrem Tode geöffnet werden
+über die Tragödie ihres jungen Daseins in versiegeltem
+Umschlag, der nur nach ihrem Tode geöffnet werden
 sollte, in dem Stahlschrank ihres Gatten in dem ihr zur
 Verfügung gestellten Fache deponierte. Sie verlor dann die
 beiden Patentschlüssel zu diesem Fache, und als dann die
@@ -566,12 +566,12 @@ Erpresserbriefe begannen, in denen wahrscheinlich Darbler
 Unsummen verlangte, da …«
 
 »Einen Augenblick, Landsmann … Der Erpresser war
-also hinter Ellen Ginz' Geheimnis gekommen, und Olivia
+also hinter Ellen Ginz’ Geheimnis gekommen, und Olivia
 nahm bei Ginz nur deshalb die Stellung an, um den versiegelten
 Umschlag irgendwie aus dem Fach, zu dem die
 Schlüssel fehlten, entfernen zu können …«
 
-"So ist's ..."
+»So ist’s …«
 
 »Haben Sie einen dieser Erpresserbriefe gesehen?«
 
@@ -579,7 +579,7 @@ Schlüssel fehlten, entfernen zu können …«
 
 »War es graublaues Papier mit einem Sternenmuster?«
 
-"Ja ..."
+»Ja …«
 
 »Dann steckt Darbler allerdings dahinter. — Auch ich
 besitze einen solchen Briefumschlag, Landsmann. Dieser Umschlag
@@ -684,7 +684,7 @@ Edward Gollerby zitterte …
 »Nein. Aber was Ähnliches. Der Name Harst ist Ihnen
 kaum unbekannt.«
 
-"Harst!!« Der Jammerlappen ächzte kläglich ... "Herr
+»Harst!!« Der Jammerlappen ächzte kläglich … »Herr
 Harst, ich … ich … will alles herausrücken … Nur — —
 <@pagebreak/>
 lassen Sie mich laufen!«
@@ -776,16 +776,16 @@ Brief der Frau Ellen Ginz an Olivia-Margritt abgefangen,
 und dieser Brief diente Ihnen dann als Zwangsmittel …
 Ist es so?«
 
-"... Ja ..."
+»… Ja …«
 
 »Und weshalb wollten Sie beide nun Ellen Ginz
 entführen? Raus mit der Wahrheit …!! Gedachten Sie
 etwa von Ginz ein Lösegeld unter gleichzeitiger Angabe des
 Namenstausches der Schwestern zu erpressen?«
 
-"... Ja ..."
+»… Ja …«
 
-"Wo bewahrt Mac Gerrick die gestohlenen Millionen
+»Wo bewahrt Mac Gerrick die gestohlenen Millionen
 auf?«
 
 »Ich … ich weiß es nicht …«
@@ -834,8 +834,8 @@ haben … Kommt nur!« Das galt Drake und mir … —
 Harst hatte es mit einem Male sehr eilig …
 
 Drake zögerte, aber Harald schob ihn rasch in das leere
-Zimmer, schloß die Tür und fühlte den Schrank wieder
-vor ...
+Zimmer, schloß die Tür und rückte den Schrank wieder
+vor …
 
 Kaum geschehen, hörten wir bereits vom Flur lautes
 Pochen … eine bekannte Stimme …
@@ -879,7 +879,7 @@ Harst sagte kalt:
 »Ich erwartete dies! — Nun schnell fort von hier …
 Kommen Sie mit, Drake, mit zu Mac Gerrick … Man
 wird uns nicht aufhalten … Die Herren hatten es nur
-auf Gollerby—Darbler abgesehen …«
+auf Gollerby-Darbler abgesehen …«
 
 Fünf Minuten drauf sausten wir drei im Auto nach
 der Winterfeldtstraße 179 … —
@@ -903,7 +903,7 @@ Toter … Gollerby hat Mac Gerrick, seinen Helfershelfer
 ermordet, hat den Bisampelz dann mitgenommen …«
 
 <@pagebreak/>
-Und er schob den Patentdietrich in das Schlüsselloch ...
+Und er schob den Patentdietrich in das Schlüsselloch …
 Wir traten ein …
 
 Halbdunkel …
@@ -911,8 +911,8 @@ Halbdunkel …
 Auf dem schäbigen Teppich lag Mac Gerrick auf dem
 Rücken …
 
-Von hinten erstochen, dazu mit einer grauenvollen Hieb-
-wunde über dem Schädel.
+Von hinten erstochen, dazu mit einer grauenvollen Hiebwunde
+über dem Schädel.
 
 »Auch Mac Gerrick scheidet als Mitwisser nun völlig
 aus,« meinte Harald gleichmütig. »Zwei Schurken sind tot,
@@ -1015,7 +1015,7 @@ sind. Ellen wird daher kaum Zeit finden, irgendeine Dummheit
 zu begehen, etwa mein Achatfläschchen zu benutzen,
 das sie so raffiniert stahl. — Armer Ramski! Du halfst
 dabei, und du mußtest … sterben, und die, die du liebtest,
-wird dich vergessen und ein anderes Glücks finden … Ein
+wird dich vergessen und ein anderes Glück finden … Ein
 guter Kerl war er, und ich hätte ihn wieder hochgebracht.
 Es sollte nicht sein …«
 
@@ -1061,7 +1061,7 @@ Ich rief …
 Weg …«
 
 Nein, es hatte keinen Zweck … Sie war bereits zu
-weit ...
+weit …
 
 Ich trabte …
 
@@ -1071,7 +1071,7 @@ Ich mußte sie einholen …
 Ich galoppierte …
 
 Sie bog nach rechts in die Auguste-Viktoria-Straße
-ein ...
+ein …
 
 Hinter mir flüchtige Schritte …
 
@@ -1120,7 +1120,7 @@ Ellen ist zurückgeprallt …
 
 Lehnt an einem der nebelfeuchten Bäume …
 
-Schreit mit hysterischen Aufschluchzen:
+Schreit mit hysterischem Aufschluchzen:
 
 <@pagebreak/>
 »Mordet mich — — mordet mich! Ich wäre ohnedies
