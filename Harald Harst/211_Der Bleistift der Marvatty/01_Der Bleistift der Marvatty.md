@@ -1,5 +1,7 @@
 <@pagebreak 3/>
 
+<h1>Der Bleistift der Marvatty.</h1>
+
 <h2>1. Kapitel.</h2>
 
 <h3>Eine Operation.</h3>
@@ -8,7 +10,7 @@ Ich habe einmal irgendwo eine Geschichte von einer
 abgehauenen, spukhaften Hand gelesen, die gleichsam als
 selbständiges Wesen den Tod des ehemaligen Besitzers dieser
 Geisterhand rächte. Vielleicht stammt die Erzählung von
-A. Th. Hoffmann, dem Gespenster-Hoffmann, oder von Edgar
+A. Th. Hoffmann<@refnote/>, dem Gespenster-Hoffmann, oder von Edgar
 Allan Poe, dessen Phantasie ebenfalls sehr gern Wege zum
 Jenseits wandelte.
 
@@ -97,7 +99,7 @@ Hand ist in jeder Beziehung fehlerfrei, und … da ich
 vermögend bin, ließ ich die Schnittstelle am Ellenbogen
 mit einer Goldkapsel einfassen und bewahrte den Arm in
 einem Glasschränkchen in meinem Arbeitszimmer auf. Wenn
-ich ihn lieber verbrannt hätte!.«
+ich ihn lieber verbrannt hätte!«
 
 <@pagebreak/>
 Er stöhnte … seufzte …
@@ -488,7 +490,7 @@ Stimme …
 eine Brille und einen Spitzbart tragen und bei diesem …
 Sauwetter zu uns kamen … — Dürfte ich Sie in unseren
 Garderobenraum bitten … In einer halben Stunde werde
-ich Ihnen so ähnlich sehen, das Sie verblüfft sein werden.
+ich Ihnen so ähnlich sehen, daß Sie verblüfft sein werden.
 Dann werde ich Ihre Wohnung aufsuchen … Sie bleiben hier
 — als Harst … Schraut wird Sie zurechtstutzen … Hier
 wird der Arm der Marvatty Sie nicht belästigen. Für
@@ -693,7 +695,7 @@ Holgersen lächelte verzerrt, atmete aber trotzdem erleichtert
 auf … »Gott sei Dank … Also das ist’s: Traumwandeln!!
 Nun, dagegen gibt es Mittel. Ich werde mir eine Bütte
 mit Wasser vor mein Bett stellen, dann erwache ich, sobald
-ich das Bett verlassen will und mit den nackten Füßen im
+ich das Bett verlassen will und mit den nackten Füßen in
 das Wasser trete. — Gott sei Dank …! Also nur Nerven!!«
 
 »Allerdings!« lachte ich. »Sie selbst sind die »schreibende
@@ -858,7 +860,7 @@ wie er es selbst tat …? — Es ist so …!«
 Indische Magiere, ebenso buddhistische Zauberer nennen diese
 Art von Fernwirkung auf andere »Gara Margim«, was etwa
 »Wechsel des Geistes« bedeutet. Ähnliches kannten auch die
-Priester der Ist, und der englische Okkultist Professor Chatram
+Priester der Isis, und der englische Okkultist Professor Chatram
 behauptet in einer seiner Schriften, daß der Beschwörer
 durch das Einatmen des Bilsenkrautes sein »Ich« zwingt,
 in den Leib eines anderen Menschen »hineinzuschlüpfen«,
@@ -1115,12 +1117,12 @@ Da ist erstens: Das Tempo der Handlung! — Zweitens: Die —
 eingestreuten Stimmungsbilder! — Wenn Sie zum Beispiel
 eine indische Opiumhöhle, eine Nacht im Dschungel, eine
 Fahrt im Nebel schildern, so genügen Ihnen, nur Ihnen, ein
-paar Sätze, dem Leser die betreffende »Stimmung« aufzutauchen.
+paar Sätze, dem Leser die betreffende »Stimmung« hervorzuzaubern.
 Das macht Ihnen so leicht keiner nach.« — Ich
 könnte diesen meinen Lobredner hier mit Namen nennen.
 Ich denke sehr oft an seine Worte. Und an das, was ich
 ihm damals erwiderte: »Das alles fließt mir ganz von
-selbst in die Feder, lieber L… — ich gebe mir nie Mühe,
+selbst in die Feder, lieber L…, — ich gebe mir nie Mühe,
 das »Tempo« zu erzeugen oder »Stimmung« hervorzuzaubern.«
 
 <@pagebreak/>

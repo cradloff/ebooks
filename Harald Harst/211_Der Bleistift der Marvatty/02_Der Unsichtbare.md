@@ -13,7 +13,7 @@ bitter enttäuscht, sobald der Trajekt sich immer mehr dem
 »Auslande«, nämlich der Stadt Trelleborg nähert.
 
 Flacher, eintöniger Strand, eine reizlose Stadt, nüchterne
-Bauten, ein Bahnhof wie in Posemuckel<@refnote 1/>: das sind
+Bauten, ein Bahnhof wie in Posemuckel<@refnote 2/>: das sind
 die ersten Eindrücke von Schweden!
 
 Mehr landeinwärts und ein Stück außerhalb der Stadt
@@ -49,7 +49,7 @@ Aufschrift:
 
 <p class="centered">Dr. Sven Holgersen,</p>
 <p class="centered">Arzt,</p>
-<p class="centered">Sprechzeit 9—10, 4-6.</p>
+<p class="centered">Sprechzeit 9—10, 4—6.</p>
 
 im grellen Maisonnenschein funkelte. —
 
@@ -97,7 +97,7 @@ Bier, — kein Souper für schwache Mägen!
 Als wir ihm dann bei Tisch den Fall Holgersen erzählten,
 machte er zunächst ein paar witzige Bemerkungen
 über den »Spukarm« (was ihm nicht zu verdenken war),
-wurde dann aber durch das Geheimnisvoll—Übernatürliche
+wurde dann aber durch das Geheimnisvoll-Übernatürliche
 immer mehr gepackt und meinte zum Schluß halb besorgt:
 »Kinder, ihr habt euch da auf einen oberfaulen Zauber
 eingelassen! Wollt ihr nicht doch besser unsere Hilfe in
@@ -222,7 +222,7 @@ Dieser Frau fehlte die rechte Hand!!
 
 Wie nun, wenn Ellen Marvatty gar nicht tot war!?!
 
-Konnte ihr Selbstmord, nicht lediglich dadurch vorgetäuscht
+Konnte ihr Selbstmord nicht lediglich dadurch vorgetäuscht
 worden sein, daß der Inder ihr eins der satanischen indischen
 Gifte gegeben hatte, die einen todesähnlichen Zustand erzeugen?!
 Konnte die scheinbare »Leiche« nicht nachher wieder ausgegraben
@@ -235,7 +235,7 @@ hatte?!
 Wenn dies alles stimmte (und das »Alter« dieser Frau
 dort konnte durch Schminke nur künstlich hervorgerufen sein!),
 <@pagebreak/>
-Dann war Ellen die Verbündete Arva Mattys, dann war sie
+dann war Ellen die Verbündete Arva Mattys, dann war sie
 auch die Spionin gewesen, von der uns Kriminalassistent
 Gritzner telephonisch Meldung erstattet hatte!
 
@@ -783,7 +783,7 @@ durch die Tür hindurch. »Beunruhigen Sie sich nicht
 weiter …«
 
 Ich drehte mich dann wieder dem Sofa zu, in dessen
-Sie der Inder saß. Vor ihm Harald.
+Ecke der Inder saß. Vor ihm Harald.
 
 Arva Matty wischte sich mit seinem Taschentuch das
 Gesicht ab, trocknete die Augen, und verschönerte durch diese
@@ -811,7 +811,7 @@ sein Gesichtsausdruck. Ein Zug von tiefer Müdigkeit erschien
 um Augen und Mund. Die Lider sanken herab, die Mundwinkel
 zitterten eigentümlich.
 
-Da … breitete Harald rast eine Zeitung über den
+Da … breitete Harald rasch eine Zeitung über den
 Aschbecher und sagte: »Ich weiß zwar nicht, ob Sie sich
 nicht nur in einen Zustand von Selbsthypnose versetzen
 wollen … Aber sicher ist sicher, gerade Ihnen gegenüber,
@@ -1112,7 +1112,7 @@ Und von … da an war ich Ellen Marvatty! — Alles,
 alles taucht aus den Tiefen der Vergessenheit wieder auf …
 alles … Ja, ich war Seiltänzerin … Er … er hat mich
 dazu … gedrillt … Er schleppte mich mit seiner Truppe
-von Stadt zu Stadt … Bis … bis … hier in Trelleborg:
+von Stadt zu Stadt … Bis … bis … hier in Trelleborg
 …«
 
 Sie sprang auf … Ihre Augen flammten …
