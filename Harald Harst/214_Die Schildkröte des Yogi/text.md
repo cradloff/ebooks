@@ -1391,36 +1391,36 @@ längst für die Öffentlichkeit gesperrt, obwohl sich hier noch
 die Gräber der während des großen indischen Aufstandes
 ermordeten oder gefallenen Weißen befinden — alle mit
 Gedenktafeln, die ihre besondere Geschichte erzählen. Man
-liest hier auf verwittertem Marmor Namen, wie Lady Tun«-
-daran, eine jener tapferen Frauen, die den braunen Bestien
-von damals zeigten, daß auch Damen »Zu töten und nachher
+liest hier auf verwittertem Marmor Namen, wie Lady Wyndalar,
+eine jener tapferen Frauen, die den braunen Bestien
+von damals zeigten, daß auch Damen zu töten und nachher
 zu sterben wissen.
 
-Die Polizei hatte bestimmt, daß die drei GudunowsSs,
-also auch? Trinas schöne Mutter, hier in aller Stille bestattet
+Die Polizei hatte bestimmt, daß die drei Gudunows,
+also auch Trinas schöne Mutter, hier in aller Stille bestattet
 werden sollten. Als vierter Toter war nun noch
 Harry Hopkins hinzugekommen, — das Opfer des Yogi
 Kaddami, der wegen Mordes in Untersuchungshaft saß.
 
 <@pagebreak/>
-Es war ein trüber Vormittag, als sich auf dem Frische?’
+Es war ein trüber Vormittag, als sich auf dem Friedhof
 in der armseligen Leichenhalle ein paar Herren einfanden,
 die still und schweigend dem vierfachen Begräbnis beiwohnten.
 Es waren dies zwei Polizeibeamte, Mr. Trevor, der Fremdenführer
 Ispallah, und wir beide.
 
-Außerdem hatten sich noch eine kleine Anzahl Neugierige?
-eingestellt: indische Ganzen aus dem nahen Dorfe
+Außerdem hatten sich noch eine kleine Anzahl Neugieriger
+eingestellt: indische Rangen aus dem nahen Dorfe
 Kandurru und vier verschleierte Frauen, gleichfalls Inderinnen,
 
-Der Seitliche der anglikanischen Gemeinde sprach nur
-wenige Worte, dann vorstellen die Erdschollen auf die Särge
+Der Geistliche der anglikanischen Gemeinde sprach nur
+wenige Worte, dann polterten die Erdschollen auf die Särge
 herab und — — vier Menschen waren endgültig aus der
--Meile der Behandeln gestrichen,
+Reihe der Lebenden gestrichen,
 
 Trevor flüsterte mir etwas gereizt zu:
 
-»Weshalb steht Ihr Freund hier noch; herum? Was
+»Weshalb steht Ihr Freund hier noch herum? Was
 sollen wir überhaupt hier?!«
 
 Harald hatte gute Ohren.
@@ -1428,16 +1428,16 @@ Harald hatte gute Ohren.
 »Wir gehen ja schon,« meinte er und schritt mit Ispallah
 dem Ausgang zu. Wir folgten.
 
-Der Friedhof war von einer hohen Steinmauer ums
-geben, die vom Zahn der Zeit allerdings bereits sehr stark
-danach war.
+Der Friedhof war von einer hohen Steinmauer umgeben,
+die vom Zahn der Zeit allerdings bereits sehr stark
+benagt war.
 
 Draußen wandte Harst sich nach rechts.
 
-Und Pro Trevors mürrischen Protest wateten wir nun
+Und trotz Trevors mürrischem Protest wateten wir nun
 durch zähen Schlamm außen an der Mauer entlang, bis
 wir eine Stelle erreichten, wo die Mauer von oben bis
-unten, durch den Gegen unterspült, geborsten war und handbreit
+unten, durch den Regen unterspült, geborsten war und handbreit
 klaffte.
 
 Wir hatten die vier Gräber nun, gedeckt durch ein
@@ -1446,53 +1446,53 @@ paar Büsche und die Mauer, auf zehn Schritt vor uns.
 Was wir sahen, war seltsam genug. Und Harald mußte
 dieses Bild wohl vorausgeahnt haben.
 
-Da kniete vor dem Grabe Trina Such’.:was eine verschleierte
-Inderin … Neben ihr lagen drei « ganze, prächtige
+Da kniete vor dem Grabe Trina Gudunows eine verschleierte
+Inderin … Neben ihr lagen drei Kränze, prächtige
 <@pagebreak/>
-Kränze aus dem Laub und den Blüten der Ausgang hinab
-der unvergänglichen Ausgang …
+Kränze aus dem Laub und den Blüten der Sasparia durabla,
+der unvergänglichen Sasparia …
 
-Da kniete zweitens vor dem Grabe Harry Hopkins eben.
-falls eine Inderin, eine weit größere, kräftigere Gestalt als
+Da kniete zweitens vor dem Grabe Harry Hopkins ebenfalls
+eine Inderin, eine weit größere, kräftigere Gestalt als
 die andere … Neben ihr … vier Kränze …
 
 Und diese Inderinnen, von denen die Kirchhofsarbeiter
 wenig Notiz nahmen, harrten aus, bis sich über den Särgen
 flache Hügel wölbten.
 
-— Wir auch …
+Wir auch …
 
 Obwohl Trevor fluchte und sich schließlich eine Zigarre
 anzündete.
 
 Die sechs Arbeiter schritten davon.
 
-Die verschleierten Frauen waren Achseln …
+Die verschleierten Frauen waren allein …
 
 Was würde geschehen?
 
-… 34 ahnte bereits, wer die eine, die zierliche, kindlich
+Ich ahnte bereits, wer die eine, die zierliche, kindlich
 Schmächtige war.
 
-Über die andere?!
+Aber die andere?!
 
 Was würde geschehen?
 
 Die Frauen kannten einander nicht. Das merkte
-man … Sie betrachteten sie verstohlen von der Seite,
-und diese heimlichen prüfenden Blicke würden immer häufiger,
+man … Sie betrachteten sich verstohlen von der Seite,
+und diese heimlichen prüfenden Blicke wurden immer häufiger,
 bis sie gleichzeitig sich erhoben, aufeinander zugingen
 und sich leise begrüßten.
 
-Ihre vorsichtige Unterhaltung wurde immer lebhafter,
+Ihre vorsichtige Unterhaltung wurde immer lebhafter.
 Jetzt, wo die beiden Frauen nebeneinander standen, fiel der
 Größenunterschied weit mehr ins Auge. Und doch kamen
 mir Zweifel, ob die Kleinere wirklich die blonde Trina sein
 könnte. Für Trina war sie mir eben zu groß. Vielleicht
 täuschten allerdings auch die langen, selbst die Füße bedeckenden
-Gewänder: farbige, geschmackvoll mit gefällig tropischer
+Gewänder: farbige, geschmackvoll mit gefällig drapierter
 Seide, darüber Umhänge aus jenem dünnen, durchsichtigen
-Gummistoff, wie sie vereinzelt auch. in Deutschland
+Gummistoff, wie sie vereinzelt auch in Deutschland
 getragen werden. Ebenso wie diese Umhänge waren auch
 <@pagebreak/>
 die Regenschirme der beiden moderne europäische Fabrikate:
@@ -1503,21 +1503,20 @@ blieb mir insofern unklar, als ich die größere unbedingt
 für eine echte Inderin hielt.
 
 Harst beobachtete nur. Bis er sich an den übelgelaunten
-Trevor wandte und leise erklärte: »Sie sollten sie freuen!
+Trevor wandte und leise erklärte: »Sie sollten sich freuen!
 Sie werden wenigstens einen Teil des Inhalts Ihrer Brieftasche
 zurückerhalten. Trina hat von den zweitausend Rupien
 nur die nötigsten Einkäufe besorgt, und nun freundet sie
 sich mit der Leidensgefährtin an.«
 
 Samuel Trevor machte ein Gesicht, als ob er Harald
-an den Hals kreuz?n wollte. Er nahm entschieden an,
-Harst erlaube sie faule Scherze mit ihm.
+an den Hals springen wollte. Er nahm entschieden an,
+Harst erlaube sich faule Scherze mit ihm.
 
--… Meine Brieftasche?! Wollen Sie mich nur an
-meine kapitale Dämlichkeit erinnern, Harst?! Das ist Takt
-!og1«
+»… Meine Brieftasche?! Wollen Sie mich nur an
+meine kapitale Dämlichkeit erinnern, Harst?! Das ist Taktlos!«
 
-»As wäre haltlos … allerdings … Aber ich Ehre Ihr
+»das wäre taktlos … allerdings … Aber ich ehre Ihr
 Alter, lieber Trevor, ganz abgesehen davon, daß ich nicht
 zu den Leuten gehöre, die unangebracht Witze reißen. Wenn
 Sie mir freundlichst Ihre Schulter zur Verfügung stellen
@@ -1526,39 +1525,44 @@ Ihnen Ihre Brieftasche hoffentlich überreichen können. —
 Also los …!«
 
 Trevor brummte etwas, gehorchte jedoch … Und mit
-kraftvollem Ahnung war Harald hinüber …
+kraftvollem Schwung war Harald hinüber …
 
 Die beiden einsamen vermummten Gestalten dort im
-rieselnden Gegen fuhren mit einem Schrei aufsteigender,
+rieselnden Regen fuhren mit einem Schrei auseinander,
 machten Miene zu flüchten. Harst vertrat ihnen den Weg.
 Was er sagte, verstanden wir nicht. Wir sahen nur, wie
 die eine, und das war Trina, flehend die Arme hob, und
 Harald sie offenbar beruhigte. Die andere verhielt sich
-schweigend. Als er sich an sie wandte, traf sie zwölf und
-schien ihn durch eine drohende Handbeweg: ck einschüchtern
+schweigend. Als er sich an sie wandte, trat sie zurück und
+schien ihn durch eine drohende Handbewegung einschüchtern
 <@pagebreak/>
 zu wollen. Wir als Zuschauer dieser Szene konnten uns
-unwohnlich darüber klar werden, was er nun den beiden
+unmöglich darüber klar werden, was er nun den beiden
 offenbar sehr eindringlich vorhielt,
+
 Dann faßte Trina in ihre Gewänder hinein …
-Was sie hervorholte: Trevors rote Jackentasche!
+
+Was sie hervorholte: Trevors rote Juchtentasche!
+
 Harst steckte sie zu sich.
+
 Dann verbeugte er sich vor der Größeren, und nun
 Hörte ich einige Worte:
-— »Weiß das Kind in guter Hut … Sorgen Sie für
+
+»… weiß das Kind in guter Hut … Sorgen Sie für
 Trina, wer Sie auch sein mögen!«
 
 Hierauf verließen die beiden den Kirchhof, nachdem sie
-ihre Kränze auf die Grabhügel Belog? hatten.
+ihre Kränze auf die Grabhügel gelegt hatten.
 
 Harald erklomm die Mauer, sprang herab und überreichte
 Trevor die Brieftasche …
 
 »Bitte … Trina läßt sich bei Ihnen entschuldigen. Sie
 wird Ihnen den Betrag von dreihundertfünfzig Rupien,
-den sie von Ihnen entliehen, ersehen.«
+den sie von Ihnen entliehen, ersetzen.«
 
-Schmuck erwiderte wegwerfend: »Mag die kleine Kröte
+Samuel erwiderte wegwerfend: »Mag die kleine Kröte
 das Geld behalten. — Wer war denn eigentlich die andere,
 Harst?«
 
@@ -1567,7 +1571,7 @@ stehen und … — aber nein, — — später!«
 
 Er war merkwürdig zerstreut, und seine Augen wanderten
 dauernd wie suchend über die endlosen Indigofelder
-Bin, die hier am Dulga-Kanal der Landschaft ein so merkwürdiges
+hin, die hier am Dulga-Kanal der Landschaft ein so merkwürdiges
 Gepräge geben: eine Sinfonie in wundervollstem
 Blau!
 
@@ -1577,7 +1581,7 @@ prüfte. »Die Polizei ist doch hinter ihr her, und Sie,
 Verehrtester, behandeln diese Diebin wir eine Lady. Sie
 sind mir unverständlich.«
 
--  Harst hörte kaum hin …
+Harst hörte kaum hin …
 
 <@pagebreak/>
 »Bitte, blicken Sie einmal nach rechts, Trevor … Was
@@ -1586,20 +1590,20 @@ sehen Sie?«
 Der Millionär, Ispallah und ich starrten über die
 blaue Fläche hinweg …
 
-Dort — mitten aus den Feldern, schien sie jetzt eine
+Dort — mitten auf den Feldern, schien sich jetzt eine
 Art Gerüst aus dem Boden zu erheben …
 
-Rein Gerüst …
+Kein Gerüst …
 
-Nein, es war daß mit einem leichten Eisengeländer
-umgebene Bad irgendeines Fahrzeugs, das, für uns unsichtbar,
+Nein, es war das mit einem leichten Eisengeländer
+umgebene Dach irgendeines Fahrzeugs, das, für uns unsichtbar,
 auf dem tiefer liegenden Kanal entlangfuhr und für uns
 bisher durch eine einzelne Baumkrone verdeckt gewesen.
 
 Es war ein Motorboot oder eine kleine Jacht. Wir
 hörten jetzt auch das Knattern des Motors, und, da auf dem
 Kajütdache zwei uns nur zu gut bekannte Frauengestalten
-standen, war die Frage nur zu berechtigt, leicht der
+standen, war die Frage nur zu berechtigt, die jetzt der
 schweigsame Ispallah an Harald richtete:
 
 »Woher wußten Sie, daß die Inderin ein Boot zur
@@ -1607,32 +1611,32 @@ Verfügung hatte?«
 
 »Weil mir die letzten zwei Tage hier in Benares,
 seit wir die Ruinen verlassen haben, vollauf genügten,
-allerhand Erkundigungen einzuziehen, die sich auf die Tanz.
-Tänzerin in den golddurchwirkten Kaschmirschleiern — die Tänzerin
-auf der Schildkröte — bezogen. Ich) wandelte angeblich
+allerhand Erkundigungen einzuziehen, die sich auf die Tänzerin
+in den golddurchwirkten Kaschmirschleiern — die Tänzerin
+auf der Schildkröte — bezogen. Ich wandelte angeblich
 harmlose Pfade, mein lieber Landsmann, und selbst Schraut
-glaubte daran, hatte außerdem im Hotel Edward eine Skatratte
+glaubte daran, hatte außerdem im Hotel Edward eine Skatpartie
 zusammengetrommelt, die ihm lohnender erschien, als
-im Gegen draußen unterzutauchen, immerhin ein verzeihlicher
+im Regen draußen umherzulaufen, immerhin ein verzeihlicher
 Standpunkt,«
 
 Trevor, der hier stets mit einem Fernglas am Riemen
-untherlief, hakte dieses inzwischen auf die scheinbar über
+umherlief, hatte dieses inzwischen auf die scheinbar über
 die Indigofelder dahinschwebenden beiden »trauernden« Gestalten
 gerichtet …
 
-»So — — hat Ihnen die Größere e’ 1 eingestanden,
-daß sie die Schildkrötentänzerin ist, die wir! den Ruinen
+»So — — hat Ihnen die Größere etwa eingestanden,
+daß sie die Schildkrötentänzerin ist, die wir in den Ruinen
 <@pagebreak/>
 wie eine Stecknadel suchten und — — nicht fanden?« —
 diese Frage prustete er wütend heraus. »Ich möchte wetten,
 daß das Motorboot dort zu meiner Jacht gehört …!! Es
 ist meine Motorbarkasse, und der Satan mag wissen, wie
-mein Kapitän Tetersitz dazu kommt, das Boot einer wildfremder
-Person für sollte Zwecke zu überlassen!«
+mein Kapitän Tetersitz dazu kommt, das Boot einer wildfremden
+Person für solche Zwecke zu überlassen!«
 
 Er Hatte das Fernglas in das Futteral zurückgeschoben
-und Wüste Harst herausfordernd an. »Nun, Sie … Sie
+und blickte Harst herausfordernd an. »Nun, Sie … Sie
 Mann mit den halben Andeutungen … Reden Sie …
 Wie steht’s mit der Kaschmirtänzerin?!«
 
@@ -1648,14 +1652,14 @@ sehr ungesund sein.«
 Und er stapfte voran zum wartenden Auto. —
 
 Trevor war so eingeschnappt, daß er kein Wort mehr
-sprach und sich dann sofort an Bord. seiner Jacht begab,
+sprach und sich dann sofort an Bord seiner Jacht begab,
 mit der er von Neuyork durch den Panamakanal und durch
 den Pazifik bis hierher gekommen: für ihn ein Katzensprung,
 wie er sagte …
 
 Wir beide gingen auf unsere Zimmer. Ispallah aber
 Betätigte sich beruflich: Cook hatte wieder eine Hammelherde
-»Touristen in Benares ausstrahlte!!
+Touristen in Benares ausgefrachtet!
 
 <@pagebreak/>
 
@@ -1948,7 +1952,7 @@ James Tetersitz Dr.;k Limonade und rauchte eine Schokoladenzigarre.
 
 Die Limonade war Ruhig?y, die Schokolade eine grün«-
 schwarze Brasil, Tetersitz eines jener Rauhbeine und Originale,
-wie sie in Chifferkreisen immer seltener werden.
+wie sie in Schifferkreisen immer seltener werden.
 
 »Wer hat Sie reingelassen?« begrüßte er uns und
 musterte uns ablehnend,
