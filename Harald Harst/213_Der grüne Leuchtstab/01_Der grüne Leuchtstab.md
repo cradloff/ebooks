@@ -469,7 +469,7 @@ Mit der glimmenden Zigarette im Munde trat er näher an
 den Schrank heran und betrachtete die Spinne genauer.
 
 <@pagebreak/>
-Wahrhaftig — sie bewegte nahm huschend die Beine, die
+Wahrhaftig — sie bewegte noch zuckend die Beine, die
 wie weiße dicke Zwirnfäden aussahen, und aus dem eklen
 Brei ihres plattgedrückten Leibes funkelten zwei grünlichstrahlende
 Pünktchen: die Augen! — Auch sie hatten noch
@@ -704,7 +704,7 @@ Russin namens Sonja Manilew …«
 
 Madame schnellte hoch. »Wie — — Sonja Manilew?!
 Unglaublich!« rief sie erregt. »Dieses Weib ist kein Weib,
-lieber Harsts …! Denn Sonja Manilew … warten Sie
+lieber Harst …! Denn Sonja Manilew … warten Sie,
 gleich zeige ich Ihnen den Namen hier in meinem Fremdenbuch
 … bitte — hier ist’s schon … Lesen Sie nur …
 
@@ -951,7 +951,7 @@ ihre Millionen zu genießen. —
 In einem halbdunklen Gäßchen, über dem die elenden
 Lehmhütten sich mit angeklexten Balkons einander bis auf
 einen Schritt nahekamen, standen zwei Perser, die halb
-europäische gekleidet waren, vor dem durch vier Ölfunzeln
+europäisch gekleidet waren, vor dem durch vier Ölfunzeln
 erhellten Schaufenster eines Messerschmiedes. Der fleißige
 Ladeninhaber selbst hockte auf der Straße und hämmerte
 eine Sichel zurecht, wobei er immerfort kräftig auf den Stahl
@@ -1035,7 +1035,7 @@ auswärts. —
 Nun beobachten wir die Gitterpforte drüben … Schon
 vier Minuten … Und der Messerschmied hämmerte und
 spuckte … Und Harald kaufte jetzt ein Dolchmesser mit
-Seide aus Elefantenhaut, worauf wir weiterschritten, durch
+Scheide aus Elefantenhaut, worauf wir weiterschritten, durch
 fünf andere Gassen, bis sich vor uns ein freier Platz auftat,
 in dessen Mitte ein riesiges Badebassin, gefüllt mit heiligem
 Gangeswasser, eifrigst benutzt wurde. Rechts aber hinter
@@ -1052,7 +1052,7 @@ nassen Mänteln, die weiße Schnur um den Hals, auf den
 finsteren Asketenköpfen die gelben Turbane, über der Nase
 aber den weißen Farbfleck, das Dschimakar, das heilige
 Mal, — zwölf Wächter, die jeden Fremden argwöhnisch
-musterten und ihm die Bambusstäbe mit den Beuteln auf
+musterten und ihm die Bambusstäbe mit den Beuteln aus
 Kobrahaut zuhielten: Eintrittsgeld!!
 
 Harald spendete ein Goldstück und trat dann auf den
@@ -1165,7 +1165,7 @@ diese Bande vollkommen entlarven. Außerdem: denke an
 die Stinkspinne! Glaubst du, dieser Mischling Agi Tu hat
 ohne Grund dem Doktor Chiwasara das ekle Tier an
 die Stirn geklebt?! Oder besser: Sonja Manilew tat’s! Und
-Sonja, damals Mädchen bei Frau Menke, hatte die Spione
+Sonja, damals Mädchen bei Frau Menke, hatte die Spinne
 sehr schlau untergebracht, als sie den Inder erdrosselte …
 Suchen wir weiter — nach einem Leuchtstab …«
 

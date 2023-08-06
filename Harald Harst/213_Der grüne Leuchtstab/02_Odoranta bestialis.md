@@ -348,7 +348,7 @@ schmalen Füßen, während wir doch in der Schatzkammer selbst
 keinerlei Fußabdrücke gefunden.
 
 Die Spuren und ein daneben liegender langer, stark
-beschmutzen Autoschleier bewiesen ferner, daß die beiden
+beschmutzer Autoschleier bewiesen ferner, daß die beiden
 Eindringlinge sich die Schuhsohlen gesäubert hatten, bevor
 sie in die Bleikammer eingetreten waren.
 
@@ -540,7 +540,7 @@ ich Vollbart und Glatze und Sonstiges, was angeklebt war.
 — Kinder, ich bin doch auch kein Neuling in unserem Geschäft!!«
 
 »Nee, das stimmt. — Sie sind sogar mit allen Kriminalsalben
-dreimal gesalbt. — Mir scheint, die Kollegen vom
+dreimal gesalbt. — Mir scheint, die Kollegen von
 der hiesigen Greiferei erscheinen schon … Da sind sie …
 Voran unser Oberhammel unseligen Angedenkens Stuart
 Globing … — N’Abend, Sir Globing … Sie sind wohl
@@ -738,7 +738,7 @@ Dichters Tagore zu finden ist, kurz wiedergeben …«
 Harst nahm eine neue Zigarette und begann:
 
 <@pagebreak/>
-»Als König Murwada eines Tages von schweren Krankheit
+»Als König Murwada eines Tages von schwerer Krankheit
 genesen war, gelobte er, dem Gotte Schiwa oder Chiwa
 einen Tempel von wunderbarer Pracht zu bauen. Da er
 jedoch nicht genügend Edelsteine in seinen Schatzkammern
@@ -915,7 +915,7 @@ mehr, nur grüne Hügel, in denen freilich unheimliches Leben
 herrscht: beste Schlupfwinkel für Getier aller Art! — Ich
 <@pagebreak/>
 komme hierauf noch einmal zu sprechen bei der »Schildkröte
-des Yogi«,
+des Yogi«.
 
 Als wir gerade eine freiere Fläche des Ruinenfeldes
 passierten, … riß mich Harald plötzlich hinter einen Kaskarstrauch.
