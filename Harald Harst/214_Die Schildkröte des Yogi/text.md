@@ -1667,8 +1667,8 @@ Touristen in Benares ausgefrachtet!
 
 <h3>Wenn Harald spricht …</h3>
 
--… Ich saß auf dem Balkon und s!schai’ke über die
-prachtvollen Gärten des Europäerviertels hi:.’veg.
+… Ich saß auf dem Balkon und schaute über die
+prachtvollen Gärten des Europäerviertels hinweg.
 Harst lehnte in der Balkontür und rauchte.
 
 Ich fragte nichts. Ich wartete … Er würde vielleicht
@@ -1682,15 +1682,15 @@ nach dem Flusse hin:
 »Trevor die Wahrheit beizubringen, wird sehr schwer
 sein. Er ist völlig ahnungslos.«
 
-3H konnte nur meinerseits äußern, »Ich auch!! —
+Ich konnte nur meinerseits äußern, »Ich auch!! —
 Ahnungslos — in welcher Beziehung?«
 
 »Die Sache zerrann uns bisher wie Quecksilber unter den
-Händen »… Aber Quecksilber vereinigt sich sehr leicht wieder,
+Händen … Aber Quecksilber vereinigt sich sehr leicht wieder,
 fließt zusammen … — Ich meine den Fall der Briefe mit
 den Diamanten, mein Alter. Wir müssen einmal rekapitulieren,
 was wir wissen und was wir nicht wissen. —
-Wir wissen: Ispallah und Mary Trevor, ist die der Yogi
+Wir wissen: Ispallah und Mary Trevor, auf die der Yogi
 <@pagebreak/>
 Kaddami stark … geladen ist, erhalten Briefe mit kostbarer
 Einlage und zum Schluß mit vergifteten Schlangenzähnen.
@@ -1705,14 +1705,14 @@ lassen. Wir treffen mit den beiden in der Tempelruine zusammen.
 Allerlei Merkwürdiges und Grausiges begibt sich.
 Wir lernen die Riesenschildkröte des Yogi kennen, ein offenbar
 dressiertes, sehr, sehr kluges Tier, — wir sehen Harry
-Hopkins, einen an sie; üblen Burschen, durch die »Tränen
-des Indra« sterben, — ich sehe denselben Mann vorher mit
+Hopkins, einen an sich üblen Burschen, durch die »Tränen
+des Indra« sterben, — *ich* sehe denselben Mann vorher mit
 Diamanten herausgeputzt und höre aus dem Munde des
 Yogi Worte, die mir noch jetzt zum Teil unklar sind. Dann
 nehmen wir Kaddami fest, und er weist Trevors Vorwürfe
 in einer Weise zurück, die uns die Überzeugung beibringt,
-daß der Yogi — gib ach!! — die goldene Handtasche Mary
-Trevors nicht hat stehlen wollen, denn der Yogi verfügt
+daß der Yogi — gib acht! — die goldene Handtasche Mary
+Trevors *nicht* hat stehlen wollen, denn der Yogi verfügt
 über Reichtümer, die ihn Gold als ein Nichts verachten
 lassen. — Und hier nun die erste Frage: Weshalb suchte
 Kaddami das Handtaschen an sich zu bringen?!«
@@ -1721,20 +1721,20 @@ Kaddami das Handtaschen an sich zu bringen?!«
 
 »Das lag sehr nahe, mein Alter … — Weshalb
 also? — Es gibt nur eine Antwort: Er vermutete in dem
-Taschen etwas, daß er sich aneignen wollte. — Was?
+Täschchen *etwas*, daß er sich aneignen wollte. — Was?
 — Und da versage ich. Ich weiß es nicht. Dieser Punkt
 bleibt also dunkel. — — Weiter: Weshalb haßte Kaddami den
 ehemaligen Privatsekretär derart, daß er ihn in so bestialischer
 Weise ermordete? — Antwort: Ich weiß es nicht! — —
 Drittens: Weshalb will Kaddami, der die Briefe mit den
-Diamanten nicht abgesetzt hat, sie zu der nun offiziell
+Diamanten *nicht* abgesetzt hat, sich zu der nun offiziell
 <@pagebreak/>
-»gegen ihn erhobenen Anklage in keiner Weise äußern? —
+gegen ihn erhobenen Anklage in keiner Weise äußern? —
 — Ich weiß es nicht. — — Bevor wir mit der Aufzählung
 dessen, was uns dunkel, fortfahren, wollen wir die letzten
 Ereignisse überprüfen. Da wäre das Erscheinen der Kaschmirtänzerin
 auf dem Mauervorsprung. Wir suchen nach dieser
-Inderin, finden sie ’niHt, nehmen den Yogi mit hierher
+Inderin, finden sie nicht, nehmen den Yogi mit hierher
 und übergeben ihn der Polizei. Er Schweigt sich aus. Die
 Polizei ist machtlos. Heute wohnen wir dem vierfachen
 Begräbnis bei. Zwei verschleierte Leidtragende stellen sich
@@ -1742,16 +1742,16 @@ ein: Trina und eine Inderin. — Trina gibt zu, daß sie
 Trevors Brieftasche nur stahl, um hier in Benares irgendwo
 unterschlüpfen zu können und um … die Kränze zu kaufen.
 — Die Inderin, von mir befragt, wer sie sei, erklärt, ich …
-würde ihren Tod herbeiführen, wenn ich ihr
+*würde ihren Tod herbeiführen*, wenn ich ihr
 weiter nachspüre. Und: diese Bemerkung bestärkte mich nur
-in der: Überzeugung, daß diese Frau, die am Trabe Harry
-Hopkins? betete, auch zu dem Yogi in unklaren Beziehungen
-Sieht. Ich frage sie, ob sie Kaddami kennt. Sie
-widert folgendes: »Ich kenne ihn und seine Gqmmtlvrroie,
+in der Überzeugung, daß diese Frau, die am Grabe Harry
+Hopkins betete, auch zu dem Yogi in unklaren Beziehungen
+Steht. Ich frage sie, ob sie Kaddami kennt. Sie
+erwidert folgendes: »Ich kenne ihn und seine Schildkröte,
 und ich werde beide bestrafen!« — Weiter war aus ihr nichts
 herauszubringen. Gar nichts. Sie verspricht nur noch, für
 Trina sorgen zu wollen, und dann eilt sie mit dem Kinde
-von dannen und benutzt Trevors Barkasse. — Stopp hier,
+von dannen und benutzt Trevors Barkasse. — Stopp hier.
 — Wer ist die Frau? — Ich … weiß es!«
 
 Er blickt mich forschend an …
@@ -1760,49 +1760,49 @@ Er blickt mich forschend an …
 
 »Nein. Ich bin ehrlich. Ich habe keine Ahnung.«
 
-»Dann sollst du jetzt nur erfahren, wodurc&g ich feststellte,
-daß die Ausschnitt-Tänzerin und diese Frau ein und
+»Dann sollst du jetzt nur erfahren, wodurch ich feststellte,
+daß die Kaschmir-Tänzerin und diese Frau ein und
 dieselbe Person ist, mein Alter: Sie trug unter ihren
 Gewändern einen golddurchwirkten Schleier, und als ich
 sie darauf aufmerksam machte, daß ein Stück des Schleiers
-sichtbar sei, erschrak sie. — — So, nun »1 denn festlichen
+sichtbar sei, erschrak sie. — — So, nun zu denn restlichen
 dunklen Punkten …«
 
 <@pagebreak/>
-Er rieb ein Zündholz an … Eine neue Zigarette verwandelt?!
-sich; in Asche und Rauch.
+Er rieb ein Zündholz an … Eine neue Zigarette verwandelte
+sich in Asche und Rauch.
 
-»Da wäre die Riesenschildkröte …
+»Da wäre die Riesenschildkröte … Was hältst du
 von ihr?«
 
 »Schwer zu sagen …«
 
 »Leichte bequeme Antwort. — Würde ich dir meine Vermutung
-mitteilen, du lachtest wißt aus! — Ich habe hier
-in Benares nachgefragt: Kein Mensch; hat eine Ahnung
-von einer sollen Schildkröte, nur … im hiesigen Privat Zoologischen
-Garten des lesen Inders Mandant, so eine
-Art indischer Alter, Banderbilt oder Gould, ist eine Riesenschildkröte
+mitteilen, du lachtest mich aus! — Ich habe hier
+in Benares nachgefragt: Kein Mensch hat eine Ahnung
+von einer solchen Schildkröte, nur … im hiesigen Privat-Zoologischen
+Garten des reichen Inders Marvani, so eine
+Art indischer Astor, Vanderbilt oder Gould, ist eine Riesenschildkröte
 vor etwa drei Monaten krepiert und … dann
 gestohlen worden. — Interessant, nicht wahr? — Nehmen
 wir an, das Tier war nur betäubt, und Kaddami war der
-Dieb, Hältst du das für möglich?«
+Dieb. Hältst du das für möglich?«
 
 »Schwer zu sagen … Das Vieh wiegt viele Zentner …«
 
 »Aha — — das Gewicht, ganz recht, das muß man
-brachten. — Anders sieht die Sache aus, wenn man die
+beachten. — Anders sieht die Sache aus, wenn man die
 Theorie aufstellt, Kaddami habe das tote Tier abgehäutet
 und nur die Haut der Beine, des Kopfes und den Panzer
 mitgenommen, alles übrige aber vergraben. Das wäre möglich.
 — Wozu stahl er Haut und Panzer? — Sein kleiner
 Gehilfe — er arbeitete hier stets mit einem sechsjährigen
-Knaben zusammen — ist … verschwunden … Vielleicht stet
+Knaben zusammen — ist … verschwunden … Vielleicht steckt
 der Junge in der Schildkröte, — — das heißt, der Junge
 spielt Schildkröte. So, und nun lache mich aus.«
 
-»Ich möchte! Wie soll ein Junge einen Schildkröten«
-Panzer wegschleppen, sich mit ihm bewegen?!«
+»Ich möchte! Wie soll ein Junge einen Schildkröten Panzer
+wegschleppen, sich mit ihm bewegen?!«
 
 »Wenn der Panzer präpariert wird, kann er’s. Der
 Panzer braucht nur ganz dünn geschabt zu werden — von
@@ -1811,58 +1811,54 @@ innen her … Viel Arbeit, aber ausführbar.«
 »Also du meinst, daß …«
 
 »Ich sage, daß es so ist. — Wozu hat der Yogi nun
-
-diesen neuen Teil erdacht, wozu läßt er den Jungen »diese
-
--… Was hältst du
-
+diesen neuen Trick erdacht, wozu läßt er den Jungen »dressierte
 <@pagebreak/>
-interessierte Riesenschildkröte« in den Ruinen spielen? — Da möchte
-ich Ei? an den Ursprung der Hindu-Religion erinnern. Ei
-gibt darüber viele Segelten. Eine davon lautet, daß aus
+Riesenschildkröte« in den Ruinen spielen? — Da möchte
+ich dich an den Ursprung der Hindu-Religion erinnern. Es
+gibt darüber viele Lesarten. Eine davon lautet, daß aus
 dem Meere zuerst Gott Indra, die Weltseele, auf einer
-Schildkröte reitend aufgetaucht sei. Die kleine wollen;e Landschildkröte
-gehört deshalb auch zu den allerheiligsten Tieren
+Schildkröte reitend aufgetaucht sei. Die kleine indische
+Landschildkröte gehört deshalb auch zu den allerheiligsten Tieren
 — noch heute. Weshalb erhältst du in keinem indischen Hotel
 eine Speisenkarte, auf der Schildkrötensuppe steht: Weil man
-auf die Hindus Rücksicht nimm!! Kein Inder würde ein
+auf die Hindus Rücksicht nimmt! Kein Inder würde ein
 Hotel betreten, in dem das allerheiligste Tier als Speise
-angeboten wird. Kein Inder tut einer Schildkröte etwas?
-zuleide, und mithin bleibt auch die »Riesen Giftkröte« unbelästigt
-— noch« mehr: die Hindu leugnen, daß ein solches
+angeboten wird. Kein Inder tut einer Schildkröte etwas
+zuleide, und mithin bleibt auch die »Riesenschildkröte« unbelästigt
+— noch mehr: die Hindu leugnen, daß ein solches
 Tier in den Ruinen von Dawalla sein Wesen treibt. Also
 kann der Yogi diese mit einem Knaben gefüllte Attrappe
-getrost zu allerlei benutzen, zu, Beispiel … als Wächter.«
+getrost zu allerlei benutzen, zum Beispiel … als Wächter.«
 
 »Wächter?«
 
-»Ja … Erinnere bis an die Gudunows, Was wollten sie
+»Ja … Erinnere dich an die Gudunows. Was wollten sie
 hier? In der Hauptsache wollten sie, was wir ja miterlebt
 haben, den Oberpriester des hiesigen Latmi-Tempels
 zwingen, ihnen die Felsspalte zu zeigen, wo die Diamantenmine
-sich befindet. Außer dem Oberpriester kennt rote jemand’
+sich befindet. Außer dem Oberpriester kennt noch jemand
 diese Mine: der Yogi! — Er muß sie kennen. Woher
 hätte er sonst all die Edelsteine her, mit denen er Harry
-Hopkins, sein TodeZ8opfer, geschQchmüdt hatte? — Er kennt sie,
-und die »Schildkröte« bewacht die Schaute.«
+Hopkins, sein Todesopfer, geschmückt hatte? — Er kennt sie,
+und die »Schildkröte« bewacht die Schätze.«
 
-»Ööm — + das hat ja endlich Hand und Fuß, aber
--» — zu phantastisch.«
+»Hm — — das hat ja endlich Hand und Fuß, aber
+— — zu phantastisch.«
 
 »Wollen abwarten … — Die Schildkröte ist also auch
 erledigt. Nun kommt der folgende Punkt: Der Absender
 der Briefe mit den Edelsteinen muß über reichlich viel
-»Spalte Tränen des Indra« verfügt haben. Der Absender
-— Trevor zeigte mir ein paar der an Miß Mary gerieten
-Umschläge — trat« zum Schreiben der Adresse eine
+»harte Tränen des Indra« verfügt haben. Der Absender
+— Trevor zeigte mir ein paar der an Miß Mary gerichteten
+Umschläge — hatte zum Schreiben der Adresse eine
 <@pagebreak/>
-Schreibmaschine benutzt. Ich habe festgestellt, daß diese Ums
-!Glase hier in! Edward-Hotel mit der den Gästen zur Verfügung
+Schreibmaschine benutzt. Ich habe festgestellt, daß diese Umschläge
+hier im Edward-Hotel mit der den Gästen zur Verfügung
 stehenden Maschine getippt sind. Auf der Post
 erfuhr ich, daß der Mann, der die Briefe an Miß Mary
 einschreiben ließ, ein gutgekleideter Inder gewesen. Hier im
 Hotel hat kein Inder in den fraglichen Monaten gewohnt,
-nur ein älterer Amerikaner, Naturforscher: Professor Walker,
+nur ein älterer Amerikaner, Naturforscher: Professor Walker.
 — Walker war kein anderer als Hopkins, und Hopkins ist
 der Absender der Briefe. — Woher hatte er, ein von Trevor
 gerade hier in Benares weggejagter Privatsekretär, die Edelsteine,
@@ -1870,7 +1866,7 @@ die er in die Umschläge legte? — Antwort: Aus der
 Diamantenmine!!«
 
 Ich hatte diesen Ausführungen mit ständig wachsender
-Spannung gelauscht. im glaube, der Leser wird dies begreifen,
+Spannung gelauscht. Ich glaube, der Leser wird dies begreifen,
 
 »Woher — wie fand er die Mine?« entfuhr es mir
 geradezu gierig.
@@ -1885,7 +1881,7 @@ Sei gut: Wer ist die Inderin?«
 
 Er lachte …
 
-»Das liegt doch auf der Hand, Max Schraut …ck«
+»Das liegt doch auf der Hand, Max Schraut …!«
 
 Und — — er hielt mir seine rechte Hand offen hin.
 
@@ -1898,38 +1894,41 @@ herzförmiger Smaragd …
 
 <h3>Wiederum gen Dawalla.</h3>
 
-»Diesen Ring zog iQ dem toten Harry Hopkins vom
-Finger, ohne daß ihr es merktet … Schau’ dir die Gras
+»Diesen Ring zog ich dem toten Harry Hopkins vom
+Finger, ohne daß ihr es merktet … Schau’ dir die 
 Gravierung an …«
 
 Ich nahm den Ring …
 
-Dir 10. 2. 1927.
+<p class="centered">M. T. 10. 2. 1927.</p>
+
 stand darin.
 
-Aber — ich hatte heute ein Brett vorm Glieder …
+Aber — ich hatte heute ein Brett vorm Schädel …
 Ich sagte nachdenklich …
 
-»M. Dir …?… Mr … 7«
+»M. T. …? … M. T. …?«
+
 »Mary Trevor …«
-»Beträgt!!«
+
+»Herrgott!!«
 
 »Ja, Mary Trevor …! — Deshalb konnte die »Inderin«
-die Barkasse der Jacht benutzen, deshalb kniete W. FX. am
-Grabe Hopkins’ …! Entweder war Mary mit Hopkins der«
-klebt oder gar verheiratet — heimlich natürlich! — Weshalb
+die Barkasse der Jacht benutzen, deshalb kniete M. T. am
+Grabe Hopkins’ …! Entweder war Mary mit Hopkins verlobt
+oder gar verheiratet — heimlich natürlich! — Weshalb
 Samuel Trevor seinen Sekretär wegjagte, hat er uns nicht
-gesagt. im behaupte, weil er … Lunte roh, daß Harry sich
+gesagt. Ich behaupte, weil er … Lunte roch, daß Harry sich
 an Mary heranmachte. — Als er von Neuyork her dampfte,
-war Mary heimlich mit zu Bord, wobei?!.- Pavian Tetersitz
+war Mary heimlich mit an Bord, wobei ihr Kapitän Tetersitz
 <@pagebreak/>
 geholfen hat. — Und nun will Mary sich an dem Yogi
 rächen.«
 
-»Hall!!« rief ich da. »Dann ist sie also des Glaubens,
+»Halt!!« rief ich da. »Dann ist sie also des Glaubens,
 der Yogi habe ihr die Briefe geschickt.«
 
-»Natürlich … — Und um ihr diesen Star zu stehen,
+»Natürlich … — Und um ihr diesen Star zu stechen,
 werden wir jetzt an Bord der Jacht gehen und mit Kapitän
 Tetersitz zunächst ein ernstes Worten reden. — Mach’ dich
 fertig.«
@@ -1937,74 +1936,75 @@ fertig.«
 »Mit Freuden. Das gibt eine Sensation, wenn wir
 Tetersitz auf den Kopf zusagen, daß …«
 
-»Bitte — du sagst gar nichts!!«
+»Bitte — *du* sagst gar nichts!!«
 
 »Zu Befehl! Ich werde nur staunen!!« — —
 
-—» »Mr. Tetersitz sitzt in seiner Kajüte,« erklärte
+— — »Mr. Tetersitz sitzt in seiner Kajüte,« erklärte
 uns die Deckwache.
 
-Wir waren jetzt zum dritten Mal an Bord der »Neu«-
-suchend«, einer Luxusjacht, die alles aufwies, was modernste
+Wir waren jetzt zum dritten Mal an Bord der »Neufundland«,
+einer Luxusjacht, die alles aufwies, was modernste
 Schiffsbaukunst leisten kann,
 
-James Tetersitz Dr.;k Limonade und rauchte eine Schokoladenzigarre.
+James Tetersitz trank Limonade und rauchte eine Schokoladenzigarre.
 
-Die Limonade war Ruhig?y, die Schokolade eine grün«-
-schwarze Brasil, Tetersitz eines jener Rauhbeine und Originale,
+Die Limonade war Whisky, die Schokolade eine grün schwarze
+Brasil, Tetersitz eines jener Rauhbeine und Originale,
 wie sie in Schifferkreisen immer seltener werden.
 
 »Wer hat Sie reingelassen?« begrüßte er uns und
 musterte uns ablehnend,
 
 »Wir selbst … Sie gestatten, daß wir Platz nehmen …
-Und ein Schlaf Whisky wäre auch angebracht. Dort stehen
-Gläser, Schraut … Darf im Ihnen ebenfalls einschenken,
+Und ein Schluck Whisky wäre auch angebracht. Dort stehen
+Gläser, Schraut … Darf ich Ihnen ebenfalls einschenken,
 mein verehrter Käpten?«
 
 Der Käpten glotzte uns mit seinen Haifischaugen
 tückisch an.
 
-Näher — — er grunzte nur halblaut einen meterlangen
+Aber — — er grunzte nur halblaut einen meterlangen
 Fluch …
 
 Dann sagte Harald, nachdem er Tetersitz zugeprostet
 hatte:
 
 <@pagebreak/>
-»Konnten wir mal Miß Mary sprechen?«
+»Könnten wir mal Miß Mary sprechen?«
 
 Tetersitz riß das Maul auf, ließ die Zahnstummel sehen
 und brüllte dann:
 
-»Sie sind verrät!! Miß Mary ist in Neuyork.«
+»Sie sind verrückt!! Miß Mary ist in Neuyork.«
 
-»Lieber Käpten, ich habe Miß Markt vor Zwei Stunden
+»Lieber Käpten, ich habe Miß Mary vor Zwei Stunden
 auf dem Kirchhof gesprochen, und sie sagte mir, ich solle
 sie doch mal hier besuchen. — Also bitte … Wo ist sie?
 Holen Sie sie … Oder soll ich Mr. Trevor darum bitten,
 seine Tochter uns … vorzuführen?«
 
-Tetersitz fluchte jetzt drei Meter lang
+Tetersitz fluchte jetzt drei Meter lang …
 
 »Sie lügen ja, Sie verdammter Kerl!« schrie er. »Miß
 Mary wird sich hüten, Sie herzubestellen, Sie Oberschnüffler!!
-— Vor Ihnen hat Sie j132 eine Höllenangst.«
+— Vor Ihnen hat Sie ja eine Höllenangst.«
 
 »Schön. Sie haben soeben zugegeben, daß sie hier ist …
 Holen Sie sie!«
 
 Armer Tetersitz!!
 
-»Oh’ — — im Tisch« stöhnte er …
+»Oh — — ich Ochse!« stöhnte er …
 
-»Ja, Sie Feistem mit Eichenlaub und Schwertern! Das
-stimmt?! — Los denn also … Mary muß her!!«
+»Ja, Sie Öchslein mit Eichenlaub und Schwertern! Das
+stimmt!! — Los denn also … Mary muß her!!«
 
-»Himmel, — Sie ist ja schon weg, Mr. Harst … 0«
+»Himmel, — Sie ist ja schon weg, Mr. Harst …!«
+
 »Weg?«
 
-»3 …«
+»Ja …«
 
 »Wohin?«
 
@@ -2012,9 +2012,10 @@ stimmt?! — Los denn also … Mary muß her!!«
 
 »Sie lügen.«
 
-»Möglich …
+»Möglich …«
 
-»Wenn Sie nicht sofort ehrlich sind, rufe im Trevor.«
+»Wenn Sie nicht sofort ehrlich sind, rufe ich Trevor.«
+
 Armer Tetersitz!!
 
 Vor Verzweiflung trank er sein Glas auf einen Zug
@@ -2025,14 +2026,14 @@ Eine Leistung. Allerhand Achtung.
 Dann hustete er, fluchte vier Meter lang und meinte
 lammfromm:
 
-»Sie ist mit der Barkasse unterwegs«…«
+»Sie ist mit der Barkasse unterwegs …«
 
 <@pagebreak/>
 Harald wurde ungemütlich …
 
-»Wenn Sie sich so weiter jeden Grafen mit dem Feuerhaken
+»Wenn Sie sich so weiter jeden Brocken mit dem Feuerhaken
 aus dem Schlund herausziehen lassen, sind Sie die
-(ärgste Zeit hier Kapitän gewesen! — Wo ist Miß Mary?«
+längste Zeit hier Kapitän gewesen! — Wo ist Miß Mary?«
 
 »Mit … mit dem achtmal verdammten Lausekerl von
 Fakir und dem blonden Mädel nach den Ruinen …«
@@ -2045,60 +2046,60 @@ Harst fuhr empor,
 bestochen, und die haben ihn fliehen lassen, und dann haben
 drei von meinen Matrosen den Kerl gepackt und in die
 Barkasse verfrachtet … Die drei bringen das Boot nachher
-zurück, wenn die Miß der Weg zu Pferde Vorsicht …«
+zurück, wenn die Miß den Weg zu Pferde fortsetzt …«
 
 Harald winkte mir …
 
 Wir waren im Nu an Land, im Nu in einer Rikschah,
-Sanatorium Nu im Hotel, im Nu bei dem Pferdeverleiher Ibrahim
-den Schutz …
+im Nu im Hotel, im Nu bei dem Pferdeverleiher Ibrahim
+ben Schurra …
 
 Ein Bote holte indessen den Landsmann Ispallah. Der
 mußte mit. Der wußte in den Ruinen am besten Bescheid.
 
 Von dem buckligen, o-beinigen Ibrahim, der für Benares
-das zweite Original darstellte, hätten wir schon zu
-unserem ersten Ritt Karg den Ruinen die Pferde entliehen.
+das zweite Original darstellte, hatten wir schon zu
+unserem ersten Ritt nach den Ruinen die Pferde entliehen.
 Und damals hatten wir auch seine bildschöne Tochter Guspi
 zu Gesicht bekommen. Heute ließ sich Fräulein Guspi nicht
-sehen, und auch Ibrahim den Schutz, ein ganz geriebener
+sehen, und auch Ibrahim ben Schurra, ein ganz geriebener
 Bursche, war so etwas verlegen, wenn er sich auch vor Diensteifer
 beinahe die Zunge und die Arme verrenkte. Harald
-besichtigte die drei Gäule. Es war nichts an ihnen ganz«-
-zusetzen, wenn es auch nicht dieselben wie das erste Mal
+besichtigte die drei Gäule. Es war nichts an ihnen auszusetzen,
+wenn es auch nicht dieselben wie das erste Mal
 waren. Auf die Mitnahme eines Zeltes, das Ibrahim uns
-dringend anbot, verzichteten wir jetzt. Nur reichlich Seen
+dringend anbot, verzichteten wir jetzt. Nur reichlich Decken
 und eine große Ölleinwand wurde hinter die Sättel geschnallt,
 
 <@pagebreak/>
 Wir drei trabten davon. Den Weg kannten wir. Es
-regnete. Ispallah, der sich recht. zeitig eingefunden, wußte
+regnete. Ispallah, der sich recht zeitig eingefunden, wußte
 bereits daß der Fakir Kaddami auf unerklärliche Art entflohen
 war. Ein Fremdenführer wie der Landsmann Ispallah
-ist stets über die Neuigkeiten schnellstens auf dem Unwissenden.
-Als wir dann den Steindamm, der das Sumpf
-Gebiet westlich des Dorfes Kandurru durchquert, erreicht
+ist stets über die Neuigkeiten schnellstens auf dem Laufenden.
+Als wir dann den Steindamm, der das Sumpfgebiet
+westlich des Dorfes Kandurru durchquert, erreicht
 Hatten, begann zuerst Haralds Brauner zu lahmen. Wir
-stiegen ab, Der Gaul war nachlässig beschlagen. Zwischen
+stiegen ab. Der Gaul war nachlässig beschlagen. Zwischen
 Eisen und Huf hinten links war ein Nagel eingeklemmt,
 der die Weichteile blutig gescheuert hatte.
 
-Harald lachte ärgerlich, »Dieser Halunke!«
+Harald lachte ärgerlich. »Dieser Halunke!«
 
--» Wir sahen auch die Eisen der beiden Rappen nach. Und:
+Wir sahen auch die Eisen der beiden Rappen nach. Und:
 hier dasselbe Bild! Steine zwischen Eisen und Huf!
 
 Das war kein Zufall.
 
 »Wir sollten Mary nicht allzu schnell folgen können,«
-meinte Südost nur. »Mary hat Ibrahim Festessen. Säubern
-wir die Wunden mit Alkohol. Dann streiche ich) Zinksalbe
+meinte Harst nur. »Mary hat Ibrahim bestochen. Säubern
+wir die Wunden mit Alkohol. Dann streiche ich Zinksalbe
 aus der Reiseapotheke auf. Wir müssen weiter.«
 
 Auf dem Steindamm ritten wir Schritt. Nachher, als
 die Kultur aufhörte und der Dschungel begann, Galopp.
 Hier fanden wir auch die frische Fährte von vier anderen
-Reitern, die genau wie wir sie; sehr beeilt hatten.
+Reitern, die genau wie wir sich sehr beeilt hatten.
 
 Um vier Uhr nachmittags kamen die ersten grünen
 Ruinenhügel von Dawalla in Sicht. Ich habe bereits im
@@ -2108,32 +2109,32 @@ daß die gefährlichen Bewohner, Tiger, Panther, Giftschlangen,
 hier überhand nehmen und daß die Jagdhüter
 besonders der Tiger nicht Herr werden. Anderseits ist es
 von der indischen Regierung nur richtig, daß sie auch das
-Raubwild vor Ausrottung schützt. Abschußscheine Würden
-Dawalla-Dschungel werden nicht au8&gegeben.
+Raubwild vor Ausrottung schützt. Abschußscheine für den
+Dawalla-Dschungel werden nicht ausgegeben.
 
-Die Fährte der vier Reiter (wer der vierte war, ernstem
+Die Fährte der vier Reiter (wer der vierte war, errieten
 <@pagebreak/>
 wir nicht) bog um den Chiwa-Tempel herum genau nach
 Südwest dorthin, wo in der einstigen Königsstadt Dawalla
-der Marktplatz, ein Viesengeviert von zwei Kilometer Seitenlänge,
-gelegen hatte. Dawalla war seinerzeit der Zentralamt
-des gesamten Handels naß Südindien gewesen, und
+der Marktplatz, ein Riesengeviert von zwei Kilometer Seitenlänge,
+gelegen hatte. Dawalla war seinerzeit der Zentralpunkt
+des gesamten Handels nach Südindien gewesen, und
 wie großartig dieser Handel gewesen, beweisen die Ruinen
 zahlloser Karawansereien, die den ungeheuren Markt, jetzt
 nur eine Wildnis, einrahmen.
 
-Wildnis ich- und was für eine!k!
+Wildnis — und was für eine!!
 
-Hier Falten die Lianen, die Dornen, die Guten-Sträucher,
-die öerschiedenartigsten Bäume Luft und Licht und Feuchtigkeit
+Hier hatten die Lianen, die Dornen, die Gussa-Sträucher,
+die verschiedenartigsten Bäume Luft und Licht und Feuchtigkeit
 gehabt. Hier ragten über das grüne Dickicht prachtvolle
-Baumkronen chßinweg, darunter Satanas mit ihrem knallgelber
-Laub, Gelassen mit roten Blütendolden: eine herrliche
+Baumkronen hinweg, darunter Satarras mit ihrem knallgelben
+Laub, Ortageen mit roten Blütendolden: eine herrliche
 Farbenorgie.
 
 Wir hatten uns bisher in diesen Teil der Ruinenstadt
 nicht hineingewagt. Wir hielten ihn für undurchdringlich.
-»Zu unserem Erstaunen verschwand die Fährte der vier, nachdem
+Zu unserem Erstaunen verschwand die Fährte der vier, nachdem
 sie die letzten hundert Meter sehr pfuscherhaft ausgelöscht
 war, hinter Lianenvorhängen, und diese Vorhänge
 verdeckten den Eingang zu einem unterirdischen Kanal der
@@ -2143,36 +2144,38 @@ Bevor wir in den Kanal hineinritten, der nur noch mit
 trockenem Schlamm gefüllt war, trat jene Erscheinung auf,
 die in der Regenzeit alltäglich zwischen fünf und sieben zu
 beobachten ist: das Regengewölk zerteilte sich, und die Sonne
-— Bestrahlte sengend diese Fieberwildnis. Dann tauchten wir
+Bestrahlte sengend diese Fieberwildnis. Dann tauchten wir
 in die Finsternis des Kanals hinab. Unsere Tiere lahmten
 wieder. Wir führten sie ein Stück am Zügel und ließen
 sie dann zurück.
 
 Fünf Minuten Dauerlauf …
 
-— Jetzt Licht — Tageshelle vor uns …
+Jetzt Licht — Tageshelle vor uns …
+
 Und dann das Wunder …
+
 Fata Morgana …
 
 <@pagebreak/>
 
-<h2>1. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
 <h3>Mary Trevor.</h3>
 
 Luftspiegelungen bilden sich zumeist nur über Sandwüsten.
 In Indien sind sie selten. — Als wir den Kanal verließen,
 lag eine weite freie Fläche vor uns: nackter Fels,
-Giaur hier und dort einige Hügel, Büsche und Zwergpalmen.
+nur hier und dort einige Hügel, Büsche und Zwergpalmen.
 
-Über dieser Fläche schqwamm in der Luft ein Bild
+Über dieser Fläche schwamm in der Luft ein Bild
 mit verwaschenen Rändern …
 
 Ein Bild, das unsere Füße lähmte …
 
 Da war gleichsam als Postament das unnatürlich vergrößerte
-Nüenschhild einer Schildkröte … Das Tier schien
-in der Luft zu schweben … Auf dem &Ecqchilde scheinbar
+Rückenschild einer Schildkröte … Das Tier schien
+in der Luft zu schweben … Auf dem Schilde scheinbar
 aufgehäuft ein Holzstoß, daraus hervorragend ein Pfahl,
 an den Kaddami festgebunden. Der Scheiterhaufen brannte
 lichterloh. Dicke Rauchmassen verhüllten mitunter sowohl
@@ -2184,8 +2187,8 @@ Die wehenden Schleier waren genau zu erkennen …
 Es war Mary Trevor.
 
 »Vorwärts!« — — und Harald raste davon … Die
-Fährte war hier auf dem SGSteinboden nur schwer zu des
-Werken …
+Fährte war hier auf dem Steinboden nur schwer zu bemerken
+…
 
 <@pagebreak/>
 Wir rannten … keuchten …
@@ -2205,20 +2208,20 @@ Wir rannten …
 
 Mary Trevor sah uns nicht …
 
-Wir sahen die Schildkröte dicht vor dem Holzstoß …
+*Wir* sahen die Schildkröte dicht vor dem Holzstoß …
 
 Wir beide bekamen Vorsprung. Hier konnte der um
-zwanzig Jahre ältere Landsmann Ispallah trug nicht mithalten.
-Er blieb Zufuhr,
+zwanzig Jahre ältere Landsmann Ispallah doch nicht mithalten.
+Er blieb zurück,
 
 Wir beide nun dicht neben der Tanzenden, deren
 braun gefärbtes Gesicht einen Ausdruck zeigte, — — wie ihn
 nur eine Irre in so abschreckender Wildheit haben kann.
 
-Ich rate Mary …
+Ich packte Mary …
 
-Harst riß die Brände ausgewunden … Zum Glück war
-das Holz nach, und der Yogi war lediglich durch; den Rauch
+Harst riß die Brände auseinander … Zum Glück war
+das Holz naß, und der Yogi war lediglich durch den Rauch
 betäubt und erholte sich nachher schnell.
 
 Mary starrte mich lächelnd an …
@@ -2240,9 +2243,9 @@ Kaddami ließ alles mit sich geschehen. Sein faltiges
 Totenkopfgesicht zeigte den stumpfen Ausdruck eines Menschen,
 der mit seinen Gedanken weit fern ist.
 
-Als wir uns dann nacht der Schildkröte umschauten,
+Als wir uns dann nach der Schildkröte umschauten,
 <@pagebreak/>
-war sie verschwunden. Auch Ispallah war nirgends, zu
+war sie verschwunden. Auch Ispallah war nirgends zu
 sehen.
 
 Harald wandte sich an Mary, die sich auf einen Stein
@@ -2253,12 +2256,12 @@ Was sie sang …
 Was damals alle Welt trällerte und noch lange trällern
 wird:
 
-Gern … hab’ im die Frau’n geküßt …
+> Gern … hab’ ich die Frau’n geküßt …
 
 Und dabei … küßte sie immerfort den glatten Goldreif
 mit dem grünen kostbaren Smaragd.
 
-Eis war genau derselbe Ring, den Harald dem toten
+Es war genau derselbe Ring, den Harald dem toten
 Hopkins vom Finger gezogen.
 
 »Miß Trevor …!«
@@ -2267,13 +2270,13 @@ Sie blickte auf.
 
 »Kennen Sie mich, Miß Trevor?
 
-Sie Kiste lächelnd …
+Sie nickte lächelnd …
 
 »Sie sind über Ihres Verlobten Tod sehr traurig?«
 
 Sie verzog das Gesicht zum Weinen … Sie weinte …
 
-»Es … war … mein Gatte, Mr. Harst. Über er ist
+»Es … war … mein Gatte, Mr. Harst. Aber er ist
 nicht tot … Kaddami kann ihn wieder lebendig machen. Die
 Yogi können alles.«
 
@@ -2284,54 +2287,55 @@ Trauen Sie mir eine Lüge zu?«
 
 »Hopkins hat schändlich an Ihnen gehandelt …«
 
-Ich h;mochte auf …
+Ich horchte auf …
+
 »Hopkins hat Ihnen die Briefe und die Giftzähne geschickt
 …
 
-»T Das ist nicht wahr …«
+»Das ist nicht wahr …«
 
 »Es ist wahr … — Weshalb blieb er hier in Benares
-zurück, weshalb folgte er Ihnen nicht mag) Neuzeit?«
+zurück, weshalb folgte er Ihnen nicht nach Neuyork?«
 
 »Weil er für uns beide Reichtümer erwerben wollte.
-»Mein Vater hätte uns nichts gegeben und mich verstoßen
+Mein Vater hätte uns nichts gegeben und mich verstoßen.«
 
-»Reichtümer? — Sie meinen wohl »’e Diamantenmi:…
+»Reichtümer? — Sie meinen wohl die Diamantenmine,
 <@pagebreak/>
 nicht wahr? Wie hatten Sie erfahren, wo die Edelsteine
 zu finden waren?«
 
 Mary lächelte kindlich …
 
-»oh, ich hatte Glich gehabt … Ich war mit Na bei
+»oh, ich hatte Glück gehabt … Ich war mit Pa bei
 unserem ersten Besuch in Benares hier in den Ruinen.
-Ich schoß einen Panther, obwohl’8s verboten. Ich bin seit
+Ich schoß einen Panther, obwohl’s verboten. Ich bin seit
 langem Jägerin. Das Tier war nur stark angeschweißt.
-Ich folgte ihm, und die Blutspur führte wißt durch den
+Ich folgte ihm, und die Blutspur führte mich durch den
 Kanal hierher. Hier war der Panther in eine Felsspalte
-gekrochen. im sah ihn, gab ihm den Vorschuß, und als
-ich? ihn dann ins Freie zerren wollte, erblickte ich unten
-in der Höhle einen blaugrauen Sandstreifen, in dem Zahl
-lose Steinchen lagen: Edelsteine! Diamanten! — Da die
-Felsspalten dort drüben sehr zahlreich) sind, fertigte ich eine
+gekrochen. Ich sah ihn, gab ihm den Fangschuß, und als
+ich ihn dann ins Freie zerren wollte, erblickte ich unten
+in der Höhle einen blaugrauen Sandstreifen, in dem Zahllose
+Steinchen lagen: Edelsteine! Diamanten! — Da die
+Felsspalten dort drüben sehr zahlreich sind, fertigte ich eine
 Zeichnung an, um die richtige finden zu können, oder besser,
-Damit Harry sie fände, mit dem ich mich vor anderthallt
+Damit Harry sie fände, mit dem ich mich vor anderthalb
 Jahren in England verheiratet hatte … Harry wird wieder
 aus dem Grabe auferstehen … Kaddami wird in aus
 Angst vor dem Scheiterhaufen lebendig machen. Wir wollen
-den Yogi wieder festbinden, Mr. Harst. Er ist ein Mörder,
-Er schrie die Briefe.«
+den Yogi wieder festbinden, Mr. Harst. Er ist ein Mörder.
+Er schickte die Briefe.«
 
 Harald sagte eindringlich, damit die Kranke ihre Gedanken
 wieder auf die Zeichnung konzentriere:
 
-»Die Skizze steten Sie in Ihr goldenes Fläschchen,
+»Die Skizze steckten Sie in Ihr goldenes Täschchen,
 nicht wahr?«
 
-»3 …«
+»Ja …«
 
-»und noch; an demselben Tage suchte Kaddami Ihnen
-Das Taschen zu stehlen — der Skizze wegen. Er hatte
+»und noch an demselben Tage suchte Kaddami Ihnen
+Das Täschchen zu stehlen — der Skizze wegen. Er hatte
 Sie hier beobachtet, und er wollte Sie und Hopkins töten,
 weil Sie beide sein Geheimnis kannten.«
 
@@ -2340,44 +2344,42 @@ Harry wieder …«
 
 »Halt …!! Erinnern Sie sich, — als Ispallah, der
 <@pagebreak/>
-Fremdenführer, den Diebstahl verhinderte, sah er sich d.
+Fremdenführer, den Diebstahl verhinderte, sah er sich da
 nachher die Skizze an?«
 
 »Ich glaube … Es war ja alles aus dem goldenen
 Täschchen herausgefallen …«
 
 »So, dann ist auch das letzte geklärt.« Er trat vor
-den Yogi hin.: — —
+den Yogi hin.
 
 »Kaddami, Hopkins hat Ispallah ebenfalls ermorden
 wollen, weil er die Zeichnung kannte. Es sollten die beiden
 Personen, die der Diamantenmine gefährlich werden konnten,
 ausgelöscht werden, und das waren Mary und Ispallah.«
 
-»und ich!« sprach der Fakir. »Und ich, Sahib Harst
+»und ich!« sprach der Fakir. »Und ich, Sahib Harst!
 Dieser Hopkins hat mir hundertfach nach dem Leben getrachtet,
 denn, als er die ersten Diamanten aus der Spalte geholt,
-habe ich diese unkenntlich gemacht. Niemand findet sie mehr,
+habe ich diese unkenntlich gemacht. Niemand findet sie mehr.
 Da hat er mich, den wahren Besitzer der Reichtümer, zusammen
 mit seiner Geliebten, der Tochter des Pferdeverleihers
-Ibrahim, einmal gemartert, aber — »Höhnisch und
+Ibrahim, einmal gemartert, aber — ich schwieg und
 entfloh, und dann belauerte er mich auf Schritt und Tritt,
-schoß mehrmals matt mir … Er hatte den Tod verdient,
+schoß mehrmals nach mir … Er hatte den Tod verdient,
 Sahib, denn auch diese Lady, seine Frau, hat er betrogen
-und ermorden wollen. Er war der Absender der Briefe,
-Ich schwöre es dir, bei Chiwa, dem Vernichtet und Erzeugen!«
+und ermorden wollen. Er war der Absender der Briefe.
+Ich schwöre es dir, bei Chiwa, dem Vernichter und Erzeuger!«
 
 Mary Trevor war herbeigeeilt.
 
-»Guspi, Ibrahims Tochter, seine Geliebte?« schrie!ie
+»Guspi, Ibrahims Tochter, seine Geliebte?« schrie sie
 gellend. »Guspi ist hier … Guspi und Trina wollten die
-»Spalte suchen …! Mr. Harst, rasch, rasch, — — drüben
-gegen die vielen Felslöcher … Guspi ist dort …,«
+Spalte suchen …! Mr. Harst, rasch, rasch, — — drüben
+liegen die vielen Felslöcher … Guspi ist dort …«
 
 Und sie begann den jenseitigen Steilhang emporzuklettern
-.0.«.
-
-Genen gemefälies »Essig ein
+…
 
 <@pagebreak/>
 
@@ -2385,17 +2387,17 @@ Genen gemefälies »Essig ein
 
 <h3>Ispallahs Verwandlung.</h3>
 
-… « — « Menschenschicksale beobachten heißt Zufriedenheit
-Lernen, heißt beschleichen und demütig werden.
+… Menschenschicksale beobachten heißt Zufriedenheit
+lernen, heißt bescheiden und demütig werden.
 
 Wir haben Millionäre gekannt, die später als Hausierer
 am Straßengraben standen. Manche brachten es wieder zu
-Reichtum. Die. meisten endeten verbittert mit der Schnaps8flaschMe
-im Arm. Wir haben grünliche Ehen gekannt, deren
-Glück Flittergold war. Wir haben Mengen studiert und
+Reichtum. Die meisten endeten verbittert mit der Schnapsflasche
+im Arm. Wir haben glückliche Ehen gekannt, deren
+Glück Flittergold war. Wir haben Menschen studiert und
 sind mild im Urteil über andere geworden.
 
-Ispallah. — Auch ein Menschenshissal …
+Ispallah. — Auch ein Menschenschicksal …
 
 Und dieser Ispallah stand hoch aufgerichtet, mit einem
 seltenen Glanz auf dem müden, vornehmen alten Gesicht,
@@ -2412,16 +2414,16 @@ die Skizze, Miß Trevor, die Sie anfertigten, existiert nicht
 mehr. Der Yogi hat sie verbrannt. Aber in meinem Hirn
 lebte die Zeichnung weiter, nur daß ich nichts von dem
 Kanal wußte, der den einzigen Zugang zu diesem Felsplateau
-inmitten des Markes der alten Königsstadt bildet.
+inmitten des Marktes der alten Königsstadt bildet.
 Die Skizze lebte in mir mit aller Deutlichkeit, und sie
-war meine Hoffnung, daß ich mein Leben ins der Heimat
-im Schlosse meiner Ihnen beschließen könnte. — Dort unten
+war meine Hoffnung, daß ich mein Leben in der Heimat
+im Schlosse meiner Ahnen beschließen könnte. — Dort unten
 liegen Märchenschätze. Mag Herr Harst bestimmen, wie sie
-zu teilen sind. Die indische Regierung erhebt gesetzlich Ans
-sprach auf ein Drittel jeden Schabendes. Sie soll haben,
+zu teilen sind. Die indische Regierung erhebt gesetzlich Anspruch
+auf ein Drittel jeden Schatzfundes. Sie soll haben,
 was ihr gebührt. Die eigentlichen Besitzer der Fundstelle
-»Tod der Oberpriester des Latmi-Tempels und der Yogi.
-Auch- ihnen und Miß Trevor soll gehören, was recht
+sind der Oberpriester des Latmi-Tempels und der Yogi.
+Auch ihnen und Miß Trevor soll gehören, was recht
 und billig ist.«
 
 Harald hatte Ispallah nicht unterbrochen, obwohl ich
@@ -2431,13 +2433,13 @@ manches einzuwenden hatte.
 Jetzt tat er es.
 
 »Der Yogi ist ein entflohener Untersuchungsgefangener
-»und na dem Buchstaben des Gesetzes ein Mörder. Die
-Regierung wird ihm nichts zubilligen.« …
+und nach dem Buchstaben des Gesetzes ein Mörder. Die
+Regierung wird ihm nichts zubilligen.«
 
-Ispallah bitte Harst prüfend an.
+Ispallah blickte Harst prüfend an.
 
 »Sie sind dafür bekannt, Herr Harst,« sagte er in
-— deutschen Sprache, »daß Sie oft eigene Justiz üben. Ich
+deutscher Sprache, »daß Sie oft eigene Justiz üben. Ich
 habe Ihnen bisher aus selbstsüchtigen Gründen verschwiegen
 gehabt, daß ich mehr über die Briefe und all das übrige
 wußte, als ich zugab. Daß Harry Hopkins ein Lump, war
@@ -2449,67 +2451,64 @@ meinen weitverzweigten Beziehungen nicht verborgen bleiben.
 spielte. Meines armseligen Daseins einziger Wunsch war
 der, meine Heimat wiederzusehen und den Stammsitz meines
 <@pagebreak/>
-Geschichte, in dem jetzt ein Neureicher seine üblen Manieren
+Geschlechts, in dem jetzt ein Neureicher seine üblen Manieren
 und seine »moderne« Gesinnung angesichts der Bilder meiner
 Vorfahren mit der zynischen, dummen Frechheit dieses Schlages
 von Leuten zur Schau stellt, wieder an mich zu bringen.
 Es ist und bleibt ein eigen Ding um das oft belächelte
 blaue Blut, Herr Harst. Unsereiner hängt mit jeder Faser
-seines Herzens an den Erinnerungen der Hätten. Wir straucheln
-moralisch; aus einem Übermaß an Tradition3ö3gefühl. Auch
-ich. Ichc4 hätte Ihnen gegenüber ehrlich sein müssen. Aber
+seines Herzens an den Erinnerungen der Väter. Wir straucheln
+moralisch aus einem Übermaß an Traditionsgefühl. Auch
+ich. Ich hätte Ihnen gegenüber ehrlich sein müssen. Aber
 die Angst, daß das nahe Ziel meiner Sehnsucht wieder in
-weite Ferne gerückt werden und mir mein Unheil an dem
-Reis um entgehen könnte, blendete mir den Blick für Recht
-
+weite Ferne gerückt werden und mir mein Anteil an dem
+Reichtum entgehen könnte, blendete mir den Blick für Recht
 und Unrecht. Verzeihen Sie mir und … lassen Sie den
-er laufen.«
+Yogi laufen.«
 
 Er hatte absichtlich deutsch gesprochen.
 
-Dover Mary Trevor voll Ibrahims Wächter konnten
+Weder Mary Trevor noch Ibrahims Wächter konnten
 verstehen, was er sagte. Nur die kleine Trina. Und die
-schmiegte sich voll immer an Ispallahs überschlanke Gestalt
+schmiegte sich noch immer an Ispallahs überschlanke Gestalt
 und schaute selig zu ihm auf.
 
-&r fuhr fort, indem er die Wange des Tutete streichelte:
+Er fuhr fort, indem er die Wange des Kindes streichelte:
 »Mein wahrer Name soll verschwiegen bleiben … Nur
-eins nur zum Schluß: ein Zufall hat mich vorhin erfahren
+eins noch zum Schluß: ein Zufall hat mich vorhin erfahren
 lassen, daß Trinas Mutter und ich uns sehr nahe standen …
 Deshalb werde ich das Kind mit mir nehmen …«
 
-Trina lächelte grünlich. »Wir gern folge ich dir, Onkel
+Trina lächelte grünlich. »Wie gern folge ich dir, Onkel
 Heinz, wie gern …!« —
 
 Harst fragte nichts weiter, sagte nichts weiter.
 
 Wir stiegen in die Höhle hinab. Ispallah bewachte oben
-die Tochter Ibrahims und Mary Trevor. Bessere war wieder
+die Tochter Ibrahims und Mary Trevor. Letztere war wieder
 in völlige Teilnahmslosigkeit zurückversunken, spielte mit
-
 ihrem Ringe und trällerte …: »Gern — hab’ ich …«
+
 Wir beide standen nun auf dem blaugrauen Schwemmsande,
-der berühmten blauen Erde, — — vor den Millione’
-schätzen.
+der berühmten blauen Erde, — — vor den Millionenschätzen.
 
 <@pagebreak/>
 Die Natur hatte hier in einer ihrer unbegreiflichen
-Launen Diamanten aller Größen auf engem Raum zusammen
-getragen, K:
+Launen Diamanten aller Größen auf engem Raum zusammengetragen.
 
-Wer sich für diese Mine näher interessiert, lese in Ct
-Glatteis Indischem Archiv, Heft 29, den Artikel über) »Die«
+Wer sich für diese Mine näher interessiert, lese in Sir
+Glosters Indischem Archiv, Heft 29, den Artikel über »Die
 Teilung der 4835 Diamanten von Dawalla« nach.
 
 Jedenfalls hat Ispallah davon soviel erhalten, daß er
 als mehrfacher Millionär mit der kleinen Trina in die
 Heimat zurückkehrte. Seinen Namen gab er auch in dem
-Seilungsprotokoll nur mit »Ispallah« an,
+Teilungsprotokoll nur mit »Ispallah« an,
 
 Wir haben von ihm nie wieder etwas gehört.
 
-Und da kennen wir seinen wahren Namen Untreue
-engere Heimat und sein Schloß sehr gut. Sollten ihm Briefe
+Und doch kennen wir seinen wahren Namen und seine
+engere Heimat und sein Schloß sehr gut. Sollten ihm diese
 Zeilen, was ich sicher annehme, in die Hände kommen, so
 mag er an der einen Andeutung über sein Wappen entnehmen,
 daß wir Bescheid wissen. Sein Wappen zeigt als
@@ -2518,10 +2517,10 @@ Wappentier einen springenden Hund mit hochgestellter Rute.
 Damals in Benares war’s vielleicht, um auch dies zu
 erwähnen, unsere härteste Ausgabe, den armen Samuel Trevor
 zu trösten, der durch die geistige Umnachtung seines Kindes
-selbst beinahe den Verstand verlor, — Und weiter gab’s
+selbst beinahe den Verstand verlor. — Und weiter gab’s
 noch einen bösen Kampf: mit der Polizei! Diese machte
 Harald den Vorwurf, den Yogi Kaddami absichtlich nur ganz
-leicht gefesselt und ihm dadurch; die Flucht ermöglicht. zu
+leicht gefesselt und ihm dadurch die Flucht ermöglicht zu
 haben.
 
 Kaddami blieb verschwunden.
@@ -2529,14 +2528,14 @@ Kaddami blieb verschwunden.
 Nicht für uns.
 
 Wo und wie der Yogi mit uns zusammentraf, soll das
-nächste Mal im »Bild des Toten« berichtet werden,
+nächste Mal im »*Bild des Toten*« berichtet werden,
 
 Und nun zum Schluß: die Schildkröte!
 
 Haralds Vermutung war richtig gewesen, wie Trina uns
 bestätigte, die selbst in der Tempelruine beobachtet hatte,
 wie der Junge in den Panzer hineinkroch und die Haut
-der Beine und des Kopfes überstrahlte,
+der Beine und des Kopfes überstreifte,
 
 <@pagebreak/>
 Gesehen oder gefunden haben wir die Schildkröte damals
@@ -2544,28 +2543,28 @@ nicht mehr.
 
 Damals …
 
-»ck Es wird später über diese Schildkröte noch manches zu
+Es wird später über diese Schildkröte noch manches zu
 sagen sein. — —
 
-So; schließe für heute. Ich sitze in Benares im Edward Hotel,
+Ich schließe für heute. Ich sitze in Benares im Edward-Hotel,
 Zimmer 18, und durch die Balkontür dringt die
 Musik herein, die aus der Glashalle heraufschallt: Jazz …
 
 Und man spielt:
 
-… Gern hab’ ich die Frau’n geküßt …
+> … Gern hab’ ich die Frau’n geküßt …
 
-— —« Arme Mary Trevor …!!
+— — Arme Mary Trevor …!!
 
-»in einem Sanatorium verbringt sie ihre Tage und ruft
-sehnsüchtig nahe Kaddami, der ihr den toten Gatten wieder
-lebendi3z machen soll. —
+in einem Sanatorium verbringt sie ihre Tage und ruft
+sehnsüchtig nach Kaddami, der ihr den toten Gatten wieder
+lebendig machen soll. —
 
 Die blendend schöne Guspi ist in Kalkutta in einer
 Hafengasse in einem Hause mit kleinen Fenstern, roten
 Jalousien und vielen Zimmern.
 
-Ich werde zu Bett gehen…«.
+Ich werde zu Bett gehen …
 
 Harald schläft längst …
 
