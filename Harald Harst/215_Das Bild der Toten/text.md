@@ -1356,30 +1356,28 @@ Schildkröte — heimlich!
 
 Das Prince Edward-Hotel in Benares ist das modernste,
 eleganteste und billigste in ganz Indien. Es gehört einem
-amerikanischen Konsortium. Der Direktor ist Schweizer, der«
-Seite Rom ein Dr/sicher und der Portier ein Österreicher.
-— Obwohl jetzt »die Saison, war es überfüllt. Der Milz
-liardenregen, der- sich über Amerika ergossen hat, nachdem
-es (so klug un, vorsichtig aus dem Weltkrieg ein smartes
-Geschäft gemacht, hatte dort die Neuesten noch weit üppiger
-
-ins Kraut solchen lassen als anderswo. Immerhin — und
-meines Mittag hat nett kein international bewanderter
-Jedenfalls: auf Ei:gen Unterjahied hingewiesen — Gesicht
-
-zwischen ein deutschen Typ »Rasse« und dem amerikanischen
-ein große: Unterschied: Herr Neureich aus Berlin, Frankfurt,
-S’mburg usw. bleibt bis zu einem gewissen Grade
-bescheren, läßt sich leicht imponieren und verkriecht sich
-in s::9 selbst, sobald er merkt, daß die dünne oder Eltern
+amerikanischen Konsortium. Der Direktor ist Schweizer, der
+Erste Koch ein Deutscher und der Portier ein Österreicher.
+— Obwohl jetzt keine Saison, war es überfüllt. Der Milliardenregen,
+der sich über Amerika ergossen hat, nachdem
+es so klug und vorsichtig aus dem Weltkrieg ein smartes
+Geschäft gemacht, hatte dort die Neureichen noch weit üppiger
+ins Kraut schießen lassen als anderswo. Immerhin — und
+meines Wissens hat noch kein international bewanderter
+Federfuchser auf diesen Unterschied hingewiesen — besteht
+zwischen dem deutschen Typ »Raffke« und dem amerikanischen
+ein großer Unterschied: Herr Neureich aus Berlin, Frankfurt,
+Hamburg usw. bleibt bis zu einem gewissen Grade
+bescheiden, läßt sich leicht imponieren und verkriecht sich
+in sich selbst, sobald er merkt, daß die dünne oder dickere
 goldene neue Haut seines werten Kadavers, mit der er
-zu prunken besitzt, belächelt wird. Herr Yankee aus Notiz
-Amerika dagegen zeichnet sich allemal durch dieselbe selbstbewußte
+zu prunken beliebt, belächelt wird. Herr Yankee aus Neuamerika
+dagegen zeichnet sich allemal durch dieselbe selbstbewußte
 Unerzogenheit aus und sucht etwas darin, andere
 zu ärgern.
 
 <@pagebreak/>
-So Fuchs unsere Balkonnachbarn im Edward. Wir hatten
+So auch unsere Balkonnachbarn im Edward. Wir hatten
 zwei Zimmer im zweiten Stock, Aussicht nach dem Flusse.
 Neben uns lag eins der sogenannten Luxusappartements,
 drei Zimmer, Bad, Ankleideraum, Vorzimmer, durchgehender
@@ -1391,7 +1389,6 @@ Tochter, Filius.
 
 Dieser Filius von neunzehn Jahren, John der Jüngere,
 immer Jonny zum Unterschied vom »alten« John gerufen,
-
 hatte aus dem Fremdenbuch ersehen, daß Herr Harst aus
 Berlin nebenan wohnte.
 
@@ -1408,122 +1405,124 @@ Frühstück.
 Der Regen hatte sich für kurze Zeit in festlichen Sonnenglanz
 verwandelt. Es war Sonntag,
 
-Und da kam »er«, nämlich Seine erlauschte, ausgehöhlte
+Und da kam »er«, nämlich Seine erlauschte, ausgekochte
 Frechheit Mr. Jonny Weec.
 
 Auf seiner Besuchskarte, die er uns durch die Kellner
-Stille, stand:
+schickte, stand:
 
-John Percy Weec,
-Prokurist, WeecComp.,
+<p class="centered">John Percy Weec,</p>
+<p class="centered">Prokurist, Weec-Comp.,</p>
+<p class="right">Chikago.</p>
 
 Und mit Bleistift:
 
-in besonderem dringenden Anliegen.
-Als er vor uns saß, entpuppte er sich als ein stämmiger
-Bursche von blühender Gesundheit mit einem durimpfissigen
-Chikago.
+> in besonderem dringenden Anliegen.
 
+Als er vor uns saß, entpuppte er sich als ein stämmiger
+Bursche von blühender Gesundheit mit einem dummpfiffigen
 <@pagebreak/>
-Behielt, Henkelohren und von beängstigender a Wehr
+Gesicht, Henkelohren und von beängstigender falschverstandener
 Eleganz.
 
-Er sagte: »Es war selbstverständlich, daß ie: Sie kennen
-lernen mußte, Mr. Harst. Mein Na lädt St und Ihren
-Freund zu einer Jagd ein. Was kostet das?
+Er sagte: »Es war selbstverständlich, daß ich Sie kennen
+lernen mußte, Mr. Harst. Mein Pa lädt Sie und Ihren
+Freund zu einer Jagd ein. Was kostet das?«
 
-»Eine Million Dollar,« Erwiderte Garn in: weist Zuvorkommend.
+»Eine Million Dollar,« erwiderte Harst äußerst Zuvorkommend.
 
-Jonny Sturme. »Ei: scherzen In
+Jonny grinste. »Sie scherzen …«
 
 »Nein. Aber Sie …! — Wenn Sie Führer für eine
-Jagdpartie brauchen, so wählen Sie billiger?.’
+Jagdpartie brauchen, so wählen Sie billigere.«
 
-»aber —« wir könnten doch daheim in Chi’139 erzählen,
-Der 2:7
+»aber — wir könnten doch daheim in Chikago erzählen,
+daß …«
 
-»Dann muß Ihnen dies auch eine Will! Ton wert sein …«
+»Dann muß Ihnen dies auch eine Million wert sein …«
 
-»Na wollte zehntausend Dollar anlegen»…
+»Pa wollte zehntausend Dollar anlegen …«
 
-»Legen Ei? das Übrige zu …«
+»Legen Sie das Übrige zu …«
 
-»Ja besitzt nur gar Millionen, leider … Hätte ich
-21916 die Brummige ausrichten können, wären es fünfzig
+»Pa besitzt nur acht Millionen, leider … Hätte ich
+1916 die Konjunktur ausnutzen können, wären es fünfzig
 geworden.«
 
-Harald nahm die Zeitung wieder zur Hand und!As.
-Ich lehnte mich über die Batikonbeüstung und betrachtete
-das Treiben auf dem Flusse, das fraglos interessanter ’war
-wi? Mr. Sprang.
+Harald nahm die Zeitung wieder zur Hand und las.
+Ich lehnte mich über die Balkonbrüstung und betrachtete
+das Treiben auf dem Flusse, das fraglos interessanter war
+wie Mr. Jonny.
 
-Mr. Kennt aus Sie rief empört;
+Mr. Jonny aus Chikago rief empört:
 
-»er. Harst, was ix:5t das 91«
+»Mr. Harst, was heißt das?!«
 
-»aß uns Ihr Besuch unerwünscht ist. Grüßen Sie
-Jan. du
+»Daß uns Ihr Besuch unerwünscht ist. Grüßen Sie
+Ihren Pa …«
 
-Schnur Weec hüstelte, »Sie sind sehr empfindlich, Mister
+Jonny Weec hüstelte. »Sie sind sehr empfindlich, Mister
 Harst. Wie wär’s mit zwanzigtausend Dollar für fünf Tage.
-Ja träge also Kosten. Er hat bereits zwei Abshußscheince
-für Tiger auf der Halbinsel »Chanari besorgt, dazu drei
-Jagdelefanten gemietet und
+Pa trägt alle Kosten. Er hat bereits zwei Abschußscheine
+für Tiger auf der Halbinsel Chanari besorgt, dazu drei
+Jagdelefanten gemietet und …«
 
-Harald ließ die Zeitung Häfen. im drehte mich um.
+Harald ließ die Zeitung sinken, ich drehte mich um.
 
-»Chanari, sagten
+»Chanari, sagten Sie?«
 
-»2 … Chanari. Das soll ein Gebiet von etwa dreißig
+»Ja … Chanari. Das soll ein Gebiet von etwa dreißig
 <@pagebreak/>
-Wuadrotmeilen sein, zum Teil Sumpf, unbewohnbar wegen
+Quadratmeilen sein, zum Teil Sumpf, unbewohnbar wegen
 der Fiebergefahr, und dort gibt es Tiger in Menge.«
 
-— »Wer hat Ihnen Chanari empfohlen?«
+»Wer hat Ihnen Chanari empfohlen?«
 
-— »Ein Herr, der gestern spät abends hier abgestiegen,
+»Ein Herr, der gestern spät abends hier abgestiegen,
 Lord Kanderhar. Wir lernten ihn im Speisesaal unten
 kennen, wo er verschiedentlich mit meiner Schwester Gladys
-tanzt?
+tanzte …«
 
-ß 9 Sei fragte Harald gedehnt. »Mit Ihrer Schwester?
+»So?!« fragte Harald gedehnt. »Mit Ihrer Schwester?
 Wird der Lord denn an der Jagdexpedition teilnehmen?«
-Ob »Nein … Er will in den Nur Tagen mit seiner
-Sacht weiter stromaufwärts.«
+
+»Nein … Er will in den nächsten Tagen mit seiner
+Jacht weiter stromaufwärts.«
 
 »Dann ist der Lord wohl sehr reich … Eine eigene
-Jacht ist immerhin ein teurer Spaß …
+Jacht ist immerhin ein teurer Spaß …«
 
-Hm. »Lächerlich?! Feuer!! Na hat im ’vorigen Jahr eine
+»Lächerlich!! Teuer!! Pa hat im vorigen Jahr eine
 Jacht auf der Auktion gekauft, hat sie für neu streichen lassen
+und zwei Monate später mit 100&nbsp;000 Gewinn abgeschoben.
+Aber Lord Kanderhar ist reich, das stimmt. Als er gestern
+abend eintraf, war sein erstes, daß er seine Juwelen in
+den Hoteltresor einschließen ließ. Dasselbe riet er auch meinen
+Eltern und meiner Schwester, Mr. Harst, denn Sie müssen
+wissen, daß Mamas Perlenschnur allein schon 30&nbsp;000 Dollar
+gekostet hat, ganz abgesehen von ihrem Diamantenarmband.
+Pa hat denn auch gleich heute ein Schrankfach hier mieten
+wollen, es waren aber schon alle besetzt, und da hat der
+Lord die große Liebenswürdigkeit gehabt, uns das seinige
+zur Verfügung zu stellen, besonders für die Tage der Jagdexpedition
+…«
 
-abend eintraf,« war sein erstes, daß er seine Juwelen in
-den Hoteltresor einschließen ließ. Dasselbe riet er aus meinen
-Eltern und meiner Schwester, Nr. Harst, denn Sie müssen
-wissen, daß Mamas Wellenkämme allein schon 30&nbsp;090 Dollar
-schaltet hat, ganz abgesehen von ihrem Diamantenarmband.
-Ne: bat denn auch gleich heute ein Schrankfach hier mieten
-Wellen, es waren aber schon alle besetzt, und da hat der
-Lord die große Liebenswürdi Zeit Gewalt, uns daß seinige
-an: Verfügung zu stellen, besonders für die Tage der Satan
-die Dr.
-
-— Um das ist ja fabelhaft nett von Seiner Lordshaft’
-bezweifle Harald und fügte in einem Atem hinzu: »Unter diesen
-Umschauten will ich; nicht unlicedenszwürdig erscheinen, Mister
-Ein Drüben Sie also Ihren Vater und bestellen Sie ihm,
-Orkan in allem auf uns rechnen, in allem — zu ohne
-Je As jung, Mr. Weec, denn, im Vertrauen, ich selbst besitze
-ich Millionen mehr als Ihr Na, und meine Forderung
-ix war tatsächlich nur ein Scherz.«
+»Oh, das ist ja fabelhaft nett von Seiner Lordschaft,«
+sagte Harald und fügte in einem Atem hinzu: »Unter diesen
+Umständen will ich nicht unliebenswürdig erscheinen, Mister
+Weec. Grüßen Sie also Ihren Vater und bestellen Sie ihm,
+er kann in allem auf uns rechnen, in allem — auch ohne
+Bezahlung, Mr. Weec, denn, im Vertrauen, ich selbst besitze
+einige Millionen mehr als Ihr Pa, und meine Forderung
+vorhin war tatsächlich nur ein Scherz.«
 
 <@pagebreak/>
-Jonny Weec glotzte Harald dicht geradezu entgeistert
+Jonny Weec glotzte Harald jetzt geradezu entgeistert
 an. »Und … dann … sind Sie … Detektiv, Mr. Harst?!
-So reich und Detektiv 21«
+So reich und Detektiv?!«
 
 »Ein neuer Irrtum, mein junger Freund. Ich bin alles
-andere als das. Ich bin ein reicher Sonderlings, der das
+andere als das. Ich bin ein reicher Sonderling, der das
 Abenteuer sucht, weil nur die Sensation mit kriminellem
 Einschlag mir die Langeweile vertreibt.«
 
@@ -1531,40 +1530,40 @@ Einschlag mir die Langeweile vertreibt.«
 
 »Pardon, ich bin Deutscher …«
 
-»Nun ja, Deutschland ist jetzt der nur so eine Art
-englische Kolonie, meint Na! genau wie England
-amerikanische Zweigniederlassung ist …
+»Nun ja, Deutschland ist jetzt doch nur so eine Art
+englische Kolonie, meint Pa immer, genau wie England
+amerikanische Zweigniederlassung ist …«
 
-»Ihr Na ist sehr witzig.«
+»Ihr Pa ist sehr witzig.«
 
 »Sehr, Mr. Harst … Auch Lord Kanderhar findet das,
 und ein so vornehmer Herr wie Seine Lordschaft hat doch
 Schätzung für alles, Er hat uns auch bereits auf sein Schloß
-in Schottland eingeladen — zur Gemsenjagd und zur Hirsebrot
-+ — Es wird dort sehr nett im Frühjahr werden.«
+in Schottland eingeladen — zur Gemsenjagd und zur Hirschhatz
+… Es wird dort sehr nett im Frühjahr werden.«
 
-»Walde: Mr. Weec … Besonders die Gemsen, die
+»Fraglos, Mr. Weec … Besonders die Gemsen, die
 wahrscheinlich aus den deutschen Alpen importiert sind, und
-die Hirsche, die eben dorther stammen dürften, sind Edel wild
+die Hirsche, die ebendorther stammen dürften, sind Edelwild
 … Der Lord kennt sicherlich seine Leute ganz genau …«
 
-s Zu dem letzten Satz machte Jonny ein ziemlich Dummes
-Gesicht, da er alt) den Doppelsinn nicht verstand.
+Zu dem letzten Satz machte Jonny ein ziemlich Dummes
+Gesicht, da er auch den Doppelsinn nicht verstand.
 
 Ich als Zuhörer amüsierte mich köstlich. Und als der
 junge smarte Bengel dann gegangen, lachte ich aus vollem
 Halse hinter ihm drein.
 
 Aber Harald sagte sehr ernst: »Du, diesen Lord müssen
-wir uns unbedingt genauer ansehen. Ich glaube fast, wi
-werden Gelegenheit finden, ihm noch zur rechten Zeit Ei
+wir uns unbedingt genauer ansehen. Ich glaube fast, wir
+werden Gelegenheit finden, ihm noch zur rechten Zeit die
 Quittung für seine übergroße Liebenswürdigkeit in Gestalt von
 Handschellen überreichen zu können.«
 
-»Allerdings, denn die Geschichte mit doch (54«2 Bier 311
-Hotel gibt sehr zu denken. Tiere Ihres worden »5p0 Starken
+»Allerdings, denn die Geschichte mit dem Safe hier im
+Hotel gibt sehr zu denken. Diese Weecs würden ihre Juwelen
 <@pagebreak/>
-!geworden, wenn wir nicht eingreifen. Seine Lordschaft ist
+loswerden, wenn wir nicht eingreifen. Seine Lordschaft ist
 ein Hochstapler.«
 
 Harald nickte.
@@ -1576,13 +1575,14 @@ unauffälliger Eleganz gekleidet war und ein Monokel im
 fahlen, müden und stark durchkerbten Gesicht matt schillern
 ließ.
 
-»oft Kanderhar …« stellte er sich vor. Er war recht
+»Lord Kanderhar …« stellte er sich vor. Er war recht
 außer Atem, und nachdem er eine Entschuldigung wegen
 seines unhöflichen Eindringens vorgebracht, meinte er mit
 derselben weltmännischen Sicherheit:
+
 »Herr Harst, mir ist soeben auf dem Korridor etwas sehr
-Merkwürdiges passiert. Ha war auf dem Wege zu Ihnen,
-nachdem. ich vom Hoteldirektor vorhin Ihre Anwesenheit
+Merkwürdiges passiert. Ich war auf dem Wege zu Ihnen,
+nachdem ich vom Hoteldirektor vorhin Ihre Anwesenheit
 erfahren hatte.«
 
 Er lächelte etwas … Lächelnd nahm er seine graue
@@ -1593,41 +1593,42 @@ Scheitel … Und der war echt.
 
 Harald dachte nach. »Nein …«
 
-»Ha bin Inspektor Cold von Scotland Ward, also …
+»Ich bin Inspektor Cold von Scotland Yard, also …
 Kollege.«
 
-»Donnerwetter «!!! Das ist allerdings eine Ucebarrasung.
-Gehört habe ich genug von Ihnen … — Scheu
+»Donnerwetter …!! Das ist allerdings eine Überraschung.
+Gehört habe ich genug von Ihnen … — Setzen
 Sie sich, und nun schießen Sie los … Was erlebten Sie?«
-See Cold aus London war eine Berühmtheit, Wir hatten
+
+Joe Cold aus London war eine Berühmtheit. Wir hatten
 bisher nie Gelegenheit gehabt, ihm persönlich zu begegnen.
 Aber wir wußten, daß man ihm nur ganz große Fälle
 anvertraute.
 
-»-… Ich bin seit zwei Jahren hinter einem! Gauner her,«
+»… Ich bin seit zwei Jahren hinter einem Gauner her,«
 erzählte er, nachdem er eine Zigarette dankend angenommen
 <@pagebreak/>
-…- einem Gauner, Mörder, Fürstlicher und Einbrecher: Tim
-Chariott!!
+"— einem Gauner, Mörder, Fälscher und Einbrecher: Tim
+Chariott!«
 
-Harst rief: »Chariott, der die Bank von England betrog!!
-— Ob, daß ich nicht schon gestern daran dachte!! — Denken
+Harst rief: »Chariott, der die Bank von England betrog!
+— Oh, daß ich nicht schon gestern daran dachte!! — Denken
 Sie, Cold, — wir hatten Chariott gefangen genommen. Er
 muß es sein. Er trat hier stets als Händler …«
 
-»-… Biku auf!« vollendete der Detektivinspektor den
+»… Biku auf!« vollendete der Detektivinspektor den
 Satz. »Und er besaß ein Frachtschiff und soll vorgestern abend
-zwei gewisse Herren« — er lächelt! wieder — »entführt haben:
-Sie beide! — Doch bleiben wir zunächst bei ihm selbst. diesem
-gefährlichen alten Fuchs, der ein riesiges Strahlende hat
-und der nur durch einen Zufall von mir hier aufschrie! wurde.
-
+zwei gewisse Herren« — er lächelte wieder — »entführt haben:
+Sie beide! — Doch bleiben wir zunächst bei ihm selbst, diesem
+gefährlichen alten Fuchs, der ein riesiges Strafkonto hat
+und der nur durch einen Zufall von mir hier aufgespürt wurde.
 Ich will Ihnen das eingehender schildern. Es ist äußerst
 lehrreich.«
 
 <@pagebreak/>
-2\. Kapitel;.
-Das Land der Toten.
+
+<h2>2. Kapitel.</h2>
+<h3>Das Land der Toten.</h3>
 
 »… Wir hatten weder in London noch bei anderen
 Polizeidirektionen, von denen Chariott gesucht wurde, auch
@@ -1713,7 +1714,7 @@ Sage!«
 »Donnerwetter, — Sie beide sollten also von hier Wegs
 gelotst werden, Sie sollten das Hotel räumen, weil Ihre
 Anwesenheit für Onkel Tim zu gefährlich! Diese Bande!!
-Na wartet, ich werde Bucht schon hineinlegen!!« Der berühmte
+Pa wartet, ich werde Bucht schon hineinlegen!!« Der berühmte
 Zoo Cold, der sich hier als ein sehr netter geriebener
 Bursche herausstellte, ballte die Faust und machte ein paar
 Boxstöße in die Luft, als ob er jeden der vier Weecs Miß
@@ -1794,7 +1795,7 @@ Hat dann zusammengetan hat, denn des Yogis »Schildkröte«
 begreife ja die beiden Kulis des Onkel Tim. Weiter ist
 zweifellos, daß der Yogi durch) irgend jemand im Chanari
 bestimmt wurde, gegen uns Partei zu nehmen! Dieser Einfluß,
-der Um zu dem Na:der seiner Zustimmung brachte,
+der Um zu dem Pa:der seiner Zustimmung brachte,
 muß außerordentlich stark gewesen sein; denn Kaddami schätzte
 uns sehr, war nie« Lebensretter, — Woher dieser Ein«
 floß? — Nun, dort in der Zirkus der ungeheuren Halb
@@ -1817,7 +1818,7 @@ halb unerforschten Landicicge geh« den mit zu den!
 vielleicht Guspar. ich bin weiter übrigens!, daß auch Nachens
 ein geborener Gus8panesi ist.«
 Cold hatte sich vorgebeugt und las Harald die Worte
-Förmlich) von den Lippen an. I4 tot dasselbe. Na? Harst
+Förmlich) von den Lippen an. I4 tot dasselbe. Pa? Harst
 Wir og war aus mir ne!,
 … Weshalb der Maharadscha sich verborgen hält, fragen
 <@pagebreak/>
@@ -2278,7 +2279,7 @@ Das waren insgesamt elf Stunden Ritt, fast nannte«-
 gebrochen, und wir fühlen uns wie gerädert.
 
 Der Polizeidirektor wird die Toten und Verwundeten
-holen lassen, und wir können in seinem Auto zurück na
+holen lassen, und wir können in seinem Auto zurück Pa
 Benares, wo wir morgens fünf Uhr eintreffen, im Hole!
 baden, frühstücken und dann — sieben Uhr — Lady Gundamoore
 aussuchen.
