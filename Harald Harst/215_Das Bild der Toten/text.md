@@ -1126,7 +1126,7 @@ hinab, die jeder für echt und lebend gehalten hätte.
 daß mein Mawata (Gehilfe) die Felsplatte zu bewachen
 hatte, die die blaugraue Erde und die vielen »Tränen
 Indras« barg. Mawata ist kein Knabe, Sahib, sondern ein
-Zwerg aus den Wildnissen des Mahamadi-Quellgebiets, das
+Zwerg aus den Wildnissen des Mahanadi-Quellgebiets, das
 bisher nur wenige Europäer betreten haben. Ich nenne ihn
 nur Mawata, denn einen Namen hat er nicht. Er ist ein
 Ausgestoßener, ein Büßer. Ihr werdet ihn nachher sehen.«
@@ -1635,26 +1635,26 @@ Polizeidirektionen, von denen Chariott gesucht wurde, auch
 nur die leiseste Ahnung, wo der Verbrecher einen Unterschlupf
 gefunden. Wir kannten auch nur seinen »Kriegsnamen« Tim
 Chariott, — wie er wirklich hieß, blieb dunkel. Da fing
-ich; — es war Monate nach seinem letzten Gastspiel in
+ich — es war Monate nach seinem letzten Gastspiel in
 Europa — einen Brief ab, der postlagernd nach London
-gekommen, für Tim Chariott, Die Postämter waren verständigt,
+gekommen, für Tim Chariott. Die Postämter waren verständigt,
 und wenn auch London zahlreiche ehrliche Leute
 dieses Namens birgt, so war der betreffende Beamte doch
-ruhig geworden, weil gerade dieser Brief aus Amerika
-kam und sehr sorgfältig versiegelt war. Ich ödiffnete das
+stutzig geworden, weil gerade dieser Brief aus Amerika
+kam und sehr sorgfältig versiegelt war. Ich öffnete das
 Schreiben und fand darin einen harmlosen geschäftlichen
-Inhalt, es handelte sich um Kautschukofferten und Schnitzel.
+Inhalt, es handelte sich um Kautschukofferten und Ähnliches.
 Aber mein Verdacht war nun einmal erregt, und deshalb
-nahm:! ich mir den Brief besonders scharf unter die Lupe
-und entdeckte unter den vier Briefmarken, die zur Franutierung
+nahm ich mir den Brief besonders scharf unter die Lupe
+und entdeckte *unter* den vier Briefmarken, die zur Frankierung
 benutzt waren, folgende mit Geheimtinte geschriebene
-Sorte;
+Worte:
 
-Benares, Jan 8.
+<p class="centered">Benares, Jan 8.</p>
 
-Das konnte nur heizen, »Benares, Januar 1928, — also
+Das konnte nur heißen, »Benares, Januar 1928, — also
 ein Rendezvous mit dem Briefabsender, mit Mr. John Weec
-Fuß Chikago, — Der Brief wurde wieder sorgfältig verschlossen.
+aus Chikago. — Der Brief wurde wieder sorgfältig verschlossen.
 <@pagebreak/>
 Schon am folgenden Tage kam ein kleiner buckliger
 alter Herr nach dem Postamt und fragte nach der
@@ -1662,209 +1662,213 @@ postlagernden Sendung, die ihm auch anstandslos übergeben
 wurde. Anderseits aber blieben meine Leute dem alten Herrn
 dicht auf den Fersen, so daß ein Entrinnen für ihn unmöglich
 schien. Und doch entwischte er mit Hilfe eines neuartigen
-Fritz: Er betrat ein Zigarrengeschäft in der ManlattanStreet,
+Tricks: Er betrat ein Zigarrengeschäft in der Manlattan-Street,
 einen kleinen armseligen Laden, nachdem er vor
 dem Schaufenster seine Zigarrentasche gezogen und gesehen,
-daß sie leer war. Meine Leute beobachteten ihn durchs das
+daß sie leer war. Meine Leute beobachteten ihn durch das
 Fenster. Die Verkäuferin war ein altes Weib, das plötzlich
-die Rolljalousie der Tür herabsanken ließ. Als meine Leute
+die Rolljalousie der Tür herabsausen ließ. Als meine Leute
 gewaltsam eindrangen, war das Nest leer. Die Verkäuferin
 freilich war noch da. Sie war nur Angestellte des alten
 Herrn, der den Laden gemietet hatte. Ihr war nicht nachzuweisen,
-daß sie Chariotts Flucht begünstigt! hatte. Sie
+daß sie Chariotts Flucht begünstigt hatte. Sie
 hatte auf seinen Befehl die Tür verrammelt, angeblich weil
-ein paar Strolche hinter ihm der u:Seen. — Chariott war
-nimmt mehr zu finden, Nun nahmen wir aber die Familie
-Weec unter die Lupe. Da stellte fix Vorrat!2, daß Weec?
-älterer Bruder Tim von Jugend an ein Tunichtsgut gewesen,
+ein paar Strolche hinter ihm her waren. — Chariott war
+nicht mehr zu finden. Nun nahmen wir aber die Familie
+Weec unter die Lupe. Da stellte sich heraus, daß Weecs
+älterer Bruder Tim von Jugend an ein Tunichtgut gewesen,
 mehrfach vorbestraft worden und dann nach Europa
-gegangen war, Uns blieb mir nur die eine geringe Hoffnung:
+gegangen war. Uns blieb nun nur die eine geringe Hoffnung:
 Benares und das Stelldichein. — So fuhr ich denn
 rechtzeitig hierher, ließ mir in Kalkutta eine Privatjacht
-von der dortigen Polizei zur Verfügung steilen und traf
-hier als … Lord Kanderhar ein, suchte Weecs Bekannt«
-Saft und ersann ein einfaches Mittel, mit der Familie
-rasch) vertraut zu werden, wobei der Hoteldirektor half …«
+von der dortigen Polizei zur Verfügung stellen und traf
+hier als … Lord Kanderhar ein, suchte Weecs Bekanntschaft
+und ersann ein einfaches Mittel, mit der Familie
+rasch vertraut zu werden, wobei der Hoteldirektor half …«
 
-»Sah Schmucklos!« warf Harald halb belustigt ein.
+»Das Schmuckfach!« warf Harald halb belustigt ein.
 
-Kollege See Cold lächelte gleichfalls, »Aha, der Bengel
-bat Ihnen davon bereits erzählt!«
+Kollege Joe Cold lächelte gleichfalls. »Aha, der Bengel
+hat Ihnen davon bereits erzählt!«
 
 »Allerdings …«
 
-»Ja, die ganze seine Familie sch2zint im Interesse des
-lieben Onkel Tim unter einer Decke zu stecken .,! — —
+»Ja, die ganze feine Familie scheint im Interesse des
+lieben Onkel Tim unter einer Decke zu stecken …! — —
 <@pagebreak/>
 So, und nun zu meinem Erlebnis vorhin auf dem Flur …«
-»Sie haben Chariott gesehen«
-»Nein, nein, — aber das Tigers Jonny horchte hier an
-Ihrer Flur …«
+
+»Sie haben Chariott gesehen?«
+
+»Nein, nein, — aber das Gigerl Jonny horchte hier an
+Ihrer Tür …«
 
 »Frechheit!«
 
 »Dummheit, lieber Herr Harst! — Ich sah’s, ich konnte
 gerade noch hinter die Palmengruppe treten … Jonny verduftete
-schließliHm, und im trat hier ein. — Was wollte
-das Züngelten von Ihnen?«
+schließlich, und ich trat hier ein. — Was wollte
+das Jüngelchen von Ihnen?«
 
 »Uns mitnehmen: Tigerjagd im Chanari-Gebiet, fünf
-Sage!«
+Tage!«
 
-»Donnerwetter, — Sie beide sollten also von hier Wegs
-gelotst werden, Sie sollten das Hotel räumen, weil Ihre
+»Donnerwetter, — Sie beide sollten also von hier weggelotst
+werden. Sie sollten das Hotel räumen, weil Ihre
 Anwesenheit für Onkel Tim zu gefährlich! Diese Bande!!
-Pa wartet, ich werde Bucht schon hineinlegen!!« Der berühmte
-Zoo Cold, der sich hier als ein sehr netter geriebener
+Na wartet, ich werde euch schon hineinlegen!!« Der berühmte
+Joe Cold, der sich hier als ein sehr netter geriebener
 Bursche herausstellte, ballte die Faust und machte ein paar
-Boxstöße in die Luft, als ob er jeden der vier Weecs Miß
-einem Kinnhaken bedenken wohl;tc.
+Boxstöße in die Luft, als ob er jeden der vier Weecs mit
+einem Kinnhaken bedenken wollte.
 
-»Über gestatten Sie mal,« unterbrach Harald gemütlich
+»Aber gestatten Sie mal,« unterbrach Harald gemütlich
 diese Freiübungen, »Sie haben den Weecs doch selbst die
 Tigerjagd nahegelegt, und nun …«
 
-See grinste pfiffig. »Ja — als … Probepfeil, mein
+Joe grinste pfiffig. »Ja — als … Probepfeil, mein
 Verehrtester, nur als Probepfeil. Ich glaubte, sie würden
-sofort insgeheim, daß ihnen derartige aufregende Genüsse
+sofort loszetern, daß ihnen derartige aufregende Genüsse
 nicht von Interesse seien. Irrtum: Sie bissen an, sie waren
 Feuer und Flamme, und ich zerbrach mir den Kopf, weshalb
-sie so blutdürstig, so Bericht auf Elefanten, Treiber, Tiger,
+sie so blutdürstig, so erpicht auf Elefanten, Treiber, Tiger,
 Panther und Wildnis sein könnten, zumal ich gleich erklärt
 hatte, ich müßte mit meiner Jacht weiter stromauf. Schließlich
 fand ich die Lösung: die Herrschaften wollen dort im
 Chanari mit Onkel Tim zusammentreffen! — Leider ist diese
-Lösung nun durch Ihre Mitteilungen über den Besuch Konnte
+Lösung nun durch Ihre Mitteilungen über den Besuch Jonnys
 bei Ihnen hinfällig, denn wenn Sie beide mitkommen sollen,
 <@pagebreak/>
-steckt eben was anderes dahinter, — — Last! — Wie
+steckt eben was anderes dahinter, — — was?! — Wie
 denken Sie darüber, verehrter Harst?«
 
-— Harald schaut? zur Zimmerdecke empor … Über ich:
+Harald schaute zur Zimmerdecke empor … Über ihm
 schwebten drei Rauchringe, die er soeben geformt hatte und
-die nun — blauer Dunst — sich dehnten und reckten u:d
+die nun — blauer Dunst — sich dehnten und reckten und
 ineinander flossen.
 
 Blauer Dunst …!
 
-Und Harst &… »’.: »Ich denke, die vier Weecs werde:
-den Onkel Tim erst später erwarten und wollen eben h1.x
-zwischen noch ein Parade? F« für ihre Ohr?gern Freue
-erleben wollen: Lust Renommieren! — Das dürfte d«-
-Nachsehen wohl am nächsten kommen. Vielleicht hoffen Co
-aus mit Schraut und mir durch die Jagdexpedition so
-vertraut zu werden, daß sie uns später »als intime Wo«
-kannte« nicht zu fürchten brauen.«
+Und Harst erwiderte: »Ich denke, die vier Weecs werden
+den Onkel Tim erst später erwarten und wollen eben inzwischen
+noch ein Paradestück für ihre Chikagoer Freunde
+erleben wollen: Zum Renommieren! — Das dürfte der
+Wahrheit wohl am nächsten kommen. Vielleicht hoffen Sie
+auch mit Schraut und mir durch die Jagdexpedition so
+vertraut zu werden, daß sie uns später »als intime Bekannte«
+nicht zu fürchten brauchen.«
 
-»Mag sein,« mit? Cold. »Und — unser Feldzugsplan«
-—y» Ich Hatte natürlich nur die Absicht, mit der Sack::.
-bis Chanari zu fahren, sie dort irgendwo in einem Gebe:
-Fluß zu versteckten und in anderer Maske steigen zurück:-
-zukehren. — Tage schlagen Sie vor?«
+»Mag sein,« nickte Cold. »Und — unser Feldzugsplan?
+— Ich Hatte natürlich nur die Absicht, mit der Jacht
+bis Chanari zu fahren, sie dort irgendwo in einem Nebenfluß
+zu verstecken und in anderer Maske hierher zurückzukehren.
+— Was schlagen Sie vor?«
 
-»Schraut und ich begleiten die vier männlich, und Sie
-passen hier auf, ob Hotel Tim erscheint.«
+»Schraut und ich begleiten die vier natürlich, und Sie
+passen hier auf, ob Onkel Tim erscheint.«
 
-»Dann sind wir also einig. — Bett noch etwas andere,
-lieber Harst: Was war da eigentlich) auf dem Brathuhn
-las?1’
+»Dann sind wir also einig. — Jetzt noch etwas anderes,
+lieber Harst: Was war da eigentlich auf dem Frachtkahn
+los?!«
 
-Harald nahm ein? neue Zigarette, »… Bedienen Sie
-sich by!!e auch, Cold, war Ihnen meine Mirakuluvm suchen.,
-So … — Ich habe lernen Grund, Ihnen unser Adens«
-teuer zu verschweigen, zumal im? auf Ihre Findigkeit im
-Ergrünten innerer Zusammenhänge Wert lege … Hören Sie
-also zu … €
+Harald nahm eine neue Zigarette. »… Bedienen Sie
+sich bitte auch, Cold, wenn Ihnen meine Mirakulum schmecken.
+So … — Ich habe keinen Grund, Ihnen unser Abenteuer
+zu verschweigen, zumal ich auf Ihre Findigkeit im
+Ergründen innerer Zusammenhänge Wert lege … Hören Sie
+also zu …«
 
-Er erzählte von unserem Besuch auf beim Wohnsädziif
-der Lady Alix Gundamoore, von dem Pastellbild mit dein
-unheimlichen eingesetzten Augen, von der Französin Achat
-nette Dubois, von Lady Alix’ Bitte, dem Verbleib des.
+Er erzählte von unserem Besuch auf dem Wohnschiff
+der Lady Alix Gundamoore, von dem Pastellbild mit den
+unheimlichen eingesetzten Augen, von der Französin Jeanette
+Dubois, von Lady Alix’ Bitte, dem Verbleib des
 <@pagebreak/>
-Fürsten von GuS8spar nicht nachzuspüren, — von den Schüssen
+Fürsten von Guspar nicht nachzuspüren, — von den Schüssen
 aus dem Luftgewehr, von dem Spiegel Jeanettes, von Biku
-— ich lud so weiter …
+— — und so weiter …
 
-— Kurz: er rollte die ganzen Ereignisse nochmals in
+Kurz: er rollte die ganzen Ereignisse nochmals in
 scharfen, klaren Bildern vor uns ab und schloß mit den
 Worten:
 
-— »Er ist mithin sicher, das Biku oder besser Tim Chariott,
+»Es ist mithin sicher, das Biku oder besser Tim Chariott,
 nachdem er über den See entkommen, sich mit dem Yogi
-Hat dann zusammengetan hat, denn des Yogis »Schildkröte«
-begreife ja die beiden Kulis des Onkel Tim. Weiter ist
-zweifellos, daß der Yogi durch) irgend jemand im Chanari
+Kaddami zusammengetan hat, denn des Yogis »Schildkröte«
+befreite ja die beiden Kulis des Onkel Tim. Weiter ist
+zweifellos, daß der Yogi durch irgend jemand im Chanari
 bestimmt wurde, gegen uns Partei zu nehmen! Dieser Einfluß,
-der Um zu dem Pa:der seiner Zustimmung brachte,
+der ihn zu dem Wandel seiner Zustimmung brachte,
 muß außerordentlich stark gewesen sein; denn Kaddami schätzte
-uns sehr, war nie« Lebensretter, — Woher dieser Ein«
-floß? — Nun, dort in der Zirkus der ungeheuren Halb
-spielt, behaupte ich, gibt es eine Person, die sehr mächtig
-ist. Und diese Person dürfte der angeblich tote, verunglürte
-Maharadscha von »Zuzog« sein: Seine Königliche
-Hoheit Darassa Bin Stolz Tau, —!öd beißt er.«
+uns sehr, war unser Lebensretter. — Woher dieser Einfluß?
+— Nun, dort in der Wildnis der ungeheuren Halbinsel,
+behaupte ich, gibt es eine Person, die sehr mächtig
+ist. Und diese Person dürfte der angeblich tote, verunglückte
+Maharadscha von Guspar sein: Seine Königliche
+Hoheit Darassa Bin Calla Dau, — so heißt er.«
 
-See Cold riß den Mund vor Staunen weit auf.
+Joe Cold riß den Mund vor Staunen weit auf.
 
-»Hallo, Harst, wie kommen Sie denn auf die Es
-Kollege Idee?!« meinte er kopfschlackernd, … Freßkorb sollte
-der Fürst sich dort wohl verbergen, und Technik »2 1«
+»Hallo, Harst, wie kommen Sie denn auf die ausgefallene
+Idee?!« meinte er kopfschlackernd. »Weshalb sollte
+der Fürst sich dort wohl verbergen, und weshalb …?!«
 
-»Stopp …!« Hat … konnte plötzlich ein ganz anderes
-Sei ich!. »S4) kann Ihnen diese Fragen Nie! den:zweiten
-… Der Zwerg, den:erregt als »Schildkröte«
-benutzt, stammt aus dem Quellgebiet des Mahamadi, und
-halb unerforschten Landicicge geh« den mit zu den!
-vielleicht Guspar. ich bin weiter übrigens!, daß auch Nachens
-ein geborener Gus8panesi ist.«
+»Stopp …!« Harald konnte plötzlich ein ganz anderes
+Gesicht. »Ich kann Ihnen diese Fragen unschwer beantworten
+… Der Zwerg, den der Yogi als »Schildkröte«
+benutzt, stammt aus dem Quellgebiet des Mahanadi, und
+jene halb unerforschten Landstriche gehören mit zu dem
+Reiche Guspar. ich bin weiter überzeugt, daß auch Kaddami
+ein geborener Guspanesi ist.«
+
 Cold hatte sich vorgebeugt und las Harald die Worte
-Förmlich) von den Lippen an. I4 tot dasselbe. Pa? Harst
-Wir og war aus mir ne!,
-… Weshalb der Maharadscha sich verborgen hält, fragen
+Förmlich von den Lippen ab. Ich tat dasselbe. Was Harst
+hier vorbrachte, war auch mir neu.
+
+»… Weshalb der Maharadscha sich verborgen hält, fragen
 <@pagebreak/>
-Sie. weiter, lieber Cold … Nun: er wird Name gehalten,
-behaupte ich,
+Sie weiter, lieber Cold … Nun: er *wird* verborgen gehalten,
+behaupte ich …!«
 
 »Von wem?«
 
 Harald machte eine Kunstpause
 
-Dann: »Prüfen Sie mal die Vorgänge auf dem Wohnt
+Dann: »Prüfen Sie mal die Vorgänge auf dem Wohnschiff
+…«
 
-Schiff …
-Roß (4100-2040 Art — Sir: Dr 07 besonders gute
-Asien Herauslocken wollte,
+Cold streichelte sich die Stirn, als ob er besonders gute
+Gedanken Herauslocken wollte,
 
 Plötzlich rief er: »Lady Gundamoore hält den Fürsten
 eingesperrt! Sie haßt ihn!«
 
-»3, denn er hat ihr hier in Benares stark den Holz
+»Ja, denn er hat ihr hier in Benares stark den Hof
 gemacht, und allerlei Gerüchte schwirren hier herum, daß
-der Fürst den Oberst Lord Gundamoore auf der
+der Fürst den Oberst Lord Gundamoore auf der Jagd
 ermorden ließ, um die Lady für sich zu gewinnen. Er
 soll einen dämonischen Einfluß auf die Frauen gehabt
 haben, und doch hat Lady Alix ihm widerstanden und ihn
-irgendwie aus Ruhe gleichfalls verschwinden lassen … —
+irgendwie aus Rache gleichfalls verschwinden lassen … —
 Wissen Sie, Cold, was Chanari in Wahrheit heißt: nicht
-»das Land der vielen Flüsse«, sondern »das Land der Toten!
+»das Land der vielen Flüsse«, sondern »das Land der Toten"!
 — Bedenken Sie: Land der Toten! Man sagt, dort im
-Chanari laufen nur Tiere, in denen die von den Göttern
-neunmal verfluchten Seelen Abtrünniger Hindus stecken. Man
-sagt … Jedenfalls traut sich so Zeit kein Hindu dorthin.
-Die Haslkbi: Fell 8.86 gemieden. Mithin ist sie ein
+Chanari hausen nur Tiere, in denen die von den Göttern
+neunmal verfluchten Seelen abtrünniger Hindus stecken. Man
+sagt … Jedenfalls traut sich so leicht kein Hindu dorthin.
+Die Halbinsel wird gemieden. Mithin ist sie ein
 ideales Versteck für einen … frechen farbigen Lüstling, der
-den Stolz einer Engländerin verlor;t hat.«
+den Stolz einer Engländerin verletzt hat.«
 
-»Fand der T:  «: …« murmelte Tor Cold, »Ungemütsliher
-Name … Über Sie mögen recht haben, Harst …
+»Land der Toten …« murmelte Joe Cold, »Ungemütlicher
+Name … Aber Sie mögen recht haben, Harst …
 — Nur: was bedeutet das Auftauchen Bikus mit seinem
 Frachtschiff in der Nähe des Wohnbootes der Lady, und was
-bedeuten die … Küste? Ich finde mich« da nicht recht
+bedeuten die … Schüsse? Ich finde mich da nicht recht
 heraus …«
 
-Er wollte ne-Ah etwas hinzufügen. Es hatte geklopft …
+Er wollte noch etwas hinzufügen. Es hatte geklopft …
 
-Ein farbiger Zottelige meldete Lady Alix Gundamoore
+Ein farbiger Hotelpage meldete Lady Alix Gundamoore
 an,
 
 <@pagebreak/>
@@ -1872,30 +1876,30 @@ an,
 <h2>3. Kapitel.</h2>
 <h3>Der Brief.</h3>
 
-»34 lasse bitten,« erklärte Harald.
+»Ich lasse bitten,« erklärte Harald.
 
-Cold flüsterte: »Sie hat eine seine Witterung! Wir
-Haben Sie angehört durch unser Gespräch.«
+Cold flüsterte: »Sie hat eine feine Witterung! Wir
+Haben Sie angelockt durch unser Gespräch.«
 
 Dann kam sie …
 
 In all ihrer schlichten, vornehmen Schönheit stand sie
-vor uns, — im Reitanzug, in der linken Hand eine »Peitsche
-mit Wien silbernen Knopf.
+vor uns, — im Reitanzug, in der linken Hand eine Peitsche
+mit dickem silbernen Knopf.
 
 »Meine Herren, wie freue ich mich!« und das war kein
 Theater, das war ehrlich gemeint, das und ihr Händedruck
 für Harald und mich waren keine Heuchelei. »Ich habe
-so sehr um Elite mich gesorgt … Das Frachtschiff war
-mit einem Male verschwunden. Sehe dachte schon daran,
+so sehr um Sie mich gesorgt … Das Frachtschiff war
+mit einem Male verschwunden. Ich dachte schon daran,
 mich an die Polizei zu wenden, aber anderseits wollte ich
 Ihnen beiden nicht etwa das Spiel verderben …«
 
-Dann stellte Harald den Kollegen See Cold vor.
+Dann stellte Harald den Kollegen Joe Cold vor.
 
 Mylady musterte ihn und neigte nur leicht das Haupt.
 
-Sie nahm Platz. Wir zu. Harst ließ sich erst gar
+Sie nahm Platz. Wir auch. Harst ließ sich erst gar
 nicht bitten, das Geschehene zu berichten. — Ich wunderte
 mich, daß er es tat. Auch Cold machte ein verdutztes Gesicht.
 
@@ -1905,22 +1909,22 @@ zu verraten, sagte er:
 
 »Kaddami, der Yogi, ist also zum Verräter an uns
 <@pagebreak/>
-».uf höheren Befehl geworden … Dort im Chanari, glaube
-ich, haust ein Wann, den man für tot hält.«
+auf höheren Befehl geworden … Dort im Chanari, glaube
+ich, haust ein Mann, den man für tot hält.«
 
-Auch jetzt zeigte Mylady lediglich das Interesse ein:
+Auch jetzt zeigte Mylady lediglich das Interesse einer
 Dame, die einer äußerst spannenden Geschichte lauscht.
 
-»Wen wird (Aste? fragte sie arglos.
+»Wen meinen Sie?« fragte sie arglos.
 
-»Den Maharadscha von Gus&üpar, Kontakt.«
+»Den Maharadscha von Guspar, Mylady.«
 
 Da … erbleichte sie …
 
-Aber ganz emsig erklärte sie trotzdem:
+Aber ganz ruhig erklärte sie trotzdem:
 
-»las glaube ich nicht, Herr Harst. Der Eurer st 1:-.,
-genau wie mein Gatte.« —
+»Das glaube ich nicht, Herr Harst. Der Fürst ist tot,
+genau wie mein Gatte.«
 
 Harald schaute sie fest an …
 
@@ -1928,109 +1932,109 @@ Harald schaute sie fest an …
 
 Sie blickte zur Seite …
 
-Kranz leise dann:
+Ganz leise dann:
 
-»Weil … weil jene Jagdpartie, die der Fürst und in … iz:
-Mann unternahmen, nur der Vorwand fü« ein Duell war …
+»Weil … weil jene Jagdpartie, die der Fürst und mein
+Mann unternahmen, nur der Vorwand für ein Duell war …
 Der Fürst hatte mich beleidigt. Mein Gatte, so nahm ich
 an, ahnte nichts davon. Ich wußte, daß er, der mich über
-alles liebte, den MaharadsH? zur Rechens-I5aft ziehen würde …
-Das wollte ich nicht. — Drei Lohn nach dem Verschwinden
-der beiden fand ich in den! Sqchyreidbtisch meine? Mannes in.
-einem Geheimfach einen Brief, der mich über alles Aufstände.
-Der Fürst und mein Mann wollen ohne Zeugen
-mit Jagdgewehren auf fünfzig Schritt so lange gegeneinauer
-Zeugen, bis einer als dem Platze bliebe, Dieser Er« Trumpf
-sollte, damit er geheim bliebe und mein Auf nicht
-gejäßrdetf würde, am Rande eines Abgrundes stattfinden …
-Da anzunehmen sei, schrieb mein Gatte, daß beide Je- …:
-sollen würden, sollten die Leichen in dem Abgrund sofort
-für immer verschwinden, da man eine steil abfallende Stcilcwahlen
-wolle. — Ich habe bitte- die Wahrheit verschwiegen.
+alles liebte, den Maharadscha zur Rechenschaft ziehen würde.
+Das wollte ich nicht. — Drei Wochen nach dem Verschwinden
+der beiden fand ich in dem Schreibtisch meines Mannes in
+einem Geheimfach einen Brief, der mich über alles aufklärte.
+Der Fürst und mein Mann wollten ohne Zeugen
+mit Jagdgewehren auf fünfzig Schritt so lange gegeneinander
+feuern, bis einer auf dem Platze bliebe. Dieser Zweikampf
+sollte, damit er geheim bliebe und mein Ruf nicht
+gefährdet würde, am Rande eines Abgrundes stattfinden.
+Da anzunehmen sei, schrieb mein Gatte, daß beide Gegner
+fallen würden, sollten die Leichen in dem Abgrund sofort
+für immer verschwinden, da man eine steil abfallende Stelle
+wählen wolle. — Ich habe bisher die Wahrheit verschwiegen,
 Herr Harst, — in meinem Interesse. Ich habe sogar diese …
-Heuchelei so weit getrieben, laß ich das Bild des Fürs’en …
-das er Verrat Mann zu Anfang unserer Bekanntschaft:
-schenkte, auf meinem Schreibtisch stehen ließ. Nun werden Ei«
+Heuchelei so weit getrieben, daß ich das Bild des Fürsten,
+das er meinem Mann zu Anfang unserer Bekanntschaft
+schenkte, auf meinem Schreibtisch stehen ließ. Nun werden Sie
 <@pagebreak/>
 auch begreifen, weshalb ich Sie bat, die Nachforschungen
 nach dem Verbleib des Fürsten zu unterlassen, dessen Nachfolger
 bereits den Thron von Guspar bestiegen hat. — —
 Hier ist der Brief meines Mannes, sein Abschiedsbrief …
 seine … letzten … Grüße an mich …«
-» Ihre Stimme zitterte.
+
+Ihre Stimme zitterte.
 
 Sie kämpfte mit Tränen …
 
 Harald nahm den Brief, überflog ihn, erhob sich, küßte
 Mylady die Hand und sagte:
 
-»Ich habe um Verzeihung zu bitten … Meine Hamburg«-
-jenem gingen in die Irre. Ich nahm an, Sie hielten den
+»Ich habe um Verzeihung zu bitten … Meine Kombinationen
+gingen in die Irre. Ich nahm an, Sie hielten den
 Fürsten im Chanari verborgen.«
 
 »Ich?! Alix Gundamoore schüttelte den Kopf. »Das
-
 ist eine merkwürdige Vermutung, Herr Harst … Allerdings,
-
 Sie konnten wohl auf diesen Verdacht kommen … Nur —
 nur …«
 
 Sie zögerte …
 
-»… nur verstehe ich; nicht, daß Sie die Schüsse und
-das 3rachlschijf so gar nicht in Betracht gezogen haben …«
+»… nur verstehe ich nicht, daß Sie die Schüsse und
+das Frachtschiff so gar nicht in Betracht gezogen haben …«
 
-Zuerst: »Vielleicht tat ich es da) …«
+Harst: »Vielleicht tat ich es doch …«
 
-»507«
-»20 »… Aber im möchte diese Dinge erst später erörtern,
-Kontakt. — Es ist seilovswerständlich, sah wir drei Herren
+»So?«
 
+»Ja … Aber ich möchte diese Dinge erst später erörtern,
+Mylady. — Es ist selbstverständlich, daß wir drei Herren
 hier tiefstes Schweigen bewahren werden. Nur noch eins,
-QMylady: Erzählcna Sie uns jetzt die drei Begebnisse, die
+Mylady: Erzählen Sie uns jetzt die drei Begebnisse, die
 Sie bereits andeuteten, also die den Schüssen ähnlichen
-Fälle von BVeläzuigung.«
+Fälle von Belästigung.«
 
 »Gern,« nickte Lady Alix und barg den Brief wieder
-in ihrem; Sperling. »Gern … Ich will kurz fassen … Der
-erste ch7all: Ich wohnte damals nachts in unserem Bungalow in
-he: Nähe der Kasernen. Es war etwa zwei Monate nach
+in ihrem Sportrock. »Gern … Ich will kurz fassen … Der
+erste Fall: Ich wohnte damals noch in unserem Bungalow in
+der Nähe der Kasernen. Es war etwa zwei Monate nach
 meines Mannes Tode …« — Ihre Stimme vibrierte leicht.
 
 <@pagebreak/>
 »Ich saß auf der Veranda … allein — Jeanette war bereits
 zu Bett gegangen. Da erschien plötzlich auf der Brüstung
-eine Gestalt, säöyeinbar eine Inderin, und wollte mit einem
-Holte auf mich zuspringen. Ich war gieisteäögegenwärtig
+eine Gestalt, scheinbar eine Inderin, und wollte mit einem
+Dolche auf mich zuspringen. Ich war geistesgegenwärtig
 genug, die Stehlampe ihr ins Gesicht zu schleudern. Sie
-entfloh. — Drei Tage drauf kaufte ich das WohynsHiff.
-Der Banalen war mir unheimlich geworden. — Wieder
-einen Monat drauf schmeckte mein Morgentee so eigen
-sämtlich, daß ich ihn wegschüttete und einen zahmen Affen
+entfloh. — Drei Tage drauf kaufte ich das Wohnschiff.
+Der Bungalow war mir unheimlich geworden. — Wieder
+einen Monat drauf schmeckte mein Morgentee so eigenartig,
+daß ich ihn wegschüttete und einen zahmen Affen
 davon trinken ließ. Das arme Tier starb in kurzem. —
-Und abermals nach etwa zwei Wochen würde ich bei einem
+Und abermals nach etwa zwei Wochen wurde ich bei einem
 Spazierritt am Kanal von einem Boote aus mit Kugeln
-bedacht — ebenfalls erfolglos. — Ich bin nie ängstlich goß
-Wesen, Herr Harst, und nach meines Mannes Tode war mein
-Leben nur noch arm stilles Gedenken ah: ist, nur noch
-ein Dasein in der Vergangenheit. — Die »Polizei wollte:ich
+bedacht — ebenfalls erfolglos. — Ich bin nie ängstlich
+gewesen, Herr Harst, und nach meines Mannes Tode war mein
+Leben nur noch ein stilles Gedenken an ihn, nur noch
+ein Dasein in der Vergangenheit. — Die Polizei wollte ich
 nicht verständigen, denn ich sagte mir sofort, diese Attentate
 könnten nur von Untertanen des Fürsten, die von dem Duell
-doch Kenntnis erhalten, unternommen worden s2in, Ich war
-etwas vorsichtiger … Ich kühnste mir neue Diener an: Leute
-aus meines Mannes Regiment, die ihm blind erhoben
-gewesen. So ist zum Beispiel Maß Sing, mein Hau&meister,
-
+doch Kenntnis erhalten, unternommen worden sein. Ich war
+etwas vorsichtiger … Ich schaffte mir neue Diener an: Leute
+aus meines Mannes Regiment, die ihm blind ergeben
+gewesen. So ist zum Beispiel Mah Sing, mein Hausmeister,
 ein früherer farbiger Unteroffizier. — Haben Sie noch
-Palmenhaine Frage, Herr Harst?’
-»Ja, Mylady. — Wedkzhalb kamen Sie jetzt hierher?«
+eine Frage, Herr Harst?«
+
+»Ja, Mylady. — Weshalb kamen Sie jetzt hierher?«
 
 »Weil ich erfahren, daß Sie beide wieder angelangt
 seien, und weil ich endlich irgend jemandem die Wahrheit
 enthüllen wollte …«
 
-»Satan taten Sie recht …« warnte Harald zerstreut,
-»Wie … wie lange ist Jeanette Dubois bei Ihnen«
+»Daran taten Sie recht …« meinte Harald zerstreut.
+»Wie … wie lange ist Jeanette Dubois bei Ihnen?«
+
 Alix Gundamoore dachte nach …
 
 »Sie kam ein halbes Jahr vor den … traurigen Vorfällen,
@@ -2038,11 +2042,11 @@ vor dem Zweikampf nach Benares. Sie wollte hier
 Musikstunden geben. Eine Regung des Mitleids — denn sie
 <@pagebreak/>
 entstammt ja in Wahrheit dem völlig verarmten normannischen
-Herzogs8gesHleHt der Chaterelle-Dubois — ließ mich
+Herzogsgeschlecht der Chaterelle-Dubois — ließ mich
 Jeanette als Gesellschaftsdame in unser Haus aufnehmen,
-und ich; habe dies eigentlich) nie bereut, obwohl Jeanette
+und ich habe dies eigentlich nie bereut, obwohl Jeanette
 ein recht komplizierter Charakter ist und es mir zuweilen
-scheint, als ob sie micM; haßt … ja, haßt … WedShalb,
+scheint, als ob sie mich haßt … ja, haßt … Weshalb,
 begreife ich nicht …«
 
 Harald nickte nur — schwieg …
@@ -2050,62 +2054,60 @@ Harald nickte nur — schwieg …
 Die Stille, die nun eintrat, war erfüllt mit tausend
 unausgesprochener Fragen …
 
-Dann sagte See Cold hart und streng:
+Dann sagte Joe Cold hart und streng:
 
-»Mylady, Sie wissen, im bin Detektivinspektor … Ich
+»Mylady, Sie wissen, ich bin Detektivinspektor … Ich
 bedauere, Jeanette Dubois verhaften zu müssen, denn ich
-»bin überzeugt, daß sie die Attentate inszeniert hat, Denken
+bin überzeugt, daß sie die Attentate inszeniert hat. Denken
 Sie an den Spiegel, der Ihre Schulter beleuchtete: als
 Ziel!! Das genügt …«
 
 Harst machte eine beschwichtigende Handbewegung.
 
-»4ebcreilen Sie nichts, Cold! Lassen Sie sich Zeit.
-Vielleicht liegen die Dinge da? nicht ganz so klar, wie
-Sie annehmen. Nennen Sie mir ein Motiv für diese Attentate
-?!«
+»Übereilen Sie nichts, Cold! Lassen Sie sich Zeit.
+Vielleicht liegen die Dinge doch nicht ganz so klar, wie
+Sie annehmen. Nennen Sie mir ein Motiv für diese Attentate?!«
 
 »Eifersucht!«
 
 »Wie meinen Sie das?«
 
-»Starrte hat den Lord geliebt …«
+»Jeanette hat den Lord geliebt …«
 
-»Besuch, glauben Eise das?«
+»Mylady, glauben Sie das?«
 
-»Fischers! So, wie ich mit James trotz des Altersunterschiedes
-gelegt habe, giüclicdh gewesen bin: ausgescDHlossen!«
+»Niemals! So, wie ich mit James trotz des Altersunterschiedes
+gelebt habe, glücklich gewesen bin: ausgeschlossen!«
 
-»Tun, Cold, — dann bitte: I2anctte glaubt den Lord
-tot, und Co wird sie Kontakt hassen und töten wollen?!
+»Nun, Cold, — dann bitte: Jeanette glaubt den Lord
+tot, und da wird sie Mylady hassen und töten wollen?!
 Wo ist da die Logik?!«
 
 »Sie haben recht. ich gebe mich geschlagen. Ich werde
-Jeanette in Ruhe lassen, es sei denn, daß Sie, Harst; eine
+Jeanette in Ruhe lassen, es sei denn, daß Sie, Harst eine
 bessere Theorie in Bereitschaft haben.«
 
 <@pagebreak/>
-»Die habe 149 …! Dom mein Prinzip ist: erst prüfen,
-dann … Angaben …« —
+»Die habe ich …! Doch mein Prinzip ist: erst prüfen,
+dann … zupacken …« —
 
-Was noch weiter gesprochen wurde, war in der Haupt«-
-Sache von Colds Seite ein zweckloses Herantraten.
+Was noch weiter gesprochen wurde, war in der Hauptsache
+von Colds Seite ein zweckloses Herumraten.
 
 Gegen Mittag waren wir wieder allein.
 
 Ich war in der Tat ganz benommen von dem starken,
-ruckartigen Eindruck, den Myladys Keuchte auf mich gemacht
+nachhaltigen Eindruck, den Myladys Beichte auf mich gemacht
+hatte.
 
-tc
-
-»Harald,« fragte ich und trat Dickicht vor ihn hin, »ist
+»Harald,« fragte ich und trat dicht vor ihn hin, »ist
 Jeanette schuldig?«
 
 »Du bist und bleibst ein blutiger Anfänger!« erwiderte
 er und ging auf den Balkon hinaus.
 
-d. Paarmal,
-Der menj4Hliche Tiger,
+<h2>4. Kapitel.</h2>
+<h3>Der menschliche Tiger,</h3>
 
 Drei Tage später … Freude zehn Uhr … Lagerfeuer im
 Dickicht … Zelte … Bratendunst … Graue K8Kolosse im
