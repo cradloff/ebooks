@@ -46,7 +46,7 @@ durch ein gedecktes Motorboot hergestellt, das auf ein Glockenzeichen
 
 Wir saßen jetzt im Speisezimmer bei Tisch. Zu vieren.
 Die vierte war die Gesellschaftsdame der Lady. Eine lustige
-übermütige Französin namens Jeanette Dubois, Unter einer
+übermütige Französin namens Jeanette Dubois. Unter einer
 Gesellschaftsdame stellt man sich für gewöhnlich eine hagere,
 strenge, stille, belesene Person, Gouvernantentyp, vor. Dies
 traf bei Jeanettchen durchaus nicht zu. Sie redete das Blaue
@@ -87,7 +87,7 @@ Fall sein, — auch bei mir nicht. Kleine moralische Defekte
 haben wir alle, Mylady …«
 
 Er schluckte die Auster, spülte mit Haute Sauterne
-nach und nahm die nächste vor,
+nach und nahm die nächste vor.
 
 Myladys Gesicht war ernst geworden.
 
@@ -130,7 +130,7 @@ Mein Jeanettchen fuhr mich grimmig an:
 
 »Sie hören ja gar nicht hin, Herr Schraut …«
 
-»oh, doch, Miß … Sie sagten soeben, der Ausgang des
+»Oh, doch, Miß … Sie sagten soeben, der Ausgang des
 Weltkrieges war ein Gottesgericht … Ich spreche nie über
 Politik. Nur hier darf ich Ihnen wohl entgegnen: Dann
 war auch der Krieg 70/71 ein Gottesgericht. — Und nun
@@ -150,7 +150,7 @@ nicht, wer sie kocht, sondern wie sie heißen.« — Der Inspektor
 grinst verstohlen. »Gnädige Frau, sie werden hauptsächlich
 in China gekocht, daher nennt man sie Kochinchina.« —
 Frau Neureich ist zufrieden. Abends sagt sie zu ihrem fetten
-Gatten: »Emil, wir müssen unbedingt einen Chinesischen
+Gatten: »Emil, wir müssen unbedingt einen chinesischen
 Koch engagieren, und dann laden wir Raffkes zum Abendbrot
 <@pagebreak/>
 ein zu Koch in China-Hühnern, gekocht von einem Koch aus
@@ -316,7 +316,7 @@ dem Bastteppich, und ich hatte mich hinter meinem Sessel
 zusammengekauert.
 
 Ich wußte, welcher Art die Biene gewesen … Es war
-nicht schwer zu raten,
+nicht schwer zu raten.
 
 Dann fragte Mylady: »Was ist eigentlich geschehen,
 Herr Harst?«
@@ -407,7 +407,7 @@ Harald reichte ihr die Rarität wieder über den Tisch
 zurück und trank einen Schluck Mokka und langte nach
 einer Zigarette. Lady Alix hatte sich weit zurückgelehnt und
 den Kopf nach der anderen Gazewand gedreht, wo ebenfalls
-drei Löcher unschwer zu erkennen waren,
+drei Löcher unschwer zu erkennen waren.
 
 »Herr Harst,« sagte sie unvermittelt, »das ist sonderbar …
 Wenn man zwischen den Stellen, wo die kantigen Schußöffnungen
@@ -434,7 +434,7 @@ mit einem wolligen Büschel unten, wie sie zum Scheibenschießen
 benutzt werden. Und wenn diese meine Annahme
 stimmte, mußten an den Rändern der Löcher in der straff
 gespannten, dünnen, engmaschigen Gaze noch winzige Wollflocken
-haften geblieben sein, —
+haften geblieben sein. —
 
 Harst hatte Lady Alix’ Worte mit einem energischen
 Kopfschütteln beantwortet. »Nun denken Sie nur nicht etwa,
@@ -469,7 +469,7 @@ Regen und die Gaze nur als verschwommene helle Flecke
 zu erkennen waren. »Bitte — tun Sie es … Fragen Sie
 nicht … Rasch, wir wollen nach unten …«
 
-Lady Alix sagte ruhig; »Ich habe mich noch nie so lächerlich
+Lady Alix sagte ruhig: »Ich habe mich noch nie so lächerlich
 gemacht, mich hinter einem Teebrett zu verkriechen,
 und ich werde es auch nicht tun. Wenn mir der Tod
 durch die Kugel eines Meuchelmörders bestimmt ist, entgehe
@@ -481,9 +481,9 @@ verraten. Ich danke Ihnen, daß Sie mir Klarheit gaben.
 
 Ich zögerte …
 
-Harst meinte nachträglich: »Mylady, und wenn ich
+Harst meinte nachdrücklich: »Mylady, und wenn ich
 Sie nun bitte, auch in meinem Interesse als Ihr Gast,
-Hier nicht leichtsinnig mit einer Gefahr zu spielen, die
+hier nicht leichtsinnig mit einer Gefahr zu spielen, die
 größer ist, als Sie ahnen, würden Sie dann …«
 
 »Gehen wir hinab,« unterbrach Alix Gundamoore ihn,
@@ -491,7 +491,7 @@ und ich öffnete die Tür und sie schritt zur Treppe, dicht
 hinter Jeanette, dann ich, als letzter Harst, der, wie ich
 sah, aus der dem Frachtschiff zugekehrten Wand blitzschnell
 mit einem Messer ein kleines viereckiges Stück herausgetrennt
-hatte,
+hatte.
 
 <@pagebreak/>
 Als wir die elegante Mahagonitreppe zu den Wohnräumen
@@ -508,7 +508,7 @@ klug.« —
 
 Wir waren nun in dem behaglichen Salon um denselben
 Tisch vereint, wo wir bereits beisammen gesessen
-Hatten, bevor wir zu Tisch gegangen waren und das Gespräch
+hatten, bevor wir zu Tisch gegangen waren und das Gespräch
 Lady Alix’ und Harsts das »Bild« behandelt hatte …
 
 <@pagebreak/>
@@ -577,7 +577,7 @@ aber wieder dem Bilde zu.
 
 Da die Deckenkrone brannte, war das matte Pastellbild,
 ohne irgendwo Lichtreflexe zu zeigen, in allen Einzelheiten
-zu Übersehen. — Daß die dargestellte Person ein
+zu übersehen. — Daß die dargestellte Person ein
 Fürst war, bewies schon die Menge Orden, die er neben dem
 überreichen Edelsteinschmuck auf der gelblichen Phantasieuniform
 trug, und der Säbel, den er als Stütze leicht in
@@ -590,10 +590,10 @@ Ein Radscha also, und sicherlich keiner der zu den vielen
 Schattenfürsten Indiens gehörte. Es mußte ein Mann sein,
 dem England schmeichelte, den es bei Laune erhalten wollte,
 — also ein Fürst von Einfluß. Umsonst wird keinem Inder
-der Hosenbandorden verliehen, —
+der Hosenbandorden verliehen. —
 
 Die Lady rief jetzt: »… Sie sind an Deck … Da, sie
-Haben die Großen Karbidlaternen mit. Auf Mah Sing ist
+haben die Großen Karbidlaternen mit. Auf Mah Sing ist
 Verlaß … Sehen Sie, Herr Harst, — der Bucklige da im
 Laternenlicht, das ist der Händler Biku, ein Mischling …
 Sein Frachtschiff ankert immer an dieser Stelle … Ich habe
@@ -608,7 +608,7 @@ Revolver lieber nicht so wild in der Luft umherfuchteln …«
 
 Die Szene drüben auf Deck des plumpen Frachtkahnes
 hatte weiter kein Interesse für mich. Das Bild bot mir
-vorläufig mehr,
+vorläufig mehr.
 
 Der weiße Seidenturban des Fürsten mit der Riesendiamantagraffe
 und dem Reiherstutz (Erinnerungen an den
@@ -618,7 +618,7 @@ schmale, vorspringende Stirn, schmal wie das bartlose, starre
 Gesicht, das etwas … Wachskopfartiges an sich hatte. —
 Wer mochte der Fürst sein? Die meisten kannten wir ja …
 die bedeutendsten … keiner glich diesem … unheimlichen
-Menschen,
+Menschen.
 
 Und weiter: Dieses Bild, stellte ich fest, hatte doch noch
 etwas Besonderes, etwas, das ich schon vorhin als »Farbenspielerei«,
@@ -713,7 +713,7 @@ Der Kerl ist halbtot vor Schreck …
 »Den nahmen sie mit …«
 
 Harald schiebt das Häufchen Unglück in die Kajüte
-Hinein …
+hinein …
 
 Weshalb sollen wir auch hier draußen naß werden?!
 
@@ -747,7 +747,7 @@ Es war eine Riesendummheit von uns, daß wir mit dem
 Rücken nach der Tür hin standen, die halb offen geblieben
 …
 
-Die Dummheit rächte sich bitter,
+Die Dummheit rächte sich bitter.
 
 <@pagebreak/>
 
@@ -755,37 +755,37 @@ Die Dummheit rächte sich bitter,
 <h3>Herr Biku.</h3>
 
 »Die Aktien stehen für uns schlecht,« meinte Harald
-und betrachtete seine im Schoße ruhenden Hände,
+und betrachtete seine im Schoße ruhenden Hände.
 
 Durch ein halbzerbrochenes, erblindetes Fenster schimmerte
 trübes Licht über unsere Köpfe und die elende kleine
 Kammer, in der wir, mit dünnen Drahtseilen mehr als
 raffiniert gefesselt, nun bereits zehn Stunden hockten und
 nach dem Überfall auf uns keine Seele mehr zu Gesicht
-bekommen hatten,
+bekommen hatten.
 
 Es waren mindestens sechs Leute gewesen, die uns
 blitzschnell niedergerungen hatten. Und diese Kerle hatten
 Kraft gehabt … Harald hatte zwei abschütteln können, hatte
 einen niedergeschossen, dann war Biku ihm von hinten an
 den Hals geflogen, und ein Fußtritt gegen den Leib machte
-ihn völlig kampfunfähig,
+ihn völlig kampfunfähig.
 
 So hatte der kurze Kampf geendet, der mir ein blaues
 Auge einbrachte und meinen Smoking für den Lumpensammler
-reif machte,
+reif machte.
 
 Nur also saßen wir in diesem duftenden Kämmerlein,
 in dem als einzige Dekoration wir selbst und vier krepierte
 Ratten vorhanden waren — vergiftet, denn solch ein Frachtschiff
-ist zumeist an Rattenbesatzung stärker als an menschlicher,
+ist zumeist an Rattenbesatzung stärker als an menschlicher.
 
 <@pagebreak/>
 Das Fenster lag kaum eine Handbreit über dem schmierigen
 Bretterboden, und was wir von der Außenwelt erblickten,
 war ein sogenannter Bajou, ein toter Flußarm,
 — Schilf, Bäume und reichlich Gangeskrokodile und sehr
-nachdenkliche Flamingos und schwarze Reiher,
+nachdenkliche Flamingos und schwarze Reiher.
 
 Es regnete …
 
@@ -800,7 +800,7 @@ sind, ist … deine Schuld, mein Alter!«
 »Meine? Gestatte mal …!!«
 
 »Ja …! Wenn du nicht das Bild so andauernd angeglotzt
-Hättest, würde ich niemals den Salon verlassen haben …«
+hättest, würde ich niemals den Salon verlassen haben …«
 
 »Erlaube mal …«
 
@@ -813,7 +813,7 @@ du also sogar zu loben, denn sonst wäre uns Herr Biku
 samt Genossen entwischt.«
 
 Ich war froh, daß Harald nun endlich sein bisheriges
-stundenlanges Schweigen aufgegeben hatte,
+stundenlanges Schweigen aufgegeben hatte.
 
 »Erörtern wir den Fall von Anfang an,« meinte ich.
 
@@ -825,7 +825,7 @@ an …«
 »Ja, das Bild des Radscha …«
 
 »Des Maharadscha von Guspar — — mit einem Kreuz
-Hinten. Ruhe sanft! Denn er ist tot,«
+hinten. Ruhe sanft! Denn er ist tot.«
 
 »Donnerwetter — also der ist’s!
 
@@ -861,7 +861,7 @@ Seiner Königlichen Hoheit aufzuklären …«
 Wangen, mein Alter … — Dann aber wurde ich Kavalier
 und versprach ihr, von anderen Sachen zu reden …«
 
-»und dann … kamen die Schüsse oben an Deck in
+»Und dann … kamen die Schüsse oben an Deck in
 dem Gazekasten …«
 
 »Noch lange nicht … Du kennst doch das Lied: »Erst
@@ -930,7 +930,7 @@ Bewegte den Schlangenkopf mit der eklen, schwärzlichen
 lappigen Haut des langen Halses hin und her und kratzte
 mit dem rechten Schwimmfuß im Sande, — —
 
-Meine Leser und Freunde, alle die, denen »Die Schildkröte
+Meine Leser und Freunde, alle die, denen »die Schildkröte
 des Yogi« bekannt ist, werden sofort Bescheid wissen.
 
 Mit dem Yogi Kaddami und seiner Riesenschildkröte
@@ -965,7 +965,7 @@ Gesichtern …
 »Ja, wie Sie hören, meine Herren: ich beherrsche sogar
 Ihre swerre Sprack, — so etwa sagt der Gauner in Minna
 von Barnhelm … — Ich bin gebildet … Lessing ist mir
-nicht fremd. Selbst den Roman »Der Zauberzwerg«, Zwei
+nicht fremd. Selbst den Roman »Der Zauberzwerg«, zwei
 Bände zu 600 Seiten, habe ich gelesen, was fraglos eine
 Leistung ist. — Sie gestatten, daß ich Platz nehme …«
 
@@ -991,16 +991,16 @@ das Wegsacken schnell gehen. Der Flußarm ist hier fünf
 Meter tief, und das genügt. Die beiden Masten sind schon
 gekappt, und nachher wird niemand ahnen, daß hier Bikus
 Schiff verfault und Sie beide mit, — was mir leid tut,
-aber nicht zu ändern ist,«
+aber nicht zu ändern ist.«
 
 »Sie werden mit sich reden lassen, Biku …!« meinte
-Harald Kühl. »Geschäft ist Geschäft … Wieviel verlangen
+Harald kühl. »Geschäft ist Geschäft … Wieviel verlangen
 Sie? Genügen hunderttausend Rupien?«
 
 »Nein, und wenn Sie Millionen böten … Es ist unmöglich.
-Ich werde kontrolliert,«
+Ich werde kontrolliert.«
 
-»Von Mademsiselle Jeanette?«
+»Von Mademoiselle Jeanette?«
 
 »Nein. Da sind Sie sehr auf dem Holzwege, Herr
 Harst. Ihre ganzen Kombinationen sind verfehlt, total verfehlt
@@ -1187,7 +1187,7 @@ Jedenfalls: Wir hätten uns ohne den Yogi aus diesem
 Labyrinth von natürlichen Kanälen, Inseln, breiten verkrauteten
 Seen und undurchdringlichen Wäldern nie herausgefunden.
 Von Weg, Steg, Brücken keine Rede. Und doch
-schritt Kaddami so sicher dahin, als ob er hier daheim wäre,
+schritt Kaddami so sicher dahin, als ob er hier daheim wäre.
 
 Nach einer Stunde — ich hatte das Gefühl, daß der
 Yogi uns im Kreise führte — kamen wir an felsige, kahle
@@ -1198,7 +1198,7 @@ Es war eben die Zeit des indischen Winters.
 
 <@pagebreak/>
 Kaddami deutete auf den langen schmalen Sampan.
-»Bleibt Hier,« sagte er, »ich bin nachmittags wieder bei
+»Bleibt hier,« sagte er, »ich bin nachmittags wieder bei
 euch. Ihr findet im Boot alles Nötige.«
 
 Jetzt erst merkten wir, daß »die Schildkröte« nicht mehr
@@ -1266,7 +1266,7 @@ Zuletzt ein langes schmieriges Hemd. Aber darunter
 kam nun ein seidenes Unterhemd, tadellos sauber, zum Vorschein.
 Auch Bikus Körper war gut gepflegt, die Haut zart
 und weiß. Nur die sichtbaren Teile hatte er absichtlich so
-unglaublich verdrecken lassen,
+unglaublich verdrecken lassen.
 
 Dann ging er — ohne Buckel, ein mittelgroßer, sehniger,
 gutgewachsener Mann zum Ufer, nahm Sand als Seife und
@@ -1301,7 +1301,7 @@ mit den Beinen nach vorn …
 
 Harald rannte … rannte … und schoß …
 
-Biku war verschwunden,
+Biku war verschwunden.
 
 Die Krokodile flüchteten. Wir standen am Ufer und
 schauten nach blutiger Verfärbung des Wassers aus …
@@ -1330,10 +1330,10 @@ Auch sie waren weg. — —
 
 Abends sieben Uhr landete in der Stadt Chanar ein
 Sampan, in dem zwei Europäer saßen, die wie die Strolche
-aussahen,
+aussahen.
 
 Ein Frachtdampfer nahm sie mit nach Benares, wo
-sie nachts ein Uhr in ihrem Hotel eintrafen,
+sie nachts ein Uhr in ihrem Hotel eintrafen.
 
 Sie …
 
@@ -1395,7 +1395,7 @@ Berlin nebenan wohnte.
 Wir waren wie gesagt, nachdem wir am Ufer des
 wunderschönen klaren Sees im Chanari festgestellt, daß des
 Yogi Kaddami Wunderschildkröte die beiden Kulis losgeschnitten
-hatte — die Spuren waren unverkennbar! — in
+hatte — die Spuren waren unverkennbar! — In
 wenig froher Stimmung nach Benares zurückgekehrt, und
 nachdem wir bis neun Uhr früh geschlafen, dann gebadet
 und wieder in unsere Sportanzüge geschlüpft waren, saßen
@@ -1403,7 +1403,7 @@ wir gegen zehn Uhr unter dem Glasdach des Balkons beim
 Frühstück.
 
 Der Regen hatte sich für kurze Zeit in festlichen Sonnenglanz
-verwandelt. Es war Sonntag,
+verwandelt. Es war Sonntag.
 
 Und da kam »er«, nämlich Seine erlauschte, ausgekochte
 Frechheit Mr. Jonny Weec.
@@ -1429,14 +1429,14 @@ Er sagte: »Es war selbstverständlich, daß ich Sie kennen
 lernen mußte, Mr. Harst. Mein Pa lädt Sie und Ihren
 Freund zu einer Jagd ein. Was kostet das?«
 
-»Eine Million Dollar,« erwiderte Harst äußerst Zuvorkommend.
+»Eine Million Dollar,« erwiderte Harst äußerst zuvorkommend.
 
 Jonny grinste. »Sie scherzen …«
 
 »Nein. Aber Sie …! — Wenn Sie Führer für eine
 Jagdpartie brauchen, so wählen Sie billigere.«
 
-»aber — wir könnten doch daheim in Chikago erzählen,
+»Aber — wir könnten doch daheim in Chikago erzählen,
 daß …«
 
 »Dann muß Ihnen dies auch eine Million wert sein …«
@@ -1526,7 +1526,7 @@ andere als das. Ich bin ein reicher Sonderling, der das
 Abenteuer sucht, weil nur die Sensation mit kriminellem
 Einschlag mir die Langeweile vertreibt.«
 
-»oh — das ist echt englisch!!« lobte Jonny begeistert.
+»Oh — das ist echt englisch!!« lobte Jonny begeistert.
 
 »Pardon, ich bin Deutscher …«
 
@@ -1538,7 +1538,7 @@ amerikanische Zweigniederlassung ist …«
 
 »Sehr, Mr. Harst … Auch Lord Kanderhar findet das,
 und ein so vornehmer Herr wie Seine Lordschaft hat doch
-Schätzung für alles, Er hat uns auch bereits auf sein Schloß
+Schätzung für alles. Er hat uns auch bereits auf sein Schloß
 in Schottland eingeladen — zur Gemsenjagd und zur Hirschhatz
 … Es wird dort sehr nett im Frühjahr werden.«
 
@@ -1759,7 +1759,7 @@ vertraut zu werden, daß sie uns später »als intime Bekannte«
 nicht zu fürchten brauchen.«
 
 »Mag sein,« nickte Cold. »Und — unser Feldzugsplan?
-— Ich Hatte natürlich nur die Absicht, mit der Jacht
+— Ich hatte natürlich nur die Absicht, mit der Jacht
 bis Chanari zu fahren, sie dort irgendwo in einem Nebenfluß
 zu verstecken und in anderer Maske hierher zurückzukehren.
 — Was schlagen Sie vor?«
@@ -1817,11 +1817,11 @@ Gesicht. »Ich kann Ihnen diese Fragen unschwer beantworten
 … Der Zwerg, den der Yogi als »Schildkröte«
 benutzt, stammt aus dem Quellgebiet des Mahanadi, und
 jene halb unerforschten Landstriche gehören mit zu dem
-Reiche Guspar. ich bin weiter überzeugt, daß auch Kaddami
+Reiche Guspar. Ich bin weiter überzeugt, daß auch Kaddami
 ein geborener Guspanesi ist.«
 
 Cold hatte sich vorgebeugt und las Harald die Worte
-Förmlich von den Lippen ab. Ich tat dasselbe. Was Harst
+förmlich von den Lippen ab. Ich tat dasselbe. Was Harst
 hier vorbrachte, war auch mir neu.
 
 »… Weshalb der Maharadscha sich verborgen hält, fragen
@@ -1831,13 +1831,13 @@ behaupte ich …!«
 
 »Von wem?«
 
-Harald machte eine Kunstpause
+Harald machte eine Kunstpause.
 
 Dann: »Prüfen Sie mal die Vorgänge auf dem Wohnschiff
 …«
 
 Cold streichelte sich die Stirn, als ob er besonders gute
-Gedanken Herauslocken wollte,
+Gedanken herauslocken wollte.
 
 Plötzlich rief er: »Lady Gundamoore hält den Fürsten
 eingesperrt! Sie haßt ihn!«
@@ -1859,7 +1859,7 @@ Die Halbinsel wird gemieden. Mithin ist sie ein
 ideales Versteck für einen … frechen farbigen Lüstling, der
 den Stolz einer Engländerin verletzt hat.«
 
-»Land der Toten …« murmelte Joe Cold, »Ungemütlicher
+»Land der Toten …« murmelte Joe Cold. »Ungemütlicher
 Name … Aber Sie mögen recht haben, Harst …
 — Nur: was bedeutet das Auftauchen Bikus mit seinem
 Frachtschiff in der Nähe des Wohnbootes der Lady, und was
@@ -1869,7 +1869,7 @@ heraus …«
 Er wollte noch etwas hinzufügen. Es hatte geklopft …
 
 Ein farbiger Hotelpage meldete Lady Alix Gundamoore
-an,
+an.
 
 <@pagebreak/>
 
@@ -1879,7 +1879,7 @@ an,
 »Ich lasse bitten,« erklärte Harald.
 
 Cold flüsterte: »Sie hat eine feine Witterung! Wir
-Haben Sie angelockt durch unser Gespräch.«
+haben Sie angelockt durch unser Gespräch.«
 
 Dann kam sie …
 
@@ -2083,7 +2083,7 @@ gelebt habe, glücklich gewesen bin: ausgeschlossen!«
 tot, und da wird sie Mylady hassen und töten wollen?!
 Wo ist da die Logik?!«
 
-»Sie haben recht. ich gebe mich geschlagen. Ich werde
+»Sie haben recht. Ich gebe mich geschlagen. Ich werde
 Jeanette in Ruhe lassen, es sei denn, daß Sie, Harst eine
 bessere Theorie in Bereitschaft haben.«
 
@@ -2107,25 +2107,25 @@ Jeanette schuldig?«
 er und ging auf den Balkon hinaus.
 
 <h2>4. Kapitel.</h2>
-<h3>Der menschliche Tiger,</h3>
+<h3>Der menschliche Tiger.</h3>
 
-Drei Tage später … Freude zehn Uhr … Lagerfeuer im
-Dickicht … Zelte … Bratendunst … Graue K8Kolosse im
-Neogeinnebel: unsere Elefanten,
+Drei Tage später … Abends zehn Uhr … Lagerfeuer im
+Dickicht … Zelte … Bratendunst … Graue Kolosse im
+Regennebel: unsere Elefanten.
 
-Mr. John Weec, dürre Hopfenstanzge, sHun32uzie gerade
-unseren Mahut Gisbra pro? an …
+Mr. John Weec, dürre Hopfenstange, schnauzte gerade
+unseren Mahut Gisbra grob an …
 
 »Die Elefanten müssen weiter weg!! Das ist ja ekelhaft …!
-Pferdestallgeruch … Dabei soll man »sann!« …
+Pferdestallgeruch … Dabei soll man essen?!«
 
-Dr« Mahut erklärte, die Tiere müßten in der Nähe
+Der Mahut erklärte, die Tiere müßten in der Nähe
 bleiben, der Tiger wegen.
 
-Meer kam grollend wieder ins Zelt.
+Weec kam grollend wieder ins Zelt.
 
-Harald, der sich hier in allem völlig zurückhielt!, kaute
-mit Behagen das Bruststü der Wildtaube und unterhielt sich
+Harald, der sich hier in allem völlig zurückhielt, kaute
+mit Behagen das Bruststück der Wildtaube und unterhielt sich
 mit Gladys Weec, die gar nicht so Übel war.
 
 <@pagebreak/>
@@ -2134,19 +2134,19 @@ an den Kragen gehen.
 
 Auch dieser Morgen brach an …
 
-Dünner Gegen …
+Dünner Regen …
 
 Weec fluchte wieder. Sein Sprößling Jonny hatte Jagdfieber.
 
 Wir steckten hier mitten im ferneren Teil des Chanari.
 Wir hatten zwanzig Treiber mit, vier Elefanten, vier Mahuts,
 drei eingeborene Jäger. Die Geschichte kostete Mr.
-Tee« ein Heidengeld.
+Weec ein Heidengeld.
 
 Frau Weec hatte uns verschiedentlich photographiert,
-— uns beide!.Daran lag ihr etwas. Für die Bekannten
-in Chikago. Hm übrigen war sie harmloses Weiblein, das vor
-den Bestien und Verlangen eine gräßliche Angst hatte.
+— uns beide! Daran lag ihr etwas. Für die Bekannten
+in Chikago. Im übrigen war sie harmloses Weiblein, das vor
+den Bestien und Schlangen eine gräßliche Angst hatte.
 
 Am Morgen also Aufbruch …
 
@@ -2154,27 +2154,27 @@ Harald wußte es so einzurichten, daß wir beide, der
 Mahut Gisbra und Gladys das eine Tier bestiegen. —
 
 Es ist nun nicht meine Aufgabe hier, etwas zu schildern,
--: aß in hundert Jagdgeschichten steht.
+was in hundert Jagdgeschichten steht.
 
 Mittags kam Jonny zu Schuß. Der Tiger flüchtete …
 
-Unser Kultur, vorher heimlich bestochen, ließ den grauen
-Ansehen vorwärtsstürmen … Gladys hatte schon vorher den
+Unser Mahut, vorher heimlich bestochen, ließ den grauen
+Riesen vorwärtsstürmen … Gladys hatte schon vorher den
 Platz im anderen Tragkorb bei ihrer Mutter eingenommen.
 Wir ließen Tiger Tiger sein und trabten ostwärts — dorthin,
--vo der stille, schöne See liegen mußte. Ich war über Gulasch
-Gleiche! nicht ganz im Bilde. Ich wußte nur, daß er mit
-Lady Uhr vor unserem Abmarsch aus Benares eine länger
-Unterredung ohne Gewesen gehabt hatte,
+wo der stille, schöne See liegen mußte. Ich war über Haralds
+Absichten nicht ganz im Bilde. Ich wußte nur, daß er mit
+Lady Alix vor unserem Abmarsch aus Benares eine längere
+Unterredung ohne Zeugen gehabt hatte.
 
-Unser Tier vermied mit dem seinen Instinkt dieser gelehrigen
-Pikanter alle sumpfigen Stellen, balanzierte über um:
-Gebratene Bäume, riß ganze Lianenbündel herab, die uns«
-wanderten, und erreichte nach drei Stunden felsigen Boden,
+Unser Tier vermied mit dem feinen Instinkt dieser gelehrigen
+Dickhäuter alle sumpfigen Stellen, balanzierte über umgebrochene
+Bäume, riß ganze Lianenbündel herab, die uns
+hinderten, und erreichte nach drei Stunden felsigen Boden,
 also die Nähe des Sees.
 
-Bon hier ging’s im Schritt nach Osten zu. Dorthin
-dar damals der Boot Kaddami verschwunden.
+Von hier ging’s im Schritt nach Osten zu. Dorthin
+war damals der Yogi Kaddami verschwunden.
 
 <@pagebreak/>
 Harst nahm die Büchse zur Hand.
@@ -2182,9 +2182,9 @@ Harst nahm die Büchse zur Hand.
 Wir stießen plötzlich auf einen schmalen Pfad … Der
 Mahut Gisbra mußte seinen Platz auf dem Halse des
 Elefanten verlassen und sich in dem Tragkorb zusammen
-!Zwerg …
+kauern …
 
-»Du siehst und hörst nichts!« befahl Harald, —
+»Du siehst und hörst nichts!« befahl Harald. —
 
 Meine nervöse Spannung wurde unerträglich.
 
@@ -2195,11 +2195,11 @@ empor …
 
 Dickicht — wie überall …
 
-Aber doch ein Furchtlos …
+Aber doch ein Durchblick …
 
 Ein Holzhaus vor uns, — ein geräumiger Bungalow …
 
-Manch entquillt dem Schornstein …
+Rauch entquillt dem Schornstein …
 
 Sollten hier … die »Toten« hausen?!
 
@@ -2207,11 +2207,11 @@ Was für Tote?!
 
 Ich denke den Gedanken nicht zu Ende …
 
-Tisch … pitsch … pitsch …
+Pitsch … pitsch … pitsch …
 
-Küste …
+Schüsse …
 
-Gleißende Kugeln …
+Pfeifende Kugeln …
 
 Der Elefant rast voran …
 
@@ -2219,13 +2219,13 @@ Wir feuern …
 
 Ein Dutzend braune Kerle …
 
-Unsere Verstand-Gewehre räumen zu/; …
+Unsere Mettford-Gewehre räumen auf …
 
 Drei fliehen …
 
 Lichtung jetzt …
 
-Fliehen dem Bungalow zu-…
+Fliehen dem Bungalow zu …
 
 Harst kennt kein Erbarmen …
 
@@ -2233,18 +2233,18 @@ Schießt …
 
 Zwei weniger …
 
-Der letzte kalt dicht vor der Verandatreppe um
+Der letzte knickt dicht vor der Verandatreppe um …
 
 Unser Tier steht, kniet …
 
-Wir zur Erde hinab — hin zu dem Retten …
+Wir zur Erde hinab — hin zu dem Letzten …
 
 Der liegt halb auf der Seite …
 
-Ein bärtiger Kerl, sauber gekleidet .,
+Ein bärtiger Kerl, sauber gekleidet …
 
 <@pagebreak/>
-Und dann — täuscht mich die gefärbte Haut nicht):
+Und dann — täuscht mich die gefärbte Haut nicht
 mehr …
 
 Es ist ein Europäer!
@@ -2252,71 +2252,72 @@ Es ist ein Europäer!
 Harald hebt ihn empor, trägt ihn auf die Veranda, auf
 das Rohrsofa.
 
-»Leck James Gundamoore,« sagt er leise.
+»Lord James Gundamoore,« sagt er leise.
 
-Ich hatte es geahnt — jetzt zuletzt …
+Ich hatte es geahnt — jetzt zuletzt … —
 
 Der Lord kommt zu sich … Aber sein Gesicht verfällt …
 
 »Mylord,« flüstert Harald über dem Sterbenden, »bereuen
-Sie Ihre Schandtaten?! Bereuen Sie all die Jude, mit
+Sie Ihre Schandtaten?! Bereuen Sie all die Tücke, mit
 der Sie Ihrer Gattin Liebe so schmählich gedankt haben?«
 
 James Gundamoores Augen bleiben stumpf …
-Dr Ein Juden geht durch seinen Leib …
 
-». Ein letztes Aufbäumen …
+Ein Zucken geht durch seinen Leib …
+
+Ein letztes Aufbäumen …
 
 Er ist hinüber …
 
-Er hakt das Land der Toten jetzt in Wahrheit ausgesucht.
+Er hat das Land der Toten jetzt in Wahrheit aufgesucht.
 —
 
-Der Mahut hilft. Wir verbinden sechs Verwundete,!laut
+Der Mahut hilft. Wir verbinden sechs Verwundete, so
 es geht, lassen Gisbra als Pfleger und Wächter bei
 ihnen und traben den Weg zurück, sind abends in der Stadt
-Signal beim Polizeidirektor.
+Chanar beim Polizeidirektor.
 
-Das waren insgesamt elf Stunden Ritt, fast nannte«-
-gebrochen, und wir fühlen uns wie gerädert.
+Das waren insgesamt elf Stunden Ritt, fast ununterbrochen,
+und wir fühlen uns wie gerädert.
 
 Der Polizeidirektor wird die Toten und Verwundeten
-holen lassen, und wir können in seinem Auto zurück Pa
-Benares, wo wir morgens fünf Uhr eintreffen, im Hole!
+holen lassen, und wir können in seinem Auto zurück nach
+Benares, wo wir morgens fünf Uhr eintreffen, im Hotel
 baden, frühstücken und dann — sieben Uhr — Lady Gundamoore
-aussuchen.
+aufsuchen.
 
-Biß dahin hat Harst über Lord James kein Wort
+Bis dahin hat Harst über Lord James kein Wort
 mir gegenüber geäußert, genau wie er den Polizeidirektor
-in Signal mit unklaren Andeutungen abgespeist hat.
+in Chanar mit unklaren Andeutungen abgespeist hat.
 
 Das Motorboot bringt uns zum Wohnschiff.
 
-Freilich — hier sei’s gleich) gesagt — etwas mehr als
+Freilich — hier sei’s gleich gesagt — etwas mehr als
 der Polizeidirektor weiß ich doch. Wir haben in dem Bungalow
 im Chanari zwei Gefangene gefunden und durch die
 <@pagebreak/>
 Hintertür, ohne daß der Mahut sie zu Gesicht bekam, entschlüpfen
 lassen.
 
-Vielleicht hat L+ Leser (und deshalb schalte ich dies
+Vielleicht hat der Leser (und deshalb schalte ich dies
 hier ein) genügend eigenes Kombinationstalent, um herauszuklügeln,
-wer die beiden waren,
+wer die beiden waren.
 
 Man denke nach: Wer kann es sein?
 
-Co 7« Ich mir zwei in Betracht, die Kanal« vor Cold
-und der Lady be« 7/… Zeit uns beschuldigte.
+Es kamen doch nur zwei in Betracht, die Harald vor Cold
+und der Lady der Untreue gegen uns beschuldigte.
 
 Der Yogi …
 
 Der Zwerg: die Schildkröte!
 
-Nu!. wißt ihr es, —
+Nun wißt ihr es. —
 
 Das Motorboot legte an der Schiffstreppe an …
 
-Mah Sing half uns an Der.
+Mah Sing half uns an Deck.
 
 »Mylady wartet im Salon,« erklärte er. »Es ist alles
 in Ordnung, Sahib Harst. Biku liegt gebunden auf dem
@@ -2324,142 +2325,141 @@ Sofa im Salon …«
 
 Biku?!
 
-Ich glaubte mich verhört zu haben,
+Ich glaubte mich verhört zu haben.
 
-Harst geht Ton hinab in den Schitieickag …
+Harst geht schon hinab in den Schiffsgang …
 
 Klopft an …
 
 Eine Stimme: »Herein — bitte!«
 
-Wir betreten den Spleen .,
+Wir betreten den Salon …
 
-Lady Uhr Stoß am An;
+Lady Alix steht am Schreibtisch …
 
-Auf dem So) liegt gefesselt … — (0. — — wer?!
+Auf dem Sofa liegt gefesselt … — ja, — — wer?!
 
 Ich starre hin …
 
-»Ich besitze arm vor …
+Ich traue meinen Augen nicht …
 
-Ich traue meinen Unc« nicht …
+Ich traue meinen Augen nicht …
 
-Oder — — urplötzlich wird es in meinem ungeteilten
-2510\.04&nbsp;201: 5.4.
+Aber — — urplötzlich wird es in meinem umnebelten
+Hirn Licht …
 
-Sorglos seines Spiel …!
+Haralds feines Spiel …!
 
-Umständlich … 441
+Unglaublich …!!
 
-Vor legt« dort
+Wer liegt dort …
 
-Des 75.4
+Wer …:
 
-Der Kollege See Gold!!
-
-Giwebetes As Klang hintere
+<p class="centered">Der Kollege Joe Cold!!</p>
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Reporter? Ende.</h3>
+<h3>Jeanettes Ende.</h3>
 
-Bevor Mylady uns nett begrüßen kann, kräht der
-»Kollege« vom Sofa her;
+Bevor Mylady uns noch begrüßen kann, kräht der
+»Kollege« vom Sofa her:
 
-»! »Ich gratuliere, Herr Harst. Das haben Sie vorzüglich
-gemacht, Sie haben mich besiegt, mich, der auf die Polizei
+»Ich gratuliere, Herr Harst. Das haben Sie vorzüglich
+gemacht. Sie haben mich besiegt, mich, der auf die Polizei
 der ganzen Welt pfiff!«
 
-»Es war nicht schwer, Tim Chariott,« sagt Harst, »Sie
-mögen ein Meisten sein, ein Komödiant, ein Maskenmacher
+»Es war nicht schwer, Tim Chariott,« sagt Harst. »Sie
+mögen ein Meister sein, ein Komödiant, ein Maskenmacher
 ohnegleichen: aber daß die dunkle zweite Perücke, die Sie
-uns zeigten, auch nur Befürchte und nicht eigenes Haar
-war, sah) ich sofort, und da hatten Sie Zur Spiel als See
-Cold, dem ich meine Anerkennung mit vorenthalten will,
-verloren, — Je!!t schweigen Sie …«
+uns zeigten, auch nur Perücke und nicht eigenes Haar
+war, sah ich sofort, und da hatten Sie Ihr Spiel als Joe
+Cold, dem ich meine Anerkennung nicht vorenthalten will,
+verloren. — Jetzt schweigen Sie …«
 
-»Pardon — noch nicht ., 1 Wie war denn die Tigerjagd,
+»Pardon — noch nicht …! Wie war denn die Tigerjagd,
 he?! Jammerschade, daß Sie Mylady eingeweiht hatten
 und daß ich daher die Juwelen und das Scheckbuch des
 alten Weec nicht bekam! Der Trick mit dem Tresor war so
 glänzend eingefädelt, und ich hätte eine Viertelmillion daran
-erdient’
+verdient.«
 
-»Die Tigerjagd, Tim Schattiert, erwiderte Harald sehr
-langsam, … »… die Tigerjagd tat dem Tiger das Leben gekostet
+»Die Tigerjagd, Tim Chariott,« erwiderte Harald sehr
+langsam, »… die Tigerjagd hat dem Tiger das Leben gekostet
 …!! Sie verstehen wohl!! Ihr Kumpan ist tot —
-und Sie worden gehängt werden — — Farbige!!«
+und Sie werden gehängt werden — — baldigst!«
 
-»Armer Tones!« lebt der Schurke da brutal …
+»Armer James!« lacht der Schurke da brutal …
 
 <@pagebreak/>
 Und … — — das trifft …
 
-Das trifft Mylady wie ein Getreulich,
+Das trifft Mylady wie ein Gertenhieb.
 
 Sie erblaßt …
 
-Ihre angstvoll geweiteten Mann starren Harald sieh
-drohend an …
+Ihre angstvoll geweiteten Augen starren Harald flehend
+an …
 
-»James?« flüstert sie … »James …?’«
+»James?« flüstert sie … »James …?«
 
-Und ich sehe, daß nun in ihr ein «&.Krieges … Ahnen
-aussteigt …
+Und ich sehe, daß nun in ihr ein entsetzliches Ahnen
+aufsteigt …
 
-»Schien wir in das Speisezimmer, Mylady,« bittet Harald
-sanft … »Geben Sie mir Ihren Arm …
+»Gehen wir in das Speisezimmer, Mylady,« bittet Harald
+sanft … »Geben Sie mir Ihren Arm …«
 
 Sie wird noch bleicher …
 
 Wankt …
 
-Ein liebendes Weib, das Signatur … Enttäuschung
-durchcmacht. —
+Ein liebendes Weib, das gräßlichste Enttäuschung
+durchmacht. —
 
-Hm Speisezimmer …
+Im Speisezimmer …
 
-Hier haben wir vor genau sechs T«.n gemütlich gesessen
-— zu vieren. Hier habe im Austern vertilgt und
-Hause Hausseite getrunken und Jeanette, dem Satan,
-die Geschichte von den »Koch in Chinas Hühnern erzählt …
+Hier haben wir vor genau sechs Tagen gemütlich gesessen
+— zu vieren. Hier habe ich Austern vertilgt und
+Haute Sauterne getrunken und Jeanette, dem Satan,
+die Geschichte von den »Koch in China"-Hühnern erzählt …
 
 Hier …
 
-Hier gibt nun Mylady halbtot in einem Sessel …
+Hier sitzt nun Mylady halbtot in einem Sessel …
 
 Die schöne Alix …
 
 Ein Bild, daß mir das Herz wehtut.
 
-Harst hält wie ein gütigen Vater Abschwor 8 …ck:
+Harst hält wie ein gütiger Vater ihre beiden Hände …
 
-»Mylady, schien Sie stark …«
+»Mylady, seien Sie stark …«
 
-»20 « Will Co Jahr Ab) ne aß. ’«
+»Ich … bin … es … Ich … ahnte …«
 
 »Alles?«
 
 »Ja …«
 
-»Nein, das ist unmöglich, Mylady … so schändlich,
-wie Ihr Gatte zu Strich schweren «., ekle hintere
-listig, wie er, Tim Chariott und die Dubois Ihnen nach dem.
+»Nein, das ist unmöglich, Mylady … Denn so schändlich,
+wie Ihr Gatte an Ihnen gehandelt hat, — so hinterlistig,
+wie er, Tim Chariott und die Dubois Ihnen nach dem
 Leben trachteten, — — das geht eigentlich über menschliches
+Begriffsvermögen hinaus …«
 
-Begriffsvermögen hinG6us …«
 Jetzt … weint sie …
-Lehnt den Topf an Harald? Brust …
+
+Lehnt den Kopf an Haralds Brust …
 
 <@pagebreak/>
 Weint … —
 
-Ich heiße mir fast die Lippen blutig. In meiner Kehle
-gibt eine Kugel, in meinen Augen ist Presse … Ich bin
+Ich beiße mir fast die Lippen blutig. In meiner Kehle
+sitzt eine Kugel, in meinen Augen ist Pfeffer … Ich bin
 nicht rührselig.
 
-Dies Elend macht mir die Wimpern feucht,
+*Dies* Elend macht mir die Wimpern feucht.
 
 Sie weint … hilflos, ohne Hoffnung …
 
@@ -2474,63 +2474,62 @@ bewundere sie:
 
 Harald behält ihre Hände in den seinen …
 
-»Mylady, Jeanette D’:Greis und der angebliche Tim
+»Mylady, Jeanette Dubois und der angebliche Tim
 Chariott sind Geschwister,« beginnt er. »Ich habe dies hier in
-der Polizeidirektion bei Durchsicht der internationalen Fahne
-
-Angeklagt er festgestellt. Die Geschwister heißen in Wirklichkeit
+der Polizeidirektion bei Durchsicht der internationalen
+Fahndungsblätter festgestellt. Die Geschwister heißen in Wirklichkeit
 Thomas und Jeanette L’Avons, sind Elsässer und
-entstammen einer äußerst Einverleiben Familie, daher auch
-der Altersunterschied von fünfzehn Jahren, Beide waren
-Hotelangestellte, Jeanette Stenotypistin, Thomas Kellner, Ohne
-Zweifel hat L’Avons die meisten seiner Verließen mit
+entstammen einer äußerst kinderreichen Familie, daher auch
+der Altersunterschied von fünfzehn Jahren. Beide waren
+Hotelangestellte, Jeanette Stenotypistin, Thomas Kellner. Ohne
+Zweifel hat L’Avons die meisten seiner Verbrechen mit
 Jeanettes Hilfe vollbracht. Als ihnen in Europa der Boden
-zu heiß wurde, kamen sie hierher, Jeanette wußte Ihr Mitleid
+zu heiß wurde, kamen sie hierher. Jeanette wußte Ihr Mitleid
 zu erregen, Mylady, und dankte Ihnen die Aufnahme
 in Ihr Haus dadurch, daß sie Ihren Gatten völlig unter
 Liebeshörigkeit brachte. Die raffinierten Künste dieser schmächtigen,
 temperamentvollen Person untergruben allmählich den
-an sechs wohl nicht ganz festen Charakter Ihres Gatten,
-Jeanette arbeitete darauf hin, Ihr BVBermögen, Mylady, in
-»die Hände zu bekommen. Ihr Gatte, Mylady, war arm, Und
-so wurde denn wieder einmal das Geld der Unheilstiftz2r.
-— Gepreßtes Pläne fanden eine schnellere Förderung durch
+an sich wohl nicht ganz festen Charakter Ihres Gatten.
+Jeanette arbeitete darauf hin, Ihr Vermögen, Mylady, in
+die Hände zu bekommen. Ihr Gatte, Mylady, war arm. Und
+so wurde denn wieder einmal das Geld der Unheilstifter.
+— Jeanettes Pläne fanden eine schnellere Förderung durch
 den Besuch des Maharadscha von Guspar hier in Benares
-und durch des Fürsten freie Annäherungsversuche Ihnen
+und durch des Fürsten freche Annäherungsversuche Ihnen
 <@pagebreak/>
 gegenüber, die er nur wagte, weil er wußte, gewußt haben
 muß, daß Ihr Gatte und Jeanette Sie hintergingen. Dann
-kam das sogenannte Duell und der AbszHjieds8b-ief, beides
-wohlberechnete Täuschungen. Der Maßharadscha, behaupte ich,
-ist entweder durch; Thomas L’Avons oder durch den Oberst
+kam das sogenannte Duell und der Abschiedsbrief, beides
+wohlberechnete Täuschungen. Der Maharadscha, behaupte ich,
+ist entweder durch Thomas L’Avons oder durch den Oberst
 beseitigt worden, damit der Fürst Ihnen nicht etwa darüber
 die Augen öffne, was in Ihrem Hause sich abspielte:
 Ehebruch! — Der Oberst zog sich, als Inder verkleidet, in
 die weltabgeschiedene und unzugängliche Einsamkeit des
 Chanari zurück, wo schon längere Zeit, wie dem Yogi
-Kaddami bekannt, eine Anzahl füüziger Artisten Verbrecher
+Kaddami bekannt, eine Anzahl flüchtiger indischer Verbrecher
 in einem Bungalow ganz behaglich hauste, mit denen Thomas
 längst Fühlung genommen. — Nun sollten Sie sterben,
 Mylady. Es kamen die Attentate, es kam jener Abend, der
-den Verbrechern verhängnisvoll werden Alte. Ich sah Jeanette
-mit dem Spiegel operieren, wir enterten das Frack! Schiff,
+den Verbrechern verhängnisvoll werden sollte. Ich sah Jeanette
+mit dem Spiegel operieren, wir enterten das Frachtschiff.
 »Biku« wollte uns ersäufen. Der Yogi rettete uns. Schraut
-und ir, durchs »Blut« Talenten getäuscht, ließen ihn
-an dem See entkommen. Kaddami, vor inzwischen zu dem
-einsamen Bungalow Besitz)jeden war, wir er seine »Schild«
-Freie« vorau8gescmiFt hatte, wurde -Durch die »Toten« Zeit«
-genommen und gezwungen, die beiden Kalis durch) den
-Zwerg losschneiden zu lassen. An S.)Laut und mir!) wagte
-sich der Oberst mit seinen Gesindel nicht heran, Co- wollte
-auf keinen Fall sein Berittene verraten, und der Anregung
-eines Kampfes erschien ihm Ungarn?. — Diva kehrten nach
-Sennores zurück. Die inneren Zusciumenhänge der Freie
-Geheimnisse waren mir bereits klar, ’Der Vorort wohl!e, sobald Sie
+und ich, durch »Bikus« Schlauheit getäuscht, ließen ihn
+an dem See entkommen. Kaddami, der inzwischen zu dem
+einsamen Bungalow geschlichen war, wohin er seine »Schildkröte«
+vorausgeschickt hatte, wurde durch die »Toten« festgenommen
+und gezwungen, die beiden Kulis durch den
+Zwerg losschneiden zu lassen. An Schraut und mich wagte
+sich der Oberst mit seinen Gesindel nicht heran. Er wollte
+auf keinen Fall sein Versteck verraten, und der Ausgang
+eines Kampfes erschien ihm ungewiß. — Wir kehrten nach
+Benares zurück. Die inneren Zusammenhänge der Ereignisse
+waren mir bereits klar. Der Oberst wollte, sobald Sie
 beseitigt wären, unter irgendeinem gut erfundenen Märchen
-wieder auftauchen und Ihre Grafschaft antreten, — Hm Hotel
-lernten wir Jonny Weec und dann den »Kollegen See
-Cold« kennen. Ohrringe L’UNvons3 all? Lord Rande:hat hatte
-es darauf abgesehen, nicht nur die Weecs durch den IrejorSrid
+wieder auftauchen und Ihre Erbschaft antreten. — Im Hotel
+lernten wir Jonny Weec und dann den »Kollegen Joe
+Cold« kennen. Thomas L’Avons als Lord Kanderhar hatte
+es darauf abgesehen, nicht nur die Weecs durch den Tresor-Trick
 zu bestehlen, sondern auch uns während der Jagd
 im Chanari aus dem Hinterhalt niederzuschießen. Er spielte
 <@pagebreak/>
@@ -2539,7 +2538,7 @@ Märchen von »Tim Chariott«, der ein Bruder Weecs sein
 sollte. Trotzdem täuschte er mich nicht. Ich gab Ihnen,
 Mylady, einen Wink, und Sie ließen ihn ergreifen und
 auch Jeanette hier an Bord einsperren, während wir im
-Chanari gründlich aufräumten. Der Oberst ist tot, Die Wahrheit
+Chanari gründlich aufräumten. Der Oberst ist tot. Die Wahrheit
 wird sich nicht verschweigen lassen, Mylady, und wenn
 Sie all den Peinlichkeiten entgehen wollen, reisen Sie ab.
 Ich werde Sie hier vertreten.«
@@ -2548,61 +2547,60 @@ Lady Alix weinte wieder still in sich hinein.
 
 Harald und ich verließen das Speisezimmer, um uns
 nunmehr von Thomas L’Avons all das bestätigen zu lassen,
-was zum Teil lediglich auf Schlußfolgerungen berichte, die
-fleißig kaum umzustoßen waren. Als wir Schon?Eis Brunnen,
-vor dem einer der treuen Diener der Lady Machte Schatten,
-betraten, fanden wir das gefährliche Weit … »l8 Leiche
-vor. Sie hakte Gift genommen, aber ein Dieselben zurück
+was zum Teil lediglich auf Schlußfolgerungen beruhte, die
+freilich kaum umzustoßen waren. Als wir Jeanettes Zimmer
+vor dem einer der treuen Diener der Lady Wache gehalten,
+betraten, fanden wir das gefährliche Weib … als Leiche
+vor. Sie hatte Gift genommen, aber ein Schreiben zurück
 gelassen, in dem sie Mylady um Verzeihung bat und in
 großen Zügen alles gebeichtet hatte.
 
 Thomas L’Avons konnte unter diesen Umständen nicht
-Rückkehr leugnen, Er sagte bei dem »Drei!« a!8 einziger Zeugt
-
-Hinterhalt Beschau und den Fü: »sievorgekn lt, Nu.
-ein die Jener ihre Blaße am Rats des Abgründe eingenommen
+mehr leugnen. Er hatte bei dem »Duell« als einziger Zeuge
+im Hinterhalt gelegen und den Fürsten niedergeknallt, nachdem
+die Gegner ihre Plätze am Rande des Abgrunds eingenommen
 hatten.
 
 Die Leiche des Maharadscha ist später geborgen und
-feierlich in der Hauptstadt Guspar betiesctzt worden. Der
-Nachfolger des Fürsten, sein jüngerer Herunter, schenkte uns
-als Dank jedem eine sogenannte »Tdasibaita«, ein? goldene,
-mit Diamanten belegte Platte he? Fakir-Straimies, was für
-Guspar etwa so viel wie ein hoher Tode bewertete,
+feierlich in der Hauptstadt Guspar beigesetzt worden. Der
+Nachfolger des Fürsten, sein jüngerer Bruder, schenkte uns
+als Dank jedem eine sogenannte »Wasibatta«, eine goldene,
+mit Diamanten belegte Blüte des Batia-Strauches, was für
+Guspar etwa so viel wie ein hoher Orden bedeutete.
 
-L’Avons wurde später in London gehören, — —
+L’Avons wurde später in London gehängt, — —
 
-Es ist und bleibt ein nordwärts: Ding um eilt Frauen
-Herz, Lady Alix war, wie Harald ihr gestern, tohmitiagse
+Es ist und bleibt ein merkwürdig Ding um ein Frauenherz.
+Lady Alix war, wie Harald ihr geraten, nachmittags
 mit ihrem Wohnschiff stromaufwärts gefahren, das einen
 ziemlich starken Motor besaß.
 
 <@pagebreak/>
-Sie landete in Signal, verlangte die Herausgabe Dr
-Leiche ihres Gatten von dem Polizeidirektor und setzte
+Sie landete in Chanar, verlangte die Herausgabe der
+Leiche ihres Gatten von dem Polizeidirektor und setzte mit
 dem Toten an Bord die Fahrt weiter fort.
 
 Vierzehn Tage blieb sie verschollen.
 
-Dann erfuhren wir (inzwischen hatten wir uns derer.
-nach Bombay begeben), daß sie mit ihrer Dienerschaft he
-einsame! Bungalow bezogen habe und dort im wilde;
-Chanari nun ihren trüben Erinnerungen lebte. Ihrem Gatter
-lies? sie neben dem Hause ein Mausoleum aus Felsquader
-errichten, in dem die einbalsamierte Leiche in einem so?
-baren Sarge ruht.
+Dann erfuhren wir (inzwischen hatten wir uns bereits
+nach Bombay begeben), daß sie mit ihrer Dienerschaft den
+einsamen Bungalow bezogen habe und dort im wilden
+Chanari nun ihren trüben Erinnerungen lebte. Ihrem Gatten
+ließ sie neben dem Hause ein Mausoleum aus Felsquadern
+errichten, in dem die einbalsamierte Leiche in einem kostbaren
+Sarge ruht.
 
-Vielleicht ist es für den edlen Charakter ei schön
-Frau überaus bezeichnend, daß sie dem Toten … verhielt
+Vielleicht ist es für den edlen Charakter dieser schönen
+Frau überaus bezeichnend, daß sie dem Toten … verziehen
 hat. —
 
-Ich habe mich bemüht, den Schluß der Geschichte »D
-Bild des Toten« in aller. Schlichtheit zu erzählen. Viertel
-wirkt diese Darstellung, der alle Effekthascherei fehlt,
-eindrucksvollerer.
+Ich habe mich bemüht, den Schluß der Geschichte »Das
+Bild des Toten« in aller Schlichtheit zu erzählen. Vielleicht
+wirkt diese Darstellung, der alle Effekthascherei fehlt, am
+eindrucksvollsten.
 
-In Bombay war’s dann, wo wir im Atlanta-Kino b.
-Auftakt für das erlebten was im als »Film
-Wunder« hier nächstens Schulter!! hilf, ein gestern
-Ergebnis, bei dem der Erfindungsgeist sugeltätititet &
-Gentlemangauner ebenso willig wie genial in Erscheinung
+In Bombay war’s dann, wo wir im Atlanta-Kino den
+Auftakt für das erlebten was ich als »*Film der
+Wunder*« hier nächstens schildern will, — ein seltsames
+Begebnis, bei dem der Erfindungsgeist sogenannter
+Gentlemangauner ebenso witzig wie genial in Erscheinung tritt.
