@@ -1,0 +1,2535 @@
+<@pagebreak/>
+
+Der Film der Wunder …
+
+<h2>1. Kapitel.</h2>
+<h3>Paulchen.</h3>
+
+Meines Wissens hat sich ein entfernt ähnlicher Kriminalfall
+wie dieser, den ich hier schildern will, bisher nur ein
+einziges Mal zugetragen. Mein Freund Harst meint dasselbe.
+Also wird es stimmen. Sein Gedächtnis ist das beste Archiv
+auf Erden. —
+
+Das internationale Gaunertum, das früher als Arbeitsfeld
+die Luxushotels Europas und Amerikas bevorzugte,
+zeigt seit einiger Zeit eine ausgesprochene Vorliebe für
+die Heerstraße des Touristenverkehrs in Ostasien, Westindien,
+Australien und Niederländisch-Indien. Wo man früher dem
+jedem kundigen Auge leicht erkennbaren Typ des vornehm
+aufgemachten Glücksritters niemals. oder selten begegnete:
+Arzt trifft man ihn aller« ten an! Eine Probe hiervon gab
+ich im »Grünen Leuchtstab«. Eine weitere folgt hier. —
+
+<@pagebreak/>
+Wir waren von Benares ohne Aufenthalt mit dem West.
+Expreß bis Bombay) gefahren, immerhin eine recht anstrengende
+Tour von rund achtundvierzig Stunden. Bei der Abreise
+in Benares abends neun Uhr waren in unserem Schlafwagen
+nur drei Doppelkabinen belegt. Wir hatten keinen Grund,
+irgendwie vorsichtig oder mißtrauisch zu sein, da wir in
+Benares mit all den Leuten, die wir als Gegner zu be.
+trachten hatten, gründlichst aufgeräumt hatten. Der Leser
+weiß?Bescheid. Ein Name genügt: Oberst Lord Gundamoore!
+Er war tot. Und was von seiner Sippe übrig, daß-. im Gefängnis.
+Nicht einer war entkommen.
+
+Kurz vor Abfahrt des Zuges. — — ich lehnte im Fenster
+meiner Kabine — erschien noch ein Paar auf dem Bahnhofs,
+das unwillkürlich auffallen mußte.?
+
+Er ein schlanker Herr mit Monokel, mit schlichter Eleganz
+gekleidet, sie eine Schönheit von pikantem Reiz, ebenso
+elegant. Hinter ihnen zwei Gepäckträger, die den Herrschaften
+»nun Koffer, Schirme, Handtaschen, Mäntel in die neben
+»er unsrigen gelegene Doppelkabine reichten.
+
+Etwas war mir an den beiden aufgefallen: sie hatten es
+sehr eilig, sehr … Und in beider Augen lag jener Ausdruck
+von Spannung und Scheu, als ob sie mit irgendeinem
+peinlich;en Zwischenfall rechneten.
+
+Harst und ich hatten die Kabinen 5 und !. Das Paar
+Nummer 7 und 8. — Als der Zug den Bahnhof verließ
+und über die neue Gangesbrücke in mäßigem Tempo hinwegglitt,
+erschien die Dame gleichfalls am »Fenster, bitte mit:
+stutzig an und schaute auf den belebten heiligen Stirn:
+i’inab.
+
+Ich beobachtete sie heimlich. Unzweifelhaft war sie eine
+Schönheit. Sie hatte den Hut abgelegt. Ihr dunkles Haar,
+ganz kurz geschnitten, konnte den Netz dieser schmalen, besetzten
+Züge nicht beeinträchtigen. Ihre seine, etwas kecke
+Nase und die vollen, sinnlichen Hervor, dazu eine vollendet
+<@pagebreak/>
+geformte Kinnpartie und Augen von melancholischer Tiefe:
+im taxierte auf eine Russin.
+
+Harst rief mir zu, ich solle das Fenster!Stricken. Das
+ganze MüdengesFZmeiß käme Herein.
+
+So mußte ich denn die schöne Nachbarin in Ruhe
+lassen.
+
+»Was gab’s denn da draußen zu sehen?« fragte er
+und knöpfte die Jacke seines Schlafanzuges gähnend Zu.
+Er stand in der Verbindungstür unserer Kabinen, rauchte
+eine Zigarette und hielt unter dem Arm seine Reiselektüre
+festgeklemmt, einen englischen Kriminalroman, den er sich auf
+dem Bahnhof gekauft hatte.
+
+Ich erzählte von dem »Paar«,
+
+»Laß mietet in Ruhe damit,/« meinte er lachend. »Jetzt
+haben wir Ferien … Und wenn nebenan ein Mord verübt
+wird, ich rühre keinen Finger. Ich will mich ausschlafen.
+—» Gute Nacht, mein Alter …’
+
+Ein Handschuh …
+
+Und ich war allein, setzte mich auf den Bettrand und
+begann mir die Halbschuhe aufzuschnüren.
+
+Aber — ich schnürte wieder zu, was ich Taschen g6&
+sofort. Irgend einige in mir war stärker als die Müdigkeit.
+Ich ließ das Jalousiefenster wieder leise herab, lehnte mich
+hinaus …
+
+Es war dunkel geworden, Der Zug raste zumeist dich!
+am Ganges entlang gen Allahabad. Von meiner Abhanden
+war nichts mehr zu sehen.
+
+Und doch blieb im am Fenster.
+
+Irgendwie hatte dieses Paar, davon war ich Abenteuer.
+kein ganz reines Gewissen.
+
+Ich vergegenwärtigte mir ihre Gesichter, ihr ganzes Benehmen
+… Ich sah im Geiste die Gepäckträger mit den
+Koffern … Seltsam, daß sie diese Koffer mit in die Kabinen
+genommen »hatten. Wer tut das?! Das Nachtzeug — dafür
+genügen doch die Handtaschen!
+
+<@pagebreak/>
+Ich nahm eine Zigarre … Ich wurde immer »munterer.
+
+Die Nacht war bewölkt, es regnete nur ganz leicht.
+Ich sah neben dem Bahndamm Dörfer vorüberfliegen, sah
+die bohrenden Feuer der Ziegenhirten, sah die Lichterreihen
+kleinerer Bahnhöfe — — nur Lichtstreifen … Und mich
+überkam allmählich jene seltsame Stimmung, ’der vielleicht
+alle die unterliegen, denen eine See im Säuglingsbetihen
+als Geschenk eine kleine, ganz kleine dichterische Gabe, Begabung
+gespendet hat.
+
+Seltsame Stimmung der weltschmerzlihen Abkehr von
+allem Irdischen …
+
+Auch das gibt es bei mir. Zuweilen. Wut dann grüble
+ich Über den verborgenen Sinn des Daseins nach: ob
+wir Menschen nur deshalb in die Welt gesetzt sind, um dem
+Grabe entgegenzuschhwanken, — ob nicht unser »Leben« doch
+nur, wie’s der Brahmanismus lehrt, nur eine Vorstufe eines
+anderen, vervollkommneten neuen »Fußsehne« wäre …
+
+Wie lange ich so am Fenster gelehnt?
+
+Plötzlich hielt der Zug …
+
+»Urzapur« las ich den Stationsnamen. Stadt von 80&nbsp;000
+Einwohnern, an einer tief nach Süden gehenden Schleife
+des Ganges gelegen, — für den Expreß nur Haltepunkt
+»nach Bedarf«.
+
+Ich beugte mich vor …
+
+Wirklich —: das Paar stieg aus! Verschlafene Berg«-
+Träger stürzten herbei …
+
+Schuhe, meine Schöne verschwand im Bahnhofsgebäude.
+
+Aber der Zug blieb noch. Ich fragte einen der Schaffner:
+der Salonwagen des Gouverneurs von -Allahabad würde
+hinten noch angehängt.
+
+Der Gouverneur war mir gleichgültig. Aber anderes
+interessierte mich Dom wieder. Zwei Herren kamen auf den
+Bahnsteig, der eine ziemlich korpulent, der andere hager, beide
+mit Brillen, beide in Flanellanzügen, darüber dünne Amt
+hänge, jeder mit einer Handtasche.
+
+<@pagebreak/>
+Ei? verhandelten mit dem Schaffner unseres Schlaf«
+Wagens, stiegen ein, und dann — eine leise Erschütterung,
+der Salonwagen war angekuppelt, und der Zug glitt zur
+offenen Halle hinaus,
+
+Von Allahabad biegt die Strecke nach Süden ab. Eintönige
+Landschaft … Felder … Felder, Kanäle … Felder …
+Kanäle und Buschwildimis.«
+
+Ich ging schlafen.
+
+Meine Schöne war vergessen. —
+
+Morgens um halb acht, als. der Zug an dem Eisenbahnkreuzungspunkt
+Murwara hielt, und der Speisewagenkellner
+uns gerade das Frühstück gebracht hatte, das in Haralds
+Kabine auf dem Klapptisch her eingenommen werden sollte,
+hörten wir im Gange einen erregten Wortwechsel …
+
+Der farbige Kellner flüsterte:
+
+»Polizei, meine Herren …«
+
+Harald knurrte: »Der Deibel hol’ sie!«
+
+Der Kellner größte mit seiner Wissenschaft:
+
+»In Benares waren ein Herr und eine Dame nebenan
+in sieben und acht eingestiegen, — in Urzapur verließen sie
+den Zug wieder …: Verbrecher!! In Benares haben sie
+den Laden des Diamantenhändlers Schacht Mirza ausgeraubt.
+— Nun ist der eine Herr, der jetzt in sieben schläft,
+wütend, weil er geweckt worden ist.«
+
+Der Wortwechsel flaute ab, und drei europäische Beamte
+in Zivil erschienen jetzt bei uns, baten um unsere Pässe,
+fixierten uns scharf und wurden sofort eitel Liebenswürdigkeit,
+als sie die Namen auf den Pässen gelesen.
+
+Harst, der noch vor elf Stunden kühn behauptet hatte,
+selbst ein Mord würde ihn kaltlassen, war mit einem Male
+außerordentlich zuvorkommend, fragte nach den Einzelheiten
+des Juwelenraubes und deutete dann auf mich: »Mein
+Freund hat das Paar gesehen … Die Dame soll sehr schön
+gewesen sein …«
+
+las war jedenfalls für mich. ein erheblich kalter Wasserstrahl:
+<@pagebreak/>
+Meine stille, kurze Flamme eine Gaunerin — —
+Ahntest …
+
+Der Polizeiinspektor von Murwara bat uns allen Ernstes,
+wir möchten doch unsere Reise unterbrechen und bei der
+Verfolgung der Diebe helfen, also mit dem nächsten Zuge
+mag Urzapur, wo das Paar ausgestiegen, zurückkehren — …
+»Der persischer Diamantenhändler hat Steine für androht umrissenen
+eingebüßt, und er wird sicherlich mit einer Belohnung
+nicht knausern, Herr Harst …«
+
+»… die im ausschlagen würde, da ich reich genug bin …
+— Abgesehen davon: Schraut und ich haben Sehnsucht
+Berliner Luft. Wir haben bereits telegraphisch Plätze auf
+dem Darunter »Kandanoor« belegt … Tut mir leid, Inspektor
+…« —
+
+So fuhren wir denn weiter, frühstückten und schlenderten
+nachher durch den Zug, trafen im Speisewagen einen Ab
+kannten aus Bombay, einen Landsmann, der dort aus
+halbe Jahr etwas Neues anfing, ohne es je auf den grüner
+Zweig zu bringen.
+
+Paar Singer hieß und heißt diese« Unglückswurm. Sein
+
+Vergangenheit war hellster Sonnenglanz: Reiche Steil,
+Studium, Reisen, — — bis die Inflation den ehrerbietig
+Mammon wegfegte.
+Zurzeit besaß Paulchen, im übrigen ein 1ce.ter, lieben:-
+würdiger Moos«, ein Kino in Bombay, stolz Aktentaschen!-;
+genannt, Er war leidlich zufrieden mit den Einnahme.:,
+betonte, daß ihm nur mal eine »wirkliche Kingston« fehlte.
+um auch das »bessere« Publikum in seinen Kunsttempel 311
+losen …
+
+Also: Skat, viele Stunden!
+
+Paulchen war in Allahabad gewesen, um dort auf ei.:ct
+Auktion Filme zu kaufen — abgespielte Dinger »Reg0 …-
+Birne«, zerkratzt …«
+
+»… Für meine Hafenkundschaft allemal gut genug …«
+sagte er achselzuckend,
+
+<@pagebreak/>
+Am »Nebentisch saßen die Leider älteren bebrillten Herren,
+die in Urzapur zugestiegen waren, — steiflederne Engländer,
+verborgen hinter Zeitungen, andauernd Whisky und Tod.
+schlüpfend, .—
+
+Aber auch Palastes ging vorüber, und als wir in
+Bombay anlangten, lud Paulchen uns zu sich ein. Nie:
+Dampfer stach erst am folgenden Abend in See, und Paulchens
+Einladung ausschlagen war unmöglich.
+
+Sein Kunsttempel lag unweit vom Vikrtoriadsck in der
+schmalen Hoftür-Street an der Ecke des Stern-Platzes.
+Von außen wirkte die Sache sehr ungalant, und auch die
+Inneneinrichtung hatte Paulchen mit seinen letzten Spricht:
+durchaus ansprechend herausgeputzt. Ursprünglib war die
+Atlanta ein Variete-Theater gewesen, dem die Sittenpolize:
+dann jedoch die Gurgel zugedrückt hatte, weil das Pension:
+nicht zweideutig, sondern eindeutig war.
+
+Hinter der ehemaligen Bühne gab es noch einen Anbo’!
+mit vier Zimmern, Küche, Bad, Balkon, und dort Lohn:c
+jetzt Paulchen, betreut von einem chinesischen Koch nicht«
+drei Dienern, die abends Platzanweiser im Kino spielte
+während Paulchen an der Flusse saß.
+
+»Trennt ist die Einleitung des »Films der Wunder« 31:
+Ende.
+
+<@pagebreak/>
+
+<h2>2. Kapitel.</h2>
+<h3>Der Mann mit der Ei: alter.</h3>
+
+»Wenn man den K! turfortschritt eines Landes nach der
+Anzahl der Kinotheater bewerten wollte, so müßt? Jan
+Bombay als Hauptort des westlichen Teiles Indiens den
+Preis zuerkennen,« sagte Paulchen beim Frühstü. »Die
+Konkurrenz ist ungeheuer. In Black Town! der Eingeborenenstadt,
+gibt es allein zehn Kinos, Hier im Häfen- und Europäerviertel
+fünf und auf den Malabar Hills! dem Villenvorort,
+zwei. Wie ich schon im Zuge Erwähnte,« lieber Harst: mir
+fehl! ein »Folgen«, der alle Schichten der Bevölkerung
+gleiSckmäßig anzieht. Bringe ich einen Detektivfilm, so habe
+ich? nur Matrosonpuv … Siam, bringe ich was Besseres, etwa
+wie letztens Metropolis, ist die Bude leer. Es ist ein Elend.«
+
+Wir saßen auf dem uberdichten Ballon von Binulchenes
+Behausung, es regnete natürlich, denn c- war Januar, und
+wir genossen die berückende Rücksicht auf einen winzigen
+Hof, in dem zwei Palmen nach Licht und Lust! Pziqzuen, und
+auf die kahlen Fronten riesiger Speicher,
+
+Harald war maulfaul und offenbar mit seinen Gedanken
+weiß So?! wo. Auf seinen Knien lag der »Wo:Platz Recorder«,
+ein Sensationsblatt, das stets mit neuesten smarten Ereignissen
+geholt war: Verbrechen, Unfällen, Scissäverlusten, Gesellschaftsklatsch.
+— Politik fehlte ganz.
+
+In diesem verfeinerten Revolverblatt hatte natürlich auch
+<@pagebreak/>
+Ein langer Artikel über die Beraubung des Persers in Bez
+Benares gestanden. Ich möchte die Hauptpunkte dieses geschickt
+»aufgewichsten Artikels hier wiederholen, da sie so recht
+»zeigen, wie sein das Gannerpärhen in diesem Falle ge
+»arbeitet hatte.
+
+— … Schnur Mirza besaß im Europäerviertel in Benares
+ein eigenes, modernes Haus, in dem sich unten zwei Läden
+mit je Zwei Schaufenstern befanden: der seine, Juwelen und
+Goldwaren, und eine Drogerie. An dem betreffenden Tage
+(am Morgen unseres Abreisetages also) war, von Kalkutta
+kommend, im Statue-»Hotel gegenüber Gehaust Laden ein
+Ehepaar abgestiegen, Major Edward Pooc aus Singapore
+»angeblich, — nur für einen Tag. Abende wollten die sehr
+feudalen Herrschaften weiter nach Bombay. Mittags betraten
+sie Gehaust Laden und kauften für 5000 Rupien altertümslichen
+Stimmt, bezahlten bar und erklärten, sie würden nachmittags
+wiederkommen. Sie kamen auch, kurz vor Geschäfts
+Schluß, wenige Minuten vor acht Uhr. Verlauf hatte seine
+Verkäuferin und den Ladendiener bereits weggeschickt und
+auch die eisernen Rolladen der Fenster schon herabgelassen.
+Das Paar/ließ sich die Brillanten vorlegen. Als der Perser
+den modernen Tresor, um die Steine herauszunehmen, geöffnet
+hatte, rate ihn der Major bei der Kehle. Gleichzeitig
+ließ die schöne Frau Pooc die Eisenjalousie der Tür
+Mr deren Lärm den Hilferuf Üchamis übertönte.
+Die beiden fesselten und? knebelten den Perser, suchten von
+den Edelsteinen das Serie heraus und verschwanden durch
+Privoatkontor, betraten zum Schein- noch den Laden des
+Er. quer, kennen Mundwasser, Parfüm, Seife, Handbürste
+und vier VFadogummischwägm me und begaben sich ins Hotel,
+stießen ihre Koffer zum Bazoyuzyof schaffen und bestiegen —
+wie im beobachte! — kurz vor der Abfahrt den Zug, den
+sie dann in Urzapur wieder verließen.
+
+Ein Zufall war’s, daß der Ladendiener des Persers um
+zehn Uhr an dem Geschäft vorüberkam. Ihm fiel auf, daß
+<@pagebreak/>
+die elektrischzden Lampen draußen vor den Schaufenstern noch
+brannten. Da er für die Flurtür einen Schlüssel hatte, öffnete
+er und fand seinen Herrn im Privatkontor unter dem
+Diwan halb erstickt auf.
+
+Die Polizei stellte sehr bald fest, daß als Täter nur
+Major Pooc nebst Gattin in Betracht kämen. Eine Depesche
+nachts den Stationen, die der Bombayexpreß passierte, kam
+für Urzapur um Ausnutzen zu spät. Die Gauner hatten
+den Zug verlassen, und die Polizei in Urzapur ermittelte,
+daß das Pärchen seine Koffer nach dem Hotel Blonder
+geschickt, das Hotel selbst aber nicht betreten Hatte, sondern
+spurlos verduftet war. Die Gepäckträger, denen sie ihre
+Sachen übergeben hatten, wußten nur, daß die beiden noch
+im Bahnhofsgebäude die Toilettenräume aufgesucht hatten.
+Jedenfalls: das Paar war wie vom Erdboden weggewischt.
+
+Inzwischen Hatte die Detektivpolizei in Benares d211
+tadellos vorbereiteten Coup ziemlich restlos ausgefragt. Male«
+Pooc und Gattin waren vor einem Monat bereits einmal
+in Benares gewesen und hatten während dieser fünf Tage
+die Geschäfts« und LebenSäIgewohnheicn des Persers Grund. ist
+studiert. Sie wußten also, daß er kurz vor Ladenschluß immer
+allein war, Hierauf bauten sie ihren Plan auf, machten
+Schnur durch den Mittagsbesuch und den Ankauf für 5000
+Rupien sicher und — — alles andere war eine Abgewickelt.
+
+Wer das Paar in Wirklichkeit sein Matrose, war zurück!t
+nicht zu ergründen, bis man dem Perser und Hotel … vorstellen
+die Fahndunggblä:ter der letzten zwei Jahre vor —
+legte. Da erkannten der Perser und alle anderen in erneut
+Irrsinn!: nahen Hohstapierpaarc, das zumeist als Vicomte
+de Passerie nebst Gattin reiste und das eifrigst gesucht wurde,
+den Herrn Major und die schöne Frau unzweifelhaft wieder.
+
+Nun jagte ganz Indien auf das edle, unedle Blut, denn
+Geharrt hatte für die Wiederbeschaffung seiner Steine das
+nette Sümmchen von 206&nbsp;000 Rupien ar1rt’özgeselzt. Alle Zeitungen
+<@pagebreak/>
+brachten die Bilder des Paares, an den Anschlagsäulen
+letzten Riesenplakate, — — aber Herr Major und Frau Gemahlin
+blieben unsichtbar. —
+
+So weit der Recorder.
+
+Als Harald uns vorhin diesen Artikel vorgelesen hatte,
+rief Paulchen Singer seufzend: »Ah, wer die Vö ein greisen
+könnte!! 200&nbsp;000 Rupien!! Kinder, dann könnte ich Rentier
+spielen!«
+
+Jetzt erfaßt er mit mir über »Das Kino als Kulturfaktor«.
+Harst rauchte und döste vor sich hin.
+
+Auf der einen Palme war ein sein angestridyenes
+Häuschen angebraM. Dort wohnten Paulchens »Kinder«,
+wie er, der Tierfreund, seine zahmen Affen nannte. Damit sie
+nun bequem zum Balkon gelangen und sich ihren Anteil
+an den Mahlzeiten holen könnten, hatte er ein Tau von der
+Krone bis zum Balkongeländer gespannt.
+
+Unsere Anwesenheit hakte die giuurugrunen langschwänzigen
+Gesellen kleiner ferngehalten. Jetzt riskierte der erste
+den Abstieg, setzte sich auf das Geländer und schaute uns aus
+großen, klugen, Melancholie;Brausen prüfend zu.
+
+Ich reihte ihm einen Zwieback.
+
+Er beroch ihn und … gab ihn Aufgabe.
+
+»Er oft an Honigaufstrich gewöhnt,« sagte Paulchen
+lachend.
+
+Ich strich also Honig auf den Zwieback, und nun wurde
+die Gabe angenommen.
+
+Dies machte der übrigen Gesellschaft Mut. Sie hatten es
+jetzt mit einem Male alle sehr eilig, ebenfalls den Balkon
+zu erreichen, und ich hatte meine helle Freude daran, wie
+selbst zwei Affenmamas, mit ihren Säuglingen um den Hals
+sehr zutraulich wurden, so zutraulich, das Paar Singer
+erstaunt meinte: »Sie müssen eine besonders!sympathische
+Witterung an sich haben, Darauf, denn Affenmutter sind
+außerordentlich scheu.«
+
+Harald hatte blinzelnd die lustige Gesellschaft betrachtet.
+
+<@pagebreak/>
+Gräßlich erwachte er scheinbar. »Schraut hat eine besondere
+Witterung an sich, nur sonst hat er keine seine
+Witterung … Sonst würde er ebenso wie ich 200000 Rux’en
+unschwer verdienen können. Da wir beide Geld jedoch nicht
+so nötig haben wie Sie, lieber Singer, sollen Sie es sich
+erarbeiten.«
+
+Singer, nicht minder ich, wurden aus dieser Bemerkung
+nicht recht klug. »Denken Sie etwa an des Persers Juwelen?«
+fragte Singer behutsam, aber doch mit strahlendem Gesicht.
+
+Eine Antwort erhielt er nicht. In der offenen Balkontür
+war der eine Diener erschienen.
+
+»Sahib, ein Herr Marketter möchte Sahib sprechen …
+geschäftlich und sehr dringend,« meldete der Inder in leidlichem
+Englisch. »Er behauptet, er habe eine Filmidee, die
+einzig in ihrer Art sei.«
+
+Dabei reichte er Singer eine Besuchskarte, auf der gestraft
+stand:
+
+John I. Marketter.
+Neuyork.
+Voll-Street 158.
+
+Auf die Rückseite hatte Marketter mit Tintenstift geschrieben:
+
+»Fein Schwindel, sondern ein glänzender Gedanke, der
+sich nur hier in Bombay verwirklichen läßt.«
+
+Fauligen Singer hatte uns die Karte gezeigt. Er war
+mißtrauisch, aber vor« auch begierig darauf, was der Amerikaner
+ihm vorschlagen würde.
+
+»Begleiten Sie mich in mein Büro,« bat er uns, —
+
+So lernten wir Mr. John Marketter kennen. Zu meinem
+Erstaunen war’s derselbe dicke große, bärtige, ältere Herr,
+der in Urzapur zusammen mit einem anderen, den ich
+ebenfalls für einen Engländer gehalten, in den Expreß
+eingestiegen und der dann morgens so ungemütlich geworden
+war, weil die Polizeibeamten ihn im Glase gestört hatten…
+
+Fett und faul saß er in einem unter seinem Gewicht
+<@pagebreak/>
+unheilvoll knarrenden Korbsessel. Er hatte die eisige Ruhe
+des gewiegten, ausgefochten Dankes an sich. Als Paulchen
+mit Betonung unsere Namen nannte, fragte Marketter gleichgültig:
+»auf von der Branche, die Herren?«
+
+»Nein,« meinte Freund Singer empor!. »Durchaus nicht.
+Herr Harst’ist so etwas wie Liebhaberkriminalist, und …«
+
+Da machte der Amerikaner eine ungeheuer geringschätzige
+Handbewegung …
+
+»Also so was wie Detektive … — — Ich habe nicht
+viel Zeit … Wenn Sie für meine Idee nicht zu haben sind,
+Mr. Singer, muß ich mich an einen »oberen Kinotheaterbesitzer
+wenden«…«
+
+»Bitte, — worum handelt sich ’82?«
+
+»Hm Vertrauen auf Ihre Verschwiegenheit, meine Herren:
+Um einen Film mit dramatischen Einlagen … Ihr Theater
+hat eine Bühne, Mr. Singer. Dicke Hälfte des Films soll
+»rollendes Band« sein, die andere Hälfte eben echtes Theater
+mit Schauspielern …«
+
+Singer machte ein sehr langes Gesicht …
+
+»Dazu würde Geld gehören, viel Geld, Mr. Marketter
+…«
+
+»Das ließe sich auftreiben …«
+
+»Und wer trüge das Risiko 2?«
+
+»Ich allein.«
+
+»Dann erklären Sie sechs genauer …«
+
+Marketter, der eine Importe mit Inbrunst im Mundwinkel
+behielt, wie überhaupt sein ganzes Benehmen viel
+zu wünschen übrig ließ, holte aus der Tasche ein umfangreiHes
+Manuskript hervor und sagte: »Das ist die geistige
+Leistung meines Freundes Hardy … Einen ganzen Monat
+haben wir uns in die Einsamkeit verkrochen gehabt. Hardy
+braucht Sammlung. Dann hat er den Film der Wunder
+fertig gehabt. Nochmals möchte ich die vier Anderen nicht
+Burgunder, denn wir saßen da oben in einem elenden
+Lausenest am — Ganges, Urzapur beißt es, und haben nur
+<@pagebreak/>
+Gedanken ausgeschwitzt, blendende Gedanken. — Daß Sie,
+Mr. Singer, diesen Quatsch lesen sollen, ist nicht zu verlangen.
+Ich werde Ihnen den Hauptinhalt kurz erzählen. — Also: Die
+Geschichte Wagt hier in Bombay an. Die Türme des
+Schweigens auf der Spitze der Malabar- Halbinsel kennt
+jedes Baby, Dort wird also ein junger reicher Parse, der
+anscheinend tot Alt, noch den Vorschnellten der Feueranbeter
+bestattet, in den Turm geworfen. Das heißt, er soll geworfen
+werden … Tau erscheint »eine Engländerin, bildschön,
+Ärztin von Beruf, Touristin im Nebenberuf, erkennt,
+das der Park lebt und nimmt ihn mit auf ihre Jacht,
+Denn auch Je iK enorm Reim und hat sich auf den ersten
+Blick in den hübschen, jungen Kerl verliebt …
+
+— Finger machte ein 4 trostloses Gesicht, — Gestalten Sie
+mal, Mr. Marketter, ich Ritt ja alles Bestritten … Das ist
+ans einem fertigen Nil  ’ von der Zensur verboten wurde,
+und den ich auf der Saft n in Sturzbach kaufte. weil ich
+ihn doch noch frei zu Stiegen hoffe.«
+
+Marketter Schlug nun mit der Faust aus Knie. »Verdammt,
+ist das wahr?! Dann — dann ha! mich dieser
+Lump von Hardy glatt belogen …!! Dann hat er nur
+ein bereits vorhandenes Filmmanuskript abgeschrieben!! Und
+ich Ochse habe Ihn dafür bezahlt!! Ich … im …«
+
+Er war braune! vor Wirt geworden …
+
+»Oh das werde ich ihm versalzen, das wird gerochen!!
+Mich, John Marketter, so hineinzulegen —
+unerhört, Tausend Doktor hab ich dem Kerl bezahlt’’ Denken
+
+Sie: tausend Doktor und gleich Station … Omen Monat
+hab’ ich ihn durchgefüttert. hielt hat der Sohn! ne
+offen wie Wasser, Zigarren in! er gejagt?! — — jeden
+Zog genau vierzehn Stück …’ M«. Singer, nur weh
+
+Brahmane Frage: Wie endet Ihr gekaufter Film?«
+»Die Engländerin wird von den Verwandten des jungen
+Parsen, die Sohn Vermögen an sich bringen wollten, in ein
+<@pagebreak/>
+hiesige Bordell verschleppt, wo der Parse sie dann wiederfindet,
+befreit und sie; schließlich als … Engländer entpuppt,
+der von einem Parsen als Säugling in der Wildnis
+aufgefunden worden war. Das Paar heiratet, und die lieben
+Verwandten kommen bei einem Kinobrand imposant um,«
+
+Marketter sprang auf …
+
+»Unerhört — — gemein — —, — der Lump hat die
+Filmidee wirklich gestohlen!!’
+
+Er packte den Korbsessel … Er raste vor Wut …
+Er hätte den Sessel zu Brennholz zertrümmert, wenn Harald
+ihm nicht in den Arm gefallen wäre …
+
+»Stopp, Mr. Marketter … Wo haben Sie denn diesen
+Hardy kennen gelernt und was sind Sie von. Beruf, — wir
+kommt’s, daß Sie ausgerechnet eine so anS8sgefallene Idee
+mit Geld unterstützt! haben?!«
+
+<@pagebreak/>
+
+<h2>3. Kapitel.</h2>
+<h3>Der Kreditbrief.</h3>
+
+Der dicke Marketter nahm wieder Platz. »Entschuldigen
+»Sie, meine Herren,« keuchte er … »Aber, verdammt noch
+mal — ich bin ein Mordsesel gewesen! Tatsache! Jetzt
+sind mir die Augen aufgegangen — grünlich; sogar. —
+Also die Sache ist die … Ich hatte mein Geld in Kinos
+gemacht. Als ich zwei Millionen beisammen hatte, setzte
+im mich zur Ruhe. Das war vor einem Jahr. Dann wollt«
+ich mir die Welt ansehe: … Verständlich, nicht wahr? Ich
+reiste nach London, Paris, Berlin. Nizza, Monte Carlo.
+Dort gewann ich hundertfünfzigtausend Francs. In Rom
+verlor ich sie wieder, weil ich eine sehr vornehme Dame
+kennen lernte, die ein leider nachher als Gaunerin herausstellte,
+angeblich eine Bicomtesse von Passerie — oder je
+ähnlich … — Na, das ist ja gleichgültig. Von Rom fuhr
+ich nach Ägypten. Aber die Pyramiden konnten mir nicht
+imponieren. Unsere Wolkenkratzer sind höher und praktischer.
+Nun wollte ich Indien sehen. In Kalkutta im Hotel Verwalter
+lernte ich Doktor Schmerz Gewalt Hardy kennen. Der Kerl
+nannte sie Schriftsteller, pfiff auf dem letzten Portemonnoieloch
+und war Miete und Essen seit acht Tagen schuldig,
+pumpte mich an und … wickelte mich dann mit Steinen
+»Film der Wunder« so glänzend ein, daß ich mit ihm zusammen:
+nach Urzapur ging. wo eine Bekannte von ihm
+<@pagebreak/>
+eine Art Landhaus am Flusse besaß. Dort hat der Kerl
+angeblich; das Filmmanuskript geschrieben, dort sollt er Whisky
+wie ein Loch und
+
+Bisher hatten wir drei Zuhörer geschwiegen. Jetzt konnte
+ich mimt länger an mich halten …
+
+»Mr. Marketter,« rief ich, »wie sah denn diese Bekannte
+Hardys aus?«
+
+Marketter musterte mich unwillig ob der Unterbrechung.
+»Es war eine seine, alte Dame … Tatsache! Gegen die
+ist nichts einzuwendert …
+
+Aber im ging dem »Anwalt gefaßten Verdacht Hartnäckig
+weiter nach. »Noh4 eine Frage, Mr. Marketter … Von
+Ansehen kannte ich Sie schon. Sie kamen mit dem Bombay
+Expreß hierher. Sie stiegen mit Hardy in Urzapur in den
+Zug … Wir benutzen denselben Zug. — War Hardy
+am Tage Ihrer Abreise in Urzapur, oder traf er erst mit
+dem Bombay-Expreß dort ein, damit Sie beide dann gemein
+langsam weiterfahren könnten?«
+Marketter nickte gleichgültig. »Ja, Hardy war mit Frau
+Madson — so heißt die alte Dame — am Tage vorher nach
+Benares hinübergeruischt … Er wollte dort einen Freund
+besuchen, einen Kaufmann, sagte er … Und — er kam auch
+wirklich erst mit dem Nachtzuge an. Wir hatten uns im
+Wartesaal verabredet. Frau Madson war in Benares geblieben
+…«
+
+Nun ging auch Freund Paulchen ein Licht auf.
+
+»Hardy ist der Major Pooc!!« brüllte er. »Und die
+Madson ist die schöne Frau Majorin!! Es sind die Juwelenräuber
+aus Benares, die dort den Perser bestohlen haben
+und die sich auf Passerie nannten!«
+
+Marketter sank vor Ihrer der Unterkiefer herab. Er
+machte ein unglaublich törichtes Gesicht. Sein Glimmstengel
+fiel ihm in. den Schoß. Er achtete nicht darauf.
+
+Dann knurrte er dumpf … »Passerie … Passerie …?’
+Sie meinen, die … die … Matson ist dieselbe Kanaille, Sinne
+<@pagebreak/>
+den Monacogewinn wieder abschwindelte?!l Das …
+das … ist der unmöglich …! Herr Harst, was sagen Sie
+dazu 7!«
+
+Harald erwiderte kühl: »Natürlich ist sie’s! Schraut hat
+ganz recht.«
+
+Marketter. schüttelte blöde den Kopf. Er wollte durchaus
+nicht einsehen, daß Hardy und die Matson ihn abermals
+geleimt — hatten. Sein Hirn arbeitete etwas langsam
+— sehr langsam sogar. Aber mit der Zeit sah er doch
+ein, daß das edle Paar das Landhaus nur gemietet hatte,
+um von dort aus den Raubzug nach Benares unternehmen
+und dann alle Spuren hinter sich verwischen zu können.
+
+Er sprang auf. »Kommen Sie mit, meine Herren …!
+Hardy muß sofort festgenommen werden … Ich hab’s an
+den Anschlagsäulen gelesen: 200&nbsp;090 RupienBelozmung!! Dir
+muß ich mir verdienen, denn nur ich habe Herausgefunden,
+daß dieser Hardy der Juwelenräuber ist?!«
+
+Auch Paulchen!Drang auf — aber vor Empörung. »Was
+— wie?! Sie haben … Sie haben was Herausgefunden?!
+Sie?! Da hört sich doch alles auf!! Nichts haben Sie, nicht
+mal glauben wollen, daß die Madson Ihre VBicomtesse ist,
+Sie … Je … Greenhorn, Sie?«
+
+der auf John Marketter machte das absolut keinen
+Eindruck — absolut nicht!
+
+Der Rand plötzlich mit hängenden Armen da … mit
+herabhängendem Unterkiefer, und … glotzte Harald hilfeflehend
+an, brachte schließlich stammelnd Über die Lippen:
+
+»Mein … Kreditbrief … mein Kredit … Brief … für
+die India Bank …«
+
+Seine Hand grabbelte im Westenfutter umher …
+
+»Weg … weg …!! Der … Satan, der.,!«
+
+Dann erwachte er,
+
+Blaurot wurde er,
+
+Kreischte: »Schnell zur Band — — — Kastell …!! Bitte,
+Herr Harst … mitkommen — — zur Band …/«  /H
+
+<@pagebreak/>
+Ein Auto jagte mit uns vieren davon. Weit war’s
+nicht … Und doch zu weit … Alles wir am Halten der
+Bank nachfragten: Hardy hatte als John Marketter sich
+fünfzigtausend Dollar auszahlen lassen!!
+
+Der eilte Marketter sank vernichtet auf einen Stuhl
+
+Über seine Lippen kamen Worte, wie nur Ei? entsetzlichste
+Bestürzung sie so ungereimt hervorbringt …
+
+»Film der Wunder … Wunderfilm — — ich Esel
+— — und der Schuft …!!, Sie wußten, daß ich nach
+Kalkutta wollte … Er hat mir aufgelauert, sie hat das
+Landhaus gemietet … ich Esel … ich wunderbarer Esel!!«
+
+Hm Grunde hatte er ja recht: er hatte riß unglaublich
+übertölpeln lassen!! —
+
+Wir fuhren zur Polizei …
+
+Alle Beamten wurden mobil gemacht, Depeschen fragen
+nach allen Lichtungen … Für die Anschlagsäulen wurden
+neue Bekanntmachun gen gedruckt, —
+
+Marketter und Hardy waren im Hotel d’Angleterre abgestiegen.
+Hardy war um halb zwölf mit seinem Gepäck zum
+Hafen gefahren. Über am Hafen ermittelte die Polizei, daß er
+im Auto mag Block Town zu verschwunden. Das Auto
+wurde gefunden. Der Chauffeur erklärte, der Sahib Laube
+in einer der Basarstraßen seine Sachen einem Gepäckträger
+übergeben. — Von da verlor sich jede Spur, jede … — —
+
+Abends neun Uhr.
+
+Der arme Marketter, mochte er auch noch so« wenig
+syumpa’bisa sein, war von dem gutmütigen Paulchen tun
+Typhus zu sich? als Logiergast eingeladen worden, und so
+saßen wir Den nun 111 den Nbendbrokftisg herum und
+besprachen immer wieder die trüben Ereignisse des Tages,
+
+— nur Harald war sehr, sehr jschweigjam und entschuldigte
+sich mit K&opfschmnerzen, drang dann auch darauf, das! wir
+frühzeitig zu Bett gingen …
+
+Er und iz; Seiten ein Zimmer im ersten Stock des
+<@pagebreak/>
+Seitenanbaus, Gerade unter uns war Marketter untergebracht
+worden.
+
+Als wir beide nun allein, stellte Harald sich ans Fenster
+und blickte zu mächtigen Speichern hinüber, an deren
+Giebeln die Lichtreklamen aufflammten und erloschen — aufs
+flammten und erloschen.
+
+Ich trat hinter ihn …
+
+»Sei mal ehrlich, Harald … Die Kopfschmerzen sind
+doch Schwindel …« …
+
+»Und ob, mein Alter …«
+
+»Weshalb?«
+
+»Weil ich vieles zu überlegen und zu belächeln hatte.«
+
+»Was87«
+
+»Zum Beispiel dich …«
+
+»Mich?!«
+
+»Ja, du blähtest bis heute wie ein Guter. Du hattest
+Größenwahn«…«
+
+Ich hätte eine Ohrfeige leichter verwunden als diese
+Ironie.
+
+»Größenwahn … so … so,« sagte ich verletzt. »Bist
+du … neidisch, weil im die Fährte der Gauner fand?«
+Auch das war Ironie.
+
+Er lachte gutmütig. »Mein lieber Max Schraut, du
+
+solltest dir eins angewöhnen, — das bete ich dir seit
+Jahren vor: Beachte Kleinigkeiten!«
+
+»Welche?!«
+
+»Hände.«
+
+»Hände?!«
+
+»X … —«- Aber jetzt wollen wir schlafen gehen …
+
+Ich habe keine Luft, mir drüben das Ziel noch länger anzuschauen.«
+
+»Ziel »2«
+
+»Ja — dort in dem einen Speicher unten liegen die
+Räume der Zweigniederlassung der anglo-indischen Frauen«-
+ein- Ausfuhr-Gesellschaft.«
+
+<@pagebreak/>
+Ich starrte hinüber … Ich hatte davon keine Ahnung
+gehabt.
+
+»In welchem?«
+
+»Der mit der roten Schlaue für die RuvicakZigaretten
+…
+
+»Und weshalb nennst du ihn »Ziel«?«
+
+»Weil wir morgen, bevor der Dampfer uns der Heimat
+zuträgt, dorthin geben werden.«
+
+»Glaubst du etwa, daß Hardy die Juwelen dort verkaufen
+»will?«
+
+»Nein, ein solcher Idiot bin weder ich noch er …«
+
+Das war mir denn doch zu viel. Ich drehte mich um
+und begann, mich schweigend zu entkleiden,
+
+Harald stand tote immer am Fenster.
+
+— Es war jetzt halb elf …
+
+In Paulchens Kino rollte noch ein Film. Wir hörten
+Hie Musik leise … ganz leise …
+
+Und Burschen war noch hinabgegangen, um in seinem
+Kunsttempel nach dem Rechten zu sehen. —
+
+Ich schlüpfte unter die Decke und schloß die Augen.
+
+Ich war wütend.
+
+Zuweilen geht Haralds schlechte, bissige Laune denn doch
+über das zulässige Maß hinaus. Ich konnte nicht einschlafen.
+Ich überlegte mir unser Frage« und Antwortspiel von vorhin.
+WedsShalb hatte Harst mir derart grob unter die Nase gerieben,
+im … hätte mich aufgeblasen wie ein Guter?!
+
+Zugegeben: ich hatte mich gefreut, Knorrig einmal ihm
+ein wenig den Rang abgelaufen zu haben! Ich hatte berauschenden,
+daß Hardy der »Bicomte« sei, — jedenfalls hatte
+ich es geäußert.
+
+Ob … ob Sobald etwa daran zweifelte? Ob er anderer
+Ansicht war?!
+
+Ich grübelte … grübelte …
+
+Nein, die Sachlage war klar, daran ließ sich nicht rütteln.
+
+<@pagebreak/>
+Sie »Matson« hatte sich) als alte Dame herausgeputzt, und
+Baron und sie hatten den Perser beraubt.
+
+Es mußte so sein! —
+
+Und hier nun, meine lieben Leser und Freunde, will
+ich wieder einmal, da ich ja stets zu eigenem Denken anzuregen
+suchte, Ihnen eine Frage vorlegen: Was halten Sie von alldem?
+Sie kennen ja alle Einzelheiten,
+
+Sollte einer von Ihnen die Wahrheit, die tatsächliche
+Verhältnisse, auf Grund lobenswerter eigener Schlußfolgerungen
+schon jetzt (ohne hinten nachzulesen!!) ahnen, so würde
+Kranich dies freuen.
+
+ahnte die Wahrheit nicht. Ich erfuhr sie erst, als
+wir in Paulchens Kino saßen … —
+
+Harst hakte von »Händen« gesprochen, und ich möchte
+darauf hinweisen: John Marketter hatte sehr schmale, schlanke,
+tadellos gepflegte Hände, — beinahe Frauenhände, fast zu
+Stein für seinen setzten Körper.
+<@pagebreak/>
+I
+
+» — dd. Kapitel,
+
+—»Goa ne
+
+Das Affenhaus
+
+Der Rum der Wunder …
+
+Bisher ein zahmes Erlebnis, bisher nichts von Nerven
+Kiel, nur ein sanftes Plätschern von Ereignissen …
+
+Es sollte. anders werden. —
+
+Als wir morgens aufgefunden, bat Harald mich um Entschuldigung,
+— ein Händedruck, und die Sache war vergessen.
+
+»Sprich; nicht über »das Ziel«, sagte er, bevor wir zum
+Frühstück auf den Balkon gingen.
+
+John Marketter und Paulchen saßen schon bei der Arbeit
+und die zahmen Affen fraßen auch schon.
+
+Der arme John flehte uns an, unsere Abreise doch noch)
+aufzuschieben, und Paulchen bat ebenso rührend.
+
+»Geht nicht,« sagte Harst. »Wir sind nun bereits ah!
+Woher hier in Indien, und am 3. Februar hat meine Mutter
+Geburtstag, und da. bat die dich e Mathilde, unsere Fön,
+regelikäßig Baumkuchen, — da muß ich dabei sein. Nein,
+Mr. Marketter, so gern iz Ihnen helfen würde: im seine
+Ich nach« Berlin! Für uns Berliner gibt es nun einmal nur
+ein Berlin. Wenn ich zum Beispiel von meiner Wohnung
+den Hohenzollerndamm emporpilgere und dann in den Grunewald
+komme, wenn im das Stullenpapier herumliegen sehr
+und der Kiefernduft mich umweht: das ist Heimat, — so lächerlich
+<@pagebreak/>
+es klingen mag. Jedes Stück dieses gräßlichen Stullenpapicr8s
+erzählt mir eine Geschichte …’«
+
+Paulchen Singer wurden die Augen feucht. Er kriegte
+Heimweh,
+
+Harst bog auf ein anderes Thema ab …
+
+Und nachher machten wir beide einen Spaziergang nach
+dem bewußten Speicher — Parterreraume!
+
+Harald ging jedoch nicht direkt dorthin, sondern wandte
+alle Kniffe an, — als ob er Verfolger, Spione hinter uns
+vermutete.
+
+Dann saßen wir dem Direktor der Filiale der Export Gesellschaft
+gegenüber, dem wir uns unter anderem Namen
+hatten melden lassen. Harald zeigte dem Herrn unsere Ausweise.
+— »Könnten wir einmal Ihre Tresoranlagen besichtigen
+?« —
+
+»Über gewiß, gern, Herr Harst.«
+
+Die Panzergewölbe waren in die Felsen eingebettet, zu?!
+denen halb Tamburin) sich erhebt. Sie waren neu, und der
+Direktor betonte, daß sie eigentlich überflüssig seien … »Wir
+soll jemand durch diese Granitwände hindurch?! Eine Langer«
+decke hätte genügt.«
+
+Als wir wieder die Hafenstraße betraten, nahm ich meinen
+Harst unter den Arm und sagte:
+
+»Du, nun sei mal nett zu mir. Weshalb diese Besichtigung?«
+
+Seine Antwort!lautete, — und sie war mir eine
+Überraschung wie nie:
+
+»Weil dort eingebrochen weiden wird«
+
+Ich fand still … »Ein Wir«!
+
+»Nr« Tatsache. Und damit da es gleich weit: Wir
+verlassen den Dampfer auf offener See wieder. Komm«,
+ich muß einen Kutter bestellen, der uns aufnimmt und zurück bringt.
+Ich? werde Marketter doch heljen’«
+
+Weiter war aus ihm Kiste herauszuholen.
+
+Abends rührender Abschied. Paulchen und John Allesfresser
+<@pagebreak/>
+uns bis auf das Schiff. Dann — — hinaus ins Meer,
+vorüber an den kleinen befestigten Felsinseln, die dem Hafen
+von Bombay einige Ähnlichkeit mit Fensters geben.
+
+Dunkelheit kam …
+
+Unser Kutter mit verschwiegenen Leuten war zur Stelle.
+
+Wir verließen unbemerkt, unterstützt durchs den Kapitän, den
+Ozeanriesen, der seine Fahrt nur verlangsamt hatte. Um
+Mittelpunkt waren wir auf Malabar Hills im Pensionat
+Dieser — nicht zum ersten Male — — als rotbärtige,
+biedere holländische Kaufleute.
+— Die Jacht und der kommende Tag verstrichen ohne jedes
+bemerkenswerte Ereignis. Wir gingen in den Anlagen spazieren,
+wir saßen am Westrande der bergigen Halbinsel und
+Flausen dem Toben der nimmermüden Brandung zu, — wir
+aßen und tranken … wir — — waren abends neun Uhr
+jedoch … in Paulchens Kino.
+
+Als Zuschauer — unerkannt …
+
+Eis gab den abgespielten Film »Die Insel der versenkten
+Schiffe«.
+
+Wedshalb wir diesen Kunstgenuß hinabwürgten, war mir
+gänzlich schleierhaft.
+
+Aber nach dem ersten Akt schlichen wir, … mit der Örtlicmkeit
+wohlvertraut, in den kleinen Hof hinaus, wo die
+beiden Palmen und die zahmen Affen und Marketters erleuchtetes
+Parterrefenster uns begrüßten.
+
+Die Vorhänge des Fenster waren nicht ganz fest geschlossen.
+Man konnte durch eine Spalte in das Zimmer
+hineinblien. Auf dem Nachttischen brannte eine elektrische
+Lampe mit Seidenschirm. Marketter war offenbar beim Lesen
+im Bett eingesetzten. Vor dem Bett lag ein offenes Buch,
+und der eine Arm Marketters (er trug einen hellen Schlafanzug)
+hing schlaff herab. Von seinem Gesicht war wenig
+zu sehen.
+
+Harald und ich standen hier draußen im Dunkeln. Der
+Lichtschein, der. Eure? das Fenster hinausfiel, traf uns nicht.
+
+<@pagebreak/>
+Die Mauer bildete hier einen Vorsprung, und vor diesem
+Mauerwinkel hatte Paulchen zur Verschönerung des tristen
+Hofes einen mächtigen Blumenkasten mit indischem großsblättrigen
+Efeu aufgestellt, der sich bereits ein Stück an
+der Mauer empor gerankt hatte.
+
+Die Nacht war sehr finster. Selbst die Lichtreklamen
+drüben erschienen heute matt und glanzlos, Nebelbildung
+ist im Indischen Ozean und an den Küsten äußerst selten.
+Heute zogen trübe, feuchte Schleier über die große Inselstadt
+hin. Es war »diesig’, wie der Seemann sagt, und
+sogar die Palmen waren kaum zu erkennen. Desto lauter
+schnatterten und lärmten droben in den Kronen die Affen.
+Und das war merkwürdig, denn um diese Stunde hätte das
+lustige irre Wollten längst in seinem Hause oben zwischen
+den Zweigen schlafen müssen,
+
+Harald horchte jetzt denn auch sehr gespannt nach oben.
+
+Plötzlich zog er mich blitzschnell hinter den Efeu …
+
+Raunte mir zu:
+
+»Besteht«
+
+Und nun begab sich so Seltsames, daß ich dafür keinerlei
+Erklärung fand.
+
+Erstens:
+
+Hm Wipfel der Palme wurden die Waffen noch lebhafter.
+Wer die Töne Schrei Mißfallens, ihrer Wut kennt, und wer
+sie wie ich in all?hier Zutraulichkeit gesehen hatte, der
+mußte sich sagen, daß sie schon eine ganz besondere Der?
+Veranlassung haben mußten, in dies schrille Gekreisch auszubrechen.
+
+Rosa Seltsamen aber: Pro der Entreißen konnte ich
+beobachten, wie sie an dem Tau, das zum Balkon gespannt
+war, eilends hinabkletterten, sich dabei geradezu überstürzte::
+und an dem Tau ganze Knäuel von Affenleibern Eiskeller …
+die sich gegen den immerhin etwas helleren Himmel wir
+schwarze kt »weckte Klumpen abhoben,
+
+las gar das Eine,
+
+<@pagebreak/>
+Zweitens: Ich hörte oben in der Palme ein verdächtiges
+Rauschen und Knacken.
+
+Sollte etwa irgendein Raubtier sich bis hierher verirrt
+haben?!
+
+Unmöglich!
+
+Sollte es etwa eins jener verwilderten Saßen sein, die
+in Bombay zu Tausenden- sich auf den Dächern, in den Parkanlagen,
+besonders am Hafen und in den Speicher! umhertreiben
+— wie einst in Konstantinopel die berüchtigten StrapFenhunde,
+die man dann eines Tages nach einer Felseninsel
+im Marmarameer schaffte. wo sie angeblich gefüttert
+und getränkt werden sollten, in Wahrheit aber Jämmerlich
+umkamen.
+
+Mit den Bombay-«Saßen, die im Laufe der Jahre infolge
+ihres freien Scherz offensichtlich weit größer, kräftiger und
+raubtierartizer geworden, hat es freilich eine besondere Bewandtnti8:
+man duftet sie, weil sonst die Ratten und Mäuse
+überhand nehmen würden.
+
+Aber daß eine Affenfamilie von einigen fünfzehn Köpfen
+vor einer Katze flüchten sollte: ausgeschlossen!
+
+Was also bewog die Asien, den Balkon aufzusuchen?’
+Na bewegte sich vor? in der Palme mit sollen Geräusch?
+
+Ich strengte meine Augen noch mehr an.
+
+Jetzt sah 1; etwas.
+
+Ein Mensch kletterte am Stamm hinab — mein, er
+Feuerte nicht … er stieg Hinab … Es mußten da in dem
+Stamm Haken oder dergleichen eingeschlagen worden sein …
+
+Nur hatte der Mann den Boden erreicht, nun glitt
+er blitzschnell wie ein Asiaten auf uns zu.
+
+Ich z30g den Kopf schleunigst in Beengt,
+
+Aber — der Mann hatte es auf das Fenster abgesehen.
+Scheute das Gesicht, nachdem er sich vorsichtig Auge
+blank, dicht an die S-Heide. Der Lichtstrahl traf sein Gesicht.
+»36 sah es im Profit. Er trug einen blonden Spitzbart, eine
+Schlappmütze und einen Touristenanzug. Er war schlank, und
+<@pagebreak/>
+das Profil kam mir merkwürdig bekannt vor, — besonders
+die Nase und der Stirnansaß.
+
+Wer war dieser Mensch, der sieh bisher in der Palme
+verborgen hatte?!
+
+Jetzt pochte er an die Scheibe …
+
+Pochte nochmals …
+
+Dann klemmte er seine Messerklinge zwischen Rahmen
+und linken Fensterflügel …
+
+Das Fenster ging auf.
+
+Das machte ganz den Eindruck, als ob der Mann
+gewußt hätte, daß der Flügel nur angelehnt gewesen,
+
+Er stieg hinein, zog das Fenster wieder zu.
+
+Harald schob sich; hinter dem Efeukasten behutsam hervor
+… Ich folgte …
+
+Wir spähten in das Zimmer. Der Mann stand vor dem
+Bett …
+
+Und … lachte …
+
+Krümmte sich vor Lachen zusammen, gab dem schlafenden
+John Marketter dann einen Klaps auf den Kopf und lachte
+noch toller.
+
+Hierauf schritt er zur Tür …
+
+Marketter rührte sich nicht …
+
+Ein schrecklichen Verdacht kam mir … Und mit einem
+Schlage wußte im nun, wer der Mann war, wem dieses
+Profil gehörte:
+
+der Vicomtesse Yvonne von Passerie!!
+
+Ja — — sie war’s!
+
+Und was ich für einen harmlosen leichten Klaps mit
+der Hand gehalten, war — — ein Mord gewesen, ein Mord
+an einem Hoheit Schlummernden,
+
+Bezecht!!
+
+Auf dem Nachttischchen standen ja außer der Lampe
+eine leere Whiskyflasche und ein Glas!!
+
+Ich … rate Harsts Arm …
+
+»Du — — die Vicomtesse, — — meine Schöne aus
+<@pagebreak/>
+dem Expreß!! Also die Madson!! Sie hat Marketter ermordet?«
+
+»Das war kein Kunststüs,« flüsterte Harald kaltschnäuzig.
+
+Ich war empor!. »Und das fast du so … abgebrüht?!«
+
+»Natürlich …! — — da, Yvonne von Passerie — —
+oder die Madson, ich — sie verläßt das Hinunter … Sie
+schließt die Tür … Sie …«
+
+Und Harald zog mich rast nach der Palme hin …
+
+… Gib auf die Kellerfenster acht, Marx- Schraut …
+
+Wirklich — die unglaublich verstaubten, s!Schattigen Fenster
+wurden hell …
+
+Nur Sekunden …
+
+»Die Madson ist in den Keller gegangen … Vorher hat
+sie im Affenhaus gesteckt … Sie kann uns nicht entgehen.
+Jetzt werden wir versuchen, ob Marketter noch zu retten
+ist …«
+
+Wir stiegen in das Zimmer ein.
+
+<@pagebreak/>
+
+<h2>5. Kapitel.</h2>
+<h3>Als die Musik schwieg …</h3>
+
+Und dann beugte ich mich über den regungslos daliegenden
+Marketter.
+
+Hinter mir ein leises Lachen …
+
+Ich richtete mich mit einem Ruck wieder auf.
+
+»Harald, was bedeutet das?! Es ist ein WaßHhskopf. eine
+Wachspuppe!«
+
+»Ja, Marketters Stellvertreter — für Paulchen berechnet.
+Paulchen hakt bis halb zwölf in seinem Kunsttempel zu tun …
+Wenn er seinen Anbau Hier betritt, und wenn er sehen
+will, was!ein Gast macht: die Spalte zwischen den Verbargen
+zeigt ihm den harmlos Schlafenden! Ein uralter
+Ort, Requisit zahlloser Kriminalromanfabrikanten. Immerhin
+feucht praktisch für gewisse Fälle — wir hier.«
+
+Ich war noch immer völlig sprachlo€
+
+»Du wußtest das?«
+
+»Gewiß. Ich; weiß noch viel mehr Zum Beispiel,
+aß es gar Leinen »Hardy« gib! …«
+
+»Na Nu?«’
+
+»Rein … Ich weiß aus. das Marketter uns so!
+vz 3 bb« »wurdest hat …«
+
+»Juni.- bin 9«
+
+»In allem … Seine Gelaß;ihre von dem Film der
+
+»unter war da) im Grunde nveondlich albern, Er ist auf
+<@pagebreak/>
+dieses Märchen nur dadurch gekommen, daß wir im Speisewagen
+mit Singer über dessen Einkäufe in Allahabad sprachen.
+So hörte Marketter, daß Singer ein Kino besitzt. Paulchen
+hat uns ja auch, wie du dich besinnen wirst, den Inhalt
+des neuen gekauften Films kurz erzählt: und das war
+nachher Marketters Film. der Wundert« …
+
+Er schlich zur Zimmertür …
+
+Sie war — jetzt vom Flur aus verschlossen, und der
+Schlüssel abgezogen.
+
+»Was tun wir?« fragte ich unsicher, denn — ich begriff
+die Zusammenhänge noch immer nicht!
+
+»Wir werden schlafen gehen …!!«
+
+Und er schritt auf Fußspitzen zum Fenster …
+
+Tatsächlich verließen wir Freund Paulchens Kunsttempel.
+
+Als wir die breite, strahlend hell erleuchtete Vorderhaus«.
+Street erreicht hatten (der Nebel war längst verschwunden),
+gingen wir noch in das Cafe Westminster, setzten uns in
+eine Ecke der großen Veranda und beäugten das buntgemischte
+Publikum,
+
+Die Musik im Saale wurde von der Londoner Tanz
+Kapelle Schatten ausgeführt: verfeinertes Suez, — schmissig,
+voller Feuer, gefühldurchHweht, tatsächlich ein Genuß.
+
+In. der Mitte des Saales tanzte die vornehme Welt
+Bombays&. —
+
+Das Westminster-Cafe ist jedem Eingeborenen verschlossen,
+mag er auch von so Reim sein. Inder werden nicht geduldet.
+Aber dafür rollte ich mehrere Chinesen und Japaner in
+tadellosem Abenddreß: Beamte der Generalkonsulate. Ferner
+einen sehr dumCelhäutigen Herrn. Der Kellner sagte uns:
+Vizeadmiral so und so, Kommandant des gerade im Hafen
+liegender: Zziüenisc&ch;en Geschwaders!
+
+Die Veranda war ziemlich leer. Die breiten Fenster
+nach dem Saale hin waren hochgeschoben …
+
+<@pagebreak/>
+Mit einer Male fuhr ich halb aus meinem Sessel
+doch … Starre in das Gewühl der Tanzenden hinein …
+
+War mit ein paar Seiten am Solche erster …
+
+Dort — daß war Yvonne, die schöne Front;c’!
+Das war sie Zentrum!!
+
+Ich winkte Harald …
+
+Er kam.
+
+»Du, dort … Die Dame mit dem Reiherstutz im Haar …
+Das ist Yvonne!! Und niemals also kann der Kerl dort
+in Paulchens Hof Yvonne gewesen sein, niemals!«
+
+Au Harst war Lord Arzt. I:.) merkte es.
+
+Er schaute hin.
+
+Yvonne langte mit einem Herrn von sehr feudalen
+Aussehen …
+
+Sie trug ein Adern leid: ein Gedicht: in Silber und
+MoogLgrün! Um ihren Fall blitzte es wi: ein Flammonfreis:
+Brillanten! In ihrem Sogar funkelt« echt wie Rieisctglübwürmchen
+…: Brüllenden.
+
+Harst drehte sich um.
+
+Der Kellner glitt näher, ein semmeidvlmnder Zugang.
+
+»Wer ist die Dame dort, — die mit dein Willen!-
+Halsband er«
+
+»Oh — -« — und der Kellner erstarb in Ehrfurcht,
+»das ist. die Gattin Lord Winderloovs, des Adjutanten des
+Herrn Gouverneurs …«
+
+»Irren Sie sich nicht?« fragte im mit leichtem Spot«.
+»Mein Herr, Lady Winderloov kommt fast jeden Abend
+her …«
+»Tat sie letztens verreist?«
+
+»3 …«
+
+»Wie lange?«
+
+Der Ke’!frei grinste. »Mein Herr. ich wer schon, wußte
+hinanswollces …!! Mylady hat leider ein he Ahnst Zeit
+mit jener Hochstaplerin, die …«
+
+»Ding ist uns im Grunde alles sehr gleichgnltiaz …«
+<@pagebreak/>
+mischte ein Harald ein und zog mich wieder zu unserem
+Tisch hin. Wir setzten uns. Er blickte mich lange an …
+
+»Kamel!!«
+
+»Gestatte mal …«
+
+»Willst du den Kellner argwöhnist; machen?!« Er war
+gereizt wie nett nie. »Bedenke, daß ein Kellner, … und wenn
+er noF4 so schassdämlich wie dieser aussieht, niemals auch
+so dämlich ist. Dieser Beruf macht helle … Dieser Beruf
+lehrt beobachten, schafft gute Menschenkenntnis!! Wie konntest
+du nur so auffällig den Mann ausfragen?! Du ahnst ja
+nicht, was hier auf dem Spiele steht!!«
+
+Ich hatte Mühe, noch weiter den Verletzen zu markieren
+— gegenüber diesem neuen, unausdenkbaren Moment: Lady
+Winderloov sollte etwa mit Yvonne Passerie Adern;ich sein?«
+
+»Und was sieht auf dem Spiele?« fragte ich kühl.
+
+»Das Glück einer Ehe! Und das ist mehr wert als einundeineviertel
+Million Rupien.«
+
+»Woher … kennst du die Lady, woher weißt du, das;
+sie so glücklich lebt?!«
+
+Ein ironischer Bis … »Wir waren vor rund für?
+Monaten ebenfalls hier in Bombay. Wir machten darunter
+das Gartenfest bei dem Gouverneur Sir Ansicht alt. Der also
+liebenswürdige Herr zeigte mir das »Musterehepaar« von
+Bombay. Ich habe seine Worte nicht vergessen. Er sagte
+wörtlich, und es kam?hm von Herzen: »Ich wünschte, da!:
+alle Her so wären wie diese … Die Lady stammt aus
+uralter, aber verarmter Familie, und doch ist sie hier
+tonangebend geworden, weil sie jenen entleeren Geschmack
+in allen Dingen besitzt!! der nicht anerzogen werden kann,
+sondern der eines großen Seele entspringt.« — Diese Frau,
+mein Alter, — verzeih’ bitte meine Grobheit von vorhin,
+die wirklich nicht böse gemeint war —… diese Frau
+ist in Gefahr. Ich beobachte sie bereits eine ganze Weile.
+Ich bin mit dir auch nur deshalb hierher gegangen, weil
+ich wirkte, daß ich sie hier treffen könnte. Ich wollte sehen,
+<@pagebreak/>
+wie sie den neuesten schlimmen Streich ihrer … Zwillingsschwester
+Yvonne überstehen wird. Ich sah sie mehr Sekt
+trinken, als ihr dienlich. Ich sah das nervöse Flimmern
+ihrer Augen und das Unstäte in ihrem Benehmen. Sie …
+fürchtet etwas … — Ah — — die Musik bricht jäh ab … ck«
+
+Er erhob sich …
+
+Gleich darauf wußten wir, daß Lady Winderloov ohnmächtig
+zusammengesunken war, als drei Herren sie und
+ihren Gatten in einen Nebenraum gebeten hatten.
+
+Einer der drei war der neue Polizeichef von Bombay
+in Person gewesen, den wir noch nicht kannten, ein außerordentlich
+schneidiger Herr, den man von Kalkutta hierher
+deuten, um dem zunehmenden Verbrecherunwesen ein Ende
+zu machen.«
+
+»Eine unerhörte Nüdsichtslosigkei!!« sagte Harald erbittert.
+»Wenn er die Lady verhaften wollte, brauchte er’s nicht
+ausgerechnet hier tun! — Komm’, wir wollen der Sache
+eine etwas andere Wendung geben …«
+
+Er legte eine Visitenkarte, auf die er ein paar Worte
+gekritzelt hatte, in einen Umschlag und schrie den Kellner
+mit dem gut verschlossenen Brief in das Rauchzimmer, wo
+man die Lady auf einen Diwan gebettet hatte. —
+
+Eine andere Wendung …!
+
+Wenn Harald geahnt hätte, was nun folgen sollte …!!
+
+Der Kellner kam zurück.
+
+»Der Herr Polizeichef läßt die Herren bitten …«
+
+Wir begaben uns hinüber,
+
+<@pagebreak/>
+Schnitzeljagd.
+
+<h2>1. Kapitel.</h2>
+<h3>Lady Tage Winderloov.</h3>
+
+… Wer Titel des zweiten Teiles mag eigenartig Monaten.
+
+Unter Schnitzeljagd versteht man bekanntlie?, um dies
+ganz kurz zu streifen, die Verfolgung eines Reiters, der
+Papierschnitzel zur besseren Sichtbarntachung seiner Fährte
+auslernt, durch andere Reiter: also ein Sportspiel!
+
+Auf hartem Gebaut, also auf festem Boden, bilden diese
+Dünnster für die Verfolger die einzige Spur. —
+
+Für uns waren’s keine Papierschnitzel, die uns unser
+»Ansicht« schließlich finden ließen … Über etwas Ähnliches.
+5) will jedoch den Ereignissen nicht vorausgreifen …
+
+Als wir das Rauchzimmer, einen langgestreckten Raum
+nicht Klubmöbeln, Artesischen und zwei Telephonzellen, nun
+mehr betraten, bot sich uns im Lichte der Deckenkronen »ein
+Bild, das rosa heute mit plastischer Peutligpfsltr, vor. »By
+steht. —
+Die links G »Er, den Auto »Zinses, war« in Du
+
+Ablehnung an die (Gepäck Klang schien Ah lösen.: zu einem
+<@pagebreak/>
+behaglichen Kaminwinkel ausgestaltet worden. Eine Kaminattrappe
+aus bemaltem Blech, altes Gemäuer vortäuschend,
+füllte die Ecke aus. Hinter der verglasten Kamintür schienen
+Scheite zu brennen. Der rote Lichtschein traf zwei Klubsessel,
+ein Bärenfell, ein paar indische Elfenbeinhocker und
+einen frei im Zimmer stehenden Diwan.
+
+Auf diesem Diwan lag die Lady, während ein überschlanker
+Herr mit sehr hagerem, vornehm-überzüchteten Je
+gibt neben ihr saß und ihre Hände in den seinen hielt.
+
+Die drei Polizeibeamten hielten sich mehr im Hintergrund.
+
+Bei unserem Eintritt schnellte der Lord — es war
+Houston Allen Percy Winderloov, letzter seines Stammes: —
+empor und kam auf uns zu. Der Polizeichef war schneller.
+Er drängte sich geradezu zwischen uns und dem Lord und
+erklärte höflichenergischm, es täte ihm leid, aber er wolle
+Zunächst allein mit uns sprechen.
+
+Der Lord gute unendlich hochmütig die Achseln und
+nahm wieder neben seiner Frau Platz.
+
+Der Chef, ein Mann in den besten Jahren mit einem
+brutalen, roten Gesicht und harten Augen, stellte sich uns
+vor …
+
+»Cortkeige …« Und er wiederholte noch deutlicher »Cortleetge
+… Wir kennen uns bereits, meine Herren; von
+Kalkutta her … Das liegt vier Jahre zurück … Es handelte
+sich damals um eine sehr Einspruch: Sache, Herr Harst, bei
+der Sie der Polizei zuvorkamen …«
+
+»Das geschieht meist,« nickte Harald.
+
+Der Chef schaute ihn mißtrauisch an. »Wie meinen Sie
+das?!« fragte er etwas von oben herab.
+
+»Wie ich es Auge …«
+
+»Nun — in diesem Falle sind Sie uns nicht zuvorgekommen,«
+triumphierte Cortleetge, der an sich ein ganz
+Finger Kopf sein mochte, aber die üble Aufgeblasenheit
+<@pagebreak/>
+vieler indischen Kolonialbeamter Besaß. »Sie haben mir hier
+
+Ihre Karte geschickt und mit Bleistift dazu geschrieben Vielleicht
+könnte ich Ihnen Füßen.«
+
+Inwiefern könnten Sie dies, Herr Harst?«
+
+»Weil Sie nahe daran sind, Ihren Woll’n einzubüßen.«
+
+Cortleetge fuhr leicht zurück …
+
+»Ich?! Einbüßen … «? Wodurch?«
+
+»Durch einen Fehlgriff und &ne höchst ungeschickte Art,
+diesen Fall auszurollen.«
+
+Der Herr Chef schnappte nach Luft …
+
+»Fehlgriff?! Ich?h1 Und ungeschickt?! Gestatten Sie mal,
+das ist … ist beinahe beleidigend.«
+
+»Die Wahrheit beleidigt einen Mann von Charakter
+nie. — Wenn Sie mir erlauben würden, mit Mylady
+nur in Gegenwart meirktr8 Freundes Schraut einiges zu
+erörtern, es könnte ich Ihnen vielleicht den Beweis erbringen,
+daß Mylady niemals jene Frau Madson aus Urzapur ist.«
+
+Cortleetge wehrte ab. »Davon kann keine Rede sein …
+Mylady ist in der letzten Zeit dreimal in Urzapur gewesen,
+und zuletzt in den kritischen Tagen. Ihre Ähnlichkeit mit
+der Dame, die den Perser in Benares berauben half, ist
+so groß, daß hier von einer Personenverwechselung keine
+Rede sein kann. Außerdem spricht auch für Myladys Schuld
+der — Umstand, daß sie vorhin in Ohnmacht fiel und jetzt
+jede Antwort verweigert.«
+
+Harald wandte sich langsam dem Diwan zu. Die schöne
+Frau lag mit geschlossenen Augen, leichenblaß und mit
+Tränenspuren auf den Wangen da. Ihr Gatte hatte schrill
+aufgelacht, als der Polizeichef sie so sicher als Juwelendiebin
+bezeichnete.
+
+»Mylady … sagte Harald eindringlich, »haben Sie
+Grund, die Hardy »zu verschweigen?’ …
+
+Sie regte sich nicht.
+
+Der Lord antwortete an ihrer Stelle: »Meine Frau hat
+weder etwas zu gestehen noch zu verschweigen, Herr Harst.
+<@pagebreak/>
+Ich verstehe nicht recht, weshalb nun auch Sie sich in
+diese Dinge einmischen.«
+
+Harald blieb durchaus Höflich. »Mylord, würden Sie
+mit ansehen, wenn ein Glückes zweier Menschen zu zerbrechen
+droht? — Wohl kaum … Und das fürchte ich, Ihre
+Gattin wird bei der falschen Taktik des Schweigens beharren.
+Sie täte dies nicht, wenn mir Gelegenheit geboten Düne,
+schleimige Zeit mit ihr allein zu sprechen. Der Herr Polizeichef
+lehnt dies ab. Unter diesen Umständen muß ich …
+anders handeln … Ich habe über Frau Madson …«
+
+Da richtete die bleibe Frau sich mit einem Nu auf …
+
+Rief …: »Herr Harst, kein Wort von dem, was Sie …
+herausgefunden haben! Ich flehe Sie an, — — kein Wo!!
+Mein Leidenöweg mag enden, wo er will: Tun Sie nicht!s,
+um hier … eine gewaltsame Lösung herbeizuführen, die
+nahe mehr Unheil Stiften würde …!«
+
+Ihre Worte hatten nichts Flehendes an sie. Hm Gegenteil:
+In jeder Silbe lag gleichsam eine gewisse Hoheit,
+wie ein gutes Gewissen sie dem verleiht, ne heimlich) leiden
+will, obwohl es für ihn auch einen anderen Weg gäbe.
+
+Harald verneigte sich. »Fürchten Sie nichts. Ich bin
+nicht als Zerstörer, sondern als Beschützer gekommen. Ich …«
+
+Der Chef polterte dazwischen: »Bedaure, das ist unerläßlich
+…! Wenn Sie sich nicht neutral verboten, matt
+ich Sie und Ihren Freund bitten, das Zimmer zu verlassen.«
+
+»Gern … Nur noch eins, Bei dem Hinabeilten Tu’:1
+Singer, dem Inhaber des Altan:a-Theoators, wohnt zurzeit
+ein Mann als Gast, eine Zufallsbekanntschaft Vaters Lanöchmannes,
+ein gewisser John Marketter. Wenn Sie dies:’t
+Herrn die Perücke, den tadellosen falschen Bart, die Maskierung
+und anderes nehmen, wird zu Ihrem gewiß große!
+Staunen sich dieser Marketter, der die hiesige Polizei im
+übrigen »on seines Kreditbriefes wegen in Anspruch gen
+
+Kommen hat, als ein gewisser Mal? Ein Ad Pooc errungen,
+<@pagebreak/>
+alten als der Juwelenräuber von Benares. Und
+wenn Sie sich beeilen, können Sie diesen Pooc und denselben
+Mann, den er als Schwindler Doktor Hardy bezeichnete,
+unten in den Kellern des genannten Theaters überraschen,
+wo die beiden Herren sich die alten Wasserleitungskanäle
+Hamburg)s, die bekanntlich aus dem Gestein aufgesprengt
+sind, für einen neuen Fischzug zunutze machen wollen …
+Nur würde ich Eile empfehlen … Vielleicht begleiten Sie
+uns. Mylady wird bestimmt nicht flüchten. Und wenn Sie
+den Doktor Hardy erwischt haben, werden Sie bei näherer
+Besichtigung in diesem Gentleman eine gewisse, sehr schöne
+Dame unschwer feststellen, deren fatale Ähnlichkeit mit
+Mylady hier zu diesen unerquislichen Szenen geführt hat.«
+Der Herr Polizeichef — ich konnte es ihm nicht verargen,
+denn mir ging es genau so — machte ein Gesicht,
+als ob Harald ihm einen fetten Bären aufbinden wollte,
+
+»Und — — das stimmt alles?« fragte er wenig geistreich.
+
+»Sie brauchen uns nur zu begleiten …!!«
+
+»Gut denn …! — Mylord, Sie geben mir Ihr Wort,
+daß Sie mit Ihrer Gattin heimkehren und sie nicht aus den
+Augen lassen.«
+
+»Ja!« — Das klang sehr kurz. Und seine Lordschaft,
+der sich schon vorhin bei den an Harst gerichteten Worten
+seiner Gemahlin langsam erhoben hatte, sagte nun zu ihr.
+die starr vor sich hin blickte:
+
+»Komm’, — du wirst mir wohl manches zu erklären
+saßen.«
+
+<@pagebreak/>
+
+<h2>2. Kapitel.</h2>
+<h3>Zu spät …</h3>
+
+Das Auto des Chefs brachte uns nach dem Atlanta Theater.
+
+Es wer inzwischen halb eins geworden. Wir saßen zu
+vieren im Wagen. Der vierte war ein Detektivinspektor,
+den Cortleetge sich eigens aus Kalkutta mitgebracht hatte,
+ein jüngerer, stiller Herr von sehr sympathischen Äußeren
+und mit sehr klugen klaren Augen.
+
+Das Theater war natürlich längst geschlossen. Aber in
+dem Laternen Kassenraum schimmerte noch Licht. Harald pochte
+an die Scheibe, Panther öffnete, erkannte ne »Holländer«
+natürlich nicht, fiel aus so:glitten Wolken, als Harald
+ihm die Hand hinstreckte, wurde dann gänzlich vertattert, als
+er nun endlich erfuhr, wem er Unterkunft gewährt hatte …
+
+Wir gingen in den Hof …
+
+Wir spähten durch das Fenster in Marketters Zimmer …
+
+Er lag noch immer im Bett, genau wir vorhin. Das heißt:
+es war die Puppe!
+
+Der Herr Chef kletterte als erster durch das Fenster
+hinein …
+
+»Unglaublich?« brummte er und beleuchtete vorn wächsernen
+Marketter.
+
+Die Flur nach dem Flur und Haralds Patentdietrich vertrugen
+<@pagebreak/>
+sich sehr gut miteinander. Die Tür dachte: der Klügere
+
+gibt nach, — — und auf war sie.
+Hm ’Ffur des Anbaus spielte das selige Paulchen den
+Führer — selig, weil wir beide wieder da waren.
+
+Ihm kam diese ganze nächtliche Razzia äußerst lustig
+vor.
+
+Es ging nun in die Koller hinab. Paulchen!schwer
+Stein und Bein, daß seine Keller keinerlei Verbindung mit
+einer alten Wasserleitung hätten, — aber es stimmte doch:
+In einem Nebenraum, der für Kisten und Gerümpel enthielt,
+entdeckte Harst eine Anzahl ausgehobener Ziegelsteine und ein
+dazugehöriges Los im Boden, aus dem eisige, aber reine
+Luft Hervorquoll.
+
+Jetzt wurde es ernst. Jetzt fragte aber auch der Herr Chef
+mit strengster Amtsmiene: »Herr Harst, was haben die
+Halunken vor?«
+
+Ich hätte ihm antworten können, denn inzwischen war
+mir unser Besuch bei der Juwelenexport-Gesellschaft eingefallen.
+
+Harald erwiderte kurz: »Sie haben es auf die Stahlkammer
+der Diamanten-Export-Firma abgesehen, wollen ihn
+mit Hilfe dieses uralten Kanals zu Leibe«…«
+
+In dem Lohe lehnte eine kleine neue Leiter — zusammensetzbar,
+wie die Fensterputzer sie gebrauchen.
+
+Cortleetge war wir ein Blitz hinab, in der Linken eine
+Taschenlampe, in der Rechten die Pistole …
+
+»Langsam!« warnte Harald, aber der Übereifrige war
+bereits, gefolgt von dem jungen Inspektor, ja dem Gange
+nach rechts zu verschwunden.
+
+Unter diesen Umständen blieb uns nichts anderes Übrig
+als ebenfalls im Trab den beiden nachzulaufen. Harald
+war Paulchen und mir bald eine Stier voraus. Da er
+offenbar befürchtete, daß die beiden Beamten irgendeine
+Torheit begehen könnten, vergrößert« sich dieser Abstand
+<@pagebreak/>
+noch mehr, obwohl wir beide uns redlich bemühten, nicht
+allzu weit zurückzubleiben.
+
+Der ehemalige Kanal legte ein beredtes Zeugnis für
+die Tiefbautehnik der alten Inder ab. Dieser sauber aus
+gemeißelte Tunnel, zu dem auch vorhandene natürliche Hohlräume
+mitbenutzt worden waren, verlief in weiten Windungen,
+allmählich breiter werdend, nach Nordosten, mußte
+also nördlich von den Docks irgendwo an der Grenze von
+Black Town, der Eingeborenenstadt, münden, — wahrscheinlich
+ins Meer. Von allen Seiten vereinigten sich mit diesem
+Hauptkanal andere Kanäle, vor deren Öffnungen rostige,
+weitmaschige, brüchige Eisengitter angebracht waren. Zwischen
+den armdicken Stäben dieser Gitter hingen noch von Fleischer
+trockene Schlammreste, Tierskelette, auf? ein paar …
+Menschenschädel. — Die Existenz dieses Kanalnetzes war den
+Behörden bekannt, doch hatte sich niemand mehr darum gekümmert.
+Sie waren in Bergessenzdeit geraten, und über
+ihnen erhoben sich Regierungs- und Geschäftz3paläste, sausten
+in breiten Straßen Autos und elektrische Bahnen dahin.
+
+Ich habe später persönlich festgestellt, wie John Marketter«
+(oder Major Edward Pooc, was ja dasselbe ist) als smarter,
+großzügigen Gauner von dem Vorhandensein dieses Kanalnetzes
+sich Kenntnis verschafft hat. Daß es Kanäle dieser
+Art gab, mag er durch Zufall erfahren haben. Dann begab
+er sich, als holländiscmer Gelehrter sich ausgebend, zu der
+zuständigen Regierungsstelle und durchstöberte die Violine,
+fertigte sich) Zeichnungen an und entwarf nach diesen seinen
+glänzenden Plan, der ihm fraglos geglückt wäre, wenn Harst
+ihm nicht … — doch;) davon später, denn so ganz glatt
+verlief die Habe doch nicht, wie der Leser sofort sehen
+wird …
+
+Paulchen und im kamen um eine Biegung …
+
+Vor uns Steintrümmer, oben ein Loch, in dem Loch
+eine Leiter und Harsts Beine, die gerade nach oben zu
+verschwanden.
+
+<@pagebreak/>
+Wir kletterten empor.
+Wir waren in der Stahlkammer der Signori-Gesellt
+
+Das Heißt: es war einmal eine Stahlkammer gewesen.
+Die Eichentüren waren aufgesprengt. Am Boden lagen zwei
+Sauerstofflaschen, ein paar elektrisjache Bohrer und anderes
+Handwerkszeug. es«
+
+Wir … waren zu spät gekommen. Das Verbrecherpaar
+hatte sich bereits mit einer enormen Beute an geschliffenen
+und ungeschliffenen Steinen entfernt.
+
+Der Polizeichef, der Inspektor, Harst, wir beide: zunächst
+blieben wir stumm. Der Schreck über den Anblick dieser
+Verwüstung war uns zu arg in die Knochen gefahren.
+
+Dann legte Herr Cortleetge los: Eine Flut von Verwünschungen
+ergoß sich über Haralds Haupt, — Vorwürfe,
+die absolut unberechtigt waren … Wie hatte Harst ahnen
+können, daß Marketter und seine Gefährtin (der angebliche
+Doktor Hardy) so schnell und prompt arbeiten und schon
+in dieser ersten Nacht ihr Ziel erreichen würden?! — Harst
+kann sehr grob werden. Hier wurde er’s. Und der Herr Chef
+ward immer bescheidener, zumal zu der junge Detektivinspektor
+sich auf Haralds Seite stellte.
+
+Und doch hatte ich) das Gefühl (und es drückte nicht),
+daß Harst sich insgeheim selbst Vorwürfe machte, denn der
+Eifer, mit dem er nun die Spur der Flüchtlinge aufzunehmen
+sich bemühte, verriet eine gewisse Nervosität. Nachdem er
+sich mit Cortleetge durch; einen Händedruck ausgesöhnt hatte,
+kletterte er die Leiter als erster wieder hinab und untersuchte
+den Hauptkanal. Die Spuren der Verbrecher waren auf
+der festgetroFneien GScclammkruste des Bodens unschwer
+zu erkennen, für Fährten in Singers Keller zurück. Marketter
+und die »Bicomtesse« waren also bereits auf und davon
+gewesen, als wir Paulchen aus dem Kassenraum herausrufen
+hatten.
+
+Cortleetge schickte den Inspektor zur Polizeidirektion. Es
+<@pagebreak/>
+begann nun genau dieselbe Jagd auf die beiden Gauner wie
+damals nach dem Raube in Benares. Da die Verbrecher
+höchstens zwei Stunden Vorsprung haben konnten, sah Cortleetge
+die Geschichte äußerst. hoffnungsfroh an. Harald durchaus
+mit!! Und daraus machte er kein Hehl. — »Die beiden
+haben hier in Bombay ein Versteck vorbereitet,« erklärte er.
+»Es sind Verkleidungskünstler und Komödianten. Sie werden
+nicht so töricht sein und nach außerhalb flüchten. Hier sind
+sie sicherer. Black Town hat hundert sichere Verstecke.«
+
+So sprach er, als wir mit den Direktoren der ExportsGesellschaft
+um sieben Uhr morgens in der verwüsteten Stahlkammer
+standen.
+
+So sprach er zu mir, als wir eine Stunde später noch
+immer in den Kanälen umherstöberten, als ob hier noch
+Neues zu entdecken wäre.
+
+Ein Gutes hatte diese Unglücksnacht (die Ertappt-«Gesellschaft
+Westseite den Schaden auf rund acht Millionen Rupien,
+und die geraubten Diamanten hatten nur in großen Koffern
+weggeschafft werden können) — doch gehabt: Lady Winderloov
+war frei! Der Polizeichef hatte ihr ein Entschuldigungsshreiben
+geschickt. Sie konnte ja unmöglicg »Doktor Hardy«
+sein. Was sie freilich mit ihren Reisen nach Benares und
+Urzapur bezweckt hatte, blieb dunkel. Darüber wird später
+zu reden sein.
+
+Wie gesagt: Gegen acht Uhr früh hielten wir beide
+uns noch immer in den Kanälen auf.
+
+Harst untersuchte jedes der Gitter der Seitenkanäle auf
+das genaueste. Er schien doch nicht so fest überzeugt, daß
+Marketter und die Bicomtesse (oder Frau Major Pooc,
+meine Schöne aus dem Expreß) den Rückweg durch) da?
+Atlanta-Theater angetreten hatten — trotz der Fährten!
+
+Er war sehr schlechter Laune, Er rutschte auf den
+Knien hin und her, gab mir kaum Antwort, rauchte unaujshörlich
+seine Mirakulum und brummte allerlei vor sich hi«.
+
+Das ging so anderthalb Stunden. Ich war müde h1:::1
+<@pagebreak/>
+Umsinken. Dabei hielt ich. dieses Verweilen in den Kanäle
+für zwecklos,:
+
+So. Stunde es halb zehn. Dann erklärte Harald, er sei
+Nr befriedigt. Wir könnten gehen.
+
+Inzwischen hatte Paulchen, die treue Seele, unser Gepäck
+aus dem Fremdenheim holen lassen, und um zehn saßen
+wir drei auf dem bewußten Balkon beim Frühstück.
+
+Singer konnte sich …über das Geschehene noch immer
+nie! beruhigen. Ihm, dem das Leben hart mitgespielt hatte,
+der aber dennoch niemals Gelegenheit gehabt, das internationale
+Verbrechertum irgendwie kennen zu lernen, erschöpfte
+sich in allerlei Fragen …
+
+Und eine davon lautete: »Was taten die Verbrecher in
+dem von ihnen gemieteten Landhaus in Urzapur?«
+
+Ich möchte dem Leser Haralds Antwort nicht bereits
+
+Australien, denn sie leitet gleichzeitig zu der Hauptfrage über:
+
+hatte Mylady mit den Gaunern zu tun, was bewog
+sie, jede Aussage über ihre Person zu verweigern?«
+
+<@pagebreak/>
+
+<h2>3. Kapitel.</h2>
+<h3>Harsts Prophezeiungen:.</h3>
+
+Paulchen hatte einen Mokka aufbrühen lassen, der ein
+Murmeltier einen ganzen Monat munter gehalten hätte.
+Meine Müdigkeit war wie weggewischt. Die Zigarre schwebte,
+und der Kaviar (elf russischen) tat das Übrige. Ich war
+wieder auf der Höhe.
+
+Auf dem Geländer des Balkons holte aufgereiht die
+Affenfamilie. Die Viecher waren nun wieder zu ihrer früheren
+behaglichen Zutraulichkeit zurückgelangt. Daß eine verkleidete
+Dame ihr Affenhaus droben in der Palme als Versteck
+benutzt gehabt, war vergessen. Sie fraßen und schnatterten
+…
+
+Und Harald, die Tasse wegschiebend, sagte: »Urzapur,
+lieber Singer … Sie tun recht daran, diesen Namen z3u
+erwähnen. Urzapur war der Ausgangspunkt der beiden letzten
+Streiche des Herrn Bicomte de Passerie nebst Gattin.
+So verwirrt die Dinge infolge der verschiedenen Namen,
+die die Herrschaften sie beilegten, auf erscheinen mögen (wir
+sie in Wahrheit heißen, mögen die Götter wissen!!), so einfach
+und klar sind sie, wenn man alles Beiwerk Begräbt.
+Ich vertraue auf Ihre Diskretion, Singer. Und deshalb bez
+beginne ich mit der Vicomtesse. Daß sie eine Zwillingsschwester
+der Lady Winderloov ist, sein muß, — — machen Sie kein
+<@pagebreak/>
+so verdutztes Gesicht, Paulchen, nehmen Sie sich ein Beispiel
+dort an Ihren Affenpflegekindern, die lassen sich durch
+nichts verblüffen … — diese Zwillingsschwesternschaft war
+ja bei der Ähnlichkeit einfach selbstverständlich. Da nun
+Lady Winderloov eine geborene Französin aus dem normannischen
+Geschlecht der Herzöge von Herbical ist, muß
+auch die Frau Major Pooc oder Vicomtesse Yvonne Passerie
+zum mindesten eine geborene Herbical sein. Ob sie der«
+Heiratet ist, bezweifle ich. Ich behaupte, sie reist lediglich
+mit Herrn Pooc alias John Marketter umher und erntet,
+wo sie nicht gesät hat. — Dieses ’ Paar hatte sie zunächst
+In Europa kräftig betätigt. Dann kamen sie hier nach Indien
+und gaben ebenfalls Gastspiele, bei denen leider stets fremdes
+Eigentum an ihren Fingern kleben blieb. Schließlich wollten
+sie noch seiner ganz große Coups landen, einen bei dem
+Perser in Benares. Den zweiten hier in Bombay bei der
+Export-Gesellschaft. — Die Herrschaften sind nun Leute von
+der Art, die nichts übereilen. Sie. mieten in Urzapur ein
+abgelegenes Landhaus, in dem Yvonne Herbical — als alte
+vornehme Frau Madson haust, bei der dann angeblich als
+Gäste Mr. John Marketter — also Herr Pooc — und
+Doktor Hardy absteigen, Hardy, der in seiner Person mithin
+sowohl die Madson als auch die schöne Yvonne vereinigt.
+Yvonne spielt also abwechselnd Frau Madson und Hardy.
+—» Dann berauben die Poocs den Perser, flüchten nach
+Urzapur, veränderten sie; auf dem Bahnhof blitzschnell in
+John Marketter und Hardy und besteigen wieder den Zug,
+wo Marketter im Speisewagen uns belauscht und danach
+seinen Plan entwirft, sich Ihnen, Paulchen, als Erkannter
+zu nähern, da er unbedingt mit Ihnen intimer werden
+mußte, denn er brauchte ja Ihren Keller als Eingang zu
+den Kanälen. Obwohl er wußte, daß Schraut und ich bei
+Ihnen weilten, kommt er im Vertrauen auf die treffliche
+dicke Maske hierher und bindet uns das Märchen von
+Heu »Film der Wunder« auf, verflucht: Hardy als Dieb
+<@pagebreak/>
+des Kreditbriefes und erreicht, daß alle, alle ihm glauben
+— nur ich nicht«
+
+Paulchen Singer ist ehrlich, sagt: »Hm — Sie nicht! Das
+kann jetzt jeder sagen, Herr Harst!« …
+
+Harald lächelt nachsichtig. »Ich habe als Kronzeugen
+Schraut, der sich besinnen wird, daß ich ihn auf die Lichtreklamen
+aufmerksam machte und dabei andeutete, das dort
+»das Ziel« läge, also die Stahlkammer der Eigenart-Gesellschaft.
+Und weiter: Wer hat dann die Polizei in diese
+Kanäle geführt, wer wußte sofort, daß der schlafende War«-
+fetter eine Wachspuppe war?! — Vielen Singer, Ihre Zweifel.
+sind Ihnen nicht zu verargen, denn Sie sind eben an strong
+logisches Denken nicht gewöhnt. Auch das will gelernt sein.«
+
+»Entschuldigen Sie, im bin ein Dummkopf … »Aber ich
+werde mich bessern … Sie brauen mir nur eins noch zu
+sagen: Hoffen Sie das Paar zu finden?« …
+
+Harald Wüste sinnend auf die eine Affenzstama, die
+ihr Junges zärtlich streichelte.
+
+»Liebe …« sagte er … »Liebe …!!] Es braucht ntch’
+immer die Gatten- oder die Elternliebe zu sein … Auch
+Geschwister lieben einander oft geradezu abgottisHh. Besonders
+Zwillinge, die ja überhaupt schlich, und körperlich durch
+engste Beziehungen miteinander verknüpft sind. — Lady Tage
+Winderloov zum Beispiel, die zufällig oder durch ihre Scharf
+Fenster Yvonne direkt von deren Aufenthalt in Urzapur erfahren
+hatte, wagt so allerlei, als sie verschiedentlich) nach Urzapur.
+Allahabad und Benares Reis, nur um Yvonne zu bchsHwören,
+diesen Lebenswandel aufzugeben. So gerät sie
+selbst in Verdacht, an dem Raube an dem Perser beseitigt
+gewesen zu sein: als Yvonne! Sie wird verhaftet — und
+schweigt. Sie darf nicht zugeben, daß Yvonne ihre Schwester,
+daß sie selbst also die Schwester einer Verbrecherin ist. Sie
+fürchtet die Liebe ihres Wannsee zu verlieren, ihn bloßzustellen.
+Da greife ich ein und legte den Herrn Polizeichef
+ab, indem ich ihn in die Kanäle führe und ihm das Geheimnis
+<@pagebreak/>
+der angeblich drei Bewohner des Landhauses in
+Urzapur enthülle. Er gibt die Lady frei. Und soweit waren
+wir nun,«
+
+Singer fast zögernd: »Verzeihung, lieber Harst, aber
+meine Frage haben Sie mir noch nicht beantwortet. Ich
+wollte gern wissen ob Sie die Verbrechern sangen und ihnen
+die Beute wieder abjagen werden?«
+
+Harald erwidert: »Die Antwort lag in dem, was ich
+soeben ausführte. Ich sprach von Liebe … — Soll ich Ihnen
+prophezeien, was geschehen wird?« —
+
+Ehrlich gestanden: Au) ich machte ein ziemlich verständnisloses
+Gesicht. Was sollte das alles?! War das
+eine Antwort?
+
+… Es wird folgendes geschehen: Die Juwelen des
+Persers und die Edelsteine der Exportfirma werden irgendwo
+und irgendwie von selbst wieder auftauchen.«
+
+»Wie — zurückgegeben werden?!« rief Panther anständig.
+
+Und auch ließ schüttelte den Kopf.
+
+»Ja, meine Lieben, sie werden wieder auftauchen … —
+Und jetzt fragt nicht mehr. Ich habe noch einen Spaziergang
+zu machen. Derweil kann Schraut auf dem Städtischen Bauamt
+feststellen, wie der Bicomte de Passerie, Marketter also,
+sich Kenntnis von den Kanälen verschafft hat.«
+
+Er erhob ein … —
+
+Ich hatte auf dem Bauamt zwei Stunden zu tun. Was
+im dort ermittelte, habe ich schon erwähnt.
+
+»3 ich gegen halb eins die Straße wieder betrat —
+es v ein wolkiger, wenn aus sonniger Tag mit nur schwerlich.
+ist Regenfällen — hörte ich trotz des Lärms des überaus
+lebhaften Verkehrt der Viktoria-Street die schrille.:
+Rufe kleiner brauner Extrablattverkäufer.
+
+<@pagebreak/>
+Ich kaufte eins der durchsuchen Blätter …
+Die braunen Bürschlein brüllten ja:
+»Die Diamanten gefunden,
+—» — die Diamanten der Export»-Gesellschaft
+gefunden!!
+Ich las:
+
+»Gute um halb elf vormittags hielt vor der Polizeidirektion
+ein Handwagen, der von einem alten zerlumpten
+Inder geschoben wurde. Der Alte sagte dem Pförtner, daß
+er dem Polizeichef die auf dem Wagen liegenden Rucksäcke
+abzugeben habe. Dann verschwand er in der Menge, —
+Die Rucksäcke enthielten die bei dem Perser Mirza in
+Benares geraubten Juwelen und die gesamten Edelsteine
+der Export-Firma, außerdem noch Juwelen, die offenbar
+anderswo gestohlen worden waren,
+
+Man steht hier vor einem vollkommenen Rätsel. Hofs
+hoffentlich gelingt es unserer Polizei, auf deren energisches
+Eingreifen unserer Ansicht nach diese Aufgabe der Beute
+durch die Verbrecher zurüszuführen ist, auch das Gaunerpaar
+noch festzunehmen, das aus Angst auf den Raub
+verzichtete, weil es eben einsah, daß es kein Entrinnen
+mehr gäbe. Hierdurch ist also die grobe Nachlässigkeit des
+deutschen Gentlemanabenteurers oder Abenteuersuchers Harald
+Harst, die darin lag, daß er die Polizei zu spät von
+den Ergebnissen seiner unwichtigen Folgerungen und Beobachtungen
+benachrichtigte, wieder ausgeglichen. — Unseren
+neuen Polizeichef können wir zu diesem glänzenden ersten
+Sieg nur beglückwünschen.«
+
+Mit einem geringschätzigen Lächeln schleuderte im den
+Wisch, dessen Inhalt den Einfluß des »sezieren Chefs« nur
+zu deutlich verriet, wütend von mir,
+
+Unerhört- war diese Anrempelung! Dieser Herr Cortleetge,
+der ohne Harst niemals herausgebracht hätte, wer die Gauner
+gewesen, verdiente Ohrfeigen.
+
+Ich eilte zu Wunsch;ans Heim …
+
+<@pagebreak/>
+Harst saß auf dem Balkon, fütterte die Affen, Paulchen
+stand daneben und hielt eins der Extrablätter in der Hand,
+
+Paulchen war blaurot vor Grimm …
+
+»Schraut, haben Sie gelesen?!«
+
+»Ja — — eine Frechster!!!!«
+
+»Kinder, regt euch dank nicht auf!« meinte Harald gemütlich.
+»Cortleetge ist reif fürs Abgesägtwerden. Ich will meine
+Propheizeiung nachts erweitern, nachdem das erste so prompt
+eingetreten ist: Der Herr Chef wird hierherkommen und
+demütig bitten, ich möchte ihm doch helfen.«
+
+»Wobei, — — die Verließen zu fangen?« rief Singer.
+»Das würde ich an Ihrer Stelle niemals tun!! dem helfen
+— — noch besser!«
+
+»Nein, -., er wird meine Hilfe für etwas anderes in
+Anspruch nehmen wollen … — Über nun hört auf damit,
+meine Lieben … Cortleetge ist ein toter Mann. Der Gouverneur
+wird ihm schön den Standpunkt klar machen. Exzellenz
+kann unheimlich grob werden … Und Exzellenz ist
+mein Freund. Das hat Cortleetge Übersehen …«
+
+Er schwieg …
+
+Blitze nach der Balkontür …
+
+Wo einer der Diener stand …
+
+»Sahib Polizeichef Cortleetge bittet Sahib Harst sprechen
+zu dürfen …« meldete der Inder,
+
+»Aha!« lachte Harst. »Ganz prompt … Da ist er]
+Nun, — er wird sich wundern. — Rein mit ihm …’«
+
+Herr Cortleetge erschien …
+
+Klein und häßlich, bescheiden und ölig, heulerism) und
+voll versteckter Angst …
+
+Wir standen zu vieren im Zimmer. Herrn Cortleeiges5
+zum Gruß hingestrete Hand wurde allgemein Übersehen …
+
+»Sie wünschen?« fragte Harst eisig …
+
+Nicht einmal ein Stuhl wurde dem undankbaren Wich!
+angeboten …
+
+<@pagebreak/>
+
+<h2>4. Kapitel.</h2>
+<h3>Um Lady Tage.</h3>
+
+Cortleetge mochte an sich kein übler Mensch sein. Aber
+wie die meisten Beamten dort in Indien war er mit der
+Zeit zu einer gewaltigen Überschätzung seiner Person und
+zu einer Art Gottesgnadentum gekommen, das keinerlei
+Verringerung durch einen gewöhnlichen Sterblichen vertrug.
+Es liegt in den ganzen Verhältnissen in Indien, daß dort
+die Europäer, weil noch heute ein scharfer Trennungägsstrigzwischen
+Farbig und Weiß besteht, hinsichtlich Selbstbewußtsein
+und Selbstsuchgt weit über das Ziel hinausschicken.
+
+Ein Beispiel: Cortleetge! — Ein Mann von Null,
+von Kenntnissen, und doch ein kleinlicher Neider, der nun
+hier den Weg nach Canossa hatte »antreten müssen.
+
+Er fühlte, daß offene eisige Zurückhaltung ihn umwehte.
+Er zwang den aufsteigenden Grimm zurück und erwiderte überhöflich«
+
+»Ich wollte etwas klarstellen, Herr Harst. Die Extrablätter
+des »Bombay Recorder« sind ohne mein Wissen
+in dieser Form der Öffentlichkeit …«
+
+Harald wehrte ab. »Die Wische berühren mich absolut
+nicht … Sold infamer Schmutz erstickt zumeist die, die
+ihn zusammengekehrt haben. Noch: etwas, Sir?«
+
+Cortleetge wechselte die Farbe, »Nein,« preßte er hervor
+und wandte sich der Tür zu. Aber er wandte sich aberatals
+<@pagebreak/>
+um, — … Vielleicht interessiert es Sie, daß Lady Jane
+-Winderloov seit elf. Uhr: verschwunden ist. Sie wissen, daß
+ah vom Mylord verlangt hätte, auf seine Gattin achtzugeben.
+Er hatte sie im Bark seiner Villa auf den Malabar Hills,
+einem Sommerpavillon … hm, ja … untergebracht — —
+eingeschlossen … das Ehepaar scheint sich entzweit zu haben,
+und …
+
+»Ihre Schuld — — Verdeck«
+
+»Ich tat nur meine Pflicht!« brauste der Polizeiche]
+»auf. Peng — — ebenso schnell hatte er sie; wieder in der
+»Gewalt. »Mylady ist aus dem verschlossenen Pavillon, der
+»dazu noch vergitterte Fenster hat, entwichen. Der Lord bewahrt
+dort seine berühmte Waffensammlung auf, und daher
+Ut die Tür auch besonders geschützt und das Schloß nicht
+Zu öffnen —« mit einem Nachschlüssel. Seine Exzellenz der
+Herr Gouverneur verlangt nun von mir, daß ich Mylady
+Schleunigst wieder herbeischaffe.«
+
+»Also hat Exzellenz Ihnen Vorwürfe gemacht 7?«
+
+»34. — €8 … es … geht um … um … meine Stellung
+hier …« — Man merkte, wie schwer ihm dies Je-«
+Geständnis wurde. »Exzellenz verehrt Lady Jane … Exzellenz
+Hält auch auf Sie große Kur, Herr Harst. Das Extrablatt
+Hat Exzellenz … mir vor die Füße geworfen … Ich …
+»bin erledigt, wenn durch … durch mich — angeblich! —
+die Ehe in die Brüche geht.«
+
+Harald schien der arme Teufel jetzt leid zu tun. Daß
+Cortleetge so ehrlich war, dies zu erwähnen, nahm unbedingt
+für ihn ein.
+
+Und so erklärte Harst nun in weit versöhnlicherem Sonne:
+»Verdient haben Sie es nicht, mein Lieber. Aber ich will
+Sie schließlich auch nicht ins Unglück stürzen. Und eine
+Versetzung in irgendein entlegenes Nest wäre für Sie ein
+Unglück. Sie würden dort Burg Trunk und Spiel zu
+Stunde gehen. — Ich weiß, wo Mylady sich befindet.«
+
+<@pagebreak/>
+Der Chef Tasche zusammen. »Sie … wissen?! — Wo«-
+der?!« Ei
+»In habe vorhin einen einstündigen Spaziergang gemacht,
+als Schraut bei der Baubehörde und Freund Singer
+seinem Kino war … Einen Spaziergang unter der Erde …
+
+Sekt war der »Chef vor« sofort im Bilde, …
+
+»Also … Sie waren in den Kanälen, Herr Harst?«
+
+»X … Als ich mit Schraut die engen vergitterten
+Kanalabzweigungen nochmals besichtigte, fand ich vor dem
+einen im getrockneten Schlamm ganz geringe Spuren. Dort
+waren zwei Leute, die sich die Schuhe mit Lappen umwickelt
+hatten, eingedrungen, nachdem sie das verrostete Gitter
+sehr vorsichtig gelockert, herausgehoben und nachher wieder
+eingefügt hatten. Ich folgte dieser Fährte, die in dem niederen
+unterirdischen Gang, der zum Teil verschüttet war, bis zu
+einer Stelle hinlief, wo der Einsturz der Decke ihn vollständig
+versperrt zu haben schien. Aber die Steintrümmer
+waren nur durch Menschenhand so geschickt aufgehäuft worden,
+und sehr bald hatte ich die Barrikade behutsam beseitigt und
+konnte meinen Weg fortsetzen, dessen Endpunkt ich ahnte.
+Der Gang verlief nämlich ziemlich genau nach Südwest
+und mußte somit bei seiner Länge bis zum Fuße der
+Meoalabar Hills reichen. Meine Vermutung, daß er im Parke
+der Sommervilla des Lords enden dünkte, traf zu.«
+
+— Cortleetge halte sehr gespannt zugehört, Sein Gesicht
+hatte den komödienhaften Zug von höflichen Respekt »verloren«.
+Er gab sich jetzt, wie er war, als er Harst unterbrach:
+
+»Verzeihen Sie … Sie haben fraglos bessere Augen
+als meine Leute und ich. Die Spuren ein« uns entgangen.
+Wie konnten Sie vorher wissen, daß die Nözweigqmig des
+Kanals ausgerechnet im Parke des H3:22 Euren würde?«
+
+Paulchen, stets ein Mann, der sehr »uf die Wahyruvno
+äußerer Formen bedacht war, bat uns bin. doch zunächst
+einmal Platz zu nehmen, reite Sitz: denn; Zigaretten und
+<@pagebreak/>
+spielte so liebendwürdig den Wirt. daß auch der letzte Nest
+der unbehaglichen Stimmung verkroch.
+
+»Ich werde mit einer Gegenfrage antworten,« meinte
+Harald freimütig. »Haben Sie bereits darüber nachgedacht,
+weshalb wohl Lady Jane die geheimnisvollen Reisen noch
+den Gangesstädten Allahabad, Urzapur und Benares unternommen
+haben könnte?«
+
+»Natürlich,« nickte Cortleetge. »Wenn die Lady jedoch
+nicht freiwillig den Grund dieser Reisen angibt, wird die
+Wahrheit kaum an den Tag kommen.«
+
+»Diese Wahrheit ist bereits offenkundig, — Halten Sie
+denn die Ähnlichkeit zwischen der Vicomtesse Yvonne und
+der Lady für einen Zufall?«
+
+Dr machte Cortleetge ein höchst verdutztes Gesicht.
+
+»Wie, — — verwandt?!« rief er kopfschüttelnd. »Der
+Gedanke ist mir zwar ganz flüchtig gekommen. Aber«…«
+
+»Der Gedanke traf das Richtige. Es sind Zwillingsschwestern,
+und die Reisen der Lady bezweckten lediglich,
+Yvonne moralisch zu retten.«
+
+»Ah, — — allerdings!! Das läßt sich hören …«
+
+»Das ist Tatsache. Lady Jane liebt Yvonne. Und deshalb,
+nur deshalb beging sie noch einen Fehler, aus Liebe:
+Sie verbarg Yvonne, nachdem diese im Einverständnis mit
+John Marketter das Geld von der Bank hier abgehoben
+hatte, in dem unter dem Pavillon des Lords gelegenen,
+nie benutzen Keller … Von diesem Keller schuf Yvonne
+einen Zugang zu jener Abzweigung des Kanals, Sie brauchte
+nur eine dünne Fortschritt zu beseitigen. Und sie und War«-
+Fetter flüchteten nach der Beraubung der Export-Gesellschaft
+ebendorthin. — Glaubten Sie, daß etwa Marketter
+als Inder »Holzleiter die Beute ausgeliefert hat?! Nein, die
+Lady tat’s … Die Lady spielte den alten Inder, und da
+sie den beiden Berbrecßhern heimlich die Beute abgenommen,
+haben diese sie aus Nahe verschleppt, vielleicht, um von
+dem Lord ein Lösegeld zu erpressen, denn die Geldmittel de?
+<@pagebreak/>
+Klares dürften erschöpft sein. — Ich betone gleich, daß
+der Parällonkeller leer ist und daß die beiden Hochstapler
+die Lady den von mir gefundenen Spuren nach durch
+eine andere Abzweigung der Kanäle nach der Eingeborenen«
+Stadt geschafft haben. Sie dort zu suchen, wäre zwecklos,
+Nur durch List werden wir das Paar aus seinem Bau heraustreten.
+Wie im mir das denke, will ich? Ihnen kurz
+entwickeln. Marketter hat mit einem Film der Wunder
+operiert. Wir werden es auch. Singer besitzt einen Kinoaufnahmeapparat.
+Ein Film läßt sich, wenn Sie mit Ihren
+Beamten in aller Stille helfen, noch heute herstellen. Die
+?wo zu diesem Film ist fix und fertig. Ich werde den
+»Akzent spielen, und der Titel wird lauten:
+Die Stahlkammer der Diamanten
+— Export-Gesellschaft.
+
+Das mag als Mittel zum Knebel alles sehr abenteuerlich
+Flüchtlingen, Herr Cortleetge. Wenn morgen abend der Nil
+hier im Atlanta-Theater abrollt, wird der Erfolg mir. re;«;ich
+geben. Natürlich gehört mit dazu eine entsprechende Reklame
+Auch die werde ich besorgen.«
+
+Der Polizeichef schien von alledem nicht sehr entzückt
+zu sein.
+
+Harald lächelte nur … »Also die Einzelheiten … Der
+Film wird die Beraubung des Verehrers und der
+Stahlkammer wiedergeben. Darsteller für die Rollen
+der Hauptpersonen sind vorhanden. Ich habe bereit.
+mit den Mitgliedern der jetzt hier gastierenden Theater«
+Truppe des Monsieur Voraus telephonisch gesprochen. Der
+Arm soll ein Reißer erster Kasse werden. 332; will ein paar
+Szenen hineinbringen, in denen Ah:gut und ich uns als
+Sensationsmacher betätigen: Ein Ei Bruch im Boot in einer
+Brandung, Angriff durch; Eingeborene auf uns, Schießerei,
+— dann Aufnahmen der Kanäle, der zerstörten Grabkammer,
+Sie, Cortleetge, mit dabei als Leiter der Ermittlungen,
+»wobei Sie an! abschneiden sollen … Zum Schluß die Berechnung
+<@pagebreak/>
+des Lordehepaares, das nakürklich unter … deren
+Namen erscheint …«
+
+Bisher hatte Paulchen sich noch beherrscht. Seht sprang
+er auf … »Harst, Harst, — das wird ein Bombenerfolg!!
+Harst, das ist eine Idee, die nicht mit Platin zu bezahlen
+ist! Harst, das …«
+
+… Harald lachte und zog die Uhr. »Ruhe, Paulchen, Ruhe …!
+Es ist jetzt zwei … Um drei beginnen die Aufnahmen …
+Wir müssen eilen …!/««
+
+Und ein Harst — — eines Harsts Energie, — — noch
+nie ist ein Film von vier Akten innerhalb acht Stunden
+fix und fertig geworden. Not; ade haben Schauspieler und
+Komparsen mit sollen Feuereifer gearbeitet — — noch me,
+behaupte im. Und dabei hatte diese Handlung dieses Films
+der Wunder Hand und Fuß!! Liebe, Haß, Sensation, Irieaufnahmen
+— — alles klappte! — Nur schade, daß Seine
+Exzellenz der Gouverneur den Film dann nur für Indien
+freigab. Aber Paulchen machte ein Bombengeschäft damit.
+
+Leider kann ich hier nicht im einzelnen schildern, wie
+tadellos uns Cortleetge bei allem half. Abends surrten dann
+die Feinmaschigen, schufen die Reklame. Die Zeitungen
+wurden eingeweiht
+
+Und am nächsten Morgen …
+
+<@pagebreak/>
+
+<h2>5. Kapitel.</h2>
+<h3>Filmpremiere.</h3>
+
+Ja — am nächsten Morgen …
+
+Da wußte es ganz Bombay, daß abends acht Uhr
+der Film »Die Stahlkammer« zum ersten Male im AtlantaSheater
+laufen würde …
+
+An alten Zäunen, Häusern, Anschlagsäulen klebten Reklameplakate
+…
+
+Alle Zeitungen meldeten die Sensation, daß Harst und
+Schraut abends im Film im Unsinnig—Kino zu sehen sein
+würden …
+
+»Dieser Film wird der Öffentlichkeit darüber Aufs
+Schluß geben, wie das Verbrecherpaar, das längst Bombay
+verlassen haben dürfte, seine Pläne ausführte, wie Harst
+ihnen auf die Spur kam, wer nachher die Beute der Polizei
+übergab, — kurz: ein Film, wie die Welt ihn noch nicht
+kennt, — ein gefilmter Kriminalfall, hergestellt mit Hüte
+der Polizei …«
+
+Und diese Sätze: das war das Lockmittel, auf das Harald
+vertraute …’ —
+
+Trotzdem blieb ich bis zur Entscheidungsstunde äußerst
+Verließ. Ich konnte mir nicht recht denken, daß John
+Marketter es wagen sollte, das Theater zu besuchen.
+
+Harald machte sich keinerlei Sorgen …
+
+<@pagebreak/>
+»Er wird kommen, mein Alter! Er wird glauben, wir
+wähnen ihn und Yvonne längst außerhalb Bombays! Er
+wird sich tadellos verkleiden … Du weißt, daß ich beim
+Vorverkauf der Eintrittskarten Paulchen gestohlen Hitze. Ich
+habe mir am Nachmittag die Kartenhäuser sehr genau angesehen.«
+
+»und — — du erkanntejst Marketters«
+
+»Du würdest ihn nie erlangt haben … Die Blick sind
+numeriert … Er hat Nummer 16, erstes Partei:. nie
+Plätze neben ihm — — haben wir beide!« Er rieb sich
+
+schmunzelnd die Hände … »Dir Sache hat eben geklappt,
+Max Schraut … Sie mußte klappen. An eine Falle hat
+Marketter nicht gedacht. Nein, er Königs an, wir haben
+Paulchen den gewünschten Reißer-Film verschaffen wollen.
+Nun ist er eben allzu neugierig, wie er und Yvonne dargestellt
+werden, — verständlich!! — —
+
+Die Premiere wurde geradezu ein gesellsäastliches Ereignis
+für Bombay). Not nie hat ein so erstklassiges Publikum
+das Atlanta-Theater bis zum letzten Platz gefüllt …
+In den Logen die hat;en Beamten, sogar Exzellenz und Lord
+Winderloov mit finster-verschlossenem Gesicht.
+
+Eine diskrete Musik … Und dann wurde der Saal
+dunkel …
+
+In demselben Moment nahmen wir beide unsere Plätze
+ein, 17 und 19, während zwischen uns ein bartloser, junger,
+patenten Engländer saß, in dem ich niemals Marketter bei —
+lauter hätte: ein hübscher, flotter Kerl, der das Monokel
+mit Grazie trug, von uns keinerlei Notiz nahm und sogar
+die Keckheit hatte, Harald in der ersten Pause anzusprechen.
+
+Gleich der erste Akt, der in Urzapur (angeblich) im
+Landhaus der, Frau Madson spielte und die Vorbereitungen
+der Verbrecher klarlegte und den Besuch der Skhwester der
+v)Hochstaplerin Yvonne wiedergab, wobei diese Sessel — die
+Betrunkene auf Knien bat, auf den Pfad der Tugend zurückzukehren,
+hastig glänzend ein, obwohl wir beide dabei noch
+<@pagebreak/>
+nicht in Aktion getreten waren. Und während des tosenden
+Beifalls sagte unser Nachbar zu Harst:
+
+»Art wahr, mein Herr, — — glänzend!! Dieser Harst
+ist doch ein Teufelskerl! Sogar Filmautor und Filmregisseur!«
+
+As sollte Marketter sein?! Die Stimme?!
+
+Ja: Marketter war doch der größte, glänzendste Komödiant,
+der uns je begegnet war! —
+
+Zweiter Akt …:
+
+Wir in Benares — — auf dem Bahnhof. Hm Zuge …
+— Das Verbrecherpaar verwandelt sich in Urzapur in den
+dicken Marketter mit den kleinen Händen und in Doktor Hardy
+und fährt nach Bombay … In Bombay reisen Harst und
+Schraut zum Sein (wie es wirklich:) gewesen) mit einem
+Dampfer ab, besteigen aber ein Boot, kehren zurück, geraten
+in die Brandung, werden von Eingeborenen angegriffen
+… —
+
+Und da war’s, daß Harald sich zu Marketter hinbeugte
+…
+
+Anpochte …
+
+Ich hatte die Handschellen bereit
+
+Sie schnappten ein …
+
+»Kommen Sie mit — ohne Aussehen,« flüsterte Harald,
+
+Und Marketter nicht nur …
+
+Zum Unwillen des Publikums gehen wir hinaus, stören
+die Szene.
+
+Draußen am Kassenraum wartet Cortleetge … —
+
+Und nun die Überraschung …
+
+Man kann sagen: Harsts Niederlage, Harsts Satan«
+ging …!
+
+Marketter … lächelt uns an …
+
+Sagt: »Kein Sieg, meine Herren!! Bilden Sie sich
+das bitte nicht ein. Wenn Yvonne sich nicht heute früh
+von mir losgesagt hätte, würde ich auf Ihren Filmtrick,
+Herr Harst, niemals hereingefallen sein. Nun — ist mir
+<@pagebreak/>
+alles gleichgültig, denn ich Habe Yvonne geliebt, ich habe
+sie angebetet, ich habe für sie … gestohlen, betrogen! Ihr
+wollte im eine glänzende Zukunft schaffen. Als ich sie
+vor fünf Jahren kennen lernte, war sie eine arme, geplante
+Erzieherin, während Jane in London als … Tippfräulein ihr
+Brot- verdiente. Dir Schcwestern, arm, aber aus uralter
+Familie, sahen sich erst in Urzapur wieder. Jetzt hat Jane
+das fertiggebracht, ’ Yvonne mir zu entfremden. Yvonne …
+ist entflohen — irgendwohin, hat mir einen Brief hinterla’ se::,
+will mich nie wiedersehen, will in ein Kloster eintreten —
+— Kloster, — — meine Yvonne!!« Das klan4 wie ein Verzweiflungsschrei.
+»Lady Jane ist heute abend in den Pwaillv::
+zurückgekehrt,« fügte er dumpf hinzu. »Lord Winderloov
+wird ihr »verzeihen … Ich — — habe kein Interesse mehr
+am Leben! Vielleicht wird das Zuchthaus wirr allmählich
+morden …!«,
+
+In dem, was er gesprochen, hatte eine gewisse Seele1ngröße
+gelegen.
+
+Harald fragte denn aus fast mitleidig:
+
+»Und — wer sind Sie selbst?
+
+»Ich … bleibe John Marketter! Niemals werden Sie
+herausbekommen, wer iQ bin und woher ich stamme, Ich
+gelte seit vielen Jahren für tot. Und das ist gut so.« —
+
+Marketter wurde im Auto ins Polizeigefängnis geschafft.
+Dann ließ Harald den Lord in den Kassenraum bitten und
+eröffnete ihm, was Marketter soeben eingestanden hatte und
+weshalb die Lady Jane die geheimnisvollen Reisen unternommen.
+
+Winderloov Frühe uns nur stumm die Hand und …
+eilte heim, um seine Tage um Verzeihung zu bitten,
+
+Da Glück einer Ehe war gerettet, —
+
+Wir beide wohnten dann noch den beiden setzten Akten
+des »Films der Wunder« bei.
+
+Als zum Schluß das Licht aufflammte, als Cortleetge dem
+Publikum von der Bühne herab mitteilte, daß Marketter
+<@pagebreak/>
+verhafte! sei und daß Yvonne reuevoll ein neues Leben
+hinter Klostermauern beginnen wolle, da gab es für Harst
+Ovationen, wie wir sie so in der Wesentlichen rote nie
+erlebt haben!! Nie!! Das Publikum raste … — —
+
+Not der Vorstellung waren wir noch) bei Exzellenz zu
+Gast. Auch Cortleetge. Paulchen blieb daheim und … machte
+Kasse …
+
+Er hakt noch ist »Kasse’’ gemacht. Der Film brachte ihm
+einen Monat volle Häuser,
+
+Jetzt lebt »Paulchen Singer um Berlin als … Rentner,
+sammelt Briefmarken, ist Vorstand in acht Wohltätigkeitsvereinen,
+hat geheiratet, und demnächst werden wir bei
+seinem Stammhalter Paten spielen müssen.
+
+Marketter — ja, das. ist eine tolle Geschichte …
+
+Er brach) nach einem halben Jahr aus dem Zuchthaus
+aus, und drei Monate drauf wurde »Schwester Yvonne«
+ans beim französischen Kloster N. entführt.
+
+Man Hat von den beiden nie mehr etwas gehört.
+Mögen sie glückliche sein!! Hochstapler sind sie jedenfalls nicht
+mehr. Die Liebe hat sie geläutert. So schrieb Marketter
+an uns. —
+
+Vielleicht — vielleicht habe im John Marketter doch
+» Nochmals zu erwähnen — — im »Tintenfaß aus Achat«.
+
