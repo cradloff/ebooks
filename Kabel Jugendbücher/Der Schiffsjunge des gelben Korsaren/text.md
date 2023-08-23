@@ -1,32 +1,7 @@
+
 <h1>Der Schiffsjunge des gelben Korsaren.</h1>
 
-
-Eine Erzählung für die Jugend von
-
-
-W. Kabel.
-
-
-
-Mit 20 Illustrationen von
-
-Max Henze.
-
-
-
-Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.
-
-Berlin SO26, Elisabeth Ufer 44
-
-
-Nachdruck verboten. — Alle Rechte vorbehalten. Copyright 1919 by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.
-
-Druck: P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 26.
-
-
-
-Bild 3
-
+<div class="img"><img alt="Ein Junge liegt auf einem Hügel und betrachtet die Landschaft" src="Korsar-03.png" style="width: 100%; height: auto;"/></div>
 
 <h2>1. Kapitel.</h2>
 
@@ -91,7 +66,9 @@ Der Knabe merkte, wie sein Herz schneller zu klopfen begann. Er ahnte, daß die 
 Dann tauchte neben ihm ein Schatten auf. Etwas Schweres, Weiches fiel ihm über den Kopf, und fast in demselben Augenblick fühlte er zwei nur zu kräftige Hände, die seinen Hals wie Eisenklammern umspannten. Der Hilferuf, den er noch ausstoßen wollte, erstickte in einem dumpfen Gurgeln; seine Arme sanken schlaff herab im ersten Schreck, packten dann aber in furchtbarer Todesangst die würgenden Hände, zerrten daran, vergeudeten nutzlos ihre Kräfte gegen die überlegene Stärke des unsichtbaren Feindes.
 
 
-Bild 2
+<div class="img"><img alt="Der Junge wird von hinten von einem Mann am Hals gepackt" src="Korsar-02.png" style="width: 100%; height: auto;"/>
+In demselben Augenblick fühlte er zwei Hände, die seinen Hals
+wie Eisenklammern umspannten.</div>
 
 In demselben Augenblick fühlte er zwei Hände, die seinen Hals wie Eisenklammern umspannten.
 
@@ -188,13 +165,9 @@ Der Mann gehorchte. Inzwischen hatte aber auch der Farbige etwas aus dem Wasser 
 
 Olaf traute seinen Augen nicht. Denn — ein Kind, ein Mädchen, war’s, das nun leise schluchzend vor Ermattung auf das Deck sank.
 
-
-Bild 4
-
-Olaf traute seinen Augen nicht. Ein Mädchen war’s, das nun
-
-leise schluchzend vor Ermattung auf das Deck sank.
-
+<div class="img"><img alt="Auf dem Boot stehen drei Männer, Olaf und ein Mädchen, im Hintergrund geht der Dampfer unter" src="Korsar-04.png" style="width: 100%; height: auto;"/>
+Olaf traute seinen Augen nicht. Ein Mädchen war's, das nun
+leise schluchzend vor Ermattung auf das Deck sank.</div>
 
 Ein Mädchen! Und genau wie dem, den der Maskierte aus dem Wasser gezogen, waren auch diesem Kinde unter den Armen zwei Rettungsringe offenbar mit Leinen so befestigt, daß es nicht herausgleiten konnte.
 
@@ -315,13 +288,10 @@ Scherbaum lachte grimmig dazu. »Aha — das Deck ist wie ausgefegt,« rief er d
 
 Es kam jedoch ganz anders. Vor den enternden Matrosen der Petersburg tauchten plötzlich mit hoch erhobenen Händen mehrere Weiße auf, die sich als die eigentliche Besatzung des deutschen Dampfers Nassovia zu erkennen gaben. Diese sei durch eine Horde chinesischer Passagiere, Kulis und eine Gauklertruppe, erst vor einer Stunde überwältigt worden, wobei zwei der Gelben durch Revolverschüsse verletzt seien.
 
-
-Bild 5
-
+<div class="img"><img alt="einige Weiße stehen mit erhobenen Händen vor den Matrosen, die bewaffnet das Schiff betreten" src="Korsar-05.png" style="width: 100%; height: auto;"/>
 Vor den enternden Matrosen tauchten plötzlich mit hoch erhobenen
-
 Händen mehrere Weiße auf.
-
+</div>
 
 Zunächst wurden nun die unter Deck geflüchteten Chinesen einzeln herausgeholt, nach Waffen durchsucht und dann in einen sicheren Raum unter steter Bewachung eingesperrt. Dies geschah ohne jeden Widerstand von Seiten der Gelegenheits-Piraten, die vom Seeräuberhandwerk offenbar keine Ahnung und nur die ihnen günstigen Umstände hatten ausnutzen wollen, um die Nassovia zu berauben.
 
@@ -344,7 +314,7 @@ So kamen die beiden Seeleute auf Assumoffs Depesche und auf den Piratendampfer z
 Der Steuermann lächelte etwas ungläubig, als der Korsar und dessen Kapitän mit der schwarzen Maske erwähnt wurde. »Landsmann,« sagte er zu dem alten Scherbaum, »glauben Sie denn an ein solches Märchen? Piraten — Unsinn! Wenn die beiden Dampfer Ihrer Reederei unweit der Küste Ceylons gekapert worden wären, hätte dies so lange gar nicht geheim bleiben können, da der Freibeuter doch auch andere Schiffe und nicht nur die Ihres Herrn als ebenso gute Beute weggenommen haben würde. Gäbe es einen solchen Piratendampfer, dann spräche man schon längst in allen Hafenkneipen Indiens und der Sunda-Inseln davon.«
 
 
-Bild 7
+<div class="img"><img alt="Bild des Dampfers auf ruhiger See" src="Korsar-07.png" style="width: 100%; height: auto;"/></div>
 
 
 <h2>4. Kapitel.</h2>
@@ -380,12 +350,10 @@ Olaf dankte dem alten Farbigen, dachte an den vielleicht hungernden Mautner und 
 Als Olaf das Vorderdeck wieder betrat, stellten die farbigen Matrosen, die sämtlich gleichartige Leinenanzüge und weiche, breitkrempige Leinenhüte, alles in Gelbgrau, trugen, gerade vier große Kessel in einer Linie auf; die Kessel waren mit Holz, Papier, Teerstücken und anderen leicht brennbaren Dingen gefüllt.
 
 
-Bild 6
-
+<div class="img"><img alt="mehrere Matrosen tragen große Kessel auf das Deck" src="Korsar-06.png" style="width: 100%; height: auto;"/>
 Als Olaf das Vorderdeck wieder betrat, stellten die farbigen Matrosen
-
 gerade vier große Kessel in einer Linie auf.
-
+</div>
 
 Olaf zerbrach sich den Kopf, wozu die Kessel wohl gebraucht werden sollten, und fragte schließlich den Alten mit dem zerfurchten Gesicht nach der Bedeutung dieser Menge Brennstoff in den eisernen Behältern.
 
@@ -451,15 +419,11 @@ Zu spät! — Der Maskierte war mit zwei langen Sätzen eben auf Deck der Peters
 
 »Hände hoch — keinen Widerstand!«
 
-
-Bild 8
-
+<div class="img"><img alt="Der Maskierte steht mit erhobener Waffe inmitten seiner Leute auf dem Schiff, der Kapitän steht auf der Treppe." src="Korsar-08.png" style="width: 100%; height: auto;"/>
 Der Maskierte war mit zwei Sätzen auf Deck der Petersburg,
-
 riß zwei Revolver aus der Tasche und rief: »Hände hoch —
-
 keinen Widerstand!«
-
+</div>
 
 Und seine fünfzehn Leute hatten ebenso plötzlich wie er Revolver und halblange, indische Hauschwerter in den Händen, schlossen schnell einen Kreis um die Überraschten.
 
@@ -571,12 +535,10 @@ Der Korsarenkapitän stieß ein hartes Lachen aus.
 Da war’s mit der Frechheit des Chinesen vorbei. Er warf sich aufheulend und nicht anders wähnend, als daß der Maskierte ihn bei einer neuen Lüge kurzer Hand niederstoßen würde, lang auf die Planken hin, winselte in feiger Angst ein Geständnis seiner Schuld hervor und fügte noch hinzu:
 
 
-Bild 9
-
+<div class="img"><img alt="Der Chinese kniet vor dem Maskierten	auf dem Deck, im Hintergrund stehen weitere Chinesen" src="Korsar-09.png" style="width: 100%; height: auto;"/>
 Da war’s mit der Frechheit des Chinesen vorbei. Er warf sich
-
 aufheulend auf die Planken hin.
-
+</div>
 
 »Oh, Master nicht vergessen dürfen, daß arme Chines’ es waren, die es Master erst möglich machten, beide Dampfer gleichzeitig zu erbeuten. Master sind große Pirat, wie ich jetzt gemerkt, und Master nicht werden arm Chinaman wegen kleines Versehen töten —«
 
@@ -753,13 +715,10 @@ Von diesen Sesseln waren jetzt nur zwei benutzt — von dem Kinde und jenem Alte
 
 Bei Olafs Eintritt hoben die beiden Gefangenen, die nebeneinander saßen, die Köpfe von einem Buche hoch, in dem sie geblättert hatten. Es war ein großer Band mit zahlreichen Bildern. Dann rief der Alte in schlechtem Englisch:
 
-
-Bild 10
-
+<div class="img"><img alt="Olaf steht in der Kabine, am Tisch sitzen der Alte und das Kind" src="Korsar-10.png" style="width: 100%; height: auto;"/>
 Bei Olafs Eintritt hoben die beiden Gefangenen die Köpfe von
-
 einem Buche hoch, in dem sie geblättert hatten.
-
+</div>
 
 »Sieh da, — der kleine Bursche ist’s, der gestern nacht sich gleichfalls auf dem Kutter befand.« Er stand schnell auf, trat auf Olaf zu und musterte ihn von Kopf bis Fuß.
 
@@ -889,10 +848,9 @@ Da gerade betrat Olaf das Deck. Noch lag das Licht des Scheinwerfers voll auf de
 Der Knabe lief auf den Kapitän zu, der ihn mit den hastigen Worten empfing: »Ich weiß nicht, wie diese Begegnung mit dem Schiffe drüben für uns ausgehen wird. Du bist nicht mehr Schiffsjunge der Kavete. Ich will nicht, daß Du vielleicht unser Schicksal teilst. Betrachte Dich nur mehr als meinen Gefangenen. Begib Dich —«
 
 
-Bild 11
-
+<div class="img"><img alt="Olaf läuft auf den Kapitän zu, der mit dem Fernrohr in der Hand auf dem Deck steht" src="Korsar-11.png" style="width: 100%; height: auto;"/>
 Der Knabe lief auf den Kapitän zu.
-
+</div>
 
 Vom Vorschiff des Piraten war schon vorher auf den Scheinwerfer drüben ein lebhaftes Gewehrfeuer eröffnet worden. Es hatte Erfolg. Der Scheinwerfer erlosch. Dies geschah in demselben Augenblick, als der Korsarenkapitän dem Knaben den Befehl geben wollte, vorläufig in seiner Kabine zu bleiben. Doch nur die Worte »Begib Dich —« kamen noch über seine Lippen, denn gleichzeitig mit dem Verschwinden des weißen Strahlenkegels und mit dem Eintritt einer jetzt noch tiefer erscheinenden Dunkelheit, als sie es in Wirklichkeit war, zerriß ein neuer Knall die Luft, dem auf der Kavete ein furchtbares Krachen und Splittern folgte. Eine Granate hatte dicht vor dem Mittelaufbau ein gutes Stück der Reling weggerissen und auch in den Deckplanken arge Verwüstungen angerichtet.
 
@@ -1018,12 +976,10 @@ Der große Dampfer beging nicht den Fehler des Russen, blieb vielmehr in halber 
 Das Stampfen der Maschine des Dampfers war selbst in diesem gelbbraunen Nebelmeer auf recht weite Entfernung zu hören. Der Korsarenkapitän, der diesen Angreifer längst als Frachtschiff neuester Bauart erkannt hatte, führte die Kavete von hinten an den Feind heran, dessen Bordhöhe fast die doppelte des Korsaren war. Unbemerkt wurde vom Bug aus eine leichte Bambusleiter an das Heck des Feindes gehakt. Als erster kletterte der Maskierte — denn jetzt trug er wieder den schwarzen Seidenstoff vor dem Gesicht — auf das Achterdeck des Gegners, gefolgt von zwanzig seiner erprobten Leute.
 
 
-Bild 12
-
+<div class="img"><img alt="Der Maskierte klettert auf einer Leiter vom Boot auf das Frachtschiff. Im Boot stehen weitere Leute bereit." src="Korsar-12.png" style="width: 100%; height: auto;"/>
 Als erster kletterte der Maskierte auf das Achterdeck des Gegners,
-
 gefolgt von zwanzig seiner erprobten Leute.
-
+</div>
 
 Olaf Kersten hatte die Vorbereitungen zu diesem Entermanöver klopfenden Herzens mit angesehen, hatte dann, ohne jemand zu fragen, als letzter die Leiter betreten.
 
@@ -1169,7 +1125,7 @@ Als Olaf merkte, daß der Wald hier ein Ende hatte, wollte er wieder umkehren. E
 Mautner! Karl Mautner! — Was war’s, das den Knaben plötzlich zusammenfahren ließ? Was weitete seine Augen in ungläubigem Staunen? Was trieb die frische Farbe aus seinen Wangen?
 
 
-Bild 13
+<div class="img"><img alt="Olaf steht halb verdeckt hinter einem Baum und beobachtet einen Mann der zu ihm herüber sieht" src="Korsar-13.png" style="width: 100%; height: auto;"/></div>
 
 Was war’s, das den Knaben plötzlich zusammenfahren ließ?
 
@@ -1246,10 +1202,9 @@ Er stellte das Fernglas auf die Lagerfeuer ein, die mit bloßem Auge nur wie rot
 Dann horchte Olaf plötzlich auf, lauschte angestrengt.
 
 
-Bild 14
-
+<div class="img"><img alt="Olaf kniet auf der Bergkuppe und blickt auf die Landschaft darunter" src="Korsar-14.png" style="width: 100%; height: auto;"/>
 Dann horchte Olaf plötzlich auf und lauschte angestrengt.
-
+</div>
 
 Von Osten her wehte jetzt eine schwache Nachtbrise, kaum zu spüren. Und doch war’s dem Jungen gewesen, als bringe sie ein gleichmäßiges Geräusch von der See her mit herüber, — ein leises Rattern.
 
@@ -1343,12 +1298,10 @@ Doch — gerade als der erste Gelbe umknickte, erhob sich hinter dem zweiten Ola
 Olaf schlüpfte schon auf den Kapitän zu. Hier bekam der persische, haarscharfe Dolch die erste Arbeit. Die Stricke fielen herab, und — der Befreite sank stöhnend vornüber. Eine Kugel hatte ihm den Oberschenkel durchbohrt, eine zweite den Kopf leicht gestreift.
 
 
-Bild 15
-
+<div class="img"><img alt="Olaf schneidet mit einem Messer den Kapitän los, der an einen Baum gefesselt ist. Im Hintergrund sind weitere Gefangene an Bäumen und einige Leichen am Boden." src="Korsar-15.png" style="width: 100%; height: auto;"/>
 Olaf schlüpfte schon auf den Kapitän zu. Hier bekam der
-
 persische, haarscharfe Dolch die erste Arbeit.
-
+</div>
 
 Die Energie des seltsamen Mannes siegte über die Schwäche des matten Leibes. Er raffte sich auf, stand auf den Füßen. Olaf stützte ihn.
 
@@ -1415,10 +1368,9 @@ Nach einer Weile abermals drei Rucke. Aribu kam also mit dem Kinde zurück, das 
 Es gelang. Jetzt hob er die leichte Last empor. Mautner nahm ihm das ohnmächtige Mädchen ab, lang auf dem Vorderdeck liegend. Und Aribu trat zum zweiten Male den gefahrvollen Weg an. Er blutete bereits aus mehreren Wunden, die ihm die scharfen Korallenäste gerissen hatten.
 
 
-Bild 16
-
+<div class="img"><img alt="Mautner nimmt Aribu das ohnmächtige Mädchen ab, Olaf steht neben ihm" src="Korsar-16.png" style="width: 100%; height: auto;"/>
 Mautner nahm ihm das ohnmächtige Mädchen ab.
-
+</div>
 
 Der Korsarenkapitän bemühte sich in der Kajüte um das bewußtlose Dorchen. Sehr bald kam die Kleine zu sich, nachdem sie eine Menge Seewasser erbrochen hatte. Mautner half, ihr etwas verdünnten Wein einflößen.
 
@@ -1531,12 +1483,10 @@ Mautner machte große Augen, als er Aribu durch den Kamin nach oben verschwinden
 Mautner war sofort bereit zu diesem kurzen Ausflug in dem Aluminiumfahrzeug. Bot dieser doch eine Abwechslung, die durchaus des Steuermanns einem Abenteuer nie abgeneigtem Sinn entsprach. — Sehr bald hatten sie den engen Kanal hinter sich und fuhren nun dicht am Fuße des Bergkegels entlang bis dorthin, wo der Feuerschein in der brennenden Kavete das Becken noch immer taghell erleuchtete. Hier legten sie im Schutz einer Lavaaufhäufung an und konnten nun auch das kaum hundert Meter entfernte Lager bequem überblicken. Zu ihrer großen Überraschung entdeckten sie jedoch weit und breit keine lebende Seele.
 
 
-Bild 17
-
+<div class="img"><img alt="Olaf und Mautner sitzen im Boot und beobachten das Lager. Im Hintergrund leuchtet das brennende Schiff." src="Korsar-17.png" style="width: 100%; height: auto;"/>
 Hier konnten sie nun auch das kaum hundert Meter entfernte
-
 Lager bequem überblicken.
-
+</div>
 
 Mautner erklärte, hierfür gebe es nur eine Erklärung: Die Meuterer mußten die Anwesenheit des Kreuzers an der Ostseite der Gruppe irgendwie erfahren haben und hatten sich anderswohin zurückgezogen, da sie annehmen mußten, das Kriegsschiff würde gerade an diese durch den Feuerschein kenntlich gemachte Stelle zuerst einen Landungstrupp senden.
 
@@ -1591,12 +1541,10 @@ Aribu hatte schon Mautner zugewinkt, zeigte ihm, wie der Lavablock zur Seite ged
 Alle Hände regten sich. Im Umsehen waren die Kisten verschwunden, die Fässer, die Decken.
 
 
-Bild 18
-
+<div class="img"><img alt="Mehrere Männer stehen um ein Loch im Boden in dem ein Mann steht und die Kisten entgegennimmt." src="Korsar-18.png" style="width: 100%; height: auto;"/>
 Alle Hände regten sich. Im Umsehen waren die Kisten verschwunden,
-
 die Fässer, die Decken.
-
+</div>
 
 Als letzte blieben Aribu und Mautner hier oben, leuchteten nochmals jeden Winkel ab, stiegen dann erst den anderen auf einer Holzleiter in die untere Höhle nach, indem sie den Lavablock gemeinsamxvii von unten über die Öffnung schoben. In diesen war ein starker, eiserner Haken in einer Vertiefung der Unterseite mit Blei eingegossen. Eine Kette, die bis in die zweite Höhle hinabreichte, konnte hier durch Felsstücke so schwer belastet werden, daß es für Menschenkräfte dann unmöglich war, den Block auch nur um Millimeter zu verschieben. Jedenfalls bildete dieser einen Verschluß des Zugangs in die untere Höhle, wie er kaum besser und sicherer hätte angelegt werden können.
 
@@ -1619,10 +1567,9 @@ Mautner war’s, der jetzt leise ausrief:
 »Gold ist’s — Goldadern sind’s, die das Gestein durchziehen!«
 
 
-Bild 19
-
+<div class="img"><img alt="Mautner steht mit der Laterne in der Hand da, neben ihm Olaf und Aribu" src="Korsar-19.png" style="width: 100%; height: auto;"/>
 »Gold ist’s — Goldadern sind’s, die das Gestein durchziehen!«
-
+</div>
 
 »Ja, Gold, reines Gold!« erwiderte Aribu ernst. »Nicht Millionen-, Milliardenwerte dieses edlen, sündigen Metalls lagern hier, das Menschen beglückt, Menschenherzen vergiftet — Laßt uns die Wasserkannen füllen. Das Gold wird gegen unseren Durst nichts helfen!«
 
@@ -1922,12 +1869,10 @@ Plötzlich hielt das Netz an, etwa drei Meter über den Bestien, die jetzt, durc
 Und dann tat sich eine in einer Höhe mit dem Netz liegende kleine eiserne Tür auf. Assumoff und der alte Brümmel wurden sichtbar, jeder mit einer sehr hellen Laterne in der Hand.
 
 
-Bild 20
-
+<div class="img"><img alt="Mautner und drei andere Männer stehen in dem Netz und blicken zu Assumoff. Unter ihnen laufen drei Tiger umher." src="Korsar-20.png" style="width: 100%; height: auto;"/>
 Und dann tat sich eine in einer Höhe mit dem Netz liegende
-
 kleine eiserne Tür auf.
-
+</div>
 
 Mautner hatte Brümmel kaum erkannt, als er auch schon ausrief: »Ah — es gibt keine göttliche Gerechtigkeit mehr auf Erden! Brümmel entflohen! Das Verbrechen siegt! Alles — alles war umsonst.«
 
@@ -2002,11 +1947,9 @@ Die Bestie heulte auf. Und mit drei Kugeln im rotgelben Leibe sprang sie jetzt a
 Frau Assumoff war in die Knie gesunken. Ihr Gatte aber ergriff seinen Schreibtischsessel, holte damit zum Schlage aus. Wie ein gelber Blitz fuhr’s da auf ihn los. Der Sessel fiel zur Seite. Und unter der Bestie lag Assumoff; stinkender Atem schlug ihm aus dem Raubtierrachen entgegen; seine linke Schulter wurde von der Pranke der Bestie zerfleischt; das furchtbare Gebiß öffnete sich dicht über seinem Halse.
 
 
-Bild 21
+<div class="img"><img alt="Ein Tiger springt Assumof an, im Hintergrund stehen zwei Frauen." src="Korsar-21.png" style="width: 100%; height: auto;"/></div>
 
-Wie ein gelber Blitz fuhr’s da auf ihn los. Der Sessel fiel zur
-
-Seite.
+Wie ein gelber Blitz fuhr’s da auf ihn los. Der Sessel fiel zur Seite.
 
 
 Olaf hatte schnell den ersten Schreck von sich abgeschüttelt. Er sah Assumoff hintenüberstürzen unter dem Ansprung des Tigers, riß seinen kleinen Revolver aus der Tasche, glitt von rückwärts an den gelben Tierkörper heran, hielt die Mündung hinter das kurze, spitze Ohr, drückte ab — nochmals ab — wieder ab.
