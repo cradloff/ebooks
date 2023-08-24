@@ -1,6 +1,6 @@
 <@pagebreak/>
 
-Der Film der Wunder …
+<h1>Der Film der Wunder.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Paulchen.</h3>
@@ -17,56 +17,56 @@ zeigt seit einiger Zeit eine ausgesprochene Vorliebe für
 die Heerstraße des Touristenverkehrs in Ostasien, Westindien,
 Australien und Niederländisch-Indien. Wo man früher dem
 jedem kundigen Auge leicht erkennbaren Typ des vornehm
-aufgemachten Glücksritters niemals. oder selten begegnete:
-Arzt trifft man ihn aller« ten an! Eine Probe hiervon gab
+aufgemachten Glücksritters niemals oder selten begegnete:
+Jetzt trifft man ihn allerorten an! Eine Probe hiervon gab
 ich im »Grünen Leuchtstab«. Eine weitere folgt hier. —
 
 <@pagebreak/>
-Wir waren von Benares ohne Aufenthalt mit dem West.
-Expreß bis Bombay) gefahren, immerhin eine recht anstrengende
+Wir waren von Benares ohne Aufenthalt mit dem Westexpreß
+bis Bombay gefahren, immerhin eine recht anstrengende
 Tour von rund achtundvierzig Stunden. Bei der Abreise
 in Benares abends neun Uhr waren in unserem Schlafwagen
 nur drei Doppelkabinen belegt. Wir hatten keinen Grund,
 irgendwie vorsichtig oder mißtrauisch zu sein, da wir in
-Benares mit all den Leuten, die wir als Gegner zu be.
-trachten hatten, gründlichst aufgeräumt hatten. Der Leser
-weiß?Bescheid. Ein Name genügt: Oberst Lord Gundamoore!
-Er war tot. Und was von seiner Sippe übrig, daß-. im Gefängnis.
+Benares mit all den Leuten, die wir als Gegner zu betrachten
+hatten, gründlichst aufgeräumt hatten. Der Leser
+weiß Bescheid. Ein Name genügt: Oberst Lord Gundamoore!
+Er war tot. Und was von seiner Sippe übrig, saß im Gefängnis.
 Nicht einer war entkommen.
 
-Kurz vor Abfahrt des Zuges. — — ich lehnte im Fenster
+Kurz vor Abfahrt des Zuges — ich lehnte im Fenster
 meiner Kabine — erschien noch ein Paar auf dem Bahnhofs,
-das unwillkürlich auffallen mußte.?
+das unwillkürlich auffallen mußte.
 
 Er ein schlanker Herr mit Monokel, mit schlichter Eleganz
 gekleidet, sie eine Schönheit von pikantem Reiz, ebenso
 elegant. Hinter ihnen zwei Gepäckträger, die den Herrschaften
-»nun Koffer, Schirme, Handtaschen, Mäntel in die neben
-»er unsrigen gelegene Doppelkabine reichten.
+dann Koffer, Schirme, Handtaschen, Mäntel in die neben
+der unsrigen gelegene Doppelkabine reichten.
 
 Etwas war mir an den beiden aufgefallen: sie hatten es
 sehr eilig, sehr … Und in beider Augen lag jener Ausdruck
 von Spannung und Scheu, als ob sie mit irgendeinem
-peinlich;en Zwischenfall rechneten.
+peinlichen Zwischenfall rechneten.
 
-Harst und ich hatten die Kabinen 5 und !. Das Paar
+Harst und ich hatten die Kabinen 5 und 6. Das Paar
 Nummer 7 und 8. — Als der Zug den Bahnhof verließ
 und über die neue Gangesbrücke in mäßigem Tempo hinwegglitt,
-erschien die Dame gleichfalls am »Fenster, bitte mit:
-stutzig an und schaute auf den belebten heiligen Stirn:
-i’inab.
+erschien die Dame gleichfalls am Fenster, blickte mich
+stutzig an und schaute auf den belebten heiligen Strom
+hinab.
 
 Ich beobachtete sie heimlich. Unzweifelhaft war sie eine
 Schönheit. Sie hatte den Hut abgelegt. Ihr dunkles Haar,
-ganz kurz geschnitten, konnte den Netz dieser schmalen, besetzten
-Züge nicht beeinträchtigen. Ihre seine, etwas kecke
-Nase und die vollen, sinnlichen Hervor, dazu eine vollendet
+ganz kurz geschnitten, konnte den Reiz dieser schmalen, belebten
+Züge nicht beeinträchtigen. Ihre feine, etwas kecke
+Nase und die vollen, sinnlichen Lippen, dazu eine vollendet
 <@pagebreak/>
 geformte Kinnpartie und Augen von melancholischer Tiefe:
-im taxierte auf eine Russin.
+ich taxierte auf eine Russin.
 
-Harst rief mir zu, ich solle das Fenster!Stricken. Das
-ganze MüdengesFZmeiß käme Herein.
+Harst rief mir zu, ich solle das Fenster schließen. Das
+ganze Mückengeschmeiß käme Herein.
 
 So mußte ich denn die schöne Nachbarin in Ruhe
 lassen.
@@ -80,57 +80,57 @@ dem Bahnhof gekauft hatte.
 
 Ich erzählte von dem »Paar«,
 
-»Laß mietet in Ruhe damit,/« meinte er lachend. »Jetzt
+»Laß mich in Ruhe damit,« meinte er lachend. »Jetzt
 haben wir Ferien … Und wenn nebenan ein Mord verübt
 wird, ich rühre keinen Finger. Ich will mich ausschlafen.
-—» Gute Nacht, mein Alter …’
+— Gute Nacht, mein Alter …«
 
-Ein Handschuh …
+Ein Händedruck …
 
 Und ich war allein, setzte mich auf den Bettrand und
 begann mir die Halbschuhe aufzuschnüren.
 
-Aber — ich schnürte wieder zu, was ich Taschen g6&
-sofort. Irgend einige in mir war stärker als die Müdigkeit.
+Aber — ich schnürte wieder zu, was ich soeben gelockert.
+Irgend etwas in mir war stärker als die Müdigkeit.
 Ich ließ das Jalousiefenster wieder leise herab, lehnte mich
 hinaus …
 
-Es war dunkel geworden, Der Zug raste zumeist dich!
-am Ganges entlang gen Allahabad. Von meiner Abhanden
+Es war dunkel geworden. Der Zug raste zumeist dicht
+am Ganges entlang gen Allahabad. Von meiner Pikanten
 war nichts mehr zu sehen.
 
-Und doch blieb im am Fenster.
+Und doch blieb ich am Fenster.
 
-Irgendwie hatte dieses Paar, davon war ich Abenteuer.
+Irgendwie hatte dieses Paar, davon war ich überzeugt,
 kein ganz reines Gewissen.
 
 Ich vergegenwärtigte mir ihre Gesichter, ihr ganzes Benehmen
 … Ich sah im Geiste die Gepäckträger mit den
 Koffern … Seltsam, daß sie diese Koffer mit in die Kabinen
-genommen »hatten. Wer tut das?! Das Nachtzeug — dafür
+genommen hatten. Wer tut das?! Das Nachtzeug — dafür
 genügen doch die Handtaschen!
 
 <@pagebreak/>
-Ich nahm eine Zigarre … Ich wurde immer »munterer.
+Ich nahm eine Zigarre … Ich wurde immer munterer.
 
 Die Nacht war bewölkt, es regnete nur ganz leicht.
 Ich sah neben dem Bahndamm Dörfer vorüberfliegen, sah
-die bohrenden Feuer der Ziegenhirten, sah die Lichterreihen
+die lohernden Feuer der Ziegenhirten, sah die Lichterreihen
 kleinerer Bahnhöfe — — nur Lichtstreifen … Und mich
-überkam allmählich jene seltsame Stimmung, ’der vielleicht
-alle die unterliegen, denen eine See im Säuglingsbetihen
+überkam allmählich jene seltsame Stimmung, der vielleicht
+alle die unterliegen, denen eine Fee im Säuglingsbettchen
 als Geschenk eine kleine, ganz kleine dichterische Gabe, Begabung
 gespendet hat.
 
-Seltsame Stimmung der weltschmerzlihen Abkehr von
+Seltsame Stimmung der weltschmerzlichen Abkehr von
 allem Irdischen …
 
-Auch das gibt es bei mir. Zuweilen. Wut dann grüble
+Auch das gibt es bei mir. Zuweilen. Und dann grüble
 ich Über den verborgenen Sinn des Daseins nach: ob
 wir Menschen nur deshalb in die Welt gesetzt sind, um dem
-Grabe entgegenzuschhwanken, — ob nicht unser »Leben« doch
+Grabe entgegenzuschwanken, — ob nicht unser »Leben« doch
 nur, wie’s der Brahmanismus lehrt, nur eine Vorstufe eines
-anderen, vervollkommneten neuen »Fußsehne« wäre …
+anderen, vervollkommneten neuen »Da-seins« wäre …
 
 Wie lange ich so am Fenster gelehnt?
 
@@ -143,39 +143,39 @@ des Ganges gelegen, — für den Expreß nur Haltepunkt
 
 Ich beugte mich vor …
 
-Wirklich —: das Paar stieg aus! Verschlafene Berg«-
-Träger stürzten herbei …
+Wirklich —: das Paar stieg aus! Verschlafene Gepäckträger
+stürzten herbei …
 
-Schuhe, meine Schöne verschwand im Bahnhofsgebäude.
+Schade, meine Schöne verschwand im Bahnhofsgebäude.
 
 Aber der Zug blieb noch. Ich fragte einen der Schaffner:
-der Salonwagen des Gouverneurs von -Allahabad würde
+der Salonwagen des Gouverneurs von Allahabad würde
 hinten noch angehängt.
 
 Der Gouverneur war mir gleichgültig. Aber anderes
-interessierte mich Dom wieder. Zwei Herren kamen auf den
+interessierte mich doch wieder. Zwei Herren kamen auf den
 Bahnsteig, der eine ziemlich korpulent, der andere hager, beide
-mit Brillen, beide in Flanellanzügen, darüber dünne Amt
-hänge, jeder mit einer Handtasche.
+mit Brillen, beide in Flanellanzügen, darüber dünne Umhänge,
+jeder mit einer Handtasche.
 
 <@pagebreak/>
-Ei? verhandelten mit dem Schaffner unseres Schlaf«
-Wagens, stiegen ein, und dann — eine leise Erschütterung,
+Sie verhandelten mit dem Schaffner unseres Schlafwagens,
+stiegen ein, und dann — eine leise Erschütterung,
 der Salonwagen war angekuppelt, und der Zug glitt zur
 offenen Halle hinaus,
 
 Von Allahabad biegt die Strecke nach Süden ab. Eintönige
 Landschaft … Felder … Felder, Kanäle … Felder …
-Kanäle und Buschwildimis.«
+Kanäle und Buschwildnis.«
 
 Ich ging schlafen.
 
 Meine Schöne war vergessen. —
 
-Morgens um halb acht, als. der Zug an dem Eisenbahnkreuzungspunkt
+Morgens um halb acht, als der Zug an dem Eisenbahnkreuzungspunkt
 Murwara hielt, und der Speisewagenkellner
 uns gerade das Frühstück gebracht hatte, das in Haralds
-Kabine auf dem Klapptisch her eingenommen werden sollte,
+Kabine auf dem Klapptischchen eingenommen werden sollte,
 hörten wir im Gange einen erregten Wortwechsel …
 
 Der farbige Kellner flüsterte:
@@ -184,12 +184,12 @@ Der farbige Kellner flüsterte:
 
 Harald knurrte: »Der Deibel hol’ sie!«
 
-Der Kellner größte mit seiner Wissenschaft:
+Der Kellner protzte mit seiner Wissenschaft:
 
 »In Benares waren ein Herr und eine Dame nebenan
 in sieben und acht eingestiegen, — in Urzapur verließen sie
 den Zug wieder …: Verbrecher!! In Benares haben sie
-den Laden des Diamantenhändlers Schacht Mirza ausgeraubt.
+den Laden des Diamantenhändlers Achami Mirza ausgeraubt.
 — Nun ist der eine Herr, der jetzt in sieben schläft,
 wütend, weil er geweckt worden ist.«
 
@@ -205,221 +205,221 @@ des Juwelenraubes und deutete dann auf mich: »Mein
 Freund hat das Paar gesehen … Die Dame soll sehr schön
 gewesen sein …«
 
-las war jedenfalls für mich. ein erheblich kalter Wasserstrahl:
+Das war jedenfalls für mich ein erheblich kalter Wasserstrahl:
 <@pagebreak/>
 Meine stille, kurze Flamme eine Gaunerin — —
-Ahntest …
+schade!!
 
 Der Polizeiinspektor von Murwara bat uns allen Ernstes,
 wir möchten doch unsere Reise unterbrechen und bei der
 Verfolgung der Diebe helfen, also mit dem nächsten Zuge
-mag Urzapur, wo das Paar ausgestiegen, zurückkehren — …
-»Der persischer Diamantenhändler hat Steine für androht umrissenen
-eingebüßt, und er wird sicherlich mit einer Belohnung
+nach Urzapur, wo das Paar ausgestiegen, zurückkehren …
+»Der persische Diamantenhändler hat Steine für anderthalb
+Millionen eingebüßt, und er wird sicherlich mit einer Belohnung
 nicht knausern, Herr Harst …«
 
-»… die im ausschlagen würde, da ich reich genug bin …
-— Abgesehen davon: Schraut und ich haben Sehnsucht
+»… die ich ausschlagen würde, da ich reich genug bin …
+— Abgesehen davon: Schraut und ich haben Sehnsucht nach
 Berliner Luft. Wir haben bereits telegraphisch Plätze auf
-dem Darunter »Kandanoor« belegt … Tut mir leid, Inspektor
+dem Dampfer »Kandanoor« belegt … Tut mir leid, Inspektor
 …« —
 
 So fuhren wir denn weiter, frühstückten und schlenderten
-nachher durch den Zug, trafen im Speisewagen einen Ab
-kannten aus Bombay, einen Landsmann, der dort aus
-halbe Jahr etwas Neues anfing, ohne es je auf den grüner
+nachher durch den Zug, trafen im Speisewagen einen Bekannten
+aus Bombay, einen Landsmann, der dort alle
+halbe Jahr etwas Neues anfing, ohne es je auf den grünen
 Zweig zu bringen.
 
-Paar Singer hieß und heißt diese« Unglückswurm. Sein
-
-Vergangenheit war hellster Sonnenglanz: Reiche Steil,
-Studium, Reisen, — — bis die Inflation den ehrerbietig
+Paul Singer hieß und heißt dieser Unglückswurm. Seine
+Vergangenheit war hellster Sonnenglanz: Reiche Eltern,
+Studium, Reisen, — — bis die Inflation den elterlichen
 Mammon wegfegte.
-Zurzeit besaß Paulchen, im übrigen ein 1ce.ter, lieben:-
-würdiger Moos«, ein Kino in Bombay, stolz Aktentaschen!-;
-genannt, Er war leidlich zufrieden mit den Einnahme.:,
-betonte, daß ihm nur mal eine »wirkliche Kingston« fehlte.
-um auch das »bessere« Publikum in seinen Kunsttempel 311
-losen …
+
+Zurzeit besaß Paulchen, im übrigen ein netter, liebenswürdiger
+Mensch, ein Kino in Bombay, stolz Atlanta-Theater
+genannt. Er war leidlich zufrieden mit den Einnahmen,
+betonte, daß ihm nur mal eine »wirkliche Attraktion« fehlte,
+um auch das »bessere« Publikum in seinen Kunsttempel zu
+locken … —
 
 Also: Skat, viele Stunden!
 
-Paulchen war in Allahabad gewesen, um dort auf ei.:ct
-Auktion Filme zu kaufen — abgespielte Dinger »Reg0 …-
-Birne«, zerkratzt …«
+Paulchen war in Allahabad gewesen, um dort auf einer
+Auktion Filme zu kaufen — abgespielte Dinger »Regenfilme",
+zerkratzt …«
 
 »… Für meine Hafenkundschaft allemal gut genug …«
 sagte er achselzuckend,
 
 <@pagebreak/>
-Am »Nebentisch saßen die Leider älteren bebrillten Herren,
+Am Nebentisch saßen die beiden älteren bebrillten Herren,
 die in Urzapur zugestiegen waren, — steiflederne Engländer,
-verborgen hinter Zeitungen, andauernd Whisky und Tod.
-schlüpfend, .—
+verborgen hinter Zeitungen, andauernd Whisky und Soda
+schlürfend. —
 
-Aber auch Palastes ging vorüber, und als wir in
-Bombay anlangten, lud Paulchen uns zu sich ein. Nie:
+Aber auch das alles ging vorüber, und als wir in
+Bombay anlangten, lud Paulchen uns zu sich ein. Unser
 Dampfer stach erst am folgenden Abend in See, und Paulchens
 Einladung ausschlagen war unmöglich.
 
-Sein Kunsttempel lag unweit vom Vikrtoriadsck in der
-schmalen Hoftür-Street an der Ecke des Stern-Platzes.
-Von außen wirkte die Sache sehr ungalant, und auch die
-Inneneinrichtung hatte Paulchen mit seinen letzten Spricht:
-durchaus ansprechend herausgeputzt. Ursprünglib war die
-Atlanta ein Variete-Theater gewesen, dem die Sittenpolize:
-dann jedoch die Gurgel zugedrückt hatte, weil das Pension:
+Sein Kunsttempel lag unweit vom Viktoriadock in der
+schmalen Haskill-Street an der Ecke des Green-Platzes.
+Von außen wirkte die Sache sehr imposant, und auch die
+Inneneinrichtung hatte Paulchen mit seinen letzten Groschen
+durchaus ansprechend herausgeputzt. Ursprünglich war die
+Atlanta ein Variete-Theater gewesen, dem die Sittenpolizei
+dann jedoch die Gurgel zugedrückt hatte, weil das Programm
 nicht zweideutig, sondern eindeutig war.
 
-Hinter der ehemaligen Bühne gab es noch einen Anbo’!
-mit vier Zimmern, Küche, Bad, Balkon, und dort Lohn:c
-jetzt Paulchen, betreut von einem chinesischen Koch nicht«
-drei Dienern, die abends Platzanweiser im Kino spielte
-während Paulchen an der Flusse saß.
+Hinter der ehemaligen Bühne gab es noch einen Anbau
+mit vier Zimmern, Küche, Bad, Balkon, und dort wohnte
+jetzt Paulchen, betreut von einem chinesischen Koch und
+drei Dienern, die abends Platzanweiser im Kino spielten,
+während Paulchen an der Kasse saß.
 
-»Trennt ist die Einleitung des »Films der Wunder« 31:
+Hiermit ist die Einleitung des »Films der Wunder« zu
 Ende.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Der Mann mit der Ei: alter.</h3>
+<h3>Der Mann mit der Filmidee.</h3>
 
-»Wenn man den K! turfortschritt eines Landes nach der
-Anzahl der Kinotheater bewerten wollte, so müßt? Jan
+»Wenn man den Kulturfortschritt eines Landes nach der
+Anzahl der Kinotheater bewerten wollte, so müßte man
 Bombay als Hauptort des westlichen Teiles Indiens den
-Preis zuerkennen,« sagte Paulchen beim Frühstü. »Die
-Konkurrenz ist ungeheuer. In Black Town! der Eingeborenenstadt,
-gibt es allein zehn Kinos, Hier im Häfen- und Europäerviertel
-fünf und auf den Malabar Hills! dem Villenvorort,
-zwei. Wie ich schon im Zuge Erwähnte,« lieber Harst: mir
-fehl! ein »Folgen«, der alle Schichten der Bevölkerung
-gleiSckmäßig anzieht. Bringe ich einen Detektivfilm, so habe
-ich? nur Matrosonpuv … Siam, bringe ich was Besseres, etwa
+Preis zuerkennen,« sagte Paulchen beim Frühstück. »Die
+Konkurrenz ist ungeheuer. In Black Town, der Eingeborenenstadt,
+gibt es allein zehn Kinos. Hier im Hafen- und Europäerviertel
+fünf und auf den Malabar Hills, dem Villenvorort,
+zwei. Wie ich schon im Zuge erwähnte, lieber Harst: mir
+fehlt ein »Schlager«, der alle Schichten der Bevölkerung
+gleichmäßig anzieht. Bringe ich einen Detektivfilm, so habe
+ich nur Matrosenpublikum, bringe ich was Besseres, etwa
 wie letztens Metropolis, ist die Bude leer. Es ist ein Elend.«
 
-Wir saßen auf dem uberdichten Ballon von Binulchenes
-Behausung, es regnete natürlich, denn c- war Januar, und
-wir genossen die berückende Rücksicht auf einen winzigen
-Hof, in dem zwei Palmen nach Licht und Lust! Pziqzuen, und
+Wir saßen auf dem überdachten Ballon von Paulchens
+Behausung, es regnete natürlich, denn es war Januar, und
+wir genossen die berückende Aussicht auf einen winzigen
+Hof, in dem zwei Palmen nach Licht und Luft lechzten, und
 auf die kahlen Fronten riesiger Speicher,
 
 Harald war maulfaul und offenbar mit seinen Gedanken
-weiß So?! wo. Auf seinen Knien lag der »Wo:Platz Recorder«,
+weiß Gott wo. Auf seinen Knien lag der »Bombay Recorder«,
 ein Sensationsblatt, das stets mit neuesten smarten Ereignissen
-geholt war: Verbrechen, Unfällen, Scissäverlusten, Gesellschaftsklatsch.
+gespickt war: Verbrechen, Unfällen, Schiffsverlusten, Gesellschaftsklatsch.
 — Politik fehlte ganz.
 
 In diesem verfeinerten Revolverblatt hatte natürlich auch
 <@pagebreak/>
-Ein langer Artikel über die Beraubung des Persers in Bez
+Ein langer Artikel über die Beraubung des Persers in 
 Benares gestanden. Ich möchte die Hauptpunkte dieses geschickt
-»aufgewichsten Artikels hier wiederholen, da sie so recht
-»zeigen, wie sein das Gannerpärhen in diesem Falle ge
-»arbeitet hatte.
+aufgewichsten Artikels hier wiederholen, da sie so recht
+zeigen, wie fein das Gaunerpärchen in diesem Falle gearbeitet
+hatte.
 
-— … Schnur Mirza besaß im Europäerviertel in Benares
+Achami Mirza besaß im Europäerviertel in Benares
 ein eigenes, modernes Haus, in dem sich unten zwei Läden
 mit je Zwei Schaufenstern befanden: der seine, Juwelen und
 Goldwaren, und eine Drogerie. An dem betreffenden Tage
 (am Morgen unseres Abreisetages also) war, von Kalkutta
-kommend, im Statue-»Hotel gegenüber Gehaust Laden ein
+kommend, im Glarne-Hotel gegenüber Achamis Laden ein
 Ehepaar abgestiegen, Major Edward Pooc aus Singapore
-»angeblich, — nur für einen Tag. Abende wollten die sehr
+angeblich, — nur für einen Tag. Abends wollten die sehr
 feudalen Herrschaften weiter nach Bombay. Mittags betraten
-sie Gehaust Laden und kauften für 5000 Rupien altertümslichen
-Stimmt, bezahlten bar und erklärten, sie würden nachmittags
-wiederkommen. Sie kamen auch, kurz vor Geschäfts
-Schluß, wenige Minuten vor acht Uhr. Verlauf hatte seine
+sie Achamis Laden und kauften für 5000 Rupien altertümlichen
+Schmuck, bezahlten bar und erklärten, sie würden nachmittags
+wiederkommen. Sie kamen auch, kurz vor Geschäftsschluß,
+wenige Minuten vor acht Uhr. Achami hatte seine
 Verkäuferin und den Ladendiener bereits weggeschickt und
 auch die eisernen Rolladen der Fenster schon herabgelassen.
-Das Paar/ließ sich die Brillanten vorlegen. Als der Perser
+Das Paar ließ sich die Brillanten vorlegen. Als der Perser
 den modernen Tresor, um die Steine herauszunehmen, geöffnet
-hatte, rate ihn der Major bei der Kehle. Gleichzeitig
+hatte, packte ihn der Major bei der Kehle. Gleichzeitig
 ließ die schöne Frau Pooc die Eisenjalousie der Tür
-Mr deren Lärm den Hilferuf Üchamis übertönte.
-Die beiden fesselten und? knebelten den Perser, suchten von
-den Edelsteinen das Serie heraus und verschwanden durch
-Privoatkontor, betraten zum Schein- noch den Laden des
-Er. quer, kennen Mundwasser, Parfüm, Seife, Handbürste
-und vier VFadogummischwägm me und begaben sich ins Hotel,
-stießen ihre Koffer zum Bazoyuzyof schaffen und bestiegen —
-wie im beobachte! — kurz vor der Abfahrt den Zug, den
+herabsausen, deren Lärm den Hilferuf Achamis übertönte.
+Die beiden fesselten und knebelten den Perser, suchten von
+den Edelsteinen das Beste heraus und verschwanden durch
+das Privatkontor, betraten zum Schein noch den Laden des
+Drogisten, kauften Mundwasser, Parfüm, Seife, Handbürste
+und vier Badegummischwämme und begaben sich ins Hotel,
+ließen ihre Koffer zum Bahnhof schaffen und bestiegen —
+wie ich beobachtet — kurz vor der Abfahrt den Zug, den
 sie dann in Urzapur wieder verließen.
 
 Ein Zufall war’s, daß der Ladendiener des Persers um
 zehn Uhr an dem Geschäft vorüberkam. Ihm fiel auf, daß
 <@pagebreak/>
-die elektrischzden Lampen draußen vor den Schaufenstern noch
+die elektrischen Lampen draußen vor den Schaufenstern noch
 brannten. Da er für die Flurtür einen Schlüssel hatte, öffnete
 er und fand seinen Herrn im Privatkontor unter dem
 Diwan halb erstickt auf.
 
 Die Polizei stellte sehr bald fest, daß als Täter nur
 Major Pooc nebst Gattin in Betracht kämen. Eine Depesche
-nachts den Stationen, die der Bombayexpreß passierte, kam
-für Urzapur um Ausnutzen zu spät. Die Gauner hatten
+nach den Stationen, die der Bombayexpreß passierte, kam
+für Urzapur um Minuten zu spät. Die Gauner hatten
 den Zug verlassen, und die Polizei in Urzapur ermittelte,
-daß das Pärchen seine Koffer nach dem Hotel Blonder
+daß das Pärchen seine Koffer nach dem Hotel Glandel
 geschickt, das Hotel selbst aber nicht betreten Hatte, sondern
 spurlos verduftet war. Die Gepäckträger, denen sie ihre
 Sachen übergeben hatten, wußten nur, daß die beiden noch
 im Bahnhofsgebäude die Toilettenräume aufgesucht hatten.
 Jedenfalls: das Paar war wie vom Erdboden weggewischt.
 
-Inzwischen Hatte die Detektivpolizei in Benares d211
-tadellos vorbereiteten Coup ziemlich restlos ausgefragt. Male«
+Inzwischen Hatte die Detektivpolizei in Benares den
+tadellos vorbereiteten Coup ziemlich restlos aufgeklärt. Major
 Pooc und Gattin waren vor einem Monat bereits einmal
 in Benares gewesen und hatten während dieser fünf Tage
-die Geschäfts« und LebenSäIgewohnheicn des Persers Grund. ist
+die Geschäfts- und Lebensgewohnheiten des Persers gründlichst
 studiert. Sie wußten also, daß er kurz vor Ladenschluß immer
-allein war, Hierauf bauten sie ihren Plan auf, machten
-Schnur durch den Mittagsbesuch und den Ankauf für 5000
-Rupien sicher und — — alles andere war eine Abgewickelt.
+allein war. Hierauf bauten sie ihren Plan auf, machten
+Achami durch den Mittagsbesuch und den Ankauf für 5000
+Rupien sicher und — — alles andere war eine Kleinigkeit.
 
-Wer das Paar in Wirklichkeit sein Matrose, war zurück!t
-nicht zu ergründen, bis man dem Perser und Hotel … vorstellen
-die Fahndunggblä:ter der letzten zwei Jahre vor —
-legte. Da erkannten der Perser und alle anderen in erneut
-Irrsinn!: nahen Hohstapierpaarc, das zumeist als Vicomte
+Wer das Paar in Wirklichkeit sein mochte, war zunächst
+nicht zu ergründen, bis man dem Perser und Hotelangestellten
+die Fahndungsblätter der letzten zwei Jahre vorlegte.
+Da erkannten der Perser und alle anderen in einem
+internationalen Hochstaplerpaare, das zumeist als Vicomte
 de Passerie nebst Gattin reiste und das eifrigst gesucht wurde,
 den Herrn Major und die schöne Frau unzweifelhaft wieder.
 
 Nun jagte ganz Indien auf das edle, unedle Blut, denn
-Geharrt hatte für die Wiederbeschaffung seiner Steine das
-nette Sümmchen von 206&nbsp;000 Rupien ar1rt’özgeselzt. Alle Zeitungen
+Achami hatte für die Wiederbeschaffung seiner Steine das
+nette Sümmchen von 200&nbsp;000 Rupien ausgesetzt. Alle Zeitungen
 <@pagebreak/>
 brachten die Bilder des Paares, an den Anschlagsäulen
-letzten Riesenplakate, — — aber Herr Major und Frau Gemahlin
+klebten Riesenplakate, — — aber Herr Major und Frau Gemahlin
 blieben unsichtbar. —
 
 So weit der Recorder.
 
 Als Harald uns vorhin diesen Artikel vorgelesen hatte,
-rief Paulchen Singer seufzend: »Ah, wer die Vö ein greisen
+rief Paulchen Singer seufzend: »Ah, wer die Vöglein greifen
 könnte!! 200&nbsp;000 Rupien!! Kinder, dann könnte ich Rentier
 spielen!«
 
-Jetzt erfaßt er mit mir über »Das Kino als Kulturfaktor«.
+Jetzt sprach er mit mir über »Das Kino als Kulturfaktor«.
 Harst rauchte und döste vor sich hin.
 
-Auf der einen Palme war ein sein angestridyenes
-Häuschen angebraM. Dort wohnten Paulchens »Kinder«,
+Auf der einen Palme war ein sein angestrichenes
+Häuschen angebracht. Dort wohnten Paulchens »Kinder«,
 wie er, der Tierfreund, seine zahmen Affen nannte. Damit sie
 nun bequem zum Balkon gelangen und sich ihren Anteil
 an den Mahlzeiten holen könnten, hatte er ein Tau von der
 Krone bis zum Balkongeländer gespannt.
 
-Unsere Anwesenheit hakte die giuurugrunen langschwänzigen
-Gesellen kleiner ferngehalten. Jetzt riskierte der erste
+Unsere Anwesenheit hatte die graugrünen langschwänzigen
+Gesellen bisher ferngehalten. Jetzt riskierte der erste
 den Abstieg, setzte sich auf das Geländer und schaute uns aus
-großen, klugen, Melancholie;Brausen prüfend zu.
+großen, klugen, melancholischen Augen prüfend an.
 
-Ich reihte ihm einen Zwieback.
+Ich reichte ihm einen Zwieback.
 
-Er beroch ihn und … gab ihn Aufgabe.
+Er beroch ihn und … gab ihn zurück.
 
-»Er oft an Honigaufstrich gewöhnt,« sagte Paulchen
+»Er ist an Honigaufstrich gewöhnt,« sagte Paulchen
 lachend.
 
 Ich strich also Honig auf den Zwieback, und nun wurde
@@ -429,17 +429,17 @@ Dies machte der übrigen Gesellschaft Mut. Sie hatten es
 jetzt mit einem Male alle sehr eilig, ebenfalls den Balkon
 zu erreichen, und ich hatte meine helle Freude daran, wie
 selbst zwei Affenmamas, mit ihren Säuglingen um den Hals
-sehr zutraulich wurden, so zutraulich, das Paar Singer
-erstaunt meinte: »Sie müssen eine besonders!sympathische
-Witterung an sich haben, Darauf, denn Affenmutter sind
+sehr zutraulich wurden, so zutraulich, das Paul Singer
+erstaunt meinte: »Sie müssen eine besonders sympathische
+Witterung an sich haben, Schraut, denn Affenmütter sind
 außerordentlich scheu.«
 
 Harald hatte blinzelnd die lustige Gesellschaft betrachtet.
 
 <@pagebreak/>
-Gräßlich erwachte er scheinbar. »Schraut hat eine besondere
-Witterung an sich, nur sonst hat er keine seine
-Witterung … Sonst würde er ebenso wie ich 200000 Rux’en
+Plötzlich erwachte er scheinbar. »Schraut hat eine besondere
+Witterung an sich, nur sonst hat er keine feine
+Witterung … Sonst würde er ebenso wie ich 200&nbsp;000 Rupien
 unschwer verdienen können. Da wir beide Geld jedoch nicht
 so nötig haben wie Sie, lieber Singer, sollen Sie es sich
 erarbeiten.«
@@ -456,20 +456,20 @@ geschäftlich und sehr dringend,« meldete der Inder in leidlichem
 Englisch. »Er behauptet, er habe eine Filmidee, die
 einzig in ihrer Art sei.«
 
-Dabei reichte er Singer eine Besuchskarte, auf der gestraft
+Dabei reichte er Singer eine Besuchskarte, auf der gedruckt
 stand:
 
-John I. Marketter.
-Neuyork.
-Voll-Street 158.
+<p class="centered">John J. Marketter.</p>
+<p class="centered">Neuyork.</p>
+<p class="centered">Rall-Street 154.</p>
 
 Auf die Rückseite hatte Marketter mit Tintenstift geschrieben:
 
-»Fein Schwindel, sondern ein glänzender Gedanke, der
+»Kein Schwindel, sondern ein glänzender Gedanke, der
 sich nur hier in Bombay verwirklichen läßt.«
 
-Fauligen Singer hatte uns die Karte gezeigt. Er war
-mißtrauisch, aber vor« auch begierig darauf, was der Amerikaner
+Paulchen Singer hatte uns die Karte gezeigt. Er war
+mißtrauisch, aber doch auch begierig darauf, was der Amerikaner
 ihm vorschlagen würde.
 
 »Begleiten Sie mich in mein Büro,« bat er uns, —
@@ -479,31 +479,31 @@ Erstaunen war’s derselbe dicke große, bärtige, ältere Herr,
 der in Urzapur zusammen mit einem anderen, den ich
 ebenfalls für einen Engländer gehalten, in den Expreß
 eingestiegen und der dann morgens so ungemütlich geworden
-war, weil die Polizeibeamten ihn im Glase gestört hatten…
+war, weil die Polizeibeamten ihn im Schlafe gestört hatten.
 
 Fett und faul saß er in einem unter seinem Gewicht
 <@pagebreak/>
 unheilvoll knarrenden Korbsessel. Er hatte die eisige Ruhe
-des gewiegten, ausgefochten Dankes an sich. Als Paulchen
+des gewiegten, ausgefochten Yankee an sich. Als Paulchen
 mit Betonung unsere Namen nannte, fragte Marketter gleichgültig:
-»auf von der Branche, die Herren?«
+»Auch von der Branche, die Herren?«
 
-»Nein,« meinte Freund Singer empor!. »Durchaus nicht.
-Herr Harst’ist so etwas wie Liebhaberkriminalist, und …«
+»Nein,« meinte Freund Singer empört. »Durchaus nicht.
+Herr Harst ist so etwas wie Liebhaberkriminalist, und …«
 
 Da machte der Amerikaner eine ungeheuer geringschätzige
 Handbewegung …
 
 »Also so was wie Detektive … — — Ich habe nicht
 viel Zeit … Wenn Sie für meine Idee nicht zu haben sind,
-Mr. Singer, muß ich mich an einen »oberen Kinotheaterbesitzer
-wenden«…«
+Mr. Singer, muß ich mich an einen anderen Kinotheaterbesitzer
+wenden …«
 
-»Bitte, — worum handelt sich ’82?«
+»Bitte, — worum handelt sich’s?«
 
-»Hm Vertrauen auf Ihre Verschwiegenheit, meine Herren:
+»Im Vertrauen auf Ihre Verschwiegenheit, meine Herren:
 Um einen Film mit dramatischen Einlagen … Ihr Theater
-hat eine Bühne, Mr. Singer. Dicke Hälfte des Films soll
+hat eine Bühne, Mr. Singer. Die Hälfte des Films soll
 »rollendes Band« sein, die andere Hälfte eben echtes Theater
 mit Schauspielern …«
 
@@ -514,66 +514,65 @@ Singer machte ein sehr langes Gesicht …
 
 »Das ließe sich auftreiben …«
 
-»Und wer trüge das Risiko 2?«
+»Und wer trüge das Risiko?«
 
 »Ich allein.«
 
-»Dann erklären Sie sechs genauer …«
+»Dann erklären Sie sich genauer …«
 
 Marketter, der eine Importe mit Inbrunst im Mundwinkel
 behielt, wie überhaupt sein ganzes Benehmen viel
-zu wünschen übrig ließ, holte aus der Tasche ein umfangreiHes
+zu wünschen übrig ließ, holte aus der Tasche ein umfangreiches
 Manuskript hervor und sagte: »Das ist die geistige
 Leistung meines Freundes Hardy … Einen ganzen Monat
 haben wir uns in die Einsamkeit verkrochen gehabt. Hardy
 braucht Sammlung. Dann hat er den Film der Wunder
-fertig gehabt. Nochmals möchte ich die vier Anderen nicht
-Burgunder, denn wir saßen da oben in einem elenden
-Lausenest am — Ganges, Urzapur beißt es, und haben nur
+fertig gehabt. Nochmals möchte ich die vier Wochen nicht
+durchmachen, denn wir saßen da oben in einem elenden
+Lausenest am Ganges, Urzapur heißt es, und haben nur
 <@pagebreak/>
 Gedanken ausgeschwitzt, blendende Gedanken. — Daß Sie,
 Mr. Singer, diesen Quatsch lesen sollen, ist nicht zu verlangen.
 Ich werde Ihnen den Hauptinhalt kurz erzählen. — Also: Die
-Geschichte Wagt hier in Bombay an. Die Türme des
-Schweigens auf der Spitze der Malabar- Halbinsel kennt
-jedes Baby, Dort wird also ein junger reicher Parse, der
-anscheinend tot Alt, noch den Vorschnellten der Feueranbeter
+Geschichte fängt hier in Bombay an. Die Türme des
+Schweigens auf der Spitze der Malabar-Halbinsel kennt
+jedes Baby. Dort wird also ein junger reicher Parse, der
+anscheinend tot ist, nach den Vorschriften der Feueranbeter
 bestattet, in den Turm geworfen. Das heißt, er soll geworfen
-werden … Tau erscheint »eine Engländerin, bildschön,
+werden … Da erscheint eine Engländerin, bildschön,
 Ärztin von Beruf, Touristin im Nebenberuf, erkennt,
-das der Park lebt und nimmt ihn mit auf ihre Jacht,
-Denn auch Je iK enorm Reim und hat sich auf den ersten
-Blick in den hübschen, jungen Kerl verliebt …
+das der Parse lebt und nimmt ihn mit auf ihre Jacht,
+Denn auch sie ist enorm reich und hat sich auf den ersten
+Blick in den hübschen, jungen Kerl verliebt …«
 
-— Finger machte ein 4 trostloses Gesicht, — Gestalten Sie
-mal, Mr. Marketter, ich Ritt ja alles Bestritten … Das ist
-ans einem fertigen Nil  ’ von der Zensur verboten wurde,
-und den ich auf der Saft n in Sturzbach kaufte. weil ich
-ihn doch noch frei zu Stiegen hoffe.«
+Singer machte ein trostloses Gesicht. »Gestatten Sie
+mal, Mr. Marketter, das ist ja alles gestohlen … Das ist
+aus einem fertigen Film, der von der Zensur verboten wurde,
+und den ich auf der Auktion in Allahabad kaufte, weil ich
+ihn doch noch frei zu kriegen hoffe.«
 
-Marketter Schlug nun mit der Faust aus Knie. »Verdammt,
-ist das wahr?! Dann — dann ha! mich dieser
+Marketter Schlug nun mit der Faust aufs Knie. »Verdammt,
+ist das wahr?! Dann — dann hat mich dieser
 Lump von Hardy glatt belogen …!! Dann hat er nur
 ein bereits vorhandenes Filmmanuskript abgeschrieben!! Und
-ich Ochse habe Ihn dafür bezahlt!! Ich … im …«
+ich Ochse habe Ihn dafür bezahlt!! Ich … ich …«
 
-Er war braune! vor Wirt geworden …
+Er war blaurot vor Wut geworden …
 
-»Oh das werde ich ihm versalzen, das wird gerochen!!
-Mich, John Marketter, so hineinzulegen —
-unerhört, Tausend Doktor hab ich dem Kerl bezahlt’’ Denken
+»Oh — — das werde ich ihm versalzen, das wird gerochen!!
+Mich, John Marketter, so hineinzulegen — —
+unerhört. Tausend Dollar hab ich dem Kerl bezahlt!! Denken
+Sie: tausend Dollar und freie Station … einen Monat
+hab’ ich ihn durchgefüttert. Whisky hat der Schuft gesoffen
+wie Wasser, Zigarren hat er geraucht — — jeden
+Tag genau vierzehn Stück …! — Mr. Singer, nur noch
+eine Frage: Wie endet *Ihr* gekaufter Film?«
 
-Sie: tausend Doktor und gleich Station … Omen Monat
-hab’ ich ihn durchgefüttert. hielt hat der Sohn! ne
-offen wie Wasser, Zigarren in! er gejagt?! — — jeden
-Zog genau vierzehn Stück …’ M«. Singer, nur weh
-
-Brahmane Frage: Wie endet Ihr gekaufter Film?«
 »Die Engländerin wird von den Verwandten des jungen
-Parsen, die Sohn Vermögen an sich bringen wollten, in ein
+Parsen, die sein Vermögen an sich bringen wollten, in ein
 <@pagebreak/>
-hiesige Bordell verschleppt, wo der Parse sie dann wiederfindet,
-befreit und sie; schließlich als … Engländer entpuppt,
+hiesiges Bordell verschleppt, wo der Parse sie dann wiederfindet,
+befreit und sich schließlich als … Engländer entpuppt,
 der von einem Parsen als Säugling in der Wildnis
 aufgefunden worden war. Das Paar heiratet, und die lieben
 Verwandten kommen bei einem Kinobrand imposant um,«
@@ -581,16 +580,16 @@ Verwandten kommen bei einem Kinobrand imposant um,«
 Marketter sprang auf …
 
 »Unerhört — — gemein — —, — der Lump hat die
-Filmidee wirklich gestohlen!!’
+Filmidee wirklich gestohlen!!«
 
 Er packte den Korbsessel … Er raste vor Wut …
 Er hätte den Sessel zu Brennholz zertrümmert, wenn Harald
 ihm nicht in den Arm gefallen wäre …
 
 »Stopp, Mr. Marketter … Wo haben Sie denn diesen
-Hardy kennen gelernt und was sind Sie von. Beruf, — wir
-kommt’s, daß Sie ausgerechnet eine so anS8sgefallene Idee
-mit Geld unterstützt! haben?!«
+Hardy kennen gelernt und was sind Sie von Beruf, — wie
+kommt’s, daß Sie ausgerechnet eine so ausgefallene Idee
+mit Geld unterstützt haben?!«
 
 <@pagebreak/>
 
@@ -645,7 +644,7 @@ dem Bombay-Expreß dort ein, damit Sie beide dann gemein
 langsam weiterfahren könnten?«
 Marketter nickte gleichgültig. »Ja, Hardy war mit Frau
 Madson — so heißt die alte Dame — am Tage vorher nach
-Benares hinübergeruischt … Er wollte dort einen Freund
+Benares hinübergerutscht … Er wollte dort einen Freund
 besuchen, einen Kaufmann, sagte er … Und — er kam auch
 wirklich erst mit dem Nachtzuge an. Wir hatten uns im
 Wartesaal verabredet. Frau Madson war in Benares geblieben
@@ -1030,7 +1029,7 @@ Lichtschein, der. Eure? das Fenster hinausfiel, traf uns nicht.
 <@pagebreak/>
 Die Mauer bildete hier einen Vorsprung, und vor diesem
 Mauerwinkel hatte Paulchen zur Verschönerung des tristen
-Hofes einen mächtigen Blumenkasten mit indischem großsblättrigen
+Hofes einen mächtigen Blumenkasten mit indischem großblättrigen
 Efeu aufgestellt, der sich bereits ein Stück an
 der Mauer empor gerankt hatte.
 
@@ -1710,7 +1709,7 @@ noch mehr, obwohl wir beide uns redlich bemühten, nicht
 allzu weit zurückzubleiben.
 
 Der ehemalige Kanal legte ein beredtes Zeugnis für
-die Tiefbautehnik der alten Inder ab. Dieser sauber aus
+die Tiefbautechnik der alten Inder ab. Dieser sauber aus
 gemeißelte Tunnel, zu dem auch vorhandene natürliche Hohlräume
 mitbenutzt worden waren, verlief in weiten Windungen,
 allmählich breiter werdend, nach Nordosten, mußte
@@ -1810,7 +1809,7 @@ Ein Gutes hatte diese Unglücksnacht (die Ertappt-«Gesellschaft
 Westseite den Schaden auf rund acht Millionen Rupien,
 und die geraubten Diamanten hatten nur in großen Koffern
 weggeschafft werden können) — doch gehabt: Lady Winderloov
-war frei! Der Polizeichef hatte ihr ein Entschuldigungsshreiben
+war frei! Der Polizeichef hatte ihr ein Entschuldigungsschreiben
 geschickt. Sie konnte ja unmöglicg »Doktor Hardy«
 sein. Was sie freilich mit ihren Reisen nach Benares und
 Urzapur bezweckt hatte, blieb dunkel. Darüber wird später
