@@ -10,6 +10,7 @@
 \bAe	Ä
 \bAeste\b	Äste
 \bAhnen\b	Ihnen
+\baud\)\b	auch
 \bau!	auf
 \bBann\b	Dann
 \b[bdh]in\s[nu][nu]d\s[bdh]er\b	hin und her
