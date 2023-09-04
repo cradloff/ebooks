@@ -23,7 +23,7 @@ So bekam der blonde, kräftige Junge manches zu sehen, was ihm zeigte, wie verbl
 
 Diese Kiste war fast zwei Meter lang und etwa ein Meter breit und hoch, bestand aus poliertem Mahagoniholz und war grellbunt mit Drachen und Vögeln bemalt. Angeblich enthielt sie ein paar Wachsfiguren, die die Chinesen zu ihren Kunststücken brauchten.
 
-Dann konnte Olaf Kersten zu seinem Erstaunen weiterhin folgendes wahrnehmen. Einer der Gaukler war halb unter die die Kiste verhüllende Leiwand geschlüpft und hatte von seinen Genossen ein Gefäß mit Wasser und einen Teller, gefüllt mit gedünstetem Reis, zugereicht bekommen, war nun ganz unter die Leinwand gekrochen und erst nach gut zehn Minuten wieder aufgetaucht. Während dieser Zeit hatte das Leinen sich dauernd bewegt, unter dem sich die Gestalt des offenbar knienden und hauptsächlich die rechte Hand zu irgend welchen Verrichtungen gebrauchenden Gelben scharf abzeichnete.
+Dann konnte Olaf Kersten zu seinem Erstaunen weiterhin folgendes wahrnehmen. Einer der Gaukler war halb unter die die Kiste verhüllende Leinwand geschlüpft und hatte von seinen Genossen ein Gefäß mit Wasser und einen Teller, gefüllt mit gedünstetem Reis, zugereicht bekommen, war nun ganz unter die Leinwand gekrochen und erst nach gut zehn Minuten wieder aufgetaucht. Während dieser Zeit hatte das Leinen sich dauernd bewegt, unter dem sich die Gestalt des offenbar knienden und hauptsächlich die rechte Hand zu irgend welchen Verrichtungen gebrauchenden Gelben scharf abzeichnete.
 
 Olaf war sofort insofern argwöhnisch geworden, als der Verdacht ja nur zu nahe lag, die Chinesen könnten in der geräumigen Kiste einen Menschen, den sie gefangen und versteckt hielten, verbergen. Hierfür sprach auch das, was der aufgeweckte Knabe dann weiter sah.
 
@@ -666,7 +666,7 @@ Er wagte daher nicht zu lügen. Ein trotziger Mut überkam ihn. Die Farbe kehrte
 
 Der Korsar winkte ab. »Ich weiß alles, Olaf, alles, auch daß Du in dem Waschraum der Nassovia verborgen warst, als ich Gericht hielt über die Chinesen und Mautner. Eine Tür, die wiederholt geöffnet und geschlossen wird, verrät so manches. — Wie gedenkst Du Dir Dein Leben hier auf der Kavete einzurichten?«
 
-Ah — das wars ja, was der Junge im Stillen für seine finsteren Pläne erhofft hatte. Und hastig erwiderte er nun:
+Ah — das war’s ja, was der Junge im Stillen für seine finsteren Pläne erhofft hatte. Und hastig erwiderte er nun:
 
 »Darf ich nicht Schiffsjunge auf der Kavete werden? Ich habe den Seemannsberuf schon immer geliebt.«
 
@@ -939,7 +939,7 @@ Olaf begriff zunächst nicht, um was es sich hier handelte. Er hatte einmal etwa
 
 Olafs Gefühle waren jetzt ganz andere. Seine Teilnahme gehörte jetzt der Kavete. Er freute sich, daß es dem Kapitän gelungen war, auch diese kritische Lage zu überwinden. Nun — er sollte sehr bald noch mehr erleben, das ihm eindringlich bewies, welch hervorragender Geist den Freibeuter befehligte.
 
-Der Wind jagte den Qualm hinter der jetzt nur langsam dahinschleichenden Kavete her. Da ließ der Kapitän, der das Steuer an den zweiten Offizier, einen sehr großen Mann namens Mirza Chanix abgegeben hatte, wenden und tauchte bald mit seinem Schiff in den Rauchmassen unter, indem er die Richtung einschlug, aus der der Zerstörer zu erwarten war. —
+Der Wind jagte den Qualm hinter der jetzt nur langsam dahinschleichenden Kavete her. Da ließ der Kapitän, der das Steuer an den zweiten Offizier, einen sehr großen Mann namens Mirza Chan abgegeben hatte, wenden und tauchte bald mit seinem Schiff in den Rauchmassen unter, indem er die Richtung einschlug, aus der der Zerstörer zu erwarten war. —
 
 Auf der Newa hatte man inzwischen den Ersatzscheinwerfer glücklich aufgestellt und den elektrischen Strom hineingeleitet. Der Mechanismus arbeitete jedoch schlecht. Immer wieder versagte er, so daß der Lichtkegel urplötzlich erlosch, wieder aufflammte, abermals erlosch. Dann wurde man die ersten Rauchschleier gewahr, sah, daß der Freibeuter trotz der grellen Beleuchtung von seiten des Dampfers wie ein Bild hinter immer zahlreicher vorgeschobenen Milchglasscheiben undeutlicher und undeutlicher und schließlich ganz unsichtbar wurde.
 
@@ -1392,7 +1392,7 @@ Mautner, Aribu und Olaf waren bei dieser Mitteilung unwillkürlich ungläubige, 
 
 Aribu war’s, der jetzt im Tone halber Mißbilligung die Frage ausstieß: »Herr — ich begreife nicht — weshalb diese Vernichtung unseres schönen, schnellen Fahrzeugs?!«
 
-»Weil es für uns ja doch verloren war — für immer!« erwiderte der Korsar mit einer gewissen Wehmut. »Selbst wenn es uns unter großen Blutopfern vielleicht gelungen wäre, unseren Schlupfwinkel wieder in unsere Hand zu bringen, — wie hätten wir mit den wenigem Leuten die Kavete wohl wieder schnell genug seefertig machen können, um gegen all die Zufälligkeiten, die sich aus unserer jetzigen Lage ergeben können, rechtzeitig geschützt zu sein, das heißt bereit zu sein, jeden Augenblick das offene Meer zu gewinnen?! — Nein, Aribu, — glaube mir: ich sehe weiter wie Du! Die Kavete war für uns kaum noch zu retten! Deshalb ließ ich sie in Flammen aufgehen! Das Schiff, das ich mir unter Gefahren erobert, das einst einem der ärgsten Bedrücker eines ganzen Reiches gehörte und das ich dann, meine eigenen Gesetze über Mein und Dein mir machend, über die Meere führte, das mir jetzt ans Herz gewachsen war wie ein treues, lebendes Wesen, — dieses Schiff sollte nicht wieder herabsinken zur Lustjacht eines Großfürsten, sollte nie mehr den früheren Namen Tatjana tragen! — Dort brennt es nieder bis zum Wasserspiegel; dort in der kleinen Bucht, wo wir es damals für unsere Zwecke umbauten, wo wir es Kavete — Hütet euch! — tauften, soll es auch sein nasses Grab finden. Wir aber werden mit der Petersburg dorthin dampfen, Aribu, wo unser Feind in banger Sorge um den Verbleib dessen trauert, das selbst seinem harten Herzen noch über Gold und Reichtümern steht! — Wir haben keine Zeit zu verlieren. Kapitän Scherbaum wird kaum Schwierigkeiten machen, sich uns gegen das Versprechen, nachher unbeschadet mit der Petersburg die Heimreise nach Odessa fortsetzen zu dürfen, samt seiner Besatzung zur Verfügung zu stellen. — Auch für uns schlägt jetzt die Scheidestunde, lieber Mautner. Sie können an Bord der Nassovia zurückkehren. — Ich liebe die Deutschen, denn Deutschland ist auch zur Hälfte mein Vaterland. Ich habe mich gefreut, in Ihnen einen Mann kennen gelernt zu haben, auf dessen Wort genau so sicher Verlaß war wie auf das des alten Scherbaums. Leben Sie wohl, Mautner!« Er streckte ihm die Hand hin.
+»Weil es für uns ja doch verloren war — für immer!« erwiderte der Korsar mit einer gewissen Wehmut. »Selbst wenn es uns unter großen Blutopfern vielleicht gelungen wäre, unseren Schlupfwinkel wieder in unsere Hand zu bringen, — wie hätten wir mit den wenigen Leuten die Kavete wohl wieder schnell genug seefertig machen können, um gegen all die Zufälligkeiten, die sich aus unserer jetzigen Lage ergeben können, rechtzeitig geschützt zu sein, das heißt bereit zu sein, jeden Augenblick das offene Meer zu gewinnen?! — Nein, Aribu, — glaube mir: ich sehe weiter wie Du! Die Kavete war für uns kaum noch zu retten! Deshalb ließ ich sie in Flammen aufgehen! Das Schiff, das ich mir unter Gefahren erobert, das einst einem der ärgsten Bedrücker eines ganzen Reiches gehörte und das ich dann, meine eigenen Gesetze über Mein und Dein mir machend, über die Meere führte, das mir jetzt ans Herz gewachsen war wie ein treues, lebendes Wesen, — dieses Schiff sollte nicht wieder herabsinken zur Lustjacht eines Großfürsten, sollte nie mehr den früheren Namen Tatjana tragen! — Dort brennt es nieder bis zum Wasserspiegel; dort in der kleinen Bucht, wo wir es damals für unsere Zwecke umbauten, wo wir es Kavete — Hütet euch! — tauften, soll es auch sein nasses Grab finden. Wir aber werden mit der Petersburg dorthin dampfen, Aribu, wo unser Feind in banger Sorge um den Verbleib dessen trauert, das selbst seinem harten Herzen noch über Gold und Reichtümern steht! — Wir haben keine Zeit zu verlieren. Kapitän Scherbaum wird kaum Schwierigkeiten machen, sich uns gegen das Versprechen, nachher unbeschadet mit der Petersburg die Heimreise nach Odessa fortsetzen zu dürfen, samt seiner Besatzung zur Verfügung zu stellen. — Auch für uns schlägt jetzt die Scheidestunde, lieber Mautner. Sie können an Bord der Nassovia zurückkehren. — Ich liebe die Deutschen, denn Deutschland ist auch zur Hälfte mein Vaterland. Ich habe mich gefreut, in Ihnen einen Mann kennen gelernt zu haben, auf dessen Wort genau so sicher Verlaß war wie auf das des alten Scherbaums. Leben Sie wohl, Mautner!« Er streckte ihm die Hand hin.
 
 Doch der Steuermann schüttelte den Kopf.
 
@@ -1886,7 +1886,7 @@ Aribu schrie plötzlich auf.
 
 Einer der Tiger hatte mit kurzem Anlauf sich hochgeschnellt, hatte sich in den Maschen des Drahtnetzes dort festgekrallt, wo Aribus Füße sich befanden.
 
-Mautner senkte die Waffe, schoß dicht an Aribus Oberschenket vorbei. Der Tiger heulte, ließ sich herabfallen, kroch in eine Ecke des Zwingers.
+Mautner senkte die Waffe, schoß dicht an Aribus Oberschenkel vorbei. Der Tiger heulte, ließ sich herabfallen, kroch in eine Ecke des Zwingers.
 
 Da sprang schon ein zweiter. Jetzt in der Richtung auf den festgeklemmt daliegenden Achmed zu. Mautner konnte den Revolver jetzt nicht gebrauchen. Die Bestie wurde durch Achmeds Körper verdeckt.
 
@@ -1954,6 +1954,7 @@ Im Parke des Schlosses am Benkoelen-Flusse liegen zwei Gräber dicht nebeneinand
 
 Frau Assumoff ist mit ihrem Kinde nicht mehr nach Odessa zurückgekehrt, bewohnt jetzt die Rajahburg. Häufig findet sich Olaf Kersten dort als lieber Gast ein. Von der Plantage seines Onkels hat er’s nicht weit. Dann versäumen die beiden jungen Menschenkinder es nie, die Gräber im Parke mit frischen Blumen zu schmücken, stehen davor Hand in Hand, — Dorchen und der Schiffsjunge des gelben Korsaren.
 
+<@spacer/>
 
 <p class="centered em">Ende!</p>
 
