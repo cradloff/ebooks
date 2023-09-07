@@ -44,7 +44,7 @@ Die drei Polizeibeamten hielten sich mehr im Hintergrund.
 Bei unserem Eintritt schnellte der Lord — es war
 Houston Allan Percy Winderloov, letzter seines Stammes —
 empor und kam auf uns zu. Der Polizeichef war schneller.
-Er drängte sich geradezu zwischen uns und dem Lord und
+Er drängte sich geradezu zwischen uns und den Lord und
 erklärte höflich-energisch, es täte ihm leid, aber er wolle
 zunächst allein mit uns sprechen.
 
@@ -169,7 +169,7 @@ wenn Sie sich beeilen, können Sie diesen Pooc und denselben
 Mann, den er als Schwindler Doktor Hardy bezeichnete,
 unten in den Kellern des genannten Theaters überraschen,
 wo die beiden Herren sich die alten Wasserleitungskanäle
-Bombays, die bekanntlich aus dem Gestein aufgesprengt
+Bombays, die bekanntlich aus dem Gestein ausgesprengt
 sind, für einen neuen Fischzug zunutze machen wollen …
 Nur würde ich Eile empfehlen … Vielleicht begleiten Sie
 uns. Mylady wird bestimmt nicht flüchten. Und wenn Sie
@@ -242,7 +242,7 @@ Führer — selig, weil wir beide wieder da waren.
 Ihm kam diese ganze nächtliche Razzia äußerst lustig
 vor.
 
-Es ging nun in die Koller hinab. Paulchen schwor
+Es ging nun in die Keller hinab. Paulchen schwor
 Stein und Bein, daß seine Keller keinerlei Verbindung mit
 einer alten Wasserleitung hätten, — aber es stimmte doch:
 In einem Nebenraum, der nur Kisten und Gerümpel enthielt,
@@ -261,10 +261,10 @@ Harald erwiderte kurz: »Sie haben es auf die Stahlkammer
 der Diamanten-Export-Firma abgesehen, wollen ihn
 mit Hilfe dieses uralten Kanals zu Leibe …«
 
-In dem Lohe lehnte eine kleine neue Leiter — zusammensetzbar,
+In dem Loche lehnte eine kleine neue Leiter — zusammensetzbar,
 wie die Fensterputzer sie gebrauchen.
 
-Cortleetge war wir ein Blitz hinab, in der Linken eine
+Cortleetge war wie ein Blitz hinab, in der Linken eine
 Taschenlampe, in der Rechten die Pistole …
 
 »Langsam!« warnte Harald, aber der Übereifrige war
@@ -300,7 +300,7 @@ in breiten Straßen Autos und elektrische Bahnen dahin.
 
 Ich habe später persönlich festgestellt, wie John Marketter
 (oder Major Edward Pooc, was ja dasselbe ist) als smarter,
-großzügigen Gauner von dem Vorhandensein dieses Kanalnetzes
+großzügiger Gauner von dem Vorhandensein dieses Kanalnetzes
 sich Kenntnis verschafft hat. Daß es Kanäle dieser
 Art gab, mag er durch Zufall erfahren haben. Dann begab
 er sich, als holländischer Gelehrter sich ausgebend, zu der
@@ -322,7 +322,7 @@ Wir kletterten empor.
 
 Wir waren in der Stahlkammer der Export-Gesellschaft.
 
-Das Heißt: es war einmal eine Stahlkammer gewesen.
+Das heißt: es war einmal eine Stahlkammer gewesen.
 Die Tresortüren waren aufgesprengt. Am Boden lagen zwei
 Sauerstofflaschen, ein paar elektrische Bohrer und anderes
 Handwerkszeug.
@@ -510,7 +510,7 @@ sind Ihnen nicht zu verargen, denn Sie sind eben an streng
 logisches Denken nicht gewöhnt. Auch das will gelernt sein.«
 
 »Entschuldigen Sie, ich bin ein Dummkopf … Aber ich
-werde mich bessern … Sie brauen mir nur eins noch zu
+werde mich bessern … Sie brauchen mir nur eins noch zu
 sagen: Hoffen Sie das Paar zu finden?« 
 
 Harald blickte sinnend auf die eine Affenmama, die
@@ -1095,7 +1095,7 @@ Marketter — ja, das ist eine tolle Geschichte …
 
 Er brach nach einem halben Jahr aus dem Zuchthaus
 aus, und drei Monate drauf wurde »Schwester Yvonne«
-aus beim französischen Kloster R. entführt.
+aus dem französischen Kloster R. entführt.
 
 Man hat von den beiden nie mehr etwas gehört.
 Mögen sie glückliche sein!! Hochstapler sind sie jedenfalls nicht

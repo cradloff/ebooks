@@ -66,7 +66,7 @@ geformte Kinnpartie und Augen von melancholischer Tiefe:
 ich taxierte auf eine Russin.
 
 Harst rief mir zu, ich solle das Fenster schließen. Das
-ganze Mückengeschmeiß käme Herein.
+ganze Mückengeschmeiß käme herein.
 
 So mußte ich denn die schöne Nachbarin in Ruhe
 lassen.
@@ -78,7 +78,7 @@ eine Zigarette und hielt unter dem Arm seine Reiselektüre
 festgeklemmt, einen englischen Kriminalroman, den er sich auf
 dem Bahnhof gekauft hatte.
 
-Ich erzählte von dem »Paar«,
+Ich erzählte von dem »Paar«.
 
 »Laß mich in Ruhe damit,« meinte er lachend. »Jetzt
 haben wir Ferien … Und wenn nebenan ein Mord verübt
@@ -245,8 +245,8 @@ locken … —
 Also: Skat, viele Stunden!
 
 Paulchen war in Allahabad gewesen, um dort auf einer
-Auktion Filme zu kaufen — abgespielte Dinger »Regenfilme",
-zerkratzt …«
+Auktion Filme zu kaufen — abgespielte Dinger »Regenfilme«,
+zerkratzt …
 
 »… Für meine Hafenkundschaft allemal gut genug …«
 sagte er achselzuckend.
@@ -298,7 +298,7 @@ gleichmäßig anzieht. Bringe ich einen Detektivfilm, so habe
 ich nur Matrosenpublikum, bringe ich was Besseres, etwa
 wie letztens Metropolis, ist die Bude leer. Es ist ein Elend.«
 
-Wir saßen auf dem überdachten Ballon von Paulchens
+Wir saßen auf dem überdachten Balkon von Paulchens
 Behausung, es regnete natürlich, denn es war Januar, und
 wir genossen die berückende Aussicht auf einen winzigen
 Hof, in dem zwei Palmen nach Licht und Luft lechzten, und
@@ -403,7 +403,7 @@ spielen!«
 Jetzt sprach er mit mir über »Das Kino als Kulturfaktor«.
 Harst rauchte und döste vor sich hin.
 
-Auf der einen Palme war ein sein angestrichenes
+Auf der einen Palme war ein grün angestrichenes
 Häuschen angebracht. Dort wohnten Paulchens »Kinder«,
 wie er, der Tierfreund, seine zahmen Affen nannte. Damit sie
 nun bequem zum Balkon gelangen und sich ihren Anteil
@@ -484,7 +484,7 @@ war, weil die Polizeibeamten ihn im Schlafe gestört hatten.
 Fett und faul saß er in einem unter seinem Gewicht
 <@pagebreak/>
 unheilvoll knarrenden Korbsessel. Er hatte die eisige Ruhe
-des gewiegten, ausgefochten Yankee an sich. Als Paulchen
+des gewiegten, ausgekochten Yankee an sich. Als Paulchen
 mit Betonung unsere Namen nannte, fragte Marketter gleichgültig:
 »Auch von der Branche, die Herren?«
 
@@ -541,7 +541,7 @@ anscheinend tot ist, nach den Vorschriften der Feueranbeter
 bestattet, in den Turm geworfen. Das heißt, er soll geworfen
 werden … Da erscheint eine Engländerin, bildschön,
 Ärztin von Beruf, Touristin im Nebenberuf, erkennt,
-das der Parse lebt und nimmt ihn mit auf ihre Jacht,
+daß der Parse lebt und nimmt ihn mit auf ihre Jacht,
 denn auch sie ist enorm reich und hat sich auf den ersten
 Blick in den hübschen, jungen Kerl verliebt …«
 
@@ -614,7 +614,7 @@ ich nach Ägypten. Aber die Pyramiden konnten mir nicht
 imponieren. Unsere Wolkenkratzer sind höher und praktischer.
 Nun wollte ich Indien sehen. In Kalkutta im Hotel Drywater
 lernte ich Doktor Emmery Edward Hardy kennen. Der Kerl
-nannte sie Schriftsteller, pfiff auf dem letzten Portemonnaieloch
+nannte sich Schriftsteller, pfiff auf dem letzten Portemonnaieloch
 und war Miete und Essen seit acht Tagen schuldig,
 pumpte mich an und … wickelte mich dann mit seinem
 »Film der Wunder« so glänzend ein, daß ich mit ihm zusammen
@@ -759,7 +759,7 @@ frühzeitig zu Bett gingen …
 
 Er und ich hatten ein Zimmer im ersten Stock des
 <@pagebreak/>
-Seitenanbaus, Gerade unter uns war Marketter untergebracht
+Seitenanbaus. Gerade unter uns war Marketter untergebracht
 worden.
 
 Als wir beide nun allein, stellte Harald sich ans Fenster
@@ -1225,10 +1225,10 @@ Ich war noch immer völlig sprachlos.
 
 »Du wußtest das?«
 
-»Gewiß. Ich; weiß noch viel mehr … — Zum Beispiel,
+»Gewiß. Ich weiß noch viel mehr … — Zum Beispiel,
 daß es gar keinen »Hardy« gibt …«
 
-»Na Nu?!«
+»Na nu?!«
 
 »Nein … Ich weiß auch, daß Marketter uns von A
 bis Z beschwindelt hat …«
