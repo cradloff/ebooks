@@ -51,7 +51,7 @@ und die weiße Perücke trug …
 »Sie wird es mir verzeihen,« sagte er leiser, »wenn ich
 jetzt dem Geheimnis völlig auf den Grund gehe …«
 
-Er öffnete das Mieder des Pierrette-Kostüme …
+Er öffnete das Mieder des Pierrette-Kostüms …
 
 Und … entfernte auf dem Rücken behutsam die dünne
 Wachsschicht …
@@ -298,7 +298,7 @@ spielte auch und war sehr verschuldet …«
 
 Da wurde Mansur aufmerksam.
 
-»Mr. Harst, — verzeihe Sie … Ihre Fragen und
+»Mr. Harst, — verzeihen Sie … Ihre Fragen und
 Bemerkungen sind so …«
 
 »… so sonderbar, — wollen Sie sagen … — Die
@@ -410,7 +410,7 @@ Harst winkte, rief.
 
 Mansur stoppte …
 
-Nun mußten beide<@refnote 2/> auf den Rücksitzen Platz nehmen.
+Nun mußten sie jetzt<@refnote 2/> auf den Rücksitzen Platz nehmen.
 Wir beide gehörten nach vorn. Harst spielte Schofför.
 
 Vorüber ging’s an dem uralten Fort von Golkonda,
@@ -467,7 +467,7 @@ hier. Die mittlere Treppe ist nur für die Gläubigen.«
 
 Das Ehepaar schritt voraus. Wir bescheiden hinterdrein.
 
-Während Harst und ich die Stufen hinaufstiegen, teilte
+Während Harst und ich die Stufen hinanstiegen, teilte
 ich ihm mein Gespräch mit Frau Anna ausführlich mit. Er
 billigte mein Verhalten … »Die Ärmste wird seelisch zusammenbrechen,
 wenn sie je die Wahrheit erfährt,« meinte
@@ -479,7 +479,7 @@ der Macht, diesen unseligen Vater, der aus blindem Haß so
 Ungeheuerliches ersann, nötigenfalls durch Drohungen für
 <@pagebreak/>
 immer aus dem Gesichtskreis Frau Annas zu verscheuchen.
-Geldern gilt ja für tot. Gut — er soll tot sein!« Und
+Geldern gilt ja für tot. Gut — er soll tot sein!« — Und
 das sprach er mit solcher Energie aus, daß ich nur vermuten
 konnte, er wußte schon, wo und wie wir den alten Kapitän
 stellen könnten.
@@ -534,7 +534,7 @@ umsehen, konnten aufmerksam Mansurs kurzen Erklärungen
 lauschen …
 
 In diesen Gängen befanden sich in kurzen Abständen
-kastenartige Vorsprünge, ausgemauert aus Felsstücken, jeder
+kastenartige Vorsprünge, aufgemauert aus Felsstücken, jeder
 mit großen Luftlöchern oben, und vorn mit einem kleinen
 eingekitteten Fenster.
 
@@ -552,7 +552,7 @@ Gestellen, die mit schwarzem Stoff bespannt waren) war das
 Gesicht mit einem feinen Seidentuche bedeckt. Wo dies nicht
 der Fall, erkannte ich eingetrocknete Mumienzüge.
 
-Die Luft in diesen Gängen war erfüllt mit zarten Gerüchten
+Die Luft in diesen Gängen war erfüllt mit zarten Gerüchen
 von Ambra, Sandelholz und Kampfer. Von Verwesungsgeruch
 spürte ich gar nichts.
 
@@ -600,7 +600,7 @@ Ihr Gatte stützte sie …
 Aber diese arme Mutter, der man die Kinder aus besinnungslosem
 Haß vor mehr denn zwölf Jahren entzogen hatte,
 bewies jetzt angesichts dieser ihre Seele bis in’s tiefste
-erschütternder Mitteilung eine Stärke und Energie, wie wohl
+erschütternden Mitteilung eine Stärke und Energie, wie wohl
 kaum ein anderes Weib in dieser Lage sie aufgebracht
 hätte …
 
@@ -727,7 +727,6 @@ dieser Schurke kann …«
 Er verstummte … Harald war aufgetaucht …
 
 »Entschlüpft!« meinte er noch ein wenig atemlos …
-
 <@pagebreak/>
 »Ich möchte Sie jetzt bitten, Mansur, mit Ihrer Gattin zum
 Gasthause zurückzukehren, wo das Auto untergestellt ist und
@@ -801,7 +800,7 @@ Augen?! — Ich strengte mich an, spähte wieder in die
 Grabkammer hinein … Sah natürlich nichts …
 
 Dann ein Gedanke: War der Inder dort auf dem Gestell
-etwa doch keine Mumie sondern der Trödler, der Kapitän
+etwa doch keine Mumie, sondern der Trödler, der Kapitän
 Geldern?!
 
 Ein neuer prüfender Blick …
@@ -857,7 +856,7 @@ auch nicht die Spur von Ähnlichkeit in der Gesichtsform,
 der Nasenform und der Stirnbildung hat … Ich
 verstehe mich doch auf solche Vergleiche … Mich täuscht
 kein Bart, keine Änderung der Augenbrauen … Mawesa
-ist niemals Geldern … der ist offenbar wirklich tot …«
+ist niemals Geldern … Der ist offenbar wirklich tot …«
 
 »Dann … ist Mawesa Doktor Geßner aus Triest …«
 
@@ -953,7 +952,7 @@ hätten berühren können …
 Überwältigend …
 
 Überwältigend auch die ungeheure Gemeinheit und
-Grausamkeit dieser Todesfälle …
+Grausamkeit dieser Todesfalle …
 
 Der scheinbar so sichere Boden sinkt plötzlich … kippt
 nach vorn …
@@ -1119,8 +1118,8 @@ Hemdschlitz gleiten … und erwischte auch Dich gerade noch
 im letzten Moment. Alles andere ist Dir bekannt. Mawesa
 hält uns jetzt fraglos für erledigt. Und — das ist das Beste
 bei alledem. Wir sind tot — mausetot! Wir werden hier
-warten, bis nachmittags die Hohlengräber hier von zahlreicheren
-Personen besucht werden … dann verschwinden
+warten, bis nachmittags die Höhlengräber hier von zahlreicheren
+Personen besucht werden … Dann verschwinden
 wir einzeln … Wir treffen uns in Robbsams Bungalow …
 Aber Vorsicht … Keine Seele außer Robbsam darf ahnen,
 daß wir noch am Leben sind …« — —
@@ -1220,7 +1219,7 @@ Der alte Inder behauptete, Naida sei ein Findelkind.«
 »Wie heißt der Inder?«
 
 »Er hieß Sagi Dau … Er ist vor sechs Wochen
-gestorben … sein Freund sorgte für seine Beisetzung in dem
+gestorben … Sein Freund sorgte für seine Beisetzung in dem
 Höhlenfriedhof von Kantara …«
 
 »Dieser Freund war ein Trödler namens Mawesa —
@@ -1282,7 +1281,7 @@ an dem ein Porzellanschild befestigt war:
 
 <p class="centered pre">Dr. Edward Bargyn,
 prakt. Arzt.
-7-9.     7-9.</p>
+7—9.     7—9.</p>
 
 »Er hat jetzt also Sprechstunde,« meinte Harald. »Er
 ist der Arzt, der die beiden Mädchen zuerst behandelt hat,
@@ -1364,7 +1363,7 @@ Hand hielt: die Clementpistole!
 
 »Doktor Geßner,« fuhr Harst fort, »die Geschichte ist nun
 zu Ende …! — Schraut, dort ist das Telephon … Rufe
-Robbsam, Godweller und ein Dutzend Beamte her …
+Robbsam, Godweller und ein Dutzend Beamte her … —
 Sitzen Sie still, Geßner! Ich bin Harald Harst, den Sie im
 Kantara-Berge umbringen wollten …«
 
@@ -1380,7 +1379,7 @@ Harald wieder. »Nur die Wachspuppe war eine Dummheit
 
 »An Tuberkulose …«
 
-»Nehmen wir an, es stimmt. — Wo befinden sich
+»Nehmen wir an, es stimmt … — Wo befinden sich
 Frau Professor Godweller und der kleine Tom?«
 
 Doktor Geßner keuchte hervor:

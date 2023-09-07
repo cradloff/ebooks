@@ -6,7 +6,7 @@
 
 <h3>Mawesa, der Trödler.</h3>
 
-… Als wir damals an jenem glutheißen Vormittag durch
+Als wir damals an jenem glutheißen Vormittag durch
 die Basarstraßen von Haidarabad, Residenz des Fürsten des
 gleichnamigen indischen Vasallenstaates, wanderten, ahnten
 wir beide nicht, daß dieser Spaziergang für uns unabsehbare
@@ -229,7 +229,7 @@ Gedanken umgab …
 der Nähe?«
 
 »Es ist so, Sahib,« beeilte sich der Trödler zu erwidern.
-»Dort am Ende der Gasse siehst Du eine Gartenmauer
+»Dort am Ende der Gasse siehst Du eine Gartenmauer,
 Sahib … Dahinter liegt Mansurs Haus … Seinen
 Laden hat er in der breiten Basarstraße …«
 
@@ -357,7 +357,7 @@ pflegen … Der Vorhang bewegte sich ganz wenig.
 
 Da rief Harald schon:
 
-»Hallo, Tsundsi, — — Hallo …!«
+»Hallo, Tsundsi, — — hallo …!«
 
 Die Schuhe verschwanden …
 
@@ -428,7 +428,7 @@ Dicke möglich war …
 bedanken können, wenn wieder gesund sein …«
 
 »Wir sind … Amerikaner und reisen heute noch ab …
-Dein Herr braucht sich also nicht zu bemühen … Hier
+Dein Herr braucht sich also nicht zu bemühen … — Hier
 — übergib ihm diese dreißig Pfund … Es ist der Preis
 für die Buddhavase … — Leb’ wohl, Tsundsi …«
 
@@ -561,7 +561,7 @@ uns drehte sich ein riesiger Ventilator …
 »Was ich erwartet hatte …!«
 
 »Ja — einer Nichtigkeit wegen hätte ich Sie kaum herbemüht
-…« nickte der Hausherr ernst. »Gestatten Sie,
+…« nickte der Kaufherr ernst. »Gestatten Sie,
 daß ich etwas weiter aushole, Mr. Harst … Ich heiratete
 mit dreißig Jahren eine Europäerin, eine Österreicherin …
 Sie war die Tochter eines Schiffskapitäns. Ich lernte sie
@@ -654,7 +654,7 @@ Ihrem Wohnhause. Dieser Fall erregt mein Interesse. Wenn
 das Muttermal, das doch offenbar eine sehr merkwürdige
 Form hat, bei Ihrer Gattin und dem Knäblein das gleiche
 ist, dürften hier Zusammenhänge vorhanden sein, die … —
-doch — davon später … Gehen wir, Mansur … Aber
+doch — Davon später … Gehen wir, Mansur … Aber
 getrennt … Es braucht niemand zu wissen, daß ich für
 Sie tätig bin. Wir sind auch im Hotel d’Angleterre hier
 unter anderen Namen als Kaufleute abgestiegen. Der
@@ -776,7 +776,7 @@ Frau Anna Mansur saß aufrecht auf dem kostbaren
 Ruhebett … Sie starrte uns in hilfloser Verzweiflung
 entgegen, hob flehend die Hände und rief klagend:
 
-»Mr. Harst, ich … ich muß das Kind wiederhaben …
+»Mr. Harst, ich … ich muß das Kind wiederhaben …!
 Mein Leben ist zerbrochen, wenn der Knabe mir …«
 
 Harald gab ihr schlicht die Hand …
@@ -814,7 +814,7 @@ war …«
 »Vielleicht fünfundvierzig Jahre, Mr. Harst …« —
 
 In diesem Moment dachte ich an den Trödler Mawesa
-… Mawesa war Europäer, — ob er er etwa Geßner
+… Mawesa war Europäer, — ob er etwa Geßner
 sein konnte?
 
 Inzwischen hatte Harald das halbe Verhör fortgesetzt …
@@ -830,7 +830,7 @@ Aber als ich ihm dann mitteilte, daß ich Mansurs Gattin
 werden wollte, kam es zu einer schrecklichen Szene zwischen
 uns in der Kapitänskajüte seines Dampfers. Ich … ich
 habe ihn nie mehr wiedergesehen … Er starb vor dreizehn
-Jahren in Triest … als armer Mann … erst nach einem
+Jahren in Triest … als armer Mann … Erst nach einem
 halben Jahr hörte ich ganz zufällig etwas von seinem Hinscheiden
 …«
 
@@ -1218,7 +1218,7 @@ Zuweilen mußten wir größere Tümpel überspringen …
 Und jetzt vor uns das zugemauerte Ende des Kanals …
 Dünne Wasserrinnsale drangen durch die Fugen der mit
 Pilzen bedeckten Ziegel … Diese Ziegel waren von jener
-Art, wie man sie hier im Staate Haidarabad brennt …
+Art, wie man sie hier im Staate Haidarabad brennt …:
 glashart, glasiert, Jahrtausende überdauernd!
 
 »Kehrt!« meinte Harald nur …
@@ -1242,7 +1242,7 @@ er stehen …
 Ich schaute nach oben …
 
 Sah, daß die Ziegeldecke des Kanals, die leicht gewölbt
-war, nach unten zu eine Ausbauchung hatte … Zwischen
+war, nach unten zu eine Aufbauchung hatte … Zwischen
 den Ziegeln klafften breite Lücken … Die Ziegel hingen
 nur noch lose an einigen Mörtelstücken … — Ich sagte:
 
@@ -1316,7 +1316,7 @@ Ruinen von Golkonda und Erde umschaufeln, alte Sachen
 suchen … Mister Godwellers Frau sehr schön …«
 
 »Die Schönheit ist augenblicklich Nebensache …
-Schweife nicht ab mein Sohn …! Was weißt Du über
+Schweife nicht ab, mein Sohn …! Was weißt Du über
 diese Kindesentführung?«
 
 »Nicht viel, Mister … Vor drei Wochen mir sagten
