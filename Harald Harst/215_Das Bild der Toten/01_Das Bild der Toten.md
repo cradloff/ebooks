@@ -1345,5 +1345,3 @@ waren.
 
 Yogi Kaddami war nicht wieder erschienen. Nur seine
 Schildkröte — heimlich!
-
-
