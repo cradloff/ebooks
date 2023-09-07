@@ -35,7 +35,7 @@ wie laut:
 
 <p class="indent pre">Gern — — hab’ ich die Frau’n ge…küßt …
 Ich schiefes Alkoholge…rüst,
-Doch noch lieber Kauf ich Whiskypunsch,
+Doch noch lieber sauf’ ich Whiskypunsch,
 Wenn wir drei hier unter uns …</p>
 
 Harst saß wie ein Türke da und reinigte andächtig
@@ -226,7 +226,7 @@ fraglos eine Kugelkröte! Armes Vieh!
 
 Dann fühlte ich links ein Stück Mauer … Fand die
 verfallene Treppe … Tastete mich durch leere, halb verschüttete
-Räume, bis links von mir, ein matt violetter
+Räume, bis links von mir ein matt violetter
 Lichtschein in der Finsternis aufglomm …
 
 Noch eine Ecke … ein lautloses Schleichen, und ich
@@ -463,7 +463,7 @@ haben. Immerhin sollte der Yogi verhört werden. Aber — er war
 nicht zu finden. Die Geschichte drohte im Sande zu verlaufen,
 da ereignete sich vorgestern etwas noch viel Merkwürdigeres.
 Ein Mr. Trevor, der Vater jener jungen Amerikanerin,
-der Kaddami das goldene Handtaschen abkneifen wollte, kam
+der Kaddami das goldene Handtäschchen abkneifen wollte, kam
 zu mir — ein gebrochener Mann. Und — was erzählte er
 mir? — —: Genau mein Erlebnis mit den Briefen, genau
 dasselbe. Seine Tochter Mary hatte nach Neuyork fünfzehn
@@ -665,7 +665,7 @@ sagte der kleine spindeldürre Millionär zu mir und erneuerte
 die Kompressen … —
 
 Ispallah und ich waren morgens in der Haupthalle
-von Mr. Trevor in ziemlich bedenklichen Zustand aufgefunden
+von Mr. Trevor in ziemlich bedenklichem Zustand aufgefunden
 worden. Er hatte uns in das Zelt getragen, wo
 leider Freund Lücke nicht mehr anwesend war. Auch Harst
 hatte sich bis jetzt — es war zwölf Uhr mittags — nicht
@@ -791,7 +791,7 @@ Art einem Wehrlosen den Saft der schleimigen Kuka-Schnecke
 auf das Haupt geträufelt …
 
 Jedes Kind in Indien weiß, daß die Kuka-Schnecke
-mit ihrem seltsam geformten Gehäuse grimme Feind
+mit ihrem seltsam geformten Gehäuse der grimme Feind
 der Wespen ist. Ihre klebrige Absonderung, über Blütenkelche
 gestrichen, zieht durch ihren Geruch, der an Honig
 erinnert, die Wespen wie ein Magnet an. Aber — — er
@@ -846,10 +846,10 @@ gelben Leiber der stechenden kleinen Ungeheuer, verscheucht.
 
 Sie flattern in immer lockerer Wolke … sie lösen
 sich von einem grauenvoll verschwollenen Gesicht, von einem
-Halse, der wie durchs Kropfgeschwülste zu schweineähnlicher
+Halse, der wie durch Kropfgeschwülste zu schweineähnlicher
 Dicke aufgetrieben …
 
-Sie Summen, surren … sie zaudern, — und dann flüchten
+Sie summen, surren … sie zaudern, — und dann flüchten
 sie doch durch das Loch im Dache in den nächtlichen Regen
 hinaus …
 
@@ -1108,7 +1108,7 @@ den Fremden auf den Rückenpanzer der Schildkröte, nahm
 die Fackel aus der Mauerritze und schritt, gefolgt von
 der zahmen Riesenschildkröte, davon. Es wurde dunkel um
 uns her, und das Letzte, was wir sahen, waren die Beine
-des Unglücklichen, die Krampfhaft zuckten, — — als wollten
+des Unglücklichen, die krampfhaft zuckten, — — als wollten
 sie uns um Hilfe anflehen, die wir nicht leisten konnten.
 — Nach Stunden erschien der Yogi abermals und sprach
 zu uns:
@@ -1157,7 +1157,7 @@ erbitterten Indern heimlich in einen Hinterhalt gelockt und
 sämtlich … geköpft oder sonstwie grausam verstümmelt waren.
 
 <@pagebreak/>
-Die Keller zeichneten sie durch eine merkwürdig trockene
+Die Keller zeichneten sich durch eine merkwürdig trockene
 Luft aus, die ohne Frage die natürliche Mumifizierung ebenso
 sehr begünstigt hatte wie der Kiesboden, der jede Feuchtigkeit
 sofort aufsog. —
@@ -1183,7 +1183,7 @@ benutzt, als er mit seiner Schildkröte davonschritt.
 
 Daß wir fünf uns hier äußerst vorsichtig bewegten,
 ist wohl selbstverständlich. Wir hielten die Schußwaffen bereit,
-uns Ispallah, der von einem weiteren Vordringen ernstlich
+und Ispallah, der von einem weiteren Vordringen ernstlich
 abriet, bildete nun den Nachtrab.
 
 Der Gang, ebenfalls an den Seiten durch Mumien bestellt,
@@ -1223,7 +1223,7 @@ der Marmorblock wieder durch den Hebelmechanismus emporgedrückt,
 den Schutt wieder an die alte Stelle, rings um
 den Stein, bedeckten die Leiche Hopkins’ mit einem Stück
 Zeltbahn und begaben uns in unser Zelt zurück, um den
-Rest der Nacht zu schlafen, — Trevor wollte wachen, was
+Rest der Nacht zu schlafen. — Trevor wollte wachen, was
 wir mit Dank annahmen.
 
 In unserem Zelte war alles in Ordnung. Daß der

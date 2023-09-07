@@ -199,7 +199,7 @@ Blau!
 »Sie hätten das Mädel nicht laufen lassen sollen,« sagte
 Trevor empört, indem er den Inhalt seiner Jackentasche
 prüfte. »Die Polizei ist doch hinter ihr her, und Sie,
-Verehrtester, behandeln diese Diebin wir eine Lady. Sie
+Verehrtester, behandeln diese Diebin wie eine Lady. Sie
 sind mir unverständlich.«
 
 Harst hörte kaum hin …
@@ -303,7 +303,7 @@ nach dem Flusse hin:
 »Trevor die Wahrheit beizubringen, wird sehr schwer
 sein. Er ist völlig ahnungslos.«
 
-Ich konnte nur meinerseits äußern, »Ich auch!! —
+Ich konnte nur meinerseits äußern: »Ich auch!! —
 Ahnungslos — in welcher Beziehung?«
 
 »Die Sache zerrann uns bisher wie Quecksilber unter den
@@ -348,7 +348,7 @@ bleibt also dunkel. — — Weiter: Weshalb haßte Kaddami den
 ehemaligen Privatsekretär derart, daß er ihn in so bestialischer
 Weise ermordete? — Antwort: Ich weiß es nicht! — —
 Drittens: Weshalb will Kaddami, der die Briefe mit den
-Diamanten *nicht* abgesetzt hat, sich zu der nun offiziell
+Diamanten *nicht* abgeschickt hat, sich zu der nun offiziell
 <@pagebreak/>
 gegen ihn erhobenen Anklage in keiner Weise äußern? —
 — Ich weiß es nicht. — — Bevor wir mit der Aufzählung
@@ -386,7 +386,7 @@ daß die Kaschmir-Tänzerin und diese Frau ein und
 dieselbe Person ist, mein Alter: Sie trug unter ihren
 Gewändern einen golddurchwirkten Schleier, und als ich
 sie darauf aufmerksam machte, daß ein Stück des Schleiers
-sichtbar sei, erschrak sie. — — So, nun zu denn restlichen
+sichtbar sei, erschrak sie. — — So, nun zu den restlichen
 dunklen Punkten …«
 
 <@pagebreak/>
@@ -551,7 +551,7 @@ der Yogi habe ihr die Briefe geschickt.«
 
 »Natürlich … — Und um ihr diesen Star zu stechen,
 werden wir jetzt an Bord der Jacht gehen und mit Kapitän
-Tetersitz zunächst ein ernstes Worten reden. — Mach’ dich
+Tetersitz zunächst ein ernstes Wörtchen reden. — Mach’ dich
 fertig.«
 
 »Mit Freuden. Das gibt eine Sensation, wenn wir
@@ -570,7 +570,7 @@ Schiffsbaukunst leisten kann.
 
 James Tetersitz trank Limonade und rauchte eine Schokoladenzigarre.
 
-Die Limonade war Whisky, die Schokolade eine grün schwarze
+Die Limonade war Whisky, die Schokolade eine grün-schwarze
 Brasil, Tetersitz eines jener Rauhbeine und Originale,
 wie sie in Schifferkreisen immer seltener werden.
 
@@ -621,7 +621,7 @@ Armer Tetersitz!!
 »Ja, Sie Öchslein mit Eichenlaub und Schwertern! Das
 stimmt!! — Los denn also … Mary muß her!!«
 
-»Himmel, — Sie ist ja schon weg, Mr. Harst …!«
+»Himmel. — Sie ist ja schon weg, Mr. Harst …!«
 
 »Weg?«
 
@@ -936,13 +936,13 @@ Ich folgte ihm, und die Blutspur führte mich durch den
 Kanal hierher. Hier war der Panther in eine Felsspalte
 gekrochen. Ich sah ihn, gab ihm den Fangschuß, und als
 ich ihn dann ins Freie zerren wollte, erblickte ich unten
-in der Höhle einen blaugrauen Sandstreifen, in dem Zahllose
+in der Höhle einen blaugrauen Sandstreifen, in dem zahllose
 Steinchen lagen: Edelsteine! Diamanten! — Da die
 Felsspalten dort drüben sehr zahlreich sind, fertigte ich eine
 Zeichnung an, um die richtige finden zu können, oder besser,
 damit Harry sie fände, mit dem ich mich vor anderthalb
 Jahren in England verheiratet hatte … Harry wird wieder
-aus dem Grabe auferstehen … Kaddami wird in aus
+aus dem Grabe auferstehen … Kaddami wird ihn aus
 Angst vor dem Scheiterhaufen lebendig machen. Wir wollen
 den Yogi wieder festbinden, Mr. Harst. Er ist ein Mörder.
 Er schickte die Briefe.«
@@ -1100,7 +1100,7 @@ eins noch zum Schluß: ein Zufall hat mich vorhin erfahren
 lassen, daß Trinas Mutter und ich uns sehr nahe standen …
 Deshalb werde ich das Kind mit mir nehmen …«
 
-Trina lächelte grünlich. »Wie gern folge ich dir, Onkel
+Trina lächelte glücklich. »Wie gern folge ich dir, Onkel
 Heinz, wie gern …!« —
 
 Harst fragte nichts weiter, sagte nichts weiter.
